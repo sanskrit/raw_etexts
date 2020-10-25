@@ -1,3 +1,4 @@
+
 ---
 title: Manu-Smrti
 
@@ -43,15 +44,6 @@ Different numbering of verses between M and K is noted.
 
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
-  
 मनु१।०१अ। मनुम् एकाग्रम् आसीनम् अभिगम्य) महर्षयः ।  
   
 मनु१।०१च्। प्रतिपूज्य) यथान्यायम् इदं वचनम् अब्रुवन्) ॥  
@@ -6017,1518 +6009,1518 @@ Different numbering of verses between M and K is noted.
   
 मनु८।५६च्। न च पूर्व।अपरं विद्यात् तस्माद् अर्थात् स हीयते) ॥  
   
-मनु८।५७अ। साक्षिणः सन्ति मेत्य् उक्त्वा) दिश)-इत्य् उक्तो दिशेन्) न यः । [म्।ज्ञातारः सन्ति मेत्य्*]  *{मेत्य् < ma ity ?}  
+मनु८।५७अ। साक्षिणः सन्ति मेत्य् उक्त्वा) दिश)-इत्य् उक्तो दिशेन्) न यः । [म्।ज्ञातारः सन्ति मेत्य्*]  *{मेत्य् < म इत्य् ?}  
   
-Manu8.57c/ dharmasthaḥ kāraṇair etair hīnaṃ tam api nirdiśet ]|| [M.tam iti nirdiśet)  
+मनु८।५७च्/ धर्मस्थः कारणैर् एतैर् हीनं तम् अपि निर्दिशेत् ]|| [म्।तम् इति निर्दिशेत्)  
   
-Manu8.58a/ abhiyoktā na ced brūyād) badhyo daṇḍyaś ca  dharmataḥ | [M.bandhyo daṇḍyaś ca]  
+मनु८।५८अ/ अभियोक्ता न चेद् ब्रूयाद्) बध्यो दण्ड्यश् च  धर्मतः | [म्।बन्ध्यो दण्ड्यश् च]  
   
-Manu8.58c/  na cet tripakṣāt prabrūyād) dharmaṃ prati parājitaḥ) ||  
+मनु८।५८च्/  न चेत् त्रिपक्षात् प्रब्रूयाद्) धर्मं प्रति पराजितः) ||  
   
-Manu8.59a/ yo yāvat-nihnuvīta)-arthaṃ mithyā yāvati vā vadet) |  
+मनु८।५९अ/ यो यावत्-निह्नुवीत)-अर्थं मिथ्या यावति वा वदेत्) |  
   
-Manu8.59c/ tau nṛpeṇa hy adharmajñau dāpyo) taddviguṇaṃ damam ||  
+मनु८।५९च्/ तौ नृपेण ह्य् अधर्मज्ञौ दाप्यो) तद्द्विगुणं दमम् ||  
   
   
   
-Manu8.60a/ pṛṣṭo) 'apavyayamānas) tu kṛta.avastho dhana.eṣiṇā |  
+मनु८।६०अ/ पृष्टो) ऽअपव्ययमानस्) तु कृत।अवस्थो धन।एषिणा |  
   
-Manu8.60c/ tryavaraiḥ sākṣibhir bhāvyo) nṛpa.brāhmaṇasaṃnidhau ||  
+मनु८।६०च्/ त्र्यवरैः साक्षिभिर् भाव्यो) नृप।ब्राह्मणसंनिधौ ||  
   
-Manu8.61a/ yādṛśā dhanibhiḥ kāryā) vyavahāreṣu sākṣiṇaḥ |  
+मनु८।६१अ/ यादृशा धनिभिः कार्या) व्यवहारेषु साक्षिणः |  
   
-Manu8.61c/ tādṛśān saṃpravakṣyāmi) yathā vācyam ṛtaṃ ca taiḥ ||  
+मनु८।६१च्/ तादृशान् संप्रवक्ष्यामि) यथा वाच्यम् ऋतं च तैः ||  
   
-Manu8.62a/ gṛhiṇaḥ putriṇo maulāḥ kṣatra.viś.śūdra.yonayaḥ |  
+मनु८।६२अ/ गृहिणः पुत्रिणो मौलाः क्षत्र।विश्।शूद्र।योनयः |  
   
-Manu8.62c/ arthyuktāḥ sākṣyam arhanti) na ye ke cid anāpadi ||  
+मनु८।६२च्/ अर्थ्युक्ताः साक्ष्यम् अर्हन्ति) न ये के चिद् अनापदि ||  
   
-Manu8.63a/ āptāḥ sarveṣu varṇeṣu kāryāḥ kāryeṣu sākṣiṇaḥ |  
+मनु८।६३अ/ आप्ताः सर्वेषु वर्णेषु कार्याः कार्येषु साक्षिणः |  
   
-Manu8.63c/ sarvadharmavido 'alubdhā viparītāṃs tu varjayet) ||  
+मनु८।६३च्/ सर्वधर्मविदो ऽअलुब्धा विपरीतांस् तु वर्जयेत्) ||  
   
-Manu8.64a/ na-arthasaṃbandhino na-āptā na sahāyā na vairiṇaḥ |  
+मनु८।६४अ/ न-अर्थसंबन्धिनो न-आप्ता न सहाया न वैरिणः |  
   
-Manu8.64c/ na dṛṣṭadoṣāḥ kartavyā na vyādhyārtā na dūṣitāḥ ||  
-Manu8.65a/ na sākṣī nṛpatiḥ kāryo na kāruka.kuśīlavau |  
+मनु८।६४च्/ न दृष्टदोषाः कर्तव्या न व्याध्यार्ता न दूषिताः ||  
+मनु८।६५अ/ न साक्षी नृपतिः कार्यो न कारुक।कुशीलवौ |  
   
-Manu8.65c/ na śrotriyo na liṅgastho na saṅgebhyo vinirgataḥ ||  
+मनु८।६५च्/ न श्रोत्रियो न लिङ्गस्थो न सङ्गेभ्यो विनिर्गतः ||  
   
-Manu8.66a/ na-adhyadhīno na vaktavyo na dasyur na vikarmakṛt |  
+मनु८।६६अ/ न-अध्यधीनो न वक्तव्यो न दस्युर् न विकर्मकृत् |  
   
-Manu8.66c/ na vṛddho na śiśur na-eko na-antyo na vikala.indriyaḥ ||  
+मनु८।६६च्/ न वृद्धो न शिशुर् न-एको न-अन्त्यो न विकल।इन्द्रियः ||  
   
-Manu8.67a/ na-ārto na matto na-unmatto na kṣut.tṛṣṇā.upapīḍitaḥ) |  
+मनु८।६७अ/ न-आर्तो न मत्तो न-उन्मत्तो न क्षुत्।तृष्णा।उपपीडितः) |  
   
-Manu8.67c/ na śramārto na kāmārto na kruddho na-api taskaraḥ ||  
+मनु८।६७च्/ न श्रमार्तो न कामार्तो न क्रुद्धो न-अपि तस्करः ||  
   
-Manu8.68a/ strīṇāṃ sākṣyaṃ striyaḥ kuryur) dvijānāṃ sadṛśā dvijāḥ |  
+मनु८।६८अ/ स्त्रीणां साक्ष्यं स्त्रियः कुर्युर्) द्विजानां सदृशा द्विजाः |  
   
-Manu8.68c/ śūdrāś ca santaḥ śūdrāṇām  antyānām antya.yonayaḥ ||  
+मनु८।६८च्/ शूद्राश् च सन्तः शूद्राणाम्  अन्त्यानाम् अन्त्य।योनयः ||  
   
-Manu8.69a/ anubhāvī tu yaḥ kaś cit kuryāt) sākṣyaṃ vivādinām |  
+मनु८।६९अ/ अनुभावी तु यः कश् चित् कुर्यात्) साक्ष्यं विवादिनाम् |  
   
-Manu8.69c/ antarveśmany araṇye vā śarīrasya-api ca-atyaye ||  
+मनु८।६९च्/ अन्तर्वेश्मन्य् अरण्ये वा शरीरस्य-अपि च-अत्यये ||  
   
-Manu8.70a/ striyā-apy asaṃbhāve kāryaṃ bālena sthavireṇa vā |  
+मनु८।७०अ/ स्त्रिया-अप्य् असंभावे कार्यं बालेन स्थविरेण वा |  
   
-Manu8.70c/ śiṣyeṇa bandhunā vā-api dāsena bhṛtakena vā ||  
+मनु८।७०च्/ शिष्येण बन्धुना वा-अपि दासेन भृतकेन वा ||  
   
-Manu8.71a/ bāla.vṛddha.āturāṇāṃ ca sākṣyeṣu vadatāṃ) mṛṣā |  
+मनु८।७१अ/ बाल।वृद्ध।आतुराणां च साक्ष्येषु वदतां) मृषा |  
   
-Manu8.71c/ jānīyād) asthirāṃ vācam utsikta.manasāṃ tathā ||  
+मनु८।७१च्/ जानीयाद्) अस्थिरां वाचम् उत्सिक्त।मनसां तथा ||  
   
-Manu8.72a/ sāhaseṣu ca sarveṣu steya.saṃgrahaṇeṣu ca |  
+मनु८।७२अ/ साहसेषु च सर्वेषु स्तेय।संग्रहणेषु च |  
   
-Manu8.72c/ vāg.daṇḍayoś ca pāruṣye na parīkṣeta) sākṣiṇaḥ ||  
+मनु८।७२च्/ वाग्।दण्डयोश् च पारुष्ये न परीक्षेत) साक्षिणः ||  
   
-Manu8.73a/ bahutvaṃ parigṛhṇīyāt) sākṣidvaidhe narādhipaḥ |  
+मनु८।७३अ/ बहुत्वं परिगृह्णीयात्) साक्षिद्वैधे नराधिपः |  
   
-Manu8.73c/ sameṣu tu guṇa.utkṛṣṭān guṇidvaidhe dvijottamān ||  
+मनु८।७३च्/ समेषु तु गुण।उत्कृष्टान् गुणिद्वैधे द्विजोत्तमान् ||  
   
-Manu8.74a/ samakṣadarśanāt sākṣyaṃ śravaṇāc ca-eva sidhyati) |  
+मनु८।७४अ/ समक्षदर्शनात् साक्ष्यं श्रवणाच् च-एव सिध्यति) |  
   
-Manu8.74c/ tatra satyaṃ bruvan) sākṣī dharma.arthābhyāṃ na hīyate) ||  
+मनु८।७४च्/ तत्र सत्यं ब्रुवन्) साक्षी धर्म।अर्थाभ्यां न हीयते) ||  
   
-Manu8.75a/ sākṣī dṛṣṭa.śrutād anyad vibruvann) āryasaṃsadi |  
+मनु८।७५अ/ साक्षी दृष्ट।श्रुताद् अन्यद् विब्रुवन्न्) आर्यसंसदि |  
   
-Manu8.75c/ avāṅ narakam abhyeti) pretya) svargāc ca hīyate) ||  
+मनु८।७५च्/ अवाङ् नरकम् अभ्येति) प्रेत्य) स्वर्गाच् च हीयते) ||  
   
-Manu8.76a/ yatra-anibaddho 'apīkṣeta) śṛṇuyād) vā-api kiṃ cana |  
+मनु८।७६अ/ यत्र-अनिबद्धो ऽअपीक्षेत) शृणुयाद्) वा-अपि किं चन |  
   
-Manu8.76c/ pṛṣṭas) tatra-api tad brūyād) yathādṛṣṭaṃ yathāśrutam ||  
+मनु८।७६च्/ पृष्टस्) तत्र-अपि तद् ब्रूयाद्) यथादृष्टं यथाश्रुतम् ||  
   
-Manu8.77a/ eko 'alubdhas tu sākṣī syād) bahvyaḥ śucyo 'api na striyaḥ |                                                       [M. tv asākṣī]  
+मनु८।७७अ/ एको ऽअलुब्धस् तु साक्षी स्याद्) बह्व्यः शुच्यो ऽअपि न स्त्रियः |                                                       [म्। त्व् असाक्षी]  
   
-Manu8.77c/ strībuddher asthiratvāt tu doṣaiś ca-anye 'api ye vṛtāḥ) ||  
+मनु८।७७च्/ स्त्रीबुद्धेर् अस्थिरत्वात् तु दोषैश् च-अन्ये ऽअपि ये वृताः) ||  
   
-Manu8.78a/ svabhāvena-eva yad brūyus) tad grāhyaṃ) vyāvahārikam |  
+मनु८।७८अ/ स्वभावेन-एव यद् ब्रूयुस्) तद् ग्राह्यं) व्यावहारिकम् |  
   
-Manu8.78c/ ato yad anyad vibrūyur) dharmārthaṃ tad apārthakam ||  
+मनु८।७८च्/ अतो यद् अन्यद् विब्रूयुर्) धर्मार्थं तद् अपार्थकम् ||  
   
   
   
-Manu8.79a/ sabhāntaḥ sākṣiṇaḥ prāptān arthi.pratyarthi.saṃnidhau |  
+मनु८।७९अ/ सभान्तः साक्षिणः प्राप्तान् अर्थि।प्रत्यर्थि।संनिधौ |  
   
-Manu8.79c/ prāḍvivāko 'anuyuñjīta) vidhinā-anena sāntvayan) ||                                                                     
+मनु८।७९च्/ प्राड्विवाको ऽअनुयुञ्जीत) विधिना-अनेन सान्त्वयन्) ||                                                                     
   
-Manu8.80a/ yad dvayor anayor vettha) kārye 'asmiṃś ceṣṭitaṃ mithaḥ |  
+मनु८।८०अ/ यद् द्वयोर् अनयोर् वेत्थ) कार्ये ऽअस्मिंश् चेष्टितं मिथः |  
   
-Manu8.80c/ tad brūta) sarvaṃ satyena yuṣmākaṃ hy atra sākṣitā ||  
+मनु८।८०च्/ तद् ब्रूत) सर्वं सत्येन युष्माकं ह्य् अत्र साक्षिता ||  
   
-Manu8.81a/ satyaṃ sākṣye bruvan) sākṣī lokān  āpnoty) puṣkalān | [M.āpnoty) aninditān]  
+मनु८।८१अ/ सत्यं साक्ष्ये ब्रुवन्) साक्षी लोकान्  आप्नोत्य्) पुष्कलान् | [म्।आप्नोत्य्) अनिन्दितान्]  
   
-Manu8.81c/ iha ca-an.uttamāṃ kīrtiṃ vāg eṣā brahmapūjitā ||  
+मनु८।८१च्/ इह च-अन्।उत्तमां कीर्तिं वाग् एषा ब्रह्मपूजिता ||  
   
-Manu8.82a/ sākṣye 'anṛtaṃ vadan) pāśair badhyate) vāruṇair bhṛśam |  
+मनु८।८२अ/ साक्ष्ये ऽअनृतं वदन्) पाशैर् बध्यते) वारुणैर् भृशम् |  
   
-Manu8.82c/ vivaśaḥ śatam ājātīs tasmāt sākṣyaṃ vaded) ṛtam ||  
+मनु८।८२च्/ विवशः शतम् आजातीस् तस्मात् साक्ष्यं वदेद्) ऋतम् ||  
   
-Manu8.83a/ satyena pūyate) sākṣī dharmaḥ satyena vardhate) |  
+मनु८।८३अ/ सत्येन पूयते) साक्षी धर्मः सत्येन वर्धते) |  
   
-Manu8.83c/ tasmāt satyaṃ hi vaktavyaṃ sarvavarṇeṣu sākṣibhiḥ ||  
+मनु८।८३च्/ तस्मात् सत्यं हि वक्तव्यं सर्ववर्णेषु साक्षिभिः ||  
   
-Manu8.84a/ ātmā-eva hy ātmanaḥ sākṣī gatir ātmā tathā-ātmanaḥ |  
+मनु८।८४अ/ आत्मा-एव ह्य् आत्मनः साक्षी गतिर् आत्मा तथा-आत्मनः |  
   
-Manu8.84c/ mā-avamaṃsthāḥ) svam ātmānaṃ nṛṇāṃ sākṣiṇam uttamam ||  
+मनु८।८४च्/ मा-अवमंस्थाः) स्वम् आत्मानं नृणां साक्षिणम् उत्तमम् ||  
   
-Manu8.85a/ manyante) vai pāpakṛto na kaś cit paśyati)-iti naḥ |  
+मनु८।८५अ/ मन्यन्ते) वै पापकृतो न कश् चित् पश्यति)-इति नः |  
   
-Manu8.85c/ tāṃs tu devāḥ prapaśyanti) svasya-eva-antarapūruṣaḥ ||  
+मनु८।८५च्/ तांस् तु देवाः प्रपश्यन्ति) स्वस्य-एव-अन्तरपूरुषः ||  
   
-Manu8.86a/ dyaur bhūmir āpo hṛdayaṃ candra.arka.agni.yama.anilāḥ |  
+मनु८।८६अ/ द्यौर् भूमिर् आपो हृदयं चन्द्र।अर्क।अग्नि।यम।अनिलाः |  
   
-Manu8.86c/ rātriḥ saṃdhye ca dharmaś ca vṛttajñāḥ sarvadehinām ||  
+मनु८।८६च्/ रात्रिः संध्ये च धर्मश् च वृत्तज्ञाः सर्वदेहिनाम् ||  
   
-Manu8.87a/ deva.brāhmaṇasāṃnidhye sākṣyaṃ pṛcched) ṛtaṃ dvijān |  
+मनु८।८७अ/ देव।ब्राह्मणसांनिध्ये साक्ष्यं पृच्छेद्) ऋतं द्विजान् |  
   
-Manu8.87c/ udaṅ.mukhān prāṅ.mukhān vā pūrvāhṇe vai śuciḥ śucīn ||  
+मनु८।८७च्/ उदङ्।मुखान् प्राङ्।मुखान् वा पूर्वाह्णे वै शुचिः शुचीन् ||  
   
-Manu8.88a/ brūhi)-iti brāhmaṇaṃ pṛcchet) satyaṃ brūhi)-iti pārthivam |  
+मनु८।८८अ/ ब्रूहि)-इति ब्राह्मणं पृच्छेत्) सत्यं ब्रूहि)-इति पार्थिवम् |  
   
-Manu8.88c/ go.bīja.kāñcanair vaiśyaṃ śūdraṃ sarvais tu pātakaiḥ ||  
+मनु८।८८च्/ गो।बीज।काञ्चनैर् वैश्यं शूद्रं सर्वैस् तु पातकैः ||  
   
-Manu8.89a/ brahmaghno ye smṛtā lokā ye ca strī.bāla.ghātinaḥ |  
+मनु८।८९अ/ ब्रह्मघ्नो ये स्मृता लोका ये च स्त्री।बाल।घातिनः |  
   
-Manu8.89c/ mitradruhaḥ kṛta.ghnasya te te syur) bruvato) mṛṣā ||  
+मनु८।८९च्/ मित्रद्रुहः कृत।घ्नस्य ते ते स्युर्) ब्रुवतो) मृषा ||  
   
-Manu8.90a/ janmaprabhṛti yat kiṃ cit puṇyaṃ bhadra tvayā kṛtam) |  
+मनु८।९०अ/ जन्मप्रभृति यत् किं चित् पुण्यं भद्र त्वया कृतम्) |  
   
-Manu8.90c/ tat te sarvaṃ śuno gacched) yadi brūyās) tvam anyathā ||  
+मनु८।९०च्/ तत् ते सर्वं शुनो गच्छेद्) यदि ब्रूयास्) त्वम् अन्यथा ||  
   
-Manu8.91a/ eko 'aham asmi)-ity ātmānaṃ yas tvaṃ kalyāṇa manyase) |  
+मनु८।९१अ/ एको ऽअहम् अस्मि)-इत्य् आत्मानं यस् त्वं कल्याण मन्यसे) |  
   
-Manu8.91c/ nityaṃ sthitas) te hṛdy eṣa puṇya.pāpa.īkṣitā muniḥ ||  
+मनु८।९१च्/ नित्यं स्थितस्) ते हृद्य् एष पुण्य।पाप।ईक्षिता मुनिः ||  
   
-Manu8.92a/ yamo vaivasvato devo yas tava-eṣa hṛdi sthitaḥ) |  
+मनु८।९२अ/ यमो वैवस्वतो देवो यस् तव-एष हृदि स्थितः) |  
   
-Manu8.92c/ tena ced avivādas te mā gaṅgāṃ mā kurūn gamaḥ) ||  
+मनु८।९२च्/ तेन चेद् अविवादस् ते मा गङ्गां मा कुरून् गमः) ||  
   
-Manu8.93a/ nagno muṇḍaḥ kapālena ca bhikṣārthī kṣut.pipāsitaḥ | [M.kapālī ]  
+मनु८।९३अ/ नग्नो मुण्डः कपालेन च भिक्षार्थी क्षुत्।पिपासितः | [म्।कपाली ]  
   
-Manu8.93c/ andhaḥ śatrukulaṃ gacched) yaḥ sākṣyam anṛtaṃ vadet) ||  
+मनु८।९३च्/ अन्धः शत्रुकुलं गच्छेद्) यः साक्ष्यम् अनृतं वदेत्) ||  
   
-Manu8.94a/ avāk.śirās tamasy andhe kilbiṣī narakaṃ vrajet) |  
+मनु८।९४अ/ अवाक्।शिरास् तमस्य् अन्धे किल्बिषी नरकं व्रजेत्) |  
   
-Manu8.94c/ yaḥ praśnaṃ vitathaṃ brūyāt) pṛṣṭaḥ san) dharmaniścaye ||  
+मनु८।९४च्/ यः प्रश्नं वितथं ब्रूयात्) पृष्टः सन्) धर्मनिश्चये ||  
   
-Manu8.95a/ andho matsyān iva-aśnāti) sa naraḥ kaṇṭakaiḥ saha |  
+मनु८।९५अ/ अन्धो मत्स्यान् इव-अश्नाति) स नरः कण्टकैः सह |  
   
-Manu8.95c/ yo bhāṣate) 'arthavaikalyam a.pratyakṣaṃ sabhāṃ gataḥ) ||  
+मनु८।९५च्/ यो भाषते) ऽअर्थवैकल्यम् अ।प्रत्यक्षं सभां गतः) ||  
   
-Manu8.96a/ yasya vidvān hi vadataḥ) kṣetrajño na-abhiśaṅkate ]| [M.na-atiśaṅkate)  
+मनु८।९६अ/ यस्य विद्वान् हि वदतः) क्षेत्रज्ञो न-अभिशङ्कते ]| [म्।न-अतिशङ्कते)  
   
-Manu8.96c/ tasmān na devāḥ śreyāṃsaṃ loke 'anyaṃ puruṣaṃ viduḥ) ||  
+मनु८।९६च्/ तस्मान् न देवाः श्रेयांसं लोके ऽअन्यं पुरुषं विदुः) ||  
   
-Manu8.97a/ yāvato bāndhavān yasmin hanti) sākṣye 'anṛtaṃ vadan) |  
+मनु८।९७अ/ यावतो बान्धवान् यस्मिन् हन्ति) साक्ष्ये ऽअनृतं वदन्) |  
   
-Manu8.97c/ tāvataḥ saṃkhyayā tasmin śṛṇu) saumya-anupūrvaśaḥ ||  
+मनु८।९७च्/ तावतः संख्यया तस्मिन् शृणु) सौम्य-अनुपूर्वशः ||  
   
-Manu8.98a/ pañca paśu.anṛte hanti) daśa hanti) gavānṛte |  
+मनु८।९८अ/ पञ्च पशु।अनृते हन्ति) दश हन्ति) गवानृते |  
   
-Manu8.98c/ śatam aśvānṛte hanti) sahasraṃ puruṣānṛte ||  
+मनु८।९८च्/ शतम् अश्वानृते हन्ति) सहस्रं पुरुषानृते ||  
   
-Manu8.99a/ hanti) jātān ajātāṃś ca hiraṇyārthe 'anṛtaṃ vadan) |  
+मनु८।९९अ/ हन्ति) जातान् अजातांश् च हिरण्यार्थे ऽअनृतं वदन्) |  
   
-Manu8.99c/ sarvaṃ bhūmi.anṛte hanti) mā sma bhūmi.anṛtaṃ vadīḥ) ||  
+मनु८।९९च्/ सर्वं भूमि।अनृते हन्ति) मा स्म भूमि।अनृतं वदीः) ||  
   
-Manu8.100a/ apsu bhūmivad ity āhuḥ) strīṇāṃ bhoge ca maithune |  
+मनु८।१००अ/ अप्सु भूमिवद् इत्य् आहुः) स्त्रीणां भोगे च मैथुने |  
   
-Manu8.100c/ abjeṣu ca-eva ratneṣu sarveṣv aśmamayeṣu ca ||  
+मनु८।१००च्/ अब्जेषु च-एव रत्नेषु सर्वेष्व् अश्ममयेषु च ||  
   
-Manu8.101a/ etān doṣān avekṣya) tvaṃ sarvān anṛtabhāṣaṇe |  
+मनु८।१०१अ/ एतान् दोषान् अवेक्ष्य) त्वं सर्वान् अनृतभाषणे |  
   
-Manu8.101c/ yathāśrutaṃ yathādṛṣṭaṃ sarvam eva-añjasā vada) ||  
-Manu8.102a/ gorakṣakān vāṇijikāṃs  tathā kāru.kuśīlavān | [M.vāṇijakāṃs]  
+मनु८।१०१च्/ यथाश्रुतं यथादृष्टं सर्वम् एव-अञ्जसा वद) ||  
+मनु८।१०२अ/ गोरक्षकान् वाणिजिकांस्  तथा कारु।कुशीलवान् | [म्।वाणिजकांस्]  
   
-Manu8.102c/ preṣyān vārdhuṣikāṃś ca-eva viprān śūdravad ācaret) ||  
+मनु८।१०२च्/ प्रेष्यान् वार्धुषिकांश् च-एव विप्रान् शूद्रवद् आचरेत्) ||  
   
   
   
-Manu8.103a/ tad vadan dharmato 'artheṣu jānann) apy anythā naraḥ |  
+मनु८।१०३अ/ तद् वदन् धर्मतो ऽअर्थेषु जानन्न्) अप्य् अन्य्था नरः |  
   
-Manu8.103c/ na svargāc cyavate) lokād daivīṃ vācaṃ vadanti) tām ||  
+मनु८।१०३च्/ न स्वर्गाच् च्यवते) लोकाद् दैवीं वाचं वदन्ति) ताम् ||  
   
-Manu8.104a/ śūdra.viś.kṣatra.viprāṇāṃ yatra-ṛta.uktau bhaved) vadhaḥ |  
+मनु८।१०४अ/ शूद्र।विश्।क्षत्र।विप्राणां यत्र-ऋत।उक्तौ भवेद्) वधः |  
   
-Manu8.104c/ tatra vaktavyam anṛtaṃ tadd hi satyād viśiṣyate) ||  
+मनु८।१०४च्/ तत्र वक्तव्यम् अनृतं तद्द् हि सत्याद् विशिष्यते) ||  
   
-Manu8.105a/ vāc.daivatyaiś ca carubhir yajeraṃs) te sarasvatīm |  
+मनु८।१०५अ/ वाच्।दैवत्यैश् च चरुभिर् यजेरंस्) ते सरस्वतीम् |  
   
-Manu8.105c/ anṛtasya-enasas tasya kurvāṇā) niṣkṛtiṃ parām ||  
+मनु८।१०५च्/ अनृतस्य-एनसस् तस्य कुर्वाणा) निष्कृतिं पराम् ||  
   
-Manu8.106a/ kūṣmāṇḍair vā-api juhuyād) ghṛtam agnau yathāvidhi | [ṭA10.3-5; Vṣ20.14]  
+मनु८।१०६अ/ कूष्माण्डैर् वा-अपि जुहुयाद्) घृतम् अग्नौ यथाविधि | [ट१०।३-५; व्ष्२०।१४]  
   
-Manu8.106c/ ud ity ṛcā vā vāruṇyā tṛcena-ap.daivatena vā || [ṛṣ1.24.15; 10.9.1-3; Vṣ12.2;Vṣ12.50]  
+मनु८।१०६च्/ उद् इत्य् ऋचा वा वारुण्या तृचेन-अप्।दैवतेन वा || [ऋष्१।२४।१५; १०।९।१-३; व्ष्१२।२;व्ष्१२।५०]  
   
   
   
-Manu8.107a/ tripakṣād abruvan sākṣyam ṛṇādiṣu naro 'a.gadaḥ |  
+मनु८।१०७अ/ त्रिपक्षाद् अब्रुवन् साक्ष्यम् ऋणादिषु नरो ऽअ।गदः |  
   
-Manu8.107c/ tadṛṇaṃ prāpnuyāt) sarvaṃ daśabandhaṃ ca sarvataḥ ||  
+मनु८।१०७च्/ तदृणं प्राप्नुयात्) सर्वं दशबन्धं च सर्वतः ||  
   
-Manu8.108a/ yasya dṛśyeta) saptāhād ukta.vākyasya sākṣiṇaḥ |  
+मनु८।१०८अ/ यस्य दृश्येत) सप्ताहाद् उक्त।वाक्यस्य साक्षिणः |  
   
-Manu8.108c/ rogo 'agnir jñātimaraṇam ṛṇaṃ dāpyo) damaṃ ca saḥ ||  
+मनु८।१०८च्/ रोगो ऽअग्निर् ज्ञातिमरणम् ऋणं दाप्यो) दमं च सः ||  
   
   
   
-Manu8.109a/ asākṣikeṣu tv artheṣu mitho vivādamānayoḥ) |  
+मनु८।१०९अ/ असाक्षिकेषु त्व् अर्थेषु मिथो विवादमानयोः) |  
   
-Manu8.109c/ avindaṃs) tattvataḥ satyaṃ śapathena-api lambhayet) ||  
+मनु८।१०९च्/ अविन्दंस्) तत्त्वतः सत्यं शपथेन-अपि लम्भयेत्) ||  
   
-Manu8.110a/ maharṣibhiś ca devaiś ca kāryārthaṃ śapathāḥ kṛtāḥ) |  
+मनु८।११०अ/ महर्षिभिश् च देवैश् च कार्यार्थं शपथाः कृताः) |  
   
-Manu8.110c/ vasiṣṭhaś ca-api śapathaṃ śepe) paijavane nṛpe ||  
+मनु८।११०च्/ वसिष्ठश् च-अपि शपथं शेपे) पैजवने नृपे ||  
   
-Manu8.111a/ na vṛthā śapathaṃ kuryāt) svalpe 'apy arthe naro budhaḥ |  
+मनु८।१११अ/ न वृथा शपथं कुर्यात्) स्वल्पे ऽअप्य् अर्थे नरो बुधः |  
   
-Manu8.111c/ vṛthā hi śapathaṃ kurvan) pretya ca-iha ca naśyati) |  
+मनु८।१११च्/ वृथा हि शपथं कुर्वन्) प्रेत्य च-इह च नश्यति) |  
   
-Manu8.112a/ kāminīṣu vivāheṣu gavāṃ bhakṣye tathā-indhane |  
+मनु८।११२अ/ कामिनीषु विवाहेषु गवां भक्ष्ये तथा-इन्धने |  
   
-Manu8.112c/ brāhmaṇa.abhyupapattau ca śapathe na-asti) pātakam ||  
+मनु८।११२च्/ ब्राह्मण।अभ्युपपत्तौ च शपथे न-अस्ति) पातकम् ||  
   
-Manu8.113a/ satyena śāpayed) vipraṃ kṣatriyaṃ vāhana.āyudhaiḥ |  
+मनु८।११३अ/ सत्येन शापयेद्) विप्रं क्षत्रियं वाहन।आयुधैः |  
   
-Manu8.113c/ go.bīja.kāñcanair vaiśyaṃ śūdraṃ sarvais tu pātakaiḥ ||  
+मनु८।११३च्/ गो।बीज।काञ्चनैर् वैश्यं शूद्रं सर्वैस् तु पातकैः ||  
   
-Manu8.114a/ agniṃ vā-āhārayed) enam apsu ca-enaṃ nimajjayet) |  
+मनु८।११४अ/ अग्निं वा-आहारयेद्) एनम् अप्सु च-एनं निमज्जयेत्) |  
   
-Manu8.114c/ putra.dārasya vā-apy enaṃ śirāṃsi sparśayet) pṛthak ||  
+मनु८।११४च्/ पुत्र।दारस्य वा-अप्य् एनं शिरांसि स्पर्शयेत्) पृथक् ||  
   
-Manu8.115a/ yam iddho) na dahaty) agnir āpo na-unmajjayanti) ca |  
+मनु८।११५अ/ यम् इद्धो) न दहत्य्) अग्निर् आपो न-उन्मज्जयन्ति) च |  
   
-Manu8.115c/ na ca-ārtim ṛcchati) kṣipraṃ sa jñeyaḥ) śapathe śuciḥ ||  
+मनु८।११५च्/ न च-आर्तिम् ऋच्छति) क्षिप्रं स ज्ञेयः) शपथे शुचिः ||  
   
-Manu8.116a/ vatsasya hy abhiśastasya) purā bhrātrā yavīyasā |  
+मनु८।११६अ/ वत्सस्य ह्य् अभिशस्तस्य) पुरा भ्रात्रा यवीयसा |  
   
-Manu8.116c/ na-agnir dadāha) roma-api satyena jagataḥ spaśaḥ ||  
+मनु८।११६च्/ न-अग्निर् ददाह) रोम-अपि सत्येन जगतः स्पशः ||  
   
   
   
-Manu8.117a/ yasmin yasmin vivāde tu kauṭasākṣyaṃ kṛtaṃ bhavet) |  
+मनु८।११७अ/ यस्मिन् यस्मिन् विवादे तु कौटसाक्ष्यं कृतं भवेत्) |  
   
-Manu8.117c/ tat tat kāryaṃ nivarteta) kṛtaṃ ca-apy akṛtaṃ bhavet) ||  
+मनु८।११७च्/ तत् तत् कार्यं निवर्तेत) कृतं च-अप्य् अकृतं भवेत्) ||  
   
-Manu8.118a/ lobhāt-mohād bhayāt-maitrāt kāmāt krodhāt tathā-eva ca |  
+मनु८।११८अ/ लोभात्-मोहाद् भयात्-मैत्रात् कामात् क्रोधात् तथा-एव च |  
   
-Manu8.118c/ ajñānād bālabhāvāt-ca sākṣyaṃ vitatham ucyate) |  
+मनु८।११८च्/ अज्ञानाद् बालभावात्-च साक्ष्यं वितथम् उच्यते) |  
   
-Manu8.119a/ eṣām anyatame sthāne yaḥ sākṣyam anṛtaṃ vadet) |  
+मनु८।११९अ/ एषाम् अन्यतमे स्थाने यः साक्ष्यम् अनृतं वदेत्) |  
   
-Manu8.119c/ tasya daṇḍaviśeṣāṃs tu pravakṣyāmy) anupūrvaśaḥ ||  
+मनु८।११९च्/ तस्य दण्डविशेषांस् तु प्रवक्ष्याम्य्) अनुपूर्वशः ||  
   
-Manu8.120a/ lobhāt sahasraṃ daṇḍyas tu mohāt pūrvaṃ tu sāhasam |  
+मनु८।१२०अ/ लोभात् सहस्रं दण्ड्यस् तु मोहात् पूर्वं तु साहसम् |  
   
-Manu8.120c/ bhayād dvau madhyamau daṇḍau maitrāt pūrvaṃ caturguṇam ||  
-Manu8.121a/ kāmād daśaguṇaṃ pūrvaṃ krodhāt tu triguṇaṃ param |  
+मनु८।१२०च्/ भयाद् द्वौ मध्यमौ दण्डौ मैत्रात् पूर्वं चतुर्गुणम् ||  
+मनु८।१२१अ/ कामाद् दशगुणं पूर्वं क्रोधात् तु त्रिगुणं परम् |  
   
-Manu8.121c/ ajñānād dve śate pūrṇe bāliśyāt-śatam eva tu ||  
+मनु८।१२१च्/ अज्ञानाद् द्वे शते पूर्णे बालिश्यात्-शतम् एव तु ||  
   
-Manu8.122a/ etān āhuḥ) kauṭasākṣye proktān) daṇḍān manīṣibhiḥ |  
+मनु८।१२२अ/ एतान् आहुः) कौटसाक्ष्ये प्रोक्तान्) दण्डान् मनीषिभिः |  
   
-Manu8.122c/ dharmasya-avyabhicārārtham adharmaniyamāya ca ||  
+मनु८।१२२च्/ धर्मस्य-अव्यभिचारार्थम् अधर्मनियमाय च ||  
   
-Manu8.123a/ kauṭasākṣyaṃ tu kurvāṇāṃs) trīn varṇān dhārmiko nṛpaḥ |  
+मनु८।१२३अ/ कौटसाक्ष्यं तु कुर्वाणांस्) त्रीन् वर्णान् धार्मिको नृपः |  
   
-Manu8.123c/ pravāsayed) daṇḍayitvā) brāhmaṇaṃ tu vivāsayet) ||  
+मनु८।१२३च्/ प्रवासयेद्) दण्डयित्वा) ब्राह्मणं तु विवासयेत्) ||  
   
   
   
-Manu8.124a/ daśa sthānāni daṇḍasya manuḥ svayaṃbhuvo 'abravīt) |  
+मनु८।१२४अ/ दश स्थानानि दण्डस्य मनुः स्वयंभुवो ऽअब्रवीत्) |  
   
-Manu8.124c/ triṣu varṇeṣu yāni syur) akṣato brāhmaṇo vrajet) ||  
+मनु८।१२४च्/ त्रिषु वर्णेषु यानि स्युर्) अक्षतो ब्राह्मणो व्रजेत्) ||  
   
-Manu8.125a/ upastham udaraṃ jihvā hastau pādau ca pañcamam |  
+मनु८।१२५अ/ उपस्थम् उदरं जिह्वा हस्तौ पादौ च पञ्चमम् |  
   
-Manu8.125c/ cakṣur nāsā ca karṇau ca dhanaṃ dehas tathā-eva ca ||  
+मनु८।१२५च्/ चक्षुर् नासा च कर्णौ च धनं देहस् तथा-एव च ||  
   
-Manu8.126a/ anubandhaṃ parijñāya) deśa.kālau ca tattvataḥ |  
+मनु८।१२६अ/ अनुबन्धं परिज्ञाय) देश।कालौ च तत्त्वतः |  
   
-Manu8.126c/ sāra.aparādho ca-ālokya) daṇḍaṃ daṇḍyeṣu pātayet) ||  
+मनु८।१२६च्/ सार।अपराधो च-आलोक्य) दण्डं दण्ड्येषु पातयेत्) ||  
   
-Manu8.127a/ adharmadaṇḍanaṃ loke yaśoghnaṃ kīrtināśanam |  
+मनु८।१२७अ/ अधर्मदण्डनं लोके यशोघ्नं कीर्तिनाशनम् |  
   
-Manu8.127c/ asvargyaṃ ca paratra-api tasmāt tat parivarjayet) ||  
+मनु८।१२७च्/ अस्वर्ग्यं च परत्र-अपि तस्मात् तत् परिवर्जयेत्) ||  
   
-Manu8.128a/ adaṇḍyān daṇḍayan) rājā daṇḍyāṃś ca-eva-apy adaṇḍayan) |  
+मनु८।१२८अ/ अदण्ड्यान् दण्डयन्) राजा दण्ड्यांश् च-एव-अप्य् अदण्डयन्) |  
   
-Manu8.128c/ ayaśo mahad āpnoti) narakaṃ ca-eva gacchati) ||  
+मनु८।१२८च्/ अयशो महद् आप्नोति) नरकं च-एव गच्छति) ||  
   
-Manu8.129a/ vāgdaṇḍaṃ prathamaṃ kuryād) dhigdaṇḍaṃ tadanantaram |  
+मनु८।१२९अ/ वाग्दण्डं प्रथमं कुर्याद्) धिग्दण्डं तदनन्तरम् |  
   
-Manu8.129c/ tṛtīyaṃ dhanadaṇḍaṃ tu vadhadaṇḍam ataḥ param ||  
+मनु८।१२९च्/ तृतीयं धनदण्डं तु वधदण्डम् अतः परम् ||  
   
-Manu8.130a/ vadhena-api yadā tv etān nigrahītuṃ) na śaknuyāt) |  
+मनु८।१३०अ/ वधेन-अपि यदा त्व् एतान् निग्रहीतुं) न शक्नुयात्) |  
   
-Manu8.130c/ tadā-eṣu sarvam apy etat prayuñjīta) catuṣṭayam ||  
+मनु८।१३०च्/ तदा-एषु सर्वम् अप्य् एतत् प्रयुञ्जीत) चतुष्टयम् ||  
   
   
   
-Manu8.131a/ lokasaṃvyavahārārthaṃ yāḥ saṃjñāḥ prathitā) bhuvi |  
+मनु८।१३१अ/ लोकसंव्यवहारार्थं याः संज्ञाः प्रथिता) भुवि |  
   
-Manu8.131c/ tāmra.rūpya.suvarṇānāṃ tāḥ pravakṣyāmy) aśeṣataḥ ||  
+मनु८।१३१च्/ ताम्र।रूप्य।सुवर्णानां ताः प्रवक्ष्याम्य्) अशेषतः ||  
   
-Manu8.132a/ jālāntaragate bhānau yat sūkṣmaṃ dṛśyate) rajaḥ |  
+मनु८।१३२अ/ जालान्तरगते भानौ यत् सूक्ष्मं दृश्यते) रजः |  
   
-Manu8.132c/ prathamaṃ tat pramāṇānāṃ trasareṇuṃ pracakṣate) ||  
+मनु८।१३२च्/ प्रथमं तत् प्रमाणानां त्रसरेणुं प्रचक्षते) ||  
   
-Manu8.133a/ trasareṇavo 'aṣṭau vijñeyā) likṣā-ekā parimāṇataḥ |  
+मनु८।१३३अ/ त्रसरेणवो ऽअष्टौ विज्ञेया) लिक्षा-एका परिमाणतः |  
   
-Manu8.133c/ tā rājasarṣapas tisras te trayo gaurasarṣapaḥ ||  
+मनु८।१३३च्/ ता राजसर्षपस् तिस्रस् ते त्रयो गौरसर्षपः ||  
   
-Manu8.134a/ sarṣapāḥ ṣaḍ yavo madhyas triyavaṃ tv ekakṛṣṇalam |  
+मनु८।१३४अ/ सर्षपाः षड् यवो मध्यस् त्रियवं त्व् एककृष्णलम् |  
   
-Manu8.134c/ pañcakṛṣṇalako māṣas te suvarṇas tu ṣoḍaśa ||  
+मनु८।१३४च्/ पञ्चकृष्णलको माषस् ते सुवर्णस् तु षोडश ||  
   
-Manu8.135a/ palaṃ suvarṇāś catvāraḥ palāni dharaṇaṃ daśa |  
+मनु८।१३५अ/ पलं सुवर्णाश् चत्वारः पलानि धरणं दश |  
   
-Manu8.135c/ dve kṛṣṇale samadhṛte vijñeyo) raupyamāṣakaḥ || [M.rūpyamāṣakaḥ ]  
+मनु८।१३५च्/ द्वे कृष्णले समधृते विज्ञेयो) रौप्यमाषकः || [म्।रूप्यमाषकः ]  
   
-Manu8.136a/ te ṣoḍaśa syād) dharaṇaṃ purāṇaś ca-eva rājataḥ |  
+मनु८।१३६अ/ ते षोडश स्याद्) धरणं पुराणश् च-एव राजतः |  
   
-Manu8.136c/ kārṣāpaṇas tu vijñeyas) tāmrikaḥ kārṣikaḥ paṇaḥ ||  
+मनु८।१३६च्/ कार्षापणस् तु विज्ञेयस्) ताम्रिकः कार्षिकः पणः ||  
   
-Manu8.137a/ dharaṇāni daśa jñeyaḥ) śatamānas tu rājataḥ |  
+मनु८।१३७अ/ धरणानि दश ज्ञेयः) शतमानस् तु राजतः |  
   
-Manu8.137c/ catuḥsauvarṇiko niṣko vijñeyas) tu pramāṇataḥ ||  
+मनु८।१३७च्/ चतुःसौवर्णिको निष्को विज्ञेयस्) तु प्रमाणतः ||  
   
   
   
-Manu8.138a/ paṇānāṃ dve śate sārdhe prathamaḥ sāhasaḥ smṛtaḥ) |   
+मनु८।१३८अ/ पणानां द्वे शते सार्धे प्रथमः साहसः स्मृतः) |   
   
-Manu8.138c/ madhyamaḥ pañca vijñeyaḥ) sahasraṃ tv eva ca-uttamaḥ ||  
+मनु८।१३८च्/ मध्यमः पञ्च विज्ञेयः) सहस्रं त्व् एव च-उत्तमः ||  
   
-Manu8.139a/ ṛṇe deye pratijñāte pañcakaṃ śatam arhati |   
+मनु८।१३९अ/ ऋणे देये प्रतिज्ञाते पञ्चकं शतम् अर्हति |   
   
-Manu8.139c/ apahnave taddviguṇaṃ tan manor anuśāsanam ||  
+मनु८।१३९च्/ अपह्नवे तद्द्विगुणं तन् मनोर् अनुशासनम् ||  
   
   
   
-Manu8.140a/ vasiṣṭhavihitāṃ vṛddhiṃ sṛjed) vittavivardhinīm |  
+मनु८।१४०अ/ वसिष्ठविहितां वृद्धिं सृजेद्) वित्तविवर्धिनीम् |  
   
-Manu8.140c/ aśītibhāgaṃ gṛhṇīyān) māsād vārdhuṣikaḥ śate ||  
+मनु८।१४०च्/ अशीतिभागं गृह्णीयान्) मासाद् वार्धुषिकः शते ||  
   
-Manu8.141a/ dvikaṃ śataṃ vā gṛhṇīyāt) satāṃ dharmam anusmaran) |  
+मनु८।१४१अ/ द्विकं शतं वा गृह्णीयात्) सतां धर्मम् अनुस्मरन्) |  
   
-Manu8.141c/ dvikaṃ śataṃ hi gṛhṇāno) na bhavaty) arthakilbiṣī ||  
+मनु८।१४१च्/ द्विकं शतं हि गृह्णानो) न भवत्य्) अर्थकिल्बिषी ||  
   
-Manu8.142a/ dvikaṃ trikaṃ catuṣkaṃ ca pañcakaṃ ca śataṃ samam |  
+मनु८।१४२अ/ द्विकं त्रिकं चतुष्कं च पञ्चकं च शतं समम् |  
   
-Manu8.142c/ māsasya vṛddhiṃ gṛhṇīyād) varṇānām anupūrvaśaḥ ||  
+मनु८।१४२च्/ मासस्य वृद्धिं गृह्णीयाद्) वर्णानाम् अनुपूर्वशः ||  
   
-Manu8.143a/ na tv eva-ādhau sa.upakāre kausīdīṃ vṛddhim āpnuyāt) |  
+मनु८।१४३अ/ न त्व् एव-आधौ स।उपकारे कौसीदीं वृद्धिम् आप्नुयात्) |  
   
-Manu8.143c/ na ca-ādheḥ kālasaṃrodhāt-nisargo 'asti) na vikrayaḥ ||  
+मनु८।१४३च्/ न च-आधेः कालसंरोधात्-निसर्गो ऽअस्ति) न विक्रयः ||  
   
-Manu8.144a/ na bhoktavyo) balād ādhir bhuñjāno) vṛddhim utsṛjet) |  
+मनु८।१४४अ/ न भोक्तव्यो) बलाद् आधिर् भुञ्जानो) वृद्धिम् उत्सृजेत्) |  
   
-Manu8.144c/ mūlyena toṣayec) ca-enam ādhisteno 'anyathā bhavet) ||  
+मनु८।१४४च्/ मूल्येन तोषयेच्) च-एनम् आधिस्तेनो ऽअन्यथा भवेत्) ||  
   
   
   
-Manu8.145a/ ādhiś ca-upanidhiś ca-ubhau na kālātyayam arhataḥ) |  
+मनु८।१४५अ/ आधिश् च-उपनिधिश् च-उभौ न कालात्ययम् अर्हतः) |  
   
-Manu8.145c/ avahāryau bhavetāṃ) tau dīrghakālam avasthitau) ||  
+मनु८।१४५च्/ अवहार्यौ भवेतां) तौ दीर्घकालम् अवस्थितौ) ||  
   
-Manu8.146a/ saṃprītyā bhujyamānāni) na naśyanti) kadā cana |  
+मनु८।१४६अ/ संप्रीत्या भुज्यमानानि) न नश्यन्ति) कदा चन |  
   
-Manu8.146c/ dhenur uṣṭro vahann aśvo yaś ca damyaḥ prayujyate) ||  
+मनु८।१४६च्/ धेनुर् उष्ट्रो वहन्न् अश्वो यश् च दम्यः प्रयुज्यते) ||  
   
-Manu8.147a/ yat kiṃ cid daśavarṣāṇi saṃnidhau prekṣate) dhanī |  
+मनु८।१४७अ/ यत् किं चिद् दशवर्षाणि संनिधौ प्रेक्षते) धनी |  
   
-Manu8.147c/ bhujyamānaṃ) parais tūṣṇīṃ na sa tat-labdhum arhati) ||  
+मनु८।१४७च्/ भुज्यमानं) परैस् तूष्णीं न स तत्-लब्धुम् अर्हति) ||  
   
-Manu8.148a/ ajaḍaś ced apogaṇḍo viṣaye ca-asya bhujyate) |  
+मनु८।१४८अ/ अजडश् चेद् अपोगण्डो विषये च-अस्य भुज्यते) |  
   
-Manu8.148c/ bhagnaṃ tad vyavahāreṇa bhoktā tad dravyam arhati || [M.tad dhanam arhati)]  
+मनु८।१४८च्/ भग्नं तद् व्यवहारेण भोक्ता तद् द्रव्यम् अर्हति || [म्।तद् धनम् अर्हति)]  
   
-Manu8.149a/ ādhiḥ sīmā bāladhanaṃ nikṣepa.upanidhiḥ striyaḥ | [M.nikṣepa.upanidhī]  
+मनु८।१४९अ/ आधिः सीमा बालधनं निक्षेप।उपनिधिः स्त्रियः | [म्।निक्षेप।उपनिधी]  
   
-Manu8.149c/ rājasvaṃ śrotriyasvaṃ ca na bhogena praṇaśyati) ||  
+मनु८।१४९च्/ राजस्वं श्रोत्रियस्वं च न भोगेन प्रणश्यति) ||  
   
   
   
-Manu8.150a/ yaḥ svāminā-ananujñātam) ādhiṃ bhūṅkte) 'avicakṣaṇaḥ |  
+मनु८।१५०अ/ यः स्वामिना-अननुज्ञातम्) आधिं भूङ्क्ते) ऽअविचक्षणः |  
   
-Manu8.150c/ tena-ardhavṛddhir moktavyā) tasya bhogasya niṣkṛtiḥ ||  
+मनु८।१५०च्/ तेन-अर्धवृद्धिर् मोक्तव्या) तस्य भोगस्य निष्कृतिः ||  
   
-Manu8.151a/ kusīdavṛddhir dvaiguṇyaṃ na-atyeti) sakṛd āhṛtā | [M.sakṛd āhitā)]  
+मनु८।१५१अ/ कुसीदवृद्धिर् द्वैगुण्यं न-अत्येति) सकृद् आहृता | [म्।सकृद् आहिता)]  
   
-Manu8.151c/ dhānye sade lave vāhye na-atikrāmati) pañcatām ||  
+मनु८।१५१च्/ धान्ये सदे लवे वाह्ये न-अतिक्रामति) पञ्चताम् ||  
   
-Manu8.152a/ kṛtānusārād adhikā vyatiriktā na sidhyati) |  
+मनु८।१५२अ/ कृतानुसाराद् अधिका व्यतिरिक्ता न सिध्यति) |  
   
-Manu8.152c/ kusīdapatham āhus) taṃ pañcakaṃ śatam arhati) ||  
+मनु८।१५२च्/ कुसीदपथम् आहुस्) तं पञ्चकं शतम् अर्हति) ||  
   
-Manu8.153a/ na-ati.sāṃvatsarīṃ vṛddhiṃ na ca-adṛṣṭāṃ  punar haret | [M.vinirharet)]  
+मनु८।१५३अ/ न-अति।सांवत्सरीं वृद्धिं न च-अदृष्टां  पुनर् हरेत् | [म्।विनिर्हरेत्)]  
   
-Manu8.153c/ cakravṛddhiḥ kālavṛddhiḥ kāritā kāyikā ca yā |  
+मनु८।१५३च्/ चक्रवृद्धिः कालवृद्धिः कारिता कायिका च या |  
   
   
   
-Manu8.154a/ ṛṇaṃ dātum aśakto yaḥ kartum icchet) punaḥ kriyām |  
+मनु८।१५४अ/ ऋणं दातुम् अशक्तो यः कर्तुम् इच्छेत्) पुनः क्रियाम् |  
   
-Manu8.154c/ sa dattvā) nirjitāṃ vṛddhiṃ karaṇaṃ parivartayet) ||  
+मनु८।१५४च्/ स दत्त्वा) निर्जितां वृद्धिं करणं परिवर्तयेत्) ||  
   
-Manu8.155a/ a.darśayitvā) tatra-eva hiraṇyaṃ parivartayet) |  
+मनु८।१५५अ/ अ।दर्शयित्वा) तत्र-एव हिरण्यं परिवर्तयेत्) |  
   
-Manu8.155c/ yāvatī saṃbhaved) vṛddhis tāvatīṃ dātum arhati) ||  
+मनु८।१५५च्/ यावती संभवेद्) वृद्धिस् तावतीं दातुम् अर्हति) ||  
   
-Manu8.156a/ cakravṛddhiṃ samārūḍho) deśa.kālavyavasthitaḥ |  
+मनु८।१५६अ/ चक्रवृद्धिं समारूढो) देश।कालव्यवस्थितः |  
   
-Manu8.156c/ atikrāman) deśa.kālau na tatphalam avāpnuyāt) ||  
+मनु८।१५६च्/ अतिक्रामन्) देश।कालौ न तत्फलम् अवाप्नुयात्) ||  
   
-Manu8.157a/ samudrayānakuśalā deśa.kāla.arthadarśinaḥ |  
+मनु८।१५७अ/ समुद्रयानकुशला देश।काल।अर्थदर्शिनः |  
   
-Manu8.157c/ sthāpayanti) tu yāṃ vṛddhiṃ sā tatra-adhigamaṃ prati ||  
+मनु८।१५७च्/ स्थापयन्ति) तु यां वृद्धिं सा तत्र-अधिगमं प्रति ||  
   
   
   
-Manu8.158a/ yo yasya pratibhūs tiṣṭhed) darśanāya-iha mānavaḥ |  
+मनु८।१५८अ/ यो यस्य प्रतिभूस् तिष्ठेद्) दर्शनाय-इह मानवः |  
   
-Manu8.158c/ a.darśayan) sa taṃ tasya prayacchet svadhanād ṛṇam || [M.tasya yateta)]  
+मनु८।१५८च्/ अ।दर्शयन्) स तं तस्य प्रयच्छेत् स्वधनाद् ऋणम् || [म्।तस्य यतेत)]  
   
-Manu8.159a/ prātibhāvyaṃ vṛthādānam ākṣikaṃ saurikāṃ ca yat |  
+मनु८।१५९अ/ प्रातिभाव्यं वृथादानम् आक्षिकं सौरिकां च यत् |  
   
-Manu8.159c/ daṇḍa.śulkāvaśeṣaṃ ca na putro dātum arhati) ||  
+मनु८।१५९च्/ दण्ड।शुल्कावशेषं च न पुत्रो दातुम् अर्हति) ||  
   
-Manu8.160a/ darśanaprātibhāvye tu vidhiḥ syāt) pūrvacoditaḥ |  
+मनु८।१६०अ/ दर्शनप्रातिभाव्ये तु विधिः स्यात्) पूर्वचोदितः |  
   
-Manu8.160c/ dānapratibhuvi prete) dāyādān api dāpayet) ||  
+मनु८।१६०च्/ दानप्रतिभुवि प्रेते) दायादान् अपि दापयेत्) ||  
   
-Manu8.161a/ adātari punar dātā vijñātaprakṛtāv ṛṇam |  
+मनु८।१६१अ/ अदातरि पुनर् दाता विज्ञातप्रकृताव् ऋणम् |  
   
-Manu8.161c/ paścāt pratibhuvi prete) parīpset) kena hetunā ||  
+मनु८।१६१च्/ पश्चात् प्रतिभुवि प्रेते) परीप्सेत्) केन हेतुना ||  
   
-Manu8.162a/ nirādiṣṭadhanaś cet tu pratibhūḥ syād) alaṃdhanaḥ |   
+मनु८।१६२अ/ निरादिष्टधनश् चेत् तु प्रतिभूः स्याद्) अलंधनः |   
   
-Manu8.162c/ svadhanād eva tad dadyān) nirādiṣṭa iti sthitiḥ ||  
+मनु८।१६२च्/ स्वधनाद् एव तद् दद्यान्) निरादिष्ट इति स्थितिः ||  
   
   
   
-Manu8.163a/ matta.unmatta.ārta.adhyadhīnair bālena sthavireṇa vā |   
+मनु८।१६३अ/ मत्त।उन्मत्त।आर्त।अध्यधीनैर् बालेन स्थविरेण वा |   
   
-Manu8.163c/ asaṃbaddhakṛtaś ca-eva vyāvahāro na sidhyati) ||   
+मनु८।१६३च्/ असंबद्धकृतश् च-एव व्यावहारो न सिध्यति) ||   
   
-Manu8.164a/ satyā na bhāṣā bhavati) yady api syāt) pratiṣṭhitā) |  
+मनु८।१६४अ/ सत्या न भाषा भवति) यद्य् अपि स्यात्) प्रतिष्ठिता) |  
   
-Manu8.164c/ bahiś ced bhāṣyate) dharmāt-niyatād vyavahārikāt ||  
+मनु८।१६४च्/ बहिश् चेद् भाष्यते) धर्मात्-नियताद् व्यवहारिकात् ||  
   
-Manu8.165a/ yogādhamanavikrītaṃ yogadānapratigraham |  
+मनु८।१६५अ/ योगाधमनविक्रीतं योगदानप्रतिग्रहम् |  
   
-Manu8.165c/ yatra vā-apy upadhiṃ paśyet) tat sarvaṃ vinivartayet) ||  
+मनु८।१६५च्/ यत्र वा-अप्य् उपधिं पश्येत्) तत् सर्वं विनिवर्तयेत्) ||  
   
   
   
-Manu8.166a/ grahītā yadi naṣṭaḥ) syāt) kuṭumbārthe kṛto vyayaḥ | [M.kuṭumbe ca ]  
+मनु८।१६६अ/ ग्रहीता यदि नष्टः) स्यात्) कुटुम्बार्थे कृतो व्ययः | [म्।कुटुम्बे च ]  
   
-Manu8.166c/ dātavyaṃ bāndhavais tat syāt) pravibhaktair api svataḥ ||  
+मनु८।१६६च्/ दातव्यं बान्धवैस् तत् स्यात्) प्रविभक्तैर् अपि स्वतः ||  
   
-Manu8.167a/ kuṭumbārthe 'adhyadhīno 'api vyavahāraṃ yam ācaret) |   
+मनु८।१६७अ/ कुटुम्बार्थे ऽअध्यधीनो ऽअपि व्यवहारं यम् आचरेत्) |   
   
-Manu8.167c/ svadeśe vā videśe vā taṃ jyāyān na vicālayet) ||  
+मनु८।१६७च्/ स्वदेशे वा विदेशे वा तं ज्यायान् न विचालयेत्) ||  
   
   
   
-Manu8.168a/ balād dattaṃ balād bhuktaṃ balād yac ca-api lekhitam |  
+मनु८।१६८अ/ बलाद् दत्तं बलाद् भुक्तं बलाद् यच् च-अपि लेखितम् |  
   
-Manu8.168c/ sarvān balakṛtān arthān akṛtān manur abravīt) ||  
+मनु८।१६८च्/ सर्वान् बलकृतान् अर्थान् अकृतान् मनुर् अब्रवीत्) ||  
   
-Manu8.169a/ trayaḥ parārthe kliśyanti) sākṣiṇaḥ pratibhūḥ kulam |  
+मनु८।१६९अ/ त्रयः परार्थे क्लिश्यन्ति) साक्षिणः प्रतिभूः कुलम् |  
   
-Manu8.169c/ catvāras tu-upacīyante) vipra āḍhyo vaṇiṅ nṛpaḥ ||  
+मनु८।१६९च्/ चत्वारस् तु-उपचीयन्ते) विप्र आढ्यो वणिङ् नृपः ||  
   
-Manu8.170a/ an.ādeyaṃ na-ādadīta) parikṣīṇo 'api pārthivaḥ |  
+मनु८।१७०अ/ अन्।आदेयं न-आददीत) परिक्षीणो ऽअपि पार्थिवः |  
   
-Manu8.170c/ na ca-ādeyaṃ samṛddho 'api sūkṣmam apy artham utsṛjet) ||  
+मनु८।१७०च्/ न च-आदेयं समृद्धो ऽअपि सूक्ष्मम् अप्य् अर्थम् उत्सृजेत्) ||  
   
-Manu8.171a/ an.ādeyasya ca-ādānād ādeyasya ca varjanāt |  
+मनु८।१७१अ/ अन्।आदेयस्य च-आदानाद् आदेयस्य च वर्जनात् |  
   
-Manu8.171c/ daurbalyaṃ khyāpyate) rājñaḥ sa pretya-iha ca naśyati) ||  
+मनु८।१७१च्/ दौर्बल्यं ख्याप्यते) राज्ञः स प्रेत्य-इह च नश्यति) ||  
   
-Manu8.172a/ svādānād varṇasaṃsargāt tv abalānāṃ ca rakṣaṇāt |  
+मनु८।१७२अ/ स्वादानाद् वर्णसंसर्गात् त्व् अबलानां च रक्षणात् |  
   
-Manu8.172c/ balaṃ saṃjāyate) rājñaḥ sa pretya-iha ca vardhate) ||  
+मनु८।१७२च्/ बलं संजायते) राज्ञः स प्रेत्य-इह च वर्धते) ||  
   
-Manu8.173a/ tasmād yama iva svāmī svayaṃ hitvā) priya.apriye |  
+मनु८।१७३अ/ तस्माद् यम इव स्वामी स्वयं हित्वा) प्रिय।अप्रिये |  
   
-Manu8.173c/ varteta) yāmyayā vṛttyā jita.krodho jita.indriyaḥ ||  
+मनु८।१७३च्/ वर्तेत) याम्यया वृत्त्या जित।क्रोधो जित।इन्द्रियः ||  
   
-Manu8.174a/ yas tv adharmeṇa kāryāṇi mohāt kuryān) narādhipaḥ |  
+मनु८।१७४अ/ यस् त्व् अधर्मेण कार्याणि मोहात् कुर्यान्) नराधिपः |  
   
-Manu8.174c/ acirāt taṃ dur.ātmānaṃ vaśe kurvanti) śatravaḥ ||  
+मनु८।१७४च्/ अचिरात् तं दुर्।आत्मानं वशे कुर्वन्ति) शत्रवः ||  
   
-Manu8.175a/ kāma.krodhau tu saṃyamya) yo 'arthān dharmeṇa paśyati) |  
+मनु८।१७५अ/ काम।क्रोधौ तु संयम्य) यो ऽअर्थान् धर्मेण पश्यति) |  
   
-Manu8.175c/ prajās tam anuvartante) samudram iva sindhavaḥ ||  
+मनु८।१७५च्/ प्रजास् तम् अनुवर्तन्ते) समुद्रम् इव सिन्धवः ||  
   
   
   
-Manu8.176a/ yaḥ sādhayantaṃ) chandena vedayed) dhanikaṃ nṛpe |  
+मनु८।१७६अ/ यः साधयन्तं) छन्देन वेदयेद्) धनिकं नृपे |  
   
-Manu8.176c/ sa rājñā tat-caturbhāgaṃ dāpyas) tasya ca tad dhanam ||  
+मनु८।१७६च्/ स राज्ञा तत्-चतुर्भागं दाप्यस्) तस्य च तद् धनम् ||  
   
-Manu8.177a/ karmaṇā-api samaṃ kuryād) dhanikāya-adhamarṇikaḥ |  
+मनु८।१७७अ/ कर्मणा-अपि समं कुर्याद्) धनिकाय-अधमर्णिकः |  
   
-Manu8.177c/ samo 'avakṛṣṭajātis tu dadyāt)- śreyāṃs tu tat- śanaiḥ ||  
+मनु८।१७७च्/ समो ऽअवकृष्टजातिस् तु दद्यात्)- श्रेयांस् तु तत्- शनैः ||  
   
-Manu8.178a/ anena vidhinā rājā mitho vivadatāṃ) nṛṇām |  
+मनु८।१७८अ/ अनेन विधिना राजा मिथो विवदतां) नृणाम् |  
   
-Manu8.178c/ sākṣipratyayasiddhāni kāryāṇi samatāṃ nayet) ||  
+मनु८।१७८च्/ साक्षिप्रत्ययसिद्धानि कार्याणि समतां नयेत्) ||  
   
   
   
-Manu8.179a/ kulaje vṛttasaṃpanne dharmajñe satyavādini |  
+मनु८।१७९अ/ कुलजे वृत्तसंपन्ने धर्मज्ञे सत्यवादिनि |  
   
-Manu8.179c/ mahāpakṣe dhaniny ārye nikṣepaṃ nikṣiped) budhaḥ ||  
+मनु८।१७९च्/ महापक्षे धनिन्य् आर्ये निक्षेपं निक्षिपेद्) बुधः ||  
   
-Manu8.180a/ yo yathā nikṣipedd) haste yam arthaṃ yasya mānavaḥ |  
+मनु८।१८०अ/ यो यथा निक्षिपेद्द्) हस्ते यम् अर्थं यस्य मानवः |  
   
-Manu8.180c/ sa tathā-eva grahītavyo) yathā dāyas tathā grahaḥ ||  
+मनु८।१८०च्/ स तथा-एव ग्रहीतव्यो) यथा दायस् तथा ग्रहः ||  
   
-Manu8.181a/ yo nikṣepaṃ yācyamāno) nikṣeptur na prayacchati) |  
+मनु८।१८१अ/ यो निक्षेपं याच्यमानो) निक्षेप्तुर् न प्रयच्छति) |  
   
-Manu8.181c/ sa yācyaḥ prāḍvivākena tat- nikṣeptur asaṃnidhau ||  
+मनु८।१८१च्/ स याच्यः प्राड्विवाकेन तत्- निक्षेप्तुर् असंनिधौ ||  
   
-Manu8.182a/ sākṣi.abhāve praṇidhibhir vayo.rūpa.samanvitaiḥ |  
+मनु८।१८२अ/ साक्षि।अभावे प्रणिधिभिर् वयो।रूप।समन्वितैः |  
   
-Manu8.182c/ apadeśaiś ca saṃnyasya) hiraṇyaṃ tasya tattvataḥ ||  
+मनु८।१८२च्/ अपदेशैश् च संन्यस्य) हिरण्यं तस्य तत्त्वतः ||  
   
-Manu8.183a/ sa yadi pratipadyeta) yathānyastaṃ yathākṛtam |  
+मनु८।१८३अ/ स यदि प्रतिपद्येत) यथान्यस्तं यथाकृतम् |  
   
-Manu8.183c/ na tatra vidyate) kiṃ cid yat parair abhiyujyate) ||  
+मनु८।१८३च्/ न तत्र विद्यते) किं चिद् यत् परैर् अभियुज्यते) ||  
   
-Manu8.184a/ teṣāṃ na dadyād) yadi tu tadd hiraṇyaṃ yathāvidhi |  
+मनु८।१८४अ/ तेषां न दद्याद्) यदि तु तद्द् हिरण्यं यथाविधि |  
   
-Manu8.184c/ ubhau nigṛhya dāpyaḥ syād iti dharmasya dhāraṇā || [M.sa nigṛhya)-ubhayaṃ dāpya iti dharmasya dhāraṇā]   
+मनु८।१८४च्/ उभौ निगृह्य दाप्यः स्याद् इति धर्मस्य धारणा || [म्।स निगृह्य)-उभयं दाप्य इति धर्मस्य धारणा]   
   
-Manu8.185a/ nikṣepa.upanidhī nityaṃ na deyau) pratyanantare |  
-Manu8.185c/ naśyato) vinipāte) tāv anipāte) tv anāśinau ||  
+मनु८।१८५अ/ निक्षेप।उपनिधी नित्यं न देयौ) प्रत्यनन्तरे |  
+मनु८।१८५च्/ नश्यतो) विनिपाते) ताव् अनिपाते) त्व् अनाशिनौ ||  
   
-Manu8.186a/ svayam eva tu yau dadyān) mṛtasya pratyanantare|  
+मनु८।१८६अ/ स्वयम् एव तु यौ दद्यान्) मृतस्य प्रत्यनन्तरे|  
   
-Manu8.186c/ na sa rājñā-abhiyoktavyo) na nikṣeptuś ca bandhubhiḥ ||  
+मनु८।१८६च्/ न स राज्ञा-अभियोक्तव्यो) न निक्षेप्तुश् च बन्धुभिः ||  
   
-Manu8.187a/ acchalena-eva ca-anvicchet) tam arthaṃ prītipūrvakam |  
+मनु८।१८७अ/ अच्छलेन-एव च-अन्विच्छेत्) तम् अर्थं प्रीतिपूर्वकम् |  
   
-Manu8.187c/ vicārya) tasya vā vṛttaṃ sāmnā-eva parisādhayet) ||  
+मनु८।१८७च्/ विचार्य) तस्य वा वृत्तं साम्ना-एव परिसाधयेत्) ||  
   
-Manu8.188a/ nikṣepeṣv eṣu sarveṣu vidhiḥ syāt) parisādhane |  
+मनु८।१८८अ/ निक्षेपेष्व् एषु सर्वेषु विधिः स्यात्) परिसाधने |  
   
-Manu8.188c/ sa.mudre na-āpnuyāt) kiṃ cid yadi tasmān na saṃharet) ||  
+मनु८।१८८च्/ स।मुद्रे न-आप्नुयात्) किं चिद् यदि तस्मान् न संहरेत्) ||  
   
-Manu8.189a/ caurair hṛtaṃ) jalena-ūḍham) agninā dagdham) eva vā |  
+मनु८।१८९अ/ चौरैर् हृतं) जलेन-ऊढम्) अग्निना दग्धम्) एव वा |  
   
-Manu8.189c/ na dadyād) yadi tasmāt sa na saṃharati) kiṃ cana ||  
+मनु८।१८९च्/ न दद्याद्) यदि तस्मात् स न संहरति) किं चन ||  
   
-Manu8.190a/ nikṣepasya-apahartāram anikṣeptāram eva ca |  
+मनु८।१९०अ/ निक्षेपस्य-अपहर्तारम् अनिक्षेप्तारम् एव च |  
   
-Manu8.190c/ sarvair upāyair anvicchet)-śapathaiś ca-eva vaidikaiḥ ||  
+मनु८।१९०च्/ सर्वैर् उपायैर् अन्विच्छेत्)-शपथैश् च-एव वैदिकैः ||  
   
-Manu8.191a/ yo nikṣepaṃ na-arpayati) yaś ca-a.nikṣipya) yācate) |  
+मनु८।१९१अ/ यो निक्षेपं न-अर्पयति) यश् च-अ।निक्षिप्य) याचते) |  
   
-Manu8.191c/ tāv ubhau cauravat-śāsyau) dāpyau) vā tatsamaṃ damam ||  
+मनु८।१९१च्/ ताव् उभौ चौरवत्-शास्यौ) दाप्यौ) वा तत्समं दमम् ||  
   
-Manu8.192a/ nikṣepasya-apahartāraṃ tatsamaṃ dāpayed) damam |  
+मनु८।१९२अ/ निक्षेपस्य-अपहर्तारं तत्समं दापयेद्) दमम् |  
   
-Manu8.192c/ tathā-upanidhihartāram aviśeṣeṇa pārthivaḥ ||  
+मनु८।१९२च्/ तथा-उपनिधिहर्तारम् अविशेषेण पार्थिवः ||  
   
-Manu8.193a/ upadhābhiś ca yaḥ kaś cit paradravyaṃ haren) naraḥ |  
+मनु८।१९३अ/ उपधाभिश् च यः कश् चित् परद्रव्यं हरेन्) नरः |  
   
-Manu8.193c/ sa.sahāyaḥ sa hantavyaḥ) prakāśaṃ vividhair vadhaiḥ ||  
+मनु८।१९३च्/ स।सहायः स हन्तव्यः) प्रकाशं विविधैर् वधैः ||  
   
-Manu8.194a/ nikṣepo yaḥ kṛto) yena yāvāṃś ca kulasaṃnidhau |  
+मनु८।१९४अ/ निक्षेपो यः कृतो) येन यावांश् च कुलसंनिधौ |  
   
-Manu8.194c/ tāvān eva sa vijñeyo) vibruvan) daṇḍam arhati) ||  
+मनु८।१९४च्/ तावान् एव स विज्ञेयो) विब्रुवन्) दण्डम् अर्हति) ||  
   
-Manu8.195a/ mitho dāyaḥ kṛto) yena gṛhīto) mitha eva vā |  
+मनु८।१९५अ/ मिथो दायः कृतो) येन गृहीतो) मिथ एव वा |  
   
-Manu8.195c/ mitha eva pradātavyo) yathā dāyas tathā grahaḥ ||  
+मनु८।१९५च्/ मिथ एव प्रदातव्यो) यथा दायस् तथा ग्रहः ||  
   
-Manu8.196a/ nikṣiptasya) dhanasya-evaṃ prītyā-upanihitasya) ca |  
+मनु८।१९६अ/ निक्षिप्तस्य) धनस्य-एवं प्रीत्या-उपनिहितस्य) च |  
   
-Manu8.196c/ rājā vinirṇayaṃ kuryād) akṣiṇvan) nyāsadhāriṇam ||  
+मनु८।१९६च्/ राजा विनिर्णयं कुर्याद्) अक्षिण्वन्) न्यासधारिणम् ||  
   
   
   
-Manu8.197a/ vikrīṇīte) parasya svaṃ yo 'asvāmī svāmyasammataḥ) |  
+मनु८।१९७अ/ विक्रीणीते) परस्य स्वं यो ऽअस्वामी स्वाम्यसम्मतः) |  
   
-Manu8.197c/ na taṃ nayeta) sākṣyaṃ tu stenam astenamāninam ||  
+मनु८।१९७च्/ न तं नयेत) साक्ष्यं तु स्तेनम् अस्तेनमानिनम् ||  
   
-Manu8.198a/ avahāryo bhavet)-ca-eva sa.anvayaḥ ṣaṭśataṃ damam |  
+मनु८।१९८अ/ अवहार्यो भवेत्)-च-एव स।अन्वयः षट्शतं दमम् |  
   
-Manu8.198c/ nir.anvayo 'an.apasaraḥ prāptaḥ) syāc) caurakilbiṣam ||  
+मनु८।१९८च्/ निर्।अन्वयो ऽअन्।अपसरः प्राप्तः) स्याच्) चौरकिल्बिषम् ||  
   
-Manu8.199a/ asvāminā kṛto yas tu dāyo vikraya eva vā |  
+मनु८।१९९अ/ अस्वामिना कृतो यस् तु दायो विक्रय एव वा |  
   
-Manu8.199c/ akṛtaḥ sa tu vijñeyo) vyavahāre yathā sthitiḥ ||  
+मनु८।१९९च्/ अकृतः स तु विज्ञेयो) व्यवहारे यथा स्थितिः ||  
   
-Manu8.200a/ saṃbhogo dṛśyate) yatra na dṛśyeta)-āgamaḥ kva cit |  
+मनु८।२००अ/ संभोगो दृश्यते) यत्र न दृश्येत)-आगमः क्व चित् |  
   
-Manu8.200c/ āgamaḥ kāraṇaṃ tatra na saṃbhoga iti sthitiḥ ||  
+मनु८।२००च्/ आगमः कारणं तत्र न संभोग इति स्थितिः ||  
   
-Manu8.201a/ vikrayād yo dhanaṃ kiṃ cid gṛhṇīyat) kulasaṃnidhau |  
+मनु८।२०१अ/ विक्रयाद् यो धनं किं चिद् गृह्णीयत्) कुलसंनिधौ |  
   
-Manu8.201c/ krayeṇa sa viśuddhaṃ hi nyāyato labhate) dhanam ||  
+मनु८।२०१च्/ क्रयेण स विशुद्धं हि न्यायतो लभते) धनम् ||  
   
-Manu8.202a/ atha mūlam anāhāryaṃ prakāśakrayaśodhitaḥ) |  
+मनु८।२०२अ/ अथ मूलम् अनाहार्यं प्रकाशक्रयशोधितः) |  
   
-Manu8.202c/ adaṇḍyo) mucyate) rājñā nāṣṭiko labhate) dhanam ||  
+मनु८।२०२च्/ अदण्ड्यो) मुच्यते) राज्ञा नाष्टिको लभते) धनम् ||  
   
-Manu8.203a/ na-anyad anyena saṃsṛṣṭarūpaṃ vikrayam arhati) |  
+मनु८।२०३अ/ न-अन्यद् अन्येन संसृष्टरूपं विक्रयम् अर्हति) |  
   
-Manu8.203c/ na ca-a.sāraṃ na ca nyūnaṃ na dūreṇa tirohitam || [M. na sāvadyaṃ na ca nyūnaṃ na dūre na tirohitam ]   
+मनु८।२०३च्/ न च-अ।सारं न च न्यूनं न दूरेण तिरोहितम् || [म्। न सावद्यं न च न्यूनं न दूरे न तिरोहितम् ]   
   
-Manu8.204a/ anyāṃ ced darśayitvā)-anyā voḍhuḥ kanyā pradīyate) |  
+मनु८।२०४अ/ अन्यां चेद् दर्शयित्वा)-अन्या वोढुः कन्या प्रदीयते) |  
   
-Manu8.204c/ ubhe ta ekaśulkena vahed) ity abravīn) manuḥ ||  
+मनु८।२०४च्/ उभे त एकशुल्केन वहेद्) इत्य् अब्रवीन्) मनुः ||  
   
-Manu8.205a/ na-unmattāyā na kuṣṭhinyā na ca yā spṛṣṭa.maithunā |  
+मनु८।२०५अ/ न-उन्मत्ताया न कुष्ठिन्या न च या स्पृष्ट।मैथुना |  
   
-Manu8.205c/ pūrvaṃ doṣān abhikhyāpya) pradātā daṇḍam arhati) ||  
+मनु८।२०५च्/ पूर्वं दोषान् अभिख्याप्य) प्रदाता दण्डम् अर्हति) ||  
   
   
   
-Manu8.206a/ ṛtvig yadi vṛto) yajñe svakarma parihāpayet) |  
+मनु८।२०६अ/ ऋत्विग् यदि वृतो) यज्ञे स्वकर्म परिहापयेत्) |  
   
-Manu8.206c/ tasya karmānurūpeṇa deyo) 'aṃśaḥ sahakartṛbhiḥ ||  
+मनु८।२०६च्/ तस्य कर्मानुरूपेण देयो) ऽअंशः सहकर्तृभिः ||  
   
-Manu8.207a/ dakṣiṇāsu ca dattāsu) svakarma parihāpayan) |  
+मनु८।२०७अ/ दक्षिणासु च दत्तासु) स्वकर्म परिहापयन्) |  
   
-Manu8.207c/ kṛtsnam eva labheta)-aṃśam anyena-eva ca kārayet) ||  
+मनु८।२०७च्/ कृत्स्नम् एव लभेत)-अंशम् अन्येन-एव च कारयेत्) ||  
   
-Manu8.208a/ yasmin karmaṇi yās tu syur) uktāḥ pratyaṅgadakṣiṇāḥ |  
+मनु८।२०८अ/ यस्मिन् कर्मणि यास् तु स्युर्) उक्ताः प्रत्यङ्गदक्षिणाः |  
   
-Manu8.208c/ sa eva tā ādidīta) bhajeran) sarva eva vā ||  
+मनु८।२०८च्/ स एव ता आदिदीत) भजेरन्) सर्व एव वा ||  
   
-Manu8.209a/ rathaṃ haret) ca-adhvaryur brahmā-ādhāne ca vājinam |  
+मनु८।२०९अ/ रथं हरेत्) च-अध्वर्युर् ब्रह्मा-आधाने च वाजिनम् |  
   
-Manu8.209c/ hotā vā-api hared) aśvam udgātā ca-apy anaḥ kraye ||  
+मनु८।२०९च्/ होता वा-अपि हरेद्) अश्वम् उद्गाता च-अप्य् अनः क्रये ||  
   
-Manu8.210a/ sarveṣām ardhino mukhyās tadardhena-ardhino 'apare |  
+मनु८।२१०अ/ सर्वेषाम् अर्धिनो मुख्यास् तदर्धेन-अर्धिनो ऽअपरे |  
   
-Manu8.210c/ tṛtīyinas tṛtīyāṃśāś caturthāṃśāś ca pādinaḥ ||  
+मनु८।२१०च्/ तृतीयिनस् तृतीयांशाश् चतुर्थांशाश् च पादिनः ||  
   
-Manu8.211a/ saṃbhūya) svāni karmāṇi kurvadbhir) iha mānavaiḥ |  
+मनु८।२११अ/ संभूय) स्वानि कर्माणि कुर्वद्भिर्) इह मानवैः |  
   
-Manu8.211c/ anena vidhiyogena kartavyā)-aṃśaprakalpanā ||  
+मनु८।२११च्/ अनेन विधियोगेन कर्तव्या)-अंशप्रकल्पना ||  
   
   
   
-Manu8.212a/ dharmārthaṃ yena dattaṃ syāt) kasmai cid yācate) dhanam |  
+मनु८।२१२अ/ धर्मार्थं येन दत्तं स्यात्) कस्मै चिद् याचते) धनम् |  
   
-Manu8.212c/ paścāc ca na tathā tat syān) na deyaṃ tasya tad bhavet) ||  
+मनु८।२१२च्/ पश्चाच् च न तथा तत् स्यान्) न देयं तस्य तद् भवेत्) ||  
   
-Manu8.213a/ yadi saṃsādhayet) tat tu darpāt-lobhena vā punaḥ |  
+मनु८।२१३अ/ यदि संसाधयेत्) तत् तु दर्पात्-लोभेन वा पुनः |  
   
-Manu8.213c/ rājñā dāpyaḥ) suvarṇaṃ syāt) tasya steyasya niṣkṛtiḥ ||  
+मनु८।२१३च्/ राज्ञा दाप्यः) सुवर्णं स्यात्) तस्य स्तेयस्य निष्कृतिः ||  
   
-Manu8.214a/ dattasya)-eṣā-uditā) dharmyā yathāvad anapakriyā |  
+मनु८।२१४अ/ दत्तस्य)-एषा-उदिता) धर्म्या यथावद् अनपक्रिया |  
   
-Manu8.214c/ ata ūrdhvaṃ pravakṣyāmi) vetanasya-anapakriyām ||  
+मनु८।२१४च्/ अत ऊर्ध्वं प्रवक्ष्यामि) वेतनस्य-अनपक्रियाम् ||  
   
   
   
-Manu8.215a/ bhṛto na-ārto na kuryād) yo darpāt karma yathāa.uditam | [M.anārto ]  
+मनु८।२१५अ/ भृतो न-आर्तो न कुर्याद्) यो दर्पात् कर्म यथाअ।उदितम् | [म्।अनार्तो ]  
   
-Manu8.215c/ sa daṇḍyaḥ) kṛṣṇalāny aṣṭau na deyaṃ) ca-asya vetanam ||  
+मनु८।२१५च्/ स दण्ड्यः) कृष्णलान्य् अष्टौ न देयं) च-अस्य वेतनम् ||  
   
-Manu8.216a/ ārtas tu kuryāt) svasthaḥ san) yathābhāṣitam āditaḥ |  
+मनु८।२१६अ/ आर्तस् तु कुर्यात्) स्वस्थः सन्) यथाभाषितम् आदितः |  
   
-Manu8.216c/ sa dīrghasya-api kālasya tat-labheta(-eva vetanam ||   
+मनु८।२१६च्/ स दीर्घस्य-अपि कालस्य तत्-लभेत(-एव वेतनम् ||   
   
-Manu8.217a/ yathā.uktam ārtaḥ sustho vā yas tat karma na kārayet) |  
+मनु८।२१७अ/ यथा।उक्तम् आर्तः सुस्थो वा यस् तत् कर्म न कारयेत्) |  
   
-Manu8.217c/ na tasya vetanaṃ deyam) alpa.ūnasya-api karmaṇaḥ ||  
+मनु८।२१७च्/ न तस्य वेतनं देयम्) अल्प।ऊनस्य-अपि कर्मणः ||  
   
-Manu8.218a/ eṣa dharmo 'akhilena-ukto) vetanādānakarmaṇaḥ |  
+मनु८।२१८अ/ एष धर्मो ऽअखिलेन-उक्तो) वेतनादानकर्मणः |  
   
-Manu8.218c/ ata ūrdhvaṃ pravakṣyāmi) dharmaṃ samayabhedinām ||  
+मनु८।२१८च्/ अत ऊर्ध्वं प्रवक्ष्यामि) धर्मं समयभेदिनाम् ||  
   
   
   
-Manu8.219a/ yo grāma.deśa.saṃghānāṃ kṛtvā) satyena saṃvidam |  
+मनु८।२१९अ/ यो ग्राम।देश।संघानां कृत्वा) सत्येन संविदम् |  
   
-Manu8.219c/ visaṃvaden) naro lobhāt taṃ rāṣṭrād vipravāsayet) ||  
+मनु८।२१९च्/ विसंवदेन्) नरो लोभात् तं राष्ट्राद् विप्रवासयेत्) ||  
   
-Manu8.220a/ nigṛhya) dāpayec) ca-enaṃ samayavyabhicāriṇam |  
+मनु८।२२०अ/ निगृह्य) दापयेच्) च-एनं समयव्यभिचारिणम् |  
   
-Manu8.220c/ catuḥsuvarṇān ṣaṇniṣkāṃś- śatamānaṃ ca rājakam ||  
+मनु८।२२०च्/ चतुःसुवर्णान् षण्निष्कांश्- शतमानं च राजकम् ||  
   
-Manu8.221a/ etad daṇḍavidhiṃ kuryād) dhārmikaḥ pṛthivīpatiḥ |  
+मनु८।२२१अ/ एतद् दण्डविधिं कुर्याद्) धार्मिकः पृथिवीपतिः |  
   
-Manu8.221c/ grāma.jāti.samūheṣu samayavyabhicāriṇām ||  
+मनु८।२२१च्/ ग्राम।जाति।समूहेषु समयव्यभिचारिणाम् ||  
   
   
   
-Manu8.222a/ krītvā vikrīya) vā kiṃ cid yasya-ihānuśayo bhavet) |  
+मनु८।२२२अ/ क्रीत्वा विक्रीय) वा किं चिद् यस्य-इहानुशयो भवेत्) |  
   
-Manu8.222c/ so 'antar daśāhāt tad dravyaṃ dadyāc) ca-evādadīta) vā ||  
+मनु८।२२२च्/ सो ऽअन्तर् दशाहात् तद् द्रव्यं दद्याच्) च-एवाददीत) वा ||  
   
-Manu8.223a/ pareṇa tu daśāhasya na dadyān) nāpi dāpayet) |  
+मनु८।२२३अ/ परेण तु दशाहस्य न दद्यान्) नापि दापयेत्) |  
   
-Manu8.223c/ ādadāno) dadat) ca-eva rājñā daṇḍyau) śatāni ṣaṭ ||  
+मनु८।२२३च्/ आददानो) ददत्) च-एव राज्ञा दण्ड्यौ) शतानि षट् ||  
   
-Manu8.224a/ yas tu doṣavatīṃ kanyām anākhyāya prayacchati) |  
+मनु८।२२४अ/ यस् तु दोषवतीं कन्याम् अनाख्याय प्रयच्छति) |  
   
-Manu8.224c/ tasya kuryān) nṛpo daṇḍaṃ svayaṃ ṣaṇṇavatiṃ paṇān ||  
+मनु८।२२४च्/ तस्य कुर्यान्) नृपो दण्डं स्वयं षण्णवतिं पणान् ||  
   
-Manu8.225a/ akanyā-iti tu yaḥ kanyāṃ brūyād) dveṣeṇa mānavaḥ |  
+मनु८।२२५अ/ अकन्या-इति तु यः कन्यां ब्रूयाद्) द्वेषेण मानवः |  
   
-Manu8.225c/ sa śataṃ prāpnuyād) daṇḍaṃ tasyā doṣam adarśayan) ||  
+मनु८।२२५च्/ स शतं प्राप्नुयाद्) दण्डं तस्या दोषम् अदर्शयन्) ||  
   
-Manu8.226a/ pāṇigrahaṇikā mantrāḥ kanyāsv eva pratiṣṭhitāḥ) |  
+मनु८।२२६अ/ पाणिग्रहणिका मन्त्राः कन्यास्व् एव प्रतिष्ठिताः) |  
   
-Manu8.226c/ na-akanyāsu kva cin nqṇāṃ lupta.dharmakriyā hi tāḥ ||  
+मनु८।२२६च्/ न-अकन्यासु क्व चिन् न्क़्णां लुप्त।धर्मक्रिया हि ताः ||  
   
-Manu8.227a/ pāṇigrahaṇikā mantrā niyataṃ dāralakṣaṇam |   
+मनु८।२२७अ/ पाणिग्रहणिका मन्त्रा नियतं दारलक्षणम् |   
   
-Manu8.227c/ teṣāṃ niṣṭhā tu vijñeyā) vidvadbhiḥ saptame pade ||  
-Manu8.228a/ yasmin yasmin kṛte) kārye yasya-ihānuśayo bhavet) |  
+मनु८।२२७च्/ तेषां निष्ठा तु विज्ञेया) विद्वद्भिः सप्तमे पदे ||  
+मनु८।२२८अ/ यस्मिन् यस्मिन् कृते) कार्ये यस्य-इहानुशयो भवेत्) |  
   
-Manu8.228c/ tam anena vidhānena dharmye pathi niveśayet) ||  
+मनु८।२२८च्/ तम् अनेन विधानेन धर्म्ये पथि निवेशयेत्) ||  
   
   
   
-Manu8.229a/ paśuṣu svāmināṃ ca-eva pālānāṃ ca vyatikrame |  
+मनु८।२२९अ/ पशुषु स्वामिनां च-एव पालानां च व्यतिक्रमे |  
   
-Manu8.229c/ vivādaṃ saṃpravakṣyāmi) yathāvad dharmatattvataḥ ||  
+मनु८।२२९च्/ विवादं संप्रवक्ष्यामि) यथावद् धर्मतत्त्वतः ||  
   
-Manu8.230a/ divā vaktavyatā pāle rātrau svāmini tadgṛhe |  
+मनु८।२३०अ/ दिवा वक्तव्यता पाले रात्रौ स्वामिनि तद्गृहे |  
   
-Manu8.230c/ yogakṣeme 'anyathā cet tu pālo vaktavyatām iyāt) ||  
+मनु८।२३०च्/ योगक्षेमे ऽअन्यथा चेत् तु पालो वक्तव्यताम् इयात्) ||  
   
-Manu8.231a/ gopaḥ kṣīrabhṛto yas tu sa duhyād) daśato varām |  
+मनु८।२३१अ/ गोपः क्षीरभृतो यस् तु स दुह्याद्) दशतो वराम् |  
   
-Manu8.231c/ gosvāmyanumate bhṛtyaḥ sā syāt) pāle 'abhṛte bhṛtiḥ ||  
+मनु८।२३१च्/ गोस्वाम्यनुमते भृत्यः सा स्यात्) पाले ऽअभृते भृतिः ||  
   
-Manu8.232a/ naṣṭaṃ vinaṣṭaṃ) kṛmibhiḥ śvahataṃ viṣame mṛtam) |  
+मनु८।२३२अ/ नष्टं विनष्टं) कृमिभिः श्वहतं विषमे मृतम्) |  
   
-Manu8.232c/ hīnaṃ puruṣakāreṇa pradadyāt) pāla eva tu ||  
+मनु८।२३२च्/ हीनं पुरुषकारेण प्रदद्यात्) पाल एव तु ||  
   
-Manu8.233a/ vighuṣya) tu hṛtaṃ caurair na pālo dātum arhati) |   
+मनु८।२३३अ/ विघुष्य) तु हृतं चौरैर् न पालो दातुम् अर्हति) |   
   
-Manu8.233c/ yadi deśe ca kāle ca svāminaḥ svasya śaṃsati) ||  
+मनु८।२३३च्/ यदि देशे च काले च स्वामिनः स्वस्य शंसति) ||  
   
-Manu8.234a/ karṇau carma ca vālāṃś ca bastiṃ snāyuṃ ca rocanām |  
+मनु८।२३४अ/ कर्णौ चर्म च वालांश् च बस्तिं स्नायुं च रोचनाम् |  
   
-Manu8.234c/ paśuṣu svāmināṃ dadyān) mṛteṣv) aṅkāni darśayet || [M.aṅkāṃś ca darśayet)]  
+मनु८।२३४च्/ पशुषु स्वामिनां दद्यान्) मृतेष्व्) अङ्कानि दर्शयेत् || [म्।अङ्कांश् च दर्शयेत्)]  
   
-Manu8.235a/ aja.avike tu saṃruddhe) vṛkaiḥ pāle tv an.āyati) |  
+मनु८।२३५अ/ अज।अविके तु संरुद्धे) वृकैः पाले त्व् अन्।आयति) |  
   
-Manu8.235c/ yāṃ prasahya) vṛko hanyāt) pāle tat kilbiṣaṃ bhavet) ||  
+मनु८।२३५च्/ यां प्रसह्य) वृको हन्यात्) पाले तत् किल्बिषं भवेत्) ||  
   
-Manu8.236a/ tāsāṃ ced avaruddhānāṃ) carantīnāṃ) mitho vane |  
+मनु८।२३६अ/ तासां चेद् अवरुद्धानां) चरन्तीनां) मिथो वने |  
   
-Manu8.236c/ yām utplutya) vṛko hanyān) na pālas tatra kilbiṣī ||  
+मनु८।२३६च्/ याम् उत्प्लुत्य) वृको हन्यान्) न पालस् तत्र किल्बिषी ||  
   
-Manu8.237a/ dhanuḥśataṃ parīhāro grāmasya syāt) samantataḥ |   
+मनु८।२३७अ/ धनुःशतं परीहारो ग्रामस्य स्यात्) समन्ततः |   
   
-Manu8.237c/ śamyāpātās trayo vā-api triguṇo nagarasya tu ||  
+मनु८।२३७च्/ शम्यापातास् त्रयो वा-अपि त्रिगुणो नगरस्य तु ||  
   
-Manu8.238a/ tatra-aparivṛtaṃ dhānyaṃ vihiṃsyuḥ) paśavo yadi |  
+मनु८।२३८अ/ तत्र-अपरिवृतं धान्यं विहिंस्युः) पशवो यदि |  
   
-Manu8.238c/ na tatra praṇayed) daṇḍaṃ nṛpatiḥ paśurakṣiṇām || |  
+मनु८।२३८च्/ न तत्र प्रणयेद्) दण्डं नृपतिः पशुरक्षिणाम् || |  
   
-Manu8.239a/ vṛtiṃ tatra prakurvīta) yām uṣtro na vilokayet) |  
+मनु८।२३९अ/ वृतिं तत्र प्रकुर्वीत) याम् उष्त्रो न विलोकयेत्) |  
   
-Manu8.239c/ chidraṃ ca vārayet) sarvaṃ śva.sūkaramukhānugam ||   
+मनु८।२३९च्/ छिद्रं च वारयेत्) सर्वं श्व।सूकरमुखानुगम् ||   
   
-Manu8.240a/ pathi kṣetre parivṛte) grāmāntīye 'atha vā punaḥ |  
+मनु८।२४०अ/ पथि क्षेत्रे परिवृते) ग्रामान्तीये ऽअथ वा पुनः |  
   
-Manu8.240c/ sa.pālaḥ śatadaṇḍa.arho vipālān vārayet) paśūn ||  
+मनु८।२४०च्/ स।पालः शतदण्ड।अर्हो विपालान् वारयेत्) पशून् ||  
   
-Manu8.241a/ kṣetreṣv anyeṣu tu paśuḥ sa.pādaṃ paṇam arhati) |  
+मनु८।२४१अ/ क्षेत्रेष्व् अन्येषु तु पशुः स।पादं पणम् अर्हति) |  
   
-Manu8.241c/ sarvatra tu sado deyaḥ) kṣetrikasya-iti dhāraṇā ||  
+मनु८।२४१च्/ सर्वत्र तु सदो देयः) क्षेत्रिकस्य-इति धारणा ||  
   
-Manu8.242a/ a.nirdaśāhāṃ gāṃ sūtāṃ vṛṣān devapaśūṃs tathā |  
+मनु८।२४२अ/ अ।निर्दशाहां गां सूतां वृषान् देवपशूंस् तथा |  
   
-Manu8.242c/ sa.pālān vā vi.pālān vā na daṇḍyān) manur abravīt) ||  
+मनु८।२४२च्/ स।पालान् वा वि।पालान् वा न दण्ड्यान्) मनुर् अब्रवीत्) ||  
   
-Manu8.243a/ kṣetriyasya-atyaye daṇḍo bhāgād daśaguṇo bhavet) | [M.kṣetrikasya-atyaye]  
+मनु८।२४३अ/ क्षेत्रियस्य-अत्यये दण्डो भागाद् दशगुणो भवेत्) | [म्।क्षेत्रिकस्य-अत्यये]  
   
-Manu8.243c/ tato 'ardhadaṇḍo bhṛtyānām ajñānāt kṣetrikasya tu ||  
+मनु८।२४३च्/ ततो ऽअर्धदण्डो भृत्यानाम् अज्ञानात् क्षेत्रिकस्य तु ||  
   
-Manu8.244a/ etad vidhānam ātiṣṭhed) dhārmikaḥ pṛthivīpatiḥ |  
+मनु८।२४४अ/ एतद् विधानम् आतिष्ठेद्) धार्मिकः पृथिवीपतिः |  
   
-Manu8.244c/ svāmināṃ ca paśūnāṃ ca pālānāṃ ca vyatikrame ||  
+मनु८।२४४च्/ स्वामिनां च पशूनां च पालानां च व्यतिक्रमे ||  
   
   
   
-Manu8.245a/ sīmāṃ prati samutpanne) vivāde grāmayor dvayoḥ |  
+मनु८।२४५अ/ सीमां प्रति समुत्पन्ने) विवादे ग्रामयोर् द्वयोः |  
   
-Manu8.245c/ jyeṣṭhe māsi nayet) sīmāṃ su.prakāśeṣu setuṣu ||  
+मनु८।२४५च्/ ज्येष्ठे मासि नयेत्) सीमां सु।प्रकाशेषु सेतुषु ||  
   
-Manu8.246a/ sīṃāvṛkṣāṃś ca kurvīta) nyagrodha.aśvattha.kiṃśukān |  
+मनु८।२४६अ/ सींआवृक्षांश् च कुर्वीत) न्यग्रोध।अश्वत्थ।किंशुकान् |  
   
-Manu8.246c/ śālmalīn sālatālāṃś ca kṣīriṇaś ca-eva pādapān ||  
+मनु८।२४६च्/ शाल्मलीन् सालतालांश् च क्षीरिणश् च-एव पादपान् ||  
   
-Manu8.247a/ gulmān veṇūṃś ca vividhān śamī.vallī.sthalāni ca |  
+मनु८।२४७अ/ गुल्मान् वेणूंश् च विविधान् शमी।वल्ली।स्थलानि च |  
   
-Manu8.247c/ śarān kubjakagulmāṃś ca tathā sīmā na naśyati) ||  
+मनु८।२४७च्/ शरान् कुब्जकगुल्मांश् च तथा सीमा न नश्यति) ||  
   
-Manu8.248a[ṃ250a]/ taḍāgāny udapānāni vāpyaḥ prasravaṇāni ca |   
+मनु८।२४८अ[ं२५०अ]/ तडागान्य् उदपानानि वाप्यः प्रस्रवणानि च |   
   
-Manu8.248c[ṃ250c]/ sīmāsaṃdhiṣu kāryāṇi) devatāyatanāni ca ||   
+मनु८।२४८च्[ं२५०च्]/ सीमासंधिषु कार्याणि) देवतायतनानि च ||   
   
-Manu8.249a/ upachannāni cānyāni sīmāliṅgāni kārayet) |  
+मनु८।२४९अ/ उपछन्नानि चान्यानि सीमालिङ्गानि कारयेत्) |  
   
-Manu8.249c/ sīmājñāne nṛṇāṃ vīkṣya) nityaṃ loke viparyayam ||  
+मनु८।२४९च्/ सीमाज्ञाने नृणां वीक्ष्य) नित्यं लोके विपर्ययम् ||  
   
-Manu8.250a[ṃ248a]/ aśmano 'asthīni govālāṃs tuṣān bhasma kapālikāḥ |   
+मनु८।२५०अ[ं२४८अ]/ अश्मनो ऽअस्थीनि गोवालांस् तुषान् भस्म कपालिकाः |   
   
-Manu8.250c[ṃ248c]/ karīṣam iṣṭakā.aṅgārāṃś-śarkarā vālukās tathā ||   
+मनु८।२५०च्[ं२४८च्]/ करीषम् इष्टका।अङ्गारांश्-शर्करा वालुकास् तथा ||   
   
-Manu8.251a/ yāni ca-evaṃprakārāṇi kālād bhūmir na bhakṣayet) |  
+मनु८।२५१अ/ यानि च-एवंप्रकाराणि कालाद् भूमिर् न भक्षयेत्) |  
   
-Manu8.251c/ tāni saṃdhiṣu sīmāyām a.prakāśāni kārayet) || [M.sīmāyā]  
+मनु८।२५१च्/ तानि संधिषु सीमायाम् अ।प्रकाशानि कारयेत्) || [म्।सीमाया]  
   
-Manu8.252a/ etair liṅgair nayet) sīmāṃ rājā vivadamānayoḥ |  
+मनु८।२५२अ/ एतैर् लिङ्गैर् नयेत्) सीमां राजा विवदमानयोः |  
   
-Manu8.252c/ pūrvabhuktyā ca satatam udakasya-āgamena ca ||  
+मनु८।२५२च्/ पूर्वभुक्त्या च सततम् उदकस्य-आगमेन च ||  
   
-Manu8.253a/ yadi sṃśaya eva syāt)-liṅgānām api darśane |  
+मनु८।२५३अ/ यदि स्ंशय एव स्यात्)-लिङ्गानाम् अपि दर्शने |  
   
-Manu8.253c/ sākṣipratyaya eva syāt) sīmāvādavinirṇayaḥ || [M.sīmāvādaviniścayaḥ ]  
+मनु८।२५३च्/ साक्षिप्रत्यय एव स्यात्) सीमावादविनिर्णयः || [म्।सीमावादविनिश्चयः ]  
   
-Manu8.254a/ grāmīyaka.kulānāṃ ca samakṣaṃ sīmni sākṣiṇaḥ | [M. grāmeyaka.]  
+मनु८।२५४अ/ ग्रामीयक।कुलानां च समक्षं सीम्नि साक्षिणः | [म्। ग्रामेयक।]  
   
-Manu8.254c/ praṣṭavyāḥ) sīmaliṅgāni tayoś ca-eva vivādinoḥ || [M.sīmāliṅgāni ]  
+मनु८।२५४च्/ प्रष्टव्याः) सीमलिङ्गानि तयोश् च-एव विवादिनोः || [म्।सीमालिङ्गानि ]  
   
-Manu8.255a/ te pṛṣtās) tu yathā brūyuḥ) samastāḥ sīmni niścayam |  
+मनु८।२५५अ/ ते पृष्तास्) तु यथा ब्रूयुः) समस्ताः सीम्नि निश्चयम् |  
   
-Manu8.255c/ nibadhnīyāt) tathā sīmāṃ sarvāṃs tāṃś ca-eva nāmataḥ ||  
+मनु८।२५५च्/ निबध्नीयात्) तथा सीमां सर्वांस् तांश् च-एव नामतः ||  
   
-Manu8.256a/ śirobhis te gṛhītvā)-urvīṃ sragviṇo rakta.vāsasaḥ |  
+मनु८।२५६अ/ शिरोभिस् ते गृहीत्वा)-उर्वीं स्रग्विणो रक्त।वाससः |  
   
-Manu8.256c/ sukṛtaiḥ śāpithāḥ svaiḥ svair nayeyus) te samañjasam ||  
+मनु८।२५६च्/ सुकृतैः शापिथाः स्वैः स्वैर् नयेयुस्) ते समञ्जसम् ||  
   
-Manu8.257a/ yathā.uktena nayantas) te pūyante) satyasākṣiṇaḥ |  
+मनु८।२५७अ/ यथा।उक्तेन नयन्तस्) ते पूयन्ते) सत्यसाक्षिणः |  
   
-Manu8.257c/ viparītaṃ nayantas) tu dāpyāḥ syur) dviśataṃ damam ||  
+मनु८।२५७च्/ विपरीतं नयन्तस्) तु दाप्याः स्युर्) द्विशतं दमम् ||  
   
-Manu8.258a/ sākṣyabhāve tu catvāro grāmāḥ sāmantavāsinaḥ  | [M.grāmasīmāntavāsinaḥ]  
+मनु८।२५८अ/ साक्ष्यभावे तु चत्वारो ग्रामाः सामन्तवासिनः  | [म्।ग्रामसीमान्तवासिनः]  
   
-Manu8.258c/ sīmāvinirṇayaṃ kuryuḥ) prayatā rājasaṃnidhau ||  
+मनु८।२५८च्/ सीमाविनिर्णयं कुर्युः) प्रयता राजसंनिधौ ||  
   
-Manu8.259a/ sāmantānām abhāve tu maulānāṃ sīmni sākṣiṇām |  
+मनु८।२५९अ/ सामन्तानाम् अभावे तु मौलानां सीम्नि साक्षिणाम् |  
   
-Manu8.259c/ imān apy anuyuñjīta) puruṣān vana.gocarān ||  
+मनु८।२५९च्/ इमान् अप्य् अनुयुञ्जीत) पुरुषान् वन।गोचरान् ||  
   
-Manu8.260a/ vyādhān-śākunikān gopān kaivartān mūlakhānakān |  
+मनु८।२६०अ/ व्याधान्-शाकुनिकान् गोपान् कैवर्तान् मूलखानकान् |  
   
-Manu8.260c/ vyālagrāhān uñchavṛttīn anyāṃś ca vanacāriṇaḥ ||  
+मनु८।२६०च्/ व्यालग्राहान् उञ्छवृत्तीन् अन्यांश् च वनचारिणः ||  
   
-Manu8.261a/ te pṛṣṭās) tu yathā brūyuḥ) sīmāsaṃdhiṣu lakṣaṇam |  
+मनु८।२६१अ/ ते पृष्टास्) तु यथा ब्रूयुः) सीमासंधिषु लक्षणम् |  
   
-Manu8.261c/ tat tathā sthāpayed) rājā dharmeṇa grāmayor dvayoḥ ||  
+मनु८।२६१च्/ तत् तथा स्थापयेद्) राजा धर्मेण ग्रामयोर् द्वयोः ||  
   
-Manu8.262a/ kṣetra.kūpa.taḍāgānām ārāmasya gṛhasya ca |  
+मनु८।२६२अ/ क्षेत्र।कूप।तडागानाम् आरामस्य गृहस्य च |  
   
-Manu8.262c/ sāmantapratyayo jñeyaḥ) sīmāsetuvinirṇayaḥ ||  
+मनु८।२६२च्/ सामन्तप्रत्ययो ज्ञेयः) सीमासेतुविनिर्णयः ||  
   
-Manu8.263a/ sāmantāś cet- mṛṣā brūyuḥ) setau vivādatāṃ) nṛṇām |  
+मनु८।२६३अ/ सामन्ताश् चेत्- मृषा ब्रूयुः) सेतौ विवादतां) नृणाम् |  
   
-Manu8.263c/ sarve pṛthak pṛthag daṇḍyā) rājñā madhyamasāhasam ||  
+मनु८।२६३च्/ सर्वे पृथक् पृथग् दण्ड्या) राज्ञा मध्यमसाहसम् ||  
   
-Manu8.264a/ gṛhaṃ taḍāgam ārāmaṃ kṣetraṃ vā bhīṣayā haran) |  
+मनु८।२६४अ/ गृहं तडागम् आरामं क्षेत्रं वा भीषया हरन्) |  
   
-Manu8.264c/ śatāni pañca daṇḍyaḥ syād) ajñānād dviśato damaḥ ||  
+मनु८।२६४च्/ शतानि पञ्च दण्ड्यः स्याद्) अज्ञानाद् द्विशतो दमः ||  
   
-Manu8.265a/ sīmāyām a.viṣahyāyāṃ svayaṃ rājā-eva dharmavit |  
+मनु८।२६५अ/ सीमायाम् अ।विषह्यायां स्वयं राजा-एव धर्मवित् |  
   
-Manu8.265c/ pradiśed) bhūmim ekeṣām upakārād iti sthitiḥ ||  
+मनु८।२६५च्/ प्रदिशेद्) भूमिम् एकेषाम् उपकाराद् इति स्थितिः ||  
   
-Manu8.266a/ eṣo 'akhilena-abhihito) dharmaḥ sīmāvinirṇaye |  
+मनु८।२६६अ/ एषो ऽअखिलेन-अभिहितो) धर्मः सीमाविनिर्णये |  
   
-Manu8.266c/ ata ūrdhvaṃ pravakṣyāmi) vākpāruṣyavinirṇayam ||  
+मनु८।२६६च्/ अत ऊर्ध्वं प्रवक्ष्यामि) वाक्पारुष्यविनिर्णयम् ||  
   
   
   
-Manu8.267a/ śataṃ brāhmaṇam ākruśya) kṣatriyo daṇḍam arhati) |  
+मनु८।२६७अ/ शतं ब्राह्मणम् आक्रुश्य) क्षत्रियो दण्डम् अर्हति) |  
   
-Manu8.267c/ vaiśyo 'apy ardhaśataṃ dve vā śūdras tu vadham arhati) ||  
+मनु८।२६७च्/ वैश्यो ऽअप्य् अर्धशतं द्वे वा शूद्रस् तु वधम् अर्हति) ||  
   
-Manu8.268a/ pañcāśad brāhmaṇo daṇḍyaḥ) kṣatriyasya-abhiśaṃsane |  
+मनु८।२६८अ/ पञ्चाशद् ब्राह्मणो दण्ड्यः) क्षत्रियस्य-अभिशंसने |  
   
-Manu8.268c/ vaiśye syād) ardhapañcāśat-śūdre dvādaśako damaḥ ||  
+मनु८।२६८च्/ वैश्ये स्याद्) अर्धपञ्चाशत्-शूद्रे द्वादशको दमः ||  
   
-Manu8.269a/ samavarṇe dvijātīnāṃ dvādaśa-eva vyatikrame |  
+मनु८।२६९अ/ समवर्णे द्विजातीनां द्वादश-एव व्यतिक्रमे |  
   
-Manu8.269c/ vādeṣv a.vacanīyeṣu tad eva dviguṇaṃ bhavet) ||  
+मनु८।२६९च्/ वादेष्व् अ।वचनीयेषु तद् एव द्विगुणं भवेत्) ||  
   
-Manu8.270a/ ekajātir dvijātīṃs tu vācā dāruṇayā kṣipan) |  
+मनु८।२७०अ/ एकजातिर् द्विजातींस् तु वाचा दारुणया क्षिपन्) |  
   
-Manu8.270c/ jihvāyāḥ prāpnuyāc) chedaṃ jaghanya.prabhavo hi saḥ ||  
+मनु८।२७०च्/ जिह्वायाः प्राप्नुयाच्) छेदं जघन्य।प्रभवो हि सः ||  
   
-Manu8.271a/ nāma.jātigrahaṃ tv eṣām abhidroheṇa kurvataḥ) |  
+मनु८।२७१अ/ नाम।जातिग्रहं त्व् एषाम् अभिद्रोहेण कुर्वतः) |  
   
-Manu8.271c/ nikṣepyo) 'ayomayaḥ śaṅkur jvalann) āsye daśāṅgulaḥ ||  
+मनु८।२७१च्/ निक्षेप्यो) ऽअयोमयः शङ्कुर् ज्वलन्न्) आस्ये दशाङ्गुलः ||  
   
-Manu8.272a/ dharma.upadeśaṃ darpeṇa viprāṇām asya kurvataḥ) |  
+मनु८।२७२अ/ धर्म।उपदेशं दर्पेण विप्राणाम् अस्य कुर्वतः) |  
   
-Manu8.272c/ taptam āsecayet) tailaṃ vaktre śrotre ca pārthivaḥ || [M.śrautre ]  
-Manu8.273a/ śrutaṃ deśaṃ ca jātiṃ ca karma śarīram eva ca |  
+मनु८।२७२च्/ तप्तम् आसेचयेत्) तैलं वक्त्रे श्रोत्रे च पार्थिवः || [म्।श्रौत्रे ]  
+मनु८।२७३अ/ श्रुतं देशं च जातिं च कर्म शरीरम् एव च |  
   
-Manu8.273c/ vitathena bruvan) darpād dāpyaḥ syād) dviśataṃ damam ||  
+मनु८।२७३च्/ वितथेन ब्रुवन्) दर्पाद् दाप्यः स्याद्) द्विशतं दमम् ||  
   
-Manu8.274a/ kāṇaṃ vā-apy atha vā khañjam anyaṃ vā-api tathāvidham |  
+मनु८।२७४अ/ काणं वा-अप्य् अथ वा खञ्जम् अन्यं वा-अपि तथाविधम् |  
   
-Manu8.274c/ tathyena-api bruvan) dāpyo) daṇḍaṃ kārṣāpaṇa.avaram ||  
+मनु८।२७४च्/ तथ्येन-अपि ब्रुवन्) दाप्यो) दण्डं कार्षापण।अवरम् ||  
   
-Manu8.275a/ mātaraṃ pitaraṃ jāyāṃ bhrātaraṃ tanayaṃ gurum |  
+मनु८।२७५अ/ मातरं पितरं जायां भ्रातरं तनयं गुरुम् |  
   
-Manu8.275c/ ākṣārayan)-śataṃ dāpyaḥ) panthānaṃ ca-adadad) guroḥ ||  
+मनु८।२७५च्/ आक्षारयन्)-शतं दाप्यः) पन्थानं च-अददद्) गुरोः ||  
   
-Manu8.276a/ brāhmaṇa.kṣatriyābhyāṃ tu daṇḍaḥ kāryo) vijānatā) |  
+मनु८।२७६अ/ ब्राह्मण।क्षत्रियाभ्यां तु दण्डः कार्यो) विजानता) |  
   
-Manu8.276c/ brāhmaṇe sāhasaḥ pūrvaḥ kṣatriye tv eva madhyamaḥ ||  
+मनु८।२७६च्/ ब्राह्मणे साहसः पूर्वः क्षत्रिये त्व् एव मध्यमः ||  
   
-Manu8.277a/ viś.śūdrayor evam eva svajātiṃ prati tattvataḥ |  
+मनु८।२७७अ/ विश्।शूद्रयोर् एवम् एव स्वजातिं प्रति तत्त्वतः |  
   
-Manu8.277c/ cheda.varjaṃ praṇayanaṃ daṇḍasya-iti viniścayaḥ ||  
+मनु८।२७७च्/ छेद।वर्जं प्रणयनं दण्डस्य-इति विनिश्चयः ||  
   
-Manu8.278a/ eṣa daṇḍavidhiḥ prokto) vākpāruṣyasya tattvataḥ |  
+मनु८।२७८अ/ एष दण्डविधिः प्रोक्तो) वाक्पारुष्यस्य तत्त्वतः |  
   
-Manu8.278c/ ata ūrdhvaṃ pravakṣyāmi) daṇḍapāruṣyanirṇayam ||  
+मनु८।२७८च्/ अत ऊर्ध्वं प्रवक्ष्यामि) दण्डपारुष्यनिर्णयम् ||  
   
   
   
-Manu8.279a/ yena kena cid aṅgena hiṃsyāc) cet-śreṣṭham antyajaḥ |  
+मनु८।२७९अ/ येन केन चिद् अङ्गेन हिंस्याच्) चेत्-श्रेष्ठम् अन्त्यजः |  
   
-Manu8.279c/ chettavyaṃ) tad tad eva-asya tan manor anuśāsanam ||  
+मनु८।२७९च्/ छेत्तव्यं) तद् तद् एव-अस्य तन् मनोर् अनुशासनम् ||  
   
-Manu8.280a/ pāṇim udyamya) daṇḍaṃ vā pāṇicchedanam arhati) |  
+मनु८।२८०अ/ पाणिम् उद्यम्य) दण्डं वा पाणिच्छेदनम् अर्हति) |  
   
-Manu8.280c/ pādena praharan) kopāt pādacchedanam arhati ||  
+मनु८।२८०च्/ पादेन प्रहरन्) कोपात् पादच्छेदनम् अर्हति ||  
   
-Manu8.281a/ sahāsanam abhiprepsur utkṛṣṭasya-apakṛṣṭajaḥ |  
+मनु८।२८१अ/ सहासनम् अभिप्रेप्सुर् उत्कृष्टस्य-अपकृष्टजः |  
   
-Manu8.281c/ kaṭyāṃ kṛta.aṅko nirvāsyaḥ) sphicaṃ vā-asya-avakartayet) ||  
+मनु८।२८१च्/ कट्यां कृत।अङ्को निर्वास्यः) स्फिचं वा-अस्य-अवकर्तयेत्) ||  
   
-Manu8.282a/ avaniṣṭhīvato darpād dvāv oṣṭhau chedayen) nṛpaḥ |  
+मनु८।२८२अ/ अवनिष्ठीवतो दर्पाद् द्वाव् ओष्ठौ छेदयेन्) नृपः |  
   
-Manu8.282c/ avamūtrayato) meḍhram avaśardhayato) gudam ||  
+मनु८।२८२च्/ अवमूत्रयतो) मेढ्रम् अवशर्धयतो) गुदम् ||  
   
-Manu8.283a/ keśeṣu gṛhṇato) hastau chedayed) avicārayan |  
+मनु८।२८३अ/ केशेषु गृह्णतो) हस्तौ छेदयेद्) अविचारयन् |  
   
-Manu8.283c/ pādayor dāḍhikāyāṃ ca grīvāyāṃ vṛṣaṇeṣu ca ||  
+मनु८।२८३च्/ पादयोर् दाढिकायां च ग्रीवायां वृषणेषु च ||  
   
-Manu8.284a/ tvagbhedakaḥ śataṃ daṇḍyo) lohitasya ca darśakaḥ |  
-Manu8.284c/ māṃsabhettā tu ṣaṭ.niṣkān pravāsyas) tv asthibhedakaḥ ||  
+मनु८।२८४अ/ त्वग्भेदकः शतं दण्ड्यो) लोहितस्य च दर्शकः |  
+मनु८।२८४च्/ मांसभेत्ता तु षट्।निष्कान् प्रवास्यस्) त्व् अस्थिभेदकः ||  
   
-Manu8.285a/ vanaspatīnāṃ sarveṣām upabhogo yathā yathā |  
+मनु८।२८५अ/ वनस्पतीनां सर्वेषाम् उपभोगो यथा यथा |  
   
-Manu8.285c/ yathā tathā damaḥ kāryo) hiṃsāyām iti dhāraṇā ||  
+मनु८।२८५च्/ यथा तथा दमः कार्यो) हिंसायाम् इति धारणा ||  
   
-Manu8.286a/ manuṣyāṇāṃ paśūnāṃ ca duḥkhāya prahṛte) sati |  
+मनु८।२८६अ/ मनुष्याणां पशूनां च दुःखाय प्रहृते) सति |  
   
-Manu8.286c/ yathā yathā mahad duḥkhaṃ daṇḍaṃ kuryāt) tathā tathā ||  
+मनु८।२८६च्/ यथा यथा महद् दुःखं दण्डं कुर्यात्) तथा तथा ||  
   
-Manu8.287a/ aṅgāvapīḍanāyāṃ ca vraṇa.śonitayos tathā | [M.prāṇa.śonitayos ]  
+मनु८।२८७अ/ अङ्गावपीडनायां च व्रण।शोनितयोस् तथा | [म्।प्राण।शोनितयोस् ]  
   
-Manu8.287c/ samutthānavyayaṃ dāpyaḥ) sarvadaṇḍam atha-api vā ||  
+मनु८।२८७च्/ समुत्थानव्ययं दाप्यः) सर्वदण्डम् अथ-अपि वा ||  
   
-Manu8.288a/ dravyāṇi hiṃsyād) yo yasya jñānato 'ajñānato 'api vā |  
+मनु८।२८८अ/ द्रव्याणि हिंस्याद्) यो यस्य ज्ञानतो ऽअज्ञानतो ऽअपि वा |  
   
-Manu8.288c/ sa tasya-utpādayet) tuṣṭiṃ rājñe dadyāc) ca tatsamam ||  
+मनु८।२८८च्/ स तस्य-उत्पादयेत्) तुष्टिं राज्ञे दद्याच्) च तत्समम् ||  
   
-Manu8.289a/ carma.cārmikabhāṇḍeṣu kāṣṭha.loṣṭamayeṣu |  
+मनु८।२८९अ/ चर्म।चार्मिकभाण्डेषु काष्ठ।लोष्टमयेषु |  
   
-Manu8.289c/ mūlyāt pañcaguṇo daṇḍaḥ puṣpa.mūla.phaleṣu ca ||  
+मनु८।२८९च्/ मूल्यात् पञ्चगुणो दण्डः पुष्प।मूल।फलेषु च ||  
   
-Manu8.290a/ yānasya ca-eva yātuś ca yānasvāmina eva ca |  
+मनु८।२९०अ/ यानस्य च-एव यातुश् च यानस्वामिन एव च |  
   
-Manu8.290c/ daśātivartanāny āhuḥ) śeṣe daṇḍo vidhīyate) ||  
+मनु८।२९०च्/ दशातिवर्तनान्य् आहुः) शेषे दण्डो विधीयते) ||  
   
-Manu8.291a/ chinna.nāsye bhagna.yuge tiryak.pratimukha.āgate |  
+मनु८।२९१अ/ छिन्न।नास्ये भग्न।युगे तिर्यक्।प्रतिमुख।आगते |  
   
-Manu8.291c/ akṣa.bhaṅge ca yānasya cakra.bhaṅge tathā-eva ca |  
+मनु८।२९१च्/ अक्ष।भङ्गे च यानस्य चक्र।भङ्गे तथा-एव च |  
   
-Manu8.292a/ chedane ca-eva yantrāṇāṃ yoktra.raśmyos tathā-eva ca |  
+मनु८।२९२अ/ छेदने च-एव यन्त्राणां योक्त्र।रश्म्योस् तथा-एव च |  
   
-Manu8.292c/ ākrande ca-apy apaihi)-iti na daṇḍaṃ manur abravīt) ||  
+मनु८।२९२च्/ आक्रन्दे च-अप्य् अपैहि)-इति न दण्डं मनुर् अब्रवीत्) ||  
   
-Manu8.293a/ yatra-apavartate) yugyaṃ vaiguṇyāt prājakasya tu |  
+मनु८।२९३अ/ यत्र-अपवर्तते) युग्यं वैगुण्यात् प्राजकस्य तु |  
   
-Manu8.293c/ tatra svāmī bhaved) daṇḍyo hiṃsāyāṃ dviśataṃ damam ||  
+मनु८।२९३च्/ तत्र स्वामी भवेद्) दण्ड्यो हिंसायां द्विशतं दमम् ||  
   
-Manu8.294a/ prājakaś ced bhaved) āptaḥ prājako daṇḍam arhati) |  
+मनु८।२९४अ/ प्राजकश् चेद् भवेद्) आप्तः प्राजको दण्डम् अर्हति) |  
   
-Manu8.294c/ yugyasthāḥ prājake 'anāpte sarve daṇḍyāḥ) śataṃ śatam ||  
+मनु८।२९४च्/ युग्यस्थाः प्राजके ऽअनाप्ते सर्वे दण्ड्याः) शतं शतम् ||  
   
-Manu8.295a/ sa cet tu pathi saṃruddhaḥ) paśubhir vā rathena vā |  
+मनु८।२९५अ/ स चेत् तु पथि संरुद्धः) पशुभिर् वा रथेन वा |  
   
-Manu8.295c/ pramāpayet) prāṇabhṛtas tatra daṇḍo 'avicāritaḥ ||  
+मनु८।२९५च्/ प्रमापयेत्) प्राणभृतस् तत्र दण्डो ऽअविचारितः ||  
   
-Manu8.296a/ manuṣyamāraṇe kṣipraṃ cauravat kilbiṣaṃ bhavet) |  
+मनु८।२९६अ/ मनुष्यमारणे क्षिप्रं चौरवत् किल्बिषं भवेत्) |  
   
-Manu8.296c/ prāṇabhṛtsu mahatsv ardhaṃ go.gaja.uṣṭra.hayādiṣu ||  
+मनु८।२९६च्/ प्राणभृत्सु महत्स्व् अर्धं गो।गज।उष्ट्र।हयादिषु ||  
   
-Manu8.297a/ kṣudrakāṇāṃ paśūnāṃ tu hiṃsāyāṃ dviśato damaḥ |  
+मनु८।२९७अ/ क्षुद्रकाणां पशूनां तु हिंसायां द्विशतो दमः |  
   
-Manu8.297c/ pañcāśat tu bhaved) daṇḍaḥ śubheṣu mṛgapakṣiṣu ||  
+मनु८।२९७च्/ पञ्चाशत् तु भवेद्) दण्डः शुभेषु मृगपक्षिषु ||  
   
-Manu8.298a/ gardhabha.aja.āvikānāṃ tu daṇḍaḥ syāt) pañcamāṣikaḥ | [M.pāñcamāṣikaḥ]  
+मनु८।२९८अ/ गर्धभ।अज।आविकानां तु दण्डः स्यात्) पञ्चमाषिकः | [म्।पाञ्चमाषिकः]  
   
-Manu8.298c/ māṣikas tu bhaved) daṇḍaḥ śva.sūkaranipātane ||   
+मनु८।२९८च्/ माषिकस् तु भवेद्) दण्डः श्व।सूकरनिपातने ||   
   
-Manu8.299a/ bhāryā putraś ca dāsaś ca preṣyo) bhrātrā ca sa.udaraḥ |  
+मनु८।२९९अ/ भार्या पुत्रश् च दासश् च प्रेष्यो) भ्रात्रा च स।उदरः |  
   
-Manu8.299c/ prāpta.aparādhās tāḍyāḥ syū) rajjvā veṇudalena vā ||  
+मनु८।२९९च्/ प्राप्त।अपराधास् ताड्याः स्यू) रज्ज्वा वेणुदलेन वा ||  
   
-Manu8.300a/ pṛṣṭhatas tu śarīrasya na-uttamāṅge kathaṃ cana |  
+मनु८।३००अ/ पृष्ठतस् तु शरीरस्य न-उत्तमाङ्गे कथं चन |  
   
-Manu8.300c/ ato 'anyathā tu praharan) prāptaḥ syāc) caurakilbiṣam ||  
+मनु८।३००च्/ अतो ऽअन्यथा तु प्रहरन्) प्राप्तः स्याच्) चौरकिल्बिषम् ||  
   
-Manu8.301a/ eṣo 'akhilena-abhihito) daṇḍapāruṣyanirṇayaḥ |  
+मनु८।३०१अ/ एषो ऽअखिलेन-अभिहितो) दण्डपारुष्यनिर्णयः |  
   
-Manu8.301c/ stenasya-ataḥ pravakṣyāmi) vidhiṃ daṇḍavinirṇaye ||  
+मनु८।३०१च्/ स्तेनस्य-अतः प्रवक्ष्यामि) विधिं दण्डविनिर्णये ||  
   
   
   
-Manu8.302a/ paramaṃ yatnam ātiṣṭhet) stenānāṃ nigrahe nṛpaḥ |  
+मनु८।३०२अ/ परमं यत्नम् आतिष्ठेत्) स्तेनानां निग्रहे नृपः |  
   
-Manu8.302c/ stenānāṃ nigrahād asya yaśo rāṣṭraṃ ca vardhate) ||  
+मनु८।३०२च्/ स्तेनानां निग्रहाद् अस्य यशो राष्ट्रं च वर्धते) ||  
   
-Manu8.303a/ abhayasya hi yo dātā sa pūjyaḥ) satataṃ nṛpaḥ |  
+मनु८।३०३अ/ अभयस्य हि यो दाता स पूज्यः) सततं नृपः |  
   
-Manu8.303c/ sattraṃ hi vardhate) tasya sadā-eva-abhaya.dakṣiṇam ||  
+मनु८।३०३च्/ सत्त्रं हि वर्धते) तस्य सदा-एव-अभय।दक्षिणम् ||  
   
-Manu8.304a/ sarvato dharmaṣaḍbhāgo rājño bhavati) rakṣataḥ) |  
+मनु८।३०४अ/ सर्वतो धर्मषड्भागो राज्ञो भवति) रक्षतः) |  
   
-Manu8.304c/ adharmād api ṣaḍbhāgo bhavaty) asya hy a.rakṣataḥ) ||  
+मनु८।३०४च्/ अधर्माद् अपि षड्भागो भवत्य्) अस्य ह्य् अ।रक्षतः) ||  
   
-Manu8.305a/ yad adhīte) yad yajate) yad dadāti) yad arcati) |  
+मनु८।३०५अ/ यद् अधीते) यद् यजते) यद् ददाति) यद् अर्चति) |  
   
-Manu8.305c/ tasya ṣaḍbhāgabhāg rājā samyag bhavati) rakṣaṇāt ||  
+मनु८।३०५च्/ तस्य षड्भागभाग् राजा सम्यग् भवति) रक्षणात् ||  
   
-Manu8.306a/ rakṣan) dharmeṇa bhūtāni rājā vadhyāṃś ca ghātayan) |  
+मनु८।३०६अ/ रक्षन्) धर्मेण भूतानि राजा वध्यांश् च घातयन्) |  
   
-Manu8.306c/ yajate) 'ahar ahar yajñaiḥ sahasraśata.dakṣiṇaiḥ ||  
+मनु८।३०६च्/ यजते) ऽअहर् अहर् यज्ञैः सहस्रशत।दक्षिणैः ||  
   
-Manu8.307a/ yo 'a.rakṣan) balim ādatte) karaṃ śulkaṃ ca pārthivaḥ |  
+मनु८।३०७अ/ यो ऽअ।रक्षन्) बलिम् आदत्ते) करं शुल्कं च पार्थिवः |  
   
-Manu8.307c/ pratibhāgaṃ ca daṇḍaṃ ca sa sadyo narakaṃ vrajet) ||  
+मनु८।३०७च्/ प्रतिभागं च दण्डं च स सद्यो नरकं व्रजेत्) ||  
   
-Manu8.308a/ arakṣitāram rājānaṃ baliṣaḍbhāga.hāriṇam | [K: arakṣitāraṃ attāraṃ]  
+मनु८।३०८अ/ अरक्षितारम् राजानं बलिषड्भाग।हारिणम् | [क्: अरक्षितारं अत्तारं]  
   
-Manu8.308c/ tam āhuḥ) sarvalokasya samagramala.hārakam ||  
+मनु८।३०८च्/ तम् आहुः) सर्वलोकस्य समग्रमल।हारकम् ||  
   
-Manu8.309a/ anapekṣita.maryādaṃ nāstikaṃ vipraluṃpakam | [M.anavekṣita.maryādaṃ ]  
+मनु८।३०९अ/ अनपेक्षित।मर्यादं नास्तिकं विप्रलुंपकम् | [म्।अनवेक्षित।मर्यादं ]  
   
-Manu8.309c/ arakṣitāram attāraṃ nṛpaṃ vidyād) adho.gatim ||  
+मनु८।३०९च्/ अरक्षितारम् अत्तारं नृपं विद्याद्) अधो।गतिम् ||  
   
-Manu8.310a/ adhārmikaṃ tribhir nyāyair nigṛhṇīyāt) prayatnataḥ |  
+मनु८।३१०अ/ अधार्मिकं त्रिभिर् न्यायैर् निगृह्णीयात्) प्रयत्नतः |  
   
-Manu8.310c/ nirodhanena bandhena vividhena vadhena ca ||  
+मनु८।३१०च्/ निरोधनेन बन्धेन विविधेन वधेन च ||  
   
-Manu8.311a/ nigraheṇa hi pāpānāṃ sādhūnāṃ saṃgraheṇa ca |  
+मनु८।३११अ/ निग्रहेण हि पापानां साधूनां संग्रहेण च |  
   
-Manu8.311c/ dvijātaya iva-ijyābhiḥ pūyante) satataṃ nṛpāḥ ||   
+मनु८।३११च्/ द्विजातय इव-इज्याभिः पूयन्ते) सततं नृपाः ||   
   
-Manu8.312a/ kṣantavyaṃ) prabhuṇā nityaṃ kṣipatāṃ) kāryiṇāṃ nṛṇām |  
+मनु८।३१२अ/ क्षन्तव्यं) प्रभुणा नित्यं क्षिपतां) कार्यिणां नृणाम् |  
   
-Manu8.312c/ bāla.vṛddha.āturāṇāṃ ca kurvatā) hitam ātmanaḥ ||  
+मनु८।३१२च्/ बाल।वृद्ध।आतुराणां च कुर्वता) हितम् आत्मनः ||  
   
-Manu8.313a/ yaḥ kṣipto) marṣayaty) ārtais tena svarge mahīyate) |  
+मनु८।३१३अ/ यः क्षिप्तो) मर्षयत्य्) आर्तैस् तेन स्वर्गे महीयते) |  
   
-Manu8.313c/ yas tv aiśvaryān na kṣamate) narakaṃ tena gacchati) ||  
+मनु८।३१३च्/ यस् त्व् ऐश्वर्यान् न क्षमते) नरकं तेन गच्छति) ||  
   
-Manu8.314a/ rājā stenena gantavyo mukta.keśena dhāvatā | [M. dhīmatā ]  
+मनु८।३१४अ/ राजा स्तेनेन गन्तव्यो मुक्त।केशेन धावता | [म्। धीमता ]  
   
-Manu8.314c/ ācakṣāṇena tat steyam evaṃkarmā-asmi) śādhi) mām ||   
+मनु८।३१४च्/ आचक्षाणेन तत् स्तेयम् एवंकर्मा-अस्मि) शाधि) माम् ||   
   
-Manu8.315a/ skandhena-ādāya) musalaṃ laguḍaṃ vā-api khādiram | [M.muśalaṃ ]  
+मनु८।३१५अ/ स्कन्धेन-आदाय) मुसलं लगुडं वा-अपि खादिरम् | [म्।मुशलं ]  
   
-Manu8.315c/ śaktiṃ ca-ubhayatas tīkṣṇām āyasaṃ daṇḍam eva vā ||  
+मनु८।३१५च्/ शक्तिं च-उभयतस् तीक्ष्णाम् आयसं दण्डम् एव वा ||  
   
-Manu8.316a/ śāsanād vā vimokṣād vā stenaḥ steyād vimucyate) |  
+मनु८।३१६अ/ शासनाद् वा विमोक्षाद् वा स्तेनः स्तेयाद् विमुच्यते) |  
   
-Manu8.316c/ a.śāsitvā) tu taṃ rājā stenasya-āpnoti) kilbiṣam ||  
+मनु८।३१६च्/ अ।शासित्वा) तु तं राजा स्तेनस्य-आप्नोति) किल्बिषम् ||  
   
-Manu8.317a/ annāde bhrūṇahā mārṣṭi) patyau bhāryā-apacāriṇī |  
+मनु८।३१७अ/ अन्नादे भ्रूणहा मार्ष्टि) पत्यौ भार्या-अपचारिणी |  
   
-Manu8.317c/ gurau śiṣyaś ca yājyaś ca steno rājani kilbiṣam ||  
+मनु८।३१७च्/ गुरौ शिष्यश् च याज्यश् च स्तेनो राजनि किल्बिषम् ||  
   
-Manu8.318a/ rājabhiḥ kṛtadaṇḍās tu kṛtvā) pāpāni mānavāḥ | [M.rājabhir dhṛtadaṇḍās tu]  
+मनु८।३१८अ/ राजभिः कृतदण्डास् तु कृत्वा) पापानि मानवाः | [म्।राजभिर् धृतदण्डास् तु]  
   
-Manu8.318c/ nir.malāḥ svargam āyānti) santaḥ sukṛtino yathā ||  
+मनु८।३१८च्/ निर्।मलाः स्वर्गम् आयान्ति) सन्तः सुकृतिनो यथा ||  
   
-Manu8.319a/ yas tu rajjuṃ ghaṭaṃ kūpādd hared) bhindyāc) ca yaḥ prapām |   
+मनु८।३१९अ/ यस् तु रज्जुं घटं कूपाद्द् हरेद्) भिन्द्याच्) च यः प्रपाम् |   
   
-Manu8.319c/ sa daṇḍaṃ prāpnuyān) māṣaṃ tac ca tasmin samāharet) ||  
+मनु८।३१९च्/ स दण्डं प्राप्नुयान्) माषं तच् च तस्मिन् समाहरेत्) ||  
   
-Manu8.320a/ dhānyaṃ daśabhyaḥ kumbhebhyo harato) 'abhyadhikaṃ vadhaḥ |  
+मनु८।३२०अ/ धान्यं दशभ्यः कुम्भेभ्यो हरतो) ऽअभ्यधिकं वधः |  
   
-Manu8.320c/ śeṣe 'apy ekādaśaguṇaṃ dāpyas) tasya ca tad dhanam ||  
+मनु८।३२०च्/ शेषे ऽअप्य् एकादशगुणं दाप्यस्) तस्य च तद् धनम् ||  
   
-Manu8.321a/ tathā dharimameyānāṃ śatād abhyadhike vadhaḥ |  
+मनु८।३२१अ/ तथा धरिममेयानां शताद् अभ्यधिके वधः |  
   
-Manu8.321c/ suvarṇa.rajatādīnām uttamānāṃ ca vāsasām ||  
+मनु८।३२१च्/ सुवर्ण।रजतादीनाम् उत्तमानां च वाससाम् ||  
   
-Manu8.322a/ pañcāśatas tv abhyadhike hastacchedanam iṣyate) |  
+मनु८।३२२अ/ पञ्चाशतस् त्व् अभ्यधिके हस्तच्छेदनम् इष्यते) |  
   
-Manu8.322c/ śeṣe tv ekādaśaguṇaṃ mūlyād daṇḍaṃ prakalpayet) ||  
+मनु८।३२२च्/ शेषे त्व् एकादशगुणं मूल्याद् दण्डं प्रकल्पयेत्) ||  
   
-Manu8.323a/ puruṣāṇāṃ kulīnānāṃ nārīṇāṃ ca viśeṣataḥ |  
+मनु८।३२३अ/ पुरुषाणां कुलीनानां नारीणां च विशेषतः |  
   
-Manu8.323c/ mukhyānāṃ ca-eva ratnānāṃ haraṇe vadham arhati) ||  
+मनु८।३२३च्/ मुख्यानां च-एव रत्नानां हरणे वधम् अर्हति) ||  
   
-Manu8.324a/ mahāpaśūnāṃ haraṇe śastrāṇām auṣadhasya ca |  
+मनु८।३२४अ/ महापशूनां हरणे शस्त्राणाम् औषधस्य च |  
   
-Manu8.324c/ kālam āsādya) kāryaṃ ca daṇḍaṃ rājā prakalpayet) ||  
+मनु८।३२४च्/ कालम् आसाद्य) कार्यं च दण्डं राजा प्रकल्पयेत्) ||  
   
-Manu8.325a/ goṣu brāhmaṇasaṃsthāsu churikāyāś ca bhedane | [M.kharikāyāś ca]  
+मनु८।३२५अ/ गोषु ब्राह्मणसंस्थासु छुरिकायाश् च भेदने | [म्।खरिकायाश् च]  
   
-Manu8.325c/ paśūnāṃ haraṇe ca-eva sadyaḥ kāryo 'ardhapādikaḥ ||  
+मनु८।३२५च्/ पशूनां हरणे च-एव सद्यः कार्यो ऽअर्धपादिकः ||  
   
-Manu8.326a/ sūtra.kārpāsa.kiṇvānāṃ gomayasya guḍasya ca |  
+मनु८।३२६अ/ सूत्र।कार्पास।किण्वानां गोमयस्य गुडस्य च |  
   
-Manu8.326c/ dadhnaḥ kṣīrasya takrasya pānīyasya tṛṇasya ca ||  
+मनु८।३२६च्/ दध्नः क्षीरस्य तक्रस्य पानीयस्य तृणस्य च ||  
   
-Manu8.327a/ veṇuvaidalabhāṇḍānāṃ lavaṇānāṃ tathā-eva ca |  
+मनु८।३२७अ/ वेणुवैदलभाण्डानां लवणानां तथा-एव च |  
   
-Manu8.327c/ mṛṇmayānāṃ ca haraṇe mṛdo bhasmana eva ca ||  
+मनु८।३२७च्/ मृण्मयानां च हरणे मृदो भस्मन एव च ||  
   
-Manu8.328a/ matsyānāṃ pakṣiṇāṃ ca-eva tailasya ca ghṛtasya ca |  
+मनु८।३२८अ/ मत्स्यानां पक्षिणां च-एव तैलस्य च घृतस्य च |  
   
-Manu8.328c/ māṃsasya madhunaś ca-eva yac ca-anyat paśu.saṃbhavam ||  
+मनु८।३२८च्/ मांसस्य मधुनश् च-एव यच् च-अन्यत् पशु।संभवम् ||  
   
-Manu8.329a/ anyeṣāṃ ca-evam.ādīnāṃ madyānām odanasya ca | [M.ca-evamādīnām adyānām]  
+मनु८।३२९अ/ अन्येषां च-एवम्।आदीनां मद्यानाम् ओदनस्य च | [म्।च-एवमादीनाम् अद्यानाम्]  
   
-Manu8.329c/ pakvānnānāṃ ca sarveṣāṃ tanmulyād dviguṇo damaḥ ||  
+मनु८।३२९च्/ पक्वान्नानां च सर्वेषां तन्मुल्याद् द्विगुणो दमः ||  
   
-Manu8.330a/ puṣpeṣu harite dhānye gulma.vallī.nageṣu ca |  
+मनु८।३३०अ/ पुष्पेषु हरिते धान्ये गुल्म।वल्ली।नगेषु च |  
   
-Manu8.330c/ anyeṣv a.paripūteṣu daṇḍaḥ syāt) pañcakṛṣṇalaḥ ||  
+मनु८।३३०च्/ अन्येष्व् अ।परिपूतेषु दण्डः स्यात्) पञ्चकृष्णलः ||  
   
-Manu8.331a/ paripūteṣu dhānyeṣu śāka.mūla.phaleṣu ca |  
+मनु८।३३१अ/ परिपूतेषु धान्येषु शाक।मूल।फलेषु च |  
   
-Manu8.331c/ niranvaye śataṃ daṇḍaḥ sānvaye 'ardhaśataṃ damaḥ ||   
+मनु८।३३१च्/ निरन्वये शतं दण्डः सान्वये ऽअर्धशतं दमः ||   
   
-Manu8.332a/ syāt sāhasaṃ tv anvayavat prasabhaṃ karma yat kṛtam |  
+मनु८।३३२अ/ स्यात् साहसं त्व् अन्वयवत् प्रसभं कर्म यत् कृतम् |  
   
-Manu8.332c/ niranvayaṃ bhavet) steyaṃ hṛtvā)-apavyayate) ca yat ||  
+मनु८।३३२च्/ निरन्वयं भवेत्) स्तेयं हृत्वा)-अपव्ययते) च यत् ||  
   
-Manu8.333a/ yas tv etāny upakḷptāni) dravyāṇi stenayen) naraḥ |  
+मनु८।३३३अ/ यस् त्व् एतान्य् उपकॢप्तानि) द्रव्याणि स्तेनयेन्) नरः |  
   
-Manu8.333c/ tam ādyaṃ daṇḍayed) rājā yaś cāgniṃ corayed) gṛhāt || [M.taṃ śataṃ]  
+मनु८।३३३च्/ तम् आद्यं दण्डयेद्) राजा यश् चाग्निं चोरयेद्) गृहात् || [म्।तं शतं]  
   
-Manu8.334a/ yena yena yathāṅgena steno nṛṣu viceṣṭate) |  
+मनु८।३३४अ/ येन येन यथाङ्गेन स्तेनो नृषु विचेष्टते) |  
   
-Manu8.334c/ tat tad eva haret) tasya pratyādeśāya pārthivaḥ ||  
+मनु८।३३४च्/ तत् तद् एव हरेत्) तस्य प्रत्यादेशाय पार्थिवः ||  
   
-Manu8.335a/ pitā-ācāryaḥ suhṛt-mātā bhāryā putraḥ purohitaḥ |  
+मनु८।३३५अ/ पिता-आचार्यः सुहृत्-माता भार्या पुत्रः पुरोहितः |  
   
-Manu8.335c/ na-adaṇḍyo nāma rājño 'asti) yaḥ svadharme na tiṣṭhati) ||  
+मनु८।३३५च्/ न-अदण्ड्यो नाम राज्ञो ऽअस्ति) यः स्वधर्मे न तिष्ठति) ||  
   
-Manu8.336a/ kārṣāpaṇaṃ bhaved) daṇḍyo yatra-anyaḥ prākṛto janaḥ |  
+मनु८।३३६अ/ कार्षापणं भवेद्) दण्ड्यो यत्र-अन्यः प्राकृतो जनः |  
   
-Manu8.336c/ tatra rājā bhaved) daṇḍyaḥ sahasram iti dhāraṇā ||  
+मनु८।३३६च्/ तत्र राजा भवेद्) दण्ड्यः सहस्रम् इति धारणा ||  
   
-Manu8.337a/ aṣṭāpādyaṃ tu śūdrasya steye bhavati) kilbiṣam |  
+मनु८।३३७अ/ अष्टापाद्यं तु शूद्रस्य स्तेये भवति) किल्बिषम् |  
   
-Manu8.337c/ ṣoḍaśa-eva tu vaiśyasya dvātriṃśat kṣatriyasya ca ||  
+मनु८।३३७च्/ षोडश-एव तु वैश्यस्य द्वात्रिंशत् क्षत्रियस्य च ||  
   
-Manu8.338a/ brāhmaṇasya catuḥṣaṣṭiḥ pūrṇaṃ vā-api śataṃ bhavet) |  
+मनु८।३३८अ/ ब्राह्मणस्य चतुःषष्टिः पूर्णं वा-अपि शतं भवेत्) |  
   
-Manu8.338c/ dviguṇā vā catuḥṣaṣṭis taddoṣaguṇavidd hi saḥ ||  
+मनु८।३३८च्/ द्विगुणा वा चतुःषष्टिस् तद्दोषगुणविद्द् हि सः ||  
   
-Manu8.339a/ vānaspatyaṃ mūla.phalaṃ dāru-agny.arthaṃ tathā-eva ca |  
+मनु८।३३९अ/ वानस्पत्यं मूल।फलं दारु-अग्न्य्।अर्थं तथा-एव च |  
   
-Manu8.339c/ tṛṇaṃ ca gobhyo grāsa.artham asteyaṃ manur abravīt) ||  
+मनु८।३३९च्/ तृणं च गोभ्यो ग्रास।अर्थम् अस्तेयं मनुर् अब्रवीत्) ||  
   
-Manu8.340a/ yo 'adattādāyino hastāt- lipseta) brāhmaṇo dhanam |  
+मनु८।३४०अ/ यो ऽअदत्तादायिनो हस्तात्- लिप्सेत) ब्राह्मणो धनम् |  
   
-Manu8.340c/ yājana.adhyāpanena-api yathā stenas tathā-eva saḥ ||  
+मनु८।३४०च्/ याजन।अध्यापनेन-अपि यथा स्तेनस् तथा-एव सः ||  
   
-Manu8.341a/ dvijo 'adhvagaḥ kṣīṇa.vṛttir dvāv ikṣū dve ca mūlake |  
+मनु८।३४१अ/ द्विजो ऽअध्वगः क्षीण।वृत्तिर् द्वाव् इक्षू द्वे च मूलके |  
   
-Manu8.341c/ ādadānaḥ) parakṣetrāt-na daṇḍaṃ dātum arhati) ||  
+मनु८।३४१च्/ आददानः) परक्षेत्रात्-न दण्डं दातुम् अर्हति) ||  
   
-Manu8.342a/ a.saṃditānāṃ saṃdātā saṃditānāṃ ca mokṣakaḥ |  
+मनु८।३४२अ/ अ।संदितानां संदाता संदितानां च मोक्षकः |  
   
-Manu8.342c/ dāsa.aśva.rathahartā ca prāptaḥ syāc) corakilbiṣam ||  
+मनु८।३४२च्/ दास।अश्व।रथहर्ता च प्राप्तः स्याच्) चोरकिल्बिषम् ||  
   
-Manu8.343a/ anena vidhinā rājā kurvāṇaḥ) stenanigraham |  
+मनु८।३४३अ/ अनेन विधिना राजा कुर्वाणः) स्तेननिग्रहम् |  
   
-Manu8.343c/ yaśo 'asmin prāpnuyāt)-loke pretya ca-anuttamaṃ sukham ||  
+मनु८।३४३च्/ यशो ऽअस्मिन् प्राप्नुयात्)-लोके प्रेत्य च-अनुत्तमं सुखम् ||  
   
   
   
-Manu8.344a/ aindraṃ sthānam abhiprepsur yaśaś ca-akṣayam avyayam |  
+मनु८।३४४अ/ ऐन्द्रं स्थानम् अभिप्रेप्सुर् यशश् च-अक्षयम् अव्ययम् |  
   
-Manu8.344c/ na-upekṣeta) kṣaṇam api rājā sāhasikaṃ naram ||  
+मनु८।३४४च्/ न-उपेक्षेत) क्षणम् अपि राजा साहसिकं नरम् ||  
   
-Manu8.345a/ vāgduṣṭāt taskarāc ca-eva daṇḍena-eva ca hiṃsataḥ) |  
+मनु८।३४५अ/ वाग्दुष्टात् तस्कराच् च-एव दण्डेन-एव च हिंसतः) |  
   
-Manu8.345c/ sāhasasya naraḥ kartā vijñeyaḥ) pāpakṛttamaḥ ||  
+मनु८।३४५च्/ साहसस्य नरः कर्ता विज्ञेयः) पापकृत्तमः ||  
   
-Manu8.346a/ sāhase vartamānaṃ) tu yo marṣayati) pārthivaḥ |  
+मनु८।३४६अ/ साहसे वर्तमानं) तु यो मर्षयति) पार्थिवः |  
   
-Manu8.346c/ sa vināśaṃ vrajaty) āśu vidveṣaṃ ca-adhigacchati) ||  
+मनु८।३४६च्/ स विनाशं व्रजत्य्) आशु विद्वेषं च-अधिगच्छति) ||  
   
-Manu8.347a/ na mitrakāraṇād rājā vipulād vā dhanāgamāt |  
+मनु८।३४७अ/ न मित्रकारणाद् राजा विपुलाद् वा धनागमात् |  
   
-Manu8.347c/ samutsṛjet) sāhasikān sarvabhūtabhayāvahān ||  
+मनु८।३४७च्/ समुत्सृजेत्) साहसिकान् सर्वभूतभयावहान् ||  
   
-Manu8.348a/ śastraṃ dvijātibhir grāhyaṃ) dharmo yatra-uparudhyate) |  
+मनु८।३४८अ/ शस्त्रं द्विजातिभिर् ग्राह्यं) धर्मो यत्र-उपरुध्यते) |  
   
-Manu8.348c/ dvijātīnāṃ ca varṇānāṃ viplave kālakārite ||  
+मनु८।३४८च्/ द्विजातीनां च वर्णानां विप्लवे कालकारिते ||  
   
-Manu8.349a/ ātmanaś ca paritrāṇe dakṣiṇānāṃ ca saṃgare |  
+मनु८।३४९अ/ आत्मनश् च परित्राणे दक्षिणानां च संगरे |  
   
-Manu8.349c/ strī.viprābhyupapattau ca ghnan) dharmeṇa na duṣyati) ||  
+मनु८।३४९च्/ स्त्री।विप्राभ्युपपत्तौ च घ्नन्) धर्मेण न दुष्यति) ||  
   
-Manu8.350a/ guruṃ vā bāla.vṛddhau vā brāhmaṇaṃ vā bahu.śrutam |  
+मनु८।३५०अ/ गुरुं वा बाल।वृद्धौ वा ब्राह्मणं वा बहु।श्रुतम् |  
   
-Manu8.350c/ ātatāyinam āyāntaṃ hanyād) eva-a.vicārayan ||  
+मनु८।३५०च्/ आततायिनम् आयान्तं हन्याद्) एव-अ।विचारयन् ||  
   
-Manu8.351a/ na-ātatāyivadhe doṣo hantur bhavati) kaś cana |  
+मनु८।३५१अ/ न-आततायिवधे दोषो हन्तुर् भवति) कश् चन |  
   
-Manu8.351c/ prakāśaṃ vā-aprakāśaṃ vā manyus taṃ manyum ṛcchati) ||  
+मनु८।३५१च्/ प्रकाशं वा-अप्रकाशं वा मन्युस् तं मन्युम् ऋच्छति) ||  
   
   
   
-Manu8.352a/ paradārābhimarśeṣu pravṛttān nqn mahīpatiḥ |  
+मनु८।३५२अ/ परदाराभिमर्शेषु प्रवृत्तान् न्क़्न् महीपतिः |  
   
-Manu8.352c/ udvejanakarair daṇḍaiś chinnayitvā) pravāsayet) || [M.cihnayitvā)]  
+मनु८।३५२च्/ उद्वेजनकरैर् दण्डैश् छिन्नयित्वा) प्रवासयेत्) || [म्।चिह्नयित्वा)]  
   
-Manu8.353a/ tat.samuttho hi lokasya jāyate) varṇasaṃkaraḥ |   
+मनु८।३५३अ/ तत्।समुत्थो हि लोकस्य जायते) वर्णसंकरः |   
   
-Manu8.353c/ yena mūlaharo 'adharmaḥ sarvanāśāya kalpate) ||  
+मनु८।३५३च्/ येन मूलहरो ऽअधर्मः सर्वनाशाय कल्पते) ||  
   
-Manu8.354a/ parasya patnyā puruṣaḥ saṃbhāṣāṃ yojayan) rahaḥ |  
+मनु८।३५४अ/ परस्य पत्न्या पुरुषः संभाषां योजयन्) रहः |  
   
-Manu8.354c/ pūrvam ākṣārito) doṣaiḥ prāpnuyāt) pūrvasāhasam ||  
+मनु८।३५४च्/ पूर्वम् आक्षारितो) दोषैः प्राप्नुयात्) पूर्वसाहसम् ||  
   
-Manu8.355a/ yas tv an.ākṣāritaḥ pūrvam abhibhāṣate) kāraṇāt |  
+मनु८।३५५अ/ यस् त्व् अन्।आक्षारितः पूर्वम् अभिभाषते) कारणात् |  
   
-Manu8.355c/ na doṣaṃ prāpnuyāt) kiṃ cin na hi tasya vyatikramaḥ ||  
+मनु८।३५५च्/ न दोषं प्राप्नुयात्) किं चिन् न हि तस्य व्यतिक्रमः ||  
   
-Manu8.356a/ parastriyaṃ yo 'abhivadet) tīrthe 'araṇye vane 'api vā |  
+मनु८।३५६अ/ परस्त्रियं यो ऽअभिवदेत्) तीर्थे ऽअरण्ये वने ऽअपि वा |  
   
-Manu8.356c/ nadīnāṃ vā-api saṃbhede sa saṃgrahaṇam āpnuyāt) ||  
+मनु८।३५६च्/ नदीनां वा-अपि संभेदे स संग्रहणम् आप्नुयात्) ||  
   
-Manu8.357a/ upacārakriyā keliḥ sparśo bhūṣaṇa.vāsasām | [M.upakārakriyā]  
+मनु८।३५७अ/ उपचारक्रिया केलिः स्पर्शो भूषण।वाससाम् | [म्।उपकारक्रिया]  
   
-Manu8.357c/ saha khaṭvā-āsanaṃ ca-eva sarvaṃ saṃgrahaṇaṃ smṛtam ||  
+मनु८।३५७च्/ सह खट्वा-आसनं च-एव सर्वं संग्रहणं स्मृतम् ||  
   
-Manu8.358a/ striyaṃ spṛśed) adeśe yaḥ spṛṣṭo) vā marṣayet) tayā |  
+मनु८।३५८अ/ स्त्रियं स्पृशेद्) अदेशे यः स्पृष्टो) वा मर्षयेत्) तया |  
   
-Manu8.358c/ parasparasya-anumate sarvaṃ saṃgrahaṇaṃ smṛtam ||  
+मनु८।३५८च्/ परस्परस्य-अनुमते सर्वं संग्रहणं स्मृतम् ||  
   
-Manu8.359a/ abrāhmaṇaḥ saṃgrahaṇe prāṇāntaṃ daṇḍam arhati) |  
+मनु८।३५९अ/ अब्राह्मणः संग्रहणे प्राणान्तं दण्डम् अर्हति) |  
   
-Manu8.359c/ caturṇām api varṇānāṃ dārā rakṣyatamāḥ sadā ||  
+मनु८।३५९च्/ चतुर्णाम् अपि वर्णानां दारा रक्ष्यतमाः सदा ||  
   
-Manu8.360a/ bhikṣukā bandinaś ca-eva dīkṣitāḥ kāravas tathā |  
+मनु८।३६०अ/ भिक्षुका बन्दिनश् च-एव दीक्षिताः कारवस् तथा |  
   
-Manu8.360c/ saṃbhāṣanaṃ saha strībhiḥ kuryur) a.prativāritāḥ ||  
+मनु८।३६०च्/ संभाषनं सह स्त्रीभिः कुर्युर्) अ।प्रतिवारिताः ||  
   
-Manu8.361a/ na saṃbhāṣāṃ parastrībhiḥ pratiṣiddhaḥ samācaret) |  
+मनु८।३६१अ/ न संभाषां परस्त्रीभिः प्रतिषिद्धः समाचरेत्) |  
   
-Manu8.361c/ niṣiddho bhāṣamāṇas) tu suvarṇaṃ daṇḍam arhati) ||  
+मनु८।३६१च्/ निषिद्धो भाषमाणस्) तु सुवर्णं दण्डम् अर्हति) ||  
   
-Manu8.362a/ na-eṣa cāraṇadāreṣu vidhir na-ātma.upajīviṣu |  
+मनु८।३६२अ/ न-एष चारणदारेषु विधिर् न-आत्म।उपजीविषु |  
   
-Manu8.362c/ sajjayanti hi te nārīr nigūḍhāś cārayanti) ca ||  
-Manu8.363a/ kiṃ cid eva tu dāpyaḥ syāt) saṃbhāṣāṃ tābhir ācaran) |  
+मनु८।३६२च्/ सज्जयन्ति हि ते नारीर् निगूढाश् चारयन्ति) च ||  
+मनु८।३६३अ/ किं चिद् एव तु दाप्यः स्यात्) संभाषां ताभिर् आचरन्) |  
   
-Manu8.363c/ praiṣyāsu ca-ekabhaktāsu rahaḥ pravrajitāsu ca || [M.preṣyāsu ]  
+मनु८।३६३च्/ प्रैष्यासु च-एकभक्तासु रहः प्रव्रजितासु च || [म्।प्रेष्यासु ]  
   
-Manu8.364a/ yo 'a.kāmāṃ dūṣayet) kanyāṃ sa sadyo vadham arhati) |  
+मनु८।३६४अ/ यो ऽअ।कामां दूषयेत्) कन्यां स सद्यो वधम् अर्हति) |  
   
-Manu8.364c/ sa.kāmāṃ dūṣayaṃs) tulyo na vadhaṃ prāpnuyān) naraḥ ||  
+मनु८।३६४च्/ स।कामां दूषयंस्) तुल्यो न वधं प्राप्नुयान्) नरः ||  
   
-Manu8.365a/ kanyām bhajantīm) utkṛṣṭaṃ na kiṃ cid api dāpayet) |  
+मनु८।३६५अ/ कन्याम् भजन्तीम्) उत्कृष्टं न किं चिद् अपि दापयेत्) |  
   
-Manu8.365c/ jaghanyaṃ sevamānāṃ) tu saṃyatāṃ vāsayed) gṛhe ||  
+मनु८।३६५च्/ जघन्यं सेवमानां) तु संयतां वासयेद्) गृहे ||  
   
-Manu8.366a/ uttamāṃ sevamānas) tu jaghanyo vadham arhati) |  
+मनु८।३६६अ/ उत्तमां सेवमानस्) तु जघन्यो वधम् अर्हति) |  
   
-Manu8.366c/ śulkaṃ dadyāt) sevamānaḥ) samām icchet) pitā yadi ||  
+मनु८।३६६च्/ शुल्कं दद्यात्) सेवमानः) समाम् इच्छेत्) पिता यदि ||  
   
-Manu8.367a/ abhiṣahya) tu yaḥ kanyāṃ kuryād) darpeṇa mānavaḥ |  
+मनु८।३६७अ/ अभिषह्य) तु यः कन्यां कुर्याद्) दर्पेण मानवः |  
   
-Manu8.367c/ tasya-āśu kartye aṅgulyau daṇḍaṃ ca-arhati) ṣaṭśatam || [M.kartyā aṅgulyo ]  
+मनु८।३६७च्/ तस्य-आशु कर्त्ये अङ्गुल्यौ दण्डं च-अर्हति) षट्शतम् || [म्।कर्त्या अङ्गुल्यो ]  
   
-Manu8.368a/ sa.kāmāṃ dūṣayaṃs) tulyo na-aṅgulichedam āpnuyāt) |  
+मनु८।३६८अ/ स।कामां दूषयंस्) तुल्यो न-अङ्गुलिछेदम् आप्नुयात्) |  
   
-Manu8.368c/ dviśataṃ tu damam dāpyaḥ) prasaṅgavinivṛttaye ||  
+मनु८।३६८च्/ द्विशतं तु दमम् दाप्यः) प्रसङ्गविनिवृत्तये ||  
   
-Manu8.369a/ kanyā-eva kanyāṃ yā kuryāt) tasyāḥ syād) dviśato damaḥ |  
+मनु८।३६९अ/ कन्या-एव कन्यां या कुर्यात्) तस्याः स्याद्) द्विशतो दमः |  
   
-Manu8.369c/ śulkaṃ ca dviguṇaṃ dadyāt)-śiphāś ca-eva-āpnuyād) daśa ||  
+मनु८।३६९च्/ शुल्कं च द्विगुणं दद्यात्)-शिफाश् च-एव-आप्नुयाद्) दश ||  
   
-Manu8.370a/ yā tu kanyāṃ prakuryāt) strī sā sadyo mauṇḍyam arhati) |  
+मनु८।३७०अ/ या तु कन्यां प्रकुर्यात्) स्त्री सा सद्यो मौण्ड्यम् अर्हति) |  
   
-Manu8.370c/ aṅgulyor eva vā chedaṃ khareṇa-udvahanaṃ tathā ||  
+मनु८।३७०च्/ अङ्गुल्योर् एव वा छेदं खरेण-उद्वहनं तथा ||  
   
-Manu8.371a/ bhartāraṃ laṅghayed) yā tu strī jñāti.guṇadarpitā |  
+मनु८।३७१अ/ भर्तारं लङ्घयेद्) या तु स्त्री ज्ञाति।गुणदर्पिता |  
   
-Manu8.371c/ tāṃ śvabhiḥ khādayed) rājā saṃsthāne bahusaṃsthite ||  
+मनु८।३७१च्/ तां श्वभिः खादयेद्) राजा संस्थाने बहुसंस्थिते ||  
   
-Manu8.372a/ pumāṃsaṃ dāhayet) pāpaṃ śayane tapta āyase |  
+मनु८।३७२अ/ पुमांसं दाहयेत्) पापं शयने तप्त आयसे |  
   
-Manu8.372c/ abhyādadhyuś) ca kāṣṭhāni tatra dahyeta) pāpakṛt ||  
+मनु८।३७२च्/ अभ्यादध्युश्) च काष्ठानि तत्र दह्येत) पापकृत् ||  
   
-Manu8.373a/ saṃvatsarābhiśastasya duṣṭasya dviguṇo damaḥ | [M.saṃvatsare 'abhiśastasya]  
+मनु८।३७३अ/ संवत्सराभिशस्तस्य दुष्टस्य द्विगुणो दमः | [म्।संवत्सरे ऽअभिशस्तस्य]  
   
-Manu8.373c/ vrātyayā saha saṃvāse cāṇḍālyā tāvad eva tu ||  
+मनु८।३७३च्/ व्रात्यया सह संवासे चाण्डाल्या तावद् एव तु ||  
   
-Manu8.374a/ śūdro guptam aguptaṃ vā dvaijātaṃ varṇam āvasan) |  
+मनु८।३७४अ/ शूद्रो गुप्तम् अगुप्तं वा द्वैजातं वर्णम् आवसन्) |  
   
-Manu8.374c/ aguptam aṅga.sarvasvair guptaṃ sarveṇa hīyate) || [M.aṅga.sarvasvī]  
+मनु८।३७४च्/ अगुप्तम् अङ्ग।सर्वस्वैर् गुप्तं सर्वेण हीयते) || [म्।अङ्ग।सर्वस्वी]  
   
-Manu8.375a/ vaiśyaḥ sarvasva.daṇḍaḥ syāt saṃvatsaranirodhataḥ |  
+मनु८।३७५अ/ वैश्यः सर्वस्व।दण्डः स्यात् संवत्सरनिरोधतः |  
   
-Manu8.375c/ sahasraṃ kṣatriyo daṇḍyo mauṇḍyaṃ mūtreṇa ca-arhati) ||  
+मनु८।३७५च्/ सहस्रं क्षत्रियो दण्ड्यो मौण्ड्यं मूत्रेण च-अर्हति) ||  
   
-Manu8.376a/ brāhmaṇīṃ yady aguptāṃ tu gacchetāṃ) vaiśya.pārthivau |  
+मनु८।३७६अ/ ब्राह्मणीं यद्य् अगुप्तां तु गच्छेतां) वैश्य।पार्थिवौ |  
   
-Manu8.376c/ vaiśyaṃ pañcaśataṃ kuryāt) kṣatriyaṃ tu sahasriṇam ||  
+मनु८।३७६च्/ वैश्यं पञ्चशतं कुर्यात्) क्षत्रियं तु सहस्रिणम् ||  
   
-Manu8.377a/ ubhāv api tu tāv eva brāhmaṇyā guptayā saha |  
+मनु८।३७७अ/ उभाव् अपि तु ताव् एव ब्राह्मण्या गुप्तया सह |  
   
-Manu8.377c/ viplutau śūdravad daṇḍyau) dagdhavyau) vā kaṭāgninā ||  
+मनु८।३७७च्/ विप्लुतौ शूद्रवद् दण्ड्यौ) दग्धव्यौ) वा कटाग्निना ||  
   
-Manu8.378a/ sahasraṃ brāhmaṇo daṇḍyo) guptāṃ viprāṃ balād vrajan) |  
+मनु८।३७८अ/ सहस्रं ब्राह्मणो दण्ड्यो) गुप्तां विप्रां बलाद् व्रजन्) |  
   
-Manu8.378c/ śatāni pañca daṇḍyaḥ syād) icchantyā saha saṃgataḥ) ||  
+मनु८।३७८च्/ शतानि पञ्च दण्ड्यः स्याद्) इच्छन्त्या सह संगतः) ||  
   
-Manu8.379a/ mauṇḍyaṃ prāṇāntikaṃ daṇḍo brāhmaṇasya vidhīyate) | [M.prāṇāntako][ṃ's com refers to the reading of "prāṇāntika-".]  
+मनु८।३७९अ/ मौण्ड्यं प्राणान्तिकं दण्डो ब्राह्मणस्य विधीयते) | [म्।प्राणान्तको][ंऽस् चोम् रेफ़ेर्स् तो थे रेअदिन्ग् ओफ़् "प्राणान्तिक-"।]  
   
-Manu8.379c/ itareṣāṃ tu varṇānāṃ daṇḍaḥ prāṇāntiko bhavet) || [M.prāṇāntako ]  
+मनु८।३७९च्/ इतरेषां तु वर्णानां दण्डः प्राणान्तिको भवेत्) || [म्।प्राणान्तको ]  
   
-Manu8.380a/ na jātu brāhmaṇaṃ hanyāt) sarvapāpeṣv api sthitam |  
+मनु८।३८०अ/ न जातु ब्राह्मणं हन्यात्) सर्वपापेष्व् अपि स्थितम् |  
   
-Manu8.380c/ rāṣṭrād enaṃ bahiḥ kuryāt) samagra.dhanam a.kṣatam ||  
+मनु८।३८०च्/ राष्ट्राद् एनं बहिः कुर्यात्) समग्र।धनम् अ।क्षतम् ||  
   
-Manu8.381a/ na brāhmaṇavadhād bhūyān adharmo vidyate) bhuvi |  
+मनु८।३८१अ/ न ब्राह्मणवधाद् भूयान् अधर्मो विद्यते) भुवि |  
   
-Manu8.381c/ tasmād asya vadhaṃ rājā manasā-api na cintayet) ||  
+मनु८।३८१च्/ तस्माद् अस्य वधं राजा मनसा-अपि न चिन्तयेत्) ||  
   
-Manu8.382a/ vaiśyaś cet kṣatriyāṃ guptāṃ vaiśyāṃ vā kṣatriyo vrajet) |  
+मनु८।३८२अ/ वैश्यश् चेत् क्षत्रियां गुप्तां वैश्यां वा क्षत्रियो व्रजेत्) |  
   
-Manu8.382c/ yo brāhmaṇyām aguptāyāṃ tāv ubhau daṇḍam arhataḥ) ||  
+मनु८।३८२च्/ यो ब्राह्मण्याम् अगुप्तायां ताव् उभौ दण्डम् अर्हतः) ||  
   
-Manu8.383a/ sahasraṃ brāhmaṇo daṇḍaṃ dāpyo) gupte tu te vrajan) |  
+मनु८।३८३अ/ सहस्रं ब्राह्मणो दण्डं दाप्यो) गुप्ते तु ते व्रजन्) |  
   
-Manu8.383c/ śūdrāyāṃ kṣatriya.viśoḥ sāhasro vai bhaved) damaḥ || [M.śūdrāyā]  
+मनु८।३८३च्/ शूद्रायां क्षत्रिय।विशोः साहस्रो वै भवेद्) दमः || [म्।शूद्राया]  
   
-Manu8.384a/ kṣatriyāyām aguptāyāṃ vaiśye pañcaśataṃ damaḥ |  
+मनु८।३८४अ/ क्षत्रियायाम् अगुप्तायां वैश्ये पञ्चशतं दमः |  
   
-Manu8.384c/ mūtreṇa mauṇḍyam icchet) tu kṣatriyo daṇḍam eva vā || [M.ṛcchet) tu]  
+मनु८।३८४च्/ मूत्रेण मौण्ड्यम् इच्छेत्) तु क्षत्रियो दण्डम् एव वा || [म्।ऋच्छेत्) तु]  
   
-Manu8.385a/ agupte kṣatriyā.vaiśye śūdrāṃ vā brāhmaṇo vrajan) |  
+मनु८।३८५अ/ अगुप्ते क्षत्रिया।वैश्ये शूद्रां वा ब्राह्मणो व्रजन्) |  
   
-Manu8.385c/ śatāni pañca daṇḍyaḥ syāt) sahasraṃ tv antyajastriyam ||  
+मनु८।३८५च्/ शतानि पञ्च दण्ड्यः स्यात्) सहस्रं त्व् अन्त्यजस्त्रियम् ||  
   
-Manu8.386a/ yasya stenaḥ pure na-asti) na-anyastrīgo na duṣṭa.vāk |  
+मनु८।३८६अ/ यस्य स्तेनः पुरे न-अस्ति) न-अन्यस्त्रीगो न दुष्ट।वाक् |  
   
-Manu8.386c/ na sāhasika.daṇḍaghno sa rājā śakralokabhāk ||  
+मनु८।३८६च्/ न साहसिक।दण्डघ्नो स राजा शक्रलोकभाक् ||  
   
-Manu8.387a/ eteṣāṃ nigraho rājñaḥ pañcānāṃ viṣaye svake |  
+मनु८।३८७अ/ एतेषां निग्रहो राज्ञः पञ्चानां विषये स्वके |  
   
-Manu8.387c/ sāṃrājyakṛt sajātyeṣu loke ca-eva yaśaskaraḥ ||  
+मनु८।३८७च्/ सांराज्यकृत् सजात्येषु लोके च-एव यशस्करः ||  
   
   
   
-Manu8.388a/ ṛtvijaṃ yas tyajed) yājyo yājyaṃ ca rtvik tyajed) yadi |  
+मनु८।३८८अ/ ऋत्विजं यस् त्यजेद्) याज्यो याज्यं च र्त्विक् त्यजेद्) यदि |  
   
-Manu8.388c/ śaktaṃ karmaṇy aduṣṭaṃ ca tayor daṇḍaḥ śataṃ śatam ||  
+मनु८।३८८च्/ शक्तं कर्मण्य् अदुष्टं च तयोर् दण्डः शतं शतम् ||  
   
-Manu8.389a/ na mātā na pitā na strī na putras tyāgam arhati) |  
+मनु८।३८९अ/ न माता न पिता न स्त्री न पुत्रस् त्यागम् अर्हति) |  
   
-Manu8.389c/ tyajann) apatitān etān rājñā daṇḍyaḥ) śatāni ṣaṭ ||  
+मनु८।३८९च्/ त्यजन्न्) अपतितान् एतान् राज्ञा दण्ड्यः) शतानि षट् ||  
   
-Manu8.390a/ āśrameṣu dvijātīnāṃ kārye vivadatāṃ) mithaḥ |  
+मनु८।३९०अ/ आश्रमेषु द्विजातीनां कार्ये विवदतां) मिथः |  
   
-Manu8.390c/ na vibrūyān) nṛpo dharmaṃ cikīrṣan) hitam ātmanaḥ ||  
+मनु८।३९०च्/ न विब्रूयान्) नृपो धर्मं चिकीर्षन्) हितम् आत्मनः ||  
   
-Manu8.391a/ yathārham etān abhyarcya) brāhmaṇaiḥ saha pārthivaḥ |  
+मनु८।३९१अ/ यथार्हम् एतान् अभ्यर्च्य) ब्राह्मणैः सह पार्थिवः |  
   
-Manu8.391c/ sāntvena praśamayya)-ādau svadharmaṃ pratipādayet) ||  
+मनु८।३९१च्/ सान्त्वेन प्रशमय्य)-आदौ स्वधर्मं प्रतिपादयेत्) ||  
   
-Manu8.392a/ prativeśya.anuveśyau ca kalyāṇe viṃśatidvije |  
+मनु८।३९२अ/ प्रतिवेश्य।अनुवेश्यौ च कल्याणे विंशतिद्विजे |  
   
-Manu8.392c/ arhāv a.bhojayan) vipro daṇḍam arhati) māṣakam ||  
+मनु८।३९२च्/ अर्हाव् अ।भोजयन्) विप्रो दण्डम् अर्हति) माषकम् ||  
   
-Manu8.393a/ śrotriyaḥ śrotriyaṃ sādhuṃ bhūtikṛtyeṣv a.bhojayan |  
+मनु८।३९३अ/ श्रोत्रियः श्रोत्रियं साधुं भूतिकृत्येष्व् अ।भोजयन् |  
   
-Manu8.393c/ tad.annaṃ dviguṇaṃ dāpyo) hiraṇyaṃ ca-eva māṣakam || [M.hairaṇyaṃ ]  
+मनु८।३९३च्/ तद्।अन्नं द्विगुणं दाप्यो) हिरण्यं च-एव माषकम् || [म्।हैरण्यं ]  
   
-Manu8.394a/ andho jaḍaḥ pīṭhasarpī saptatyā sthaviraś ca yaḥ |  
+मनु८।३९४अ/ अन्धो जडः पीठसर्पी सप्तत्या स्थविरश् च यः |  
   
-Manu8.394c/ śrotriyeṣūpakurvaṃś) ca na dāpyāḥ) kena cit karam ||  
+मनु८।३९४च्/ श्रोत्रियेषूपकुर्वंश्) च न दाप्याः) केन चित् करम् ||  
   
-Manu8.395a/ śrotriyaṃ vyādhita.ārtau ca bāla.vṛddhāv a.kiṃcanam |  
+मनु८।३९५अ/ श्रोत्रियं व्याधित।आर्तौ च बाल।वृद्धाव् अ।किंचनम् |  
   
-Manu8.395c/ mahākulīnam āryaṃ ca rājā saṃpūjayet) sadā ||  
+मनु८।३९५च्/ महाकुलीनम् आर्यं च राजा संपूजयेत्) सदा ||  
   
-Manu8.396a/ śālmalīphalake ślakṣṇe nenijyān) nejakaḥ śanaiḥ |  
+मनु८।३९६अ/ शाल्मलीफलके श्लक्ष्णे नेनिज्यान्) नेजकः शनैः |  
   
-Manu8.396c/ na ca vāsāṃsi vāsobhir nirharen) na ca vāsayet) ||  
+मनु८।३९६च्/ न च वासांसि वासोभिर् निर्हरेन्) न च वासयेत्) ||  
   
-Manu8.397a/ tantuvāyo daśapalaṃ dadyād) ekapala.adhikam |  
+मनु८।३९७अ/ तन्तुवायो दशपलं दद्याद्) एकपल।अधिकम् |  
   
-Manu8.397c/ ato 'anyathā vartamāno) dāpyo) dvādaśakaṃ damam ||  
+मनु८।३९७च्/ अतो ऽअन्यथा वर्तमानो) दाप्यो) द्वादशकं दमम् ||  
   
-Manu8.398a/ śulkasthāneṣu kuśalāḥ sarvapaṇya.vicakṣaṇāḥ |  
+मनु८।३९८अ/ शुल्कस्थानेषु कुशलाः सर्वपण्य।विचक्षणाः |  
   
-Manu8.398c/ kuryur) arghaṃ yathāpaṇyaṃ tato viṃśaṃ nṛpo haret) ||  
-Manu8.399a/ rājñaḥ prakhyātabhāṇḍāni pratiṣiddhāni yāni ca |  
+मनु८।३९८च्/ कुर्युर्) अर्घं यथापण्यं ततो विंशं नृपो हरेत्) ||  
+मनु८।३९९अ/ राज्ञः प्रख्यातभाण्डानि प्रतिषिद्धानि यानि च |  
   
-Manu8.399c/ tāṇi nirharato) lobhāt sarvahāraṃ haren) nṛpaḥ ||  
+मनु८।३९९च्/ ताणि निर्हरतो) लोभात् सर्वहारं हरेन्) नृपः ||  
   
-Manu8.400a/ śulkasthānaṃ pariharann) akāle kraya.vikrayī |  
+मनु८।४००अ/ शुल्कस्थानं परिहरन्न्) अकाले क्रय।विक्रयी |  
   
-Manu8.400c/ mithyāvādī ca saṃkhyāne dāpyo) 'aṣṭaguṇam atyayam ||  
+मनु८।४००च्/ मिथ्यावादी च संख्याने दाप्यो) ऽअष्टगुणम् अत्ययम् ||  
   
-Manu8.401a/ āgamaṃ nirgamaṃ sthānaṃ tathā vṛddhi.kṣayāv ubhau |  
+मनु८।४०१अ/ आगमं निर्गमं स्थानं तथा वृद्धि।क्षयाव् उभौ |  
   
-Manu8.401c/ vicārya) sarvapaṇyānāṃ kārayet) kraya.vikrayau ||  
+मनु८।४०१च्/ विचार्य) सर्वपण्यानां कारयेत्) क्रय।विक्रयौ ||  
   
-Manu8.402a/ pañcarātre pañcarātre pakṣe pakṣe 'atha vā gate |  
+मनु८।४०२अ/ पञ्चरात्रे पञ्चरात्रे पक्षे पक्षे ऽअथ वा गते |  
   
-Manu8.402c/ kurvīta) ca-eṣāṃ pratyakṣam arghasaṃsthāpanaṃ nṛpaḥ ||  
+मनु८।४०२च्/ कुर्वीत) च-एषां प्रत्यक्षम् अर्घसंस्थापनं नृपः ||  
   
-Manu8.403a/ tulāmānaṃ pratīmānaṃ sarvaṃ ca syāt) sulakṣitam |  
+मनु८।४०३अ/ तुलामानं प्रतीमानं सर्वं च स्यात्) सुलक्षितम् |  
   
-Manu8.403c/ ṣaṭsu ṣaṭsu ca māseṣu punar eva parīkṣayet) ||  
+मनु८।४०३च्/ षट्सु षट्सु च मासेषु पुनर् एव परीक्षयेत्) ||  
   
-Manu8.404a/ paṇaṃ yānaṃ tare dāpyaṃ) pauruṣo 'ardhapaṇaṃ tare |  
+मनु८।४०४अ/ पणं यानं तरे दाप्यं) पौरुषो ऽअर्धपणं तरे |  
   
-Manu8.404c/ pādaṃ paśuś ca yoṣit-ca pādārdhaṃ riktakaḥ pumān || [M.pāde]  
+मनु८।४०४च्/ पादं पशुश् च योषित्-च पादार्धं रिक्तकः पुमान् || [म्।पादे]  
   
-Manu8.405a/ bhāṇḍapūrṇāni yānāni tāryaṃ dāpyāni) sārataḥ |  
+मनु८।४०५अ/ भाण्डपूर्णानि यानानि तार्यं दाप्यानि) सारतः |  
   
-Manu8.405c/ riktabhāṇḍāni yat kiṃ cit pumāṃsaś c-aparicchadāḥ ||  
+मनु८।४०५च्/ रिक्तभाण्डानि यत् किं चित् पुमांसश् च्-अपरिच्छदाः ||  
   
-Manu8.406a/ dīrghādhvani yathādeśaṃ yathākālaṃ taro bhavet) |  
+मनु८।४०६अ/ दीर्घाध्वनि यथादेशं यथाकालं तरो भवेत्) |  
   
-Manu8.406c/ nadītīreṣu tad vidyāt) samudre na-asti) lakṣaṇam ||   
+मनु८।४०६च्/ नदीतीरेषु तद् विद्यात्) समुद्रे न-अस्ति) लक्षणम् ||   
   
-Manu8.407a/ garbhiṇī tu dvimāsādis tathā pravrajito muniḥ |  
+मनु८।४०७अ/ गर्भिणी तु द्विमासादिस् तथा प्रव्रजितो मुनिः |  
   
-Manu8.407c/ brāhmaṇā liṅginaś ca-eva na dāpyās) tārikaṃ tare ||  
+मनु८।४०७च्/ ब्राह्मणा लिङ्गिनश् च-एव न दाप्यास्) तारिकं तरे ||  
   
-Manu8.408a/ yan nāvi kiṃ cid dāśānāṃ viśīryeta)-aparādhataḥ |  
+मनु८।४०८अ/ यन् नावि किं चिद् दाशानां विशीर्येत)-अपराधतः |  
   
-Manu8.408c/ tad dāśair eva dātavyaṃ) samāgamya) svato 'aṃśataḥ ||  
+मनु८।४०८च्/ तद् दाशैर् एव दातव्यं) समागम्य) स्वतो ऽअंशतः ||  
   
-Manu8.409a/ eṣa nauyāyinām ukto vyavahārasya nirṇayaḥ |  
+मनु८।४०९अ/ एष नौयायिनाम् उक्तो व्यवहारस्य निर्णयः |  
   
-Manu8.409c/ dāśāparādhatas toye daivike na-asti) nigrahaḥ ||  
+मनु८।४०९च्/ दाशापराधतस् तोये दैविके न-अस्ति) निग्रहः ||  
   
-Manu8.410a/ vāṇijyaṃ kārayed) vaiśyaṃ kusīdaṃ kṛṣim eva ca |  
+मनु८।४१०अ/ वाणिज्यं कारयेद्) वैश्यं कुसीदं कृषिम् एव च |  
   
-Manu8.410c/ paśūnāṃ rakṣaṇaṃ ca-eva dāsyaṃ śūdraṃ dvijanmanām ||  
+मनु८।४१०च्/ पशूनां रक्षणं च-एव दास्यं शूद्रं द्विजन्मनाम् ||  
   
-Manu8.411a/ kṣatriyaṃ ca-eva vaiśyaṃ ca brāhmaṇo vṛttikarśitau |  
+मनु८।४११अ/ क्षत्रियं च-एव वैश्यं च ब्राह्मणो वृत्तिकर्शितौ |  
   
-Manu8.411c/ bibhṛyād) ānṛśaṃsyena svāni karmāṇi kārayet) ||  
+मनु८।४११च्/ बिभृयाद्) आनृशंस्येन स्वानि कर्माणि कारयेत्) ||  
   
-Manu8.412a/ dāsyaṃ tu kārayan)-lobhād brāhmaṇaḥ saṃskṛtān dvijān |  
+मनु८।४१२अ/ दास्यं तु कारयन्)-लोभाद् ब्राह्मणः संस्कृतान् द्विजान् |  
   
-Manu8.412c/ anicchataḥ prābhavatyād rājñā daṇḍyaḥ) śatāni ṣaṭ ||  
+मनु८।४१२च्/ अनिच्छतः प्राभवत्याद् राज्ञा दण्ड्यः) शतानि षट् ||  
   
-Manu8.413a/ śūdraṃ tu kārayed) dāsyaṃ krītam akrītam eva vā |  
+मनु८।४१३अ/ शूद्रं तु कारयेद्) दास्यं क्रीतम् अक्रीतम् एव वा |  
   
-Manu8.413c/ dāsyāya-eva hi sṛṣṭo) 'asau brāhmaṇasya svayaṃbhuvā ||  
+मनु८।४१३च्/ दास्याय-एव हि सृष्टो) ऽअसौ ब्राह्मणस्य स्वयंभुवा ||  
   
-Manu8.414a/ na svāminā nisṛṣṭo) 'api śūdro dāsyād vimucyate) |  
+मनु८।४१४अ/ न स्वामिना निसृष्टो) ऽअपि शूद्रो दास्याद् विमुच्यते) |  
   
-Manu8.414c/ nisargajaṃ hi tat tasya kas tasmāt tad apohati) ||  
+मनु८।४१४च्/ निसर्गजं हि तत् तस्य कस् तस्मात् तद् अपोहति) ||  
   
-Manu8.415a/ dhvajāhṛto) bhaktadāso gṛhajaḥ krīta.dattrimau |  
+मनु८।४१५अ/ ध्वजाहृतो) भक्तदासो गृहजः क्रीत।दत्त्रिमौ |  
   
-Manu8.415c/ paitriko daṇḍadāsaś ca sapta-ete dāsayonayaḥ ||  
+मनु८।४१५च्/ पैत्रिको दण्डदासश् च सप्त-एते दासयोनयः ||  
   
-Manu8.416a/ bhāryā putraś ca dāsaś ca traya eva-a.dhanāḥ smṛtāḥ |  
+मनु८।४१६अ/ भार्या पुत्रश् च दासश् च त्रय एव-अ।धनाः स्मृताः |  
   
-Manu8.416c/ yat te samadhigacchanti) yasya te tasya tad dhanam ||  
+मनु८।४१६च्/ यत् ते समधिगच्छन्ति) यस्य ते तस्य तद् धनम् ||  
   
-Manu8.417a/ visrabdhaṃ brāhmaṇaḥ śūdrād dravya.upādānam ācaret) |  
+मनु८।४१७अ/ विस्रब्धं ब्राह्मणः शूद्राद् द्रव्य।उपादानम् आचरेत्) |  
   
-Manu8.417c/ na hi tasya-asti) kiṃ cit svaṃ bhartṛhārya.dhano hi saḥ ||  
+मनु८।४१७च्/ न हि तस्य-अस्ति) किं चित् स्वं भर्तृहार्य।धनो हि सः ||  
   
-Manu8.418a/ vaiśya.śūdrau prayatnena svāni karmāṇi kārayet) |  
+मनु८।४१८अ/ वैश्य।शूद्रौ प्रयत्नेन स्वानि कर्माणि कारयेत्) |  
   
-Manu8.418c/ tau hi cyutau) svakarmabhyaḥ kṣobhayetām) idaṃ jagat ||  
+मनु८।४१८च्/ तौ हि च्युतौ) स्वकर्मभ्यः क्षोभयेताम्) इदं जगत् ||  
   
-Manu8.419a/ ahany ahany avekṣeta) karmāntān vāhanāni ca |  
+मनु८।४१९अ/ अहन्य् अहन्य् अवेक्षेत) कर्मान्तान् वाहनानि च |  
   
-Manu8.419c/ āya.vyayau ca niyatāv ākarān kośam eva ca ||  
+मनु८।४१९च्/ आय।व्ययौ च नियताव् आकरान् कोशम् एव च ||  
   
-Manu8.420a/ evaṃ sarvān imān rājā vyavahārān samāpayan) |  
+मनु८।४२०अ/ एवं सर्वान् इमान् राजा व्यवहारान् समापयन्) |  
   
-Manu8.420c/ vyapohya) kilbiṣaṃ sarvaṃ prāpnoti) paramāṃ gatim ||  
+मनु८।४२०च्/ व्यपोह्य) किल्बिषं सर्वं प्राप्नोति) परमां गतिम् ||  
   
   
   
@@ -7536,1393 +7528,1393 @@ Manu8.420c/ vyapohya) kilbiṣaṃ sarvaṃ prāpnoti) paramāṃ gatim ||
   
   
   
-Manu9.01a/ puruṣasya striyāś ca-eva dharme vartmani tiṣṭhatoḥ) | [M.dharmye ]  
+मनु९।०१अ/ पुरुषस्य स्त्रियाश् च-एव धर्मे वर्त्मनि तिष्ठतोः) | [म्।धर्म्ये ]  
   
-Manu9.01c/ saṃyoge viprayoge ca dharmān vakṣyāmi) śāśvatān ||  
+मनु९।०१च्/ संयोगे विप्रयोगे च धर्मान् वक्ष्यामि) शाश्वतान् ||  
   
-Manu9.02a/ asvatantrāḥ striyaḥ kāryāḥ) puruṣaiḥ svair divā.niśam |  
+मनु९।०२अ/ अस्वतन्त्राः स्त्रियः कार्याः) पुरुषैः स्वैर् दिवा।निशम् |  
   
-Manu9.02c/ viṣayeṣu ca sajjantyaḥ) saṃsthāpyā) ātmano vaśe ||  
+मनु९।०२च्/ विषयेषु च सज्जन्त्यः) संस्थाप्या) आत्मनो वशे ||  
   
-Manu9.03a/ pitā rakṣati) kaumāre bhartā rakṣati) yauvane |  
+मनु९।०३अ/ पिता रक्षति) कौमारे भर्ता रक्षति) यौवने |  
   
-Manu9.03c/ rakṣanti) sthavire putrā na strī svātantryam arhati) ||  
+मनु९।०३च्/ रक्षन्ति) स्थविरे पुत्रा न स्त्री स्वातन्त्र्यम् अर्हति) ||  
   
-Manu9.04a/ kāle 'a.dātā pitā vācyo) vācyaś ca-an.upayan) patiḥ |  
+मनु९।०४अ/ काले ऽअ।दाता पिता वाच्यो) वाच्यश् च-अन्।उपयन्) पतिः |  
   
-Manu9.04c/ mṛte bhartari putras tu vācyo) mātur arakṣitā ||  
+मनु९।०४च्/ मृते भर्तरि पुत्रस् तु वाच्यो) मातुर् अरक्षिता ||  
   
-Manu9.05a/ sūkṣmebhyo 'api prasaṅgebhyaḥ striyo rakṣyā) viśeṣataḥ |[M.striyā]  
+मनु९।०५अ/ सूक्ष्मेभ्यो ऽअपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या) विशेषतः |[म्।स्त्रिया]  
   
-Manu9.05c/ dvayor hi kulayoḥ śokam āvaheyur) a.rakṣitāḥ ||  
+मनु९।०५च्/ द्वयोर् हि कुलयोः शोकम् आवहेयुर्) अ।रक्षिताः ||  
   
-Manu9.06a/ imaṃ hi sarvavarṇānāṃ paśyanto) dharmam uttamam |  
+मनु९।०६अ/ इमं हि सर्ववर्णानां पश्यन्तो) धर्मम् उत्तमम् |  
   
-Manu9.06c/ yatante) rakṣituṃ bhāryāṃ bhartāro durbalā api ||  
+मनु९।०६च्/ यतन्ते) रक्षितुं भार्यां भर्तारो दुर्बला अपि ||  
   
-Manu9.07a/ svāṃ prasūtiṃ caritraṃ ca kulam ātmānam eva ca |  
+मनु९।०७अ/ स्वां प्रसूतिं चरित्रं च कुलम् आत्मानम् एव च |  
   
-Manu9.07c/ svaṃ ca dharmaṃ prayatnena jāyāṃ rakṣan hi rakṣati) ||  
+मनु९।०७च्/ स्वं च धर्मं प्रयत्नेन जायां रक्षन् हि रक्षति) ||  
   
-Manu9.08a/ patir bhāryāṃ saṃpraviśya) garbho bhūtvā)-iha jāyate) |  
+मनु९।०८अ/ पतिर् भार्यां संप्रविश्य) गर्भो भूत्वा)-इह जायते) |  
   
-Manu9.08c/ jāyāyās tadd hi jāyātvaṃ yad asyāṃ jāyate) punaḥ ||  
+मनु९।०८च्/ जायायास् तद्द् हि जायात्वं यद् अस्यां जायते) पुनः ||  
   
-Manu9.09a/ yādṛśaṃ bhajate) hi strī sutaṃ sūte) tathāvidham |  
+मनु९।०९अ/ यादृशं भजते) हि स्त्री सुतं सूते) तथाविधम् |  
   
-Manu9.09c/ tasmāt prajāviśuddhi.arthaṃ striyaṃ rakṣet) prayatnataḥ ||  
+मनु९।०९च्/ तस्मात् प्रजाविशुद्धि।अर्थं स्त्रियं रक्षेत्) प्रयत्नतः ||  
   
-Manu9.10a/ na kaś cid yoṣitaḥ śaktaḥ prasahya) parirakṣitum |  
+मनु९।१०अ/ न कश् चिद् योषितः शक्तः प्रसह्य) परिरक्षितुम् |  
   
-Manu9.10c/ etair upāyayogais tu śakyās tāḥ parirakṣitum ||  
+मनु९।१०च्/ एतैर् उपाययोगैस् तु शक्यास् ताः परिरक्षितुम् ||  
   
-Manu9.11a/ arthasya saṃgrahe ca-enāṃ vyaye ca-eva niyojayet) |   
+मनु९।११अ/ अर्थस्य संग्रहे च-एनां व्यये च-एव नियोजयेत्) |   
   
-Manu9.11c/ śauce dharme 'annapaktyāṃ ca pāriṇāhyasya vekṣaṇe ||  
+मनु९।११च्/ शौचे धर्मे ऽअन्नपक्त्यां च पारिणाह्यस्य वेक्षणे ||  
   
-Manu9.12a/ a.rakṣitā gṛhe ruddhāḥ) puruṣair āptakāribhiḥ |  
+मनु९।१२अ/ अ।रक्षिता गृहे रुद्धाः) पुरुषैर् आप्तकारिभिः |  
   
-Manu9.12c/ ātmānam ātmanā yās tu rakṣeyus) tāḥ surakṣitāḥ ||  
+मनु९।१२च्/ आत्मानम् आत्मना यास् तु रक्षेयुस्) ताः सुरक्षिताः ||  
   
-Manu9.13a/ pānaṃ durjanasaṃsargaḥ patyā ca viraho 'aṭanam |  
+मनु९।१३अ/ पानं दुर्जनसंसर्गः पत्या च विरहो ऽअटनम् |  
   
-Manu9.13c/ svapno 'anyagehavāsaś ca nārīsaṃdūṣaṇāni ṣaṭ ||  
+मनु९।१३च्/ स्वप्नो ऽअन्यगेहवासश् च नारीसंदूषणानि षट् ||  
   
   
   
-Manu9.14a/ na-etā rūpaṃ parīkṣante) na-āsāṃ vayasi saṃsthitiḥ |  
+मनु९।१४अ/ न-एता रूपं परीक्षन्ते) न-आसां वयसि संस्थितिः |  
   
-Manu9.14c/ surūpaṃ vā virūpaṃ vā pumān ity eva bhuñjate) ||  
+मनु९।१४च्/ सुरूपं वा विरूपं वा पुमान् इत्य् एव भुञ्जते) ||  
   
-Manu9.15a/ pauṃścalyāc calacittāc ca naisnehyāc ca svabhāvataḥ | [M.naiḥsnehyāc]  
+मनु९।१५अ/ पौंश्चल्याच् चलचित्ताच् च नैस्नेह्याच् च स्वभावतः | [म्।नैःस्नेह्याच्]  
   
-Manu9.15c/ rakṣitā yatnato 'api-iha bhartṛṣv etā vikurvate) ||  
+मनु९।१५च्/ रक्षिता यत्नतो ऽअपि-इह भर्तृष्व् एता विकुर्वते) ||  
   
-Manu9.16a/ evaṃ svabhāvaṃ jñātvā)-āsāṃ prajāpatinisargajam |  
+मनु९।१६अ/ एवं स्वभावं ज्ञात्वा)-आसां प्रजापतिनिसर्गजम् |  
   
-Manu9.16c/ paramaṃ yatnam ātiṣṭhet) puruṣo rakṣaṇaṃ prati ||  
+मनु९।१६च्/ परमं यत्नम् आतिष्ठेत्) पुरुषो रक्षणं प्रति ||  
   
-Manu9.17a/ śayyā.āsanam alaṅkāraṃ kāmaṃ krodham anārjavam | M:anāryatām ]  
+मनु९।१७अ/ शय्या।आसनम् अलङ्कारं कामं क्रोधम् अनार्जवम् | म्:अनार्यताम् ]  
   
-Manu9.17c/ drohabhāvaṃ kucaryāṃ ca strībhyo manur akalpayat) || [M.drogdhṛbhāvaṃ]  
+मनु९।१७च्/ द्रोहभावं कुचर्यां च स्त्रीभ्यो मनुर् अकल्पयत्) || [म्।द्रोग्धृभावं]  
   
-Manu9.18a/ na-asti) strīṇāṃ kriyā mantrair iti dharme vyavasthitiḥ   
+मनु९।१८अ/ न-अस्ति) स्त्रीणां क्रिया मन्त्रैर् इति धर्मे व्यवस्थितिः   
   
-Manu9.18c/ nir.indriyā hy a.mantrāś ca strībhyo  'anṛtam iti sthitiḥ || [M.striyo]  
+मनु९।१८च्/ निर्।इन्द्रिया ह्य् अ।मन्त्राश् च स्त्रीभ्यो  ऽअनृतम् इति स्थितिः || [म्।स्त्रियो]  
   
-Manu9.19a/ tathā ca śrutayo bahvyo nigītā) nigameṣv api |  
+मनु९।१९अ/ तथा च श्रुतयो बह्व्यो निगीता) निगमेष्व् अपि |  
   
-Manu9.19c/ svālakṣaṇyaparīkṣārthaṃ tāsāṃ śṛṇuta) niṣkṛtīḥ ||  
+मनु९।१९च्/ स्वालक्षण्यपरीक्षार्थं तासां शृणुत) निष्कृतीः ||  
   
-Manu9.20a/ yan me mātā pralulubhe) vicaranty) a.pativratā |  
+मनु९।२०अ/ यन् मे माता प्रलुलुभे) विचरन्त्य्) अ।पतिव्रता |  
   
-Manu9.20c/ tan me retaḥ pitā vṛṅktām) ity asya-etan nidarśanam ||  
+मनु९।२०च्/ तन् मे रेतः पिता वृङ्क्ताम्) इत्य् अस्य-एतन् निदर्शनम् ||  
   
-Manu9.21a/ dhyāyaty) aniṣṭaṃ yat kiṃ cit pāṇigrāhasya cetasā |  
+मनु९।२१अ/ ध्यायत्य्) अनिष्टं यत् किं चित् पाणिग्राहस्य चेतसा |  
   
-Manu9.21c/ tasya-eṣa vyabhicārasya nihnavaḥ samyag ucyate) ||  
+मनु९।२१च्/ तस्य-एष व्यभिचारस्य निह्नवः सम्यग् उच्यते) ||  
   
-Manu9.22a/ yādṛg.guṇena bhartrā strī saṃyujyeta) yathāvidhi |  
+मनु९।२२अ/ यादृग्।गुणेन भर्त्रा स्त्री संयुज्येत) यथाविधि |  
   
-Manu9.22c/ tādṛg.guṇā sā bhavati) samudreṇa-iva nimnagā ||  
+मनु९।२२च्/ तादृग्।गुणा सा भवति) समुद्रेण-इव निम्नगा ||  
   
-Manu9.23a/ akṣamālā vasiṣṭhena saṃyuktā)-adhamayonijā |  
+मनु९।२३अ/ अक्षमाला वसिष्ठेन संयुक्ता)-अधमयोनिजा |  
   
-Manu9.23c/ śāraṅgī mandapālena jagāma)-abhyarhaṇīyatām ||  
+मनु९।२३च्/ शारङ्गी मन्दपालेन जगाम)-अभ्यर्हणीयताम् ||  
   
-Manu9.24a/ etāś ca-anyāś ca loke 'asminn apakṛṣṭaprasūtayaḥ | [M.avakṛṣṭaprasūtayaḥ]  
+मनु९।२४अ/ एताश् च-अन्याश् च लोके ऽअस्मिन्न् अपकृष्टप्रसूतयः | [म्।अवकृष्टप्रसूतयः]  
   
-Manu9.24c/ utkarṣaṃ yoṣitaḥ prāptāḥ) svaiḥ svair bhartṛguṇaiḥ śubhaiḥ ||  
+मनु९।२४च्/ उत्कर्षं योषितः प्राप्ताः) स्वैः स्वैर् भर्तृगुणैः शुभैः ||  
   
   
   
-Manu9.25a/ eṣā-uditā lokayātrā nityaṃ strī.puṃsayoḥ śubhā |  
+मनु९।२५अ/ एषा-उदिता लोकयात्रा नित्यं स्त्री।पुंसयोः शुभा |  
   
-Manu9.25c/ pretya-iha ca sukha.udarkān prajādharmān nibodhata) ||  
+मनु९।२५च्/ प्रेत्य-इह च सुख।उदर्कान् प्रजाधर्मान् निबोधत) ||  
   
-Manu9.26a/ prajanārthaṃ mahā.bhāgāḥ pūja.arhā gṛhadīptayaḥ |  
+मनु९।२६अ/ प्रजनार्थं महा।भागाः पूज।अर्हा गृहदीप्तयः |  
   
-Manu9.26c/ striyaḥ śriyaś ca geheṣu na viśeṣo 'asti) kaś cana ||  
+मनु९।२६च्/ स्त्रियः श्रियश् च गेहेषु न विशेषो ऽअस्ति) कश् चन ||  
   
-Manu9.27a/ utpādanam apatyasya jātasya paripālanam |  
+मनु९।२७अ/ उत्पादनम् अपत्यस्य जातस्य परिपालनम् |  
   
-Manu9.27c/ pratyahaṃ lokayātrāyāḥ pratyakṣaṃ strī nibandhanam || [M.pratyarthaṃ ]  
+मनु९।२७च्/ प्रत्यहं लोकयात्रायाः प्रत्यक्षं स्त्री निबन्धनम् || [म्।प्रत्यर्थं ]  
   
-Manu9.28a/ apatyaṃ dharmakāryāṇi śuśrūṣā ratir uttamā |  
+मनु९।२८अ/ अपत्यं धर्मकार्याणि शुश्रूषा रतिर् उत्तमा |  
   
-Manu9.28c/ dārā.adhīnas tathā svargaḥ pitqṇām ātmanaś ca ha ||   
+मनु९।२८च्/ दारा।अधीनस् तथा स्वर्गः पित्क़्णाम् आत्मनश् च ह ||   
   
-Manu9.29a/ patiṃ yā na-abhicarati) mano.vāg.dehasaṃyatā |  
+मनु९।२९अ/ पतिं या न-अभिचरति) मनो।वाग्।देहसंयता |  
   
-Manu9.29c/ sā bhartṛlokān āpnoti) sadbhiḥ sādhvī-iti ca-ucyate) ||  
+मनु९।२९च्/ सा भर्तृलोकान् आप्नोति) सद्भिः साध्वी-इति च-उच्यते) ||  
   
-Manu9.30a/ vyabhicārāt tu bhartuḥ strī loke prāpnoti) nindyatām |  
+मनु९।३०अ/ व्यभिचारात् तु भर्तुः स्त्री लोके प्राप्नोति) निन्द्यताम् |  
   
-Manu9.30c/ sṛgālayoniṃ ca-āpnoti) pāparogaiś ca pīḍyate) || [M.śṛgālayoniṃ]  
+मनु९।३०च्/ सृगालयोनिं च-आप्नोति) पापरोगैश् च पीड्यते) || [म्।शृगालयोनिं]  
   
   
   
-Manu9.31a/ putraṃ pratyuditaṃ sadbhiḥ pūrvajaiś ca maharṣibhiḥ |  
-Manu9.31c/ viśvajanyam imaṃ puṇyam upanyāsaṃ nibodhata) ||  
+मनु९।३१अ/ पुत्रं प्रत्युदितं सद्भिः पूर्वजैश् च महर्षिभिः |  
+मनु९।३१च्/ विश्वजन्यम् इमं पुण्यम् उपन्यासं निबोधत) ||  
   
-Manu9.32a/ bhartari putraṃ vijānanti) śrutidvaidhaṃ tu kartari | [M. bhartuḥ ]  
+मनु९।३२अ/ भर्तरि पुत्रं विजानन्ति) श्रुतिद्वैधं तु कर्तरि | [म्। भर्तुः ]  
   
-Manu9.32c/ āhur) utpādakaṃ ke cid apare kṣetriṇaṃ viduḥ) ||  
+मनु९।३२च्/ आहुर्) उत्पादकं के चिद् अपरे क्षेत्रिणं विदुः) ||  
   
-Manu9.33a/ kṣetrabhūtā smṛtā nārī bījabhūtaḥ smṛtaḥ pumān |  
+मनु९।३३अ/ क्षेत्रभूता स्मृता नारी बीजभूतः स्मृतः पुमान् |  
   
-Manu9.33c/ kṣetra.bījasamāyogāt saṃbhavaḥ sarvadehinām ||  
+मनु९।३३च्/ क्षेत्र।बीजसमायोगात् संभवः सर्वदेहिनाम् ||  
   
-Manu9.34a/ viśiṣṭaṃ kutra cid bījaṃ strīyonis tv eva kutra cit |  
-Manu9.34c/ ubhayaṃ tu samaṃ yatra sā prasūtiḥ praśasyate) ||  
+मनु९।३४अ/ विशिष्टं कुत्र चिद् बीजं स्त्रीयोनिस् त्व् एव कुत्र चित् |  
+मनु९।३४च्/ उभयं तु समं यत्र सा प्रसूतिः प्रशस्यते) ||  
   
-Manu9.35a/ bījasya ca-eva yonyāś ca bījam utkṛṣṭam ucyate) |  
+मनु९।३५अ/ बीजस्य च-एव योन्याश् च बीजम् उत्कृष्टम् उच्यते) |  
   
-Manu9.35c/ sarvabhūtaprasūtir hi bījalakṣaṇalakṣitā |  
+मनु९।३५च्/ सर्वभूतप्रसूतिर् हि बीजलक्षणलक्षिता |  
   
-Manu9.36a/ yādṛśaṃ tu-upyate) bījaṃ kṣetre kāla.upapādite |  
+मनु९।३६अ/ यादृशं तु-उप्यते) बीजं क्षेत्रे काल।उपपादिते |  
   
-Manu9.36c/ tādṛg rohati) tat tasmin bījaṃ svair vyañjitaṃ guṇaiḥ ||  
+मनु९।३६च्/ तादृग् रोहति) तत् तस्मिन् बीजं स्वैर् व्यञ्जितं गुणैः ||  
   
-Manu9.37a/ iyaṃ bhūmir hi bhūtānāṃ śāśvatī yonir ucyate) |  
+मनु९।३७अ/ इयं भूमिर् हि भूतानां शाश्वती योनिर् उच्यते) |  
   
-Manu9.37c/ na ca yoniguṇān kāṃś cid bījaṃ puṣyati) puṣṭiṣu ||  
+मनु९।३७च्/ न च योनिगुणान् कांश् चिद् बीजं पुष्यति) पुष्टिषु ||  
   
-Manu9.38a/ bhūmāv apy ekakedāre kāla.uptāni kṛṣīvalaiḥ |  
+मनु९।३८अ/ भूमाव् अप्य् एककेदारे काल।उप्तानि कृषीवलैः |  
   
-Manu9.38c/ nānārūpāṇi jāyante) bījāni-iha svabhāvataḥ ||  
+मनु९।३८च्/ नानारूपाणि जायन्ते) बीजानि-इह स्वभावतः ||  
   
-Manu9.39a/ vrīhayaḥ śālayo mudgās tilā māṣās tathā yavāḥ |  
+मनु९।३९अ/ व्रीहयः शालयो मुद्गास् तिला माषास् तथा यवाः |  
   
-Manu9.39c/ yathābījaṃ prarohanti) laśunāni-ikṣavas tathā ||  
+मनु९।३९च्/ यथाबीजं प्ररोहन्ति) लशुनानि-इक्षवस् तथा ||  
   
-Manu9.40a/ anyad uptaṃ jātam anyad ity etat-na-upapadyate) |  
+मनु९।४०अ/ अन्यद् उप्तं जातम् अन्यद् इत्य् एतत्-न-उपपद्यते) |  
   
-Manu9.40c/ upyate) yadd hi yad bījaṃ tat tad eva prarohati) ||  
+मनु९।४०च्/ उप्यते) यद्द् हि यद् बीजं तत् तद् एव प्ररोहति) ||  
   
-Manu9.41a/ tat prājñena vinītena jñāna.vijñānavedinā |  
+मनु९।४१अ/ तत् प्राज्ञेन विनीतेन ज्ञान।विज्ञानवेदिना |  
   
-Manu9.41c/ āyuṣkāmena vaptavyaṃ) na jātu parayoṣiti ||  
+मनु९।४१च्/ आयुष्कामेन वप्तव्यं) न जातु परयोषिति ||  
   
-Manu9.42a/ atra gāthā vāyugītāḥ kīrtayanti) purāvidaḥ |  
+मनु९।४२अ/ अत्र गाथा वायुगीताः कीर्तयन्ति) पुराविदः |  
   
-Manu9.42c/ yathā bījaṃ na vaptavyaṃ puṃsā paraparigrahe ||  
+मनु९।४२च्/ यथा बीजं न वप्तव्यं पुंसा परपरिग्रहे ||  
   
-Manu9.43a/ naśyati)-iṣur yathā viddhaḥ) khe viddham anuvidhyataḥ) |  
+मनु९।४३अ/ नश्यति)-इषुर् यथा विद्धः) खे विद्धम् अनुविध्यतः) |  
   
-Manu9.43c/ tathā naśyati) vai kṣipraṃ bījaṃ paraparigrahe || [M.kṣiptaṃ]  
+मनु९।४३च्/ तथा नश्यति) वै क्षिप्रं बीजं परपरिग्रहे || [म्।क्षिप्तं]  
   
-Manu9.44a/ pṛthor api-imāṃ pṛthivīṃ bhāryāṃ pūrvavido viduḥ) |  
+मनु९।४४अ/ पृथोर् अपि-इमां पृथिवीं भार्यां पूर्वविदो विदुः) |  
   
-Manu9.44c/ sthāṇu.cchedasya kedāram āhuḥ) śālyavato mṛgam ||  
+मनु९।४४च्/ स्थाणु।च्छेदस्य केदारम् आहुः) शाल्यवतो मृगम् ||  
   
-Manu9.45a/ etāvān eva puruṣo yat-jāyā-ātmā prajā-iti ha |  
+मनु९।४५अ/ एतावान् एव पुरुषो यत्-जाया-आत्मा प्रजा-इति ह |  
   
-Manu9.45c/ viprāḥ prāhus) tathā ca-etad yo bhartā sā smṛta.aṅganā ||  
+मनु९।४५च्/ विप्राः प्राहुस्) तथा च-एतद् यो भर्ता सा स्मृत।अङ्गना ||  
   
-Manu9.46a/ na niṣkraya.visargābhyāṃ bhartur bhāryā vimucyate) |  
+मनु९।४६अ/ न निष्क्रय।विसर्गाभ्यां भर्तुर् भार्या विमुच्यते) |  
   
-Manu9.46c/ evaṃ dharmaṃ vijānīmaḥ) prāk prajāpatinirmitam ||  
+मनु९।४६च्/ एवं धर्मं विजानीमः) प्राक् प्रजापतिनिर्मितम् ||  
   
-Manu9.47a/ sakṛd aṃśo nipatati) sakṛt kanyā pradīyate) |  
+मनु९।४७अ/ सकृद् अंशो निपतति) सकृत् कन्या प्रदीयते) |  
   
-Manu9.47c/ sakṛd āha dadāni)-iti trīṇy etāni satāṃ sakṛt || [M.dadāmi-iti]  
+मनु९।४७च्/ सकृद् आह ददानि)-इति त्रीण्य् एतानि सतां सकृत् || [म्।ददामि-इति]  
   
-Manu9.48a/ yathā go.'aśva.uṣṭra.dāsīṣu mahiṣy.ajā.avikāsu ca |  
+मनु९।४८अ/ यथा गो।ऽअश्व।उष्ट्र।दासीषु महिष्य्।अजा।अविकासु च |  
   
-Manu9.48c/ na-utpādakaḥ prajābhāgī tathā-eva-anyāṅganāsv api ||  
+मनु९।४८च्/ न-उत्पादकः प्रजाभागी तथा-एव-अन्याङ्गनास्व् अपि ||  
   
-Manu9.49a/ ye 'akṣetriṇo bījavantaḥ parakṣetrapravāpiṇaḥ |  
+मनु९।४९अ/ ये ऽअक्षेत्रिणो बीजवन्तः परक्षेत्रप्रवापिणः |  
   
-Manu9.49c/ te vai sasyasya jātasya na labhante) phalaṃ kva cit ||  
+मनु९।४९च्/ ते वै सस्यस्य जातस्य न लभन्ते) फलं क्व चित् ||  
   
-Manu9.50a/ yad anyagoṣu vṛṣabho vatsānāṃ janayet)- śatam |  
+मनु९।५०अ/ यद् अन्यगोषु वृषभो वत्सानां जनयेत्)- शतम् |  
   
-Manu9.50c/ gominām eva te vatsā moghaṃ skanditam) ārṣabham ||  
+मनु९।५०च्/ गोमिनाम् एव ते वत्सा मोघं स्कन्दितम्) आर्षभम् ||  
   
-Manu9.51a/ tathā-eva-akṣetriṇo bījaṃ parakṣetrapravāpiṇaḥ |  
+मनु९।५१अ/ तथा-एव-अक्षेत्रिणो बीजं परक्षेत्रप्रवापिणः |  
   
-Manu9.51c/ kurvanti) kṣetriṇām arthaṃ na bījī labhate) phalam ||  
+मनु९।५१च्/ कुर्वन्ति) क्षेत्रिणाम् अर्थं न बीजी लभते) फलम् ||  
   
-Manu9.52a/ phalaṃ tv an.abhisaṃdhāya) kṣetriṇāṃ bījinām tathā |  
+मनु९।५२अ/ फलं त्व् अन्।अभिसंधाय) क्षेत्रिणां बीजिनाम् तथा |  
   
-Manu9.52c/ pratyakṣaṃ kṣetriṇām artho bījād yonir galīyasī || [M.barīyasī ]  
+मनु९।५२च्/ प्रत्यक्षं क्षेत्रिणाम् अर्थो बीजाद् योनिर् गलीयसी || [म्।बरीयसी ]  
   
-Manu9.53a/ kriyābhyupagamāt tv etad bījārthaṃ yat pradīyate) |  
+मनु९।५३अ/ क्रियाभ्युपगमात् त्व् एतद् बीजार्थं यत् प्रदीयते) |  
   
-Manu9.53c/ tasya-iha bhāginau dṛṣṭau) bījī kṣetrika eva ca ||  
+मनु९।५३च्/ तस्य-इह भागिनौ दृष्टौ) बीजी क्षेत्रिक एव च ||  
   
-Manu9.54a/ ogha.vātāhṛtaṃ bījaṃ yasya kṣetre prarohati) |  
+मनु९।५४अ/ ओघ।वाताहृतं बीजं यस्य क्षेत्रे प्ररोहति) |  
   
-Manu9.54c/ kṣetrikasya-eva tad bījaṃ  na vaptā labhate phalam || [M.na bījī labhate) phalam]  
+मनु९।५४च्/ क्षेत्रिकस्य-एव तद् बीजं  न वप्ता लभते फलम् || [म्।न बीजी लभते) फलम्]  
   
-Manu9.55a/ eṣa dharmo gava.aśvasya dāsy.uṣṭra.aja.avikasya ca |  
+मनु९।५५अ/ एष धर्मो गव।अश्वस्य दास्य्।उष्ट्र।अज।अविकस्य च |  
   
-Manu9.55c/ vihaṃga.mahiṣīṇāṃ ca vijñeyaḥ) prasavaṃ prati ||  
+मनु९।५५च्/ विहंग।महिषीणां च विज्ञेयः) प्रसवं प्रति ||  
   
   
   
-Manu9.56a/ etad vaḥ sāraphalgutvaṃ bīja.yonyoḥ prakīrtitam |  
+मनु९।५६अ/ एतद् वः सारफल्गुत्वं बीज।योन्योः प्रकीर्तितम् |  
   
-Manu9.56c/ ataḥ paraṃ pravakṣyāmi) yoṣitāṃ dharmam āpadi ||  
+मनु९।५६च्/ अतः परं प्रवक्ष्यामि) योषितां धर्मम् आपदि ||  
   
-Manu9.57a/ bhrātur jyeṣṭhasya bhāryā yā gurupatny anujasya sā |  
+मनु९।५७अ/ भ्रातुर् ज्येष्ठस्य भार्या या गुरुपत्न्य् अनुजस्य सा |  
   
-Manu9.57c/ yavīyasas tu yā bhāryā snuṣā jyeṣṭhasya sā smṛtā ||  
+मनु९।५७च्/ यवीयसस् तु या भार्या स्नुषा ज्येष्ठस्य सा स्मृता ||  
   
-Manu9.58a/ jyeṣṭho yavīyaso bhāryāṃ yavīyān vā-agrajastriyam |  
+मनु९।५८अ/ ज्येष्ठो यवीयसो भार्यां यवीयान् वा-अग्रजस्त्रियम् |  
   
-Manu9.58c/ patitau bhavato) gatvā) niyuktāv apy anāpadi ||  
+मनु९।५८च्/ पतितौ भवतो) गत्वा) नियुक्ताव् अप्य् अनापदि ||  
   
-Manu9.59a/ devarād vā sapiṇḍād vā striyā samyak-niyuktayā |  
+मनु९।५९अ/ देवराद् वा सपिण्डाद् वा स्त्रिया सम्यक्-नियुक्तया |  
   
-Manu9.59c/ prajā-īpsitāa-adhigantavyā saṃtānasya parikṣaye ||  
+मनु९।५९च्/ प्रजा-ईप्सिताअ-अधिगन्तव्या संतानस्य परिक्षये ||  
   
-Manu9.60a/ vidhavāyāṃ niyuktas tu ghṛtākto vāgyato niśi |  
+मनु९।६०अ/ विधवायां नियुक्तस् तु घृताक्तो वाग्यतो निशि |  
   
-Manu9.60c/ ekam utpādayet) putraṃ na dvitīyaṃ kathaṃ cana ||  
+मनु९।६०च्/ एकम् उत्पादयेत्) पुत्रं न द्वितीयं कथं चन ||  
   
-Manu9.61a/ dvitīyam eke prajanaṃ manyante) strīṣu tadvidaḥ |  
+मनु९।६१अ/ द्वितीयम् एके प्रजनं मन्यन्ते) स्त्रीषु तद्विदः |  
   
-Manu9.61c/ a.nirvṛtaṃ  niyogārthaṃ paśyanto) dharmatas tayoḥ || [M.a.nirvṛttaṃ]  
+मनु९।६१च्/ अ।निर्वृतं  नियोगार्थं पश्यन्तो) धर्मतस् तयोः || [म्।अ।निर्वृत्तं]  
   
-Manu9.62a/ vidhavāyāṃ niyogārthe nirvṛtte tu yathāvidhi | [M.nivṛtte) ]  
+मनु९।६२अ/ विधवायां नियोगार्थे निर्वृत्ते तु यथाविधि | [म्।निवृत्ते) ]  
   
-Manu9.62c/ guruvat-ca snuṣāvat-ca varteyātāṃ) parasparam ||  
+मनु९।६२च्/ गुरुवत्-च स्नुषावत्-च वर्तेयातां) परस्परम् ||  
   
-Manu9.63a/ niyuktau yau vidhiṃ hitvā) varteyātāṃ) tu kāmataḥ |  
+मनु९।६३अ/ नियुक्तौ यौ विधिं हित्वा) वर्तेयातां) तु कामतः |  
   
-Manu9.63c/ tāv ubhau patitau syātāṃ) snuṣāga.gurutalpagau ||  
+मनु९।६३च्/ ताव् उभौ पतितौ स्यातां) स्नुषाग।गुरुतल्पगौ ||  
   
-Manu9.64a/ na-anyasmin vidhavā nārī niyoktavyā) dvijātibhiḥ |  
+मनु९।६४अ/ न-अन्यस्मिन् विधवा नारी नियोक्तव्या) द्विजातिभिः |  
   
-Manu9.64c/ anyasmin hi niyuñjānā) dharmaṃ hanyuḥ) sanātanam ||  
+मनु९।६४च्/ अन्यस्मिन् हि नियुञ्जाना) धर्मं हन्युः) सनातनम् ||  
   
-Manu9.65a/ na-udvāhikeṣu mantreṣu niyogaḥ kīrtyate) kva cit |  
+मनु९।६५अ/ न-उद्वाहिकेषु मन्त्रेषु नियोगः कीर्त्यते) क्व चित् |  
   
-Manu9.65c/ na vivāhavidhāv uktaṃ vidhavāvedanaṃ punaḥ ||  
+मनु९।६५च्/ न विवाहविधाव् उक्तं विधवावेदनं पुनः ||  
   
-Manu9.66a/ ayaṃ dvijair hi vidvadbhiḥ paśudharmo vigarhitaḥ) |  
+मनु९।६६अ/ अयं द्विजैर् हि विद्वद्भिः पशुधर्मो विगर्हितः) |  
   
-Manu9.66c/ manuṣyāṇām api prokto) vene rājyaṃ praśāsati ||  
+मनु९।६६च्/ मनुष्याणाम् अपि प्रोक्तो) वेने राज्यं प्रशासति ||  
   
-Manu9.67a/ sa mahīm akhilāṃ bhuñjan) rājarṣipravaraḥ purā |  
+मनु९।६७अ/ स महीम् अखिलां भुञ्जन्) राजर्षिप्रवरः पुरा |  
   
-Manu9.67c/ varṇānāṃ saṃkaraṃ cakre) kāma.upahata.cetanaḥ ||  
+मनु९।६७च्/ वर्णानां संकरं चक्रे) काम।उपहत।चेतनः ||  
   
-Manu9.68a/ tataḥ prabhṛti yo mohāt pramīta.patikāṃ striyam |  
+मनु९।६८अ/ ततः प्रभृति यो मोहात् प्रमीत।पतिकां स्त्रियम् |  
   
-Manu9.68c/ niyojayaty) apatyārthaṃ taṃ vigarhanti) sādhavaḥ ||  
+मनु९।६८च्/ नियोजयत्य्) अपत्यार्थं तं विगर्हन्ति) साधवः ||  
   
-Manu9.69a/ yasyā mriyeta) kanyāyā vācā satye kṛte patiḥ |  
+मनु९।६९अ/ यस्या म्रियेत) कन्याया वाचा सत्ये कृते पतिः |  
   
-Manu9.69c/ tām anena vidhānena nijo vindeta) devaraḥ ||  
+मनु९।६९च्/ ताम् अनेन विधानेन निजो विन्देत) देवरः ||  
   
-Manu9.70a/ yathāvidhi-adhigamya)-enāṃ śukla.vastrāṃ śuci.vratām |  
+मनु९।७०अ/ यथाविधि-अधिगम्य)-एनां शुक्ल।वस्त्रां शुचि।व्रताम् |  
   
-Manu9.70c/ mitho bhajeta)-ā prasavāt sakṛt.sakṛd ṛtāv.ṛtau ||  
+मनु९।७०च्/ मिथो भजेत)-आ प्रसवात् सकृत्।सकृद् ऋताव्।ऋतौ ||  
   
   
   
-Manu9.71a/ na dattvā) kasya cit kanyāṃ punar dadyād) vicakṣaṇaḥ |  
+मनु९।७१अ/ न दत्त्वा) कस्य चित् कन्यां पुनर् दद्याद्) विचक्षणः |  
   
-Manu9.71c/ dattvā) punaḥ prayacchan) hi prāpnoti) puruṣānṛtam ||  
+मनु९।७१च्/ दत्त्वा) पुनः प्रयच्छन्) हि प्राप्नोति) पुरुषानृतम् ||  
   
-Manu9.72a/ vidhivat pratigṛhya)-api tyajet) kanyāṃ vigarhitām |  
+मनु९।७२अ/ विधिवत् प्रतिगृह्य)-अपि त्यजेत्) कन्यां विगर्हिताम् |  
   
-Manu9.72c/ vyādhitāṃ vipraduṣṭāṃ vā chadmanā ca-upapāditām ||  
+मनु९।७२च्/ व्याधितां विप्रदुष्टां वा छद्मना च-उपपादिताम् ||  
   
-Manu9.73a/ yas tu doṣavatīṃ kanyām an.ākhyāya)-upapādayet) |  
+मनु९।७३अ/ यस् तु दोषवतीं कन्याम् अन्।आख्याय)-उपपादयेत्) |  
   
-Manu9.73c/ tasya tad vitathaṃ kuryāt) kanyādātur durātmanaḥ ||  
+मनु९।७३च्/ तस्य तद् वितथं कुर्यात्) कन्यादातुर् दुरात्मनः ||  
   
   
   
-Manu9.74a/ vidhāya) vṛttiṃ bhāryāyāḥ pravaset) kāryavān naraḥ |  
+मनु९।७४अ/ विधाय) वृत्तिं भार्यायाः प्रवसेत्) कार्यवान् नरः |  
   
-Manu9.74c/ avṛttikarśitā hi strī praduṣyet) sthitimaty api ||  
+मनु९।७४च्/ अवृत्तिकर्शिता हि स्त्री प्रदुष्येत्) स्थितिमत्य् अपि ||  
   
-Manu9.75a/ vidhāya) proṣite vṛttiṃ jīven) niyamam āsthitā |  
+मनु९।७५अ/ विधाय) प्रोषिते वृत्तिं जीवेन्) नियमम् आस्थिता |  
   
-Manu9.75c/ proṣite tv a.vidhāya)-eva jīvet)- śilpair agarhitaiḥ ||  
+मनु९।७५च्/ प्रोषिते त्व् अ।विधाय)-एव जीवेत्)- शिल्पैर् अगर्हितैः ||  
   
-Manu9.76a/ proṣito dharmakāryārthaṃ pratīkṣyo) 'aṣṭau naraḥ samāḥ |  
+मनु९।७६अ/ प्रोषितो धर्मकार्यार्थं प्रतीक्ष्यो) ऽअष्टौ नरः समाः |  
   
-Manu9.76c/ vidyārthaṃ ṣaḍ yaśo.'arthaṃ vā kāmārthaṃ trīṃs tu vatsarān ||  
+मनु९।७६च्/ विद्यार्थं षड् यशो।ऽअर्थं वा कामार्थं त्रींस् तु वत्सरान् ||  
   
   
   
-Manu9.77a/ saṃvatsaraṃ pratīkṣeta) dviṣantīṃ yoṣitaṃ patiḥ | [M.dviṣāṇāṃ]  
+मनु९।७७अ/ संवत्सरं प्रतीक्षेत) द्विषन्तीं योषितं पतिः | [म्।द्विषाणां]  
   
-Manu9.77c/ ūrdhvaṃ saṃvatsarāt tv enāṃ dāyaṃ hṛtvā) na saṃvaset) ||  
+मनु९।७७च्/ ऊर्ध्वं संवत्सरात् त्व् एनां दायं हृत्वा) न संवसेत्) ||  
   
-Manu9.78a/ atikrāmet) pramattaṃ yā mattaṃ rogārtam eva vā |  
+मनु९।७८अ/ अतिक्रामेत्) प्रमत्तं या मत्तं रोगार्तम् एव वा |  
   
-Manu9.78c/ sā trīn māsān parityājyā) vibhūṣaṇa.paricchadā ||  
+मनु९।७८च्/ सा त्रीन् मासान् परित्याज्या) विभूषण।परिच्छदा ||  
   
-Manu9.79a/ unmattaṃ patitaṃ klībam a.bījaṃ pāparogiṇam |  
+मनु९।७९अ/ उन्मत्तं पतितं क्लीबम् अ।बीजं पापरोगिणम् |  
   
-Manu9.79c/ na tyāgo 'asti) dviṣantyāś ca na ca dāyāpavartanam ||  
+मनु९।७९च्/ न त्यागो ऽअस्ति) द्विषन्त्याश् च न च दायापवर्तनम् ||  
   
-Manu9.80a/ madyapā-asādhuvṛttā ca pratikūlā ca yā bhavet) | [M.madyapa.asatyavṛttā ]  
+मनु९।८०अ/ मद्यपा-असाधुवृत्ता च प्रतिकूला च या भवेत्) | [म्।मद्यप।असत्यवृत्ता ]  
   
-Manu9.80c/ vyādhitā vā-adhivettavyā hiṃsrā-arthaghnī ca sarvadā ||  
+मनु९।८०च्/ व्याधिता वा-अधिवेत्तव्या हिंस्रा-अर्थघ्नी च सर्वदा ||  
   
-Manu9.81a/ vandhyāṣṭame 'adhivedyā-'abde daśame tu mṛta.prajā |  
+मनु९।८१अ/ वन्ध्याष्टमे ऽअधिवेद्या-ऽअब्दे दशमे तु मृत।प्रजा |  
   
-Manu9.81c/ ekādaśe strījananī sadyas tv apriyavādinī ||  
+मनु९।८१च्/ एकादशे स्त्रीजननी सद्यस् त्व् अप्रियवादिनी ||  
   
-Manu9.82a/ yā rogiṇī syāt) tu hitā saṃpannā ca-eva śīlataḥ |  
+मनु९।८२अ/ या रोगिणी स्यात्) तु हिता संपन्ना च-एव शीलतः |  
   
-Manu9.82c/ sā-anujñāpya-adhivettavyā) na-avamānyā) ca karhi cit ||  
+मनु९।८२च्/ सा-अनुज्ञाप्य-अधिवेत्तव्या) न-अवमान्या) च कर्हि चित् ||  
   
-Manu9.83a/ adhivinnā tu yā nārī nirgacched) ruṣitā gṛhāt |  
+मनु९।८३अ/ अधिविन्ना तु या नारी निर्गच्छेद्) रुषिता गृहात् |  
   
-Manu9.83c/ sā sadyaḥ saṃniroddhavyā) tyājyā) vā kulasaṃnidhau ||  
+मनु९।८३च्/ सा सद्यः संनिरोद्धव्या) त्याज्या) वा कुलसंनिधौ ||  
   
-Manu9.84a/ pratiṣiddhā-api ced yā tu madyam abhyudayeṣv api | [ M.pratiṣedhe pibed yā tu]  
+मनु९।८४अ/ प्रतिषिद्धा-अपि चेद् या तु मद्यम् अभ्युदयेष्व् अपि | [ म्।प्रतिषेधे पिबेद् या तु]  
   
-Manu9.84c/ prekṣā.samājaṃ gacched) vā sā daṇḍyā) kṛṣṇalāni ṣaṭ ||  
+मनु९।८४च्/ प्रेक्षा।समाजं गच्छेद्) वा सा दण्ड्या) कृष्णलानि षट् ||  
   
   
   
-Manu9.85a/ yadi svāś ca-aparāś ca-eva vinderan) yoṣito dvijāḥ |  
+मनु९।८५अ/ यदि स्वाश् च-अपराश् च-एव विन्देरन्) योषितो द्विजाः |  
   
-Manu9.85c/ tāsāṃ varṇakrameṇa syāj) jyeṣṭhyaṃ pūjā ca veśma ca ||  
+मनु९।८५च्/ तासां वर्णक्रमेण स्याज्) ज्येष्ठ्यं पूजा च वेश्म च ||  
   
-Manu9.86a/ bhartuḥ śarīraśuśrūṣāṃ dharmakāryaṃ ca naityakam |  
+मनु९।८६अ/ भर्तुः शरीरशुश्रूषां धर्मकार्यं च नैत्यकम् |  
   
-Manu9.86c/ svā ca-eva kuryāt) sarveṣāṃ na-asvajātiḥ kathaṃ cana || [M.svā svā-eva]  
+मनु९।८६च्/ स्वा च-एव कुर्यात्) सर्वेषां न-अस्वजातिः कथं चन || [म्।स्वा स्वा-एव]  
   
-Manu9.87a/ yas tu tat kārayen) mohāt sa.jātyā sthitayā-anyayā |  
+मनु९।८७अ/ यस् तु तत् कारयेन्) मोहात् स।जात्या स्थितया-अन्यया |  
   
-Manu9.87c/ yathā brāhmaṇacāṇḍālaḥ pūrvadṛṣṭas tathā-eva saḥ ||  
+मनु९।८७च्/ यथा ब्राह्मणचाण्डालः पूर्वदृष्टस् तथा-एव सः ||  
   
   
   
-Manu9.88a/ utkṛṣṭāya-abhirūpāya varāya sadṛśāya ca |  
+मनु९।८८अ/ उत्कृष्टाय-अभिरूपाय वराय सदृशाय च |  
   
-Manu9.88c/ aprāptām api tāṃ tasmai kanyāṃ dadyād) yathāvidhi ||  
+मनु९।८८च्/ अप्राप्ताम् अपि तां तस्मै कन्यां दद्याद्) यथाविधि ||  
   
-Manu9.89a/ kāmam ā maraṇāt tiṣṭhed) gṛhe kanyā-ṛtumaty api |  
+मनु९।८९अ/ कामम् आ मरणात् तिष्ठेद्) गृहे कन्या-ऋतुमत्य् अपि |  
   
-Manu9.89c/ na ca-eva-enāṃ prayaccet) tu guṇa.hīnāya karhi cit ||  
+मनु९।८९च्/ न च-एव-एनां प्रयच्चेत्) तु गुण।हीनाय कर्हि चित् ||  
   
-Manu9.90a/ trīṇi varṣāṇy udīkṣeta) kumāry ṛtumatī satī |  
+मनु९।९०अ/ त्रीणि वर्षाण्य् उदीक्षेत) कुमार्य् ऋतुमती सती |  
   
-Manu9.90c/ ūrdhvaṃ tu kālād etasmād vindeta) sadṛśaṃ patim ||  
+मनु९।९०च्/ ऊर्ध्वं तु कालाद् एतस्माद् विन्देत) सदृशं पतिम् ||  
   
-Manu9.91a/ a.dīyamānā bhartāram adhigacched) yadi svayam |  
+मनु९।९१अ/ अ।दीयमाना भर्तारम् अधिगच्छेद्) यदि स्वयम् |  
   
-Manu9.91c/ na-enaḥ kiṃ cid avāpnoti) na ca yaṃ sā-adhigacchati) ||  
+मनु९।९१च्/ न-एनः किं चिद् अवाप्नोति) न च यं सा-अधिगच्छति) ||  
   
-Manu9.92a/ alaṅkāraṃ na-ādadīta) pitryaṃ kanyā svayaṃvarā |  
+मनु९।९२अ/ अलङ्कारं न-आददीत) पित्र्यं कन्या स्वयंवरा |  
   
-Manu9.92c/ mātṛkaṃ bhrātṛdattaṃ vā stenā syād) yadi taṃ haret) ||  
+मनु९।९२च्/ मातृकं भ्रातृदत्तं वा स्तेना स्याद्) यदि तं हरेत्) ||  
   
-Manu9.93a/ pitre na dadyāt)- śulkaṃ tu kanyām ṛtumatīṃ haran) |  
+मनु९।९३अ/ पित्रे न दद्यात्)- शुल्कं तु कन्याम् ऋतुमतीं हरन्) |  
   
-Manu9.93c/ sa ca svāmyād atikrāmed) ṛtūnāṃ pratirodhanāt ||  
+मनु९।९३च्/ स च स्वाम्याद् अतिक्रामेद्) ऋतूनां प्रतिरोधनात् ||  
   
-Manu9.94a/ triṃśadvarṣo vahet) kanyāṃ hṛdyāṃ dvādaśavārṣikīm |  
+मनु९।९४अ/ त्रिंशद्वर्षो वहेत्) कन्यां हृद्यां द्वादशवार्षिकीम् |  
   
-Manu9.94c/ tryaṣṭavarṣo 'aṣṭavarṣāṃ vā dharme sīdati) satvaraḥ ||  
+मनु९।९४च्/ त्र्यष्टवर्षो ऽअष्टवर्षां वा धर्मे सीदति) सत्वरः ||  
   
-Manu9.95a/ devadattāṃ patir bhāryāṃ vindate) na-icchayā-ātmanaḥ |  
+मनु९।९५अ/ देवदत्तां पतिर् भार्यां विन्दते) न-इच्छया-आत्मनः |  
   
-Manu9.95c/ tāṃ sādhvīṃ bibhṛyān) nityaṃ devānāṃ priyam ācaran) ||  
+मनु९।९५च्/ तां साध्वीं बिभृयान्) नित्यं देवानां प्रियम् आचरन्) ||  
   
-Manu9.96a/ prajanārthaṃ striyaḥ sṛṣṭāḥ) saṃtānārthaṃ ca mānavaḥ |  
+मनु९।९६अ/ प्रजनार्थं स्त्रियः सृष्टाः) संतानार्थं च मानवः |  
   
-Manu9.96c/ tasmāt sādhāraṇo dharmaḥ śrutau patnyā saha.uditaḥ ||  
+मनु९।९६च्/ तस्मात् साधारणो धर्मः श्रुतौ पत्न्या सह।उदितः ||  
   
-Manu9.97a/ kanyāyāṃ datta.śulkāyāṃ mriyeta) yadi śulkadaḥ |  
+मनु९।९७अ/ कन्यायां दत्त।शुल्कायां म्रियेत) यदि शुल्कदः |  
   
-Manu9.97c/ devarāya pradātavyā) yadi kanyā-anumanyate) ||  
+मनु९।९७च्/ देवराय प्रदातव्या) यदि कन्या-अनुमन्यते) ||  
   
-Manu9.98a/ ādadīta) na śūdro 'api śulkaṃ duhitaraṃ dadan) |  
+मनु९।९८अ/ आददीत) न शूद्रो ऽअपि शुल्कं दुहितरं ददन्) |  
   
-Manu9.98c/ śulkaṃ hi gṛhṇan) kurute) channaṃ duhitṛvikrayam ||  
+मनु९।९८च्/ शुल्कं हि गृह्णन्) कुरुते) छन्नं दुहितृविक्रयम् ||  
   
-Manu9.99a/ etat tu na pare cakrur) na-apare jātu sādhavaḥ |  
+मनु९।९९अ/ एतत् तु न परे चक्रुर्) न-अपरे जातु साधवः |  
   
-Manu9.99c/ yad anyasya pratijñāya) punar anyasya dīyate) ||  
+मनु९।९९च्/ यद् अन्यस्य प्रतिज्ञाय) पुनर् अन्यस्य दीयते) ||  
   
-Manu9.100a/ na-anuśuśruma) jātu-etat pūrveṣv api hi janmasu |  
+मनु९।१००अ/ न-अनुशुश्रुम) जातु-एतत् पूर्वेष्व् अपि हि जन्मसु |  
   
-Manu9.100c/ śulka.saṃjñena mūlyena channaṃ duhitṛvikrayam ||  
+मनु९।१००च्/ शुल्क।संज्ञेन मूल्येन छन्नं दुहितृविक्रयम् ||  
   
-Manu9.101a/ anyonyasya-avyabhicāro bhaved) ā.maraṇāntikaḥ |  
+मनु९।१०१अ/ अन्योन्यस्य-अव्यभिचारो भवेद्) आ।मरणान्तिकः |  
   
-Manu9.101c/ eṣa dharmaḥ samāsena jñeyaḥ) strī.puṃsayoḥ paraḥ ||  
+मनु९।१०१च्/ एष धर्मः समासेन ज्ञेयः) स्त्री।पुंसयोः परः ||  
   
-Manu9.102a/ tathā nityaṃ yateyātāṃ) strī.puṃsau tu kṛta.kriyau |  
+मनु९।१०२अ/ तथा नित्यं यतेयातां) स्त्री।पुंसौ तु कृत।क्रियौ |  
   
-Manu9.102c/ yathā nābhicaretāṃ tau viyuktāv itaretaram || [M.na-aticaretāṃ) ]  
+मनु९।१०२च्/ यथा नाभिचरेतां तौ वियुक्ताव् इतरेतरम् || [म्।न-अतिचरेतां) ]  
   
-Manu9.103a/ eṣa strī.puṃsayor ukto) dharmo vo ratisaṃhitaḥ |   
+मनु९।१०३अ/ एष स्त्री।पुंसयोर् उक्तो) धर्मो वो रतिसंहितः |   
   
-Manu9.103c/ āpady apatyaprāptiś ca dāyadharmaṃ nibodhata) ||  
+मनु९।१०३च्/ आपद्य् अपत्यप्राप्तिश् च दायधर्मं निबोधत) ||  
   
   
   
-Manu9.104a/ ūrdhvaṃ pituś ca mātuś ca sametya) bhrātaraḥ samam |  
+मनु९।१०४अ/ ऊर्ध्वं पितुश् च मातुश् च समेत्य) भ्रातरः समम् |  
   
-Manu9.104c/ bhajeran) paitṛkaṃ riktham anīśās te hi jīvatoḥ ||  
+मनु९।१०४च्/ भजेरन्) पैतृकं रिक्थम् अनीशास् ते हि जीवतोः ||  
   
-Manu9.105a/ jyeṣṭha eva tu gṛhṇīyāt) pitryaṃ dhanam aśeṣataḥ |  
+मनु९।१०५अ/ ज्येष्ठ एव तु गृह्णीयात्) पित्र्यं धनम् अशेषतः |  
   
-Manu9.105c/ śeṣās tam upajīveyur) yathā-eva pitaraṃ tathā ||  
+मनु९।१०५च्/ शेषास् तम् उपजीवेयुर्) यथा-एव पितरं तथा ||  
   
-Manu9.106a/ jyeṣṭhena jātamātreṇa putrī bhavati mānavaḥ |  
+मनु९।१०६अ/ ज्येष्ठेन जातमात्रेण पुत्री भवति मानवः |  
   
-Manu9.106c/ pitqṇām an.ṛṇaś ca-eva sa tasmāt sarvam arhati) ||  
+मनु९।१०६च्/ पित्क़्णाम् अन्।ऋणश् च-एव स तस्मात् सर्वम् अर्हति) ||  
   
-Manu9.107a/ yasminn ṛṇaṃ saṃnayati) yena ca-anantyam aśnute) |  
+मनु९।१०७अ/ यस्मिन्न् ऋणं संनयति) येन च-अनन्त्यम् अश्नुते) |  
   
-Manu9.107c/ sa eva dharmajaḥ putraḥ kāmajān itarān viduḥ) ||  
+मनु९।१०७च्/ स एव धर्मजः पुत्रः कामजान् इतरान् विदुः) ||  
   
-Manu9.108a/ pitā-iva pālayet) pūtrān jyeṣṭho bhrātqṇ yavīyasaḥ |  
+मनु९।१०८अ/ पिता-इव पालयेत्) पूत्रान् ज्येष्ठो भ्रात्क़्ण् यवीयसः |  
   
-Manu9.108c/ putravat-ca-api varteran) jyeṣṭhe bhrātari dharmataḥ ||  
+मनु९।१०८च्/ पुत्रवत्-च-अपि वर्तेरन्) ज्येष्ठे भ्रातरि धर्मतः ||  
   
-Manu9.109a/ jyeṣṭhaḥ kulaṃ vardhayati) vināśayati) vā punaḥ |  
+मनु९।१०९अ/ ज्येष्ठः कुलं वर्धयति) विनाशयति) वा पुनः |  
   
-Manu9.109c/ jyeṣṭhaḥ pūjyatamo loke jyeṣṭhaḥ sadbhir a.garhitaḥ ||  
+मनु९।१०९च्/ ज्येष्ठः पूज्यतमो लोके ज्येष्ठः सद्भिर् अ।गर्हितः ||  
   
-Manu9.110a/ yo jyeṣṭho jyeṣṭha.vṛttiḥ syān) mātā-iva sa pitā-iva saḥ |  
+मनु९।११०अ/ यो ज्येष्ठो ज्येष्ठ।वृत्तिः स्यान्) माता-इव स पिता-इव सः |  
   
-Manu9.110c/ a.jyeṣṭhavṛttir yas tu syāt) sa saṃpūjyas) tu bandhuvat ||  
+मनु९।११०च्/ अ।ज्येष्ठवृत्तिर् यस् तु स्यात्) स संपूज्यस्) तु बन्धुवत् ||  
   
-Manu9.111a/ evaṃ saha vaseyur) vā pṛthag vā dharmakāmyayā |  
+मनु९।१११अ/ एवं सह वसेयुर्) वा पृथग् वा धर्मकाम्यया |  
   
-Manu9.111c/ pṛthag vivardhate) dharmas tasmād dharmyā pṛthakkriyā ||  
+मनु९।१११च्/ पृथग् विवर्धते) धर्मस् तस्माद् धर्म्या पृथक्क्रिया ||  
   
-Manu9.112a/ jyeṣṭhasya viṃśa uddhāraḥ sarvadravyāc ca yad varam |  
+मनु९।११२अ/ ज्येष्ठस्य विंश उद्धारः सर्वद्रव्याच् च यद् वरम् |  
   
-Manu9.112c/ tato 'ardhaṃ madhyamasya syāt) turīyaṃ tu yavīyasaḥ ||  
+मनु९।११२च्/ ततो ऽअर्धं मध्यमस्य स्यात्) तुरीयं तु यवीयसः ||  
   
-Manu9.113a/ jyeṣṭhaś ca-eva kaniṣṭhaś ca saṃharetāṃ) yathā.uditam |  
+मनु९।११३अ/ ज्येष्ठश् च-एव कनिष्ठश् च संहरेतां) यथा।उदितम् |  
   
-Manu9.113c/ ye 'anye jyeṣṭha.kaniṣṭhābhyāṃ teṣāṃ syān) madhyamaṃ dhanam ||  
+मनु९।११३च्/ ये ऽअन्ये ज्येष्ठ।कनिष्ठाभ्यां तेषां स्यान्) मध्यमं धनम् ||  
   
-Manu9.114a/ sarveṣāṃ dhanajātānām ādadīta)-agryam agrajaḥ |  
+मनु९।११४अ/ सर्वेषां धनजातानाम् आददीत)-अग्र्यम् अग्रजः |  
   
-Manu9.114c/ yac ca sātiśayaṃ kiṃ cid daśataś ca-āpnuyād) varam ||  
+मनु९।११४च्/ यच् च सातिशयं किं चिद् दशतश् च-आप्नुयाद्) वरम् ||  
   
-Manu9.115a/ uddhāro na daśasv asti) saṃpannānāṃ) svakarmasu |  
+मनु९।११५अ/ उद्धारो न दशस्व् अस्ति) संपन्नानां) स्वकर्मसु |  
   
-Manu9.115c/ yat kiṃ cid eva deyaṃ) tu jyāyase māna.vardhanam ||  
+मनु९।११५च्/ यत् किं चिद् एव देयं) तु ज्यायसे मान।वर्धनम् ||  
   
-Manu9.116a/ evaṃ samuddhṛta.uddhāre samān aṃśān prakalpayet) |  
+मनु९।११६अ/ एवं समुद्धृत।उद्धारे समान् अंशान् प्रकल्पयेत्) |  
   
-Manu9.116c/ uddhāre 'an.uddhṛte) tv eṣām iyaṃ syād) aṃśakalpanā ||  
+मनु९।११६च्/ उद्धारे ऽअन्।उद्धृते) त्व् एषाम् इयं स्याद्) अंशकल्पना ||  
   
-Manu9.117a/ ekādhikaṃ harej) jyeṣṭhaḥ putro 'adhyardhaṃ tato 'anujaḥ |  
+मनु९।११७अ/ एकाधिकं हरेज्) ज्येष्ठः पुत्रो ऽअध्यर्धं ततो ऽअनुजः |  
   
-Manu9.117c/ aṃśam aṃśaṃ yavīyāṃsa iti dharmo vyavasthitaḥ ||  
+मनु९।११७च्/ अंशम् अंशं यवीयांस इति धर्मो व्यवस्थितः ||  
   
-Manu9.118a/ svebhyo 'aṃśebhyas tu kanyābhyaḥ pradadyur) bhrātaraḥ pṛthak | [M.svābhyaḥ svābhyas tu]  
+मनु९।११८अ/ स्वेभ्यो ऽअंशेभ्यस् तु कन्याभ्यः प्रदद्युर्) भ्रातरः पृथक् | [म्।स्वाभ्यः स्वाभ्यस् तु]  
   
-Manu9.118c/ svāt svād aṃśāc caturbhāgaṃ patitāḥ syur) aditsavaḥ ||  
+मनु९।११८च्/ स्वात् स्वाद् अंशाच् चतुर्भागं पतिताः स्युर्) अदित्सवः ||  
   
-Manu9.119a/ aja.āvikaṃ sa.ekaśaphaṃ  na jātu viṣamaṃ bhajet) | [M.aja.āvikaṃ ca-ekaśaphaṃ]  
+मनु९।११९अ/ अज।आविकं स।एकशफं  न जातु विषमं भजेत्) | [म्।अज।आविकं च-एकशफं]  
   
-Manu9.119c/ aja.āvikaṃ tu viṣamaṃ jyeṣṭhasya-eva vidhīyate) ||  
-Manu9.120a/ yavīyān-jyeṣṭhabhāryāyāṃ putram utpādayed) yadi |  
+मनु९।११९च्/ अज।आविकं तु विषमं ज्येष्ठस्य-एव विधीयते) ||  
+मनु९।१२०अ/ यवीयान्-ज्येष्ठभार्यायां पुत्रम् उत्पादयेद्) यदि |  
   
-Manu9.120c/ samas tatra vibhāgaḥ syād) iti dharmo vyavasthitaḥ ||  
+मनु९।१२०च्/ समस् तत्र विभागः स्याद्) इति धर्मो व्यवस्थितः ||  
   
-Manu9.121a/ upasarjanaṃ pradhānasya dharmato na-upapadyate) |  
+मनु९।१२१अ/ उपसर्जनं प्रधानस्य धर्मतो न-उपपद्यते) |  
   
-Manu9.121c/ pitā pradhānaṃ prajane tasmād dharmeṇa taṃ bhajet) ||  
+मनु९।१२१च्/ पिता प्रधानं प्रजने तस्माद् धर्मेण तं भजेत्) ||  
   
-Manu9.122a/ putraḥ kaniṣṭho jyeṣṭhāyāṃ kaniṣṭhāyāṃ ca pūrvajaḥ |  
+मनु९।१२२अ/ पुत्रः कनिष्ठो ज्येष्ठायां कनिष्ठायां च पूर्वजः |  
   
-Manu9.122c/ kathaṃ tatra vibhāgaḥ syād) iti cet saṃśayo bhavet) ||  
+मनु९।१२२च्/ कथं तत्र विभागः स्याद्) इति चेत् संशयो भवेत्) ||  
   
-Manu9.123a/ ekaṃ vṛṣabham uddhāraṃ saṃhareta) sa pūrvajaḥ |  
+मनु९।१२३अ/ एकं वृषभम् उद्धारं संहरेत) स पूर्वजः |  
   
-Manu9.123c/ tato 'apare jyeṣṭhavṛṣās tad.ūnānāṃ svamātṛtaḥ ||  
+मनु९।१२३च्/ ततो ऽअपरे ज्येष्ठवृषास् तद्।ऊनानां स्वमातृतः ||  
   
-Manu9.124a/ jyeṣṭhas tu jāto) jyeṣṭhāyāṃ hared) vṛṣabha.ṣoḍaśāḥ |  
+मनु९।१२४अ/ ज्येष्ठस् तु जातो) ज्येष्ठायां हरेद्) वृषभ।षोडशाः |  
   
-Manu9.124c/ tataḥ svamātṛtaḥ śeṣā bhajerann) iti dhāraṇā ||  
+मनु९।१२४च्/ ततः स्वमातृतः शेषा भजेरन्न्) इति धारणा ||  
   
-Manu9.125a/ sadṛśastrīṣu jātānāṃ putrāṇām aviśeṣataḥ |  
+मनु९।१२५अ/ सदृशस्त्रीषु जातानां पुत्राणाम् अविशेषतः |  
   
-Manu9.125c/ na mātṛto jyaiṣṭhyam asti) janmato jyaiṣṭhyam ucyate) ||   
+मनु९।१२५च्/ न मातृतो ज्यैष्ठ्यम् अस्ति) जन्मतो ज्यैष्ठ्यम् उच्यते) ||   
   
-Manu9.126a/ janmajyeṣṭhena ca-āhvānaṃ subrahmaṇyāsv api smṛtam |  
+मनु९।१२६अ/ जन्मज्येष्ठेन च-आह्वानं सुब्रह्मण्यास्व् अपि स्मृतम् |  
   
-Manu9.126c/ yamayoś ca-eva garbheṣu janmato jyeṣṭhatā smṛtā ||  
+मनु९।१२६च्/ यमयोश् च-एव गर्भेषु जन्मतो ज्येष्ठता स्मृता ||  
   
   
   
-Manu9.127a/ a.putro 'anena vidhinā sutāṃ kurvīta putrikām |  
+मनु९।१२७अ/ अ।पुत्रो ऽअनेन विधिना सुतां कुर्वीत पुत्रिकाम् |  
   
-Manu9.127c/ yad apatyaṃ bhaved) asyāṃ tan mama syāt) svadhākaram ||  
+मनु९।१२७च्/ यद् अपत्यं भवेद्) अस्यां तन् मम स्यात्) स्वधाकरम् ||  
   
-Manu9.128a/ anena tu vidhānena purā cakre) 'atha putrikāḥ |  
+मनु९।१२८अ/ अनेन तु विधानेन पुरा चक्रे) ऽअथ पुत्रिकाः |  
   
-Manu9.128c/ vivṛddhyarthaṃ svavaṃśasya svayaṃ dakṣaḥ prajāpatiḥ ||  
+मनु९।१२८च्/ विवृद्ध्यर्थं स्ववंशस्य स्वयं दक्षः प्रजापतिः ||  
   
-Manu9.129a/ dadau) sa daśa dharmāya kaśyapāya trayodaśa |  
+मनु९।१२९अ/ ददौ) स दश धर्माय कश्यपाय त्रयोदश |  
   
-Manu9.129c/ somāya rājñe satkṛtya) prīta.ātmā saptaviṃśatim ||  
+मनु९।१२९च्/ सोमाय राज्ञे सत्कृत्य) प्रीत।आत्मा सप्तविंशतिम् ||  
   
-Manu9.130a/ yathā-eva-ātmā tathā putraḥ putreṇa duhitā samā |  
+मनु९।१३०अ/ यथा-एव-आत्मा तथा पुत्रः पुत्रेण दुहिता समा |  
   
-Manu9.130c/ tasyām ātmani tiṣṭhantyāṃ) katham anyo dhanaṃ haret) ||  
+मनु९।१३०च्/ तस्याम् आत्मनि तिष्ठन्त्यां) कथम् अन्यो धनं हरेत्) ||  
   
-Manu9.131a/ mātus tu yautakaṃ yat syāt) kumārībhāga eva saḥ |  
+मनु९।१३१अ/ मातुस् तु यौतकं यत् स्यात्) कुमारीभाग एव सः |  
   
-Manu9.131c/ dauhitra eva ca hared) a.putrasya-akhilaṃ dhanam ||  
+मनु९।१३१च्/ दौहित्र एव च हरेद्) अ।पुत्रस्य-अखिलं धनम् ||  
   
-Manu9.132a/ dauhitro hy a.khilaṃ riktham a.putrasya pitur haret) |  
+मनु९।१३२अ/ दौहित्रो ह्य् अ।खिलं रिक्थम् अ।पुत्रस्य पितुर् हरेत्) |  
   
-Manu9.132c/ sa eva dadyād) dvau piṇḍau pitre mātāmahāya ca ||  
+मनु९।१३२च्/ स एव दद्याद्) द्वौ पिण्डौ पित्रे मातामहाय च ||  
   
-Manu9.133a/ pautra.dauhitrayor loke na viśeṣo 'asti) dharmataḥ |  
+मनु९।१३३अ/ पौत्र।दौहित्रयोर् लोके न विशेषो ऽअस्ति) धर्मतः |  
   
-Manu9.133c/ tayor hi mātā.pitarau saṃbhūtau) tasya dehataḥ ||  
+मनु९।१३३च्/ तयोर् हि माता।पितरौ संभूतौ) तस्य देहतः ||  
   
-Manu9.134a/ putrikāyāṃ kṛtāyāṃ tu yadi putro 'anujāyate) |  
+मनु९।१३४अ/ पुत्रिकायां कृतायां तु यदि पुत्रो ऽअनुजायते) |  
   
-Manu9.134c/ samas tatra vibhāgaḥ syāt)-jyeṣṭhatā na-asti) hi striyāḥ ||  
+मनु९।१३४च्/ समस् तत्र विभागः स्यात्)-ज्येष्ठता न-अस्ति) हि स्त्रियाः ||  
   
-Manu9.135a/ a.putrāyāṃ mṛtāyāṃ tu putrikāyāṃ kathaṃ cana |  
+मनु९।१३५अ/ अ।पुत्रायां मृतायां तु पुत्रिकायां कथं चन |  
   
-Manu9.135c/ dhanaṃ tat putrikābhartā hareta)-eva-a.vicārayan) ||  
+मनु९।१३५च्/ धनं तत् पुत्रिकाभर्ता हरेत)-एव-अ।विचारयन्) ||  
   
-Manu9.136a/ akṛtā vā kṛtā vā-api yaṃ vindet) sadṛśāt sutam |  
+मनु९।१३६अ/ अकृता वा कृता वा-अपि यं विन्देत्) सदृशात् सुतम् |  
   
-Manu9.136c/ pautrī mātāmahas tena dadyāt) piṇḍaṃ hared) dhanam ||  
+मनु९।१३६च्/ पौत्री मातामहस् तेन दद्यात्) पिण्डं हरेद्) धनम् ||  
   
-Manu9.137a/ putreṇa lokān-jayati) pautreṇa-ānantyam aśnute) |  
+मनु९।१३७अ/ पुत्रेण लोकान्-जयति) पौत्रेण-आनन्त्यम् अश्नुते) |  
   
-Manu9.137c/ atha putrasya pautreṇa bradhnasya-āpnoti) viṣṭapam ||  
+मनु९।१३७च्/ अथ पुत्रस्य पौत्रेण ब्रध्नस्य-आप्नोति) विष्टपम् ||  
   
-Manu9.138a/ put.nāmno narakād yasmāt trāyate) pitaraṃ sutaḥ |  
+मनु९।१३८अ/ पुत्।नाम्नो नरकाद् यस्मात् त्रायते) पितरं सुतः |  
   
-Manu9.138c/ tasmāt putra iti proktaḥ) svayam eva svayaṃbhuvā ||  
+मनु९।१३८च्/ तस्मात् पुत्र इति प्रोक्तः) स्वयम् एव स्वयंभुवा ||  
   
-Manu9.139a/ pautra.dauhitrayor loke viśeṣo na-upapadyate) |  
+मनु९।१३९अ/ पौत्र।दौहित्रयोर् लोके विशेषो न-उपपद्यते) |  
   
-Manu9.139c/ dauhitro 'api hy amutra-enaṃ saṃtārayati) pautravat ||  
+मनु९।१३९च्/ दौहित्रो ऽअपि ह्य् अमुत्र-एनं संतारयति) पौत्रवत् ||  
   
-Manu9.140a/ mātuḥ prathamataḥ piṇḍaṃ nirvapet) putrikāsutaḥ |  
+मनु९।१४०अ/ मातुः प्रथमतः पिण्डं निर्वपेत्) पुत्रिकासुतः |  
   
-Manu9.140c/ dvitīyaṃ tu pitus tasyās tṛtīyaṃ tatpituḥ pituḥ ||  
+मनु९।१४०च्/ द्वितीयं तु पितुस् तस्यास् तृतीयं तत्पितुः पितुः ||  
   
   
   
-Manu9.141a/ upapanno guṇaiḥ sarvaiḥ putro yasya tu dattrimaḥ |  
+मनु९।१४१अ/ उपपन्नो गुणैः सर्वैः पुत्रो यस्य तु दत्त्रिमः |  
   
-Manu9.141c/ sa hareta)-eva tadrikthaṃ saṃprāpto) 'apy anyagotrataḥ ||  
+मनु९।१४१च्/ स हरेत)-एव तद्रिक्थं संप्राप्तो) ऽअप्य् अन्यगोत्रतः ||  
   
-Manu9.142a/ gotra.rikthe janayitur na hared) dattrimaḥ kva cit |  
+मनु९।१४२अ/ गोत्र।रिक्थे जनयितुर् न हरेद्) दत्त्रिमः क्व चित् |  
   
-Manu9.142c/ gotra.rikthānugaḥ piṇḍo vyapaiti) dadataḥ) svadhā ||  
+मनु९।१४२च्/ गोत्र।रिक्थानुगः पिण्डो व्यपैति) ददतः) स्वधा ||  
   
   
   
-Manu9.143a/ aniyuktāsutaś ca-eva putriṇyā-āptaś ca devarāt |  
+मनु९।१४३अ/ अनियुक्तासुतश् च-एव पुत्रिण्या-आप्तश् च देवरात् |  
   
-Manu9.143c/ ubhau tau na-arhato) bhāgaṃ jārajātaka.kāmajau ||  
+मनु९।१४३च्/ उभौ तौ न-अर्हतो) भागं जारजातक।कामजौ ||  
   
-Manu9.144a/ niyuktāyām api pumān nāryāṃ jāto 'avidhānataḥ |  
+मनु९।१४४अ/ नियुक्तायाम् अपि पुमान् नार्यां जातो ऽअविधानतः |  
   
-Manu9.144c/ na-eva-arhaḥ paitṛkaṃ rikthaṃ patita.utpādito hi saḥ ||  
+मनु९।१४४च्/ न-एव-अर्हः पैतृकं रिक्थं पतित।उत्पादितो हि सः ||  
   
-Manu9.145a/ haret) tatra niyuktāyāṃ jātaḥ putro yathā-aurasaḥ |   
+मनु९।१४५अ/ हरेत्) तत्र नियुक्तायां जातः पुत्रो यथा-औरसः |   
   
-Manu9.145c/ kṣetrikasya tu tad bījaṃ dharmataḥ prasavaś ca saḥ ||  
-Manu9.146a/ dhanaṃ yo bibhṛyād) bhrātur mṛtasya striyam eva ca |  
+मनु९।१४५च्/ क्षेत्रिकस्य तु तद् बीजं धर्मतः प्रसवश् च सः ||  
+मनु९।१४६अ/ धनं यो बिभृयाद्) भ्रातुर् मृतस्य स्त्रियम् एव च |  
   
-Manu9.146c/ so 'apatyaṃ bhrātur utpādya) dadyāt) tasya-eva taddhanam ||  
+मनु९।१४६च्/ सो ऽअपत्यं भ्रातुर् उत्पाद्य) दद्यात्) तस्य-एव तद्धनम् ||  
   
-Manu9.147a/ yā niyuktā-anyataḥ putraṃ devarād vā-apy avāpnuyāt) |  
+मनु९।१४७अ/ या नियुक्ता-अन्यतः पुत्रं देवराद् वा-अप्य् अवाप्नुयात्) |  
   
-Manu9.147c/ taṃ kāmajam a.rikthīyaṃ vṛthā.utpannaṃ pracakṣate) || [M.mithyā.utpannaṃ ]  
+मनु९।१४७च्/ तं कामजम् अ।रिक्थीयं वृथा।उत्पन्नं प्रचक्षते) || [म्।मिथ्या।उत्पन्नं ]  
   
-Manu9.148a/ etad vidhānaṃ vijñeyaṃ vibhāgasya-ekayoniṣu |  
+मनु९।१४८अ/ एतद् विधानं विज्ञेयं विभागस्य-एकयोनिषु |  
   
-Manu9.148c/ bahvīṣu ca-ekajātānāṃ nānāstrīṣu nibodhata) ||  
+मनु९।१४८च्/ बह्वीषु च-एकजातानां नानास्त्रीषु निबोधत) ||  
   
   
   
-Manu9.149a/ brāhmaṇasya-anupūrvyeṇa catasras tu yadi striyaḥ |  
+मनु९।१४९अ/ ब्राह्मणस्य-अनुपूर्व्येण चतस्रस् तु यदि स्त्रियः |  
   
-Manu9.149c/ tāsāṃ putreṣu jāteṣu vibhāge 'ayaṃ vidhiḥ smṛtaḥ) ||  
+मनु९।१४९च्/ तासां पुत्रेषु जातेषु विभागे ऽअयं विधिः स्मृतः) ||  
   
-Manu9.150a/ kīnāśo govṛṣo yānam alaṅkāraś ca veśma ca |  
+मनु९।१५०अ/ कीनाशो गोवृषो यानम् अलङ्कारश् च वेश्म च |  
   
-Manu9.150c/ viprasya-auddhārikaṃ deyam) ekāṃśaś ca pradhānataḥ ||  
+मनु९।१५०च्/ विप्रस्य-औद्धारिकं देयम्) एकांशश् च प्रधानतः ||  
   
-Manu9.151a/ tryaṃśaṃ dāyādd hared) vipro dvāv aṃśau kṣatriyāsutaḥ |  
+मनु९।१५१अ/ त्र्यंशं दायाद्द् हरेद्) विप्रो द्वाव् अंशौ क्षत्रियासुतः |  
   
-Manu9.151c/ vaiśyājaḥ sa.ardham eva-aṃśam aṃśaṃ śūdrāsuto haret ||  
+मनु९।१५१च्/ वैश्याजः स।अर्धम् एव-अंशम् अंशं शूद्रासुतो हरेत् ||  
   
-Manu9.152a/ sarvaṃ vā rikthajātaṃ tad daśadhā parikalpya) ca |  
+मनु९।१५२अ/ सर्वं वा रिक्थजातं तद् दशधा परिकल्प्य) च |  
   
-Manu9.152c/ dharmyaṃ vibhāgaṃ kurvīta) vidhinā-anena dharmavit ||  
+मनु९।१५२च्/ धर्म्यं विभागं कुर्वीत) विधिना-अनेन धर्मवित् ||  
   
-Manu9.153a/ caturo 'aṃśān hared) vipras trīn aṃśān kṣatriyāsutaḥ |  
+मनु९।१५३अ/ चतुरो ऽअंशान् हरेद्) विप्रस् त्रीन् अंशान् क्षत्रियासुतः |  
   
-Manu9.153c/ vaiśyāputro hared) dvyaṃśaṃ aṃśaṃ śūdrāsuto haret |   
+मनु९।१५३च्/ वैश्यापुत्रो हरेद्) द्व्यंशं अंशं शूद्रासुतो हरेत् |   
   
-Manu9.154a/ yady api syāt tu sat.putro 'py asat.putro 'pi vā bhavet | [M.yady api syāt) tu sat.putro yady a.putro 'pi vā bhavet |]  
+मनु९।१५४अ/ यद्य् अपि स्यात् तु सत्।पुत्रो ऽप्य् असत्।पुत्रो ऽपि वा भवेत् | [म्।यद्य् अपि स्यात्) तु सत्।पुत्रो यद्य् अ।पुत्रो ऽपि वा भवेत् |]  
   
-Manu9.154c/ na-adhikaṃ daśamād dadyāt)-śūdrāputrāya dharmataḥ ||  
+मनु९।१५४च्/ न-अधिकं दशमाद् दद्यात्)-शूद्रापुत्राय धर्मतः ||  
   
-Manu9.155a/ brāhmaṇa.kṣatriya.viśāṃ śūdrāputro na rikthabhāk |  
+मनु९।१५५अ/ ब्राह्मण।क्षत्रिय।विशां शूद्रापुत्रो न रिक्थभाक् |  
   
-Manu9.155c/ yad eva-asya pitā dadyāt) tad eva-asya dhanaṃ bhavet) ||  
+मनु९।१५५च्/ यद् एव-अस्य पिता दद्यात्) तद् एव-अस्य धनं भवेत्) ||  
   
-Manu9.156a/ sama.varṇāsu vā jātāḥ sarve putrā dvijanmanām |  
+मनु९।१५६अ/ सम।वर्णासु वा जाताः सर्वे पुत्रा द्विजन्मनाम् |  
   
-Manu9.156c/ uddhāraṃ jyāyase dattvā) bhajerann) itare samam ||  
+मनु९।१५६च्/ उद्धारं ज्यायसे दत्त्वा) भजेरन्न्) इतरे समम् ||  
   
-Manu9.157a/ śūdrasya tu savarṇā-eva na-anyā bhāryā vidhīyate) |  
+मनु९।१५७अ/ शूद्रस्य तु सवर्णा-एव न-अन्या भार्या विधीयते) |  
   
-Manu9.157c/ tasyāṃ jātāḥ sama.aṃśāḥ syur) yadi putraśataṃ bhavet) ||  
+मनु९।१५७च्/ तस्यां जाताः सम।अंशाः स्युर्) यदि पुत्रशतं भवेत्) ||  
   
   
   
-Manu9.158a/ putrān dvādaśa yān āha nqṇāṃ svāyaṃbhuvo manuḥ |  
+मनु९।१५८अ/ पुत्रान् द्वादश यान् आह न्क़्णां स्वायंभुवो मनुः |  
   
-Manu9.158c/ teṣāṃ ṣaḍ bandhu.dāyādāḥ ṣaḍ adāyāda.bāndhavāḥ ||  
+मनु९।१५८च्/ तेषां षड् बन्धु।दायादाः षड् अदायाद।बान्धवाः ||  
   
-Manu9.159a/ aurasaḥ kṣetrajaś ca-eva dattaḥ kṛtrima eva ca |  
+मनु९।१५९अ/ औरसः क्षेत्रजश् च-एव दत्तः कृत्रिम एव च |  
   
-Manu9.159c/ gūḍha.utpanno 'apaviddhaś ca dāyādā bāndhavāś ca ṣaṭ ||  
+मनु९।१५९च्/ गूढ।उत्पन्नो ऽअपविद्धश् च दायादा बान्धवाश् च षट् ||  
   
-Manu9.160a/ kānīnaś ca sahoḍhaś ca krītaḥ paunarbhavas tathā |  
+मनु९।१६०अ/ कानीनश् च सहोढश् च क्रीतः पौनर्भवस् तथा |  
   
-Manu9.160c/ svayaṃdattaś ca śaudraś ca ṣaḍ adāyāda.bāndhavāḥ ||  
+मनु९।१६०च्/ स्वयंदत्तश् च शौद्रश् च षड् अदायाद।बान्धवाः ||  
   
-Manu9.161a/ yādṛśaṃ phalam āpnoti) kuplavaiḥ saṃtaran)- jalam |  
+मनु९।१६१अ/ यादृशं फलम् आप्नोति) कुप्लवैः संतरन्)- जलम् |  
   
-Manu9.161c/ tādṛśaṃ phalam āpnoti) kuputraiḥ saṃtaraṃs) tamaḥ ||  
+मनु९।१६१च्/ तादृशं फलम् आप्नोति) कुपुत्रैः संतरंस्) तमः ||  
   
-Manu9.162a/ yady ekarikthinau syātām) aurasa.kṣetrajau sutau |  
+मनु९।१६२अ/ यद्य् एकरिक्थिनौ स्याताम्) औरस।क्षेत्रजौ सुतौ |  
   
-Manu9.162c/ yasya yat paitṛkaṃ rikthaṃ sa tad gṛhṇīta) na-itaraḥ ||  
+मनु९।१६२च्/ यस्य यत् पैतृकं रिक्थं स तद् गृह्णीत) न-इतरः ||  
   
-Manu9.163a/ eka eva-aurasaḥ putraḥ pitryasya vasunaḥ prabhuḥ |  
+मनु९।१६३अ/ एक एव-औरसः पुत्रः पित्र्यस्य वसुनः प्रभुः |  
   
-Manu9.163c/ śeṣāṇām ānṛśaṃsyārthaṃ pradadyāt) tu prajīvanam ||  
+मनु९।१६३च्/ शेषाणाम् आनृशंस्यार्थं प्रदद्यात्) तु प्रजीवनम् ||  
   
-Manu9.164a/ ṣaṣṭhaṃ tu kṣetrajasya-aṃśaṃ pradadyāt) paitṛkād dhanāt |  
+मनु९।१६४अ/ षष्ठं तु क्षेत्रजस्य-अंशं प्रदद्यात्) पैतृकाद् धनात् |  
   
-Manu9.164c/ auraso vibhajan) dāyaṃ pitryaṃ pañcamam eva vā ||  
+मनु९।१६४च्/ औरसो विभजन्) दायं पित्र्यं पञ्चमम् एव वा ||  
   
-Manu9.165a/ aurasa.kṣetrajau putrau pitṛrikthasya bhāginau |  
+मनु९।१६५अ/ औरस।क्षेत्रजौ पुत्रौ पितृरिक्थस्य भागिनौ |  
   
-Manu9.165c/ daśa-apare tu kramaśo gotra.rikthāṃśabhāginaḥ ||  
+मनु९।१६५च्/ दश-अपरे तु क्रमशो गोत्र।रिक्थांशभागिनः ||  
   
-Manu9.166a/ svakṣetre saṃskṛtāyāṃ tu svayam utpādayedd) hi yam |  
+मनु९।१६६अ/ स्वक्षेत्रे संस्कृतायां तु स्वयम् उत्पादयेद्द्) हि यम् |  
   
-Manu9.166c/ tam aurasaṃ vijānīyāt) putraṃ prāthamakalpikam ||  
+मनु९।१६६च्/ तम् औरसं विजानीयात्) पुत्रं प्राथमकल्पिकम् ||  
   
-Manu9.167a/ yas talpajaḥ pramītasya klībasya vyādhitasya vā |  
+मनु९।१६७अ/ यस् तल्पजः प्रमीतस्य क्लीबस्य व्याधितस्य वा |  
   
-Manu9.167c/ svadharmeṇa niyuktāyāṃ sa putraḥ kṣetrajaḥ smṛtaḥ ||  
+मनु९।१६७च्/ स्वधर्मेण नियुक्तायां स पुत्रः क्षेत्रजः स्मृतः ||  
   
-Manu9.168a/ mātā pitā vā dadyātāṃ) yam adbhiḥ putram āpadi |  
+मनु९।१६८अ/ माता पिता वा दद्यातां) यम् अद्भिः पुत्रम् आपदि |  
   
-Manu9.168c/ sadṛśaṃ prītisaṃyuktaṃ sa jñeyo) dattrimaḥ sutaḥ ||  
+मनु९।१६८च्/ सदृशं प्रीतिसंयुक्तं स ज्ञेयो) दत्त्रिमः सुतः ||  
   
-Manu9.169a/ sadṛśaṃ tu prakuryād) yaṃ guṇa.doṣa.vicakṣaṇam |  
+मनु९।१६९अ/ सदृशं तु प्रकुर्याद्) यं गुण।दोष।विचक्षणम् |  
   
-Manu9.169c/ putraṃ putraguṇair yuktaṃ sa vijñeyaś) ca kṛtrimaḥ ||  
+मनु९।१६९च्/ पुत्रं पुत्रगुणैर् युक्तं स विज्ञेयश्) च कृत्रिमः ||  
   
-Manu9.170a/ utpadyate) gṛhe yas tu na ca jñāyeta) kasya saḥ |  
+मनु९।१७०अ/ उत्पद्यते) गृहे यस् तु न च ज्ञायेत) कस्य सः |  
   
-Manu9.170c/ sa gṛhe gūḍha utpannas tasya syād) yasya talpajaḥ ||  
+मनु९।१७०च्/ स गृहे गूढ उत्पन्नस् तस्य स्याद्) यस्य तल्पजः ||  
   
-Manu9.171a/ mātā.pitṛbhyām utsṛṣṭaṃ) tayor anyatareṇa vā |  
+मनु९।१७१अ/ माता।पितृभ्याम् उत्सृष्टं) तयोर् अन्यतरेण वा |  
   
-Manu9.171c/ yaṃ putraṃ parigṛhṇīyād) apaviddhaḥ sa ucyate) ||  
+मनु९।१७१च्/ यं पुत्रं परिगृह्णीयाद्) अपविद्धः स उच्यते) ||  
   
-Manu9.172a/ pitṛveśmani kanyā tu yaṃ putraṃ janayed) rahaḥ |  
+मनु९।१७२अ/ पितृवेश्मनि कन्या तु यं पुत्रं जनयेद्) रहः |  
   
-Manu9.172c/ taṃ kānīnaṃ vaden) nāmnā voḍhuḥ kanyā.samudbhavam ||  
+मनु९।१७२च्/ तं कानीनं वदेन्) नाम्ना वोढुः कन्या।समुद्भवम् ||  
   
-Manu9.173a/ yā garbhiṇī saṃskriyate) jñātā.ajñātā-api vā satī |  
+मनु९।१७३अ/ या गर्भिणी संस्क्रियते) ज्ञाता।अज्ञाता-अपि वा सती |  
   
-Manu9.173c/ voḍhuḥ sa garbho bhavati) sahoḍha iti ca-ucyate) ||  
+मनु९।१७३च्/ वोढुः स गर्भो भवति) सहोढ इति च-उच्यते) ||  
   
-Manu9.174a/ krīṇīyād) yas tv apatyārthaṃ mātā.pitror yam antikāt |  
+मनु९।१७४अ/ क्रीणीयाद्) यस् त्व् अपत्यार्थं माता।पित्रोर् यम् अन्तिकात् |  
   
-Manu9.174c/ sa krītakaḥ sutas tasya sadṛśo 'asadṛśo 'api vā ||  
+मनु९।१७४च्/ स क्रीतकः सुतस् तस्य सदृशो ऽअसदृशो ऽअपि वा ||  
   
-Manu9.175a/ yā patyā vā parityaktā vidhavā vā svayā-icchayā |  
+मनु९।१७५अ/ या पत्या वा परित्यक्ता विधवा वा स्वया-इच्छया |  
   
-Manu9.175c/ utpādayet) punar bhūtvā) sa paunarbhava ucyate) ||  
+मनु९।१७५च्/ उत्पादयेत्) पुनर् भूत्वा) स पौनर्भव उच्यते) ||  
   
-Manu9.176a/ sā ced akṣata.yoniḥ syād gata.pratyāgatā-api vā |  
+मनु९।१७६अ/ सा चेद् अक्षत।योनिः स्याद् गत।प्रत्यागता-अपि वा |  
   
-Manu9.176c/ paunarbhavena bhartrā sā punaḥ saṃskāram arhati) ||  
+मनु९।१७६च्/ पौनर्भवेन भर्त्रा सा पुनः संस्कारम् अर्हति) ||  
   
-Manu9.177a/ mātā.pitṛ.vihīno yas tyakto vā syād) akāraṇāt |  
+मनु९।१७७अ/ माता।पितृ।विहीनो यस् त्यक्तो वा स्याद्) अकारणात् |  
   
-Manu9.177c/ ātmānam arpayed) yasmai svayaṃdattas tu sa smṛtaḥ ||  
+मनु९।१७७च्/ आत्मानम् अर्पयेद्) यस्मै स्वयंदत्तस् तु स स्मृतः ||  
   
-Manu9.178a/ yaṃ brāhmaṇas tu śūdrāyāṃ kāmād utpādayet) sutam |  
+मनु९।१७८अ/ यं ब्राह्मणस् तु शूद्रायां कामाद् उत्पादयेत्) सुतम् |  
   
-Manu9.178c/ sa pārayann) eva śavas tasmāt pāraśavaḥ smṛtaḥ ||  
+मनु९।१७८च्/ स पारयन्न्) एव शवस् तस्मात् पारशवः स्मृतः ||  
   
-Manu9.179a/ dāsyāṃ vā dāsadāsyāṃ vā yaḥ śūdrasya suto bhavet) |  
+मनु९।१७९अ/ दास्यां वा दासदास्यां वा यः शूद्रस्य सुतो भवेत्) |  
   
-Manu9.179c/ so 'anujñāto hared) aṃśam iti dharmo vyavasthitaḥ ||  
+मनु९।१७९च्/ सो ऽअनुज्ञातो हरेद्) अंशम् इति धर्मो व्यवस्थितः ||  
   
-Manu9.180a/ kṣetraja.ādīn sutān etān ekādaśa yathā.uditān |  
+मनु९।१८०अ/ क्षेत्रज।आदीन् सुतान् एतान् एकादश यथा।उदितान् |  
   
-Manu9.180c/ putrapratinidhīn āhuḥ) kriyālopān manīṣiṇaḥ ||  
+मनु९।१८०च्/ पुत्रप्रतिनिधीन् आहुः) क्रियालोपान् मनीषिणः ||  
   
-Manu9.181a/ ya ete 'abhihitāḥ putrāḥ prasaṅgād anyabījajāḥ |  
+मनु९।१८१अ/ य एते ऽअभिहिताः पुत्राः प्रसङ्गाद् अन्यबीजजाः |  
   
-Manu9.181c/ yasya te bījato jātās) tasya te na-itarasya tu ||  
+मनु९।१८१च्/ यस्य ते बीजतो जातास्) तस्य ते न-इतरस्य तु ||  
   
-Manu9.182a/ bhrātqṇām ekajātānām ekaś cet putravān bhavet) |  
+मनु९।१८२अ/ भ्रात्क़्णाम् एकजातानाम् एकश् चेत् पुत्रवान् भवेत्) |  
   
-Manu9.182c/ sarvāṃs tāṃs tena putreṇa putriṇo manur abravīt) ||  
+मनु९।१८२च्/ सर्वांस् तांस् तेन पुत्रेण पुत्रिणो मनुर् अब्रवीत्) ||  
   
-Manu9.183a/ sarvāsām eka.patnīnām ekā cet putriṇī bhavet) |  
+मनु९।१८३अ/ सर्वासाम् एक।पत्नीनाम् एका चेत् पुत्रिणी भवेत्) |  
   
-Manu9.183c/ sarvās tās tena putreṇa prāha) putravatīr manuḥ ||  
+मनु९।१८३च्/ सर्वास् तास् तेन पुत्रेण प्राह) पुत्रवतीर् मनुः ||  
   
-Manu9.184a/ śreyasaḥ śreyaso 'alābhe pāpīyān riktham arhati) |  
+मनु९।१८४अ/ श्रेयसः श्रेयसो ऽअलाभे पापीयान् रिक्थम् अर्हति) |  
   
-Manu9.184c/ bahavaś cet tu sadṛśāḥ sarve rikthasya bhāginaḥ |  
+मनु९।१८४च्/ बहवश् चेत् तु सदृशाः सर्वे रिक्थस्य भागिनः |  
   
-Manu9.185a/ na bhrātaro na pitaraḥ putrā rikthaharāḥ pituḥ ||   
+मनु९।१८५अ/ न भ्रातरो न पितरः पुत्रा रिक्थहराः पितुः ||   
   
-Manu9.185c/ pitā hared a.putrasya rikthaṃ bhrātara eva ca |  
+मनु९।१८५च्/ पिता हरेद् अ।पुत्रस्य रिक्थं भ्रातर एव च |  
   
-Manu9.186a/ trayāṇām udakaṃ kāryaṃ triṣu piṇḍaḥ pravartate) |  
+मनु९।१८६अ/ त्रयाणाम् उदकं कार्यं त्रिषु पिण्डः प्रवर्तते) |  
   
-Manu9.186c/ caturthaḥ saṃpradātā-eṣāṃ pañcamo na-upapadyate) |  
+मनु९।१८६च्/ चतुर्थः संप्रदाता-एषां पञ्चमो न-उपपद्यते) |  
   
   
   
-Manu9.187a/ anantaraḥ sapiṇḍād yas tasya tasya dhanaṃ bhavet) |  
+मनु९।१८७अ/ अनन्तरः सपिण्डाद् यस् तस्य तस्य धनं भवेत्) |  
   
-Manu9.187c/ ata ūrdhvaṃ sakulyaḥ syād) ācāryaḥ śiṣya eva vā ||  
+मनु९।१८७च्/ अत ऊर्ध्वं सकुल्यः स्याद्) आचार्यः शिष्य एव वा ||  
   
-Manu9.188a/ sarveṣām apy abhāve tu brāhmaṇā rikthabhāginaḥ |  
+मनु९।१८८अ/ सर्वेषाम् अप्य् अभावे तु ब्राह्मणा रिक्थभागिनः |  
   
-Manu9.188c/ traividyāḥ śucayo dāntās tathā dharmo na hīyate) ||  
+मनु९।१८८च्/ त्रैविद्याः शुचयो दान्तास् तथा धर्मो न हीयते) ||  
   
-Manu9.189a/ a.hāryaṃ brāhmaṇadravyaṃ rājñā nityam iti sthitiḥ |  
+मनु९।१८९अ/ अ।हार्यं ब्राह्मणद्रव्यं राज्ञा नित्यम् इति स्थितिः |  
   
-Manu9.189c/ itareṣāṃ tu varṇānāṃ sarva.abhāve haren) nṛpaḥ ||  
+मनु९।१८९च्/ इतरेषां तु वर्णानां सर्व।अभावे हरेन्) नृपः ||  
   
-Manu9.190a/ saṃsthitasya-an.apatyasya sagotrāt putram āharet) ||  
+मनु९।१९०अ/ संस्थितस्य-अन्।अपत्यस्य सगोत्रात् पुत्रम् आहरेत्) ||  
   
-Manu9.190c/ tatra yad rikthajātaṃ syāt) tat tasmin pratipādayet) |  
+मनु९।१९०च्/ तत्र यद् रिक्थजातं स्यात्) तत् तस्मिन् प्रतिपादयेत्) |  
   
   
   
-Manu9.191a/ dvau tu yau vivadeyātāṃ) dvābhyāṃ jātau striyā dhane |  
+मनु९।१९१अ/ द्वौ तु यौ विवदेयातां) द्वाभ्यां जातौ स्त्रिया धने |  
   
-Manu9.191c/ tayor yad yasya pitryaṃ syāt) tat sa gṛhṇīta) na-itaraḥ ||  
+मनु९।१९१च्/ तयोर् यद् यस्य पित्र्यं स्यात्) तत् स गृह्णीत) न-इतरः ||  
   
-Manu9.192a/ jananyāṃ saṃsthitāyāṃ tu samaṃ sarve saha.udarāḥ |  
+मनु९।१९२अ/ जनन्यां संस्थितायां तु समं सर्वे सह।उदराः |  
   
-Manu9.192c/ bhajeran) mātṛkaṃ rikthaṃ bhaginyaś ca sa.nābhayaḥ ||  
+मनु९।१९२च्/ भजेरन्) मातृकं रिक्थं भगिन्यश् च स।नाभयः ||  
   
-Manu9.193a/ yās tāsāṃ syur) duhitaras tāsām api yathārhataḥ |[ḥ.tasyāṃ]  
+मनु९।१९३अ/ यास् तासां स्युर्) दुहितरस् तासाम् अपि यथार्हतः |[ः।तस्यां]  
   
-Manu9.193c/ mātāmahyā dhanāt kiṃ cit pradeyaṃ prītipūrvakam ||  
+मनु९।१९३च्/ मातामह्या धनात् किं चित् प्रदेयं प्रीतिपूर्वकम् ||  
   
-Manu9.194a/ adhyagni.adhyāvāhanikaṃ dattaṃ ca prītikarmaṇi |  
+मनु९।१९४अ/ अध्यग्नि।अध्यावाहनिकं दत्तं च प्रीतिकर्मणि |  
   
-Manu9.194c/ bhrātṛ.mātṛ.pitṛprāptaṃ ṣaḍvidhaṃ strīdhanaṃ smṛtam ||  
+मनु९।१९४च्/ भ्रातृ।मातृ।पितृप्राप्तं षड्विधं स्त्रीधनं स्मृतम् ||  
   
-Manu9.195a/ anvādheyaṃ ca yad dattaṃ patyā prītena ca-eva yat |  
+मनु९।१९५अ/ अन्वाधेयं च यद् दत्तं पत्या प्रीतेन च-एव यत् |  
   
-Manu9.195c/ patyau jīvati vṛttāyāḥ prajāyās tad dhanaṃ bhavet) ||  
+मनु९।१९५च्/ पत्यौ जीवति वृत्तायाः प्रजायास् तद् धनं भवेत्) ||  
   
-Manu9.196a/ brāhma.daiva.ārṣa.gāndharva.prājāpatyeṣu yad vasu |  
+मनु९।१९६अ/ ब्राह्म।दैव।आर्ष।गान्धर्व।प्राजापत्येषु यद् वसु |  
   
-Manu9.196c/ a.prajāyām atītāyāṃ bhartur eva tad iṣyate) ||  
+मनु९।१९६च्/ अ।प्रजायाम् अतीतायां भर्तुर् एव तद् इष्यते) ||  
   
-Manu9.197a/ yat tv asyāḥ syād) dhanaṃ dattaṃ vivāheṣv āsura.ādiṣu |  
+मनु९।१९७अ/ यत् त्व् अस्याः स्याद्) धनं दत्तं विवाहेष्व् आसुर।आदिषु |  
   
-Manu9.197c/ a.prajāyām atītāyāṃ mātā.pitros tad iṣyate) ||  
+मनु९।१९७च्/ अ।प्रजायाम् अतीतायां माता।पित्रोस् तद् इष्यते) ||  
   
-Manu9.198a/ striyāṃ tu yad bhaved) vittaṃ pitrā dattaṃ kathaṃ cana |  
+मनु९।१९८अ/ स्त्रियां तु यद् भवेद्) वित्तं पित्रा दत्तं कथं चन |  
   
-Manu9.198c/ brāhmaṇī tadd haret) kanyā tadapatyasya vā bhavet) ||  
+मनु९।१९८च्/ ब्राह्मणी तद्द् हरेत्) कन्या तदपत्यस्य वा भवेत्) ||  
   
-Manu9.199a/ na nirhāraṃ striyaḥ kuryuḥ) kuṭumbād bahumadhyagāt | x  
+मनु९।१९९अ/ न निर्हारं स्त्रियः कुर्युः) कुटुम्बाद् बहुमध्यगात् | x  
   
-Manu9.199c/ svakād api ca vittādd hi svasya bhartur anājñayā ||  
+मनु९।१९९च्/ स्वकाद् अपि च वित्ताद्द् हि स्वस्य भर्तुर् अनाज्ञया ||  
   
-Manu9.200a/ patyau jīvati yaḥ strībhir alaṅkāro dhṛto bhavet) |  
+मनु९।२००अ/ पत्यौ जीवति यः स्त्रीभिर् अलङ्कारो धृतो भवेत्) |  
   
-Manu9.200c/ na taṃ bhajeran) dāyādā bhajamānāḥ) patanti) te ||  
+मनु९।२००च्/ न तं भजेरन्) दायादा भजमानाः) पतन्ति) ते ||  
   
-Manu9.201a/ an.aṃśau klība.patitau jātyandha.badhirau tathā |  
+मनु९।२०१अ/ अन्।अंशौ क्लीब।पतितौ जात्यन्ध।बधिरौ तथा |  
   
-Manu9.201c/ unmatta.jaḍa.mūkāś ca ye ca ke cin nir.indriyāḥ ||  
+मनु९।२०१च्/ उन्मत्त।जड।मूकाश् च ये च के चिन् निर्।इन्द्रियाः ||  
   
-Manu9.202a/ sarveṣām api tu nyāyyaṃ dātuṃ śaktyā manīṣiṇā |  
+मनु९।२०२अ/ सर्वेषाम् अपि तु न्याय्यं दातुं शक्त्या मनीषिणा |  
   
-Manu9.202c/ grāsa.ācchādanam atyantaṃ patito hy a.dadad bhavet) ||  
+मनु९।२०२च्/ ग्रास।आच्छादनम् अत्यन्तं पतितो ह्य् अ।ददद् भवेत्) ||  
   
-Manu9.203a/ yady arthitā tu dāraiḥ syāt) klībādīnāṃ kathaṃ cana |  
+मनु९।२०३अ/ यद्य् अर्थिता तु दारैः स्यात्) क्लीबादीनां कथं चन |  
   
-Manu9.203c/ teṣām utpanna.tantūnām apatyaṃ dāyam arhati) ||  
+मनु९।२०३च्/ तेषाम् उत्पन्न।तन्तूनाम् अपत्यं दायम् अर्हति) ||  
   
-Manu9.204a/ yat kiṃ cit pitari prete dhanaṃ jyeṣṭho 'adhigacchati) |  
+मनु९।२०४अ/ यत् किं चित् पितरि प्रेते धनं ज्येष्ठो ऽअधिगच्छति) |  
   
-Manu9.204c/ bhāgo yavīyasāṃ tatra yadi vidyānupālinaḥ ||  
+मनु९।२०४च्/ भागो यवीयसां तत्र यदि विद्यानुपालिनः ||  
   
-Manu9.205a/ a.vidyānāṃ tu sarveṣāṃ īhātaś ced dhanaṃ bhavet) |  
+मनु९।२०५अ/ अ।विद्यानां तु सर्वेषां ईहातश् चेद् धनं भवेत्) |  
   
-Manu9.205c/ samas tatra vibhāgaḥ syād) apitrya iti dhāraṇā ||  
+मनु९।२०५च्/ समस् तत्र विभागः स्याद्) अपित्र्य इति धारणा ||  
   
-Manu9.206a/ vidyādhanaṃ tu yady asya tat tasya-eva dhanaṃ bhavet) |  
+मनु९।२०६अ/ विद्याधनं तु यद्य् अस्य तत् तस्य-एव धनं भवेत्) |  
   
-Manu9.206c/ maitryam audvāhikaṃ ca-eva mādhuparkikam eva ca ||  
+मनु९।२०६च्/ मैत्र्यम् औद्वाहिकं च-एव माधुपर्किकम् एव च ||  
   
-Manu9.207a/ bhrātqṇāṃ yas tu na-īheta) dhanaṃ śaktaḥ svakarmaṇā |  
+मनु९।२०७अ/ भ्रात्क़्णां यस् तु न-ईहेत) धनं शक्तः स्वकर्मणा |  
   
-Manu9.207c/ sa nirbhājyaḥ) svakād aṃśāt kiṃ cid dattvā-upajīvanam ||  
+मनु९।२०७च्/ स निर्भाज्यः) स्वकाद् अंशात् किं चिद् दत्त्वा-उपजीवनम् ||  
   
-Manu9.208a/ an.upaghnan) pitṛdravyaṃ śrameṇa yad upārjitam |  
-Manu9.208c/ svayam īhitalabdhaṃ tan na-a.kāmo dātum arhati) ||  
+मनु९।२०८अ/ अन्।उपघ्नन्) पितृद्रव्यं श्रमेण यद् उपार्जितम् |  
+मनु९।२०८च्/ स्वयम् ईहितलब्धं तन् न-अ।कामो दातुम् अर्हति) ||  
   
-Manu9.209a/ paitṛkaṃ tu pitā dravyam anavāptaṃ yad āpnuyāt) |  
+मनु९।२०९अ/ पैतृकं तु पिता द्रव्यम् अनवाप्तं यद् आप्नुयात्) |  
   
-Manu9.209c/ na tat putrair bhajet) sārdham a.kāmaḥ svayam arjitam ||  
+मनु९।२०९च्/ न तत् पुत्रैर् भजेत्) सार्धम् अ।कामः स्वयम् अर्जितम् ||  
   
-Manu9.210a/ vibhaktāḥ saha jīvanto vibhajeran) punar yadi |  
+मनु९।२१०अ/ विभक्ताः सह जीवन्तो विभजेरन्) पुनर् यदि |  
   
-Manu9.210c/ samas tatra vibhāgaḥ syāj) jyaiṣṭhyaṃ tatra na vidyate) ||  
+मनु९।२१०च्/ समस् तत्र विभागः स्याज्) ज्यैष्ठ्यं तत्र न विद्यते) ||  
   
-Manu9.211a/ yeṣāṃ jyeṣṭhaḥ kaniṣṭho vā hīyeta)-aṃśapradānataḥ |  
+मनु९।२११अ/ येषां ज्येष्ठः कनिष्ठो वा हीयेत)-अंशप्रदानतः |  
   
-Manu9.211c/ mriyeta)-anyataro vā-api tasya bhāgo na lupyate) ||  
+मनु९।२११च्/ म्रियेत)-अन्यतरो वा-अपि तस्य भागो न लुप्यते) ||  
   
-Manu9.212a/ sodaryā vibhajeraṃs) taṃ sametya) sahitāḥ samam |  
+मनु९।२१२अ/ सोदर्या विभजेरंस्) तं समेत्य) सहिताः समम् |  
   
-Manu9.212c/ bhrātaro ye ca saṃsṛṣṭā) bhāginyaś ca sa.nābhayaḥ ||  
+मनु९।२१२च्/ भ्रातरो ये च संसृष्टा) भागिन्यश् च स।नाभयः ||  
   
-Manu9.213a/ yo jyeṣṭho vinikurvīta) lobhād bhrātqn yavīyasaḥ |  
+मनु९।२१३अ/ यो ज्येष्ठो विनिकुर्वीत) लोभाद् भ्रात्क़्न् यवीयसः |  
   
-Manu9.213c/ so 'ajyeṣṭhaḥ syād) a.bhāgaś ca niyantavyaś) ca rājabhiḥ ||  
+मनु९।२१३च्/ सो ऽअज्येष्ठः स्याद्) अ।भागश् च नियन्तव्यश्) च राजभिः ||  
   
-Manu9.214a/ sarva eva vikarmasthā na-arhanti) bhrātaro dhanam |  
+मनु९।२१४अ/ सर्व एव विकर्मस्था न-अर्हन्ति) भ्रातरो धनम् |  
   
-Manu9.214c/ na ca-a.dattvā) kaniṣṭhebhyo jyeṣṭhaḥ kurvīta) yautakam ||  
+मनु९।२१४च्/ न च-अ।दत्त्वा) कनिष्ठेभ्यो ज्येष्ठः कुर्वीत) यौतकम् ||  
   
-Manu9.215a/ bhrātqṇām a.vibhaktānāṃ yady utthānaṃ bhavet) saha |  
+मनु९।२१५अ/ भ्रात्क़्णाम् अ।विभक्तानां यद्य् उत्थानं भवेत्) सह |  
   
-Manu9.215c/ na putrabhāgaṃ viṣamaṃ pitā dadyāt) kathaṃ cana ||  
+मनु९।२१५च्/ न पुत्रभागं विषमं पिता दद्यात्) कथं चन ||  
   
-Manu9.216a/ ūrdhvaṃ vibhāgāt-jātas) tu pitryam eva hared) dhanam |  
+मनु९।२१६अ/ ऊर्ध्वं विभागात्-जातस्) तु पित्र्यम् एव हरेद्) धनम् |  
   
-Manu9.216c/ saṃsṛṣṭās tena vā ye syur) vibhajeta) sa taiḥ saha ||  
+मनु९।२१६च्/ संसृष्टास् तेन वा ये स्युर्) विभजेत) स तैः सह ||  
   
-Manu9.217a/ an.apatyasya putrasya mātā dāyam avāpnuyāt) |  
+मनु९।२१७अ/ अन्।अपत्यस्य पुत्रस्य माता दायम् अवाप्नुयात्) |  
   
-Manu9.217c/ mātary api ca vṛttāyāṃ pitur mātā hared) dhanam ||  
+मनु९।२१७च्/ मातर्य् अपि च वृत्तायां पितुर् माता हरेद्) धनम् ||  
   
-Manu9.218a/ ṛṇe dhane ca sarvasmin pravibhakte yathāvidhi |  
+मनु९।२१८अ/ ऋणे धने च सर्वस्मिन् प्रविभक्ते यथाविधि |  
   
-Manu9.218c/ paścād dṛśyeta) yat kiṃ cit tat sarvaṃ samatāṃ nayet) ||  
+मनु९।२१८च्/ पश्चाद् दृश्येत) यत् किं चित् तत् सर्वं समतां नयेत्) ||  
   
-Manu9.219a/ vastraṃ patram alaṅkāraṃ kṛtānnam udakaṃ striyaḥ |  
+मनु९।२१९अ/ वस्त्रं पत्रम् अलङ्कारं कृतान्नम् उदकं स्त्रियः |  
   
-Manu9.219c/ yogakṣemaṃ pracāraṃ ca na vibhājyaṃ pracakṣate) ||  
+मनु९।२१९च्/ योगक्षेमं प्रचारं च न विभाज्यं प्रचक्षते) ||  
   
-Manu9.220a/ ayam ukto vibhāgo vaḥ putrāṇāṃ ca kriyāvidhiḥ |  
+मनु९।२२०अ/ अयम् उक्तो विभागो वः पुत्राणां च क्रियाविधिः |  
   
-Manu9.220c/ kramaśaḥ kṣetrajādīnāṃ dyūtadharmaṃ nibodhata) ||  
+मनु९।२२०च्/ क्रमशः क्षेत्रजादीनां द्यूतधर्मं निबोधत) ||  
   
   
   
-Manu9.221a/ dyūtaṃ samāhvayaṃ ca-eva rājā rāṣṭrāt-nivārayet) |  
+मनु९।२२१अ/ द्यूतं समाह्वयं च-एव राजा राष्ट्रात्-निवारयेत्) |  
   
-Manu9.221c/ rājāntakaraṇāv etau dvau doṣau pṛthivīkṣitām ||  
+मनु९।२२१च्/ राजान्तकरणाव् एतौ द्वौ दोषौ पृथिवीक्षिताम् ||  
   
-Manu9.222a/ prakāśam etat tāskaryaṃ yad devana.samāhvayau |  
+मनु९।२२२अ/ प्रकाशम् एतत् तास्कर्यं यद् देवन।समाह्वयौ |  
   
-Manu9.222c/ tayor nityaṃ pratīghāte nṛpatir yatnavān bhavet) ||  
+मनु९।२२२च्/ तयोर् नित्यं प्रतीघाते नृपतिर् यत्नवान् भवेत्) ||  
   
-Manu9.223a/ aprāṇibhir yat kriyate) tat-loke dyūtam ucyate) |  
+मनु९।२२३अ/ अप्राणिभिर् यत् क्रियते) तत्-लोके द्यूतम् उच्यते) |  
   
-Manu9.223c/ prāṇibhiḥ kriyate) yas tu sa vijñeyaḥ) samāhvayaḥ ||  
+मनु९।२२३च्/ प्राणिभिः क्रियते) यस् तु स विज्ञेयः) समाह्वयः ||  
   
-Manu9.224a/ dyūtaṃ samāhvayaṃ ca-eva yaḥ kuryāt) kārayeta) vā |  
+मनु९।२२४अ/ द्यूतं समाह्वयं च-एव यः कुर्यात्) कारयेत) वा |  
   
-Manu9.224c/ tān sarvān ghātayed) rājā śūdrāṃś ca dvijaliṅginaḥ ||  
+मनु९।२२४च्/ तान् सर्वान् घातयेद्) राजा शूद्रांश् च द्विजलिङ्गिनः ||  
   
-Manu9.225a/ kitavān kuśīlavān krūrān pāṣaṇḍasthāṃś ca mānavān |  
+मनु९।२२५अ/ कितवान् कुशीलवान् क्रूरान् पाषण्डस्थांश् च मानवान् |  
   
-Manu9.225c/ vikarmasthān śauṇḍikāṃś ca kṣipraṃ nirvāsayet) purāt ||  
+मनु९।२२५च्/ विकर्मस्थान् शौण्डिकांश् च क्षिप्रं निर्वासयेत्) पुरात् ||  
   
-Manu9.226a/ ete rāṣṭre vartamānā) rājñaḥ prachannataskarāḥ |  
+मनु९।२२६अ/ एते राष्ट्रे वर्तमाना) राज्ञः प्रछन्नतस्कराः |  
   
-Manu9.226c/ vikarmakriyayā nityaṃ bādhante) bhadrikāḥ prajāḥ ||  
+मनु९।२२६च्/ विकर्मक्रियया नित्यं बाधन्ते) भद्रिकाः प्रजाः ||  
   
-Manu9.227a/ dyūtam etat purā kalpe dṛṣṭaṃ vairakaraṃ mahat |  
+मनु९।२२७अ/ द्यूतम् एतत् पुरा कल्पे दृष्टं वैरकरं महत् |  
   
-Manu9.227c/ tasmād dyūtaṃ na seveta) hāsyārtham api buddhimān ||   
+मनु९।२२७च्/ तस्माद् द्यूतं न सेवेत) हास्यार्थम् अपि बुद्धिमान् ||   
   
-Manu9.228a/ pracchannaṃ vā prakāśaṃ vā tat-niṣeveta) yo naraḥ |  
+मनु९।२२८अ/ प्रच्छन्नं वा प्रकाशं वा तत्-निषेवेत) यो नरः |  
   
-Manu9.228c/ tasya daṇḍavikalpaḥ syād) yathā.iṣṭaṃ nṛpates tathā ||  
+मनु९।२२८च्/ तस्य दण्डविकल्पः स्याद्) यथा।इष्टं नृपतेस् तथा ||  
   
   
   
-Manu9.229a/ kṣatra.viś.śūdrayonis tu daṇḍaṃ dātum aśaknuvan |  
+मनु९।२२९अ/ क्षत्र।विश्।शूद्रयोनिस् तु दण्डं दातुम् अशक्नुवन् |  
   
-Manu9.229c/ ānṛṇyaṃ karmaṇā gacched) vipro dadyāt)-śanaiḥ śanaiḥ ||  
+मनु९।२२९च्/ आनृण्यं कर्मणा गच्छेद्) विप्रो दद्यात्)-शनैः शनैः ||  
   
-Manu9.230a/ strī.bāla.unmatta.vṛddhānāṃ daridrāṇāṃ ca rogiṇām |  
+मनु९।२३०अ/ स्त्री।बाल।उन्मत्त।वृद्धानां दरिद्राणां च रोगिणाम् |  
   
-Manu9.230c/ śiphā.vidala.rajju.ādyair vidadhyāt)-nṛpatir damam ||  
+मनु९।२३०च्/ शिफा।विदल।रज्जु।आद्यैर् विदध्यात्)-नृपतिर् दमम् ||  
   
-Manu9.231a/ ye niyuktās) tu kāryeṣu hanyuḥ) kāryāṇi kāryiṇām |  
+मनु९।२३१अ/ ये नियुक्तास्) तु कार्येषु हन्युः) कार्याणि कार्यिणाम् |  
   
-Manu9.231c/ dhana.uṣmaṇā pacyamānās) tān niḥ.svān kārayen) nṛpaḥ ||  
+मनु९।२३१च्/ धन।उष्मणा पच्यमानास्) तान् निः।स्वान् कारयेन्) नृपः ||  
   
-Manu9.232a/ kūṭaśāsanakartqṃś ca prakṛtīnāṃ ca dūṣakān |  
+मनु९।२३२अ/ कूटशासनकर्त्क़्ंश् च प्रकृतीनां च दूषकान् |  
   
-Manu9.232c/ strī.bāla.brāhmaṇaghnāṃś ca hanyād) dviṣ.sevinas tathā ||  
+मनु९।२३२च्/ स्त्री।बाल।ब्राह्मणघ्नांश् च हन्याद्) द्विष्।सेविनस् तथा ||  
   
-Manu9.233a/ tīritaṃ ca-anuśiṣṭaṃ ca yatra kva cana yad bhavet) |  
+मनु९।२३३अ/ तीरितं च-अनुशिष्टं च यत्र क्व चन यद् भवेत्) |  
   
-Manu9.233c/ kṛtaṃ tad dharmato vidyāt)-na tad bhūyo nivartayet) ||  
+मनु९।२३३च्/ कृतं तद् धर्मतो विद्यात्)-न तद् भूयो निवर्तयेत्) ||  
   
-Manu9.234a/ amātyāḥ prāḍvivāko vā yat kuryuḥ) kāryam anyathā |  
+मनु९।२३४अ/ अमात्याः प्राड्विवाको वा यत् कुर्युः) कार्यम् अन्यथा |  
   
-Manu9.234c/ tat svayaṃ nṛpatiḥ kuryāt) tān sahasraṃ ca daṇḍayet) || [M.taṃ ]  
+मनु९।२३४च्/ तत् स्वयं नृपतिः कुर्यात्) तान् सहस्रं च दण्डयेत्) || [म्।तं ]  
   
-Manu9.235a/ brahmahā ca surāpaś ca steyī ca gurutalpagaḥ | [M.taskaro gurutalpagaḥ ]  
+मनु९।२३५अ/ ब्रह्महा च सुरापश् च स्तेयी च गुरुतल्पगः | [म्।तस्करो गुरुतल्पगः ]  
   
-Manu9.235c/ ete sarve pṛthag jñeyā) mahāpātakino narāḥ ||  
+मनु९।२३५च्/ एते सर्वे पृथग् ज्ञेया) महापातकिनो नराः ||  
   
-Manu9.236a/ caturṇām api ca-eteṣāṃ prāyaścittam a.kurvatām |  
+मनु९।२३६अ/ चतुर्णाम् अपि च-एतेषां प्रायश्चित्तम् अ।कुर्वताम् |  
   
-Manu9.236c/ śārīraṃ dhanasaṃyuktaṃ daṇḍaṃ dharmyaṃ prakalpayet) ||  
+मनु९।२३६च्/ शारीरं धनसंयुक्तं दण्डं धर्म्यं प्रकल्पयेत्) ||  
   
-Manu9.237a/ gurutalpe bhagaḥ kāryaḥ) surāpāne surādhvajaḥ |  
+मनु९।२३७अ/ गुरुतल्पे भगः कार्यः) सुरापाने सुराध्वजः |  
   
-Manu9.237c/ steye ca śvapadaṃ kāryaṃ brahmahaṇy a.śirāḥ pumān || [M.taskare śvapadaṃ kāryaṃ ]  
+मनु९।२३७च्/ स्तेये च श्वपदं कार्यं ब्रह्महण्य् अ।शिराः पुमान् || [म्।तस्करे श्वपदं कार्यं ]  
   
-Manu9.238a/ a.saṃbhojyā hy a.saṃyājyā a.saṃpāṭhyā 'a.vivāhinaḥ |  
+मनु९।२३८अ/ अ।संभोज्या ह्य् अ।संयाज्या अ।संपाठ्या ऽअ।विवाहिनः |  
   
-Manu9.238c/ careyuḥ) pṛthivīṃ dīnāḥ sarvadharmabahiṣkṛtāḥ ||  
+मनु९।२३८च्/ चरेयुः) पृथिवीं दीनाः सर्वधर्मबहिष्कृताः ||  
   
-Manu9.239a/ jñāti.saṃbandhibhis tv ete tyaktavyāḥ) kṛta.lakṣaṇāḥ |  
+मनु९।२३९अ/ ज्ञाति।संबन्धिभिस् त्व् एते त्यक्तव्याः) कृत।लक्षणाः |  
   
-Manu9.239c/ nir.dayā nir.namaskārās tan manor anuśāsanam ||  
+मनु९।२३९च्/ निर्।दया निर्।नमस्कारास् तन् मनोर् अनुशासनम् ||  
   
-Manu9.240a/ prāyaścittaṃ tu kurvāṇāḥ) sarvavarṇā yathoditam | [M.pūrve varṇā yathā.uditam]  
+मनु९।२४०अ/ प्रायश्चित्तं तु कुर्वाणाः) सर्ववर्णा यथोदितम् | [म्।पूर्वे वर्णा यथा।उदितम्]  
   
-Manu9.240c/ na-aṅkyā rājñā lalāṭe syur) dāpyās) tu-uttamasāhasam ||  
+मनु९।२४०च्/ न-अङ्क्या राज्ञा ललाटे स्युर्) दाप्यास्) तु-उत्तमसाहसम् ||  
   
-Manu9.241a/ āgaḥsu brāhmaṇasya-eva kāryo madhyamasāhasaḥ |  
+मनु९।२४१अ/ आगःसु ब्राह्मणस्य-एव कार्यो मध्यमसाहसः |  
   
-Manu9.241c/ vivāsyo vā bhaved) rāṣṭrāt sa.dravyaḥ sa.paricchadaḥ ||  
+मनु९।२४१च्/ विवास्यो वा भवेद्) राष्ट्रात् स।द्रव्यः स।परिच्छदः ||  
   
-Manu9.242a/ itare kṛtavantas) tu pāpāny etāny akāmataḥ |  
+मनु९।२४२अ/ इतरे कृतवन्तस्) तु पापान्य् एतान्य् अकामतः |  
   
-Manu9.242c/ sarvasvahāram arhanti) kāmatas tu pravāsanam ||  
+मनु९।२४२च्/ सर्वस्वहारम् अर्हन्ति) कामतस् तु प्रवासनम् ||  
   
   
   
-Manu9.243a/ na-ādadīta) nṛpaḥ sādhur mahāpātakino dhanam |  
+मनु९।२४३अ/ न-आददीत) नृपः साधुर् महापातकिनो धनम् |  
   
-Manu9.243c/ ādadānas) tu tat-lobhāt tena doṣeṇa lipyate) ||  
+मनु९।२४३च्/ आददानस्) तु तत्-लोभात् तेन दोषेण लिप्यते) ||  
   
-Manu9.244a/ apsu praveśya) taṃ daṇḍaṃ varuṇāya-upapādayet) |  
+मनु९।२४४अ/ अप्सु प्रवेश्य) तं दण्डं वरुणाय-उपपादयेत्) |  
   
-Manu9.244c/ śruta.vṛtta.upapanne vā brāhmaṇe pratipādayet) ||  
+मनु९।२४४च्/ श्रुत।वृत्त।उपपन्ने वा ब्राह्मणे प्रतिपादयेत्) ||  
   
-Manu9.245a/ īśo daṇḍasya varuṇo rājñāṃ daṇḍadharo hi saḥ |  
+मनु९।२४५अ/ ईशो दण्डस्य वरुणो राज्ञां दण्डधरो हि सः |  
   
-Manu9.245c/ īśaḥ sarvasya jagato brāhmaṇo vedapāragaḥ ||  
+मनु९।२४५च्/ ईशः सर्वस्य जगतो ब्राह्मणो वेदपारगः ||  
   
-Manu9.246a/ yatra varjayate) rājā pāpakṛdbhyo dhanāgamam |  
+मनु९।२४६अ/ यत्र वर्जयते) राजा पापकृद्भ्यो धनागमम् |  
   
-Manu9.246c/ tatra kālena jāyante) mānavā dīrghajīvinaḥ ||  
+मनु९।२४६च्/ तत्र कालेन जायन्ते) मानवा दीर्घजीविनः ||  
   
-Manu9.247a/ niṣpadyante) ca sasyāni yathā.uptāni viśāṃ pṛthak |  
+मनु९।२४७अ/ निष्पद्यन्ते) च सस्यानि यथा।उप्तानि विशां पृथक् |  
   
-Manu9.247c/ bālāś ca na pramīyante) vikṛtaṃ ca na jāyate) ||  
+मनु९।२४७च्/ बालाश् च न प्रमीयन्ते) विकृतं च न जायते) ||  
   
-Manu9.248a/ brāhmaṇān bādhamānaṃ) tu kāmād avaravarṇajam |  
+मनु९।२४८अ/ ब्राह्मणान् बाधमानं) तु कामाद् अवरवर्णजम् |  
   
-Manu9.248c/ hanyāc) citrair vadha.upāyair udvejanakarair nṛpaḥ ||  
+मनु९।२४८च्/ हन्याच्) चित्रैर् वध।उपायैर् उद्वेजनकरैर् नृपः ||  
   
-Manu9.249a/ yāvān a.vadhyasya vadhe tāvān vadhyasya mokṣaṇe |  
+मनु९।२४९अ/ यावान् अ।वध्यस्य वधे तावान् वध्यस्य मोक्षणे |  
   
-Manu9.249c/ adharmo nṛpater dṛṣṭo dharmas tu viniyacchataḥ) ||  
+मनु९।२४९च्/ अधर्मो नृपतेर् दृष्टो धर्मस् तु विनियच्छतः) ||  
   
-Manu9.250a/ udito 'ayaṃ vistaraśo mitho vivādamānayoḥ) |  
+मनु९।२५०अ/ उदितो ऽअयं विस्तरशो मिथो विवादमानयोः) |  
   
-Manu9.250c/ aṣṭādaśasu mārgeṣu vyavahārasya nirṇayaḥ ||  
+मनु९।२५०च्/ अष्टादशसु मार्गेषु व्यवहारस्य निर्णयः ||  
   
   
   
-Manu9.251a/ evaṃ dharmyāṇi kāryāṇi samyak kurvan) mahīpatiḥ |  
+मनु९।२५१अ/ एवं धर्म्याणि कार्याणि सम्यक् कुर्वन्) महीपतिः |  
   
-Manu9.251c/ deśān alabdhān-lipseta) labdhāṃś ca paripālayet) ||  
+मनु९।२५१च्/ देशान् अलब्धान्-लिप्सेत) लब्धांश् च परिपालयेत्) ||  
   
-Manu9.252a/ samyak.niviṣṭa.deśas tu kṛta.durgaś ca śāstrataḥ |  
+मनु९।२५२अ/ सम्यक्।निविष्ट।देशस् तु कृत।दुर्गश् च शास्त्रतः |  
   
-Manu9.252c/ kaṇṭaka.uddharaṇe nityam ātiṣṭhed) yatnam uttamam ||  
+मनु९।२५२च्/ कण्टक।उद्धरणे नित्यम् आतिष्ठेद्) यत्नम् उत्तमम् ||  
   
-Manu9.253a/ rakṣanād āryavṛttānāṃ kaṇṭakānāṃ ca śodhanāt |  
+मनु९।२५३अ/ रक्षनाद् आर्यवृत्तानां कण्टकानां च शोधनात् |  
   
-Manu9.253c/ narendrās tridivaṃ yānti) prajāpālana.tatparāḥ ||  
+मनु९।२५३च्/ नरेन्द्रास् त्रिदिवं यान्ति) प्रजापालन।तत्पराः ||  
   
-Manu9.254a/ a.śāsaṃs) taskarān yas tu baliṃ gṛhṇāti) pārthivaḥ |  
+मनु९।२५४अ/ अ।शासंस्) तस्करान् यस् तु बलिं गृह्णाति) पार्थिवः |  
   
-Manu9.254c/ tasya prakṣubhyate) rāṣṭraṃ svargāc ca parihīyate) ||  
+मनु९।२५४च्/ तस्य प्रक्षुभ्यते) राष्ट्रं स्वर्गाच् च परिहीयते) ||  
   
-Manu9.255a/ nirbhayaṃ tu bhaved) yasya rāṣṭraṃ bāhu.balāśritam |  
+मनु९।२५५अ/ निर्भयं तु भवेद्) यस्य राष्ट्रं बाहु।बलाश्रितम् |  
   
-Manu9.255c/ tasya tad vardhate) nityaṃ sicyamāna) iva drumaḥ ||  
+मनु९।२५५च्/ तस्य तद् वर्धते) नित्यं सिच्यमान) इव द्रुमः ||  
   
-Manu9.256a/ dvividhāṃs taskarān vidyāt) paradravyāpahārakān |  
+मनु९।२५६अ/ द्विविधांस् तस्करान् विद्यात्) परद्रव्यापहारकान् |  
   
-Manu9.256c/ prakāśāṃś ca-aprakāśāṃś ca cāra.cakṣur mahīpatiḥ ||  
+मनु९।२५६च्/ प्रकाशांश् च-अप्रकाशांश् च चार।चक्षुर् महीपतिः ||  
   
-Manu9.257a/ prakāśavañcakās teṣāṃ nānāpaṇya-upajīvinaḥ |  
+मनु९।२५७अ/ प्रकाशवञ्चकास् तेषां नानापण्य-उपजीविनः |  
   
-Manu9.257c/ pracchannavañcakās tv ete ye stena.aṭavikādayaḥ ||  
+मनु९।२५७च्/ प्रच्छन्नवञ्चकास् त्व् एते ये स्तेन।अटविकादयः ||  
   
-Manu9.258a/ utkocakāś ca-aupadhikā vañcakāḥ kitavās tathā |  
-Manu9.258c/ maṅgalādeśa.vṛttāś ca bhadrāś ca-īkṣaṇikaiḥ saha || [M.bhadraprekṣaṇikaiḥ saha ]  
+मनु९।२५८अ/ उत्कोचकाश् च-औपधिका वञ्चकाः कितवास् तथा |  
+मनु९।२५८च्/ मङ्गलादेश।वृत्ताश् च भद्राश् च-ईक्षणिकैः सह || [म्।भद्रप्रेक्षणिकैः सह ]  
   
-Manu9.259a/ asamyakkāriṇaś ca-eva mahāmātrāś cikitsakāḥ |  
+मनु९।२५९अ/ असम्यक्कारिणश् च-एव महामात्राश् चिकित्सकाः |  
   
-Manu9.259c/ śilpa.upacārayuktāś ca nipuṇāḥ paṇyayoṣitaḥ ||  
+मनु९।२५९च्/ शिल्प।उपचारयुक्ताश् च निपुणाः पण्ययोषितः ||  
   
-Manu9.260a/ evamādīn vijānīyāt) prakāśāṃl lokakaṇṭakān | [M.evamādyān ]  
+मनु९।२६०अ/ एवमादीन् विजानीयात्) प्रकाशांल् लोककण्टकान् | [म्।एवमाद्यान् ]  
   
-Manu9.260c/ nigūḍhacāriṇaś ca-anyān anāryān āryaliṅginaḥ ||  
+मनु९।२६०च्/ निगूढचारिणश् च-अन्यान् अनार्यान् आर्यलिङ्गिनः ||  
   
-Manu9.261a/ tān viditvā) sucaritair gūḍhais tatkarmakāribhiḥ |  
+मनु९।२६१अ/ तान् विदित्वा) सुचरितैर् गूढैस् तत्कर्मकारिभिः |  
   
-Manu9.261c/ cāraiś ca-aneka.saṃsthānaiḥ protsādya) vaśam ānayet) ||  
+मनु९।२६१च्/ चारैश् च-अनेक।संस्थानैः प्रोत्साद्य) वशम् आनयेत्) ||  
   
-Manu9.262a/ teṣāṃ doṣān abhikhyāpya) sve sve karmaṇi tattvataḥ |  
+मनु९।२६२अ/ तेषां दोषान् अभिख्याप्य) स्वे स्वे कर्मणि तत्त्वतः |  
   
-Manu9.262c/ kurvīta) śāsanaṃ rājā samyak sāra.aparādhataḥ ||  
+मनु९।२६२च्/ कुर्वीत) शासनं राजा सम्यक् सार।अपराधतः ||  
   
-Manu9.263a/ na hi daṇḍād ṛte śakyaḥ kartuṃ pāpa.vinigrahaḥ |  
+मनु९।२६३अ/ न हि दण्डाद् ऋते शक्यः कर्तुं पाप।विनिग्रहः |  
   
-Manu9.263c/ stenānāṃ pāpabuddhīnāṃ nibhṛtaṃ) caratāṃ kṣitau ||  
+मनु९।२६३च्/ स्तेनानां पापबुद्धीनां निभृतं) चरतां क्षितौ ||  
   
-Manu9.264a/ sabhā.prapā.apūpa.śālāveśa.madya.anna.vikrayāḥ |  
+मनु९।२६४अ/ सभा।प्रपा।अपूप।शालावेश।मद्य।अन्न।विक्रयाः |  
   
-Manu9.264c/ catuṣpathāṃś caityavṛkṣāḥ samājāḥ prekṣaṇāni ca ||  
+मनु९।२६४च्/ चतुष्पथांश् चैत्यवृक्षाः समाजाः प्रेक्षणानि च ||  
   
-Manu9.265a/ jīrṇa.udyānāny araṇyāni kārukāveśanāni ca |  
+मनु९।२६५अ/ जीर्ण।उद्यानान्य् अरण्यानि कारुकावेशनानि च |  
   
-Manu9.265c/ śūnyāni ca-apy agārāṇi vanāny upavanāni ca ||  
+मनु९।२६५च्/ शून्यानि च-अप्य् अगाराणि वनान्य् उपवनानि च ||  
   
-Manu9.266a/ evaṃvidhān nṛpo deśān gulmaiḥ sthāvara.jaṅgamaiḥ |  
+मनु९।२६६अ/ एवंविधान् नृपो देशान् गुल्मैः स्थावर।जङ्गमैः |  
   
-Manu9.266c/ taskarapratiṣedhārthaṃ cāraiś ca-apy anucārayet) ||  
+मनु९।२६६च्/ तस्करप्रतिषेधार्थं चारैश् च-अप्य् अनुचारयेत्) ||  
   
-Manu9.267a/ tatsahāyair anugatair nānākarmapravedibhiḥ |  
+मनु९।२६७अ/ तत्सहायैर् अनुगतैर् नानाकर्मप्रवेदिभिः |  
   
-Manu9.267c/ vidyād) utsādayec) ca-eva nipuṇaiḥ pūrvataskaraiḥ ||   
+मनु९।२६७च्/ विद्याद्) उत्सादयेच्) च-एव निपुणैः पूर्वतस्करैः ||   
   
-Manu9.268a/ bhakṣya.bhojya.upadeśaiś ca brāhmaṇānāṃ ca darśanaiḥ |  
+मनु९।२६८अ/ भक्ष्य।भोज्य।उपदेशैश् च ब्राह्मणानां च दर्शनैः |  
   
-Manu9.268c/ śauryakarmāpadeśaiś ca kuryus) teṣāṃ samāgamam ||  
+मनु९।२६८च्/ शौर्यकर्मापदेशैश् च कुर्युस्) तेषां समागमम् ||  
   
-Manu9.269a/ ye tatra na-upasarpeyur) mūlapraṇihitāś ca ye ||  
+मनु९।२६९अ/ ये तत्र न-उपसर्पेयुर्) मूलप्रणिहिताश् च ये ||  
   
-Manu9.269c/ tān prasahya) nṛpo hanyāt) sa.mitra.jñāti.bāndhavān ||   
+मनु९।२६९च्/ तान् प्रसह्य) नृपो हन्यात्) स।मित्र।ज्ञाति।बान्धवान् ||   
   
-Manu9.270a/ na ha-ūḍhena vinā cauraṃ ghātayed) dhārmiko nṛpaḥ |  
+मनु९।२७०अ/ न ह-ऊढेन विना चौरं घातयेद्) धार्मिको नृपः |  
   
-Manu9.270c/ saha-ūḍhaṃ sa.upakaraṇaṃ ghātayed) a.vicārayan ||  
+मनु९।२७०च्/ सह-ऊढं स।उपकरणं घातयेद्) अ।विचारयन् ||  
   
-Manu9.271a/ grāmeṣv api ca ye ke cic caurāṇāṃ bhaktadāyakāḥ |  
+मनु९।२७१अ/ ग्रामेष्व् अपि च ये के चिच् चौराणां भक्तदायकाः |  
   
-Manu9.271c/ bhāṇḍa.avakāśadāś ca-eva sarvāṃs tān api ghātayet) ||  
+मनु९।२७१च्/ भाण्ड।अवकाशदाश् च-एव सर्वांस् तान् अपि घातयेत्) ||  
   
-Manu9.272a/ rāṣṭreṣu rakṣādhikṛtān sāmantāṃś ca-eva coditān |  
+मनु९।२७२अ/ राष्ट्रेषु रक्षाधिकृतान् सामन्तांश् च-एव चोदितान् |  
   
-Manu9.272c/ abhyāghāteṣu madhyasthāñ śiṣyāc) caurān iva drutam ||  
+मनु९।२७२च्/ अभ्याघातेषु मध्यस्थाञ् शिष्याच्) चौरान् इव द्रुतम् ||  
   
-Manu9.273a/ yaś ca-api dharmasamayāt pracyuto) dharma.jīvanaḥ |  
+मनु९।२७३अ/ यश् च-अपि धर्मसमयात् प्रच्युतो) धर्म।जीवनः |  
   
-Manu9.273c/ daṇḍena-eva tam apy oṣet svakād dharmādd hi vicyutam ||   
+मनु९।२७३च्/ दण्डेन-एव तम् अप्य् ओषेत् स्वकाद् धर्माद्द् हि विच्युतम् ||   
   
-Manu9.274a/ grāmaghāte hitābhaṅge pathi moṣābhidarśane |  
+मनु९।२७४अ/ ग्रामघाते हिताभङ्गे पथि मोषाभिदर्शने |  
   
-Manu9.274c/ śaktito na-abhidhāvanto) nirvāsyāḥ) sa.paricchadāḥ ||  
+मनु९।२७४च्/ शक्तितो न-अभिधावन्तो) निर्वास्याः) स।परिच्छदाः ||  
   
-Manu9.275a/ rājñaḥ kośāpahartqṃś ca  pratikūleṣu ca sthitān | [M.prātikūlyeṣv avasthitān ]  
+मनु९।२७५अ/ राज्ञः कोशापहर्त्क़्ंश् च  प्रतिकूलेषु च स्थितान् | [म्।प्रातिकूल्येष्व् अवस्थितान् ]  
   
-Manu9.275c/ ghātayed) vividhair daṇḍair arīṇāṃ ca-upajāpakān ||  
+मनु९।२७५च्/ घातयेद्) विविधैर् दण्डैर् अरीणां च-उपजापकान् ||  
   
-Manu9.276a/  saṃdhiṃ chittvā) tu ye cauryaṃ rātrau kurvanti) taskarāḥ | [M.saṃdhiṃ bhittvā)]  
+मनु९।२७६अ/  संधिं छित्त्वा) तु ये चौर्यं रात्रौ कुर्वन्ति) तस्कराः | [म्।संधिं भित्त्वा)]  
   
-Manu9.276c/ teṣāṃ chittvā) nṛpo hastau tīkṣṇe śūle niveśayet) ||  
+मनु९।२७६च्/ तेषां छित्त्वा) नृपो हस्तौ तीक्ष्णे शूले निवेशयेत्) ||  
   
-Manu9.277a/ aṅgulīr granthibhedasya chedayet) prathame grahe |  
+मनु९।२७७अ/ अङ्गुलीर् ग्रन्थिभेदस्य छेदयेत्) प्रथमे ग्रहे |  
   
-Manu9.277c/ dvitīye hasta.caraṇau tṛtīye vadham arhati) ||  
+मनु९।२७७च्/ द्वितीये हस्त।चरणौ तृतीये वधम् अर्हति) ||  
   
-Manu9.278a/ agnidān bhaktadāṃś ca-eva tathā śastra.avakāśadān |  
+मनु९।२७८अ/ अग्निदान् भक्तदांश् च-एव तथा शस्त्र।अवकाशदान् |  
   
-Manu9.278c/ saṃnidhātqṃś ca moṣasya hanyāc) cauram iva-īśvaraḥ ||    
+मनु९।२७८च्/ संनिधात्क़्ंश् च मोषस्य हन्याच्) चौरम् इव-ईश्वरः ||    
   
-Manu9.279a/ taḍāgabhedakaṃ hanyād) apsu śuddhavadhena vā |  
+मनु९।२७९अ/ तडागभेदकं हन्याद्) अप्सु शुद्धवधेन वा |  
   
-Manu9.279c/ yad vā-api pratisaṃskuryād) dāpyas) tu-uttamasāhasam ||  
+मनु९।२७९च्/ यद् वा-अपि प्रतिसंस्कुर्याद्) दाप्यस्) तु-उत्तमसाहसम् ||  
   
-Manu9.280a/ koṣṭhāgāra.āyudhāgāra.devatāgāra.bhedakān |  
+मनु९।२८०अ/ कोष्ठागार।आयुधागार।देवतागार।भेदकान् |  
   
-Manu9.280c/ hasti.aśva.rathahartqṃś ca hanyād) eva-a.vicārayan ||  
+मनु९।२८०च्/ हस्ति।अश्व।रथहर्त्क़्ंश् च हन्याद्) एव-अ।विचारयन् ||  
   
-Manu9.281a/ yas tu pūrvaniviṣṭasya taḍāgasya-udakaṃ haret) |  
+मनु९।२८१अ/ यस् तु पूर्वनिविष्टस्य तडागस्य-उदकं हरेत्) |  
   
-Manu9.281c/ āgamaṃ vā-apy apāṃ bhindyāt) sa dāpyaḥ) pūrvasāhasam ||  
+मनु९।२८१च्/ आगमं वा-अप्य् अपां भिन्द्यात्) स दाप्यः) पूर्वसाहसम् ||  
   
-Manu9.282a/ samutsṛjed) rājamārge yas tv amedhyam anāpadi |  
+मनु९।२८२अ/ समुत्सृजेद्) राजमार्गे यस् त्व् अमेध्यम् अनापदि |  
   
-Manu9.282c/ sa dvau kārṣāpaṇau dadyād) amedhyaṃ ca-āśu śodhayet) ||  
+मनु९।२८२च्/ स द्वौ कार्षापणौ दद्याद्) अमेध्यं च-आशु शोधयेत्) ||  
   
-Manu9.283a/ āpadgato 'atha vā vṛddhā garbhiṇī bāla eva vā |  
+मनु९।२८३अ/ आपद्गतो ऽअथ वा वृद्धा गर्भिणी बाल एव वा |  
   
-Manu9.283c/ paribhāṣaṇam arhanti) tac ca śodhyam) iti sthitiḥ ||  
+मनु९।२८३च्/ परिभाषणम् अर्हन्ति) तच् च शोध्यम्) इति स्थितिः ||  
   
-Manu9.284a/ cikitsakānāṃ sarveṣāṃ mithyāpracaratāṃ damaḥ |  
+मनु९।२८४अ/ चिकित्सकानां सर्वेषां मिथ्याप्रचरतां दमः |  
   
-Manu9.284c/ amānuṣeṣu prathamo mānuṣeṣu tu madhyamaḥ ||  
+मनु९।२८४च्/ अमानुषेषु प्रथमो मानुषेषु तु मध्यमः ||  
   
-Manu9.285a/ saṃkrama.dhvaja.yaṣṭīnāṃ pratimānāṃ ca bhedakaḥ |  
+मनु९।२८५अ/ संक्रम।ध्वज।यष्टीनां प्रतिमानां च भेदकः |  
   
-Manu9.285c/ pratikuryāc) ca tat sarvaṃ pañca dadyāt)-śatāni ca ||  
+मनु९।२८५च्/ प्रतिकुर्याच्) च तत् सर्वं पञ्च दद्यात्)-शतानि च ||  
   
-Manu9.286a/ adūṣitānāṃ dravyāṇāṃ dūṣaṇe bhedane tathā |  
+मनु९।२८६अ/ अदूषितानां द्रव्याणां दूषणे भेदने तथा |  
   
-Manu9.286c/ maṇīnām apavedhe ca daṇḍaḥ prathamasāhasaḥ ||  
+मनु९।२८६च्/ मणीनाम् अपवेधे च दण्डः प्रथमसाहसः ||  
   
-Manu9.287a/ samair hi viṣamaṃ yas tu cared) vai mūlyato 'api vā |  
+मनु९।२८७अ/ समैर् हि विषमं यस् तु चरेद्) वै मूल्यतो ऽअपि वा |  
   
-Manu9.287c/ samāpnuyād) damaṃ pūrvaṃ naro madhyamam eva vā ||  
+मनु९।२८७च्/ समाप्नुयाद्) दमं पूर्वं नरो मध्यमम् एव वा ||  
   
-Manu9.288a/ bandhanāni ca sarvāṇi rājā mārge niveśayet) | [M.rājamārge ]  
+मनु९।२८८अ/ बन्धनानि च सर्वाणि राजा मार्गे निवेशयेत्) | [म्।राजमार्गे ]  
   
-Manu9.288c/ duḥkhitā yatra dṛśyeran) vikṛtāḥ pāpakāriṇah ||  
+मनु९।२८८च्/ दुःखिता यत्र दृश्येरन्) विकृताः पापकारिणह् ||  
   
-Manu9.289a/ prākārasya ca bhettāraṃ parikhāṇāṃ ca pūrakam |  
+मनु९।२८९अ/ प्राकारस्य च भेत्तारं परिखाणां च पूरकम् |  
   
-Manu9.289c/ dvārāṇāṃ ca-eva bhaṅktāraṃ kṣipram eva pravāsayet) ||  
+मनु९।२८९च्/ द्वाराणां च-एव भङ्क्तारं क्षिप्रम् एव प्रवासयेत्) ||  
   
-Manu9.290a/ abhicāreṣu sarveṣu kartavyo dviśato damaḥ |  
+मनु९।२९०अ/ अभिचारेषु सर्वेषु कर्तव्यो द्विशतो दमः |  
   
-Manu9.290c/ mūlakarmaṇi ca-anāpteḥ kṛtyāsu vividhāsu ca || [M.ca-anāptaiḥ]  
+मनु९।२९०च्/ मूलकर्मणि च-अनाप्तेः कृत्यासु विविधासु च || [म्।च-अनाप्तैः]  
   
-Manu9.291a/ abījavikrayī ca-eva bīja.utkṛṣṭā tathā-eva ca |  
+मनु९।२९१अ/ अबीजविक्रयी च-एव बीज।उत्कृष्टा तथा-एव च |  
   
-Manu9.291c/ maryādābhedakaś ca-eva vikṛtaṃ prāpnuyād) vadham ||  
+मनु९।२९१च्/ मर्यादाभेदकश् च-एव विकृतं प्राप्नुयाद्) वधम् ||  
   
-Manu9.292a/ sarvakaṇṭakapāpiṣṭhaṃ hemakāraṃ tu pārthivaḥ |  
+मनु९।२९२अ/ सर्वकण्टकपापिष्ठं हेमकारं तु पार्थिवः |  
   
-Manu9.292c/ pravartamānam) anyāye chedayet)-lavaśaḥ kṣuraiḥ|| [M.chedayet) khaṇḍaśaḥ kṣuraiḥ ]  
+मनु९।२९२च्/ प्रवर्तमानम्) अन्याये छेदयेत्)-लवशः क्षुरैः|| [म्।छेदयेत्) खण्डशः क्षुरैः ]  
   
-Manu9.293a/ sītā.dravyāpaharaṇe śastrāṇām auṣadhasya ca |  
+मनु९।२९३अ/ सीता।द्रव्यापहरणे शस्त्राणाम् औषधस्य च |  
   
-Manu9.293c/ kālam āsādya) kāryaṃ ca rājā daṇḍaṃ prakalpayet) ||  
+मनु९।२९३च्/ कालम् आसाद्य) कार्यं च राजा दण्डं प्रकल्पयेत्) ||  
   
   
   
-Manu9.294a/ svāmy.amātyau puraṃ rāṣṭraṃ kośa.daṇḍau suhṛt tathā |  
+मनु९।२९४अ/ स्वाम्य्।अमात्यौ पुरं राष्ट्रं कोश।दण्डौ सुहृत् तथा |  
   
-Manu9.294c/ sapta prakṛtayo hy etāḥ saptāṅgaṃ rājyam ucyate) ||  
+मनु९।२९४च्/ सप्त प्रकृतयो ह्य् एताः सप्ताङ्गं राज्यम् उच्यते) ||  
   
-Manu9.295a/ saptānāṃ prakṛtīnāṃ tu rājyasya-āsāṃ yathākramam |  
+मनु९।२९५अ/ सप्तानां प्रकृतीनां तु राज्यस्य-आसां यथाक्रमम् |  
   
-Manu9.295c/ pūrvaṃ pūrvaṃ gurutaraṃ jānīyād) vyasanaṃ mahat ||  
+मनु९।२९५च्/ पूर्वं पूर्वं गुरुतरं जानीयाद्) व्यसनं महत् ||  
   
-Manu9.296a/ sapta.aṅgasya-iha rājyasya viṣṭabdhasya tridaṇḍavat |  
+मनु९।२९६अ/ सप्त।अङ्गस्य-इह राज्यस्य विष्टब्धस्य त्रिदण्डवत् |  
   
-Manu9.296c/ anyonyaguṇavaiśeṣyāt-na kiṃ cid atiricyate) ||  
+मनु९।२९६च्/ अन्योन्यगुणवैशेष्यात्-न किं चिद् अतिरिच्यते) ||  
   
-Manu9.297a/ teṣu teṣu tu kṛtyeṣu tat tad aṅgaṃ viśiṣyate) |  
+मनु९।२९७अ/ तेषु तेषु तु कृत्येषु तत् तद् अङ्गं विशिष्यते) |  
   
-Manu9.297c/ yena yat sādhyate) kāryaṃ tat tasmin-śreṣṭham ucyate) ||  
+मनु९।२९७च्/ येन यत् साध्यते) कार्यं तत् तस्मिन्-श्रेष्ठम् उच्यते) ||  
   
   
-Manu9.298a/ cāreṇa-utsāhayogena kriyayā-eva ca karmaṇām |  
+मनु९।२९८अ/ चारेण-उत्साहयोगेन क्रियया-एव च कर्मणाम् |  
   
-Manu9.298c/ svaśaktiṃ paraśaktiṃ ca nityaṃ vidyāt-mahīpatiḥ || [M.vidyāt) para.ātmanoḥ]  
+मनु९।२९८च्/ स्वशक्तिं परशक्तिं च नित्यं विद्यात्-महीपतिः || [म्।विद्यात्) पर।आत्मनोः]  
   
-Manu9.299a/ pīḍanāni ca sarvāṇi vyasanāni tathā-eva ca |  
+मनु९।२९९अ/ पीडनानि च सर्वाणि व्यसनानि तथा-एव च |  
   
-Manu9.299c/ ārabheta) tataḥ kāryaṃ saṃcintya) guru.lāghavam ||  
+मनु९।२९९च्/ आरभेत) ततः कार्यं संचिन्त्य) गुरु।लाघवम् ||  
   
-Manu9.300a/ ārabheta)-eva karmāṇi śrāntaḥ) śrāntaḥ punaḥ punaḥ |  
+मनु९।३००अ/ आरभेत)-एव कर्माणि श्रान्तः) श्रान्तः पुनः पुनः |  
   
-Manu9.300c/ karmāṇy ārabhamāṇaṃ) hi puruṣaṃ śrīr niṣevate) ||   
+मनु९।३००च्/ कर्माण्य् आरभमाणं) हि पुरुषं श्रीर् निषेवते) ||   
   
-Manu9.301a/ kṛtaṃ tretāyugaṃ ca-eva dvāparaṃ kalir eva ca |  
+मनु९।३०१अ/ कृतं त्रेतायुगं च-एव द्वापरं कलिर् एव च |  
   
-Manu9.301c/ rājño vṛttāni sarvāṇi rājā hi yugam ucyate) ||  
+मनु९।३०१च्/ राज्ञो वृत्तानि सर्वाणि राजा हि युगम् उच्यते) ||  
   
-Manu9.302a/ kaliḥ prasupto bhavati) sa jāgrad dvāparaṃ yugam |  
+मनु९।३०२अ/ कलिः प्रसुप्तो भवति) स जाग्रद् द्वापरं युगम् |  
   
-Manu9.302c/ karmasv abhyudyatas) tretā vicaraṃs) tu kṛtaṃ yugam ||  
+मनु९।३०२च्/ कर्मस्व् अभ्युद्यतस्) त्रेता विचरंस्) तु कृतं युगम् ||  
   
-Manu9.303a/ indrasya-arkasya vāyoś ca yamasya varuṇasya ca |  
+मनु९।३०३अ/ इन्द्रस्य-अर्कस्य वायोश् च यमस्य वरुणस्य च |  
   
-Manu9.303c/ candrasya-agneḥ pṛthivyāś ca tejovṛttaṃ nṛpaś caret) ||  
+मनु९।३०३च्/ चन्द्रस्य-अग्नेः पृथिव्याश् च तेजोवृत्तं नृपश् चरेत्) ||  
   
-Manu9.304a/ vārṣikāṃś caturo māsān yathā-indro 'abhipravarṣati) |  
+मनु९।३०४अ/ वार्षिकांश् चतुरो मासान् यथा-इन्द्रो ऽअभिप्रवर्षति) |  
   
-Manu9.304c/ tathā-abhivarṣet) svaṃ rāṣṭraṃ kāmair indravrataṃ caran) ||  
+मनु९।३०४च्/ तथा-अभिवर्षेत्) स्वं राष्ट्रं कामैर् इन्द्रव्रतं चरन्) ||  
   
-Manu9.305a/ aṣṭau māsān yathā-ādityas toyaṃ harati) raśmibhiḥ |  
+मनु९।३०५अ/ अष्टौ मासान् यथा-आदित्यस् तोयं हरति) रश्मिभिः |  
   
-Manu9.305c/ tathā haret) karaṃ rāṣṭrāt-nityam arkavrataṃ hi tat ||  
+मनु९।३०५च्/ तथा हरेत्) करं राष्ट्रात्-नित्यम् अर्कव्रतं हि तत् ||  
   
-Manu9.306a/ praviśya) sarvabhūtāni yathā carati) mārutaḥ |  
+मनु९।३०६अ/ प्रविश्य) सर्वभूतानि यथा चरति) मारुतः |  
   
-Manu9.306c/ tathā cāraiḥ praveṣṭavyaṃ) vratam etadd hi mārutam ||  
+मनु९।३०६च्/ तथा चारैः प्रवेष्टव्यं) व्रतम् एतद्द् हि मारुतम् ||  
   
-Manu9.307a/ yathā yamaḥ priya.dveṣyau prāpte kāle niyacchati) |  
+मनु९।३०७अ/ यथा यमः प्रिय।द्वेष्यौ प्राप्ते काले नियच्छति) |  
   
-Manu9.307c/ tathā rājñā niyantavyāḥ) prajās tadd hi yamavratam ||  
+मनु९।३०७च्/ तथा राज्ञा नियन्तव्याः) प्रजास् तद्द् हि यमव्रतम् ||  
   
-Manu9.308a/ varuṇena yathā pāśair baddha eva-abhidṛśyate) |  
+मनु९।३०८अ/ वरुणेन यथा पाशैर् बद्ध एव-अभिदृश्यते) |  
   
-Manu9.308c/ tathā pāpān nigṛhṇīyād) vratam etadd hi vāruṇam ||  
+मनु९।३०८च्/ तथा पापान् निगृह्णीयाद्) व्रतम् एतद्द् हि वारुणम् ||  
   
-Manu9.309a/ paripūrṇaṃ yathā candraṃ dṛṣṭvā) hṛṣyanti) mānavāḥ |  
+मनु९।३०९अ/ परिपूर्णं यथा चन्द्रं दृष्ट्वा) हृष्यन्ति) मानवाः |  
   
-Manu9.309c/ tathā prakṛtayo yasmin sa cāndravratiko nṛpaḥ ||  
+मनु९।३०९च्/ तथा प्रकृतयो यस्मिन् स चान्द्रव्रतिको नृपः ||  
   
-Manu9.310a/ pratāpayuktas tejasvī nityaṃ syāt) pāpakarmasu |  
+मनु९।३१०अ/ प्रतापयुक्तस् तेजस्वी नित्यं स्यात्) पापकर्मसु |  
   
-Manu9.310c/ duṣṭasāmantahiṃsraś ca tad āgneyaṃ vrataṃ smṛtam ||  
+मनु९।३१०च्/ दुष्टसामन्तहिंस्रश् च तद् आग्नेयं व्रतं स्मृतम् ||  
   
-Manu9.311a/ yathā sarvāṇi bhūtāni dharā dhārayate) samam |  
+मनु९।३११अ/ यथा सर्वाणि भूतानि धरा धारयते) समम् |  
   
-Manu9.311c/ tathā sarvāṇi bhūtāni bibhrataḥ) pārthivaṃ vratam ||  
+मनु९।३११च्/ तथा सर्वाणि भूतानि बिभ्रतः) पार्थिवं व्रतम् ||  
   
-Manu9.312a/ etair upāyair anyaiś ca yukto nityam atandritaḥ |  
+मनु९।३१२अ/ एतैर् उपायैर् अन्यैश् च युक्तो नित्यम् अतन्द्रितः |  
   
-Manu9.312c/ stenān rājā nigṛhṇīyāt) svarāṣṭre para eva ca ||  
+मनु९।३१२च्/ स्तेनान् राजा निगृह्णीयात्) स्वराष्ट्रे पर एव च ||  
   
   
   
-Manu9.313a/ parām apy āpadaṃ prāpto brāhmaṇān na prakopayet) |  
+मनु९।३१३अ/ पराम् अप्य् आपदं प्राप्तो ब्राह्मणान् न प्रकोपयेत्) |  
   
-Manu9.313c/ te hy enaṃ kupitā hanyuḥ) sadyaḥ sa.bala.vāhanam ||  
+मनु९।३१३च्/ ते ह्य् एनं कुपिता हन्युः) सद्यः स।बल।वाहनम् ||  
   
-Manu9.314a/ yaiḥ kṛtaḥ sarvabhakṣyo 'agnir apeyaś ca mahodadhiḥ | [M.sarvabhakṣo ]  
+मनु९।३१४अ/ यैः कृतः सर्वभक्ष्यो ऽअग्निर् अपेयश् च महोदधिः | [म्।सर्वभक्षो ]  
   
-Manu9.314c/ kṣayī ca-āpyāyitaḥ somaḥ ko na naśyet) prakopya) tān ||  
+मनु९।३१४च्/ क्षयी च-आप्यायितः सोमः को न नश्येत्) प्रकोप्य) तान् ||  
   
-Manu9.315a/ lokān anyān sṛjeyur) ye lokapālāṃś ca kopitāḥ |  
-Manu9.315c/ devān kuryur) adevāṃś ca kaḥ kṣiṇvaṃs) tān samṛdhnuyāt) ||  
+मनु९।३१५अ/ लोकान् अन्यान् सृजेयुर्) ये लोकपालांश् च कोपिताः |  
+मनु९।३१५च्/ देवान् कुर्युर्) अदेवांश् च कः क्षिण्वंस्) तान् समृध्नुयात्) ||  
   
-Manu9.316a/ yān upāśritya) tiṣṭhanti) lokā devāś ca sarvadā |  
+मनु९।३१६अ/ यान् उपाश्रित्य) तिष्ठन्ति) लोका देवाश् च सर्वदा |  
   
-Manu9.316c/ brahma ca-eva dhanaṃ yeṣāṃ ko hiṃsyāt) tāñ jijīviṣuḥ ||  
+मनु९।३१६च्/ ब्रह्म च-एव धनं येषां को हिंस्यात्) ताञ् जिजीविषुः ||  
   
-Manu9.317a/ a.vidvāṃś ca-eva vidvāṃś ca brāhmaṇo daivataṃ mahat |  
+मनु९।३१७अ/ अ।विद्वांश् च-एव विद्वांश् च ब्राह्मणो दैवतं महत् |  
   
-Manu9.317c/ praṇītaś ca-a.praṇītaś ca yathā-agnir daivataṃ mahat ||  
+मनु९।३१७च्/ प्रणीतश् च-अ।प्रणीतश् च यथा-अग्निर् दैवतं महत् ||  
   
-Manu9.318a/ śmaśāneṣv api tejasvī pāvako na-eva duṣyati) |  
+मनु९।३१८अ/ श्मशानेष्व् अपि तेजस्वी पावको न-एव दुष्यति) |  
   
-Manu9.318c/ hūyamānaś ca yajñeṣu bhūya eva-abhivardhate) ||  
+मनु९।३१८च्/ हूयमानश् च यज्ञेषु भूय एव-अभिवर्धते) ||  
   
-Manu9.319a/ evaṃ yady apy aniṣṭeṣu vartante) sarvakarmasu |  
+मनु९।३१९अ/ एवं यद्य् अप्य् अनिष्टेषु वर्तन्ते) सर्वकर्मसु |  
   
-Manu9.319c/ sarvathā brāhmaṇāḥ pūjyāḥ paramaṃ daivatam hi tat ||  
+मनु९।३१९च्/ सर्वथा ब्राह्मणाः पूज्याः परमं दैवतम् हि तत् ||  
   
-Manu9.320a/ kṣatrasya-atipravṛddhasya brāhmaṇān prati sarvaśaḥ |  
+मनु९।३२०अ/ क्षत्रस्य-अतिप्रवृद्धस्य ब्राह्मणान् प्रति सर्वशः |  
   
-Manu9.320c/ brahma-eva saṃniyantṛ syāt) kṣatraṃ hi brahma.saṃbhavam ||  
+मनु९।३२०च्/ ब्रह्म-एव संनियन्तृ स्यात्) क्षत्रं हि ब्रह्म।संभवम् ||  
   
-Manu9.321a/ adbhyo 'agnir brahmataḥ kṣatram aśmano loham utthitam |  
+मनु९।३२१अ/ अद्भ्यो ऽअग्निर् ब्रह्मतः क्षत्रम् अश्मनो लोहम् उत्थितम् |  
   
-Manu9.321c/ teṣāṃ sarvatragaṃ tejaḥ svāsu yoniṣu śāmyati) ||  
+मनु९।३२१च्/ तेषां सर्वत्रगं तेजः स्वासु योनिषु शाम्यति) ||  
   
-Manu9.322a/ na-a.brahma kṣatram ṛdhnoti) na-a.kṣatraṃ brahma vardhate) |  
+मनु९।३२२अ/ न-अ।ब्रह्म क्षत्रम् ऋध्नोति) न-अ।क्षत्रं ब्रह्म वर्धते) |  
   
-Manu9.322c/ brahma kṣatraṃ ca saṃpṛktam iha ca-amutra vardhate) ||  
+मनु९।३२२च्/ ब्रह्म क्षत्रं च संपृक्तम् इह च-अमुत्र वर्धते) ||  
   
-Manu9.323a/ dattvā) dhanaṃ tu viprebhyaḥ sarvadaṇḍasamutthitam |  
+मनु९।३२३अ/ दत्त्वा) धनं तु विप्रेभ्यः सर्वदण्डसमुत्थितम् |  
   
-Manu9.323c/ putre rājyaṃ samāsṛjya) kurvīta) prāyaṇaṃ raṇe || [M.samāsādya ]  
+मनु९।३२३च्/ पुत्रे राज्यं समासृज्य) कुर्वीत) प्रायणं रणे || [म्।समासाद्य ]  
   
-Manu9.324a/ evaṃ caran) sadā yukto rājadharmeṣu pārthivaḥ |  
+मनु९।३२४अ/ एवं चरन्) सदा युक्तो राजधर्मेषु पार्थिवः |  
   
-Manu9.324c/ hiteṣu ca-eva lokasya sarvān bhṛtyān niyojayet) || [M.hiteṣu ca-eva lokebhyaḥ ]  
+मनु९।३२४च्/ हितेषु च-एव लोकस्य सर्वान् भृत्यान् नियोजयेत्) || [म्।हितेषु च-एव लोकेभ्यः ]  
   
-Manu9.325a/ eṣo 'a.khilaḥ karmavidhir ukto rājñaḥ sanātanaḥ |  
+मनु९।३२५अ/ एषो ऽअ।खिलः कर्मविधिर् उक्तो राज्ञः सनातनः |  
   
-Manu9.325c/ imaṃ karmavidhiṃ vidyāt) kramaśo vaiśya.śūdrayoḥ ||  
+मनु९।३२५च्/ इमं कर्मविधिं विद्यात्) क्रमशो वैश्य।शूद्रयोः ||  
   
   
   
-Manu9.326a/ vaiśyas tu kṛta.saṃskāraḥ kṛtvā) dāraparigraham |  
+मनु९।३२६अ/ वैश्यस् तु कृत।संस्कारः कृत्वा) दारपरिग्रहम् |  
   
-Manu9.326c/ vārtāyāṃ nityayuktaḥ syāt) paśūnāṃ ca-eva rakṣaṇe ||  
+मनु९।३२६च्/ वार्तायां नित्ययुक्तः स्यात्) पशूनां च-एव रक्षणे ||  
   
-Manu9.327a/ prajāpatir hi vaiśyāya sṛṣṭvā) paridade) paśūn |  
+मनु९।३२७अ/ प्रजापतिर् हि वैश्याय सृष्ट्वा) परिददे) पशून् |  
   
-Manu9.327c/ brāhmaṇāya ca rājñe ca sarvāḥ paridade) prajāḥ ||  
+मनु९।३२७च्/ ब्राह्मणाय च राज्ञे च सर्वाः परिददे) प्रजाः ||  
   
-Manu9.328a/ na ca vaiśyasya kāmaḥ syān) na rakṣeyaṃ) paśūn iti |  
+मनु९।३२८अ/ न च वैश्यस्य कामः स्यान्) न रक्षेयं) पशून् इति |  
   
-Manu9.328c/ vaiśye ca-icchati na-anyena rakṣitavyāḥ) kathaṃ cana ||  
+मनु९।३२८च्/ वैश्ये च-इच्छति न-अन्येन रक्षितव्याः) कथं चन ||  
   
-Manu9.329a/ maṇi.muktā.pravālānāṃ lohānāṃ tāntavasya ca |  
+मनु९।३२९अ/ मणि।मुक्ता।प्रवालानां लोहानां तान्तवस्य च |  
   
-Manu9.329c/ gandhānāṃ ca rasānāṃ ca vidyād) argha.bala.abalam ||  
+मनु९।३२९च्/ गन्धानां च रसानां च विद्याद्) अर्घ।बल।अबलम् ||  
   
-Manu9.330a/ bījānām uptivid-ca syāt) kṣetradoṣa.guṇasya ca |  
+मनु९।३३०अ/ बीजानाम् उप्तिविद्-च स्यात्) क्षेत्रदोष।गुणस्य च |  
   
-Manu9.330c/ mānayogaṃ ca jānīyāt) tulāyogāṃś ca sarvaśaḥ |  
+मनु९।३३०च्/ मानयोगं च जानीयात्) तुलायोगांश् च सर्वशः |  
   
-Manu9.331a/ sāra.asāraṃ ca bhāṇḍānāṃ deśānāṃ ca guṇa.aguṇān |  
+मनु९।३३१अ/ सार।असारं च भाण्डानां देशानां च गुण।अगुणान् |  
   
-Manu9.331c/ lābha.alābhaṃ ca paṇyānāṃ paśūnāṃ parivardhanam ||  
+मनु९।३३१च्/ लाभ।अलाभं च पण्यानां पशूनां परिवर्धनम् ||  
   
-Manu9.332a/ bhṛtyānāṃ ca bhṛtiṃ vidyād) bhāṣāś ca vividhā nṛṇāṃ |  
+मनु९।३३२अ/ भृत्यानां च भृतिं विद्याद्) भाषाश् च विविधा नृणां |  
   
-Manu9.332c/ dravyāṇāṃ sthāna.yogāṃś ca kraya.vikrayam eva ca ||  
+मनु९।३३२च्/ द्रव्याणां स्थान।योगांश् च क्रय।विक्रयम् एव च ||  
   
-Manu9.333a/ dharmeṇa ca dravyavṛddhāv ātiṣṭhed) yatnam uttamam |  
+मनु९।३३३अ/ धर्मेण च द्रव्यवृद्धाव् आतिष्ठेद्) यत्नम् उत्तमम् |  
   
-Manu9.333c/ dadyāc) ca sarvabhūtānām annam eva prayatnataḥ ||  
+मनु९।३३३च्/ दद्याच्) च सर्वभूतानाम् अन्नम् एव प्रयत्नतः ||  
   
   
   
-Manu9.334a/ viprāṇāṃ vedaviduṣāṃ gṛhasthānāṃ yaśasvinām |  
+मनु९।३३४अ/ विप्राणां वेदविदुषां गृहस्थानां यशस्विनाम् |  
   
-Manu9.334c/ śuśrūṣā-eva tu śūdrasya dharmo naiśreyasaḥ paraḥ || [K: param]  
+मनु९।३३४च्/ शुश्रूषा-एव तु शूद्रस्य धर्मो नैश्रेयसः परः || [क्: परम्]  
   
-Manu9.335a/ śucir utkṛṣṭaśuśrūṣur mṛdu.vāg an.ahaṃkṛtaḥ |  
+मनु९।३३५अ/ शुचिर् उत्कृष्टशुश्रूषुर् मृदु।वाग् अन्।अहंकृतः |  
   
-Manu9.335c/ brāhmaṇādi.āśrayo  nityam utkṛṣṭāṃ jātim aśnute) || [M.brāhmaṇa.apāśrayo]  
+मनु९।३३५च्/ ब्राह्मणादि।आश्रयो  नित्यम् उत्कृष्टां जातिम् अश्नुते) || [म्।ब्राह्मण।अपाश्रयो]  
   
-Manu9.336a/ eṣo 'anāpadi varṇānām uktaḥ) karmavidhiḥ śubhaḥ |  
+मनु९।३३६अ/ एषो ऽअनापदि वर्णानाम् उक्तः) कर्मविधिः शुभः |  
   
-Manu9.336c/ āpady api hi yas teṣāṃ kramaśas tan nibodhata) ||  
+मनु९।३३६च्/ आपद्य् अपि हि यस् तेषां क्रमशस् तन् निबोधत) ||  
   
   
   
@@ -8932,541 +8924,541 @@ Manu9.336c/ āpady api hi yas teṣāṃ kramaśas tan nibodhata) ||
   
   
   
-Manu10.01a/ adhīyīraṃs) trayo varṇāḥ svakarmasthā dvijātayaḥ |  
+मनु१०।०१अ/ अधीयीरंस्) त्रयो वर्णाः स्वकर्मस्था द्विजातयः |  
   
-Manu10.01c/ prabrūyād) brāhmaṇas tv eṣāṃ na-itarāv iti niścayaḥ ||  
+मनु१०।०१च्/ प्रब्रूयाद्) ब्राह्मणस् त्व् एषां न-इतराव् इति निश्चयः ||  
   
-Manu10.02a/ sarveṣāṃ brāhmaṇo vidyād) vṛttyupāyān yathāvidhi |  
+मनु१०।०२अ/ सर्वेषां ब्राह्मणो विद्याद्) वृत्त्युपायान् यथाविधि |  
   
-Manu10.02c/ prabrūyād) itarebhyaś ca svayaṃ ca-eva tathā bhavet) ||  
+मनु१०।०२च्/ प्रब्रूयाद्) इतरेभ्यश् च स्वयं च-एव तथा भवेत्) ||  
   
-Manu10.03a/ vaiśeṣyāt prakṛtiśraiṣṭhyāt- niyamasya ca dhāraṇāt |  
+मनु१०।०३अ/ वैशेष्यात् प्रकृतिश्रैष्ठ्यात्- नियमस्य च धारणात् |  
   
-Manu10.03c/ saṃskārasya viśeṣāc ca varṇānāṃ brāhmaṇaḥ prabhuḥ ||  
+मनु१०।०३च्/ संस्कारस्य विशेषाच् च वर्णानां ब्राह्मणः प्रभुः ||  
   
-Manu10.04a/ brāhmaṇaḥ kṣatriyo vaiśyas trayo varṇā dvijātayaḥ |  
+मनु१०।०४अ/ ब्राह्मणः क्षत्रियो वैश्यस् त्रयो वर्णा द्विजातयः |  
   
-Manu10.04c/ caturtha ekajātis tu śūdro na-asti) tu pañcamaḥ ||  
+मनु१०।०४च्/ चतुर्थ एकजातिस् तु शूद्रो न-अस्ति) तु पञ्चमः ||  
   
-Manu10.05a/ sarvavarṇeṣu tulyāsu patnīṣv akṣata.yoniṣu |  
+मनु१०।०५अ/ सर्ववर्णेषु तुल्यासु पत्नीष्व् अक्षत।योनिषु |  
   
-Manu10.05c/ ānulomyena saṃbhūtā jātyā jñeyās) ta eva te ||  
+मनु१०।०५च्/ आनुलोम्येन संभूता जात्या ज्ञेयास्) त एव ते ||  
   
-Manu10.06a/ strīṣv anantarajātāsu dvijair utpāditān) sutān |  
+मनु१०।०६अ/ स्त्रीष्व् अनन्तरजातासु द्विजैर् उत्पादितान्) सुतान् |  
   
-Manu10.06c/ sadṛśān eva tān āhur) mātṛdoṣavigarhitān ||  
+मनु१०।०६च्/ सदृशान् एव तान् आहुर्) मातृदोषविगर्हितान् ||  
   
-Manu10.07a/ anantarāsu jātānāṃ vidhir eṣa sanātanaḥ |  
+मनु१०।०७अ/ अनन्तरासु जातानां विधिर् एष सनातनः |  
   
-Manu10.07c/ dvi.ekāntarāsu jātānāṃ dharmyaṃ vidyād imaṃ vidhim ||  
+मनु१०।०७च्/ द्वि।एकान्तरासु जातानां धर्म्यं विद्याद् इमं विधिम् ||  
   
-Manu10.08a/ brāhmaṇād vaiśyakanyāyām ambaṣṭho nāma jāyate) |  
+मनु१०।०८अ/ ब्राह्मणाद् वैश्यकन्यायाम् अम्बष्ठो नाम जायते) |  
   
-Manu10.08c/ niṣādaḥ śūdrakanyāyāṃ yaḥ pāraśava ucyate) ||  
+मनु१०।०८च्/ निषादः शूद्रकन्यायां यः पारशव उच्यते) ||  
   
-Manu10.09a/ kṣatriyāt- śūdrakanyāyāṃ krūrācāravihāravān |  
+मनु१०।०९अ/ क्षत्रियात्- शूद्रकन्यायां क्रूराचारविहारवान् |  
   
-Manu10.09c/ kṣatra.śūdra.vapur jantur ugro nāma prajāyate) ||  
+मनु१०।०९च्/ क्षत्र।शूद्र।वपुर् जन्तुर् उग्रो नाम प्रजायते) ||  
   
-Manu10.10a/ viprasya triṣu varṇeṣu nṛpater varṇayor dvayoḥ |  
+मनु१०।१०अ/ विप्रस्य त्रिषु वर्णेषु नृपतेर् वर्णयोर् द्वयोः |  
   
-Manu10.10c/ vaiśyasya varṇe ca-ekasmin ṣaḍ ete 'apasadāḥ smṛtāḥ ||  
+मनु१०।१०च्/ वैश्यस्य वर्णे च-एकस्मिन् षड् एते ऽअपसदाः स्मृताः ||  
   
-Manu10.11a/ kṣatriyād viprakanyāyāṃ sūto bhavati) jātitaḥ |  
+मनु१०।११अ/ क्षत्रियाद् विप्रकन्यायां सूतो भवति) जातितः |  
   
-Manu10.11c/ vaiśyān māgadha.vaidehau rāja.vipra.aṅganāsutau ||  
+मनु१०।११च्/ वैश्यान् मागध।वैदेहौ राज।विप्र।अङ्गनासुतौ ||  
   
-Manu10.12a/ śūdrād āyogavaḥ kṣattā caṇḍālaś ca-adhamo nṛṇām |  
+मनु१०।१२अ/ शूद्राद् आयोगवः क्षत्ता चण्डालश् च-अधमो नृणाम् |  
   
-Manu10.12c/ vaiśya.rājanya.viprāsu jāyante) varṇasaṃkarāḥ ||  
+मनु१०।१२च्/ वैश्य।राजन्य।विप्रासु जायन्ते) वर्णसंकराः ||  
   
-Manu10.13a/ ekāntare tv ānulomyād ambaṣṭha.ugrau yathā smṛtau |  
+मनु१०।१३अ/ एकान्तरे त्व् आनुलोम्याद् अम्बष्ठ।उग्रौ यथा स्मृतौ |  
   
-Manu10.13c/ kṣattṛ.vaidehakau tadvat prātilomye 'api janmani ||  
+मनु१०।१३च्/ क्षत्तृ।वैदेहकौ तद्वत् प्रातिलोम्ये ऽअपि जन्मनि ||  
   
-Manu10.14a/ putrā ye 'anantarastrījāḥ krameṇa-uktā) dvijanmanām |  
+मनु१०।१४अ/ पुत्रा ये ऽअनन्तरस्त्रीजाः क्रमेण-उक्ता) द्विजन्मनाम् |  
   
-Manu10.14c/ tān anantara.nāmnas tu mātṛdoṣāt pracakṣate) ||  
+मनु१०।१४च्/ तान् अनन्तर।नाम्नस् तु मातृदोषात् प्रचक्षते) ||  
   
-Manu10.15a/ brāhmaṇād ugrakanyāyām āvṛto nāma jāyate) |  
+मनु१०।१५अ/ ब्राह्मणाद् उग्रकन्यायाम् आवृतो नाम जायते) |  
   
-Manu10.15c/ ābhīro 'ambaṣṭhakanyāyām āyogavyāṃ tu dhigvaṇaḥ ||  
+मनु१०।१५च्/ आभीरो ऽअम्बष्ठकन्यायाम् आयोगव्यां तु धिग्वणः ||  
   
-Manu10.16a/ āyogavaś ca kṣattā ca caṇḍālaś ca-adhamo nṛṇām |  
+मनु१०।१६अ/ आयोगवश् च क्षत्ता च चण्डालश् च-अधमो नृणाम् |  
   
-Manu10.16c/ prātilomyena jāyante) śūdrād apasadās trayaḥ ||  
+मनु१०।१६च्/ प्रातिलोम्येन जायन्ते) शूद्राद् अपसदास् त्रयः ||  
   
-Manu10.17a/ vaiśyān māgadha.vaidehau kṣatriyāt sūta eva tu |  
+मनु१०।१७अ/ वैश्यान् मागध।वैदेहौ क्षत्रियात् सूत एव तु |  
   
-Manu10.17c/ pratīpam ete jāyante) pare 'apy apasadās trayaḥ ||  
+मनु१०।१७च्/ प्रतीपम् एते जायन्ते) परे ऽअप्य् अपसदास् त्रयः ||  
   
-Manu10.18a/ jāto niṣādāt-śūdrāyāṃ jātyā bhavati) pukkasaḥ |  
+मनु१०।१८अ/ जातो निषादात्-शूद्रायां जात्या भवति) पुक्कसः |  
   
-Manu10.18c/ śūdrāj jāto niṣādyāṃ tu sa vai kukkuṭakaḥ smṛtaḥ ||  
+मनु१०।१८च्/ शूद्राज् जातो निषाद्यां तु स वै कुक्कुटकः स्मृतः ||  
   
-Manu10.19a/ kṣattur jātas tathā-ugrāyāṃ śvapāka iti kīrtyate) |  
+मनु१०।१९अ/ क्षत्तुर् जातस् तथा-उग्रायां श्वपाक इति कीर्त्यते) |  
   
-Manu10.19c/ vaidehakena tv ambaṣṭhyām utpanno veṇa ucyate) ||  
+मनु१०।१९च्/ वैदेहकेन त्व् अम्बष्ठ्याम् उत्पन्नो वेण उच्यते) ||  
   
-Manu10.20a/ dvijātayaḥ savarṇāsu janayanty) a.vratāṃs tu yān |  
+मनु१०।२०अ/ द्विजातयः सवर्णासु जनयन्त्य्) अ।व्रतांस् तु यान् |  
   
-Manu10.20c/ tān sāvitrīparibhraṣṭān vrātyān iti vinirdiśet) ||  
+मनु१०।२०च्/ तान् सावित्रीपरिभ्रष्टान् व्रात्यान् इति विनिर्दिशेत्) ||  
   
-Manu10.21a/ vrātyāt tu jāyate) viprāt pāpa.ātmā  bhūrjakaṇṭakaḥ| [M.bhṛjjakaṇṭakaḥ ]  
+मनु१०।२१अ/ व्रात्यात् तु जायते) विप्रात् पाप।आत्मा  भूर्जकण्टकः| [म्।भृज्जकण्टकः ]  
   
-Manu10.21c/ āvantya.vāṭadhānau ca puṣpadhaḥ śaikha eva ca ||   
+मनु१०।२१च्/ आवन्त्य।वाटधानौ च पुष्पधः शैख एव च ||   
   
-Manu10.22a/ jhallo mallaś ca rājanyād vrātyāt-nicchivir eva ca | [M.vrātyāt-licchavir eva ca]  
+मनु१०।२२अ/ झल्लो मल्लश् च राजन्याद् व्रात्यात्-निच्छिविर् एव च | [म्।व्रात्यात्-लिच्छविर् एव च]  
   
-Manu10.22c/ naṭaś ca karaṇaś ca-eva khaso draviḍa eva ca ||  
+मनु१०।२२च्/ नटश् च करणश् च-एव खसो द्रविड एव च ||  
   
-Manu10.23a/ vaiśyāt tu jāyate) vrātyāt sudhanvā-ācārya eva ca |  
+मनु१०।२३अ/ वैश्यात् तु जायते) व्रात्यात् सुधन्वा-आचार्य एव च |  
   
-Manu10.23c/ kāruṣaś ca vijanmā ca maitraḥ sātvata eva ca ||  
+मनु१०।२३च्/ कारुषश् च विजन्मा च मैत्रः सात्वत एव च ||  
   
-Manu10.24a/ vyabhicāreṇa varṇānām avedyāvedanena ca |  
+मनु१०।२४अ/ व्यभिचारेण वर्णानाम् अवेद्यावेदनेन च |  
   
-Manu10.24c/ svakarmaṇāṃ ca tyāgena jāyante) varṇasaṃkarāḥ ||  
+मनु१०।२४च्/ स्वकर्मणां च त्यागेन जायन्ते) वर्णसंकराः ||  
   
-Manu10.25a/ saṃkīrṇa.yonayo ye tu pratiloma.anuloma.jāḥ |  
+मनु१०।२५अ/ संकीर्ण।योनयो ये तु प्रतिलोम।अनुलोम।जाः |  
   
-Manu10.25c/ anyonyavyatiṣaktāś ca tān pravakṣyāmy) aśeṣataḥ ||  
+मनु१०।२५च्/ अन्योन्यव्यतिषक्ताश् च तान् प्रवक्ष्याम्य्) अशेषतः ||  
   
-Manu10.26a/ sūto vaidehakaś ca-eva caṇḍālaś ca narādhamaḥ |  
+मनु१०।२६अ/ सूतो वैदेहकश् च-एव चण्डालश् च नराधमः |  
   
-Manu10.26c/ māgadhaḥ  tathā-āyogava eva ca kṣatrajātiś ca || [M.kṣattṛjātiś ca]  
+मनु१०।२६च्/ मागधः  तथा-आयोगव एव च क्षत्रजातिश् च || [म्।क्षत्तृजातिश् च]  
   
-Manu10.27a/ ete ṣaṭ sadṛśān varṇāñ janayanti) svayoniṣu |  
+मनु१०।२७अ/ एते षट् सदृशान् वर्णाञ् जनयन्ति) स्वयोनिषु |  
   
-Manu10.27c/ mātṛjātyāṃ prasūyante) pravārāsu ca yoniṣu || [M.mātṛjātyāḥ ]  
+मनु१०।२७च्/ मातृजात्यां प्रसूयन्ते) प्रवारासु च योनिषु || [म्।मातृजात्याः ]  
   
-Manu10.28a/ yathā trayāṇāṃ varṇānāṃ dvayor ātmā-asya jāyate) |  
+मनु१०।२८अ/ यथा त्रयाणां वर्णानां द्वयोर् आत्मा-अस्य जायते) |  
   
-Manu10.28c/ ānantaryāt svayonyāṃ tu tathā bāhyeṣv api kramāt  || [M.kramaḥ]  
+मनु१०।२८च्/ आनन्तर्यात् स्वयोन्यां तु तथा बाह्येष्व् अपि क्रमात्  || [म्।क्रमः]  
   
-Manu10.29a/ te ca-api bāhyān subahūṃs tato 'apy adhikadūṣitān |  
+मनु१०।२९अ/ ते च-अपि बाह्यान् सुबहूंस् ततो ऽअप्य् अधिकदूषितान् |  
   
-Manu10.29c/ parasparasya dāreṣu janayanti) vigarhitān ||  
+मनु१०।२९च्/ परस्परस्य दारेषु जनयन्ति) विगर्हितान् ||  
   
-Manu10.30a/ yathā-eva śūdro brāhmaṇyāṃ bāhyaṃ jantuṃ prasūyate) |  
+मनु१०।३०अ/ यथा-एव शूद्रो ब्राह्मण्यां बाह्यं जन्तुं प्रसूयते) |  
   
-Manu10.30c/ tathā bāhyataraṃ bāhyaś cāturvarṇye prasūyate) ||  
+मनु१०।३०च्/ तथा बाह्यतरं बाह्यश् चातुर्वर्ण्ये प्रसूयते) ||  
   
-Manu10.31a/ pratikūlaṃ vartamānā) bāhyā bāhyatarān punaḥ |  
+मनु१०।३१अ/ प्रतिकूलं वर्तमाना) बाह्या बाह्यतरान् पुनः |  
   
-Manu10.31c/ hīnā hīnān prasūyante) varṇān pañcadaśa-eva tu ||  
+मनु१०।३१च्/ हीना हीनान् प्रसूयन्ते) वर्णान् पञ्चदश-एव तु ||  
   
   
   
-Manu10.32a/ prasādhana.upacārajñam adāsaṃ dāsajīvanam | [M.dāsyajīvinam ]  
+मनु१०।३२अ/ प्रसाधन।उपचारज्ञम् अदासं दासजीवनम् | [म्।दास्यजीविनम् ]  
   
-Manu10.32c/ sairindhraṃ vāgurā.vṛttiṃ sūte) dasyur ayogave || [M. sairandhraṃ ]  
+मनु१०।३२च्/ सैरिन्ध्रं वागुरा।वृत्तिं सूते) दस्युर् अयोगवे || [म्। सैरन्ध्रं ]  
   
-Manu10.33a/ maitreyakaṃ tu vaideho mādhūkaṃ saṃprasūyate) |   
+मनु१०।३३अ/ मैत्रेयकं तु वैदेहो माधूकं संप्रसूयते) |   
   
-Manu10.33c/ nqn praśaṃsaty) ajasraṃ yo ghaṇṭātāḍo 'aruṇa.udaye ||  
+मनु१०।३३च्/ न्क़्न् प्रशंसत्य्) अजस्रं यो घण्टाताडो ऽअरुण।उदये ||  
   
-Manu10.34a/ niṣādo mārgavaṃ sūte) dāsaṃ naukarmajīvinam |   
+मनु१०।३४अ/ निषादो मार्गवं सूते) दासं नौकर्मजीविनम् |   
   
-Manu10.34c/ kaivartam iti yaṃ prāhur) āryāvartanivāsinaḥ ||  
+मनु१०।३४च्/ कैवर्तम् इति यं प्राहुर्) आर्यावर्तनिवासिनः ||  
   
-Manu10.35a/ mṛtavastrabhṛtsv nārīṣu garhita.anna.aśanāsu ca |[M.anāryāṣu]  
+मनु१०।३५अ/ मृतवस्त्रभृत्स्व् नारीषु गर्हित।अन्न।अशनासु च |[म्।अनार्याषु]  
   
-Manu10.35c/ bhavanty) āyogavīṣv ete jātihīnāḥ pṛthak trayaḥ ||  
+मनु१०।३५च्/ भवन्त्य्) आयोगवीष्व् एते जातिहीनाः पृथक् त्रयः ||  
   
-Manu10.36a/ kārāvaro niṣādāt tu carmakāraḥ prasūyate) | [M.carmakāraṃ ]  
+मनु१०।३६अ/ कारावरो निषादात् तु चर्मकारः प्रसूयते) | [म्।चर्मकारं ]  
   
-Manu10.36c/ vaidehikād andhra.medau bahirgrāma.pratiśrayau ||  
+मनु१०।३६च्/ वैदेहिकाद् अन्ध्र।मेदौ बहिर्ग्राम।प्रतिश्रयौ ||  
   
-Manu10.37a/ caṇḍālāt pāṇḍusopākas tvaksāravyavahāravān |  
+मनु१०।३७अ/ चण्डालात् पाण्डुसोपाकस् त्वक्सारव्यवहारवान् |  
   
-Manu10.37c/ āhiṇḍiko niṣādena vaidehyām eva jāyate) ||  
+मनु१०।३७च्/ आहिण्डिको निषादेन वैदेह्याम् एव जायते) ||  
   
-Manu10.38a/ caṇḍālena tu sopāko mūlavyasanavṛttimān |  
+मनु१०।३८अ/ चण्डालेन तु सोपाको मूलव्यसनवृत्तिमान् |  
   
-Manu10.38c/ pukkasyāṃ jāyate) pāpaḥ sadā sajjanagarhitaḥ || [M.pulkasyāṃ ]  
+मनु१०।३८च्/ पुक्कस्यां जायते) पापः सदा सज्जनगर्हितः || [म्।पुल्कस्यां ]  
   
-Manu10.39a/ niṣādastrī tu caṇḍālāt putram antyāvasāyinam |  
+मनु१०।३९अ/ निषादस्त्री तु चण्डालात् पुत्रम् अन्त्यावसायिनम् |  
   
-Manu10.39c/ śmaśāna.gocaraṃ sūte) bāhyānām api garhitam ||  
+मनु१०।३९च्/ श्मशान।गोचरं सूते) बाह्यानाम् अपि गर्हितम् ||  
   
-Manu10.40a/ saṃkare jātayas tv etāḥ pitṛ.mātṛ.pradarśitāḥ |  
+मनु१०।४०अ/ संकरे जातयस् त्व् एताः पितृ।मातृ।प्रदर्शिताः |  
   
-Manu10.40c/ prachannā vā prakāśā vā veditavyāḥ svakarmabhiḥ ||  
+मनु१०।४०च्/ प्रछन्ना वा प्रकाशा वा वेदितव्याः स्वकर्मभिः ||  
   
-Manu10.41a/ svajātija.anantarajāḥ ṣaṭ sutā dvijadharmiṇaḥ |  
+मनु१०।४१अ/ स्वजातिज।अनन्तरजाः षट् सुता द्विजधर्मिणः |  
   
-Manu10.41c/ śūdrāṇāṃ tu sa.dharmāṇaḥ sarve 'apadhvaṃsajāḥ smṛtāḥ) ||  
+मनु१०।४१च्/ शूद्राणां तु स।धर्माणः सर्वे ऽअपध्वंसजाः स्मृताः) ||  
   
-Manu10.42a/ tapo.bīja.prabhāvais tu te gacchanti) yuge yuge |  
+मनु१०।४२अ/ तपो।बीज।प्रभावैस् तु ते गच्छन्ति) युगे युगे |  
   
-Manu10.42c/ utkarṣaṃ ca-apakarṣaṃ ca manuṣyeṣv iha janmataḥ ||  
+मनु१०।४२च्/ उत्कर्षं च-अपकर्षं च मनुष्येष्व् इह जन्मतः ||  
   
-Manu10.43a/ śanakais tu kriyālopād imāḥ kṣatriya.jātayaḥ |  
+मनु१०।४३अ/ शनकैस् तु क्रियालोपाद् इमाः क्षत्रिय।जातयः |  
   
-Manu10.43c/ vṛṣalatvaṃ gatā) loke brāhmaṇādarśanena ca || [M.brāhmaṇātikrameṇa ca]  
+मनु१०।४३च्/ वृषलत्वं गता) लोके ब्राह्मणादर्शनेन च || [म्।ब्राह्मणातिक्रमेण च]  
   
-Manu10.44a/ pauṇḍrakāś cauḍra.draviḍāḥ  kāmbojā yavanāḥ śakāḥ | [M.puṇḍrakāś coḍa.draviḍāḥ]  
+मनु१०।४४अ/ पौण्ड्रकाश् चौड्र।द्रविडाः  काम्बोजा यवनाः शकाः | [म्।पुण्ड्रकाश् चोड।द्रविडाः]  
   
-Manu10.44c/ pāradā.pahlavāś cīnāḥ kirātā daradāḥ khaśāḥ ||   
+मनु१०।४४च्/ पारदा।पह्लवाश् चीनाः किराता दरदाः खशाः ||   
   
-Manu10.45a/ mukha.bāhu.ūru.pad.jānāṃ yā loke jātayo bahiḥ |  
+मनु१०।४५अ/ मुख।बाहु।ऊरु।पद्।जानां या लोके जातयो बहिः |  
   
-Manu10.45c/ mleccha.vācaś ca-ārya.vācaḥ sarve te dasyavaḥ smṛtāḥ) ||  
+मनु१०।४५च्/ म्लेच्छ।वाचश् च-आर्य।वाचः सर्वे ते दस्यवः स्मृताः) ||  
   
-Manu10.46a/ ye dvijānām apasadā ye ca-apadhvaṃsajāḥ smṛtāḥ) |  
+मनु१०।४६अ/ ये द्विजानाम् अपसदा ये च-अपध्वंसजाः स्मृताः) |  
   
-Manu10.46c/ te ninditair vartayeyur) dvijānām eva karmabhiḥ ||  
+मनु१०।४६च्/ ते निन्दितैर् वर्तयेयुर्) द्विजानाम् एव कर्मभिः ||  
   
-Manu10.47a/ sūtānām aśva.sārathyam ambaṣṭhānāṃ cikitsanam |  
+मनु१०।४७अ/ सूतानाम् अश्व।सारथ्यम् अम्बष्ठानां चिकित्सनम् |  
   
-Manu10.47c/ vaidehakānāṃ strīkāryaṃ māgadhānāṃ vaṇikpathaḥ ||  
+मनु१०।४७च्/ वैदेहकानां स्त्रीकार्यं मागधानां वणिक्पथः ||  
   
-Manu10.48a/ matsyaghāto niṣādānāṃ tvaṣṭis tv āyogavasya ca |   
+मनु१०।४८अ/ मत्स्यघातो निषादानां त्वष्टिस् त्व् आयोगवस्य च |   
   
-Manu10.48c/ meda.andhra.cuñcu.madgūnām āraṇyapaśuhiṃsanam ||  
+मनु१०।४८च्/ मेद।अन्ध्र।चुञ्चु।मद्गूनाम् आरण्यपशुहिंसनम् ||  
   
-Manu10.49a/ kṣattṛ.ugra.pukkasānāṃ tu bilaukovadha.bandhanam |  
-Manu10.49c/ dhigvaṇānāṃ carmakāryaṃ veṇānāṃ bhāṇḍavādanam ||  
+मनु१०।४९अ/ क्षत्तृ।उग्र।पुक्कसानां तु बिलौकोवध।बन्धनम् |  
+मनु१०।४९च्/ धिग्वणानां चर्मकार्यं वेणानां भाण्डवादनम् ||  
   
-Manu10.50a/ caityadruma.śmaśāneṣu śaileṣu-upavaneṣu ca |  
+मनु१०।५०अ/ चैत्यद्रुम।श्मशानेषु शैलेषु-उपवनेषु च |  
   
-Manu10.50c/ vaseyur) ete vijñātā vartayantaḥ) svakarmabhiḥ ||  
+मनु१०।५०च्/ वसेयुर्) एते विज्ञाता वर्तयन्तः) स्वकर्मभिः ||  
   
-Manu10.51a/ caṇḍāla.śvapacānāṃ tu bahir grāmāt pratiśrayaḥ |  
+मनु१०।५१अ/ चण्डाल।श्वपचानां तु बहिर् ग्रामात् प्रतिश्रयः |  
   
-Manu10.51c/ apapātrāś ca kartavyā) dhanam eṣāṃ śva.gardabham ||  
+मनु१०।५१च्/ अपपात्राश् च कर्तव्या) धनम् एषां श्व।गर्दभम् ||  
   
-Manu10.52a/ vāsāṃsi mṛtacailāni bhinnabhāṇḍeṣu bhojanam |  
+मनु१०।५२अ/ वासांसि मृतचैलानि भिन्नभाण्डेषु भोजनम् |  
   
-Manu10.52c/ kārṣṇāyasam alaṅkāraḥ parivrajyā ca nityaśaḥ ||  
+मनु१०।५२च्/ कार्ष्णायसम् अलङ्कारः परिव्रज्या च नित्यशः ||  
   
-Manu10.53a/ na taiḥ samayam anvicchet) puruṣo dharmam ācaran) |  
+मनु१०।५३अ/ न तैः समयम् अन्विच्छेत्) पुरुषो धर्मम् आचरन्) |  
   
-Manu10.53c/ vyavahāro mithas teṣāṃ vivāhaḥ sadṛśaiḥ saha ||  
+मनु१०।५३च्/ व्यवहारो मिथस् तेषां विवाहः सदृशैः सह ||  
   
-Manu10.54a/ annam eṣāṃ parādhīnaṃ deyaṃ syād) bhinnabhājane |  
+मनु१०।५४अ/ अन्नम् एषां पराधीनं देयं स्याद्) भिन्नभाजने |  
   
-Manu10.54c/ rātrau na vicareyus) te grāmeṣu nagareṣu ca ||  
+मनु१०।५४च्/ रात्रौ न विचरेयुस्) ते ग्रामेषु नगरेषु च ||  
   
-Manu10.55a/ divā careyuḥ) kāryārthaṃ cihnitā rājaśāsanaiḥ |  
+मनु१०।५५अ/ दिवा चरेयुः) कार्यार्थं चिह्निता राजशासनैः |  
   
-Manu10.55c/ a.bāndhavaṃ śavaṃ ca-eva nirhareyur) iti sthitiḥ ||  
+मनु१०।५५च्/ अ।बान्धवं शवं च-एव निर्हरेयुर्) इति स्थितिः ||  
   
-Manu10.56a/ vadhyāṃś ca hanyuḥ) satataṃ yathāśāstraṃ nṛpājñayā |  
+मनु१०।५६अ/ वध्यांश् च हन्युः) सततं यथाशास्त्रं नृपाज्ञया |  
   
-Manu10.56c/ vadhyavāsāṃsi gṛhṇīyuḥ) śayyāś ca-ābharaṇāni ca ||  
+मनु१०।५६च्/ वध्यवासांसि गृह्णीयुः) शय्याश् च-आभरणानि च ||  
   
-Manu10.57a/ varṇāpetam avijñātaṃ naraṃ kaluṣayonijam |  
+मनु१०।५७अ/ वर्णापेतम् अविज्ञातं नरं कलुषयोनिजम् |  
   
-Manu10.57c/ ārya.rūpam iva-anāryaṃ karmabhiḥ svair vibhāvayet) ||  
+मनु१०।५७च्/ आर्य।रूपम् इव-अनार्यं कर्मभिः स्वैर् विभावयेत्) ||  
   
-Manu10.58a/ anāryatā niṣṭhuratā krūratā niṣkriyātmatā |  
+मनु१०।५८अ/ अनार्यता निष्ठुरता क्रूरता निष्क्रियात्मता |  
   
-Manu10.58c/ puruṣaṃ vyañjayanti)-iha loke kaluṣayonijam ||  
+मनु१०।५८च्/ पुरुषं व्यञ्जयन्ति)-इह लोके कलुषयोनिजम् ||  
   
-Manu10.59a/ pitryaṃ vā bhajate) śīlaṃ mātur vā-ubhayam eva vā |  
+मनु१०।५९अ/ पित्र्यं वा भजते) शीलं मातुर् वा-उभयम् एव वा |  
   
-Manu10.59c/ na kathaṃ cana duryoniḥ prakṛtiṃ svāṃ niyacchati) ||  
+मनु१०।५९च्/ न कथं चन दुर्योनिः प्रकृतिं स्वां नियच्छति) ||  
   
-Manu10.60a/ kule mukhye 'api jātasya yasya syād) yonisaṃkaraḥ |  
+मनु१०।६०अ/ कुले मुख्ये ऽअपि जातस्य यस्य स्याद्) योनिसंकरः |  
   
-Manu10.60c/ saṃśrayaty) eva tat.śīlaṃ naro 'alpam api vā bahu ||  
+मनु१०।६०च्/ संश्रयत्य्) एव तत्।शीलं नरो ऽअल्पम् अपि वा बहु ||  
   
-Manu10.61a/ yatra tv ete paridhvaṃsāj jāyante) varṇadūṣakāḥ |  
+मनु१०।६१अ/ यत्र त्व् एते परिध्वंसाज् जायन्ते) वर्णदूषकाः |  
   
-Manu10.61c/ rāṣṭrikaiḥ saha tad rāṣṭraṃ kṣipram eva vinaśyati) || [M.rāṣṭriyaiḥ ]  
+मनु१०।६१च्/ राष्ट्रिकैः सह तद् राष्ट्रं क्षिप्रम् एव विनश्यति) || [म्।राष्ट्रियैः ]  
   
-Manu10.62a/ brāhmaṇārthe gavārthe vā dehatyāgo 'an.upaskṛtaḥ |  
+मनु१०।६२अ/ ब्राह्मणार्थे गवार्थे वा देहत्यागो ऽअन्।उपस्कृतः |  
   
-Manu10.62c/ strī.bālābhyupapattau ca bāhyānāṃ siddhikāraṇam || [M.strī.bālābhyavapattau ca ]  
+मनु१०।६२च्/ स्त्री।बालाभ्युपपत्तौ च बाह्यानां सिद्धिकारणम् || [म्।स्त्री।बालाभ्यवपत्तौ च ]  
   
-Manu10.63a/ ahiṃsā satyam asteyaṃ śaucam indriyanigrahaḥ |  
+मनु१०।६३अ/ अहिंसा सत्यम् अस्तेयं शौचम् इन्द्रियनिग्रहः |  
   
-Manu10.63c/ etaṃ sāmāsikaṃ dharmaṃ cāturvarṇye 'abravīn) manuḥ ||  
+मनु१०।६३च्/ एतं सामासिकं धर्मं चातुर्वर्ण्ये ऽअब्रवीन्) मनुः ||  
   
   
   
-Manu10.64a/ śūdrāyāṃ brāhmaṇāj jātaḥ śreyasā cet prajāyate) |  
+मनु१०।६४अ/ शूद्रायां ब्राह्मणाज् जातः श्रेयसा चेत् प्रजायते) |  
   
-Manu10.64c/ aśreyān śreyasīṃ jātiṃ gacchaty) ā saptamād yugāt ||  
+मनु१०।६४च्/ अश्रेयान् श्रेयसीं जातिं गच्छत्य्) आ सप्तमाद् युगात् ||  
   
-Manu10.65a/ śūdro brāhmaṇatām eti) brāhmaṇaś ca-eti) śūdratām |  
+मनु१०।६५अ/ शूद्रो ब्राह्मणताम् एति) ब्राह्मणश् च-एति) शूद्रताम् |  
   
-Manu10.65c/ kṣatriyāj jātam evaṃ tu vidyād) vaiśyāt tathā-eva ca ||  
+मनु१०।६५च्/ क्षत्रियाज् जातम् एवं तु विद्याद्) वैश्यात् तथा-एव च ||  
   
-Manu10.66a/ anāryāyāṃ samutpanno brāhmaṇāt tu yadṛcchayā |  
+मनु१०।६६अ/ अनार्यायां समुत्पन्नो ब्राह्मणात् तु यदृच्छया |  
   
-Manu10.66c/ brāhmaṇyām apy anāryāt tu śreyastvaṃ kva-iti ced bhavet)|| [M.kasya cid bhavet) ]  
+मनु१०।६६च्/ ब्राह्मण्याम् अप्य् अनार्यात् तु श्रेयस्त्वं क्व-इति चेद् भवेत्)|| [म्।कस्य चिद् भवेत्) ]  
   
-Manu10.67a/ jāto nāryām anāryāyām āryād āryo bhaved) guṇaiḥ |  
+मनु१०।६७अ/ जातो नार्याम् अनार्यायाम् आर्याद् आर्यो भवेद्) गुणैः |  
   
-Manu10.67c/ jāto 'apy anāryād āryāyām anārya iti niścayaḥ ||  
+मनु१०।६७च्/ जातो ऽअप्य् अनार्याद् आर्यायाम् अनार्य इति निश्चयः ||  
   
-Manu10.68a/ tāv ubhāv apy asaṃskāryāv iti dharmo vyavasthitaḥ |  
+मनु१०।६८अ/ ताव् उभाव् अप्य् असंस्कार्याव् इति धर्मो व्यवस्थितः |  
   
-Manu10.68c/ vaiguṇyāj janmanaḥ pūrva uttaraḥ pratilomataḥ || [M.janmataḥ ]  
+मनु१०।६८च्/ वैगुण्याज् जन्मनः पूर्व उत्तरः प्रतिलोमतः || [म्।जन्मतः ]  
   
-Manu10.69a/ subījaṃ ca-eva sukṣetre jātaṃ saṃpadyate) yathā |  
+मनु१०।६९अ/ सुबीजं च-एव सुक्षेत्रे जातं संपद्यते) यथा |  
   
-Manu10.69c/ tathā-āryāj jāta āryāyāṃ sarvaṃ saṃskāram arhati) ||  
+मनु१०।६९च्/ तथा-आर्याज् जात आर्यायां सर्वं संस्कारम् अर्हति) ||  
   
-Manu10.70a/ bījam eke praśaṃsanti) kṣetram anye manīṣiṇaḥ |  
+मनु१०।७०अ/ बीजम् एके प्रशंसन्ति) क्षेत्रम् अन्ये मनीषिणः |  
   
-Manu10.70c/ bīja.kṣetre tathā-eva-anye tatra-iyaṃ tu vyavasthitiḥ ||  
+मनु१०।७०च्/ बीज।क्षेत्रे तथा-एव-अन्ये तत्र-इयं तु व्यवस्थितिः ||  
   
-Manu10.71a/ akṣetre bījam utsṛṣṭam antarā-eva vinaśyati) |  
+मनु१०।७१अ/ अक्षेत्रे बीजम् उत्सृष्टम् अन्तरा-एव विनश्यति) |  
   
-Manu10.71c/ a.bījakam api kṣetraṃ kevalaṃ sthaṇḍilaṃ bhavet) |  
+मनु१०।७१च्/ अ।बीजकम् अपि क्षेत्रं केवलं स्थण्डिलं भवेत्) |  
   
-Manu10.72a/ yasmād bījaprabhāveṇa tiryagjā ṛṣayo 'abhavan) |  
+मनु१०।७२अ/ यस्माद् बीजप्रभावेण तिर्यग्जा ऋषयो ऽअभवन्) |  
   
-Manu10.72c/ pūjitāś ca praśastāś ca tasmād bījaṃ praśasyate || [M.viśiṣyate)]  
+मनु१०।७२च्/ पूजिताश् च प्रशस्ताश् च तस्माद् बीजं प्रशस्यते || [म्।विशिष्यते)]  
   
-Manu10.73a/ anāryam ārya.karmāṇam āryaṃ ca-anāryakarmiṇam |  
+मनु१०।७३अ/ अनार्यम् आर्य।कर्माणम् आर्यं च-अनार्यकर्मिणम् |  
   
-Manu10.73c/ saṃpradhārya)-abravīd) dhātā na samau na-asamāv iti ||  
+मनु१०।७३च्/ संप्रधार्य)-अब्रवीद्) धाता न समौ न-असमाव् इति ||  
   
   
   
-Manu10.74a/ brāhmaṇā brahmayonisthā ye svakarmaṇy avasthitāḥ) |  
+मनु१०।७४अ/ ब्राह्मणा ब्रह्मयोनिस्था ये स्वकर्मण्य् अवस्थिताः) |  
   
-Manu10.74c/ te samyag upajīveyuḥ) ṣaṭ karmāṇi yathākramam ||  
+मनु१०।७४च्/ ते सम्यग् उपजीवेयुः) षट् कर्माणि यथाक्रमम् ||  
   
-Manu10.75a/ adhyāpanam adhyayanaṃ yajanaṃ yājanaṃ tathā |  
+मनु१०।७५अ/ अध्यापनम् अध्ययनं यजनं याजनं तथा |  
   
-Manu10.75c/ dānaṃ pratigrahaś ca-eva ṣaṭ karmāṇy agrajanmanaḥ ||  
+मनु१०।७५च्/ दानं प्रतिग्रहश् च-एव षट् कर्माण्य् अग्रजन्मनः ||  
   
-Manu10.76a/ ṣaṇṇāṃ tu karmaṇām asya trīṇi karmāṇi jīvikā |  
+मनु१०।७६अ/ षण्णां तु कर्मणाम् अस्य त्रीणि कर्माणि जीविका |  
   
-Manu10.76c/ yājana.adhyāpane ca-eva viśuddhāc ca pratigrahaḥ ||  
+मनु१०।७६च्/ याजन।अध्यापने च-एव विशुद्धाच् च प्रतिग्रहः ||  
   
-Manu10.77a/ trayo dharmā nivartante) brāhmaṇāt kṣatriyaṃ prati |  
+मनु१०।७७अ/ त्रयो धर्मा निवर्तन्ते) ब्राह्मणात् क्षत्रियं प्रति |  
   
-Manu10.77c/ adhyāpanaṃ yājanaṃ ca tṛtīyaś ca pratigrahaḥ ||  
+मनु१०।७७च्/ अध्यापनं याजनं च तृतीयश् च प्रतिग्रहः ||  
   
-Manu10.78a/ vaiśyaṃ prati tathā-eva-ete nivarterann) iti sthitiḥ |  
+मनु१०।७८अ/ वैश्यं प्रति तथा-एव-एते निवर्तेरन्न्) इति स्थितिः |  
   
-Manu10.78c/ na tau prati hi tān dharmān manur āha) prajāpatiḥ || [M. prati hitān dharmān ]  
+मनु१०।७८च्/ न तौ प्रति हि तान् धर्मान् मनुर् आह) प्रजापतिः || [म्। प्रति हितान् धर्मान् ]  
   
-Manu10.79a/ śastra.astrabhṛttvaṃ kṣatrasya vaṇik.paśu.kṛṣir viṣaḥ |  
+मनु१०।७९अ/ शस्त्र।अस्त्रभृत्त्वं क्षत्रस्य वणिक्।पशु।कृषिर् विषः |  
   
-Manu10.79c/ ājīvanārthaṃ dharmas tu dānam adhyayanaṃ yajiḥ ||  
+मनु१०।७९च्/ आजीवनार्थं धर्मस् तु दानम् अध्ययनं यजिः ||  
   
-Manu10.80a/ vedābhyāso brāhmaṇasya kṣatriyasya ca rakṣaṇam |  
+मनु१०।८०अ/ वेदाभ्यासो ब्राह्मणस्य क्षत्रियस्य च रक्षणम् |  
   
-Manu10.80c/ vārtākarma-eva vaiśyasya viśiṣṭāni svakarmasu ||  
+मनु१०।८०च्/ वार्ताकर्म-एव वैश्यस्य विशिष्टानि स्वकर्मसु ||  
   
   
   
-Manu10.81a/ a.jīvaṃs) tu yathā.uktena brāhmaṇaḥ svena karmaṇā |  
+मनु१०।८१अ/ अ।जीवंस्) तु यथा।उक्तेन ब्राह्मणः स्वेन कर्मणा |  
   
-Manu10.81c/ jīvet) kṣatriyadharmeṇa sa hy asya praty anantaraḥ ||  
+मनु१०।८१च्/ जीवेत्) क्षत्रियधर्मेण स ह्य् अस्य प्रत्य् अनन्तरः ||  
   
-Manu10.82a/ ubhābhyām apy a.jīvaṃs tu kathaṃ syād) iti ced bhavet) |  
+मनु१०।८२अ/ उभाभ्याम् अप्य् अ।जीवंस् तु कथं स्याद्) इति चेद् भवेत्) |  
   
-Manu10.82c/ kṛṣi.gorakṣam āsthāya) jīved) vaiśyasya jīvikām ||   
+मनु१०।८२च्/ कृषि।गोरक्षम् आस्थाय) जीवेद्) वैश्यस्य जीविकाम् ||   
   
-Manu10.83a/ vaiśyavṛttyā-api jīvaṃs) tu brāhmaṇaḥ ksatriyo 'api vā |  
+मनु१०।८३अ/ वैश्यवृत्त्या-अपि जीवंस्) तु ब्राह्मणः क्सत्रियो ऽअपि वा |  
   
-Manu10.83c/ hiṃsā.prāyāṃ parādhīnāṃ kṛṣiṃ yatnena varjayet) ||  
+मनु१०।८३च्/ हिंसा।प्रायां पराधीनां कृषिं यत्नेन वर्जयेत्) ||  
   
-Manu10.84a/ kṛṣiṃ sādhu-iti manyante) sā vṛttiḥ sadvigarhitāḥ |  
+मनु१०।८४अ/ कृषिं साधु-इति मन्यन्ते) सा वृत्तिः सद्विगर्हिताः |  
   
-Manu10.84c/ bhūmiṃ bhūmiśayāṃś ca-eva hanti) kāṣṭham ayo.mukham ||  
+मनु१०।८४च्/ भूमिं भूमिशयांश् च-एव हन्ति) काष्ठम् अयो।मुखम् ||  
   
-Manu10.85a/ idaṃ tu vṛttivaikalyāt tyajato) dharmanaipuṇaṃ |  
+मनु१०।८५अ/ इदं तु वृत्तिवैकल्यात् त्यजतो) धर्मनैपुणं |  
   
-Manu10.85c/ viś.paṇyam uddhṛta.uddhāraṃ vikreyaṃ) vittavardhanam ||  
+मनु१०।८५च्/ विश्।पण्यम् उद्धृत।उद्धारं विक्रेयं) वित्तवर्धनम् ||  
   
-Manu10.86a/ sarvān rasān apoheta) kṛtānnaṃ ca tilaiḥ saha |  
+मनु१०।८६अ/ सर्वान् रसान् अपोहेत) कृतान्नं च तिलैः सह |  
   
-Manu10.86c/ aśmano lavaṇaṃ ca-eva paśavo ye ca mānuṣāḥ ||  
+मनु१०।८६च्/ अश्मनो लवणं च-एव पशवो ये च मानुषाः ||  
   
-Manu10.87a/ sarvaṃ ca tāntavaṃ raktaṃ śāṇa.kṣauma.āvikāni ca |  
+मनु१०।८७अ/ सर्वं च तान्तवं रक्तं शाण।क्षौम।आविकानि च |  
   
-Manu10.87c/ api cet syur) araktāni phala.mūle tathā-oṣadhīḥ ||  
+मनु१०।८७च्/ अपि चेत् स्युर्) अरक्तानि फल।मूले तथा-ओषधीः ||  
   
-Manu10.88a/ apaḥ śastraṃ viṣaṃ māṃsaṃ somaṃ gandhāṃś ca sarvaśaḥ |  
+मनु१०।८८अ/ अपः शस्त्रं विषं मांसं सोमं गन्धांश् च सर्वशः |  
   
-Manu10.88c/ kṣīraṃ kṣaudraṃ dadhi ghṛtaṃ tailaṃ madhu guḍaṃ kuśān ||  
+मनु१०।८८च्/ क्षीरं क्षौद्रं दधि घृतं तैलं मधु गुडं कुशान् ||  
   
-Manu10.89a/ āraṇyāṃś ca paśūn sarvān daṃṣṭriṇaś ca vayāṃsi ca |  
+मनु१०।८९अ/ आरण्यांश् च पशून् सर्वान् दंष्ट्रिणश् च वयांसि च |  
   
-Manu10.89c/ madyaṃ nīliṃ ca lākṣāṃ ca sarvāṃś ca-eka.śaphāṃs tathā || [M.nīlīṃ ]  
+मनु१०।८९च्/ मद्यं नीलिं च लाक्षां च सर्वांश् च-एक।शफांस् तथा || [म्।नीलीं ]  
   
-Manu10.90a/ kāmam utpādya) kṛṣyāṃ tu svayam eva kṛṣīvalaḥ |  
+मनु१०।९०अ/ कामम् उत्पाद्य) कृष्यां तु स्वयम् एव कृषीवलः |  
   
-Manu10.90c/ vikrīṇīta) tilān-śūdrān dharmārtham acirasthitān || [M.tilān-śuddhān]  
-Manu10.91a/ bhojana.abhyañjanād dānād yad anyat kurute) tilaiḥ |  
+मनु१०।९०च्/ विक्रीणीत) तिलान्-शूद्रान् धर्मार्थम् अचिरस्थितान् || [म्।तिलान्-शुद्धान्]  
+मनु१०।९१अ/ भोजन।अभ्यञ्जनाद् दानाद् यद् अन्यत् कुरुते) तिलैः |  
   
-Manu10.91c/ kṛmibhūtaḥ śvaviṣṭhāyāṃ pitṛbhiḥ saha majjati) ||  
+मनु१०।९१च्/ कृमिभूतः श्वविष्ठायां पितृभिः सह मज्जति) ||  
   
-Manu10.92a/ sadyaḥ patati) māṃsena lākṣayā lavaṇena ca |  
+मनु१०।९२अ/ सद्यः पतति) मांसेन लाक्षया लवणेन च |  
   
-Manu10.92c/ tryaheṇa śūdro bhavati) brāhmaṇaḥ kṣīravikrayāt ||  
+मनु१०।९२च्/ त्र्यहेण शूद्रो भवति) ब्राह्मणः क्षीरविक्रयात् ||  
   
-Manu10.93a/ itareṣāṃ tu paṇyānāṃ vikrayād iha kāmataḥ |  
+मनु१०।९३अ/ इतरेषां तु पण्यानां विक्रयाद् इह कामतः |  
   
-Manu10.93c/ brāhmaṇaḥ saptarātreṇa vaiśyabhāvaṃ niyacchati) ||  
+मनु१०।९३च्/ ब्राह्मणः सप्तरात्रेण वैश्यभावं नियच्छति) ||  
   
-Manu10.94a/ rasā rasair nimātavyā) na tv eva lavaṇaṃ rasaiḥ |  
+मनु१०।९४अ/ रसा रसैर् निमातव्या) न त्व् एव लवणं रसैः |  
   
-Manu10.94c/ kṛtānnaṃ ca kṛtānnena  tilā dhānyena tatsamāḥ ||  
+मनु१०।९४च्/ कृतान्नं च कृतान्नेन  तिला धान्येन तत्समाः ||  
   
   
   
-Manu10.95a/ jīved) etena rājanyaḥ sarveṇa-apy anayaṃ gataḥ |  
+मनु१०।९५अ/ जीवेद्) एतेन राजन्यः सर्वेण-अप्य् अनयं गतः |  
   
-Manu10.95c/ na tv eva jyāyaṃsīṃ vṛttim abhimanyeta) karhi cit ||  
+मनु१०।९५च्/ न त्व् एव ज्यायंसीं वृत्तिम् अभिमन्येत) कर्हि चित् ||  
   
-Manu10.96a/ yo lobhād adhamo jātyā jīved) utkṛṣṭa.karmabhiḥ |  
+मनु१०।९६अ/ यो लोभाद् अधमो जात्या जीवेद्) उत्कृष्ट।कर्मभिः |  
   
-Manu10.96c/ taṃ rājā nirdhanaṃ kṛtvā) kṣipram eva pravāsayet) ||  
+मनु१०।९६च्/ तं राजा निर्धनं कृत्वा) क्षिप्रम् एव प्रवासयेत्) ||  
   
-Manu10.97a/ varaṃ svadharmo viguṇo na pārakyaḥ svanuṣṭhitaḥ | [M.viguṇaḥ paradharmāt svadhiṣṭhitāt ]  
+मनु१०।९७अ/ वरं स्वधर्मो विगुणो न पारक्यः स्वनुष्ठितः | [म्।विगुणः परधर्मात् स्वधिष्ठितात् ]  
   
-Manu10.97c/ paradharmeṇa jīvan) hi sadyaḥ patati) jātitaḥ ||  
+मनु१०।९७च्/ परधर्मेण जीवन्) हि सद्यः पतति) जातितः ||  
   
   
   
-Manu10.98a/ vaiśyo 'a.jīvan) svadharmeṇa śūdravṛttyā-api vartayet) |  
+मनु१०।९८अ/ वैश्यो ऽअ।जीवन्) स्वधर्मेण शूद्रवृत्त्या-अपि वर्तयेत्) |  
   
-Manu10.98c/ an.ācarann) a.kāryāṇi nivarteta) ca śaktimān ||  
+मनु१०।९८च्/ अन्।आचरन्न्) अ।कार्याणि निवर्तेत) च शक्तिमान् ||  
   
-Manu10.99a/ a.śaknuvaṃs tu śuśrūṣāṃ śūdraḥ kartuṃ) dvijanmanām |  
+मनु१०।९९अ/ अ।शक्नुवंस् तु शुश्रूषां शूद्रः कर्तुं) द्विजन्मनाम् |  
   
-Manu10.99c/ putra.dārātyayaṃ prāpto jīvet) kāruka.karmabhiḥ ||  
+मनु१०।९९च्/ पुत्र।दारात्ययं प्राप्तो जीवेत्) कारुक।कर्मभिः ||  
   
-Manu10.100a/ yaiḥ karmabhiḥ pracaritaiḥ śuśrūṣyante) dvijātayaḥ |  
+मनु१०।१००अ/ यैः कर्मभिः प्रचरितैः शुश्रूष्यन्ते) द्विजातयः |  
   
-Manu10.100c/ tāni kāruka.karmāṇi śilpāni vividhāni ca ||  
+मनु१०।१००च्/ तानि कारुक।कर्माणि शिल्पानि विविधानि च ||  
   
-Manu10.101a/ vaiśyavṛttim an.ātiṣṭhan) brāhmaṇaḥ sve pathi sthitaḥ |  
+मनु१०।१०१अ/ वैश्यवृत्तिम् अन्।आतिष्ठन्) ब्राह्मणः स्वे पथि स्थितः |  
   
-Manu10.101c/ avṛttikarṣitaḥ sīdann) imaṃ dharmaṃ samācaret) ||  
+मनु१०।१०१च्/ अवृत्तिकर्षितः सीदन्न्) इमं धर्मं समाचरेत्) ||  
   
-Manu10.102a/ sarvataḥ pratigṛhṇīyād) brāhmaṇas tv anayaṃ gataḥ |  
+मनु१०।१०२अ/ सर्वतः प्रतिगृह्णीयाद्) ब्राह्मणस् त्व् अनयं गतः |  
   
-Manu10.102c/ pavitraṃ duṣyati)-ity etad dharmato na-upapadyate) ||  
+मनु१०।१०२च्/ पवित्रं दुष्यति)-इत्य् एतद् धर्मतो न-उपपद्यते) ||  
   
-Manu10.103a/ na-adhyāpanād yājanād vā garhitād vā pratigrahāt |  
+मनु१०।१०३अ/ न-अध्यापनाद् याजनाद् वा गर्हिताद् वा प्रतिग्रहात् |  
   
-Manu10.103c/ doṣo bhavati) viprāṇāṃ jvalana.ambu.samā hi te ||  
+मनु१०।१०३च्/ दोषो भवति) विप्राणां ज्वलन।अम्बु।समा हि ते ||  
   
-Manu10.104a/ jīvitātyayam āpanno yo 'annam atti) tatas tataḥ |  
+मनु१०।१०४अ/ जीवितात्ययम् आपन्नो यो ऽअन्नम् अत्ति) ततस् ततः |  
   
-Manu10.104c/ ākāśam iva paṅkena na sa pāpena lipyate) ||  
+मनु१०।१०४च्/ आकाशम् इव पङ्केन न स पापेन लिप्यते) ||  
   
-Manu10.105a/ ajīgartaḥ sutaṃ hantum upāsarpad) bubhukṣitaḥ |  
+मनु१०।१०५अ/ अजीगर्तः सुतं हन्तुम् उपासर्पद्) बुभुक्षितः |  
   
-Manu10.105c/ na ca-ālipyata) pāpena kṣutpratīkāram ācaran) ||  
+मनु१०।१०५च्/ न च-आलिप्यत) पापेन क्षुत्प्रतीकारम् आचरन्) ||  
   
-Manu10.106a/ śvamāṃsam icchan) ārto 'attuṃ dharma.adharmavicakṣaṇaḥ |  
+मनु१०।१०६अ/ श्वमांसम् इच्छन्) आर्तो ऽअत्तुं धर्म।अधर्मविचक्षणः |  
   
-Manu10.106c/ prāṇānāṃ parirakṣārthaṃ vāmadevo na liptavān) ||  
+मनु१०।१०६च्/ प्राणानां परिरक्षार्थं वामदेवो न लिप्तवान्) ||  
   
-Manu10.107a/ bharadvājaḥ kṣudhārtas tu sa.putro vijane vane |  
+मनु१०।१०७अ/ भरद्वाजः क्षुधार्तस् तु स।पुत्रो विजने वने |  
   
-Manu10.107c/ bahvīr gāḥ pratijagrāha) vṛdhos takṣṇo mahātapāḥ ||  
+मनु१०।१०७च्/ बह्वीर् गाः प्रतिजग्राह) वृधोस् तक्ष्णो महातपाः ||  
   
-Manu10.108a/ kṣudhārtaś ca-attum abhyāgād) viśvāmitraḥ śvajāghanīm |  
+मनु१०।१०८अ/ क्षुधार्तश् च-अत्तुम् अभ्यागाद्) विश्वामित्रः श्वजाघनीम् |  
   
-Manu10.108c/ caṇḍālahastād ādāya) dharma.adharmavicakṣaṇaḥ ||  
+मनु१०।१०८च्/ चण्डालहस्ताद् आदाय) धर्म।अधर्मविचक्षणः ||  
   
-Manu10.109a/ pratigrahād yājanād vā tathā-eva-adhyāpanād api |  
+मनु१०।१०९अ/ प्रतिग्रहाद् याजनाद् वा तथा-एव-अध्यापनाद् अपि |  
   
-Manu10.109c/ pratigrahaḥ pratyavaraḥ pretya viprasya garhitaḥ ||  
+मनु१०।१०९च्/ प्रतिग्रहः प्रत्यवरः प्रेत्य विप्रस्य गर्हितः ||  
   
-Manu10.110a/ yājana.adhyāpane nityaṃ kriyete) saṃskṛta.ātmanām |  
+मनु१०।११०अ/ याजन।अध्यापने नित्यं क्रियेते) संस्कृत।आत्मनाम् |  
   
-Manu10.110c/ pratigrahas tu kriyate) śūdrād apy antya.janmanaḥ ||  
+मनु१०।११०च्/ प्रतिग्रहस् तु क्रियते) शूद्राद् अप्य् अन्त्य।जन्मनः ||  
   
-Manu10.111a/ japa.homair apaity) eno yājana.adhyāpanaiḥ kṛtam |  
+मनु१०।१११अ/ जप।होमैर् अपैत्य्) एनो याजन।अध्यापनैः कृतम् |  
   
-Manu10.111c/ pratigrahanimittaṃ tu tyāgena tapasā-eva ca ||  
+मनु१०।१११च्/ प्रतिग्रहनिमित्तं तु त्यागेन तपसा-एव च ||  
   
-Manu10.112a/ śila.uñcham apy ādadīta) vipro 'a.jīvan) yatas tataḥ |  
+मनु१०।११२अ/ शिल।उञ्छम् अप्य् आददीत) विप्रो ऽअ।जीवन्) यतस् ततः |  
   
-Manu10.112c/ pratigrahāt- śilaḥ śreyāṃs tato 'apy uñchaḥ praśasyate) ||   
+मनु१०।११२च्/ प्रतिग्रहात्- शिलः श्रेयांस् ततो ऽअप्य् उञ्छः प्रशस्यते) ||   
   
-Manu10.113a/ sīdadbhiḥ kupyam icchadbhir dhane vā pṛthivīpatiḥ | [M.dhanaṃ vā ]  
+मनु१०।११३अ/ सीदद्भिः कुप्यम् इच्छद्भिर् धने वा पृथिवीपतिः | [म्।धनं वा ]  
   
-Manu10.113c/ yācyaḥ syāt) snātakair viprair aditsaṃs tyāgam arhati) ||  
+मनु१०।११३च्/ याच्यः स्यात्) स्नातकैर् विप्रैर् अदित्संस् त्यागम् अर्हति) ||  
   
-Manu10.114a/ akṛtaṃ ca kṛtāt kṣetrād gaur ajāvikam eva ca |  
+मनु१०।११४अ/ अकृतं च कृतात् क्षेत्राद् गौर् अजाविकम् एव च |  
   
-Manu10.114c/ hiraṇyaṃ dhānyam annaṃ ca pūrvaṃ pūrvam adoṣavat ||  
+मनु१०।११४च्/ हिरण्यं धान्यम् अन्नं च पूर्वं पूर्वम् अदोषवत् ||  
   
-Manu10.115a/ sapta vittāgamā dharmyā dāyo lābhaḥ krayo jayaḥ |  
+मनु१०।११५अ/ सप्त वित्तागमा धर्म्या दायो लाभः क्रयो जयः |  
   
-Manu10.115c/ prayogaḥ karmayogaś ca satpratigraha eva ca ||  
+मनु१०।११५च्/ प्रयोगः कर्मयोगश् च सत्प्रतिग्रह एव च ||  
   
-Manu10.116a/ vidyā śilpaṃ bhṛtiḥ sevā gorakṣyaṃ vipaṇiḥ kṛṣiḥ |  
+मनु१०।११६अ/ विद्या शिल्पं भृतिः सेवा गोरक्ष्यं विपणिः कृषिः |  
   
-Manu10.116c/ dhṛtir bhaikṣaṃ kusīdaṃ ca daśa jīvanahetavaḥ ||  
+मनु१०।११६च्/ धृतिर् भैक्षं कुसीदं च दश जीवनहेतवः ||  
   
-Manu10.117a/ brāhmaṇaḥ kṣatriyo vā-api vṛddhiṃ na-eva prayojayet) |  
+मनु१०।११७अ/ ब्राह्मणः क्षत्रियो वा-अपि वृद्धिं न-एव प्रयोजयेत्) |  
   
-Manu10.117c/ kāmaṃ tu khalu dharmārthaṃ dadyāt) pāpīyase 'alpikām ||  
+मनु१०।११७च्/ कामं तु खलु धर्मार्थं दद्यात्) पापीयसे ऽअल्पिकाम् ||  
   
-Manu10.118a/ caturtham ādadāno) 'api kṣatriyo bhāgam āpadi |  
+मनु१०।११८अ/ चतुर्थम् आददानो) ऽअपि क्षत्रियो भागम् आपदि |  
   
-Manu10.118c/ prajā rakṣan) paraṃ śaktyā kilbiṣāt pratimucyate) ||  
+मनु१०।११८च्/ प्रजा रक्षन्) परं शक्त्या किल्बिषात् प्रतिमुच्यते) ||  
   
-Manu10.119a/ svadharmo vijayas tasya na-āhave syāt parāṅ.mukhaḥ |  
+मनु१०।११९अ/ स्वधर्मो विजयस् तस्य न-आहवे स्यात् पराङ्।मुखः |  
   
-Manu10.119c/ śastreṇa vaiśyān rakṣitvā) dharmyam āhārayed) balim || [M.vaiśyād rakṣitvā ]  
+मनु१०।११९च्/ शस्त्रेण वैश्यान् रक्षित्वा) धर्म्यम् आहारयेद्) बलिम् || [म्।वैश्याद् रक्षित्वा ]  
   
-Manu10.120a/ dhānye 'aṣṭamaṃ viśāṃ śulkaṃ viṃśaṃ kārṣāpaṇa.avaram |  
+मनु१०।१२०अ/ धान्ये ऽअष्टमं विशां शुल्कं विंशं कार्षापण।अवरम् |  
   
-Manu10.120c/ karma.upakaraṇāḥ śūdrāḥ kāravaḥ śilpinas tathā ||  
+मनु१०।१२०च्/ कर्म।उपकरणाः शूद्राः कारवः शिल्पिनस् तथा ||  
   
   
   
-Manu10.121a/ śūdras tu vṛttim ākāṅkṣan) kṣatram ārādhayed) yadi | [M.ārādhayed iti ]  
+मनु१०।१२१अ/ शूद्रस् तु वृत्तिम् आकाङ्क्षन्) क्षत्रम् आराधयेद्) यदि | [म्।आराधयेद् इति ]  
   
-Manu10.121c/ dhaninaṃ vā-apy upārādhya) vaiśyaṃ śūdro jijīviṣet) ||  
+मनु१०।१२१च्/ धनिनं वा-अप्य् उपाराध्य) वैश्यं शूद्रो जिजीविषेत्) ||  
   
-Manu10.122a/ svargārtham ubhayārthaṃ vā viprān ārādhayet) tu saḥ |  
+मनु१०।१२२अ/ स्वर्गार्थम् उभयार्थं वा विप्रान् आराधयेत्) तु सः |  
   
-Manu10.122c/ jātabrāhmaṇa.śabdasya sā hy asya kṛtakṛtyatā ||  
+मनु१०।१२२च्/ जातब्राह्मण।शब्दस्य सा ह्य् अस्य कृतकृत्यता ||  
   
-Manu10.123a/ viprasevā-eva śūdrasya viśiṣṭaṃ karma kīrtyate) |  
+मनु१०।१२३अ/ विप्रसेवा-एव शूद्रस्य विशिष्टं कर्म कीर्त्यते) |  
   
-Manu10.123c/ yad ato 'anyadd hi kurute) tad bhavaty) asya niṣphalam ||  
+मनु१०।१२३च्/ यद् अतो ऽअन्यद्द् हि कुरुते) तद् भवत्य्) अस्य निष्फलम् ||  
   
-Manu10.124a/ prakalpyā tasya tair vṛttiḥ svakuṭumbād yathārhataḥ |  
+मनु१०।१२४अ/ प्रकल्प्या तस्य तैर् वृत्तिः स्वकुटुम्बाद् यथार्हतः |  
   
-Manu10.124c/ śaktiṃ ca-avekṣya) dākṣyaṃ ca bhṛtyānāṃ ca parigraham ||  
+मनु१०।१२४च्/ शक्तिं च-अवेक्ष्य) दाक्ष्यं च भृत्यानां च परिग्रहम् ||  
   
-Manu10.125a/ ucchiṣṭam annaṃ dātavyaṃ jīrṇāni vasanāni ca |  
+मनु१०।१२५अ/ उच्छिष्टम् अन्नं दातव्यं जीर्णानि वसनानि च |  
   
-Manu10.125c/ pulākāś ca-eva dhānyānāṃ jīrṇāś ca-eva paricchadāḥ ||  
+मनु१०।१२५च्/ पुलाकाश् च-एव धान्यानां जीर्णाश् च-एव परिच्छदाः ||  
   
-Manu10.126a/ na śūdre pātakaṃ kiṃ cin na ca saṃskāram arhati) |  
+मनु१०।१२६अ/ न शूद्रे पातकं किं चिन् न च संस्कारम् अर्हति) |  
   
-Manu10.126c/ na-asya-adhikāro dharme 'asti) na dharmāt pratiṣedhanam ||  
+मनु१०।१२६च्/ न-अस्य-अधिकारो धर्मे ऽअस्ति) न धर्मात् प्रतिषेधनम् ||  
   
-Manu10.127a/ dharma.ipsavas tu dharmajñāḥ satāṃ vṛttam anuṣṭhitāḥ) | [M.satāṃ dharmam ]  
+मनु१०।१२७अ/ धर्म।इप्सवस् तु धर्मज्ञाः सतां वृत्तम् अनुष्ठिताः) | [म्।सतां धर्मम् ]  
   
-Manu10.127c/ mantravarjyaṃ na duṣyanti) praśaṃsāṃ prāpnuvanti) ca || [M.mantravarjaṃ ]  
+मनु१०।१२७च्/ मन्त्रवर्ज्यं न दुष्यन्ति) प्रशंसां प्राप्नुवन्ति) च || [म्।मन्त्रवर्जं ]  
   
-Manu10.128a/ yathā yathā hi sadvṛttam ātiṣṭhaty) anasūyakaḥ |  
+मनु१०।१२८अ/ यथा यथा हि सद्वृत्तम् आतिष्ठत्य्) अनसूयकः |  
   
-Manu10.128c/ tathā tathā-imaṃ ca-amuṃ ca lokaṃ prāpnoty) aninditaḥ ||  
+मनु१०।१२८च्/ तथा तथा-इमं च-अमुं च लोकं प्राप्नोत्य्) अनिन्दितः ||  
   
-Manu10.129a/ śaktena-api hi śūdreṇa na kāryo) dhanasaṃcayaḥ |  
+मनु१०।१२९अ/ शक्तेन-अपि हि शूद्रेण न कार्यो) धनसंचयः |  
   
-Manu10.129c/ śūdro hi dhanam āsādya) brāhmaṇān eva bādhate) ||  
+मनु१०।१२९च्/ शूद्रो हि धनम् आसाद्य) ब्राह्मणान् एव बाधते) ||  
   
-Manu10.130a/ ete caturṇāṃ varṇānām āpaddharmāḥ prakīrtitāḥ) |  
+मनु१०।१३०अ/ एते चतुर्णां वर्णानाम् आपद्धर्माः प्रकीर्तिताः) |  
   
-Manu10.130c/ yān samyag anutiṣṭhanto) vrajanti) paramaṃ gatim ||  
+मनु१०।१३०च्/ यान् सम्यग् अनुतिष्ठन्तो) व्रजन्ति) परमं गतिम् ||  
   
-Manu10.131a/ eṣa dharmavidhiḥ kṛtsnaś cāturvarṇyasya kīrtitaḥ) |  
+मनु१०।१३१अ/ एष धर्मविधिः कृत्स्नश् चातुर्वर्ण्यस्य कीर्तितः) |  
   
-Manu10.131c/ ataḥ paraṃ pravakṣyāmi) prāyaścittavidhiṃ śubham ||  
+मनु१०।१३१च्/ अतः परं प्रवक्ष्यामि) प्रायश्चित्तविधिं शुभम् ||  
   
   
   
@@ -9476,1091 +9468,1091 @@ Manu10.131c/ ataḥ paraṃ pravakṣyāmi) prāyaścittavidhiṃ śubham ||
   
   
   
-Manu11.01a/ sāntānikaṃ yakṣyamāṇam adhvagaṃ sārvavedasam |  
+मनु११।०१अ/ सान्तानिकं यक्ष्यमाणम् अध्वगं सार्ववेदसम् |  
   
-Manu11.01c/ guru.arthaṃ pitṛ.mātṛ.arthaṃ svādhyāyārthy upatāpinaḥ ||  
+मनु११।०१च्/ गुरु।अर्थं पितृ।मातृ।अर्थं स्वाध्यायार्थ्य् उपतापिनः ||  
   
-Manu11.02a/ na vai tān snātakān vidyād) brāhmaṇān dharmabhikṣukān |  
+मनु११।०२अ/ न वै तान् स्नातकान् विद्याद्) ब्राह्मणान् धर्मभिक्षुकान् |  
   
-Manu11.02c/ niḥsvebhyo deyam) etebhyo dānaṃ vidyāviśeṣataḥ ||  
+मनु११।०२च्/ निःस्वेभ्यो देयम्) एतेभ्यो दानं विद्याविशेषतः ||  
   
-Manu11.03a/ etebhyo hi dvijāgryebhyo deyam annaṃ sa.dakṣiṇam |   
+मनु११।०३अ/ एतेभ्यो हि द्विजाग्र्येभ्यो देयम् अन्नं स।दक्षिणम् |   
   
-Manu11.03c/ itarebhyo bahirvedi kṛtānnaṃ deyam ucyate) ||  
+मनु११।०३च्/ इतरेभ्यो बहिर्वेदि कृतान्नं देयम् उच्यते) ||  
   
-Manu11.04a/ sarvaratnāni rājā tu yathārhaṃ pratipādayet) |  
+मनु११।०४अ/ सर्वरत्नानि राजा तु यथार्हं प्रतिपादयेत्) |  
   
-Manu11.04c/ brāhmaṇān vedaviduṣo yajñārthaṃ ca-eva dakṣiṇām ||  
+मनु११।०४च्/ ब्राह्मणान् वेदविदुषो यज्ञार्थं च-एव दक्षिणाम् ||  
   
-Manu11.05a/ kṛta.dāro 'aparān dārān bhikṣitvā) yo 'adhigacchati) |  
-Manu11.05c/ rati.mātraṃ phalaṃ tasya dravyadātus tu saṃtatiḥ ||  
+मनु११।०५अ/ कृत।दारो ऽअपरान् दारान् भिक्षित्वा) यो ऽअधिगच्छति) |  
+मनु११।०५च्/ रति।मात्रं फलं तस्य द्रव्यदातुस् तु संततिः ||  
   
-Manu11.06a/ dhanāni tu yathāśakti vipreṣu pratipādayet) / [not in ṃ]  
+मनु११।०६अ/ धनानि तु यथाशक्ति विप्रेषु प्रतिपादयेत्) / [नोत् इन् ं]  
   
-Manu11.06c/ vedavitsu vivikteṣu pretya svargaṃ samaśnute) // [not in ṃ]  
+मनु११।०६च्/ वेदवित्सु विविक्तेषु प्रेत्य स्वर्गं समश्नुते) // [नोत् इन् ं]  
   
-Manu11.07a[06ṃa]/ yasya traivārṣikaṃ bhaktaṃ paryāptaṃ bhṛtyavṛttaye |  
+मनु११।०७अ[०६ंअ]/ यस्य त्रैवार्षिकं भक्तं पर्याप्तं भृत्यवृत्तये |  
   
-Manu11.07c[06ṃc]/ adhikaṃ vā-api vidyeta) sa somaṃ pātum arhati) ||  
+मनु११।०७च्[०६ंच्]/ अधिकं वा-अपि विद्येत) स सोमं पातुम् अर्हति) ||  
   
-Manu11.08a[07ṃa]/ ataḥ svalpīyasi dravye yaḥ somaṃ pibati) dvijaḥ |  
+मनु११।०८अ[०७ंअ]/ अतः स्वल्पीयसि द्रव्ये यः सोमं पिबति) द्विजः |  
   
-Manu11.08c[07ṃc]/ sa pītasoma.pūrvo 'api na tasya-āpnoti) tatphalam ||  
+मनु११।०८च्[०७ंच्]/ स पीतसोम।पूर्वो ऽअपि न तस्य-आप्नोति) तत्फलम् ||  
   
-Manu11.09a[08ṃa]/ śaktaḥ parajane dātā svajane duḥkhajīvini |  
+मनु११।०९अ[०८ंअ]/ शक्तः परजने दाता स्वजने दुःखजीविनि |  
   
-Manu11.09c[08ṃc]/ madhv.āpāto viṣa.āsvādaḥ sa dharma.pratirūpakaḥ ||  
+मनु११।०९च्[०८ंच्]/ मध्व्।आपातो विष।आस्वादः स धर्म।प्रतिरूपकः ||  
   
-Manu11.10a[09ṃa]/ bhṛtyānām uparodhena yat karoty) aurdhvadehikam |  
+मनु११।१०अ[०९ंअ]/ भृत्यानाम् उपरोधेन यत् करोत्य्) और्ध्वदेहिकम् |  
   
-Manu11.10c[09ṃc]/ tad bhavaty) asukha.udarkaṃ jīvataś ca mṛtasya ca ||  
+मनु११।१०च्[०९ंच्]/ तद् भवत्य्) असुख।उदर्कं जीवतश् च मृतस्य च ||  
   
-Manu11.11a[10ṃa]/ yajñaś cet pratiruddhaḥ syād) ekena-aṅgena yajvanaḥ |  
+मनु११।११अ[१०ंअ]/ यज्ञश् चेत् प्रतिरुद्धः स्याद्) एकेन-अङ्गेन यज्वनः |  
   
-Manu11.11c[10ṃc]/ brāhmaṇasya viśeṣena dhārmike sati) rājani ||  
+मनु११।११च्[१०ंच्]/ ब्राह्मणस्य विशेषेन धार्मिके सति) राजनि ||  
   
-Manu11.12a[11ṃa]/ yo vaiśyaḥ syād) bahupaśur hīna.kratur asomapaḥ |  
+मनु११।१२अ[११ंअ]/ यो वैश्यः स्याद्) बहुपशुर् हीन।क्रतुर् असोमपः |  
   
-Manu11.12c[11ṃc]/ kuṭumbāt tasya tad dravyam āhared) yajñasiddhaye ||  
+मनु११।१२च्[११ंच्]/ कुटुम्बात् तस्य तद् द्रव्यम् आहरेद्) यज्ञसिद्धये ||  
   
-Manu11.13a[12ṃa]/ āharet) trīṇi vā dve vā kāmaṃ śūdrasya veśmanaḥ |  
+मनु११।१३अ[१२ंअ]/ आहरेत्) त्रीणि वा द्वे वा कामं शूद्रस्य वेश्मनः |  
   
-Manu11.13c[12ṃc]/ na hi śūdrasya yajñeṣu kaś cid asti) parigrahaḥ ||  
+मनु११।१३च्[१२ंच्]/ न हि शूद्रस्य यज्ञेषु कश् चिद् अस्ति) परिग्रहः ||  
   
-Manu11.14a[13ṃa]/ yo 'anāhita.agniḥ śatagur a.yajvā ca sahasraguḥ | [K:ayajñaś ]  
+मनु११।१४अ[१३ंअ]/ यो ऽअनाहित।अग्निः शतगुर् अ।यज्वा च सहस्रगुः | [क्:अयज्ञश् ]  
   
-Manu11.14c[13ṃc]/ tayor api kuṭumbābhyām āhared) a.vicārayan ||  
-Manu11.15a[14ṃa]/ ādāna.nityāc ca-ādātur āhared) a.prayacchataḥ) |  
+मनु११।१४च्[१३ंच्]/ तयोर् अपि कुटुम्बाभ्याम् आहरेद्) अ।विचारयन् ||  
+मनु११।१५अ[१४ंअ]/ आदान।नित्याच् च-आदातुर् आहरेद्) अ।प्रयच्छतः) |  
   
-Manu11.15c[14ṃc]/ tathā yaśo 'asya prathate dharmaś ca-eva pravardhate) ||  
+मनु११।१५च्[१४ंच्]/ तथा यशो ऽअस्य प्रथते धर्मश् च-एव प्रवर्धते) ||  
   
-Manu11.16a[15ṃa]/ tathāa-eva saptame bhakte bhaktāni ṣaḍ an.aśnatā |  
+मनु११।१६अ[१५ंअ]/ तथाअ-एव सप्तमे भक्ते भक्तानि षड् अन्।अश्नता |  
   
-Manu11.16c[15ṃc]/ aśvastanavidhānena hartavyaṃ) hīna.karmaṇaḥ ||  
+मनु११।१६च्[१५ंच्]/ अश्वस्तनविधानेन हर्तव्यं) हीन।कर्मणः ||  
   
-Manu11.17a[16ṃa]/ khalāt kṣetrād agārād vā yato vā-apy upalabhyate) |  
+मनु११।१७अ[१६ंअ]/ खलात् क्षेत्राद् अगाराद् वा यतो वा-अप्य् उपलभ्यते) |  
   
-Manu11.17c[16ṃc]/ ākhyātavyaṃ) tu tat tasmai pṛcchate) yadi pṛcchati) ||  
+मनु११।१७च्[१६ंच्]/ आख्यातव्यं) तु तत् तस्मै पृच्छते) यदि पृच्छति) ||  
   
-Manu11.18a[17ṃa]/ brāhmaṇasvaṃ na hartavyaṃ) kṣatriyeṇa kadā cana |  
+मनु११।१८अ[१७ंअ]/ ब्राह्मणस्वं न हर्तव्यं) क्षत्रियेण कदा चन |  
   
-Manu11.18c[17ṃc]/ dasyu.niṣkriyayos tu svam a.jīvan hartum arhati) ||  
+मनु११।१८च्[१७ंच्]/ दस्यु।निष्क्रिययोस् तु स्वम् अ।जीवन् हर्तुम् अर्हति) ||  
   
-Manu11.19a[18ṃa]/ yo 'asādhubhyo 'artham ādāya) sādhubhyaḥ saṃprayacchati) |  
+मनु११।१९अ[१८ंअ]/ यो ऽअसाधुभ्यो ऽअर्थम् आदाय) साधुभ्यः संप्रयच्छति) |  
   
-Manu11.19c[18ṃc]/ sa kṛtvā) plavam ātmānaṃ saṃtārayati) tāv ubhau ||  
+मनु११।१९च्[१८ंच्]/ स कृत्वा) प्लवम् आत्मानं संतारयति) ताव् उभौ ||  
   
-Manu11.20a[19ṃa]/ yad dhanaṃ yajñaśīlānāṃ devasvaṃ tad vidur) budhāḥ |  
+मनु११।२०अ[१९ंअ]/ यद् धनं यज्ञशीलानां देवस्वं तद् विदुर्) बुधाः |  
   
-Manu11.20c[19ṃc]/ a.yajvanāṃ tu yad vittam āsurasvaṃ tad ucyate) ||  
+मनु११।२०च्[१९ंच्]/ अ।यज्वनां तु यद् वित्तम् आसुरस्वं तद् उच्यते) ||  
   
-Manu11.21a[20ṃa]/ na tasmin dhārayed) daṇḍaṃ dhārmikaḥ pṛthivīpatiḥ |  
+मनु११।२१अ[२०ंअ]/ न तस्मिन् धारयेद्) दण्डं धार्मिकः पृथिवीपतिः |  
   
-Manu11.21c[20ṃc]/ kṣatriyasya hi bāliśyād brāhmaṇaḥ sīdati) kṣudhā ||  
+मनु११।२१च्[२०ंच्]/ क्षत्रियस्य हि बालिश्याद् ब्राह्मणः सीदति) क्षुधा ||  
   
-Manu11.22a[21ṃa]/ tasya bhṛtyajanaṃ jñātvā) svakuṭumbān mahīpatiḥ |  
+मनु११।२२अ[२१ंअ]/ तस्य भृत्यजनं ज्ञात्वा) स्वकुटुम्बान् महीपतिः |  
   
-Manu11.22c[21ṃc]/ śruta.śīle ca vijñāya) vṛttiṃ dharmyāṃ prakalpayet) ||  
+मनु११।२२च्[२१ंच्]/ श्रुत।शीले च विज्ञाय) वृत्तिं धर्म्यां प्रकल्पयेत्) ||  
   
-Manu11.23a[22ṃa]/ kalpayitvā)-asya vṛttiṃ ca rakṣed) enaṃ samantataḥ |  
+मनु११।२३अ[२२ंअ]/ कल्पयित्वा)-अस्य वृत्तिं च रक्षेद्) एनं समन्ततः |  
   
-Manu11.23c[22ṃc]/ rājā hi dharmaṣaḍbhāgaṃ tasmāt prāpnoti) rakṣitāt ||  
+मनु११।२३च्[२२ंच्]/ राजा हि धर्मषड्भागं तस्मात् प्राप्नोति) रक्षितात् ||  
   
-Manu11.24a[23ṃa]/ na yajñārthaṃ dhanaṃ śūdrād vipro bhikṣeta) karhi cit |  
+मनु११।२४अ[२३ंअ]/ न यज्ञार्थं धनं शूद्राद् विप्रो भिक्षेत) कर्हि चित् |  
   
-Manu11.24c[23ṃc]/ yajamāno hi bhikṣitvā) caṇḍālaḥ pretya jāyate) ||  
+मनु११।२४च्[२३ंच्]/ यजमानो हि भिक्षित्वा) चण्डालः प्रेत्य जायते) ||  
   
-Manu11.25a[24ṃa]/ yājñārtham arthaṃ bhikṣitvā) yo na sarvaṃ prayacchati) |  
+मनु११।२५अ[२४ंअ]/ याज्ञार्थम् अर्थं भिक्षित्वा) यो न सर्वं प्रयच्छति) |  
   
-Manu11.25c[24ṃc]/ sa yāti) bhāsatāṃ vipraḥ kākatāṃ vā śataṃ samāḥ ||  
+मनु११।२५च्[२४ंच्]/ स याति) भासतां विप्रः काकतां वा शतं समाः ||  
   
-Manu11.26a[25ṃa]/ devasvaṃ brāhmaṇasvaṃ vā lobhena-upahinasti) yaḥ |  
+मनु११।२६अ[२५ंअ]/ देवस्वं ब्राह्मणस्वं वा लोभेन-उपहिनस्ति) यः |  
   
-Manu11.26c[25ṃc]/ sa pāpa.ātmā pare loke gṛdhra.ucchiṣṭena jīvati) ||  
+मनु११।२६च्[२५ंच्]/ स पाप।आत्मा परे लोके गृध्र।उच्छिष्टेन जीवति) ||  
   
-Manu11.27a[26ṃa]/ iṣṭiṃ vaiśvānarīṃ nityaṃ nirvaped) abdaparyaye |  
+मनु११।२७अ[२६ंअ]/ इष्टिं वैश्वानरीं नित्यं निर्वपेद्) अब्दपर्यये |  
   
-Manu11.27c[26ṃc]/ kḷptānāṃ paśu.somānāṃ niṣkṛtyartham asaṃbhave ||  
+मनु११।२७च्[२६ंच्]/ कॢप्तानां पशु।सोमानां निष्कृत्यर्थम् असंभवे ||  
   
-Manu11.28a[27ṃa]/ āpatkalpena yo dharmaṃ kurute) 'anāpadi dvijaḥ |  
+मनु११।२८अ[२७ंअ]/ आपत्कल्पेन यो धर्मं कुरुते) ऽअनापदि द्विजः |  
   
-Manu11.28c[27ṃc]/ sa na-āpnoti) phalaṃ tasya paratra-iti vicāritam ||  
+मनु११।२८च्[२७ंच्]/ स न-आप्नोति) फलं तस्य परत्र-इति विचारितम् ||  
   
-Manu11.29a[28ṃa]/ viśvaiś ca devaiḥ sādhyaiś ca brāhmaṇaiś ca maharṣibhiḥ |   
+मनु११।२९अ[२८ंअ]/ विश्वैश् च देवैः साध्यैश् च ब्राह्मणैश् च महर्षिभिः |   
   
-Manu11.29c[28ṃc]/ āpatsu maraṇād bhītair vidheḥ pratinidhiḥ kṛtaḥ) ||  
+मनु११।२९च्[२८ंच्]/ आपत्सु मरणाद् भीतैर् विधेः प्रतिनिधिः कृतः) ||  
   
-Manu11.30a[29ṃa]/ prabhuḥ prathamakalpasya yo 'anukalpena vartate) |  
+मनु११।३०अ[२९ंअ]/ प्रभुः प्रथमकल्पस्य यो ऽअनुकल्पेन वर्तते) |  
   
-Manu11.30c[29ṃc]/ na sāṃparāyikaṃ tasya dur.mater vidyate) phalam ||  
+मनु११।३०च्[२९ंच्]/ न सांपरायिकं तस्य दुर्।मतेर् विद्यते) फलम् ||  
   
   
   
-Manu11.31a[30ṃa]/ na brāhmaṇo vedayeta) kiṃ cid rājani dharmavit |  
+मनु११।३१अ[३०ंअ]/ न ब्राह्मणो वेदयेत) किं चिद् राजनि धर्मवित् |  
   
-Manu11.31c[30ṃc]/ svavīryeṇa-eva tān-śiṣyān mānavān apakāriṇaḥ ||  
+मनु११।३१च्[३०ंच्]/ स्ववीर्येण-एव तान्-शिष्यान् मानवान् अपकारिणः ||  
   
-Manu11.32a[31ṃa]/ svavīryād rājavīryāc ca svavīryaṃ balavattaram |  
+मनु११।३२अ[३१ंअ]/ स्ववीर्याद् राजवीर्याच् च स्ववीर्यं बलवत्तरम् |  
   
-Manu11.32c[31ṃc]/ tasmāt svena-eva vīryeṇa nigṛhṇīyād) arīn dvijaḥ ||  
+मनु११।३२च्[३१ंच्]/ तस्मात् स्वेन-एव वीर्येण निगृह्णीयाद्) अरीन् द्विजः ||  
   
-Manu11.33a[32ṃa]/ śrutīr atharvāṅgirasīḥ kuryād) ity a.vicārayan |  
+मनु११।३३अ[३२ंअ]/ श्रुतीर् अथर्वाङ्गिरसीः कुर्याद्) इत्य् अ।विचारयन् |  
   
-Manu11.33c[32ṃc]/ vākśastraṃ vai brāhmaṇasya tena hanyād) arīn dvijaḥ ||  
+मनु११।३३च्[३२ंच्]/ वाक्शस्त्रं वै ब्राह्मणस्य तेन हन्याद्) अरीन् द्विजः ||  
   
-Manu11.34a[33ṃa]/ kṣatriyo bāhuvīryeṇa tared) āpadam ātmanaḥ |  
+मनु११।३४अ[३३ंअ]/ क्षत्रियो बाहुवीर्येण तरेद्) आपदम् आत्मनः |  
   
-Manu11.34c[33ṃc]/ dhanena vaiśya.śūdrau tu japa.homair dvijottamaḥ ||  
+मनु११।३४च्[३३ंच्]/ धनेन वैश्य।शूद्रौ तु जप।होमैर् द्विजोत्तमः ||  
   
-Manu11.35a[34ṃa]/ vidhātā śāsitā vaktā maitro brāhmaṇa ucyate) |  
+मनु११।३५अ[३४ंअ]/ विधाता शासिता वक्ता मैत्रो ब्राह्मण उच्यते) |  
   
-Manu11.35c[34ṃc]/ tasmai na-akuśalaṃ brūyān) na śuṣkāṃ giram īrayet) ||  
+मनु११।३५च्[३४ंच्]/ तस्मै न-अकुशलं ब्रूयान्) न शुष्कां गिरम् ईरयेत्) ||  
   
   
   
-Manu11.36a[35ṃa]/ na vai kanyā na yuvatir na-alpa.vidyo na bāliśaḥ |  
+मनु११।३६अ[३५ंअ]/ न वै कन्या न युवतिर् न-अल्प।विद्यो न बालिशः |  
   
-Manu11.36c[35ṃc]/ hotā syād agnihotrasya na-ārto na-asaṃskṛtas tathā ||  
+मनु११।३६च्[३५ंच्]/ होता स्याद् अग्निहोत्रस्य न-आर्तो न-असंस्कृतस् तथा ||  
   
-Manu11.37a[36ṃa]/ narake hi patanty) ete juhvantaḥ sa ca yasya tat | [M.juhvataḥ ]  
+मनु११।३७अ[३६ंअ]/ नरके हि पतन्त्य्) एते जुह्वन्तः स च यस्य तत् | [म्।जुह्वतः ]  
   
-Manu11.37c[36ṃc]/ tasmād vaitānakuśalo hotā syād) vedapāragaḥ ||  
+मनु११।३७च्[३६ंच्]/ तस्माद् वैतानकुशलो होता स्याद्) वेदपारगः ||  
   
-Manu11.38a[37ṃa]/ prājāpatyam a.dattvā)-aśvam agnyādheyasya dakṣiṇām |  
+मनु११।३८अ[३७ंअ]/ प्राजापत्यम् अ।दत्त्वा)-अश्वम् अग्न्याधेयस्य दक्षिणाम् |  
   
-Manu11.38c[37ṃc]/ anāhitāgnir bhavati) brāhmaṇo vibhave sati ||  
+मनु११।३८च्[३७ंच्]/ अनाहिताग्निर् भवति) ब्राह्मणो विभवे सति ||  
   
-Manu11.39a[38ṃa]/ puṇyāny anyāni kurvīta) śraddadhāno) jita.indriyaḥ |  
+मनु११।३९अ[३८ंअ]/ पुण्यान्य् अन्यानि कुर्वीत) श्रद्दधानो) जित।इन्द्रियः |  
   
-Manu11.39c[38ṃc]/ na tv alpa.dakṣiṇair yajñair yajeta-iha kathaṃ cana ||  
+मनु११।३९च्[३८ंच्]/ न त्व् अल्प।दक्षिणैर् यज्ञैर् यजेत-इह कथं चन ||  
   
-Manu11.40a[39ṃa]/ indriyāṇi yaśaḥ svargam āyuḥ kīrtiṃ prajāḥ paśūn |  
+मनु११।४०अ[३९ंअ]/ इन्द्रियाणि यशः स्वर्गम् आयुः कीर्तिं प्रजाः पशून् |  
   
-Manu11.40c[39ṃc]/ hanty) alpa.dakṣiṇo yajñas tasmān na-alpa.dhano yajet ||  
+मनु११।४०च्[३९ंच्]/ हन्त्य्) अल्प।दक्षिणो यज्ञस् तस्मान् न-अल्प।धनो यजेत् ||  
   
-Manu11.41a[40ṃa]/ agnihotry apavidhya)-agnīn brāhmaṇaḥ kāmakārataḥ |  
+मनु११।४१अ[४०ंअ]/ अग्निहोत्र्य् अपविध्य)-अग्नीन् ब्राह्मणः कामकारतः |  
   
-Manu11.41c[40ṃc]/ cāndrāyaṇaṃ caren) māsaṃ vīrahatyāsamaṃ hi tat ||  
+मनु११।४१च्[४०ंच्]/ चान्द्रायणं चरेन्) मासं वीरहत्यासमं हि तत् ||  
   
-Manu11.42a[41ṃa]/ ye śūdrād adhigamya)-artham agnihotram upāsate) |  
+मनु११।४२अ[४१ंअ]/ ये शूद्राद् अधिगम्य)-अर्थम् अग्निहोत्रम् उपासते) |  
   
-Manu11.42c[41ṃc]/ ṛtvijas te hi śūdrāṇāṃ brahmavādiṣu garhitāḥ ||  
+मनु११।४२च्[४१ंच्]/ ऋत्विजस् ते हि शूद्राणां ब्रह्मवादिषु गर्हिताः ||  
   
-Manu11.43a[42ṃa]/ teṣāṃ satatam ajñānāṃ vṛṣalāgnyupasevinām |  
+मनु११।४३अ[४२ंअ]/ तेषां सततम् अज्ञानां वृषलाग्न्युपसेविनाम् |  
   
-Manu11.43c[42ṃc]/ padā mastakam ākramya) dātā durgāṇi saṃtaret) ||  
+मनु११।४३च्[४२ंच्]/ पदा मस्तकम् आक्रम्य) दाता दुर्गाणि संतरेत्) ||  
   
   
   
-Manu11.44a[43ṃa]/ a.kurvan) vihitaṃ karma ninditaṃ ca samācaran) |  
+मनु११।४४अ[४३ंअ]/ अ।कुर्वन्) विहितं कर्म निन्दितं च समाचरन्) |  
   
-Manu11.44c[43ṃc]/ prasaktaś) ca-indriyārtheṣu prāyaścittīyate) naraḥ || [M.prasajjan) indriyārtheṣu]  
+मनु११।४४च्[४३ंच्]/ प्रसक्तश्) च-इन्द्रियार्थेषु प्रायश्चित्तीयते) नरः || [म्।प्रसज्जन्) इन्द्रियार्थेषु]  
   
-Manu11.45a[44ṃa]/ akāmataḥ kṛte pāpe prāyaścittaṃ vidur) budhāḥ |  
+मनु११।४५अ[४४ंअ]/ अकामतः कृते पापे प्रायश्चित्तं विदुर्) बुधाः |  
   
-Manu11.45c[44ṃc]/ kāmakārakṛte 'apy āhur) eke śrutinidarśanāt ||  
+मनु११।४५च्[४४ंच्]/ कामकारकृते ऽअप्य् आहुर्) एके श्रुतिनिदर्शनात् ||  
   
-Manu11.46a[45ṃa]/ akāmataḥ kṛtaṃ pāpaṃ vedābhyāsena śudhyati) |  
+मनु११।४६अ[४५ंअ]/ अकामतः कृतं पापं वेदाभ्यासेन शुध्यति) |  
   
-Manu11.46c[45ṃc]/ kāmatas tu kṛtaṃ mohāt prāyaścittaiḥ pṛthagvidhaiḥ ||  
+मनु११।४६च्[४५ंच्]/ कामतस् तु कृतं मोहात् प्रायश्चित्तैः पृथग्विधैः ||  
   
   
   
-Manu11.47a[46ṃa]/ prāyaścittīyatāṃ prāpya) daivāt pūrvakṛtena vā |  
+मनु११।४७अ[४६ंअ]/ प्रायश्चित्तीयतां प्राप्य) दैवात् पूर्वकृतेन वा |  
   
-Manu11.47c[46ṃc]/ na saṃsargaṃ vrajet) sadbhiḥ prāyaścitte 'akṛte dvijaḥ ||  
+मनु११।४७च्[४६ंच्]/ न संसर्गं व्रजेत्) सद्भिः प्रायश्चित्ते ऽअकृते द्विजः ||  
   
-Manu11.48a[47ṃa]/ iha duścaritaiḥ ke cit ke cit pūrvakṛtais tathā |   
+मनु११।४८अ[४७ंअ]/ इह दुश्चरितैः के चित् के चित् पूर्वकृतैस् तथा |   
   
-Manu11.48c[47ṃc]/ prāpnuvanti) dur.ātmāno narā rūpaviparyayam ||  
+मनु११।४८च्[४७ंच्]/ प्राप्नुवन्ति) दुर्।आत्मानो नरा रूपविपर्ययम् ||  
   
-Manu11.49a[48ṃa]/ suvarṇacauraḥ kaunakhyaṃ surāpaḥ śyāvadantatām |  
+मनु११।४९अ[४८ंअ]/ सुवर्णचौरः कौनख्यं सुरापः श्यावदन्तताम् |  
   
-Manu11.49c[48ṃc]/ brahmahā kṣayarogitvaṃ dauścarmyaṃ gurutalpagaḥ ||  
+मनु११।४९च्[४८ंच्]/ ब्रह्महा क्षयरोगित्वं दौश्चर्म्यं गुरुतल्पगः ||  
   
-Manu11.50a[49ṃa]/ piśunaḥ pautināsikyaṃ sūcakaḥ pūtivaktratām |   
+मनु११।५०अ[४९ंअ]/ पिशुनः पौतिनासिक्यं सूचकः पूतिवक्त्रताम् |   
   
-Manu11.50c[49ṃc]/ dhānyacauro 'aṅgahīnatvam ātiraikyaṃ tu miśrakaḥ ||   
+मनु११।५०च्[४९ंच्]/ धान्यचौरो ऽअङ्गहीनत्वम् आतिरैक्यं तु मिश्रकः ||   
   
-Manu11.51a[50ṃa]/ annahartā-āmayāvitvaṃ maukyaṃ vāgapahārakaḥ |  
+मनु११।५१अ[५०ंअ]/ अन्नहर्ता-आमयावित्वं मौक्यं वागपहारकः |  
   
-Manu11.51c[50ṃc]/ vastrāpahārakaḥ śvaitryaṃ paṅgutām aśvahārakaḥ ||  
+मनु११।५१च्[५०ंच्]/ वस्त्रापहारकः श्वैत्र्यं पङ्गुताम् अश्वहारकः ||  
   
-Manu11.52a[51ṃa]/ evaṃ karmaviśeṣeṇa jāyante) sadvigarhitāḥ |  
+मनु११।५२अ[५१ंअ]/ एवं कर्मविशेषेण जायन्ते) सद्विगर्हिताः |  
   
-Manu11.52c[51ṃc]/ jaḍa.mūka.andha.badhirā vikṛta.ākṛtayas tathā ||  
+मनु११।५२च्[५१ंच्]/ जड।मूक।अन्ध।बधिरा विकृत।आकृतयस् तथा ||  
   
-Manu11.53a[52ṃa]/ caritavyam ato nityaṃ prāyaścittaṃ viśuddhaye |  
+मनु११।५३अ[५२ंअ]/ चरितव्यम् अतो नित्यं प्रायश्चित्तं विशुद्धये |  
   
-Manu11.53c[52ṃc]/ nindyair hi lakṣaṇair yuktā jāyante) 'aniṣkṛta.enasaḥ ||  
+मनु११।५३च्[५२ंच्]/ निन्द्यैर् हि लक्षणैर् युक्ता जायन्ते) ऽअनिष्कृत।एनसः ||  
   
   
   
-Manu11.54a[53ṃa]/ brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ |  
+मनु११।५४अ[५३ंअ]/ ब्रह्महत्या सुरापानं स्तेयं गुर्वङ्गनागमः |  
   
-Manu11.54c[53ṃc]/ mahānti pātakāny āhuḥ) saṃsargaś ca-api taiḥ saha ||  
+मनु११।५४च्[५३ंच्]/ महान्ति पातकान्य् आहुः) संसर्गश् च-अपि तैः सह ||  
   
-Manu11.55a[54ṃa]/ anṛtaṃ ca samutkarṣe rājagāmi ca paiśunam |  
+मनु११।५५अ[५४ंअ]/ अनृतं च समुत्कर्षे राजगामि च पैशुनम् |  
   
-Manu11.55c[54ṃc]/ guroś cālīka.nirbandhaḥ samāni brahmahatyayā ||   
+मनु११।५५च्[५४ंच्]/ गुरोश् चालीक।निर्बन्धः समानि ब्रह्महत्यया ||   
   
-Manu11.56a[55ṃa]/ brahma.ujjhatā vedanindā kauṭasākṣyaṃ suhṛdvadhaḥ |  
+मनु११।५६अ[५५ंअ]/ ब्रह्म।उज्झता वेदनिन्दा कौटसाक्ष्यं सुहृद्वधः |  
   
-Manu11.56c[55ṃc]/ garhita.anādyayor jagdhiḥ surāpānasamāni ṣaṭ ||  
+मनु११।५६च्[५५ंच्]/ गर्हित।अनाद्ययोर् जग्धिः सुरापानसमानि षट् ||  
   
-Manu11.57a[56ṃa]/ nikṣepasya-apaharaṇaṃ nara.aśva.rajatasya ca |  
+मनु११।५७अ[५६ंअ]/ निक्षेपस्य-अपहरणं नर।अश्व।रजतस्य च |  
   
-Manu11.57c[56ṃc]/ bhūmi.vajra.maṇīnāṃ ca rukmasteyasamaṃ smṛtam ||  
+मनु११।५७च्[५६ंच्]/ भूमि।वज्र।मणीनां च रुक्मस्तेयसमं स्मृतम् ||  
   
-Manu11.58a[57ṃa]/ retaḥsekaḥ svayonīṣu kumārīṣv antyajāsu ca |  
+मनु११।५८अ[५७ंअ]/ रेतःसेकः स्वयोनीषु कुमारीष्व् अन्त्यजासु च |  
   
-Manu11.58c[57ṃc]/ sakhyuḥ putrasya ca strīṣu gurutalpasamaṃ viduḥ ||  
+मनु११।५८च्[५७ंच्]/ सख्युः पुत्रस्य च स्त्रीषु गुरुतल्पसमं विदुः ||  
   
-Manu11.59a[58ṃa]/ govadho 'ayājya.saṃyājyaṃ pāradārya.ātmavikrayaḥ |  
+मनु११।५९अ[५८ंअ]/ गोवधो ऽअयाज्य।संयाज्यं पारदार्य।आत्मविक्रयः |  
   
-Manu11.59c[58ṃc]/ guru.mātṛ.pitṛ.tyāgaḥ svādhyāya.agnyoḥ sutasya ca ||  
+मनु११।५९च्[५८ंच्]/ गुरु।मातृ।पितृ।त्यागः स्वाध्याय।अग्न्योः सुतस्य च ||  
   
-Manu11.60a[59ṃa]/ parivittitā-anuje 'anūḍhe parivedanam eva ca |                
+मनु११।६०अ[५९ंअ]/ परिवित्तिता-अनुजे ऽअनूढे परिवेदनम् एव च |                
   
-Manu11.60c[59ṃc]/ tayor dānaṃ ca kanyāyās tayor eva ca yājanam ||  
+मनु११।६०च्[५९ंच्]/ तयोर् दानं च कन्यायास् तयोर् एव च याजनम् ||  
   
-Manu11.61a[60ṃa]/ kanyāyā dūṣaṇaṃ ca-eva vārdhuṣyaṃ vratalopanam |  
+मनु११।६१अ[६०ंअ]/ कन्याया दूषणं च-एव वार्धुष्यं व्रतलोपनम् |  
   
-Manu11.61c[60ṃc]/ taḍāga.ārāma.dārāṇām apatyasya ca vikrayaḥ ||   
+मनु११।६१च्[६०ंच्]/ तडाग।आराम।दाराणाम् अपत्यस्य च विक्रयः ||   
   
-Manu11.62a[61ṃa]/ vrātyatā bāndhavatyāgo bhṛtyādhyāpanam eva ca |  
+मनु११।६२अ[६१ंअ]/ व्रात्यता बान्धवत्यागो भृत्याध्यापनम् एव च |  
   
-Manu11.62c[61ṃc]/ bhṛtyā ca-adhyayanādānam apaṇyānāṃ ca vikrayaḥ || [M.bhṛtāc ca-adhyayanādānam]  
+मनु११।६२च्[६१ंच्]/ भृत्या च-अध्ययनादानम् अपण्यानां च विक्रयः || [म्।भृताच् च-अध्ययनादानम्]  
   
-Manu11.63a[62ṃa]/ sarvākāreṣv adhīkāro mahāyantrapravartanam |  
+मनु११।६३अ[६२ंअ]/ सर्वाकारेष्व् अधीकारो महायन्त्रप्रवर्तनम् |  
   
-Manu11.63c[62ṃc]/ hiṃsā-oṣadhīnāṃ stri.ājīvo 'abhicāro mūlakarma ca ||  
+मनु११।६३च्[६२ंच्]/ हिंसा-ओषधीनां स्त्रि।आजीवो ऽअभिचारो मूलकर्म च ||  
   
-Manu11.64a[63ṃa]/ indhanārtham aśuṣkāṇāṃ drumāṇām avapātanam |  
+मनु११।६४अ[६३ंअ]/ इन्धनार्थम् अशुष्काणां द्रुमाणाम् अवपातनम् |  
   
-Manu11.64c[63ṃc]/ ātmārthaṃ ca kriyārambho ninditānnādanaṃ tathā ||  
+मनु११।६४च्[६३ंच्]/ आत्मार्थं च क्रियारम्भो निन्दितान्नादनं तथा ||  
   
-Manu11.65a[64ṃa]/ anāhitāgnitā steyam ṛṇānām anapakriyā |  
+मनु११।६५अ[६४ंअ]/ अनाहिताग्निता स्तेयम् ऋणानाम् अनपक्रिया |  
   
-Manu11.65c[64ṃc]/ asat.śāṣtrādhigamanaṃ kauśīlavyasya ca kriyā ||  
+मनु११।६५च्[६४ंच्]/ असत्।शाष्त्राधिगमनं कौशीलव्यस्य च क्रिया ||  
   
-Manu11.66a[65ṃa]/ dhānya.kupya.paśusteyaṃ madyapastrīniṣevaṇam |  
+मनु११।६६अ[६५ंअ]/ धान्य।कुप्य।पशुस्तेयं मद्यपस्त्रीनिषेवणम् |  
   
-Manu11.66c[65ṃc]/ strī.śūdra.viś.kṣatravadho nāstikyaṃ ca-upapātakam ||  
+मनु११।६६च्[६५ंच्]/ स्त्री।शूद्र।विश्।क्षत्रवधो नास्तिक्यं च-उपपातकम् ||  
   
-Manu11.67a[66ṃa]/ brāhmaṇasya rujaḥ kṛtvā  ghrātir aghreya.madyayoḥ | [M.rujaḥkṛtyaṃ]  
+मनु११।६७अ[६६ंअ]/ ब्राह्मणस्य रुजः कृत्वा  घ्रातिर् अघ्रेय।मद्ययोः | [म्।रुजःकृत्यं]  
   
-Manu11.67c[66ṃc]/ jaihmyaṃ ca maithunaṃ puṃsi jātibhraṃśakaraṃ smṛtam ||   
+मनु११।६७च्[६६ंच्]/ जैह्म्यं च मैथुनं पुंसि जातिभ्रंशकरं स्मृतम् ||   
   
-Manu11.68a[67ṃa]/ khara.aśva.uṣṭra.mṛga.ibhānām aja.āvikavadhas tathā |  
+मनु११।६८अ[६७ंअ]/ खर।अश्व।उष्ट्र।मृग।इभानाम् अज।आविकवधस् तथा |  
   
-Manu11.68c[67ṃc]/ saṃkarīkaraṇaṃ jñeyaṃ mīna.ahi.mahiṣasya ca ||  
+मनु११।६८च्[६७ंच्]/ संकरीकरणं ज्ञेयं मीन।अहि।महिषस्य च ||  
   
-Manu11.69a[68ṃa]/ ninditebhyo dhanādānaṃ vāṇijyaṃ śūdrasevanam |  
+मनु११।६९अ[६८ंअ]/ निन्दितेभ्यो धनादानं वाणिज्यं शूद्रसेवनम् |  
   
-Manu11.69c[68ṃc]/ apātrīkaraṇaṃ jñeyam asatyasya ca bhāṣaṇam ||  
+मनु११।६९च्[६८ंच्]/ अपात्रीकरणं ज्ञेयम् असत्यस्य च भाषणम् ||  
   
-Manu11.70a[69ṃa]/ kṛmi.kīṭa.vayo.hatyā madyānugatabhojanam |  
+मनु११।७०अ[६९ंअ]/ कृमि।कीट।वयो।हत्या मद्यानुगतभोजनम् |  
   
-Manu11.70c[69ṃc]/ phala.edhaḥ.kusuma.steyam adhairyaṃ ca malāvaham ||  
+मनु११।७०च्[६९ंच्]/ फल।एधः।कुसुम।स्तेयम् अधैर्यं च मलावहम् ||  
   
   
   
-Manu11.71a[70ṃa]/ etāny enāṃsi sarvāṇi yathā.uktāni pṛthak pṛthak |  
+मनु११।७१अ[७०ंअ]/ एतान्य् एनांसि सर्वाणि यथा।उक्तानि पृथक् पृथक् |  
   
-Manu11.71c[70ṃc]/ yair yair vratair apohyante) tāni samyaṅ nibodhata) ||  
+मनु११।७१च्[७०ंच्]/ यैर् यैर् व्रतैर् अपोह्यन्ते) तानि सम्यङ् निबोधत) ||  
   
-Manu11.72a[71ṃa]/ brahmahā dvādaśa samāḥ kuṭīṃ kṛtvā) vane vaset) |  
+मनु११।७२अ[७१ंअ]/ ब्रह्महा द्वादश समाः कुटीं कृत्वा) वने वसेत्) |  
   
-Manu11.72c[71ṃc]/ bhaikṣāśy ātmaviśuddhyarthaṃ kṛtvā) śavaśiro dhvajam ||   
+मनु११।७२च्[७१ंच्]/ भैक्षाश्य् आत्मविशुद्ध्यर्थं कृत्वा) शवशिरो ध्वजम् ||   
   
-Manu11.73a[72ṃa]/ lakṣyaṃ śastrabhṛtāṃ vā syād) viduṣām icchayā-ātmanaḥ |  
+मनु११।७३अ[७२ंअ]/ लक्ष्यं शस्त्रभृतां वा स्याद्) विदुषाम् इच्छया-आत्मनः |  
   
-Manu11.73c[72ṃc]/ prāsyed) ātmānam agnau vā samiddhe trir avāk.śirāḥ ||  
+मनु११।७३च्[७२ंच्]/ प्रास्येद्) आत्मानम् अग्नौ वा समिद्धे त्रिर् अवाक्।शिराः ||  
   
-Manu11.74a[73ṃa]/ yajeta) vā-aśvamedhena svarjitā gosavena vā |  
+मनु११।७४अ[७३ंअ]/ यजेत) वा-अश्वमेधेन स्वर्जिता गोसवेन वा |  
   
-Manu11.74c[73ṃc]/ abhijid.viśvajidbhyāṃ vā trivṛtā-agniṣṭutā-api vā ||  
+मनु११।७४च्[७३ंच्]/ अभिजिद्।विश्वजिद्भ्यां वा त्रिवृता-अग्निष्टुता-अपि वा ||  
   
-Manu11.75a[74ṃa]/ japan vā-anyatamaṃ vedaṃ yojanānāṃ śataṃ vrajet) |  
+मनु११।७५अ[७४ंअ]/ जपन् वा-अन्यतमं वेदं योजनानां शतं व्रजेत्) |  
   
-Manu11.75c[74ṃc]/ brahmahatyāpanodāya mitabhuj- niyata.indriyaḥ ||  
+मनु११।७५च्[७४ंच्]/ ब्रह्महत्यापनोदाय मितभुज्- नियत।इन्द्रियः ||  
   
-Manu11.76a[75ṃa]/ sarvasvaṃ vedaviduṣe brāhmaṇāya-upapādayet) |  
+मनु११।७६अ[७५ंअ]/ सर्वस्वं वेदविदुषे ब्राह्मणाय-उपपादयेत्) |  
   
-Manu11.76c[75ṃc]/ dhanaṃ hi jīvanāya-alaṃ gṛhaṃ vā sa.paricchadam ||  
+मनु११।७६च्[७५ंच्]/ धनं हि जीवनाय-अलं गृहं वा स।परिच्छदम् ||  
   
-Manu11.77a[76ṃa]/ haviṣyabhug vā-anusaret) pratisrotaḥ sarasvatīm |  
+मनु११।७७अ[७६ंअ]/ हविष्यभुग् वा-अनुसरेत्) प्रतिस्रोतः सरस्वतीम् |  
   
-Manu11.77c[76ṃc]/ japed) vā niyata.āhāras trir vai vedasya saṃhitām ||  
+मनु११।७७च्[७६ंच्]/ जपेद्) वा नियत।आहारस् त्रिर् वै वेदस्य संहिताम् ||  
   
-Manu11.78a[77ṃa]/ kṛta.vāpano nivased) grāmānte govraje 'api vā |  
+मनु११।७८अ[७७ंअ]/ कृत।वापनो निवसेद्) ग्रामान्ते गोव्रजे ऽअपि वा |  
   
-Manu11.78c[77ṃc]/ āśrame vṛkṣamūle vā go.brāhmaṇahite rataḥ ||  
+मनु११।७८च्[७७ंच्]/ आश्रमे वृक्षमूले वा गो।ब्राह्मणहिते रतः ||  
   
-Manu11.79a[78ṃa]/ brāhmaṇārthe gavārthe vā sadyaḥ prāṇān parityajet) |[M.saṃyak prāṇān]  
+मनु११।७९अ[७८ंअ]/ ब्राह्मणार्थे गवार्थे वा सद्यः प्राणान् परित्यजेत्) |[म्।संयक् प्राणान्]  
   
-Manu11.79c[78ṃc]/ mucyate brahmahatyāyā goptā gor brāhmaṇasya ca ||  
+मनु११।७९च्[७८ंच्]/ मुच्यते ब्रह्महत्याया गोप्ता गोर् ब्राह्मणस्य च ||  
   
-Manu11.80a[79ṃa]/ trivāraṃ pratiroddhā vā sarvasvam avajitya) vā | [M.tryavaraṃ]  
+मनु११।८०अ[७९ंअ]/ त्रिवारं प्रतिरोद्धा वा सर्वस्वम् अवजित्य) वा | [म्।त्र्यवरं]  
   
-Manu11.80c[79ṃc]/ viprasya tannimitte vā prāṇālābhe vimucyate) || [M.prāṇālābhe 'api mucyate) ]  
+मनु११।८०च्[७९ंच्]/ विप्रस्य तन्निमित्ते वा प्राणालाभे विमुच्यते) || [म्।प्राणालाभे ऽअपि मुच्यते) ]  
   
-Manu11.81a[80ṃa]/ evaṃ dṛḍha.vrato nityaṃ brahmacārī samāhitaḥ |  
+मनु११।८१अ[८०ंअ]/ एवं दृढ।व्रतो नित्यं ब्रह्मचारी समाहितः |  
   
-Manu11.81c[80ṃc]/ samāpte dvādaśe varṣe brahmahatyām vyapohati) ||  
+मनु११।८१च्[८०ंच्]/ समाप्ते द्वादशे वर्षे ब्रह्महत्याम् व्यपोहति) ||  
   
-Manu11.82a[81ṃa]/ śiṣṭvā) vā bhūmidevānāṃ naradevasamāgame |  
+मनु११।८२अ[८१ंअ]/ शिष्ट्वा) वा भूमिदेवानां नरदेवसमागमे |  
   
-Manu11.82c[81ṃc]/ svam eno 'avabhṛthasnāto hayamedhe vimucyate) ||  
+मनु११।८२च्[८१ंच्]/ स्वम् एनो ऽअवभृथस्नातो हयमेधे विमुच्यते) ||  
   
-Manu11.83a[82ṃa]/ dharmasya brāhmaṇo mūlam agraṃ rājanya ucyate) |  
+मनु११।८३अ[८२ंअ]/ धर्मस्य ब्राह्मणो मूलम् अग्रं राजन्य उच्यते) |  
   
-Manu11.83c[82ṃc]/ tasmāt samāgame teṣām eno vikhyāpya) śudhyati ||  
+मनु११।८३च्[८२ंच्]/ तस्मात् समागमे तेषाम् एनो विख्याप्य) शुध्यति ||  
   
-Manu11.84a[83ṃa]/ brahmaṇaḥ saṃbhavena-eva devānām api daivatam |  
+मनु११।८४अ[८३ंअ]/ ब्रह्मणः संभवेन-एव देवानाम् अपि दैवतम् |  
   
-Manu11.84c[83ṃc]/ pramāṇaṃ ca-eva lokasya brahmātra-eva hi kāraṇam ||  
+मनु११।८४च्[८३ंच्]/ प्रमाणं च-एव लोकस्य ब्रह्मात्र-एव हि कारणम् ||  
   
-Manu11.85a[84ṃa]/ teṣāṃ vedavido brūyus) trayo 'apy enaḥ suniṣkṛtim |   
+मनु११।८५अ[८४ंअ]/ तेषां वेदविदो ब्रूयुस्) त्रयो ऽअप्य् एनः सुनिष्कृतिम् |   
   
-Manu11.85c[84ṃc]/ sā teṣāṃ pāvanāya syāt) pavitrā viduṣāṃ hi vāk || [M.pavitraṃ ]  
+मनु११।८५च्[८४ंच्]/ सा तेषां पावनाय स्यात्) पवित्रा विदुषां हि वाक् || [म्।पवित्रं ]  
   
-Manu11.86a[85ṃa]/ ato 'anyatamam āsthāya) vidhiṃ vipraḥ samāhitaḥ |  
+मनु११।८६अ[८५ंअ]/ अतो ऽअन्यतमम् आस्थाय) विधिं विप्रः समाहितः |  
   
-Manu11.86c[85ṃc]/ brahmahatyākṛtaṃ pāpaṃ vyapohaty) ātmavattayā ||  
+मनु११।८६च्[८५ंच्]/ ब्रह्महत्याकृतं पापं व्यपोहत्य्) आत्मवत्तया ||  
   
-Manu11.87a[86ṃa]/ hatvā) garbham avijñātam etad eva vrataṃ caret) |  
+मनु११।८७अ[८६ंअ]/ हत्वा) गर्भम् अविज्ञातम् एतद् एव व्रतं चरेत्) |  
   
-Manu11.87c[86ṃc]/ rājanya.vaiśyau ca-ījānāv ātreyīm eva ca striyam ||  
+मनु११।८७च्[८६ंच्]/ राजन्य।वैश्यौ च-ईजानाव् आत्रेयीम् एव च स्त्रियम् ||  
   
-Manu11.88a[87ṃa]/ uktvā) ca-eva-anṛtaṃ sākṣye pratirudhya) guruṃ tathā | [M.pratirabhya ]  
+मनु११।८८अ[८७ंअ]/ उक्त्वा) च-एव-अनृतं साक्ष्ये प्रतिरुध्य) गुरुं तथा | [म्।प्रतिरभ्य ]  
   
-Manu11.88c[87ṃc]/ apahṛtya) ca niḥkṣepaṃ kṛtvā) ca strī.suhṛt.vadham || [M.nikṣepaṃ ]  
+मनु११।८८च्[८७ंच्]/ अपहृत्य) च निःक्षेपं कृत्वा) च स्त्री।सुहृत्।वधम् || [म्।निक्षेपं ]  
   
-Manu11.89a[88ṃa]/ iyaṃ viśuddhir uditā pramāpya)-akāmato dvijam |  
+मनु११।८९अ[८८ंअ]/ इयं विशुद्धिर् उदिता प्रमाप्य)-अकामतो द्विजम् |  
   
-Manu11.89c[88ṃc]/ kāmato brāhmaṇavadhe niṣkṛtir na vidhīyate) ||  
+मनु११।८९च्[८८ंच्]/ कामतो ब्राह्मणवधे निष्कृतिर् न विधीयते) ||  
   
   
   
-Manu11.90a[89ṃa]/ surāṃ pītvā) dvijo mohād agni.varṇāṃ surāṃ pibet) |   
+मनु११।९०अ[८९ंअ]/ सुरां पीत्वा) द्विजो मोहाद् अग्नि।वर्णां सुरां पिबेत्) |   
   
-Manu11.90c[89ṃc]/ tayā sa kāye nirdagdhe mucyate) kilbiṣāt tataḥ ||  
+मनु११।९०च्[८९ंच्]/ तया स काये निर्दग्धे मुच्यते) किल्बिषात् ततः ||  
   
-Manu11.91a[90ṃa]/ gomūtram agni.varṇaṃ vā pibed) udakam eva vā |  
+मनु११।९१अ[९०ंअ]/ गोमूत्रम् अग्नि।वर्णं वा पिबेद्) उदकम् एव वा |  
   
-Manu11.91c[90ṃc]/ payo ghṛtaṃ vā-ā maraṇād gośakṛdrasam eva vā ||  
+मनु११।९१च्[९०ंच्]/ पयो घृतं वा-आ मरणाद् गोशकृद्रसम् एव वा ||  
   
-Manu11.92a[91ṃa]/ kaṇān vā bhakṣayed) abdaṃ piṇyākaṃ vā sakṛt-niśi |  
+मनु११।९२अ[९१ंअ]/ कणान् वा भक्षयेद्) अब्दं पिण्याकं वा सकृत्-निशि |  
   
-Manu11.92c[91ṃc]/ surāpānāpanuttyarthaṃ vālavāsā jaṭī dhvajī ||   
+मनु११।९२च्[९१ंच्]/ सुरापानापनुत्त्यर्थं वालवासा जटी ध्वजी ||   
   
-Manu11.93a[92ṃa]/ surā vai malam annānāṃ pāpmā ca malam ucyate) |  
+मनु११।९३अ[९२ंअ]/ सुरा वै मलम् अन्नानां पाप्मा च मलम् उच्यते) |  
   
-Manu11.93c[92ṃc]/ tasmād brāhmaṇa.rājanyau vaiśyaś ca na surāṃ pibet) ||  
-Manu11.94a[93ṃa]/ gauḍī paiṣṭī ca mādhvī ca vijñeyā trividhā surā |   
+मनु११।९३च्[९२ंच्]/ तस्माद् ब्राह्मण।राजन्यौ वैश्यश् च न सुरां पिबेत्) ||  
+मनु११।९४अ[९३ंअ]/ गौडी पैष्टी च माध्वी च विज्ञेया त्रिविधा सुरा |   
   
-Manu11.94c[93ṃc]/ yathā-eva-ekā tathā sarvā na pātavyā) dvijottamaiḥ ||  
+मनु११।९४च्[९३ंच्]/ यथा-एव-एका तथा सर्वा न पातव्या) द्विजोत्तमैः ||  
   
-Manu11.95a[94ṃa]/ yakṣa.rakṣaḥ.piśāca.annaṃ madyaṃ māṃsaṃ surāsavam |  
+मनु११।९५अ[९४ंअ]/ यक्ष।रक्षः।पिशाच।अन्नं मद्यं मांसं सुरासवम् |  
   
-Manu11.95c[94ṃc]/ tad brāhmaṇena na-attavyaṃ devānām aśnatā haviḥ ||  
+मनु११।९५च्[९४ंच्]/ तद् ब्राह्मणेन न-अत्तव्यं देवानाम् अश्नता हविः ||  
   
-Manu11.96a[95ṃa]/ amedhye vā paten) matto vaidikaṃ vā-apy udāharet) |  
+मनु११।९६अ[९५ंअ]/ अमेध्ये वा पतेन्) मत्तो वैदिकं वा-अप्य् उदाहरेत्) |  
   
-Manu11.96c[95ṃc]/ akāryam anyat kuryād) vā brāhmaṇo madamohitaḥ ||  
+मनु११।९६च्[९५ंच्]/ अकार्यम् अन्यत् कुर्याद्) वा ब्राह्मणो मदमोहितः ||  
   
-Manu11.97a[96ṃa]/ yasya kāyagataṃ brahma madyena-āplāvyate) sakṛt |  
+मनु११।९७अ[९६ंअ]/ यस्य कायगतं ब्रह्म मद्येन-आप्लाव्यते) सकृत् |  
   
-Manu11.97c[96ṃc]/ tasya vyapaiti) brāhmaṇyaṃ śūdratvaṃ ca sa gacchati) ||  
+मनु११।९७च्[९६ंच्]/ तस्य व्यपैति) ब्राह्मण्यं शूद्रत्वं च स गच्छति) ||  
   
-Manu11.98a[97ṃa]/ eṣā vicitrābhihitā surāpānasya niṣkṛtiḥ |  
+मनु११।९८अ[९७ंअ]/ एषा विचित्राभिहिता सुरापानस्य निष्कृतिः |  
   
-Manu11.98c[97ṃc]/ ata ūrdhvaṃ pravakṣyāmi) suvarṇasteyaniṣkṛtim ||  
+मनु११।९८च्[९७ंच्]/ अत ऊर्ध्वं प्रवक्ष्यामि) सुवर्णस्तेयनिष्कृतिम् ||  
   
   
   
-Manu11.99a[98ṃa]/ suvarṇasteyakṛd vipro rājānam abhigamya) tu |  
+मनु११।९९अ[९८ंअ]/ सुवर्णस्तेयकृद् विप्रो राजानम् अभिगम्य) तु |  
   
-Manu11.99c[98ṃc]/ svakarma khyāpayan brūyāt)-māṃ bhavān anuśāstv) iti ||  
+मनु११।९९च्[९८ंच्]/ स्वकर्म ख्यापयन् ब्रूयात्)-मां भवान् अनुशास्त्व्) इति ||  
   
-Manu11.100a[99ṃa]/ gṛhītvā) musalaṃ rājā sakṛdd hanyāt) tu taṃ svayam ||  
+मनु११।१००अ[९९ंअ]/ गृहीत्वा) मुसलं राजा सकृद्द् हन्यात्) तु तं स्वयम् ||  
   
-Manu11.100c[99ṃc]/ vadhena śudhyati) steno brāhmaṇas tapasā-eva tu ||  
+मनु११।१००च्[९९ंच्]/ वधेन शुध्यति) स्तेनो ब्राह्मणस् तपसा-एव तु ||  
   
-Manu11.101a[100ṃa]/ tapasāpanunutsus tu suvarṇasteyajaṃ malam |  
+मनु११।१०१अ[१००ंअ]/ तपसापनुनुत्सुस् तु सुवर्णस्तेयजं मलम् |  
   
-Manu11.101c[100ṃc]/ cīravāsā dvijo 'araṇye cared) brahmahaṇo vratam ||  
+मनु११।१०१च्[१००ंच्]/ चीरवासा द्विजो ऽअरण्ये चरेद्) ब्रह्महणो व्रतम् ||  
   
-Manu11.102a[101ṃa]/ etair vratair apoheta) pāpaṃ steyakṛtaṃ dvijaḥ |  
+मनु११।१०२अ[१०१ंअ]/ एतैर् व्रतैर् अपोहेत) पापं स्तेयकृतं द्विजः |  
   
-Manu11.102c[101ṃc]/ gurustrīgamanī-iyaṃ tu vratair ebhir apānudet) ||  
+मनु११।१०२च्[१०१ंच्]/ गुरुस्त्रीगमनी-इयं तु व्रतैर् एभिर् अपानुदेत्) ||  
   
   
   
-Manu11.103a[102ṃa]/ gurutalpy abhibhāṣya)-enas tapte svapyād) ayomaye | [M.talpe svapyād ]  
+मनु११।१०३अ[१०२ंअ]/ गुरुतल्प्य् अभिभाष्य)-एनस् तप्ते स्वप्याद्) अयोमये | [म्।तल्पे स्वप्याद् ]  
   
-Manu11.103c[102ṃc]/ sūrmīṃ jvalantīṃ svāśliṣyen mṛtyunā sa viśudhyati) || [M.vā-āśliṣyen ]  
+मनु११।१०३च्[१०२ंच्]/ सूर्मीं ज्वलन्तीं स्वाश्लिष्येन् मृत्युना स विशुध्यति) || [म्।वा-आश्लिष्येन् ]  
   
-Manu11.104a[103ṃa]/ svayaṃ vā śiṣṇa.vṛṣaṇāv utkṛtya)-ādhāya) ca-añjalau |  
+मनु११।१०४अ[१०३ंअ]/ स्वयं वा शिष्ण।वृषणाव् उत्कृत्य)-आधाय) च-अञ्जलौ |  
   
-Manu11.104c[103ṃc]/ nairṛtīṃ diśam ātiṣṭhed) ā nipātād ajihmagaḥ ||  
+मनु११।१०४च्[१०३ंच्]/ नैरृतीं दिशम् आतिष्ठेद्) आ निपाताद् अजिह्मगः ||  
   
-Manu11.105a[104ṃa]/ khaṭvāṅgī cīra.vāsā vā śmaśrulo vijane vane |  
+मनु११।१०५अ[१०४ंअ]/ खट्वाङ्गी चीर।वासा वा श्मश्रुलो विजने वने |  
   
-Manu11.105c[104ṃc]/ prājāpatyaṃ caret) kṛcchram abdam ekaṃ samāhitaḥ ||  
+मनु११।१०५च्[१०४ंच्]/ प्राजापत्यं चरेत्) कृच्छ्रम् अब्दम् एकं समाहितः ||  
   
-Manu11.106a[105ṃa]/ cāndrāyaṇaṃ vā trīn māsān abhyasyen) niyata.indriyaḥ |   
+मनु११।१०६अ[१०५ंअ]/ चान्द्रायणं वा त्रीन् मासान् अभ्यस्येन्) नियत।इन्द्रियः |   
   
-Manu11.106c[105ṃc]/ haviṣyeṇa yavāgvā vā gurutalpāpanuttaye ||  
+मनु११।१०६च्[१०५ंच्]/ हविष्येण यवाग्वा वा गुरुतल्पापनुत्तये ||  
   
-Manu11.107a[106ṃa]/ etair vratair apoheyur) mahāpātakino malam |  
+मनु११।१०७अ[१०६ंअ]/ एतैर् व्रतैर् अपोहेयुर्) महापातकिनो मलम् |  
   
-Manu11.107c[106ṃc]/ upapātakinas tv evam ebhir nānāvidhair vrataiḥ ||  
+मनु११।१०७च्[१०६ंच्]/ उपपातकिनस् त्व् एवम् एभिर् नानाविधैर् व्रतैः ||  
   
   
   
-Manu11.108a[107ṃa]/ upapātakasaṃyukto goghno māsaṃ yavān pibet) |  
+मनु११।१०८अ[१०७ंअ]/ उपपातकसंयुक्तो गोघ्नो मासं यवान् पिबेत्) |  
   
-Manu11.108c[107ṃc]/ kṛta.vāpo vased) goṣṭhe carmaṇā tena saṃvṛtaḥ ||  
+मनु११।१०८च्[१०७ंच्]/ कृत।वापो वसेद्) गोष्ठे चर्मणा तेन संवृतः ||  
   
-Manu11.109a[108ṃa]/ caturthakālam aśnīyād) a.kṣāra.lavaṇaṃ mitam |  
+मनु११।१०९अ[१०८ंअ]/ चतुर्थकालम् अश्नीयाद्) अ।क्षार।लवणं मितम् |  
   
-Manu11.109c[108ṃc]/ gomūtreṇa-ācaret) snānaṃ dvau māsau niyata.indriyaḥ ||  
+मनु११।१०९च्[१०८ंच्]/ गोमूत्रेण-आचरेत्) स्नानं द्वौ मासौ नियत।इन्द्रियः ||  
   
-Manu11.110a[109ṃa]/ divā-anugacched) gās tās tu tiṣṭhann) ūrdhvaṃ rajaḥ pibet) |  
+मनु११।११०अ[१०९ंअ]/ दिवा-अनुगच्छेद्) गास् तास् तु तिष्ठन्न्) ऊर्ध्वं रजः पिबेत्) |  
   
-Manu11.110c[109ṃc]/ śuśrūṣitvā) namaskṛtya) rātrau vīrāsanaṃ vaset) || [M.vīrāsano]  
+मनु११।११०च्[१०९ंच्]/ शुश्रूषित्वा) नमस्कृत्य) रात्रौ वीरासनं वसेत्) || [म्।वीरासनो]  
   
-Manu11.111a[110ṃa]/ tiṣṭhantīṣv anutiṣṭhet) tu vrajantīṣv apy anuvrajet) |  
+मनु११।१११अ[११०ंअ]/ तिष्ठन्तीष्व् अनुतिष्ठेत्) तु व्रजन्तीष्व् अप्य् अनुव्रजेत्) |  
   
-Manu11.111c[110ṃc]/ āsīnāsu tathā-āsīno niyato vīta.matsaraḥ ||  
+मनु११।१११च्[११०ंच्]/ आसीनासु तथा-आसीनो नियतो वीत।मत्सरः ||  
   
-Manu11.112a[111ṃa]/ āturām abhiśastāṃ vā caura.vyāghrādibhir bhayaiḥ |  
+मनु११।११२अ[१११ंअ]/ आतुराम् अभिशस्तां वा चौर।व्याघ्रादिभिर् भयैः |  
   
-Manu11.112c[111ṃc]/ patitāṃ paṅkalagnaṃ vā sarva.upāyair  vimocayet) || [K:sarvaprāṇair]  
+मनु११।११२च्[१११ंच्]/ पतितां पङ्कलग्नं वा सर्व।उपायैर्  विमोचयेत्) || [क्:सर्वप्राणैर्]  
   
-Manu11.113a[112ṃa]/ uṣṇe varṣati śīte vā mārute vāti vā bhṛśam |  
+मनु११।११३अ[११२ंअ]/ उष्णे वर्षति शीते वा मारुते वाति वा भृशम् |  
   
-Manu11.113c[112ṃc]/ na kurvīta)-ātmanas trāṇaṃ gor a.kṛtvā) tu śaktitaḥ ||  
+मनु११।११३च्[११२ंच्]/ न कुर्वीत)-आत्मनस् त्राणं गोर् अ।कृत्वा) तु शक्तितः ||  
   
-Manu11.114a[113ṃa]/ ātmano yadi vā-anyeṣāṃ gṛhe kṣetre 'atha vā khale |  
+मनु११।११४अ[११३ंअ]/ आत्मनो यदि वा-अन्येषां गृहे क्षेत्रे ऽअथ वा खले |  
   
-Manu11.114c[113ṃc]/ bhakṣayantīṃ na kathayet) pibantaṃ ca-eva vatsakam ||  
+मनु११।११४च्[११३ंच्]/ भक्षयन्तीं न कथयेत्) पिबन्तं च-एव वत्सकम् ||  
   
-Manu11.115a[114ṃa]/ anena vidhinā yas tu goghno gām anugacchati) |  
+मनु११।११५अ[११४ंअ]/ अनेन विधिना यस् तु गोघ्नो गाम् अनुगच्छति) |  
   
-Manu11.115c[114ṃc]/ sa gohatyākṛtaṃ pāpaṃ tribhir māsair vyapohati) ||  
+मनु११।११५च्[११४ंच्]/ स गोहत्याकृतं पापं त्रिभिर् मासैर् व्यपोहति) ||  
   
-Manu11.116a[115ṃa]/ vṛṣabha.ekādaśā gāś ca dadyāt) sucarita.vrataḥ |  
+मनु११।११६अ[११५ंअ]/ वृषभ।एकादशा गाश् च दद्यात्) सुचरित।व्रतः |  
   
-Manu11.116c[115ṃc]/ a.vidyamāne sarvasvaṃ vedavidbhyo nivedayet) ||  
+मनु११।११६च्[११५ंच्]/ अ।विद्यमाने सर्वस्वं वेदविद्भ्यो निवेदयेत्) ||  
   
-Manu11.117a[116ṃa]/ etad eva vrataṃ kuryur upapātakino dvijāḥ |  
+मनु११।११७अ[११६ंअ]/ एतद् एव व्रतं कुर्युर् उपपातकिनो द्विजाः |  
   
-Manu11.117c[116ṃc]/ avakīrṇivarjyaṃ śuddhyarthaṃ cāndrāyaṇam atha-api vā || [M.avakīrṇivarjaṃ ]  
+मनु११।११७च्[११६ंच्]/ अवकीर्णिवर्ज्यं शुद्ध्यर्थं चान्द्रायणम् अथ-अपि वा || [म्।अवकीर्णिवर्जं ]  
   
   
   
-Manu11.118a[117ṃa]/ avakīrṇī tu kāṇena gardabhena catuṣpathe |  
+मनु११।११८अ[११७ंअ]/ अवकीर्णी तु काणेन गर्दभेन चतुष्पथे |  
   
-Manu11.118c[117ṃc]/ pākayajñavidhānena yajeta) nirṛtiṃ niśi ||  
+मनु११।११८च्[११७ंच्]/ पाकयज्ञविधानेन यजेत) निरृतिं निशि ||  
   
-Manu11.119a[118ṃa]/ hutvā)-agnau vidhivadd homān antataś ca sama-ity ṛcā |  
+मनु११।११९अ[११८ंअ]/ हुत्वा)-अग्नौ विधिवद्द् होमान् अन्ततश् च सम-इत्य् ऋचा |  
   
-Manu11.119c[118ṃc]/ vāta.indra.guru.vahnīnāṃ juhuyāt) sarpiṣā-āhutīḥ ||  
+मनु११।११९च्[११८ंच्]/ वात।इन्द्र।गुरु।वह्नीनां जुहुयात्) सर्पिषा-आहुतीः ||  
   
-Manu11.120a[119ṃa]/ kāmato retasaḥ sekaṃ vratasthasya dvijanmanaḥ |  
+मनु११।१२०अ[११९ंअ]/ कामतो रेतसः सेकं व्रतस्थस्य द्विजन्मनः |  
   
-Manu11.120c[119ṃc]/ atikramaṃ vratasya-āhur) dharmajñā brahmavādinaḥ ||  
+मनु११।१२०च्[११९ंच्]/ अतिक्रमं व्रतस्य-आहुर्) धर्मज्ञा ब्रह्मवादिनः ||  
   
-Manu11.121a[120ṃa]/ mārutaṃ puruhūtaṃ ca guruṃ pāvakam eva ca |  
+मनु११।१२१अ[१२०ंअ]/ मारुतं पुरुहूतं च गुरुं पावकम् एव च |  
   
-Manu11.121c[120ṃc]/ caturo vratino 'abhyeti) brāhmaṃ tejo 'avakīrṇinaḥ ||  
+मनु११।१२१च्[१२०ंच्]/ चतुरो व्रतिनो ऽअभ्येति) ब्राह्मं तेजो ऽअवकीर्णिनः ||  
   
-Manu11.122a[121ṃa]/ etasminn enasi prāpte vasitvā) gardabhājinam |  
+मनु११।१२२अ[१२१ंअ]/ एतस्मिन्न् एनसि प्राप्ते वसित्वा) गर्दभाजिनम् |  
   
-Manu11.122c[121ṃc]/ saptāgārāṃś cared) bhaikṣaṃ svakarma parikīrtayan) ||  
+मनु११।१२२च्[१२१ंच्]/ सप्तागारांश् चरेद्) भैक्षं स्वकर्म परिकीर्तयन्) ||  
   
-Manu11.123a[122ṃa]/ tebhyo labdhena bhaikṣeṇa vartayann) ekakālikam |  
+मनु११।१२३अ[१२२ंअ]/ तेभ्यो लब्धेन भैक्षेण वर्तयन्न्) एककालिकम् |  
   
-Manu11.123c[122ṃc]/ upaspṛśaṃs) triṣavaṇaṃ tv abdena sa viśudhyati) || [M.triṣavaṇam  abdena ]  
+मनु११।१२३च्[१२२ंच्]/ उपस्पृशंस्) त्रिषवणं त्व् अब्देन स विशुध्यति) || [म्।त्रिषवणम्  अब्देन ]  
   
-Manu11.124a[123ṃa]/ jātibhraṃśakaraṃ karma kṛtvā)-anyatamam icchayā |  
+मनु११।१२४अ[१२३ंअ]/ जातिभ्रंशकरं कर्म कृत्वा)-अन्यतमम् इच्छया |  
   
-Manu11.124c[123ṃc]/ caret) sāṃtapanaṃ kṛcchraṃ prājāpatyam anicchayā ||  
+मनु११।१२४च्[१२३ंच्]/ चरेत्) सांतपनं कृच्छ्रं प्राजापत्यम् अनिच्छया ||  
   
-Manu11.125a[124ṃa]/ saṃkara.apātrakṛtyāsu māsaṃ śodhanam aindavam | [M.aindavaḥ]  
+मनु११।१२५अ[१२४ंअ]/ संकर।अपात्रकृत्यासु मासं शोधनम् ऐन्दवम् | [म्।ऐन्दवः]  
   
-Manu11.125c[124ṃc]/ malinīkaraṇīyeṣu taptaḥ syād) yāvakais tryaham ||  
-Manu11.126a[125ṃa]/ turīyo brahmahatyāyāḥ kṣatriyasya vadhe smṛtaḥ) |  
+मनु११।१२५च्[१२४ंच्]/ मलिनीकरणीयेषु तप्तः स्याद्) यावकैस् त्र्यहम् ||  
+मनु११।१२६अ[१२५ंअ]/ तुरीयो ब्रह्महत्यायाः क्षत्रियस्य वधे स्मृतः) |  
   
-Manu11.126c[125ṃc]/ vaiśye 'aṣṭamāṃśo vṛttasthe śūdre jñeyas tu ṣoḍaśaḥ ||  
+मनु११।१२६च्[१२५ंच्]/ वैश्ये ऽअष्टमांशो वृत्तस्थे शूद्रे ज्ञेयस् तु षोडशः ||  
   
-Manu11.127a[126ṃa]/ akāmatas tu rājanyaṃ vinipātya) dvijottamaḥ |  
+मनु११।१२७अ[१२६ंअ]/ अकामतस् तु राजन्यं विनिपात्य) द्विजोत्तमः |  
   
-Manu11.127c[126ṃc]/ vṛṣabha.ekasahasrā gā dadyāt) sucarita.vrataḥ ||  
+मनु११।१२७च्[१२६ंच्]/ वृषभ।एकसहस्रा गा दद्यात्) सुचरित।व्रतः ||  
   
-Manu11.128a[127ṃa]/ tryabdaṃ cared) vā niyato jaṭī brahmahaṇo vratam |  
+मनु११।१२८अ[१२७ंअ]/ त्र्यब्दं चरेद्) वा नियतो जटी ब्रह्महणो व्रतम् |  
   
-Manu11.128c[127ṃc]/ vasan) dūratare grāmād vṛkṣamūla.niketanaḥ ||  
+मनु११।१२८च्[१२७ंच्]/ वसन्) दूरतरे ग्रामाद् वृक्षमूल।निकेतनः ||  
   
-Manu11.129a[128ṃa]/ etad eva cared) abdaṃ prāyaścittaṃ dvijottamaḥ |  
+मनु११।१२९अ[१२८ंअ]/ एतद् एव चरेद्) अब्दं प्रायश्चित्तं द्विजोत्तमः |  
   
-Manu11.129c[128ṃc]/ pramāpya) vaiśyaṃ vṛttasthaṃ  dadyāc ca-ekaśataṃ  || [M.dadyād) vā-ekaśataṃ gavām]  
+मनु११।१२९च्[१२८ंच्]/ प्रमाप्य) वैश्यं वृत्तस्थं  दद्याच् च-एकशतं  || [म्।दद्याद्) वा-एकशतं गवाम्]  
   
-Manu11.130a[129ṃa]/ etad eva vrataṃ kṛtsnaṃ ṣaṇmāsān-śūdrahā caret )|  
+मनु११।१३०अ[१२९ंअ]/ एतद् एव व्रतं कृत्स्नं षण्मासान्-शूद्रहा चरेत् )|  
   
-Manu11.130c[129ṃc]/  vṛṣabha.ekādaśā vā-api dadyād) viprāya gāḥ sitāḥ ||  
+मनु११।१३०च्[१२९ंच्]/  वृषभ।एकादशा वा-अपि दद्याद्) विप्राय गाः सिताः ||  
   
-Manu11.131a[130ṃa]/ mārjāra.nakulau hatvā) cāṣaṃ maṇḍūkam eva ca |  
+मनु११।१३१अ[१३०ंअ]/ मार्जार।नकुलौ हत्वा) चाषं मण्डूकम् एव च |  
   
-Manu11.131c[130ṃc]/ śva.godhā.ulūka.kākāṃś ca śūdrahatyāvrataṃ caret) ||  
+मनु११।१३१च्[१३०ंच्]/ श्व।गोधा।उलूक।काकांश् च शूद्रहत्याव्रतं चरेत्) ||  
   
-Manu11.132a[131ṃa]/ payaḥ pibet) trirātraṃ vā yojanaṃ vā-adhvano vrajet) |  
+मनु११।१३२अ[१३१ंअ]/ पयः पिबेत्) त्रिरात्रं वा योजनं वा-अध्वनो व्रजेत्) |  
   
-Manu11.132c[131ṃc]/ upaspṛśet) sravantyāṃ vā sūktaṃ vā-ab.daivataṃ japet) ||  
+मनु११।१३२च्[१३१ंच्]/ उपस्पृशेत्) स्रवन्त्यां वा सूक्तं वा-अब्।दैवतं जपेत्) ||  
   
-Manu11.133a[132ṃa]/ abhriṃ kārṣṇāyasīṃ dadyāt) sarpaṃ hatvā) dvijottamaḥ |  
+मनु११।१३३अ[१३२ंअ]/ अभ्रिं कार्ष्णायसीं दद्यात्) सर्पं हत्वा) द्विजोत्तमः |  
   
-Manu11.133c[132ṃc]/ palālabhārakaṃ ṣaṇḍhe saisakaṃ ca-ekamāṣakam ||  
+मनु११।१३३च्[१३२ंच्]/ पलालभारकं षण्ढे सैसकं च-एकमाषकम् ||  
   
-Manu11.134a[133ṃa]/ ghṛtakumbhaṃ varāhe tu tiladroṇaṃ tu tittirau |  
+मनु११।१३४अ[१३३ंअ]/ घृतकुम्भं वराहे तु तिलद्रोणं तु तित्तिरौ |  
   
-Manu11.134c[133ṃc]/ śuke dvihāyanaṃ vatsaṃ krauñcaṃ hatvā) trihāyanam ||  
+मनु११।१३४च्[१३३ंच्]/ शुके द्विहायनं वत्सं क्रौञ्चं हत्वा) त्रिहायनम् ||  
   
-Manu11.135a[134ṃa]/ hatvā) haṃsaṃ balākāṃ ca bakaṃ barhiṇam eva ca |  
+मनु११।१३५अ[१३४ंअ]/ हत्वा) हंसं बलाकां च बकं बर्हिणम् एव च |  
   
-Manu11.135c[134ṃc]/ vānaraṃ śyena.bhāsau ca sparśayed) brāhmaṇāya gām ||  
+मनु११।१३५च्[१३४ंच्]/ वानरं श्येन।भासौ च स्पर्शयेद्) ब्राह्मणाय गाम् ||  
   
-Manu11.136a[135ṃa]/ vāso dadyādd) hayaṃ hatvā) pañca nīlān vṛṣān gajam |  
+मनु११।१३६अ[१३५ंअ]/ वासो दद्याद्द्) हयं हत्वा) पञ्च नीलान् वृषान् गजम् |  
   
-Manu11.136c[135ṃc]/ aja.meṣāv anaḍvāhaṃ kharaṃ hatvā)-ekahāyanam ||  
+मनु११।१३६च्[१३५ंच्]/ अज।मेषाव् अनड्वाहं खरं हत्वा)-एकहायनम् ||  
   
-Manu11.137a[136ṃa]/ kravyādāṃs tu mṛgān hatvā) dhenuṃ dadyāt) payasvinīm |  
+मनु११।१३७अ[१३६ंअ]/ क्रव्यादांस् तु मृगान् हत्वा) धेनुं दद्यात्) पयस्विनीम् |  
   
-Manu11.137c[136ṃc]/ akravyādān vatsatarīm uṣṭraṃ hatvā) tu kṛṣṇalam ||  
+मनु११।१३७च्[१३६ंच्]/ अक्रव्यादान् वत्सतरीम् उष्ट्रं हत्वा) तु कृष्णलम् ||  
   
-Manu11.138a[137ṃa]/ jīna.kārmuka.basta.avīn pṛthag dadyād) viśuddhaye |  
+मनु११।१३८अ[१३७ंअ]/ जीन।कार्मुक।बस्त।अवीन् पृथग् दद्याद्) विशुद्धये |  
   
-Manu11.138c[137ṃc]/ caturṇām api varṇānāṃ nārīr hatvā)-an.avasthitāḥ ||  
+मनु११।१३८च्[१३७ंच्]/ चतुर्णाम् अपि वर्णानां नारीर् हत्वा)-अन्।अवस्थिताः ||  
   
-Manu11.139a[138ṃa]/ dānena vadhanirṇekaṃ sarpādīnām a.śaknuvan |  
+मनु११।१३९अ[१३८ंअ]/ दानेन वधनिर्णेकं सर्पादीनाम् अ।शक्नुवन् |  
   
-Manu11.139c[138ṃc]/ ekaikaśaś caret) kṛcchraṃ dvijaḥ pāpāpanuttaye ||  
+मनु११।१३९च्[१३८ंच्]/ एकैकशश् चरेत्) कृच्छ्रं द्विजः पापापनुत्तये ||  
   
-Manu11.140a[139ṃa]/ asthimatāṃ tu sattvānāṃ sahasrasya pramāpaṇe |  
+मनु११।१४०अ[१३९ंअ]/ अस्थिमतां तु सत्त्वानां सहस्रस्य प्रमापणे |  
   
-Manu11.140c[139ṃc]/ pūrṇe ca-anasy an.asthnāṃ tu śūdrahatyāvrataṃ caret) ||  
+मनु११।१४०च्[१३९ंच्]/ पूर्णे च-अनस्य् अन्।अस्थ्नां तु शूद्रहत्याव्रतं चरेत्) ||  
   
-Manu11.141a[140ṃa]/ kiṃ cid eva tu viprāya dadyād) asthimatāṃ vadhe |  
+मनु११।१४१अ[१४०ंअ]/ किं चिद् एव तु विप्राय दद्याद्) अस्थिमतां वधे |  
   
-Manu11.141c[140ṃc]/ an.asthnāṃ ca-eva hiṃsāyāṃ prāṇāyāmena śudhyati) ||  
+मनु११।१४१च्[१४०ंच्]/ अन्।अस्थ्नां च-एव हिंसायां प्राणायामेन शुध्यति) ||  
   
-Manu11.142a[141ṃa]/ phaladānāṃ tu vṛkṣāṇāṃ chedane japyam ṛc.śatam |  
+मनु११।१४२अ[१४१ंअ]/ फलदानां तु वृक्षाणां छेदने जप्यम् ऋच्।शतम् |  
   
-Manu11.142c[141ṃc]/ gulma.vallī.latānāṃ ca puṣpitānāṃ ca vīrudhām ||  
+मनु११।१४२च्[१४१ंच्]/ गुल्म।वल्ली।लतानां च पुष्पितानां च वीरुधाम् ||  
   
-Manu11.143a[142ṃa]/ annādyajānāṃ sattvānāṃ rasajānāṃ ca sarvaśaḥ |  
+मनु११।१४३अ[१४२ंअ]/ अन्नाद्यजानां सत्त्वानां रसजानां च सर्वशः |  
   
-Manu11.143c[142ṃc]/ phala.puṣpa.udbhavānāṃ ca ghṛtaprāśo viśodhanam ||  
+मनु११।१४३च्[१४२ंच्]/ फल।पुष्प।उद्भवानां च घृतप्राशो विशोधनम् ||  
   
-Manu11.144a[143ṃa]/ kṛṣtajānām oṣadhīnāṃ jātānāṃ ca svayaṃ vane |   
+मनु११।१४४अ[१४३ंअ]/ कृष्तजानाम् ओषधीनां जातानां च स्वयं वने |   
   
-Manu11.144c[143ṃc]/ vṛthālambhe 'anugacched) gāṃ dinam ekaṃ payo.vrataḥ ||  
+मनु११।१४४च्[१४३ंच्]/ वृथालम्भे ऽअनुगच्छेद्) गां दिनम् एकं पयो।व्रतः ||  
   
-Manu11.145a[144ṃa]/ etair vratair apohyaṃ syād) eno hiṃsā.samudbhavam |  
+मनु११।१४५अ[१४४ंअ]/ एतैर् व्रतैर् अपोह्यं स्याद्) एनो हिंसा।समुद्भवम् |  
   
-Manu11.145c[144ṃc]/ jñāna.ajñānakṛtaṃ kṛtsnaṃ śṛṇuta)-anādyabhakṣaṇe ||  
+मनु११।१४५च्[१४४ंच्]/ ज्ञान।अज्ञानकृतं कृत्स्नं शृणुत)-अनाद्यभक्षणे ||  
   
   
   
-Manu11.146a[145ṃa]/ ajñānād vāruṇīṃ pītvā) saṃskāreṇa-eva śudhyati) |  
+मनु११।१४६अ[१४५ंअ]/ अज्ञानाद् वारुणीं पीत्वा) संस्कारेण-एव शुध्यति) |  
   
-Manu11.146c[145ṃc]/ matipūrvam anirdeśyaṃ prāṇāntikam iti sthitiḥ ||  
+मनु११।१४६च्[१४५ंच्]/ मतिपूर्वम् अनिर्देश्यं प्राणान्तिकम् इति स्थितिः ||  
   
-Manu11.147a[146ṃa]/ apaḥ surābhājanasthā madyabhāṇḍasthitās tathā |  
+मनु११।१४७अ[१४६ंअ]/ अपः सुराभाजनस्था मद्यभाण्डस्थितास् तथा |  
   
-Manu11.147c[146ṃc]/ pañcarātraṃ pibet) pītvā) śaṅkhapuṣpīśṛtaṃ payaḥ ||  
+मनु११।१४७च्[१४६ंच्]/ पञ्चरात्रं पिबेत्) पीत्वा) शङ्खपुष्पीशृतं पयः ||  
   
-Manu11.148a[147ṃa]/ spṛṣṭva) dattvā) ca madirāṃ vidhivat pratigṛhya) ca |  
+मनु११।१४८अ[१४७ंअ]/ स्पृष्ट्व) दत्त्वा) च मदिरां विधिवत् प्रतिगृह्य) च |  
   
-Manu11.148c[147ṃc]/ śūdra.ucchiṣṭāś ca pītvā)-apaḥ kuśavāri pibet) tryaham ||  
+मनु११।१४८च्[१४७ंच्]/ शूद्र।उच्छिष्टाश् च पीत्वा)-अपः कुशवारि पिबेत्) त्र्यहम् ||  
   
-Manu11.149a[148ṃa]/ brāhmaṇas tu surāpasya gandham āghrāya) somapaḥ |  
+मनु११।१४९अ[१४८ंअ]/ ब्राह्मणस् तु सुरापस्य गन्धम् आघ्राय) सोमपः |  
   
-Manu11.149c[148ṃc]/ prāṇān apsu trir āyamya) ghṛtaṃ prāśya) viśudhyati) ||  
+मनु११।१४९च्[१४८ंच्]/ प्राणान् अप्सु त्रिर् आयम्य) घृतं प्राश्य) विशुध्यति) ||  
   
-Manu11.150a[149ṃa]/ ajñānāt prāśya viṣ.mūtraṃ surāsaṃspṛṣṭam eva ca |  
+मनु११।१५०अ[१४९ंअ]/ अज्ञानात् प्राश्य विष्।मूत्रं सुरासंस्पृष्टम् एव च |  
   
-Manu11.150c[149ṃc]/ punaḥ saṃskāram arhanti) trayo varṇā dvijātayaḥ ||  
+मनु११।१५०च्[१४९ंच्]/ पुनः संस्कारम् अर्हन्ति) त्रयो वर्णा द्विजातयः ||  
   
-Manu11.151a[150ṃa]/ vapanaṃ mekhalā daṇḍo bhaikṣacaryā vratāni ca | [M.bhaikṣyacaryā ]  
+मनु११।१५१अ[१५०ंअ]/ वपनं मेखला दण्डो भैक्षचर्या व्रतानि च | [म्।भैक्ष्यचर्या ]  
   
-Manu11.151c[150ṃc]/ nivartante) dvijātīnāṃ punaḥsaṃskārakarmaṇi ||  
+मनु११।१५१च्[१५०ंच्]/ निवर्तन्ते) द्विजातीनां पुनःसंस्कारकर्मणि ||  
   
-Manu11.152a[151ṃa]/ abhojyānāṃ tu bhuktvā)-annaṃ strī.śūdra.ucchiṣṭam eva ca |  
+मनु११।१५२अ[१५१ंअ]/ अभोज्यानां तु भुक्त्वा)-अन्नं स्त्री।शूद्र।उच्छिष्टम् एव च |  
   
-Manu11.152[151ṃc]/ jagdhvā) māṃsam abhakṣyaṃ ca saptarātraṃ yavān pibet) ||  
+मनु११।१५२[१५१ंच्]/ जग्ध्वा) मांसम् अभक्ष्यं च सप्तरात्रं यवान् पिबेत्) ||  
   
-Manu11.153a[152ṃa]/ śuktāni ca kaṣāyāṃś ca pītvā) medhyāny api dvijaḥ |  
+मनु११।१५३अ[१५२ंअ]/ शुक्तानि च कषायांश् च पीत्वा) मेध्यान्य् अपि द्विजः |  
   
-Manu11.153c[152ṃc]/ tāvad bhavaty) a.prayato yāvat tan na vrajaty) adhaḥ ||  
+मनु११।१५३च्[१५२ंच्]/ तावद् भवत्य्) अ।प्रयतो यावत् तन् न व्रजत्य्) अधः ||  
   
-Manu11.154a[153ṃa]/ viḍvarāha.khara.uṣtrāṇāṃ gomāyoḥ kapi.kākayoḥ |  
+मनु११।१५४अ[१५३ंअ]/ विड्वराह।खर।उष्त्राणां गोमायोः कपि।काकयोः |  
   
-Manu11.154c[153ṃc]/ prāśya) mūtra.purīṣāṇi dvijaś cāndrāyaṇaṃ caret) ||  
+मनु११।१५४च्[१५३ंच्]/ प्राश्य) मूत्र।पुरीषाणि द्विजश् चान्द्रायणं चरेत्) ||  
   
-Manu11.155a[154ṃa]/ śuṣkāṇi bhuktvā) māṃsāni bhaumāni kavakāni ca |  
+मनु११।१५५अ[१५४ंअ]/ शुष्काणि भुक्त्वा) मांसानि भौमानि कवकानि च |  
   
-Manu11.155c[154ṃc]/ ajñātaṃ ca-eva sūnāstham etad eva vrataṃ caret) ||  
+मनु११।१५५च्[१५४ंच्]/ अज्ञातं च-एव सूनास्थम् एतद् एव व्रतं चरेत्) ||  
   
-Manu11.156a[155ṃa]/ kravyāda.sūkara.uṣṭrāṇāṃ kukkuṭānāṃ ca bhakṣaṇe |  
+मनु११।१५६अ[१५५ंअ]/ क्रव्याद।सूकर।उष्ट्राणां कुक्कुटानां च भक्षणे |  
   
-Manu11.156c[155ṃc]/ nara.kāka.kharāṇāṃ ca taptakṛcchraṃ viśodhanam ||  
+मनु११।१५६च्[१५५ंच्]/ नर।काक।खराणां च तप्तकृच्छ्रं विशोधनम् ||  
   
-Manu11.157a[156ṃa]/ māsikānnaṃ tu yo 'aśnīyād) asamāvartako dvijaḥ |  
+मनु११।१५७अ[१५६ंअ]/ मासिकान्नं तु यो ऽअश्नीयाद्) असमावर्तको द्विजः |  
   
-Manu11.157c[156ṃc]/ sa trīṇy ahāny upavased) ekāhaṃ ca-udake vaset) ||  
+मनु११।१५७च्[१५६ंच्]/ स त्रीण्य् अहान्य् उपवसेद्) एकाहं च-उदके वसेत्) ||  
   
-Manu11.158a[157ṃa]/ brahmacārī tu yo 'aśnīyān) madhu māṃsaṃ kathaṃ cana | [M.vratacārī tu ]  
+मनु११।१५८अ[१५७ंअ]/ ब्रह्मचारी तु यो ऽअश्नीयान्) मधु मांसं कथं चन | [म्।व्रतचारी तु ]  
   
-Manu11.158c[157ṃc]/ sa kṛtvā) prākṛtaṃ kṛcchraṃ vrataśeṣaṃ samāpayet) ||  
+मनु११।१५८च्[१५७ंच्]/ स कृत्वा) प्राकृतं कृच्छ्रं व्रतशेषं समापयेत्) ||  
   
-Manu11.159a[158ṃa]/ biḍāla.kāka.ākhu.ucchiṣṭaṃ jagdhvā) śva.nakulasya ca |  
+मनु११।१५९अ[१५८ंअ]/ बिडाल।काक।आखु।उच्छिष्टं जग्ध्वा) श्व।नकुलस्य च |  
   
-Manu11.159c[158ṃc]/ keśa.kīṭāvapannaṃ ca pibed) brahmasuvarcalām ||  
+मनु११।१५९च्[१५८ंच्]/ केश।कीटावपन्नं च पिबेद्) ब्रह्मसुवर्चलाम् ||  
   
-Manu11.160a[159ṃa]/ abhojyam annaṃ na-attavyam) ātmanaḥ śuddhim icchatā |  
+मनु११।१६०अ[१५९ंअ]/ अभोज्यम् अन्नं न-अत्तव्यम्) आत्मनः शुद्धिम् इच्छता |  
   
-Manu11.160c[159ṃc]/ ajñānabhuktaṃ tu-uttāryaṃ) śodhyaṃ) vā-apy āśu śodhanaiḥ ||  
+मनु११।१६०च्[१५९ंच्]/ अज्ञानभुक्तं तु-उत्तार्यं) शोध्यं) वा-अप्य् आशु शोधनैः ||  
   
-Manu11.161a[160ṃa]/ eṣo 'anādya.adanasya-ukto vratānāṃ vividho vidhiḥ |  
+मनु११।१६१अ[१६०ंअ]/ एषो ऽअनाद्य।अदनस्य-उक्तो व्रतानां विविधो विधिः |  
   
-Manu11.161c[160ṃc]/ steyadoṣāpahartqṇāṃ vratānāṃ śrūyatāṃ) vidhiḥ ||  
+मनु११।१६१च्[१६०ंच्]/ स्तेयदोषापहर्त्क़्णां व्रतानां श्रूयतां) विधिः ||  
   
-Manu11.162a[161ṃa]/ dhānya.anna.dhanacauryāṇi kṛtvā) kāmād dvijottamaḥ |  
+मनु११।१६२अ[१६१ंअ]/ धान्य।अन्न।धनचौर्याणि कृत्वा) कामाद् द्विजोत्तमः |  
   
-Manu11.162c[161ṃc]/ svajātīyagṛhād eva kṛcchrābdena viśudhyati) ||  
+मनु११।१६२च्[१६१ंच्]/ स्वजातीयगृहाद् एव कृच्छ्राब्देन विशुध्यति) ||  
   
-Manu11.163a[162ṃa]/ manuṣyāṇāṃ tu haraṇe strīṇāṃ kṣetra.gṛhasya ca |  
+मनु११।१६३अ[१६२ंअ]/ मनुष्याणां तु हरणे स्त्रीणां क्षेत्र।गृहस्य च |  
   
-Manu11.163c[162ṃc]/ kūpa.vāpījalānāṃ ca śuddhiś cāndrāyaṇaṃ smṛtam) ||  
+मनु११।१६३च्[१६२ंच्]/ कूप।वापीजलानां च शुद्धिश् चान्द्रायणं स्मृतम्) ||  
   
-Manu11.164a[163ṃa]/ dravyāṇām alpa.sārāṇāṃ steyaṃ  kṛtvā-anyaveśmataḥ  | [M.kṛtvā)-anyaveśmani]  
+मनु११।१६४अ[१६३ंअ]/ द्रव्याणाम् अल्प।साराणां स्तेयं  कृत्वा-अन्यवेश्मतः  | [म्।कृत्वा)-अन्यवेश्मनि]  
   
-Manu11.164c[163ṃc]/ caret sāṃtapanaṃ kṛcchraṃ tan niryāty) ātmaśuddhaye ||  
+मनु११।१६४च्[१६३ंच्]/ चरेत् सांतपनं कृच्छ्रं तन् निर्यात्य्) आत्मशुद्धये ||  
   
-Manu11.165a[164ṃa]/ bhakṣya.bhojyāpaharaṇe yāna.śayyā.āsanasya ca |  
+मनु११।१६५अ[१६४ंअ]/ भक्ष्य।भोज्यापहरणे यान।शय्या।आसनस्य च |  
   
-Manu11.165c[164ṃc]/ puṣpa.mūla.phalānāṃ ca pañcagavyaṃ viśodhanam ||  
+मनु११।१६५च्[१६४ंच्]/ पुष्प।मूल।फलानां च पञ्चगव्यं विशोधनम् ||  
   
-Manu11.166a[165ṃa]/ tṛṇa.kāṣṭha.drumāṇāṃ ca śuṣkānnasya guḍasya ca |  
+मनु११।१६६अ[१६५ंअ]/ तृण।काष्ठ।द्रुमाणां च शुष्कान्नस्य गुडस्य च |  
   
-Manu11.166c[165ṃc]/ cela.carma.āmiṣāṇāṃ ca trirātraṃ syād) abhojanam || [M.caila.carma.āmikṣāṇāṃ ]  
+मनु११।१६६च्[१६५ंच्]/ चेल।चर्म।आमिषाणां च त्रिरात्रं स्याद्) अभोजनम् || [म्।चैल।चर्म।आमिक्षाणां ]  
   
-Manu11.167a[166ṃa]/ maṇi.muktā.pravālānāṃ tāmrasya rajatasya ca |  
+मनु११।१६७अ[१६६ंअ]/ मणि।मुक्ता।प्रवालानां ताम्रस्य रजतस्य च |  
   
-Manu11.167c[166ṃc]/ ayaḥ.kāṃsya.upalānāṃ ca dvādaśāhaṃ kaṇānnatā ||  
+मनु११।१६७च्[१६६ंच्]/ अयः।कांस्य।उपलानां च द्वादशाहं कणान्नता ||  
   
-Manu11.168a[167ṃa]/ kārpāsa.kīṭaja.ūrṇānāṃ dviśapha.ekaśaphasya ca | [M.dveśapha.ekakhurasya ca]  
+मनु११।१६८अ[१६७ंअ]/ कार्पास।कीटज।ऊर्णानां द्विशफ।एकशफस्य च | [म्।द्वेशफ।एकखुरस्य च]  
   
-Manu11.168c[167ṃc]/ pakṣi.gandha.oṣadhīnāṃ ca rajjvāś ca-eva tryahaṃ payaḥ ||  
+मनु११।१६८च्[१६७ंच्]/ पक्षि।गन्ध।ओषधीनां च रज्ज्वाश् च-एव त्र्यहं पयः ||  
   
-Manu11.169a[168ṃa]/ etair vratair apoheta) pāpaṃ steyakṛtaṃ dvijaḥ |  
+मनु११।१६९अ[१६८ंअ]/ एतैर् व्रतैर् अपोहेत) पापं स्तेयकृतं द्विजः |  
   
-Manu11.169c[168ṃc]/ agamyāgamanīyaṃ tu vratair ebhir apānudet) ||  
+मनु११।१६९च्[१६८ंच्]/ अगम्यागमनीयं तु व्रतैर् एभिर् अपानुदेत्) ||  
   
-Manu11.170a[169ṃa]/ gurutalpavrataṃ kuryād) retaḥ siktvā) svayoniṣu |  
+मनु११।१७०अ[१६९ंअ]/ गुरुतल्पव्रतं कुर्याद्) रेतः सिक्त्वा) स्वयोनिषु |  
   
-Manu11.170c[169ṃc]/ sakhyuḥ putrasya ca strīṣu kumārīṣv antyajāsu ca ||  
+मनु११।१७०च्[१६९ंच्]/ सख्युः पुत्रस्य च स्त्रीषु कुमारीष्व् अन्त्यजासु च ||  
   
-Manu11.171a[170ṃa]/ paitṛsvaseyīṃ bhaginīṃ svasrīyāṃ mātur eva ca |  
+मनु११।१७१अ[१७०ंअ]/ पैतृस्वसेयीं भगिनीं स्वस्रीयां मातुर् एव च |  
   
-Manu11.171c[170ṃc]/ mātuś ca bhrātus tanayāṃ gatvā  cāndrāyaṇaṃ caret) || [bhrātur āptasya gatvā)]  
+मनु११।१७१च्[१७०ंच्]/ मातुश् च भ्रातुस् तनयां गत्वा  चान्द्रायणं चरेत्) || [भ्रातुर् आप्तस्य गत्वा)]  
   
-Manu11.172a[171ṃa]/ etās tisras tu bhāryārthe na-upayacchet tu buddhimān |  
+मनु११।१७२अ[१७१ंअ]/ एतास् तिस्रस् तु भार्यार्थे न-उपयच्छेत् तु बुद्धिमान् |  
   
-Manu11.172c[171ṃc]/ jñātitvena-an.upeyās tāḥ patati) hy upayann) adhaḥ ||  
+मनु११।१७२च्[१७१ंच्]/ ज्ञातित्वेन-अन्।उपेयास् ताः पतति) ह्य् उपयन्न्) अधः ||  
   
-Manu11.173a[172ṃa]/ amānuṣīṣū puruṣa udakyāyām ayoniṣu |  
+मनु११।१७३अ[१७२ंअ]/ अमानुषीषू पुरुष उदक्यायाम् अयोनिषु |  
   
-Manu11.173c[172ṃc]/ retaḥ siktvā) jale ca-eva kṛcchraṃ sāṃtapanaṃ caret) ||  
+मनु११।१७३च्[१७२ंच्]/ रेतः सिक्त्वा) जले च-एव कृच्छ्रं सांतपनं चरेत्) ||  
   
-Manu11.174a[173ṃa]/ maithunaṃ tu samāsevya) puṃsi yoṣiti vā dvijaḥ |  
+मनु११।१७४अ[१७३ंअ]/ मैथुनं तु समासेव्य) पुंसि योषिति वा द्विजः |  
   
-Manu11.174c[173ṃc]/ go.yāne 'apsu divā ca-eva sa.vāsāḥ snānam ācaret) ||  
+मनु११।१७४च्[१७३ंच्]/ गो।याने ऽअप्सु दिवा च-एव स।वासाः स्नानम् आचरेत्) ||  
   
-Manu11.175a[174ṃa]/ caṇḍāla.antyastriyo gatvā) bhuktvā) ca pratigṛhya) ca |  
+मनु११।१७५अ[१७४ंअ]/ चण्डाल।अन्त्यस्त्रियो गत्वा) भुक्त्वा) च प्रतिगृह्य) च |  
   
-Manu11.175c[174ṃc]/ pataty) ajñānato vipro jñānāt sāmyaṃ tu gacchati) ||  
+मनु११।१७५च्[१७४ंच्]/ पतत्य्) अज्ञानतो विप्रो ज्ञानात् साम्यं तु गच्छति) ||  
   
-Manu11.176a[175ṃa]/ vipraduṣṭāṃ striyaṃ bhartā nirundhyād) ekaveśmani |  
+मनु११।१७६अ[१७५ंअ]/ विप्रदुष्टां स्त्रियं भर्ता निरुन्ध्याद्) एकवेश्मनि |  
   
-Manu11.176c[175ṃc]/ yat puṃsaḥ paradāreṣu tac ca-enāṃ cārayed) vratam ||  
+मनु११।१७६च्[१७५ंच्]/ यत् पुंसः परदारेषु तच् च-एनां चारयेद्) व्रतम् ||  
   
-Manu11.177a[176ṃa]/ sā cet punaḥ praduṣyet) tu sadṛśena-upamantritā | [K:sadṛśena-upayantritā?]  
+मनु११।१७७अ[१७६ंअ]/ सा चेत् पुनः प्रदुष्येत्) तु सदृशेन-उपमन्त्रिता | [क्:सदृशेन-उपयन्त्रिता?]  
   
-Manu11.177c[176ṃc]/ kṛcchraṃ cāndrāyaṇaṃ ca-eva tad asyāḥ pāvanaṃ smṛtam ||  
+मनु११।१७७च्[१७६ंच्]/ कृच्छ्रं चान्द्रायणं च-एव तद् अस्याः पावनं स्मृतम् ||  
   
-Manu11.178a[177ṃa]/ yat karoty) ekarātreṇa vṛṣalīsevanād dvijaḥ |  
+मनु११।१७८अ[१७७ंअ]/ यत् करोत्य्) एकरात्रेण वृषलीसेवनाद् द्विजः |  
   
-Manu11.178c[177ṃc]/ tad bhaikṣabhuj-japan) nityaṃ tribhir varṣair vyapohati) ||   
+मनु११।१७८च्[१७७ंच्]/ तद् भैक्षभुज्-जपन्) नित्यं त्रिभिर् वर्षैर् व्यपोहति) ||   
   
-Manu11.179a[178ṃa]/ eṣā pāpakṛtām uktā caturṇām api niṣkṛtiḥ |  
+मनु११।१७९अ[१७८ंअ]/ एषा पापकृताम् उक्ता चतुर्णाम् अपि निष्कृतिः |  
   
-Manu11.179c[178ṃc]/ patitaiḥ saṃprayuktānām imāḥ śṛṇuta) niṣkṛtīḥ ||  
+मनु११।१७९च्[१७८ंच्]/ पतितैः संप्रयुक्तानाम् इमाः शृणुत) निष्कृतीः ||  
   
   
   
-Manu11.180a[179ṃa]/ saṃvatsareṇa patati) patitena saha-ācaran) |  
+मनु११।१८०अ[१७९ंअ]/ संवत्सरेण पतति) पतितेन सह-आचरन्) |  
   
-Manu11.180c[179ṃc]/ yājana.adhyāpanād yaunāt-na tu yāna.āsana.aśanāt ||  
+मनु११।१८०च्[१७९ंच्]/ याजन।अध्यापनाद् यौनात्-न तु यान।आसन।अशनात् ||  
   
-Manu11.181a[180ṃa]/ yo yena patitena-eṣāṃ saṃsargaṃ yāti) mānavaḥ |  
+मनु११।१८१अ[१८०ंअ]/ यो येन पतितेन-एषां संसर्गं याति) मानवः |  
   
-Manu11.181c[180ṃc]/ sa tasya-eva vrataṃ kuryāt) tatsaṃsargaviśuddhaye ||  
+मनु११।१८१च्[१८०ंच्]/ स तस्य-एव व्रतं कुर्यात्) तत्संसर्गविशुद्धये ||  
   
-Manu11.182a[181ṃa]/ patitasya-udakaṃ kāryaṃ sapiṇḍair bāndhavair bahiḥ |  
+मनु११।१८२अ[१८१ंअ]/ पतितस्य-उदकं कार्यं सपिण्डैर् बान्धवैर् बहिः |  
   
-Manu11.182c[181ṃc]/ nindite 'ahani sāyāhne jñāti.ṛtvij.gurusaṃnidhau ||  
-Manu11.183a[182ṃa]/ dāsī ghaṭam apāṃ pūrṇaṃ paryasyet) pretavat padā |  
-Manu11.183c[182ṃc]/ ahorātram upāsīrann) aśaucaṃ bāndhavaiḥ saha ||  
+मनु११।१८२च्[१८१ंच्]/ निन्दिते ऽअहनि सायाह्ने ज्ञाति।ऋत्विज्।गुरुसंनिधौ ||  
+मनु११।१८३अ[१८२ंअ]/ दासी घटम् अपां पूर्णं पर्यस्येत्) प्रेतवत् पदा |  
+मनु११।१८३च्[१८२ंच्]/ अहोरात्रम् उपासीरन्न्) अशौचं बान्धवैः सह ||  
   
-Manu11.184a[183ṃa]/ nivarteraṃś) ca tasmāt tu saṃbhāṣaṇa.sahāsane |  
+मनु११।१८४अ[१८३ंअ]/ निवर्तेरंश्) च तस्मात् तु संभाषण।सहासने |  
   
-Manu11.184c[183ṃc]/ dāyādyasya pradānaṃ ca yātrā ca-eva hi laukikī ||  
+मनु११।१८४च्[१८३ंच्]/ दायाद्यस्य प्रदानं च यात्रा च-एव हि लौकिकी ||  
   
-Manu11.185a[184ṃa]/ jyeṣṭhatā ca nivarteta) jyeṣṭhāvāpyaṃ ca yad dhanam | [M.yad vasu ]  
+मनु११।१८५अ[१८४ंअ]/ ज्येष्ठता च निवर्तेत) ज्येष्ठावाप्यं च यद् धनम् | [म्।यद् वसु ]  
   
-Manu11.185c[184ṃc]/ jyeṣṭhāṃśaṃ prāpnuyāc) ca-asya yavīyān guṇato 'adhikaḥ ||  
+मनु११।१८५च्[१८४ंच्]/ ज्येष्ठांशं प्राप्नुयाच्) च-अस्य यवीयान् गुणतो ऽअधिकः ||  
   
-Manu11.186a[185ṃa]/ prāyaścitte tu carite pūrṇakumbham apāṃ navam |  
+मनु११।१८६अ[१८५ंअ]/ प्रायश्चित्ते तु चरिते पूर्णकुम्भम् अपां नवम् |  
   
-Manu11.186c[185ṃc]/ tena-eva sārdhaṃ prāsyeyuḥ) snātvā) puṇye jalāśaye ||  
+मनु११।१८६च्[१८५ंच्]/ तेन-एव सार्धं प्रास्येयुः) स्नात्वा) पुण्ये जलाशये ||  
   
-Manu11.187a[186ṃa]/ sa tv apsu taṃ ghaṭaṃ prāsya) praviśya) bhavanaṃ svakam |  
+मनु११।१८७अ[१८६ंअ]/ स त्व् अप्सु तं घटं प्रास्य) प्रविश्य) भवनं स्वकम् |  
   
-Manu11.187c[186ṃc]/ sarvāṇi jñātikāryāṇi yathāpūrvaṃ samācaret) ||  
+मनु११।१८७च्[१८६ंच्]/ सर्वाणि ज्ञातिकार्याणि यथापूर्वं समाचरेत्) ||  
   
-Manu11.188a[187ṃa]/ etad eva vidhiṃ kuryād) yoṣitsu patitāsv api | [M.etam eva vidhiṃ]  
+मनु११।१८८अ[१८७ंअ]/ एतद् एव विधिं कुर्याद्) योषित्सु पतितास्व् अपि | [म्।एतम् एव विधिं]  
   
-Manu11.188c[187ṃc]/ vastra.anna.pānaṃ deyaṃ tu vaseyuś) ca gṛhāntike ||  
+मनु११।१८८च्[१८७ंच्]/ वस्त्र।अन्न।पानं देयं तु वसेयुश्) च गृहान्तिके ||  
   
-Manu11.189a[188ṃa]/ enasvibhir a.nirṇiktair na-arthaṃ kiṃ cit saha-ācaret) |   
+मनु११।१८९अ[१८८ंअ]/ एनस्विभिर् अ।निर्णिक्तैर् न-अर्थं किं चित् सह-आचरेत्) |   
   
-Manu11.189c[188ṃc]/ kṛtanirṇejanāṃś ca-eva na jugupseta) karhi cit || [M.kṛtanirṇejanāṃś ca-etān ]  
+मनु११।१८९च्[१८८ंच्]/ कृतनिर्णेजनांश् च-एव न जुगुप्सेत) कर्हि चित् || [म्।कृतनिर्णेजनांश् च-एतान् ]  
   
-Manu11.190a[189ṃa]/ bālaghnāṃś ca kṛtaghnāṃś ca viśuddhān api dharmataḥ |  
+मनु११।१९०अ[१८९ंअ]/ बालघ्नांश् च कृतघ्नांश् च विशुद्धान् अपि धर्मतः |  
   
-Manu11.190c[189ṃc]/ śaraṇāgatahantqṃś ca strīhantqṃś ca na saṃvaset) ||  
+मनु११।१९०च्[१८९ंच्]/ शरणागतहन्त्क़्ंश् च स्त्रीहन्त्क़्ंश् च न संवसेत्) ||  
   
-Manu11.191a[190ṃa]/ yeṣāṃ dvijānāṃ sāvitrī na-anūcyeta) yathāvidhi |  
+मनु११।१९१अ[१९०ंअ]/ येषां द्विजानां सावित्री न-अनूच्येत) यथाविधि |  
   
-Manu11.191c[190ṃc]/ tāṃś cārayitvā) trīn kṛcchrān yathāvidhi-upanāyayet) ||  
+मनु११।१९१च्[१९०ंच्]/ तांश् चारयित्वा) त्रीन् कृच्छ्रान् यथाविधि-उपनाययेत्) ||  
   
-Manu11.192a[191ṃa]/ prāyaścittaṃ cikīrṣanti) vikarmasthās tu ye dvijāḥ |  
+मनु११।१९२अ[१९१ंअ]/ प्रायश्चित्तं चिकीर्षन्ति) विकर्मस्थास् तु ये द्विजाः |  
   
-Manu11.192c[191ṃc]/ brahmaṇā ca parityaktās teṣām apy etad ādiśet) ||   
+मनु११।१९२च्[१९१ंच्]/ ब्रह्मणा च परित्यक्तास् तेषाम् अप्य् एतद् आदिशेत्) ||   
   
-Manu11.193a[192ṃa]/ yad garhitena-arjayanti) karmaṇā brāhmaṇā dhanam |  
+मनु११।१९३अ[१९२ंअ]/ यद् गर्हितेन-अर्जयन्ति) कर्मणा ब्राह्मणा धनम् |  
   
-Manu11.193c[192ṃc]/ tasya-utsargeṇa śudhyanti) japyena tapasā-eva ca ||  
+मनु११।१९३च्[१९२ंच्]/ तस्य-उत्सर्गेण शुध्यन्ति) जप्येन तपसा-एव च ||  
   
-Manu11.194a[193ṃa]/ japitvā) trīṇi sāvitryāḥ sahasrāṇi samāhitaḥ |  
+मनु११।१९४अ[१९३ंअ]/ जपित्वा) त्रीणि सावित्र्याः सहस्राणि समाहितः |  
   
-Manu11.194c[193ṃc]/ māsaṃ goṣṭhe payaḥ pītvā) mucyate) 'asatpratigrahāt ||  
+मनु११।१९४च्[१९३ंच्]/ मासं गोष्ठे पयः पीत्वा) मुच्यते) ऽअसत्प्रतिग्रहात् ||  
   
-Manu11.195a[194ṃa]/ upavāsakṛśaṃ taṃ tu govrajāt punar āgatam |  
+मनु११।१९५अ[१९४ंअ]/ उपवासकृशं तं तु गोव्रजात् पुनर् आगतम् |  
   
-Manu11.195c[194ṃc]/ praṇataṃ prati pṛccheyuḥ) sāmyaṃ saumya-icchasi)-iti kim ||  
+मनु११।१९५च्[१९४ंच्]/ प्रणतं प्रति पृच्छेयुः) साम्यं सौम्य-इच्छसि)-इति किम् ||  
   
-Manu11.196a[195ṃa]/ satyam uktvā) tu vipreṣu vikired) yavasaṃ gavām |  
+मनु११।१९६अ[१९५ंअ]/ सत्यम् उक्त्वा) तु विप्रेषु विकिरेद्) यवसं गवाम् |  
   
-Manu11.196c[195ṃc]/ gobhiḥ pravartite tīrthe kuryus) tasya parigraham ||  
+मनु११।१९६च्[१९५ंच्]/ गोभिः प्रवर्तिते तीर्थे कुर्युस्) तस्य परिग्रहम् ||  
   
-Manu11.197a[196ṃa]/ vrātyānāṃ yājanaṃ kṛtvā) pareṣām antyakarma ca |  
+मनु११।१९७अ[१९६ंअ]/ व्रात्यानां याजनं कृत्वा) परेषाम् अन्त्यकर्म च |  
   
-Manu11.197c[196ṃc]/ abhicāram ahīnaṃ ca tribhiḥ kṛcchrair vyapohati) ||  
+मनु११।१९७च्[१९६ंच्]/ अभिचारम् अहीनं च त्रिभिः कृच्छ्रैर् व्यपोहति) ||  
   
-Manu11.198a[197ṃa]/ śaraṇāgataṃ parityajya) vedaṃ viplāvya) ca dvijaḥ |  
+मनु११।१९८अ[१९७ंअ]/ शरणागतं परित्यज्य) वेदं विप्लाव्य) च द्विजः |  
   
-Manu11.198c[197ṃc]/ saṃvatsaraṃ yavāhāras tat pāpam apasedhati) ||  
+मनु११।१९८च्[१९७ंच्]/ संवत्सरं यवाहारस् तत् पापम् अपसेधति) ||  
   
-Manu11.199a[198ṃa]/ śva.śṛgāla.kharair daṣṭo grāmyaiḥ kravyādbhir eva ca |  
+मनु११।१९९अ[१९८ंअ]/ श्व।शृगाल।खरैर् दष्टो ग्राम्यैः क्रव्याद्भिर् एव च |  
   
-Manu11.199c[198ṃc]/ nara.aśva.uṣṭra.varāhaiś ca prāṇāyāmena śudhyati ) ||  
+मनु११।१९९च्[१९८ंच्]/ नर।अश्व।उष्ट्र।वराहैश् च प्राणायामेन शुध्यति ) ||  
   
-Manu11.200a[199ṃa]/ ṣaṣṭhānnakālatā māsaṃ saṃhitājapa eva vā |  
+मनु११।२००अ[१९९ंअ]/ षष्ठान्नकालता मासं संहिताजप एव वा |  
   
-Manu11.200c[199ṃc]/  homāś ca sakalā nityam apāṅktyānāṃ viśodhanam || [M.homāś ca śākalā ]  
+मनु११।२००च्[१९९ंच्]/  होमाश् च सकला नित्यम् अपाङ्क्त्यानां विशोधनम् || [म्।होमाश् च शाकला ]  
   
-Manu11.201a[200ṃa]/ uṣṭrayānaṃ samāruhya) kharayānaṃ tu kāmataḥ |  
+मनु११।२०१अ[२००ंअ]/ उष्ट्रयानं समारुह्य) खरयानं तु कामतः |  
   
-Manu11.201c[200ṃc]/ snātvā) tu vipro dig.vāsāḥ prāṇāyāmena śudhyati) ||  
+मनु११।२०१च्[२००ंच्]/ स्नात्वा) तु विप्रो दिग्।वासाः प्राणायामेन शुध्यति) ||  
   
-Manu11.202a[201ṃa]/ vinā-adbhir apsu vā-apy ārtaḥ śārīraṃ saṃniṣevya) ca |  
+मनु११।२०२अ[२०१ंअ]/ विना-अद्भिर् अप्सु वा-अप्य् आर्तः शारीरं संनिषेव्य) च |  
   
-Manu11.202c[201ṃc]/ sa.cailo bahir āplutya) gām ālabhya) viśudhyati) ||  
+मनु११।२०२च्[२०१ंच्]/ स।चैलो बहिर् आप्लुत्य) गाम् आलभ्य) विशुध्यति) ||  
   
-Manu11.203a[202ṃa]/ veda.uditānāṃ nityānāṃ karmaṇāṃ samatikrame |  
+मनु११।२०३अ[२०२ंअ]/ वेद।उदितानां नित्यानां कर्मणां समतिक्रमे |  
   
-Manu11.203c[202ṃc]/ snātakavratalope ca prāyaścittam abhojanam ||  
+मनु११।२०३च्[२०२ंच्]/ स्नातकव्रतलोपे च प्रायश्चित्तम् अभोजनम् ||  
   
-Manu11.204a[203ṃa]/ huṅkāraṃ brāhmaṇasya-uktvā tvamkāraṃ ca garīyasaḥ |  
+मनु११।२०४अ[२०३ंअ]/ हुङ्कारं ब्राह्मणस्य-उक्त्वा त्वम्कारं च गरीयसः |  
   
-Manu11.204c[203ṃc]/ snātvā)-an.aśnann) ahaḥ śeṣam abhivādya) prasādayet) ||  
+मनु११।२०४च्[२०३ंच्]/ स्नात्वा)-अन्।अश्नन्न्) अहः शेषम् अभिवाद्य) प्रसादयेत्) ||  
   
-Manu11.205a[204ṃa]/ tāḍayitvā) tṛṇena-api kaṇṭhe vā-ābadhya) vāsasā |  
+मनु११।२०५अ[२०४ंअ]/ ताडयित्वा) तृणेन-अपि कण्ठे वा-आबध्य) वाससा |  
   
-Manu11.205c[204ṃc]/ vivāde vā vinirjitya) praṇipatya) prasādayet) ||  
+मनु११।२०५च्[२०४ंच्]/ विवादे वा विनिर्जित्य) प्रणिपत्य) प्रसादयेत्) ||  
   
-Manu11.206a[205ṃa]/ avagūrya) tv abdaśataṃ sahasram abhihatya) ca |  
+मनु११।२०६अ[२०५ंअ]/ अवगूर्य) त्व् अब्दशतं सहस्रम् अभिहत्य) च |  
   
-Manu11.206c[205ṃc]/ jighāṃsayā brāhmaṇasya narakaṃ pratipadyate) ||  
+मनु११।२०६च्[२०५ंच्]/ जिघांसया ब्राह्मणस्य नरकं प्रतिपद्यते) ||  
   
-Manu11.207a[206ṃa]/ śoṇitaṃ yāvataḥ pāṃsūn saṃgṛhṇāti) mahītale |  
+मनु११।२०७अ[२०६ंअ]/ शोणितं यावतः पांसून् संगृह्णाति) महीतले |  
   
-Manu11.207c[206ṃc]/ tāvanty abdasahasrāṇi tatkartā narake vaset) || [M.narake vrajet ]  
+मनु११।२०७च्[२०६ंच्]/ तावन्त्य् अब्दसहस्राणि तत्कर्ता नरके वसेत्) || [म्।नरके व्रजेत् ]  
   
-Manu11.208a[207ṃa]/ avagūrya) caret) kṛcchram atikṛcchraṃ nipātane |  
+मनु११।२०८अ[२०७ंअ]/ अवगूर्य) चरेत्) कृच्छ्रम् अतिकृच्छ्रं निपातने |  
   
-Manu11.208c[207ṃc]/ kṛcchra.atikṛcchrau kurvīta) viprasya-utpādya) śoṇitam ||  
+मनु११।२०८च्[२०७ंच्]/ कृच्छ्र।अतिकृच्छ्रौ कुर्वीत) विप्रस्य-उत्पाद्य) शोणितम् ||  
   
-Manu11.209a[208ṃa]/ anuktaniṣkṛtīnāṃ tu pāpānām apanuttaye |  
+मनु११।२०९अ[२०८ंअ]/ अनुक्तनिष्कृतीनां तु पापानाम् अपनुत्तये |  
   
-Manu11.209c[208ṃc]/ śaktiṃ ca-avekṣya) pāpaṃ ca prāyaścittaṃ prakalpayet) ||  
+मनु११।२०९च्[२०८ंच्]/ शक्तिं च-अवेक्ष्य) पापं च प्रायश्चित्तं प्रकल्पयेत्) ||  
   
   
   
-Manu11.210a[209ṃa]/ yair abhyupāyair enāṃsi mānavo vyapakarṣati) |  
+मनु११।२१०अ[२०९ंअ]/ यैर् अभ्युपायैर् एनांसि मानवो व्यपकर्षति) |  
   
-Manu11.210c[209ṃc]/ tān vo 'abhyupāyān vakṣyāmi) deva.ṛṣi.pitṛsevitān ||  
+मनु११।२१०च्[२०९ंच्]/ तान् वो ऽअभ्युपायान् वक्ष्यामि) देव।ऋषि।पितृसेवितान् ||  
   
-Manu11.211a[210ṃa]/ tryahaṃ prātas tryahaṃ sāyaṃ tryaham adyād) ayācitam |  
+मनु११।२११अ[२१०ंअ]/ त्र्यहं प्रातस् त्र्यहं सायं त्र्यहम् अद्याद्) अयाचितम् |  
   
-Manu11.211c[210ṃc]/ tryahaṃ paraṃ ca na-aśnīyāt) prājāpatyaṃ caran) dvijaḥ ||  
+मनु११।२११च्[२१०ंच्]/ त्र्यहं परं च न-अश्नीयात्) प्राजापत्यं चरन्) द्विजः ||  
   
-Manu11.212a[211ṃa]/ gomūtraṃ gomayaṃ kṣīraṃ dadhi sarpiḥ kuśa.udakam |  
+मनु११।२१२अ[२११ंअ]/ गोमूत्रं गोमयं क्षीरं दधि सर्पिः कुश।उदकम् |  
   
-Manu11.212c[211ṃc]/ ekarātra.upavāsaś ca kṛcchraṃ sāṃtapanaṃ smṛtam ||  
+मनु११।२१२च्[२११ंच्]/ एकरात्र।उपवासश् च कृच्छ्रं सांतपनं स्मृतम् ||  
   
-Manu11.213a[212ṃa]/ ekaikaṃ grāsam aśnīyāt) tryahāṇi trīṇi pūrvavat |  
+मनु११।२१३अ[२१२ंअ]/ एकैकं ग्रासम् अश्नीयात्) त्र्यहाणि त्रीणि पूर्ववत् |  
   
-Manu11.213c[212ṃc]/ tryahaṃ ca-upavased) antyam atikṛcchraṃ caran) dvijaḥ ||  
+मनु११।२१३च्[२१२ंच्]/ त्र्यहं च-उपवसेद्) अन्त्यम् अतिकृच्छ्रं चरन्) द्विजः ||  
   
-Manu11.214a[213ṃa]/ taptakṛcchraṃ caran) vipro jala.kṣīra.ghṛta.anilān |  
+मनु११।२१४अ[२१३ंअ]/ तप्तकृच्छ्रं चरन्) विप्रो जल।क्षीर।घृत।अनिलान् |  
   
-Manu11.214c[213ṃc]/ prati.tryahaṃ pibed) uṣṇān sakṛtsnāyī samāhitaḥ ||  
+मनु११।२१४च्[२१३ंच्]/ प्रति।त्र्यहं पिबेद्) उष्णान् सकृत्स्नायी समाहितः ||  
   
-Manu11.215a[214ṃa]/ yata.ātmano 'apramattasya dvādaśāham abhojanam |  
+मनु११।२१५अ[२१४ंअ]/ यत।आत्मनो ऽअप्रमत्तस्य द्वादशाहम् अभोजनम् |  
   
-Manu11.215c[214ṃc]/ parāko nāma kṛcchro 'ayaṃ sarvapāpa.apanodanaḥ ||  
+मनु११।२१५च्[२१४ंच्]/ पराको नाम कृच्छ्रो ऽअयं सर्वपाप।अपनोदनः ||  
   
-Manu11.216a[215ṃa]/ ekaikaṃ hrāsayet) piṇḍaṃ kṛṣṇe śukle ca vardhayet) |  
+मनु११।२१६अ[२१५ंअ]/ एकैकं ह्रासयेत्) पिण्डं कृष्णे शुक्ले च वर्धयेत्) |  
   
-Manu11.216c[215ṃc]/ upaspṛśaṃs) triṣavaṇam etat-cāṇdrāyaṇaṃ smṛtam ||  
+मनु११।२१६च्[२१५ंच्]/ उपस्पृशंस्) त्रिषवणम् एतत्-चाण्द्रायणं स्मृतम् ||  
   
-Manu11.217a[216ṃa]/ etam eva vidhiṃ kṛtsnam ācared) yavamadhyame |  
+मनु११।२१७अ[२१६ंअ]/ एतम् एव विधिं कृत्स्नम् आचरेद्) यवमध्यमे |  
   
-Manu11.217c[216ṃc]/ śuklapakṣādiniyataś caraṃś) cāndrāyaṇaṃ vratam ||  
+मनु११।२१७च्[२१६ंच्]/ शुक्लपक्षादिनियतश् चरंश्) चान्द्रायणं व्रतम् ||  
   
-Manu11.218a[217ṃa]/ aṣṭāv aṣṭau samaśnīyāt) piṇḍān madhyaṃdine sthite |  
+मनु११।२१८अ[२१७ंअ]/ अष्टाव् अष्टौ समश्नीयात्) पिण्डान् मध्यंदिने स्थिते |  
   
-Manu11.218c[217ṃc]/ niyata.ātmā haviṣyāśī yaticāndrāyaṇaṃ caran) ||  
+मनु११।२१८च्[२१७ंच्]/ नियत।आत्मा हविष्याशी यतिचान्द्रायणं चरन्) ||  
   
-Manu11.219a[218ṃa]/ caturaḥ prātar aśnīyāt) piṇḍān vipraḥ samāhitaḥ |  
+मनु११।२१९अ[२१८ंअ]/ चतुरः प्रातर् अश्नीयात्) पिण्डान् विप्रः समाहितः |  
   
-Manu11.219c[218ṃc]/ caturo 'astam ite sūrye śiśucāndrāyaṇaṃ smṛtam ||  
+मनु११।२१९च्[२१८ंच्]/ चतुरो ऽअस्तम् इते सूर्ये शिशुचान्द्रायणं स्मृतम् ||  
   
-Manu11.220a[219ṃa]/ yathā kathaṃ cit piṇḍānāṃ tisro 'aśītīḥ samāhitaḥ |  
+मनु११।२२०अ[२१९ंअ]/ यथा कथं चित् पिण्डानां तिस्रो ऽअशीतीः समाहितः |  
   
-Manu11.220c[219ṃc]/ māsena-aśnan) haviṣyasya candrasya-eti) salokatām ||  
+मनु११।२२०च्[२१९ंच्]/ मासेन-अश्नन्) हविष्यस्य चन्द्रस्य-एति) सलोकताम् ||  
   
-Manu11.221a[220ṃa]/ etad rudrās tathā-ādityā vasavaś ca-ācaran) vratam |  
+मनु११।२२१अ[२२०ंअ]/ एतद् रुद्रास् तथा-आदित्या वसवश् च-आचरन्) व्रतम् |  
   
-Manu11.221c[220ṃc]/ sarvākuśalamokṣāya marutaś ca maharṣibhiḥ ||  
+मनु११।२२१च्[२२०ंच्]/ सर्वाकुशलमोक्षाय मरुतश् च महर्षिभिः ||  
   
   
   
-Manu11.222a[221ṃa]/ mahāvyāhṛtibhir homaḥ kartavyaḥ svayam anvaham |  
+मनु११।२२२अ[२२१ंअ]/ महाव्याहृतिभिर् होमः कर्तव्यः स्वयम् अन्वहम् |  
   
-Manu11.222c[221ṃc]/ ahiṃsā satyam akrodham ārjavaṃ ca samācaret) ||  
+मनु११।२२२च्[२२१ंच्]/ अहिंसा सत्यम् अक्रोधम् आर्जवं च समाचरेत्) ||  
   
-Manu11.223a[222ṃa]/ trir ahnas trir niśāyāṃ ca sa.vāsā jalam āviśet) |  
+मनु११।२२३अ[२२२ंअ]/ त्रिर् अह्नस् त्रिर् निशायां च स।वासा जलम् आविशेत्) |  
   
-Manu11.223c[222ṃc]/  strī.śūdra.patitāṃś ca-eva na-abhibhāṣeta) karhi cit ||  
+मनु११।२२३च्[२२२ंच्]/  स्त्री।शूद्र।पतितांश् च-एव न-अभिभाषेत) कर्हि चित् ||  
   
-Manu11.224a[223ṃa]/ sthāna.āsanābhyāṃ vihared) aśakto 'adhaḥ śayīta) vā |  
+मनु११।२२४अ[२२३ंअ]/ स्थान।आसनाभ्यां विहरेद्) अशक्तो ऽअधः शयीत) वा |  
   
-Manu11.224c[223ṃc]/ brahmacārī vratī ca syād) guru.deva.dvija.arcakaḥ ||  
+मनु११।२२४च्[२२३ंच्]/ ब्रह्मचारी व्रती च स्याद्) गुरु।देव।द्विज।अर्चकः ||  
   
-Manu11.225a[224ṃa]/ sāvitrīṃ ca japen) nityaṃ pavitrāṇi ca śaktitaḥ |  
+मनु११।२२५अ[२२४ंअ]/ सावित्रीं च जपेन्) नित्यं पवित्राणि च शक्तितः |  
   
-Manu11.225c[224ṃc]/ sarveṣv eva vrateṣv evaṃ prāyaścittārtham ādṛtaḥ || ṃ11.226a[225ṃa]/ etair dvijātayaḥ śodhyā vratair āviṣkṛta.enasaḥ |  
+मनु११।२२५च्[२२४ंच्]/ सर्वेष्व् एव व्रतेष्व् एवं प्रायश्चित्तार्थम् आदृतः || ं११।२२६अ[२२५ंअ]/ एतैर् द्विजातयः शोध्या व्रतैर् आविष्कृत।एनसः |  
   
-Manu11.226c[225ṃc]/ anāviṣkṛta.pāpāṃs tu mantrair homaiś ca śodhayet) ||  
+मनु११।२२६च्[२२५ंच्]/ अनाविष्कृत।पापांस् तु मन्त्रैर् होमैश् च शोधयेत्) ||  
   
-Manu11.227a[226ṃa]/ khyāpanena.anutāpena tapasā-adhyayanena ca |  
+मनु११।२२७अ[२२६ंअ]/ ख्यापनेन।अनुतापेन तपसा-अध्ययनेन च |  
   
-Manu11.227c[226ṃc]/ pāpakṛt-mucyate) pāpāt tathā dānena ca-āpadi ||  
+मनु११।२२७च्[२२६ंच्]/ पापकृत्-मुच्यते) पापात् तथा दानेन च-आपदि ||  
   
-Manu11.228a[227ṃa]/ yathā yathā naro 'adharmaṃ svayaṃ kṛtvā)-anubhāṣate) |  
+मनु११।२२८अ[२२७ंअ]/ यथा यथा नरो ऽअधर्मं स्वयं कृत्वा)-अनुभाषते) |  
   
-Manu11.228c[227ṃc]/ tathā tathā tvacā-iva-ahis tena-adharmeṇa mucyate) ||  
+मनु११।२२८च्[२२७ंच्]/ तथा तथा त्वचा-इव-अहिस् तेन-अधर्मेण मुच्यते) ||  
   
   
   
-Manu11.229a[228ṃa]/ yathā yathā manas tasya duṣkṛtaṃ karma garhati) |  
+मनु११।२२९अ[२२८ंअ]/ यथा यथा मनस् तस्य दुष्कृतं कर्म गर्हति) |  
   
-Manu11.229c[228ṃc]/ tathā tathā śarīraṃ tat tena-adharmeṇa mucyate) ||  
+मनु११।२२९च्[२२८ंच्]/ तथा तथा शरीरं तत् तेन-अधर्मेण मुच्यते) ||  
   
-Manu11.230a[229ṃa]/ kṛtvā) pāpaṃ hi saṃtapya) tasmāt pāpāt pramucyate) |  
+मनु११।२३०अ[२२९ंअ]/ कृत्वा) पापं हि संतप्य) तस्मात् पापात् प्रमुच्यते) |  
   
-Manu11.230c[229ṃc]/ na-evaṃ kuryāṃ) punar iti nivṛttyā pūyate) tu saḥ ||  
+मनु११।२३०च्[२२९ंच्]/ न-एवं कुर्यां) पुनर् इति निवृत्त्या पूयते) तु सः ||  
   
-Manu11.231a[230ṃa]/ evaṃ saṃcintya) manasā pretya karmaphala.udayam |  
+मनु११।२३१अ[२३०ंअ]/ एवं संचिन्त्य) मनसा प्रेत्य कर्मफल।उदयम् |  
   
-Manu11.231c[230ṃc]/ mano.vāc.mūrtibhir nityaṃ śubhaṃ karma samācaret) ||  
+मनु११।२३१च्[२३०ंच्]/ मनो।वाच्।मूर्तिभिर् नित्यं शुभं कर्म समाचरेत्) ||  
   
-Manu11.232a[231ṃa]/ ajñānād yadi vā jñānāt kṛtvā) karma vigarhitam |  
+मनु११।२३२अ[२३१ंअ]/ अज्ञानाद् यदि वा ज्ञानात् कृत्वा) कर्म विगर्हितम् |  
   
-Manu11.232c[231ṃc]/ tasmād vimuktim anvicchan) dvitīyaṃ na samācaret) ||  
+मनु११।२३२च्[२३१ंच्]/ तस्माद् विमुक्तिम् अन्विच्छन्) द्वितीयं न समाचरेत्) ||  
   
-Manu11.233a[232ṃa]/ yasmin karmaṇy asya kṛte manasaḥ syād) alāghavam |  
+मनु११।२३३अ[२३२ंअ]/ यस्मिन् कर्मण्य् अस्य कृते मनसः स्याद्) अलाघवम् |  
   
-Manu11.233c[232ṃc]/ tasmiṃs tāvat tapaḥ kuryād) yāvat tuṣṭikaraṃ bhavet) ||  
+मनु११।२३३च्[२३२ंच्]/ तस्मिंस् तावत् तपः कुर्याद्) यावत् तुष्टिकरं भवेत्) ||  
   
-Manu11.234a[233ṃa]/ tapomūlam idaṃ sarvaṃ daiva.mānuṣakaṃ sukham |  
+मनु११।२३४अ[२३३ंअ]/ तपोमूलम् इदं सर्वं दैव।मानुषकं सुखम् |  
   
-Manu11.234c[233ṃc]/ tapomadhyaṃ budhaiḥ proktaṃ tapo.'antaṃ vedadarśibhiḥ ||  
+मनु११।२३४च्[२३३ंच्]/ तपोमध्यं बुधैः प्रोक्तं तपो।ऽअन्तं वेददर्शिभिः ||  
   
-Manu11.235a[234ṃa]/ brāhmaṇasya tapo jñānaṃ tapaḥ kṣatrasya rakṣaṇam |  
+मनु११।२३५अ[२३४ंअ]/ ब्राह्मणस्य तपो ज्ञानं तपः क्षत्रस्य रक्षणम् |  
   
-Manu11.235c[234ṃc]/ vaiśyasya tu tapo vārtā tapaḥ śūdrasya sevanam ||  
+मनु११।२३५च्[२३४ंच्]/ वैश्यस्य तु तपो वार्ता तपः शूद्रस्य सेवनम् ||  
   
-Manu11.236a[235ṃa]/ ṛṣayaḥ saṃyata.ātmānaḥ phala.mūla.anila.aśanāḥ |  
+मनु११।२३६अ[२३५ंअ]/ ऋषयः संयत।आत्मानः फल।मूल।अनिल।अशनाः |  
   
-Manu11.236c[235ṃc]/ tapasā-eva prapaśyanti) trailokyaṃ sa.carācaram ||  
+मनु११।२३६च्[२३५ंच्]/ तपसा-एव प्रपश्यन्ति) त्रैलोक्यं स।चराचरम् ||  
   
-Manu11.237a[236ṃa]/ auṣadhāny agado vidyā daivī ca vividhā sthitiḥ |  
+मनु११।२३७अ[२३६ंअ]/ औषधान्य् अगदो विद्या दैवी च विविधा स्थितिः |  
   
-Manu11.237c[236ṃc]/ tapasā-eva prasidhyanti) tapas teṣāṃ hi sādhanam ||  
+मनु११।२३७च्[२३६ंच्]/ तपसा-एव प्रसिध्यन्ति) तपस् तेषां हि साधनम् ||  
   
-Manu11.238a[237ṃa]/ yad dustaraṃ yad durāpaṃ yad durgaṃ yac ca duṣkaram |  
+मनु११।२३८अ[२३७ंअ]/ यद् दुस्तरं यद् दुरापं यद् दुर्गं यच् च दुष्करम् |  
   
-Manu11.238c[237ṃc]/ sarvaṃ tu tapasā sādhyaṃ tapo hi duratikramam || [M.sarvaṃ tat tapasā ]  
+मनु११।२३८च्[२३७ंच्]/ सर्वं तु तपसा साध्यं तपो हि दुरतिक्रमम् || [म्।सर्वं तत् तपसा ]  
   
-Manu11.239a[238ṃa]/ mahāpātakinaś ca-eva śeṣāś ca-akāryakāriṇaḥ |  
+मनु११।२३९अ[२३८ंअ]/ महापातकिनश् च-एव शेषाश् च-अकार्यकारिणः |  
   
-Manu11.239c[238ṃc]/ tapasā-eva sutaptena mucyante) kilbiṣāt tataḥ ||  
+मनु११।२३९च्[२३८ंच्]/ तपसा-एव सुतप्तेन मुच्यन्ते) किल्बिषात् ततः ||  
   
-Manu11.240a[239ṃa]/ kītāś ca-ahi.pataṃgāś ca paśavaś ca vayāṃsi ca |  
+मनु११।२४०अ[२३९ंअ]/ कीताश् च-अहि।पतंगाश् च पशवश् च वयांसि च |  
   
-Manu11.240c[239ṃc]/ sthāvarāṇi ca bhūtāni divaṃ yānti) tapobalāt ||  
+मनु११।२४०च्[२३९ंच्]/ स्थावराणि च भूतानि दिवं यान्ति) तपोबलात् ||  
   
-Manu11.241a[240ṃa]/ yat kiṃ cid enaḥ kurvanti) mano.vāc.mūrtibhir janāḥ | [M.mano.vāc.karmabhir ]  
+मनु११।२४१अ[२४०ंअ]/ यत् किं चिद् एनः कुर्वन्ति) मनो।वाच्।मूर्तिभिर् जनाः | [म्।मनो।वाच्।कर्मभिर् ]  
   
-Manu11.241c[240ṃc]/ tat sarvaṃ nirdahanty) āśu tapasā-eva tapo.dhanāḥ ||  
+मनु११।२४१च्[२४०ंच्]/ तत् सर्वं निर्दहन्त्य्) आशु तपसा-एव तपो।धनाः ||  
   
-Manu11.242a[241ṃa]/ tapasā-eva viśuddhasya brāhmaṇasya diva.okasaḥ |  
+मनु११।२४२अ[२४१ंअ]/ तपसा-एव विशुद्धस्य ब्राह्मणस्य दिव।ओकसः |  
   
-Manu11.242c[241ṃc]/ ijyāś ca pratigṛhṇanti) kāmān saṃvardhayanti) ca ||  
+मनु११।२४२च्[२४१ंच्]/ इज्याश् च प्रतिगृह्णन्ति) कामान् संवर्धयन्ति) च ||  
   
-Manu11.243a[242ṃa]/ prajāpatir idaṃ śāstraṃ tapasā-eva-asṛjat) prabhuḥ |  
+मनु११।२४३अ[२४२ंअ]/ प्रजापतिर् इदं शास्त्रं तपसा-एव-असृजत्) प्रभुः |  
   
-Manu11.243c[242ṃc]/ tathā-eva vedān ṛṣayas tapasā pratipedire) ||  
+मनु११।२४३च्[२४२ंच्]/ तथा-एव वेदान् ऋषयस् तपसा प्रतिपेदिरे) ||  
   
-Manu11.244a[243ṃa]/ ity etat tapaso devā mahābhāgyaṃ pracakṣate) | [M.yad etat tapaso]  
+मनु११।२४४अ[२४३ंअ]/ इत्य् एतत् तपसो देवा महाभाग्यं प्रचक्षते) | [म्।यद् एतत् तपसो]  
   
-Manu11.244c[243ṃc]/ sarvasya-asya prapaśyantas) tapasaḥ puṇyam uttamam || [M.puṇyaṃ udbhavam ]  
+मनु११।२४४च्[२४३ंच्]/ सर्वस्य-अस्य प्रपश्यन्तस्) तपसः पुण्यम् उत्तमम् || [म्।पुण्यं उद्भवम् ]  
   
-Manu11.245a[244ṃa]/ vedābhyāso 'anvahaṃ śaktyā mahāyajñakriyā kṣamā |  
+मनु११।२४५अ[२४४ंअ]/ वेदाभ्यासो ऽअन्वहं शक्त्या महायज्ञक्रिया क्षमा |  
   
-Manu11.245c[244ṃc]/ nāśayanty) āśu pāpāni mahāpātakajāny api ||  
+मनु११।२४५च्[२४४ंच्]/ नाशयन्त्य्) आशु पापानि महापातकजान्य् अपि ||  
   
-Manu11.246a[245ṃa]/ yathā-edhas tejasā vahniḥ prāptaṃ nirdahati) kṣaṇāt |  
+मनु११।२४६अ[२४५ंअ]/ यथा-एधस् तेजसा वह्निः प्राप्तं निर्दहति) क्षणात् |  
   
-Manu11.246c[245ṃc]/ tathā jñānāgninā pāpaṃ sarvaṃ dahati) vedavit ||  
+मनु११।२४६च्[२४५ंच्]/ तथा ज्ञानाग्निना पापं सर्वं दहति) वेदवित् ||  
   
-Manu11.247a[246ṃa]/ ity etad enasām uktaṃ prāyaścittaṃ yathāvidhi |  
+मनु११।२४७अ[२४६ंअ]/ इत्य् एतद् एनसाम् उक्तं प्रायश्चित्तं यथाविधि |  
   
-Manu11.247c[246ṃc]/ ata ūrdhvaṃ rahasya-anāṃ prāyaścittaṃ nibodhata) ||  
+मनु११।२४७च्[२४६ंच्]/ अत ऊर्ध्वं रहस्य-अनां प्रायश्चित्तं निबोधत) ||  
   
   
   
-Manu11.248a[247ṃa]/ sa.vyāhṛti.praṇavakāḥ prāṇāyāmās tu ṣoḍaśa |  
+मनु११।२४८अ[२४७ंअ]/ स।व्याहृति।प्रणवकाः प्राणायामास् तु षोडश |  
   
-Manu11.248c[247ṃc]/ api bhrūṇahanaṃ māsāt punanty) ahar ahaḥ kṛtāḥ ||  
+मनु११।२४८च्[२४७ंच्]/ अपि भ्रूणहनं मासात् पुनन्त्य्) अहर् अहः कृताः ||  
   
-Manu11.249a[248ṃa]/ kautsaṃ japtvā)-apa ity etad vasiṣṭhaṃ ca prati-ity ṛcam |  
+मनु११।२४९अ[२४८ंअ]/ कौत्सं जप्त्वा)-अप इत्य् एतद् वसिष्ठं च प्रति-इत्य् ऋचम् |  
   
-Manu11.249c[248ṃc]/ māhitraṃ śuddhavatyaś ca surāpo 'api viśudhyati) ||  
+मनु११।२४९च्[२४८ंच्]/ माहित्रं शुद्धवत्यश् च सुरापो ऽअपि विशुध्यति) ||  
   
-Manu11.250a[249ṃa]/ sakṛt-japtvā)-āsyavāmīyaṃ śivasaṃkalpam eva ca |  
+मनु११।२५०अ[२४९ंअ]/ सकृत्-जप्त्वा)-आस्यवामीयं शिवसंकल्पम् एव च |  
   
-Manu11.250c[249ṃc]/ apahṛtya) suvarṇaṃ tu kṣaṇād bhavati) nir.malaḥ ||  
+मनु११।२५०च्[२४९ंच्]/ अपहृत्य) सुवर्णं तु क्षणाद् भवति) निर्।मलः ||  
   
-Manu11.251a[250ṃa]/ haviṣpāntīyam abhyasya) na tamaṃ ha iti-iti ca |   
+मनु११।२५१अ[२५०ंअ]/ हविष्पान्तीयम् अभ्यस्य) न तमं ह इति-इति च |   
   
-Manu11.251c[250ṃc]/ japitvā) pauruṣaṃ sūktaṃ mucyate) gurutalpagaḥ |  
+मनु११।२५१च्[२५०ंच्]/ जपित्वा) पौरुषं सूक्तं मुच्यते) गुरुतल्पगः |  
   
-Manu11.252a[251ṃa]/ enasāṃ sthūla.sūkṣmāṇāṃ cikīrṣann) apanodanam |  
+मनु११।२५२अ[२५१ंअ]/ एनसां स्थूल।सूक्ष्माणां चिकीर्षन्न्) अपनोदनम् |  
   
-Manu11.252c[251ṃc]/ ava-ity ṛcaṃ japed) abdaṃ yat kiṃ ca-idam iti-iti vā ||  
+मनु११।२५२च्[२५१ंच्]/ अव-इत्य् ऋचं जपेद्) अब्दं यत् किं च-इदम् इति-इति वा ||  
   
-Manu11.253a[252ṃa]/ pratigṛhya-apratigrāhyaṃ bhuktvā) ca-annaṃ vigarhitam |  
+मनु११।२५३अ[२५२ंअ]/ प्रतिगृह्य-अप्रतिग्राह्यं भुक्त्वा) च-अन्नं विगर्हितम् |  
   
-Manu11.253c[252ṃc]/ japaṃs) taratsamandīyaṃ pūyate) mānavas tryahāt ||  
+मनु११।२५३च्[२५२ंच्]/ जपंस्) तरत्समन्दीयं पूयते) मानवस् त्र्यहात् ||  
   
-Manu11.254a[253ṃa]/ somāraudram tu bahv.enāḥ māsam abhyasya  śudhyati) | [M.samām abhyasya)]  
+मनु११।२५४अ[२५३ंअ]/ सोमारौद्रम् तु बह्व्।एनाः मासम् अभ्यस्य  शुध्यति) | [म्।समाम् अभ्यस्य)]  
   
-Manu11.254c[253ṃc]/ sravantyām ācaran) snānam aryamṇām iti ca tṛcam ||  
+मनु११।२५४च्[२५३ंच्]/ स्रवन्त्याम् आचरन्) स्नानम् अर्यम्णाम् इति च तृचम् ||  
   
-Manu11.255a[254ṃa]/ abdārdham indram ity etad enasvī saptakaṃ japet) |   
+मनु११।२५५अ[२५४ंअ]/ अब्दार्धम् इन्द्रम् इत्य् एतद् एनस्वी सप्तकं जपेत्) |   
   
-Manu11.255c[254ṃc]/ apraśastaṃ tu kṛtvā)-apsu māsam āsīta) bhaikṣabhuk ||  
+मनु११।२५५च्[२५४ंच्]/ अप्रशस्तं तु कृत्वा)-अप्सु मासम् आसीत) भैक्षभुक् ||  
   
-Manu11.256a[255ṃa]/ mantraiḥ śākalahomīyair abdaṃ hutvā) ghṛtaṃ dvijaḥ |  
+मनु११।२५६अ[२५५ंअ]/ मन्त्रैः शाकलहोमीयैर् अब्दं हुत्वा) घृतं द्विजः |  
   
-Manu11.256c[255ṃc]/ sugurv apy apahanty) eno japtvā) vā nama ity ṛcam ||  
+मनु११।२५६च्[२५५ंच्]/ सुगुर्व् अप्य् अपहन्त्य्) एनो जप्त्वा) वा नम इत्य् ऋचम् ||  
   
-Manu11.257a[256ṃa]/ mahāpātakasaṃyukto 'anugacched) gāḥ samāhitaḥ |  
+मनु११।२५७अ[२५६ंअ]/ महापातकसंयुक्तो ऽअनुगच्छेद्) गाः समाहितः |  
   
-Manu11.257c[256ṃc]/ abhyasya)-abdaṃ pāvamānīr bhaikṣa.āhāro viśudhyati) ||  
+मनु११।२५७च्[२५६ंच्]/ अभ्यस्य)-अब्दं पावमानीर् भैक्ष।आहारो विशुध्यति) ||  
   
-Manu11.258a[257ṃa]/ araṇye vā trir abhyasya) prayato vedasaṃhitām |  
+मनु११।२५८अ[२५७ंअ]/ अरण्ये वा त्रिर् अभ्यस्य) प्रयतो वेदसंहिताम् |  
   
-Manu11.258c[257ṃc]/ mucyate) pātakaiḥ sarvaiḥ parākaiḥ śodhitas tribhiḥ ||  
+मनु११।२५८च्[२५७ंच्]/ मुच्यते) पातकैः सर्वैः पराकैः शोधितस् त्रिभिः ||  
   
-Manu11.259a[258ṃa]/ tryahaṃ tu-upavased) yuktas trir ahno 'abhyupayann) apaḥ |  
+मनु११।२५९अ[२५८ंअ]/ त्र्यहं तु-उपवसेद्) युक्तस् त्रिर् अह्नो ऽअभ्युपयन्न्) अपः |  
   
-Manu11.259c[258ṃc]/ mucyate pātakaiḥ sarvais trir japitvā-aghamarṣaṇam ||  
+मनु११।२५९च्[२५८ंच्]/ मुच्यते पातकैः सर्वैस् त्रिर् जपित्वा-अघमर्षणम् ||  
   
-Manu11.260a[259ṃa]/ yathā-aśvamedhaḥ kraturāj-sarvapāpāpa.nodanaḥ |  
+मनु११।२६०अ[२५९ंअ]/ यथा-अश्वमेधः क्रतुराज्-सर्वपापाप।नोदनः |  
   
-Manu11.260c[259ṃc]/ tathā-aghamarṣaṇaṃ sūktaṃ sarvapāpāpa.nodanam ||  
+मनु११।२६०च्[२५९ंच्]/ तथा-अघमर्षणं सूक्तं सर्वपापाप।नोदनम् ||  
   
-Manu11.261a[260ṃa]/ hatvā) lokān api-imāṃs trīn aśnann) api yatas tataḥ |  
+मनु११।२६१अ[२६०ंअ]/ हत्वा) लोकान् अपि-इमांस् त्रीन् अश्नन्न्) अपि यतस् ततः |  
   
-Manu11.261c[260ṃc]/ ṛgvedaṃ dhārayan) vipro na-enaḥ prāpnoti) kiṃ cana ||  
+मनु११।२६१च्[२६०ंच्]/ ऋग्वेदं धारयन्) विप्रो न-एनः प्राप्नोति) किं चन ||  
   
-Manu11.262a[261ṃa]/ ṛksaṃhitāṃ trir abhyasya) yajuṣāṃ vā samāhitaḥ |  
+मनु११।२६२अ[२६१ंअ]/ ऋक्संहितां त्रिर् अभ्यस्य) यजुषां वा समाहितः |  
   
-Manu11.262c[261ṃc]/ sāmnāṃ vā sa.rahasyānāṃ sarvapāpaiḥ pramucyate) ||  
+मनु११।२६२च्[२६१ंच्]/ साम्नां वा स।रहस्यानां सर्वपापैः प्रमुच्यते) ||  
   
-Manu11.263a[262ṃa]/ yathā mahāhradaṃ prāpya) kṣiptaṃ loṣṭaṃ vinaśyati) |  
+मनु११।२६३अ[२६२ंअ]/ यथा महाह्रदं प्राप्य) क्षिप्तं लोष्टं विनश्यति) |  
   
-Manu11.263c[262ṃc]/ tathā duścaritaṃ sarvaṃ vede trivṛti majjati) ||  
+मनु११।२६३च्[२६२ंच्]/ तथा दुश्चरितं सर्वं वेदे त्रिवृति मज्जति) ||  
   
-Manu11.264a[263ṃa]/ ṛco yajūṃṣi ca-anyāni sāmāni vividhāni ca |  
+मनु११।२६४अ[२६३ंअ]/ ऋचो यजूंषि च-अन्यानि सामानि विविधानि च |  
   
-Manu11.264c[263ṃc]/ eṣa jñeyas trivṛdvedo yo veda)-enaṃ sa vedavit ||  
+मनु११।२६४च्[२६३ंच्]/ एष ज्ञेयस् त्रिवृद्वेदो यो वेद)-एनं स वेदवित् ||  
   
-Manu11.265a[264ṃa]/ ādyaṃ yat tryakṣaraṃ brahma trayī yasmin pratiṣṭhitā) |  
+मनु११।२६५अ[२६४ंअ]/ आद्यं यत् त्र्यक्षरं ब्रह्म त्रयी यस्मिन् प्रतिष्ठिता) |  
   
-Manu11.265c[264ṃc]/ sa guhyo 'anyas trivṛdvedo yas taṃ veda) sa vedavit ||  
+मनु११।२६५च्[२६४ंच्]/ स गुह्यो ऽअन्यस् त्रिवृद्वेदो यस् तं वेद) स वेदवित् ||  
   
   
   
@@ -10568,530 +10560,523 @@ Manu11.265c[264ṃc]/ sa guhyo 'anyas trivṛdvedo yas taṃ veda) sa vedavit ||
   
   
   
-Manu12.01a/ cāturvarṇyasya kṛtsno 'ayam ukto dharmas tvayā-anaghaḥ |  
+मनु१२।०१अ/ चातुर्वर्ण्यस्य कृत्स्नो ऽअयम् उक्तो धर्मस् त्वया-अनघः |  
   
-Manu12.01c/ karmaṇāṃ phalanirvṛttiṃ śaṃsa) nas tattvataḥ parām ||  
+मनु१२।०१च्/ कर्मणां फलनिर्वृत्तिं शंस) नस् तत्त्वतः पराम् ||  
   
-Manu12.02a/ sa tān uvāca) dharma.ātmā maharṣīn mānavo bhṛguḥ |  
+मनु१२।०२अ/ स तान् उवाच) धर्म।आत्मा महर्षीन् मानवो भृगुः |  
   
-Manu12.02c/ asya sarvasya śṛṇuta) karmayogasya nirṇayam ||  
+मनु१२।०२च्/ अस्य सर्वस्य शृणुत) कर्मयोगस्य निर्णयम् ||  
   
-Manu12.03a/ śubha.aśubha.phalaṃ karma mano.vāc.deha.saṃbhavam |  
+मनु१२।०३अ/ शुभ।अशुभ।फलं कर्म मनो।वाच्।देह।संभवम् |  
   
-Manu12.03c/ karmajā gatayo nqṇām uttama.adhama.madhyamaḥ ||  
+मनु१२।०३च्/ कर्मजा गतयो न्क़्णाम् उत्तम।अधम।मध्यमः ||  
   
-Manu12.04a/ tasya-iha trividhasya-api tryadhiṣṭhānasya dehinaḥ |  
+मनु१२।०४अ/ तस्य-इह त्रिविधस्य-अपि त्र्यधिष्ठानस्य देहिनः |  
   
-Manu12.04c/ daśalakṣaṇayuktasya mano vidyāt) pravartakam ||  
+मनु१२।०४च्/ दशलक्षणयुक्तस्य मनो विद्यात्) प्रवर्तकम् ||  
   
-Manu12.05a/ paradravyeṣv abhidhyānaṃ manasā-aniṣṭacintanam |  
+मनु१२।०५अ/ परद्रव्येष्व् अभिध्यानं मनसा-अनिष्टचिन्तनम् |  
   
-Manu12.05c/ vitathābhiniveśaś ca trividhaṃ karma mānasam ||   
+मनु१२।०५च्/ वितथाभिनिवेशश् च त्रिविधं कर्म मानसम् ||   
   
-Manu12.06a/ pāruṣyam anṛtaṃ ca-eva paiśunyaṃ ca-api sarvaśaḥ |   
+मनु१२।०६अ/ पारुष्यम् अनृतं च-एव पैशुन्यं च-अपि सर्वशः |   
   
-Manu12.06c/ asaṃbaddhapralāpaś ca vāc.mayaṃ syāc) caturvidham ||  
-Manu12.07a/ adattānām upādānaṃ hiṃsā ca-eva-avidhānataḥ |  
+मनु१२।०६च्/ असंबद्धप्रलापश् च वाच्।मयं स्याच्) चतुर्विधम् ||  
+मनु१२।०७अ/ अदत्तानाम् उपादानं हिंसा च-एव-अविधानतः |  
   
-Manu12.07c/ paradāra.upasevā ca śārīraṃ trividhaṃ smṛtam ||  
+मनु१२।०७च्/ परदार।उपसेवा च शारीरं त्रिविधं स्मृतम् ||  
   
-Manu12.08a/ mānasaṃ manasā-eva-ayam upabhuṅkte) śubha.aśubham |  
+मनु१२।०८अ/ मानसं मनसा-एव-अयम् उपभुङ्क्ते) शुभ।अशुभम् |  
   
-Manu12.08c/ vācā vācā kṛtaṃ karma kāyena-eva ca kāyikam ||  
+मनु१२।०८च्/ वाचा वाचा कृतं कर्म कायेन-एव च कायिकम् ||  
   
-Manu12.09a/ śarīrajaiḥ karmadoṣair yāti) sthāvaratāṃ naraḥ |  
+मनु१२।०९अ/ शरीरजैः कर्मदोषैर् याति) स्थावरतां नरः |  
   
-Manu12.09c/ vācikaiḥ pakṣi.mṛgatāṃ mānasair antyajātitām ||  
+मनु१२।०९च्/ वाचिकैः पक्षि।मृगतां मानसैर् अन्त्यजातिताम् ||  
   
-Manu12.10a/ vāgdaṇḍo 'atha manodaṇḍaḥ kāyadaṇḍas tathā-eva ca |  
+मनु१२।१०अ/ वाग्दण्डो ऽअथ मनोदण्डः कायदण्डस् तथा-एव च |  
   
-Manu12.10c/ yasya-ete nihitā buddhau tridaṇḍī-iti sa ucyate) ||  
+मनु१२।१०च्/ यस्य-एते निहिता बुद्धौ त्रिदण्डी-इति स उच्यते) ||  
   
-Manu12.11a/ tridaṇḍam etan nikṣipya) sarvabhūteṣu mānavaḥ |  
+मनु१२।११अ/ त्रिदण्डम् एतन् निक्षिप्य) सर्वभूतेषु मानवः |  
   
-Manu12.11c/ kāma.krodhau tu saṃyamya) tataḥ siddhiṃ niyacchati) || [M.kāma.krodhau susaṃyamya) tataḥ siddhiṃ nigacchati]  
+मनु१२।११च्/ काम।क्रोधौ तु संयम्य) ततः सिद्धिं नियच्छति) || [म्।काम।क्रोधौ सुसंयम्य) ततः सिद्धिं निगच्छति]  
   
-Manu12.12a/ yo 'asya-ātmanaḥ kārayitā taṃ kṣetrajñaṃ pracakṣate) |  
+मनु१२।१२अ/ यो ऽअस्य-आत्मनः कारयिता तं क्षेत्रज्ञं प्रचक्षते) |  
   
-Manu12.12c/ yaḥ karoti) tu karmāṇi sa bhūtātmā)-ucyate) budhaiḥ ||  
+मनु१२।१२च्/ यः करोति) तु कर्माणि स भूतात्मा)-उच्यते) बुधैः ||  
   
-Manu12.13a/ jīvasaṃjño 'antarātmā-anyaḥ sahajaḥ sarvadehinām |  
+मनु१२।१३अ/ जीवसंज्ञो ऽअन्तरात्मा-अन्यः सहजः सर्वदेहिनाम् |  
   
-Manu12.13c/ yena vedayate) sarvaṃ sukhaṃ duḥkhaṃ ca janmasu ||  
+मनु१२।१३च्/ येन वेदयते) सर्वं सुखं दुःखं च जन्मसु ||  
   
-Manu12.14a/ tāv ubhau bhūtasaṃpṛktau mahān kṣetrajña eva ca |  
+मनु१२।१४अ/ ताव् उभौ भूतसंपृक्तौ महान् क्षेत्रज्ञ एव च |  
   
-Manu12.14c/ uccāvaceṣu bhūteṣu sthitaṃ taṃ vyāpya) tiṣṭhataḥ) ||  
+मनु१२।१४च्/ उच्चावचेषु भूतेषु स्थितं तं व्याप्य) तिष्ठतः) ||  
   
-Manu12.15a/ a.saṃkhyā mūrtayas tasya niṣpatanti) śarīrataḥ |  
+मनु१२।१५अ/ अ।संख्या मूर्तयस् तस्य निष्पतन्ति) शरीरतः |  
   
-Manu12.15c/ uccāvacāni bhūtāni satataṃ ceṣṭayanti) yāḥ ||  
+मनु१२।१५च्/ उच्चावचानि भूतानि सततं चेष्टयन्ति) याः ||  
   
-Manu12.16a/ pañcabhya eva mātrābhyaḥ pretya duṣkṛtināṃ nṛṇām | [M.pañcabhya eva bhūtebhyaḥ ]  
+मनु१२।१६अ/ पञ्चभ्य एव मात्राभ्यः प्रेत्य दुष्कृतिनां नृणाम् | [म्।पञ्चभ्य एव भूतेभ्यः ]  
   
-Manu12.16c/ śarīraṃ yātanārthīyam anyad utpadyate) dhruvam ||  
+मनु१२।१६च्/ शरीरं यातनार्थीयम् अन्यद् उत्पद्यते) ध्रुवम् ||  
   
-Manu12.17a/ tena-anubhūya) tā yāmīḥ śarīreṇa-iha yātanāḥ |  
+मनु१२।१७अ/ तेन-अनुभूय) ता यामीः शरीरेण-इह यातनाः |  
   
-Manu12.17c/ tāsv eva bhūtamātrāsu pralīyante) vibhāgaśaḥ ||  
+मनु१२।१७च्/ तास्व् एव भूतमात्रासु प्रलीयन्ते) विभागशः ||  
   
-Manu12.18a/ so 'anubhūya)-asukha.udarkān doṣān viṣayasaṅgajān |  
+मनु१२।१८अ/ सो ऽअनुभूय)-असुख।उदर्कान् दोषान् विषयसङ्गजान् |  
   
-Manu12.18c/ vyapeta.kalmaṣo 'abhyeti) tāv eva-ubhau mahā.ojasau ||  
+मनु१२।१८च्/ व्यपेत।कल्मषो ऽअभ्येति) ताव् एव-उभौ महा।ओजसौ ||  
   
-Manu12.19a/ tau dharmaṃ paśyatas) tasya pāpaṃ ca-atandritau saha |  
+मनु१२।१९अ/ तौ धर्मं पश्यतस्) तस्य पापं च-अतन्द्रितौ सह |  
   
-Manu12.19c/ yābhyāṃ prāpnoti) saṃpṛktaḥ pretya-iha ca sukha.asukham ||  
+मनु१२।१९च्/ याभ्यां प्राप्नोति) संपृक्तः प्रेत्य-इह च सुख।असुखम् ||  
   
-Manu12.20a/  yady ācarati dharmaṃ sa prāyaśo 'adharmam alpaśaḥ | [M.yatha-ācarati)]  
+मनु१२।२०अ/  यद्य् आचरति धर्मं स प्रायशो ऽअधर्मम् अल्पशः | [म्।यथ-आचरति)]  
   
-Manu12.20c/ tair eva ca-āvṛto) bhūtaiḥ svarge sukham upāśnute) ||  
+मनु१२।२०च्/ तैर् एव च-आवृतो) भूतैः स्वर्गे सुखम् उपाश्नुते) ||  
   
-Manu12.21a/ yadi tu prāyaśo 'adharmaṃ sevate) dharmam alpaśaḥ |  
+मनु१२।२१अ/ यदि तु प्रायशो ऽअधर्मं सेवते) धर्मम् अल्पशः |  
   
-Manu12.21c/ tair bhūtaiḥ sa parityakto) yāmīḥ prāpnoti) yātanāḥ ||  
+मनु१२।२१च्/ तैर् भूतैः स परित्यक्तो) यामीः प्राप्नोति) यातनाः ||  
   
-Manu12.22a/ yāmīs tā yātanāḥ prāpya) sa jīvo vīta.kalmaṣaḥ |  
+मनु१२।२२अ/ यामीस् ता यातनाः प्राप्य) स जीवो वीत।कल्मषः |  
   
-Manu12.22c/ tāny eva pañca bhūtāni punar apyeti) bhāgaśaḥ ||   
+मनु१२।२२च्/ तान्य् एव पञ्च भूतानि पुनर् अप्येति) भागशः ||   
   
-Manu12.23a/ etā dṛṣṭvā)-asya jīvasya gatīḥ svena-eva cetasā |  
+मनु१२।२३अ/ एता दृष्ट्वा)-अस्य जीवस्य गतीः स्वेन-एव चेतसा |  
   
-Manu12.23c/ dharmato 'adharmataś ca-eva dharme dadhyāt) sadā manaḥ ||  
+मनु१२।२३च्/ धर्मतो ऽअधर्मतश् च-एव धर्मे दध्यात्) सदा मनः ||  
   
   
   
-Manu12.24a/ sattvaṃ rajas tamas-ca-eva trīn vidyād) ātmano guṇān |  
+मनु१२।२४अ/ सत्त्वं रजस् तमस्-च-एव त्रीन् विद्याद्) आत्मनो गुणान् |  
   
-Manu12.24c/ yair vyāpya)-imān sthito bhāvān mahān sarvān aśeṣataḥ ||  
+मनु१२।२४च्/ यैर् व्याप्य)-इमान् स्थितो भावान् महान् सर्वान् अशेषतः ||  
   
-Manu12.25a/ yo yadā-eṣāṃ guṇo dehe sākalyena-atiricyate) |  
+मनु१२।२५अ/ यो यदा-एषां गुणो देहे साकल्येन-अतिरिच्यते) |  
   
-Manu12.25c/ sa tadā tadguṇaprāyaṃ taṃ karoti) śarīriṇam ||   
+मनु१२।२५च्/ स तदा तद्गुणप्रायं तं करोति) शरीरिणम् ||   
   
-Manu12.26a/ sattvaṃ jñānaṃ tamo 'ajñānaṃ rāga.dveṣau rajaḥ smṛtam |  
+मनु१२।२६अ/ सत्त्वं ज्ञानं तमो ऽअज्ञानं राग।द्वेषौ रजः स्मृतम् |  
   
-Manu12.26c/ etad vyāptimad eteṣāṃ sarvabhūtāśritaṃ vapuḥ ||  
+मनु१२।२६च्/ एतद् व्याप्तिमद् एतेषां सर्वभूताश्रितं वपुः ||  
   
-Manu12.27a/ tatra yat prītisaṃyuktaṃ kiṃ cid ātmani lakṣayet) |  
+मनु१२।२७अ/ तत्र यत् प्रीतिसंयुक्तं किं चिद् आत्मनि लक्षयेत्) |  
   
-Manu12.27c/ praśāntam iva śuddhābhaṃ sattvaṃ tad upadhārayet) ||  
+मनु१२।२७च्/ प्रशान्तम् इव शुद्धाभं सत्त्वं तद् उपधारयेत्) ||  
   
-Manu12.28a/ yat tu duḥkhasamāyuktam aprītikaram ātmanaḥ |  
+मनु१२।२८अ/ यत् तु दुःखसमायुक्तम् अप्रीतिकरम् आत्मनः |  
   
-Manu12.28c/ tad rajo pratīpaṃ vidyāt) satataṃ hāri dehinām || [M.hartṛ ]  
+मनु१२।२८च्/ तद् रजो प्रतीपं विद्यात्) सततं हारि देहिनाम् || [म्।हर्तृ ]  
   
-Manu12.29a/ yat tu syān) mohasaṃyuktam avyaktaṃ viṣayātmakam |  
+मनु१२।२९अ/ यत् तु स्यान्) मोहसंयुक्तम् अव्यक्तं विषयात्मकम् |  
   
-Manu12.29c/ apratarkyam avijñeyaṃ tamas tad upadhārayet) ||  
+मनु१२।२९च्/ अप्रतर्क्यम् अविज्ञेयं तमस् तद् उपधारयेत्) ||  
   
-Manu12.30a/ trayāṇām api ca-eteṣāṃ guṇānāṃ yaḥ phala.udayaḥ |  
+मनु१२।३०अ/ त्रयाणाम् अपि च-एतेषां गुणानां यः फल।उदयः |  
   
-Manu12.30c/ agryo madhyo jaghanyaś ca taṃ pravakṣyāmy) aśeṣataḥ ||  
+मनु१२।३०च्/ अग्र्यो मध्यो जघन्यश् च तं प्रवक्ष्याम्य्) अशेषतः ||  
   
-Manu12.31a/ vedābhyāsas tapo jñānaṃ śaucam indriyanigrahaḥ |  
-Manu12.31c/ dharmakriyā-ātmacintā ca sāttvikaṃ guṇalakṣaṇam ||  
+मनु१२।३१अ/ वेदाभ्यासस् तपो ज्ञानं शौचम् इन्द्रियनिग्रहः |  
+मनु१२।३१च्/ धर्मक्रिया-आत्मचिन्ता च सात्त्विकं गुणलक्षणम् ||  
   
-Manu12.32a/ ārambharucitā-adhairyam asatkārya.parigrahaḥ |  
+मनु१२।३२अ/ आरम्भरुचिता-अधैर्यम् असत्कार्य।परिग्रहः |  
   
-Manu12.32c/ viṣaya.upasevā ca-ajasraṃ rājasaṃ guṇalakṣaṇam ||  
+मनु१२।३२च्/ विषय।उपसेवा च-अजस्रं राजसं गुणलक्षणम् ||  
   
-Manu12.33a/ lobhaḥ svapno 'adhṛtiḥ krauryaṃ nāstikyaṃ bhinnavṛttitā |  
+मनु१२।३३अ/ लोभः स्वप्नो ऽअधृतिः क्रौर्यं नास्तिक्यं भिन्नवृत्तिता |  
   
-Manu12.33c/ yāciṣṇutā pramādaś ca tāmasaṃ guṇalakṣaṇam ||  
+मनु१२।३३च्/ याचिष्णुता प्रमादश् च तामसं गुणलक्षणम् ||  
   
-Manu12.34a/ trayāṇām api ca-eteṣāṃ guṇānāṃ triṣu tiṣṭhatām) |  
+मनु१२।३४अ/ त्रयाणाम् अपि च-एतेषां गुणानां त्रिषु तिष्ठताम्) |  
   
-Manu12.34c/ idaṃ sāmāsikaṃ jñeyaṃ kramaśo guṇalakṣaṇam ||  
+मनु१२।३४च्/ इदं सामासिकं ज्ञेयं क्रमशो गुणलक्षणम् ||  
   
-Manu12.35a/ yat karma kṛtvā) kurvaṃś ca kariṣyaṃś ca-eva lajjati) |  
+मनु१२।३५अ/ यत् कर्म कृत्वा) कुर्वंश् च करिष्यंश् च-एव लज्जति) |  
   
-Manu12.35c/ taj jñeyaṃ viduṣā sarvaṃ tāmasaṃ guṇalakṣaṇam ||   
+मनु१२।३५च्/ तज् ज्ञेयं विदुषा सर्वं तामसं गुणलक्षणम् ||   
   
-Manu12.36a/ yena-asmin karmanā loke khyātim icchati) puṣkalām |  
+मनु१२।३६अ/ येन-अस्मिन् कर्मना लोके ख्यातिम् इच्छति) पुष्कलाम् |  
   
-Manu12.36c/ na ca śocaty asaṃpattau tad vijñeyaṃ tu rājasam ||  
+मनु१२।३६च्/ न च शोचत्य् असंपत्तौ तद् विज्ञेयं तु राजसम् ||  
   
-Manu12.37a/ yat sarveṇa-icchati jñātuṃ yan na lajjati) ca-ācaran) |  
+मनु१२।३७अ/ यत् सर्वेण-इच्छति ज्ञातुं यन् न लज्जति) च-आचरन्) |  
   
-Manu12.37c/ yena tuṣyati) ca-ātmā-asya tat sattvaguṇalakṣaṇam ||  
+मनु१२।३७च्/ येन तुष्यति) च-आत्मा-अस्य तत् सत्त्वगुणलक्षणम् ||  
   
-Manu12.38a/ tamaso lakṣaṇaṃ kāmo rajasas tv artha ucyate |  
+मनु१२।३८अ/ तमसो लक्षणं कामो रजसस् त्व् अर्थ उच्यते |  
   
-Manu12.38c/ sattvasya lakṣaṇaṃ dharmaḥ śraiṣṭhyam eṣāṃ yathā.uttaram ||  
+मनु१२।३८च्/ सत्त्वस्य लक्षणं धर्मः श्रैष्ठ्यम् एषां यथा।उत्तरम् ||  
   
   
   
-Manu12.39a/ yena yas tu guṇena-eṣāṃ saṃsarān pratipadyate) | [M.yena yāṃs tu ]  
+मनु१२।३९अ/ येन यस् तु गुणेन-एषां संसरान् प्रतिपद्यते) | [म्।येन यांस् तु ]  
   
-Manu12.39c/ tān samāsena vakṣyāmi) sarvasya-asya yathākramam ||  
+मनु१२।३९च्/ तान् समासेन वक्ष्यामि) सर्वस्य-अस्य यथाक्रमम् ||  
   
-Manu12.40a/ devatvaṃ sāttvikā yānti) manuṣyatvaṃ ca rājasāḥ |  
+मनु१२।४०अ/ देवत्वं सात्त्विका यान्ति) मनुष्यत्वं च राजसाः |  
   
-Manu12.40c/ tiryaktvaṃ tāmasā nityam ity eṣā trividhā gatiḥ ||  
+मनु१२।४०च्/ तिर्यक्त्वं तामसा नित्यम् इत्य् एषा त्रिविधा गतिः ||  
   
-Manu12.41a/ trividhā trividhā-eṣā tu vijñeyā gauṇikī gatiḥ |  
+मनु१२।४१अ/ त्रिविधा त्रिविधा-एषा तु विज्ञेया गौणिकी गतिः |  
   
-Manu12.41c/ adhamā madhyama.agryā ca karma.vidyā.viśeṣataḥ ||  
+मनु१२।४१च्/ अधमा मध्यम।अग्र्या च कर्म।विद्या।विशेषतः ||  
   
-Manu12.42a/ sthāvarāḥ kṛmi.kīṭāś ca matsyāḥ sarpāḥ sa.kacchapāḥ |  
+मनु१२।४२अ/ स्थावराः कृमि।कीटाश् च मत्स्याः सर्पाः स।कच्छपाः |  
   
-Manu12.42c/ paśavaś ca mṛgāś ca-eva jaghanyā tāmasī gatiḥ ||  
+मनु१२।४२च्/ पशवश् च मृगाश् च-एव जघन्या तामसी गतिः ||  
   
-Manu12.43a/ hastinaś ca turaṅgāś ca śūdrā mlecchāś ca garhitāḥ |  
+मनु१२।४३अ/ हस्तिनश् च तुरङ्गाश् च शूद्रा म्लेच्छाश् च गर्हिताः |  
   
-Manu12.43c/ siṃhā vyāghrā varāhāś ca madhyamā tāmasī gatiḥ ||  
+मनु१२।४३च्/ सिंहा व्याघ्रा वराहाश् च मध्यमा तामसी गतिः ||  
   
-Manu12.44a/ cāraṇāś ca suparṇāś ca puruṣāś ca-eva dāmbhikāḥ |  
+मनु१२।४४अ/ चारणाश् च सुपर्णाश् च पुरुषाश् च-एव दाम्भिकाः |  
   
-Manu12.44c/ rakṣāṃsi ca piśācāś ca tāmasīṣu-uttamā gatiḥ ||   
+मनु१२।४४च्/ रक्षांसि च पिशाचाश् च तामसीषु-उत्तमा गतिः ||   
   
-Manu12.45a/ jhallā mallā naṭāś ca-eva puruṣāḥ śastra.vṛttayaḥ |  
+मनु१२।४५अ/ झल्ला मल्ला नटाश् च-एव पुरुषाः शस्त्र।वृत्तयः |  
   
-Manu12.45c/ dyūta.pāna.prasaktāś ca jaghanyā rājasī gatiḥ ||  
+मनु१२।४५च्/ द्यूत।पान।प्रसक्ताश् च जघन्या राजसी गतिः ||  
   
-Manu12.46a/ rājānaḥ kṣatriyāś ca-eva rājñāṃ ca-eva purohitāḥ |  
+मनु१२।४६अ/ राजानः क्षत्रियाश् च-एव राज्ञां च-एव पुरोहिताः |  
   
-Manu12.46c/ vāda.yuddha.pradhānāś ca madhyamā rājasī gatiḥ ||  
+मनु१२।४६च्/ वाद।युद्ध।प्रधानाश् च मध्यमा राजसी गतिः ||  
   
-Manu12.47a/ gandharvā guhyakā yakṣā vibudhānucarāś ca ye |  
+मनु१२।४७अ/ गन्धर्वा गुह्यका यक्षा विबुधानुचराश् च ये |  
   
-Manu12.47c/ tathā-eva-apsarasaḥ sarvā rājasīṣu-uttamā gatiḥ ||  
+मनु१२।४७च्/ तथा-एव-अप्सरसः सर्वा राजसीषु-उत्तमा गतिः ||  
   
-Manu12.48a/ tāpasā yatayo viprā ye ca vaimānikā gaṇāḥ |  
+मनु१२।४८अ/ तापसा यतयो विप्रा ये च वैमानिका गणाः |  
   
-Manu12.48c/ nakṣatrāṇi ca daityāś ca prathamā sāttvikī gatiḥ ||  
+मनु१२।४८च्/ नक्षत्राणि च दैत्याश् च प्रथमा सात्त्विकी गतिः ||  
   
-Manu12.49a/ yajvāna ṛṣayo devā vedā jyotīṃṣi vatsarāḥ |  
+मनु१२।४९अ/ यज्वान ऋषयो देवा वेदा ज्योतींषि वत्सराः |  
   
-Manu12.49c/ pitaraś ca-eva sādhyāś ca dvitīyā sāttvikī gatiḥ ||  
+मनु१२।४९च्/ पितरश् च-एव साध्याश् च द्वितीया सात्त्विकी गतिः ||  
   
-Manu12.50a/ brahmā viśvasṛjo dharmo mahān avyaktam eva ca |  
+मनु१२।५०अ/ ब्रह्मा विश्वसृजो धर्मो महान् अव्यक्तम् एव च |  
   
-Manu12.50c/ uttamāṃ sāttvikīm etāṃ gatim āhur) manīṣiṇaḥ ||  
+मनु१२।५०च्/ उत्तमां सात्त्विकीम् एतां गतिम् आहुर्) मनीषिणः ||  
   
-Manu12.51a/ eṣa sarvaḥ samuddiṣṭas) tri.prakārasya karmaṇaḥ |[M.triḥ.prakārasya]  
+मनु१२।५१अ/ एष सर्वः समुद्दिष्टस्) त्रि।प्रकारस्य कर्मणः |[म्।त्रिः।प्रकारस्य]  
   
-Manu12.51c/ trividhas trividhaḥ kṛtsnaḥ saṃsāraḥ sārvabhautikaḥ ||  
+मनु१२।५१च्/ त्रिविधस् त्रिविधः कृत्स्नः संसारः सार्वभौतिकः ||  
   
   
   
-Manu12.52a/ indriyāṇāṃ prasaṅgena dharmasya-asevanena ca |  
+मनु१२।५२अ/ इन्द्रियाणां प्रसङ्गेन धर्मस्य-असेवनेन च |  
   
-Manu12.52c/ pāpān saṃyānti) saṃsārān avidvāṃso narādhamāḥ ||  
+मनु१२।५२च्/ पापान् संयान्ति) संसारान् अविद्वांसो नराधमाः ||  
   
-Manu12.53a/ yāṃ yāṃ yoniṃ tu jīvo 'ayaṃ yena yena-iha karmaṇā |  
+मनु१२।५३अ/ यां यां योनिं तु जीवो ऽअयं येन येन-इह कर्मणा |  
   
-Manu12.53c/ kramaśo yāti) loke 'asmiṃs tat tat sarvaṃ nibodhata) ||  
+मनु१२।५३च्/ क्रमशो याति) लोके ऽअस्मिंस् तत् तत् सर्वं निबोधत) ||  
   
-Manu12.54a/ bahūn varṣagaṇān ghorān narakān prāpya) tatkṣayāt |  
+मनु१२।५४अ/ बहून् वर्षगणान् घोरान् नरकान् प्राप्य) तत्क्षयात् |  
   
-Manu12.54c/ saṃsārān pratipadyante) mahāpātakinas tv imān ||  
+मनु१२।५४च्/ संसारान् प्रतिपद्यन्ते) महापातकिनस् त्व् इमान् ||  
   
-Manu12.55a/ śva.sūkara.khara.uṣṭrāṇāṃ go.'aja.avi.mṛga.pakṣiṇāṃ |   
+मनु१२।५५अ/ श्व।सूकर।खर।उष्ट्राणां गो।ऽअज।अवि।मृग।पक्षिणां |   
   
-Manu12.55c/ caṇḍāla.pukkasānāṃ ca brahmahā yonim ṛcchati) ||  
+मनु१२।५५च्/ चण्डाल।पुक्कसानां च ब्रह्महा योनिम् ऋच्छति) ||  
   
-Manu12.56a/ kṛmi.kīṭa.pataṅgānāṃ viṣ.bhujāṃ ca-eva pakṣiṇām |  
+मनु१२।५६अ/ कृमि।कीट।पतङ्गानां विष्।भुजां च-एव पक्षिणाम् |  
   
-Manu12.56c/ hiṃsrāṇāṃ ca-eva sattvānāṃ surāpo brāhmaṇo vrajet) ||  
+मनु१२।५६च्/ हिंस्राणां च-एव सत्त्वानां सुरापो ब्राह्मणो व्रजेत्) ||  
   
-Manu12.57a/ lūtā.ahi.saraṭānāṃ ca tiraścāṃ ca-ambucāriṇām |  
+मनु१२।५७अ/ लूता।अहि।सरटानां च तिरश्चां च-अम्बुचारिणाम् |  
   
-Manu12.57c/ hiṃsrāṇāṃ ca piśācānāṃ steno vipraḥ sahasraśaḥ ||  
+मनु१२।५७च्/ हिंस्राणां च पिशाचानां स्तेनो विप्रः सहस्रशः ||  
   
-Manu12.58a/ tṛṇa.gulma.latānāṃ ca kravyādāṃ daṃṣṭriṇām api |  
+मनु१२।५८अ/ तृण।गुल्म।लतानां च क्रव्यादां दंष्ट्रिणाम् अपि |  
   
-Manu12.58c/ krūrakarmakṛtāṃ ca-eva śataśo gurutalpagaḥ ||  
+मनु१२।५८च्/ क्रूरकर्मकृतां च-एव शतशो गुरुतल्पगः ||  
   
-Manu12.59a/ hiṃsrā bhavanti) kravyādāḥ kṛmayo 'amedhyabhakṣiṇaḥ |  
+मनु१२।५९अ/ हिंस्रा भवन्ति) क्रव्यादाः कृमयो ऽअमेध्यभक्षिणः |  
   
-Manu12.59c/ parasparādinaḥ stenāḥ pretya-antyastrīniṣeviṇaḥ ||  
+मनु१२।५९च्/ परस्परादिनः स्तेनाः प्रेत्य-अन्त्यस्त्रीनिषेविणः ||  
   
-Manu12.60a/ saṃyogaṃ patitair gatvā) parasya-eva ca yoṣitam |  
+मनु१२।६०अ/ संयोगं पतितैर् गत्वा) परस्य-एव च योषितम् |  
   
-Manu12.60c/ apahṛtya) ca viprasvaṃ bhavati) brahmarākṣasaḥ ||  
+मनु१२।६०च्/ अपहृत्य) च विप्रस्वं भवति) ब्रह्मराक्षसः ||  
   
-Manu12.61a/ maṇi.muktā.pravālāni hṛtvā) lobhena mānavaḥ |  
+मनु१२।६१अ/ मणि।मुक्ता।प्रवालानि हृत्वा) लोभेन मानवः |  
   
-Manu12.61c/ vividhāṇi ca ratnāni jāyate) hemakartṛṣu ||  
+मनु१२।६१च्/ विविधाणि च रत्नानि जायते) हेमकर्तृषु ||  
   
-Manu12.62a/ dhānyaṃ hṛtvā) bhavaty) ākhuḥ kāṃsyaṃ haṃso jalaṃ plavaḥ |  
+मनु१२।६२अ/ धान्यं हृत्वा) भवत्य्) आखुः कांस्यं हंसो जलं प्लवः |  
   
-Manu12.62c/ madhu daṃśaḥ payaḥ kāko rasaṃ śvā nakulo ghṛtam ||  
+मनु१२।६२च्/ मधु दंशः पयः काको रसं श्वा नकुलो घृतम् ||  
   
-Manu12.63a/ māṃsaṃ gṛdhro vapāṃ madgus tailaṃ tailapakaḥ khagaḥ |   
+मनु१२।६३अ/ मांसं गृध्रो वपां मद्गुस् तैलं तैलपकः खगः |   
   
-Manu12.63c/ cīrīvākas tu lavaṇaṃ balākā śakunir dadhi ||  
+मनु१२।६३च्/ चीरीवाकस् तु लवणं बलाका शकुनिर् दधि ||  
   
-Manu12.64a/ kauśeyaṃ tittirir hṛtvā) kṣaumaṃ hṛtvā) tu darduraḥ |  
+मनु१२।६४अ/ कौशेयं तित्तिरिर् हृत्वा) क्षौमं हृत्वा) तु दर्दुरः |  
   
-Manu12.64c/ kārpāsatāntavaṃ krauñco godhā gāṃ vāggudo guḍam ||  
+मनु१२।६४च्/ कार्पासतान्तवं क्रौञ्चो गोधा गां वाग्गुदो गुडम् ||  
   
-Manu12.65a/ chucchundariḥ śubhān gandhān patraśākaṃ tu barhiṇaḥ | [M.chucchundarīḥ ]  
+मनु१२।६५अ/ छुच्छुन्दरिः शुभान् गन्धान् पत्रशाकं तु बर्हिणः | [म्।छुच्छुन्दरीः ]  
   
-Manu12.65c/ śvāvit kṛtānnaṃ vividham akṛtānnaṃ tu śalyakaḥ ||  
+मनु१२।६५च्/ श्वावित् कृतान्नं विविधम् अकृतान्नं तु शल्यकः ||  
   
-Manu12.66a/ bako bhavati) hṛtvā)-agniṃ gṛhakārī hy upaskaram |  
+मनु१२।६६अ/ बको भवति) हृत्वा)-अग्निं गृहकारी ह्य् उपस्करम् |  
   
-Manu12.66c/ raktāni hṛtvā) vāsāṃsi jāyate) jīvajīvakaḥ ||  
+मनु१२।६६च्/ रक्तानि हृत्वा) वासांसि जायते) जीवजीवकः ||  
   
-Manu12.67a/ vṛko mṛga.ibhaṃ vyāghro 'aśvaṃ phala.mūlaṃ tu markaṭaḥ |  
+मनु१२।६७अ/ वृको मृग।इभं व्याघ्रो ऽअश्वं फल।मूलं तु मर्कटः |  
   
-Manu12.67c/ strīm ṛkṣaḥ stokako vāri yānāny uṣṭraḥ paśūn ajaḥ ||  
+मनु१२।६७च्/ स्त्रीम् ऋक्षः स्तोकको वारि यानान्य् उष्ट्रः पशून् अजः ||  
   
-Manu12.68a/ yad vā tad vā paradravyam apahṛtya) balāt- naraḥ |  
+मनु१२।६८अ/ यद् वा तद् वा परद्रव्यम् अपहृत्य) बलात्- नरः |  
   
-Manu12.68c/ avaśyaṃ yāti) tiryaktvaṃ jagdhvā) ca-eva-ahutaṃ haviḥ ||  
+मनु१२।६८च्/ अवश्यं याति) तिर्यक्त्वं जग्ध्वा) च-एव-अहुतं हविः ||  
   
-Manu12.69a/ striyo 'apy etena kalpena hṛtvā) doṣam avāpnuyuḥ) |  
+मनु१२।६९अ/ स्त्रियो ऽअप्य् एतेन कल्पेन हृत्वा) दोषम् अवाप्नुयुः) |  
   
-Manu12.69c/ eteṣām eva jantūnāṃ bhāryātvam upayānti) tāḥ ||  
+मनु१२।६९च्/ एतेषाम् एव जन्तूनां भार्यात्वम् उपयान्ति) ताः ||  
   
-Manu12.70a/ svebhyaḥ svebhyas tu karmabhyaś cyutā) varṇā hy anāpadi |  
+मनु१२।७०अ/ स्वेभ्यः स्वेभ्यस् तु कर्मभ्यश् च्युता) वर्णा ह्य् अनापदि |  
   
-Manu12.70c/ pāpān saṃsṛtya) saṃsārān preṣyatāṃ yānti) śatruṣu ||[M.yānti dasyuṣu ]  
+मनु१२।७०च्/ पापान् संसृत्य) संसारान् प्रेष्यतां यान्ति) शत्रुषु ||[म्।यान्ति दस्युषु ]  
   
-Manu12.71a/ vāntāśy ulkāmukhaḥ preto vipro dharmāt svakāc cyutaḥ) |  
+मनु१२।७१अ/ वान्ताश्य् उल्कामुखः प्रेतो विप्रो धर्मात् स्वकाच् च्युतः) |  
   
-Manu12.71c/ amedhya.kuṇapāśī ca kṣatriyaḥ kaṭapūtanaḥ || [M.kūṭapūtanaḥ ]  
+मनु१२।७१च्/ अमेध्य।कुणपाशी च क्षत्रियः कटपूतनः || [म्।कूटपूतनः ]  
   
-Manu12.72a/ maitrākṣajyotikaḥ preto vaiśyo bhavati) pūyabhuk | [M.maitrākṣijyotikaḥ ]  
+मनु१२।७२अ/ मैत्राक्षज्योतिकः प्रेतो वैश्यो भवति) पूयभुक् | [म्।मैत्राक्षिज्योतिकः ]  
   
-Manu12.72c/ cailāśakaś ca bhavati) śūdro dharmāt svakāc cyutaḥ) ||   
+मनु१२।७२च्/ चैलाशकश् च भवति) शूद्रो धर्मात् स्वकाच् च्युतः) ||   
   
-Manu12.73a/ yathā yathā niṣevante) viṣayān viṣaya.ātmakāḥ |  
+मनु१२।७३अ/ यथा यथा निषेवन्ते) विषयान् विषय।आत्मकाः |  
   
-Manu12.73c/ tathā tathā kuśalatā teṣāṃ teṣu-upajāyate) ||  
+मनु१२।७३च्/ तथा तथा कुशलता तेषां तेषु-उपजायते) ||  
   
-Manu12.74a/ te 'abhyāsāt karmaṇāṃ teṣāṃ pāpānām alpa.buddhayaḥ |  
+मनु१२।७४अ/ ते ऽअभ्यासात् कर्मणां तेषां पापानाम् अल्प।बुद्धयः |  
   
-Manu12.74c/ saṃprāpnuvanti) duḥkhāni tāsu tāsv iha yoniṣu ||  
+मनु१२।७४च्/ संप्राप्नुवन्ति) दुःखानि तासु तास्व् इह योनिषु ||  
   
-Manu12.75a/ tāmisrādiṣu ca-ugreṣu narakeṣu vivartanam |   
+मनु१२।७५अ/ तामिस्रादिषु च-उग्रेषु नरकेषु विवर्तनम् |   
   
-Manu12.75c/ asipatravanādīni bandhana.chedanāni ca ||  
+मनु१२।७५च्/ असिपत्रवनादीनि बन्धन।छेदनानि च ||  
   
-Manu12.76a/ vividhāś ca-eva saṃpīḍāḥ kāka.ulūkaiś ca bhakṣaṇam |  
+मनु१२।७६अ/ विविधाश् च-एव संपीडाः काक।उलूकैश् च भक्षणम् |  
   
-Manu12.76c/ karambhavālukātāpān kumbhīpākāṃś ca dāruṇān ||   
+मनु१२।७६च्/ करम्भवालुकातापान् कुम्भीपाकांश् च दारुणान् ||   
   
-Manu12.77a/ saṃbhavāṃś ca viyonīṣu duḥkha.prāyāsu nityaśaḥ |  
+मनु१२।७७अ/ संभवांश् च वियोनीषु दुःख।प्रायासु नित्यशः |  
   
-Manu12.77c/ śīta.ātapa.abhighātāṃś ca vividhāni bhayāni ca ||  
+मनु१२।७७च्/ शीत।आतप।अभिघातांश् च विविधानि भयानि च ||  
   
-Manu12.78a/ asakṛd garbhavāseṣu vāsaṃ janma ca dāruṇam |  
+मनु१२।७८अ/ असकृद् गर्भवासेषु वासं जन्म च दारुणम् |  
   
-Manu12.78c/ bandhanāni ca kāṣṭhāni parapreṣyatvam eva ca || [M.kaṣṭāni]   
+मनु१२।७८च्/ बन्धनानि च काष्ठानि परप्रेष्यत्वम् एव च || [म्।कष्टानि]   
   
-Manu12.79a/ bandhu.priya.viyogāṃś ca saṃvāsaṃ ca-eva durjanaiḥ |  
+मनु१२।७९अ/ बन्धु।प्रिय।वियोगांश् च संवासं च-एव दुर्जनैः |  
   
-Manu12.79c/ dravyārjanaṃ ca nāśaṃ ca mitra.amitrasya ca-arjanam ||  
+मनु१२।७९च्/ द्रव्यार्जनं च नाशं च मित्र।अमित्रस्य च-अर्जनम् ||  
   
-Manu12.80a/ jarāṃ ca-eva-a.pratīkārāṃ vyādhibhiś ca-upapīḍanam |   
+मनु१२।८०अ/ जरां च-एव-अ।प्रतीकारां व्याधिभिश् च-उपपीडनम् |   
   
-Manu12.80c/ kleśāṃś ca vividhāṃs tāṃs tān mṛtyum eva ca dur.jayam ||  
+मनु१२।८०च्/ क्लेशांश् च विविधांस् तांस् तान् मृत्युम् एव च दुर्।जयम् ||  
   
-Manu12.81a/ yādṛśena tu bhāvena yad yat karma niṣevate) |  
+मनु१२।८१अ/ यादृशेन तु भावेन यद् यत् कर्म निषेवते) |  
   
-Manu12.81c/ tādṛśena śarīreṇa tat tat phalam upāśnute) ||  
+मनु१२।८१च्/ तादृशेन शरीरेण तत् तत् फलम् उपाश्नुते) ||  
   
-Manu12.82a/ eṣa sarvaḥ samuddiṣṭaḥ karmaṇāṃ vaḥ phala.udayaḥ |  
+मनु१२।८२अ/ एष सर्वः समुद्दिष्टः कर्मणां वः फल।उदयः |  
   
-Manu12.82c/ naiḥśreyasakaraṃ karma viprasya-idaṃ nibodhata) ||  
+मनु१२।८२च्/ नैःश्रेयसकरं कर्म विप्रस्य-इदं निबोधत) ||  
   
   
   
-Manu12.83a/ vedābhyāsas tapo jñānam indriyāṇāṃ ca saṃyamaḥ |  
+मनु१२।८३अ/ वेदाभ्यासस् तपो ज्ञानम् इन्द्रियाणां च संयमः |  
   
-Manu12.83c/ ahiṃsā gurusevā ca niḥśreyasakaraṃ param ||  
+मनु१२।८३च्/ अहिंसा गुरुसेवा च निःश्रेयसकरं परम् ||  
   
-Manu12.84a/ sarveṣām api ca-eteṣāṃ śubhānām iha karmaṇām |  
+मनु१२।८४अ/ सर्वेषाम् अपि च-एतेषां शुभानाम् इह कर्मणाम् |  
   
-Manu12.84c/ kiṃ cit-śreyaskarataraṃ karma-uktaṃ puruṣaṃ prati |  
+मनु१२।८४च्/ किं चित्-श्रेयस्करतरं कर्म-उक्तं पुरुषं प्रति |  
   
-Manu12.85a/ sarveṣām api ca-eteṣām ātmajñānaṃ paraṃ smṛtam |  
+मनु१२।८५अ/ सर्वेषाम् अपि च-एतेषाम् आत्मज्ञानं परं स्मृतम् |  
   
-Manu12.85c/ tadd hy agryaṃ sarvavidyānāṃ prāpyate) hy amṛtaṃ tataḥ ||  
+मनु१२।८५च्/ तद्द् ह्य् अग्र्यं सर्वविद्यानां प्राप्यते) ह्य् अमृतं ततः ||  
   
-Manu12.86a/ ṣaṇṇām eṣāṃ tu sarveṣāṃ karmaṇāṃ pretya ca-iha ca |  
+मनु१२।८६अ/ षण्णाम् एषां तु सर्वेषां कर्मणां प्रेत्य च-इह च |  
   
-Manu12.86c/ śreyaskarataraṃ jñeyaṃ sarvadā karma vaidikam ||  
+मनु१२।८६च्/ श्रेयस्करतरं ज्ञेयं सर्वदा कर्म वैदिकम् ||  
   
-Manu12.87a/ vaidike karmayoge tu sarvāṇy etāny aśeṣataḥ |  
+मनु१२।८७अ/ वैदिके कर्मयोगे तु सर्वाण्य् एतान्य् अशेषतः |  
   
-Manu12.87c/ antarbhavanti) kramaśas tasmiṃs tasmin kriyāvidhau ||  
+मनु१२।८७च्/ अन्तर्भवन्ति) क्रमशस् तस्मिंस् तस्मिन् क्रियाविधौ ||  
   
-Manu12.88a/ sukhābhyudayikaṃ ca-eva naiḥśreyasikam eva ca |  
+मनु१२।८८अ/ सुखाभ्युदयिकं च-एव नैःश्रेयसिकम् एव च |  
   
-Manu12.88c/ pravṛttaṃ ca nivṛttaṃ ca dvividhaṃ karma vaidikam ||  
+मनु१२।८८च्/ प्रवृत्तं च निवृत्तं च द्विविधं कर्म वैदिकम् ||  
   
-Manu12.89a/ iha ca-amutra vā kāmyaṃ pravṛttaṃ karma kīrtyate) |  
+मनु१२।८९अ/ इह च-अमुत्र वा काम्यं प्रवृत्तं कर्म कीर्त्यते) |  
   
-Manu12.89c/ niṣ.kāmaṃ jñātapūrvaṃ tu nivṛttam upadiśyate) ||  
+मनु१२।८९च्/ निष्।कामं ज्ञातपूर्वं तु निवृत्तम् उपदिश्यते) ||  
   
-Manu12.90a/ pravṛttaṃ karma saṃsevyaṃ devānām eti) sāmyatām |  
+मनु१२।९०अ/ प्रवृत्तं कर्म संसेव्यं देवानाम् एति) साम्यताम् |  
   
-Manu12.90c/ nivṛttaṃ sevamānas) tu bhūtāny atyeti) pañca vai ||  
+मनु१२।९०च्/ निवृत्तं सेवमानस्) तु भूतान्य् अत्येति) पञ्च वै ||  
   
   
   
-Manu12.91a/ sarvabhūteṣu ca-ātmānaṃ sarvabhūtāni ca-ātmani |  
+मनु१२।९१अ/ सर्वभूतेषु च-आत्मानं सर्वभूतानि च-आत्मनि |  
   
-Manu12.91c/ samaṃ paśyann) ātmayājī svārājyam adhigacchati) ||  
+मनु१२।९१च्/ समं पश्यन्न्) आत्मयाजी स्वाराज्यम् अधिगच्छति) ||  
   
-Manu12.92a/ yathā.uktāny api karmāṇi parihāya) dvijottamaḥ |  
+मनु१२।९२अ/ यथा।उक्तान्य् अपि कर्माणि परिहाय) द्विजोत्तमः |  
   
-Manu12.92c/ ātmajñāne śame ca syād) vedābhyāse ca yatnavān ||  
+मनु१२।९२च्/ आत्मज्ञाने शमे च स्याद्) वेदाभ्यासे च यत्नवान् ||  
   
-Manu12.93a/ etadd hi janmasāphalyaṃ brāhmaṇasya viśeṣataḥ |  
+मनु१२।९३अ/ एतद्द् हि जन्मसाफल्यं ब्राह्मणस्य विशेषतः |  
   
-Manu12.93c/ prāpya)-etat kṛta.kṛtyo hi dvijo bhavati) na-anyathā ||  
+मनु१२।९३च्/ प्राप्य)-एतत् कृत।कृत्यो हि द्विजो भवति) न-अन्यथा ||  
   
   
   
-Manu12.94a/ pitṛ.deva.manuṣyāṇāṃ vedaś cakṣuḥ sanātanam |  
+मनु१२।९४अ/ पितृ।देव।मनुष्याणां वेदश् चक्षुः सनातनम् |  
   
-Manu12.94c/ aśakyaṃ ca-aprameyaṃ ca vedaśāstram iti sthitiḥ ||  
+मनु१२।९४च्/ अशक्यं च-अप्रमेयं च वेदशास्त्रम् इति स्थितिः ||  
   
-Manu12.95a/ yā vedabāhyāḥ smṛtayo yāś ca kāś ca kudṛṣṭayaḥ | [M.śrutayo ]  
+मनु१२।९५अ/ या वेदबाह्याः स्मृतयो याश् च काश् च कुदृष्टयः | [म्।श्रुतयो ]  
   
-Manu12.95c/ sarvās tā niṣ.phalāḥ pretya tamo.niṣṭhā hi tāḥ smṛtāḥ ||   
-Manu12.96a/ utpadyante) cyavante) ca yāny ato 'anyāni kāni cit | [M.utpadyante) vinaśyanti) ]  
+मनु१२।९५च्/ सर्वास् ता निष्।फलाः प्रेत्य तमो।निष्ठा हि ताः स्मृताः ||   
+मनु१२।९६अ/ उत्पद्यन्ते) च्यवन्ते) च यान्य् अतो ऽअन्यानि कानि चित् | [म्।उत्पद्यन्ते) विनश्यन्ति) ]  
   
-Manu12.96c/ tāny arvākkālikatayā niṣ.phalāny anṛtāni ca ||  
+मनु१२।९६च्/ तान्य् अर्वाक्कालिकतया निष्।फलान्य् अनृतानि च ||  
   
-Manu12.97a/ cāturvarṇyaṃ trayo lokāś catvāraś ca-āśramāḥ pṛthak |  
+मनु१२।९७अ/ चातुर्वर्ण्यं त्रयो लोकाश् चत्वारश् च-आश्रमाः पृथक् |  
   
-Manu12.97c/ bhūtaṃ bhavyaṃ bhaviṣyaṃ ca sarvaṃ vedāt prasidhyati) || [M.bhūtaṃ bhavad bhaviṣyaṃ ca ]  
+मनु१२।९७च्/ भूतं भव्यं भविष्यं च सर्वं वेदात् प्रसिध्यति) || [म्।भूतं भवद् भविष्यं च ]  
   
-Manu12.98a/ śabdaḥ sparśaś ca rūpaṃ ca raso gandhaś ca pañcamaḥ |  
+मनु१२।९८अ/ शब्दः स्पर्शश् च रूपं च रसो गन्धश् च पञ्चमः |  
   
-Manu12.98c/ vedād eva prasūyante) prasūtir guṇa.karmataḥ ||   
+मनु१२।९८च्/ वेदाद् एव प्रसूयन्ते) प्रसूतिर् गुण।कर्मतः ||   
   
-Manu12.99a/ bibharti) sarvabhūtāni vedaśāstraṃ sanātanam |  
+मनु१२।९९अ/ बिभर्ति) सर्वभूतानि वेदशास्त्रं सनातनम् |  
   
-Manu12.99c/ tasmād etat paraṃ manye) yat-jantor asya sādhanam ||  
+मनु१२।९९च्/ तस्माद् एतत् परं मन्ये) यत्-जन्तोर् अस्य साधनम् ||  
   
-Manu12.100a/ senāpatyaṃ ca rājyaṃ ca daṇḍanetṛtvam eva ca | [M.saināpatyaṃ ]  
+मनु१२।१००अ/ सेनापत्यं च राज्यं च दण्डनेतृत्वम् एव च | [म्।सैनापत्यं ]  
   
-Manu12.100c/ sarvalokādhipatyaṃ ca vedaśāstravid arhati) ||  
+मनु१२।१००च्/ सर्वलोकाधिपत्यं च वेदशास्त्रविद् अर्हति) ||  
   
-Manu12.101a/ yathā jāta.balo vahnir dahaty) ārdrān api drumān |  
+मनु१२।१०१अ/ यथा जात।बलो वह्निर् दहत्य्) आर्द्रान् अपि द्रुमान् |  
   
-Manu12.101c/ tathā dahati) vedajñaḥ karmajaṃ doṣam ātmanaḥ ||  
+मनु१२।१०१च्/ तथा दहति) वेदज्ञः कर्मजं दोषम् आत्मनः ||  
   
-Manu12.102a/ vedaśāstrārthatattvajño yatra tatra-āśrame vasan) |  
+मनु१२।१०२अ/ वेदशास्त्रार्थतत्त्वज्ञो यत्र तत्र-आश्रमे वसन्) |  
   
-Manu12.102c/ iha-eva loke tiṣṭhan) sa brahmabhūyāya kalpate) ||  
+मनु१२।१०२च्/ इह-एव लोके तिष्ठन्) स ब्रह्मभूयाय कल्पते) ||  
   
-Manu12.103a/ ajñebhyo granthinaḥ śreṣṭhā granthibhyo dhāriṇo varāḥ |  
+मनु१२।१०३अ/ अज्ञेभ्यो ग्रन्थिनः श्रेष्ठा ग्रन्थिभ्यो धारिणो वराः |  
   
-Manu12.103c/ dhāribhyo jñāninaḥ śreṣṭhā jñānibhyo vyavasāyinaḥ ||  
+मनु१२।१०३च्/ धारिभ्यो ज्ञानिनः श्रेष्ठा ज्ञानिभ्यो व्यवसायिनः ||  
   
-Manu12.104a/ tapo vidyā ca viprasya niḥśreyasakaraṃ param |  
+मनु१२।१०४अ/ तपो विद्या च विप्रस्य निःश्रेयसकरं परम् |  
   
-Manu12.104c/ tapasā kilbiṣaṃ hanti) vidyayā-amṛtam aśnute) ||  
+मनु१२।१०४च्/ तपसा किल्बिषं हन्ति) विद्यया-अमृतम् अश्नुते) ||  
   
-Manu12.105a/ pratyakṣaṃ ca-anumānaṃ ca śāstraṃ ca vividhā.āgamam |  
+मनु१२।१०५अ/ प्रत्यक्षं च-अनुमानं च शास्त्रं च विविधा।आगमम् |  
   
-Manu12.105c/ trayaṃ suviditaṃ kāryaṃ dharmaśuddhim abhīpsatā ||  
+मनु१२।१०५च्/ त्रयं सुविदितं कार्यं धर्मशुद्धिम् अभीप्सता ||  
   
-Manu12.106a/ ārṣaṃ dharma.upadeśaṃ ca vedaśāstra.avirodhinā |  
+मनु१२।१०६अ/ आर्षं धर्म।उपदेशं च वेदशास्त्र।अविरोधिना |  
   
-Manu12.106c/ yas tarkeṇa-anusaṃdhatte) sa dharmaṃ veda) na-itaraḥ ||  
+मनु१२।१०६च्/ यस् तर्केण-अनुसंधत्ते) स धर्मं वेद) न-इतरः ||  
   
-Manu12.107a/ naiḥśreyasam idaṃ karma yathā.uditam aśeṣataḥ |  
+मनु१२।१०७अ/ नैःश्रेयसम् इदं कर्म यथा।उदितम् अशेषतः |  
   
-Manu12.107c/ mānavasya-asya śāstrasya rahasyam upadiśyate) || [M.upadekṣyate ]  
+मनु१२।१०७च्/ मानवस्य-अस्य शास्त्रस्य रहस्यम् उपदिश्यते) || [म्।उपदेक्ष्यते ]  
   
   
   
-Manu12.108a/ an.āmnāteṣu dharmeṣu kathaṃ syād) iti ced bhavet) |  
+मनु१२।१०८अ/ अन्।आम्नातेषु धर्मेषु कथं स्याद्) इति चेद् भवेत्) |  
   
-Manu12.108c/ yaṃ śiṣṭā brāhmaṇā brūyuḥ) sa dharmaḥ syād) aśaṅkitaḥ ||  
+मनु१२।१०८च्/ यं शिष्टा ब्राह्मणा ब्रूयुः) स धर्मः स्याद्) अशङ्कितः ||  
   
-Manu12.109a/ dharmeṇa-adhigato yais tu vedaḥ sa.paribṛṃhaṇaḥ |  
+मनु१२।१०९अ/ धर्मेण-अधिगतो यैस् तु वेदः स।परिबृंहणः |  
   
-Manu12.109c/ te śiṣṭā brāhmaṇā jñeyāḥ śruti.pratyakṣahetavaḥ ||  
+मनु१२।१०९च्/ ते शिष्टा ब्राह्मणा ज्ञेयाः श्रुति।प्रत्यक्षहेतवः ||  
   
-Manu12.110a/ daśa.avarā vā pariṣadyaṃ dharmaṃ parikalpayet) |  
+मनु१२।११०अ/ दश।अवरा वा परिषद्यं धर्मं परिकल्पयेत्) |  
   
-Manu12.110c/ try.avarā vā-api vṛttasthā taṃ dharmaṃ na vicālayet) ||  
+मनु१२।११०च्/ त्र्य्।अवरा वा-अपि वृत्तस्था तं धर्मं न विचालयेत्) ||  
   
-Manu12.111a/ traividyo hetukas tarkī nairukto dharmapāṭhakaḥ |  
+मनु१२।१११अ/ त्रैविद्यो हेतुकस् तर्की नैरुक्तो धर्मपाठकः |  
   
-Manu12.111c/ trayaś ca-āśramiṇaḥ pūrve pariṣat syād) daśa.avarā ||  
+मनु१२।१११च्/ त्रयश् च-आश्रमिणः पूर्वे परिषत् स्याद्) दश।अवरा ||  
   
-Manu12.112a/ ṛgvedavid yajurvid- ca sāmavedavid eva ca |  
+मनु१२।११२अ/ ऋग्वेदविद् यजुर्विद्- च सामवेदविद् एव च |  
   
-Manu12.112c/ try.avarā pariṣad- jñeyā dharmasaṃśayanirṇaye ||  
+मनु१२।११२च्/ त्र्य्।अवरा परिषद्- ज्ञेया धर्मसंशयनिर्णये ||  
   
-Manu12.113a/ eko 'api vedavid dharmaṃ yaṃ vyavasyed) dvijottamaḥ |  
+मनु१२।११३अ/ एको ऽअपि वेदविद् धर्मं यं व्यवस्येद्) द्विजोत्तमः |  
   
-Manu12.113c/ sa vijñeyaḥ paro dharmo na-ajñānām udito 'ayutaiḥ ||  
+मनु१२।११३च्/ स विज्ञेयः परो धर्मो न-अज्ञानाम् उदितो ऽअयुतैः ||  
   
-Manu12.114a/ a.vratānām a.mantrāṇāṃ jātimātra.upajīvinām |  
+मनु१२।११४अ/ अ।व्रतानाम् अ।मन्त्राणां जातिमात्र।उपजीविनाम् |  
   
-Manu12.114c/ sahasraśaḥ sametānāṃ pariṣattvaṃ na vidyate) ||  
+मनु१२।११४च्/ सहस्रशः समेतानां परिषत्त्वं न विद्यते) ||  
   
-Manu12.115a/ yaṃ vadanti) tamobhūtā mūrkhā dharmam atadvidaḥ |  
+मनु१२।११५अ/ यं वदन्ति) तमोभूता मूर्खा धर्मम् अतद्विदः |  
   
-Manu12.115c/ tatpāpaṃ śatadhā bhūtvā) tadvaktqn anugacchati) ||  
+मनु१२।११५च्/ तत्पापं शतधा भूत्वा) तद्वक्त्क़्न् अनुगच्छति) ||  
   
-Manu12.116a/ etad vo 'abhihitaṃ sarvaṃ niḥśreyasakaraṃ param |  
+मनु१२।११६अ/ एतद् वो ऽअभिहितं सर्वं निःश्रेयसकरं परम् |  
   
-Manu12.116c/ asmād apracyuto vipraḥ prāpnoti) paramāṃ gatim ||  
+मनु१२।११६च्/ अस्माद् अप्रच्युतो विप्रः प्राप्नोति) परमां गतिम् ||  
   
   
   
-Manu12.117a/ evaṃ sa bhagavān devo lokānāṃ hitakāmyayā |  
+मनु१२।११७अ/ एवं स भगवान् देवो लोकानां हितकाम्यया |  
   
-Manu12.117c/ dharmasya paramaṃ guhyaṃ mama-idaṃ sarvam uktavān) ||  
+मनु१२।११७च्/ धर्मस्य परमं गुह्यं मम-इदं सर्वम् उक्तवान्) ||  
   
-Manu12.118a/ sarvam ātmani saṃpaśyet) sat-ca-asat-ca samāhitaḥ |  
+मनु१२।११८अ/ सर्वम् आत्मनि संपश्येत्) सत्-च-असत्-च समाहितः |  
   
-Manu12.118c/ sarvaṃ hy ātmani saṃpaśyan) na-adharme kurute) manaḥ || [M.matim ]  
+मनु१२।११८च्/ सर्वं ह्य् आत्मनि संपश्यन्) न-अधर्मे कुरुते) मनः || [म्।मतिम् ]  
   
-Manu12.119a/ ātmā-eva devatāḥ sarvāḥ sarvam ātmany avasthitam |  
+मनु१२।११९अ/ आत्मा-एव देवताः सर्वाः सर्वम् आत्मन्य् अवस्थितम् |  
   
-Manu12.119c/ ātmā hi janayaty) eṣāṃ karmayogaṃ śarīriṇām ||  
+मनु१२।११९च्/ आत्मा हि जनयत्य्) एषां कर्मयोगं शरीरिणाम् ||  
   
-Manu12.120a/ khaṃ saṃniveśayet) kheṣu ceṣṭana.sparśane 'anilam |  
+मनु१२।१२०अ/ खं संनिवेशयेत्) खेषु चेष्टन।स्पर्शने ऽअनिलम् |  
   
-Manu12.120c/ pakti.dṛṣṭyoḥ paraṃ tejaḥ snehe 'apo gāṃ ca mūrtiṣu ||  
+मनु१२।१२०च्/ पक्ति।दृष्ट्योः परं तेजः स्नेहे ऽअपो गां च मूर्तिषु ||  
   
-Manu12.121a/ manasi-induṃ diśaḥ śrotre krānte viṣṇuṃ bale haram |  
+मनु१२।१२१अ/ मनसि-इन्दुं दिशः श्रोत्रे क्रान्ते विष्णुं बले हरम् |  
   
-Manu12.121c/ vācy agniṃ mitram utsarge prajane ca prajāpatim ||  
+मनु१२।१२१च्/ वाच्य् अग्निं मित्रम् उत्सर्गे प्रजने च प्रजापतिम् ||  
   
-Manu12.122a/ praśāsitāraṃ sarveṣām aṇīyāṃsam aṇor api |  
+मनु१२।१२२अ/ प्रशासितारं सर्वेषाम् अणीयांसम् अणोर् अपि |  
   
-Manu12.122c/ rukma.ābhaṃ svapnadhīgamyaṃ vidyāt) taṃ puruṣaṃ param ||  
+मनु१२।१२२च्/ रुक्म।आभं स्वप्नधीगम्यं विद्यात्) तं पुरुषं परम् ||  
   
-Manu12.123a/ etam eke vadanty) agniṃ manum anye prajāpatim |  
+मनु१२।१२३अ/ एतम् एके वदन्त्य्) अग्निं मनुम् अन्ये प्रजापतिम् |  
   
-Manu12.123c/ indram eke pare prāṇam apare brahma śāśvatam ||  
+मनु१२।१२३च्/ इन्द्रम् एके परे प्राणम् अपरे ब्रह्म शाश्वतम् ||  
   
-Manu12.124a/ eṣa sarvāṇi bhūtāni pañcabhir vyāpya) mūrtibhiḥ |  
+मनु१२।१२४अ/ एष सर्वाणि भूतानि पञ्चभिर् व्याप्य) मूर्तिभिः |  
   
-Manu12.124c/ janma.vṛddhi.kṣayair nityaṃ saṃsārayati) cakravat ||  
+मनु१२।१२४च्/ जन्म।वृद्धि।क्षयैर् नित्यं संसारयति) चक्रवत् ||  
   
-Manu12.125a/ evaṃ yaḥ sarvabhūteṣu paśyaty) ātmānam ātmanā |  
+मनु१२।१२५अ/ एवं यः सर्वभूतेषु पश्यत्य्) आत्मानम् आत्मना |  
   
-Manu12.125c/ sa sarvasamatām etya) brahma-abhyeti) paraṃ padam |  
+मनु१२।१२५च्/ स सर्वसमताम् एत्य) ब्रह्म-अभ्येति) परं पदम् |  
   
-Manu12.126a/ ity etan mānavaṃ śāstraṃ bhṛguproktaṃ paṭhan) dvijaḥ |  
+मनु१२।१२६अ/ इत्य् एतन् मानवं शास्त्रं भृगुप्रोक्तं पठन्) द्विजः |  
   
-Manu12.126c/ bhavaty) ācāravān nityaṃ yathā.iṣṭāṃ prāpnuyād) gatim ||  
+मनु१२।१२६च्/ भवत्य्) आचारवान् नित्यं यथा।इष्टां प्राप्नुयाद्) गतिम् ||  
   
   
   
-[samāptaṃ mānavaṃ dharmaśāstram]  
-  
-  
-  
-  
-  
-  
-  
+[समाप्तं मानवं धर्मशास्त्रम्]
