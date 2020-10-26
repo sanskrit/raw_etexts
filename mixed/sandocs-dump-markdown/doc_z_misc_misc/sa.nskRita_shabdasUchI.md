@@ -47903,9 +47903,9 @@ Please send your questions and comments to sanskrit@cheerful.com
 दक्षिणैः  
 दक्षिणो  
 दक्षिणौ  
-दक्षिन  
-दक्षिनां  
-दक्षिनेन  
+दक्षिण  
+दक्षिणां  
+दक्षिणेन  
 दक्षिमां  
 दक्षे  
 दक्षेण  
