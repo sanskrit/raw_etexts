@@ -48908,7 +48908,7 @@
 
 एष एवेदं सर्वमित्युपासितव्यम् ३८६
 
-Credits
+## स्रोतः
 
 Sources: 1. For Books 1 and 2, Jaimin´ya-BrŒhmaöa, Raghu V´ra and Lokesh
 Candra, and emendations by Bodewitz, 1996, and
