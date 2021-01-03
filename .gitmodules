@@ -52,3 +52,6 @@
 [submodule "mixed/sandocs-dump"]
 	path = mixed/sandocs-dump
 	url = https://github.com/sanskrit/sanskrit-documents-dump.git
+[submodule "jyotiSham/adyatithi"]
+	path = jyotiSham/adyatithi
+	url = https://github.com/jyotisham/adyatithi.git
