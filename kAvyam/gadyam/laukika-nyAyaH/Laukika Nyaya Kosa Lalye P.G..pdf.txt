@@ -33,8 +33,8 @@ combined in one volume (the book is published by Niranjanā publishers and Book 
 The Nyāya gives some suggested sense. Thus it might have been clear that a variety of experiences constitute the main story of the Nyāya or the maxim. In course of time, the experiences were crystalized in ever growing manner in the conversations, in different regions, different action-reaction plans. The efflorescence of human mind with all its glories and dark sides have shaped various maxims. Any maxim presupposes three stages (1) the experience, (11) couching the experience briefly in words and then (iii) casting searching light on human behaviour. The maxims, however, become impersonal. As such, they attain an abiding place in the human communications and in the folk literature too and then to the classical literature. 
 The next problem is the classification of the maxims under probable heads. Some broad method of classification is suggested by the author of the oldest anthology of the Nyāyas-Bhuvanesalaukikanyāya sāhasrī. 
 ये चात्र लौकिकन्यायाः प्रोक्तास्तेषामुदाहतिः। 
-वेदान्तशास्त्रगा काचित् कचिच्च शब्दशास्त्रगा।।६।। काचिभ्यायानुगा काचिन्मीमांसा शास्त्र गा तथा। लौकिकोक्तिर्यथा तद्वत् प्रायः प्रोक्ताऽपरापिवा।।७।। 
-अर्थमात्रं क्वचित्तेषामधे स्पष्टे स्फुटं स्मृतम्। प्राय: सक्षेपतः प्रोक्तं विस्तरादपि च क्वचित्।।८।। 
+वेदान्तशास्त्रगा काचित् कचिच्च शब्दशास्त्रगा॥६॥ काचिभ्यायानुगा काचिन्मीमांसा शास्त्र गा तथा। लौकिकोक्तिर्यथा तद्वत् प्रायः प्रोक्ताऽपरापिवा॥७॥ 
+अर्थमात्रं क्वचित्तेषामधे स्पष्टे स्फुटं स्मृतम्। प्राय: सक्षेपतः प्रोक्तं विस्तरादपि च क्वचित्॥८॥ 
 (viii) 
 Thakura Datta Sharma, the editor of the works, has given an alphabetical list of all the Nyāyas at the beginning. He has tried to find out a common link in the body of the works, wherever possible, to cluster the Nyāyas together 
 The book, printed in 1908, is the oldest printed colleclion of the Nyāyas. The writer has exhaustively quoted from the Sanskrit literature including the Sūtras of Pānini. He has cited lines containing some popular beliefs at some places e.g. opera fui t :- in which the lines-- 
@@ -106,7 +106,7 @@ There is an unanswerable question, who is the earlier one-a hen or an egg? Simil
 अण्डविस्त्रम्भन्यायः This maxim is employed to describe a situation when somebody does an adventurous act, believing someone unreasonably or when someone commits a rash action 
 thoughtlessly. 22. अतिदेशन्यायः 
 1. एकत्र श्रुतस्यान्यत्र सम्बन्धः। अन्यधर्मस्यान्यत्रारोपणम्। 
--सर्वतन्त्रसिद्धान्तपदार्थ लक्षणसङ्गह, पृ० 9 2. अन्यसम्बन्धिनां धर्माणामन्यत्रावस्थापनमतिदेशः।। 
+-सर्वतन्त्रसिद्धान्तपदार्थ लक्षणसङ्गह, पृ० 9 2. अन्यसम्बन्धिनां धर्माणामन्यत्रावस्थापनमतिदेशः॥ 
 -तन्त्रयुक्तिविचार, पृ० 2 
 21. 
 Laukikanyāyakosa 
@@ -116,7 +116,7 @@ A
 " 
 3. एकत्र श्रुतस्थान्यत्र सम्बन्धः। अन्यधर्मस्यान्यत्रारोपणम्॥ 
 (i) अतिक्रमणेनातिदेशः -विष्णुधर्मोत्तरपुराणः, पृ० 13 (ii) अतिदेशस्तु यत् किञ्चिदर्थजातमुदीर्य च। 
-एवमन्यदपि ज्ञेयमिति स्थापनमुक्तिभिः।। इदत्यतिदेशः। 
+एवमन्यदपि ज्ञेयमिति स्थापनमुक्तिभिः॥ इदत्यतिदेशः। 
 -तन्त्रयुक्ति, पृ० 14 (iii) अतिदेशस्तु पूर्वोक्तन्यायस्थानुषङ्गितः। 
 -तन्त्रयुक्तिविचार, पृ० 8 This maxim presupposes the extended application of some statement which is stated before. Sometimes the same statement is extended. Prof.V.K.Lele has the following explanation to offer--- (Extention of application to analogous topics). connecting the properties of one with those of the other or superimposing of one upon those of the other is 'atidesa'. 
 Prof. Lele has cited many definitions of "atidesa". Some of them are given below..-. (i) अतिदेशस्तु पूर्वोक्तन्यायस्यसान्यानुषाड्गिता। 
@@ -154,7 +154,7 @@ Laukikanyayakosa
 matter and when there is no earlier reference to it, this maxim comes into picture. 
 अनेकान्तवादन्यायः This maxim suggests uncertainty (indefiniteness). The word Anekānta is used in Jaina philosophy which describes seven possibilities of uncertainty. Some uncertainties can be spoken about Fate. 
 अनेकाश्रयन्यायः This maxim conveys a message that it is better to take support of one strong man than resorting to many weak fellows. 
-अतरङ्गबहिरङ्गन्यायः Examle--यं धर्मा अपूर्वाथस्तेि साक्षादपूर्वेण सम्बध्यमानोस्तदड्गेषु प्रवर्तमाना अन्तरङ्गे तावदापतन्ति। ततो प्यवहिते बाहिरङ्गे। यत्रव पूर्वमापतति तत्रैव तिष्ठति, तरतिक्रमे कारण भावात्।। 
+अतरङ्गबहिरङ्गन्यायः Examle--यं धर्मा अपूर्वाथस्तेि साक्षादपूर्वेण सम्बध्यमानोस्तदड्गेषु प्रवर्तमाना अन्तरङ्गे तावदापतन्ति। ततो प्यवहिते बाहिरङ्गे। यत्रव पूर्वमापतति तत्रैव तिष्ठति, तरतिक्रमे कारण भावात्॥ 
 __--शाबरभाष्य जै०सू०, XII.2. 11, पाणिनि I.1.4.1.15. The closer i.e., proximity aspect of anything is stronger than the remote (or external) aspect of it. This rule is 
 often referred to in grammar and Mîmāmsā. 
 अन्तर्दीपिकान्यायः example-सत्येन लभ्यस्तपसा ह्येष आत्मा सम्यग्तानेन ब्रह्मचर्येण नित्यम्। मुण्डकोपनिषद् A lamp, though kept in a jar, illumines at least some portion of the jar and the light spreads out in all the four directions. This maxim is used to describe a person who performs various tasks, remaining at one place. 
@@ -162,7 +162,7 @@ often referred to in grammar and Mîmāmsā.
 34. 
 Laukikanyayakosa 
 36. 
-अन्धकवर्तकीयन्यायः संसारसागरमिमं भ्रमता नितान्तं जीवेन मानवभवः समवापि दैवात्। तत्रापि यद् भुवनमान्यकुले प्रसूतिः सत्सङ्गतिश्च तदिहान्धकवर्तकीयम्।। -- HIO 655 A blind man was clapping his hand aimlessly, Incidentally a bird called Vartika (a kind of quail) got caught up in his hands. Fortunately, without any effort or without any idea he got the bird. This is a rare happening. Similarly in our life also, many things happen due to our good luck or by coincidence. 
+अन्धकवर्तकीयन्यायः संसारसागरमिमं भ्रमता नितान्तं जीवेन मानवभवः समवापि दैवात्। तत्रापि यद् भुवनमान्यकुले प्रसूतिः सत्सङ्गतिश्च तदिहान्धकवर्तकीयम्॥ -- HIO 655 A blind man was clapping his hand aimlessly, Incidentally a bird called Vartika (a kind of quail) got caught up in his hands. Fortunately, without any effort or without any idea he got the bird. This is a rare happening. Similarly in our life also, many things happen due to our good luck or by coincidence. 
 अन्धकूपन्यायः Once a blind man was asked to go straight. But he connived at this advice and ultimately fell in a ditch. This maxim suggests that he who does not abide by wholesome advice, is sure to face peril. 
 -T10 493 
 37. 
@@ -203,7 +203,7 @@ This maxim tells that physical deformity of a man docs not prove to be an impedi
 a blind horse eats well. 49. अन्यकारुकान्यायः 
 A person, born in bad atmosphere, cherishes bad sentiments only, as an insect which takes its birth in 
 dirt, eats rubbish only. 50. अपराह्नछायान्यायः 
-आरम्भगुर्वी क्षयिणी क्रमेण लध्वी पुरा वृद्धिमती च पश्चात्। दिनस्य पूर्वार्धपरार्धभिन्ना छायेव मैत्री खलसज्जनानाम्।। 
+आरम्भगुर्वी क्षयिणी क्रमेण लध्वी पुरा वृद्धिमती च पश्चात्। दिनस्य पूर्वार्धपरार्धभिन्ना छायेव मैत्री खलसज्जनानाम्॥ 
 - भर्तृहरि, नीतिशतक, 49; सा० 332 This maxim is based on the shadow in the afternoon which grows in length till the evening and then becomes weak slowly thereafter. Similarly the company of the wicked is very intimate in the beginning but gets reduced 
 in the course of time. 51. अपसारिताग्निभूतलन्यायः Cf. चम्पकपटन्यायः 
 Though fire is shifted from one place to another, the original place remains warm for sometime. Similary, the maxim says that a man may change his place but 
@@ -313,7 +313,7 @@ Laukikanyayakosa
 86. 
 87. 
 3TFEGIUR484: 
-तत्र वर्षसहस्त्राणि निर्विकल्पसमाधिना। दश स्थित्वा शशामासावात्मन्यस्नेहदीपवत्।। 
+तत्र वर्षसहस्त्राणि निर्विकल्पसमाधिना। दश स्थित्वा शशामासावात्मन्यस्नेहदीपवत्॥ 
 - TaTf76 2.1.44 A lamp burns till there is oil in it. When the oil is exhausted, it reinains extinguished. It is a lamp for name's sake only. It does not serve the purpose of giving light. 
 अहिकुण्डलन्यायः If one looks at a serpent, it appears to be one serpent only. But when one looks at it from distributive angles like its colour, coil, hood and the like, it appears with difference. It is one from the point of view of 'serpent ness' but it appears in various forms, considering its hood, coil etc. The maxim has basis of the unitary and distributive point of view. The Brahman appears one, but when looked at from different point of view, it has multifarious forms. 
 अर्हिनकुलन्यायः 
@@ -334,7 +334,7 @@ one. 93. आदर्शमलिनन्यायः
 A plain, clean mirror appears to be sullied by the dust deposited on it. The more clean and clear the mirror, the more it will appear soiled by the dust and dirt. 
 आभाणकन्यायः “Abhanaka” is a saying or a proverb. The people are accustomed to cite an example saying “as it is said”. They generally cite some adage which is current among the people. 
 आमोदषट्पदन्यायः Ex. अकारेणैव चतुरास्तर्कयन्ति परेङ्गितम्। 
-गर्भस्थकेतकीपुष्पमामोदे नैव षट्पदाः।। 
+गर्भस्थकेतकीपुष्पमामोदे नैव षट्पदाः॥ 
 -सुभाषित रत्न भाण्डार, 158/233; सा० 781 Where there is fragrance, the bees swarm there to 
 Laukikanyāyakosa 
 25 
@@ -399,7 +399,7 @@ M
 . 
 in turn, complained that it receives strokes from both the sides. The maxin suggests that everybody suffers in life but he carries an impression that he suffers 
 heavily, more than anybody else. 114. 38C CHUTC978UTRITET: 
-Ex. कर्णामृतं सूक्तिरसं विमुच्य दोषेषु यत्नः सुमहान् खलस्य। अवेक्षते केलिवनं प्रविश्य क्रमेलकः कण्टकजालमेव।। 
+Ex. कर्णामृतं सूक्तिरसं विमुच्य दोषेषु यत्नः सुमहान् खलस्य। अवेक्षते केलिवनं प्रविश्य क्रमेलकः कण्टकजालमेव॥ 
 --Colo 1.4 A camel eats the leaves of the thorny trees. Even though he is left in a beautiful garden, he searches for the thorny tree and eats the leaves of that tree only. In the society also, the wicked persons take pleasure in pointing out the faults of others. The maxim suggests that nothing is painful or delightful by itself. Everybody does not like everything. There is subjective element 
 in all likes and dislikes. 115. 30CMUERRA: 
 अयं हि स्वमते परेणोद्भाव्यमानानां दूषणानां तन्मते पातनेऽवतरति। 
@@ -422,12 +422,12 @@ In olden days, the marriage preparations used to start when the girl used to att
 Laukikanyāyakosa 
 the marriage, she used to go to her husbands house, leaving the house of her parents. She thus used to get a 
 long lasting support. 122. ऋतुलिङ्गन्यायः 
-A particulars verse related to the seasons occurs in many works. The verse is as follows यथार्तावृतुलिङ्गानि नानारूपाणि पर्यये। दृश्यन्ते तानि तान्येव, यथा भावा युगदिषु।। -महाभारत, शान्ति० 233.15; तन्त्रवार्तिक 1.37; वेदान्तसूत्र 
+A particulars verse related to the seasons occurs in many works. The verse is as follows यथार्तावृतुलिङ्गानि नानारूपाणि पर्यये। दृश्यन्ते तानि तान्येव, यथा भावा युगदिषु॥ -महाभारत, शान्ति० 233.15; तन्त्रवार्तिक 1.37; वेदान्तसूत्र 
 1.3.30; वायुपुराण 9.65; विष्णुपुराण 1.5.61. 123. एकदेशाविकृतन्यायः 
 Even if a tail or an ear of a dog is cut off, the dog remains a dog only. If a limb of a man is broken, he remains the same. His original nature remains 
 unchanged. 124. एकपुत्रन्यायः 
 (i) वरमेको गुणी पुत्रो न च मूर्खशतान्यपि। 
-एकश्चन्द्रस्तमो हन्ति न च तारागणोऽपि च।। (ii) एकेनापि सुपुत्रेण सिंही स्वपिति निर्भयम्। 
+एकश्चन्द्रस्तमो हन्ति न च तारागणोऽपि च॥ (ii) एकेनापि सुपुत्रेण सिंही स्वपिति निर्भयम्। 
 सदैव दशभिः पुत्र रं वहति रासभी॥ 
 -सुभाषितरत्नभाण्डागार 6,7/90. It is better to have one good, meritorious, virtuous son than having hundreds of bad, wicked and unrighteous sons. It is the virtue or the good behaviour which makes a man strong and popular in society and not the 
 physical number. 125. एकवृन्तगतफलद्वयन्यायः 
@@ -443,7 +443,7 @@ Once a cowherd came to know that no arrangement was made for the protection of t
 efforts. 128. Cuenta: 
 The word "Kantaka" has atleast two meanings. One is 'a thorn' and other is 'an enemy. If one is pricked by a thorn, one tries to remove it with the thorn to avoid further trouble. Similarly, one tries to crush one's enemy with the help of other enemy and then tries to ruin the other enemy. This is the stratagem on which this maxim 
 is based. 129. CUTETCERTET: 
-प्रत्यगात्मतया तस्य प्राप्तत्वेऽपिच सर्वदा। कण्ठचामीकरन्यायात् तत्प्राप्तिरुपचर्यते।। 
+प्रत्यगात्मतया तस्य प्राप्तत्वेऽपिच सर्वदा। कण्ठचामीकरन्यायात् तत्प्राप्तिरुपचर्यते॥ 
 34 
 Laukikanyāyakosa 
 Cămīkara' means gold. Secondarily any golden ornament is called Cámikara! It also means golden chain put around the neck. A stupid person has no idea about the golden chain, he has put on. Similarly, a person, though Brahman from the ultimate point of view, does not realize it, owing to ignorance only. A teacher can inake him realize it. Though Brahman is indirectly realized through understanding, the real nature of the individual soul; the self as it were is not realized owing to the influence of Māyā. It is the advice 
@@ -451,7 +451,7 @@ of the preceptor which advises him to realize it inwardly. 130. codichtugeira:
 This maxim is generally applied to a person who wipes off the bad qualities of other person just by his contact, as the fruit called 'Kataka' removes the dirt from the water 
 when that fruit is put in it. 131. Qara cichora: 
 पित्रा स्वपाणिपद्येन स्पृश्यमानोऽवनिपतिः। उत्कोरकदम्बाभौ बभूव पुलकाङ्करैः। 
-uffrez 1.24 वीचीतरङ्गन्यायेन तदुत्पत्तिस्तु कीर्तिता। कदम्बकोरकन्यायादुत्पत्तिः कस्यचिन्मते।। 
+uffrez 1.24 वीचीतरङ्गन्यायेन तदुत्पत्तिस्तु कीर्तिता। कदम्बकोरकन्यायादुत्पत्तिः कस्यचिन्मते॥ 
 -F7277, 278479, ço 214, 228 The Kadamba trce puts forth buds simultaneously. This maxim is applied to a situation when many events occur 
 simultaneously. 132. Qgritaucoru: 
 Whether a thorn gets stuck up to a plantain tree or a plantain tree is pierced by the thorn, the result is the same! Both ways, the plantain tree only suffers.
@@ -618,7 +618,7 @@ with the time wheel, appear to be different. 183. कुल्याप्रण
 This maxim suggests that one act may yield many fruits, giving the example of the water of the canal which is useful not only to the fields but also for drinking and for many other purposes too. कुशकाशावलम्बनन्यायः Kuća is a type of grass and kāśa also is a type of grass which has white flowers. Both kuģa and kāśa are very thin and weak type of plants and it is dangerous to catch hold for rescue in times of danger. The maxim points at a man who advances feeble arguments or 
 takes support of weak things. 185. कुसुमस्तबकन्यायः 
 Ex. कुसुमस्तबकस्येव द्वे वृत्ती तु मनस्विनाम्। 
-मूर्ध्नि वा सर्वलोकस्य विशीर्येत वनेऽथवा।। 
+मूर्ध्नि वा सर्वलोकस्य विशीर्येत वनेऽथवा॥ 
 --- भर्तृहरि, नीतिशतक, 33 
 184. 
 48 
@@ -639,21 +639,21 @@ accustomed to live in a small circle, does not feel like
 giving it up like the tortoise in the well. 189. कृपकूखननन्यायः 
 The maxim depicts a man who thinks of digging a well when his house is blazing with fire or when he feels thirsty suggesting, thereby, the nature of a man who does not provide anything for the future or for probable difficulties and runs hither and thither for help in the time of difficulty. कृपखानकन्यायः Cf. कूपकूर्मन्याय: यावत्स्वस्यमिदं शरीरमरुतं यावन्जरा दूरतो 
 यावच्चेन्द्रियशक्तिरप्रतिहताः यावत्क्षयो नायुषः। 
-आभिश्रेयसि तावदेव विदुषा कार्यः प्रयत्नो मशन सन्दीप्ते भवने तु कूपखननं प्रत्युद्यमः कीदृशः।। 
+आभिश्रेयसि तावदेव विदुषा कार्यः प्रयत्नो मशन सन्दीप्ते भवने तु कूपखननं प्रत्युद्यमः कीदृशः॥ 
 __- भर्तृहरि, नीतिशतक 138 When a person digs a well, some water and mud bound to fall on his body, spoiling his clothes and body. But after some time of digging, fresh water starts flowing from the well. He cleans his clothes and body with the same clean, fresh water. Similarly, the faults engendered by the dualistic attitude, are cleared off by developing 
 Advaita or monistic spirit. 191. कूपमण्डूकन्यायः Cf. कूपकूर्मन्यायः 
 A frog moves about in a well. It does not go out of that limited area. So it thinks that the well around it is the only real world. This maxim describes a person who 
 is narrow minded. 192. कूपयन्त्रघटीन्यायः 
 Ex. काँश्त्तुिच्छयति प्रपूरयति वा काँश्चिन्नयत्युन्नतिं 
 काँश्चित् पातविधौ करोति च पुनःकाँश्चिन्नयत्याकुलान्।
-﻿Laukikanyayakosa अन्योन्यं प्रतिपक्षसन्ततिमिमां लोकस्थितिं बोधय नेष क्रीडति कूपयन्त्रघटिकान्याय प्रसंक्तो विधिः।। 
+﻿Laukikanyayakosa अन्योन्यं प्रतिपक्षसन्ततिमिमां लोकस्थितिं बोधय नेष क्रीडति कूपयन्त्रघटिकान्याय प्रसंक्तो विधिः॥ 
 -मृच्छकटिक, 10.59; सा० 664 In a contrivance at a well, on a rotating wheel with many pitchers are attached to it. As the wheel goes down, the jars are filled with water. When they come up along with the wheel, they are emptied. Again they go below and come up. Thus the wheel goes on filling and emptying the jars. The fate or providence also rotates like a wheel, changing the fortunes of human beings. This is what a verse in Mrcchakatika tells us. It empties or fills up some; it elevates some and (degrades some) makes some fall down and makes some anxious, (thus) making (all) realize this state of things in the world-conveying the sense of the maxim 
 "the well machine and the buckets". 193. कूर्मकिशोरन्यायः 
 The maxim is a reflection on a man of forgetful nature, who is compared to a female tortoise. The she-tortoise has a forgetful nature. She forgets that she has laid eggs. Suddenly she remembers and tries to find the place where she had laid the eggs. This is how the 
 man of a forgetful nature is described. 194, कूमाङ्गन्यायः 
 (i) वाचस्पति मिश्र साङ्ख्यतत्त्वकौमुदी कारिका-9.18. (ii) मुण्डकोपनिषद्-3. (iii) भगवद्गीता-2.68. 
 Ex. यदा संहरते चायं कर्मोऽङ्गानीव सर्वशः। 
-इंद्रियाणि इंद्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता।। 
+इंद्रियाणि इंद्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता॥ 
 --- भगवद्गीता 2.58. 
 Laukikanyāyakosa 
 A tortoise has the skill (knack) of withdrawing its limbs under its broad, hard, thick back when it senses some danger. The limbs when withdrawn, are not seen apparently. Similarly, when the effect-matter becomes apparent, the casual matter remains unseen. When the effect matter is destroyed, it becomes one with the 
@@ -682,7 +682,7 @@ Laukikanycīyakosa
 water to it, he closes it and turns the water to the unirrigated part. In shot, he manages to supply water to the entire farm. So also, says this maxim, the detachment starts from the mind and by continuous adherence to it, it spreads through out the body and then the Yogin witnesses a stream of detchment for his 
 ultimate good. 201. uforira: 
 कैमुत्वेनार्थसंसिद्धिः काव्यार्थपत्तिरिष्यते। 
-स जितस्त्वन्मुखेनेन्दुः का वार्ता सरसीरुहाम्।। 'Kimuta' is used in the sense of What more needs to be said?' It is also used as follows:-how can the lesser persons dare do something which the eminent persons cannot do? This is also called Kävyārthāpatti. This maxim can also be used to describe a situation when a 
+स जितस्त्वन्मुखेनेन्दुः का वार्ता सरसीरुहाम्॥ 'Kimuta' is used in the sense of What more needs to be said?' It is also used as follows:-how can the lesser persons dare do something which the eminent persons cannot do? This is also called Kävyārthāpatti. This maxim can also be used to describe a situation when a 
 particular meaning is not conveyed by individual means. 202. TUTTET: 
 In the days of yore, there were many ways of torturing a suspected criminal in which, making the culprit drink poison was one of the ways which is mentioned in this 
 maxim. 203. 00477217A: 
@@ -733,7 +733,7 @@ Ex. वृद्धा युवानः शिशवः कपोता: ख�
 तथैव सर्वे युगपत्पदार्थाः परस्परेणान्वयिनो भवन्ति। The maxim takes its origin from an incident. Pigeons see some grains on the ground of the field. All the pigeons alight on the field together and not individually or separately. Similarly, the words in a sentence convey the meaning of the sentence as a whole and not individually. This maxim also describes the events when many causes bring about one and the same effect. It is also the basis of the figure of speech called Samuccaya. 
 -सा० 183 219. खल्वाटबिल्वीयन्यायः 
 Ex. खल्वाटो दिवसेश्वरस्य किरणैः सन्तापितो मस्तके 
-वाञ्छन् देशमनातपं विधिवशात् तालस्य मूलं गतः। तत्राप्यस्य महाफलेन पतता भग्नं सशब्दं शिरः प्रायो गच्छति यत्र भाग्यरहितस्तत्रैव यान्त्यापदः।। 
+वाञ्छन् देशमनातपं विधिवशात् तालस्य मूलं गतः। तत्राप्यस्य महाफलेन पतता भग्नं सशब्दं शिरः प्रायो गच्छति यत्र भाग्यरहितस्तत्रैव यान्त्यापदः॥ 
 ___-भर्तृहरि नीतिशतकम्, 91 The maxim is based on one incident. A bald-headed person takes shelter under the shade of a Bilva tree, as he was tired after a long journey. But unfortunately, a ripe Bilva fruit falls on his head and his head breaks. This shows that an unlucky man faces trouble wherever 
 58 
 Laukikanyāyakosa 
@@ -955,7 +955,7 @@ A 'Kataka' fruit, when put in muddy water, makes the water clear and is ultimate
 -HO 260 
 284. tetra: 
 Ex. Toto To LACHT at afpera:1 
-एकदा बहुधा चैव दृश्यते जलचन्द्रवत्।। The reflections of the moon in various pots, filled with water are different but the moon is one only. Similarly, says the maxim, the self appears to be multi- numbered in many bodies in many shapes but is actually one 
+एकदा बहुधा चैव दृश्यते जलचन्द्रवत्॥ The reflections of the moon in various pots, filled with water are different but the moon is one only. Similarly, says the maxim, the self appears to be multi- numbered in many bodies in many shapes but is actually one 
 only. 285. Harga: 
 Ex. teriga Struffrenfegetal 
 अनुपन्थाय तभिष्ठे फेनेऽप्यनुभिगता यथा। 
@@ -1074,7 +1074,7 @@ This maxim maintains that the virtues of a good person disappear if he comes in 
 water, poured on a hot iron evaporates completely. 319. तम:प्रकाशन्यायः 
 The maxim refers to those persons who are mutually enmical and try to remove one another as darkness 
 and light are mutually enmical to each other. 320. तमोदीपन्यायः 
-Ex. अज्ञानं ज्ञातुमिच्छेद्यो मानेनात्यन्तमूढधीः। ___स तु नूनं तमः पश्येद्दीपेनोत्तमतेजसा।। 
+Ex. अज्ञानं ज्ञातुमिच्छेद्यो मानेनात्यन्तमूढधीः। ___स तु नूनं तमः पश्येद्दीपेनोत्तमतेजसा॥ 
 -वेदान्तसिद्धान्तमुक्तावलि The maxim emphasizes the fact that the knowledge obliterates the ignorance, as a lamp removes the dark 
 mess. 321. तरक्षडाकिनीन्यायः 
 पायसान्नाप्रिया त्वस्था पशुलोकभयङ्करी। अमृतादिमहाशक्तिसंवृता डाकिनीश्वरी। 
@@ -1106,14 +1106,14 @@ A man requires some ancillaries to do some work efficiently. To illustrate this,
 Laukikanyāyakośa 
 329. तुलायष्टिन्यायः (तुलादण्डयष्टिन्याय) 
 स्तोकेनोन्नतिमायाति स्तोकेनायात्यधो गतिम्। 
-अहो सुसदृशी चेष्टा तुलाकोटेः खलस्य च।। 
+अहो सुसदृशी चेष्टा तुलाकोटेः खलस्य च॥ 
 ___-हितोपदेश 1.154 When the things are kept in a pan of the balance, they affect the balance and the balancing rod begins to tilt, So is the state of a wicked man who keeps on changing 
 according to the surroundings--says the maxim. 330. तुलोत्रमनन्यायः 
 If one pan of the balance is raised up, the other one goes down. This maxim is applied to the work which puts forth simultaneous results. A man thinks that, if one of the rivals is subdued, it will be easy for him to 
 subdue others. 331. तुल्यबलप्रेसणन्यायः 
 If two associates are of equal strength, one will try to use the other for his own benefit. But if they are sent on errand at different places, and if their work subserves the same purpose, both of them cannot accomplish the 
 work at the same time. 332. तुषकण्डन्यायः 
-Ex. Cf. पिष्टपेषणन्याय अविचारवतो युक्तिकथनं तुषकण्डनम्। नीचेषूपकृतं राजन् वालुकास्विव मूत्रितम्।। 
+Ex. Cf. पिष्टपेषणन्याय अविचारवतो युक्तिकथनं तुषकण्डनम्। नीचेषूपकृतं राजन् वालुकास्विव मूत्रितम्॥ 
 --हितोपदेश 4.13 
 Pounding the chaff of the corn does not serve any purpose. The maxim tells that it is fruitless to waste one's energy on useless tasks. 
 -~-सा० 409 
@@ -1254,7 +1254,7 @@ The maxim refers to a practice, prevalent among the. Dravid people. While practi
 who take a long, round about way of doing any work. 375. धनञ्जय न्यायः 
 Ex. निषोधमहिम्ना बाधितेऽपि द्वैते वाक्यजबोधस्य धनञ्जय 
 न्यायेन बाधकत्वोपपत्तेः। 
-यथाहुः नित्यबोधपरिपीडितं जगद् विभ्रमं नुदति वाक्यजा मतिः । वासुदेवनिहतं धनञ्जयो हन्ति कौरवकुलं यथा पुनः।। 
+यथाहुः नित्यबोधपरिपीडितं जगद् विभ्रमं नुदति वाक्यजा मतिः । वासुदेवनिहतं धनञ्जयो हन्ति कौरवकुलं यथा पुनः॥ 
 -रघुनाथ, लौकिकन्यायसाहस्त्रीयुद्धतः This maxim indicates that a particular work can be repeated. Srikssna had already defeated the Kauravas in a divine manner but Arjuna did the same thing 
 100 
 Laukikanyayakosa 
@@ -1266,7 +1266,7 @@ Ex. आजन्मतोऽतिकुटिलेऽपि जने मह�
 377. धान्यपलालन्यायः 
 Ex. (१) शास्त्राण्यधीत्य मेधावी ह्यभ्यस्य च पुनः पुनः। 
 परमं ब्रह्म विज्ञाय ह्युल्कावत्तान्यथोत्सृजेत्॥ (२) ग्रन्थमभ्यस्य मेधावी ज्ञानविज्ञानतत्परः। 
-पलालमिव धान्याओं त्यजेद्ग्रन्थमशेषतः।। -ब्रह्मबिन्दूपनिषद् 14; पातञ्जलमहाभाष्य-1.2.39, 3.3.18; 3. 4.2; 4.1.12 The maxim tells that while reading a text, one should take the essential thing from the text book and leave off unessential things, as one collects rice (or grain) and 
+पलालमिव धान्याओं त्यजेद्ग्रन्थमशेषतः॥ -ब्रह्मबिन्दूपनिषद् 14; पातञ्जलमहाभाष्य-1.2.39, 3.3.18; 3. 4.2; 4.1.12 The maxim tells that while reading a text, one should take the essential thing from the text book and leave off unessential things, as one collects rice (or grain) and 
 leaves off the chaff. 378. धारावाहिकबुद्धिन्यायः 
 Intellect is of the nature of determination. Owing to its working, many ideas enter and many disappear from the intellect of a person. Thus says the maxim, the ideas move in a manner of a continuously flowing course of the stream. 
 Luukikanyayakosa 
@@ -1276,13 +1276,13 @@ This maxim refers to a famous statement in Nyāya, where there is smoke, there i
 Vyapti. 380. धेनुकिशोरन्यायः 
 Ex. जैमिनिमीमांसासूत्र VII.4.7. The word 'Dhenu' means a cow. But the words like 'Asvadhenukishora' means a female horse. This maxim 
 refers to some such rule about compounds. 381. नक्रन्यायः 
-नक्रः स्वस्थानमासाद्य गजेन्द्रमपि कर्षति। स एव प्रच्युतः स्थानाच्छुनाऽपि परिभूयते।। -पञ्चतन्त्र 3.44 This maxim refers to a fact in life. A man who is firm in his position, is difficult to be unseated. An allegator, when it is firm in its area, it is very dangerous. But 
+नक्रः स्वस्थानमासाद्य गजेन्द्रमपि कर्षति। स एव प्रच्युतः स्थानाच्छुनाऽपि परिभूयते॥ -पञ्चतन्त्र 3.44 This maxim refers to a fact in life. A man who is firm in his position, is difficult to be unseated. An allegator, when it is firm in its area, it is very dangerous. But 
 once it is displaced, even a dog can defeat it. 382. नटाङ्गानान्यायः 
 Ex. यथा नटानां स्त्रियो'रङ्गगता यो यः पृच्छति 
 कस्य यूयं कस्य यूयमिति तं तं तव तवेत्याहुः। एवं व्यञ्जनान्यपि यस्य यस्याचः कार्यमुच्यते तं तं भजन्ते। 
 --सा० 370 This maxim conveys that an actress who plays the role of a wife on the stage, says to the actors "she is his wife." She has to play the role of a wife despite those 
 who play the role of the husband. 383. नदीसमुद्रन्यायः । 
-Ex. यथा नद्य स्पन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय तथा विद्वान्नामरुपाद्विभुक्तः परात्परं पुरुषमुपैति दिव्यम।। 
+Ex. यथा नद्य स्पन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय तथा विद्वान्नामरुपाद्विभुक्तः परात्परं पुरुषमुपैति दिव्यम॥ 
 102 
 Laukikanyåyakosa 
 Cf. शकुनिसूत्रन्याय, शुद्धोदलवणन्याय, चौरापहार्यन्याय, 
@@ -1305,7 +1305,7 @@ Laukikanyayakosa
 -रामतीर्थ वेदान्तसार टीका, पृ० 13 There is a legend on which the maxim is based. Two persons were going in a (chariot cart). Unfortunately, the (chariot cart) of one of them was burnt by the fire near a village. The (horses\bulls) of another person died. Thus the (chariot cart) of one person and the bulls of the other remained. They put the (chariot cart) and the bulls together and proceeded further. This indicates that it is always beneficial to put 
 the available things to use. 387. नसर्वत्रतुल्यत्वन्यायः 
 Ex. न च सर्वत्र तुल्यत्वं स्यात् प्रयोजनकर्मणाम्। 
-चलनेन त्वसि योद्धा प्रयुङ्क्ते छेदनं प्रति॥ सेनापतिस्तु वाचैव भृत्यानां विनियोजकः। राजा सन्निधिमात्रेण विनियुङ्क्ते कदाचन।। 
+चलनेन त्वसि योद्धा प्रयुङ्क्ते छेदनं प्रति॥ सेनापतिस्तु वाचैव भृत्यानां विनियोजकः। राजा सन्निधिमात्रेण विनियुङ्क्ते कदाचन॥ 
 -श्लोकवार्तिक, आत्मवाद, 86, 87 The maxim tells that the action which may inspire a person to do something, will not be able to inspire some other person to do the same thing. The commander of the army may inspire the soldiers by his words or orders. A soldier may inspire others by using his sword, whereas the king's presence only is a source of inspiration to the soldiers. He only watches the work of his soldiers. 
 104 
 Laukikanyāyakośa 
@@ -1317,7 +1317,7 @@ The senses are compared to a bull here. 389. नागोष्ट्रन्�
 The Vedic sentence like "a camel was saved and a boa was killed", are found in the Vedas. Similar sentences indicate the unsublating nature of the self. They set aside the non-self entities and secure the immutability 
 of the self. 390. नानावृक्षरसन्यायः 
 Cf. शकुनिसूत्रन्याय, नदीसमुद्रन्याय, चौरापहार्यन्यायः 
-यथा पक्षी च सूत्रं च नानावृक्षरसा यथा। यथा नद्यः समुद्राश्च शुद्धोदलवणे यथा॥ चोरापहार्यों च यथा यथा पुंविषया अपि। तथा जीवेश्वरौ भिन्नौ सर्वदैव विलक्षणौ।। 
+यथा पक्षी च सूत्रं च नानावृक्षरसा यथा। यथा नद्यः समुद्राश्च शुद्धोदलवणे यथा॥ चोरापहार्यों च यथा यथा पुंविषया अपि। तथा जीवेश्वरौ भिन्नौ सर्वदैव विलक्षणौ॥ 
 -~-माधवाचार्य, सर्वदर्शनसङ्गह, पूर्णप्रज्ञदर्शन The trees in a forest constitute a forest from the point of view of unity, but exist as separate trees from the distributory point of view. The maxim is employed by the followers of Madhva to point out the separate nature of the individual selves, though they are part and parcel of the Almighty only. 
 Laukikanyayakosa 
 105 
@@ -1393,7 +1393,7 @@ Ex. बन्धुमुक्तस्योर्ध्वगमनं दृ
 -वेदान्तकल्पतरू परिमल, लौकिक न्याय सहस्त्री; सा० 9 When a bird escapes from the cage, it moves and freely goes up and up. Similarly, the liberated individual self 
 moves freely and is liberated ultimately says the maxim, 410. पञ्जरस्थसिंहन्यायः 
 Cf. सलिलादग्निरुत्थितन्यायः 
-स्नेहतन्तुमयैः पाशैर्बद्धः सन्तानरज्जुभिः। पञ्जरस्थो यथा सिंहः समर्थोऽपि वशीकृतः।। 
+स्नेहतन्तुमयैः पाशैर्बद्धः सन्तानरज्जुभिः। पञ्जरस्थो यथा सिंहः समर्थोऽपि वशीकृतः॥ 
 __-लौकिकन्याय साहस्री; सा० 937 Even a lion, caught in a cage, is unable to move freely according to its will. Similarly, a man ensnared in a web of affection and tied by the rope of love for the 
 children, is unable to do anything at his will. 411. पटकुटीरन्यायः 
 When there is sufficient cloth at our disposal, we can make a (cotton cloth) cottage or a (cotton cloth) tent out of it. The maxim based on this observation, shows that any task can be accomplished when adequate 
@@ -1417,7 +1417,7 @@ Laukikanyāyakosa
 In the game of chess, a soldier piece generally moves one square straight but it can move slantingly or crookedly, if there is any chance of killing the opposite piece. The maxim can be applied to a wicked person who appears to move in a straight manner but may 
 take crooked turn to kill somebody. 417. पद्मपत्रस्थिततोयन्यायः 
 Ex. (i) पद्मपत्रस्थितं तोयं धत्ते मुक्ताफलश्रियम्। 
-महाजनस्य सम्पर्कः कस्य नोन्नतिकारकः।। 
+महाजनस्य सम्पर्कः कस्य नोन्नतिकारकः॥ 
 -पञ्चतन्त्र 3.59 (ii) मुक्ताकारतया तदेव नलिनीपत्र स्थितं राजते। 
 --भर्तृहरि, नीतिशतक 58 (iii) लिप्यते न स पापेन पद्मपत्रमिवाम्भसि। 
 -भगवद्गीता 5-10; सा० 807 This maxim is based on the phenomenon of some water drops on a lotus-leaf. These water-drops do not last for a long time on the lotus leaf. They suggest the following points:--- (1) All creation is transitory. (2) The company of the great, though temporary, is 
@@ -1459,7 +1459,7 @@ after the event. 427. पात्रेसमितन्यायः
 Some people run away when they are given some work. But they rush back if they are likely to get some food. The maxim exposes such opportunists. He is a treacherous fellow who appears only at the time of 
 meals and not at the time of work. 428. पादप्रसारिकान्यायः 
 Ex. एतत्सर्वमनालोच्य कृत्वा पादप्रसारिकाम्। 
-विवेकचक्षुः संमील्य स्वपन्ति ननु जन्तवः।। 
+विवेकचक्षुः संमील्य स्वपन्ति ननु जन्तवः॥ 
 ततो विषादमापन्नः सर्वकर्मपराङ्मुखः। स्थितोऽहं मौनमालम्ब्य कृत्वा पादप्रसारिकाम्॥ 
 116 
 Laukikanyâyakosa 
@@ -1497,7 +1497,7 @@ unnecessary repetition of work.
 --सा० 301 438. पीलुपत्रफलन्यायः 
 The leaves of the Pilu tree are pungent but the fruits of the same tree are very sweet. Taking clue from this, the maxim suggests some discrepancies especially in the case of prattlings of a foolish fellow. This foolishi fellow speaks in contradictory terms. 
 -सा० 668 439. पुत्रान्तरकाङ्क्षिणीन्यायः 
-यो ध्रुवाणि परित्यज्य ध्रुवाणि निषेवते। ध्रुवं तस्य निन; स्यादध्रुवं नष्टमेव हि।। 
+यो ध्रुवाणि परित्यज्य ध्रुवाणि निषेवते। ध्रुवं तस्य निन; स्यादध्रुवं नष्टमेव हि॥ 
 -हितोपदेश, मित्रलाभ 184 
 The maxim is based on a legend of a woman who had one son but was eager to have one more son. Not satisfied with one son, she began to pray God for another son. She approached a lady who was a hypocrite. That lady advised her to sacrifice her first son for getting a second son. Having come to know 
 Laukikanyāyakośa 
@@ -1538,7 +1538,7 @@ Ex. दिनस्य पूर्वाधपरार्धभिन्ना
 --भर्तृहरि, नीतिशतक, 49. The maxim compares the friendship of the wicked man with the morning shadow, which is the longest in the beginning but gradually reduces as the time passes by. The company with the wicked pei son is also very thick and intimate at the beginning but goes on declining day by day. The friendship with the good people is 
 quite opposite. 449. पृथिव्योषधिन्यायः 
 Ex. यथोर्णनाभिः सृजते गृह्णते च 
-यथा पृथिव्यामोषधयः सम्भवन्ति। यथा सतः पुरुषात् केशलोमानि तथाऽक्षरात्सम्भवतीह विश्वम्।। 
+यथा पृथिव्यामोषधयः सम्भवन्ति। यथा सतः पुरुषात् केशलोमानि तथाऽक्षरात्सम्भवतीह विश्वम्॥ 
 -मुण्डकोपनिषद् 1.1.7; सा० 768 The maxim states that just as herbs take their rise from the earth, the world also arises from the Brahman. 
 122 
 Laukikanyāyakośa 
@@ -1620,7 +1620,7 @@ enumented in Ho (pp. 115, 116) 472. GEOSECUCIURI:
 नानच्छिद्रघटोदरस्थितमहादीपप्रभाभास्वरं ज्ञानं यस्य तु चक्षुरादिकरणद्वारा बहिः स्पन्दते। 
 128 
 Laukikonyayıkosa 
-जानामीति तमेव भान्तमनुभात्येतत् समस्तं जगत् तस्मै श्रीगुरुमूर्तये नम इदं श्रीदक्षिणामूर्तये।। 
+जानामीति तमेव भान्तमनुभात्येतत् समस्तं जगत् तस्मै श्रीगुरुमूर्तये नम इदं श्रीदक्षिणामूर्तये॥ 
 -दक्षिणामूर्तिस्तोत्र, शंकराचार्यकृत; सा० 363 If a lamp is kept within a jar which has many holes, the light of the lamp spreads out of all the holes and makes the space bright with its light. Similarly, the intellect permeates the external objects through the nine 
 apertures of the body. 473. बहुराजकपुरन्यायः 
 वाक्यक्षुः श्रोत्रमुख्यानि प्रेरयेत् करणानि कः। ईश्वरश्चेत् किमेकोऽसौ बाहवोऽभी॥ प्रवानामनन्तत्वाद् वैलक्षण्याच्च नैकता। नैकमत्यं बहुत्वे स्पाद् बहुराजकदेशवत्॥ 
@@ -1725,7 +1725,7 @@ to Bhāvārthādhikarana. 501. 1978 ASAPARIRA:
 This maxim alludes to the noble nature of a dog. Once a dog approached Rāma and complained that a beggar had beaten it severely. The king summoned the beggar who pleaded that the dog always followed him wherever he went. Because of the fear of the barking dog, no body came near him to give alms. So he bet it. The dog, in return pleaded that it was a worshipper in a temple, in its earlier birth. It used to eat the food prepared for the deity and Brāhmaṇas. He accepted the punishment and requested the king lo appoint the beggar as a worshipper of the temple. Then the dog went to Kāśi and died there. It had the sacred Darśana of Sri Rāma and reached the ultimate goal-i.e 
 Mokşa. 502. f9a4iGYARUT 2014: 
 Ex. (1) for UGUHURITHA RUTHENTIETYSa Falfa 
-त्वानुकूल्यवेदनीयत्वानुगजत्वसर्वसत्यत्वाभ्रम व्यावर्त नेन सर्वशून्यतायामेव प्रसरणम्।। 
+त्वानुकूल्यवेदनीयत्वानुगजत्वसर्वसत्यत्वाभ्रम व्यावर्त नेन सर्वशून्यतायामेव प्रसरणम्॥ 
 - HAGHAHS UE, c9fA, Ļo 14 
 Laukikanyayakosa 
 137 
@@ -1736,14 +1736,14 @@ obstacles. 504. fufflagmat:
 A cat, sitting on the parapit wall, seems to be quiet, but it can jump to the side which is advantageous to it. Thus, says the maxim that an ordinary man tends to the beneficial side, maintaining a close watch over the 
 circumstances. 505. fita PRITI: 
 Ex. अतिपरिचयादवज्ञा सन्ततगमनादनादरो भवति। 
-मलये भिल्लपुरन्ध्री चन्दनतरुकाष्ठमिन्धनं कुरुते।। 
+मलये भिल्लपुरन्ध्री चन्दनतरुकाष्ठमिन्धनं कुरुते॥ 
 --9/1982 ya safat fifa, 83 There are many sandal-wood trees on the Malaya mountain. A large number of sandle trees grow there and an ample stock of this costly, fragrant wood can be collected on this mountain. The Bhil,tribal-ladies do not have any idea about the value of this wood. They collect the wood from the forest and burn it like 
 138 
 Laukikanyāyakosa 
 fuel. The mayim underscores the fact-that Familiarity 
 breeds contempt. 506. 24THGCRAR: 
 Ex. grhamaheriment 7 PTA CHCIETTI 
-भीम भास दृढन्यायः सर्वदा तेऽस्तु राघव।। -योगवासिष्ठ This maxim refers to an episode in the Yogavāsistha. Sabara, a demon, possessing miraculous powers, created three demons called Bhima, Bhāsa and Drdha. But later, they acquired the supreme knowledge in contrast with those three demons Dāma. Vyāla and Kața who were reduced to reprehensible birth like that of a 
+भीम भास दृढन्यायः सर्वदा तेऽस्तु राघव॥ -योगवासिष्ठ This maxim refers to an episode in the Yogavāsistha. Sabara, a demon, possessing miraculous powers, created three demons called Bhima, Bhāsa and Drdha. But later, they acquired the supreme knowledge in contrast with those three demons Dāma. Vyāla and Kața who were reduced to reprehensible birth like that of a 
 rnosquito, due to their ignorance. 507. Torfiche : 
 A soldier who is desirous of attaining skill in defeating the enemy troops, practises that art of fighting by drawing imaginery pictures on the ground and thinks 
 of military strategy in a playway manner. 508. fegeighteella: 
@@ -1783,7 +1783,7 @@ depends till he gets the support of the Almighty. 517. HEUTORITAT:
 Once a mouse entered the bag of a serpent charmer with a desire of getting something to eat. But there was a serpent, sitting in that bag. No sooner did the mouse enter the bag than the serpent swallowed it. 
 The maxim warns that non-vigilance is dangerous. 518. HfVGTUITRITAT: 
 Ex. स्वयं भ्रमोऽपि संवादी यथा सम्यक्फलप्रदः। 
-ब्रह्मतत्त्वोपासनापि तथा मुक्तिफलप्रदा।। A lamp was burning under a lid at one place in a temple giving rise to a circular shade. At another place, there was actually a jewel which created a bright halo. Seeing the round shades, two persons ran there shouting “jewel, jewel". The jewel cognition of both of them was false. One who ran there thinking that there was jewel, did not get it but he who ran considering the lustre of the jewel, ultimately got it. The illusion about the jewel, of the light of the lamp is disharinonious delusion while the delusion of a jewel on the light of the jewel is harmonious delusion. 
+ब्रह्मतत्त्वोपासनापि तथा मुक्तिफलप्रदा॥ A lamp was burning under a lid at one place in a temple giving rise to a circular shade. At another place, there was actually a jewel which created a bright halo. Seeing the round shades, two persons ran there shouting “jewel, jewel". The jewel cognition of both of them was false. One who ran there thinking that there was jewel, did not get it but he who ran considering the lustre of the jewel, ultimately got it. The illusion about the jewel, of the light of the lamp is disharinonious delusion while the delusion of a jewel on the light of the jewel is harmonious delusion. 
 - ATO 458 519. HUGOT TRITAT: 
 If frogs are kept on one pan of a balance for weighing them, no weight can be ascertained, as they jump out 
 142 
@@ -1869,7 +1869,7 @@ sinful act (actully, God observes all his acts). 541. मार्जाला�
 If a cat is massaged with oil and is given hot water bath, it is of no use. All the efforts and the effect of bath are all invain. The maxim describes the efforts of 
 a person which are fruitless. 542. माषराशिप्रविष्टमपीन्यायः 
 Ex. शकार:-भाव भाव, बलीयसि खल्वन्धकारे माषराशि, 
-प्रविष्टेव मसीगुटिका दृश्यमानैव प्रनष्टा वसन्तसेना।। 
+प्रविष्टेव मसीगुटिका दृश्यमानैव प्रनष्टा वसन्तसेना॥ 
 -मृच्छकटिक, Act, I The māşa grain is black. Even if some collyrium is applied to the heap of this grain, that black colour will be easily absorbed by the māşa grain. The maxim states that one colour can be easily absorbed or covered by some thing of the same colour and cannot be seen 
 distinctly. 543. मीमांसान्यायः 
 The Mimāṁsā rules are technical in nature, but many of them can be utilized. They can describe certain events of worldly life. In this collection of worldly maxims, however, they are not taken to avoid prolixity. About eleven Miāṁsās are mentioned below. होलिकाधिकरणन्याय, वानियमन्याय, दर्वीहोमन्याय, वाक्यार्थप्रति पत्तिन्यायं, अङ्गणनिषेधेतारदर्ष्यादितिन्याय, पशुसोमार धीकरणन्याय, निषादस्थपतिन्याय, प्रतिप्रदानं गुण आवर्तनीयं इतिन्याय, गुणविरोध न्याय। 
@@ -2091,7 +2091,7 @@ Example-- न चानवस्था अवश्यवेद्यत्व�
 -आत्मविवेक, पृ० 87 This maxim tells that even good intentional actions also lead to undesirable situations. A Brāhmaṇa used to give a handful of blackgram to his wife to offer them to the beggars. When his son got married, he entrusted this work of distribution of alms to his daughter-in-law, thinking that less blackgrams will be carried in her little fists. This girl was very beautiful and good looking. So many beggars started coming to his house, not for blackgram but to have a look at this sweet lady, resulting in the distribution of a large 
 quantity of blackgrams. 604. वध्यधातुकन्यायः 
 Example 
-प्रतिपद्य पदार्थं हि विरोधात् तद्विरोधिनः। पश्चादभावं जानाति वध्यधातुकवत् पदात्।। 
+प्रतिपद्य पदार्थं हि विरोधात् तद्विरोधिनः। पश्चादभावं जानाति वध्यधातुकवत् पदात्॥ 
 -तैत्तिरीयवार्तिक, 2.1.65; सा० 380 The killer and the one going to be killed can never remain together. To indicate that hostile persons cannot stay together this maxim is employed. 
 166 
 Laukikanyāyakosa 
@@ -2152,7 +2152,7 @@ Ex. विक्रीय पण्यं मूल्येन क्रेत�
 intention. 623. विक्रीते करिणि किमङ्कशो विवाद न्यायः 
 Ex. i) सौमित्रिर्वदति विभीषणाय लङ्कां देहि त्वं 
 भुवनयते विनैव कोशम्। सौमित्रिं प्रति निजगाद रामचन्द्रो 
-विक्रीते करिणि किमङ्कुशे विवादः।। ii) नारब्धं कुचपरिरम्भणेषु वाम्यं 
+विक्रीते करिणि किमङ्कुशे विवादः॥ ii) नारब्धं कुचपरिरम्भणेषु वाम्यं 
 वैमत्यं विरचयति चुम्बने कदापि। किं नीवीगतमबले रुणत्सि पाणिं 
 विक्रीते करिणि किमङ्कुशे विवादः॥ -सा० 750 The maxim decries the act of quarrelling for the price of a goud when the elephant is sold away. Quarrelling for petty things is futile and also foolish when the big 
 thing is disposed off. 624. विनिगमनाविरहन्यायः 
@@ -2160,7 +2160,7 @@ thing is disposed off. 624. विनिगमनाविरहन्याय�
 171 
 Laukikanyayakosa 625. विषकुम्भपयोमुखन्यायः 
 Ex. परोक्षे कार्यहन्तारं प्रत्यक्षे प्रियवादिनम्। 
-वर्जयेत्तादृशं मित्रं विषकुम्भ पयोमुखम्।। 
+वर्जयेत्तादृशं मित्रं विषकुम्भ पयोमुखम्॥ 
 ___-हितोपदेश, मित्रलाभ, 74 This maxim describes a double tongued hypocrite who speaks sweet words but entertains poisonous attitude towards some person. He is, as the maxim says, like a jar full of poison but the mouth of the jar is filled with 
 milk. Superficial innocence indeed! 626. विषकृमिन्यायः 
 Ex. विप्रास्मिन्नगरे महान् कथय कस्तालगुमाणां गणः 
@@ -2188,7 +2188,7 @@ because they grow and fly on high trees, they cannot be superior to those which 
 632. 9:40 HITRITAT: 
 The maxim tells as to how one can please all the people by one action only and gives the example of a man who had climbed on the tree. The people who were standing below, requested him to shake a particular branch of their choice. But the clever man shook the whole tree. By this simple act, he could shake almost 
 all the branches and please every one. TO 52 633. ffur: 
-यथा तरोर्मूलनिषिञ्चनेन तृप्यन्ति तत्स्कन्धभुजोऽपि शाखाः। प्राणोपहाराच्च यथेन्द्रियाणां तथैव सर्वाहणमच्युतेज्याः।। The maxim tells that by satisfying the vital breath, all the senses can be gratified as by pouring water at the root of a tree, it is (indirectly) supplied to all the branches of the tree. Similarly everyone will give respect if only. Hari is worshipped. (or if only one God Hari is 
+यथा तरोर्मूलनिषिञ्चनेन तृप्यन्ति तत्स्कन्धभुजोऽपि शाखाः। प्राणोपहाराच्च यथेन्द्रियाणां तथैव सर्वाहणमच्युतेज्याः॥ The maxim tells that by satisfying the vital breath, all the senses can be gratified as by pouring water at the root of a tree, it is (indirectly) supplied to all the branches of the tree. Similarly everyone will give respect if only. Hari is worshipped. (or if only one God Hari is 
 worshipped, all the Gods will be satisfied). 634. Quacharia RITA: 
 Once Indra was pleased with an old virgin lady and gave her a boon. She asked from one boon many things very cleverly. She solicited that her sons should eat rice mixed with abundent ghee and milk in a plate made of Kāmsya metal. This clever lady asked for a husband, sons, cows, abundent grain and costly vessels etc. from one boon only. 
 -HO 2 635. Gagnhuseta: 
@@ -2224,7 +2224,7 @@ The maxim is based on a peculiar nature of a pumpkin. When the earth is applied 
 and the cover of earth is his Karman. -सा० 704 646. व्यपदेशिन्यायः 
 If a man has got only one son, he is the eldest and is also the youngest. When two characteristics are applicable to one only this maxim becomes applicable. By Vyapadeśa two qualities are superimposed on one object). 
 सा० 32 647. व्यभिचारिणीन्यायः 
-यथा व्यसनिनी नारी व्यग्रापि गृहकर्मणि। तदेवास्वादयत्यन्तः परसङ्गरसायनम्॥ एवं तत्त्वे पदे शुद्धे धीरो विश्रान्तिमागतः। तदेवास्वादयन्तर्बहिर्व्यवहरन्नपि।। 
+यथा व्यसनिनी नारी व्यग्रापि गृहकर्मणि। तदेवास्वादयत्यन्तः परसङ्गरसायनम्॥ एवं तत्त्वे पदे शुद्धे धीरो विश्रान्तिमागतः। तदेवास्वादयन्तर्बहिर्व्यवहरन्नपि॥ 
 -लौकिकन्याय साहस्री; सा० 45 An unchaste lady always remembers the pleasant moments of contact which she had with the paramour, even though she is apparently busy in daily routine work. The maxim states the similar kind of joy of 
 Laukikanyāyakosa 
 177 
@@ -2397,7 +2397,7 @@ on seeing the lustre of a jewel, somebody develops a delision that it is a jewel
 example of concurrent delusion. 699. सक्तुन्यायः 
 The maxim describes that peevish person who gives up food and subsists on Sattu that is a kind of low type 
 of grain only. 700. सङ्गगुणदोषन्यायः 
-सन्तताप्तायसि संस्थितस्य पयसो नामापि न ज्ञायते मुक्ना कारतया तदेव नलिनीपत्रस्थितं राजते। स्वात्यां सागरशुक्तिकुक्षिपतिते तज्जायते मौक्तिकं प्रायेणोत्तम मध्यमाधमदशा संसर्गतो जायते।। 
+सन्तताप्तायसि संस्थितस्य पयसो नामापि न ज्ञायते मुक्ना कारतया तदेव नलिनीपत्रस्थितं राजते। स्वात्यां सागरशुक्तिकुक्षिपतिते तज्जायते मौक्तिकं प्रायेणोत्तम मध्यमाधमदशा संसर्गतो जायते॥ 
 - भर्तृहरि, नीतिशतक, 58 The maxim asserts that it is the company which gives rise to virtues or vices in a person. It is rightly said 
 190 
 Laukikanyayakosa 
@@ -2422,7 +2422,7 @@ of the sentence. 708. HauriTAT:
 A cobra does not remain without raising its hood, even though it is in a very difficult situation. It tries to frighten the people around. Similarly, a man tries to show his resistance even in a very difficult condition. He tries his level best to show his existence even in that 
 troublesome situation. 709. HafargefMRITT: 
 Ex. post format gufa ufusa:1 
-अर्धेन कुरुते कार्यं सर्वनाशो हि दुःसहः।। 
+अर्धेन कुरुते कार्यं सर्वनाशो हि दुःसहः॥ 
 - CE, 4.28 
 192 
 Laukikardiyakości 
@@ -2431,7 +2431,7 @@ of total destruction. 710. HafüRITA:
 The maxim refers to a common practice that all the invitees should come in time to take food. If a person comes late, he will not be served food in that batch. He should wait for the other batch to commence. Joining the lunch in the middle is considered to be out of 
 manners. 711. Afeto Torira:-Affari 
 यथा सलिलमाविश्य बहुधा भाति भास्करः। 
-तथा शरीराण्याविश्य बहुधा स्फुरतीश्वरः।। 
+तथा शरीराण्याविश्य बहुधा स्फुरतीश्वरः॥ 
 The sun seems to be multifarious when its reflection is seen in the water. Similarly, one God remains in innumerable bodies, creating an impression that he 
 has innumerable bodies. This is a delusion. 712. Higifchfach higifachchefqurrit: 
 Niska is a golden coin which weighs 108 grms Kārs äpana is a silver coin of the size of a rupee. But if the availibility of a Niska is doubtful and that of a Kārş āpaņa is assured, it should be preferred. The maxim exorts to accept less valuable thing if it is available easily than to wait for the doubtful thing. 
@@ -2486,7 +2486,7 @@ likely to form the condition of that of the sleep to
 awakening. 727. Cart: 
 The two words Subhagā and Bhikṣu cannot be just a posed normally, as they indicate opposite qualities. Once this two approached a third person and asked for refuge in his house. He, out of compassion, gave shelter to Subhagã. The maxim contends that two opposite persons or objects cannot stay together. 
 - HIO 613 728. Hautaira: 
-हेम्नः संलक्ष्यते ह्यग्नौ विशुद्धिः श्यामिकाऽपि वा।। 
+हेम्नः संलक्ष्यते ह्यग्नौ विशुद्धिः श्यामिकाऽपि वा॥ 
 - Tail 1.10 The maxim compares gold with a scholar in as much as both of them have to undergo rigorous tests and 
 troubles before establishing their excellence. 729. urarchief: 
 This maxim gives out a common truth that a person does simple acts first and takes up difficult tasks afterwards. Once a person went to a blacksmith and asked him to prepare a frying pan. Another man approached him and asked him to make a needle for him. Obviously, he undertook the easy work of making a needle`at the beginning. 
