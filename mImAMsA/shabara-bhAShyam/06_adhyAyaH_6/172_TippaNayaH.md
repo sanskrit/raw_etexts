@@ -1,5 +1,5 @@
 ---
-title: १७२ टिप्पणयः
+title: १७२ टिप्पण्यः
 
 ---
 - 6/452: E1,6; E2: sruvaṃ ca srūvaś ca saṃmṛḍḍhi

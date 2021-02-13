@@ -1,5 +1,5 @@
 ---
-title: १६ टिप्पणयः
+title: १६ टिप्पण्यः
 
 ---
 - 4/65: E1 hat uttamaḥ prayājaḥ paśupuroḍāśaḥ sviṣṭakṛd ity ete yāgā udāharaṇam in Klammern

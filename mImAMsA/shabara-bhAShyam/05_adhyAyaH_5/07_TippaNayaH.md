@@ -1,5 +1,5 @@
 ---
-title: ०७ टिप्पणयः
+title: ०७ टिप्पण्यः
 
 ---
 - 5/30: E2 om. uṣṇikkakubhoḥ ca ante prayogo dṛśyatem yaj jagatyā paridadhyād antaṃ

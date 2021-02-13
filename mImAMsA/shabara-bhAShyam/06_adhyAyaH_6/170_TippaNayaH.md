@@ -1,5 +1,5 @@
 ---
-title: १७० टिप्पणयः
+title: १७० टिप्पण्यः
 
 ---
 - 6/446: E1,6; E2: utobhayathāpi; E2 (v.l.): utobhayam api

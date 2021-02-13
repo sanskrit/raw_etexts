@@ -1,5 +1,5 @@
 ---
-title: २४४ टिप्पणयः
+title: २४४ टिप्पण्यः
 
 ---
 - 3/704: E1 gibt prākṛtadharmagrahaṇāt in Klammern

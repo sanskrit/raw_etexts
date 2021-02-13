@@ -1,5 +1,5 @@
 ---
-title: १४३ टिप्पणयः
+title: १४३ टिप्पण्यः
 
 ---
 - 6/382: E1,6; E2: sahasrasaṃvatsaram satraṃ viśvasṛjāmayanam, pañcapañcāśatas

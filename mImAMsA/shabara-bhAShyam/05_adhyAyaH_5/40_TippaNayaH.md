@@ -1,5 +1,5 @@
 ---
-title: ४० टिप्पणयः
+title: ४० टिप्पण्यः
 
 ---
 - 5/116: E2: tādarthye somapūrvatvam

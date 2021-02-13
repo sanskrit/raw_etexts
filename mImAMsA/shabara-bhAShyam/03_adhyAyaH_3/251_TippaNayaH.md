@@ -1,5 +1,5 @@
 ---
-title: २५१ टिप्पणयः
+title: २५१ टिप्पण्यः
 
 ---
 - 3/718: E2,4: duḥkhaphalabhogāyādharmaḥ

@@ -1,5 +1,5 @@
 ---
-title: ७१ टिप्पणयः
+title: ७१ टिप्पण्यः
 
 ---
 - 5/218: E2: atirathaśatadānasya

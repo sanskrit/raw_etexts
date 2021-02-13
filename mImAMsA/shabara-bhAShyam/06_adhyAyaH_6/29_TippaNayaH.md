@@ -1,5 +1,5 @@
 ---
-title: २९ टिप्पणयः
+title: २९ टिप्पण्यः
 
 ---
 - 6/118: E2 (v.l.): viśvajidapravṛtte

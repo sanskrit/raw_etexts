@@ -1,5 +1,5 @@
 ---
-title: १४४ टिप्पणयः
+title: १४४ टिप्पण्यः
 
 ---
 - 4/482: E2: anaṅgasamāśritasya

@@ -1,5 +1,5 @@
 ---
-title: १३३ टिप्पणयः
+title: १३३ टिप्पण्यः
 
 ---
 - 6/359: E1,6,E2 (v.l.); E2: viśvajity adhikāra

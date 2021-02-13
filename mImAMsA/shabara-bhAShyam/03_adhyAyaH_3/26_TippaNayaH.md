@@ -1,5 +1,5 @@
 ---
-title: २६ टिप्पणयः
+title: २६ टिप्पण्यः
 
 ---
 - 3/127: E2,4,6: jvalanasaṃpratyayaḥ

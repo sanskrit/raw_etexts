@@ -1,5 +1,5 @@
 ---
-title: १४७ टिप्पणयः
+title: १४७ टिप्पण्यः
 
 ---
 - 6/399: E1,6; E2: anyatarad vacanaṃ gauṇam

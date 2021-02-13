@@ -1,5 +1,5 @@
 ---
-title: १८१ टिप्पणयः
+title: १८१ टिप्पण्यः
 
 ---
 - 3/561: E2: sarvārtham, E4: sarvārthe, E6: sarvārtha

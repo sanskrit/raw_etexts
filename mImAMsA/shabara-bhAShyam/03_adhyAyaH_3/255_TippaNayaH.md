@@ -1,5 +1,5 @@
 ---
-title: २५५ टिप्पणयः
+title: २५५ टिप्पण्यः
 
 ---
 - 3/723: E1 gibt yājamānaḥ kāma ity arthaḥ in Klammern

@@ -1,5 +1,5 @@
 ---
-title: ३१ टिप्पणयः
+title: ३१ टिप्पण्यः
 
 ---
 - 3/144: idaṃ padottaraṃ sūtram in E1 geklammert

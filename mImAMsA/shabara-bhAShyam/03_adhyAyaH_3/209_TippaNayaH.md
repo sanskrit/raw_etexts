@@ -1,5 +1,5 @@
 ---
-title: २०९ टिप्पणयः
+title: २०९ टिप्पण्यः
 
 ---
 - 3/631: E2 und 4 geben na in Klammern

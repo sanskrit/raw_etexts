@@ -1,5 +1,5 @@
 ---
-title: १४५ टिप्पणयः
+title: १४५ टिप्पण्यः
 
 ---
 - 4/483: E2,6: triṇavenaujaskāmam

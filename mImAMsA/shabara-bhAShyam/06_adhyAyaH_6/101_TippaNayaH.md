@@ -1,5 +1,5 @@
 ---
-title: १०१ टिप्पणयः
+title: १०१ टिप्पण्यः
 
 ---
 - 6/288: E1,6; E1 (v.l.): añjalau pratyaṅgabhūtau; E2: añjalau pratyaṅgabhūto

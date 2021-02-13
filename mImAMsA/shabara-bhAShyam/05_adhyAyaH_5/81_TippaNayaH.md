@@ -1,5 +1,5 @@
 ---
-title: ८१ टिप्पणयः
+title: ८१ टिप्पण्यः
 
 ---
 - 5/252: E1 gibt puruṣaprādhānyaṃ hi vrate in Klammern

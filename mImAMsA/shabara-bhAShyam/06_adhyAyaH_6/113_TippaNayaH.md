@@ -1,5 +1,5 @@
 ---
-title: ११३ टिप्पणयः
+title: ११३ टिप्पण्यः
 
 ---
 - 6/306: E1,6; E2: kartavyānīti. asmin saṃśaye, ucyate. kiṃ

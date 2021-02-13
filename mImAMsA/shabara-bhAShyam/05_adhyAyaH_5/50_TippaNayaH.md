@@ -1,5 +1,5 @@
 ---
-title: ५० टिप्पणयः
+title: ५० टिप्पण्यः
 
 ---
 - 5/134: E2: anagnīṣomīyo 'py asau

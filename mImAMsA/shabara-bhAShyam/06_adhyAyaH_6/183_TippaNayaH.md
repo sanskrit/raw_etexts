@@ -1,5 +1,5 @@
 ---
-title: १८३ टिप्पणयः
+title: १८३ टिप्पण्यः
 
 ---
 - 6/491: E1; E2,6: nautpattikatvāt

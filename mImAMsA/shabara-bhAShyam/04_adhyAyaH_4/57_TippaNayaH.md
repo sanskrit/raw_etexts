@@ -1,5 +1,5 @@
 ---
-title: ५७ टिप्पणयः
+title: ५७ टिप्पण्यः
 
 ---
 - 4/195: E2: 'pavṛjyeta. tatkarma kartavyaṃ ca kṛtam iti na

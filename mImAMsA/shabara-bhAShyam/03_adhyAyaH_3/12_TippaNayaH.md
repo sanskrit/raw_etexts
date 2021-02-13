@@ -1,5 +1,5 @@
 ---
-title: १२ टिप्पणयः
+title: १२ टिप्पण्यः
 
 ---
 - 3/68: E2,4: asti - yad uktaṃ grahādiṣv

@@ -1,5 +1,5 @@
 ---
-title: ६६ टिप्पणयः
+title: ६६ टिप्पण्यः
 
 ---
 - 3/239: E2 hat ābhāṣāntaṃ sūtram geklammert

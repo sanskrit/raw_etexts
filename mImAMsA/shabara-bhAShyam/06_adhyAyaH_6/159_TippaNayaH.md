@@ -1,5 +1,5 @@
 ---
-title: १५९ टिप्पणयः
+title: १५९ टिप्पण्यः
 
 ---
 - 6/427: E1,6,E2 (v.l.); E2: anāhitāgninānvācayaṃ karoti

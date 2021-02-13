@@ -1,5 +1,5 @@
 ---
-title: १७५ टिप्पणयः
+title: १७५ टिप्पण्यः
 
 ---
 - 6/465: E1; E2: mantravarṇaḥ. chāgasya vapāyā; E6: mantravarṇaḥ. agnaye chāgasya vapāyā

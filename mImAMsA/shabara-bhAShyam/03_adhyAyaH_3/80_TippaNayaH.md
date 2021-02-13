@@ -1,5 +1,5 @@
 ---
-title: ८० टिप्पणयः
+title: ८० टिप्पण्यः
 
 ---
 - 3/322: E2,4: 'dhiṣavaṇaphalake

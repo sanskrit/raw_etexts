@@ -1,5 +1,5 @@
 ---
-title: १३ टिप्पणयः
+title: १३ टिप्पण्यः
 
 ---
 - 3/79: E2,4, E1 (v.l.): paricchinnati

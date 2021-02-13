@@ -1,5 +1,5 @@
 ---
-title: २४ टिप्पणयः
+title: २४ टिप्पण्यः
 
 ---
 - 6/93: E2 (v.l.): dravyotpatteś cobhayoḥ

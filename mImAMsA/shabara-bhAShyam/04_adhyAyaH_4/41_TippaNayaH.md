@@ -1,5 +1,5 @@
 ---
-title: ४१ टिप्पणयः
+title: ४१ टिप्पण्यः
 
 ---
 - 4/144: E2 gibt vṛkṣāntarāt in Klammern

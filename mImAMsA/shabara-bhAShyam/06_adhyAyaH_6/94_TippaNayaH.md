@@ -1,5 +1,5 @@
 ---
-title: ९४ टिप्पणयः
+title: ९४ टिप्पण्यः
 
 ---
 - 6/274: E2: parārthatvād; E2 (v.l.), E1,6: pārārthyam

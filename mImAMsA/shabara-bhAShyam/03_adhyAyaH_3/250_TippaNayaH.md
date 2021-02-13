@@ -1,5 +1,5 @@
 ---
-title: २५० टिप्पणयः
+title: २५० टिप्पण्यः
 
 ---
 - 3/716: E1 gibt idaṃ padottaraṃ sūtram in Klammern

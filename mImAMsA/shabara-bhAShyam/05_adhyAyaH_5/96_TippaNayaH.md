@@ -1,5 +1,5 @@
 ---
-title: ९६ टिप्पणयः
+title: ९६ टिप्पण्यः
 
 ---
 - 5/290: E2 om. śabdasāmarthyāt

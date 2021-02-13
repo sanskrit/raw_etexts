@@ -1,5 +1,5 @@
 ---
-title: ३७ टिप्पणयः
+title: ३७ टिप्पण्यः
 
 ---
 - 5/104: E2: pradānaṃ codanāgṛhītatvād

@@ -1,5 +1,5 @@
 ---
-title: ८३ टिप्पणयः
+title: ८३ टिप्पण्यः
 
 ---
 - 6/236: E1,6; E2: veti bhavati vikalpaḥ

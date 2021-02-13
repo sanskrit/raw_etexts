@@ -1,5 +1,5 @@
 ---
-title: ५९ टिप्पणयः
+title: ५९ टिप्पण्यः
 
 ---
 - 4/201: E2: abhyavayantīti

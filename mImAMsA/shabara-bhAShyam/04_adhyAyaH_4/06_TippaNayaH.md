@@ -1,5 +1,5 @@
 ---
-title: ०६ टिप्पणयः
+title: ०६ टिप्पण्यः
 
 ---
 - 4/32: E2: api veti pakṣavyāvṛttiḥ. naitad

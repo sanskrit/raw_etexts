@@ -1,5 +1,5 @@
 ---
-title: ९४ टिप्पणयः
+title: ९४ टिप्पण्यः
 
 ---
 - 5/286: E2: rathakāraḥ, āpadi jīvanaṃ caitasya. vākyena tasyedam

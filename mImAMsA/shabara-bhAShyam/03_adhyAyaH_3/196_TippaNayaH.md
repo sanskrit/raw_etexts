@@ -1,5 +1,5 @@
 ---
-title: १९६ टिप्पणयः
+title: १९६ टिप्पण्यः
 
 ---
 - 3/599: E2,4: śrutivipratiṣedhe

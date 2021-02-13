@@ -1,5 +1,5 @@
 ---
-title: ९५ टिप्पणयः
+title: ९५ टिप्पण्यः
 
 ---
 - 4/341: E1 gibt śabdārthenety arthaḥ in Klammern

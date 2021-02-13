@@ -1,5 +1,5 @@
 ---
-title: १०० टिप्पणयः
+title: १०० टिप्पण्यः
 
 ---
 - 4/355: E2 wiederholt MS 4.3.39 nicht

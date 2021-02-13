@@ -1,5 +1,5 @@
 ---
-title: १५३ टिप्पणयः
+title: १५३ टिप्पण्यः
 
 ---
 - 6/417: E1,6,E2 (v.l.); E2: aviśeṣāt. caturhotṝṇām ayaṃ dharma

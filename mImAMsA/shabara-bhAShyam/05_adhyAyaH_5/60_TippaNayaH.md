@@ -1,5 +1,5 @@
 ---
-title: ६० टिप्पणयः
+title: ६० टिप्पण्यः
 
 ---
 - 5/185: E2,6: yajñasādhanavadhakārī

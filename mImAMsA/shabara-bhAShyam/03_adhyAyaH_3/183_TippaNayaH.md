@@ -1,5 +1,5 @@
 ---
-title: १८३ टिप्पणयः
+title: १८३ टिप्पण्यः
 
 ---
 - 3/564: E2,4: saṃkṣepavistarābhyām

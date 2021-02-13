@@ -1,5 +1,5 @@
 ---
-title: ९१ टिप्पणयः
+title: ९१ टिप्पण्यः
 
 ---
 - 4/322: Alternativauslegung von MS 4.3.27/28 (E1,2,6)

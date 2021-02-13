@@ -1,5 +1,5 @@
 ---
-title: १० टिप्पणयः
+title: १० टिप्पण्यः
 
 ---
 - 3/31: E1 (v.l.): piṅgākṣyaikahāyinyā

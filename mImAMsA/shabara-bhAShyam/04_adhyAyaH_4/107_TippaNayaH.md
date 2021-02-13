@@ -1,5 +1,5 @@
 ---
-title: १०७ टिप्पणयः
+title: १०७ टिप्पण्यः
 
 ---
 - 4/372: E2, E1 (Fn.): āmanasyāmanasya devā iti

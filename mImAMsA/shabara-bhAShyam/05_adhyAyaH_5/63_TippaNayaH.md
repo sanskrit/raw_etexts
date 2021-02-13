@@ -1,5 +1,5 @@
 ---
-title: ६३ टिप्पणयः
+title: ६३ टिप्पण्यः
 
 ---
 - 5/199: E2: atirathaṃ duhitṛmṛte

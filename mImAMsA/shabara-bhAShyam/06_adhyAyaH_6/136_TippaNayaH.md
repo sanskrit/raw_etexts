@@ -1,5 +1,5 @@
 ---
-title: १३६ टिप्पणयः
+title: १३६ टिप्पण्यः
 
 ---
 - 6/368: E1,6; E2: athedānīm idaṃ saṃdihyate

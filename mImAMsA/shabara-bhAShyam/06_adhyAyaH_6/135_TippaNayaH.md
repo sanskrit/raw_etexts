@@ -1,5 +1,5 @@
 ---
-title: १३५ टिप्पणयः
+title: १३५ टिप्पण्यः
 
 ---
 - 6/362: E1,6; E2: syāt, tulyavat prasaṃkhyānāt. tena

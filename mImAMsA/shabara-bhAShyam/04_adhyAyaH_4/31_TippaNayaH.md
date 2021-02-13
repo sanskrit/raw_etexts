@@ -1,5 +1,5 @@
 ---
-title: ३१ टिप्पणयः
+title: ३१ टिप्पण्यः
 
 ---
 - 4/120: E2: snigdham annaṃ bhuktaṃ

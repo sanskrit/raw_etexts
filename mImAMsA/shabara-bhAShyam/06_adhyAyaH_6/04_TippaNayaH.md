@@ -1,5 +1,5 @@
 ---
-title: ०४ टिप्पणयः
+title: ०४ टिप्पण्यः
 
 ---
 - 6/7: E1 (v.l.): uttarārdho gṛyate

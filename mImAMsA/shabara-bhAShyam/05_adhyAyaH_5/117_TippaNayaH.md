@@ -1,5 +1,5 @@
 ---
-title: ११७ टिप्पणयः
+title: ११७ टिप्पण्यः
 
 ---
 - 5/353: E1 gibt upanayanena saha pravarteran in Klammern

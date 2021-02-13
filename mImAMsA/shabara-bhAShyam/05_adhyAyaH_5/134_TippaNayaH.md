@@ -1,5 +1,5 @@
 ---
-title: १३४ टिप्पणयः
+title: १३४ टिप्पण्यः
 
 ---
 - 5/402: E1 gibt anyo yāgaḥ in Klammern

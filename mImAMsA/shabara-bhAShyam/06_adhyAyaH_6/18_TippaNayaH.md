@@ -1,5 +1,5 @@
 ---
-title: १८ टिप्पणयः
+title: १८ टिप्पण्यः
 
 ---
 - 6/42: E1 (Fn.): 2 HSS haben anyāyatvāt nicht

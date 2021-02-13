@@ -1,5 +1,5 @@
 ---
-title: २३ टिप्पणयः
+title: २३ टिप्पण्यः
 
 ---
 - 5/69: E2: karmatvānirdeśāt

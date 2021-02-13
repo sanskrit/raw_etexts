@@ -1,5 +1,5 @@
 ---
-title: २३० टिप्पणयः
+title: २३० टिप्पण्यः
 
 ---
 - 3/676: E2,4: santi camasādhvaryavaḥ

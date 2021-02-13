@@ -1,5 +1,5 @@
 ---
-title: ८१ टिप्पणयः
+title: ८१ टिप्पण्यः
 
 ---
 - 6/231: E1,6; E2: jyotiṣṭome prastotrudgātror

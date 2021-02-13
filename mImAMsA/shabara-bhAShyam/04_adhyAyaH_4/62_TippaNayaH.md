@@ -1,5 +1,5 @@
 ---
-title: ६२ टिप्पणयः
+title: ६२ टिप्पण्यः
 
 ---
 - 4/215: E2: adhikaraṇātideśo 'yam

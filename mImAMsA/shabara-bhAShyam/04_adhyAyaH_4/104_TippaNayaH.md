@@ -1,5 +1,5 @@
 ---
-title: १०४ टिप्पणयः
+title: १०४ टिप्पण्यः
 
 ---
 - 4/368: E2: kevalasya. kāmād abhiṣecanīyasya kevalasya. kāmād; E6: kevalasya. kāmād

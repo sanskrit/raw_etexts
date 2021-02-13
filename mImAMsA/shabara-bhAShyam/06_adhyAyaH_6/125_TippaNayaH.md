@@ -1,5 +1,5 @@
 ---
-title: १२५ टिप्पणयः
+title: १२५ टिप्पण्यः
 
 ---
 - 6/341: E1,6; E2: dakṣiṇākāle dātuṃ vidhātavyam

@@ -1,5 +1,5 @@
 ---
-title: ११० टिप्पणयः
+title: ११० टिप्पण्यः
 
 ---
 - 5/336: E1 gibt phalaṃ cikīrṣamāṇasya in Klammern

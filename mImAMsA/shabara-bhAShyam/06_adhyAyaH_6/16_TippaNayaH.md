@@ -1,5 +1,5 @@
 ---
-title: १६ टिप्पणयः
+title: १६ टिप्पण्यः
 
 ---
 - 6/36: E2 (v.l.): hy ubhayaṃ prāptaṃ

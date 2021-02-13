@@ -1,5 +1,5 @@
 ---
-title: २२९ टिप्पणयः
+title: २२९ टिप्पण्यः
 
 ---
 - 3/673: E2: saṃkīrtanād eṣām evam anyatamā iti, E4: saṃkīrtanādeśām evānyatamā iti

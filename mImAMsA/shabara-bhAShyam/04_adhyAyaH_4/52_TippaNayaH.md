@@ -1,5 +1,5 @@
 ---
-title: ५२ टिप्पणयः
+title: ५२ टिप्पण्यः
 
 ---
 - 4/172: E2: granthagauravabhayena

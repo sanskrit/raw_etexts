@@ -1,5 +1,5 @@
 ---
-title: १९ टिप्पणयः
+title: १९ टिप्पण्यः
 
 ---
 - 5/63: E2: dārvabhyādadhyād

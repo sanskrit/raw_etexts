@@ -1,5 +1,5 @@
 ---
-title: २६१ टिप्पणयः
+title: २६१ टिप्पण्यः
 
 ---
 - 3/738: E2,4: tatra yajamānakāṇḍe karmāṇy

@@ -1,5 +1,5 @@
 ---
-title: ७८ टिप्पणयः
+title: ७८ टिप्पण्यः
 
 ---
 - 6/226: E1,6; E2: jyotiṣṭome 'tipanneṣu

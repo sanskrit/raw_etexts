@@ -1,5 +1,5 @@
 ---
-title: ६१ टिप्पणयः
+title: ६१ टिप्पण्यः
 
 ---
 - 5/192: E2: puṃsa evādhikāra iti

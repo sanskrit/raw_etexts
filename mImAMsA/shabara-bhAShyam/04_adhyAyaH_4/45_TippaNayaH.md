@@ -1,5 +1,5 @@
 ---
-title: ४५ टिप्पणयः
+title: ४५ टिप्पण्यः
 
 ---
 - 4/151: Die Ausgaben wiederholen zwischen MS 4.2.6 und 4.2.7 noch einmal MS 4.2.1-6 mit kürzerer, inhaltlich kaum abweichender Kommentierung

@@ -1,5 +1,5 @@
 ---
-title: ५३ टिप्पणयः
+title: ५३ टिप्पण्यः
 
 ---
 - 3/216: E2,4, E1 (v.l.): coditam acoditam apy anuṣṭhīyata

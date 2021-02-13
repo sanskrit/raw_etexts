@@ -1,5 +1,5 @@
 ---
-title: ६६ टिप्पणयः
+title: ६६ टिप्पण्यः
 
 ---
 - 4/236: E2: vākyena. yadātithyāyām ity evaṃ

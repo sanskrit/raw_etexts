@@ -1,5 +1,5 @@
 ---
-title: २६ टिप्पणयः
+title: २६ टिप्पण्यः
 
 ---
 - 6/108: E1,6,E2 (v.l.); E2: dravyadevatāvidher

@@ -1,5 +1,5 @@
 ---
-title: १८ टिप्पणयः
+title: १८ टिप्पण्यः
 
 ---
 - 4/69: E1 hat prayojane in Klammern

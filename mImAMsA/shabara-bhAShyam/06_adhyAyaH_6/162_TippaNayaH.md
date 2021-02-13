@@ -1,5 +1,5 @@
 ---
-title: १६२ टिप्पणयः
+title: १६२ टिप्पण्यः
 
 ---
 - 6/432: E1,6; E2: dārakriyāyā ādhānottarakāle

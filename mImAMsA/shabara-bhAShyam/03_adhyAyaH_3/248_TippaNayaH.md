@@ -1,5 +1,5 @@
 ---
-title: २४८ टिप्पणयः
+title: २४८ टिप्पण्यः
 
 ---
 - 3/714: E1 gibt yena karmakaraṇena sāmarthyam upajanyate in Klammern

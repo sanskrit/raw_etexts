@@ -1,5 +1,5 @@
 ---
-title: १२३ टिप्पणयः
+title: १२३ टिप्पण्यः
 
 ---
 - 3/447: E1 gibt yajamānārtham in Klammern

@@ -1,5 +1,5 @@
 ---
-title: २४३ टिप्पणयः
+title: २४३ टिप्पण्यः
 
 ---
 - 3/702: E1 gibt samākhyānād ity arthaḥ in Klammern

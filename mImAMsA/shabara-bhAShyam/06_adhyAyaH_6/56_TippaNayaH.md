@@ -1,5 +1,5 @@
 ---
-title: ५६ टिप्पणयः
+title: ५६ टिप्पण्यः
 
 ---
 - 6/189: E1 hat sāminirupta ity arthaḥ in Klammern

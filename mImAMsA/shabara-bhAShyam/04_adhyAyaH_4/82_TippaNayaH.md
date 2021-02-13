@@ -1,5 +1,5 @@
 ---
-title: ८२ टिप्पणयः
+title: ८२ टिप्पण्यः
 
 ---
 - 4/307: E2: vā ya etā rātrīr upayanti

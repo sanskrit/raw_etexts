@@ -1,5 +1,5 @@
 ---
-title: ६५ टिप्पणयः
+title: ६५ टिप्पण्यः
 
 ---
 - 6/204: E1 hat sāmarthyād ity arthaḥ in Klammern

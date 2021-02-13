@@ -1,5 +1,5 @@
 ---
-title: १२५ टिप्पणयः
+title: १२५ टिप्पण्यः
 
 ---
 - 4/421: E1 (Fn.): sāmānyeṣv abhisaṃstavaḥ

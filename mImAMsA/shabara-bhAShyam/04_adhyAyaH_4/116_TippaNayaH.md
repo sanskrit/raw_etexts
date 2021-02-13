@@ -1,5 +1,5 @@
 ---
-title: ११६ टिप्पणयः
+title: ११६ टिप्पण्यः
 
 ---
 - 4/393: E1 gibt naimittikaḥ in Klammern

@@ -1,5 +1,5 @@
 ---
-title: २१ टिप्पणयः
+title: २१ टिप्पण्यः
 
 ---
 - 6/84: E2 hat bhakṣān in Klammern

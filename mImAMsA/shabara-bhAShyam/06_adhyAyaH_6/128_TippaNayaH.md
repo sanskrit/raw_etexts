@@ -1,5 +1,5 @@
 ---
-title: १२८ टिप्पणयः
+title: १२८ टिप्पण्यः
 
 ---
 - 6/348: E2 (v.l.): idaṃ me kratvartham

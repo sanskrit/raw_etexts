@@ -1,5 +1,5 @@
 ---
-title: ११८ टिप्पणयः
+title: ११८ टिप्पण्यः
 
 ---
 - 5/356: Vgl. den zweiten adhyāya

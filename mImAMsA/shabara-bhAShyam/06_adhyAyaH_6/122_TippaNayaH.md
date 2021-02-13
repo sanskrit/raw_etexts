@@ -1,5 +1,5 @@
 ---
-title: १२२ टिप्पणयः
+title: १२२ टिप्पण्यः
 
 ---
 - 6/327: E1,6,E2 (v.l.); E2: pṛthivīgolakaṃ nāma, na

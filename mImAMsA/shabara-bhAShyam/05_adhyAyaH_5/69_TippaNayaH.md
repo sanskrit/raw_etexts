@@ -1,5 +1,5 @@
 ---
-title: ६९ टिप्पणयः
+title: ६९ टिप्पण्यः
 
 ---
 - 5/211: E2: kutaḥ? pṛthaktvena

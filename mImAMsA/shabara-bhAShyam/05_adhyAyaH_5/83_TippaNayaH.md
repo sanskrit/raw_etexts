@@ -1,5 +1,5 @@
 ---
-title: ८३ टिप्पणयः
+title: ८३ टिप्पण्यः
 
 ---
 - 5/255: E2: guṇenādhyayanenārthī

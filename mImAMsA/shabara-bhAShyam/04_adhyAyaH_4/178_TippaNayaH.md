@@ -1,5 +1,5 @@
 ---
-title: १७८ टिप्पणयः
+title: १७८ टिप्पण्यः
 
 ---
 - 4/561: E1 (Fn.): phalīkaraṇādayaś ca tasyaiva viśeṣāḥ

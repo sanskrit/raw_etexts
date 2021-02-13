@@ -1,5 +1,5 @@
 ---
-title: ७४ टिप्पणयः
+title: ७४ टिप्पण्यः
 
 ---
 - 5/234: E2: patnyayā; E1 (v.l.): patnyām

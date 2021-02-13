@@ -1,5 +1,5 @@
 ---
-title: ६० टिप्पणयः
+title: ६० टिप्पण्यः
 
 ---
 - 4/205: E2: yāne punar vidhīyamāne

@@ -1,5 +1,5 @@
 ---
-title: ४७ टिप्पणयः
+title: ४७ टिप्पण्यः
 
 ---
 - 4/155: E2: śākhāc chedanasyobhayaṃ

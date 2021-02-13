@@ -1,5 +1,5 @@
 ---
-title: ०३ टिप्पणयः
+title: ०३ टिप्पण्यः
 
 ---
 - 6/5: E1,6; E2: homasaṃnaddham

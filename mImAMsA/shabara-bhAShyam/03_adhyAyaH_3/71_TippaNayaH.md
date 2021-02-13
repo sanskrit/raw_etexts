@@ -1,5 +1,5 @@
 ---
-title: ७१ टिप्पणयः
+title: ७१ टिप्पण्यः
 
 ---
 - 3/262: E2,4,6: ānupūrvyeṇopadiśyamānānāṃ

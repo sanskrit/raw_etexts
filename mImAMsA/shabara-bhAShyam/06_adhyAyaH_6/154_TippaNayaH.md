@@ -1,5 +1,5 @@
 ---
-title: १५४ टिप्पणयः
+title: १५४ टिप्पण्यः
 
 ---
 - 6/419: E2 (v.l.): cāsmāt phalaṃ kalpyeta

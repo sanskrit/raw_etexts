@@ -1,5 +1,5 @@
 ---
-title: २७७ टिप्पणयः
+title: २७७ टिप्पण्यः
 
 ---
 - 3/778: E2,4: maitrāvaruṇī payasyā, iti

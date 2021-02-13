@@ -1,5 +1,5 @@
 ---
-title: १११ टिप्पणयः
+title: १११ टिप्पण्यः
 
 ---
 - 4/381: E1 gibt adhvaryuyajamānayoḥ in Klammern

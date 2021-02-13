@@ -1,5 +1,5 @@
 ---
-title: १२९ टिप्पणयः
+title: १२९ टिप्पण्यः
 
 ---
 - 3/459: E2,4: aiḍaprāśitrasauviṣṭakṛtādīni

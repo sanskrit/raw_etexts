@@ -1,5 +1,5 @@
 ---
-title: ४३ टिप्पणयः
+title: ४३ टिप्पण्यः
 
 ---
 - 5/120: E2: naitad asti kṛtsnotkarṣa iti

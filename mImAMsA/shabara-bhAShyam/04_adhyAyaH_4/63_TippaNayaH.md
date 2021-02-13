@@ -1,5 +1,5 @@
 ---
-title: ६३ टिप्पणयः
+title: ६३ टिप्पण्यः
 
 ---
 - 4/220: E2: yajatir juhotir

@@ -1,5 +1,5 @@
 ---
-title: १०० टिप्पणयः
+title: १०० टिप्पण्यः
 
 ---
 - 6/286: E1,6; E2: purohitāv ekasya rājña iti
