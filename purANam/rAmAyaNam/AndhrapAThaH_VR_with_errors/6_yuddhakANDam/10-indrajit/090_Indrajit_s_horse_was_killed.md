@@ -4,7 +4,8 @@ title_english: 090 Indrajit s horse was killed
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-090-Indrajit_s_horse_was_killed_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-089-Vibhishana_destroys_many_demons_0.mp3"></div>
+
 
 स हताश्वो महातेजा भूमौ तिष्ठन्निशाचरः ।  
 इन्द्रजित्परमक्रुद्धः सम्प्रजज्वाल तेजसा ॥ ९०-६-१  

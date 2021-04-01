@@ -4,7 +4,8 @@ title_english: 089 Vibhishana destroys many demons
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-089-Vibhishana_destroys_many_demons_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-088-A_fierce_battle_starts_between_Lakshmana_and_Indrajit_0.mp3"></div>
+
 
 युध्यमानौ ततो दृष्ट्वा प्रसक्तौ नरराक्षसौ ।  
 प्रभिन्नाविव मातङ्गौ परस्परजयैषिणौ ॥ ८९-६-१  

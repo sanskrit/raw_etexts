@@ -4,7 +4,8 @@ title_english: 098 Angada kills Mahaparsva
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-098-Angada_kills_Mahaparsva_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-097-Sugreeva_kills_Mahodara_0.mp3"></div>
+
 
 महोदरे तु निहते महापार्श्वो महाबलः ।  
 सुग्रीवेण समीक्ष्याथ क्रोधात्संरक्तलोचनः ॥६-९८-१  
