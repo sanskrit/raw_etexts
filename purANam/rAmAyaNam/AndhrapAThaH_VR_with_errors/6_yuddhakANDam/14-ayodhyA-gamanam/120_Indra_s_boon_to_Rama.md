@@ -4,7 +4,9 @@ title_english: 120 Indra s boon to Rama
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-120-Indra_s_boon_to_Rama_0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-117-Gods_reach_Lanka_and_approach_Rama_0.mp3"></div>
+
 
 प्रतिप्रयाते काकुत्थ्से महेन्द्रः पाकशासनः ।  
 अब्रवीत् परमप्रीतो राघवं प्राञ्जलिं स्थितम् ॥ ६-१२०-१  

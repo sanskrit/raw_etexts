@@ -4,7 +4,8 @@ title_english: 116 Seetha s taunting reply to Rama
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-116-Seetha_s_taunting_reply_to_Rama_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-113-Hanuma_informs_Seetha_about_Rama_s_victory__0.mp3"></div>
+
 
 एवमुक्ता तु वैदेही परुषं लोमहर्षणम् ।  
 राघवेण सरोषेण भृशं प्रव्यथिताभवत् ॥ ६-११६-१  

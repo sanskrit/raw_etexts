@@ -3,8 +3,8 @@ title: 106 Rama spoke to Matali
 title_english: 106 Rama spoke to Matali
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-104-Ravana_re-approached_the_battle-field_0.mp3"></div>
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-106-Rama_spoke_to_Matali_0.mp3"></div>
 
 सारथिः स रथम् हृष्टं परसैन्यप्रधर्षणम् ।  
 गन्धर्वनगराकारं समुच्छ्रितपाताकिनम् ॥ ६-१०६-१  

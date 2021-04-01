@@ -4,7 +4,8 @@ title_english: 122 Rama along with Lakshmana and Seetha ascend the aerial car
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-122-Rama_along_with_Lakshmana_and_Seetha_ascend_the_aerial_car_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-119-Lord_Shiva_informs_Rama_about_his_father_0.mp3"></div>
+
 
 उपस्थितम् तु तं कृत्वा पुष्पकं पुष्पभूषितम् ।  
 अविदूरे स्थितो राममित्युवाच विभीषणः ॥ ६-१२२-१  

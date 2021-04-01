@@ -3,8 +3,7 @@ title: 110 All the consorts of Ravana lament
 title_english: 110 All the consorts of Ravana lament
 
 ---
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-110-All_the_consorts_of_Ravana_lament_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-107-Rama_and_Ravana_perform_a_fierce_battle_0.mp3"></div>
 
 रावणम् निहतं दृष्ट्वा राघवेण महात्मना ।  
 अन्तःपुराद्विनिष्पेतू राक्षस्यः शोककर्शिताः ॥ ६-११०-१  

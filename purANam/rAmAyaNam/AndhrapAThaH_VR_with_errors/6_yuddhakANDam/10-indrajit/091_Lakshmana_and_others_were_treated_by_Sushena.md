@@ -4,7 +4,8 @@ title_english: 091 Lakshmana and others were treated by Sushena
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-091-Lakshmana_and_others_were_treated_by_Sushena_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-090-Indrajit_s_horse_was_killed_0.mp3"></div>
+
 
 रुधिरक्लिन्नगात्रस्तु लक्ष्मणः शुभलक्षणः ।  
 बभूव हृष्टस्तं हत्वा शक्रजेतारमाहवे ॥ ९१-६-१  

@@ -4,7 +4,8 @@ title_english: 095 Ravana fights fiercely with monkeys
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-095-Ravana_fights_fiercely_with_monkeys_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-094-The_female-demons_lament_over_the_death_of_their_kith_and kin_0.mp3"></div>
+
 
 आर्तानान् राक्षसीनान् तु लङ्कायां वै कुले कुले  
 रावणः करुणन् शब्दं शुश्राव परिवेदितम् ॥ ६-९५-१  
