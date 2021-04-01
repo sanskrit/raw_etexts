@@ -4,7 +4,7 @@ title_english: 127 Bharata commands for the reception of Rama in the City of Ayo
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-127-Bharata_commands_for_the_reception_of_Rama_in_the_City of _0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-124-Rama_lands_at_Sage_Bharadwaja_hermitage_0.mp3"></div>
 
 श्रुत्वा तु परमानन्दं भरतः सत्यविक्रमः ।  
 हृष्टमाज्ञापयामास शत्रुघ्नं परवीरहा ॥ ६-१२७-१  

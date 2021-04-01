@@ -4,7 +4,9 @@ title_english: 103 Ravana s charioteer carries away Ravana in the chariot
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-103-Ravana_s_charioteer_carries_away_Ravana_in_the_chariot_0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-102-Ravana_gets_severely_hurt_0.mp3"></div>
+
 
 स तु तेन तदा क्रोधात्काकुत्स्थेनार्दितो रणे ।  
 रावणः समरश्लाघी महाक्रोधमुपागमत् ॥ ६-१०३-१  

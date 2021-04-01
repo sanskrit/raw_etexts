@@ -4,7 +4,8 @@ title_english: 096 Sugreeva kills Virupaksha
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-096-Sugreeva_kills_Virupaksha_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-095-Ravana_fights_fiercely_with_monkeys_0.mp3"></div>
+
 
 तथा तैः कृत्तगात्रैस्तु दशग्रीवेण मार्गणैः ।  
 बभूव वसुधा तत्र प्रकीर्णा हरिभिर्वृता ॥ ६-९६-१  

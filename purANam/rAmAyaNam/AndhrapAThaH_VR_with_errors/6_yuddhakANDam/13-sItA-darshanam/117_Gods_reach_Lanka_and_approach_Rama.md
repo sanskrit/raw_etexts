@@ -3,8 +3,8 @@ title: 117 Gods reach Lanka and approach Rama
 title_english: 117 Gods reach Lanka and approach Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-114-Vibhishana_brings_Seetha_to_Rama_0.mp3"></div>
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-117-Gods_reach_Lanka_and_approach_Rama_0.mp3"></div>
 
 ततो हि दुर्मना रामः श्रुत्वैवम् वदतां गिरः ।  
 दध्यौ मुहूर्तं धर्मात्मा बाष्पव्याकुललोचनः ॥ ६-११७-१  

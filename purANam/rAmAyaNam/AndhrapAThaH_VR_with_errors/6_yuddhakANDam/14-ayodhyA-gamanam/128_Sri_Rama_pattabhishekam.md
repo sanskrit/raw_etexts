@@ -4,7 +4,8 @@ title_english: 128 Sri Rama pattabhishekam
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-128-Sri_Rama_pattabhishekam_0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-125-Hanuma_informs_Bharata_about_Ramas_return.mp3"></div>
 
 शिरस्यञ्जलिमादाय कैकेयीनन्दिवर्धनः ।  
 बभाषे भरतो ज्येष्ठन् रामं सत्यपराक्रमम् ॥ ६-१२८-१  
@@ -264,4 +265,12 @@ title_english: 128 Sri Rama pattabhishekam
 सौभ्रातृकं बुद्धिकरं शुभं च ।  
 श्रोतव्यमेतन्नियमेन सद्भि ।  
 राख्यानमोजस्करमृद्धिकामैः ॥ ६-१२८-१२५  
+
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-126-Hanuma_recounts_to_Bharata_about_Rama_in_the_forest_0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-127-Bharata_commands_for_the_reception_of_Rama_in_the_City of _0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-128-Sri_Rama_pattabhishekam_0.mp3"></div>
+
 इत्यार्षे श्रीमद्रामायणे आदिकाव्ये युद्धकाण्डे अष्टाविंशत्यधिक शततमः सर्गः

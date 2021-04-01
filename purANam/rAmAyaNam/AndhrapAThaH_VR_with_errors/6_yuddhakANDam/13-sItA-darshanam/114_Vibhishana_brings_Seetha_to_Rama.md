@@ -4,7 +4,7 @@ title_english: 114 Vibhishana brings Seetha to Rama
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-114-Vibhishana_brings_Seetha_to_Rama_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-111-Mandodari_laments_on_Ravana_s_death_0.mp3"></div>
 
 तमुवाच महाप्रज्ञमभिगम्य प्लवङ्गमः ।  
 रामं वचनमर्थज्ञो वरं सर्वधनुष्मताम् ॥ ६-११४-१  

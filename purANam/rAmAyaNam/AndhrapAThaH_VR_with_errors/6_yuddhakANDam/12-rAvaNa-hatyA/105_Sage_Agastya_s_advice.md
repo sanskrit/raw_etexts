@@ -4,7 +4,8 @@ title_english: 105 Sage Agastya s advice
 
 ---
 
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-105-Sage_Agastya_s_advice_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-103-Ravana_s_charioteer_carries_away_Ravana_in_the_chariot_0.mp3"></div>
+
 
 ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम् ।  
 रावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम् ॥ ६-१०५-१  
