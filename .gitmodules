@@ -55,3 +55,7 @@
 [submodule "jyotiSham/adyatithi"]
 	path = jyotiSham/adyatithi
 	url = https://github.com/jyotisham/adyatithi.git
+[submodule "kAvyam/mishram/vvasuki.github.io"]
+	path = kAvyam/mishram/vvasuki.github.io
+	url = https://github.com/vvasuki/kAvyam.git
+	branch = content
