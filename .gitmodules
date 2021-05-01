@@ -79,3 +79,7 @@
 	path = jyotiSham/vvasuki.github.io
 	url = https://github.com/vvasuki/jyotiSham.git
 	branch = content
+[submodule "kalpaH/mishram"]
+	path = kalpaH/vvasuki.github.io
+	url = https://github.com/vvasuki/saMskAra.git
+	branch = content
