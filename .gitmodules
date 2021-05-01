@@ -63,3 +63,19 @@
 	path = kAvyam/mishram/vvasuki.github.io
 	url = https://github.com/vvasuki/kAvyam.git
 	branch = content
+[submodule "purANam/mishram/vvasuki.github.io"]
+	path = purANam/mishram/vvasuki.github.io
+	url = https://github.com/vvasuki/purANam.git
+	branch = content
+[submodule "mImAMsA/vvasuki.github.io"]
+	path = mImAMsA/vvasuki.github.io
+	url = https://github.com/vvasuki/mImAMsA.git
+	branch = content
+[submodule "vyAkaraNam/vvasuki.github.io"]
+	path = vyAkaraNam/vvasuki.github.io
+	url = https://github.com/vvasuki/sanskrit.git
+	branch = content
+[submodule "jyotiSham/vvasuki.github.io"]
+	path = jyotiSham/vvasuki.github.io
+	url = https://github.com/vvasuki/jyotiSham.git
+	branch = content
