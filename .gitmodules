@@ -1,85 +1,111 @@
 [submodule "koshaH/dhavala-sangrahaH"]
 	path = koshaH/dhavala-sangrahaH
 	url = https://github.com/sanskrit-kosha/kosha.git
+	update = merge
 [submodule "vyAkaraNam/aShTAdhyAyI-com-data"]
 	path = vyAkaraNam/aShTAdhyAyI-com-data
 	url = https://github.com/ashtadhyayi-com/data.git
+	update = merge
 [submodule "vyAkaraNam/aShTAdhyAyI_central-repo"]
 	path = vyAkaraNam/aShTAdhyAyI_central-repo
 	url = https://github.com/sanskrit/ashtadhyayi.git
+	update = merge
 [submodule "mixed/sarit"]
 	path = mixed/sarit
 	url = https://github.com/sarit/SARIT-corpus.git
+	update = merge
 [submodule "mixed/gretil"]
 	path = mixed/gretil
 	url = https://github.com/sanskrit/GRETIL-mirror.git
+	update = merge
 [submodule "catalogs/wellcome-collection-tei"]
 	path = catalogs/wellcome-collection-tei
 	url = https://github.com/wellcomecollection/wellcome-collection-tei.git
+	update = merge
 [submodule "mixed/dcs"]
 	path = mixed/dcs
 	url = https://github.com/OliverHellwig/sanskrit.git
+	update = merge
 [submodule "mixed/clt/gitasupersite"]
 	path = mixed/clt/gitasupersite
 	url = https://github.com/cltk/sanskrit_text_gitasupersite.git
+	update = merge
 [submodule "mixed/clt/wikisource"]
 	path = mixed/clt/wikisource
 	url = https://github.com/cltk/sanskrit_text_wikisource.git
+	update = merge
 [submodule "mixed/clt/dcs"]
 	path = mixed/clt/dcs
 	url = https://github.com/cltk/sanskrit_text_dcs.git
+	update = merge
 [submodule "mixed/clt/jnu"]
 	path = mixed/clt/jnu
 	url = https://github.com/cltk/sanskrit_pos_jnu_tagged.git
+	update = merge
 [submodule "mixed/clt/jnu_plain"]
 	path = mixed/clt/jnu_plain
 	url = https://github.com/cltk/sanskrit_text_jnu.git
+	update = merge
 [submodule "mixed/clt/sacred_texts"]
 	path = mixed/clt/sacred_texts
 	url = https://github.com/cltk/sanskrit_parallel_sacred_texts.git
+	update = merge
 [submodule "koshaH/indic-dict/sanskrit"]
 	path = koshaH/indic-dict/sanskrit
 	url = https://github.com/indic-dict/stardict-sanskrit.git
+	update = merge
 [submodule "koshaH/indic-dict/kAvya"]
 	path = koshaH/indic-dict/kAvya
 	url = https://github.com/indic-dict/stardict-sanskrit-kAvya.git
+	update = merge
 [submodule "koshaH/indic-dict/vyAkaraNa"]
 	path = koshaH/indic-dict/vyAkaraNa
 	url = https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa.git
+	update = merge
 [submodule "mixed/somasuShma/tex"]
 	path = mixed/somasuShma/tex
 	url = https://github.com/somasushma/tex-files.git
+	update = merge
 [submodule "mixed/sandocs-dump"]
 	path = mixed/sandocs-dump
 	url = https://github.com/sanskrit/sanskrit-documents-dump.git
+	update = merge
 [submodule "jyotiSham/adyatithi"]
 	path = jyotiSham/adyatithi
 	url = https://github.com/jyotisham/adyatithi.git
+	update = merge
 [submodule "vedaH/mishram/vvasuki.github.io"]
 	path = vedaH/mishram/vvasuki.github.io
 	url = https://github.com/vvasuki/vedAH.git
+	update = merge
 	branch = content
 [submodule "kAvyam/mishram/vvasuki.github.io"]
 	path = kAvyam/mishram/vvasuki.github.io
 	url = https://github.com/vvasuki/kAvyam.git
+	update = merge
 	branch = content
 [submodule "purANam/mishram/vvasuki.github.io"]
 	path = purANam/mishram/vvasuki.github.io
 	url = https://github.com/vvasuki/purANam.git
+	update = merge
 	branch = content
 [submodule "mImAMsA/vvasuki.github.io"]
 	path = mImAMsA/vvasuki.github.io
 	url = https://github.com/vvasuki/mImAMsA.git
+	update = merge
 	branch = content
 [submodule "vyAkaraNam/vvasuki.github.io"]
 	path = vyAkaraNam/vvasuki.github.io
 	url = https://github.com/vvasuki/sanskrit.git
+	update = merge
 	branch = content
 [submodule "jyotiSham/vvasuki.github.io"]
 	path = jyotiSham/vvasuki.github.io
 	url = https://github.com/vvasuki/jyotiSham.git
+	update = merge
 	branch = content
 [submodule "kalpaH/mishram"]
 	path = kalpaH/vvasuki.github.io
 	url = https://github.com/vvasuki/saMskAra.git
+	update = merge
 	branch = content
