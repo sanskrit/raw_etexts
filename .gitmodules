@@ -109,3 +109,7 @@
 	url = https://github.com/vvasuki/saMskAra.git
 	update = merge
 	branch = content
+[submodule "mixed/AgamAnveShiNI_jaya"]
+	path = mixed/AgamAnveShiNI_jaya
+	url = https://github.com/openmuthu/jaya-index-files.git
+	update = merge
