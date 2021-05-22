@@ -109,3 +109,6 @@
 	url = https://github.com/vvasuki/saMskAra.git
 	update = merge
 	branch = content
+[submodule "mixed/vv_ebook_pub"]
+	path = mixed/vv_ebook_pub
+	url = https://github.com/sanskrit-coders/book-pub.git
