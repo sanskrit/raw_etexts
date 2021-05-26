@@ -112,3 +112,7 @@
 [submodule "mixed/vv_ebook_pub"]
 	path = mixed/vv_ebook_pub
 	url = https://github.com/sanskrit-coders/book-pub.git
+[submodule "vedaH/mishram/vvasuki.github.io_static"]
+	path = vedaH/mishram/vvasuki.github.io_static
+	url = https://github.com/vvasuki/vedAH.git
+	branch = static_files
