@@ -16,7 +16,7 @@
 	update = merge
 [submodule "mixed/gretil"]
 	path = mixed/gretil
-	url = https://github.com/sanskrit/GRETIL-mirror.git
+	url = https://github.com/wujastyk/GRETIL-mirror.git
 	update = merge
 [submodule "catalogs/wellcome-collection-tei"]
 	path = catalogs/wellcome-collection-tei
