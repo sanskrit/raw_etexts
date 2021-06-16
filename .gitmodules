@@ -75,37 +75,37 @@
 	url = https://github.com/jyotisham/adyatithi.git
 	update = merge
 [submodule "vedaH/mishram/vvasuki.github.io"]
-	path = vedaH/mishram/vvasuki.github.io
+	path = vedaH/mishram/vishvAsa.github.io
 	url = https://github.com/vishvAsa/vedAH.git
 	update = merge
 	branch = content
 [submodule "kAvyam/mishram/vvasuki.github.io"]
-	path = kAvyam/mishram/vvasuki.github.io
+	path = kAvyam/mishram/vishvAsa.github.io
 	url = https://github.com/vishvAsa/kAvyam.git
 	update = merge
 	branch = content
 [submodule "purANam/mishram/vvasuki.github.io"]
-	path = purANam/mishram/vvasuki.github.io
+	path = purANam/mishram/vishvAsa.github.io
 	url = https://github.com/vishvAsa/purANam.git
 	update = merge
 	branch = content
 [submodule "mImAMsA/vvasuki.github.io"]
-	path = mImAMsA/vvasuki.github.io
+	path = mImAMsA/vishvAsa.github.io
 	url = https://github.com/vishvAsa/mImAMsA.git
 	update = merge
 	branch = content
 [submodule "vyAkaraNam/vvasuki.github.io"]
-	path = vyAkaraNam/vvasuki.github.io
+	path = vyAkaraNam/vishvAsa.github.io
 	url = https://github.com/vishvAsa/sanskrit.git
 	update = merge
 	branch = content
 [submodule "jyotiSham/vvasuki.github.io"]
-	path = jyotiSham/vvasuki.github.io
+	path = jyotiSham/vishvAsa.github.io
 	url = https://github.com/vishvAsa/jyotiSham.git
 	update = merge
 	branch = content
 [submodule "kalpaH/mishram"]
-	path = kalpaH/vvasuki.github.io
+	path = kalpaH/saMskAra_vishvAsa
 	url = https://github.com/vishvAsa/saMskAra.git
 	update = merge
 	branch = content
@@ -113,10 +113,18 @@
 	path = mixed/vv_ebook_pub
 	url = https://github.com/sanskrit-coders/book-pub.git
 [submodule "vedaH/mishram/vvasuki.github.io_static"]
-	path = vedaH/mishram/vvasuki.github.io_static
+	path = vedaH/mishram/vishvAsa.github.io_static
 	url = https://github.com/vishvAsa/vedAH.git
 	branch = static_files
 [submodule "kalpaH/shrautam/mattUru-shrauta-book.github.io"]
 	path = kalpaH/shrautam/mattUru-shrauta-book.github.io
 	url = https://github.com/sanskrit/mattUru-shrauta-book.git
+	branch = content
+[submodule "kalpaH/AgamaH/vishvAsa.github.io"]
+	path = kalpaH/AgamaH/vishvAsa.github.io
+	url = https://github.com/vishvAsa/AgamaH.git
+	branch = content
+[submodule "kalpaH/AgamaH/kalpAntaram.github.io"]
+	path = kalpaH/kalpAntaram_vishvAsa
+	url = https://github.com/vishvAsa/kalpAntaram.git
 	branch = content
