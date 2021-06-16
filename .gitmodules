@@ -128,3 +128,6 @@
 	path = kalpaH/kalpAntaram_vishvAsa
 	url = https://github.com/vishvAsa/kalpAntaram.git
 	branch = content
+[submodule "mixed/dhaval_sanskritworld_texts"]
+	path = mixed/dhaval_sanskritworld_texts
+	url = https://github.com/drdhaval2785/sanskritworld_texts.git
