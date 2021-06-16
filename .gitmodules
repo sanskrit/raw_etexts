@@ -121,7 +121,7 @@
 	url = https://github.com/sanskrit/mattUru-shrauta-book.git
 	branch = content
 [submodule "kalpaH/AgamaH/vishvAsa.github.io"]
-	path = kalpaH/AgamaH/vishvAsa.github.io
+	path = AgamAH/vishvAsa.github.io
 	url = https://github.com/vishvAsa/AgamaH.git
 	branch = content
 [submodule "kalpaH/AgamaH/kalpAntaram.github.io"]
