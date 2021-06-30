@@ -105,8 +105,8 @@
 	update = merge
 	branch = content
 [submodule "kalpaH/mishram"]
-	path = kalpaH/saMskAra_vishvAsa
-	url = https://github.com/vishvAsa/saMskAra.git
+	path = kalpaH/devaH_vishvAsa
+	url = https://github.com/vishvAsa/devaH.git
 	update = merge
 	branch = content
 [submodule "mixed/vv_ebook_pub"]
@@ -131,3 +131,5 @@
 [submodule "mixed/dhaval_sanskritworld_texts"]
 	path = mixed/dhaval_sanskritworld_texts
 	url = https://github.com/drdhaval2785/sanskritworld_texts.git
+[submodule "kalpaH/devaH_vishvAsa"]
+	url = https://github.com/vishvAsa/devaH.git
