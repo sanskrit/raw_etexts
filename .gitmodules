@@ -133,3 +133,7 @@
 	url = https://github.com/drdhaval2785/sanskritworld_texts.git
 [submodule "kalpaH/devaH_vishvAsa"]
 	url = https://github.com/vishvAsa/devaH.git
+[submodule "purANam/mishram/vishvAsa.github.io_static_files"]
+	path = purANam/mishram/vishvAsa.github.io_static_files
+	url = https://github.com/vishvAsa/purANam.git
+	branch = static_files
