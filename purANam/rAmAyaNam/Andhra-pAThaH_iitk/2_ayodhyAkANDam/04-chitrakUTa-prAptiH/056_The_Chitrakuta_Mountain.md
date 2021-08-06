@@ -1,0 +1,488 @@
++++
+title = "056 The Chitrakuta Mountain"
+title_english = "056 The Chitrakuta Mountain"
+
++++
+Chitrakuta described -- Rama meets sage Valmiki -- Lakshmana builds a
+leafthatched cottage -- Rama enters the cottage at an auspicious time
+after due worship of respective deities.
+
+
+
+## श्लोकः
+### मूलम्
+अथ रात्र्यां व्यतीतायामवसुप्तमनन्तरम्।  
+प्रबोधयामास शनैर्लक्ष्मणं रघुनन्दनः।।2.56.1।।
+
+### शब्दार्थः
+अथ thereafter, रघुनन्दनः Delight of the Raghus (Rama), रात्र्याम् night, अतीतायाम् had passed, अनन्तरम् then, अवसुप्तम् sleeping, लक्ष्मणम् Lakshmana, शनैः gently, प्रबोधयामास awakened.
+
+### आङ्ग्लानुवादः
+When the night was over, Rama, Delight of the Raghus, gently awakened Lakshmana who was asleep.
+
+
+
+## श्लोकः
+### मूलम्
+सौमित्रे श्रुणु वन्यानां वल्गु व्याहरतां स्वनम्।  
+सम्प्रतिष्ठामहे काल प्रस्थानस्य परन्तप।।2.56.2।।
+
+### शब्दार्थः
+सौमित्रे  Saumitri (son of Sumitra), वल्गु sweet, व्याहरताम् singing, वन्यानाम् of the sylvan birds, स्वनम् voices, श्रुणु you may listen, परन्तप O tormentor of enemies, प्रस्थानस्य  to set out, कालः time, सम्प्रतिष्ठामहे we shall set out.
+
+### आङ्ग्लानुवादः
+Listen to the songs of the forest birds, O son of Sumitra O tormentor of foes it is time we set out.
+
+
+
+## श्लोकः
+### मूलम्
+स सुप्तस्समये भ्रात्रा लक्ष्मणः प्रतिबोधितः।  
+जहौ निद्रां च तन्द्रीं च प्रसक्तं च पथि श्रमम्।।2.56.3।।
+
+### शब्दार्थः
+सुप्तः one asleep, सः लक्ष्मणः that Lakshmana, समये in time, भ्रात्रा by his brother, प्रतिबोधितः awakened, निद्रां च sleep, तन्द्रीं च and drowsiness, पथि during journey, प्रसक्तम् associated  
+with, श्रमं च fatigue, जहौ cast off.
+
+### आङ्ग्लानुवादः
+Awakened by his brother in time, Lakshmana shook off his sleep, his drowsiness and his fatigue due to journey.
+
+
+
+## श्लोकः
+### मूलम्
+तत उत्थाय ते सर्वे स्पृष्ट्वा नद्या श्शिवं जलम्।  
+पन्थानमृषिणाऽदिष्टं चित्रकूटस्य तं ययुः।।2.56.4।।
+
+### शब्दार्थः
+ततः then, ते सर्वे they all, उत्थाय rising, नद्याः river's, शिवम् auspicious, जलम् water, स्पृष्ट्वा having touched, ऋषिणा by the sage (Bharadwaja), आदिष्टम् directed, तम् that, चित्रकूटस्य of Chitrakuta, पन्थानम् path, ययुः went.
+
+### आङ्ग्लानुवादः
+Then they all rose, touched the river's auspicious waters and went the way the sage had directed -- towards mount Chitrakuta.
+
+
+
+## श्लोकः
+### मूलम्
+ततस्सम्प्रस्थितः काले रामस्सौमित्रिणा सह।  
+सीतां कमलपत्राक्षीमिदं वचनमब्रवीत्।।2.56.5।।
+
+### शब्दार्थः
+ततः then, काले at the proper time, सौमित्रिणा सह along with Lakshmana, सम्प्रस्थितः  setting out, रामः Rama, कमलपत्राक्षीम् eyes like lotus petals, सीताम् addressing Sita, इदं वचनम् these words, अब्रवीत् said.
+
+### आङ्ग्लानुवादः
+Early in the morning Rama set out with Lakshmana and said this to Sita with eyes like lotus petalsः
+
+
+
+## श्लोकः
+### मूलम्
+आदिप्तानिव वैदेहि सर्वतः पुष्पितान्नगान्।  
+स्वैः पुष्पैः किंशुकान् पश्य मालिनशिशिरात्यये।।2.56.6।।
+
+### शब्दार्थः
+वैदेहि O daughter of Videha (Sita), शिशिरात्यये at the end of winter, सर्वतः all over, पुष्पितान् in full bloom, आदीप्तानिव as if illuminated, स्त्वैः by their own, पुष्पैः flowers, मालिनः garland, किंशुकान् नगान् Kimsuka trees, पश्य see.
+
+### आङ्ग्लानुवादः
+O daughter of Videha behold these kimsuka trees in full bloom everywhere. With the passing of winter, they appear bright as though they are garlanded by their own flowers.
+
+
+
+## श्लोकः
+### मूलम्
+पश्य भल्लातकान् फुल्लान्नरै रनुपसेवितान्।  
+फलपत्रैरवनता न्नूनं शक्ष्याम जीवितुम्।।2.56.7।।
+
+### शब्दार्थः
+फुल्लान् in full bloom, फलपत्रैः with fruits and leaves, अवनतान् bent low, नरैः by people, अनुपसेवितान् not enjoyed, भल्लातकान् bhallataka trees, पश्य see, नूनम् surely, जीवितुम् to reside, शक्ष्याम able.
+
+### आङ्ग्लानुवादः
+Behold these bhallataka trees in full bloom though there are none to enjoy them. They are bent with fruits and leaves. Surely, we can live here. (This place is fit for our habitation).
+
+
+
+## श्लोकः
+### मूलम्
+पश्य द्रोणप्रमाणानि लम्बमानानि लक्ष्मण।  
+मधूनि मधुकारीभि स्सम्भृतानि नगे नगे।।2.56.8।।
+
+### शब्दार्थः
+लक्ष्मण O Lakshmana, नगे नगे in every tree, मधुकारीभिः by bees, सम्भृतानि assembled, द्रोणप्रमाणानि of the size of wooden vessels, लम्बमानानि hanging down, मधूनि honey, पश्य see.
+
+### आङ्ग्लानुवादः
+O Lakshmana see the honeycombs of the size of wooden vessels crowded by the honeybees hanging down from every tree.
+
+
+
+## श्लोकः
+### मूलम्
+एष क्रोशति नत्यूहस्तं शिखी प्रतिकूजति।  
+रमणीये वनोद्देशे पुष्पसंस्तरसङ्कटे।।2.56.9।।
+
+### शब्दार्थः
+पुष्पसंस्तरसङ्कटे on the ground strewn with fallen flowers, रमणीये in a delightful, वनोद्धेशे in the forest region, एषः this, नत्यूहः natyuha (a type of cuckoo), क्रोशति is screaming, तम् that bird, शिखी peacock, प्रतिकूजति responding with its screaming.
+
+### आङ्ग्लानुवादः
+In this delightful forest region strewn with fallen flowers the peacock is responding to the screaming of natyuha bird.
+
+
+
+## श्लोकः
+### मूलम्
+मातङ्गयूथानुसृतं पक्षिसंङ्घानुनादितम्।  
+चित्रकूटमिमं पश्य प्रवृद्धशिखरं गिरिम्।।2.56.10।।
+
+### शब्दार्थः
+मातङ्गयूथानुसृतं followed by the herds of elephants, पक्षिसंङ्घानुनादितम् with flocks of singing birds, प्रवृद्धशिखरम् with very towering peaks, इदम् this, गिरिम् mountain, पश्य see.
+
+### आङ्ग्लानुवादः
+See these flocks of singing birds followed by herds of elephants. See this mount Chitrakuta with its towering peaks.
+
+
+
+## श्लोकः
+### मूलम्
+समभूमितले रम्ये द्रुमैर्बहुभिरावृते।  
+पुण्ये रंस्यामहे तात चित्रकूटस्य कानने।।2.56.11।।
+
+### शब्दार्थः
+तात O dear, समभूमितले on the even ground, बहुभिः by several, द्रुमैः by trees, आवृते covered with, पुण्ये sacred, चित्रकूटस्य Chitrakuta's, कानने in the forest, रंस्यामहे we will enjoy.
+
+### आङ्ग्लानुवादः
+O dear this sacred forest of Chitrakuta standing on a level land is full of various trees. Let us enjoy it.
+
+
+
+## श्लोकः
+### मूलम्
+ततस्तौ पादचारेण गच्छन्तौ सह सीतया।  
+रम्यमासेदतुश्शैलं चित्रकूटं मनोरमम्।।2.56.12।।
+
+### शब्दार्थः
+ततः then, सीतयासह with Sita, पादचारेण walking on foot, गच्छन्तौ going, तौ both (Rama and Lakshmana), रम्यम् beautiful, मनोरमम् delightful, चित्रकूटं शैलम् Chitrakuta mountain, आसेदतुः reached.
+
+### आङ्ग्लानुवादः
+Then they both along with Sita walked to that lovely, delightful Chitrakuta mountain.
+
+
+
+## श्लोकः
+### मूलम्
+तन्तु पर्वतमासाद्य नानापक्षिगणायुतम्।  
+बहुमूलफलं रम्यं सम्पन्नं सरसोदकम्।।2.56.13।।
+
+### शब्दार्थः
+नानापक्षिगणायुतम् filled with various kinds of birds, बहुमूलफलम् with varieties of roots and fruits, रम्यम् enchanting, सम्पन्नम् rich, सरसोदकम् of tasty water, तं पर्वतम् that mountain, आसाद्य having reached, (Rama said).
+
+### आङ्ग्लानुवादः
+Rama arrived at that enchanting mountain full of various kinds of birds, fruits and roots, and sweet water. (And said to Lakshmanaः)
+
+
+
+## श्लोकः
+### मूलम्
+मनोज्ञोऽयं गिरिस्सौम्य नानाद्रुमलतायुतः।  
+बहुमूलफलो रम्य स्स्वाजीवः प्रतिभाति मे।।2.56.14।।
+
+### शब्दार्थः
+सौम्य O gentle one, मनोज्ञः pleasing to the heart, नानादृमलतायुतः with various kinds of trees and creepers, बहुमूलफलः with many roots and fruits, रम्यः beautiful, अयं गिरिः this mountain, स्वाजीवः a happy place to live in, मे to me, प्रतिभाति appears.
+
+### आङ्ग्लानुवादः
+O gentle one this enchanting mountain with different kinds of trees and creepers and many roots and fruits appears to be a happy place to live in.
+
+
+
+## श्लोकः
+### मूलम्
+मुनयश्च महात्मानो वसन्त्यस्मि शिलोच्चये।  
+अयं वासो भवेत्तावदत्र सौम्य रमेमहि।।2.56.15।।
+
+### शब्दार्थः
+सौम्य O handsome one, अस्मिन् in this, शिलोच्चये on the mountain, महात्मनः great, मुनयश्च sages, वसन्ति reside, अयम् this, वासः habitation, भवेत्तावत् let it be, अत्र here, रमेमहि will enjoy.
+
+### आङ्ग्लानुवादः
+Great sages reside on this high mountain. Let it be our habitation and let us enjoy our life here, O handsome one
+
+
+
+## श्लोकः
+### मूलम्
+इति सीता च रामश्च लक्ष्मणश्च कृताञ्जलिः।  
+अभिगम्याऽश्रमं सर्वे वाल्मीकि मभिवादयन्।।2.56.16।।
+
+### शब्दार्थः
+इति thus, सीता च Sita, रामश्च Rama, कृताञ्जलिः with folded palms, लक्ष्मणश्च Lakshmana also, सर्वे all, आश्रमम् hermitage, अभिगम्य having approached, वाल्मीकिम् to sage Valmiki, अभिवादयन् paid obeisance.
+
+### आङ्ग्लानुवादः
+Thus Rama, Sita and Lakshmana approached the hermitage of sage Valmiki and paid obeisance to him with folded hands.
+
+
+
+## श्लोकः
+### मूलम्
+तान्महर्षि प्रमुदितः पूजयामास धर्मवित्।  
+अस्यतामिति चोवाच स्वागन्तु निवेद्य च।।2.56.17।।
+
+### शब्दार्थः
+धर्मवित् conversant with righteousness, महर्षिः the great sage (Valmiki), प्रमुदितः full of delight, तान् them, पूजयामास honoured, स्वागतम् welcome, निवेद्य having offered, अस्यताम् इति be seated, उवाच च and said.
+
+### आङ्ग्लानुवादः
+The great sage Valmiki conversant with righteousness was delighted. He honoured them by extending welcome and said 'Be seated'.
+
+
+
+## श्लोकः
+### मूलम्
+ततोऽब्रवीन्महाबाहुर्लक्ष्मणं लक्ष्मणाग्रजः।  
+सन्निवेद्य यथान्याय मात्मानमृषये प्रभुः।।2.56.18।।
+
+### शब्दार्थः
+ततः then, महाबाहुः mightyarmed, प्रभुः master, लक्ष्माणाग्रजः the elder brother of Lakshmana, आत्मानम् himself, यथान्यायम् duly, ऋषये to the ascetic, सन्निवेद्य having introduced, लक्ष्मणम् to Lakshmana, अब्रवीत् said.
+
+### आङ्ग्लानुवादः
+The mightyarmed elder brother of Lakshmana revealed his identity to the sage by duly introducing himself. And said then to Lakshmanaः
+
+
+
+## श्लोकः
+### मूलम्
+लक्ष्मणाऽऽनय दारूणि दृढानि च वराणि च।  
+कुरुष्वाऽवसथं सौम्य वासे मेऽभिरतं मनः।।2.56.19।।
+
+### शब्दार्थः
+सौम्य लक्ष्मण O handsome Lakshmana, दृढानि strong, वराणि च good, दारूणि logs of wood,  
+आनय fetch, अवसथम् a dwelling, कुरुष्व build, मे मनः my mind, वासे in staying, अभिरतम् is eager.
+
+### आङ्ग्लानुवादः
+O handsome Lakshmana, make a hut with strong, sound logs of wood. My mind impels me to stay here.
+
+
+
+## श्लोकः
+### मूलम्
+तस्य तद्वचनं श्रुत्वा सौमित्रिर्विविधान् द्रुमान्।  
+आजहार तत श्चक्रे पर्णशालामरिन्दमः।।2.56.20।।
+
+### शब्दार्थः
+सौमित्रिः son of Sumitra (Lakshmana), तस्य Rama's, तत् वचनम् those words, श्रुत्वा on hearing, विविधान् different kinds of, दृमान् logs of wood, आजहार fetched, अरिन्दमः subduer of enemies, ततः then, पर्णशालाम् cottage thatched with leaves, चक्रे built.
+
+### आङ्ग्लानुवादः
+Having heard Rama, Saumitri, the subduer of enemies fetched different kinds of logs of wood, and with them made a hut and thatched it with leaves.
+
+
+
+## श्लोकः
+### मूलम्
+तां निष्ठितां बद्धकटां दृष्ट्वा रामस्सुदर्शनाम्।  
+शुश्रूषमाणमेकाग्रमिदं वचनमब्रवीत्।।2.56.21।।
+
+### शब्दार्थः
+रामः Rama, निष्ठितान् firmly fixed, बद्दकटाम् with mats tied around as walls, सुदर्शनाम् goodlooking, ताम् दृष्ट्वा having seen it, शुश्रूषमाणम् on listening (to further command), एकाग्रम् with attention, इदं वचनम् these words, अब्रवीत् said.
+
+### आङ्ग्लानुवादः
+Rama saw the goodlooking leafhut with mats tied around as walls, and said to Lakshmana who was awaiting further command with rapt attentionः
+
+
+
+## श्लोकः
+### मूलम्
+ऐणेयं मांसमाहृत्य शालां यक्ष्यामहे वयम्।  
+कर्तव्यं वास्तुशमनं सौमित्रे चिरजीविभिः।।2.56.22।।
+
+### शब्दार्थः
+सौमित्रे O Lakshmana, ऐणेयं मांसम् venison of black antelope, आहृत्य having brought, वयम् we, शालाम् this hut, यक्ष्यामहे will worship, चिरजीविभिः those who intend to live longer, वास्तुशमनम् pacification of household deity, कर्तव्यम् should be done.
+
+### आङ्ग्लानुवादः
+O Lakshmana those who intend to live for long (in this hut), should pacify the deity presiding over here. Therefore, we shall bring the venison of a black antelope and make necessary offerings.
+
+
+
+## श्लोकः
+### मूलम्
+मृगं हत्वाऽऽनय क्षिप्रं लक्ष्मणेह शुभेक्षण।  
+कर्तव्य श्शास्त्रदृष्टो हि विधिर्धर्ममनुस्मर।।2.56.23।।
+
+### शब्दार्थः
+शुभेक्षण one who has auspicious looks, लक्ष्मण Lakshmana, मृगम् an antelope, हत्वा  having killed, क्षिप्रम् quickly, इह here, आनय bring, शास्त्रदृष्टः as prescribed by the  scriptures, विधिः rites, कर्तव्यः हि will have to be carried out, धर्मम् the tradition, अनुस्मर recollect.
+
+### आङ्ग्लानुवादः
+Slay an antelope and bring it here quickly. O Lakshmana The rites as prescribed by the scriptures will have to be carried out. You may recollect that tradition.
+
+
+
+## श्लोकः
+### मूलम्
+भ्रातुर्वचनमाज्ञाय लक्ष्मणः परवीरहा।  
+चकार स यथोक्तं च तं राम पुनरब्रवीत्।।2.56.24।।
+
+### शब्दार्थः
+परवीरहा slayer of heroes of the enemy's side, स लक्ष्मणः that Lakshmana, भ्रातुः brother' s, वचनम् words, आज्ञाय having understood, यथोक्तम् as told, चकार carried out, रामः Rama, तम् him, पुनः again, अब्रवीत् said.
+
+### आङ्ग्लानुवादः
+Lakshmana, slayer of heroes on the enemy's side, understood and implemented what he was told. Rama again said to himः
+
+
+
+## श्लोकः
+### मूलम्
+ऐणेयं श्रपयस्वैतच्छालां यक्ष्यामहे वयम्।  
+त्वर सौम्य मुहूर्तोऽयं ध्रुवश्च दिवसोऽप्ययम्।।2.56.25।।
+
+### शब्दार्थः
+सौम्य O handsome one, एतत् this, ऐणेयम् venison, श्रपयस्व cook, वयम् we, शालाम् hut, यक्ष्यामहे will worship, अयम् this, दिवसः day, अयम् this, मुहूर्तःअपि this moment also, ध्रुवश्च is fixed, त्वर hasten.
+
+### आङ्ग्लानुवादः
+Cook this venison, O handsome one We will offer it to the presiding deity of this hut. Hasten, the day and time are fixed (for the rites)
+
+
+
+## श्लोकः
+### मूलम्
+स लक्ष्मणः कृष्णमृगं मेध्यं हत्वा प्रतापवान्।  
+अथ चिक्षेप सौमित्रिस्समिद्धे जातवेदसि।।2.56.26।।
+
+### शब्दार्थः
+अथ then, सौमित्रिः son of Sumitra, प्रतापवान् powerful, सः लक्ष्मणः that Lakshmana, मेथ्यम् fit for offering pure, कृष्णमृगम् black antelope, हत्वा having killed, समिद्धे in a wellkindled, जातवेदसि fire, चिक्षेप offered.
+
+### आङ्ग्लानुवादः
+Then the powerful son of Sumitra killed a black antelope fit for offering, and offered it to the wellkindled fire.
+
+
+
+## श्लोकः
+### मूलम्
+तन्तु पक्वं परिज्ञाय निष्टप्तं छिन्नशोणितम्।  
+लक्ष्मणः पुरुषव्याघ्रमथ राघवमब्रवीत्।।2.56.27।।
+
+### शब्दार्थः
+लक्ष्मणः Lakshmana, निष्टप्तम् roasted well, छिन्नशोणितम् with blood drained out, तम् that, पक्वम्  cooked, परिज्ञाय having found, अथ then, पुरुषव्याघ्रम् tiger (best) among men, राघवम् to Rama, अब्रवीत् said.
+
+### आङ्ग्लानुवादः
+With the blood drained out of the venison, Lakshmana roasted it and cooked it well, and then said to Rama, the tiger (best) among men.
+
+
+
+## श्लोकः
+### मूलम्
+अयंसर्वः समस्ताग्ङःश्रृतः कृष्णमृगो मया।  
+देवतां देवसङ्काश यजस्व कुशलो ह्यसि।।2.56.28।।
+
+### शब्दार्थः
+समस्ताङ्गः with all the limbs, अयम् this, कृष्णमृगः black antelope, सर्वः completely, मया by me, श्रुतः is wellcooked, देवसङ्काश like a god, देवताः devatas, यजस्व offer with sacrifice, कुशलः असि हि you are proficient.
+
+### आङ्ग्लानुवादः
+This black antelope with all its limbs is wellcooked. O divine sire, you may make the  
+offering to Vastu devata in which you are proficient.
+
+
+
+## श्लोकः
+### मूलम्
+रामः स्नात्वा तु नियतो गुणवान् जप्यकोविदः।  
+सङ्ग्रहेणाकरोत् स्रवार्न मन्त्रान् सत्रावसानिकान्।।2.56.29।।
+
+### शब्दार्थः
+गुणवान् virtuous,जप्यकोविदः expert in reciting appropriate mantras, रामः Rama, स्नात्वा having bathed, नियतः with his senses restrained, सत्रावसानिकान् rites performed at the end of the ritual, सर्वान् all that, मन्त्रान् mantras, सङ्ग्रहेण briefly, अकरोत् performed (intoned).
+
+### आङ्ग्लानुवादः
+Virtuous Rama, who was an expert in the recitation of mantras, took his bath and his mind controlled, intoned briefly all the mantras appropriate to the completion of the ritual.
+
+
+
+## श्लोकः
+### मूलम्
+इष्ट्वा देवगणान्सर्वान्विवेशाऽवसथं शुचिः।  
+बभूव च मनोह्लादो रामस्यामिततेजसः।।2.56.30।।
+
+### शब्दार्थः
+सर्वान् all, देवगणान् gods, इष्ट्वा having worshipped by offering, शुचिः becoming pure, अवसथम् the leafhut, विवेश entered, अमिततेजसः immeasurable lustre, रामस्य to Rama, मनोह्लादः cheer of mind, बभूव च caused.
+
+### आङ्ग्लानुवादः
+Sanctified with the worship of all the gods, Rama of immeasurable lustre felt a great happiness on entering the hut.
+
+
+
+## श्लोकः
+### मूलम्
+वैश्वदेवबलिं कृत्वा रौद्रं वैष्णव मेव च।  
+वास्तुसंशमनीयानि मङ्गलानि प्रवर्तयन्।।2.56.31।।  
+जपं च न्यायत कृत्वा स्नात्वा नद्यां यथाविधि।  
+पापसंशमनं राम श्चकार बलिमुत्तमम्।।2.56.32।।
+
+### शब्दार्थः
+रामः Rama, वैश्वदेवबलिम् oblations to Visvadevas (the entire pantheon of gods), रौद्रम् to Rudra, वैष्णवमेव च to Visnu, कृत्वा having offered, वास्तुसंशमनीयानि propitiation of the household deity (Vastu devata), मङ्गलानि auspices, प्रवर्तयन्  doing, न्यायतः according to precept, जपं च कृत्वा muttering the silent prayers, नद्याम् in the river, यथाविधि duly, स्नात्वा after bathing, पापसंशमनम् for the expiation of sins, उत्तमं बलिम् final oblation, चकार made.
+
+### आङ्ग्लानुवादः
+Rama, offered oblations to Visvadevas, Rudra and Visnu,  performed the auspices for the appeasement of the household deity. And having muttered japa silently in conformity with tradition, he took his ablution in the river as enjoined (by the sastras) and offered his final oblations for the expiation of his sins.
+
+
+
+## श्लोकः
+### मूलम्
+वेदिस्थलविधानानि चैत्यान्यायतनानि च।  
+आश्रमस्यानुरूपाणि स्थापयामास राघवः।।2.56.33।।
+
+### शब्दार्थः
+राघवः the scion of the Raghus (Rama), आश्रमस्य of the hermitage, अनुरूपाणि befitting, वेदिस्थलविधानानि making of altars, चैत्यानि places of worship, आयतनानि च sacred places for fire, स्थापयामास established.
+
+### आङ्ग्लानुवादः
+Rama, son of the Raghus, made altars in all the quarters, places of worship and sacred spots for fire befitting a hermitage.
+
+
+
+## श्लोकः
+### मूलम्
+वन्यैर्माल्यैः फलैर्मूलैः पक्वैर्मांसैर्यथाविधि।  
+अद्भिर्जपैश्च वेदोक्तैर्दर्भैश्च ससमित्कुशैः।।2.56.34।।  
+तौ तर्पयित्वा भूतानि राघवौ सह सीतया।  
+तदा विविशतु श्शालां सुशुभां शुभलक्षणौ।।2.56.35।।
+
+### शब्दार्थः
+शुभलक्षणौ bestowed with auspicious qualities, राघवौ Rama and Lakshmana, सह सीतया accompanied by Sita, वन्यैः माल्यैः with garlands of forest flowers, फलैः with fruits, मूलैः with roots, पक्वैः with wellcooked, मांसैः with venison, अद्भिः with water, वेदोक्तैः as expounded in the Vedas, जपैश्च with muttering of prayers, दर्भैश्च with darbha grass,    सुसमित्कुशैः with faggots and kusa grass, भूतानि all beings, तर्पयित्वा after propitiating, तदा then, शुभाम् auspicious, शालाम् hut, विविशतुः entered.
+
+### आङ्ग्लानुवादः
+Bestowed with auspicious qualities, Rama and Lakshmana along with Sita propitiated those celestial beings with garlands of forest flowers, fruits and roots, wellcooked venison, water, muttering of prayers as expounded in the Vedas, faggots and kusa grass and entered that auspicious hermitage.
+
+
+
+## श्लोकः
+### मूलम्
+तां वृक्षपर्णच्छदनां मनोज्ञां यथाप्रदेशं सुकृतां निवाताम्।  
+वासाय सर्वे विविशुस्समेतास्सभां यथा देवगणास्सुधर्माम्।।2.56.36।।
+
+### शब्दार्थः
+वृक्षपर्णच्छदनाम् covered with the leaves of trees, मनोज्ञाम् charming, यथाप्रदेशम् built on a suitable site, सुकृताम् wellbuilt, निवाताम् protected against storm, ताम् that hut, सर्वे all, समेता together, वासाय for purposes of living, देवगणाः gods, सुधर्माम् Sudharma, सभां यथा like the court, विविशुः entered.
+
+### आङ्ग्लानुवादः
+Just like the gods enter the court of Sudharma, they all stepped into the hut to dwell there. The hut was charming wellbuilt on a suitable site and protected against storm.
+
+
+
+## श्लोकः
+### मूलम्
+अनेकनानामृगपक्षिसङ्कुले विचित्रपत्रस्तबकैर्द्रुमैर्युते।  
+वनोत्तमे व्यालमृगानुनादिते तदा विजह्रु स्सुसुखं जितेन्द्रियाः।।2.56.37।।
+
+### शब्दार्थः
+तदा then, जितेन्द्रियाः who had conquered the senses, अनेकनानामृगपक्षिसङ्कुले filled with  many varieties of animals and birds, विचित्रपुष्पस्तबकैः with bunches of bright flowers, द्रुमै with trees, युते full of, व्यालमृगानुनादिते echoing with the sounds of wild animals, वनोत्तमे in that splendid forest, सुसुखम् very happily, विजह्रुः wandered.
+
+### आङ्ग्लानुवादः
+Then they with their senses conquered, enjoyed perfect happiness in that splendid forest teeming with many varieties of animals and birds, with trees full of brilliant clusters of flowers and echoing with the sounds of wild animals.
+
+
+
+## श्लोकः
+### मूलम्
+सुरम्यमासाद्य तु चित्रकूटं नदीं च तां माल्यवतीं सुतीर्थाम्।  
+ननन्द हृष्टो मृगपक्षिजुष्टां जहौ च दुखं पुरविप्रवासात्।।2.35.38।।
+
+### शब्दार्थः
+सुरम्यम् marvellous, चित्रकूटम् mount Chitrakuta, आसाद्य having reached, सुतीर्थाम् with  
+excellent holy places, मृगपक्षिजुष्टाम् full of animals and birds, ताम् that, माल्यवतीं नदीं च that Malyavati river, हृष्टः filled with delight, ननन्द rejoiced, पुरविप्रवासात् banishment from the city, दुखम् sorrow, जहौ च left.
+
+### आङ्ग्लानुवादः
+Having reached the marvellous mount Chitrakuta and river Malyavati with excellent holy places and full of animals and birds, Rama shed the sorrow of his banishment from the city (of Ayodhya) and rejoiced with a gladdened heart.  
+
+## समाप्तिः
+ श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे षट्पञ्चाशस्सर्गः।।  
+Thus ends the fiftysixth sarga in Ayodhyakanda of  the  holy Ramayana, the first epic composed by sage Valmiki.
