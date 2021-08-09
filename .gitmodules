@@ -137,3 +137,6 @@
 	path = purANam/mishram/vishvAsa.github.io_static_files
 	url = https://github.com/vishvAsa/purANam.git
 	branch = static_files
+[submodule "mixed/cu-sarit"]
+	path = mixed/cu-sarit
+	url = https://github.com/gsireesh/CU-SARIT.git
