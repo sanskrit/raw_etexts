@@ -140,3 +140,9 @@
 [submodule "mixed/cu-sarit"]
 	path = mixed/cu-sarit
 	url = https://github.com/gsireesh/CU-SARIT.git
+[submodule "kAvyam/rathnAkara-TEI"]
+	path = kAvyam/rathnAkara-TEI
+	url = https://github.com/ppasedach/ratnakara-tei.git
+[submodule "vyAkaraNam/dravyasamuddesha-TEI"]
+	path = vyAkaraNam/dravyasamuddesha-TEI
+	url = https://github.com/chchch/dravyasamuddesa.git
