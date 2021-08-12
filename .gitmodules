@@ -66,10 +66,6 @@
 	path = mixed/somasuShma/tex
 	url = https://github.com/somasushma/tex-files.git
 	update = merge
-[submodule "mixed/sandocs-dump"]
-	path = mixed/sandocs-dump
-	url = https://github.com/sanskrit/sanskrit-documents-dump.git
-	update = merge
 [submodule "jyotiSham/adyatithi"]
 	path = jyotiSham/adyatithi
 	url = https://github.com/jyotisham/adyatithi.git
