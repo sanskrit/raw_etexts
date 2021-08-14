@@ -142,3 +142,6 @@
 [submodule "vyAkaraNam/dravyasamuddesha-TEI"]
 	path = vyAkaraNam/dravyasamuddesha-TEI
 	url = https://github.com/chchch/dravyasamuddesa.git
+[submodule "mixed/sarit-raw"]
+	path = mixed/sarit-raw
+	url = https://github.com/sarit/raw-ocr-data.git
