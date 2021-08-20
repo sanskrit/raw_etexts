@@ -121,7 +121,7 @@
 	url = https://github.com/vishvAsa/AgamaH.git
 	branch = content
 [submodule "kalpaH/AgamaH/kalpAntaram.github.io"]
-	path = kalpaH/kalpAntaram_vishvAsa
+	path = kalpaH/vishvAsa_kalpAntaram_content
 	url = https://github.com/vishvAsa/kalpAntaram.git
 	branch = content
 [submodule "mixed/dhaval_sanskritworld_texts"]
@@ -145,3 +145,7 @@
 [submodule "mixed/sarit-raw"]
 	path = mixed/sarit-raw
 	url = https://github.com/sarit/raw-ocr-data.git
+[submodule "kalpaH/AgamaH/vishvAsa_kalpAntaram_static"]
+	path = kalpaH/vishvAsa_kalpAntaram_static
+	url = https://github.com/vishvAsa/kalpAntaram.git
+	branch = static_files
