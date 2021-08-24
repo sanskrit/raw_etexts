@@ -149,3 +149,6 @@
 	path = kalpaH/vishvAsa_kalpAntaram_static
 	url = https://github.com/vishvAsa/kalpAntaram.git
 	branch = static_files
+[submodule "mixed/BuddhaNexus_segmented-sanskrit"]
+	path = mixed/BuddhaNexus_segmented-sanskrit
+	url = https://github.com/BuddhaNexus/segmented-sanskrit/
