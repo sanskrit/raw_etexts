@@ -15,11296 +15,11194 @@ Visnusarma: Pancatantra
 
   
 Based on the ed. by Ramchandra Jha,
-  
-6th edition, Varanasi : Chowkhamba Vidyabhavan, 1991.
-  
-(Vidyabhavan Sanskrit Grantha Mala, 17) 
-  
-Also consulted: ed. by M.R. Kale. Delhi : Motilal Banarsidass, reprint. 1991.  
-
-  
-Input by Jan Brzezinski
-  
-Last update: 2.11.2003  
-  
-
-  
-NOTE:
-  
-Eventually, a revised version based on Kosambi's 1949 critical edition 
-  
-should be prepared. (J.B.)  
-  
-  
-  
-  
-
-  
-THIS TEXT FILE IS FOR REFERENCE PURPOSES ONLY!   
-  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.   
-
-  
-Text converted to Unicode (UTF-8).
-  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration 
-  
-set to UTF-8.)
-  
-  
-  
-  
-description:multibyte sequence:  
-long a   ā     
-long A   Ā     
-long i   ī     
-long I   Ī     
-long u   ū     
-long U   Ū     
-vocalic r   ṛ    
-vocalic R   Ṛ    
-long vocalic r   ṝ    
-vocalic l   ḷ    
-long vocalic l   ḹ    
-velar n   ṅ    
-velar N   Ṅ    
-palatal n   ñ     
-palatal N   Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s   ś     
-palatal S   Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara   ṃ    
-visarga   ḥ    
-long e   ē     
-long o   ō     
-l underbar   ḻ    
-r underbar   ṟ    
-n underbar   ṉ    
-k underbar   ḵ    
-t underbar   ṯ    
-  
-
-  
-
-  
-Unless indicated otherwise, accents have been dropped in order 
-  
-to facilitate word search.  
-
-  
-For a comprehensive list of GRETIL encodings and formats see:
-  
-www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdiac.pdf
-  
-and
-  
-www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdias.pdf
-  
-  
-  
-  
-  
-  
-  
-
-  
-pañcatantram  
-
-  
-kathā-mukham  
-
-  
-oṃ namaḥ śrī-śāradā-gaṇapati-gurubhyaḥ | mahā-kavibhyo namaḥ |  
-
-  
-brahmā rudraḥ kumāro hari-varuṇa-yamā vahnir indraḥ kuberaś
-  
-candrādityau sarasvaty-udadhi-yuga-nagā vāyur urvī-bhujaṅgāḥ |
-  
-siddhā nadyo 'śvinau śrīr ditir aditi-sutā mātaraś caṇḍikādyā
-  
-vedās tīrthāni yakṣā gaṇa-vasu-munayaḥ pāntu nityaṃ grahāś ca ||  
-
-  
-manave vācaspataye śukrāya parāśarāya sa-sutāya |
-  
-cāṇakyāya ca viduṣe namo 'stu naya-śāstra-kartṛbhyaḥ ||Panc_0.1||
-  
-sakalārtha-śāstra-sāraṃ jagati samālokya viṣṇuśarmedam |
-  
-tantraiḥ pañcabhir etac cakāra sumanoharaṃ śāstram ||Panc_0.2||  
-
-  
-tad yathānuśrūyate | asti dakṣiṇātye janapade mahilāropyaṃ nāma nagaram | tatra sakalārthi-sārtha-kalpa-drumaḥ pravara-nṛpa-mukuṭa-maṇim ajarīcayacarcitacaraṇa-yugalaḥ sakala-kalpa-pāraṅgato 'maraśaktir nāma rājā babhūva | tasya trayaḥ putrāḥ parama-durmedhaso vasuśaktir ugraśaktir anekaśaktiś ceti nāmāno babhūvuḥ |   
-
-  
-atha rājā tān śāstra-vimukhān ālokya sacivān āhūya provāca-bhoḥ jñātam etad bhavadbhir yan mamaite trayo 'pi putrāḥ śāstra-vimukhā viveka-hīnāś ca | tad etān paśyato me mahad api rājyaṃ na saukhyam āvahati | athavā sādhv idam ucyate-  
-
-  
-ajāta-mṛta-mūrkhebhyo mṛtājātau sutau varam |
-  
-yatas tau svalpa-duḥkhāya yāvaj-jīvaṃ jaḍo dahet ||Panc_0.3||  
-
-  
-varaṃ garbha-sravo varam ṛtuṣu naivābhigamanaṃ
-  
-varaṃ jātaḥ preto varam api ca kanyaiva janitā |
-  
-varaṃ bandhyā bhāryā varam api ca garbheṣu vasatir
-  
-na cāvidagdhān rūpa-draviṇa-guṇa-yukto 'pi tanayaḥ ||Panc_0.4||  
-
-  
-kiṃ tayā kriyate dhenvā yā na sūte na dugdhadā |
-  
-ko 'rthaḥ putreṇa jātena yo na vidvān na bhaktimān ||Panc_0.5||  
-
-  
-tad eteṣāṃ yathā buddhi-prabodhanaṃ bhavati tathā ko 'py upāyo 'nuṣṭhīyatām | atra ca mad-dattāṃ vṛttiṃ bhuñjānānāṃ paṇḍitānāṃ pañcaśatī tiṣṭhati | tato yathā mama manorathāḥ siddhiṃ yānti tathānuṣṭhīyatām iti |  
-
-  
-tatraikaḥ provāca-deva dvādaśabhir varṣair vyākaraṇaṃ śrūyate | tato dharma-śāstrāṇi manv-ādīni artha-śāstrāṇi cāṇakyādīni kāma-śāstrāṇi vātsyāyanādīni | evaṃ ca tato darmārtha-kāma-śāstrāṇi jñāyante | tataḥ pratibodhanaṃ bhavati |   
-
-  
-atha tan-madhyataḥ sumatir nāma sacivaḥ prāha-aśāśvato 'yaṃ jīvitavya-viṣayaḥ | prabhūta-kāla-jñeyāni śabda-śāstrāṇi | tat saṅkṣepa-mātraṃ śāstraṃ kiñcid eteṣāṃ prabodhanārthaṃ cintyatām iti | uktaṃ ca yataḥ-  
-
-  
-anantapāraṃ kila śabda-śāstraṃ 
-  
-svalpaṃ tathāyur bahavaś ca vighnāḥ |
-  
-sāraṃ tato grāhyam apāsya phalgu
-  
-haṃsair yathā kṣīram ivāmbudhyāt ||Panc_0.6||  
-
-  
-tad atrāsti viṣṇuśarmā nāma brāhmaṇaḥ sakala-śāstra-pāraṅgamaś chātra-saṃsadi labdha-kīrtiḥ | tasmai samarpayatu etān | sa nūnaṃ drāk prabuddhān kariṣyati iti |  
-
-  
-sa rājā tad ākarṇya viṣṇuśarmāṇam āhūya provāca-bho bhagavan mad-anugrahārtham etān artha-śāstraṃ prati drāg yathānanya-sadṛśān vidadhāsi tathā kuru | tadāhaṃ tvāṃ śāsana-śatena yojayiṣyāmi |  
-
-  
-atha viṣṇu-śarmā taṃ rājānam āha-deva śrūyatāṃ me tathya-vacanam | nāhaṃ vidyā-vikrayaṃ śāsana-śatenāpi karomi | punar etāṃs tava putrān māsa-ṣaṭkena yadi nīti-śāstrajñān na karomi tataḥ sva-nāma-tyāgaṃ karomi |  
-
-  
-athāsau rājā tāṃ brāhmaṇasyāsambhāvyāṃ pratijñāṃ śrutvā sa-sacivaḥ prahṛṣṭo vismayānvitas tasmai sādaraṃ tān kumārān samarpya parāṃ nirvṛtim ājagāma | viṣṇuśarmaṇāpi tān ādāya tad-arthaṃ mitra-bheda-mitra-prāpti-kākolūkīya-labdha-praṇāśa-aparīkṣita-kārakāṇi ceti pañca-tantrāṇi racayitvā pāṭhitās te rājaputrāḥ | te'pi tāny adhītya māsa-ṣaṭkena yathoktāḥ saṃvṛttāḥ | tataḥ prabhṛty etat pañcatantrakaṃ nāma nīti-śāstraṃ bālāvabodhanārthaṃ bhūtale pravṛttam | kiṃ bahunā-  
-
-  
-adhīte ya idaṃ nityaṃ nīti-śāstraṃ śṛṇoti ca |
-  
-na parābhavam āpnoti śakrād api kadācana ||Panc_0.7||  
-
-  
-iti kathā-mukham |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-mitra-bhedaḥ  
-
-  
-vardhamāna-vṛttāntaḥ  
-
-  
-athātaḥ prārabhyate mitra-bhedo nāma prathamaṃ tantram | yasyāyam ādimaḥ ślokaḥ-  
-
-  
-vardhamāno mahān snehaḥ siṃha-go-vṛṣayor vane |
-  
-piśunenātilubdhena jambukena vināśitaḥ ||Panc_1.1||  
-
-  
-tad yathānuśrūyate | asti dakṣiṇātye janapade mahilāropyaṃ nāma nagaram | tatra dharmopārjita-bhūri-vibhavo vardhamānako nāma vaṇik-putro babhūva | tasya kadācid rātrau śayyārūḍhasya cintā samutpannā | tat prabhūte'pi vitte'rthopāyāś cintanīyāḥ kartavyāś ceti | yata uktaṃ ca-  
-
-  
-nahi tad vidyate kiṃcid yad arthena na siddhyati |
-  
-yatnena matimāṃs tasmād artham ekaṃ prasādhayet ||Panc_1.2||
-  
-yasyāryas tasya mitrāṇi yasyārthās tasya bāndhavāḥ |
-  
-yasyārthāḥ sa pumāṃ loke yasyārthāḥ sa ca paṇḍitaḥ ||Panc_1.3||
-  
-na sā vidyā na tad dānaṃ na tac chilpaṃ na sā kalā |
-  
-na tat sthairyaṃ hi dhanināṃ yācakair yan na gīyate ||Panc_1.4||
-  
-iha loke hi dhanināṃ paro 'pi svajanāyate |
-  
-svajano 'pi daridrāṇāṃ sarvadā durjanāyate ||Panc_1.5||
-  
-arthebhyo 'pi hi vṛddhebhyaḥ saṃvṛttebhya itas tataḥ |
-  
-pravartante kriyāḥ sarvāḥ parvatebhya ivāpagāḥ ||Panc_1.6||
-  
-pūjyate yad apūjyo 'pi yad agamyo 'pi gamyate |
-  
-vandyate yad avandyo 'pi sa prabhāvo dhanasya ca ||Panc_1.7||
-  
-aśanād indriyāṇīva syuḥ kāryāṇy akhilāny api |
-  
-etasmāt kāraṇād vittaṃ sarva-sādhanam ucyate ||Panc_1.8||
-  
-arthārthī jīva-loko 'yaṃ śmaśānam api sevate |
-  
-tyaktvā janayitāraṃ svaṃ niḥsvaṃ yacchati dūrataḥ ||Panc_1.9||
-  
-gata-vayasām api puṃsāṃ yeṣām arthā bhavanti te taruṇāḥ |
-  
-arthe tu ye hīnā vṛddhās te yauvane'pi syuḥ ||Panc_1.10||  
-
-  
-sa cārthaḥ puruṣāṇāṃ ṣaḍbhr upāyair bhavati bhikṣāyā nṛpa-sevayā kṛṣi-karmaṇā vidyopārjanena vyavahāreṇa vaṇik-karmaṇā vā | sarveṣām api teṣāṃ vāṇijyenātiraskṛto 'rtha-lābhaḥ syāt | uktaṃ ca yataḥ-  
-
-  
-kṛtā bhikṣānekair vitarati nṛpo nocitam aho
-  
-kṛṣiḥ kliṣṭā vidyā guru-vinaya-vṛttyātiviṣamā |
-  
-kusīdād dāridryaṃ parakaragata-granthi-śamanān
-  
-na manye vāṇijyāt kim api paramaṃ vartanam iha ||Panc_1.11||  
-
-  
-upāyānāṃ ca sarveṣām upāyaḥ paṇya-saṃgrahaḥ |
-  
-dhanārthaṃ śasyate he ekas tad-anyaḥ saṃśayātmakaḥ ||Panc_1.12||  
-
-  
-tac ca vāṇijyaṃ sapta-vidham arthāgamāya syāt | tad yathā gāndhika-vyavahāraḥ, nikṣepa-praveśaḥ, goṣṭhika-karma, paricita-grāhakāgamaḥ, mithyā-kraya-kathanam, kūṭa-tulā-mānam, deśāntarād bhāṇḍānayanaṃ ceti | uktaṃ ca-  
-
-  
-paṇyānāṃ gāndhikaṃ paṇyaṃ kim anyaiḥ kāñcanādibhiḥ |
-  
-yatraikena ca yat krītaṃ tac chatena pradīyate ||Panc_1.13||
-  
-nikṣepe patite harmye śreṣṭhī stauti sva-devatām |
-  
-nikṣepī mriyate tubhyaṃ pradāsyāmy upayācitam ||Panc_1.14||
-  
-goṣṭhika-karma-niyuktaḥ śreṣṭhī cintayati cetasā hṛṣṭaḥ |
-  
-vasudhā vasu-sampūrṇā mayādya labdhā kim anyena ||Panc_1.15||
-  
-paricitam āgacchantaṃ grāhakam utkaṇṭhyā vilokayāsau |
-  
-hṛṣyati tad-dhana-labdho yadvat putreṇa jātena ||Panc_1.16||  
-
-  
-anyac ca-
-  
-pūrṇāpūrṇe māne paricita-jana-vañcanaṃ tathā nityam |
-  
-mithyā-krayasya kathanaṃ prakṛtir iyaṃ syāt kirātānām ||Panc_1.17||
-  
-dviguṇaṃ triguṇaṃ vittaṃ bhāṇḍa-kraya-vicakṣaṇāḥ |
-  
-prāpnuvanty udyamāl lokā dūra-deśāntaraṃ gatāḥ ||Panc_1.18||  
-
-  
-ity evaṃ sampradhārya mathurā-gāmīni bhāṇḍāny ādāya śubhāyāṃ tithau guru-janānujñātaḥ surathādhirūḍhaḥ prasthitaḥ | tasya ca maṅgala-vṛṣabha saṃjīvaka-nandaka-nāmānau gṛhotpannau dhūrvoḍhārau sthitau | tayor ekaḥ saṃjīvakābhidhāno yamunā-kaccham avatīrṇaḥ sampaṅka-pūram āsādya kalita-caraṇo yuga-bhaṅgaṃ vidhāya viṣasāda |  
-
-  
-atha taṃ tad-avastham ālokya vardhamānaḥ paraṃ viṣādam āgamat | tad arthaṃ ca snehārdra-hṛdayas tri-rātraṃ prayāṇa-bhaṅgam akarot | atha taṃ viṣaṇṇam ālokya sāṛthikair abhihitam- bhoḥ śreṣṭhin ! kim evaṃ vṛṣabhasya kṛte siṃha-vyāghra-samākule bahv-apāye'smin vane samasta-sārthas tvayā sandehe niyojitaḥ | uktaṃ ca-  
-
-  
-na svalpasya kṛte bhūri nāśayen matimān naraḥ |
-  
-etad evātra pāṇḍityaṃ yat svalpād bhūri-rakṣaṇam ||Panc_1.19||  
-
-  
-athāsau tad avadhārya saṃjīvakasya rakṣā-puruṣān nirūpyāśeṣa-sārthaṃ nītvā prasthitaḥ | atha rakṣā-puruṣā api bahv-apāyaṃ tad-vanaṃ viditvā saṃjīvakaṃ parityajya pṛṣṭhato gatvā'nyedyus taṃ sārthavāhaṃ mithyāhuḥ- svāmin, mṛto 'sau saṃjīvakaḥ | asmābhis tu sārthavāhasyābhīṣṭa iti matvā vahninā saṃskṛtaḥ iti |   
-
-  
-tac chrutvā sārthavāhaḥ kṛtajñatayā snehārdra-hṛdayas tasyaurdhva-dehika-kriyā vṛṣotsargādikāḥ sarvāś cakāra | saṃjīvako 'py āyuḥ-śeṣatayā yamunā-salila-miśraiḥ śiśirataravātair āpyāyita-śarīraḥ kathaṃcid apy utthāya yamunā-taṭam upapede | tatra marakata-sadṛśāni bāla-tṛṇāgrāṇi bhakṣayan katipayair ahobhir hara-vṛṣabha iva pīnaḥ kakudmān balavāṃś ca saṃvṛttaḥ | pratyahaṃ valmīka-śikharāgrāṇi śṛṅgābhyāṃ vidārayan garjamāna āste | sādhu cedam ucyate-  
-
-  
-arakṣitaṃ tiṣṭhati deva-rakṣitaṃ
-  
-surakṣitaṃ deva-hataṃ vinaśyati |
-  
-jīvaty anātho 'pi vane visarjitaḥ
-  
-kṛta-prayatno 'pi gṛhe vinaśyati ||Panc_1.20||  
-
-  
-atha kadācit piṅgalako nāma siṃhaḥ sarva-mṛga-parivṛtaḥ pipāsākula udaka-pānārthaṃ yamunā-taṭam avatīrṇaḥ saṃjīvakasya gambhīratara-rāvaṃ dūrād evāśṛṇot | tac chrutvā'tīva vyākula-hṛdayaḥ sasādhvasam ākāraṃ pracchādya baṭa-tale catur-maṇḍalāvasthānenāvasthitaḥ | caturmaṇḍalāvasthānaṃ tv idaṃ- siṃhaḥ siṃhānuyāyinaḥ kākaravāḥ kivṛttā iti |   
-
-  
-atha tasya karaṭaka-damanaka-nāmānau dvau śṛgālau mantri-putrau bhraṣṭādhikārau sadānuyāyināv āstām | tau ca parasparaṃ mantrayataḥ | tatra damanako 'bravīt- bhadra karaṭaka, ayaṃ tāvad asmat-svāmī piṅgalaka udaka-grahaṇārthaṃ yamunā-kaccham avatīrya sthitaḥ | sa kiṃ nimittaṃ pipāsākulo 'pi nivṛttya vyūha-racanāṃ vidhāya daurmanasyenābhibhūto 'tra baṭa-tale sthitaḥ |   
-
-  
-karaṭaka āha- bhadra kim āvayor anena vyāpāreṇa uktaṃ ca yataḥ-  
-
-  
-avyāpareṣu vyāpāraṃ yo naraḥ kartum icchati |
-  
-sa eva nidhanaṃ yāti kīlotpāṭīva vānaraḥ ||Panc_1.21||  
-
-  
-kathā 1
-  
-kīlotpāṭi-vānara-kathā   
-
-  
-kasmiṃścin nagarābhyāśe kenāpi vaṇik-putreṇa taru-khaṇḍa-madhye devatāyatanaṃ kartum ārabdham | tatra ca ye karmakarāḥ sthāpanādayaḥ | te madhyāhna-belāyām āhārārthaṃ nagara-madhye gacchanti | atha kadācit tatrānuṣaṅgikaṃ vānara-yūtham itaś cetaś ca paribhramad āgatam | tatraikasya kasyacic chilpino 'rdha-sphāṭito 'ñjana-vṛkṣa-dārumayaḥ stambhaḥ khadira-kīlakena madhya-nihitena tiṣṭhati | etasminn antare te vānarās taru-śikhara-prasāda-śṛṅga-dāru-paryanteṣu yathecchayā krīḍitum ārabdhāḥ | ekaś ca teṣāṃ pratyāsanna-mṛtyuś cāpalyāt tasminn ardha-sphoṭita-stambhe upaviśya pāṇibhyāṃ kīlakaṃ saṃgṛhya yāvad utpādayitum ārebhe tāvat tasya stambha-madhya-gata-vṛṣaṇasya sva-sthānāc calita-kīlakena yad vṛttaṃ tat prāg eva niveditam
-  
-| ato 'haṃ bravīmi- avyāpāreṣu iti | āvayor bhakṣita-śeṣa āhāro 'sty eva | tat kim anena vyāpāreṇa | damanaka āha tat kiṃ bhavān āhārārthī kevalam eva | tan na yuktam | uktaṃ ca-  
-
-  
-suhṛdām upakāraṇād dviṣatām apy apakāraṇāt |
-  
-nṛpa-saṃśraya iṣyate budhair jaṭharaṃ ko na bibharti kevalam ||Panc_1.22||  
-
-  
-kiṃ ca-
-  
-yasmiñ jīvanti jīvanti bahavaḥ so 'tra jīvatu |
-  
-vayāṃsi kiṃ na kurvanti cañcvā svodara-pūraṇam ||Panc_1.23||
-  
-tathā ca-
-  
-yaj jīvyate kṣaṇam api prathitaṃ manuṣyair
-  
-vijñāna-śaurya-vibhavārya-guṇaiḥ sametam |
-  
-tan nāma jīvitam iha pravadanti taj-jñāḥ
-  
-kāko 'pi jīvati cirāya baliṃ ca bhuṅkte ||Panc_1.24||  
-
-  
-yo nātmanā na ca pareṇa ca bandhu-varge
-  
-dīne dayāṃ na kurute na ca martya-varge |
-  
-kiṃ tasya jīvita-phalaṃ hi manuṣya-loke
-  
-kāko 'pi jīvati cirāya baliṃ ca bhuṅkte ||Panc_1.25||  
-
-  
-supūrā syāt kunadikā supūro mūṣikāñjaliḥ |
-  
-susaṃtuṣṭaḥ kāpuruṣaḥ svalpakenāpi tuṣyati ||Panc_1.26||  
-
-  
-kiṃ ca-
-  
-kiṃ tena jātu jātena māṭur yauvana-hāriṇā |
-  
-ārohati na yaḥ svasya vaṃśasyāgre dhvajo yathā ||Panc_1.27||
-  
-parivartini saṃsāre mṛtaḥ ko vā na jāyate |
-  
-jātas tu gaṇyate so 'tra yaḥ sphurec ca śriyādhikaḥ ||Panc_1.28||  
-
-  
-kiṃ ca-
-  
-jātasya nadī-tīre tasyāpi tṛṇasya janma-sāphalyam |
-  
-yat salila-majjanākula-jana-hastālambanaṃ bhavati ||Panc_1.29||  
-
-  
-tathā ca-
-  
-stimitonnata-sañcārā jana-santāpa-hāriṇaḥ |
-  
-jāyante viralā loke jaladā iva sajjanāḥ ||Panc_1.30||  
-
-  
-niratiśayaṃ garimāṇaṃ tena 
-  
-jananyāḥ smaranti vidvāṃsaḥ |
-  
-yat kam api vahati garbhaṃ
-  
-mahatām api yo gurur bhavati ||Panc_1.31||  
-
-  
-aprakaṭīkṛta-śaktiḥ śakto 'pi janas tiraskriyāṃ labhate |
-  
-nivasann antar-dāruṇi laṅghyo vahnir na tu jvalitaḥ ||Panc_1.32||  
-
-  
-karaṭaka āha- āvāṃ tāvad apradhānau tat kim āvayor anena vyāpareṇa |  
-
-  
-uktaṃ ca-
-  
-apṛṣṭo 'trāpradhāno yo brūte rājñaḥ puraḥ kudhīḥ |
-  
-na kevalam asaṃmānaṃ labhate ca viḍambanam ||Panc_1.33||  
-
-  
-tathā ca-
-  
-vacas tatra prayoktavyaṃ yatroktaṃ labhate phalam |
-  
-sthāyī bhavati cātyantaṃ rāgaḥ śukla-paṭe yathā ||Panc_1.34||  
-
-  
-damaka āha- mā maivaṃ vada |
-  
-apradhānaḥ pradhānaḥ syāt sevate yadi pārthivam |
-  
-pradhāno 'py apradhānaḥ syād yadi sevā-vivarjitaḥ ||Panc_1.35||  
-
-  
-yata uktaṃ ca-
-  
-āsannam eva nṛpatir bhajate manuṣyaṃ 
-  
-vidyā-vihīnam akulīnam asaṃskṛtaṃ vā |
-  
-prāyeṇa bhūmi-patayaḥ pramadā latāś ca
-  
-yat pārśvato bhavati tat pariveṣṭayanti ||Panc_1.36||  
-
-  
-tathā ca-
-  
-kopa-prasāda-vastūni ye vicinvanti sevakāḥ |
-  
-ārohanti śanaiḥ paścād dhunvantam api pārthivam ||Panc_1.37||
-  
-vidyāvatāṃ mahecchānāṃ śilpa-vikrama-śālinām |
-  
-sevā-vṛtti-vidāṃ caiva nāśrayaḥ pārthivaṃ vinā ||Panc_1.38||
-  
-ye jāty-ādi-mahotsāhān narendrān nopayānti ca |
-  
-teṣām āmaraṇaṃ bhikṣā prāyaścittaṃ vinirmitam ||Panc_1.39||
-  
-ye ca prāhur durātmāno durārādhyā mahībhujaḥ |
-  
-pramādālasya-jāḍyāni khyāpitāni nijāni taiḥ ||Panc_1.40||
-  
-sarpān vyāghrān gajān siṃhān dṛṣṭvopāyair vaśīkṛtān |
-  
-rājeti kiyatī mātrā dhīmatām apramādinām ||Panc_1.41||
-  
-rājānam eva saṃśritya vidvān yāti parāṃ gatim |
-  
-vinā malayam anyatra candanaṃ na prarohati ||Panc_1.42||
-  
-dhavalāny ātapatrāṇi vājinaś ca manoramāḥ |
-  
-sadā mattāś ca mātaṅgāḥ prasanne sati bhūpatau ||Panc_1.43||
-  
-karaṭaka āha- atha bhavān kiṃ kartumanāḥ ?   
-
-  
-so 'bravīt- adyāsmat-svāmī piṅgalako bhīto bhīta-parivāraś ca vartate | tadainaṃ gatvā bhaya-kāraṇaṃ vijñāya sandhi-vigraha-yāna-āsana-saṃśraya-dvaidhī-bhāvānām ekatamena saṃvidhāsye |  
-
-  
-karaṭaka āha- kathaṃ vetti bhavān yad bhayāviṣṭo 'yaṃ svāmī ?  
-
-  
-so 'bravīt- jñeyaṃ kim atra ? yata uktaṃ ca-  
-
-  
-udīrito 'rthaḥ paśunāpi gṛhate
-  
-hayāś ca nāgāś ca vahanti coditāḥ |
-  
-anuktam apy ūhati paṇḍito janaḥ
-  
-pareṅgita-jñāna-phjalā hi buddhayaḥ ||Panc_1.44||  
-
-  
-tathā ca manuḥ (8.26)-  
-
-  
-ākārair iṅgitair gatyā ceṣṭayā bhāṣaṇena ca |
-  
-netra-vaktra-vikāraiś ca lakṣyate'ntargataṃ manaḥ ||Panc_1.45||  
-
-  
-tad adyainaṃ bhayākulaṃ prāpya sva-buddhi-prabhāvena nirbhayaṃ kṛtvā vaśīkṛtya ca nijāṃ sācivya-padavīṃ samāsādayiṣyāmi |  
-
-  
-karaṭaka āha- anabhijño bhavān sevā-dharmasya | tat katham enaṃ vaśīkariṣyasi ?   
-
-  
-so 'bravīt- katham ahaṃ sevānabhijñaḥ ? mayā hi tātotsaṅge krīḍatābhyāgata-sādhūnāṃ nīti-śāstraṃ paṭhatā yac chrutaṃ sevā-dharmasya sāraṃ tad hṛdi sthāpitam | śrūyatāṃ tac cedam-  
-
-  
-suvarṇa-puṣpitāṃ pṛthvīṃ vicinvanti narās trayaḥ |
-  
-śūraś ca kṛta-vidyaś ca yaś ca jānāti sevitum ||Panc_1.46||
-  
-sā sevā yā prabhu-hitā grāhyā vākya-viśeṣataḥ |
-  
-āśrayet pārthivaṃ vidvāṃs tad-dvāreṇaiva nānyathā ||Panc_1.47||
-  
-yo na vetti guṇān yasya na taṃ seveta paṇḍitaḥ |
-  
-na hi tasmāt phalaṃ kiñcit sukṛṣṭād ūṣarād iva ||Panc_1.48||
-  
-dravya-kṛti-hīno 'pi sevyaḥ sevya-guṇānvitaḥ |
-  
-bhavaty ājīvanaṃ tasmāt phalaṃ kālāntarād api ||Panc_1.49||
-  
-api sthāṇuvad āsīnaḥ śuṣyan parigataḥ kṣudhā |
-  
-na tv ajñānātma-sampannād vṛttim īhate paṇḍitaḥ ||Panc_1.50||
-  
-sevakaḥ svāminaṃ dveṣṭi kṛpaṇaṃ paruṣākṣaram |
-  
-ātmānaṃ kiṃ sa na dveṣṭi sevyāsevyaṃ na vetti yaḥ ||Panc_1.51||
-  
-yasyāśritya viśrāmaṃ kṣudhārtā yānti sevakāḥ |
-  
-so 'rkavan nṛpatis tyājyaḥ sadā puṣpa-phalo 'pi san ||Panc_1.52||
-  
-rāja-mātari devyāṃ ca kumāre mukhya-mantriṇi |
-  
-purohite pratīhāre sadā varteta rājavat ||Panc_1.53||
-  
-jīveti prabruvan proktaḥ kṛtyākṛtya-vicakṣaṇaḥ |
-  
-karoti nirvikalpaṃ yaḥ sa bhaved rāja-vallabhaḥ ||Panc_1.54||
-  
-prabhu-prasādajaṃ vittaṃ suprāptaṃ yo nivedayet |
-  
-vastrādyaṃ ca dadhāty aṅge sa bhaved rāja-vallabhaḥ ||Panc_1.55||
-  
-antaḥ-pura-caraiḥ sārdhaṃ yo na mantraṃ samācaret |
-  
-na kalatrair narendrasya sa bhaved rāja-vallabhaḥ ||Panc_1.56||
-  
-dyūtaṃ yo yama-dūtābhaṃ hālāṃ hālāhalopamam |
-  
-paśyed dārān vṛthākārān sa bhaved rāja-vallabhaḥ ||Panc_1.57||
-  
-yuddha-kāle'graṇīr yaḥ syāt sadā pṛṣṭhānugaḥ pure |
-  
-prabhor dvārāśrito harmye sa bhaved rāja-vallabhaḥ ||Panc_1.58||
-  
-sammato 'haṃ vibhor nityam iti matvā vyatikramet |
-  
-kṛcchreṣv api na maryādāṃ sa bhaved rāja-vallabhaḥ ||Panc_1.59||
-  
-dveṣi-dveṣa-paro nityam iṣṭānām iṣṭa-karma-kṛt |
-  
-yo naro nara-nāthasya sa bhaved rāja-vallabhaḥ ||Panc_1.60||
-  
-proktaḥ pratyuttaraṃ nāha viruddhaṃ prabhunā na yaḥ |
-  
-na samīpe hasaty uccaiḥ sa bhaved rāja-vallabhaḥ ||Panc_1.61||
-  
-up raṇaṃ śaraṇaṃ tadvan manyate bhaya-varjitaḥ |
-  
-pravāsaṃ sva-purāvāsaṃ sa bhaved rāja-vallabhaḥ ||Panc_1.62||
-  
-na kuryān naranāthasya yoṣidbhiḥ saha saṃgatim |
-  
-na nindāṃ na vivādaṃ ca sa bhaved rāja-vallabhaḥ ||Panc_1.63||  
-
-  
-karaṭaka āha- atha bhavāṃs tatra gatvā kiṃ tāvat prathamaṃ vakṣyati tat tāvad ucyatām |  
-
-  
-damanaka āha- 
-  
-uttarād uttaraṃ vākyaṃ vadatāṃ samprajāyate |
-  
-suvṛṣṭi-guṇa-sampannād bījād bījam ivāparam ||Panc_1.64||  
-
-  
-apāya-sandarśanajāṃ vipattim 
-  
-upāya-sandarśanajāṃ ca siddhim |
-  
-medhāvino nīti-guṇa-prayuktāṃ 
-  
-puraḥ sphurantīm iva varṇayanti ||Panc_1.65||  
-
-  
-ekeṣāṃ vāci śukavad anyeṣāṃ hṛdi mūkavat |
-  
-hṛdi vāci tathānyeṣāṃ valgu valgantiu sūktayaḥ ||Panc_1.66||  
-
-  
-na ca aham aprāpta-kālaṃ vakṣye | ākarṇitaṃ mayā nīti-sāraṃ pituḥ pūrvam utsaṅgaṃ hi niṣevatā |  
-
-  
-aprāpta-kālaṃ vacanaṃ bṛhaspatir api bruvan |
-  
-labhate bahv-avajñānam apamānaṃ ca puṣkalam ||Panc_1.67||  
-
-  
-karaṭaka āha-
-  
-durārādhyā hi rājānaḥ parvatā iva sarvadā |
-  
-vyālākīrṇāḥ suviṣamāḥ kaṭhinā duṣṭa-sevitāḥ ||Panc_1.68||  
-
-  
-tathā ca-
-  
-bhoginaḥ kañcukāviṣṭāḥ kuṭilāḥ krūra-ceṣṭitāḥ |
-  
-suduṣṭā mantra-sādhyāś ca rājānaḥ pannagā iva ||Panc_1.69||
-  
-dvi-jihvāḥ krūra-karmāṇo 'niṣṭhāś chidrānusāriṇaḥ |
-  
-dūrato 'pi hi paśyanti rājāno bhujagā iva ||Panc_1.70||
-  
-svalpam apy apakurvanti ye'bhīṣṭā hi mahīpateḥ |
-  
-te vahnāv iva dahyante pataṅgāḥ pāpa-cetasaḥ ||Panc_1.71||
-  
-durārohaṃ padaṃ rājñāṃ sarva-loka-namaskṛtam |
-  
-svalpenāpy apakāreṇa brāhmaṇyam iva duṣyati ||Panc_1.72||
-  
-durārādhyāḥ śriyo rājñāṃ durāpā duṣparigrahāḥ |
-  
-tiṣṭhanty āpa ivādhāre ciram ātmani saṃsthitāḥ ||Panc_1.73||  
-
-  
-damanaka āha- satyam etat param | kintu-  
-
-  
-yasya yasya hi yo bhāvas tena tena samācaret |
-  
-anupraviśya medhāvī kṣipram ātma-vaśaṃ nayet ||Panc_1.74||
-  
-bhartuś cittānuvartitvaṃ suvṛttaṃ cānujīvinām |
-  
-rākṣasāś cāpi gṛhyante nityaṃ chandānuvartibhiḥ ||Panc_1.75||
-  
-saruṣi nṛpe stuti-vacanaṃ tad-abhimate prema tad-dviṣi dveṣaḥ |
-  
-tad-dānasya ca śaṃsā amantra-tantraṃ vaśīkaraṇam ||Panc_1.76||  
-
-  
-karaṭaka āha- yady evam abhimataṃ tarhi śivās te panthānaḥ santu | yathābhilaṣitam anuṣṭhīyatām | so 'pi praṇamya piṅgalakābhimukhaṃ pratasthe |  
-
-  
-athāgacchantaṃ damanakam ālokya piṅgalako dvāstham abravīt- apasāryatāṃ vetra-latā | ayam asmākaṃ cirantano mantriputro damanako 'vyāhata-praveśaḥ | tat praveśyatāṃ dvitīya-maṇḍala-bhāgī | iti |  
-
-  
-sa āha- yathāvādīd bhavān iti |  
-
-  
-athopasṛtya damanako nirdiṣṭa āsane piṅgalakaṃ praṇamya prāptānujña upaviṣṭaḥ | sa tu tasya naka-kuliśālaṅkṛtaṃ dakṣiṇa-pāṇim upari dattvā māna-puraḥ-saram uvāca- api śivaṃ bhavataḥ | kasmāc cirād dṛṣṭo 'si ?   
-
-  
-damanaka āha- na kiṃcid deva-pādānām asmābhiḥ prayojanam | paraṃ bhavatāṃ prāpta-kālaṃ vaktavyam yata uttama-madhyamādhamaiḥ sarvair api rājñāṃ prayojanam | uktaṃ ca-  
-
-  
-dantasya niṣkoṣaṇakena nityaṃ 
-  
-karṇasya kaṇḍūyanakena vāpi |
-  
-tṛṇena kāryaṃ bhavatīśvarāṇāṃ
-  
-kim āṅga vāggha-stavatā nareṇa ||Panc_1.77||  
-
-  
-tathā vayaṃ deva-pādānām anvayāgatā bhṛtyā āpatsv api pṛṣṭha-gāmino yadyapi svam adhikāraṃ na labhāmahe tathāpi deva-pādānām etad yuktaṃ na bhavati | uktaṃ ca-  
-
-  
-sthāneṣv eva niyoktavyā bhṛtyā ābharaṇāni ca |
-  
-na hi cūḍāmaṇiḥ pāde prabhavāmīti badhyate ||Panc_1.78||  
-
-  
-yataḥ-
-  
-anabhijño guṇānāṃ yo na bhṛtyair anugamyate |
-  
-dhanāḍhyo 'pi kulīno 'pi kramāYāto 'pi bhūpatiḥ ||Panc_1.79||  
-
-  
-uktaṃ ca-
-  
-asamaiḥ samīyamānaḥ samaiś ca 
-  
-parihīyamāṇa-sat-kāraḥ |
-  
-dhuri yo na yujyamānas tribhir 
-  
-artha-patiṃ tyajati bhṛtyaḥ ||Panc_1.80||  
-
-  
-yac cāvivekitayā rājñā bhṛtyānuttama-pada-yogyān hīnādhama-sthāne niyojayati, na te tatraiva sa bhūpater doṣo na teṣām | uktaṃ ca-  
-
-  
-kanaka-bhūṣaṇa-saṅgrahaṇocito
-  
-yadi maṇis trapuṇi pratibadhyate |
-  
-na sa virauti na cāpi sa śobhate
-  
-bhavati yojayitur vacanīyatā ||Panc_1.81||  
-
-  
-yac ca svāmy evaṃ vadati cirād dṛśyate | tad api śrūyatām-  
-
-  
-savya-dakṣiṇayor yatra viśeṣo nāsti hastayoḥ |
-  
-kas tatra kṣaṇam apyāryo vidyamāna-gatir bhavet ||Panc_1.82||
-  
-kāce maṇir maṇau kāco yeṣāṃ buddhir vikalpate |
-  
-na teṣāṃ sannidhau bhṛtyo nāma-mātro 'pi tiṣṭhati ||Panc_1.83||  
-
-  
-parīkṣakā yatra na santi deśe
-  
-nārghanti ratnāni samudrajāni |
-  
-ābhīra-deśe kila candrakāntaṃ
-  
-tribhir varāṭair vipaṇanti gopāḥ ||Panc_1.84||  
-
-  
-lohitākhyasya ca maṇeḥ padmarāgasya cāntaram |
-  
-yatra nāsti kathaṃ tatra kriyate ratna-vikrayaḥ ||Panc_1.85||
-  
-nirviśeṣaṃ yadā svāmī samaṃ bhṛtyeṣu vartate |
-  
-tatrodyama-samarthānām utsāhaḥ parihīyate ||Panc_1.86||
-  
-na vinā pārthivo bhṛtyair na bhṛtyāḥ pārthivaṃ vinā |
-  
-teṣāṃ ca vyavahāro 'yaṃ paraspara-nibandhanaḥ ||Panc_1.87||
-  
-bhṛtyair vinā svayaṃ rājā lokānugraha-kāribhiḥ |
-  
-mayūkhair iva dīptāṃśus tejasvy api na śobhate ||Panc_1.88||
-  
-araiḥ sandhāryate nābhir nābhau cārāḥ pratiṣṭhitāḥ |
-  
-svāmi-sevakayor evaṃ vṛtti-cakraṃ pravartate ||Panc_1.89||
-  
-śirasā vidhṛtā nityaṃ snehena paripālitāḥ |
-  
-keśā api virajyante niḥsnehāḥ kiṃ na sevakāḥ ||Panc_1.90||
-  
-rājā tuṣṭo hi bhṛtyānām artha-mātraṃ prayacchati |
-  
-te tu saṃmāna-mātreṇa prāṇair apy upakurvate ||Panc_1.91||
-  
-evaṃ jñātvā narendreṇa bhṛtyāḥ kāryā vicakṣaṇāḥ |
-  
-kulīnāḥ śaurya-saṃyuktāḥ śaktā bhaktāḥ kramāgatāḥ ||Panc_1.92||
-  
-yaḥ kṛtvā sukṛtaṃ rājño duṣkaraṃ hitam uttamam |
-  
-lajjayā vakti no kiñcit tena rājā sahāyavān ||Panc_1.93||
-  
-yasmin kṛtyaṃ samāveśya nirviśaṅkena cetasā |
-  
-āsyate sevakaḥ sa syāt kalatram iva cāparam ||Panc_1.94||
-  
-yo 'nāhūtaḥ samabhyeti dvāri tiṣṭhati sarvadā |
-  
-pṛṣṭhaḥ satyaṃ mitaṃ brūte sa bhṛtyo 'rho mahībhujām ||Panc_1.95||
-  
-anādiṣṭo 'pi bhūpasya dṛṣṭvā hānikaraṃ ca yaḥ |
-  
-yatate tasya nāśāya sa bhṛtyo 'rho mahībhujām ||Panc_1.96||
-  
-tāḍito 'pi durukto 'pi daṇḍito 'pi mahībhujā |
-  
-yo na cintayate pāpaṃ sa bhṛtyo 'rho mahībhujām ||Panc_1.97||
-  
-na garvaṃ kurute māne nāpamāne ca tapyate |
-  
-svākāraṃ rakṣayed yas tu sa bhṛtyo 'rho mahībhujām ||Panc_1.98||
-  
-na kṣudhā pīḍyate yas tu nidrayā na kadācana |
-  
-na ca śītātapādyaiś ca sa bhṛtyo 'rho mahībhujām ||Panc_1.99||
-  
-śrutvā sāṃgrāmikīṃ vārtāṃ bhaviṣyāṃ svāminaṃ prati |
-  
-prasannāsyo bhaved yas tu sa bhṛtyo 'rho mahībhujām ||Panc_1.100||
-  
-sīmā vṛddhiṃ samāyāti śukla-pakṣa ivoḍurāṭ |
-  
-niyoga-saṃsthite yasmin sa bhṛtyo 'rho mahībhujām ||Panc_1.101||
-  
-sīmā saṃkocam āyāti vahnau carma ivāhitam |
-  
-sthite yasmin sa tu tyājyo bhṛtyo rājyaṃ samīhatā ||Panc_1.102||  
-
-  
-tathā śṛgālo 'yam iti manyamānena mamopari svāminā yady avajñā kriyate tad apy ayuktam | uktaṃ ca yataḥ-  
-
-  
-kauśeyaṃ kṛmijaṃ suvarṇam upalād durvāpi goromataḥ
-  
-paṅkāt tāmarasaṃ śaśāṅka udadher indīvaraṃ gomayāt |
-  
-kāṣṭhād agnir aheḥ phaṇād api maṇir go-pittato rocanā
-  
-prākāśyaṃ sva-guṇodayena guṇino gacchanti kiṃ janmanā ||Panc_1.103||  
-
-  
-mūṣikā gṛha-jātāpi hantavyā svāpa-kāriṇī |
-  
-bhakṣya-pradānair jāro hitakṛt prāpyate janaiḥ ||Panc_1.104||
-  
-eraṇḍa-bhiṇḍārka-nalaiḥ prabhūtair api sañcitaiḥ |
-  
-dāru-kṛtyaṃ yathā nāsti tathaivājñaiḥ prayojanam ||Panc_1.105||
-  
-kiṃ bhaktenāsamarthena kiṃ śakternāpakāriṇā |
-  
-bhaktaṃ śaktaṃ ca māṃ rājan nāvajñātuṃ tvam arhasi ||Panc_1.106||  
-
-  
-piṅgalaka āha- bhavatv evaṃ tāvat | asamarthaḥ samartho vā cirantanas tvam asmākaṃ mantri-putraḥ | tad viśrabdhaṃ brūhi yat kiñcid vaktukāmaḥ |  
-
-  
-damanaka āha- deva jijñāpyaṃ kiñcid asti |   
-
-  
-piṅgalaka āha- tan nivedayābhipretam |  
-
-  
-so 'bravīt-
-  
-api svalpataraṃ kāryaṃ yad bhavet pṛthivī-pateḥ |
-  
-tan na vācyaṃ sabhā-madhye provācedaṃ bṛhaspatiḥ ||Panc_1.107||  
-
-  
-tad aikāntike mad-vijñāpyam ākarṇayantu deva-pādāḥ | yataḥ-  
-
-  
-ṣaṭ-karṇo bhidyate mantraś catuṣkarṇaḥ sthiro bhavet |
-  
-tasmāt sarva-prayatnena ṣaṭkarṇaṃ varjayet sudhīḥ ||Panc_1.108||  
-
-  
-atha piṅgalakābhiprāyajñā vyāghra-dvīpi-vṛka-puraḥsarā sarve'pi tad-vacaḥ samākarṇya saṃsadi tat-kṣaṇād eva dūrībhūtāḥ | tataś ca damanaka āha- udaka-grahaṇārthaṃ pravṛttasya svāminaḥ kim iha nivṛttyāvasthānam |  
-
-  
-piṅgalaka āha savilakṣa-smitam- na kiñcid api |   
-
-  
-so 'bravīt- deva yady anākhyeyaṃ tat tiṣṭhatu | uktaṃ ca-  
-
-  
-dariṣu kiñcit svajaneṣu kiñcid 
-  
-gopyaṃ vayasyeṣu suteṣu kiñcit |
-  
-yuktaṃ na vā yuktam idaṃ vicintya
-  
-vaded vipaścin mahato 'nurodhāt ||Panc_1.[*100]  
-
-  
-tac chrutvā piṅgalakaś cintayāmāsa- yogyo 'yaṃ dṛśyate | tat kathayāmy etasyāgre ātmano 'bhiprāyam | uktaṃ ca-  
-
-  
-svāmini guṇāntarajñe guṇavati bhṛtye'nuvartini kalaye |
-  
-suhṛdi nirantara-citte nivedya duḥkhaṃ sukhī bhavati ||Panc_1.[*101]  
-
-  
-bho damanaka śṛṇoṣi śabdaṃ dūrān mahāntam |   
-
-  
-so 'bravīt- svāmin śṛṇomi | tat kim |  
-
-  
-piṅgalaka āha- bhadra aham asmād vanād gantum icchāmi | 
-  
-damanaka āha- kasmāt |  
-
-  
-piṅgalaka āha - yato 'dyasmad-vane kim apy apūrvaṃ sattvaṃ praviṣṭaṃ yasyāyaṃ mahā-śabdaḥ śrūyate | tasya ca śabdānurūpeṇa parākrameṇa bhavitavyam iti |   
-
-  
-damanaka āha- yac-chabda-mātrād api bhayam upagataḥ svāmī tad apy ayuktam | uktaṃ ca-
-  
-ambhasā bhidyate setus tathā mantro 'py arakṣitaḥ |
-  
-paiśunyād bhidyate sneho bhidyate vāgbhir āturaḥ ||Panc_1.111||  
-
-  
-tan na yuktaṃ svāminaḥ pūrvopārjitaṃ vanaṃ tyaktum | yato bherī-veṇu-vīnā-mṛdaṅga-tāla-paṭaha-śaṅkha-kāhalādi-bhedena śabdā aneka-vidhā bhavanti | tan na kevalāc chabda-mātrād api bhetavyam | uktaṃ ca-  
-
-  
-atyutkaṭe ca raudre ca śatrau prāpte na hīyate |
-  
-dhairyaṃ yasya mahīnātho na sa yāti parābhavam ||Panc_1.112||
-  
-darśita-bhaye'pi dhātari dhairya-dhvaṃso bhaven na dhīrāṇām |
-  
-śoṣita-sarasi nidāghe nitarām evoddhataḥ sindhuḥ ||Panc_1.113||  
-
-  
-tathā ca-
-  
-yasya na vipadi viṣādaḥ sampadi harṣo raṇe na bhīrutvam |
-  
-taṃ bhuvana-traya-tilakaṃ janayati jananī sutaṃ viralam ||Panc_1.114||  
-
-  
-tathā ca-
-  
-śakti-vaikalya-namrasya niḥsāratvāl laghīyasaḥ |
-  
-jannimo mānahīnasya tṛṇasya ca samā gatiḥ ||Panc_1.115||  
-
-  
-api ca-
-  
-anya-pratāpam āsādya yo dṛḍhatvaṃ na gacchati |
-  
-jatujābharaṇasyeva rūpeṇāpi hi tasya kim ||Panc_1.116||  
-
-  
-tad evaṃ jñātvā svāminā dhairyāvaṣṭambhaḥ kāryaḥ | na śabda-mātrād bhetavyam | api ca-  
-
-  
-pūrvam eva mayā jñātaṃ pūrṇam etad dhi medasā |
-  
-anupraviśya vijñātaṃ yāvac carma ca dāru ca ||Panc_1.117||  
-
-  
-piṅgalaka āha- katham etat |   
-
-  
-so 'bravīt-   
-
-  
-kathā 2
-  
-śṛgāla-dundubhi-kathā   
-
-  
-kaścid gomāyur nāma śṛgālaḥ kṣutkṣāma-kaṇṭhaḥ itas tataḥ paribhraman vane sainya-dvaya-saṃgrāma-bhūmim apaśyat | tasyāṃ ca dundubheḥ patitasya vāyu-vaśād vallī-śākhāgrair hanyamānasya śabdam aśṛṇot | atha kṣubhita-hṛdayaś cintayāmāsa aho vinaṣṭo 'smi | tad yāvan nāsya proccārita-śabdasya dṛṣṭi-gocare gacchāmi tāvad anyato vrajāmi | athavā naitad yujyate sahasaiva |  
-
-  
-bhaye vā yadi vā harṣe samprāpte yo vimarśayet |
-  
-kṛtyaṃ na kurute vegān na sa santāpam āpnuyāt ||Panc_1.118||  
-
-  
-tat tāvaj jānāmi kasyāyaṃ śabdaḥ | dhairyam ālambya vimarśayan yāvan mandaṃ mandaṃ gacchati tāvad dundubhim apaśyat | sa ca taṃ parijñāya samīpaṃ gatvā svayam eva kautukād atāḍayat | bhūyaś ca harṣād acintayat- aho cirād etad asmākaṃ mahodbhojanam āpatitam | tan nūnaṃ māṃsa-medo 'sṛgbhiḥ paripūritaṃ bhaviṣyati | tataḥ paruṣa-carmāvaguṇṭhitaṃ tat katham api vidāryaikadeśe chidraṃ kṛtvā saṃhṛṣṭa-manā madhye praviṣṭaḥ | paraṃ carma-vidāraṇato daṃṣṭrābhaṅgaḥ samajani | atha nirāśībhūtas tad-dāru-śeṣam avalokya ślokam enam apaṭhat pūrvam eva mayā jñātam iti | ato na śabda-mātrād bhetavyam |   
-
-  
-piṅgalaka āha- bhoḥ paśyāyaṃ mama sarvo 'pi parigraho bhaya-vyākulita-manāḥ palāyitum icchati | tat katham ahaṃ dhairyād avaṣṭambhaṃ karomi |   
-
-  
-so 'bravīt- svāmin naiṣām eṣa doṣaḥ | yataḥ svāmi-sadṛśā evaṃ bhavanti bhṛtyāḥ | uktaṃ ca-  
-
-  
-aśvaḥ śastraṃ śāstraṃ vīṇā vāṇī naraś ca nārī ca |
-  
-puruṣa-viśeṣaṃ prāptā bhavanty ayogyāś ca yogyāś ca ||Panc_1.119||  
-
-  
-tat-pauruṣāvaṣṭaṃ kṛtvā tvaṃ tāvad atraiva pratipālaya yāvad aham etac chabda-svarūpaṃ jñātvāgacchāmi | tataḥ paścād yathocitaṃ kāryam iti |  
-
-  
-piṅgalaka āha- kiṃ tatra bhavān gantum utsahate |   
-
-  
-sa āha- kiṃ svāmy-ādeśāt sad-bhṛtya kṛtyākṛtyam asti | uktaṃ ca-  
-
-  
-svāmy-ādeśāt subhṛtyasya na bhoḥ sañjāyate kvacit |
-  
-praviśen mukham āheyaṃ dustaraṃ vā mahārṇavam ||Panc_1.120||  
-
-  
-tathā ca-
-  
-svāmy-ādiṣṭas tu yo bhṛtyaḥ samaṃ viṣamam eva ca |
-  
-manyate na sa sandhāryo bhūbhujā bhūtim icchatā ||Panc_1.121||  
-
-  
-piṅgalaka āha- bhadraṃ, yady evaṃ tad gaccha | śivās te panthānaḥ santu iti |  
-
-  
-damanako 'pi tam praṇamya saṃjīvaka-śabdānuṣarī pratasthe |  
-
-  
-atha damanake gate bhaya-vyākula-manāḥ piṅgalakaś cintayāmāsa- aho na śobhanaṃ kṛtaṃ mayā | yat tasya viśvāsaṃ gatvātmābhiprāyo niveditaḥ | kadācid damanako 'yam ubhaya-vetano bhūtvā mamopari duṣṭa-buddhiḥ syād bhraṣṭādhikāratvāt | uktaṃ ca-  
-
-  
-ye bhavanti mahīpasya sammānita-vimānitāḥ |
-  
-yatante tasya nāśāya kulīnā api sarvadā ||Panc_1.122||  
-
-  
-tat tāvad asya cikīrṣitaṃ vettum anyat sthānāntaraṃ gatvā pratipālayāmi | kadācid damanakas tam ādāya māṃ vyāpādayitum icchati | uktaṃ ca-  
-
-  
-na badhyante hy aviśvastā balibhir durbalā api |
-  
-viśvastās tv eva badhyante balavanto 'pi durbalaiḥ ||Panc_1.123||
-  
-bṛhaspater api prājño na viśvāse vrajen naraḥ |
-  
-ya icched ātmano vṛddhim āyuṣyaṃ ca sukhāni ca ||Panc_1.124||
-  
-śapathaiḥ sandhitasyāpi na viśvāse vrajed ripoḥ |
-  
-rājya-lābhodyato vṛtraḥ śakreṇa śapathair hataḥ ||Panc_1.125||
-  
-na viśvāsaṃ vinā śatrur devānām api siddhyati |
-  
-viśvāsāt tridaśendreṇa diter garbho vidāritaḥ ||Panc_1.126||  
-
-  
-evaṃ sampradhārya sthānāntaraṃ gatvā damanaka-mārgam avalokayann ekākī tasthau | damanako 'pi sañjīvaka-sakāśaṃ gatvā vṛṣabho 'yam iti parijñāya hṛṣṭa-manā vyacintayat- aho śobhanam āpatitam | anenaitasya sandhi-vigraha-dvāreṇa mama piṅgalako vaśyo bhaviṣyatīti | uktaṃ ca-  
-
-  
-na kaulīnyān na sauhārdān nṛpo vākye pravartate |
-  
-mantriṇāṃ vāvad abhyeti vyasanaṃ śokam eva ca ||Panc_1.127||
-  
-sadaivāpadgato rājā bhogyo bhavati mantriṇām |
-  
-ataeva hi vāñchanti mantriṇaḥ sāpadaṃ nṛpam ||Panc_1.128||
-  
-yathā necchati nīrogaḥ kadācit sucikitsakam |
-  
-tathāpad rahito rājā sacivaṃ nābhivāñchati ||Panc_1.129||  
-
-  
-evaṃ vicintayan piṅgalakābhimukhaḥ pratasthe | piṅgalako 'pi tam āyāntaṃ prekṣya svākāraṃ rakṣan yathā-pūrva-sthitaḥ damanako 'pi piṅgalaka-sakāśaṃ gatvā praṇamyopaviṣṭaḥ | piṅgalaka āha - kiṃ dṛṣṭaṃ bhavatā tat sattvam ?   
-
-  
-damanaka āha- dṛṣṭaṃ svāmi-prasādāt |  
-
-  
-piṅgalaka āha- api satyam |  
-
-  
-damanaka āha- kiṃ svāmi-pādānām agre'satyaṃ vijñāpyate | uktaṃ ca-  
-
-  
-api svalpam asatyaṃ yaḥ puro vadati bhūbhujām |
-  
-devānāṃ ca vinaśyate sa drutaṃ sumahān api ||Panc_1.130||  
-
-  
-tathā ca-
-  
-sarva-deva-mayo rājā manunā samprakīrtitaḥ |
-  
-tasmāt taṃ devavat paśyen na vyalīkena karhicit ||Panc_1.131||
-  
-sarva-devamayasyāpi viśeṣo nṛpater ayam |
-  
-śubhāśubha-phalaṃ sadyo nṛpād devād bhavāntare ||Panc_1.132||  
-
-  
-piṅgalaka āha- satyaṃ dṛṣṭaṃ bhaviṣyati bhavatā | na dīnipari mahāntaḥ kupyantīti na tvaṃ tena nipātitaḥ | yataḥ-  
-
-  
-tṛṇāni nonmūlayati prabhañjano 
-  
-mrḍūni nīcaiḥ praṇatāni sarvataḥ |
-  
-svabhāva evonnata-cetasām ayaṃ 
-  
-mahān mahatsv eva karoti vikramam ||Panc_1.133||  
-
-  
-api ca-
-  
-gaṇḍasthaleṣu mada-vāriṣu baddha-rāga-
-  
-matta-bhramad-bhramara-pāda-talāhato 'pi |
-  
-kopaṃ na gacchati nitānta-balo 'pi nāgas
-  
-tulye bale tu balavān parikopam eti ||Panc_1.134||  
-
-  
-damanaka āha- astv evaṃ sa mahātmā | vayaṃ kṛpaṇāḥ | tathāpi svāmī yadi kathayati tato bhṛtyatve niyojayāmi |  
-
-  
-piṅgalaka āha socchvāsam- kiṃ bhavān śaknoty evaṃ kartum |  
-
-  
-damanaka āha- kim asādhyaṃ buddher asti | uktaṃ ca-  
-
-  
-na tac chastrair na nāgendrair na hayair na padātibhiḥ |
-  
-kāryaṃ saṃsiddhim abhyeti yathā buddhyā prasādhitam ||Panc_1.135||  
-
-  
-piṅgalaka āha- yady evaṃ tarhy amātya-pade'dhyāropitas tvam | adya-prabhṛti prasāda-nigrahādikaṃ tvayeva kāryam iti niścayaḥ |  
-
-  
-atha damanakaḥ satvaraṃ gatvā sākṣepaṃ tam idam āha- ehy ehīto duṣṭa-vṛṣabha | svāmī piṅgalakas tvām ākārayati | kiṃ niḥśaṅko bhūtvā muhur muhur nadasi vṛthā iti |   
-
-  
-tac chrutvā sañjīvako 'bravīt- bhadra ko 'yaṃ piṅgalakaḥ |  
-
-  
-damanaka āha- kiṃ svāminaṃ piṅgalakam api na jānāsi ? tat-kṣaṇam pratipālaya | phalenaiva jñāsyasi | nanv ayaṃ sarva-mṛga-parivṛto baṭa-tale svāmī piṅgalaka-nāmā siṃhas tiṣṭhati |   
-
-  
-tac chrutvā gatāyuṣam ivātmānam manyamānaḥ sañjīvakaḥ paraṃ viṣādam agamat | āha ca- bhadra bhavān sādhu-samācāro vacana-paṭuś ca dṛśyate | tad yadi mām avaśyaṃ tatra nayasi tad-abhaya-pradānena svāminaḥ sakāśāt prasādaḥ kārayitavyaḥ |   
-
-  
-damanaka āha-bhoḥ satyam abhihitaṃ bhavatā | nītir eṣā yataḥ-  
-
-  
-paryanto labhyate bhūmeḥ samudrasya girer api |
-  
-na kathañcin mahīpasya cittāntaḥ kenacit kvacit ||Panc_1.136||  
-
-  
-tattvam atraiva tiṣṭha yāvad ahaṃ taṃ samaye dṛṣṭvā tataḥ paścāt tvām anayāmi iti | tathānuṣṭhite damanakaḥ piṅgalaka-sakāśaṃ gatvedam āha-svāmin na tat prākṛtaṃ sattvam | sa hi bhagavato maheśvarasya vāhana-bhūto vṛṣabha iti | mayā pṛṣṭa idam ūce | maheśvareṇa parituṣṭena kālindī-parisare śaṣpāgrāṇi bhakṣayituṃ samādiṣṭaḥ | kiṃ bahunā mama pradattaṃ bhagavatā krīḍārthaṃ vanam idam |   
-
-  
-piṅgalaka āha sabhayam-satyaṃ jñātaṃ mayādhunā | na devatā-prasādaṃ vinā śaṣpa-bhojino vyālākīrṇa evaṃvidhe vane niḥśaṅkā nandato bhramanti | tatas tvayā kim abhihitam |   
-
-  
-damanaka āha-svāmin etad abhihitaṃ mayā yad etad-vanaṃ caṇḍikā-vāhana-bhūtasya piṅgalakasya viṣayībhūtam | tad bhavān abhyāgataḥ priyo 'tithiḥ | tat tasya sakāśaṃ gatvā bhrātṛ-snehenaikatra bhakṣaṇa-pāna-viharaṇa-kriyābhir eka-sthānāśrayeṇa kālo neyaḥ iti | tatas tenāpi sarvam etat pratipannam | uktaṃ ca saharṣaṃ svāminaḥ sakāśād abhaya-dakṣiṇā dāpayitavyā iti | tad atra svāmī pramāṇam |   
-
-  
-tac chrutvā piṅgalaka āha-sādhu sumate sādhu | mantri śrotriya sādhu | mama hṛdayena saha saṃmantrya bhavaedam abhihitam | tad dattā mayā tasyābhaya-dakṣiṇā | paraṃ so 'pi mad-arthe'bhaya-dakṣiṇāṃ yācayitvā drutataram ānīyatām iti | atha sādhu cedam ucyate-  
-
-  
-antaḥ-sārair akuṭilair acchidraiḥ suparīkṣitaiḥ |
-  
-mantribhir dhāryate rājyaṃ sustambhair iva mandiram ||Panc_1.137||  
-
-  
-tathā ca-
-  
-mantriṇāṃ bhinna-sandhāne bhiṣajāṃ sānnipātike |
-  
-karmaṇi vyajyate prajñā svasthe ko vā na paṇḍitaḥ ||Panc_1.138||  
-
-  
-damanako 'pi taṃ praṇamya saṃjīvaka-sakāśa prasthitaḥ saharṣam acintayat- aho prasāda-saṃmukhī naḥ svāmī vacana-vaśagaś ca saṃvṛttaḥ | tan nāsti dhanyataro mama | uktaṃ ca-  
-
-  
-amṛtaṃ śiśire vahnir amṛtaṃ priya-darśanam |
-  
-amṛtaṃ rāja-saṃmānam amṛtaṃ kṣīra-bhojanam ||Panc_1.139||  
-
-  
-atha saṃjīvaka-sakāśam āsādya sa-praśrayam uvāca-bho mitra prārthito 'sau mayā bhavad-arthe svāmy-abhaya-pradānam | tad-viśrabdhaṃ gamyatām iti | paraṃ tvayā rāja-prasādam āsādya mayā saha samaya-dharmeṇa vartitavyam | na garvam āsādya sva-prabhutayā vicaraṇīyam | aham api tava saṅketena sarvā rājya-dhuram amātya-padavīm āśrityoddhariṣyāmi | evaṃ kṛte dvayor apy āvayo rāja-lakṣmī-bhāgyā bhaviṣyati | yataḥ-  
-
-  
-ākheṭakasya dharmeṇa vibhavāḥ syur vaśe nṝṇām |
-  
-nṛ-prajāḥ prerayaty eko hanty anyo 'tra mṛgān iva ||Panc_1.140 ||  
-
-  
-tathā ca-
-  
-yo na pūjayate garvād uttamādhama-madhyamān |
-  
-nṛpāsannān sa mānyo 'pi bhraśyate dantilo yathā ||Panc_1.141||  
-
-  
-saṃjīvaka āha-katham etat ? so 'bravīt-  
-
-  
-kathā 3
-  
-dantila-gorambha-kathā   
-
-  
-asty atra dharātale vardhamānaṃ nāma nagaram | tatra dantilo nāma nānā-bhāṇḍa-patiḥ sakala-pura-nāyakaḥ prativasati sma | tena pura-kāryaṃ nṛpa-kāryaṃ ca kurvatā tuṣṭiṃ nītās tat-pura-vāsino lokā nṛpatiś ca | kiṃ bahunā, na ko 'pi tādṛk kenāpi caturo dṛṣṭo śruto vā | athavā satyam etad uktam-  
-
-  
-narapati-hita-kartā dveṣyatāṃ yāti loke
-  
-janapada-hita-kartā tyajyate pārthivendraiḥ |
-  
-iti mahati virodhe vartamāne samāne 
-  
-nṛpati-jana-padānāṃ durlabhaḥ kārya-kartā ||Panc_1.142||  
-
-  
-athaivaṃ gacchati kāle danitlasya kadācid vivāhaḥ sampravṛttaḥ | tatra tena sarve pura-nivāsino rāja-saṃnidhi-lokāś ca sammāna-puraḥsaram āmantrya bhojitā vastrādibhiḥ sat-kṛtāś ca | tato vivāhānantaraṃ rājā sāntaḥpuraḥ sva-gṛham ānīyābhyarcitaḥ | atha tasya nṛpater gṛha-sammārjana-kartā gorambho nāma rāja-sevako gṛhāyāto 'pi tenānucita-sthāna upaviṣṭo 'vajñāyārdha-candraṃ dattvā niḥsāritaḥ | so 'pi tataḥ prabhṛti niśvasann apamānān na rātrāv apy adhiśete | kathaṃ mayā tasya bhāṇḍapate rāja-prasāda-hāniḥ kartavyā iti cintayann āste | athavā kim anena vṛthā śarīra-śoṣaṇena | na kiṃcin mayā tasyāpakartuṃ śakyam iti | athavā sādhv idam ucyate-  
-
-  
-yo hy apakartum aśaktaḥ kupyati
-  
-kim asau naro 'tra nirlajjaḥ |
-  
-utpatito 'pi hi caṇakaḥ śaktaḥ
-  
-kiṃ bhrāṣṭrakaṃ bhaṅktum ||Panc_1.143||  
-
-  
-atha kadācit pratyūṣe yoga-nidrāṃ gatasya rājñaḥ śayyānte mārjanaṃ kurvann idam āha-aho dantilasya mahad dṛptatvaṃ yad rāja-mahiṣīm āliṅgati |   
-
-  
-tac chrutvā rājā sa-sambhramam utthāya tam uvāca-bho bho gorambha | satyam etat yat tvayā jalpitam | kiṃ dantilena samāliṅgitā iti |   
-
-  
-gorambhaḥ prāha-deva ! rātri-jāgaraṇena dyūtāsaktasya me balān nidrā samāyātā | tan na vedmi kiṃ mayābhihitam | rājā serṣyaṃ sva-gatam-eṣa tāvad asmad-gṛhe'pratihata-gatis tathā dantilo 'pi | tat kadācid anena devī samāliṅgyamānā dṛṣṭā bhaviṣyati | tenedam abhihitam | uktaṃ ca-  
-
-  
-yad vāñchati divā martyo vīkṣate vā karoti vā |
-  
-tat svapne'pi tad-abhyāsād brūte vātha karoti vā ||Panc_1.144||  
-
-  
-tathā ca-
-  
-śubhaṃ vā yadi pāpaṃ yan nṝṇāṃ hṛdi saṃsthitam |
-  
-sugūḍham api taj jñeyaṃ svapna-vākyāt tathā madāt ||Panc_1.145||  
-
-  
-athavā strīṇāṃ viṣaye ko 'tra sandehaḥ |
-  
-jalpanti sārdham anyena paśyanty anyaṃ sa-vibhramāḥ |
-  
-hṛd-gataṃ cintayanty anyaṃ priyaḥ ko nāma yoṣitām ||Panc_1.146||  
-
-  
-anyac ca-
-  
-ekena smita-pāṭalādhara-ruco jalpanty analpākṣaraṃ vīkṣante'nyam itaḥ sphuṭat-kumudinī-phullollasal-locanāḥ |
-  
-dūrodāra-caritra-citra-vibhavaṃ dhyāyanti cānyaṃ dhiyā kenetthaṃ paramārthato 'rthavad iva premāsti vāma-bhruvām ||Panc_1.147||  
-
-  
-tathā ca-
-  
-nāgnis tṛpyati kāṣṭhānāṃ nāpagānāṃ mahodadhiḥ |
-  
-nāntakaḥ sarva-bhūtānāṃ na puṃsāṃ vāma-locanā ||Panc_1.148||
-  
-raho nāsti kṣaṇo nāsti nāsti prārthayitā naraḥ |
-  
-tena nārada nārīṇāṃ satītvam upajāyate ||Panc_1.149||
-  
-yo mohān manyate mūḍho rakteyaṃ mama kāminī |
-  
-sa tasyā vaśago nityaṃ bhavet krīḍā-śakuntavat ||Panc_1.150||
-  
-tāsāṃ vākyāni kṛtyāni svalpāni sugurūṇy api |
-  
-karoti saḥ kṛtair loke laghutvaṃ yāti sarvataḥ ||Panc_1.151||
-  
-striyaṃ ca yaḥ prārthayate sannikarṣaṃ ca gacchati |
-  
-īṣac ca kurute sevāṃ tam evecchanti yoṣitaḥ ||Panc_1.152||
-  
-anarthitvān manuṣyāṇāṃ bhayāt parijanasya ca |
-  
-maryādāyām amaryādāḥ striyas tiṣṭhanti sarvadā ||Panc_1.153||
-  
-nāsāṃ kaścid agamyo 'sti nāsāṃ ca vayasi sthitiḥ |
-  
-virūpaṃ rūpavantaṃ vā pumān ity eva bhujyate ||Panc_1.154||
-  
-rakto hi jāyate bhogyo nārīṇāṃ śāṭikā yathā |
-  
-ghṛṣyante yo daśālambī nitambe viniveśitaḥ ||Panc_1.155||
-  
-alaktiko yathā rakto niṣpīḍya puruṣas tathā |
-  
-abalābhir balād raktaḥ pāda-mūle nipātyate ||Panc_1.156||  
-
-  
-evaṃ sa rājā bahuvidhaṃ vilapya tat-prabhṛti dantilasya prasāda-parāṅmukhaḥ saṃjātaḥ | kiṃ bahunā rāja-dvāra-praveśo 'pi tasya nivāritaḥ | dantilo 'py akasmād eva prasāda-parāṅmukham avanipatim avalokya cintayāmāsa-aho sādhu cedam ucyate-  
-
-  
-ko 'rthān prāpya na garvito viṣayiṇaḥ kasyāpado 'staṃ gatāḥ
-  
-strībhiḥ kasya na khaṇḍitaṃ bhuvi manaḥ ko nāmā rājñāṃ priyaḥ |
-  
-kaḥ kālasya na gocarāntara-gataḥ ko 'rthī gato gauravaṃ
-  
-ko vā durjana-vāgurāsu patitaḥ kṣemeṇa yātaḥ pumān ||Panc_1.157||  
-
-  
-tathā ca-
-  
-kāke śaucaṃ dyūta-kāreṣu satyaṃ sarpe kṣāntiḥ strīṣu kāmopaśāntiḥ |
-  
-klībe dhairyaṃ madyape tattva-cintā rājā mitraṃ kena dṛṣṭaṃ śrutaṃ vā ||Panc_1.158||  
-
-  
-aparaṃ mayāsya bhūpater athavānyasyāpi kasyacid rāja-sambandhinaḥ svapne'pi nāniṣṭaṃ kṛtam | tat kim etat-parāṅmukho māṃ prati bhūpatiḥ iti |   
-
-  
-evaṃ taṃ dantilaṃ kadācid rāja-dvāre viṣkambhitaṃ vilokya saṃmārjana-kartā gorambho vihasya dvārapālān idam ūce-bho bho dvārapālāḥ ! rāja-prasādādhiṣṭhito 'yaṃ dantilaḥ svayaṃ nigrahānugraha-kartā ca | tad anena nivāritena yathāhaṃ tathā yūyam apy ardha-candra-bhājino bhaviṣyatha | tac chrutvā dantilaś cintayāmāsa-nūnam idam asya gorambhasya ceṣṭitam | athavā sādhv idam ucyate-
-  
-akulīno 'pi mūrkho 'pi bhūpālaṃ yo 'tra sevate |
-  
-api saṃmānahīno 'pi sa sarvatra prapūjyate ||Panc_1.159||
-  
-api kāpuruṣo bhīruḥ syāc cen nṛpati-sevakaḥ |
-  
-tathāpi na parābhūtiṃ janād āpnoti mānavaḥ ||Panc_1.160||  
-
-  
-evaṃ sa bahu-vidhaṃ vilapya vilakṣa-manāḥ sodvego gata-prabhāvaḥ sva-gṛhaṃ niśāmukhe gorambham āhūya vastra-yugalena saṃmānyedam uvāca-bhadra ! mayā na tadā tvaṃ rāga-vaśān niḥsāritaḥ | yatas tvaṃ brāhmaṇānām agrato 'nucita-sthāne samupaviṣṭo dṛṣṭa ity apamānitaḥ | tat kṣamyatām |  
-
-  
-so 'pi svarga-rājyopamaṃ tad-vastra-yugalam āsādya paraṃ paritoṣaṃ gatvā tam uvāca-bhoḥ śreṣṭhin ! kṣāntaṃ mayā te tat | tad asya saṃmānasya kṛte paśya me buddhi-prabhāvaṃ rāja-prasādaṃ ca | evam uktvā saparitoṣaṃ niṣkrāntaḥ | sādhu cedam ucyate-  
-
-  
-stokenonnatim āyāti stokenāyāty adho-gatim |
-  
-aho sasadṛśo ceṣṭā tulāyaṣṭeḥ khalasya ca ||Panc_1.161||  
-
-  
-tataś cānye-dyuḥ sa gorambho rāja-kule gatvā yoga-nidrāṃ gatasya bhūpateḥ saṃmārjana-kriyāṃ kurvann idam āha-aho aviveko 'smad-bhūpateḥ | yat purīṣotsargam ācaraṃś carbhaṭī-bhakṣaṇaṃ karoti |   
-
-  
-tac chrutvā rājā sa-vismayaṃ tam uvāca-re re gorambha ! kim aprastutaṃ lapasi | gṛha-karmakaraṃ matvā tvāṃ na vyāpādayāmi | kiṃ tvayā kadācid aham evaṃvidhaṃ karma samācaran dṛṣṭaḥ ?   
-
-  
-so 'bravīt-dyūtāsaktasya rātri-jāgaraṇena saṃmārjanaṃ kurvāṇasya mama balān nidrā samāyātā | tayādhiṣṭhitena mayā kiṃcij jalpitam | tan na vedmi | tat prasādaṃ karotu svāmī nidrā-paravaśasya iti |   
-
-  
-evaṃ śrutvā rājā cintitavān-yan mayā janmāntare purīṣotsargaṃ kurvatā kadāpi cirbhaṭikā na bhakṣitā | tad yathāyaṃ vyatikaro 'sambhāvyo mamānena mūḍhena vyāhṛtaḥ | tathā dantilasyāpīti niścayaḥ | tan mayā na yuktaṃ kṛtaṃ yat sa varākaḥ saṃmānena viyojitaḥ | na tādṛk-puruṣāṇām evaṃvidhaṃ ceṣṭitaṃ sambhāvyate | tad-abhāvena rāja-kṛtyāni paura-kṛtyāni na sarvāṇi śithilatāṃ vrajanti |   
-
-  
-evam anekadhā vimṛśya dantilaṃ samāhūya nijāṅga-vastrābharaṇādibhiḥ saṃyojya svādhikāre niyojayāmāsa | ato 'haṃ bravīmi yo na pūjayate garvāt iti |   
-
-  
-saṃjīvaka āha-bhadra evam evaitat | yad bhavatābhihitaṃ tad eva mayā kartavyam iti | evam abhihite damanakas tam ādāya piṅgalaka-sakāśam agamat | āha ca-deva eṣa mayānītaḥ sa saṃjīvakaḥ | adhunā devaḥ pramāṇam | saṃjīvako 'pi taṃ sādaraṃ praṇamyāgrataḥ sa-vinayaṃ sthitaḥ | piṅgalako 'pi tasya pīnāyata-kakudmato nakha-kuliśālaṃkṛtaṃ dakṣiṇa-pāṇim upari dattvā māna-puraḥsaram uvāca-api śivaṃ bhavataḥ | kutas tvam asmin vane vijane samāyāto 'si ?  
-
-  
-tenāpy ātmaka-vṛttāntaḥ kathitaḥ | yathā vardhamānena  saha viyogaḥ saṃjātas tathā sarvaṃ niveditam | tac chrutvā piṅgalakaḥ sādarataraṃ tam uvāca-vayasya na bhetavyam | mad-bhuja-pañjara-parirakṣitena yathecchaṃ tvayādhunā vartitavyam | anyac ca nityaṃ mat-samīpa-vartinā bhāvyam | yataḥ kāraṇād bahv-apāyaṃ raudra-sattva-niṣevitaṃ vanaṃ gurūṇām api sattvānām asevyam | kutaḥ śaṣpa-bhojinām |   
-
-  
-evam uktvā sakala-mṛga-parivṛto yamunā-kaccham avatīryodaka-grahaṇaṃ kṛtvā svecchayā tad eva vanaṃ praviṣṭaḥ | tataś ca karakaṭa-damanaka-nikṣipta-rājya-bhāraḥ saṃjīvikena saha subhāṣita-goṣṭhīm anubhavann āste | athavā sādhv idam ucyate-  
-
-  
-yadṛcchayāpy upanataṃ sakṛt sajjana-saṅgatam |
-  
-bhavaty ajaram atyantaṃ nābhyāsa-kramam īkṣate ||Panc_1.162||  
-
-  
-saṃjīvakenāpy aneka-śāstrāvagāhanād utpanna-buddhi-prāgalbhyena stokair evāhobhir mūḍha-matiḥ piṅgalako dhīmāṃs tathā kṛto yathāraṇya-dharmād viyojya grāmya-dharmeṣu niyojitaḥ | kiṃ bahunā pratyahaṃ piṅgalaka-saṃjīvakāv eva kevalaṃ rahasi mantrayataḥ | śeṣaḥ sarvo 'pi mṛga-jano dūrībhūtas tiṣṭhati | karaṭaka-damanakāv api praveśaṃ na labhete | anyac ca siṃha-parākramābhāvāt sarvo 'pi mṛga-janas tau ca śṛgālau kṣudhā-vyādhi-bādhitā ekāṃ diśam āśritya sthitāḥ |  
-
-  
-uktaṃ ca-
-  
-phala-hīnaṃ nṛpaṃ bhṛtyāḥ kulīnam api connatam |
-  
-santy ajyāny atra gacchanti śuṣkaṃ vṛkṣam ivāṇḍajāḥ ||Panc_1.163||
-  
-tathā ca-
-  
-api saṃmāna-saṃyuktāḥ kulīnā bhakti-tat-parāḥ |
-  
-vṛtti-bhaṅgān mahīpālaṃ tyajanty eva hi sevakāḥ ||Panc_1.164||
-  
-anyac ca-
-  
-kālātikramaṇaṃ vṛtteryo na kurvīta bhūpatiḥ |
-  
-kadācit taṃ na muñcanti bhartsitā api sevakāḥ ||Panc_1.165||  
-
-  
-tathā ca kevalaṃ sevakā itthambhūtā yāvat samastam apy etaj jagat parasparaṃ bhakṣaṇārthaṃ sāmādibhir upāyais tiṣṭhati | tad yathā-  
-
-  
-deśānām upari kṣmābhṛd āturāṇāṃ cikitsakāḥ |
-  
-vaṇijo grāhakāṇāṃ ca mūrkhāṇām api paṇḍitāḥ ||Panc_1.166||
-  
-pramādināṃ tathā caurā bhikṣukā gṛha-medhinām |
-  
-gaṇikāḥ kāmināṃ caiva sarva-lokasya śilpinaḥ ||Panc_1.167||
-  
-sāmādi-sajjitaiḥ pāśaiḥ pratīkṣante divā-niśam |
-  
-upajīvanti śaktyā hi jalajā jaladān iva ||Panc_1.168||  
-
-  
-athavā sādhv idam ucyate-
-  
-sarpāṇāṃ ca khalānāṃ ca para-dravyāpahāriṇām |
-  
-abhiprāyā na sidhyanti tenedaṃ vartate jagat ||Panc_1.169|| 
-  
-attuṃ vāñchati śāmbhavo gaṇapater ākhuṃ kṣudhārtaḥ phaṇī
-  
-taṃ ca krauñca-ripoḥ śikhī giri-sutā-siṃho 'pi nāgāśanam |
-  
-itthaṃ yatra parigrahasya ghaṭanā śambhor api syād gṛhe
-  
-tatrāpy asya kathaṃ na bhāvi jagato yasmāt svarūpaṃ hi tat ||Panc_1.170||  
-
-  
-tataḥ svāmi-prasāda-rahitau kṣut-kṣāma-kaṇṭhau parasparaṃ karaṭaka-damanakau mantrayete | tatra damanako brūte-ārya karaṭaka | āvāṃ tāvad apradhānatāṃ gatau | eṣa piṅgalakaḥ saṃjīvakānuraktaḥ sva-vyāpāra-parāṅmukhaḥ saṃjātaḥ | sarvo 'pi parijano gataḥ | tat kiṃ kriyate |   
-
-  
-karaṭaka āha-yadyapi tvadīya-vacanaṃ na karoti tathāpi svāmī sva-doṣa-nāśāya vācyaḥ | uktaṃ ca-  
-
-  
-aśṛnvann api boddhavyo mantribhiḥ pṛthivī-patiḥ |
-  
-yathā sva-doṣa-nāśāya vidureṇāmbikāsutaḥ ||Panc_1.171||  
-
-  
-tathā ca-
-  
-madonmattasya bhūpasya kuñjarasya ca gacchataḥ |
-  
-unmārgaṃ vācyatāṃ yānti mahāmātrāḥ samīpagāḥ ||Panc_1.172||  
-
-  
-tat tvayaiṣa śaṣpa-bhojī svāminaḥ sakāśam ānītaḥ | tat svahastenāṅgārāḥ karṣitāḥ |   
-
-  
-damanaka āha-satyam etat | mamāyaṃ doṣaḥ | na svāminaḥ | uktaṃ ca-  
-
-  
-jambūko huḍu-yuddhena vayaṃ cāṣāḍha-bhūtinā |
-  
-dūtikā para-kāryeṇa trayo doṣāḥ svayaṃ kṛtāḥ ||Panc_1.173||  
-
-  
-karaṭaka āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 4
-  
-devaśarma-parivrājaka-kathā  
-
-  
-asti kasmiṃścid vivikta-pradeśe maṭhāyatanam | tatra deva-śarmā nāma parivrājakaḥ partivasati sma | tasyāneka-sādhu-jana-datta-sūkṣma-vastra-vikraya-vaśāt kālena mahatī vitta-mātrā sañjātā | tataḥ sa na kasyacid viśvasiti | naktaṃ dinaṃ kakṣāntarāt tāṃ mātrāṃ na muñcati | athavā sādhu cedam ucyate-  
-
-  
-arthānām arjane duḥkham arjitānāṃ ca rakṣaṇe |
-  
-nāśe duḥkhaṃ vyaye duḥkhaṃ dhig arthāḥ kaṣṭa-saṃśrayāḥ ||Panc_1.174||  
-
-  
-athāṣāḍha-bhūtir nāma para-vittāpahārī dhūrtas tām artha-mātrāṃ tasya kakṣāntara-gatāṃ lakṣayitvā vyacintayat-kathaṃ mayāsyeyam artha-mātrā hartavyā iti |   
-
-  
-tad atra maṭhe tāvad dṛḍha-śilā-sañcaya-vaśād bhitti-bhedo na bhavati | uccaistaratvāc ca dvāre praveśo na syāt | tad enaṃ māyā-vacanair viśvāsyāhaṃ chātratāṃ vrajāmi yena sa viśvastaḥ kadācid viśvāsam eti | uktaṃ ca-  
-
-  
-nispṛho nādhikārī syān nākāmī maṇḍana-priyaḥ |
-  
-nāvidagdhaḥ priyaṃ brūyāt sphuṭa-vaktā na vañcakaḥ ||Panc_1.175||  
-
-  
-evaṃ niścitya tasyāntikam upagamya-oṃ namaḥ śivāya-iti proccārya sāṣṭāṅgaṃ praṇamya ca sa-praśrayam uvāca-bhagavan asāraḥ saṃsāro 'yam | giri-nadī-vegopamaṃ yauvanam | tṛṇāgni-samaṃ jīvitam | śarad-abhra-cchāyā-sadṛśā bhogāḥ svapna-sadṛśo mitra-putra-kalatra-bhṛtya-varga-sambandhaḥ | evaṃ mayā samyak parijñātam | tat kiṃ kurvato me saṃsāra-samudrottaraṇaṃ bhaviṣyati |   
-
-  
-tac chrutvā deva-śarmā sādaram āha-vatsa ! dhanyo 'si yat prathame vayasy evaṃ viraktī-bhāvaḥ | uktaṃ ca-  
-
-  
-pūrvaṃ vayasi yaḥ śāntaḥ sa śānta iti me matiḥ |
-  
-dhātuṣu kṣīyamāṇeṣu śamaḥ kasya na jāyate ||Panc_1.176||
-  
-ādau citte tataḥ kāye satāṃ saṃjāyate jarā |
-  
-asatāṃ ca punaḥ kāye naiva citte kadācana ||Panc_1.177||  
-
-  
-yac ca māṃ saṃsāra-sāgarottaraṇopāyaṃ pṛcchasi | tac chrūyatām-  
-
-  
-śūdro vā yadi vānyo 'pi caṇḍālo 'pi jaṭādharaḥ |
-  
-dīkṣitaḥ śiva-mantreṇa sa bhasmāṅgī śivo bhavet ||Panc_1.178||
-  
-ṣaḍ-akṣareṇa mantreṇa puṣpam ekam api svayam |
-  
-liṅgasya mūrdhni yo dadyān na sa bhūyo 'bhijāyate ||Panc_1.179||  
-
-  
-tac chrutvāṣāḍha-bhūtis tat-pādau gṛhītvā sa-praśrayam idam āha-bhagavan, tarhi dīkṣayā me'nugrahaṃ kuru |   
-
-  
-devaśarmā āha-vatsa anugrahaṃ te kariṣyāmi | parantu rātrau tvayā maṭha-madhye na praveṣṭavyam | yat-kāraṇaṃ niḥsaṅgatā yatīnāṃ praśasyate tava ca mamāpi ca | uktaṃ ca-  
-
-  
-durmantrān nṛpatir vinaśyati yatiḥ saṅgāt suto lālasād
-  
-vipro 'nadhyayanāt kulaṃ kutanayāc chīlaṃ khalopāsanāt |
-  
-maitrī cāpraṇayāt samṛddhir anayāt snehaḥ pravāsāśrayāt
-  
-strī garvād anavekṣaṇād api kṛṣis tyāgāt pramādād dhanam ||Panc_1.180||  
-
-  
-tat tvayā vrata-grahaṇānantaraṃ maṭha-dvāre tṛṇa-kuṭīrake śayitavyam iti |   
-
-  
-sa āha-bhagavan ! bhavad-ādeśaḥ pramāṇam | paratra hi tena me prayojanam |  
-
-  
-atha kṛta-śayana-samayaṃ devaśarma-nigrahaṃ kṛtvā śāstrokta-vidhinā śiṣyatām anayat | so 'pi hasta-pādāvamardanādi-paricaryayā taṃ paritoṣam anayat | punas tathāpi muniḥ kakṣāntarān mātrāṃ na muñcati | athaivaṃ gacchati kāle āṣāḍha-bhūtiś cintayāmāsa-aho, na kathañcid eṣa me viśvāsam āgacchati | tat kiṃ divāpi śastreṇa mārayāmi, kiṃ vā viṣaṃ prayacchāmi ? kiṃ vā paśu-dharmeṇa vyāpādayāmi ? iti |  
-
-  
-evaṃ cintayatas tasya devaśarmaṇo 'pi śiṣya-putraḥ kaścid grāmād āmantraṇārthaṃ samāyātaḥ | prāha ca-bhagavan, pavitrāropaṇa-kṛte mama gṛham āgamyatām iti |   
-
-  
-tac chrutvā devaśarmāṣāḍhabhūtinā saha prahṛṣṭa-manāḥ prasthitaḥ | athaivaṃ tasya gacchato 'gre kācin nadī samāyātā | tāṃ dṛṣṭvā mātrāṃ kakṣāntarād avatārya kanthā-madhye suguptāṃ nidhāya snātvā devārcanaṃ vidhāya tad-anantaram āṣāḍhabhūtim idam āha-bho āṣāḍhabhūte ! yāvad ahaṃ purīṣotsargaṃ kṛtvā samāgacchāmi, tāvad eṣā kanthā yogeśvarasya svāvadhānatayā rakṣaṇīyā | ity uktvā gataḥ |  
-
-  
-āṣāḍhabhūtir api tasminn adarśanī-bhūte mātrām ādāya satvaraṃ prasthitaḥ | devaśarmāpi chātra-guṇānurañjita-manāḥ suviśvasto yāvad upaviṣṭas tiṣṭhati tāvat suvarṇa-roma-deha-yūtha-madhye huḍu-yuddham apaśyat | atha roṣa-vaśād dhuḍu-yugalasya dūram apasaraṇaṃ kṛtvā bhūyo 'pi samupetya  lālaṭa-paṭṭābhyāṃ praharato bhūri rudhiraṃ patati | tac ca jambūko jihvā-laulyena raṅga-bhūmiṃ prāveśyāsvādayati | devaśarmāpi tad ālokya vyacintayat-aho manda-matir ayaṃ jambūkaḥ | yadi katham apy anayoḥ saṅghaṭṭe patiṣyati tan nūnaṃ mṛtyum avāpsyatīti vitarkayāmi |  
-
-  
-kṣaṇāntare ca tathaiva raktāsvādana-laulyān madhye praviśaṃs tayoḥ śiraḥ-sampāte patiot mṛtaś ca śṛgālaḥ | devaśarmāpi taṃ śocamāno mātrām uddiśya śanaiḥ śanaiḥ prasthito yāvad āṣāḍhabhūtiṃ na paśyati tataś cautsukyena śaucaṃ vidhāya yāvat kanthām ālokayati tāvan mātrāṃ na paśyati | tataś ca-hā hā muṣito 'smi iti jalpan pṛthivī-tale mūrcchayā nipapāta | tataḥ kṣaṇāc cetanāṃ labdhvā bhūyo 'pi samutthāya phūtkartum ārabdhaḥ-bho āṣāḍhabhūte ! kva māṃ vañcayitvā gato 'si ? tad dehi me prativacanam |  
-
-  
-evaṃ bahu vilapya tasya pada-paddhatim anveṣayan śanaiḥ śanaiḥ prasthitaḥ | athaiva gacchan sāyantana-samaye kañcid grāmam āsasāda | atha tasmād grāmāt kaścit kaulikaḥ sabhārhyo madya-pāna-kṛte samīpa-vartini nagare prasthitaḥ | devaśarmāpi tam ālokya provāca-bho bhadra vayaṃ sūryoḍhā atithayas tavāntikaṃ prāptāḥ | na kam apy atra grāme jānīmaḥ | tad gṛhyatām atithi-dharmaḥ | uktaṃ ca-  
-
-  
-samprāpto yo 'tithiḥ sāyaṃ sūryoḍhe gṛha-medhinām |
-  
-pūjayā tasya devatvaṃ prayānti gṛha-medhinaḥ ||Panc_1.181||  
-
-  
-tathā ca-
-  
-tṛṇāni bhūmir udakaṃ vāk-caturthī ca sūnṛtā |
-  
-satām etāni harmyeṣu nocchidyante kadācana ||Panc_1.182||
-  
-svāgatenāgnayas tṛptā āsanena śatakratuḥ |
-  
-pāda-śaucena pitaraḥ arghāc chambhus tathātitheḥ ||Panc_1.183||  
-
-  
-kauliko 'pi tac chrutvā bhāryām āha-priye, gaccha tv atithim ādāya gṛhaṃ prati pāda-śauca-bhojana-śayanādibhiḥ satkṛtya tvaṃ tatraiva tiṣṭha | ahaṃ tava kṛte prabhūta-madyam āneṣyāmi | evam uktvā prasthitaḥ | sāpi bhāryā puṃścalī tam ādāya prahasita-vadanā devadattaṃ manasi  dhyāyantī gṛhaṃ prati pratasthe | athavā sādhu cedam ucyate-  
-
-  
-durdivase ghana-timire duḥsañcārāsu nagara-vīthīṣu |
-  
-patyur videśa-gamane parama-sukhaṃ jaghana-capalāyāḥ ||Panc_1.184||  
-
-  
-tathā ca-
-  
-paryaṅkeṣv āstaraṇaṃ patim anukūlaṃ manoharaṃ śayanam |
-  
-tṛṇam iva laghu manyante kāminyaś caurya-rata-lubdhāḥ ||Panc_1.185||  
-
-  
-tathā ca-
-  
-keliṃ pradahati lajjā śṛṅgāro 'sthīni cāṭavaḥ kaṭavaḥ |
-  
-vandha-trayāḥ paritoṣo na kiṃcid iṣṭaṃ bhavet patyau ||Panc_1.186||
-  
-kula-patanaṃ jana-garhāṃ bandhanam api jīvitavya-sandeham |
-  
-aṅgīkaroti kulaṭā satataṃ para-puruṣa-saṃsaktā ||Panc_1.187||  
-
-  
-atha kaulika-bhāryā gṛhaṃ gatvā deva-śarmaṇe gatāstaraṇaṃ bhagnāṃ ca khaṭvāṃ samarpyedam āha-bho bhagavan ! yāvad ahaṃ sva-sakhīṃ grāmād abhyāgatāṃ  sambhāvya drutam āgacchāmi tāvat tvayā mad-gṛhe'pramattena bhāvyam |  
-
-  
-evam abhidhāya śṛṅgāra-vidhiṃ vidhāya yāvad-devadattam uddiśya vrajati tāvat tad-bhartā saṃmukho mada-vihvalāṅgo mukta-keśaḥ pade pade praskhalan gṛhīta-madya-bhāṇḍaḥ samabhyeti | taṃ ca dṛṣṭvā sā drutataraṃ vyāghuṭya sva-gṛhaṃ praviśya nukta-śṛṅgāra-veśā yathā-pūrvam abhavat | kauliko 'pi tāṃ palāyamānāṃ kṛtādbhuta-śṛṅgārāṃ vilokya prāg eva karṇa-paramparayā tasyāḥ śrutāvapavāda-kṣubhita-hṛdayaḥ svākāraṃ nigūhamānaḥ sadaivāste | tataś ca tathāvidhaṃ ceṣṭitam avalokya dṛṣṭa-pratyayaḥ krodha-vaśago gṛhaṃ praviśya tām uvāca-āḥ pāpe puṃścali ! kva prasthitāsi ?  
-
-  
-sā provāca-ahaṃ tvat-sakāśād āgatā na kutracid api nirgatā | tat kathaṃ madya-pāna-vaśād aprastutaṃ vadasi ? athavā sādhv idam ucyate-  
-
-  
-vaikalyaṃ dharaṇī-pātam ayathocita-jalpanam |
-  
-saṃnipātasya cihnāni madyaṃ sarvāṇi darśayet ||Panc_1.188||
-  
-kara-spando 'mbara-tyāgas tejo-hāniḥ sarāgatā |
-  
-vāruṇī-saṅgajāvasthā bhānunāpy anubhūyate ||Panc_1.189||  
-
-  
-so 'pi tac chrutvā pratikūla-vacanaṃ veśa-viparyayaṃ cāvalokya tam āha-puṃścali ! cira-kālaṃ śruto mayā tavāpavādaḥ | tad adya svayaṃ sañjāta-pratyayas tava yathocitaṃ nigrahaṃ karomi | ity abhidhāya laguḍa-prahārais tāṃ jarjarita-dehāṃ vidhāya sthūṇayā saha dṛḍha-bandhanena baddhvā so 'pi mada-vihvalo vijñāya tāṃ gatvedam āha-sakhi ! sa devadattas tasmin sthāne tvāṃ pratīkṣate | tac chīghram āgamyatām iti |   
-
-  
-sā cāha-paśya mamāvasthām | tat kathaṃ gacchāmi ? tad gatvā brūhi taṃ kāminaṃ yad asyāṃ rātrau na tvayā saha samāgamaḥ |  
-
-  
-nāpitī prāha-sakhi, mā maivaṃ vada | nāyaṃ kulaṭā-dharmaḥ | uktaṃ ca-  
-
-  
-viṣama-stha-svādu-phala-grahaṇa-vyavasāya-niścayo yeṣām |
-  
-uṣṭrāṇām iva teṣāṃ manye'haṃ śaṃsitaṃ janma ||Panc_1.190||  
-
-  
-tathā ca-
-  
-sandigdhe para-loke janāpavāde ca jagati bahu-citre |
-  
-svādhīne para-ramaṇe dhanyās tāruṇya-phala-bhājaḥ ||Panc_1.191||
-  
-anyac ca-
-  
-yadi bhavati deva-yogāt pumān virūpo 'pi bandhako rahasi |
-  
-na tu kṛcchrād api bhadraṃ nija-kāntaṃ sā bhajaty eva ||Panc_1.192||  
-
-  
-sābravīt-yady evaṃ tarhi kathaya kathaṃ dṛḍha-bandhana-baddhā satī tatra gacchāmi | sannihitaś cāyaṃ pāpātmā mat-patiḥ |   
-
-  
-nāpity āha-sakhi, mada-vihvalo 'yaṃ sūrya-kara-spṛṣṭaḥ prabodhaṃ yāsyati | tad ahaṃ tvam unmocayāmi | mām ātma-sthāne baddhvā drutataraṃ deva-dattaṃ sambhāvyāgaccha |  
-
-  
-sābravīt-evam astu iti |  
-
-  
-tad anu sā nāpitī tāṃ sva-sakhīṃ bandhanād vimocya tasyāḥ sthāne yathā-pūrvam ātmānaṃ baddhvā tāṃ devadatta-sakāśe  saṅketa-sthānaṃ preṣitavatī | tathānuṣṭhite kaulikaḥ kasmiṃścit kṣaṇe samutthāya kiṃcid gata-kopo vimadas tām āha-he paruṣa-vādini ! yad adya-prabhṛti gṛhān niṣkramaṇaṃ na karoṣi, na ca paruṣaṃ vadasi, tatas tvām unmocayāmi |  
-
-  
-nāpity api svara-bheda-bhayād yāvan na kiṃcid ūce, tāvat so 'pi bhūyo bhūyas tāṃ tad evāha | atha sā yāvat pratyuttaraṃ kim api na dadau, tāvat sa prakupitas tīkṣṇa-śastram ādāya nāsikām acchinat | āha ca-re puṃścali ! tiṣṭhedānīm | tvāṃ bhūyas toṣayiṣyāmi | iti jalpan punar api nidrā-vaśam agāt |   
-
-  
-devaśarmāpi vitta-nāśāt kṣutkṣāma-kaṇṭho naṣṭa-nidras tat sarvaṃ strī-caritram apaśyat | sāpi kaulika-bhāryā yathecchayā devadattena saha surata-sukham anubhūya kasmiṃścit kṣaṇe sva-gṛham āgataya tāṃ nāpitīm idam āha-ayi ! śivaṃ bhavatyāḥ | nāyaṃ pāpātmā mama gatāyā utthitaḥ |   
-
-  
-nāpity āha-śivaṃ nāsikayā vinā śeṣasya śarīrasya | tad drutaṃ tāṃ mocaya bandhanād yāvan nāyaṃ māṃ paśyati, yena sva-gṛhaṃ gacchāmi |   
-
-  
-tathānuṣṭhite  bhūyo 'pi kaulika utthāya tām āha-puṃścali ! kim adyāpi na vadasi ? kiṃ bhūyo 'py ato duṣṭataraṃ nigrahaṃ karṇa-cchedena karomi ?   
-
-  
-atha sā sa-kopaṃ sādhikṣepam idam āha-dhiṅ mahā-mūḍha ! ko māṃ mahā-satīṃ dharṣayituṃ vyaṅgayituṃ vā samarthaḥ ? tac chṛṇvantu sarve'pi loka-pālāḥ |  
-
-  
-āditya-candra-hari-śaṃkara-vāsavādyāḥ 
-  
-śaktā na jetum atiduḥkha-karāṇi yāni |
-  
-tānīndriyāṇi balavanti sudurjayāni 
-  
-ye nirjayanti bhuvane balinas ta eke ||Panc_1.193||  
-
-  
-tad yadi mama satītvam asti, manasāpi para-puruṣo nābhilaṣitaḥ, tato devā bhūyo 'pi me nāsikāṃ tādṛg-rūpākṣatāṃ kurvantu | athavā yadi mama citte para-puruṣasya bhrāntir api bhavati, māṃ bhasmasān nayantu | evam uktvā bhūyo 'pi tam āha-bho durātman ! paśya me satītva-prabhāveṇa tādṛśy eva nāsikā saṃvṛttā |  
-
-  
-athāsāv ulmukam ādāya yāvat paśyati, tāvat tad-rūpāṃ nāsikāṃ ca bhūtale rakta-pravāhaṃ ca mahāntam apaśyat | atha sa vismita-manās tāṃ bandhanād vimucya śayyāyām āropya ca cāṭu-śataiḥ paryatoṣayat | devaśarmāpi taṃ sarva-vṛttāntam ālokya vismita-manā idam āha-  
-
-  
-śambarasya ca yā māyā yā māyā namucer api |
-  
-baleḥ kumbhīnasaś caiva sarvās tā yoṣito viduḥ ||Panc_1.194||
-  
-hasantaṃ prahasanty etā rudantaṃ prarudanty api |
-  
-apriyaṃ priya-vākyaiś ca gṛhṇanti kāla-yogataḥ ||Panc_1.195||
-  
-uśanā veda yac chāstraṃ yac ca veda bṛhaspatiḥ |
-  
-strī-buddhyā na viśiṣyete tāḥ sma rakṣyāḥ kathaṃ naraiḥ ||Panc_1.196||
-  
-anṛtaṃ satyam ity āhuḥ satyaṃ cāpi tathānṛtam |
-  
-iti yās tāḥ kathaṃ vīra saṃrakṣyāḥ puruṣair iha ||Panc_1.197||  
-
-  
-anyatrāpy uktam-
-  
-nātiprasaṅgaḥ pramadāsu kāryo
-  
-necched balaṃ strīṣu vivardhamānam |
-  
-atiprasaktaiḥ puruṣair yatas tāḥ 
-  
-krīḍanti kākair iva lūna-pakṣaiḥ ||Panc_1.198||
-  
-sumukhena vadanti vagunā praharanty eva śitena cetasā |
-  
-madhu tiṣṭhati vāci yoṣitāṃ hṛdaye hālāhalaṃ mahad-viṣam ||Panc_1.199||
-  
-ata eva nipīyate'dharo hṛdayaṃ muṣṭibhir eva tāḍyate |
-  
-puruṣaiḥ sukha-leśa-vañcitair madhu-lubdhaiḥ kamalaṃ yathālibhiḥ ||Panc_1.200||  
-
-  
-api ca-
-  
-āvartaḥ saṃśayānām avinaya-bhavanaṃ pattanaṃ sāhasānāṃ doṣāṇāṃ saṃnidhānaṃ kapaṭa-śata-mayaṃ kṣetram apratyayānām |
-  
-svarga-dvārasya vighnaṃ naraka-pura-mukhaṃ sarva-māyā-karaṇḍaṃ strī-yantraṃ kena sṛṣṭaṃ viṣam amṛta-mayaṃ prāṇi-lokasya pāśaḥ ||Panc_1.201||  
-
-  
-kārkaśyaṃ stanayor dṛśos taralatālīkaṃ mukhe ślāghyate kauṭilyaṃ kaca-saṃcaye ca vacane māndyaṃ trike sthūlatā |
-  
-bhīrutvaṃ hṛdaye sadaiva kathitaṃ māyā-prayogaḥ priye yāsāṃ doṣa-gaṇo guṇo mṛga-dṛśāṃ tāḥ syur narāṇāṃ priyāḥ ||Panc_1.202||  
-
-  
-etā hasanti ca rudanti ca kārya-hetor 
-  
-viśvāsayanti ca paraṃ na ca viśvasanti |
-  
-tasmān nareṇa kula-śīla-samanvitena nāryaḥ śmaśāna-ghaṭikā iva varjanīyāḥ ||Panc_1.203||  
-
-  
-tasmān nareṇa kulaśīlavatā sadaiva
-  
-nāryaḥ śmaśāna-vaṭikā iva varjanīyāḥ |
-  
-vyakīrṇa-kesara-karāla-mukhā mṛgendrā
-  
-nāgāś ca bhūri-mada-rāja-virājamānāḥ ||Panc_1.204||  
-
-  
-kurvanti tāvat prathamaṃ priyāṇi
-  
-yāvan na jānanti naraṃ prasaktam |
-  
-jñātvā ca taṃ manmatha-pāśa-baddhaṃ
-  
-grastāmiṣaṃ mīnam ivoddharanti ||Panc_1.205||  
-
-  
-samudra-vīcīva cala-svabhāvāḥ
-  
-sandhyābhra-rekheva muhūrta-rāgāḥ |
-  
-striyaḥ kṛtārthāḥ puruṣaṃ nirarthaṃ
-  
-niṣpīḍotālaktakavat tyajanti ||Panc_1.206||  
-
-  
-anṛtaṃ sāhasaṃ māyā mūrkhatvam atilubdhatā |
-  
-aśaucaṃ nirdayatvaṃ ca strīṇāṃ doṣāḥ svabhāvajāḥ ||Panc_1.207||  
-
-  
-sammohayantimadayanti viḍambayanti
-  
-nirbharstayanti ramayanti viṣādayanti |
-  
-etāḥ praviśya saralaṃ hṛdayaṃ narāṇāṃ
-  
-kiṃ vā na vāma-nayanā na samācaranti ||Panc_1.208||  
-
-  
-antar-viṣa-mayā hy etā bahiś caiva manoramāḥ |
-  
-guñjā-phala-samākārā yoṣitaḥ kena nirmitāḥ ||Panc_1.209||  
-
-  
-evaṃ cintayatas tasya parivrājakasya sā niśā mahatā kṛcchreṇāticakrāma | sā ca dūtikā chinna-nāsikā sva-gṛhaṃ gatvā cintayāmāsa-kim idānīṃ kartavyam ? katham etan mahac-chidraṃ sthagayitavyam ?   
-
-  
-atha tasyā evaṃ vicintayantyā bhartā kārya-vaśād rāja-kule paryuṣitaḥ pratyūṣe ca sva-gṛham abhyupetya dvāra-deśa-stho vividha-paura-kṛtyotsukatayā tām āha-bhadre śīghram ānīyatāṃ kṣura-bhāṇḍaṃ yena kṣaura-karma-karaṇāya gacchāmi |  
-
-  
-sāpi chinnanāsikā gṛha-madhya-sthitaiva kārya-karaṇāpekṣayā kṣura-bhāṇḍāt kṣuram ekaṃ samākṛṣya tasyābhimukhaṃ preṣayāmāsa | nāpito 'py utsukatayā tam ekaṃ kṣuram avalokya kopāviṣṭaḥ san tad-abhimukham eva taṃ kṣuraṃ prāhiṇot | etasminn antare sā duṣṭordhva-bāhū vidhāya phutakartu-manā gṛhān niścakrāma | aho paśyata pāpenānena mama sad-ācāra-vartinyāḥ nāsikā-cchedo vihitaḥ | tat-paritrāyatāṃ paritrāyatām |  
-
-  
-atrāntare rāja-puruṣāḥ samabhyetya taṃ nāpitaṃ laguḍa-prahārair jarjarīkṛtya dṛḍha-bandhanair baddhvā tayā chinnanāsikayā saha dharmādhikaraṇa-sthānaṃ nītvā sabhyān ūcuḥ-śṛṇvantu bhavantaḥ sabhāsadaḥ | anena nāpitenāparādhaṃ vinā strī-ratnam etad vyaṅgitam | tad asya yad yujyate tat kriyatām |  
-
-  
-ity abhihite sabhyā ūcuḥ-re nāpita ! kim-arthaṃ tvayā bhāryā vyaṅgitā | kim anayā para-puruṣo 'bhilaṣitaḥ | unta svit prāṇa-drohaḥ kṛtaḥ, kiṃ vā caurya-karmācaritam | tat kathyatām asyā aparādhaḥ ?   
-
-  
-nāpito 'pi prahāra-pīḍita-tanur vaktuṃ na śaśāka | atha taṃ tūṣṇīṃbhūtaṃ dṛṣṭvā punar ūcuḥ-aho, satyam etad rāja-puruṣāṇāṃ vacaḥ | pāpātmāyam | aneneyaṃ nirdoṣā varākī dūṣitā | uktaṃ ca-  
-
-  
-bhinna-svara-mukha-varṇaḥ śaṅkita-dṛṣṭiḥ samutpatita-tejāḥ |
-  
-bhavati hi pāpaṃ kṛtvā sva-karma-santrāsitaḥ puruṣaḥ ||Panc_1.210||  
-
-  
-tathā ca-
-  
-āyāti skhalitaiḥ pādair mukha-vaivarṇya-saṃyutaḥ |
-  
-lalāṭa-sveda-bhāg bhūri-gadgadaṃ bhāṣate vacaḥ ||Panc_1.211||
-  
-adho-dṛṣṭir vadet kṛtvā pāpaṃ prāptaḥ sabhāṃ naraḥ |
-  
-tasmād yatnāt parijñeyāś cihnair etair vicakṣaṇaiḥ ||Panc_1.212||  
-
-  
-anyac ca-
-  
-prasanna-vadano dṛṣṭaḥ spaṣṭa-vākyaḥ saroṣa-dṛk |
-  
-sabhāyāṃ vakti sāmarṣaṃ sāvaṣṭambho naraḥ śuciḥ ||Panc_1.213||  
-
-  
-tad eṣa duṣṭa-caritra-lakṣaṇo dṛśyate | strī-dharsaṇād vadhya iti | tac chūlīyām āropyatām iti |   
-
-  
-atha vadhya-sthāne nīyamānaṃ tam avalokya deva-śarmā tān dharmādhikṛtān gatvā provāca-bho bhoḥ, anyānyenaiṣa varāko vadhyate nāpitaḥ | sādhu-samācāra eṣaḥ | tac chrūyatāṃ me vākyam-jambūko huḍu-yuddhena iti |  
-
-  
-atha te sabhyā ūcuḥ-bho bhagavan ! katham etat ?   
-
-  
-tato devaśarmā teṣāṃ trayāṇām api vṛttāntaṃ vistareṇākathayat | tad ākarṇya suvismita-manasas te nāpitaṃ vimocya mithaḥ procuḥ-aho !  
-
-  
-avadhyā brāhmaṇā gāvo striyo bālāś ca jñātayaḥ |
-  
-yeṣāṃ cānnāni bhuñjīta ye ca syuḥ śaraṇāgatāḥ ||Panc_1.214||  
-
-  
-tad asyā nāsikā-cchedaḥ sva-karmaṇā hi saṃvṛttaḥ | tato rāja-nigrahas tu karṇa-cchedaḥ kāryaḥ | tathānuṣṭhite devaśarmāpi vitta-nāśa-samudbhūta-śoka-rahitaḥ punar api svakīyaṃ maṭhāyatanaṃ jagāma | ato 'haṃ bravīmi-jambūko huḍu-yuddhena (1.174) iti |  
-
-  
-karaṭaka āha-evaṃ-vidhe vyatikare kiṃ kartavyam āvayoḥ ?  
-
-  
-damanako 'bravīt-evaṃ-vidhe'pi samaye mama buddhi-sphuraṇaṃ bhaviṣyati, yena sañjīvakaṃ prabhor viśleṣayiṣyāmi | uktaṃ ca, yataḥ-  
-
-  
-ekaṃ hanyān na vā hanyād iṣuḥ kṣipto dhanuṣmatā |
-  
-prājñena tu matiḥ kṣiptā hanyād garbha-gatān api ||Panc_1.215||  
-
-  
-tad ahaṃ māyā-prapañcena guptam āśritya taṃ sphoṭayiṣyāmi |  
-
-  
-karaṭaka āha-bhadra, yadi katham api tava māyā-praveśaṃ piṅgalako jñāsyati, sañjīvako vā tadā nūnaṃ vighāta eva |  
-
-  
-so 'bravīt-tāta, maivaṃ vada | gūḍha-buddhibhir āpat-kāle vidhure'pi daive buddhiḥ prayoktavyā | nodyamas tyājyaḥ | kadācid ghuṇākṣara-nyāyena buddheḥ sāmrājyaṃ bhavati | uktaṃ ca-  
-
-  
-tyājyaṃ na dhairyaṃ vidhure'pi daive 
-  
-dhairyāt kadācit sthitm āpnuyāt saḥ |
-  
-yāte samudre'pi hi pota-bhaṅge
-  
-sāṃyātriko vāñchati karma eva ||Panc_1.216||  
-
-  
-tathā ca-
-  
-udyoginaṃ satatam atra sameti lakṣmīr 
-  
-daivaṃ hi daivam iti kāpuruṣā vadanti |
-  
-daivaṃ nihatya kuru pauruṣam ātma-śaktyā yatne kṛte yadi na sidhyati ko 'tra doṣaḥ ||Panc_1.217||  
-
-  
-tad evaṃ jñātvā sugūḍha-buddhi-prabhāveṇa yathā tau dvāv api na jñāsyataḥ, tathā mitho viyojayiṣyāmi | uktaṃ ca-  
-
-  
-suprayuktasya dambhasya brahmāpy antaṃ na gacchati |
-  
-kauliko viṣṇu-rūpeṇa rāja-kanyāṃ niṣevate ||Panc_1.218||  
-
-  
-karaṭaka āha-katham etat ?   
-
-  
-so 'bravīt-
-  
-kathā 5
-  
-kaulika-rathakāra-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne kaulika-rathakārau mitre prativasataḥ sma | tatra ca bālyāt-prabhṛti sahacāriṇau parasparam atīva sneha-parau sadaika-sthāna-vihāriṇau kālaṃ nayataḥ | atha kadācit tatrādhiṣṭhāne kasmiṃścid devāyatane yātrā-mahotsavaḥ saṃvṛttaḥ | tatra ca naṭa-nartaka-cāraṇa-saṅkule nānā-deśāgata-janāvṛte tau sahacarau bhramantau kāñcid rāja-kanyāṃ kareṇukārūḍhāṃ sarva-lakṣaṇa-sanāthāṃ kañcuki-varṣa-dhara-parivāritāṃ devatā-darśanārthaṃ samāyātāṃ dṛṣṭavantau | athāsau kaulikas tāṃ  dṛṣṭvā viṣārdita iva duṣṭa-graha-gṛhīta iiva kāma-śarair hanyamānaḥ sahasā bhūtale nipapāta | atha taṃ tad-avastham avalokya rathakāras tad-duḥkha-duḥkhita āpta-puruṣais taṃ samutkṣipya sva-gṛham ānāyayat | tatra
-  
-ca vividhaiḥ śītopacāraiś cikitsakopadiṣṭair mantra-vādibhir upacaryamāṇaiś cirāt kathaṃcit sa-cetano babhūva |  
-
-  
-tato rathakāreṇa pṛṣṭaḥ-bho mitra ! kim evaṃ tvam akasmād vicetanaḥ sañjātaḥ ? tat kathyatām ātma-svarūpam ?  
-
-  
-sa āha-vayasya ! yady evaṃ tac chṛṇu me rahasyaṃ yena sarvām ātma-vedanāṃ te vadāmi | yadi tvaṃ māṃ suhṛdaṃ manyase tataḥ kāṣṭha-pradānena prasādaḥ kriyatām | kṣamyatāṃ yad vā kiñcit praṇay>atirekād ayuktaṃ tava mayānuṣṭhitam |  
-
-  
-so 'pi tad ākarṇya bāṣpa-pihita-nayanaḥ sa-gadgadam uvāca-vayasya, yat kiñcid duḥkha-kāraṇaṃ tad vada yena pratīkāraḥ kriyate, yadi śakyate kartum | uktaṃ ca-  
-
-  
-auṣadhārtha-sumantrāṇāṃ buddheś caiva mahātmanām |
-  
-asādhyaṃ nāsti loke'tra yad brahmāṇḍasya madhyagam ||Panc_1.219||  
-
-  
-tad eṣāṃ caturṇāṃ yadi sādhyaṃ bhaviṣyati tadāhaṃ sādhayiṣyāmi |   
-
-  
-kaulika āha-vayasya, eteṣām anyeṣām api sahasrāṇām upāyānām asādhyaṃ tan me duḥkham | tasmān mama maraṇe mā kāla-kṣepaṃ kuru |  
-
-  
-rathakāra āha-bho mitra ! yadyapy asādhyaṃ tathāpi nivedaya yenāham api tad asādhyaṃ matvā tvayā samaṃ vahnau praviśāmi | na kṣaṇam api tvad-viyogaṃ sahiṣye | eṣa me niścayaḥ |   
-
-  
-kaulika āha-vayasya, yāsau rāja-kanyā kareṇum ārūḍhā tatrotsave dṛṣṭā, tasyā darśanānantaraṃ makara-dhvajena mameyam avasthā vihitā | tan na śaknomi tad-vedanāṃ soḍhum | tathā coktam-  
-
-  
-mattebha-kumbha-pariṇāhini kuṅkumārdre
-  
-tasyāḥ payodhara-yuge rati-kheda-khinnaḥ |
-  
-vakṣo nidhāya bhuja-pañjara-madhya-vartī 
-  
-svapsye kadā kṣaṇam avāpya tadīya-saṅgam ||Panc_1.220||  
-
-  
-tathā ca-
-  
-rāgī bimbādharo 'sau stana-kalaśa-yugaṃ yauvanārūḍha-garvaṃ
-  
-nīcā nābhiḥ prakṛtyā kuṭilakam alakaṃ svalpakaṃ cāpi madhyam |
-  
-kurvatv etāni nāma prasabham iha manaś cintitāny āśu khedaṃ
-  
-yan māṃ tasyāḥ kapolau dahata iti muhuḥ svacchakau tan na yuktam ||Panc_1.221||  
-
-  
-rathakāro 'py evaṃ sa-kāmaṃ tad-vacanam ākarṇya sa-smitam idam āha-vayasya ! yady evaṃ tarhi diṣṭyā siddhaṃ naḥ prayojanam | tad adyaiva tayā saha samāgamaḥ kriyatām iti |  
-
-  
-kaulika āha-vayasya, yatra kanyāntaḥpure vāyuṃ muktvā nānyasya praveśo 'sti tatra rakṣā-puruṣādhiṣṭhite kathaṃ mama tasyā saha samāgamaḥ ? tat kiṃ mām asatya-vacanena viḍambayasi ?   
-
-  
-rathakāra āha-mitra, paśya me buddhi-balam |  
-
-  
-evam abhidhāya tat-kṣaṇāt kīla-sañcāriṇaṃ vainateyaṃ bāhu-yugalaṃ vāyuja-vṛkṣa-dāruṇā śaṅkha-cakra-gadā-padmānvitaṃ sa-kirīṭa-kaustubham aghaṭayan | tatas tasmin kaulikaṃ samāropya viṣṇu-cihnitaṃ kṛtvā kīla-sañcaraṇa-vijñānaṃ ca darśayitvā provāca-vayasya, anena viṣṇu-rūpeṇa gatvā kanyāntaḥpure niśīthe tāṃ rājakanyām ekākinīṃ sapta-bhūmika-prāsāda-prānta-gatāṃ mugdha-svabhāvāṃ tvāṃ vāsudevaṃ manyamānāṃ svakīya-mithyā-vakroktibhī rañjayitvā vātsyāyanokta-vidhinā bhaja |   
-
-  
-kauliko 'pi tad ākarṇya tathā-rūpas tatra gatvā tām āha-rāja-putri, suptā kiṃ vā jāgarṣi ? ahaṃ tava kṛte samudrāt sānurāgo lakṣmīṃ vihāyaivāgataḥ | tat kriyatāṃ mayā saha samāgamaḥ iti |  
-
-  
-sāpi garuḍārūḍhaṃ caturbhujaṃ sāyudhaṃ kaustubhopetam avalokya sa-vismayā śayanād utthāya provāca-bhagavan ! ahaṃ mānuṣī kīṭikāśuciḥ | bhagavāṃs trailokya-pāvano vandanīyaś ca | tat katham etad yujyate |  
-
-  
-kaulika āha-subhage, satyam abhihitaṃ bhavatyā | paraṃ kiṃ tu rādhā nāma me bhāryā gopa-kula-prasūtā  prathama āsīt | sā tvam atrāvatīrṇā | tenāham atrāyātaḥ |   
-
-  
-ity uktā sā prāha-bhagavan, yady evaṃ tan me tātaṃ prārthaya | so 'py avikalpaṃ māṃ tubhyaṃ prayacchati |  
-
-  
-kaulika āha-subhage, nāhaṃ darśana-pathaṃ mānuṣāṇāṃ gacchāmi | kiṃ punar ālāpa-karaṇam | tvaṃ gāndharveṇa vivhāneātmānaṃ prayaccha | no cec chāpaṃ dattvā sānvayaṃ te pitaraṃ bhasmasāt kariṣyāmi iti | evam abhidhāya garuḍād avatīrya savye pāṇau gṛhītvā tāṃ sabhayāṃ salajjāṃ vepamānāṃ śayyāyām ānayat | tataś ca rātri-śeṣaṃ yāvad vātsyāyanokta-vidhinā niṣevya pratyūṣe sva-gṛham alakṣito jagāma |   
-
-  
-evaṃ tasya tāṃ nityaṃ sevamānasya kālo yāti | atha kadācit kañcukinas tasyā adharoṣṭha-pravāla-khaṇḍanaṃ dṛṣṭvā mithaḥ procuḥ-aho ! paśyatāsyā rāja-kanyāyāḥ puruṣopabhuktāyā iva śarīrāvayavā vibhāvyante | tat katham ayaṃ surakṣite'py asmin gṛha evaṃvidho vyavahāraḥ | tad rājñe nivedayāmaḥ |  
-
-  
-evaṃ niścitya sarve sametya rājānaṃ procuḥ-deva ! vayaṃ na vidmaḥ | paraṃ surakṣite'pi kanyāntaḥ-pure kaścit praviśati |  tad devaḥ pramāṇam iti | tac chrutvā rājātīva vyākulita-citto vyacintayat-  
-
-  
-putrīti jātā mahatīha cintā 
-  
-kasmai pradeyeti mahān vitarkaḥ |
-  
-dattvā sukhaṃ prāpsyati vā na veti 
-  
-kanyā-pitṛtvaṃ khalu nāma kaṣṭam ||Panc_1.222||  
-
-  
-nadyaś ca nāryaś ca sadṛk-prabhāvās
-  
-tulyāni kūlāni kulāni tāsām |
-  
-toyaiś ca doṣaiś ca nipātayanti
-  
-nadyo hi kūlāni kulāni nāryaḥ ||Panc_1.223||  
-
-  
-jananī-mano harati jātavatī 
-  
-parivardhate saha śucā suhṛdām |
-  
-para-sātkṛtāpi kurute malinaṃ 
-  
-durita-kramā duhitaro vipadaḥ ||Panc_1.224||  
-
-  
-evaṃ bahu-vidhaṃ vicintya devīṃ rahaḥ-sthāṃ provāca-devi, jñāyatāṃ kim ete kañcukino vadanti ? tasya kṛtāntaḥ kupito yenaitad evaṃ kriyate |   
-
-  
-devy api tad ākarṇya vyākulī-bhūtā  satvaraṃ kanyāntaḥpure gatvā tāṃ khaṇḍitādharāṃ nakha-vilikhita-śarīrāvayavāṃ duhitaram apaśyat | āha ca-āḥ pāpe ! kula-kalaṅka-kāriṇi ! kim eva śīla-khaṇḍanaṃ kṛtam | ko 'yaṃ kṛtāntāvalokitas tvat-sakāśam abhyeti  | tat kathyatāṃ mamāgre satyam |  
-
-  
-iti kopāṭopa-visaṅkaṭaṃ vadatyāṃ mātari rāja-putrī bhaya-lajjānatānanaṃ provāca-amba, sākṣān nārāyaṇaḥ pratyahaṃ garuḍārūḍho niśi samāyāti | ced asatyaṃ mama vākyam, tat sva-cakṣuṣā vilokayatu niguḍhatarā niśīthe bhagavantaṃ ramā-kāntam |   
-
-  
-tac chrutvā sāpi prahasita-vadanā pulakāṅkita-sarvāṅgī satvaraṃ rājānam ūce-deva, diṣṭyā vardhase | nityam eva niśīthe bhagavān nārāyaṇaḥ kanyakā-pārśve'bhyeti | tena gāndharva-vivāhena sā vivāhitā | tad adya tvayā mayā ca rātrau vātāyana-gatābhyāṃ niśīthe draṣṭavyaḥ | yato na sa mānuṣaiḥ sahālāpaṃ karoti |   
-
-  
-tac chrutvā harṣitasya rājñas tad dinaṃ varṣa-śata-prāyam iva kathañcij jagāma | tatas tu rātrau nibhṛto bhūtvā rājñī-sahito rājā vātāyanas-stho gaganāsakta-dṛṣṭir yāvat tiṣṭhati, tāvat tasmin samaye garuḍārūḍhaṃ taṃ śaṅka-cakra-gadā-padma-hastaṃ yathokta-cihnāṅkitaṃ  vyomno 'vatarantaṃ nārāyaṇam apaśyat | tataḥ sudhā-pūra-plāvitam ivātmānaṃ manyamānas tām uvāca-priye ! nāsty anyo dhanyataro loke mattas tvattaś ca | tat prasūtiṃ nārāyaṇo bhajate | tat-siddhāḥ sarve'smākaṃ manorathāḥ | adhunā jāmātṛ-prabhāveṇa sakalām api vasumatīṃ vaśyāṃ kariṣyāmi |   
-
-  
-evaṃ niścitya sarvaiḥ sīmādhipaiḥ saha maryādā-vyatikramam akarot | te ca taṃ maryādā-vyatikrameṇa vartamānam ālokya sarve sametya tena saha vigrahaṃ cakruḥ |  
-
-  
-atrāntare sa rājā devī-mukhena tāṃ duhitaram uvāca-putri, tvayi duhitari vartamānāyāṃ nārāyaṇe bhagavati jāmātari sthite tat kim evaṃ yujyate yat sarve pārthivā mayā saha vigrahaṃ kurvanti | tat sambodhyo 'dya tvayā nija-bhartā, yathā mama śatrūn vyāpādayati |   
-
-  
-tatas tayā sa kauliko rātrau sa-vinayam abhihitaḥ-bhagavan, tvayi jāmātari sthite mama tāto yac chatrubhiḥ paribhūyate tan na yuktam | tat prasādaṃ kṛtvā sarvāṃs tān śatrūn vyāpādaya |   
-
-  
-kaulika āha-subhage ! kiyan-mātrās tv ete tava pituḥ śatravaḥ | tad-viśvastā bhava | kṣaṇenāpi sudarśana-cakreṇa sarvāṃs tilaśaḥ khaṇḍayiṣyāmi |  
-
-  
-atha gacchatā kālena sarva-deśaṃ śatrubhir udvāsya sa rājā prākāra-śeṣaḥ kṛtaḥ | tathāpi vāsudeva-rūpa-dharaṃ kaulikam ajānan rāja nityam eva viśeṣataḥ karpūrāguru-kastūrikādi-parimala-viśeṣān nānā-prakāra-vastra-puṣpa-bhakṣya-peyāṃś ca preṣayan duhitṛ-mukhena tam ūce-bhagavan, prabhāte nūnaṃ sthāna-bhaṅgo bhaviṣyati | yato yavasendhana-kṣayaḥ sañjātas tathā sarvo 'pi janaḥ prahārair jarjarita-dehaḥ saṃvṛtto yoddhum akṣamaḥ pracuro mṛtaś ca | tad evaṃ jñātvātra kāle yad ucitaṃ bhavati tad vidheyam iti |  
-
-  
-tac chrutvā kauliko 'py acintayat-sthāna-bhaṅge jāte mamānayā saha viyogo bhaviṣyati æ tasmād garuḍam āruhya sāyudham ātmānam ākāśe darśayāmi | kadācin māṃ vāsudevaṃ manyamānās te sāśaṅkā rājño yoddhṛbhir hanyate | uktaṃ ca-  
-
-  
-nirviṣeṇāpi sarpeṇa kartavyā mahatī phaṇā |
-  
-viṣaṃ bhavatu vā mābhūt phaṇāṭopo bhayaṅkaraḥ ||Panc_1.225||  
-
-  
-atha yadi mama sthānārtham udyatasya mṛtyur bhaviṣyati tad api sundarataram | uktaṃ ca-  
-
-  
-gavām arthe brāhmaṇārthe svāmy-arthe svīkṛte'thavā |
-  
-sthānārthe yas tyajet prāṇāṃs tasya lokāḥ sanātanāḥ ||Panc_1.226||
-  
-candre maṇḍala-saṃsthe vigṛhyate rāhuṇā dinādhīśaḥ |
-  
-śaraṇāgatena sārdhaṃ vipad api tejasvinā ślāghyā ||Panc_1.227||  
-
-  
-evaṃ niścitya pratyūṣe danta-dhāvanaṃ kṛtvā tāṃ provāca-subhage ! samastaiḥ śatrubhir hatair annaṃ pānaṃ cāsvādayiṣyāmi | kiṃ bahunā, tvayāpi saha saṅgamaṃ tataḥ kariṣyāmi | paraṃ vācyas tvayātma-pitā yat prabhāte prabhūtena sainyena saha nagarān niṣkramya yoddhavyam | ahaṃ cākāśa-sthita eva sarvāṃs tān nistejasaḥ kariṣyāmi | paścāt sukhena bhavatā hantavyāḥ yadi punar ahaṃ tān svayam eva sūdayāmi tat teṣāṃ pāpātmanāṃ vaikuṇṭhīyā gatiḥ syāt | tasmāt te tathā kartavyā yathā palāyanto hanyamānāḥ svargaṃ na gacchanti |   
-
-  
-sāpi tad ākarṇya pituḥ samīpaṃ gatvā sarvaṃ vṛttāntaṃ nyavedayat | rājāpi tasyā vākyaṃ śraddadhānaḥ pratyūṣe samutthāya samunnaddha-sainyo yuddhārthaṃ niścakrāma | kauliko 'pi maraṇe kṛta-niścayaś cāpa-pāṇir gagana-gatir garuḍārūḍho yuddhāya prasthitaḥ |   
-
-  
-atrāntare bhagavatā nārāyaṇenātītānāgata-vartamāna-vedinā, smṛta-mātro vainateyaḥ samprāpto vihasya proktaḥ-bho garutman ! jānāsi tvaṃ yan mama rūpeṇa kauliko dāru-maya-garuḍe samārūḍho rāja-kanyāṃ kāmayate |  
-
-  
-so 'bravīt-deva, sarvaṃ jñāyate tac ceṣṭitam | tat kiṃ kurmaḥ sāmpratam ?   
-
-  
-śrī-bhagavān āha-adya kauliko maraṇe kṛta-niścayo vihita-niyamo yuddhārthe vinirgataḥ sa nūnaṃ pradhāna-kṣatriyair militvā vāsudevo garuḍaś ca nipātitaḥ | tataḥ paraṃ loko 'yam āvayoḥ pūjāṃ na kariṣyati | tatas tvaṃ drutataraṃ tatra dāru-maya-garuḍe saṅkramaṇaṃ kuru | aham api kaulika-śarīre praveśaṃ kariṣyāmi | yena sa śatrūn vyāpādayati | tataś ca śatru-vadhād āvayor māhātmya-vṛddhiḥ syāt |  
-
-  
-atha garuḍe tatheti pratipanne śrī-bhagavan-nārāyaṇas tac-charīre saṅkramaṇam akarot | tato bhagavan-māhātmyena gagana-sthaḥ sa kaulikaḥ śaṅkha-cakra-gadā-cāpa-cihnitaḥ kṣaṇād eva līlayaiva samastān api pradhāna-kṣatriyān nistejasaś cakārar | tatas tena rājñā sva-sainya-parivṛtena saṅgrāme jitā nihatāś ca te sarve'pi śatravaḥ | jātaś ca loka-madhye pravādo, yathā-anena viṣṇu-jāmātṛ-prabhāveṇa sarve śatravo nihatā iti |  
-
-  
-kauliko 'pi tān hatān dṛṣṭvā pramudita-manā gaganād avatīrṇaḥ san, yāvad rājāmātya-paura-lokās taṃ nagara-vāstavyaṃ kaulikaṃ paśyanti tataḥ pṛṣṭaḥ kim etad iti | tataḥ so 'pi mūlād ārabhya sarvaṃ prāg-vṛttāntaṃ nyavedayat | tataś ca kaulika-sāhasānurañjita-manasā śatru-vadhād avāpta-tejasā rājñā sā rāja-kanyā sakala-jana-pratyakṣaṃ vivāha-vidhinā tasmai samarpitā deśaś ca pradattaḥ | kauliko 'pi tayā sārdhaṃ pañca-prakāraṃ jīva-loka-sāraṃ viṣaya-sukham anubhavan kālaṃ nināya | atas tūcyate suprayuktasya dambhasya (218) iti |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-tac chrutvā karaṭaka āha-bhadra, asty evam | paraṃ tathāpi mahan me bhayam | yato buddhimān sañjīvako raudraś ca siṃhaḥ | yadyapi te buddhi-prāgalbhyaṃ tathāpi tvaṃ piṅgalakāt taṃ viyojayitum asamartha eva |  
-
-  
-damanaka āha-bhrātaḥ ! asamartho 'pi samartha eva | uktaṃ ca-  
-
-  
-upāyena hi yac chakyaṃ na tac chakyaṃ parākramaiḥ |
-  
-kākī kanaka-sūtreṇa kṛṣṇa-sarpam aghātayat ||Panc_1.228||  
-
-  
-karaṭaka āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 6
-  
-vāyasa-dampati-kathā   
-
-  
-asti kasmiṃścit pradeśe mahān nyagrodha-pādapaḥ | tatra vāyasa-dampatī prativasataḥ sma | atha tayoḥ prasava-kāle vṛkṣa-vivarān niṣkramya kṛṣṇa-sarpaḥ sadaiva tad-apatyāni bhakṣayati | tatas tau nirvedād anya-vṛkṣa-mūla-nivāsinaṃ priya-suhṛdaṃ śṛgālaṃ gatvocatuḥ-bhadra ! kim evaṃvidhe sañjāta āvayoḥ kartavyaṃ bhavati | evaṃ tāvad duṣṭātmā kṛṣṇa-sarpo vṛkṣa-vivarān nirgatyāvayor bālakān bhakṣayati | tat kathyatāṃ tad-rakṣārthaṃ kaścid upāyaḥ |  
-
-  
-yasya kṣetraṃ nadī-tīre bhāryā ca para-saṅgatā |
-  
-sa-sarpe ca gṛhe vāsaḥ kathaṃ syāt tasya nirvṛtiḥ ||Panc_1.229||  
-
-  
-anyac ca-
-  
-sarpa-yukte gṛhe vāso mṛtyur eva na saṃśayaḥ |
-  
-yad grāmānte vaset sarpas tasya syāt prāṇa-saṃśayaḥ ||Panc_1.230||  
-
-  
-asmākam api tatra-sthitānāṃ pratidinaṃ prāṇa-saṃśayaḥ |  
-
-  
-sa āha-nātra viṣaye svalpo 'pi viṣādaḥ kāryaḥ | nūnaṃ sa lubdho nopāyam antareṇa vadhyaḥ syāt | 
-  
-upāyena jayo yādṛg ripos tādṛṅ na hetibhiḥ |
-  
-upāya-jño 'lpa-kāyo 'pi na śūraiḥ paribhūyate ||Panc_1.231||  
-
-  
-tathā ca-
-  
-bhakṣayitvā bahūn matsyān uttamādhama-madhyamān |
-  
-atilaulyād bakaḥ kaścin mṛtaḥ karkaṭaka-grahāt ||Panc_1.232||  
-
-  
-tāv ūcatuḥ-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 7
-  
-baka-kulīraka-kathā  
-
-  
-asti kasmiṃścid vana-pradeśe nānā-jala-cara-sanāthaṃ mahat saraḥ | tatra ca kṛtāśrayo baka eko vṛddha-bhāvam upāgato matsyān vyāpādayitum asamarthaḥ | tataś ca kṣutkṣāma-kaṇṭhaḥ saras-tīre upaviṣṭo muktā-phala-prakara-sadṛśair aśru-pravāhair dharā-talam abhiṣiñcan ruroda | ekaḥ kulīrako nānā-jala-cara-sametaḥ sametya tasya duḥkhena duḥkhitaḥ sādaram idam ūce-māma ! kim adya tvayā nāhāra-vṛttir anuṣṭhīyate ? kevalam aśru-pūrṇa-netrābhyāṃ sa-niḥśvāsena sthīyate |  
-
-  
-sa āha-vatsa ! satyam upalakṣitaṃ bhavatā | mayā hi matsyādanaṃ prati parama-vairāgyatayā sāmprataṃ prāyopaveśanaṃ kṛtam | tenāhaṃ samīpāgatān api matsyān na bhakṣayāmi |  
-
-  
-kulīrakas tac chrutvā prāha-māma, kiṃ tad vairāgya-kāraṇam ?  
-
-  
-sa prāha-vatsa, aham asmin sarasi jāto vṛddhiṃ gataś ca | tan mayaitac chrutaṃ yad dvādaśa-varṣikyānāvṛṣṭiḥ sampadyate lagnā |   
-
-  
-kulīraka āha-kasmāt tac chrutam ?   
-
-  
-baka āha-daivajña-mukhād eṣa śanaiścaro hi rohiṇī-śakaṭaṃ bhittvā bhaumaṃ śakraṃ ca prayāsyati | uktaṃ ca varāha-mihireṇa-  
-
-  
-yadi bhinte sūrya-suto rohiṇyāḥ śakaṭam iha loke |
-  
-dvādaśa varṣāṇi tadā nahi varṣati vāsavau bhūmau ||Panc_1.233||  
-
-  
-tathā ca-
-  
-prājāpatye śakaṭe bhinne kṛtvaiva pātakaṃ vasudhā |
-  
-bhasmāsthi-śakalākīrṇā kāpālikam iva vrataṃ dhatte ||Panc_1.234||  
-
-  
-tathā ca-
-  
-rohiṇī-śakaṭam arka-nandanaś ced
-  
-bhinnatti rudhiro 'thavā śaśī |
-  
-kiṃ vadāmi tad-aniṣṭa-sāgare
-  
-sarva-lokam upayāti saṅkṣayaḥ ||Panc_1.235||  
-
-  
-rohiṇī-śakaṭa-madhya-saṃsthite 
-  
-candram asya śaraṇī-kṛtā janāḥ |
-  
-kvāpi yānti śiśupācitāśanāḥ
-  
-sūrya-tapta-bhidurāmbu-pāyinaḥ ||Panc_1.236||  
-
-  
-tad etat saraḥ svalpa-toyaṃ vartate | śīghraṃ śoṣaṃ yāsyati | asmin śuṣke yaiḥ sahāhaṃ vṛddhiṃ gataḥ, sadaiva krīḍitaś ca, te sarve toyābhāvān nāśaṃ yāsyanti | tat teṣāṃ viyogaṃ draṣṭum aham asamarthaḥ | tenaitat prāyopaveśanaṃ kṛtam | sāmprataṃ sarveṣāṃ svalpa-jalāśayānāṃ jalacarā guru-jalāśayeṣu sva-svajanair nīyante | kecic ca makara-godhā-śiśumāra-jalahasti-prabhṛtayaḥ svayam eva gacchanti | atra punaḥ sarasi ye jalacarās te niścintāḥ santi, tenāhaṃ viśeṣād rodimi yad bīja-śesa-mātram apy atra noddhariṣyati |   
-
-  
-tataḥ sa tad ākarṇyānyeṣām api jalacarāṇāṃ tat tasya vacanaṃ nivedayāmāsa | atha te sarve bhaya-trasta-manaso matsya-kacchapa-prabhṛtayas tam abhyupetya papracchuḥ-māma ! asti kaścid upāyo yenāsmākaṃ rakṣā bhavati ?  
-
-  
-baka āha-asty asya jalāśayasya nātidūre prabhūta-jala-sanāthaṃ saraḥ padminī-khaṇḍa-maṇḍitaṃ yac caturviṃśaty api varṣāṇām avṛṣṭyā na śoṣam eṣyati | tad yadi mama pṛṣṭhaṃ kaścid ārohati, tad ahaṃ taṃ tatra nayāmi |  
-
-  
-atha te tatra viśvāsam āpannāḥ, tāta mātula bhrātaḥ iti bruvāṇāḥ ahaṃ pūrvam ahaṃ pūrvam iti samantāt paritasthuḥ | so 'pi duṣṭāśayaḥ krameṇa tān pṛṣṭha āropya jalāśayasya nātidūre śilāṃ samāsādya tasyām ākṣipya  svecchayā bhakṣayitvā bhūyo 'pi jalāśayaṃ samāsādya jalacarṇāṇāṃ mithyā-vārtā-sandeśakair manāṃsi rañjayan nityam evāhāra-vṛttim akarot |  
-
-  
-anyasmin dine ca kulīrakeṇoktaḥ-māma ! mayā saha te prathamaḥ sneha-sambhāṣaḥ sañjātaḥ  | tat kiṃ māṃ parityajyānyān nayasi ? tasmād adya me prāṇa-trāṇaṃ kuru |   
-
-  
-tad ākarṇya so 'pi duṣṭāśayaś cintitavān-nirviṇṇo 'haṃ matsya-māṃsādanena tad adyainaṃ kulīrakaṃ vyañjana-sthāne karomi | iti vicintya taṃ pṛṣṭe samāropya tāṃ vadhya-śilām uddiśya prasthitaḥ | kulīrako 'pi dūrād evāsthi-parvataṃ śilāśrayam avalokya mastyāsthīni parijñāya tam apṛcchat-māma, kiyad dūre sa jalāśayaḥ ? madīya-bhāreṇātiśrāntas tvam | tat kathaya |  
-
-  
-so 'pi manda-dhīr jalacaro 'yam iti matvā sthale na prabhavatīti sa-smitam idam āha-kulīraka, kuto 'nyo jalāśayaḥ ? mama prāṇa-yātreyam | tasmāt smaryatām ātmano 'bhīṣṭa-devatā | tvām apy anyāṃ śilāyāṃ nikṣipya bhakṣayiṣyāmi | ity uktavati tasmin sva-vadana-daṃśa-dvayena mṛṇāla-nāla-dhavalāyāṃ mṛdu-grīvāyāṃ gṛhīto mṛtaś ca |   
-
-  
-atha sa tāṃ baka-grīvāṃ samādāya śanaiḥ śanais taj jalāśayam āsasāda | tataḥ sarvair eva jalacaraiḥ pṛṣṭaḥ-bhoḥ kulīraka ! kiṃ nivṛttas tvam ? sa mātulo 'pi nāyātaḥ | tat kiṃ cirayati ? vayaṃ sarve sotksukāḥ kṛta-kṣaṇās tiṣṭhāmaḥ |   
-
-  
-evaṃ tair abhihite kulīrako 'pi vihasyovāca-mūrkhāḥ ! sarve jalacarās tena mithyā-vādinā vañcayitvā nātidūre śilā-tale prakṣipya bhakṣitāḥ | tan mamāyuḥ-śeṣatayā tasya viśvāsa-ghātakasyābhiprāyaṃ jñātvā grīveyam ānītā | tad alaṃ sambhrameṇa | adhunā sarva-jala-carāṇāṃ kṣemaṃ bhaviṣyati |   
-
-  
-ato 'haṃ bravīmi-bhakṣayitvā bahūn matsyān iti |  
-
-  
-vāyasa āha-bhadra ! tat kathaya kathaṃ sa duṣṭa-sarpo vadham upaiṣyati |   
-
-  
-śṛgāla āha-gacchatu bhavān kañcin nagaraṃ rājādhiṣṭhānam | tatra kasyāpi dhanino rājāmātyādeḥ pramādinaḥ kanaka-sūtraṃ hāraṃ vā gṛhītvā tat-koṭare prakṣipa, yena sarpas tad-grahaṇena vadhyate |  
-
-  
-tat-kṣaṇāt kākaḥ kākī ca tad ākarṇyātmecchayotpatitau | tataś ca kākī kiñcit saraḥ prāpya yāvat paśyati, tāvat tan-madhye kasyacid rājño 'ntaḥpuraṃ jalāsannaṃ nyasta-kanaka-sūtraṃ mukta-muktāhāra-vastrābharaṇaṃ jala-krīḍāṃ kurute | atha sā vāyasī kanaka-sūtram ekam ādāya sva-gṛhābhimukhaṃ pratasthe | tataś ca kañcukino varṣa-varāś ca tan-nīyamānam upalakṣya gṛhīta-laguḍāḥ satvaram anuyayuḥ | kāky api sarpa-koṭare tat-kanaka-sūtraṃ prakṣipya sudūram avasthitā |   
-
-  
-atha yāvad rāja-puruṣās taṃ vṛkṣam āruhya tat-koṭaram avalokayanti, tāvat kṛṣṇa-sarpaḥ prasārita-bhogas tiṣṭhati | tatas taṃ laguḍa-prahāreṇa hatvā kanaka-sūtram ādāya yathābhilaṣitaṃ sthānaṃ gatāḥ | vāyasa-dampatī api tataḥ paraṃ sukhena vasataḥ | ato 'haṃ bravīmi-upāyena hi yat kuryāt iti |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-tan na kiṃcid iha buddhimatām asādhyam asti | uktaṃ ca-  
-
-  
-yasya buddhir balaṃ tasya nirbuddhes tu kuto balam |
-  
-vane siṃho madonmattaḥ śaśakena nipātitaḥ ||Panc_1.237||  
-
-  
-karaṭaka āha-katham etat ?  
-
-  
-sa āha-  
-
-  
-kathā 8
-  
-bhāsurakākhya-siṃha-kathā   
-
-  
-kasmiṃścid vane bhāsurako nāma siṃhaḥ prativasati sma | athāsau vīryātirekān nityam evānekān mṛga-śaśakādīn vyāpādayan nopararāma | athānyedyus tad-vanajāḥ sarve sāraṅga-varāha-mahiṣa-śaśakādayo militvā tam abhyupetya procuḥ-svāmin ! kim anena sakala-mṛga-vadhena nityam eva, yatas tavaikenāpi mṛgeṇa tṛptir bhavati tat kriyatām asmābhiḥ saha samaya-dharmaḥ | adya-prabhṛti tavātropaviṣṭasya jāti-krameṇa pratidinam eko mṛgo bhakṣaṇārthaṃ sameṣyati | evaṃ kṛte tava tāvat prāṇa-yātrā kleśaṃ vināpi bhaviṣyati | asmākaṃ ca punaḥ sarvocchedanaṃ na syāt | tad eṣa rāja-dharmo 'nuṣṭhīyatām | uktaṃ ca-  
-
-  
-śanaiḥ śanaiś ca yo rājyam upabhuṅkte yathā-balam |
-  
-rasāyanam iva prājñaḥ sa puṣṭiṃ paramāṃ vrajet ||Panc_1.238||
-  
-vidhinā mantra-yuktena rūkṣāpi mathitāpi ca |
-  
-prayacchati phalaṃ bhūmir araṇīva hutāśanam ||Panc_1.239||
-  
-prajānāṃ pālanaṃ śasyaṃ svarga-kośasya vardhanam |
-  
-pīḍanaṃ dharma-nāśāya pāpāyāyaśase sthitam ||Panc_1.240||
-  
-gopālena prajādhenor vitta-dugdhaṃ śanaiḥ śanaiḥ |
-  
-pālanāt poṣaṇād grāhyaṃ nyāyyāṃ vṛttiṃ samācaret ||Panc_1.241||
-  
-ajām iva prajāṃ mohād yo hanyāt pṛthivī-patim |
-  
-tasyaikā jāyate tṛptir na dvitīyā kathañcana ||Panc_1.242||
-  
-phalārthī nṛpatir lokān pālayed yatnam āsthitaḥ |
-  
-dāna-mānādi-toyena mālākāro 'ṅkurān iva ||Panc_1.243||
-  
-nṛpa-dīpo dhana-snehaṃ prajābhyaḥ saṃharann api |
-  
-āntara-sthair guṇaiḥ śubhrair lakṣyate naiva kenacit ||Panc_1.244||
-  
-yathā gaur duhyate kāle pālyate ca tathā prajāḥ |
-  
-sicyate cīyate caiva latā puṣpa-phala-pradā ||Panc_1.245||
-  
-yathā bījāṅkuraḥ sūkṣmaḥ prayatnenābhirakṣitaḥ |
-  
-phala-prado bhavet kāle tadval lokaḥ surakṣitaḥ ||Panc_1.246||
-  
-hiraṇya-dhānya-ratnāni yānāni vividhāni ca |
-  
-tathānyad api yat kiñcit prajābhyaḥ syān mahīpateḥ ||Panc_1.247||
-  
-lokānugraha-kartāraḥ pravardhante nareśvarāḥ |
-  
-lokānāṃ saṅkṣayāc caiva kṣayaṃ yānti na saṃśayaḥ ||Panc_1.248||  
-
-  
-atha teṣāṃ tad-vacanam ākarṇya bhāsuraka āha-aho satyam abhihitaṃ bhavadbhiḥ | paraṃ yadi mamopaviṣṭasyātra nityam eva naikaḥ śvāpadaḥ samāgamiṣyati | tan nūnaṃ sarvān api bhakṣayiṣyāmi | atha te tathaiva pratijñāya nirvṛti-bhājas tatraiva vane nirbhayāḥ paryaṭanti | ekaś ca pratidinaṃ krameṇa yāti | vṛddho vā, vairāgya-yukto vā, śoka-grasto vā, putra-kalatra-nāśa-bhīto vā, teṣāṃ madhyāt tasya bhojanārthaṃ madhyāhna-samaya upatiṣṭhate |  
-
-  
-atha kadācij jāti-kramāc chaśakasyāvasaraḥ samāyātaḥ | sa samasta-mṛgaiḥ prerito 'nicchann api mandaṃ mandaṃ gatvā tasya vadhopāyaṃ cintayan velātikramaṃ kṛtvāvyākulita-hṛdayo yāvad gacchati tāvan-mārge gacchatā kūpaḥ sandṛṣṭaḥ | yāvat kūpopari pāti tāvat kūpa-madhya ātmanaḥ pratibimbaṃ dadarśa | dṛṣṭvā ca tena hṛdaye cintitam-yad bhāvya upāyo 'sti | ahaṃ bhāsurakaṃ prakopya sva-buddhyāsmin kūpe pātayiṣyāmi |   
-
-  
-athāsau dina-śeṣe bhāsuraka-samīpaṃ prāptaḥ | siṃho 'pi velātikrameṇa kṣutkṣāma-kaṇṭhaḥ kopāviṣṭaḥ sṛkkaṇī parilelihad vyacintayat-aho ! pratār-āhārāya niḥsattvaṃ vanaṃ mayā kartavyam | evaṃ cintayatas tasya śaśako mandaṃ mandaṃ gatvā praṇamya tasyāgre sthitaḥ | atha taṃ prajvalitātmā bhāsurako bhartsayann āha-re śaśakādhama ekas tāvat tvaṃ laghuḥ prāpto 'parato velātikrameṇa | tad asmād aparādhāt tvāṃ nipātya prātaḥ sakalāny api mṛga-kulāny ucchedayiṣyāmi |  
-
-  
-atha śaśakaḥ sa-vinayaṃ provāca-svāmin ! nāparādho mama | na ca sattvānām | tac chyrūtāṃ kāraṇam |  
-
-  
-siṃha āha-satvaraṃ nivedaya yāvan mama daṃṣṭrāntargato na bhavān bhaviṣyati iti |   
-
-  
-śaśaka āha-svāmin, samasta-mṛgair adya jāti-krameṇa mama laghutarasya prastāvaṃ vijñāya tato 'haṃ pañca-śaśakaiḥ samaṃ preṣitaḥ | tataś cāham āgacchenn antarāle mahatā kenacid apareṇa siṃhena vivarān nirgatyābhihitaḥ-abhīṣṭa-devatāṃ smarata |  
-
-  
-tato mayābhihitam-vayaṃ svāminon bhāsuraka-siṃhasya sakāśam āhārārthaṃ samaya-dharmeṇa gacchāmaḥ |   
-
-  
-tatas tenābhihitam-yady evaṃ tarhi madīyam etad-vanam | mayā saha samaya-dharmeṇa samastair api śvāpadair vartitavyam | cora-rūpī sa bhāsurakaḥ | atha yadi so 'tra rājā | viśvāsa-sthāne caturaḥ śaśakān atra dhṛtvā tam āhūya drutataram āgaccha | yena yaḥ kaścid āvayor madhyāt parākrameṇa rājā bhaviṣyati sa sarvān etān bhakṣayiṣyati iti |  
-
-  
-tato 'haṃ tenādiṣṭaḥ svāmi-sakāśam abhyāgataḥ | etad velā vyatikrama-kāraṇam | tad atra svāmī pramāṇam |  
-
-  
-tac chrutvā bhāsuraka āha-bhadra, yady evaṃ tat satvaraṃ darśaya me taṃ caura-siṃhaḥ yenāhaṃ mṛga-kopaṃ tasyopari kṣiptvā svastho bhavāmi | uktaṃ ca-  
-
-  
-bhūmir mitraṃ hiraṇyaṃ ca vigrahasya phala-trayam |
-  
-nāsty ekam api yady eṣāṃ na taṃ kuryāt kathañcana ||Panc_1.249||
-  
-yatra na syāt phalaṃ bhūri yatra casyāt parābhavaḥ |
-  
-na tatra matimān yuddhaṃ samutpādya samācaret ||Panc_1.250||  
-
-  
-śaśāka āha-svāmin ! satyam idam | sva-bhūmi-hetoḥ paribhavāc ca yudhyante kṣatriyāḥ | paraṃ sa durgāśrayaḥ durgān niṣkramya vayaṃ tena viṣkambhitāḥ | tato durgastho duḥsadhyo bhavati ripuḥ | uktaṃ ca-  
-
-  
-na gajānāṃ sahasreṇa na ca lakṣeṇa vājinām | yat kṛtyaṃ sidhyati rājñāṃ durgeṇaikena vigrahe ||Panc_1.251|| śatam eko 'pi saṃdhatte prākārastho dhanurdharaḥ | tasmād durgaṃ praśaṃsanti nītiśāstravicakṣaṇāḥ ||Panc_1.252|| purā guroḥ samādeśādd hiraṇyakaśipor bhayāt | śakreṇa vihitaṃ durgaṃ prabhāvād viśvakarmaṇaḥ ||Panc_1.253|| tenāpi ca varo datto yasya durgaṃ sa bhūpatiḥ | vijayī syāt tato bhūmau durgāṇi syuḥ sahasraśaḥ ||Panc_1.254|| daṃṣṭrāvirahito nāgo madahīno yathā gajaḥ | sarveṣāṃ jāyate vaśyo durgahīnas tathā nṛpaḥ ||Panc_1.255||  
-
-  
-tac chrutvā bhāsuraka āha | bhadra durgastham api darśaya taṃ caura-siṃhaṃ yena vyāpādayāmi | uktaṃ ca-  
-
-  
-jāta-mātraṃ na yaḥ śatruṃ rogaṃ ca praśamaṃ nayet | mahābalo 'pi tenaiva vṛddhiṃ prāpya sa hanyate ||Panc_1.256|| 
-  
-tathā ca-
-  
-uttiṣṭhamānas tu paro nopekṣyaḥ pathyam icchatā | samau hi śiṣṭair āmnātau vartsyantāv āmayaḥ sa ca ||Panc_1.257|| 
-  
-api ca-
-  
-upekṣitaḥ kṣīṇa-balo 'pi śatruḥ pramāda-doṣāt puruṣair madāndhaiḥ | sādhyo 'pi bhūtvā prathamaṃ tato 'sāv 
-  
-asādhyatāṃ vyādhir iva prayāti ||Panc_1.258|| 
-  
-tathā ca-
-  
-ātmanaḥ śaktim udvīkṣya manotsāhaṃ ca yo vrajet | bahūn hanti sa eko 'pi kṣatriyān bhārgavo yathā ||Panc_1.259|| 
-  
-śaśaka āha-asty etat | tathāpi balavān sa mayā dṛṣṭaḥ | tan na yujyate svāminas tasya tasya sāmarthyam aviditvā gantum | uktaṃ ca- 
-  
-aviditvātmanaḥ śaktiṃ parasya ca samutsukaḥ | gacchann abhimukho vahnau nāśaṃ yāti pataṅgavat ||Panc_1.260|| yo balāt pronnataṃ yāti nihantuṃ sabalo 'py arim | vimadaḥ sa nivarteta śīrṇa-danto gajo yathā ||Panc_1.261|| 
-  
-bhāsuraka āha-bhoḥ kiṃ tavānena vyāpāreṇa | darśaya me taṃ durgastham api |   
-
-  
-atha śaśaka āha-yady evaṃ tarhy āgacchatu svāmī | evam uktvāgre vyavasthitaḥ |  
-
-  
-tataś ca tenāgacchatā yaḥ kūpo dṛṣṭo 'bhūt tam eva kūpam āsādya bhāsurakam āha-svāmin kas te pratāpaṃ soḍhuṃ samarthaḥ ? tvāṃ dṛṣṭvā dūrato 'pi caura-siṃhaḥ praviṣṭaḥ svaṃ durgam | tad āgaccha yathā darśayāmīti |  bhāsuraka āha-darśaya me durgam | tad anu darśitas tena kūpaḥ | tataḥ so 'pi mūrkhaḥ siṃhaḥ kūpa-madhya ātma-pratibimbaṃ jala-madhya-gataṃ dṛṣṭvā siṃha-nādaṃ mumoca | tataḥ pratiśabdena kūpa-madhyād dvi-guṇataro nādaḥ samutthitaḥ |  
-
-  
-atha tena taṃ śatruṃ matvātmānaṃ tasyopari prakṣipya prāṇāḥ parityaktāḥ | śaśako 'pi hṛṣṭa-manāḥ sarva-mṛgān ānandya taiḥ saha praśasyamāno yathā-sukhaṃ tatra vane nivasati sma | ato 'haṃ bravīmi-yasya buddhir balaṃ tasya iti |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-tad yadi bhavān kathayati tat tatraiva gatvā tayoḥ sva-buddhi-prabhāveṇa maitrī-bhedaṃ karomi |   
-
-  
-karaṭaka āha-bhadra ! yady evaṃ tarhi gaccha | śivās te panthānaḥ santu | yathābhipretam anuṣṭhīyatām |  
-
-  
-atha damanakaḥ sañjīvaka-viyuktaṃ piṅgalakam avalokya tatrāntare praṇamyāgre samupaviṣṭaḥ | piṅgalako 'pi tam āha-bhadra, kiṃ cirād dṛṣṭaḥ ?  
-
-  
-damanaka āha-na kañcid deva-pādānām asmābhiḥ prayojanam | tenāhaṃ nāgacchāmi | tathāpi rāja-prayojana-vināśam avalokya sandahyamāna-hṛdayo vyākulatayā svayam evābhyāgato vaktum | uktaṃ ca-  
-
-  
-priyaṃ vā yadi vā dveṣyaṃ śubhaṃ vā yadi vāśubham |
-  
-apṛṣṭo 'pi hitaṃ vakṣyed yasya necchet parābhavam ||Panc_1.262||  
-
-  
-atha tasya sābhiprāyaṃ vacanam ākarṇya piṅgalaka āha-kiṃ vaktu-manā bhavān ? tat kathyatāṃ yat kathanīyam asti |  
-
-  
-sa prāha-deva sañjīvako yuṣmat-pādānām upari droha-buddhir iti | viśvāsa-gatasya mama vijane idam āha-bho damanaka ! dṛṣṭā mayāsya piṅgalakasya sārāsāratā | tad aham enaṃ hatvā sakala-mṛgādhipatyaṃ tvat-sācivya-padavī-samanvitaṃ kariṣyāmi | piṅgalako 'pi tad-vajra-sāra-prahāra-sadṛśaṃ dāruṇaṃ vacaḥ samākarṇya moham upagato na kiñcid apy uktavān | damanako 'pi tasya tam ākāram ālokya cintitavān-ayaṃ tāvat sañjīvaka-nibaddha-rāgaḥ | tan nūnam anena mantriṇā rājā vināśam avāpsyati iti | uktaṃ ca-  
-
-  
-ekaṃ bhūmi-patiḥ karoti sacivaṃ rājye pramāṇaṃ yadā taṃ mohāc chrayate madaḥ sa ca madād dāsyena nirvidyate |
-  
-nirviṇṇasya padaṃ karoti hṛdaye tasya svatantra-spṛhā- svātantrya-spṛhayā tataḥ sa nṛpateḥ prāṇān abhidruhyati ||Panc_1.263|| 
-  
-tat kim atra yuktam iti | piṅgalako 'pi cetanāṃ samāsādya katham api tam āha-sañjīvakas tāvat prāṇa-samo bhṛtyaḥ | sa kathaṃ mamopari droha-buddhiṃ karoti |   
-
-  
-damanaka āha-deva, bhṛtyo 'bhṛtya ity anekāntikam etat | uktaṃ ca-  
-
-  
-na so 'sti puruṣo rājñāṃ yo na kāmayate śriyam |
-  
-aśaktā eva sarvatra narendraṃ paryupāsate ||Panc_1.264||  
-
-  
-piṅgalaka āha-bhadra, tathāpi mama tasyopari citta-vṛttir na vikṛtiṃ yāti | athavā sādhv idam ucyate-  
-
-  
-aneka-doṣa-duṣṭasya kāyaḥ kasya na vallabhaḥ |
-  
-kurvann api vyalīkāni yaḥ priyaḥ priya eva saḥ ||Panc_1.265||  
-
-  
-damanaka āha-ata evāyaṃ doṣaḥ | uktaṃ ca-  
-
-  
-yasminn evādhikaṃ cakṣur āropayati pārthivaḥ |
-  
-akulīnaḥ kulīno vā sa śriyā bhājanaṃ naraḥ ||Panc_1.266||  
-
-  
-aparaṃ kena gaṇa-viśeṣeṇa svāmī sañjīvakaṃ nirguṇakam api nikaṭe dhārayati | atha deva, yady evaṃ cintayasi mahā-kāyo 'yam | anena ripūn vyāpādayiṣyāmi | tad asmān na sidhyati, yato 'yaṃ śaṣpa-bhojī | deva-pādānāṃ punaḥ śatravo māṃsāśinaḥ | tad-ripu-sādhanam asya sāhāyyena na bhavati | tasmād enaṃ dūṣayitvā hanyatām iti |   
-
-  
-piṅgalaka āha-
-  
-ukto bhavati yaḥ pūrvaṃ guṇavān iti saṃsadi |
-  
-tasya doṣo na vaktavyaḥ pratijñā-bhaṅga-bhīruṇā ||Panc_1.267||   
-
-  
-anyac ca | mayāsya tava vacanenābhaya-pradānaṃ dattam | tat kathaṃ svayam eva vyāpādayāmi | sarvathā sañjīvako 'yaṃ suhṛd asmākam | na taṃ prati kaścin manyur iti | uktaṃ ca-  
-
-  
-itaḥ sa daityaḥ prāpta-śrīr neta evārhati kṣayam |
-  
-viṣa-vṛkṣo 'pi saṃvardhya svayaṃ chettum asāmpratam ||Panc_1.268||  
-
-  
-ādau na vā praṇayināṃ praṇayo vidheyo 
-  
-datto 'thavā pratidinaṃ paripoṣaṇīyaḥ |
-  
-utkṣipya yat kṣipati tat prakaroti lajjāṃ 
-  
-bhūmau sthitasya patanād bhayam eva nāsti ||Panc_1.269||  
-
-  
-upakāriṣu yaḥ sādhuḥ sādhutve tasya ko guṇaḥ |
-  
-apakāriṣu yaḥ sādhuḥ sa sādhuḥ sadbhir ucyate ||Panc_1.270||  
-
-  
-tad-droha-buddher api mayāsya na viruddham ācaraṇīyam |   
-
-  
-damanaka āha-svāmin ! naiṣa rāja-dharmo yad droha-buddhir api kṣamyate | uktaṃ ca-  
-
-  
-tulyārthaṃ tulya-sāmarthyaṃ marmajñaṃ vyavasāyinam |
-  
-ardha-rājya-haraṃ bhṛtyaṃ yo na hanyāt sa hanyate ||Panc_1.271||  
-
-  
-aparaṃ tvayāsya sakhitvāt sarvo 'pi rāja-dharmaḥ parityaktaḥ rāja-dharmābhāvāt sarvo 'pi parijano viraktiṃ gataḥ | yaḥ sañjīvakaḥ śaṣpa-bhojī | bhavān māṃsādaḥ | tava prakṛtayaś ca yat tavāvadhyavyasāya-bāhyaṃ kutas tāsāṃ māṃsāśanam | yad-rahitās tvāṃ tyaktvā yāsyanti | tato 'pi tvaṃ vinaṣṭa eva | asya saṅgatyā punas te na kadācid ākheṭake matir bhaviṣyati | uktaṃ ca-
-  
-yādṛśaiḥ sevyate bhṛtyair yādṛśāṃś copasevate |
-  
-kadācin nātra sandehas tādṛg bhavati pūruṣaḥ ||Panc_1.272||  
-
-  
-tathā ca-
-  
-santaptāyasi saṃsthitasya payaso nāmāpi na jñāyate 
-  
-mukta-kāratayā tad eva nalinī-patra-sthitaṃ rājate |
-  
-svātau sāgara-śukti-kukṣi-patitaṃ taj jāyate mauktikaṃ
-  
-prāyeṇādhama-madhyamottama-guṇaḥ saṃvāsato jāyate ||Panc_1.273||  
-
-  
-tathā ca-
-  
-asatāṃ saṅga-doṣeṇa satī yāti matir bhramam |
-  
-eka-rātri-pravāsena kāṣṭhaṃ muñje pralambitam ||Panc_1.274||  
-
-  
-ata eva santo nīca-saṅgaṃ varjayanti | uktaṃ ca-  
-
-  
-na hy avijñāta-śīlasya pradātavyaḥ pratiśrayaḥ |
-  
-mat-kuṇasya ca doṣeṇa hatā manda-visarpiṇī ||Panc_1.275||  
-
-  
-piṅgalaka āha--katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 9
-  
-manda-visarpiṇī-nāma-yūkā-kathā  
-
-  
-asti kasyacin mahīpater manoramaṃ śayana-sthānam | tatra śvetatara-paṭa-yugala-madhya-saṃsthitā manda-visarpiṇī yūkā prativasati sma | sā ca tasya mahīpate raktam āsvādayantī sukhena kālaṃ nayamānā tiṣṭhati | anye-dyuś ca tatra śayane kvacid bhrāmyann agnimukho nāma matkuṇaḥ samāyātaḥ | atha taṃ dṛṣṭvā sā viṣaṇṇa-vadanā provāca | bho 'gnimukha kutas tvam atrānucita-sthāne samāyātaḥ | tad yāvan na kaścid vetti tāvac chīghraṃ gamyatām iti | 
-  
-sa āha-bhagavati gṛhāgatasyāsādhor api naitad yujyate vaktum | uktaṃ ca- 
-  
-ehy āgaccha samāviśāsanam idaṃ kasmāc cirād dṛśyase kā vārteti sudurbalo 'si kuśalaṃ prīto 'smi te darśanāt |
-  
-evaṃ ye samupāgatān praṇayinaḥ pratyālapanty ādarāt teṣāṃ yuktam aśaṅkitena manasā harmyāṇi gantuṃ sadā ||Panc_1.276||  
-
-  
-aparaṃ mayāneka-mānuṣāṇām aneka-vidhāni rudhirāṇy āsvāditāny āhāra-doṣāt kaṭu-tikta-kaṣāyāmla-rasāsvādāni na ca kadācin madhura-raktaṃ samāsvāditam | tad yadi tvaṃ prasādaṃ karoṣi tad asya nṛpater vividha-vyañjanānna-pāna-coṣya-lehya-svādv-āhāra-vaśād asya śarīre yan miṣṭaṃ raktaṃ saṃjātaṃ tad-āsvādanena saukhyaṃ sampādayāmi jihvāyā iti | uktaṃ ca- 
-  
-raṅkasya nṛpater vāpi jihvā-saukhyaṃ samaṃ smṛtam | tan-mātraṃ ca smṛtaṃ sāraṃ tad-arthaṃ yatate janaḥ ||Panc_1.277||
-  
-yady eva na bhavel loke karma jihvā-pratuṣṭidam | tan na bhṛtyo bhavet kaścit kasyacid vaśago 'tha vā ||Panc_1.278|| yad asatyaṃ vaden martyo yad vāsevyaṃ ca sevate | yad gacchati videśaṃ ca tat sarvam udarārthataḥ ||Panc_1.279||
-  
- tan mayā gṛhāgatena bubhukṣayā pīḍyamānenāpi tvat-sakāśād bhojanam arthanīyam | tan na tvayaikākinyāsya bhūpate rakta-bhojanaṃ kartuṃ yujyate |   
-
-  
-tac chrutvā mandavisarpiṇy āha-bho matkuṇa ! asya nṛpater nidrā-vaśaṃ gatasya raktam āsvādayāmi |   
-
-  
-punas tvam agnimukhaś capalaś ca-tad yadi mayā saha rakta-pānaṃ karoṣi tat tiṣṭha | abhīṣṭatara-raktam āsvādaya | 
-  
-so 'bravīt-bhagavaty evaṃ kariṣyāmi | yāvat tvaṃ nāsvādayasi prathamaṃ nṛpa-raktaṃ tāvan mama deva-guru-kṛtaḥ śapathaḥ syād yadi tad āsvādayāmi |
-  
- evaṃ tayoḥ parasparaṃ vadatoḥ sa rājā tac-chayanam āsādya prasuptaḥ | athāsau matkuṇo jihvā-laulyotkṛṣṭautsukyāj jāgratam api taṃ mahī-patim adaśat | atha vā sādhv idam ucyate | 
-  
-svabhāvo nopadeśena śakyate kartum anyathā | sutaptam api pānīyaṃ punar gacchati śītatām ||Panc_1.280|| yadi syāc chītalo vahniḥ śītāṃśur dahanātmakaḥ | na svabhāvo 'tra martyānāṃ śakyate kartum anyathā ||Panc_1.281|| 
-  
-athāsau mahīpatiḥ sūcy-agra-viddha iva tac-chayanaṃ tyaktvā tat-kṣaṇād evotthitaḥ | aho jñāyatām atra pracchādana-paṭe matkuṇo yūkā vā nūnaṃ tiṣṭhati yenāhaṃ daṣṭa iti | atha ye kañcukinas tatra sthitās te satvaraṃ pracchādana-paṭaṃ gṛhītvā sūkṣma-dṛṣṭyā vīkṣāṃ cakruḥ | atrāntare sa matkuṇaś cāpalyāt khaṭvāntaṃ praviṣṭaḥ sā mandavisarpiṇy api vastra-sandhy-antar-gatā tair dṛṣṭā vyāpāditā ca | ato 'haṃ bravīmi-na hy avijñāta-śīlasya iti |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-evaṃ jñātvā tvayiṣa vadhyaḥ | no cet tvāṃ vyāpādayiṣyatīti | uktaṃ ca-  
-
-  
-tyaktāś cābhyantarā yena bāhyāś cābhyantarīkṛtāḥ |
-  
-sa eva mṛtyum āpnoti yathā rājā kakud-drumaḥ ||Panc_1.282||  
-
-  
-piṅgalaka āha--katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 10
-  
-caṇḍarava-nāma-śṛgāla-kathā  
-
-  
-asti kasmiṃścid vanoddeśe caṇḍaravo nāma śṛgālaḥ prativasati sma | sa kadācit kṣudhāviṣṭo jihvā-laulyān nagara-madhye praviṣṭaḥ | atha taṃ nagara-vāsinaḥ sārameyā avalokya sarvataḥ śabdāyamānāḥ paridhāvya tīkṣṇa-daṃṣṭṛāgrair bhakṣitum ārabdhāḥ | so 'pi tair bhakṣyamāṇaḥ prāṇa-bhayāt pratyāsanna-rajaka-gṛhaṃ praviṣṭaḥ | tatra nīlī-rasa-paripūrṇaṃ mahā-bhāṇḍam sajjīkṛtam āsīt | tatra sārameyair ākrānto bhāṇḍa-madhye patitaḥ | atha yāvan niṣkrāntas tāvan nīlī-varṇaḥ sañjātaḥ | tatrāpare sārameyās taṃ śṛgālam ajānanto yathābhīṣṭa-diśaṃ jagmuḥ | caṇḍaravo 'pi dūrataraṃ pradeśam āsādya kānanābhimukhaṃ pratasthe | na ca nīla-varṇena kadācin nija-raṅgas tyajyate | uktaṃ
-  
-ca-  
-
-  
-vajra-lepasya mūrkhasya nārīṇāṃ karkaṭasya ca | eko grahas tu mīnānāṃ nīlīmadyapayor yathā ||Panc_1.283|| 
-  
-atha taṃ hara-gala-garala-tamāla-sama-prabham apūrvaṃ sattvam avalokya sarve siṃha-vyāghra-dvīpi-vṛka-prabhṛtayo 'raṇya-nivāsino bhaya-vyākulita-cittāḥ samantāt palāyana-kriyāṃ kurvanti | kathayanti ca-na jñāyate'sya kīdṛg viceṣṭitaṃ pauruṣaṃ ca | tad dūrataraṃ gacchāmaḥ | uktaṃ ca-  
-
-  
-na yasya ceṣṭitaṃ vidyān na kulaṃ na parākramam |
-  
-na tasya viśvaset prājño yadīcchec chriyam ātmanaḥ ||Panc_1.284|| 
-  
-caṇḍaravo 'pi bhaya-vyākulitān vijñāyedam āha-bho bhoḥ śvāpadāḥ ! kiṃ yūyaṃ māṃ dṛṣṭvaiva saṃtrastā vrajatha | tan na bhetavyam | ahaṃ brahmaṇādya svayam eva sṛṣṭvābhihitaḥ-yac chvāpadānāṃ kaścid rājā nāsti, tat tvaṃ mayādya sarva-śvāpada-prabhutve'bhiṣiktaḥ kakud-drumābhidhaḥ | tato gatvā kṣiti-tale tān sarvān paripālayeti | tato 'ham atrāgataḥ | tan mama cchatra-cchāyāyāṃ sarvair api śvāpadair vartitavyam | ahaṃ kakuddrumo nāma rājā trailokye'pi sañjātaḥ |   
-
-  
-tac chrutvā siṃha-vyāghra-puraḥ-sarāḥ śvāpadāḥ svāmin prabho samādiśeti vadantas taṃ parivavruḥ | atha tena siṃhasyāmātya-padavī pradattā | vyāghrasya śayyā-pālakatvam | dvīpinas tāmbūlādhikāraḥ | vṛkasya dvāra-pālakatvam | ye cātmīyāḥ śṛgālās taiḥ sahālāpa-mātram api na karoti | śṛgālāḥ sarve'py adharma-candraṃ dattvā niḥsāritāḥ | evaṃ tasya rājya-kriyayāṃ vartamānasya te siṃhādayo mṛgān vyāpādya tat-purataḥ prakṣipanti | so 'pi prabhu-dharmeṇa sarveṣāṃ tān pravibhajya prayacchati |   
-
-  
-evaṃ gacchati kāle kadācit tena samāgatena dūra-deśe śabdāyamānasya śṛgāla-vṛndasya kolāhalo 'śrāvi | taṃ śabdaṃ śrutvā pulakita-tanur ānandāśru-pūrṇa-nayana utthāya  tāra-svareṇa virotum ārabdhavān | atha te siṃhādayas taṃ tāra-svaram ākarṇya śṛgālo 'yam iti matvā lajjāyādho-mukhāḥ kṣaṇaṃ sthitvā procuḥ-bhoḥ ! vāhitā vayam anena kṣudra-śṛgālena | tad vadhyatām iti |   
-
-  
-so 'pi tad ākarṇya palāyitum icchaṃs tatra sthāna eva siṃhādibhiḥ khaṇḍaśaḥ kṛto mṛtaś ca |  
-
-  
-ato 'haṃ bravīmi-tyaktāś cābhyantarā yena iti |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-tad ākarṇya piṅgalaka āha-bho damanaka ! kaḥ pratyayo 'tra viṣaye yat sa mamopari duṣṭa-buddhiḥ |  
-
-  
-sa āha-yad adya mamāgre tena niścayaḥ kṛto yat prabhāte piṅgalakaṃ vadhiṣyāmi | tad atraiva pratyayaḥ | prabhāte'vasara-velāyām ārakta-mukha-nayanaḥ sphuritādharo diśo 'valokayann anucita-sthānopaviṣṭas tvāṃ krūra-dṛṣṭyā vilokayiṣyati | evaṃ jñātvā yad ucitaṃ tat kartavyam | iti kathayitvā sañjīvaka-sakāśaṃ gatas taṃ praṇamyopaviṣṭaḥ | sañjīvako 'pi sodvegākāraṃ manda-gatyā samāyāntaṃ tam udvīkṣya sādarataram uvāca-bho mitra ! svāgatam | cirād dṛṣṭo 'si | api śivaṃ bhavataḥ | tat kathaya yenādeyam api tubhyaṃ gṛhāgatāya prayacchāmi | uktaṃ ca-  
-
-  
-te dhanyās te viveka-jñās te sabhyā iha bhūtale |
-  
-āgacchanti gṛhe yeṣāṃ kāryārthaṃ suhṛdo janāḥ ||Panc_1.285||  
-
-  
-damanaka āha-bhoḥ ! kathaṃ śivaṃ sevaka-janasya |  
-
-  
-sampattayaḥ parāyattāḥ sadā cittam anirvṛtam |
-  
-sva-jīvite'py aviśvāsas teṣāṃ ye rāja-sevakāḥ ||Panc_1.286||  
-
-  
-tathā ca-
-  
-sevayā dhanam icchadbhiḥ sevakaiḥ paśya yat kṛtam |
-  
-svātantryaṃ yac charīrasya mūḍhais tad api hāritam ||Panc_1.287||
-  
-tāvaj janmāti-duḥkhāya tato durgatatā sadā |
-  
-tatrāpi sevayā vṛttir aho duḥkha-paramparā ||Panc_1.288||
-  
-jīvanto 'pi mṛtāḥ pañca śrūyante kila bhārate |
-  
-daridro vyādhito mūrkhaḥ pravāsī nitya-sevakaḥ ||Panc_1.289||
-  
-nāśnāti svacchayotsukyād vinidro na prabudhyate |
-  
-na niḥśaṅkaṃ vaco brūte sevako 'py atra jīvati ||Panc_1.290||
-  
-sevā śva-vṛttir ākhyātā yais tair mithyā prajalpitam |
-  
-svacchandaṃ carati svātra sevakaḥ para-śāsanāt ||Panc_1.291||
-  
-bhū-śayyā brahmacaryaṃ ca kṛśatvaṃ laghu-bhojanam |
-  
-sevakasya yater yadvad viśeṣaḥ pāpa-dharmajaḥ ||Panc_1.292||
-  
-śītātapādi-kaṣṭāni sahate yāni sevakaḥ |
-  
-dhanāya tāni cālpāni yadi dharmān na mucyate ||Panc_1.293||
-  
-mṛdunāpi suvṛttena suśliṣṭenāpi hāriṇā |
-  
-modakenāpi kiṃ tena niṣpattir yasya sevayā ||Panc_1.294||  
-
-  
-sañjīvaka āha-atha bhavān kiṃ vaktu-manāḥ ?   
-
-  
-so 'bravīt-mitra, sacivānāṃ mantra-bhedaṃ na yujyate | uktaṃ ca-  
-
-  
-yo mantraṃ svāmino bhidyāt sācivye san-niyojitaḥ |
-  
-sa hatvā nṛpa-kāryaṃ tat svayaṃ ca narakaṃ vrajet ||Panc_1.295||
-  
-yena yasya kṛto bhedaḥ sacivena mahīpateḥ |
-  
-tenāśastra-vadhas tasya kṛta ity āha nāradaḥ ||Panc_1.296||  
-
-  
-tathāpi mayā tava sneha-pāśa-baddhena mantra-bhedaḥ kṛtaḥ | yatas tvaṃ mama vacanenātra rāja-kule viśvastaḥ praviṣṭaś ca | uktaṃ ca-  
-
-  
-viśrambhād yasya yo mṛtyum avāpnoti kathañcana |
-  
-tasya hatyā tad-utthā sā prāhedaṃ vacanaṃ manuḥ ||Panc_1.297||  
-
-  
-tat tavopari piṅgalako 'yaṃ duṣṭa-buddhiḥ kathitaṃ cādyānena mat-purataś catuṣkarṇatayā-yat prabhāte sañjīvakaṃ hatvā samasta-mṛga-parivāraṃ cirāt tṛptiṃ neṣyāmi |  
-
-  
-tataḥ sa mayoktaḥ-svāmin ! na yuktam idaṃ yan mitra-droheṇa jīvanaṃ kriyate | uktaṃ ca-
-  
-api brahma-vadhaṃ kṛtvā prāyaścittena śudhyati |
-  
-tad-arthena vicīrṇena na kathañcit suhṛd-druhaḥ ||Panc_1.298||  
-
-  
-tatas tenāhaṃ samarṣeṇoktaḥ-bho duṣṭa-buddhe, sañjīvakas tāvac chaṣpa-bhojī, vayaṃ māṃsāśinaḥ | tad asmākaṃ svābhāvikaṃ vairam iti kathaṃ ripur upekṣyate ? tasmāt sāmādibhir upāyair hanyate | na ca hate tasmin doṣaḥ syāt | uktaṃ ca-  
-
-  
-dattvāpi kanyakāṃ vairī nihantavyo vipaścitā |
-  
-anyopāyair aśakyo yo hate doṣo na vidyate ||Panc_1.299||
-  
-kṛtyākṛtyaṃ na manyeta kṣatriyo yudhi saṅgataḥ |
-  
-prasupto droṇa-putreṇa dhṛṣṭadyumnaḥ purā hataḥ ||Panc_1.300||  
-
-  
-tad ahaṃ tasya niścayaṃ jñātvā tvat-sakāśam ihāgataḥ | sāmprataṃ me nāsti viśvāsa-ghātaka-doṣaḥ | mayā sugupta-mantras tava niveditaḥ | atha yat te pratibhāti tat kuruṣva iti | atha sañjīvakas tasya tadvajra-pāta-dāruṇaṃ vacanaṃ śrutvā moham upagataḥ | atha cetanāṃ labdhvā sa-vairāgyam idam āha-bho sādhv idam ucyate-  
-
-  
-durjana-gamyā nāryaḥ prāyeṇāsnehavān bhavati rājā |
-  
-kṛpaṇānusāri ca dhanaṃ megho giri-durga-varṣī ca ||Panc_1.301||
-  
-ahaṃ hi saṃmato rājño ya evaṃ manyate kudhīḥ |
-  
-balīvardaḥ sa vijñeyo viṣāṇa-parivarjitaḥ ||Panc_1.302||
-  
-varaṃ vanaṃ varaṃ bhaikṣaṃ varaṃ bhāropajīvanam |
-  
-varaṃ vyādhir manuṣyāṇāṃ nādhikāreṇa sampadaḥ ||Panc_1.303||  
-
-  
-tad yuktaṃ mayā kṛtaṃ tad anena saha maitrī vihitā | uktaṃ ca-  
-
-  
-yayor eva samaṃ vittaṃ yayor eva samaṃ kulam |
-  
-tayor maitrī vivāhaś ca na tu puṣṭa-vipuṣṭayoḥ ||Panc_1.304||  
-
-  
-tathā ca-
-  
-mṛgā mṛgaiḥ saṅgam anuvrajanti 
-  
-gāvaś ca gobhis turagās turagaiḥ |
-  
-mūrkhāś ca mūrkhaiḥ sudhiyaḥ
-  
-sudhībhiḥ samāna-śīla-vyasanena sakhyam ||Panc_1.305||  
-
-  
-tad yadi gatvā taṃ prasādayāmi, tathāpi na prasādaṃ yāsyati | uktaṃ ca-  
-
-  
-nimittam uddiśya hi yaḥ prakupyati
-  
-dhruvaṃ sa tasyāpagame praśāmyati |
-  
-akāraṇa-dveṣa-paro hi yo bhavet
-  
-kathaṃ naras taṃ paritoṣayati ||Panc_1.306||  
-
-  
-aho sādhu cedam ucyate-
-  
-bhaktānām upakāriṇāṃ para-hita-vyāpāra-yuktātmanāṃ
-  
-sevā-saṃvyavahāra-tattva-viduṣāṃ droha-cyutānām api |
-  
-vyāpattiḥ skhalitāntareṣu niyatā siddhir bhaved vā na vā
-  
-tasmād ambupater ivāvani-pateḥ sevā sadā śaṅkinī ||Panc_1.307||  
-
-  
-tathā ca-
-  
-bhāva-snigdhair upakṛtam api dveṣyatāṃ yāti loke
-  
-sākṣād anyair apakṛtam api prītaye copayāti |
-  
-durgrāhyatvān nṛpati-manasāṃ naika-bhāvāśrayāṇāṃ
-  
-sevā-dharmaḥ parama-gahano yoginām apy agamyaḥ ||Panc_1.308||  
-
-  
-tat parijñātaṃ mayā mat-prasādam asahamānaiḥ samīpavartibhir eṣa piṅgalakaḥ prakopitaḥ | tenāyaṃ mamādoṣasyāpy evaṃ vadati | uktaṃ ca-  
-
-  
-prabhoḥ prasādam anyasya na sahantīha sevakāḥ |
-  
-sapatnya iva saṅkruddhāḥ sapatnyāḥ sukṛtair api ||Panc_1.309||  
-
-  
-bhavati caivaṃ yad guṇavatsu samīpa-vartiṣu guṇa-hīnānāṃ na prasādo bhavati | uktaṃ ca-  
-
-  
-guṇavattara-pātreṇa chādyante guṇināṃ guṇāḥ |
-  
-rātrau dīpa-śikhā-kāntir na bhānāv udite sati ||Panc_1.310||  
-
-  
-damanaka āha-bho mitra ! yady evaṃ tan nāsti te bhayam | prakopito 'pi sa durjanais tava vacana-racanayā prasādaṃ yāsyati |   
-
-  
-sa āha-bhoḥ ! na yuktam uktaṃ bhavatā | laghūnām api durjanānāṃ madhye vastuṃ na śakyate | upāyāntaraṃ vidhāya te nūnaṃ ghnanti | uktaṃ ca-  
-
-  
-bahavaḥ paṇḍitāḥ kṣudrāḥ sarve māyopajīvinaḥ |
-  
-kuryuḥ kṛtyam akṛtyaṃ vā uṣṭre kākādayo yathā ||Panc_1.311||  
-
-  
-damaka āha--katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 11
-  
-madotkaṭa-siṃha-kathā  
-
-  
-asti kasmiṃścid vanoddeśe madotkaṭo nāma siṃhaḥ prativasa ti sma | tasya cānucarā anye dvīpi-vāyasa-gomāyavaḥ santi | atha kadācit tair itas tato bhramadbhiḥ sārthād bhraṣṭaḥ krathanako nāmoṣtro dṛṣṭaḥ | atha siṃha āha-aho apūrvam idaṃ sattvam | taj jñāyatāṃ kim etad āraṇyakaṃ grāmyaṃ veti |   
-
-  
-tac chrutvā vāyasa āha-bhoḥ svāmin ! grāmyo 'yam uṣṭra-nāmā jīva-viśeṣas tava bhojyaḥ | tad vyāpādyatām | 
-  
- siṃha āha-nāhaṃ gṛham āgataṃ hanmi | uktaṃ ca- 
-  
-gṛhaṃ śatrum api prāptaṃ viśvastam akutobhayam | yo hanyāt tasya pāpaṃ syāc chatabrāhmaṇaghātajam ||Panc_1.312|| 
-  
-tad abhaya-pradānaṃ dattvā mat-sakāśam ānīyatāṃ yenāsyāgama-kāraṇaṃ pṛcchāmi |  
-
-  
-athāsau sarvair api viśvāsyābhaya-pradānaṃ dattvā madotkaṭa-sakāśam ānītaḥ praṇamyopaviṣṭaś ca | tatas tasya pṛcchatas tenātma-vṛttāntaḥ sārtha-bhraṃśa-samudbhavo niveditaḥ | tataḥ siṃhenoktam-bhoḥ krathanaka ! mā tvaṃ grāmaṃ gatvā bhūyo 'pi bhārodvahana-kaṣṭa-bhāgī bhūyāḥ | tad atraivāraṇye nirviśaṅko marakata-sadṛśāni śaṣpāgrāṇi bhakṣayan mayā saha sadaiva vasa | so 'pi tathety uktvā teṣāṃ madhye vicaran na kuto 'pi bhayam iti sukhenāste |   
-
-  
-tathānyedyur madotkaṭasya mahā-gajenāraṇya-cāriṇā saha yuddham abhavat | tatas tasya danta-musala-prahārair vyathā sañjātā | vyathitaḥ katham api prāṇair na viyuktaḥ | atha śarīrāsāmarthyān na kutracit padam api calituṃ śaknoti | te sarve kākādayo 'py aprabhutvena kṣudhāviṣṭāḥ paraṃ duḥkhaṃ bhejuḥ |  
-  
-atha tān siṃhaḥ prāha-bhoḥ ! anviṣyatāṃ kutracit kiṃcit sattvaṃ yenāham etām api daśāṃ prāptas tad dhatvā yuṣmad-bhojanaṃ sampādayāmi |   
-
-  
-atha te catvāro 'pi bhramitum ārabdhā yāvan na kiṃcit sattvaṃ paśyanti tāvad vāyasa-śṛgālau parasparaṃ mantrayataḥ | śṛgāla āha-bho vāyasa ! kiṃ prabhūta-bhrāntena | ayam asmākaṃ prabhoḥ krathanako viśvastas tiṣṭhati | tad enaṃ hatvā prāṇa-yātrāṃ kurmaḥ | 
-  
-vāyasa āha-yuktam uktaṃ bhavatā | paraṃ svāminā tasyābhaya-pradānaṃ dattam āste na vadhyo 'yam iti |   
-
-  
-śṛgāla āha-bho vāyasa ! ahaṃ svāminaṃ vijñāpya tathā kariṣye yathā svāmī vadhaṃ kariṣyati | tat tiṣṭhantu bhavanto 'traiva, yāvad ahaṃ gṛhaṃ gatvā prabhor ājñāṃ gṛhītvā cāgacchāmi |   
-
-  
-evam abhidhāya satvaraṃ siṃham uddiśya prasthitaḥ | atha siṃham āsādyedam āha-svāmin ! samastaṃ vanaṃ bhrāntvā vayam āgatāḥ | na kiṃcit sattvam āsāditam | tat kiṃ kurmo vayam | samprati vayaṃ bubhukṣayā padam ekam api pracalituṃ na śaknumaḥ | devo 'pi pathyāśī vartate | tad yadi devādeśo bhavati tat krathanaka-piśitenādya pathya-kriyā kriyate |   
-
-  
-atha siṃhas tasya tad dāruṇaṃ vacanam ākarṇya sa-kopam idam āha-dhik pāpādhama ! yady evaṃ bhūyo 'pi vadasi | tatas tvāṃ tat-kṣaṇam eva vadhiṣyāmi | tato mayā tasyābhayaṃ pradattam | tat kathaṃ vyāpādayāmi | uktaṃ ca-  
-
-  
-na go-pradānaṃ na mahī-pradānaṃ 
-  
-na cānna-dānaṃ hi tathā pradhānam | yathā vadantīha budhāḥ pradhānaṃ 
-  
-sarva-pradāneṣv abhaya-pradānam ||Panc_1.313|| 
-  
-tac chrutvā śṛgāla āha-svāmin yady abhayapradānaṃ dattvā vadhaḥ kriyate tad eṣa doṣo bhavati | punar yadi devapādānāṃ bhaktyā sātmano jīvitavyaṃ prayacchati tan na doṣaḥ |  
-  
-tato yadi sa svayam evātmānaṃ vadhāya niyojayati tad vadhyo 'nyathāsmākaṃ madhyād ekatamo vadhya iti yato devapādāḥ pathyāśinaḥ kṣunnirodhād antyāṃ daśāṃ yāsyanti |  
-  
-tat kim etaiḥ prāṇair asmākaṃ ye svāmyarthe na yāsyanti | aparaṃ paścād apy asmābhir vahni-praveśaḥ kāryo yadi svāmi-pādānāṃ kiṃcid aniṣṭaṃ bhaviṣyati | uktaṃ ca-
-  
- yasmin kule yaḥ puruṣaḥ pradhānaḥ 
-  
-sa sarva-yatnaiḥ parirakṣaṇīyaḥ | tasmin vinaṣṭe sva-kulaṃ vinaṣṭaṃ 
-  
-na nābhi-bhaṅge hy arakā vahanti ||Panc_1.314||  
-
-  
-tad ākarṇya madotkaṭa āha-yady evaṃ tat kuruṣva yad rocate |   
-
-  
-tac chrutvā sa satvaraṃ gatvā tān āha-bhoḥ ! svāmino mahaty avasthā vartate | tat kiṃ paryaṭitena ? tena vinā ko 'trāsmān rakṣayiṣyati ? tad gatvā tasya kṣud-rogāt para-lokaṃ prasthitasyātma-śarīra-dānaṃ kurmo yena svāmi-prasādasya anṛṇatāṃ gacchāmaḥ | uktaṃ ca-
-  
-āpadaṃ prāpnuyāt svāmī yasya bhṛtyasya paśyataḥ |
-  
-prāṇeṣu vidyamāneṣu sa bhṛtyo narakaṃ vrajet ||Panc_1.315||  
-
-  
-tad-anantaraṃ te sarve bāṣpa-pūrita-dṛśo madotkaṭaṃ praṇamyopaviṣṭāḥ | tān dṛṣṭvā madotkaṭa āha-bhoḥ ! prāptaṃ dṛṣṭaṃ vā kiṃcit sattvam |  
-  
-atha teṣāṃ madhyāt kākaḥ provāca-svāmin ! vayaṃ tāvat sarvatra paryaṭitāḥ paraṃ na kiṃcit sattvam āsāditaṃ dṛṣṭaṃ vā | tad adya māṃ bhakṣayitvā prāṇān dhārayatu svāmī, yena devasyāśvāsanaṃ bhavati mama punaḥ svarga-prāptir iti | uktaṃ ca-  
-
-  
-svāmy-arthe yas tyajet prāṇān bhṛtyo bhakti-samanvitaḥ | sa paraṃ padam āpnoti jarā-maraṇa-varjitam ||Panc_1.316||
-  
- tac chrutvā śṛgāla āha-bhoḥ ! svalpa-kāyo bhavān | tava bhakṣaṇāt svāminas tāvat prāṇa-yātrā na bhavati | aparo doṣaś ca tāvat samutpadyate | uktaṃ ca- 
-  
-kāka-māṃsaṃ tathocchiṣṭaṃ stokaṃ tad api durbalam |
-  
-bhakṣitenāpi kiṃ tena yena tṛptir na jāyate ||Panc_1.317||  
-
-  
-tad darṣitā svāmi-bhaktir bhavatā gataṃ ca ānṛṇyaṃ bhartṛ-piṇḍasya prāptaś cobhaya-loke sādhu-vādaḥ | tad apasarāgrataḥ | ahaṃ svāminaṃ vijñāpayāmi | tathānuṣṭhite śṛgālaḥ sādaraṃ praṇamyopaviṣṭaḥ prāha-svāmin ! māṃ bhakṣayitvādya prāṇa-yātrāṃ vidhāya mamobhaya-loka-prāptiṃ kuru | uktaṃ ca-  
-
-  
-svāmy-āyattāḥ sadā prāṇā bhṛtyānām arjitā dhanaiḥ | yatas tato na doṣo 'sti teṣāṃ grahaṇa-sambhavaḥ ||Panc_1.318|| 
-  
-atha tac chrutvā dvīpy āha-bhoḥ sādhūktaṃ bhavatā punar bhavān api svalpa-kāyaḥ sva-jātiś ca nakhāyudhatvād abhakṣya eva | uktaṃ ca-
-  
-nābhakṣyaṃ bhakṣayet prājñaḥ prāṇaiḥ kaṇṭha-gatair api | viśeṣāt tad api stokaṃ loka-dvaya-vināśakam ||Panc_1.319|| 
-  
-tad darśitaṃ tvayātmanaḥ kaulīnyam | atha vā sādhu cedam ucyate-
-  
-  etad-arthaṃ kulīnānāṃ nṛpāḥ kurvanti saṅgraham | ādi-madhyāvasāneṣu na te gacchanti vikriyām ||Panc_1.320||
-  
- tad apasarāgrataḥ, yenāhaṃ svāminaṃ vijñāpayāmi | tathānuṣṭhite dvīpī praṇamya madotkaṭam āha-svāmin ! kriyatām adya mama prāṇaiḥ prāṇa-yātrā | dīyatām akṣayo vāsaḥ svarge | mama vistāryatāṃ kṣiti-tale prabhūtaṃ yaśaḥ | tan nātra vismayaḥ kāryaḥ | uktaṃ ca-
-  
-mṛtānāṃ svāminaḥ kārye bhṛtyānām anuvartinām | bhavet svarge akṣayo vāsaḥ kīrtiś ca dharaṇī-tale ||Panc_1.321|| 
-  
-tac chrutvā krathanakaś cintayāmāsa-etais tāvat sarvair api śobhā-vākyāny uktāni na caiko 'pi svāminā vināśitaḥ | tad aham api prāpta-kālaṃ vakṣyāmi citrakaṃ yena mad-vacanam ete trayo 'pi samarthayanti | iti niścitya provāca-bhoḥ satyam uktaṃ bhavatā paraṃ bhavān api nakhāyudhaḥ | tat kathaṃ bhavantaṃ svāmī bhakṣayati | uktaṃ ca- 
-  
-manasāpi svajātyānāṃ yo 'niṣṭāni pracintayet | bhavanti tasya tāny eva iha loke paratra ca ||Panc_1.322|| 
-  
-tad apasarāgrataḥ, yenāhaṃ svāminaṃ vijñāpayāmi | tathānuṣṭhite krathanako 'gre sthitvā praṇamyovāca-svāmin ! ete'bhakṣyās tava tan mama prāṇaiḥ prāṇa-yātrā vidhīyatāṃ yena mamobhaya-loka-prāptir bhavati | uktaṃ ca-  
-
-  
-na yajvāno 'pi gacchanti tāṃ gatiṃ naiva yoginaḥ | yāṃ yānti projjhita-prāṇāḥ svāmy-arthe sevakottamāḥ ||Panc_1.323|| 
-  
-evam abhihite tābhyāṃ śṛgāla-citrakābhyāṃ vidāritobhaya-kukṣiḥ krathanakaḥ prāṇān atyākṣīt | tataś ca taiḥ kṣudra-paṇḍitaiḥ sarvair bhakṣitaḥ |   
-
-  
-ato 'haṃ bravīmi-bahavaḥ paṇḍitāḥ kṣudrāḥ iti |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-tad bhadra, kṣudra-parivāro 'yaṃ te rājā mayā samyag jātaḥ | satām asevyaṃ ca | uktaṃ ca-  
-
-  
-aśuddha-prakṛtau rājñi janatā nānurajyate |
-  
-yathā gṛdhra-samāsannaḥ kalahaṃsaḥ samācaret ||Panc_1.324||
-  
-tathā ca-
-  
-gṛdhrākāro 'pi sevyaḥ syād dhaṃsākāraiḥ sabhāsadaiḥ |
-  
-haṃsākāro 'pi santyājyo gṛdhrākāraiḥ sa tair nṛpaḥ ||Panc_1.325||  
-
-  
-tan nūnaṃ mamopari kenacid durjanenāyaṃ prakopitaḥ, tenaivaṃ vadati | athavā bhavaty etat | uktaṃ ca-  
-
-  
-mṛdunā salilena khanyamā 
-  
-nānyavad dhṛṣyanti girer api sthalāni |
-  
-upajāpavidāṃ ca karṇa-jāpaiḥ
-  
-kim u cetāṃsi mṛdūni mānavānām ||Panc_1.326||  
-
-  
-karṇa-viṣeṇa ca bhagnaḥ kiṃ kiṃ na karoti bāliśo lokaḥ |
-  
-kṣapaṇakatām api dhatte pibati surāṃ naraka-pālena ||Panc_1.327||  
-
-  
-athavā sādhv idam ucyate-  
-
-  
-pādāhato 'pi dṛḍha-daṇḍa-samāhato 'pi
-  
-yaṃ daṃṣṭrayā spṛśati taṃ kila hanti sarpaḥ |
-  
-ko 'py eṣa eva piśunogra-manuṣya-dharmaḥ
-  
-karṇe paraṃ spṛśati hanti paraṃ samūlam ||Panc_1.328||  
-
-  
-tathā ca-
-  
-aho khala-bhujaṅgasya viparīto vadha-kramaḥ |
-  
-karṇe lagati cānyasya prāṇair anyo viyujyate ||Panc_1.329||   
-
-  
-tad evaṃ gate'pi kiṃ kartavyam ity ahaṃ tvāṃ suhṛd-bhāvāt pṛcchāmi |   
-
-  
-damanaka āha-tad-deśāntara-gamanaṃ yujyate | naivaṃ-vidhasya kusvāminaḥ sevāṃ vidhātum | uktaṃ ca-  
-
-  
-guror apy avaliptasya kāryākāryam ajānataḥ |
-  
-utpatha-pratipannasya parityāgo vidhīyate ||Panc_1.330||  
-
-  
-sañjīvaka āha-asmākam upari svāmini kupite gantuṃ na śakyate, na cānyatra gatānām api nirvṛtir bhavati | uktaṃ ca-  
-
-  
-mahatāṃ yo 'parādhyena dūrastho 'smīti nāśvaset |
-  
-dīrghau buddhimato bāhū tābhyāṃ hiṃsati hiṃsakam ||Panc_1.331||  
-
-  
-tad yuddhaṃ muktvā me nānyad asit śreyaskaram | uktaṃ ca-  
-
-  
-na tān hi tīrthais tapasā ca lokān
-  
-svargaiṣiṇo dāna-śataiḥ suvṛttaiḥ |
-  
-kṣaṇena yān yānti raṇeṣu dhīrāḥ
-  
-prāṇān samujjhanti hi ye suśīlāḥ ||Panc_1.332||  
-
-  
-mṛtaiḥ samprāpyate svargo jīvadbhiḥ kīrtir uttamā |
-  
-tad ubhāv api śūrāṇāṃ guṇāv etau sudurlabhau ||Panc_1.333||  
-
-  
-lalāṭa-deśe rudhiraṃ sravat tu 
-  
-śūrasya yasya praviśec ca vaktre |
-  
-tat somapānena samaṃ bhavec ca
-  
-saṅgrāma-yajñe vidhivat pradiṣṭam ||Panc_1.334||  
-
-  
-tathā ca-
-  
-homārthair vidhivat pradāna-vidhinā sad-vipra-vṛndārcanair
-  
-yajñair bhūri-sudakṣiṇaiḥ suvihitaiḥ samprāpyate yat phalam |
-  
-sat-tīrthāśrama-vāsa-homa-niyamaiś cāndrāyaṇādyaiḥ kṛtaiḥ
-  
-pumbhis tat-phalam āhave vinihitaiḥ samprāpyate tat-kṣaṇāt ||Panc_1.335||  
-
-  
-tad ākarṇya damanakaś cintayāmāsa-yuddhāya kṛta-niścayo 'yaṃ dṛśyate durātmā | tad yadi kadācit tīkṣṇa-śṛgālābhyāṃ svāminaṃ prahariṣyati tan mahān anarthaḥ sampatsyate | tad enaṃ bhūyo 'pi sva-buddhyā prabodhya tathā karomi, yathā deśāntara-gamanaṃ karoti | āha ca-bho mitra ! samyag abhihitaṃ bhavatā | paraṃ kaḥ svāmi-bhṛtyayoḥ saṅgrāmaḥ | uktaṃ ca-
-  
-balavantaṃ ripuṃ dṛṣṭvā kilātmānaṃ pragopayet |
-  
-balavadbhiś ca kartavyā śarac-candra-prakāśatā ||Panc_1.336||  
-
-  
-anyac ca-
-  
-śatror vikramam ajñātvā vairam ārabhate hi yaḥ |
-  
-sa parābhavam āpnoti samudraṣ ṭiṭṭibhād yathā ||Panc_1.337||  
-
-  
-sañjīvaka āha--katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 12
-  
-ṭiṭṭibha-dampatī-kathā  
-
-  
-kasmiṃścit samudraika-deśe ṭiṭṭibha-dampatī vasataḥ | tato gacchati kāla ṛtu-samayam āsādya ṭiṭṭibhī garbham ādhatta | āsanna-prasavā satī sā ṭiṭṭibham ūce-bhoḥ kānta ! mama prasava-samayo vartate | tad vicintyatāṃ kim api nirupadravaṃ sthānaṃ yena tatrāham aṇḍaka-mokṣaṇaṃ karomi |  
-
-  
-ṭiṭṭibhaḥ prāha-bhadre ramyo 'yaṃ samudra-pradeśaḥ | tad atraiva prasavaḥ kāryaḥ |   
-
-  
-sā prāha-atra pūrṇimā-dine samudra-velā carati | sā matta-gajendrān api samākarṣati | tad dūram anyatra kiṃcit sthānam anviṣyatām |   
-
-  
-tac chrutvā vihasya ṭiṭṭibha āha-bhadre na yuktam uktaṃ bhavatyā | kā mātrā samudrasya yā mama dūṣayiṣyati prasūtim | kiṃ na śrutaṃ bhavatyā-  
-
-  
-baddhvāmbara-cara-mārgaṃ vyapagata-dhūmaṃ sadā mahad bhayadam |
-  
-manda-matiḥ kaḥ praviśati hutāśanaṃ svecchayā manujaḥ ||Panc_1.338||
-  
-mattebha-kumbha-vidalana-kṛta-śramaṃ suptam antaka-pratimam |
-  
-yama-loka-darśanecchuḥ siṃhaḥ bodhayati ko nāma ||Panc_1.339||
-  
-ko gatvā yama-sadanaṃ svayam antakam ādiśaty ajāta-bhayaḥ |
-  
-prāṇān apahara matto yadi śaktiḥ kācid asti tava ||Panc_1.340||
-  
-prāleya-leśa-miśre maruti prābhātike ca vāti jaḍe |
-  
-guṇa-doṣa-jñaḥ puruṣo jalena kaḥ śītam apanayati ||Panc_1.341||  
-
-  
-tasmād viśrabdhātraiva garbhaṃ muñca | uktaṃ ca-  
-
-  
-yaḥ parābhava-santrastaḥ sva-sthānaṃ santyajen naraḥ |
-  
-tena cet putriṇī mātā tad vandhyā kena kathyate ||Panc_1.342||  
-
-  
-tac chrutvā samudraś cintayām āsa-aho garvaḥ pakṣi-kīṭasyāsya | atha vā sādhv idam ucyate-
-  
-utkṣipya ṭiṭṭibhaḥ pādāv āste bha gabhayād divaḥ |
-  
-sva-citta-kalpito garvaḥ kasya nātrāpi vidyate ||Panc_1.343||  
-
-  
-tan mayāsya pramāṇaṃ kutūhalād api draṣṭavyam | kiṃ mamaiṣo 'ṇḍāpahāre kṛte kariṣyati | iti cintayitvā sthitaḥ | atha prasavānantaraṃ prāṇayātrārthaṃ gatāyāṣ ṭiṭṭibhyāḥ samudro velāvyājenāṇḍāny apajahāra | athāyātā sā ṭiṭṭibhī prasavasthānaṃ śūnyam avalokya pralapantī ṭiṭṭibham ūce-bho mūrkha ! kathitam āsīn mayā te yat samudravelayā aṇḍānāṃ vināśo bhaviṣyati tad dūrataraṃ vrajāvaḥ paraṃ mūḍhatayāhaṃkāram āśritya mama vacanaṃ na karoṣi | athavā sādhv idam ucyate |  
-
-  
-suhṛdāṃ hitakāmānāṃ na karotīha yo vacaḥ | sa kūrma iva durbuddhiḥ kāṣṭhād bhraṣṭo vinaśyati ||Panc_1.344|| 
-  
-ṭiṭṭibha āha-katham etat ? 
-  
-sābravīt-  
-
-  
-kathā 13
-  
-kambugrīvākhya-kūrma-kathā  
-
-  
-asti kasmiṃścij jalāśaye kambu-grīvo nāma kacchapaḥ | tasya ca saṅkaṭa-vikaṭa-nāmnī mitre haṃsa-jātīye parama-sneha-koṭim āśrite nityam eva saras-tīram āsādya tena sahāneka-devarṣi-maharṣīṇāṃ kathāḥ kṛtvāsta-maya-velāyāṃ sva-nīḍā-saṃśrayaṃ kurutaḥ | atha gacchatā kālenāvṛṣṭi-vaśāt  saraḥ śanaiḥ śanaiḥ śoṣam agamat | tatas tad-duḥkha-duḥkhitau tāv ūcatuḥ-bho mitra ! jambāla-śeṣam etat-saraḥ  sañjātam | tat kathaṃ bhavān bhaviṣyatīti vyākulatvaṃ no hṛdi vartate |   
-
-  
-tac chrutvā kambugrīva āha-bhoḥ, sāmprataṃ nāsty asmākaṃ jīvitavyaṃ jalābhāvāt | tathāpy upāyaś cintyatām iti | uktaṃ ca-  
-
-  
-tyājyaṃ na dhairyaṃ vidhure'pi kāle
-  
-dhairyāt kadācid gatim āpnuyāt saḥ |
-  
-yathā samudre'pi ca pota-bhaṅge 
-  
-sāṃyātriko vāñchati tartum eva ||Panc_1.345||  
-
-  
-aparaṃ ca-
-  
-mitrārthe bāndhavārthe ca buddhimān yatate sadā |
-  
-jātāsv āpatsu yatnena jagādedaṃ vaco manuḥ ||Panc_1.346||  
-
-  
-tad ānīyatāṃ kācid dṛḍha-rajjur laghu-kāṣṭhaṃ vā | anviṣyatāṃ ca prabhūta-jala-sanāthaṃ saraḥ, yena mayā madhya-pradeśe dantair gṛhīte sati yuvāṃ koṭi-bhāgayos tat-kāṣṭhaṃ mayā sahitaṃ saṅgṛhya tat-saro nayathaḥ |  
-
-  
-tāv ūcatuḥ-bho mitra ! evaṃ kariṣyāvaḥ | paraṃ bhavatā mauna-vratena sthātavyam | no cet tava kāṣṭhāt pāto bhaviṣyati |  
-
-  
-tathānuṣṭhite gacchatā kambugrīveṇādhobhāga-vyavasthitaṃ kiṃcit puram ālokitam | tatra ye paurās te tathā nīyamānaṃ vilokya savismayam idam ūcuḥ-aho cakrākāraṃ kim api pakṣibhyāṃ nīyate | paśyata paśyata |  
-
-  
-atha teṣāṃ kolāhalam ākarṇya kambugrīva āha-bhoḥ ! kim eṣa kolāhalaḥ ? iti vaktu-manā ardhokte patitaḥ pauraiḥ khaṇḍaśaḥ kṛtaś ca | ato 'haṃ bravīmi-suhṛdāṃ hita-kāmānām iti | tathā ca-  
-
-  
-anāgata-vidhātā ca pratyutpanna-matis tathā |
-  
-dvāv etau sukham edhete yad-bhaviṣyo vinaśyati ||Panc_1.347||  
-
-  
-ṭiṭṭibha āha-katham etat ?  
-
-  
-sābravīt-
-  
-kathā 14
-  
-anāgata-vidhātādi-matsya-traya-kathā  
-
-  
-kasmiṃścij jalāśaye'nāgata-vidhātā pratyutpanna-matir  yad-bhaviṣyaś ceti trayo matsyāḥ santi | atha kadācit taṃ jalāśayaṃ dṛṣṭvā gacchadbhir matsya-jīvibhir uktam-yad aho bahu-matsyo 'yaṃ hradaḥ | kadācid api nāsmābhir anveṣitaḥ | tad adya tāvad āhāra-vṛttiḥ sañjātā | sandhyā-samayaś ca saṃvṛttaḥ | tataḥ prabhāte'trāgantavyam iti niścayaḥ |   
-
-  
-atas teṣāṃ tat-kuliśa-pātopamaṃ vacaḥ samākarṇyānāgata-vidhātā sarvān matsyān āhūyedam ūce-aho, śrutaṃ bhavadbhir yan matsya-jīvibhir abhihitam | tad rātrāv api gamyatāṃ kiñcin nikaṭaṃ saraḥ | uktaṃ ca-  
-
-  
-aśaktair balinaḥ śatroḥ kartavyaṃ prapalāyanam |
-  
-saṃśritavyo 'thavā durgo nānyā teṣāṃ gatir bhavet ||Panc_1.348||  
-
-  
-tan nūnaṃ prabhāta-samaye matsya-jīvino 'tra samāgamya matsya-saṅkṣayaṃ kariṣyanti | etan mama manasi vartate | tan na yuktaṃ sāmprataṃ kṣaṇam apy atrāvasthātum | uktaṃ ca-  
-
-  
-vidyamānā gatir yeṣām anyatrāpi sukhāvahā |
-  
-te na paśyanti vidvāṃso deha-bhaṅgaṃ kula-kṣayam ||Panc_1.349||  
-
-  
-tad ākarṇya pratyutpanna-matiḥ prāha-aho satyam abhihitaṃ bhavatā | mamāpy abhīṣṭam etat | tad anyatra gamyatām iti | uktaṃ ca-  
-
-  
-para-deśa-bhayāt bhītā bahu-māyā napuṃsakāḥ |
-  
-sva-deśe nidhanaṃ yānti kākāḥ kāpuruṣā mṛgāḥ ||Panc_1.350||  
-
-  
-yasyāsti sarvatra gatiḥ sa kasmāt 
-  
-sva-deśa-rāgeṇa hi yāti nāśam |
-  
-tātasya kūpo 'yam iti bruvāṇāḥ
-  
-kṣāra-jalaṃ kāpuruṣāḥ pibanti ||Panc_1.351||  
-
-  
-atha tat samākarṇya proccair vihasya  yad-bhaviṣyaḥ provāca-aho, na bhavadbhyāṃ mantritaṃ samyag etad iti, yataḥ kiṃ vāṅ-mātreṇāpi teṣāṃ pitṛ-paitāmahikam etat saras tyaktuṃ yujyate | yady āyuḥ-kṣayo 'sti tad anyatra gatānām api mṛtyur bhaviṣyaty eva | uktaṃ ca-
-  
-arakṣitaṃ tiṣṭhati daiva-rakṣitaṃ 
-  
-surakṣitaṃ daiva-hataṃ vinaśyati |
-  
-jīvaty anātho 'pi vane visarjitaḥ 
-  
-kṛta-prayatno 'pi gṛhe na jīvati ||Panc_1.352||  
-
-  
-tad ahaṃ na yāsyāmi bhavadbhyāṃ ca yat pratibhāti tat kartavyam |   
-
-  
-atha tasya taṃ niścayaṃ jñātvānāgata-vidhātā pratyutpanna-matiś ca niṣkrānau saha parijanena | atha prabhāte tair matsya-jīvibhir jālais taj jalāśayam āloḍya yad-bhaviṣyeṇa saha tat-saro nirmatsyatāṃ nītam | ato 'haṃ bravīmi-anāgata-vidhātā ceti |  
-
-  
-tac chrutvā ṭiṭṭibha āha-bhadre, kiṃ māṃ yadbhaviṣya-sadṛśaṃ sambhāvayasi | tat paśya me buddhi-prabhāvaṃ yāvad enaṃ duṣṭa-samudraṃ sva-cañcvā śoṣayāmi |   
-
-  
-ṭiṭṭibhy āha-aho kas te samudreṇa saha vigrahaḥ | tan na yuktam asyopari kopaṃ kartum | uktaṃ ca-
-  
-puṃsām asamarthānām upadravāyātmano bhavet kopaḥ |
-  
-piṭharaṃ jvalad-atimātraṃ nija-pārśvān eva dahatitarām ||Panc_1.353||  
-
-  
-tathā ca-
-  
-aviditvātmanaḥ śaktiṃ parasya na samutsukaḥ |
-  
-gacchann abhimukho vahnau nāśaṃ yāti pataṅgavat ||Panc_1.354||  
-
-  
-ṭiṭṭibha āha-priye, mā maivaṃ vada | yeṣām utsāha-śaktir bhavati te svalpā api gurūn vikramante | uktaṃ ca-
-  
-viśeṣāt paripūrṇasya yāti śatror amarṣaṇaḥ |
-  
-ābhimukhyaṃ śaśāṅkasya yathādyāpi vidhuntudaḥ ||Panc_1.355||  
-
-  
-tathā ca-
-  
-pramāṇād adhikasyāpi gaṇḍa-śyāma-mada-cyuteḥ | padaṃ mūrdhni samādhatte kesarī matta-dantinaḥ ||Panc_1.356||  
-
-  
-tathā ca-
-  
-bālasyāpi raveḥ pādāḥ patanty upari bhūbhṛtām |
-  
-tejasā saha jātānāṃ vayaḥ kutropayujyate ||Panc_1.357||  
-
-  
-hastau sthūlataraḥ sa cāṅkuśa-vaśaḥ kiṃ hasti-mātro 'ṅkuśo
-  
-dīpe prajvalite praṇaśyati tamaḥ kiṃ dīpa-mātraṃ tamaḥ |
-  
-vajreṇāpi hatāḥ patanti girayaḥ kiṃ vajra-mātro giris
-  
-tejo yasya virājate sa balavān sthūleṣu kaḥ pratyayaḥ ||Panc_1.358||  
-
-  
-tad anayā cañcvāsya sakalaṃ toyaṃ śuṣka-sthalatāṃ nayāmi |  
-
-  
-ṭiṭṭibhy āha-bhoḥ kānta ! yatra jāhnavī nava-nadī-śatāni gṛhītvā nityam eva praviśati, tathā sindhuś ca | tat kathaṃ tvam aṣṭādaśa-nadī-śataiḥ pūryamāṇaṃ taṃ vipruṣa-vāhinyā cañcvā śoṣayiṣyasi ? tat kim aśraddho yenoktena |  
-
-  
-ṭiṭṭibha āha-priye !  
-
-  
-anirvedaḥ śriyo mūlaṃ cañcur me loha-sannibhā |
-  
-aho-rātrāṇi dīrghāṇi samudraḥ kiṃ na śuṣyati ||Panc_1.359||
-  
-duradhigamaḥ para-bhāgo yāvat puruṣeṇa pauruṣaṃ na kṛtam |
-  
-jayati tulām adhirūḍho bhāsvān api jalada-paṭalāni ||Panc_1.360||  
-
-  
-ṭiṭṭibhy āha-yadi tvayāvaśyaṃ samudreṇa saha vigrahānuṣṭhānaṃ kāryam | tad anyān api vihaṅgamān āhūya suhṛj-jana-sahita evaṃ samācara | uktaṃ ca-  
-
-  
-bahūnām apy asārāṇāṃ samvāyo hi durjayaḥ |
-  
-tṛṇair āveṣṭyate rajjur yathā nāgo 'pi baddhyate ||Panc_1.361||  
-
-  
-tathā ca-
-  
-caṭakākāṣṭha-kūṭena makṣikā-dardurais tathā |
-  
-mahājana-virodhena kuñjaraḥ pralayaṃ gataḥ ||Panc_1.362||
-  
-ṭiṭṭibha āha-katham etat ?  
-
-  
-sā prāha-  
-
-  
-kathā 15
-  
-kuñjara-caṭaka-dampatī-kathā  
-
-  
-kasmiṃścid vanoddeśe caṭaka-dampatī tamāla-taru-kṛta-nilayau prativasataḥ sma | atha tayor gacchatā kālena santatir abhavat | anyasminn ahani pramatto vana-gajaḥ kaścit taṃ tamāla-vṛkṣaṃ gharmārtaś chāyārthī samāśritaḥ | tato madotkaṛṣāt tāṃ tasya śākhāṃ caṭakāśritāṃ puṣkarāgreṇākṛṣya babhañja | tasyā bhaṅgena caṭakāṇḍāni sarvāṇi viśīrṇāni | āyuḥ-śeṣatayā ca caṭakau katham api prāṇair na viyuktau |   
-
-  
-atha caṭakā sāṇḍa-bhaṅgābhibhūtā pralāpān kurvāṇā na kiñcit sukham āsasāda | atrāntare tasyās tān pralāpān śrutvā kāṣṭha-kūṭo nāma pakṣī tasyāḥ parama-suhṛt-tad-duḥkha-duḥkhito 'bhyetya tām uvāca-bhagavati ! kiṃ vṛthā pralāpena | uktaṃ ca-  
-
-  
-naṣṭaṃ mṛtam atikrāntaṃ nānuśocanti paṇḍitāḥ |
-  
-paṇḍitānāṃ ca mūrkhāṇāṃ viśeṣo 'yaṃ yataḥ smṛtaḥ ||Panc_1.363||  
-
-  
-tathā ca-
-  
-aśocyānīha bhūtāni yo mūḍhas tāni śocati |
-  
-tad-duḥkhāl labhate duḥkhaṃ dvāv anarthau niṣevate ||Panc_1.364||  
-
-  
-anyac ca-
-  
-śleṣmāśru bāndhavair muktaṃ preto bhuṅkte yato 'vaśaḥ |
-  
-tasmān na roditavyaṃ hi kriyāḥ kāryāś ca śaktitaḥ ||Panc_1.365||  
-
-  
-caṭakā prāha-astv etat | paraṃ duṣṭa-gajena madān mama santāna-kṣayaḥ kṛtaḥ | tad yadi mama tvaṃ suhṛt-satyas tad asya gajāpasadasya ko 'pi vadhopāyaś cintyatām | yasyānuṣṭhānena me santati-nāśa-duḥkham apasarati | uktaṃ ca-  
-
-  
-āpadi yenopakṛtaṃ yena ca hasitaṃ daśāsu viṣamāsu |
-  
-upakṛtya tayor ubhayoḥ punar api jātaṃ naraṃ manye ||Panc_1.366||  
-
-  
-kāṣṭha-kūṭa āha-bhagavati, satyam abhihitaṃ bhavatyā | uktaṃ ca-  
-
-  
-sa suhṛd-vyasane yaḥ syād anya-jāty-udbhavo 'pi san |
-  
-vṛddhau sarvo 'pi mitraṃ syāt sarveṣām eva dehinām ||Panc_1.367||
-  
-sa suhṛd-vyasane yaḥ syāt sa putro yas tu bhaktimān |
-  
-sa bhṛtyo yo vidheyajñaḥ sā bhāryā yatra nirvṛtiḥ ||Panc_1.368||  
-
-  
-tat paśya me buddhi-prabhāvam | paraṃ mamāpi suhṛd-bhūtā vīṇāravā nāma makṣikāsti | tat tām āhūyāgacchāmi, yena sa durātmā duṣṭa-gajo badhyate |  
-
-  
-athāsau caṭakayā saha makṣikām āsādya provāca-bhadre, mameṣṭeyaṃ caṭakā kenacid duṣṭa-gajena parābhūtāṇḍa-sphoṭanena | tat tasya vadhopāyam anutiṣṭhato me sāhāyyaṃ kartum arhasi |  
-
-  
-makṣikāpy āha-bhadra ! kim ucyate'tra viṣaye | uktaṃ ca-  
-
-  
-punaḥ pratyupakārāya mitrāṇāṃ kriyate priyam |
-  
-yat punar mitra-mitrasya kāryaṃ mitrair na kiṃ kṛtam ||Panc_1.369||  
-
-  
-satyam etat | paraṃ mamāpi bheko meghanādo nāma mitraṃ tiṣṭhati | tam apy āhūya yathocitaṃ kurmaḥ | uktaṃ ca-  
-
-  
-hitaiḥ sādhu-samācāraiḥ śāstrajñair mati-śālibhiḥ |
-  
-kathañcin na vikalpante vidvadbhiś cintitā nayāḥ ||Panc_1.370||  
-
-  
-atha te trayo 'pi gatvā meghanādasyāgre samastaṃ vṛttāntaṃ nivedya tasthuḥ | atha sa provāca-kiyan mātro 'sau varāko gajo mahājanasya kupitasyāgre | tan madīyo mantraḥ kartavyaḥ | makṣike, tvaṃ gatvā madhyāhna-samaye tasya madoddhatasya gajasya karṇe vīṇā-rava-sadṛśaṃ śabdaṃ kuru | yena śravaṇa-sukha-lālaso nimīlita-nayano bhavati | tataś ca kāṣṭha-kūṭa-cañcvā sphoṭita-nayano 'ndhībhūtas tṛṣārto mama garta-taṭāśritasya saparikarasya śabdaṃ śrutvā jalāśayaṃ matvā samabhyeti | tato gartam āsādya patiṣyati pañcatvaṃ yāsyati ceti | evaṃ samavāyaḥ kartavyo yathā vaira-sādhanaṃ bhavati |   
-
-  
-atha tathānuṣṭhite sa matta-gajo makṣikā-geya-sukhān nimīlita-netraḥ kāṣṭha-kūṭa-hṛta-cakṣur madhyāhna-samaye bhrāmyan maṇḍūka-śabdānusārī gacchan mahatīṃ gartam āsādya patito mṛtaś ca | ato 'haṃ bravīmi-caṭakā kāṣṭha-kūṭena iti |  
-
-  
-ṭiṭṭibha āha-bhadre, evaṃ bhavatu | suhṛd-varga-samudāyena saha samudraṃ śoṣayiṣyāmi | iti niścitya baka-sārasa-mayūrādīn samāhūya provāca-bhoḥ parābhūto 'haṃ samudreṇāṇḍakāpahareṇa | tac cintyatām asya śoṣaṇopāyaḥ |   
-
-  
-te sammantrya procuḥ-aśaktā vayaṃ samudra-śoṣaṇe | tat kiṃ vṛthā prayāsena | uktaṃ ca-  
-
-  
-abalaḥ pronnataṃ śatruṃ yo yāti mada-mohitaḥ |
-  
-yuddhārthaṃ sa nivarteta śīrṇa-danto yathā gajaḥ ||Panc_1.371||  
-
-  
-tad asmākaṃ svāmī vainateyo 'sti | tasmai sarvam etat-paribhava-sthānaṃ nivedyatām, yena svajāti-paribhava-kupito vairānṛṇyaṃ gacchati | athavātrāvalepaṃ kariṣyati tathāpi nāsti vo duḥkham | uktaṃ ca-  
-
-  
-suhṛdi nirantara-racite guṇavati bhṛtye'nuvartini kalatre |
-  
-svāmini śakti-samete nivedya duḥkhaṃ sukhī bhavati ||Panc_1.372||  
-
-  
-tad yāmo vinateya-sakāśaṃ yato 'sāv asmākaṃ svāmī |  
-
-  
-tathānuṣṭhite sarve te pakṣiṇo viṣaṇṇa-vadanā bāṣpa-pūrita-dṛśo vainateya-sakāśam āsādya karuṇa-svareṇa phūtkartum ārabdhāḥ-aho ! abrahmaṇyam abrahmaṇyam ! adhunā sadācārasya ṭiṭṭibhasya bhavati nāthe sati samudreṇāṇḍāny apahṛtāni tat-pranaṣṭam adhunā pakṣi-kulam | anye'pi svecchayā samudreṇa vyāpādiṣyante | uktaṃ ca-  
-
-  
-kva kasya karma saṃvīkṣya karoty anyo 'pi garhitam |
-  
-gatānugatiko loko na lokaḥ pāramārthikaḥ ||Panc_1.373||
-  
-cāṭu-taskara-durvṛttais tathā sāhasikādibhiḥ |
-  
-pīḍyamānāḥ prajā rakṣyāḥ kaṭūcchadmādibhis tathā ||Panc_1.374||
-  
-prajānāṃ dharma-ṣaḍ-bhāgo rājño bhavati rakṣituḥ |
-  
-adharmād api ṣaḍ-bhāgo jāyate yo na rakṣati ||Panc_1.375||
-  
-prajā-pīḍana-santāpāt samudbhūto hutāśanaḥ |
-  
-rājñaḥ śriyaṃ kulaṃ prāṇān nādagdhvā vinivartate ||Panc_1.376||
-  
-rājā bandhur abandhūnāṃ rājā cakṣur acakṣuṣām |
-  
-rājā pitā ca mātā ca sarveṣāṃ nyāya-vartinām ||Panc_1.377||
-  
-phalārthī pārthivo lokān pālayed yatnam āsthitaḥ |
-  
-dāna-mānādi-toyena mālākāro 'ṅkurān iva ||Panc_1.378||
-  
-yathā bījāṅkuraḥ sūkṣmaḥ pratnenābhirakṣitaḥ |
-  
-phala-prado bhavet kāle tadval lokaḥ surakṣitaḥ ||Panc_1.379||
-  
-hiraṇya-dhānya-ratnāni yānāni vividhāni ca |
-  
-tathānyad api yat kiñcit prajābhyaḥ syān nṛpasya tat ||Panc_1.380||  
-
-  
-athaivaṃ garuḍaḥ samākarṇya tad-duḥkha-duḥkhitaḥ kopāviṣṭaś ca vyacintayat-aho ! satyam uktam etaiḥ pakṣibhiḥ | tad adya gatvā taṃ samudraṃ śoṣayāmaḥ |   
-
-  
-evaṃ cintayatas tasya viṣṇu-dūtaḥ samāgatyāha-bho garutman ! bhagavatā nārāyaṇenāhaṃ tava pārśve preṣitaḥ | deva-kāryāya bhagavān amarāvatyāṃ yāsyatīti | tat satvaram āgamyatām |   
-
-  
-tac chrutvā garuḍaḥ sābhimānaṃ prāha-bho dūta ! kiṃ mayā kubhṛtyena bhagavān kariṣyati | tad gatvā taṃ vada yad anyo bhṛtyo vāhanāysamat-sthāne kriyatām | madīyo namaskāro vācyo bhagavataḥ | uktaṃ ca-  
-
-  
-yo na vetti guṇān yasya na taṃ seveta paṇḍitaḥ |
-  
-na hi tasmāt phalaṃ kiñcit sukṛṣṭād ūṣarād iva ||Panc_1.381||  
-
-  
-dūta āha-bho vainateya ! kadācid api bhagavantaṃ prati tvayā naitad abhihitam īdṛk | tat kathaya, kiṃ te bhagavatāpamāna-sthānaṃ kṛtam ?  
-
-  
-garuḍa āha-bhagavad-āśraya-bhūtena samudreṇāsmaṭ ṭiṭṭibhāṇḍāny apahṛtāni | tad yadi nigrahaṃ na karoti tad ahaṃ bhagavato na bhṛtya ity eṣa niścayas tvayā vācyaḥ | tad drutataraṃ gatvā bhavatā bhagavataḥ samīpe vaktavyam |  
-
-  
-atha dūta-mukhena praṇaya-kupitaṃ vainateyaṃ vijñāya sammāna-puraḥsaraṃ tam ānayāmi | uktaṃ ca-  
-
-  
-bhaktaṃ śaktaṃ kulīnaṃ ca na bhṛtyam avamānayet |
-  
-putraval lālayen nityaṃ ya icchec chriyam ātmanaḥ ||Panc_1.382||  
-
-  
-anyac ca-
-  
-rājā tuṣṭo 'pi bhṛtyānām artha-mātraṃ prayacchati |
-  
-te tu sammānitās tasya prāṇair apy upakurvate ||Panc_1.383||  
-
-  
-ity evaṃ sampradhārya rukma-pure vainateya-sakāśaṃ satvaram agamat | vainateyo 'pi gṛhāgataṃ bhagavantam avalokya trapādhomukhaḥ praṇamyovāca-bhagavan ! tvad-āśrayonmattena samudreṇa mama bhṛtyāsyāṇḍāny apahṛtya mamāpamāno vihitaḥ | paraṃ bhagaval-lajjayā mayā vilambitam | no ced enam ahaṃ sthalāntaram adyaiva nayāmi | yataḥ svāmi-bhayāc chravaṇo 'pi prahāro na dīyate | uktaṃ ca-  
-
-  
-yena syāl laghutā vātha pīḍā citte prabhoḥ kvacit |
-  
-prāṇa-tyāge'pi tat karma na kuryāt kula-sevakaḥ ||Panc_1.384||  
-
-  
-tac chrutvā bhagavān āha-bho vainateya ! satyam abhihitaṃ bhavatā | uktaṃ ca-  
-
-  
-bhṛtyāparādhajo daṇḍaḥ svāmino jāyate yataḥ |
-  
-tena lajjāpi tasyotthā na bhṛtyasya tathā punaḥ ||Panc_1.385||  
-
-  
-tad āgaccha yenāṇḍāni samudrād ādāya ṭiṭṭibhaṃ sambhāvayāvaḥ | amarāvatīṃ ca gacchāvaḥ |   
-
-  
-tathānuṣṭhite samudro bhagavatā nirbharsyāgneyaṃ śaraṃ sandhyāyābhihitaḥ-bho durātman ! dīyantāṃ ṭiṭṭibhāṇḍāni | no cet sthalatāṃ tvāṃ nayāmi |   
-
-  
-tataḥ samudreṇa sa-bhayena ṭiṭṭibhāṇḍāni tāni pradattāni | ṭiṭṭibhenāpi bhāryāyai samarpitāni | ato 'haṃ bravīmi-śatror balam avijñāya iti | tasmāt puruṣeṇodyamo na tyājyaḥ |   
-
-  
-tad ākarṇya sañjīvakas tam eva bhūyo 'pi papraccha-bho mitra ! kathaṃ jñeyo mayāsau duṣṭa-buddhir iti | iyantaṃ kālaṃ yāvad uttarottara-snehena prasādena cāhaṃ dṛṣṭaḥ | na kadācit tad-vikṛtir dṛṣṭā | tat kathyatāṃ yenāham ātma-rakṣārthaṃ tad-vadhāyodyamaṃ karomi |   
-
-  
-damanaka āha-bhadra, kim atra jñeyam ? eṣa te pratyayaḥ | yadi rakta-netras triśikhāṃ bhrūkuṭiṃ dadhānaḥ sṛkkaṇī parilelihan tvāṃ dṛṣṭvā bhavati, tad duṣṭa-buddhiḥ | anyathā suprasādaś ceti | tad ājñāpaya mām | svāśrayaṃ prati gacchāmi | tvayā ca yathāyaṃ mantra-bhedo na bhavati tathā kāryam | yadi niśāmukhaṃ prāpya gantuṃ śaknoṣi tad-deśa-tyāgaḥ kāryaḥ | yataḥ-  
-
-  
-tyajed ekaṃ kulasyārthe grāmasyārthe kulaṃ tyajet |
-  
-grāmaṃ janapadasyārthe svātmārthe pṛthivīṃ tyajet ||Panc_1.386||
-  
-āpad-arthe dhanaṃ rakṣed dārān rakṣed dhanair api |
-  
-ātmānaṃ satataṃ rakṣed dārair api dhanair api ||Panc_1.387||  
-
-  
-balavatābhibhūtasya videśa-gamanaṃ tad-anupraveśo vā nītiḥ | tad-deśa-tyāgaḥ kāryaḥ | athavātmā sāmādibhir upāyair ābharakṣaṇīyaḥ | uktaṃ ca-  
-
-  
-api putra-kalatrair vā prāṇān rakṣeta paṇḍitaḥ |
-  
-vidyamānair yatas taiḥ syāt sarvaṃ bhūyo 'pi dehinām ||Panc_1.388||  
-
-  
-tathā ca-
-  
-yena kenāpy upāyena śubhenāpy aśubhena vā |
-  
-uddhared dīnam ātmānaṃ samartho dharmam ācaret ||Panc_1.389||
-  
-yo māyāṃ kurute mūḍhaḥ prāṇa-tyāge dhanādiṣu |
-  
-tasya prāṇāḥ praṇaśyanti tair naṣṭair naṣṭam eva tat ||Panc_1.390||  
-
-  
-evam abhidhāya damanakaḥ karaṭaka-sakāśam agamat | karaṭako 'pi tam āyāntaṃ dṛṣṭvā provāca-bhadra ! kiṃ kṛtaṃ tatrabhavatā ?   
-
-  
-damanaka āha-mayā tāvan nīti-bīja-nirvāpaṇaṃ kṛtam | parato daiva-vihitāyattam | uktaṃ ca-
-  
-parāṅmukhe'pi daive'tra kṛtyaṃ kāryaṃ vipaścitā |
-  
-ātma-doṣa-vināśāya sva-citta-stambhanāya ca ||Panc_1.391||  
-
-  
-tathā ca-
-  
-udyoginaṃ puruṣa-siṃham upaiti lakṣmīr 
-  
-daivena deyam iti kāpuruṣā vadanti |
-  
-daivaṃ nihatya kuru pauruṣam ātma-śaktyā yatne kṛte yadi na sidhyati ko 'tra doṣaḥ ||Panc_1.392||  
-
-  
-karaṭaka āha-tat kathaya kīdṛk tvayā nīti-bījaṃ nirvāpitam |  
-
-  
-so 'bravīt-mayānyonyaṃ tābhyāṃ mithyā-prajalpena bhedas tathā vihito yathā bhūyo 'pi mantrayantāv eka-sthāna-sthitau na drakṣyasi |  
-
-  
-karaṭaka āha-aho, na yuktaṃ bhavatā vihitaṃ yat parasparaṃ tau snehārdra-hṛdayau sukhāśrayau kopa-sāgare prakṣiptau | uktaṃ ca-  
-
-  
-aviruddhaṃ sukha-sthaṃ yo duḥkha-mārge niyojayet |
-  
-janma-janmāntare duḥkhī sa naraḥ syād asaṃśayam ||Panc_1.393||  
-
-  
-aparaṃ tvaṃ yad bheda-mātreṇāpi hṛṣṭas tad apy ayuktam, yataḥ sarvato 'pi jano virūpa-karaṇe samartho bhavati nopakartum | uktaṃ ca-  
-
-  
-ghātayitum eva nīcaḥ para-kāryaṃ vetti na prasādayitum |
-  
-pātayitum asti śaktir vāyor vṛkṣaṃ na connamitum ||Panc_1.394||  
-
-  
-damanaka āha-anabhijño bhavān nīti-śāstrasya, tenaitad bravīṣi | uktaṃ ca yataḥ-  
-
-  
-jāta-mātraṃ na yaḥ śatruṃ vyādhiṃ ca praśamaṃ nayet |
-  
-mahā-balo 'pi tenaiva vṛddhiṃ prāpya sa hanyate ||Panc_1.395||  
-
-  
-tac-chatru-bhūto 'yam asmākaṃ mantri-padāharaṇāt | uktaṃ ca-  
-
-  
-pitṛ-paitāmahaṃ sthānaṃ yo yasyātra jigīṣate |
-  
-sa tasya sahajaḥ śatrur ucchedyo 'pi priye sthitaḥ ||Panc_1.396||  
-
-  
-tan mayā sa udāsīnatayā samānīto 'bhaya-pradānena yāvat tāvad aham api tena sācivyāt pracyāvitaḥ | athavā sādhv idam ucyate-  
-
-  
-dadyāt sādhur yadi nija-pade durjanāya praveśaṃ
-  
-tan-nāśāya prabhavati tato vāñchamānaḥ svayaṃ saḥ |
-  
-tasmād deyo vipula-matibhir nāvakāśo 'dhamānāṃ
-  
-jārāpi syād gṛha-patir iti śrūyate vākyato 'tra ||Panc_1.397||  
-
-  
-tena mayā tasyopari vadhopāya eva viracyate | deśa-tyāgāya vā bhaviṣyati | tac ca tvāṃ muktvānyo na jñāsyati | tad uktam etat te svārthāyānuṣṭhitam | uktaṃ ca-  
-
-  
-nistriṃśaṃ hṛdayaṃ kṛtvā vāṇīm ikṣu-rasopāmām |
-  
-vikalpo 'tra na kartavyo hanyāt tatrāpakāriṇam ||Panc_1.398||  
-
-  
-aparaṃ mṛto 'py asmākaṃ bhojyo bhaviṣyati | tad ekaṃ tāvad vara-sādhanam | aparaṃ sācivyaṃ ca bhaviṣyati tṛptiś ceti | tad-guṇa-traye'sminn upasthite kasmān māṃ dūṣayasi tvaṃ jāḍya-bhāvāt | uktaṃ ca-  
-
-  
-parasya pīḍanaṃ kurvan svārtha-siddhiṃ ca paṇḍitaḥ |
-  
-mūḍha-buddhir na bhakṣeta vane caturako yathā ||Panc_1.399||  
-
-  
-karaṭaka āha-katham etat ?  
-
-  
-sa āha-
-  
-kathā 16
-  
-vajra-daṃṣṭra-nāma-siṃha-kathā  
-
-  
-asti kasmiṃścid vanoddeśe vajra-daṃṣṭro nāma siṃhaḥ | tasya caturaka-kravyamukha-nāmānau śṛgāla-vṛkau bhṛtya-bhūtau sadaivānugatau tatraiva vane prativasataḥ | athānya-dine siṃhena kadācid āsanna-prasavā prasava-vedanayā sva-yūthād bhraṣṭoṣṭry upaviṣṭā kasmiṃścid vana-gahane samāsāditā | atha tāṃ vyāpādya yāvad udaraṃ sphoṭayati, tāvaj jīvan laghu-dāseraka-śiśur niṣkrāntaḥ | siṃho 'pi dāserakyāḥ piśitena saparivāraḥ parāṃ tṛptim upāgataḥ | paraṃ snehād bāla-dāsekaṃ tyaktaṃ gṛham ānīyedam uvāca-bhadra, na te'sti mṛtyor bhayaṃ matto nānyasmād api | tataḥ svecchayātra vane bhrāmyatām iti | yatas te śaṅku-sadṛśau karṇau | tataḥ śaṅkukarṇo nāma bhaviṣyati |  
-
-  
-evam anuṣṭhite catvāro 'pi na eka-sthāne vihāriṇaḥ parasparam aneka-prakāra-goṣṭhī-sukham anubhavantas tiṣṭhanti | śaṅkukarṇo 'pi yauvana-padavīm ārūḍhaḥ kṣaṇam api na taṃ siṃhaṃ muñcati |   
-
-  
-atha kadācid vajra-daṃṣṭrasya kenacid vanyena matta-gajena saha yuddham abhavat | tena mada-vīryāt sa danta-prahārais tathā kṣata-śarīro vihito yathā pracalituṃ na śaknoti | tadā kṣut-kṣāma-kaṇṭhas tān provāca-bhoḥ ! anviṣyatāṃ kiñcit sattvaṃ yenāham evaṃ sthito 'pi taṃ vyāpādyātmano yuṣmākaṃ ca kṣut-praṇāśaṃ karomi |  
-
-  
-tac chrutvā te trayo 'pi vane sandhyā-kālaṃ yāvad bhrāntāḥ, paraṃ na kiñcit sattvam āsāditam |  atha caturakaś cintayāmāsa-yadi śaṅkukarṇo 'yaṃ vyāpādyeta tataḥ sarveṣāṃ katicid dināni tṛptir bhavati | paraṃ nainaṃ svāmī mitratvād āśraya-samāśritatvāc ca vināśayiṣyati | athavā buddhi-prabhāveṇa svāminaṃ pratibodhya tathā kariṣye yathā vyāpādayiṣyati | uktaṃ ca-  
-
-  
-avadhyaṃ vāthavāgamyam akṛtyaṃ nāsti kiṃcana |
-  
-loke buddhimatām atra tasmāt tāṃ yojayāmy aham ||Panc_1.400||  
-
-  
-evaṃ vicintya śaṅkukarṇam idam āha-bhoḥ śaṅkukarṇa ! svāmī tāvat pathyaṃ vinā kṣudhayā paripīḍyate | svāmya-bhāvād asmākam api dhruvaṃ vināśa eva | tato vākyaṃ kiñcit svāmy-arthe vadiṣyāmi | tac chrūyatām |   
-
-  
-śaṅkukarṇa āha-bhoḥ śīghraṃ nivedyatāṃ, yena te vacanaṃ śīghraṃ nirvikalpaṃ karomi | aparaṃ svāminohite kṛte mayā sukṛta-śataṃ kṛtaṃ bhaviṣyati |  
-
-  
-atha caturaka āha-bho bhadra ! ātma-śarīraṃ dviguṇa-lābhena svāmine prayaccha, yena te dviguṇaṃ śarīraṃ bhavati | svāminaḥ punaḥ prāṇa-yātrā bhavati |  
-
-  
-tad ākarṇya śaṅkukarṇaḥ prāha-bhadra ! yady evaṃ tan madīya-prayojanam etad ucyatām | svāmy-arthaḥ kriyatām iti | param atra dharmaḥ pratibhūḥ iti |  
-
-  
-te vicintya sarve siṃha-sakāśam ājagmuḥ | tataś caturaka āha-deva ! na kiñcit sattvaṃ prāptam | bhagavān ādityo 'py astaṃ gataḥ | tad yadi svāmī dviguṇaṃ śarīraṃ prayacchati | tataḥ śaṅkukarṇo 'yaṃ dviguṇa-vṛddhyā sva-śarīraṃ prayacchati dharma-pratibhuvā |  
-
-  
-siṃha āha-bhoḥ, yady evaṃ tat sundarataram | vyavahārasyāsya dharmaḥ pratibhūḥ kriyatām iti |  
-
-  
-atha siṃha-vacanānantaraṃ vṛka-śṛgālābhyāṃ vidāritobhaya-kukṣiḥ śaṅkukarṇaḥ pañcatvam upāgataḥ |  
-
-  
-atha vajra-daṃṣṭraś caturakam āha-bhoś caturaka ! yāvad ahaṃ nadīṃ gatvā snānaṃ devatārcana-vidhiṃ kṛtvāgacchāmi, tāvat tvayātrāpamattena bhāvyam ity uktvā nadyāṃ gataḥ |  
-
-  
-atha tasmin gate caturakaś cintayāmāsa-kathaṃ mamaikākino bhojyo 'yam uṣṭro bhaviṣyati iti vicintya kravyamukham āha-bhoḥ kravyamukha ! kṣudhālur bhavān | tad yāvad asau svāmī nāgacchati, tāvat tvam asyoṣṭrasya māṃsaṃ bhakṣaya | ahaṃ tvāṃ svāmino nirdoṣaṃ pratipādayiṣyāmi |  
-
-  
-so 'pi tac chrutvā yāvat kiñcin māṃsam āsvādayati tāvac caturakeṇoktam-bhoḥ kravyamukha ! samāgacchati svāmī | tat tyaktvainaṃ dūre tiṣṭha, yenāsya bhakṣaṇaṃ na vikalpayati |   
-
-  
-tathānuṣṭhite siṃhaḥ samāyāto yāvad uṣṭraṃ paśyati tāvad riktīkṛta-hṛdayo dāserakaḥ | tato bhṛkuṭiṃ kṛtvā paruṣataram āha-aho kenaiṣa uṣṭra ucchiṣṭatāṃ nīto, yena tam api vyāpādayāmi |  
-
-  
-evam abhihite kravyamukhaś caturaka-mukham avalokayati | atha caturako vihasyovāca-bhoḥ ! mām anādṛtya piśitaṃ bhakṣayitvādhunā man-mukham avalokayasi | tad-āsvādayāsya durṇaya-taroḥ phalam iti |  
-
-  
-tad ākarṇya kravyamukho jīva-nāśa-bhayād dūra-deśaṃ gataḥ | etasminn antare tena mārgeṇa dāseraka-sārtho bhārākrāntaḥ samāyātaḥ | tasyāgresaroṣṭrasya kaṇṭhe mahatī ghaṇṭā baddhā | tasyāḥ śabdaṃ durato 'py ākarṇya siṃho jambukam āha-bhadra, jñāyatāṃ kim eṣa raudraḥ śabdaḥ śrūyate'śruta-pūrvaḥ ?   
-
-  
-tac chrutvā, caturakaḥ kiñcid vanāntaraṃ gatvā satvaram abhyupetya provāca-svāmin ! gamyatāṃ gamyatāṃ yadi śaknoṣi gantum |   
-
-  
-so 'bravīt-bhadra, kim evaṃ māṃ vyākulayasi | tat kathaya kim etat ?
-  
-iti caturaka āha-svāmin, eṣa dharmarājas tavopari kupitaḥ | yad anenākāle dāserako 'yaṃ madīyo vyāpāditaḥ | tat sahasra-guṇam uṣṭram asya sakāśād grahīṣyāmi | iti niścitya bṛhan-mānam ādāyāgresarasyoṣṭrasya grīvāyāṃ ghaṇṭāṃ baddhvā badhya-dāseraka-saktān api pitṛ-pitāmahān ādāya vaira-niryātanārtham āyāta eva |  
-
-  
-siṃho 'pi tac chrutvā sarvato dūrād evāvalokya mṛtam uṣṭraṃ parityajya prāṇa-bhayāt praṇaṣṭaḥ | caturako 'pi śanaiḥ śanais tasyoṣṭrasya māṃsaṃ bhakṣayāmāsa | ato 'haṃ bravīmi-parasaya pīḍanaṃ kurvan (399) iti |  
-
-  
-atha damanake gate sañjīvakaś cintayāmāsa-aho kim etan mayā kṛtam ? yac chaṣpādo 'pi māṃsāśitas tasyānugaḥ saṃvṛttaḥ | athavā sādhv idam ucyate-
-  
-agamyāni pumān yāti yo 'sevyāṃś ca niṣevate |
-  
-sa mṛtyum upagṛhṇāti garbham aśvatarī yathā ||Panc_1.401||  
-
-  
-tat kiṃ karomi ? kva gacchāmi ? kathaṃ me śāntir bhaviṣyati ? athavā tam eva piṅgalakaṃ gacchāmi | kadācin māṃ śaraṇāgataṃ rakṣati | prāṇair na viyojayati | yata uktaṃ ca-  
-
-  
-dharmārthaṃ yatatām apīha vipado devād yadi syuḥ kvacit
-  
-tat tāsām upaśāntaye sumatibhiḥ kāryo viśeṣān nayaḥ |
-  
-loke khyātim upāgatātra sakale lokoktir eṣā yato
-  
-dagdhānāṃ kila vahninā hita-karaḥ seko 'pi tasyodbhavaḥ ||Panc_1.402||  
-
-  
-tathā ca-
-  
-loke'thavā tanu-bhṛtāṃ nija-karma-pākaṃ
-  
-nityaṃ samāśritavatāṃ suhita-kriyāṇām |
-  
-bhāvārjitaṃ śubham athāpy aśubhaṃ nikāmaṃ
-  
-yad bhāvi tad bhavati nātra vicāra-hetuḥ ||Panc_1.403||  
-
-  
-aparaṃ cānyatra gatasyāpi me kasyacid duṣṭa-sattvasya māṃsāśinaḥ sakāśān mṛtyur bhaviṣyati | tad varaṃ siṃhāt | uktaṃ ca-  
-
-  
-mahadbhiḥ spardhamānasya vipad eva garīyasī |
-  
-danta-bhaṅge'pi nāgānāṃ ślāghyo giri-vidāraṇe ||Panc_1.404||  
-
-  
-tathā ca-
-  
-mahato 'pi kṣayaṃ labdhvā ślāghyaṃ nīco 'pi gacchati |
-  
-dānārthī madhupo yadvad gaja-karṇa-samāhataḥ ||Panc_1.405||  
-
-  
-evaṃ niścitya sa sthalita-gatiṃ mandaṃ gatvā siṃhāśrayaṃ paśyann apaṭhat-aho, sādhv idam ucyate-  
-
-  
-antar-līna-bhujaṅgamaṃ gṛham ivāntaḥsthogra-siṃhaṃ vanaṃ 
-  
-grāhākīrṇam ivābhirāma-kamala-cchāyā-sanāthaṃ saraḥ |
-  
-kālenārya-janāpavāda-piśunaiḥ kṣudrair anāryaiḥ śritaṃ 
-  
-duḥkhena pravigāhyate sa-cakitaṃ rājñāṃ manaḥ sāmayam ||Panc_1.406||  
-
-  
-evaṃ paṭhan damanakoktākāraṃ piṅgalakaṃ dṛṣṭvā pracakitaḥ saṃvṛta-śarīro dūrataraṃ praṇāma-kṛtiṃ vināpy upaviṣṭaḥ | piṅgalako 'pi tathāvidhaṃ taṃ vilokya damanaka-vākyaṃ śraddadhānaḥ kopāt tasyopari papāta |   
-
-  
-atha sañjīvakaḥ khara-nakha-vikartita-pṛṣṭhaḥ śṛṅgābhyāṃ tad-udaram ullikhya katham api tasmād apetaḥ śṛṅgābhyāṃ hantum icchan yuddhāyāvasthitaḥ | atha dvāv api tau puṣpita-palāśa-pratimau paraspara-vadha-kāṅkṣiṇau dṛṣṭvā karaṭako damanakam āha-bho mūḍha-mate ! anayor virodhaṃ vitanvatā tvayā sādhu na kṛtam | na ca tvaṃ nīti-tattvaṃ vetsi | nītividbhir uktaṃ ca-  
-
-  
-kāryāṇy uttama-daṇḍa-sāhasa-phalāny āyāsa-sādhyāni ye prītyā saṃśamayanti nīti-kuśalāḥ sāmnaiva te mantriṇaḥ |
-  
-niḥsārālpa-phalāni ye tv avidhinā vāñchanti daṇḍodyamais 
-  
-teṣāṃ durnaya-ceṣṭitair narapater āropyate śrīs tulām ||Panc_1.407||  
-
-  
-tad yadi svāmy-abhighāto bhaviṣyati tat kiṃ tavdīya-mantra-buddhyā kriyate | atha sañjīvako na badhyate tathāpy abhavyam | yataḥ prāṇa-sandehāt tasya ca vadhaḥ | tan mūḍha ! kathaṃ tvaṃ mantri-padam abhilaṣasi | sāma-siddhiṃ na vetsi | tad vṛthā manoratho 'yaṃ te daṇḍaruceḥ | uktaṃ ca-  
-
-  
-sāmādi-daṇḍa-paryanto nayaḥ proktaḥ svayambhuvā |
-  
-teṣāṃ daṇḍas tu pāpīyāṃs taṃ paścād viniyojayet ||Panc_1.408||  
-
-  
-tathā ca-
-  
-sāmnaiva yatra siddhir na tatra daṇḍo budhena viniyojyaḥ |
-  
-pittaṃ yadi śarkarayā śāmyati ko 'rthaḥ paṭolena ||Panc_1.409||  
-
-  
-tathā ca-
-  
-ādau sāma prayoktavyaṃ puruṣeṇa vijānatā |
-  
-sāma-sādhyāni kāryāṇi vikriyāṃ yānti na kvacit ||Panc_1.410||
-  
-na candreṇa na cāuṣadhyā na sūryeṇa na vahninā |
-  
-sāmnaiva vilayaṃ yāti vidveṣa-prabhavaṃ tamaḥ ||Panc_1.411||  
-
-  
-tathā yat tvaṃ mantritvam abhilaṣasi, tad apy ayuktam | yatas tvaṃ mantri-gatiṃ na vetsi | yataḥ pañca-vidho mantraḥ | sa ca karmaṇām ārambhopāyaḥ, puruṣa-dravya-sampat, deśa-kāla-vibhāgaḥ, vinipāta-pratīkāraḥ, kārya-siddhiś ceti | so 'yaṃ svāmy-amātyayor ekatamasya kiṃ vā dvayor api vinipātaḥ samutpadyate lagnaḥ | tad yadi kācic chaktir asti tad vicintyatāṃ vinipāta-pratīkāraḥ | bhinna-sandhāne hi mantriṇāṃ buddhi-parīkṣā | tan mūrkha ! tat kartum asamarthatvaṃ yato viparīta-buddhir asi | uktaṃ ca-  
-
-  
-mantriṇāṃ bhinna-sandhāne bhiṣajāṃ sāṃnipātike |
-  
-karmaṇi vyajyate prajñā susthe ko vā na paṇḍitaḥ ||Panc_1.412||  
-
-  
-anyac ca-
-  
-ghātayitum eva nīcaḥ para-kāryaṃ vetti na prasādhayitum |
-  
-pātayitum eva śaktir nākhoruddhartum anna-piṭakam ||Panc_1.413||  
-
-  
-athavā na te doṣo 'yam | svāmino doṣaḥ | yas te vākyaṃ śraddadhāti | uktaṃ ca-  
-
-  
-narādhipā nīca-janānuvartino
-  
-budhopadiṣṭena pathā na yānti ye |
-  
-viśanty ato durgama-mārga-nirgamaṃ
-  
-samasta-sambādham anartha-pañjaram ||Panc_1.414||  
-
-  
-tad yadi tvam asya mantrī bhaviṣyasi tadānyo 'pi kaścin nāsya samīpe sādhu-janaḥ sameṣyati | uktaṃ ca-  
-
-  
-guṇālayo 'py asan mantrī nṛpatir nādhigamyate |
-  
-prasanna-svādu-salilo duṣṭa-grāhyo yathā hradaḥ ||Panc_1.415||  
-
-  
-tathā ca śiṣṭa-jana-rahitasya svāmino 'pi nāśo bhaviṣyati | uktaṃ ca-  
-
-  
-citrāsvāda-kathair bhṛtyair anāyāsita-kārmukaiḥ |
-  
-ye ramante nṛpās teṣāṃ ramante ripavaḥ śriyā ||Panc_1.416||  
-
-  
-tat kiṃ mūrkhopadeśena | kevalaṃ doṣo na guṇaḥ | uktaṃ ca-  
-
-  
-nānāmyaṃ namate dāru nāśmani syāt kṣura-kriyā |
-  
-sūcī-mukhaṃ vijānīhi nāśiṣyāyopaśyate ||Panc_1.417||  
-
-  
-damanaka āha--katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 17
-  
-vānara-yūtha-kathā  
-
-  
-asti kasmiṃścit parvataika-deśe vānara-yūtham | tac ca kadācid dhemanta-samaye'tikaṭhora-vāta-saṃsparśa-vepamāna-kalevaraṃ tuṣāra-varṣoddhata-pravarṣa-ghana-dhārā-nipāta-samāhataṃ na kathañcic chāntim agamat | atha kecid vānarā vahni-kaṇa-sadṛśāni guñjā-phalāny avacitya vahni-vāñchayā phūtkurvantaḥ samantāt tasthuḥ |   
-
-  
-atha sucīmukho nāma pakṣī teṣāṃ taṃ vṛthāyāsamavalokya provāca-bhoḥ, sarve mūrkhā yūyam | naite vahni-kaṇāḥ guñjā-phalāni etāni | tat kiṃ vṛthā śrameṇa | naitasmāc chīta-rakṣā bhaviṣyati | tad anviṣyatāṃ kaścin nirvāto vana-pradeśo guhā giri-kandaraṃ vā | adyāpi sa-ṭopā medhā dṛśyante |   
-
-  
-atha teṣām ekatamo vṛddha-vānaras tam uvāca-bho mūrkha ! kiṃ tāvad anena vyāpāreṇa | tad gamyatām | uktaṃ ca-  
-
-  
-muhur vighnita-karmāṇaṃ dyūta-kāraṃ parājitam |
-  
-nālāpayed viveka-jño yadīcchet siddhim ātmanaḥ ||Panc_1.418||  
-
-  
-tathā ca-
-  
-ākheṭakaṃ vṛthākleśaṃ mūrkhaṃ vyasanasaṃsthitam |
-  
-samālāpena yo yuṅkte sa gacchati parābhavam ||Panc_1.419||  
-
-  
-so 'pi tam anādṛtya bhūyo 'pi vānarān anavaratam āha-bhoḥ ! kiṃ vṛthā kleśena ? atha yāvad asau na kathañcit pralapan viramati tāvad ekena vānareṇa vyartha-śramatvāt kupitena pakṣābhyāṃ gṛhītvā śilāyām āsphālita uparataś ca |   
-
-  
-ato 'haṃ bravīmi-nānamyaṃ namate dāru ity ādi | tathā ca-  
-
-  
-upadeśo hi mūrkhāṇāṃ prakopāya na śāntaye |
-  
-payaḥ-pānaṃ bhujaṅgānāṃ kevalaṃ viṣa-vardhanam ||Panc_1.420||  
-
-  
-anyac ca-
-  
-upadeśo na dātavyo yādṛśe tādṛśe nare |
-  
-paśya vānaramūrkheṇa sugṛhī nirgṛhīkṛtā ||Panc_1.421||  
-
-  
-damanaka āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 18  
-
-  
-kasmiṃścid vane śamī-vṛkṣa-śākhālambita-vasathaṃ kṛtvāraṇya-caṭaka-dampatī prativasataḥ sma | atha kadācit tayoḥ sukha-saṃsthayor hemanta-megho mandaṃ mandaṃ varṣitum ārabdhaḥ | atrāntare kaścic chākhā-mṛgo vātāsāra-samāhataḥ proddhūṣita-śarīro dantavīṇāṃ vādayan vepamānas tasyāḥ śamyā mūlam āsādyopaviṣṭaḥ | atha taṃ tādṛṣam avalokya caṭakā prāha-bho bhadra ! 
-  
-hasta-pāda-samopeto dṛśyase puruṣākṛtiḥ | śītena bhidyase mūḍha kathaṃ na kuruṣe gṛham ||Panc_1.422|| 
-  
-etac chrutvā tāṃ vānaraḥ sakopam āha-adhame kasmān na tvaṃ mauna-vratā bhavasi ? aho dhārṣṭyam asyāḥ | adya mām upahasati-  
-
-  
-sūcī-mukhi durācārā raṇḍā paṇḍita-vādinī |
-  
-nāśaṅkate prajalpantī tat kim enāṃ na hanmy aham ||Panc_1.423||  
-
-  
-evaṃ pralapya tām āha-mugdhe ! kiṃ mama cintayā tava prayojanam ? uktaṃ ca- 
-  
-vācyaṃ śraddhā-sametasya pṛcchateś ca viśeṣataḥ |
-  
-proktaṃ śraddhā-vihīnasya araṇya-ruditopamam ||Panc_1.424||  
-
-  
-tat kiṃ bahunā tāvat | kulāya-sthitayā tayā punar apy abhihitaḥ | sa tāvat tāṃ śamīm āruhya tasyāḥ kulāyaṃ śatadhā khaṇḍaśo 'karot | ato 'haṃ bravīmi-upadeśo na dātavyaḥ iti |  
-
-  
-tan mūrkha ! śikṣāpito 'pi na śikṣitas tvam | athavā na te doṣo 'sti, yataḥ sādhoḥ śikṣā guṇāya sampadyate, nāsādhoḥ | uktaṃ ca-  
-
-  
-kiṃ karoty eva pāṇḍityam asthāne viniyojitam |
-  
-andhakāra-praticchanne ghaṭe dīpa ivāhitaḥ ||Panc_1.425||  
-
-  
-tad-vyartha-pāṇḍityam āśritya mama vacanam aśṛṇvann ātmanaḥ śāntim api vetsi | tan nūnam apajātas tvam | uktaṃ ca-  
-
-  
-jātaḥ putro 'nujātaś ca atijātas tathaiva ca |
-  
-apajātaś ca loke'smin mantavyāḥ śāstra-vedibhiḥ ||Panc_1.426||
-  
-mātṛ-tulya-guṇo jātas tv anujātaḥ pituḥ samaḥ |
-  
-atijāto 'dhikas tasmād apajāto 'dhamādhamaḥ ||Panc_1.427||  
-
-  
-apy ātmano vināśaṃ gaṇayati na khalaḥ para-vyasana-hṛṣṭaḥ |
-  
-prāyo mastaka-nāśe samara-mukhe nṛtyati kabandhaḥ ||Panc_1.428||  
-
-  
-aho, sādhv idam ucyate-  
-
-  
-dharma-buddhiḥ kubuddhiś ca dvāv etau viditau mama |
-  
-putreṇa vyartha-pāṇḍityāt pitā dhūmena ghātitaḥ ||Panc_1.429||  
-
-  
-damanaka āha--katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 20
-  
-kṛṣṇa-sarpa-kathā  
-
-  
-kasmiṃścid deśe dharmabuddhiḥ pāpabuddhiś ca dve mitre prativasataḥ | atha kadācit pāpabuddhinā cintitaṃ yad-ahaṃ tāvan mūrkho dāridryopetaś ca | tad enaṃ dharmabuddhim ādāya deśāntaraṃ gatvā asyāśrayeṇārthopārjanāṃ kṛtvainam api vañcayitvā sukhībhavāmi |   
-
-  
-athānyasminn ahani pāpabuddhir dharmabuddhiṃ prāha-bho mitra ! vārdhaka-bhāve kiṃ tv ātma-viceṣṭitaṃ smarasi | deśāntaram adṛṣṭvā kāṃ śiṣṭa-janasya vārttāṃ kathayiṣyasi ? uktaṃ ca-   
-
-  
-deśāntareṣu bahu-vidha-bhāṣā-veṣādi yena na jñātam | 
-  
-bhramatā dharaṇī-pīṭhe tasya phalaṃ janmano vyartham ||Panc_1.430||   
-
-  
-tathā ca-
-  
-vidyāṃ vittaṃ śilpaṃ tāvan nāpnoti mānavaḥ samyak | 
-  
-yāvad vrajati na bhūmau deśād deśāntaraṃ hṛṣṭaḥ ||Panc_1.431||   
-
-  
-atha tasya tad-vacanam ākarṇya prahṛṣṭa-manās tenaiva saha guru-janānujñātaḥ śubhe'hani deśāntaraṃ prasthitaḥ | tatra ca dharmabuddhi-prabhāveṇa bhramatā pāpabuddhinā prabhūtataraṃ vittam āsāditam | tataś ca tau dvāv api prabhūtopārjita-dravyau prahṛṣṭau sva-gṛhaṃ praty autsukyena prasthitau | uktaṃ ca-  
-
-  
-prāpta-vidyārtha-śilpānāṃ deśāntara-nivāsinām | 
-  
-krośa-mātro 'pi bhū-bhāgaḥ śata-yojanavad bhavet ||Panc_1.432||   
-
-  
-atha sva-sthāna-samīpa-vartinā pāpabuddhinā dharmabuddhir abhihitaḥ-bhadra ! na sarvam etad dhanaṃ gṛhaṃ prati netuṃ yujyate | yataḥ kuṭumbino bāndhavāś ca prārthayiṣyante | tad atraiva vana-gahane kvāpi bhūmau nikṣipya kiñcin mātram ādāya gṛhaṃ praviśāvaḥ |  bhūyo 'pi prayojane sañjāte tan-mātraṃ sametyāsmāt sthānān neṣyāvaḥ | uktaṃ ca-  
-
-  
-na vittaṃ darśayet prājñaḥ kasyacit svalpam apy aho | 
-  
-muner api yatas tasya darśanāc calate manaḥ ||Panc_1.433||   
-
-  
-tathā ca-
-  
-yathāmiṣaṃ jale matsyair bhakṣyate śvāpadair bhuvi | 
-  
-ākāśe pakṣibhiś caiva tathā sarvatra vittavān ||Panc_1.434||   
-
-  
-tad ākarṇya dharmabuddhir āha-bhadra evaṃ kriyatām | tathānuṣṭhite dvāv api tau sva-gṛhaṃ gatvā sukhena saṃsthitavantau | athānyasminn ahani pāpabuddhir niśīthe'ṭavyāṃ gatvā tat sarvaṃ vittaṃ samādāya gartaṃ pūrayitvā sva-bhavanaṃ jagāma |   
-
-  
-athānyedyur dharmabuddhiṃ sametya provāca-sakhe bahu-kuṭumbā vayaṃ vittābhāvāt sīdāmaḥ | tad gatvā tatra sthāne kiṃcin mātraṃ dhanam ānayāvaḥ |   
-
-  
-so 'bravīt-bhadra, evaṃ kriyatām |   
-
-  
-atha dvāv api gatvā tat sthānaṃ yāvat khanatas tāvad riktaṃ bhāṇḍaṃ dṛṣṭavantau | atrāntare pāpabuddhiḥ śiras tāḍayan provāca-bho dharmabuddhe ! tvayā hṛtam etad dhanaṃ, nānyena | yato bhūyo 'pi gartāpūraṇaṃ kṛtam | tat prayaccha me tasyārdham | anyathāhaṃ rāja-kule nivedayiṣyāmi |   
-
-  
-sa āha-bho durātman ! mā maivaṃ vada | dharmabuddhiḥ khalv aham | naitac caura-karma karomi | uktaṃ ca-  
-
-  
-mātṛvat para-dārāṇi para-dravyāṇi loṣṭavat | 
-  
-ātmavat sarva-bhūtāni vīkṣante dharma-buddhayaḥ ||Panc_1.435||  
-
-  
-evaṃ dvāv api vivadamānau dharmādhikāriṇaṃ gatau ? procatuś ca parasparaṃ dūṣayantau | atha dharmādhikaraṇādhiṣṭhita-puruṣair divyārthaṃ yāvan niyojitau tāvat pāpabuddhir āha-
-  
-aho na samyag-dṛṣṭo nyāyaḥ | uktaṃ ca-  
-
-  
-vivāde anviṣyate patraṃ tad-abhāve'pi sākṣiṇaḥ | 
-  
-sākṣy abhāvāt tato divyaṃ pravadanti manīṣiṇaḥ ||Panc_1.436||   
-
-  
-tad atra viṣaye mama vṛkṣa-devatāḥ sākṣi-bhūtās tiṣṭhanti | tā apy āvayor ekataraṃ cauraṃ sādhuṃ vā kariṣyanti | atha taiḥ sarvair abhihitam-bho yuktam uktaṃ bhavatā | uktaṃ ca-  
-
-  
-antyajo 'pi yadā sākṣī vivāde samprajāyate |
-  
-na tatra yujyate divyaṃ kiṃ punar vana-devatāḥ ||Panc_1.437||  
-
-  
-tad asmākam apy atra viṣaye mahat kautūhalam vartate | pratyūṣa-samaye yuvābhyām apy asmābhiḥ saha tatra vanoddeśe gantavyam iti | etasminn antare pāpabuddhiḥ sva-gṛhaṃ gatvā sva-janakam uvāca-tāta, prabhūto 'yaṃ mayārtho dharmabuddheś coritaḥ |  sa ca tava vacanena pariṇatiṃ gacchati | anyathāsmākaṃ prāṇaiḥ saha yāsyati |   
-
-  
-sa āha-vatsa, drutaṃ vada yena procya tad dravyaṃ sthiratāṃ nayāmi |   
-
-  
-pāpabuddhir āha-tāta, asti tat-pradeśe mahā-śamī | tasyāṃ mahat koṭaram asti | tatra tvaṃ sāṃpratam eva praviśa | tataḥ prabhāte yadāhaṃ satya-śrāvaṇaṃ karomi, tadā tvayā vācyaṃ yad dharmabuddhiś caura iti |   
-
-  
-tathānuṣṭhite pratyūṣe snātvā pāpabuddhiḥ dharmabuddhi-puraḥ-saro dharmādhikaraṇakaiḥ saha tāṃ śamīm abhyetya tāra-svareṇa provāca |   
-
-  
-ādityacandrāv anilo 'nalaś ca 
-  
-dyaur bhūmir āpo hṛdayaṃ yamaś ca | ahaś ca rātriś ca ubhe ca sandhye 
-  
-dharmo hi jānāti narasya vṛttam ||Panc_1.438||  
-
-  
-bhagavati vana-devate ! āvayor madhye yaś caura tat kathayata |   
-
-  
-atha pāpabuddhi-pitā śamī-koṭara-sthaḥ provāca-bho, dharmabuddhinā hṛtam etad dhanam |   
-
-  
-tad ākarṇya sarve te rāja-puruṣā vismayotphulla-locanā yāvad dharmabuddher vitta-haraṇocitaṃ nigrahaṃ śāstra-dṛṣṭyāvalokayanti tāvad dharmabuddhinā tac chamī-koṭaraṃ vahni-bhojya-dravyaiḥ pariveṣṭya vahninā sandīpitam | atha jvalati tasmin śamī-koṭare'rdha-dagdha-śarīraḥ sphuṭitekṣaṇaḥ karuṇaṃ paridevayan pāpabuddhi-pitā niścakrāma | tataś ca taiḥ sarvaiḥ pṛṣṭaḥ-bho kim idam ?   
-
-  
-ity ukte idaṃ sarvaṃ kukṛtyaṃ pāpabuddheḥ kāraṇāj jātam ity uktvā mṛtaḥ | tatas te rāja-puruṣāḥ pāpabuddhiṃ śamī-śākhāyāṃ pratilambya dharmabuddhiṃ praśaṃsyedam ūcuḥ-
-  
-aho sādhv idam ucyate-  
-
-  
-upāyaṃ cintayet prājñas tathāpāyam api cintayet |
-  
-paśyato baka-mūrkhasya nakulair bhakṣitāḥ sutāḥ ||Panc_1.439||  
-
-  
-dharma-buddhiḥ prāha-katham etat ?   
-
-  
-te procuḥ-
-  
-kathā 21
-  
-jīrṇadhana-nāma-vaṇik-putra-kathā  
-
-  
-asti kasmiṃścid vanoddeśe bahu-baka-sanātho vaṭa-pādapaḥ | tasya koṭare kṛṣṇa-sarpaḥ prativasati sma | sa ca baka-bālakān ajāta-pakṣān api sadaiva bhakṣayan kālaṃ nayati | athaiko bakas tena bhakṣitāny apatyāni dṛṣṭvā śiśu-vairāgyāt saras-tīram āsādya bāṣpa-pūraita-nayano 'dho-mukhas tiṣṭhati | taṃ ca tādṛk-ceṣṭitam avalokya kulīrakaḥ provāca-māma kim evaṃ rudyate bhavatādya ?   
-
-  
-sa āha-bhadra kiṃ karomi ? mama manda-bhāgyasya bālakāḥ koṭara-nivāsinā sarpeṇa bhakṣitāḥ | tad-duḥkha-duḥkhito 'haṃ rodimi | tat kathaya me yady asti kaścid upāyas tad-vināśāya | 
-  
-tad ākarṇya kulīrakaś cintayāmāsa-ayaṃ tāvad asmat-sahaja-vairī | tathopadeśaṃ prayacchāmi satyānṛtaṃ yathānye'pi bakāḥ sarve saṅkṣayam āyānti | uktaṃ ca-  
-
-  
-navanīta-samāṃ vāṇīṃ kṛtvā cittaṃ tu nirdayam | 
-  
-tathā prabodhyate śatruḥ sānvayo mriyate yathā ||Panc_1.440||   
-
-  
-āha ca-māma, yady evaṃ tan matsya-māṃsa-khaṇḍāni nakulasya bila-dvārāt sarpa-koṭaraṃ yāvat prakṣipa yathā nakulas tan-mārgeṇa gatvā taṃ duṣṭa-sarpaṃ vināśayati |   
-
-  
-atha tathānuṣṭhite matsya-māṃsānusāriṇā nakulena taṃ kṛṣṇa-sarpaṃ nihatya te'pi tad-vṛkṣāśrayāḥ sarve bakāś ca śanaiḥ śanair bhakṣitāḥ | ato vayaṃ brūmaḥ-upāyaṃ cintayed iti |   
-
-  
-evaṃ mūḍha ! tvayāpy apāyaś cintito nopāyaḥ pāpa-buddhivat | tan na bhavasi tvaṃ sajjanaḥ | kevalaṃ pāpa-buddhir asi | jñāto mayā svāminaḥ prāṇa-sandehānayanāt | prakaṭīkṛtaṃ tvayā svayam evātmano duṣṭatvaṃ kauṭilyaṃ ca | athavā sādhv idam ucyate-  
-
-  
-yatnād api kaḥ paśyec chikhinām āhāra-niḥsaraṇa-mārgam |
-  
-yadi jalada-dhvani-muditās ta eva mūḍhā na nṛtyeyuḥ ||Panc_1.441||  
-
-  
-yadi tvaṃ svāminam enāṃ daśāṃ nayasi tad asmad-vidhasya kā gaṇanā ? tasmān mamāsannena bhavatā na bhāvyam | uktaṃ ca-  
-
-  
-tulāṃ loha-sahasrasya yatra khādanti mūṣakāḥ |
-  
-rājaṃs tatra harec chyeno bālakaṃ nātra saṃśayaḥ ||Panc_1.442||  
-
-  
-damanaka āha--katham etat ?
-  
-so 'bravīt-  
-
-  
-kathā 22
-  
-jīrṇadhana-nāma-vaṇik-putra-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne jīrṇadhano nāma vaṇik-putraḥ | sa ca dravya-kṣayād deśāntara-gamana-manā vyacintayat-  
-
-  
-yatra deśe atha vā sthāne bhogān bhuktvā svavīryataḥ | 
-  
-tasmin vibhavahīno yo vaset sa puruṣādhamaḥ ||Panc_1.443||   
-
-  
-tathā ca-
-  
-yenāhaṃkārayuktena ciraṃ vilasitaṃ purā | 
-  
-dīnaṃ vadati tatraiva yaḥ pareṣāṃ sa ninditaḥ ||Panc_1.444||   
-
-  
-tasya ca gṛhe sahasra-loha-bhāra-ghaṭitā pūrva-puruṣopārjitā tulāsīt | tāṃ ca kasyacid chreṣṭino gṛhe nikṣepa-bhūtāṃ kṛtvā deśāntaraṃ prasthitaḥ | tataḥ suciraṃ kālaṃ deśāntaraṃ yathecchayā bhrāntvā punaḥ sva-puram āgatya taṃ śreṣṭhinam uvāca-bhoḥ śreṣṭhin ! dīyatāṃ me sā nikṣepa-tulā |   
-
-  
-sa āha-bho ! nāsti sā tvadīyā tulā | mūṣikair bhakṣitā |   
-
-  
-jīrṇadhana āha-bhoḥ śreṣṭhin ! nāsti doṣas te yadi mūṣikair bhakṣiteti | īdṛg evāyaṃ saṃsāraḥ | na kiṃcid atra śāśvatam asti | param ahaṃ nadyāṃ snānārthaṃ gamiṣyāmi | tat tvam ātmīyaṃ śiśum enaṃ dhanadeva-nāmānaṃ mayā saha snānopakaraṇa-hastaṃ preṣayeti |   
-
-  
-so 'pi caurya-bhayāt tasya śaṅkitaḥ sva-putram uvāca-vatsa, pitṛvyo 'yaṃ tava snānārthaṃ nadyāṃ yāsyati | tad gamyatām anena sārdhaṃ snānopakaraṇam ādāyeti | aho sādhv idam ucyate-  
-
-  
-na bhaktyā kasyacit ko 'pi priyaṃ prakurute naraḥ | 
-  
-muktvā bhayaṃ pralobhaṃ vā kārya-kāraṇam eva vā ||Panc_1.445||   
-
-  
-tathā ca-
-  
-atyādaro bhaved yatra kārya-kāraṇa-varjitaḥ |
-  
-tatra śaṅkā prakartavyā pariṇāme'sukhāvahā ||Panc_1.446||  
-
-  
-athāsau vaṇik-śiśuḥ snānopakaraṇam ādāya prahṛṣṭa-manās tenābhyāgatena saha prasthitaḥ | tathānuṣṭhite vaṇik snātvā taṃ śiśuṃ nadī-guhāyāṃ prakṣipya tad-dvāraṃ bṛhac-chilayācchādya satvaraṃ gṛham āgataḥ | pṛṣṭaś ca tena vaṇijā-bho 'bhyāgata tat kathyatāṃ kutra me śiśur yas tvayā saha nadīṃ gataḥ iti |  
-
-  
-sa āha-nadī-taṭāt sa śyenena hṛta iti |   
-
-  
-śreṣṭhy āha-mithyā-vādin ! kiṃ kvacic chyeno bālaṃ hartuṃ śaknoti ? tat samarpaya me sutam, anyathā rāja-kule nivedayiṣyāmīti |  
-
-  
-sa āha-bhoḥ satyavādin ! yathā śyeno bālaṃ na nayati tathā mūṣikā api loha-bhāra-ghaṭitāṃ tulāṃ na bhakṣayanti | tad arpaya me tulāṃ yadi dārakeṇa prayojanam | evaṃ vivadamānau dvāv api rāja-kulaṃ gatau |  
-
-  
-tatra śreṣṭhī tāra-svareṇa provāca-bho 'brahmaṇyam abrahmaṇyam | mama śiśur anena caureṇāpahṛtaḥ |   
-
-  
-atha dharmādhikāriṇas tam ūcuḥ-bhoḥ samarpyatāṃ śreṣṭhi-sutaḥ |  
-
-  
-sa āha-kiṃ karomi ? paśyato me nadī-taṭāc chyenenāpahṛtaḥ śiśuḥ |  
-
-  
-tac chrutvā te procuḥ-bho na satyam abhihitaṃ bhavatā | kiṃ śyenaḥ śiśuṃ hartuṃ samartho bhavati ?  
-
-  
-sa āha-bho bhoḥ śrūyatāṃ mad-vacaḥ |   
-
-  
-tulāṃ loha-sahasrasya yatra khādanti mūṣikāḥ | 
-  
-rājaṃs tatra harec chyeno bālakaṃ nātra saṃśayaḥ ||Panc_1.447||  
-
-  
-te procuḥ-katham etat ?  
-
-  
-tataḥ śreṣṭhī sabhyānām agre sarvaṃ vṛttāntaṃ nivedayāmāsa | tatas tair vihasya dvāv api tau parasparaṃ sambodhya tulā-śiśu-pradānena santoṣitau |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-tulāṃ loha-sahasrasya iti | 
-  
-tan mūrkha ! sañjīvaka-prasādam asahamānena tvayaitat kṛtam | aho sādhv idam ucyate-  
-
-  
-prāyeṇātra kulānvitaṃ kukulajāḥ śrī-vallabhaṃ durbhagā
-  
-dātāraṃ kṛpaṇā ṛjūn anṛjavo vitte sthitaṃ nirdhanāḥ |
-  
-vairūpyopahṛtāś ca kānta-vapuṣaṃ dharmāśrayaṃ pāpino
-  
-nānā-śāstra-vicakṣaṇaṃ ca puruṣaṃ nindanti mūrkhāḥ sadā ||Panc_1.448||  
-
-  
-tathā ca-
-  
-mūrkhāṇāṃ paṇḍitā dveṣyā nirdhanānāṃ mahādhanāḥ |
-  
-vratinaḥ pāpa-śīlānām asatīnāṃ kula-striyaḥ ||Panc_1.449||  
-
-  
-tan mūrkha tvayā hitam apy ahitaṃ kṛtam | uktaṃ ca-  
-
-  
-paṇḍito 'pi varaṃ śatrur na mūrkho hita-kārakaḥ |
-  
-vānareṇa hato rājā viprāś cīreṇa rakṣitāḥ ||Panc_1.450||  
-
-  
-damanaka āha--katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 23  
-
-  
-kasyacid rājño nityaṃ vānaro 'tibhakti-paro 'ṅga-sevako 'ntaḥ-pure apy apratiṣiddha-prasaro 'tiviśvāsa-sthānam abhūt | ekadā rājño nidrāṃ gatasya vānare vyajanaṃ nītvā vāyuṃ vidadhati rājño vakṣaḥ-sthalopari makṣikopaviṣṭā | vyajanena muhur muhur niṣidhyamānāpi punaḥ punas tatra evopaviśati | tatas tena svabhāva-capalena mūrkheṇa vānareṇa kruddhena satā tīkṣṇaṃ khaḍgam ādāya tasyā upari prahāro vihitaḥ | tato makṣikoḍḍīya gatā, paraṃ tena śita-dhāreṇāsinā rājño vakṣo dvidhā jātaṃ rājā mṛtaś ca | tasmāc cirāyur icchatā nṛpeṇa mūrkho 'nucaro na rakṣaṇīyaḥ |  
-
-  
-aparam ekasmin nagare ko 'pi vipro mahā-vidvān paraṃ pūrva-janma-yogena cauro vartate | tasmin pure'nya-deśād āgatāṃś caturo viprān bahūni vastūni vikrīṇato dṛṣṭvā cintitavān-aho kenopāyenaiṣāṃ dhanaṃ labhe | iti vicintya teṣāṃ puro 'nekāni śāstroktāni subhāṣitāni cātipriyāṇi madhurāṇi vacanāni jalpatā teṣāṃ manasi viśvāsam utpādya sevā kartum ārabdhā | athavā sādhv idam ucyate-  
-
-  
-asatī bhavati salajjā kṣāraṃ nīraṃ ca śītalaṃ bhavati |
-  
-dambhī bhavati vivekī priyavaktā bhavati dhūrtajanaḥ ||Panc_1.451||  
-
-  
-atha tasmin sevāṃ kurvati tair vipraiḥ sarva-vastūni vikrīya bahu-mūlyāni ratnāni krītāni | tatas tāni jaṅghā-madhye tat-samakṣaṃ prakṣipya sva-deśaṃ prati gantum udyamo vihitaḥ | tataḥ sa dhūrta-vipras tān viprān gantum udyatān prekṣya cintā-vyākulita-manāḥ saṃjātaḥ-
-  
-aho dhanam etan na kiṃcin mama caṭitam | athaibhiḥ saha yāmi | pathi kvāpi viṣaṃ dattvaitān nihatya sarva-ratnāni gṛhṇāmi | iti vicintya teṣām agre sa-karuṇaṃ vilapyedam āha-bho mitrāṇi ! yūyaṃ mām ekākinaṃ muktvā gantum udyatāḥ | tan me mano bhavadbhiḥ saha sneha-pāśena baddhaṃ bhavad-viraha-nāmnaivākulaṃ sañjātaṃ yathā dhṛtiṃ kvāpi na dhatte | yūyam anugrahaṃ vidhāya sahāya-bhūtaṃ mām api sahaiva nayata |   
-
-  
-tad-vacaḥ śrutvā te karuṇārdra-cittās tena samam eva sva-deśaṃ prati prasthitāḥ | athādhvani teṣāṃ pañcānām api pallī-pura-madhye vrajatāṃ dhvāṅkṣāḥ kathayitum ārabdhāḥ-re re kirātāḥ ! dhāvata dhāvata | sa-pāda-lakṣa-dhanino yānti |  etān nihatya dhanaṃ nayata |   
-
-  
-tataḥ kirātair dhvāṅkṣa-vacanam ākarṇya satvaraṃ gatvā te viprā laguḍa-prahārair jarjarī-kṛtya vastrāṇi mocayitvā vilokitāḥ, paraṃ dhanaṃ kiṃcin na labdham | tadā taiḥ kirātair abhihitam-bhoḥ pānthāḥ ! purā kadāpi dhvāṅkṣa-vacanam anṛtaṃ nāsīt | tato bhavatāṃ saṃnidhau kvāpi dhanaṃ vidyate tad arpayata | anyathā sarveṣām api vadhaṃ vidhāya carma vidārya pratyaṅgaṃ prekṣya dhanaṃ neṣyāmaḥ |   
-
-  
-tadā teṣām īdṛśaṃ vacanam ākarṇya caura-vipreṇa manasi cintitam-yadaiṣāṃ viprāṇāṃ vadhaṃ vidhāyāṅgaṃ vilokya ratnāni neṣyanti, tadāpi māṃ vadhiṣyanti tato 'haṃ pūrvam evātmānam aratnaṃ samarpyaitān muñcāmi | uktaṃ ca-  
-
-  
-mṛtyor bibheṣi kiṃ bāla na sa bhītaṃ vimuñcati |
-  
-adya vābda-śatānte vā mṛtyur vai prāṇināṃ dhruvaḥ ||Panc_1.452||  
-
-  
-tathā ca-
-  
-gavārthe brāhmaṇārthe ca prāṇa-tyāgaṃ karoti yaḥ |
-  
-sūryasya maṇḍalaṃ bhittvā sa yāti paramāṃ gatim ||Panc_1.453||  
-
-  
-iti niścityābhihitaṃ-bhoḥ kirātāḥ ! yady evaṃ tato māṃ pūrvaṃ nihatya vilokayata | tatas tais tathānuṣṭhite taṃ dhana-rahitam avalokyāpare catvāro 'pi muktāḥ |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-paṇḍito 'pi varaṃ śatruḥ iti | 
-  
-athaivaṃ saṃvadatoḥ sañjīvakaḥ kṣaṇam ekaṃ pīṅgalakena saha yuddhaṃ kṛtvā tasya khara-nakhara-prahārābhihito gatāsur vasundharā-pīṭhe nipapāta | atha taṃ gatāsum avalokya piṅgalakas tad-guṇa-smaraṇārdra-hṛdayaḥ provāca-bhoḥ, ayuktaṃ mayā pāpena kṛtaṃ sañjīvakaṃ vyāpādayatā | yato viśvāsa-ghātād anyan nāsti pāpataraṃ karma | uktaṃ ca-  
-
-  
-mitra-drohī kṛtaghnaś ca yaś ca viśvāsa-ghātakaḥ |
-  
-te narā narakaṃ yānti yāvac candra-divākarau ||Panc_1.454||  
-
-  
-bhūmi-kṣaye rāja-vināśa eva 
-  
-bhṛtyasya vā buddhimato vināśe |
-  
-no yuktam uktaṃ hy anayoḥ samatvaṃ
-  
-naṣṭāpi bhūmiḥ sulabhā na bhṛtyāḥ ||Panc_1.455||  
-
-  
-tathā mayā sabhā-madhye sa sadaiva praśaṃsitaḥ | tat kiṃ kathayiṣyāmi teṣām agrataḥ | uktaṃ ca-  
-
-  
-ukto bhavati yaḥ pūrvaṃ guṇavān iti saṃsadi |
-  
-na tasya doṣo vaktavyaḥ pratijñā-bhaṅga-bhīruṇā ||Panc_1.456||  
-
-  
-evaṃ-vidhaṃ pralapantaṃ damanakaḥ sametya saharṣam idam āha-deva, kātaratamas tavaiṣa nyāyo yad droha-kāriṇaṃ śaṣpa-bhujaṃ hatvetthaṃ śocasi | tan naitad upapannaṃ bhūbhujām | uktaṃ ca-  
-
-  
-pitā vā yadi vā bhrātā putro bhāryāthavā suhṛt |
-  
-prāṇa-drohaṃ yadā gacched dhantavyo nāsti pātakam ||Panc_1.457||  
-
-  
-tathā ca-
-  
-rājā ghṛṇī brāhmaṇaḥ sarva-bhakṣī
-  
-strī cātrapā duṣṭamatiḥ sahāyaḥ |
-  
-preṣyaḥ pratīpo 'dhikṛtaḥ prasādī 
-  
-tyājyā amī yaś ca kṛtaṃ na vetti ||Panc_1.458||  
-
-  
-api ca-
-  
-satyānṛtā ca paruṣā priya-vādinī ca 
-  
-hiṃsrā dayālur api cārtha-parā vadānyā |
-  
-bhūri-vyathā pracura-vitta-samāgamā ca
-  
-veśyāṅganeva nṛpa-nītir aneka-rūpā ||Panc_1.459||  
-
-  
-api ca-
-  
-akṛtopadravaḥ kaścin mahān api na pūjyate |
-  
-pūjayanti narā nāgān na tārkṣyaṃ nāga-ghātinam ||Panc_1.460||  
-
-  
-tathā ca-
-  
-aśocyān anvaśocas tvaṃ prajñā-vādāṃś ca bhāṣase |
-  
-gatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ ||Panc_1.461||  
-
-  
-evaṃ tena sambodhitaḥ piṅgalakaḥ sañjīvaka-śokaṃ tyaktvā damanaka-sācivyena rājyam akarot |  
-
-  
-iti śrī-viṣṇu-śarma-viracite pañcatantre 
-  
-mitra-bhedo nāma
-  
-prathamaṃ tantram
-  
-||1||  
-  
-
-  
-***********************************************************************  
-  
-
-  
-atha mitra-samprāptiḥ  
-
-  
-athedam ārabhyate mitra-samprāptir nāma dvitīyaṃ tantram | yasyāyam ādyaḥ ślokaḥ-
-  
-asādhanā api prājñā buddhimanot bahu-śrutāḥ |
-  
-sādhayanty āśu kāryāṇi kākākhu-mṛga-kūrmavat ||Panc_2.1||  
-
-  
-tad yathānuśrūyate-  
-
-  
-prastāvanā-kathā
-  
-laghupatanaka-citragrīva-vṛttāntaḥ  
-
-  
-asti dākṣiṇātye janapade mahilāropyaṃ nāma nagaram | tasya nātidūrastho mahocchrāyavān nānā-vihaṅgopabhukta-phalaḥ kīṭair āvṛta-koṭaraś chāyāśvāsita-pathika-jana-samūho nyagrodha-pādapo mahān | athavā yuktam-  
-
-  
-chāyā-supta-mṛgaḥ śakunta-nivahair viṣvag-vilupta-cchadaḥ 
-  
-kīṭair āvṛta-koṭaraḥ kapi-kulaiḥ skandhe kṛta-praśrayaḥ |
-  
-viśrabdhaṃ madhupair nipīta-kusumaḥ ślāghyaḥ sa eva drumaḥ
-  
-sarvāṅgair bahu-sattva-saṅga-sukhado bhū-bhāra-bhūto 'paraḥ ||Panc_2.2||  
-
-  
-tatra ca laghupatanako nāma vāyasaḥ prativasati sma | sa kadācit prāṇa-yātrārthaṃ puram uddiśya pracalito yāvat paśyati, tāvaj jāla-hasto 'tikṛṣṇa-tanuḥ sphuṭita-caraṇa ūrdhva-keśo yama-kiṅkarākāro naraḥ saṃmukho babhūva | atha taṃ dṛṣṭvā śaṅkita-manā vyacintayat-yad ayaṃ durātmādya mamāśraya-vaṭa-pādapa-sammukho 'bhyeti | tan na jñāyate kim adya vaṭa-vāsināṃ vihaṅgamānāṃ saṅkṣayo bhaviṣyati na vā |  
-
-  
-evaṃ bahuvidhaṃ vicintya tat-kṣaṇān nivṛtya tam eva baṭa-pādapaṃ gatvā sarvān vihaṅgamān provāca-bhoḥ ! ayaṃ durātmā lubdhako jāla-taṇḍula-hastaḥ samabhyeti | tat sarvathā tasya na viśvasanīyam | eṣa jālaṃ prasārya taṇḍulān prakṣepsyati | te taṇḍulā bhavadbhiḥ sarvair api kālakūṭa-sadṛśā draṣṭavyāḥ |   
-
-  
-evaṃ vadatas tasya sa lubdhakas tatra baṭa-tala āgatya jālaṃ prasārya sindu-vāra-sadṛśāṃs taṇḍulān prakṣipya nātidūraṃ gatvā nibhṛtaḥ sthitaḥ | atha ye pakṣiṇas tatra sthitās te laghu-patanaka-vākyārgalayā nivāritās tāṃs taṇḍulān hālāhālāṅkurān iva vīkṣamāṇā nibhṛtās tasthuḥ |   
-
-  
-atrāntare citragrīvo nāma kapotarājaḥ sahasra-parivāraḥ prāṇa-yātrārtha-paribhramaṃs tāṃs taṇḍulān dūrato 'pi paśyan laghupatanakena nivāryamāṇo 'pi jihvā-laulyād bhakṣaṇārtham apatat | sa-parivāro nibaddhaś ca | athavā sādhv idam ucyate-  
-
-  
-jihvā-laulya-prasaktānāṃ jala-madhya-nivāsinām |
-  
-acintito vadho 'jñānāṃ mīnānām iva jāyate ||Panc_2.3||  
-
-  
-athavā daiva-pratipatikūlatayā bhavaty evam | na tasya doṣo 'sti | uktaṃ ca-  
-
-  
-paulastyaḥ katham anya-dāra-haraṇe doṣaṃ na vijñātavān
-  
-rāmeṇāpi kathaṃ na hema-hariṇasyāsambhavo lakṣitaḥ |
-  
-akṣaiś cāpi yudhiṣṭhireṇa sahasā prāpto hy anarthaḥ kathaṃ
-  
-pratyāsanna-vipatti-mūḍha-manasāṃ prāyo matiḥ kṣīyate ||Panc_2.4||  
-
-  
-tathā ca-
-  
-kṛtānta-pāśa-baddhānāṃ daivopahata-cetasām |
-  
-buddhayaḥ kubja-gāminyo bhavanti mahatām api ||Panc_2.5||  
-
-  
-atrāntare lubdhakas tān baddhān vijñāya prahṛṣṭa-manāḥ prodyata-yaṣṭis tad-vadhārthaṃ pradhāvitaḥ | citragrīvo 'py ātmānaṃ sa-parivāraṃ baddhaṃ matvā lubdhakam āyāntaṃ dṛṣṭvā tān kapotān ūce-aho, na bhetavyam | uktaṃ ca-  
-
-  
-vyasaneṣv eva sarveṣu yasya buddhir na hīyate |
-  
-sa teṣāṃ pāram abhyeti tat-prabhāvād asaṃśayam ||Panc_2.6||
-  
-sampattau ca vipattau ca mahatām eka-rūpatā |
-  
-udaye savitā rakto raktaś cāsta-maye tathā ||Panc_2.7||  
-
-  
-tat sarve vayaṃ helayoḍḍīya sa-pāśa-jālā asyādarśanaṃ gatvā muktiṃ prāpnumaḥ | no ced bhaya-viklavāḥ santo helayā samutpātaṃ na kariṣyatha | tato mṛtyum avāpsyatha | uktaṃ ca-
-  
-tantavo 'py āyatā nityaṃ tantavo bahulāḥ samāḥ |
-  
-bahūn bahutvād āyāsān sahantīty upamā satām ||Panc_2.8||  
-
-  
-tathānuṣṭhite lubdhako jālam ādāyākāśe gacchatāṃ teṣāṃ pṛṣṭhato bhūmistho 'pi paryadhāvat | tata ūrdhvānanḥ ślokam enam apaṭhat |   
-
-  
-jālam ādāya gacchanti saṃhatāḥ pakṣiṇo 'py amī |
-  
-yāvac ca vivadiṣyante patiṣyanti na saṃśayaḥ ||Panc_2.9||  
-
-  
-laghupatanako 'pi prāṇa-yātrā-kriyāṃ tyaktvā kim atra bhaviṣyantīti kutūhalāt tat-pṛṣṭhato 'nusarati | atha dṛṣṭer agocaratāṃ gatān vijñāya lubdhako nirāśaḥ ślokam apaṭhan nivṛttaś ca-  
-
-  
-nahi bhavati yan na bhāvyaṃ bhavati ca bhāvyaṃ vināpi yatnena |
-  
-karatala-gatam api naśyati yasya hi bhavitavyatā nāsti ||Panc_2.10||  
-
-  
-tathā ca-
-  
-parāṅmukhe vidhau cet syāt kathañcid draviṇodayaḥ |
-  
-tat so 'nyad api saṅgṛhya yāti śaṅkha-nidhir yathā ||Panc_2.11||  
-
-  
-tad āstāṃ tāvad vihaṅgāmiṣa-lobho yāvat kuṭumba-vartanopāya-bhūtaṃ jālam api me naṣṭam | citragrīvo 'pi lubdhakam adarśanībhūtaṃ jñātvā tān uvāca-bhoḥ ! nivṛttaḥ sa durātmā lubdhakaḥ | tat sarvair api svasthair gamyatāṃ mahilāropyasya prāg-uttara-dig-bhāge | tatra mama suhṛd dhiraṇyako nāma mūṣakaḥ sarveṣāṃ pāśa-cchedaṃ kariṣyati | uktaṃ ca-  
-
-  
-sarveṣām eva martyānāṃ vyasane samupasthite |
-  
-vāṅ-mātreṇāpi sāhāyyaṃ mitrād anyo na sandadhe ||Panc_2.12||  
-
-  
-evaṃ te kapotāś citragrīveṇa sambodhitā mahilāropye nagare hiraṇyaka-bila-durgaṃ prāpuḥ | hiraṇyako 'pi sahasra-mukha-bila-durgaṃ praviṣṭaḥ sann akutobhayaḥ sukhenāsta | athavā sādhv idam ucyate-  
-
-  
-daṃṣṭrā-virahitaḥ sarpo mada-hīno yathā gajaḥ |
-  
-sarveṣāṃ jāyate vaśyo durga-hīnas tathā nṛpaḥ ||Panc_2.13||  
-
-  
-tathā ca-
-  
-na gajānāṃ sahasreṇa na ca lakṣeṇa vājinām |
-  
-tat karma sidhyate rājñāṃ dureṇaikena yad raṇe ||Panc_2.14||
-  
-śatam eko 'pi sandhatte prākārastho dhanurdharaḥ |
-  
-tasmād durgaṃ praśaṃsanti nīti-śāstra-vido janāḥ ||Panc_2.15||  
-
-  
-atha citragrīvo bilam āsādya tāra-svareṇa provāca-bho bho mitra hiraṇyaka ! satvaram āgaccha | mahatī me vyasanāvasthā vartate |   
-
-  
-tac chrutvā hiraṇyako 'pi bila-durgāntargataḥ san provāca-bhoḥ ! ko bhavān ? kim artham āyātaḥ ? kiṃ kāraṇam ? kīdṛk te vyasanāvasthānām ? tat kathyatām iti |   
-
-  
-tac chrutvā citragrīva āha-bhoḥ ! citragrīvo nāma kapota-rājo 'haṃ te suhṛt | tat satvaram āgaccha | gurutaraṃ prayojanam asti | 
-  
-tad ākarṇya pulakita-tanuḥ prahṛṣṭātmā sthira-manās tvaramāṇo niṣkrāntaḥ | athavā sādhv idam ucyate-
-  
-suhṛdaḥ sneha-sampannā locanānanda-dāyinaḥ |
-  
-gṛhe gṛhavatāṃ nityaṃ nāgacchanti mahātmanām ||Panc_2.16||
-  
-ādityasyodayaṃ tāta tāmbūlaṃ bhāratī kathā |
-  
-iṣṭā bhāryā sumitraṃ ca apūrvāṇi dine dine ||Panc_2.17||
-  
-suhṛdo bhavane yasya samāgacchanti nityaśaḥ |
-  
-citte ca tasya saukhyasya na kiñcit pratimaṃ sukham ||Panc_2.18||  
-
-  
-atha citraṃ grīvaṃ saparivāraṃ pāśa-baddham ālokya hiraṇyakaḥ sa-viṣādam idam āha-bhoḥ, kim etat ?   
-
-  
-sa āha-bhoḥ, jānann api kiṃ pṛcchasi ? uktaṃ ca yataḥ-  
-
-  
-yasmāc ca yena ca yadā ca yathā ca yac ca
-  
-yāvac ca yatra ca śubhāśubham ātma-karma |
-  
-tasmāc ca tena ca tadā ca tathā ca tac ca
-  
-tāvac ca tatra ca kṛtānta-vaśād upaiti ||Panc_2.19||  
-
-  
-tat prāptaṃ mayaitad bandhanaṃ jihvā-laulyāt | sāmprāptaṃ tvaṃ satvaraṃ pāśa-vimokṣaṃ kuru | tad ākarṇya hiraṇyakaḥ prāha-  
-
-  
-ardhārdhād yojana-śatād āmiṣaṃ vīkṣate khagaḥ |
-  
-so 'pi pārśva-sthitaṃ daivād bandhanaṃ na ca paśyati ||Panc_2.20||  
-
-  
-tathā ca-
-  
-ravi-niśākarayor graha-pīḍanaṃ 
-  
-gaja-bhujaṅga-vihaṅgama-bandhanam |
-  
-matimatāṃ ca nirīkṣya daridratā 
-  
-vidhir aho balavān iti me matiḥ ||Panc_2.21||  
-
-  
-tathā ca-
-  
-vyomaikānta-vicāriṇo 'pi vihagāḥ samprāpnuvanty āpadaṃ
-  
-badhyante nipuṇair agādha-salilān mīnāḥ samudrād api |
-  
-durnītaṃ kim ihāsti kiṃ ca sukṛtaṃ kaḥ sthāna-lābhe guṇaḥ 
-  
-kālaḥ sarva-janān prasārita-karo gṛhṇāti dūrād api ||Panc_2.22||  
-
-  
-evam uktvā citragrīvasya pāśaṃ chettum udyataṃ sa tam āha-bhadra, mā maivaṃ kuru | prathamaṃ mama bhṛtyānāṃ pāśa-cchedaṃ kuru | tad anu mamāpi ca |   
-
-  
-tac chrutvā kupito hiraṇyakaḥ prāha-bhoḥ ! na yuktam uktaṃ bhavatā | yataḥ svāmino 'nantaraṃ bhṛtyāḥ |   
-
-  
-sa āha-bhadra, mā maivaṃ vada | mad-āśrayāḥ sarva ete varākāḥ | aparaṃ sva-kuṭumbaṃ parityajya samāgatāḥ | tat katham etāvan-mātram api saṃmānaṃ na karomi | uktaṃ ca-  
-
-  
-yaḥ saṃmānaṃ sadā dhatte bhṛtyānāṃ kṣitipo 'dhikam |
-  
-vittābhāve'pi taṃ dṛṣṭvā te tyajanti na karhicit ||Panc_2.23||  
-
-  
-tathā ca-
-  
-viśvāsaḥ sampadāṃ mūlaṃ tena yūthapatir gajaḥ |
-  
-siṃho mṛgādhipatye'pi na mṛgaiḥ parivāryate ||Panc_2.24||  
-
-  
-aparaṃ mama kadācit pāśa-cchede kurvatas te danta-bhaṅgo bhavati | athavā durātmā lubdhakaḥ sambhyeti | tan nūnaṃ naraka-pāta eva | uktaṃ ca-  
-
-  
-sadācāreṣu bhṛtyeṣu saṃsīdatsu ca yaḥ prabhuḥ |
-  
-sukhī syān narakaṃ yāti paratreha ca sīdati ||Panc_2.25||  
-
-  
-tac chrutvā prahṛṣṭo hiraṇyakaḥ prāha-bhoḥ, vedmy ahaṃ rāja-dharmam | paraṃ mayā tava parīkṣā kṛtā | tat sarveṣāṃ pūrvaṃ pāśa-cchedaṃ kariṣyāmi | bhavān apy anena bahu-kapota-parivāreṇa bhaviṣyati | uktaṃ ca-  
-
-  
-kāruṇyaṃ saṃvibhāgaś ca yathā bhṛtyeṣu lakṣyate |
-  
-cittenānena te śaṅkyā trailokyasyāpi nāthatā ||Panc_2.26||  
-
-  
-evam uktvā sarveṣāṃ pāśa-cchedaṃ kṛtvā hiraṇyakaś citragrīvam āha-mitra, gamyatām adhunā svāśrayaṃ prati | bhūyo 'pi vyasane prāpte samāgantavyam iti |  
-
-  
-tān sampreṣya punar api durgaṃ praviṣṭaḥ | citragrīvo 'pi saparivāraḥ svāśrayam agamat | athavā sādhv idam ucyate-  
-
-  
-mitravān sādhayaty arthān duḥsādhyān api vai yataḥ |
-  
-tasmān mitrāṇi kurvīta samānāny eva cātmanaḥ ||Panc_2.27||  
-
-  
-laghupatanako 'pi vāyasaḥ sarvaṃ taṃ citragrīva-bandhu-mokṣam avalokya vismitamanā vyacintayat-aho buddhir asya hiraṇyakasya śaktiś ca durga-sāmagrī ca | tad īdṛg eva vidhi-vihaṅgānāṃ bandhana-mokṣātmakaḥ | ahaṃ ca na kasyacid viśvasimi cala-prakṛtiś ca | tadāpy enaṃ mitraṃ karomi | uktaṃ ca-  
-
-  
-api sampūrṇatā-yuktaiḥ kartavyāḥ suhṛdo budhaiḥ |
-  
-nadīśaḥ paripūrṇo 'pi candrodayam apekṣate ||Panc_2.28||  
-
-  
-evaṃ sampradhārya pādapād avatīrya bila-dvāram āśritya citragrīvavac chabdena hiraṇyakaṃ samāhūtavān-ehy ehi bho hiraṇyaka, ehi |  
-
-  
-tac chabdaṃ śrutvā hiraṇyako vyacintayat-kim anyo 'pi kaścit kapoto bandhana-śeṣas tiṣṭhati yena māṃ vyāharati | āha ca-bhoḥ ! ko bhavān ?   
-
-  
-sa āha-ahaṃ laghupatanako nāma vāyasaḥ |   
-
-  
-tac chrutvā viśeṣād antarlīno hiraṇyaka āha-bhoḥ ! drutaṃ gamyatām asmāt sthānāt |  
-
-  
-vāyasa āha-ahaṃ tava pārśve guru-kāryeṇa samāgataḥ | tat kiṃ na kriyate mayā saha darśanam ?   
-
-  
-hiraṇyaka āha-na me'sti tvayā saha saṅgamena prayojanam iti |  
-
-  
-sa āha-bhoḥ ! citragrīvasya mayā tava sakāśāt pāśa-mokṣaṇaṃ dṛṣṭam | tena mama mahatī prītiḥ sañjātā | tat kadācin mamāpi bandhane jāte tava pārśvān muktair bhaviṣyati | tat kriyatāṃ mayā saha maitrī |  
-
-  
-hiraṇyaka āha-aho tvaṃ bhoktā | ahaṃ te bhojya-bhūtaḥ | tat kā tvayā saha mama maitrī ? tad gamyatām | maitrī virodha-bhāvāt katham ? uktaṃ ca-  
-
-  
-yayor eva samaṃ vittaṃ yayor eva samaṃ kulam |
-  
-tayor maitrī vivāhaś ca na tu puṣṭa-vipuṣṭayoḥ ||Panc_2.29||  
-
-  
-tathā ca-
-  
-yo mitraṃ kurute mūḍha ātmano 'sadṛśaṃ kudhīḥ |
-  
-hīnaṃ vāpy adhikaṃ vāpi hāsyatāṃ yāty asau janaḥ ||Panc_2.30||  
-
-  
-tad gamyatām iti |  
-
-  
-vāyasa āha-bho hiraṇyaka ! eṣo 'haṃ tava durga-dvāra upaviṣṭaḥ | yadi tvaṃ maitrī na karoṣi tato 'haṃ prāṇa-mokṣaṇaṃ tavāgre kariṣyāmi | athavā prāyopaveśanaṃ me syāt iti |   
-
-  
-hiraṇyaka āha-bhoḥ ! tvayā vairiṇā saha kathaṃ maitrīṃ karomi ? uktaṃ ca-  
-
-  
-vairiṇā na hi sandadhyāt suśliṣṭenāpi sandhinā |
-  
-sutaptam api pānīyaṃ śamayaty eva pāvakam ||Panc_2.31||  
-
-  
-vāyasa āha-bhoḥ ! tvayā saha darśanam api nāsti | kuto vairam ? tat kim anucitaṃ vadasi ?   
-
-  
-hiraṇyaka āha-dvividhaṃ vairaṃ bhavati | sahajaṃ kṛtrimaṃ ca | tat sahaja-vairī tvam asmākam | uktaṃ ca-  
-
-  
-kṛtrimaṃ nāśam abhyeti vairaṃ drāk kṛtrimair guṇaiḥ |
-  
-prāṇa-dānaṃ vinā vairaṃ sahajaṃ yāti na kṣayam ||Panc_2.32||  
-
-  
-vāyasa āha-bhoḥ ! dvividhasya vairasya lakṣaṇaṃ śrotum icchāmi | tat kathyatām |  
-
-  
-hiraṇyaka āha-bhoḥ ! kāraṇena nirvṛtaṃ kṛtrimam | tat-tad-arhopakāra-karaṇād gacchati | svābhāvikaṃ punaḥ katham api na gacchati | tad yathā nakula-sarpāṇāṃ, śaṣpabhuṅ-nakhāyudhānāṃ, jala-vahnyoḥ, deva-daityānāṃ, sārameya-mārjarāṇāṃ, īśvara-daridrāṇāṃ, sapatnīnāṃ, siṃha-gajānāṃ, lubdhaka-hariṇānāṃ, śrotriya-bhraṣṭa-kriyāṇāṃ, mūrka-paṇḍitānāṃ, pativratā-kulaṭānāṃ, sajjana-durjanānām | na kaścit kenāpi vyāpāditaḥ, tathāpi prāṇān santāpayanti |  
-
-  
-vāyasa āha-bhoḥ ! akāraṇam etat | śrūyatāṃ me vacanam-  
-
-  
-kāraṇān mitratām eti kāraṇād yāti śatrutām |
-  
-tasmān mitratvam evātra yojyaṃ vairaṃ na dhīmatā ||Panc_2.33||  
-
-  
-tasmāt kuru mayā saha samāgamaṃ mitra-dharmārtham |  
-
-  
-hiraṇyaka āha-bhoḥ, śrūyatāṃ nīti-sarvasvam-  
-
-  
-sakṛd duṣṭam apīṣṭaṃ yaḥ punaḥ sandhātum icchati |
-  
-sa mṛtyum upagṛhṇāti garbham aśvatarī yathā ||Panc_2.34||  
-
-  
- athavā guṇavān ahaṃ, na me kaścid vaira-yātanāṃ kariṣyati | etad api na sambhāvyam | uktaṃ ca-  
-
-  
-siṃho vyākaraṇasya kartur aharat prāṇān piryān pāṇiner
-  
-mīmāṃsā-kṛtam unmamātha sahasā hastī muniṃ jaiminim |
-  
-chando-jñāna-nidhiṃ jaghāna makaro velā-taṭe piṅgalam
-  
-ajñānāvṛta-cetasām atiruṣā ko 'rthas tiraścāṃ guṇaiḥ ||Panc_2.35||  
-
-  
-vāyasa āha-asty etat | yathāpi śrūyatām-  
-
-  
-upakārāc ca lokānāṃ nimittān mṛga-pakṣiṇām |
-  
-bhayāl lobhāc ca mūrkhāṇāṃ maitrī syād darśanāt satām ||Panc_2.36||
-  
-mṛd-ghaṭa iva sukha-bhedyo duḥsandhānaś ca durjano bhavati |
-  
-sujanas tu kanaka-ghaṭa iva durbhedaḥ sukara-sandhiś ca ||Panc_2.37||
-  
-ikṣor agrāt kramaśaḥ parvaṇi parvaṇi yathā rasa-viśeṣaḥ |
-  
-tadvat sajjana-maitrī-viparītānāṃ tu viparītā ||Panc_2.38||  
-
-  
-tathā ca-
-  
-ārambha-gurvī kṣayiṇī krameṇa laghvī purā vṛddhimatī ca paścāt |
-  
-dinasya pūrvārdha-parārdha-bhinnā chāyeva maitrī khala-sajjanānām ||Panc_2.39||  
-
-  
-tat sādhur aham | aparaṃ tvāṃ śapathādibhir nirbhayaṃ kariṣyāmi |  
-
-  
-sa āha-na me'sti te śapathaiḥ pratyayaḥ | uktaṃ ca-  
-
-  
-śapathaiḥ sandhitasyāpi na viśvāsaṃ vrajed ripoḥ |
-  
-śrūyate śapathaṃ kṛtvā vṛtraḥ śakreṇa sūditaḥ ||Panc_2.40||
-  
-na viśvāsaṃ vinā śatrur devānām api sidhyati |
-  
-viśvāsāt tridaśendreṇa diter garbho vidāritaḥ ||Panc_2.41||  
-
-  
-anyac ca-
-  
-bṛhaspater api prājñas tasmān naivātra viśvaset |
-  
-ya icched ātmano buddhim āyuṣyaṃ ca sukhāni ca ||Panc_2.42||  
-
-  
-tathā ca-
-  
-susūkṣmeṇāpi randhreṇa praviśyābhyantaraṃ ripuḥ |
-  
-nāśayec ca śanaiḥ paścāt plavaṃ salila-pūravat ||Panc_2.43||
-  
-na viśvased aviśvaste viśvaste'pi na viśvaset |
-  
-viśvāsād bhayam utpannaṃ mūlāny api nikṛntati ||Panc_2.44||
-  
-na badhyate hy aviśvasto durbalo 'pi balotkaṭaiḥ |
-  
-viśvastāś cāśu badhyante balavanto 'pi durbalaiḥ ||Panc_2.45||
-  
-sukṛtyaṃ viṣṇu-guptasya mitrāptir bhārgavasya ca |
-  
-bṛhaspater aviśvāso nītir-sandhis tridhā sthitaḥ ||Panc_2.46||  
-
-  
-tathā ca-
-  
-mahatāpy artha-sāreṇa yo viśvasiti śatruṣu |
-  
-bhāryāsu suviraktāsu tad-antaṃ tasya jīvitam ||Panc_2.47||  
-
-  
-tac chrutvā laghupatanako 'pi niruttaraś cintayāmāsa-aho, buddhi-prāgalbhyam asya nīti-viṣaye | athavā sa evāsyopari maitrī-pakṣapātaḥ | sa āha-bho hiraṇyaka !  
-
-  
-satāṃ sāptapadaṃ maitram ity āhur vibudhā janāḥ |
-  
-tasmāt tvaṃ mitratāṃ prāpto vacanaṃ mama tac chṛṇu ||Panc_2.48||   
-
-  
-durgasthenāpi tvayā mayā saha nityam evālāpo guṇa-doṣa-subhāṣita-goṣṭhī-kathāḥ sarvadā kartavyāḥ, yady evaṃ na viśvasiṣi |   
-
-  
-tac chrutvā hiraṇyako 'pi vyacintayat-vidagdha-vacano 'yaṃ dṛśyate laghupatanakaḥ satya-vākyaś ca tad yuktam anena maitrī-karaṇam | paraṃ kadācin mama durge caraṇa-pāto 'pi na kāryaḥ | uktaṃ ca-  
-
-  
-bhīta-bhītaiḥ purā śatrur mandaṃ mandaṃ visarpati |
-  
-bhūmau prahelayā paścāj jāra-hasto 'ṅganāsv iva ||Panc_2.49||  
-
-  
-tac chrutvā vāyasa āha-bhadra, evaṃ bhavatu | tataḥ-prabhṛti tau dvāv api subhāṣita-goṣṭhī-sukham anubhavantau tiṣṭhataḥ | parasparaṃ kṛtopakārau kālaṃ nayataḥ | laghupatanako 'pi māṃsa-śakalāni medhyāni baliśeṣāṇy anyāni vātsalyāhṛtāni pakvānna-viśeṣāṇi hiraṇyakārtham ānayati | hiraṇyako 'pi taṇḍulān anyāṃś ca bhakṣya-viśeṣāl laghupatanakārthaṃ rātrāv āhṛtya tat-kālāyātasyārpayati | athavā yujyate dvayor apy etat | uktaṃ ca-  
-
-  
-dadāti pratigṛhṇāti guhyam ākhyāti pṛcchati |
-  
-bhuṅkte bhojāyate caiva ṣaḍ-vidhaṃ prīti-lakṣaṇam ||Panc_2.50||
-  
-nopakāraṃ vinā prītiḥ kathañcit kasyacid bhavet |
-  
-upayācita-dānena yato devā abhīṣṭadāḥ ||Panc_2.51||
-  
-tāvat prītir bhavel loke yāvad dānaṃ pradīyate |
-  
-vatsaḥ kṣīra-kṣayaṃ dṛṣṭvā parityajati mātaram ||Panc_2.52||
-  
-paśya dānasya māhātmyaṃ sadyaḥ pratyaya-kārakam |
-  
-yat-prabhāvād api dveṣo mitratāṃ yāti tat-kṣaṇāt ||Panc_2.53||  
-
-  
-putrād api priyataraṃ khalu tena dānaṃ
-  
-manye paśor api viveka-vivarjitasya |
-  
-datte khale tu nikhilaṃ khalu yena dugdhaṃ
-  
-nityaṃ dadāti mahiṣī sasutāpi paśya ||Panc_2.54||  
-
-  
-kiṃ bahunā-
-  
-prītiṃ nirantarāṃ kṛtvā durbhedyāṃ nakha-māṃsavat |
-  
-mūṣako vāyasaś caiva gatau kṛtrima-mitratām ||Panc_2.55||  
-
-  
-evaṃ sa mūṣakas tad-upakāra-rañjitas tathā viśvasto yathā tasya pakṣa-madhye praviṣṭas tena saha sarvadaiva goṣṭhīṃ karoti | athānyasminn ahani vāyaso 'śru-pūrṇa-nayanaḥ samabhyetya sagadgadaṃ tam uvāca-bhadra hiraṇyaka, viraktiḥ sañjātā me sāmprataṃ deśasyāsyopari tad anyatra yāsyāmi |  
-
-  
-hiraṇyaka āha-bhadra kiṃ virakteḥ kāraṇam |  
-
-  
-sa āha-bhadra, śrūyatāṃ | atra deśe mahatyānāvṛṣṭyā durbhikṣaṃ sañjātam | durbhikṣatvāj jano bubhukṣā-pīḍitaḥ ko 'pi bali-mātram api na prayacchati | aparaṃ gṛhe gṛhe bubhukṣita-janair vihaṅgānāṃ bandhanāya pāśāḥ praguṇīkṛtāḥ santi | aham apy āyuḥ-śeṣatayā pāśena baddha uddharito 'smi | etad virakteḥ kāraṇam æ| tenāhaṃ videśaṃ calita iti bāṣpa-mokṣaṃ karomi |   
-
-  
-hiraṇyaka āha-atha bhavān kva prasthitaḥ ?   
-
-  
-sa āha-asti dakṣiṇā-pathe vana-gahana-madhye mahāsaraḥ | tatra tvatto 'dhikaḥ parama-suhṛt kūrmo mantharako nāma | sa ca me matsya-māṃsa-khaṇḍāni dāsyati | tad-bhakṣaṇāt tena saha subhāṣita-goṣṭhī-sukham anubhavan sukhena kālaṃ neṣyāmi | nāham atra vihaṅgānāṃ pāśa-bandhanena kṣayaṃ draṣṭum icchāmi | uktaṃ ca-
-  
-anāvṛṣṭi-hate deśe sasye ca pralayaṃ gate |
-  
-dhanyās tāta na paśyanti deśa-bhaṅgaṃ kula-kṣayam ||Panc_2.56||
-  
-ko 'tibhāraḥ samarthānāṃ kiṃ dūraṃ vyavasāyinām |
-  
-ko videśaḥ savidyānāṃ kaḥ paraḥ priya-vādinām ||Panc_2.57||
-  
-vidvattvaṃ ca nṛpatvaṃ ca naiva tulyaṃ kadācana |
-  
-sva-deśe pūjyate rājā vidvān sarvatra pūjyate ||Panc_2.58||  
-
-  
-hiraṇyaka āha-yady evaṃ tad aham api tvayā saha gamiṣyāmi | mamāpi mahad duḥkhaṃ vartate |   
-
-  
-vāyasa āha-bhoḥ ! tava kiṃ duḥkham ? tat kathaya |  
-
-  
-hiraṇyaka āha-bhoḥ ! bahu vaktavyam asty atra viṣaye | tatraiva gatvā sarvaṃ savistaraṃ kathayiṣyāmi |  
-
-  
-vāyasa āha-ahaṃ tāvad ākāśa-gatiḥ | tat kathaṃ bhavato mayā saha gamanam ?   
-
-  
-sa āha-yadi me prāṇān rakṣasi tadā sva-pṛṣṭham āropya māṃ tatra prāpayiṣyasi | nānyathā mama gatir asti |   
-
-  
-tac chrutvā sānandaṃ vāyasa āha-yady evaṃ tad dhanyo 'haṃ yad bhavatāpi saha tatra kālaṃ nayāmi | ahaṃ sampātādikān aṣāv uḍḍīna-gati-viśeṣān vedmi | tat samāroha mama pṛṣṭhaṃ, yena sukhena tvāṃ tat-saraḥ prāpayāmi |  
-
-  
-hiraṇyaka āha-uḍḍīnānāṃ nāmāni śrotum icchāmi |  
-
-  
-sa āha-
-  
-sampātaṃ vipra-pātaṃ ca mahā-pātaṃ nipātanam |
-  
-vakraṃ tiryak tathā cordhvam aṣṭamaṃ laghu-saṃjñakam ||Panc_2.59||  
-
-  
-tac chrutvā hiraṇyakas tat-kṣaṇād eva tad upari samārūḍhaḥ | so 'pi śanaiḥ śanais tam ādāya sampātoḍḍīna-prasthitaḥ krameṇa tat-saraḥ prāptaḥ | tato laghupatanakaṃ mūṣakādhiṣṭhitaṃ vilokya dūrato 'pi deśa-kāla-vida-sāmānya-kāko 'yam iti jñātvā satvaraṃ mantharako jale praviṣṭaḥ | laghupatanako 'pi tīrastha-taru-koṭare hiraṇyakaṃ muktvā śākhāgram āruhya tāra-svareṇa provāca-bho mantharaka ! āgacchāgaccha | tava mitram ahaṃ laghupatanako nāma vāyasaś cirāt sotkaṇṭhaḥ samāyātaḥ | tad āgatyāliṅgaya mām | uktaṃ ca-  
-
-  
-kiṃ candanaiḥ sa-karpūrais tuhinaiḥ kiṃ ca śītalaiḥ |
-  
-sarve te mitra-gātrasya kalāṃ nārhanti ṣoḍaśīm ||Panc_2.60||  
-
-  
-tathā ca-
-  
-kenāmṛtam idaṃ sṛṣṭaṃ mitram ity akṣara-dvayam |
-  
-āpadāṃ ca paritrāṇaṃ śoka-santāpa-bheṣajam ||Panc_2.61||  
-
-  
-tac chrutvā nipuṇataraṃ parijñāya satvaraṃ salilān niṣkramya pulakita-tanur ānandāśru-pūrita-nayano mantharakaḥ provāca-ehy ehi mitra, āliṅgaya mām | cira-kālān mayā tvaṃ na samyak parijñātaḥ | tenāhaṃ salilāntaḥ-praviṣṭaḥ | uktaṃ ca-  
-
-  
-yasya na jñāyate vīryaṃ na kulaṃ na viceṣṭitam |
-  
-na tena saṅgatiṃ kuryād ity uvāca bṛhaspatiḥ ||Panc_2.62||  
-
-  
-evam ukte laghupatanako vṛkṣād avatīrya tam āliṅgitavān | athavā sādhv idam uktam-
-  
-amṛtasya pravāhaiḥ kiṃ kāya-kṣālana-sambhavaiḥ |
-  
-cirān mitra-pariṣvaṅgo yo 'sau mūlya-vivarjitaḥ ||Panc_2.63||  
-
-  
-evaṃ dvāv api tau vihitāliṅgitau parasparaṃ pulakita-śarīrī vṛkṣād adhaḥ samupaviṣṭau procatur ātma-caritra-vṛttāntam | hiraṇyako 'pi mantharakasya praṇāmaṃ kṛtvā vāyasābhyāśe samupaviṣṭaḥ | atha taṃ samālokya mantharako laghupatanakam āha-bhoḥ hiraṇyako nāma mūṣako 'yam | mama suhṛd-dvitīyam iva jīvitam | tat kiṃ bahunā-  
-
-  
-parjanyasya yathā dhārā yathā ca divi tārakāḥ |
-  
-sikatā-reṇavo yadvat saṅkhyayā parivarjitā ||Panc_2.64||
-  
-guṇāḥ saṅkhyā-parityaktās tadvad asya mahātmanaḥ |
-  
-paraṃ nirvedam āpannaḥ samprāpto 'yaṃ tavāntikam ||Panc_2.65||  
-
-  
-mantharaka āha-kim asya vairāgya-kāraṇam ?   
-
-  
-vāyasa āha-pṛṣṭo mayā, param anenābhihitaṃ, yad bahu vaktavyam iti | tat tatraiva gataḥ kathayiṣyāmi | mamāpi na niveditam | tad bhadra hiraṇyaka ! idānīṃ nivedyatām ubhayor apy āvayos tad ātmano vairāgya-kāraṇam |  
-
-  
-so 'bravīt-  
-
-  
-kathā 1
-  
-hiraṇyaka-tāmracūḍa-kathā  
-
-  
-asti dakṣiṇātye janapade mahilāropyaṃ nāma nagaram | tasya nātidūre maṭhāyatanaṃ bhagavataḥ śrī-mahādevasya | tatra ca tāmracūḍo nāma parivrājakaḥ prativasati sma | sa ca nagare bhikṣāṭanaṃ kṛtvā prāṇa-yātrāṃ samācarati | bhikṣā-śeṣaṃ ca tatraiva bhikṣā-pātre nidhāya tad-bhikṣā-pātraṃ nāgadante'valambya paścād rātrau svapiti | pratyūṣe ca tad-annaṃ karmakarāṇāṃ dattvā samyak tatraiva devatāyatane saṃmārjanopalepana-maṇḍanādikaṃ samājñāpayati | anyasminn ahani mama bāndhavair niveditam-svāmin, maṭhāyatane siddham annaṃ mūṣaka-bhayāt tatraiva bhikṣā-pātre nihitaṃ nāgadante'valambitaṃ tiṣṭhati sadaiva | tad vayaṃ bhakṣayituṃ na śaknumaḥ | svāminaḥ punar āgamya kim api nāsti | tat kiṃ vṛthāṭanenānyatra | adya
-  
-tatra gatvā yathecchaṃ bhuñjāmahe tava prasādāt |  
-
-  
-tad ākarṇyāhaṃ sakala-yūtha-parivṛtas tat-kṣaṇād eva tatra gataḥ | utpatya ca tasmin bhikṣā-pātre samārūḍhaḥ | tatra bhakṣya-viśeṣāṇi sevakebhyo dattvā paścāt svayam eva bhakṣayāmi | sarveṣāṃ tṛptau jātāyāṃ bhūyaḥ sva-gṛhaṃ gacchāmi | evaṃ nityam eva tad annaṃ bhakṣayāmi | parivrājako 'pi yathā-śakti rakṣati | paraṃ yadaiva nidrāntarito bhavati, tadāhaṃ tatrāruhyātma-kṛtyaṃ karomi | atha kadācit tena mama rakṣaṇārthaṃ mahān yatnaḥ kṛtaḥ | jarjara-vaṃśaḥ samānītaḥ | tena supto 'pi mama bhayād bhikṣā-pātraṃ tāḍayati | aham apy abhikṣite'py anne prahāra-bhayād apasarpāmi | evaṃ tena saha sakalāṃ rātriṃ vigraha-parasya kālo vrajati |   
-
-  
-athānyasminn ahani tasya maṭhe bṛhatsphiṅ-nāmā parivrājakas tasya suhṛt tīrtha-yātrā-prasaṅgena pānthaḥ prāghuṇikaḥ samāyātaḥ | taṃ dṛṣṭvā pratyutthāna-vidhinā sambhāvya pratipatti-pūrvakam abhyāgata-kriyayā niyojitaḥ | tataś ca rātrāv ekatra kuśa-saṃstare dvāv api prasuptau dharma-kathāṃ kathayitum ārabdhau |  
-
-  
-atha bṛhasphik-kathā-goṣṭhīṣu sa tāmracūḍo mūṣaka-trāsārthaṃ vyākṣipta-manā jarjara-vaṃśena bhikṣā-pātraṃ tāḍayaṃs tasya śūnyaṃ prativacanaṃ prayacchati | tan-mayo na kiñcid udāharati | athāsāv abhyāgataḥ paraṃ kopam upāgatas tam uvāca-bhos tāmracūḍa ! parijñātaḥ na tvaṃ samyak suhṛt | tena mayā saha sāhlādaṃ na jalpasi | tad-rātrāv api tvadīyaṃ maṭhaṃ tyaktvānyatra mañhe yāsyāmi | uktaṃ ca-
-  
-ehy āgaccha samāviśāsanam idaṃ kasmāc cirād dṛśyase kā vārteti sudurbalo 'si kuśalaṃ prīto 'smi te darśanāt |
-  
-evaṃ ye samupāgatān praṇayinaḥ pratyālapanty ādarāt teṣāṃ yuktam aśaṅkitena manasā harmyāṇi gantuṃ sadā ||Panc_2.66||  
-
-  
-gṛhī yatrāgataṃ dṛṣṭvā diśo vīkṣeta vāpy adhaḥ |
-  
-tatra ye sadane yānti te śṛṅga-rahitā vṛṣāḥ ||Panc_2.67||  
-
-  
-sābhyutthāna-kriyā yatra nālāpā madhurākṣarāḥ |
-  
-guṇa-doṣa-kathā naiva tatra harmyaṃ na gamyate ||Panc_2.68||  
-
-  
-tad eka-maṭha-prāptyāpi tvaṃ garvitaḥ | tyaktaḥ suhṛt-snehaḥ | naitad vetsi yat tvayā maṭhāśraya-vyājena narakopārjanaṃ kṛtam | uktaṃ ca-  
-
-  
-narakāya matis te cet paurohityaṃ samācāra |
-  
-varṣaṃ yāvat kim anyena maṭha-cintāṃ dina-trayam ||Panc_2.69||  
-
-  
-tan-mukhaṃ, śocitavyas tvaṃ garvaṃ gataḥ | tad ahaṃ tvadīyaṃ maṭhaṃ parityajya yāsyāmi |   
-
-  
-atha tac chrutvā bhaya-trasta-manās tāmracūḍas tam uvāca-bho bhagavan ! maivaṃ vada | na tvat-samo 'nyo mama suhṛt kaścid asti | paraṃ tac chrūyatāṃ goṣṭhī-śaithilya-kāraṇam | eṣa durātmā mūṣakaḥ pronnata-sthāne dhṛtam api bhikṣā-pātram utplutyārohati, bhikṣā-śeṣaṃca tatrasthaṃ bhakṣayati | tad-abhāvād eva maṭhe mārjana-kriyāpi na bhavati | tan mūṣaka  
-
-  
-muhur muhus tāḍayāmi | nānyat kāraṇam iti | aparam etat kutūhalaṃ paśyāsya durtātmano yan mārjāra-markaṭādayo 'pi tiraskṛtā asyotpatanena |   
-
-  
-bṛhatsphig āha-atha jñāyate tasya bilaṃ kasmiṃścit pradeśe |  
-
-  
-tāmracūḍa āha-bhagavan na vedmi samyak |   
-
-  
-sa āha-nūnaṃ nidhānasyopari tasya bilam | nidhānoṣmaṇā prakūrdate | uktaṃ ca-  
-
-  
-ūṣmāpi vittajo vṛddhiṃ tejo nayati dehinām |
-  
-kiṃ punas tasya sambhogas tyāga-dharma-samanvitaḥ ||Panc_2.70||  
-
-  
-tathā ca-
-  
-nākasmāc chāṇḍilī mātar vikrīṇāti tilais tilān |
-  
-luñcitān itarair yena hetur atra bhaviṣyati ||Panc_2.71||  
-
-  
-tāmracūḍa āha-katham etat ?  
-
-  
-sa āha-  
-
-  
-kathā 2
-  
-tilacūrṇa-vikraya-kathā   
-
-  
-yadāhaṃ kasmiṃścit sthāne prāvṛṭ-kāle vrata-grahaṇa-nimittaṃ kañcid brāhmaṇaṃ vāsārthaṃ prārthitavān | tataś ca tad-vacanāt tenāpi śuśrūṣitaḥ sukhena devārcana-paras tiṣṭhāmi | athānyasminn ahani pratyūṣe prabuddho 'haṃ brāhmaṇa-brāhmaṇī-saṃvāde dattāvadhānaḥ śṛṇomi | tatra brāhmaṇa āha-brāhmaṇi, prabhāte dakṣiṇāyana-saṅkrāntir ananta-dāna-phaladā bhaviṣyati | tad ahaṃ pratigrahārthaṃ grāmāntaraṃ yāsyāmi | tvayā brāhmaṇasyaikasya bhagavataḥ sūryasyoddeśena kiñcid bhojanaṃ dātavyam iti |  
-
-  
-atha tac chrutvā brāhmaṇī paruṣatara-vacanais taṃ bhartsayamānā prāha-kutas te dāridryopahatasya bhojana-prāptiḥ | tat kiṃ lajjasa evaṃ bruvāṇaḥ | api ca na mayā tava hasta-lagnayā kvacid api labdhaṃ sukham | na miṣṭhānnasyāsvādanam | na ca hasta-pāda-kaṇṭhādi-bhūṣaṇam |   
-
-  
-tac chrutvā bhaya-trasto 'pi vipro mandaṃ mandaṃ prāha-brāhmaṇi ! naitad yujyate vaktum | uktaṃ ca-  
-
-  
-grāsād api tad ardhaṃ ca kasmān no dīyate'rthiṣu |
-  
-icchānurūpo vibhavaḥ kadā kasya bhaviṣyati ||Panc_2.72||
-  
-īśvarā bhūri-dānena yal labhante phalaṃ kila |
-  
-daridras tac ca kākiṇyā prāpnuyād iti na śrutiḥ ||Panc_2.73||
-  
-dātā laghur api sevyo bhavati na kṛpaṇo mahān api samṛddhyā |
-  
-kūpo 'ntaḥ-svādu-jalaḥ prītyai lokasya na samudraḥ ||Panc_2.74||  
-
-  
-tathā ca-
-  
-akṛta-tyāga-mahimnāṃ mithyā kiṃ rāja-rāja-śabdena |
-  
-goptāraṃ na nidhīnāṃ mahayanti maheśvaraṃ vibudhāḥ ||Panc_2.75||  
-
-  
-api ca-
-  
-sadā dāna-parikṣīṇaḥ śasta eva karīśvaraḥ |
-  
-adānaḥ pīna-gātro 'pi nindya eva hi gardabhaḥ ||Panc_2.76||
-  
-suśīlo 'pi suvṛtto 'pi yāty adānād adho ghaṭaḥ |
-  
-punaḥ kubjāpi kāṇāpi dānād upari karkaṭī ||Panc_2.77||  
-
-  
-yacchan jalam api jalado vallabhatām eti sakala-lokasya |
-  
-nityaṃ prasārita-karo mitro 'pi na vīkṣituṃ śakyaḥ ||Panc_2.78||  
-
-  
-evaṃ jñātvā daridryābhibhūtair api svalpāt svalpataraṃ kāle pātre ca deyam | uktaṃ ca-
-  
-sat-pātraṃ mahatī śraddhā deśe kāle yathocite |
-  
-yad dīyate viveka-jñais tad anantāya kalpate ||Panc_2.79||  
-
-  
-tathā ca-
-  
-atitṛṣṇā na kartavyā tṛṣṇāṃ naiva parityajet |
-  
-atitṛṣṇābhibhūtasya śikhā bhavati mastake ||Panc_2.80||  
-
-  
-brāhmaṇy āha-katham etat ?   
-
-  
-sa āha-
-  
-kathā 3
-  
-śavara-śūkara-kathā  
-
-  
-asti kasmiṃścid vanoddeśe kaścit pulindaḥ | sa ca pāparddhiṃ kartuṃ vanaṃ prati prasthitaḥ | atha tena prasarpatā mahān añjana-parvata-śikharākāraḥ kroḍaḥ samāsāditaḥ | taṃ dṛṣṭvā karṇāntākṛṣṭa-niśita-sāyakena samāhataḥ | tenāpi kopāviṣṭena cetasā bālendu-dyutinā daṃṣṭrāgreṇa pāṭitodaraḥ pulindo gatāsur bhūtale'patat |   
-
-  
-atha lubdhakaṃ vyāpādya śūkaro 'pi śara-prahāra-vedanayā pañcatvaṃ gataḥ | etasminn antare kaścid āsanna-mṛtyuḥ śṛgāla itas tato nirāhāratayā pīḍitaḥ paribhramaṃs taṃ pradeśam ājagāma | yāvad varāha-pulindau dvāv api paśyati tāvat prahṛṣṭo vyacintayat-bhoḥ ! sānukūlo me vidhiḥ | tenaitad apy acintitaṃ bhojanam upasthitam | athavā sādhv idam uktam-  
-
-  
-akṛte'py udyame puṃsām anya-janma-kṛtaṃ phalam |
-  
-śubhāśubhaṃ samabhyeti vidhinā saṃniyojitam ||Panc_2.81||  
-
-  
-tathā ca-
-  
-yasmin deśe ca kāle ca vayasā yādṛśena ca |
-  
-kṛtaṃ śubhāśubhaṃ karma tat tathā tena bhujyate ||Panc_2.82||  
-
-  
-tad ahaṃ tathā bhakṣayāmi yathā bahūny ahāni me prāṇa-yātrā bhavati | tat tāvad enaṃ snāyu-pāśaṃ dhanuṣkoṭi-gataṃ bhakṣayāmi | uktaṃ ca-  
-
-  
-śanaiḥ śanaiś ca bhoktavyaṃ svayaṃ vittam upārjitam |
-  
-rasāyanam iva prājñair helayā na kadācana ||Panc_2.83||  
-
-  
-ity evaṃ manasā niścitya cāpa-ghaṭita-koṭiṃ mukha-madhye prakṣipya snāyuṃ bhakṣituṃ pravṛttaḥ | tataś ca truṭite pāśe tālu-deśaṃ vidārya cāpa-koṭirmastaka-madhyena niṣkrāntā | so 'pi tadvad enayā tat-kṣaṇāntan mṛtaḥ | ato 'haṃ bravīmi-atitṛṣṇā na kartavyā iti |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-sa punar apy āha-brāhmaṇi, na śrutaṃ bhavatyā |  
-
-  
-āyuḥ karma ca vittaṃ ca vidyā nidhanam eva ca |
-  
-pañcaitāni hi sṛjyante garbhasthasyaiva dehinaḥ ||Panc_2.84||  
-
-  
-athaivaṃ sā tena prabodhitā brāhmaṇy āha-yady evaṃ tad asti me gṛhe stokas tila-rāśiḥ | tatas tilān luñcitvā tila-cūrṇena brāhmaṇaṃ bhojayiṣyāmi iti |   
-
-  
-tatas tad-vacanaṃ śrutvā brāhmaṇo grāmaṃ gataḥ | sāpi tilānuṣṇodakena sammardya kuṭitvā sūryātape dattavatī | atrāntare tasyā grha-karma-vyagrāyās tilānāṃ madhye kaścit sārameyo mūtrotsargaṃ cakāra | taṃ dṛṣṭvā sā cintitavatī-aho naipuṇyaṃ paśya parāṅmukhībhūtasya vidheḥ | yad ete tilā abhojyāḥ kṛtāḥ | tad aham etān samādāya kasyacit gṛhaṃ gatvā luñcitair aluñcitān ānayāmi | sarvo 'pi jano 'nena vidhinā pradāsyati iti |  
-
-  
-atha yasmin gṛhe'haṃ bhikṣārthaṃ praviṣṭas tatra gṛhe sāpi tilān ādāya praviṣṭā vikrayaṃ kartum | āha ca-gṛhṇātu kaścid aluñcitair luñcitāṃs tilān |   
-
-  
-atha tad-gṛha-gṛhiṇī-gṛhaṃ praviṣṭā yāvad aluñcitair luñcitān gṛhṇāti tāvad asyāḥ putreṇa kāmandakī-śāstraṃ dṛṣṭvā vyāhṛtam-mātaḥ ! agrāhyāḥ khalv ime tilāḥ | nāsyā aluñcitair luñcitā grāhyāḥ | kāraṇaṃ kiñcid bhaviṣyati | tenaiṣāluñcitair luñcitān prayacchati |   
-
-  
-tac chrutvā ayā parityaktās te tilāḥ | ato 'haṃ bravīmi-nākasmāc chāṇḍilī-mātaḥ iti |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-etad uktvā sa bhūyo 'pi prāha-atha jñāyate tasya kramaṇa-mārgaḥ |   
-
-  
-tāmracūḍa āha-bhagavan, jñāyate | yata ekākī na samāgacchati, kintv asaṅkhya-yūtha-parivṛtaḥ paśyato me paribhramann itas tataḥ sarva-janena sahāgacchati yāti ca |  
-
-  
-abhyāgata āha-asti kiñcit khanitrakam |   
-
-  
-sa āha-bāḍham asti | eṣā sarva-loha-mayī sva-hastikā |   
-
-  
-abhyāgata āha-tarhi pratyūṣe tvayā mayā saha sthātavyam | yena dvāv api jana-caraṇa-malināyāṃ bhūmau tat-padānusāreṇa gacchāvaḥ | mayāpi tad-vacanam ākarṇya cintitam-aho vinaṣṭo 'smi, yato 'sya sābhiprāya-vacāṃsi śrūyante | nūnaṃ, yathā nidhānaṃ jñātaṃ tathā durgam apy asmākaṃ jñāsyati | etad abhiprāyād eva jñāyate | uktaṃ ca-  
-
-  
-sakṛd api dṛṣṭvā puruṣaṃ vibudhā jānanti sāratāṃ tasya |
-  
-hasta-tulayāpi nipuṇāḥ pala-pramāṇā vijānanti ||Panc_2.85||  
-
-  
-vāñchaiva sūcayati pūrvataraṃ bhaviṣyaṃ
-  
-puṃsāṃ yad anya-tanujaṃ tv aśubhaṃ śubhaṃ vā |
-  
-vijñāyate śiśur ajāta-kalāpa-cihnaḥ 
-  
-pratyudgatair apasaran saralaḥ kalāpī ||Panc_2.86||  
-
-  
-tato 'haṃ bhaya-trasta-manāḥ saparivāro durga-mārgaṃ parityajyānya-mārgeṇa gantuṃ pravṛttaḥ | saparijano yāvad agrato gacchāmi tāvat sammukho bṛhatkāyo mārjāraḥ samāyāti | sa ca mūṣaka-vṛndam avalokya tan-madhye sahasotpapāta | atha te mūṣakā māṃ kumārga-gāminam avalokya garhayanto hata-śeṣā rudhira-plāvita-vasundharās tam eva durgaṃ praviṣṭāḥ | athavā sādhv idam ucyate-  
-
-  
-chittvā pāśam apāsya kūṭa-racanāṃ bhaṅktvā balād vāgurāṃ
-  
-paryantāgni-śikhā-kalāpa-jaṭilān nirgatya dūraṃ vanāt |
-  
-vyādhānāṃ śara-gocarād api javenotpatya dhāvan mṛgaḥ
-  
-kūpāntaḥ-patitaḥ karotu vidhure kiṃ vā vidhau pauruṣam ||Panc_2.87||  
-
-  
-athāham eko 'nyatra gataḥ | śeṣā mūḍhatayā tatraiva durge praviṣṭāḥ | atrāntare sa duṣṭa-parivrājako rudhira-bindu-carcitāṃ bhūmim avalokya tenaiva durga-mārgeṇāgatyopasthitaḥ |  
-
-  
-yad utsāhī sadā martyaḥ parābhavati yaj janān |
-  
-yad uddhataṃ vaded vākyaṃ tat sarvaṃ vittajaṃ balam ||Panc_2.88||  
-
-  
-athāhaṃ tac chrutvā kopāviṣṭo bhikṣā-pātram uddiśya viśeṣād utkūrdito 'prāpta eva bhūmau nipatitaḥ | tac chrūtvāsau me śatrur vihasya tāmracūḍam uvāca-bhoḥ ! paśya paśya kautūhalam | āha ca-  
-
-  
-arthena balavān sarvo 'py artha-yuktaḥ sa paṇḍitaḥ |
-  
-paśyainaṃ mūṣakaṃ vyarthaṃ sajāteḥ samatāṃ matam ||Panc_2.89||  
-
-  
-tat svapihi tvaṃ gata-śaṅkaḥ | yad asyotpatana-kāraṇaṃ tad āvayor hasta-gataṃ jātam | athavā sādhv idam ucyate-  
-
-  
-daṃṣṭrā-virahitaḥ sarpo mada-hīno yathā gajaḥ |
-  
-tathārthena vihīno 'tra puruṣo nāma-dhārakaḥ ||Panc_2.90||  
-
-  
-tac chrutvāhaṃ manasā vicintitavān-yato 'ṅguli-mātram api kūrdana-śaktir nāsti, tad dhig artha-hīnasya puruṣasya jīvitam | uktaṃ ca-  
-
-  
-arthena ca vihīnasya puruṣasyālpa-medhasaḥ |
-  
-vyucchidyante kriyāḥ sarvā grīṣme kusarito yathā ||Panc_2.91||
-  
-yathā kāka-yavāḥ proktā yathāraṇya-bhavās tilāḥ |
-  
-nāma-mātrā na siddhau hi dhana-hīnās tathā narāḥ ||Panc_2.92||
-  
-santo 'pi na hi rājante daridrasyetare guṇāḥ |
-  
-āditya iva bhūtānāṃ śrīr guṇānāṃ prakāśinī ||Panc_2.93||
-  
-na tathā bādhyate loke prakṛtyā nirdhano janaḥ |
-  
-yathā dravyāṇi samprāpya tair vihīno 'sukhe sthitaḥ ||Panc_2.94||
-  
-śuṣkasya kīṭa-khātasya vahni-dagdhasya sarvataḥ |
-  
-taror apy ūṣarasthasya varaṃ janma na cārthinaḥ ||Panc_2.95||
-  
-śaṅkanīyā hi sarvatra niṣpratāpā daridratā |
-  
-upakartum api hi prāptaṃ niḥsvaṃ santyajya gacchati ||Panc_2.96||
-  
-unnamyonnamya tatraiva daridrāṇāṃ manorathāḥ |
-  
-patanti hṛdaye vyarthā vidhavāstrīstanā iva ||Panc_2.97||
-  
-vyakte'pi vāsare nityaṃ daurgatya-tamasāvṛtaḥ |
-  
-agrato 'pi sthito yatnān na kenāpīha dṛśyate ||Panc_2.98||  
-
-  
-evaṃ vilapyāhaṃ bhagnotsāhas tan-nidhānaṃ gaṇḍopadhānīkṛtaṃ dṛṣṭvā svaṃ durgaṃ prabhāte gataḥ | tataś ca mad-bhṛtyāḥ prabhāte gacchanto mitho jalpanti-aho, asamartho 'yam udara-pūraṇe'smākam | kevalam asya pṛṣṭha-lagnānāṃ viḍālādi-vipattayaḥ tat kim anenārādhitena ? uktaṃ ca-
-  
-yat-sakāśān na lābhāḥ syāt kevalāḥ syur vipattayaḥ |
-  
-sa svāmī dūratas tyājyo viśeṣād anujīvibhiḥ ||Panc_2.99||  
-
-  
-evaṃ teṣāṃ vacāṃsi śrutvā sva-durgaṃ praviṣṭo 'ham | yāvan na kaścin mama saṃmukhe'bhyeti tāvan mayā cintitam-dhig iyaṃ daridratā | athavā sādhv idam ucyate-
-  
-mṛto daridraḥ puruṣo mṛtaṃ maithunam aprajam |
-  
-mṛtam aśrotriyaṃ śrāddhaṃ mṛto yajñas tv adakṣiṇam ||Panc_2.100||
-  
-vyathayanti paraṃ ceto manoratha-śatair janāḥ |
-  
-nānuṣṭhānair dhanair hīnāḥ kulajāḥ vidhavā iva ||Panc_2.101||
-  
-daurgatyaṃ dehināṃ duḥkham apamāna-karaṃ param |
-  
-yena svair api manyante jīvanto 'pi mṛtā iva ||Panc_2.102||
-  
-dainyasya pātratām eti parābhṛteḥ paraṃ padam |
-  
-vipadām āśrayaḥ śaśvad daurgatya-kaluṣī-kṛtaḥ ||Panc_2.103||
-  
-lajjante bāndhavās tena sambandhaṃ gopayanti ca |
-  
-mitrāṇy amitratāṃ yānti yasya na syuḥ kapardakāḥ ||Panc_2.104||
-  
-mūrtaṃ lāghavam evaitad apāyānām idaṃ gṛham |
-  
-paryāyo maraṇasyāyaṃ nirdhanatvaṃ śarīriṇām ||Panc_2.105|| 
-  
-ajā-dhūlir iva trastair mārjanī-reṇuvaj janaiḥ |
-  
-dīpa-khaṭvottha-cchāyeva tyajyate nirdhano janaḥ ||Panc_2.106||
-  
-śaucāvaśiṣṭayāpy asti kiñcit kāryaṃ kvacin mṛdā |
-  
-nirdhanena janenaiva na tu kiñcit prayojanam ||Panc_2.107||
-  
-adhano dātu-kāmo 'pi samprāpto dhanināṃ gṛham |
-  
-manyate yācako 'yaṃ dhig dāridryaṃ khalu dehinām ||Panc_2.108||
-  
-sva-vitta-haraṇaṃ dṛṣṭvā yo hi rakṣaty asūn naraḥ |
-  
-pitaro 'pi na gṛhṇanti tad-dattaṃ saliāñjalim ||Panc_2.109||  
-
-  
-tathā ca-
-  
-gavārthe brāhmaṇārthe ca strī-vitta-haraṇe tathā |
-  
-prāṇāṃs tyajati yo yuddhe tasya lokāḥ sanātanāḥ ||Panc_2.110||
-  
-evaṃ niścitya rātrau tatra gatvā nidrāvaśam upāgatasya peṭāyāṃ mayā  chidraṃ kṛtaṃ yāvat, tāvat prabuddho duṣṭa-tāpasaḥ | tataś ca jarjara-vaṃśa-prahāreṇa śirasi tāḍitaḥ kathañcid āyuḥ-śeṣatayā nirgato 'ham, na mṛtaś ca | uktaṃ ca-  
-
-  
-prāptavyam arthaṃ labhate manuṣyo
-  
-devo 'pi taṃ laṅghayituṃ na śaktaḥ |
-  
-tasmān na śocāmi na vismayo me
-  
-yad asmadīyaṃ na hi tat pareṣām ||Panc_2.111||  
-
-  
-kāka-kūrmau pṛcchataḥ-katham etat ?  
-
-  
-hiraṇyaka āha-  
-
-  
-kathā 4
-  
-sāgaradatta-kathā  
-
-  
-asti kasmiṃścin nagare sāgaradatto nāma vaṇik | tat-sūnunā rūpaka-śatena vikrīyamāṇaṃ pustakaṃ gṛhītam | tasmiṃś ca likhitam asti-  
-
-  
-prāptavyam arthaṃ labhate manuṣyo
-  
-devo 'pi taṃ laṅghayituṃ na śaktaḥ |
-  
-tasmān na śocāmi na vismayo me
-  
-yad asmadīyaṃ na hi tat pareṣām ||Panc_2.111||  
-
-  
-tad dṛṣṭvā sāgaradattena tanujaḥ pṛṣṭaḥ-putra, kiyatā mūlyenaitat pustakaṃ gṛhītam ?   
-
-  
-so 'bravīt-rūpaka-śatena |  
-
-  
-tac chrutvā sāgaradatto 'bravīt-dhiṅ mūrkha ! tvaṃ likhitaika-ślokaṃ rūpaka-śatena yad gṛhṇāsi, etayā buddhyā kathaṃ dravyopārjanaṃ kariṣyasi | tad adya-prabhṛti tvayā me gṛhe na praveṣṭavyam |  
-
-  
-evaṃ nirbhartsya gṛhān niḥsāritaḥ | sa ca tena nirvedena viprakṛṣṭaṃ deśāntaraṃ gatvā kim api nagaram āsādyāvasthitaḥ | atha katipaya-divasais tan-nagara-nivāsinā kenacid asau pṛṣṭaḥ-kuto bhavān āgataḥ ? kiṃ nāma-dheyo vā ? iti |   
-
-  
-asāv abravīt-prāptavyam arthaṃ labhate manuṣya iti | athānyenāpi pṛṣṭenānena tathaivottaraṃ dattam | evaṃ ca tasya nagarasya madhye prāptavyamartha iti tasya prasiddha-nāma jātam |   
-
-  
-atha rāja-kanyā candravatī nāmābhinava-rūpa-yauvana-sampannā sakhī-dvitīyaikasmin mahotsava-divase nagaraṃ nirīkṣamāṇāsti | tatraiva ca kaścid rāja-putro 'tīva-rūpa-sampanno manoramaś ca katham api tasyā dṛṣṭi-gocare gataḥ | tad-darśana-sama-kālam eva kusuma-bāṇāhatayā tayā nija-sakhy-abhihitā-sakhi ! yathā kilānena saha samāgamo bhavati tathādya tvayā yatitavyam |   
-
-  
-evaṃ ca śrutvā sā sakhī tat-sakāśaṃ gatvā śīghram abravīt-yad ahaṃ candravatyā tavāntikaṃ preṣitā | bhaṇitaṃ ca tvāṃ prati tayā yan mama tvad-darśanān manobhavena paścimāvasthā kṛtā | tad yadi śīghram eva mad-antike na sameṣmasi tadā me maraṇaṃ śaraṇam |  
-
-  
-iti śrutvā tenābhihitaṃ-yady avaśyaṃ mayā tatrāgantavyaṃ, tat kathaya kenopāyena praveṣṭavyam ?  
-
-  
-atha sakhyābhihitam-rātrau saudhāvalambitayā dṛḍha-varatrayā tvayā tatrāroḍhavyam |   
-
-  
-so 'bravīt-yady evaṃ niścayo bhavatyās tad aham evaṃ kariṣyāmi |   
-
-  
-iti niścitya sakhī candravatī-sakāśaṃ gatā | athāgatāyāṃ rajanyāṃ sa rāja-putraḥ sva-cetasā vyacintayat-aho mahad akṛtyam etat | uktaṃ ca-  
-
-  
-guroḥ sutāṃ mitra-bhāryāṃ svāmi-sevaka-gehinīm |
-  
-yo gacchati pumāṃl loke tam āhur brahma-ghātinam ||Panc_2.112||  
-
-  
-aparaṃ ca-
-  
-ayaśaḥ prāpyate yena yena cādho-gatir bhavet |
-  
-svārthāc ca bhraśyate yena tat karma na samācaret ||Panc_2.113||  
-
-  
-iti samyag vicārya tat-sakāśaṃ na jagāma | atha prāptavyamarthaḥ paryaṭan dhavala-gṛha-pārśve rātrāv avalambita-varatrāṃ dṛṣṭvā kautukāviṣṭa-hṛdayas tām ālambyādhirūḍhaḥ | tayā ca rāja-putryā sa evāyam ity āśvasta-cittayā snāna-khādana-pānācchādanādinā sammānya tena saha śayana-talam āśritayā tad-aṅga-saṃsparśa-sañjāta-harṣa-romāñcita-gātrayoktaṃ-yuṣmad-darśana-mātrānuraktayā mayātmā pradatto 'yam | tvad-varjam anyo bhartā manasy api me na bhaviṣyati iti | tat kasmān amyā saha na bravīṣi ?  
-
-  
-so 'bravīt- prāptavyam arthaṃ labhate manuṣyaḥ |  
-
-  
-ity ukte tayānyo 'yam iti matvā dhavala-gṛhād uttārya muktaḥ | sa tu khaṇḍa-pāśakaḥ prāptaḥ | tāvad asau khaṇḍa-deva-kule gatvā suptaḥ | atha tatra kayācit svairiṇyā datta-saṅketako yāvad daṇḍa-pāśakaḥ prāptaḥ, tāvad asau pūrva-suptas tena dṛṣṭo rahasya-saṃrakṣaṇārtham abhihitaś ca-ko bhavān ?  
-
-  
-so 'bravīt-prāptavyam arthaṃ labhate manuṣyaḥ |  
-
-  
-iti śrutvā daṇḍa-pāśakenābhihitam-yac chūnyaṃ deva-gṛham idam | tad atra madīya-sthāne gatvā svapihi |   
-
-  
-tathā pratipadya sa matir viparyāsād anya-śayane suptaḥ | atha tasya rakṣakasya kanyā vinayavatī nāma rūpa-yauvana-sampannā kasyāpi puruṣasyānuraktā saṅketaṃ dattvā tatra śayane suptāsīt | atha sā tam āyātaṃ dṛṣṭvā sa evāyam asmad-vallabha iti rātrau ghanatarāndhakāra-vyāmohitotthāya bhojanācchādanādi-kriyāṃ kārayitvā gāndharva-vivāhenātmānaṃ vivāhayitvā tena samaṃ śayane sthitā vikasita-vadana-kamalā tam āha-kim adyāpi mayā saha viśrabdhaṃ bhavān na bravīti |  
-
-  
-so 'bravīt-prāptavyam arthaṃ labhate manuṣyaḥ |   
-
-  
-iti śrutvā tayā cintitam-yat kāryam asamīkṣitaṃ kriyate tasyedṛk-phala-vipāko bhavati iti | evaṃ vimṛśya sa-viṣādayā tayā niḥsārito 'sau | sa ca yāvad-vīthī-mārgeṇa gacchati tāvad anya-viṣaya-vāsī vara-kīrtir nāma varo mahatā vādya-śabdenāgacchati | prāptavyamartho 'pi taiḥ samaṃ gantum ārabdhaḥ |   
-
-  
-atha yāvat pratyāsanne lagna-samaye rāja-mārgāsanna-śreṣṭhi-gṛha-dvāre racita-maṇḍapa-vedikāyāṃ kṛta-kautuka-maṅgala-veśā vaṇik-sutāsti, tāvan mada-matto hasty-ārohakaṃ hatvā praṇaśyaj-jana-kolāhalena lokam ākulayaṃs tam evoddeśaṃ prāptaḥ | taṃ ca dṛṣṭvā sarve varānuyāyino vareṇa saha praṇaśya diśo jagmuḥ |   
-
-  
-athāsminn avasare bhaya-tarala-locanām ekākinīṃ kanyām avalokya-mā bhaiṣīḥ | ahaṃ paritrāteti sudhīraṃ sthirīkṛtya dakṣiṇa-pāṇau saṅgṛhya mahā-sāhasikatayā prāptavyamarthaḥ puruṣa-vākyair hastinaṃ nirbhartsitavān | tataḥ katham api daiva-yogād apāye hastini sa-suhṛd-bāndhavenātikrānta-lagna-samaye vara-kīrtir nāgatya tāvat tāṃ kanyām anya-hasta-gatāṃ dṛṣṭvābhihitam-bhoḥ śvaśura, viruddham idaṃ tvayānuṣṭhitaṃ yan mahyaṃ pradāya kanyānyasmai pradattā iti |  
-
-  
-so 'bravīt-bhoḥ ! aham api hasti-bhaya-palāyitobhavadbhiḥ sahāyāto na jāne kim idaṃ vṛtam ity abhidhāya duhitaraṃ praṣṭum ārabdhaḥ-vatse, na tvayā sundaraṃ kṛtam | tat kathyatāṃ ko 'yaṃ vṛttāntaḥ |  
-
-  
-so 'bravīt-yad aham anena prāṇa-saṃśayād rakṣitā, tad enaṃ muktvā mama jīvantyā nānyaḥ pāṇiṃ grahīṣyati iti |   
-
-  
-anena vārtā-vyatikareṇa rajanī vyuṣṭā | atha prātas tatra sañjāte mahā-jana-samavāye vārtā-vyatikaraṃ śrutvā rāja-duhitā tam uddeśam āgatā | karṇa-paramparayā śrutvā daṇḍapāśaka-sutāpi tatraivāgatā | atha taṃ mahājana-amavāyaṃ śrutvā rājāpi tatra evājagāma |   
-
-  
-prāptavyamarthaṃ prāha-bhoḥ viśrabdhaṃ kathaya | kīdṛśo 'sau vṛttāntaḥ ?  
-  
-atha so 'bravīt-prāptavyamarthaṃ labhate manuṣyaḥ iti |  
-
-  
-rāja-kanyā smṛtvā prāha-devo 'pi taṃ laṅghayituṃ na śakta iti |  
-
-  
-tato daṇḍapāśaka-sutābravīt-tasmān na śocāmi na vismayo me iti |   
-
-  
-tam akhilaloka-vṛttāntam ākarṇya vaṇik-sutābravīt-yad asmadīyaṃ na hi tat pareṣām iti |  
-
-  
-tato 'bhaya-dānaṃ dattvā rājā pṛthak pṛthag vṛttāntān jñātvāvagata-tattvas tasmai prāptavyam arthāya sva-duhitaraṃ sa-bahu-mānaṃ grāma-sahasreṇa samaṃ sarvālaṅkāra-parivāra-yutāṃ dattvā tvaṃ me putro 'sīti nagara-viditaṃ taṃ yauvarājye'bhiṣiktavān | daṇḍa-pāsakenāpi sva-duhitā sva-śaktyā vastra-dānādinā sambhāvya prāptavyamarthāya pradattā |  
-
-  
-atha prāptavyamarthenāpi svīya-pitṛ-mātarau samasta-kuṭumbāvṛtau tasmin nagare sammāna-puraḥsaraṃ samānītau | atha so 'pi sva-gotreṇa saha vividha-bhogānupabhuñjānaḥ sukhenāvasthitaḥ | ato 'haṃ bravīmi-prāptavyam arthaṃ labhate manuṣyaḥ iti |  
-
-  
-tad etat sakalaṃ sukha-duḥkham anubhūya paraṃ viṣādam upāgato 'nena mitreṇa tvat-sakāśam ānītaḥ | tad etan me vairāgya-kāraṇam | mantharaka āha-bhadra, bhavati suhṛd ayam asandigdhaṃ yaḥ kṣut-kṣāmo 'pi śatru-bhūtaṃ tvāṃ bhakṣya-sthāne sthitam evaṃ pṛṣṭham āropyānayati na mārge'pi bhakṣayati | uktaṃ ca yataḥ-  
-
-  
-vikāraṃ yāti no cittaṃ vitte yasya kadācana |
-  
-mitraṃ syāt sarva-kāle ca kārayen mitram uttamam ||Panc_2.114||
-  
-vidvadbhiḥ suhṛdām atra cihnair etair asaṃśayam |
-  
-parīkṣā-karaṇaṃ proktaṃ homāgner iva paṇḍitaiḥ ||Panc_2.115||  
-
-  
-tathā ca-
-  
-āpat-kāle tu samprāpte yan mitraṃ mitram eva tat |
-  
-vṛddhi-kāle tu samprāpte durjano 'pi suhṛd bhavet ||Panc_2.116||  
-
-  
-tan mamāpy adyāsya viṣaye viśvāsaḥ samutpanno yato nīti-viruddheyaṃ maitrī māṃsāśibhir vāyasaiḥ saha jalacarāṇām | athavā sādhv idam ucyate-  
-
-  
-mitraṃ ko 'pi na kasyāpi nitāntaṃ na ca vaira-kṛt |
-  
-dṛśyate mitra-vidhvastāt kāryād vairī parīkṣitaḥ ||Panc_2.117||  
-
-  
-tat svāgataṃ bhavataḥ | sva-gṛha-vadāsyatām atra saras-tīre | yac ca vitt-nāśo videśa-vāsaś ca te sañjātas tatra viṣaye santāpo na kartavyaḥ | uktaṃ ca-  
-
-  
-abhrac-chāyā khala-prītiḥ samudrānte ca medinī |
-  
-alpenaiva vinaśyanti yauvanāni dhanāni ca ||Panc_2.118||  
-
-  
-ata eva vivekino jitātmāno dhana-spṛhāṃ na kurvanti | uktaṃ ca-  
-
-  
-susañcitair jīvanavat surakṣitair
-  
-nije'pi dehe na viyojitaiḥ kvacit |
-  
-puṃso yamāntaṃ vrajato 'pi niṣṭhurair
-  
-etair dhanaiḥ pañcapadī na dīyate ||Panc_2.119||  
-
-  
-anyac ca-
-  
-yathāmiṣaṃ jale matsyair bhakṣyate śvāpadair bhuvi |
-  
-ākāśe pakṣibhiś caiva tathā sarvatra vittavān ||Panc_2.120||
-  
-nirdoṣam api vittāḍhya doṣair yojayate nṛpaḥ |
-  
-nidhanaḥ prāpta-doṣo 'pi sarvatra nirupadravaḥ ||Panc_2.121||
-  
-arthānām arjanaṃ kāryaṃ vardhanaṃ rakṣaṇaṃ tathā |
-  
-bhakṣyamāṇo nirādāyaḥ sumerurapi hīyate ||Panc_2.122||
-  
-arthārthī yāni kaṣṭāni mūḍho 'yaṃ sahate janaḥ |
-  
-śatāṃśenāpi mokṣārthī tāni cen mokṣam āpnuyāt ||Panc_2.123||  
-
-  
-ko dhīrasya manasvinaḥ sva-viṣayaḥ ko vā videśaḥ smṛto
-  
-yaṃ deśaṃ śrayate tam eva kurute bāhu-pratāpārjitam |
-  
-yad daṃṣṭrānakhalāṅgula-praharaṇaiḥ siṃho vanaṃ gāhate
-  
-tasmin eva hata-dvipendra-rudhirais tṛṣṇāṃ chinatty ātmanaḥ ||Panc_2.124||  
-
-  
-artha-hīnaḥ pare deśe gato 'pi yaḥ prajñāvān bhavati sa kathañcid api na sīdati | uktaṃ ca-
-  
-ko 'tibhāraḥ samarthānāṃ kiṃ dūraṃ vyavasāyinām |
-  
-ko videśaḥ suvdyānāṃ kaḥ paraḥ priya-vādinām ||Panc_2.125||  
-
-  
-tat prajñā-nidhir bhavān na prākṛta-puruṣa-tulyaḥ | athavā-  
-
-  
-utsāha-sampannam adīrgha-sūtraṃ kriyā-vidhijñaṃ vyasaneṣv asaktam |
-  
-śūraṃ kṛtajñaṃ dṛḍha-sauhṛdaṃ ca- lakṣmīḥ svayaṃ vāñchati vāsa-hetoḥ ||Panc_2.126||  
-
-  
-aparaṃ prāpto 'py arthaḥ karma-prāptyā naśyati | tad etāvanti dināni tvadīyam āsīt | muhūrtam apy anātmīyaṃ bhoktuṃ na labhyate | svayam āgatam api vidhināpahriyate |  
-
-  
-arthasyopārjanaṃ kṛtvā naivābhāgyaḥ samaśnute |
-  
-araṇyaṃ mahadāsādya mūḍhaḥ somilako yathā ||Panc_2.127||  
-
-  
-hiraṇyaka āha--katham etat ?  
-
-  
-sa āha-
-  
-kathā 5
-  
-somilaka-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne somilako nāma kauliko vasati sma | so 'neka-vidha-paṭṭa-racanārañjitāni pārthivocitāni sadaiva vastrāṇy utpādayati | paraṃ tasya cāneka-vidha-paṭṭa-racana-nipuṇasyāpi na bhojanācchādanābhyadhikaṃ katham apy artha-mātraṃ sampadyate | athānye tatra sāmānya-kaulikāḥ sthūla-vastra-sampādana-vijñānino mahardhi-sampannāḥ | tān avalokya sa sva-bhāryām āha-priye ! paśyaitān sthūla-paṭṭa-kārakān dhana-kanaka-samṛddhān | tad adhāraṇakaṃ mamaitat sthānam | tad anyatropārjanāya gacchāmi | 
-  
-sā prāha-bhoḥ priyatama ! mithyā pralapitam etad yad anyatra-gatānāṃ dhanaṃ bhavati, sva-sthāne na bhavati | uktaṃ ca- 
-  
-utpatanti yad ākāśe nipatanti mahītale |
-  
-pakṣiṇāṃ tad api prāptyā nādattam upatiṣṭhati ||Panc_2.128||  
-
-  
-tathā ca-
-  
-na hi bhavati yan na bhāvyaṃ
-  
-bhavati ca bhāvyaṃ vināpi yatnena |
-  
-kara-tala-gatam api naśyati 
-  
-yasya tu bhavitavyatā nāsti ||Panc_2.129||  
-
-  
-yathā dhenu-sahasreṣu vatso vindati mātaraṃ |
-  
-tathā pūrva-kṛtaṃ karma kartāram anugacchati ||Panc_2.130||
-  
-śete saha śayānena gacchantam anugacchati |
-  
-narāṇāṃ prāktanaṃ karma tiṣṭhati tu sahātmanā ||Panc_2.131||
-  
-yathā chāyā-tapau nityaṃ susambaddhau parasparaṃ |
-  
-evaṃ karma ca kartā ca saṃśliṣṭāv itaretaram ||Panc_2.132|| 
-  
-kaulika āha-priye ! na samyag abhihitaṃ bhavatyā | vyavasāyaṃ vinā na karma phalati | uktaṃ ca-
-  
-yathaikena na hastena tālikā saṃprapadyate | 
-  
-tathodyama-parityaktaṃ na phalaṃ karmaṇaḥ smṛtam ||Panc_2.133||
-  
-paśya karma-vaśāt prāptaṃ bhojyakāle'pi bhojanam | 
-  
-hastodyamaṃ vinā vaktre praviśen na kathañcana ||Panc_2.134||  
-
-  
-tathā ca-
-  
-udyoginaṃ puruṣa-siṃham upaiti lakṣmīr 
-  
-daivena deyam iti kāpuruṣā vadanti |
-  
-daivaṃ nihatya kuru pauruṣam ātma-śaktyā yatne kṛte yadi na sidhyati ko 'tra doṣaḥ ||Panc_2.135||  
-
-  
-tathā ca-
-  
-udyamena hi sidhyanti kāryāṇi na manorathaiḥ |
-  
-na hi suptasya siṃhasya viśanti vadane mṛgāḥ ||Panc_2.136|| udyamena vinā rājan na sidhyanti manorathāḥ |
-  
-kātarā iti jalpanti yad bhāvyaṃ tad bhaviṣyati ||Panc_2.137||
-  
-sva-śaktyā kurvataḥ karma na cet siddhiṃ prayacchati |
-  
-nopālabhyaḥ pumāṃs tatra daivāntarita-pauruṣaḥ ||Panc_2.138||  
-
-  
-tan mayāvaśyaṃ deśāntaraṃ gantavyam |   
-
-  
-iti niścitya vardhamāna-puraṃ gatvā tatra varṣa-trayaṃ sthitvā suvarṇa-śata-trayopārjanaṃ kṛtvā bhūyaḥ sva-gṛhaṃ prasthitaḥ | athārdha-pathe gacchatas tasya kadācid aṭavyāṃ paryaṭato bhagavān ravir astam upāgataḥ | tatra ca vyāla-bhayāt sthūlatara-vaṭa-skandha ārūhya prasupto yāvat tiṣṭhati tāvan niśīthe dvau puruṣau raudrākārau parasparaṃ jalpantāv aśṛṇot |   
-
-  
-tatraika āha-bhoḥ kartaḥ tvaṃ kiṃ samyaṅ na vetsi yad asya somilakasya bhojanācchādanād ṛte'dhikā samṛddhir nāsti | tat kiṃ tvayāsya suvarṇa-śata-trayaṃ dattam |   
-
-  
-sa āha-bhoḥ karman mayāvaśyaṃ dātavyaṃ vyavasāyināṃ tatra ca tasya pariṇatis tvad āyatteti | atha yāvad asau kaulikaḥ prabuddhaḥ suvarṇa-granthim avalokayati tāvad riktaṃ paśyati |   
-
-  
-tataḥ sākṣepaṃ cintayāmāsa | aho kim etat ? mahatā kaṣṭenopārjitaṃ vittaṃ helayā kvāpi gatam | yad vyartha-śramo 'kiñcanaḥ kathaṃ sva-patnyā mitrāṇāṃ ca mukhaṃ darśayiṣyāmi |  iti niścitya tad eva pattanaṃ gataḥ | tatra ca varṣa-mātreṇāpi suvarṇa-śata-pañcakam upārjya bhūyo 'pi sva-sthānaṃ prati prasthitaḥ | yāvad ardha-pathe bhūyo 'ṭavī-gatasya bhagavān bhānur astaṃjagāmātha suvarṇa-nāśa-bhayāt suśrānto 'pi na viśrāmyati kevalaṃ kṛta-gṛhotkaṇṭhaḥ satvaraṃ vrajati | 
-  
-atrāntare dvau puruṣau tādṛṣau dṛṣṭi-deśe samāgacchantau jalpantau ca śṛṇoti | tatraikaḥ prāha-bhoḥ kartaḥ ! kiṃ tvayaitasya suvarṇa-śata-pañcakaṃ dattam ? tat kiṃ na vetsi yad bhojanācchādanābhyadhikam asya kiṃcin nāsti |  
-
-  
-sa āha-bhoḥ karman ! mayāvaśyaṃ deyaṃ vyavasāyinām | tasya pariṇāmas tvad-āyattaḥ | tat kiṃ mām upālambhayasi ?  
-
-  
-tac chrutvā somilako yāvad granthim avalokayati tāvat suvarṇaṃ nāsti | tataḥ paraṃ duḥkham āpanno vyacintayat-aho kiṃ mama dhana-rahitasya jīvitena ? tad atra vaṭa-vṛkṣa ātmānam udbadhya prāṇāṃs tyajāmi |  
-
-  
-evaṃ niścitya darbha-mayīṃ rajjuṃ vidhāya sva-kaṇṭhe pāśaṃ niyojya śākhāyām ātmānaṃ nibadhya yāvat prakṣipati tāvad ekaḥ pumān ākāśa-stha evedam āha-bho bhoḥ somilaka ! maivaṃ sāhasaṃ kuru | ahaṃ te vittāpahārako na te bhojanācchādanābhyadhikaṃ varāṭikām api sahāmi | tad gaccha sva-gṛhaṃ prati | anyac ca bhavadīya-sāhasenāhaṃ tuṣṭaḥ | tathā me na syād vyarthaṃ darśanam | tat prārthyatām abhīṣṭo varaḥ kaścit |  
-
-  
-somilaka āha-yady evaṃ tad dehi me prabhūtaṃ dhanam |  
-
-  
-sa āha-bhoḥ ! kiṃ kariṣyasi bhoga-rahitena dhanena yatas tava bhojanācchādanābhyadhikā prāptir api nāsti ? uktaṃ ca-
-  
-kiṃ tayā kriyate lakṣmyā yā vadhūr iva kevalā | 
-  
-yā na veśyeva sāmānyā pathikair upabhujyate ||Panc_2.139||  
-
-  
-somilaka āha-yady api bhogo nāsti tathāpi bhavatu me dhanam | uktaṃ ca-  
-
-  
-kṛpaṇo 'py akulīno 'pi sadā saṃśrita-mānuṣaiḥ |
-  
-sevyate sa naro loke yasya syād vitta-sañcayaḥ ||Panc_2.140||  
-
-  
-tathā ca-
-  
-śithilau ca subaddhau ca patataḥ patato na vā | 
-  
-nirīkṣitau mayā bhadre daśa varṣāṇi pañca ca ||Panc_2.141|| 
-  
-puruṣa āha-kim etat ?  
-
-  
-so 'bravīt-  
-
-  
-kathā 6
-  
-tīkṣṇa-viṣāṇa-śṛgāla-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne tīkṣṇaviṣāṇo nāma mahā-vṛṣabho vasati | sa ca madātirekāt parityakta-nija-yūṭhaḥ śṛṅgābhyāṃ nadī-taṭāni vidārayan svecchayā marakata-sadṛśāni śaṣpāṇi bhakṣayann araṇya-caro babhūva | atha tatraiva vane pralobhako nāma śṛgālaḥ prativasati sma | sa kadācit sva-bhāryayā saha nadī-tīre sukhopaviṣṭas tiṣṭhati | atrāntare sa tīkṣṇaviṣāṇo jalārthaṃ tad eva pulinam avatīrṇaḥ | tataś ca tasya lambamānau vṛṣaṇāv ālokya śṛgālyā śṛgālo 'bhihitaḥ-svāmin ! paśyāsya vṛṣabhasya māṃsa-piṇḍau lambamānau yathā sthitau | tataḥ kṣaṇena prahareṇa vā patiṣyataḥ | evaṃ jñātvā bhavatā pṛṣṭha-yāyinā bhāvyaṃ |   
-
-  
-śṛgāla āha-priye ! na jñāyate kadācid etayoḥ patanaṃ bhaviṣyati vā na vā | tat kiṃ vṛthā śramāya māṃ niyojayasi ? atra-sthas tāvaj jalārtham āgatān mūṣakān bhakṣayiṣyāmi samaṃ tvayā | mārgo 'yaṃ yatas teṣām | atha yadā tvāṃ muktvāsya tīkṣṇaviṣāṇasya vṛṣabhasya pṛṣṭhe gamiṣyāmi tadāgatyānyaḥ kaścid etat sthānaṃ samāśrayiṣyati | naitad yujyate kartum | uktaṃ ca-  
-
-  
-yo dhruvāṇi parityajyādhruvāṇi niṣevate |
-  
-dhruvāṇi tasya naśyanti adhruvaṃ naṣṭam eva ca ||Panc_2.142|| 
-  
-śṛgāly āha-bhoḥ kāpuruṣas tvaṃ yat kiṃcit prāptaṃ tenāpi santoṣaṃ karoṣi | uktaṃ ca-  
-
-  
-supūrā syāt kunadikā supūro mūṣikāñjaliḥ | 
-  
-susantuṣṭaḥ kāpuruṣaḥ svalpakenāpi tuṣyati ||Panc_2.143||  
-
-  
-tasmāt puruṣeṇa sadaivotsāhavatā bhāvyam | uktaṃ ca- 
-  
-yatrotsāha-samārambho yatrālasya-vinigrahaḥ |
-  
-naya-vikrama-saṃyogas tatra śrīr acalā dhruvaṃ ||Panc_2.144||
-  
-tad daivam iti sañcintya tyajen nodyogam ātmanaḥ |
-  
-anuyogaṃ vinā tailaṃ tilānāṃ nopajāyate ||Panc_2.145||
-  
-anyac ca-
-  
-yaḥ stokenāpi santoṣaṃ kurute mandadhīr janaḥ |
-  
-tasya bhāgya-vihīnasya dattā śrīr api mārjyate ||Panc_2.146||  
-
-  
-yac ca tvaṃ vadasi | etau patiṣyato na veti | tad apy ayuktam | uktaṃ ca-  
-
-  
-kṛta-niścayino vandyās tuṅgimā nopabhujyate |
-  
-cātakaḥ ko varāko 'yaṃ yasyendro vārivāhakaḥ ||Panc_2.147||  
-
-  
-aparaṃ mūṣaka-māṃsasya nirviṇṇāham | etau ca māṃsa-piṇḍau patana-prāyau dṛśyete | tat sarvathā nānyathā kartavyam iti | athāsau tad ākarṇya mūṣaka-prāpti-sthānaṃ parityajya tīkṣṇaviṣāṇasya pṛṣṭham anvagacchat | atha vā sādhv idam ucyate-  
-
-  
-tāvat syāt sarva-kṛtyeṣu puruṣo 'tra svayaṃ prabhuḥ |
-  
-strī-vākyāṅkuśa-vikṣuṇṇo yāvan no dhriyate balāt ||Panc_2.148||
-  
-akṛtyaṃ manyate kṛtyaṃ agamyaṃ manyate sugam |
-  
-abhakṣyaṃ manyate bhakṣyaṃ strī-vākya-prerito naraḥ ||Panc_2.149||  
-
-  
-evaṃ sa tasya pṛṣṭhataḥ sa-bhāryaḥ paribhramaṃś cira-kālam anayat | na ca tayoḥ patanam abhūt | tataś ca nirvedāt pañcadaśe varṣe śṛgālaḥ svabhāryām āha-śithilau ca subaddhau ca (141) ityādi |   
-
-  
-tayos tat-paścād api pāto na bhaviṣyati | tat tad eva sva-sthānaṃ gacchāvaḥ | ato 'haṃ bravīmi-śithilau ca subaddhau ca (141) iti |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-puruṣa āha-yady evaṃ tad gaccha bhūyo 'pi vardhamāna-puram | tatra dvau vaṇik-putrau vasataḥ | eko gupta-dhanaḥ | dvitīya upabhukta-dhanaḥ | tatas tayoḥ svarūpaṃ buddhvaikasya varaḥ prārthanīyaḥ | yadi te dhanena prayojanam abhakṣitena tatas tvām api gupta-dhanaṃ karomi | athavā datta-bhogyena dhanena te prayojanaṃ tad upabhukta-dhanaṃ karomīti | evam uktvādarśanaṃ gataḥ |  
-
-  
-somilako 'pi vismita-manā bhūyo 'pi vardhamāna-puraṃ gataḥ | atha sandhyā-samaye śrāntaḥ katham api tat-puraṃ prāpto guptadhana-gṛhaṃ pṛcchan kṛcchrāl labdhvāstamita-sūrye praviṣṭaḥ | athāsau bhāryā-putra-sametena guptadhanena nirbhartsyamāno haṭhād gṛhaṃ praviśyopaviṣṭaḥ | tataś ca bhojana-velāyāṃ tasyāpi bhakti-varjitaṃ kiṃcid aśanaṃ dattam | tataś ca bhuktvā tatraiva yāvat supto niśīthe paśyati tāvat tāv api dvau puruṣau parasparaṃ mantrayataḥ | tatraika āha-bhoḥ kartaḥ ! kiṃ tvayāsya guptadhanasyānyo 'dhiko vyayo nirmito yat somilakasyānena bhojanaṃ dattam | tad ayuktaṃ tvayā kṛtam |  
-
-  
-sa āha-bhoḥ karman ! na mamātra doṣaḥ | mayā puruṣasya lābha-prāptir dātavyā | tat-pariṇatiḥ punas tvad-āyatteti | athāsau yāvad uttiṣṭhati tāvad guptadhano visūcikayā khidyamāno rujābhibhūtaḥ kṣaṇaṃ tiṣṭhati | tato dvitīye'hni tad-doṣeṇa kṛtopavāsaḥ sañjātaḥ |   
-
-  
-somilako 'pi prabhāte tad-gṛhān niṣkramya upabhuktadhana-gṛhaṃ gataḥ | tenāpi cābhyutthādinā sat-kṛto vihita-bhojanācchādana-saṃmānas tasyaiva gṛhe bhavya-śayyām āruhya suṣvāpa | tataś ca niśīthe yāvat paśyati tāvat tāv eva dvau puruṣau mitho mantrayataḥ | atra tayor eka āha-bhoḥ kartaḥ ! anena somilakasyopakāraṃ kurvatā prabhūto vyayaḥ kṛtaḥ | tat kathaya katham asyoddhāraka-vidhir bhaviṣyati | anena sarvam etad vyavahāraka-gṛhāt samānītam |   
-
-  
-sa āha-bhoḥ karman ! mama kṛtyam etat | pariṇatis tvad-āyatteti | atha prabhāta-samaye rāja-puruṣo rāja-prasādajaṃ vittam ādāya samāyāta upabhukta-dhanāya samarpayām āsa |   
-
-  
-tad dṛṣṭvā somilakaś cintayāmāsa | sañcaya-rahito 'pi varam eṣa upabhuktadhano nāsau kadaryo guptadhanaḥ | uktaṃ ca-  
-
-  
-agnihotra-phalā vedāḥ śīla-vṛtta-phalaṃ śrutam |
-  
-rati-putra-phalā dārā datta-bhukta-phalaṃ dhanam ||Panc_2.150||  
-
-  
-tad vidhātā māṃ datta-bhukta-dhanaṃ karotu | na kāryaṃ me guptadhanena | tataḥ somilako dattabhuktadhanaḥ saṃjātaḥ | ato 'haṃ bravīmi-arthasyopārjanaṃ kṛtvā iti |  
-
-  
-gṛha-madhya-nikhātena dhanena dhanino yadi |
-  
-bhavāmaḥ kiṃ na tenaiva dhanena dhanino vayaṃ ||Panc_2.151||  
-
-  
-tad bhadra ! hiraṇyakaivaṃ jñātvā dhana-viṣaye santāpo na kāryaḥ | atha vidyamānam api dhanaṃ bhojya-bandhyatayā tad-avidyamānaṃ mantavyam | uktaṃ ca-  
-
-  
-upārjitānām arthānāṃ tyāga eva hi rakṣaṇam |
-  
-taḍāgodara-saṃsthānāṃ parīvāha ivāmbhasām ||Panc_2.152||  
-
-  
-tathā ca-
-  
-upārjitānām arthānāṃ tyāga eva hi rakṣaṇam |
-  
-taḍāgodara-saṃsthānāṃ parivāha ivāmbhasām ||Panc_2.153||  
-
-  
-anyac ca-
-  
-dānaṃ bhogo nāśas tisro gatayo bhavanti vittasya | yo na dadāti na bhuṅkte tasya tṛtīyā gatir bhavati ||Panc_2.154|| 
-  
-evaṃ jñātvā vivekinā na sthity-arthaṃ vittopārjanaṃ kartavyaṃ yato duḥkhāya tat | uktaṃ ca-
-  
-dhanādikeṣu vidyante ye'tra mūrkhāḥ sukhāśayāḥ |
-  
-tapta-grīṣmeṇa sevante śaityārthaṃ te hutāśanam ||Panc_2.155||  
-
-  
-sarpāḥ pibanti pavanaṃ na ca durbalās te
-  
-śuṣkais tṛṇair vana-gajā balino bhavanti |
-  
-kandaiḥ phalair muni-varā gamayanti kālaṃ
-  
-santoṣa eva puruṣasya paraṃ nidhānam ||Panc_2.156||  
-
-  
-santoṣāmṛta-tṛptānāṃ yat sukhaṃ śānta-cetasām |
-  
-kutas tad-dhana-lubdhānām itaś cetaś ca dhāvatām ||Panc_2.157||  
-
-  
-pīyūṣam iva saṃtoṣaṃ pibatāṃ nirvṛtiḥ parā |
-  
-duḥkhaṃ nirantaraṃ puṃsām asaṃtoṣavatāṃ punaḥ ||Panc_2.158||
-  
-nirodhāc cetaso 'kṣāṇi niruddhāny akhilāny api |
-  
-ācchādite ravau meghaiḥ sañchannāḥ syur gabhastayaḥ ||Panc_2.159||
-  
-vāñchā-vicchedanaṃ prāhuḥ svāsthyaṃ śāntā maha-rṣayaḥ |
-  
-vāñchā nivartate nārthaiḥ pipāsevāgni-sevanaiḥ ||Panc_2.160|| anindyam api nindanti stuvanty astutyam uccakaiḥ |
-  
-svāpateya-kṛte martyāḥ kiṃ kiṃ nāma na kurvate ||Panc_2.161||  
-
-  
-dharmārthaṃ yasya vittehā tasyāpi na śubhāvahā |
-  
-prakṣālanādd hi paṅkasya dūrād asparśanaṃ varam ||Panc_2.162||  
-
-  
-dānena tulyo nidhir asti nānyo 
-  
-lobhāc ca nānyo 'sti paraḥ pṛthivyām |
-  
-vibhūṣaṇaṃ śīla-samaṃ na cānyat 
-  
-santoṣa-tulyaṃ dhanam asti nānyat ||Panc_2.163||  
-
-  
-dāridryasya parā mūrtir yan māna-draviṇālpatā |
-  
-jarad-gava-dhanaḥ śarvas tathāpi parameśvaraḥ ||Panc_2.164|| 
-  
-evaṃ jñātvā bhadra tvayā santoṣaḥ kārya iti | mantharakavacanam ākarṇya vāyasa āha-bhadra mantharako yad evaṃ vadati tat tvayā citte kartavyam | athavā sādhv idam ucyate-  
-
-  
-sulabhāḥ puruṣā rājan satataṃ priya-vādinaḥ | 
-  
-apriyasya ca pathyasya vaktā śrotā ca durlabhaḥ ||Panc_2.166||
-  
-apriyāṇy api pathyāni ye vadanti nṛṇām iha |
-  
-ta eva suhṛdaḥ proktā anye syur nāma-dhārakāḥ ||Panc_2.167||  
-
-  
-athaivaṃ jalpatāṃ teṣāṃ citrāṅgo nāma hariṇo lubdhaka-trāsitas tasminn eva sarasi praviṣṭaḥ | athāyāntaṃ sa-sambhramam avalokya laghupatanako vṛkṣam ārūḍhaḥ | hiraṇyakaḥ śarastambaṃ praviṣṭaḥ | mantharakaḥ salilāśayam āsthitaḥ | atha laghupatanako mṛgaṃ samyak parijñāya mantharakam uvāca-ehy ehi sakhe mantharaka ! mṛgo 'yaṃ tṛṣārto 'tra samāyātaḥ sarasi praviṣṭaḥ | tasya śabdo 'yaṃ na mānuṣa-sambhava iti |   
-
-  
-tac chrutvā mantharako deśa-kālocitam āha-bho laghupatanaka ! yathāyaṃ mṛgo dṛśyate prabhūtam ucchvāsam udvahann udbhrānta-dṛṣṭyā pṛṣṭhato 'valokayati tan na tṛṣārta eṣa nūnaṃ lubdhaka-trāsitaḥ | taj jñāyatām asya pṛṣṭhe lubdhakā āgacchanti na veti | uktaṃ ca-  
-
-  
-bhaya-trasto naraḥ śvāsaṃ prabhūtaṃ kurute muhuḥ |
-  
-diśo 'valokayaty eva na svāsthyaṃ vrajati kvacit ||Panc_2.168||  
-
-  
-tac chrutvā citrāṅga āha-bho mantharaka ! jñātaṃ tvayā samyaṅ me trāsa-kāraṇam | ahaṃ lubdhaka-śara-prahārād uddhāritaḥ kṛcchreṇātra samāyātaḥ | mama yūthaṃ tair lubdhakair vyāpāditaṃ bhaviṣyati | tac charaṇāgatasya me darśaya kiṃcid agamyaṃ sthānaṃ lubdhakānām |   
-
-  
-tad ākarṇya mantharaka āha-bhoś citrāṅga ! śrūyatāṃ nīti-śāstram |  
-
-  
-dvāv upāyāv iha proktau vimuktau śatru-darśane |
-  
-hastayoś cālanād eko dvitīyaḥ pāda-vega-jaḥ ||Panc_2.169||  
-
-  
-tad gamyatāṃ śīghraṃ ghanaṃ vanaṃ yāvad adyāpi nāgacchanti te durātmāno lubdhakāḥ |   
-
-  
-atrāntare laghupatanakaḥ satvaram abhyupetyovāca-bho mantharaka ! gatās te lubdhakāḥ sva-gṛhonmukhāḥ pracura-māṃsa-piṇḍa-dhāriṇaḥ | tac citrāṅga ! tvaṃ viśrabdho jalād bahir bhava | 
-  
-tatas te catvāro 'pi mitra-bhāvam āśritās tasmin sarasi madhyāhna-samaye vṛkṣa-cchāyādhastāt subhāṣita-goṣṭhī-sukham anubhavantaḥ sukhena kālaṃ nayanti | athavā yuktam etad ucyate-
-  
-subhāṣita-rasāsvāda-baddha-romāñca-kañcukaṃ |
-  
-vināpi saṃgamaṃ strīṇāṃ kavīnāṃ sukham edhate ||Panc_2.170||
-  
-subhāṣita-maya-dravya-saṅgrahaṃ na karoti yaḥ |
-  
-sa tu prastāva-yajñeṣu kāṃ pradāsyati dakṣiṇām ||Panc_2.171||  
-
-  
-tathā ca-
-  
-sakṛd uktaṃ na gṛhṇāti svayaṃ vā na karoti yaḥ |
-  
-yasya saṃpuṭikā nāsti kutas tasya subhāṣitam ||Panc_2.172|| 
-  
-athaikasminn ahani goṣṭhī-samaye mṛgo nāyātaḥ | atha te vyākulībhūtāḥ parasparaṃ jalpitum ārabdhāḥ | aho kim adya suhṛn na samāyātaḥ | kiṃ siṃhādibhiḥ kvacid vyāpādita uta lubdhakair atha vānale prapatito gartā-viṣame vā nava-tṛṇa-laulyād iti | athavā sādhv idam ucyate-
-  
-sva-gṛhodyāna-gate'pi snigdhaiḥ pāpaṃ viśaṅkyate mohāt |
-  
-kim u dṛṣṭa-bahv-apāya-pratibhaya-kāntāra-madhya-sthe ||Panc_2.173||  
-
-  
-atha mantharako vāyasam āha-bho laghupatanakāhaṃ hiraṇyakaś ca tāvad dvāv apy aśaktau tasyānveṣaṇaṃ kartuṃ mandagatitvāt | tad gatvā tvam araṇyaṃ śodhaya yadi kutracit taṃ jīvantaṃ paśyasīti |   
-
-  
-tad ākarṇya laghupatanako nātidūre yāvad gacchati tāvat palvala-tīre citrāṅgaḥ kūṭa-pāśa-niyantritas tiṣṭhati | taṃ dṛṣṭvā śoka-vyākulita-manās tam avocat | bhadra kim idam ? citrāṅgo 'pi vāyasam avalokya viśeṣeṇa duḥkhita-manā babhūva | athavā yuktam etat-  
-
-  
-api mandatvam āpanno naṣṭo vāpīṣṭa-darśanāt |
-  
-prāyeṇa prāṇināṃ bhūyo duḥkhāvego 'dhiko bhavet ||Panc_2.174||  
-
-  
-tataś ca vāṣpāvasāne citrāṅgo laghupatanakam āha-bho mitra saṃjāto 'yaṃ tāvan mama mṛtyuḥ | tad yuktaṃ sampannaṃ yad bhavatā saha me darśanaṃ sañjātam | uktaṃ ca-  
-
-  
-prāṇātyaye samutpanne yadi syān mitra-darśanaṃ |
-  
-tad dvābhyāṃ sukha-daṃ paścāj jīvato 'pi mṛtasya ca ||Panc_2.175||  
-
-  
-tat kṣantavyaṃ yan mayā praṇayāt subhāṣita-goṣṭhīṣv abhihitaṃ | tathā hiraṇyaka-mantharakau mama vākyād vācyau |  
-
-  
-ajñānāj jñānato vāpi duruktaṃ yad udāhṛtam |
-  
-mayā tat kṣamyatām adya dvābhyām api prasādataḥ ||Panc_2.176||  
-
-  
-tac chrutvā laghupatanaka āha-bhadra na bhetavyam asmad-vidhair mitrair vidyamānaiḥ | yāvad ahaṃ drutataraṃ hiraṇyakaṃ gṛhītvāgacchāmi | aparaṃ ye sat-puruṣā bhavanti te vyasane na vyākulatvam upayānti | uktaṃ ca-  
-
-  
-sampadi yasya na harṣo vipadi viṣādo raṇe na bhīrutvaṃ | taṃ bhuvana-traya-tilakaṃ janayati jananī sutaṃ viralaṃ ||Panc_2.177|| 
-  
-evam uktvā laghupatanakaś citrāṅgam āśvāsya yatra hiraṇyaka-mantharakau tiṣṭhatas tatra gatvā sarvaṃ citrāṅga-pāśa-patanaṃ kathitavān | hiraṇyakaṃ ca citrāṅga-pāśa-mokṣaṇaṃ prati kṛta-niścayaṃ pṛṣṭham āropya bhūyo 'pi satvaraṃ citrāṅga-samīpe gataḥ | so 'pi mūṣakam avalokya kiṃcij jīvitāśayā saṃśliṣṭa āha-  
-
-  
-āpan-nāśāya vibudhaiḥ kartavyāḥ suhṛdo 'malāḥ |
-  
-na taraty āpadaṃ kaścid yo 'tra mitra-vivarjitaḥ ||Panc_2.178||  
-
-  
-hiraṇyaka āha-bhadra tvaṃ tāvan nīti-śāstra-jño dakṣa iti | tat katham atra kūṭa-pāśe patitaḥ ?  
-
-  
-sa āha-bho na kālo 'yaṃ vivādasya | tan na yāvat sa pāpātmā lubdhakaḥ samabhyeti tāvad drutataraṃ kartayemaṃ mat-pāda-pāśaṃ |   
-
-  
-tad ākarṇya vihasyāha hiraṇyakaḥ-kiṃ mayy api samāyāte lubdhakād bibheṣi tataḥ śāstraṃ prati mahatī me viraktiḥ sampannā yad bhavad-vidhā api nīti-śāstra-vida etām avasthāṃ prāpnuvanti | tena tvāṃ pṛcchāmi |   
-
-  
-sa āha-bhadra karmaṇā buddhir api hanyate | uktaṃ ca-  
-
-  
-kṛtānta-pāśa-baddhānāṃ daivopahata-cetasāṃ |
-  
-buddhayaḥ kubja-gāminyo bhavanti mahatām api ||Panc_2.179||
-  
-vidhātrā racitā yā sā lalāṭe'kṣara-mālikā |
-  
-na tāṃ mārjayituṃ śaktāḥ sva-śaktyāpy atipaṇḍitāḥ ||Panc_2.180||  
-
-  
-evaṃ tayoḥ pravadatoḥ suhṛd-vyasana-santapta-hṛdayo mantharakaḥ śanaiḥ śanais taṃ pradeśam ājagāma | taṃ dṛṣṭvā laghupatanako hiraṇyakam āha-aho na śobhanam āpatitam | 
-  
-hiraṇyaka āha-kiṃ sa lubdhakaḥ samāyāti ?  
-
-  
-sa āha-āstāṃ tāval lubdhaka-vārtā | eṣa mantharakaḥ samāgacchati | tad anītir anuṣṭhitānena yato vayam apy asya kāraṇān nūnaṃ vyāpādanaṃ yāsyāmo yadi sa pāpātmā lubdhakaḥ samāgamiṣyati | tad ahaṃ tāvat kham utpatiṣyāmi | tvaṃ punar bilaṃ praviṣyātmānaṃ rakṣayiṣyasi | citrāṅgo 'pi vegena dig-antaraṃ yāsyati | eṣa punar jalacaraḥ sthale kathaṃ bhaviṣyatīti vyākulo 'smi | atrāntare prāpto 'yaṃ mantharakaḥ |  
-
-  
-hiraṇyaka āha-bhadra, na yuktam anuṣṭhitaṃ bhavatā yad atra samāyātaḥ | tad bhūyo 'pi drutataraṃ gamyatāṃ yāvad asau lubdhako na samāyāti |  
-
-  
-mantharaka āha-bhadra, kiṃ karomi ? na śaknomi tatra-stho mitra-vyasanāgni-dāghaṃ soḍhum | tenāham atrāgataḥ | athavā sādhv idam ucyate-  
-
-  
-dayita-jana-viprayogo vitta-viyogaś ca sahyāḥ syuḥ |
-  
-yadi sumahauṣadha-kalpo vayasya-jana-saṃgamo na syāt ||Panc_2.181||  
-
-  
-varaṃ prāṇa-parityāgo na viyogo bhavādṛśaiḥ |
-  
-prāṇā janmāntare bhūyo na bhavanti bhavad-vidhāḥ ||Panc_2.182||  
-
-  
-evaṃ tasya pravadata ākarṇa-pūrita-śarāsano lubdhako 'py upāgataḥ | taṃ dṛṣṭvā mūṣakeṇa tasya snāyu-pāśas tat-kṣaṇāt khaṇḍitaḥ | atrāntare citrāṅgaḥ satvaraṃ pṛṣṭham avalokayan pradhāvitaḥ | laghupatanako vṛkṣam ārūḍhaḥ | hiraṇyakaś ca samīpa-varti bilaṃ praviṣṭaḥ | athāsau lubdhako mṛga-gamanād viṣaṇṇa-vadano vyartha-śramas taṃ mantharakaṃ mandaṃ mandaṃ sthala-madhye gacchantaṃ dṛṣṭavān | acintayac ca-yady api kuraṅgo dhātrāpahṛtas tathāpy ayaṃ kūrma āhārārthaṃ sampāditaḥ | tad adyāsyāmiṣeṇa me kuṭumbasyāhāra-nirvṛttir bhaviṣyati |   
-
-  
-evaṃ vicintya taṃ darbhaiḥ sañchādya dhanuṣu samāropya skandhe kṛtvā gṛhaṃ prati prasthitaḥ | atrāntare taṃ nīyamānam avalokya hiraṇyako duḥkhākulaḥ paryadevayat-kaṣṭaṃ bhoḥ kaṣṭam āpatitam |  
-
-  
-ekasya duḥkhasya na yāvad antaṃ
-  
-gacchāmy ahaṃ pāram ivārṇavasya |
-  
-tāvad dvitīyaṃ samupasthitaṃ me chidreṣv anarthā bahulī-bhavanti ||Panc_2.183||  
-
-  
-tāvad askhalitaṃ yāvat sukhaṃ yāti same pathi |
-  
-skhalite ca samutpanne viṣame ca pade pade ||Panc_2.184||
-  
-yan namraṃ saralaṃ cāpi yac cāpatsu na sīdati |
-  
-dhanur mitraṃ kalatraṃ ca durlabhaṃ śuddha-vaṃśajam ||Panc_2.185||
-  
-na mātari na dāreṣu na sodarye na cātmaje |
-  
-viśrambhas tādṛśaḥ puṃsāṃ yādṛṅ mitre nirantare ||Panc_2.186||  
-
-  
-yadi tāvat kṛtāntena me dhana-nāśo vihitas tan-mārga-śrāntasya me viśrāma-bhūtaṃ mitraṃ kasmād apahṛtaṃ |  aparam api mitraṃ paraṃ mantharaka-samaṃ na syāt | uktaṃ ca-  
-
-  
-asampattau paro lābho guhyasya kathanaṃ tathā |
-  
-āpad-vimokṣaṇaṃ caiva mitrasyaitat phala-trayam ||Panc_2.187||  
-
-  
-tad asya paścān nānyaḥ suhṛn me | tat kiṃ mamopary anavarataṃ vyasana-śarair varṣati hanta vidhiḥ | yata ādau tāvad vitta-nāśas tataḥ parivāra-bhraṃśas tato deśa-tyāgas tato mitra-viyoga iti | athavā svarūpam etat sarveṣām eva jantūnāṃ jīvita-dharmasya | uktaṃ ca-  
-
-  
-kāyaḥ saṃnihitāpāyaḥ sampadaḥ padam āpadām |
-  
-samāgamāḥ sāpagamāḥ sarvam utpādi bhaṅguram ||Panc_2.188||  
-
-  
-tathā ca-
-  
-kṣate prahārā nipatanty abhīkṣṇaṃ 
-  
-dhana-kṣaye vardhati jāṭharāgniḥ |
-  
-āpatsu vairāṇi samudbhavanti 
-  
-cchidreṣv anarthā bahulī-bhavanti ||Panc_2.189||
-  
-aho sādhūktaṃ kenāpi |  
-
-  
-prāpte bhaye paritrāṇaṃ prīti-viśrambha-bhājanaṃ |
-  
-kena ratnam idaṃ sṛṣṭaṃ mitram ity akṣara-dvayaṃ ||Panc_2.190||  
-
-  
-atrāntare ākranda-parau citrāṅga-laghupatanakau tatraiva samāyātau | atha hiraṇyaka āha-aho kiṃ vṛthā-pralapitena | tad yāvad eṣa mantharako dṛṣṭi-gocarān na nīyate tāvad asya mokṣopāyaś cintyatām iti | uktaṃ ca-  
-
-  
-vyasanaṃ prāpya yo mohāt kevalaṃ paridevayet |
-  
-krandanaṃ vardhayaty eva tasyāntaṃ nādhigacchati ||Panc_2.191||
-  
-kevalaṃ vyasanasyoktaṃ bheṣajaṃ naya-paṇḍitaiḥ |
-  
-tasyoccheda-samārambho viṣāda-parivarjanaṃ ||Panc_2.192||  
-
-  
-anyac ca-
-  
-atīta-lābhasya surakṣaṇārthaṃ 
-  
-bhaviṣya-lābhasya ca saṅgamārtham |
-  
-āpat-prapannasya ca mokṣaṇārthaṃ 
-  
-yan mantryate'sau paramo hi mantraḥ ||Panc_2.193||  
-
-  
-tac chrutvā vāyasa āha-bho yady evaṃ tat kriyatāṃ mad-vacaḥ | eṣa citrāṅgo 'sya mārge gatvā kiṃcit palvalam āsādya tasya tīre niścetano bhūtvā patatu | aham apy asya śirasi samāruhya mandaiś cañcu-prahāraiḥ śira ullekhiṣyāmi yenāsau lubdhako 'muṃ mṛtaṃ matvā mama cañcu-prahāra-pratyayena mantharakaṃ bhūmau kṣiptvā mṛgārthe dhāvati | atrāntare tvayā darbha-maya-bandhana-veṣṭanāni khaṇḍanīyāni yenāsau mantharako drutataraṃ palvalaṃ praviśati |  
-
-  
-citrāṅgaḥ prāha-bho bhadro 'yaṃ dṛṣṭo mantras tvayā | nūnaṃ mantharako mukto mantavyaḥ | uktaṃ ca-  
-
-  
-siddhiṃ vā yadi vāsiddhiṃ cittotsāho nivedayet |
-  
-prathamaṃ sarva-jantūnāṃ prājño vetti na cetaraḥ ||Panc_2.194||  
-
-  
-tat tad evaṃ kriyatām | tathānuṣṭhite sa lubdhakas tathaiva mārgāsanna-palvala-tīrasthaṃ citrāṅgaṃ vāyasa-sanātham adrākṣīt | taṃ dṛṣṭvā harṣita-manā vyacintayat | nūnaṃ pāśa-vedanayā varāko 'yaṃ mṛgo gatvāyuḥ-śeṣa-jīvitaḥ pāśaṃ troṭayitvā katham apy etad vanāntaraṃ praviṣṭo yāvan mṛtaḥ | tad vaśyo 'yaṃ me kacchapaḥ suyantritatvāt | tad enam api tāvad gṛhṇāmīty avardhāya kacchapaṃ bhū-tale prakṣipya mṛgam upādravat |   
-
-  
-atrāntare hiraṇyakena vajropama-daṃṣṭrā-prahāreṇa tad darbha-veṣṭanaṃ tat-kṣaṇāt khaṇḍaśaḥ kṛtaṃ | mantharako 'pi tṛṇa-madhyān niṣkramya palvalaṃ praviṣṭaḥ | citrāṅgo 'py aprāptasyāpi tasyotthāya vāyasena saha drutaṃ pranaṣṭaḥ | atrāntare vilakṣo viṣāda-paro nivṛtto lubdhako yāvat paśyati tāvat kacchapo 'pi gataḥ | tataś ca tatropaviśyemaṃ ślokam apaṭhat-  
-
-  
-prāpto bandhanam apy ayaṃ guru-mṛgas tāvat tvayā me hṛtaḥ 
-  
-samprāptaḥ kamaṭhaḥ sa cāpi niyataṃ naṣṭas tavādeśataḥ |
-  
-kṣut-kṣāmo 'tra vane bhramāmi śiśukais tyaktaḥ samaṃ bhāryayā 
-  
-yac cānyan na kṛtaṃ kṛtānta kurute tac cāpi sahyaṃ mayā ||Panc_2.195||  
-
-  
-evaṃ bahu-vidhaṃ vilapya sva-gṛhaṃ gataḥ | atha tasmin dūrī-bhūte sarve'pi te kāka-kūrma-mṛgākhavaḥ paramānanda-bhājo militvā parasparam āliṅgya punar jātān ivātmano manyamānas tad eva saraḥ prāpya mahā-sukhena subhāṣita-goṣṭhī-vinodaṃ kurvantaḥ kālaṃ nayanti sma | evaṃ jñātvā vivekinā mitra-saṅgrahaḥ kāryaḥ | tathā mitreṇa sahāvyājena vartitavyam | uktaṃ ca-  
-
-  
-yo mitrāṇi karoty atra na kauṭilyena vartate |
-  
-taiḥ samaṃ na parābhūtiṃ samprāpnoti kathañcana ||Panc_2.196||
-  
-iti śrī-viṣṇu-śarma-viracite pañcatantre mitra-samprāptir nāma
-  
-dvitīyaṃ tantraṃ samāptam 
-  
-||2||  
-  
-
-  
-***********************************************************************  
-  
-
-  
-tṛtīyaṃ tantram
-  
-atha kākolūkīyam  
-
-  
-prastāvanā kathā
-  
-meghavarṇārimardana-vṛttāntaḥ  
-  
-
-  
-athedam ārabhyate kākolūkīyaṃ nāma tṛtīyaṃ tantram | yasyāyam ādyaḥ ślokaḥ-  
-
-  
-na viśvaset pūrva-virodhitasya 
-  
-śatroś ca mitratvam upāgatasya |
-  
-dagdhāṃ guhāṃ paśya ulūka-pūrṇāṃ 
-  
-kāka-praṇītena hutāśanena ||Panc_3.1||  
-
-  
-tad yathānuśruyate-asti dakṣiṇātye janapade mahilāropyaṃ nāma nagaram | tasya samīpastho 'neka-śākhāsanātho 'tighanatara-patra-cchanno nyagrodha-pādapo 'sti | tatra ca megha-varṇo nāma vāyasa-rājo 'neka-kāka-parivāraḥ prativasati sma | sa tatra vihita-durga-racanaḥ saparijanaḥ kālaṃ nayati | tathānyo 'ri-mardano nāmolūka-rājo 'saṅkhyolūka-parivāro giri-guhā-durgāśrayaḥ prativasati sma | sa ca rātrāv abhyetya sadaiva tasya nyagrodhasya samantāt paribhramati | atholūkarājaḥ pūrva-virodha-vaśādyaṃ kañcid vāyasa-samāsādayati | taṃ vyāpādya gacchati | evaṃ nityābhigamanāc chanaiḥ śanais tan nyagrodha-pādapad-durgaṃ tena samantān nirvāyasaṃ kṛtam | athavā bhavaty evam | uktaṃ ca-  
-
-  
-ya upekṣeta śatruṃ svaṃ prasarantaṃ yadṛcchayā |
-  
-rogaṃ cālasya-saṃyuktaḥ sa śanais tena hanyate ||Panc_3.2||  
-
-  
-tathā ca-
-  
-jāta-mātraṃ na yaḥ śatruṃ vyādhiṃ ca praśamaṃ nayet |
-  
-mahābalo 'pi tenaiva vṛddhiṃ prāpya sa hanyate ||Panc_3.3||  
-
-  
-athānyedyuḥ sa vāyasa-rājaḥ sarvān sacivān āhūya provāca-bhoḥ ! utkaṭas tāvad asmākaṃ śatrur udyama-sampannaś ca kālavic ca nityam eva niśāgame sametyāsmat-pakṣa-kadanaṃ karoti | tat katham asya prativighātavyam ? vayaṃ tāvad rātrau na paśyāmaḥ | na ca divā durgaṃ vijānīmo yena gatvā praharāmaḥ | tad atra kiṃ yujyate sandhi-vigraha-yānāsana-saṃśraya-dvaidhī-bhāvānāṃ madhyāt | atha te procuḥ-yuktam abhihitaṃ devena yad eṣa praśnaḥ kṛtaḥ | uktaṃ ca-  
-
-  
-apṛṣṭenāpi vaktavyaṃ sacivenātra kiṃcana |
-  
-pṛṣṭena tu viśeṣeṇa vācyaṃ pathyaṃ mahīpateḥ ||Panc_3.4||
-  
-yo na pṛṣṭo hitaṃ brūte pariṇāme sukhāvaham |
-  
-mantro na priya-vaktā ca kevalaṃ sa ripuḥ smṛtam ||Panc_3.5||
-  
-tasmād ekāntam āsādya kāryo mantro mahīpate |
-  
-yena tasya vayaṃ kurmo niyamaṃ kāraṇaṃ tathā ||Panc_3.6||  
-
-  
-uktaṃ ca-
-  
-balīyasi praṇamatāṃ kāle praharatām api |
-  
-sampado nāvagacchanti pratīpam iva nimnagāḥ ||Panc_3.7||
-  
-satyāḍhyo dhārmikaś cāryo bhrātṛ-saṅghātavān balī |
-  
-aneka-vijayī caiva sandheyaḥ sa ripur bhavet ||Panc_3.8||
-  
-sandhiḥ kāryo 'py anāryeṇa vijñāya prāṇa-saṃśayam |
-  
-prāṇaiḥ saṃrakṣitaiḥ sarvaṃ yato bhavati rakṣitam ||Panc_3.9||
-  
-aneka-yuddha-vijayī sandhānaṃ yasya gacchati |
-  
-tat-prabhāveṇa tasyāśu vaśaṃ gacchanty arātayaḥ ||Panc_3.10||
-  
-sandhim icchet samenāpi sandigdho vijayī yudhi |
-  
-na hi sāṃśayikaṃ kuryād ity uvāca bṛhaspatiḥ ||Panc_3.11||
-  
-sandigdho vijayo yuddhe janānām iha yuddhyatām |
-  
-upāya-tritayād ūrdhvaṃ tasmād yuddhaṃ samācaret ||Panc_3.12||
-  
-asandadhāno mānāndhaḥ samenāpi hato bhṛśam |
-  
-āmakumbham ivābhittvā nāvatiṣṭheta śaktimān ||Panc_3.13||
-  
-samaṃ śaktimatā yuddham aśaktasya hi mṛtyave |
-  
-vṛṣatkumbhaṃ yathā bhittvā tāvat tiṣṭhati śaktimān ||Panc_3.14||  
-
-  
-anyac ca-
-  
-bhūmir mitraṃ hiraṇyaṃ vā vigrahasya phala-trayam |
-  
-nāsty ekam api yady eṣāṃ vigrahaṃ na samācaret ||Panc_3.15||
-  
-khanann ākhu-bilaṃ siṃhaḥ pāṣāṇa-śakalākulam |
-  
-prāpnoti nakha-bhaṅgaṃ hi phalaṃ vā mūṣako bhavet ||Panc_3.16||
-  
-tasmān na syāt phalaṃ yatra puṣṭaṃ yuddhaṃ tu kevalam |
-  
-na hi tat svayam utpādyaṃ kartavyaṃ na kathañcana ||Panc_3.17||
-  
-balīyasā samākrānto vaitasīṃ vṛttim āśrayet |
-  
-vāñchann abhraṃśinīṃ lakṣmīṃ na bhaujaṅgī kadācana ||Panc_3.18||
-  
-kurvan hi vaitasīṃ vṛttiṃ prāpnoti mahatīṃ śriyam |
-  
-bhujaṅga-vṛttim āpanno vadham arhati kevalam ||Panc_3.19||
-  
-kaurmaṃ saṅkocam āsthāya prahārān api marṣayet |
-  
-kāle kāle ca matimān uttiṣṭhet kṛṣṇa-sarpavat ||Panc_3.20|| 
-  
-āgataṃ vigrahaṃ vidvān upāyaiḥ praśamaṃ nayet |
-  
-vijayasya hy anityatvād rabhasena na sampatet ||Panc_3.21||
-  
-balinā saha yoddhavyam iti nāsti nidarśanam |
-  
-prativātaṃ na hi ghanaḥ kadācid upasarpati ||Panc_3.22||
-  
-śatruṇā na hi sandadhyāt suśliṣṭenāpi sandhinā |
-  
-sutaptam api pānīyaṃ śamayaty eva pāvakam ||Panc_3.23||  
-
-  
-uktaṃ ca-
-  
-satya-dharma-vihīnena na sandadhyāt kathañcana |
-  
-sugandhito 'py asādhutvād acirād yāti vikriyām ||Panc_3.24||  
-
-  
-tasmāt tena yoddhavyam iti me matiḥ | uktaṃ ca yataḥ-  
-
-  
-krūro lubdho 'laso 'satyaḥ pramādī bhīrur asthiraḥ |
-  
-mūḍho yodhāvamantā ca sukhocchedyo bhaved ripuḥ ||Panc_3.25||  
-
-  
-aparaṃ tena parābhūtā vayam | tad yadi sandhāna-kīrtanaṃ kariṣyāmas tad bhūyo 'tyantaṃ kopaṃ kariṣyati | uktaṃ ca-  
-
-  
-caturthopāya-sādhye tu ripau sāntvam apakriyā |
-  
-svedyam āma-jvaraṃ prājñaḥ ko 'mbhasā pariṣiñcati ||Panc_3.26||
-  
-sāmavādāḥ sakopasya śatroḥ pratyuta dīpikāḥ |
-  
-prataptasyeva sahasā sarpiṣas toya-bindavaḥ ||Panc_3.27||
-  
-pramāṇābhyadhikasyāpi mahat-sattvam adhiṣṭhitaḥ |
-  
-padaṃ mūrdhni samādhatte kesarī matta-dantinaḥ ||Panc_3.28||
-  
-utsāha-śakti-sampanno hanyāc chatruṃ laghur gurum |
-  
-yathā kaṇṭhīravo nāgaṃ bhāradvājaḥ pracakṣate ||Panc_3.29||
-  
-māyayā śatravo vadhyā avadhyāḥ syur balena ye |
-  
-yathā strī-rūpam āsthāya hato bhīmena kīcakaḥ ||Panc_3.30||  
-
-  
-tathā ca-
-  
-mṛtyor ivogra-daṇḍasya rājño yānti vaśaṃ dviṣaḥ |
-  
-sarvaṃsahaṃ tu manyante tṛṇāya ripavaś ca tam ||Panc_3.31||
-  
-na jātu śamanaṃ yasya tejas tejasvi-tejasām |
-  
-vṛthā jātena kiṃ tena mātur yauvana-hāriṇā ||Panc_3.32||
-  
-yā lakṣmīr nānuliptāṅgī vair-śoṇita-kuṅkumaiḥ |
-  
-kāntāpi manasaḥ prītiṃ na sā dhatte manasvinām ||Panc_3.33||
-  
-ripu-raktena saṃsiktā tat-strī-netrāmbubhis tathā |
-  
-na bhūmir yasya bhūpasya kā ślāghā tasya jīvite ||Panc_3.34||
-  
-balotkaṭena duṣṭena maryādā-rahitena ca |
-  
-na sandhi-vigrahau naiva vinā yānaṃ praśasyate ||Panc_3.35||
-  
-dvidhākāraṃ bhaved yānaṃ bhavet prāṇārtha-rakṣaṇam |
-  
-ekam anyaj jigīṣoś ca yātrālakṣaṇam ucyate ||Panc_3.36||
-  
-kārttike vātha caitre vā vijigīṣoḥ praśasyate |
-  
-yānam utkṛṣṭa-vīryasya śatru-deśe na cānyadā ||Panc_3.37||
-  
-avaskanda-pradānasya sarve kālāḥ prakīrtitāḥ |
-  
-vyasane vartamānasya śatrocchidrānvitasya ca ||Panc_3.38||
-  
-svasthānaṃ sudṛḍhaṃ kṛtvā śūraiś cātair mahābalaiḥ |
-  
-para-deśaṃ tato gacchet praṇidhi-vyāptam agrataḥ ||Panc_3.39||
-  
-ajñātavī-vadhāsāra-toya-śasyo vrajet tu yaḥ |
-  
-para-rāṣṭraṃ na bhūyaḥ sa sva-rāṣṭram adhigacchati ||Panc_3.40||  
-
-  
-tat te yuktaṃ kartum apasaraṇam | anyac ca-  
-
-  
-tan na yuktaṃ prabho kartuṃ dvitīyaṃ yānam eva ca |
-  
-na vigraho na sandhānaṃ balinā tena pāpinā ||Panc_3.41||  
-
-  
-aparaṃ kāraṇāpekṣayāpasaraṇaṃ kriyate budhaiḥ | uktaṃ ca-  
-
-  
-yad apasarati meṣaḥ kāraṇaṃ tat prahartuṃ
-  
-mṛga-patir api kopāt saṅkucaty utpatiṣṇuḥ |
-  
-hṛdaya-nihita-bhāvā gūḍha-mantra-pracārāḥ
-  
-kim api vigaṇayanto buddhimantaḥ sahante ||Panc_3.42||  
-
-  
-anyac ca-
-  
-balavantaṃ ripuṃ dṛṣṭvā deśa-tyāgaṃ karoti yaḥ |
-  
-yudhiṣṭhira ivāpnoti punar jīvan sa medinīm ||Panc_3.43||
-  
-yudhyate'haṅkṛtiṃ kṛtvā durbalo yo balīyasā |
-  
-sa tasya vāñchitaṃ kuryād ātmanaś ca kula-kṣayam ||Panc_3.44||  
-
-  
-tad balavatābhiyuktsyāpasaraṇa-samayo 'yaṃ na sandher vigrahasya ca | evam anujīvi-mantro 'pasaraṇasya |   
-
-  
-atha tasya vacanam ākarṇya prajīvanam āha-bhadra ! tvam apy ātmano 'bhiprāyaṃ vada |  
-
-  
-so 'bravīt-deva ! mama sandhi-vigraha-yānāni trīṇy api na pratibhānti | viśeṣataś cāsanaṃ pratibhāti | uktaṃ ca-  
-
-  
-nakraḥ sva-sthānam āsādya gajendram api karṣati |
-  
-sa eva pracyutaḥ sthānāc chunāpi paribhūyate ||Panc_3.45||  
-
-  
-tathā-
-  
-abhiyukto balavatā tiṣṭhan durge prayatnavān |
-  
-tatrasthaḥ suhṛdāhvānaṃ kurvītātma-vimuktaye ||Panc_3.46||
-  
-yo ripor āgamaṃ śrutvā bhaya-santrasta-mānasaḥ |
-  
-sva-sthānaṃ hi tyajet tatra na tu bhūyo viśec ca saḥ ||Panc_3.47||
-  
-daṃṣṭrā-virahitaḥ sarpo mada-hīno yathā gajaḥ |
-  
-sthāna-hīnas tathā rājā gamyaḥ syāt sarva-jantuṣu ||Panc_3.48||
-  
-nija-sthāna-sthito 'py ekaḥ śataṃ yoddhuṃ sahen naraḥ |
-  
-śaktānām api śatrūṇāṃ tasmāt sthānaṃ na santyajet ||Panc_3.49||  
-
-  
-tasmād durgaṃ dṛḍhaṃ kṛtvā subhaṭāsāra-saṃyutam |
-  
-prākāra-parikhā-yuktaṃ śastrādibhir alaṅkṛtam ||Panc_3.50||
-  
-tiṣṭhen madhya-gato nityaṃ yuddhāya kṛta-niścayaḥ |
-  
-jīvan samprāptsyati rājyaṃ mṛto vā svargam eṣyati ||Panc_3.51|| (yugmakam)  
-
-  
-anyac ca-
-  
-balināpi na bādhyante laghavo 'py eka-saṃśrayāḥ |
-  
-vipakṣeṇāpi marutā yathaika-sthāna-vīrudhāḥ ||Panc_3.52||
-  
-mahān apy ekajo vṛkṣaḥ balavān supratiṣṭhitaḥ |
-  
-prasahya iva vātena śakyo dharṣayituṃ yataḥ ||Panc_3.53||
-  
-atha ye saṃhatā vṛkṣā sarvataḥ supratiṣṭhitāḥ |
-  
-te na raudrānilenāpi hanyante hy eka-saṃśrayāt ||Panc_3.54||
-  
-evaṃ manuṣyam apy ekaṃ śauryeṇāpi samanvitam |
-  
-śakyaṃ dviṣanto manyante hiṃsanti ca tataḥ param ||Panc_3.55||  
-
-  
-evaṃ prajīva-mantraḥ | idam āsana-saṃjñakam |   
-
-  
-etat samākarṇya cirañjīvinaṃ prāha-bhadra ! tvam api svābhiprāyaṃ vada |  
-
-  
-so 'bravīt-deva ! ṣāḍguṇya-madhye mama saṃśrayaḥ samyak pratibhāti | tat tasyānuṣṭhānaṃ kāryam | uktaṃ ca-  
-
-  
-asahāyaḥ samartho 'pi tejasvī kiṃ kariṣyati |
-  
-nirvāte jvalito vahniḥ svayam eva praśāmyati ||Panc_3.56||
-  
-saṅgatiḥ śreyasī puṃsāṃ sva-pakṣe ca viśeṣataḥ |
-  
-tuṣair api paribhraṣṭā na prarohanti taṇḍulāḥ ||Panc_3.57||  
-
-  
-tad atraiva sthitena tvayā kaścit samarthaḥ samāśrayaṇīyaḥ, yo vipat-pratikāraṃ karoti | yadi punas tvaṃ sva-sthānaṃ tyaktvānyatra yāsyasi | tat ko 'pi te vāṅ-mātreṇāpi sahāyatvaṃ na kariṣyati | uktaṃ ca, yataḥ-  
-
-  
-vanāni dahato vahneḥ sakhī bhavati mārutaḥ |
-  
-sa eva dīpa-nāśāya kṛśe kasyāsti sauhṛdam ||Panc_3.58||  
-
-  
-athavā naitad ekāntaṃ yad balinam ekaṃ samāśrayet | laghūnām api saṃśrayo rakṣāyai eva bhavati | uktaṃ ca, yataḥ-  
-
-  
-saṅghātavān yathā veṇur niviḍair veṇubhir vṛtaḥ |
-  
-na śakyeta samucchettuṃ durbalo 'pi yathā nṛpaḥ ||Panc_3.59||  
-
-  
-yadi punar uttama-saṃśrayo bhavati tat kim ucyate ? uktaṃ ca-  
-
-  
-mahājanasya samparkaḥ kasya nonnati-kārakaḥ |
-  
-padma-patra-sthitaṃ toyaṃ dhatte muktā-phala-śriyam ||Panc_3.60||  
-
-  
-tad evaṃ saṃśrayaṃ vinā na kaścit pratīkāro bhavati iti me'bhiprāyaḥ | evaṃ cirañjīvi-mantraḥ |  
-
-  
-athaivam abhihite sa meghavarṇo rājā cirantanaṃ pitṛ-sacivaṃ dīrghāyuṣaṃ sakala-nīti-śāstra-pāraṅgataṃ sthirajīvi-nāmānaṃ praṇamya provāca-tāta ! yad ete mayā pṛṣṭāḥ sacivās tāvad atra-sthitasyāpi tava tat-parīkṣārtham, yena tvaṃ sakalaṃ śrutvā yad ucitaṃ tan me samādiśasi | tad yady uktaṃ bhavati tas samādeśyam |  
-
-  
-sa āha-vatsa ! sarvair apy etair nīti-śāstrāśrayam uktaṃ sacivaiḥ | tad upayujyate sva-kālocitaṃ sarvam eva | param eṣa dvaidhībhāvasya kālaḥ | uktaṃ ca-  
-
-  
-aviśvāsaṃ sadā tiṣṭhet sandhinā vigraheṇa ca |
-  
-dvaidhī-bhāvaṃ samāśritya pāpe śatrau balīyasi ||Panc_3.61||  
-
-  
-tac chatruṃ viśvāsyāviśvastair lobhaṃ darśayadbhiḥ sukhenocchidyate ripuḥ | uktaṃ ca-
-  
-ucchedyam api vidvāṃso vardhayanty arim ekadā |
-  
-guḍena vardhitaḥ śleṣmā yato niḥśeṣatāṃ vrajet ||Panc_3.62||
-  
-tathā ca-
-  
-strīṇāṃ śatroḥ kumitrasya paṇya-strīṇāṃ viśeṣataḥ |
-  
-yo bhaved eka-bhāvo 'tra na sa jīvati mānavaḥ ||Panc_3.63||
-  
-kṛtyaṃ deva-dvijātīnām ātmanaś ca guros tathā |
-  
-eka-bhāvena kartavyaṃ śeṣaṃ dvaidha-samāśritam ||Panc_3.64||
-  
-eko bhāvaḥ sadā śasto yatīnāṃ bhāvitātmanām |
-  
-śrī-lubdhānāṃ na lokānāṃ viśeṣeṇa mahī-bhujām ||Panc_3.65||  
-
-  
-tad dvaidhībhāvaṃ saṃśritasya tava sva-sthāne vāso bhaviṣyati, lobhāśrayāc ca śatrum uccāṭayiṣyasi aparaṃ-yadi kiñcic chidraṃ tasya paśyasi, tad gatvā vyāpādayiṣyasi |   
-
-  
-meghavarṇa āha-tāta mayā so 'vidita saṃśrayaḥ | tat kathaṃ tasya chidraṃ jñāsyāmi ?  
-
-  
-sthirajīvy āha-vatsa ! na kevalaṃ sthānaṃ, chidrāṇy api tasya prakaṭīkariṣyāmi praṇadhibhiḥ | uktaṃ ca-  
-
-  
-gāvo gandhena paśyanti vedaiḥ paśyanti vai dvijāḥ |
-  
-cārai paśyanti rājānaś cakṣurbhyām itare janāḥ ||Panc_3.66||  
-
-  
-uktaṃ cātra viṣaye-
-  
-yas tīrthāni nije pakṣe para-pakṣe viśeṣataḥ |
-  
-guptaiś cārair nṛpo vetti na sa durgatim āpnuyāt ||Panc_3.67||  
-
-  
-meghavarṇa āha-tāta, kāni tīrthāny ucyante ? kati saṅkhyāni ca ? kīdṛśā guptacarāḥ ? tat sarvaṃ nivedyatām iti |  
-
-  
-sa āha-atra viṣaye bhagavatā nāradena yudhiṣṭhiraḥ proktaḥ | yac chatru-pakṣe'ṣṭādaśa-tīrthāni, sva-pakṣe  pañcadaśa | tribhis tribhir guptacarais tāni jñeyāni | tair jñātaiḥ sva-pakṣaḥ para-pakṣaś ca vaśyo bhavati | uktaṃ ca nāradena yudhiṣṭhiraṃ prati-
-  
-kaccid aṣṭadaśāny eṣu sva-pakṣe daśa pañca ca |
-  
-tribhis tribhir avijñātair vetsi tīrthāni cārakaiḥ ||Panc_3.68||  
-
-  
-tīrtha-śabdenāyukta-karmābhidhīyate | tad yadi teṣāṃ kutsitaṃ bhavati tat svāmino 'bhighātāya, yadi pradhānaṃ bhavati tad-vṛddhaye syād iti | tad yathā-mantrī, purohitaḥ, senāpatiḥ, yuvarājaḥ, dauvārikaḥ, antarvāsikaḥ, praśāsakaḥ, samāhartṛ-sannidhātṛ-pradeṣṭṛ-jñāpakāḥ, sādhanādhyakṣaḥ, gajādhyakṣaḥ, kośādhyakṣaḥ, durgapāla-karapāla-sīmāpāla-protkaṭa-bhṛtyāḥ | eṣāṃ bhedena drāg ripuḥ sādhyate | sva-pakṣe ca devī, jananī, kañcukī, mālikaḥ, śayyā-pālakaḥ, spaśādhyakṣaḥ, sāṃvatsarikaḥ, bhiṣag, tāmbūla-vāhakaḥ, ācāryaḥ, aṅga-rakṣakaḥ, sthāna-cintakaḥ, chatradharaḥ, vilāsinī | eṣāṃ vaira-dvāreṇa sva-pakṣe vighātaḥ | tathā ca-
-  
-vaidya-sāṃvatsarācāryāḥ sva-pakṣe'dhikṛtāś carāḥ |
-  
-tathāhi-tuṇḍikonmattāḥ sarvaṃ jānanti śatruṣu ||Panc_3.69||  
-
-  
-tathā ca-
-  
-kṛtvā kṛtya-vidas tīrtheṣv antaḥ praṇidhayaḥ padam |
-  
-vidāṅkurvantu mahatas talaṃ vidviṣad-ambhasaḥ ||Panc_3.70||  
-
-  
-evaṃ mantri-vākyam ākarṇyātrāntare meghavarṇa āha-tāta ! atha kiṃ nimittam evaṃvidhaṃ prāṇāntikaṃ sadaiva vāyasolūkānāṃ vairam ?   
-
-  
-sa āha-vatsa ! kadācid dhaṃsa-śuka-kokila-cātaka-ulūka-mayūra-kapāta-pārāvata-viṣkira-prabhṛtayaḥ sarve'pi pakṣiṇaḥ sametya sodvegaṃ mantrayitum ārabdhāḥ | aho asmākaṃ tāvad vainateyo rājā, sa ca vāsudeva-bhakto na kām api cintām asmākaṃ karoti | tat kiṃ tena vṛthāsvāminā ? yo lubdhaka-pāśair nityaṃ nibadhyamānānāṃ na rakṣāṃ  vidhatte | uktaṃ ca-  
-
-  
-yo na rakṣati vitrastān pīḍyamānān paraiḥ sadā |
-  
-jantūn pārthiva-rūpeṇa sa kṛtānto na saṃśayaḥ ||Panc_3.71||
-  
-yadi na syān narapatiḥ samyaṅ netāḥ tataḥ prajāḥ |
-  
-akarṇadhārā jaladhau viplaveteha naur iva ||Panc_3.72||  
-
-  
-ṣaḍ imān puruṣo jahyād bhinnāṃ nāvam ivārṇave |
-  
-apravaktāram ācāryam anadhīyānam ṛtvijam ||Panc_3.73||
-  
-arakṣitāraṃ rājānaṃ bhāryāṃ cāpirya-vādinīm |
-  
-grāma-kāmaṃ ca gopālaṃ vana-kāmaṃ ca nāpitam ||Panc_3.74|| (yugmam)  
-
-  
-tat, sañcityānyaḥ kaścid rājā vihaṅgamānāṃ kriyatām iti | atha tair bhadrākāram ulūkam avalokya sarvair abhihitam-yad eṣa ulūko rājāsmākaṃ bhaviṣyati, tad ānīyantāṃ nṛpābhiṣeka-sambandhinaḥ sambhārāḥ iti |   
-
-  
-atha sādhite vividha-tīrthodake, praguṇīkṛte'ṣṭottara-śata-mūlikā-saṅghāte pradatte siṃhāsane, vartite saptadvīpa-samudra-bhūdhara-vicitre dharitrī-maṇḍale, prastārite vyāghra-carmaṇi āpūriteṣu hema-kumbheṣu dīpeṣu vādyeṣu ca sajjīkṛteṣu darpaṇādiṣu māṅgalya-vastuṣu, paṭhatsu vandi-mukhyeṣu, vedoccāraṇa-pareṣu samudita-mukheṣu brāhmaṇeṣu, gīta-pare yuvati-jane, ānītāyām agra-mahiṣyāṃ kṛkālikāyām, ulūko 'bhiṣekārthaṃ yāvat siṃhāsane upaviśati tāvat kuto 'pi vāyasaḥ samāyātaḥ so 'cintayat-aho ! kim eṣa sakala-pakṣi-samāgamo mahotsavaś ca ? atha te pakṣiṇas taṃ dṛṣṭvā mithaḥ procuḥ | pakṣiṇāṃ madhye vāyasaś caturaḥ śrūyate | uktaṃ ca-  
-
-  
-narāṇāṃ nāpito dhūrtaḥ pakṣiṇāṃ caiva vāyasaḥ |
-  
-daṃṣṭriṇāṃ ca śṛgālas tu śvebhikṣus tapasvinām ||Panc_3.75||  
-
-  
-tad asyāpi vacanaṃ grāhyam | uktaṃ ca-  
-
-  
-bahudhā bahubhiḥ sārdhaṃ cintitāḥ sunirūpitāḥ |
-  
-kathañcin na vilīyante vidvadbhiś cintitā nayāḥ ||Panc_3.76||  
-
-  
-atha vāyasaḥ sametya tān āha-aho ! kiṃ mahājana-samāgamo 'yaṃ parama-mahotsavaś ca |   
-
-  
-te procuḥ-bhoḥ ! nāsti kaścid vihaṅgamānāṃ rājā, tad asyolūkasya vihaṅga-rājyābhiṣeko nirūpitas tiṣṭhati samasta-pakṣibhiḥ | tattvam api sva-mataṃ dehi | prastāve samāgato 'si |   
-
-  
-athāsau kāko vihasyāha-aho ! na yuktam etat | yan mayūra-haṃsa-kokila-cakravāka-śuka-kāraṇḍava-hārīta-sārasādiṣu pakṣi-pradhāneṣu vidyamāneṣu divāndhasyāsya karāla-vaktrasyābhiṣekaḥ kriyate | tatraitan mama matam | yataḥ-  
-
-  
-vakra-nāsaṃ sujihmākṣaṃ krūram apriya-darśanam |
-  
-akruddhasyedṛśaṃ vaktraṃ bhavet kruddhasya kīdṛśam ||Panc_3.77||
-  
-svabhāva-raudram atyugraṃ krūram apriya-vādinam |
-  
-ulūkaṃ nṛpatiṃ kṛtvā kā naḥ siddhir bhaviṣyati ||Panc_3.78||  
-
-  
-aparaṃ vainateye svāmini sthite kim eṣa divāndhaḥ kriyate rājā ? tad yadyapi guṇavān bhavati, tathāpy ekasmin svāmini sthite nānyo bhūpaḥ praśasyate |  
-
-  
-eka eva hitārthāya tejasvī pārthivo bhuvaḥ |
-  
-yugānta iva bhāsvanto bahavo 'tra vipattaye ||Panc_3.79||  
-
-  
-tat tasya nāmnāpi yūyaṃ pareṣām agamyā bhaviṣyatha | uktaṃ ca-  
-
-  
-gurūṇāṃ nāma-mātre'pi gṛhīte svāmi-sambhave |
-  
-duṣṭānāṃ purataḥ kṣemaṃ tat-kṣaṇād eva jāyate ||Panc_3.80||  
-
-  
-tathā ca-
-  
-vyapadeśena mahatāṃ siddiḥ sañjāyate parā |
-  
-śaśino vyapadeśena vasanti śaśakāḥ sukham ||Panc_3.81||  
-
-  
-pakṣiṇa ūcuḥ-katham etat ?  
-
-  
-sa āha-
-  
-kathā 1
-  
-caturdanta-nāma-mahā-gaja-kathā  
-
-  
-kasmiṃścid vane caturdanto nāma mahā-gajo yūthādhipaḥ prativasati sma | tatra kadācin mahaty anāvṛṣṭiḥ sañjātā prabhūta-varṣāṇi yāvat | tayā taḍāga-hrada-palvala-sarāṃsi śoṣam upagatāni | atha taiḥ samasta-gajaiḥ sa gajarājaḥ proktaḥ-deva ! pipāsākulā gaja-kalabhā mṛta-prāyā apare mṛtāś ca | tad anviṣyatāṃ kaścij jalāśayo yatra jala-pānena svasthatāṃ vrajanti |   
-
-  
-tataś ciraṃ dhyātvā tenābhihitam-asti mahā-hrado vivikte pradeśe sthala-madhya-gataḥ pātāla-gaṅgā-jalena sadaiva pūrṇaḥ | tat tatra gamyatāṃ iti |   
-
-  
-tathānuṣṭḥite pañcarātram upasarpadbhiḥ samāsāditas taiḥ sa hradaḥ | tatra svecchayā jalam avagāhyās tam anavelāyāṃ niṣkrāntāḥ | tasya ca hradasya samantāc chaśaka-bilāni asaṅkhyāni sukomala-bhūmau tiṣṭhanti | tāny api samastair api tair gajair itas tato bhramadbhiḥ paribhagnāni | bahavaḥ śaśakāḥ bhagna-pāda-śiro-grīvā vihitāḥ | kecin mṛtāḥ kecij jīva-śeṣā jātāḥ |   
-
-  
-atha gate tasmin gaja-yūthe śaśakāḥ sodvegā gajapāda-kṣuṇṇa-samāvāsāḥ kecid bhagna-pādāḥ | anye jarjarita-kalevarā rudhira-plutāḥ | anye hata-śiśavo bāṣpa-pihita-locanāḥ sametya mitho mantraṃ cakruḥ-aho vinaṣṭā vayam | nityam evaitad gaja-yūtham āgamiṣyati yato nānyatra jalam asti | tat sarveṣāṃ nāśo bhaviṣyati | uktaṃ ca-  
-
-  
-spṛśann api gajo hanti jighrann api bhujaṅgamaḥ |
-  
-hasann api nṛpo hanti mānayann api durjanaḥ ||Panc_3.82||  
-
-  
-tac cintyatāṃ kaścid upāyaḥ | tatraikaḥ provāca-gamyatāṃ deśa-tyāgena | kim anyat ? uktaṃ ca manunā vyāsena ca-  
-
-  
-tyajed ekaṃ kulasyārthe grāmasyārthe kulaṃ tyajet |
-  
-grāmaṃ janapadasyārthe ātmārthe pṛthivīṃ tyajet ||Panc_3.83||
-  
-kṣemyāṃ śasya-pradāṃ nityaṃ paśu-vṛddhi-karīm api |
-  
-parityajen nṛpo bhūmim ātmārtham avicārayan ||Panc_3.84||
-  
-āpad-arthe dhanaṃ rakṣed dārān rakṣed dhanair api |
-  
-ātmānaṃ satataṃ rakṣed dārair api dhanair api ||Panc_3.85||  
-
-  
-tataś cānye procuḥ-bhoḥ ! pitṛ-paitāmahaṃ sthānaṃ na śakyate sahasā tyaktum | tat kriyatāṃ teṣāṃ kṛte kācid vibhīṣikā | yat katham api daivān na samāyānti | uktaṃ ca-  
-
-  
-nirviṣeṇāpi sarpeṇa kartavyā mahatī phaṭā |
-  
-viṣaṃ bhavatu mā vāstu phaṭāṭopo bhayaṅkaraḥ ||Panc_3.86||  
-
-  
-athānye procuḥ-yady evaṃ tatas teṣāṃ mahad-vibhīṣikā-sthānam asti yena nāgamiṣyanti | sā ca catura-dūtāyattā vibhīṣikā | yato vijayadatto nāmāsmat-svāmī śaśakaś candra-maṇḍale nivasati | tat preṣyatāṃ kaścin mithyā-dūto yūthādhipa-sakāśaṃ yac candras tvām atra hrada āgacchantaṃ niṣedhayati, yato 'smat-parigraho 'sya samantād vasati | evam abhihite śraddheya-vacanāt kadāpi nivartate | athānye procuḥ-yady evaṃ tad asti lambakarṇo nāma śaśakaḥ | sa ca vacana-racanā-caturo dūta-karmajñaḥ | sa tatra preṣyatām iti | uktaṃ ca-  
-
-  
-sākāro niḥspṛho vāgmī nānā-śāstra-vicakṣaṇaḥ |
-  
-para-cittāvagantā ca rājño dūtaḥ sa iṣyate ||Panc_3.87||  
-
-  
-anyac ca-
-  
-yo mūrkhaṃ laulya-sampannaṃ rāja-dvārikam ācaret |
-  
-mithyā-vādaṃ viśeṣeṇa tasya kāryaṃ na sidhyati ||Panc_3.88||  
-
-  
-tad anviṣyatāṃ yady asmād vyasanād ātmanāṃ sunirmuktiḥ |   
-
-  
-athānye procuḥ-aho yuktam etat | nānyaḥ kaścid upāyo 'smākaṃ jīvitasya | tathaiva kriyatām |  
-
-  
-atha lambakarṇo gaja-yūthādhipa-samīpe nirūpito gataś ca | tathānuṣṭhite lambakarṇo 'pi gaja-mārgam āsādyāgamyaṃ sthalam āruhya taṃ gajam uvāca-bhoḥ bhoḥ duṣṭa-gaja ! kim evaṃ līlayā niḥśaṅkayātra candra-hrada āgacchasi ? tan nāgantavyaṃ nivartyatām iti |   
-
-  
-tad ākarṇya vismita-manā gaja āha-bhoḥ ! kas tvam ?   
-
-  
-sa āha-ahaṃ lambakarṇo nāma śaśakaś candra-maṇḍale vasāmi | sāmprataṃ bhagavatā candramasā tava pārśve prahito dūtaḥ | jānāty eva bhavān | yathārtha-vādino dūtasya na doṣaḥ karaṇīyaḥ | dūta-mukhā hi rājānaḥ sarva eva | uktaṃ ca-  
-
-  
-udyateṣv api śastreṣu bandhu-varga-vadheṣv api |
-  
-puruṣāṇy api jalpanto vadhyā dūtā na bhūbhujā ||Panc_3.89||  
-
-  
-tac chrutvā sa āha-bhoḥ śaśaka ! tat kathaya bhagavataś candramasaḥ sandeśam | yena satvaraṃ kriyate |   
-
-  
-sa āha-bhavatātīta-divase yūthena sahāgacchatā prabhūtāḥ śaśakā nipātitāḥ | tat kiṃ na vetti bhavān | yan mama parigraho 'yam | tad yadi jīvitena te prayojanaṃ tadā kenāpi prayojanenāpy atra hrade nāgantavyam iti sandeśaḥ |   
-
-  
-gaja āha-atha kva vartate bhagavān svāmī candraḥ |  
-
-  
-sa āha-atra hrade sāmprataṃ śaśakānāṃ bhavad-yūtha-mathitānāṃ hata-śeṣāṇāṃ samāśvāsanāya samāyātas tiṣṭhati | ahaṃ punas tavāntikaṃ preṣitaḥ |   
-
-  
-gaja āha-yady evaṃ tad darśaya me taṃ svāminaṃ yena praṇamyānyatra gacchāmi |  
-
-  
-śaśaka āha-āgaccha mayā sahaikakī yena darśayāmi |  
-
-  
-tathānuṣṭhite śaśako niśā-samaye taṃ hrada-tīre nītvā jala-madhye sthitaṃ candra-bimbam adarśayat | āha ca-bhoḥ eṣa naḥ svāmī jala-madhye samādhisthas tiṣṭhati tan-nibhṛtaṃ praṇamya vrajeti | no cet, samādhi-bhaṅga-bhayād bhūyo 'pi prabhūtaṃ kopaṃ kariṣyati |   
-
-  
-atha gajo 'pi trasta-manās taṃ praṇamya punar gamanāya prasthitaḥ | śaśakaś ca tad-dinād ārabhya sa-parivārāḥ sukhena sveṣu sthāneṣu tiṣṭhanti sma |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi vyapadeśena mahatām iti | api ca-  
-
-  
-kṣudram alasaṃ kāpuruṣaṃ vyasaninam akṛtajñaṃ jīvita-kāmaḥ |
-  
-pṛṣṭha-pralapana-śīlaṃ svāmitve nābhiyojayet ||Panc_3.90||  
-
-  
-tathā ca-
-  
-kṣudram arthapatiṃ prāpya nyāyānveṣaṇa-tat-parau |
-  
-ubhāv api kṣayaṃ prāptau purā śaśaka-piñjalau ||Panc_3.91||  
-
-  
-te procuḥ-katham etat ?  
-
-  
-sa āha-
-  
-kathā 2
-  
-śaśa-kapiñjala-kathā  
-
-  
-kasmiṃścid vṛkṣe purāham avasam | tatrādhastāt koṭare kapiñjalo nāma caṭakaḥ prativasati sma | atha sadaivāstam anavelāyām āgatayor dvayor aneka-subhāṣita-goṣṭhyā devarṣi-brahmarṣi-rājarṣi-purāṇa-carita-kīrtanena ca paryaṭana-dṛṣṭāneka-kautūhala-prakathanena ca parama-sukham anubhavatoḥ kālo vrajati | atha kadācit kapiñjalaḥ prāṇa-yātrārtham anyaiś caṭakaiḥ sahānyaṃ pakva-śāli-prāñaṃ deśaṃ gataḥ | tato yāvan niśā-samaye'pi nāyātas tāvad ahaṃ sodvega-manās tad-viprayoga-duḥkhitaś cintitavān-aho kim adya kapiñjalo nāyātaḥ | kiṃ kenāpi pāśena baddhaḥ ? āho svit kenāpi vyāpāditaḥ ? sarvathā yadi kuśalo bhavati, yan māṃ vinā na tiṣṭhati |   
-
-  
-evaṃ me cintayato bahūny anyāni vyatikrāntāni | tataś ca tatra koṭare kadācic chīghrago nāma śaśako 'stam anavelāyām āgatya praviṣṭaḥ | mayāpi kapiñjala-nirāśatvena na nivāritaḥ | athānyasminn ahani kapiñjalaḥ śāli-bhakṣaṇād atīva pīvara-tanuḥ svāśrayaṃ smṛtvā bhūyo 'py atraiva samāyātaḥ | athavā sādhv idam ucyate-  
-
-  
-na tādṛg jāyate saukhyam api svarge śarīriṇām |
-  
-dāridrye'pi hi yādṛk syāt sva-deśe sva-pure gṛhe ||Panc_3.92||  
-
-  
-athāsau koṭarāntargataṃ śaśakaṃ dṛṣṭvā sākṣepam āha-bhoḥ śaśaka ! na tvayā sundaraṃ kṛtaṃ, yan mamāvasatha-sthāne praviṣṭo 'si | tac chīghraṃ niṣkramyatām |  
-
-  
-śaśaka āha-na tavedaṃ gṛham, kintu mamaiva | tat kiṃ mithyā paruṣāṇi jalpasi ? uktaṃ ca-  
-
-  
-vāpī-kūpa-taḍāgānāṃ devālaya-kujanmanām |
-  
-utsargāt parataḥ svāmyam api kartuṃ na śakyate ||Panc_3.93||  
-
-  
-tathā ca-
-  
-pratyakṣaṃ yasya yad bhuktaṃ kṣetrādyaṃ daśa vatsarān |
-  
-tatra bhuktiḥ pramāṇaṃ syād na sākṣī nākṣarāṇi vā ||Panc_3.94||
-  
-mānuṣāṇām ayaṃ nyāyo munibhiḥ parikīrtitaḥ |
-  
-tiraścāṃ ca vihaṅgānāṃ yāvad eva samāśrayaḥ ||Panc_3.95||  
-
-  
-tan mamaitad gṛham, na taveti |  
-
-  
-kapiñjala āha-bhoḥ ! yadi smṛtiṃ pramāṇīkaroṣi, tad āgaccha mayā saha yena smṛti-pāṭhakaṃ pṛṣṭvā sa yasya dadāti sa gṛhṇātu |   
-
-  
-tathānuṣṭhite mayāpi cintitaṃ-kim atra bhaviṣyati ? mayā draṣṭavyo 'yaṃ nyāyaḥ | tataḥ kautukād aham api tāv anuprasthitaḥ | atrāntare tīkṣṇadaṃṣṭro nāmāraṇya-mārjāras tayor vivādaṃ śrutvā mārgāsannaṃ nadī-taṭam āsādya kṛta-kuśopagraho nimīlita-nayana ūrdhva-bāhur ardha-pāda-spṛṣṭa-bhūmiḥ śrī-sūryābhimukha imāṃ dharmopadeśanām akarot-aho ! asāro 'yaṃ saṃsāraḥ | kṣaṇa-bhaṅgurāḥ prāṇāḥ | svapna-sadṛśaḥ priya-samāgamaḥ | indra-jālavat kuṭumba-parigraho 'yam | tad dharmaṃ muktvā nānyā gatir asti | uktaṃ ca-  
-
-  
-anityāni śarīrāṇi vibhavo naiva śāśvataḥ |
-  
-nityaṃ saṃnihito mṛtyuḥ kartavyo dharma-saṃgrahaḥ ||Panc_3.96||
-  
-yasya dharma-vihīnāni dināny āyānti yānti ca |
-  
-sa lohakāra-bhastreva śvasann api na jīvati ||Panc_3.97||
-  
-nācchādayati kaupīnaṃ na daṃśa-maśakāpaham |
-  
-śunaḥ-puccham iva vyarthaṃ pāṇḍityaṃ dharma-varjitam ||Panc_3.98||  
-
-  
-anyac ca-
-  
-pulākā iva dhānyeṣu pūtikā iv pakṣiṣu |
-  
-maśakā iva martyeṣu yeṣāṃ dharmo na kāraṇam ||Panc_3.99||
-  
-śreyaḥ puṣpa-phalaṃ vṛkṣād dadhnaḥ śreyo ghṛtaṃ smṛtam |
-  
-śreyas tailaṃ ca puṇyākāc chreyān dharmas tu mānuṣāt ||Panc_3.100||
-  
-sṛṣṭā mūtra-purīṣārtham āhārāya ca kevalam |
-  
-dharma-hīnāḥ parārthāya puruṣāḥ paśavo yathā ||Panc_3.101||
-  
-sthairyaṃ sarveṣu kṛtyeṣu śaṃsanti naya-paṇḍitāḥ |
-  
-bahv-antarāya-yuktasya dharmasya tvaritā gatiḥ ||Panc_3.102||
-  
-saṅkṣepāt kathyate dharmo janāḥ kiṃ vistareṇa vaḥ |
-  
-paropakāraḥ puṇyāya pāpāya para-pīḍanam ||Panc_3.103||
-  
-śrūyatāṃ dharma-sarvasvaṃ śrutvā caivāvadhāryatām |
-  
-ātmanaḥ pratikūlāni pareṣāṃ na samācaret ||Panc_3.104||  
-
-  
-atha tasya tāṃ dharmopadeśanāṃ śrutvā śaśaka āha-bhoḥ bhoḥ kapiñjala ! eṣa nadī-tīre tapasvī dharma-vādī tiṣṭhati | tad enaṃ pṛcchāvaḥ |   
-
-  
-kapiñjala āha-nanu svabhāvato 'yam asmākaṃ śatru-bhūtaḥ | tad dūre sthitvā pṛcchāvaḥ | kadācid asya vrata-vaikalyaṃ sampadyeta | tato dūrastho tāv ūcatuḥ-bhos tapasvin ! dharmopadeśaka ! āvayor vivādo vartate | tad dharma-śāstra-dvāreṇāsmākaṃ nirṇayaṃ kuru | yo hīnavādī sa te bhakṣya iti |   
-
-  
-sa āha-bhadrau ! mā maivaṃ vadatam | nivṛtto 'haṃ naraka-mārgād dhiṃsā-karmaṇaḥ | ahiṃsaiva dharma-mārgaḥ | uktaṃ ca-  
-
-  
-ahiṃsā-pūrvako dharmo yasmāt sarva-hite rataḥ |
-  
-yūkā-mat-kuṇa-daṃśādīṃs tasmāt tān api rakṣayet ||Panc_3.105||
-  
-hiṃsakāny api bhūtāni yo hiṃsati sa nirghṛṇaḥ |
-  
-sa yāti narakaṃ ghoraṃ kiṃ punar yaḥ śubhāni ca ||Panc_3.106||
-  
-ete'pi ye yājñikā yajña-karmaṇi paśūn vyāpādayanti, te mūrkhāḥ | paramārthaṃ śruter na jānanti | tatra kilaitad uktam-ajayaiṣṭavyam | ajā vrīhayas tāvat sapta-vārṣikāḥ kathyante na punaḥ paśu-viśeṣaḥ | uktaṃ ca-  
-
-  
-vṛkṣāṃś chittvā paśūn hatvā kṛtvā rudhira-kardamam |
-  
-yady evaṃ gamyate svargaṃ narakaṃ kena gamyate ||Panc_3.107||  
-
-  
-tan nāhaṃ bhakṣayāmi | paraṃ jaya-parājaya-nirṇayaṃ kariṣyāmi | kintv ahaṃ vṛddho dūrān na yathāvac chṛṇomi | evaṃ jñātvā mama samīpa-vartino bhūtvā mamāgre nyāyaṃ vadataṃ, yena vijñāya, vivāda-paramārthaṃ vaco vadato me para-loka-bādhā na bhavati |  uktaṃ ca-  
-
-  
-mānād vā yadi vā lobhāt krodhād vā yadi vā bhayāt |
-  
-yo nyāyam anyathā brūte sa yāti narakaṃ naraḥ ||Panc_3.108||
-  
-pañca paśv-anṛte hanti daśa hanti gavānṛte |
-  
-śataṃ kanyānṛte hanti sahasraṃ puruṣānṛte ||Panc_3.109||
-  
-upaviṣṭaḥ sabhā-madhye yo na vakti sphuṭaṃ vacaḥ |
-  
-tasmād dūreṇa sa tyājyo na yo vā kīrtayed ṛtam ||Panc_3.110||  
-
-  
-tasmād viśrabdhau mama karṇopāntike sphuṭaṃ nivedayatam | kiṃ bahunā, tena kṣudreṇa tathā tau pūrṇaṃ viśvāsitau yathā tasyotsaṅga-vartinau jātau | tataś ca tenāpi sama-kālam evaikaḥ pādāntenākrānto 'nyo daṃṣṭrākrakacena ca tato gata-prāṇau bhakṣitāv iti | ato 'haṃ bravīmi-kṣudram artha-patiṃ prāpya (91) iti |  
-
-  
-bhavanto 'py enaṃ divāndhaṃ kṣudram artha-patim āsādya rātry-andhāḥ santaḥ śaśaka-piñjala-mārgeṇa yāsyanti | evaṃ jñātvā yad ucitaṃ tad vidheyam | atha tasya tad-vacanam ākarṇya sādhv anenābhihitam ity uktā, bhūyo 'pi pārthivāthaṃ sametya mantrayiṣyāmahe iti bruvāṇāḥ sarve pakṣiṇo yathābhimataṃ jagmuḥ | kevalam avaśiṣṭo bhadrāsanopaviṣṭo 'bhiṣekābhimukho divāndhaḥ kṛkālikayā sahāste | āha ca-kaḥ ko 'tra bhoḥ ! kim adyāpi na kriyate mamābhiṣekaḥ ?  
-
-  
-iti śrutvā kṛkālikayābhihitam-bhadra ! kuto 'yaṃ vighnas te kākena ? gatāś ca sarve'pi vihagā yathepsitāsu dikṣu kevalam eko 'yaṃ vāyaso 'vaśiṣṭas tiṣṭhati kenāpi kāraṇena | tat tvaritam uttiṣṭha, yena tvāṃ svāśrayaṃ prāpayāmi |   
-
-  
-tac chrutvā sa-viṣādam ulūko vāyasam āha-bho bho duṣṭātman ! kiṃ mayā te'pakṛtaṃ yad rājyābhiṣeko me vighnitaḥ ? tad adya-prabhṛti sānvayam āvayor vairaṃ sañjātam | uktaṃ ca-  
-
-  
-rohate sāyakair viddhaṃ chinnaṃ rohati cāsinā |
-  
-vaco duruktaṃ bībhatsaṃ na prarohati vāk-kṣatam ||Panc_3.111||  
-
-  
-ity evam abhidhāya kṛkālikayā saha svāśramaṃ gataḥ | atha bhaya-vyākulo vāyaso vyacintayat-aho ! akāraṇaṃ vairam āsāditaṃ mayā | kim idaṃ vyāhṛtam ? uktaṃ ca-
-  
-adeśa-kālajñam anāyati-kṣamaṃ 
-  
-yad apriyaṃ lāghava-kāri cātmanaḥ |
-  
-yo 'trābravīt kāraṇa-varjitaṃ vaco
-  
-na tad vacaḥ syād viṣam eva tad bhavet ||Panc_3.112||  
-
-  
-balopapanno 'pi hi buddhimān naraḥ
-  
-pare nayen na svayam eva vairitām |
-  
-bhiṣaṅ mamāstīti vicintya bhakṣayed
-  
-akāraṇāt ko hi vicakṣaṇo viṣam ||Panc_3.113||  
-
-  
-parivādaḥ pariṣadi na kathañcit paṇḍitena vaktavyaḥ |
-  
-satyam api tan na vācyaṃ yad uktam asukhāvahaṃ bhavati ||Panc_3.114||  
-
-  
-suhṛdbhir āptair asakṛd-vicāritaṃ 
-  
-svayaṃ hi buddhyā pravicāritāśrayam |
-  
-karoti kāryaṃ khalu yaḥ sa buddhimān
-  
-sa eva lakṣmyā yaśasāṃ ca bhājanam ||Panc_3.115||
-  
-evaṃ vicintya kāko 'pi prayātaḥ | tadā-prabhṛty asmābhiḥ saha kauśikānām anvayā-gataṃ vairam asti |   
-
-  
-meghavarṇa āha-tāta ! evaṃ gate'smābhiḥ kiṃ kriyate ?   
-
-  
-sa āha-vatsa ! evaṃ gate'pi ṣāḍguṇyād aparaḥ sthūlo 'bhiprāyo 'sti | tam aṅgīkṛtya svayam evāhaṃ tad-vijayāya yāsyāmi | ripūn vañcayitvā vadhiṣyāmi | uktaṃ ca-  
-
-  
-bahu-buddhi-samāyuktāḥ suvijñānā balotkaṭān |
-  
-śaktā vañcayituṃ dhūrtā brāhmaṇaṃ chāgalad iva ||Panc_3.116||  
-
-  
-meghavarṇa āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 3
-  
-mitra-śarma-brāhmaṇa-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne mitraśarmā nāma brāhmaṇaḥ kṛtāgnihotra-parigrahaḥ prativasati sma | tena kadācin māgha-māse saumyānile pravāti, meghācchādite gagane mandaṃ mandaṃ pravarṣati parjanye, paśu-prārthanārthaṃ kiñcid grāmāntaraṃ gatvā, kaścid yajamāno yācitaḥ-bho yajamāna ! āgāminyām amāvāsyāyām ahaṃ yakṣyāmi yajñam | tad dehi me paśum ekam |   
-
-  
-atha tena yasya śāstroktaḥ pīvara-tanuḥ paśuḥ pradattaḥ | so 'pi taṃ samartham itaś cetaś ca gacchantaṃ vijñāya skandhe kṛtvā satvaraṃ sva-purābhimukhaḥ pratasthe |  
-
-  
-atha tasya gacchato mārge trayo dhūrtāḥ kṣut-kṣāma-kaṇṭhāḥ saṃmukhā babhūvuḥ | taiś ca tādṛśaṃ pīvara-tanuṃ skandha ārūḍham ālokya, mitho 'bhihitaṃ-aho ! asya paśor bhakṣaṇād adyatanīyo hima-pāto vyarthatāṃ nīyate | tad enaṃ vañcayitvā paśum ādāya śīta-trāṇaṃ kurmaḥ |   
-
-  
-atha teṣām ekatamo veśa-parivartanaṃ vidhāya saṃmukho bhūtvāpamārgeṇa tam āhitāgnim ūce-bho bhoḥ ! bālāgnihotrin ! kim evaṃ jana-viruddhaṃ hāsya-kāryam anuṣṭhīyate ? yad eṣa sārameyo 'pavitraḥ skandhādhirūḍho nīyate | uktaṃ ca yataḥ |  
-
-  
-śvāna-kukkuṭa-cāṇḍālāḥ sama-sparśāḥ prakīrtitāḥ |
-  
-rāsabhoṣṭrau viśeṣeṇa tasmāt tān naiva saṃspṛśet ||Panc_3.117||  
-
-  
-tataś ca tena kopābhibhūtenābhihitam-aho ! kim andho bhavān ? yat paśuṃ sārameyatvena pratipādayasi ?   
-
-  
-so 'bravīt-brahman ! kopas tvayā na kāryaḥ | yathecchaṃ gamyatām |   
-
-  
-atha yāvat kiñcid adhvano 'ntaraṃ gacchati, tāvad dvitīyo dhūrtaḥ sammukham abhyupetya tam uvāca-bhoḥ brahman ! kaṣṭaṃ kaṣṭam ! yadyapi vallabho 'yaṃ te mṛta-vatsas tathāpi skandham āropayitum ayuktam | uktaṃ ca yataḥ-  
-
-  
-tiryañcaṃ mānuṣaṃ vāpi yo mṛtaṃ saṃspṛśet kudhīḥ |
-  
-pañca-gavyena śuddhiḥ syāt tasya cāndrāyaṇena vā ||Panc_3.118||  
-
-  
-athāsau sa-kopam idam āha-bhoḥ ! kim andho bhavān ? yat paśuṃ mṛta-vatsaṃ vadati |   
-
-  
-so 'bravīt-bhagavan ! mā kopaṃ kuru | ajñānān mayābhihitam | tat tvam ātma-ruciṃ samācara iti |  
-
-  
-atha yāvat stokaṃ vanāntaraṃ gacchati tāvat tṛtīyo 'nya-veśa-dhārī dhūrtaḥ sammukhaḥ samupetya tam uvāca-bhoḥ ! ayuktam etat, yad rāsabhaṃ skandhādhirūḍhaṃ nayasi | tat tyajyatām eṣaḥ | uktaṃ ca-  
-
-  
-yaḥ spṛśed rāsabhaṃ martyo jñānād ajñānato 'pi vā |
-  
-sa-cailaṃ snānam uddiṣṭaṃ tasya pāpa-praśāntaye ||Panc_3.119||  
-
-  
-tat tyajainaṃ yāvad anyaḥ kaścin na paśyati |  
-
-  
-athāsau taṃ paśuṃ rāsabhaṃ manyamāno bhayād bhūmau prakṣipya sva-gṛham uddiśya palāyituṃ prārabdhaḥ | tatas te'pi trayo militvā paśum ādāya yathecchaṃ bhakṣitum ārabdhāḥ |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-bahu-buddhi-samāyuktāḥ (116) iti | athavā sādhv idam ucyate-  
-
-  
-abhinava-sevaka-vinayaiḥ prāghuṇakoktair vilāsinīr uditaiḥ |
-  
-dhūrta-jana-vacana-nikarair iha kaścid avañcito nāsti ||Panc_3.120||  
-
-  
-kiṃ ca-durbalair api bahubhiḥ saha virodho na yuktaḥ | uktaṃ ca-  
-
-  
-bahavo na viroddhavyā durjayā hi mahājanāḥ |
-  
-sphurantam api nāgendraṃ bhakṣayanti pipīlikāḥ ||Panc_3.121||  
-
-  
-meghavarṇa āha-katham etat ?  
-
-  
-sthirajīvī kathayati-  
-
-  
-kathā 4
-  
-atidarpa-nāma-sarpa-kathā  
-
-  
-asti kasmiṃścid valmīke mahā-kāyaḥ kṛṣṇa-sarpo 'tidarpo nāma | sa kadācid vilānusāri-mārgam utsṛjyānyena laghu-dvāreṇa niṣkramitum ārabdhaḥ | niṣkrāmataś ca tasya mahā-kāyatvād daiva-vaśatayā laghu-vivaratvāc ca śarīre vraṇaḥ samutpannaḥ | atha vraṇa-śoṇita-gandhānusāriṇībhiḥ pipīlikābhiḥ sarvato vyāpto vyākulīkṛtaś ca | kati vyāpādayati kati vā tāḍayati ? atha prabhūtatvād vistārita-bahu-vraṇaḥ kṣata-sarvāṅgo 'tidarpaḥ pañcatvam upāgataḥ |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-bahavo na viroddhavyā (121) iti | tad atrāsti me kiñcid vaktavyam eva | tad avadhārya yathoktam anuṣṭhīyatām |   
-
-  
-meghavarṇa āha-tat samādeśaya | tavādeśo nānyathā kartavyaḥ |   
-
-  
-sthirajīvī prāha-vatsa ! samākarṇaya tarhi | sāmādīn atikramya yo mayā pañcama upāyo nirūpitaḥ | tan māṃ vipakṣa-bhūtaṃ kṛtvāni niṣṭhura-vacanair nirbhartsya | yathā vipakṣa-praṇidhīnāṃ pratyayo bhavati, tathā samāhṛta-rudhirair ālipyāsyaiva nyagrodhasyādhastāt prakṣipya māṃ gamyatāṃ parvatam ṛṣyamūkaṃ prati | tatra sa-parivāras tiṣṭha, yāvad ahaṃ samastān sapatnān supraṇītena vidhinā viśvāsyābhimukhān kṛtvā kṛtārtho jñāta-durga-madhyo divase tān andhatāṃ prāptāṃs tvāṃ nītvā vyāpādayāmi | jñātaṃ mayā samyak nānyathāsmākaṃ siddhir asti | yato durgam etad apasāra-rahitaṃ kevalaṃ vadhāya bhaviṣyati | uktaṃ ca-  
-
-  
-apasāra-samāyuktaṃ na yajñair durgam ucyate |
-  
-apasāra-parityaktaṃ durga-vyājena bandhanam ||Panc_3.122||  
-
-  
-na ca tvayā mad-arthaṃ kṛpā kāryā | uktaṃ ca-  
-
-  
-api prāṇa-samān iṣṭān pālitān lālitān api |
-  
-bhṛtyān yuddhe samutpanne paśyec chuṣkam ivendhanam ||Panc_3.123||  
-
-  
-tathā ca-
-  
-prāṇavad rakṣayed bhṛtyān svakāyam iva poṣayet |
-  
-sadaika-divasasyārthe yatra syād ripu-saṅgamaḥ ||Panc_3.124||  
-
-  
-tat tvayāhaṃ nātra viṣaye pratiṣedhanīyaḥ | ity uktvā tena saha śuṣka-kalahaṃ kartum ārabdhaḥ | athānye tasya bhṛtyāḥ sthirajīvinam ucchṛṅkhala-vacanair jalpantam avalokya tasya vadhāyodyatā meghavarṇenābhihitāḥ-aho ! nivartadhvaṃ yūyam | aham evāsya śatru-pakṣapātino durātmanaḥ svayaṃ nigrahaṃ kariṣyāṃi | ity abhidhāya tasyopari samāruhya, laghubhiś cañcu-prahārais taṃ nihatyāhṛta-rudhireṇa plāvayitvā tad-upadiṣṭam ṛṣyamūka-parvataṃ sa-parivāro gataḥ |  
-
-  
-etasminn antare kṛkālikayā dviṣat-praṇidhī-bhūtayā tat sarvaṃ tad-amātya-vyasanaṃ kvacit pracalitaḥ sa-parivāra iti |   
-
-  
-atholūkādhipas tad ākarṇyāstam anavelāyāṃ sāmātyaḥ sa-parijano vāyasa-vadhārthaṃ pracalitaḥ | prāha ca-tvaryatāṃ tvaryatāṃ bhītaḥ śatruḥ palāyana-paraḥ puṇyair labhyate | uktaṃ ca-  
-
-  
-śatroḥ pracalane chidram ekam anyaṃ ca saṃśrayam |
-  
-kurvāṇo jāyate vaśyo vyagratve rāja-sevinām ||Panc_3.125||  
-
-  
-evaṃ bruvāṇaḥ samantān nyagrodha-pādapam adhaḥ pariveṣṭya vyavasthitaḥ | yāvan na kaścid vāyaso dṛśyate, tāvac chākhāgram adhirūḍho hṛṣṭa-manā vandibhir abhiṣṭūyamāno 'rimardanas tān parijanān provāca-aho ! jñāyatāṃ teṣāṃ mārgaḥ | katamena mārgeṇa pranaṣṭāḥ kākāḥ ? tad yāvan na durgaṃ samāśrayanti, tāvad eva pṛṣṭhato gatvā vyāpādyā bhavanti | uktaṃ ca-  
-
-  
-vṛttim apy āśritaḥ śatrur avadhyaḥ syāj jigīṣuṇā |
-  
-kiṃ punaḥ saṃśrito durgaṃ sāmagryā parayā yutam ||Panc_3.126||  
-
-  
-athaitasmin prastāve sthirajīvī cintayāmāsa-yad ete'smac chatravo 'nulabdhāsmad-vṛttāntā yathāgatam eva yānti tato mayā na kiñcit kṛtaṃ bhavati | uktaṃ ca-  
-
-  
-anārambho hi kāryāṇāṃ prathamaṃ buddhi-lakṣaṇam |
-  
-ārabdhasyānta-gamanaṃ dvitīyaṃ buddhi-lakṣaṇam ||Panc_3.127||  
-
-  
-tad varam anārambho na cārambha-vighātaḥ | tad aham etān śabdaṃ saṃśrāvya ātmānaṃ darśayāmi iti vicārya mandaṃ mandaṃ śabdam akarot | tac chrutvā te sakalā apy ulūkās tad-vadhāya prajagmuḥ | atha tenoktaṃ-aho ! ahaṃ sthirajīvī nāma meghavarṇasya mantrī | meghavarṇenaivedṛśīm avasthāṃ nītaḥ | tan nivedayatātma-svāmine | tena saha bahu vaktavyam asti |   
-
-  
-atha tair niveditaḥ sa ulūka-rājo vismayāviṣṭas tat-kṣaṇāt tasya sakāśaṃ gatvā provāca-bhoḥ bhoḥ ! kim etāṃ daśāṃ gatas tvam, tat kathyatām |   
-
-  
-sthirajīvī prāha-deva ! śrūyatāṃ tad-avasthā-kāraṇam | atīta-dine sa durātmā meghavarṇo yuṣmad-vyāpādita-prabhūta-vāyasānāṃ pīḍayā yuṣmākam upari kopa-śoka-grasto yuddhārthaṃ pracalita āsīt | tato mayābhihitaṃ-svāmin ! na yuktaṃ bhavatas tad-upari gantum | balavanta ete, bala-hīnāś ca vayam | uktaṃ ca-  
-
-  
-balīyasā hīna-balo virodhaṃ
-  
-na bhūti-kāmo manasāpi vāñchet |
-  
-na vadhyate vetasa-vṛttir atra
-  
-vyaktaṃ praṇāśo 'sti pataṅga-vṛtteḥ ||Panc_3.128||  
-
-  
-tat tasyoāyana-pradānena sandhir eva yuktaḥ | uktaṃ ca-  
-
-  
-balavantaṃ ripuṃ dṛṣṭvā sarvasvam api buddhimān |
-  
-dattvā hi rakṣayet prāṇān rakṣitais tair dhanaṃ punaḥ ||Panc_3.129||  
-
-  
-tac chrutvā durjana-kopitena tvat-pakṣa-pātinaṃ mām āśaṅkamānenemāṃ daśāṃ nītaḥ | tat tava pādau sāmprataṃ me śaraṇaṃ | kiṃ bahunā vijñaptena ? yāvad ahaṃ pracalituṃ śaknomi tāvat tvāṃ tasyāvāsaṃ nītvā sarva-vāyasa-kṣayaṃ vidhāsyāmi iti |   
-
-  
-athārimardanas tad ākarṇya pitṛ-pitāmaha-kramāgata-mantribhiḥ sārdhaṃ mantrayāṃcakre | tasya ca pañca mantriṇaḥ | tad yathā-raktākṣaḥ, krūrākṣaḥ, dīptākṣaḥ, vakranāsaḥ, prākārakarṇaś ceti | tatrādau raktākṣam apṛcchat-bhadra ! eṣa tāvat tasya ripor mantrī mama hasta-gataḥ | tat kiṃ kriyatām ? iti |  
-
-  
-raktākṣa āha-deva ! kim atra cintyate ? avicāritam ayaṃ hantavyaḥ, yataḥ-  
-
-  
-hīnaḥ śatrur nihantavyo yāvan na balavān bhavet |
-  
-prāpta-sva-pauruṣa-balaḥ paścād bhavati durjayaḥ ||Panc_3.130||  
-
-  
-kiṃ ca svayam upāgatā śrīs tyajyamānā śapatīti loke pravādaḥ | uktaṃ ca-  
-
-  
-kālo hi sakṛd abhyeti yan naraṃ kāla-kāṅkṣiṇam |
-  
-durlabhaḥ sa punas tena kāla-karmācikīrṣatā ||Panc_3.131||  
-
-  
-śrūyate ca yathā-  
-
-  
-kaścit kṣudra-samācāraḥ prāṇināṃ kāla-sannibhaḥ |
-  
-vicacāra mahāraṇye ghoraḥ śuni-lubdhakaḥ ||Panc_3.132||  
-
-  
-arimardanaḥ prāha-katham etat ?  
-
-  
-raktākṣaḥ kathayati-
-  
-kathā 5
-  
-brāhmaṇa-sarpa-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne haridatto nāma brāhmaṇaḥ | tasya ca kṛṣiṃ kurvataḥ sadaiva niṣphalaḥ kālo 'tivartate | athaikasmin divase sa brāhmaṇa uṣṇa-kālāvasāne gharmārtaḥ sva-kṣetra-madhye vṛkṣa-cchāyāyāṃ prasupto 'natidūre valmīkopari prasāritaṃ bṛhat-phaṭā-yuktaṃ bhīṣaṇaṃ bhujaṅgaṃ dṛṣṭvā cintayāmāsa-nūnam eṣā kṣetra-devatā mayā kadācid api na pūjitā | tenedaṃ me kṛṣi-karma viphalībhavati | tad asyā ahaṃ pūjām adya kariṣyāmi | ity avadhārya kuto 'pi kṣīraṃ yācitvā śarāve nikṣipya valmīkāntikam upagatyovāca-bhoḥ kṣetra-pāla ! mayaitvāvantaṃ kālaṃ na jñātaṃ yat tvam atra vasasi | tena pūjā na kṛtā | tat sāmprataṃ kṣamasveti |   
-
-  
-evam uktvā dugdhaṃ ca nivedya gṛhābhimukhaṃ prāyāt | atha prātar yāvad āgatya paśyati, tāvad dīnāram ekaṃ śarāve dṛṣṭavān | evaṃ ca pratidinam ekākī samāgatya tasmai kṣīraṃ dadāti, ekaikaṃ ca dīnāraṃ gṛhṇāti | athaikasmin divase kṣīra-nayanāya putraṃ nirūpya brāhmaṇo grāmāntaraṃ jagāma | putro 'pi kṣīraṃ tatra nītvā saṃsthāpya ca punar gṛhaṃ samāyātaḥ | dināntare tatra gatvā dīnārakaṃ dṛṣṭvā gṛhītvā ca cintitavān-nūnaṃ sauvarṇa-dīnāra-pūrṇo valmīkaḥ | tad enaṃ hatvā sarvam eka-vāraṃ grahīṣyāmi ity evaṃ sampradhāryānyedyuḥ kṣīraṃ dadatā brāhmaṇa-putreṇa sarpo laguḍena tāḍitaḥ | tataḥ katham api daiva-vaśād amukta-jīvit eva roṣāt tam eva tīvra-viṣada-śanais tathādaśat, yathā
-  
-sadyaḥ pañcatvam upāgataḥ | svajanaiś ca nātidūre kṣetrasya kāṣṭha-sañcayaiḥ saṃskṛtaḥ |  
-
-  
-atha dvitīya-dine tasya pitā samāyātaḥ | svajanebhyaḥ suta-vināśa-kāraṇaṃ śrutvā tathaiva samarthitavān | abravīc ca-  
-
-  
-bhūtān yo nānugṛhṇāti hy ātmanaḥ śaraṇāgatān |
-  
-bhūtārthās tasya naśyanti haṃsāḥ padma-vane yathā ||Panc_3.133||  
-
-  
-puruṣair uktaṃ-katham etat ?  
-
-  
-brāhmaṇaḥ kathayati-
-  
-kathā 6
-  
-haima-haṃsa-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne citraratho nāma rājā | tasya yodhaiḥ surakṣyamāṇaṃ padmasaro nāma saras tiṣṭhati tatra ca prabhūtā jāmbūnada-mayā haṃsās tiṣṭhanti | ṣaṇmāse ṣaṇmāse piccham ekaikaṃ parityajanti | atha tatra sarasi sauvarṇo bṛhat-pakṣī samāyātaḥ | taiś coktaḥ-asmākaṃ madhye tvayā na vastavyam | yena kāraṇenāsmābhiḥ ṣaṇmāsānte picchaikaika-dānaṃ kṛtvā gṛhītam etat saraḥ | evaṃ ca kiṃ bahunā, parasparaṃ dvaidham utpannam | sa ca rājñaḥ śaraṇaṃ gato 'bravīt-deva ! ete pakṣiṇa evaṃ vadanti, yad asmākaṃ rājā kiṃ kariṣyati ? na kasyāpy āvāsaṃ dadmaḥ |   
-
-  
-mayā coktaṃ-na śobhanaṃ yuṣmābhir abhihitam | ahaṃ gatvā rājñe nivedayiṣyāmi | evaṃ sthite devaḥ pramāṇam |   
-
-  
-tato rājā bhṛtyān abravīt-bho bhoḥ gacchata | sarvān pakṣiṇo gatāsūn kṛtvā śīghram ānayata | rājādeśānantaram eva pracelus te |  
-
-  
-atha laguḍa-hastān rāja-puruṣān dṛṣṭvā tatraikena pakṣiṇā vṛddhenoktam-bhoḥ svajanāḥ ! na śobhanam āpatitam | tataḥ sarvair eka-matī-bhūyotpatitavyam | taiś ca tathānuṣṭhitam |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-bhūtān yo nānugṛhṇāti (133) iti |   
-
-  
-ity uktvā punar api brāhmaṇaḥ pratyūṣe kṣīraṃ gṛhītvā tatra gatvā tāra-svareṇa sarpam astaut | tadā sarpaś ciraṃ valmīka-dvārāntar-līna eva brāhmaṇaṃ pratyuvāca-tvaṃ lobhād atrāgataḥ putra-śokam api vihāya | ataḥ paraṃ tava mama ca prītir nocitā | tava putreṇa yauvanonmādenāhaṃ tāḍito mayā sa dṛṣṭaḥ | kathaṃ mayā laguḍa-prahāro vismartavyaḥ | tvayā ca putra-śoka-duḥkhaṃ kathaṃ vismartavyam iti punar uktvā vivarāntar-gataḥ | brāhmaṇaś ca maṇiṃ gṛhītvā putra-buddhiṃ nindan sva-gṛham āgataḥ | ato 'haṃ bravīmi-citikāṃ dīpitāṃ paśya iti | tad asmin hate'yatnād eva rājyam akaṇṭakaṃ bhavato bhavati |  
-
-  
-tasyaitad-vacanaṃ śrutvā krūrākṣaṃ papraccha-bhadra ! tvaṃ tu kiṃ manyase ?   
-
-  
-so 'bravīt-deva ! nirdayam etad yad anenābhihitam | yat kāraṇaṃ śaraṇāgato na vadhyate suṣṭhu | khalv idam ākhyānam-  
-
-  
-śrūyate hi kapotena śatruḥ śaraṇam āgataḥ |
-  
-pūjitaś ca yathā-nyāyaṃ svaiś ca māṃsair nimantritaḥ ||Panc_3.134||  
-
-  
-arimardano 'bravīt-katham etat ?  
-
-  
-krūrākṣaḥ kathayati-
-  
-kathā 7
-  
-kapota-lubdhaka-kathā  
-
-  
-kaścid kṣudra-samācāraḥ prāṇināṃ kāla-sannibhaḥ |
-  
-vicacāra mahāraṇye ghoraḥ śakuni-lubdhakaḥ ||Panc_3.135||
-  
-naiva kaścit suhṛt tasya na sambandhī na bāndhavaḥ |
-  
-sa taiḥ sarvaiḥ parityaktas tena raudreṇa karmaṇā ||Panc_3.136||  
-
-  
-athavā-
-  
-ye nṛśaṃsā durātmanaḥ prāṇināṃ prāṇa-nāśakāḥ |
-  
-udvejanīyā bhūtānāṃ vyālā iva bhavanti te ||Panc_3.137||
-  
-sa pañjarakam ādāya pāśaṃ ca laguḍaṃ tathā |
-  
-nityam eva vanaṃ yāti sarva-prāṇi-vihiṃsakaḥ ||Panc_3.138||
-  
-anyedyur bhramatas tasya vane kāpi kapotikā |
-  
-jātā hasta-gatā tāṃ sa prākṣipat pañjcarāntare ||Panc_3.139||
-  
-atha kṛṣṇā diśaḥ sarvā vanasthasyābhavan ghanaiḥ
-  
-vāta-vṛṣṭiś ca mahato kṣaya-kāla ivābhavat ||Panc_3.140||
-  
-tataḥ sa trasta-hṛdayaḥ kampamāno muhur muhuḥ |
-  
-anveṣayan paritrāṇam āsasāda vanaspatim ||Panc_3.141||
-  
-muhūrtaṃ paśyate yāvad viyad vimala-tārakam |
-  
-prāpya vṛkṣaṃ vadaty evaṃ yo 'tra tiṣṭhati kaścana ||Panc_3.142||
-  
-tasyāhaṃ śaraṇaṃ prāptaḥ sa paritrātu mām iti |
-  
-śītena bhidyamānaṃ ca kṣudhayā gata-cetanam ||Panc_3.143||
-  
-atha tasya taroḥ skandhe kapotaḥ suciroṣitaḥ |
-  
-bhāryā-virahitas tiṣṭhan vilalāpa suduḥkhitaḥ ||Panc_3.144||
-  
-vāta-varṣo mahān āsīn na cāgacchati me priyā |
-  
-tayā virahitaṃ hy etac chūnyam adya gṛhaṃ mama ||Panc_3.145||
-  
-pativratā pati-prāṇā patyuḥ priya-hite ratā |
-  
-yasya syād īdṛśī bhāryā dhanyaḥ sa puruṣo bhuvi ||Panc_3.146||
-  
-na gṛhaṃ gṛham ity āhur gṛhiṇī gṛham ucyate |
-  
-gṛhaṃ tu gṛhiṇī-hīnam araṇya-sadṛśaṃ matam ||Panc_3.147||
-  
-pañjara-sthā tataḥ śrutvā bhartur duḥkhānvitaṃ vacaḥ |
-  
-kapotikā susantuṣṭā vākyaṃ cedam athāha sā ||Panc_3.148||
-  
-na sā strīty abhimantavyā yasyāṃ bhartā na tuṣyati |
-  
-tuṣṭe bhartari nārīṇāṃ tuṣṭāḥ syuḥ sarva-devatāḥ ||Panc_3.149||
-  
-dāvāgninā vidagdheva sa-puṣpa-stavakā latā |
-  
-bhasmībhavatu sā nārī yasyāṃ bhartā na tuṣyati ||Panc_3.150||
-  
-mitaṃ dadāti hi pitā mitaṃ bhrātā mitaṃ sutaḥ |
-  
-amitasya hi dātāraṃ bhartāraṃ kā na pūjayet ||Panc_3.151||  
-
-  
-punaś cābravīt-
-  
-śṛṇuṣvāvahitaḥ kānta yat te vakṣyāmy ahaṃ hitam |
-  
-prāṇair api tvayā nityaṃ saṃrakṣyaḥ śaraṇāgataḥ ||Panc_3.152||
-  
-eṣa śākunikaḥ śete tavāvāsaṃ samāśritaḥ |
-  
-śītārtaś ca kṣudhārtaś ca pūjām asmai samācara ||Panc_3.153||  
-
-  
-śrūyate ca-
-  
-yaḥ sāyam atithiṃ prāptaṃ yathā-śakti na pūjayet |
-  
-tasyāsau duṣkṛtaṃ dattvā sukṛtaṃ cāpakarṣati ||Panc_3.154||
-  
-mā cāsmai tvaṃ kṛthā dvaiṣaṃ baddhāneneti mat-priyā |
-  
-sva-kṛtair eva baddhāhaṃ prāktanaiḥ karma-bandhanaiḥ ||Panc_3.155||
-  
-dāridrya-roga-duḥkhāni bandhana-vyasanāni ca |
-  
-ātmāparādha-vṛkṣasya phalāny etāni dehinām ||Panc_3.156||
-  
-tasmāt tvaṃ dveṣam utsṛjya mad-bandhana-samudbhavam |
-  
-dharme manaḥ samādhāya pūjayainaṃ yathā-vidhi ||Panc_3.157||
-  
-tasyās tad-vacanaṃ śrutvā dharma-yukti-samanvitam |
-  
-upagamya tato 'dhṛṣṭaḥ kapotaḥ prāha lubdhakam ||Panc_3.158||
-  
-bhadra susvāgataṃ te'stu brūhi kiṃ karavāṇi te |
-  
-santāpaś ca na kartavyaḥ sva-gṛhe vartate bhavān ||Panc_3.159||
-  
-tasya tad-vacanaṃ śrutvā pratyuvāca vihaṅgamam |
-  
-kapota khalu śītaṃ me hima-trāṇaṃ vidhīyatām ||Panc_3.160||
-  
-sa gatvāṅgārakaṃ nītvā pātayāmāsa pāvakam |
-  
-tataḥ śuṣkeṣu parṇeṣu tam āśu samadīpayat ||Panc_3.161||
-  
-susandīptaṃ tataḥ kṛtvā tam āha śaraṇāgatam |
-  
-pratāpayasva viśrabdhaṃ sva-gātrāṇy atra nirbhayaḥ ||Panc_3.162||
-  
-udgatena ca jīvāmo vayaṃ sarve vanaukasaḥ |
-  
-na cāsti vibhavaḥ kaścin nāśaye yena te kṣudham ||Panc_3.163||
-  
-sahasraṃ bharate kaścic chatamanyo daśāparaḥ |
-  
-mama tv akṛta-puṇyasya kṣudrasyātmāpi durbharaḥ ||Panc_3.164||
-  
-ekasyāpy atither annaṃ yaḥ pradātuṃ na śaktimān |
-  
-tasyāneka-parikleśe gṛhe kiṃ vasataḥ phalam ||Panc_3.165||
-  
-tat tathā sādhayāmy etac charīraṃ duḥkha-jīvitam |
-  
-yathā bhūyo na vakṣyāmi nāstīty arthi-samāgame ||Panc_3.166||
-  
-sa ninindi kilātmānaṃ na tu taṃ lubdhakaṃ punaḥ |
-  
-uvāca tarpayiṣye tvāṃ muhūrtaṃ pratipālaya ||Panc_3.167||
-  
-evam uktvā sa dharmātmā prahṛṣṭenāntarātmanā |
-  
-tam agniṃ samparikramya praviveśa sva-veśmavat ||Panc_3.168||
-  
-tatas taṃ lubdhako dṛṣṭvā kṛpayā pīḍito bhṛśam |
-  
-kapotam agnau patitaṃ vākyam etad abhāṣata ||Panc_3.169||
-  
-yaḥ karoti naraḥ pāpaṃ na tasyātmā dhruvaṃ priyaḥ |
-  
-ātmanā hi kṛtaṃ pāpam ātmanaiva hi bhujyate ||Panc_3.170||
-  
-so 'haṃ pāpa-matiś caiva pāpa-karma-rataḥ sadā |
-  
-patiṣyāmi mahā-ghore narake nātra saṃśayaḥ ||Panc_3.171||
-  
-nūnaṃ mama nṛśaṃsasya pratyādarśaḥ sudarśitaḥ |
-  
-prayacchatā sva-māṃsāni kapotena mahātmanā ||Panc_3.172||
-  
-adya-prabhṛti dehaṃ svaṃ sarva-bhoga-vivarjitam |
-  
-toyaṃ svalpaṃ yathā grīṣmaḥ śoṣayiṣyāmy ahaṃ punaḥ ||Panc_3.173||
-  
-śīta-vātātapa-sahaḥ kṛśāṅgo malinas tathā |
-  
-upavāsair bahuvidhaiś cariṣye dharmam uttamam ||Panc_3.174|| tato yaṣṭiṃ śalākāṃ ca jālakaṃ pañjaraṃ tathā |
-  
-babhañja lubdhako dīnāṃ kāpotīṃ ca mumoca tām ||Panc_3.175||
-  
-lubdhakena tato muktā dṛṣṭvāgnau patitaṃ patim |
-  
-kapotī vilalāpārtā śoka-santapta-mānasā ||Panc_3.176||
-  
-na kāryam adya me nātha jīvitena tvayā vinā |
-  
-dīnāyāḥ pati-hīnāyāḥ kiṃ nāryā jīvite phalam ||Panc_3.177||
-  
-māno darpas tv ahaṅkāraḥ kulaṃ pūjā ca bandhuṣu |
-  
-dāsa-bhṛtya-janeṣv ājñā vaidhavyena praṇaśyati ||Panc_3.178||
-  
-evaṃ vilapya bahuśaḥ kṛpaṇaṃ bhṛśa-duḥkhitā |
-  
-pativratā susandīptaṃ tam evāgniṃ viveśa sā ||Panc_3.179||
-  
-tato divyāmbara-dharā divyābharaṇa-bhūṣitā |
-  
-bhartāraṃ sā vimānasthaṃ dadarśa svaṃ kapotikā ||Panc_3.180||
-  
-so 'pi divya-tanur bhūtvā yathārtham idam abravīt |
-  
-aho mām anugacchantyā kṛtaṃ sādhu śubhe tvayā ||Panc_3.181||
-  
-tisraḥ koṭyo 'rdha-koṭī ca yāni romāṇi mānuṣe |
-  
-tāvat kālaṃ vaset svarge bhartāraṃ yānugacchati ||Panc_3.182||
-  
-kapota-dehaḥ sūryāste pratyahaṃ sukham anvabhūt |
-  
-kapota-dehavatsāsīt prāk puṇya-prabhavaṃ hitam ||Panc_3.183||
-  
-harṣāviṣṭas tato vyādho viveśa ca vanaṃ dhanam |
-  
-prāṇi-hiṃsāṃ parityajya bahu-nirvedavān bhṛśam ||Panc_3.184||
-  
-tatra dāvānalaṃ dṛṣṭvā viveśa viratāśayaḥ |
-  
-nirdagdha-kalmaṣo bhūtvā svarga-saukhyam avāptavān ||Panc_3.185||  
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-śrūyate hi kapotena (134) ity ādi |  
-
-  
-tac chrutvārimardano dīptākṣaṃ pṛṣṭavān-evam avasthite kiṃ bhavān manyate ?   
-
-  
-so 'bravīt-deva ! na hantavya evāyam | yataḥ-  
-
-  
-yā mamodvijate nityaṃ sā mamādyāvagūhate |
-  
-priya-kāraka bhadraṃ te yan mamāsti harasva tat ||Panc_3.186||  
-
-  
-coreṇa cāpy uktam-  
-
-  
-hartavyaṃ te na paśyāmi hartavyaṃ ced bhaviṣyati |
-  
-punar apy āgamiṣyāmi yadīyaṃ nāvagūhate ||Panc_3.187||  
-
-  
-arimardanaḥ pṛṣṭavān-kā ca nāvagūhate ? kaś cāyaṃ cauraḥ ? iti vistarataḥ śrotum icchāmi |  
-
-  
-dīptākṣaḥ kathayati-
-  
-kathā 8
-  
-kāmātura-vaṇik-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne kāmāturo nāma vṛddha-vaṇik | tena ca kāmopahṛta-cetasā, mṛta-bhāryeṇa kācin nirdhana-vaṇik-sutā, prabhūtaṃ dhanaṃ dattvodvāhitā | atha sā duḥkhābhibhūtā taṃ vṛddha-vaṇijaṃ draṣṭum api na śaśāka | yuktaṃ caitat-  
-
-  
-śvetaṃ padaṃ śirasi yat tu śiroruhāṇāṃ 
-  
-sthānaṃ paraṃ paribhavasya tad eva puṃsām |
-  
-āropitāsthi-śakalaṃ parihṛtya yānti 
-  
-cāṇḍāla-kūpam iva dūrataraṃ taruṇyaḥ ||Panc_3.188||  
-
-  
-tathā ca-
-  
-gātraṃ saṅkucitaṃ gatir vigalitā dantāś ca nāśaṅgatā
-  
-dṛṣṭir bhrāmyati rūpam apy upahataṃ vaktraṃ ca lālāyate |
-  
-vākyaṃ naiva karoti bāndhava-janaḥ patnī na śuśrūṣate
-  
-dhik kaṣṭaṃ jarayābhibhūta-pūruṣaṃ putro 'py avajñāyate ||Panc_3.189||  
-
-  
-atha kadācit sā tena sahaikaśayane parāṅmukhī yāvat tiṣṭhati tāvad gṛhe cauraḥ praviṣṭaḥ | sāpi taṃ cauraṃ dṛṣṭvā bhaya-vyākulitā vṛddham api taṃ patiṃ gāḍhaṃ samāliliṅga | so 'pi vismayāt pulakāñcita-sarva-gātraś cintayāmāsa-aho kim eṣā mām adyāvagūhate ? yāvan nipuṇatayā paśyati tāvat gṛha-koṇaika-deśe cauraṃ dṛṣṭvā vyacintayat-nūnam eṣāsya bhayān mām āliṅgati iti jñātvā taṃ cauram āha-yā mamodvijate (186) ity ādi |  
-
-  
-tac chrutvā cauro 'py āha-hartavyaṃ te na paśyāmi (187) ity ādi | tasmāc caurasyāpy upakāraḥ śreyaś cintyate kiṃ punaḥ śaraṇāgatasya | api cāyaṃ tair viprakṛto 'smākam eva puṣṭaye bhaviṣyati tadīya-randhra-darśanāya ceti anena kāraṇenāyam avadhya iti |  
-
-  
-etad ākarṇyārimardano 'nyaṃ sacivaṃ vakranāsaṃ papraccha-bhadra ! sāmpratam evaṃ sthite kiṃ karaṇīyam iti ?   
-
-  
-so 'bravīt-deva ! avadhyo 'yam | yataḥ-  
-
-  
-śatravo 'pi hitārthaiva vivadantaḥ parasparam |
-  
-caureṇa jīvitaṃ dattaṃ rākṣasena tu go-yugam ||Panc_3.190||  
-
-  
-arimardanaḥ prāha-katham etat ?  
-
-  
-vakranāsaḥ kathayati-
-  
-kathā 10
-  
-droṇākhya-brāhmaṇa-kathā   
-
-  
-asti kasmiṃścid adhiṣṭhāne daridro droṇa-nāmā brāhmaṇaḥ, pratigraha-dhanaḥ satataṃ viśiṣṭa-vastrānulepana-gandha-mālyālaṅkāra-tāmbūlādi-bhoga-parivarjitaḥ, prarūḍha-keśa-śmaśru-nakha-romopacitaḥ, śītoṣṇa-vāta-varṣādibhiḥ pariśoṣita-śarīraḥ, tasya ca kenāpi yajamānenānukampayā śiśu-go-yugaṃ dattam | brāhmaṇena ca bāla-bhāvād ārabhya yācita-ghṛta-taila-yavasādibhiḥ saṃvardhya supuṣṭaṃ kṛtam | tac ca dṛṣṭvā sahasaiva kaścic cauraś cintitavān-aham asya brāhmaṇasya go-yugam idam apahariṣyāmi | iti niścitya niśāyāṃ bandhana-pāśaṃ gṛhītvā, yāvat prasthitas tāvad ardha-mārge pravirala-tīkṣṇa-danta-paṅktir unnata-nāsā-vaṃśaḥ, prakaṭa-raktānta-nayanaḥ upacita-snāyu-santatanata-gātraḥ śuṣka-kapolaḥ
-  
-suhuta-hutavaha-piṅgala-śmaśru-keśa-śarīraḥ kaścid dṛṣṭaḥ | dṛṣṭvā ca taṃ tīvra-bhaya-trasto cauro 'bravīt-ko bhavān ? iti |  
-
-  
-so 'bravīt-ahaṃ krūra-karmā cauro daridra-brāhmaṇasya go-yugaṃ hartuṃ prasthito 'smi |  
-
-  
-atha jāta-pratyayo rākṣaso 'bravīt-bhadra ! ṣaṣṭhāhna-kāliko 'ham | atas tam eva brāhmaṇam adya bhakṣayiṣyāmi |  
-
-  
-atha tau tatra gatvaikānte kānlam anveṣayantau sthitau | prasupte ca brāhmaṇe tad-bhakṣaṇārthaṃ prasthitaṃ rākṣasaṃ dṛṣṭvā cauro 'bravīt-bhadra ! naiṣanyāyo yato go-yuge mayāpahṛte paścāt tvam enaṃ brāhmaṇaṃ bhakṣaya |   
-
-  
-so 'bravīt-kadācid ayaṃ brāhmaṇo go-śabdena budhyeta tadānarthako 'yaṃ mamārambhaḥ syāt |   
-
-  
-cauro 'py abravīt-tavāpi yadi bhakṣaṇāyopasthitasya eko 'py antarāyaḥ syāt | tadāham api na śaknomi go-yugam apahartum | ataḥ prathamaṃ mayāpahṛte go-yuge paścāt tvayā brāhmaṇo bhakṣitavyaḥ | itthaṃ cāham ahamikayā tayor vivadatoḥ samutpanne dvaidhe pratirava-vaśād brāhmaṇo jajāgāra |  
-
-  
-atha taṃ cauro 'bravīt-brāhmaṇa ! tvām evāyaṃ rākṣaso bhakṣayitum icchati iti |   
-
-  
-rākṣaso 'py āha-brāhmaṇa ! cauro 'yaṃ go-yugaṃ te'pahartum icchati |   
-
-  
-evaṃ śrutvotthāya brāhmaṇaḥ sāvadhāno bhūtveṣṭa-devatā-mantra-dhyānenātmānaṃ rākṣasād udgūrṇa-laguḍena caurād go-yugaṃ rarakṣa |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-śatravo 'pi hitārthaiva (190) iti |  
-
-  
-atha tasya vacanam avadhāryārimardanaḥ punar api prākārakarṇam apṛcchat-kathaya, kim atra manyate bhavān ?   
-
-  
-so 'bravīt-deva ! avadhya evāyam, yato rakṣitenānena kadācit paraspara-prītyā kālaḥ sukhena gacchati | uktaṃ ca-  
-
-  
-parasparasya marmāṇi ye na rakṣanti jantavaḥ |
-  
-ta eva nidhanaṃ yānti valmīkodara-sarpavat ||Panc_3.191||  
-
-  
-arimardano 'bravīt-katham etat ?  
-
-  
-prākārakarṇaḥ kathayati-  
-
-  
-kathā 10
-  
-valmīkodara-gata-sarpa-kathā  
-
-  
-asti kasmiṃścin nagare devaśaktir nāma rājā | tasya ca putro jaṭhara-valmīkāśrayeṇorageṇa pratidinaṃ pratyaṅgaṃ kṣīyate | anekopacāraiḥ sad-vaidyaiḥ sac-chāstropadiṣṭauṣadha-yuktyāpi cikitsyamāno na svāsthyam eti | athāsau rājaputro nirvedād deśāntaraṃ gataḥ |  
-
-  
-kasmiṃścin nagare bhikṣāṭanaṃ kṛtvā mahati devālaye kālaṃ yāpayati | atha tatra nagare balir nāma rājāste | tasya ca dve duhitarau yauvana-sthe tiṣṭhataḥ | te ca pratidivasam ādityodaye pituḥ pādāntikam āgatya namaskāraṃ cakratuḥ | tatra caikābravīt-vijayasva mahārāja ! yasya prasādāt sarvaṃ sukhaṃ labhyate |  
-
-  
-dvitīyā tu-vihitaṃ bhuṅkṣva mahārāja ! iti bravīti |  
-
-  
-tac chrutvā prakupito rājābravīt-bho mantriṇaḥ ! enāṃ duṣṭa-bhāṣiṇīṃ kumārikāṃ kasyacid vaideśikasya prayacchata tena nija-vihitam iyam eva bhuṅkte |  
-
-  
-atha tatheti pratipadyālpa-parivārā sā kumārikā mantribhis tasya deva-kulāśrita-rāja-putrasya pratipāditā | sāpi prahṛṣṭa-manasā taṃ patiṃ devavat pratipadyādāya cānya-viṣayaṃ gatā |   
-
-  
-tataḥ kasmiṃścid dūratara-nagara-pradeśe taḍāga-taṭe rāja-putram āvāsa-rakṣāyai nirūpya svayaṃ ca ghṛta-taila-lavaṇa-taṇḍulādi-kraya-nimittaṃ sa-parivārā gatā | kṛtvā ca kraya-vikrayaṃ yāvad āgacchati tāvat sa rāja-putro valmīkopari kṛta-mūrdhā prasuptaḥ | tasya ca mukhād bhujagaḥ phaṇāṃ niṣkāsya vāyum aśnāti | tatraiva ca valmīke'paraḥ sarpo niṣkramya tathaivāsīt |  
-
-  
-atha tayoḥ paraspara-darśanena krodha-saṃrakta-locanayor madhyād valmīkasthena sarpeṇoktam-bho bho durātman ! kathaṃ sundara-sarvāṅgaṃ rāja-putram itthaṃ kadarthayasi ?   
-
-  
-mukhastho 'rir abravīt-bho bhoḥ ! tvayāpi durātmanāsya valmīkasya madhye katham idaṃ dūṣitaṃ hāṭaka-pūrṇaṃ kalaśa-yugalam ity evaṃ parasparasya marmāṇy udghāṭitavantau |   
-
-  
-punar valmīkastho 'hir abravīt-bho durātman !  bheṣajam idaṃ te kiṃ ko 'pi na jānāti yaj jīrṇotkālita-kāñjikā-rājikā-pānena bhavān vināśam upayāti |  
-
-  
-athodarastho 'hir abravīt-tavāpy etad bheṣajaṃ kiṃ kaścid api na vetti yad uṣṇa-tailena mahoṣṇodakena vā tava vināśaḥ  syād iti | evaṃ ca sā rāja-kanyā viṭapāntaritā tayoḥ parasparālāpān marma-mayān ākarṇya tathaivānuṣṭhitavatī |  
-
-  
-vidhāya vyaṅgaṃ nīrogaṃ bhartāraṃ nidhiṃ ca paramam āsādya svadeśābhimukhaṃ prāyāt | pitṛ-mātṛ-svajanaiḥ pratipūjitā vihitopabhogaṃ prāpya sukhenāvasthitā | ato 'haṃ bravīmi-parasparasya marmāṇi iti |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-tac ca śrutvā svayam arirdano 'py evaṃ samarthitavān | tathā cānuṣṭhitam | dṛṣṭvāntar-līnaṃ vihasya raktākṣaḥ punar abravīt-kaṣṭam | vināśito 'yaṃ bhavadbhir anyāyena svāmī | uktaṃ ca-  
-
-  
-apūjyā yatra pūjyante pūjyānāṃ tu vimānanā |
-  
-trīṇi tatra pravartante durbhikṣaṃ maraṇaṃ bhayam ||Panc_3.192||  
-
-  
-tathā ca-
-  
-pratyakṣe'pi kṛte pāpe mūrkhaḥ sāmnā praśāmyati |
-  
-ratha-kāraḥ svakāṃ bhāryāṃ sajārāṃ śirasāvahat ||Panc_3.193||  
-
-  
-mantriṇaḥ prāhuḥ-katham etat ?  
-
-  
-raktākṣaḥ kathayati-
-  
-kathā 11
-  
-vīravara-rathakāra-tat-patnī-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne vīravaro nāma rathakāraḥ | tasya bhāryā kāmadamanī | sā puṃścalī janāpavāda-saṃyuktā | so 'pi tasyāḥ parīkṣaṇārthaṃ vyacintayat-atha mayāsyāḥ parīkṣaṇaṃ kartavyam | uktaṃ ca-  
-
-  
-yadi syāt pāvakaḥ śītaḥ proṣṇī vā śaśa-lāñchanaḥ |
-  
-strīṇāṃ tadā satītvaṃ syād yadi syād durjano hitaḥ ||Panc_3.194||  
-
-  
-jānāmi caināṃ loka-vacanād asatīm | uktaṃ ca-  
-
-  
-yac ca vedeṣu śāstreṣu na dṛṣṭaṃ na ca saṃśrutam |
-  
-tat sarvaṃ vetti loko 'yaṃ yat syād brahmāṇḍa-madhyagam ||Panc_3.195||  
-
-  
-evaṃ sampradhārya bhāryām avocat-priye ! prabhāte'haṃ grāmāntaraṃ yāsyāmi | tatra katicid dināni lagiṣyanti | tat tvayā kim api pātheyaṃ mama yogyaṃ vidheyam |   
-
-  
-sāpi tad-vacanaṃ śrutvā harṣita-cittā | autsukyāt sarva-kāryāṇi santyajya siddham annaṃ ghṛta-śarkarā-prāyam akarot | athavā sādhv idam ucyate-  
-
-  
-durdivase ghana-timire varṣati jalade mahāṭavī-prabhṛtau |
-  
-patyur videśa-gamane parama-sukhaṃ jaghana-capalāyāḥ ||Panc_3.196||  
-
-  
-athāsau pratyūṣe utthāya sva-gṛhān nirgataḥ sāpi taṃ prasthitaṃ vijñāya prahasita-vadanāṅga-saṃskāraṃ kurvāṇā kathañcit taṃ divasam atyavāhayat | atha pūrva-paricita-viṭa-gṛhe gatvā taṃ pratyuktavatī-sa durātmā me patir grāmāntaraṃ gataḥ | tat tvayāsmad-gṛhe prasupte jane samāgantavyam |  
-
-  
-tathānuṣṭhite sa rathakāro 'raṇye dinam ativāhya pradoṣe sva-gṛhe'padvāreṇa praviśya śayyādhas-tale nibhṛto bhūtvā sthitaḥ | etasminn antare sa devadattaḥ samāgatya tatra śayane upaviṣṭaḥ | dṛṣṭvā roṣāviṣṭa-citto rathakāro vyacintayat-kim enam utthāya hanmi ? athavā helayaiva prasuptau dvāv apy etau vyāpādayāmi ? paraṃ paśyāmi tāvad asyāś ceṣṭitam | śṛṇomi cānena sahālāpam |  
-
-  
-atrāntare sā gṛha-dvāraṃ nibhṛtaṃ pidhāya śayana-talam ārūḍhā | tasyās tatrārohayantyā rathakāra-śarīre pādo vilagnaḥ | tataḥ sā vyacintayat-nūnam etena durātmanā rathakāreṇa mat-parīkṣaṇārthaṃ bhāvyam | tataḥ strī-caritra-vijñānaṃ kim api karomi |  
-
-  
-evaṃ tasyāś cintayanyā sa devadattaḥ sparśotsuko babhūva | atha tayā kṛtāñjali-puṭayābhihitaṃ-bhoḥ mahānubhāva ! na me śarīraṃ tvayā sparśanīyaṃ yato 'haṃ pativratā mahāsatī ca | no cec chāpaṃ dattvā tvāṃ bahsmasātkariṣyāmi |   
-
-  
-sa āha-yady evaṃ tarhi tvayā kim aham āhūtaḥ ?   
-
-  
-sābravīt-bhoḥ śṛṇuṣvaikāgra-manāḥ | aham adya pratyūṣe devatā-darśanārthaṃ caṇḍkāyatanaṃ gatā tatrākasmāt khe vāṇī sañjātā-putri kiṃ karomi ? bhaktāsi me tvaṃ, paraṃ ṣaṇmāsābhyantare vidhi-niyogād vidhavā bhaviṣyasi |   
-
-  
-tato mayābhihitaṃ-bhagavati ! yathā tvam āpadaṃ vetsi, tathā tat-pratīkāram api jānāsi | tad asti kaścid upāyo yena me patiḥ śata-saṃvatsara-jīvī bhavati ?  
-
-  
-tatas tayābhihitam-vatse, sann api nāsti, yatas tavāyattaḥ sa pratīkāraḥ |  
-
-  
-tac chrutvā mayābhihitam-devi ! yadi tan mama prāṇair bhavati tad ādeśaya yena karomi |  
-
-  
-atha devyābhihitam-yady adya para-puruṣeṇa sahaikasmin śayane samāruhyāliṅganaṃ karoṣi tat tava bhartṛ-sakto 'pamṛtyus tasya sañcarati | bhartāpi tena punar varṣa-śataṃ jīvati | tena tvaṃ mayābhyarthitaḥ | tad yat kiñcit kartu-manās tat kuruṣva | na hi devatā-vacanam anyathā bhaviṣyatīti niścayaḥ | tato 'ntarhāsa-vikāsa-mukhaḥ sa tad-ucitam ācacāra |  
-
-  
-so 'pi rathakāro mūrkhas tasyās tad-vacanam ākarṇya pulakāñcita-tanuḥ śayyādhastalān niṣkramya tām uvāca-sādhu pativrate ! sādhu kula-nandini ! ahaṃ durjana-vacana-śaṅkita-hṛdayas tvat-parīkṣā-nimittaṃ grāmāntara-vyājaṃ kṛtvā khaṭvādhas-tale nibhṛtaṃ līnaḥ | tad ehi, āliṅga mām | tvaṃ sva-bhartṛ-bhaktānāṃ mukhyā nārīṇāṃ, yad evaṃ brahma-vrataṃ para-saṅge'pi pālitavatī | yad āyur buddhi-kṛte'pamṛtyu-vināśārthaṃ catvam evaṃ kṛtavatī | tām evam uktvā sasneham āliṅgitavān |  
-
-  
-sva-skandhe tām āropya tām api devadattam uvāca-bho mahānubhāva ! mat-puṇyais tvam ihāgataḥ | tvat-prasādān mayā prāptaṃ varṣa-śata-pramāṇam āyuḥ | tat tvam api mām āliṅgya mat-skandhe samāroha iti jalpann anicchantam api devadattam āliṅgya balāt svakīya-skandhe āropitavān |  
-
-  
-tataś ca nṛtyaṃ kṛtvā-he brahma-vrata-dharāṇāṃ dhurīṇa ! tvayāpi mayy upakṛtam ity ādy uktvā skandhād uttārya yatra yatra svajana-gṛha-dvārādiṣu babhrāma tatra tatra tayor ubhayor api tad-guṇa-varṇanam akarot |   
-
-  
-ato 'haṃ bravīmi-pratyakṣe'pi kṛte pāpe (193) iti |  
-
-  
-tat sarvathā mūlotkhātā vayaṃ vinaṣṭāḥ smaḥ | suṣṭhu khalv idam ucyate-  
-
-  
-mitra-rūpā hi ripavaḥ sambhāvyante vicakṣaṇaiḥ |
-  
-ye hitaṃ vākyam utsṛjya viparītopasevinaḥ ||Panc_3.197||  
-
-  
-tathā ca-
-  
-santo 'py arthā vinaśyanti deśa-kāla-virodhinaḥ |
-  
-aprājñān mantriṇaḥ prāpya tamaḥ sūryodaye yathā ||Panc_3.198||  
-
-  
-tatas tad-vaco 'nādṛtya sarve te sthirajīvinam utkṣipya sva-durgam ānetum ārabdhāḥ | athānīyamānaḥ sthirajīvy āha-deva ! adyākiñcitkareṇaitad avasthena kiṃ mayopasaṅgṛhītena ? yat kāraṇam icchāmi dīptaṃ vahnim anupraveṣṭum | tad arhasi mām agni-pradānena samuddhartum |   
-
-  
-atha raktākṣasyāntargata-bhāvaṃ jñātvāha-kim-artham agni-patanam icchasi ?   
-
-  
-so 'bravīt-ahaṃ tāvad yuṣmad-artham imām āpadaṃ meghavarṇena prāpitaḥ | tad icchāmi teṣāṃ vaira-yātanārtham ulūkatvam iti |   
-
-  
-tac ca śrutvā rājanīti-kuśalo raktākṣaḥ prāha-bhadra ! kuṭilas tvaṃ kṛtaka-vacana-caturaś ca | tāvad ulūka-yoni-gato 'pi svakīyām eva vāyasa-yoniṃ bahu manyase | śrūyate caitad ākhyānakam |  
-
-  
-sūryaṃ bhartāram utsṛjya parjanyaṃ mārutaṃ girim |
-  
-sva-jātiṃ mūṣikā prāptā svajātir duratikramā ||Panc_3.199||  
-
-  
-mantriṇaḥ procuḥ--katham etat ?  
-
-  
-raktākṣaḥ kathayati-  
-
-  
-kathā 11
-  
-śālaṅkāyana-rakṣita-mūṣikā-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne śālaṅkāyano nāma tapodhano jāhnavyāṃ snānārthaṃ gataḥ | tasya ca sūryopasthānaṃ kurvatas tatra pradeśe mūṣikā kācit kharatara-nakhāgra-puṭena śyenena gṛhītā | dṛṣṭvā sa muniḥ karuṇārdra-hṛdayo muñca muñceti kurvāṇas tasyopari pāṣāṇa-khaṇḍaṃ prākṣipat | so 'pi pāṣāṇa-khaṇḍa-prahāra-vyākulendriyo bhraṣṭa-mūṣiko bhūmau nipapāta mūṣikāpi bhaya-trastā kartavyam ajānantī rakṣa rakṣeti jalpantī muni-caraṇāntikam upāviśat | śyenenāpi cetanaṃ labdhvā munir ukto, yad-bho mune ! na yuktam anuṣṭhitaṃ bhavatā yad ahaṃ pāṣāṇena tāḍitaḥ | kiṃ tvam adharmān na bibheṣi ? tat samarpaya mām enām mūṣikām | no cet prabhūtaṃ pātakam avāpsyasi |  
-
-  
-iti bruvāṇaṃ śyenaṃ provāca saḥ-bho vihaṅgādhama ! rakṣaṇīyāḥ prāṇināṃ prāṇāḥ | daṇḍanīyā duṣṭāḥ | sammānanīyāḥ sādhavaḥ | pūjanīyā guravaḥ | stutyā devāḥ | tat kim asambaddhaṃ prajalpasi ?   
-
-  
-śyena āha-mune ! na tvaṃ sūkṣma-dharmaṃ vetsi | iha hi sarveṣāṃ prāṇināṃ vidhinā sṛṣṭiṃ kurvatāhāro 'pi vinirmitaḥ | tato yathā bhavatām annaṃ tathāsmākaṃ mūṣikādayo vihitāḥ | tat svāhāra-kāṅkṣiṇaṃ māṃ kiṃ dūṣayasi ? uktaṃ ca-  
-
-  
-yady asya vihitaṃ bhojyaṃ na tat tasya praduṣyati |
-  
-abhakṣye bahu-doṣaḥ syāt tasmāt kāryo na vyatyayaḥ ||Panc_3.200||
-  
-bhakṣyaṃ yathā dvijātīnāṃ madyapānāṃ yathā haviḥ |
-  
-abhakṣyaṃ bhakṣyatām eti tathānyeṣām api dvija ||Panc_3.201||
-  
-bhakṣyaṃ bhakṣyatāṃ śreya abhakṣyaṃ tu mahad agham |
-  
-tat kathaṃ māṃ vṛthācāra tvaṃ daṇḍayitum arhasi ||Panc_3.202||  
-
-  
-aparaṃ munīnāṃ na caiṣa dharmo yatas tair dṛṣṭaṃ śrutam aśrutam alaulyatvam aśatrutvaṃ praśasyate | uktaṃ ca-  
-
-  
-samaḥ śatrau ca mitre ca sama-loṣṭāśma-kāñcanaḥ |
-  
-suhṛn-mitre hy udāsīno madhyastho dveṣya-bandhuṣu |
-  
-sādhuṣv api ca pāpeṣu sama-buddhir viśiṣyate ||Panc_3.203||
-  
-sādhūnāṃ niravadyānāṃ sadācāra-vicāriṇām |
-  
-yogī yuñjīta satataṃ satatam ātmānaṃ rahasi sthitaḥ ||Panc_3.204|  
-
-  
-tat tvam anena karmaṇā bhraṣṭa-tapāḥ sañjātaḥ | uktaṃ ca-  
-
-  
-muñca muñca pataty eko mā muñceti dvitīyakaḥ |
-  
-ubhayoḥ patanaṃ dṛṣṭvā maunaṃ sarvārtha-sādhanam ||Panc_3.205||  
-
-  
-śālaṅkāyana āha--katham etat ?  
-
-  
-śyena āha-
-  
-kathā 12
-  
-?  
-
-  
-kasmiṃścid nadī-taṭa ekata-dvita-tritābhidhānās trayo 'pi bhrātaro munayas tapaḥ kurvanti | teṣāṃ ca tapaḥ-prabhāvād ākāśasthā dhauta-potikā nirālambā jalārdrā bhū-sparśana-bhayena snāna-samaye tiṣṭhanti | athānye-dyur mamaiva kācin maṇḍūkikā kenāpi gṛdhreṇa balena nītā | atha tāṃ gṛhītā vilokya teṣāṃ jyeṣṭhena karuṇārdra-hṛdayena bhavateva vyāhṛtaṃ-muñca muñceti | atrāntare tasya dhauta-potikākāśād bhūmau patitā | tāṃ patitāṃ dṛṣṭvā dvitīyena tad-bhayārtena mā muñcety abhihitaṃ yāvat tasyāpi papāta | tatas tṛtīyo dvayor api dhauta-potikāṃ bhūmau patitāṃ dṛṣṭvā tūṣṇīṃ babhūva |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-muñca muñca pataty eka ity ādi |  
-
-  
-tac chrutvā munir vihasyāha-bho mūrkha vihaṅgama ! kṛta-yuge dharmaḥ sa āsīt, yataḥ kṛta-yuge pāpālāpato 'pi pāpaṃ jāyate tena dhauta-potike patite aśiṣṭālāpena na sad-apavacana-doṣataḥ | eṣa punaḥ kali-yugaḥ | atra sarvo 'pi pāpātmā | tat karma kṛtaṃ vinā pāpaṃ na lagati | uktaṃ ca-  
-
-  
-sañcarantīha pāpāni yugeṣv anyeṣu dehinām |
-  
-kalau tu pāpa-saṃyukte yaḥ karoti sa lipyate ||Panc_3.206||  
-
-  
-uktaṃ ca-
-  
-āsanāc chayanād yānāt saṃgateś cāpi bhojanāt |
-  
-kṛte sañcarate pāpaṃ taila-bindur ivāmbhasi ||Panc_3.207||  
-
-  
-tat kiṃ vṛthā pralapitena ? gaccha tvam | no cec chāpayiṣyāmi | atha gate śyene mūṣikayā sa munir abhihitaḥ-bhagavan ! naya māṃ svāśrayam | no ced anyo duṣṭa-pakṣī māṃ vyāpādayiṣyati | tad ahaṃ tatraivāśrame tvad-dattānnāhāra-muṣṭyā kālaṃ neṣyāmi |   
-
-  
-so 'pi dākṣiṇyavān sa-karuṇo vyacintayat-kathaṃ mayā mūṣikā haste dhṛtvā neyā jana-hāsya-kāriṇī | tad enāṃ kumārikāṃ kṛtvā nayāmi | evaṃ sā kanyakā kṛtā | tathānuṣṭhite kanyā-sahitaṃ munim avalokya patnī papraccha-bhagavan ! kuta iyaṃ kanyā ?  
-
-  
-sa āha-eṣā mūṣikā śyena-bhayāc charaṇārthinī kanyā-rūpeṇa tava gṛham ānītā | tat tvayā yatnena rakṣaṇīyā | bhūyo 'py enāṃ mūṣikāṃ kariṣyāmi |  
-
-  
-sā prāha-bhagavan ! maivaṃ kārṣīḥ | asyās tvaṃ dharma-pitā | uktaṃ ca-  
-
-  
-janitā copanetā ca yas tu vidyāṃ prayacchati |
-  
-anna-dātā bhaya-trātā pañcaite pitaraḥ smṛtāḥ ||Panc_3.208||  
-
-  
-tat tvayāsyāḥ prāṇa-pradattā |  aparaṃ mamāpy apatyaṃ nāsti | tasmād eṣā mama sutā bhaviṣyati |   
-
-  
-tathānuṣṭhite sā kanyā śukla-pakṣa-candra-kalikeva nityaṃ vṛddhiṃ prāpnoti | sāpi tasya muneḥ śuśrūṣāṃ kurvatī sapatnīkasya yauvanam āśv ayāt | atha tāṃ yauvanonmukhīm avalokya śālaṅkāyanaḥ sva-patnīm uvāca-priye ! yauvanonmukhī vartata iyaṃ kanyā | anarhā sa sāmprataṃ mad-gṛha-vāsasya | uktaṃ ca-  
-
-  
-anūḍhā mandire yasya rajaḥ prāpnoti kanyakā |
-  
-patanti pitaras tasya svarga-sthā api tair guṇaiḥ ||Panc_3.209||
-  
-varaṃ varayate kanyā mātā vittaṃ pitā śrutam |
-  
-bāndhavāḥ kulam icchanti miṣṭānnam itare janāḥ ||Panc_3.210||  
-
-  
-tathā ca-
-  
-yāvan na lajjate kanyā yāvat krīḍati pāṃsunā |
-  
-yāvat tiṣṭhati go-mārge tāvat kanyāṃ vivāhayet ||Panc_3.211||
-  
-mātā caiva pitā caiva jyeṣṭha-bhrātā tathaiva ca |
-  
-trayas te narakaṃ yānti dṛṣṭvā kanyāṃ rajasvalām ||Panc_3.212||  
-
-  
-kulaṃ ca śīlaṃ ca sanāthatāṃ ca
-  
-vidyāṃ ca vittaṃ ca vapur vayaś ca |
-  
-etān guṇān saptān sapta parīkṣya deyā 
-  
-kanyā budhaiḥ śeṣam acintanīyam ||Panc_3.213||  
-
-  
-tad yad yasyā rocate tad bhagavantaṃ ādityam ākārya tasmai prayacchāmi | uktaṃ ca-
-  
-aniṣṭaḥ kanyakāyā yo varo rūpānvito 'pi yaḥ |
-  
-yadi syāt tasya no deyā kanyā śreyo 'bhivāñchatā ||Panc_3.214||  
-
-  
-sā prāha-ko doṣo 'tra viṣaye ? evaṃ kriyatām |   
-
-  
-atha muninā ravir āhūtaḥ | veda-mantrāmantraṇa-prabhāvāt tat-kṣaṇād evābhyupagamyādityaḥ provāca-bhagavan ! vada drutaṃ kim-artham āhūtaḥ ?  
-
-  
-sa āha-eṣā madīyā kanyakā tiṣṭhati | yady eṣā tvāṃ vṛṇoti tarhy udvahasva tām iti | evam uktvā bhagavāṃs tasyā darśitaḥ | provāca-putri ! kiṃ tava rocata eṣa bhagavāṃs trailokya-dīpaḥ ?  
-
-  
-sā prāha-tāta ! atidahanātmako 'yam | nāham enam abhilaṣāmi | asmād api ya utkṛṣṭataraḥ sa āhūyatām |  
-
-  
-atha tasyās tad-vacanam ākarṇya bhāsvaro 'pi tāṃ mūṣikāṃ viditvā niḥspṛhas tam uvāca-bhagavan ! asti mamāpy adhiko megho yenācchāditasya me nāmāi na jñāyate ?   
-
-  
-atha muninā megham apy āhūya kanyābhihitā-eṣa te rocate ?   
-
-  
-sā prāha-kṛṣṇa-varṇo 'yaṃ jaḍātmā ca | tad asmād anyasya kasyacit pradhānasya māṃ prayaccha |   
-
-  
-atha muninā megho 'pi pṛṣṭaḥ-bhoḥ ! tvatto 'py adhikaḥ ko 'py asti ?  
-
-  
-sa āha-matto 'py adhiko 'sti vāyuḥ | vāyunā hato 'haṃ sahasradhā yāmi |   
-
-  
-tac chrutvā muninā vāyur āhūtaḥ, āha ca-putrike kim eṣa vāyus te vivāhāya uttamaḥ pratibhāti ?  
-
-  
-sā āha-prabalo 'py ayaṃ cañcalaḥ | tad abhyadhikaḥ kaścid āhūyatām |  
-
-  
-munir āha-bho vāyo ! tvatto 'py adhiko 'sti kaścit ?  
-
-  
-sa āha-matto 'py adhiko 'sti parvato yena saṃstabhya balavān apy ahaṃ dhriye |   
-
-  
-atha muniḥ parvatam āhūya kanyāyā adarśayat-putrike ! tvām asmai prayacchāmi ?  
-
-  
-sā āha-tāta ! kaṭhinātmako 'yaṃ stabdhaś ca | tad anyasmai dehi mām |  
-
-  
-atha sa muninā pṛṣṭaḥ, yad-bhoḥ parvata-rāja ! tvatto 'py adhiko 'sti kaścit ?  
-
-  
-sa āha-santi matto 'py adhikā mūṣikāḥ, ye mad-dehaṃ balāt sarvato bhedayanti |   
-
-  
-tad ākarṇya munir mūṣakam āhūya tasyā adarśayat-putrike ! eṣa te pratibhāti mūṣaka-rājo yena yathocitam anuṣṭhīyate | sāpi taṃ dṛṣṭvā sva-jātīya eṣa iti manyamānā pulakodbhūṣita-śarīrā provāca-tāta ! māṃ mūṣikāṃ kṛtvāsmai prayaccha yena svajāti-vihitaṃ gṛha-dharmam anutiṣṭhāmi |   
-
-  
-tac chrutvā tena strī-dharma-vicakṣaṇena tāṃ mūṣikāṃ kṛtvā mūṣakāya pradattā |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-sūryaṃ bhartāram utsṛjya ityādi |  
-
-  
-atha raktākṣa-vacanam anādṛtya taiḥ sva-vaṃśa-vināśāya sa sva-durgam upanītaḥ | nīyamānaś cāntar-līnam avahasya sthirajīvy acintayat-  
-
-  
-hanyatām iti yenoktaṃ svāmino hita-vādinā |
-  
-sa evaiko 'tra sarveṣāṃ nīti-śāstrārtha-tattva-vit ||Panc_3.215||  
-
-  
-tad yadi tasya vacanam acariṣyann ete, tato na svalpo 'py anartho 'bhaviṣyad eteṣām |   
-
-  
-atha durga-dvāraṃ prāpyārimardano 'bravīt-bho bho hitaiṣiṇo 'sya sthirajīvino yathā-samīhitaṃ sthānaṃ prayacchata |   
-
-  
-tac ca śrutvā sthirajīvī vyacintayat-mayā tāvad eteṣāṃ vadhopāyaś cintanīyaḥ | sa mayā madhyasthena na sādhyate | yato madīyam iṅgitādikaṃ vicārayantas te'pi sāvadhānā bhaviṣyanti | tad durga-dvāram adhiśrito 'bhipretaṃ sādhayāmi | iti niścityolūka-patim āha-deva ! yuktam idaṃ yat svāminā proktam | param aham api nītijñas te'hitaś ca | yadyapy anuraktaḥ śucis tathāpi durga-madhye āvāso nārhaḥ | tad ahaṃ atraiva durga-dvāra-sthaḥ pratyahaṃ bhavat-pāda-padma-rajaḥ pavitrī-kṛta-tanuḥ sevāṃ kariṣyāmi |  
-
-  
-tatheti pratipanne pratidinam ulūka-pati-sevakās te prakāmam āhāraṃ kṛtvolūka-rājādeśāt prakṛṣṭa-māṃsāhāraṃ sthirajīvine prayacchanti | atha katipayair evāhobhir mayūra iva sa balavān saṃvṛttaḥ | atha raktākṣaḥ sthirajīvinaṃ poṣyamāṇaṃ dṛṣṭvā sa-vismayo mantri-janaṃ rājānaṃ ca praty āha-aho mūrkho 'yaṃ mantri-jano bhavāṃś cety evam aham avagacchāmi | uktaṃ ca-  
-
-  
-pūrvaṃ tāvad ahaṃ mūrkho dvitīyaḥ paśu-bandhakaḥ |
-  
-tato rājā ca mantrī ca sarvaṃ vai mūrkha-maṇḍalam ||Panc_3.216||  
-
-  
-te prāhuḥ-katham etat ?  
-
-  
-raktākṣaḥ kathayati-
-  
-kathā 13
-  
-svarṇa-ṣṭhīvī-sindhuka-pakṣī-kathā   
-
-  
-asti kasmiṃścit parvataika-deśe mahān vṛkṣaḥ | tatra ca sindhuka-nāmā ko 'pi pakṣī prativasati sma | tasya purīṣe suvarṇam utpadyate | atha kadācit tam uddiśya vyādhaḥ ko 'pi samāyayau | sa ca pakṣī tad-agrata eva purīṣam utsasarja | atha pāta-sama-kālam eva tat-suvarṇībhūtaṃ dṛṣṭvā vyādho vismayam agamat-aho mama śiśu-kālād ārabhya śakuni-bandha-vyasanino 'śīti-varṣāṇi samabhūvan,na ca kadācit pakṣi-purīṣe suvarṇaṃ dṛṣṭam iti vicintya tatra vṛkṣe pāśaṃ babandha | athāsāv api pakṣī mūrkhas tatraiva viśvasta-citto yathā-pūrvam upaviṣṭas tat-kālam eva pāśena baddhaḥ | vyādhas tu taṃ pāśād unmucya pañjarake saṃsthāpya nijāvāsaṃ nītavān | atha cintayāmāsa-kim anena sāpāyena pakṣiṇāhaṃ kariṣyāmi ? yadi kadācit ko
-  
-'py amum īdṛśaṃ jñātvā rājñe nivedayiṣyati tan nūnaṃ prāṇa-saṃśayo me bhavet | ataḥ svayam eva pakṣiṇaṃ rājñe nivedayāmi | iti vicārya tathaivānuṣṭhitavān |  
-
-  
-atha rājāpi taṃ pakṣiṇaṃ dṛṣṭvā vikasita-nayana-vadana-kamalaḥ parāṃ tuṣṭim upagataḥ | prāha caivaṃ-haṃho rakṣā-puruṣāḥ ! enaṃ pakṣiṇaṃ yatnena rakṣata | aśana-pānādikaṃ cāsya yathecchaṃ prayacchata |   
-
-  
-atha mantriṇābhihitam-kim anenāśraddheya-vyādha-vacana-mātra-parigṛhītenāṇḍajena ? kiṃ kadācit pakṣī-purīṣe suvarṇaṃ sambhavati ? tan mucyatāṃ pañjara-bandhanād ayaṃ pakṣī | iti mantri-vacanād rājñā mocito 'sau pakṣy unnata-dvāra-toraṇe samupaviśya suvarṇa-mayīṃ viṣṭhāṃ vidhāya-pūrvaṃ tāvad ahaṃ mūrkhaḥ iti ślokaṃ paṭhitvā yathā-sukham ākāśa-mārgeṇa prāyāt |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-pūrvaṃ tāvad ahaṃ mūrkhaḥ iti |  
-
-  
-atha te punar api pratikūla-daivatayā hitam api raktākṣa-vacanam anādṛtya bhūyas taṃ prabhūta-māṃsādi-vividhāhāreṇa poṣayāmāsuḥ | atha raktākṣaḥ sva-vargam āhūya rahaḥ provāca-aho ! etāvad evāsmad-bhūpateḥ kuśalaṃ durgaṃ ca | tad upadiṣṭaṃ mayā yat kula-kramāgataḥ sacivo 'bhidhatte | tad vayam anyat parvata-durgaṃ samprati samāśrayāmaḥ | uktaṃ ca yataḥ-  
-
-  
-anāgataṃ yaḥ kurute sa śobhate 
-  
-sa śocate yo na karoty anāgatam |
-  
-vane vasann eva jarām upāgato 
-  
-bilasya vācā na kadāpi hi śrutā ||Panc_3.217||  
-
-  
-te procuḥ-katham etat ?  
-
-  
-raktākṣaḥ kathayati-
-  
-kathā 14
-  
-kharanakhara-siṃha-kathā   
-
-  
-kasmiṃścid vanoddeśe kharanakharo nāma siṃhaḥ prativasati sma | sa kadācid itaś cetaś ca paribhraman kṣutkṣāma-kaṇṭho na kiñcid api sattvam āsasāda | tataś cāstam anasamaye mahatīṃ giri-guhām āsādya praviṣṭaś cintayāmāsa-nūnam etasyāṃ guhāyāṃ rātrau kenāpi sattvenāgantavyam | tan nibhṛto bhūtvā tiṣṭhāmi |   
-
-  
-etasminn antare tat-svāmī dadhipuccho nāma śṛgālaḥ samāyātaḥ | sa ca yāvat paśyati tāvat siṃha-pada-paddhatir guhāyāṃ praviṣṭaḥ, na ca niṣkrāntā iti dṛṣṭavān | tataś cācintayat-aho vinaṣṭo 'smi, nūnam asyāntargatena siṃhena bhāvyam | tat kiṃ karomi ? kathaṃ jñāsyāmi ? evaṃ vicintya dvārasthaḥ phūtkartum ārabdhaḥ-aho bila ! aho bila ! ity uktvā tūṣṇīṃbhūya bhūyo 'pi tathaiva pratyabhāṣata-bhoḥ ! kiṃ na smarasi yan mayā tvayā saha samayaḥ kṛto 'sti ? yan mayā bāhyāt samāgatena tvaṃ vaktavyaḥ, tvayā cāham ākaraṇīyaḥ iti | tad yadi māṃ nāhvayasi tato 'haṃ dvitīyaṃ bilaṃ yāsyāmi |   
-
-  
-atha tac chrutvā siṃhaś cintitavān-nūnam eṣā guhāsya samāgatasya sadā samāhvānaṃ karoti | param adya mad-bhayān na kiṃcid brūte | athavā sādhv idam ucyate-  
-
-  
-bhaya-santrasta-manasāṃ hasta-pādādikāḥ kriyāḥ |
-  
-pravartante na vāṇī ca vepathuś cādhiko bhavet ||Panc_3.218||  
-
-  
-tad aham asyāhvānaṃ karomi yena tad-anusāreṇa praviṣṭo 'yaṃ me bhojyatāṃ yāsyati | evaṃ sampradhārya siṃhas tasyāhvānam akarot | atha siṃha-śabdena sā guhā pratirava-sampūrṇā anyān api dūra-sthān araṇya-jīvāṃs trāsayāmāsa | śṛgālo 'pi palāyamāna imaṃ ślokam apaṭhat-anāgataṃ yaḥ kurute sa śobhate ity ādi |  
-
-  
-tad evaṃ matvā yuṣmābhir mayā saha gantavyam iti | evam abhidhāyātmānuyāyi-parivārānugato dūra-deśāntaraṃ raktākṣo jagāma |  
-
-  
-atha raktākṣe gate sthirajīvy atihṛṣṭa-manā vyacintayat-aho ! kalyāṇam asmākam upasthitam, yad raktāṃśo gataḥ sa dīrghadarśī ete ca mūḍha-manasaḥ | tato mama sukha-ghātyāḥ sañjātāḥ | uktaṃ ca yataḥ-  
-
-  
-na dīrgha-darśino yasya mantriṇaḥ syur mahīpateḥ |
-  
-kramāyātā dhruvaṃ tasya na cirāt syāt parikṣayaḥ ||Panc_3.219||  
-
-  
-athavā sādhv idam ucyate-  
-
-  
-mantri-rūpā hi ripavaḥ sambhāvyās te vicakṣaṇaiḥ |
-  
-ye santaṃ nayam utsṛjya sevante pratilomataḥ ||Panc_3.220||  
-
-  
-evaṃ vicintya sva-kulāya ekaikāṃ vana-kāṣṭhikāṃ guhā-pradīpanārthaṃ dine dine prakṣipati | na ca te mūrkhā ulūkā vijānanti, yad eṣa kulāyam asmad-dāhāya vṛddhiṃ nayati | athavā sādhv idam ucyate-  
-
-  
-amitraṃ kurute mitraṃ mitraṃ dveṣṭi hinasti ca |
-  
-śubhaṃ vetty aśubhaṃ pāpaṃ bhadraṃ daiva-hato naraḥ ||Panc_3.221||  
-
-  
-atha kulāya-vyājena durga-dvāre kṛte kāṣṭha-nicaye, sañjāte sūryodaye, andhatāṃ prāpteṣūlūkeṣu satsu sthirajīvī śīghram ṛṣyamūkaṃ gatvā meghavarṇam āha-svāmin ! dāha-sādhyā kṛtā ripu-guhāḥ | tat saparivāraḥ sametyaikaikā vana-kāṣṭhikāṃ jvalantī gṛhītvā guhā-dvāre'smat-kulāye prakṣipa yena sarve śatravaḥ kumbhīpāka-naraka-prāyeṇa duḥkhena mriyante |  
-
-  
-tac chrutvā prahṛṣṭo meghavarṇa āha-tāta ! kathayātma-vṛttāntam | cirād adya dṛṣṭo 'si |   
-
-  
-sa āha-vatsa ! nāyaṃ kathanasya kālaḥ | yataḥ kadācit tasya ripo kaścit praṇidhir mamehāgamanaṃ nivedayiṣyati | yaj jñānād andho 'nyatrāpasaraṇaṃ kariṣyati | tat tvaryatām | uktaṃ ca-  
-
-  
-śīghra-kṛtyeṣu kāryeṣu vilambayati yo naraḥ |
-  
-tat kṛtyaṃ devatās tasya kopād vighnanty asaṃśayam ||Panc_3.222||  
-
-  
-tathā ca-
-  
-yasya yasya hi kāryasya phalitasya viśeṣataḥ |
-  
-kṣipram akriyamāṇasya kālaḥ pibati tat-phalam ||Panc_3.223||  
-
-  
-tad-guhāyām āyātasya te hata-śatroḥ sarvaṃ savistaraṃ nirvyākulatayā kathayiṣyāmi athāsau tad-vacanam ākarṇya sa-parijana ekaikāṃ jvalantīṃ vana-kāṣṭhikāṃ cañcv-agreṇa gṛhītvā tad-guhā-dvāraṃ prāpya sthirajīvi-kulāye prākṣipat | tataḥ sarve te divāndhā raktākṣa-vākyāni smaranto dvārasyāvṛtatvād aniḥsaranto guhā-madhye kumbhīpāka-nyāyam āpannā mṛtāś ca | evaṃ śatrūn niḥśeṣatāṃ nītvā bhūyo 'pi meghavarṇas tad eva nyagrodha-pādapa-durgaṃ jagāma |  tataḥ siṃhāsana-stho bhūtvā sabhā-madhye pramudita-manāḥ sthirajīvinam apṛcchat-tāta ! kathaṃ tvayā śatru-madhye gatena etāvat-paryantaṃ kālo nītaḥ ? tad atra kautukam asmākaṃ vartate, tat kathyatām | yataḥ-  
-
-  
-vara-magnau pradīpte tu prapātaḥ puṇya-karmaṇām |
-  
-na cārijana-saṃsargo muhūrtam api sevitaḥ ||Panc_3.224||  
-
-  
-tad ākarṇya sthirajīvy āha-bhadra ! āgāmi-phala-vāñchayā kaṣṭam api sevako na jānāti | uktaṃ ca yataḥ-  
-
-  
-kāryasyāpekṣayā bhuktaṃ viṣam apy amṛtāyate |
-  
-sarveṣāṃ prāṇināṃ yatra nātra kāryā vicāraṇā ||Panc_3.225||  
-
-  
-upanata-bhaye yo yo mārgo hitārtha-karo bhavet- sa sa nipuṇayā buddhyā sevyo mahān kṛpaṇo 'pi vā |
-  
-karikara-nibhau jyāghātā kau mahāstra-viśāradau valaya-racitau strīvad bāhū kṛtau na kirīṭinā ||Panc_3.226||  
-
-  
-śaktenāpi satā janena viduṣā kālāntarāpekṣiṇā 
-  
-vastavyaṃ khalu vākya-vajra-viṣame kṣudre'pi pāpe jane |
-  
-darvī-vyagra-kareṇa dhūma-malinenāyāsa-yukte ca 
-  
-bhīmenātibalena matsya-bhavane kiṃ noṣitaṃ sūdavat ||Panc_3.227||  
-
-  
-yad vā tad vā viṣama-patitaḥ sādhu vā garhitaṃ vā
-  
-kālāpekṣī hṛdaya-nihitaṃ buddhimān karma kuryāt |
-  
-kiṃ gāṇḍīva-sphurad-uru-guṇāsphālana-krūra-pāṇir
-  
-nāsīl līlā-naṭana-vilasan mekhalī savyasācī ||Panc_3.228||  
-
-  
-siddhiṃ prārthayatā janena viduṣā tejo nigṛhya svakaṃ
-  
-sattvotsāhavatāpi daiva-vidhiṣu sthairyaṃ prakārya kramāt |
-  
-devendra-draviṇeśvarāntaka-samair apy anvito bhrātṛbhiḥ
-  
-kiṃ kliṣṭaḥ suciraṃ virāṭa-bhavane śrīmān na dharmātmajaḥ ||Panc_3.229||  
-
-  
-rūpābhijana-sampanno mādrī-putrau balānvitau |
-  
-gokarma-rakṣā-vyāpāre virāṭa-preṣyatāṃ gatau ||Panc_3.230||  
-
-  
-rūpeṇāpratimena yauvana-guṇaiḥ śreṣṭhe kule janmanā
-  
-kāntyā śrīr iva yātra sāpi vidaśāṃ kāla-kramād āgatā |
-  
-sairandhrīti sa-garvitaṃ yuvatibhiḥ sākṣepam ākhyātayā 
-  
-draupadyā nanu matsya-rāja-bhavane dhṛṣṭaṃ na kiṃ candanam ||Panc_3.231||  
-
-  
-meghavarṇa āha-tāta ! asi-dhārā-vratam idaṃ manye yad ariṇā saha saṃvāsaḥ |  
-
-  
-so 'bravīt-deva ! evam etat | paraṃ na tādṛṅ-mūrkha-samāgamaḥ kvāpi mayā dṛṣṭaḥ | na ca mahāprajñam aneka-śāstreṣv apratima-buddhiṃ raktākṣaṃ vinā dhīmān | yat-kāraṇaṃ tena madīyaṃ yathāvasthitaṃ cittaṃ jñātam | ye punar anye mantriṇas te mahā-mūrkhā mantri-mātra-vyapadeśopajīvino 'tattva-kuśalā, yair idam api na jñātam | yataḥ-  
-
-  
-arito 'bhyāgato bhṛtyo duṣṭas tat-saṅga-tat-paraḥ |
-  
-apasarpa-sadharmatvān nityodvegī ca dūṣitaḥ ||Panc_3.232||
-  
-āsane śayane yāne pāna-bhojana-vastuṣu |
-  
-dṛṣṭvāntaraṃ pramatteṣu praharanty arayo 'riṣu ||Panc_3.233||
-  
-tasmāt sarva-prayatnena trivarga-nilayaṃ budhaḥ |
-  
-ātmānam ādṛto rakṣet pramādād dhi vinaśyati ||Panc_3.234||  
-
-  
-sādhu cedam ucyate-  
-
-  
-santāpayanti kam apathya-bhujaṃ na rogā 
-  
-durmantriṇaṃ kam upayānti na nīti-doṣāḥ |
-  
-kaṃ śrīr na darpayati kaṃ na nihanti mṛtyuḥ
-  
-kaṃ svīkṛtā na viṣayā paripīḍayanti ||Panc_3.235||  
-
-  
-lubdhasya naśyati yaśaḥ piśunasya maitrī
-  
-naṣṭa-kriyasya kula artha-parasya dharmaḥ |
-  
-vidyā-phalaṃ vyasaninaḥ kṛpaṇasya saukhyaṃ
-  
-rājyaṃ pramatta-sacivasya narādhipasya ||Panc_3.236||  
-
-  
-tad rājan ! asi-dhārā-vrataṃ mayācaritam aritam ari-saṃsargād iti yad bhavatoktaṃ, tan mayā sākṣād evānubhūtam | uktaṃ ca-  
-
-  
-apamānaṃ puraskṛtya mānaṃ kṛtvā tu pṛṣṭhataḥ |
-  
-svārtham abhyuddharet prājñaḥ kārya-dhvaṃso hi mūrkhatā ||Panc_3.237||
-  
-skandhenāpi vahec chatruṃ kālam āsādya buddhimān |
-  
-mahatā kṛṣṇa-sarpeṇa maṇḍūkā bahavo hatāḥ ||Panc_3.238||  
-
-  
-meghavarṇa āha-katham etat ?  
-
-  
-sthirajīvī kathayati-  
-
-  
-kathā 15
-  
-mandaviṣa-sarpa-kathā   
-
-  
-asti varuṇādri-samīpa ekasmin pradeśe pariṇata-vayā manda-viṣo nāma kṛṣṇa-sarpaḥ | sa evaṃ citte sañcintitavān-kathaṃ nāma mayā sukhopāya-vṛttyā vartitavyam iti | tato bahu-maṇḍūkaṃ hradam upagamya dhṛti-parītam ivātmānaṃ darśitavān |  
-
-  
-atha tathā sthite saudaka-prānta-gatenaikena maṇḍūkena pṛṣṭaḥ-māma ! kim adya yathā-pūrvam āhārārthaṃ na viharasi |  
-
-  
-so 'bravīt-bhadra ! kuto me manda-bhāgyasyāhārābhilāṣaḥ ? yat kāraṇam adya rātrau pradoṣa eva mayāhārārthaṃ viharamāṇena dṛṣṭa eko maṇḍūkaḥ | tad-grahaṇārthaṃ mayā kramaḥ sajjitaḥ | so 'pi māṃ dṛṣṭvā mṛtyu-bhayena svādhyāya-prasaktānāṃ brāhmaṇānām antaram apakrānto na vibhāvito mayā kvāpi gataḥ | tat-sādṛśya-mohita-cittena mayā kasyacid brāhmaṇasya sūnor hrada-taṭa-jalāntaḥ-stho 'ṅguṣṭho daṣṭaḥ | tato 'sau sapadi pañcatvam upāgataḥ |  
-
-  
-atha tasya pitrā duḥkhitenāhaṃ śapto yathā-durātman ! tvayā niraparādho mat-suto daṣṭaḥ | tad anena doṣeṇa tvaṃ maṇḍūkānāṃ vāhanaṃ bhaviṣyasi, tat-prasāda-labdha-jīvikayā vartiṣye iti | tato 'haṃ yuṣmākaṃ vāhanārtham āgato 'smi |  
-
-  
-tena ca sarva-maṇḍūkānām idam āveditam | tatas taiḥ prahṛṣṭa-manobhiḥ sarvair eva gatvā jala-pāda-nāmno dardura-rājasya vijñaptam | athāsāv api mantri-parivṛto 'tyadbhutam idam iti manyamāno sa-sambhramaṃ hradād uttīrya manda-viṣasya phaṇinaḥ phaṇā-pradeśam adhirūḍhaḥ | śeṣā api yathā-jyeṣṭhaṃ tat-pṛṣṭhopari samāruruhuḥ | kiṃ bahunā, uparita-sthānam aprāptavantas tasyānupadaṃ dhāvanti | mandaviṣo 'pi teṣāṃ tuṣṭy-artham aneka-prakārān gati-viśeṣān adarśayat | atha jalapādo labdha-sukhas tam āha-  
-
-  
-na tathā kariṇā yānaṃ turageṇa rathena vā |
-  
-nara-yānena vā yānaṃ yathā mandaviṣeṇa me ||Panc_3.239||  
-
-  
-athānyedyur manda-viṣaś chadmanā mandaṃ mandaṃ visarpati | tac ca dṛṣṭvā jalapādo 'bravīt-bhadra ! mandaviṣa ! yathā-pūrvaṃ kim adya sādhu nohyate ?   
-
-  
-mandaviṣo 'bravīt-deva adyāhāra-vaikalyān na me voḍhuṃ śaktir asti |  
-
-  
-athāsāv abravīt-bhadra ! bhakṣaya kṣudra-maṇḍūkān |  
-
-  
-tac chrutvā praharṣita-sarva-gātro mandaviṣaḥ sa-sambhramam abravīt-mamāyam eva vipra-śāpo 'sti | tat tavānenānujñā-vacanena prīto 'smi |  
-
-  
-tato 'sau nairantaryeṇa maṇḍūkān bhakṣayan katipayair evāhobhir balavān saṃvṛttaḥ | prahṛṣṭaś cāntar-līnam avahasyedam abravīt-  
-
-  
-maṇḍūkā vividhā hy ete chala-pūrvopasādhitāḥ |
-  
-kiyantaṃ kālam akṣīṇā bhaveyuḥ khāditā mama ||Panc_3.240||  
-
-  
-jala-pādo 'pi mandaviṣeṇa kṛta-kavaca-navyāmohita-cittaḥ kim api nāvabudhyate | atrāntare'nyo mahākāyaḥ kṛṣṇa-sarpas tam uddeśaṃ samāyātaḥ | taṃ ca maṇḍūkair vāhyamānaṃ dṛṣṭvā vismaya-gatam | āha ca-vayasya ! yad asmākam aśanaṃ taiḥ kathaṃ vāhyase | viruddham etat |   
-
-  
-mandaviṣo 'bravīt-  
-
-  
-sarvam etad vijānāmi yathā vāhyo 'smi darduraiḥ |
-  
-kiñcit kālaṃ pratīkṣe'haṃ ghṛtāndho brāhmaṇo yathā ||Panc_3.241||  
-
-  
-so 'bravīt-katham etat ?  
-
-  
-mandaviṣaḥ kathayati-
-  
-kathā 16
-  
-ghṛtāndha-brāhmaṇa-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne yajñadatto nāma brāhmaṇaḥ | tasya bhāryā puṃścaly anyāsakta-manā ajasraṃ viṭāyasa-khaṇḍa-ghṛtān ghṛta-pūrān kṛtvā bhartuś caurikayā prayacchati | atha kadācid bhartā dṛṣṭvābravīt-bhadre ! kim etat paripacyate ? kutra vājasraṃ nayasīdam ? tat kathaya satyam |  
-
-  
-sā cotpanna-pratibhā kṛtaka-vacanair bhartāram abravīt-asty atra nātidūre bhagavatyā devyā āyatanam | tatrāham upoṣitā satī baliṃ bhakṣya-viśeṣāṃś cāpūrvān nayāmi |   
-
-  
-atha tat paśyatā gṛhītvā tat sakalaṃ devyāyatanābhimukhī pratasthe | yat kāraṇaṃ devyā niveditenānena madīyo bhartaivaṃ maṃsyate yat mama brāhmaṇī bhagavatyāḥ kṛte nadyām avatīrya yāvat snānaṃ karoti tāvat tad bhartāpi mārgāntareṇāgatya devyāḥ pṛṣṭhato 'dṛśyo 'vatasthe |  
-
-  
-atha sā brāhmaṇī snātvā devy-āyatanam āgatya snānānulepana-mālya-dhūpa-bali-kriyādikaṃ kṛtvā devīṃ praṇamya vyajijñapat-bhagavati ! kena prakāreṇa mama bhartāndho bhaviṣyati ?   
-
-  
-tac chrutvā svara-bhedena devī-pṛṣṭha-sthito brāhmaṇo jagāda-yadi tvam ajasraṃ ghṛta-pūrādi-bhakṣyaṃ tasmai bhartre prayacchasi, tataḥ śīghram andho bhaviṣyati |  
-
-  
-sā tu bandhakī kṛtaka-vacana-vañcita-mānasā tasmai brāhmaṇāya tad eva nityaṃ pradadau  | athānyedyur brāhmaṇenābhihitam-bhadre, nāhaṃ sutarāṃ paśyāmi |  
-
-  
-tac chrutvā cintitam anayā-devyāḥ prasādo 'yaṃ prāpta iti | atha tasyā hṛdaya-vallabho viṭas tat-sakāśam-andhībhūto 'yaṃ brāhmaṇaḥ kiṃ mama kariṣyatīti niḥśaṅkaṃ pratidinam abhyeti | athānyedyus taṃ praviśantam abhyāśa-gataṃ dṛṣṭvā keśair gṛhītvā laguḍa-pārṣṇi-prabhṛti-prahārais tāvad atāḍayat yāvad asau pañcatvam āpa | tām api puṣṭa-patnīṃ vicchanna-nāsikāṃ kṛtvā visasarja |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-skandhenāpi vahec chatrum (238) ity ādi |  
-
-  
-atha rājan ! yathā mandaviṣeṇa buddhi-balena maṇḍūkā nihatās tathā mayāpi sarve vairiṇaḥ | sādhu cedam ucyate-  
-
-  
-vane prajvalito vahnir dahan mūlāni rakṣati |
-  
-samūlonmūlanaṃ kuryād vāyur yo mṛdu-śītalaḥ ||Panc_3.242||  
-
-  
-meghavarṇa āha-tāta ! satyam evaitat | ye mahātmāno bhavanti te mahā-sattvā āpad-gatā api prārabdhaṃ na tyajanti | uktaṃ ca yataḥ-  
-
-  
-mahattvam etan mahatāṃ nayālaṅkāra-dhāriṇām |
-  
-na muñcanti yad ārabdhaṃ kṛcchre'pi vyasanodaye ||Panc_3.243||  
-
-  
-tathā ca-
-  
-prārabhyate na khalu vighna-bhayena nīcaiḥ
-  
-prārabhya vighna-vihatā viramanti madhyāḥ |
-  
-vighnaiḥ sahasra-guṇitair api hanyamānāḥ
-  
-prārabdham uttama-guṇā na parityajanti ||Panc_3.244||  
-
-  
-tat kṛtaṃ niṣkaṇṭakaṃ mama rājyaṃ śatrūn niḥśeṣatāṃ nayatā tvayā | athavā yuktam etan naya-vedinām | uktaṃ ca yataḥ-  
-
-  
-ṛṇa-śeṣaṃ cāgni-śeṣaṃ ca śatru-śeṣaṃ tathaiva ca |
-  
-vyādhi-śeṣaṃ ca niḥśeṣaṃ kṛtvā prājño na sīdati ||Panc_3.245||  
-
-  
-so 'bravīt-deva ! bhāgyavān tvam evāsi, yasyārabdhaṃ sarvam eva saṃsiddhyati | tan na kevalaṃ śauryaṃ kṛtyaṃ sādhayati, kintu prajñayā yat kriyate tad eva vijayāya bhavati | uktaṃ ca-  
-
-  
-śastrair hatā na hi hatā ripavo bhavanti
-  
-prajñā-hatās tu ripavaḥ suhatā bhavanti |
-  
-śastaṃ nihanti puruṣasya śarīram ekaṃ
-  
-prajñā kulaṃ ca vibhavaś ca yaśaś ca hanti ||Panc_3.246||  
-
-  
-tad evaṃ prajñā-puruṣakārābhyāṃ yuktasyāyatnena kārya-siddhayaḥ sambhavanti | uktaṃ ca-  
-
-  
-prasarati matiḥ kāryārambhe dṛḍhībhavati smṛtiḥ
-  
-svayam upanayann arthān mantro na gacchati viplavam |
-  
-sphurati saphalas tarkaś cittaṃ samunnatim aśnute 
-  
-bhavati ca ratiḥ ślāghye kṛtye narasya bhaviṣyataḥ ||Panc_3.247||  
-
-  
-tathā ca naya-tyāga-śaurya-sampanne puruṣe rājyam iti | uktaṃ ca-  
-
-  
-tyāgini śūre viduṣi ca saṃsarga-rucir jano guṇī bhavati |
-  
-guṇavati dhanaṃ dhanāc chrīḥ śrīmaty ājñā tato rājyam ||Panc_3.248||  
-
-  
-meghavarṇa āha-nūnaṃ sadyaḥ-phalāni nīti-śāstrāṇi yat tvayānukṛtyenānupraviśyāri-mardanaḥ saparijano niḥśeṣitaḥ |  
-
-  
-sthirajīvy āha-  
-
-  
-tīkṣṇopāya-prāpti-gamyo 'pi yo 'rthas 
-  
-tasyāpy ādau saṃśrayaḥ sādhu yuktaḥ |
-  
-uttuṅgāgraḥ sāra-bhūto vanānāṃ
-  
-mānyābhyarcya cchidyate pādapendraḥ ||Panc_3.249||  
-
-  
-athavā svāmin ! kiṃ tenābhihitena ? yad anantara-jāle kriyā-rahitam asukha-sādhyaṃ vā bhavati | sādhu cedam ucyate-  
-
-  
-aniścitair adhyavasāya-bhīrubhir
-  
-yatheṣṭa-saṃlāpa-rati-prayojanaiḥ |
-  
-phale visaṃvādam upāgatā giraḥ 
-  
-prayānti loke parihāsa-vastutām ||Panc_3.250||  
-
-  
-na ca laghuṣv api kartavyeṣu dhīmadbhir anādaraḥ kartavyaḥ | yataḥ-
-  
-śakṣyāmi kartum idam alpam ayatna-sādhyam
-  
-anādaraḥ ka iti kṛtyam upekṣamāṇāḥ |
-  
-kecit pramatta-manasaḥ paritāpa-duḥkham
-  
-āpat-prasaṅga-sulabhaṃ puruṣā prayānti ||Panc_3.251||  
-
-  
-tad adya jitārer mad-vibhor yathā-pūrvaṃ nidrā-lābho bhaviṣyati | ucyate caitat-  
-
-  
-niḥsarpe baddha-sarpe vā bhavane suṣyate sukham |
-  
-sadā dṛṣṭa-bhujaṅge tu nidrā duḥkhena labhyate ||Panc_3.252||  
-
-  
-tathā ca-
-  
-vistīrṇa-vyavasāya-sādhya-mahatāṃ snighdopayuktāśiṣāṃ
-  
-kāryāṇāṃ naya-sāhasonnati-matām icchāpad-ārohiṇām |
-  
-mānotseka-parākrama-vyasaninaḥ pāraṃ na yāvad-gatāḥ
-  
-sāmarṣe hṛdaye'vakāśa-viṣayā tāvat kathaṃ nirvṛtiḥ ||Panc_3.253||  
-
-  
-tad avasita-kāryārambhasya viśrāmyatīva me hṛdayam | tad idam adhunā nihata-kaṇṭakaṃ rājyaṃ prajā-pālana-tatparo bhūtvā putra-pautrādi-krameṇācala-cchatrāsana-śrīḥ ciraṃ bhuṅkṣva | api ca-  
-
-  
-prajā na rañjayed yas tu rājā rakṣādibhir guṇaiḥ |
-  
-ajāgala-stanasyeva tasya rājyaṃ nirarthakam ||Panc_3.254||  
-
-  
-guṇeṣu rāgo vyasaneṣv anādaro
-  
-ratiḥ subhṛtyeṣu ca yasya bhūpateḥ |
-  
-ciraṃ sa bhuṅkte cala-cāmarāṃśukāṃ
-  
-sitātapatrābharaṇāṃ nṛpa-śriyam ||Panc_3.255||  
-
-  
-na ca tvayā prāpta-rājyo 'ham iti matvā śrī-madenātmā vyasayitavyaḥ | yat kāraṇam-calā hi rājño vibhūtayaḥ vaṃśārohaṇavad rājya-lakṣmī-durārohā, kṣaṇa-vinipāta-ratā, prayatna-śatair api dhāryamāṇā durdharā, praśastārādhitāpy ante vipralambhinī, vānara-jātir iva vidrutāneka-cittā, padma-patram ivāghaṭita-saṃśleṣā, pavana-gatir ivāticapalā, anārya-saṅgatir ivāsthirā, āśīviṣa iva durupacārā, sandhyābhra-lekheva muhūrta-rāgā, jala-budbudāvalīva svabhāva-bhaṅgurā, śarīra-prakṛtir iva kṛtaghnā, svapna-labdha-dravya-rāśir iva kṣaṇa-dṛṣṭa-naṣṭā | api ca-  
-
-  
-yadaiva rājye kriyate'bhiṣekas 
-  
-tadaiva buddhir vyasaneṣu yojyā |
-  
-ghaṭā hi rājñām abhiṣeka-kāle
-  
-sahāmbhasaivāpadam udgiranti ||Panc_3.256||  
-
-  
-na ca kaścid anadhigamanīyo nāmāsty āpadām | uktaṃ ca-  
-
-  
-rāmasya vrajanaṃ vane nivasanaṃ pāṇḍoḥ sutānāṃ vane
-  
-vṛṣṇīnāṃ nidhanaṃ nalasya nṛpate rājyāt paribhraṃśanam |
-  
-nāṭyācāryakam arjunasya patanaṃ sañcintya laṅkeśvare
-  
-sarve kāla-vaśāj jano 'tra sahate kaḥ kaṃ paritrāyate ||Panc_3.257||  
-
-  
-kva sa daśarathaḥ svarge bhūtvā mahendra-suhṛd gataḥ 
-  
-kva sa jalanidher velāṃ baddhvā nṛpaḥ sagaras tathā | 
-  
-kva sa karatalāj jāto vainyaḥ kva sūrya-tanur manuḥ
-  
-nanu balavatā kālenaite prabodhya nimīlitāḥ ||Panc_3.258||  
-
-  
-māndhātā kva gatas triloka-vijayī rājā kva satyavrataḥ 
-  
-devānāṃ nṛpatir gataḥ kva nahuṣaḥ sac-chāstravān keśavaḥ |
-  
-manyante sarathāḥ sa-kuñjara-varāḥ śakrāsanādhyāsinaḥ
-  
-kālenaiva mahātmanā tv anukṛtāḥ kālena nirvāsitāḥ ||Panc_3.259||  
-
-  
-api ca-
-  
-sa ca nṛpatis te sacivās tāḥ pramadās tāni kānana-vanāni |
-  
-sa ca te ca tāś ca tāni ca kṛtānta-dṛṣṭāni naṣṭāni ||Panc_3.260||  
-
-  
-evaṃ matta-kari-karṇa-cañcalāṃ rājya-lakṣmīm avāpya nyāyaika-niṣṭho bhūtvopabhuṅkṣva |  
-
-  
-iti śrī-viṣṇu-śarma-viracite pañcatantre kākolūkīyaṃ nāma
-  
-tṛtīyaṃ tantraṃ samāptam 
-  
-||3||  
-  
-
-  
-************************************************************************  
-  
-
-  
-caturtha-tantram  
-
-  
-atha labdha-praṇāśam  
-
-  
-athedam ārabhate labdha-praṇāśaṃ nāma caturthaṃ tantram | yasyāyam ādimaḥ ślokaḥ-  
-
-  
-samutpanneṣu kāryeṣu buddhir yasya na hīyate |
-  
-sa eva durgaṃ tarati jalastho vānaro yathā ||Panc_4.1||  
-
-  
-tad yathānuśrūyate-
-  
-prastāvanā-kathā
-  
-vānara-makara-vṛttāntaḥ  
-
-  
-asti kasmiṃścit samudropakaṇṭhe mahān jambū-pādapaḥ sadā-phalaḥ | tatra ca raktamukho nāma vānaraḥ prativasati sma | tatra ca tasya taror adhaḥ kadācit karālamukho nāma makaraḥ samudra-salilān niṣkramya sukomala-bālukā-sanāthe tīropānte nyaviśata | tataś ca raktamukhena sa proktaḥ-bhoḥ ! bhavān samabhyāgato 'tithiḥ | tad bhakṣayatu mayā dattāny amṛta-tulyāni jambū-phalāni | uktaṃ ca-  
-
-  
-priyo vā yadi vā dveṣyo mūrkho vā yadi paṇḍitaḥ |
-  
-vaiśvadevāntam āpannaḥ so 'tithiḥ svarga-saṅkramaḥ ||Panc_4.2||
-  
-na pṛcchec caraṇaṃ gotraṃ na ca vidyāṃ kulaṃ na ca |
-  
-atithiṃ vaiśvadevānte śrāddhe ca manur abravīt ||Panc_4.3||
-  
-dūra-mārga-śrama-śrāntaṃ vaiśvadevāntam āgatam |
-  
-atithiṃ pūjayed yas tu sa yāti paramāṃ gatim ||Panc_4.4||
-  
-apūjito 'tithir yasya gṛhād yāti viniḥśvasan |
-  
-gacchanti pitaras tasya vimukhāḥ saha daivataiḥ ||Panc_4.5||  
-
-  
-evam uktvā tasmai jambū-phalāni dadau | so 'pi tāni bhakṣayitvā tena saha ciraṃ goṣṭhī-sukham anubhūya bhūyo 'pi sva-bhavanam agāt | evaṃ nityam eva tau vānara-makarau jambū-cchāyā-sthitau vividha-śāstra-goṣṭhyā kālaṃ nayantau sukhena tiṣṭhataḥ | so 'pi makaro bhakṣita-śeṣāṇi jambū-phalāni gṛhaṃ gatvā sva-patnyai prayacchati | athānyatame divase tayā sa pṛṣṭaḥ-nātha ! kvaivaṃvidhāny amṛta-phalāni prāpnoṣi ?  
-
-  
-sa āha-bhadre ! mamāsti parama-suhṛd raktamukho nāma vānaraḥ | sa prīti-pūrvakam imāni phalāni prayacchati |   
-
-  
-atha tayābhihitam-yaḥ sarvadaivāmṛta-prāyāṇīdṛśāni phalāni bhakṣayati, tasya hṛdayam amṛta-mayaṃ bhaviṣyati | tad yadi bhāryayā te prayojanaṃ, tatas tasya hṛdayaṃ mahyaṃ prayaccha | yena tad bhakṣayitvā jarā-maraṇa-rahitā tvayā saha bhogān bhunajmi |  
-
-  
-sa āha-bhadre ! mā maivaṃ vada | yataḥ sa pratipanno 'smākaṃ bhrātā | aparaṃ phala-dātā | tato vyāpādayituṃ na śakyate | tat tyajainaṃ mithāgrahaṇam | uktaṃ ca-  
-
-  
-ekaṃ prasūyate mātā dvitīyaṃ vāk prasūyate |
-  
-vāg-jātam adhikaṃ procuḥ sodaryād api bāndhavāt ||Panc_4.6||  
-
-  
-atha makary āha-tvayā kadācid api mama vacanaṃ nānyathā kṛtam | tan nūnaṃ sā vānarī bhaviṣyati, yatas tasyā anurāgataḥ sakalam api dinaṃ tatra gamayasi | tat tvaṃ jñāto mayā samyak | yataḥ-  
-
-  
-sāhlādaṃ vacanaṃ prayacchati na me no vāñchitaṃ kiñcana
-  
-prāyaḥ procchvasiṣi drutaṃ hutavaha-jvālā samaṃ rātriṣu |
-  
-kaṇṭhāśleṣa-parigrahe śithilatā yan nādarāc cumbase
-  
-tat te dhūrta hṛdi sthitā priyatamā kācin mamevāparā ||Panc_4.7||  
-
-  
-so 'pi patnyāḥ pādopasaṅgrahaṃ kṛtvāṅkopari nidhāya tasyāḥ kopa-koṭim āpannāyāḥ sudīnam uvāca-  
-
-  
-mayi te pāda-patite kiṅkaratvam upāgate |
-  
-tvaṃ prāṇa-vallabhe kasmāt kopane kopam eṣyasi ||Panc_4.8||  
-
-  
-sāpi tad-vacanam ākarṇyāśru-pluta-mukhī tam uvāca-  
-
-  
-sārdhaṃ manoratha-śatais tava dhūrta kāntā
-  
-saiva sthitā manasi kṛtrima-bhāva-ramyā |
-  
-asmākam asti na kathañcid ihāvakāśaṃ
-  
-tasmāt kṛtaṃ caraṇa-pāta-viḍambanābhiḥ ||Panc_4.9||  
-
-  
-aparaṃ sā yadi tava vallabhā na bhavati, tat kiṃ mayā bhaṇito 'pi tāṃ na vyāpādayasi | atha yadi sa vānaras tat kas tena saha tava snehaḥ ? tat kiṃ bahunā ? yadi tasya hṛdayaṃ na bhakṣayāmi, tan mayā prāyopaveśanaṃ kṛtaṃ viddhi |   
-
-  
-evaṃ tasyās tan niścayaṃ jñātvā cintā-vyākulita-hṛdayaḥ sa provāca-athavā sādhv idam ucyate-  
-
-  
-vajra-lepasya mūrkhasya nārīṇāṃ karkaṭasya ca |
-  
-eko grahas tu mīnānāṃ nīlī-madya-payos tathā ||Panc_4.10||  
-
-  
-tat kiṃ karomi ? kathaṃ sa me vadhyo bhavati | iti vicintya vānara-pārśvam agamat | vānaro 'pi cirād āyāntaṃ taṃ sodvegam avalokya provāca-bho mitra ! kim adya cira-velāyāṃ samāyāto 'si ? kasmāt sāhlādaṃ nālapasi ? na subhāṣitāni paṭhasi |  
-
-  
-sa āha-mitra ! ahaṃ tava bhrātṛ-jāyayā niṣṭhuratarair vākyair abhihitaḥ-bhoḥ kṛtaghna ! mā me tvaṃ svamukhaṃ darśaya, yatas tvaṃ pratidinaṃ mitram upajīvasi | na ca tasya punaḥ pratyupakāraṃ gṛha-darśana-mātreṇāpi karoṣi | tat te prāyaścittam api nāsti | uktaṃ ca-  
-
-  
-brahmaghne ca surāpe ca caure bhagna-vrate śaṭhe |
-  
-niṣkṛtir vihitā sadbhiḥ kṛtaghne nāsti niṣkṛtiḥ ||Panc_4.11||  
-
-  
-tat tvaṃ mama devaraṃ gṛhītvādya pratyupakārārthaṃ gṛham ānaya | no cet tvayā saha me para-loke darśanam iti | tad ahaṃ tayaivaṃ proktas tava sakāśam āgataḥ | tad adya tayā saha tvad-arthe kalahāyato mameyatī velā vilagnā | tad āgaccha me gṛham | tava bhrātṛ-patnī racita-catuṣkā praguṇita-vastra-maṇi-māṇikyādy-ucitābharaṇā dvāra-deśa-baddha-vandana-mālā sotkaṇṭhā tiṣṭhati | markaṭa āha-bho mitra ! yuktam abhihitaṃ mad-bhrātṛ-patnyā | uktaṃ ca-  
-
-  
-varjayet kaulikākāraṃ mitraṃ prājñataro naraḥ |
-  
-ātmanaḥ sammukhaṃ nityaṃ ya ākarṣati lolupaḥ ||Panc_4.12||  
-
-  
-tathā ca-
-  
-dadāti pratigṛhṇāti guhyam ākhyāti pṛcchati |
-  
-bhuṅkte bhojayate caiva ṣaḍ-vidhaṃ prīti-lakṣaṇam ||Panc_4.13||  
-
-  
-paraṃ vayaṃ vanacarāḥ yuṣmadīyaṃ ca jalānte gṛham | tat kathaṃ śakyate tatra gantum | tasmāt tām api me bhrātṛ-patnīm atrānaya yena praṇamya tasyā āśīrvādaṃ gṛhṇāmi |   
-
-  
-sa āha-bho mitra ! asti samudrāntare suramye pulina-pradeśe'smad-gṛham æ tan mama pṛṣṭham ārūdhaḥ sukhenākṛta-bhayo gaccha |  
-
-  
-so 'pi tac chrutvā sānandam āha-bhadra ! yady evaṃ tat kiṃ vilambyate | tvaryatām | eṣo 'haṃ tava pṛṣṭhām ārūḍhaḥ |  
-
-  
-tathānuṣṭhite'gādhe jaladhau gacchantaṃ marakam ālokya bhaya-trasta-manā vānaraḥ provāca-bhrātaḥ ! śanaiḥ śanair gamyatām | jala-kallolaiḥ plāvyate me śarīram |   
-
-  
-tad ākarṇya makaraś cintayāmāsa-asāv agādhaṃ jalaṃ prāpto me vaśaḥ sañjātaḥ | mat-pṛṣṭha-gatas tila-mātram api calituṃ na śaknoti | tasmāt kathayāmy asya nijābhiprāyam, yenābhīṣṭa-devatā-smaraṇaṃ karoti | āha ca-mitra, tvaṃ mayā vadhāya samānīto bhāryā-vākyena viśvāsya | tat smaryatām abhīṣṭa-devatā |  
-
-  
-sa āha-bhrātaḥ ! kiṃ mayā tasyās tavāpi cāpakṛtaṃ yena me vadhopāyaś cintitaḥ ?  
-
-  
-makara āha-bhoḥ ! tasyās tāvat tava hṛdayasyāmṛtamaya-phala-rasāsvādana-mṛṣṭasya bhakṣaṇe dohadaḥ sañjātaḥ | tenaitad anuṣṭhitam |  
-
-  
-pratyutpanna-matir vānara āha-bhadra ! yady evaṃ tat kiṃ tvayā mama tatraiva na vyāhṛtam ? yena sva-hṛdayaṃ jambū-koṭare sadaiva mayā suguptaṃ kṛtam | tad bhrātṛ-patnyā arpayāmi | tvayāhaṃ śūnya-hṛdayo 'tra kasmād ānītaḥ ?   
-
-  
-tad ākarṇya makaraḥ sānandam āha-bhadra ! yady evaṃ tad arpaya me hṛdayam | yena sā duṣṭa-patnī tad bhakṣayitvānaśanād utthiṣṭhati | ahaṃ tvāṃ tam eva jambū-pādapaṃ prāpayāmi | evam uktvā nivartya jambū-talam agāt | vānaro 'pi katham api jalpita-vividha-devatopacāra-pūjas tīram āsāditavān | tataś ca dīrghatara-caṅkramaṇena tam eva jambū-pādapam ārūḍhaś cintayāmāsa-aho ! labdhās tāvat prāṇāḥ | athavā sādhv idam ucyate-  
-
-  
-na viśvased aviśvaste viśvaste'pi na viśvaset |
-  
-viśvāsād bhayam utpannaṃ mūlāny api nikṛntati ||Panc_4.14||  
-
-  
-tan mamaitad adya punar janma-dinam iva sañjātam |  
-
-  
-iti cintayamānaṃ makara āha-bho mitra ! arpaya tad dhṛdayaṃ yathā te bhrātṛ-patnī bhakṣayitvānaśanād uttiṣṭhati |   
-
-  
-atha vihasya nirbhartsayan vānaras tam āha-dhig dhiṅ mūrkha viśvāsa-ghātaka ! kiṃ kasyacid dhṛdaya-dvayaṃ bhavati ? tad āśu gamyatāṃ jambū-vṛkṣasyādhastān na bhūyo 'pi tvayātrāgantavyam | uktaṃ ca yataḥ-  
-
-  
-sakṛd duṣṭaṃ ca yo mitraṃ punaḥ sandhātum icchati |
-  
-sa mṛtyum upagṛhṇāti garbham aśvatarī yathā ||Panc_4.15||  
-
-  
-tac chrutvā makaraḥ saṃvilakṣaṃ cintitavān-aho ! mayātimūḍhena kim asya sva-cittābhiprāyo niveditaḥ | tad yady asau punar api kathañcid viśvāsaṃ gacchati, tad bhūyo 'pi viśvāsayāmi | āha ca-mitra ! hāsyena mayā te'bhiprāyo labdhaḥ | tasyā na kiñcit tava hṛdayena prayojanam | tad āgaccha prāghuṇika-nyāyenāsmad-gṛham |  
-
-  
-vānara āha-bho duṣṭa ! gamyatām | adhunā nāham āgamiṣyāmi | uktaṃ ca-  
-
-  
-bubhukṣitaḥ kiṃ na karoti pāpaṃ 
-  
-kṣīṇā janā niṣkaruṇā bhavanti |
-  
-ākhyāhi bhadre priya-darśanasya
-  
-na gaṅgadattaḥ punar eti kūpam ||Panc_4.16||  
-
-  
-makara āha-katham etat ?  
-
-  
-sa āha-  
-
-  
-kathā 1
-  
-gaṅgadatta-priyadarśana-kathā  
-
-  
-kasmiṃścit kūpe gaṅgadatto nāma maṇḍūka-rājaḥ prativasati sma | sa kadācid dāyādair udvejito 'raghaṭṭa-ghaṭīm āruhya niṣkrāntaḥ | atha tena cintitam-yat kathaṃ tesāṃ dāyādānāṃ mayā pratyapakāraḥ kartavyaḥ | uktaṃ ca-  
-
-  
-āpadi yenāpakṛtaṃ yena ca hasitaṃ daśāsu viṣamāsu |
-  
-apakṛtya tayor ubhayoḥ punar api jātaṃ naraṃ manye ||Panc_4.17||  
-
-  
-evaṃ cintayan bile praviśantaṃ kṛṣṇasarpam apaśyat | taṃ dṛṣṭvā bhūyo 'py acintayat-yad enaṃ tatra kūpe nītvā sakala-dāyādānām ucchedaṃ karomi | uktaṃ ca-
-  
-śatrubhir yojayec chatruṃ balinā balavattaram |
-  
-sva-kāryāya yato na syāt kācit pīḍātra tat-kṣaye ||Panc_4.18||  
-
-  
-tathā ca-
-  
-śatrum unmūlayet prājñas tīkṣṇaṃ tīkṣṇena śatruṇā |
-  
-vyathā-karaṃ sukhārthāya kaṇṭakenaiva kaṇṭakam ||Panc_4.19||  
-
-  
-evaṃ sa vibhāvya bila-dvāraṃ gatvā tam āhūtavān-ehy ehi priya-darśana ! ehi !   
-
-  
-tac chrutvā sarpaś cintayāmāsa-ya evaṃ mām āhvayati | svajātīyo na bhavati | yato naiṣā sarpa-vāṇī | anyena kenāpi saha mama martya-loke sandhānaṃ nāsti | tad atraiva durge sthitas tāvad vedmi ko 'yaṃ bhaviṣyati | uktaṃ ca-  
-
-  
-yasya na jāyate śīlaṃ na kulaṃ na ca saṃśrayaḥ |
-  
-na tena saṅgatiṃ kuryād ity uvāca bṛhaspatiḥ ||Panc_4.20||  
-
-  
-kadācitko 'pi mantravādy auṣadha-caturo vā mām āhūya bandhane kṣipati | athavā kaścit puruṣo vairam āśritya kasyacid bhakṣaṇārthe mām āhvayati | āha ca-bhoḥ ! ko bhavān ?  
-
-  
-sa āha-ahaṃ gaṅgadatto nāma maṇḍūkādhipatis tvat-sakāśe maitry-artham abhyāgataḥ |  
-
-  
-tac chrutvā sarpa āha-bho ! aśraddheyam etat yat-tṛṇānāṃ vahninā saha saṅgamaḥ | uktaṃ ca-  
-
-  
-yo yasya jāyate vadhyaḥ sa svapne'pi kathañcana |
-  
-na tat-samīpam abhyeti tat kim evaṃ prajalpasi ||Panc_4.21||  
-
-  
-gaṅgadatta āha-bhoḥ ! satyam etat | svabhāva-vairī tvam asmākam | paraṃ para-paribhavāt prāpto 'haṃ te sakāśam | uktaṃ ca-  
-
-  
-sarva-nāśe ca sañjāte prāṇānām api saṃśaye |
-  
-api śatruṃ praṇamyāpi rakṣet prāṇāndhanāni ca ||Panc_4.22||  
-
-  
-sarpa āha-kathaya kasmāt te paribhavaḥ |  
-
-  
-sa āha-dāyādebhyaḥ |  
-
-  
-so 'py āha-kva te āśrayo vāpyāṃ kūpe taḍāge hrade vā | tat kathaya svāśrayam |   
-
-  
-tenoktam-pāṣāṇa-caya-nibaddhe kūpe |   
-
-  
-sarpa āha-aho apadā vayam | tatrāsti tatra me praveśaḥ | praviṣṭasya ca sthānaṃ nāsti | yatra sthitas tava dāyādān vyāpādayāmi | tad gamyatām | uktaṃ ca-  
-
-  
-yac chakyaṃ grasituṃ yasya grastaṃ pariṇamec ca yat |
-  
-hitaṃ ca pariṇāme yat tad ādyaṃ bhūtim icchatā ||Panc_4.23||  
-
-  
-gaṅgadatta āha-bhoḥ ! samāgaccha tvam | ahaṃ sukhopāyena tatra tava praveśaṃ kārayiṣyāmi | tathā tasya madhye jalopānte ramyataraṃ koṭaram asti | tatra sthitas tvaṃ līlayā dāyādān vyāpādayiṣyasi |   
-
-  
-tac chrutvā sarpo vyacintayat-ahaṃ tāvat pariṇata-vayāḥ | kadācit kathañcin mūṣakam ekaṃ prāpnomi | tat sukhāvaho jīvanopāyo 'yam anena kulāṅgāreṇa darśitaḥ | tad gatvā tān maṇḍūkān bhakṣayāmi iti | athavā sādhv idam ucyate-  
-
-  
-yo hi prāṇa-parikṣīṇaḥ sahāya-parivarjitaḥ |
-  
-sa hi sarva-sukhopāyāṃ vṛttim āracayed budhaḥ ||Panc_4.24||  
-
-  
-evaṃ vicintya tam āha-bho gaṅgadatta ! yady evaṃ tad-agre bhava | yena tatra gacchāvaḥ |
-  
-gaṅgadatta āha-bhoḥ priyadarśana ! ahaṃ tvāṃ sukhopāyena tatra neṣyāmi, sthānaṃ ca darśayiṣyāmi ta eva bhakṣaṇīyāḥ iti |   
-
-  
-sarpa āha-sāmprataṃ tvaṃ me mitraṃ jātam | tan na bhetavyam | tava vacanena bhakṣaṇyās te dāyādāḥ |   
-
-  
-evam uktvā bilān niṣkramya tam āliṅgya ca tenaiva saha prasthitaḥ | atha kūpam āsādyāra-ghaṭṭa-ghaṭikā-mārgeṇa sarpas tenātmanā svālayaṃ nītaḥ |   
-
-  
-gaṅgadatta āha-bhadra ! kutaḥ tvayā mitra-kṛtyam | tat sāmpratam anenaiva ghaṭikā-yantra-mārgeṇa gamyatām iti |  
-
-  
-sarpa āha-bho gaṅgadatta ! na samyag abhihitaṃ tvayā | katham ahaṃ tatra gacchāmi ? madīya-bila-durgam anyena ruddhaṃ bhaviṣyati | tasmād atra-sthasya me maṇḍūkam ekaikaṃ sva-vargīyaṃ prayaccha | no cet sarvān api bhakṣayiṣyāmi iti |   
-
-  
-tac chrutvā gaṅgadatto vyākula-manā vyācintayat-aho kim etan mayā kṛtaṃ sarpam ānayatā | tad yadi niṣedhayiṣyāmi tat sarvān api bhakṣayiṣyati | athavā yuktam ucyate-  
-
-  
-yo 'mitraṃ kurute mitraṃ vīryābhyadhikam ātmanaḥ |
-  
-sa karoti na sandehaḥ svayaṃ hi viṣa-bhakṣaṇam ||Panc_4.25||  
-
-  
-tat prayacchāmy asyaikaikaṃ pratidinaṃ suhṛdam | uktaṃ ca-  
-
-  
-sarvasva-haraṇe yuktaṃ śatruṃ buddhi-yutā narāḥ |
-  
-toṣayanty alpa-dānena bāḍavaṃ sāgaro yathā ||Panc_4.26||  
-
-  
-tathā ca-
-  
-yo durbalo 'ṇūn api yācyamāno
-  
-balīyasā yacchati naiva sāmnā |
-  
-prayacchate naiva ca darśyamānaṃ 
-  
-khārīṃ sa cūrṇasya punar dadāti ||Panc_4.27||  
-
-  
-tathā ca-
-  
-sarva-nāśe samutpanne ardhaṃ tyajati paṇḍitaḥ |
-  
-ardhena kurute kāryaṃ sarva-nāśo hi dustaraḥ ||Panc_4.28||
-  
-na svalpasya kṛte bhūri nāśayen matimān naraḥ |
-  
-etad eva hi pāṇḍityaṃ yat svalpād bhūri-rakṣaṇam ||Panc_4.29||  
-
-  
-evaṃ niścintya nityam ekaikam ādiśati | so 'pi taṃ bhakṣayitvā tasya parokṣe'nyān api bhakṣayati | athavā sādhv idam ucyate-  
-
-  
-yathā hi malinair vastrair yatra tatropaviśyate |
-  
-evaṃ calita-vittas tu vitta-śeṣaṃ na rakṣati ||Panc_4.30||  
-
-  
-athānya-dine tenāparān maṇḍūkān bhakṣayitvā gaṅgadatta-suto yamunādatto bhakṣitaḥ | taṃ bhakṣitaṃ matvā gaṅgadattas tāra-svareṇa dhig dhik pralāpa-paraḥ kathañcid api na virarāma | tataḥ sva-patnyābhihitaḥ-  
-
-  
-kiṃ krandasi durākranda sva-pakṣa-kṣaya-kāraka |
-  
-sva-pakṣasya kṣaye jāte ko nas trātā bhaviṣyati ||Panc_4.31||  
-
-  
-tad adyāpi vicintyatām ātmano niṣkramaṇam asya vadhopāyaś ca | atha gacchatā kālena sakalam api kavalitaṃ maṇḍūka-kulam | kevalam eko gaṅgadattas tiṣṭhati | tataḥ priyadarśanena bhaṇitam-bhoḥ gaṅgadatta ! bubhukṣito 'ham | niḥśeṣitāḥ sarve maṇḍūkāḥ | tad dīyatāṃ me kiñcid bhojanaṃ yato 'haṃ tvayātrānītaḥ |  
-
-  
-sa āha-bho mitra ! na tvayātra viṣaye mayāvasthitena kāpi cintā kāryā | tad yadi māṃ preṣayati tato 'nya-kūpa-sthān api maṇḍūkān viśvāsyātrānayāmi |   
-
-  
-sa āha-mama tāvat tvam abhakṣyo bhrātṛ-sthāne | tad yady evaṃ karoṣi tat sāmprataṃ pitṛ-sthāne bhavasi | tad evaṃ kriyatām iti |   
-
-  
-so 'pi tad ākarṇyāra-ghaṭṭa-ghaṭikām āśritya vividha-devatopakalpita-pūjopayācitas tat-kūpād viniṣkrāntaḥ | priyadarśano 'pi tad-ākāṅkṣayā tatrasthaḥ pratīkṣamāṇas tiṣṭhati | atha cirād anāgate gaṅgadatte priyadarśano 'nya-koṭara-nivāsinīṃ godhām uvāca-bhadre ! kriyatāṃ stokaṃ sāhāyyam | yataś cira-paricitas te gaṅgadattaḥ | tad gatvā tat-sakāśaṃ kutracij jalāśaye'nviṣya mama sandeśaṃ kathaya | yenāgamyatām ekākināpi bhavatā drutataraṃ yady anye maṇḍūkā nāgacchanti | ahaṃ tvayā vinā nātra vastuṃ śaknomi | tathā yady ahaṃ tava viruddham ācarāmi tat sukṛtam antare mayā vidhṛtam |  
-
-  
-godhāpi tad-vacanād gaṅgadattaṃ drutataram anviṣyāha-bhadra gaṅgadatta ! sa tava suhṛt-priyadarśanas tava mārgaṃ samīkṣamāṇas tiṣṭhati | tac chīghram āgamyatām iti |  
-
-  
-aparaṃ ca tena tava virūpa-karaṇe sukṛtam antare dhṛtam | tan-niḥśaṅena manasā samāgamyatām | tad ākarṇya gaṅgadatta āha-  
-
-  
-bubhukṣitaḥ kiṃ na karoti pāpaṃ
-  
-kṣīṇā narā niṣkaruṇā bhavanti |
-  
-ākhyāhi bhadre priya-darśanasya
-  
-na gaṅgadattaḥ punar eti kūpam ||Panc_4.32||  
-
-  
-evam uktvā sa tāṃ visarjayāmāsa |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-tad bho duṣṭa-jalacara ! aham api gaṅgadatta iva tvad-gṛhe na kathañcid api yāsyāmi |   
-
-  
-tac chrutvā makara āha-bho mitra ! athavātrāham anaśanāt prāṇa-tyāgaṃ tavopari kariṣyāmi |  
-
-  
-vānara āha-mūḍha ! kim ahaṃ lambakarṇo mūrkhaḥ ? dṛṣṭvāpāyo 'pi svayam eva tatra gatvātmānaṃ vyāpādayāmi |  
-
-  
-āgataś ca gataś caiva gatvā yaḥ punar āgataḥ |
-  
-akarṇa-hṛdayo mūrkhas tatraiva nidhanaṃ gataḥ ||Panc_4.33||  
-
-  
-makara āha-bhadra ! sa ko lambha-karṇaḥ | kathaṃ dṛṣṭāpāyo 'pi mṛtaḥ ? tan me nivedyatām | 
-  
-vānara āha-
-  
-kathā 2
-  
-karāla-kesara-kathā  
-
-  
-kasmiṃścid vanoddeśe karāla-kesaro nāma siṃhaḥ prativasati sma | tasya ca dhūsarako nāma śṛgālaḥ sadaivānuyāyī paricārako 'sti | atha kadācit tasya hastinā saha yudhyamānasya śarīre gurutarāḥ prahārāḥ sañjātāḥ | yaiḥ padam ekam api calituṃ na śaknoti | tasyācalanāc ca dhūsarakaḥ kṣutkṣāma-kaṇṭho daurbalyaṃ gataḥ | anyasminn ahani tam avocat-svāmin ! bubhukṣaya pīḍito 'ham | padāt padam api calituṃ na śaknomi | tat kathaṃ te śuśrūṣāṃ karomi ?  
-
-  
-siṃha āha-bhoḥ ! gaccha anveṣaya kiñcit sattvam | yenemām avasthāṃ gato 'pi vyāpādayāmi |   
-
-  
-tad ākarṇya śṛgālo 'nveṣayan kañcit samīpa-vartinaṃ grāmam āsāditavān | tatra lambakarṇo nāma gardabhas taḍāgopānte pravirala-dūrvāṅkurān kṛcchrād āsvādayan dṛṣṭaḥ | tataś ca samīpa-vartinā bhūtvā tenābhihitaḥ-māma ! namaskāro 'yaṃ madīyaḥ sambhāvyatām | cirād dṛṣṭo 'si | tat kathaya kim evaṃ durbalatāṃ gataḥ |  
-
-  
-sa āha-bho bhaginī-putra ! kiṃ kathayāmi | rajako 'tinirdayātibhāreṇa māṃ pīḍayati | ghāsa-muṣṭim api na prayacchati | kevalaṃ dūrvāṅkurān dhūi-miśritān bhakṣayāmi | tat kuto me śarīre puṣṭiḥ ?  
-
-  
-śṛgāla āha-māma ! yady evaṃ tad asti marakata-sadṛśa-śaṣpa-prāyo nadī-sanātho ramaṇīyataraḥ pradeśaḥ | tatrāgatya mayā saha subhāṣita-goṣṭhī-sukham anubhavaṃs tiṣṭha |  
-
-  
-lambakarṇa āha-bho bhaginī-suta ! yuktam uktaṃ bhavatā | paraṃ vayaṃ grāmyāḥ paśavo 'raṇya-cāriṇāṃ vadhyāḥ | tat kiṃ tena bhavya-pradeśena |  
-
-  
-śṛgāla āha- māma ! maivaṃ vada | mad-bhuja-pañjara-parirakṣitaḥ sa deśaḥ | tatrāsti na kaścid aparasya tatra praveśaḥ | paramam anenaiva doṣeṇa rajaka-kadarthitās tatra tisro rāsabhyo 'nāthāḥ santi | tāś ca puṣṭim āpannā yauvanotkaṭā idaṃ mām ūcuḥ-yadi tvam asmākaṃ satyo mātulas tadā kaṃcid grāmāntaraṃ gatvāsmad-yogyaṃ kaścit patim ānaya | tad-arthe tvām ahaṃ tatra nayāmi |  
-
-  
-atha śṛgāla-vacanāni śrutvā kāma-pīḍitāṅgas tam avocat-bhadra ! yady evaṃ tad-agre bhava yenāgacchāmi | athavā sādhv idam ucyate-  
-
-  
-nāmṛtaṃ na viṣaṃ kiñcid ekāṃ muktvā nitambinīm |
-  
-yasyāḥ saṅgena jīvyeta mriyate ca viyogataḥ ||Panc_4.34||  
-
-  
-tathā ca-
-  
-yāsāṃ nāmnāpi kāmaḥ syāt saṅgamaṃ darśanaṃ vinā |
-  
-tāsāṃ dṛk-saṅgamaṃ prāpya yan na dravati kautukam ||Panc_4.35||  
-
-  
-tatrānuṣṭhite śṛgālena saha siṃhāntikam āgataḥ | siṃho 'pi vyathākulitas taṃ dṛṣṭvā yāvat samuttiṣṭhati tāvad rāsabhaḥ palāyitum ārabdhavān | atha tasya palāyamānasya siṃhena tala-prahāro dattaḥ | sa ca manda-bhāgyasya vyavasāya iva vyarthatāṃ gataḥ | atrāntare śṛgālaḥ kopāviṣṭas tam uvāca-bhoḥ ! kim evaṃvidhaḥ prahāras te | yad gardabho 'pi tava purato balād gacchati | tat kathaṃ gajena saha yuddhaṃ kariṣyasi ? tad dṛṣṭaṃ te balam |  
-
-  
-atha savilakṣa-smitaṃ siṃha āha-bhoḥ ! kim ahaṃ karomi | mayā na kramaḥ sajjīkṛta āsīt | anyathā gajo 'pi mat-kramākrāntā na gacchati |   
-
-  
-śṛgāla āha-adyāpy eka-vāraṃ tavāntike tam āneṣyāmi | paraṃ tvayā sajjīkṛta-krameṇa sthātavyam |  
-
-  
-siṃha āha-bhadra ! yo māṃ pratyakṣaṃ dṛṣṭvā gataḥ sa punaḥ katham atrāgamiṣyati ? tad anyat kim api sattvam anviṣyatām |   
-
-  
-śṛgāla āha-kiṃ tavānena vyāpāreṇa ? tvaṃ kevalaṃ sajjita-kramas tiṣṭha |   
-
-  
-tathānuṣṭhite śṛgālo 'pi yāvad rāsabha-mārgeṇa gacchati, tāvat tatraiva sthāne caran dṛṣṭaḥ | atha śṛgālaṃ dṛṣṭvā rāsabhaḥ prāha-bho bhaginī-suta ! śobhana-sthāne tvayāhaṃ nītaḥ | drāṅ mṛtyu-vaśaṃ gataḥ | tat kathaya kiṃ tat sattvaṃ yasyātiraudra-vajra-sadṛśa-kara-prahārād ahaṃ muktaḥ |   
-
-  
-tac chrutvā prahasan śṛgāla āha-bhadra ! rāsabhī tvām āyāntaṃ dṛṣṭvā sānurāgam āliṅgituṃ samutthitā | tvaṃ ca kātaratvān naṣṭaḥ | sā punar na śaktā tvāṃ vinā sthātum | tayā tu naśatas te'valambanārthaṃ hastaḥ kṣiptaḥ | nānya-kāraṇena | tad āgaccha | sā tvat-kṛte prāyopaveśanopaviṣṭā tiṣṭhati | etad vadati-yal lambakarṇo yadi me bhartā na bhavati tad aham agnau jalaṃ vā praviśāmi | punas tasya viyogaṃ soḍhuṃ na śaknomi iti | tat prasādaṃ kṛtvā tatrāgamyatām | no cet tava strī-hatyā bhaviṣyati | aparaṃ bhagavān kāma-kopaṃ tavopari kariṣyati | uktaṃ ca-  
-
-  
-strī-mudrāṃ makaradhvajasya jayinīṃ sarvārdha-sampat-karīṃ
-  
-te mūḍhāḥ pravihāya yānti kudhiyo mithyā-phalānveṣiṇaḥ |
-  
-te tenaiva nihatya nirdayataraṃ nagnīkṛtā muṇḍitāḥ 
-  
-kecid rakta-paṭīkṛtāś ca jaṭilāḥ kāpālikāś cāpare ||Panc_4.36||  
-
-  
-athāsau tad-vacanaṃ śraddheyatayā śrutvā bhūyo 'pi tena saha prasthitaḥ | athavā sādhv idam ucyate-  
-
-  
-jānann api naro daivāt prakaroti vigarhitam |
-  
-karma kiṃ kasyacil loke garhitaṃ rocate katham ||Panc_4.37||  
-
-  
-atrāntare sajjita-krameṇa siṃhena sa lambakarṇo vyāpāditaḥ | tatas taṃ hatvā śṛgālaṃ rakṣakaṃ nirūpya svayaṃ snānārthaṃ nadyāṃ gataḥ | śṛgālenāpi laulyotsukyāt tasya karṇa-hṛdayaṃ bhakṣitam | atrāntare siṃho yāvat snātvā kṛte devārcanaḥ pratarpita-pitṛ-gaṇaḥ samāyāti tāvat karṇa-hṛdaya-rahito rāsabhas tiṣṭhati | taṃ dṛṣṭvā kopa-parītātmā siṃhaḥ śṛgālam āha-pāpa ! kim idam anucitaṃ karma samācaritam ? yat karṇa-hṛdaya-bhakṣaṇenāyam ucchiṣṭatāṃ nītaḥ |   
-
-  
-śṛgālaḥ sa-vinayam āha-svāmin ! mā maivaṃ vada | yat karṇa-hṛdaya-rahito 'yaṃ rāsabha āsīt, tenehāgatya tvām avalokya bhūyo 'py āgataḥ |  
-
-  
-atha tvad-vacanaṃ śraddheyaṃ matvā siṃhas tenaiva saṃvibhajya niḥśaṅkita-manās taṃ bhakṣitavān |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-āgataś ca gataś caiva iti | tan mūrkha ! kapaṭaṃ kṛtaṃ tvayā | paraṃ yudhiṣṭhireṇeva satya-vacanena vināśitam | athavā sādhv idam ucyate-  
-
-  
-svārtham utsṛjya yo dambhī satyaṃ brūte sumanda-dhīḥ |
-  
-sa svārthād bhraśyate nūnaṃ yudhiṣṭhira ivāparaḥ ||Panc_4.38||  
-
-  
-makara āha-katham etat ?  
-
-  
-sa āha-
-  
-kathā 3
-  
-yudhiṣṭhirākhya-kumbhakāra-kathā  
-
-  
-kasmiṃścit adhiṣṭhāne kumbhakāraḥ prativasati sma | sa kadācit pramādād ardha-magna-kharpara-tīkṣṇāgrasyopari mahatā vegena dhāvan patitaḥ | tataḥ khapara-koṭyā pāṭita-lalāī̀oo rudhira-plāvita-tanuḥ kṛcchrād utthāya svāśrayaṃ gataḥ | tataś cāpathya-sevanāt sa prahāras tasya karālatāṃ gataḥ kṛcchreṇa nīrogatāṃ nītaḥ |   
-
-  
-atha kadācid durbhikṣa-pīḍite deśe ca kumbhakāraḥ kṣutkṣāma-kaṇṭhaḥ kaiścid rāja-sevakaiḥ saha deśāntaraṃ gatvā kasyāpi rājñaḥ sevako babhūva | so 'pi rājā tasya lalāṭe vikarālaṃ prahāra-kṣataṃ dṛṣṭvā cintayāmāsa, yad-vīraḥ puruṣaḥ kaścid ayam | nūnaṃ tena lalāṭa-paṭṭe sammukha-prahāraḥ |  
-
-  
-atas taṃ samānādibhiḥ sarveṣāṃ rāja-putrāṇāṃ madhye viśeṣa-prasādena paśyati sma | te'pi rāja-putrās tasya taṃ prasādātirekaṃ paśyantaṃ paramerṣyā-dharmaṃ vahanto rāja-bhayān na kiñcid ūcuḥ |  
-
-  
-athānyasminn ahani tasya bhūpater vīra-sambhāvanāyāṃ kriyamāṇāyāṃ vigrahe samupasthite prakalpyamāneṣu gajeṣu saṃnahyamāneṣu vājiṣu yodheṣu | praguṇīkriyamāṇeṣu tena bhūbhujā sa kumbhakāraḥ prastāvānugataṃ pṛṣṭo nirjane-bho rāja-putra ! kiṃ te nāma ? kā ca jātiḥ ? kasmin saṅgrāme prahāro 'yaṃ te lalāṭe lagnaḥ ?  
-
-  
-sa āha-deva ! nāyaṃ śastra-prahāraḥ | yudhiṣṭhirābhidhaḥ kulālo 'haṃ prakṛtyā | mad-gehe'neka-kharparāṇy āsan | atha kadācin madya-pānaṃ kṛtvā nirgataḥ pradhāvan kharparopari patitaḥ | tasya prahāra-vikāro 'yaṃ me lalāṭe evaṃ vikarālatāṃ gataḥ |  
-
-  
-tad ākarṇya rājā sa-vrīḍam āha-aho vañcito 'haṃ rājāputrānukāriṇānena kulālena | tad dīyatāṃ drāg etasya candrārdhaḥ |   
-
-  
-tathānuṣṭhite kumbhakāra āha-mā maivaṃ kuru | paśya me raṇe hasta-lāghavam |   
-
-  
-rājā prāha-sarva-guṇa-sampanno bhavān | tathāpi gamyatām | uktaṃ ca-  
-
-  
-śūdraś ca kṛta-vighnaś ca darśanīyo 'si putraka |
-  
-yasmin kule tvam utpanno gajas tatra na hanyate ||Panc_4.39||  
-
-  
-kulāla āha-katham etat ?  
-
-  
-rājā kathayati-
-  
-kathā 4
-  
-siṃha-dampatī-kathā  
-
-  
-kasmiṃścid uddeśe siṃha-dampatī prativasataḥ sma | atha siṃhī putra-dvayam ajījanat | siṃho 'pi nityam eva mṛgān vyāpādya siṃhyai dadāti | athānyasmin ahani tena kim api nāsāditam | yena bhramato 'pi tasya ravir astaṃ gataḥ | atha tena sva-gṛham āgacchatā śṛgāla-śiśuḥ prāptaḥ | sa ca bālako 'yam ity avadhārya yatnena daṃṣṭrāmadhya-gataṃ kṛtvā siṃhyā jīvantam eva samarpitavān | tataḥ siṃhyābhihitam-bhoḥ kānta ! tvayānītaṃ kiñcid asmākaṃ bhojanam ?  
-
-  
-siṃha āha-priye ! mayādyainaṃ śṛgāla-śiśuṃ parityajya na kiñcit sattvam āsāditam | sa ca mayā bālo 'yam iti matvā na vyāpādito viśeṣāt svajātīyaś ca | uktaṃ ca-  
-
-  
-strī-vipraliṅgi-bāleṣu prahartavyaṃ na karhicit |
-  
-prāṇa-tyāge'pi sañjāte viśvasteṣu viśeṣataḥ ||Panc_4.40||  
-
-  
-idānīṃ tvam enaṃ bhakṣayitvā pathyaṃ kuru | prabhāte'nyat kiñcid upārjayiṣyāmi | sā prāha-bhoḥ kānta ! tvayā bālako 'yam iti vicintya na hataḥ | tat katham enam ahaṃ svodarārthe vināśayāmi | uktaṃ ca-  
-
-  
-akṛtyaṃ naiva kartavyaṃ prāṇa-tyāge'py upasthite |
-  
-na ca kṛtyaṃ parityājyam eṣa dharmaḥ sanātanaḥ ||Panc_4.41||  
-
-  
-tasmān mamāyaṃ tṛtīyaḥ putro bhaviṣyati | ity evam uktvā tam api svastana-kṣīreṇa parāṃ puṣṭim anayat | evaṃ te trayo 'pi śiśavaḥ parasparam ajñāta-jāti-viśeṣā ekācāra-vihārā bālya-samayaṃ nirvāhayanti | atha kadācit tatra vane bhramann araṇya-gajaḥ samāyātaḥ | taṃ dṛṣṭvā tau siṃha-sutau dvāv api kupitānanau taṃ prati pracalitau yāvat tāvat tena śṛgāla-sutenābhihitam-aho ! gajo 'yaṃ yuṣmat-kula-śatruḥ | tan na gantavyam etasyābhimukham |  
-
-  
-evam uktvā gṛhaṃ pradhāvitaḥ | tāv api jyeṣṭha-bāndhava-bhaṅgān nirutsāhatāṃ gatau | athavā sādhv idam ucyate-  
-
-  
-ekenāpi sudhīreṇa sotsāhena raṇaṃ prati |
-  
-sotsāhaṃ jāyate sainyaṃ bhagne bhaṅgam avāpnuyāt ||Panc_4.42||  
-
-  
-tathā ca-
-  
-ata eva vāñchanti bhūpā yodhān mahābalān |
-  
-śūrān vīrān kṛtotsāhān varjayanti ca kātarān ||Panc_4.43||  
-
-  
-atha tau dvāv api gṛhaṃ prāpya pitror agrato jyeṣṭha-bhrātṛ-ceṣṭitam ūcatuḥ-yathā gajaṃ dṛṣṭvā dūrato 'pi naṣṭaḥ |   
-
-  
-so 'pi tad ākarṇya kopāviṣṭa-manāḥ prasphuritādhara-pallavas tāmralocanas triśikhāṃ bhrukuṭiṃ kṛtvā tau nirbhartsayan paruṣatara-vacanāny uvāca-tataḥ siṃhyai kānte nītvā prabodhito 'sau-vatsa ! maivaṃ kadācij jalpa | bhavadīya-laghu-bhrātarāv etau |   
-
-  
-athāsau prabhūta-kopāviṣṭas tām uvāca-kim aham etābhyāṃ śauryeṇa rūpeṇa vidyābhyāsena kauśalena vā hīnaḥ ? yena mām upahasataḥ | tan mayāvaśyam etau vyāpādanīyau |   
-
-  
-tad ākarṇya siṃhī tasya jīvitam icchanty antar vihasya prāha-tat samyak śṛṇu | tvaṃ śṛgālī-sutaḥ | kṛpayā mayā svastana-kṣīreṇa puṣṭiṃ nītaḥ | tad yāvad etau mat-putrau śiśutvāt tvāṃ śṛgālaṃ na jānītaḥ, tāvad drutataraṃ gatvā svajātīyānāṃ madhye bhava | no ced ābhyāṃ hato mṛtyu-pathaṃ sameṣyasi | so 'pi tad-vacanaṃ śrutvā bhaya-vyākula-manāḥ śanaiḥ śanair apasṛtya sva-jātyā militaḥ | tasmāt tvaṃ api yāvad ete rāja-putrās tvāṃ kulālaṃ najānanti, tāvad drutataram apasara | no ced eteṣāṃ sakāśād viḍambanāṃ prāpya mariṣyāmi | kulālo 'pi tad ākarṇya satvaraṃ praṇaṣṭaḥ |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-svārtham utsṛjya yo dambhī (38) iti |  
-
-  
-dhiṅ mūrkha ! yat tvayā striyo 'rtha etat-kāryam anuṣṭhātum ārabdham | na hi strīṇāṃ kathañcid viśvāsam upagacchet | uktaṃ ca-  
-
-  
-yad-arthe sva-kulaṃ tyaktaṃ jīvitārdhaṃ ca hāritam |
-  
-sā māṃ tyajati niḥsnehā kaḥ strīṇāṃ viśvasen naraḥ ||Panc_4.44||  
-
-  
-makara āha-katham etat ?   
-
-  
-vānara āha-  
-
-  
-kathā 5
-  
-brāhmaṇa-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne ko 'pi brāhmaṇaḥ | tasya ca bhāryā prāṇebhyo 'py atipriyāsīt | so 'pi pratidinaṃ kuṭumbena saha kalahaṃ kurvāṇā na viśrāmyati | so 'pi brāhmaṇaḥ kalaham asahamāno bhāryā-vātsalyāt sva-kuṭumbaṃ parityajya brāhmaṇyā saha viprakṛṣṭaṃ deśāntaraṃ gataḥ | atha mahāṭavī-madhye brāhmaṇyābhihitaḥ-ārya-putra ! tṛṣṇā māṃ bādhate | tad udakaṃ kvāpy anveṣaya |   
-
-  
-athāsau tad-vacanānantaraṃ yāvad-udakaṃ gṛhītvā samāgacchati tāvat tāṃ mṛtām apaśyat | ativallabhatayā viṣādaṃ kurvan yāvad vilapati tāvad ākāśe vācaṃ śṛṇoti | yathā hi-yadi brāhmaṇa tvaṃ svakīya-jīvitasyārdhaṃ dadāsi tatas te jīvati brāhmaṇī |  
-
-  
-tac chrutvā brāhmaṇena śucībhūya tisṛbhir vācobhiḥ svajīvitārdhaṃ dattam | vāk-samam eva ca brāhmaṇī jīvitā sā | atha tau jalaṃ pītvā vana-phalāni bhakṣayitvā gantum ārabdhau | tataḥ krameṇa kasyacin nagarasya pradeśe puṣpa-vāṭikāṃ praviśya brāhmaṇo bhāryām abhihitavān-bhadre, yāvad ahaṃ bhojanaṃ gṛhītvā samāgacchāmi tāvad atra tvayā sthātavyam |  
-
-  
-ity abhidhāya brāhmaṇo nagara-madhye jagāma | atha tasyāṃ puṣpa-vāṭikāyāṃ paṅgura ara-ghaṭṭaṃ khelayan divya-girā gītam udgirati | tac ca śrutvā kusumeṣuṇārditā brāhmaṇyā tat-sakāśaṃ gatvābhihitam-bhadra ! yarhi māṃ na kāmayase, tan mat-saktā strī-hatyā tava bhaviṣyati |  
-
-  
-paṅgur abravīt-kiṃ vyādhi-grastena mayā kariṣyasi ?  
-
-  
-sābravīt-kim anenoktena ? avaśyaṃ tvayā saha mayā saṅgamaḥ kartavyaḥ |  
-
-  
-tac chrutvā tathā kṛtavān | suratānantaraṃ sābravīt-itaḥ-prabhṛti yāvaj-jīvaṃ mayātmā bhavate dattaḥ | iti jñātvā bhavān apy asmābhiḥ sahāgacchatu |  
-
-  
-so 'bravīt-evam astu |  
-
-  
-atha brāhmaṇo bhojanaṃ gṛhītvā samāgatya tayā sahabhoktum ārabdhaḥ sābravīt-eṣa paṅgur bubhukṣitaḥ | tad etasyāpi kiyantam api grāsaṃ dehi iti |  
-
-  
-tathānuṣṭhite brāhmaṇyābhihitaṃ-brāhmaṇa, sahāya-hīnas tvaṃ yadā grāmāntaraṃ gacchasi, tadā mama vacana-sahāyo 'pi nāsti | tad enaṃ paṅguṃ gṛhītvā gacchāvaḥ |   
-
-  
-so 'bravīt-na śaknomy ātmānam apy ātmanāṃ voḍhum | kiṃ punar enaṃ paṅgum ?  
-
-  
-sābravīt-peṭābhyantara-stham enam ahaṃ neṣyāmi |  
-
-  
-atha tat-kṛtaka-vacana-vyāmohita-cittena tena pratipannam | tathānuṣṭhite'nyasmin dine kūpopakaṇṭhe viśrānto brāhmaṇas tayā ca paṅgu-puruṣāsaktayā samprerya kūpāntaḥ pātitaḥ | sāpi paṅguṃ gṛhītvā kasmiṃścin nagare praviṣṭā | tatra śulka-caurya-rakṣā-nimittaṃ rāja-puruṣair itas tato bhramadbhis tan-mastaka-sthā peṭī dṛṣṭā balād ācchidya rājāgre nītā | rājā ca yāvat tām udghāṭayati tāvat taṃ paṅguṃ dadarśa | tataḥ sā brāhmaṇī vilāpaṃ kurvatī rāja-puruṣānupadam eva tatrāgatā | rājñā pṛṣṭā-ko vṛttāntaḥ ? iti |  
-
-  
-sābravīt-mamaiṣa bhartā vyādhi-bādhito dāyāda-samūhair udvejito mayā sneha-vyākulita-mānasayā śirasi kṛtvā bhavadīya-nagara ānītaḥ |  
-
-  
-tac chrutvā rājābravīt-brāhmaṇi ! tvaṃ me bhaginī | grāma-dvayaṃ gṛhītvā bhartā saha bhogān bhuñjānā sukhena tiṣṭha |   
-
-  
-atha sa brāhmaṇo daiva-vaśāt kenāpi sādhunā kūpād uttāritaḥ paribhramaṃs tad eva nagaram āyātaḥ | tayā duṣṭa-bhāryayā dṛṣṭā rājñe niveditaḥ-rājan ! ayaṃ mama bhartur vairī samāyātaḥ |   
-
-  
-rājñāpi vadha ādiṣṭaḥ | sābravīt-deva, anayā mama saktaṃ kiñcit gṛhītam asti | yadi tvaṃ dharma-vatsalaḥ, tad dāpaya |   
-
-  
-rājābravīt-bhadre ! yat tvayāsya saktaṃ kiñcit gṛhītam asti tat samarpaya |  
-
-  
-sā prāha-deva, mayā na kiñcid gṛhītam |  
-
-  
-brāhmaṇa āha-yan mayā trivācikaṃ sva-jīvitārdhaṃ dattam, tad dehi |  
-
-  
-atha sā rāja-bhayāt tatraiva trivācikam eva jīvitārdham anena dattam iti jalpantī prāṇair vimuktā | tataḥ sa-vismayaṃ rājābravīt-kim etat iti | brāhmaṇenāpi pūrva-vṛttāntaḥ sakalo 'pi tasmai niveditaḥ |   
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-yad-arthe sva-kulaṃ tyaktam (44) iti |  
-
-  
-vānaraḥ punar āha-sādhu cedam upākhyānakaṃ śrūyate-  
-
-  
-na kiṃ dadyān na kiṃ kuryāt strībhir abhyarthito naraḥ |
-  
-anaśvā yatra hreṣante śiraḥ parvaṇi muṇḍitam ||Panc_4.45||  
-
-  
-makara āha-katham etat ?  
-
-  
-vānaraḥ kathayati-  
-
-  
-kathā 6  
-
-  
-atiprakhyāta-bala-pauruṣo 'neka-narendra-mukuṭa-marīci-jāla-jaṭilī-kṛta-pāda-pīṭhaḥ śarac-chaśāṅka-kiraṇa-nirmala-yaśāḥ samudra-paryantāyāḥ pṛthivyā bhartā nando nāma rājā | yasya sarva-śāstrādhigata-samasta-tattvaḥ sacivo vararucir nāma | tasya ca praṇaya-kalahena jāyā kupitā | sā cātīva vallabhāneka-prakāraṃ paritoṣyamāṇāpi na prasīdati | bravīti ca bhartā-bhadre ! yena prakāreṇa tuṣyati taṃ vada | niścitaṃ karomi |   
-
-  
-tataḥ kathañcit tayoktaṃ-yadi śiro muṇḍayitvā mama pādayor nipatasi, tadā prasādābhimukhī bhavāmi |   
-
-  
-tathānuṣṭhite prasannāsīt | atha nandasya bhāryāpi tathaiva ruṣṭā prasādyamānāpi na tuṣyati | tenoktam-bhadre ! tvayā vinā muhūrtam api na jīvāmi | pādayoḥ patitvā tvāṃ prasādayāmi |   
-
-  
-sābravīt-yadi khalīnaṃ mukhe prakṣityāhaṃ tava pṛṣṭhe samāruhya tvāṃ dhāvayāmi | dhāvitas tu yady aśvavad dhreṣase, tadā prasannā bhavāmi |   
-
-  
-rājñāpi tathaivānuṣṭhitam | atha prabhāta-samaye sabhāyām upaviṣṭasya rājñaḥ samīpe vararucir āyātaḥ | taṃ ca dṛṣṭvā rājā papraccha-bho vararuce ! kiṃ parvaṇi muṇḍitaṃ śiras tvayā ?   
-
-  
-so 'bravīt-na kiṃ dadyāt (45) ity ādi | tad bho dusṭa makara ! tvam api nanda-vararuci-vat strī-vaśyaḥ | tato bhadra āgatena tvayā māṃ prati vadhopāya-prayāsaḥ prārabdhaḥ | paraṃ sva-vāg-doṣeṇaiva prakaṭībhūtaḥ | athavā sādhv idam ucyate-  
-
-  
-ātmano mukha-doṣeṇa badhyante śuka-sārikāḥ |
-  
-bakās tatra na badhyante maunaṃ sarvārtha-sādhanam ||Panc_4.46||  
-
-  
-tathā ca-
-  
-suguptaṃ rakṣyamāṇo 'pi darśayan dāruṇaṃ vapuḥ |
-  
-vyāghra-carma-praticchanno vāk-kṛte rāsabho hataḥ ||Panc_4.47||  
-
-  
-makara āha-katham etat ?  
-
-  
-vānaraḥ kathayati-  
-
-  
-kathā 8
-  
-śuddhapaṭa-nāma-rajaka-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne śuddhapaṭo nāma rajakaḥ prativasati sma | tasya ca gardabha eko 'sti | so 'pi ghāsābhāvād atidurbalatāṃ gataḥ | atha tena rajakenāṭavyāṃ paribhramatā mṛta-vyāghro dṛṣṭaḥ | cintitaṃ ca-aho ! śobhanam āpatitam | anena vyāghra-carmaṇā praticchādya rāsabhaṃ rātrau yava-kṣetreṣūtsrakṣyāmi | yena vyāghraṃ matvā samīpa-vartinaḥ kṣetra-pālā enaṃ na niṣkāsayiṣyanti |   
-
-  
-tathānuṣṭhite rāsabho yathecchayā yava-bhakṣaṇaṃ karoti | pratyūṣe bhūyo 'pi rajakaḥ svāśrayaṃ nayati | evaṃ gacchatā kālena sa rāsabhaḥ pīvara-tanur jātaḥ | kṛcchrād bandhana-sthānam api nīyate | athānyasminn ahani sa madhoddhato dūrād rāsabhī-śabdam aśṛṇot | tac-chravaṇa-mātreṇaiva svayaṃ śabdayitum ārabdhaḥ |   
-
-  
-atha te kṣetra-pālā rāsabho 'yaṃ vyāghra-carma-praticchanna iti jñātvā laguḍa-śara-pāṣāṇa-prahārais taṃ vyāpāditavantaḥ |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-suguptaṃ rakṣyamāṇo 'pi (47) iti | tat kiṃ śyāmalakavad atyapamāna-sahanād ardha-candra-dānena yāsyasi |  
-
-  
-makara āha-katham etat ?  
-
-  
-vānara āha-
-  
-kathā 9
-  
-mahādhana-īśvara-nāma-bhāṇḍapati-kathā  
-
-  
-asty atra dharā-pīṭhe vikaṇṭakaṃ nāma puram | tatra mahā-dhana īśvaro nāma bhāṇḍa-patiḥ | tasya catvāro jāmātṛkā avantī-pīṭhāt prāghūrṇikā vikaṇṭaka-pure samāyātāḥ | te ca yena mahatā gauraveṇābhyarcitā bhojānācchādanādibhiḥ | evaṃ teṣāṃ tatra vasatāṃ māsa-ṣaṭkaṃ sañjātam | tata īśvareṇa svabhāryoktā yad ete jāmātaraḥ parama-gauraveṇāvarjitāḥ svāmi gṛhāṇi na gacchanti, tat kiṃ kathyate ? vināpamānaṃ na yāsyanti | tad adya bhojana-velāyāṃ pāda-prakṣālanārthaṃ jalaṃ na deyaṃ yenāpamānaṃ jñātvā parityajya gacchantīti | 
-  
-tathānuṣṭhite gargaḥ pāda-prakṣālanāpamānāt, somo laghv-āsana-dānāt, dattaḥ kadaśanato yātaḥ | evaṃ te trayo 'pi parityajya gatāḥ | caturthaḥ śyāmalako yāvan na yāti tāvad ardha-candra-pradānena niṣkāsitaḥ |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-  
-
-  
-gargo hi pāda-śaucāl laghv-āsana-dānato gataḥ somaḥ |
-  
-dattaḥ kadaśana-bhojyāc chyāmalakaś cārdha-candreṇa ||Panc_4.48||  
-
-  
-tat kim ahaṃ rathakāravan mūrkho yataḥ svayam api dṛṣṭvā te vikāra-paścād viśvasimi | uktaṃ ca-  
-
-  
-pratyakṣe'pi kṛte pāpe mūrkhaḥ sāmnā praśāmyati |
-  
-rathakāraḥ svakāṃ bhāryāṃ sajārāṃ śirasāvahat ||Panc_4.49||  
-
-  
-makara āha-katham etat ?  
-
-  
-vānaraḥ kathayati-  
-
-  
-kathā 10
-  
-rathakāra-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne kaścid rathakāraḥ prativasati sma | tasya bhāryā puṃśalīti janāpavāda-saṃyuktā | so 'pi tasyāḥ parīkṣārthaṃ vyacintayat-kathaṃ mayāsyāḥ parīkṣaṇaṃ kartavyam | na caitad yujyate kartuṃ, yataḥ-  
-
-  
-nadīnāṃ ca kulānāṃ ca munīnāṃ ca mahātmanām |
-  
-parīkṣā na prakartavyā strīṇāṃ duścaritasya ca ||Panc_4.49||  
-
-  
-vasor vīryotpannām abhajata munir matsya-tanayāṃ
-  
-tathā jāto vyāso śata-guṇa-nivāsaḥ kim aparam |
-  
-svayaṃ vedān vyasyan śamita-kuru-vaṃśa-prasavitā
-  
-sa evābhā̆c chrīmān ahaha viṣamā karma-gatayaḥ ||Panc_4.50||  
-
-  
-kulānām iti pāṇḍavānām api mahātmanāṃ notpattir adhigantavyā yataḥ te kṣetrajā iti | strī-duścaritaṃ sandhukṣyamāṇam aneka-doṣān prakaṭayati strīṇām iti | tathā ca-  
-
-  
-yadi syāt pāvakaḥ śītaḥ proṣṇo vā śaśa-lāñchanaḥ |
-  
-strīṇāṃ tadā satītvaṃ syād yadi syād durjano hitaḥ ||Panc_4.51||  
-
-  
-yathāpi śuddhām aśuddhāṃ vāpi jānāmi loka-vacanāt | uktaṃ ca-  
-
-  
-yan na vedeṣu śāstreṣu na dṛṣṭaṃ na ca saṃśrutam |
-  
-tat sarvaṃ vetti loko 'yaṃ yat syād brahmāṇḍa-madhyagam ||Panc_4.52||  
-
-  
-evaṃ sampradhārya tām avocata-priye, ahaṃ prātar grāmāntaraṃ yāsyāmi tatra dināni katicil lagiṣyanti | tat tvayā kiñcit pātheyaṃ mama yogyaṃ kāryam |   
-
-  
-sāpi tad ākarṇya harṣita-cittautsukyena sarva-kāryāṇi santyajya siddham annaṃ ghṛta-śarkarā-prāyam akarot | athavā sādhv idam ucyate-  
-
-  
-durdivase ghana-timire duḥkha-cārāsu nagara-vīthīṣu |
-  
-patyau videśa-yāte parama-sukhaṃ jaghana-capalāyāḥ ||Panc_4.53||  
-
-  
-athāsau pratyūṣe utthāya sva-gṛhān nirgataḥ | sāpi taṃ prasthitaṃ vijñāya prahasita-vadanāṅga-satkāraṃ kurvāṇā kathañcit taṃ divasam atyavāhayat | tataś ca pūrva-paricitaṃ viṭa-gṛhaṃ gatvā tam abhyarthoktavatī yad-grāmāntaraṃ gataḥ sa durātmā me patiḥ | tad adya tvayāsmad-gṛhe prasupte jane samāgantavyam |  
-
-  
-tathānuṣṭhite sa rathakāro 'py araṇye dinam ativāhya pradoṣe sva-gṛham apara-dvāreṇa praviṣṭaḥ śayyā-tale nibhṛto bhūtvā sthitaḥ | atrāntare sa devadattaḥ śayana āgatyopaviṣṭaḥ | taṃ dṛṣṭvā rathakāro roṣāviṣṭa-citto vyacintayat-kim enam utthāya vināśayāmy athavā dvāv apy etau suptau helayā hanmi | paraṃ paśyāmi tāvac ceṣṭitam asyāḥ śṛṇomi cānena sahālāpān | atrāntare sā gṛha-dvāraṃ nibhṛtaṃ pidhāya śayana-talam ārūḍhā | tasyās tac-chayanam ārohantyā rathakāra-śarīre pādo lagnaḥ | tato vyacintayat-nūnam etena durātmanā rathakāreṇa mat-parīkṣārthaṃ bhāvyam | tat-strī-carita-vijñānaṃ kim api karomi | evaṃ tasyāś cintayantyāḥ sa devadattaḥ sparśotsukyo babhūva | tataś ca tayākṛtāūjali-puṭayābhihitaṃ-bho
-  
-mahānubhava ! na me gātraṃ tvayā spraṣṭavyam, yato 'haṃ pativratā mahā-satī ca | no cec chāpaṃ dattvā tvāṃ bhasmasāt kariṣyāmi |   
-
-  
-sa āha-yady evaṃ tarhi kim arthaṃ tvayāhūtaḥ ?  
-
-  
-sā prāha-bhoḥ ! śṛṇuṣvaikāgra-manāḥ | aham adya pratyūṣe devatā-darśanārthaṃ caṇḍikāyatanaṃ gatā | tatrākasmāt khe vāṇī sañjātā-putri, kiṃ karomi | bhaktāsi me tvam | paraṃ ṣaṇmāsābhyantare vidhi-niyogād vidhavā bhaviṣyasi | tato mayābhihitaṃ-bhagavati ! yayā tvam āpadaṃ vetsi tathā tat-partīkāram api jānāsi | tad asti kaścid upāyo yena me patiḥ śata-saṃvatsara-jīvī bhavati | tatas tayābhihitaṃ-vatse, sann api nāsti yatas tavāyattaḥ sa pratīkāraḥ | tac chrutvā mayābhihitaṃ-devi ! yan mat-prāṇair bhavati tad ādeśaya yena karomi | tato devyābhihitaṃ-yady adya dine para-puruṣeṇa sahaikasmiñ chayane samāruhyāliṅganaṃ karoṣi, tadā tava bhartṛ-sakto 'pamṛtyus tasya sañcarita, tvad-bhartā punar varṣa-śataṃ jīvati | tena mayā tvam abhyarthitaḥ | tayo
-  
-yat kiñcit kartum anās tat kuruṣva, nahi devatā-vacanam anyathā bhaviṣyatīti niścayaḥ | tato 'ntarhāsa-vikāsa-mukhaḥ sa tad-ucitam ācacāra |  
-
-  
-so 'pi rathakāro mūrkhas tasyās tad-vacanam ākarṇya pulakāṅkita-tanuḥ śayyā-talān niṣkramya tām uvāca-sādhu pativrate ! sādhu kula-nandini ! sādhu ! ahaṃ durjana-vacana-śaṅkita-hṛdayas tvat-parīkṣārthaṃ grāmāntara-vyājaṃ kṛtvātra nibhṛtaṃ khaṭvā-tale līnaḥ sthitaḥ | tad ehi, āliṅgaya mām | tvaṃ sva-bhartṛ-bhaktānāṃ mukhyā nārīṇāṃ, yad evaṃ brahma-vrataṃ para-saṅge'pi pālitavatī | mad-āyur-vṛddhi-kṛte'pamṛtyu-vināśārthaṃ ca tvam evaṃ kṛtavatī | tām evam uktvā sa-sneham āliṅgitavān | sva-skandhe tām āropya tam api devadattam uvāca-bhoḥ mahānubhāva ! mat-puṇyais tvam ihāgataḥ | tvat-prasādāt prāptām adya mayā varṣa-śata-pramāṇam āyuḥ | tatas tvam api māṃ samāliṅgaya skandhaṃ me samāroha | iti jalpann anicchantam
-  
-api devadattaṃ balād āliṅgya skandhe samāropitavān | tataś ca tūrya-dhvani-cchandena nṛtyan sakala-gṛha-dvāreṣu babhrāma |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-pratyakṣe'pi kṛte pāpe (49) | tan mūḍha ! dṛṣṭa-vikāras tvam, tat kathaṃ tatra gṛhaṃ gacchāmi | athavā yan māṃ tvaṃ viśvāsayasi tat te doṣo nāsti, yat īdṛśī svabhāva-duṣṭā yuṣmaj-jātir yā śiṣṭa-saṅgād api saumyatvaṃ na yāti | athavā svabhāvo 'yaṃ duṣṭānām | uktaṃ ca-  
-
-  
-sadbhiḥ sambodhyamāno 'pi durātmā pāpa-pauruṣaḥ |
-  
-ghṛṣyamāṇa ivāṅgāro nirmalatvaṃ na gacchati ||Panc_4.54||  
-
-  
-tan mūrkha ! strī-lubdha ! strī-jita ! anye'pi ye tvad-vidhā bhavanti te sva-kāryaṃ vibhavaṃ mitraṃ ca parityajanti tat-kṛte | uktaṃ ca-  
-
-  
-yā mamodvijate nityaṃ sādya mām avagūhate |
-  
-priya-kāraka bhadraṃ te yan mamāsti harasva tat ||Panc_4.55||  
-
-  
-makara āha-katham etat ?  
-
-  
-vānaro 'bravīt-  
-
-  
-kathā 11
-  
-kāmātura-kathā  
-
-  
-asti kasmiṃścid adhiṣṭhāne kāmāturo nāma mahādhano vṛddha-vaṇik | tena mṛta-bhāryeṇa kāmopahata-cetasā kācin nirdhana-vaṇik-sutā prabhūtaṃ vittaṃ dattvodvāhitā | atha sā duḥkhābhibhūtā taṃ vṛddha-vaṇijaṃ draṣṭum api na śaśāka | athavā sādhv idam ucyate-  
-
-  
-śvetaṃ padaṃ śirasi yat tu śiroruhāṇāṃ
-  
-sthānaṃ paraṃ paribhavasya tad eva puṃsām |
-  
-āropitāsthi-śakalaṃ parihṛtya yānti 
-  
-cāṇḍāla-kūpam iva dūrataraṃ taruṇyaḥ ||Panc_4.56||  
-
-  
-tathā ca-
-  
-gātraṃ saṅkucitaṃ gati-vigalitā dantāś ca nāśaṃ gatāh
-  
-dṛṣṭir bhrāmyati rūpam eva hrasate vaktraṃ ca lālāyate |
-  
-vākyaṃ naiva karoti bāndhava-janaḥ patnī na śuśrūṣate 
-  
-hā kaṣṭaṃ jarayābhibhūta-puruṣaḥ putrair avajñāyate ||Panc_4.57||  
-
-  
-atha kadācit sā tena sahaika-śayane parāṅ-mukhī yāvat tiṣṭhati tāvat tasya gṛhe cauraḥ praviṣṭaḥ | sāpi taṃ cauram avalokya bhaya-vyākulā vṛddham api patiṃ gāḍhaṃ samāliliṅga | so 'pi vismayāt pulakāṅkita-sarva-gātraś cintayāmāsa-aho ! kim eṣā mām adyāvagūhate | aho citram etat ! tataś ca yāvan nipuṇatayāvalokayati tāvat cauraḥ praviṣṭaḥ koṇaika-deśe tiṣṭhati | punar apy acintayat-nūnam eṣā caurasya bhayān mām āliṅgati | taj jñātvā cauram āha-yā mamodvijate nityaṃ sādya (55) iti | bhūyo 'pi nirgacchantam avādīt-bho cora ! nityam eva tvayā rātrāv āgantavyaṃ madīyo 'yaṃ vibhavas tvadīya iti |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-yā mamodvijate ity ādi | kiṃ bahunā, tena ca strī-lubdhena svaṃ sarvaṃ caurasya samarpitam | tvayāpi tathānuṣṭhitam |  
-
-  
-athaiva tena saha vadato makarasya jalacareṇaikenāgatyābhihitam-bho makara ! tvadīyā bhāryānaśanopaviṣṭā tvayi cirayati praṇayābhibhavād vipannā | evaṃ tad-vajra-pāta-sadṛśa-vacanam ākarṇyātīvra-vyākulita-hṛdayaḥ pralapitam evaṃ cakāra-aho kim idaṃ sañjātaṃ me manda-bhāgasya | uktaṃ ca-  
-
-  
-na gṛhaṃ gṛham ity āhur gṛhiṇī gṛham ucyate |
-  
-gṛhaṃ tu gṛhiṇī-hīnaṃ kāntārān nātiricyate ||Panc_4.58||  
-
-  
-anyac ca-
-  
-vṛkṣa-mūle'pi dayitā yatra tiṣṭhati tad gṛham |
-  
-prāsādo 'pi tayā hīno 'raṇya-sadṛśaḥ smṛtaḥ ||Panc_4.59||
-  
-mātā yasya gṛhe nāsti bhāryā ca priya-vādinī |
-  
-araṇyaṃ tena gantavyaṃ yathāraṇyaṃ tathā gṛham ||Panc_4.60||  
-
-  
-tan mitra ! kṣamyatām | mayā te'parādhaḥ kṛtaḥ | sampraty ahaṃ tu strī-viyogād vaiśvānara-praveśaṃ kariṣyāmi | tan mūḍha ! ānande'pi jāte tvaṃ viṣādaṃ gataḥ | tādṛg-bhāryāyāṃ mṛtāyām utsavaḥ kartuṃ yujyate | uktaṃ ca yataḥ-  
-
-  
-yā bhāryā duṣṭa-caritrā satataṃ kalaha-priyā |
-  
-bhāryā-rūpeṇa sā jñeyā vidagdhair dāruṇā jarā ||Panc_4.61||
-  
-tasmāt sarva-prayatnena nāmāpi parivarjayet |
-  
-strīṇām iha hi sarvāsāṃ ya icchet sukham ātmanaḥ ||Panc_4.62||
-  
-yad-antas tan na jihvāyāṃ yaj jihvāyāṃ na tad-bahiḥ |
-  
-yad-bahis tan na kurvanti vicitra-caritāḥ striyaḥ ||Panc_4.63||
-  
-ke nāma na vinaśyanti mithyā-jñānān nitambinīm |
-  
-ramyāṃ te upasarpanti dīpābhāṃ śalabhā yathā ||Panc_4.64||
-  
-antar-viṣa-mayā hy etā bahiś caiva manoramāḥ |
-  
-guñjā-phala-samākārā yoṣitaḥ kena nirmitāḥ ||Panc_4.65||
-  
-tāḍitā api daṇḍena śastrair api vikhaṇḍitāḥ |
-  
-na vaśaṃ yoṣito yānti na dānair na ca saṃstavaiḥ ||Panc_4.66||
-  
-āstāṃ tāvat kim anyena daurātmyeneha yoṣitām |
-  
-vidhṛtaṃ svodareṇāpi ghnanti putram api svakam ||Panc_4.67||
-  
-rūkṣāyāṃ sneha-sad-bhāvaṃ kaṭhorāyāṃ sumārdavam |
-  
-nīrasāyāṃ rasaṃ bālo bālikāyāṃ vikalpayet ||Panc_4.68||  
-
-  
-makara āha-bho mitra ! astv etat | paraṃ kiṃ karomi ? mamānartha-dvayam etat sañjātam | ekas tāvad gṛha-bhaṅgaḥ | aparas tvad-vidhena mitreṇa saha citta-viśleṣaḥ | athavā bhavaty evaṃ daiva-yogāt | uktaṃ ca yataḥ-  
-
-  
-yādṛśaṃ mama pāṇḍityaṃ tādṛśaṃ dviguṇaṃ tava |
-  
-nābhūj jāro na bhartā ca kiṃ nirīkṣasi nagnike ||Panc_4.69||  
-
-  
-vānara āha-katham etat ?  
-
-  
-makaro 'bravīt-
-  
-kathā 12
-  
-hālika-dampatī-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne hālika-dampatī prativasataḥ sma | sā ca hālika-bhāryā patyur vṛddha-bhāvāt sadaivānya-cittā na kathañcid gṛhe sthairyam ālambate | kevalaṃ para-puruṣān anveṣamāṇā paribhramati | atha kenacit para-vittāpahārakeṇa dhūrtena sā lakṣitā vijane proktā ca-subhage ! mṛta-bhāryo 'ham | tvad-darśanena smara-pīḍitaś ca | tad dīyatāṃ me rati-dakṣiṇā |  
-
-  
-tatas tayābhihitam-bhoḥ subhaga ! yady evaṃ tad asti me patyuḥ prabhūtaṃ dhanam | sa ca vṛddhatvāt pracalitum apy asamarthaḥ | tatas tad-dhanam ādāyāham āgacchāmi | yena tvayā sahānyatra gatvā yathecchayā rati-sukham anubhaviṣyāmi |   
-
-  
-so 'bravīt-rocate mahyam apy etat | tat pratyūṣe'tra sthāne śīghram eva samāgantavyam, yena śubhataraṃ kiñcin nagaraṃ gatvā tvayā saha jīva-lokaḥ saphalīkriyate |   
-
-  
-sāpi tatheti pratijñāya prahasita-vadanā sva-gṛhaṃ gatvā rātrau prasupte bhartari sarvaṃ vittam ādāya pratyūṣa-samaye tat-kathita-sthānam upādravat | dhūrto 'pi tām agre vidhāya dakṣiṇāṃ diśam āśritya satvara-gatiḥ prasthitaḥ |  
-
-  
-evaṃ tayor vrajator yojana-dvaya-mātreṇāgrataḥ kācin nadī samupasthitā | tāṃ dṛṣṭvā dhūrtaś cintayāmāsa-kim aham anayā yauvana-prānte vartamānayā kariṣyāmi | kiṃ ca kadāpy asyāḥ pṛṣṭhataḥ ko 'pi sameṣyati | tan me mahān anarthaḥ syāt | tat kevalam asyā vittam ādāya gacchāmi |  
-
-  
-iti niścitya tām uvāca-priye ! sudustareyaṃ mahānadā | tad ahaṃ dravya-mātrāṃ pāre dhṛtvā samāgacchāmi | tatas tvām ekākinīṃ sva-pṛṣṭham āropya sukhenottārayiṣyāmi |  
-
-  
-sā prāha-subhaga ! evaṃ kriyatām | ity uktvāśiṣaṃ vittaṃ tasmai samarpayāmāsa | 
-  
-atha tenābhihitaṃ-bhadre ! paridhānācchādana-vastram api samarpaya | yena jala-madhye niḥśaṅkaṃ vrajasi | tathānuṣṭhite dhūrto vittaṃ vastra-yugalaṃ cādāya yathācintita-viṣayaṃ gataḥ |  
-
-  
-sāpi kaṇṭha-niveśita-hasta-yugalā sodvegā nadī-pulina-deśa upaviṣṭā yāvat tiṣṭhati tāvad etasminn antare kācic chṛgālikā māṃsa-piṇḍa-gṛhīta-vadanā tatrājagāma | āgatya ca yāvat paśyati, tāvan nadī mahān matsyaḥ salilān niṣkramya bahiḥ sthita āste | evaṃ ca dṛṣṭvā sā māṃsa-piṇḍaṃ samutsṛjya taṃ matsyaṃ pratyupādravat | atrāntaraṃ ākāśād āvatīrthaṃ ko 'pi pratyupādravat | atrāntaram ākāśād avatīrya ko 'pi gṛdhras taṃ māṃsa-piṇḍam ādāya punaḥ kham utpatāta | matsyo 'pi śṛgālikāṃ dṛṣṭvā nadyāṃ praviveśa | sā śṛgālikāṃ dṛṣṭvā nadyāṃ praviveśa | sā śṛgālikā vyartha-śramā gṛdhram avalokayantī tayā nagnikayā sa-smitam abhihitā-  
-
-  
-gṛdhreṇāpahṛtaṃ māṃsaṃ matsyo 'pi salilaṃ gataḥ |
-  
-matsya-māṃsa-paribhraṣṭe kiṃ nirīkṣyasi jambuke ||Panc_4.70||
-  
-mitraṃ hy amitratāṃ yātam aparaṃ me priyā mitrā |
-  
-gṛham anyena ca vyāptaṃ kim adyāpi bhaviṣyati ||Panc_4.71||  
-
-  
-athavā yuktam idam ucyate-
-  
-kṣate prahārā nipatanty abhīkṣṇam anna-kṣaye vardhati jāṭharāgniḥ |
-  
-āpatsu vairāṇi samudbhavanti vāme vidhau sarvam idaṃ narāṇām ||Panc_4.72||  
-
-  
-tat kiṃ karomi ? kim anena saha yuddhaṃ karomi ? kiṃ vā sāmnaiva sambodhya gṛhān niḥsārayāmi ? kiṃ vā bhedaṃ dānaṃ vā karomi ? athavāmum eva vānara-mitraṃ pṛcchāmi ? uktaṃ ca-  
-
-  
-yaḥ pṛṣṭvā kurute kāryaṃ praṣṭavyān sva-hitān gurūn | 
-  
-na tasya jāyate vighnaḥ kasmiṃścid api karmaṇi ||Panc_4.73||  
-
-  
-evaṃ sampradhārya bhūyo 'pi tam eva jambū-vṛkṣam ārūḍhaṃ kapim apṛcchat-bho mitra ! paśya me manda-bhāgyatām | tat samprati gṛham api me balavattareṇa makareṇa ruddham | tad ahaṃ tvāṃ praṣṭum abhyāgataḥ | kathaya kiṃ karomi ? sāmādīnām upāyānāṃ madhye kasyātra viṣayaḥ ?  
-
-  
-sa āha-bhoḥ kṛtaghna pāpa-cārin ! mayā niṣiddho 'pi kiṃ bhūyo mām anusarasi | nāhaṃ tava mūrkhasyopadeśam api dāsyāmi |  
-
-  
-tac chrutvā makaraḥ prāha-bho mitra ! sāparādhasya me pūrva-sneham anusmṛtya hitopadeśaṃ dehi |   
-
-  
-vānara āha-nāhaṃ te kathayiṣyāmi | yad bhāryā-vākyena bhavatāhaṃ samudre prakṣiptuṃ nītaḥ | tad evaṃ na yuktam | yadyapi bhāryā sarva-lokād api vallabhā bhavati, tathāpi na mitrāṇi bāndhavāś ca bhāryā-vākyena samudre prakṣipyante | tan mūrkha ! mūḍhatvena nāśas tava mayā prāg eva nivedita āsīt, yataḥ-  
-
-  
-satāṃ vacanam ādiṣṭaṃ madena na karoti yaḥ |
-  
-sa vināśam avāpnoti ghaṇṭoṣṭra iva satvaram ||Panc_4.74||  
-
-  
-makara āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 13
-  
-ujjvalaka-rathakāra-kathā   
-
-  
-kasmiṃścid adhiṣṭhāne ujjvalako nāma rathakāraḥ prativasati sma | sa cātīva dāridryopahataś cintitavān-aho ! dhig iyaṃ daridratāsmad-gṛhe | yataḥ sarvo 'pi janaḥ sva-karmaṇaiva ratas tiṣṭhati | asmadīyaḥ punar vyāpāro nātrādhiṣṭhāne'rhati | yataḥ sarva-lokānāṃ cirantanāś caturbhūmikā gṛhāḥ santi | mama ca nātra | tat kiṃ madīyena rathakāratvena prayojanam ? iti cintayitvā deśān niṣkrāntaḥ |   
-
-  
-yāvat kiñcid vanaṃ gacchati tāvad gahvarākāra-vana-gahana-madhye sūryāstam anavelāyāṃ sva-yūthād bhraṣṭāṃ prasava-vedanayā pīḍyamānām uṣṭrīm apaśyat | sa ca dāseraka-yuktām uṣṭrīṃ gṛhītvā sva-sthānābhimukhaḥ prasthitaḥ | gṛham āsādya rajjuṃ gṛhītvā tām uṣṭrikāṃ babandha | tataś ca tīkṣṇaṃ paraśum ādāya tasyāḥ pallavānayanārthaṃ parvataika-deśe gataḥ | tatra ca nūtanāni komalāni bahūni pallavāni cchittvā śirasi samāropya tasyāgre nicikṣepa | tayā ca tāni śanaiḥ śanair bhakṣitāni | paścāt pallava-bhakṣaṇa-prabhāvād aharniśaṃ pīvara-tanur uṣṭrī sañjātā | so 'pi dāserako mahān uṣṭraḥ sañjātaḥ | tataḥ sa nityam eva dugdhaṃ gṛhītvā sva-kuṭumbaṃ paripālayati |   
-
-  
-atha rathakāreṇa vallabhatvād dāseraka-grīvāyāṃ mahatī ghaṇṭā pratibaddhā | paścād rathakāro vyacintayat-aho ! kim anyair duṣkṛta-karmabhiḥ | yāvan mamaitasmād evoṣṭrāparipālanād asya kuṭumbasya bhavyaṃ sañjātam | tat kim anyena vyāpāreṇa ?  
-
-  
-evaṃ vicintya gṛham āgatya priyām āha-bhadre ! samīcīno 'yaṃ vyāpāraḥ | tava sammatiś cet kuto 'pi dhanikāt kiñcid dravyam ādāya mayā gurjara-deśe gantavyaṃ kalabha-grahaṇāya | tāvat tvayaitau yatnena rakṣaṇīyau | yāvad aham aparām uṣṭrīṃ nītvā samāgacchāmi |   
-
-  
-tataś ca gurjara-deśaṃ gatvoṣṭrīṃ gṛhītvā sva-gṛham āgataḥ | kiṃ bahunā ? tena tathā kṛtaṃ yathā tasya pracurā uṣṭrāḥ karabhāś ca sammilitāḥ | tatas tena mahad uṣṭra-yūthaṃ kṛtvā rakṣā-puruṣo dhṛtaḥ | tasya prativarṣaṃ vṛttyā karabham ekaṃ prayacchati | prativarṣam anyac cāharniśaṃ dugdha-pānaṃ tasya nirūpitam | evaṃ rathakāro 'pi nityam evoṣṭrī-karabha-vyāpāraṃ kurvan sukhena tiṣṭhati |  
-
-  
-atha te dāserakā adhiṣṭhānopavanāhārthaṃ gacchanti | komala-vallīr yathecchayā bhakṣayitvā mahati sarasi pānīyaṃ pītvā sāyantana-samaye mandaṃ mandaṃ līlayā gṛham āgacchanti | sa ca pūrva-dāserako madātirekāt pṛṣṭha āgatya milati | tatas taiḥ kalabhair abhihitam-aho ! manda-matir ayaṃ dāserako yathā yūthād bhraṣṭaḥ pṛṣṭhe sthitvā ghaṇṭāṃ vādayann āgacchati | yadi kasyāpi duṣṭa-sattvasya mukhe patiṣyati, tan nūnaṃ mṛtyum avāpsyati |   
-
-  
-atha tasya tad-vanaṃ gāhamānasya kaścit siṃho ghaṇṭā-ravam ākarṇya samāyātaḥ | yāvad avalokayati, tāvad uṣṭrī-dāserakāṇāṃ yūthaṃ gacchati | ekas tu punaḥ pṛṣṭhe krīḍāṃ kurvan vallarīś caran yāvat tiṣṭhati, tāvad anye dāserakāḥ pānīyaṃ pītvā sva-gṛhe gatāḥ | so 'pi vanān niṣkramya yāvad diśo 'valokayati, tāvan na kañcin mārgaṃ paśyati vetti ca | yūthād bhraṣṭo mandaṃ mandaṃ bṛhac-chabdaṃ kurvan yāvat kiyad-dūraṃ gacchati, tāvat tac-chabdānusārī siṃho 'pi kramaṃ kṛtvā nibhṛto 'yaṃ vyavasthitaḥ | tato yāvad uṣṭraḥ samīpam āgataḥ, tāvat siṃhena lambhayitvā grīvāyāṃ gṛhīto māritaś ca |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-satāṃ vacanam ādiṣṭam (74) iti |  
-
-  
-atha tac chrutvā makaraḥ prāha-  
-
-  
-upadeśa-pradātṝṇāṃ narāṇāṃ hitam icchatām |
-  
-parasminn iha loke ca vyasanaṃ nopapadyate ||Panc_4.75||  
-
-  
-tata sarvathā kṛtaghnasyāpi me kuru prasādam upadeśa-pradānena | uktaṃ ca-  
-
-  
-upakāriṣu yaḥ sādhuḥ sādhutve tasya ko guṇaḥ |
-  
-apakāriṣu yaḥ sādhuḥ sa sādhuḥ sadbhir ucyate ||Panc_4.76||  
-
-  
-tad ākarṇya vānaraḥ prāha-bhadra ! yady evaṃ tarhi tatra gatvā tena saha yuddhaṃ kuru | uktaṃ ca-  
-
-  
-hatas tvaṃ prāpsyasi svargaṃ jīvan gṛham atho yaśaḥ |
-  
-yudhyamānasya te bhāvi guṇa-dvayam anuttamam ||Panc_4.77||
-  
-uttamaṃ praṇipātena śūraṃ bhedena yojayet | 
-  
-nīcam alpa-pradānena sama-śaktiṃ parākramaiḥ ||Panc_4.78||  
-
-  
-makara āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 14
-  
-mahācaturakākhya-śṛgāla-kathā   
-
-  
-āsīt kasmiṃścid deśe mahā-caturako nāma śṛgālaḥ | tena kadācid araṇye svayaṃ mṛto gajaḥ samāsāditaḥ | tasya samantāt paribhramati, paraṃ kaṭhināṃ tvacaṃ bhettuṃ na śaknoti | athātrāvasara itaś cetaś ca vicaran kaścit siṃhas tatraiva pradeśe samāyayau |   
-
-  
-atha siṃhaṃ samāgataṃ dṛṣṭvā sa kṣiti-tala-vinyasta-mauli-maṇḍalaḥ saṃyojita-kara-yugalaḥ sa-vinayam uvāca-svāmin ! tvadīyo 'haṃ lāguḍikaḥ sthitas tvad-arthe gajam imaṃ rakṣāmi | tad enaṃ bhakṣayatu svāmī |   
-
-  
-taṃ praṇataṃ dṛṣṭvā siṃhaḥ prāha-bhoḥ ! nāham anyena hataṃ sattvaṃ kadācid api bhakṣayāmi | tat tavaiva gajo 'yaṃ mayā prasādīkṛtaḥ |  
-
-  
-tac chrutvā śṛgālaḥ sānandam āha-yuktam idaṃ svāmino nija-bhṛtyeṣu | uktaṃ ca yataḥ-
-  
-antyāvastho 'pi mahān svāmi-guṇān na jahāti śuddhatayā |
-  
-na śveta-bhāvam ujjhati śaṅkhaḥ śikhi-bhukta-mukto 'pi ||Panc_4.79||  
-
-  
-atha siṃhe gate kaścid vyāghraḥ samāyayau | tam api dṛṣṭvāsau vyacintayat-aho ! ekas tāvad durātmā praṇipātenāpavāhitaḥ | tat katham idānīm enam apavāhayiṣyāmi ? nūnaṃ śūro 'yam | na khalu bhedaṃ vinā sādhyo bhaviṣyati | uktaṃ ca yataḥ-  
-
-  
-na yatra śakyate kartuṃ sāma dānam athāpi vā |
-  
-bhedas tatra prayoktavyo yataḥ sa vaśa-kārakaḥ ||Panc_4.80||  
-
-  
-kiṃ ca sarva-guṇa-sampanno 'pi bhedena badhyate | uktaṃ ca yataḥ-
-  
-antaḥ-sthenāviruddhena suvṛttenāticāruṇā |
-  
-antar-bhinnena samprāptaṃ mauktikenāpi bandhanam ||Panc_4.81||  
-
-  
-evaṃ sampradhārya tasyābhimukho bhūtvā garvād unnata-kandharaḥ sa-sambhramam uvāca-māma ! katham atra bhavān mṛtyu-mukhe praviṣṭaḥ | yenaiṣa gajaḥ siṃhena vyāpāditaḥ | sa ca mām etad rakṣaṇaṃ niyujya nadyāṃ snānārthaṃ gataḥ | tena ca gacchatā mama samādiṣṭam-yadi kaścid iha vyāghraḥ samāyāti, tvayā suguptaṃ mām āvedanīyam | yena vanam idaṃ mayā nirvyāghraṃ kartavyam | yataḥ pūrvaṃ vyāghreṇaikena mayā vyāpādito gajaḥ śūnye bhakṣayitvocchiṣṭatāṃ nītaḥ | tad-dinād ārabhya vyāghrān prati prakupito 'smi |  
-
-  
-tac chrutvā vyāghraḥ santrastam āha-bho bhāgineya ! dehi me prāṇa-dakṣiṇām | tvayā tasyātra cirāyāyātasyāpi madīyā kāpi vārtā nākhyeyā | evam abhidhāya satvaraṃ palāyāñcakre |  
-
-  
-atha gate vyāghre tatra kaścid dvīpī samāyātaḥ | tam api dṛṣṭvāsau vyacintayat-dṛḍha-daṃṣṭro 'yaṃ citrakaḥ | tad asya pārśvād asya gajasya yathā carma-cchedo bhavati tathā karomi | evaṃ niścitya tam apy uvāca-bho bhaginī-suta ! kim iti cirād dṛṣṭo 'si | kathaṃ ca bubhukṣita iva lakṣyase ? tad atithir asi me | eṣa gajaḥ siṃhena hatas tiṣṭhati | ahaṃ cāsya tad-ādiṣṭo rakṣā-pālaḥ | paraṃ tathāpi yāvat siṃho na samāyāti, tāvad asya gajasya māṃsaṃ bhakṣayitvā tṛptiṃ kṛtvā drutataraṃ vraja |  
-
-  
-sa āha-māma, tad evaṃ tan na kāryaṃ me māṃsāśanena, yato jīvan naro bhadra-śatāni paśyati | uktaṃ ca-yac chakyaṃ grasitaṃ yasya grastaṃ pariṇamec ca yat (23) ity ādi | tat sarvathā tad eva bhujyate yad eva pariṇamati | tad aham ito 'payāsyāmi |  
-
-  
-śṛgāla āha-bho adhīra ! viśrabdho bhūtvā bhakṣaya tvam | tasyāgamanaṃ dūrato 'pi tavāhaṃ nivedayiṣyāmi | tathānuṣṭhite dīvpinā bhinnāṃ tvacaṃ vijñāya jambūkenābhihitam-bho bhaginī-suta ! gamyatām | eṣa siṃhaḥ samāyāti |   
-
-  
-tac chrutvā citrako dūraṃ praṇaṣṭaḥ | atha yāvad asau tad-bheda-kṛta-dvāreṇa kiñcin māṃsaṃ bhakṣayati, tāvad atisaṅkruddho 'paraḥ śṛgālaḥ samāyayau | atha tam ātma-tulya-parākramaṃ dṛṣṭvā-uttamaṃ praṇipātena śūraṃ bhedena yojayet (78) iti ślokaṃ paṭhan tad-abhimukha-kṛta-prayāṇaḥ sva-daṃṣṭrābhis taṃ vidārya diśo bhāgaṃ kṛtvā svayaṃ sukhena cira-kālaṃ hasti-māṃsaṃ bubhuje |  
-
-  
-evaṃ tvam api taṃ ripuṃ sva-jātīyaṃ yuddhena paribhūya diśo-bhāgaṃ kuru | no cet paścād baddha-mūlād asmāt tvam api vināśam avāpsyasi | uktaṃ ca yataḥ-  
-
-  
-sambhāvyaṃ goṣu sampannaṃ sambhāvyaṃ brāhmaṇe tapaḥ |
-  
-sambhāvyaṃ strīṣu cāpalyaṃ sambhāvyaṃ jātito bhayam ||Panc_4.82||  
-
-  
-anyac ca-
-  
-subhikṣāṇi vicitrāṇi śithilāḥ paura-yoṣitaḥ |
-  
-eko doṣo videśasya svajātir yad virudhyate ||Panc_4.83||  
-
-  
-makara āha-katham etat ?  
-
-  
-vānaro 'bravīt-  
-
-  
-kathā 15
-  
-citrāṅga-nāma-sārameya-kathā   
-
-  
-asti kasmiṃścid adhiṣṭhāne citrāṅgo nāma sārameyaḥ | tatra ca cira-kālaṃ durbhikṣaṃ patitam | annābhāvāt sārameyādayo niṣkulatāṃ gantum ārabdhāḥ | atha citrāṅgaḥ kṣutkṣāma-kaṇṭhas tad-bhayād deśāntaraṃ gataḥ | tatra ca kasmiṃścit pure kasyacid gṛha-medhino gṛhiṇyāḥ prasādena pratidinaṃ gṛhaṃ praviśya vividhānnāni bhakṣayan parāṃ tṛptiṃ gacchati | paraṃ tad-gṛhād bahir niṣkrānto 'nyair madoddhata-sārameyaiḥ sarva-dikṣu parivṛtya sarvāṅgaṃ daṃṣṭrābhir vidāryate | tatas tena vicintitavān-aho ! varaṃ sva-deśo yatra durbhikṣe'pi sukhena sthīyate | na ca ko 'pi yuddhaṃ karoti | tad evaṃ sva-nagaraṃ vrajāmi ity avadhārya sva-sthānaṃ prati jagāma |  
-
-  
-athāsau deśāntarāt samāyātaḥ sarvair api svajanaiḥ pṛṣṭaḥ-bhoś citrāṅga ! kathayāsmākaṃ deśāntara-vārtām | kīdṛg deśaḥ ? kiṃ ceṣṭitaṃ lokasya ? ka āhāraḥ ? kaś ca vyavahāras tatra iti |   
-
-  
-sa āha-kiṃ kathyate videśasya svarūpa-viṣayaḥ ? subhikṣāṇi vicitrāṇi śithilāḥ paura-yoṣitaḥ (83) iti paṭhati |  
-
-  
-so 'pi makaras tad-upadeśaṃ śrutvā kṛta-maraṇa-niścayo vānaram anujñāpya svāśrayaṃ gataḥ | tatra ca tena sva-gṛha-praviṣṭenātatāyinā saha vigrahaṃ kṛtvā dṛḍha-sattvāvaṣṭambhanāc ca taṃ vyāpādya svāśrayaṃ ca labdhvā sukhena cira-kālam atiṣṭhat | sādhv idam ucyate-  
-
-  
-akṛtvā pauruṣaṃ yā śrīḥ kiṃ tayālasa-bhāgyayā |
-  
-kuraṅgo 'pi samaśnāti daivād upanataṃ tṛṇam ||Panc_4.84||  
-
-  
-iti śrī-viṣṇu-śarma-viracite pañcatantre labdha-praṇāśaṃ nāma
-  
-caturthaṃ tantraṃ samāptam
-  
-||4||  
-  
-
-  
-*********************************************************************  
-
-  
-pañcamaṃ tantram  
-
-  
-aparīkṣita-kārakam  
-
-  
-kṣapaṇaka-kathā  
-
-  
-athedam ārabhyate'parīkṣita-kārakaṃ nāma pañcamaṃ tantram | tasyāyam ādimaḥ ślokaḥ-  
-
-  
-kudṛṣṭaṃ kuparijñātaṃ kuśrutaṃ kuparīkṣitam |
-  
-tan nareṇa na kartavyaṃ nāpitenātra yat kṛtam ||Panc_5.1||  
-
-  
-tad yathānuśrūyate-asti dākṣiṇātye janapade pāṭaliputraṃ nāma nagaram | tatra maṇibhadro nāma śreṣṭhī prativasati sma | tasya ca dharmārtha-kāma-mokṣa-karmāṇi  kurvato vidhi-vaśād dhana-kṣayaḥ sañjātaḥ | tato vibhava-kṣayād apamāna-paramparayā paraṃ viṣādaṃ gataḥ | athānyadā rātrau suptiś cintitavān-aho dhig iyaṃ daridratā | uktaṃ ca-  
-
-  
-śīlaṃ śaucaṃ kṣāntir dākṣiṇyaṃ madhuratā kule janma |
-  
-na virājanti hi sarve vitta-vihīnasya pusuṣasya ||Panc_5.2||
-  
-māno vā darpo vā vijñānaṃ vibhramaḥ subuddhir vā |
-  
-sarvaṃ praṇaśyati samaṃ vitta-vihīno yadā puruṣaḥ ||Panc_5.3||
-  
-pratidivasaṃ yāti layaṃ vasanta-vātāhateva śiśira-śrīḥ |
-  
-buddhir buddhimatām api kuṭumba-bhara-cintayā satatam ||Panc_5.4||
-  
-naśyati vipulamater api buddhiḥ puruṣasya manda-vibhavasya |
-  
-ghṛta-lavaṇa-taila-taṇḍula-vastrendhana-cintayā satatam ||Panc_5.5||  
-
-  
-gaṇanam iva naṣṭa-tārakaṃ 
-  
-suṣkam iva saraḥ śmaśānam iva raudram |
-  
-priya-darśanam api rūkṣaṃ
-  
-bhavati gṛhaṃ dhana-vihīnasya ||Panc_5.6||  
-
-  
-na vibhāvyante laghavo vitta-vihīnāḥ puro 'pi nivasantaḥ |
-  
-satataṃ jāta-vinaṣṭāḥ payasām iva budbudāḥ payasi ||Panc_5.7||
-  
-sukulaṃ kuśalaṃ sujanaṃ vihāya kula-kuśala-śīla-vikale'pi |
-  
-āḍhye kalpa-tarāv iva nityaṃ rajyanti jana-nivahāḥ ||Panc_5.8||
-  
-viphalam iha pūrva-sukṛtaṃ vidyāvanto 'pi kula-samudbhūtāḥ |
-  
-yasya yadā vibhavaḥ syāt tasya tadā dāsatāṃ yānti ||Panc_5.9||
-  
-laghur ayam āha na lokaḥ kāmaṃ garjantam api patiṃ payasām |
-  
-sarvam alajjākaram iha yad yat kurvanti paripūrṇāḥ ||Panc_5.10||  
-
-  
-evaṃ sampradhārya bhūyo 'py acintayat-tad aham anaśanaṃ kṛtvā prāṇān utsṛjāmi | kim anena vyartha-jīvita-vyasanena ? evaṃ niścayaṃ kṛtvā suptaḥ | atha tasya svapne padmanidhiḥ kṣapaṇaka-rūpo  darśanaṃ dattvā provāca-bhoḥ śreṣṭhin ! mā tvaṃ vairāgyaṃ gaccha | ahaṃ padmanidhis tava pūrva-puruṣopārjitaḥ | tad anenaiva rūpeṇa prātas tvad-gṛham āgamiṣyāmi | tat tvayāhaṃ laguḍa-prahāreṇa śirasi tāḍanīyaḥ, yena kanaka-mayo bhūtvākṣayo bhavāmi |  
-
-  
-atha prātaḥ prabuddhaḥ san svapnaṃ smaraṃś cintā-cakram ārūḍhas tiṣṭhati-aho satyo 'yaṃ svapnaḥ kiṃ vā asatyo bhaviṣyati, na jñāyate | athavā nūnaṃ mithyānena bhāvyam | yato 'ham ahar-niśaṃ kevalaṃ vittam eva cintayāmi | uktaṃ ca-  
-
-  
-vyādhitena sa-śokena cintā-grastena jantunā |
-  
-kāmārtenātha mattena dṛṣṭaḥ svapno nirarthakaḥ ||Panc_5.11||  
-
-  
-etasminn antare tasya bhāryayā kaścin nāpitaḥ pāda-prakṣālanāyāhūtaḥ atrāntare ca yathā-nirdiṣṭaḥ kṣapaṇakaḥ sahasā prādurbabhūva | atha sa tam ālokya prahṛṣṭa-manā yathāsanna-kāṣṭha-daṇḍena taṃ śirasy atāḍayat | so 'pi suvarṇa-mayo bhūtvā tat-kṣaṇāt bhūmau nipatitaḥ | atha taṃ sa śreṣṭhī nibhṛtaṃ sva-gṛha-madhye kṛtvā nāpitaṃ santoṣya provāca-tad etad dhanaṃ vastrāṇi ca mayā dattāni gṛhāṇa | bhadra ! punaḥ kasyacin nākhyeyo 'yaṃ vṛttāntaḥ |  
-
-  
-nāpito 'pi sva-gṛhaṃ gatvā vyacintayat-nūnam ete sarve'pi nagnakāḥ śirasi tāḍitāḥ kāñcana-mayā bhavanti | tad aham api prātaḥ prabhūtān āhūya laguḍaiḥ śirasi hanmi, yena prabhūtaṃ hāṭakaṃ me bhavati | evaṃ cintayato mahatā  kaṣṭena niśāticakrāma |   
-
-  
-atha prabhāte'bhyutthāya bṛhal laguḍam ekaṃ praguṇīkṛtya, kṣapaṇaka-vihāraṃ gatvā jinendrasya pradakṣiṇa-trayaṃ vidhāya, jānubhyām avaniṃ gatvā vaktra-dvāra-nyastottarīyāñcalas tāra-svareṇemaṃ ślokam apaṭhat-  
-
-  
-jayanti te jinā yeṣāṃ kevala-jñāna-śālinām |
-  
-ā janmanaḥ smarotpattau mānasenoṣarāyitam ||Panc_5.12||  
-
-  
-anyac ca-
-  
-sā jihvā yā jinaṃ stauti tac-cittaṃ yaj jine ratam |
-  
-tau eva tu karau ślāghyau yau tat-pūjā-karau karau ||Panc_5.13||  
-
-  
-tathā ca-
-  
-dhyāna-vyājam upetya cintayasi kām unmīlya cakṣuḥ kṣaṇaṃ
-  
-paśyānaṅga-śarāturaṃ janam imaṃ trātāpi no rakṣasi |
-  
-mithyā-kāruṇiko 'si nirghṛṇataras tvattaḥ kuto 'nyaḥ pumān
-  
-serṣyaṃ māra-vadhūbhir ity abhihito bauddho jinaḥ pātu vaḥ ||Panc_5.14||  
-
-  
-evaṃ saṃstūya, tataḥ pradhāna-kṣapaṇakaṇam āsādya kṣiti-nihita-jānu-caraṇaḥ-namo 'stu vande ity uccārya, labdha-dharma-vṛddhy-āśīrvādaḥ sukha-mālikānugraha-labdha-vratādeśa uttarīya-nibaddha-granthiḥ sapraśrayam idam āha-bhagavan adya viharaṇa-kriyā samasta-muni-sametenāsmad-gṛhe kartavyā |  
-
-  
-tac chrutvā nāpita āha-bhagavan ! vedmy ahaṃ yuṣmad-dharmam | paraṃ bhavato bahu-śrāvakā āhvayanti | sāmprataṃ punaḥ pustakācchādana-yogyāni karpaṭāni bahu-mūlyāni praguṇīkṛtāni | tathā pustakānāṃ lekhanārthaṃ lekhakānāṃ ca vittaṃ sañcitam āste tat sarvathā kālocitaṃ kāryam |  
-
-  
-tato nāpito 'pi sva-gṛhaṃ gataḥ | tatra ca gatvā khadira-mayaṃ laguḍaṃ sajjīkṛtya kapāṭa-yugalaṃ dvāri samādhāya sārdha-praharaika-samaye bhūyo 'pi vihāra-dvāram āśritya sarvān bhakti-yuktān api paricita-śrāvakān parityajya prahṛṣṭa-manasas tasya pṛṣṭhato yayuḥ | athavā sādhv idam ucyate-  
-
-  
-ekākī gṛha-santyaktaḥ pāṇi-pātro digambaraḥ |
-  
-so 'pi sambādhyate loke tṛṣṇayā paśya kautukam ||Panc_5.15||
-  
-jīryante jīryataḥ keśā dantā jīryanti jīryataḥ |
-  
-cakṣuḥ śrotre ca jīryete tṛṣṇaikā taruṇāyate ||Panc_5.16||  
-
-  
-tataḥ paraṃ gṛha-madhye tān praveśya dvāraṃ nibhṛtaṃ pidhāya, laguḍa-prahāraiḥ śirasy atāḍayat | te'pi tāḍyamānā eke mṛtāḥ, anye bhinna-mastakā phūtkartum upacakramire | atrāntare tam ākrandam ākarṇya koṭara-kṣapālenābhihitam-bho bhoḥ kim ayaṃ kolāhalo nagara-madhye ? tad gamyatām |  
-
-  
-te sa sarve tadādeśakāriṇas tat-sahitā vegāt tad-gṛhaṃ gatā yāvat paśyanti tāvad rudhira-plāvita-dehāḥ palāyamānā nagnakā dṛṣṭāḥ pṛṣṭāś ca-bhoḥ kim etat ? te procur yathāvasthitaṃ nāpita-vṛttam |  
-
-  
-tair api sa nāpito baddho hata-śeṣaiḥ saha dharmādhiṣṭhānaṃ nītaḥ | tair nāpitaḥ pṛṣṭaḥ-bhoḥ ! kim etat bhavatā kukṛtyam anuṣṭhitam ?  
-
-  
-sa āha-kiṃ karomi ? mayā śreṣṭhi-maṇibhadra-gṛhe dṛṣṭa evaṃvidho vyatikaraḥ | so 'pi sarvaṃ maṇiprabha-vṛttāntaṃ yathā-dṛṣṭam akathayat |  
-
-  
-tataḥ śreṣṭhinam āhūya te bhaṇitavantaḥ-bhoḥ śreṣṭhin ! kiṃ tvayā kaścit kṣapaṇako vyāpāditaḥ ?   
-
-  
-tataḥ tenāpi sarvaḥ kṣapaṇaka-vṛttāntas teṣāṃ niveditaḥ | atha tair abhihitam-aho śūlam āropyatām asau duṣṭātmā kuparikṣitakārī nāpitaḥ | tathānuṣṭhite tair abhihitam-  
-
-  
-kukkuṭaṃ kuparijñātaṃ kuśrutaṃ kuparīkṣitam |
-  
-tan nareṇa na kartavyaṃ nāpitenātra yat kṛtam ||Panc_5.16a||  
-
-  
-athavā sādhv idam ucyate-  
-
-  
-aparīkṣya na kartavyaṃ kartavyaṃ suparīkṣitam |
-  
-paścād bhavati santāpo brāhmaṇī nakulaṃ yathā ||Panc_5.17||  
-
-  
-maṇibhadra āha-katham etat ?  
-
-  
-te dharmādhikāriṇaḥ procuḥ-  
-
-  
-kathā 1
-  
-brāhmaṇī-nakula-kathā   
-
-  
-kasmiṃścid adhiṣṭhāne devaśarmā nāma brāhmaṇaḥ prativasati sma | tasya bhāryā prasūtā sutam ajanayat | tasminn eva dine nakulī nakulaṃ prasūya sṛtā | atha sā suta-vatsalā dārakavattam api nakulaṃ stanya-dānābhyaṅga-mardanādibhiḥ pupoṣa, paraṃ tasya na viśvasiti | apatya-snehasya sarva-snehātiriktatayā satatam evam āśaṅkate yat kadācid eṣa sva-jāti-doṣa-vaśād asya dārakasya viruddham ācariṣyati iti | uktaṃ ca-  
-
-  
-kuputro 'pi bhavet puṃsāṃ hṛdayānanda-kārakaḥ |
-  
-durvinītaḥ kurūpo 'pi mūrkho 'pi vyasanī khalaḥ ||Panc_5.18||
-  
-evaṃ ca bhāṣate lokaś candanaṃ kila śītalam |
-  
-putra-gātrasya saṃsparśaś candanād atiricyate ||Panc_5.19||
-  
-sauhṛdasya na vāñchanti janakasya hitasya ca |
-  
-lokāḥ prapālakasyāpi yathā putrasya bandhanam ||Panc_5.20||  
-
-  
-atha sā kadācic chayyāyāṃ putraṃ śāyayitvā jala-kumbham ādāya patim uvāca-brāhmaṇa, jalārtham ahaṃ taḍāge yāsyāmi | tvayā putro 'yaṃ nakulād rakṣaṇīyaḥ |  
-
-  
-atha tasyāṃ gatāyāṃ, pṛṣṭhe brāhmaṇo 'pi śūnyaṃ gṛhaṃ muktvā bhikṣārthaṃ kvacin nirgataḥ | mātāpi taṃ rudhira-klinna-mukham ālokya śaṅkita-cittā nūnam anena durātmanā dārako bhakṣitaḥ iti niścintya kopāt tasyopari taṃ jala-kumbhaṃ cikṣepa |  
-
-  
-evaṃ sā nakulaṃ vyāpādya yāvat pralapantī gṛhe āgacchati, tāvat sutas tathaiva suptas tiṣṭhati | samīpe kṛṣṇa-sarpaṃ khaṇḍaśaḥ kṛtam avalokya putra-vadha-śokenātma-śiro vakṣaḥ-sthalaṃ ca tāḍitum ārabdhā |  
-
-  
-atrāntare brāhmaṇo gṛhīta-nirvāpaḥ samāyāto yāvat paśyati tāvat putra-śoko 'bhitaptā brāhmaṇī pralapati-bho bho lobhātman ! lobhābhibhūtena tvayā na kṛtaṃ mad-vacaḥ | tad anubhava sāmprataṃ putra-mṛtyu-duḥkha-vṛkṣa-phalam | athavā sādhv idam ucyate-  
-
-  
-atilobho na kartavyaḥ kartavyas tu pramāṇataḥ |
-  
-atilobhaja-doṣeṇa jambuko nidhanaṃ gataḥ ||Panc_5.21||
-  
-brāhmaṇa āha-kim etat ?  
-
-  
-sā prāha-  
-
-  
-kathā 2
-  
-lobhāviṣṭa-cakra-dhara-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne catvāro brāhmaṇa-putrāḥ parasparaṃ mitratāṃ gatā vasanti sma | te cāpi dāridryopahatāḥ parasparaṃ mantraṃ cakruḥ-aho dhig iyaṃ daridratā ! uktaṃ ca-  
-
-  
-varaṃ vanaṃ vyāghra-gajādi-sevitaṃ
-  
-janena hīnaṃ bahu-kaṇṭakāvṛtam |
-  
-tṛṇāni śayyā paridhāna-valkalaḥ
-  
-na bandhu-madhye dhana-hīna-jīvitam ||Panc_5.22||  
-
-  
-tathā ca-
-  
-svāmī dveṣṭi susevito 'pi sahasā projjhanti sad-bāndhavāḥ 
-  
-rājante na guṇās tyajanti tanujāḥ sphārībhavanty āpadaḥ |
-  
-bhāryā sādhu suvaṃśajāpi bhajate no yānti mitrāṇi ca
-  
-nyāyāropita-vikramāṇy api nṛṇāṃ yeṣāṃ na hi syād dhanam ||Panc_5.23||  
-
-  
-śūraḥ surūpaḥ subhagaś ca vāgmī
-  
-śastrāṇi śāstrāṇi vidāṃkarotu |
-  
-arthaṃ vinā naiva yaśaś ca mānaṃ
-  
-prāpnoti martyo 'tra manuṣya-loke ||Panc_5.24||  
-
-  
-tānīndriyāṇy avikalāni tad eva nāma
-  
-sā buddhir apratihatā vacanaṃ tad eva |
-  
-arthoṣmaṇā virahitaḥ puruṣaḥ sa eva
-  
-bāhyaḥ kṣaṇena bhavatīti vicitram etat ||Panc_5.25||  
-
-  
-tad gacchāmaḥ kutracid arthāya iti sammantrya sva-deśaṃ puraṃ ca sva-suhṛt-sahitaṃ gṛhaṃ ca parityajya prasthitāḥ | athavā sādhv idam ucyate-  
-
-  
-satyaṃ parityajati muñcati bandhu-vargaṃ
-  
-śīghraṃ vihāya jananīm api janma-bhūmim |
-  
-santyajya gacchati videśam abhīṣṭa-lokaṃ
-  
-cintākulīkṛta-matiḥ puruṣo 'tra loke ||Panc_5.26||  
-
-  
-evaṃ krameṇa gacchanto 'vantīṃ prāptāḥ | tatra siprājale kṛta-snānāḥ mahā-kālaṃ praṇamya yāvan nirgacchanti tāvat bhairavānando nāma yogī saṃmukho babhūva | tatas taṃ brāhmaṇocita-vidhinā sambhāvya tenaiva saha tasya maṭhaṃ jagmuḥ | atha tena pṛṣṭāḥ-kuto bhavantaḥ samāyātāḥ ? kva yāsyatha ? kiṃ prayojanam ?  
-
-  
-tatas tair abhihitam-vayaṃ siddhi-yātrikāḥ | tatra yāsyāmo yatra dhanāptir mṛtyur vā bhaviṣyatīty eṣa niścayaḥ | uktaṃ ca-  
-
-  
-duṣprāpyāṇi bahūni ca labhyante vāñchitāni draviṇāni |
-  
-avasara-tulitābhir alaṃ tanubhiḥ sāhasika-puruṣāṇām ||Panc_5.27||
-  
-tathā ca-
-  
-patati kadācin nabhasaḥ khāte pātālato 'pi jalam eti |
-  
-daivam acintyaṃ balavad balavān nanu puruṣakāro 'pi ||Panc_5.28||
-  
-abhimata-siddhir aśeṣā bhavati hi puruṣasya puruṣakāreṇa |
-  
-daivam iti yadapi kathayasi puruṣa-guṇaḥ so 'py adṛṣṭākhyaḥ ||Panc_5.29||
-  
-bhayam atulaṃ guru-lokāt tṛṇam iva tulayanti sādhu sāhasikāḥ |
-  
-prāṇān adbhutam etac cārtiṃ caritaṃ hy udārāṇām ||Panc_5.30||
-  
-kleśasyāṅgam adattvā sukham eva sukhāni neha labhyante |
-  
-madhubhin mathanāyas tair āśliṣyati bāhubhir lakṣmīm ||Panc_5.31||
-  
-tasya kathaṃ na calā syāt patnī viṣṇor nṛsiṃhakasyāpi 
-  
-māsāṃś caturo nidrāṃ yaḥ sevati jala-gataḥ satatam ||Panc_5.32||
-  
-duradhigamaḥ para-bhāgo yāvat puruṣeṇa sāhasaṃ na kṛtam |
-  
-jayati tulām adhirūḍho bhāsvān iha jalada-paṭalāni ||Panc_5.33||  
-
-  
-tat kathyatām asmākaṃ kaścit dhanopāyo vivara-praveśa-śākinī-sādhana-śmaśāna-sevana-mahā-māṃsa-vikraya-sādhaka-varjita-prabhṛtīnām ekatama iti | adbhuta-śaktir bhavān śrūyate | vayam apy atisāhasikāḥ | uktaṃ ca-  
-
-  
-mahānta eva mahatām arthaṃ sādhayituṃ kṣamāḥ |
-  
-ṛte samudrād anyaḥ ko bibharti baḍavānalam ||Panc_5.34||  
-
-  
-bhairavānando 'pi teṣāṃ siddhy-arthaṃ bahūpāyaṃ siddha-varti-catuṣṭayaṃ kṛtvārpayat | āha ca-gamyatāṃ himālaya-diśi | tatra samprāptānāṃ yatra vartiḥ patiṣyati, tatra nidhānam asandigdhaṃ prāpyasva | tatra sthānaṃ khanitvā nidhiṃ gṛhītvā vyāghuṭyatām |  
-
-  
-tathānuṣṭhite teṣāṃ gacchatām ekatamasya hastād varitr nipapāta | athāsau yāvat taṃ praveśaṃ khanati tāvat tāmramayī bhūmiḥ | tatas tenābhihitam-aho, gṛhyatāṃ svecchayā tāmram |  
-
-  
-anye procuḥ-bho mūḍha ! kim anena kriyate yat prabhūtam api dāridryaṃ na nāśayati | tad uttiṣṭha agrato gacchāmaḥ |  
-
-  
-so 'bravīt-yāntu bhavantaḥ | nāham agra yāsyāmi | evam abhidhāya tāmraṃ yathecchayā gṛhītvā prathamo nivṛttaḥ |  
-
-  
-te trayo 'pi agre prasthitāḥ | atha kiñcin-mātraṃ gatasyāgresarasya vartir nipapāta | so 'pi yāvat khanitum ārabdhas tāvad rūpya-mayī kṣitiḥ | tataḥ praharṣitaḥ prāha, yat-bho bho, gṛhyatāṃ yathecchayā rūpyam | nāgre gantavyam |  
-
-  
-tāv ūcatuḥ-bhoḥ pṛṣṭhatas tāmramayī bhūmiḥ | agrato rūpya-mayī | tan nūnam agre suvarṇa-mayī bhaviṣyati | kiṃ cānena prabhūtenāpi dāridrya-nāśo na bhavati | tad āvām agre yāsyāvaḥ |   
-
-  
-evam uktvā dvāv apy agre prasthitau | so 'pi sva-śaktyā rūpyam ādāya nivṛttaḥ | atha tayor api gacchator ekasyāgre vartiḥ papāta | so 'pi prahṛṣṭo yāvat khanati, tāvat suvarṇa-bhūmiṃ dṛṣṭvā dvitīyaṃ prāha-bho, gṛhyatāṃ svecchayā suvarṇam | suvarṇād anyan na kiñcid uttamaṃ bhaviṣyati |
-  
-sa prāha-mūḍha ! na kiñcid vetsi | prāk tāmraṃ, tato rūpyaṃ, tataḥ suvarṇam | tan nūnam ataḥ paraṃ ratnāni bhaviṣyanti | yeṣām ekatamenāpi dāridrya-nāśo bhavati | tad uttiṣṭha, agre gacchāvaḥ | kim anena bhāra-bhūtenāpi prabhūtena ?  
-
-  
-sa āha-gacchatu bhavān | aham atra sthitas tvāṃ pratipālayiṣyāmi | tathānuṣṭhite so 'pi gacchann ekākī, grīṣmārka-pratāpa-santapta-tanuḥ pipāsākulitaḥ siddhi-mārga-cyuta itaś cetaś ca babhrāma |  
-
-  
-atha bhrāmyan, sthalopari puruṣam ekaṃ rudhira-plāvita-gātraṃ bhramac-cakra-mastakam apaśyat | tato drutataraṃ gatvā tam avocat-bhoḥ ! ko bhavān ? kim evaṃ cakreṇa śirasi tiṣṭhasi ? tat kathaya me yadi kutracij jalam asti |  
-
-  
-evaṃ tasya pravadatas tac cakraṃ tat-kṣaṇāt tasya śiraso brāhmaṇa-mastake caṭitam |  
-
-  
-sa āha-bhadra, kim etat ?  
-
-  
-sa āha-mamāpy evam etac chirasi caṭitam ?  
-
-  
-sa āha-tat kathaya, kadaitad uttariṣyati ? mahatī me vedanā vartate |  
-
-  
-sa āha-yadā tvam iva kaścid adhṛta-siddha-vartir evam āgatya, tvām ālāpayiṣyati tadā tasya mastakaṃ caṭiṣyati |  
-
-  
-sa āha-kiyān kālas tavaivaṃ sthitasya ?  
-
-  
-sa āha-sāmprataṃ ko rājā dharaṇī-tale ?  
-
-  
-sa āha-vīṇā-vādana-paṭuḥ vatsa-rājaḥ |  
-
-  
-sa āha-ahaṃ tāvat-kāla-saṅkhyāṃ na jānāmi | paraṃ yadā rāmo rājāsīt tavāhaṃ dāridryopahataḥ siddha-vartim ādāyānena pathā samāyātaḥ | tato mayānyo naro mastaka-śruta-cakro dṛṣṭaḥ, pṛṣṭaś ca | tataś caitaj jātam |  
-
-  
-sa āha-bhadra ! kathaṃ tadaivaṃ sthitasya bhojana-jala-prāptir āsīt ?  
-
-  
-sa āha-bhadra ! dhanadena nidhāna-haraṇa-bhayāt siddhānām etac-cakra-patana-rūpaṃ bhayaṃ darśitam | tena kaścid api nāgacchati | yadi kaścid āyāti, sa kṣut-pipāsā-nidrā-rahito jarā-maraṇa-varjitaḥ kevalam evaṃ vedanām anubhavati iti | tad ājñāpaya māṃ sva-gṛhāya | ity uktvā gataḥ |  
-
-  
-tasmiṃś cirayati sa suvarṇa-siddhis tasyānveṣaṇa-paras tat-pada-paṅktyā yāvat kiñcid vanāntaram āgacchati tāvad rudhira-plāvita-śarīras tīkṣṇa-cakreṇa mastake bhramatā sa-vedanaḥ kvaṇann upaviṣṭhas tiṣṭhatīti dadarśa | tataḥ samīpavartinā bhūvā sarvārthaṃ pṛṣṭaḥ-bhadra ! kim etat ?  
-
-  
-sa āha-vidhi-niyogaḥ |  
-
-  
-sa āha-kathaṃ tat ? kathaya kāraṇam etasya |  
-
-  
-so 'pi tena pṛṣṭaḥ | sarvaṃ cakra-vṛttāntam akathayat |  
-
-  
-tac chrutvāsau taṃ vigarhayann idam āha-bhoḥ ! niṣiddhas tvaṃ mayānekaśo na śṛṇoṣi me vākyam | tat kiṃ kriyate ? vidyāvān api kulīno 'pi vastuto buddhi-rahito 'si | athavā sādhv idam ucyate-  
-
-  
-varaṃ buddhir na sā vidyā vidyāyā buddhir uttamā |
-  
-buddhi-hīno vinaśyanti yathā te siṃha-kārakāḥ ||Panc_5.35||  
-
-  
-cakradhara āha-katham etat ?  
-
-  
-suvarṇasiddhir āha-  
-
-  
-kathā 3
-  
-siṃha-kāraka-mūrkha-brāhmaṇa-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne catvāro brāhmaṇa-putrāh paraṃ mitra-bhāvam upagatā vasanti sma | teṣāṃ trayaḥ śāstra-pāraṅgatāḥ parantu buddhi-rahitāḥ | ekas tu buddhimān kevalaṃ śāstra-parāṅmukhaḥ | atha taiḥ kadācin mitrair mantritam-ko guṇo vidyāyāḥ, yena deśāntaraṃ gatvā, bhūpatīn paritoṣyārthopārjanaṃ na kriyate | tat pūrva-deśaṃ gacchāvaḥ |  
-
-  
-tathānuṣṭhite kiñcin mārgaṃ gatvā teṣāṃ jyeṣṭhataraḥ prāha-aho ! asmākam ekaś caturtho mūḍhaḥ | kevalaṃ buddhimān | na ca rāja-pratigraho buddhyā labhyate, vidyāṃ vinā | tan nāsmai svopārjitaṃ dāsyāmaḥ | tad gacchatu gṛham |   
-
-  
-tato dvitīyenābhihitam-bhoḥ subuddhe ! gaccha tvaṃ sva-gṛhaṃ, yatas te vidyā nāsti |   
-
-  
-tatas tṛtīyenābhihitam-aho, na yujyate evaṃ kartum | yato vayaṃ bālyāt prabhṛty ekatra krīḍitāḥ | tad āgacchatu mahānubhāvo 'smad-upārjita-vittasya sama-bhāgī bhaviṣyatīti | uktaṃ ca-  
-
-  
-kiṃ tayā kriyate lakṣmyā yā vadhūr iva kevalā |
-  
-yā na veśyeva sāmānyā pathikair upabhujyate ||Panc_5.36||  
-
-  
-tathā ca-
-  
-ayaṃ nijaḥ paro veti gaṇanā laghu-cetasām |
-  
-udāra-caritānāṃ tu vasudhaiva kuṭumbakam ||Panc_5.37||  
-
-  
-tad āgacchatv eṣo 'pīti |  
-
-  
-tathānuṣṭhite tair mārgāśritair aṭavyāṃ mṛta-siṃhasyāsthīni dṛṣṭāni | tataś caikenābhihitaṃ-aho ! adya vidyā-pratyayaḥ kriyate | kiñcid etat sattvaṃ mṛtaṃ tiṣṭhati | tad vidyā-prabhāveṇa jīvana-sahitaṃ kurmaḥ | aham asthi-sañcayaṃ karomi |   
-
-  
-tataś ca tenautsukyād asthi-sañcayaḥ kṛtaḥ | dvitīyena carma-māṃsa-rudhiraṃ saṃyojitam | tṛtīyo 'pi yāvaj jīvanaṃ sañcārayati, tāvat subuddhinā niṣiddhaḥ-bhoḥ tiṣṭhatu bhavān | eṣa siṃho niṣpādyate | yady enaṃ sajīvaṃ kariṣyasi tataḥ sarvān api vyāpādayiṣyati |   
-
-  
-iti tenābhihitaḥ sa āha-dhiṅ mūrkha ! nāhaṃ vidyāyā viphalatāṃ karomi |   
-
-  
-tatas tenābhihitaṃ-tarhi pratīkṣasva kṣaṇaṃ yāvad ahaṃ vṛkṣam ārohāmi |  
-
-  
-tathānuṣṭhite, yāvat sajīvaḥ kṛtas tāvat te trayo 'pi siṃhenotthāya vyāpāditāḥ | sa ca punar vṛkṣād avatīrya gṛhaṃ gataḥ | ato 'haṃ bravīmi-varaṃ buddhir na sā vidyā iti |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ataḥ param uktaṃ sa suvarṇasiddhinā-  
-
-  
-api śāstreṣu kuśalā lokācāra-vivarjitāḥ |
-  
-sarve te hāsyatāṃ yānti yathā te mūrkha-paṇḍitāḥ ||Panc_5.38||  
-
-  
-cakradhara āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 4
-  
-mūrkha-paṇḍita-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne catvāro brāhmaṇāḥ parasparaṃ mitratvam āpannā vasanti sma | bāla-bhāve teṣāṃ matir ajāyata-bhoḥ veśāntaraṃ gatvā vidyāyā upārjanaṃ kriyate |  
-
-  
-ath:anyasmin divase te brāhmaṇāḥ parasparaṃ niścayaṃ kṛtvā vidyopārjanārthaṃ kānyakubje gatāḥ | tatra ca vidyā-maṭhe gatvā paṭhanti | evaṃ dvādaśābdāni yāvad ekacittatayā paṭhitvā, vidyā-kuśalās te sarve sañjātāḥ |  
-
-  
-tatas taiś caturbhir militvoktam-vayaṃ sarva-vidyā-pāraṅgatāḥ | tad-upādhyāyam utkalāpayitvā sva-deśaṃ gacchāmaḥ | tathaivānuṣṭhīyatām ity uktvā brāhmaṇāḥ upādhyāyam ukalāpayitvā anujñāṃ labdhvā pustakāni nītvā pracalitāḥ | yāvat kiñcin-mārgaṃ yānti, tāvad dvau panthānau samāyātau upaviṣṭāḥ sarve |  
-
-  
-tatraikaḥ provāca-kena mārgeṇa gacchāmaḥ ?  
-
-  
-etasmin samaye tasmin pattane kaścit vaṇik-putro mṛtaḥ | tasya dāhāya mahājano gato 'bhūt | tataś catūrṇāṃ madhyād ekena pustakam avalokitam-mahājano yena gataḥ sa panthaḥ iti | tan mahā-jana-mārgeṇa gacchāmaḥ |  
-
-  
-atha te paṇḍitā yāvan mahājanam elāpakena saha yānti, tāvad rāsabhaḥ kaścit tatra śmaśāne dṛṣṭaḥ | atha dvitīyena pustakam udghāṭyāvalokitam |  
-
-  
-utsave vyasane prāpte durbhikṣe śatru-saṅkaṭe |
-  
-rāja-dvāre śmaśāne ca yas tiṣṭhati sa bāndhavaḥ ||Panc_5.39||  
-
-  
-tad aho ! ayam asmadīyo bāndhavaḥ | tataḥ kaścit tasya grīvāyāṃ lagati | kaścit pādau prakṣālayati | atha yāvat te paṇḍitāh diśām avalokanaṃ kurvanti tāvat kaścid duṣṭo dṛṣṭaḥ | taiś coktam-etat kim ?  
-
-  
-tāvat tṛtīyena pustakam udghāṭyoktam-dharmasya tvaritā gatiḥ | tan nūnam eṣa dharmas tāvat |   
-
-  
-caturthenoktam-iṣṭaṃ dharmeṇa yojayet |  
-
-  
-atha taiś ca rāsabha uṣṭra-grīvāyāṃ baddhaḥ | tat tu kenacit tat-svāmino rajakasyāgre kathitam | yāvad rajakas teṣāṃ mūrkha-paṇḍitānāṃ prahāra-karaṇāya samāyātas tāvat te praṇaṣṭāḥ |   
-
-  
-tato tāvad agre kiñcit stokaṃ mārgaṃ yānti tāvat kācin nadī samāsāditā | tasya jala-madhye palāśa-patram āyātaṃ dṛṣṭvā paṇḍitenaikenoktam-āgamiṣyati yat patraṃ tas asmāṃs tārayiṣyati | etat kathayitvā tat-patrasyopari patito yāvan nadyā nīyate tāvat taṃ nīyamānam alokyānyena paṇḍitena keśāntaṃ gṛhītvoktam-  
-
-  
-sarva-nāśe samutpanne ardhaṃ tyajati paṇḍitaḥ |
-  
-ardhena kurute kāryaṃ sarva-nāśo hi duḥsahaḥ ||Panc_5.40||  
-
-  
-atha taiś ca paścāt gatvā kaścit grāma āsāditaḥ | te'pi grāmīṇair nimantritaḥ pṛthag gṛheṣu nītāḥ | tata ekasya sūtrikā ghṛtamaṇḍa-saṃyutā bhojane dattā | tato vicintya paṇḍitenoktaṃ yat-dīrgha-sūtrī vinaśyati iti | evam uktvā bhojanaṃ parityajya gataḥ | tathā dvitīyasya bhaṇḍakā dattāh | tenāyuktaṃ-ativistāra-vistīrṇaṃ tad bhaven na cirāyuṣam | sa bhojanaṃ tyaktvā gataḥ |   
-
-  
-atha tṛtīyasya vāṭikā bhojane dattā | tatrāpi tena paṇḍitenoktam-chidreṣv anarthā bahulībhavanti | evaṃ te trayo 'pi paṇḍitāḥ kṣutkṣāma-kaṇṭhāloke hāsyamānās tataḥ sthānāt sva-deśaṃ gatāḥ |  
-
-  
-atha suvarṇa-siddhir āha-yat tvaṃ loka-vyavahāram ajānan mayā vāryamāṇo 'pi na sthitaḥ tata īdṛśīm avasthātum upagataḥ | ato 'haṃ bravīmi-api śāstreṣu kuśalāḥ iti |  
-
-  
-tac chrutvā cakradhara āha-aho akāraṇam etat | yato hi-  
-
-  
-subuddhayo vinaśyanti duṣṭa-daivena nāśitāḥ |
-  
-svalpa-dhīr api tasmiṃs tu kule nandati santatam ||Panc_5.41||  
-
-  
-uktaṃ ca-
-  
-arakṣitaṃ tiṣṭhati daiva-rakṣitaṃ surakṣitaṃ daiva-hataṃ vinaśyati |
-  
-jīvaty anātho 'pi vane visarjitaḥ kṛta-prayatno 'pi gṛhe na jīvati ||Panc_5.42||  
-
-  
-tathā ca-
-  
-śatabuddhiḥ śirastho 'yaṃ lambate ca sahasra-dhīḥ |
-  
-eka-buddhir ahaṃ bhadre krīḍāmi vimale jale ||Panc_5.43||  
-
-  
-suvarṇasiddhir āha-katham etat ?  
-
-  
-sa āha-
-  
-kathā 5
-  
-matsya-maṇḍūka-kathā  
-
-  
-kasmiṃścij jalāśaye śatabuddhiḥ sahasrabuddhiś ca dvau matsyau nivasataḥ sma | atha tayor ekabuddhir nāma maṇḍūko mitratāṃ gataḥ | evaṃ te trayo 'pi jala-tīre velāyāṃ subhāṣita-goṣṭhī-sukham anubhūya, bhūyo 'pi salilaṃ praviśanti |   
-
-  
-atha kadācit teṣāṃ goṣṭhī-gatānāṃ tasmin jalāśaye samāyātāḥ | tataḥ salilāśayaṃ dṛṣṭvā mithaḥ procuḥ-aho bahu-matsyo 'yaṃ hrado dṛśyate, svalpa-salilaś ca| tat prabhāte'trāgamiṣyāmaḥ | evam uktvā sva-gṛhaṃ gatāḥ |  
-
-  
-matsyāś ca viṣaṇṇa-vadanā mitho mantraṃ cakruḥ | tato maṇḍūka āha-bhoḥ śatabuddhe ! śrutaṃ dhīvaroktaṃ bhavatā ? tat kim atra yujyate kartum ? palāyanam avaṣṭambho vā ? yat kartuṃ yuktaṃ bhavati tad ādiśyatām adya |   
-
-  
-tac chrutvā sahasra-buddhiḥ prahasya āha-bhoḥ mitra ! mā bhaiṣīḥ | tayoḥ vacana-śravaṇa-mātrād eva bhayaṃ na kāryam | na bhetavyam | uktaṃ ca-  
-
-  
-sarpāṇāṃ ca khalānāṃ ca sarveṣāṃ duṣṭa-cetasām |
-  
-abhiprāyā na sidhyanti tenedaṃ vartate jagat ||Panc_5.44||  
-
-  
-tāvat teṣām āgamanam api na sampatsyate | bhaviṣyati tarhi tvāṃ buddhi-prabhāveṇātma-sahitaṃ rakṣayiṣyāmi | yato 'nekāṃsalila-caryām ahaṃ jānāmi |  
-
-  
-tad ākarṇya śatabuddhir āha-bhoḥ yuktam uktaṃ bhavatā | sahasrabuddhir eva bhavān | athavā sādhv idam ucyate |  
-
-  
-buddher buddhimatāṃ loke nāsty agamyaṃ hi kiñcana |
-  
-buddhyā yato hatā nandāś cāṇakyenāsi-pāṇayaḥ ||Panc_5.45||  
-
-  
-tathā-
-  
-na yatrāsti gatir vāyo raśmīnāṃ ca vivasvataḥ |
-  
-tatrāpi praviśaty āśu buddhir buddhimatāṃ sadā ||Panc_5.46||  
-
-  
-tato vacana-śravaṇa-mātrād api pitṛ-paryāyāgataṃ janma-sthānaṃ tyaktuṃ na śakyate | uktaṃ ca-  
-
-  
-na yat svarge'pi saukhyaṃ syād divya-sparśena śobhane |
-  
-kusthāne'pi bhavet puṃsāṃ janmano yatra sambhavaḥ ||Panc_5.47||  
-
-  
-tan na kadācid api gantavyam | ahaṃ tvāṃ buddhi-prabhāveṇa rakṣayiṣyāmi | maṇḍūka āha-bhadrau ! mama tāvad ekaiva buddhiḥ palāyana-parā | tad aham anya-jalāśayam adyaiva sabhāryo yāsyāmi |   
-
-  
-evam uktvā sa maṇḍūko rātrāv evānya-jalāśayaṃ gataḥ | dhīvarair api prabhāte āgatya, jaghanya-madhyamottama-jalacarāḥ matsya-kūrma-maṇḍūka-karkaṭādayo gṛhītāḥ | tāv api śatabuddhi-sahasrabuddhī sabhāryau palāyamānau ciram ātmānaṃ gati-viśeṣa-vijñānaiḥ kuṭila-cāreṇa rakṣantau jāle nipatitau, vyāpāditau ca |  
-
-  
-athāparāhna-samaye prahṛṣṭās te dhīvarāḥ sva-gṛhaṃ prati prasthitāḥ | gurutvāc caikena śatabuddhiḥ skandhe kṛtaḥ sahasrabuddhiḥ pralambamāno nīyate | tataś ca vāpīkaṇṭhopagatena maṇḍūkena tau tathā nīyamānau dṛṣṭvā abhihitā svapatnī-priye ! paśya paśya-  
-
-  
-śatabuddhiḥ śiraḥstho 'yaṃ lambate ca sahasradhīḥ |
-  
-ekabuddhir ahaṃ bhadre krīḍāmi vimale jale ||Panc_5.48||  
-
-  
-ataś ca varaṃ buddhir na sā vidyā yad bhavatoktaṃ tatreyaṃ me matir yat na ekāntena buddhir api pramāṇam |  
-
-  
-suvarṇasiddhiḥ prāha-yadyapy etad asti, tathāpi mitra-vacanaṃ na laṅghanīyam | paraṃ kiṃ kriyate ? nivārito 'pi mayā na sthito 'si, atilaulyāt vidyāhaṅkārāc ca | athavā sādhv idam ucyate-  
-
-  
-sādhu mātula gītena mayā prokto 'pi na sthitaḥ |
-  
-apūrvo 'yaṃ maṇir baddhaḥ samprāptaṃ gīta-lakṣaṇam ||Panc_5.49||  
-
-  
-cakradhara āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 6
-  
-rāsabha-śṛgāla-kathā  
-
-  
-kasmiṃścd adhiṣṭhāne uddhato nāma gardabhaḥ prativasati sma | sa sadaiva rajaka-gṛhe bhārodvahanaṃ kṛtvā rātrau svecchayā paryaṭati | tataḥ pratyūṣe bandhana-bhayāt svayam eva rajaka-gṛham āyāti | rajako 'pi tatas taṃ bandhanena niyunakti |  
-
-  
-atha tasya rātrau kṣetrāṇi paryaṭataḥ kadācic chṛgālena saha maitrī sañjātā sa ca pīvaratvād vṛtti-bhaṅgaṃ kṛtvā karkaṭikā-kṣetre śṛgāla-sahitaḥ praviśati | evaṃ tau yadṛcchayā cirbhaṭikā-bhakṣaṇaṃ kṛtvā, pratyahaṃ pratyūṣe sva-sthānaṃ vrajataḥ |  
-
-  
-atha kadācit tena madoddhatena rāsabhena kṣetra-madhya-sthitena śṛgāo 'bhihitaḥ-bhoḥ bhaginī-sūta ! paśya paśya | atīva nirmalā rajanī | tad ahaṃ gītaṃ kariṣyāmi | tat kathaya katamena rāgeṇa karomi |  
-
-  
-sa āha-māma ! kim anena vṛthānartha-pracālanena ? yataś caurakarma-pravṛttāv āvām | nibhṛtaiś ca caura-jārair atra sthātavyam | uktaṃ ca-  
-
-  
-kāṃsī vivarjayec cauryaṃ nidrāluś cet sa puṃścalīm |
-  
-jihvā-laulyaṃ ca rujākrānto jīvitaṃ yo 'tra vāñchati ||Panc_5.50||  
-
-  
-aparaṃ tvadīyaṃ gītaṃ na madhura-svaraṃ, śaṅkha-śabdānukāraṃ dūrād api śrūyate | tad atra kṣetre rakṣā-puruṣāḥ susuptāḥ santi | te utthāya vadhaṃ bandhanaṃ vā kariṣyanti | tad bhakṣaya tāvad amṛtamayīś carbhaṭīḥ | mā tvam atra gīta-vyāpāra-paro bhava |  
-
-  
-tac chrutvā rābhasa āha-bhoḥ vanāśrayatvāt tvaṃ gīta-rasaṃ na vetsi, tenaitad bravīṣi | uktaṃ ca-  
-
-  
-śaraj-jyotsnāhate dūraṃ tamasi priya-sannidhau |
-  
-dhanyānāṃ viśati śrotre gīta-jhaṅkāra-jā sudhā ||Panc_5.51||  
-
-  
-śṛgāla āha-māma, asty etat | paraṃ na vetsi tvaṃ gītam | kevalam unnadasi | tat kiṃ tena svārtha-bhraṃśakena ?  
-
-  
-rāsabha āha-dhig dhiṅ mūrkha ! kim ahaṃ na jānāsi gītam ? tad yathā tasya bhedān śṛṇu-
-  
-sapta svarās trayo grāmā mūrcchatāś caikatriṃśatiḥ |
-  
-tānās tv ekonapaūcāśat tisro mātrā layās trayaḥ ||Panc_5.52||
-  
-sthāna-trayaṃ yatīnāṃ ca ṣaḍ-asyāni rasā nava |
-  
-rāgā ṣaṭ-triṃśatir bhāvāś catvāriṃśat tataḥ smṛtāḥ ||Panc_5.53||
-  
-pañcāśīty-adhikaṃ hy etad gītāṅgānāṃ śataṃ smṛtam |
-  
-svayam eva purā proktaṃ bharatena śruteḥ param ||Panc_5.54||
-  
-nānyad gītāt priyaṃ loke devānām api dṛśyate |
-  
-śuṣka-snāyu-svarāhlādāt try-akṣaṃ jagrāha rāvaṇaḥ ||Panc_5.55||  
-
-  
-tat kathaṃ bhaginī-suta mām anabhijñaṃ vadan nivārayati ?  
-
-  
-śṛgāla āha-māma ! yady evaṃ yāvad vṛtter dvāra-sthitaḥ kṣetrapālam avalokayāmi, tvaṃ punaḥ svecchayā gītaṃ kuru |  
-
-  
-tathānuṣṭhite rāsabha-raṭanam ākarṇya kṣetrapaḥ krodhāt dantān dharṣayan pradhāvitaḥ | yāvad rāsabho dṛṣṭas tāval laguḍa-prahārais tathā hato, yathā pratāḍito bhū-pṛṣṭhe patitaḥ | tataś ca sac-chidram ulūkhalaṃ tasya gale baddhvā kṣetrapālaḥ prasuptaḥ | rāsabho 'pi svajāti-svabhāvād gata-vedanaḥ kṣaṇenābhyutthitaḥ | uktaṃ ca-
-  
-sārameyasya cāśvasya rāsabhasya viśeṣataḥ |
-  
-muhūrtāt paratau na syāt prahāra-janitā vyathā ||Panc_5.56||  
-
-  
-tata tam evolūkhalam ādāya vṛttiṃ cūrṇayitvā palāyitum ārabdhaḥ | atrāntare śṛgālo 'pi dūrād eva dṛṣṭvā sa-smitam āha-  
-
-  
-sādhu mātula gītena mayā prokto 'pi na sthitaḥ |
-  
-apūrvo 'pi maṇir baddhaḥ sāmprataṃ gīta-lakṣaṇam ||Panc_5.57||  
-
-  
-tad bhavān api mayā vāryamāṇo 'pi na sthitaḥ |   
-
-  
-tac chrutvā cakradhara āha-bho mitra ! satyam etat | athavā sādhv idam ucyate-  
-
-  
-yasya nāsti svayaṃ prajñā mitroktaṃ na karoti yaḥ |
-  
-sa eva nidhanaṃ yāti yathā manthara-kolikaḥ ||Panc_5.58||  
-
-  
-suvarṇasiddhir āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 7
-  
-manthara-kaulika-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne mantharako nāma kaulikaḥ prativasati sma | tasya kadācit paṭa-karmāṇi kurvataḥ sarva-paṭa-karma-kāṣṭhāni bhagnāni | tataḥ sa kuṭhāram ādāya vane kāṣṭhārthaṃ gataḥ | sa ca samudra-taṭe yāvad bhraman prayātaḥ tāvat tatra śiṃśapā-pādapas tena dṛṣṭaḥ | tataś cintitavān-mahān ayaṃ vṛkṣo dṛśyate | tad anenaiva kartitena prabhūtāni paṭa-karmopakaraṇāni bhaviṣyanti | ity avadhārya tasyopari kuṭhāram utkṣiptavān |  
-
-  
-atha tatra vṛkṣe kaścit vyantaraḥ samāśritya āsīt | atha tenābhihitam-bhoḥ ! mad-āśrayo 'yaṃ pādapaḥ sarvathā rakṣaṇīyaḥ | yato 'ham atra mahā-saukhyena tiṣṭhāmi | samudra-kallola-sparśanāc chīta-vāyunāpyāyitaḥ |  
-
-  
-kaulika āha-bhoḥ ! kim ahaṃ karomi ? dāru-sāmagrīṃ vinā me kuṭumbaṃ bubhukṣayā pīḍyate | tasmād anyatra śīghraṃ gamyatām | aham enaṃ kartayiṣyāmi |  
-
-  
-vyantara āha-bhoḥ ! tuṣṭas tavāham | tat prārthyatām abhīṣṭaṃ kiñcit | rakṣaimaṃ pādapam iti |  
-
-  
-kaulika āha-yady eva tad ahaṃ sva-gṛhaṃ gatvā sva-mitraṃ sva-bhāryāṃ ca pṛṣṭvā āgamiṣyāmi | tatas tvayā deyam |  
-
-  
-atha tatheti vyantareṇa pratijñāte sa kaulikaḥ prahṛṣṭaḥ sva-gṛhaṃ prati nivṛtto yāvad agre gacchati, tāvad grāma-praveśe nija-suhṛdaṃ nāpitam apaśyat | tataḥ tasya vyantara-vākyaṃ nivedayāmāsa, yat-aho mitra ! mama kaścit vyantaraḥ siddhaḥ | tat kathaya, kiṃ prārthaye ? ahaṃ tvāṃ praṣṭum āgataḥ |  
-
-  
-nāpita āha-bhadra ! yady evaṃ tad rājyaṃ prārthayasva, yena tvaṃ rājā bhavasi ahaṃ tvan-mantrī | dvāv apīha sukham anubhūya para-loka-sukham anubhavāvaḥ | uktaṃ ca-  
-
-  
-rājā dāna-paro nityam iha kīrtim avāpya ca |
-  
-tat prabhāvāt punaḥ svargaṃ spardhate tridaśaiḥ saha ||Panc_5.59||  
-
-  
-kaulika āha-asty etat tathāpi gṛhiṇīṃ pṛcchāmi |  
-
-  
-sa āha-bhadra ! śāstra-viruddham etat yat striyā saha mantraḥ | yatas tāḥ svalpa-matayo bhavanti | uktaṃ ca-  
-
-  
-bhojanācchādane dadyād ṛtu-kāle ca saṅgamam |
-  
-bhūṣaṇādyaṃ ca nārīṇāṃ na tābhir mantrayet sudhīḥ ||Panc_5.60||
-  
-yatra strī yatra kitavo bālo yatra praśāsitā |
-  
-tad gṛhaṃ kṣayam āyāti bhārgavo hīdam abravīt ||Panc_5.61||
-  
-tāvat syāt suprasannāsyas tāvad guru-jane rataḥ |
-  
-puruṣo yoṣitāṃ yāvan na śṛṇoti vaco rahaḥ ||Panc_5.62||
-  
-etāḥ svārtha-parā nāryaḥ kevalaṃ sva-sukhe ratāḥ |
-  
-na tāsāṃ vallabhaḥ ko 'pi suto 'pi sva-sukhaṃ vinā ||Panc_5.63||  
-
-  
-kaulika āha-tathāpi praṣṭavyā sā mayā | yataḥ pativratā sā | aparaṃ tām apṛṣṭvāhaṃ na kiñcit karomi |   
-
-  
-evaṃ tam abhidhāya satvaraṃ gatvā tām uvāca-priye ! adyāsmākaṃ kaścid vyantaraḥ siddhaḥ | sa vāñchitaṃ prayacchati | tad ahaṃ tvāṃ praṣṭum āgataḥ | tat kathaya kiṃ prārthaye ? eṣa tāvan mama mitraṃ nāpito vatady evaṃ yat-rājyaṃ prārthayasva |  
-
-  
-sāha-āryaputra ! kā matir nāpitānām ? tan na kāryaṃ tad vacaḥ | uktaṃ ca-  
-
-  
-cāraṇair vandibhir nīcair nāpitair bālakair api |
-  
-na mantraṃ maitmān kuryāt sārdhaṃ bhikṣubhir eva ca ||Panc_5.64||  
-
-  
-aparaṃ mahatī kleśa-paramparaiṣā rājya-sthitiḥ sandhi-vigraha-yānāsana-saṃśraya-dvaidhībhāvādibhiḥ kadācit puruṣasya sukhaṃ na prayacchatīti | yataḥ-  
-
-  
-yadaiva rājye kriyate'bhiṣekas tadaiva yāti vyasaneṣu buddhiḥ |
-  
-ghaṭā nṛpāṇām abhiṣeka-kāle sahāmbhasaivāpadam udgiranti ||Panc_5.65||  
-
-  
-tathā ca-
-  
-rāmasya vrajanaṃ vane nivasanaṃ pāṇḍoḥ sutānāṃ vane
-  
-vṛṣṇīnāṃ nidhanaṃ nalasya nṛpate rājyāt paribhraṃśanam |
-  
-saudāsaṃ tad-avastham arjuna-vadhaṃ sañcintya laṅkeśvaraṃ
-  
-dṛṣṭvā rājya-kṛte viḍambana-gataṃ tasmān na tad vāñchayet ||Panc_5.66||  
-
-  
-yad-arthaṃ bhrātaraḥ putrā api vāñchanti ye nijāḥ |
-  
-vadhaḥ rājya-kṛtāṃ rājñāṃ tad rājyaṃ dūratas tyajet ||Panc_5.67||  
-
-  
-kaulika āha-satyam uktaṃ bhavatyā | tat kathaya kiṃ prārthaye ?  
-
-  
-sāha-tvaṃ tāvad ekaṃ paṭaṃ nityam eva niṣpādayasi | tena sarvā vyaya-śuddhiḥ sampadyate | idānīṃ tvam ātmano 'nyad bāhu-yugalaṃ dvitīyaṃ śiraś ca yācasva, yena paṭa-dvayaṃ sampādayasi purataḥ pṛṣṭhataś ca | ekasya mūlyena gṛḥe yathā-pūrvaṃ vyayaṃ sampādayiṣyasi, dvitīyasya mūlyena viśeṣa-kṛtyāni kariṣyasi | evaṃ saukhyena svajāti-madhye ślāghyamānasya kālo yāsyati, loka-dvayasyopārjanā ca bhaviṣyati |  
-
-  
-so 'pi tad ākarṇya prahṛṣṭaḥ prāha-sādhu pativrate ! sādhu ! yuktam uktaṃ bhavatyā | tad evaṃ kariṣyāmi | eṣa me niścayaḥ |  
-
-  
-tato 'sau gatvā vyantaraṃ prārthayāṃcakre-bho, yadi mamepsitaṃ prayacchasi tat dehi me dvitīyaṃ bāhu-yugalaṃ śiraś ca |  
-
-  
-evam abhihite tat-kṣaṇād eva sa dviśirāś caturbāhuś ca sañjātaḥ | tato hṛṣṭa-manā yāvad gṛham āgacchati tāval-lokaiḥ rākṣaso 'yam iti mānyamānair laguḍa-pāṣāṇa-prahārais tāḍito mṛtaś ca |  
-
-  
-ato 'haṃ bravīmi-yasya nāsti svayaṃ prajñā iti |  
-
-  
-cakradhara āha-bhoḥ ! satyam etat | sarvo 'pi jano 'śraddeyām āśāpiśācikāṃ prāpya hāsya-padavīṃ yāti | athavā sādhv idam ucyate kenāpi-  
-
-  
-anāgatavatīṃ cintām asambhāvyāṃ karoti yaḥ |
-  
-sa eva pāṇḍuraḥ śete soma-śarma-pitā yathā ||Panc_5.68||  
-
-  
-suvarṇasiddhir āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 8
-  
-soma-śarma-pitṛ-kathā  
-
-  
-kasmiṃścin nagare kaścit svabhāva-kṛpaṇo nāma brāhmaṇaḥ prativasati sma | tasya bhikṣārjitaiḥ saktubhir bhukta-śeṣaiḥ kalaśaḥ sampūritaḥ | taṃ ca ghaṭaṃ nāgadante'valambya tasyādhastāt khaṭvāṃ nidhāya satatam eka-dṛṣṭyā tam avalokayati |   
-
-  
-atha kadācid rātrau suptaś cintayāmāsa-yat paripūrṇo 'yaṃ ghaṭas tāvat saktubhir vartate | tad yadi durbhikṣaṃ bhavati, tad anena rūpyakāṇāṃ śatam utpatsyate | tatas tena mayājād vayaṃ grahītavyam | tataḥ ṣāṇ-māsikam āprasava-vaśāt tābhyāṃ yūthaṃ bhaviṣyati | tato 'jābhiḥ prabhūtā gā grahīṣyāmi | gobhir mahiṣīḥ | mahiṣīr baḍavāḥ | baḍavā-prasavataḥ prabhūtā aśvā bhaviṣyanti | teṣāṃ vikrayāt prabhūtaṃ suvarṇaṃ bhaviṣyati | suvarṇena catuḥśālaṃ gṛhaṃ sampatsyate |  
-
-  
-tataḥ kaścid brāhmaṇo mama gṛham āgatya prāpta-vayaskāṃ rūpāḍhyāṃ kanyāṃ mahyaṃ dāsyati | tat-sakāśāṭ putro me bhaviṣyati | tasyāḥaṃ somaśarmā iti nāma kariṣyāmi | tatas tasmin jānu-calana-yogye sañjāte'haṃ pustakaṃ gṛhītvāśva-śālāyāḥ pṛṣṭha-deśe upaviṣṭas tad-avadhārayiṣyāmi | atrāntare somaśarmā māṃ dṛṣṭvā janany-utsaṅgāj jānu-calana-paro 'śva-khurāsanna-vartī mat-samīpam āgamiṣyati | tato 'haṃ brāhmaṇīṃ kopāviṣṭo 'bhidhāsyāmi-gṛhāṇa tāvad bālakam | sāpi gṛha-karma-vyagratayāsmad-vacanaṃ na śroṣyati | tato 'haṃ samutthāya tāṃ pāda-prahāreṇa tāḍayiṣyāmi |  
-
-  
-evaṃ tena dhyāna-sthitena tathaiva pāda-prahāro datto yathā sa ghaṭo bhagnaḥ, svayaṃ ca saktubhiḥ pāṇḍuratāṃ gataḥ | ato 'haṃ bravīmi-anāgatavatīṃ cintām iti |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-suvarṇasiddhir āha-evam etat | kas te doṣaḥ, yataḥ sarvo 'pi lobhena viḍambito bādhyate ? uktaṃ ca-  
-
-  
-yo laulyāt kurute naivodarkam avekṣate |
-  
-viḍambanām avāpnoti sa yathā candra-bhūpatiḥ ||Panc_5.69||  
-
-  
-cakradhara āha-katham etat ?  
-
-  
-sa āha-  
-
-  
-kathā 9
-  
-candra-bhūpati-kathā  
-
-  
-kasmiṃścin nagare candro nāma bhūpatiḥ prativasati sma | tasya putrā vānara-krīḍā-ratā vānara-yūthaṃ nityam evāneka-bhojana-bhakṣyādibhiḥ puṣṭiṃ nayanti sma | atha vānarādhipo yaḥ sa auśanasa-bārhaspatya-cāṇakya-mata-vit tad-anuṣṭhātā ca tat-sarvān apy adhyāpayati sma |  
-
-  
-atha tasmin rāja-gṛhe laghu-kumāra-vāhana-yogyaṃ meṣa-yūtham asti | tan-madhyād eko jihvā-laulyād ahar-niśaṃ niḥśaṅkaṃ mahānase praviśya yat paśyati tat sarvaṃ bhakṣayati | te ca sūpakar yat kiñcit kāṣṭhaṃ mṛṇ-mayaṃ bhājanaṃ kāṃsya-pātraṃ tāmra-pātraṃ vā paśyanti tenāśu tāḍayanti |  
-
-  
-so 'pi vānara-yūthapas tad dṛṣṭvā vyacintayat-aho meṣa-sūpakāra-kalaho 'yaṃ vānarāṇāṃ kṣayāya bhaviṣyati | yato 'nna-rasāsvāda-lampaṭo 'yaṃ meṣo, mahā-kopāś ca sūpakārā yathāsanna-vastunā praharanti | tad yadi vastuno 'bhāvāt kadācid ulmukena tāḍayiṣyanti, tadorṇā-pracuro 'yaṃ meṣaḥ svalpenāpi vahninā prajvalayiṣyati | tad dahyamānaḥ punar aśva-kuṭyāṃ samīpa-vartinyāṃ pravekṣyati | sāpi tṛṇa-prācuryāj jvaliṣyati | tato 'śvā vahni-dāham avāpsyanti |  
-
-  
-śālihotreṇa punar etad uktaṃ yat-vānara-vasayāśvānāṃ vahni-dāha-doṣaḥ praśāmyati | tan nūnam etena bhāvyam atra niścayaḥ | evaṃ niścitya sarvān vānarān āhūya rahasi provāca, yat-  
-
-  
-meṣeṇa sūpakārāṇāṃ kalaho yatra jāyate |
-  
-sa bhaviṣyaty asandigdhaṃ vānarāṇāṃ kṣayāvahaḥ ||Panc_5.70||
-  
-tasmāt syāt kalaho yatra gṛhe nityam akāraṇaḥ |
-  
-tad-gṛhaṃ jīvitaṃ vāñchan dūrataḥ parivarjayet ||Panc_5.71||
-  
-kalahāntāni harmyāṇi kuvākyāntaṃ ca sauhṛdam |
-  
-kurājāntāni rāṣṭrāṇi kukarmāntaṃ yaśo nṛṇām ||Panc_5.72||  
-
-  
-tan na yāvat sarveṣāṃ saṅkṣayo bhavati, tāvad evaitad rāja-gṛhaṃ santyajya vanaṃ gacchāmaḥ | atha tat tasya vacanam aśraddheyaṃ śrutvā madoddhatā vānarāḥ prahasya procuḥ-bho bhavato vṛddha-bhāvād buddhi-vaikalyaṃ sañjātaṃ, yenaitad bravīṣi | uktaṃ ca-  
-
-  
-vadanaṃ daśanair hīnaṃ lālā sravati nityaśaḥ |
-  
-na matiḥ sphurati kvāpi bāle vṛddhe viśeṣataḥ ||Panc_5.73||  
-
-  
-na vayaṃ svarga-samānopabhogān nānā-vidhān bhakṣya-viśeṣān rāja-putraiḥ sva-dattān amṛta-kalpān parityajya tatrāṭavyāṃ kaṣāya-kaṭu-tikta-kṣāra-rūkṣa-phalāni bhakṣayiṣyāmaḥ |   
-
-  
-tac chrutvāśru-kaluṣāṃ dṛṣṭiṃ kṛtvā sa provāca-re re mūrkhāḥ ! yūyam etasya sukhasya pariṇāmaṃ na jānītha | kiṃ pāka-rasāsvādana-prāyam etat sukhaṃ pariṇāme viṣavad bhaviṣyati | tad ahaṃ kula-kṣayaṃ svayaṃ nāvalokayiṣyāmi | sāmprataṃ vanaṃ yāsyāmi | uktaṃ ca-  
-
-  
-mitraṃ vyasana-samprāptaṃ sva-sthānaṃ para-pīḍanam |
-  
-dhanyās te ye na paśyanti deśa-bhaṅgaṃ kula-kṣayam ||Panc_5.74||  
-
-  
-evam abhidhāya sarvāṃs tān parityajya sa yūthādhipo 'ṭavyāṃ gataḥ | atha tasmin gate'nyasmin ahani sa meṣo mahānase praviṣṭo, yāvat sūpakāreṇa nānyat kiñcit samāsāditaṃ tāvad ardha-jvalita-kāṣṭhena tāḍyamāno jājvalyamana-śarīraḥ śabdāyamāno 'śva-kuṭyāṃ pratyāsanna-vartinyāṃ praviṣṭaḥ |   
-
-  
-tatra tṛṇa-prācurya-yuktāyāṃ kṣitau tasya praluṭhataḥ sarvatrāpi vahni-jvālās tathā samutthitā yathā kecid aśvāḥ sphuṭita-locanāḥ pañcatvaṃ gatāḥ | kecid bandhanāni troṭayitvā ardha-dagdha-śarīrā itaś cetaś ca hreṣāyamāṇā dhāvamānā sarvam api jana-samūham ākulīcakruḥ |  
-
-  
-atrāntare rājā saviṣādaḥ śālihotrajñān vaidyān āhūya provāca-bhoḥ ! procyatām eṣām aśvānāṃ kaścid dāhopaśamanopāyaḥ |   
-
-  
-te'pi śāstrāṇi vilokya procuḥ-deva ! proktam atra viṣaye bhagavatā śālihotreṇa, yat-  
-
-  
-kapīnāṃ medasā doṣo vahni-dāha-samudbhavā |
-  
-aśvānāṃ nāśam abhyeti tamaḥ sūryodaye yathā ||Panc_5.75||  
-
-  
-tat kriyatām etac cikitsitāṃ drāk, yāvad ete na dāha-doṣeṇa vinaśyanti |   
-
-  
-so 'pi tad ākarṇya samasta-vānara-vadham ādiṣṭavān | kiṃ bahunā, sarve'pi te vānarā vividhāyudha-laguḍa-pāṣāṇādibhir vyāpāditāḥ iti |  
-
-  
-atha so 'pi vānara-yūthapas taṃ putra-pautra-bhrātṛ-suta-bhāgineyādi-saṅkṣayaṃ jñātvā viṣādam upagataḥ | santyaktāhāra-kriyo vanād vanaṃ paryaṭati | acintayac ca-katham ahaṃ tasya nṛpāpasadayānṛṇatā-kṛtyenāpakṛtyaṃ kariṣyāmi | uktaṃ ca-  
-
-  
-marṣayed dharṣaṇāṃ yo 'tra vaṃśajāṃ para-nirmitām |
-  
-bhayād vā yadi vā kāmāt sa jñeyaḥ puruṣādhamaḥ ||Panc_5.76||  
-
-  
-atha tena vṛddha-vānareṇa kutracit pipāsākulena bhramatā padminī-khaṇḍa-maṇḍitaṃ saraḥ samāsāditam | tad yāvat sūkṣmekṣikayāvalokayati tāvad vanacara-manuṣyāṇāṃ pada-paṅkti-pradeśo 'sti na niṣkramaṇam | tataś cintitam-nūnam atra ākrānte duṣṭa-grāheṇa bhāvyam | tat-padminī-nālam ādāya dūrastho 'pi jalaṃ pibāmi |  
-
-  
-tathānuṣṭhite tan-madhyād rākṣaso niṣkramya ratna-mālā-vibhūṣita-kaṇṭhas tam uvāca-bhoḥ ! atra yaḥ salile praveśaṃ karoti sa me bhakṣyaḥ iti | tan nāsti dhūrtataras tvat-samo 'nyo  yaḥ pānīyam anena vidhinā pibati | tatas tuṣṭo 'haṃ, prārthayasva hṛdaya-vāñchitam |  
-
-  
-kapir āha-bhoḥ ! kiyatī me bhakṣaṇa-śaktiḥ ?  
-
-  
-sa āha-śata-sahasrāyuta-lakṣāṇy api jala-praviṣṭāni bhakṣayāmi | bāhyataḥ śṛgālo 'pi māṃ dharṣayati |  
-
-  
-vānara āha-asti me kenacid bhūpatinā sahātyantaṃ vairam | yady enāṃ ratna-mālāṃ me prayacchasi, tat parivāram api taṃ bhūpatiṃ vākya-prapañcena lobhayitvātra sarasi praveśayāmi |  
-
-  
-so 'pi śraddheyaṃ vacas tasya śrutvā ratna-mālāṃ dattvā prāha-bho mitra ! yat samucitaṃ bhavati tat kartavyam iti |  
-
-  
-vānaro 'pi ratna-mālā-vibhūṣita-kaṇṭho vṛkṣa-prāsādeṣu paribhraman janair dṛṣṭaḥ | pṛṣṭaś ca-bho yūthapa ! bhavān iyantaṃ kālaṃ kutra sthitaḥ ? bhavatā īdṛg ratna-mālā kutra labdhā ? dīptyā sūryam api tiraskaroti |  
-
-  
-vānaraḥ prāha-asti kutracid araṇye guptataraṃ mahat saro dhanada-nirmitam | tatra sūrye'rdhodite ravi-vāre yaḥ kaścin nimajjati, sa dhanada-prasādād īdṛg-ratna-mālā-vibhūṣita-kaṇṭho niḥsarati |  
-
-  
-atha bhūbhujā tad ākarṇya, sa vānaraḥ samāhūtaḥ | pṛṣṭaś ca-bho yūthādhipa ! kiṃ satyam etat ? ratna-mālā-sanāthaṃ saro 'sti kvāpi ?  
-
-  
-kapir āha-svāmin ! eṣa pratyakṣatayā mat-kaṇṭha-sthitayā ratna-mālayā pratyayas te | tad yadi ratna-mālayā prayojanaṃ tan mayā saha kam api preṣaya, yena darśayāmi |  
-
-  
-tac chrutvā nṛpatir āha-yady evaṃ tad ahaṃ sa-parijanaḥ svayam eṣyāmi, yena prabhūtā ratna-mālā utpadyate |  
-
-  
-vānara āha-evaṃ kriyatām |  
-
-  
-tathānuṣṭhite bhūpatinā saha ratna-mālā-lobhena sarve kalatra-bhṛtyāḥ prasthitāḥ | vānaro 'pi rājñā dolādhirūḍhena svotsaṅge āropitaḥ sukhena prīti-pūrvam ānīyate | athavā sādhv idam ucyate-
-  
-tṛṣṇe devi namas tubhyaṃ yayā vittānvitā api |
-  
-akṛtyeṣu niyojyante bhrāmante durgameṣv api ||Panc_5.77||  
-
-  
-tathā ca-
-  
-icchati śatī sahasraṃ sahasrī lakṣam īhate |
-  
-lakṣādhipas tathā rājyaṃ rājyasthaḥ svargam īhate ||Panc_5.78||
-  
-jīryante jīryataḥ keśāḥ dantā jīryanti jīryataḥ |
-  
-jīryataś cakṣuṣī śrotre tṛṣṇaikā taruṇāyate ||Panc_5.79||  
-
-  
-atha tat-saraḥ samāsādya vānaraḥ pratyūṣa-samaye rājānam uvāca-deva ! atrārdhodite sūrye'ntaḥ-praviṣṭānāṃ siddhir bhavati tat sarvo 'pi jana ekadaiva praviśatu | tvayā punar mayā saha praveṣṭavyaṃ, yena pūrva-dṛṣṭa-sthānam āsādya, prabhūtās te ratna-mālā darśayāmi |  
-
-  
-atha praviṣṭās te lokāḥ sarve bhakṣitā rākṣasena | atha teṣu ciramāṇeṣu rājā vānaram āha-bho yūthādhipa kim iti cirāyate me parijanaḥ ?  
-
-  
-tac chrutvā vānaraḥ satvaraṃ vṛkṣam āruhya rājānam uvāca-bho duṣṭa-narapate ! rākṣasenāntaḥ-salila-sthitena bhakṣitās te parijanaḥ | sādhitaṃ mayā kula-kṣayajaṃ vairam, tad gamyatām | tvaṃ svāmīti matvā nātra praveśitaḥ | uktaṃ ca-  
-
-  
-kṛte pratikṛtaṃ kuryād dhiṃsite pratihiṃsitam |
-  
-na tatra doṣaṃ paśyāmi yo duṣṭe duṣṭam ācaret ||Panc_5.80||  
-
-  
-tat tvayā mama kula-kṣayaḥ kṛtaḥ mayā punas tava iti |   
-
-  
-athaitad ākarṇya rājā kopāviṣṭaḥ padātir ekākī yathāyāta-mārgeṇa niṣkrāntaḥ | atha tasmin bhūpatau gate rākṣasa-spṛṣṭo jalān niṣkramya sānandam idam āha-  
-
-  
-hataḥ śatruḥ kṛtaṃ mitraṃ ratna-mālā na hāritā |
-  
-nālena pibatā toyaṃ bhavatā sādhu vānara ||Panc_5.81||  
-
-  
-ato 'haṃ bravīmi-yo laulyāt kurute karma iti |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-evam uktvā bhūyo 'pi sa cakradharam āha-bho mitra ! preṣaya māṃ, yena sva-gṛhaṃ gacchāmi |  
-
-  
-cakradhara āha-bhadra ! āpad-arthe dhana-mitra-saṅgrahaḥ kriyate | tan mām evaṃvidhaṃ tyaktvā kva yāsyasi ? uktaṃ ca-  
-
-  
-yas tyaktvā sāpadaṃ mitraṃ yāti niṣṭhuratāṃ vahan |
-  
-kṛtaghnas tena pāpena narake yāty asaṃśayam ||Panc_5.82||  
-
-  
-suvarṇasiddhir āha-bhoḥ, satyam etad yadi gamya-sthāne śaktir bhavati | etat punar manuṣyāṇām agamya-sthānam | nāsti kasyāpi tvām unmocayituṃ śaktiḥ aparaṃ yathā yathā cakra-bhrama-vedanayā tava mukha-vikāraṃ paśyāmi tathā tathāham etaj jānāmi yat drāg gacchāmi mā kaścin mamāpy anartho bhaved iti | yataḥ-  
-
-  
-yādṛśī vadana-cchāyā dṛśyate tava vānara |
-  
-vikālena gṛhīto 'si yaḥ paraiti sa jīvati ||Panc_5.83||  
-
-  
-cakradhara āha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 10
-  
-vikāla-vānara-kathā  
-
-  
-kasmiṃścin nagare bhadraseno nāma rājā prativasati sma | tasya sarva-lakṣaṇa-sampannā ratnavatī nāma kanyāsti | tāṃ kaścid rākṣaso jihīrṣati | rātrāv āgatyopabhuṅkte, paraṃ kṛta-rakṣopadhānāṃ tāṃ hartuṃ na śaknoti | sāpi tat-samaye rakṣaḥ-sānnidhyajām avasthām anubhavati kampādibhiḥ |  
-
-  
-ekam atikrāmati kāle kadācit sa rākṣaso madhya-niśāyāṃ gṛha-koṇe sthitaḥ | sāpi rāja-kanyā sva-sakhīm uvāca-sakhi ! paśyaiṣa vikālaḥ samaye nityam eva māṃ kadarthayati | asti tasya durātmanaḥ pratiṣedhopāyaḥ kaścit ?  
-
-  
-tac chrutvā rākṣaso 'pi vyacintayat-nūnaṃ yathāhaṃ tathānyo 'pi kaścid vikāla-nāmāsyā haraṇāya nityam evāgacchati | paraṃ so 'py enāṃ hartuṃ na śaknoti | tat tāvad aśva-rūpaṃ kṛtvāśva-madhya-gato nirīkṣayāmi | kiṃ-rūpaḥ sa kiṃ-prabhāvaś ceti ? evaṃ rākṣaso 'śva-rūpaṃ kṛtvāśvānāṃ madhye tiṣṭhati |  
-
-  
-tathānuṣṭhite niśītha-samaye rāja-gṛhe kaścid aśva-cauraḥ praviṣṭaḥ | sa ca sarvān aśvān avalokya taṃ rākṣasam aśvatamaṃ vijñāyādhirūḍhaḥ |  
-
-  
-atrāntare rākṣasaś cintayāmāsa-nūnam eṣa vikāla-nāmā  māṃ cauraṃ matvā kopān nihantum āgataḥ | tat kiṃ karomi ? evaṃ cintayan so 'pi tena khalīnaṃ mukhe nidhāya kaśāghātena tāḍitaḥ | athāsau bhaya-trasta-manāḥ pradhāvitum ārabdhaḥ |  
-
-  
-cauro 'pi dūraṃ gatvā khalīnākarṣaṇena taṃ sthiraṃ kartum ārabdhavān | sa tu vegād vegataraṃ gacchati | atha taṃ tathāgaṇita-khalīnākarṣaṇaṃ matvā cauraś cintayāmāsa-aho naivaṃ-vidhā vājino bhavanty agaṇita-khalīnāḥ | tan nūnam anenāśva-rūpeṇa rākṣasena bhavitavyam | yadyapi kañcit pāṃsulaṃ bhūmi-deśam avalokayāmi tad ātmānaṃ tatra pātayāmi | nānyathā me jīvitavyam asti |  
-
-  
-evaṃ cintayata iṣṭa-devatāṃ smaratas tasya so 'śvo baṭa-vṛkṣasya tale niṣkrāntaḥ | cauro 'pi baṭa-praroham āsādya tatraiva vilagnaḥ | tato dvāv api tau pṛthag-bhūtau paramānanda-bhājau jīvita-viṣaye labdha-pratyāśau sampannau |  
-
-  
-atha tatra baṭe kaścid rākṣasa-suhṛd vānaraḥ sthita āsīt | tena rākṣasaṃ trastam ālokya vyāhṛtam-bho mitra ! kim eva alāyyate'līka-bhayena ? tad bhakṣyo 'yaṃ mānuṣaḥ bhakṣyatām |   
-
-  
-so 'pi vānara-vaco niśamya, svarūpam ādhāya śaṅkita-manāḥ skhalita-gatir nivṛttaḥ | cauro 'pi taṃ vānarāhūtaṃ jñātvā kopāt tasya lāṅgulaṃ lambamānaṃ mukhe nidhāya carvitavān |  
-
-  
-vānaro 'pi taṃ rākṣasābhyadhikaṃ manyamāno bhayān na kiñcid uktavān | kevalaṃ vyathārto nimīlita-nayanas tiṣṭhati | rākṣaso 'pi taṃ tathā-bhūtam avalokya ślokam enam apaṭhat-  
-
-  
-yādṛśī vacana-cchāyā dṛśyate tava vānara |
-  
-vikālena gṛhīto 'si yaḥ paraiti sa jīvati ||Panc_5.84||  
-
-  
-ity uktvā praṇaṣṭaś ca | tat preṣaya māṃ yena gṛhaṃ gacchāmi | tvaṃ punar anubhuṅkṣvātra sthita eva lobha-vṛkṣa-phalam |  
-
-  
-cakradhara āha-bhoḥ akāraṇam etat | daiva-vaśāt sampadyate nṛṇāṃ śubhāśubham | uktaṃ ca-  
-
-  
-durgas trikūṭaḥ parikhā samudro 
-  
-rakṣāṃsi yodhā dhanadāc ca vittam |
-  
-śāstraṃ ca yasyośanasā praṇītaṃ
-  
-sa rāvaṇo daiva-vaśād vipannaḥ ||Panc_5.85||  
-
-  
-tathā ca-
-  
-andhakaḥ kubjakaś caiva tristanī rāja-kanyakā |
-  
-trayo 'py anyāyataḥ siddhāḥ saṃmukhe karmaṇi sthite ||Panc_5.86||  
-
-  
-suvarṇa-siddhiḥ prāha-katham etat ?  
-
-  
-so 'bravīt-
-  
-kathā 11
-  
-andhaka-kubjaka-tristanī-kathā  
-
-  
-asty atra dharā-tala uttarā-pathe madhu-puraṃ nāma nagaram | tatra madhusenā nāma rājā babhūva | tasya kadācid viṣaya-sukham anubhavatas tristanī kanyā babhūva | atha tāṃ trastanīṃ jātāṃ śrutvā sa rājā kañcukinaḥ provāca, yad-bhos tyajyatām iyaṃ trastanī gatvā dūre'raṇye yathā kaścin na jānāti |   
-
-  
-tac chrutvā kañcukinaḥ procuḥ-mahārāja jñāyate yad aniṣṭa-kāriṇī tristanī kanyā bhavati | tathāpi brāhmaṇam āhūya praṣṭavyāḥ, yena loka-dvayaṃ na virudhyate, yataḥ-
-  
-yaḥ satataṃ paripṛcchati śṛṇoti sandhārayaty aniśam |
-  
-tasya divākara-kiraṇair nalinīva vivardhate buddhiḥ ||Panc_5.87||  
-
-  
-tathā ca-
-  
-pṛcchakena sadā bhāvyaṃ puruṣeṇa vijānatā |
-  
-rākṣasendra-gṛhīto 'pi praśnān mukto dvijaḥ purā ||Panc_5.88||  
-
-  
-rājā āha--katham etat ?  
-
-  
-te procuḥ-  
-
-  
-kathā 12
-  
-caṇḍakarma-nāma-rākṣasa-kathā  
-
-  
-deva ! kasmiṃścid vanoddeśe caṇḍakarmā nāma rākṣasaḥ prativasati sma | ekadā tena bhramatāṭavyāṃ kaścid brāhmaṇaḥ samāsāditaḥ | tatas tasya skandham āruhya provāca-bho agresaro gamyatām |  
-
-  
-brāhmaṇo 'pi bhaya-trasta-manās tam ādāya prasthitaḥ | atha tasya kamalodara-komalau pādau dṛṣṭvā brāhmaṇo rākṣasam apṛcchat-bhoḥ ! kim evaṃ-vidhau te pādāv atikomalau ?  
-
-  
-rākṣasa āha-bhoḥ ! vratam asti, nāham ārdra-pādo bhūmiṃ spṛśāmi |  
-
-  
-tatas tac chrutvātmano mokṣopāyaṃ cintayaṃs tat-saraḥ prāptaḥ | tato rākṣasenābhihitaṃ-bhoḥ ! yāvad ahaṃ snānaṃ kṛtvā devatārcana-vidhiṃ vidhāyāgacchāmi tāvat tvayātaḥ sthānād anyatra na gantavyam |  
-
-  
-tathānuṣṭhite divjaś cintayāmāsa-nūnaṃ devatārcana-vidher ūrdhvaṃ mām eṣa bhakṣayiṣyati | tad drutataraṃ gacchāmi, yenaiṣa ārdra-pādo na mama pṛṣṭham eṣyati |  
-
-  
-tathānuṣṭhite rākṣaso vrata-bhaṅga-bhayāt tasya pṛṣṭhaṃ na gataḥ | ato 'haṃ bravīmi-pṛcchakena sadā bhāvyam iti |  
-
-  
-atha tebhyas tac chrutvā-rājā dvijān āhūya provāca-bho brāhmaṇāḥ ! tristanī me kanyā samutpannā, tat kiṃ tasyāḥ pratividhānam asti, na vā ?  
-
-  
-hīnāṅgī vādhikāṅgī vā yā bhavet kanyakā nṛṇām |
-  
-bhartuḥ syāt sā vināśāya sva-śīla-nidhanāya ca ||Panc_5.89||
-  
-yā punas tristanī kanyā yāti locana-gocaram |
-  
-pitaraṃ nāśaty eva sā drutaṃ nātra saṃśayaḥ ||Panc_5.90||  
-
-  
-tasmād asyā darśanaṃ pariharatu devaḥ | tathā yadi kaścid udvāhayati, tad enāṃ tasmai dattvā, deśa-tyāgena sa niyojayitavyaḥ iti | evaṃ-kṛte loka-dvayāviruddhatā bhavati |   
-
-  
-atha teṣāṃ tad-vacanam ākarṇya sa rājā paṭaha-śabdena sarvatra ghoṣaṇām ājñāpayāmāsa-aho ! tristanīṃ rājakanyāṃ yaḥ kaścid udvāhayati sa suvarṇa-lakṣam āpnoti deśa-tyāgaṃ ca |  
-
-  
-evaṃ tasyām āghoṣaṇāyāṃ kriyamāṇāyāṃ mahān kālo vyatītaḥ | na kaścit tāṃ pratigṛhṇāti | sāpi yauvanonmukhī sañjātā sugupta-sthāna-sthitā yatnena rakṣyamāṇā tiṣṭhati |  
-
-  
-atra tatraiva nagare kaścid andhas tiṣṭhati | tasya ca mantharaka-nāmā kubjo 'gresaro yaṣṭi-grāhī | tābhyāṃ taṃ paṭaha-śabdam ākarṇya, mitho mantritaṃ-spṛśyate'yaṃ paṭahaḥ | yadi katham api daivāt kanyā labhyate | suvarṇa-prāptiś ca bhavati, tathā sukhena suvarṇa-prāptyā kālo vrajati | atha yadi tasya doṣato mṛtyur bhavati | tadā dāridryopāttasyāsya kleśasya paryanto bhavati | uktaṃ ca-  
-
-  
-lajjā snehaḥ svara-madhuratā buddhayo yauvana-śrīḥ
-  
-kāntāsaṅgaḥ svajana-mamatā duḥkha-hānir vilāsaḥ |
-  
-dharmaḥ śāstraṃ sura-guru-matiḥ śaucam ācāra-cintā
-  
-pūrṇe sarve jaṭhara-piṭhare prāṇināṃ sambhavanti ||Panc_5.91||  
-
-  
-evam uktvāndhena gatvā, sa paṭahaḥ spṛṣṭaḥ | uktaṃ ca-bhoḥ ! ahaṃ tāṃ kanyām udvāhayāmi, yadi rājā me prayacchati |  
-
-  
-tatas tai rāja-puruṣair gatvā rājñe niveditam-deva ! andhena kenacit paṭahaḥ spṛṣṭaḥ | tad atra viṣaye devaḥ pramāṇam |  
-
-  
-rājā prāha-  
-
-  
-andho vā vadhiro vātha kuṣṭī vāpy antyajo 'pi vā |
-  
-parigṛhṇātu tāṃ kanyāṃ sa-lakṣāṃ syād videśagaḥ ||Panc_5.92||  
-
-  
-atha rājādeśāt tai rāja-puruṣais taṃ nadī-tīre nītvā suvarṇa-lakṣeṇa samaṃ vivāha-vidhinā tristanīṃ tasmai dattvā, jala-yāne nidhāya kaivartāḥ proktāḥ-bho ! deśāntaraṃ nītvā kasmiṃścid adhiṣṭhāne'ndhaḥ sapatnīkaḥ | kubjakena saha mocanīyaḥ |   
-
-  
-tathānuṣṭhite videśam āsādya kasmiṃścid adhiṣṭhāne kaivarta-darśite trayo 'pi mūlyena gṛhaṃ prāptāḥ sukhena kālaṃ nayanti sma | kevalam andhaḥ paryaṅke suptas tiṣṭhati, gṛha-vyāpāraṃ mantharakaḥ karoti | evaṃ gacchatā kālena tristanyā kubjakena saha vikṛtiḥ samapadyata | athavā sādhv idam ucyate-  
-
-  
-yadi syāc chrī-talo vahniś candramā dahanātmakaḥ |
-  
-susvādaḥ sāgaraḥ strīṇāṃ tat-satīs tvaṃ prajāyate ||Panc_5.93||  
-
-  
-athānyedyus tristanyā mantharako 'bhihitaḥ-bhoḥ subhaga ! yady eṣo 'ndhaḥ kathañcit vyāpādyate, tad āvayoḥ sukhena kālo yāti | tad anviṣyatāṃ kutracid viṣam, yenāsmai tat pradāya sukhinī bhavāmi |  
-
-  
-anyadā kubjakena paribhramatā mṛtaḥ kṛṣṇasarpaḥ prāptaḥ | taṃ gṛhītvā prahṛṣṭa-manā gṛham abhyetya tām āha-subhage ! labdho 'yaṃ kṛṣṇa-sarpaḥ | tad enaṃ khaṇḍaśaḥ kṛtvā prabhūta-śuṇṭhy-ādibhiḥ saṃskāryāsmai vikala-netrāya matsyāmiṣaṃ bhaṇitvā prayaccha yena drāg vinaśyati | yato 'sya matsyāmiṣaṃ sadā priyam | evam uktvā mantharako bahir gataḥ |  
-
-  
-sāpi pradīpte vahnau kṛṣṇa-sarpaṃ khaṇḍaśaḥ kṛtvā takra-sthālyām ādhāya gṛha-vyāpārākulā taṃ vikalākṣaṃ sa-praśrayam uvāca-ārya-putra ! tavābhīṣṭaṃ matsya-māṃsaṃ samānītam | yatas tvaṃ sadaiva tat pṛcchasi | te ca matsyā vahnau pāvanāya tiṣṭhanti | tad yāvad ahaṃ gṛha-kṛtyaṃ karomi, tāvat tvaṃ darvīm ādāya kṣaṇam ekaṃ tān pracālaya |  
-
-  
-so 'pi tad ākarṇya hṛṣṭa-manāḥ sṛkkaṇī parilihan drutam utthāya darvīm ādāya pramathitum ārabdhaḥ | atha tasya matsyān mathnato viṣa-garbha-bāṣpeṇa saṃspṛṣṭaṃ nīla-paṭalaṃ cakṣurbhyām agalat | asāv apy andhas taṃ bahu-guṇaṃ manyamāno viśeṣān netrābhyāṃ bāṣpa-grahaṇam akarot |  
-
-  
-tato labdha-dṛṣṭir jāto yāvat paśyati, tāvat takra-madhye kṛṣṇa-sarpa-khaṇḍāni kevalāny evāvalokayati | tato vyacintayat-aho, kim etat ? mama matsyāmiṣaṃ kathitam āsīd anayā | etāni tu kṛṣṇa-sarpa-khaṇḍāni | tat tāvad vijānāmi samyak tristanyāś ceṣṭitam | kiṃ mama vadhopāya-kramaḥ kubjasya vā ? utāho anyasya vā kasyacit ? evaṃ vicintya svākāraṃ gūhayann andhavat karma karoti yathā purā |  
-
-  
-atrāntare kubjaḥ samāgatya niḥśaṅkatayāliṅgana-cumbanādibhis tristanīṃ sevitum upacakrame | so 'py andhas tam avalokayann api yāvan na kiñcic chastraṃ paśyati, tāvat kopa-vyākula-manāḥ pūrvavac chayanaṃ gatvā kubjaṃ caraṇābhyāṃ saṅgṛhya sāmarthyāt sva-mastakopari bhrāmayitvā tristanīṃ hṛdaye vyatāḍayat |  
-
-  
-atha kubja-prahāreṇa tasyās tṛtīyaḥ stana urasi praviṣṭaḥ | tathā balān mastakopari bhramaṇena kubjaḥ prāñjalatāṃ gataḥ |  
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-andhakaḥ kubjakaś caiva (84) iti |  
-
-  
-suvarṇasiddhir āha-bhoḥ satyam etat | daivānukūlatayā sarvaṃ kalyāṇaṃ sampadyate | tathāpi puruṣeṇa satāṃ vacanaṃ kāryam | punar evam eva vartitavyam | atha evam eva yo vartate, sa tvam iva vinaśyati | tathā ca-  
-
-  
-ekodarāḥ pṛthag grīvā anyānya-phala-bhakṣiṇaḥ |
-  
-asaṃhatā vinaśyanti bhāruṇḍā iva pakṣiṇaḥ ||Panc_5.94||  
-
-  
-cakradhara āha-katham etat ?  
-
-  
-so 'bravīt-  
-
-  
-kathā 13
-  
-bhāruṇḍa-pakṣi-kathā  
-
-  
-kasmiṃścit sarovare bhāruṇḍa-nāmā pakṣī ekodaraḥ pṛthag-grīvaḥ prativasati sma | tena ca samudra-tīre paribhramatā kañcit phalam amṛta-kalpaṃ taraṅga-kṣiptaṃ samprāptam | so 'pi bhakṣayann idam āha-aho ! bahūni mayāmṛta-prāyāṇi samudra-kallolāhṛtāni phalāni bhakṣitāni | param apūrvo 'syāsvādaḥ | tat kiṃ pārijāta-haricandana-taru-sambhavam ? kiṃ vā, kiñcid amṛta-maya-phalam idam avyaktenāpi vidhināpātitam |  
-
-  
-evaṃ tasya bruvato dvitīya-mukhenābhihitam-bho, yady evaṃ tan mamāpi stokaṃ prayaccha, yenāham api jihvā-saukhyam anubhavāmi |  
-
-  
-tato vihasya prathama-vaktreṇābhihitam-āvayos tāvad ekam udaram | ekā tṛptiś ca bhavati | tataḥ kiṃ pṛthag bhakṣitena ? varam anena śeṣeṇa priyā toṣyate |  
-
-  
-evam abhidhāya tena śeṣaṃ bhāruṇḍyāḥ pradattam | sāpi tad āsvādya prahṛṣṭatamāliṅgana-cumbana-sambhāvanādy-aneka-cāṭu-parā ca babhūva | dvitīyaṃ mukhaṃ tad-dinād eva prabhṛti sodvegaṃ sa-viṣādaṃ ca tiṣṭhati |   
-
-  
-athānyedyur dvitīya-mukhena viṣa-phalaṃ prāptam | tad dṛṣṭvāparam āha-bho nistriṃśa ! puruṣādhama ! nirapekṣa ! mayā viṣa-phalam āsāditam | tat tavāpamānād bhakṣayāmi |  
-
-  
-apareṇābhihitam-mūrkha ! mā maivaṃ kuru | evaṃ kṛte dvayor api vināśo bhaviṣyati | athaivaṃ vadatā tenāpamānena tat phalaṃ bhakṣitam | kiṃ bahunā, dvāv api vinaṣṭau |   
-  
-
-  
-***********************************************************************  
-  
-
-  
-ato 'haṃ bravīmi-ekodarāḥ pṛthag-grīvāḥ (92) iti |  
-
-  
-cakradhara āha-satyam etat | tad gaccha gṛham | param ekākinā na gantavyam | uktaṃ ca-  
-
-  
-ekaḥ svādu na bhuñjīta ekaś cārthān na cintayet |
-  
-eko na gacched adhvānaṃ naikaḥ supteṣu jāgṛyāt ||Panc_5.95||  
-
-  
-api ca-
-  
-api kāpuruṣo mārge dvitīyaḥ kṣema-kārakaḥ |
-  
-karkaṭena dvitīyena jīvitaṃ parirakṣitam ||Panc_5.96||  
-
-  
-suvarṇa-siddhiḥ prāha-katham etat ?  
-
-  
-so 'bravīt-  
-
-  
-kathā 14
-  
-brāhmaṇa-karkaṭaka-kathā  
-
-  
-kasmiṃścid adhiṣṭhāne brahmadatta-nāmā brāhmaṇaḥ prativasati sma | sa ca prayojana-vaśād grāmaṃ prasthitaḥ sva-mātrābhihitaḥ, yad-vatsa ! katham ekākī vrajasi ? tad anviṣyatāṃ kaścid dvitīyaḥ sahāyaḥ |  
-
-  
-sa āha-amba ! mā bhaiṣīḥ | nirupadravo 'yaṃ mārgaḥ | kārya-vaśād ekākī gamiṣyāmi |   
-
-  
-atha tasya taṃ niścayaṃ jñātvā samīpastha-vāpyāḥ sakāśāt karkaṭam ādāya mātrābhihitaṃ-vatsa, avaśyaṃ yadi gantavyam | tad eṣa karkaṭo 'pi sahāyo bhavatu | tad enaṃ gṛhītvā gaccha |  
-
-  
-so 'pi mātur vacanād ubhābhyāṃ pāṇibhyāṃ na saṅgṛhya karpūra-puṭikā-madhye nidhāya, pātra-madhye saṃsthāpya śīghraṃ prasthitaḥ |  
-
-  
-atha gacchan grīṣmoṣmaṇā santaptaḥ kañcin mārgasthaṃ vṛkṣam āsādya, tatraiva prasuptaḥ | atrāntare vṛkṣa-koṭarān nirgatya sarpas tat-samīpam āgataḥ | 
-  
-sa cābhyantara-gatāṃ karpūra-puṭikām atilaulyād abhakṣayat | so 'pi karkaṭas tatraiva sthitaḥ san sarpa-prāṇān apāharata | brāhmaṇe'pi yāvat prabuddhaḥ paśyati, tāvat samīpe mṛta-kṛṣṇa-sarpo nija-pārśve karpūra-puṭikopari sthitas tiṣṭhati | taṃ dṛṣṭvā vyacintayat-karkaṭenāyaṃ hataḥ iti | prasanno bhūtvābravīc ca-bhoḥ ! satyam abhihitaṃ mama mātrā yat puruṣeṇa ko 'pi sahāyaḥ kāryaḥ | naikākinā gantavyam | yato mayā śraddhā-pūrita-cetasā tad-vacanam anuṣṭhitaṃ tenāhaṃ karkaṭena sarva-vyāpādanād rakṣitaḥ | athavā sādhv idam ucyate-  
-
-  
-kṣīṇaḥ śrayati śaśī ravim ṛddho vardhayati payasāṃ nātham |
-  
-anye vipadi sahāyā dhanināṃ śriyam anubhavanty anye ||Panc_5.97||
-  
-mantre tīrthe dvije deve daivajñe bheṣaje gurau |
-  
-yādṛśī bhāvanā yasya siddhir bhavati tādṛśī ||Panc_5.98||  
-
-  
-evam śrutvā suvarṇasiddhis tam anujñāpya svagṛhaṃ prati nivṛttaḥ |   
-
-  
-iti śrī-viṣṇu-śarma-viracite pañcatantre aparīkṣita-kārakaṃ nāma
-  
-pañcamaṃ tantraṃ samāptam
-  
-||5||  
-  
-  
-  
-
-  
- yady apy evaṃ tathāpi tvaṃ darśaya taṃ caurasiṃhaṃ yathā vyāpādayāmi |
-  
- (alt.) yaḥ paśyati sa paśyati
-  
- (alt.) rāja-puruṣaiḥ
-  
- (alt.) devaśakti-kathā  
-  
-  
-  
 
 ## पाठः
+
+पञ्चतन्त्रम्
+
+
+कथा-मुखम्
+
+
+ॐ नमः श्री-शारदा-गणपति-गुरुभ्यः । महा-कविभ्यो नमः ।
+
+
+ब्रह्मा रुद्रः कुमारो हरि-वरुण-यमा वह्निर् इन्द्रः कुबेरश्
+
+चन्द्रादित्यौ सरस्वत्य्-उदधि-युग-नगा वायुर् उर्वी-भुजङ्गाः ।
+
+सिद्धा नद्यो ऽश्विनौ श्रीर् दितिर् अदिति-सुता मातरश् चण्डिकाद्या
+
+वेदास् तीर्थानि यक्षा गण-वसु-मुनयः पान्तु नित्यं ग्रहाश् च ॥
+
+
+मनवे वाचस्पतये शुक्राय पराशराय स-सुताय ।
+
+चाणक्याय च विदुषे नमो ऽस्तु नय-शास्त्र-कर्तृभ्यः ॥पन्च्०।१॥
+
+सकलार्थ-शास्त्र-सारं जगति समालोक्य विष्णुशर्मेदम् ।
+
+तन्त्रैः पञ्चभिर् एतच् चकार सुमनोहरं शास्त्रम् ॥पन्च्०।२॥
+
+
+तद् यथानुश्रूयते । अस्ति दक्षिणात्ये जनपदे महिलारोप्यं नाम नगरम् । तत्र सकलार्थि-सार्थ-कल्प-द्रुमः प्रवर-नृप-मुकुट-मणिम् अजरीचयचर्चितचरण-युगलः सकल-कल्प-पारङ्गतो ऽमरशक्तिर् नाम राजा बभूव । तस्य त्रयः पुत्राः परम-दुर्मेधसो वसुशक्तिर् उग्रशक्तिर् अनेकशक्तिश् चेति नामानो बभूवुः ।
+
+
+अथ राजा तान् शास्त्र-विमुखान् आलोक्य सचिवान् आहूय प्रोवाच-भोः ज्ञातम् एतद् भवद्भिर् यन् ममैते त्रयो ऽपि पुत्राः शास्त्र-विमुखा विवेक-हीनाश् च । तद् एतान् पश्यतो मे महद् अपि राज्यं न सौख्यम् आवहति । अथवा साध्व् इदम् उच्यते-
+
+
+अजात-मृत-मूर्खेभ्यो मृताजातौ सुतौ वरम् ।
+
+यतस् तौ स्वल्प-दुःखाय यावज्-जीवं जडो दहेत् ॥पन्च्०।३॥
+
+
+वरं गर्भ-स्रवो वरम् ऋतुषु नैवाभिगमनं
+
+वरं जातः प्रेतो वरम् अपि च कन्यैव जनिता ।
+
+वरं बन्ध्या भार्या वरम् अपि च गर्भेषु वसतिर्
+
+न चाविदग्धान् रूप-द्रविण-गुण-युक्तो ऽपि तनयः ॥पन्च्०।४॥
+
+
+किं तया क्रियते धेन्वा या न सूते न दुग्धदा ।
+
+को ऽर्थः पुत्रेण जातेन यो न विद्वान् न भक्तिमान् ॥पन्च्०।५॥
+
+
+तद् एतेषां यथा बुद्धि-प्रबोधनं भवति तथा को ऽप्य् उपायो ऽनुष्ठीयताम् । अत्र च मद्-दत्तां वृत्तिं भुञ्जानानां पण्डितानां पञ्चशती तिष्ठति । ततो यथा मम मनोरथाः सिद्धिं यान्ति तथानुष्ठीयताम् इति ।
+
+
+तत्रैकः प्रोवाच-देव द्वादशभिर् वर्षैर् व्याकरणं श्रूयते । ततो धर्म-शास्त्राणि मन्व्-आदीनि अर्थ-शास्त्राणि चाणक्यादीनि काम-शास्त्राणि वात्स्यायनादीनि । एवं च ततो दर्मार्थ-काम-शास्त्राणि ज्ञायन्ते । ततः प्रतिबोधनं भवति ।
+
+
+अथ तन्-मध्यतः सुमतिर् नाम सचिवः प्राह-अशाश्वतो ऽयं जीवितव्य-विषयः । प्रभूत-काल-ज्ञेयानि शब्द-शास्त्राणि । तत् सङ्क्षेप-मात्रं शास्त्रं किञ्चिद् एतेषां प्रबोधनार्थं चिन्त्यताम् इति । उक्तं च यतः-
+
+
+अनन्तपारं किल शब्द-शास्त्रं
+
+स्वल्पं तथायुर् बहवश् च विघ्नाः ।
+
+सारं ततो ग्राह्यम् अपास्य फल्गु
+
+हंसैर् यथा क्षीरम् इवाम्बुध्यात् ॥पन्च्०।६॥
+
+
+तद् अत्रास्ति विष्णुशर्मा नाम ब्राह्मणः सकल-शास्त्र-पारङ्गमश् छात्र-संसदि लब्ध-कीर्तिः । तस्मै समर्पयतु एतान् । स नूनं द्राक् प्रबुद्धान् करिष्यति इति ।
+
+
+स राजा तद् आकर्ण्य विष्णुशर्माणम् आहूय प्रोवाच-भो भगवन् मद्-अनुग्रहार्थम् एतान् अर्थ-शास्त्रं प्रति द्राग् यथानन्य-सदृशान् विदधासि तथा कुरु । तदाहं त्वां शासन-शतेन योजयिष्यामि ।
+
+
+अथ विष्णु-शर्मा तं राजानम् आह-देव श्रूयतां मे तथ्य-वचनम् । नाहं विद्या-विक्रयं शासन-शतेनापि करोमि । पुनर् एतांस् तव पुत्रान् मास-षट्केन यदि नीति-शास्त्रज्ञान् न करोमि ततः स्व-नाम-त्यागं करोमि ।
+
+
+अथासौ राजा तां ब्राह्मणस्यासम्भाव्यां प्रतिज्ञां श्रुत्वा स-सचिवः प्रहृष्टो विस्मयान्वितस् तस्मै सादरं तान् कुमारान् समर्प्य परां निर्वृतिम् आजगाम । विष्णुशर्मणापि तान् आदाय तद्-अर्थं मित्र-भेद-मित्र-प्राप्ति-काकोलूकीय-लब्ध-प्रणाश-अपरीक्षित-कारकाणि चेति पञ्च-तन्त्राणि रचयित्वा पाठितास् ते राजपुत्राः । तेऽपि तान्य् अधीत्य मास-षट्केन यथोक्ताः संवृत्ताः । ततः प्रभृत्य् एतत् पञ्चतन्त्रकं नाम नीति-शास्त्रं बालावबोधनार्थं भूतले प्रवृत्तम् । किं बहुना-
+
+
+अधीते य इदं नित्यं नीति-शास्त्रं शृणोति च ।
+
+न पराभवम् आप्नोति शक्राद् अपि कदाचन ॥पन्च्०।७॥
+
+
+इति कथा-मुखम् ।
+
+
+
+***********************************************************************  
+
+
+
+मित्र-भेदः
+
+
+वर्धमान-वृत्तान्तः
+
+
+अथातः प्रारभ्यते मित्र-भेदो नाम प्रथमं तन्त्रम् । यस्यायम् आदिमः श्लोकः-
+
+
+वर्धमानो महान् स्नेहः सिंह-गो-वृषयोर् वने ।
+
+पिशुनेनातिलुब्धेन जम्बुकेन विनाशितः ॥पन्च्१।१॥
+
+
+तद् यथानुश्रूयते । अस्ति दक्षिणात्ये जनपदे महिलारोप्यं नाम नगरम् । तत्र धर्मोपार्जित-भूरि-विभवो वर्धमानको नाम वणिक्-पुत्रो बभूव । तस्य कदाचिद् रात्रौ शय्यारूढस्य चिन्ता समुत्पन्ना । तत् प्रभूतेऽपि वित्तेऽर्थोपायाश् चिन्तनीयाः कर्तव्याश् चेति । यत उक्तं च-
+
+
+नहि तद् विद्यते किंचिद् यद् अर्थेन न सिद्ध्यति ।
+
+यत्नेन मतिमांस् तस्माद् अर्थम् एकं प्रसाधयेत् ॥पन्च्१।२॥
+
+यस्यार्यस् तस्य मित्राणि यस्यार्थास् तस्य बान्धवाः ।
+
+यस्यार्थाः स पुमां लोके यस्यार्थाः स च पण्डितः ॥पन्च्१।३॥
+
+न सा विद्या न तद् दानं न तच् छिल्पं न सा कला ।
+
+न तत् स्थैर्यं हि धनिनां याचकैर् यन् न गीयते ॥पन्च्१।४॥
+
+इह लोके हि धनिनां परो ऽपि स्वजनायते ।
+
+स्वजनो ऽपि दरिद्राणां सर्वदा दुर्जनायते ॥पन्च्१।५॥
+
+अर्थेभ्यो ऽपि हि वृद्धेभ्यः संवृत्तेभ्य इतस् ततः ।
+
+प्रवर्तन्ते क्रियाः सर्वाः पर्वतेभ्य इवापगाः ॥पन्च्१।६॥
+
+पूज्यते यद् अपूज्यो ऽपि यद् अगम्यो ऽपि गम्यते ।
+
+वन्द्यते यद् अवन्द्यो ऽपि स प्रभावो धनस्य च ॥पन्च्१।७॥
+
+अशनाद् इन्द्रियाणीव स्युः कार्याण्य् अखिलान्य् अपि ।
+
+एतस्मात् कारणाद् वित्तं सर्व-साधनम् उच्यते ॥पन्च्१।८॥
+
+अर्थार्थी जीव-लोको ऽयं श्मशानम् अपि सेवते ।
+
+त्यक्त्वा जनयितारं स्वं निःस्वं यच्छति दूरतः ॥पन्च्१।९॥
+
+गत-वयसाम् अपि पुंसां येषाम् अर्था भवन्ति ते तरुणाः ।
+
+अर्थे तु ये हीना वृद्धास् ते यौवनेऽपि स्युः ॥पन्च्१।१०॥
+
+
+स चार्थः पुरुषाणां षड्भ्र् उपायैर् भवति भिक्षाया नृप-सेवया कृषि-कर्मणा विद्योपार्जनेन व्यवहारेण वणिक्-कर्मणा वा । सर्वेषाम् अपि तेषां वाणिज्येनातिरस्कृतो ऽर्थ-लाभः स्यात् । उक्तं च यतः-
+
+
+कृता भिक्षानेकैर् वितरति नृपो नोचितम् अहो
+
+कृषिः क्लिष्टा विद्या गुरु-विनय-वृत्त्यातिविषमा ।
+
+कुसीदाद् दारिद्र्यं परकरगत-ग्रन्थि-शमनान्
+
+न मन्ये वाणिज्यात् किम् अपि परमं वर्तनम् इह ॥पन्च्१।११॥
+
+
+उपायानां च सर्वेषाम् उपायः पण्य-संग्रहः ।
+
+धनार्थं शस्यते हे एकस् तद्-अन्यः संशयात्मकः ॥पन्च्१।१२॥
+
+
+तच् च वाणिज्यं सप्त-विधम् अर्थागमाय स्यात् । तद् यथा गान्धिक-व्यवहारः, निक्षेप-प्रवेशः, गोष्ठिक-कर्म, परिचित-ग्राहकागमः, मिथ्या-क्रय-कथनम्, कूट-तुला-मानम्, देशान्तराद् भाण्डानयनं चेति । उक्तं च-
+
+
+पण्यानां गान्धिकं पण्यं किम् अन्यैः काञ्चनादिभिः ।
+
+यत्रैकेन च यत् क्रीतं तच् छतेन प्रदीयते ॥पन्च्१।१३॥
+
+निक्षेपे पतिते हर्म्ये श्रेष्ठी स्तौति स्व-देवताम् ।
+
+निक्षेपी म्रियते तुभ्यं प्रदास्याम्य् उपयाचितम् ॥पन्च्१।१४॥
+
+गोष्ठिक-कर्म-नियुक्तः श्रेष्ठी चिन्तयति चेतसा हृष्टः ।
+
+वसुधा वसु-सम्पूर्णा मयाद्य लब्धा किम् अन्येन ॥पन्च्१।१५॥
+
+परिचितम् आगच्छन्तं ग्राहकम् उत्कण्ठ्या विलोकयासौ ।
+
+हृष्यति तद्-धन-लब्धो यद्वत् पुत्रेण जातेन ॥पन्च्१।१६॥
+
+
+अन्यच् च-
+
+पूर्णापूर्णे माने परिचित-जन-वञ्चनं तथा नित्यम् ।
+
+मिथ्या-क्रयस्य कथनं प्रकृतिर् इयं स्यात् किरातानाम् ॥पन्च्१।१७॥
+
+द्विगुणं त्रिगुणं वित्तं भाण्ड-क्रय-विचक्षणाः ।
+
+प्राप्नुवन्त्य् उद्यमाल् लोका दूर-देशान्तरं गताः ॥पन्च्१।१८॥
+
+
+इत्य् एवं सम्प्रधार्य मथुरा-गामीनि भाण्डान्य् आदाय शुभायां तिथौ गुरु-जनानुज्ञातः सुरथाधिरूढः प्रस्थितः । तस्य च मङ्गल-वृषभ संजीवक-नन्दक-नामानौ गृहोत्पन्नौ धूर्वोढारौ स्थितौ । तयोर् एकः संजीवकाभिधानो यमुना-कच्छम् अवतीर्णः सम्पङ्क-पूरम् आसाद्य कलित-चरणो युग-भङ्गं विधाय विषसाद ।
+
+
+अथ तं तद्-अवस्थम् आलोक्य वर्धमानः परं विषादम् आगमत् । तद् अर्थं च स्नेहार्द्र-हृदयस् त्रि-रात्रं प्रयाण-भङ्गम् अकरोत् । अथ तं विषण्णम् आलोक्य साऋथिकैर् अभिहितम्- भोः श्रेष्ठिन् ! किम् एवं वृषभस्य कृते सिंह-व्याघ्र-समाकुले बह्व्-अपायेऽस्मिन् वने समस्त-सार्थस् त्वया सन्देहे नियोजितः । उक्तं च-
+
+
+न स्वल्पस्य कृते भूरि नाशयेन् मतिमान् नरः ।
+
+एतद् एवात्र पाण्डित्यं यत् स्वल्पाद् भूरि-रक्षणम् ॥पन्च्१।१९॥
+
+
+अथासौ तद् अवधार्य संजीवकस्य रक्षा-पुरुषान् निरूप्याशेष-सार्थं नीत्वा प्रस्थितः । अथ रक्षा-पुरुषा अपि बह्व्-अपायं तद्-वनं विदित्वा संजीवकं परित्यज्य पृष्ठतो गत्वाऽन्येद्युस् तं सार्थवाहं मिथ्याहुः- स्वामिन्, मृतो ऽसौ संजीवकः । अस्माभिस् तु सार्थवाहस्याभीष्ट इति मत्वा वह्निना संस्कृतः इति ।
+
+
+तच् छ्रुत्वा सार्थवाहः कृतज्ञतया स्नेहार्द्र-हृदयस् तस्यौर्ध्व-देहिक-क्रिया वृषोत्सर्गादिकाः सर्वाश् चकार । संजीवको ऽप्य् आयुः-शेषतया यमुना-सलिल-मिश्रैः शिशिरतरवातैर् आप्यायित-शरीरः कथंचिद् अप्य् उत्थाय यमुना-तटम् उपपेदे । तत्र मरकत-सदृशानि बाल-तृणाग्राणि भक्षयन् कतिपयैर् अहोभिर् हर-वृषभ इव पीनः ककुद्मान् बलवांश् च संवृत्तः । प्रत्यहं वल्मीक-शिखराग्राणि शृङ्गाभ्यां विदारयन् गर्जमान आस्ते । साधु चेदम् उच्यते-
+
+
+अरक्षितं तिष्ठति देव-रक्षितं
+
+सुरक्षितं देव-हतं विनश्यति ।
+
+जीवत्य् अनाथो ऽपि वने विसर्जितः
+
+कृत-प्रयत्नो ऽपि गृहे विनश्यति ॥पन्च्१।२०॥
+
+
+अथ कदाचित् पिङ्गलको नाम सिंहः सर्व-मृग-परिवृतः पिपासाकुल उदक-पानार्थं यमुना-तटम् अवतीर्णः संजीवकस्य गम्भीरतर-रावं दूराद् एवाशृणोत् । तच् छ्रुत्वाऽतीव व्याकुल-हृदयः ससाध्वसम् आकारं प्रच्छाद्य बट-तले चतुर्-मण्डलावस्थानेनावस्थितः । चतुर्मण्डलावस्थानं त्व् इदं- सिंहः सिंहानुयायिनः काकरवाः किवृत्ता इति ।
+
+
+अथ तस्य करटक-दमनक-नामानौ द्वौ शृगालौ मन्त्रि-पुत्रौ भ्रष्टाधिकारौ सदानुयायिनाव् आस्ताम् । तौ च परस्परं मन्त्रयतः । तत्र दमनको ऽब्रवीत्- भद्र करटक, अयं तावद् अस्मत्-स्वामी पिङ्गलक उदक-ग्रहणार्थं यमुना-कच्छम् अवतीर्य स्थितः । स किं निमित्तं पिपासाकुलो ऽपि निवृत्त्य व्यूह-रचनां विधाय दौर्मनस्येनाभिभूतो ऽत्र बट-तले स्थितः ।
+
+
+करटक आह- भद्र किम् आवयोर् अनेन व्यापारेण उक्तं च यतः-
+
+
+अव्यापरेषु व्यापारं यो नरः कर्तुम् इच्छति ।
+
+स एव निधनं याति कीलोत्पाटीव वानरः ॥पन्च्१।२१॥
+
+
+कथा १
+
+कीलोत्पाटि-वानर-कथा
+
+
+कस्मिंश्चिन् नगराभ्याशे केनापि वणिक्-पुत्रेण तरु-खण्ड-मध्ये देवतायतनं कर्तुम् आरब्धम् । तत्र च ये कर्मकराः स्थापनादयः । ते मध्याह्न-बेलायाम् आहारार्थं नगर-मध्ये गच्छन्ति । अथ कदाचित् तत्रानुषङ्गिकं वानर-यूथम् इतश् चेतश् च परिभ्रमद् आगतम् । तत्रैकस्य कस्यचिच् छिल्पिनो ऽर्ध-स्फाटितो ऽञ्जन-वृक्ष-दारुमयः स्तम्भः खदिर-कीलकेन मध्य-निहितेन तिष्ठति । एतस्मिन्न् अन्तरे ते वानरास् तरु-शिखर-प्रसाद-शृङ्ग-दारु-पर्यन्तेषु यथेच्छया क्रीडितुम् आरब्धाः । एकश् च तेषां प्रत्यासन्न-मृत्युश् चापल्यात् तस्मिन्न् अर्ध-स्फोटित-स्तम्भे उपविश्य पाणिभ्यां कीलकं संगृह्य यावद् उत्पादयितुम् आरेभे तावत् तस्य स्तम्भ-मध्य-गत-वृषणस्य स्व-स्थानाच् चलित-कीलकेन यद् वृत्तं तत् प्राग् एव निवेदितम्
+
+। अतो ऽहं ब्रवीमि- अव्यापारेषु इति । आवयोर् भक्षित-शेष आहारो ऽस्त्य् एव । तत् किम् अनेन व्यापारेण । दमनक आह तत् किं भवान् आहारार्थी केवलम् एव । तन् न युक्तम् । उक्तं च-
+
+
+सुहृदाम् उपकारणाद् द्विषताम् अप्य् अपकारणात् ।
+
+नृप-संश्रय इष्यते बुधैर् जठरं को न बिभर्ति केवलम् ॥पन्च्१।२२॥
+
+
+किं च-
+
+यस्मिञ् जीवन्ति जीवन्ति बहवः सो ऽत्र जीवतु ।
+
+वयांसि किं न कुर्वन्ति चञ्च्वा स्वोदर-पूरणम् ॥पन्च्१।२३॥
+
+तथा च-
+
+यज् जीव्यते क्षणम् अपि प्रथितं मनुष्यैर्
+
+विज्ञान-शौर्य-विभवार्य-गुणैः समेतम् ।
+
+तन् नाम जीवितम् इह प्रवदन्ति तज्-ज्ञाः
+
+काको ऽपि जीवति चिराय बलिं च भुङ्क्ते ॥पन्च्१।२४॥
+
+
+यो नात्मना न च परेण च बन्धु-वर्गे
+
+दीने दयां न कुरुते न च मर्त्य-वर्गे ।
+
+किं तस्य जीवित-फलं हि मनुष्य-लोके
+
+काको ऽपि जीवति चिराय बलिं च भुङ्क्ते ॥पन्च्१।२५॥
+
+
+सुपूरा स्यात् कुनदिका सुपूरो मूषिकाञ्जलिः ।
+
+सुसंतुष्टः कापुरुषः स्वल्पकेनापि तुष्यति ॥पन्च्१।२६॥
+
+
+किं च-
+
+किं तेन जातु जातेन माटुर् यौवन-हारिणा ।
+
+आरोहति न यः स्वस्य वंशस्याग्रे ध्वजो यथा ॥पन्च्१।२७॥
+
+परिवर्तिनि संसारे मृतः को वा न जायते ।
+
+जातस् तु गण्यते सो ऽत्र यः स्फुरेच् च श्रियाधिकः ॥पन्च्१।२८॥
+
+
+किं च-
+
+जातस्य नदी-तीरे तस्यापि तृणस्य जन्म-साफल्यम् ।
+
+यत् सलिल-मज्जनाकुल-जन-हस्तालम्बनं भवति ॥पन्च्१।२९॥
+
+
+तथा च-
+
+स्तिमितोन्नत-सञ्चारा जन-सन्ताप-हारिणः ।
+
+जायन्ते विरला लोके जलदा इव सज्जनाः ॥पन्च्१।३०॥
+
+
+निरतिशयं गरिमाणं तेन
+
+जनन्याः स्मरन्ति विद्वांसः ।
+
+यत् कम् अपि वहति गर्भं
+
+महताम् अपि यो गुरुर् भवति ॥पन्च्१।३१॥
+
+
+अप्रकटीकृत-शक्तिः शक्तो ऽपि जनस् तिरस्क्रियां लभते ।
+
+निवसन्न् अन्तर्-दारुणि लङ्घ्यो वह्निर् न तु ज्वलितः ॥पन्च्१।३२॥
+
+
+करटक आह- आवां तावद् अप्रधानौ तत् किम् आवयोर् अनेन व्यापरेण ।
+
+
+उक्तं च-
+
+अपृष्टो ऽत्राप्रधानो यो ब्रूते राज्ञः पुरः कुधीः ।
+
+न केवलम् असंमानं लभते च विडम्बनम् ॥पन्च्१।३३॥
+
+
+तथा च-
+
+वचस् तत्र प्रयोक्तव्यं यत्रोक्तं लभते फलम् ।
+
+स्थायी भवति चात्यन्तं रागः शुक्ल-पटे यथा ॥पन्च्१।३४॥
+
+
+दमक आह- मा मैवं वद ।
+
+अप्रधानः प्रधानः स्यात् सेवते यदि पार्थिवम् ।
+
+प्रधानो ऽप्य् अप्रधानः स्याद् यदि सेवा-विवर्जितः ॥पन्च्१।३५॥
+
+
+यत उक्तं च-
+
+आसन्नम् एव नृपतिर् भजते मनुष्यं
+
+विद्या-विहीनम् अकुलीनम् असंस्कृतं वा ।
+
+प्रायेण भूमि-पतयः प्रमदा लताश् च
+
+यत् पार्श्वतो भवति तत् परिवेष्टयन्ति ॥पन्च्१।३६॥
+
+
+तथा च-
+
+कोप-प्रसाद-वस्तूनि ये विचिन्वन्ति सेवकाः ।
+
+आरोहन्ति शनैः पश्चाद् धुन्वन्तम् अपि पार्थिवम् ॥पन्च्१।३७॥
+
+विद्यावतां महेच्छानां शिल्प-विक्रम-शालिनाम् ।
+
+सेवा-वृत्ति-विदां चैव नाश्रयः पार्थिवं विना ॥पन्च्१।३८॥
+
+ये जात्य्-आदि-महोत्साहान् नरेन्द्रान् नोपयान्ति च ।
+
+तेषाम् आमरणं भिक्षा प्रायश्चित्तं विनिर्मितम् ॥पन्च्१।३९॥
+
+ये च प्राहुर् दुरात्मानो दुराराध्या महीभुजः ।
+
+प्रमादालस्य-जाड्यानि ख्यापितानि निजानि तैः ॥पन्च्१।४०॥
+
+सर्पान् व्याघ्रान् गजान् सिंहान् दृष्ट्वोपायैर् वशीकृतान् ।
+
+राजेति कियती मात्रा धीमताम् अप्रमादिनाम् ॥पन्च्१।४१॥
+
+राजानम् एव संश्रित्य विद्वान् याति परां गतिम् ।
+
+विना मलयम् अन्यत्र चन्दनं न प्ररोहति ॥पन्च्१।४२॥
+
+धवलान्य् आतपत्राणि वाजिनश् च मनोरमाः ।
+
+सदा मत्ताश् च मातङ्गाः प्रसन्ने सति भूपतौ ॥पन्च्१।४३॥
+
+करटक आह- अथ भवान् किं कर्तुमनाः ?
+
+
+सो ऽब्रवीत्- अद्यास्मत्-स्वामी पिङ्गलको भीतो भीत-परिवारश् च वर्तते । तदैनं गत्वा भय-कारणं विज्ञाय सन्धि-विग्रह-यान-आसन-संश्रय-द्वैधी-भावानाम् एकतमेन संविधास्ये ।
+
+
+करटक आह- कथं वेत्ति भवान् यद् भयाविष्टो ऽयं स्वामी ?
+
+
+सो ऽब्रवीत्- ज्ञेयं किम् अत्र ? यत उक्तं च-
+
+
+उदीरितो ऽर्थः पशुनापि गृहते
+
+हयाश् च नागाश् च वहन्ति चोदिताः ।
+
+अनुक्तम् अप्य् ऊहति पण्डितो जनः
+
+परेङ्गित-ज्ञान-फ्जला हि बुद्धयः ॥पन्च्१।४४॥
+
+
+तथा च मनुः (८।२६)-
+
+
+आकारैर् इङ्गितैर् गत्या चेष्टया भाषणेन च ।
+
+नेत्र-वक्त्र-विकारैश् च लक्ष्यतेऽन्तर्गतं मनः ॥पन्च्१।४५॥
+
+
+तद् अद्यैनं भयाकुलं प्राप्य स्व-बुद्धि-प्रभावेन निर्भयं कृत्वा वशीकृत्य च निजां साचिव्य-पदवीं समासादयिष्यामि ।
+
+
+करटक आह- अनभिज्ञो भवान् सेवा-धर्मस्य । तत् कथम् एनं वशीकरिष्यसि ?
+
+
+सो ऽब्रवीत्- कथम् अहं सेवानभिज्ञः ? मया हि तातोत्सङ्गे क्रीडताभ्यागत-साधूनां नीति-शास्त्रं पठता यच् छ्रुतं सेवा-धर्मस्य सारं तद् हृदि स्थापितम् । श्रूयतां तच् चेदम्-
+
+
+सुवर्ण-पुष्पितां पृथ्वीं विचिन्वन्ति नरास् त्रयः ।
+
+शूरश् च कृत-विद्यश् च यश् च जानाति सेवितुम् ॥पन्च्१।४६॥
+
+सा सेवा या प्रभु-हिता ग्राह्या वाक्य-विशेषतः ।
+
+आश्रयेत् पार्थिवं विद्वांस् तद्-द्वारेणैव नान्यथा ॥पन्च्१।४७॥
+
+यो न वेत्ति गुणान् यस्य न तं सेवेत पण्डितः ।
+
+न हि तस्मात् फलं किञ्चित् सुकृष्टाद् ऊषराद् इव ॥पन्च्१।४८॥
+
+द्रव्य-कृति-हीनो ऽपि सेव्यः सेव्य-गुणान्वितः ।
+
+भवत्य् आजीवनं तस्मात् फलं कालान्तराद् अपि ॥पन्च्१।४९॥
+
+अपि स्थाणुवद् आसीनः शुष्यन् परिगतः क्षुधा ।
+
+न त्व् अज्ञानात्म-सम्पन्नाद् वृत्तिम् ईहते पण्डितः ॥पन्च्१।५०॥
+
+सेवकः स्वामिनं द्वेष्टि कृपणं परुषाक्षरम् ।
+
+आत्मानं किं स न द्वेष्टि सेव्यासेव्यं न वेत्ति यः ॥पन्च्१।५१॥
+
+यस्याश्रित्य विश्रामं क्षुधार्ता यान्ति सेवकाः ।
+
+सो ऽर्कवन् नृपतिस् त्याज्यः सदा पुष्प-फलो ऽपि सन् ॥पन्च्१।५२॥
+
+राज-मातरि देव्यां च कुमारे मुख्य-मन्त्रिणि ।
+
+पुरोहिते प्रतीहारे सदा वर्तेत राजवत् ॥पन्च्१।५३॥
+
+जीवेति प्रब्रुवन् प्रोक्तः कृत्याकृत्य-विचक्षणः ।
+
+करोति निर्विकल्पं यः स भवेद् राज-वल्लभः ॥पन्च्१।५४॥
+
+प्रभु-प्रसादजं वित्तं सुप्राप्तं यो निवेदयेत् ।
+
+वस्त्राद्यं च दधात्य् अङ्गे स भवेद् राज-वल्लभः ॥पन्च्१।५५॥
+
+अन्तः-पुर-चरैः सार्धं यो न मन्त्रं समाचरेत् ।
+
+न कलत्रैर् नरेन्द्रस्य स भवेद् राज-वल्लभः ॥पन्च्१।५६॥
+
+द्यूतं यो यम-दूताभं हालां हालाहलोपमम् ।
+
+पश्येद् दारान् वृथाकारान् स भवेद् राज-वल्लभः ॥पन्च्१।५७॥
+
+युद्ध-कालेऽग्रणीर् यः स्यात् सदा पृष्ठानुगः पुरे ।
+
+प्रभोर् द्वाराश्रितो हर्म्ये स भवेद् राज-वल्लभः ॥पन्च्१।५८॥
+
+सम्मतो ऽहं विभोर् नित्यम् इति मत्वा व्यतिक्रमेत् ।
+
+कृच्छ्रेष्व् अपि न मर्यादां स भवेद् राज-वल्लभः ॥पन्च्१।५९॥
+
+द्वेषि-द्वेष-परो नित्यम् इष्टानाम् इष्ट-कर्म-कृत् ।
+
+यो नरो नर-नाथस्य स भवेद् राज-वल्लभः ॥पन्च्१।६०॥
+
+प्रोक्तः प्रत्युत्तरं नाह विरुद्धं प्रभुना न यः ।
+
+न समीपे हसत्य् उच्चैः स भवेद् राज-वल्लभः ॥पन्च्१।६१॥
+
+उप् रणं शरणं तद्वन् मन्यते भय-वर्जितः ।
+
+प्रवासं स्व-पुरावासं स भवेद् राज-वल्लभः ॥पन्च्१।६२॥
+
+न कुर्यान् नरनाथस्य योषिद्भिः सह संगतिम् ।
+
+न निन्दां न विवादं च स भवेद् राज-वल्लभः ॥पन्च्१।६३॥
+
+
+करटक आह- अथ भवांस् तत्र गत्वा किं तावत् प्रथमं वक्ष्यति तत् तावद् उच्यताम् ।
+
+
+दमनक आह-
+
+उत्तराद् उत्तरं वाक्यं वदतां सम्प्रजायते ।
+
+सुवृष्टि-गुण-सम्पन्नाद् बीजाद् बीजम् इवापरम् ॥पन्च्१।६४॥
+
+
+अपाय-सन्दर्शनजां विपत्तिम्
+
+उपाय-सन्दर्शनजां च सिद्धिम् ।
+
+मेधाविनो नीति-गुण-प्रयुक्तां
+
+पुरः स्फुरन्तीम् इव वर्णयन्ति ॥पन्च्१।६५॥
+
+
+एकेषां वाचि शुकवद् अन्येषां हृदि मूकवत् ।
+
+हृदि वाचि तथान्येषां वल्गु वल्गन्तिउ सूक्तयः ॥पन्च्१।६६॥
+
+
+न च अहम् अप्राप्त-कालं वक्ष्ये । आकर्णितं मया नीति-सारं पितुः पूर्वम् उत्सङ्गं हि निषेवता ।
+
+
+अप्राप्त-कालं वचनं बृहस्पतिर् अपि ब्रुवन् ।
+
+लभते बह्व्-अवज्ञानम् अपमानं च पुष्कलम् ॥पन्च्१।६७॥
+
+
+करटक आह-
+
+दुराराध्या हि राजानः पर्वता इव सर्वदा ।
+
+व्यालाकीर्णाः सुविषमाः कठिना दुष्ट-सेविताः ॥पन्च्१।६८॥
+
+
+तथा च-
+
+भोगिनः कञ्चुकाविष्टाः कुटिलाः क्रूर-चेष्टिताः ।
+
+सुदुष्टा मन्त्र-साध्याश् च राजानः पन्नगा इव ॥पन्च्१।६९॥
+
+द्वि-जिह्वाः क्रूर-कर्माणो ऽनिष्ठाश् छिद्रानुसारिणः ।
+
+दूरतो ऽपि हि पश्यन्ति राजानो भुजगा इव ॥पन्च्१।७०॥
+
+स्वल्पम् अप्य् अपकुर्वन्ति येऽभीष्टा हि महीपतेः ।
+
+ते वह्नाव् इव दह्यन्ते पतङ्गाः पाप-चेतसः ॥पन्च्१।७१॥
+
+दुरारोहं पदं राज्ञां सर्व-लोक-नमस्कृतम् ।
+
+स्वल्पेनाप्य् अपकारेण ब्राह्मण्यम् इव दुष्यति ॥पन्च्१।७२॥
+
+दुराराध्याः श्रियो राज्ञां दुरापा दुष्परिग्रहाः ।
+
+तिष्ठन्त्य् आप इवाधारे चिरम् आत्मनि संस्थिताः ॥पन्च्१।७३॥
+
+
+दमनक आह- सत्यम् एतत् परम् । किन्तु-
+
+
+यस्य यस्य हि यो भावस् तेन तेन समाचरेत् ।
+
+अनुप्रविश्य मेधावी क्षिप्रम् आत्म-वशं नयेत् ॥पन्च्१।७४॥
+
+भर्तुश् चित्तानुवर्तित्वं सुवृत्तं चानुजीविनाम् ।
+
+राक्षसाश् चापि गृह्यन्ते नित्यं छन्दानुवर्तिभिः ॥पन्च्१।७५॥
+
+सरुषि नृपे स्तुति-वचनं तद्-अभिमते प्रेम तद्-द्विषि द्वेषः ।
+
+तद्-दानस्य च शंसा अमन्त्र-तन्त्रं वशीकरणम् ॥पन्च्१।७६॥
+
+
+करटक आह- यद्य् एवम् अभिमतं तर्हि शिवास् ते पन्थानः सन्तु । यथाभिलषितम् अनुष्ठीयताम् । सो ऽपि प्रणम्य पिङ्गलकाभिमुखं प्रतस्थे ।
+
+
+अथागच्छन्तं दमनकम् आलोक्य पिङ्गलको द्वास्थम् अब्रवीत्- अपसार्यतां वेत्र-लता । अयम् अस्माकं चिरन्तनो मन्त्रिपुत्रो दमनको ऽव्याहत-प्रवेशः । तत् प्रवेश्यतां द्वितीय-मण्डल-भागी । इति ।
+
+
+स आह- यथावादीद् भवान् इति ।
+
+
+अथोपसृत्य दमनको निर्दिष्ट आसने पिङ्गलकं प्रणम्य प्राप्तानुज्ञ उपविष्टः । स तु तस्य नक-कुलिशालङ्कृतं दक्षिण-पाणिम् उपरि दत्त्वा मान-पुरः-सरम् उवाच- अपि शिवं भवतः । कस्माच् चिराद् दृष्टो ऽसि ?
+
+
+दमनक आह- न किंचिद् देव-पादानाम् अस्माभिः प्रयोजनम् । परं भवतां प्राप्त-कालं वक्तव्यम् यत उत्तम-मध्यमाधमैः सर्वैर् अपि राज्ञां प्रयोजनम् । उक्तं च-
+
+
+दन्तस्य निष्कोषणकेन नित्यं
+
+कर्णस्य कण्डूयनकेन वापि ।
+
+तृणेन कार्यं भवतीश्वराणां
+
+किम् आङ्ग वाग्घ-स्तवता नरेण ॥पन्च्१।७७॥
+
+
+तथा वयं देव-पादानाम् अन्वयागता भृत्या आपत्स्व् अपि पृष्ठ-गामिनो यद्यपि स्वम् अधिकारं न लभामहे तथापि देव-पादानाम् एतद् युक्तं न भवति । उक्तं च-
+
+
+स्थानेष्व् एव नियोक्तव्या भृत्या आभरणानि च ।
+
+न हि चूडामणिः पादे प्रभवामीति बध्यते ॥पन्च्१।७८॥
+
+
+यतः-
+
+अनभिज्ञो गुणानां यो न भृत्यैर् अनुगम्यते ।
+
+धनाढ्यो ऽपि कुलीनो ऽपि क्रमायातो ऽपि भूपतिः ॥पन्च्१।७९॥
+
+
+उक्तं च-
+
+असमैः समीयमानः समैश् च
+
+परिहीयमाण-सत्-कारः ।
+
+धुरि यो न युज्यमानस् त्रिभिर्
+
+अर्थ-पतिं त्यजति भृत्यः ॥पन्च्१।८०॥
+
+
+यच् चाविवेकितया राज्ञा भृत्यानुत्तम-पद-योग्यान् हीनाधम-स्थाने नियोजयति, न ते तत्रैव स भूपतेर् दोषो न तेषाम् । उक्तं च-
+
+
+कनक-भूषण-सङ्ग्रहणोचितो
+
+यदि मणिस् त्रपुणि प्रतिबध्यते ।
+
+न स विरौति न चापि स शोभते
+
+भवति योजयितुर् वचनीयता ॥पन्च्१।८१॥
+
+
+यच् च स्वाम्य् एवं वदति चिराद् दृश्यते । तद् अपि श्रूयताम्-
+
+
+सव्य-दक्षिणयोर् यत्र विशेषो नास्ति हस्तयोः ।
+
+कस् तत्र क्षणम् अप्यार्यो विद्यमान-गतिर् भवेत् ॥पन्च्१।८२॥
+
+काचे मणिर् मणौ काचो येषां बुद्धिर् विकल्पते ।
+
+न तेषां सन्निधौ भृत्यो नाम-मात्रो ऽपि तिष्ठति ॥पन्च्१।८३॥
+
+
+परीक्षका यत्र न सन्ति देशे
+
+नार्घन्ति रत्नानि समुद्रजानि ।
+
+आभीर-देशे किल चन्द्रकान्तं
+
+त्रिभिर् वराटैर् विपणन्ति गोपाः ॥पन्च्१।८४॥
+
+
+लोहिताख्यस्य च मणेः पद्मरागस्य चान्तरम् ।
+
+यत्र नास्ति कथं तत्र क्रियते रत्न-विक्रयः ॥पन्च्१।८५॥
+
+निर्विशेषं यदा स्वामी समं भृत्येषु वर्तते ।
+
+तत्रोद्यम-समर्थानाम् उत्साहः परिहीयते ॥पन्च्१।८६॥
+
+न विना पार्थिवो भृत्यैर् न भृत्याः पार्थिवं विना ।
+
+तेषां च व्यवहारो ऽयं परस्पर-निबन्धनः ॥पन्च्१।८७॥
+
+भृत्यैर् विना स्वयं राजा लोकानुग्रह-कारिभिः ।
+
+मयूखैर् इव दीप्तांशुस् तेजस्व्य् अपि न शोभते ॥पन्च्१।८८॥
+
+अरैः सन्धार्यते नाभिर् नाभौ चाराः प्रतिष्ठिताः ।
+
+स्वामि-सेवकयोर् एवं वृत्ति-चक्रं प्रवर्तते ॥पन्च्१।८९॥
+
+शिरसा विधृता नित्यं स्नेहेन परिपालिताः ।
+
+केशा अपि विरज्यन्ते निःस्नेहाः किं न सेवकाः ॥पन्च्१।९०॥
+
+राजा तुष्टो हि भृत्यानाम् अर्थ-मात्रं प्रयच्छति ।
+
+ते तु संमान-मात्रेण प्राणैर् अप्य् उपकुर्वते ॥पन्च्१।९१॥
+
+एवं ज्ञात्वा नरेन्द्रेण भृत्याः कार्या विचक्षणाः ।
+
+कुलीनाः शौर्य-संयुक्ताः शक्ता भक्ताः क्रमागताः ॥पन्च्१।९२॥
+
+यः कृत्वा सुकृतं राज्ञो दुष्करं हितम् उत्तमम् ।
+
+लज्जया वक्ति नो किञ्चित् तेन राजा सहायवान् ॥पन्च्१।९३॥
+
+यस्मिन् कृत्यं समावेश्य निर्विशङ्केन चेतसा ।
+
+आस्यते सेवकः स स्यात् कलत्रम् इव चापरम् ॥पन्च्१।९४॥
+
+यो ऽनाहूतः समभ्येति द्वारि तिष्ठति सर्वदा ।
+
+पृष्ठः सत्यं मितं ब्रूते स भृत्यो ऽर्हो महीभुजाम् ॥पन्च्१।९५॥
+
+अनादिष्टो ऽपि भूपस्य दृष्ट्वा हानिकरं च यः ।
+
+यतते तस्य नाशाय स भृत्यो ऽर्हो महीभुजाम् ॥पन्च्१।९६॥
+
+ताडितो ऽपि दुरुक्तो ऽपि दण्डितो ऽपि महीभुजा ।
+
+यो न चिन्तयते पापं स भृत्यो ऽर्हो महीभुजाम् ॥पन्च्१।९७॥
+
+न गर्वं कुरुते माने नापमाने च तप्यते ।
+
+स्वाकारं रक्षयेद् यस् तु स भृत्यो ऽर्हो महीभुजाम् ॥पन्च्१।९८॥
+
+न क्षुधा पीड्यते यस् तु निद्रया न कदाचन ।
+
+न च शीतातपाद्यैश् च स भृत्यो ऽर्हो महीभुजाम् ॥पन्च्१।९९॥
+
+श्रुत्वा सांग्रामिकीं वार्तां भविष्यां स्वामिनं प्रति ।
+
+प्रसन्नास्यो भवेद् यस् तु स भृत्यो ऽर्हो महीभुजाम् ॥पन्च्१।१००॥
+
+सीमा वृद्धिं समायाति शुक्ल-पक्ष इवोडुराट् ।
+
+नियोग-संस्थिते यस्मिन् स भृत्यो ऽर्हो महीभुजाम् ॥पन्च्१।१०१॥
+
+सीमा संकोचम् आयाति वह्नौ चर्म इवाहितम् ।
+
+स्थिते यस्मिन् स तु त्याज्यो भृत्यो राज्यं समीहता ॥पन्च्१।१०२॥
+
+
+तथा शृगालो ऽयम् इति मन्यमानेन ममोपरि स्वामिना यद्य् अवज्ञा क्रियते तद् अप्य् अयुक्तम् । उक्तं च यतः-
+
+
+कौशेयं कृमिजं सुवर्णम् उपलाद् दुर्वापि गोरोमतः
+
+पङ्कात् तामरसं शशाङ्क उदधेर् इन्दीवरं गोमयात् ।
+
+काष्ठाद् अग्निर् अहेः फणाद् अपि मणिर् गो-पित्ततो रोचना
+
+प्राकाश्यं स्व-गुणोदयेन गुणिनो गच्छन्ति किं जन्मना ॥पन्च्१।१०३॥
+
+
+मूषिका गृह-जातापि हन्तव्या स्वाप-कारिणी ।
+
+भक्ष्य-प्रदानैर् जारो हितकृत् प्राप्यते जनैः ॥पन्च्१।१०४॥
+
+एरण्ड-भिण्डार्क-नलैः प्रभूतैर् अपि सञ्चितैः ।
+
+दारु-कृत्यं यथा नास्ति तथैवाज्ञैः प्रयोजनम् ॥पन्च्१।१०५॥
+
+किं भक्तेनासमर्थेन किं शक्तेर्नापकारिणा ।
+
+भक्तं शक्तं च मां राजन् नावज्ञातुं त्वम् अर्हसि ॥पन्च्१।१०६॥
+
+
+पिङ्गलक आह- भवत्व् एवं तावत् । असमर्थः समर्थो वा चिरन्तनस् त्वम् अस्माकं मन्त्रि-पुत्रः । तद् विश्रब्धं ब्रूहि यत् किञ्चिद् वक्तुकामः ।
+
+
+दमनक आह- देव जिज्ञाप्यं किञ्चिद् अस्ति ।
+
+
+पिङ्गलक आह- तन् निवेदयाभिप्रेतम् ।
+
+
+सो ऽब्रवीत्-
+
+अपि स्वल्पतरं कार्यं यद् भवेत् पृथिवी-पतेः ।
+
+तन् न वाच्यं सभा-मध्ये प्रोवाचेदं बृहस्पतिः ॥पन्च्१।१०७॥
+
+
+तद् ऐकान्तिके मद्-विज्ञाप्यम् आकर्णयन्तु देव-पादाः । यतः-
+
+
+षट्-कर्णो भिद्यते मन्त्रश् चतुष्कर्णः स्थिरो भवेत् ।
+
+तस्मात् सर्व-प्रयत्नेन षट्कर्णं वर्जयेत् सुधीः ॥पन्च्१।१०८॥
+
+
+अथ पिङ्गलकाभिप्रायज्ञा व्याघ्र-द्वीपि-वृक-पुरःसरा सर्वेऽपि तद्-वचः समाकर्ण्य संसदि तत्-क्षणाद् एव दूरीभूताः । ततश् च दमनक आह- उदक-ग्रहणार्थं प्रवृत्तस्य स्वामिनः किम् इह निवृत्त्यावस्थानम् ।
+
+
+पिङ्गलक आह सविलक्ष-स्मितम्- न किञ्चिद् अपि ।
+
+
+सो ऽब्रवीत्- देव यद्य् अनाख्येयं तत् तिष्ठतु । उक्तं च-
+
+
+दरिषु किञ्चित् स्वजनेषु किञ्चिद्
+
+गोप्यं वयस्येषु सुतेषु किञ्चित् ।
+
+युक्तं न वा युक्तम् इदं विचिन्त्य
+
+वदेद् विपश्चिन् महतो ऽनुरोधात् ॥पन्च्१।[*१००]
+
+
+तच् छ्रुत्वा पिङ्गलकश् चिन्तयामास- योग्यो ऽयं दृश्यते । तत् कथयाम्य् एतस्याग्रे आत्मनो ऽभिप्रायम् । उक्तं च-
+
+
+स्वामिनि गुणान्तरज्ञे गुणवति भृत्येऽनुवर्तिनि कलये ।
+
+सुहृदि निरन्तर-चित्ते निवेद्य दुःखं सुखी भवति ॥पन्च्१।[*१०१]
+
+
+भो दमनक शृणोषि शब्दं दूरान् महान्तम् ।
+
+
+सो ऽब्रवीत्- स्वामिन् शृणोमि । तत् किम् ।
+
+
+पिङ्गलक आह- भद्र अहम् अस्माद् वनाद् गन्तुम् इच्छामि ।
+
+दमनक आह- कस्मात् ।
+
+
+पिङ्गलक आह - यतो ऽद्यस्मद्-वने किम् अप्य् अपूर्वं सत्त्वं प्रविष्टं यस्यायं महा-शब्दः श्रूयते । तस्य च शब्दानुरूपेण पराक्रमेण भवितव्यम् इति ।
+
+
+दमनक आह- यच्-छब्द-मात्राद् अपि भयम् उपगतः स्वामी तद् अप्य् अयुक्तम् । उक्तं च-
+
+अम्भसा भिद्यते सेतुस् तथा मन्त्रो ऽप्य् अरक्षितः ।
+
+पैशुन्याद् भिद्यते स्नेहो भिद्यते वाग्भिर् आतुरः ॥पन्च्१।१११॥
+
+
+तन् न युक्तं स्वामिनः पूर्वोपार्जितं वनं त्यक्तुम् । यतो भेरी-वेणु-वीना-मृदङ्ग-ताल-पटह-शङ्ख-काहलादि-भेदेन शब्दा अनेक-विधा भवन्ति । तन् न केवलाच् छब्द-मात्राद् अपि भेतव्यम् । उक्तं च-
+
+
+अत्युत्कटे च रौद्रे च शत्रौ प्राप्ते न हीयते ।
+
+धैर्यं यस्य महीनाथो न स याति पराभवम् ॥पन्च्१।११२॥
+
+दर्शित-भयेऽपि धातरि धैर्य-ध्वंसो भवेन् न धीराणाम् ।
+
+शोषित-सरसि निदाघे नितराम् एवोद्धतः सिन्धुः ॥पन्च्१।११३॥
+
+
+तथा च-
+
+यस्य न विपदि विषादः सम्पदि हर्षो रणे न भीरुत्वम् ।
+
+तं भुवन-त्रय-तिलकं जनयति जननी सुतं विरलम् ॥पन्च्१।११४॥
+
+
+तथा च-
+
+शक्ति-वैकल्य-नम्रस्य निःसारत्वाल् लघीयसः ।
+
+जन्निमो मानहीनस्य तृणस्य च समा गतिः ॥पन्च्१।११५॥
+
+
+अपि च-
+
+अन्य-प्रतापम् आसाद्य यो दृढत्वं न गच्छति ।
+
+जतुजाभरणस्येव रूपेणापि हि तस्य किम् ॥पन्च्१।११६॥
+
+
+तद् एवं ज्ञात्वा स्वामिना धैर्यावष्टम्भः कार्यः । न शब्द-मात्राद् भेतव्यम् । अपि च-
+
+
+पूर्वम् एव मया ज्ञातं पूर्णम् एतद् धि मेदसा ।
+
+अनुप्रविश्य विज्ञातं यावच् चर्म च दारु च ॥पन्च्१।११७॥
+
+
+पिङ्गलक आह- कथम् एतत् ।
+
+
+सो ऽब्रवीत्-
+
+
+कथा २
+
+शृगाल-दुन्दुभि-कथा
+
+
+कश्चिद् गोमायुर् नाम शृगालः क्षुत्क्षाम-कण्ठः इतस् ततः परिभ्रमन् वने सैन्य-द्वय-संग्राम-भूमिम् अपश्यत् । तस्यां च दुन्दुभेः पतितस्य वायु-वशाद् वल्ली-शाखाग्रैर् हन्यमानस्य शब्दम् अशृणोत् । अथ क्षुभित-हृदयश् चिन्तयामास अहो विनष्टो ऽस्मि । तद् यावन् नास्य प्रोच्चारित-शब्दस्य दृष्टि-गोचरे गच्छामि तावद् अन्यतो व्रजामि । अथवा नैतद् युज्यते सहसैव ।
+
+
+भये वा यदि वा हर्षे सम्प्राप्ते यो विमर्शयेत् ।
+
+कृत्यं न कुरुते वेगान् न स सन्तापम् आप्नुयात् ॥पन्च्१।११८॥
+
+
+तत् तावज् जानामि कस्यायं शब्दः । धैर्यम् आलम्ब्य विमर्शयन् यावन् मन्दं मन्दं गच्छति तावद् दुन्दुभिम् अपश्यत् । स च तं परिज्ञाय समीपं गत्वा स्वयम् एव कौतुकाद् अताडयत् । भूयश् च हर्षाद् अचिन्तयत्- अहो चिराद् एतद् अस्माकं महोद्भोजनम् आपतितम् । तन् नूनं मांस-मेदो ऽसृग्भिः परिपूरितं भविष्यति । ततः परुष-चर्मावगुण्ठितं तत् कथम् अपि विदार्यैकदेशे छिद्रं कृत्वा संहृष्ट-मना मध्ये प्रविष्टः । परं चर्म-विदारणतो दंष्ट्राभङ्गः समजनि । अथ निराशीभूतस् तद्-दारु-शेषम् अवलोक्य श्लोकम् एनम् अपठत् पूर्वम् एव मया ज्ञातम् इति । अतो न शब्द-मात्राद् भेतव्यम् ।
+
+
+पिङ्गलक आह- भोः पश्यायं मम सर्वो ऽपि परिग्रहो भय-व्याकुलित-मनाः पलायितुम् इच्छति । तत् कथम् अहं धैर्याद् अवष्टम्भं करोमि ।
+
+
+सो ऽब्रवीत्- स्वामिन् नैषाम् एष दोषः । यतः स्वामि-सदृशा एवं भवन्ति भृत्याः । उक्तं च-
+
+
+अश्वः शस्त्रं शास्त्रं वीणा वाणी नरश् च नारी च ।
+
+पुरुष-विशेषं प्राप्ता भवन्त्य् अयोग्याश् च योग्याश् च ॥पन्च्१।११९॥
+
+
+तत्-पौरुषावष्टं कृत्वा त्वं तावद् अत्रैव प्रतिपालय यावद् अहम् एतच् छब्द-स्वरूपं ज्ञात्वागच्छामि । ततः पश्चाद् यथोचितं कार्यम् इति ।
+
+
+पिङ्गलक आह- किं तत्र भवान् गन्तुम् उत्सहते ।
+
+
+स आह- किं स्वाम्य्-आदेशात् सद्-भृत्य कृत्याकृत्यम् अस्ति । उक्तं च-
+
+
+स्वाम्य्-आदेशात् सुभृत्यस्य न भोः सञ्जायते क्वचित् ।
+
+प्रविशेन् मुखम् आहेयं दुस्तरं वा महार्णवम् ॥पन्च्१।१२०॥
+
+
+तथा च-
+
+स्वाम्य्-आदिष्टस् तु यो भृत्यः समं विषमम् एव च ।
+
+मन्यते न स सन्धार्यो भूभुजा भूतिम् इच्छता ॥पन्च्१।१२१॥
+
+
+पिङ्गलक आह- भद्रं, यद्य् एवं तद् गच्छ । शिवास् ते पन्थानः सन्तु इति ।
+
+
+दमनको ऽपि तम् प्रणम्य संजीवक-शब्दानुषरी प्रतस्थे ।
+
+
+अथ दमनके गते भय-व्याकुल-मनाः पिङ्गलकश् चिन्तयामास- अहो न शोभनं कृतं मया । यत् तस्य विश्वासं गत्वात्माभिप्रायो निवेदितः । कदाचिद् दमनको ऽयम् उभय-वेतनो भूत्वा ममोपरि दुष्ट-बुद्धिः स्याद् भ्रष्टाधिकारत्वात् । उक्तं च-
+
+
+ये भवन्ति महीपस्य सम्मानित-विमानिताः ।
+
+यतन्ते तस्य नाशाय कुलीना अपि सर्वदा ॥पन्च्१।१२२॥
+
+
+तत् तावद् अस्य चिकीर्षितं वेत्तुम् अन्यत् स्थानान्तरं गत्वा प्रतिपालयामि । कदाचिद् दमनकस् तम् आदाय मां व्यापादयितुम् इच्छति । उक्तं च-
+
+
+न बध्यन्ते ह्य् अविश्वस्ता बलिभिर् दुर्बला अपि ।
+
+विश्वस्तास् त्व् एव बध्यन्ते बलवन्तो ऽपि दुर्बलैः ॥पन्च्१।१२३॥
+
+बृहस्पतेर् अपि प्राज्ञो न विश्वासे व्रजेन् नरः ।
+
+य इच्छेद् आत्मनो वृद्धिम् आयुष्यं च सुखानि च ॥पन्च्१।१२४॥
+
+शपथैः सन्धितस्यापि न विश्वासे व्रजेद् रिपोः ।
+
+राज्य-लाभोद्यतो वृत्रः शक्रेण शपथैर् हतः ॥पन्च्१।१२५॥
+
+न विश्वासं विना शत्रुर् देवानाम् अपि सिद्ध्यति ।
+
+विश्वासात् त्रिदशेन्द्रेण दितेर् गर्भो विदारितः ॥पन्च्१।१२६॥
+
+
+एवं सम्प्रधार्य स्थानान्तरं गत्वा दमनक-मार्गम् अवलोकयन्न् एकाकी तस्थौ । दमनको ऽपि सञ्जीवक-सकाशं गत्वा वृषभो ऽयम् इति परिज्ञाय हृष्ट-मना व्यचिन्तयत्- अहो शोभनम् आपतितम् । अनेनैतस्य सन्धि-विग्रह-द्वारेण मम पिङ्गलको वश्यो भविष्यतीति । उक्तं च-
+
+
+न कौलीन्यान् न सौहार्दान् नृपो वाक्ये प्रवर्तते ।
+
+मन्त्रिणां वावद् अभ्येति व्यसनं शोकम् एव च ॥पन्च्१।१२७॥
+
+सदैवापद्गतो राजा भोग्यो भवति मन्त्रिणाम् ।
+
+अतएव हि वाञ्छन्ति मन्त्रिणः सापदं नृपम् ॥पन्च्१।१२८॥
+
+यथा नेच्छति नीरोगः कदाचित् सुचिकित्सकम् ।
+
+तथापद् रहितो राजा सचिवं नाभिवाञ्छति ॥पन्च्१।१२९॥
+
+
+एवं विचिन्तयन् पिङ्गलकाभिमुखः प्रतस्थे । पिङ्गलको ऽपि तम् आयान्तं प्रेक्ष्य स्वाकारं रक्षन् यथा-पूर्व-स्थितः दमनको ऽपि पिङ्गलक-सकाशं गत्वा प्रणम्योपविष्टः । पिङ्गलक आह - किं दृष्टं भवता तत् सत्त्वम् ?
+
+
+दमनक आह- दृष्टं स्वामि-प्रसादात् ।
+
+
+पिङ्गलक आह- अपि सत्यम् ।
+
+
+दमनक आह- किं स्वामि-पादानाम् अग्रेऽसत्यं विज्ञाप्यते । उक्तं च-
+
+
+अपि स्वल्पम् असत्यं यः पुरो वदति भूभुजाम् ।
+
+देवानां च विनश्यते स द्रुतं सुमहान् अपि ॥पन्च्१।१३०॥
+
+
+तथा च-
+
+सर्व-देव-मयो राजा मनुना सम्प्रकीर्तितः ।
+
+तस्मात् तं देववत् पश्येन् न व्यलीकेन कर्हिचित् ॥पन्च्१।१३१॥
+
+सर्व-देवमयस्यापि विशेषो नृपतेर् अयम् ।
+
+शुभाशुभ-फलं सद्यो नृपाद् देवाद् भवान्तरे ॥पन्च्१।१३२॥
+
+
+पिङ्गलक आह- सत्यं दृष्टं भविष्यति भवता । न दीनिपरि महान्तः कुप्यन्तीति न त्वं तेन निपातितः । यतः-
+
+
+तृणानि नोन्मूलयति प्रभञ्जनो
+
+म्र्डूनि नीचैः प्रणतानि सर्वतः ।
+
+स्वभाव एवोन्नत-चेतसाम् अयं
+
+महान् महत्स्व् एव करोति विक्रमम् ॥पन्च्१।१३३॥
+
+
+अपि च-
+
+गण्डस्थलेषु मद-वारिषु बद्ध-राग-
+
+मत्त-भ्रमद्-भ्रमर-पाद-तलाहतो ऽपि ।
+
+कोपं न गच्छति नितान्त-बलो ऽपि नागस्
+
+तुल्ये बले तु बलवान् परिकोपम् एति ॥पन्च्१।१३४॥
+
+
+दमनक आह- अस्त्व् एवं स महात्मा । वयं कृपणाः । तथापि स्वामी यदि कथयति ततो भृत्यत्वे नियोजयामि ।
+
+
+पिङ्गलक आह सोच्छ्वासम्- किं भवान् शक्नोत्य् एवं कर्तुम् ।
+
+
+दमनक आह- किम् असाध्यं बुद्धेर् अस्ति । उक्तं च-
+
+
+न तच् छस्त्रैर् न नागेन्द्रैर् न हयैर् न पदातिभिः ।
+
+कार्यं संसिद्धिम् अभ्येति यथा बुद्ध्या प्रसाधितम् ॥पन्च्१।१३५॥
+
+
+पिङ्गलक आह- यद्य् एवं तर्ह्य् अमात्य-पदेऽध्यारोपितस् त्वम् । अद्य-प्रभृति प्रसाद-निग्रहादिकं त्वयेव कार्यम् इति निश्चयः ।
+
+
+अथ दमनकः सत्वरं गत्वा साक्षेपं तम् इदम् आह- एह्य् एहीतो दुष्ट-वृषभ । स्वामी पिङ्गलकस् त्वाम् आकारयति । किं निःशङ्को भूत्वा मुहुर् मुहुर् नदसि वृथा इति ।
+
+
+तच् छ्रुत्वा सञ्जीवको ऽब्रवीत्- भद्र को ऽयं पिङ्गलकः ।
+
+
+दमनक आह- किं स्वामिनं पिङ्गलकम् अपि न जानासि ? तत्-क्षणम् प्रतिपालय । फलेनैव ज्ञास्यसि । नन्व् अयं सर्व-मृग-परिवृतो बट-तले स्वामी पिङ्गलक-नामा सिंहस् तिष्ठति ।
+
+
+तच् छ्रुत्वा गतायुषम् इवात्मानम् मन्यमानः सञ्जीवकः परं विषादम् अगमत् । आह च- भद्र भवान् साधु-समाचारो वचन-पटुश् च दृश्यते । तद् यदि माम् अवश्यं तत्र नयसि तद्-अभय-प्रदानेन स्वामिनः सकाशात् प्रसादः कारयितव्यः ।
+
+
+दमनक आह-भोः सत्यम् अभिहितं भवता । नीतिर् एषा यतः-
+
+
+पर्यन्तो लभ्यते भूमेः समुद्रस्य गिरेर् अपि ।
+
+न कथञ्चिन् महीपस्य चित्तान्तः केनचित् क्वचित् ॥पन्च्१।१३६॥
+
+
+तत्त्वम् अत्रैव तिष्ठ यावद् अहं तं समये दृष्ट्वा ततः पश्चात् त्वाम् अनयामि इति । तथानुष्ठिते दमनकः पिङ्गलक-सकाशं गत्वेदम् आह-स्वामिन् न तत् प्राकृतं सत्त्वम् । स हि भगवतो महेश्वरस्य वाहन-भूतो वृषभ इति । मया पृष्ट इदम् ऊचे । महेश्वरेण परितुष्टेन कालिन्दी-परिसरे शष्पाग्राणि भक्षयितुं समादिष्टः । किं बहुना मम प्रदत्तं भगवता क्रीडार्थं वनम् इदम् ।
+
+
+पिङ्गलक आह सभयम्-सत्यं ज्ञातं मयाधुना । न देवता-प्रसादं विना शष्प-भोजिनो व्यालाकीर्ण एवंविधे वने निःशङ्का नन्दतो भ्रमन्ति । ततस् त्वया किम् अभिहितम् ।
+
+
+दमनक आह-स्वामिन् एतद् अभिहितं मया यद् एतद्-वनं चण्डिका-वाहन-भूतस्य पिङ्गलकस्य विषयीभूतम् । तद् भवान् अभ्यागतः प्रियो ऽतिथिः । तत् तस्य सकाशं गत्वा भ्रातृ-स्नेहेनैकत्र भक्षण-पान-विहरण-क्रियाभिर् एक-स्थानाश्रयेण कालो नेयः इति । ततस् तेनापि सर्वम् एतत् प्रतिपन्नम् । उक्तं च सहर्षं स्वामिनः सकाशाद् अभय-दक्षिणा दापयितव्या इति । तद् अत्र स्वामी प्रमाणम् ।
+
+
+तच् छ्रुत्वा पिङ्गलक आह-साधु सुमते साधु । मन्त्रि श्रोत्रिय साधु । मम हृदयेन सह संमन्त्र्य भवएदम् अभिहितम् । तद् दत्ता मया तस्याभय-दक्षिणा । परं सो ऽपि मद्-अर्थेऽभय-दक्षिणां याचयित्वा द्रुततरम् आनीयताम् इति । अथ साधु चेदम् उच्यते-
+
+
+अन्तः-सारैर् अकुटिलैर् अच्छिद्रैः सुपरीक्षितैः ।
+
+मन्त्रिभिर् धार्यते राज्यं सुस्तम्भैर् इव मन्दिरम् ॥पन्च्१।१३७॥
+
+
+तथा च-
+
+मन्त्रिणां भिन्न-सन्धाने भिषजां सान्निपातिके ।
+
+कर्मणि व्यज्यते प्रज्ञा स्वस्थे को वा न पण्डितः ॥पन्च्१।१३८॥
+
+
+दमनको ऽपि तं प्रणम्य संजीवक-सकाश प्रस्थितः सहर्षम् अचिन्तयत्- अहो प्रसाद-संमुखी नः स्वामी वचन-वशगश् च संवृत्तः । तन् नास्ति धन्यतरो मम । उक्तं च-
+
+
+अमृतं शिशिरे वह्निर् अमृतं प्रिय-दर्शनम् ।
+
+अमृतं राज-संमानम् अमृतं क्षीर-भोजनम् ॥पन्च्१।१३९॥
+
+
+अथ संजीवक-सकाशम् आसाद्य स-प्रश्रयम् उवाच-भो मित्र प्रार्थितो ऽसौ मया भवद्-अर्थे स्वाम्य्-अभय-प्रदानम् । तद्-विश्रब्धं गम्यताम् इति । परं त्वया राज-प्रसादम् आसाद्य मया सह समय-धर्मेण वर्तितव्यम् । न गर्वम् आसाद्य स्व-प्रभुतया विचरणीयम् । अहम् अपि तव सङ्केतेन सर्वा राज्य-धुरम् अमात्य-पदवीम् आश्रित्योद्धरिष्यामि । एवं कृते द्वयोर् अप्य् आवयो राज-लक्ष्मी-भाग्या भविष्यति । यतः-
+
+
+आखेटकस्य धर्मेण विभवाः स्युर् वशे नॄणाम् ।
+
+नृ-प्रजाः प्रेरयत्य् एको हन्त्य् अन्यो ऽत्र मृगान् इव ॥पन्च्१।१४० ॥
+
+
+तथा च-
+
+यो न पूजयते गर्वाद् उत्तमाधम-मध्यमान् ।
+
+नृपासन्नान् स मान्यो ऽपि भ्रश्यते दन्तिलो यथा ॥पन्च्१।१४१॥
+
+
+संजीवक आह-कथम् एतत् ? सो ऽब्रवीत्-
+
+
+कथा ३
+
+दन्तिल-गोरम्भ-कथा
+
+
+अस्त्य् अत्र धरातले वर्धमानं नाम नगरम् । तत्र दन्तिलो नाम नाना-भाण्ड-पतिः सकल-पुर-नायकः प्रतिवसति स्म । तेन पुर-कार्यं नृप-कार्यं च कुर्वता तुष्टिं नीतास् तत्-पुर-वासिनो लोका नृपतिश् च । किं बहुना, न को ऽपि तादृक् केनापि चतुरो दृष्टो श्रुतो वा । अथवा सत्यम् एतद् उक्तम्-
+
+
+नरपति-हित-कर्ता द्वेष्यतां याति लोके
+
+जनपद-हित-कर्ता त्यज्यते पार्थिवेन्द्रैः ।
+
+इति महति विरोधे वर्तमाने समाने
+
+नृपति-जन-पदानां दुर्लभः कार्य-कर्ता ॥पन्च्१।१४२॥
+
+
+अथैवं गच्छति काले दनित्लस्य कदाचिद् विवाहः सम्प्रवृत्तः । तत्र तेन सर्वे पुर-निवासिनो राज-संनिधि-लोकाश् च सम्मान-पुरःसरम् आमन्त्र्य भोजिता वस्त्रादिभिः सत्-कृताश् च । ततो विवाहानन्तरं राजा सान्तःपुरः स्व-गृहम् आनीयाभ्यर्चितः । अथ तस्य नृपतेर् गृह-सम्मार्जन-कर्ता गोरम्भो नाम राज-सेवको गृहायातो ऽपि तेनानुचित-स्थान उपविष्टो ऽवज्ञायार्ध-चन्द्रं दत्त्वा निःसारितः । सो ऽपि ततः प्रभृति निश्वसन्न् अपमानान् न रात्राव् अप्य् अधिशेते । कथं मया तस्य भाण्डपते राज-प्रसाद-हानिः कर्तव्या इति चिन्तयन्न् आस्ते । अथवा किम् अनेन वृथा शरीर-शोषणेन । न किंचिन् मया तस्यापकर्तुं शक्यम् इति । अथवा साध्व् इदम् उच्यते-
+
+
+यो ह्य् अपकर्तुम् अशक्तः कुप्यति
+
+किम् असौ नरो ऽत्र निर्लज्जः ।
+
+उत्पतितो ऽपि हि चणकः शक्तः
+
+किं भ्राष्ट्रकं भङ्क्तुम् ॥पन्च्१।१४३॥
+
+
+अथ कदाचित् प्रत्यूषे योग-निद्रां गतस्य राज्ञः शय्यान्ते मार्जनं कुर्वन्न् इदम् आह-अहो दन्तिलस्य महद् दृप्तत्वं यद् राज-महिषीम् आलिङ्गति ।
+
+
+तच् छ्रुत्वा राजा स-सम्भ्रमम् उत्थाय तम् उवाच-भो भो गोरम्भ । सत्यम् एतत् यत् त्वया जल्पितम् । किं दन्तिलेन समालिङ्गिता इति ।
+
+
+गोरम्भः प्राह-देव ! रात्रि-जागरणेन द्यूतासक्तस्य मे बलान् निद्रा समायाता । तन् न वेद्मि किं मयाभिहितम् । राजा सेर्ष्यं स्व-गतम्-एष तावद् अस्मद्-गृहेऽप्रतिहत-गतिस् तथा दन्तिलो ऽपि । तत् कदाचिद् अनेन देवी समालिङ्ग्यमाना दृष्टा भविष्यति । तेनेदम् अभिहितम् । उक्तं च-
+
+
+यद् वाञ्छति दिवा मर्त्यो वीक्षते वा करोति वा ।
+
+तत् स्वप्नेऽपि तद्-अभ्यासाद् ब्रूते वाथ करोति वा ॥पन्च्१।१४४॥
+
+
+तथा च-
+
+शुभं वा यदि पापं यन् नॄणां हृदि संस्थितम् ।
+
+सुगूढम् अपि तज् ज्ञेयं स्वप्न-वाक्यात् तथा मदात् ॥पन्च्१।१४५॥
+
+
+अथवा स्त्रीणां विषये को ऽत्र सन्देहः ।
+
+जल्पन्ति सार्धम् अन्येन पश्यन्त्य् अन्यं स-विभ्रमाः ।
+
+हृद्-गतं चिन्तयन्त्य् अन्यं प्रियः को नाम योषिताम् ॥पन्च्१।१४६॥
+
+
+अन्यच् च-
+
+एकेन स्मित-पाटलाधर-रुचो जल्पन्त्य् अनल्पाक्षरं वीक्षन्तेऽन्यम् इतः स्फुटत्-कुमुदिनी-फुल्लोल्लसल्-लोचनाः ।
+
+दूरोदार-चरित्र-चित्र-विभवं ध्यायन्ति चान्यं धिया केनेत्थं परमार्थतो ऽर्थवद् इव प्रेमास्ति वाम-भ्रुवाम् ॥पन्च्१।१४७॥
+
+
+तथा च-
+
+नाग्निस् तृप्यति काष्ठानां नापगानां महोदधिः ।
+
+नान्तकः सर्व-भूतानां न पुंसां वाम-लोचना ॥पन्च्१।१४८॥
+
+रहो नास्ति क्षणो नास्ति नास्ति प्रार्थयिता नरः ।
+
+तेन नारद नारीणां सतीत्वम् उपजायते ॥पन्च्१।१४९॥
+
+यो मोहान् मन्यते मूढो रक्तेयं मम कामिनी ।
+
+स तस्या वशगो नित्यं भवेत् क्रीडा-शकुन्तवत् ॥पन्च्१।१५०॥
+
+तासां वाक्यानि कृत्यानि स्वल्पानि सुगुरूण्य् अपि ।
+
+करोति सः कृतैर् लोके लघुत्वं याति सर्वतः ॥पन्च्१।१५१॥
+
+स्त्रियं च यः प्रार्थयते सन्निकर्षं च गच्छति ।
+
+ईषच् च कुरुते सेवां तम् एवेच्छन्ति योषितः ॥पन्च्१।१५२॥
+
+अनर्थित्वान् मनुष्याणां भयात् परिजनस्य च ।
+
+मर्यादायाम् अमर्यादाः स्त्रियस् तिष्ठन्ति सर्वदा ॥पन्च्१।१५३॥
+
+नासां कश्चिद् अगम्यो ऽस्ति नासां च वयसि स्थितिः ।
+
+विरूपं रूपवन्तं वा पुमान् इत्य् एव भुज्यते ॥पन्च्१।१५४॥
+
+रक्तो हि जायते भोग्यो नारीणां शाटिका यथा ।
+
+घृष्यन्ते यो दशालम्बी नितम्बे विनिवेशितः ॥पन्च्१।१५५॥
+
+अलक्तिको यथा रक्तो निष्पीड्य पुरुषस् तथा ।
+
+अबलाभिर् बलाद् रक्तः पाद-मूले निपात्यते ॥पन्च्१।१५६॥
+
+
+एवं स राजा बहुविधं विलप्य तत्-प्रभृति दन्तिलस्य प्रसाद-पराङ्मुखः संजातः । किं बहुना राज-द्वार-प्रवेशो ऽपि तस्य निवारितः । दन्तिलो ऽप्य् अकस्माद् एव प्रसाद-पराङ्मुखम् अवनिपतिम् अवलोक्य चिन्तयामास-अहो साधु चेदम् उच्यते-
+
+
+को ऽर्थान् प्राप्य न गर्वितो विषयिणः कस्यापदो ऽस्तं गताः
+
+स्त्रीभिः कस्य न खण्डितं भुवि मनः को नामा राज्ञां प्रियः ।
+
+कः कालस्य न गोचरान्तर-गतः को ऽर्थी गतो गौरवं
+
+को वा दुर्जन-वागुरासु पतितः क्षेमेण यातः पुमान् ॥पन्च्१।१५७॥
+
+
+तथा च-
+
+काके शौचं द्यूत-कारेषु सत्यं सर्पे क्षान्तिः स्त्रीषु कामोपशान्तिः ।
+
+क्लीबे धैर्यं मद्यपे तत्त्व-चिन्ता राजा मित्रं केन दृष्टं श्रुतं वा ॥पन्च्१।१५८॥
+
+
+अपरं मयास्य भूपतेर् अथवान्यस्यापि कस्यचिद् राज-सम्बन्धिनः स्वप्नेऽपि नानिष्टं कृतम् । तत् किम् एतत्-पराङ्मुखो मां प्रति भूपतिः इति ।
+
+
+एवं तं दन्तिलं कदाचिद् राज-द्वारे विष्कम्भितं विलोक्य संमार्जन-कर्ता गोरम्भो विहस्य द्वारपालान् इदम् ऊचे-भो भो द्वारपालाः ! राज-प्रसादाधिष्ठितो ऽयं दन्तिलः स्वयं निग्रहानुग्रह-कर्ता च । तद् अनेन निवारितेन यथाहं तथा यूयम् अप्य् अर्ध-चन्द्र-भाजिनो भविष्यथ । तच् छ्रुत्वा दन्तिलश् चिन्तयामास-नूनम् इदम् अस्य गोरम्भस्य चेष्टितम् । अथवा साध्व् इदम् उच्यते-
+
+अकुलीनो ऽपि मूर्खो ऽपि भूपालं यो ऽत्र सेवते ।
+
+अपि संमानहीनो ऽपि स सर्वत्र प्रपूज्यते ॥पन्च्१।१५९॥
+
+अपि कापुरुषो भीरुः स्याच् चेन् नृपति-सेवकः ।
+
+तथापि न पराभूतिं जनाद् आप्नोति मानवः ॥पन्च्१।१६०॥
+
+
+एवं स बहु-विधं विलप्य विलक्ष-मनाः सोद्वेगो गत-प्रभावः स्व-गृहं निशामुखे गोरम्भम् आहूय वस्त्र-युगलेन संमान्येदम् उवाच-भद्र ! मया न तदा त्वं राग-वशान् निःसारितः । यतस् त्वं ब्राह्मणानाम् अग्रतो ऽनुचित-स्थाने समुपविष्टो दृष्ट इत्य् अपमानितः । तत् क्षम्यताम् ।
+
+
+सो ऽपि स्वर्ग-राज्योपमं तद्-वस्त्र-युगलम् आसाद्य परं परितोषं गत्वा तम् उवाच-भोः श्रेष्ठिन् ! क्षान्तं मया ते तत् । तद् अस्य संमानस्य कृते पश्य मे बुद्धि-प्रभावं राज-प्रसादं च । एवम् उक्त्वा सपरितोषं निष्क्रान्तः । साधु चेदम् उच्यते-
+
+
+स्तोकेनोन्नतिम् आयाति स्तोकेनायात्य् अधो-गतिम् ।
+
+अहो ससदृशो चेष्टा तुलायष्टेः खलस्य च ॥पन्च्१।१६१॥
+
+
+ततश् चान्ये-द्युः स गोरम्भो राज-कुले गत्वा योग-निद्रां गतस्य भूपतेः संमार्जन-क्रियां कुर्वन्न् इदम् आह-अहो अविवेको ऽस्मद्-भूपतेः । यत् पुरीषोत्सर्गम् आचरंश् चर्भटी-भक्षणं करोति ।
+
+
+तच् छ्रुत्वा राजा स-विस्मयं तम् उवाच-रे रे गोरम्भ ! किम् अप्रस्तुतं लपसि । गृह-कर्मकरं मत्वा त्वां न व्यापादयामि । किं त्वया कदाचिद् अहम् एवंविधं कर्म समाचरन् दृष्टः ?
+
+
+सो ऽब्रवीत्-द्यूतासक्तस्य रात्रि-जागरणेन संमार्जनं कुर्वाणस्य मम बलान् निद्रा समायाता । तयाधिष्ठितेन मया किंचिज् जल्पितम् । तन् न वेद्मि । तत् प्रसादं करोतु स्वामी निद्रा-परवशस्य इति ।
+
+
+एवं श्रुत्वा राजा चिन्तितवान्-यन् मया जन्मान्तरे पुरीषोत्सर्गं कुर्वता कदापि चिर्भटिका न भक्षिता । तद् यथायं व्यतिकरो ऽसम्भाव्यो ममानेन मूढेन व्याहृतः । तथा दन्तिलस्यापीति निश्चयः । तन् मया न युक्तं कृतं यत् स वराकः संमानेन वियोजितः । न तादृक्-पुरुषाणाम् एवंविधं चेष्टितं सम्भाव्यते । तद्-अभावेन राज-कृत्यानि पौर-कृत्यानि न सर्वाणि शिथिलतां व्रजन्ति ।
+
+
+एवम् अनेकधा विमृश्य दन्तिलं समाहूय निजाङ्ग-वस्त्राभरणादिभिः संयोज्य स्वाधिकारे नियोजयामास । अतो ऽहं ब्रवीमि यो न पूजयते गर्वात् इति ।
+
+
+संजीवक आह-भद्र एवम् एवैतत् । यद् भवताभिहितं तद् एव मया कर्तव्यम् इति । एवम् अभिहिते दमनकस् तम् आदाय पिङ्गलक-सकाशम् अगमत् । आह च-देव एष मयानीतः स संजीवकः । अधुना देवः प्रमाणम् । संजीवको ऽपि तं सादरं प्रणम्याग्रतः स-विनयं स्थितः । पिङ्गलको ऽपि तस्य पीनायत-ककुद्मतो नख-कुलिशालंकृतं दक्षिण-पाणिम् उपरि दत्त्वा मान-पुरःसरम् उवाच-अपि शिवं भवतः । कुतस् त्वम् अस्मिन् वने विजने समायातो ऽसि ?
+
+
+तेनाप्य् आत्मक-वृत्तान्तः कथितः । यथा वर्धमानेन  सह वियोगः संजातस् तथा सर्वं निवेदितम् । तच् छ्रुत्वा पिङ्गलकः सादरतरं तम् उवाच-वयस्य न भेतव्यम् । मद्-भुज-पञ्जर-परिरक्षितेन यथेच्छं त्वयाधुना वर्तितव्यम् । अन्यच् च नित्यं मत्-समीप-वर्तिना भाव्यम् । यतः कारणाद् बह्व्-अपायं रौद्र-सत्त्व-निषेवितं वनं गुरूणाम् अपि सत्त्वानाम् असेव्यम् । कुतः शष्प-भोजिनाम् ।
+
+
+एवम् उक्त्वा सकल-मृग-परिवृतो यमुना-कच्छम् अवतीर्योदक-ग्रहणं कृत्वा स्वेच्छया तद् एव वनं प्रविष्टः । ततश् च करकट-दमनक-निक्षिप्त-राज्य-भारः संजीविकेन सह सुभाषित-गोष्ठीम् अनुभवन्न् आस्ते । अथवा साध्व् इदम् उच्यते-
+
+
+यदृच्छयाप्य् उपनतं सकृत् सज्जन-सङ्गतम् ।
+
+भवत्य् अजरम् अत्यन्तं नाभ्यास-क्रमम् ईक्षते ॥पन्च्१।१६२॥
+
+
+संजीवकेनाप्य् अनेक-शास्त्रावगाहनाद् उत्पन्न-बुद्धि-प्रागल्भ्येन स्तोकैर् एवाहोभिर् मूढ-मतिः पिङ्गलको धीमांस् तथा कृतो यथारण्य-धर्माद् वियोज्य ग्राम्य-धर्मेषु नियोजितः । किं बहुना प्रत्यहं पिङ्गलक-संजीवकाव् एव केवलं रहसि मन्त्रयतः । शेषः सर्वो ऽपि मृग-जनो दूरीभूतस् तिष्ठति । करटक-दमनकाव् अपि प्रवेशं न लभेते । अन्यच् च सिंह-पराक्रमाभावात् सर्वो ऽपि मृग-जनस् तौ च शृगालौ क्षुधा-व्याधि-बाधिता एकां दिशम् आश्रित्य स्थिताः ।
+
+
+उक्तं च-
+
+फल-हीनं नृपं भृत्याः कुलीनम् अपि चोन्नतम् ।
+
+सन्त्य् अज्यान्य् अत्र गच्छन्ति शुष्कं वृक्षम् इवाण्डजाः ॥पन्च्१।१६३॥
+
+तथा च-
+
+अपि संमान-संयुक्ताः कुलीना भक्ति-तत्-पराः ।
+
+वृत्ति-भङ्गान् महीपालं त्यजन्त्य् एव हि सेवकाः ॥पन्च्१।१६४॥
+
+अन्यच् च-
+
+कालातिक्रमणं वृत्तेर्यो न कुर्वीत भूपतिः ।
+
+कदाचित् तं न मुञ्चन्ति भर्त्सिता अपि सेवकाः ॥पन्च्१।१६५॥
+
+
+तथा च केवलं सेवका इत्थम्भूता यावत् समस्तम् अप्य् एतज् जगत् परस्परं भक्षणार्थं सामादिभिर् उपायैस् तिष्ठति । तद् यथा-
+
+
+देशानाम् उपरि क्ष्माभृद् आतुराणां चिकित्सकाः ।
+
+वणिजो ग्राहकाणां च मूर्खाणाम् अपि पण्डिताः ॥पन्च्१।१६६॥
+
+प्रमादिनां तथा चौरा भिक्षुका गृह-मेधिनाम् ।
+
+गणिकाः कामिनां चैव सर्व-लोकस्य शिल्पिनः ॥पन्च्१।१६७॥
+
+सामादि-सज्जितैः पाशैः प्रतीक्षन्ते दिवा-निशम् ।
+
+उपजीवन्ति शक्त्या हि जलजा जलदान् इव ॥पन्च्१।१६८॥
+
+
+अथवा साध्व् इदम् उच्यते-
+
+सर्पाणां च खलानां च पर-द्रव्यापहारिणाम् ।
+
+अभिप्राया न सिध्यन्ति तेनेदं वर्तते जगत् ॥पन्च्१।१६९॥
+
+अत्तुं वाञ्छति शाम्भवो गणपतेर् आखुं क्षुधार्तः फणी
+
+तं च क्रौञ्च-रिपोः शिखी गिरि-सुता-सिंहो ऽपि नागाशनम् ।
+
+इत्थं यत्र परिग्रहस्य घटना शम्भोर् अपि स्याद् गृहे
+
+तत्राप्य् अस्य कथं न भावि जगतो यस्मात् स्वरूपं हि तत् ॥पन्च्१।१७०॥
+
+
+ततः स्वामि-प्रसाद-रहितौ क्षुत्-क्षाम-कण्ठौ परस्परं करटक-दमनकौ मन्त्रयेते । तत्र दमनको ब्रूते-आर्य करटक । आवां तावद् अप्रधानतां गतौ । एष पिङ्गलकः संजीवकानुरक्तः स्व-व्यापार-पराङ्मुखः संजातः । सर्वो ऽपि परिजनो गतः । तत् किं क्रियते ।
+
+
+करटक आह-यद्यपि त्वदीय-वचनं न करोति तथापि स्वामी स्व-दोष-नाशाय वाच्यः । उक्तं च-
+
+
+अशृन्वन्न् अपि बोद्धव्यो मन्त्रिभिः पृथिवी-पतिः ।
+
+यथा स्व-दोष-नाशाय विदुरेणाम्बिकासुतः ॥पन्च्१।१७१॥
+
+
+तथा च-
+
+मदोन्मत्तस्य भूपस्य कुञ्जरस्य च गच्छतः ।
+
+उन्मार्गं वाच्यतां यान्ति महामात्राः समीपगाः ॥पन्च्१।१७२॥
+
+
+तत् त्वयैष शष्प-भोजी स्वामिनः सकाशम् आनीतः । तत् स्वहस्तेनाङ्गाराः कर्षिताः ।
+
+
+दमनक आह-सत्यम् एतत् । ममायं दोषः । न स्वामिनः । उक्तं च-
+
+
+जम्बूको हुडु-युद्धेन वयं चाषाढ-भूतिना ।
+
+दूतिका पर-कार्येण त्रयो दोषाः स्वयं कृताः ॥पन्च्१।१७३॥
+
+
+करटक आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ४
+
+देवशर्म-परिव्राजक-कथा
+
+
+अस्ति कस्मिंश्चिद् विविक्त-प्रदेशे मठायतनम् । तत्र देव-शर्मा नाम परिव्राजकः पर्तिवसति स्म । तस्यानेक-साधु-जन-दत्त-सूक्ष्म-वस्त्र-विक्रय-वशात् कालेन महती वित्त-मात्रा सञ्जाता । ततः स न कस्यचिद् विश्वसिति । नक्तं दिनं कक्षान्तरात् तां मात्रां न मुञ्चति । अथवा साधु चेदम् उच्यते-
+
+
+अर्थानाम् अर्जने दुःखम् अर्जितानां च रक्षणे ।
+
+नाशे दुःखं व्यये दुःखं धिग् अर्थाः कष्ट-संश्रयाः ॥पन्च्१।१७४॥
+
+
+अथाषाढ-भूतिर् नाम पर-वित्तापहारी धूर्तस् ताम् अर्थ-मात्रां तस्य कक्षान्तर-गतां लक्षयित्वा व्यचिन्तयत्-कथं मयास्येयम् अर्थ-मात्रा हर्तव्या इति ।
+
+
+तद् अत्र मठे तावद् दृढ-शिला-सञ्चय-वशाद् भित्ति-भेदो न भवति । उच्चैस्तरत्वाच् च द्वारे प्रवेशो न स्यात् । तद् एनं माया-वचनैर् विश्वास्याहं छात्रतां व्रजामि येन स विश्वस्तः कदाचिद् विश्वासम् एति । उक्तं च-
+
+
+निस्पृहो नाधिकारी स्यान् नाकामी मण्डन-प्रियः ।
+
+नाविदग्धः प्रियं ब्रूयात् स्फुट-वक्ता न वञ्चकः ॥पन्च्१।१७५॥
+
+
+एवं निश्चित्य तस्यान्तिकम् उपगम्य-ॐ नमः शिवाय-इति प्रोच्चार्य साष्टाङ्गं प्रणम्य च स-प्रश्रयम् उवाच-भगवन् असारः संसारो ऽयम् । गिरि-नदी-वेगोपमं यौवनम् । तृणाग्नि-समं जीवितम् । शरद्-अभ्र-च्छाया-सदृशा भोगाः स्वप्न-सदृशो मित्र-पुत्र-कलत्र-भृत्य-वर्ग-सम्बन्धः । एवं मया सम्यक् परिज्ञातम् । तत् किं कुर्वतो मे संसार-समुद्रोत्तरणं भविष्यति ।
+
+
+तच् छ्रुत्वा देव-शर्मा सादरम् आह-वत्स ! धन्यो ऽसि यत् प्रथमे वयस्य् एवं विरक्ती-भावः । उक्तं च-
+
+
+पूर्वं वयसि यः शान्तः स शान्त इति मे मतिः ।
+
+धातुषु क्षीयमाणेषु शमः कस्य न जायते ॥पन्च्१।१७६॥
+
+आदौ चित्ते ततः काये सतां संजायते जरा ।
+
+असतां च पुनः काये नैव चित्ते कदाचन ॥पन्च्१।१७७॥
+
+
+यच् च मां संसार-सागरोत्तरणोपायं पृच्छसि । तच् छ्रूयताम्-
+
+
+शूद्रो वा यदि वान्यो ऽपि चण्डालो ऽपि जटाधरः ।
+
+दीक्षितः शिव-मन्त्रेण स भस्माङ्गी शिवो भवेत् ॥पन्च्१।१७८॥
+
+षड्-अक्षरेण मन्त्रेण पुष्पम् एकम् अपि स्वयम् ।
+
+लिङ्गस्य मूर्ध्नि यो दद्यान् न स भूयो ऽभिजायते ॥पन्च्१।१७९॥
+
+
+तच् छ्रुत्वाषाढ-भूतिस् तत्-पादौ गृहीत्वा स-प्रश्रयम् इदम् आह-भगवन्, तर्हि दीक्षया मेऽनुग्रहं कुरु ।
+
+
+देवशर्मा आह-वत्स अनुग्रहं ते करिष्यामि । परन्तु रात्रौ त्वया मठ-मध्ये न प्रवेष्टव्यम् । यत्-कारणं निःसङ्गता यतीनां प्रशस्यते तव च ममापि च । उक्तं च-
+
+
+दुर्मन्त्रान् नृपतिर् विनश्यति यतिः सङ्गात् सुतो लालसाद्
+
+विप्रो ऽनध्ययनात् कुलं कुतनयाच् छीलं खलोपासनात् ।
+
+मैत्री चाप्रणयात् समृद्धिर् अनयात् स्नेहः प्रवासाश्रयात्
+
+स्त्री गर्वाद् अनवेक्षणाद् अपि कृषिस् त्यागात् प्रमादाद् धनम् ॥पन्च्१।१८०॥
+
+
+तत् त्वया व्रत-ग्रहणानन्तरं मठ-द्वारे तृण-कुटीरके शयितव्यम् इति ।
+
+
+स आह-भगवन् ! भवद्-आदेशः प्रमाणम् । परत्र हि तेन मे प्रयोजनम् ।
+
+
+अथ कृत-शयन-समयं देवशर्म-निग्रहं कृत्वा शास्त्रोक्त-विधिना शिष्यताम् अनयत् । सो ऽपि हस्त-पादावमर्दनादि-परिचर्यया तं परितोषम् अनयत् । पुनस् तथापि मुनिः कक्षान्तरान् मात्रां न मुञ्चति । अथैवं गच्छति काले आषाढ-भूतिश् चिन्तयामास-अहो, न कथञ्चिद् एष मे विश्वासम् आगच्छति । तत् किं दिवापि शस्त्रेण मारयामि, किं वा विषं प्रयच्छामि ? किं वा पशु-धर्मेण व्यापादयामि ? इति ।
+
+
+एवं चिन्तयतस् तस्य देवशर्मणो ऽपि शिष्य-पुत्रः कश्चिद् ग्रामाद् आमन्त्रणार्थं समायातः । प्राह च-भगवन्, पवित्रारोपण-कृते मम गृहम् आगम्यताम् इति ।
+
+
+तच् छ्रुत्वा देवशर्माषाढभूतिना सह प्रहृष्ट-मनाः प्रस्थितः । अथैवं तस्य गच्छतो ऽग्रे काचिन् नदी समायाता । तां दृष्ट्वा मात्रां कक्षान्तराद् अवतार्य कन्था-मध्ये सुगुप्तां निधाय स्नात्वा देवार्चनं विधाय तद्-अनन्तरम् आषाढभूतिम् इदम् आह-भो आषाढभूते ! यावद् अहं पुरीषोत्सर्गं कृत्वा समागच्छामि, तावद् एषा कन्था योगेश्वरस्य स्वावधानतया रक्षणीया । इत्य् उक्त्वा गतः ।
+
+
+आषाढभूतिर् अपि तस्मिन्न् अदर्शनी-भूते मात्राम् आदाय सत्वरं प्रस्थितः । देवशर्मापि छात्र-गुणानुरञ्जित-मनाः सुविश्वस्तो यावद् उपविष्टस् तिष्ठति तावत् सुवर्ण-रोम-देह-यूथ-मध्ये हुडु-युद्धम् अपश्यत् । अथ रोष-वशाद् धुडु-युगलस्य दूरम् अपसरणं कृत्वा भूयो ऽपि समुपेत्य  लालट-पट्टाभ्यां प्रहरतो भूरि रुधिरं पतति । तच् च जम्बूको जिह्वा-लौल्येन रङ्ग-भूमिं प्रावेश्यास्वादयति । देवशर्मापि तद् आलोक्य व्यचिन्तयत्-अहो मन्द-मतिर् अयं जम्बूकः । यदि कथम् अप्य् अनयोः सङ्घट्टे पतिष्यति तन् नूनं मृत्युम् अवाप्स्यतीति वितर्कयामि ।
+
+
+क्षणान्तरे च तथैव रक्तास्वादन-लौल्यान् मध्ये प्रविशंस् तयोः शिरः-सम्पाते पतिओत् मृतश् च शृगालः । देवशर्मापि तं शोचमानो मात्राम् उद्दिश्य शनैः शनैः प्रस्थितो यावद् आषाढभूतिं न पश्यति ततश् चौत्सुक्येन शौचं विधाय यावत् कन्थाम् आलोकयति तावन् मात्रां न पश्यति । ततश् च-हा हा मुषितो ऽस्मि इति जल्पन् पृथिवी-तले मूर्च्छया निपपात । ततः क्षणाच् चेतनां लब्ध्वा भूयो ऽपि समुत्थाय फूत्कर्तुम् आरब्धः-भो आषाढभूते ! क्व मां वञ्चयित्वा गतो ऽसि ? तद् देहि मे प्रतिवचनम् ।
+
+
+एवं बहु विलप्य तस्य पद-पद्धतिम् अन्वेषयन् शनैः शनैः प्रस्थितः । अथैव गच्छन् सायन्तन-समये कञ्चिद् ग्रामम् आससाद । अथ तस्माद् ग्रामात् कश्चित् कौलिकः सभार्ह्यो मद्य-पान-कृते समीप-वर्तिनि नगरे प्रस्थितः । देवशर्मापि तम् आलोक्य प्रोवाच-भो भद्र वयं सूर्योढा अतिथयस् तवान्तिकं प्राप्ताः । न कम् अप्य् अत्र ग्रामे जानीमः । तद् गृह्यताम् अतिथि-धर्मः । उक्तं च-
+
+
+सम्प्राप्तो यो ऽतिथिः सायं सूर्योढे गृह-मेधिनाम् ।
+
+पूजया तस्य देवत्वं प्रयान्ति गृह-मेधिनः ॥पन्च्१।१८१॥
+
+
+तथा च-
+
+तृणानि भूमिर् उदकं वाक्-चतुर्थी च सूनृता ।
+
+सताम् एतानि हर्म्येषु नोच्छिद्यन्ते कदाचन ॥पन्च्१।१८२॥
+
+स्वागतेनाग्नयस् तृप्ता आसनेन शतक्रतुः ।
+
+पाद-शौचेन पितरः अर्घाच् छम्भुस् तथातिथेः ॥पन्च्१।१८३॥
+
+
+कौलिको ऽपि तच् छ्रुत्वा भार्याम् आह-प्रिये, गच्छ त्व् अतिथिम् आदाय गृहं प्रति पाद-शौच-भोजन-शयनादिभिः सत्कृत्य त्वं तत्रैव तिष्ठ । अहं तव कृते प्रभूत-मद्यम् आनेष्यामि । एवम् उक्त्वा प्रस्थितः । सापि भार्या पुंश्चली तम् आदाय प्रहसित-वदना देवदत्तं मनसि  ध्यायन्ती गृहं प्रति प्रतस्थे । अथवा साधु चेदम् उच्यते-
+
+
+दुर्दिवसे घन-तिमिरे दुःसञ्चारासु नगर-वीथीषु ।
+
+पत्युर् विदेश-गमने परम-सुखं जघन-चपलायाः ॥पन्च्१।१८४॥
+
+
+तथा च-
+
+पर्यङ्केष्व् आस्तरणं पतिम् अनुकूलं मनोहरं शयनम् ।
+
+तृणम् इव लघु मन्यन्ते कामिन्यश् चौर्य-रत-लुब्धाः ॥पन्च्१।१८५॥
+
+
+तथा च-
+
+केलिं प्रदहति लज्जा शृङ्गारो ऽस्थीनि चाटवः कटवः ।
+
+वन्ध-त्रयाः परितोषो न किंचिद् इष्टं भवेत् पत्यौ ॥पन्च्१।१८६॥
+
+कुल-पतनं जन-गर्हां बन्धनम् अपि जीवितव्य-सन्देहम् ।
+
+अङ्गीकरोति कुलटा सततं पर-पुरुष-संसक्ता ॥पन्च्१।१८७॥
+
+
+अथ कौलिक-भार्या गृहं गत्वा देव-शर्मणे गतास्तरणं भग्नां च खट्वां समर्प्येदम् आह-भो भगवन् ! यावद् अहं स्व-सखीं ग्रामाद् अभ्यागतां  सम्भाव्य द्रुतम् आगच्छामि तावत् त्वया मद्-गृहेऽप्रमत्तेन भाव्यम् ।
+
+
+एवम् अभिधाय शृङ्गार-विधिं विधाय यावद्-देवदत्तम् उद्दिश्य व्रजति तावत् तद्-भर्ता संमुखो मद-विह्वलाङ्गो मुक्त-केशः पदे पदे प्रस्खलन् गृहीत-मद्य-भाण्डः समभ्येति । तं च दृष्ट्वा सा द्रुततरं व्याघुट्य स्व-गृहं प्रविश्य नुक्त-शृङ्गार-वेशा यथा-पूर्वम् अभवत् । कौलिको ऽपि तां पलायमानां कृताद्भुत-शृङ्गारां विलोक्य प्राग् एव कर्ण-परम्परया तस्याः श्रुतावपवाद-क्षुभित-हृदयः स्वाकारं निगूहमानः सदैवास्ते । ततश् च तथाविधं चेष्टितम् अवलोक्य दृष्ट-प्रत्ययः क्रोध-वशगो गृहं प्रविश्य ताम् उवाच-आः पापे पुंश्चलि ! क्व प्रस्थितासि ?
+
+
+सा प्रोवाच-अहं त्वत्-सकाशाद् आगता न कुत्रचिद् अपि निर्गता । तत् कथं मद्य-पान-वशाद् अप्रस्तुतं वदसि ? अथवा साध्व् इदम् उच्यते-
+
+
+वैकल्यं धरणी-पातम् अयथोचित-जल्पनम् ।
+
+संनिपातस्य चिह्नानि मद्यं सर्वाणि दर्शयेत् ॥पन्च्१।१८८॥
+
+कर-स्पन्दो ऽम्बर-त्यागस् तेजो-हानिः सरागता ।
+
+वारुणी-सङ्गजावस्था भानुनाप्य् अनुभूयते ॥पन्च्१।१८९॥
+
+
+सो ऽपि तच् छ्रुत्वा प्रतिकूल-वचनं वेश-विपर्ययं चावलोक्य तम् आह-पुंश्चलि ! चिर-कालं श्रुतो मया तवापवादः । तद् अद्य स्वयं सञ्जात-प्रत्ययस् तव यथोचितं निग्रहं करोमि । इत्य् अभिधाय लगुड-प्रहारैस् तां जर्जरित-देहां विधाय स्थूणया सह दृढ-बन्धनेन बद्ध्वा सो ऽपि मद-विह्वलो विज्ञाय तां गत्वेदम् आह-सखि ! स देवदत्तस् तस्मिन् स्थाने त्वां प्रतीक्षते । तच् छीघ्रम् आगम्यताम् इति ।
+
+
+सा चाह-पश्य ममावस्थाम् । तत् कथं गच्छामि ? तद् गत्वा ब्रूहि तं कामिनं यद् अस्यां रात्रौ न त्वया सह समागमः ।
+
+
+नापिती प्राह-सखि, मा मैवं वद । नायं कुलटा-धर्मः । उक्तं च-
+
+
+विषम-स्थ-स्वादु-फल-ग्रहण-व्यवसाय-निश्चयो येषाम् ।
+
+उष्ट्राणाम् इव तेषां मन्येऽहं शंसितं जन्म ॥पन्च्१।१९०॥
+
+
+तथा च-
+
+सन्दिग्धे पर-लोके जनापवादे च जगति बहु-चित्रे ।
+
+स्वाधीने पर-रमणे धन्यास् तारुण्य-फल-भाजः ॥पन्च्१।१९१॥
+
+अन्यच् च-
+
+यदि भवति देव-योगात् पुमान् विरूपो ऽपि बन्धको रहसि ।
+
+न तु कृच्छ्राद् अपि भद्रं निज-कान्तं सा भजत्य् एव ॥पन्च्१।१९२॥
+
+
+साब्रवीत्-यद्य् एवं तर्हि कथय कथं दृढ-बन्धन-बद्धा सती तत्र गच्छामि । सन्निहितश् चायं पापात्मा मत्-पतिः ।
+
+
+नापित्य् आह-सखि, मद-विह्वलो ऽयं सूर्य-कर-स्पृष्टः प्रबोधं यास्यति । तद् अहं त्वम् उन्मोचयामि । माम् आत्म-स्थाने बद्ध्वा द्रुततरं देव-दत्तं सम्भाव्यागच्छ ।
+
+
+साब्रवीत्-एवम् अस्तु इति ।
+
+
+तद् अनु सा नापिती तां स्व-सखीं बन्धनाद् विमोच्य तस्याः स्थाने यथा-पूर्वम् आत्मानं बद्ध्वा तां देवदत्त-सकाशे  सङ्केत-स्थानं प्रेषितवती । तथानुष्ठिते कौलिकः कस्मिंश्चित् क्षणे समुत्थाय किंचिद् गत-कोपो विमदस् ताम् आह-हे परुष-वादिनि ! यद् अद्य-प्रभृति गृहान् निष्क्रमणं न करोषि, न च परुषं वदसि, ततस् त्वाम् उन्मोचयामि ।
+
+
+नापित्य् अपि स्वर-भेद-भयाद् यावन् न किंचिद् ऊचे, तावत् सो ऽपि भूयो भूयस् तां तद् एवाह । अथ सा यावत् प्रत्युत्तरं किम् अपि न ददौ, तावत् स प्रकुपितस् तीक्ष्ण-शस्त्रम् आदाय नासिकाम् अच्छिनत् । आह च-रे पुंश्चलि ! तिष्ठेदानीम् । त्वां भूयस् तोषयिष्यामि । इति जल्पन् पुनर् अपि निद्रा-वशम् अगात् ।
+
+
+देवशर्मापि वित्त-नाशात् क्षुत्क्षाम-कण्ठो नष्ट-निद्रस् तत् सर्वं स्त्री-चरित्रम् अपश्यत् । सापि कौलिक-भार्या यथेच्छया देवदत्तेन सह सुरत-सुखम् अनुभूय कस्मिंश्चित् क्षणे स्व-गृहम् आगतय तां नापितीम् इदम् आह-अयि ! शिवं भवत्याः । नायं पापात्मा मम गताया उत्थितः ।
+
+
+नापित्य् आह-शिवं नासिकया विना शेषस्य शरीरस्य । तद् द्रुतं तां मोचय बन्धनाद् यावन् नायं मां पश्यति, येन स्व-गृहं गच्छामि ।
+
+
+तथानुष्ठिते  भूयो ऽपि कौलिक उत्थाय ताम् आह-पुंश्चलि ! किम् अद्यापि न वदसि ? किं भूयो ऽप्य् अतो दुष्टतरं निग्रहं कर्ण-च्छेदेन करोमि ?
+
+
+अथ सा स-कोपं साधिक्षेपम् इदम् आह-धिङ् महा-मूढ ! को मां महा-सतीं धर्षयितुं व्यङ्गयितुं वा समर्थः ? तच् छृण्वन्तु सर्वेऽपि लोक-पालाः ।
+
+
+आदित्य-चन्द्र-हरि-शंकर-वासवाद्याः
+
+शक्ता न जेतुम् अतिदुःख-कराणि यानि ।
+
+तानीन्द्रियाणि बलवन्ति सुदुर्जयानि
+
+ये निर्जयन्ति भुवने बलिनस् त एके ॥पन्च्१।१९३॥
+
+
+तद् यदि मम सतीत्वम् अस्ति, मनसापि पर-पुरुषो नाभिलषितः, ततो देवा भूयो ऽपि मे नासिकां तादृग्-रूपाक्षतां कुर्वन्तु । अथवा यदि मम चित्ते पर-पुरुषस्य भ्रान्तिर् अपि भवति, मां भस्मसान् नयन्तु । एवम् उक्त्वा भूयो ऽपि तम् आह-भो दुरात्मन् ! पश्य मे सतीत्व-प्रभावेण तादृश्य् एव नासिका संवृत्ता ।
+
+
+अथासाव् उल्मुकम् आदाय यावत् पश्यति, तावत् तद्-रूपां नासिकां च भूतले रक्त-प्रवाहं च महान्तम् अपश्यत् । अथ स विस्मित-मनास् तां बन्धनाद् विमुच्य शय्यायाम् आरोप्य च चाटु-शतैः पर्यतोषयत् । देवशर्मापि तं सर्व-वृत्तान्तम् आलोक्य विस्मित-मना इदम् आह-
+
+
+शम्बरस्य च या माया या माया नमुचेर् अपि ।
+
+बलेः कुम्भीनसश् चैव सर्वास् ता योषितो विदुः ॥पन्च्१।१९४॥
+
+हसन्तं प्रहसन्त्य् एता रुदन्तं प्ररुदन्त्य् अपि ।
+
+अप्रियं प्रिय-वाक्यैश् च गृह्णन्ति काल-योगतः ॥पन्च्१।१९५॥
+
+उशना वेद यच् छास्त्रं यच् च वेद बृहस्पतिः ।
+
+स्त्री-बुद्ध्या न विशिष्येते ताः स्म रक्ष्याः कथं नरैः ॥पन्च्१।१९६॥
+
+अनृतं सत्यम् इत्य् आहुः सत्यं चापि तथानृतम् ।
+
+इति यास् ताः कथं वीर संरक्ष्याः पुरुषैर् इह ॥पन्च्१।१९७॥
+
+
+अन्यत्राप्य् उक्तम्-
+
+नातिप्रसङ्गः प्रमदासु कार्यो
+
+नेच्छेद् बलं स्त्रीषु विवर्धमानम् ।
+
+अतिप्रसक्तैः पुरुषैर् यतस् ताः
+
+क्रीडन्ति काकैर् इव लून-पक्षैः ॥पन्च्१।१९८॥
+
+सुमुखेन वदन्ति वगुना प्रहरन्त्य् एव शितेन चेतसा ।
+
+मधु तिष्ठति वाचि योषितां हृदये हालाहलं महद्-विषम् ॥पन्च्१।१९९॥
+
+अत एव निपीयतेऽधरो हृदयं मुष्टिभिर् एव ताड्यते ।
+
+पुरुषैः सुख-लेश-वञ्चितैर् मधु-लुब्धैः कमलं यथालिभिः ॥पन्च्१।२००॥
+
+
+अपि च-
+
+आवर्तः संशयानाम् अविनय-भवनं पत्तनं साहसानां दोषाणां संनिधानं कपट-शत-मयं क्षेत्रम् अप्रत्ययानाम् ।
+
+स्वर्ग-द्वारस्य विघ्नं नरक-पुर-मुखं सर्व-माया-करण्डं स्त्री-यन्त्रं केन सृष्टं विषम् अमृत-मयं प्राणि-लोकस्य पाशः ॥पन्च्१।२०१॥
+
+
+कार्कश्यं स्तनयोर् दृशोस् तरलतालीकं मुखे श्लाघ्यते कौटिल्यं कच-संचये च वचने मान्द्यं त्रिके स्थूलता ।
+
+भीरुत्वं हृदये सदैव कथितं माया-प्रयोगः प्रिये यासां दोष-गणो गुणो मृग-दृशां ताः स्युर् नराणां प्रियाः ॥पन्च्१।२०२॥
+
+
+एता हसन्ति च रुदन्ति च कार्य-हेतोर्
+
+विश्वासयन्ति च परं न च विश्वसन्ति ।
+
+तस्मान् नरेण कुल-शील-समन्वितेन नार्यः श्मशान-घटिका इव वर्जनीयाः ॥पन्च्१।२०३॥
+
+
+तस्मान् नरेण कुलशीलवता सदैव
+
+नार्यः श्मशान-वटिका इव वर्जनीयाः ।
+
+व्यकीर्ण-केसर-कराल-मुखा मृगेन्द्रा
+
+नागाश् च भूरि-मद-राज-विराजमानाः ॥पन्च्१।२०४॥
+
+
+कुर्वन्ति तावत् प्रथमं प्रियाणि
+
+यावन् न जानन्ति नरं प्रसक्तम् ।
+
+ज्ञात्वा च तं मन्मथ-पाश-बद्धं
+
+ग्रस्तामिषं मीनम् इवोद्धरन्ति ॥पन्च्१।२०५॥
+
+
+समुद्र-वीचीव चल-स्वभावाः
+
+सन्ध्याभ्र-रेखेव मुहूर्त-रागाः ।
+
+स्त्रियः कृतार्थाः पुरुषं निरर्थं
+
+निष्पीडोतालक्तकवत् त्यजन्ति ॥पन्च्१।२०६॥
+
+
+अनृतं साहसं माया मूर्खत्वम् अतिलुब्धता ।
+
+अशौचं निर्दयत्वं च स्त्रीणां दोषाः स्वभावजाः ॥पन्च्१।२०७॥
+
+
+सम्मोहयन्तिमदयन्ति विडम्बयन्ति
+
+निर्भर्स्तयन्ति रमयन्ति विषादयन्ति ।
+
+एताः प्रविश्य सरलं हृदयं नराणां
+
+किं वा न वाम-नयना न समाचरन्ति ॥पन्च्१।२०८॥
+
+
+अन्तर्-विष-मया ह्य् एता बहिश् चैव मनोरमाः ।
+
+गुञ्जा-फल-समाकारा योषितः केन निर्मिताः ॥पन्च्१।२०९॥
+
+
+एवं चिन्तयतस् तस्य परिव्राजकस्य सा निशा महता कृच्छ्रेणातिचक्राम । सा च दूतिका छिन्न-नासिका स्व-गृहं गत्वा चिन्तयामास-किम् इदानीं कर्तव्यम् ? कथम् एतन् महच्-छिद्रं स्थगयितव्यम् ?
+
+
+अथ तस्या एवं विचिन्तयन्त्या भर्ता कार्य-वशाद् राज-कुले पर्युषितः प्रत्यूषे च स्व-गृहम् अभ्युपेत्य द्वार-देश-स्थो विविध-पौर-कृत्योत्सुकतया ताम् आह-भद्रे शीघ्रम् आनीयतां क्षुर-भाण्डं येन क्षौर-कर्म-करणाय गच्छामि ।
+
+
+सापि छिन्ननासिका गृह-मध्य-स्थितैव कार्य-करणापेक्षया क्षुर-भाण्डात् क्षुरम् एकं समाकृष्य तस्याभिमुखं प्रेषयामास । नापितो ऽप्य् उत्सुकतया तम् एकं क्षुरम् अवलोक्य कोपाविष्टः सन् तद्-अभिमुखम् एव तं क्षुरं प्राहिणोत् । एतस्मिन्न् अन्तरे सा दुष्टोर्ध्व-बाहू विधाय फुतकर्तु-मना गृहान् निश्चक्राम । अहो पश्यत पापेनानेन मम सद्-आचार-वर्तिन्याः नासिका-च्छेदो विहितः । तत्-परित्रायतां परित्रायताम् ।
+
+
+अत्रान्तरे राज-पुरुषाः समभ्येत्य तं नापितं लगुड-प्रहारैर् जर्जरीकृत्य दृढ-बन्धनैर् बद्ध्वा तया छिन्ननासिकया सह धर्माधिकरण-स्थानं नीत्वा सभ्यान् ऊचुः-शृण्वन्तु भवन्तः सभासदः । अनेन नापितेनापराधं विना स्त्री-रत्नम् एतद् व्यङ्गितम् । तद् अस्य यद् युज्यते तत् क्रियताम् ।
+
+
+इत्य् अभिहिते सभ्या ऊचुः-रे नापित ! किम्-अर्थं त्वया भार्या व्यङ्गिता । किम् अनया पर-पुरुषो ऽभिलषितः । उन्त स्वित् प्राण-द्रोहः कृतः, किं वा चौर्य-कर्माचरितम् । तत् कथ्यताम् अस्या अपराधः ?
+
+
+नापितो ऽपि प्रहार-पीडित-तनुर् वक्तुं न शशाक । अथ तं तूष्णींभूतं दृष्ट्वा पुनर् ऊचुः-अहो, सत्यम् एतद् राज-पुरुषाणां वचः । पापात्मायम् । अनेनेयं निर्दोषा वराकी दूषिता । उक्तं च-
+
+
+भिन्न-स्वर-मुख-वर्णः शङ्कित-दृष्टिः समुत्पतित-तेजाः ।
+
+भवति हि पापं कृत्वा स्व-कर्म-सन्त्रासितः पुरुषः ॥पन्च्१।२१०॥
+
+
+तथा च-
+
+आयाति स्खलितैः पादैर् मुख-वैवर्ण्य-संयुतः ।
+
+ललाट-स्वेद-भाग् भूरि-गद्गदं भाषते वचः ॥पन्च्१।२११॥
+
+अधो-दृष्टिर् वदेत् कृत्वा पापं प्राप्तः सभां नरः ।
+
+तस्माद् यत्नात् परिज्ञेयाश् चिह्नैर् एतैर् विचक्षणैः ॥पन्च्१।२१२॥
+
+
+अन्यच् च-
+
+प्रसन्न-वदनो दृष्टः स्पष्ट-वाक्यः सरोष-दृक् ।
+
+सभायां वक्ति सामर्षं सावष्टम्भो नरः शुचिः ॥पन्च्१।२१३॥
+
+
+तद् एष दुष्ट-चरित्र-लक्षणो दृश्यते । स्त्री-धर्सणाद् वध्य इति । तच् छूलीयाम् आरोप्यताम् इति ।
+
+
+अथ वध्य-स्थाने नीयमानं तम् अवलोक्य देव-शर्मा तान् धर्माधिकृतान् गत्वा प्रोवाच-भो भोः, अन्यान्येनैष वराको वध्यते नापितः । साधु-समाचार एषः । तच् छ्रूयतां मे वाक्यम्-जम्बूको हुडु-युद्धेन इति ।
+
+
+अथ ते सभ्या ऊचुः-भो भगवन् ! कथम् एतत् ?
+
+
+ततो देवशर्मा तेषां त्रयाणाम् अपि वृत्तान्तं विस्तरेणाकथयत् । तद् आकर्ण्य सुविस्मित-मनसस् ते नापितं विमोच्य मिथः प्रोचुः-अहो !
+
+
+अवध्या ब्राह्मणा गावो स्त्रियो बालाश् च ज्ञातयः ।
+
+येषां चान्नानि भुञ्जीत ये च स्युः शरणागताः ॥पन्च्१।२१४॥
+
+
+तद् अस्या नासिका-च्छेदः स्व-कर्मणा हि संवृत्तः । ततो राज-निग्रहस् तु कर्ण-च्छेदः कार्यः । तथानुष्ठिते देवशर्मापि वित्त-नाश-समुद्भूत-शोक-रहितः पुनर् अपि स्वकीयं मठायतनं जगाम । अतो ऽहं ब्रवीमि-जम्बूको हुडु-युद्धेन (१।१७४) इति ।
+
+
+करटक आह-एवं-विधे व्यतिकरे किं कर्तव्यम् आवयोः ?
+
+
+दमनको ऽब्रवीत्-एवं-विधेऽपि समये मम बुद्धि-स्फुरणं भविष्यति, येन सञ्जीवकं प्रभोर् विश्लेषयिष्यामि । उक्तं च, यतः-
+
+
+एकं हन्यान् न वा हन्याद् इषुः क्षिप्तो धनुष्मता ।
+
+प्राज्ञेन तु मतिः क्षिप्ता हन्याद् गर्भ-गतान् अपि ॥पन्च्१।२१५॥
+
+
+तद् अहं माया-प्रपञ्चेन गुप्तम् आश्रित्य तं स्फोटयिष्यामि ।
+
+
+करटक आह-भद्र, यदि कथम् अपि तव माया-प्रवेशं पिङ्गलको ज्ञास्यति, सञ्जीवको वा तदा नूनं विघात एव ।
+
+
+सो ऽब्रवीत्-तात, मैवं वद । गूढ-बुद्धिभिर् आपत्-काले विधुरेऽपि दैवे बुद्धिः प्रयोक्तव्या । नोद्यमस् त्याज्यः । कदाचिद् घुणाक्षर-न्यायेन बुद्धेः साम्राज्यं भवति । उक्तं च-
+
+
+त्याज्यं न धैर्यं विधुरेऽपि दैवे
+
+धैर्यात् कदाचित् स्थित्म् आप्नुयात् सः ।
+
+याते समुद्रेऽपि हि पोत-भङ्गे
+
+सांयात्रिको वाञ्छति कर्म एव ॥पन्च्१।२१६॥
+
+
+तथा च-
+
+उद्योगिनं सततम् अत्र समेति लक्ष्मीर्
+
+दैवं हि दैवम् इति कापुरुषा वदन्ति ।
+
+दैवं निहत्य कुरु पौरुषम् आत्म-शक्त्या यत्ने कृते यदि न सिध्यति को ऽत्र दोषः ॥पन्च्१।२१७॥
+
+
+तद् एवं ज्ञात्वा सुगूढ-बुद्धि-प्रभावेण यथा तौ द्वाव् अपि न ज्ञास्यतः, तथा मिथो वियोजयिष्यामि । उक्तं च-
+
+
+सुप्रयुक्तस्य दम्भस्य ब्रह्माप्य् अन्तं न गच्छति ।
+
+कौलिको विष्णु-रूपेण राज-कन्यां निषेवते ॥पन्च्१।२१८॥
+
+
+करटक आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ५
+
+कौलिक-रथकार-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने कौलिक-रथकारौ मित्रे प्रतिवसतः स्म । तत्र च बाल्यात्-प्रभृति सहचारिणौ परस्परम् अतीव स्नेह-परौ सदैक-स्थान-विहारिणौ कालं नयतः । अथ कदाचित् तत्राधिष्ठाने कस्मिंश्चिद् देवायतने यात्रा-महोत्सवः संवृत्तः । तत्र च नट-नर्तक-चारण-सङ्कुले नाना-देशागत-जनावृते तौ सहचरौ भ्रमन्तौ काञ्चिद् राज-कन्यां करेणुकारूढां सर्व-लक्षण-सनाथां कञ्चुकि-वर्ष-धर-परिवारितां देवता-दर्शनार्थं समायातां दृष्टवन्तौ । अथासौ कौलिकस् तां  दृष्ट्वा विषार्दित इव दुष्ट-ग्रह-गृहीत इइव काम-शरैर् हन्यमानः सहसा भूतले निपपात । अथ तं तद्-अवस्थम् अवलोक्य रथकारस् तद्-दुःख-दुःखित आप्त-पुरुषैस् तं समुत्क्षिप्य स्व-गृहम् आनाययत् । तत्र
+
+च विविधैः शीतोपचारैश् चिकित्सकोपदिष्टैर् मन्त्र-वादिभिर् उपचर्यमाणैश् चिरात् कथंचित् स-चेतनो बभूव ।
+
+
+ततो रथकारेण पृष्टः-भो मित्र ! किम् एवं त्वम् अकस्माद् विचेतनः सञ्जातः ? तत् कथ्यताम् आत्म-स्वरूपम् ?
+
+
+स आह-वयस्य ! यद्य् एवं तच् छृणु मे रहस्यं येन सर्वाम् आत्म-वेदनां ते वदामि । यदि त्वं मां सुहृदं मन्यसे ततः काष्ठ-प्रदानेन प्रसादः क्रियताम् । क्षम्यतां यद् वा किञ्चित् प्रणय्>अतिरेकाद् अयुक्तं तव मयानुष्ठितम् ।
+
+
+सो ऽपि तद् आकर्ण्य बाष्प-पिहित-नयनः स-गद्गदम् उवाच-वयस्य, यत् किञ्चिद् दुःख-कारणं तद् वद येन प्रतीकारः क्रियते, यदि शक्यते कर्तुम् । उक्तं च-
+
+
+औषधार्थ-सुमन्त्राणां बुद्धेश् चैव महात्मनाम् ।
+
+असाध्यं नास्ति लोकेऽत्र यद् ब्रह्माण्डस्य मध्यगम् ॥पन्च्१।२१९॥
+
+
+तद् एषां चतुर्णां यदि साध्यं भविष्यति तदाहं साधयिष्यामि ।
+
+
+कौलिक आह-वयस्य, एतेषाम् अन्येषाम् अपि सहस्राणाम् उपायानाम् असाध्यं तन् मे दुःखम् । तस्मान् मम मरणे मा काल-क्षेपं कुरु ।
+
+
+रथकार आह-भो मित्र ! यद्यप्य् असाध्यं तथापि निवेदय येनाहम् अपि तद् असाध्यं मत्वा त्वया समं वह्नौ प्रविशामि । न क्षणम् अपि त्वद्-वियोगं सहिष्ये । एष मे निश्चयः ।
+
+
+कौलिक आह-वयस्य, यासौ राज-कन्या करेणुम् आरूढा तत्रोत्सवे दृष्टा, तस्या दर्शनानन्तरं मकर-ध्वजेन ममेयम् अवस्था विहिता । तन् न शक्नोमि तद्-वेदनां सोढुम् । तथा चोक्तम्-
+
+
+मत्तेभ-कुम्भ-परिणाहिनि कुङ्कुमार्द्रे
+
+तस्याः पयोधर-युगे रति-खेद-खिन्नः ।
+
+वक्षो निधाय भुज-पञ्जर-मध्य-वर्ती
+
+स्वप्स्ये कदा क्षणम् अवाप्य तदीय-सङ्गम् ॥पन्च्१।२२०॥
+
+
+तथा च-
+
+रागी बिम्बाधरो ऽसौ स्तन-कलश-युगं यौवनारूढ-गर्वं
+
+नीचा नाभिः प्रकृत्या कुटिलकम् अलकं स्वल्पकं चापि मध्यम् ।
+
+कुर्वत्व् एतानि नाम प्रसभम् इह मनश् चिन्तितान्य् आशु खेदं
+
+यन् मां तस्याः कपोलौ दहत इति मुहुः स्वच्छकौ तन् न युक्तम् ॥पन्च्१।२२१॥
+
+
+रथकारो ऽप्य् एवं स-कामं तद्-वचनम् आकर्ण्य स-स्मितम् इदम् आह-वयस्य ! यद्य् एवं तर्हि दिष्ट्या सिद्धं नः प्रयोजनम् । तद् अद्यैव तया सह समागमः क्रियताम् इति ।
+
+
+कौलिक आह-वयस्य, यत्र कन्यान्तःपुरे वायुं मुक्त्वा नान्यस्य प्रवेशो ऽस्ति तत्र रक्षा-पुरुषाधिष्ठिते कथं मम तस्या सह समागमः ? तत् किं माम् असत्य-वचनेन विडम्बयसि ?
+
+
+रथकार आह-मित्र, पश्य मे बुद्धि-बलम् ।
+
+
+एवम् अभिधाय तत्-क्षणात् कील-सञ्चारिणं वैनतेयं बाहु-युगलं वायुज-वृक्ष-दारुणा शङ्ख-चक्र-गदा-पद्मान्वितं स-किरीट-कौस्तुभम् अघटयन् । ततस् तस्मिन् कौलिकं समारोप्य विष्णु-चिह्नितं कृत्वा कील-सञ्चरण-विज्ञानं च दर्शयित्वा प्रोवाच-वयस्य, अनेन विष्णु-रूपेण गत्वा कन्यान्तःपुरे निशीथे तां राजकन्याम् एकाकिनीं सप्त-भूमिक-प्रासाद-प्रान्त-गतां मुग्ध-स्वभावां त्वां वासुदेवं मन्यमानां स्वकीय-मिथ्या-वक्रोक्तिभी रञ्जयित्वा वात्स्यायनोक्त-विधिना भज ।
+
+
+कौलिको ऽपि तद् आकर्ण्य तथा-रूपस् तत्र गत्वा ताम् आह-राज-पुत्रि, सुप्ता किं वा जागर्षि ? अहं तव कृते समुद्रात् सानुरागो लक्ष्मीं विहायैवागतः । तत् क्रियतां मया सह समागमः इति ।
+
+
+सापि गरुडारूढं चतुर्भुजं सायुधं कौस्तुभोपेतम् अवलोक्य स-विस्मया शयनाद् उत्थाय प्रोवाच-भगवन् ! अहं मानुषी कीटिकाशुचिः । भगवांस् त्रैलोक्य-पावनो वन्दनीयश् च । तत् कथम् एतद् युज्यते ।
+
+
+कौलिक आह-सुभगे, सत्यम् अभिहितं भवत्या । परं किं तु राधा नाम मे भार्या गोप-कुल-प्रसूता  प्रथम आसीत् । सा त्वम् अत्रावतीर्णा । तेनाहम् अत्रायातः ।
+
+
+इत्य् उक्ता सा प्राह-भगवन्, यद्य् एवं तन् मे तातं प्रार्थय । सो ऽप्य् अविकल्पं मां तुभ्यं प्रयच्छति ।
+
+
+कौलिक आह-सुभगे, नाहं दर्शन-पथं मानुषाणां गच्छामि । किं पुनर् आलाप-करणम् । त्वं गान्धर्वेण विव्हानेआत्मानं प्रयच्छ । नो चेच् छापं दत्त्वा सान्वयं ते पितरं भस्मसात् करिष्यामि इति । एवम् अभिधाय गरुडाद् अवतीर्य सव्ये पाणौ गृहीत्वा तां सभयां सलज्जां वेपमानां शय्यायाम् आनयत् । ततश् च रात्रि-शेषं यावद् वात्स्यायनोक्त-विधिना निषेव्य प्रत्यूषे स्व-गृहम् अलक्षितो जगाम ।
+
+
+एवं तस्य तां नित्यं सेवमानस्य कालो याति । अथ कदाचित् कञ्चुकिनस् तस्या अधरोष्ठ-प्रवाल-खण्डनं दृष्ट्वा मिथः प्रोचुः-अहो ! पश्यतास्या राज-कन्यायाः पुरुषोपभुक्ताया इव शरीरावयवा विभाव्यन्ते । तत् कथम् अयं सुरक्षितेऽप्य् अस्मिन् गृह एवंविधो व्यवहारः । तद् राज्ञे निवेदयामः ।
+
+
+एवं निश्चित्य सर्वे समेत्य राजानं प्रोचुः-देव ! वयं न विद्मः । परं सुरक्षितेऽपि कन्यान्तः-पुरे कश्चित् प्रविशति ।  तद् देवः प्रमाणम् इति । तच् छ्रुत्वा राजातीव व्याकुलित-चित्तो व्यचिन्तयत्-
+
+
+पुत्रीति जाता महतीह चिन्ता
+
+कस्मै प्रदेयेति महान् वितर्कः ।
+
+दत्त्वा सुखं प्राप्स्यति वा न वेति
+
+कन्या-पितृत्वं खलु नाम कष्टम् ॥पन्च्१।२२२॥
+
+
+नद्यश् च नार्यश् च सदृक्-प्रभावास्
+
+तुल्यानि कूलानि कुलानि तासाम् ।
+
+तोयैश् च दोषैश् च निपातयन्ति
+
+नद्यो हि कूलानि कुलानि नार्यः ॥पन्च्१।२२३॥
+
+
+जननी-मनो हरति जातवती
+
+परिवर्धते सह शुचा सुहृदाम् ।
+
+पर-सात्कृतापि कुरुते मलिनं
+
+दुरित-क्रमा दुहितरो विपदः ॥पन्च्१।२२४॥
+
+
+एवं बहु-विधं विचिन्त्य देवीं रहः-स्थां प्रोवाच-देवि, ज्ञायतां किम् एते कञ्चुकिनो वदन्ति ? तस्य कृतान्तः कुपितो येनैतद् एवं क्रियते ।
+
+
+देव्य् अपि तद् आकर्ण्य व्याकुली-भूता  सत्वरं कन्यान्तःपुरे गत्वा तां खण्डिताधरां नख-विलिखित-शरीरावयवां दुहितरम् अपश्यत् । आह च-आः पापे ! कुल-कलङ्क-कारिणि ! किम् एव शील-खण्डनं कृतम् । को ऽयं कृतान्तावलोकितस् त्वत्-सकाशम् अभ्येति  । तत् कथ्यतां ममाग्रे सत्यम् ।
+
+
+इति कोपाटोप-विसङ्कटं वदत्यां मातरि राज-पुत्री भय-लज्जानताननं प्रोवाच-अम्ब, साक्षान् नारायणः प्रत्यहं गरुडारूढो निशि समायाति । चेद् असत्यं मम वाक्यम्, तत् स्व-चक्षुषा विलोकयतु निगुढतरा निशीथे भगवन्तं रमा-कान्तम् ।
+
+
+तच् छ्रुत्वा सापि प्रहसित-वदना पुलकाङ्कित-सर्वाङ्गी सत्वरं राजानम् ऊचे-देव, दिष्ट्या वर्धसे । नित्यम् एव निशीथे भगवान् नारायणः कन्यका-पार्श्वेऽभ्येति । तेन गान्धर्व-विवाहेन सा विवाहिता । तद् अद्य त्वया मया च रात्रौ वातायन-गताभ्यां निशीथे द्रष्टव्यः । यतो न स मानुषैः सहालापं करोति ।
+
+
+तच् छ्रुत्वा हर्षितस्य राज्ञस् तद् दिनं वर्ष-शत-प्रायम् इव कथञ्चिज् जगाम । ततस् तु रात्रौ निभृतो भूत्वा राज्ञी-सहितो राजा वातायनस्-स्थो गगनासक्त-दृष्टिर् यावत् तिष्ठति, तावत् तस्मिन् समये गरुडारूढं तं शङ्क-चक्र-गदा-पद्म-हस्तं यथोक्त-चिह्नाङ्कितं  व्योम्नो ऽवतरन्तं नारायणम् अपश्यत् । ततः सुधा-पूर-प्लावितम् इवात्मानं मन्यमानस् ताम् उवाच-प्रिये ! नास्त्य् अन्यो धन्यतरो लोके मत्तस् त्वत्तश् च । तत् प्रसूतिं नारायणो भजते । तत्-सिद्धाः सर्वेऽस्माकं मनोरथाः । अधुना जामातृ-प्रभावेण सकलाम् अपि वसुमतीं वश्यां करिष्यामि ।
+
+
+एवं निश्चित्य सर्वैः सीमाधिपैः सह मर्यादा-व्यतिक्रमम् अकरोत् । ते च तं मर्यादा-व्यतिक्रमेण वर्तमानम् आलोक्य सर्वे समेत्य तेन सह विग्रहं चक्रुः ।
+
+
+अत्रान्तरे स राजा देवी-मुखेन तां दुहितरम् उवाच-पुत्रि, त्वयि दुहितरि वर्तमानायां नारायणे भगवति जामातरि स्थिते तत् किम् एवं युज्यते यत् सर्वे पार्थिवा मया सह विग्रहं कुर्वन्ति । तत् सम्बोध्यो ऽद्य त्वया निज-भर्ता, यथा मम शत्रून् व्यापादयति ।
+
+
+ततस् तया स कौलिको रात्रौ स-विनयम् अभिहितः-भगवन्, त्वयि जामातरि स्थिते मम तातो यच् छत्रुभिः परिभूयते तन् न युक्तम् । तत् प्रसादं कृत्वा सर्वांस् तान् शत्रून् व्यापादय ।
+
+
+कौलिक आह-सुभगे ! कियन्-मात्रास् त्व् एते तव पितुः शत्रवः । तद्-विश्वस्ता भव । क्षणेनापि सुदर्शन-चक्रेण सर्वांस् तिलशः खण्डयिष्यामि ।
+
+
+अथ गच्छता कालेन सर्व-देशं शत्रुभिर् उद्वास्य स राजा प्राकार-शेषः कृतः । तथापि वासुदेव-रूप-धरं कौलिकम् अजानन् राज नित्यम् एव विशेषतः कर्पूरागुरु-कस्तूरिकादि-परिमल-विशेषान् नाना-प्रकार-वस्त्र-पुष्प-भक्ष्य-पेयांश् च प्रेषयन् दुहितृ-मुखेन तम् ऊचे-भगवन्, प्रभाते नूनं स्थान-भङ्गो भविष्यति । यतो यवसेन्धन-क्षयः सञ्जातस् तथा सर्वो ऽपि जनः प्रहारैर् जर्जरित-देहः संवृत्तो योद्धुम् अक्षमः प्रचुरो मृतश् च । तद् एवं ज्ञात्वात्र काले यद् उचितं भवति तद् विधेयम् इति ।
+
+
+तच् छ्रुत्वा कौलिको ऽप्य् अचिन्तयत्-स्थान-भङ्गे जाते ममानया सह वियोगो भविष्यति ऍ तस्माद् गरुडम् आरुह्य सायुधम् आत्मानम् आकाशे दर्शयामि । कदाचिन् मां वासुदेवं मन्यमानास् ते साशङ्का राज्ञो योद्धृभिर् हन्यते । उक्तं च-
+
+
+निर्विषेणापि सर्पेण कर्तव्या महती फणा ।
+
+विषं भवतु वा माभूत् फणाटोपो भयङ्करः ॥पन्च्१।२२५॥
+
+
+अथ यदि मम स्थानार्थम् उद्यतस्य मृत्युर् भविष्यति तद् अपि सुन्दरतरम् । उक्तं च-
+
+
+गवाम् अर्थे ब्राह्मणार्थे स्वाम्य्-अर्थे स्वीकृतेऽथवा ।
+
+स्थानार्थे यस् त्यजेत् प्राणांस् तस्य लोकाः सनातनाः ॥पन्च्१।२२६॥
+
+चन्द्रे मण्डल-संस्थे विगृह्यते राहुणा दिनाधीशः ।
+
+शरणागतेन सार्धं विपद् अपि तेजस्विना श्लाघ्या ॥पन्च्१।२२७॥
+
+
+एवं निश्चित्य प्रत्यूषे दन्त-धावनं कृत्वा तां प्रोवाच-सुभगे ! समस्तैः शत्रुभिर् हतैर् अन्नं पानं चास्वादयिष्यामि । किं बहुना, त्वयापि सह सङ्गमं ततः करिष्यामि । परं वाच्यस् त्वयात्म-पिता यत् प्रभाते प्रभूतेन सैन्येन सह नगरान् निष्क्रम्य योद्धव्यम् । अहं चाकाश-स्थित एव सर्वांस् तान् निस्तेजसः करिष्यामि । पश्चात् सुखेन भवता हन्तव्याः यदि पुनर् अहं तान् स्वयम् एव सूदयामि तत् तेषां पापात्मनां वैकुण्ठीया गतिः स्यात् । तस्मात् ते तथा कर्तव्या यथा पलायन्तो हन्यमानाः स्वर्गं न गच्छन्ति ।
+
+
+सापि तद् आकर्ण्य पितुः समीपं गत्वा सर्वं वृत्तान्तं न्यवेदयत् । राजापि तस्या वाक्यं श्रद्दधानः प्रत्यूषे समुत्थाय समुन्नद्ध-सैन्यो युद्धार्थं निश्चक्राम । कौलिको ऽपि मरणे कृत-निश्चयश् चाप-पाणिर् गगन-गतिर् गरुडारूढो युद्धाय प्रस्थितः ।
+
+
+अत्रान्तरे भगवता नारायणेनातीतानागत-वर्तमान-वेदिना, स्मृत-मात्रो वैनतेयः सम्प्राप्तो विहस्य प्रोक्तः-भो गरुत्मन् ! जानासि त्वं यन् मम रूपेण कौलिको दारु-मय-गरुडे समारूढो राज-कन्यां कामयते ।
+
+
+सो ऽब्रवीत्-देव, सर्वं ज्ञायते तच् चेष्टितम् । तत् किं कुर्मः साम्प्रतम् ?
+
+
+श्री-भगवान् आह-अद्य कौलिको मरणे कृत-निश्चयो विहित-नियमो युद्धार्थे विनिर्गतः स नूनं प्रधान-क्षत्रियैर् मिलित्वा वासुदेवो गरुडश् च निपातितः । ततः परं लोको ऽयम् आवयोः पूजां न करिष्यति । ततस् त्वं द्रुततरं तत्र दारु-मय-गरुडे सङ्क्रमणं कुरु । अहम् अपि कौलिक-शरीरे प्रवेशं करिष्यामि । येन स शत्रून् व्यापादयति । ततश् च शत्रु-वधाद् आवयोर् माहात्म्य-वृद्धिः स्यात् ।
+
+
+अथ गरुडे तथेति प्रतिपन्ने श्री-भगवन्-नारायणस् तच्-छरीरे सङ्क्रमणम् अकरोत् । ततो भगवन्-माहात्म्येन गगन-स्थः स कौलिकः शङ्ख-चक्र-गदा-चाप-चिह्नितः क्षणाद् एव लीलयैव समस्तान् अपि प्रधान-क्षत्रियान् निस्तेजसश् चकारर् । ततस् तेन राज्ञा स्व-सैन्य-परिवृतेन सङ्ग्रामे जिता निहताश् च ते सर्वेऽपि शत्रवः । जातश् च लोक-मध्ये प्रवादो, यथा-अनेन विष्णु-जामातृ-प्रभावेण सर्वे शत्रवो निहता इति ।
+
+
+कौलिको ऽपि तान् हतान् दृष्ट्वा प्रमुदित-मना गगनाद् अवतीर्णः सन्, यावद् राजामात्य-पौर-लोकास् तं नगर-वास्तव्यं कौलिकं पश्यन्ति ततः पृष्टः किम् एतद् इति । ततः सो ऽपि मूलाद् आरभ्य सर्वं प्राग्-वृत्तान्तं न्यवेदयत् । ततश् च कौलिक-साहसानुरञ्जित-मनसा शत्रु-वधाद् अवाप्त-तेजसा राज्ञा सा राज-कन्या सकल-जन-प्रत्यक्षं विवाह-विधिना तस्मै समर्पिता देशश् च प्रदत्तः । कौलिको ऽपि तया सार्धं पञ्च-प्रकारं जीव-लोक-सारं विषय-सुखम् अनुभवन् कालं निनाय । अतस् तूच्यते सुप्रयुक्तस्य दम्भस्य (२१८) इति ।
+
+
+
+***********************************************************************  
+
+
+
+तच् छ्रुत्वा करटक आह-भद्र, अस्त्य् एवम् । परं तथापि महन् मे भयम् । यतो बुद्धिमान् सञ्जीवको रौद्रश् च सिंहः । यद्यपि ते बुद्धि-प्रागल्भ्यं तथापि त्वं पिङ्गलकात् तं वियोजयितुम् असमर्थ एव ।
+
+
+दमनक आह-भ्रातः ! असमर्थो ऽपि समर्थ एव । उक्तं च-
+
+
+उपायेन हि यच् छक्यं न तच् छक्यं पराक्रमैः ।
+
+काकी कनक-सूत्रेण कृष्ण-सर्पम् अघातयत् ॥पन्च्१।२२८॥
+
+
+करटक आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ६
+
+वायस-दम्पति-कथा
+
+
+अस्ति कस्मिंश्चित् प्रदेशे महान् न्यग्रोध-पादपः । तत्र वायस-दम्पती प्रतिवसतः स्म । अथ तयोः प्रसव-काले वृक्ष-विवरान् निष्क्रम्य कृष्ण-सर्पः सदैव तद्-अपत्यानि भक्षयति । ततस् तौ निर्वेदाद् अन्य-वृक्ष-मूल-निवासिनं प्रिय-सुहृदं शृगालं गत्वोचतुः-भद्र ! किम् एवंविधे सञ्जात आवयोः कर्तव्यं भवति । एवं तावद् दुष्टात्मा कृष्ण-सर्पो वृक्ष-विवरान् निर्गत्यावयोर् बालकान् भक्षयति । तत् कथ्यतां तद्-रक्षार्थं कश्चिद् उपायः ।
+
+
+यस्य क्षेत्रं नदी-तीरे भार्या च पर-सङ्गता ।
+
+स-सर्पे च गृहे वासः कथं स्यात् तस्य निर्वृतिः ॥पन्च्१।२२९॥
+
+
+अन्यच् च-
+
+सर्प-युक्ते गृहे वासो मृत्युर् एव न संशयः ।
+
+यद् ग्रामान्ते वसेत् सर्पस् तस्य स्यात् प्राण-संशयः ॥पन्च्१।२३०॥
+
+
+अस्माकम् अपि तत्र-स्थितानां प्रतिदिनं प्राण-संशयः ।
+
+
+स आह-नात्र विषये स्वल्पो ऽपि विषादः कार्यः । नूनं स लुब्धो नोपायम् अन्तरेण वध्यः स्यात् ।
+
+उपायेन जयो यादृग् रिपोस् तादृङ् न हेतिभिः ।
+
+उपाय-ज्ञो ऽल्प-कायो ऽपि न शूरैः परिभूयते ॥पन्च्१।२३१॥
+
+
+तथा च-
+
+भक्षयित्वा बहून् मत्स्यान् उत्तमाधम-मध्यमान् ।
+
+अतिलौल्याद् बकः कश्चिन् मृतः कर्कटक-ग्रहात् ॥पन्च्१।२३२॥
+
+
+ताव् ऊचतुः-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ७
+
+बक-कुलीरक-कथा
+
+
+अस्ति कस्मिंश्चिद् वन-प्रदेशे नाना-जल-चर-सनाथं महत् सरः । तत्र च कृताश्रयो बक एको वृद्ध-भावम् उपागतो मत्स्यान् व्यापादयितुम् असमर्थः । ततश् च क्षुत्क्षाम-कण्ठः सरस्-तीरे उपविष्टो मुक्ता-फल-प्रकर-सदृशैर् अश्रु-प्रवाहैर् धरा-तलम् अभिषिञ्चन् रुरोद । एकः कुलीरको नाना-जल-चर-समेतः समेत्य तस्य दुःखेन दुःखितः सादरम् इदम् ऊचे-माम ! किम् अद्य त्वया नाहार-वृत्तिर् अनुष्ठीयते ? केवलम् अश्रु-पूर्ण-नेत्राभ्यां स-निःश्वासेन स्थीयते ।
+
+
+स आह-वत्स ! सत्यम् उपलक्षितं भवता । मया हि मत्स्यादनं प्रति परम-वैराग्यतया साम्प्रतं प्रायोपवेशनं कृतम् । तेनाहं समीपागतान् अपि मत्स्यान् न भक्षयामि ।
+
+
+कुलीरकस् तच् छ्रुत्वा प्राह-माम, किं तद् वैराग्य-कारणम् ?
+
+
+स प्राह-वत्स, अहम् अस्मिन् सरसि जातो वृद्धिं गतश् च । तन् मयैतच् छ्रुतं यद् द्वादश-वर्षिक्यानावृष्टिः सम्पद्यते लग्ना ।
+
+
+कुलीरक आह-कस्मात् तच् छ्रुतम् ?
+
+
+बक आह-दैवज्ञ-मुखाद् एष शनैश्चरो हि रोहिणी-शकटं भित्त्वा भौमं शक्रं च प्रयास्यति । उक्तं च वराह-मिहिरेण-
+
+
+यदि भिन्ते सूर्य-सुतो रोहिण्याः शकटम् इह लोके ।
+
+द्वादश वर्षाणि तदा नहि वर्षति वासवौ भूमौ ॥पन्च्१।२३३॥
+
+
+तथा च-
+
+प्राजापत्ये शकटे भिन्ने कृत्वैव पातकं वसुधा ।
+
+भस्मास्थि-शकलाकीर्णा कापालिकम् इव व्रतं धत्ते ॥पन्च्१।२३४॥
+
+
+तथा च-
+
+रोहिणी-शकटम् अर्क-नन्दनश् चेद्
+
+भिन्नत्ति रुधिरो ऽथवा शशी ।
+
+किं वदामि तद्-अनिष्ट-सागरे
+
+सर्व-लोकम् उपयाति सङ्क्षयः ॥पन्च्१।२३५॥
+
+
+रोहिणी-शकट-मध्य-संस्थिते
+
+चन्द्रम् अस्य शरणी-कृता जनाः ।
+
+क्वापि यान्ति शिशुपाचिताशनाः
+
+सूर्य-तप्त-भिदुराम्बु-पायिनः ॥पन्च्१।२३६॥
+
+
+तद् एतत् सरः स्वल्प-तोयं वर्तते । शीघ्रं शोषं यास्यति । अस्मिन् शुष्के यैः सहाहं वृद्धिं गतः, सदैव क्रीडितश् च, ते सर्वे तोयाभावान् नाशं यास्यन्ति । तत् तेषां वियोगं द्रष्टुम् अहम् असमर्थः । तेनैतत् प्रायोपवेशनं कृतम् । साम्प्रतं सर्वेषां स्वल्प-जलाशयानां जलचरा गुरु-जलाशयेषु स्व-स्वजनैर् नीयन्ते । केचिच् च मकर-गोधा-शिशुमार-जलहस्ति-प्रभृतयः स्वयम् एव गच्छन्ति । अत्र पुनः सरसि ये जलचरास् ते निश्चिन्ताः सन्ति, तेनाहं विशेषाद् रोदिमि यद् बीज-शेस-मात्रम् अप्य् अत्र नोद्धरिष्यति ।
+
+
+ततः स तद् आकर्ण्यान्येषाम् अपि जलचराणां तत् तस्य वचनं निवेदयामास । अथ ते सर्वे भय-त्रस्त-मनसो मत्स्य-कच्छप-प्रभृतयस् तम् अभ्युपेत्य पप्रच्छुः-माम ! अस्ति कश्चिद् उपायो येनास्माकं रक्षा भवति ?
+
+
+बक आह-अस्त्य् अस्य जलाशयस्य नातिदूरे प्रभूत-जल-सनाथं सरः पद्मिनी-खण्ड-मण्डितं यच् चतुर्विंशत्य् अपि वर्षाणाम् अवृष्ट्या न शोषम् एष्यति । तद् यदि मम पृष्ठं कश्चिद् आरोहति, तद् अहं तं तत्र नयामि ।
+
+
+अथ ते तत्र विश्वासम् आपन्नाः, तात मातुल भ्रातः इति ब्रुवाणाः अहं पूर्वम् अहं पूर्वम् इति समन्तात् परितस्थुः । सो ऽपि दुष्टाशयः क्रमेण तान् पृष्ठ आरोप्य जलाशयस्य नातिदूरे शिलां समासाद्य तस्याम् आक्षिप्य  स्वेच्छया भक्षयित्वा भूयो ऽपि जलाशयं समासाद्य जलचर्णाणां मिथ्या-वार्ता-सन्देशकैर् मनांसि रञ्जयन् नित्यम् एवाहार-वृत्तिम् अकरोत् ।
+
+
+अन्यस्मिन् दिने च कुलीरकेणोक्तः-माम ! मया सह ते प्रथमः स्नेह-सम्भाषः सञ्जातः  । तत् किं मां परित्यज्यान्यान् नयसि ? तस्माद् अद्य मे प्राण-त्राणं कुरु ।
+
+
+तद् आकर्ण्य सो ऽपि दुष्टाशयश् चिन्तितवान्-निर्विण्णो ऽहं मत्स्य-मांसादनेन तद् अद्यैनं कुलीरकं व्यञ्जन-स्थाने करोमि । इति विचिन्त्य तं पृष्टे समारोप्य तां वध्य-शिलाम् उद्दिश्य प्रस्थितः । कुलीरको ऽपि दूराद् एवास्थि-पर्वतं शिलाश्रयम् अवलोक्य मस्त्यास्थीनि परिज्ञाय तम् अपृच्छत्-माम, कियद् दूरे स जलाशयः ? मदीय-भारेणातिश्रान्तस् त्वम् । तत् कथय ।
+
+
+सो ऽपि मन्द-धीर् जलचरो ऽयम् इति मत्वा स्थले न प्रभवतीति स-स्मितम् इदम् आह-कुलीरक, कुतो ऽन्यो जलाशयः ? मम प्राण-यात्रेयम् । तस्मात् स्मर्यताम् आत्मनो ऽभीष्ट-देवता । त्वाम् अप्य् अन्यां शिलायां निक्षिप्य भक्षयिष्यामि । इत्य् उक्तवति तस्मिन् स्व-वदन-दंश-द्वयेन मृणाल-नाल-धवलायां मृदु-ग्रीवायां गृहीतो मृतश् च ।
+
+
+अथ स तां बक-ग्रीवां समादाय शनैः शनैस् तज् जलाशयम् आससाद । ततः सर्वैर् एव जलचरैः पृष्टः-भोः कुलीरक ! किं निवृत्तस् त्वम् ? स मातुलो ऽपि नायातः । तत् किं चिरयति ? वयं सर्वे सोत्क्सुकाः कृत-क्षणास् तिष्ठामः ।
+
+
+एवं तैर् अभिहिते कुलीरको ऽपि विहस्योवाच-मूर्खाः ! सर्वे जलचरास् तेन मिथ्या-वादिना वञ्चयित्वा नातिदूरे शिला-तले प्रक्षिप्य भक्षिताः । तन् ममायुः-शेषतया तस्य विश्वास-घातकस्याभिप्रायं ज्ञात्वा ग्रीवेयम् आनीता । तद् अलं सम्भ्रमेण । अधुना सर्व-जल-चराणां क्षेमं भविष्यति ।
+
+
+अतो ऽहं ब्रवीमि-भक्षयित्वा बहून् मत्स्यान् इति ।
+
+
+वायस आह-भद्र ! तत् कथय कथं स दुष्ट-सर्पो वधम् उपैष्यति ।
+
+
+शृगाल आह-गच्छतु भवान् कञ्चिन् नगरं राजाधिष्ठानम् । तत्र कस्यापि धनिनो राजामात्यादेः प्रमादिनः कनक-सूत्रं हारं वा गृहीत्वा तत्-कोटरे प्रक्षिप, येन सर्पस् तद्-ग्रहणेन वध्यते ।
+
+
+तत्-क्षणात् काकः काकी च तद् आकर्ण्यात्मेच्छयोत्पतितौ । ततश् च काकी किञ्चित् सरः प्राप्य यावत् पश्यति, तावत् तन्-मध्ये कस्यचिद् राज्ञो ऽन्तःपुरं जलासन्नं न्यस्त-कनक-सूत्रं मुक्त-मुक्ताहार-वस्त्राभरणं जल-क्रीडां कुरुते । अथ सा वायसी कनक-सूत्रम् एकम् आदाय स्व-गृहाभिमुखं प्रतस्थे । ततश् च कञ्चुकिनो वर्ष-वराश् च तन्-नीयमानम् उपलक्ष्य गृहीत-लगुडाः सत्वरम् अनुययुः । काक्य् अपि सर्प-कोटरे तत्-कनक-सूत्रं प्रक्षिप्य सुदूरम् अवस्थिता ।
+
+
+अथ यावद् राज-पुरुषास् तं वृक्षम् आरुह्य तत्-कोटरम् अवलोकयन्ति, तावत् कृष्ण-सर्पः प्रसारित-भोगस् तिष्ठति । ततस् तं लगुड-प्रहारेण हत्वा कनक-सूत्रम् आदाय यथाभिलषितं स्थानं गताः । वायस-दम्पती अपि ततः परं सुखेन वसतः । अतो ऽहं ब्रवीमि-उपायेन हि यत् कुर्यात् इति ।
+
+
+
+***********************************************************************  
+
+
+
+तन् न किंचिद् इह बुद्धिमताम् असाध्यम् अस्ति । उक्तं च-
+
+
+यस्य बुद्धिर् बलं तस्य निर्बुद्धेस् तु कुतो बलम् ।
+
+वने सिंहो मदोन्मत्तः शशकेन निपातितः ॥पन्च्१।२३७॥
+
+
+करटक आह-कथम् एतत् ?
+
+
+स आह-
+
+
+कथा ८
+
+भासुरकाख्य-सिंह-कथा
+
+
+कस्मिंश्चिद् वने भासुरको नाम सिंहः प्रतिवसति स्म । अथासौ वीर्यातिरेकान् नित्यम् एवानेकान् मृग-शशकादीन् व्यापादयन् नोपरराम । अथान्येद्युस् तद्-वनजाः सर्वे सारङ्ग-वराह-महिष-शशकादयो मिलित्वा तम् अभ्युपेत्य प्रोचुः-स्वामिन् ! किम् अनेन सकल-मृग-वधेन नित्यम् एव, यतस् तवैकेनापि मृगेण तृप्तिर् भवति तत् क्रियताम् अस्माभिः सह समय-धर्मः । अद्य-प्रभृति तवात्रोपविष्टस्य जाति-क्रमेण प्रतिदिनम् एको मृगो भक्षणार्थं समेष्यति । एवं कृते तव तावत् प्राण-यात्रा क्लेशं विनापि भविष्यति । अस्माकं च पुनः सर्वोच्छेदनं न स्यात् । तद् एष राज-धर्मो ऽनुष्ठीयताम् । उक्तं च-
+
+
+शनैः शनैश् च यो राज्यम् उपभुङ्क्ते यथा-बलम् ।
+
+रसायनम् इव प्राज्ञः स पुष्टिं परमां व्रजेत् ॥पन्च्१।२३८॥
+
+विधिना मन्त्र-युक्तेन रूक्षापि मथितापि च ।
+
+प्रयच्छति फलं भूमिर् अरणीव हुताशनम् ॥पन्च्१।२३९॥
+
+प्रजानां पालनं शस्यं स्वर्ग-कोशस्य वर्धनम् ।
+
+पीडनं धर्म-नाशाय पापायायशसे स्थितम् ॥पन्च्१।२४०॥
+
+गोपालेन प्रजाधेनोर् वित्त-दुग्धं शनैः शनैः ।
+
+पालनात् पोषणाद् ग्राह्यं न्याय्यां वृत्तिं समाचरेत् ॥पन्च्१।२४१॥
+
+अजाम् इव प्रजां मोहाद् यो हन्यात् पृथिवी-पतिम् ।
+
+तस्यैका जायते तृप्तिर् न द्वितीया कथञ्चन ॥पन्च्१।२४२॥
+
+फलार्थी नृपतिर् लोकान् पालयेद् यत्नम् आस्थितः ।
+
+दान-मानादि-तोयेन मालाकारो ऽङ्कुरान् इव ॥पन्च्१।२४३॥
+
+नृप-दीपो धन-स्नेहं प्रजाभ्यः संहरन्न् अपि ।
+
+आन्तर-स्थैर् गुणैः शुभ्रैर् लक्ष्यते नैव केनचित् ॥पन्च्१।२४४॥
+
+यथा गौर् दुह्यते काले पाल्यते च तथा प्रजाः ।
+
+सिच्यते चीयते चैव लता पुष्प-फल-प्रदा ॥पन्च्१।२४५॥
+
+यथा बीजाङ्कुरः सूक्ष्मः प्रयत्नेनाभिरक्षितः ।
+
+फल-प्रदो भवेत् काले तद्वल् लोकः सुरक्षितः ॥पन्च्१।२४६॥
+
+हिरण्य-धान्य-रत्नानि यानानि विविधानि च ।
+
+तथान्यद् अपि यत् किञ्चित् प्रजाभ्यः स्यान् महीपतेः ॥पन्च्१।२४७॥
+
+लोकानुग्रह-कर्तारः प्रवर्धन्ते नरेश्वराः ।
+
+लोकानां सङ्क्षयाच् चैव क्षयं यान्ति न संशयः ॥पन्च्१।२४८॥
+
+
+अथ तेषां तद्-वचनम् आकर्ण्य भासुरक आह-अहो सत्यम् अभिहितं भवद्भिः । परं यदि ममोपविष्टस्यात्र नित्यम् एव नैकः श्वापदः समागमिष्यति । तन् नूनं सर्वान् अपि भक्षयिष्यामि । अथ ते तथैव प्रतिज्ञाय निर्वृति-भाजस् तत्रैव वने निर्भयाः पर्यटन्ति । एकश् च प्रतिदिनं क्रमेण याति । वृद्धो वा, वैराग्य-युक्तो वा, शोक-ग्रस्तो वा, पुत्र-कलत्र-नाश-भीतो वा, तेषां मध्यात् तस्य भोजनार्थं मध्याह्न-समय उपतिष्ठते ।
+
+
+अथ कदाचिज् जाति-क्रमाच् छशकस्यावसरः समायातः । स समस्त-मृगैः प्रेरितो ऽनिच्छन्न् अपि मन्दं मन्दं गत्वा तस्य वधोपायं चिन्तयन् वेलातिक्रमं कृत्वाव्याकुलित-हृदयो यावद् गच्छति तावन्-मार्गे गच्छता कूपः सन्दृष्टः । यावत् कूपोपरि पाति तावत् कूप-मध्य आत्मनः प्रतिबिम्बं ददर्श । दृष्ट्वा च तेन हृदये चिन्तितम्-यद् भाव्य उपायो ऽस्ति । अहं भासुरकं प्रकोप्य स्व-बुद्ध्यास्मिन् कूपे पातयिष्यामि ।
+
+
+अथासौ दिन-शेषे भासुरक-समीपं प्राप्तः । सिंहो ऽपि वेलातिक्रमेण क्षुत्क्षाम-कण्ठः कोपाविष्टः सृक्कणी परिलेलिहद् व्यचिन्तयत्-अहो ! प्रतार्-आहाराय निःसत्त्वं वनं मया कर्तव्यम् । एवं चिन्तयतस् तस्य शशको मन्दं मन्दं गत्वा प्रणम्य तस्याग्रे स्थितः । अथ तं प्रज्वलितात्मा भासुरको भर्त्सयन्न् आह-रे शशकाधम एकस् तावत् त्वं लघुः प्राप्तो ऽपरतो वेलातिक्रमेण । तद् अस्माद् अपराधात् त्वां निपात्य प्रातः सकलान्य् अपि मृग-कुलान्य् उच्छेदयिष्यामि ।
+
+
+अथ शशकः स-विनयं प्रोवाच-स्वामिन् ! नापराधो मम । न च सत्त्वानाम् । तच् छ्य्रूतां कारणम् ।
+
+
+सिंह आह-सत्वरं निवेदय यावन् मम दंष्ट्रान्तर्गतो न भवान् भविष्यति इति ।
+
+
+शशक आह-स्वामिन्, समस्त-मृगैर् अद्य जाति-क्रमेण मम लघुतरस्य प्रस्तावं विज्ञाय ततो ऽहं पञ्च-शशकैः समं प्रेषितः । ततश् चाहम् आगच्छेन्न् अन्तराले महता केनचिद् अपरेण सिंहेन विवरान् निर्गत्याभिहितः-अभीष्ट-देवतां स्मरत ।
+
+
+ततो मयाभिहितम्-वयं स्वामिनोन् भासुरक-सिंहस्य सकाशम् आहारार्थं समय-धर्मेण गच्छामः ।
+
+
+ततस् तेनाभिहितम्-यद्य् एवं तर्हि मदीयम् एतद्-वनम् । मया सह समय-धर्मेण समस्तैर् अपि श्वापदैर् वर्तितव्यम् । चोर-रूपी स भासुरकः । अथ यदि सो ऽत्र राजा । विश्वास-स्थाने चतुरः शशकान् अत्र धृत्वा तम् आहूय द्रुततरम् आगच्छ । येन यः कश्चिद् आवयोर् मध्यात् पराक्रमेण राजा भविष्यति स सर्वान् एतान् भक्षयिष्यति इति ।
+
+
+ततो ऽहं तेनादिष्टः स्वामि-सकाशम् अभ्यागतः । एतद् वेला व्यतिक्रम-कारणम् । तद् अत्र स्वामी प्रमाणम् ।
+
+
+तच् छ्रुत्वा भासुरक आह-भद्र, यद्य् एवं तत् सत्वरं दर्शय मे तं चौर-सिंहः येनाहं मृग-कोपं तस्योपरि क्षिप्त्वा स्वस्थो भवामि । उक्तं च-
+
+
+भूमिर् मित्रं हिरण्यं च विग्रहस्य फल-त्रयम् ।
+
+नास्त्य् एकम् अपि यद्य् एषां न तं कुर्यात् कथञ्चन ॥पन्च्१।२४९॥
+
+यत्र न स्यात् फलं भूरि यत्र चस्यात् पराभवः ।
+
+न तत्र मतिमान् युद्धं समुत्पाद्य समाचरेत् ॥पन्च्१।२५०॥
+
+
+शशाक आह-स्वामिन् ! सत्यम् इदम् । स्व-भूमि-हेतोः परिभवाच् च युध्यन्ते क्षत्रियाः । परं स दुर्गाश्रयः दुर्गान् निष्क्रम्य वयं तेन विष्कम्भिताः । ततो दुर्गस्थो दुःसध्यो भवति रिपुः । उक्तं च-
+
+
+न गजानां सहस्रेण न च लक्षेण वाजिनाम् । यत् कृत्यं सिध्यति राज्ञां दुर्गेणैकेन विग्रहे ॥पन्च्१।२५१॥ शतम् एको ऽपि संधत्ते प्राकारस्थो धनुर्धरः । तस्माद् दुर्गं प्रशंसन्ति नीतिशास्त्रविचक्षणाः ॥पन्च्१।२५२॥ पुरा गुरोः समादेशाद्द् हिरण्यकशिपोर् भयात् । शक्रेण विहितं दुर्गं प्रभावाद् विश्वकर्मणः ॥पन्च्१।२५३॥ तेनापि च वरो दत्तो यस्य दुर्गं स भूपतिः । विजयी स्यात् ततो भूमौ दुर्गाणि स्युः सहस्रशः ॥पन्च्१।२५४॥ दंष्ट्राविरहितो नागो मदहीनो यथा गजः । सर्वेषां जायते वश्यो दुर्गहीनस् तथा नृपः ॥पन्च्१।२५५॥
+
+
+तच् छ्रुत्वा भासुरक आह । भद्र दुर्गस्थम् अपि दर्शय तं चौर-सिंहं येन व्यापादयामि । उक्तं च-
+
+
+जात-मात्रं न यः शत्रुं रोगं च प्रशमं नयेत् । महाबलो ऽपि तेनैव वृद्धिं प्राप्य स हन्यते ॥पन्च्१।२५६॥
+
+तथा च-
+
+उत्तिष्ठमानस् तु परो नोपेक्ष्यः पथ्यम् इच्छता । समौ हि शिष्टैर् आम्नातौ वर्त्स्यन्ताव् आमयः स च ॥पन्च्१।२५७॥
+
+अपि च-
+
+उपेक्षितः क्षीण-बलो ऽपि शत्रुः प्रमाद-दोषात् पुरुषैर् मदान्धैः । साध्यो ऽपि भूत्वा प्रथमं ततो ऽसाव्
+
+असाध्यतां व्याधिर् इव प्रयाति ॥पन्च्१।२५८॥
+
+तथा च-
+
+आत्मनः शक्तिम् उद्वीक्ष्य मनोत्साहं च यो व्रजेत् । बहून् हन्ति स एको ऽपि क्षत्रियान् भार्गवो यथा ॥पन्च्१।२५९॥
+
+शशक आह-अस्त्य् एतत् । तथापि बलवान् स मया दृष्टः । तन् न युज्यते स्वामिनस् तस्य तस्य सामर्थ्यम् अविदित्वा गन्तुम् । उक्तं च-
+
+अविदित्वात्मनः शक्तिं परस्य च समुत्सुकः । गच्छन्न् अभिमुखो वह्नौ नाशं याति पतङ्गवत् ॥पन्च्१।२६०॥ यो बलात् प्रोन्नतं याति निहन्तुं सबलो ऽप्य् अरिम् । विमदः स निवर्तेत शीर्ण-दन्तो गजो यथा ॥पन्च्१।२६१॥
+
+भासुरक आह-भोः किं तवानेन व्यापारेण । दर्शय मे तं दुर्गस्थम् अपि ।
+
+
+अथ शशक आह-यद्य् एवं तर्ह्य् आगच्छतु स्वामी । एवम् उक्त्वाग्रे व्यवस्थितः ।
+
+
+ततश् च तेनागच्छता यः कूपो दृष्टो ऽभूत् तम् एव कूपम् आसाद्य भासुरकम् आह-स्वामिन् कस् ते प्रतापं सोढुं समर्थः ? त्वां दृष्ट्वा दूरतो ऽपि चौर-सिंहः प्रविष्टः स्वं दुर्गम् । तद् आगच्छ यथा दर्शयामीति ।  भासुरक आह-दर्शय मे दुर्गम् । तद् अनु दर्शितस् तेन कूपः । ततः सो ऽपि मूर्खः सिंहः कूप-मध्य आत्म-प्रतिबिम्बं जल-मध्य-गतं दृष्ट्वा सिंह-नादं मुमोच । ततः प्रतिशब्देन कूप-मध्याद् द्वि-गुणतरो नादः समुत्थितः ।
+
+
+अथ तेन तं शत्रुं मत्वात्मानं तस्योपरि प्रक्षिप्य प्राणाः परित्यक्ताः । शशको ऽपि हृष्ट-मनाः सर्व-मृगान् आनन्द्य तैः सह प्रशस्यमानो यथा-सुखं तत्र वने निवसति स्म । अतो ऽहं ब्रवीमि-यस्य बुद्धिर् बलं तस्य इति ।
+
+
+
+***********************************************************************  
+
+
+
+तद् यदि भवान् कथयति तत् तत्रैव गत्वा तयोः स्व-बुद्धि-प्रभावेण मैत्री-भेदं करोमि ।
+
+
+करटक आह-भद्र ! यद्य् एवं तर्हि गच्छ । शिवास् ते पन्थानः सन्तु । यथाभिप्रेतम् अनुष्ठीयताम् ।
+
+
+अथ दमनकः सञ्जीवक-वियुक्तं पिङ्गलकम् अवलोक्य तत्रान्तरे प्रणम्याग्रे समुपविष्टः । पिङ्गलको ऽपि तम् आह-भद्र, किं चिराद् दृष्टः ?
+
+
+दमनक आह-न कञ्चिद् देव-पादानाम् अस्माभिः प्रयोजनम् । तेनाहं नागच्छामि । तथापि राज-प्रयोजन-विनाशम् अवलोक्य सन्दह्यमान-हृदयो व्याकुलतया स्वयम् एवाभ्यागतो वक्तुम् । उक्तं च-
+
+
+प्रियं वा यदि वा द्वेष्यं शुभं वा यदि वाशुभम् ।
+
+अपृष्टो ऽपि हितं वक्ष्येद् यस्य नेच्छेत् पराभवम् ॥पन्च्१।२६२॥
+
+
+अथ तस्य साभिप्रायं वचनम् आकर्ण्य पिङ्गलक आह-किं वक्तु-मना भवान् ? तत् कथ्यतां यत् कथनीयम् अस्ति ।
+
+
+स प्राह-देव सञ्जीवको युष्मत्-पादानाम् उपरि द्रोह-बुद्धिर् इति । विश्वास-गतस्य मम विजने इदम् आह-भो दमनक ! दृष्टा मयास्य पिङ्गलकस्य सारासारता । तद् अहम् एनं हत्वा सकल-मृगाधिपत्यं त्वत्-साचिव्य-पदवी-समन्वितं करिष्यामि । पिङ्गलको ऽपि तद्-वज्र-सार-प्रहार-सदृशं दारुणं वचः समाकर्ण्य मोहम् उपगतो न किञ्चिद् अप्य् उक्तवान् । दमनको ऽपि तस्य तम् आकारम् आलोक्य चिन्तितवान्-अयं तावत् सञ्जीवक-निबद्ध-रागः । तन् नूनम् अनेन मन्त्रिणा राजा विनाशम् अवाप्स्यति इति । उक्तं च-
+
+
+एकं भूमि-पतिः करोति सचिवं राज्ये प्रमाणं यदा तं मोहाच् छ्रयते मदः स च मदाद् दास्येन निर्विद्यते ।
+
+निर्विण्णस्य पदं करोति हृदये तस्य स्वतन्त्र-स्पृहा- स्वातन्त्र्य-स्पृहया ततः स नृपतेः प्राणान् अभिद्रुह्यति ॥पन्च्१।२६३॥
+
+तत् किम् अत्र युक्तम् इति । पिङ्गलको ऽपि चेतनां समासाद्य कथम् अपि तम् आह-सञ्जीवकस् तावत् प्राण-समो भृत्यः । स कथं ममोपरि द्रोह-बुद्धिं करोति ।
+
+
+दमनक आह-देव, भृत्यो ऽभृत्य इत्य् अनेकान्तिकम् एतत् । उक्तं च-
+
+
+न सो ऽस्ति पुरुषो राज्ञां यो न कामयते श्रियम् ।
+
+अशक्ता एव सर्वत्र नरेन्द्रं पर्युपासते ॥पन्च्१।२६४॥
+
+
+पिङ्गलक आह-भद्र, तथापि मम तस्योपरि चित्त-वृत्तिर् न विकृतिं याति । अथवा साध्व् इदम् उच्यते-
+
+
+अनेक-दोष-दुष्टस्य कायः कस्य न वल्लभः ।
+
+कुर्वन्न् अपि व्यलीकानि यः प्रियः प्रिय एव सः ॥पन्च्१।२६५॥
+
+
+दमनक आह-अत एवायं दोषः । उक्तं च-
+
+
+यस्मिन्न् एवाधिकं चक्षुर् आरोपयति पार्थिवः ।
+
+अकुलीनः कुलीनो वा स श्रिया भाजनं नरः ॥पन्च्१।२६६॥
+
+
+अपरं केन गण-विशेषेण स्वामी सञ्जीवकं निर्गुणकम् अपि निकटे धारयति । अथ देव, यद्य् एवं चिन्तयसि महा-कायो ऽयम् । अनेन रिपून् व्यापादयिष्यामि । तद् अस्मान् न सिध्यति, यतो ऽयं शष्प-भोजी । देव-पादानां पुनः शत्रवो मांसाशिनः । तद्-रिपु-साधनम् अस्य साहाय्येन न भवति । तस्माद् एनं दूषयित्वा हन्यताम् इति ।
+
+
+पिङ्गलक आह-
+
+उक्तो भवति यः पूर्वं गुणवान् इति संसदि ।
+
+तस्य दोषो न वक्तव्यः प्रतिज्ञा-भङ्ग-भीरुणा ॥पन्च्१।२६७॥
+
+
+अन्यच् च । मयास्य तव वचनेनाभय-प्रदानं दत्तम् । तत् कथं स्वयम् एव व्यापादयामि । सर्वथा सञ्जीवको ऽयं सुहृद् अस्माकम् । न तं प्रति कश्चिन् मन्युर् इति । उक्तं च-
+
+
+इतः स दैत्यः प्राप्त-श्रीर् नेत एवार्हति क्षयम् ।
+
+विष-वृक्षो ऽपि संवर्ध्य स्वयं छेत्तुम् असाम्प्रतम् ॥पन्च्१।२६८॥
+
+
+आदौ न वा प्रणयिनां प्रणयो विधेयो
+
+दत्तो ऽथवा प्रतिदिनं परिपोषणीयः ।
+
+उत्क्षिप्य यत् क्षिपति तत् प्रकरोति लज्जां
+
+भूमौ स्थितस्य पतनाद् भयम् एव नास्ति ॥पन्च्१।२६९॥
+
+
+उपकारिषु यः साधुः साधुत्वे तस्य को गुणः ।
+
+अपकारिषु यः साधुः स साधुः सद्भिर् उच्यते ॥पन्च्१।२७०॥
+
+
+तद्-द्रोह-बुद्धेर् अपि मयास्य न विरुद्धम् आचरणीयम् ।
+
+
+दमनक आह-स्वामिन् ! नैष राज-धर्मो यद् द्रोह-बुद्धिर् अपि क्षम्यते । उक्तं च-
+
+
+तुल्यार्थं तुल्य-सामर्थ्यं मर्मज्ञं व्यवसायिनम् ।
+
+अर्ध-राज्य-हरं भृत्यं यो न हन्यात् स हन्यते ॥पन्च्१।२७१॥
+
+
+अपरं त्वयास्य सखित्वात् सर्वो ऽपि राज-धर्मः परित्यक्तः राज-धर्माभावात् सर्वो ऽपि परिजनो विरक्तिं गतः । यः सञ्जीवकः शष्प-भोजी । भवान् मांसादः । तव प्रकृतयश् च यत् तवावध्यव्यसाय-बाह्यं कुतस् तासां मांसाशनम् । यद्-रहितास् त्वां त्यक्त्वा यास्यन्ति । ततो ऽपि त्वं विनष्ट एव । अस्य सङ्गत्या पुनस् ते न कदाचिद् आखेटके मतिर् भविष्यति । उक्तं च-
+
+यादृशैः सेव्यते भृत्यैर् यादृशांश् चोपसेवते ।
+
+कदाचिन् नात्र सन्देहस् तादृग् भवति पूरुषः ॥पन्च्१।२७२॥
+
+
+तथा च-
+
+सन्तप्तायसि संस्थितस्य पयसो नामापि न ज्ञायते
+
+मुक्त-कारतया तद् एव नलिनी-पत्र-स्थितं राजते ।
+
+स्वातौ सागर-शुक्ति-कुक्षि-पतितं तज् जायते मौक्तिकं
+
+प्रायेणाधम-मध्यमोत्तम-गुणः संवासतो जायते ॥पन्च्१।२७३॥
+
+
+तथा च-
+
+असतां सङ्ग-दोषेण सती याति मतिर् भ्रमम् ।
+
+एक-रात्रि-प्रवासेन काष्ठं मुञ्जे प्रलम्बितम् ॥पन्च्१।२७४॥
+
+
+अत एव सन्तो नीच-सङ्गं वर्जयन्ति । उक्तं च-
+
+
+न ह्य् अविज्ञात-शीलस्य प्रदातव्यः प्रतिश्रयः ।
+
+मत्-कुणस्य च दोषेण हता मन्द-विसर्पिणी ॥पन्च्१।२७५॥
+
+
+पिङ्गलक आह--कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ९
+
+मन्द-विसर्पिणी-नाम-यूका-कथा
+
+
+अस्ति कस्यचिन् महीपतेर् मनोरमं शयन-स्थानम् । तत्र श्वेततर-पट-युगल-मध्य-संस्थिता मन्द-विसर्पिणी यूका प्रतिवसति स्म । सा च तस्य महीपते रक्तम् आस्वादयन्ती सुखेन कालं नयमाना तिष्ठति । अन्ये-द्युश् च तत्र शयने क्वचिद् भ्राम्यन्न् अग्निमुखो नाम मत्कुणः समायातः । अथ तं दृष्ट्वा सा विषण्ण-वदना प्रोवाच । भो ऽग्निमुख कुतस् त्वम् अत्रानुचित-स्थाने समायातः । तद् यावन् न कश्चिद् वेत्ति तावच् छीघ्रं गम्यताम् इति ।
+
+स आह-भगवति गृहागतस्यासाधोर् अपि नैतद् युज्यते वक्तुम् । उक्तं च-
+
+एह्य् आगच्छ समाविशासनम् इदं कस्माच् चिराद् दृश्यसे का वार्तेति सुदुर्बलो ऽसि कुशलं प्रीतो ऽस्मि ते दर्शनात् ।
+
+एवं ये समुपागतान् प्रणयिनः प्रत्यालपन्त्य् आदरात् तेषां युक्तम् अशङ्कितेन मनसा हर्म्याणि गन्तुं सदा ॥पन्च्१।२७६॥
+
+
+अपरं मयानेक-मानुषाणाम् अनेक-विधानि रुधिराण्य् आस्वादितान्य् आहार-दोषात् कटु-तिक्त-कषायाम्ल-रसास्वादानि न च कदाचिन् मधुर-रक्तं समास्वादितम् । तद् यदि त्वं प्रसादं करोषि तद् अस्य नृपतेर् विविध-व्यञ्जनान्न-पान-चोष्य-लेह्य-स्वाद्व्-आहार-वशाद् अस्य शरीरे यन् मिष्टं रक्तं संजातं तद्-आस्वादनेन सौख्यं सम्पादयामि जिह्वाया इति । उक्तं च-
+
+रङ्कस्य नृपतेर् वापि जिह्वा-सौख्यं समं स्मृतम् । तन्-मात्रं च स्मृतं सारं तद्-अर्थं यतते जनः ॥पन्च्१।२७७॥
+
+यद्य् एव न भवेल् लोके कर्म जिह्वा-प्रतुष्टिदम् । तन् न भृत्यो भवेत् कश्चित् कस्यचिद् वशगो ऽथ वा ॥पन्च्१।२७८॥ यद् असत्यं वदेन् मर्त्यो यद् वासेव्यं च सेवते । यद् गच्छति विदेशं च तत् सर्वम् उदरार्थतः ॥पन्च्१।२७९॥
+
+तन् मया गृहागतेन बुभुक्षया पीड्यमानेनापि त्वत्-सकाशाद् भोजनम् अर्थनीयम् । तन् न त्वयैकाकिन्यास्य भूपते रक्त-भोजनं कर्तुं युज्यते ।
+
+
+तच् छ्रुत्वा मन्दविसर्पिण्य् आह-भो मत्कुण ! अस्य नृपतेर् निद्रा-वशं गतस्य रक्तम् आस्वादयामि ।
+
+
+पुनस् त्वम् अग्निमुखश् चपलश् च-तद् यदि मया सह रक्त-पानं करोषि तत् तिष्ठ । अभीष्टतर-रक्तम् आस्वादय ।
+
+सो ऽब्रवीत्-भगवत्य् एवं करिष्यामि । यावत् त्वं नास्वादयसि प्रथमं नृप-रक्तं तावन् मम देव-गुरु-कृतः शपथः स्याद् यदि तद् आस्वादयामि ।
+
+एवं तयोः परस्परं वदतोः स राजा तच्-छयनम् आसाद्य प्रसुप्तः । अथासौ मत्कुणो जिह्वा-लौल्योत्कृष्टौत्सुक्याज् जाग्रतम् अपि तं मही-पतिम् अदशत् । अथ वा साध्व् इदम् उच्यते ।
+
+स्वभावो नोपदेशेन शक्यते कर्तुम् अन्यथा । सुतप्तम् अपि पानीयं पुनर् गच्छति शीतताम् ॥पन्च्१।२८०॥ यदि स्याच् छीतलो वह्निः शीतांशुर् दहनात्मकः । न स्वभावो ऽत्र मर्त्यानां शक्यते कर्तुम् अन्यथा ॥पन्च्१।२८१॥
+
+अथासौ महीपतिः सूच्य्-अग्र-विद्ध इव तच्-छयनं त्यक्त्वा तत्-क्षणाद् एवोत्थितः । अहो ज्ञायताम् अत्र प्रच्छादन-पटे मत्कुणो यूका वा नूनं तिष्ठति येनाहं दष्ट इति । अथ ये कञ्चुकिनस् तत्र स्थितास् ते सत्वरं प्रच्छादन-पटं गृहीत्वा सूक्ष्म-दृष्ट्या वीक्षां चक्रुः । अत्रान्तरे स मत्कुणश् चापल्यात् खट्वान्तं प्रविष्टः सा मन्दविसर्पिण्य् अपि वस्त्र-सन्ध्य्-अन्तर्-गता तैर् दृष्टा व्यापादिता च । अतो ऽहं ब्रवीमि-न ह्य् अविज्ञात-शीलस्य इति ।
+
+
+
+***********************************************************************  
+
+
+
+एवं ज्ञात्वा त्वयिष वध्यः । नो चेत् त्वां व्यापादयिष्यतीति । उक्तं च-
+
+
+त्यक्ताश् चाभ्यन्तरा येन बाह्याश् चाभ्यन्तरीकृताः ।
+
+स एव मृत्युम् आप्नोति यथा राजा ककुद्-द्रुमः ॥पन्च्१।२८२॥
+
+
+पिङ्गलक आह--कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा १०
+
+चण्डरव-नाम-शृगाल-कथा
+
+
+अस्ति कस्मिंश्चिद् वनोद्देशे चण्डरवो नाम शृगालः प्रतिवसति स्म । स कदाचित् क्षुधाविष्टो जिह्वा-लौल्यान् नगर-मध्ये प्रविष्टः । अथ तं नगर-वासिनः सारमेया अवलोक्य सर्वतः शब्दायमानाः परिधाव्य तीक्ष्ण-दंष्टृआग्रैर् भक्षितुम् आरब्धाः । सो ऽपि तैर् भक्ष्यमाणः प्राण-भयात् प्रत्यासन्न-रजक-गृहं प्रविष्टः । तत्र नीली-रस-परिपूर्णं महा-भाण्डम् सज्जीकृतम् आसीत् । तत्र सारमेयैर् आक्रान्तो भाण्ड-मध्ये पतितः । अथ यावन् निष्क्रान्तस् तावन् नीली-वर्णः सञ्जातः । तत्रापरे सारमेयास् तं शृगालम् अजानन्तो यथाभीष्ट-दिशं जग्मुः । चण्डरवो ऽपि दूरतरं प्रदेशम् आसाद्य काननाभिमुखं प्रतस्थे । न च नील-वर्णेन कदाचिन् निज-रङ्गस् त्यज्यते । उक्तं
+
+च-
+
+
+वज्र-लेपस्य मूर्खस्य नारीणां कर्कटस्य च । एको ग्रहस् तु मीनानां नीलीमद्यपयोर् यथा ॥पन्च्१।२८३॥
+
+अथ तं हर-गल-गरल-तमाल-सम-प्रभम् अपूर्वं सत्त्वम् अवलोक्य सर्वे सिंह-व्याघ्र-द्वीपि-वृक-प्रभृतयो ऽरण्य-निवासिनो भय-व्याकुलित-चित्ताः समन्तात् पलायन-क्रियां कुर्वन्ति । कथयन्ति च-न ज्ञायतेऽस्य कीदृग् विचेष्टितं पौरुषं च । तद् दूरतरं गच्छामः । उक्तं च-
+
+
+न यस्य चेष्टितं विद्यान् न कुलं न पराक्रमम् ।
+
+न तस्य विश्वसेत् प्राज्ञो यदीच्छेच् छ्रियम् आत्मनः ॥पन्च्१।२८४॥
+
+चण्डरवो ऽपि भय-व्याकुलितान् विज्ञायेदम् आह-भो भोः श्वापदाः ! किं यूयं मां दृष्ट्वैव संत्रस्ता व्रजथ । तन् न भेतव्यम् । अहं ब्रह्मणाद्य स्वयम् एव सृष्ट्वाभिहितः-यच् छ्वापदानां कश्चिद् राजा नास्ति, तत् त्वं मयाद्य सर्व-श्वापद-प्रभुत्वेऽभिषिक्तः ककुद्-द्रुमाभिधः । ततो गत्वा क्षिति-तले तान् सर्वान् परिपालयेति । ततो ऽहम् अत्रागतः । तन् मम च्छत्र-च्छायायां सर्वैर् अपि श्वापदैर् वर्तितव्यम् । अहं ककुद्द्रुमो नाम राजा त्रैलोक्येऽपि सञ्जातः ।
+
+
+तच् छ्रुत्वा सिंह-व्याघ्र-पुरः-सराः श्वापदाः स्वामिन् प्रभो समादिशेति वदन्तस् तं परिवव्रुः । अथ तेन सिंहस्यामात्य-पदवी प्रदत्ता । व्याघ्रस्य शय्या-पालकत्वम् । द्वीपिनस् ताम्बूलाधिकारः । वृकस्य द्वार-पालकत्वम् । ये चात्मीयाः शृगालास् तैः सहालाप-मात्रम् अपि न करोति । शृगालाः सर्वेऽप्य् अधर्म-चन्द्रं दत्त्वा निःसारिताः । एवं तस्य राज्य-क्रिययां वर्तमानस्य ते सिंहादयो मृगान् व्यापाद्य तत्-पुरतः प्रक्षिपन्ति । सो ऽपि प्रभु-धर्मेण सर्वेषां तान् प्रविभज्य प्रयच्छति ।
+
+
+एवं गच्छति काले कदाचित् तेन समागतेन दूर-देशे शब्दायमानस्य शृगाल-वृन्दस्य कोलाहलो ऽश्रावि । तं शब्दं श्रुत्वा पुलकित-तनुर् आनन्दाश्रु-पूर्ण-नयन उत्थाय  तार-स्वरेण विरोतुम् आरब्धवान् । अथ ते सिंहादयस् तं तार-स्वरम् आकर्ण्य शृगालो ऽयम् इति मत्वा लज्जायाधो-मुखाः क्षणं स्थित्वा प्रोचुः-भोः ! वाहिता वयम् अनेन क्षुद्र-शृगालेन । तद् वध्यताम् इति ।
+
+
+सो ऽपि तद् आकर्ण्य पलायितुम् इच्छंस् तत्र स्थान एव सिंहादिभिः खण्डशः कृतो मृतश् च ।
+
+
+अतो ऽहं ब्रवीमि-त्यक्ताश् चाभ्यन्तरा येन इति ।
+
+
+
+***********************************************************************  
+
+
+
+तद् आकर्ण्य पिङ्गलक आह-भो दमनक ! कः प्रत्ययो ऽत्र विषये यत् स ममोपरि दुष्ट-बुद्धिः ।
+
+
+स आह-यद् अद्य ममाग्रे तेन निश्चयः कृतो यत् प्रभाते पिङ्गलकं वधिष्यामि । तद् अत्रैव प्रत्ययः । प्रभातेऽवसर-वेलायाम् आरक्त-मुख-नयनः स्फुरिताधरो दिशो ऽवलोकयन्न् अनुचित-स्थानोपविष्टस् त्वां क्रूर-दृष्ट्या विलोकयिष्यति । एवं ज्ञात्वा यद् उचितं तत् कर्तव्यम् । इति कथयित्वा सञ्जीवक-सकाशं गतस् तं प्रणम्योपविष्टः । सञ्जीवको ऽपि सोद्वेगाकारं मन्द-गत्या समायान्तं तम् उद्वीक्ष्य सादरतरम् उवाच-भो मित्र ! स्वागतम् । चिराद् दृष्टो ऽसि । अपि शिवं भवतः । तत् कथय येनादेयम् अपि तुभ्यं गृहागताय प्रयच्छामि । उक्तं च-
+
+
+ते धन्यास् ते विवेक-ज्ञास् ते सभ्या इह भूतले ।
+
+आगच्छन्ति गृहे येषां कार्यार्थं सुहृदो जनाः ॥पन्च्१।२८५॥
+
+
+दमनक आह-भोः ! कथं शिवं सेवक-जनस्य ।
+
+
+सम्पत्तयः परायत्ताः सदा चित्तम् अनिर्वृतम् ।
+
+स्व-जीवितेऽप्य् अविश्वासस् तेषां ये राज-सेवकाः ॥पन्च्१।२८६॥
+
+
+तथा च-
+
+सेवया धनम् इच्छद्भिः सेवकैः पश्य यत् कृतम् ।
+
+स्वातन्त्र्यं यच् छरीरस्य मूढैस् तद् अपि हारितम् ॥पन्च्१।२८७॥
+
+तावज् जन्माति-दुःखाय ततो दुर्गतता सदा ।
+
+तत्रापि सेवया वृत्तिर् अहो दुःख-परम्परा ॥पन्च्१।२८८॥
+
+जीवन्तो ऽपि मृताः पञ्च श्रूयन्ते किल भारते ।
+
+दरिद्रो व्याधितो मूर्खः प्रवासी नित्य-सेवकः ॥पन्च्१।२८९॥
+
+नाश्नाति स्वच्छयोत्सुक्याद् विनिद्रो न प्रबुध्यते ।
+
+न निःशङ्कं वचो ब्रूते सेवको ऽप्य् अत्र जीवति ॥पन्च्१।२९०॥
+
+सेवा श्व-वृत्तिर् आख्याता यैस् तैर् मिथ्या प्रजल्पितम् ।
+
+स्वच्छन्दं चरति स्वात्र सेवकः पर-शासनात् ॥पन्च्१।२९१॥
+
+भू-शय्या ब्रह्मचर्यं च कृशत्वं लघु-भोजनम् ।
+
+सेवकस्य यतेर् यद्वद् विशेषः पाप-धर्मजः ॥पन्च्१।२९२॥
+
+शीतातपादि-कष्टानि सहते यानि सेवकः ।
+
+धनाय तानि चाल्पानि यदि धर्मान् न मुच्यते ॥पन्च्१।२९३॥
+
+मृदुनापि सुवृत्तेन सुश्लिष्टेनापि हारिणा ।
+
+मोदकेनापि किं तेन निष्पत्तिर् यस्य सेवया ॥पन्च्१।२९४॥
+
+
+सञ्जीवक आह-अथ भवान् किं वक्तु-मनाः ?
+
+
+सो ऽब्रवीत्-मित्र, सचिवानां मन्त्र-भेदं न युज्यते । उक्तं च-
+
+
+यो मन्त्रं स्वामिनो भिद्यात् साचिव्ये सन्-नियोजितः ।
+
+स हत्वा नृप-कार्यं तत् स्वयं च नरकं व्रजेत् ॥पन्च्१।२९५॥
+
+येन यस्य कृतो भेदः सचिवेन महीपतेः ।
+
+तेनाशस्त्र-वधस् तस्य कृत इत्य् आह नारदः ॥पन्च्१।२९६॥
+
+
+तथापि मया तव स्नेह-पाश-बद्धेन मन्त्र-भेदः कृतः । यतस् त्वं मम वचनेनात्र राज-कुले विश्वस्तः प्रविष्टश् च । उक्तं च-
+
+
+विश्रम्भाद् यस्य यो मृत्युम् अवाप्नोति कथञ्चन ।
+
+तस्य हत्या तद्-उत्था सा प्राहेदं वचनं मनुः ॥पन्च्१।२९७॥
+
+
+तत् तवोपरि पिङ्गलको ऽयं दुष्ट-बुद्धिः कथितं चाद्यानेन मत्-पुरतश् चतुष्कर्णतया-यत् प्रभाते सञ्जीवकं हत्वा समस्त-मृग-परिवारं चिरात् तृप्तिं नेष्यामि ।
+
+
+ततः स मयोक्तः-स्वामिन् ! न युक्तम् इदं यन् मित्र-द्रोहेण जीवनं क्रियते । उक्तं च-
+
+अपि ब्रह्म-वधं कृत्वा प्रायश्चित्तेन शुध्यति ।
+
+तद्-अर्थेन विचीर्णेन न कथञ्चित् सुहृद्-द्रुहः ॥पन्च्१।२९८॥
+
+
+ततस् तेनाहं समर्षेणोक्तः-भो दुष्ट-बुद्धे, सञ्जीवकस् तावच् छष्प-भोजी, वयं मांसाशिनः । तद् अस्माकं स्वाभाविकं वैरम् इति कथं रिपुर् उपेक्ष्यते ? तस्मात् सामादिभिर् उपायैर् हन्यते । न च हते तस्मिन् दोषः स्यात् । उक्तं च-
+
+
+दत्त्वापि कन्यकां वैरी निहन्तव्यो विपश्चिता ।
+
+अन्योपायैर् अशक्यो यो हते दोषो न विद्यते ॥पन्च्१।२९९॥
+
+कृत्याकृत्यं न मन्येत क्षत्रियो युधि सङ्गतः ।
+
+प्रसुप्तो द्रोण-पुत्रेण धृष्टद्युम्नः पुरा हतः ॥पन्च्१।३००॥
+
+
+तद् अहं तस्य निश्चयं ज्ञात्वा त्वत्-सकाशम् इहागतः । साम्प्रतं मे नास्ति विश्वास-घातक-दोषः । मया सुगुप्त-मन्त्रस् तव निवेदितः । अथ यत् ते प्रतिभाति तत् कुरुष्व इति । अथ सञ्जीवकस् तस्य तद्वज्र-पात-दारुणं वचनं श्रुत्वा मोहम् उपगतः । अथ चेतनां लब्ध्वा स-वैराग्यम् इदम् आह-भो साध्व् इदम् उच्यते-
+
+
+दुर्जन-गम्या नार्यः प्रायेणास्नेहवान् भवति राजा ।
+
+कृपणानुसारि च धनं मेघो गिरि-दुर्ग-वर्षी च ॥पन्च्१।३०१॥
+
+अहं हि संमतो राज्ञो य एवं मन्यते कुधीः ।
+
+बलीवर्दः स विज्ञेयो विषाण-परिवर्जितः ॥पन्च्१।३०२॥
+
+वरं वनं वरं भैक्षं वरं भारोपजीवनम् ।
+
+वरं व्याधिर् मनुष्याणां नाधिकारेण सम्पदः ॥पन्च्१।३०३॥
+
+
+तद् युक्तं मया कृतं तद् अनेन सह मैत्री विहिता । उक्तं च-
+
+
+ययोर् एव समं वित्तं ययोर् एव समं कुलम् ।
+
+तयोर् मैत्री विवाहश् च न तु पुष्ट-विपुष्टयोः ॥पन्च्१।३०४॥
+
+
+तथा च-
+
+मृगा मृगैः सङ्गम् अनुव्रजन्ति
+
+गावश् च गोभिस् तुरगास् तुरगैः ।
+
+मूर्खाश् च मूर्खैः सुधियः
+
+सुधीभिः समान-शील-व्यसनेन सख्यम् ॥पन्च्१।३०५॥
+
+
+तद् यदि गत्वा तं प्रसादयामि, तथापि न प्रसादं यास्यति । उक्तं च-
+
+
+निमित्तम् उद्दिश्य हि यः प्रकुप्यति
+
+ध्रुवं स तस्यापगमे प्रशाम्यति ।
+
+अकारण-द्वेष-परो हि यो भवेत्
+
+कथं नरस् तं परितोषयति ॥पन्च्१।३०६॥
+
+
+अहो साधु चेदम् उच्यते-
+
+भक्तानाम् उपकारिणां पर-हित-व्यापार-युक्तात्मनां
+
+सेवा-संव्यवहार-तत्त्व-विदुषां द्रोह-च्युतानाम् अपि ।
+
+व्यापत्तिः स्खलितान्तरेषु नियता सिद्धिर् भवेद् वा न वा
+
+तस्माद् अम्बुपतेर् इवावनि-पतेः सेवा सदा शङ्किनी ॥पन्च्१।३०७॥
+
+
+तथा च-
+
+भाव-स्निग्धैर् उपकृतम् अपि द्वेष्यतां याति लोके
+
+साक्षाद् अन्यैर् अपकृतम् अपि प्रीतये चोपयाति ।
+
+दुर्ग्राह्यत्वान् नृपति-मनसां नैक-भावाश्रयाणां
+
+सेवा-धर्मः परम-गहनो योगिनाम् अप्य् अगम्यः ॥पन्च्१।३०८॥
+
+
+तत् परिज्ञातं मया मत्-प्रसादम् असहमानैः समीपवर्तिभिर् एष पिङ्गलकः प्रकोपितः । तेनायं ममादोषस्याप्य् एवं वदति । उक्तं च-
+
+
+प्रभोः प्रसादम् अन्यस्य न सहन्तीह सेवकाः ।
+
+सपत्न्य इव सङ्क्रुद्धाः सपत्न्याः सुकृतैर् अपि ॥पन्च्१।३०९॥
+
+
+भवति चैवं यद् गुणवत्सु समीप-वर्तिषु गुण-हीनानां न प्रसादो भवति । उक्तं च-
+
+
+गुणवत्तर-पात्रेण छाद्यन्ते गुणिनां गुणाः ।
+
+रात्रौ दीप-शिखा-कान्तिर् न भानाव् उदिते सति ॥पन्च्१।३१०॥
+
+
+दमनक आह-भो मित्र ! यद्य् एवं तन् नास्ति ते भयम् । प्रकोपितो ऽपि स दुर्जनैस् तव वचन-रचनया प्रसादं यास्यति ।
+
+
+स आह-भोः ! न युक्तम् उक्तं भवता । लघूनाम् अपि दुर्जनानां मध्ये वस्तुं न शक्यते । उपायान्तरं विधाय ते नूनं घ्नन्ति । उक्तं च-
+
+
+बहवः पण्डिताः क्षुद्राः सर्वे मायोपजीविनः ।
+
+कुर्युः कृत्यम् अकृत्यं वा उष्ट्रे काकादयो यथा ॥पन्च्१।३११॥
+
+
+दमक आह--कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ११
+
+मदोत्कट-सिंह-कथा
+
+
+अस्ति कस्मिंश्चिद् वनोद्देशे मदोत्कटो नाम सिंहः प्रतिवस ति स्म । तस्य चानुचरा अन्ये द्वीपि-वायस-गोमायवः सन्ति । अथ कदाचित् तैर् इतस् ततो भ्रमद्भिः सार्थाद् भ्रष्टः क्रथनको नामोष्त्रो दृष्टः । अथ सिंह आह-अहो अपूर्वम् इदं सत्त्वम् । तज् ज्ञायतां किम् एतद् आरण्यकं ग्राम्यं वेति ।
+
+
+तच् छ्रुत्वा वायस आह-भोः स्वामिन् ! ग्राम्यो ऽयम् उष्ट्र-नामा जीव-विशेषस् तव भोज्यः । तद् व्यापाद्यताम् ।
+
+सिंह आह-नाहं गृहम् आगतं हन्मि । उक्तं च-
+
+गृहं शत्रुम् अपि प्राप्तं विश्वस्तम् अकुतोभयम् । यो हन्यात् तस्य पापं स्याच् छतब्राह्मणघातजम् ॥पन्च्१।३१२॥
+
+तद् अभय-प्रदानं दत्त्वा मत्-सकाशम् आनीयतां येनास्यागम-कारणं पृच्छामि ।
+
+
+अथासौ सर्वैर् अपि विश्वास्याभय-प्रदानं दत्त्वा मदोत्कट-सकाशम् आनीतः प्रणम्योपविष्टश् च । ततस् तस्य पृच्छतस् तेनात्म-वृत्तान्तः सार्थ-भ्रंश-समुद्भवो निवेदितः । ततः सिंहेनोक्तम्-भोः क्रथनक ! मा त्वं ग्रामं गत्वा भूयो ऽपि भारोद्वहन-कष्ट-भागी भूयाः । तद् अत्रैवारण्ये निर्विशङ्को मरकत-सदृशानि शष्पाग्राणि भक्षयन् मया सह सदैव वस । सो ऽपि तथेत्य् उक्त्वा तेषां मध्ये विचरन् न कुतो ऽपि भयम् इति सुखेनास्ते ।
+
+
+तथान्येद्युर् मदोत्कटस्य महा-गजेनारण्य-चारिणा सह युद्धम् अभवत् । ततस् तस्य दन्त-मुसल-प्रहारैर् व्यथा सञ्जाता । व्यथितः कथम् अपि प्राणैर् न वियुक्तः । अथ शरीरासामर्थ्यान् न कुत्रचित् पदम् अपि चलितुं शक्नोति । ते सर्वे काकादयो ऽप्य् अप्रभुत्वेन क्षुधाविष्टाः परं दुःखं भेजुः ।
+
+अथ तान् सिंहः प्राह-भोः ! अन्विष्यतां कुत्रचित् किंचित् सत्त्वं येनाहम् एताम् अपि दशां प्राप्तस् तद् धत्वा युष्मद्-भोजनं सम्पादयामि ।
+
+
+अथ ते चत्वारो ऽपि भ्रमितुम् आरब्धा यावन् न किंचित् सत्त्वं पश्यन्ति तावद् वायस-शृगालौ परस्परं मन्त्रयतः । शृगाल आह-भो वायस ! किं प्रभूत-भ्रान्तेन । अयम् अस्माकं प्रभोः क्रथनको विश्वस्तस् तिष्ठति । तद् एनं हत्वा प्राण-यात्रां कुर्मः ।
+
+वायस आह-युक्तम् उक्तं भवता । परं स्वामिना तस्याभय-प्रदानं दत्तम् आस्ते न वध्यो ऽयम् इति ।
+
+
+शृगाल आह-भो वायस ! अहं स्वामिनं विज्ञाप्य तथा करिष्ये यथा स्वामी वधं करिष्यति । तत् तिष्ठन्तु भवन्तो ऽत्रैव, यावद् अहं गृहं गत्वा प्रभोर् आज्ञां गृहीत्वा चागच्छामि ।
+
+
+एवम् अभिधाय सत्वरं सिंहम् उद्दिश्य प्रस्थितः । अथ सिंहम् आसाद्येदम् आह-स्वामिन् ! समस्तं वनं भ्रान्त्वा वयम् आगताः । न किंचित् सत्त्वम् आसादितम् । तत् किं कुर्मो वयम् । सम्प्रति वयं बुभुक्षया पदम् एकम् अपि प्रचलितुं न शक्नुमः । देवो ऽपि पथ्याशी वर्तते । तद् यदि देवादेशो भवति तत् क्रथनक-पिशितेनाद्य पथ्य-क्रिया क्रियते ।
+
+
+अथ सिंहस् तस्य तद् दारुणं वचनम् आकर्ण्य स-कोपम् इदम् आह-धिक् पापाधम ! यद्य् एवं भूयो ऽपि वदसि । ततस् त्वां तत्-क्षणम् एव वधिष्यामि । ततो मया तस्याभयं प्रदत्तम् । तत् कथं व्यापादयामि । उक्तं च-
+
+
+न गो-प्रदानं न मही-प्रदानं
+
+न चान्न-दानं हि तथा प्रधानम् । यथा वदन्तीह बुधाः प्रधानं
+
+सर्व-प्रदानेष्व् अभय-प्रदानम् ॥पन्च्१।३१३॥
+
+तच् छ्रुत्वा शृगाल आह-स्वामिन् यद्य् अभयप्रदानं दत्त्वा वधः क्रियते तद् एष दोषो भवति । पुनर् यदि देवपादानां भक्त्या सात्मनो जीवितव्यं प्रयच्छति तन् न दोषः ।
+
+ततो यदि स स्वयम् एवात्मानं वधाय नियोजयति तद् वध्यो ऽन्यथास्माकं मध्याद् एकतमो वध्य इति यतो देवपादाः पथ्याशिनः क्षुन्निरोधाद् अन्त्यां दशां यास्यन्ति ।
+
+तत् किम् एतैः प्राणैर् अस्माकं ये स्वाम्यर्थे न यास्यन्ति । अपरं पश्चाद् अप्य् अस्माभिर् वह्नि-प्रवेशः कार्यो यदि स्वामि-पादानां किंचिद् अनिष्टं भविष्यति । उक्तं च-
+
+यस्मिन् कुले यः पुरुषः प्रधानः
+
+स सर्व-यत्नैः परिरक्षणीयः । तस्मिन् विनष्टे स्व-कुलं विनष्टं
+
+न नाभि-भङ्गे ह्य् अरका वहन्ति ॥पन्च्१।३१४॥
+
+
+तद् आकर्ण्य मदोत्कट आह-यद्य् एवं तत् कुरुष्व यद् रोचते ।
+
+
+तच् छ्रुत्वा स सत्वरं गत्वा तान् आह-भोः ! स्वामिनो महत्य् अवस्था वर्तते । तत् किं पर्यटितेन ? तेन विना को ऽत्रास्मान् रक्षयिष्यति ? तद् गत्वा तस्य क्षुद्-रोगात् पर-लोकं प्रस्थितस्यात्म-शरीर-दानं कुर्मो येन स्वामि-प्रसादस्य अनृणतां गच्छामः । उक्तं च-
+
+आपदं प्राप्नुयात् स्वामी यस्य भृत्यस्य पश्यतः ।
+
+प्राणेषु विद्यमानेषु स भृत्यो नरकं व्रजेत् ॥पन्च्१।३१५॥
+
+
+तद्-अनन्तरं ते सर्वे बाष्प-पूरित-दृशो मदोत्कटं प्रणम्योपविष्टाः । तान् दृष्ट्वा मदोत्कट आह-भोः ! प्राप्तं दृष्टं वा किंचित् सत्त्वम् ।
+
+अथ तेषां मध्यात् काकः प्रोवाच-स्वामिन् ! वयं तावत् सर्वत्र पर्यटिताः परं न किंचित् सत्त्वम् आसादितं दृष्टं वा । तद् अद्य मां भक्षयित्वा प्राणान् धारयतु स्वामी, येन देवस्याश्वासनं भवति मम पुनः स्वर्ग-प्राप्तिर् इति । उक्तं च-
+
+
+स्वाम्य्-अर्थे यस् त्यजेत् प्राणान् भृत्यो भक्ति-समन्वितः । स परं पदम् आप्नोति जरा-मरण-वर्जितम् ॥पन्च्१।३१६॥
+
+तच् छ्रुत्वा शृगाल आह-भोः ! स्वल्प-कायो भवान् । तव भक्षणात् स्वामिनस् तावत् प्राण-यात्रा न भवति । अपरो दोषश् च तावत् समुत्पद्यते । उक्तं च-
+
+काक-मांसं तथोच्छिष्टं स्तोकं तद् अपि दुर्बलम् ।
+
+भक्षितेनापि किं तेन येन तृप्तिर् न जायते ॥पन्च्१।३१७॥
+
+
+तद् दर्षिता स्वामि-भक्तिर् भवता गतं च आनृण्यं भर्तृ-पिण्डस्य प्राप्तश् चोभय-लोके साधु-वादः । तद् अपसराग्रतः । अहं स्वामिनं विज्ञापयामि । तथानुष्ठिते शृगालः सादरं प्रणम्योपविष्टः प्राह-स्वामिन् ! मां भक्षयित्वाद्य प्राण-यात्रां विधाय ममोभय-लोक-प्राप्तिं कुरु । उक्तं च-
+
+
+स्वाम्य्-आयत्ताः सदा प्राणा भृत्यानाम् अर्जिता धनैः । यतस् ततो न दोषो ऽस्ति तेषां ग्रहण-सम्भवः ॥पन्च्१।३१८॥
+
+अथ तच् छ्रुत्वा द्वीप्य् आह-भोः साधूक्तं भवता पुनर् भवान् अपि स्वल्प-कायः स्व-जातिश् च नखायुधत्वाद् अभक्ष्य एव । उक्तं च-
+
+नाभक्ष्यं भक्षयेत् प्राज्ञः प्राणैः कण्ठ-गतैर् अपि । विशेषात् तद् अपि स्तोकं लोक-द्वय-विनाशकम् ॥पन्च्१।३१९॥
+
+तद् दर्शितं त्वयात्मनः कौलीन्यम् । अथ वा साधु चेदम् उच्यते-
+
+एतद्-अर्थं कुलीनानां नृपाः कुर्वन्ति सङ्ग्रहम् । आदि-मध्यावसानेषु न ते गच्छन्ति विक्रियाम् ॥पन्च्१।३२०॥
+
+तद् अपसराग्रतः, येनाहं स्वामिनं विज्ञापयामि । तथानुष्ठिते द्वीपी प्रणम्य मदोत्कटम् आह-स्वामिन् ! क्रियताम् अद्य मम प्राणैः प्राण-यात्रा । दीयताम् अक्षयो वासः स्वर्गे । मम विस्तार्यतां क्षिति-तले प्रभूतं यशः । तन् नात्र विस्मयः कार्यः । उक्तं च-
+
+मृतानां स्वामिनः कार्ये भृत्यानाम् अनुवर्तिनाम् । भवेत् स्वर्गे अक्षयो वासः कीर्तिश् च धरणी-तले ॥पन्च्१।३२१॥
+
+तच् छ्रुत्वा क्रथनकश् चिन्तयामास-एतैस् तावत् सर्वैर् अपि शोभा-वाक्यान्य् उक्तानि न चैको ऽपि स्वामिना विनाशितः । तद् अहम् अपि प्राप्त-कालं वक्ष्यामि चित्रकं येन मद्-वचनम् एते त्रयो ऽपि समर्थयन्ति । इति निश्चित्य प्रोवाच-भोः सत्यम् उक्तं भवता परं भवान् अपि नखायुधः । तत् कथं भवन्तं स्वामी भक्षयति । उक्तं च-
+
+मनसापि स्वजात्यानां यो ऽनिष्टानि प्रचिन्तयेत् । भवन्ति तस्य तान्य् एव इह लोके परत्र च ॥पन्च्१।३२२॥
+
+तद् अपसराग्रतः, येनाहं स्वामिनं विज्ञापयामि । तथानुष्ठिते क्रथनको ऽग्रे स्थित्वा प्रणम्योवाच-स्वामिन् ! एतेऽभक्ष्यास् तव तन् मम प्राणैः प्राण-यात्रा विधीयतां येन ममोभय-लोक-प्राप्तिर् भवति । उक्तं च-
+
+
+न यज्वानो ऽपि गच्छन्ति तां गतिं नैव योगिनः । यां यान्ति प्रोज्झित-प्राणाः स्वाम्य्-अर्थे सेवकोत्तमाः ॥पन्च्१।३२३॥
+
+एवम् अभिहिते ताभ्यां शृगाल-चित्रकाभ्यां विदारितोभय-कुक्षिः क्रथनकः प्राणान् अत्याक्षीत् । ततश् च तैः क्षुद्र-पण्डितैः सर्वैर् भक्षितः ।
+
+
+अतो ऽहं ब्रवीमि-बहवः पण्डिताः क्षुद्राः इति ।
+
+
+
+***********************************************************************  
+
+
+
+तद् भद्र, क्षुद्र-परिवारो ऽयं ते राजा मया सम्यग् जातः । सताम् असेव्यं च । उक्तं च-
+
+
+अशुद्ध-प्रकृतौ राज्ञि जनता नानुरज्यते ।
+
+यथा गृध्र-समासन्नः कलहंसः समाचरेत् ॥पन्च्१।३२४॥
+
+तथा च-
+
+गृध्राकारो ऽपि सेव्यः स्याद् धंसाकारैः सभासदैः ।
+
+हंसाकारो ऽपि सन्त्याज्यो गृध्राकारैः स तैर् नृपः ॥पन्च्१।३२५॥
+
+
+तन् नूनं ममोपरि केनचिद् दुर्जनेनायं प्रकोपितः, तेनैवं वदति । अथवा भवत्य् एतत् । उक्तं च-
+
+
+मृदुना सलिलेन खन्यमा
+
+नान्यवद् धृष्यन्ति गिरेर् अपि स्थलानि ।
+
+उपजापविदां च कर्ण-जापैः
+
+किम् उ चेतांसि मृदूनि मानवानाम् ॥पन्च्१।३२६॥
+
+
+कर्ण-विषेण च भग्नः किं किं न करोति बालिशो लोकः ।
+
+क्षपणकताम् अपि धत्ते पिबति सुरां नरक-पालेन ॥पन्च्१।३२७॥
+
+
+अथवा साध्व् इदम् उच्यते-
+
+
+पादाहतो ऽपि दृढ-दण्ड-समाहतो ऽपि
+
+यं दंष्ट्रया स्पृशति तं किल हन्ति सर्पः ।
+
+को ऽप्य् एष एव पिशुनोग्र-मनुष्य-धर्मः
+
+कर्णे परं स्पृशति हन्ति परं समूलम् ॥पन्च्१।३२८॥
+
+
+तथा च-
+
+अहो खल-भुजङ्गस्य विपरीतो वध-क्रमः ।
+
+कर्णे लगति चान्यस्य प्राणैर् अन्यो वियुज्यते ॥पन्च्१।३२९॥
+
+
+तद् एवं गतेऽपि किं कर्तव्यम् इत्य् अहं त्वां सुहृद्-भावात् पृच्छामि ।
+
+
+दमनक आह-तद्-देशान्तर-गमनं युज्यते । नैवं-विधस्य कुस्वामिनः सेवां विधातुम् । उक्तं च-
+
+
+गुरोर् अप्य् अवलिप्तस्य कार्याकार्यम् अजानतः ।
+
+उत्पथ-प्रतिपन्नस्य परित्यागो विधीयते ॥पन्च्१।३३०॥
+
+
+सञ्जीवक आह-अस्माकम् उपरि स्वामिनि कुपिते गन्तुं न शक्यते, न चान्यत्र गतानाम् अपि निर्वृतिर् भवति । उक्तं च-
+
+
+महतां यो ऽपराध्येन दूरस्थो ऽस्मीति नाश्वसेत् ।
+
+दीर्घौ बुद्धिमतो बाहू ताभ्यां हिंसति हिंसकम् ॥पन्च्१।३३१॥
+
+
+तद् युद्धं मुक्त्वा मे नान्यद् असित् श्रेयस्करम् । उक्तं च-
+
+
+न तान् हि तीर्थैस् तपसा च लोकान्
+
+स्वर्गैषिणो दान-शतैः सुवृत्तैः ।
+
+क्षणेन यान् यान्ति रणेषु धीराः
+
+प्राणान् समुज्झन्ति हि ये सुशीलाः ॥पन्च्१।३३२॥
+
+
+मृतैः सम्प्राप्यते स्वर्गो जीवद्भिः कीर्तिर् उत्तमा ।
+
+तद् उभाव् अपि शूराणां गुणाव् एतौ सुदुर्लभौ ॥पन्च्१।३३३॥
+
+
+ललाट-देशे रुधिरं स्रवत् तु
+
+शूरस्य यस्य प्रविशेच् च वक्त्रे ।
+
+तत् सोमपानेन समं भवेच् च
+
+सङ्ग्राम-यज्ञे विधिवत् प्रदिष्टम् ॥पन्च्१।३३४॥
+
+
+तथा च-
+
+होमार्थैर् विधिवत् प्रदान-विधिना सद्-विप्र-वृन्दार्चनैर्
+
+यज्ञैर् भूरि-सुदक्षिणैः सुविहितैः सम्प्राप्यते यत् फलम् ।
+
+सत्-तीर्थाश्रम-वास-होम-नियमैश् चान्द्रायणाद्यैः कृतैः
+
+पुम्भिस् तत्-फलम् आहवे विनिहितैः सम्प्राप्यते तत्-क्षणात् ॥पन्च्१।३३५॥
+
+
+तद् आकर्ण्य दमनकश् चिन्तयामास-युद्धाय कृत-निश्चयो ऽयं दृश्यते दुरात्मा । तद् यदि कदाचित् तीक्ष्ण-शृगालाभ्यां स्वामिनं प्रहरिष्यति तन् महान् अनर्थः सम्पत्स्यते । तद् एनं भूयो ऽपि स्व-बुद्ध्या प्रबोध्य तथा करोमि, यथा देशान्तर-गमनं करोति । आह च-भो मित्र ! सम्यग् अभिहितं भवता । परं कः स्वामि-भृत्ययोः सङ्ग्रामः । उक्तं च-
+
+बलवन्तं रिपुं दृष्ट्वा किलात्मानं प्रगोपयेत् ।
+
+बलवद्भिश् च कर्तव्या शरच्-चन्द्र-प्रकाशता ॥पन्च्१।३३६॥
+
+
+अन्यच् च-
+
+शत्रोर् विक्रमम् अज्ञात्वा वैरम् आरभते हि यः ।
+
+स पराभवम् आप्नोति समुद्रष् टिट्टिभाद् यथा ॥पन्च्१।३३७॥
+
+
+सञ्जीवक आह--कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा १२
+
+टिट्टिभ-दम्पती-कथा
+
+
+कस्मिंश्चित् समुद्रैक-देशे टिट्टिभ-दम्पती वसतः । ततो गच्छति काल ऋतु-समयम् आसाद्य टिट्टिभी गर्भम् आधत्त । आसन्न-प्रसवा सती सा टिट्टिभम् ऊचे-भोः कान्त ! मम प्रसव-समयो वर्तते । तद् विचिन्त्यतां किम् अपि निरुपद्रवं स्थानं येन तत्राहम् अण्डक-मोक्षणं करोमि ।
+
+
+टिट्टिभः प्राह-भद्रे रम्यो ऽयं समुद्र-प्रदेशः । तद् अत्रैव प्रसवः कार्यः ।
+
+
+सा प्राह-अत्र पूर्णिमा-दिने समुद्र-वेला चरति । सा मत्त-गजेन्द्रान् अपि समाकर्षति । तद् दूरम् अन्यत्र किंचित् स्थानम् अन्विष्यताम् ।
+
+
+तच् छ्रुत्वा विहस्य टिट्टिभ आह-भद्रे न युक्तम् उक्तं भवत्या । का मात्रा समुद्रस्य या मम दूषयिष्यति प्रसूतिम् । किं न श्रुतं भवत्या-
+
+
+बद्ध्वाम्बर-चर-मार्गं व्यपगत-धूमं सदा महद् भयदम् ।
+
+मन्द-मतिः कः प्रविशति हुताशनं स्वेच्छया मनुजः ॥पन्च्१।३३८॥
+
+मत्तेभ-कुम्भ-विदलन-कृत-श्रमं सुप्तम् अन्तक-प्रतिमम् ।
+
+यम-लोक-दर्शनेच्छुः सिंहः बोधयति को नाम ॥पन्च्१।३३९॥
+
+को गत्वा यम-सदनं स्वयम् अन्तकम् आदिशत्य् अजात-भयः ।
+
+प्राणान् अपहर मत्तो यदि शक्तिः काचिद् अस्ति तव ॥पन्च्१।३४०॥
+
+प्रालेय-लेश-मिश्रे मरुति प्राभातिके च वाति जडे ।
+
+गुण-दोष-ज्ञः पुरुषो जलेन कः शीतम् अपनयति ॥पन्च्१।३४१॥
+
+
+तस्माद् विश्रब्धात्रैव गर्भं मुञ्च । उक्तं च-
+
+
+यः पराभव-सन्त्रस्तः स्व-स्थानं सन्त्यजेन् नरः ।
+
+तेन चेत् पुत्रिणी माता तद् वन्ध्या केन कथ्यते ॥पन्च्१।३४२॥
+
+
+तच् छ्रुत्वा समुद्रश् चिन्तयाम् आस-अहो गर्वः पक्षि-कीटस्यास्य । अथ वा साध्व् इदम् उच्यते-
+
+उत्क्षिप्य टिट्टिभः पादाव् आस्ते भ गभयाद् दिवः ।
+
+स्व-चित्त-कल्पितो गर्वः कस्य नात्रापि विद्यते ॥पन्च्१।३४३॥
+
+
+तन् मयास्य प्रमाणं कुतूहलाद् अपि द्रष्टव्यम् । किं ममैषो ऽण्डापहारे कृते करिष्यति । इति चिन्तयित्वा स्थितः । अथ प्रसवानन्तरं प्राणयात्रार्थं गतायाष् टिट्टिभ्याः समुद्रो वेलाव्याजेनाण्डान्य् अपजहार । अथायाता सा टिट्टिभी प्रसवस्थानं शून्यम् अवलोक्य प्रलपन्ती टिट्टिभम् ऊचे-भो मूर्ख ! कथितम् आसीन् मया ते यत् समुद्रवेलया अण्डानां विनाशो भविष्यति तद् दूरतरं व्रजावः परं मूढतयाहंकारम् आश्रित्य मम वचनं न करोषि । अथवा साध्व् इदम् उच्यते ।
+
+
+सुहृदां हितकामानां न करोतीह यो वचः । स कूर्म इव दुर्बुद्धिः काष्ठाद् भ्रष्टो विनश्यति ॥पन्च्१।३४४॥
+
+टिट्टिभ आह-कथम् एतत् ?
+
+साब्रवीत्-
+
+
+कथा १३
+
+कम्बुग्रीवाख्य-कूर्म-कथा
+
+
+अस्ति कस्मिंश्चिज् जलाशये कम्बु-ग्रीवो नाम कच्छपः । तस्य च सङ्कट-विकट-नाम्नी मित्रे हंस-जातीये परम-स्नेह-कोटिम् आश्रिते नित्यम् एव सरस्-तीरम् आसाद्य तेन सहानेक-देवर्षि-महर्षीणां कथाः कृत्वास्त-मय-वेलायां स्व-नीडा-संश्रयं कुरुतः । अथ गच्छता कालेनावृष्टि-वशात्  सरः शनैः शनैः शोषम् अगमत् । ततस् तद्-दुःख-दुःखितौ ताव् ऊचतुः-भो मित्र ! जम्बाल-शेषम् एतत्-सरः  सञ्जातम् । तत् कथं भवान् भविष्यतीति व्याकुलत्वं नो हृदि वर्तते ।
+
+
+तच् छ्रुत्वा कम्बुग्रीव आह-भोः, साम्प्रतं नास्त्य् अस्माकं जीवितव्यं जलाभावात् । तथाप्य् उपायश् चिन्त्यताम् इति । उक्तं च-
+
+
+त्याज्यं न धैर्यं विधुरेऽपि काले
+
+धैर्यात् कदाचिद् गतिम् आप्नुयात् सः ।
+
+यथा समुद्रेऽपि च पोत-भङ्गे
+
+सांयात्रिको वाञ्छति तर्तुम् एव ॥पन्च्१।३४५॥
+
+
+अपरं च-
+
+मित्रार्थे बान्धवार्थे च बुद्धिमान् यतते सदा ।
+
+जातास्व् आपत्सु यत्नेन जगादेदं वचो मनुः ॥पन्च्१।३४६॥
+
+
+तद् आनीयतां काचिद् दृढ-रज्जुर् लघु-काष्ठं वा । अन्विष्यतां च प्रभूत-जल-सनाथं सरः, येन मया मध्य-प्रदेशे दन्तैर् गृहीते सति युवां कोटि-भागयोस् तत्-काष्ठं मया सहितं सङ्गृह्य तत्-सरो नयथः ।
+
+
+ताव् ऊचतुः-भो मित्र ! एवं करिष्यावः । परं भवता मौन-व्रतेन स्थातव्यम् । नो चेत् तव काष्ठात् पातो भविष्यति ।
+
+
+तथानुष्ठिते गच्छता कम्बुग्रीवेणाधोभाग-व्यवस्थितं किंचित् पुरम् आलोकितम् । तत्र ये पौरास् ते तथा नीयमानं विलोक्य सविस्मयम् इदम् ऊचुः-अहो चक्राकारं किम् अपि पक्षिभ्यां नीयते । पश्यत पश्यत ।
+
+
+अथ तेषां कोलाहलम् आकर्ण्य कम्बुग्रीव आह-भोः ! किम् एष कोलाहलः ? इति वक्तु-मना अर्धोक्ते पतितः पौरैः खण्डशः कृतश् च । अतो ऽहं ब्रवीमि-सुहृदां हित-कामानाम् इति । तथा च-
+
+
+अनागत-विधाता च प्रत्युत्पन्न-मतिस् तथा ।
+
+द्वाव् एतौ सुखम् एधेते यद्-भविष्यो विनश्यति ॥पन्च्१।३४७॥
+
+
+टिट्टिभ आह-कथम् एतत् ?
+
+
+साब्रवीत्-
+
+कथा १४
+
+अनागत-विधातादि-मत्स्य-त्रय-कथा
+
+
+कस्मिंश्चिज् जलाशयेऽनागत-विधाता प्रत्युत्पन्न-मतिर्  यद्-भविष्यश् चेति त्रयो मत्स्याः सन्ति । अथ कदाचित् तं जलाशयं दृष्ट्वा गच्छद्भिर् मत्स्य-जीविभिर् उक्तम्-यद् अहो बहु-मत्स्यो ऽयं ह्रदः । कदाचिद् अपि नास्माभिर् अन्वेषितः । तद् अद्य तावद् आहार-वृत्तिः सञ्जाता । सन्ध्या-समयश् च संवृत्तः । ततः प्रभातेऽत्रागन्तव्यम् इति निश्चयः ।
+
+
+अतस् तेषां तत्-कुलिश-पातोपमं वचः समाकर्ण्यानागत-विधाता सर्वान् मत्स्यान् आहूयेदम् ऊचे-अहो, श्रुतं भवद्भिर् यन् मत्स्य-जीविभिर् अभिहितम् । तद् रात्राव् अपि गम्यतां किञ्चिन् निकटं सरः । उक्तं च-
+
+
+अशक्तैर् बलिनः शत्रोः कर्तव्यं प्रपलायनम् ।
+
+संश्रितव्यो ऽथवा दुर्गो नान्या तेषां गतिर् भवेत् ॥पन्च्१।३४८॥
+
+
+तन् नूनं प्रभात-समये मत्स्य-जीविनो ऽत्र समागम्य मत्स्य-सङ्क्षयं करिष्यन्ति । एतन् मम मनसि वर्तते । तन् न युक्तं साम्प्रतं क्षणम् अप्य् अत्रावस्थातुम् । उक्तं च-
+
+
+विद्यमाना गतिर् येषाम् अन्यत्रापि सुखावहा ।
+
+ते न पश्यन्ति विद्वांसो देह-भङ्गं कुल-क्षयम् ॥पन्च्१।३४९॥
+
+
+तद् आकर्ण्य प्रत्युत्पन्न-मतिः प्राह-अहो सत्यम् अभिहितं भवता । ममाप्य् अभीष्टम् एतत् । तद् अन्यत्र गम्यताम् इति । उक्तं च-
+
+
+पर-देश-भयात् भीता बहु-माया नपुंसकाः ।
+
+स्व-देशे निधनं यान्ति काकाः कापुरुषा मृगाः ॥पन्च्१।३५०॥
+
+
+यस्यास्ति सर्वत्र गतिः स कस्मात्
+
+स्व-देश-रागेण हि याति नाशम् ।
+
+तातस्य कूपो ऽयम् इति ब्रुवाणाः
+
+क्षार-जलं कापुरुषाः पिबन्ति ॥पन्च्१।३५१॥
+
+
+अथ तत् समाकर्ण्य प्रोच्चैर् विहस्य  यद्-भविष्यः प्रोवाच-अहो, न भवद्भ्यां मन्त्रितं सम्यग् एतद् इति, यतः किं वाङ्-मात्रेणापि तेषां पितृ-पैतामहिकम् एतत् सरस् त्यक्तुं युज्यते । यद्य् आयुः-क्षयो ऽस्ति तद् अन्यत्र गतानाम् अपि मृत्युर् भविष्यत्य् एव । उक्तं च-
+
+अरक्षितं तिष्ठति दैव-रक्षितं
+
+सुरक्षितं दैव-हतं विनश्यति ।
+
+जीवत्य् अनाथो ऽपि वने विसर्जितः
+
+कृत-प्रयत्नो ऽपि गृहे न जीवति ॥पन्च्१।३५२॥
+
+
+तद् अहं न यास्यामि भवद्भ्यां च यत् प्रतिभाति तत् कर्तव्यम् ।
+
+
+अथ तस्य तं निश्चयं ज्ञात्वानागत-विधाता प्रत्युत्पन्न-मतिश् च निष्क्रानौ सह परिजनेन । अथ प्रभाते तैर् मत्स्य-जीविभिर् जालैस् तज् जलाशयम् आलोड्य यद्-भविष्येण सह तत्-सरो निर्मत्स्यतां नीतम् । अतो ऽहं ब्रवीमि-अनागत-विधाता चेति ।
+
+
+तच् छ्रुत्वा टिट्टिभ आह-भद्रे, किं मां यद्भविष्य-सदृशं सम्भावयसि । तत् पश्य मे बुद्धि-प्रभावं यावद् एनं दुष्ट-समुद्रं स्व-चञ्च्वा शोषयामि ।
+
+
+टिट्टिभ्य् आह-अहो कस् ते समुद्रेण सह विग्रहः । तन् न युक्तम् अस्योपरि कोपं कर्तुम् । उक्तं च-
+
+पुंसाम् असमर्थानाम् उपद्रवायात्मनो भवेत् कोपः ।
+
+पिठरं ज्वलद्-अतिमात्रं निज-पार्श्वान् एव दहतितराम् ॥पन्च्१।३५३॥
+
+
+तथा च-
+
+अविदित्वात्मनः शक्तिं परस्य न समुत्सुकः ।
+
+गच्छन्न् अभिमुखो वह्नौ नाशं याति पतङ्गवत् ॥पन्च्१।३५४॥
+
+
+टिट्टिभ आह-प्रिये, मा मैवं वद । येषाम् उत्साह-शक्तिर् भवति ते स्वल्पा अपि गुरून् विक्रमन्ते । उक्तं च-
+
+विशेषात् परिपूर्णस्य याति शत्रोर् अमर्षणः ।
+
+आभिमुख्यं शशाङ्कस्य यथाद्यापि विधुन्तुदः ॥पन्च्१।३५५॥
+
+
+तथा च-
+
+प्रमाणाद् अधिकस्यापि गण्ड-श्याम-मद-च्युतेः । पदं मूर्ध्नि समाधत्ते केसरी मत्त-दन्तिनः ॥पन्च्१।३५६॥
+
+
+तथा च-
+
+बालस्यापि रवेः पादाः पतन्त्य् उपरि भूभृताम् ।
+
+तेजसा सह जातानां वयः कुत्रोपयुज्यते ॥पन्च्१।३५७॥
+
+
+हस्तौ स्थूलतरः स चाङ्कुश-वशः किं हस्ति-मात्रो ऽङ्कुशो
+
+दीपे प्रज्वलिते प्रणश्यति तमः किं दीप-मात्रं तमः ।
+
+वज्रेणापि हताः पतन्ति गिरयः किं वज्र-मात्रो गिरिस्
+
+तेजो यस्य विराजते स बलवान् स्थूलेषु कः प्रत्ययः ॥पन्च्१।३५८॥
+
+
+तद् अनया चञ्च्वास्य सकलं तोयं शुष्क-स्थलतां नयामि ।
+
+
+टिट्टिभ्य् आह-भोः कान्त ! यत्र जाह्नवी नव-नदी-शतानि गृहीत्वा नित्यम् एव प्रविशति, तथा सिन्धुश् च । तत् कथं त्वम् अष्टादश-नदी-शतैः पूर्यमाणं तं विप्रुष-वाहिन्या चञ्च्वा शोषयिष्यसि ? तत् किम् अश्रद्धो येनोक्तेन ।
+
+
+टिट्टिभ आह-प्रिये !
+
+
+अनिर्वेदः श्रियो मूलं चञ्चुर् मे लोह-सन्निभा ।
+
+अहो-रात्राणि दीर्घाणि समुद्रः किं न शुष्यति ॥पन्च्१।३५९॥
+
+दुरधिगमः पर-भागो यावत् पुरुषेण पौरुषं न कृतम् ।
+
+जयति तुलाम् अधिरूढो भास्वान् अपि जलद-पटलानि ॥पन्च्१।३६०॥
+
+
+टिट्टिभ्य् आह-यदि त्वयावश्यं समुद्रेण सह विग्रहानुष्ठानं कार्यम् । तद् अन्यान् अपि विहङ्गमान् आहूय सुहृज्-जन-सहित एवं समाचर । उक्तं च-
+
+
+बहूनाम् अप्य् असाराणां सम्वायो हि दुर्जयः ।
+
+तृणैर् आवेष्ट्यते रज्जुर् यथा नागो ऽपि बद्ध्यते ॥पन्च्१।३६१॥
+
+
+तथा च-
+
+चटकाकाष्ठ-कूटेन मक्षिका-दर्दुरैस् तथा ।
+
+महाजन-विरोधेन कुञ्जरः प्रलयं गतः ॥पन्च्१।३६२॥
+
+टिट्टिभ आह-कथम् एतत् ?
+
+
+सा प्राह-
+
+
+कथा १५
+
+कुञ्जर-चटक-दम्पती-कथा
+
+
+कस्मिंश्चिद् वनोद्देशे चटक-दम्पती तमाल-तरु-कृत-निलयौ प्रतिवसतः स्म । अथ तयोर् गच्छता कालेन सन्ततिर् अभवत् । अन्यस्मिन्न् अहनि प्रमत्तो वन-गजः कश्चित् तं तमाल-वृक्षं घर्मार्तश् छायार्थी समाश्रितः । ततो मदोत्कऋषात् तां तस्य शाखां चटकाश्रितां पुष्कराग्रेणाकृष्य बभञ्ज । तस्या भङ्गेन चटकाण्डानि सर्वाणि विशीर्णानि । आयुः-शेषतया च चटकौ कथम् अपि प्राणैर् न वियुक्तौ ।
+
+
+अथ चटका साण्ड-भङ्गाभिभूता प्रलापान् कुर्वाणा न किञ्चित् सुखम् आससाद । अत्रान्तरे तस्यास् तान् प्रलापान् श्रुत्वा काष्ठ-कूटो नाम पक्षी तस्याः परम-सुहृत्-तद्-दुःख-दुःखितो ऽभ्येत्य ताम् उवाच-भगवति ! किं वृथा प्रलापेन । उक्तं च-
+
+
+नष्टं मृतम् अतिक्रान्तं नानुशोचन्ति पण्डिताः ।
+
+पण्डितानां च मूर्खाणां विशेषो ऽयं यतः स्मृतः ॥पन्च्१।३६३॥
+
+
+तथा च-
+
+अशोच्यानीह भूतानि यो मूढस् तानि शोचति ।
+
+तद्-दुःखाल् लभते दुःखं द्वाव् अनर्थौ निषेवते ॥पन्च्१।३६४॥
+
+
+अन्यच् च-
+
+श्लेष्माश्रु बान्धवैर् मुक्तं प्रेतो भुङ्क्ते यतो ऽवशः ।
+
+तस्मान् न रोदितव्यं हि क्रियाः कार्याश् च शक्तितः ॥पन्च्१।३६५॥
+
+
+चटका प्राह-अस्त्व् एतत् । परं दुष्ट-गजेन मदान् मम सन्तान-क्षयः कृतः । तद् यदि मम त्वं सुहृत्-सत्यस् तद् अस्य गजापसदस्य को ऽपि वधोपायश् चिन्त्यताम् । यस्यानुष्ठानेन मे सन्तति-नाश-दुःखम् अपसरति । उक्तं च-
+
+
+आपदि येनोपकृतं येन च हसितं दशासु विषमासु ।
+
+उपकृत्य तयोर् उभयोः पुनर् अपि जातं नरं मन्ये ॥पन्च्१।३६६॥
+
+
+काष्ठ-कूट आह-भगवति, सत्यम् अभिहितं भवत्या । उक्तं च-
+
+
+स सुहृद्-व्यसने यः स्याद् अन्य-जात्य्-उद्भवो ऽपि सन् ।
+
+वृद्धौ सर्वो ऽपि मित्रं स्यात् सर्वेषाम् एव देहिनाम् ॥पन्च्१।३६७॥
+
+स सुहृद्-व्यसने यः स्यात् स पुत्रो यस् तु भक्तिमान् ।
+
+स भृत्यो यो विधेयज्ञः सा भार्या यत्र निर्वृतिः ॥पन्च्१।३६८॥
+
+
+तत् पश्य मे बुद्धि-प्रभावम् । परं ममापि सुहृद्-भूता वीणारवा नाम मक्षिकास्ति । तत् ताम् आहूयागच्छामि, येन स दुरात्मा दुष्ट-गजो बध्यते ।
+
+
+अथासौ चटकया सह मक्षिकाम् आसाद्य प्रोवाच-भद्रे, ममेष्टेयं चटका केनचिद् दुष्ट-गजेन पराभूताण्ड-स्फोटनेन । तत् तस्य वधोपायम् अनुतिष्ठतो मे साहाय्यं कर्तुम् अर्हसि ।
+
+
+मक्षिकाप्य् आह-भद्र ! किम् उच्यतेऽत्र विषये । उक्तं च-
+
+
+पुनः प्रत्युपकाराय मित्राणां क्रियते प्रियम् ।
+
+यत् पुनर् मित्र-मित्रस्य कार्यं मित्रैर् न किं कृतम् ॥पन्च्१।३६९॥
+
+
+सत्यम् एतत् । परं ममापि भेको मेघनादो नाम मित्रं तिष्ठति । तम् अप्य् आहूय यथोचितं कुर्मः । उक्तं च-
+
+
+हितैः साधु-समाचारैः शास्त्रज्ञैर् मति-शालिभिः ।
+
+कथञ्चिन् न विकल्पन्ते विद्वद्भिश् चिन्तिता नयाः ॥पन्च्१।३७०॥
+
+
+अथ ते त्रयो ऽपि गत्वा मेघनादस्याग्रे समस्तं वृत्तान्तं निवेद्य तस्थुः । अथ स प्रोवाच-कियन् मात्रो ऽसौ वराको गजो महाजनस्य कुपितस्याग्रे । तन् मदीयो मन्त्रः कर्तव्यः । मक्षिके, त्वं गत्वा मध्याह्न-समये तस्य मदोद्धतस्य गजस्य कर्णे वीणा-रव-सदृशं शब्दं कुरु । येन श्रवण-सुख-लालसो निमीलित-नयनो भवति । ततश् च काष्ठ-कूट-चञ्च्वा स्फोटित-नयनो ऽन्धीभूतस् तृषार्तो मम गर्त-तटाश्रितस्य सपरिकरस्य शब्दं श्रुत्वा जलाशयं मत्वा समभ्येति । ततो गर्तम् आसाद्य पतिष्यति पञ्चत्वं यास्यति चेति । एवं समवायः कर्तव्यो यथा वैर-साधनं भवति ।
+
+
+अथ तथानुष्ठिते स मत्त-गजो मक्षिका-गेय-सुखान् निमीलित-नेत्रः काष्ठ-कूट-हृत-चक्षुर् मध्याह्न-समये भ्राम्यन् मण्डूक-शब्दानुसारी गच्छन् महतीं गर्तम् आसाद्य पतितो मृतश् च । अतो ऽहं ब्रवीमि-चटका काष्ठ-कूटेन इति ।
+
+
+टिट्टिभ आह-भद्रे, एवं भवतु । सुहृद्-वर्ग-समुदायेन सह समुद्रं शोषयिष्यामि । इति निश्चित्य बक-सारस-मयूरादीन् समाहूय प्रोवाच-भोः पराभूतो ऽहं समुद्रेणाण्डकापहरेण । तच् चिन्त्यताम् अस्य शोषणोपायः ।
+
+
+ते सम्मन्त्र्य प्रोचुः-अशक्ता वयं समुद्र-शोषणे । तत् किं वृथा प्रयासेन । उक्तं च-
+
+
+अबलः प्रोन्नतं शत्रुं यो याति मद-मोहितः ।
+
+युद्धार्थं स निवर्तेत शीर्ण-दन्तो यथा गजः ॥पन्च्१।३७१॥
+
+
+तद् अस्माकं स्वामी वैनतेयो ऽस्ति । तस्मै सर्वम् एतत्-परिभव-स्थानं निवेद्यताम्, येन स्वजाति-परिभव-कुपितो वैरानृण्यं गच्छति । अथवात्रावलेपं करिष्यति तथापि नास्ति वो दुःखम् । उक्तं च-
+
+
+सुहृदि निरन्तर-रचिते गुणवति भृत्येऽनुवर्तिनि कलत्रे ।
+
+स्वामिनि शक्ति-समेते निवेद्य दुःखं सुखी भवति ॥पन्च्१।३७२॥
+
+
+तद् यामो विनतेय-सकाशं यतो ऽसाव् अस्माकं स्वामी ।
+
+
+तथानुष्ठिते सर्वे ते पक्षिणो विषण्ण-वदना बाष्प-पूरित-दृशो वैनतेय-सकाशम् आसाद्य करुण-स्वरेण फूत्कर्तुम् आरब्धाः-अहो ! अब्रह्मण्यम् अब्रह्मण्यम् ! अधुना सदाचारस्य टिट्टिभस्य भवति नाथे सति समुद्रेणाण्डान्य् अपहृतानि तत्-प्रनष्टम् अधुना पक्षि-कुलम् । अन्येऽपि स्वेच्छया समुद्रेण व्यापादिष्यन्ते । उक्तं च-
+
+
+क्व कस्य कर्म संवीक्ष्य करोत्य् अन्यो ऽपि गर्हितम् ।
+
+गतानुगतिको लोको न लोकः पारमार्थिकः ॥पन्च्१।३७३॥
+
+चाटु-तस्कर-दुर्वृत्तैस् तथा साहसिकादिभिः ।
+
+पीड्यमानाः प्रजा रक्ष्याः कटूच्छद्मादिभिस् तथा ॥पन्च्१।३७४॥
+
+प्रजानां धर्म-षड्-भागो राज्ञो भवति रक्षितुः ।
+
+अधर्माद् अपि षड्-भागो जायते यो न रक्षति ॥पन्च्१।३७५॥
+
+प्रजा-पीडन-सन्तापात् समुद्भूतो हुताशनः ।
+
+राज्ञः श्रियं कुलं प्राणान् नादग्ध्वा विनिवर्तते ॥पन्च्१।३७६॥
+
+राजा बन्धुर् अबन्धूनां राजा चक्षुर् अचक्षुषाम् ।
+
+राजा पिता च माता च सर्वेषां न्याय-वर्तिनाम् ॥पन्च्१।३७७॥
+
+फलार्थी पार्थिवो लोकान् पालयेद् यत्नम् आस्थितः ।
+
+दान-मानादि-तोयेन मालाकारो ऽङ्कुरान् इव ॥पन्च्१।३७८॥
+
+यथा बीजाङ्कुरः सूक्ष्मः प्रत्नेनाभिरक्षितः ।
+
+फल-प्रदो भवेत् काले तद्वल् लोकः सुरक्षितः ॥पन्च्१।३७९॥
+
+हिरण्य-धान्य-रत्नानि यानानि विविधानि च ।
+
+तथान्यद् अपि यत् किञ्चित् प्रजाभ्यः स्यान् नृपस्य तत् ॥पन्च्१।३८०॥
+
+
+अथैवं गरुडः समाकर्ण्य तद्-दुःख-दुःखितः कोपाविष्टश् च व्यचिन्तयत्-अहो ! सत्यम् उक्तम् एतैः पक्षिभिः । तद् अद्य गत्वा तं समुद्रं शोषयामः ।
+
+
+एवं चिन्तयतस् तस्य विष्णु-दूतः समागत्याह-भो गरुत्मन् ! भगवता नारायणेनाहं तव पार्श्वे प्रेषितः । देव-कार्याय भगवान् अमरावत्यां यास्यतीति । तत् सत्वरम् आगम्यताम् ।
+
+
+तच् छ्रुत्वा गरुडः साभिमानं प्राह-भो दूत ! किं मया कुभृत्येन भगवान् करिष्यति । तद् गत्वा तं वद यद् अन्यो भृत्यो वाहनाय्समत्-स्थाने क्रियताम् । मदीयो नमस्कारो वाच्यो भगवतः । उक्तं च-
+
+
+यो न वेत्ति गुणान् यस्य न तं सेवेत पण्डितः ।
+
+न हि तस्मात् फलं किञ्चित् सुकृष्टाद् ऊषराद् इव ॥पन्च्१।३८१॥
+
+
+दूत आह-भो वैनतेय ! कदाचिद् अपि भगवन्तं प्रति त्वया नैतद् अभिहितम् ईदृक् । तत् कथय, किं ते भगवतापमान-स्थानं कृतम् ?
+
+
+गरुड आह-भगवद्-आश्रय-भूतेन समुद्रेणास्मट् टिट्टिभाण्डान्य् अपहृतानि । तद् यदि निग्रहं न करोति तद् अहं भगवतो न भृत्य इत्य् एष निश्चयस् त्वया वाच्यः । तद् द्रुततरं गत्वा भवता भगवतः समीपे वक्तव्यम् ।
+
+
+अथ दूत-मुखेन प्रणय-कुपितं वैनतेयं विज्ञाय सम्मान-पुरःसरं तम् आनयामि । उक्तं च-
+
+
+भक्तं शक्तं कुलीनं च न भृत्यम् अवमानयेत् ।
+
+पुत्रवल् लालयेन् नित्यं य इच्छेच् छ्रियम् आत्मनः ॥पन्च्१।३८२॥
+
+
+अन्यच् च-
+
+राजा तुष्टो ऽपि भृत्यानाम् अर्थ-मात्रं प्रयच्छति ।
+
+ते तु सम्मानितास् तस्य प्राणैर् अप्य् उपकुर्वते ॥पन्च्१।३८३॥
+
+
+इत्य् एवं सम्प्रधार्य रुक्म-पुरे वैनतेय-सकाशं सत्वरम् अगमत् । वैनतेयो ऽपि गृहागतं भगवन्तम् अवलोक्य त्रपाधोमुखः प्रणम्योवाच-भगवन् ! त्वद्-आश्रयोन्मत्तेन समुद्रेण मम भृत्यास्याण्डान्य् अपहृत्य ममापमानो विहितः । परं भगवल्-लज्जया मया विलम्बितम् । नो चेद् एनम् अहं स्थलान्तरम् अद्यैव नयामि । यतः स्वामि-भयाच् छ्रवणो ऽपि प्रहारो न दीयते । उक्तं च-
+
+
+येन स्याल् लघुता वाथ पीडा चित्ते प्रभोः क्वचित् ।
+
+प्राण-त्यागेऽपि तत् कर्म न कुर्यात् कुल-सेवकः ॥पन्च्१।३८४॥
+
+
+तच् छ्रुत्वा भगवान् आह-भो वैनतेय ! सत्यम् अभिहितं भवता । उक्तं च-
+
+
+भृत्यापराधजो दण्डः स्वामिनो जायते यतः ।
+
+तेन लज्जापि तस्योत्था न भृत्यस्य तथा पुनः ॥पन्च्१।३८५॥
+
+
+तद् आगच्छ येनाण्डानि समुद्राद् आदाय टिट्टिभं सम्भावयावः । अमरावतीं च गच्छावः ।
+
+
+तथानुष्ठिते समुद्रो भगवता निर्भर्स्याग्नेयं शरं सन्ध्यायाभिहितः-भो दुरात्मन् ! दीयन्तां टिट्टिभाण्डानि । नो चेत् स्थलतां त्वां नयामि ।
+
+
+ततः समुद्रेण स-भयेन टिट्टिभाण्डानि तानि प्रदत्तानि । टिट्टिभेनापि भार्यायै समर्पितानि । अतो ऽहं ब्रवीमि-शत्रोर् बलम् अविज्ञाय इति । तस्मात् पुरुषेणोद्यमो न त्याज्यः ।
+
+
+तद् आकर्ण्य सञ्जीवकस् तम् एव भूयो ऽपि पप्रच्छ-भो मित्र ! कथं ज्ञेयो मयासौ दुष्ट-बुद्धिर् इति । इयन्तं कालं यावद् उत्तरोत्तर-स्नेहेन प्रसादेन चाहं दृष्टः । न कदाचित् तद्-विकृतिर् दृष्टा । तत् कथ्यतां येनाहम् आत्म-रक्षार्थं तद्-वधायोद्यमं करोमि ।
+
+
+दमनक आह-भद्र, किम् अत्र ज्ञेयम् ? एष ते प्रत्ययः । यदि रक्त-नेत्रस् त्रिशिखां भ्रूकुटिं दधानः सृक्कणी परिलेलिहन् त्वां दृष्ट्वा भवति, तद् दुष्ट-बुद्धिः । अन्यथा सुप्रसादश् चेति । तद् आज्ञापय माम् । स्वाश्रयं प्रति गच्छामि । त्वया च यथायं मन्त्र-भेदो न भवति तथा कार्यम् । यदि निशामुखं प्राप्य गन्तुं शक्नोषि तद्-देश-त्यागः कार्यः । यतः-
+
+
+त्यजेद् एकं कुलस्यार्थे ग्रामस्यार्थे कुलं त्यजेत् ।
+
+ग्रामं जनपदस्यार्थे स्वात्मार्थे पृथिवीं त्यजेत् ॥पन्च्१।३८६॥
+
+आपद्-अर्थे धनं रक्षेद् दारान् रक्षेद् धनैर् अपि ।
+
+आत्मानं सततं रक्षेद् दारैर् अपि धनैर् अपि ॥पन्च्१।३८७॥
+
+
+बलवताभिभूतस्य विदेश-गमनं तद्-अनुप्रवेशो वा नीतिः । तद्-देश-त्यागः कार्यः । अथवात्मा सामादिभिर् उपायैर् आभरक्षणीयः । उक्तं च-
+
+
+अपि पुत्र-कलत्रैर् वा प्राणान् रक्षेत पण्डितः ।
+
+विद्यमानैर् यतस् तैः स्यात् सर्वं भूयो ऽपि देहिनाम् ॥पन्च्१।३८८॥
+
+
+तथा च-
+
+येन केनाप्य् उपायेन शुभेनाप्य् अशुभेन वा ।
+
+उद्धरेद् दीनम् आत्मानं समर्थो धर्मम् आचरेत् ॥पन्च्१।३८९॥
+
+यो मायां कुरुते मूढः प्राण-त्यागे धनादिषु ।
+
+तस्य प्राणाः प्रणश्यन्ति तैर् नष्टैर् नष्टम् एव तत् ॥पन्च्१।३९०॥
+
+
+एवम् अभिधाय दमनकः करटक-सकाशम् अगमत् । करटको ऽपि तम् आयान्तं दृष्ट्वा प्रोवाच-भद्र ! किं कृतं तत्रभवता ?
+
+
+दमनक आह-मया तावन् नीति-बीज-निर्वापणं कृतम् । परतो दैव-विहितायत्तम् । उक्तं च-
+
+पराङ्मुखेऽपि दैवेऽत्र कृत्यं कार्यं विपश्चिता ।
+
+आत्म-दोष-विनाशाय स्व-चित्त-स्तम्भनाय च ॥पन्च्१।३९१॥
+
+
+तथा च-
+
+उद्योगिनं पुरुष-सिंहम् उपैति लक्ष्मीर्
+
+दैवेन देयम् इति कापुरुषा वदन्ति ।
+
+दैवं निहत्य कुरु पौरुषम् आत्म-शक्त्या यत्ने कृते यदि न सिध्यति को ऽत्र दोषः ॥पन्च्१।३९२॥
+
+
+करटक आह-तत् कथय कीदृक् त्वया नीति-बीजं निर्वापितम् ।
+
+
+सो ऽब्रवीत्-मयान्योन्यं ताभ्यां मिथ्या-प्रजल्पेन भेदस् तथा विहितो यथा भूयो ऽपि मन्त्रयन्ताव् एक-स्थान-स्थितौ न द्रक्ष्यसि ।
+
+
+करटक आह-अहो, न युक्तं भवता विहितं यत् परस्परं तौ स्नेहार्द्र-हृदयौ सुखाश्रयौ कोप-सागरे प्रक्षिप्तौ । उक्तं च-
+
+
+अविरुद्धं सुख-स्थं यो दुःख-मार्गे नियोजयेत् ।
+
+जन्म-जन्मान्तरे दुःखी स नरः स्याद् असंशयम् ॥पन्च्१।३९३॥
+
+
+अपरं त्वं यद् भेद-मात्रेणापि हृष्टस् तद् अप्य् अयुक्तम्, यतः सर्वतो ऽपि जनो विरूप-करणे समर्थो भवति नोपकर्तुम् । उक्तं च-
+
+
+घातयितुम् एव नीचः पर-कार्यं वेत्ति न प्रसादयितुम् ।
+
+पातयितुम् अस्ति शक्तिर् वायोर् वृक्षं न चोन्नमितुम् ॥पन्च्१।३९४॥
+
+
+दमनक आह-अनभिज्ञो भवान् नीति-शास्त्रस्य, तेनैतद् ब्रवीषि । उक्तं च यतः-
+
+
+जात-मात्रं न यः शत्रुं व्याधिं च प्रशमं नयेत् ।
+
+महा-बलो ऽपि तेनैव वृद्धिं प्राप्य स हन्यते ॥पन्च्१।३९५॥
+
+
+तच्-छत्रु-भूतो ऽयम् अस्माकं मन्त्रि-पदाहरणात् । उक्तं च-
+
+
+पितृ-पैतामहं स्थानं यो यस्यात्र जिगीषते ।
+
+स तस्य सहजः शत्रुर् उच्छेद्यो ऽपि प्रिये स्थितः ॥पन्च्१।३९६॥
+
+
+तन् मया स उदासीनतया समानीतो ऽभय-प्रदानेन यावत् तावद् अहम् अपि तेन साचिव्यात् प्रच्यावितः । अथवा साध्व् इदम् उच्यते-
+
+
+दद्यात् साधुर् यदि निज-पदे दुर्जनाय प्रवेशं
+
+तन्-नाशाय प्रभवति ततो वाञ्छमानः स्वयं सः ।
+
+तस्माद् देयो विपुल-मतिभिर् नावकाशो ऽधमानां
+
+जारापि स्याद् गृह-पतिर् इति श्रूयते वाक्यतो ऽत्र ॥पन्च्१।३९७॥
+
+
+तेन मया तस्योपरि वधोपाय एव विरच्यते । देश-त्यागाय वा भविष्यति । तच् च त्वां मुक्त्वान्यो न ज्ञास्यति । तद् उक्तम् एतत् ते स्वार्थायानुष्ठितम् । उक्तं च-
+
+
+निस्त्रिंशं हृदयं कृत्वा वाणीम् इक्षु-रसोपामाम् ।
+
+विकल्पो ऽत्र न कर्तव्यो हन्यात् तत्रापकारिणम् ॥पन्च्१।३९८॥
+
+
+अपरं मृतो ऽप्य् अस्माकं भोज्यो भविष्यति । तद् एकं तावद् वर-साधनम् । अपरं साचिव्यं च भविष्यति तृप्तिश् चेति । तद्-गुण-त्रयेऽस्मिन्न् उपस्थिते कस्मान् मां दूषयसि त्वं जाड्य-भावात् । उक्तं च-
+
+
+परस्य पीडनं कुर्वन् स्वार्थ-सिद्धिं च पण्डितः ।
+
+मूढ-बुद्धिर् न भक्षेत वने चतुरको यथा ॥पन्च्१।३९९॥
+
+
+करटक आह-कथम् एतत् ?
+
+
+स आह-
+
+कथा १६
+
+वज्र-दंष्ट्र-नाम-सिंह-कथा
+
+
+अस्ति कस्मिंश्चिद् वनोद्देशे वज्र-दंष्ट्रो नाम सिंहः । तस्य चतुरक-क्रव्यमुख-नामानौ शृगाल-वृकौ भृत्य-भूतौ सदैवानुगतौ तत्रैव वने प्रतिवसतः । अथान्य-दिने सिंहेन कदाचिद् आसन्न-प्रसवा प्रसव-वेदनया स्व-यूथाद् भ्रष्टोष्ट्र्य् उपविष्टा कस्मिंश्चिद् वन-गहने समासादिता । अथ तां व्यापाद्य यावद् उदरं स्फोटयति, तावज् जीवन् लघु-दासेरक-शिशुर् निष्क्रान्तः । सिंहो ऽपि दासेरक्याः पिशितेन सपरिवारः परां तृप्तिम् उपागतः । परं स्नेहाद् बाल-दासेकं त्यक्तं गृहम् आनीयेदम् उवाच-भद्र, न तेऽस्ति मृत्योर् भयं मत्तो नान्यस्माद् अपि । ततः स्वेच्छयात्र वने भ्राम्यताम् इति । यतस् ते शङ्कु-सदृशौ कर्णौ । ततः शङ्कुकर्णो नाम भविष्यति ।
+
+
+एवम् अनुष्ठिते चत्वारो ऽपि न एक-स्थाने विहारिणः परस्परम् अनेक-प्रकार-गोष्ठी-सुखम् अनुभवन्तस् तिष्ठन्ति । शङ्कुकर्णो ऽपि यौवन-पदवीम् आरूढः क्षणम् अपि न तं सिंहं मुञ्चति ।
+
+
+अथ कदाचिद् वज्र-दंष्ट्रस्य केनचिद् वन्येन मत्त-गजेन सह युद्धम् अभवत् । तेन मद-वीर्यात् स दन्त-प्रहारैस् तथा क्षत-शरीरो विहितो यथा प्रचलितुं न शक्नोति । तदा क्षुत्-क्षाम-कण्ठस् तान् प्रोवाच-भोः ! अन्विष्यतां किञ्चित् सत्त्वं येनाहम् एवं स्थितो ऽपि तं व्यापाद्यात्मनो युष्माकं च क्षुत्-प्रणाशं करोमि ।
+
+
+तच् छ्रुत्वा ते त्रयो ऽपि वने सन्ध्या-कालं यावद् भ्रान्ताः, परं न किञ्चित् सत्त्वम् आसादितम् ।  अथ चतुरकश् चिन्तयामास-यदि शङ्कुकर्णो ऽयं व्यापाद्येत ततः सर्वेषां कतिचिद् दिनानि तृप्तिर् भवति । परं नैनं स्वामी मित्रत्वाद् आश्रय-समाश्रितत्वाच् च विनाशयिष्यति । अथवा बुद्धि-प्रभावेण स्वामिनं प्रतिबोध्य तथा करिष्ये यथा व्यापादयिष्यति । उक्तं च-
+
+
+अवध्यं वाथवागम्यम् अकृत्यं नास्ति किंचन ।
+
+लोके बुद्धिमताम् अत्र तस्मात् तां योजयाम्य् अहम् ॥पन्च्१।४००॥
+
+
+एवं विचिन्त्य शङ्कुकर्णम् इदम् आह-भोः शङ्कुकर्ण ! स्वामी तावत् पथ्यं विना क्षुधया परिपीड्यते । स्वाम्य-भावाद् अस्माकम् अपि ध्रुवं विनाश एव । ततो वाक्यं किञ्चित् स्वाम्य्-अर्थे वदिष्यामि । तच् छ्रूयताम् ।
+
+
+शङ्कुकर्ण आह-भोः शीघ्रं निवेद्यतां, येन ते वचनं शीघ्रं निर्विकल्पं करोमि । अपरं स्वामिनोहिते कृते मया सुकृत-शतं कृतं भविष्यति ।
+
+
+अथ चतुरक आह-भो भद्र ! आत्म-शरीरं द्विगुण-लाभेन स्वामिने प्रयच्छ, येन ते द्विगुणं शरीरं भवति । स्वामिनः पुनः प्राण-यात्रा भवति ।
+
+
+तद् आकर्ण्य शङ्कुकर्णः प्राह-भद्र ! यद्य् एवं तन् मदीय-प्रयोजनम् एतद् उच्यताम् । स्वाम्य्-अर्थः क्रियताम् इति । परम् अत्र धर्मः प्रतिभूः इति ।
+
+
+ते विचिन्त्य सर्वे सिंह-सकाशम् आजग्मुः । ततश् चतुरक आह-देव ! न किञ्चित् सत्त्वं प्राप्तम् । भगवान् आदित्यो ऽप्य् अस्तं गतः । तद् यदि स्वामी द्विगुणं शरीरं प्रयच्छति । ततः शङ्कुकर्णो ऽयं द्विगुण-वृद्ध्या स्व-शरीरं प्रयच्छति धर्म-प्रतिभुवा ।
+
+
+सिंह आह-भोः, यद्य् एवं तत् सुन्दरतरम् । व्यवहारस्यास्य धर्मः प्रतिभूः क्रियताम् इति ।
+
+
+अथ सिंह-वचनानन्तरं वृक-शृगालाभ्यां विदारितोभय-कुक्षिः शङ्कुकर्णः पञ्चत्वम् उपागतः ।
+
+
+अथ वज्र-दंष्ट्रश् चतुरकम् आह-भोश् चतुरक ! यावद् अहं नदीं गत्वा स्नानं देवतार्चन-विधिं कृत्वागच्छामि, तावत् त्वयात्रापमत्तेन भाव्यम् इत्य् उक्त्वा नद्यां गतः ।
+
+
+अथ तस्मिन् गते चतुरकश् चिन्तयामास-कथं ममैकाकिनो भोज्यो ऽयम् उष्ट्रो भविष्यति इति विचिन्त्य क्रव्यमुखम् आह-भोः क्रव्यमुख ! क्षुधालुर् भवान् । तद् यावद् असौ स्वामी नागच्छति, तावत् त्वम् अस्योष्ट्रस्य मांसं भक्षय । अहं त्वां स्वामिनो निर्दोषं प्रतिपादयिष्यामि ।
+
+
+सो ऽपि तच् छ्रुत्वा यावत् किञ्चिन् मांसम् आस्वादयति तावच् चतुरकेणोक्तम्-भोः क्रव्यमुख ! समागच्छति स्वामी । तत् त्यक्त्वैनं दूरे तिष्ठ, येनास्य भक्षणं न विकल्पयति ।
+
+
+तथानुष्ठिते सिंहः समायातो यावद् उष्ट्रं पश्यति तावद् रिक्तीकृत-हृदयो दासेरकः । ततो भृकुटिं कृत्वा परुषतरम् आह-अहो केनैष उष्ट्र उच्छिष्टतां नीतो, येन तम् अपि व्यापादयामि ।
+
+
+एवम् अभिहिते क्रव्यमुखश् चतुरक-मुखम् अवलोकयति । अथ चतुरको विहस्योवाच-भोः ! माम् अनादृत्य पिशितं भक्षयित्वाधुना मन्-मुखम् अवलोकयसि । तद्-आस्वादयास्य दुर्णय-तरोः फलम् इति ।
+
+
+तद् आकर्ण्य क्रव्यमुखो जीव-नाश-भयाद् दूर-देशं गतः । एतस्मिन्न् अन्तरे तेन मार्गेण दासेरक-सार्थो भाराक्रान्तः समायातः । तस्याग्रेसरोष्ट्रस्य कण्ठे महती घण्टा बद्धा । तस्याः शब्दं दुरतो ऽप्य् आकर्ण्य सिंहो जम्बुकम् आह-भद्र, ज्ञायतां किम् एष रौद्रः शब्दः श्रूयतेऽश्रुत-पूर्वः ?
+
+
+तच् छ्रुत्वा, चतुरकः किञ्चिद् वनान्तरं गत्वा सत्वरम् अभ्युपेत्य प्रोवाच-स्वामिन् ! गम्यतां गम्यतां यदि शक्नोषि गन्तुम् ।
+
+
+सो ऽब्रवीत्-भद्र, किम् एवं मां व्याकुलयसि । तत् कथय किम् एतत् ?
+
+इति चतुरक आह-स्वामिन्, एष धर्मराजस् तवोपरि कुपितः । यद् अनेनाकाले दासेरको ऽयं मदीयो व्यापादितः । तत् सहस्र-गुणम् उष्ट्रम् अस्य सकाशाद् ग्रहीष्यामि । इति निश्चित्य बृहन्-मानम् आदायाग्रेसरस्योष्ट्रस्य ग्रीवायां घण्टां बद्ध्वा बध्य-दासेरक-सक्तान् अपि पितृ-पितामहान् आदाय वैर-निर्यातनार्थम् आयात एव ।
+
+
+सिंहो ऽपि तच् छ्रुत्वा सर्वतो दूराद् एवावलोक्य मृतम् उष्ट्रं परित्यज्य प्राण-भयात् प्रणष्टः । चतुरको ऽपि शनैः शनैस् तस्योष्ट्रस्य मांसं भक्षयामास । अतो ऽहं ब्रवीमि-परसय पीडनं कुर्वन् (३९९) इति ।
+
+
+अथ दमनके गते सञ्जीवकश् चिन्तयामास-अहो किम् एतन् मया कृतम् ? यच् छष्पादो ऽपि मांसाशितस् तस्यानुगः संवृत्तः । अथवा साध्व् इदम् उच्यते-
+
+अगम्यानि पुमान् याति यो ऽसेव्यांश् च निषेवते ।
+
+स मृत्युम् उपगृह्णाति गर्भम् अश्वतरी यथा ॥पन्च्१।४०१॥
+
+
+तत् किं करोमि ? क्व गच्छामि ? कथं मे शान्तिर् भविष्यति ? अथवा तम् एव पिङ्गलकं गच्छामि । कदाचिन् मां शरणागतं रक्षति । प्राणैर् न वियोजयति । यत उक्तं च-
+
+
+धर्मार्थं यतताम् अपीह विपदो देवाद् यदि स्युः क्वचित्
+
+तत् तासाम् उपशान्तये सुमतिभिः कार्यो विशेषान् नयः ।
+
+लोके ख्यातिम् उपागतात्र सकले लोकोक्तिर् एषा यतो
+
+दग्धानां किल वह्निना हित-करः सेको ऽपि तस्योद्भवः ॥पन्च्१।४०२॥
+
+
+तथा च-
+
+लोकेऽथवा तनु-भृतां निज-कर्म-पाकं
+
+नित्यं समाश्रितवतां सुहित-क्रियाणाम् ।
+
+भावार्जितं शुभम् अथाप्य् अशुभं निकामं
+
+यद् भावि तद् भवति नात्र विचार-हेतुः ॥पन्च्१।४०३॥
+
+
+अपरं चान्यत्र गतस्यापि मे कस्यचिद् दुष्ट-सत्त्वस्य मांसाशिनः सकाशान् मृत्युर् भविष्यति । तद् वरं सिंहात् । उक्तं च-
+
+
+महद्भिः स्पर्धमानस्य विपद् एव गरीयसी ।
+
+दन्त-भङ्गेऽपि नागानां श्लाघ्यो गिरि-विदारणे ॥पन्च्१।४०४॥
+
+
+तथा च-
+
+महतो ऽपि क्षयं लब्ध्वा श्लाघ्यं नीचो ऽपि गच्छति ।
+
+दानार्थी मधुपो यद्वद् गज-कर्ण-समाहतः ॥पन्च्१।४०५॥
+
+
+एवं निश्चित्य स स्थलित-गतिं मन्दं गत्वा सिंहाश्रयं पश्यन्न् अपठत्-अहो, साध्व् इदम् उच्यते-
+
+
+अन्तर्-लीन-भुजङ्गमं गृहम् इवान्तःस्थोग्र-सिंहं वनं
+
+ग्राहाकीर्णम् इवाभिराम-कमल-च्छाया-सनाथं सरः ।
+
+कालेनार्य-जनापवाद-पिशुनैः क्षुद्रैर् अनार्यैः श्रितं
+
+दुःखेन प्रविगाह्यते स-चकितं राज्ञां मनः सामयम् ॥पन्च्१।४०६॥
+
+
+एवं पठन् दमनकोक्ताकारं पिङ्गलकं दृष्ट्वा प्रचकितः संवृत-शरीरो दूरतरं प्रणाम-कृतिं विनाप्य् उपविष्टः । पिङ्गलको ऽपि तथाविधं तं विलोक्य दमनक-वाक्यं श्रद्दधानः कोपात् तस्योपरि पपात ।
+
+
+अथ सञ्जीवकः खर-नख-विकर्तित-पृष्ठः शृङ्गाभ्यां तद्-उदरम् उल्लिख्य कथम् अपि तस्माद् अपेतः शृङ्गाभ्यां हन्तुम् इच्छन् युद्धायावस्थितः । अथ द्वाव् अपि तौ पुष्पित-पलाश-प्रतिमौ परस्पर-वध-काङ्क्षिणौ दृष्ट्वा करटको दमनकम् आह-भो मूढ-मते ! अनयोर् विरोधं वितन्वता त्वया साधु न कृतम् । न च त्वं नीति-तत्त्वं वेत्सि । नीतिविद्भिर् उक्तं च-
+
+
+कार्याण्य् उत्तम-दण्ड-साहस-फलान्य् आयास-साध्यानि ये प्रीत्या संशमयन्ति नीति-कुशलाः साम्नैव ते मन्त्रिणः ।
+
+निःसाराल्प-फलानि ये त्व् अविधिना वाञ्छन्ति दण्डोद्यमैस्
+
+तेषां दुर्नय-चेष्टितैर् नरपतेर् आरोप्यते श्रीस् तुलाम् ॥पन्च्१।४०७॥
+
+
+तद् यदि स्वाम्य्-अभिघातो भविष्यति तत् किं तव्दीय-मन्त्र-बुद्ध्या क्रियते । अथ सञ्जीवको न बध्यते तथाप्य् अभव्यम् । यतः प्राण-सन्देहात् तस्य च वधः । तन् मूढ ! कथं त्वं मन्त्रि-पदम् अभिलषसि । साम-सिद्धिं न वेत्सि । तद् वृथा मनोरथो ऽयं ते दण्डरुचेः । उक्तं च-
+
+
+सामादि-दण्ड-पर्यन्तो नयः प्रोक्तः स्वयम्भुवा ।
+
+तेषां दण्डस् तु पापीयांस् तं पश्चाद् विनियोजयेत् ॥पन्च्१।४०८॥
+
+
+तथा च-
+
+साम्नैव यत्र सिद्धिर् न तत्र दण्डो बुधेन विनियोज्यः ।
+
+पित्तं यदि शर्करया शाम्यति को ऽर्थः पटोलेन ॥पन्च्१।४०९॥
+
+
+तथा च-
+
+आदौ साम प्रयोक्तव्यं पुरुषेण विजानता ।
+
+साम-साध्यानि कार्याणि विक्रियां यान्ति न क्वचित् ॥पन्च्१।४१०॥
+
+न चन्द्रेण न चाउषध्या न सूर्येण न वह्निना ।
+
+साम्नैव विलयं याति विद्वेष-प्रभवं तमः ॥पन्च्१।४११॥
+
+
+तथा यत् त्वं मन्त्रित्वम् अभिलषसि, तद् अप्य् अयुक्तम् । यतस् त्वं मन्त्रि-गतिं न वेत्सि । यतः पञ्च-विधो मन्त्रः । स च कर्मणाम् आरम्भोपायः, पुरुष-द्रव्य-सम्पत्, देश-काल-विभागः, विनिपात-प्रतीकारः, कार्य-सिद्धिश् चेति । सो ऽयं स्वाम्य्-अमात्ययोर् एकतमस्य किं वा द्वयोर् अपि विनिपातः समुत्पद्यते लग्नः । तद् यदि काचिच् छक्तिर् अस्ति तद् विचिन्त्यतां विनिपात-प्रतीकारः । भिन्न-सन्धाने हि मन्त्रिणां बुद्धि-परीक्षा । तन् मूर्ख ! तत् कर्तुम् असमर्थत्वं यतो विपरीत-बुद्धिर् असि । उक्तं च-
+
+
+मन्त्रिणां भिन्न-सन्धाने भिषजां सांनिपातिके ।
+
+कर्मणि व्यज्यते प्रज्ञा सुस्थे को वा न पण्डितः ॥पन्च्१।४१२॥
+
+
+अन्यच् च-
+
+घातयितुम् एव नीचः पर-कार्यं वेत्ति न प्रसाधयितुम् ।
+
+पातयितुम् एव शक्तिर् नाखोरुद्धर्तुम् अन्न-पिटकम् ॥पन्च्१।४१३॥
+
+
+अथवा न ते दोषो ऽयम् । स्वामिनो दोषः । यस् ते वाक्यं श्रद्दधाति । उक्तं च-
+
+
+नराधिपा नीच-जनानुवर्तिनो
+
+बुधोपदिष्टेन पथा न यान्ति ये ।
+
+विशन्त्य् अतो दुर्गम-मार्ग-निर्गमं
+
+समस्त-सम्बाधम् अनर्थ-पञ्जरम् ॥पन्च्१।४१४॥
+
+
+तद् यदि त्वम् अस्य मन्त्री भविष्यसि तदान्यो ऽपि कश्चिन् नास्य समीपे साधु-जनः समेष्यति । उक्तं च-
+
+
+गुणालयो ऽप्य् असन् मन्त्री नृपतिर् नाधिगम्यते ।
+
+प्रसन्न-स्वादु-सलिलो दुष्ट-ग्राह्यो यथा ह्रदः ॥पन्च्१।४१५॥
+
+
+तथा च शिष्ट-जन-रहितस्य स्वामिनो ऽपि नाशो भविष्यति । उक्तं च-
+
+
+चित्रास्वाद-कथैर् भृत्यैर् अनायासित-कार्मुकैः ।
+
+ये रमन्ते नृपास् तेषां रमन्ते रिपवः श्रिया ॥पन्च्१।४१६॥
+
+
+तत् किं मूर्खोपदेशेन । केवलं दोषो न गुणः । उक्तं च-
+
+
+नानाम्यं नमते दारु नाश्मनि स्यात् क्षुर-क्रिया ।
+
+सूची-मुखं विजानीहि नाशिष्यायोपश्यते ॥पन्च्१।४१७॥
+
+
+दमनक आह--कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा १७
+
+वानर-यूथ-कथा
+
+
+अस्ति कस्मिंश्चित् पर्वतैक-देशे वानर-यूथम् । तच् च कदाचिद् धेमन्त-समयेऽतिकठोर-वात-संस्पर्श-वेपमान-कलेवरं तुषार-वर्षोद्धत-प्रवर्ष-घन-धारा-निपात-समाहतं न कथञ्चिच् छान्तिम् अगमत् । अथ केचिद् वानरा वह्नि-कण-सदृशानि गुञ्जा-फलान्य् अवचित्य वह्नि-वाञ्छया फूत्कुर्वन्तः समन्तात् तस्थुः ।
+
+
+अथ सुचीमुखो नाम पक्षी तेषां तं वृथायासमवलोक्य प्रोवाच-भोः, सर्वे मूर्खा यूयम् । नैते वह्नि-कणाः गुञ्जा-फलानि एतानि । तत् किं वृथा श्रमेण । नैतस्माच् छीत-रक्षा भविष्यति । तद् अन्विष्यतां कश्चिन् निर्वातो वन-प्रदेशो गुहा गिरि-कन्दरं वा । अद्यापि स-टोपा मेधा दृश्यन्ते ।
+
+
+अथ तेषाम् एकतमो वृद्ध-वानरस् तम् उवाच-भो मूर्ख ! किं तावद् अनेन व्यापारेण । तद् गम्यताम् । उक्तं च-
+
+
+मुहुर् विघ्नित-कर्माणं द्यूत-कारं पराजितम् ।
+
+नालापयेद् विवेक-ज्ञो यदीच्छेत् सिद्धिम् आत्मनः ॥पन्च्१।४१८॥
+
+
+तथा च-
+
+आखेटकं वृथाक्लेशं मूर्खं व्यसनसंस्थितम् ।
+
+समालापेन यो युङ्क्ते स गच्छति पराभवम् ॥पन्च्१।४१९॥
+
+
+सो ऽपि तम् अनादृत्य भूयो ऽपि वानरान् अनवरतम् आह-भोः ! किं वृथा क्लेशेन ? अथ यावद् असौ न कथञ्चित् प्रलपन् विरमति तावद् एकेन वानरेण व्यर्थ-श्रमत्वात् कुपितेन पक्षाभ्यां गृहीत्वा शिलायाम् आस्फालित उपरतश् च ।
+
+
+अतो ऽहं ब्रवीमि-नानम्यं नमते दारु इत्य् आदि । तथा च-
+
+
+उपदेशो हि मूर्खाणां प्रकोपाय न शान्तये ।
+
+पयः-पानं भुजङ्गानां केवलं विष-वर्धनम् ॥पन्च्१।४२०॥
+
+
+अन्यच् च-
+
+उपदेशो न दातव्यो यादृशे तादृशे नरे ।
+
+पश्य वानरमूर्खेण सुगृही निर्गृहीकृता ॥पन्च्१।४२१॥
+
+
+दमनक आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा १८
+
+
+कस्मिंश्चिद् वने शमी-वृक्ष-शाखालम्बित-वसथं कृत्वारण्य-चटक-दम्पती प्रतिवसतः स्म । अथ कदाचित् तयोः सुख-संस्थयोर् हेमन्त-मेघो मन्दं मन्दं वर्षितुम् आरब्धः । अत्रान्तरे कश्चिच् छाखा-मृगो वातासार-समाहतः प्रोद्धूषित-शरीरो दन्तवीणां वादयन् वेपमानस् तस्याः शम्या मूलम् आसाद्योपविष्टः । अथ तं तादृषम् अवलोक्य चटका प्राह-भो भद्र !
+
+हस्त-पाद-समोपेतो दृश्यसे पुरुषाकृतिः । शीतेन भिद्यसे मूढ कथं न कुरुषे गृहम् ॥पन्च्१।४२२॥
+
+एतच् छ्रुत्वा तां वानरः सकोपम् आह-अधमे कस्मान् न त्वं मौन-व्रता भवसि ? अहो धार्ष्ट्यम् अस्याः । अद्य माम् उपहसति-
+
+
+सूची-मुखि दुराचारा रण्डा पण्डित-वादिनी ।
+
+नाशङ्कते प्रजल्पन्ती तत् किम् एनां न हन्म्य् अहम् ॥पन्च्१।४२३॥
+
+
+एवं प्रलप्य ताम् आह-मुग्धे ! किं मम चिन्तया तव प्रयोजनम् ? उक्तं च-
+
+वाच्यं श्रद्धा-समेतस्य पृच्छतेश् च विशेषतः ।
+
+प्रोक्तं श्रद्धा-विहीनस्य अरण्य-रुदितोपमम् ॥पन्च्१।४२४॥
+
+
+तत् किं बहुना तावत् । कुलाय-स्थितया तया पुनर् अप्य् अभिहितः । स तावत् तां शमीम् आरुह्य तस्याः कुलायं शतधा खण्डशो ऽकरोत् । अतो ऽहं ब्रवीमि-उपदेशो न दातव्यः इति ।
+
+
+तन् मूर्ख ! शिक्षापितो ऽपि न शिक्षितस् त्वम् । अथवा न ते दोषो ऽस्ति, यतः साधोः शिक्षा गुणाय सम्पद्यते, नासाधोः । उक्तं च-
+
+
+किं करोत्य् एव पाण्डित्यम् अस्थाने विनियोजितम् ।
+
+अन्धकार-प्रतिच्छन्ने घटे दीप इवाहितः ॥पन्च्१।४२५॥
+
+
+तद्-व्यर्थ-पाण्डित्यम् आश्रित्य मम वचनम् अशृण्वन्न् आत्मनः शान्तिम् अपि वेत्सि । तन् नूनम् अपजातस् त्वम् । उक्तं च-
+
+
+जातः पुत्रो ऽनुजातश् च अतिजातस् तथैव च ।
+
+अपजातश् च लोकेऽस्मिन् मन्तव्याः शास्त्र-वेदिभिः ॥पन्च्१।४२६॥
+
+मातृ-तुल्य-गुणो जातस् त्व् अनुजातः पितुः समः ।
+
+अतिजातो ऽधिकस् तस्माद् अपजातो ऽधमाधमः ॥पन्च्१।४२७॥
+
+
+अप्य् आत्मनो विनाशं गणयति न खलः पर-व्यसन-हृष्टः ।
+
+प्रायो मस्तक-नाशे समर-मुखे नृत्यति कबन्धः ॥पन्च्१।४२८॥
+
+
+अहो, साध्व् इदम् उच्यते-
+
+
+धर्म-बुद्धिः कुबुद्धिश् च द्वाव् एतौ विदितौ मम ।
+
+पुत्रेण व्यर्थ-पाण्डित्यात् पिता धूमेन घातितः ॥पन्च्१।४२९॥
+
+
+दमनक आह--कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा २०
+
+कृष्ण-सर्प-कथा
+
+
+कस्मिंश्चिद् देशे धर्मबुद्धिः पापबुद्धिश् च द्वे मित्रे प्रतिवसतः । अथ कदाचित् पापबुद्धिना चिन्तितं यद्-अहं तावन् मूर्खो दारिद्र्योपेतश् च । तद् एनं धर्मबुद्धिम् आदाय देशान्तरं गत्वा अस्याश्रयेणार्थोपार्जनां कृत्वैनम् अपि वञ्चयित्वा सुखीभवामि ।
+
+
+अथान्यस्मिन्न् अहनि पापबुद्धिर् धर्मबुद्धिं प्राह-भो मित्र ! वार्धक-भावे किं त्व् आत्म-विचेष्टितं स्मरसि । देशान्तरम् अदृष्ट्वा कां शिष्ट-जनस्य वार्त्तां कथयिष्यसि ? उक्तं च-
+
+
+देशान्तरेषु बहु-विध-भाषा-वेषादि येन न ज्ञातम् ।
+
+भ्रमता धरणी-पीठे तस्य फलं जन्मनो व्यर्थम् ॥पन्च्१।४३०॥
+
+
+तथा च-
+
+विद्यां वित्तं शिल्पं तावन् नाप्नोति मानवः सम्यक् ।
+
+यावद् व्रजति न भूमौ देशाद् देशान्तरं हृष्टः ॥पन्च्१।४३१॥
+
+
+अथ तस्य तद्-वचनम् आकर्ण्य प्रहृष्ट-मनास् तेनैव सह गुरु-जनानुज्ञातः शुभेऽहनि देशान्तरं प्रस्थितः । तत्र च धर्मबुद्धि-प्रभावेण भ्रमता पापबुद्धिना प्रभूततरं वित्तम् आसादितम् । ततश् च तौ द्वाव् अपि प्रभूतोपार्जित-द्रव्यौ प्रहृष्टौ स्व-गृहं प्रत्य् औत्सुक्येन प्रस्थितौ । उक्तं च-
+
+
+प्राप्त-विद्यार्थ-शिल्पानां देशान्तर-निवासिनाम् ।
+
+क्रोश-मात्रो ऽपि भू-भागः शत-योजनवद् भवेत् ॥पन्च्१।४३२॥
+
+
+अथ स्व-स्थान-समीप-वर्तिना पापबुद्धिना धर्मबुद्धिर् अभिहितः-भद्र ! न सर्वम् एतद् धनं गृहं प्रति नेतुं युज्यते । यतः कुटुम्बिनो बान्धवाश् च प्रार्थयिष्यन्ते । तद् अत्रैव वन-गहने क्वापि भूमौ निक्षिप्य किञ्चिन् मात्रम् आदाय गृहं प्रविशावः ।  भूयो ऽपि प्रयोजने सञ्जाते तन्-मात्रं समेत्यास्मात् स्थानान् नेष्यावः । उक्तं च-
+
+
+न वित्तं दर्शयेत् प्राज्ञः कस्यचित् स्वल्पम् अप्य् अहो ।
+
+मुनेर् अपि यतस् तस्य दर्शनाच् चलते मनः ॥पन्च्१।४३३॥
+
+
+तथा च-
+
+यथामिषं जले मत्स्यैर् भक्ष्यते श्वापदैर् भुवि ।
+
+आकाशे पक्षिभिश् चैव तथा सर्वत्र वित्तवान् ॥पन्च्१।४३४॥
+
+
+तद् आकर्ण्य धर्मबुद्धिर् आह-भद्र एवं क्रियताम् । तथानुष्ठिते द्वाव् अपि तौ स्व-गृहं गत्वा सुखेन संस्थितवन्तौ । अथान्यस्मिन्न् अहनि पापबुद्धिर् निशीथेऽटव्यां गत्वा तत् सर्वं वित्तं समादाय गर्तं पूरयित्वा स्व-भवनं जगाम ।
+
+
+अथान्येद्युर् धर्मबुद्धिं समेत्य प्रोवाच-सखे बहु-कुटुम्बा वयं वित्ताभावात् सीदामः । तद् गत्वा तत्र स्थाने किंचिन् मात्रं धनम् आनयावः ।
+
+
+सो ऽब्रवीत्-भद्र, एवं क्रियताम् ।
+
+
+अथ द्वाव् अपि गत्वा तत् स्थानं यावत् खनतस् तावद् रिक्तं भाण्डं दृष्टवन्तौ । अत्रान्तरे पापबुद्धिः शिरस् ताडयन् प्रोवाच-भो धर्मबुद्धे ! त्वया हृतम् एतद् धनं, नान्येन । यतो भूयो ऽपि गर्तापूरणं कृतम् । तत् प्रयच्छ मे तस्यार्धम् । अन्यथाहं राज-कुले निवेदयिष्यामि ।
+
+
+स आह-भो दुरात्मन् ! मा मैवं वद । धर्मबुद्धिः खल्व् अहम् । नैतच् चौर-कर्म करोमि । उक्तं च-
+
+
+मातृवत् पर-दाराणि पर-द्रव्याणि लोष्टवत् ।
+
+आत्मवत् सर्व-भूतानि वीक्षन्ते धर्म-बुद्धयः ॥पन्च्१।४३५॥
+
+
+एवं द्वाव् अपि विवदमानौ धर्माधिकारिणं गतौ ? प्रोचतुश् च परस्परं दूषयन्तौ । अथ धर्माधिकरणाधिष्ठित-पुरुषैर् दिव्यार्थं यावन् नियोजितौ तावत् पापबुद्धिर् आह-
+
+अहो न सम्यग्-दृष्टो न्यायः । उक्तं च-
+
+
+विवादे अन्विष्यते पत्रं तद्-अभावेऽपि साक्षिणः ।
+
+साक्ष्य् अभावात् ततो दिव्यं प्रवदन्ति मनीषिणः ॥पन्च्१।४३६॥
+
+
+तद् अत्र विषये मम वृक्ष-देवताः साक्षि-भूतास् तिष्ठन्ति । ता अप्य् आवयोर् एकतरं चौरं साधुं वा करिष्यन्ति । अथ तैः सर्वैर् अभिहितम्-भो युक्तम् उक्तं भवता । उक्तं च-
+
+
+अन्त्यजो ऽपि यदा साक्षी विवादे सम्प्रजायते ।
+
+न तत्र युज्यते दिव्यं किं पुनर् वन-देवताः ॥पन्च्१।४३७॥
+
+
+तद् अस्माकम् अप्य् अत्र विषये महत् कौतूहलम् वर्तते । प्रत्यूष-समये युवाभ्याम् अप्य् अस्माभिः सह तत्र वनोद्देशे गन्तव्यम् इति । एतस्मिन्न् अन्तरे पापबुद्धिः स्व-गृहं गत्वा स्व-जनकम् उवाच-तात, प्रभूतो ऽयं मयार्थो धर्मबुद्धेश् चोरितः ।  स च तव वचनेन परिणतिं गच्छति । अन्यथास्माकं प्राणैः सह यास्यति ।
+
+
+स आह-वत्स, द्रुतं वद येन प्रोच्य तद् द्रव्यं स्थिरतां नयामि ।
+
+
+पापबुद्धिर् आह-तात, अस्ति तत्-प्रदेशे महा-शमी । तस्यां महत् कोटरम् अस्ति । तत्र त्वं सांप्रतम् एव प्रविश । ततः प्रभाते यदाहं सत्य-श्रावणं करोमि, तदा त्वया वाच्यं यद् धर्मबुद्धिश् चौर इति ।
+
+
+तथानुष्ठिते प्रत्यूषे स्नात्वा पापबुद्धिः धर्मबुद्धि-पुरः-सरो धर्माधिकरणकैः सह तां शमीम् अभ्येत्य तार-स्वरेण प्रोवाच ।
+
+
+आदित्यचन्द्राव् अनिलो ऽनलश् च
+
+द्यौर् भूमिर् आपो हृदयं यमश् च । अहश् च रात्रिश् च उभे च सन्ध्ये
+
+धर्मो हि जानाति नरस्य वृत्तम् ॥पन्च्१।४३८॥
+
+
+भगवति वन-देवते ! आवयोर् मध्ये यश् चौर तत् कथयत ।
+
+
+अथ पापबुद्धि-पिता शमी-कोटर-स्थः प्रोवाच-भो, धर्मबुद्धिना हृतम् एतद् धनम् ।
+
+
+तद् आकर्ण्य सर्वे ते राज-पुरुषा विस्मयोत्फुल्ल-लोचना यावद् धर्मबुद्धेर् वित्त-हरणोचितं निग्रहं शास्त्र-दृष्ट्यावलोकयन्ति तावद् धर्मबुद्धिना तच् छमी-कोटरं वह्नि-भोज्य-द्रव्यैः परिवेष्ट्य वह्निना सन्दीपितम् । अथ ज्वलति तस्मिन् शमी-कोटरेऽर्ध-दग्ध-शरीरः स्फुटितेक्षणः करुणं परिदेवयन् पापबुद्धि-पिता निश्चक्राम । ततश् च तैः सर्वैः पृष्टः-भो किम् इदम् ?
+
+
+इत्य् उक्ते इदं सर्वं कुकृत्यं पापबुद्धेः कारणाज् जातम् इत्य् उक्त्वा मृतः । ततस् ते राज-पुरुषाः पापबुद्धिं शमी-शाखायां प्रतिलम्ब्य धर्मबुद्धिं प्रशंस्येदम् ऊचुः-
+
+अहो साध्व् इदम् उच्यते-
+
+
+उपायं चिन्तयेत् प्राज्ञस् तथापायम् अपि चिन्तयेत् ।
+
+पश्यतो बक-मूर्खस्य नकुलैर् भक्षिताः सुताः ॥पन्च्१।४३९॥
+
+
+धर्म-बुद्धिः प्राह-कथम् एतत् ?
+
+
+ते प्रोचुः-
+
+कथा २१
+
+जीर्णधन-नाम-वणिक्-पुत्र-कथा
+
+
+अस्ति कस्मिंश्चिद् वनोद्देशे बहु-बक-सनाथो वट-पादपः । तस्य कोटरे कृष्ण-सर्पः प्रतिवसति स्म । स च बक-बालकान् अजात-पक्षान् अपि सदैव भक्षयन् कालं नयति । अथैको बकस् तेन भक्षितान्य् अपत्यानि दृष्ट्वा शिशु-वैराग्यात् सरस्-तीरम् आसाद्य बाष्प-पूरैत-नयनो ऽधो-मुखस् तिष्ठति । तं च तादृक्-चेष्टितम् अवलोक्य कुलीरकः प्रोवाच-माम किम् एवं रुद्यते भवताद्य ?
+
+
+स आह-भद्र किं करोमि ? मम मन्द-भाग्यस्य बालकाः कोटर-निवासिना सर्पेण भक्षिताः । तद्-दुःख-दुःखितो ऽहं रोदिमि । तत् कथय मे यद्य् अस्ति कश्चिद् उपायस् तद्-विनाशाय ।
+
+तद् आकर्ण्य कुलीरकश् चिन्तयामास-अयं तावद् अस्मत्-सहज-वैरी । तथोपदेशं प्रयच्छामि सत्यानृतं यथान्येऽपि बकाः सर्वे सङ्क्षयम् आयान्ति । उक्तं च-
+
+
+नवनीत-समां वाणीं कृत्वा चित्तं तु निर्दयम् ।
+
+तथा प्रबोध्यते शत्रुः सान्वयो म्रियते यथा ॥पन्च्१।४४०॥
+
+
+आह च-माम, यद्य् एवं तन् मत्स्य-मांस-खण्डानि नकुलस्य बिल-द्वारात् सर्प-कोटरं यावत् प्रक्षिप यथा नकुलस् तन्-मार्गेण गत्वा तं दुष्ट-सर्पं विनाशयति ।
+
+
+अथ तथानुष्ठिते मत्स्य-मांसानुसारिणा नकुलेन तं कृष्ण-सर्पं निहत्य तेऽपि तद्-वृक्षाश्रयाः सर्वे बकाश् च शनैः शनैर् भक्षिताः । अतो वयं ब्रूमः-उपायं चिन्तयेद् इति ।
+
+
+एवं मूढ ! त्वयाप्य् अपायश् चिन्तितो नोपायः पाप-बुद्धिवत् । तन् न भवसि त्वं सज्जनः । केवलं पाप-बुद्धिर् असि । ज्ञातो मया स्वामिनः प्राण-सन्देहानयनात् । प्रकटीकृतं त्वया स्वयम् एवात्मनो दुष्टत्वं कौटिल्यं च । अथवा साध्व् इदम् उच्यते-
+
+
+यत्नाद् अपि कः पश्येच् छिखिनाम् आहार-निःसरण-मार्गम् ।
+
+यदि जलद-ध्वनि-मुदितास् त एव मूढा न नृत्येयुः ॥पन्च्१।४४१॥
+
+
+यदि त्वं स्वामिनम् एनां दशां नयसि तद् अस्मद्-विधस्य का गणना ? तस्मान् ममासन्नेन भवता न भाव्यम् । उक्तं च-
+
+
+तुलां लोह-सहस्रस्य यत्र खादन्ति मूषकाः ।
+
+राजंस् तत्र हरेच् छ्येनो बालकं नात्र संशयः ॥पन्च्१।४४२॥
+
+
+दमनक आह--कथम् एतत् ?
+
+सो ऽब्रवीत्-
+
+
+कथा २२
+
+जीर्णधन-नाम-वणिक्-पुत्र-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने जीर्णधनो नाम वणिक्-पुत्रः । स च द्रव्य-क्षयाद् देशान्तर-गमन-मना व्यचिन्तयत्-
+
+
+यत्र देशे अथ वा स्थाने भोगान् भुक्त्वा स्ववीर्यतः ।
+
+तस्मिन् विभवहीनो यो वसेत् स पुरुषाधमः ॥पन्च्१।४४३॥
+
+
+तथा च-
+
+येनाहंकारयुक्तेन चिरं विलसितं पुरा ।
+
+दीनं वदति तत्रैव यः परेषां स निन्दितः ॥पन्च्१।४४४॥
+
+
+तस्य च गृहे सहस्र-लोह-भार-घटिता पूर्व-पुरुषोपार्जिता तुलासीत् । तां च कस्यचिद् छ्रेष्टिनो गृहे निक्षेप-भूतां कृत्वा देशान्तरं प्रस्थितः । ततः सुचिरं कालं देशान्तरं यथेच्छया भ्रान्त्वा पुनः स्व-पुरम् आगत्य तं श्रेष्ठिनम् उवाच-भोः श्रेष्ठिन् ! दीयतां मे सा निक्षेप-तुला ।
+
+
+स आह-भो ! नास्ति सा त्वदीया तुला । मूषिकैर् भक्षिता ।
+
+
+जीर्णधन आह-भोः श्रेष्ठिन् ! नास्ति दोषस् ते यदि मूषिकैर् भक्षितेति । ईदृग् एवायं संसारः । न किंचिद् अत्र शाश्वतम् अस्ति । परम् अहं नद्यां स्नानार्थं गमिष्यामि । तत् त्वम् आत्मीयं शिशुम् एनं धनदेव-नामानं मया सह स्नानोपकरण-हस्तं प्रेषयेति ।
+
+
+सो ऽपि चौर्य-भयात् तस्य शङ्कितः स्व-पुत्रम् उवाच-वत्स, पितृव्यो ऽयं तव स्नानार्थं नद्यां यास्यति । तद् गम्यताम् अनेन सार्धं स्नानोपकरणम् आदायेति । अहो साध्व् इदम् उच्यते-
+
+
+न भक्त्या कस्यचित् को ऽपि प्रियं प्रकुरुते नरः ।
+
+मुक्त्वा भयं प्रलोभं वा कार्य-कारणम् एव वा ॥पन्च्१।४४५॥
+
+
+तथा च-
+
+अत्यादरो भवेद् यत्र कार्य-कारण-वर्जितः ।
+
+तत्र शङ्का प्रकर्तव्या परिणामेऽसुखावहा ॥पन्च्१।४४६॥
+
+
+अथासौ वणिक्-शिशुः स्नानोपकरणम् आदाय प्रहृष्ट-मनास् तेनाभ्यागतेन सह प्रस्थितः । तथानुष्ठिते वणिक् स्नात्वा तं शिशुं नदी-गुहायां प्रक्षिप्य तद्-द्वारं बृहच्-छिलयाच्छाद्य सत्वरं गृहम् आगतः । पृष्टश् च तेन वणिजा-भो ऽभ्यागत तत् कथ्यतां कुत्र मे शिशुर् यस् त्वया सह नदीं गतः इति ।
+
+
+स आह-नदी-तटात् स श्येनेन हृत इति ।
+
+
+श्रेष्ठ्य् आह-मिथ्या-वादिन् ! किं क्वचिच् छ्येनो बालं हर्तुं शक्नोति ? तत् समर्पय मे सुतम्, अन्यथा राज-कुले निवेदयिष्यामीति ।
+
+
+स आह-भोः सत्यवादिन् ! यथा श्येनो बालं न नयति तथा मूषिका अपि लोह-भार-घटितां तुलां न भक्षयन्ति । तद् अर्पय मे तुलां यदि दारकेण प्रयोजनम् । एवं विवदमानौ द्वाव् अपि राज-कुलं गतौ ।
+
+
+तत्र श्रेष्ठी तार-स्वरेण प्रोवाच-भो ऽब्रह्मण्यम् अब्रह्मण्यम् । मम शिशुर् अनेन चौरेणापहृतः ।
+
+
+अथ धर्माधिकारिणस् तम् ऊचुः-भोः समर्प्यतां श्रेष्ठि-सुतः ।
+
+
+स आह-किं करोमि ? पश्यतो मे नदी-तटाच् छ्येनेनापहृतः शिशुः ।
+
+
+तच् छ्रुत्वा ते प्रोचुः-भो न सत्यम् अभिहितं भवता । किं श्येनः शिशुं हर्तुं समर्थो भवति ?
+
+
+स आह-भो भोः श्रूयतां मद्-वचः ।
+
+
+तुलां लोह-सहस्रस्य यत्र खादन्ति मूषिकाः ।
+
+राजंस् तत्र हरेच् छ्येनो बालकं नात्र संशयः ॥पन्च्१।४४७॥
+
+
+ते प्रोचुः-कथम् एतत् ?
+
+
+ततः श्रेष्ठी सभ्यानाम् अग्रे सर्वं वृत्तान्तं निवेदयामास । ततस् तैर् विहस्य द्वाव् अपि तौ परस्परं सम्बोध्य तुला-शिशु-प्रदानेन सन्तोषितौ ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-तुलां लोह-सहस्रस्य इति ।
+
+तन् मूर्ख ! सञ्जीवक-प्रसादम् असहमानेन त्वयैतत् कृतम् । अहो साध्व् इदम् उच्यते-
+
+
+प्रायेणात्र कुलान्वितं कुकुलजाः श्री-वल्लभं दुर्भगा
+
+दातारं कृपणा ऋजून् अनृजवो वित्ते स्थितं निर्धनाः ।
+
+वैरूप्योपहृताश् च कान्त-वपुषं धर्माश्रयं पापिनो
+
+नाना-शास्त्र-विचक्षणं च पुरुषं निन्दन्ति मूर्खाः सदा ॥पन्च्१।४४८॥
+
+
+तथा च-
+
+मूर्खाणां पण्डिता द्वेष्या निर्धनानां महाधनाः ।
+
+व्रतिनः पाप-शीलानाम् असतीनां कुल-स्त्रियः ॥पन्च्१।४४९॥
+
+
+तन् मूर्ख त्वया हितम् अप्य् अहितं कृतम् । उक्तं च-
+
+
+पण्डितो ऽपि वरं शत्रुर् न मूर्खो हित-कारकः ।
+
+वानरेण हतो राजा विप्राश् चीरेण रक्षिताः ॥पन्च्१।४५०॥
+
+
+दमनक आह--कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा २३
+
+
+कस्यचिद् राज्ञो नित्यं वानरो ऽतिभक्ति-परो ऽङ्ग-सेवको ऽन्तः-पुरे अप्य् अप्रतिषिद्ध-प्रसरो ऽतिविश्वास-स्थानम् अभूत् । एकदा राज्ञो निद्रां गतस्य वानरे व्यजनं नीत्वा वायुं विदधति राज्ञो वक्षः-स्थलोपरि मक्षिकोपविष्टा । व्यजनेन मुहुर् मुहुर् निषिध्यमानापि पुनः पुनस् तत्र एवोपविशति । ततस् तेन स्वभाव-चपलेन मूर्खेण वानरेण क्रुद्धेन सता तीक्ष्णं खड्गम् आदाय तस्या उपरि प्रहारो विहितः । ततो मक्षिकोड्डीय गता, परं तेन शित-धारेणासिना राज्ञो वक्षो द्विधा जातं राजा मृतश् च । तस्माच् चिरायुर् इच्छता नृपेण मूर्खो ऽनुचरो न रक्षणीयः ।
+
+
+अपरम् एकस्मिन् नगरे को ऽपि विप्रो महा-विद्वान् परं पूर्व-जन्म-योगेन चौरो वर्तते । तस्मिन् पुरेऽन्य-देशाद् आगतांश् चतुरो विप्रान् बहूनि वस्तूनि विक्रीणतो दृष्ट्वा चिन्तितवान्-अहो केनोपायेनैषां धनं लभे । इति विचिन्त्य तेषां पुरो ऽनेकानि शास्त्रोक्तानि सुभाषितानि चातिप्रियाणि मधुराणि वचनानि जल्पता तेषां मनसि विश्वासम् उत्पाद्य सेवा कर्तुम् आरब्धा । अथवा साध्व् इदम् उच्यते-
+
+
+असती भवति सलज्जा क्षारं नीरं च शीतलं भवति ।
+
+दम्भी भवति विवेकी प्रियवक्ता भवति धूर्तजनः ॥पन्च्१।४५१॥
+
+
+अथ तस्मिन् सेवां कुर्वति तैर् विप्रैः सर्व-वस्तूनि विक्रीय बहु-मूल्यानि रत्नानि क्रीतानि । ततस् तानि जङ्घा-मध्ये तत्-समक्षं प्रक्षिप्य स्व-देशं प्रति गन्तुम् उद्यमो विहितः । ततः स धूर्त-विप्रस् तान् विप्रान् गन्तुम् उद्यतान् प्रेक्ष्य चिन्ता-व्याकुलित-मनाः संजातः-
+
+अहो धनम् एतन् न किंचिन् मम चटितम् । अथैभिः सह यामि । पथि क्वापि विषं दत्त्वैतान् निहत्य सर्व-रत्नानि गृह्णामि । इति विचिन्त्य तेषाम् अग्रे स-करुणं विलप्येदम् आह-भो मित्राणि ! यूयं माम् एकाकिनं मुक्त्वा गन्तुम् उद्यताः । तन् मे मनो भवद्भिः सह स्नेह-पाशेन बद्धं भवद्-विरह-नाम्नैवाकुलं सञ्जातं यथा धृतिं क्वापि न धत्ते । यूयम् अनुग्रहं विधाय सहाय-भूतं माम् अपि सहैव नयत ।
+
+
+तद्-वचः श्रुत्वा ते करुणार्द्र-चित्तास् तेन समम् एव स्व-देशं प्रति प्रस्थिताः । अथाध्वनि तेषां पञ्चानाम् अपि पल्ली-पुर-मध्ये व्रजतां ध्वाङ्क्षाः कथयितुम् आरब्धाः-रे रे किराताः ! धावत धावत । स-पाद-लक्ष-धनिनो यान्ति ।  एतान् निहत्य धनं नयत ।
+
+
+ततः किरातैर् ध्वाङ्क्ष-वचनम् आकर्ण्य सत्वरं गत्वा ते विप्रा लगुड-प्रहारैर् जर्जरी-कृत्य वस्त्राणि मोचयित्वा विलोकिताः, परं धनं किंचिन् न लब्धम् । तदा तैः किरातैर् अभिहितम्-भोः पान्थाः ! पुरा कदापि ध्वाङ्क्ष-वचनम् अनृतं नासीत् । ततो भवतां संनिधौ क्वापि धनं विद्यते तद् अर्पयत । अन्यथा सर्वेषाम् अपि वधं विधाय चर्म विदार्य प्रत्यङ्गं प्रेक्ष्य धनं नेष्यामः ।
+
+
+तदा तेषाम् ईदृशं वचनम् आकर्ण्य चौर-विप्रेण मनसि चिन्तितम्-यदैषां विप्राणां वधं विधायाङ्गं विलोक्य रत्नानि नेष्यन्ति, तदापि मां वधिष्यन्ति ततो ऽहं पूर्वम् एवात्मानम् अरत्नं समर्प्यैतान् मुञ्चामि । उक्तं च-
+
+
+मृत्योर् बिभेषि किं बाल न स भीतं विमुञ्चति ।
+
+अद्य वाब्द-शतान्ते वा मृत्युर् वै प्राणिनां ध्रुवः ॥पन्च्१।४५२॥
+
+
+तथा च-
+
+गवार्थे ब्राह्मणार्थे च प्राण-त्यागं करोति यः ।
+
+सूर्यस्य मण्डलं भित्त्वा स याति परमां गतिम् ॥पन्च्१।४५३॥
+
+
+इति निश्चित्याभिहितं-भोः किराताः ! यद्य् एवं ततो मां पूर्वं निहत्य विलोकयत । ततस् तैस् तथानुष्ठिते तं धन-रहितम् अवलोक्यापरे चत्वारो ऽपि मुक्ताः ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-पण्डितो ऽपि वरं शत्रुः इति ।
+
+अथैवं संवदतोः सञ्जीवकः क्षणम् एकं पीङ्गलकेन सह युद्धं कृत्वा तस्य खर-नखर-प्रहाराभिहितो गतासुर् वसुन्धरा-पीठे निपपात । अथ तं गतासुम् अवलोक्य पिङ्गलकस् तद्-गुण-स्मरणार्द्र-हृदयः प्रोवाच-भोः, अयुक्तं मया पापेन कृतं सञ्जीवकं व्यापादयता । यतो विश्वास-घाताद् अन्यन् नास्ति पापतरं कर्म । उक्तं च-
+
+
+मित्र-द्रोही कृतघ्नश् च यश् च विश्वास-घातकः ।
+
+ते नरा नरकं यान्ति यावच् चन्द्र-दिवाकरौ ॥पन्च्१।४५४॥
+
+
+भूमि-क्षये राज-विनाश एव
+
+भृत्यस्य वा बुद्धिमतो विनाशे ।
+
+नो युक्तम् उक्तं ह्य् अनयोः समत्वं
+
+नष्टापि भूमिः सुलभा न भृत्याः ॥पन्च्१।४५५॥
+
+
+तथा मया सभा-मध्ये स सदैव प्रशंसितः । तत् किं कथयिष्यामि तेषाम् अग्रतः । उक्तं च-
+
+
+उक्तो भवति यः पूर्वं गुणवान् इति संसदि ।
+
+न तस्य दोषो वक्तव्यः प्रतिज्ञा-भङ्ग-भीरुणा ॥पन्च्१।४५६॥
+
+
+एवं-विधं प्रलपन्तं दमनकः समेत्य सहर्षम् इदम् आह-देव, कातरतमस् तवैष न्यायो यद् द्रोह-कारिणं शष्प-भुजं हत्वेत्थं शोचसि । तन् नैतद् उपपन्नं भूभुजाम् । उक्तं च-
+
+
+पिता वा यदि वा भ्राता पुत्रो भार्याथवा सुहृत् ।
+
+प्राण-द्रोहं यदा गच्छेद् धन्तव्यो नास्ति पातकम् ॥पन्च्१।४५७॥
+
+
+तथा च-
+
+राजा घृणी ब्राह्मणः सर्व-भक्षी
+
+स्त्री चात्रपा दुष्टमतिः सहायः ।
+
+प्रेष्यः प्रतीपो ऽधिकृतः प्रसादी
+
+त्याज्या अमी यश् च कृतं न वेत्ति ॥पन्च्१।४५८॥
+
+
+अपि च-
+
+सत्यानृता च परुषा प्रिय-वादिनी च
+
+हिंस्रा दयालुर् अपि चार्थ-परा वदान्या ।
+
+भूरि-व्यथा प्रचुर-वित्त-समागमा च
+
+वेश्याङ्गनेव नृप-नीतिर् अनेक-रूपा ॥पन्च्१।४५९॥
+
+
+अपि च-
+
+अकृतोपद्रवः कश्चिन् महान् अपि न पूज्यते ।
+
+पूजयन्ति नरा नागान् न तार्क्ष्यं नाग-घातिनम् ॥पन्च्१।४६०॥
+
+
+तथा च-
+
+अशोच्यान् अन्वशोचस् त्वं प्रज्ञा-वादांश् च भाषसे ।
+
+गतासून् अगतासूंश् च नानुशोचन्ति पण्डिताः ॥पन्च्१।४६१॥
+
+
+एवं तेन सम्बोधितः पिङ्गलकः सञ्जीवक-शोकं त्यक्त्वा दमनक-साचिव्येन राज्यम् अकरोत् ।
+
+
+इति श्री-विष्णु-शर्म-विरचिते पञ्चतन्त्रे
+
+मित्र-भेदो नाम
+
+प्रथमं तन्त्रम्
+
+॥१॥
+
+
+
+***********************************************************************  
+
+
+
+अथ मित्र-सम्प्राप्तिः
+
+
+अथेदम् आरभ्यते मित्र-सम्प्राप्तिर् नाम द्वितीयं तन्त्रम् । यस्यायम् आद्यः श्लोकः-
+
+असाधना अपि प्राज्ञा बुद्धिमनोत् बहु-श्रुताः ।
+
+साधयन्त्य् आशु कार्याणि काकाखु-मृग-कूर्मवत् ॥पन्च्२।१॥
+
+
+तद् यथानुश्रूयते-
+
+
+प्रस्तावना-कथा
+
+लघुपतनक-चित्रग्रीव-वृत्तान्तः
+
+
+अस्ति दाक्षिणात्ये जनपदे महिलारोप्यं नाम नगरम् । तस्य नातिदूरस्थो महोच्छ्रायवान् नाना-विहङ्गोपभुक्त-फलः कीटैर् आवृत-कोटरश् छायाश्वासित-पथिक-जन-समूहो न्यग्रोध-पादपो महान् । अथवा युक्तम्-
+
+
+छाया-सुप्त-मृगः शकुन्त-निवहैर् विष्वग्-विलुप्त-च्छदः
+
+कीटैर् आवृत-कोटरः कपि-कुलैः स्कन्धे कृत-प्रश्रयः ।
+
+विश्रब्धं मधुपैर् निपीत-कुसुमः श्लाघ्यः स एव द्रुमः
+
+सर्वाङ्गैर् बहु-सत्त्व-सङ्ग-सुखदो भू-भार-भूतो ऽपरः ॥पन्च्२।२॥
+
+
+तत्र च लघुपतनको नाम वायसः प्रतिवसति स्म । स कदाचित् प्राण-यात्रार्थं पुरम् उद्दिश्य प्रचलितो यावत् पश्यति, तावज् जाल-हस्तो ऽतिकृष्ण-तनुः स्फुटित-चरण ऊर्ध्व-केशो यम-किङ्कराकारो नरः संमुखो बभूव । अथ तं दृष्ट्वा शङ्कित-मना व्यचिन्तयत्-यद् अयं दुरात्माद्य ममाश्रय-वट-पादप-सम्मुखो ऽभ्येति । तन् न ज्ञायते किम् अद्य वट-वासिनां विहङ्गमानां सङ्क्षयो भविष्यति न वा ।
+
+
+एवं बहुविधं विचिन्त्य तत्-क्षणान् निवृत्य तम् एव बट-पादपं गत्वा सर्वान् विहङ्गमान् प्रोवाच-भोः ! अयं दुरात्मा लुब्धको जाल-तण्डुल-हस्तः समभ्येति । तत् सर्वथा तस्य न विश्वसनीयम् । एष जालं प्रसार्य तण्डुलान् प्रक्षेप्स्यति । ते तण्डुला भवद्भिः सर्वैर् अपि कालकूट-सदृशा द्रष्टव्याः ।
+
+
+एवं वदतस् तस्य स लुब्धकस् तत्र बट-तल आगत्य जालं प्रसार्य सिन्दु-वार-सदृशांस् तण्डुलान् प्रक्षिप्य नातिदूरं गत्वा निभृतः स्थितः । अथ ये पक्षिणस् तत्र स्थितास् ते लघु-पतनक-वाक्यार्गलया निवारितास् तांस् तण्डुलान् हालाहालाङ्कुरान् इव वीक्षमाणा निभृतास् तस्थुः ।
+
+
+अत्रान्तरे चित्रग्रीवो नाम कपोतराजः सहस्र-परिवारः प्राण-यात्रार्थ-परिभ्रमंस् तांस् तण्डुलान् दूरतो ऽपि पश्यन् लघुपतनकेन निवार्यमाणो ऽपि जिह्वा-लौल्याद् भक्षणार्थम् अपतत् । स-परिवारो निबद्धश् च । अथवा साध्व् इदम् उच्यते-
+
+
+जिह्वा-लौल्य-प्रसक्तानां जल-मध्य-निवासिनाम् ।
+
+अचिन्तितो वधो ऽज्ञानां मीनानाम् इव जायते ॥पन्च्२।३॥
+
+
+अथवा दैव-प्रतिपतिकूलतया भवत्य् एवम् । न तस्य दोषो ऽस्ति । उक्तं च-
+
+
+पौलस्त्यः कथम् अन्य-दार-हरणे दोषं न विज्ञातवान्
+
+रामेणापि कथं न हेम-हरिणस्यासम्भवो लक्षितः ।
+
+अक्षैश् चापि युधिष्ठिरेण सहसा प्राप्तो ह्य् अनर्थः कथं
+
+प्रत्यासन्न-विपत्ति-मूढ-मनसां प्रायो मतिः क्षीयते ॥पन्च्२।४॥
+
+
+तथा च-
+
+कृतान्त-पाश-बद्धानां दैवोपहत-चेतसाम् ।
+
+बुद्धयः कुब्ज-गामिन्यो भवन्ति महताम् अपि ॥पन्च्२।५॥
+
+
+अत्रान्तरे लुब्धकस् तान् बद्धान् विज्ञाय प्रहृष्ट-मनाः प्रोद्यत-यष्टिस् तद्-वधार्थं प्रधावितः । चित्रग्रीवो ऽप्य् आत्मानं स-परिवारं बद्धं मत्वा लुब्धकम् आयान्तं दृष्ट्वा तान् कपोतान् ऊचे-अहो, न भेतव्यम् । उक्तं च-
+
+
+व्यसनेष्व् एव सर्वेषु यस्य बुद्धिर् न हीयते ।
+
+स तेषां पारम् अभ्येति तत्-प्रभावाद् असंशयम् ॥पन्च्२।६॥
+
+सम्पत्तौ च विपत्तौ च महताम् एक-रूपता ।
+
+उदये सविता रक्तो रक्तश् चास्त-मये तथा ॥पन्च्२।७॥
+
+
+तत् सर्वे वयं हेलयोड्डीय स-पाश-जाला अस्यादर्शनं गत्वा मुक्तिं प्राप्नुमः । नो चेद् भय-विक्लवाः सन्तो हेलया समुत्पातं न करिष्यथ । ततो मृत्युम् अवाप्स्यथ । उक्तं च-
+
+तन्तवो ऽप्य् आयता नित्यं तन्तवो बहुलाः समाः ।
+
+बहून् बहुत्वाद् आयासान् सहन्तीत्य् उपमा सताम् ॥पन्च्२।८॥
+
+
+तथानुष्ठिते लुब्धको जालम् आदायाकाशे गच्छतां तेषां पृष्ठतो भूमिस्थो ऽपि पर्यधावत् । तत ऊर्ध्वानन्ः श्लोकम् एनम् अपठत् ।
+
+
+जालम् आदाय गच्छन्ति संहताः पक्षिणो ऽप्य् अमी ।
+
+यावच् च विवदिष्यन्ते पतिष्यन्ति न संशयः ॥पन्च्२।९॥
+
+
+लघुपतनको ऽपि प्राण-यात्रा-क्रियां त्यक्त्वा किम् अत्र भविष्यन्तीति कुतूहलात् तत्-पृष्ठतो ऽनुसरति । अथ दृष्टेर् अगोचरतां गतान् विज्ञाय लुब्धको निराशः श्लोकम् अपठन् निवृत्तश् च-
+
+
+नहि भवति यन् न भाव्यं भवति च भाव्यं विनापि यत्नेन ।
+
+करतल-गतम् अपि नश्यति यस्य हि भवितव्यता नास्ति ॥पन्च्२।१०॥
+
+
+तथा च-
+
+पराङ्मुखे विधौ चेत् स्यात् कथञ्चिद् द्रविणोदयः ।
+
+तत् सो ऽन्यद् अपि सङ्गृह्य याति शङ्ख-निधिर् यथा ॥पन्च्२।११॥
+
+
+तद् आस्तां तावद् विहङ्गामिष-लोभो यावत् कुटुम्ब-वर्तनोपाय-भूतं जालम् अपि मे नष्टम् । चित्रग्रीवो ऽपि लुब्धकम् अदर्शनीभूतं ज्ञात्वा तान् उवाच-भोः ! निवृत्तः स दुरात्मा लुब्धकः । तत् सर्वैर् अपि स्वस्थैर् गम्यतां महिलारोप्यस्य प्राग्-उत्तर-दिग्-भागे । तत्र मम सुहृद् धिरण्यको नाम मूषकः सर्वेषां पाश-च्छेदं करिष्यति । उक्तं च-
+
+
+सर्वेषाम् एव मर्त्यानां व्यसने समुपस्थिते ।
+
+वाङ्-मात्रेणापि साहाय्यं मित्राद् अन्यो न सन्दधे ॥पन्च्२।१२॥
+
+
+एवं ते कपोताश् चित्रग्रीवेण सम्बोधिता महिलारोप्ये नगरे हिरण्यक-बिल-दुर्गं प्रापुः । हिरण्यको ऽपि सहस्र-मुख-बिल-दुर्गं प्रविष्टः सन्न् अकुतोभयः सुखेनास्त । अथवा साध्व् इदम् उच्यते-
+
+
+दंष्ट्रा-विरहितः सर्पो मद-हीनो यथा गजः ।
+
+सर्वेषां जायते वश्यो दुर्ग-हीनस् तथा नृपः ॥पन्च्२।१३॥
+
+
+तथा च-
+
+न गजानां सहस्रेण न च लक्षेण वाजिनाम् ।
+
+तत् कर्म सिध्यते राज्ञां दुरेणैकेन यद् रणे ॥पन्च्२।१४॥
+
+शतम् एको ऽपि सन्धत्ते प्राकारस्थो धनुर्धरः ।
+
+तस्माद् दुर्गं प्रशंसन्ति नीति-शास्त्र-विदो जनाः ॥पन्च्२।१५॥
+
+
+अथ चित्रग्रीवो बिलम् आसाद्य तार-स्वरेण प्रोवाच-भो भो मित्र हिरण्यक ! सत्वरम् आगच्छ । महती मे व्यसनावस्था वर्तते ।
+
+
+तच् छ्रुत्वा हिरण्यको ऽपि बिल-दुर्गान्तर्गतः सन् प्रोवाच-भोः ! को भवान् ? किम् अर्थम् आयातः ? किं कारणम् ? कीदृक् ते व्यसनावस्थानाम् ? तत् कथ्यताम् इति ।
+
+
+तच् छ्रुत्वा चित्रग्रीव आह-भोः ! चित्रग्रीवो नाम कपोत-राजो ऽहं ते सुहृत् । तत् सत्वरम् आगच्छ । गुरुतरं प्रयोजनम् अस्ति ।
+
+तद् आकर्ण्य पुलकित-तनुः प्रहृष्टात्मा स्थिर-मनास् त्वरमाणो निष्क्रान्तः । अथवा साध्व् इदम् उच्यते-
+
+सुहृदः स्नेह-सम्पन्ना लोचनानन्द-दायिनः ।
+
+गृहे गृहवतां नित्यं नागच्छन्ति महात्मनाम् ॥पन्च्२।१६॥
+
+आदित्यस्योदयं तात ताम्बूलं भारती कथा ।
+
+इष्टा भार्या सुमित्रं च अपूर्वाणि दिने दिने ॥पन्च्२।१७॥
+
+सुहृदो भवने यस्य समागच्छन्ति नित्यशः ।
+
+चित्ते च तस्य सौख्यस्य न किञ्चित् प्रतिमं सुखम् ॥पन्च्२।१८॥
+
+
+अथ चित्रं ग्रीवं सपरिवारं पाश-बद्धम् आलोक्य हिरण्यकः स-विषादम् इदम् आह-भोः, किम् एतत् ?
+
+
+स आह-भोः, जानन्न् अपि किं पृच्छसि ? उक्तं च यतः-
+
+
+यस्माच् च येन च यदा च यथा च यच् च
+
+यावच् च यत्र च शुभाशुभम् आत्म-कर्म ।
+
+तस्माच् च तेन च तदा च तथा च तच् च
+
+तावच् च तत्र च कृतान्त-वशाद् उपैति ॥पन्च्२।१९॥
+
+
+तत् प्राप्तं मयैतद् बन्धनं जिह्वा-लौल्यात् । साम्प्राप्तं त्वं सत्वरं पाश-विमोक्षं कुरु । तद् आकर्ण्य हिरण्यकः प्राह-
+
+
+अर्धार्धाद् योजन-शताद् आमिषं वीक्षते खगः ।
+
+सो ऽपि पार्श्व-स्थितं दैवाद् बन्धनं न च पश्यति ॥पन्च्२।२०॥
+
+
+तथा च-
+
+रवि-निशाकरयोर् ग्रह-पीडनं
+
+गज-भुजङ्ग-विहङ्गम-बन्धनम् ।
+
+मतिमतां च निरीक्ष्य दरिद्रता
+
+विधिर् अहो बलवान् इति मे मतिः ॥पन्च्२।२१॥
+
+
+तथा च-
+
+व्योमैकान्त-विचारिणो ऽपि विहगाः सम्प्राप्नुवन्त्य् आपदं
+
+बध्यन्ते निपुणैर् अगाध-सलिलान् मीनाः समुद्राद् अपि ।
+
+दुर्नीतं किम् इहास्ति किं च सुकृतं कः स्थान-लाभे गुणः
+
+कालः सर्व-जनान् प्रसारित-करो गृह्णाति दूराद् अपि ॥पन्च्२।२२॥
+
+
+एवम् उक्त्वा चित्रग्रीवस्य पाशं छेत्तुम् उद्यतं स तम् आह-भद्र, मा मैवं कुरु । प्रथमं मम भृत्यानां पाश-च्छेदं कुरु । तद् अनु ममापि च ।
+
+
+तच् छ्रुत्वा कुपितो हिरण्यकः प्राह-भोः ! न युक्तम् उक्तं भवता । यतः स्वामिनो ऽनन्तरं भृत्याः ।
+
+
+स आह-भद्र, मा मैवं वद । मद्-आश्रयाः सर्व एते वराकाः । अपरं स्व-कुटुम्बं परित्यज्य समागताः । तत् कथम् एतावन्-मात्रम् अपि संमानं न करोमि । उक्तं च-
+
+
+यः संमानं सदा धत्ते भृत्यानां क्षितिपो ऽधिकम् ।
+
+वित्ताभावेऽपि तं दृष्ट्वा ते त्यजन्ति न कर्हिचित् ॥पन्च्२।२३॥
+
+
+तथा च-
+
+विश्वासः सम्पदां मूलं तेन यूथपतिर् गजः ।
+
+सिंहो मृगाधिपत्येऽपि न मृगैः परिवार्यते ॥पन्च्२।२४॥
+
+
+अपरं मम कदाचित् पाश-च्छेदे कुर्वतस् ते दन्त-भङ्गो भवति । अथवा दुरात्मा लुब्धकः सम्भ्येति । तन् नूनं नरक-पात एव । उक्तं च-
+
+
+सदाचारेषु भृत्येषु संसीदत्सु च यः प्रभुः ।
+
+सुखी स्यान् नरकं याति परत्रेह च सीदति ॥पन्च्२।२५॥
+
+
+तच् छ्रुत्वा प्रहृष्टो हिरण्यकः प्राह-भोः, वेद्म्य् अहं राज-धर्मम् । परं मया तव परीक्षा कृता । तत् सर्वेषां पूर्वं पाश-च्छेदं करिष्यामि । भवान् अप्य् अनेन बहु-कपोत-परिवारेण भविष्यति । उक्तं च-
+
+
+कारुण्यं संविभागश् च यथा भृत्येषु लक्ष्यते ।
+
+चित्तेनानेन ते शङ्क्या त्रैलोक्यस्यापि नाथता ॥पन्च्२।२६॥
+
+
+एवम् उक्त्वा सर्वेषां पाश-च्छेदं कृत्वा हिरण्यकश् चित्रग्रीवम् आह-मित्र, गम्यताम् अधुना स्वाश्रयं प्रति । भूयो ऽपि व्यसने प्राप्ते समागन्तव्यम् इति ।
+
+
+तान् सम्प्रेष्य पुनर् अपि दुर्गं प्रविष्टः । चित्रग्रीवो ऽपि सपरिवारः स्वाश्रयम् अगमत् । अथवा साध्व् इदम् उच्यते-
+
+
+मित्रवान् साधयत्य् अर्थान् दुःसाध्यान् अपि वै यतः ।
+
+तस्मान् मित्राणि कुर्वीत समानान्य् एव चात्मनः ॥पन्च्२।२७॥
+
+
+लघुपतनको ऽपि वायसः सर्वं तं चित्रग्रीव-बन्धु-मोक्षम् अवलोक्य विस्मितमना व्यचिन्तयत्-अहो बुद्धिर् अस्य हिरण्यकस्य शक्तिश् च दुर्ग-सामग्री च । तद् ईदृग् एव विधि-विहङ्गानां बन्धन-मोक्षात्मकः । अहं च न कस्यचिद् विश्वसिमि चल-प्रकृतिश् च । तदाप्य् एनं मित्रं करोमि । उक्तं च-
+
+
+अपि सम्पूर्णता-युक्तैः कर्तव्याः सुहृदो बुधैः ।
+
+नदीशः परिपूर्णो ऽपि चन्द्रोदयम् अपेक्षते ॥पन्च्२।२८॥
+
+
+एवं सम्प्रधार्य पादपाद् अवतीर्य बिल-द्वारम् आश्रित्य चित्रग्रीववच् छब्देन हिरण्यकं समाहूतवान्-एह्य् एहि भो हिरण्यक, एहि ।
+
+
+तच् छब्दं श्रुत्वा हिरण्यको व्यचिन्तयत्-किम् अन्यो ऽपि कश्चित् कपोतो बन्धन-शेषस् तिष्ठति येन मां व्याहरति । आह च-भोः ! को भवान् ?
+
+
+स आह-अहं लघुपतनको नाम वायसः ।
+
+
+तच् छ्रुत्वा विशेषाद् अन्तर्लीनो हिरण्यक आह-भोः ! द्रुतं गम्यताम् अस्मात् स्थानात् ।
+
+
+वायस आह-अहं तव पार्श्वे गुरु-कार्येण समागतः । तत् किं न क्रियते मया सह दर्शनम् ?
+
+
+हिरण्यक आह-न मेऽस्ति त्वया सह सङ्गमेन प्रयोजनम् इति ।
+
+
+स आह-भोः ! चित्रग्रीवस्य मया तव सकाशात् पाश-मोक्षणं दृष्टम् । तेन मम महती प्रीतिः सञ्जाता । तत् कदाचिन् ममापि बन्धने जाते तव पार्श्वान् मुक्तैर् भविष्यति । तत् क्रियतां मया सह मैत्री ।
+
+
+हिरण्यक आह-अहो त्वं भोक्ता । अहं ते भोज्य-भूतः । तत् का त्वया सह मम मैत्री ? तद् गम्यताम् । मैत्री विरोध-भावात् कथम् ? उक्तं च-
+
+
+ययोर् एव समं वित्तं ययोर् एव समं कुलम् ।
+
+तयोर् मैत्री विवाहश् च न तु पुष्ट-विपुष्टयोः ॥पन्च्२।२९॥
+
+
+तथा च-
+
+यो मित्रं कुरुते मूढ आत्मनो ऽसदृशं कुधीः ।
+
+हीनं वाप्य् अधिकं वापि हास्यतां यात्य् असौ जनः ॥पन्च्२।३०॥
+
+
+तद् गम्यताम् इति ।
+
+
+वायस आह-भो हिरण्यक ! एषो ऽहं तव दुर्ग-द्वार उपविष्टः । यदि त्वं मैत्री न करोषि ततो ऽहं प्राण-मोक्षणं तवाग्रे करिष्यामि । अथवा प्रायोपवेशनं मे स्यात् इति ।
+
+
+हिरण्यक आह-भोः ! त्वया वैरिणा सह कथं मैत्रीं करोमि ? उक्तं च-
+
+
+वैरिणा न हि सन्दध्यात् सुश्लिष्टेनापि सन्धिना ।
+
+सुतप्तम् अपि पानीयं शमयत्य् एव पावकम् ॥पन्च्२।३१॥
+
+
+वायस आह-भोः ! त्वया सह दर्शनम् अपि नास्ति । कुतो वैरम् ? तत् किम् अनुचितं वदसि ?
+
+
+हिरण्यक आह-द्विविधं वैरं भवति । सहजं कृत्रिमं च । तत् सहज-वैरी त्वम् अस्माकम् । उक्तं च-
+
+
+कृत्रिमं नाशम् अभ्येति वैरं द्राक् कृत्रिमैर् गुणैः ।
+
+प्राण-दानं विना वैरं सहजं याति न क्षयम् ॥पन्च्२।३२॥
+
+
+वायस आह-भोः ! द्विविधस्य वैरस्य लक्षणं श्रोतुम् इच्छामि । तत् कथ्यताम् ।
+
+
+हिरण्यक आह-भोः ! कारणेन निर्वृतं कृत्रिमम् । तत्-तद्-अर्होपकार-करणाद् गच्छति । स्वाभाविकं पुनः कथम् अपि न गच्छति । तद् यथा नकुल-सर्पाणां, शष्पभुङ्-नखायुधानां, जल-वह्न्योः, देव-दैत्यानां, सारमेय-मार्जराणां, ईश्वर-दरिद्राणां, सपत्नीनां, सिंह-गजानां, लुब्धक-हरिणानां, श्रोत्रिय-भ्रष्ट-क्रियाणां, मूर्क-पण्डितानां, पतिव्रता-कुलटानां, सज्जन-दुर्जनानाम् । न कश्चित् केनापि व्यापादितः, तथापि प्राणान् सन्तापयन्ति ।
+
+
+वायस आह-भोः ! अकारणम् एतत् । श्रूयतां मे वचनम्-
+
+
+कारणान् मित्रताम् एति कारणाद् याति शत्रुताम् ।
+
+तस्मान् मित्रत्वम् एवात्र योज्यं वैरं न धीमता ॥पन्च्२।३३॥
+
+
+तस्मात् कुरु मया सह समागमं मित्र-धर्मार्थम् ।
+
+
+हिरण्यक आह-भोः, श्रूयतां नीति-सर्वस्वम्-
+
+
+सकृद् दुष्टम् अपीष्टं यः पुनः सन्धातुम् इच्छति ।
+
+स मृत्युम् उपगृह्णाति गर्भम् अश्वतरी यथा ॥पन्च्२।३४॥
+
+
+अथवा गुणवान् अहं, न मे कश्चिद् वैर-यातनां करिष्यति । एतद् अपि न सम्भाव्यम् । उक्तं च-
+
+
+सिंहो व्याकरणस्य कर्तुर् अहरत् प्राणान् पिर्यान् पाणिनेर्
+
+मीमांसा-कृतम् उन्ममाथ सहसा हस्ती मुनिं जैमिनिम् ।
+
+छन्दो-ज्ञान-निधिं जघान मकरो वेला-तटे पिङ्गलम्
+
+अज्ञानावृत-चेतसाम् अतिरुषा को ऽर्थस् तिरश्चां गुणैः ॥पन्च्२।३५॥
+
+
+वायस आह-अस्त्य् एतत् । यथापि श्रूयताम्-
+
+
+उपकाराच् च लोकानां निमित्तान् मृग-पक्षिणाम् ।
+
+भयाल् लोभाच् च मूर्खाणां मैत्री स्याद् दर्शनात् सताम् ॥पन्च्२।३६॥
+
+मृद्-घट इव सुख-भेद्यो दुःसन्धानश् च दुर्जनो भवति ।
+
+सुजनस् तु कनक-घट इव दुर्भेदः सुकर-सन्धिश् च ॥पन्च्२।३७॥
+
+इक्षोर् अग्रात् क्रमशः पर्वणि पर्वणि यथा रस-विशेषः ।
+
+तद्वत् सज्जन-मैत्री-विपरीतानां तु विपरीता ॥पन्च्२।३८॥
+
+
+तथा च-
+
+आरम्भ-गुर्वी क्षयिणी क्रमेण लघ्वी पुरा वृद्धिमती च पश्चात् ।
+
+दिनस्य पूर्वार्ध-परार्ध-भिन्ना छायेव मैत्री खल-सज्जनानाम् ॥पन्च्२।३९॥
+
+
+तत् साधुर् अहम् । अपरं त्वां शपथादिभिर् निर्भयं करिष्यामि ।
+
+
+स आह-न मेऽस्ति ते शपथैः प्रत्ययः । उक्तं च-
+
+
+शपथैः सन्धितस्यापि न विश्वासं व्रजेद् रिपोः ।
+
+श्रूयते शपथं कृत्वा वृत्रः शक्रेण सूदितः ॥पन्च्२।४०॥
+
+न विश्वासं विना शत्रुर् देवानाम् अपि सिध्यति ।
+
+विश्वासात् त्रिदशेन्द्रेण दितेर् गर्भो विदारितः ॥पन्च्२।४१॥
+
+
+अन्यच् च-
+
+बृहस्पतेर् अपि प्राज्ञस् तस्मान् नैवात्र विश्वसेत् ।
+
+य इच्छेद् आत्मनो बुद्धिम् आयुष्यं च सुखानि च ॥पन्च्२।४२॥
+
+
+तथा च-
+
+सुसूक्ष्मेणापि रन्ध्रेण प्रविश्याभ्यन्तरं रिपुः ।
+
+नाशयेच् च शनैः पश्चात् प्लवं सलिल-पूरवत् ॥पन्च्२।४३॥
+
+न विश्वसेद् अविश्वस्ते विश्वस्तेऽपि न विश्वसेत् ।
+
+विश्वासाद् भयम् उत्पन्नं मूलान्य् अपि निकृन्तति ॥पन्च्२।४४॥
+
+न बध्यते ह्य् अविश्वस्तो दुर्बलो ऽपि बलोत्कटैः ।
+
+विश्वस्ताश् चाशु बध्यन्ते बलवन्तो ऽपि दुर्बलैः ॥पन्च्२।४५॥
+
+सुकृत्यं विष्णु-गुप्तस्य मित्राप्तिर् भार्गवस्य च ।
+
+बृहस्पतेर् अविश्वासो नीतिर्-सन्धिस् त्रिधा स्थितः ॥पन्च्२।४६॥
+
+
+तथा च-
+
+महताप्य् अर्थ-सारेण यो विश्वसिति शत्रुषु ।
+
+भार्यासु सुविरक्तासु तद्-अन्तं तस्य जीवितम् ॥पन्च्२।४७॥
+
+
+तच् छ्रुत्वा लघुपतनको ऽपि निरुत्तरश् चिन्तयामास-अहो, बुद्धि-प्रागल्भ्यम् अस्य नीति-विषये । अथवा स एवास्योपरि मैत्री-पक्षपातः । स आह-भो हिरण्यक !
+
+
+सतां साप्तपदं मैत्रम् इत्य् आहुर् विबुधा जनाः ।
+
+तस्मात् त्वं मित्रतां प्राप्तो वचनं मम तच् छृणु ॥पन्च्२।४८॥
+
+
+दुर्गस्थेनापि त्वया मया सह नित्यम् एवालापो गुण-दोष-सुभाषित-गोष्ठी-कथाः सर्वदा कर्तव्याः, यद्य् एवं न विश्वसिषि ।
+
+
+तच् छ्रुत्वा हिरण्यको ऽपि व्यचिन्तयत्-विदग्ध-वचनो ऽयं दृश्यते लघुपतनकः सत्य-वाक्यश् च तद् युक्तम् अनेन मैत्री-करणम् । परं कदाचिन् मम दुर्गे चरण-पातो ऽपि न कार्यः । उक्तं च-
+
+
+भीत-भीतैः पुरा शत्रुर् मन्दं मन्दं विसर्पति ।
+
+भूमौ प्रहेलया पश्चाज् जार-हस्तो ऽङ्गनास्व् इव ॥पन्च्२।४९॥
+
+
+तच् छ्रुत्वा वायस आह-भद्र, एवं भवतु । ततः-प्रभृति तौ द्वाव् अपि सुभाषित-गोष्ठी-सुखम् अनुभवन्तौ तिष्ठतः । परस्परं कृतोपकारौ कालं नयतः । लघुपतनको ऽपि मांस-शकलानि मेध्यानि बलिशेषाण्य् अन्यानि वात्सल्याहृतानि पक्वान्न-विशेषाणि हिरण्यकार्थम् आनयति । हिरण्यको ऽपि तण्डुलान् अन्यांश् च भक्ष्य-विशेषाल् लघुपतनकार्थं रात्राव् आहृत्य तत्-कालायातस्यार्पयति । अथवा युज्यते द्वयोर् अप्य् एतत् । उक्तं च-
+
+
+ददाति प्रतिगृह्णाति गुह्यम् आख्याति पृच्छति ।
+
+भुङ्क्ते भोजायते चैव षड्-विधं प्रीति-लक्षणम् ॥पन्च्२।५०॥
+
+नोपकारं विना प्रीतिः कथञ्चित् कस्यचिद् भवेत् ।
+
+उपयाचित-दानेन यतो देवा अभीष्टदाः ॥पन्च्२।५१॥
+
+तावत् प्रीतिर् भवेल् लोके यावद् दानं प्रदीयते ।
+
+वत्सः क्षीर-क्षयं दृष्ट्वा परित्यजति मातरम् ॥पन्च्२।५२॥
+
+पश्य दानस्य माहात्म्यं सद्यः प्रत्यय-कारकम् ।
+
+यत्-प्रभावाद् अपि द्वेषो मित्रतां याति तत्-क्षणात् ॥पन्च्२।५३॥
+
+
+पुत्राद् अपि प्रियतरं खलु तेन दानं
+
+मन्ये पशोर् अपि विवेक-विवर्जितस्य ।
+
+दत्ते खले तु निखिलं खलु येन दुग्धं
+
+नित्यं ददाति महिषी ससुतापि पश्य ॥पन्च्२।५४॥
+
+
+किं बहुना-
+
+प्रीतिं निरन्तरां कृत्वा दुर्भेद्यां नख-मांसवत् ।
+
+मूषको वायसश् चैव गतौ कृत्रिम-मित्रताम् ॥पन्च्२।५५॥
+
+
+एवं स मूषकस् तद्-उपकार-रञ्जितस् तथा विश्वस्तो यथा तस्य पक्ष-मध्ये प्रविष्टस् तेन सह सर्वदैव गोष्ठीं करोति । अथान्यस्मिन्न् अहनि वायसो ऽश्रु-पूर्ण-नयनः समभ्येत्य सगद्गदं तम् उवाच-भद्र हिरण्यक, विरक्तिः सञ्जाता मे साम्प्रतं देशस्यास्योपरि तद् अन्यत्र यास्यामि ।
+
+
+हिरण्यक आह-भद्र किं विरक्तेः कारणम् ।
+
+
+स आह-भद्र, श्रूयतां । अत्र देशे महत्यानावृष्ट्या दुर्भिक्षं सञ्जातम् । दुर्भिक्षत्वाज् जनो बुभुक्षा-पीडितः को ऽपि बलि-मात्रम् अपि न प्रयच्छति । अपरं गृहे गृहे बुभुक्षित-जनैर् विहङ्गानां बन्धनाय पाशाः प्रगुणीकृताः सन्ति । अहम् अप्य् आयुः-शेषतया पाशेन बद्ध उद्धरितो ऽस्मि । एतद् विरक्तेः कारणम् ऍ। तेनाहं विदेशं चलित इति बाष्प-मोक्षं करोमि ।
+
+
+हिरण्यक आह-अथ भवान् क्व प्रस्थितः ?
+
+
+स आह-अस्ति दक्षिणा-पथे वन-गहन-मध्ये महासरः । तत्र त्वत्तो ऽधिकः परम-सुहृत् कूर्मो मन्थरको नाम । स च मे मत्स्य-मांस-खण्डानि दास्यति । तद्-भक्षणात् तेन सह सुभाषित-गोष्ठी-सुखम् अनुभवन् सुखेन कालं नेष्यामि । नाहम् अत्र विहङ्गानां पाश-बन्धनेन क्षयं द्रष्टुम् इच्छामि । उक्तं च-
+
+अनावृष्टि-हते देशे सस्ये च प्रलयं गते ।
+
+धन्यास् तात न पश्यन्ति देश-भङ्गं कुल-क्षयम् ॥पन्च्२।५६॥
+
+को ऽतिभारः समर्थानां किं दूरं व्यवसायिनाम् ।
+
+को विदेशः सविद्यानां कः परः प्रिय-वादिनाम् ॥पन्च्२।५७॥
+
+विद्वत्त्वं च नृपत्वं च नैव तुल्यं कदाचन ।
+
+स्व-देशे पूज्यते राजा विद्वान् सर्वत्र पूज्यते ॥पन्च्२।५८॥
+
+
+हिरण्यक आह-यद्य् एवं तद् अहम् अपि त्वया सह गमिष्यामि । ममापि महद् दुःखं वर्तते ।
+
+
+वायस आह-भोः ! तव किं दुःखम् ? तत् कथय ।
+
+
+हिरण्यक आह-भोः ! बहु वक्तव्यम् अस्त्य् अत्र विषये । तत्रैव गत्वा सर्वं सविस्तरं कथयिष्यामि ।
+
+
+वायस आह-अहं तावद् आकाश-गतिः । तत् कथं भवतो मया सह गमनम् ?
+
+
+स आह-यदि मे प्राणान् रक्षसि तदा स्व-पृष्ठम् आरोप्य मां तत्र प्रापयिष्यसि । नान्यथा मम गतिर् अस्ति ।
+
+
+तच् छ्रुत्वा सानन्दं वायस आह-यद्य् एवं तद् धन्यो ऽहं यद् भवतापि सह तत्र कालं नयामि । अहं सम्पातादिकान् अषाव् उड्डीन-गति-विशेषान् वेद्मि । तत् समारोह मम पृष्ठं, येन सुखेन त्वां तत्-सरः प्रापयामि ।
+
+
+हिरण्यक आह-उड्डीनानां नामानि श्रोतुम् इच्छामि ।
+
+
+स आह-
+
+सम्पातं विप्र-पातं च महा-पातं निपातनम् ।
+
+वक्रं तिर्यक् तथा चोर्ध्वम् अष्टमं लघु-संज्ञकम् ॥पन्च्२।५९॥
+
+
+तच् छ्रुत्वा हिरण्यकस् तत्-क्षणाद् एव तद् उपरि समारूढः । सो ऽपि शनैः शनैस् तम् आदाय सम्पातोड्डीन-प्रस्थितः क्रमेण तत्-सरः प्राप्तः । ततो लघुपतनकं मूषकाधिष्ठितं विलोक्य दूरतो ऽपि देश-काल-विद-सामान्य-काको ऽयम् इति ज्ञात्वा सत्वरं मन्थरको जले प्रविष्टः । लघुपतनको ऽपि तीरस्थ-तरु-कोटरे हिरण्यकं मुक्त्वा शाखाग्रम् आरुह्य तार-स्वरेण प्रोवाच-भो मन्थरक ! आगच्छागच्छ । तव मित्रम् अहं लघुपतनको नाम वायसश् चिरात् सोत्कण्ठः समायातः । तद् आगत्यालिङ्गय माम् । उक्तं च-
+
+
+किं चन्दनैः स-कर्पूरैस् तुहिनैः किं च शीतलैः ।
+
+सर्वे ते मित्र-गात्रस्य कलां नार्हन्ति षोडशीम् ॥पन्च्२।६०॥
+
+
+तथा च-
+
+केनामृतम् इदं सृष्टं मित्रम् इत्य् अक्षर-द्वयम् ।
+
+आपदां च परित्राणं शोक-सन्ताप-भेषजम् ॥पन्च्२।६१॥
+
+
+तच् छ्रुत्वा निपुणतरं परिज्ञाय सत्वरं सलिलान् निष्क्रम्य पुलकित-तनुर् आनन्दाश्रु-पूरित-नयनो मन्थरकः प्रोवाच-एह्य् एहि मित्र, आलिङ्गय माम् । चिर-कालान् मया त्वं न सम्यक् परिज्ञातः । तेनाहं सलिलान्तः-प्रविष्टः । उक्तं च-
+
+
+यस्य न ज्ञायते वीर्यं न कुलं न विचेष्टितम् ।
+
+न तेन सङ्गतिं कुर्याद् इत्य् उवाच बृहस्पतिः ॥पन्च्२।६२॥
+
+
+एवम् उक्ते लघुपतनको वृक्षाद् अवतीर्य तम् आलिङ्गितवान् । अथवा साध्व् इदम् उक्तम्-
+
+अमृतस्य प्रवाहैः किं काय-क्षालन-सम्भवैः ।
+
+चिरान् मित्र-परिष्वङ्गो यो ऽसौ मूल्य-विवर्जितः ॥पन्च्२।६३॥
+
+
+एवं द्वाव् अपि तौ विहितालिङ्गितौ परस्परं पुलकित-शरीरी वृक्षाद् अधः समुपविष्टौ प्रोचतुर् आत्म-चरित्र-वृत्तान्तम् । हिरण्यको ऽपि मन्थरकस्य प्रणामं कृत्वा वायसाभ्याशे समुपविष्टः । अथ तं समालोक्य मन्थरको लघुपतनकम् आह-भोः हिरण्यको नाम मूषको ऽयम् । मम सुहृद्-द्वितीयम् इव जीवितम् । तत् किं बहुना-
+
+
+पर्जन्यस्य यथा धारा यथा च दिवि तारकाः ।
+
+सिकता-रेणवो यद्वत् सङ्ख्यया परिवर्जिता ॥पन्च्२।६४॥
+
+गुणाः सङ्ख्या-परित्यक्तास् तद्वद् अस्य महात्मनः ।
+
+परं निर्वेदम् आपन्नः सम्प्राप्तो ऽयं तवान्तिकम् ॥पन्च्२।६५॥
+
+
+मन्थरक आह-किम् अस्य वैराग्य-कारणम् ?
+
+
+वायस आह-पृष्टो मया, परम् अनेनाभिहितं, यद् बहु वक्तव्यम् इति । तत् तत्रैव गतः कथयिष्यामि । ममापि न निवेदितम् । तद् भद्र हिरण्यक ! इदानीं निवेद्यताम् उभयोर् अप्य् आवयोस् तद् आत्मनो वैराग्य-कारणम् ।
+
+
+सो ऽब्रवीत्-
+
+
+कथा १
+
+हिरण्यक-ताम्रचूड-कथा
+
+
+अस्ति दक्षिणात्ये जनपदे महिलारोप्यं नाम नगरम् । तस्य नातिदूरे मठायतनं भगवतः श्री-महादेवस्य । तत्र च ताम्रचूडो नाम परिव्राजकः प्रतिवसति स्म । स च नगरे भिक्षाटनं कृत्वा प्राण-यात्रां समाचरति । भिक्षा-शेषं च तत्रैव भिक्षा-पात्रे निधाय तद्-भिक्षा-पात्रं नागदन्तेऽवलम्ब्य पश्चाद् रात्रौ स्वपिति । प्रत्यूषे च तद्-अन्नं कर्मकराणां दत्त्वा सम्यक् तत्रैव देवतायतने संमार्जनोपलेपन-मण्डनादिकं समाज्ञापयति । अन्यस्मिन्न् अहनि मम बान्धवैर् निवेदितम्-स्वामिन्, मठायतने सिद्धम् अन्नं मूषक-भयात् तत्रैव भिक्षा-पात्रे निहितं नागदन्तेऽवलम्बितं तिष्ठति सदैव । तद् वयं भक्षयितुं न शक्नुमः । स्वामिनः पुनर् आगम्य किम् अपि नास्ति । तत् किं वृथाटनेनान्यत्र । अद्य
+
+तत्र गत्वा यथेच्छं भुञ्जामहे तव प्रसादात् ।
+
+
+तद् आकर्ण्याहं सकल-यूथ-परिवृतस् तत्-क्षणाद् एव तत्र गतः । उत्पत्य च तस्मिन् भिक्षा-पात्रे समारूढः । तत्र भक्ष्य-विशेषाणि सेवकेभ्यो दत्त्वा पश्चात् स्वयम् एव भक्षयामि । सर्वेषां तृप्तौ जातायां भूयः स्व-गृहं गच्छामि । एवं नित्यम् एव तद् अन्नं भक्षयामि । परिव्राजको ऽपि यथा-शक्ति रक्षति । परं यदैव निद्रान्तरितो भवति, तदाहं तत्रारुह्यात्म-कृत्यं करोमि । अथ कदाचित् तेन मम रक्षणार्थं महान् यत्नः कृतः । जर्जर-वंशः समानीतः । तेन सुप्तो ऽपि मम भयाद् भिक्षा-पात्रं ताडयति । अहम् अप्य् अभिक्षितेऽप्य् अन्ने प्रहार-भयाद् अपसर्पामि । एवं तेन सह सकलां रात्रिं विग्रह-परस्य कालो व्रजति ।
+
+
+अथान्यस्मिन्न् अहनि तस्य मठे बृहत्स्फिङ्-नामा परिव्राजकस् तस्य सुहृत् तीर्थ-यात्रा-प्रसङ्गेन पान्थः प्राघुणिकः समायातः । तं दृष्ट्वा प्रत्युत्थान-विधिना सम्भाव्य प्रतिपत्ति-पूर्वकम् अभ्यागत-क्रियया नियोजितः । ततश् च रात्राव् एकत्र कुश-संस्तरे द्वाव् अपि प्रसुप्तौ धर्म-कथां कथयितुम् आरब्धौ ।
+
+
+अथ बृहस्फिक्-कथा-गोष्ठीषु स ताम्रचूडो मूषक-त्रासार्थं व्याक्षिप्त-मना जर्जर-वंशेन भिक्षा-पात्रं ताडयंस् तस्य शून्यं प्रतिवचनं प्रयच्छति । तन्-मयो न किञ्चिद् उदाहरति । अथासाव् अभ्यागतः परं कोपम् उपागतस् तम् उवाच-भोस् ताम्रचूड ! परिज्ञातः न त्वं सम्यक् सुहृत् । तेन मया सह साह्लादं न जल्पसि । तद्-रात्राव् अपि त्वदीयं मठं त्यक्त्वान्यत्र मञ्हे यास्यामि । उक्तं च-
+
+एह्य् आगच्छ समाविशासनम् इदं कस्माच् चिराद् दृश्यसे का वार्तेति सुदुर्बलो ऽसि कुशलं प्रीतो ऽस्मि ते दर्शनात् ।
+
+एवं ये समुपागतान् प्रणयिनः प्रत्यालपन्त्य् आदरात् तेषां युक्तम् अशङ्कितेन मनसा हर्म्याणि गन्तुं सदा ॥पन्च्२।६६॥
+
+
+गृही यत्रागतं दृष्ट्वा दिशो वीक्षेत वाप्य् अधः ।
+
+तत्र ये सदने यान्ति ते शृङ्ग-रहिता वृषाः ॥पन्च्२।६७॥
+
+
+साभ्युत्थान-क्रिया यत्र नालापा मधुराक्षराः ।
+
+गुण-दोष-कथा नैव तत्र हर्म्यं न गम्यते ॥पन्च्२।६८॥
+
+
+तद् एक-मठ-प्राप्त्यापि त्वं गर्वितः । त्यक्तः सुहृत्-स्नेहः । नैतद् वेत्सि यत् त्वया मठाश्रय-व्याजेन नरकोपार्जनं कृतम् । उक्तं च-
+
+
+नरकाय मतिस् ते चेत् पौरोहित्यं समाचार ।
+
+वर्षं यावत् किम् अन्येन मठ-चिन्तां दिन-त्रयम् ॥पन्च्२।६९॥
+
+
+तन्-मुखं, शोचितव्यस् त्वं गर्वं गतः । तद् अहं त्वदीयं मठं परित्यज्य यास्यामि ।
+
+
+अथ तच् छ्रुत्वा भय-त्रस्त-मनास् ताम्रचूडस् तम् उवाच-भो भगवन् ! मैवं वद । न त्वत्-समो ऽन्यो मम सुहृत् कश्चिद् अस्ति । परं तच् छ्रूयतां गोष्ठी-शैथिल्य-कारणम् । एष दुरात्मा मूषकः प्रोन्नत-स्थाने धृतम् अपि भिक्षा-पात्रम् उत्प्लुत्यारोहति, भिक्षा-शेषंच तत्रस्थं भक्षयति । तद्-अभावाद् एव मठे मार्जन-क्रियापि न भवति । तन् मूषक
+
+
+मुहुर् मुहुस् ताडयामि । नान्यत् कारणम् इति । अपरम् एतत् कुतूहलं पश्यास्य दुर्तात्मनो यन् मार्जार-मर्कटादयो ऽपि तिरस्कृता अस्योत्पतनेन ।
+
+
+बृहत्स्फिग् आह-अथ ज्ञायते तस्य बिलं कस्मिंश्चित् प्रदेशे ।
+
+
+ताम्रचूड आह-भगवन् न वेद्मि सम्यक् ।
+
+
+स आह-नूनं निधानस्योपरि तस्य बिलम् । निधानोष्मणा प्रकूर्दते । उक्तं च-
+
+
+ऊष्मापि वित्तजो वृद्धिं तेजो नयति देहिनाम् ।
+
+किं पुनस् तस्य सम्भोगस् त्याग-धर्म-समन्वितः ॥पन्च्२।७०॥
+
+
+तथा च-
+
+नाकस्माच् छाण्डिली मातर् विक्रीणाति तिलैस् तिलान् ।
+
+लुञ्चितान् इतरैर् येन हेतुर् अत्र भविष्यति ॥पन्च्२।७१॥
+
+
+ताम्रचूड आह-कथम् एतत् ?
+
+
+स आह-
+
+
+कथा २
+
+तिलचूर्ण-विक्रय-कथा
+
+
+यदाहं कस्मिंश्चित् स्थाने प्रावृट्-काले व्रत-ग्रहण-निमित्तं कञ्चिद् ब्राह्मणं वासार्थं प्रार्थितवान् । ततश् च तद्-वचनात् तेनापि शुश्रूषितः सुखेन देवार्चन-परस् तिष्ठामि । अथान्यस्मिन्न् अहनि प्रत्यूषे प्रबुद्धो ऽहं ब्राह्मण-ब्राह्मणी-संवादे दत्तावधानः शृणोमि । तत्र ब्राह्मण आह-ब्राह्मणि, प्रभाते दक्षिणायन-सङ्क्रान्तिर् अनन्त-दान-फलदा भविष्यति । तद् अहं प्रतिग्रहार्थं ग्रामान्तरं यास्यामि । त्वया ब्राह्मणस्यैकस्य भगवतः सूर्यस्योद्देशेन किञ्चिद् भोजनं दातव्यम् इति ।
+
+
+अथ तच् छ्रुत्वा ब्राह्मणी परुषतर-वचनैस् तं भर्त्सयमाना प्राह-कुतस् ते दारिद्र्योपहतस्य भोजन-प्राप्तिः । तत् किं लज्जस एवं ब्रुवाणः । अपि च न मया तव हस्त-लग्नया क्वचिद् अपि लब्धं सुखम् । न मिष्ठान्नस्यास्वादनम् । न च हस्त-पाद-कण्ठादि-भूषणम् ।
+
+
+तच् छ्रुत्वा भय-त्रस्तो ऽपि विप्रो मन्दं मन्दं प्राह-ब्राह्मणि ! नैतद् युज्यते वक्तुम् । उक्तं च-
+
+
+ग्रासाद् अपि तद् अर्धं च कस्मान् नो दीयतेऽर्थिषु ।
+
+इच्छानुरूपो विभवः कदा कस्य भविष्यति ॥पन्च्२।७२॥
+
+ईश्वरा भूरि-दानेन यल् लभन्ते फलं किल ।
+
+दरिद्रस् तच् च काकिण्या प्राप्नुयाद् इति न श्रुतिः ॥पन्च्२।७३॥
+
+दाता लघुर् अपि सेव्यो भवति न कृपणो महान् अपि समृद्ध्या ।
+
+कूपो ऽन्तः-स्वादु-जलः प्रीत्यै लोकस्य न समुद्रः ॥पन्च्२।७४॥
+
+
+तथा च-
+
+अकृत-त्याग-महिम्नां मिथ्या किं राज-राज-शब्देन ।
+
+गोप्तारं न निधीनां महयन्ति महेश्वरं विबुधाः ॥पन्च्२।७५॥
+
+
+अपि च-
+
+सदा दान-परिक्षीणः शस्त एव करीश्वरः ।
+
+अदानः पीन-गात्रो ऽपि निन्द्य एव हि गर्दभः ॥पन्च्२।७६॥
+
+सुशीलो ऽपि सुवृत्तो ऽपि यात्य् अदानाद् अधो घटः ।
+
+पुनः कुब्जापि काणापि दानाद् उपरि कर्कटी ॥पन्च्२।७७॥
+
+
+यच्छन् जलम् अपि जलदो वल्लभताम् एति सकल-लोकस्य ।
+
+नित्यं प्रसारित-करो मित्रो ऽपि न वीक्षितुं शक्यः ॥पन्च्२।७८॥
+
+
+एवं ज्ञात्वा दरिद्र्याभिभूतैर् अपि स्वल्पात् स्वल्पतरं काले पात्रे च देयम् । उक्तं च-
+
+सत्-पात्रं महती श्रद्धा देशे काले यथोचिते ।
+
+यद् दीयते विवेक-ज्ञैस् तद् अनन्ताय कल्पते ॥पन्च्२।७९॥
+
+
+तथा च-
+
+अतितृष्णा न कर्तव्या तृष्णां नैव परित्यजेत् ।
+
+अतितृष्णाभिभूतस्य शिखा भवति मस्तके ॥पन्च्२।८०॥
+
+
+ब्राह्मण्य् आह-कथम् एतत् ?
+
+
+स आह-
+
+कथा ३
+
+शवर-शूकर-कथा
+
+
+अस्ति कस्मिंश्चिद् वनोद्देशे कश्चित् पुलिन्दः । स च पापर्द्धिं कर्तुं वनं प्रति प्रस्थितः । अथ तेन प्रसर्पता महान् अञ्जन-पर्वत-शिखराकारः क्रोडः समासादितः । तं दृष्ट्वा कर्णान्ताकृष्ट-निशित-सायकेन समाहतः । तेनापि कोपाविष्टेन चेतसा बालेन्दु-द्युतिना दंष्ट्राग्रेण पाटितोदरः पुलिन्दो गतासुर् भूतलेऽपतत् ।
+
+
+अथ लुब्धकं व्यापाद्य शूकरो ऽपि शर-प्रहार-वेदनया पञ्चत्वं गतः । एतस्मिन्न् अन्तरे कश्चिद् आसन्न-मृत्युः शृगाल इतस् ततो निराहारतया पीडितः परिभ्रमंस् तं प्रदेशम् आजगाम । यावद् वराह-पुलिन्दौ द्वाव् अपि पश्यति तावत् प्रहृष्टो व्यचिन्तयत्-भोः ! सानुकूलो मे विधिः । तेनैतद् अप्य् अचिन्तितं भोजनम् उपस्थितम् । अथवा साध्व् इदम् उक्तम्-
+
+
+अकृतेऽप्य् उद्यमे पुंसाम् अन्य-जन्म-कृतं फलम् ।
+
+शुभाशुभं समभ्येति विधिना संनियोजितम् ॥पन्च्२।८१॥
+
+
+तथा च-
+
+यस्मिन् देशे च काले च वयसा यादृशेन च ।
+
+कृतं शुभाशुभं कर्म तत् तथा तेन भुज्यते ॥पन्च्२।८२॥
+
+
+तद् अहं तथा भक्षयामि यथा बहून्य् अहानि मे प्राण-यात्रा भवति । तत् तावद् एनं स्नायु-पाशं धनुष्कोटि-गतं भक्षयामि । उक्तं च-
+
+
+शनैः शनैश् च भोक्तव्यं स्वयं वित्तम् उपार्जितम् ।
+
+रसायनम् इव प्राज्ञैर् हेलया न कदाचन ॥पन्च्२।८३॥
+
+
+इत्य् एवं मनसा निश्चित्य चाप-घटित-कोटिं मुख-मध्ये प्रक्षिप्य स्नायुं भक्षितुं प्रवृत्तः । ततश् च त्रुटिते पाशे तालु-देशं विदार्य चाप-कोटिर्मस्तक-मध्येन निष्क्रान्ता । सो ऽपि तद्वद् एनया तत्-क्षणान्तन् मृतः । अतो ऽहं ब्रवीमि-अतितृष्णा न कर्तव्या इति ।
+
+
+
+***********************************************************************  
+
+
+
+स पुनर् अप्य् आह-ब्राह्मणि, न श्रुतं भवत्या ।
+
+
+आयुः कर्म च वित्तं च विद्या निधनम् एव च ।
+
+पञ्चैतानि हि सृज्यन्ते गर्भस्थस्यैव देहिनः ॥पन्च्२।८४॥
+
+
+अथैवं सा तेन प्रबोधिता ब्राह्मण्य् आह-यद्य् एवं तद् अस्ति मे गृहे स्तोकस् तिल-राशिः । ततस् तिलान् लुञ्चित्वा तिल-चूर्णेन ब्राह्मणं भोजयिष्यामि इति ।
+
+
+ततस् तद्-वचनं श्रुत्वा ब्राह्मणो ग्रामं गतः । सापि तिलानुष्णोदकेन सम्मर्द्य कुटित्वा सूर्यातपे दत्तवती । अत्रान्तरे तस्या ग्र्ह-कर्म-व्यग्रायास् तिलानां मध्ये कश्चित् सारमेयो मूत्रोत्सर्गं चकार । तं दृष्ट्वा सा चिन्तितवती-अहो नैपुण्यं पश्य पराङ्मुखीभूतस्य विधेः । यद् एते तिला अभोज्याः कृताः । तद् अहम् एतान् समादाय कस्यचित् गृहं गत्वा लुञ्चितैर् अलुञ्चितान् आनयामि । सर्वो ऽपि जनो ऽनेन विधिना प्रदास्यति इति ।
+
+
+अथ यस्मिन् गृहेऽहं भिक्षार्थं प्रविष्टस् तत्र गृहे सापि तिलान् आदाय प्रविष्टा विक्रयं कर्तुम् । आह च-गृह्णातु कश्चिद् अलुञ्चितैर् लुञ्चितांस् तिलान् ।
+
+
+अथ तद्-गृह-गृहिणी-गृहं प्रविष्टा यावद् अलुञ्चितैर् लुञ्चितान् गृह्णाति तावद् अस्याः पुत्रेण कामन्दकी-शास्त्रं दृष्ट्वा व्याहृतम्-मातः ! अग्राह्याः खल्व् इमे तिलाः । नास्या अलुञ्चितैर् लुञ्चिता ग्राह्याः । कारणं किञ्चिद् भविष्यति । तेनैषालुञ्चितैर् लुञ्चितान् प्रयच्छति ।
+
+
+तच् छ्रुत्वा अया परित्यक्तास् ते तिलाः । अतो ऽहं ब्रवीमि-नाकस्माच् छाण्डिली-मातः इति ।
+
+
+
+***********************************************************************  
+
+
+
+एतद् उक्त्वा स भूयो ऽपि प्राह-अथ ज्ञायते तस्य क्रमण-मार्गः ।
+
+
+ताम्रचूड आह-भगवन्, ज्ञायते । यत एकाकी न समागच्छति, किन्त्व् असङ्ख्य-यूथ-परिवृतः पश्यतो मे परिभ्रमन्न् इतस् ततः सर्व-जनेन सहागच्छति याति च ।
+
+
+अभ्यागत आह-अस्ति किञ्चित् खनित्रकम् ।
+
+
+स आह-बाढम् अस्ति । एषा सर्व-लोह-मयी स्व-हस्तिका ।
+
+
+अभ्यागत आह-तर्हि प्रत्यूषे त्वया मया सह स्थातव्यम् । येन द्वाव् अपि जन-चरण-मलिनायां भूमौ तत्-पदानुसारेण गच्छावः । मयापि तद्-वचनम् आकर्ण्य चिन्तितम्-अहो विनष्टो ऽस्मि, यतो ऽस्य साभिप्राय-वचांसि श्रूयन्ते । नूनं, यथा निधानं ज्ञातं तथा दुर्गम् अप्य् अस्माकं ज्ञास्यति । एतद् अभिप्रायाद् एव ज्ञायते । उक्तं च-
+
+
+सकृद् अपि दृष्ट्वा पुरुषं विबुधा जानन्ति सारतां तस्य ।
+
+हस्त-तुलयापि निपुणाः पल-प्रमाणा विजानन्ति ॥पन्च्२।८५॥
+
+
+वाञ्छैव सूचयति पूर्वतरं भविष्यं
+
+पुंसां यद् अन्य-तनुजं त्व् अशुभं शुभं वा ।
+
+विज्ञायते शिशुर् अजात-कलाप-चिह्नः
+
+प्रत्युद्गतैर् अपसरन् सरलः कलापी ॥पन्च्२।८६॥
+
+
+ततो ऽहं भय-त्रस्त-मनाः सपरिवारो दुर्ग-मार्गं परित्यज्यान्य-मार्गेण गन्तुं प्रवृत्तः । सपरिजनो यावद् अग्रतो गच्छामि तावत् सम्मुखो बृहत्कायो मार्जारः समायाति । स च मूषक-वृन्दम् अवलोक्य तन्-मध्ये सहसोत्पपात । अथ ते मूषका मां कुमार्ग-गामिनम् अवलोक्य गर्हयन्तो हत-शेषा रुधिर-प्लावित-वसुन्धरास् तम् एव दुर्गं प्रविष्टाः । अथवा साध्व् इदम् उच्यते-
+
+
+छित्त्वा पाशम् अपास्य कूट-रचनां भङ्क्त्वा बलाद् वागुरां
+
+पर्यन्ताग्नि-शिखा-कलाप-जटिलान् निर्गत्य दूरं वनात् ।
+
+व्याधानां शर-गोचराद् अपि जवेनोत्पत्य धावन् मृगः
+
+कूपान्तः-पतितः करोतु विधुरे किं वा विधौ पौरुषम् ॥पन्च्२।८७॥
+
+
+अथाहम् एको ऽन्यत्र गतः । शेषा मूढतया तत्रैव दुर्गे प्रविष्टाः । अत्रान्तरे स दुष्ट-परिव्राजको रुधिर-बिन्दु-चर्चितां भूमिम् अवलोक्य तेनैव दुर्ग-मार्गेणागत्योपस्थितः ।
+
+
+यद् उत्साही सदा मर्त्यः पराभवति यज् जनान् ।
+
+यद् उद्धतं वदेद् वाक्यं तत् सर्वं वित्तजं बलम् ॥पन्च्२।८८॥
+
+
+अथाहं तच् छ्रुत्वा कोपाविष्टो भिक्षा-पात्रम् उद्दिश्य विशेषाद् उत्कूर्दितो ऽप्राप्त एव भूमौ निपतितः । तच् छ्रूत्वासौ मे शत्रुर् विहस्य ताम्रचूडम् उवाच-भोः ! पश्य पश्य कौतूहलम् । आह च-
+
+
+अर्थेन बलवान् सर्वो ऽप्य् अर्थ-युक्तः स पण्डितः ।
+
+पश्यैनं मूषकं व्यर्थं सजातेः समतां मतम् ॥पन्च्२।८९॥
+
+
+तत् स्वपिहि त्वं गत-शङ्कः । यद् अस्योत्पतन-कारणं तद् आवयोर् हस्त-गतं जातम् । अथवा साध्व् इदम् उच्यते-
+
+
+दंष्ट्रा-विरहितः सर्पो मद-हीनो यथा गजः ।
+
+तथार्थेन विहीनो ऽत्र पुरुषो नाम-धारकः ॥पन्च्२।९०॥
+
+
+तच् छ्रुत्वाहं मनसा विचिन्तितवान्-यतो ऽङ्गुलि-मात्रम् अपि कूर्दन-शक्तिर् नास्ति, तद् धिग् अर्थ-हीनस्य पुरुषस्य जीवितम् । उक्तं च-
+
+
+अर्थेन च विहीनस्य पुरुषस्याल्प-मेधसः ।
+
+व्युच्छिद्यन्ते क्रियाः सर्वा ग्रीष्मे कुसरितो यथा ॥पन्च्२।९१॥
+
+यथा काक-यवाः प्रोक्ता यथारण्य-भवास् तिलाः ।
+
+नाम-मात्रा न सिद्धौ हि धन-हीनास् तथा नराः ॥पन्च्२।९२॥
+
+सन्तो ऽपि न हि राजन्ते दरिद्रस्येतरे गुणाः ।
+
+आदित्य इव भूतानां श्रीर् गुणानां प्रकाशिनी ॥पन्च्२।९३॥
+
+न तथा बाध्यते लोके प्रकृत्या निर्धनो जनः ।
+
+यथा द्रव्याणि सम्प्राप्य तैर् विहीनो ऽसुखे स्थितः ॥पन्च्२।९४॥
+
+शुष्कस्य कीट-खातस्य वह्नि-दग्धस्य सर्वतः ।
+
+तरोर् अप्य् ऊषरस्थस्य वरं जन्म न चार्थिनः ॥पन्च्२।९५॥
+
+शङ्कनीया हि सर्वत्र निष्प्रतापा दरिद्रता ।
+
+उपकर्तुम् अपि हि प्राप्तं निःस्वं सन्त्यज्य गच्छति ॥पन्च्२।९६॥
+
+उन्नम्योन्नम्य तत्रैव दरिद्राणां मनोरथाः ।
+
+पतन्ति हृदये व्यर्था विधवास्त्रीस्तना इव ॥पन्च्२।९७॥
+
+व्यक्तेऽपि वासरे नित्यं दौर्गत्य-तमसावृतः ।
+
+अग्रतो ऽपि स्थितो यत्नान् न केनापीह दृश्यते ॥पन्च्२।९८॥
+
+
+एवं विलप्याहं भग्नोत्साहस् तन्-निधानं गण्डोपधानीकृतं दृष्ट्वा स्वं दुर्गं प्रभाते गतः । ततश् च मद्-भृत्याः प्रभाते गच्छन्तो मिथो जल्पन्ति-अहो, असमर्थो ऽयम् उदर-पूरणेऽस्माकम् । केवलम् अस्य पृष्ठ-लग्नानां विडालादि-विपत्तयः तत् किम् अनेनाराधितेन ? उक्तं च-
+
+यत्-सकाशान् न लाभाः स्यात् केवलाः स्युर् विपत्तयः ।
+
+स स्वामी दूरतस् त्याज्यो विशेषाद् अनुजीविभिः ॥पन्च्२।९९॥
+
+
+एवं तेषां वचांसि श्रुत्वा स्व-दुर्गं प्रविष्टो ऽहम् । यावन् न कश्चिन् मम संमुखेऽभ्येति तावन् मया चिन्तितम्-धिग् इयं दरिद्रता । अथवा साध्व् इदम् उच्यते-
+
+मृतो दरिद्रः पुरुषो मृतं मैथुनम् अप्रजम् ।
+
+मृतम् अश्रोत्रियं श्राद्धं मृतो यज्ञस् त्व् अदक्षिणम् ॥पन्च्२।१००॥
+
+व्यथयन्ति परं चेतो मनोरथ-शतैर् जनाः ।
+
+नानुष्ठानैर् धनैर् हीनाः कुलजाः विधवा इव ॥पन्च्२।१०१॥
+
+दौर्गत्यं देहिनां दुःखम् अपमान-करं परम् ।
+
+येन स्वैर् अपि मन्यन्ते जीवन्तो ऽपि मृता इव ॥पन्च्२।१०२॥
+
+दैन्यस्य पात्रताम् एति पराभृतेः परं पदम् ।
+
+विपदाम् आश्रयः शश्वद् दौर्गत्य-कलुषी-कृतः ॥पन्च्२।१०३॥
+
+लज्जन्ते बान्धवास् तेन सम्बन्धं गोपयन्ति च ।
+
+मित्राण्य् अमित्रतां यान्ति यस्य न स्युः कपर्दकाः ॥पन्च्२।१०४॥
+
+मूर्तं लाघवम् एवैतद् अपायानाम् इदं गृहम् ।
+
+पर्यायो मरणस्यायं निर्धनत्वं शरीरिणाम् ॥पन्च्२।१०५॥
+
+अजा-धूलिर् इव त्रस्तैर् मार्जनी-रेणुवज् जनैः ।
+
+दीप-खट्वोत्थ-च्छायेव त्यज्यते निर्धनो जनः ॥पन्च्२।१०६॥
+
+शौचावशिष्टयाप्य् अस्ति किञ्चित् कार्यं क्वचिन् मृदा ।
+
+निर्धनेन जनेनैव न तु किञ्चित् प्रयोजनम् ॥पन्च्२।१०७॥
+
+अधनो दातु-कामो ऽपि सम्प्राप्तो धनिनां गृहम् ।
+
+मन्यते याचको ऽयं धिग् दारिद्र्यं खलु देहिनाम् ॥पन्च्२।१०८॥
+
+स्व-वित्त-हरणं दृष्ट्वा यो हि रक्षत्य् असून् नरः ।
+
+पितरो ऽपि न गृह्णन्ति तद्-दत्तं सलिआञ्जलिम् ॥पन्च्२।१०९॥
+
+
+तथा च-
+
+गवार्थे ब्राह्मणार्थे च स्त्री-वित्त-हरणे तथा ।
+
+प्राणांस् त्यजति यो युद्धे तस्य लोकाः सनातनाः ॥पन्च्२।११०॥
+
+एवं निश्चित्य रात्रौ तत्र गत्वा निद्रावशम् उपागतस्य पेटायां मया  छिद्रं कृतं यावत्, तावत् प्रबुद्धो दुष्ट-तापसः । ततश् च जर्जर-वंश-प्रहारेण शिरसि ताडितः कथञ्चिद् आयुः-शेषतया निर्गतो ऽहम्, न मृतश् च । उक्तं च-
+
+
+प्राप्तव्यम् अर्थं लभते मनुष्यो
+
+देवो ऽपि तं लङ्घयितुं न शक्तः ।
+
+तस्मान् न शोचामि न विस्मयो मे
+
+यद् अस्मदीयं न हि तत् परेषाम् ॥पन्च्२।१११॥
+
+
+काक-कूर्मौ पृच्छतः-कथम् एतत् ?
+
+
+हिरण्यक आह-
+
+
+कथा ४
+
+सागरदत्त-कथा
+
+
+अस्ति कस्मिंश्चिन् नगरे सागरदत्तो नाम वणिक् । तत्-सूनुना रूपक-शतेन विक्रीयमाणं पुस्तकं गृहीतम् । तस्मिंश् च लिखितम् अस्ति-
+
+
+प्राप्तव्यम् अर्थं लभते मनुष्यो
+
+देवो ऽपि तं लङ्घयितुं न शक्तः ।
+
+तस्मान् न शोचामि न विस्मयो मे
+
+यद् अस्मदीयं न हि तत् परेषाम् ॥पन्च्२।१११॥
+
+
+तद् दृष्ट्वा सागरदत्तेन तनुजः पृष्टः-पुत्र, कियता मूल्येनैतत् पुस्तकं गृहीतम् ?
+
+
+सो ऽब्रवीत्-रूपक-शतेन ।
+
+
+तच् छ्रुत्वा सागरदत्तो ऽब्रवीत्-धिङ् मूर्ख ! त्वं लिखितैक-श्लोकं रूपक-शतेन यद् गृह्णासि, एतया बुद्ध्या कथं द्रव्योपार्जनं करिष्यसि । तद् अद्य-प्रभृति त्वया मे गृहे न प्रवेष्टव्यम् ।
+
+
+एवं निर्भर्त्स्य गृहान् निःसारितः । स च तेन निर्वेदेन विप्रकृष्टं देशान्तरं गत्वा किम् अपि नगरम् आसाद्यावस्थितः । अथ कतिपय-दिवसैस् तन्-नगर-निवासिना केनचिद् असौ पृष्टः-कुतो भवान् आगतः ? किं नाम-धेयो वा ? इति ।
+
+
+असाव् अब्रवीत्-प्राप्तव्यम् अर्थं लभते मनुष्य इति । अथान्येनापि पृष्टेनानेन तथैवोत्तरं दत्तम् । एवं च तस्य नगरस्य मध्ये प्राप्तव्यमर्थ इति तस्य प्रसिद्ध-नाम जातम् ।
+
+
+अथ राज-कन्या चन्द्रवती नामाभिनव-रूप-यौवन-सम्पन्ना सखी-द्वितीयैकस्मिन् महोत्सव-दिवसे नगरं निरीक्षमाणास्ति । तत्रैव च कश्चिद् राज-पुत्रो ऽतीव-रूप-सम्पन्नो मनोरमश् च कथम् अपि तस्या दृष्टि-गोचरे गतः । तद्-दर्शन-सम-कालम् एव कुसुम-बाणाहतया तया निज-सख्य्-अभिहिता-सखि ! यथा किलानेन सह समागमो भवति तथाद्य त्वया यतितव्यम् ।
+
+
+एवं च श्रुत्वा सा सखी तत्-सकाशं गत्वा शीघ्रम् अब्रवीत्-यद् अहं चन्द्रवत्या तवान्तिकं प्रेषिता । भणितं च त्वां प्रति तया यन् मम त्वद्-दर्शनान् मनोभवेन पश्चिमावस्था कृता । तद् यदि शीघ्रम् एव मद्-अन्तिके न समेष्मसि तदा मे मरणं शरणम् ।
+
+
+इति श्रुत्वा तेनाभिहितं-यद्य् अवश्यं मया तत्रागन्तव्यं, तत् कथय केनोपायेन प्रवेष्टव्यम् ?
+
+
+अथ सख्याभिहितम्-रात्रौ सौधावलम्बितया दृढ-वरत्रया त्वया तत्रारोढव्यम् ।
+
+
+सो ऽब्रवीत्-यद्य् एवं निश्चयो भवत्यास् तद् अहम् एवं करिष्यामि ।
+
+
+इति निश्चित्य सखी चन्द्रवती-सकाशं गता । अथागतायां रजन्यां स राज-पुत्रः स्व-चेतसा व्यचिन्तयत्-अहो महद् अकृत्यम् एतत् । उक्तं च-
+
+
+गुरोः सुतां मित्र-भार्यां स्वामि-सेवक-गेहिनीम् ।
+
+यो गच्छति पुमांल् लोके तम् आहुर् ब्रह्म-घातिनम् ॥पन्च्२।११२॥
+
+
+अपरं च-
+
+अयशः प्राप्यते येन येन चाधो-गतिर् भवेत् ।
+
+स्वार्थाच् च भ्रश्यते येन तत् कर्म न समाचरेत् ॥पन्च्२।११३॥
+
+
+इति सम्यग् विचार्य तत्-सकाशं न जगाम । अथ प्राप्तव्यमर्थः पर्यटन् धवल-गृह-पार्श्वे रात्राव् अवलम्बित-वरत्रां दृष्ट्वा कौतुकाविष्ट-हृदयस् ताम् आलम्ब्याधिरूढः । तया च राज-पुत्र्या स एवायम् इत्य् आश्वस्त-चित्तया स्नान-खादन-पानाच्छादनादिना सम्मान्य तेन सह शयन-तलम् आश्रितया तद्-अङ्ग-संस्पर्श-सञ्जात-हर्ष-रोमाञ्चित-गात्रयोक्तं-युष्मद्-दर्शन-मात्रानुरक्तया मयात्मा प्रदत्तो ऽयम् । त्वद्-वर्जम् अन्यो भर्ता मनस्य् अपि मे न भविष्यति इति । तत् कस्मान् अम्या सह न ब्रवीषि ?
+
+
+सो ऽब्रवीत्- प्राप्तव्यम् अर्थं लभते मनुष्यः ।
+
+
+इत्य् उक्ते तयान्यो ऽयम् इति मत्वा धवल-गृहाद् उत्तार्य मुक्तः । स तु खण्ड-पाशकः प्राप्तः । तावद् असौ खण्ड-देव-कुले गत्वा सुप्तः । अथ तत्र कयाचित् स्वैरिण्या दत्त-सङ्केतको यावद् दण्ड-पाशकः प्राप्तः, तावद् असौ पूर्व-सुप्तस् तेन दृष्टो रहस्य-संरक्षणार्थम् अभिहितश् च-को भवान् ?
+
+
+सो ऽब्रवीत्-प्राप्तव्यम् अर्थं लभते मनुष्यः ।
+
+
+इति श्रुत्वा दण्ड-पाशकेनाभिहितम्-यच् छून्यं देव-गृहम् इदम् । तद् अत्र मदीय-स्थाने गत्वा स्वपिहि ।
+
+
+तथा प्रतिपद्य स मतिर् विपर्यासाद् अन्य-शयने सुप्तः । अथ तस्य रक्षकस्य कन्या विनयवती नाम रूप-यौवन-सम्पन्ना कस्यापि पुरुषस्यानुरक्ता सङ्केतं दत्त्वा तत्र शयने सुप्तासीत् । अथ सा तम् आयातं दृष्ट्वा स एवायम् अस्मद्-वल्लभ इति रात्रौ घनतरान्धकार-व्यामोहितोत्थाय भोजनाच्छादनादि-क्रियां कारयित्वा गान्धर्व-विवाहेनात्मानं विवाहयित्वा तेन समं शयने स्थिता विकसित-वदन-कमला तम् आह-किम् अद्यापि मया सह विश्रब्धं भवान् न ब्रवीति ।
+
+
+सो ऽब्रवीत्-प्राप्तव्यम् अर्थं लभते मनुष्यः ।
+
+
+इति श्रुत्वा तया चिन्तितम्-यत् कार्यम् असमीक्षितं क्रियते तस्येदृक्-फल-विपाको भवति इति । एवं विमृश्य स-विषादया तया निःसारितो ऽसौ । स च यावद्-वीथी-मार्गेण गच्छति तावद् अन्य-विषय-वासी वर-कीर्तिर् नाम वरो महता वाद्य-शब्देनागच्छति । प्राप्तव्यमर्थो ऽपि तैः समं गन्तुम् आरब्धः ।
+
+
+अथ यावत् प्रत्यासन्ने लग्न-समये राज-मार्गासन्न-श्रेष्ठि-गृह-द्वारे रचित-मण्डप-वेदिकायां कृत-कौतुक-मङ्गल-वेशा वणिक्-सुतास्ति, तावन् मद-मत्तो हस्त्य्-आरोहकं हत्वा प्रणश्यज्-जन-कोलाहलेन लोकम् आकुलयंस् तम् एवोद्देशं प्राप्तः । तं च दृष्ट्वा सर्वे वरानुयायिनो वरेण सह प्रणश्य दिशो जग्मुः ।
+
+
+अथास्मिन्न् अवसरे भय-तरल-लोचनाम् एकाकिनीं कन्याम् अवलोक्य-मा भैषीः । अहं परित्रातेति सुधीरं स्थिरीकृत्य दक्षिण-पाणौ सङ्गृह्य महा-साहसिकतया प्राप्तव्यमर्थः पुरुष-वाक्यैर् हस्तिनं निर्भर्त्सितवान् । ततः कथम् अपि दैव-योगाद् अपाये हस्तिनि स-सुहृद्-बान्धवेनातिक्रान्त-लग्न-समये वर-कीर्तिर् नागत्य तावत् तां कन्याम् अन्य-हस्त-गतां दृष्ट्वाभिहितम्-भोः श्वशुर, विरुद्धम् इदं त्वयानुष्ठितं यन् मह्यं प्रदाय कन्यान्यस्मै प्रदत्ता इति ।
+
+
+सो ऽब्रवीत्-भोः ! अहम् अपि हस्ति-भय-पलायितोभवद्भिः सहायातो न जाने किम् इदं वृतम् इत्य् अभिधाय दुहितरं प्रष्टुम् आरब्धः-वत्से, न त्वया सुन्दरं कृतम् । तत् कथ्यतां को ऽयं वृत्तान्तः ।
+
+
+सो ऽब्रवीत्-यद् अहम् अनेन प्राण-संशयाद् रक्षिता, तद् एनं मुक्त्वा मम जीवन्त्या नान्यः पाणिं ग्रहीष्यति इति ।
+
+
+अनेन वार्ता-व्यतिकरेण रजनी व्युष्टा । अथ प्रातस् तत्र सञ्जाते महा-जन-समवाये वार्ता-व्यतिकरं श्रुत्वा राज-दुहिता तम् उद्देशम् आगता । कर्ण-परम्परया श्रुत्वा दण्डपाशक-सुतापि तत्रैवागता । अथ तं महाजन-अमवायं श्रुत्वा राजापि तत्र एवाजगाम ।
+
+
+प्राप्तव्यमर्थं प्राह-भोः विश्रब्धं कथय । कीदृशो ऽसौ वृत्तान्तः ?
+
+अथ सो ऽब्रवीत्-प्राप्तव्यमर्थं लभते मनुष्यः इति ।
+
+
+राज-कन्या स्मृत्वा प्राह-देवो ऽपि तं लङ्घयितुं न शक्त इति ।
+
+
+ततो दण्डपाशक-सुताब्रवीत्-तस्मान् न शोचामि न विस्मयो मे इति ।
+
+
+तम् अखिललोक-वृत्तान्तम् आकर्ण्य वणिक्-सुताब्रवीत्-यद् अस्मदीयं न हि तत् परेषाम् इति ।
+
+
+ततो ऽभय-दानं दत्त्वा राजा पृथक् पृथग् वृत्तान्तान् ज्ञात्वावगत-तत्त्वस् तस्मै प्राप्तव्यम् अर्थाय स्व-दुहितरं स-बहु-मानं ग्राम-सहस्रेण समं सर्वालङ्कार-परिवार-युतां दत्त्वा त्वं मे पुत्रो ऽसीति नगर-विदितं तं यौवराज्येऽभिषिक्तवान् । दण्ड-पासकेनापि स्व-दुहिता स्व-शक्त्या वस्त्र-दानादिना सम्भाव्य प्राप्तव्यमर्थाय प्रदत्ता ।
+
+
+अथ प्राप्तव्यमर्थेनापि स्वीय-पितृ-मातरौ समस्त-कुटुम्बावृतौ तस्मिन् नगरे सम्मान-पुरःसरं समानीतौ । अथ सो ऽपि स्व-गोत्रेण सह विविध-भोगानुपभुञ्जानः सुखेनावस्थितः । अतो ऽहं ब्रवीमि-प्राप्तव्यम् अर्थं लभते मनुष्यः इति ।
+
+
+तद् एतत् सकलं सुख-दुःखम् अनुभूय परं विषादम् उपागतो ऽनेन मित्रेण त्वत्-सकाशम् आनीतः । तद् एतन् मे वैराग्य-कारणम् । मन्थरक आह-भद्र, भवति सुहृद् अयम् असन्दिग्धं यः क्षुत्-क्षामो ऽपि शत्रु-भूतं त्वां भक्ष्य-स्थाने स्थितम् एवं पृष्ठम् आरोप्यानयति न मार्गेऽपि भक्षयति । उक्तं च यतः-
+
+
+विकारं याति नो चित्तं वित्ते यस्य कदाचन ।
+
+मित्रं स्यात् सर्व-काले च कारयेन् मित्रम् उत्तमम् ॥पन्च्२।११४॥
+
+विद्वद्भिः सुहृदाम् अत्र चिह्नैर् एतैर् असंशयम् ।
+
+परीक्षा-करणं प्रोक्तं होमाग्नेर् इव पण्डितैः ॥पन्च्२।११५॥
+
+
+तथा च-
+
+आपत्-काले तु सम्प्राप्ते यन् मित्रं मित्रम् एव तत् ।
+
+वृद्धि-काले तु सम्प्राप्ते दुर्जनो ऽपि सुहृद् भवेत् ॥पन्च्२।११६॥
+
+
+तन् ममाप्य् अद्यास्य विषये विश्वासः समुत्पन्नो यतो नीति-विरुद्धेयं मैत्री मांसाशिभिर् वायसैः सह जलचराणाम् । अथवा साध्व् इदम् उच्यते-
+
+
+मित्रं को ऽपि न कस्यापि नितान्तं न च वैर-कृत् ।
+
+दृश्यते मित्र-विध्वस्तात् कार्याद् वैरी परीक्षितः ॥पन्च्२।११७॥
+
+
+तत् स्वागतं भवतः । स्व-गृह-वदास्यताम् अत्र सरस्-तीरे । यच् च वित्त्-नाशो विदेश-वासश् च ते सञ्जातस् तत्र विषये सन्तापो न कर्तव्यः । उक्तं च-
+
+
+अभ्रच्-छाया खल-प्रीतिः समुद्रान्ते च मेदिनी ।
+
+अल्पेनैव विनश्यन्ति यौवनानि धनानि च ॥पन्च्२।११८॥
+
+
+अत एव विवेकिनो जितात्मानो धन-स्पृहां न कुर्वन्ति । उक्तं च-
+
+
+सुसञ्चितैर् जीवनवत् सुरक्षितैर्
+
+निजेऽपि देहे न वियोजितैः क्वचित् ।
+
+पुंसो यमान्तं व्रजतो ऽपि निष्ठुरैर्
+
+एतैर् धनैः पञ्चपदी न दीयते ॥पन्च्२।११९॥
+
+
+अन्यच् च-
+
+यथामिषं जले मत्स्यैर् भक्ष्यते श्वापदैर् भुवि ।
+
+आकाशे पक्षिभिश् चैव तथा सर्वत्र वित्तवान् ॥पन्च्२।१२०॥
+
+निर्दोषम् अपि वित्ताढ्य दोषैर् योजयते नृपः ।
+
+निधनः प्राप्त-दोषो ऽपि सर्वत्र निरुपद्रवः ॥पन्च्२।१२१॥
+
+अर्थानाम् अर्जनं कार्यं वर्धनं रक्षणं तथा ।
+
+भक्ष्यमाणो निरादायः सुमेरुरपि हीयते ॥पन्च्२।१२२॥
+
+अर्थार्थी यानि कष्टानि मूढो ऽयं सहते जनः ।
+
+शतांशेनापि मोक्षार्थी तानि चेन् मोक्षम् आप्नुयात् ॥पन्च्२।१२३॥
+
+
+को धीरस्य मनस्विनः स्व-विषयः को वा विदेशः स्मृतो
+
+यं देशं श्रयते तम् एव कुरुते बाहु-प्रतापार्जितम् ।
+
+यद् दंष्ट्रानखलाङ्गुल-प्रहरणैः सिंहो वनं गाहते
+
+तस्मिन् एव हत-द्विपेन्द्र-रुधिरैस् तृष्णां छिनत्त्य् आत्मनः ॥पन्च्२।१२४॥
+
+
+अर्थ-हीनः परे देशे गतो ऽपि यः प्रज्ञावान् भवति स कथञ्चिद् अपि न सीदति । उक्तं च-
+
+को ऽतिभारः समर्थानां किं दूरं व्यवसायिनाम् ।
+
+को विदेशः सुव्द्यानां कः परः प्रिय-वादिनाम् ॥पन्च्२।१२५॥
+
+
+तत् प्रज्ञा-निधिर् भवान् न प्राकृत-पुरुष-तुल्यः । अथवा-
+
+
+उत्साह-सम्पन्नम् अदीर्घ-सूत्रं क्रिया-विधिज्ञं व्यसनेष्व् असक्तम् ।
+
+शूरं कृतज्ञं दृढ-सौहृदं च- लक्ष्मीः स्वयं वाञ्छति वास-हेतोः ॥पन्च्२।१२६॥
+
+
+अपरं प्राप्तो ऽप्य् अर्थः कर्म-प्राप्त्या नश्यति । तद् एतावन्ति दिनानि त्वदीयम् आसीत् । मुहूर्तम् अप्य् अनात्मीयं भोक्तुं न लभ्यते । स्वयम् आगतम् अपि विधिनापह्रियते ।
+
+
+अर्थस्योपार्जनं कृत्वा नैवाभाग्यः समश्नुते ।
+
+अरण्यं महदासाद्य मूढः सोमिलको यथा ॥पन्च्२।१२७॥
+
+
+हिरण्यक आह--कथम् एतत् ?
+
+
+स आह-
+
+कथा ५
+
+सोमिलक-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने सोमिलको नाम कौलिको वसति स्म । सो ऽनेक-विध-पट्ट-रचनारञ्जितानि पार्थिवोचितानि सदैव वस्त्राण्य् उत्पादयति । परं तस्य चानेक-विध-पट्ट-रचन-निपुणस्यापि न भोजनाच्छादनाभ्यधिकं कथम् अप्य् अर्थ-मात्रं सम्पद्यते । अथान्ये तत्र सामान्य-कौलिकाः स्थूल-वस्त्र-सम्पादन-विज्ञानिनो महर्धि-सम्पन्नाः । तान् अवलोक्य स स्व-भार्याम् आह-प्रिये ! पश्यैतान् स्थूल-पट्ट-कारकान् धन-कनक-समृद्धान् । तद् अधारणकं ममैतत् स्थानम् । तद् अन्यत्रोपार्जनाय गच्छामि ।
+
+सा प्राह-भोः प्रियतम ! मिथ्या प्रलपितम् एतद् यद् अन्यत्र-गतानां धनं भवति, स्व-स्थाने न भवति । उक्तं च-
+
+उत्पतन्ति यद् आकाशे निपतन्ति महीतले ।
+
+पक्षिणां तद् अपि प्राप्त्या नादत्तम् उपतिष्ठति ॥पन्च्२।१२८॥
+
+
+तथा च-
+
+न हि भवति यन् न भाव्यं
+
+भवति च भाव्यं विनापि यत्नेन ।
+
+कर-तल-गतम् अपि नश्यति
+
+यस्य तु भवितव्यता नास्ति ॥पन्च्२।१२९॥
+
+
+यथा धेनु-सहस्रेषु वत्सो विन्दति मातरं ।
+
+तथा पूर्व-कृतं कर्म कर्तारम् अनुगच्छति ॥पन्च्२।१३०॥
+
+शेते सह शयानेन गच्छन्तम् अनुगच्छति ।
+
+नराणां प्राक्तनं कर्म तिष्ठति तु सहात्मना ॥पन्च्२।१३१॥
+
+यथा छाया-तपौ नित्यं सुसम्बद्धौ परस्परं ।
+
+एवं कर्म च कर्ता च संश्लिष्टाव् इतरेतरम् ॥पन्च्२।१३२॥
+
+कौलिक आह-प्रिये ! न सम्यग् अभिहितं भवत्या । व्यवसायं विना न कर्म फलति । उक्तं च-
+
+यथैकेन न हस्तेन तालिका संप्रपद्यते ।
+
+तथोद्यम-परित्यक्तं न फलं कर्मणः स्मृतम् ॥पन्च्२।१३३॥
+
+पश्य कर्म-वशात् प्राप्तं भोज्यकालेऽपि भोजनम् ।
+
+हस्तोद्यमं विना वक्त्रे प्रविशेन् न कथञ्चन ॥पन्च्२।१३४॥
+
+
+तथा च-
+
+उद्योगिनं पुरुष-सिंहम् उपैति लक्ष्मीर्
+
+दैवेन देयम् इति कापुरुषा वदन्ति ।
+
+दैवं निहत्य कुरु पौरुषम् आत्म-शक्त्या यत्ने कृते यदि न सिध्यति को ऽत्र दोषः ॥पन्च्२।१३५॥
+
+
+तथा च-
+
+उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः ।
+
+न हि सुप्तस्य सिंहस्य विशन्ति वदने मृगाः ॥पन्च्२।१३६॥ उद्यमेन विना राजन् न सिध्यन्ति मनोरथाः ।
+
+कातरा इति जल्पन्ति यद् भाव्यं तद् भविष्यति ॥पन्च्२।१३७॥
+
+स्व-शक्त्या कुर्वतः कर्म न चेत् सिद्धिं प्रयच्छति ।
+
+नोपालभ्यः पुमांस् तत्र दैवान्तरित-पौरुषः ॥पन्च्२।१३८॥
+
+
+तन् मयावश्यं देशान्तरं गन्तव्यम् ।
+
+
+इति निश्चित्य वर्धमान-पुरं गत्वा तत्र वर्ष-त्रयं स्थित्वा सुवर्ण-शत-त्रयोपार्जनं कृत्वा भूयः स्व-गृहं प्रस्थितः । अथार्ध-पथे गच्छतस् तस्य कदाचिद् अटव्यां पर्यटतो भगवान् रविर् अस्तम् उपागतः । तत्र च व्याल-भयात् स्थूलतर-वट-स्कन्ध आरूह्य प्रसुप्तो यावत् तिष्ठति तावन् निशीथे द्वौ पुरुषौ रौद्राकारौ परस्परं जल्पन्ताव् अशृणोत् ।
+
+
+तत्रैक आह-भोः कर्तः त्वं किं सम्यङ् न वेत्सि यद् अस्य सोमिलकस्य भोजनाच्छादनाद् ऋतेऽधिका समृद्धिर् नास्ति । तत् किं त्वयास्य सुवर्ण-शत-त्रयं दत्तम् ।
+
+
+स आह-भोः कर्मन् मयावश्यं दातव्यं व्यवसायिनां तत्र च तस्य परिणतिस् त्वद् आयत्तेति । अथ यावद् असौ कौलिकः प्रबुद्धः सुवर्ण-ग्रन्थिम् अवलोकयति तावद् रिक्तं पश्यति ।
+
+
+ततः साक्षेपं चिन्तयामास । अहो किम् एतत् ? महता कष्टेनोपार्जितं वित्तं हेलया क्वापि गतम् । यद् व्यर्थ-श्रमो ऽकिञ्चनः कथं स्व-पत्न्या मित्राणां च मुखं दर्शयिष्यामि ।  इति निश्चित्य तद् एव पत्तनं गतः । तत्र च वर्ष-मात्रेणापि सुवर्ण-शत-पञ्चकम् उपार्ज्य भूयो ऽपि स्व-स्थानं प्रति प्रस्थितः । यावद् अर्ध-पथे भूयो ऽटवी-गतस्य भगवान् भानुर् अस्तंजगामाथ सुवर्ण-नाश-भयात् सुश्रान्तो ऽपि न विश्राम्यति केवलं कृत-गृहोत्कण्ठः सत्वरं व्रजति ।
+
+अत्रान्तरे द्वौ पुरुषौ तादृषौ दृष्टि-देशे समागच्छन्तौ जल्पन्तौ च शृणोति । तत्रैकः प्राह-भोः कर्तः ! किं त्वयैतस्य सुवर्ण-शत-पञ्चकं दत्तम् ? तत् किं न वेत्सि यद् भोजनाच्छादनाभ्यधिकम् अस्य किंचिन् नास्ति ।
+
+
+स आह-भोः कर्मन् ! मयावश्यं देयं व्यवसायिनाम् । तस्य परिणामस् त्वद्-आयत्तः । तत् किं माम् उपालम्भयसि ?
+
+
+तच् छ्रुत्वा सोमिलको यावद् ग्रन्थिम् अवलोकयति तावत् सुवर्णं नास्ति । ततः परं दुःखम् आपन्नो व्यचिन्तयत्-अहो किं मम धन-रहितस्य जीवितेन ? तद् अत्र वट-वृक्ष आत्मानम् उद्बध्य प्राणांस् त्यजामि ।
+
+
+एवं निश्चित्य दर्भ-मयीं रज्जुं विधाय स्व-कण्ठे पाशं नियोज्य शाखायाम् आत्मानं निबध्य यावत् प्रक्षिपति तावद् एकः पुमान् आकाश-स्थ एवेदम् आह-भो भोः सोमिलक ! मैवं साहसं कुरु । अहं ते वित्तापहारको न ते भोजनाच्छादनाभ्यधिकं वराटिकाम् अपि सहामि । तद् गच्छ स्व-गृहं प्रति । अन्यच् च भवदीय-साहसेनाहं तुष्टः । तथा मे न स्याद् व्यर्थं दर्शनम् । तत् प्रार्थ्यताम् अभीष्टो वरः कश्चित् ।
+
+
+सोमिलक आह-यद्य् एवं तद् देहि मे प्रभूतं धनम् ।
+
+
+स आह-भोः ! किं करिष्यसि भोग-रहितेन धनेन यतस् तव भोजनाच्छादनाभ्यधिका प्राप्तिर् अपि नास्ति ? उक्तं च-
+
+किं तया क्रियते लक्ष्म्या या वधूर् इव केवला ।
+
+या न वेश्येव सामान्या पथिकैर् उपभुज्यते ॥पन्च्२।१३९॥
+
+
+सोमिलक आह-यद्य् अपि भोगो नास्ति तथापि भवतु मे धनम् । उक्तं च-
+
+
+कृपणो ऽप्य् अकुलीनो ऽपि सदा संश्रित-मानुषैः ।
+
+सेव्यते स नरो लोके यस्य स्याद् वित्त-सञ्चयः ॥पन्च्२।१४०॥
+
+
+तथा च-
+
+शिथिलौ च सुबद्धौ च पततः पततो न वा ।
+
+निरीक्षितौ मया भद्रे दश वर्षाणि पञ्च च ॥पन्च्२।१४१॥
+
+पुरुष आह-किम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+
+कथा ६
+
+तीक्ष्ण-विषाण-शृगाल-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने तीक्ष्णविषाणो नाम महा-वृषभो वसति । स च मदातिरेकात् परित्यक्त-निज-यूठः शृङ्गाभ्यां नदी-तटानि विदारयन् स्वेच्छया मरकत-सदृशानि शष्पाणि भक्षयन्न् अरण्य-चरो बभूव । अथ तत्रैव वने प्रलोभको नाम शृगालः प्रतिवसति स्म । स कदाचित् स्व-भार्यया सह नदी-तीरे सुखोपविष्टस् तिष्ठति । अत्रान्तरे स तीक्ष्णविषाणो जलार्थं तद् एव पुलिनम् अवतीर्णः । ततश् च तस्य लम्बमानौ वृषणाव् आलोक्य शृगाल्या शृगालो ऽभिहितः-स्वामिन् ! पश्यास्य वृषभस्य मांस-पिण्डौ लम्बमानौ यथा स्थितौ । ततः क्षणेन प्रहरेण वा पतिष्यतः । एवं ज्ञात्वा भवता पृष्ठ-यायिना भाव्यं ।
+
+
+शृगाल आह-प्रिये ! न ज्ञायते कदाचिद् एतयोः पतनं भविष्यति वा न वा । तत् किं वृथा श्रमाय मां नियोजयसि ? अत्र-स्थस् तावज् जलार्थम् आगतान् मूषकान् भक्षयिष्यामि समं त्वया । मार्गो ऽयं यतस् तेषाम् । अथ यदा त्वां मुक्त्वास्य तीक्ष्णविषाणस्य वृषभस्य पृष्ठे गमिष्यामि तदागत्यान्यः कश्चिद् एतत् स्थानं समाश्रयिष्यति । नैतद् युज्यते कर्तुम् । उक्तं च-
+
+
+यो ध्रुवाणि परित्यज्याध्रुवाणि निषेवते ।
+
+ध्रुवाणि तस्य नश्यन्ति अध्रुवं नष्टम् एव च ॥पन्च्२।१४२॥
+
+शृगाल्य् आह-भोः कापुरुषस् त्वं यत् किंचित् प्राप्तं तेनापि सन्तोषं करोषि । उक्तं च-
+
+
+सुपूरा स्यात् कुनदिका सुपूरो मूषिकाञ्जलिः ।
+
+सुसन्तुष्टः कापुरुषः स्वल्पकेनापि तुष्यति ॥पन्च्२।१४३॥
+
+
+तस्मात् पुरुषेण सदैवोत्साहवता भाव्यम् । उक्तं च-
+
+यत्रोत्साह-समारम्भो यत्रालस्य-विनिग्रहः ।
+
+नय-विक्रम-संयोगस् तत्र श्रीर् अचला ध्रुवं ॥पन्च्२।१४४॥
+
+तद् दैवम् इति सञ्चिन्त्य त्यजेन् नोद्योगम् आत्मनः ।
+
+अनुयोगं विना तैलं तिलानां नोपजायते ॥पन्च्२।१४५॥
+
+अन्यच् च-
+
+यः स्तोकेनापि सन्तोषं कुरुते मन्दधीर् जनः ।
+
+तस्य भाग्य-विहीनस्य दत्ता श्रीर् अपि मार्ज्यते ॥पन्च्२।१४६॥
+
+
+यच् च त्वं वदसि । एतौ पतिष्यतो न वेति । तद् अप्य् अयुक्तम् । उक्तं च-
+
+
+कृत-निश्चयिनो वन्द्यास् तुङ्गिमा नोपभुज्यते ।
+
+चातकः को वराको ऽयं यस्येन्द्रो वारिवाहकः ॥पन्च्२।१४७॥
+
+
+अपरं मूषक-मांसस्य निर्विण्णाहम् । एतौ च मांस-पिण्डौ पतन-प्रायौ दृश्येते । तत् सर्वथा नान्यथा कर्तव्यम् इति । अथासौ तद् आकर्ण्य मूषक-प्राप्ति-स्थानं परित्यज्य तीक्ष्णविषाणस्य पृष्ठम् अन्वगच्छत् । अथ वा साध्व् इदम् उच्यते-
+
+
+तावत् स्यात् सर्व-कृत्येषु पुरुषो ऽत्र स्वयं प्रभुः ।
+
+स्त्री-वाक्याङ्कुश-विक्षुण्णो यावन् नो ध्रियते बलात् ॥पन्च्२।१४८॥
+
+अकृत्यं मन्यते कृत्यं अगम्यं मन्यते सुगम् ।
+
+अभक्ष्यं मन्यते भक्ष्यं स्त्री-वाक्य-प्रेरितो नरः ॥पन्च्२।१४९॥
+
+
+एवं स तस्य पृष्ठतः स-भार्यः परिभ्रमंश् चिर-कालम् अनयत् । न च तयोः पतनम् अभूत् । ततश् च निर्वेदात् पञ्चदशे वर्षे शृगालः स्वभार्याम् आह-शिथिलौ च सुबद्धौ च (१४१) इत्यादि ।
+
+
+तयोस् तत्-पश्चाद् अपि पातो न भविष्यति । तत् तद् एव स्व-स्थानं गच्छावः । अतो ऽहं ब्रवीमि-शिथिलौ च सुबद्धौ च (१४१) इति ।
+
+
+
+***********************************************************************  
+
+
+
+पुरुष आह-यद्य् एवं तद् गच्छ भूयो ऽपि वर्धमान-पुरम् । तत्र द्वौ वणिक्-पुत्रौ वसतः । एको गुप्त-धनः । द्वितीय उपभुक्त-धनः । ततस् तयोः स्वरूपं बुद्ध्वैकस्य वरः प्रार्थनीयः । यदि ते धनेन प्रयोजनम् अभक्षितेन ततस् त्वाम् अपि गुप्त-धनं करोमि । अथवा दत्त-भोग्येन धनेन ते प्रयोजनं तद् उपभुक्त-धनं करोमीति । एवम् उक्त्वादर्शनं गतः ।
+
+
+सोमिलको ऽपि विस्मित-मना भूयो ऽपि वर्धमान-पुरं गतः । अथ सन्ध्या-समये श्रान्तः कथम् अपि तत्-पुरं प्राप्तो गुप्तधन-गृहं पृच्छन् कृच्छ्राल् लब्ध्वास्तमित-सूर्ये प्रविष्टः । अथासौ भार्या-पुत्र-समेतेन गुप्तधनेन निर्भर्त्स्यमानो हठाद् गृहं प्रविश्योपविष्टः । ततश् च भोजन-वेलायां तस्यापि भक्ति-वर्जितं किंचिद् अशनं दत्तम् । ततश् च भुक्त्वा तत्रैव यावत् सुप्तो निशीथे पश्यति तावत् ताव् अपि द्वौ पुरुषौ परस्परं मन्त्रयतः । तत्रैक आह-भोः कर्तः ! किं त्वयास्य गुप्तधनस्यान्यो ऽधिको व्ययो निर्मितो यत् सोमिलकस्यानेन भोजनं दत्तम् । तद् अयुक्तं त्वया कृतम् ।
+
+
+स आह-भोः कर्मन् ! न ममात्र दोषः । मया पुरुषस्य लाभ-प्राप्तिर् दातव्या । तत्-परिणतिः पुनस् त्वद्-आयत्तेति । अथासौ यावद् उत्तिष्ठति तावद् गुप्तधनो विसूचिकया खिद्यमानो रुजाभिभूतः क्षणं तिष्ठति । ततो द्वितीयेऽह्नि तद्-दोषेण कृतोपवासः सञ्जातः ।
+
+
+सोमिलको ऽपि प्रभाते तद्-गृहान् निष्क्रम्य उपभुक्तधन-गृहं गतः । तेनापि चाभ्युत्थादिना सत्-कृतो विहित-भोजनाच्छादन-संमानस् तस्यैव गृहे भव्य-शय्याम् आरुह्य सुष्वाप । ततश् च निशीथे यावत् पश्यति तावत् ताव् एव द्वौ पुरुषौ मिथो मन्त्रयतः । अत्र तयोर् एक आह-भोः कर्तः ! अनेन सोमिलकस्योपकारं कुर्वता प्रभूतो व्ययः कृतः । तत् कथय कथम् अस्योद्धारक-विधिर् भविष्यति । अनेन सर्वम् एतद् व्यवहारक-गृहात् समानीतम् ।
+
+
+स आह-भोः कर्मन् ! मम कृत्यम् एतत् । परिणतिस् त्वद्-आयत्तेति । अथ प्रभात-समये राज-पुरुषो राज-प्रसादजं वित्तम् आदाय समायात उपभुक्त-धनाय समर्पयाम् आस ।
+
+
+तद् दृष्ट्वा सोमिलकश् चिन्तयामास । सञ्चय-रहितो ऽपि वरम् एष उपभुक्तधनो नासौ कदर्यो गुप्तधनः । उक्तं च-
+
+
+अग्निहोत्र-फला वेदाः शील-वृत्त-फलं श्रुतम् ।
+
+रति-पुत्र-फला दारा दत्त-भुक्त-फलं धनम् ॥पन्च्२।१५०॥
+
+
+तद् विधाता मां दत्त-भुक्त-धनं करोतु । न कार्यं मे गुप्तधनेन । ततः सोमिलको दत्तभुक्तधनः संजातः । अतो ऽहं ब्रवीमि-अर्थस्योपार्जनं कृत्वा इति ।
+
+
+गृह-मध्य-निखातेन धनेन धनिनो यदि ।
+
+भवामः किं न तेनैव धनेन धनिनो वयं ॥पन्च्२।१५१॥
+
+
+तद् भद्र ! हिरण्यकैवं ज्ञात्वा धन-विषये सन्तापो न कार्यः । अथ विद्यमानम् अपि धनं भोज्य-बन्ध्यतया तद्-अविद्यमानं मन्तव्यम् । उक्तं च-
+
+
+उपार्जितानाम् अर्थानां त्याग एव हि रक्षणम् ।
+
+तडागोदर-संस्थानां परीवाह इवाम्भसाम् ॥पन्च्२।१५२॥
+
+
+तथा च-
+
+उपार्जितानाम् अर्थानां त्याग एव हि रक्षणम् ।
+
+तडागोदर-संस्थानां परिवाह इवाम्भसाम् ॥पन्च्२।१५३॥
+
+
+अन्यच् च-
+
+दानं भोगो नाशस् तिस्रो गतयो भवन्ति वित्तस्य । यो न ददाति न भुङ्क्ते तस्य तृतीया गतिर् भवति ॥पन्च्२।१५४॥
+
+एवं ज्ञात्वा विवेकिना न स्थित्य्-अर्थं वित्तोपार्जनं कर्तव्यं यतो दुःखाय तत् । उक्तं च-
+
+धनादिकेषु विद्यन्ते येऽत्र मूर्खाः सुखाशयाः ।
+
+तप्त-ग्रीष्मेण सेवन्ते शैत्यार्थं ते हुताशनम् ॥पन्च्२।१५५॥
+
+
+सर्पाः पिबन्ति पवनं न च दुर्बलास् ते
+
+शुष्कैस् तृणैर् वन-गजा बलिनो भवन्ति ।
+
+कन्दैः फलैर् मुनि-वरा गमयन्ति कालं
+
+सन्तोष एव पुरुषस्य परं निधानम् ॥पन्च्२।१५६॥
+
+
+सन्तोषामृत-तृप्तानां यत् सुखं शान्त-चेतसाम् ।
+
+कुतस् तद्-धन-लुब्धानाम् इतश् चेतश् च धावताम् ॥पन्च्२।१५७॥
+
+
+पीयूषम् इव संतोषं पिबतां निर्वृतिः परा ।
+
+दुःखं निरन्तरं पुंसाम् असंतोषवतां पुनः ॥पन्च्२।१५८॥
+
+निरोधाच् चेतसो ऽक्षाणि निरुद्धान्य् अखिलान्य् अपि ।
+
+आच्छादिते रवौ मेघैः सञ्छन्नाः स्युर् गभस्तयः ॥पन्च्२।१५९॥
+
+वाञ्छा-विच्छेदनं प्राहुः स्वास्थ्यं शान्ता मह-र्षयः ।
+
+वाञ्छा निवर्तते नार्थैः पिपासेवाग्नि-सेवनैः ॥पन्च्२।१६०॥ अनिन्द्यम् अपि निन्दन्ति स्तुवन्त्य् अस्तुत्यम् उच्चकैः ।
+
+स्वापतेय-कृते मर्त्याः किं किं नाम न कुर्वते ॥पन्च्२।१६१॥
+
+
+धर्मार्थं यस्य वित्तेहा तस्यापि न शुभावहा ।
+
+प्रक्षालनाद्द् हि पङ्कस्य दूराद् अस्पर्शनं वरम् ॥पन्च्२।१६२॥
+
+
+दानेन तुल्यो निधिर् अस्ति नान्यो
+
+लोभाच् च नान्यो ऽस्ति परः पृथिव्याम् ।
+
+विभूषणं शील-समं न चान्यत्
+
+सन्तोष-तुल्यं धनम् अस्ति नान्यत् ॥पन्च्२।१६३॥
+
+
+दारिद्र्यस्य परा मूर्तिर् यन् मान-द्रविणाल्पता ।
+
+जरद्-गव-धनः शर्वस् तथापि परमेश्वरः ॥पन्च्२।१६४॥
+
+एवं ज्ञात्वा भद्र त्वया सन्तोषः कार्य इति । मन्थरकवचनम् आकर्ण्य वायस आह-भद्र मन्थरको यद् एवं वदति तत् त्वया चित्ते कर्तव्यम् । अथवा साध्व् इदम् उच्यते-
+
+
+सुलभाः पुरुषा राजन् सततं प्रिय-वादिनः ।
+
+अप्रियस्य च पथ्यस्य वक्ता श्रोता च दुर्लभः ॥पन्च्२।१६६॥
+
+अप्रियाण्य् अपि पथ्यानि ये वदन्ति नृणाम् इह ।
+
+त एव सुहृदः प्रोक्ता अन्ये स्युर् नाम-धारकाः ॥पन्च्२।१६७॥
+
+
+अथैवं जल्पतां तेषां चित्राङ्गो नाम हरिणो लुब्धक-त्रासितस् तस्मिन्न् एव सरसि प्रविष्टः । अथायान्तं स-सम्भ्रमम् अवलोक्य लघुपतनको वृक्षम् आरूढः । हिरण्यकः शरस्तम्बं प्रविष्टः । मन्थरकः सलिलाशयम् आस्थितः । अथ लघुपतनको मृगं सम्यक् परिज्ञाय मन्थरकम् उवाच-एह्य् एहि सखे मन्थरक ! मृगो ऽयं तृषार्तो ऽत्र समायातः सरसि प्रविष्टः । तस्य शब्दो ऽयं न मानुष-सम्भव इति ।
+
+
+तच् छ्रुत्वा मन्थरको देश-कालोचितम् आह-भो लघुपतनक ! यथायं मृगो दृश्यते प्रभूतम् उच्छ्वासम् उद्वहन्न् उद्भ्रान्त-दृष्ट्या पृष्ठतो ऽवलोकयति तन् न तृषार्त एष नूनं लुब्धक-त्रासितः । तज् ज्ञायताम् अस्य पृष्ठे लुब्धका आगच्छन्ति न वेति । उक्तं च-
+
+
+भय-त्रस्तो नरः श्वासं प्रभूतं कुरुते मुहुः ।
+
+दिशो ऽवलोकयत्य् एव न स्वास्थ्यं व्रजति क्वचित् ॥पन्च्२।१६८॥
+
+
+तच् छ्रुत्वा चित्राङ्ग आह-भो मन्थरक ! ज्ञातं त्वया सम्यङ् मे त्रास-कारणम् । अहं लुब्धक-शर-प्रहाराद् उद्धारितः कृच्छ्रेणात्र समायातः । मम यूथं तैर् लुब्धकैर् व्यापादितं भविष्यति । तच् छरणागतस्य मे दर्शय किंचिद् अगम्यं स्थानं लुब्धकानाम् ।
+
+
+तद् आकर्ण्य मन्थरक आह-भोश् चित्राङ्ग ! श्रूयतां नीति-शास्त्रम् ।
+
+
+द्वाव् उपायाव् इह प्रोक्तौ विमुक्तौ शत्रु-दर्शने ।
+
+हस्तयोश् चालनाद् एको द्वितीयः पाद-वेग-जः ॥पन्च्२।१६९॥
+
+
+तद् गम्यतां शीघ्रं घनं वनं यावद् अद्यापि नागच्छन्ति ते दुरात्मानो लुब्धकाः ।
+
+
+अत्रान्तरे लघुपतनकः सत्वरम् अभ्युपेत्योवाच-भो मन्थरक ! गतास् ते लुब्धकाः स्व-गृहोन्मुखाः प्रचुर-मांस-पिण्ड-धारिणः । तच् चित्राङ्ग ! त्वं विश्रब्धो जलाद् बहिर् भव ।
+
+ततस् ते चत्वारो ऽपि मित्र-भावम् आश्रितास् तस्मिन् सरसि मध्याह्न-समये वृक्ष-च्छायाधस्तात् सुभाषित-गोष्ठी-सुखम् अनुभवन्तः सुखेन कालं नयन्ति । अथवा युक्तम् एतद् उच्यते-
+
+सुभाषित-रसास्वाद-बद्ध-रोमाञ्च-कञ्चुकं ।
+
+विनापि संगमं स्त्रीणां कवीनां सुखम् एधते ॥पन्च्२।१७०॥
+
+सुभाषित-मय-द्रव्य-सङ्ग्रहं न करोति यः ।
+
+स तु प्रस्ताव-यज्ञेषु कां प्रदास्यति दक्षिणाम् ॥पन्च्२।१७१॥
+
+
+तथा च-
+
+सकृद् उक्तं न गृह्णाति स्वयं वा न करोति यः ।
+
+यस्य संपुटिका नास्ति कुतस् तस्य सुभाषितम् ॥पन्च्२।१७२॥
+
+अथैकस्मिन्न् अहनि गोष्ठी-समये मृगो नायातः । अथ ते व्याकुलीभूताः परस्परं जल्पितुम् आरब्धाः । अहो किम् अद्य सुहृन् न समायातः । किं सिंहादिभिः क्वचिद् व्यापादित उत लुब्धकैर् अथ वानले प्रपतितो गर्ता-विषमे वा नव-तृण-लौल्याद् इति । अथवा साध्व् इदम् उच्यते-
+
+स्व-गृहोद्यान-गतेऽपि स्निग्धैः पापं विशङ्क्यते मोहात् ।
+
+किम् उ दृष्ट-बह्व्-अपाय-प्रतिभय-कान्तार-मध्य-स्थे ॥पन्च्२।१७३॥
+
+
+अथ मन्थरको वायसम् आह-भो लघुपतनकाहं हिरण्यकश् च तावद् द्वाव् अप्य् अशक्तौ तस्यान्वेषणं कर्तुं मन्दगतित्वात् । तद् गत्वा त्वम् अरण्यं शोधय यदि कुत्रचित् तं जीवन्तं पश्यसीति ।
+
+
+तद् आकर्ण्य लघुपतनको नातिदूरे यावद् गच्छति तावत् पल्वल-तीरे चित्राङ्गः कूट-पाश-नियन्त्रितस् तिष्ठति । तं दृष्ट्वा शोक-व्याकुलित-मनास् तम् अवोचत् । भद्र किम् इदम् ? चित्राङ्गो ऽपि वायसम् अवलोक्य विशेषेण दुःखित-मना बभूव । अथवा युक्तम् एतत्-
+
+
+अपि मन्दत्वम् आपन्नो नष्टो वापीष्ट-दर्शनात् ।
+
+प्रायेण प्राणिनां भूयो दुःखावेगो ऽधिको भवेत् ॥पन्च्२।१७४॥
+
+
+ततश् च वाष्पावसाने चित्राङ्गो लघुपतनकम् आह-भो मित्र संजातो ऽयं तावन् मम मृत्युः । तद् युक्तं सम्पन्नं यद् भवता सह मे दर्शनं सञ्जातम् । उक्तं च-
+
+
+प्राणात्यये समुत्पन्ने यदि स्यान् मित्र-दर्शनं ।
+
+तद् द्वाभ्यां सुख-दं पश्चाज् जीवतो ऽपि मृतस्य च ॥पन्च्२।१७५॥
+
+
+तत् क्षन्तव्यं यन् मया प्रणयात् सुभाषित-गोष्ठीष्व् अभिहितं । तथा हिरण्यक-मन्थरकौ मम वाक्याद् वाच्यौ ।
+
+
+अज्ञानाज् ज्ञानतो वापि दुरुक्तं यद् उदाहृतम् ।
+
+मया तत् क्षम्यताम् अद्य द्वाभ्याम् अपि प्रसादतः ॥पन्च्२।१७६॥
+
+
+तच् छ्रुत्वा लघुपतनक आह-भद्र न भेतव्यम् अस्मद्-विधैर् मित्रैर् विद्यमानैः । यावद् अहं द्रुततरं हिरण्यकं गृहीत्वागच्छामि । अपरं ये सत्-पुरुषा भवन्ति ते व्यसने न व्याकुलत्वम् उपयान्ति । उक्तं च-
+
+
+सम्पदि यस्य न हर्षो विपदि विषादो रणे न भीरुत्वं । तं भुवन-त्रय-तिलकं जनयति जननी सुतं विरलं ॥पन्च्२।१७७॥
+
+एवम् उक्त्वा लघुपतनकश् चित्राङ्गम् आश्वास्य यत्र हिरण्यक-मन्थरकौ तिष्ठतस् तत्र गत्वा सर्वं चित्राङ्ग-पाश-पतनं कथितवान् । हिरण्यकं च चित्राङ्ग-पाश-मोक्षणं प्रति कृत-निश्चयं पृष्ठम् आरोप्य भूयो ऽपि सत्वरं चित्राङ्ग-समीपे गतः । सो ऽपि मूषकम् अवलोक्य किंचिज् जीविताशया संश्लिष्ट आह-
+
+
+आपन्-नाशाय विबुधैः कर्तव्याः सुहृदो ऽमलाः ।
+
+न तरत्य् आपदं कश्चिद् यो ऽत्र मित्र-विवर्जितः ॥पन्च्२।१७८॥
+
+
+हिरण्यक आह-भद्र त्वं तावन् नीति-शास्त्र-ज्ञो दक्ष इति । तत् कथम् अत्र कूट-पाशे पतितः ?
+
+
+स आह-भो न कालो ऽयं विवादस्य । तन् न यावत् स पापात्मा लुब्धकः समभ्येति तावद् द्रुततरं कर्तयेमं मत्-पाद-पाशं ।
+
+
+तद् आकर्ण्य विहस्याह हिरण्यकः-किं मय्य् अपि समायाते लुब्धकाद् बिभेषि ततः शास्त्रं प्रति महती मे विरक्तिः सम्पन्ना यद् भवद्-विधा अपि नीति-शास्त्र-विद एताम् अवस्थां प्राप्नुवन्ति । तेन त्वां पृच्छामि ।
+
+
+स आह-भद्र कर्मणा बुद्धिर् अपि हन्यते । उक्तं च-
+
+
+कृतान्त-पाश-बद्धानां दैवोपहत-चेतसां ।
+
+बुद्धयः कुब्ज-गामिन्यो भवन्ति महताम् अपि ॥पन्च्२।१७९॥
+
+विधात्रा रचिता या सा ललाटेऽक्षर-मालिका ।
+
+न तां मार्जयितुं शक्ताः स्व-शक्त्याप्य् अतिपण्डिताः ॥पन्च्२।१८०॥
+
+
+एवं तयोः प्रवदतोः सुहृद्-व्यसन-सन्तप्त-हृदयो मन्थरकः शनैः शनैस् तं प्रदेशम् आजगाम । तं दृष्ट्वा लघुपतनको हिरण्यकम् आह-अहो न शोभनम् आपतितम् ।
+
+हिरण्यक आह-किं स लुब्धकः समायाति ?
+
+
+स आह-आस्तां तावल् लुब्धक-वार्ता । एष मन्थरकः समागच्छति । तद् अनीतिर् अनुष्ठितानेन यतो वयम् अप्य् अस्य कारणान् नूनं व्यापादनं यास्यामो यदि स पापात्मा लुब्धकः समागमिष्यति । तद् अहं तावत् खम् उत्पतिष्यामि । त्वं पुनर् बिलं प्रविष्यात्मानं रक्षयिष्यसि । चित्राङ्गो ऽपि वेगेन दिग्-अन्तरं यास्यति । एष पुनर् जलचरः स्थले कथं भविष्यतीति व्याकुलो ऽस्मि । अत्रान्तरे प्राप्तो ऽयं मन्थरकः ।
+
+
+हिरण्यक आह-भद्र, न युक्तम् अनुष्ठितं भवता यद् अत्र समायातः । तद् भूयो ऽपि द्रुततरं गम्यतां यावद् असौ लुब्धको न समायाति ।
+
+
+मन्थरक आह-भद्र, किं करोमि ? न शक्नोमि तत्र-स्थो मित्र-व्यसनाग्नि-दाघं सोढुम् । तेनाहम् अत्रागतः । अथवा साध्व् इदम् उच्यते-
+
+
+दयित-जन-विप्रयोगो वित्त-वियोगश् च सह्याः स्युः ।
+
+यदि सुमहौषध-कल्पो वयस्य-जन-संगमो न स्यात् ॥पन्च्२।१८१॥
+
+
+वरं प्राण-परित्यागो न वियोगो भवादृशैः ।
+
+प्राणा जन्मान्तरे भूयो न भवन्ति भवद्-विधाः ॥पन्च्२।१८२॥
+
+
+एवं तस्य प्रवदत आकर्ण-पूरित-शरासनो लुब्धको ऽप्य् उपागतः । तं दृष्ट्वा मूषकेण तस्य स्नायु-पाशस् तत्-क्षणात् खण्डितः । अत्रान्तरे चित्राङ्गः सत्वरं पृष्ठम् अवलोकयन् प्रधावितः । लघुपतनको वृक्षम् आरूढः । हिरण्यकश् च समीप-वर्ति बिलं प्रविष्टः । अथासौ लुब्धको मृग-गमनाद् विषण्ण-वदनो व्यर्थ-श्रमस् तं मन्थरकं मन्दं मन्दं स्थल-मध्ये गच्छन्तं दृष्टवान् । अचिन्तयच् च-यद्य् अपि कुरङ्गो धात्रापहृतस् तथाप्य् अयं कूर्म आहारार्थं सम्पादितः । तद् अद्यास्यामिषेण मे कुटुम्बस्याहार-निर्वृत्तिर् भविष्यति ।
+
+
+एवं विचिन्त्य तं दर्भैः सञ्छाद्य धनुषु समारोप्य स्कन्धे कृत्वा गृहं प्रति प्रस्थितः । अत्रान्तरे तं नीयमानम् अवलोक्य हिरण्यको दुःखाकुलः पर्यदेवयत्-कष्टं भोः कष्टम् आपतितम् ।
+
+
+एकस्य दुःखस्य न यावद् अन्तं
+
+गच्छाम्य् अहं पारम् इवार्णवस्य ।
+
+तावद् द्वितीयं समुपस्थितं मे छिद्रेष्व् अनर्था बहुली-भवन्ति ॥पन्च्२।१८३॥
+
+
+तावद् अस्खलितं यावत् सुखं याति समे पथि ।
+
+स्खलिते च समुत्पन्ने विषमे च पदे पदे ॥पन्च्२।१८४॥
+
+यन् नम्रं सरलं चापि यच् चापत्सु न सीदति ।
+
+धनुर् मित्रं कलत्रं च दुर्लभं शुद्ध-वंशजम् ॥पन्च्२।१८५॥
+
+न मातरि न दारेषु न सोदर्ये न चात्मजे ।
+
+विश्रम्भस् तादृशः पुंसां यादृङ् मित्रे निरन्तरे ॥पन्च्२।१८६॥
+
+
+यदि तावत् कृतान्तेन मे धन-नाशो विहितस् तन्-मार्ग-श्रान्तस्य मे विश्राम-भूतं मित्रं कस्माद् अपहृतं ।  अपरम् अपि मित्रं परं मन्थरक-समं न स्यात् । उक्तं च-
+
+
+असम्पत्तौ परो लाभो गुह्यस्य कथनं तथा ।
+
+आपद्-विमोक्षणं चैव मित्रस्यैतत् फल-त्रयम् ॥पन्च्२।१८७॥
+
+
+तद् अस्य पश्चान् नान्यः सुहृन् मे । तत् किं ममोपर्य् अनवरतं व्यसन-शरैर् वर्षति हन्त विधिः । यत आदौ तावद् वित्त-नाशस् ततः परिवार-भ्रंशस् ततो देश-त्यागस् ततो मित्र-वियोग इति । अथवा स्वरूपम् एतत् सर्वेषाम् एव जन्तूनां जीवित-धर्मस्य । उक्तं च-
+
+
+कायः संनिहितापायः सम्पदः पदम् आपदाम् ।
+
+समागमाः सापगमाः सर्वम् उत्पादि भङ्गुरम् ॥पन्च्२।१८८॥
+
+
+तथा च-
+
+क्षते प्रहारा निपतन्त्य् अभीक्ष्णं
+
+धन-क्षये वर्धति जाठराग्निः ।
+
+आपत्सु वैराणि समुद्भवन्ति
+
+च्छिद्रेष्व् अनर्था बहुली-भवन्ति ॥पन्च्२।१८९॥
+
+अहो साधूक्तं केनापि ।
+
+
+प्राप्ते भये परित्राणं प्रीति-विश्रम्भ-भाजनं ।
+
+केन रत्नम् इदं सृष्टं मित्रम् इत्य् अक्षर-द्वयं ॥पन्च्२।१९०॥
+
+
+अत्रान्तरे आक्रन्द-परौ चित्राङ्ग-लघुपतनकौ तत्रैव समायातौ । अथ हिरण्यक आह-अहो किं वृथा-प्रलपितेन । तद् यावद् एष मन्थरको दृष्टि-गोचरान् न नीयते तावद् अस्य मोक्षोपायश् चिन्त्यताम् इति । उक्तं च-
+
+
+व्यसनं प्राप्य यो मोहात् केवलं परिदेवयेत् ।
+
+क्रन्दनं वर्धयत्य् एव तस्यान्तं नाधिगच्छति ॥पन्च्२।१९१॥
+
+केवलं व्यसनस्योक्तं भेषजं नय-पण्डितैः ।
+
+तस्योच्छेद-समारम्भो विषाद-परिवर्जनं ॥पन्च्२।१९२॥
+
+
+अन्यच् च-
+
+अतीत-लाभस्य सुरक्षणार्थं
+
+भविष्य-लाभस्य च सङ्गमार्थम् ।
+
+आपत्-प्रपन्नस्य च मोक्षणार्थं
+
+यन् मन्त्र्यतेऽसौ परमो हि मन्त्रः ॥पन्च्२।१९३॥
+
+
+तच् छ्रुत्वा वायस आह-भो यद्य् एवं तत् क्रियतां मद्-वचः । एष चित्राङ्गो ऽस्य मार्गे गत्वा किंचित् पल्वलम् आसाद्य तस्य तीरे निश्चेतनो भूत्वा पततु । अहम् अप्य् अस्य शिरसि समारुह्य मन्दैश् चञ्चु-प्रहारैः शिर उल्लेखिष्यामि येनासौ लुब्धको ऽमुं मृतं मत्वा मम चञ्चु-प्रहार-प्रत्ययेन मन्थरकं भूमौ क्षिप्त्वा मृगार्थे धावति । अत्रान्तरे त्वया दर्भ-मय-बन्धन-वेष्टनानि खण्डनीयानि येनासौ मन्थरको द्रुततरं पल्वलं प्रविशति ।
+
+
+चित्राङ्गः प्राह-भो भद्रो ऽयं दृष्टो मन्त्रस् त्वया । नूनं मन्थरको मुक्तो मन्तव्यः । उक्तं च-
+
+
+सिद्धिं वा यदि वासिद्धिं चित्तोत्साहो निवेदयेत् ।
+
+प्रथमं सर्व-जन्तूनां प्राज्ञो वेत्ति न चेतरः ॥पन्च्२।१९४॥
+
+
+तत् तद् एवं क्रियताम् । तथानुष्ठिते स लुब्धकस् तथैव मार्गासन्न-पल्वल-तीरस्थं चित्राङ्गं वायस-सनाथम् अद्राक्षीत् । तं दृष्ट्वा हर्षित-मना व्यचिन्तयत् । नूनं पाश-वेदनया वराको ऽयं मृगो गत्वायुः-शेष-जीवितः पाशं त्रोटयित्वा कथम् अप्य् एतद् वनान्तरं प्रविष्टो यावन् मृतः । तद् वश्यो ऽयं मे कच्छपः सुयन्त्रितत्वात् । तद् एनम् अपि तावद् गृह्णामीत्य् अवर्धाय कच्छपं भू-तले प्रक्षिप्य मृगम् उपाद्रवत् ।
+
+
+अत्रान्तरे हिरण्यकेन वज्रोपम-दंष्ट्रा-प्रहारेण तद् दर्भ-वेष्टनं तत्-क्षणात् खण्डशः कृतं । मन्थरको ऽपि तृण-मध्यान् निष्क्रम्य पल्वलं प्रविष्टः । चित्राङ्गो ऽप्य् अप्राप्तस्यापि तस्योत्थाय वायसेन सह द्रुतं प्रनष्टः । अत्रान्तरे विलक्षो विषाद-परो निवृत्तो लुब्धको यावत् पश्यति तावत् कच्छपो ऽपि गतः । ततश् च तत्रोपविश्येमं श्लोकम् अपठत्-
+
+
+प्राप्तो बन्धनम् अप्य् अयं गुरु-मृगस् तावत् त्वया मे हृतः
+
+सम्प्राप्तः कमठः स चापि नियतं नष्टस् तवादेशतः ।
+
+क्षुत्-क्षामो ऽत्र वने भ्रमामि शिशुकैस् त्यक्तः समं भार्यया
+
+यच् चान्यन् न कृतं कृतान्त कुरुते तच् चापि सह्यं मया ॥पन्च्२।१९५॥
+
+
+एवं बहु-विधं विलप्य स्व-गृहं गतः । अथ तस्मिन् दूरी-भूते सर्वेऽपि ते काक-कूर्म-मृगाखवः परमानन्द-भाजो मिलित्वा परस्परम् आलिङ्ग्य पुनर् जातान् इवात्मनो मन्यमानस् तद् एव सरः प्राप्य महा-सुखेन सुभाषित-गोष्ठी-विनोदं कुर्वन्तः कालं नयन्ति स्म । एवं ज्ञात्वा विवेकिना मित्र-सङ्ग्रहः कार्यः । तथा मित्रेण सहाव्याजेन वर्तितव्यम् । उक्तं च-
+
+
+यो मित्राणि करोत्य् अत्र न कौटिल्येन वर्तते ।
+
+तैः समं न पराभूतिं सम्प्राप्नोति कथञ्चन ॥पन्च्२।१९६॥
+
+इति श्री-विष्णु-शर्म-विरचिते पञ्चतन्त्रे मित्र-सम्प्राप्तिर् नाम
+
+द्वितीयं तन्त्रं समाप्तम्
+
+॥२॥
+
+
+
+***********************************************************************  
+
+
+
+तृतीयं तन्त्रम्
+
+अथ काकोलूकीयम्
+
+
+प्रस्तावना कथा
+
+मेघवर्णारिमर्दन-वृत्तान्तः
+
+
+
+अथेदम् आरभ्यते काकोलूकीयं नाम तृतीयं तन्त्रम् । यस्यायम् आद्यः श्लोकः-
+
+
+न विश्वसेत् पूर्व-विरोधितस्य
+
+शत्रोश् च मित्रत्वम् उपागतस्य ।
+
+दग्धां गुहां पश्य उलूक-पूर्णां
+
+काक-प्रणीतेन हुताशनेन ॥पन्च्३।१॥
+
+
+तद् यथानुश्रुयते-अस्ति दक्षिणात्ये जनपदे महिलारोप्यं नाम नगरम् । तस्य समीपस्थो ऽनेक-शाखासनाथो ऽतिघनतर-पत्र-च्छन्नो न्यग्रोध-पादपो ऽस्ति । तत्र च मेघ-वर्णो नाम वायस-राजो ऽनेक-काक-परिवारः प्रतिवसति स्म । स तत्र विहित-दुर्ग-रचनः सपरिजनः कालं नयति । तथान्यो ऽरि-मर्दनो नामोलूक-राजो ऽसङ्ख्योलूक-परिवारो गिरि-गुहा-दुर्गाश्रयः प्रतिवसति स्म । स च रात्राव् अभ्येत्य सदैव तस्य न्यग्रोधस्य समन्तात् परिभ्रमति । अथोलूकराजः पूर्व-विरोध-वशाद्यं कञ्चिद् वायस-समासादयति । तं व्यापाद्य गच्छति । एवं नित्याभिगमनाच् छनैः शनैस् तन् न्यग्रोध-पादपद्-दुर्गं तेन समन्तान् निर्वायसं कृतम् । अथवा भवत्य् एवम् । उक्तं च-
+
+
+य उपेक्षेत शत्रुं स्वं प्रसरन्तं यदृच्छया ।
+
+रोगं चालस्य-संयुक्तः स शनैस् तेन हन्यते ॥पन्च्३।२॥
+
+
+तथा च-
+
+जात-मात्रं न यः शत्रुं व्याधिं च प्रशमं नयेत् ।
+
+महाबलो ऽपि तेनैव वृद्धिं प्राप्य स हन्यते ॥पन्च्३।३॥
+
+
+अथान्येद्युः स वायस-राजः सर्वान् सचिवान् आहूय प्रोवाच-भोः ! उत्कटस् तावद् अस्माकं शत्रुर् उद्यम-सम्पन्नश् च कालविच् च नित्यम् एव निशागमे समेत्यास्मत्-पक्ष-कदनं करोति । तत् कथम् अस्य प्रतिविघातव्यम् ? वयं तावद् रात्रौ न पश्यामः । न च दिवा दुर्गं विजानीमो येन गत्वा प्रहरामः । तद् अत्र किं युज्यते सन्धि-विग्रह-यानासन-संश्रय-द्वैधी-भावानां मध्यात् । अथ ते प्रोचुः-युक्तम् अभिहितं देवेन यद् एष प्रश्नः कृतः । उक्तं च-
+
+
+अपृष्टेनापि वक्तव्यं सचिवेनात्र किंचन ।
+
+पृष्टेन तु विशेषेण वाच्यं पथ्यं महीपतेः ॥पन्च्३।४॥
+
+यो न पृष्टो हितं ब्रूते परिणामे सुखावहम् ।
+
+मन्त्रो न प्रिय-वक्ता च केवलं स रिपुः स्मृतम् ॥पन्च्३।५॥
+
+तस्माद् एकान्तम् आसाद्य कार्यो मन्त्रो महीपते ।
+
+येन तस्य वयं कुर्मो नियमं कारणं तथा ॥पन्च्३।६॥
+
+
+उक्तं च-
+
+बलीयसि प्रणमतां काले प्रहरताम् अपि ।
+
+सम्पदो नावगच्छन्ति प्रतीपम् इव निम्नगाः ॥पन्च्३।७॥
+
+सत्याढ्यो धार्मिकश् चार्यो भ्रातृ-सङ्घातवान् बली ।
+
+अनेक-विजयी चैव सन्धेयः स रिपुर् भवेत् ॥पन्च्३।८॥
+
+सन्धिः कार्यो ऽप्य् अनार्येण विज्ञाय प्राण-संशयम् ।
+
+प्राणैः संरक्षितैः सर्वं यतो भवति रक्षितम् ॥पन्च्३।९॥
+
+अनेक-युद्ध-विजयी सन्धानं यस्य गच्छति ।
+
+तत्-प्रभावेण तस्याशु वशं गच्छन्त्य् अरातयः ॥पन्च्३।१०॥
+
+सन्धिम् इच्छेत् समेनापि सन्दिग्धो विजयी युधि ।
+
+न हि सांशयिकं कुर्याद् इत्य् उवाच बृहस्पतिः ॥पन्च्३।११॥
+
+सन्दिग्धो विजयो युद्धे जनानाम् इह युद्ध्यताम् ।
+
+उपाय-त्रितयाद् ऊर्ध्वं तस्माद् युद्धं समाचरेत् ॥पन्च्३।१२॥
+
+असन्दधानो मानान्धः समेनापि हतो भृशम् ।
+
+आमकुम्भम् इवाभित्त्वा नावतिष्ठेत शक्तिमान् ॥पन्च्३।१३॥
+
+समं शक्तिमता युद्धम् अशक्तस्य हि मृत्यवे ।
+
+वृषत्कुम्भं यथा भित्त्वा तावत् तिष्ठति शक्तिमान् ॥पन्च्३।१४॥
+
+
+अन्यच् च-
+
+भूमिर् मित्रं हिरण्यं वा विग्रहस्य फल-त्रयम् ।
+
+नास्त्य् एकम् अपि यद्य् एषां विग्रहं न समाचरेत् ॥पन्च्३।१५॥
+
+खनन्न् आखु-बिलं सिंहः पाषाण-शकलाकुलम् ।
+
+प्राप्नोति नख-भङ्गं हि फलं वा मूषको भवेत् ॥पन्च्३।१६॥
+
+तस्मान् न स्यात् फलं यत्र पुष्टं युद्धं तु केवलम् ।
+
+न हि तत् स्वयम् उत्पाद्यं कर्तव्यं न कथञ्चन ॥पन्च्३।१७॥
+
+बलीयसा समाक्रान्तो वैतसीं वृत्तिम् आश्रयेत् ।
+
+वाञ्छन्न् अभ्रंशिनीं लक्ष्मीं न भौजङ्गी कदाचन ॥पन्च्३।१८॥
+
+कुर्वन् हि वैतसीं वृत्तिं प्राप्नोति महतीं श्रियम् ।
+
+भुजङ्ग-वृत्तिम् आपन्नो वधम् अर्हति केवलम् ॥पन्च्३।१९॥
+
+कौर्मं सङ्कोचम् आस्थाय प्रहारान् अपि मर्षयेत् ।
+
+काले काले च मतिमान् उत्तिष्ठेत् कृष्ण-सर्पवत् ॥पन्च्३।२०॥
+
+आगतं विग्रहं विद्वान् उपायैः प्रशमं नयेत् ।
+
+विजयस्य ह्य् अनित्यत्वाद् रभसेन न सम्पतेत् ॥पन्च्३।२१॥
+
+बलिना सह योद्धव्यम् इति नास्ति निदर्शनम् ।
+
+प्रतिवातं न हि घनः कदाचिद् उपसर्पति ॥पन्च्३।२२॥
+
+शत्रुणा न हि सन्दध्यात् सुश्लिष्टेनापि सन्धिना ।
+
+सुतप्तम् अपि पानीयं शमयत्य् एव पावकम् ॥पन्च्३।२३॥
+
+
+उक्तं च-
+
+सत्य-धर्म-विहीनेन न सन्दध्यात् कथञ्चन ।
+
+सुगन्धितो ऽप्य् असाधुत्वाद् अचिराद् याति विक्रियाम् ॥पन्च्३।२४॥
+
+
+तस्मात् तेन योद्धव्यम् इति मे मतिः । उक्तं च यतः-
+
+
+क्रूरो लुब्धो ऽलसो ऽसत्यः प्रमादी भीरुर् अस्थिरः ।
+
+मूढो योधावमन्ता च सुखोच्छेद्यो भवेद् रिपुः ॥पन्च्३।२५॥
+
+
+अपरं तेन पराभूता वयम् । तद् यदि सन्धान-कीर्तनं करिष्यामस् तद् भूयो ऽत्यन्तं कोपं करिष्यति । उक्तं च-
+
+
+चतुर्थोपाय-साध्ये तु रिपौ सान्त्वम् अपक्रिया ।
+
+स्वेद्यम् आम-ज्वरं प्राज्ञः को ऽम्भसा परिषिञ्चति ॥पन्च्३।२६॥
+
+सामवादाः सकोपस्य शत्रोः प्रत्युत दीपिकाः ।
+
+प्रतप्तस्येव सहसा सर्पिषस् तोय-बिन्दवः ॥पन्च्३।२७॥
+
+प्रमाणाभ्यधिकस्यापि महत्-सत्त्वम् अधिष्ठितः ।
+
+पदं मूर्ध्नि समाधत्ते केसरी मत्त-दन्तिनः ॥पन्च्३।२८॥
+
+उत्साह-शक्ति-सम्पन्नो हन्याच् छत्रुं लघुर् गुरुम् ।
+
+यथा कण्ठीरवो नागं भारद्वाजः प्रचक्षते ॥पन्च्३।२९॥
+
+मायया शत्रवो वध्या अवध्याः स्युर् बलेन ये ।
+
+यथा स्त्री-रूपम् आस्थाय हतो भीमेन कीचकः ॥पन्च्३।३०॥
+
+
+तथा च-
+
+मृत्योर् इवोग्र-दण्डस्य राज्ञो यान्ति वशं द्विषः ।
+
+सर्वंसहं तु मन्यन्ते तृणाय रिपवश् च तम् ॥पन्च्३।३१॥
+
+न जातु शमनं यस्य तेजस् तेजस्वि-तेजसाम् ।
+
+वृथा जातेन किं तेन मातुर् यौवन-हारिणा ॥पन्च्३।३२॥
+
+या लक्ष्मीर् नानुलिप्ताङ्गी वैर्-शोणित-कुङ्कुमैः ।
+
+कान्तापि मनसः प्रीतिं न सा धत्ते मनस्विनाम् ॥पन्च्३।३३॥
+
+रिपु-रक्तेन संसिक्ता तत्-स्त्री-नेत्राम्बुभिस् तथा ।
+
+न भूमिर् यस्य भूपस्य का श्लाघा तस्य जीविते ॥पन्च्३।३४॥
+
+बलोत्कटेन दुष्टेन मर्यादा-रहितेन च ।
+
+न सन्धि-विग्रहौ नैव विना यानं प्रशस्यते ॥पन्च्३।३५॥
+
+द्विधाकारं भवेद् यानं भवेत् प्राणार्थ-रक्षणम् ।
+
+एकम् अन्यज् जिगीषोश् च यात्रालक्षणम् उच्यते ॥पन्च्३।३६॥
+
+कार्त्तिके वाथ चैत्रे वा विजिगीषोः प्रशस्यते ।
+
+यानम् उत्कृष्ट-वीर्यस्य शत्रु-देशे न चान्यदा ॥पन्च्३।३७॥
+
+अवस्कन्द-प्रदानस्य सर्वे कालाः प्रकीर्तिताः ।
+
+व्यसने वर्तमानस्य शत्रोच्छिद्रान्वितस्य च ॥पन्च्३।३८॥
+
+स्वस्थानं सुदृढं कृत्वा शूरैश् चातैर् महाबलैः ।
+
+पर-देशं ततो गच्छेत् प्रणिधि-व्याप्तम् अग्रतः ॥पन्च्३।३९॥
+
+अज्ञातवी-वधासार-तोय-शस्यो व्रजेत् तु यः ।
+
+पर-राष्ट्रं न भूयः स स्व-राष्ट्रम् अधिगच्छति ॥पन्च्३।४०॥
+
+
+तत् ते युक्तं कर्तुम् अपसरणम् । अन्यच् च-
+
+
+तन् न युक्तं प्रभो कर्तुं द्वितीयं यानम् एव च ।
+
+न विग्रहो न सन्धानं बलिना तेन पापिना ॥पन्च्३।४१॥
+
+
+अपरं कारणापेक्षयापसरणं क्रियते बुधैः । उक्तं च-
+
+
+यद् अपसरति मेषः कारणं तत् प्रहर्तुं
+
+मृग-पतिर् अपि कोपात् सङ्कुचत्य् उत्पतिष्णुः ।
+
+हृदय-निहित-भावा गूढ-मन्त्र-प्रचाराः
+
+किम् अपि विगणयन्तो बुद्धिमन्तः सहन्ते ॥पन्च्३।४२॥
+
+
+अन्यच् च-
+
+बलवन्तं रिपुं दृष्ट्वा देश-त्यागं करोति यः ।
+
+युधिष्ठिर इवाप्नोति पुनर् जीवन् स मेदिनीम् ॥पन्च्३।४३॥
+
+युध्यतेऽहङ्कृतिं कृत्वा दुर्बलो यो बलीयसा ।
+
+स तस्य वाञ्छितं कुर्याद् आत्मनश् च कुल-क्षयम् ॥पन्च्३।४४॥
+
+
+तद् बलवताभियुक्त्स्यापसरण-समयो ऽयं न सन्धेर् विग्रहस्य च । एवम् अनुजीवि-मन्त्रो ऽपसरणस्य ।
+
+
+अथ तस्य वचनम् आकर्ण्य प्रजीवनम् आह-भद्र ! त्वम् अप्य् आत्मनो ऽभिप्रायं वद ।
+
+
+सो ऽब्रवीत्-देव ! मम सन्धि-विग्रह-यानानि त्रीण्य् अपि न प्रतिभान्ति । विशेषतश् चासनं प्रतिभाति । उक्तं च-
+
+
+नक्रः स्व-स्थानम् आसाद्य गजेन्द्रम् अपि कर्षति ।
+
+स एव प्रच्युतः स्थानाच् छुनापि परिभूयते ॥पन्च्३।४५॥
+
+
+तथा-
+
+अभियुक्तो बलवता तिष्ठन् दुर्गे प्रयत्नवान् ।
+
+तत्रस्थः सुहृदाह्वानं कुर्वीतात्म-विमुक्तये ॥पन्च्३।४६॥
+
+यो रिपोर् आगमं श्रुत्वा भय-सन्त्रस्त-मानसः ।
+
+स्व-स्थानं हि त्यजेत् तत्र न तु भूयो विशेच् च सः ॥पन्च्३।४७॥
+
+दंष्ट्रा-विरहितः सर्पो मद-हीनो यथा गजः ।
+
+स्थान-हीनस् तथा राजा गम्यः स्यात् सर्व-जन्तुषु ॥पन्च्३।४८॥
+
+निज-स्थान-स्थितो ऽप्य् एकः शतं योद्धुं सहेन् नरः ।
+
+शक्तानाम् अपि शत्रूणां तस्मात् स्थानं न सन्त्यजेत् ॥पन्च्३।४९॥
+
+
+तस्माद् दुर्गं दृढं कृत्वा सुभटासार-संयुतम् ।
+
+प्राकार-परिखा-युक्तं शस्त्रादिभिर् अलङ्कृतम् ॥पन्च्३।५०॥
+
+तिष्ठेन् मध्य-गतो नित्यं युद्धाय कृत-निश्चयः ।
+
+जीवन् सम्प्राप्त्स्यति राज्यं मृतो वा स्वर्गम् एष्यति ॥पन्च्३।५१॥ (युग्मकम्)
+
+
+अन्यच् च-
+
+बलिनापि न बाध्यन्ते लघवो ऽप्य् एक-संश्रयाः ।
+
+विपक्षेणापि मरुता यथैक-स्थान-वीरुधाः ॥पन्च्३।५२॥
+
+महान् अप्य् एकजो वृक्षः बलवान् सुप्रतिष्ठितः ।
+
+प्रसह्य इव वातेन शक्यो धर्षयितुं यतः ॥पन्च्३।५३॥
+
+अथ ये संहता वृक्षा सर्वतः सुप्रतिष्ठिताः ।
+
+ते न रौद्रानिलेनापि हन्यन्ते ह्य् एक-संश्रयात् ॥पन्च्३।५४॥
+
+एवं मनुष्यम् अप्य् एकं शौर्येणापि समन्वितम् ।
+
+शक्यं द्विषन्तो मन्यन्ते हिंसन्ति च ततः परम् ॥पन्च्३।५५॥
+
+
+एवं प्रजीव-मन्त्रः । इदम् आसन-संज्ञकम् ।
+
+
+एतत् समाकर्ण्य चिरञ्जीविनं प्राह-भद्र ! त्वम् अपि स्वाभिप्रायं वद ।
+
+
+सो ऽब्रवीत्-देव ! षाड्गुण्य-मध्ये मम संश्रयः सम्यक् प्रतिभाति । तत् तस्यानुष्ठानं कार्यम् । उक्तं च-
+
+
+असहायः समर्थो ऽपि तेजस्वी किं करिष्यति ।
+
+निर्वाते ज्वलितो वह्निः स्वयम् एव प्रशाम्यति ॥पन्च्३।५६॥
+
+सङ्गतिः श्रेयसी पुंसां स्व-पक्षे च विशेषतः ।
+
+तुषैर् अपि परिभ्रष्टा न प्ररोहन्ति तण्डुलाः ॥पन्च्३।५७॥
+
+
+तद् अत्रैव स्थितेन त्वया कश्चित् समर्थः समाश्रयणीयः, यो विपत्-प्रतिकारं करोति । यदि पुनस् त्वं स्व-स्थानं त्यक्त्वान्यत्र यास्यसि । तत् को ऽपि ते वाङ्-मात्रेणापि सहायत्वं न करिष्यति । उक्तं च, यतः-
+
+
+वनानि दहतो वह्नेः सखी भवति मारुतः ।
+
+स एव दीप-नाशाय कृशे कस्यास्ति सौहृदम् ॥पन्च्३।५८॥
+
+
+अथवा नैतद् एकान्तं यद् बलिनम् एकं समाश्रयेत् । लघूनाम् अपि संश्रयो रक्षायै एव भवति । उक्तं च, यतः-
+
+
+सङ्घातवान् यथा वेणुर् निविडैर् वेणुभिर् वृतः ।
+
+न शक्येत समुच्छेत्तुं दुर्बलो ऽपि यथा नृपः ॥पन्च्३।५९॥
+
+
+यदि पुनर् उत्तम-संश्रयो भवति तत् किम् उच्यते ? उक्तं च-
+
+
+महाजनस्य सम्पर्कः कस्य नोन्नति-कारकः ।
+
+पद्म-पत्र-स्थितं तोयं धत्ते मुक्ता-फल-श्रियम् ॥पन्च्३।६०॥
+
+
+तद् एवं संश्रयं विना न कश्चित् प्रतीकारो भवति इति मेऽभिप्रायः । एवं चिरञ्जीवि-मन्त्रः ।
+
+
+अथैवम् अभिहिते स मेघवर्णो राजा चिरन्तनं पितृ-सचिवं दीर्घायुषं सकल-नीति-शास्त्र-पारङ्गतं स्थिरजीवि-नामानं प्रणम्य प्रोवाच-तात ! यद् एते मया पृष्टाः सचिवास् तावद् अत्र-स्थितस्यापि तव तत्-परीक्षार्थम्, येन त्वं सकलं श्रुत्वा यद् उचितं तन् मे समादिशसि । तद् यद्य् उक्तं भवति तस् समादेश्यम् ।
+
+
+स आह-वत्स ! सर्वैर् अप्य् एतैर् नीति-शास्त्राश्रयम् उक्तं सचिवैः । तद् उपयुज्यते स्व-कालोचितं सर्वम् एव । परम् एष द्वैधीभावस्य कालः । उक्तं च-
+
+
+अविश्वासं सदा तिष्ठेत् सन्धिना विग्रहेण च ।
+
+द्वैधी-भावं समाश्रित्य पापे शत्रौ बलीयसि ॥पन्च्३।६१॥
+
+
+तच् छत्रुं विश्वास्याविश्वस्तैर् लोभं दर्शयद्भिः सुखेनोच्छिद्यते रिपुः । उक्तं च-
+
+उच्छेद्यम् अपि विद्वांसो वर्धयन्त्य् अरिम् एकदा ।
+
+गुडेन वर्धितः श्लेष्मा यतो निःशेषतां व्रजेत् ॥पन्च्३।६२॥
+
+तथा च-
+
+स्त्रीणां शत्रोः कुमित्रस्य पण्य-स्त्रीणां विशेषतः ।
+
+यो भवेद् एक-भावो ऽत्र न स जीवति मानवः ॥पन्च्३।६३॥
+
+कृत्यं देव-द्विजातीनाम् आत्मनश् च गुरोस् तथा ।
+
+एक-भावेन कर्तव्यं शेषं द्वैध-समाश्रितम् ॥पन्च्३।६४॥
+
+एको भावः सदा शस्तो यतीनां भावितात्मनाम् ।
+
+श्री-लुब्धानां न लोकानां विशेषेण मही-भुजाम् ॥पन्च्३।६५॥
+
+
+तद् द्वैधीभावं संश्रितस्य तव स्व-स्थाने वासो भविष्यति, लोभाश्रयाच् च शत्रुम् उच्चाटयिष्यसि अपरं-यदि किञ्चिच् छिद्रं तस्य पश्यसि, तद् गत्वा व्यापादयिष्यसि ।
+
+
+मेघवर्ण आह-तात मया सो ऽविदित संश्रयः । तत् कथं तस्य छिद्रं ज्ञास्यामि ?
+
+
+स्थिरजीव्य् आह-वत्स ! न केवलं स्थानं, छिद्राण्य् अपि तस्य प्रकटीकरिष्यामि प्रणधिभिः । उक्तं च-
+
+
+गावो गन्धेन पश्यन्ति वेदैः पश्यन्ति वै द्विजाः ।
+
+चारै पश्यन्ति राजानश् चक्षुर्भ्याम् इतरे जनाः ॥पन्च्३।६६॥
+
+
+उक्तं चात्र विषये-
+
+यस् तीर्थानि निजे पक्षे पर-पक्षे विशेषतः ।
+
+गुप्तैश् चारैर् नृपो वेत्ति न स दुर्गतिम् आप्नुयात् ॥पन्च्३।६७॥
+
+
+मेघवर्ण आह-तात, कानि तीर्थान्य् उच्यन्ते ? कति सङ्ख्यानि च ? कीदृशा गुप्तचराः ? तत् सर्वं निवेद्यताम् इति ।
+
+
+स आह-अत्र विषये भगवता नारदेन युधिष्ठिरः प्रोक्तः । यच् छत्रु-पक्षेऽष्टादश-तीर्थानि, स्व-पक्षे  पञ्चदश । त्रिभिस् त्रिभिर् गुप्तचरैस् तानि ज्ञेयानि । तैर् ज्ञातैः स्व-पक्षः पर-पक्षश् च वश्यो भवति । उक्तं च नारदेन युधिष्ठिरं प्रति-
+
+कच्चिद् अष्टदशान्य् एषु स्व-पक्षे दश पञ्च च ।
+
+त्रिभिस् त्रिभिर् अविज्ञातैर् वेत्सि तीर्थानि चारकैः ॥पन्च्३।६८॥
+
+
+तीर्थ-शब्देनायुक्त-कर्माभिधीयते । तद् यदि तेषां कुत्सितं भवति तत् स्वामिनो ऽभिघाताय, यदि प्रधानं भवति तद्-वृद्धये स्याद् इति । तद् यथा-मन्त्री, पुरोहितः, सेनापतिः, युवराजः, दौवारिकः, अन्तर्वासिकः, प्रशासकः, समाहर्तृ-सन्निधातृ-प्रदेष्टृ-ज्ञापकाः, साधनाध्यक्षः, गजाध्यक्षः, कोशाध्यक्षः, दुर्गपाल-करपाल-सीमापाल-प्रोत्कट-भृत्याः । एषां भेदेन द्राग् रिपुः साध्यते । स्व-पक्षे च देवी, जननी, कञ्चुकी, मालिकः, शय्या-पालकः, स्पशाध्यक्षः, सांवत्सरिकः, भिषग्, ताम्बूल-वाहकः, आचार्यः, अङ्ग-रक्षकः, स्थान-चिन्तकः, छत्रधरः, विलासिनी । एषां वैर-द्वारेण स्व-पक्षे विघातः । तथा च-
+
+वैद्य-सांवत्सराचार्याः स्व-पक्षेऽधिकृताश् चराः ।
+
+तथाहि-तुण्डिकोन्मत्ताः सर्वं जानन्ति शत्रुषु ॥पन्च्३।६९॥
+
+
+तथा च-
+
+कृत्वा कृत्य-विदस् तीर्थेष्व् अन्तः प्रणिधयः पदम् ।
+
+विदाङ्कुर्वन्तु महतस् तलं विद्विषद्-अम्भसः ॥पन्च्३।७०॥
+
+
+एवं मन्त्रि-वाक्यम् आकर्ण्यात्रान्तरे मेघवर्ण आह-तात ! अथ किं निमित्तम् एवंविधं प्राणान्तिकं सदैव वायसोलूकानां वैरम् ?
+
+
+स आह-वत्स ! कदाचिद् धंस-शुक-कोकिल-चातक-उलूक-मयूर-कपात-पारावत-विष्किर-प्रभृतयः सर्वेऽपि पक्षिणः समेत्य सोद्वेगं मन्त्रयितुम् आरब्धाः । अहो अस्माकं तावद् वैनतेयो राजा, स च वासुदेव-भक्तो न काम् अपि चिन्ताम् अस्माकं करोति । तत् किं तेन वृथास्वामिना ? यो लुब्धक-पाशैर् नित्यं निबध्यमानानां न रक्षां  विधत्ते । उक्तं च-
+
+
+यो न रक्षति वित्रस्तान् पीड्यमानान् परैः सदा ।
+
+जन्तून् पार्थिव-रूपेण स कृतान्तो न संशयः ॥पन्च्३।७१॥
+
+यदि न स्यान् नरपतिः सम्यङ् नेताः ततः प्रजाः ।
+
+अकर्णधारा जलधौ विप्लवेतेह नौर् इव ॥पन्च्३।७२॥
+
+
+षड् इमान् पुरुषो जह्याद् भिन्नां नावम् इवार्णवे ।
+
+अप्रवक्तारम् आचार्यम् अनधीयानम् ऋत्विजम् ॥पन्च्३।७३॥
+
+अरक्षितारं राजानं भार्यां चापिर्य-वादिनीम् ।
+
+ग्राम-कामं च गोपालं वन-कामं च नापितम् ॥पन्च्३।७४॥ (युग्मम्)
+
+
+तत्, सञ्चित्यान्यः कश्चिद् राजा विहङ्गमानां क्रियताम् इति । अथ तैर् भद्राकारम् उलूकम् अवलोक्य सर्वैर् अभिहितम्-यद् एष उलूको राजास्माकं भविष्यति, तद् आनीयन्तां नृपाभिषेक-सम्बन्धिनः सम्भाराः इति ।
+
+
+अथ साधिते विविध-तीर्थोदके, प्रगुणीकृतेऽष्टोत्तर-शत-मूलिका-सङ्घाते प्रदत्ते सिंहासने, वर्तिते सप्तद्वीप-समुद्र-भूधर-विचित्रे धरित्री-मण्डले, प्रस्तारिते व्याघ्र-चर्मणि आपूरितेषु हेम-कुम्भेषु दीपेषु वाद्येषु च सज्जीकृतेषु दर्पणादिषु माङ्गल्य-वस्तुषु, पठत्सु वन्दि-मुख्येषु, वेदोच्चारण-परेषु समुदित-मुखेषु ब्राह्मणेषु, गीत-परे युवति-जने, आनीतायाम् अग्र-महिष्यां कृकालिकायाम्, उलूको ऽभिषेकार्थं यावत् सिंहासने उपविशति तावत् कुतो ऽपि वायसः समायातः सो ऽचिन्तयत्-अहो ! किम् एष सकल-पक्षि-समागमो महोत्सवश् च ? अथ ते पक्षिणस् तं दृष्ट्वा मिथः प्रोचुः । पक्षिणां मध्ये वायसश् चतुरः श्रूयते । उक्तं च-
+
+
+नराणां नापितो धूर्तः पक्षिणां चैव वायसः ।
+
+दंष्ट्रिणां च शृगालस् तु श्वेभिक्षुस् तपस्विनाम् ॥पन्च्३।७५॥
+
+
+तद् अस्यापि वचनं ग्राह्यम् । उक्तं च-
+
+
+बहुधा बहुभिः सार्धं चिन्तिताः सुनिरूपिताः ।
+
+कथञ्चिन् न विलीयन्ते विद्वद्भिश् चिन्तिता नयाः ॥पन्च्३।७६॥
+
+
+अथ वायसः समेत्य तान् आह-अहो ! किं महाजन-समागमो ऽयं परम-महोत्सवश् च ।
+
+
+ते प्रोचुः-भोः ! नास्ति कश्चिद् विहङ्गमानां राजा, तद् अस्योलूकस्य विहङ्ग-राज्याभिषेको निरूपितस् तिष्ठति समस्त-पक्षिभिः । तत्त्वम् अपि स्व-मतं देहि । प्रस्तावे समागतो ऽसि ।
+
+
+अथासौ काको विहस्याह-अहो ! न युक्तम् एतत् । यन् मयूर-हंस-कोकिल-चक्रवाक-शुक-कारण्डव-हारीत-सारसादिषु पक्षि-प्रधानेषु विद्यमानेषु दिवान्धस्यास्य कराल-वक्त्रस्याभिषेकः क्रियते । तत्रैतन् मम मतम् । यतः-
+
+
+वक्र-नासं सुजिह्माक्षं क्रूरम् अप्रिय-दर्शनम् ।
+
+अक्रुद्धस्येदृशं वक्त्रं भवेत् क्रुद्धस्य कीदृशम् ॥पन्च्३।७७॥
+
+स्वभाव-रौद्रम् अत्युग्रं क्रूरम् अप्रिय-वादिनम् ।
+
+उलूकं नृपतिं कृत्वा का नः सिद्धिर् भविष्यति ॥पन्च्३।७८॥
+
+
+अपरं वैनतेये स्वामिनि स्थिते किम् एष दिवान्धः क्रियते राजा ? तद् यद्यपि गुणवान् भवति, तथाप्य् एकस्मिन् स्वामिनि स्थिते नान्यो भूपः प्रशस्यते ।
+
+
+एक एव हितार्थाय तेजस्वी पार्थिवो भुवः ।
+
+युगान्त इव भास्वन्तो बहवो ऽत्र विपत्तये ॥पन्च्३।७९॥
+
+
+तत् तस्य नाम्नापि यूयं परेषाम् अगम्या भविष्यथ । उक्तं च-
+
+
+गुरूणां नाम-मात्रेऽपि गृहीते स्वामि-सम्भवे ।
+
+दुष्टानां पुरतः क्षेमं तत्-क्षणाद् एव जायते ॥पन्च्३।८०॥
+
+
+तथा च-
+
+व्यपदेशेन महतां सिद्दिः सञ्जायते परा ।
+
+शशिनो व्यपदेशेन वसन्ति शशकाः सुखम् ॥पन्च्३।८१॥
+
+
+पक्षिण ऊचुः-कथम् एतत् ?
+
+
+स आह-
+
+कथा १
+
+चतुर्दन्त-नाम-महा-गज-कथा
+
+
+कस्मिंश्चिद् वने चतुर्दन्तो नाम महा-गजो यूथाधिपः प्रतिवसति स्म । तत्र कदाचिन् महत्य् अनावृष्टिः सञ्जाता प्रभूत-वर्षाणि यावत् । तया तडाग-ह्रद-पल्वल-सरांसि शोषम् उपगतानि । अथ तैः समस्त-गजैः स गजराजः प्रोक्तः-देव ! पिपासाकुला गज-कलभा मृत-प्राया अपरे मृताश् च । तद् अन्विष्यतां कश्चिज् जलाशयो यत्र जल-पानेन स्वस्थतां व्रजन्ति ।
+
+
+ततश् चिरं ध्यात्वा तेनाभिहितम्-अस्ति महा-ह्रदो विविक्ते प्रदेशे स्थल-मध्य-गतः पाताल-गङ्गा-जलेन सदैव पूर्णः । तत् तत्र गम्यतां इति ।
+
+
+तथानुष्ट्ःइते पञ्चरात्रम् उपसर्पद्भिः समासादितस् तैः स ह्रदः । तत्र स्वेच्छया जलम् अवगाह्यास् तम् अनवेलायां निष्क्रान्ताः । तस्य च ह्रदस्य समन्ताच् छशक-बिलानि असङ्ख्यानि सुकोमल-भूमौ तिष्ठन्ति । तान्य् अपि समस्तैर् अपि तैर् गजैर् इतस् ततो भ्रमद्भिः परिभग्नानि । बहवः शशकाः भग्न-पाद-शिरो-ग्रीवा विहिताः । केचिन् मृताः केचिज् जीव-शेषा जाताः ।
+
+
+अथ गते तस्मिन् गज-यूथे शशकाः सोद्वेगा गजपाद-क्षुण्ण-समावासाः केचिद् भग्न-पादाः । अन्ये जर्जरित-कलेवरा रुधिर-प्लुताः । अन्ये हत-शिशवो बाष्प-पिहित-लोचनाः समेत्य मिथो मन्त्रं चक्रुः-अहो विनष्टा वयम् । नित्यम् एवैतद् गज-यूथम् आगमिष्यति यतो नान्यत्र जलम् अस्ति । तत् सर्वेषां नाशो भविष्यति । उक्तं च-
+
+
+स्पृशन्न् अपि गजो हन्ति जिघ्रन्न् अपि भुजङ्गमः ।
+
+हसन्न् अपि नृपो हन्ति मानयन्न् अपि दुर्जनः ॥पन्च्३।८२॥
+
+
+तच् चिन्त्यतां कश्चिद् उपायः । तत्रैकः प्रोवाच-गम्यतां देश-त्यागेन । किम् अन्यत् ? उक्तं च मनुना व्यासेन च-
+
+
+त्यजेद् एकं कुलस्यार्थे ग्रामस्यार्थे कुलं त्यजेत् ।
+
+ग्रामं जनपदस्यार्थे आत्मार्थे पृथिवीं त्यजेत् ॥पन्च्३।८३॥
+
+क्षेम्यां शस्य-प्रदां नित्यं पशु-वृद्धि-करीम् अपि ।
+
+परित्यजेन् नृपो भूमिम् आत्मार्थम् अविचारयन् ॥पन्च्३।८४॥
+
+आपद्-अर्थे धनं रक्षेद् दारान् रक्षेद् धनैर् अपि ।
+
+आत्मानं सततं रक्षेद् दारैर् अपि धनैर् अपि ॥पन्च्३।८५॥
+
+
+ततश् चान्ये प्रोचुः-भोः ! पितृ-पैतामहं स्थानं न शक्यते सहसा त्यक्तुम् । तत् क्रियतां तेषां कृते काचिद् विभीषिका । यत् कथम् अपि दैवान् न समायान्ति । उक्तं च-
+
+
+निर्विषेणापि सर्पेण कर्तव्या महती फटा ।
+
+विषं भवतु मा वास्तु फटाटोपो भयङ्करः ॥पन्च्३।८६॥
+
+
+अथान्ये प्रोचुः-यद्य् एवं ततस् तेषां महद्-विभीषिका-स्थानम् अस्ति येन नागमिष्यन्ति । सा च चतुर-दूतायत्ता विभीषिका । यतो विजयदत्तो नामास्मत्-स्वामी शशकश् चन्द्र-मण्डले निवसति । तत् प्रेष्यतां कश्चिन् मिथ्या-दूतो यूथाधिप-सकाशं यच् चन्द्रस् त्वाम् अत्र ह्रद आगच्छन्तं निषेधयति, यतो ऽस्मत्-परिग्रहो ऽस्य समन्ताद् वसति । एवम् अभिहिते श्रद्धेय-वचनात् कदापि निवर्तते । अथान्ये प्रोचुः-यद्य् एवं तद् अस्ति लम्बकर्णो नाम शशकः । स च वचन-रचना-चतुरो दूत-कर्मज्ञः । स तत्र प्रेष्यताम् इति । उक्तं च-
+
+
+साकारो निःस्पृहो वाग्मी नाना-शास्त्र-विचक्षणः ।
+
+पर-चित्तावगन्ता च राज्ञो दूतः स इष्यते ॥पन्च्३।८७॥
+
+
+अन्यच् च-
+
+यो मूर्खं लौल्य-सम्पन्नं राज-द्वारिकम् आचरेत् ।
+
+मिथ्या-वादं विशेषेण तस्य कार्यं न सिध्यति ॥पन्च्३।८८॥
+
+
+तद् अन्विष्यतां यद्य् अस्माद् व्यसनाद् आत्मनां सुनिर्मुक्तिः ।
+
+
+अथान्ये प्रोचुः-अहो युक्तम् एतत् । नान्यः कश्चिद् उपायो ऽस्माकं जीवितस्य । तथैव क्रियताम् ।
+
+
+अथ लम्बकर्णो गज-यूथाधिप-समीपे निरूपितो गतश् च । तथानुष्ठिते लम्बकर्णो ऽपि गज-मार्गम् आसाद्यागम्यं स्थलम् आरुह्य तं गजम् उवाच-भोः भोः दुष्ट-गज ! किम् एवं लीलया निःशङ्कयात्र चन्द्र-ह्रद आगच्छसि ? तन् नागन्तव्यं निवर्त्यताम् इति ।
+
+
+तद् आकर्ण्य विस्मित-मना गज आह-भोः ! कस् त्वम् ?
+
+
+स आह-अहं लम्बकर्णो नाम शशकश् चन्द्र-मण्डले वसामि । साम्प्रतं भगवता चन्द्रमसा तव पार्श्वे प्रहितो दूतः । जानात्य् एव भवान् । यथार्थ-वादिनो दूतस्य न दोषः करणीयः । दूत-मुखा हि राजानः सर्व एव । उक्तं च-
+
+
+उद्यतेष्व् अपि शस्त्रेषु बन्धु-वर्ग-वधेष्व् अपि ।
+
+पुरुषाण्य् अपि जल्पन्तो वध्या दूता न भूभुजा ॥पन्च्३।८९॥
+
+
+तच् छ्रुत्वा स आह-भोः शशक ! तत् कथय भगवतश् चन्द्रमसः सन्देशम् । येन सत्वरं क्रियते ।
+
+
+स आह-भवतातीत-दिवसे यूथेन सहागच्छता प्रभूताः शशका निपातिताः । तत् किं न वेत्ति भवान् । यन् मम परिग्रहो ऽयम् । तद् यदि जीवितेन ते प्रयोजनं तदा केनापि प्रयोजनेनाप्य् अत्र ह्रदे नागन्तव्यम् इति सन्देशः ।
+
+
+गज आह-अथ क्व वर्तते भगवान् स्वामी चन्द्रः ।
+
+
+स आह-अत्र ह्रदे साम्प्रतं शशकानां भवद्-यूथ-मथितानां हत-शेषाणां समाश्वासनाय समायातस् तिष्ठति । अहं पुनस् तवान्तिकं प्रेषितः ।
+
+
+गज आह-यद्य् एवं तद् दर्शय मे तं स्वामिनं येन प्रणम्यान्यत्र गच्छामि ।
+
+
+शशक आह-आगच्छ मया सहैककी येन दर्शयामि ।
+
+
+तथानुष्ठिते शशको निशा-समये तं ह्रद-तीरे नीत्वा जल-मध्ये स्थितं चन्द्र-बिम्बम् अदर्शयत् । आह च-भोः एष नः स्वामी जल-मध्ये समाधिस्थस् तिष्ठति तन्-निभृतं प्रणम्य व्रजेति । नो चेत्, समाधि-भङ्ग-भयाद् भूयो ऽपि प्रभूतं कोपं करिष्यति ।
+
+
+अथ गजो ऽपि त्रस्त-मनास् तं प्रणम्य पुनर् गमनाय प्रस्थितः । शशकश् च तद्-दिनाद् आरभ्य स-परिवाराः सुखेन स्वेषु स्थानेषु तिष्ठन्ति स्म ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि व्यपदेशेन महताम् इति । अपि च-
+
+
+क्षुद्रम् अलसं कापुरुषं व्यसनिनम् अकृतज्ञं जीवित-कामः ।
+
+पृष्ठ-प्रलपन-शीलं स्वामित्वे नाभियोजयेत् ॥पन्च्३।९०॥
+
+
+तथा च-
+
+क्षुद्रम् अर्थपतिं प्राप्य न्यायान्वेषण-तत्-परौ ।
+
+उभाव् अपि क्षयं प्राप्तौ पुरा शशक-पिञ्जलौ ॥पन्च्३।९१॥
+
+
+ते प्रोचुः-कथम् एतत् ?
+
+
+स आह-
+
+कथा २
+
+शश-कपिञ्जल-कथा
+
+
+कस्मिंश्चिद् वृक्षे पुराहम् अवसम् । तत्राधस्तात् कोटरे कपिञ्जलो नाम चटकः प्रतिवसति स्म । अथ सदैवास्तम् अनवेलायाम् आगतयोर् द्वयोर् अनेक-सुभाषित-गोष्ठ्या देवर्षि-ब्रह्मर्षि-राजर्षि-पुराण-चरित-कीर्तनेन च पर्यटन-दृष्टानेक-कौतूहल-प्रकथनेन च परम-सुखम् अनुभवतोः कालो व्रजति । अथ कदाचित् कपिञ्जलः प्राण-यात्रार्थम् अन्यैश् चटकैः सहान्यं पक्व-शालि-प्राञं देशं गतः । ततो यावन् निशा-समयेऽपि नायातस् तावद् अहं सोद्वेग-मनास् तद्-विप्रयोग-दुःखितश् चिन्तितवान्-अहो किम् अद्य कपिञ्जलो नायातः । किं केनापि पाशेन बद्धः ? आहो स्वित् केनापि व्यापादितः ? सर्वथा यदि कुशलो भवति, यन् मां विना न तिष्ठति ।
+
+
+एवं मे चिन्तयतो बहून्य् अन्यानि व्यतिक्रान्तानि । ततश् च तत्र कोटरे कदाचिच् छीघ्रगो नाम शशको ऽस्तम् अनवेलायाम् आगत्य प्रविष्टः । मयापि कपिञ्जल-निराशत्वेन न निवारितः । अथान्यस्मिन्न् अहनि कपिञ्जलः शालि-भक्षणाद् अतीव पीवर-तनुः स्वाश्रयं स्मृत्वा भूयो ऽप्य् अत्रैव समायातः । अथवा साध्व् इदम् उच्यते-
+
+
+न तादृग् जायते सौख्यम् अपि स्वर्गे शरीरिणाम् ।
+
+दारिद्र्येऽपि हि यादृक् स्यात् स्व-देशे स्व-पुरे गृहे ॥पन्च्३।९२॥
+
+
+अथासौ कोटरान्तर्गतं शशकं दृष्ट्वा साक्षेपम् आह-भोः शशक ! न त्वया सुन्दरं कृतं, यन् ममावसथ-स्थाने प्रविष्टो ऽसि । तच् छीघ्रं निष्क्रम्यताम् ।
+
+
+शशक आह-न तवेदं गृहम्, किन्तु ममैव । तत् किं मिथ्या परुषाणि जल्पसि ? उक्तं च-
+
+
+वापी-कूप-तडागानां देवालय-कुजन्मनाम् ।
+
+उत्सर्गात् परतः स्वाम्यम् अपि कर्तुं न शक्यते ॥पन्च्३।९३॥
+
+
+तथा च-
+
+प्रत्यक्षं यस्य यद् भुक्तं क्षेत्राद्यं दश वत्सरान् ।
+
+तत्र भुक्तिः प्रमाणं स्याद् न साक्षी नाक्षराणि वा ॥पन्च्३।९४॥
+
+मानुषाणाम् अयं न्यायो मुनिभिः परिकीर्तितः ।
+
+तिरश्चां च विहङ्गानां यावद् एव समाश्रयः ॥पन्च्३।९५॥
+
+
+तन् ममैतद् गृहम्, न तवेति ।
+
+
+कपिञ्जल आह-भोः ! यदि स्मृतिं प्रमाणीकरोषि, तद् आगच्छ मया सह येन स्मृति-पाठकं पृष्ट्वा स यस्य ददाति स गृह्णातु ।
+
+
+तथानुष्ठिते मयापि चिन्तितं-किम् अत्र भविष्यति ? मया द्रष्टव्यो ऽयं न्यायः । ततः कौतुकाद् अहम् अपि ताव् अनुप्रस्थितः । अत्रान्तरे तीक्ष्णदंष्ट्रो नामारण्य-मार्जारस् तयोर् विवादं श्रुत्वा मार्गासन्नं नदी-तटम् आसाद्य कृत-कुशोपग्रहो निमीलित-नयन ऊर्ध्व-बाहुर् अर्ध-पाद-स्पृष्ट-भूमिः श्री-सूर्याभिमुख इमां धर्मोपदेशनाम् अकरोत्-अहो ! असारो ऽयं संसारः । क्षण-भङ्गुराः प्राणाः । स्वप्न-सदृशः प्रिय-समागमः । इन्द्र-जालवत् कुटुम्ब-परिग्रहो ऽयम् । तद् धर्मं मुक्त्वा नान्या गतिर् अस्ति । उक्तं च-
+
+
+अनित्यानि शरीराणि विभवो नैव शाश्वतः ।
+
+नित्यं संनिहितो मृत्युः कर्तव्यो धर्म-संग्रहः ॥पन्च्३।९६॥
+
+यस्य धर्म-विहीनानि दिनान्य् आयान्ति यान्ति च ।
+
+स लोहकार-भस्त्रेव श्वसन्न् अपि न जीवति ॥पन्च्३।९७॥
+
+नाच्छादयति कौपीनं न दंश-मशकापहम् ।
+
+शुनः-पुच्छम् इव व्यर्थं पाण्डित्यं धर्म-वर्जितम् ॥पन्च्३।९८॥
+
+
+अन्यच् च-
+
+पुलाका इव धान्येषु पूतिका इव् पक्षिषु ।
+
+मशका इव मर्त्येषु येषां धर्मो न कारणम् ॥पन्च्३।९९॥
+
+श्रेयः पुष्प-फलं वृक्षाद् दध्नः श्रेयो घृतं स्मृतम् ।
+
+श्रेयस् तैलं च पुण्याकाच् छ्रेयान् धर्मस् तु मानुषात् ॥पन्च्३।१००॥
+
+सृष्टा मूत्र-पुरीषार्थम् आहाराय च केवलम् ।
+
+धर्म-हीनाः परार्थाय पुरुषाः पशवो यथा ॥पन्च्३।१०१॥
+
+स्थैर्यं सर्वेषु कृत्येषु शंसन्ति नय-पण्डिताः ।
+
+बह्व्-अन्तराय-युक्तस्य धर्मस्य त्वरिता गतिः ॥पन्च्३।१०२॥
+
+सङ्क्षेपात् कथ्यते धर्मो जनाः किं विस्तरेण वः ।
+
+परोपकारः पुण्याय पापाय पर-पीडनम् ॥पन्च्३।१०३॥
+
+श्रूयतां धर्म-सर्वस्वं श्रुत्वा चैवावधार्यताम् ।
+
+आत्मनः प्रतिकूलानि परेषां न समाचरेत् ॥पन्च्३।१०४॥
+
+
+अथ तस्य तां धर्मोपदेशनां श्रुत्वा शशक आह-भोः भोः कपिञ्जल ! एष नदी-तीरे तपस्वी धर्म-वादी तिष्ठति । तद् एनं पृच्छावः ।
+
+
+कपिञ्जल आह-ननु स्वभावतो ऽयम् अस्माकं शत्रु-भूतः । तद् दूरे स्थित्वा पृच्छावः । कदाचिद् अस्य व्रत-वैकल्यं सम्पद्येत । ततो दूरस्थो ताव् ऊचतुः-भोस् तपस्विन् ! धर्मोपदेशक ! आवयोर् विवादो वर्तते । तद् धर्म-शास्त्र-द्वारेणास्माकं निर्णयं कुरु । यो हीनवादी स ते भक्ष्य इति ।
+
+
+स आह-भद्रौ ! मा मैवं वदतम् । निवृत्तो ऽहं नरक-मार्गाद् धिंसा-कर्मणः । अहिंसैव धर्म-मार्गः । उक्तं च-
+
+
+अहिंसा-पूर्वको धर्मो यस्मात् सर्व-हिते रतः ।
+
+यूका-मत्-कुण-दंशादींस् तस्मात् तान् अपि रक्षयेत् ॥पन्च्३।१०५॥
+
+हिंसकान्य् अपि भूतानि यो हिंसति स निर्घृणः ।
+
+स याति नरकं घोरं किं पुनर् यः शुभानि च ॥पन्च्३।१०६॥
+
+एतेऽपि ये याज्ञिका यज्ञ-कर्मणि पशून् व्यापादयन्ति, ते मूर्खाः । परमार्थं श्रुतेर् न जानन्ति । तत्र किलैतद् उक्तम्-अजयैष्टव्यम् । अजा व्रीहयस् तावत् सप्त-वार्षिकाः कथ्यन्ते न पुनः पशु-विशेषः । उक्तं च-
+
+
+वृक्षांश् छित्त्वा पशून् हत्वा कृत्वा रुधिर-कर्दमम् ।
+
+यद्य् एवं गम्यते स्वर्गं नरकं केन गम्यते ॥पन्च्३।१०७॥
+
+
+तन् नाहं भक्षयामि । परं जय-पराजय-निर्णयं करिष्यामि । किन्त्व् अहं वृद्धो दूरान् न यथावच् छृणोमि । एवं ज्ञात्वा मम समीप-वर्तिनो भूत्वा ममाग्रे न्यायं वदतं, येन विज्ञाय, विवाद-परमार्थं वचो वदतो मे पर-लोक-बाधा न भवति ।  उक्तं च-
+
+
+मानाद् वा यदि वा लोभात् क्रोधाद् वा यदि वा भयात् ।
+
+यो न्यायम् अन्यथा ब्रूते स याति नरकं नरः ॥पन्च्३।१०८॥
+
+पञ्च पश्व्-अनृते हन्ति दश हन्ति गवानृते ।
+
+शतं कन्यानृते हन्ति सहस्रं पुरुषानृते ॥पन्च्३।१०९॥
+
+उपविष्टः सभा-मध्ये यो न वक्ति स्फुटं वचः ।
+
+तस्माद् दूरेण स त्याज्यो न यो वा कीर्तयेद् ऋतम् ॥पन्च्३।११०॥
+
+
+तस्माद् विश्रब्धौ मम कर्णोपान्तिके स्फुटं निवेदयतम् । किं बहुना, तेन क्षुद्रेण तथा तौ पूर्णं विश्वासितौ यथा तस्योत्सङ्ग-वर्तिनौ जातौ । ततश् च तेनापि सम-कालम् एवैकः पादान्तेनाक्रान्तो ऽन्यो दंष्ट्राक्रकचेन च ततो गत-प्राणौ भक्षिताव् इति । अतो ऽहं ब्रवीमि-क्षुद्रम् अर्थ-पतिं प्राप्य (९१) इति ।
+
+
+भवन्तो ऽप्य् एनं दिवान्धं क्षुद्रम् अर्थ-पतिम् आसाद्य रात्र्य्-अन्धाः सन्तः शशक-पिञ्जल-मार्गेण यास्यन्ति । एवं ज्ञात्वा यद् उचितं तद् विधेयम् । अथ तस्य तद्-वचनम् आकर्ण्य साध्व् अनेनाभिहितम् इत्य् उक्ता, भूयो ऽपि पार्थिवाथं समेत्य मन्त्रयिष्यामहे इति ब्रुवाणाः सर्वे पक्षिणो यथाभिमतं जग्मुः । केवलम् अवशिष्टो भद्रासनोपविष्टो ऽभिषेकाभिमुखो दिवान्धः कृकालिकया सहास्ते । आह च-कः को ऽत्र भोः ! किम् अद्यापि न क्रियते ममाभिषेकः ?
+
+
+इति श्रुत्वा कृकालिकयाभिहितम्-भद्र ! कुतो ऽयं विघ्नस् ते काकेन ? गताश् च सर्वेऽपि विहगा यथेप्सितासु दिक्षु केवलम् एको ऽयं वायसो ऽवशिष्टस् तिष्ठति केनापि कारणेन । तत् त्वरितम् उत्तिष्ठ, येन त्वां स्वाश्रयं प्रापयामि ।
+
+
+तच् छ्रुत्वा स-विषादम् उलूको वायसम् आह-भो भो दुष्टात्मन् ! किं मया तेऽपकृतं यद् राज्याभिषेको मे विघ्नितः ? तद् अद्य-प्रभृति सान्वयम् आवयोर् वैरं सञ्जातम् । उक्तं च-
+
+
+रोहते सायकैर् विद्धं छिन्नं रोहति चासिना ।
+
+वचो दुरुक्तं बीभत्सं न प्ररोहति वाक्-क्षतम् ॥पन्च्३।१११॥
+
+
+इत्य् एवम् अभिधाय कृकालिकया सह स्वाश्रमं गतः । अथ भय-व्याकुलो वायसो व्यचिन्तयत्-अहो ! अकारणं वैरम् आसादितं मया । किम् इदं व्याहृतम् ? उक्तं च-
+
+अदेश-कालज्ञम् अनायति-क्षमं
+
+यद् अप्रियं लाघव-कारि चात्मनः ।
+
+यो ऽत्राब्रवीत् कारण-वर्जितं वचो
+
+न तद् वचः स्याद् विषम् एव तद् भवेत् ॥पन्च्३।११२॥
+
+
+बलोपपन्नो ऽपि हि बुद्धिमान् नरः
+
+परे नयेन् न स्वयम् एव वैरिताम् ।
+
+भिषङ् ममास्तीति विचिन्त्य भक्षयेद्
+
+अकारणात् को हि विचक्षणो विषम् ॥पन्च्३।११३॥
+
+
+परिवादः परिषदि न कथञ्चित् पण्डितेन वक्तव्यः ।
+
+सत्यम् अपि तन् न वाच्यं यद् उक्तम् असुखावहं भवति ॥पन्च्३।११४॥
+
+
+सुहृद्भिर् आप्तैर् असकृद्-विचारितं
+
+स्वयं हि बुद्ध्या प्रविचारिताश्रयम् ।
+
+करोति कार्यं खलु यः स बुद्धिमान्
+
+स एव लक्ष्म्या यशसां च भाजनम् ॥पन्च्३।११५॥
+
+एवं विचिन्त्य काको ऽपि प्रयातः । तदा-प्रभृत्य् अस्माभिः सह कौशिकानाम् अन्वया-गतं वैरम् अस्ति ।
+
+
+मेघवर्ण आह-तात ! एवं गतेऽस्माभिः किं क्रियते ?
+
+
+स आह-वत्स ! एवं गतेऽपि षाड्गुण्याद् अपरः स्थूलो ऽभिप्रायो ऽस्ति । तम् अङ्गीकृत्य स्वयम् एवाहं तद्-विजयाय यास्यामि । रिपून् वञ्चयित्वा वधिष्यामि । उक्तं च-
+
+
+बहु-बुद्धि-समायुक्ताः सुविज्ञाना बलोत्कटान् ।
+
+शक्ता वञ्चयितुं धूर्ता ब्राह्मणं छागलद् इव ॥पन्च्३।११६॥
+
+
+मेघवर्ण आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ३
+
+मित्र-शर्म-ब्राह्मण-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने मित्रशर्मा नाम ब्राह्मणः कृताग्निहोत्र-परिग्रहः प्रतिवसति स्म । तेन कदाचिन् माघ-मासे सौम्यानिले प्रवाति, मेघाच्छादिते गगने मन्दं मन्दं प्रवर्षति पर्जन्ये, पशु-प्रार्थनार्थं किञ्चिद् ग्रामान्तरं गत्वा, कश्चिद् यजमानो याचितः-भो यजमान ! आगामिन्याम् अमावास्यायाम् अहं यक्ष्यामि यज्ञम् । तद् देहि मे पशुम् एकम् ।
+
+
+अथ तेन यस्य शास्त्रोक्तः पीवर-तनुः पशुः प्रदत्तः । सो ऽपि तं समर्थम् इतश् चेतश् च गच्छन्तं विज्ञाय स्कन्धे कृत्वा सत्वरं स्व-पुराभिमुखः प्रतस्थे ।
+
+
+अथ तस्य गच्छतो मार्गे त्रयो धूर्ताः क्षुत्-क्षाम-कण्ठाः संमुखा बभूवुः । तैश् च तादृशं पीवर-तनुं स्कन्ध आरूढम् आलोक्य, मिथो ऽभिहितं-अहो ! अस्य पशोर् भक्षणाद् अद्यतनीयो हिम-पातो व्यर्थतां नीयते । तद् एनं वञ्चयित्वा पशुम् आदाय शीत-त्राणं कुर्मः ।
+
+
+अथ तेषाम् एकतमो वेश-परिवर्तनं विधाय संमुखो भूत्वापमार्गेण तम् आहिताग्निम् ऊचे-भो भोः ! बालाग्निहोत्रिन् ! किम् एवं जन-विरुद्धं हास्य-कार्यम् अनुष्ठीयते ? यद् एष सारमेयो ऽपवित्रः स्कन्धाधिरूढो नीयते । उक्तं च यतः ।
+
+
+श्वान-कुक्कुट-चाण्डालाः सम-स्पर्शाः प्रकीर्तिताः ।
+
+रासभोष्ट्रौ विशेषेण तस्मात् तान् नैव संस्पृशेत् ॥पन्च्३।११७॥
+
+
+ततश् च तेन कोपाभिभूतेनाभिहितम्-अहो ! किम् अन्धो भवान् ? यत् पशुं सारमेयत्वेन प्रतिपादयसि ?
+
+
+सो ऽब्रवीत्-ब्रह्मन् ! कोपस् त्वया न कार्यः । यथेच्छं गम्यताम् ।
+
+
+अथ यावत् किञ्चिद् अध्वनो ऽन्तरं गच्छति, तावद् द्वितीयो धूर्तः सम्मुखम् अभ्युपेत्य तम् उवाच-भोः ब्रह्मन् ! कष्टं कष्टम् ! यद्यपि वल्लभो ऽयं ते मृत-वत्सस् तथापि स्कन्धम् आरोपयितुम् अयुक्तम् । उक्तं च यतः-
+
+
+तिर्यञ्चं मानुषं वापि यो मृतं संस्पृशेत् कुधीः ।
+
+पञ्च-गव्येन शुद्धिः स्यात् तस्य चान्द्रायणेन वा ॥पन्च्३।११८॥
+
+
+अथासौ स-कोपम् इदम् आह-भोः ! किम् अन्धो भवान् ? यत् पशुं मृत-वत्सं वदति ।
+
+
+सो ऽब्रवीत्-भगवन् ! मा कोपं कुरु । अज्ञानान् मयाभिहितम् । तत् त्वम् आत्म-रुचिं समाचर इति ।
+
+
+अथ यावत् स्तोकं वनान्तरं गच्छति तावत् तृतीयो ऽन्य-वेश-धारी धूर्तः सम्मुखः समुपेत्य तम् उवाच-भोः ! अयुक्तम् एतत्, यद् रासभं स्कन्धाधिरूढं नयसि । तत् त्यज्यताम् एषः । उक्तं च-
+
+
+यः स्पृशेद् रासभं मर्त्यो ज्ञानाद् अज्ञानतो ऽपि वा ।
+
+स-चैलं स्नानम् उद्दिष्टं तस्य पाप-प्रशान्तये ॥पन्च्३।११९॥
+
+
+तत् त्यजैनं यावद् अन्यः कश्चिन् न पश्यति ।
+
+
+अथासौ तं पशुं रासभं मन्यमानो भयाद् भूमौ प्रक्षिप्य स्व-गृहम् उद्दिश्य पलायितुं प्रारब्धः । ततस् तेऽपि त्रयो मिलित्वा पशुम् आदाय यथेच्छं भक्षितुम् आरब्धाः ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-बहु-बुद्धि-समायुक्ताः (११६) इति । अथवा साध्व् इदम् उच्यते-
+
+
+अभिनव-सेवक-विनयैः प्राघुणकोक्तैर् विलासिनीर् उदितैः ।
+
+धूर्त-जन-वचन-निकरैर् इह कश्चिद् अवञ्चितो नास्ति ॥पन्च्३।१२०॥
+
+
+किं च-दुर्बलैर् अपि बहुभिः सह विरोधो न युक्तः । उक्तं च-
+
+
+बहवो न विरोद्धव्या दुर्जया हि महाजनाः ।
+
+स्फुरन्तम् अपि नागेन्द्रं भक्षयन्ति पिपीलिकाः ॥पन्च्३।१२१॥
+
+
+मेघवर्ण आह-कथम् एतत् ?
+
+
+स्थिरजीवी कथयति-
+
+
+कथा ४
+
+अतिदर्प-नाम-सर्प-कथा
+
+
+अस्ति कस्मिंश्चिद् वल्मीके महा-कायः कृष्ण-सर्पो ऽतिदर्पो नाम । स कदाचिद् विलानुसारि-मार्गम् उत्सृज्यान्येन लघु-द्वारेण निष्क्रमितुम् आरब्धः । निष्क्रामतश् च तस्य महा-कायत्वाद् दैव-वशतया लघु-विवरत्वाच् च शरीरे व्रणः समुत्पन्नः । अथ व्रण-शोणित-गन्धानुसारिणीभिः पिपीलिकाभिः सर्वतो व्याप्तो व्याकुलीकृतश् च । कति व्यापादयति कति वा ताडयति ? अथ प्रभूतत्वाद् विस्तारित-बहु-व्रणः क्षत-सर्वाङ्गो ऽतिदर्पः पञ्चत्वम् उपागतः ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-बहवो न विरोद्धव्या (१२१) इति । तद् अत्रास्ति मे किञ्चिद् वक्तव्यम् एव । तद् अवधार्य यथोक्तम् अनुष्ठीयताम् ।
+
+
+मेघवर्ण आह-तत् समादेशय । तवादेशो नान्यथा कर्तव्यः ।
+
+
+स्थिरजीवी प्राह-वत्स ! समाकर्णय तर्हि । सामादीन् अतिक्रम्य यो मया पञ्चम उपायो निरूपितः । तन् मां विपक्ष-भूतं कृत्वानि निष्ठुर-वचनैर् निर्भर्त्स्य । यथा विपक्ष-प्रणिधीनां प्रत्ययो भवति, तथा समाहृत-रुधिरैर् आलिप्यास्यैव न्यग्रोधस्याधस्तात् प्रक्षिप्य मां गम्यतां पर्वतम् ऋष्यमूकं प्रति । तत्र स-परिवारस् तिष्ठ, यावद् अहं समस्तान् सपत्नान् सुप्रणीतेन विधिना विश्वास्याभिमुखान् कृत्वा कृतार्थो ज्ञात-दुर्ग-मध्यो दिवसे तान् अन्धतां प्राप्तांस् त्वां नीत्वा व्यापादयामि । ज्ञातं मया सम्यक् नान्यथास्माकं सिद्धिर् अस्ति । यतो दुर्गम् एतद् अपसार-रहितं केवलं वधाय भविष्यति । उक्तं च-
+
+
+अपसार-समायुक्तं न यज्ञैर् दुर्गम् उच्यते ।
+
+अपसार-परित्यक्तं दुर्ग-व्याजेन बन्धनम् ॥पन्च्३।१२२॥
+
+
+न च त्वया मद्-अर्थं कृपा कार्या । उक्तं च-
+
+
+अपि प्राण-समान् इष्टान् पालितान् लालितान् अपि ।
+
+भृत्यान् युद्धे समुत्पन्ने पश्येच् छुष्कम् इवेन्धनम् ॥पन्च्३।१२३॥
+
+
+तथा च-
+
+प्राणवद् रक्षयेद् भृत्यान् स्वकायम् इव पोषयेत् ।
+
+सदैक-दिवसस्यार्थे यत्र स्याद् रिपु-सङ्गमः ॥पन्च्३।१२४॥
+
+
+तत् त्वयाहं नात्र विषये प्रतिषेधनीयः । इत्य् उक्त्वा तेन सह शुष्क-कलहं कर्तुम् आरब्धः । अथान्ये तस्य भृत्याः स्थिरजीविनम् उच्छृङ्खल-वचनैर् जल्पन्तम् अवलोक्य तस्य वधायोद्यता मेघवर्णेनाभिहिताः-अहो ! निवर्तध्वं यूयम् । अहम् एवास्य शत्रु-पक्षपातिनो दुरात्मनः स्वयं निग्रहं करिष्यांइ । इत्य् अभिधाय तस्योपरि समारुह्य, लघुभिश् चञ्चु-प्रहारैस् तं निहत्याहृत-रुधिरेण प्लावयित्वा तद्-उपदिष्टम् ऋष्यमूक-पर्वतं स-परिवारो गतः ।
+
+
+एतस्मिन्न् अन्तरे कृकालिकया द्विषत्-प्रणिधी-भूतया तत् सर्वं तद्-अमात्य-व्यसनं क्वचित् प्रचलितः स-परिवार इति ।
+
+
+अथोलूकाधिपस् तद् आकर्ण्यास्तम् अनवेलायां सामात्यः स-परिजनो वायस-वधार्थं प्रचलितः । प्राह च-त्वर्यतां त्वर्यतां भीतः शत्रुः पलायन-परः पुण्यैर् लभ्यते । उक्तं च-
+
+
+शत्रोः प्रचलने छिद्रम् एकम् अन्यं च संश्रयम् ।
+
+कुर्वाणो जायते वश्यो व्यग्रत्वे राज-सेविनाम् ॥पन्च्३।१२५॥
+
+
+एवं ब्रुवाणः समन्तान् न्यग्रोध-पादपम् अधः परिवेष्ट्य व्यवस्थितः । यावन् न कश्चिद् वायसो दृश्यते, तावच् छाखाग्रम् अधिरूढो हृष्ट-मना वन्दिभिर् अभिष्टूयमानो ऽरिमर्दनस् तान् परिजनान् प्रोवाच-अहो ! ज्ञायतां तेषां मार्गः । कतमेन मार्गेण प्रनष्टाः काकाः ? तद् यावन् न दुर्गं समाश्रयन्ति, तावद् एव पृष्ठतो गत्वा व्यापाद्या भवन्ति । उक्तं च-
+
+
+वृत्तिम् अप्य् आश्रितः शत्रुर् अवध्यः स्याज् जिगीषुणा ।
+
+किं पुनः संश्रितो दुर्गं सामग्र्या परया युतम् ॥पन्च्३।१२६॥
+
+
+अथैतस्मिन् प्रस्तावे स्थिरजीवी चिन्तयामास-यद् एतेऽस्मच् छत्रवो ऽनुलब्धास्मद्-वृत्तान्ता यथागतम् एव यान्ति ततो मया न किञ्चित् कृतं भवति । उक्तं च-
+
+
+अनारम्भो हि कार्याणां प्रथमं बुद्धि-लक्षणम् ।
+
+आरब्धस्यान्त-गमनं द्वितीयं बुद्धि-लक्षणम् ॥पन्च्३।१२७॥
+
+
+तद् वरम् अनारम्भो न चारम्भ-विघातः । तद् अहम् एतान् शब्दं संश्राव्य आत्मानं दर्शयामि इति विचार्य मन्दं मन्दं शब्दम् अकरोत् । तच् छ्रुत्वा ते सकला अप्य् उलूकास् तद्-वधाय प्रजग्मुः । अथ तेनोक्तं-अहो ! अहं स्थिरजीवी नाम मेघवर्णस्य मन्त्री । मेघवर्णेनैवेदृशीम् अवस्थां नीतः । तन् निवेदयतात्म-स्वामिने । तेन सह बहु वक्तव्यम् अस्ति ।
+
+
+अथ तैर् निवेदितः स उलूक-राजो विस्मयाविष्टस् तत्-क्षणात् तस्य सकाशं गत्वा प्रोवाच-भोः भोः ! किम् एतां दशां गतस् त्वम्, तत् कथ्यताम् ।
+
+
+स्थिरजीवी प्राह-देव ! श्रूयतां तद्-अवस्था-कारणम् । अतीत-दिने स दुरात्मा मेघवर्णो युष्मद्-व्यापादित-प्रभूत-वायसानां पीडया युष्माकम् उपरि कोप-शोक-ग्रस्तो युद्धार्थं प्रचलित आसीत् । ततो मयाभिहितं-स्वामिन् ! न युक्तं भवतस् तद्-उपरि गन्तुम् । बलवन्त एते, बल-हीनाश् च वयम् । उक्तं च-
+
+
+बलीयसा हीन-बलो विरोधं
+
+न भूति-कामो मनसापि वाञ्छेत् ।
+
+न वध्यते वेतस-वृत्तिर् अत्र
+
+व्यक्तं प्रणाशो ऽस्ति पतङ्ग-वृत्तेः ॥पन्च्३।१२८॥
+
+
+तत् तस्योआयन-प्रदानेन सन्धिर् एव युक्तः । उक्तं च-
+
+
+बलवन्तं रिपुं दृष्ट्वा सर्वस्वम् अपि बुद्धिमान् ।
+
+दत्त्वा हि रक्षयेत् प्राणान् रक्षितैस् तैर् धनं पुनः ॥पन्च्३।१२९॥
+
+
+तच् छ्रुत्वा दुर्जन-कोपितेन त्वत्-पक्ष-पातिनं माम् आशङ्कमानेनेमां दशां नीतः । तत् तव पादौ साम्प्रतं मे शरणं । किं बहुना विज्ञप्तेन ? यावद् अहं प्रचलितुं शक्नोमि तावत् त्वां तस्यावासं नीत्वा सर्व-वायस-क्षयं विधास्यामि इति ।
+
+
+अथारिमर्दनस् तद् आकर्ण्य पितृ-पितामह-क्रमागत-मन्त्रिभिः सार्धं मन्त्रयांचक्रे । तस्य च पञ्च मन्त्रिणः । तद् यथा-रक्ताक्षः, क्रूराक्षः, दीप्ताक्षः, वक्रनासः, प्राकारकर्णश् चेति । तत्रादौ रक्ताक्षम् अपृच्छत्-भद्र ! एष तावत् तस्य रिपोर् मन्त्री मम हस्त-गतः । तत् किं क्रियताम् ? इति ।
+
+
+रक्ताक्ष आह-देव ! किम् अत्र चिन्त्यते ? अविचारितम् अयं हन्तव्यः, यतः-
+
+
+हीनः शत्रुर् निहन्तव्यो यावन् न बलवान् भवेत् ।
+
+प्राप्त-स्व-पौरुष-बलः पश्चाद् भवति दुर्जयः ॥पन्च्३।१३०॥
+
+
+किं च स्वयम् उपागता श्रीस् त्यज्यमाना शपतीति लोके प्रवादः । उक्तं च-
+
+
+कालो हि सकृद् अभ्येति यन् नरं काल-काङ्क्षिणम् ।
+
+दुर्लभः स पुनस् तेन काल-कर्माचिकीर्षता ॥पन्च्३।१३१॥
+
+
+श्रूयते च यथा-
+
+
+कश्चित् क्षुद्र-समाचारः प्राणिनां काल-सन्निभः ।
+
+विचचार महारण्ये घोरः शुनि-लुब्धकः ॥पन्च्३।१३२॥
+
+
+अरिमर्दनः प्राह-कथम् एतत् ?
+
+
+रक्ताक्षः कथयति-
+
+कथा ५
+
+ब्राह्मण-सर्प-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने हरिदत्तो नाम ब्राह्मणः । तस्य च कृषिं कुर्वतः सदैव निष्फलः कालो ऽतिवर्तते । अथैकस्मिन् दिवसे स ब्राह्मण उष्ण-कालावसाने घर्मार्तः स्व-क्षेत्र-मध्ये वृक्ष-च्छायायां प्रसुप्तो ऽनतिदूरे वल्मीकोपरि प्रसारितं बृहत्-फटा-युक्तं भीषणं भुजङ्गं दृष्ट्वा चिन्तयामास-नूनम् एषा क्षेत्र-देवता मया कदाचिद् अपि न पूजिता । तेनेदं मे कृषि-कर्म विफलीभवति । तद् अस्या अहं पूजाम् अद्य करिष्यामि । इत्य् अवधार्य कुतो ऽपि क्षीरं याचित्वा शरावे निक्षिप्य वल्मीकान्तिकम् उपगत्योवाच-भोः क्षेत्र-पाल ! मयैत्वावन्तं कालं न ज्ञातं यत् त्वम् अत्र वससि । तेन पूजा न कृता । तत् साम्प्रतं क्षमस्वेति ।
+
+
+एवम् उक्त्वा दुग्धं च निवेद्य गृहाभिमुखं प्रायात् । अथ प्रातर् यावद् आगत्य पश्यति, तावद् दीनारम् एकं शरावे दृष्टवान् । एवं च प्रतिदिनम् एकाकी समागत्य तस्मै क्षीरं ददाति, एकैकं च दीनारं गृह्णाति । अथैकस्मिन् दिवसे क्षीर-नयनाय पुत्रं निरूप्य ब्राह्मणो ग्रामान्तरं जगाम । पुत्रो ऽपि क्षीरं तत्र नीत्वा संस्थाप्य च पुनर् गृहं समायातः । दिनान्तरे तत्र गत्वा दीनारकं दृष्ट्वा गृहीत्वा च चिन्तितवान्-नूनं सौवर्ण-दीनार-पूर्णो वल्मीकः । तद् एनं हत्वा सर्वम् एक-वारं ग्रहीष्यामि इत्य् एवं सम्प्रधार्यान्येद्युः क्षीरं ददता ब्राह्मण-पुत्रेण सर्पो लगुडेन ताडितः । ततः कथम् अपि दैव-वशाद् अमुक्त-जीवित् एव रोषात् तम् एव तीव्र-विषद-शनैस् तथादशत्, यथा
+
+सद्यः पञ्चत्वम् उपागतः । स्वजनैश् च नातिदूरे क्षेत्रस्य काष्ठ-सञ्चयैः संस्कृतः ।
+
+
+अथ द्वितीय-दिने तस्य पिता समायातः । स्वजनेभ्यः सुत-विनाश-कारणं श्रुत्वा तथैव समर्थितवान् । अब्रवीच् च-
+
+
+भूतान् यो नानुगृह्णाति ह्य् आत्मनः शरणागतान् ।
+
+भूतार्थास् तस्य नश्यन्ति हंसाः पद्म-वने यथा ॥पन्च्३।१३३॥
+
+
+पुरुषैर् उक्तं-कथम् एतत् ?
+
+
+ब्राह्मणः कथयति-
+
+कथा ६
+
+हैम-हंस-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने चित्ररथो नाम राजा । तस्य योधैः सुरक्ष्यमाणं पद्मसरो नाम सरस् तिष्ठति तत्र च प्रभूता जाम्बूनद-मया हंसास् तिष्ठन्ति । षण्मासे षण्मासे पिच्छम् एकैकं परित्यजन्ति । अथ तत्र सरसि सौवर्णो बृहत्-पक्षी समायातः । तैश् चोक्तः-अस्माकं मध्ये त्वया न वस्तव्यम् । येन कारणेनास्माभिः षण्मासान्ते पिच्छैकैक-दानं कृत्वा गृहीतम् एतत् सरः । एवं च किं बहुना, परस्परं द्वैधम् उत्पन्नम् । स च राज्ञः शरणं गतो ऽब्रवीत्-देव ! एते पक्षिण एवं वदन्ति, यद् अस्माकं राजा किं करिष्यति ? न कस्याप्य् आवासं दद्मः ।
+
+
+मया चोक्तं-न शोभनं युष्माभिर् अभिहितम् । अहं गत्वा राज्ञे निवेदयिष्यामि । एवं स्थिते देवः प्रमाणम् ।
+
+
+ततो राजा भृत्यान् अब्रवीत्-भो भोः गच्छत । सर्वान् पक्षिणो गतासून् कृत्वा शीघ्रम् आनयत । राजादेशानन्तरम् एव प्रचेलुस् ते ।
+
+
+अथ लगुड-हस्तान् राज-पुरुषान् दृष्ट्वा तत्रैकेन पक्षिणा वृद्धेनोक्तम्-भोः स्वजनाः ! न शोभनम् आपतितम् । ततः सर्वैर् एक-मती-भूयोत्पतितव्यम् । तैश् च तथानुष्ठितम् ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-भूतान् यो नानुगृह्णाति (१३३) इति ।
+
+
+इत्य् उक्त्वा पुनर् अपि ब्राह्मणः प्रत्यूषे क्षीरं गृहीत्वा तत्र गत्वा तार-स्वरेण सर्पम् अस्तौत् । तदा सर्पश् चिरं वल्मीक-द्वारान्तर्-लीन एव ब्राह्मणं प्रत्युवाच-त्वं लोभाद् अत्रागतः पुत्र-शोकम् अपि विहाय । अतः परं तव मम च प्रीतिर् नोचिता । तव पुत्रेण यौवनोन्मादेनाहं ताडितो मया स दृष्टः । कथं मया लगुड-प्रहारो विस्मर्तव्यः । त्वया च पुत्र-शोक-दुःखं कथं विस्मर्तव्यम् इति पुनर् उक्त्वा विवरान्तर्-गतः । ब्राह्मणश् च मणिं गृहीत्वा पुत्र-बुद्धिं निन्दन् स्व-गृहम् आगतः । अतो ऽहं ब्रवीमि-चितिकां दीपितां पश्य इति । तद् अस्मिन् हतेऽयत्नाद् एव राज्यम् अकण्टकं भवतो भवति ।
+
+
+तस्यैतद्-वचनं श्रुत्वा क्रूराक्षं पप्रच्छ-भद्र ! त्वं तु किं मन्यसे ?
+
+
+सो ऽब्रवीत्-देव ! निर्दयम् एतद् यद् अनेनाभिहितम् । यत् कारणं शरणागतो न वध्यते सुष्ठु । खल्व् इदम् आख्यानम्-
+
+
+श्रूयते हि कपोतेन शत्रुः शरणम् आगतः ।
+
+पूजितश् च यथा-न्यायं स्वैश् च मांसैर् निमन्त्रितः ॥पन्च्३।१३४॥
+
+
+अरिमर्दनो ऽब्रवीत्-कथम् एतत् ?
+
+
+क्रूराक्षः कथयति-
+
+कथा ७
+
+कपोत-लुब्धक-कथा
+
+
+कश्चिद् क्षुद्र-समाचारः प्राणिनां काल-सन्निभः ।
+
+विचचार महारण्ये घोरः शकुनि-लुब्धकः ॥पन्च्३।१३५॥
+
+नैव कश्चित् सुहृत् तस्य न सम्बन्धी न बान्धवः ।
+
+स तैः सर्वैः परित्यक्तस् तेन रौद्रेण कर्मणा ॥पन्च्३।१३६॥
+
+
+अथवा-
+
+ये नृशंसा दुरात्मनः प्राणिनां प्राण-नाशकाः ।
+
+उद्वेजनीया भूतानां व्याला इव भवन्ति ते ॥पन्च्३।१३७॥
+
+स पञ्जरकम् आदाय पाशं च लगुडं तथा ।
+
+नित्यम् एव वनं याति सर्व-प्राणि-विहिंसकः ॥पन्च्३।१३८॥
+
+अन्येद्युर् भ्रमतस् तस्य वने कापि कपोतिका ।
+
+जाता हस्त-गता तां स प्राक्षिपत् पञ्ज्चरान्तरे ॥पन्च्३।१३९॥
+
+अथ कृष्णा दिशः सर्वा वनस्थस्याभवन् घनैः
+
+वात-वृष्टिश् च महतो क्षय-काल इवाभवत् ॥पन्च्३।१४०॥
+
+ततः स त्रस्त-हृदयः कम्पमानो मुहुर् मुहुः ।
+
+अन्वेषयन् परित्राणम् आससाद वनस्पतिम् ॥पन्च्३।१४१॥
+
+मुहूर्तं पश्यते यावद् वियद् विमल-तारकम् ।
+
+प्राप्य वृक्षं वदत्य् एवं यो ऽत्र तिष्ठति कश्चन ॥पन्च्३।१४२॥
+
+तस्याहं शरणं प्राप्तः स परित्रातु माम् इति ।
+
+शीतेन भिद्यमानं च क्षुधया गत-चेतनम् ॥पन्च्३।१४३॥
+
+अथ तस्य तरोः स्कन्धे कपोतः सुचिरोषितः ।
+
+भार्या-विरहितस् तिष्ठन् विललाप सुदुःखितः ॥पन्च्३।१४४॥
+
+वात-वर्षो महान् आसीन् न चागच्छति मे प्रिया ।
+
+तया विरहितं ह्य् एतच् छून्यम् अद्य गृहं मम ॥पन्च्३।१४५॥
+
+पतिव्रता पति-प्राणा पत्युः प्रिय-हिते रता ।
+
+यस्य स्याद् ईदृशी भार्या धन्यः स पुरुषो भुवि ॥पन्च्३।१४६॥
+
+न गृहं गृहम् इत्य् आहुर् गृहिणी गृहम् उच्यते ।
+
+गृहं तु गृहिणी-हीनम् अरण्य-सदृशं मतम् ॥पन्च्३।१४७॥
+
+पञ्जर-स्था ततः श्रुत्वा भर्तुर् दुःखान्वितं वचः ।
+
+कपोतिका सुसन्तुष्टा वाक्यं चेदम् अथाह सा ॥पन्च्३।१४८॥
+
+न सा स्त्रीत्य् अभिमन्तव्या यस्यां भर्ता न तुष्यति ।
+
+तुष्टे भर्तरि नारीणां तुष्टाः स्युः सर्व-देवताः ॥पन्च्३।१४९॥
+
+दावाग्निना विदग्धेव स-पुष्प-स्तवका लता ।
+
+भस्मीभवतु सा नारी यस्यां भर्ता न तुष्यति ॥पन्च्३।१५०॥
+
+मितं ददाति हि पिता मितं भ्राता मितं सुतः ।
+
+अमितस्य हि दातारं भर्तारं का न पूजयेत् ॥पन्च्३।१५१॥
+
+
+पुनश् चाब्रवीत्-
+
+शृणुष्वावहितः कान्त यत् ते वक्ष्याम्य् अहं हितम् ।
+
+प्राणैर् अपि त्वया नित्यं संरक्ष्यः शरणागतः ॥पन्च्३।१५२॥
+
+एष शाकुनिकः शेते तवावासं समाश्रितः ।
+
+शीतार्तश् च क्षुधार्तश् च पूजाम् अस्मै समाचर ॥पन्च्३।१५३॥
+
+
+श्रूयते च-
+
+यः सायम् अतिथिं प्राप्तं यथा-शक्ति न पूजयेत् ।
+
+तस्यासौ दुष्कृतं दत्त्वा सुकृतं चापकर्षति ॥पन्च्३।१५४॥
+
+मा चास्मै त्वं कृथा द्वैषं बद्धानेनेति मत्-प्रिया ।
+
+स्व-कृतैर् एव बद्धाहं प्राक्तनैः कर्म-बन्धनैः ॥पन्च्३।१५५॥
+
+दारिद्र्य-रोग-दुःखानि बन्धन-व्यसनानि च ।
+
+आत्मापराध-वृक्षस्य फलान्य् एतानि देहिनाम् ॥पन्च्३।१५६॥
+
+तस्मात् त्वं द्वेषम् उत्सृज्य मद्-बन्धन-समुद्भवम् ।
+
+धर्मे मनः समाधाय पूजयैनं यथा-विधि ॥पन्च्३।१५७॥
+
+तस्यास् तद्-वचनं श्रुत्वा धर्म-युक्ति-समन्वितम् ।
+
+उपगम्य ततो ऽधृष्टः कपोतः प्राह लुब्धकम् ॥पन्च्३।१५८॥
+
+भद्र सुस्वागतं तेऽस्तु ब्रूहि किं करवाणि ते ।
+
+सन्तापश् च न कर्तव्यः स्व-गृहे वर्तते भवान् ॥पन्च्३।१५९॥
+
+तस्य तद्-वचनं श्रुत्वा प्रत्युवाच विहङ्गमम् ।
+
+कपोत खलु शीतं मे हिम-त्राणं विधीयताम् ॥पन्च्३।१६०॥
+
+स गत्वाङ्गारकं नीत्वा पातयामास पावकम् ।
+
+ततः शुष्केषु पर्णेषु तम् आशु समदीपयत् ॥पन्च्३।१६१॥
+
+सुसन्दीप्तं ततः कृत्वा तम् आह शरणागतम् ।
+
+प्रतापयस्व विश्रब्धं स्व-गात्राण्य् अत्र निर्भयः ॥पन्च्३।१६२॥
+
+उद्गतेन च जीवामो वयं सर्वे वनौकसः ।
+
+न चास्ति विभवः कश्चिन् नाशये येन ते क्षुधम् ॥पन्च्३।१६३॥
+
+सहस्रं भरते कश्चिच् छतमन्यो दशापरः ।
+
+मम त्व् अकृत-पुण्यस्य क्षुद्रस्यात्मापि दुर्भरः ॥पन्च्३।१६४॥
+
+एकस्याप्य् अतिथेर् अन्नं यः प्रदातुं न शक्तिमान् ।
+
+तस्यानेक-परिक्लेशे गृहे किं वसतः फलम् ॥पन्च्३।१६५॥
+
+तत् तथा साधयाम्य् एतच् छरीरं दुःख-जीवितम् ।
+
+यथा भूयो न वक्ष्यामि नास्तीत्य् अर्थि-समागमे ॥पन्च्३।१६६॥
+
+स निनिन्दि किलात्मानं न तु तं लुब्धकं पुनः ।
+
+उवाच तर्पयिष्ये त्वां मुहूर्तं प्रतिपालय ॥पन्च्३।१६७॥
+
+एवम् उक्त्वा स धर्मात्मा प्रहृष्टेनान्तरात्मना ।
+
+तम् अग्निं सम्परिक्रम्य प्रविवेश स्व-वेश्मवत् ॥पन्च्३।१६८॥
+
+ततस् तं लुब्धको दृष्ट्वा कृपया पीडितो भृशम् ।
+
+कपोतम् अग्नौ पतितं वाक्यम् एतद् अभाषत ॥पन्च्३।१६९॥
+
+यः करोति नरः पापं न तस्यात्मा ध्रुवं प्रियः ।
+
+आत्मना हि कृतं पापम् आत्मनैव हि भुज्यते ॥पन्च्३।१७०॥
+
+सो ऽहं पाप-मतिश् चैव पाप-कर्म-रतः सदा ।
+
+पतिष्यामि महा-घोरे नरके नात्र संशयः ॥पन्च्३।१७१॥
+
+नूनं मम नृशंसस्य प्रत्यादर्शः सुदर्शितः ।
+
+प्रयच्छता स्व-मांसानि कपोतेन महात्मना ॥पन्च्३।१७२॥
+
+अद्य-प्रभृति देहं स्वं सर्व-भोग-विवर्जितम् ।
+
+तोयं स्वल्पं यथा ग्रीष्मः शोषयिष्याम्य् अहं पुनः ॥पन्च्३।१७३॥
+
+शीत-वातातप-सहः कृशाङ्गो मलिनस् तथा ।
+
+उपवासैर् बहुविधैश् चरिष्ये धर्मम् उत्तमम् ॥पन्च्३।१७४॥ ततो यष्टिं शलाकां च जालकं पञ्जरं तथा ।
+
+बभञ्ज लुब्धको दीनां कापोतीं च मुमोच ताम् ॥पन्च्३।१७५॥
+
+लुब्धकेन ततो मुक्ता दृष्ट्वाग्नौ पतितं पतिम् ।
+
+कपोती विललापार्ता शोक-सन्तप्त-मानसा ॥पन्च्३।१७६॥
+
+न कार्यम् अद्य मे नाथ जीवितेन त्वया विना ।
+
+दीनायाः पति-हीनायाः किं नार्या जीविते फलम् ॥पन्च्३।१७७॥
+
+मानो दर्पस् त्व् अहङ्कारः कुलं पूजा च बन्धुषु ।
+
+दास-भृत्य-जनेष्व् आज्ञा वैधव्येन प्रणश्यति ॥पन्च्३।१७८॥
+
+एवं विलप्य बहुशः कृपणं भृश-दुःखिता ।
+
+पतिव्रता सुसन्दीप्तं तम् एवाग्निं विवेश सा ॥पन्च्३।१७९॥
+
+ततो दिव्याम्बर-धरा दिव्याभरण-भूषिता ।
+
+भर्तारं सा विमानस्थं ददर्श स्वं कपोतिका ॥पन्च्३।१८०॥
+
+सो ऽपि दिव्य-तनुर् भूत्वा यथार्थम् इदम् अब्रवीत् ।
+
+अहो माम् अनुगच्छन्त्या कृतं साधु शुभे त्वया ॥पन्च्३।१८१॥
+
+तिस्रः कोट्यो ऽर्ध-कोटी च यानि रोमाणि मानुषे ।
+
+तावत् कालं वसेत् स्वर्गे भर्तारं यानुगच्छति ॥पन्च्३।१८२॥
+
+कपोत-देहः सूर्यास्ते प्रत्यहं सुखम् अन्वभूत् ।
+
+कपोत-देहवत्सासीत् प्राक् पुण्य-प्रभवं हितम् ॥पन्च्३।१८३॥
+
+हर्षाविष्टस् ततो व्याधो विवेश च वनं धनम् ।
+
+प्राणि-हिंसां परित्यज्य बहु-निर्वेदवान् भृशम् ॥पन्च्३।१८४॥
+
+तत्र दावानलं दृष्ट्वा विवेश विरताशयः ।
+
+निर्दग्ध-कल्मषो भूत्वा स्वर्ग-सौख्यम् अवाप्तवान् ॥पन्च्३।१८५॥
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-श्रूयते हि कपोतेन (१३४) इत्य् आदि ।
+
+
+तच् छ्रुत्वारिमर्दनो दीप्ताक्षं पृष्टवान्-एवम् अवस्थिते किं भवान् मन्यते ?
+
+
+सो ऽब्रवीत्-देव ! न हन्तव्य एवायम् । यतः-
+
+
+या ममोद्विजते नित्यं सा ममाद्यावगूहते ।
+
+प्रिय-कारक भद्रं ते यन् ममास्ति हरस्व तत् ॥पन्च्३।१८६॥
+
+
+चोरेण चाप्य् उक्तम्-
+
+
+हर्तव्यं ते न पश्यामि हर्तव्यं चेद् भविष्यति ।
+
+पुनर् अप्य् आगमिष्यामि यदीयं नावगूहते ॥पन्च्३।१८७॥
+
+
+अरिमर्दनः पृष्टवान्-का च नावगूहते ? कश् चायं चौरः ? इति विस्तरतः श्रोतुम् इच्छामि ।
+
+
+दीप्ताक्षः कथयति-
+
+कथा ८
+
+कामातुर-वणिक्-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने कामातुरो नाम वृद्ध-वणिक् । तेन च कामोपहृत-चेतसा, मृत-भार्येण काचिन् निर्धन-वणिक्-सुता, प्रभूतं धनं दत्त्वोद्वाहिता । अथ सा दुःखाभिभूता तं वृद्ध-वणिजं द्रष्टुम् अपि न शशाक । युक्तं चैतत्-
+
+
+श्वेतं पदं शिरसि यत् तु शिरोरुहाणां
+
+स्थानं परं परिभवस्य तद् एव पुंसाम् ।
+
+आरोपितास्थि-शकलं परिहृत्य यान्ति
+
+चाण्डाल-कूपम् इव दूरतरं तरुण्यः ॥पन्च्३।१८८॥
+
+
+तथा च-
+
+गात्रं सङ्कुचितं गतिर् विगलिता दन्ताश् च नाशङ्गता
+
+दृष्टिर् भ्राम्यति रूपम् अप्य् उपहतं वक्त्रं च लालायते ।
+
+वाक्यं नैव करोति बान्धव-जनः पत्नी न शुश्रूषते
+
+धिक् कष्टं जरयाभिभूत-पूरुषं पुत्रो ऽप्य् अवज्ञायते ॥पन्च्३।१८९॥
+
+
+अथ कदाचित् सा तेन सहैकशयने पराङ्मुखी यावत् तिष्ठति तावद् गृहे चौरः प्रविष्टः । सापि तं चौरं दृष्ट्वा भय-व्याकुलिता वृद्धम् अपि तं पतिं गाढं समालिलिङ्ग । सो ऽपि विस्मयात् पुलकाञ्चित-सर्व-गात्रश् चिन्तयामास-अहो किम् एषा माम् अद्यावगूहते ? यावन् निपुणतया पश्यति तावत् गृह-कोणैक-देशे चौरं दृष्ट्वा व्यचिन्तयत्-नूनम् एषास्य भयान् माम् आलिङ्गति इति ज्ञात्वा तं चौरम् आह-या ममोद्विजते (१८६) इत्य् आदि ।
+
+
+तच् छ्रुत्वा चौरो ऽप्य् आह-हर्तव्यं ते न पश्यामि (१८७) इत्य् आदि । तस्माच् चौरस्याप्य् उपकारः श्रेयश् चिन्त्यते किं पुनः शरणागतस्य । अपि चायं तैर् विप्रकृतो ऽस्माकम् एव पुष्टये भविष्यति तदीय-रन्ध्र-दर्शनाय चेति अनेन कारणेनायम् अवध्य इति ।
+
+
+एतद् आकर्ण्यारिमर्दनो ऽन्यं सचिवं वक्रनासं पप्रच्छ-भद्र ! साम्प्रतम् एवं स्थिते किं करणीयम् इति ?
+
+
+सो ऽब्रवीत्-देव ! अवध्यो ऽयम् । यतः-
+
+
+शत्रवो ऽपि हितार्थैव विवदन्तः परस्परम् ।
+
+चौरेण जीवितं दत्तं राक्षसेन तु गो-युगम् ॥पन्च्३।१९०॥
+
+
+अरिमर्दनः प्राह-कथम् एतत् ?
+
+
+वक्रनासः कथयति-
+
+कथा १०
+
+द्रोणाख्य-ब्राह्मण-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने दरिद्रो द्रोण-नामा ब्राह्मणः, प्रतिग्रह-धनः सततं विशिष्ट-वस्त्रानुलेपन-गन्ध-माल्यालङ्कार-ताम्बूलादि-भोग-परिवर्जितः, प्ररूढ-केश-श्मश्रु-नख-रोमोपचितः, शीतोष्ण-वात-वर्षादिभिः परिशोषित-शरीरः, तस्य च केनापि यजमानेनानुकम्पया शिशु-गो-युगं दत्तम् । ब्राह्मणेन च बाल-भावाद् आरभ्य याचित-घृत-तैल-यवसादिभिः संवर्ध्य सुपुष्टं कृतम् । तच् च दृष्ट्वा सहसैव कश्चिच् चौरश् चिन्तितवान्-अहम् अस्य ब्राह्मणस्य गो-युगम् इदम् अपहरिष्यामि । इति निश्चित्य निशायां बन्धन-पाशं गृहीत्वा, यावत् प्रस्थितस् तावद् अर्ध-मार्गे प्रविरल-तीक्ष्ण-दन्त-पङ्क्तिर् उन्नत-नासा-वंशः, प्रकट-रक्तान्त-नयनः उपचित-स्नायु-सन्ततनत-गात्रः शुष्क-कपोलः
+
+सुहुत-हुतवह-पिङ्गल-श्मश्रु-केश-शरीरः कश्चिद् दृष्टः । दृष्ट्वा च तं तीव्र-भय-त्रस्तो चौरो ऽब्रवीत्-को भवान् ? इति ।
+
+
+सो ऽब्रवीत्-अहं क्रूर-कर्मा चौरो दरिद्र-ब्राह्मणस्य गो-युगं हर्तुं प्रस्थितो ऽस्मि ।
+
+
+अथ जात-प्रत्ययो राक्षसो ऽब्रवीत्-भद्र ! षष्ठाह्न-कालिको ऽहम् । अतस् तम् एव ब्राह्मणम् अद्य भक्षयिष्यामि ।
+
+
+अथ तौ तत्र गत्वैकान्ते कान्लम् अन्वेषयन्तौ स्थितौ । प्रसुप्ते च ब्राह्मणे तद्-भक्षणार्थं प्रस्थितं राक्षसं दृष्ट्वा चौरो ऽब्रवीत्-भद्र ! नैषन्यायो यतो गो-युगे मयापहृते पश्चात् त्वम् एनं ब्राह्मणं भक्षय ।
+
+
+सो ऽब्रवीत्-कदाचिद् अयं ब्राह्मणो गो-शब्देन बुध्येत तदानर्थको ऽयं ममारम्भः स्यात् ।
+
+
+चौरो ऽप्य् अब्रवीत्-तवापि यदि भक्षणायोपस्थितस्य एको ऽप्य् अन्तरायः स्यात् । तदाहम् अपि न शक्नोमि गो-युगम् अपहर्तुम् । अतः प्रथमं मयापहृते गो-युगे पश्चात् त्वया ब्राह्मणो भक्षितव्यः । इत्थं चाहम् अहमिकया तयोर् विवदतोः समुत्पन्ने द्वैधे प्रतिरव-वशाद् ब्राह्मणो जजागार ।
+
+
+अथ तं चौरो ऽब्रवीत्-ब्राह्मण ! त्वाम् एवायं राक्षसो भक्षयितुम् इच्छति इति ।
+
+
+राक्षसो ऽप्य् आह-ब्राह्मण ! चौरो ऽयं गो-युगं तेऽपहर्तुम् इच्छति ।
+
+
+एवं श्रुत्वोत्थाय ब्राह्मणः सावधानो भूत्वेष्ट-देवता-मन्त्र-ध्यानेनात्मानं राक्षसाद् उद्गूर्ण-लगुडेन चौराद् गो-युगं ररक्ष ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-शत्रवो ऽपि हितार्थैव (१९०) इति ।
+
+
+अथ तस्य वचनम् अवधार्यारिमर्दनः पुनर् अपि प्राकारकर्णम् अपृच्छत्-कथय, किम् अत्र मन्यते भवान् ?
+
+
+सो ऽब्रवीत्-देव ! अवध्य एवायम्, यतो रक्षितेनानेन कदाचित् परस्पर-प्रीत्या कालः सुखेन गच्छति । उक्तं च-
+
+
+परस्परस्य मर्माणि ये न रक्षन्ति जन्तवः ।
+
+त एव निधनं यान्ति वल्मीकोदर-सर्पवत् ॥पन्च्३।१९१॥
+
+
+अरिमर्दनो ऽब्रवीत्-कथम् एतत् ?
+
+
+प्राकारकर्णः कथयति-
+
+
+कथा १०
+
+वल्मीकोदर-गत-सर्प-कथा
+
+
+अस्ति कस्मिंश्चिन् नगरे देवशक्तिर् नाम राजा । तस्य च पुत्रो जठर-वल्मीकाश्रयेणोरगेण प्रतिदिनं प्रत्यङ्गं क्षीयते । अनेकोपचारैः सद्-वैद्यैः सच्-छास्त्रोपदिष्टौषध-युक्त्यापि चिकित्स्यमानो न स्वास्थ्यम् एति । अथासौ राजपुत्रो निर्वेदाद् देशान्तरं गतः ।
+
+
+कस्मिंश्चिन् नगरे भिक्षाटनं कृत्वा महति देवालये कालं यापयति । अथ तत्र नगरे बलिर् नाम राजास्ते । तस्य च द्वे दुहितरौ यौवन-स्थे तिष्ठतः । ते च प्रतिदिवसम् आदित्योदये पितुः पादान्तिकम् आगत्य नमस्कारं चक्रतुः । तत्र चैकाब्रवीत्-विजयस्व महाराज ! यस्य प्रसादात् सर्वं सुखं लभ्यते ।
+
+
+द्वितीया तु-विहितं भुङ्क्ष्व महाराज ! इति ब्रवीति ।
+
+
+तच् छ्रुत्वा प्रकुपितो राजाब्रवीत्-भो मन्त्रिणः ! एनां दुष्ट-भाषिणीं कुमारिकां कस्यचिद् वैदेशिकस्य प्रयच्छत तेन निज-विहितम् इयम् एव भुङ्क्ते ।
+
+
+अथ तथेति प्रतिपद्याल्प-परिवारा सा कुमारिका मन्त्रिभिस् तस्य देव-कुलाश्रित-राज-पुत्रस्य प्रतिपादिता । सापि प्रहृष्ट-मनसा तं पतिं देववत् प्रतिपद्यादाय चान्य-विषयं गता ।
+
+
+ततः कस्मिंश्चिद् दूरतर-नगर-प्रदेशे तडाग-तटे राज-पुत्रम् आवास-रक्षायै निरूप्य स्वयं च घृत-तैल-लवण-तण्डुलादि-क्रय-निमित्तं स-परिवारा गता । कृत्वा च क्रय-विक्रयं यावद् आगच्छति तावत् स राज-पुत्रो वल्मीकोपरि कृत-मूर्धा प्रसुप्तः । तस्य च मुखाद् भुजगः फणां निष्कास्य वायुम् अश्नाति । तत्रैव च वल्मीकेऽपरः सर्पो निष्क्रम्य तथैवासीत् ।
+
+
+अथ तयोः परस्पर-दर्शनेन क्रोध-संरक्त-लोचनयोर् मध्याद् वल्मीकस्थेन सर्पेणोक्तम्-भो भो दुरात्मन् ! कथं सुन्दर-सर्वाङ्गं राज-पुत्रम् इत्थं कदर्थयसि ?
+
+
+मुखस्थो ऽरिर् अब्रवीत्-भो भोः ! त्वयापि दुरात्मनास्य वल्मीकस्य मध्ये कथम् इदं दूषितं हाटक-पूर्णं कलश-युगलम् इत्य् एवं परस्परस्य मर्माण्य् उद्घाटितवन्तौ ।
+
+
+पुनर् वल्मीकस्थो ऽहिर् अब्रवीत्-भो दुरात्मन् !  भेषजम् इदं ते किं को ऽपि न जानाति यज् जीर्णोत्कालित-काञ्जिका-राजिका-पानेन भवान् विनाशम् उपयाति ।
+
+
+अथोदरस्थो ऽहिर् अब्रवीत्-तवाप्य् एतद् भेषजं किं कश्चिद् अपि न वेत्ति यद् उष्ण-तैलेन महोष्णोदकेन वा तव विनाशः  स्याद् इति । एवं च सा राज-कन्या विटपान्तरिता तयोः परस्परालापान् मर्म-मयान् आकर्ण्य तथैवानुष्ठितवती ।
+
+
+विधाय व्यङ्गं नीरोगं भर्तारं निधिं च परमम् आसाद्य स्वदेशाभिमुखं प्रायात् । पितृ-मातृ-स्वजनैः प्रतिपूजिता विहितोपभोगं प्राप्य सुखेनावस्थिता । अतो ऽहं ब्रवीमि-परस्परस्य मर्माणि इति ।
+
+
+
+***********************************************************************  
+
+
+
+तच् च श्रुत्वा स्वयम् अरिर्दनो ऽप्य् एवं समर्थितवान् । तथा चानुष्ठितम् । दृष्ट्वान्तर्-लीनं विहस्य रक्ताक्षः पुनर् अब्रवीत्-कष्टम् । विनाशितो ऽयं भवद्भिर् अन्यायेन स्वामी । उक्तं च-
+
+
+अपूज्या यत्र पूज्यन्ते पूज्यानां तु विमानना ।
+
+त्रीणि तत्र प्रवर्तन्ते दुर्भिक्षं मरणं भयम् ॥पन्च्३।१९२॥
+
+
+तथा च-
+
+प्रत्यक्षेऽपि कृते पापे मूर्खः साम्ना प्रशाम्यति ।
+
+रथ-कारः स्वकां भार्यां सजारां शिरसावहत् ॥पन्च्३।१९३॥
+
+
+मन्त्रिणः प्राहुः-कथम् एतत् ?
+
+
+रक्ताक्षः कथयति-
+
+कथा ११
+
+वीरवर-रथकार-तत्-पत्नी-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने वीरवरो नाम रथकारः । तस्य भार्या कामदमनी । सा पुंश्चली जनापवाद-संयुक्ता । सो ऽपि तस्याः परीक्षणार्थं व्यचिन्तयत्-अथ मयास्याः परीक्षणं कर्तव्यम् । उक्तं च-
+
+
+यदि स्यात् पावकः शीतः प्रोष्णी वा शश-लाञ्छनः ।
+
+स्त्रीणां तदा सतीत्वं स्याद् यदि स्याद् दुर्जनो हितः ॥पन्च्३।१९४॥
+
+
+जानामि चैनां लोक-वचनाद् असतीम् । उक्तं च-
+
+
+यच् च वेदेषु शास्त्रेषु न दृष्टं न च संश्रुतम् ।
+
+तत् सर्वं वेत्ति लोको ऽयं यत् स्याद् ब्रह्माण्ड-मध्यगम् ॥पन्च्३।१९५॥
+
+
+एवं सम्प्रधार्य भार्याम् अवोचत्-प्रिये ! प्रभातेऽहं ग्रामान्तरं यास्यामि । तत्र कतिचिद् दिनानि लगिष्यन्ति । तत् त्वया किम् अपि पाथेयं मम योग्यं विधेयम् ।
+
+
+सापि तद्-वचनं श्रुत्वा हर्षित-चित्ता । औत्सुक्यात् सर्व-कार्याणि सन्त्यज्य सिद्धम् अन्नं घृत-शर्करा-प्रायम् अकरोत् । अथवा साध्व् इदम् उच्यते-
+
+
+दुर्दिवसे घन-तिमिरे वर्षति जलदे महाटवी-प्रभृतौ ।
+
+पत्युर् विदेश-गमने परम-सुखं जघन-चपलायाः ॥पन्च्३।१९६॥
+
+
+अथासौ प्रत्यूषे उत्थाय स्व-गृहान् निर्गतः सापि तं प्रस्थितं विज्ञाय प्रहसित-वदनाङ्ग-संस्कारं कुर्वाणा कथञ्चित् तं दिवसम् अत्यवाहयत् । अथ पूर्व-परिचित-विट-गृहे गत्वा तं प्रत्युक्तवती-स दुरात्मा मे पतिर् ग्रामान्तरं गतः । तत् त्वयास्मद्-गृहे प्रसुप्ते जने समागन्तव्यम् ।
+
+
+तथानुष्ठिते स रथकारो ऽरण्ये दिनम् अतिवाह्य प्रदोषे स्व-गृहेऽपद्वारेण प्रविश्य शय्याधस्-तले निभृतो भूत्वा स्थितः । एतस्मिन्न् अन्तरे स देवदत्तः समागत्य तत्र शयने उपविष्टः । दृष्ट्वा रोषाविष्ट-चित्तो रथकारो व्यचिन्तयत्-किम् एनम् उत्थाय हन्मि ? अथवा हेलयैव प्रसुप्तौ द्वाव् अप्य् एतौ व्यापादयामि ? परं पश्यामि तावद् अस्याश् चेष्टितम् । शृणोमि चानेन सहालापम् ।
+
+
+अत्रान्तरे सा गृह-द्वारं निभृतं पिधाय शयन-तलम् आरूढा । तस्यास् तत्रारोहयन्त्या रथकार-शरीरे पादो विलग्नः । ततः सा व्यचिन्तयत्-नूनम् एतेन दुरात्मना रथकारेण मत्-परीक्षणार्थं भाव्यम् । ततः स्त्री-चरित्र-विज्ञानं किम् अपि करोमि ।
+
+
+एवं तस्याश् चिन्तयन्या स देवदत्तः स्पर्शोत्सुको बभूव । अथ तया कृताञ्जलि-पुटयाभिहितं-भोः महानुभाव ! न मे शरीरं त्वया स्पर्शनीयं यतो ऽहं पतिव्रता महासती च । नो चेच् छापं दत्त्वा त्वां बह्स्मसात्करिष्यामि ।
+
+
+स आह-यद्य् एवं तर्हि त्वया किम् अहम् आहूतः ?
+
+
+साब्रवीत्-भोः शृणुष्वैकाग्र-मनाः । अहम् अद्य प्रत्यूषे देवता-दर्शनार्थं चण्ड्कायतनं गता तत्राकस्मात् खे वाणी सञ्जाता-पुत्रि किं करोमि ? भक्तासि मे त्वं, परं षण्मासाभ्यन्तरे विधि-नियोगाद् विधवा भविष्यसि ।
+
+
+ततो मयाभिहितं-भगवति ! यथा त्वम् आपदं वेत्सि, तथा तत्-प्रतीकारम् अपि जानासि । तद् अस्ति कश्चिद् उपायो येन मे पतिः शत-संवत्सर-जीवी भवति ?
+
+
+ततस् तयाभिहितम्-वत्से, सन्न् अपि नास्ति, यतस् तवायत्तः स प्रतीकारः ।
+
+
+तच् छ्रुत्वा मयाभिहितम्-देवि ! यदि तन् मम प्राणैर् भवति तद् आदेशय येन करोमि ।
+
+
+अथ देव्याभिहितम्-यद्य् अद्य पर-पुरुषेण सहैकस्मिन् शयने समारुह्यालिङ्गनं करोषि तत् तव भर्तृ-सक्तो ऽपमृत्युस् तस्य सञ्चरति । भर्तापि तेन पुनर् वर्ष-शतं जीवति । तेन त्वं मयाभ्यर्थितः । तद् यत् किञ्चित् कर्तु-मनास् तत् कुरुष्व । न हि देवता-वचनम् अन्यथा भविष्यतीति निश्चयः । ततो ऽन्तर्हास-विकास-मुखः स तद्-उचितम् आचचार ।
+
+
+सो ऽपि रथकारो मूर्खस् तस्यास् तद्-वचनम् आकर्ण्य पुलकाञ्चित-तनुः शय्याधस्तलान् निष्क्रम्य ताम् उवाच-साधु पतिव्रते ! साधु कुल-नन्दिनि ! अहं दुर्जन-वचन-शङ्कित-हृदयस् त्वत्-परीक्षा-निमित्तं ग्रामान्तर-व्याजं कृत्वा खट्वाधस्-तले निभृतं लीनः । तद् एहि, आलिङ्ग माम् । त्वं स्व-भर्तृ-भक्तानां मुख्या नारीणां, यद् एवं ब्रह्म-व्रतं पर-सङ्गेऽपि पालितवती । यद् आयुर् बुद्धि-कृतेऽपमृत्यु-विनाशार्थं चत्वम् एवं कृतवती । ताम् एवम् उक्त्वा सस्नेहम् आलिङ्गितवान् ।
+
+
+स्व-स्कन्धे ताम् आरोप्य ताम् अपि देवदत्तम् उवाच-भो महानुभाव ! मत्-पुण्यैस् त्वम् इहागतः । त्वत्-प्रसादान् मया प्राप्तं वर्ष-शत-प्रमाणम् आयुः । तत् त्वम् अपि माम् आलिङ्ग्य मत्-स्कन्धे समारोह इति जल्पन्न् अनिच्छन्तम् अपि देवदत्तम् आलिङ्ग्य बलात् स्वकीय-स्कन्धे आरोपितवान् ।
+
+
+ततश् च नृत्यं कृत्वा-हे ब्रह्म-व्रत-धराणां धुरीण ! त्वयापि मय्य् उपकृतम् इत्य् आद्य् उक्त्वा स्कन्धाद् उत्तार्य यत्र यत्र स्वजन-गृह-द्वारादिषु बभ्राम तत्र तत्र तयोर् उभयोर् अपि तद्-गुण-वर्णनम् अकरोत् ।
+
+
+अतो ऽहं ब्रवीमि-प्रत्यक्षेऽपि कृते पापे (१९३) इति ।
+
+
+तत् सर्वथा मूलोत्खाता वयं विनष्टाः स्मः । सुष्ठु खल्व् इदम् उच्यते-
+
+
+मित्र-रूपा हि रिपवः सम्भाव्यन्ते विचक्षणैः ।
+
+ये हितं वाक्यम् उत्सृज्य विपरीतोपसेविनः ॥पन्च्३।१९७॥
+
+
+तथा च-
+
+सन्तो ऽप्य् अर्था विनश्यन्ति देश-काल-विरोधिनः ।
+
+अप्राज्ञान् मन्त्रिणः प्राप्य तमः सूर्योदये यथा ॥पन्च्३।१९८॥
+
+
+ततस् तद्-वचो ऽनादृत्य सर्वे ते स्थिरजीविनम् उत्क्षिप्य स्व-दुर्गम् आनेतुम् आरब्धाः । अथानीयमानः स्थिरजीव्य् आह-देव ! अद्याकिञ्चित्करेणैतद् अवस्थेन किं मयोपसङ्गृहीतेन ? यत् कारणम् इच्छामि दीप्तं वह्निम् अनुप्रवेष्टुम् । तद् अर्हसि माम् अग्नि-प्रदानेन समुद्धर्तुम् ।
+
+
+अथ रक्ताक्षस्यान्तर्गत-भावं ज्ञात्वाह-किम्-अर्थम् अग्नि-पतनम् इच्छसि ?
+
+
+सो ऽब्रवीत्-अहं तावद् युष्मद्-अर्थम् इमाम् आपदं मेघवर्णेन प्रापितः । तद् इच्छामि तेषां वैर-यातनार्थम् उलूकत्वम् इति ।
+
+
+तच् च श्रुत्वा राजनीति-कुशलो रक्ताक्षः प्राह-भद्र ! कुटिलस् त्वं कृतक-वचन-चतुरश् च । तावद् उलूक-योनि-गतो ऽपि स्वकीयाम् एव वायस-योनिं बहु मन्यसे । श्रूयते चैतद् आख्यानकम् ।
+
+
+सूर्यं भर्तारम् उत्सृज्य पर्जन्यं मारुतं गिरिम् ।
+
+स्व-जातिं मूषिका प्राप्ता स्वजातिर् दुरतिक्रमा ॥पन्च्३।१९९॥
+
+
+मन्त्रिणः प्रोचुः--कथम् एतत् ?
+
+
+रक्ताक्षः कथयति-
+
+
+कथा ११
+
+शालङ्कायन-रक्षित-मूषिका-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने शालङ्कायनो नाम तपोधनो जाह्नव्यां स्नानार्थं गतः । तस्य च सूर्योपस्थानं कुर्वतस् तत्र प्रदेशे मूषिका काचित् खरतर-नखाग्र-पुटेन श्येनेन गृहीता । दृष्ट्वा स मुनिः करुणार्द्र-हृदयो मुञ्च मुञ्चेति कुर्वाणस् तस्योपरि पाषाण-खण्डं प्राक्षिपत् । सो ऽपि पाषाण-खण्ड-प्रहार-व्याकुलेन्द्रियो भ्रष्ट-मूषिको भूमौ निपपात मूषिकापि भय-त्रस्ता कर्तव्यम् अजानन्ती रक्ष रक्षेति जल्पन्ती मुनि-चरणान्तिकम् उपाविशत् । श्येनेनापि चेतनं लब्ध्वा मुनिर् उक्तो, यद्-भो मुने ! न युक्तम् अनुष्ठितं भवता यद् अहं पाषाणेन ताडितः । किं त्वम् अधर्मान् न बिभेषि ? तत् समर्पय माम् एनाम् मूषिकाम् । नो चेत् प्रभूतं पातकम् अवाप्स्यसि ।
+
+
+इति ब्रुवाणं श्येनं प्रोवाच सः-भो विहङ्गाधम ! रक्षणीयाः प्राणिनां प्राणाः । दण्डनीया दुष्टाः । सम्माननीयाः साधवः । पूजनीया गुरवः । स्तुत्या देवाः । तत् किम् असम्बद्धं प्रजल्पसि ?
+
+
+श्येन आह-मुने ! न त्वं सूक्ष्म-धर्मं वेत्सि । इह हि सर्वेषां प्राणिनां विधिना सृष्टिं कुर्वताहारो ऽपि विनिर्मितः । ततो यथा भवताम् अन्नं तथास्माकं मूषिकादयो विहिताः । तत् स्वाहार-काङ्क्षिणं मां किं दूषयसि ? उक्तं च-
+
+
+यद्य् अस्य विहितं भोज्यं न तत् तस्य प्रदुष्यति ।
+
+अभक्ष्ये बहु-दोषः स्यात् तस्मात् कार्यो न व्यत्ययः ॥पन्च्३।२००॥
+
+भक्ष्यं यथा द्विजातीनां मद्यपानां यथा हविः ।
+
+अभक्ष्यं भक्ष्यताम् एति तथान्येषाम् अपि द्विज ॥पन्च्३।२०१॥
+
+भक्ष्यं भक्ष्यतां श्रेय अभक्ष्यं तु महद् अघम् ।
+
+तत् कथं मां वृथाचार त्वं दण्डयितुम् अर्हसि ॥पन्च्३।२०२॥
+
+
+अपरं मुनीनां न चैष धर्मो यतस् तैर् दृष्टं श्रुतम् अश्रुतम् अलौल्यत्वम् अशत्रुत्वं प्रशस्यते । उक्तं च-
+
+
+समः शत्रौ च मित्रे च सम-लोष्टाश्म-काञ्चनः ।
+
+सुहृन्-मित्रे ह्य् उदासीनो मध्यस्थो द्वेष्य-बन्धुषु ।
+
+साधुष्व् अपि च पापेषु सम-बुद्धिर् विशिष्यते ॥पन्च्३।२०३॥
+
+साधूनां निरवद्यानां सदाचार-विचारिणाम् ।
+
+योगी युञ्जीत सततं सततम् आत्मानं रहसि स्थितः ॥पन्च्३।२०४।
+
+
+तत् त्वम् अनेन कर्मणा भ्रष्ट-तपाः सञ्जातः । उक्तं च-
+
+
+मुञ्च मुञ्च पतत्य् एको मा मुञ्चेति द्वितीयकः ।
+
+उभयोः पतनं दृष्ट्वा मौनं सर्वार्थ-साधनम् ॥पन्च्३।२०५॥
+
+
+शालङ्कायन आह--कथम् एतत् ?
+
+
+श्येन आह-
+
+कथा १२
+
+?
+
+
+कस्मिंश्चिद् नदी-तट एकत-द्वित-त्रिताभिधानास् त्रयो ऽपि भ्रातरो मुनयस् तपः कुर्वन्ति । तेषां च तपः-प्रभावाद् आकाशस्था धौत-पोतिका निरालम्बा जलार्द्रा भू-स्पर्शन-भयेन स्नान-समये तिष्ठन्ति । अथान्ये-द्युर् ममैव काचिन् मण्डूकिका केनापि गृध्रेण बलेन नीता । अथ तां गृहीता विलोक्य तेषां ज्येष्ठेन करुणार्द्र-हृदयेन भवतेव व्याहृतं-मुञ्च मुञ्चेति । अत्रान्तरे तस्य धौत-पोतिकाकाशाद् भूमौ पतिता । तां पतितां दृष्ट्वा द्वितीयेन तद्-भयार्तेन मा मुञ्चेत्य् अभिहितं यावत् तस्यापि पपात । ततस् तृतीयो द्वयोर् अपि धौत-पोतिकां भूमौ पतितां दृष्ट्वा तूष्णीं बभूव ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-मुञ्च मुञ्च पतत्य् एक इत्य् आदि ।
+
+
+तच् छ्रुत्वा मुनिर् विहस्याह-भो मूर्ख विहङ्गम ! कृत-युगे धर्मः स आसीत्, यतः कृत-युगे पापालापतो ऽपि पापं जायते तेन धौत-पोतिके पतिते अशिष्टालापेन न सद्-अपवचन-दोषतः । एष पुनः कलि-युगः । अत्र सर्वो ऽपि पापात्मा । तत् कर्म कृतं विना पापं न लगति । उक्तं च-
+
+
+सञ्चरन्तीह पापानि युगेष्व् अन्येषु देहिनाम् ।
+
+कलौ तु पाप-संयुक्ते यः करोति स लिप्यते ॥पन्च्३।२०६॥
+
+
+उक्तं च-
+
+आसनाच् छयनाद् यानात् संगतेश् चापि भोजनात् ।
+
+कृते सञ्चरते पापं तैल-बिन्दुर् इवाम्भसि ॥पन्च्३।२०७॥
+
+
+तत् किं वृथा प्रलपितेन ? गच्छ त्वम् । नो चेच् छापयिष्यामि । अथ गते श्येने मूषिकया स मुनिर् अभिहितः-भगवन् ! नय मां स्वाश्रयम् । नो चेद् अन्यो दुष्ट-पक्षी मां व्यापादयिष्यति । तद् अहं तत्रैवाश्रमे त्वद्-दत्तान्नाहार-मुष्ट्या कालं नेष्यामि ।
+
+
+सो ऽपि दाक्षिण्यवान् स-करुणो व्यचिन्तयत्-कथं मया मूषिका हस्ते धृत्वा नेया जन-हास्य-कारिणी । तद् एनां कुमारिकां कृत्वा नयामि । एवं सा कन्यका कृता । तथानुष्ठिते कन्या-सहितं मुनिम् अवलोक्य पत्नी पप्रच्छ-भगवन् ! कुत इयं कन्या ?
+
+
+स आह-एषा मूषिका श्येन-भयाच् छरणार्थिनी कन्या-रूपेण तव गृहम् आनीता । तत् त्वया यत्नेन रक्षणीया । भूयो ऽप्य् एनां मूषिकां करिष्यामि ।
+
+
+सा प्राह-भगवन् ! मैवं कार्षीः । अस्यास् त्वं धर्म-पिता । उक्तं च-
+
+
+जनिता चोपनेता च यस् तु विद्यां प्रयच्छति ।
+
+अन्न-दाता भय-त्राता पञ्चैते पितरः स्मृताः ॥पन्च्३।२०८॥
+
+
+तत् त्वयास्याः प्राण-प्रदत्ता ।  अपरं ममाप्य् अपत्यं नास्ति । तस्माद् एषा मम सुता भविष्यति ।
+
+
+तथानुष्ठिते सा कन्या शुक्ल-पक्ष-चन्द्र-कलिकेव नित्यं वृद्धिं प्राप्नोति । सापि तस्य मुनेः शुश्रूषां कुर्वती सपत्नीकस्य यौवनम् आश्व् अयात् । अथ तां यौवनोन्मुखीम् अवलोक्य शालङ्कायनः स्व-पत्नीम् उवाच-प्रिये ! यौवनोन्मुखी वर्तत इयं कन्या । अनर्हा स साम्प्रतं मद्-गृह-वासस्य । उक्तं च-
+
+
+अनूढा मन्दिरे यस्य रजः प्राप्नोति कन्यका ।
+
+पतन्ति पितरस् तस्य स्वर्ग-स्था अपि तैर् गुणैः ॥पन्च्३।२०९॥
+
+वरं वरयते कन्या माता वित्तं पिता श्रुतम् ।
+
+बान्धवाः कुलम् इच्छन्ति मिष्टान्नम् इतरे जनाः ॥पन्च्३।२१०॥
+
+
+तथा च-
+
+यावन् न लज्जते कन्या यावत् क्रीडति पांसुना ।
+
+यावत् तिष्ठति गो-मार्गे तावत् कन्यां विवाहयेत् ॥पन्च्३।२११॥
+
+माता चैव पिता चैव ज्येष्ठ-भ्राता तथैव च ।
+
+त्रयस् ते नरकं यान्ति दृष्ट्वा कन्यां रजस्वलाम् ॥पन्च्३।२१२॥
+
+
+कुलं च शीलं च सनाथतां च
+
+विद्यां च वित्तं च वपुर् वयश् च ।
+
+एतान् गुणान् सप्तान् सप्त परीक्ष्य देया
+
+कन्या बुधैः शेषम् अचिन्तनीयम् ॥पन्च्३।२१३॥
+
+
+तद् यद् यस्या रोचते तद् भगवन्तं आदित्यम् आकार्य तस्मै प्रयच्छामि । उक्तं च-
+
+अनिष्टः कन्यकाया यो वरो रूपान्वितो ऽपि यः ।
+
+यदि स्यात् तस्य नो देया कन्या श्रेयो ऽभिवाञ्छता ॥पन्च्३।२१४॥
+
+
+सा प्राह-को दोषो ऽत्र विषये ? एवं क्रियताम् ।
+
+
+अथ मुनिना रविर् आहूतः । वेद-मन्त्रामन्त्रण-प्रभावात् तत्-क्षणाद् एवाभ्युपगम्यादित्यः प्रोवाच-भगवन् ! वद द्रुतं किम्-अर्थम् आहूतः ?
+
+
+स आह-एषा मदीया कन्यका तिष्ठति । यद्य् एषा त्वां वृणोति तर्ह्य् उद्वहस्व ताम् इति । एवम् उक्त्वा भगवांस् तस्या दर्शितः । प्रोवाच-पुत्रि ! किं तव रोचत एष भगवांस् त्रैलोक्य-दीपः ?
+
+
+सा प्राह-तात ! अतिदहनात्मको ऽयम् । नाहम् एनम् अभिलषामि । अस्माद् अपि य उत्कृष्टतरः स आहूयताम् ।
+
+
+अथ तस्यास् तद्-वचनम् आकर्ण्य भास्वरो ऽपि तां मूषिकां विदित्वा निःस्पृहस् तम् उवाच-भगवन् ! अस्ति ममाप्य् अधिको मेघो येनाच्छादितस्य मे नामाइ न ज्ञायते ?
+
+
+अथ मुनिना मेघम् अप्य् आहूय कन्याभिहिता-एष ते रोचते ?
+
+
+सा प्राह-कृष्ण-वर्णो ऽयं जडात्मा च । तद् अस्माद् अन्यस्य कस्यचित् प्रधानस्य मां प्रयच्छ ।
+
+
+अथ मुनिना मेघो ऽपि पृष्टः-भोः ! त्वत्तो ऽप्य् अधिकः को ऽप्य् अस्ति ?
+
+
+स आह-मत्तो ऽप्य् अधिको ऽस्ति वायुः । वायुना हतो ऽहं सहस्रधा यामि ।
+
+
+तच् छ्रुत्वा मुनिना वायुर् आहूतः, आह च-पुत्रिके किम् एष वायुस् ते विवाहाय उत्तमः प्रतिभाति ?
+
+
+सा आह-प्रबलो ऽप्य् अयं चञ्चलः । तद् अभ्यधिकः कश्चिद् आहूयताम् ।
+
+
+मुनिर् आह-भो वायो ! त्वत्तो ऽप्य् अधिको ऽस्ति कश्चित् ?
+
+
+स आह-मत्तो ऽप्य् अधिको ऽस्ति पर्वतो येन संस्तभ्य बलवान् अप्य् अहं ध्रिये ।
+
+
+अथ मुनिः पर्वतम् आहूय कन्याया अदर्शयत्-पुत्रिके ! त्वाम् अस्मै प्रयच्छामि ?
+
+
+सा आह-तात ! कठिनात्मको ऽयं स्तब्धश् च । तद् अन्यस्मै देहि माम् ।
+
+
+अथ स मुनिना पृष्टः, यद्-भोः पर्वत-राज ! त्वत्तो ऽप्य् अधिको ऽस्ति कश्चित् ?
+
+
+स आह-सन्ति मत्तो ऽप्य् अधिका मूषिकाः, ये मद्-देहं बलात् सर्वतो भेदयन्ति ।
+
+
+तद् आकर्ण्य मुनिर् मूषकम् आहूय तस्या अदर्शयत्-पुत्रिके ! एष ते प्रतिभाति मूषक-राजो येन यथोचितम् अनुष्ठीयते । सापि तं दृष्ट्वा स्व-जातीय एष इति मन्यमाना पुलकोद्भूषित-शरीरा प्रोवाच-तात ! मां मूषिकां कृत्वास्मै प्रयच्छ येन स्वजाति-विहितं गृह-धर्मम् अनुतिष्ठामि ।
+
+
+तच् छ्रुत्वा तेन स्त्री-धर्म-विचक्षणेन तां मूषिकां कृत्वा मूषकाय प्रदत्ता ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-सूर्यं भर्तारम् उत्सृज्य इत्यादि ।
+
+
+अथ रक्ताक्ष-वचनम् अनादृत्य तैः स्व-वंश-विनाशाय स स्व-दुर्गम् उपनीतः । नीयमानश् चान्तर्-लीनम् अवहस्य स्थिरजीव्य् अचिन्तयत्-
+
+
+हन्यताम् इति येनोक्तं स्वामिनो हित-वादिना ।
+
+स एवैको ऽत्र सर्वेषां नीति-शास्त्रार्थ-तत्त्व-वित् ॥पन्च्३।२१५॥
+
+
+तद् यदि तस्य वचनम् अचरिष्यन्न् एते, ततो न स्वल्पो ऽप्य् अनर्थो ऽभविष्यद् एतेषाम् ।
+
+
+अथ दुर्ग-द्वारं प्राप्यारिमर्दनो ऽब्रवीत्-भो भो हितैषिणो ऽस्य स्थिरजीविनो यथा-समीहितं स्थानं प्रयच्छत ।
+
+
+तच् च श्रुत्वा स्थिरजीवी व्यचिन्तयत्-मया तावद् एतेषां वधोपायश् चिन्तनीयः । स मया मध्यस्थेन न साध्यते । यतो मदीयम् इङ्गितादिकं विचारयन्तस् तेऽपि सावधाना भविष्यन्ति । तद् दुर्ग-द्वारम् अधिश्रितो ऽभिप्रेतं साधयामि । इति निश्चित्योलूक-पतिम् आह-देव ! युक्तम् इदं यत् स्वामिना प्रोक्तम् । परम् अहम् अपि नीतिज्ञस् तेऽहितश् च । यद्यप्य् अनुरक्तः शुचिस् तथापि दुर्ग-मध्ये आवासो नार्हः । तद् अहं अत्रैव दुर्ग-द्वार-स्थः प्रत्यहं भवत्-पाद-पद्म-रजः पवित्री-कृत-तनुः सेवां करिष्यामि ।
+
+
+तथेति प्रतिपन्ने प्रतिदिनम् उलूक-पति-सेवकास् ते प्रकामम् आहारं कृत्वोलूक-राजादेशात् प्रकृष्ट-मांसाहारं स्थिरजीविने प्रयच्छन्ति । अथ कतिपयैर् एवाहोभिर् मयूर इव स बलवान् संवृत्तः । अथ रक्ताक्षः स्थिरजीविनं पोष्यमाणं दृष्ट्वा स-विस्मयो मन्त्रि-जनं राजानं च प्रत्य् आह-अहो मूर्खो ऽयं मन्त्रि-जनो भवांश् चेत्य् एवम् अहम् अवगच्छामि । उक्तं च-
+
+
+पूर्वं तावद् अहं मूर्खो द्वितीयः पशु-बन्धकः ।
+
+ततो राजा च मन्त्री च सर्वं वै मूर्ख-मण्डलम् ॥पन्च्३।२१६॥
+
+
+ते प्राहुः-कथम् एतत् ?
+
+
+रक्ताक्षः कथयति-
+
+कथा १३
+
+स्वर्ण-ष्ठीवी-सिन्धुक-पक्षी-कथा
+
+
+अस्ति कस्मिंश्चित् पर्वतैक-देशे महान् वृक्षः । तत्र च सिन्धुक-नामा को ऽपि पक्षी प्रतिवसति स्म । तस्य पुरीषे सुवर्णम् उत्पद्यते । अथ कदाचित् तम् उद्दिश्य व्याधः को ऽपि समाययौ । स च पक्षी तद्-अग्रत एव पुरीषम् उत्ससर्ज । अथ पात-सम-कालम् एव तत्-सुवर्णीभूतं दृष्ट्वा व्याधो विस्मयम् अगमत्-अहो मम शिशु-कालाद् आरभ्य शकुनि-बन्ध-व्यसनिनो ऽशीति-वर्षाणि समभूवन्,न च कदाचित् पक्षि-पुरीषे सुवर्णं दृष्टम् इति विचिन्त्य तत्र वृक्षे पाशं बबन्ध । अथासाव् अपि पक्षी मूर्खस् तत्रैव विश्वस्त-चित्तो यथा-पूर्वम् उपविष्टस् तत्-कालम् एव पाशेन बद्धः । व्याधस् तु तं पाशाद् उन्मुच्य पञ्जरके संस्थाप्य निजावासं नीतवान् । अथ चिन्तयामास-किम् अनेन सापायेन पक्षिणाहं करिष्यामि ? यदि कदाचित् को
+
+ऽप्य् अमुम् ईदृशं ज्ञात्वा राज्ञे निवेदयिष्यति तन् नूनं प्राण-संशयो मे भवेत् । अतः स्वयम् एव पक्षिणं राज्ञे निवेदयामि । इति विचार्य तथैवानुष्ठितवान् ।
+
+
+अथ राजापि तं पक्षिणं दृष्ट्वा विकसित-नयन-वदन-कमलः परां तुष्टिम् उपगतः । प्राह चैवं-हंहो रक्षा-पुरुषाः ! एनं पक्षिणं यत्नेन रक्षत । अशन-पानादिकं चास्य यथेच्छं प्रयच्छत ।
+
+
+अथ मन्त्रिणाभिहितम्-किम् अनेनाश्रद्धेय-व्याध-वचन-मात्र-परिगृहीतेनाण्डजेन ? किं कदाचित् पक्षी-पुरीषे सुवर्णं सम्भवति ? तन् मुच्यतां पञ्जर-बन्धनाद् अयं पक्षी । इति मन्त्रि-वचनाद् राज्ञा मोचितो ऽसौ पक्ष्य् उन्नत-द्वार-तोरणे समुपविश्य सुवर्ण-मयीं विष्ठां विधाय-पूर्वं तावद् अहं मूर्खः इति श्लोकं पठित्वा यथा-सुखम् आकाश-मार्गेण प्रायात् ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-पूर्वं तावद् अहं मूर्खः इति ।
+
+
+अथ ते पुनर् अपि प्रतिकूल-दैवतया हितम् अपि रक्ताक्ष-वचनम् अनादृत्य भूयस् तं प्रभूत-मांसादि-विविधाहारेण पोषयामासुः । अथ रक्ताक्षः स्व-वर्गम् आहूय रहः प्रोवाच-अहो ! एतावद् एवास्मद्-भूपतेः कुशलं दुर्गं च । तद् उपदिष्टं मया यत् कुल-क्रमागतः सचिवो ऽभिधत्ते । तद् वयम् अन्यत् पर्वत-दुर्गं सम्प्रति समाश्रयामः । उक्तं च यतः-
+
+
+अनागतं यः कुरुते स शोभते
+
+स शोचते यो न करोत्य् अनागतम् ।
+
+वने वसन्न् एव जराम् उपागतो
+
+बिलस्य वाचा न कदापि हि श्रुता ॥पन्च्३।२१७॥
+
+
+ते प्रोचुः-कथम् एतत् ?
+
+
+रक्ताक्षः कथयति-
+
+कथा १४
+
+खरनखर-सिंह-कथा
+
+
+कस्मिंश्चिद् वनोद्देशे खरनखरो नाम सिंहः प्रतिवसति स्म । स कदाचिद् इतश् चेतश् च परिभ्रमन् क्षुत्क्षाम-कण्ठो न किञ्चिद् अपि सत्त्वम् आससाद । ततश् चास्तम् अनसमये महतीं गिरि-गुहाम् आसाद्य प्रविष्टश् चिन्तयामास-नूनम् एतस्यां गुहायां रात्रौ केनापि सत्त्वेनागन्तव्यम् । तन् निभृतो भूत्वा तिष्ठामि ।
+
+
+एतस्मिन्न् अन्तरे तत्-स्वामी दधिपुच्छो नाम शृगालः समायातः । स च यावत् पश्यति तावत् सिंह-पद-पद्धतिर् गुहायां प्रविष्टः, न च निष्क्रान्ता इति दृष्टवान् । ततश् चाचिन्तयत्-अहो विनष्टो ऽस्मि, नूनम् अस्यान्तर्गतेन सिंहेन भाव्यम् । तत् किं करोमि ? कथं ज्ञास्यामि ? एवं विचिन्त्य द्वारस्थः फूत्कर्तुम् आरब्धः-अहो बिल ! अहो बिल ! इत्य् उक्त्वा तूष्णींभूय भूयो ऽपि तथैव प्रत्यभाषत-भोः ! किं न स्मरसि यन् मया त्वया सह समयः कृतो ऽस्ति ? यन् मया बाह्यात् समागतेन त्वं वक्तव्यः, त्वया चाहम् आकरणीयः इति । तद् यदि मां नाह्वयसि ततो ऽहं द्वितीयं बिलं यास्यामि ।
+
+
+अथ तच् छ्रुत्वा सिंहश् चिन्तितवान्-नूनम् एषा गुहास्य समागतस्य सदा समाह्वानं करोति । परम् अद्य मद्-भयान् न किंचिद् ब्रूते । अथवा साध्व् इदम् उच्यते-
+
+
+भय-सन्त्रस्त-मनसां हस्त-पादादिकाः क्रियाः ।
+
+प्रवर्तन्ते न वाणी च वेपथुश् चाधिको भवेत् ॥पन्च्३।२१८॥
+
+
+तद् अहम् अस्याह्वानं करोमि येन तद्-अनुसारेण प्रविष्टो ऽयं मे भोज्यतां यास्यति । एवं सम्प्रधार्य सिंहस् तस्याह्वानम् अकरोत् । अथ सिंह-शब्देन सा गुहा प्रतिरव-सम्पूर्णा अन्यान् अपि दूर-स्थान् अरण्य-जीवांस् त्रासयामास । शृगालो ऽपि पलायमान इमं श्लोकम् अपठत्-अनागतं यः कुरुते स शोभते इत्य् आदि ।
+
+
+तद् एवं मत्वा युष्माभिर् मया सह गन्तव्यम् इति । एवम् अभिधायात्मानुयायि-परिवारानुगतो दूर-देशान्तरं रक्ताक्षो जगाम ।
+
+
+अथ रक्ताक्षे गते स्थिरजीव्य् अतिहृष्ट-मना व्यचिन्तयत्-अहो ! कल्याणम् अस्माकम् उपस्थितम्, यद् रक्तांशो गतः स दीर्घदर्शी एते च मूढ-मनसः । ततो मम सुख-घात्याः सञ्जाताः । उक्तं च यतः-
+
+
+न दीर्घ-दर्शिनो यस्य मन्त्रिणः स्युर् महीपतेः ।
+
+क्रमायाता ध्रुवं तस्य न चिरात् स्यात् परिक्षयः ॥पन्च्३।२१९॥
+
+
+अथवा साध्व् इदम् उच्यते-
+
+
+मन्त्रि-रूपा हि रिपवः सम्भाव्यास् ते विचक्षणैः ।
+
+ये सन्तं नयम् उत्सृज्य सेवन्ते प्रतिलोमतः ॥पन्च्३।२२०॥
+
+
+एवं विचिन्त्य स्व-कुलाय एकैकां वन-काष्ठिकां गुहा-प्रदीपनार्थं दिने दिने प्रक्षिपति । न च ते मूर्खा उलूका विजानन्ति, यद् एष कुलायम् अस्मद्-दाहाय वृद्धिं नयति । अथवा साध्व् इदम् उच्यते-
+
+
+अमित्रं कुरुते मित्रं मित्रं द्वेष्टि हिनस्ति च ।
+
+शुभं वेत्त्य् अशुभं पापं भद्रं दैव-हतो नरः ॥पन्च्३।२२१॥
+
+
+अथ कुलाय-व्याजेन दुर्ग-द्वारे कृते काष्ठ-निचये, सञ्जाते सूर्योदये, अन्धतां प्राप्तेषूलूकेषु सत्सु स्थिरजीवी शीघ्रम् ऋष्यमूकं गत्वा मेघवर्णम् आह-स्वामिन् ! दाह-साध्या कृता रिपु-गुहाः । तत् सपरिवारः समेत्यैकैका वन-काष्ठिकां ज्वलन्ती गृहीत्वा गुहा-द्वारेऽस्मत्-कुलाये प्रक्षिप येन सर्वे शत्रवः कुम्भीपाक-नरक-प्रायेण दुःखेन म्रियन्ते ।
+
+
+तच् छ्रुत्वा प्रहृष्टो मेघवर्ण आह-तात ! कथयात्म-वृत्तान्तम् । चिराद् अद्य दृष्टो ऽसि ।
+
+
+स आह-वत्स ! नायं कथनस्य कालः । यतः कदाचित् तस्य रिपो कश्चित् प्रणिधिर् ममेहागमनं निवेदयिष्यति । यज् ज्ञानाद् अन्धो ऽन्यत्रापसरणं करिष्यति । तत् त्वर्यताम् । उक्तं च-
+
+
+शीघ्र-कृत्येषु कार्येषु विलम्बयति यो नरः ।
+
+तत् कृत्यं देवतास् तस्य कोपाद् विघ्नन्त्य् असंशयम् ॥पन्च्३।२२२॥
+
+
+तथा च-
+
+यस्य यस्य हि कार्यस्य फलितस्य विशेषतः ।
+
+क्षिप्रम् अक्रियमाणस्य कालः पिबति तत्-फलम् ॥पन्च्३।२२३॥
+
+
+तद्-गुहायाम् आयातस्य ते हत-शत्रोः सर्वं सविस्तरं निर्व्याकुलतया कथयिष्यामि अथासौ तद्-वचनम् आकर्ण्य स-परिजन एकैकां ज्वलन्तीं वन-काष्ठिकां चञ्च्व्-अग्रेण गृहीत्वा तद्-गुहा-द्वारं प्राप्य स्थिरजीवि-कुलाये प्राक्षिपत् । ततः सर्वे ते दिवान्धा रक्ताक्ष-वाक्यानि स्मरन्तो द्वारस्यावृतत्वाद् अनिःसरन्तो गुहा-मध्ये कुम्भीपाक-न्यायम् आपन्ना मृताश् च । एवं शत्रून् निःशेषतां नीत्वा भूयो ऽपि मेघवर्णस् तद् एव न्यग्रोध-पादप-दुर्गं जगाम ।  ततः सिंहासन-स्थो भूत्वा सभा-मध्ये प्रमुदित-मनाः स्थिरजीविनम् अपृच्छत्-तात ! कथं त्वया शत्रु-मध्ये गतेन एतावत्-पर्यन्तं कालो नीतः ? तद् अत्र कौतुकम् अस्माकं वर्तते, तत् कथ्यताम् । यतः-
+
+
+वर-मग्नौ प्रदीप्ते तु प्रपातः पुण्य-कर्मणाम् ।
+
+न चारिजन-संसर्गो मुहूर्तम् अपि सेवितः ॥पन्च्३।२२४॥
+
+
+तद् आकर्ण्य स्थिरजीव्य् आह-भद्र ! आगामि-फल-वाञ्छया कष्टम् अपि सेवको न जानाति । उक्तं च यतः-
+
+
+कार्यस्यापेक्षया भुक्तं विषम् अप्य् अमृतायते ।
+
+सर्वेषां प्राणिनां यत्र नात्र कार्या विचारणा ॥पन्च्३।२२५॥
+
+
+उपनत-भये यो यो मार्गो हितार्थ-करो भवेत्- स स निपुणया बुद्ध्या सेव्यो महान् कृपणो ऽपि वा ।
+
+करिकर-निभौ ज्याघाता कौ महास्त्र-विशारदौ वलय-रचितौ स्त्रीवद् बाहू कृतौ न किरीटिना ॥पन्च्३।२२६॥
+
+
+शक्तेनापि सता जनेन विदुषा कालान्तरापेक्षिणा
+
+वस्तव्यं खलु वाक्य-वज्र-विषमे क्षुद्रेऽपि पापे जने ।
+
+दर्वी-व्यग्र-करेण धूम-मलिनेनायास-युक्ते च
+
+भीमेनातिबलेन मत्स्य-भवने किं नोषितं सूदवत् ॥पन्च्३।२२७॥
+
+
+यद् वा तद् वा विषम-पतितः साधु वा गर्हितं वा
+
+कालापेक्षी हृदय-निहितं बुद्धिमान् कर्म कुर्यात् ।
+
+किं गाण्डीव-स्फुरद्-उरु-गुणास्फालन-क्रूर-पाणिर्
+
+नासील् लीला-नटन-विलसन् मेखली सव्यसाची ॥पन्च्३।२२८॥
+
+
+सिद्धिं प्रार्थयता जनेन विदुषा तेजो निगृह्य स्वकं
+
+सत्त्वोत्साहवतापि दैव-विधिषु स्थैर्यं प्रकार्य क्रमात् ।
+
+देवेन्द्र-द्रविणेश्वरान्तक-समैर् अप्य् अन्वितो भ्रातृभिः
+
+किं क्लिष्टः सुचिरं विराट-भवने श्रीमान् न धर्मात्मजः ॥पन्च्३।२२९॥
+
+
+रूपाभिजन-सम्पन्नो माद्री-पुत्रौ बलान्वितौ ।
+
+गोकर्म-रक्षा-व्यापारे विराट-प्रेष्यतां गतौ ॥पन्च्३।२३०॥
+
+
+रूपेणाप्रतिमेन यौवन-गुणैः श्रेष्ठे कुले जन्मना
+
+कान्त्या श्रीर् इव यात्र सापि विदशां काल-क्रमाद् आगता ।
+
+सैरन्ध्रीति स-गर्वितं युवतिभिः साक्षेपम् आख्यातया
+
+द्रौपद्या ननु मत्स्य-राज-भवने धृष्टं न किं चन्दनम् ॥पन्च्३।२३१॥
+
+
+मेघवर्ण आह-तात ! असि-धारा-व्रतम् इदं मन्ये यद् अरिणा सह संवासः ।
+
+
+सो ऽब्रवीत्-देव ! एवम् एतत् । परं न तादृङ्-मूर्ख-समागमः क्वापि मया दृष्टः । न च महाप्रज्ञम् अनेक-शास्त्रेष्व् अप्रतिम-बुद्धिं रक्ताक्षं विना धीमान् । यत्-कारणं तेन मदीयं यथावस्थितं चित्तं ज्ञातम् । ये पुनर् अन्ये मन्त्रिणस् ते महा-मूर्खा मन्त्रि-मात्र-व्यपदेशोपजीविनो ऽतत्त्व-कुशला, यैर् इदम् अपि न ज्ञातम् । यतः-
+
+
+अरितो ऽभ्यागतो भृत्यो दुष्टस् तत्-सङ्ग-तत्-परः ।
+
+अपसर्प-सधर्मत्वान् नित्योद्वेगी च दूषितः ॥पन्च्३।२३२॥
+
+आसने शयने याने पान-भोजन-वस्तुषु ।
+
+दृष्ट्वान्तरं प्रमत्तेषु प्रहरन्त्य् अरयो ऽरिषु ॥पन्च्३।२३३॥
+
+तस्मात् सर्व-प्रयत्नेन त्रिवर्ग-निलयं बुधः ।
+
+आत्मानम् आदृतो रक्षेत् प्रमादाद् धि विनश्यति ॥पन्च्३।२३४॥
+
+
+साधु चेदम् उच्यते-
+
+
+सन्तापयन्ति कम् अपथ्य-भुजं न रोगा
+
+दुर्मन्त्रिणं कम् उपयान्ति न नीति-दोषाः ।
+
+कं श्रीर् न दर्पयति कं न निहन्ति मृत्युः
+
+कं स्वीकृता न विषया परिपीडयन्ति ॥पन्च्३।२३५॥
+
+
+लुब्धस्य नश्यति यशः पिशुनस्य मैत्री
+
+नष्ट-क्रियस्य कुल अर्थ-परस्य धर्मः ।
+
+विद्या-फलं व्यसनिनः कृपणस्य सौख्यं
+
+राज्यं प्रमत्त-सचिवस्य नराधिपस्य ॥पन्च्३।२३६॥
+
+
+तद् राजन् ! असि-धारा-व्रतं मयाचरितम् अरितम् अरि-संसर्गाद् इति यद् भवतोक्तं, तन् मया साक्षाद् एवानुभूतम् । उक्तं च-
+
+
+अपमानं पुरस्कृत्य मानं कृत्वा तु पृष्ठतः ।
+
+स्वार्थम् अभ्युद्धरेत् प्राज्ञः कार्य-ध्वंसो हि मूर्खता ॥पन्च्३।२३७॥
+
+स्कन्धेनापि वहेच् छत्रुं कालम् आसाद्य बुद्धिमान् ।
+
+महता कृष्ण-सर्पेण मण्डूका बहवो हताः ॥पन्च्३।२३८॥
+
+
+मेघवर्ण आह-कथम् एतत् ?
+
+
+स्थिरजीवी कथयति-
+
+
+कथा १५
+
+मन्दविष-सर्प-कथा
+
+
+अस्ति वरुणाद्रि-समीप एकस्मिन् प्रदेशे परिणत-वया मन्द-विषो नाम कृष्ण-सर्पः । स एवं चित्ते सञ्चिन्तितवान्-कथं नाम मया सुखोपाय-वृत्त्या वर्तितव्यम् इति । ततो बहु-मण्डूकं ह्रदम् उपगम्य धृति-परीतम् इवात्मानं दर्शितवान् ।
+
+
+अथ तथा स्थिते सौदक-प्रान्त-गतेनैकेन मण्डूकेन पृष्टः-माम ! किम् अद्य यथा-पूर्वम् आहारार्थं न विहरसि ।
+
+
+सो ऽब्रवीत्-भद्र ! कुतो मे मन्द-भाग्यस्याहाराभिलाषः ? यत् कारणम् अद्य रात्रौ प्रदोष एव मयाहारार्थं विहरमाणेन दृष्ट एको मण्डूकः । तद्-ग्रहणार्थं मया क्रमः सज्जितः । सो ऽपि मां दृष्ट्वा मृत्यु-भयेन स्वाध्याय-प्रसक्तानां ब्राह्मणानाम् अन्तरम् अपक्रान्तो न विभावितो मया क्वापि गतः । तत्-सादृश्य-मोहित-चित्तेन मया कस्यचिद् ब्राह्मणस्य सूनोर् ह्रद-तट-जलान्तः-स्थो ऽङ्गुष्ठो दष्टः । ततो ऽसौ सपदि पञ्चत्वम् उपागतः ।
+
+
+अथ तस्य पित्रा दुःखितेनाहं शप्तो यथा-दुरात्मन् ! त्वया निरपराधो मत्-सुतो दष्टः । तद् अनेन दोषेण त्वं मण्डूकानां वाहनं भविष्यसि, तत्-प्रसाद-लब्ध-जीविकया वर्तिष्ये इति । ततो ऽहं युष्माकं वाहनार्थम् आगतो ऽस्मि ।
+
+
+तेन च सर्व-मण्डूकानाम् इदम् आवेदितम् । ततस् तैः प्रहृष्ट-मनोभिः सर्वैर् एव गत्वा जल-पाद-नाम्नो दर्दुर-राजस्य विज्ञप्तम् । अथासाव् अपि मन्त्रि-परिवृतो ऽत्यद्भुतम् इदम् इति मन्यमानो स-सम्भ्रमं ह्रदाद् उत्तीर्य मन्द-विषस्य फणिनः फणा-प्रदेशम् अधिरूढः । शेषा अपि यथा-ज्येष्ठं तत्-पृष्ठोपरि समारुरुहुः । किं बहुना, उपरित-स्थानम् अप्राप्तवन्तस् तस्यानुपदं धावन्ति । मन्दविषो ऽपि तेषां तुष्ट्य्-अर्थम् अनेक-प्रकारान् गति-विशेषान् अदर्शयत् । अथ जलपादो लब्ध-सुखस् तम् आह-
+
+
+न तथा करिणा यानं तुरगेण रथेन वा ।
+
+नर-यानेन वा यानं यथा मन्दविषेण मे ॥पन्च्३।२३९॥
+
+
+अथान्येद्युर् मन्द-विषश् छद्मना मन्दं मन्दं विसर्पति । तच् च दृष्ट्वा जलपादो ऽब्रवीत्-भद्र ! मन्दविष ! यथा-पूर्वं किम् अद्य साधु नोह्यते ?
+
+
+मन्दविषो ऽब्रवीत्-देव अद्याहार-वैकल्यान् न मे वोढुं शक्तिर् अस्ति ।
+
+
+अथासाव् अब्रवीत्-भद्र ! भक्षय क्षुद्र-मण्डूकान् ।
+
+
+तच् छ्रुत्वा प्रहर्षित-सर्व-गात्रो मन्दविषः स-सम्भ्रमम् अब्रवीत्-ममायम् एव विप्र-शापो ऽस्ति । तत् तवानेनानुज्ञा-वचनेन प्रीतो ऽस्मि ।
+
+
+ततो ऽसौ नैरन्तर्येण मण्डूकान् भक्षयन् कतिपयैर् एवाहोभिर् बलवान् संवृत्तः । प्रहृष्टश् चान्तर्-लीनम् अवहस्येदम् अब्रवीत्-
+
+
+मण्डूका विविधा ह्य् एते छल-पूर्वोपसाधिताः ।
+
+कियन्तं कालम् अक्षीणा भवेयुः खादिता मम ॥पन्च्३।२४०॥
+
+
+जल-पादो ऽपि मन्दविषेण कृत-कवच-नव्यामोहित-चित्तः किम् अपि नावबुध्यते । अत्रान्तरेऽन्यो महाकायः कृष्ण-सर्पस् तम् उद्देशं समायातः । तं च मण्डूकैर् वाह्यमानं दृष्ट्वा विस्मय-गतम् । आह च-वयस्य ! यद् अस्माकम् अशनं तैः कथं वाह्यसे । विरुद्धम् एतत् ।
+
+
+मन्दविषो ऽब्रवीत्-
+
+
+सर्वम् एतद् विजानामि यथा वाह्यो ऽस्मि दर्दुरैः ।
+
+किञ्चित् कालं प्रतीक्षेऽहं घृतान्धो ब्राह्मणो यथा ॥पन्च्३।२४१॥
+
+
+सो ऽब्रवीत्-कथम् एतत् ?
+
+
+मन्दविषः कथयति-
+
+कथा १६
+
+घृतान्ध-ब्राह्मण-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने यज्ञदत्तो नाम ब्राह्मणः । तस्य भार्या पुंश्चल्य् अन्यासक्त-मना अजस्रं विटायस-खण्ड-घृतान् घृत-पूरान् कृत्वा भर्तुश् चौरिकया प्रयच्छति । अथ कदाचिद् भर्ता दृष्ट्वाब्रवीत्-भद्रे ! किम् एतत् परिपच्यते ? कुत्र वाजस्रं नयसीदम् ? तत् कथय सत्यम् ।
+
+
+सा चोत्पन्न-प्रतिभा कृतक-वचनैर् भर्तारम् अब्रवीत्-अस्त्य् अत्र नातिदूरे भगवत्या देव्या आयतनम् । तत्राहम् उपोषिता सती बलिं भक्ष्य-विशेषांश् चापूर्वान् नयामि ।
+
+
+अथ तत् पश्यता गृहीत्वा तत् सकलं देव्यायतनाभिमुखी प्रतस्थे । यत् कारणं देव्या निवेदितेनानेन मदीयो भर्तैवं मंस्यते यत् मम ब्राह्मणी भगवत्याः कृते नद्याम् अवतीर्य यावत् स्नानं करोति तावत् तद् भर्तापि मार्गान्तरेणागत्य देव्याः पृष्ठतो ऽदृश्यो ऽवतस्थे ।
+
+
+अथ सा ब्राह्मणी स्नात्वा देव्य्-आयतनम् आगत्य स्नानानुलेपन-माल्य-धूप-बलि-क्रियादिकं कृत्वा देवीं प्रणम्य व्यजिज्ञपत्-भगवति ! केन प्रकारेण मम भर्तान्धो भविष्यति ?
+
+
+तच् छ्रुत्वा स्वर-भेदेन देवी-पृष्ठ-स्थितो ब्राह्मणो जगाद-यदि त्वम् अजस्रं घृत-पूरादि-भक्ष्यं तस्मै भर्त्रे प्रयच्छसि, ततः शीघ्रम् अन्धो भविष्यति ।
+
+
+सा तु बन्धकी कृतक-वचन-वञ्चित-मानसा तस्मै ब्राह्मणाय तद् एव नित्यं प्रददौ  । अथान्येद्युर् ब्राह्मणेनाभिहितम्-भद्रे, नाहं सुतरां पश्यामि ।
+
+
+तच् छ्रुत्वा चिन्तितम् अनया-देव्याः प्रसादो ऽयं प्राप्त इति । अथ तस्या हृदय-वल्लभो विटस् तत्-सकाशम्-अन्धीभूतो ऽयं ब्राह्मणः किं मम करिष्यतीति निःशङ्कं प्रतिदिनम् अभ्येति । अथान्येद्युस् तं प्रविशन्तम् अभ्याश-गतं दृष्ट्वा केशैर् गृहीत्वा लगुड-पार्ष्णि-प्रभृति-प्रहारैस् तावद् अताडयत् यावद् असौ पञ्चत्वम् आप । ताम् अपि पुष्ट-पत्नीं विच्छन्न-नासिकां कृत्वा विससर्ज ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-स्कन्धेनापि वहेच् छत्रुम् (२३८) इत्य् आदि ।
+
+
+अथ राजन् ! यथा मन्दविषेण बुद्धि-बलेन मण्डूका निहतास् तथा मयापि सर्वे वैरिणः । साधु चेदम् उच्यते-
+
+
+वने प्रज्वलितो वह्निर् दहन् मूलानि रक्षति ।
+
+समूलोन्मूलनं कुर्याद् वायुर् यो मृदु-शीतलः ॥पन्च्३।२४२॥
+
+
+मेघवर्ण आह-तात ! सत्यम् एवैतत् । ये महात्मानो भवन्ति ते महा-सत्त्वा आपद्-गता अपि प्रारब्धं न त्यजन्ति । उक्तं च यतः-
+
+
+महत्त्वम् एतन् महतां नयालङ्कार-धारिणाम् ।
+
+न मुञ्चन्ति यद् आरब्धं कृच्छ्रेऽपि व्यसनोदये ॥पन्च्३।२४३॥
+
+
+तथा च-
+
+प्रारभ्यते न खलु विघ्न-भयेन नीचैः
+
+प्रारभ्य विघ्न-विहता विरमन्ति मध्याः ।
+
+विघ्नैः सहस्र-गुणितैर् अपि हन्यमानाः
+
+प्रारब्धम् उत्तम-गुणा न परित्यजन्ति ॥पन्च्३।२४४॥
+
+
+तत् कृतं निष्कण्टकं मम राज्यं शत्रून् निःशेषतां नयता त्वया । अथवा युक्तम् एतन् नय-वेदिनाम् । उक्तं च यतः-
+
+
+ऋण-शेषं चाग्नि-शेषं च शत्रु-शेषं तथैव च ।
+
+व्याधि-शेषं च निःशेषं कृत्वा प्राज्ञो न सीदति ॥पन्च्३।२४५॥
+
+
+सो ऽब्रवीत्-देव ! भाग्यवान् त्वम् एवासि, यस्यारब्धं सर्वम् एव संसिद्ध्यति । तन् न केवलं शौर्यं कृत्यं साधयति, किन्तु प्रज्ञया यत् क्रियते तद् एव विजयाय भवति । उक्तं च-
+
+
+शस्त्रैर् हता न हि हता रिपवो भवन्ति
+
+प्रज्ञा-हतास् तु रिपवः सुहता भवन्ति ।
+
+शस्तं निहन्ति पुरुषस्य शरीरम् एकं
+
+प्रज्ञा कुलं च विभवश् च यशश् च हन्ति ॥पन्च्३।२४६॥
+
+
+तद् एवं प्रज्ञा-पुरुषकाराभ्यां युक्तस्यायत्नेन कार्य-सिद्धयः सम्भवन्ति । उक्तं च-
+
+
+प्रसरति मतिः कार्यारम्भे दृढीभवति स्मृतिः
+
+स्वयम् उपनयन्न् अर्थान् मन्त्रो न गच्छति विप्लवम् ।
+
+स्फुरति सफलस् तर्कश् चित्तं समुन्नतिम् अश्नुते
+
+भवति च रतिः श्लाघ्ये कृत्ये नरस्य भविष्यतः ॥पन्च्३।२४७॥
+
+
+तथा च नय-त्याग-शौर्य-सम्पन्ने पुरुषे राज्यम् इति । उक्तं च-
+
+
+त्यागिनि शूरे विदुषि च संसर्ग-रुचिर् जनो गुणी भवति ।
+
+गुणवति धनं धनाच् छ्रीः श्रीमत्य् आज्ञा ततो राज्यम् ॥पन्च्३।२४८॥
+
+
+मेघवर्ण आह-नूनं सद्यः-फलानि नीति-शास्त्राणि यत् त्वयानुकृत्येनानुप्रविश्यारि-मर्दनः सपरिजनो निःशेषितः ।
+
+
+स्थिरजीव्य् आह-
+
+
+तीक्ष्णोपाय-प्राप्ति-गम्यो ऽपि यो ऽर्थस्
+
+तस्याप्य् आदौ संश्रयः साधु युक्तः ।
+
+उत्तुङ्गाग्रः सार-भूतो वनानां
+
+मान्याभ्यर्च्य च्छिद्यते पादपेन्द्रः ॥पन्च्३।२४९॥
+
+
+अथवा स्वामिन् ! किं तेनाभिहितेन ? यद् अनन्तर-जाले क्रिया-रहितम् असुख-साध्यं वा भवति । साधु चेदम् उच्यते-
+
+
+अनिश्चितैर् अध्यवसाय-भीरुभिर्
+
+यथेष्ट-संलाप-रति-प्रयोजनैः ।
+
+फले विसंवादम् उपागता गिरः
+
+प्रयान्ति लोके परिहास-वस्तुताम् ॥पन्च्३।२५०॥
+
+
+न च लघुष्व् अपि कर्तव्येषु धीमद्भिर् अनादरः कर्तव्यः । यतः-
+
+शक्ष्यामि कर्तुम् इदम् अल्पम् अयत्न-साध्यम्
+
+अनादरः क इति कृत्यम् उपेक्षमाणाः ।
+
+केचित् प्रमत्त-मनसः परिताप-दुःखम्
+
+आपत्-प्रसङ्ग-सुलभं पुरुषा प्रयान्ति ॥पन्च्३।२५१॥
+
+
+तद् अद्य जितारेर् मद्-विभोर् यथा-पूर्वं निद्रा-लाभो भविष्यति । उच्यते चैतत्-
+
+
+निःसर्पे बद्ध-सर्पे वा भवने सुष्यते सुखम् ।
+
+सदा दृष्ट-भुजङ्गे तु निद्रा दुःखेन लभ्यते ॥पन्च्३।२५२॥
+
+
+तथा च-
+
+विस्तीर्ण-व्यवसाय-साध्य-महतां स्निघ्दोपयुक्ताशिषां
+
+कार्याणां नय-साहसोन्नति-मताम् इच्छापद्-आरोहिणाम् ।
+
+मानोत्सेक-पराक्रम-व्यसनिनः पारं न यावद्-गताः
+
+सामर्षे हृदयेऽवकाश-विषया तावत् कथं निर्वृतिः ॥पन्च्३।२५३॥
+
+
+तद् अवसित-कार्यारम्भस्य विश्राम्यतीव मे हृदयम् । तद् इदम् अधुना निहत-कण्टकं राज्यं प्रजा-पालन-तत्परो भूत्वा पुत्र-पौत्रादि-क्रमेणाचल-च्छत्रासन-श्रीः चिरं भुङ्क्ष्व । अपि च-
+
+
+प्रजा न रञ्जयेद् यस् तु राजा रक्षादिभिर् गुणैः ।
+
+अजागल-स्तनस्येव तस्य राज्यं निरर्थकम् ॥पन्च्३।२५४॥
+
+
+गुणेषु रागो व्यसनेष्व् अनादरो
+
+रतिः सुभृत्येषु च यस्य भूपतेः ।
+
+चिरं स भुङ्क्ते चल-चामरांशुकां
+
+सितातपत्राभरणां नृप-श्रियम् ॥पन्च्३।२५५॥
+
+
+न च त्वया प्राप्त-राज्यो ऽहम् इति मत्वा श्री-मदेनात्मा व्यसयितव्यः । यत् कारणम्-चला हि राज्ञो विभूतयः वंशारोहणवद् राज्य-लक्ष्मी-दुरारोहा, क्षण-विनिपात-रता, प्रयत्न-शतैर् अपि धार्यमाणा दुर्धरा, प्रशस्ताराधिताप्य् अन्ते विप्रलम्भिनी, वानर-जातिर् इव विद्रुतानेक-चित्ता, पद्म-पत्रम् इवाघटित-संश्लेषा, पवन-गतिर् इवातिचपला, अनार्य-सङ्गतिर् इवास्थिरा, आशीविष इव दुरुपचारा, सन्ध्याभ्र-लेखेव मुहूर्त-रागा, जल-बुद्बुदावलीव स्वभाव-भङ्गुरा, शरीर-प्रकृतिर् इव कृतघ्ना, स्वप्न-लब्ध-द्रव्य-राशिर् इव क्षण-दृष्ट-नष्टा । अपि च-
+
+
+यदैव राज्ये क्रियतेऽभिषेकस्
+
+तदैव बुद्धिर् व्यसनेषु योज्या ।
+
+घटा हि राज्ञाम् अभिषेक-काले
+
+सहाम्भसैवापदम् उद्गिरन्ति ॥पन्च्३।२५६॥
+
+
+न च कश्चिद् अनधिगमनीयो नामास्त्य् आपदाम् । उक्तं च-
+
+
+रामस्य व्रजनं वने निवसनं पाण्डोः सुतानां वने
+
+वृष्णीनां निधनं नलस्य नृपते राज्यात् परिभ्रंशनम् ।
+
+नाट्याचार्यकम् अर्जुनस्य पतनं सञ्चिन्त्य लङ्केश्वरे
+
+सर्वे काल-वशाज् जनो ऽत्र सहते कः कं परित्रायते ॥पन्च्३।२५७॥
+
+
+क्व स दशरथः स्वर्गे भूत्वा महेन्द्र-सुहृद् गतः
+
+क्व स जलनिधेर् वेलां बद्ध्वा नृपः सगरस् तथा ।
+
+क्व स करतलाज् जातो वैन्यः क्व सूर्य-तनुर् मनुः
+
+ननु बलवता कालेनैते प्रबोध्य निमीलिताः ॥पन्च्३।२५८॥
+
+
+मान्धाता क्व गतस् त्रिलोक-विजयी राजा क्व सत्यव्रतः
+
+देवानां नृपतिर् गतः क्व नहुषः सच्-छास्त्रवान् केशवः ।
+
+मन्यन्ते सरथाः स-कुञ्जर-वराः शक्रासनाध्यासिनः
+
+कालेनैव महात्मना त्व् अनुकृताः कालेन निर्वासिताः ॥पन्च्३।२५९॥
+
+
+अपि च-
+
+स च नृपतिस् ते सचिवास् ताः प्रमदास् तानि कानन-वनानि ।
+
+स च ते च ताश् च तानि च कृतान्त-दृष्टानि नष्टानि ॥पन्च्३।२६०॥
+
+
+एवं मत्त-करि-कर्ण-चञ्चलां राज्य-लक्ष्मीम् अवाप्य न्यायैक-निष्ठो भूत्वोपभुङ्क्ष्व ।
+
+
+इति श्री-विष्णु-शर्म-विरचिते पञ्चतन्त्रे काकोलूकीयं नाम
+
+तृतीयं तन्त्रं समाप्तम्
+
+॥३॥
+
+
+
+************************************************************************  
+
+
+
+चतुर्थ-तन्त्रम्
+
+
+अथ लब्ध-प्रणाशम्
+
+
+अथेदम् आरभते लब्ध-प्रणाशं नाम चतुर्थं तन्त्रम् । यस्यायम् आदिमः श्लोकः-
+
+
+समुत्पन्नेषु कार्येषु बुद्धिर् यस्य न हीयते ।
+
+स एव दुर्गं तरति जलस्थो वानरो यथा ॥पन्च्४।१॥
+
+
+तद् यथानुश्रूयते-
+
+प्रस्तावना-कथा
+
+वानर-मकर-वृत्तान्तः
+
+
+अस्ति कस्मिंश्चित् समुद्रोपकण्ठे महान् जम्बू-पादपः सदा-फलः । तत्र च रक्तमुखो नाम वानरः प्रतिवसति स्म । तत्र च तस्य तरोर् अधः कदाचित् करालमुखो नाम मकरः समुद्र-सलिलान् निष्क्रम्य सुकोमल-बालुका-सनाथे तीरोपान्ते न्यविशत । ततश् च रक्तमुखेन स प्रोक्तः-भोः ! भवान् समभ्यागतो ऽतिथिः । तद् भक्षयतु मया दत्तान्य् अमृत-तुल्यानि जम्बू-फलानि । उक्तं च-
+
+
+प्रियो वा यदि वा द्वेष्यो मूर्खो वा यदि पण्डितः ।
+
+वैश्वदेवान्तम् आपन्नः सो ऽतिथिः स्वर्ग-सङ्क्रमः ॥पन्च्४।२॥
+
+न पृच्छेच् चरणं गोत्रं न च विद्यां कुलं न च ।
+
+अतिथिं वैश्वदेवान्ते श्राद्धे च मनुर् अब्रवीत् ॥पन्च्४।३॥
+
+दूर-मार्ग-श्रम-श्रान्तं वैश्वदेवान्तम् आगतम् ।
+
+अतिथिं पूजयेद् यस् तु स याति परमां गतिम् ॥पन्च्४।४॥
+
+अपूजितो ऽतिथिर् यस्य गृहाद् याति विनिःश्वसन् ।
+
+गच्छन्ति पितरस् तस्य विमुखाः सह दैवतैः ॥पन्च्४।५॥
+
+
+एवम् उक्त्वा तस्मै जम्बू-फलानि ददौ । सो ऽपि तानि भक्षयित्वा तेन सह चिरं गोष्ठी-सुखम् अनुभूय भूयो ऽपि स्व-भवनम् अगात् । एवं नित्यम् एव तौ वानर-मकरौ जम्बू-च्छाया-स्थितौ विविध-शास्त्र-गोष्ठ्या कालं नयन्तौ सुखेन तिष्ठतः । सो ऽपि मकरो भक्षित-शेषाणि जम्बू-फलानि गृहं गत्वा स्व-पत्न्यै प्रयच्छति । अथान्यतमे दिवसे तया स पृष्टः-नाथ ! क्वैवंविधान्य् अमृत-फलानि प्राप्नोषि ?
+
+
+स आह-भद्रे ! ममास्ति परम-सुहृद् रक्तमुखो नाम वानरः । स प्रीति-पूर्वकम् इमानि फलानि प्रयच्छति ।
+
+
+अथ तयाभिहितम्-यः सर्वदैवामृत-प्रायाणीदृशानि फलानि भक्षयति, तस्य हृदयम् अमृत-मयं भविष्यति । तद् यदि भार्यया ते प्रयोजनं, ततस् तस्य हृदयं मह्यं प्रयच्छ । येन तद् भक्षयित्वा जरा-मरण-रहिता त्वया सह भोगान् भुनज्मि ।
+
+
+स आह-भद्रे ! मा मैवं वद । यतः स प्रतिपन्नो ऽस्माकं भ्राता । अपरं फल-दाता । ततो व्यापादयितुं न शक्यते । तत् त्यजैनं मिथाग्रहणम् । उक्तं च-
+
+
+एकं प्रसूयते माता द्वितीयं वाक् प्रसूयते ।
+
+वाग्-जातम् अधिकं प्रोचुः सोदर्याद् अपि बान्धवात् ॥पन्च्४।६॥
+
+
+अथ मकर्य् आह-त्वया कदाचिद् अपि मम वचनं नान्यथा कृतम् । तन् नूनं सा वानरी भविष्यति, यतस् तस्या अनुरागतः सकलम् अपि दिनं तत्र गमयसि । तत् त्वं ज्ञातो मया सम्यक् । यतः-
+
+
+साह्लादं वचनं प्रयच्छति न मे नो वाञ्छितं किञ्चन
+
+प्रायः प्रोच्छ्वसिषि द्रुतं हुतवह-ज्वाला समं रात्रिषु ।
+
+कण्ठाश्लेष-परिग्रहे शिथिलता यन् नादराच् चुम्बसे
+
+तत् ते धूर्त हृदि स्थिता प्रियतमा काचिन् ममेवापरा ॥पन्च्४।७॥
+
+
+सो ऽपि पत्न्याः पादोपसङ्ग्रहं कृत्वाङ्कोपरि निधाय तस्याः कोप-कोटिम् आपन्नायाः सुदीनम् उवाच-
+
+
+मयि ते पाद-पतिते किङ्करत्वम् उपागते ।
+
+त्वं प्राण-वल्लभे कस्मात् कोपने कोपम् एष्यसि ॥पन्च्४।८॥
+
+
+सापि तद्-वचनम् आकर्ण्याश्रु-प्लुत-मुखी तम् उवाच-
+
+
+सार्धं मनोरथ-शतैस् तव धूर्त कान्ता
+
+सैव स्थिता मनसि कृत्रिम-भाव-रम्या ।
+
+अस्माकम् अस्ति न कथञ्चिद् इहावकाशं
+
+तस्मात् कृतं चरण-पात-विडम्बनाभिः ॥पन्च्४।९॥
+
+
+अपरं सा यदि तव वल्लभा न भवति, तत् किं मया भणितो ऽपि तां न व्यापादयसि । अथ यदि स वानरस् तत् कस् तेन सह तव स्नेहः ? तत् किं बहुना ? यदि तस्य हृदयं न भक्षयामि, तन् मया प्रायोपवेशनं कृतं विद्धि ।
+
+
+एवं तस्यास् तन् निश्चयं ज्ञात्वा चिन्ता-व्याकुलित-हृदयः स प्रोवाच-अथवा साध्व् इदम् उच्यते-
+
+
+वज्र-लेपस्य मूर्खस्य नारीणां कर्कटस्य च ।
+
+एको ग्रहस् तु मीनानां नीली-मद्य-पयोस् तथा ॥पन्च्४।१०॥
+
+
+तत् किं करोमि ? कथं स मे वध्यो भवति । इति विचिन्त्य वानर-पार्श्वम् अगमत् । वानरो ऽपि चिराद् आयान्तं तं सोद्वेगम् अवलोक्य प्रोवाच-भो मित्र ! किम् अद्य चिर-वेलायां समायातो ऽसि ? कस्मात् साह्लादं नालपसि ? न सुभाषितानि पठसि ।
+
+
+स आह-मित्र ! अहं तव भ्रातृ-जायया निष्ठुरतरैर् वाक्यैर् अभिहितः-भोः कृतघ्न ! मा मे त्वं स्वमुखं दर्शय, यतस् त्वं प्रतिदिनं मित्रम् उपजीवसि । न च तस्य पुनः प्रत्युपकारं गृह-दर्शन-मात्रेणापि करोषि । तत् ते प्रायश्चित्तम् अपि नास्ति । उक्तं च-
+
+
+ब्रह्मघ्ने च सुरापे च चौरे भग्न-व्रते शठे ।
+
+निष्कृतिर् विहिता सद्भिः कृतघ्ने नास्ति निष्कृतिः ॥पन्च्४।११॥
+
+
+तत् त्वं मम देवरं गृहीत्वाद्य प्रत्युपकारार्थं गृहम् आनय । नो चेत् त्वया सह मे पर-लोके दर्शनम् इति । तद् अहं तयैवं प्रोक्तस् तव सकाशम् आगतः । तद् अद्य तया सह त्वद्-अर्थे कलहायतो ममेयती वेला विलग्ना । तद् आगच्छ मे गृहम् । तव भ्रातृ-पत्नी रचित-चतुष्का प्रगुणित-वस्त्र-मणि-माणिक्याद्य्-उचिताभरणा द्वार-देश-बद्ध-वन्दन-माला सोत्कण्ठा तिष्ठति । मर्कट आह-भो मित्र ! युक्तम् अभिहितं मद्-भ्रातृ-पत्न्या । उक्तं च-
+
+
+वर्जयेत् कौलिकाकारं मित्रं प्राज्ञतरो नरः ।
+
+आत्मनः सम्मुखं नित्यं य आकर्षति लोलुपः ॥पन्च्४।१२॥
+
+
+तथा च-
+
+ददाति प्रतिगृह्णाति गुह्यम् आख्याति पृच्छति ।
+
+भुङ्क्ते भोजयते चैव षड्-विधं प्रीति-लक्षणम् ॥पन्च्४।१३॥
+
+
+परं वयं वनचराः युष्मदीयं च जलान्ते गृहम् । तत् कथं शक्यते तत्र गन्तुम् । तस्मात् ताम् अपि मे भ्रातृ-पत्नीम् अत्रानय येन प्रणम्य तस्या आशीर्वादं गृह्णामि ।
+
+
+स आह-भो मित्र ! अस्ति समुद्रान्तरे सुरम्ये पुलिन-प्रदेशेऽस्मद्-गृहम् ऍ तन् मम पृष्ठम् आरूधः सुखेनाकृत-भयो गच्छ ।
+
+
+सो ऽपि तच् छ्रुत्वा सानन्दम् आह-भद्र ! यद्य् एवं तत् किं विलम्ब्यते । त्वर्यताम् । एषो ऽहं तव पृष्ठाम् आरूढः ।
+
+
+तथानुष्ठितेऽगाधे जलधौ गच्छन्तं मरकम् आलोक्य भय-त्रस्त-मना वानरः प्रोवाच-भ्रातः ! शनैः शनैर् गम्यताम् । जल-कल्लोलैः प्लाव्यते मे शरीरम् ।
+
+
+तद् आकर्ण्य मकरश् चिन्तयामास-असाव् अगाधं जलं प्राप्तो मे वशः सञ्जातः । मत्-पृष्ठ-गतस् तिल-मात्रम् अपि चलितुं न शक्नोति । तस्मात् कथयाम्य् अस्य निजाभिप्रायम्, येनाभीष्ट-देवता-स्मरणं करोति । आह च-मित्र, त्वं मया वधाय समानीतो भार्या-वाक्येन विश्वास्य । तत् स्मर्यताम् अभीष्ट-देवता ।
+
+
+स आह-भ्रातः ! किं मया तस्यास् तवापि चापकृतं येन मे वधोपायश् चिन्तितः ?
+
+
+मकर आह-भोः ! तस्यास् तावत् तव हृदयस्यामृतमय-फल-रसास्वादन-मृष्टस्य भक्षणे दोहदः सञ्जातः । तेनैतद् अनुष्ठितम् ।
+
+
+प्रत्युत्पन्न-मतिर् वानर आह-भद्र ! यद्य् एवं तत् किं त्वया मम तत्रैव न व्याहृतम् ? येन स्व-हृदयं जम्बू-कोटरे सदैव मया सुगुप्तं कृतम् । तद् भ्रातृ-पत्न्या अर्पयामि । त्वयाहं शून्य-हृदयो ऽत्र कस्माद् आनीतः ?
+
+
+तद् आकर्ण्य मकरः सानन्दम् आह-भद्र ! यद्य् एवं तद् अर्पय मे हृदयम् । येन सा दुष्ट-पत्नी तद् भक्षयित्वानशनाद् उत्थिष्ठति । अहं त्वां तम् एव जम्बू-पादपं प्रापयामि । एवम् उक्त्वा निवर्त्य जम्बू-तलम् अगात् । वानरो ऽपि कथम् अपि जल्पित-विविध-देवतोपचार-पूजस् तीरम् आसादितवान् । ततश् च दीर्घतर-चङ्क्रमणेन तम् एव जम्बू-पादपम् आरूढश् चिन्तयामास-अहो ! लब्धास् तावत् प्राणाः । अथवा साध्व् इदम् उच्यते-
+
+
+न विश्वसेद् अविश्वस्ते विश्वस्तेऽपि न विश्वसेत् ।
+
+विश्वासाद् भयम् उत्पन्नं मूलान्य् अपि निकृन्तति ॥पन्च्४।१४॥
+
+
+तन् ममैतद् अद्य पुनर् जन्म-दिनम् इव सञ्जातम् ।
+
+
+इति चिन्तयमानं मकर आह-भो मित्र ! अर्पय तद् धृदयं यथा ते भ्रातृ-पत्नी भक्षयित्वानशनाद् उत्तिष्ठति ।
+
+
+अथ विहस्य निर्भर्त्सयन् वानरस् तम् आह-धिग् धिङ् मूर्ख विश्वास-घातक ! किं कस्यचिद् धृदय-द्वयं भवति ? तद् आशु गम्यतां जम्बू-वृक्षस्याधस्तान् न भूयो ऽपि त्वयात्रागन्तव्यम् । उक्तं च यतः-
+
+
+सकृद् दुष्टं च यो मित्रं पुनः सन्धातुम् इच्छति ।
+
+स मृत्युम् उपगृह्णाति गर्भम् अश्वतरी यथा ॥पन्च्४।१५॥
+
+
+तच् छ्रुत्वा मकरः संविलक्षं चिन्तितवान्-अहो ! मयातिमूढेन किम् अस्य स्व-चित्ताभिप्रायो निवेदितः । तद् यद्य् असौ पुनर् अपि कथञ्चिद् विश्वासं गच्छति, तद् भूयो ऽपि विश्वासयामि । आह च-मित्र ! हास्येन मया तेऽभिप्रायो लब्धः । तस्या न किञ्चित् तव हृदयेन प्रयोजनम् । तद् आगच्छ प्राघुणिक-न्यायेनास्मद्-गृहम् ।
+
+
+वानर आह-भो दुष्ट ! गम्यताम् । अधुना नाहम् आगमिष्यामि । उक्तं च-
+
+
+बुभुक्षितः किं न करोति पापं
+
+क्षीणा जना निष्करुणा भवन्ति ।
+
+आख्याहि भद्रे प्रिय-दर्शनस्य
+
+न गङ्गदत्तः पुनर् एति कूपम् ॥पन्च्४।१६॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+स आह-
+
+
+कथा १
+
+गङ्गदत्त-प्रियदर्शन-कथा
+
+
+कस्मिंश्चित् कूपे गङ्गदत्तो नाम मण्डूक-राजः प्रतिवसति स्म । स कदाचिद् दायादैर् उद्वेजितो ऽरघट्ट-घटीम् आरुह्य निष्क्रान्तः । अथ तेन चिन्तितम्-यत् कथं तेसां दायादानां मया प्रत्यपकारः कर्तव्यः । उक्तं च-
+
+
+आपदि येनापकृतं येन च हसितं दशासु विषमासु ।
+
+अपकृत्य तयोर् उभयोः पुनर् अपि जातं नरं मन्ये ॥पन्च्४।१७॥
+
+
+एवं चिन्तयन् बिले प्रविशन्तं कृष्णसर्पम् अपश्यत् । तं दृष्ट्वा भूयो ऽप्य् अचिन्तयत्-यद् एनं तत्र कूपे नीत्वा सकल-दायादानाम् उच्छेदं करोमि । उक्तं च-
+
+शत्रुभिर् योजयेच् छत्रुं बलिना बलवत्तरम् ।
+
+स्व-कार्याय यतो न स्यात् काचित् पीडात्र तत्-क्षये ॥पन्च्४।१८॥
+
+
+तथा च-
+
+शत्रुम् उन्मूलयेत् प्राज्ञस् तीक्ष्णं तीक्ष्णेन शत्रुणा ।
+
+व्यथा-करं सुखार्थाय कण्टकेनैव कण्टकम् ॥पन्च्४।१९॥
+
+
+एवं स विभाव्य बिल-द्वारं गत्वा तम् आहूतवान्-एह्य् एहि प्रिय-दर्शन ! एहि !
+
+
+तच् छ्रुत्वा सर्पश् चिन्तयामास-य एवं माम् आह्वयति । स्वजातीयो न भवति । यतो नैषा सर्प-वाणी । अन्येन केनापि सह मम मर्त्य-लोके सन्धानं नास्ति । तद् अत्रैव दुर्गे स्थितस् तावद् वेद्मि को ऽयं भविष्यति । उक्तं च-
+
+
+यस्य न जायते शीलं न कुलं न च संश्रयः ।
+
+न तेन सङ्गतिं कुर्याद् इत्य् उवाच बृहस्पतिः ॥पन्च्४।२०॥
+
+
+कदाचित्को ऽपि मन्त्रवाद्य् औषध-चतुरो वा माम् आहूय बन्धने क्षिपति । अथवा कश्चित् पुरुषो वैरम् आश्रित्य कस्यचिद् भक्षणार्थे माम् आह्वयति । आह च-भोः ! को भवान् ?
+
+
+स आह-अहं गङ्गदत्तो नाम मण्डूकाधिपतिस् त्वत्-सकाशे मैत्र्य्-अर्थम् अभ्यागतः ।
+
+
+तच् छ्रुत्वा सर्प आह-भो ! अश्रद्धेयम् एतत् यत्-तृणानां वह्निना सह सङ्गमः । उक्तं च-
+
+
+यो यस्य जायते वध्यः स स्वप्नेऽपि कथञ्चन ।
+
+न तत्-समीपम् अभ्येति तत् किम् एवं प्रजल्पसि ॥पन्च्४।२१॥
+
+
+गङ्गदत्त आह-भोः ! सत्यम् एतत् । स्वभाव-वैरी त्वम् अस्माकम् । परं पर-परिभवात् प्राप्तो ऽहं ते सकाशम् । उक्तं च-
+
+
+सर्व-नाशे च सञ्जाते प्राणानाम् अपि संशये ।
+
+अपि शत्रुं प्रणम्यापि रक्षेत् प्राणान्धनानि च ॥पन्च्४।२२॥
+
+
+सर्प आह-कथय कस्मात् ते परिभवः ।
+
+
+स आह-दायादेभ्यः ।
+
+
+सो ऽप्य् आह-क्व ते आश्रयो वाप्यां कूपे तडागे ह्रदे वा । तत् कथय स्वाश्रयम् ।
+
+
+तेनोक्तम्-पाषाण-चय-निबद्धे कूपे ।
+
+
+सर्प आह-अहो अपदा वयम् । तत्रास्ति तत्र मे प्रवेशः । प्रविष्टस्य च स्थानं नास्ति । यत्र स्थितस् तव दायादान् व्यापादयामि । तद् गम्यताम् । उक्तं च-
+
+
+यच् छक्यं ग्रसितुं यस्य ग्रस्तं परिणमेच् च यत् ।
+
+हितं च परिणामे यत् तद् आद्यं भूतिम् इच्छता ॥पन्च्४।२३॥
+
+
+गङ्गदत्त आह-भोः ! समागच्छ त्वम् । अहं सुखोपायेन तत्र तव प्रवेशं कारयिष्यामि । तथा तस्य मध्ये जलोपान्ते रम्यतरं कोटरम् अस्ति । तत्र स्थितस् त्वं लीलया दायादान् व्यापादयिष्यसि ।
+
+
+तच् छ्रुत्वा सर्पो व्यचिन्तयत्-अहं तावत् परिणत-वयाः । कदाचित् कथञ्चिन् मूषकम् एकं प्राप्नोमि । तत् सुखावहो जीवनोपायो ऽयम् अनेन कुलाङ्गारेण दर्शितः । तद् गत्वा तान् मण्डूकान् भक्षयामि इति । अथवा साध्व् इदम् उच्यते-
+
+
+यो हि प्राण-परिक्षीणः सहाय-परिवर्जितः ।
+
+स हि सर्व-सुखोपायां वृत्तिम् आरचयेद् बुधः ॥पन्च्४।२४॥
+
+
+एवं विचिन्त्य तम् आह-भो गङ्गदत्त ! यद्य् एवं तद्-अग्रे भव । येन तत्र गच्छावः ।
+
+गङ्गदत्त आह-भोः प्रियदर्शन ! अहं त्वां सुखोपायेन तत्र नेष्यामि, स्थानं च दर्शयिष्यामि त एव भक्षणीयाः इति ।
+
+
+सर्प आह-साम्प्रतं त्वं मे मित्रं जातम् । तन् न भेतव्यम् । तव वचनेन भक्षण्यास् ते दायादाः ।
+
+
+एवम् उक्त्वा बिलान् निष्क्रम्य तम् आलिङ्ग्य च तेनैव सह प्रस्थितः । अथ कूपम् आसाद्यार-घट्ट-घटिका-मार्गेण सर्पस् तेनात्मना स्वालयं नीतः ।
+
+
+गङ्गदत्त आह-भद्र ! कुतः त्वया मित्र-कृत्यम् । तत् साम्प्रतम् अनेनैव घटिका-यन्त्र-मार्गेण गम्यताम् इति ।
+
+
+सर्प आह-भो गङ्गदत्त ! न सम्यग् अभिहितं त्वया । कथम् अहं तत्र गच्छामि ? मदीय-बिल-दुर्गम् अन्येन रुद्धं भविष्यति । तस्माद् अत्र-स्थस्य मे मण्डूकम् एकैकं स्व-वर्गीयं प्रयच्छ । नो चेत् सर्वान् अपि भक्षयिष्यामि इति ।
+
+
+तच् छ्रुत्वा गङ्गदत्तो व्याकुल-मना व्याचिन्तयत्-अहो किम् एतन् मया कृतं सर्पम् आनयता । तद् यदि निषेधयिष्यामि तत् सर्वान् अपि भक्षयिष्यति । अथवा युक्तम् उच्यते-
+
+
+यो ऽमित्रं कुरुते मित्रं वीर्याभ्यधिकम् आत्मनः ।
+
+स करोति न सन्देहः स्वयं हि विष-भक्षणम् ॥पन्च्४।२५॥
+
+
+तत् प्रयच्छाम्य् अस्यैकैकं प्रतिदिनं सुहृदम् । उक्तं च-
+
+
+सर्वस्व-हरणे युक्तं शत्रुं बुद्धि-युता नराः ।
+
+तोषयन्त्य् अल्प-दानेन बाडवं सागरो यथा ॥पन्च्४।२६॥
+
+
+तथा च-
+
+यो दुर्बलो ऽणून् अपि याच्यमानो
+
+बलीयसा यच्छति नैव साम्ना ।
+
+प्रयच्छते नैव च दर्श्यमानं
+
+खारीं स चूर्णस्य पुनर् ददाति ॥पन्च्४।२७॥
+
+
+तथा च-
+
+सर्व-नाशे समुत्पन्ने अर्धं त्यजति पण्डितः ।
+
+अर्धेन कुरुते कार्यं सर्व-नाशो हि दुस्तरः ॥पन्च्४।२८॥
+
+न स्वल्पस्य कृते भूरि नाशयेन् मतिमान् नरः ।
+
+एतद् एव हि पाण्डित्यं यत् स्वल्पाद् भूरि-रक्षणम् ॥पन्च्४।२९॥
+
+
+एवं निश्चिन्त्य नित्यम् एकैकम् आदिशति । सो ऽपि तं भक्षयित्वा तस्य परोक्षेऽन्यान् अपि भक्षयति । अथवा साध्व् इदम् उच्यते-
+
+
+यथा हि मलिनैर् वस्त्रैर् यत्र तत्रोपविश्यते ।
+
+एवं चलित-वित्तस् तु वित्त-शेषं न रक्षति ॥पन्च्४।३०॥
+
+
+अथान्य-दिने तेनापरान् मण्डूकान् भक्षयित्वा गङ्गदत्त-सुतो यमुनादत्तो भक्षितः । तं भक्षितं मत्वा गङ्गदत्तस् तार-स्वरेण धिग् धिक् प्रलाप-परः कथञ्चिद् अपि न विरराम । ततः स्व-पत्न्याभिहितः-
+
+
+किं क्रन्दसि दुराक्रन्द स्व-पक्ष-क्षय-कारक ।
+
+स्व-पक्षस्य क्षये जाते को नस् त्राता भविष्यति ॥पन्च्४।३१॥
+
+
+तद् अद्यापि विचिन्त्यताम् आत्मनो निष्क्रमणम् अस्य वधोपायश् च । अथ गच्छता कालेन सकलम् अपि कवलितं मण्डूक-कुलम् । केवलम् एको गङ्गदत्तस् तिष्ठति । ततः प्रियदर्शनेन भणितम्-भोः गङ्गदत्त ! बुभुक्षितो ऽहम् । निःशेषिताः सर्वे मण्डूकाः । तद् दीयतां मे किञ्चिद् भोजनं यतो ऽहं त्वयात्रानीतः ।
+
+
+स आह-भो मित्र ! न त्वयात्र विषये मयावस्थितेन कापि चिन्ता कार्या । तद् यदि मां प्रेषयति ततो ऽन्य-कूप-स्थान् अपि मण्डूकान् विश्वास्यात्रानयामि ।
+
+
+स आह-मम तावत् त्वम् अभक्ष्यो भ्रातृ-स्थाने । तद् यद्य् एवं करोषि तत् साम्प्रतं पितृ-स्थाने भवसि । तद् एवं क्रियताम् इति ।
+
+
+सो ऽपि तद् आकर्ण्यार-घट्ट-घटिकाम् आश्रित्य विविध-देवतोपकल्पित-पूजोपयाचितस् तत्-कूपाद् विनिष्क्रान्तः । प्रियदर्शनो ऽपि तद्-आकाङ्क्षया तत्रस्थः प्रतीक्षमाणस् तिष्ठति । अथ चिराद् अनागते गङ्गदत्ते प्रियदर्शनो ऽन्य-कोटर-निवासिनीं गोधाम् उवाच-भद्रे ! क्रियतां स्तोकं साहाय्यम् । यतश् चिर-परिचितस् ते गङ्गदत्तः । तद् गत्वा तत्-सकाशं कुत्रचिज् जलाशयेऽन्विष्य मम सन्देशं कथय । येनागम्यताम् एकाकिनापि भवता द्रुततरं यद्य् अन्ये मण्डूका नागच्छन्ति । अहं त्वया विना नात्र वस्तुं शक्नोमि । तथा यद्य् अहं तव विरुद्धम् आचरामि तत् सुकृतम् अन्तरे मया विधृतम् ।
+
+
+गोधापि तद्-वचनाद् गङ्गदत्तं द्रुततरम् अन्विष्याह-भद्र गङ्गदत्त ! स तव सुहृत्-प्रियदर्शनस् तव मार्गं समीक्षमाणस् तिष्ठति । तच् छीघ्रम् आगम्यताम् इति ।
+
+
+अपरं च तेन तव विरूप-करणे सुकृतम् अन्तरे धृतम् । तन्-निःशङेन मनसा समागम्यताम् । तद् आकर्ण्य गङ्गदत्त आह-
+
+
+बुभुक्षितः किं न करोति पापं
+
+क्षीणा नरा निष्करुणा भवन्ति ।
+
+आख्याहि भद्रे प्रिय-दर्शनस्य
+
+न गङ्गदत्तः पुनर् एति कूपम् ॥पन्च्४।३२॥
+
+
+एवम् उक्त्वा स तां विसर्जयामास ।
+
+
+
+***********************************************************************  
+
+
+
+तद् भो दुष्ट-जलचर ! अहम् अपि गङ्गदत्त इव त्वद्-गृहे न कथञ्चिद् अपि यास्यामि ।
+
+
+तच् छ्रुत्वा मकर आह-भो मित्र ! अथवात्राहम् अनशनात् प्राण-त्यागं तवोपरि करिष्यामि ।
+
+
+वानर आह-मूढ ! किम् अहं लम्बकर्णो मूर्खः ? दृष्ट्वापायो ऽपि स्वयम् एव तत्र गत्वात्मानं व्यापादयामि ।
+
+
+आगतश् च गतश् चैव गत्वा यः पुनर् आगतः ।
+
+अकर्ण-हृदयो मूर्खस् तत्रैव निधनं गतः ॥पन्च्४।३३॥
+
+
+मकर आह-भद्र ! स को लम्भ-कर्णः । कथं दृष्टापायो ऽपि मृतः ? तन् मे निवेद्यताम् ।
+
+वानर आह-
+
+कथा २
+
+कराल-केसर-कथा
+
+
+कस्मिंश्चिद् वनोद्देशे कराल-केसरो नाम सिंहः प्रतिवसति स्म । तस्य च धूसरको नाम शृगालः सदैवानुयायी परिचारको ऽस्ति । अथ कदाचित् तस्य हस्तिना सह युध्यमानस्य शरीरे गुरुतराः प्रहाराः सञ्जाताः । यैः पदम् एकम् अपि चलितुं न शक्नोति । तस्याचलनाच् च धूसरकः क्षुत्क्षाम-कण्ठो दौर्बल्यं गतः । अन्यस्मिन्न् अहनि तम् अवोचत्-स्वामिन् ! बुभुक्षय पीडितो ऽहम् । पदात् पदम् अपि चलितुं न शक्नोमि । तत् कथं ते शुश्रूषां करोमि ?
+
+
+सिंह आह-भोः ! गच्छ अन्वेषय किञ्चित् सत्त्वम् । येनेमाम् अवस्थां गतो ऽपि व्यापादयामि ।
+
+
+तद् आकर्ण्य शृगालो ऽन्वेषयन् कञ्चित् समीप-वर्तिनं ग्रामम् आसादितवान् । तत्र लम्बकर्णो नाम गर्दभस् तडागोपान्ते प्रविरल-दूर्वाङ्कुरान् कृच्छ्राद् आस्वादयन् दृष्टः । ततश् च समीप-वर्तिना भूत्वा तेनाभिहितः-माम ! नमस्कारो ऽयं मदीयः सम्भाव्यताम् । चिराद् दृष्टो ऽसि । तत् कथय किम् एवं दुर्बलतां गतः ।
+
+
+स आह-भो भगिनी-पुत्र ! किं कथयामि । रजको ऽतिनिर्दयातिभारेण मां पीडयति । घास-मुष्टिम् अपि न प्रयच्छति । केवलं दूर्वाङ्कुरान् धूइ-मिश्रितान् भक्षयामि । तत् कुतो मे शरीरे पुष्टिः ?
+
+
+शृगाल आह-माम ! यद्य् एवं तद् अस्ति मरकत-सदृश-शष्प-प्रायो नदी-सनाथो रमणीयतरः प्रदेशः । तत्रागत्य मया सह सुभाषित-गोष्ठी-सुखम् अनुभवंस् तिष्ठ ।
+
+
+लम्बकर्ण आह-भो भगिनी-सुत ! युक्तम् उक्तं भवता । परं वयं ग्राम्याः पशवो ऽरण्य-चारिणां वध्याः । तत् किं तेन भव्य-प्रदेशेन ।
+
+
+शृगाल आह- माम ! मैवं वद । मद्-भुज-पञ्जर-परिरक्षितः स देशः । तत्रास्ति न कश्चिद् अपरस्य तत्र प्रवेशः । परमम् अनेनैव दोषेण रजक-कदर्थितास् तत्र तिस्रो रासभ्यो ऽनाथाः सन्ति । ताश् च पुष्टिम् आपन्ना यौवनोत्कटा इदं माम् ऊचुः-यदि त्वम् अस्माकं सत्यो मातुलस् तदा कंचिद् ग्रामान्तरं गत्वास्मद्-योग्यं कश्चित् पतिम् आनय । तद्-अर्थे त्वाम् अहं तत्र नयामि ।
+
+
+अथ शृगाल-वचनानि श्रुत्वा काम-पीडिताङ्गस् तम् अवोचत्-भद्र ! यद्य् एवं तद्-अग्रे भव येनागच्छामि । अथवा साध्व् इदम् उच्यते-
+
+
+नामृतं न विषं किञ्चिद् एकां मुक्त्वा नितम्बिनीम् ।
+
+यस्याः सङ्गेन जीव्येत म्रियते च वियोगतः ॥पन्च्४।३४॥
+
+
+तथा च-
+
+यासां नाम्नापि कामः स्यात् सङ्गमं दर्शनं विना ।
+
+तासां दृक्-सङ्गमं प्राप्य यन् न द्रवति कौतुकम् ॥पन्च्४।३५॥
+
+
+तत्रानुष्ठिते शृगालेन सह सिंहान्तिकम् आगतः । सिंहो ऽपि व्यथाकुलितस् तं दृष्ट्वा यावत् समुत्तिष्ठति तावद् रासभः पलायितुम् आरब्धवान् । अथ तस्य पलायमानस्य सिंहेन तल-प्रहारो दत्तः । स च मन्द-भाग्यस्य व्यवसाय इव व्यर्थतां गतः । अत्रान्तरे शृगालः कोपाविष्टस् तम् उवाच-भोः ! किम् एवंविधः प्रहारस् ते । यद् गर्दभो ऽपि तव पुरतो बलाद् गच्छति । तत् कथं गजेन सह युद्धं करिष्यसि ? तद् दृष्टं ते बलम् ।
+
+
+अथ सविलक्ष-स्मितं सिंह आह-भोः ! किम् अहं करोमि । मया न क्रमः सज्जीकृत आसीत् । अन्यथा गजो ऽपि मत्-क्रमाक्रान्ता न गच्छति ।
+
+
+शृगाल आह-अद्याप्य् एक-वारं तवान्तिके तम् आनेष्यामि । परं त्वया सज्जीकृत-क्रमेण स्थातव्यम् ।
+
+
+सिंह आह-भद्र ! यो मां प्रत्यक्षं दृष्ट्वा गतः स पुनः कथम् अत्रागमिष्यति ? तद् अन्यत् किम् अपि सत्त्वम् अन्विष्यताम् ।
+
+
+शृगाल आह-किं तवानेन व्यापारेण ? त्वं केवलं सज्जित-क्रमस् तिष्ठ ।
+
+
+तथानुष्ठिते शृगालो ऽपि यावद् रासभ-मार्गेण गच्छति, तावत् तत्रैव स्थाने चरन् दृष्टः । अथ शृगालं दृष्ट्वा रासभः प्राह-भो भगिनी-सुत ! शोभन-स्थाने त्वयाहं नीतः । द्राङ् मृत्यु-वशं गतः । तत् कथय किं तत् सत्त्वं यस्यातिरौद्र-वज्र-सदृश-कर-प्रहाराद् अहं मुक्तः ।
+
+
+तच् छ्रुत्वा प्रहसन् शृगाल आह-भद्र ! रासभी त्वाम् आयान्तं दृष्ट्वा सानुरागम् आलिङ्गितुं समुत्थिता । त्वं च कातरत्वान् नष्टः । सा पुनर् न शक्ता त्वां विना स्थातुम् । तया तु नशतस् तेऽवलम्बनार्थं हस्तः क्षिप्तः । नान्य-कारणेन । तद् आगच्छ । सा त्वत्-कृते प्रायोपवेशनोपविष्टा तिष्ठति । एतद् वदति-यल् लम्बकर्णो यदि मे भर्ता न भवति तद् अहम् अग्नौ जलं वा प्रविशामि । पुनस् तस्य वियोगं सोढुं न शक्नोमि इति । तत् प्रसादं कृत्वा तत्रागम्यताम् । नो चेत् तव स्त्री-हत्या भविष्यति । अपरं भगवान् काम-कोपं तवोपरि करिष्यति । उक्तं च-
+
+
+स्त्री-मुद्रां मकरध्वजस्य जयिनीं सर्वार्ध-सम्पत्-करीं
+
+ते मूढाः प्रविहाय यान्ति कुधियो मिथ्या-फलान्वेषिणः ।
+
+ते तेनैव निहत्य निर्दयतरं नग्नीकृता मुण्डिताः
+
+केचिद् रक्त-पटीकृताश् च जटिलाः कापालिकाश् चापरे ॥पन्च्४।३६॥
+
+
+अथासौ तद्-वचनं श्रद्धेयतया श्रुत्वा भूयो ऽपि तेन सह प्रस्थितः । अथवा साध्व् इदम् उच्यते-
+
+
+जानन्न् अपि नरो दैवात् प्रकरोति विगर्हितम् ।
+
+कर्म किं कस्यचिल् लोके गर्हितं रोचते कथम् ॥पन्च्४।३७॥
+
+
+अत्रान्तरे सज्जित-क्रमेण सिंहेन स लम्बकर्णो व्यापादितः । ततस् तं हत्वा शृगालं रक्षकं निरूप्य स्वयं स्नानार्थं नद्यां गतः । शृगालेनापि लौल्योत्सुक्यात् तस्य कर्ण-हृदयं भक्षितम् । अत्रान्तरे सिंहो यावत् स्नात्वा कृते देवार्चनः प्रतर्पित-पितृ-गणः समायाति तावत् कर्ण-हृदय-रहितो रासभस् तिष्ठति । तं दृष्ट्वा कोप-परीतात्मा सिंहः शृगालम् आह-पाप ! किम् इदम् अनुचितं कर्म समाचरितम् ? यत् कर्ण-हृदय-भक्षणेनायम् उच्छिष्टतां नीतः ।
+
+
+शृगालः स-विनयम् आह-स्वामिन् ! मा मैवं वद । यत् कर्ण-हृदय-रहितो ऽयं रासभ आसीत्, तेनेहागत्य त्वाम् अवलोक्य भूयो ऽप्य् आगतः ।
+
+
+अथ त्वद्-वचनं श्रद्धेयं मत्वा सिंहस् तेनैव संविभज्य निःशङ्कित-मनास् तं भक्षितवान् ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-आगतश् च गतश् चैव इति । तन् मूर्ख ! कपटं कृतं त्वया । परं युधिष्ठिरेणेव सत्य-वचनेन विनाशितम् । अथवा साध्व् इदम् उच्यते-
+
+
+स्वार्थम् उत्सृज्य यो दम्भी सत्यं ब्रूते सुमन्द-धीः ।
+
+स स्वार्थाद् भ्रश्यते नूनं युधिष्ठिर इवापरः ॥पन्च्४।३८॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+स आह-
+
+कथा ३
+
+युधिष्ठिराख्य-कुम्भकार-कथा
+
+
+कस्मिंश्चित् अधिष्ठाने कुम्भकारः प्रतिवसति स्म । स कदाचित् प्रमादाद् अर्ध-मग्न-खर्पर-तीक्ष्णाग्रस्योपरि महता वेगेन धावन् पतितः । ततः खपर-कोट्या पाटित-ललाई̀ओओ रुधिर-प्लावित-तनुः कृच्छ्राद् उत्थाय स्वाश्रयं गतः । ततश् चापथ्य-सेवनात् स प्रहारस् तस्य करालतां गतः कृच्छ्रेण नीरोगतां नीतः ।
+
+
+अथ कदाचिद् दुर्भिक्ष-पीडिते देशे च कुम्भकारः क्षुत्क्षाम-कण्ठः कैश्चिद् राज-सेवकैः सह देशान्तरं गत्वा कस्यापि राज्ञः सेवको बभूव । सो ऽपि राजा तस्य ललाटे विकरालं प्रहार-क्षतं दृष्ट्वा चिन्तयामास, यद्-वीरः पुरुषः कश्चिद् अयम् । नूनं तेन ललाट-पट्टे सम्मुख-प्रहारः ।
+
+
+अतस् तं समानादिभिः सर्वेषां राज-पुत्राणां मध्ये विशेष-प्रसादेन पश्यति स्म । तेऽपि राज-पुत्रास् तस्य तं प्रसादातिरेकं पश्यन्तं परमेर्ष्या-धर्मं वहन्तो राज-भयान् न किञ्चिद् ऊचुः ।
+
+
+अथान्यस्मिन्न् अहनि तस्य भूपतेर् वीर-सम्भावनायां क्रियमाणायां विग्रहे समुपस्थिते प्रकल्प्यमानेषु गजेषु संनह्यमानेषु वाजिषु योधेषु । प्रगुणीक्रियमाणेषु तेन भूभुजा स कुम्भकारः प्रस्तावानुगतं पृष्टो निर्जने-भो राज-पुत्र ! किं ते नाम ? का च जातिः ? कस्मिन् सङ्ग्रामे प्रहारो ऽयं ते ललाटे लग्नः ?
+
+
+स आह-देव ! नायं शस्त्र-प्रहारः । युधिष्ठिराभिधः कुलालो ऽहं प्रकृत्या । मद्-गेहेऽनेक-खर्पराण्य् आसन् । अथ कदाचिन् मद्य-पानं कृत्वा निर्गतः प्रधावन् खर्परोपरि पतितः । तस्य प्रहार-विकारो ऽयं मे ललाटे एवं विकरालतां गतः ।
+
+
+तद् आकर्ण्य राजा स-व्रीडम् आह-अहो वञ्चितो ऽहं राजापुत्रानुकारिणानेन कुलालेन । तद् दीयतां द्राग् एतस्य चन्द्रार्धः ।
+
+
+तथानुष्ठिते कुम्भकार आह-मा मैवं कुरु । पश्य मे रणे हस्त-लाघवम् ।
+
+
+राजा प्राह-सर्व-गुण-सम्पन्नो भवान् । तथापि गम्यताम् । उक्तं च-
+
+
+शूद्रश् च कृत-विघ्नश् च दर्शनीयो ऽसि पुत्रक ।
+
+यस्मिन् कुले त्वम् उत्पन्नो गजस् तत्र न हन्यते ॥पन्च्४।३९॥
+
+
+कुलाल आह-कथम् एतत् ?
+
+
+राजा कथयति-
+
+कथा ४
+
+सिंह-दम्पती-कथा
+
+
+कस्मिंश्चिद् उद्देशे सिंह-दम्पती प्रतिवसतः स्म । अथ सिंही पुत्र-द्वयम् अजीजनत् । सिंहो ऽपि नित्यम् एव मृगान् व्यापाद्य सिंह्यै ददाति । अथान्यस्मिन् अहनि तेन किम् अपि नासादितम् । येन भ्रमतो ऽपि तस्य रविर् अस्तं गतः । अथ तेन स्व-गृहम् आगच्छता शृगाल-शिशुः प्राप्तः । स च बालको ऽयम् इत्य् अवधार्य यत्नेन दंष्ट्रामध्य-गतं कृत्वा सिंह्या जीवन्तम् एव समर्पितवान् । ततः सिंह्याभिहितम्-भोः कान्त ! त्वयानीतं किञ्चिद् अस्माकं भोजनम् ?
+
+
+सिंह आह-प्रिये ! मयाद्यैनं शृगाल-शिशुं परित्यज्य न किञ्चित् सत्त्वम् आसादितम् । स च मया बालो ऽयम् इति मत्वा न व्यापादितो विशेषात् स्वजातीयश् च । उक्तं च-
+
+
+स्त्री-विप्रलिङ्गि-बालेषु प्रहर्तव्यं न कर्हिचित् ।
+
+प्राण-त्यागेऽपि सञ्जाते विश्वस्तेषु विशेषतः ॥पन्च्४।४०॥
+
+
+इदानीं त्वम् एनं भक्षयित्वा पथ्यं कुरु । प्रभातेऽन्यत् किञ्चिद् उपार्जयिष्यामि । सा प्राह-भोः कान्त ! त्वया बालको ऽयम् इति विचिन्त्य न हतः । तत् कथम् एनम् अहं स्वोदरार्थे विनाशयामि । उक्तं च-
+
+
+अकृत्यं नैव कर्तव्यं प्राण-त्यागेऽप्य् उपस्थिते ।
+
+न च कृत्यं परित्याज्यम् एष धर्मः सनातनः ॥पन्च्४।४१॥
+
+
+तस्मान् ममायं तृतीयः पुत्रो भविष्यति । इत्य् एवम् उक्त्वा तम् अपि स्वस्तन-क्षीरेण परां पुष्टिम् अनयत् । एवं ते त्रयो ऽपि शिशवः परस्परम् अज्ञात-जाति-विशेषा एकाचार-विहारा बाल्य-समयं निर्वाहयन्ति । अथ कदाचित् तत्र वने भ्रमन्न् अरण्य-गजः समायातः । तं दृष्ट्वा तौ सिंह-सुतौ द्वाव् अपि कुपिताननौ तं प्रति प्रचलितौ यावत् तावत् तेन शृगाल-सुतेनाभिहितम्-अहो ! गजो ऽयं युष्मत्-कुल-शत्रुः । तन् न गन्तव्यम् एतस्याभिमुखम् ।
+
+
+एवम् उक्त्वा गृहं प्रधावितः । ताव् अपि ज्येष्ठ-बान्धव-भङ्गान् निरुत्साहतां गतौ । अथवा साध्व् इदम् उच्यते-
+
+
+एकेनापि सुधीरेण सोत्साहेन रणं प्रति ।
+
+सोत्साहं जायते सैन्यं भग्ने भङ्गम् अवाप्नुयात् ॥पन्च्४।४२॥
+
+
+तथा च-
+
+अत एव वाञ्छन्ति भूपा योधान् महाबलान् ।
+
+शूरान् वीरान् कृतोत्साहान् वर्जयन्ति च कातरान् ॥पन्च्४।४३॥
+
+
+अथ तौ द्वाव् अपि गृहं प्राप्य पित्रोर् अग्रतो ज्येष्ठ-भ्रातृ-चेष्टितम् ऊचतुः-यथा गजं दृष्ट्वा दूरतो ऽपि नष्टः ।
+
+
+सो ऽपि तद् आकर्ण्य कोपाविष्ट-मनाः प्रस्फुरिताधर-पल्लवस् ताम्रलोचनस् त्रिशिखां भ्रुकुटिं कृत्वा तौ निर्भर्त्सयन् परुषतर-वचनान्य् उवाच-ततः सिंह्यै कान्ते नीत्वा प्रबोधितो ऽसौ-वत्स ! मैवं कदाचिज् जल्प । भवदीय-लघु-भ्रातराव् एतौ ।
+
+
+अथासौ प्रभूत-कोपाविष्टस् ताम् उवाच-किम् अहम् एताभ्यां शौर्येण रूपेण विद्याभ्यासेन कौशलेन वा हीनः ? येन माम् उपहसतः । तन् मयावश्यम् एतौ व्यापादनीयौ ।
+
+
+तद् आकर्ण्य सिंही तस्य जीवितम् इच्छन्त्य् अन्तर् विहस्य प्राह-तत् सम्यक् शृणु । त्वं शृगाली-सुतः । कृपया मया स्वस्तन-क्षीरेण पुष्टिं नीतः । तद् यावद् एतौ मत्-पुत्रौ शिशुत्वात् त्वां शृगालं न जानीतः, तावद् द्रुततरं गत्वा स्वजातीयानां मध्ये भव । नो चेद् आभ्यां हतो मृत्यु-पथं समेष्यसि । सो ऽपि तद्-वचनं श्रुत्वा भय-व्याकुल-मनाः शनैः शनैर् अपसृत्य स्व-जात्या मिलितः । तस्मात् त्वं अपि यावद् एते राज-पुत्रास् त्वां कुलालं नजानन्ति, तावद् द्रुततरम् अपसर । नो चेद् एतेषां सकाशाद् विडम्बनां प्राप्य मरिष्यामि । कुलालो ऽपि तद् आकर्ण्य सत्वरं प्रणष्टः ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-स्वार्थम् उत्सृज्य यो दम्भी (३८) इति ।
+
+
+धिङ् मूर्ख ! यत् त्वया स्त्रियो ऽर्थ एतत्-कार्यम् अनुष्ठातुम् आरब्धम् । न हि स्त्रीणां कथञ्चिद् विश्वासम् उपगच्छेत् । उक्तं च-
+
+
+यद्-अर्थे स्व-कुलं त्यक्तं जीवितार्धं च हारितम् ।
+
+सा मां त्यजति निःस्नेहा कः स्त्रीणां विश्वसेन् नरः ॥पन्च्४।४४॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+वानर आह-
+
+
+कथा ५
+
+ब्राह्मण-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने को ऽपि ब्राह्मणः । तस्य च भार्या प्राणेभ्यो ऽप्य् अतिप्रियासीत् । सो ऽपि प्रतिदिनं कुटुम्बेन सह कलहं कुर्वाणा न विश्राम्यति । सो ऽपि ब्राह्मणः कलहम् असहमानो भार्या-वात्सल्यात् स्व-कुटुम्बं परित्यज्य ब्राह्मण्या सह विप्रकृष्टं देशान्तरं गतः । अथ महाटवी-मध्ये ब्राह्मण्याभिहितः-आर्य-पुत्र ! तृष्णा मां बाधते । तद् उदकं क्वाप्य् अन्वेषय ।
+
+
+अथासौ तद्-वचनानन्तरं यावद्-उदकं गृहीत्वा समागच्छति तावत् तां मृताम् अपश्यत् । अतिवल्लभतया विषादं कुर्वन् यावद् विलपति तावद् आकाशे वाचं शृणोति । यथा हि-यदि ब्राह्मण त्वं स्वकीय-जीवितस्यार्धं ददासि ततस् ते जीवति ब्राह्मणी ।
+
+
+तच् छ्रुत्वा ब्राह्मणेन शुचीभूय तिसृभिर् वाचोभिः स्वजीवितार्धं दत्तम् । वाक्-समम् एव च ब्राह्मणी जीविता सा । अथ तौ जलं पीत्वा वन-फलानि भक्षयित्वा गन्तुम् आरब्धौ । ततः क्रमेण कस्यचिन् नगरस्य प्रदेशे पुष्प-वाटिकां प्रविश्य ब्राह्मणो भार्याम् अभिहितवान्-भद्रे, यावद् अहं भोजनं गृहीत्वा समागच्छामि तावद् अत्र त्वया स्थातव्यम् ।
+
+
+इत्य् अभिधाय ब्राह्मणो नगर-मध्ये जगाम । अथ तस्यां पुष्प-वाटिकायां पङ्गुर अर-घट्टं खेलयन् दिव्य-गिरा गीतम् उद्गिरति । तच् च श्रुत्वा कुसुमेषुणार्दिता ब्राह्मण्या तत्-सकाशं गत्वाभिहितम्-भद्र ! यर्हि मां न कामयसे, तन् मत्-सक्ता स्त्री-हत्या तव भविष्यति ।
+
+
+पङ्गुर् अब्रवीत्-किं व्याधि-ग्रस्तेन मया करिष्यसि ?
+
+
+साब्रवीत्-किम् अनेनोक्तेन ? अवश्यं त्वया सह मया सङ्गमः कर्तव्यः ।
+
+
+तच् छ्रुत्वा तथा कृतवान् । सुरतानन्तरं साब्रवीत्-इतः-प्रभृति यावज्-जीवं मयात्मा भवते दत्तः । इति ज्ञात्वा भवान् अप्य् अस्माभिः सहागच्छतु ।
+
+
+सो ऽब्रवीत्-एवम् अस्तु ।
+
+
+अथ ब्राह्मणो भोजनं गृहीत्वा समागत्य तया सहभोक्तुम् आरब्धः साब्रवीत्-एष पङ्गुर् बुभुक्षितः । तद् एतस्यापि कियन्तम् अपि ग्रासं देहि इति ।
+
+
+तथानुष्ठिते ब्राह्मण्याभिहितं-ब्राह्मण, सहाय-हीनस् त्वं यदा ग्रामान्तरं गच्छसि, तदा मम वचन-सहायो ऽपि नास्ति । तद् एनं पङ्गुं गृहीत्वा गच्छावः ।
+
+
+सो ऽब्रवीत्-न शक्नोम्य् आत्मानम् अप्य् आत्मनां वोढुम् । किं पुनर् एनं पङ्गुम् ?
+
+
+साब्रवीत्-पेटाभ्यन्तर-स्थम् एनम् अहं नेष्यामि ।
+
+
+अथ तत्-कृतक-वचन-व्यामोहित-चित्तेन तेन प्रतिपन्नम् । तथानुष्ठितेऽन्यस्मिन् दिने कूपोपकण्ठे विश्रान्तो ब्राह्मणस् तया च पङ्गु-पुरुषासक्तया सम्प्रेर्य कूपान्तः पातितः । सापि पङ्गुं गृहीत्वा कस्मिंश्चिन् नगरे प्रविष्टा । तत्र शुल्क-चौर्य-रक्षा-निमित्तं राज-पुरुषैर् इतस् ततो भ्रमद्भिस् तन्-मस्तक-स्था पेटी दृष्टा बलाद् आच्छिद्य राजाग्रे नीता । राजा च यावत् ताम् उद्घाटयति तावत् तं पङ्गुं ददर्श । ततः सा ब्राह्मणी विलापं कुर्वती राज-पुरुषानुपदम् एव तत्रागता । राज्ञा पृष्टा-को वृत्तान्तः ? इति ।
+
+
+साब्रवीत्-ममैष भर्ता व्याधि-बाधितो दायाद-समूहैर् उद्वेजितो मया स्नेह-व्याकुलित-मानसया शिरसि कृत्वा भवदीय-नगर आनीतः ।
+
+
+तच् छ्रुत्वा राजाब्रवीत्-ब्राह्मणि ! त्वं मे भगिनी । ग्राम-द्वयं गृहीत्वा भर्ता सह भोगान् भुञ्जाना सुखेन तिष्ठ ।
+
+
+अथ स ब्राह्मणो दैव-वशात् केनापि साधुना कूपाद् उत्तारितः परिभ्रमंस् तद् एव नगरम् आयातः । तया दुष्ट-भार्यया दृष्टा राज्ञे निवेदितः-राजन् ! अयं मम भर्तुर् वैरी समायातः ।
+
+
+राज्ञापि वध आदिष्टः । साब्रवीत्-देव, अनया मम सक्तं किञ्चित् गृहीतम् अस्ति । यदि त्वं धर्म-वत्सलः, तद् दापय ।
+
+
+राजाब्रवीत्-भद्रे ! यत् त्वयास्य सक्तं किञ्चित् गृहीतम् अस्ति तत् समर्पय ।
+
+
+सा प्राह-देव, मया न किञ्चिद् गृहीतम् ।
+
+
+ब्राह्मण आह-यन् मया त्रिवाचिकं स्व-जीवितार्धं दत्तम्, तद् देहि ।
+
+
+अथ सा राज-भयात् तत्रैव त्रिवाचिकम् एव जीवितार्धम् अनेन दत्तम् इति जल्पन्ती प्राणैर् विमुक्ता । ततः स-विस्मयं राजाब्रवीत्-किम् एतत् इति । ब्राह्मणेनापि पूर्व-वृत्तान्तः सकलो ऽपि तस्मै निवेदितः ।
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-यद्-अर्थे स्व-कुलं त्यक्तम् (४४) इति ।
+
+
+वानरः पुनर् आह-साधु चेदम् उपाख्यानकं श्रूयते-
+
+
+न किं दद्यान् न किं कुर्यात् स्त्रीभिर् अभ्यर्थितो नरः ।
+
+अनश्वा यत्र ह्रेषन्ते शिरः पर्वणि मुण्डितम् ॥पन्च्४।४५॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+वानरः कथयति-
+
+
+कथा ६
+
+
+अतिप्रख्यात-बल-पौरुषो ऽनेक-नरेन्द्र-मुकुट-मरीचि-जाल-जटिली-कृत-पाद-पीठः शरच्-छशाङ्क-किरण-निर्मल-यशाः समुद्र-पर्यन्तायाः पृथिव्या भर्ता नन्दो नाम राजा । यस्य सर्व-शास्त्राधिगत-समस्त-तत्त्वः सचिवो वररुचिर् नाम । तस्य च प्रणय-कलहेन जाया कुपिता । सा चातीव वल्लभानेक-प्रकारं परितोष्यमाणापि न प्रसीदति । ब्रवीति च भर्ता-भद्रे ! येन प्रकारेण तुष्यति तं वद । निश्चितं करोमि ।
+
+
+ततः कथञ्चित् तयोक्तं-यदि शिरो मुण्डयित्वा मम पादयोर् निपतसि, तदा प्रसादाभिमुखी भवामि ।
+
+
+तथानुष्ठिते प्रसन्नासीत् । अथ नन्दस्य भार्यापि तथैव रुष्टा प्रसाद्यमानापि न तुष्यति । तेनोक्तम्-भद्रे ! त्वया विना मुहूर्तम् अपि न जीवामि । पादयोः पतित्वा त्वां प्रसादयामि ।
+
+
+साब्रवीत्-यदि खलीनं मुखे प्रक्षित्याहं तव पृष्ठे समारुह्य त्वां धावयामि । धावितस् तु यद्य् अश्ववद् ध्रेषसे, तदा प्रसन्ना भवामि ।
+
+
+राज्ञापि तथैवानुष्ठितम् । अथ प्रभात-समये सभायाम् उपविष्टस्य राज्ञः समीपे वररुचिर् आयातः । तं च दृष्ट्वा राजा पप्रच्छ-भो वररुचे ! किं पर्वणि मुण्डितं शिरस् त्वया ?
+
+
+सो ऽब्रवीत्-न किं दद्यात् (४५) इत्य् आदि । तद् भो दुस्ट मकर ! त्वम् अपि नन्द-वररुचि-वत् स्त्री-वश्यः । ततो भद्र आगतेन त्वया मां प्रति वधोपाय-प्रयासः प्रारब्धः । परं स्व-वाग्-दोषेणैव प्रकटीभूतः । अथवा साध्व् इदम् उच्यते-
+
+
+आत्मनो मुख-दोषेण बध्यन्ते शुक-सारिकाः ।
+
+बकास् तत्र न बध्यन्ते मौनं सर्वार्थ-साधनम् ॥पन्च्४।४६॥
+
+
+तथा च-
+
+सुगुप्तं रक्ष्यमाणो ऽपि दर्शयन् दारुणं वपुः ।
+
+व्याघ्र-चर्म-प्रतिच्छन्नो वाक्-कृते रासभो हतः ॥पन्च्४।४७॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+वानरः कथयति-
+
+
+कथा ८
+
+शुद्धपट-नाम-रजक-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने शुद्धपटो नाम रजकः प्रतिवसति स्म । तस्य च गर्दभ एको ऽस्ति । सो ऽपि घासाभावाद् अतिदुर्बलतां गतः । अथ तेन रजकेनाटव्यां परिभ्रमता मृत-व्याघ्रो दृष्टः । चिन्तितं च-अहो ! शोभनम् आपतितम् । अनेन व्याघ्र-चर्मणा प्रतिच्छाद्य रासभं रात्रौ यव-क्षेत्रेषूत्स्रक्ष्यामि । येन व्याघ्रं मत्वा समीप-वर्तिनः क्षेत्र-पाला एनं न निष्कासयिष्यन्ति ।
+
+
+तथानुष्ठिते रासभो यथेच्छया यव-भक्षणं करोति । प्रत्यूषे भूयो ऽपि रजकः स्वाश्रयं नयति । एवं गच्छता कालेन स रासभः पीवर-तनुर् जातः । कृच्छ्राद् बन्धन-स्थानम् अपि नीयते । अथान्यस्मिन्न् अहनि स मधोद्धतो दूराद् रासभी-शब्दम् अशृणोत् । तच्-छ्रवण-मात्रेणैव स्वयं शब्दयितुम् आरब्धः ।
+
+
+अथ ते क्षेत्र-पाला रासभो ऽयं व्याघ्र-चर्म-प्रतिच्छन्न इति ज्ञात्वा लगुड-शर-पाषाण-प्रहारैस् तं व्यापादितवन्तः ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-सुगुप्तं रक्ष्यमाणो ऽपि (४७) इति । तत् किं श्यामलकवद् अत्यपमान-सहनाद् अर्ध-चन्द्र-दानेन यास्यसि ।
+
+
+मकर आह-कथम् एतत् ?
+
+
+वानर आह-
+
+कथा ९
+
+महाधन-ईश्वर-नाम-भाण्डपति-कथा
+
+
+अस्त्य् अत्र धरा-पीठे विकण्टकं नाम पुरम् । तत्र महा-धन ईश्वरो नाम भाण्ड-पतिः । तस्य चत्वारो जामातृका अवन्ती-पीठात् प्राघूर्णिका विकण्टक-पुरे समायाताः । ते च येन महता गौरवेणाभ्यर्चिता भोजानाच्छादनादिभिः । एवं तेषां तत्र वसतां मास-षट्कं सञ्जातम् । तत ईश्वरेण स्वभार्योक्ता यद् एते जामातरः परम-गौरवेणावर्जिताः स्वामि गृहाणि न गच्छन्ति, तत् किं कथ्यते ? विनापमानं न यास्यन्ति । तद् अद्य भोजन-वेलायां पाद-प्रक्षालनार्थं जलं न देयं येनापमानं ज्ञात्वा परित्यज्य गच्छन्तीति ।
+
+तथानुष्ठिते गर्गः पाद-प्रक्षालनापमानात्, सोमो लघ्व्-आसन-दानात्, दत्तः कदशनतो यातः । एवं ते त्रयो ऽपि परित्यज्य गताः । चतुर्थः श्यामलको यावन् न याति तावद् अर्ध-चन्द्र-प्रदानेन निष्कासितः ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-
+
+
+गर्गो हि पाद-शौचाल् लघ्व्-आसन-दानतो गतः सोमः ।
+
+दत्तः कदशन-भोज्याच् छ्यामलकश् चार्ध-चन्द्रेण ॥पन्च्४।४८॥
+
+
+तत् किम् अहं रथकारवन् मूर्खो यतः स्वयम् अपि दृष्ट्वा ते विकार-पश्चाद् विश्वसिमि । उक्तं च-
+
+
+प्रत्यक्षेऽपि कृते पापे मूर्खः साम्ना प्रशाम्यति ।
+
+रथकारः स्वकां भार्यां सजारां शिरसावहत् ॥पन्च्४।४९॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+वानरः कथयति-
+
+
+कथा १०
+
+रथकार-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने कश्चिद् रथकारः प्रतिवसति स्म । तस्य भार्या पुंशलीति जनापवाद-संयुक्ता । सो ऽपि तस्याः परीक्षार्थं व्यचिन्तयत्-कथं मयास्याः परीक्षणं कर्तव्यम् । न चैतद् युज्यते कर्तुं, यतः-
+
+
+नदीनां च कुलानां च मुनीनां च महात्मनाम् ।
+
+परीक्षा न प्रकर्तव्या स्त्रीणां दुश्चरितस्य च ॥पन्च्४।४९॥
+
+
+वसोर् वीर्योत्पन्नाम् अभजत मुनिर् मत्स्य-तनयां
+
+तथा जातो व्यासो शत-गुण-निवासः किम् अपरम् ।
+
+स्वयं वेदान् व्यस्यन् शमित-कुरु-वंश-प्रसविता
+
+स एवाभा̆च् छ्रीमान् अहह विषमा कर्म-गतयः ॥पन्च्४।५०॥
+
+
+कुलानाम् इति पाण्डवानाम् अपि महात्मनां नोत्पत्तिर् अधिगन्तव्या यतः ते क्षेत्रजा इति । स्त्री-दुश्चरितं सन्धुक्ष्यमाणम् अनेक-दोषान् प्रकटयति स्त्रीणाम् इति । तथा च-
+
+
+यदि स्यात् पावकः शीतः प्रोष्णो वा शश-लाञ्छनः ।
+
+स्त्रीणां तदा सतीत्वं स्याद् यदि स्याद् दुर्जनो हितः ॥पन्च्४।५१॥
+
+
+यथापि शुद्धाम् अशुद्धां वापि जानामि लोक-वचनात् । उक्तं च-
+
+
+यन् न वेदेषु शास्त्रेषु न दृष्टं न च संश्रुतम् ।
+
+तत् सर्वं वेत्ति लोको ऽयं यत् स्याद् ब्रह्माण्ड-मध्यगम् ॥पन्च्४।५२॥
+
+
+एवं सम्प्रधार्य ताम् अवोचत-प्रिये, अहं प्रातर् ग्रामान्तरं यास्यामि तत्र दिनानि कतिचिल् लगिष्यन्ति । तत् त्वया किञ्चित् पाथेयं मम योग्यं कार्यम् ।
+
+
+सापि तद् आकर्ण्य हर्षित-चित्तौत्सुक्येन सर्व-कार्याणि सन्त्यज्य सिद्धम् अन्नं घृत-शर्करा-प्रायम् अकरोत् । अथवा साध्व् इदम् उच्यते-
+
+
+दुर्दिवसे घन-तिमिरे दुःख-चारासु नगर-वीथीषु ।
+
+पत्यौ विदेश-याते परम-सुखं जघन-चपलायाः ॥पन्च्४।५३॥
+
+
+अथासौ प्रत्यूषे उत्थाय स्व-गृहान् निर्गतः । सापि तं प्रस्थितं विज्ञाय प्रहसित-वदनाङ्ग-सत्कारं कुर्वाणा कथञ्चित् तं दिवसम् अत्यवाहयत् । ततश् च पूर्व-परिचितं विट-गृहं गत्वा तम् अभ्यर्थोक्तवती यद्-ग्रामान्तरं गतः स दुरात्मा मे पतिः । तद् अद्य त्वयास्मद्-गृहे प्रसुप्ते जने समागन्तव्यम् ।
+
+
+तथानुष्ठिते स रथकारो ऽप्य् अरण्ये दिनम् अतिवाह्य प्रदोषे स्व-गृहम् अपर-द्वारेण प्रविष्टः शय्या-तले निभृतो भूत्वा स्थितः । अत्रान्तरे स देवदत्तः शयन आगत्योपविष्टः । तं दृष्ट्वा रथकारो रोषाविष्ट-चित्तो व्यचिन्तयत्-किम् एनम् उत्थाय विनाशयाम्य् अथवा द्वाव् अप्य् एतौ सुप्तौ हेलया हन्मि । परं पश्यामि तावच् चेष्टितम् अस्याः शृणोमि चानेन सहालापान् । अत्रान्तरे सा गृह-द्वारं निभृतं पिधाय शयन-तलम् आरूढा । तस्यास् तच्-छयनम् आरोहन्त्या रथकार-शरीरे पादो लग्नः । ततो व्यचिन्तयत्-नूनम् एतेन दुरात्मना रथकारेण मत्-परीक्षार्थं भाव्यम् । तत्-स्त्री-चरित-विज्ञानं किम् अपि करोमि । एवं तस्याश् चिन्तयन्त्याः स देवदत्तः स्पर्शोत्सुक्यो बभूव । ततश् च तयाकृताऊजलि-पुटयाभिहितं-भो
+
+महानुभव ! न मे गात्रं त्वया स्प्रष्टव्यम्, यतो ऽहं पतिव्रता महा-सती च । नो चेच् छापं दत्त्वा त्वां भस्मसात् करिष्यामि ।
+
+
+स आह-यद्य् एवं तर्हि किम् अर्थं त्वयाहूतः ?
+
+
+सा प्राह-भोः ! शृणुष्वैकाग्र-मनाः । अहम् अद्य प्रत्यूषे देवता-दर्शनार्थं चण्डिकायतनं गता । तत्राकस्मात् खे वाणी सञ्जाता-पुत्रि, किं करोमि । भक्तासि मे त्वम् । परं षण्मासाभ्यन्तरे विधि-नियोगाद् विधवा भविष्यसि । ततो मयाभिहितं-भगवति ! यया त्वम् आपदं वेत्सि तथा तत्-पर्तीकारम् अपि जानासि । तद् अस्ति कश्चिद् उपायो येन मे पतिः शत-संवत्सर-जीवी भवति । ततस् तयाभिहितं-वत्से, सन्न् अपि नास्ति यतस् तवायत्तः स प्रतीकारः । तच् छ्रुत्वा मयाभिहितं-देवि ! यन् मत्-प्राणैर् भवति तद् आदेशय येन करोमि । ततो देव्याभिहितं-यद्य् अद्य दिने पर-पुरुषेण सहैकस्मिञ् छयने समारुह्यालिङ्गनं करोषि, तदा तव भर्तृ-सक्तो ऽपमृत्युस् तस्य सञ्चरित, त्वद्-भर्ता पुनर् वर्ष-शतं जीवति । तेन मया त्वम् अभ्यर्थितः । तयो
+
+यत् किञ्चित् कर्तुम् अनास् तत् कुरुष्व, नहि देवता-वचनम् अन्यथा भविष्यतीति निश्चयः । ततो ऽन्तर्हास-विकास-मुखः स तद्-उचितम् आचचार ।
+
+
+सो ऽपि रथकारो मूर्खस् तस्यास् तद्-वचनम् आकर्ण्य पुलकाङ्कित-तनुः शय्या-तलान् निष्क्रम्य ताम् उवाच-साधु पतिव्रते ! साधु कुल-नन्दिनि ! साधु ! अहं दुर्जन-वचन-शङ्कित-हृदयस् त्वत्-परीक्षार्थं ग्रामान्तर-व्याजं कृत्वात्र निभृतं खट्वा-तले लीनः स्थितः । तद् एहि, आलिङ्गय माम् । त्वं स्व-भर्तृ-भक्तानां मुख्या नारीणां, यद् एवं ब्रह्म-व्रतं पर-सङ्गेऽपि पालितवती । मद्-आयुर्-वृद्धि-कृतेऽपमृत्यु-विनाशार्थं च त्वम् एवं कृतवती । ताम् एवम् उक्त्वा स-स्नेहम् आलिङ्गितवान् । स्व-स्कन्धे ताम् आरोप्य तम् अपि देवदत्तम् उवाच-भोः महानुभाव ! मत्-पुण्यैस् त्वम् इहागतः । त्वत्-प्रसादात् प्राप्ताम् अद्य मया वर्ष-शत-प्रमाणम् आयुः । ततस् त्वम् अपि मां समालिङ्गय स्कन्धं मे समारोह । इति जल्पन्न् अनिच्छन्तम्
+
+अपि देवदत्तं बलाद् आलिङ्ग्य स्कन्धे समारोपितवान् । ततश् च तूर्य-ध्वनि-च्छन्देन नृत्यन् सकल-गृह-द्वारेषु बभ्राम ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-प्रत्यक्षेऽपि कृते पापे (४९) । तन् मूढ ! दृष्ट-विकारस् त्वम्, तत् कथं तत्र गृहं गच्छामि । अथवा यन् मां त्वं विश्वासयसि तत् ते दोषो नास्ति, यत् ईदृशी स्वभाव-दुष्टा युष्मज्-जातिर् या शिष्ट-सङ्गाद् अपि सौम्यत्वं न याति । अथवा स्वभावो ऽयं दुष्टानाम् । उक्तं च-
+
+
+सद्भिः सम्बोध्यमानो ऽपि दुरात्मा पाप-पौरुषः ।
+
+घृष्यमाण इवाङ्गारो निर्मलत्वं न गच्छति ॥पन्च्४।५४॥
+
+
+तन् मूर्ख ! स्त्री-लुब्ध ! स्त्री-जित ! अन्येऽपि ये त्वद्-विधा भवन्ति ते स्व-कार्यं विभवं मित्रं च परित्यजन्ति तत्-कृते । उक्तं च-
+
+
+या ममोद्विजते नित्यं साद्य माम् अवगूहते ।
+
+प्रिय-कारक भद्रं ते यन् ममास्ति हरस्व तत् ॥पन्च्४।५५॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+वानरो ऽब्रवीत्-
+
+
+कथा ११
+
+कामातुर-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने कामातुरो नाम महाधनो वृद्ध-वणिक् । तेन मृत-भार्येण कामोपहत-चेतसा काचिन् निर्धन-वणिक्-सुता प्रभूतं वित्तं दत्त्वोद्वाहिता । अथ सा दुःखाभिभूता तं वृद्ध-वणिजं द्रष्टुम् अपि न शशाक । अथवा साध्व् इदम् उच्यते-
+
+
+श्वेतं पदं शिरसि यत् तु शिरोरुहाणां
+
+स्थानं परं परिभवस्य तद् एव पुंसाम् ।
+
+आरोपितास्थि-शकलं परिहृत्य यान्ति
+
+चाण्डाल-कूपम् इव दूरतरं तरुण्यः ॥पन्च्४।५६॥
+
+
+तथा च-
+
+गात्रं सङ्कुचितं गति-विगलिता दन्ताश् च नाशं गताह्
+
+दृष्टिर् भ्राम्यति रूपम् एव ह्रसते वक्त्रं च लालायते ।
+
+वाक्यं नैव करोति बान्धव-जनः पत्नी न शुश्रूषते
+
+हा कष्टं जरयाभिभूत-पुरुषः पुत्रैर् अवज्ञायते ॥पन्च्४।५७॥
+
+
+अथ कदाचित् सा तेन सहैक-शयने पराङ्-मुखी यावत् तिष्ठति तावत् तस्य गृहे चौरः प्रविष्टः । सापि तं चौरम् अवलोक्य भय-व्याकुला वृद्धम् अपि पतिं गाढं समालिलिङ्ग । सो ऽपि विस्मयात् पुलकाङ्कित-सर्व-गात्रश् चिन्तयामास-अहो ! किम् एषा माम् अद्यावगूहते । अहो चित्रम् एतत् ! ततश् च यावन् निपुणतयावलोकयति तावत् चौरः प्रविष्टः कोणैक-देशे तिष्ठति । पुनर् अप्य् अचिन्तयत्-नूनम् एषा चौरस्य भयान् माम् आलिङ्गति । तज् ज्ञात्वा चौरम् आह-या ममोद्विजते नित्यं साद्य (५५) इति । भूयो ऽपि निर्गच्छन्तम् अवादीत्-भो चोर ! नित्यम् एव त्वया रात्राव् आगन्तव्यं मदीयो ऽयं विभवस् त्वदीय इति ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-या ममोद्विजते इत्य् आदि । किं बहुना, तेन च स्त्री-लुब्धेन स्वं सर्वं चौरस्य समर्पितम् । त्वयापि तथानुष्ठितम् ।
+
+
+अथैव तेन सह वदतो मकरस्य जलचरेणैकेनागत्याभिहितम्-भो मकर ! त्वदीया भार्यानशनोपविष्टा त्वयि चिरयति प्रणयाभिभवाद् विपन्ना । एवं तद्-वज्र-पात-सदृश-वचनम् आकर्ण्यातीव्र-व्याकुलित-हृदयः प्रलपितम् एवं चकार-अहो किम् इदं सञ्जातं मे मन्द-भागस्य । उक्तं च-
+
+
+न गृहं गृहम् इत्य् आहुर् गृहिणी गृहम् उच्यते ।
+
+गृहं तु गृहिणी-हीनं कान्तारान् नातिरिच्यते ॥पन्च्४।५८॥
+
+
+अन्यच् च-
+
+वृक्ष-मूलेऽपि दयिता यत्र तिष्ठति तद् गृहम् ।
+
+प्रासादो ऽपि तया हीनो ऽरण्य-सदृशः स्मृतः ॥पन्च्४।५९॥
+
+माता यस्य गृहे नास्ति भार्या च प्रिय-वादिनी ।
+
+अरण्यं तेन गन्तव्यं यथारण्यं तथा गृहम् ॥पन्च्४।६०॥
+
+
+तन् मित्र ! क्षम्यताम् । मया तेऽपराधः कृतः । सम्प्रत्य् अहं तु स्त्री-वियोगाद् वैश्वानर-प्रवेशं करिष्यामि । तन् मूढ ! आनन्देऽपि जाते त्वं विषादं गतः । तादृग्-भार्यायां मृतायाम् उत्सवः कर्तुं युज्यते । उक्तं च यतः-
+
+
+या भार्या दुष्ट-चरित्रा सततं कलह-प्रिया ।
+
+भार्या-रूपेण सा ज्ञेया विदग्धैर् दारुणा जरा ॥पन्च्४।६१॥
+
+तस्मात् सर्व-प्रयत्नेन नामापि परिवर्जयेत् ।
+
+स्त्रीणाम् इह हि सर्वासां य इच्छेत् सुखम् आत्मनः ॥पन्च्४।६२॥
+
+यद्-अन्तस् तन् न जिह्वायां यज् जिह्वायां न तद्-बहिः ।
+
+यद्-बहिस् तन् न कुर्वन्ति विचित्र-चरिताः स्त्रियः ॥पन्च्४।६३॥
+
+के नाम न विनश्यन्ति मिथ्या-ज्ञानान् नितम्बिनीम् ।
+
+रम्यां ते उपसर्पन्ति दीपाभां शलभा यथा ॥पन्च्४।६४॥
+
+अन्तर्-विष-मया ह्य् एता बहिश् चैव मनोरमाः ।
+
+गुञ्जा-फल-समाकारा योषितः केन निर्मिताः ॥पन्च्४।६५॥
+
+ताडिता अपि दण्डेन शस्त्रैर् अपि विखण्डिताः ।
+
+न वशं योषितो यान्ति न दानैर् न च संस्तवैः ॥पन्च्४।६६॥
+
+आस्तां तावत् किम् अन्येन दौरात्म्येनेह योषिताम् ।
+
+विधृतं स्वोदरेणापि घ्नन्ति पुत्रम् अपि स्वकम् ॥पन्च्४।६७॥
+
+रूक्षायां स्नेह-सद्-भावं कठोरायां सुमार्दवम् ।
+
+नीरसायां रसं बालो बालिकायां विकल्पयेत् ॥पन्च्४।६८॥
+
+
+मकर आह-भो मित्र ! अस्त्व् एतत् । परं किं करोमि ? ममानर्थ-द्वयम् एतत् सञ्जातम् । एकस् तावद् गृह-भङ्गः । अपरस् त्वद्-विधेन मित्रेण सह चित्त-विश्लेषः । अथवा भवत्य् एवं दैव-योगात् । उक्तं च यतः-
+
+
+यादृशं मम पाण्डित्यं तादृशं द्विगुणं तव ।
+
+नाभूज् जारो न भर्ता च किं निरीक्षसि नग्निके ॥पन्च्४।६९॥
+
+
+वानर आह-कथम् एतत् ?
+
+
+मकरो ऽब्रवीत्-
+
+कथा १२
+
+हालिक-दम्पती-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने हालिक-दम्पती प्रतिवसतः स्म । सा च हालिक-भार्या पत्युर् वृद्ध-भावात् सदैवान्य-चित्ता न कथञ्चिद् गृहे स्थैर्यम् आलम्बते । केवलं पर-पुरुषान् अन्वेषमाणा परिभ्रमति । अथ केनचित् पर-वित्तापहारकेण धूर्तेन सा लक्षिता विजने प्रोक्ता च-सुभगे ! मृत-भार्यो ऽहम् । त्वद्-दर्शनेन स्मर-पीडितश् च । तद् दीयतां मे रति-दक्षिणा ।
+
+
+ततस् तयाभिहितम्-भोः सुभग ! यद्य् एवं तद् अस्ति मे पत्युः प्रभूतं धनम् । स च वृद्धत्वात् प्रचलितुम् अप्य् असमर्थः । ततस् तद्-धनम् आदायाहम् आगच्छामि । येन त्वया सहान्यत्र गत्वा यथेच्छया रति-सुखम् अनुभविष्यामि ।
+
+
+सो ऽब्रवीत्-रोचते मह्यम् अप्य् एतत् । तत् प्रत्यूषेऽत्र स्थाने शीघ्रम् एव समागन्तव्यम्, येन शुभतरं किञ्चिन् नगरं गत्वा त्वया सह जीव-लोकः सफलीक्रियते ।
+
+
+सापि तथेति प्रतिज्ञाय प्रहसित-वदना स्व-गृहं गत्वा रात्रौ प्रसुप्ते भर्तरि सर्वं वित्तम् आदाय प्रत्यूष-समये तत्-कथित-स्थानम् उपाद्रवत् । धूर्तो ऽपि ताम् अग्रे विधाय दक्षिणां दिशम् आश्रित्य सत्वर-गतिः प्रस्थितः ।
+
+
+एवं तयोर् व्रजतोर् योजन-द्वय-मात्रेणाग्रतः काचिन् नदी समुपस्थिता । तां दृष्ट्वा धूर्तश् चिन्तयामास-किम् अहम् अनया यौवन-प्रान्ते वर्तमानया करिष्यामि । किं च कदाप्य् अस्याः पृष्ठतः को ऽपि समेष्यति । तन् मे महान् अनर्थः स्यात् । तत् केवलम् अस्या वित्तम् आदाय गच्छामि ।
+
+
+इति निश्चित्य ताम् उवाच-प्रिये ! सुदुस्तरेयं महानदा । तद् अहं द्रव्य-मात्रां पारे धृत्वा समागच्छामि । ततस् त्वाम् एकाकिनीं स्व-पृष्ठम् आरोप्य सुखेनोत्तारयिष्यामि ।
+
+
+सा प्राह-सुभग ! एवं क्रियताम् । इत्य् उक्त्वाशिषं वित्तं तस्मै समर्पयामास ।
+
+अथ तेनाभिहितं-भद्रे ! परिधानाच्छादन-वस्त्रम् अपि समर्पय । येन जल-मध्ये निःशङ्कं व्रजसि । तथानुष्ठिते धूर्तो वित्तं वस्त्र-युगलं चादाय यथाचिन्तित-विषयं गतः ।
+
+
+सापि कण्ठ-निवेशित-हस्त-युगला सोद्वेगा नदी-पुलिन-देश उपविष्टा यावत् तिष्ठति तावद् एतस्मिन्न् अन्तरे काचिच् छृगालिका मांस-पिण्ड-गृहीत-वदना तत्राजगाम । आगत्य च यावत् पश्यति, तावन् नदी महान् मत्स्यः सलिलान् निष्क्रम्य बहिः स्थित आस्ते । एवं च दृष्ट्वा सा मांस-पिण्डं समुत्सृज्य तं मत्स्यं प्रत्युपाद्रवत् । अत्रान्तरं आकाशाद् आवतीर्थं को ऽपि प्रत्युपाद्रवत् । अत्रान्तरम् आकाशाद् अवतीर्य को ऽपि गृध्रस् तं मांस-पिण्डम् आदाय पुनः खम् उत्पतात । मत्स्यो ऽपि शृगालिकां दृष्ट्वा नद्यां प्रविवेश । सा शृगालिकां दृष्ट्वा नद्यां प्रविवेश । सा शृगालिका व्यर्थ-श्रमा गृध्रम् अवलोकयन्ती तया नग्निकया स-स्मितम् अभिहिता-
+
+
+गृध्रेणापहृतं मांसं मत्स्यो ऽपि सलिलं गतः ।
+
+मत्स्य-मांस-परिभ्रष्टे किं निरीक्ष्यसि जम्बुके ॥पन्च्४।७०॥
+
+मित्रं ह्य् अमित्रतां यातम् अपरं मे प्रिया मित्रा ।
+
+गृहम् अन्येन च व्याप्तं किम् अद्यापि भविष्यति ॥पन्च्४।७१॥
+
+
+अथवा युक्तम् इदम् उच्यते-
+
+क्षते प्रहारा निपतन्त्य् अभीक्ष्णम् अन्न-क्षये वर्धति जाठराग्निः ।
+
+आपत्सु वैराणि समुद्भवन्ति वामे विधौ सर्वम् इदं नराणाम् ॥पन्च्४।७२॥
+
+
+तत् किं करोमि ? किम् अनेन सह युद्धं करोमि ? किं वा साम्नैव सम्बोध्य गृहान् निःसारयामि ? किं वा भेदं दानं वा करोमि ? अथवामुम् एव वानर-मित्रं पृच्छामि ? उक्तं च-
+
+
+यः पृष्ट्वा कुरुते कार्यं प्रष्टव्यान् स्व-हितान् गुरून् ।
+
+न तस्य जायते विघ्नः कस्मिंश्चिद् अपि कर्मणि ॥पन्च्४।७३॥
+
+
+एवं सम्प्रधार्य भूयो ऽपि तम् एव जम्बू-वृक्षम् आरूढं कपिम् अपृच्छत्-भो मित्र ! पश्य मे मन्द-भाग्यताम् । तत् सम्प्रति गृहम् अपि मे बलवत्तरेण मकरेण रुद्धम् । तद् अहं त्वां प्रष्टुम् अभ्यागतः । कथय किं करोमि ? सामादीनाम् उपायानां मध्ये कस्यात्र विषयः ?
+
+
+स आह-भोः कृतघ्न पाप-चारिन् ! मया निषिद्धो ऽपि किं भूयो माम् अनुसरसि । नाहं तव मूर्खस्योपदेशम् अपि दास्यामि ।
+
+
+तच् छ्रुत्वा मकरः प्राह-भो मित्र ! सापराधस्य मे पूर्व-स्नेहम् अनुस्मृत्य हितोपदेशं देहि ।
+
+
+वानर आह-नाहं ते कथयिष्यामि । यद् भार्या-वाक्येन भवताहं समुद्रे प्रक्षिप्तुं नीतः । तद् एवं न युक्तम् । यद्यपि भार्या सर्व-लोकाद् अपि वल्लभा भवति, तथापि न मित्राणि बान्धवाश् च भार्या-वाक्येन समुद्रे प्रक्षिप्यन्ते । तन् मूर्ख ! मूढत्वेन नाशस् तव मया प्राग् एव निवेदित आसीत्, यतः-
+
+
+सतां वचनम् आदिष्टं मदेन न करोति यः ।
+
+स विनाशम् अवाप्नोति घण्टोष्ट्र इव सत्वरम् ॥पन्च्४।७४॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा १३
+
+उज्ज्वलक-रथकार-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने उज्ज्वलको नाम रथकारः प्रतिवसति स्म । स चातीव दारिद्र्योपहतश् चिन्तितवान्-अहो ! धिग् इयं दरिद्रतास्मद्-गृहे । यतः सर्वो ऽपि जनः स्व-कर्मणैव रतस् तिष्ठति । अस्मदीयः पुनर् व्यापारो नात्राधिष्ठानेऽर्हति । यतः सर्व-लोकानां चिरन्तनाश् चतुर्भूमिका गृहाः सन्ति । मम च नात्र । तत् किं मदीयेन रथकारत्वेन प्रयोजनम् ? इति चिन्तयित्वा देशान् निष्क्रान्तः ।
+
+
+यावत् किञ्चिद् वनं गच्छति तावद् गह्वराकार-वन-गहन-मध्ये सूर्यास्तम् अनवेलायां स्व-यूथाद् भ्रष्टां प्रसव-वेदनया पीड्यमानाम् उष्ट्रीम् अपश्यत् । स च दासेरक-युक्ताम् उष्ट्रीं गृहीत्वा स्व-स्थानाभिमुखः प्रस्थितः । गृहम् आसाद्य रज्जुं गृहीत्वा ताम् उष्ट्रिकां बबन्ध । ततश् च तीक्ष्णं परशुम् आदाय तस्याः पल्लवानयनार्थं पर्वतैक-देशे गतः । तत्र च नूतनानि कोमलानि बहूनि पल्लवानि च्छित्त्वा शिरसि समारोप्य तस्याग्रे निचिक्षेप । तया च तानि शनैः शनैर् भक्षितानि । पश्चात् पल्लव-भक्षण-प्रभावाद् अहर्निशं पीवर-तनुर् उष्ट्री सञ्जाता । सो ऽपि दासेरको महान् उष्ट्रः सञ्जातः । ततः स नित्यम् एव दुग्धं गृहीत्वा स्व-कुटुम्बं परिपालयति ।
+
+
+अथ रथकारेण वल्लभत्वाद् दासेरक-ग्रीवायां महती घण्टा प्रतिबद्धा । पश्चाद् रथकारो व्यचिन्तयत्-अहो ! किम् अन्यैर् दुष्कृत-कर्मभिः । यावन् ममैतस्माद् एवोष्ट्रापरिपालनाद् अस्य कुटुम्बस्य भव्यं सञ्जातम् । तत् किम् अन्येन व्यापारेण ?
+
+
+एवं विचिन्त्य गृहम् आगत्य प्रियाम् आह-भद्रे ! समीचीनो ऽयं व्यापारः । तव सम्मतिश् चेत् कुतो ऽपि धनिकात् किञ्चिद् द्रव्यम् आदाय मया गुर्जर-देशे गन्तव्यं कलभ-ग्रहणाय । तावत् त्वयैतौ यत्नेन रक्षणीयौ । यावद् अहम् अपराम् उष्ट्रीं नीत्वा समागच्छामि ।
+
+
+ततश् च गुर्जर-देशं गत्वोष्ट्रीं गृहीत्वा स्व-गृहम् आगतः । किं बहुना ? तेन तथा कृतं यथा तस्य प्रचुरा उष्ट्राः करभाश् च सम्मिलिताः । ततस् तेन महद् उष्ट्र-यूथं कृत्वा रक्षा-पुरुषो धृतः । तस्य प्रतिवर्षं वृत्त्या करभम् एकं प्रयच्छति । प्रतिवर्षम् अन्यच् चाहर्निशं दुग्ध-पानं तस्य निरूपितम् । एवं रथकारो ऽपि नित्यम् एवोष्ट्री-करभ-व्यापारं कुर्वन् सुखेन तिष्ठति ।
+
+
+अथ ते दासेरका अधिष्ठानोपवनाहार्थं गच्छन्ति । कोमल-वल्लीर् यथेच्छया भक्षयित्वा महति सरसि पानीयं पीत्वा सायन्तन-समये मन्दं मन्दं लीलया गृहम् आगच्छन्ति । स च पूर्व-दासेरको मदातिरेकात् पृष्ठ आगत्य मिलति । ततस् तैः कलभैर् अभिहितम्-अहो ! मन्द-मतिर् अयं दासेरको यथा यूथाद् भ्रष्टः पृष्ठे स्थित्वा घण्टां वादयन्न् आगच्छति । यदि कस्यापि दुष्ट-सत्त्वस्य मुखे पतिष्यति, तन् नूनं मृत्युम् अवाप्स्यति ।
+
+
+अथ तस्य तद्-वनं गाहमानस्य कश्चित् सिंहो घण्टा-रवम् आकर्ण्य समायातः । यावद् अवलोकयति, तावद् उष्ट्री-दासेरकाणां यूथं गच्छति । एकस् तु पुनः पृष्ठे क्रीडां कुर्वन् वल्लरीश् चरन् यावत् तिष्ठति, तावद् अन्ये दासेरकाः पानीयं पीत्वा स्व-गृहे गताः । सो ऽपि वनान् निष्क्रम्य यावद् दिशो ऽवलोकयति, तावन् न कञ्चिन् मार्गं पश्यति वेत्ति च । यूथाद् भ्रष्टो मन्दं मन्दं बृहच्-छब्दं कुर्वन् यावत् कियद्-दूरं गच्छति, तावत् तच्-छब्दानुसारी सिंहो ऽपि क्रमं कृत्वा निभृतो ऽयं व्यवस्थितः । ततो यावद् उष्ट्रः समीपम् आगतः, तावत् सिंहेन लम्भयित्वा ग्रीवायां गृहीतो मारितश् च ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-सतां वचनम् आदिष्टम् (७४) इति ।
+
+
+अथ तच् छ्रुत्वा मकरः प्राह-
+
+
+उपदेश-प्रदातॄणां नराणां हितम् इच्छताम् ।
+
+परस्मिन्न् इह लोके च व्यसनं नोपपद्यते ॥पन्च्४।७५॥
+
+
+तत सर्वथा कृतघ्नस्यापि मे कुरु प्रसादम् उपदेश-प्रदानेन । उक्तं च-
+
+
+उपकारिषु यः साधुः साधुत्वे तस्य को गुणः ।
+
+अपकारिषु यः साधुः स साधुः सद्भिर् उच्यते ॥पन्च्४।७६॥
+
+
+तद् आकर्ण्य वानरः प्राह-भद्र ! यद्य् एवं तर्हि तत्र गत्वा तेन सह युद्धं कुरु । उक्तं च-
+
+
+हतस् त्वं प्राप्स्यसि स्वर्गं जीवन् गृहम् अथो यशः ।
+
+युध्यमानस्य ते भावि गुण-द्वयम् अनुत्तमम् ॥पन्च्४।७७॥
+
+उत्तमं प्रणिपातेन शूरं भेदेन योजयेत् ।
+
+नीचम् अल्प-प्रदानेन सम-शक्तिं पराक्रमैः ॥पन्च्४।७८॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा १४
+
+महाचतुरकाख्य-शृगाल-कथा
+
+
+आसीत् कस्मिंश्चिद् देशे महा-चतुरको नाम शृगालः । तेन कदाचिद् अरण्ये स्वयं मृतो गजः समासादितः । तस्य समन्तात् परिभ्रमति, परं कठिनां त्वचं भेत्तुं न शक्नोति । अथात्रावसर इतश् चेतश् च विचरन् कश्चित् सिंहस् तत्रैव प्रदेशे समाययौ ।
+
+
+अथ सिंहं समागतं दृष्ट्वा स क्षिति-तल-विन्यस्त-मौलि-मण्डलः संयोजित-कर-युगलः स-विनयम् उवाच-स्वामिन् ! त्वदीयो ऽहं लागुडिकः स्थितस् त्वद्-अर्थे गजम् इमं रक्षामि । तद् एनं भक्षयतु स्वामी ।
+
+
+तं प्रणतं दृष्ट्वा सिंहः प्राह-भोः ! नाहम् अन्येन हतं सत्त्वं कदाचिद् अपि भक्षयामि । तत् तवैव गजो ऽयं मया प्रसादीकृतः ।
+
+
+तच् छ्रुत्वा शृगालः सानन्दम् आह-युक्तम् इदं स्वामिनो निज-भृत्येषु । उक्तं च यतः-
+
+अन्त्यावस्थो ऽपि महान् स्वामि-गुणान् न जहाति शुद्धतया ।
+
+न श्वेत-भावम् उज्झति शङ्खः शिखि-भुक्त-मुक्तो ऽपि ॥पन्च्४।७९॥
+
+
+अथ सिंहे गते कश्चिद् व्याघ्रः समाययौ । तम् अपि दृष्ट्वासौ व्यचिन्तयत्-अहो ! एकस् तावद् दुरात्मा प्रणिपातेनापवाहितः । तत् कथम् इदानीम् एनम् अपवाहयिष्यामि ? नूनं शूरो ऽयम् । न खलु भेदं विना साध्यो भविष्यति । उक्तं च यतः-
+
+
+न यत्र शक्यते कर्तुं साम दानम् अथापि वा ।
+
+भेदस् तत्र प्रयोक्तव्यो यतः स वश-कारकः ॥पन्च्४।८०॥
+
+
+किं च सर्व-गुण-सम्पन्नो ऽपि भेदेन बध्यते । उक्तं च यतः-
+
+अन्तः-स्थेनाविरुद्धेन सुवृत्तेनातिचारुणा ।
+
+अन्तर्-भिन्नेन सम्प्राप्तं मौक्तिकेनापि बन्धनम् ॥पन्च्४।८१॥
+
+
+एवं सम्प्रधार्य तस्याभिमुखो भूत्वा गर्वाद् उन्नत-कन्धरः स-सम्भ्रमम् उवाच-माम ! कथम् अत्र भवान् मृत्यु-मुखे प्रविष्टः । येनैष गजः सिंहेन व्यापादितः । स च माम् एतद् रक्षणं नियुज्य नद्यां स्नानार्थं गतः । तेन च गच्छता मम समादिष्टम्-यदि कश्चिद् इह व्याघ्रः समायाति, त्वया सुगुप्तं माम् आवेदनीयम् । येन वनम् इदं मया निर्व्याघ्रं कर्तव्यम् । यतः पूर्वं व्याघ्रेणैकेन मया व्यापादितो गजः शून्ये भक्षयित्वोच्छिष्टतां नीतः । तद्-दिनाद् आरभ्य व्याघ्रान् प्रति प्रकुपितो ऽस्मि ।
+
+
+तच् छ्रुत्वा व्याघ्रः सन्त्रस्तम् आह-भो भागिनेय ! देहि मे प्राण-दक्षिणाम् । त्वया तस्यात्र चिरायायातस्यापि मदीया कापि वार्ता नाख्येया । एवम् अभिधाय सत्वरं पलायाञ्चक्रे ।
+
+
+अथ गते व्याघ्रे तत्र कश्चिद् द्वीपी समायातः । तम् अपि दृष्ट्वासौ व्यचिन्तयत्-दृढ-दंष्ट्रो ऽयं चित्रकः । तद् अस्य पार्श्वाद् अस्य गजस्य यथा चर्म-च्छेदो भवति तथा करोमि । एवं निश्चित्य तम् अप्य् उवाच-भो भगिनी-सुत ! किम् इति चिराद् दृष्टो ऽसि । कथं च बुभुक्षित इव लक्ष्यसे ? तद् अतिथिर् असि मे । एष गजः सिंहेन हतस् तिष्ठति । अहं चास्य तद्-आदिष्टो रक्षा-पालः । परं तथापि यावत् सिंहो न समायाति, तावद् अस्य गजस्य मांसं भक्षयित्वा तृप्तिं कृत्वा द्रुततरं व्रज ।
+
+
+स आह-माम, तद् एवं तन् न कार्यं मे मांसाशनेन, यतो जीवन् नरो भद्र-शतानि पश्यति । उक्तं च-यच् छक्यं ग्रसितं यस्य ग्रस्तं परिणमेच् च यत् (२३) इत्य् आदि । तत् सर्वथा तद् एव भुज्यते यद् एव परिणमति । तद् अहम् इतो ऽपयास्यामि ।
+
+
+शृगाल आह-भो अधीर ! विश्रब्धो भूत्वा भक्षय त्वम् । तस्यागमनं दूरतो ऽपि तवाहं निवेदयिष्यामि । तथानुष्ठिते दीव्पिना भिन्नां त्वचं विज्ञाय जम्बूकेनाभिहितम्-भो भगिनी-सुत ! गम्यताम् । एष सिंहः समायाति ।
+
+
+तच् छ्रुत्वा चित्रको दूरं प्रणष्टः । अथ यावद् असौ तद्-भेद-कृत-द्वारेण किञ्चिन् मांसं भक्षयति, तावद् अतिसङ्क्रुद्धो ऽपरः शृगालः समाययौ । अथ तम् आत्म-तुल्य-पराक्रमं दृष्ट्वा-उत्तमं प्रणिपातेन शूरं भेदेन योजयेत् (७८) इति श्लोकं पठन् तद्-अभिमुख-कृत-प्रयाणः स्व-दंष्ट्राभिस् तं विदार्य दिशो भागं कृत्वा स्वयं सुखेन चिर-कालं हस्ति-मांसं बुभुजे ।
+
+
+एवं त्वम् अपि तं रिपुं स्व-जातीयं युद्धेन परिभूय दिशो-भागं कुरु । नो चेत् पश्चाद् बद्ध-मूलाद् अस्मात् त्वम् अपि विनाशम् अवाप्स्यसि । उक्तं च यतः-
+
+
+सम्भाव्यं गोषु सम्पन्नं सम्भाव्यं ब्राह्मणे तपः ।
+
+सम्भाव्यं स्त्रीषु चापल्यं सम्भाव्यं जातितो भयम् ॥पन्च्४।८२॥
+
+
+अन्यच् च-
+
+सुभिक्षाणि विचित्राणि शिथिलाः पौर-योषितः ।
+
+एको दोषो विदेशस्य स्वजातिर् यद् विरुध्यते ॥पन्च्४।८३॥
+
+
+मकर आह-कथम् एतत् ?
+
+
+वानरो ऽब्रवीत्-
+
+
+कथा १५
+
+चित्राङ्ग-नाम-सारमेय-कथा
+
+
+अस्ति कस्मिंश्चिद् अधिष्ठाने चित्राङ्गो नाम सारमेयः । तत्र च चिर-कालं दुर्भिक्षं पतितम् । अन्नाभावात् सारमेयादयो निष्कुलतां गन्तुम् आरब्धाः । अथ चित्राङ्गः क्षुत्क्षाम-कण्ठस् तद्-भयाद् देशान्तरं गतः । तत्र च कस्मिंश्चित् पुरे कस्यचिद् गृह-मेधिनो गृहिण्याः प्रसादेन प्रतिदिनं गृहं प्रविश्य विविधान्नानि भक्षयन् परां तृप्तिं गच्छति । परं तद्-गृहाद् बहिर् निष्क्रान्तो ऽन्यैर् मदोद्धत-सारमेयैः सर्व-दिक्षु परिवृत्य सर्वाङ्गं दंष्ट्राभिर् विदार्यते । ततस् तेन विचिन्तितवान्-अहो ! वरं स्व-देशो यत्र दुर्भिक्षेऽपि सुखेन स्थीयते । न च को ऽपि युद्धं करोति । तद् एवं स्व-नगरं व्रजामि इत्य् अवधार्य स्व-स्थानं प्रति जगाम ।
+
+
+अथासौ देशान्तरात् समायातः सर्वैर् अपि स्वजनैः पृष्टः-भोश् चित्राङ्ग ! कथयास्माकं देशान्तर-वार्ताम् । कीदृग् देशः ? किं चेष्टितं लोकस्य ? क आहारः ? कश् च व्यवहारस् तत्र इति ।
+
+
+स आह-किं कथ्यते विदेशस्य स्वरूप-विषयः ? सुभिक्षाणि विचित्राणि शिथिलाः पौर-योषितः (८३) इति पठति ।
+
+
+सो ऽपि मकरस् तद्-उपदेशं श्रुत्वा कृत-मरण-निश्चयो वानरम् अनुज्ञाप्य स्वाश्रयं गतः । तत्र च तेन स्व-गृह-प्रविष्टेनाततायिना सह विग्रहं कृत्वा दृढ-सत्त्वावष्टम्भनाच् च तं व्यापाद्य स्वाश्रयं च लब्ध्वा सुखेन चिर-कालम् अतिष्ठत् । साध्व् इदम् उच्यते-
+
+
+अकृत्वा पौरुषं या श्रीः किं तयालस-भाग्यया ।
+
+कुरङ्गो ऽपि समश्नाति दैवाद् उपनतं तृणम् ॥पन्च्४।८४॥
+
+
+इति श्री-विष्णु-शर्म-विरचिते पञ्चतन्त्रे लब्ध-प्रणाशं नाम
+
+चतुर्थं तन्त्रं समाप्तम्
+
+॥४॥
+
+
+
+*********************************************************************  
+
+
+पञ्चमं तन्त्रम्
+
+
+अपरीक्षित-कारकम्
+
+
+क्षपणक-कथा
+
+
+अथेदम् आरभ्यतेऽपरीक्षित-कारकं नाम पञ्चमं तन्त्रम् । तस्यायम् आदिमः श्लोकः-
+
+
+कुदृष्टं कुपरिज्ञातं कुश्रुतं कुपरीक्षितम् ।
+
+तन् नरेण न कर्तव्यं नापितेनात्र यत् कृतम् ॥पन्च्५।१॥
+
+
+तद् यथानुश्रूयते-अस्ति दाक्षिणात्ये जनपदे पाटलिपुत्रं नाम नगरम् । तत्र मणिभद्रो नाम श्रेष्ठी प्रतिवसति स्म । तस्य च धर्मार्थ-काम-मोक्ष-कर्माणि  कुर्वतो विधि-वशाद् धन-क्षयः सञ्जातः । ततो विभव-क्षयाद् अपमान-परम्परया परं विषादं गतः । अथान्यदा रात्रौ सुप्तिश् चिन्तितवान्-अहो धिग् इयं दरिद्रता । उक्तं च-
+
+
+शीलं शौचं क्षान्तिर् दाक्षिण्यं मधुरता कुले जन्म ।
+
+न विराजन्ति हि सर्वे वित्त-विहीनस्य पुसुषस्य ॥पन्च्५।२॥
+
+मानो वा दर्पो वा विज्ञानं विभ्रमः सुबुद्धिर् वा ।
+
+सर्वं प्रणश्यति समं वित्त-विहीनो यदा पुरुषः ॥पन्च्५।३॥
+
+प्रतिदिवसं याति लयं वसन्त-वाताहतेव शिशिर-श्रीः ।
+
+बुद्धिर् बुद्धिमताम् अपि कुटुम्ब-भर-चिन्तया सततम् ॥पन्च्५।४॥
+
+नश्यति विपुलमतेर् अपि बुद्धिः पुरुषस्य मन्द-विभवस्य ।
+
+घृत-लवण-तैल-तण्डुल-वस्त्रेन्धन-चिन्तया सततम् ॥पन्च्५।५॥
+
+
+गणनम् इव नष्ट-तारकं
+
+सुष्कम् इव सरः श्मशानम् इव रौद्रम् ।
+
+प्रिय-दर्शनम् अपि रूक्षं
+
+भवति गृहं धन-विहीनस्य ॥पन्च्५।६॥
+
+
+न विभाव्यन्ते लघवो वित्त-विहीनाः पुरो ऽपि निवसन्तः ।
+
+सततं जात-विनष्टाः पयसाम् इव बुद्बुदाः पयसि ॥पन्च्५।७॥
+
+सुकुलं कुशलं सुजनं विहाय कुल-कुशल-शील-विकलेऽपि ।
+
+आढ्ये कल्प-तराव् इव नित्यं रज्यन्ति जन-निवहाः ॥पन्च्५।८॥
+
+विफलम् इह पूर्व-सुकृतं विद्यावन्तो ऽपि कुल-समुद्भूताः ।
+
+यस्य यदा विभवः स्यात् तस्य तदा दासतां यान्ति ॥पन्च्५।९॥
+
+लघुर् अयम् आह न लोकः कामं गर्जन्तम् अपि पतिं पयसाम् ।
+
+सर्वम् अलज्जाकरम् इह यद् यत् कुर्वन्ति परिपूर्णाः ॥पन्च्५।१०॥
+
+
+एवं सम्प्रधार्य भूयो ऽप्य् अचिन्तयत्-तद् अहम् अनशनं कृत्वा प्राणान् उत्सृजामि । किम् अनेन व्यर्थ-जीवित-व्यसनेन ? एवं निश्चयं कृत्वा सुप्तः । अथ तस्य स्वप्ने पद्मनिधिः क्षपणक-रूपो  दर्शनं दत्त्वा प्रोवाच-भोः श्रेष्ठिन् ! मा त्वं वैराग्यं गच्छ । अहं पद्मनिधिस् तव पूर्व-पुरुषोपार्जितः । तद् अनेनैव रूपेण प्रातस् त्वद्-गृहम् आगमिष्यामि । तत् त्वयाहं लगुड-प्रहारेण शिरसि ताडनीयः, येन कनक-मयो भूत्वाक्षयो भवामि ।
+
+
+अथ प्रातः प्रबुद्धः सन् स्वप्नं स्मरंश् चिन्ता-चक्रम् आरूढस् तिष्ठति-अहो सत्यो ऽयं स्वप्नः किं वा असत्यो भविष्यति, न ज्ञायते । अथवा नूनं मिथ्यानेन भाव्यम् । यतो ऽहम् अहर्-निशं केवलं वित्तम् एव चिन्तयामि । उक्तं च-
+
+
+व्याधितेन स-शोकेन चिन्ता-ग्रस्तेन जन्तुना ।
+
+कामार्तेनाथ मत्तेन दृष्टः स्वप्नो निरर्थकः ॥पन्च्५।११॥
+
+
+एतस्मिन्न् अन्तरे तस्य भार्यया कश्चिन् नापितः पाद-प्रक्षालनायाहूतः अत्रान्तरे च यथा-निर्दिष्टः क्षपणकः सहसा प्रादुर्बभूव । अथ स तम् आलोक्य प्रहृष्ट-मना यथासन्न-काष्ठ-दण्डेन तं शिरस्य् अताडयत् । सो ऽपि सुवर्ण-मयो भूत्वा तत्-क्षणात् भूमौ निपतितः । अथ तं स श्रेष्ठी निभृतं स्व-गृह-मध्ये कृत्वा नापितं सन्तोष्य प्रोवाच-तद् एतद् धनं वस्त्राणि च मया दत्तानि गृहाण । भद्र ! पुनः कस्यचिन् नाख्येयो ऽयं वृत्तान्तः ।
+
+
+नापितो ऽपि स्व-गृहं गत्वा व्यचिन्तयत्-नूनम् एते सर्वेऽपि नग्नकाः शिरसि ताडिताः काञ्चन-मया भवन्ति । तद् अहम् अपि प्रातः प्रभूतान् आहूय लगुडैः शिरसि हन्मि, येन प्रभूतं हाटकं मे भवति । एवं चिन्तयतो महता  कष्टेन निशातिचक्राम ।
+
+
+अथ प्रभातेऽभ्युत्थाय बृहल् लगुडम् एकं प्रगुणीकृत्य, क्षपणक-विहारं गत्वा जिनेन्द्रस्य प्रदक्षिण-त्रयं विधाय, जानुभ्याम् अवनिं गत्वा वक्त्र-द्वार-न्यस्तोत्तरीयाञ्चलस् तार-स्वरेणेमं श्लोकम् अपठत्-
+
+
+जयन्ति ते जिना येषां केवल-ज्ञान-शालिनाम् ।
+
+आ जन्मनः स्मरोत्पत्तौ मानसेनोषरायितम् ॥पन्च्५।१२॥
+
+
+अन्यच् च-
+
+सा जिह्वा या जिनं स्तौति तच्-चित्तं यज् जिने रतम् ।
+
+तौ एव तु करौ श्लाघ्यौ यौ तत्-पूजा-करौ करौ ॥पन्च्५।१३॥
+
+
+तथा च-
+
+ध्यान-व्याजम् उपेत्य चिन्तयसि काम् उन्मील्य चक्षुः क्षणं
+
+पश्यानङ्ग-शरातुरं जनम् इमं त्रातापि नो रक्षसि ।
+
+मिथ्या-कारुणिको ऽसि निर्घृणतरस् त्वत्तः कुतो ऽन्यः पुमान्
+
+सेर्ष्यं मार-वधूभिर् इत्य् अभिहितो बौद्धो जिनः पातु वः ॥पन्च्५।१४॥
+
+
+एवं संस्तूय, ततः प्रधान-क्षपणकणम् आसाद्य क्षिति-निहित-जानु-चरणः-नमो ऽस्तु वन्दे इत्य् उच्चार्य, लब्ध-धर्म-वृद्ध्य्-आशीर्वादः सुख-मालिकानुग्रह-लब्ध-व्रतादेश उत्तरीय-निबद्ध-ग्रन्थिः सप्रश्रयम् इदम् आह-भगवन् अद्य विहरण-क्रिया समस्त-मुनि-समेतेनास्मद्-गृहे कर्तव्या ।
+
+
+तच् छ्रुत्वा नापित आह-भगवन् ! वेद्म्य् अहं युष्मद्-धर्मम् । परं भवतो बहु-श्रावका आह्वयन्ति । साम्प्रतं पुनः पुस्तकाच्छादन-योग्यानि कर्पटानि बहु-मूल्यानि प्रगुणीकृतानि । तथा पुस्तकानां लेखनार्थं लेखकानां च वित्तं सञ्चितम् आस्ते तत् सर्वथा कालोचितं कार्यम् ।
+
+
+ततो नापितो ऽपि स्व-गृहं गतः । तत्र च गत्वा खदिर-मयं लगुडं सज्जीकृत्य कपाट-युगलं द्वारि समाधाय सार्ध-प्रहरैक-समये भूयो ऽपि विहार-द्वारम् आश्रित्य सर्वान् भक्ति-युक्तान् अपि परिचित-श्रावकान् परित्यज्य प्रहृष्ट-मनसस् तस्य पृष्ठतो ययुः । अथवा साध्व् इदम् उच्यते-
+
+
+एकाकी गृह-सन्त्यक्तः पाणि-पात्रो दिगम्बरः ।
+
+सो ऽपि सम्बाध्यते लोके तृष्णया पश्य कौतुकम् ॥पन्च्५।१५॥
+
+जीर्यन्ते जीर्यतः केशा दन्ता जीर्यन्ति जीर्यतः ।
+
+चक्षुः श्रोत्रे च जीर्येते तृष्णैका तरुणायते ॥पन्च्५।१६॥
+
+
+ततः परं गृह-मध्ये तान् प्रवेश्य द्वारं निभृतं पिधाय, लगुड-प्रहारैः शिरस्य् अताडयत् । तेऽपि ताड्यमाना एके मृताः, अन्ये भिन्न-मस्तका फूत्कर्तुम् उपचक्रमिरे । अत्रान्तरे तम् आक्रन्दम् आकर्ण्य कोटर-क्षपालेनाभिहितम्-भो भोः किम् अयं कोलाहलो नगर-मध्ये ? तद् गम्यताम् ।
+
+
+ते स सर्वे तदादेशकारिणस् तत्-सहिता वेगात् तद्-गृहं गता यावत् पश्यन्ति तावद् रुधिर-प्लावित-देहाः पलायमाना नग्नका दृष्टाः पृष्टाश् च-भोः किम् एतत् ? ते प्रोचुर् यथावस्थितं नापित-वृत्तम् ।
+
+
+तैर् अपि स नापितो बद्धो हत-शेषैः सह धर्माधिष्ठानं नीतः । तैर् नापितः पृष्टः-भोः ! किम् एतत् भवता कुकृत्यम् अनुष्ठितम् ?
+
+
+स आह-किं करोमि ? मया श्रेष्ठि-मणिभद्र-गृहे दृष्ट एवंविधो व्यतिकरः । सो ऽपि सर्वं मणिप्रभ-वृत्तान्तं यथा-दृष्टम् अकथयत् ।
+
+
+ततः श्रेष्ठिनम् आहूय ते भणितवन्तः-भोः श्रेष्ठिन् ! किं त्वया कश्चित् क्षपणको व्यापादितः ?
+
+
+ततः तेनापि सर्वः क्षपणक-वृत्तान्तस् तेषां निवेदितः । अथ तैर् अभिहितम्-अहो शूलम् आरोप्यताम् असौ दुष्टात्मा कुपरिक्षितकारी नापितः । तथानुष्ठिते तैर् अभिहितम्-
+
+
+कुक्कुटं कुपरिज्ञातं कुश्रुतं कुपरीक्षितम् ।
+
+तन् नरेण न कर्तव्यं नापितेनात्र यत् कृतम् ॥पन्च्५।१६अ॥
+
+
+अथवा साध्व् इदम् उच्यते-
+
+
+अपरीक्ष्य न कर्तव्यं कर्तव्यं सुपरीक्षितम् ।
+
+पश्चाद् भवति सन्तापो ब्राह्मणी नकुलं यथा ॥पन्च्५।१७॥
+
+
+मणिभद्र आह-कथम् एतत् ?
+
+
+ते धर्माधिकारिणः प्रोचुः-
+
+
+कथा १
+
+ब्राह्मणी-नकुल-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने देवशर्मा नाम ब्राह्मणः प्रतिवसति स्म । तस्य भार्या प्रसूता सुतम् अजनयत् । तस्मिन्न् एव दिने नकुली नकुलं प्रसूय सृता । अथ सा सुत-वत्सला दारकवत्तम् अपि नकुलं स्तन्य-दानाभ्यङ्ग-मर्दनादिभिः पुपोष, परं तस्य न विश्वसिति । अपत्य-स्नेहस्य सर्व-स्नेहातिरिक्ततया सततम् एवम् आशङ्कते यत् कदाचिद् एष स्व-जाति-दोष-वशाद् अस्य दारकस्य विरुद्धम् आचरिष्यति इति । उक्तं च-
+
+
+कुपुत्रो ऽपि भवेत् पुंसां हृदयानन्द-कारकः ।
+
+दुर्विनीतः कुरूपो ऽपि मूर्खो ऽपि व्यसनी खलः ॥पन्च्५।१८॥
+
+एवं च भाषते लोकश् चन्दनं किल शीतलम् ।
+
+पुत्र-गात्रस्य संस्पर्शश् चन्दनाद् अतिरिच्यते ॥पन्च्५।१९॥
+
+सौहृदस्य न वाञ्छन्ति जनकस्य हितस्य च ।
+
+लोकाः प्रपालकस्यापि यथा पुत्रस्य बन्धनम् ॥पन्च्५।२०॥
+
+
+अथ सा कदाचिच् छय्यायां पुत्रं शाययित्वा जल-कुम्भम् आदाय पतिम् उवाच-ब्राह्मण, जलार्थम् अहं तडागे यास्यामि । त्वया पुत्रो ऽयं नकुलाद् रक्षणीयः ।
+
+
+अथ तस्यां गतायां, पृष्ठे ब्राह्मणो ऽपि शून्यं गृहं मुक्त्वा भिक्षार्थं क्वचिन् निर्गतः । मातापि तं रुधिर-क्लिन्न-मुखम् आलोक्य शङ्कित-चित्ता नूनम् अनेन दुरात्मना दारको भक्षितः इति निश्चिन्त्य कोपात् तस्योपरि तं जल-कुम्भं चिक्षेप ।
+
+
+एवं सा नकुलं व्यापाद्य यावत् प्रलपन्ती गृहे आगच्छति, तावत् सुतस् तथैव सुप्तस् तिष्ठति । समीपे कृष्ण-सर्पं खण्डशः कृतम् अवलोक्य पुत्र-वध-शोकेनात्म-शिरो वक्षः-स्थलं च ताडितुम् आरब्धा ।
+
+
+अत्रान्तरे ब्राह्मणो गृहीत-निर्वापः समायातो यावत् पश्यति तावत् पुत्र-शोको ऽभितप्ता ब्राह्मणी प्रलपति-भो भो लोभात्मन् ! लोभाभिभूतेन त्वया न कृतं मद्-वचः । तद् अनुभव साम्प्रतं पुत्र-मृत्यु-दुःख-वृक्ष-फलम् । अथवा साध्व् इदम् उच्यते-
+
+
+अतिलोभो न कर्तव्यः कर्तव्यस् तु प्रमाणतः ।
+
+अतिलोभज-दोषेण जम्बुको निधनं गतः ॥पन्च्५।२१॥
+
+ब्राह्मण आह-किम् एतत् ?
+
+
+सा प्राह-
+
+
+कथा २
+
+लोभाविष्ट-चक्र-धर-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने चत्वारो ब्राह्मण-पुत्राः परस्परं मित्रतां गता वसन्ति स्म । ते चापि दारिद्र्योपहताः परस्परं मन्त्रं चक्रुः-अहो धिग् इयं दरिद्रता ! उक्तं च-
+
+
+वरं वनं व्याघ्र-गजादि-सेवितं
+
+जनेन हीनं बहु-कण्टकावृतम् ।
+
+तृणानि शय्या परिधान-वल्कलः
+
+न बन्धु-मध्ये धन-हीन-जीवितम् ॥पन्च्५।२२॥
+
+
+तथा च-
+
+स्वामी द्वेष्टि सुसेवितो ऽपि सहसा प्रोज्झन्ति सद्-बान्धवाः
+
+राजन्ते न गुणास् त्यजन्ति तनुजाः स्फारीभवन्त्य् आपदः ।
+
+भार्या साधु सुवंशजापि भजते नो यान्ति मित्राणि च
+
+न्यायारोपित-विक्रमाण्य् अपि नृणां येषां न हि स्याद् धनम् ॥पन्च्५।२३॥
+
+
+शूरः सुरूपः सुभगश् च वाग्मी
+
+शस्त्राणि शास्त्राणि विदांकरोतु ।
+
+अर्थं विना नैव यशश् च मानं
+
+प्राप्नोति मर्त्यो ऽत्र मनुष्य-लोके ॥पन्च्५।२४॥
+
+
+तानीन्द्रियाण्य् अविकलानि तद् एव नाम
+
+सा बुद्धिर् अप्रतिहता वचनं तद् एव ।
+
+अर्थोष्मणा विरहितः पुरुषः स एव
+
+बाह्यः क्षणेन भवतीति विचित्रम् एतत् ॥पन्च्५।२५॥
+
+
+तद् गच्छामः कुत्रचिद् अर्थाय इति सम्मन्त्र्य स्व-देशं पुरं च स्व-सुहृत्-सहितं गृहं च परित्यज्य प्रस्थिताः । अथवा साध्व् इदम् उच्यते-
+
+
+सत्यं परित्यजति मुञ्चति बन्धु-वर्गं
+
+शीघ्रं विहाय जननीम् अपि जन्म-भूमिम् ।
+
+सन्त्यज्य गच्छति विदेशम् अभीष्ट-लोकं
+
+चिन्ताकुलीकृत-मतिः पुरुषो ऽत्र लोके ॥पन्च्५।२६॥
+
+
+एवं क्रमेण गच्छन्तो ऽवन्तीं प्राप्ताः । तत्र सिप्राजले कृत-स्नानाः महा-कालं प्रणम्य यावन् निर्गच्छन्ति तावत् भैरवानन्दो नाम योगी संमुखो बभूव । ततस् तं ब्राह्मणोचित-विधिना सम्भाव्य तेनैव सह तस्य मठं जग्मुः । अथ तेन पृष्टाः-कुतो भवन्तः समायाताः ? क्व यास्यथ ? किं प्रयोजनम् ?
+
+
+ततस् तैर् अभिहितम्-वयं सिद्धि-यात्रिकाः । तत्र यास्यामो यत्र धनाप्तिर् मृत्युर् वा भविष्यतीत्य् एष निश्चयः । उक्तं च-
+
+
+दुष्प्राप्याणि बहूनि च लभ्यन्ते वाञ्छितानि द्रविणानि ।
+
+अवसर-तुलिताभिर् अलं तनुभिः साहसिक-पुरुषाणाम् ॥पन्च्५।२७॥
+
+तथा च-
+
+पतति कदाचिन् नभसः खाते पातालतो ऽपि जलम् एति ।
+
+दैवम् अचिन्त्यं बलवद् बलवान् ननु पुरुषकारो ऽपि ॥पन्च्५।२८॥
+
+अभिमत-सिद्धिर् अशेषा भवति हि पुरुषस्य पुरुषकारेण ।
+
+दैवम् इति यदपि कथयसि पुरुष-गुणः सो ऽप्य् अदृष्टाख्यः ॥पन्च्५।२९॥
+
+भयम् अतुलं गुरु-लोकात् तृणम् इव तुलयन्ति साधु साहसिकाः ।
+
+प्राणान् अद्भुतम् एतच् चार्तिं चरितं ह्य् उदाराणाम् ॥पन्च्५।३०॥
+
+क्लेशस्याङ्गम् अदत्त्वा सुखम् एव सुखानि नेह लभ्यन्ते ।
+
+मधुभिन् मथनायस् तैर् आश्लिष्यति बाहुभिर् लक्ष्मीम् ॥पन्च्५।३१॥
+
+तस्य कथं न चला स्यात् पत्नी विष्णोर् नृसिंहकस्यापि
+
+मासांश् चतुरो निद्रां यः सेवति जल-गतः सततम् ॥पन्च्५।३२॥
+
+दुरधिगमः पर-भागो यावत् पुरुषेण साहसं न कृतम् ।
+
+जयति तुलाम् अधिरूढो भास्वान् इह जलद-पटलानि ॥पन्च्५।३३॥
+
+
+तत् कथ्यताम् अस्माकं कश्चित् धनोपायो विवर-प्रवेश-शाकिनी-साधन-श्मशान-सेवन-महा-मांस-विक्रय-साधक-वर्जित-प्रभृतीनाम् एकतम इति । अद्भुत-शक्तिर् भवान् श्रूयते । वयम् अप्य् अतिसाहसिकाः । उक्तं च-
+
+
+महान्त एव महताम् अर्थं साधयितुं क्षमाः ।
+
+ऋते समुद्राद् अन्यः को बिभर्ति बडवानलम् ॥पन्च्५।३४॥
+
+
+भैरवानन्दो ऽपि तेषां सिद्ध्य्-अर्थं बहूपायं सिद्ध-वर्ति-चतुष्टयं कृत्वार्पयत् । आह च-गम्यतां हिमालय-दिशि । तत्र सम्प्राप्तानां यत्र वर्तिः पतिष्यति, तत्र निधानम् असन्दिग्धं प्राप्यस्व । तत्र स्थानं खनित्वा निधिं गृहीत्वा व्याघुट्यताम् ।
+
+
+तथानुष्ठिते तेषां गच्छताम् एकतमस्य हस्ताद् वरित्र् निपपात । अथासौ यावत् तं प्रवेशं खनति तावत् ताम्रमयी भूमिः । ततस् तेनाभिहितम्-अहो, गृह्यतां स्वेच्छया ताम्रम् ।
+
+
+अन्ये प्रोचुः-भो मूढ ! किम् अनेन क्रियते यत् प्रभूतम् अपि दारिद्र्यं न नाशयति । तद् उत्तिष्ठ अग्रतो गच्छामः ।
+
+
+सो ऽब्रवीत्-यान्तु भवन्तः । नाहम् अग्र यास्यामि । एवम् अभिधाय ताम्रं यथेच्छया गृहीत्वा प्रथमो निवृत्तः ।
+
+
+ते त्रयो ऽपि अग्रे प्रस्थिताः । अथ किञ्चिन्-मात्रं गतस्याग्रेसरस्य वर्तिर् निपपात । सो ऽपि यावत् खनितुम् आरब्धस् तावद् रूप्य-मयी क्षितिः । ततः प्रहर्षितः प्राह, यत्-भो भो, गृह्यतां यथेच्छया रूप्यम् । नाग्रे गन्तव्यम् ।
+
+
+ताव् ऊचतुः-भोः पृष्ठतस् ताम्रमयी भूमिः । अग्रतो रूप्य-मयी । तन् नूनम् अग्रे सुवर्ण-मयी भविष्यति । किं चानेन प्रभूतेनापि दारिद्र्य-नाशो न भवति । तद् आवाम् अग्रे यास्यावः ।
+
+
+एवम् उक्त्वा द्वाव् अप्य् अग्रे प्रस्थितौ । सो ऽपि स्व-शक्त्या रूप्यम् आदाय निवृत्तः । अथ तयोर् अपि गच्छतोर् एकस्याग्रे वर्तिः पपात । सो ऽपि प्रहृष्टो यावत् खनति, तावत् सुवर्ण-भूमिं दृष्ट्वा द्वितीयं प्राह-भो, गृह्यतां स्वेच्छया सुवर्णम् । सुवर्णाद् अन्यन् न किञ्चिद् उत्तमं भविष्यति ।
+
+स प्राह-मूढ ! न किञ्चिद् वेत्सि । प्राक् ताम्रं, ततो रूप्यं, ततः सुवर्णम् । तन् नूनम् अतः परं रत्नानि भविष्यन्ति । येषाम् एकतमेनापि दारिद्र्य-नाशो भवति । तद् उत्तिष्ठ, अग्रे गच्छावः । किम् अनेन भार-भूतेनापि प्रभूतेन ?
+
+
+स आह-गच्छतु भवान् । अहम् अत्र स्थितस् त्वां प्रतिपालयिष्यामि । तथानुष्ठिते सो ऽपि गच्छन्न् एकाकी, ग्रीष्मार्क-प्रताप-सन्तप्त-तनुः पिपासाकुलितः सिद्धि-मार्ग-च्युत इतश् चेतश् च बभ्राम ।
+
+
+अथ भ्राम्यन्, स्थलोपरि पुरुषम् एकं रुधिर-प्लावित-गात्रं भ्रमच्-चक्र-मस्तकम् अपश्यत् । ततो द्रुततरं गत्वा तम् अवोचत्-भोः ! को भवान् ? किम् एवं चक्रेण शिरसि तिष्ठसि ? तत् कथय मे यदि कुत्रचिज् जलम् अस्ति ।
+
+
+एवं तस्य प्रवदतस् तच् चक्रं तत्-क्षणात् तस्य शिरसो ब्राह्मण-मस्तके चटितम् ।
+
+
+स आह-भद्र, किम् एतत् ?
+
+
+स आह-ममाप्य् एवम् एतच् छिरसि चटितम् ?
+
+
+स आह-तत् कथय, कदैतद् उत्तरिष्यति ? महती मे वेदना वर्तते ।
+
+
+स आह-यदा त्वम् इव कश्चिद् अधृत-सिद्ध-वर्तिर् एवम् आगत्य, त्वाम् आलापयिष्यति तदा तस्य मस्तकं चटिष्यति ।
+
+
+स आह-कियान् कालस् तवैवं स्थितस्य ?
+
+
+स आह-साम्प्रतं को राजा धरणी-तले ?
+
+
+स आह-वीणा-वादन-पटुः वत्स-राजः ।
+
+
+स आह-अहं तावत्-काल-सङ्ख्यां न जानामि । परं यदा रामो राजासीत् तवाहं दारिद्र्योपहतः सिद्ध-वर्तिम् आदायानेन पथा समायातः । ततो मयान्यो नरो मस्तक-श्रुत-चक्रो दृष्टः, पृष्टश् च । ततश् चैतज् जातम् ।
+
+
+स आह-भद्र ! कथं तदैवं स्थितस्य भोजन-जल-प्राप्तिर् आसीत् ?
+
+
+स आह-भद्र ! धनदेन निधान-हरण-भयात् सिद्धानाम् एतच्-चक्र-पतन-रूपं भयं दर्शितम् । तेन कश्चिद् अपि नागच्छति । यदि कश्चिद् आयाति, स क्षुत्-पिपासा-निद्रा-रहितो जरा-मरण-वर्जितः केवलम् एवं वेदनाम् अनुभवति इति । तद् आज्ञापय मां स्व-गृहाय । इत्य् उक्त्वा गतः ।
+
+
+तस्मिंश् चिरयति स सुवर्ण-सिद्धिस् तस्यान्वेषण-परस् तत्-पद-पङ्क्त्या यावत् किञ्चिद् वनान्तरम् आगच्छति तावद् रुधिर-प्लावित-शरीरस् तीक्ष्ण-चक्रेण मस्तके भ्रमता स-वेदनः क्वणन्न् उपविष्ठस् तिष्ठतीति ददर्श । ततः समीपवर्तिना भूवा सर्वार्थं पृष्टः-भद्र ! किम् एतत् ?
+
+
+स आह-विधि-नियोगः ।
+
+
+स आह-कथं तत् ? कथय कारणम् एतस्य ।
+
+
+सो ऽपि तेन पृष्टः । सर्वं चक्र-वृत्तान्तम् अकथयत् ।
+
+
+तच् छ्रुत्वासौ तं विगर्हयन्न् इदम् आह-भोः ! निषिद्धस् त्वं मयानेकशो न शृणोषि मे वाक्यम् । तत् किं क्रियते ? विद्यावान् अपि कुलीनो ऽपि वस्तुतो बुद्धि-रहितो ऽसि । अथवा साध्व् इदम् उच्यते-
+
+
+वरं बुद्धिर् न सा विद्या विद्याया बुद्धिर् उत्तमा ।
+
+बुद्धि-हीनो विनश्यन्ति यथा ते सिंह-कारकाः ॥पन्च्५।३५॥
+
+
+चक्रधर आह-कथम् एतत् ?
+
+
+सुवर्णसिद्धिर् आह-
+
+
+कथा ३
+
+सिंह-कारक-मूर्ख-ब्राह्मण-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने चत्वारो ब्राह्मण-पुत्राह् परं मित्र-भावम् उपगता वसन्ति स्म । तेषां त्रयः शास्त्र-पारङ्गताः परन्तु बुद्धि-रहिताः । एकस् तु बुद्धिमान् केवलं शास्त्र-पराङ्मुखः । अथ तैः कदाचिन् मित्रैर् मन्त्रितम्-को गुणो विद्यायाः, येन देशान्तरं गत्वा, भूपतीन् परितोष्यार्थोपार्जनं न क्रियते । तत् पूर्व-देशं गच्छावः ।
+
+
+तथानुष्ठिते किञ्चिन् मार्गं गत्वा तेषां ज्येष्ठतरः प्राह-अहो ! अस्माकम् एकश् चतुर्थो मूढः । केवलं बुद्धिमान् । न च राज-प्रतिग्रहो बुद्ध्या लभ्यते, विद्यां विना । तन् नास्मै स्वोपार्जितं दास्यामः । तद् गच्छतु गृहम् ।
+
+
+ततो द्वितीयेनाभिहितम्-भोः सुबुद्धे ! गच्छ त्वं स्व-गृहं, यतस् ते विद्या नास्ति ।
+
+
+ततस् तृतीयेनाभिहितम्-अहो, न युज्यते एवं कर्तुम् । यतो वयं बाल्यात् प्रभृत्य् एकत्र क्रीडिताः । तद् आगच्छतु महानुभावो ऽस्मद्-उपार्जित-वित्तस्य सम-भागी भविष्यतीति । उक्तं च-
+
+
+किं तया क्रियते लक्ष्म्या या वधूर् इव केवला ।
+
+या न वेश्येव सामान्या पथिकैर् उपभुज्यते ॥पन्च्५।३६॥
+
+
+तथा च-
+
+अयं निजः परो वेति गणना लघु-चेतसाम् ।
+
+उदार-चरितानां तु वसुधैव कुटुम्बकम् ॥पन्च्५।३७॥
+
+
+तद् आगच्छत्व् एषो ऽपीति ।
+
+
+तथानुष्ठिते तैर् मार्गाश्रितैर् अटव्यां मृत-सिंहस्यास्थीनि दृष्टानि । ततश् चैकेनाभिहितं-अहो ! अद्य विद्या-प्रत्ययः क्रियते । किञ्चिद् एतत् सत्त्वं मृतं तिष्ठति । तद् विद्या-प्रभावेण जीवन-सहितं कुर्मः । अहम् अस्थि-सञ्चयं करोमि ।
+
+
+ततश् च तेनौत्सुक्याद् अस्थि-सञ्चयः कृतः । द्वितीयेन चर्म-मांस-रुधिरं संयोजितम् । तृतीयो ऽपि यावज् जीवनं सञ्चारयति, तावत् सुबुद्धिना निषिद्धः-भोः तिष्ठतु भवान् । एष सिंहो निष्पाद्यते । यद्य् एनं सजीवं करिष्यसि ततः सर्वान् अपि व्यापादयिष्यति ।
+
+
+इति तेनाभिहितः स आह-धिङ् मूर्ख ! नाहं विद्याया विफलतां करोमि ।
+
+
+ततस् तेनाभिहितं-तर्हि प्रतीक्षस्व क्षणं यावद् अहं वृक्षम् आरोहामि ।
+
+
+तथानुष्ठिते, यावत् सजीवः कृतस् तावत् ते त्रयो ऽपि सिंहेनोत्थाय व्यापादिताः । स च पुनर् वृक्षाद् अवतीर्य गृहं गतः । अतो ऽहं ब्रवीमि-वरं बुद्धिर् न सा विद्या इति ।
+
+
+
+***********************************************************************  
+
+
+
+अतः परम् उक्तं स सुवर्णसिद्धिना-
+
+
+अपि शास्त्रेषु कुशला लोकाचार-विवर्जिताः ।
+
+सर्वे ते हास्यतां यान्ति यथा ते मूर्ख-पण्डिताः ॥पन्च्५।३८॥
+
+
+चक्रधर आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ४
+
+मूर्ख-पण्डित-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने चत्वारो ब्राह्मणाः परस्परं मित्रत्वम् आपन्ना वसन्ति स्म । बाल-भावे तेषां मतिर् अजायत-भोः वेशान्तरं गत्वा विद्याया उपार्जनं क्रियते ।
+
+
+अथ्:अन्यस्मिन् दिवसे ते ब्राह्मणाः परस्परं निश्चयं कृत्वा विद्योपार्जनार्थं कान्यकुब्जे गताः । तत्र च विद्या-मठे गत्वा पठन्ति । एवं द्वादशाब्दानि यावद् एकचित्ततया पठित्वा, विद्या-कुशलास् ते सर्वे सञ्जाताः ।
+
+
+ततस् तैश् चतुर्भिर् मिलित्वोक्तम्-वयं सर्व-विद्या-पारङ्गताः । तद्-उपाध्यायम् उत्कलापयित्वा स्व-देशं गच्छामः । तथैवानुष्ठीयताम् इत्य् उक्त्वा ब्राह्मणाः उपाध्यायम् उकलापयित्वा अनुज्ञां लब्ध्वा पुस्तकानि नीत्वा प्रचलिताः । यावत् किञ्चिन्-मार्गं यान्ति, तावद् द्वौ पन्थानौ समायातौ उपविष्टाः सर्वे ।
+
+
+तत्रैकः प्रोवाच-केन मार्गेण गच्छामः ?
+
+
+एतस्मिन् समये तस्मिन् पत्तने कश्चित् वणिक्-पुत्रो मृतः । तस्य दाहाय महाजनो गतो ऽभूत् । ततश् चतूर्णां मध्याद् एकेन पुस्तकम् अवलोकितम्-महाजनो येन गतः स पन्थः इति । तन् महा-जन-मार्गेण गच्छामः ।
+
+
+अथ ते पण्डिता यावन् महाजनम् एलापकेन सह यान्ति, तावद् रासभः कश्चित् तत्र श्मशाने दृष्टः । अथ द्वितीयेन पुस्तकम् उद्घाट्यावलोकितम् ।
+
+
+उत्सवे व्यसने प्राप्ते दुर्भिक्षे शत्रु-सङ्कटे ।
+
+राज-द्वारे श्मशाने च यस् तिष्ठति स बान्धवः ॥पन्च्५।३९॥
+
+
+तद् अहो ! अयम् अस्मदीयो बान्धवः । ततः कश्चित् तस्य ग्रीवायां लगति । कश्चित् पादौ प्रक्षालयति । अथ यावत् ते पण्डिताह् दिशाम् अवलोकनं कुर्वन्ति तावत् कश्चिद् दुष्टो दृष्टः । तैश् चोक्तम्-एतत् किम् ?
+
+
+तावत् तृतीयेन पुस्तकम् उद्घाट्योक्तम्-धर्मस्य त्वरिता गतिः । तन् नूनम् एष धर्मस् तावत् ।
+
+
+चतुर्थेनोक्तम्-इष्टं धर्मेण योजयेत् ।
+
+
+अथ तैश् च रासभ उष्ट्र-ग्रीवायां बद्धः । तत् तु केनचित् तत्-स्वामिनो रजकस्याग्रे कथितम् । यावद् रजकस् तेषां मूर्ख-पण्डितानां प्रहार-करणाय समायातस् तावत् ते प्रणष्टाः ।
+
+
+ततो तावद् अग्रे किञ्चित् स्तोकं मार्गं यान्ति तावत् काचिन् नदी समासादिता । तस्य जल-मध्ये पलाश-पत्रम् आयातं दृष्ट्वा पण्डितेनैकेनोक्तम्-आगमिष्यति यत् पत्रं तस् अस्मांस् तारयिष्यति । एतत् कथयित्वा तत्-पत्रस्योपरि पतितो यावन् नद्या नीयते तावत् तं नीयमानम् अलोक्यान्येन पण्डितेन केशान्तं गृहीत्वोक्तम्-
+
+
+सर्व-नाशे समुत्पन्ने अर्धं त्यजति पण्डितः ।
+
+अर्धेन कुरुते कार्यं सर्व-नाशो हि दुःसहः ॥पन्च्५।४०॥
+
+
+अथ तैश् च पश्चात् गत्वा कश्चित् ग्राम आसादितः । तेऽपि ग्रामीणैर् निमन्त्रितः पृथग् गृहेषु नीताः । तत एकस्य सूत्रिका घृतमण्ड-संयुता भोजने दत्ता । ततो विचिन्त्य पण्डितेनोक्तं यत्-दीर्घ-सूत्री विनश्यति इति । एवम् उक्त्वा भोजनं परित्यज्य गतः । तथा द्वितीयस्य भण्डका दत्ताह् । तेनायुक्तं-अतिविस्तार-विस्तीर्णं तद् भवेन् न चिरायुषम् । स भोजनं त्यक्त्वा गतः ।
+
+
+अथ तृतीयस्य वाटिका भोजने दत्ता । तत्रापि तेन पण्डितेनोक्तम्-छिद्रेष्व् अनर्था बहुलीभवन्ति । एवं ते त्रयो ऽपि पण्डिताः क्षुत्क्षाम-कण्ठालोके हास्यमानास् ततः स्थानात् स्व-देशं गताः ।
+
+
+अथ सुवर्ण-सिद्धिर् आह-यत् त्वं लोक-व्यवहारम् अजानन् मया वार्यमाणो ऽपि न स्थितः तत ईदृशीम् अवस्थातुम् उपगतः । अतो ऽहं ब्रवीमि-अपि शास्त्रेषु कुशलाः इति ।
+
+
+तच् छ्रुत्वा चक्रधर आह-अहो अकारणम् एतत् । यतो हि-
+
+
+सुबुद्धयो विनश्यन्ति दुष्ट-दैवेन नाशिताः ।
+
+स्वल्प-धीर् अपि तस्मिंस् तु कुले नन्दति सन्ततम् ॥पन्च्५।४१॥
+
+
+उक्तं च-
+
+अरक्षितं तिष्ठति दैव-रक्षितं सुरक्षितं दैव-हतं विनश्यति ।
+
+जीवत्य् अनाथो ऽपि वने विसर्जितः कृत-प्रयत्नो ऽपि गृहे न जीवति ॥पन्च्५।४२॥
+
+
+तथा च-
+
+शतबुद्धिः शिरस्थो ऽयं लम्बते च सहस्र-धीः ।
+
+एक-बुद्धिर् अहं भद्रे क्रीडामि विमले जले ॥पन्च्५।४३॥
+
+
+सुवर्णसिद्धिर् आह-कथम् एतत् ?
+
+
+स आह-
+
+कथा ५
+
+मत्स्य-मण्डूक-कथा
+
+
+कस्मिंश्चिज् जलाशये शतबुद्धिः सहस्रबुद्धिश् च द्वौ मत्स्यौ निवसतः स्म । अथ तयोर् एकबुद्धिर् नाम मण्डूको मित्रतां गतः । एवं ते त्रयो ऽपि जल-तीरे वेलायां सुभाषित-गोष्ठी-सुखम् अनुभूय, भूयो ऽपि सलिलं प्रविशन्ति ।
+
+
+अथ कदाचित् तेषां गोष्ठी-गतानां तस्मिन् जलाशये समायाताः । ततः सलिलाशयं दृष्ट्वा मिथः प्रोचुः-अहो बहु-मत्स्यो ऽयं ह्रदो दृश्यते, स्वल्प-सलिलश् च। तत् प्रभातेऽत्रागमिष्यामः । एवम् उक्त्वा स्व-गृहं गताः ।
+
+
+मत्स्याश् च विषण्ण-वदना मिथो मन्त्रं चक्रुः । ततो मण्डूक आह-भोः शतबुद्धे ! श्रुतं धीवरोक्तं भवता ? तत् किम् अत्र युज्यते कर्तुम् ? पलायनम् अवष्टम्भो वा ? यत् कर्तुं युक्तं भवति तद् आदिश्यताम् अद्य ।
+
+
+तच् छ्रुत्वा सहस्र-बुद्धिः प्रहस्य आह-भोः मित्र ! मा भैषीः । तयोः वचन-श्रवण-मात्राद् एव भयं न कार्यम् । न भेतव्यम् । उक्तं च-
+
+
+सर्पाणां च खलानां च सर्वेषां दुष्ट-चेतसाम् ।
+
+अभिप्राया न सिध्यन्ति तेनेदं वर्तते जगत् ॥पन्च्५।४४॥
+
+
+तावत् तेषाम् आगमनम् अपि न सम्पत्स्यते । भविष्यति तर्हि त्वां बुद्धि-प्रभावेणात्म-सहितं रक्षयिष्यामि । यतो ऽनेकांसलिल-चर्याम् अहं जानामि ।
+
+
+तद् आकर्ण्य शतबुद्धिर् आह-भोः युक्तम् उक्तं भवता । सहस्रबुद्धिर् एव भवान् । अथवा साध्व् इदम् उच्यते ।
+
+
+बुद्धेर् बुद्धिमतां लोके नास्त्य् अगम्यं हि किञ्चन ।
+
+बुद्ध्या यतो हता नन्दाश् चाणक्येनासि-पाणयः ॥पन्च्५।४५॥
+
+
+तथा-
+
+न यत्रास्ति गतिर् वायो रश्मीनां च विवस्वतः ।
+
+तत्रापि प्रविशत्य् आशु बुद्धिर् बुद्धिमतां सदा ॥पन्च्५।४६॥
+
+
+ततो वचन-श्रवण-मात्राद् अपि पितृ-पर्यायागतं जन्म-स्थानं त्यक्तुं न शक्यते । उक्तं च-
+
+
+न यत् स्वर्गेऽपि सौख्यं स्याद् दिव्य-स्पर्शेन शोभने ।
+
+कुस्थानेऽपि भवेत् पुंसां जन्मनो यत्र सम्भवः ॥पन्च्५।४७॥
+
+
+तन् न कदाचिद् अपि गन्तव्यम् । अहं त्वां बुद्धि-प्रभावेण रक्षयिष्यामि । मण्डूक आह-भद्रौ ! मम तावद् एकैव बुद्धिः पलायन-परा । तद् अहम् अन्य-जलाशयम् अद्यैव सभार्यो यास्यामि ।
+
+
+एवम् उक्त्वा स मण्डूको रात्राव् एवान्य-जलाशयं गतः । धीवरैर् अपि प्रभाते आगत्य, जघन्य-मध्यमोत्तम-जलचराः मत्स्य-कूर्म-मण्डूक-कर्कटादयो गृहीताः । ताव् अपि शतबुद्धि-सहस्रबुद्धी सभार्यौ पलायमानौ चिरम् आत्मानं गति-विशेष-विज्ञानैः कुटिल-चारेण रक्षन्तौ जाले निपतितौ, व्यापादितौ च ।
+
+
+अथापराह्न-समये प्रहृष्टास् ते धीवराः स्व-गृहं प्रति प्रस्थिताः । गुरुत्वाच् चैकेन शतबुद्धिः स्कन्धे कृतः सहस्रबुद्धिः प्रलम्बमानो नीयते । ततश् च वापीकण्ठोपगतेन मण्डूकेन तौ तथा नीयमानौ दृष्ट्वा अभिहिता स्वपत्नी-प्रिये ! पश्य पश्य-
+
+
+शतबुद्धिः शिरःस्थो ऽयं लम्बते च सहस्रधीः ।
+
+एकबुद्धिर् अहं भद्रे क्रीडामि विमले जले ॥पन्च्५।४८॥
+
+
+अतश् च वरं बुद्धिर् न सा विद्या यद् भवतोक्तं तत्रेयं मे मतिर् यत् न एकान्तेन बुद्धिर् अपि प्रमाणम् ।
+
+
+सुवर्णसिद्धिः प्राह-यद्यप्य् एतद् अस्ति, तथापि मित्र-वचनं न लङ्घनीयम् । परं किं क्रियते ? निवारितो ऽपि मया न स्थितो ऽसि, अतिलौल्यात् विद्याहङ्काराच् च । अथवा साध्व् इदम् उच्यते-
+
+
+साधु मातुल गीतेन मया प्रोक्तो ऽपि न स्थितः ।
+
+अपूर्वो ऽयं मणिर् बद्धः सम्प्राप्तं गीत-लक्षणम् ॥पन्च्५।४९॥
+
+
+चक्रधर आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ६
+
+रासभ-शृगाल-कथा
+
+
+कस्मिंश्च्द् अधिष्ठाने उद्धतो नाम गर्दभः प्रतिवसति स्म । स सदैव रजक-गृहे भारोद्वहनं कृत्वा रात्रौ स्वेच्छया पर्यटति । ततः प्रत्यूषे बन्धन-भयात् स्वयम् एव रजक-गृहम् आयाति । रजको ऽपि ततस् तं बन्धनेन नियुनक्ति ।
+
+
+अथ तस्य रात्रौ क्षेत्राणि पर्यटतः कदाचिच् छृगालेन सह मैत्री सञ्जाता स च पीवरत्वाद् वृत्ति-भङ्गं कृत्वा कर्कटिका-क्षेत्रे शृगाल-सहितः प्रविशति । एवं तौ यदृच्छया चिर्भटिका-भक्षणं कृत्वा, प्रत्यहं प्रत्यूषे स्व-स्थानं व्रजतः ।
+
+
+अथ कदाचित् तेन मदोद्धतेन रासभेन क्षेत्र-मध्य-स्थितेन शृगाओ ऽभिहितः-भोः भगिनी-सूत ! पश्य पश्य । अतीव निर्मला रजनी । तद् अहं गीतं करिष्यामि । तत् कथय कतमेन रागेण करोमि ।
+
+
+स आह-माम ! किम् अनेन वृथानर्थ-प्रचालनेन ? यतश् चौरकर्म-प्रवृत्ताव् आवाम् । निभृतैश् च चौर-जारैर् अत्र स्थातव्यम् । उक्तं च-
+
+
+कांसी विवर्जयेच् चौर्यं निद्रालुश् चेत् स पुंश्चलीम् ।
+
+जिह्वा-लौल्यं च रुजाक्रान्तो जीवितं यो ऽत्र वाञ्छति ॥पन्च्५।५०॥
+
+
+अपरं त्वदीयं गीतं न मधुर-स्वरं, शङ्ख-शब्दानुकारं दूराद् अपि श्रूयते । तद् अत्र क्षेत्रे रक्षा-पुरुषाः सुसुप्ताः सन्ति । ते उत्थाय वधं बन्धनं वा करिष्यन्ति । तद् भक्षय तावद् अमृतमयीश् चर्भटीः । मा त्वम् अत्र गीत-व्यापार-परो भव ।
+
+
+तच् छ्रुत्वा राभस आह-भोः वनाश्रयत्वात् त्वं गीत-रसं न वेत्सि, तेनैतद् ब्रवीषि । उक्तं च-
+
+
+शरज्-ज्योत्स्नाहते दूरं तमसि प्रिय-सन्निधौ ।
+
+धन्यानां विशति श्रोत्रे गीत-झङ्कार-जा सुधा ॥पन्च्५।५१॥
+
+
+शृगाल आह-माम, अस्त्य् एतत् । परं न वेत्सि त्वं गीतम् । केवलम् उन्नदसि । तत् किं तेन स्वार्थ-भ्रंशकेन ?
+
+
+रासभ आह-धिग् धिङ् मूर्ख ! किम् अहं न जानासि गीतम् ? तद् यथा तस्य भेदान् शृणु-
+
+सप्त स्वरास् त्रयो ग्रामा मूर्च्छताश् चैकत्रिंशतिः ।
+
+तानास् त्व् एकोनपऊचाशत् तिस्रो मात्रा लयास् त्रयः ॥पन्च्५।५२॥
+
+स्थान-त्रयं यतीनां च षड्-अस्यानि रसा नव ।
+
+रागा षट्-त्रिंशतिर् भावाश् चत्वारिंशत् ततः स्मृताः ॥पन्च्५।५३॥
+
+पञ्चाशीत्य्-अधिकं ह्य् एतद् गीताङ्गानां शतं स्मृतम् ।
+
+स्वयम् एव पुरा प्रोक्तं भरतेन श्रुतेः परम् ॥पन्च्५।५४॥
+
+नान्यद् गीतात् प्रियं लोके देवानाम् अपि दृश्यते ।
+
+शुष्क-स्नायु-स्वराह्लादात् त्र्य्-अक्षं जग्राह रावणः ॥पन्च्५।५५॥
+
+
+तत् कथं भगिनी-सुत माम् अनभिज्ञं वदन् निवारयति ?
+
+
+शृगाल आह-माम ! यद्य् एवं यावद् वृत्तेर् द्वार-स्थितः क्षेत्रपालम् अवलोकयामि, त्वं पुनः स्वेच्छया गीतं कुरु ।
+
+
+तथानुष्ठिते रासभ-रटनम् आकर्ण्य क्षेत्रपः क्रोधात् दन्तान् धर्षयन् प्रधावितः । यावद् रासभो दृष्टस् तावल् लगुड-प्रहारैस् तथा हतो, यथा प्रताडितो भू-पृष्ठे पतितः । ततश् च सच्-छिद्रम् उलूखलं तस्य गले बद्ध्वा क्षेत्रपालः प्रसुप्तः । रासभो ऽपि स्वजाति-स्वभावाद् गत-वेदनः क्षणेनाभ्युत्थितः । उक्तं च-
+
+सारमेयस्य चाश्वस्य रासभस्य विशेषतः ।
+
+मुहूर्तात् परतौ न स्यात् प्रहार-जनिता व्यथा ॥पन्च्५।५६॥
+
+
+तत तम् एवोलूखलम् आदाय वृत्तिं चूर्णयित्वा पलायितुम् आरब्धः । अत्रान्तरे शृगालो ऽपि दूराद् एव दृष्ट्वा स-स्मितम् आह-
+
+
+साधु मातुल गीतेन मया प्रोक्तो ऽपि न स्थितः ।
+
+अपूर्वो ऽपि मणिर् बद्धः साम्प्रतं गीत-लक्षणम् ॥पन्च्५।५७॥
+
+
+तद् भवान् अपि मया वार्यमाणो ऽपि न स्थितः ।
+
+
+तच् छ्रुत्वा चक्रधर आह-भो मित्र ! सत्यम् एतत् । अथवा साध्व् इदम् उच्यते-
+
+
+यस्य नास्ति स्वयं प्रज्ञा मित्रोक्तं न करोति यः ।
+
+स एव निधनं याति यथा मन्थर-कोलिकः ॥पन्च्५।५८॥
+
+
+सुवर्णसिद्धिर् आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ७
+
+मन्थर-कौलिक-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने मन्थरको नाम कौलिकः प्रतिवसति स्म । तस्य कदाचित् पट-कर्माणि कुर्वतः सर्व-पट-कर्म-काष्ठानि भग्नानि । ततः स कुठारम् आदाय वने काष्ठार्थं गतः । स च समुद्र-तटे यावद् भ्रमन् प्रयातः तावत् तत्र शिंशपा-पादपस् तेन दृष्टः । ततश् चिन्तितवान्-महान् अयं वृक्षो दृश्यते । तद् अनेनैव कर्तितेन प्रभूतानि पट-कर्मोपकरणानि भविष्यन्ति । इत्य् अवधार्य तस्योपरि कुठारम् उत्क्षिप्तवान् ।
+
+
+अथ तत्र वृक्षे कश्चित् व्यन्तरः समाश्रित्य आसीत् । अथ तेनाभिहितम्-भोः ! मद्-आश्रयो ऽयं पादपः सर्वथा रक्षणीयः । यतो ऽहम् अत्र महा-सौख्येन तिष्ठामि । समुद्र-कल्लोल-स्पर्शनाच् छीत-वायुनाप्यायितः ।
+
+
+कौलिक आह-भोः ! किम् अहं करोमि ? दारु-सामग्रीं विना मे कुटुम्बं बुभुक्षया पीड्यते । तस्माद् अन्यत्र शीघ्रं गम्यताम् । अहम् एनं कर्तयिष्यामि ।
+
+
+व्यन्तर आह-भोः ! तुष्टस् तवाहम् । तत् प्रार्थ्यताम् अभीष्टं किञ्चित् । रक्षैमं पादपम् इति ।
+
+
+कौलिक आह-यद्य् एव तद् अहं स्व-गृहं गत्वा स्व-मित्रं स्व-भार्यां च पृष्ट्वा आगमिष्यामि । ततस् त्वया देयम् ।
+
+
+अथ तथेति व्यन्तरेण प्रतिज्ञाते स कौलिकः प्रहृष्टः स्व-गृहं प्रति निवृत्तो यावद् अग्रे गच्छति, तावद् ग्राम-प्रवेशे निज-सुहृदं नापितम् अपश्यत् । ततः तस्य व्यन्तर-वाक्यं निवेदयामास, यत्-अहो मित्र ! मम कश्चित् व्यन्तरः सिद्धः । तत् कथय, किं प्रार्थये ? अहं त्वां प्रष्टुम् आगतः ।
+
+
+नापित आह-भद्र ! यद्य् एवं तद् राज्यं प्रार्थयस्व, येन त्वं राजा भवसि अहं त्वन्-मन्त्री । द्वाव् अपीह सुखम् अनुभूय पर-लोक-सुखम् अनुभवावः । उक्तं च-
+
+
+राजा दान-परो नित्यम् इह कीर्तिम् अवाप्य च ।
+
+तत् प्रभावात् पुनः स्वर्गं स्पर्धते त्रिदशैः सह ॥पन्च्५।५९॥
+
+
+कौलिक आह-अस्त्य् एतत् तथापि गृहिणीं पृच्छामि ।
+
+
+स आह-भद्र ! शास्त्र-विरुद्धम् एतत् यत् स्त्रिया सह मन्त्रः । यतस् ताः स्वल्प-मतयो भवन्ति । उक्तं च-
+
+
+भोजनाच्छादने दद्याद् ऋतु-काले च सङ्गमम् ।
+
+भूषणाद्यं च नारीणां न ताभिर् मन्त्रयेत् सुधीः ॥पन्च्५।६०॥
+
+यत्र स्त्री यत्र कितवो बालो यत्र प्रशासिता ।
+
+तद् गृहं क्षयम् आयाति भार्गवो हीदम् अब्रवीत् ॥पन्च्५।६१॥
+
+तावत् स्यात् सुप्रसन्नास्यस् तावद् गुरु-जने रतः ।
+
+पुरुषो योषितां यावन् न शृणोति वचो रहः ॥पन्च्५।६२॥
+
+एताः स्वार्थ-परा नार्यः केवलं स्व-सुखे रताः ।
+
+न तासां वल्लभः को ऽपि सुतो ऽपि स्व-सुखं विना ॥पन्च्५।६३॥
+
+
+कौलिक आह-तथापि प्रष्टव्या सा मया । यतः पतिव्रता सा । अपरं ताम् अपृष्ट्वाहं न किञ्चित् करोमि ।
+
+
+एवं तम् अभिधाय सत्वरं गत्वा ताम् उवाच-प्रिये ! अद्यास्माकं कश्चिद् व्यन्तरः सिद्धः । स वाञ्छितं प्रयच्छति । तद् अहं त्वां प्रष्टुम् आगतः । तत् कथय किं प्रार्थये ? एष तावन् मम मित्रं नापितो वतद्य् एवं यत्-राज्यं प्रार्थयस्व ।
+
+
+साह-आर्यपुत्र ! का मतिर् नापितानाम् ? तन् न कार्यं तद् वचः । उक्तं च-
+
+
+चारणैर् वन्दिभिर् नीचैर् नापितैर् बालकैर् अपि ।
+
+न मन्त्रं मैत्मान् कुर्यात् सार्धं भिक्षुभिर् एव च ॥पन्च्५।६४॥
+
+
+अपरं महती क्लेश-परम्परैषा राज्य-स्थितिः सन्धि-विग्रह-यानासन-संश्रय-द्वैधीभावादिभिः कदाचित् पुरुषस्य सुखं न प्रयच्छतीति । यतः-
+
+
+यदैव राज्ये क्रियतेऽभिषेकस् तदैव याति व्यसनेषु बुद्धिः ।
+
+घटा नृपाणाम् अभिषेक-काले सहाम्भसैवापदम् उद्गिरन्ति ॥पन्च्५।६५॥
+
+
+तथा च-
+
+रामस्य व्रजनं वने निवसनं पाण्डोः सुतानां वने
+
+वृष्णीनां निधनं नलस्य नृपते राज्यात् परिभ्रंशनम् ।
+
+सौदासं तद्-अवस्थम् अर्जुन-वधं सञ्चिन्त्य लङ्केश्वरं
+
+दृष्ट्वा राज्य-कृते विडम्बन-गतं तस्मान् न तद् वाञ्छयेत् ॥पन्च्५।६६॥
+
+
+यद्-अर्थं भ्रातरः पुत्रा अपि वाञ्छन्ति ये निजाः ।
+
+वधः राज्य-कृतां राज्ञां तद् राज्यं दूरतस् त्यजेत् ॥पन्च्५।६७॥
+
+
+कौलिक आह-सत्यम् उक्तं भवत्या । तत् कथय किं प्रार्थये ?
+
+
+साह-त्वं तावद् एकं पटं नित्यम् एव निष्पादयसि । तेन सर्वा व्यय-शुद्धिः सम्पद्यते । इदानीं त्वम् आत्मनो ऽन्यद् बाहु-युगलं द्वितीयं शिरश् च याचस्व, येन पट-द्वयं सम्पादयसि पुरतः पृष्ठतश् च । एकस्य मूल्येन गृःए यथा-पूर्वं व्ययं सम्पादयिष्यसि, द्वितीयस्य मूल्येन विशेष-कृत्यानि करिष्यसि । एवं सौख्येन स्वजाति-मध्ये श्लाघ्यमानस्य कालो यास्यति, लोक-द्वयस्योपार्जना च भविष्यति ।
+
+
+सो ऽपि तद् आकर्ण्य प्रहृष्टः प्राह-साधु पतिव्रते ! साधु ! युक्तम् उक्तं भवत्या । तद् एवं करिष्यामि । एष मे निश्चयः ।
+
+
+ततो ऽसौ गत्वा व्यन्तरं प्रार्थयांचक्रे-भो, यदि ममेप्सितं प्रयच्छसि तत् देहि मे द्वितीयं बाहु-युगलं शिरश् च ।
+
+
+एवम् अभिहिते तत्-क्षणाद् एव स द्विशिराश् चतुर्बाहुश् च सञ्जातः । ततो हृष्ट-मना यावद् गृहम् आगच्छति तावल्-लोकैः राक्षसो ऽयम् इति मान्यमानैर् लगुड-पाषाण-प्रहारैस् ताडितो मृतश् च ।
+
+
+अतो ऽहं ब्रवीमि-यस्य नास्ति स्वयं प्रज्ञा इति ।
+
+
+चक्रधर आह-भोः ! सत्यम् एतत् । सर्वो ऽपि जनो ऽश्रद्देयाम् आशापिशाचिकां प्राप्य हास्य-पदवीं याति । अथवा साध्व् इदम् उच्यते केनापि-
+
+
+अनागतवतीं चिन्ताम् असम्भाव्यां करोति यः ।
+
+स एव पाण्डुरः शेते सोम-शर्म-पिता यथा ॥पन्च्५।६८॥
+
+
+सुवर्णसिद्धिर् आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ८
+
+सोम-शर्म-पितृ-कथा
+
+
+कस्मिंश्चिन् नगरे कश्चित् स्वभाव-कृपणो नाम ब्राह्मणः प्रतिवसति स्म । तस्य भिक्षार्जितैः सक्तुभिर् भुक्त-शेषैः कलशः सम्पूरितः । तं च घटं नागदन्तेऽवलम्ब्य तस्याधस्तात् खट्वां निधाय सततम् एक-दृष्ट्या तम् अवलोकयति ।
+
+
+अथ कदाचिद् रात्रौ सुप्तश् चिन्तयामास-यत् परिपूर्णो ऽयं घटस् तावत् सक्तुभिर् वर्तते । तद् यदि दुर्भिक्षं भवति, तद् अनेन रूप्यकाणां शतम् उत्पत्स्यते । ततस् तेन मयाजाद् वयं ग्रहीतव्यम् । ततः षाण्-मासिकम् आप्रसव-वशात् ताभ्यां यूथं भविष्यति । ततो ऽजाभिः प्रभूता गा ग्रहीष्यामि । गोभिर् महिषीः । महिषीर् बडवाः । बडवा-प्रसवतः प्रभूता अश्वा भविष्यन्ति । तेषां विक्रयात् प्रभूतं सुवर्णं भविष्यति । सुवर्णेन चतुःशालं गृहं सम्पत्स्यते ।
+
+
+ततः कश्चिद् ब्राह्मणो मम गृहम् आगत्य प्राप्त-वयस्कां रूपाढ्यां कन्यां मह्यं दास्यति । तत्-सकाशाट् पुत्रो मे भविष्यति । तस्याःअं सोमशर्मा इति नाम करिष्यामि । ततस् तस्मिन् जानु-चलन-योग्ये सञ्जातेऽहं पुस्तकं गृहीत्वाश्व-शालायाः पृष्ठ-देशे उपविष्टस् तद्-अवधारयिष्यामि । अत्रान्तरे सोमशर्मा मां दृष्ट्वा जनन्य्-उत्सङ्गाज् जानु-चलन-परो ऽश्व-खुरासन्न-वर्ती मत्-समीपम् आगमिष्यति । ततो ऽहं ब्राह्मणीं कोपाविष्टो ऽभिधास्यामि-गृहाण तावद् बालकम् । सापि गृह-कर्म-व्यग्रतयास्मद्-वचनं न श्रोष्यति । ततो ऽहं समुत्थाय तां पाद-प्रहारेण ताडयिष्यामि ।
+
+
+एवं तेन ध्यान-स्थितेन तथैव पाद-प्रहारो दत्तो यथा स घटो भग्नः, स्वयं च सक्तुभिः पाण्डुरतां गतः । अतो ऽहं ब्रवीमि-अनागतवतीं चिन्ताम् इति ।
+
+
+
+***********************************************************************  
+
+
+
+सुवर्णसिद्धिर् आह-एवम् एतत् । कस् ते दोषः, यतः सर्वो ऽपि लोभेन विडम्बितो बाध्यते ? उक्तं च-
+
+
+यो लौल्यात् कुरुते नैवोदर्कम् अवेक्षते ।
+
+विडम्बनाम् अवाप्नोति स यथा चन्द्र-भूपतिः ॥पन्च्५।६९॥
+
+
+चक्रधर आह-कथम् एतत् ?
+
+
+स आह-
+
+
+कथा ९
+
+चन्द्र-भूपति-कथा
+
+
+कस्मिंश्चिन् नगरे चन्द्रो नाम भूपतिः प्रतिवसति स्म । तस्य पुत्रा वानर-क्रीडा-रता वानर-यूथं नित्यम् एवानेक-भोजन-भक्ष्यादिभिः पुष्टिं नयन्ति स्म । अथ वानराधिपो यः स औशनस-बार्हस्पत्य-चाणक्य-मत-वित् तद्-अनुष्ठाता च तत्-सर्वान् अप्य् अध्यापयति स्म ।
+
+
+अथ तस्मिन् राज-गृहे लघु-कुमार-वाहन-योग्यं मेष-यूथम् अस्ति । तन्-मध्याद् एको जिह्वा-लौल्याद् अहर्-निशं निःशङ्कं महानसे प्रविश्य यत् पश्यति तत् सर्वं भक्षयति । ते च सूपकर् यत् किञ्चित् काष्ठं मृण्-मयं भाजनं कांस्य-पात्रं ताम्र-पात्रं वा पश्यन्ति तेनाशु ताडयन्ति ।
+
+
+सो ऽपि वानर-यूथपस् तद् दृष्ट्वा व्यचिन्तयत्-अहो मेष-सूपकार-कलहो ऽयं वानराणां क्षयाय भविष्यति । यतो ऽन्न-रसास्वाद-लम्पटो ऽयं मेषो, महा-कोपाश् च सूपकारा यथासन्न-वस्तुना प्रहरन्ति । तद् यदि वस्तुनो ऽभावात् कदाचिद् उल्मुकेन ताडयिष्यन्ति, तदोर्णा-प्रचुरो ऽयं मेषः स्वल्पेनापि वह्निना प्रज्वलयिष्यति । तद् दह्यमानः पुनर् अश्व-कुट्यां समीप-वर्तिन्यां प्रवेक्ष्यति । सापि तृण-प्राचुर्याज् ज्वलिष्यति । ततो ऽश्वा वह्नि-दाहम् अवाप्स्यन्ति ।
+
+
+शालिहोत्रेण पुनर् एतद् उक्तं यत्-वानर-वसयाश्वानां वह्नि-दाह-दोषः प्रशाम्यति । तन् नूनम् एतेन भाव्यम् अत्र निश्चयः । एवं निश्चित्य सर्वान् वानरान् आहूय रहसि प्रोवाच, यत्-
+
+
+मेषेण सूपकाराणां कलहो यत्र जायते ।
+
+स भविष्यत्य् असन्दिग्धं वानराणां क्षयावहः ॥पन्च्५।७०॥
+
+तस्मात् स्यात् कलहो यत्र गृहे नित्यम् अकारणः ।
+
+तद्-गृहं जीवितं वाञ्छन् दूरतः परिवर्जयेत् ॥पन्च्५।७१॥
+
+कलहान्तानि हर्म्याणि कुवाक्यान्तं च सौहृदम् ।
+
+कुराजान्तानि राष्ट्राणि कुकर्मान्तं यशो नृणाम् ॥पन्च्५।७२॥
+
+
+तन् न यावत् सर्वेषां सङ्क्षयो भवति, तावद् एवैतद् राज-गृहं सन्त्यज्य वनं गच्छामः । अथ तत् तस्य वचनम् अश्रद्धेयं श्रुत्वा मदोद्धता वानराः प्रहस्य प्रोचुः-भो भवतो वृद्ध-भावाद् बुद्धि-वैकल्यं सञ्जातं, येनैतद् ब्रवीषि । उक्तं च-
+
+
+वदनं दशनैर् हीनं लाला स्रवति नित्यशः ।
+
+न मतिः स्फुरति क्वापि बाले वृद्धे विशेषतः ॥पन्च्५।७३॥
+
+
+न वयं स्वर्ग-समानोपभोगान् नाना-विधान् भक्ष्य-विशेषान् राज-पुत्रैः स्व-दत्तान् अमृत-कल्पान् परित्यज्य तत्राटव्यां कषाय-कटु-तिक्त-क्षार-रूक्ष-फलानि भक्षयिष्यामः ।
+
+
+तच् छ्रुत्वाश्रु-कलुषां दृष्टिं कृत्वा स प्रोवाच-रे रे मूर्खाः ! यूयम् एतस्य सुखस्य परिणामं न जानीथ । किं पाक-रसास्वादन-प्रायम् एतत् सुखं परिणामे विषवद् भविष्यति । तद् अहं कुल-क्षयं स्वयं नावलोकयिष्यामि । साम्प्रतं वनं यास्यामि । उक्तं च-
+
+
+मित्रं व्यसन-सम्प्राप्तं स्व-स्थानं पर-पीडनम् ।
+
+धन्यास् ते ये न पश्यन्ति देश-भङ्गं कुल-क्षयम् ॥पन्च्५।७४॥
+
+
+एवम् अभिधाय सर्वांस् तान् परित्यज्य स यूथाधिपो ऽटव्यां गतः । अथ तस्मिन् गतेऽन्यस्मिन् अहनि स मेषो महानसे प्रविष्टो, यावत् सूपकारेण नान्यत् किञ्चित् समासादितं तावद् अर्ध-ज्वलित-काष्ठेन ताड्यमानो जाज्वल्यमन-शरीरः शब्दायमानो ऽश्व-कुट्यां प्रत्यासन्न-वर्तिन्यां प्रविष्टः ।
+
+
+तत्र तृण-प्राचुर्य-युक्तायां क्षितौ तस्य प्रलुठतः सर्वत्रापि वह्नि-ज्वालास् तथा समुत्थिता यथा केचिद् अश्वाः स्फुटित-लोचनाः पञ्चत्वं गताः । केचिद् बन्धनानि त्रोटयित्वा अर्ध-दग्ध-शरीरा इतश् चेतश् च ह्रेषायमाणा धावमाना सर्वम् अपि जन-समूहम् आकुलीचक्रुः ।
+
+
+अत्रान्तरे राजा सविषादः शालिहोत्रज्ञान् वैद्यान् आहूय प्रोवाच-भोः ! प्रोच्यताम् एषाम् अश्वानां कश्चिद् दाहोपशमनोपायः ।
+
+
+तेऽपि शास्त्राणि विलोक्य प्रोचुः-देव ! प्रोक्तम् अत्र विषये भगवता शालिहोत्रेण, यत्-
+
+
+कपीनां मेदसा दोषो वह्नि-दाह-समुद्भवा ।
+
+अश्वानां नाशम् अभ्येति तमः सूर्योदये यथा ॥पन्च्५।७५॥
+
+
+तत् क्रियताम् एतच् चिकित्सितां द्राक्, यावद् एते न दाह-दोषेण विनश्यन्ति ।
+
+
+सो ऽपि तद् आकर्ण्य समस्त-वानर-वधम् आदिष्टवान् । किं बहुना, सर्वेऽपि ते वानरा विविधायुध-लगुड-पाषाणादिभिर् व्यापादिताः इति ।
+
+
+अथ सो ऽपि वानर-यूथपस् तं पुत्र-पौत्र-भ्रातृ-सुत-भागिनेयादि-सङ्क्षयं ज्ञात्वा विषादम् उपगतः । सन्त्यक्ताहार-क्रियो वनाद् वनं पर्यटति । अचिन्तयच् च-कथम् अहं तस्य नृपापसदयानृणता-कृत्येनापकृत्यं करिष्यामि । उक्तं च-
+
+
+मर्षयेद् धर्षणां यो ऽत्र वंशजां पर-निर्मिताम् ।
+
+भयाद् वा यदि वा कामात् स ज्ञेयः पुरुषाधमः ॥पन्च्५।७६॥
+
+
+अथ तेन वृद्ध-वानरेण कुत्रचित् पिपासाकुलेन भ्रमता पद्मिनी-खण्ड-मण्डितं सरः समासादितम् । तद् यावत् सूक्ष्मेक्षिकयावलोकयति तावद् वनचर-मनुष्याणां पद-पङ्क्ति-प्रदेशो ऽस्ति न निष्क्रमणम् । ततश् चिन्तितम्-नूनम् अत्र आक्रान्ते दुष्ट-ग्राहेण भाव्यम् । तत्-पद्मिनी-नालम् आदाय दूरस्थो ऽपि जलं पिबामि ।
+
+
+तथानुष्ठिते तन्-मध्याद् राक्षसो निष्क्रम्य रत्न-माला-विभूषित-कण्ठस् तम् उवाच-भोः ! अत्र यः सलिले प्रवेशं करोति स मे भक्ष्यः इति । तन् नास्ति धूर्ततरस् त्वत्-समो ऽन्यो  यः पानीयम् अनेन विधिना पिबति । ततस् तुष्टो ऽहं, प्रार्थयस्व हृदय-वाञ्छितम् ।
+
+
+कपिर् आह-भोः ! कियती मे भक्षण-शक्तिः ?
+
+
+स आह-शत-सहस्रायुत-लक्षाण्य् अपि जल-प्रविष्टानि भक्षयामि । बाह्यतः शृगालो ऽपि मां धर्षयति ।
+
+
+वानर आह-अस्ति मे केनचिद् भूपतिना सहात्यन्तं वैरम् । यद्य् एनां रत्न-मालां मे प्रयच्छसि, तत् परिवारम् अपि तं भूपतिं वाक्य-प्रपञ्चेन लोभयित्वात्र सरसि प्रवेशयामि ।
+
+
+सो ऽपि श्रद्धेयं वचस् तस्य श्रुत्वा रत्न-मालां दत्त्वा प्राह-भो मित्र ! यत् समुचितं भवति तत् कर्तव्यम् इति ।
+
+
+वानरो ऽपि रत्न-माला-विभूषित-कण्ठो वृक्ष-प्रासादेषु परिभ्रमन् जनैर् दृष्टः । पृष्टश् च-भो यूथप ! भवान् इयन्तं कालं कुत्र स्थितः ? भवता ईदृग् रत्न-माला कुत्र लब्धा ? दीप्त्या सूर्यम् अपि तिरस्करोति ।
+
+
+वानरः प्राह-अस्ति कुत्रचिद् अरण्ये गुप्ततरं महत् सरो धनद-निर्मितम् । तत्र सूर्येऽर्धोदिते रवि-वारे यः कश्चिन् निमज्जति, स धनद-प्रसादाद् ईदृग्-रत्न-माला-विभूषित-कण्ठो निःसरति ।
+
+
+अथ भूभुजा तद् आकर्ण्य, स वानरः समाहूतः । पृष्टश् च-भो यूथाधिप ! किं सत्यम् एतत् ? रत्न-माला-सनाथं सरो ऽस्ति क्वापि ?
+
+
+कपिर् आह-स्वामिन् ! एष प्रत्यक्षतया मत्-कण्ठ-स्थितया रत्न-मालया प्रत्ययस् ते । तद् यदि रत्न-मालया प्रयोजनं तन् मया सह कम् अपि प्रेषय, येन दर्शयामि ।
+
+
+तच् छ्रुत्वा नृपतिर् आह-यद्य् एवं तद् अहं स-परिजनः स्वयम् एष्यामि, येन प्रभूता रत्न-माला उत्पद्यते ।
+
+
+वानर आह-एवं क्रियताम् ।
+
+
+तथानुष्ठिते भूपतिना सह रत्न-माला-लोभेन सर्वे कलत्र-भृत्याः प्रस्थिताः । वानरो ऽपि राज्ञा दोलाधिरूढेन स्वोत्सङ्गे आरोपितः सुखेन प्रीति-पूर्वम् आनीयते । अथवा साध्व् इदम् उच्यते-
+
+तृष्णे देवि नमस् तुभ्यं यया वित्तान्विता अपि ।
+
+अकृत्येषु नियोज्यन्ते भ्रामन्ते दुर्गमेष्व् अपि ॥पन्च्५।७७॥
+
+
+तथा च-
+
+इच्छति शती सहस्रं सहस्री लक्षम् ईहते ।
+
+लक्षाधिपस् तथा राज्यं राज्यस्थः स्वर्गम् ईहते ॥पन्च्५।७८॥
+
+जीर्यन्ते जीर्यतः केशाः दन्ता जीर्यन्ति जीर्यतः ।
+
+जीर्यतश् चक्षुषी श्रोत्रे तृष्णैका तरुणायते ॥पन्च्५।७९॥
+
+
+अथ तत्-सरः समासाद्य वानरः प्रत्यूष-समये राजानम् उवाच-देव ! अत्रार्धोदिते सूर्येऽन्तः-प्रविष्टानां सिद्धिर् भवति तत् सर्वो ऽपि जन एकदैव प्रविशतु । त्वया पुनर् मया सह प्रवेष्टव्यं, येन पूर्व-दृष्ट-स्थानम् आसाद्य, प्रभूतास् ते रत्न-माला दर्शयामि ।
+
+
+अथ प्रविष्टास् ते लोकाः सर्वे भक्षिता राक्षसेन । अथ तेषु चिरमाणेषु राजा वानरम् आह-भो यूथाधिप किम् इति चिरायते मे परिजनः ?
+
+
+तच् छ्रुत्वा वानरः सत्वरं वृक्षम् आरुह्य राजानम् उवाच-भो दुष्ट-नरपते ! राक्षसेनान्तः-सलिल-स्थितेन भक्षितास् ते परिजनः । साधितं मया कुल-क्षयजं वैरम्, तद् गम्यताम् । त्वं स्वामीति मत्वा नात्र प्रवेशितः । उक्तं च-
+
+
+कृते प्रतिकृतं कुर्याद् धिंसिते प्रतिहिंसितम् ।
+
+न तत्र दोषं पश्यामि यो दुष्टे दुष्टम् आचरेत् ॥पन्च्५।८०॥
+
+
+तत् त्वया मम कुल-क्षयः कृतः मया पुनस् तव इति ।
+
+
+अथैतद् आकर्ण्य राजा कोपाविष्टः पदातिर् एकाकी यथायात-मार्गेण निष्क्रान्तः । अथ तस्मिन् भूपतौ गते राक्षस-स्पृष्टो जलान् निष्क्रम्य सानन्दम् इदम् आह-
+
+
+हतः शत्रुः कृतं मित्रं रत्न-माला न हारिता ।
+
+नालेन पिबता तोयं भवता साधु वानर ॥पन्च्५।८१॥
+
+
+अतो ऽहं ब्रवीमि-यो लौल्यात् कुरुते कर्म इति ।
+
+
+
+***********************************************************************  
+
+
+
+एवम् उक्त्वा भूयो ऽपि स चक्रधरम् आह-भो मित्र ! प्रेषय मां, येन स्व-गृहं गच्छामि ।
+
+
+चक्रधर आह-भद्र ! आपद्-अर्थे धन-मित्र-सङ्ग्रहः क्रियते । तन् माम् एवंविधं त्यक्त्वा क्व यास्यसि ? उक्तं च-
+
+
+यस् त्यक्त्वा सापदं मित्रं याति निष्ठुरतां वहन् ।
+
+कृतघ्नस् तेन पापेन नरके यात्य् असंशयम् ॥पन्च्५।८२॥
+
+
+सुवर्णसिद्धिर् आह-भोः, सत्यम् एतद् यदि गम्य-स्थाने शक्तिर् भवति । एतत् पुनर् मनुष्याणाम् अगम्य-स्थानम् । नास्ति कस्यापि त्वाम् उन्मोचयितुं शक्तिः अपरं यथा यथा चक्र-भ्रम-वेदनया तव मुख-विकारं पश्यामि तथा तथाहम् एतज् जानामि यत् द्राग् गच्छामि मा कश्चिन् ममाप्य् अनर्थो भवेद् इति । यतः-
+
+
+यादृशी वदन-च्छाया दृश्यते तव वानर ।
+
+विकालेन गृहीतो ऽसि यः परैति स जीवति ॥पन्च्५।८३॥
+
+
+चक्रधर आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा १०
+
+विकाल-वानर-कथा
+
+
+कस्मिंश्चिन् नगरे भद्रसेनो नाम राजा प्रतिवसति स्म । तस्य सर्व-लक्षण-सम्पन्ना रत्नवती नाम कन्यास्ति । तां कश्चिद् राक्षसो जिहीर्षति । रात्राव् आगत्योपभुङ्क्ते, परं कृत-रक्षोपधानां तां हर्तुं न शक्नोति । सापि तत्-समये रक्षः-सान्निध्यजाम् अवस्थाम् अनुभवति कम्पादिभिः ।
+
+
+एकम् अतिक्रामति काले कदाचित् स राक्षसो मध्य-निशायां गृह-कोणे स्थितः । सापि राज-कन्या स्व-सखीम् उवाच-सखि ! पश्यैष विकालः समये नित्यम् एव मां कदर्थयति । अस्ति तस्य दुरात्मनः प्रतिषेधोपायः कश्चित् ?
+
+
+तच् छ्रुत्वा राक्षसो ऽपि व्यचिन्तयत्-नूनं यथाहं तथान्यो ऽपि कश्चिद् विकाल-नामास्या हरणाय नित्यम् एवागच्छति । परं सो ऽप्य् एनां हर्तुं न शक्नोति । तत् तावद् अश्व-रूपं कृत्वाश्व-मध्य-गतो निरीक्षयामि । किं-रूपः स किं-प्रभावश् चेति ? एवं राक्षसो ऽश्व-रूपं कृत्वाश्वानां मध्ये तिष्ठति ।
+
+
+तथानुष्ठिते निशीथ-समये राज-गृहे कश्चिद् अश्व-चौरः प्रविष्टः । स च सर्वान् अश्वान् अवलोक्य तं राक्षसम् अश्वतमं विज्ञायाधिरूढः ।
+
+
+अत्रान्तरे राक्षसश् चिन्तयामास-नूनम् एष विकाल-नामा  मां चौरं मत्वा कोपान् निहन्तुम् आगतः । तत् किं करोमि ? एवं चिन्तयन् सो ऽपि तेन खलीनं मुखे निधाय कशाघातेन ताडितः । अथासौ भय-त्रस्त-मनाः प्रधावितुम् आरब्धः ।
+
+
+चौरो ऽपि दूरं गत्वा खलीनाकर्षणेन तं स्थिरं कर्तुम् आरब्धवान् । स तु वेगाद् वेगतरं गच्छति । अथ तं तथागणित-खलीनाकर्षणं मत्वा चौरश् चिन्तयामास-अहो नैवं-विधा वाजिनो भवन्त्य् अगणित-खलीनाः । तन् नूनम् अनेनाश्व-रूपेण राक्षसेन भवितव्यम् । यद्यपि कञ्चित् पांसुलं भूमि-देशम् अवलोकयामि तद् आत्मानं तत्र पातयामि । नान्यथा मे जीवितव्यम् अस्ति ।
+
+
+एवं चिन्तयत इष्ट-देवतां स्मरतस् तस्य सो ऽश्वो बट-वृक्षस्य तले निष्क्रान्तः । चौरो ऽपि बट-प्ररोहम् आसाद्य तत्रैव विलग्नः । ततो द्वाव् अपि तौ पृथग्-भूतौ परमानन्द-भाजौ जीवित-विषये लब्ध-प्रत्याशौ सम्पन्नौ ।
+
+
+अथ तत्र बटे कश्चिद् राक्षस-सुहृद् वानरः स्थित आसीत् । तेन राक्षसं त्रस्तम् आलोक्य व्याहृतम्-भो मित्र ! किम् एव अलाय्यतेऽलीक-भयेन ? तद् भक्ष्यो ऽयं मानुषः भक्ष्यताम् ।
+
+
+सो ऽपि वानर-वचो निशम्य, स्वरूपम् आधाय शङ्कित-मनाः स्खलित-गतिर् निवृत्तः । चौरो ऽपि तं वानराहूतं ज्ञात्वा कोपात् तस्य लाङ्गुलं लम्बमानं मुखे निधाय चर्वितवान् ।
+
+
+वानरो ऽपि तं राक्षसाभ्यधिकं मन्यमानो भयान् न किञ्चिद् उक्तवान् । केवलं व्यथार्तो निमीलित-नयनस् तिष्ठति । राक्षसो ऽपि तं तथा-भूतम् अवलोक्य श्लोकम् एनम् अपठत्-
+
+
+यादृशी वचन-च्छाया दृश्यते तव वानर ।
+
+विकालेन गृहीतो ऽसि यः परैति स जीवति ॥पन्च्५।८४॥
+
+
+इत्य् उक्त्वा प्रणष्टश् च । तत् प्रेषय मां येन गृहं गच्छामि । त्वं पुनर् अनुभुङ्क्ष्वात्र स्थित एव लोभ-वृक्ष-फलम् ।
+
+
+चक्रधर आह-भोः अकारणम् एतत् । दैव-वशात् सम्पद्यते नृणां शुभाशुभम् । उक्तं च-
+
+
+दुर्गस् त्रिकूटः परिखा समुद्रो
+
+रक्षांसि योधा धनदाच् च वित्तम् ।
+
+शास्त्रं च यस्योशनसा प्रणीतं
+
+स रावणो दैव-वशाद् विपन्नः ॥पन्च्५।८५॥
+
+
+तथा च-
+
+अन्धकः कुब्जकश् चैव त्रिस्तनी राज-कन्यका ।
+
+त्रयो ऽप्य् अन्यायतः सिद्धाः संमुखे कर्मणि स्थिते ॥पन्च्५।८६॥
+
+
+सुवर्ण-सिद्धिः प्राह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+कथा ११
+
+अन्धक-कुब्जक-त्रिस्तनी-कथा
+
+
+अस्त्य् अत्र धरा-तल उत्तरा-पथे मधु-पुरं नाम नगरम् । तत्र मधुसेना नाम राजा बभूव । तस्य कदाचिद् विषय-सुखम् अनुभवतस् त्रिस्तनी कन्या बभूव । अथ तां त्रस्तनीं जातां श्रुत्वा स राजा कञ्चुकिनः प्रोवाच, यद्-भोस् त्यज्यताम् इयं त्रस्तनी गत्वा दूरेऽरण्ये यथा कश्चिन् न जानाति ।
+
+
+तच् छ्रुत्वा कञ्चुकिनः प्रोचुः-महाराज ज्ञायते यद् अनिष्ट-कारिणी त्रिस्तनी कन्या भवति । तथापि ब्राह्मणम् आहूय प्रष्टव्याः, येन लोक-द्वयं न विरुध्यते, यतः-
+
+यः सततं परिपृच्छति शृणोति सन्धारयत्य् अनिशम् ।
+
+तस्य दिवाकर-किरणैर् नलिनीव विवर्धते बुद्धिः ॥पन्च्५।८७॥
+
+
+तथा च-
+
+पृच्छकेन सदा भाव्यं पुरुषेण विजानता ।
+
+राक्षसेन्द्र-गृहीतो ऽपि प्रश्नान् मुक्तो द्विजः पुरा ॥पन्च्५।८८॥
+
+
+राजा आह--कथम् एतत् ?
+
+
+ते प्रोचुः-
+
+
+कथा १२
+
+चण्डकर्म-नाम-राक्षस-कथा
+
+
+देव ! कस्मिंश्चिद् वनोद्देशे चण्डकर्मा नाम राक्षसः प्रतिवसति स्म । एकदा तेन भ्रमताटव्यां कश्चिद् ब्राह्मणः समासादितः । ततस् तस्य स्कन्धम् आरुह्य प्रोवाच-भो अग्रेसरो गम्यताम् ।
+
+
+ब्राह्मणो ऽपि भय-त्रस्त-मनास् तम् आदाय प्रस्थितः । अथ तस्य कमलोदर-कोमलौ पादौ दृष्ट्वा ब्राह्मणो राक्षसम् अपृच्छत्-भोः ! किम् एवं-विधौ ते पादाव् अतिकोमलौ ?
+
+
+राक्षस आह-भोः ! व्रतम् अस्ति, नाहम् आर्द्र-पादो भूमिं स्पृशामि ।
+
+
+ततस् तच् छ्रुत्वात्मनो मोक्षोपायं चिन्तयंस् तत्-सरः प्राप्तः । ततो राक्षसेनाभिहितं-भोः ! यावद् अहं स्नानं कृत्वा देवतार्चन-विधिं विधायागच्छामि तावत् त्वयातः स्थानाद् अन्यत्र न गन्तव्यम् ।
+
+
+तथानुष्ठिते दिव्जश् चिन्तयामास-नूनं देवतार्चन-विधेर् ऊर्ध्वं माम् एष भक्षयिष्यति । तद् द्रुततरं गच्छामि, येनैष आर्द्र-पादो न मम पृष्ठम् एष्यति ।
+
+
+तथानुष्ठिते राक्षसो व्रत-भङ्ग-भयात् तस्य पृष्ठं न गतः । अतो ऽहं ब्रवीमि-पृच्छकेन सदा भाव्यम् इति ।
+
+
+अथ तेभ्यस् तच् छ्रुत्वा-राजा द्विजान् आहूय प्रोवाच-भो ब्राह्मणाः ! त्रिस्तनी मे कन्या समुत्पन्ना, तत् किं तस्याः प्रतिविधानम् अस्ति, न वा ?
+
+
+हीनाङ्गी वाधिकाङ्गी वा या भवेत् कन्यका नृणाम् ।
+
+भर्तुः स्यात् सा विनाशाय स्व-शील-निधनाय च ॥पन्च्५।८९॥
+
+या पुनस् त्रिस्तनी कन्या याति लोचन-गोचरम् ।
+
+पितरं नाशत्य् एव सा द्रुतं नात्र संशयः ॥पन्च्५।९०॥
+
+
+तस्माद् अस्या दर्शनं परिहरतु देवः । तथा यदि कश्चिद् उद्वाहयति, तद् एनां तस्मै दत्त्वा, देश-त्यागेन स नियोजयितव्यः इति । एवं-कृते लोक-द्वयाविरुद्धता भवति ।
+
+
+अथ तेषां तद्-वचनम् आकर्ण्य स राजा पटह-शब्देन सर्वत्र घोषणाम् आज्ञापयामास-अहो ! त्रिस्तनीं राजकन्यां यः कश्चिद् उद्वाहयति स सुवर्ण-लक्षम् आप्नोति देश-त्यागं च ।
+
+
+एवं तस्याम् आघोषणायां क्रियमाणायां महान् कालो व्यतीतः । न कश्चित् तां प्रतिगृह्णाति । सापि यौवनोन्मुखी सञ्जाता सुगुप्त-स्थान-स्थिता यत्नेन रक्ष्यमाणा तिष्ठति ।
+
+
+अत्र तत्रैव नगरे कश्चिद् अन्धस् तिष्ठति । तस्य च मन्थरक-नामा कुब्जो ऽग्रेसरो यष्टि-ग्राही । ताभ्यां तं पटह-शब्दम् आकर्ण्य, मिथो मन्त्रितं-स्पृश्यतेऽयं पटहः । यदि कथम् अपि दैवात् कन्या लभ्यते । सुवर्ण-प्राप्तिश् च भवति, तथा सुखेन सुवर्ण-प्राप्त्या कालो व्रजति । अथ यदि तस्य दोषतो मृत्युर् भवति । तदा दारिद्र्योपात्तस्यास्य क्लेशस्य पर्यन्तो भवति । उक्तं च-
+
+
+लज्जा स्नेहः स्वर-मधुरता बुद्धयो यौवन-श्रीः
+
+कान्तासङ्गः स्वजन-ममता दुःख-हानिर् विलासः ।
+
+धर्मः शास्त्रं सुर-गुरु-मतिः शौचम् आचार-चिन्ता
+
+पूर्णे सर्वे जठर-पिठरे प्राणिनां सम्भवन्ति ॥पन्च्५।९१॥
+
+
+एवम् उक्त्वान्धेन गत्वा, स पटहः स्पृष्टः । उक्तं च-भोः ! अहं तां कन्याम् उद्वाहयामि, यदि राजा मे प्रयच्छति ।
+
+
+ततस् तै राज-पुरुषैर् गत्वा राज्ञे निवेदितम्-देव ! अन्धेन केनचित् पटहः स्पृष्टः । तद् अत्र विषये देवः प्रमाणम् ।
+
+
+राजा प्राह-
+
+
+अन्धो वा वधिरो वाथ कुष्टी वाप्य् अन्त्यजो ऽपि वा ।
+
+परिगृह्णातु तां कन्यां स-लक्षां स्याद् विदेशगः ॥पन्च्५।९२॥
+
+
+अथ राजादेशात् तै राज-पुरुषैस् तं नदी-तीरे नीत्वा सुवर्ण-लक्षेण समं विवाह-विधिना त्रिस्तनीं तस्मै दत्त्वा, जल-याने निधाय कैवर्ताः प्रोक्ताः-भो ! देशान्तरं नीत्वा कस्मिंश्चिद् अधिष्ठानेऽन्धः सपत्नीकः । कुब्जकेन सह मोचनीयः ।
+
+
+तथानुष्ठिते विदेशम् आसाद्य कस्मिंश्चिद् अधिष्ठाने कैवर्त-दर्शिते त्रयो ऽपि मूल्येन गृहं प्राप्ताः सुखेन कालं नयन्ति स्म । केवलम् अन्धः पर्यङ्के सुप्तस् तिष्ठति, गृह-व्यापारं मन्थरकः करोति । एवं गच्छता कालेन त्रिस्तन्या कुब्जकेन सह विकृतिः समपद्यत । अथवा साध्व् इदम् उच्यते-
+
+
+यदि स्याच् छ्री-तलो वह्निश् चन्द्रमा दहनात्मकः ।
+
+सुस्वादः सागरः स्त्रीणां तत्-सतीस् त्वं प्रजायते ॥पन्च्५।९३॥
+
+
+अथान्येद्युस् त्रिस्तन्या मन्थरको ऽभिहितः-भोः सुभग ! यद्य् एषो ऽन्धः कथञ्चित् व्यापाद्यते, तद् आवयोः सुखेन कालो याति । तद् अन्विष्यतां कुत्रचिद् विषम्, येनास्मै तत् प्रदाय सुखिनी भवामि ।
+
+
+अन्यदा कुब्जकेन परिभ्रमता मृतः कृष्णसर्पः प्राप्तः । तं गृहीत्वा प्रहृष्ट-मना गृहम् अभ्येत्य ताम् आह-सुभगे ! लब्धो ऽयं कृष्ण-सर्पः । तद् एनं खण्डशः कृत्वा प्रभूत-शुण्ठ्य्-आदिभिः संस्कार्यास्मै विकल-नेत्राय मत्स्यामिषं भणित्वा प्रयच्छ येन द्राग् विनश्यति । यतो ऽस्य मत्स्यामिषं सदा प्रियम् । एवम् उक्त्वा मन्थरको बहिर् गतः ।
+
+
+सापि प्रदीप्ते वह्नौ कृष्ण-सर्पं खण्डशः कृत्वा तक्र-स्थाल्याम् आधाय गृह-व्यापाराकुला तं विकलाक्षं स-प्रश्रयम् उवाच-आर्य-पुत्र ! तवाभीष्टं मत्स्य-मांसं समानीतम् । यतस् त्वं सदैव तत् पृच्छसि । ते च मत्स्या वह्नौ पावनाय तिष्ठन्ति । तद् यावद् अहं गृह-कृत्यं करोमि, तावत् त्वं दर्वीम् आदाय क्षणम् एकं तान् प्रचालय ।
+
+
+सो ऽपि तद् आकर्ण्य हृष्ट-मनाः सृक्कणी परिलिहन् द्रुतम् उत्थाय दर्वीम् आदाय प्रमथितुम् आरब्धः । अथ तस्य मत्स्यान् मथ्नतो विष-गर्भ-बाष्पेण संस्पृष्टं नील-पटलं चक्षुर्भ्याम् अगलत् । असाव् अप्य् अन्धस् तं बहु-गुणं मन्यमानो विशेषान् नेत्राभ्यां बाष्प-ग्रहणम् अकरोत् ।
+
+
+ततो लब्ध-दृष्टिर् जातो यावत् पश्यति, तावत् तक्र-मध्ये कृष्ण-सर्प-खण्डानि केवलान्य् एवावलोकयति । ततो व्यचिन्तयत्-अहो, किम् एतत् ? मम मत्स्यामिषं कथितम् आसीद् अनया । एतानि तु कृष्ण-सर्प-खण्डानि । तत् तावद् विजानामि सम्यक् त्रिस्तन्याश् चेष्टितम् । किं मम वधोपाय-क्रमः कुब्जस्य वा ? उताहो अन्यस्य वा कस्यचित् ? एवं विचिन्त्य स्वाकारं गूहयन्न् अन्धवत् कर्म करोति यथा पुरा ।
+
+
+अत्रान्तरे कुब्जः समागत्य निःशङ्कतयालिङ्गन-चुम्बनादिभिस् त्रिस्तनीं सेवितुम् उपचक्रमे । सो ऽप्य् अन्धस् तम् अवलोकयन्न् अपि यावन् न किञ्चिच् छस्त्रं पश्यति, तावत् कोप-व्याकुल-मनाः पूर्ववच् छयनं गत्वा कुब्जं चरणाभ्यां सङ्गृह्य सामर्थ्यात् स्व-मस्तकोपरि भ्रामयित्वा त्रिस्तनीं हृदये व्यताडयत् ।
+
+
+अथ कुब्ज-प्रहारेण तस्यास् तृतीयः स्तन उरसि प्रविष्टः । तथा बलान् मस्तकोपरि भ्रमणेन कुब्जः प्राञ्जलतां गतः ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-अन्धकः कुब्जकश् चैव (८४) इति ।
+
+
+सुवर्णसिद्धिर् आह-भोः सत्यम् एतत् । दैवानुकूलतया सर्वं कल्याणं सम्पद्यते । तथापि पुरुषेण सतां वचनं कार्यम् । पुनर् एवम् एव वर्तितव्यम् । अथ एवम् एव यो वर्तते, स त्वम् इव विनश्यति । तथा च-
+
+
+एकोदराः पृथग् ग्रीवा अन्यान्य-फल-भक्षिणः ।
+
+असंहता विनश्यन्ति भारुण्डा इव पक्षिणः ॥पन्च्५।९४॥
+
+
+चक्रधर आह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+
+कथा १३
+
+भारुण्ड-पक्षि-कथा
+
+
+कस्मिंश्चित् सरोवरे भारुण्ड-नामा पक्षी एकोदरः पृथग्-ग्रीवः प्रतिवसति स्म । तेन च समुद्र-तीरे परिभ्रमता कञ्चित् फलम् अमृत-कल्पं तरङ्ग-क्षिप्तं सम्प्राप्तम् । सो ऽपि भक्षयन्न् इदम् आह-अहो ! बहूनि मयामृत-प्रायाणि समुद्र-कल्लोलाहृतानि फलानि भक्षितानि । परम् अपूर्वो ऽस्यास्वादः । तत् किं पारिजात-हरिचन्दन-तरु-सम्भवम् ? किं वा, किञ्चिद् अमृत-मय-फलम् इदम् अव्यक्तेनापि विधिनापातितम् ।
+
+
+एवं तस्य ब्रुवतो द्वितीय-मुखेनाभिहितम्-भो, यद्य् एवं तन् ममापि स्तोकं प्रयच्छ, येनाहम् अपि जिह्वा-सौख्यम् अनुभवामि ।
+
+
+ततो विहस्य प्रथम-वक्त्रेणाभिहितम्-आवयोस् तावद् एकम् उदरम् । एका तृप्तिश् च भवति । ततः किं पृथग् भक्षितेन ? वरम् अनेन शेषेण प्रिया तोष्यते ।
+
+
+एवम् अभिधाय तेन शेषं भारुण्ड्याः प्रदत्तम् । सापि तद् आस्वाद्य प्रहृष्टतमालिङ्गन-चुम्बन-सम्भावनाद्य्-अनेक-चाटु-परा च बभूव । द्वितीयं मुखं तद्-दिनाद् एव प्रभृति सोद्वेगं स-विषादं च तिष्ठति ।
+
+
+अथान्येद्युर् द्वितीय-मुखेन विष-फलं प्राप्तम् । तद् दृष्ट्वापरम् आह-भो निस्त्रिंश ! पुरुषाधम ! निरपेक्ष ! मया विष-फलम् आसादितम् । तत् तवापमानाद् भक्षयामि ।
+
+
+अपरेणाभिहितम्-मूर्ख ! मा मैवं कुरु । एवं कृते द्वयोर् अपि विनाशो भविष्यति । अथैवं वदता तेनापमानेन तत् फलं भक्षितम् । किं बहुना, द्वाव् अपि विनष्टौ ।
+
+
+
+***********************************************************************  
+
+
+
+अतो ऽहं ब्रवीमि-एकोदराः पृथग्-ग्रीवाः (९२) इति ।
+
+
+चक्रधर आह-सत्यम् एतत् । तद् गच्छ गृहम् । परम् एकाकिना न गन्तव्यम् । उक्तं च-
+
+
+एकः स्वादु न भुञ्जीत एकश् चार्थान् न चिन्तयेत् ।
+
+एको न गच्छेद् अध्वानं नैकः सुप्तेषु जागृयात् ॥पन्च्५।९५॥
+
+
+अपि च-
+
+अपि कापुरुषो मार्गे द्वितीयः क्षेम-कारकः ।
+
+कर्कटेन द्वितीयेन जीवितं परिरक्षितम् ॥पन्च्५।९६॥
+
+
+सुवर्ण-सिद्धिः प्राह-कथम् एतत् ?
+
+
+सो ऽब्रवीत्-
+
+
+कथा १४
+
+ब्राह्मण-कर्कटक-कथा
+
+
+कस्मिंश्चिद् अधिष्ठाने ब्रह्मदत्त-नामा ब्राह्मणः प्रतिवसति स्म । स च प्रयोजन-वशाद् ग्रामं प्रस्थितः स्व-मात्राभिहितः, यद्-वत्स ! कथम् एकाकी व्रजसि ? तद् अन्विष्यतां कश्चिद् द्वितीयः सहायः ।
+
+
+स आह-अम्ब ! मा भैषीः । निरुपद्रवो ऽयं मार्गः । कार्य-वशाद् एकाकी गमिष्यामि ।
+
+
+अथ तस्य तं निश्चयं ज्ञात्वा समीपस्थ-वाप्याः सकाशात् कर्कटम् आदाय मात्राभिहितं-वत्स, अवश्यं यदि गन्तव्यम् । तद् एष कर्कटो ऽपि सहायो भवतु । तद् एनं गृहीत्वा गच्छ ।
+
+
+सो ऽपि मातुर् वचनाद् उभाभ्यां पाणिभ्यां न सङ्गृह्य कर्पूर-पुटिका-मध्ये निधाय, पात्र-मध्ये संस्थाप्य शीघ्रं प्रस्थितः ।
+
+
+अथ गच्छन् ग्रीष्मोष्मणा सन्तप्तः कञ्चिन् मार्गस्थं वृक्षम् आसाद्य, तत्रैव प्रसुप्तः । अत्रान्तरे वृक्ष-कोटरान् निर्गत्य सर्पस् तत्-समीपम् आगतः ।
+
+स चाभ्यन्तर-गतां कर्पूर-पुटिकाम् अतिलौल्याद् अभक्षयत् । सो ऽपि कर्कटस् तत्रैव स्थितः सन् सर्प-प्राणान् अपाहरत । ब्राह्मणेऽपि यावत् प्रबुद्धः पश्यति, तावत् समीपे मृत-कृष्ण-सर्पो निज-पार्श्वे कर्पूर-पुटिकोपरि स्थितस् तिष्ठति । तं दृष्ट्वा व्यचिन्तयत्-कर्कटेनायं हतः इति । प्रसन्नो भूत्वाब्रवीच् च-भोः ! सत्यम् अभिहितं मम मात्रा यत् पुरुषेण को ऽपि सहायः कार्यः । नैकाकिना गन्तव्यम् । यतो मया श्रद्धा-पूरित-चेतसा तद्-वचनम् अनुष्ठितं तेनाहं कर्कटेन सर्व-व्यापादनाद् रक्षितः । अथवा साध्व् इदम् उच्यते-
+
+
+क्षीणः श्रयति शशी रविम् ऋद्धो वर्धयति पयसां नाथम् ।
+
+अन्ये विपदि सहाया धनिनां श्रियम् अनुभवन्त्य् अन्ये ॥पन्च्५।९७॥
+
+मन्त्रे तीर्थे द्विजे देवे दैवज्ञे भेषजे गुरौ ।
+
+यादृशी भावना यस्य सिद्धिर् भवति तादृशी ॥पन्च्५।९८॥
+
+
+एवम् श्रुत्वा सुवर्णसिद्धिस् तम् अनुज्ञाप्य स्वगृहं प्रति निवृत्तः ।
+
+
+इति श्री-विष्णु-शर्म-विरचिते पञ्चतन्त्रे अपरीक्षित-कारकं नाम
+
+पञ्चमं तन्त्रं समाप्तम्
+
+॥५॥
+
+
+
+
+
+यद्य् अप्य् एवं तथापि त्वं दर्शय तं चौरसिंहं यथा व्यापादयामि ।
+
+(अल्त्।) यः पश्यति स पश्यति
+
+(अल्त्।) राज-पुरुषैः
+
+(अल्त्।) देवशक्ति-कथा
