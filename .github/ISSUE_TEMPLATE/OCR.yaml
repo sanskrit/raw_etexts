@@ -11,7 +11,8 @@ body:
   - type: dropdown
     id: prior_ocr_check
     attributes:
-      label: Has the text already been OCR-ed? Have you searched online (using both devanAgarI and latin transliterations)? For example, in this respository?
+      label: Has the text already been OCR-ed?
+      description: Have you searched online (using both devanAgarI and latin transliterations)? For example, in this respository?
       options:
           - Yes
           - No
