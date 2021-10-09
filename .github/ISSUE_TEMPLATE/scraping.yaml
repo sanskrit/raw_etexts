@@ -1,8 +1,7 @@
 name: Scraping Request
-about: Request scraping of a valuable webpage for offline use.
+description: Request scraping of a valuable webpage for offline use.
 title: '[Scrape] <title>'
 labels: scraping
-assignees: ''
 body:
   - type: markdown
     attributes:
@@ -11,44 +10,44 @@ body:
   - type: dropdown
     id: prior_check
     attributes:
-      label: Is the text already available for offline use? 
+      label: Is the text already available for offline use?
       description: Have you searched online (using both devanAgarI and latin transliterations)? For example, in this respository?
       options:
-          - Yes
-          - No
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: textarea
     id: text_importance
     attributes:
-        label: Why is this text important to scrape?
-        description: What other factors should our volunteers consider when deciding whether to take up this request? Is it in danger of disappearing from its current location?
+      label: Why is this text important to scrape?
+      description: What other factors should our volunteers consider when deciding whether to take up this request? Is it in danger of disappearing from its current location?
     validations:
-        required: false
+      required: false
   - type: input
     id: site_link
     attributes:
-        label: Provide a link to webpage(s).
+      label: Provide a link to webpage(s).
     validations:
-        required: true
+      required: true
   - type: textarea
     id: metadata
     attributes:
-        label: Please enter the following metadata.
-        description: use both devanAgarI and latin alphabet forms if you can
-    value: |
+      label: Please enter the following metadata.
+      description: use both devanAgarI and latin alphabet forms if you can
+      value: |
         - __Title__:
         - __Author__:
         - __Commentator__:
     validations:
-        required: true
+      required: true
   - type: textarea
     id: misc_info
     attributes:
-        label: Is there any other information you want to provide?
+      label: Is there any other information you want to provide?
     validations:
-        required: false
+      required: false
   - type: markdown
     attributes:
-        value: |
-            Ok - thanks for answering the above questions 🙏. Subscribe to this thread to stay updated.
+      value: |
+        Ok - thanks for answering the above questions 🙏. Subscribe to this thread to stay updated.

@@ -1,8 +1,7 @@
 name: OCR Request
-about: Request OCR of a text you want to proofread and contribute.
+description: Request OCR of a text you want to proofread and contribute.
 title: '[OCR] <title>'
 labels: OCR
-assignees: ''
 body:
   - type: markdown
     attributes:
@@ -14,49 +13,49 @@ body:
       label: Has the text already been OCR-ed?
       description: Have you searched online (using both devanAgarI and latin transliterations)? For example, in this respository?
       options:
-          - Yes
-          - No
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: textarea
     id: proofreading_enthusiasm
     attributes:
-        label: You will proofread?
-        description: If you commit to proof-read the result within a reasonable timeframe (say 1 month for 300 pages), we will be specially excited to oblige you. Are you willing to make such a commitment? See [here](https://sanskrit-coders.github.io/content/ocr/corrections/) to get an idea of what it involves.
+      label: You will proofread?
+      description: If you commit to proof-read the result within a reasonable timeframe (say 1 month for 300 pages), we will be specially excited to oblige you. Are you willing to make such a commitment? See [here](https://sanskrit-coders.github.io/content/ocr/corrections/) to get an idea of what it involves.
     validations:
-        required: true
+      required: true
   - type: textarea
     id: text_importance
     attributes:
-        label: Why is this text important?
-        description: What other factors should our OCR/ other volunteers consider when deciding whether to take up this request? In other words, what's so important about this text?
+      label: Why is this text important?
+      description: What other factors should our OCR/ other volunteers consider when deciding whether to take up this request? In other words, what's so important about this text?
     validations:
-        required: false
+      required: false
   - type: input
     id: pdf_link
     attributes:
-        label: Provide a link to a high resolution pdf of the *printed* book which needs to be OCR-ed.
-        description: You can host the pdf online on several sites such as  <http://archive.org> (← strongly recommended), <http://dropbox.com> or <http://drive.google.com>.
+      label: Provide a link to a high resolution pdf of the *printed* book which needs to be OCR-ed.
+      description: You can host the pdf online on several sites such as  <http://archive.org> (← strongly recommended), <http://dropbox.com> or <http://drive.google.com>.
     validations:
-        required: true
+      required: true
   - type: textarea
     id: metadata
     attributes:
-        label: Please enter the following metadata.
-        description: use both devanAgarI and latin alphabet forms if you can
-    value: |
+      label: Please enter the following metadata.
+      description: use both devanAgarI and latin alphabet forms if you can
+      value: |
         - __Title__:
         - __Author__:
         - __Commentator__:
     validations:
-        required: true
+      required: true
   - type: textarea
     id: misc_info
     attributes:
-        label: Is there any other information you want to provide?
+      label: Is there any other information you want to provide?
     validations:
-        required: false
+      required: false
   - type: markdown
     attributes:
-        value: |
-            Ok - thanks for answering the above questions 🙏. Subscribe to this thread to stay updated.
+      value: |
+        Ok - thanks for answering the above questions 🙏. Subscribe to this thread to stay updated.
