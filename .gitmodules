@@ -152,3 +152,7 @@
 [submodule "mixed/BuddhaNexus_segmented-sanskrit"]
 	path = mixed/BuddhaNexus_segmented-sanskrit
 	url = https://github.com/BuddhaNexus/segmented-sanskrit/
+[submodule "AgamAH/vishvAsa.github.io_static"]
+	path = AgamAH/vishvAsa.github.io_static
+	url = https://github.com/vishvAsa/AgamaH.git
+	branch = static_files
