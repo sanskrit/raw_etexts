@@ -156,3 +156,6 @@
 	path = AgamAH/vishvAsa.github.io_static
 	url = https://github.com/vishvAsa/AgamaH.git
 	branch = static_files
+[submodule "mixed/shreevatsa-latex-books"]
+	path = mixed/shreevatsa-latex-books
+	url = https://github.com/shreevatsa/latex-book-sources.git
