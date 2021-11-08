@@ -1,15 +1,87 @@
----
-title: Bhagavata-Purana 9
++++
+title = "Bhagavata-Purana 9"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Bhagavata-Purana 9  
-
+  
+  
+  
+  
+  
+  
 Bhagavata-Purana 9  
 Input by ...  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
+
 
 भ्प्_०९।०१।००१।० श्रीराजोवाच  
 भ्प्_०९।०१।००१।१ मन्वन्तराणि सर्वाणि त्वयोक्तानि श्रुतानि मे  
@@ -218,7 +290,7 @@ Input by ...
 भ्प्_०९।०३।०२१।२ बिभर्षि जारं यदपत्रपा कुलं पितुश्च भर्तुश्च नयस्यधस्तमः  
 भ्प्_०९।०३।०२२।१ एवं ब्रुवाणं पितरं स्मयमाना शुचिस्मिता  
 भ्प्_०९।०३।०२२।२ उवाच तात जामाता तवैष भृगुनन्दनः  
-भ्प्_०९।०३।०२३।१ शशंस पित्रे तत् सर्वं वयोरूपाभिलम्भनम्  
+भ्प्_०९।०३।०२३।१ शशम्स पित्रे तत् सर्वं वयोरूपाभिलम्भनम्  
 भ्प्_०९।०३।०२३।२ विस्मितः परमप्रीतस्तनयां परिषस्वजे  
 भ्प्_०९।०३।०२४।१ सोमेन याजयन् वीरं ग्रहं सोमस्य चाग्रहीत्  
 भ्प्_०९।०३।०२४।२ असोमपोरप्यश्विनोश्च्यवनः स्वेन तेजसा  
@@ -424,7 +496,7 @@ Input by ...
 भ्प्_०९।०५।०१२।१ इति संस्तुवतो राज्ञो विष्णुचक्रं सुदर्शनम्  
 भ्प्_०९।०५।०१२।२ अशाम्यत् सर्वतो विप्रं प्रदहद्राजयाच्ञया  
 भ्प्_०९।०५।०१३।१ स मुक्तो ऽस्त्राग्नितापेन दुर्वासाः स्वस्तिमांस्ततः  
-भ्प्_०९।०५।०१३।२ प्रशशंस तमुर्वीशं युञ्जानः परमाशिषः  
+भ्प्_०९।०५।०१३।२ प्रशशम्स तमुर्वीशं युञ्जानः परमाशिषः  
 भ्प्_०९।०५।०१४।० दुर्वासा उवाच  
 भ्प्_०९।०५।०१४।१ अहो अनन्तदासानां महत्त्वं दृष्टमद्य मे  
 भ्प्_०९।०५।०१४।२ कृतागसो ऽपि यद्राजन् मङ्गलानि समीहसे  
@@ -2068,5 +2140,5 @@ Input by ...
 भ्प्_०९।२४।०६६।१ जातो गतः पितृगृहाद्व्रजमेधितार्थो हत्वा रिपून् सुतशतानि कृतोरुदारः  
 भ्प्_०९।२४।०६६।२ उत्पाद्य तेषु पुरुषः क्रतुभिः समीजे आत्मानमात्मनिगमं प्रथयन् जनेषु  
 भ्प्_०९।२४।०६७।१ पृथ्व्याः स वै गुरुभरं क्षपयन् कुरूणामन्तःसमुत्थकलिना युधि भूपचम्वः  
-भ्प्_०९।२४।०६७।२ दृष्ट्या विधूय विजये जयमुद्विघोष्य प्रोच्योद्धवाय च परं समगात् स्वधाम  
+भ्प्_०९।२४।०६७।२ दृष्ट्या विधूय विजये जयमुद्विघोष्य प्रोच्योद्धवाय च परं समगात् स्वधाम
 

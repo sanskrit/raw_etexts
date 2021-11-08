@@ -1,7 +1,9 @@
----
-title: 'Venkatanatha [Vedantadesika]: Nyayaparisuddhi, Adhyaya 5,2'
++++
+title = "Venkatanatha [Vedantadesika]: Nyayaparisuddhi, Adhyaya 5,2"
 
----
++++
+
+
 ## Intro
   
   
@@ -27,23 +29,71 @@ The text is not proof-read.
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-॥  प्रमेयाध्यायः  ॥  
-  
-॥  द्वितीयमाह्निकम्  ॥  
-  
+
+
+॥ प्रमेयाध्यायः ॥  
+    
+॥ द्वितीयमाह्निकम् ॥  
+    
 न्या। प। प्रमे। ९ अत्र यद्यपि प्रमाविषयः प्रमेयमिति व्युत्पत्त्या आरोपिताकारव्यवच्छेदार्थया अनारोपितरूपं सर्वं प्रमेयम्, तथापि निःश्रेयसान्तरङ्गतया तदर्थिभिः प्रकर्षेण मेयं प्रमेयमिह विवक्षिम् ।  
 यद्विषयेण भ्रमेण संसरामः, यद्विषयेण च तत्त्वज्ञानेनापवर्ज्येमहि, तदिह नः प्रकर्षेण मेयं प्रमेयम् ।  
 तच्च द्वादशविधमुक्तमाक्षपादे--- "आत्मशरीरेन्द्रियार्थबुद्धिमनः प्रवृत्तिदोषप्रेत्यभावफलदुःखापवर्गाः प्रमेयम्" इति ।  
@@ -51,7 +101,7 @@ The text is not proof-read.
 स द्विधार्---इश्वरोनीश्वर इति ।  
 जगत्कर्तार् इश्वरः ।  
 जगद्व्यापाररहितश्चेतनोनीश्वरः ।  
-यच्चैतन्यसमानाधिकरणं यदपृथक्सिद्धं यद्द्रव्यं, तत् तस्य शरीरम् ।  
+यच्चैतन्यसमानाधिकरणं यदपृथक्सिद्धं यद्द्रव्यम्, तत् तस्य शरीरम् ।  
 तद् द्विविधम्---कर्मजम्, अकर्मजं चेति ।  
 आद्यमस्मदादीनाम् ।  
 द्वितीयमीश्वरादीनाम् ।  
@@ -87,7 +137,7 @@ The text is not proof-read.
 श्रूयते च--- "तं षङ्विंशकमित्याहुः सप्तविंशमथापरे ।  
 पुरुषं निर्गुणं सांरव्यमथर्वशिरसो विदुः" ॥  
 इति ।  
-प्राप्यम्, प्राप्ता, प्राप्त्युपायः, निवर्त्यं, फलं चेति केचित् पञ्चधा प्रमेयं परिसञ्चक्षते ।  
+प्राप्यम्, प्राप्ता, प्राप्त्युपायः, निवर्त्यम्, फलं चेति केचित् पञ्चधा प्रमेयं परिसञ्चक्षते ।  
 सम्बन्धविशेषेण सहान्ये षोढेति ॥  
 न्या। प। प्रमे। १० अथायमपरः प्रवृत्त्यर्थः सङ्ग्रहोनुष्ठानपरिहारान्तरङ्गः; तथाहि--- हितमहितं च प्रकर्षेण मेयम् ।  
 तत्र लौकिकहिताहितयोरन्वयव्यतिरेकायुर्वेदनीतिशास्त्रादिकं प्रमाणम्; तदपि योगसाधनभूतशरीररक्षणार्थं मुमुक्षुणापि श्रुतिस्मृत्याद्यविरोधेनानुसरणीयम् ।  
@@ -159,8 +209,5 @@ The text is not proof-read.
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु न्यायपरिशुद्धौ प्रमेयाध्याये द्वितीयमाह्निकम् ॥  
 समाप्तश्च पञ्चमोध्यायः ॥  
 शास्त्रं च परिसमाप्तम् ॥  
-श्रीमते निगमान्तमहादेशिकाय नमः  ॥  
-  
-  
-  
-  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+

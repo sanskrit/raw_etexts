@@ -1,19 +1,88 @@
----
-title: 'Purusottamadeva: Ekaksarakosa'
++++
+title = "Purusottamadeva: Ekaksarakosa"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Purusottamadeva: Ekaksarakosa  
-
+  
+  
+  
+  
 Purusottamadeva: Ekaksarakosa  
   
 Based on the edition in: "Dictionaries of Tantrashastra,"  
 ed. by Ram Kumar Rai. - Benares: Prachya Prakashan, 1984.  
   
 Input by Oliver Hellwig  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
+
 
 अकारो वासुदेवः स्याद् आकारश् च पितामहः ।  
 पूजायाम् अपि माङ्गल्ये आकारः परिकीर्त्तितः ॥ पेक्_१  
@@ -68,5 +137,5 @@ Input by Oliver Hellwig
 वक्षःस्थले च बः प्रोक्तो गदायां समुदाहृतः ।  
 नक्षत्रं भं बुधैः प्रोक्तं भ्रमरे भः प्रकीर्तितः ॥ पेक्_२६  
 भा दीप्तिर् अपि भूर् भूमिर् भीर् भयं कथिता बुधैः ।  
-मः शिवश् चन्द्रमा वेधा मा च लक्ष्मीः प्रकीर्तिता ॥ पेक्_२७  
+मः शिवश् चन्द्रमा वेधा मा च लक्ष्मीः प्रकीर्तिता ॥ पेक्_२७
 

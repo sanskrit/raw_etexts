@@ -1,29 +1,106 @@
----
-title: 'Mammata: Kavyaprakasa, with Balabodhini: INDEX'
++++
+title = "Mammata: Kavyaprakasa, with Balabodhini: INDEX"
 
----
++++
+
+
 ## Intro
-
-Mammata: Kavyaprakasa, with Balabodhini: INDEX   
-
+  
+  
+  
+  
+ Mammata: Kavyaprakasa, with Balabodhini: INDEX   
+  
+  
+  
+  
 Mammata: Kavyaprakasa  
 With Vamanacarya Ramabhatta Jhalakikar's Balabodhini commentary.  
 Based on the ed. by Raghunath Damodar Karmarkar: The Kāvyaprakāśa of Mammaṭa,  
 Poona : Bhandarkar Oriental Research Institute, 7th ed. [c. 1920]  
-
+  
+  
+  
 Input by members of the Sansknet project  
 (http://sansknet.ac.in)  
-
+  
+  
+  
 INDEX OF VERSES QUOTED IN THE BALABODHINI  
-
+  
+  
+  
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Therefore, word boundaries are usually not marked by blanks  
   
 The text is not proof-read!  
+  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
 
-अथ काव्यप्रकाशोदाहृतपद्यानां वर्णक्रमानुसारिणी सूची ।  
+
+अथ काव्यप्रकाशोदाहृतपद्यानां वर्णक्रमानुसारिणी सूची ।
 
 पद्यम् क्रमाङ्कः ऐ पिहुलं जलकुम्भं (गाथासप्त-?) १३  
 अकलिततपस्तेजोवीर्य- (महावीरच-) २५१  
@@ -308,7 +385,7 @@ The text is not proof-read!
 त्वामस्मि वच्मि विदुषां २३  
 त्वामालिरूय प्रणयकुपितां (मेघदूत) ६२  
 दिवमप्युपयातानां (रुद्रटालं-) ५५९  
-दिवाकराद्रक्षति यो (कुमारसं- १) ६००  
+दिवाकराद्रक्षति यो (कुमारसम्- १) ६००  
 दीधीङ्वेवीङ्समः कश्चित् २९६  
 दुर्वाराः स्मरमार्गणाः (शार्ङ्ग- प- । शङ्कुकः) ५०७  
 दूरादुत्सुकमागते (अमरु-) २९  
@@ -517,7 +594,7 @@ The text is not proof-read!
 विकसितसहकारतार- २१७  
 विदलितसकलारिकुलं (रुद्रटालं-) ५१०  
 विदीर्णाभिमुखाराति- २८८  
-विद्वन्मानसहंस ४२५  
+विद्वन्मानसहम्स ४२५  
 विधाय दूरे केयूर- २६९  
 विनयप्रणयैककेतनं २०४  
 विनायमेनो नयता (रुद्रटालं-) ३६१  
@@ -629,5 +706,5 @@ The text is not proof-read!
 हित्वा त्वामुपरोध- ४९३  
 हुमि अवहत्थिअरेहो (आनन्दवर्धन्नः विषमबाणलीला) ३२०  
 हृदयमधिष्ठितमादौ (कुट्टिनीमतम्) ४५२  
-हे हेलाजितबोधिसत्त्व (पुञ्जराज) ४९४  
+हे हेलाजितबोधिसत्त्व (पुञ्जराज) ४९४
 

@@ -1,0 +1,145 @@
++++
+title = "Nagarjuna: Yuktisastikakarika (fragments)"
+
++++
+
+
+## Intro
+  
+  
+  
+  
+Nagarjuna: Yuktisastikakarika (fragments)  
+  
+  
+  
+  
+Nagarjuna:  
+Yuktisastikakarika (fragments)  
+  
+Version: 0.1a  
+Last updated: Sun May 18 11:11:15 NZST 2003  
+Text input by Richard Mahoney: r.mahoney@comnet.net.nz  
+Latest Version:  
+ http://homepages.comnet.co.nz/~r-mahoney/ratna_text/ratna_text.html  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
+
+## पाठः
+
+
+अस्तिनास्तिव्यतिक्रान्ता बुद्धिर् येषां निराश्रया ।  
+गम्भीरस् तैर् निरालम्बः प्रत्ययार्थो विभाव्यते ॥ नग्य्स्क्_०१  
+    
+॥।  
+    
+संसारं चैव निर्वाणं मन्यन्ते ऽतत्त्वदर्शिनः ।  
+न संसारं न निर्वाणं मन्यन्ते तत्त्वदर्शिनः ॥ नग्य्स्क्_०५  
+    
+निर्वाणं च भवश् चैव द्वयम् एतन् न विद्यते ।  
+परज्ञानं भवस्यैव निर्वाणम् इति कथ्यते ॥ नग्य्स्क्_०६  
+    
+॥।  
+    
+तत् तत् प्राप्य यद् उत्पन्नं नोत्पन्नं तत् स्वभावतः ।  
+स्वभावेन यन् नोत्पन्नम् उत्पन्नं नाम तत् कथम् ॥ नग्य्स्क्_१९  
+    
+॥।  
+    
+सर्वम् अस्तीति वक्तव्यम् आदौ तत्त्वगवेषिणः ।  
+पश्चाद् अवगतार्थस्य निःसङ्गस्य विविक्तता ॥ नग्य्स्क्_३०  
+    
+॥।  
+    
+ममेत्य् अहम् इति प्रोक्तं यथा कार्यवशाज् जिनैः ।  
+तथा कार्यवशात् प्रोक्ताः स्कन्धायतनधातवः ॥ नग्य्स्क्_३३  
+    
+महाभूतादि विज्ञाने प्रोक्तं समवरुध्यते ।  
+तज्ज्ञाने वगमं याति ननु मिथ्या विकल्पितम् ॥ नग्य्स्क्_३४  
+    
+॥।  
+    
+हेतुतः सम्भवो यस्य स्थितिर् न प्रत्ययैर् विना ।  
+विगमः प्रत्ययाभावात् सो ऽस्तीत्य् अवगतः कथम् ॥ नग्य्स्क्_३९  
+    
+॥।  
+    
+रागद्वेषोद्भवस् तीव्रदुष्टदृष्टिपरिग्रहः ।  
+विवादास् तत्समुत्थाश् च भावाभ्युपगमे सति ॥ नग्य्स्क्_४६  
+    
+स हेतुः सर्वदृष्टीनां क्लेशोत्पत्तिर् न तं विना ।  
+तस्मात् तस्मिन् परिज्ञाते दृष्टिक्लेशपरिक्षयः ॥ नग्य्स्क्_४७  
+    
+परिज्ञा तस्य केनेति प्रतीत्योत्पाददर्शनात् ।  
+प्रतीत्य जातं चाजातम् आह तत्त्वविदां वरः ॥ नग्य्स्क्_४८  
+    
+॥।  
+    
+बालाः सज्जन्ति रूपेषु वैराग्यं यान्ति मध्यमाः ।  
+स्वभावज्ञा विमुच्यन्ते रूपस्योत्तमबुद्धयः ॥ नग्य्स्क्_५५
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+    
+चोप्य्रिघ्त् (च्) २००३ ब्य् छ्र्। लिन्द्त्नेर् - देन्मर्क्  
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

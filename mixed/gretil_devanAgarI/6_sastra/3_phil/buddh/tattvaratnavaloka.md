@@ -1,7 +1,9 @@
----
-title: Tattvaratnavaloka
++++
+title = "Tattvaratnavaloka"
 
----
++++
+
+
 ## Intro
   
   
@@ -28,19 +30,71 @@ Sastra section, text no. 17
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
+
+
 तत्त्वरत्नावलोकः (त्र)  
-  
-ओम् नमः श्रीसद्गुरुपादेभ्यः ।  
-  
+    
+ॐ नमः श्रीसद्गुरुपादेभ्यः ।  
+    
 अनुपमसुखरूपी श्रीनिवासो ऽनिवासो निरुपमदशदेवीरूपविद्यः सविद्यः ।  
 त्रिभुवनहितसौख्यप्राप्तिकारो ऽविकारो जयति कमलपाणिर्यावदाशाविकासाः ॥ त्र_१ ॥  
 श्रीमन्त्रनीतिगतचारुचतुर्थसेकरूपं विदन्ति नहि ये स्फुटशब्दशून्यम् ।  
@@ -81,10 +135,8 @@ Sastra section, text no. 17
 अन्यैश्च सर्वैरुपमाभिधेयैर् नैवास्ति साध्यं कथितादिहान्यत् ॥ त्र_१९ ॥  
 गम्भीरशून्यप्रतिभासमात्रशान्तातिसूक्ष्मानभिलाप्यशब्दैः ।  
 निर्लेपनी[रू]पनिरञ्जनाद्यैर् भ्रान्तिर्न कार्यापरसाध्यसत्त्वे ॥ त्र_२० ॥  
-  
+    
 ॥ तत्त्वरत्नावलोकः समाप्तः ॥  
-  
-कृतिरियं पण्डितवागीश्वरकीर्तिपादानाम् ॥  
-  
-  
-  
+    
+कृतिरियं पण्डितवागीश्वरकीर्तिपादानाम् ॥
+

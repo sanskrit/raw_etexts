@@ -1,7 +1,9 @@
----
-title: 'Venkatanatha [Vedantadesika]: Nyayaparisuddhi, Adhyaya 4,1'
++++
+title = "Venkatanatha [Vedantadesika]: Nyayaparisuddhi, Adhyaya 4,1"
 
----
++++
+
+
 ## Intro
   
   
@@ -27,19 +29,71 @@ The text is not proof-read.
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-॥  स्मृत्यध्यायः  ॥  
-  
-॥  प्रथममाह्निकम्  ॥  
-  
+
+
+॥ स्मृत्यध्यायः ॥  
+    
+॥ प्रथममाह्निकम् ॥  
+    
 न्या। प। श। ४९ अथ स्मृतिर्निरूप्यते--- संस्कारमात्रजं ज्ञानं स्मृतिः, इति तल्लक्षणम् ।  
 ननु स्मृतिर्न प्रमाणम्, अविद्यमानविषयत्वात्, अननुभूतित्वात्, भ्रमसम्भवोच्चेति चेन्न, स्मृतिमात्राप्रामाण्यस्य प्रथमाह्निक्रे प्रतिक्षिप्तत्वात्, अवाधितबाह्यार्थदर्शनात्, अतीतानागतविषयानुमानादिबाधप्रसङ्गात्, सर्वलोकविरोधात्, अननुभूते अर्थान्तरेपि स्मृतिप्रसङ्गात्, स्मृतेरपि स्वप्रकाशत्वेपि वेद्याकारे संस्कारादिसापेक्षत्वात् ।  
 न च पूर्वानुभवपुरस्कारेणैव ग्रहणादप्रामाण्यमिति चेन्न, स्मृतिप्रमोषे तदभावात्, प्रमाणतया सम्मतायां प्रत्यभिज्ञायां भावाच्च ।  
@@ -94,11 +148,5 @@ The text is not proof-read.
 एवमन्यदपि भाव्यम् ।  
 स्मृत्यप्रामाण्यवादिनोपि वैशेषिकास्तां यथार्थ्याद्विद्याकोटौ पठन्ति ।  
 तत एव च तदेकदेशिभिरपि तत्प्रामाण्यं स्वीकृतम्, इति ॥  
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु न्यायपरिशुद्धौ स्मृत्यध्याये प्रथममाह्निकम् ॥  
-  
-  
-  
-  
-  
-  
-  
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु न्यायपरिशुद्धौ स्मृत्यध्याये प्रथममाह्निकम् ॥
+

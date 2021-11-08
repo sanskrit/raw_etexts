@@ -1,7 +1,9 @@
----
-title: 'Vasubandhu: Trisvabhavanirdesa'
++++
+title = "Vasubandhu: Trisvabhavanirdesa"
 
----
++++
+
+
 ## Intro
   
   
@@ -28,23 +30,73 @@ Sastra section, text no. 19
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
+
 ॥ नमो मञ्जुश्रिये कुमारभूताय ॥  
-  
-आचार्यवसुबन्धुप्रणीतः  
-  
-  
+    
+आचार्यवसुबन्धुप्रणीतः
+
 त्रिस्वभावनिर्देशः (त्स्न्)  
-  
+    
 कल्पितः परतन्त्रश्च परिनिष्पन्न एव च ।  
 त्रयः स्वभावा धीराणां गम्भीरज्ञेयमिष्यते ॥ त्स्न्_१ ॥  
 यत् ख्याति परतन्त्रो ऽसौ यथा ख्याति स कल्पितः ।  
@@ -121,9 +173,7 @@ Sastra section, text no. 19
 धर्मधातूपलम्भेन स्याद् विभुत्वोपलम्भता ॥ त्स्न्_३७ ॥  
 उपलब्धविभुत्वश्च स्वपरार्थप्रसिद्धितः ।  
 प्राप्नोत्यनुत्तरां बोधिं धीमान् कायत्रयात्मिकाम् ॥ त्स्न्_३८ ॥  
-  
+    
 इति त्रिस्वभावनिर्देशः समाप्तः ॥  
-कृतिराचार्यवसुबन्धुपादानामिति ॥  
-  
-  
-  
+कृतिराचार्यवसुबन्धुपादानामिति ॥
+

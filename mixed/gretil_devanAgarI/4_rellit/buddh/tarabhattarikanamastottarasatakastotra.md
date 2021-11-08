@@ -1,22 +1,93 @@
----
-title: Tarabhattarikanamastottarasatakastotra
++++
+title = "Tarabhattarikanamastottarasatakastotra"
 
----
++++
+
+
 ## Intro
-
-Tarabhattarikanamastottarasatakastotra   
-
+  
+  
+  
+  
+ Tarabhattarikanamastottarasatakastotra   
+  
+  
+  
+  
 Tarabhattarikanamastottarasatakastotra  
 Based on the edition by Godefroy de Blonay: Matériaux pour servir à l'histoire de la déesse buddhique Tārā, Paris 1895 (Bibliothèque de l'École des Hautes Études, 107), pp. 48-53.  
-
+  
+  
 Input by Klaus Wille  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
 
-आर्यताराभट्टारिकानामाष्टोत्तरशतकस्तोत्र  
+
+आर्यताराभट्टारिकानामाष्टोत्तरशतकस्तोत्र
 
 ॐ नमः श्रीमदार्यतारायै  
-  
+    
 श्रीमत्पोतलके रम्ये नानाधातुविराजिते ।  
 नानाद्रुमलताकीर्णे नानापक्षिनिकूजिते ॥ त्भ्_१  
 नानानिर्झरझङ्कारे नानामृगसमाकुले ।  
@@ -79,7 +150,7 @@ Input by Klaus Wille
 महारौद्रि विश्वरूपि महायश ॥ त्भ्_२९  
 कल्पाग्निमहातेजा लोकधात्रीमहायशा ।  
 सरस्वती विशालाक्षी प्रज्ञाश्रीबुद्धिवर्धनी ॥ त्भ्_३०  
-ॐ धृतिदा पुष्टिदा स्वाहा ॐकारा कामरूपिणी ।  
+ॐ धृतिदा पुष्टिदा स्वाहा ओङ्कारा कामरूपिणी ।  
 सर्वसत्वहितोद्युक्ता सङ्ग्रामे तारणी जया ॥ त्भ्_३१  
 प्रज्ञापारमितादेवी आर्यातारा मनोरमा ।  
 दुन्दुभिसखिनी पूर्णविद्याराज्ञी प्रियंवदा ॥ त्भ्_३२  
@@ -131,8 +202,8 @@ Input by Klaus Wille
 प्रीतिमांश् च महावाग्मी सर्वशास्त्रविशारदः ॥ त्भ्_५६  
 कल्याणमित्रसंसेवी बोधिचित्तविभूषितः ।  
 सदाविरहितो बुद्धैर् यत्र यत्रोपपद्यते ॥ त्भ्_५७  
-  
+    
 इत्य् आर्यताराभट्टारिकाया नामाष्टोत्तरशतकं बुद्धभाषितं समाप्तम् ।  
-  
-॥ शुभम् ॥  
+    
+॥ शुभम् ॥
 

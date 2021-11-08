@@ -1,22 +1,94 @@
----
-title: 'Asanga: Trisatikayah prajnaparamitayah karikasaptatih'
++++
+title = "Asanga: Trisatikayah prajnaparamitayah karikasaptatih"
 
----
++++
+
+
 ## Intro
-
-Asanga: Trisatikayah prajnaparamitayah karikasaptatih   
-
+  
+  
+  
+  
+ Asanga: Trisatikayah prajnaparamitayah karikasaptatih   
+  
+  
+  
+  
 Asanga: Trisatikayah prajnaparamitayah karikasaptatih  
 Based on the edition by G. Tucci: Minor Buddhist Texts, part I. Roma 1956  
 (Serie Orientale Roma, 9), pp. 54-92.  
-
+  
+  
 Input by Klaus Wille (Göttingen)  
-
+  
+  
 ITALICS for restored text  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
 
-असङ्ग: त्रिशतिकायाः प्रज्ञापारमितायाः कारिकासप्ततिः  
+
+असङ्ग: त्रिशतिकायाः प्रज्ञापारमितायाः कारिकासप्ततिः
 
 परमो ऽनुग्रहो ज्ञेयः शारीरः सपरिग्रहः ।  
 प्राप्ताप्राप्ताविहानौ च परमा स्यात् परीन्दना ॥ त्श्प्क्_१  
@@ -172,7 +244,7 @@ x x x x x ग्राहे हि अग्राहग्राहता म�
 अतीतं वर्तमानं च परीक्ष्यं चाप्य् अनागतम् ॥ त्श्प्क्_७६  
 लक्षणस्योपभोगस्य प्रवृत्तेश् च परीक्षणात् ।  
 निर्मलां तेषु वशितां संस्कारेषु समाप्नुते ॥ त्श्प्क्_७७  
-  
-त्रिशतिकायाः प्रज्ञापारमितायाः कारिकासप्ततिः समाप्ता ॥  ॥  
-कृतिर् इयम् आर्यासङ्गपादानाम् इति ॥  ॥  
+    
+त्रिशतिकायाः प्रज्ञापारमितायाः कारिकासप्ततिः समाप्ता ॥ ॥  
+कृतिर् इयम् आर्यासङ्गपादानाम् इति ॥ ॥
 

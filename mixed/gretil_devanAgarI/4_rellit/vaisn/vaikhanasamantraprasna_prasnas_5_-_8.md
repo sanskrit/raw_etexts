@@ -1,8467 +1,8813 @@
----
-title: Vaikhanasamantraprasna, Prasnas 5 - 8
++++
+title = "Vaikhanasamantraprasna, Prasnas 5 - 8"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Vaikhanasamantraprasna, Prasnas 5 - 8  
-
+  
+  
+  
+  
 Vaikhanasamantraprasna, Prasnas 5 - 8  
 Based on various South Indian editions in Telugu script  
-
+  
+  
 Input by Howard Jay Resnick  
 19.8.1996  
   
 (cf. Resnick, Howard Jay:  
 "The 'Daivika-Catustayam' of the 'Vaikhanasa-mantra-prasna' : a Translation"  
 Thesis, Cambridge MA : Harvard Univ. 1996)  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.   
+  
+Text converted to Unicode (UTF-8) with "underring" characters and Vedic accents.  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+  
+set to UTF-8.)  
+  
+  
+  
+description: multibyte sequence:  
+long a   ā     
+long A   Ā     
+long i   ī     
+long I   Ī     
+long u   ū     
+long U   Ū     
+vocalic r   r̥    
+vocalic R   R̥    
+long vocalic r   r̥̄    
+vocalic l   l̥    
+long vocalic l   l̥̄    
+velar n   ṅ    
+velar N   Ṅ    
+palatal n   ñ     
+palatal N   Ñ     
+retroflex t   ṭ    
+retroflex T   Ṭ    
+retroflex d   ḍ    
+retroflex d, intervoc.   ḷ    
+retroflex D   Ḍ    
+retroflex n   ṇ    
+retroflex N   Ṇ    
+palatal s   ś     
+palatal S   Ś     
+retroflex s   ṣ    
+retroflex S   Ṣ    
+anusvara   ṃ    
+visarga   ḥ    
+a udatta   á    
+a svarita   à    
+long a udatta   ā́    
+long a svarita    ā̀    
+i udatta   í    
+i svarita   ì    
+long i udatta   ī́    
+long i svarita   ī̀    
+u udatta   ú    
+u svarita   ù    
+long u udatta   ū́    
+long u svarita   ū̀    
+voc. r udatta   ŕ̥    
+voc. r  svarita   r̥̀    
+long voc. r udatta   r̥̄́    
+vocalic l udatta   ĺ̥    
+vocalic l svarita   l̥̀    
+long vocalic l udatta   l̥̄́    
+long vocalic l svarita   l̥̄̀    
+e udatta   é    
+e svarita   è    
+o udatta   ó    
+o svarita   ò    
+accented ai =      aí / aì    
+accented au =      aú / aù    
+  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+  
+  
+  
+  
+  
+Śrī Śrī-nivāsāya námaḥ  
+Śrī-vaikhānasa-mantra-praśnāṣṭake  
+Pañcama praśna prārambhaḥ  
+  
+5.1.1.1 hariḥ oṃ  
+príyátāṃ bhágavān viṣṇus sarvá-deveśvaró hariḥ  
+śrīvatsāṅkás[*1] sahasrākṣas sahásra-caraṇás tathā  
+5.1.1.2 jitán te puṇḍarīkākṣa namás te viśva-bhā́vana  
+námas te 'stú hr̥ṣīkeśa mahā́-puruṣa pū́rva-ja  
+5.1.1.3 bhávantu sárvāḥ[*2] puṇyākhyā nimíttāś śobhanā́nvitāḥ  
+tvat-prasādā́d vayaṃ viṣṇo tavá dāsās samā́gatāḥ  
+5.1.1.4 sādhayāmó vimānaṃ te prasā́daṃ kuru nó bhavān  
+sāhāyyáṃ sárva-bhr̥tyās te kurvántu tava śā́sanāt  
+5.1.1.5 śāntá-vīśā́ri-bhūtādīn[*3] visŕ̥jāsmābhir éva tu  
+anapāyī́ prayātv agre chitvā́ vighnaṃ punáḥ-punaḥ  
+[*1] Irregular bahu-vrīhi accentuation.  cf.  A Vedic Grammar for Students, A.A. MacDonell, page 455a.  
+[*2] Underlined syllables receive a “double svarita,” two parallel vertical lines above the syllable, in the published text.  
+[*3] cf.  Kāśyapa Jñāna Kāṇḍaḥ, chapter 34, vīśa-hīne ripu-vr̥ddhiḥ.  
+  
+  
+  
+5.1.2.1 pŕ̥ṣṭhe ca nándako yātu gadā́ vāmaṃ surákṣatu  
+śaṅkha-śaktītáre pārśve yatétāṃ kārya-síddhaye  
+5.1.2.2 śéṣā gacchántu cāsmābhiḥ prasā́dāt tava sárvaśaḥ  
+tvat-prasādā́d vayaṃ vīra karíṣyāmó gr̥háṃ tava  
+5.1.2.3 yáthopaláṃ dahat sūrya-tanúm uṣṇatvam ā́śritaḥ[*4]  
+táthā vayáṃ hi tvad-vīryā́c chuśrū́ṣām anupālaya  
+5.1.2.4 asti cét káruṇā tvattáś cāsmā́kaṃ dāsa-kármaṇām  
+anumantā́ bhava prītas sarvé yācāmahé vayam  
+5.1.2.5 índraś śatá-kratur vīrás sarvá-rājaś śacī́-patiḥ  
+príyátā́ṃ bhágavān viṣṇuḥ sarvá-loka-śubhá-pradaḥ  
+[*4] The published text gives the following variant which I have translated in the English: yáthopaláṃ dáhyate sūryād anúṣṇám uṣṇatvam ā́śritam.  
+  
+  
+5.1.3.1 agnir agryáḥ pavitrāṇāṃ devā́nām agra-gó hariḥ  
+príyátā́ṃ bhágavān viṣṇus sarvá-bhoktā sukhā́vahaḥ  
+5.1.3.2 sarva-lokódbhavo viṣṇúr yamó yama-karáḥ prajāḥ  
+príyátā́ṃ dáṇḍa-bhr̥n netā dharmā́tmā dharma-pā́lakaḥ  
+5.1.3.3 prájā rakṣan vinighnan vai yātúdhānān ajáḥ prabhuḥ  
+nírŕ̥tíḥ príyatāṃ nīlo nīlótpala-dalá[*5]-prabhaḥ  
+5.1.3.4 várúṇáḥ prácetā bhagavān vikrámī yajña-pā́lakaḥ  
+ráktāmbará-dharo vīraḥ priyátām prabhur ávyayaḥ  
+5.1.3.5 vā́yus sarvā́tmako bhadra udā́no javanó marut  
+príyátā́ṃ bhágavān prāṇaś śacī́-pati-sakhā́ prabhuḥ  
+5.1.3.6 rāja-rājó dhanādhyakṣaḥ kubéro viśravás-sutaḥ  
+príyátā́ṃ nídhí-sáṃyukta īśvárasya sakhā́ prabhuḥ  
+5.1.3.7 īśas tri-lócanaś śūlī vr̥ṣábha-dhvaja-vā́hanaḥ  
+príyátā́ṃ gáṇa-bhr̥n nityaṃ try-ambáko 'mbara-sánnibhaḥ  
+5.1.3.8 bráhmā pitā́maho vīro vedá-vaktā vr̥ṣā́-kapiḥ  
+príyátā́ṃ pádma-garbhābho viṣṇú-putro virā́ṭ svarāṭ  
+5.1.3.9 diṅ-nāgā́ nā́ga-saṅghāś ca sarvā́ś cāntara-dévatāḥ  
+rávy-ādayó grahā bhūtā r̥ṣáyas siddha-cā́raṇāḥ príyátā́ṃ gáṇa-saṃyuktā́ḥ kurvántu ca sahā́yatām  
+[*5] Text: daḷá  
+  
+  
+5.1.0.1 punáḥ punaś śubhá-pradaḥ prabhur náva ca  
+  
+5.1.4.1 rudráṃ bhūtám índraṃ yamám mātr̥̄s sómaṃ vīrám rudrám índraṃ yamáṃ vr̥kṣéndrān  
+5.1.4.2 vánas-pátibhyo námaḥ  
+5.1.4.3 kumārī́bhyo námaḥ  
+5.1.4.4 vr̥kṣa-rājébhyo námaḥ  
+5.1.4.5 sarva-kāma-pradébhyo námaḥ  
+5.1.4.6 agnáye svā́hā  
+5.1.4.7 vana-rājā́ya svā́hā  
+5.1.4.8 sómāya svā́hā  
+  
+5.1.5.1 yamā́ya svā́hā  
+5.1.5.2 śākhā́ya svā́hā  
+5.1.5.3 sthūla-lākṣā́ya svā́hā  
+5.1.5.4 vyādhā́ya svā́hā  
+5.1.5.5 mr̥ga-rūpíṇe svā́hā  
+5.1.5.6 vánas-pátibhyas svā́hā  
+5.1.5.7 kumārī́bhyas svā́hā  
+5.1.5.8 vallī́bhyas svā́hā  
+5.1.5.9 kusumā́ya svā́hā  
+5.1.5.10 śalā́ṭave svā́hā  
+  
+5.1.6.1 br̥hat-váce svā́hā  
+5.1.6.2 puṇyā́ya svā́hā  
+5.1.6.3 amita-tejáse svā́hā  
+5.1.6.4 sū́ryāya svā́hā  
+5.1.6.5 sūrya-rūpā́ya svā́hā  
+5.1.6.6 śr̥ṅgíṇe svā́hā  
+5.1.6.7 bhūta-rūpíṇe svā́hā  
+5.1.6.8 nāga-hastā́ya svā́hā  
+5.1.6.9 divyā́ya svā́hā  
+5.1.6.10 tri-hastā́ya svā́hā  
+  
+5.1.7.1 vighnā́ya svā́hā  
+5.1.7.2 vighná-rūpā́ya svā́hā  
+5.1.7.3 vināyakā́ya svā́hā  
+5.1.7.4 prasā́ríṇe svā́hā  
+5.1.7.5 muruṇḍā́ya svā́hā  
+5.1.7.6 nyarṇā́ya svā́hā  
+5.1.7.7 nāgébhyas svā́hā  
+5.1.7.8 bhūta-rājébhyas svā́hā  
+5.1.7.9 cāraṇébhyas svā́hā  
+5.1.7.10 divā-carébhyas svā́hā  
+  
+5.1.8.1 naktáñ-carébhyas svā́hā  
+5.1.8.2 sándhyā́bhyas svā́hā  
+5.1.8.3 sandhyā́-carébhyas svā́hā  
+5.1.8.4 apsaróbhyas svā́hā  
+5.1.8.5 yakṣī́bhyas svā́hā  
+5.1.8.6 kumārī́bhyas svā́hā  
+5.1.8.7 āsúrībhyas svā́hā  
+5.1.8.8 rākṣasī́bhyas svā́hā  
+5.1.8.9 piśācī́bhyas svā́hā  
+5.1.8.10 vanā́ya svā́hā  
+5.1.8.11 sthála-cāríṇe svā́hā  
+5.1.8.12 vr̥kṣa-devébhyas svā́hā  
+5.1.8.13 sthāna-devébhyas svā́hā  
+5.1.8.14 vidyādharébhyas svā́hā  
+5.1.8.15 rūpibhyas svā́hā  
+5.1.8.16 mithunébhyas svā́hā  
+5.1.8.17 sukhébhyas svā́hā  
+5.1.8.18 bhūs svā́hā  
+  
+5.1.0.2 sómāya svā́hā śalā́táve svā́hā tri-hastā́ya svā́hā divā-carébhyas svā́hā vanā́ya svā́hā áṣṭaú ca  
+  
+5.1.9.1 nírdagdha(g)ṃ rákṣaḥ  
+5.1.9.2 sarveśvarā́ya svā́hā  
+5.1.9.3 jagannāthā́ya svā́hā  
+5.1.9.4 cāmuṇḍā́ya svā́hā  
+5.1.9.5 sarvataś-carā́ya svā́hā  
+5.1.9.6 brahmā́ṇyai svā́hā  
+5.1.9.7 piṅgalā́yai[*6] svā́hā  
+5.1.9.8 gaúryai svā́hā  
+5.1.9.9 sárváto-mukhyai svā́hā  
+5.1.9.10 sarit-priyā́yai svā́hā  
+[*6] Text: piṅgaḷā́yai  
+  
+  
+5.1.10.1 viśva-rūpā́yai svā́hā  
+5.1.10.2 ugrā́yai svā́hā  
+5.1.10.3 gaṇeśvaryai svā́hā  
+5.1.10.4 vaiśākhínyai svā́hā  
+5.1.10.5 śikhaṇḍínyai svā́hā  
+5.1.10.6 gāyátryai svā́hā  
+5.1.10.7 ṣaṇ-múkhyai svā́hā  
+5.1.10.8 viśva-garbhā́yai svā́hā  
+5.1.10.9 viṣórmiṇyai svā́hā  
+5.1.10.10 kr̥ṣṇā́yai svā́hā  
+  
+5.1.11.1 druhíṇyai svā́hā  
+5.1.11.2 vārā́hyai svā́hā  
+5.1.11.3 vara-dā́yai svā́hā  
+5.1.11.4 urvyai svā́hā  
+5.1.11.5 vajra-daṃṣṭryai svā́hā  
+5.1.11.6 jáyantyai svā́hā  
+5.1.11.7 kauśíkyai svā́hā  
+5.1.11.8 indrā́ṇyai svā́hā  
+5.1.11.9 ghanāghanányai svā́hā  
+5.1.11.10 kā́lyai[*7] svā́hā  
+5.1.11.11 nā́līka[*8]-daṃṣṭryai svā́hā  
+5.1.11.12 vr̥ṣábhāyai svā́hā[*9]  
+5.1.11.13 veda-dhāríṇyai svā́hā  
+5.1.11.14 vakra-tuṇḍā́ya svā́hā  
+5.1.11.15 éka-daṃṣṭrā́ya svā́hā  
+5.1.11.16 vikaṭā́ya svā́hā  
+5.1.11.17 vināyakā́ya svā́hā  
+5.1.11.18 bhūs svā́hā  
+[*7] Text: kā́ḷyai  
+[*8] Text: nā́ḷīka  
+[*9] 1926 edition: vr̥ṣábhāyai; 1946, 1984 eds.: vr̥ṣáhāyai  
+  
+  
+5.1.0.3 sarit-priyā́yai svā́hā kr̥ṣṇā́yai svā́hā kālyai[*10] svā́hā aṣṭāú ca  
+[*10] Text: kāḷyai  
+  
+  
+5.1.12.1 śuddhā́ imé paśávaḥ  
+5.1.12.2 dhārāsu saptású  
+5.1.12.3 svastí no mimītāṃ[*11]  
+svasti-dā́ viśás pátiḥ[*12]  
+5.1.12.4 nārāyaṇā́ya  
+5.1.12.5 oṃ śéṣam ā́vāhayāmi  
+5.1.12.6 medínīm ā́vāhayāmi  
+5.1.12.7 jyéṣṭhām ā́vāhayāmi  
+5.1.12.8 vā́yum ā́vāhayāmi  
+5.1.12.9 índram ā́vāhayāmi  
+5.1.12.10 marúta ā́vāhayāmi  
+[*11] RV 5.51.11.  Also ŚŚ 10.8.17, 12.8.9, 14.3.12; ŚG 1.4.2, 1.15.12, 2.6.2; AŚ 8.1.23, 9.5.5; MG 2.15.6.  
+[*12] RV 10.152.2a.  Also found in RV 10.152.2; AV 1.21.1, 8.5.22; ŚB 5.1; AdB 1; TB 3.7.11.4; TA 10.1.9; TAA 10.55; Mahān U 20.5; ApŚ 3.12.1; VHDh 8.43.  
+  
+  
+  
+5.1.13.1 ápā́ṃ pátim ā́vāhayāmi yámam ā́vāhayāmi sóma(g)ṃ rā́jānam[*13] sómam ā́vāhayāmi[*14]  
+5.1.13.2 sárva-jít sárva-śatru-ghno 'mogho 'pratima-vī́ryavān  
+āyā́tú bhágavāṃś cakras sarvá-saṃhāra-vártakaḥ  
+5.1.13.3 oṃ bhū́r bhúvas súvas su-bhū́ svayam-bhū́ḥ  
+5.1.13.4 vainateyó mahā-vīryaḥ kāśyápo 'gni-samá-prabhaḥ  
+āyā́tú bhágavān rājā sarpá-jid viṣṇu-vā́hanaḥ  
+5.1.13.5 astv āsanám..  
+5.1.13.6 svāgatáṃ pákṣi-rājāya sarpā́śe viśva-kármaṇe  
+aṇḍa-jānā́ṃ variṣṭhāya viṣṇúnā sama-téjase  
+5.1.13.7 anumantā́ bhava prītas tavá bhártúḥ kriyā́ṃ prati  
+svayá(g)ṃ[*15] sarvám ánujñānair gr̥hyátām idam ávyayaḥ  
+5.1.13.8 yóge-yoge[*16]  
+5.1.13.9 āpo hí ṣṭhā́ mayo-bhúvas[*17] tát[*18] savitúḥ  
+5.1.13.10 cit-pátis tvā tejovát syāvaḥ  
+5.1.13.11 ihá púṣṭiṃ púṣṭi-patir dadhātv ihá prajā́(g)ṃ ramayatu[*19]  
+5.1.13.12 prajā́-pataye puṣṭi-pátáye 'gni-patáye ráyi-pataye kā́māyānnā́dyāya[*20]  
+[*13] somaṃ rājānam (pratīka): KhG 3.2.20; Svidh 2.3.2; Vāit 15.16. Cf. ViDh 56.17, 56.24; VāDh 28.13ñ14; LAtDh 3.12; VAtDh 3.12.  
+[*14] somam ā vaha: TS 2.5.9.4; KB 8.8; ŚB 1.4.2.16, 2.6.1.22; TB 3.5.3.2; ŚŚ 1.5.2, 5.11.4.  
+[*15] The consonant g is occasionally inserted into the text to indicate an anusvāra.  
+[*16] RV 1.30.7. The RV phrase yóge-yoge tavástaraṃ is also given in AV 10.24.7, 20.26.1; SV 1.163, 2.93; VS 11.14; TS 4.1.2.1, 5.1.2.1; MS 2.7.2: 75.5, 3.1.3: 3.21; KS 16.1, 10.2; PB 9.2.20; ŚB 6.3.2.4; AS 6.4.10; Vait 26.12; ApŚ 16.2.3; MŚ 6.1.1; ApMB 1.6.3, 2.4.1; ApG 2.5.20, 4.11.6; HG 1.4.11.  
+[*17] RV 10.9.1. The words ā́po hí ṣṭhā mayo-bhúvaḥ are also found in:  AV 1.5.1; SV 2.1187; VS 11.50, 36.14; TS 4.1.5.1, 5.6.1.4, 7.4.19.4; MS 2.7.5: 79.16, 3.1.6: 8.10, 4.9.27: 139.3; KS 16.4, 19.5, 35.3; ŚB 6.5.1.2; TB 3.9.7.5; TA 4.42.4, 10.1.11; ApŚ 7.21.6, 9.12.2. 9.18.8, 13.15.13, 14.18.1, 16.4.1; etc.  
+[*18] Text: tátth  
+[*19] VS (K) 3.2.5.  
+[*20] This is a paraphrase of  VS (K) 3.2.5, agnáye gr̥há-pataye rayimáte púṣṭi-pataye svā́hā.  agnáye 'nnādā́yā́nna-pataye svā́hā.  
+  
+  
+  
+5.1.0.4 marúṭa āvāyahayāmy astv āsanáṃ náva ca  
+  
+5.1.14.1 āyā́tú bhágavān divyo dāntáś śānto[*21] janá-priyaḥ  
+várṣíṣṭhás sárva-bhaktānāṃ sarvá-dā dhana-dó varaḥ[*22]  
+5.1.14.2 dhārāsu saptasú  
+5.1.14.3 áto devā́ kánikradaj janúṣam  
+5.1.14.4 priyatā́ṃ[*23] medínī devī́ yená śr̥ṅgeṇa códdhr̥tā  
+vīra-patnī́ viśālākṣī tasyā́yaṃ sthāna-nírṇaye  
+ávighnenaíva tam pātvā sādháyemaṃ varā́nane  
+5.1.14.5 medínī devī́  
+5.1.14.6 námo váruṇaḥ  
+5.1.14.7 akṣaír mā́ dīvyaḥ kr̥ṣim ít kŕ̥ṣásvá vitté rámasva bahu mányamānaḥ[*24]  
+[*21] The 1946 published edition gives the variant reading śānto dānto.  
+[*22] Compare the unusual accents here with 5.1.1.1, príyátāṃ bhágavān viṣṇus.  
+[*23] Here priyatā́ṃ has only one accent.  
+[*24] RV 10.34.13ab  
+  
+  
+  
+5.1.15.1 tátra gā́vaḥ kítava tátra jā́yā tán me ví caṣṭe savitā́yam áryaḥ[*25]  
+5.1.15.2 tváṃ vr̥ṣabhas tváṃ purātanas tváṃ vai paurāṇikás tváṃ vaídikas tváṃ cátuś-śr̥ṅgaḥ[*26]  
+5.1.15.3 tvā́ṃ evā́ha mánu[r] yokṣye váhasva[*27] devārthaṃ vī́ra dhuráṃ vī́ras tvám  
+5.1.15.4 śaúrabheya suréśa-vāhana vī́śasyāṃśa vī́śa-sakha gópate  
+5.1.15.5 víṣṇor imā́ṃ bhū́miṃ bhavanārthaṃ kr̥ṣasva  
+5.1.15.6 yúgaṃ yúga-śr̥ṅgaṃ yúñjāmi yógārtham[*28]  
+5.1.15.7 ŕ̥ṣiṃ gr̥hṇāmi kraṣṭúṃ múnīnā́ṃ śā́sanāt[*29]  
+5.1.15.8 víṣṇur mā́ṃ rakṣatu  
+5.1.15.9 yé 'smin deśé jīvantáḥ prā́ṇino rakṣā(g)ṃsi bhū́tāḥ.  píśācinyo 'nya-devá-yutāś śruṇudhva(g)ṃ sárveśasyedáṃ sthā́naṃ bhávanāya kálpitam  
+5.1.15.10 gácchantu yathéṣṭam asmā́d rámaṇīyam anyad bhadráṃ vo astu svastí bhavatu  
+5.1.15.11 hála-kr̥ṣṭā́ diváṃ gacchantu márditā vāyú-lokam.  śramā́rtā amártyatām  
+5.1.15.12 yathā́vac cāhared vīryam  
+5.1.15.13 sárveṣāṃ cákṣur ādityáḥ príyatā(g)ṃ śubhā́ny eva kriyatā́m daítyārir bhágavān itáḥ  
+[*25] RV 10.34.13cd  Our text differs from the RV in the accentuation of the following words:  kitava, jāyā, āyam, and aryaḥ.  
+[*26] cf.  RV 4.58.2; BhP 5.20.15  
+[*27] cj  RV 8.26.23  
+[*28] Text: yógārdham  
+[*29] The published text gives here as an additional reading at the bottom of the page: (rudram anyaṃ try-ambakam iti marīciḥ).  The words “the published text” indicate both the 1946 and 1984 editions.  
+  
+  
+  
+5.1.0.5 mányamāno bhávanāya kálpita(g)ṃ sapta ca  
+  
+5.1.16.1 imé bījā́ vrī́hi-yavā́ ruhantūṣṇā́ṃśu-prasādā́t  
+sómenā́rpitā grahaír nirvyā́dhikāś śuddhā́ś śubhā́ bhavantu  
+5.1.16.2 prároha-bījā́n nírvapāmi bhūmaú yé brahma-sr̥ṣṭā́ dáśa sapta caíva.  té vardhitā vr̥ṣṭi-váśena sárve saṃpā́lyamānā hy amŕ̥tena lokā́n  
+5.1.16.3 saptá grāmyās sáptá cāraṇyakā́ś ca yé gharma-naṣṭā́ himá-varṣa-sr̥ṣṭā́s té vr̥ṣṭi-bhūtā́ hy amŕ̥taṃ rakṣantu  
+5.1.16.4 dīrṇā́rdra-saṃśuṣká-vivárdhamānā mū́laiḥ phalaíś śā́kais sámr̥ddha[*30]-rūpaíḥ  
+annéná martyānāṃ[*31] havíṣā surāṇā́n té vai ruhantā́ṃ tr̥ṇávat paśúbhyaḥ  
+5.1.16.5 tā́n bhūmi-śuddhyaí nírvapāmi bījā́n devá-sthiti-kā́raṇāya  
+5.1.16.6 yé vyoma-bhūmy-agni[*32]-jalásya vāyós sáṃyoga-bhūtā́ḥ práruhanti sárve  
+tā́n daivike śuddhi-kárāya bījā́n nírvapāmi devá-sthiti-kā́raṇāya  
+[*30] 1946 edition shows the incorrect reading pamr̥ddhaiḥ which was corrected in the 1984 edition.  In Telegu script, pa and sa are very similar.  
+[*31] 1946 text reads martyānṃ.  The 1984 text reads martyān, assuming that what appears to be a second r is actually a symbol for final n with one loop broken off.  Otherwise as it stands, the 1984 edition would read marrtyā.  I have corrected all these unintelligible forms to martyānāṃ, which combined with annena provides an intelligible reading parallel to haviṣā surāṇān.  
+[*32] The text places an anudatta under the ū of bhūmy and then a svarita over the a in agni, seemingly an impossible feat of recitation.  
+  
+  
+  
+5.1.17.1 yád bīja-bhūtám idám antárikṣaṃ, yád bījáṃ cāgníḥ pr̥thivī́ rásaś ca tád bīja-rohā́ya váhantu vā́tās, saṃvárdhamānā rúhantāṃ praróhāḥ  
+5.1.17.2 nírītikās te bahávo rúhantas saṃpā́lyamānā hy amŕ̥tá-vāyunā cá  
+kā́lena bījā́ḥ práruhanti coptā́ bījā́d aháṃ prácariṣyāmi dhármam  
+5.1.17.3 éte bījā́ rasá-bhūtā vahantu sómena sr̥ṣṭā́ amŕ̥távat paśúbhyaḥ  
+etā́n prárohān rasá-bhūta-jātā́n dattā́n me bhúktvā prácarantu gā́vaḥ  
+5.1.17.4 tásmān mámaitā́n právapāmi gehé té me paśūnām amŕ̥tā vahantu  
+etáṃ stutā́ me právahantv amútra té puṇya-loké máma dehá-bhūtāḥ  
+5.1.17.5 samudrávátī śŕ̥ṅge-śr̥ṅge  
+5.1.17.6 deví tvayi vā́payāmy amū́n kuruṣva tva(g)ṃ sasyá-sáṃpattim  
+  
+5.1.18.1 kā́ma-dúhe duhā́mi tvāṃ kā́ma-dúhe sasyá-vatse dhána-rā́śiṃ prápūraya  
+5.1.18.2 duhatā́ṃ[*33] dívam índraḥ  
+5.1.18.3 dharā sā yā[*34] púrā yena dhŕ̥tā yā śóbhanaṃ padám  
+káriṣyāmy ásya sā́ prītā́ bháva tva(g)ṃ śubha-lákṣaṇe  
+5.1.18.4 daiviké tú táthā śaucé góbhiḥ kartúm ihá prabho  
+kartúm árhasi nítye tu vídye vaí tvát-prasādataḥ  
+5.1.18.5 sasyā́ imé su-havíṣas su-śuddhā yáthā́ cā́hutír yajñá-mukhé sámr̥ddhāḥ  
+śuddhā́mr̥tās sūríbhir agra-peyā́s sárvāṅga-devā́ áváyavaiś śubhā́nām  
+5.1.18.6 śúbhā bhavantu prábhavantu púṣṭyai  
+5.1.18.7 śuddhā́ imé paśáva éṣā(g)ṃ śŕ̥ṅgā́v índrā-viṣṇū bráhmā śíraḥ  
+5.1.19.1 pr̥ṣṭhó rudrá ŕ̥ṣayo rómā́ṇy uró gúhas tī́rthā lāṅgū́lam  
+kúkṣir médinī cákṣuṣī cándrādityaú vā́lā vidyā́dharāḥ  
+5.1.19.2 ū́dhas sāgarā́ḥ[*35] stanā́ nadyó gā́traṃ bhū́-dharāḥ  
+ásthīni párvatā rúdhiraṃ mitrā́-váruṇau māṃsam agnír jā́hnavī mūtrám  
+5.1.19.3 khurá úragā jyeṣṭhā́[*36] nā́síkā dántā marutáḥ  
+jíhvā sarasvatī́ karṇáḥ kavī́ndraś śakŕ̥t púṇya-déśam[*37]  
+5.1.19.4 etā́s sa-vátsā gā́vas sá-vŕ̥ṣāḥ  
+yathā-sukháṃ cárantu kāmáṃ carantām  
+yathā-sukháṃ vrajantu kāmáṃ vrajantām  
+yathā-sukháṃ mudantu kāmáṃ mudantām  
+5.1.19.5 gā́vo hi me mātáras santu sárvā mé gó-vr̥ṣāḥ pitáraḥ santu sárve  
+vatsā́ máma bhrātára eva santu tasmād iḷā́ śuddhi-karā́ bhavantu  
+5.1.19.6 imā́ṃ siñcāmīmā́m ánugacchāmīmā́ṃ śodhayāmīmā́ṃ mudantu devā́ vítatā vareśā́m[*38]  
+5.1.19.7 bhuñjántu dattáṃ bálim adya vīrā́ś  
+śvaḥ śrā́vaye[*39] yūyám aśeṣam asmā́d  
+gácchadhvam āryā́s su-mánasā ca yúktāḥ  
+[*33] Normal accent dúhatā́ṃ.  
+[*34] I read this as dharā sā yā.  In his English translation of the KJK, Goudriaan (p. 319) lists an alternative reading dhārāyāsāya from a group of manuscripts which he calls L.  Goudriaan is unable to translate these letters either as dhārāsāyā (which he incorrectly lists as dhārāsāya) or as dhārāyāsāya.  
+[*35] I have added visarga to correct the text.  
+[*36] The 1946 edition correctly gives jyeṣṭhā, however the 1984 edition has corrupted the word to jeṣṭhā.  
+[*37] The older edition correctly gives puṇya-, however the 1984 edition of the text has corrupted it to r̥uṇya-.  In Telegu script, p and r̥, when following a consonant, are similar.  
+[*38] The text gives the unintelligible vareḷā́m, which I have changed to vareśā́m, to the (female) lord of boons.  I chose this over the possible vareṣā́m since in the Telegu script ḷ is very similar to ś.  Also the reading of vareśām gives provides a referent for the four occurrences in this text of imām.  
+[*39] I have corrected śvaśrā́vaye to śvaḥ śrā́vaye.  Thus the word śvaḥ, “tomorrow” follows the word adya, “today” in the previous line, a common sequence.  cf. RV 6.56.6d.  
+  
+  
+  
+5.1.0.6 kā́raṇāya sáṃpattiṃ śíram údantā(g)ṃ catvā́ri ca  
+  
+5.1.20.1 bráhmā́ṇam ā́vāhayāmi  
+5.1.20.2 aryámṇam ā́vāhayāmi  
+5.1.20.3 dáṇḍá-dháram ā́vāhayāmi  
+5.1.20.4 pā́śá-bhŕ̥tam ā́vāhayāmi  
+5.1.20.5 dháná-dam ā́vāhayāmi  
+5.1.20.6 sávítr̥m[*40] ā́vāhayāmi  
+5.1.20.7 sā́vítram ā́vāhayāmi  
+5.1.20.8 índram ā́vāhayāmi  
+5.1.20.9 índrā́-jam[*41] ā́vāhayāmi  
+5.1.20.10 rúdram ā́vāhayāmi  
+[*40] An irregular accusative.  
+[*41] I was tempted to change this to índrānujam, a name for Viṣṇu, however the next hymn begins with rúdrā́-jam, so the parallel form índrā́-jam seems to be what is intended.  
+  
+  
+  
+5.1.21.1 rúdrā́-jam ā́vāhayāmi  
+5.1.21.2 apám[*42] ā́vāhayāmi  
+5.1.21.3 ā́pá-vátsam ā́vāhayāmi  
+5.1.21.4 ī́śam ā́vāhayāmi  
+5.1.21.5 párjányam ā́vāhayāmi  
+5.1.21.6 jáyántam ā́vāhayāmi  
+5.1.21.7 ā́dítyam ā́vāhayāmi  
+5.1.21.8 mā́héndram ā́vāhayāmi[*43]  
+5.1.21.9 sátyákam ā́vāhayāmi  
+5.1.21.10 bhŕ̥śam ā́vāhayāmi  
+[*42] The word ap, “water”, is here used in the singular accusative.  The singular form of this word is normally found only in Vedic Sanskrit.  
+[*43] mahendram āvaha: TB 3.5.3.2, ŚŚ 1.5.3.  
+  
+  
+  
+5.1.22.1 ántáríkṣam ā́vāhayāmi  
+5.1.22.2 ágnim ā́vāhayāmi[*44]  
+5.1.22.3 pū́ṣáṇam ā́vāhayāmi  
+5.1.22.4 vítátham ā́vāhayāmi  
+5.1.22.5 gŕ̥há-kṣátam ā́vāhayāmi  
+5.1.22.6 yámam ā́vāhayāmi  
+5.1.22.7 gándhárvam ā́vāhayāmi  
+5.1.22.8 bhŕ̥ṃgá-rā́jam ā́vāhayāmi  
+5.1.22.9 r̥ṣim ā́vāhayāmi  
+5.1.22.10 nírŕ̥tim ā́vāhayāmi  
+[*44] agnim ā vaha:  KB 8.8; ŚB 1.4.2.16, 2.6.1.22; TB 3.5.3.2; ŚŚ 1.5.3, 5.11.4.  
+  
+  
+5.1.23.1 daúvā́ríkam ā́vāhayāmi  
+5.1.23.2 súgrī́vam ā́vāhayāmi  
+5.1.23.3 púṣpá-dántam ā́vāhayāmi  
+5.1.23.4 sarit-pátim ā́vāhayāmi  
+5.1.23.5 ásúram ā́vāhayāmi  
+5.1.23.6 śóṣáṇam ā́vāhayāmi  
+5.1.23.7 rā́gam ā́vāhayāmi  
+5.1.23.8 jávánam ā́vāhayāmi  
+5.1.23.9 nā́gam ā́vāhayāmi  
+5.1.23.10 múkhyam ā́vāhayāmi  
+  
+5.1.24.1 bhállā́ṭam ā́vāhayāmi  
+5.1.24.2 sómam ā́vāhayāmi[*45]  
+5.1.24.3 árgalam[*46] ā́vāhayāmi  
+5.1.24.4 ádítim ā́vāhayāmi  
+5.1.24.5 sū́rí-dévam ā́vāhayāmi  
+5.1.24.6 carakīm ā́vāhayāmi  
+5.1.24.7 dévátā́rim ā́vāhayāmi  
+5.1.24.8 pū́tánām ā́vāhayāmi  
+5.1.24.9 pā́pá-rā́kṣásīm ā́vāhayāmi  
+5.1.24.10 nā́gam ā́vāhayāmi  
+[*45] cf. VMP  5.1.13.1 fn  
+[*46] Text: árgaḷam, which I have changed to árgalam which means “a wooden bolt or pin for fastening a door or the cover of a vessel (items which are mentioned frequently in Vaikhānasa rituals)”.  And in the Padma Purāṇa árgala is the name of a hell.  
+  
+  
+  
+5.1.25.1 bhū́tam ā́vāhayāmi  
+5.1.25.2 yákṣam ā́vāhayāmi  
+5.1.25.3 dúrgām ā́vāhayāmi  
+5.1.25.4 ghóṭá-múkhīm ā́vāhayāmi  
+5.1.25.5 dhā́trīm ā́vāhayāmi  
+5.1.25.6 vápúṣām ā́vāhayāmi  
+5.1.25.7 rā́kṣásam ā́vāhayāmi  
+5.1.25.8 jáyam ā́vāhayāmi  
+5.1.25.9 kŕ̥ṣṇam ā́vāhayāmi  
+5.1.25.10 muruṇḍam ā́vāhayāmi  
+  
+5.1.26.1 śivam ā́vāhayāmi[*47]  
+5.1.26.2 prā́ṇam ā́vāhayāmi  
+5.1.26.3 kávim ā́vāhayāmi  
+5.1.26.4 śákram ā́vāhayāmi  
+5.1.26.5 púrú-hū́tam ā́vāhayāmi  
+5.1.26.6 víṃdyām ā́vāhayāmi  
+5.1.26.7 yáśásam ā́vāhayāmi  
+5.1.26.8 bhádrām ā́vāhayāmi  
+5.1.26.9 védá-bhŕ̥tam ā́vāhayāmi  
+5.1.26.10 tāpásam ā́vāhayāmi  
+[*47] śivam āvāhayāmy aham: MS 2.9.1: 119.6.  
+  
+  
+5.1.27.1 síndhúṣām ā́vāhayāmi  
+5.1.27.2 vídyām ā́vāhayāmi  
+5.1.27.3 ámítam ā́vāhayāmi  
+5.1.27.4 pā́ñcá-bhaútíkam ā́vāhayāmi  
+5.1.27.5 śívam ā́vāhayāmi  
+5.1.27.6 víśvam ā́vāhayāmi  
+5.1.27.7 mítram ā́vāhayāmi  
+5.1.27.8 átrim ā́vāhayāmi  
+5.1.27.9 kusturuṇḍam ā́vāhayāmi  
+5.1.27.10 gárbham ā́vāhayāmi  
+  
+5.1.28.1 várúṇam ā́vāhayāmi  
+5.1.28.2 dháná-dam ā́vāhayāmi  
+5.1.28.3 kā́léyam ā́vāhayāmi  
+5.1.28.4 dáhánam ā́vāhayāmi  
+5.1.28.5 vígháṇḍam ā́vāhayāmi  
+5.1.28.6 pávánam ā́vāhayāmi  
+5.1.28.7 nimudakam ā́vāhayāmi  
+5.1.28.8 gólákam ā́vāhayāmi  
+5.1.28.9 máhíṣá-ghnam ā́vāhayāmi  
+5.1.28.10 vétram ā́vāhayāmi  
+  
+5.1.29.1 vétra-sā́ram ā́vāhayāmi  
+5.1.29.2 kapótakam ā́vāhayāmi  
+5.1.29.3 túlyá-vā́dínam ā́vāhayāmi  
+5.1.29.4 phúllām ā́vāhayāmi  
+5.1.29.5 phúllá-rū́pam ā́vāhayāmi  
+5.1.29.6 víghnam ā́vāhayāmi  
+5.1.29.7 víghná-kā́ríṇam ā́vāhayāmi  
+5.1.29.8 sárvá-vā́hánam ā́vāhayāmi  
+5.1.29.9 kiṣkindham ā́vāhayāmi  
+5.1.29.10 tī́rtham ā́vāhayāmi  
+5.1.29.11 móhánam ā́vāhayāmi  
+5.1.29.12 dáṇḍínam ā́vāhayāmi  
+5.1.29.13 yū́dhákam ā́vāhayāmi  
+5.1.29.14 ántákam ā́vāhayāmi  
+5.1.29.15 spárdhá-ghnam ā́vāhayāmi  
+5.1.29.16 níghnam ā́vāhayāmi  
+5.1.29.17 súkhá-dam ā́vāhayāmi  
+5.1.29.18 hítá-dam ā́vāhayāmi[*48]  
+[*48] été áṣṭa-śátākhyā devā íti káśyapaḥ  
+  
+  
+5.1.0.7 rúdram ā́vāhayāmi bhŕ̥śam ā́vāhayāmi nírŕ̥tim ā́vāhayāmi múkhyam ā́vāhayāmi nā́gam ā́vāhayāmi múrúṇḍam ā́vāhayāmi tā́pásam ā́vāhayāmi gárbham ā́vāhayāmi vétram ā́vāhayāmi tī́rtham ā́vāhayāmy aṣṭāú ca.  
+  
+5.1.30.1 yó 'jaḥ purā́ vī́ra-váro váreṇyo bhūtādhipó bhū́ta-sámasta-vāhaḥ  
+yó vr̥tra-hr̥d vīra-púras sá-dhūma-ketúḥ  
+5.1.30.2 pariṣadā yamó dharmas sa-surā́ri-saṅghaḥ  
+nirr̥tís sá-sámudro varuṇás sá-vāyū́[*49] rā́jā kubéro 'śani-pāṇi-yuktaḥ  
+5.1.30.3 surá-vr̥nda[*50]-saṅghā́s sahá-kārtikeyā́ gaṇá-mukhya-yuktāḥ  
+práviśantv idáṃ sthā́nam imé hárer ye pariṣát-práyuktāḥ  
+kurvántv ídáṃ víghna-vinā́śanī yāḥ  
+5.1.30.4 sárvaṃ vyápaitu kalmáṣam  
+ávasiñcāmi  
+pū́rvaṃ sthitā́ yathéṣṭaṃ gacchantu  
+carámaṃ cárāmaḥ  
+[*49] Text: vāyú, corrected to vāyū́, from, presumably, an original sa-vāyúḥ rājā.  
+[*50] Text: br̥nda, corrected to vr̥nda.  
+  
+  
+  
+5.1.31.1 atrá svastí sávitā svastí sarvé vaí devā́ daívikam  
+5.1.31.2 svásty ástu sarveśvaráś ca dharmā́tmā váruṇo gaṇá-bhr̥d-varaḥ  
+5.1.31.3 práviśantv idáṃ kúmbhaṃ kúmbha-bhr̥d ámbu-pālakaḥ  
+5.1.31.4 sárvā váruṇam ánupráviśantu  
+váruṇaṃ pāśa-bhr̥táṃ vīrám údaka-pám  
+5.1.31.5 imā́ṃ sīmā́ṃ siñcāmi yajñíyām imā́ṃ sī́mā́ṃ satyenācárāmi  
+5.1.31.6 bhávatv idáṃ víṣṇor ā́layam  
+5.1.31.7 átrā́mbu-patir váruṇaś cárátú yathéṣṭam anyā́ gaccantu  
+5.1.31.8 idáṃ gárbha idáṃ vā́sa idám anyā́nām idáṃ gáruḍasyā́gneyādīnā́m amitasyedáṃ cakrasyedáṃ dhvajasyedáṃ parasyedáṃ yūthādhinā́thasya bhavatu  
+5.1.31.9 eté ramáṇīyā bhavantu  
+  
+5.1.32.1 tvā́ṃ khanāmi pr̥thiví tvád-bhartúś śā́sanān mudā́ yuktā bháva  
+5.1.32.2 devā́nām devásya tásyedáṃ vaíṣṇavaṃ bhávanaṃ deva-vā́hinī  
+5.1.32.3 pāṃsū́n préṣyāmi bhávantv imé 'bhivŕ̥ddhaye  
+5.1.32.4 yás sakhā víṣṇor várado varānā́ṃ kártā camūnā́ṃ śúciś śucī́nām  
+vīró vīrā́ṇām ā́gamiṣyatu[*51]  
+5.1.32.5 tva(g)ṃ sarvaṃ kāráya várado varásya  
+tvat-prasādā́t siddhó 'haṃ siddhíṃ gacchāmi  
+5.1.32.6 śaraṇáṃ prápadye tvā́m evāvighnā́rtham ávighnaṃ bhavatu siddháṃ  
+5.1.32.7 su-kramā́s santu su-nītā́ś cā́paḥ  
+5.1.32.8 sūcáyatāṃ váruṇaś śubhā́śubham  
+5.1.32.9 pātu mā́ṃ váruṇo nityo raktā́mbaro jaléśvaraḥ  
+5.1.32.10 amíta tvat-prasādéna sárve devā́ḥ prásīdantu  
+5.1.32.11 ā́yā́tú bhágavān brahmā asmín lóke hitáṅ-karaḥ  
+nítyo 'smín nírmale padmé rámyatām ŕ̥ṣibhis sahá.  
+5.1.32.12 idáṃ bráhmaṇā pūrṇáṃ tú tam ā́ruhya devā́s sūcáyantu śubhā́śubham  
+5.1.32.13 upagatā́s sūcáyantu devā́ḥ  
+5.1.32.14 ā́yā́tú bhágavān viśvá-karmā viśatu  
+5.1.32.15 búddhiṃ mamā́viśatu sá evá nírṇáyatāṃ kárma prathamáṃ virā́ḍ  badhnātu  
+5.1.32.16 dvitī́ya(g)ṃ[*52] sápta-ŕ̥ṣayas téṣāṃ prasādā́d ávighnam astu  
+5.1.32.17 asyā́ṅga-devā́ḥ práviśantv idáṃ puṣṭyaí bhavantu só 'haṃ karómi dívyaṃ kárma kāráyantu devā́ḥ  
+[*51] This is a rare future imperative form.  cf. Whitney's Grammar,  938  
+[*52] The 1946 edition gave dvitī́yāṃ, however this was corrected in the 1984 edition to dvitī́yaṃ, apparently referring to karma in the previous verse.  
+  
+  
+  
+5.1.0.8 cárāmo bhavantu jaléśvaro náva ca  
+  
+5.1.33.1 medínī devī́  
+5.1.33.2 vā́stoṣ-pate  
+5.1.33.3 dhārāsu saptasú  
+5.1.33.4 svastí no mimītām  
+5.1.33.5 éto nv índram  
+5.1.33.6 ádité ínumanyasva  
+5.1.33.7 áto devā́ víṣṇor nú ká(g)ṃ sahásra-śīrṣā púruṣaḥ  
+5.1.33.8 híraṇya-varṇāṃ bhū́mir bhūmnā́  
+5.1.33.9 bráhma jajñāná(g)ṃ híraṇya-garbháḥ  
+5.1.33.10 yám arpáyanti śáṃ no nídhattāṃ bhūmān anto 'gré  
+nā́gá-rājā́ya svā́hā  
+  
+5.1.34.1 índrā́ya svā́hā  
+5.1.34.2 agnáye svā́hā  
+5.1.34.3 yamā́ya svā́hā  
+5.1.34.4 nírr̥taye svā́hā  
+5.1.34.5 váruṇāya svā́hā  
+5.1.34.6 vāyáve svā́hā  
+5.1.34.7 kuberāya svā́hā  
+5.1.34.8 īśānā́ya svā́hā  
+5.1.34.9 nārāyaṇā́ya sarva-ratnébhyas svā́hā  
+5.1.34.10 nārāyaṇā́ya sarva-dhātúbhyas svā́hā  
+  
+5.1.35.1 nārāyaṇā́ya sarva-bījébhyas svā́hā  
+5.1.35.2 nārāyaṇā́ya sarva-lohébhyas svā́hā  
+5.1.35.3 nádībhyas svā́hā  
+5.1.35.4 pātālébhyas svā́hā  
+5.1.35.5 vr̥kṣébhyas svā́hā  
+5.1.35.6 nagébhyas svā́hā  
+5.1.35.7 dig-gajébhyas svā́hā  
+5.1.35.8 víṣṇave svā́hā  
+5.1.35.9 bhūs svā́hā  
+5.1.35.10 adité ínvama(gg)ṃsthāḥ[*53]  
+5.1.35.11 ā́tmātmā páramāntarātmā́  
+5.1.35.12 idáṃ víṣṇor vīryam  
+5.1.35.13 medínī devī́  
+5.1.35.14 víṣṇur yóniṃ kalpayatu  
+5.1.35.15 dhruvá-kṣitiḥ  
+5.1.35.16 yád asya kármaṇó 'tyárīricam  
+[*53] The double g, presumably inserted here as recitation guide, is certainly unusual.  
+  
+  
+5.1.0.9 nāga-rājā́ya svā́hā dhātubhyas svā́hānvama(gg)ṃsthāṣ ṣaṭ ca  
+  
+5.1.36.1 víṣṇur mā́ṃ pātu  
+5.1.36.2 vā́stoṣ-pate dhārāsu saptasú  
+5.1.36.3 híraṇya-varṇāḥ pávamānas súvar-jánaḥ  
+5.1.36.4 vana-rājā́ya námaḥ  
+5.1.36.5 déśādhipátaye námaḥ  
+5.1.36.6 sárvebhyo devébhyo námaḥ  
+5.1.36.7 yakṣébhyo námaḥ  
+5.1.36.8 vidyā-dharébhyo námaḥ  
+5.1.36.9 rākṣasébhyo námaḥ  
+5.1.36.10 píśācebhyo námaḥ  
+5.1.36.11 nāgébhyo námaḥ  
+5.1.36.12 gándharvebhyo námaḥ  
+5.1.36.13 aṣṭā-daśá-gáṇebhyo námaḥ  
+5.1.36.14 tátrá-sthāś śī́ghraṃ vraja  
+5.1.36.15 ā́tmātmā páramāntarātmā́  
+5.1.36.16 idáṃ víṣṇuḥ  
+5.1.36.17 nārāyaṇā́ya  
+5.1.36.18 úd u tyáṃ jātá-vedasaṃ citráṃ devā́nām  
+5.1.36.19 rathantarám[*54] asi vāmadevyám asīndrasya tvā  
+[*54] Text:  radhantarám.  
+  
+  
+5.1.0.10 píśācebhyo námo náva ca  
+  
+5.1.37.1 asmín deśé vasanta údvasa  
+5.1.37.2 námo vācé yā́ coditā́  
+5.1.37.3 vā́stoṣ-pate 'ṇór áṇīyān  
+5.1.37.4 híraṇya-varṇāḥ pávamānas súvar-jánaḥ  
+5.1.37.5 dhārāsu saptasú vana-rājā́ya námaḥ  
+5.1.37.6 vánas-pátibhyo námaḥ  
+5.1.37.7 vana-devátābhyo námaḥ  
+5.1.37.8 bhūtébhyo námaḥ  
+5.1.37.9 yakṣébhyo námaḥ  
+  
+5.1.38.1 píśācebhyo námaḥ  
+5.1.38.2 nāgébhyo námaḥ  
+5.1.38.3 vidyā-dharébhyo námaḥ  
+5.1.38.4 aṣṭā-daśá-gáṇebhyo námaḥ  
+5.1.38.5 ástu tr̥ptíḥ  
+5.1.38.6 idáṃ víṣṇuḥ  
+5.1.38.7 śríye jātó medínī devī́[*55]  
+5.1.38.8 nārāyaṇā́ya  
+5.1.38.9 sóma(g)ṃ rā́jānaṃ váruṇam agním anvā́rabhāmahe  
+ādityā́n víṣṇu(g)ṃ sū́ryaṃ brahmā́ṇaṃ ca bŕ̥haspátim  
+5.1.38.10 rathantarám asi  
+[*55] In the left-hand margin of the manuscript here is written: dāru-samgrahaṇaṃ, “the taking of the wood”.  
+  
+  
+5.1.0.11 námo bŕ̥haspátim ékañ ca  
+  
+5.1.39.1 prá tad víṣṇuḥ  
+5.1.39.2 vŕ̥kṣa-rājāya námaḥ  
+5.1.39.3 devāvāsāya námaḥ  
+5.1.39.4 suśā́khine námáḥ  
+5.1.39.5 viriṃci-nirmítā́ya námaḥ  
+5.1.39.6 víṣvaksenāya námaḥ  
+5.1.39.7 cakrā́ya námaḥ  
+5.1.39.8 óṃ bhū́r bhúvas súvaḥ  
+5.1.39.9 éto nv índram.  
+5.1.39.10 áto devā́ idáṃ víṣṇuḥ  
+  
+5.1.40.1 rúdram anyáṃ try-ambakam  
+5.1.40.2 bráhma jajñāná(g)ṃ híraṇya-garbháḥ  
+5.1.40.3 miśrá-vāsasa etān ghnataitā́n  
+5.1.40.4 dhātā́ dadātu na  
+imám me varuṇa  
+prájā-pate ná tvád  
+agnír bhūtā́nām  
+r̥tā-ṣā́ṭ  
+5.1.40.5 yé bhūtā́ḥ pracáranti  
+5.1.40.6 sáhásra-śīrṣā púruṣaḥ dhārāsu saptasú  
+5.1.40.7 sóma(g)ṃ rā́jānam  
+5.1.40.8 śáṃ no devī́ḥ  
+5.1.40.9 víṣṇus tvā́(g)ṃ rakṣatu  
+  
+5.1.41.1 ádité ínumanyasva  
+5.1.41.2 vr̥kṣa-rājā́ya svā́hā  
+5.1.41.3 devāvāsā́ya svā́hā  
+5.1.41.4 suśā́khine svā́hā  
+5.1.41.5 viriṃci-nírmitā́ya svā́hā  
+5.1.41.6 supatrā́ya svā́hā  
+5.1.41.7 supuṣpā́ya svā́hā  
+5.1.41.8 vánas-pátibhyas svā́hā  
+5.1.41.9 dyā́vā-pr̥thivī́bhyā(g)ṃ svā́hā  
+5.1.41.10 bhūs svā́hā  
+  
+5.1.42.1 víṣṇave svā́hā  
+5.1.42.2 śrī-dharā́ya svā́hā  
+5.1.42.3 varāhā́ya svā́hā  
+5.1.42.4 urvī́-sáṃdhāraṇāya svā́hā  
+5.1.42.5 sárva-vyāpine svā́hā  
+5.1.42.6 śríyai svā́hā  
+5.1.42.7 haríṇyai svā́hā  
+5.1.42.8 khyātīśā́ya svā́hā  
+5.1.42.9 cirā́yuṣe svā́hā  
+5.1.42.10 bráhmaṇe svā́hā  
+  
+5.1.43.1 sthā́ṇave svā́hā  
+5.1.43.2 sarpā́śine svā́hā  
+5.1.43.3 cakrā́ya svā́hā  
+5.1.43.4 amitā́ya svā́hā  
+5.1.43.5 devébhyas svā́hā  
+5.1.43.6 nāgébhyas svā́hā  
+5.1.43.7 bhūs svā́hā  
+5.1.43.8 yé ásmin deśé jīvantáḥ  
+5.1.43.9 paráśuve námaḥ  [?]  
+5.1.43.10 rúdram anyáṃ try-ambakam  
+5.1.43.11 námo váruṇaś śuddháḥ  
+5.1.43.12 víṣṇur mā́ṃ rakṣatu[*56]  
+5.1.43.13 sóma(g)ṃ rā́jānam  
+[*56] The text here inserts this footnote: bhavé bhavenā́ti-bhave bhajasva mā́ṃ bhavódbhávā́ya námaḥ sóma(g)ṃ rā́jānam = = bŕ̥haspátim nā̀tha-pālā́ || prásasāhiṣe puru-hūta = = revátīnām || kāśyapena pratipāditam  
+  
+  
+5.1.0.12 víṣṇur víṣṇus tvā(g)ṃ rakṣatu bhū́s svā́hā bráhmaṇe svā́hā try-ambakaṃ trī́ṇi ca  
+  
+5.1.44.1 híraṇya-varṇāḥ pávamānas súvar-jánaḥ  
+5.1.44.2 áto devā́ rúdram anyám  
+5.1.44.3 bráhma jajñānám  
+5.1.44.4 ā́-go-dā́nāt  
+5.1.44.5 híraṇya-varṇāḥ  
+5.1.44.6 rátrī vy ákhyad āyatī́  
+5.1.44.7 nārāyaṇā́ya  
+  
+5.1.0.13 híraṇya-varṇās sápta ca  
+  
+5.1.45.1 pávamānas súvar-jánaḥ  
+5.1.45.2 nārāyaṇā́ya  
+5.1.45.3 vásoḥ pavítram asi  
+śáṃ no devī́r  
+námo váruṇaḥ  
+5.1.45.4 mádhu vā́tā r̥tāyaté  
+5.1.45.5 r̥tám amítaṃ mádhu  
+na ihá sántá  
+bhū́yā́(g)ṃsi  
+5.1.45.6 idáṃ mádhukāya ca plavāmahe  
+5.1.45.7 idáṃ mádhu cācamya prácaratām  
+5.1.45.8 śáṃ no devy  
+ágna ā́ yāhy  
+agním īle[*57]  
+pūtás tasya pāré bhúvanasya mádhye  
+imā́[*58] óṣadhayas sambabhūvúr  
+abhí tvā śūra  
+catvā́ri vā́k  
+5.1.45.9 vā́rīś cátasraḥ  
+5.1.45.10 ā́pyāyasva sám etu te viśvátas soma vŕ̥ṣṇiyam[*59]  
+bhávā vā́jasya saṃgathé[*60]  
+[*57] l denotes ā́ in the RV  
+[*58] Text: mā́ which I have corrected to imā́.  
+[*59] The VMP here gives the metrical form vŕ̥ṣṇiyam rather than vŕ̥ṣṇyam.  
+[*60] VMP divides this verse, making the second line the first of chapter 46.  The numbering has been adjusted to reflect the complete verse, which now appears here at the end of chapter 45.  
+  
+  
+  
+5.1.46.1 sahásra-śīrṣā púruṣaḥ  
+5.1.46.2 ékākṣara(g)ṃ  
+víṣṇor nú kaṃ vīryāṇi  
+5.1.46.3 dhārāsu saptásu[*61]  
+5.1.46.4 svastí no mimītāṃ  
+svasti-dā́ viśás pátiḥ  
+5.1.46.5 asthíbhyo námaḥ  
+5.1.46.6 védāhám etáṃ púruṣaṃ mahā́ntam ādityá-varṇaṃ támasas tú pāré  
+sárvāṇi rūpā́ṇi vicítya dhī́ro nā́māni kr̥tvā́bhivádan yádā́ste  
+5.1.46.7 yád vaiṣṇavá(g)ṃ śáyane śayānáṃ tát saha devaís sahárṣibhiḥ  
+tát sarva-devā́ anumanyatāṃ proktó vaiṣṇavo 'há(g)ṃ śáyitaṃ karomi  
+[*61] cf.  5.1.12.2  Here the accent is irregularly placed on the penultimate syllable of saptasu, rather than the last syllable as usual.  
+  
+  
+5.1.47.1 ta(g)ṃ śáyane devéśaṃ daítya-nāśāya tát sarva-devaír ánumanyatām  
+5.1.47.2 avíghnaṃ púṇya(g)ṃ sáṃpadyatāṃ tád bhagavā́n ánumanyatām  
+5.1.47.3 yád vaiṣṇavatvá(g)ṃ sámatā(g)ṃ samatváṃ vaiṣṇávo 'háṃ váhatāṃ vahāmi  
+5.1.47.4 víṣṇor aháṃ jíṣṇum aháḥ prápadye svā́hā svadhā vaí śírasā vahāmi  
+5.1.47.5 síndhoḥ pátiṃ váruṇaṃ mā́ vidantu  
+5.1.47.6 áto devā́ víṣṇor nú ká(g)ṃ sahásra-śīrṣā púruṣaḥ  
+5.1.47.7 ā́ tvāhārṣam antár abhū́ḥ  
+5.1.47.8 śriyé jātó medínī devī́  
+5.1.47.9 asthíbhyas svā́hā  
+5.1.47.10 kánikradaj janúṣam  
+  
+5.1.48.1 víṣṇor nú ká(g)ṃ nārāyaṇā́ya  
+5.1.48.2 námo váruṇaḥ  
+5.1.48.3 agnáye svā́hā  
+5.1.48.4 vaíśvānarāya svā́hā  
+5.1.48.5 jātá-vedase svā́hā  
+5.1.48.6 pā́vakāya svā́hā  
+5.1.48.7 hutāśanā́ya svā́hā  
+5.1.48.8 havya-vāhanā́ya svā́hā  
+5.1.48.9 svāhā́-priyā́ya svā́hā  
+5.1.48.10 yajñá-mū́rtaye svā́hā[*62]  
+[*62] The 1984 Telegu script edition of the VMP has accidentally put pages 17 and 18 of the first praśna after page 16 of the fifth praśna.  Similarly page 17 and 18 of the fifth praśna has been put after page 16 of the first praśna.  The first four praśnas form a single book and praśnas 5-8 form the second book.  Therefore the text begins numbering again from 1 at the beginning of praśna 5, and this is why the two sets of pages 17 and 18 were confused.  
+  
+  
+5.1.49.1 yoga-mūrtáye svā́hā  
+5.1.49.2 víṣṇave svā́hā  
+5.1.49.3 váṭa-patra-śāyine svā́hā  
+5.1.49.4 ananta-śayanā́ya svā́hā  
+5.1.49.5 puṣkara-nābhā́ya svā́hā  
+5.1.49.6 viśveśvarā́ya svā́hā  
+5.1.49.7 śrī́yai svā́hā  
+5.1.49.8 paúṣṇyai svā́hā  
+5.1.49.9 mr̥kaṇḍu-jāya svā́hā  
+5.1.49.10 khyātīśā́ya svā́hā  
+5.1.49.11 suparṇā́ya svā́hā  
+5.1.49.12 śeṣā́ya svā́hā  
+5.1.49.13 hálāya svā́hā  
+5.1.49.14 jalā́ya svā́hā  
+5.1.49.15 bhū́s svā́hā  
+  
+5.1.0.14 vŕ̥ṣṇiyam karómi janúṣam yajñá-mū́rtaye svā́hā khyātīśā́ya svā́hā pañca ca  
+  
+5.1.50.1 médase námaḥ  
+5.1.50.2 víṣṇor nú kam  
+5.1.50.3 sahásra-śī́rṣā púruṣaḥ  
+5.1.50.4 híraṇya-varṇāṃ háriṇīm  
+5.1.50.5 bhū́mir bhūmnā́  
+5.1.50.6 áto devā́  
+5.1.50.7 médase svā́hā  
+5.1.50.8 kánikradaj janúṣam  
+5.1.50.9 áto devā́  
+  
+5.1.0.15 médase náva  
+  
+5.1.51.1 éto nv índram  
+5.1.51.2 śirā́bhyo námaḥ  
+5.1.51.3 śirā́bhyas svā́hā  
+5.1.51.4 áto devā́  
+  
+5.1.0.16 éto nv índraṃ catvā́ri  
+  
+5.1.52.1 víṣṇur mā́ṃ pātu  
+5.1.52.2 śríyam ā́vāhayāmi  
+5.1.52.3 hā́ríṇīm ā́vāhayāmi  
+5.1.52.4 garúḍam ā́vāhayāmi  
+5.1.52.5 śéṣam ā́vāhayāmi  
+5.1.52.6 híraṇya-varṇāḥ pávamānas súvar-jánaḥ  
+5.1.52.7 dhārāsu saptasú  
+5.1.52.8 bhū́mir bhū́mnā  
+5.1.52.9 éto nv índram  
+5.1.52.10 śáṃ no vā́taḥ pavatām  
+  
+5.1.53.1 śríyai svā́hā  
+5.1.53.2 háríṇyai svā́hā  
+5.1.53.3 mārkaṇdeyā́ya svā́hā  
+5.1.53.4 bhŕ̥gave svā́hā  
+5.1.53.5 suparṇā́ya svā́hā  
+5.1.53.6 śéṣāya svā́hā  
+5.1.53.7 nadī́bhyas svā́hā  
+5.1.53.8 parvatébhyas svā́hā  
+5.1.53.9 nāgébhyas svā́hā  
+5.1.53.10 bhū́s svā́hā  
+  
+5.1.54.1 úd u tyáṃ[*63] jātá-vedasaṃ  
+citráṃ devā́nām.  
+5.1.54.2 tát[*64] savitúr  
+medínī devī́  
+5.1.54.3 bráhmaṇe námaḥ maheśvarā́ya námaḥ  
+5.1.54.4 śriyé jātaḥ  
+5.1.54.5 áto devā́  
+ídam ā́paś śivāḥ  
+5.1.54.6 idáṃ víṣṇur  
+été śatám  
+5.1.54.7 sahásra-śīrṣā púruṣaḥ  
+5.1.54.8 ékākṣara(g)ṃ  
+brahmā́ devā́nām  
+5.1.54.9 pūṣā́ te granthiṃ viṣyatu[*65]  
+[*63] Text: údyutáṃ  
+[*64] Text: tátth  
+[*65] Third person singular imperative from vi-so.  
+  
+  
+  
+5.1.55.1 yán me gárbhe vásataḥ  
+pra tád víṣṇur óm.  [?]  
+5.1.55.2 vāyu párī jala-śáyanī  
+5.1.55.3 híraṇya-varṇāḥ pávamānas suvar-jánaḥ  
+5.1.55.4 mā(g)ṃsébhyo námaḥ  
+5.1.55.5 bhū́mir bhūmnā́  
+5.1.55.6 táyādityā́ tat trīṇy[*66] eṣā́to devā́ sahásra-śī́rṣā púruṣaḥ  
+5.1.55.7 víṣṇor nú kaṃ cirāyuṣaṃ pádmā-pitre  
+5.1.55.8 mā(g)ṃsébhyas[*67] svā́hā  
+5.1.55.9  ékākṣaram  
+médínī devī  
+5.1.55.10  víṣṇus sárveṣām ádhipatiḥ  
+5.1.55.11  ékākṣara(g)ṃ  
+víṣṇor nú kam  
+5.1.55.12  víṣṇus sárveṣāṃ  
+dhruvá-kṣītir  
+ā-go-dā́nāt  
+[*66] cf. VMP 6.33.5  
+[*67] Text: mā(g)ṃsébhya  
+  
+  
+  
+5.1.0.17 pávátā́ṃ, bhū́s svā́hā, granthíṃ víṣyatu, pátir, dve ca  
+  
+5.1.56.1 rudhirā́ya námaḥ  
+5.1.56.2 áto devā́ víṣṇor nú kam  
+5.1.56.3 sahásra-śīrṣā púruṣaḥ  
+5.1.56.4 híraṇya-varṇāṃ háriṇīm  
+5.1.56.5 śáṃ no vā́taḥ pavatām  
+5.1.56.6 rudhirā́ya svā́hā  
+5.1.56.7 víṣṇus sárveṣām ádhipatiḥ  
+5.1.56.8 óṃ víṣṇave svā́hā  
+5.1.56.9 śriyai svā́hā  
+5.1.56.10 haríṇyai svā́hā  
+  
+5.1.57.1 cirā́yuṣe svā́hā  
+5.1.57.2 khyātīśā́ya svā́hā  
+5.1.57.3 garuḍā́ya svā́hā  
+5.1.57.4 śāntā́ya svā́hā  
+5.1.57.5 cakrā́ya svā́hā  
+5.1.57.6 śaṅkhā́ya svā́hā  
+5.1.57.7 śāntā́ya svā́hā  
+5.1.57.8 bhūtébhyas svā́hā  
+5.1.57.9 sárvābhyo devátābhyas svā́hā  
+5.1.57.10 bhū́s svā́hā  
+5.1.57.11 agnír índro váruṇo mitró aryamā́ vāyúḥ pūṣā́ sárasvatī sa-jóṣasaḥ  
+5.1.57.12 ādityā́ víṣṇur marútas svar br̥hát-sómo rudró áditir bráhmaṇaspátiḥ  
+5.1.57.13 duhatā́ṃ dívam índraḥ  
+5.1.57.14 sahásra-śīrṣā púruṣaḥ  
+  
+5.1.0.18 haríṇyai svā́hā bhū́s svā́hā catvā́ri ca  
+  
+5.1.58.1 tvacé námaḥ  
+5.1.58.2 áto devā́ víṣṇor nú kam  
+5.1.58.3 sahásra-śīrṣā púruṣaḥ  
+5.1.58.4 svastí caiveha svā́hā  
+5.1.58.5 tvacé svā́hā  
+5.1.58.6 nārāyaṇā́ya  
+5.1.58.7 sómasya tanū́r asi  
+  
+5.1.0.19 tvacé sapta ca  
+  
+5.1.59.1 jīvā́ya námaḥ  
+5.1.59.2 áto devā́ víṣṇor nú kam  
+5.1.59.3 sahásra-śīrṣā púruṣaḥ  
+5.1.59.4 víṣṇus sarveṣām ádhipatiḥ  
+5.1.59.5 víṣṇave svā́hā  
+5.1.59.6 jīvā́ya svā́hā  
+5.1.59.7 hiraṇya-garbhás sam avartatā́gre  
+5.1.59.8 ātmātmā páramāntarātmā  
+5.1.59.9 áto devā́  
+5.1.59.10 víṣṇor nú káṃ citráṃ devā́nāṃ téjo vátsyāvaḥ  
+5.1.59.11 bhū́mān anto 'gre  
+5.1.59.12 asmād upāsyo  
+gándhá-dvārā́m  
+5.1.59.13 medínī devī́  
+5.1.59.14 cirāyuṣaṃ yáṃ yátas svám āsīd dhŕ̥dayāt  
+  
+5.1.0.20 vátsyāvaś catvā́ri ca  
+  
+5.1.60.1 bráhma jajñānam  
+5.1.60.2 brahmā́ṇam ā́vāhayāmi  
+5.1.60.3 prajā́-patim ā́vāhayāmi  
+5.1.60.4 pitā́maham ā́vāhayāmi  
+5.1.60.5 híráṇyá-garbhám ā́vāhayāmi  
+5.1.60.6 ī́śā́nam ā́vāhayāmi  
+5.1.60.7 párjányam ā́vāhayāmi  
+5.1.60.8 jayántam ā́vāhayāmi  
+5.1.60.9 mā́héndram ā́vāhayāmi  
+5.1.60.10 ā́dítyam ā́vāhayāmi  
+  
+5.1.61.1 sátyákam ā́vāhayāmi  
+5.1.61.2 ágnim ā́vāhayāmi  
+5.1.61.3 vítátham ā́vāhayāmi  
+5.1.61.4 gŕ̥há-kṣátam ā́vāhayāmi  
+5.1.61.5 yámam ā́vāhayāmi  
+5.1.61.6 gándhárvam ā́vāhayāmi  
+5.1.61.7 bhŕ̥ṅgá-rā́jam ā́vāhayāmi  
+5.1.61.8 nírŕ̥tim ā́vāhayāmi  
+5.1.61.9 daúvā́rikam ā́vāhayāmi  
+5.1.61.10 sugrī́vam ā́vāhayāmi  
+  
+5.1.62.1 sárít-pátim ā́vāhayāmi  
+5.1.62.2 asúram ā́vāhayāmi  
+5.1.62.3 śóṣáṇam ā́vāhayāmi  
+5.1.62.4 jávánam ā́vāhayāmi  
+5.1.62.5 nā́gam ā́vāhayāmi  
+5.1.62.6 múkhyam ā́vāhayāmi  
+5.1.62.7 sómam ā́vāhayāmi  
+5.1.62.8 árgálam[*68] ā́vāhayāmi  
+5.1.62.9 ádítim ā́vāhayāmi  
+5.1.62.10 bráhma jajñānám  
+[*68] cf.  5.1.24.3  
+  
+  
+5.1.63.1 brahmā́ṇam ā́vāhayāmi  
+5.1.63.2 śáṃ no nídhattām  
+5.1.63.3 óṃ śéṣam ā́vāhayāmi sahásra-śīrṣam ā́vāhayāmi anántam ā́vāhayāmi nā́gá-rā́jam ā́vāhayāmi  
+5.1.63.4 dhármaugha-mātā  
+5.1.63.5 vákrá-túṇḍam ā́vāhayāmi éká-dáṃṣṭram ā́vāhayāmi víkáṭam ā́vāhayāmi  
+  
+5.1.64.1 vínā́yákam ā́vāhayāmi  
+5.1.64.2 śatá-dhāra(g)ṃ híraṇmáyam  
+5.1.64.3 gárúḍam ā́vāhayāmi pákṣí-rā́jam ā́vāhayāmi súpárṇam ā́vāhayāmi  khágā́dhípátim ā́vāhayāmi  
+5.1.64.4 bhū́mān anto 'gré  
+5.1.64.5 cákram ā́vāhayāmi súdárśánam ā́vāhayāmi sáhásrá-víkácam ā́vāhayāmi  
+  
+5.1.65.1 ánápā́yínam ā́vāhayāmi  
+5.1.65.2 ŕ̥co yájū́(g)ṃṣí  
+5.1.65.3 páṅktī́śam ā́vāhayāmi mítram ā́vāhayāmi várádam ā́vāhayāmi  bhū́tánā́yákam ā́vāhayāmi  
+5.1.65.4 tán mā yaśo 'gré  
+5.1.65.5 śáṅkham ā́vāhayāmi pā́ñcájányam ā́vāhayāmi ambujam ā́vāhayāmi  
+  
+5.1.66.1 víṣṇú-príyam ā́vāhayāmi  
+5.1.66.2 ā́gneyó yásmāt  
+5.1.66.3 víṣváksénam ā́vāhayāmi  
+5.1.66.4 śā́ntam ā́vāhayāmi  
+5.1.66.5 hárítam ā́vāhayāmi  
+5.1.66.6 ámítam ā́vāhayāmi  
+5.1.66.7 jáyām ā́vāhayāmi  
+5.1.66.8 súkhá-prádām ā́vāhayāmi  
+5.1.66.9 sámŕ̥ddhínīm ā́vāhayāmi  
+5.1.66.10 bhadrā́m ā́vāhayāmi  
+  
+5.1.67.1 víjáyām ā́vāhayāmi  
+5.1.67.2 víśókām ā́vāhayāmi  
+5.1.67.3 púṇyām ā́vāhayāmi  
+5.1.67.4 kā́mā́náṃdām ā́vāhayāmi  
+5.1.67.5 víṃdām ā́vāhayāmi  
+5.1.67.6 lā́bhām ā́vāhayāmi  
+5.1.67.7 áprámáttām ā́vāhayāmi  
+5.1.67.8 ájéyām ā́vāhayāmi  
+5.1.67.9 náṃdákām ā́vāhayāmi  
+5.1.67.10 mádhú-jánánīm ā́vāhayāmi  
+  
+5.1.68.1 súmúktām ā́vāhayāmi  
+5.1.68.2 súbhágām ā́vāhayāmi  
+5.1.68.3 púṣṭíkām ā́vāhayāmi  
+5.1.68.4 ámóghávátīm ā́vāhayāmi  
+5.1.68.5 púṇyām ā́vāhayāmi  
+5.1.68.6 áprámáttām ā́vāhayāmi  
+5.1.68.7 kúmúdvátīm ā́vāhayāmi  
+5.1.68.8 súsáhām ā́vāhayāmi  
+5.1.68.9 súsáṃbhárām ā́vāhayāmi  
+5.1.68.10 nívŕ̥ttīm ā́vāhayāmi  
+  
+5.1.69.1 útpálákām ā́vāhayāmi  
+5.1.69.2 súgándhínīm ā́vāhayāmi  
+5.1.69.3 sárvá-módām ā́vāhayāmi  
+5.1.69.4 sárvā́tmákām ā́vāhayāmi  
+5.1.69.5 víśókām ā́vāhayāmi  
+5.1.69.6 dháná-rā́śim ā́vāhayāmi  
+5.1.69.7 ákṣátām ā́vāhayāmi  
+5.1.69.8 ámítām ā́vāhayāmi  
+5.1.69.9 índraṃ práṇayantam  
+5.1.69.10 índram ā́vāhayāmi  
+  
+5.1.70.1 śácī́-pátim ā́vāhayāmi púrú-hū́tam ā́vāhayāmi púrándáram ā́vāhayāmi  
+5.1.70.2 agnír mūrdhā́[*69]  
+5.1.70.3 ágnim ā́vāhayāmi jā́tá-védásam ā́vāhayāmi pā́vákam ā́vāhayāmi hūtāśanam ā́vāhayāmi  
+5.1.70.4 yamó dādhāra  
+5.1.70.5 yámam ā́vāhayāmi  
+[*69] Text:  mūrthā.  
+  
+  
+5.1.71.1 dhármá-rā́jam ā́vāhayāmi  
+5.1.71.2 prétéśam ā́vāhayāmi  
+5.1.71.3 mádhyá-stham ā́vāhayāmi  
+5.1.71.4 námas te nírr̥taye  
+5.1.71.5 ā́rámbhā́dhípátim ā́vāhayāmi  
+5.1.71.6 nírŕ̥tim ā́vāhayāmi  
+5.1.71.7 nī́lam ā́vāhayāmi  
+5.1.71.8 sárvá-rákṣó-ídhípátim ā́vāhayāmi  
+5.1.71.9 yé te śatám  
+5.1.71.10 várúṇam ā́vāhayāmi  
+  
+5.1.72.1 prácétásam ā́vāhayāmi  
+5.1.72.2 ráktā́mbáram ā́vāhayāmi  
+5.1.72.3 yā́dás-pátim ā́vāhayāmi  
+5.1.72.4 marútáḥ párámātmā́  
+5.1.72.5 vā́yum ā́vāhayāmi  
+5.1.72.6 jávánam ā́vāhayāmi  
+5.1.72.7 bhū́tā́tmákam ā́vāhayāmi  
+5.1.72.8 údā́nam ā́vāhayāmi  
+5.1.72.9 miśrá-vāsasaḥ  
+5.1.72.10 kúbéram ā́vāhayāmi  
+  
+5.1.73.1 dhányam ā́vāhayāmi  
+5.1.73.2 paúlástyam ā́vāhayāmi  
+5.1.73.3 yákṣá-rā́jam ā́vāhayāmi  
+5.1.73.4 ī́śānas sárva-lokānā́m  
+5.1.73.5 ī́śā́nam ā́vāhayāmi  
+5.1.73.6 dévam ā́vāhayāmi  
+5.1.73.7 bhávam ā́vāhayāmi  
+5.1.73.8 máhā́-dévam ā́vāhayāmi  
+5.1.73.9 sóma yā́s te mayo-bhúva ūtáyas sánti dāśúṣe  
+tā́bhir no 'vitā́ bháva  
+  
+5.1.74.1 sómam ā́vāhayāmi  
+5.1.74.2 yájñā́ṃgam ā́vāhayāmi  
+5.1.74.3 índum ā́vāhayāmi  
+5.1.74.4 cándram ā́vāhayāmi  
+5.1.74.5 nārāyaṇā́ya  
+5.1.74.6 médinī devī́  
+5.1.74.7 háríṇīm ā́vāhayāmi  
+5.1.74.8 paúṣṇīm ā́vāhayāmi  
+5.1.74.9 kṣóṇīm ā́vāhayāmi  
+5.1.74.10 máhīm ā́vāhayāmi  
+  
+5.1.75.1 rākā́m áham  
+5.1.75.2 rā́kām ā́vāhayāmi  
+5.1.75.3 múkhyām ā́vāhayāmi  
+5.1.75.4 ráktā́ṅgīm ā́vāhayāmi  
+5.1.75.5 várā́nánām ā́vāhayāmi  
+5.1.75.6 sínīvāli pr̥thuṣṭuke  
+5.1.75.7 sínīvālim ā́vāhayāmi  
+5.1.75.8 gábhástínīm ā́vāhayāmi  
+5.1.75.9 hítá-dām ā́vāhayāmi  
+5.1.75.10 púṇyá-dām ā́vāhayāmi  
+5.1.75.11 sóma(g)ṃ rā́jānaṃ váruṇam agním anvā́rabhāmahe  
+ādityā́n víṣṇu(g)ṃ sū́ryaṃ brahmā́ṇaṃ ca bŕ̥haspátim  
+5.1.75.12 óṃ sómam ā́vāhayāmi  
+5.1.75.13 dhārāsu saptású  
+5.1.75.14 sóma(g)ṃ rā́jānam  
+5.1.75.15 áto devā́  
+5.1.75.16 víṣṇor nú kam  
+5.1.75.17 yé te śatám óm  
+  
+5.1.0.21 ā́dítyam ā́vāhayāmi súgrī́vam ā́vāhayāmi bráhma jajñānáṃ víkáṭam ā́vāhayāmi víkácam ā́vāhayāmy  ámbújam ā́vāhayāmi bhadrā́m ā́vāhayāmi mádhú-jánánīm ā́vāhayāmi nívŕ̥ttīm ā́vāhayāmīndram ā́vāhayāmi yámam ā́vāhayāmi várúṇam ā́vāhayāmi kúbéram ā́vāhayāmi no 'vitā́ bhava[*70] máhīm ā́vāhayāmi púṇyá-dām ā́vāhayāmy aṣṭaú ca  
+[*70] The 1984 edition gives avitā́ bhava instead of  no 'vitā́ bhava.  
+  
+  
+5.1.76.1 ā́cā́ryáṃ tvā́m ahaṃ vr̥ṇé  
+5.1.76.2 ákṣí-mócáná-hómā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.76.3 vā́stú-hómā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.76.4 gā́rhápátya-hómā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.76.5 ánvā́hā́rya-hómā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.76.6 ā́hávánī́yá-hómā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.76.7 ā́násákthyá-hómā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.76.8 sábhyá-hómā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.76.9 paúṇḍárī́ká-hómā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.76.10 bráhmā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+  
+5.1.77.1 sómā́rthám tvā́m ahaṃ vr̥ṇé  
+5.1.77.2 hótā́rám tvā́m ahaṃ vr̥ṇé  
+5.1.77.3 snápánā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.77.4 sárvá-dévā́rcánā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.77.5 sthā́pákā́rtháṃ tvā́m ahaṃ vr̥ṇé  
+5.1.77.6 (2) r̥táṃ ca satyám ca  
+devá-kr̥tasya  
+yán me gárbhe  
+tárat sá mandī́  
+vásoḥ pavítrañ  
+jātá-vedase  
+víṣṇor nú ka(g)ṃ  
+sahásra-śīrṣaikākṣaram  
+ā tvāhārṣaṃ  
+tvám agne pávasva  
+5.1.77.7 éto nv índram  
+5.1.77.8 yád devā yád devā  
+yád ádīvyan[*71]  
+ā́yuṣ ṭe  
+vaiśvānarā́ya  
+návo-navo bhavati  
+5.1.77.9 téjo vátsyāvas sómasya tanūr asi  
+5.1.77.10 idáṃ bráhma punīmahe bhūtó bhūtéṣu  
+5.1.77.11 kr̥ṇuṣvá pā́jas svastí no mimītāṃ svasti-dā́ viśás-pátiḥ  
+[*71] adīvyaṃ has been corrected to adīvyan according to all the texts for which this is a pratīka.  
+  
+  
+5.1.0.22 tvā́m ahaṃ vr̥ṇé bhūtó bhūtéṣv ekáñ ca  
+  
+5.1.78.1 vā́stoṣ-pate  
+5.1.78.2 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+5.1.78.3 híraṇya-varṇāḥ pávamānas súvar-jánaḥ  
+5.1.78.4 éto nv índram  
+5.1.78.5 dadbhyás svā́hā  [28 in book must be 78]  
+  
+5.1.0.23 vā́stoṣ-pate te pañca  
+  
+5.1.79.1 maúli-mālāyai[*72] svā́hā  
+5.1.79.2 divyā́ya svā́hā  
+5.1.79.3 ratnā́ya svā́hā  
+5.1.79.4 uttarā́ya svā́hā  
+5.1.79.5 sárvottamāya svā́hā  
+5.1.79.6 sárvasmai svā́hā  
+5.1.79.7 víṣṇave svā́hā  
+5.1.79.8 prabhavíṣṇave svā́hā  
+5.1.79.9 makuṭāya svā́hā  
+5.1.79.10 kéśébhyas svā́hā  
+[*72] Text: maúḷi-mālāyai  
+  
+  
+5.1.80.1 uṣṇīṣā́ya svā́hā  
+5.1.80.2 mūrdhné svā́hā  
+5.1.80.3 múkhāya svā́hā  
+5.1.80.4 lalāṭā́ya svā́hā  
+5.1.80.5 śrótrābhyā(g)ṃ svā́hā  
+5.1.80.6 bhrū́bhyā(g)ṃ svā́hā  
+5.1.80.7 ápā́ṅgābhyā(g)ṃ svā́hā  
+5.1.80.8 ákṣibhyā(g)ṃ svā́hā  
+5.1.80.9 pákṣmabhyas svā́hā  
+5.1.80.10 tā́rakābhyā(g)ṃ svā́hā[*73]  
+[*73] patākābhyā(g)ṃ svā́hā  
+  
+  
+5.1.81.1 jyótiṣe svā́hā  
+5.1.81.2 jyoti-rūpā́yai svā́hā  
+5.1.81.3 gáṇḍabhyā(g)ṃ svā́hā  
+5.1.81.4 hánūbhyā(g)ṃ svā́hā  
+5.1.81.5 nā́sikābhyā(g)ṃ svā́hā  
+5.1.81.6 puṭā́bhyā(g)ṃ svā́hā  
+5.1.81.7 óṣṭhābhyā(g)ṃ svā́hā  
+5.1.81.8 dántebhyas svā́hā  
+5.1.81.9 jihvā́yai svā́hā  
+5.1.81.10 suvaktrā́ya svā́hā  
+  
+5.1.82.1 cubukā́ya svā́hā  
+5.1.82.2 adharā́ya svā́hā  
+5.1.82.3 galāya[*74] svā́hā  
+5.1.82.4 kaṇṭhā́ya svā́hā  
+5.1.82.5 grīvā́yai svā́hā  
+5.1.82.6 kī́kasābhyas svā́hā  
+5.1.82.7 játrubhyas[*75] svā́hā  
+5.1.82.8 jatru-rūpébhyas svā́hā  
+5.1.82.9 á(g)ṃsābhyā(g)ṃ svā́hā  
+5.1.82.10 dóṣābhyā(g)ṃ svā́hā  
+[*74] Text: gaḷāya  
+[*75] Text: játrubhya  
+  
+  
+  
+5.1.83.1 skándhābhyā(g)ṃ svā́hā  
+5.1.83.2 bā́hubhyā(g)ṃ svā́hā  
+5.1.83.3 kūrparébhyas svā́hā  
+5.1.83.4 prakoṣṭhébhyas svā́hā  
+5.1.83.5 talébhyas svā́hā  
+5.1.83.6 áṅgulībhyas[*76] svā́hā  
+5.1.83.7 párvabhyas svā́hā  
+5.1.83.8 nákhebhyas svā́hā  
+5.1.83.9 hr̥dayā́ya svā́hā  
+5.1.83.10 stanā́bhyā(g)ṃ svā́hā  
+[*76] Text: áṅguḷībhyas  
+  
+  
+5.1.84.1 pārśvā́bhyā(g)ṃ svā́hā  
+5.1.84.2 udarā́ya svā́hā  
+5.1.84.3 nā́bhaye svā́hā  
+5.1.84.4 kr̥kā́tikāyai svā́hā  
+5.1.84.5 nā́libhyas[*77] svā́hā  
+5.1.84.6 va(g)ṃśā́ya svā́hā  
+5.1.84.7 śróṇibhyā(g)ṃ svā́hā  
+5.1.84.8 kaṭṭírāya svā́hā  
+5.1.84.9 prajánanāya svā́hā  
+5.1.84.10 svāhā  
+5.1.84.11 prajā́tyai svā́hā  
+[*77] Text: nā́ḷibhyas  
+  
+  
+5.1.85.1 vastáye svā́hā  
+5.1.85.2 vastimuṣkā́ya svā́hā  
+5.1.85.3 sákthibhyā(g)ṃ  svā́hā  
+5.1.85.4 ū́rubhyā(g)ṃ svā́hā  
+5.1.85.5 jā́nubhyā(g)ṃ svā́hā  
+5.1.85.6 jáṅghābhyā(g)ṃ svā́hā  
+5.1.85.7 gúlphebhyas[*78] svā́hā [?]  
+5.1.85.8 pā́rṣṇibhyā(g)ṃ svā́hā  
+5.1.85.9 pā́dābhyā(g)ṃ svā́hā  
+5.1.85.10 pādāṅgulī́bhyas[*79] svā́hā  
+[*78] Text: gúlbhebhyas  
+[*79] Text: pādāṅguḷī́bhyas  
+  
+  
+  
+5.1.86.1 párvabhyas svā́hā  
+5.1.86.2 nakhébhyas svā́hā  
+5.1.86.3 sándhibhyas svā́hā  
+5.1.86.4 sandhānébhyas svā́hā  
+5.1.86.5 rómabhyas svā́hā  
+5.1.86.6 roma-kūpébhyas svā́hā  
+5.1.86.7 mármabhyas svā́hā  
+5.1.86.8 marma-pāṇíbhyas svā́hā  
+5.1.86.9 hotrébhyas svā́hā  
+5.1.86.10 sirā́bhyas svā́hā  
+  
+5.1.87.1 tvágbhyas svā́hā  
+5.1.87.2 raktébhyas svā́hā  
+5.1.87.3 mā(g)ṃsébhyas svā́hā  
+5.1.87.4 médobhyas svā́hā  
+5.1.87.5 ásthibhyas svā́hā  
+5.1.87.6 májjabhyas svā́hā  
+5.1.87.7 śuklā́ya svā́hā  
+5.1.87.8 śuklá-rūpā́ya svā́hā  
+5.1.87.9 hetáve svā́hā  
+5.1.87.10 tejiṣṭhā́ya svā́hā  
+  
+5.1.88.1 téjase svā́hā  
+5.1.88.2 dhā́tubhyas svā́hā  
+5.1.88.3 dhātu-rūpébhyas svā́hā  
+5.1.88.4 vā́gbhyas svā́hā  
+5.1.88.5 akṣarébhyas svā́hā  
+5.1.88.6 nādébhyas svā́hā  
+5.1.88.7 mánase svā́hā  
+5.1.88.8 búddhaye svā́hā  
+5.1.88.9 ahaṅkārā́ya svā́hā  
+5.1.88.10 cittā́ya svā́hā  
+  
+5.1.89.1 hŕ̥t-puṇḍarīkāya svā́hā  
+5.1.89.2 prāṇa-púṇḍarīkā́ya svā́hā  
+5.1.89.3 vā́yave svā́hā  
+5.1.89.4 jīvā́ya svā́hā  
+5.1.89.5 jīvā́tmane svā́hā  
+5.1.89.6 satyā́ya svā́hā  
+5.1.89.7 sátya-rūpā́ya svā́ha  
+5.1.89.8 jñānā́ya svā́hā  
+5.1.89.9 jñāna-rūpā́ya svā́hā  
+5.1.89.10 jñeyā́ya svā́hā[*80]  
+[*80] jñātre sā́vhā  
+  
+  
+5.1.90.1 vijñā́tre svā́hā  
+5.1.90.2 anantā́ya svā́hā  
+5.1.90.3 ānandā́ya svā́hā  
+5.1.90.4 vyaktā́ya svā́hā  
+5.1.90.5 avyaktā́ya svā́hā  
+5.1.90.6 prāṇā́ya svā́hā  
+5.1.90.7 prāṇā́tmane svā́hā  
+5.1.90.8 apānā́ya svā́hā  
+5.1.90.9 vyānā́ya svā́hā  
+5.1.90.10 udānā́ya svā́hā  
+  
+5.1.91.1 samānā́ya svā́hā  
+5.1.91.2 maháte svā́hā  
+5.1.91.3 mahā́tmane svā́hā  
+5.1.91.4 ātmáne svā́hā  
+5.1.91.5 anā́tmane svā́hā  
+5.1.91.6 víśvasmai svā́hā  
+5.1.91.7 víśvā́tmane svā́hā  
+5.1.91.8 parásmai svā́hā  
+5.1.91.9 paramātmáne svā́hā  
+5.1.91.10 yásmai svā́hā  
+  
+5.1.92.1 tásmai svā́hā  
+5.1.92.2 kásmai svā́hā  
+5.1.92.3 sárvasmai svā́hā  
+5.1.92.4 sarvā́tmane svā́hā  
+5.1.92.5 prabhā́yai svā́hā  
+5.1.92.6 śíraś-cakrāya svā́hā  
+5.1.92.7 cakrā́ya svā́hā  
+5.1.92.8 śaṅkhā́ya svā́hā  
+5.1.92.9 śārṅgāya svā́hā  
+5.1.92.10 gadā́yai svā́hā  
+  
+5.1.93.1 nandákāya svā́hā  
+5.1.93.2 ambarā́ya svā́hā  
+5.1.93.3 bhūṣaṇébhyas svā́hā  
+5.1.93.4 prabhā́-pataye svā́hā  
+5.1.93.5 chatrā́ya svā́hā  
+5.1.93.6 pāda-padmā́ya svā́hā  
+5.1.93.7 pāda-pīṭhā́ya svā́hā  
+5.1.93.8 áṅgebhyas svā́hā  
+5.1.93.9 mahāṅgébhyas svā́hā  
+5.1.93.10 upāṅgébhyas svā́hā  
+  
+5.1.94.1 pratyaṅgébhyas svā́hā  
+5.1.94.2 sárvebhyas svā́hā  
+5.1.94.3 puruṣā́ya svā́hā  
+5.1.94.4 bhūs svā́hā  
+5.1.94.5 táyādityā́ tat trīṇy[*81] eṣā́  
+5.1.94.6 ā́po víśvaṃ cā́turyam  
+5.1.94.7 vŕ̥ṣākaper ojo-íbhimānī́  
+5.1.94.8 prakramyātha[*82] ū́rdhvaṃ yó mātaríśvā  
+5.1.94.9 sa eko 'bhū́d yas traíṣṭubhaś[*83] ca  
+5.1.94.10 víṣṇor nú kam  
+5.1.94.11 sahásra-śīrṣā púruṣaḥ  
+5.1.94.12 áto devā́ idáṃ víṣṇuḥ  
+5.1.94.13 śa(g)ṃ sā́niyacchád bhū́ya ā́tma-vr̥tyā́  
+5.1.94.14 táyādityā tat trīṇy[*84] eṣā́  
+5.1.94.15 bráhma jajñāná(g)ṃ híráṇyá-garbháḥ  
+5.1.94.16 rúdram anyáṃ try-ambakam  
+5.1.94.17 cittáṃ ca svā́hā  
+5.1.94.18 agnír bhūtā́nām  
+r̥tā-ṣā́ṭ  
+[*81] cf. VMP 6.33.5  
+[*82] Text: pakramyātha  
+[*83] Text: raíṣṭubhaś  
+[*84] cf. VMP 6.33.5  
+  
+  
+  
+5.1.0.24 kéśebhyas svā́hā tā́rakābhyā(g)ṃ svā́hā súvaktrāya svā́hā dóṣābhyā(g)ṃ svā́hā stanā́bhyā(g)ṃ svā́hā prajā́tyai svā́hā pādāṅgúlībhyas[*85] svā́hā sirā́bhyas svā́hā tejiṣṭhā́ya svā́hā cittā́ya svā́hā jñeyā́ya svā́hodānā́ya svā́hā yásmai svā́hā gadā́yai svā́hopāṅgébhyas svā́hā víṣṇor nú kam aṣṭāú ca  
+[*85] Text: pā̀dāṅguḷībhyas  
+  
+  
+5.1.95.1 sthū́pikā́yai svā́hā  
+5.1.95.2 sthū́pimukulā́yai[*86] svā́hā  
+5.1.95.3 padmā́ya svā́hā  
+5.1.95.4 phalákā́yai svā́hā  
+5.1.95.5 padmā́ya svā́hā  
+5.1.95.6 kaṇṭhā́ya svā́hā  
+5.1.95.7 karṇā́ya svā́hā  
+5.1.95.8 kṣepaṇā́ya svā́hā  
+5.1.95.9 vetrā́ya svā́hā  
+5.1.95.10 karṇā́ya svā́hā  
+[*86] Text: sthūpimukuḷāyai  
+  
+  
+5.1.96.1 kṣepaṇā́ya svā́hā  
+5.1.96.2 paṅka-jā́ya svā́hā  
+5.1.96.3 kumbhā́ya svā́hā  
+5.1.96.4 paṅka-jā́ya svā́hā  
+5.1.96.5 kṣepaṇā́ya svā́hā  
+5.1.96.6 vetrā́ya svā́hā  
+5.1.96.7 kṣepaṇā́ya svā́hā  
+5.1.96.8 padmā́ya svā́hā  
+5.1.96.9 phalakā́yai svā́hā  
+5.1.96.10 avalagnā́ya svā́hā  
+  
+5.1.97.1 kumbhā́ya svā́hā  
+5.1.97.2 śakti-dhvajā́ya svā́hā  
+5.1.97.3 padmā́ya svā́hā  
+5.1.97.4 ubhā́ya svā́hā  
+5.1.97.5 nā́sikāyai svā́hā  
+5.1.97.6 daṇḍā́ya svā́hā  
+5.1.97.7 mr̥ṇālikā́yāi[*87] svā́hā  
+5.1.97.8 múṣṭi-baṃdhāya svā́hā  
+5.1.97.9 vājanā́ya svā́hā  
+5.1.97.10 úttarāya svā́hā  
+[*87] Text: mr̥ṇāḷikā̀yāi  
+  
+  
+5.1.98.1 karṇā́ya svā́hā  
+5.1.98.2 ūha-pratyūhā́ya svā́hā  
+5.1.98.3 védikāyai svā́hā  
+5.1.98.4 bhū́mi-kalpāya svā́hā  
+5.1.98.5 vā́janaya svā́hā  
+5.1.98.6 pratáye svā́hā  
+5.1.98.7 antáritāya svā́hā  
+5.1.98.8 liṃgā́ya svā́hā  
+5.1.98.9 śakti-dhvajā́ya svā́hā  
+5.1.98.10 nā́sikāyai svā́hā  
+  
+5.1.99.1 karṇá-pālikā́yai svā́hā  
+5.1.99.2 kapotā́ya svā́hā  
+5.1.99.3 vā́janāya svā́hā  
+5.1.99.4 paṅka-jā́yá svā́hā  
+5.1.99.5 vā́janā́ya svā́hā  
+5.1.99.6 úttarāya svā́hā  
+5.1.99.7 bodhikā́yai svā́hā  
+5.1.99.8 vīra-kāṇḍā́ya svā́hā  
+5.1.99.9 phalakā́yai svā́hā  
+5.1.99.10 vetrā́ya svā́hā  
+  
+5.1.100.1 utsáṃdhikāya svā́hā  
+5.1.100.2 dhvajā́ya svā́hā  
+5.1.100.3 kuṃbhā́ya svā́hā  
+5.1.100.4 dhvajā́syāya svā́hā  
+5.1.100.5 padmā́ya svā́hā  
+5.1.100.6 bhīráve svā́hā  
+5.1.100.7 skandhā́ya svā́hā  
+5.1.100.8 padma-mālā́yai svā́hā  
+5.1.100.9 skandhā́ntarāyai svā́hā  
+5.1.100.10 vedikā́yai svā́hā  
+5.1.100.11 mahā́-paṭṭikā́yai svā́hā  
+5.1.100.12 kṣúdra-paṭṭikā́yai svā́hā  
+5.1.100.13 karṇā́ya svā́hā  
+5.1.100.14 kumudā́ya svā́hā  
+5.1.100.15 jágatyai svā́hā  
+5.1.100.16 upānā́ya svā́hā  
+5.1.100.17 bhū́s svā́hā  
+  
+5.1.0.25 karṇā́ya svā́hāvalagnā́ya svāhóttarāya svā́hā nā́sikāyai svā́hā vetrā́ya svā́hā vedikā́yai svā́hā saptá ca  
+  
+5.1.101.1 śuddhā́ imé paśávaḥ  
+5.1.101.2 gaúr dhenu-bhavyā́  
+5.1.101.3 ā́-go-dā́nāt  
+5.1.101.4 sā́má-védam ā́vāhayāmi  
+5.1.101.5 yájúr-védam ā́vāhayāmi  
+5.1.101.6 ŕ̥g-védam ā́vāhayāmi  
+5.1.101.7 áthárvá-védam ā́vāhayāmi  
+5.1.101.8 vā́yum ā́vāhayāmi  
+5.1.101.9 máhīm ā́vāhayāmi  
+5.1.101.10 divā́-káram ā́vāhayāmi  
+  
+5.1.102.1 cándram ā́vāhayāmi  
+5.1.102.2 ā́tmātmā páramāntarātmā́  
+5.1.102.3 víṣṇur māṃ rákṣatu  
+5.1.102.4 áto devā́ idáṃ víṣṇuḥ  
+5.1.102.5 sahásra-śīrṣā púruṣaḥ  
+5.1.102.6 śríye jātó medínī devī́  
+5.1.102.7 ā́-go-dā́nāt  
+5.1.102.8 imā́ óṣadhayaḥ  
+5.1.102.9 ágna ā́ yāhi  
+5.1.102.10 iṣé tvorjé tvāgním īle puróhitam  
+  
+5.1.103.1 śáṃ no devī́ḥ  
+5.1.103.2 idám ā́paś śivā́ḥ nārāyaṇā́ya  
+5.1.103.3 agním īle  
+5.1.103.4 iṣé tvorjé tvā  
+5.1.103.5 ágna ā́ yāhi śáṃ no devī́ḥ  
+5.1.103.6 ā́pa undaṃtu  
+5.1.103.7 sahásra-śīrṣā púruṣaḥ  
+5.1.103.8 áto devā́ḥ  
+5.1.103.9 ékākṣaram ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+5.1.103.10 híraṇya-varṇāḥ pávamānas súvar-jánaḥ  
+5.1.103.11 śáṃ no devī́s sahásra-śīrṣā púruṣaḥ  
+5.1.103.12 áto devā́ idáṃ víṣṇuḥ  
+5.1.103.13 dhārāsu saptasú  
+  
+5.1.0.26 divā́-káram ā́vāhayāmi puróhitaṃ bhúvaś cátvāri ca  
+  
+5.1.104.1 śukrám asi  
+5.1.104.2 dadhikrā́vṇo[*88] ákāriṣam  
+5.1.104.3 ā́pyāyasva  
+5.1.104.4 gandha-dvārā́m  
+5.1.104.5 tát[*89] savitúḥ  
+5.1.104.6 vásoḥ pavítram asi  
+5.1.104.7 páñcá-gávyam ā́vāhayāmi  
+5.1.104.8 śívam ā́vāhayāmi  
+5.1.104.9 ī́śam ā́vāhayāmi  
+5.1.104.10 ávyáktam ā́vāhayāmi  
+[*88] Text: dadhikrā́vṇṇo  
+[*89] Text: táth  
+  
+  
+  
+5.1.105.1 víṣṇor nú kaṃ vīryāṇi  
+5.1.105.2 bhū́s svā́hā  
+5.1.105.3 víṣṇave svā́hā  
+5.1.105.4 viśveśvarā́ya svā́hā  
+5.1.105.5 janārdanā́ya svā́hā  
+5.1.105.6 sarva-bhūtā́tmane svā́hā  
+5.1.105.7 ávyaktāya svā́hā  
+5.1.105.8 acalā́ya svā́hā  
+5.1.105.9 devébhyas svā́hā  
+5.1.105.10 bhūtébhyas svā́hā  
+  
+5.1.106.1 nāgébhyas svā́hā  
+5.1.106.2 loka-pālébhyas svā́hā  
+5.1.106.3 bhū́s svā́hā  
+5.1.106.4 áto devā́ idáṃ víṣṇuḥ  
+5.1.106.5 bráhma jajñāná(g)ṃ híraṇya-garbháḥ  
+5.1.106.6 rúdram anyáṃ try-ambakam  
+5.1.106.7 prájā-pate ná tvat prajā-patir jáyān[*90]  
+5.1.106.8 yé te śatám  
+5.1.106.9 dhármaugha-mātā́  
+5.1.106.10 śatá-dhāram āgneyó yásmāt  
+[*90] prajāpatir jayān indrāye vr̥ṣṇe  TS 3.4.4.1a  
+  
+  
+5.1.107.1 trātā́ram índram agnír mūrdhā[*91]  
+5.1.107.2 yamó dādhāra vasávaḥ prathamáḥ  
+5.1.107.3 yé te śatáṃ marútaḥ paramātmā́  
+5.1.107.4 miśrá-vāsasa ī́śānaḥ  
+5.1.107.5 yád asya kármaṇó 'ty árīricam  
+5.1.107.6 śáṃ no devī́ḥ  
+5.1.107.7 áthárvá-védam ā́vāhayāmi  
+5.1.107.8 kṣī́ram ā́vāhayāmi  
+5.1.107.9 pávítram ā́vāhayāmi  
+5.1.107.10 púṇyam ā́vāhayāmi  
+[*91] Text: mūrthā  
+  
+  
+5.1.108.1 kṣīródadhiś śéṣaś śeṣa-śā́yinaḥ  
+5.1.108.2 áto devā́ḥ  
+5.1.108.3 udyántaṃ vā́vā́dityám agnír ánusamā́rohati  
+5.1.108.4 yogīśā́ya svā́hā  
+5.1.108.5 śéṣa-paryaṅka-śāyine svā́hā  
+5.1.108.6 śabdá-bráhmaṇe svā́hā  
+5.1.108.7 samudrébhyas svā́hā  
+5.1.108.8 parvatébhyas svā́hā  
+5.1.108.9 devébhyas svāha  
+5.1.108.10 ŕ̥ṣibhyas svāḥa  
+  
+5.1.109.1 pítr̥bhyas svā́hā  
+5.1.109.2 nāgébhyas svā́hā  
+5.1.109.3 loka-pālébhyas svā́hā  
+5.1.109.4 bhūtébhyas svā́hā  
+5.1.109.5 idám āpaś śivāḥ  
+5.1.109.6 púṇyá-tī́rtham ā́vāhayāmi  
+5.1.109.7 śívam ā́vāhayāmi  
+5.1.109.8 púṇyam ā́vāhayāmi  
+5.1.109.9 devāvāsam ā́vāhayāmi  
+5.1.109.10 víṣṇor nú kam  
+  
+5.1.110.1 púrúṣam ā́vāhayāmi  
+5.1.110.2 sátyam ā́vāhayāmi  
+5.1.110.3 ácyútam ā́vāhayāmi  
+5.1.110.4 ánírúddham ā́vāhayāmi  
+5.1.110.5 nyákṣam ā́vāhayāmi  
+5.1.110.6 vívásvátam ā́vāhayāmi  
+5.1.110.7 mítram ā́vāhayāmi  
+5.1.110.8 kṣattā́ram ā́vāhayāmi  
+5.1.110.9 dhármam ā́vāhayāmi  
+5.1.110.10 jñā́nam ā́vāhayāmi  
+  
+5.1.111.1 vaírā́gyam ā́vāhayāmi  
+5.1.111.2 aíśváryam ā́vāhayāmi  
+5.1.111.3 cákram ā́vāhayāmi  
+5.1.111.4 śáṅkham ā́vāhayāmi  
+5.1.111.5 gadā́m ā́vāhayāmi  
+5.1.111.6 śā́rṅgam ā́vāhayāmi  
+5.1.111.7 pádmam ā́vāhayāmi  
+5.1.111.8 kháḍgam ā́vāhayāmi  
+5.1.111.9 músálam ā́vāhayāmi  
+5.1.111.10 váná-mā́lām ā́vāhayāmi  
+  
+5.1.112.1 índram ā́vāhayāmi  
+5.1.112.2 yámam ā́vāhayāmi  
+5.1.112.3 várúṇam ā́vāhayāmi  
+5.1.112.4 kúbéram ā́vāhayāmi  
+5.1.112.5 ágnim ā́vāhayāmi  
+5.1.112.6 nírŕ̥tim ā́vāhayāmi  
+5.1.112.7 vā́yum ā́vāhayāmi  
+5.1.112.8 ī́śā́nam ā́vāhayāmi  
+5.1.112. 9 śéṣam ā́vāhayāmi  
+5.1.112.10 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+5.1.112.11 dhātā́ dadātu na  
+imám me varuṇa  
+prájā-pate ná tvád  
+agnír bhūtā́nām  
+r̥tā-ṣā́ṭ  
+5.1.112.12 agnír mūrdhā́yam agnír yád asya kármaṇó 'ty árīricam  
+5.1.112.13 yé bhūtā́ḥ pracáranti  
+  
+5.1.0.27 ávyáktam ā́vāhayāmi bhūtébhyas svā́hāgneyó yásmāt púṇyam ā́vāhayāmi ŕ̥ṣibhyas svā́hā víṣṇor nú kam ā́vāhayāmi váná-mā́lām ā́vāhayāmi máyo-bhúvaś catvā́ri ca  
+  
+5.1.113.1 agním īle  
+5.1.113.2 iṣé tvorjé tvā  
+5.1.113.3 ágna ā́ yāhi śáṃ no devī́ḥ  
+5.1.113.4 āśāsu saptasú  
+5.1.113.5 sóma(g)ṃ rā́jānam  
+5.1.113.6 máhīm ā́vāhayāmi  
+5.1.113.7 víṣṇum ā́vāhayāmi  
+5.1.113.8 ágnim ā́vāhayāmi  
+5.1.113.9 vā́súkim ā́vāhayāmi  
+5.1.113.10 ágna ā́ yāhy āyur-dā́ agne 'gniṃ dūtám ágnir mūrdhā́[*92]  
+[*92] Text: mūrthā  
+  
+  
+5.1.114.1 vaiśvānarásya rūpám  
+5.1.114.2 jā́ta-vedo bhúvanasyāyur-dā ágne  
+5.1.114.3 upā́varoha  
+5.1.114.4 ghr̥tá-prátīkaḥ  
+5.1.114.5 agnír índro váruṇo mitró aryamā́[*93] vāyúḥ pūṣā́ sárasvatī sa-jóṣasaḥ  
+5.1.114.6 ādityā́ víṣṇur marútaḥ svar br̥hát-sómo rudró áditir bráhmaṇaspátiḥ  
+5.1.114.7 éto nv índram  
+5.1.114.8 vā́stoṣ-pate 'ṇór áṇīyān  
+5.1.114.9 dhārāsu saptasú  
+5.1.114.10 aṇór áṇīyān athāvanīdam astv āsanám  
+5.1.114.11 agním īle  
+5.1.114.12 éto nv índram upā́varoha  
+5.1.114.13 jā́ta-vedo bhúvanasya  
+5.1.114.14 ágna ā́ yāhy  
+ayán te yónir  
+máyi gr̥hṇāmy ágre  
+ghr̥tá-prátīko  
+jā́ta-vedo bhúvanasya  
+[*93] Text: āryamā́  
+  
+  
+5.1.0.28 mūrdhāsaná(g)ṃ[*94] catvā́ri ca  
+[*94] Text: mūrthāsaná(g)ṃ  
+  
+  
+5.1.115.1 gā́rhápátyá-yájñam ā́vāhayāmi  
+5.1.115.2 yajña-daivata-víśvān devān ā́vāhayāmi  
+5.1.115.3 óṃ bhū́ḥ púrúṣam ā́vāhayāmi  
+5.1.115.4 ácyútam ā́vāhayāmi  
+5.1.115.5 ánvā́hā́ryá-yájñam ā́vāhayāmi  
+5.1.115.6 yajña-daivata-víśvān devān ā́vāhayāmi  
+5.1.115.7 óṃ bhúváḥ púrúṣam ā́vāhayāmi  
+5.1.115.8 sátyam ā́vāhayāmi  
+5.1.115.9 ā́hávánī́yá-yájñam ā́vāhayāmi  
+5.1.115.10 yajña-daivata-víśvān devān ā́vāhayāmi  
+  
+5.1.116.1 ó(g)ṃ súváḥ púrúṣam ā́vāhayāmi  
+5.1.116.2 púrúṣam ā́vāhayāmi  
+5.1.116.3 ā́vásákthyá-yájñam ā́vāhayāmi  
+5.1.116.4 yajña-daivata-víśvān devān ā́vāhayāmi  
+5.1.116.5 óṃ máháḥ púrúṣam ā́vāhayāmi  
+5.1.116.6 anírúddham ā́vāhayāmi  
+5.1.116.7 sábhyá-yájñam ā́vāhayāmi  
+5.1.116.8 yajña-daivata-víśvān devān ā́vāhayāmi  
+5.1.116.9 óṃ jánáḥ púrúṣam ā́vāhayāmi  
+5.1.116.10 víṣṇum ā́vāhayāmi  
+  
+5.1.117.1 paúṇḍárī́ká-yájñam ā́vāhayāmi  
+5.1.117.2 yajña-daivata-víśvān devān ā́vāhayāmi  
+5.1.117.3 óṃ tápáḥ púrúṣam ā́vāhayāmi  
+5.1.117.4 vā́súdévam ā́vāhayāmi  
+5.1.117.5 śrā́máṇáká-yájñam ā́vāhayāmi  
+5.1.117.6 yajña-daivata-víśvān devān ā́vāhayāmi  
+5.1.117.7 ó(g)ṃ satyáṃ púrúṣam ā́vāhayāmi  
+5.1.117.8 nā́rā́yáṇam ā́vāhayāmi  
+5.1.117.9 aupāsana-yajñám ā́vāhayāmi  
+5.1.117.10 yajña-daivata-víśvān devān ā́vāhayāmi  
+5.1.117.11 áto devā́ḥ  
+  
+5.1.0.29 víśvān devā́n ā́vāhayāmi víṣṇum ā́vāhayāmi devā́n ā́vāhayāmy  ékañ ca  
+  
+5.1.118.1 iṣé tvorjé tvā svasti-dā́ viśás-pátiḥ  
+5.1.118.2 índraṃ náro nemádhitā havante yát pā́ryā yunájate dhíyas tā́ḥ  
+śū́ro nŕ̥-ṣātā śávasaś cakāná ā́ gó-mati vrajé bhajā tváṃ naḥ  
+5.1.118.3 śúcī vo havyā́  
+5.1.118.4 imé dhūpā́s surabhíno[*95] divyá-dhūpādhivā́sitāḥ  
+5.1.118.5 pūtā́ brahma-pavítreṇa pūtā́s sū́ryasya raśmíbhiḥ  
+5.1.118.6 ā́dyam abhígr̥hṇāmīdám āpaś śivā́ḥ  
+5.1.118.7 viśvátaś cakṣur utá viśváto mukho viśváto hasta utá víśvátas pāt  
+sáṃ bāhúbhyāṃ námati sáṃpátatrair dyā́vā pr̥thivī́ janáyan devá ékaḥ  
+5.1.118.8 námas sulomá sulomí  
+dhārāsu saptásu  
+5.1.118.9 ā́pa undantu jīváse dīrghāyutvā́ya várcasa óṣadhe tráyas vaina(gg)ṃ svádhite maína(g)ṃ hi(g)ṃsīr deva-śrū́r etā́ni právape svasty úttarāṇy aśī yā́po asmā́n mātáraś śúndhantu ghr̥téna no ghr̥ta-púvaḥ punantu víśvam asmát právahantu riprám údābhyaś śúcirā pūtá emi sómasya tanū́r asi tanúvaṃ me pā́hi mahīnā́ṃ páyo 'si várco-dhā́ asi várcomáyi dhehi vr̥trásya kanī́nikāsi cakṣuṣ-pā́ asi cákṣur me pāhi cit-pátis tvā púnātu vāk-pátis tvā punātu devás tvā savitā́ punātv ácchidreṇa pavítreṇa vásos sū́ryasya raśmíbhis tásya te pavitra-pate pavítreṇa yásmai káṃ puné tác chakeyam ā vo devāsa īmahe sátya-dharmāṇo adhvaré yád vo devāsa āguré yájñiyāso hávāmaha índrāgnī dyā́vā-pr̥thivī ā́pa oṣadhīs tváṃ dīkṣā́ṇām ádhipatir asīhá mā sántaṃ pāhi  
+[*95] After surabhino the text again has dhūpā, which has been removed in conformity with VMP 5.1.131.10 and 8.1.79.1.  
+  
+  
+5.1.0.30.1 saptasv ékañ ca  
+  
+5.1.119.1 ā́po vā́ idá(g)ṃ sárvaṃ víśvā bhūtā́ny ā́paḥ prāṇā́ vā́ ā́paḥ paśáva ā́po 'mŕ̥tam ā́pó ínnam ā́pas samrā́ḍ ā́po virā́ḍ ā́pas svarā́ḍ ā́paś chándā(g)ṃsy ā́po jyótī(g)ṃṣy ā́pas satyám ā́pas sárvā devátā ā́po bhū́r bhúvas súvar ā́pa óṃ  
+5.1.119.2 tejovát syāvaḥ  
+5.1.119.3 óṃ námó víṣṇave  
+5.1.119.4 óṃ námó nārāyaṇāyá  
+5.1.119.5 óṃ námó bhágáváté vā́sudevāyá  
+5.1.119.6 bhūyá ā́tma-vr̥tyā́  
+5.1.119.7 námas sulomá sá éko bhū́d[*96] devásya tvā savitúr áto devā́ kṣmā́m ekā́m  
+5.1.119.8 tán mā yaśo 'gré brahmā́ devā́nāṃ bhū́mān anto 'gré  
+5.1.119.9 tán mā yaśo 'gré śatá-dhāra(g)ṃ tam eka-nemíṃ prajā́-patiṃ prathamám[*97] (?)[*98] nārāyaṇā́ya vidmáhe  
+5.1.119.10 nārāyaṇā́ya  
+5.1.119.11 sóma(g)ṃ rā́jānam  
+5.1.119.12 iyáṃ jā́gratiḥ prathamáṃ práviśya devā́ bhavantu mánu-jā varéṇyaḥ  
+5.1.119.13 mahā́tmanne no hárate námas te  
+5.1.119.14 aghaugha-vidhváṃsam amúṃ kuruṣva  
+5.1.119.15 víṣṇur mā́ṃ rakṣatu  
+5.1.119.16 óṃ kéśavāya námaḥ  
+5.1.119.17 óṃ ám  
+[*96] Text: bhū́r  
+[*97] prajāpatiṃ prathamaṃ yajñiyānām  MS 4.14.1c; TB 2.8.1.4a; ApŚ 20.20.9a  
+[*98] Question mark appears in the VMP text and also in the following footnote: (?) váraṃ viṣṇúr vareṇīyaṃ bhárgo māyā̀ ca dhīmahi / táṃ no viṣṇúḥ pracodáyāt (íti kaíścit)  
+  
+  
+  
+5.1.0.31 vidmáhe 'ṣṭāú ca  
+  
+5.1.120.1 ā́tmātmā páramāntarātmā́ máhy-antarātmā́ yáś cātirātmā́ satáno 'ntarātmā́ vyā́veṣṭi víśva(g)ṃ sákalaṃ bibhárti yó vyakta-puṇyás sá-tunaḥ pradhā́naḥ  
+5.1.120.2 prāṇáḥ práṇītis sa udāna ā́dir vára-do varāho vyānaś ca me syā́t tapásāñ ca mūrtíḥ kapílo munīndró yaś cā́pānó háyaśīrṣo naḥ  
+5.1.120.3 yát sarvam aśnā́ty[*99] ajáras samagrá(g)ṃ śríyam ū́rja-yuktāṃ sá tu me samā́naḥ  
+5.1.120.4 bálam āsuráṃ yát satátaṃ nihantā bráhmā buddhír me gópa īśvaráḥ  
+5.1.120.5 savitā́ ca vīryám índuś ca dhātú[*100]-rasá-bhūta-bhūtā́ bhū́tās sa-bhūtā́ḥ  
+5.1.120.6 dyaúr me ástu mūrdhódara-nābhó[*101] vā bhū́mir yathāṅghrír[*102] vávr̥dhe 'ham ī́śaḥ  
+5.1.120.7 ásthīni me syúr athá parvatākhyā́ bhujágāś ca keśā́ dívi ye cárantaḥ  
+5.1.120.8 dvaú netra-rūpaú víthu pr̥ścni [?] múkhyau rúdhirañ ca sā́ra(g)ṃ sákalañ ca tóyam  
+5.1.120.9 snāyavo mé ā́sánnā dyaúr bhr̥gúr me hŕ̥dayam astu  
+sárve anyé munáyo 'ṅga-bhūtā́ vedā́ me ā́syaṃ jihvā́ me sárasvatī  
+5.1.120.10 dántā marutá upájihvā upaśrutíḥ  
+5.1.120.11 vŕ̥ṣaṇau mitrā́-váruṇāv upastháḥ prajā́-patir āntrā́ me védāś śrúti[*103]-smr̥tī́ medā́dhā́raṇe  
+5.1.120.12 svedám me várṣaṃ mūtra kóśá(g)ṃ samudráṃ púrīṣaṃ kā́ñcanam  
+5.1.120.13 sāvitrī́ gāyatrī́ máryādā védi-hŕ̥t-puṇḍarīké vimále praviṣṭás sákalas sa-lakṣmī́s sa-víbhūtikāṅgó yát sarvaṃ púṇyaṃ máyy adhiṣṭhā́nam astu  
+5.1.120.14 sárveṣāṃ devā́nām ā́tmakas sárveṣāṃ munī́nām ā́tmakas tápo-mū́rtir ihá púṇya-mū́rtir ā́san[*104]  
+5.1.120.15 sahásra-śīrṣā púruṣaḥ  
+[*99] Text: aśñchāty  
+[*100] Text: thātú  
+[*101] The 1946 edition reads: mūrdhódaran nabhó  
+[*102] Text: yadhāṅghrír  
+[*103] Text: śrútis  
+[*104] Text: ā́sann  
+  
+  
+  
+5.1.0.32 sárasvatī ṣáṭ ca  
+  
+5.1.121.1[*105] aṇór áṇīyān maható máhīyān ātmā́ gúhāyāṃ níhito 'sya jantóḥ  
+tám akratuṃ paśyati vīta-śokó dhātúḥ prasā́dān mahimā́nam īśam  
+5.1.121.2[*106] saptá-prāṇā́ḥ prabhávanti tasmāt[*107] saptā́rciṣas samídhas saptájihvā́ḥ  
+saptá imé lokā́ yéṣu cáranti prāṇā́ guhā́śayāṃ[*108] níhitās saptá-sapta  
+5.1.121.3[*109] átas samudrā́ giráyaś ca sárve 'smā́t[*110] syándante síndhavas sárva-rūpāḥ  
+átaś ca víśvā óṣadhayo rásāś[*111] ca yénaiṣa bhūtás[*112] tiṣṭhaty[*113] antarātmā́  
+5.1.121.4[*114] brahmā́ devā́nāṃ padavī́ḥ kavīnā́m ŕ̥ṣir víprāṇāṃ mahiṣó mr̥gā́ṇām  
+śyenó gŕ̥dhrāṇā(g)ṃ svádhitir vánānā(g)ṃ sómaḥ pavítram áty eti rébhan[*115]  
+5.1.121.5[*116] ajā́m ékāṃ lóhita-śukla-kr̥ṣṇā́ṃ bahvī́ṃ prajā́ṃ janáyantī(g)ṃ sá-rūpām  
+ajó hy éko juṣámāṇo 'nuśéte jáhāty enāṃ bhuktá-bhogām ájo 'nyaḥ  
+[*105] MahānU US 8.3; SwV 12.1  
+[*106] MahānU US 8.4; SwV 12.2  
+[*107] Text: tasmāth  
+[*108] US guhāśayā; SwV guhāśayāt  
+[*109] MahānU US 8.5; SwV 12.3  
+[*110] Text: 'smā́th; US asmāt  
+[*111] US rasaś  
+[*112] US bhūtais  
+[*113] US tiṣṭhate hy  
+[*114] MahānU US 9.1; SwV 12.4  
+[*115] Text: rébhann  
+[*116] MahānU US 9.2; SwV 12.5  
+  
+  
+  
+5.1.122.1[*117] ha(g)ṃsáś śuci-ṣád vásur antarikṣa-sád dhótā vedi-ṣád átithir duroṇa-sát  
+nr̥-ṣád vara-sád r̥ta-sád vyoma-sád ab-jā́ go-jā́ r̥ta-jā́ adri-jā́ r̥táṃ br̥hát  
+5.1.122.2[*118] yásmāj[*119] jātā́ ná parā́ naíva kíñcanā́sa[*120] yá āvivéśa bhúvanāni víśvā  
+prajā́-patiḥ prajáyā saṃvidānás trī́ṇi jyótī(g)ṃṣi sacate sá ṣoḍaśī́  
+5.1.122.3[*121] vidhartā́ra(g)ṃ havāmahe vásoḥ kuvíd vanā́ti naḥ  
+savitā́raṃ nr̥-cákṣasam  
+5.1.122.4[*122] adyā́ no deva savitaḥ prajā́vat[*123] sāvīs saúbhagam  
+párā duṣvápniya(g)ṃ[*124] suva  
+5.1.122.5[*125] víśvāni deva savitar duritā́ni párā suva  
+yád bhadráṃ tán ma[*126] ā́ suva  
+[*117] MahānU US 9.3; SwV 12.6  
+[*118] MahānU US 9.4; SwV 12.6a  
+[*119] US yasmān  
+[*120] US na jātaḥ paro anyo asti replaces jātṉ ná parā́ naíva kíñcanṉsa  
+[*121] MahānU US 9.5; SwV 12.6b  
+[*122] MahānU US 9.6; SwV 39.2  
+[*123] Text: prajā́vath  
+[*124] US duḥṣvapniyaṃ; SwV duḥsvapniyaṃ  
+[*125] MahānU US 9.7; SwV 39.3  
+[*126] US, RV, etc.  na  
+  
+  
+5.1.123.1[*127] mádhu vā́tā r̥tāyaté mádhu kṣaranti síndhavaḥ[*128]  
+mā́dhvīr nas santv óṣadhīḥ  
+5.1.123.2[*129] mádhu náktam utóṣási[*130] mádhu-mat pā́rthiva(g)ṃ rájaḥ  
+mádhu dyaúr astu naḥ pitā́  
+5.1.123.3[*131] mádhumān no vánas-pátir mádhumā(g)ṃ astu sū́ryaḥ  
+mā́dhvīr gā́vo bhavantu naḥ  
+5.1.123.4[*132] ghr̥táṃ mimikṣe[*133] ghr̥tám asya yónir ghr̥té śritó ghr̥tám uv[*134] asya dhā́ma  
+anuṣvadhám ā́ vaha mādáyasva svā́hā-kr̥taṃ vr̥ṣabha vakṣi havyám  
+5.1.123.5[*135] samudrā́d ūrmír mádhumā(g)ṃ úd ārad úpā(g)ṃśúnā sám amr̥tatvám ā́naṭ  
+ghr̥tásya nā́ma gúhyaṃ yád ásti jihvā́ devā́nām amŕ̥tasya nā́bhiḥ  
+[*127] MahānU US 9.8; SwV 39.4  
+[*128] Text: sínthavaḥ  
+[*129] MahānU US 9.9; SwV 39.5  
+[*130] US, RV utoṣaso; TS utoṣasi  
+[*131] MahānU US 9.10; SwV 39.6  
+[*132] MahānU US 9.11; SwV 12.7  
+[*133] SwV mimikṣire.  This text here follows the TA, which is also mimikṣire.  
+[*134] US, RV v  
+[*135] MahānU US 9.12; SwV 12.8  
+  
+  
+  
+5.1.124[*136].1[*137] vayáṃ nā́ma prá bravāmā ghr̥ténāsmín[*138] yajñé dhārayāmā[*139] námobhiḥ  
+úpa brahmā́ śr̥ṇavac chasyámānaṃ cátuś-śr̥ṅgo 'vamīd gaurá etát  
+5.1.124.2[*140] catvā́ri śŕ̥ṅgā tráyo asya pā́dā dvé śīrṣé saptá hástāso asyá  
+trídhā baddhó vr̥ṣabhó roravīti mahó devó mártyā(g)ṃ ā́ viveśa  
+5.1.124.3[*141] trídhā hitáṃ paṇíbhir guhyámānaṃ gaví devā́so ghr̥tám ánv avindan[*142]  
+índra éka(g)ṃ sū́rya ékaṃ jajāna venā́d éka(gg)ṃ svadháyā níṣ ṭatakṣuḥ  
+5.1.124.4[*143] yó devā́nāṃ prathamáṃ purástād víśvādhíko rudró mahárṣiḥ  
+hiraṇya-garbháṃ paśyata jā́yamāna(g)ṃ sá no deváś śubháyā smr̥tyā sáṃyunaktu[*144]  
+5.1.124.5[*145] yásmāt páraṃ nā́param ásti kíṃcid yásmān nā́ṇīyo ná jyā́yo 'sti káścit  
+vr̥kṣá iva stabdho diví tiṣṭhaty ékas ténedáṃ pūrṇáṃ púruṣena sárvam  
+5.1.124.6[*146] ná kármaṇā na prajayā[*147] dhánena tyā́genaike amr̥tatvám ānaśúḥ  
+páreṇa nā́kaṃ níhitaṃ gúhāyāṃ vibhrā́jate yád yátayo viśánti  
+5.1.124.7[*148] vedānta-vijñā́na-súniścitārthā́s[*149] sáṃnyāsa-yogā́d yátayaś śuddha-sáttvāḥ  
+té brahma-loké tu[*150] párānta-kāle párāmr̥tāt[*151] párimucyánti sárve  
+5.1.124.8[*152] daharaṃ[*153] vipāpmáṃ[*154] pará-veśma-bhūtaṃ[*155] yát puṇḍarīkáṃ purá--madhya-sa(gg)ṃsthám  
+tátrāpi daharaṃ[*156] gagánaṃ viśokas[*157] tásmin yadantás tád úpāsitavyám  
+5.1.124.9[*158] yád[*159] vedādaú svaraḥ prokto vedā́nte ca pratíṣṭhitaḥ  
+tásya prakŕ̥ti-līnasya yaḥ páras sa mahéśvaraḥ  
+[*136] VMP text incorrectly numbers this section as 114.  
+[*137] MahānU US 9.13; SwV 12.9  
+[*138] US, RV ghr̥tasyāsmin; SwV ghr̥tenāsmin  
+[*139] Text: dhārāyāmā corrected to  dhārayāmā. US, SwV dhārayāmā  
+[*140] MahānU US 10.1; SwV 12.10  
+[*141] MahānU US 10.2; SwV 12.11  
+[*142] Text: avindann  
+[*143] MahānU US 10.3; SwV 12.12  
+[*144] US saṃyunakti  
+[*145] MahānU US 10.4; SwV 12.13  
+[*146] MahānU US 10.5; SwV 12.14  
+[*147] Text: prayā  
+[*148] MahānU US 10.6; SwV 12.15  
+[*149] SwV -viniścitārthā́s replaces -súniścitārthā́s  
+[*150] US -lokeṣu replaces -loké tu  
+[*151] US parāmr̥tāḥ  
+[*152] MahānU US 10.7; SwV 12.16  
+[*153] US, SwV dahraṃ  
+[*154] SwV vipāpaṃ  
+[*155] US varaṃ veśma-bhūtaṃ replaces pará-veśma-bhūtaṃ  
+[*156] US dahraṃ; SwV dahre  
+[*157] SwV viśokaṃ  
+[*158] MahānU US 10.8; SwV 12.17  
+[*159] US, SwV yo  
+  
+  
+  
+5.1.0.33 ájo 'nyas suva nā́bhis sárvam aṣṭāú ca[*160]  
+[*160] US ajo 'nyas suvibhā nābhiḥ sarvam asyaiva; SwV omits  
+  
+  
+5.1.125.1 áto devā́ idáṃ víṣṇuḥ  
+5.1.125.2 óm[*161]  
+5.1.125.3[*162] sahasra-śī́rṣaṃ devaṃ viśvā́kṣaṃ[*163] viśvá-śaṃbhuvam  
+víśvaṃ nārā́yaṇaṃ devam akṣáraṃ paramáṃ prabhúm[*164]  
+5.1.125.4[*165] viśvátaḥ páramaṃ nityaṃ viśváṃ nārāyaṇá(g)ṃ harim  
+víśvam evédáṃ púruṣas tád víśvam úpajīvati  
+5.1.125.5[*166] pátim víśvasyātméśvara(g)ṃ śā́śvata(g)ṃ śivám acyutam  
+nā́rāyaṇáṃ mahā-jñeyaṃ viśvā́tmānaṃ parā́yaṇam  
+5.1.125.6[*167] nā́rāyaṇá-paraṃ[*168] brahma tattváṃ nārāyaṇáḥ paraḥ  
+nā́rāyaṇá-paro[*169] jyotir ātmā́ nārāyaṇáḥ paraḥ[*170]  
+[*161] VMP inserts 5.1.125.1-2, then continues with with MahānU.  
+[*162] MahānU US 11.1; SwV 13.1  
+[*163] US viśvākhyaṃ  
+[*164] SwV prabhu(pada)m  
+[*165] MahānU US 11.2; SwV 13.2  
+[*166] MahānU US 11.3; SwV 13.3  
+[*167] MahānU US 11.4; SwV 13.4  
+[*168] US, SwV nārāyaṇaḥ paraṃ  
+[*169] US, SwV nārāyaṇaḥ paro  
+[*170] VMP here omits US 11.5: nārāyaṇaḥ paro dhyātā dhyānaṃ nārāyaṇaḥ paraḥ* / padād api paraś cāsu tasmād yas tu parāt paraḥ // *SwV gives the first line only in brackets following SwV 13.4  
+  
+  
+  
+5.1.126.1[*171] yác ca kiñcíj jagaty asmin dr̥śyáte śrūyaté 'pi vā  
+ántar bahíś ca tat[*172] sarvaṃ vyāpyá nārāyaṇás sthitaḥ  
+5.1.126.2[*173] ánantam ávyayaṃ kaví(g)ṃ samudré íntaṃ[*174] viśvá-śaṃbhuvam  
+padma-kośá-pratīkāśa(g)ṃ hr̥dáyañ[*175] cāpy adhó mukham  
+5.1.126.3[*176] ádho niṣṭyā vitastyān tu[*177] nābhyā́m upari tíṣṭhati  
+hr̥dáyaṃ tád vijānīyād viśvásyāyatanám mahat  
+5.1.126.4[*178] sántata(g)ṃ[*179] sirā́bhis tu lámbaty ākośa-sannibham  
+tásyā́nte suṣirá(g)ṃ sūkṣmáṃ tásmint[*180] sarváṃ prátiṣṭhitam  
+5.1.126.5[*181] tásya mádhye mahā́n agnir viśvā́rcir viśváto mukhaḥ  
+só 'gra-bhug víbhajan[*182] tiṣṭhann ā́hāram ajaráḥ[*183] kavíḥ[*184]  
+5.1.126.6[*185] sáṃtāpayáti svaṃ deham ā-pā́da-tala-mástakam  
+tásya mádhye váhni-śikhā aṇī́yordhvā vyavásthitaḥ[*186]  
+5.1.126.7[*187] nīlá-toya-da-madhya-sthā vidyúl-lekheva bhā́svarā[*188]  
+nī́vāra-śū́kavat tanvī pītā́bhā syāt tanū́pamā[*189]  
+5.1.126.8[*190] tásyāś śikhāyā́ madhye parámātmā vyavásthitaḥ  
+sá bráhmā sá śívas séndras só 'kṣaraḥ paramás sva-rā́ṭ[*191]  
+5.1.126.9[*192] r̥tá(g)ṃ satyáṃ paraṃ brahma purúṣaṃ kr̥ṣṇa-píṅgalam[*193]  
+ūrdhvá-retaṃ virūpākṣaṃ viśvá-rūpāya vaí[*194] námaḥ  
+[*171] MahānU US 11.6; SwV 13.5  
+[*172] Text: tath  
+[*173] MahānU US 11.7; SwV 13.6  
+[*174] US taṃ  
+[*175] US suṣiraṃ  
+[*176] MahānU US 11.8; SwV 13.7  
+[*177] SwV vitastyānte replaces vitastyān tu  
+[*178] MahānU US 11.9; SwV 13.8  
+[*179] US satataṃ tu  
+[*180] Text: tásminth  corrected to tásmint,  US tasmint.  
+[*181] MahānU US 11.10; SwV 13.9  
+[*182] US vibhajaṃs  
+[*183] US akṣaraḥ  
+[*184] SwV inserts, in brackets, after SwV 13.9: tiryag ūrdhvam adhaḥ śāyī raśmayas tasya santatā(ḥ)  
+[*185] MahānU US 11.11; SwV 13.10  
+[*186] US, SwV vyavasthitā  
+[*187] MahānU US 11.12; SwV 13.11  
+[*188] US bhāsurā  
+[*189] SwV pītā bhāsvaty anupamā replaces pītā́bhā syāt tanū́pamā  
+[*190] MahānU US 11.13; SwV 13.12  
+[*191] VMP here omits US 11.14-15  
+[*192] MahānU US 12.1; SwV 23.1  
+[*193] Text: píṅgaḷam  
+[*194] US inserts namo after vai  
+  
+  
+  
+5.1.0.34 páráḥ kavír aṣṭāú ca  
+  
+5.1.127.1 óṃ ā́yātu bhágavān  
+5.1.127.2 óṃ ā́śrāvaya  
+5.1.127.3 óṃ ástu śrauṣaṭ  
+5.1.127.4 óṃ yája  
+5.1.127.5 óṃ yé yájāmahe  
+5.1.127.6 óṃ vauṣaṭ  
+5.1.127.7 óṃ sahásra-śīrṣā púruṣaḥ  
+5.1.127.8 víṣṇor nú kam  
+5.1.127.9 ékākṣaram  
+5.1.127.10 híraṇya-varṇāṃ bhū́mir bhūmnā́  
+5.1.127.11 áto devā́ḥ  
+  
+5.1.0.35 bhūmnaíkaṃ ca  
+  
+5.1.128.1 áthárvá-védam ā́vāhayāmi  
+5.1.128.2 aśvínāv ā́vāhayāmi  
+5.1.128.3 sā́má-védam ā́vāhayāmi  
+5.1.128.4 vátsárān ā́vāhayāmi  
+5.1.128.5 ŕ̥g-védam ā́vāhayāmi  
+5.1.128.6 vā́yum ā́vāhayāmi  
+5.1.128.7 ā́dítyam ā́vāhayāmi  
+5.1.128.8 ápsárása ā́vāhayāmi  
+5.1.128.9 kā́śyápam ā́vāhayāmi  
+5.1.128.10 marúta ā́vāhayāmi  
+  
+5.1.129.1 múnīnā́m ā́vāhayāmi  
+5.1.129.2 tákṣákam ā́vāhayāmi  
+5.1.129.3 ŕ̥tūn ā́vāhayāmi  
+5.1.129.4 bŕ̥haspátim ā́vāhayāmi  
+5.1.129.5 śáṃ no devī́ḥ  
+5.1.129.6 agna ā́ yāhi  
+5.1.129.7 agním īle  
+5.1.129.8 pūtás tasya pāré bhúvanasya mádhye nā́kasya pr̥ṣṭhé maható máhīyate  
+5.1.129.9 mahádbhis soṃbhasór bhúvanayór gámanayór medhyayór vibhavayór dévam abhísaṃjātam ápi brahmā́  
+5.1.129.10 sádā́ vedā́s tú yáśo mahā́n yáśo maha-dyutír maha-matír mahā́n púruṣo 'stu sadā-śiváḥ  
+  
+5.1.130.1 imā́ óṣadhayas saṃbabhūvús tā́s tāḥ sárvāḥ pávamāne  
+5.1.130.2 ánugatāś śā́ntiṃ kurvantu naḥ  
+5.1.130.3 abhí tvā śūra nonumó dugdhā ívá dhenávaḥ  
+ī́śānam asyá jágatas súvardŕ̥śam ī́śānam indra tasthúṣaḥ  
+5.1.130.4 catvā́ri vā́k párimitā padā́ni tā́ni vidur brāhmaṇā́ yé manīṣíṇaḥ  
+gúhā trī́ṇi níhitā néṅgayanti turī́yaṃ vācó manuṣyā vadanti  
+5.1.130.5 vā́rīś cátasras sadŕ̥śaḥ kavīnā́ṃ patyuḥ pratyā́varitā kṣadáṃś ca  
+bhūyo bhūtyaí bhúvanasya púṣṭyai snā́yīta yas sáṃgataṃ snāpayāmi  
+5.1.130.6 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+5.1.130.7 iṣé tvorjé tvā  
+  
+5.1.131.1 ā́pa undantu  
+5.1.131.2 mitrás suvarṇáḥ  
+5.1.131.3 téjovát syāvaḥ  
+5.1.131.4 sómasya tanū́r asi  
+5.1.131.5 bhūtó bhūtéṣu  
+5.1.131.6 imā́s sumánasa śreṣṭhā divyá-puṣpādhivā́sitāḥ  
+5.1.131.7 pūtā́ brahma-pavítreṇa pūtā́s sū́ryasya rasmíbhiḥ  
+5.1.131.8 imé gandhā́s surabhíno divyá-gandhādhivā́sitāḥ  
+5.1.131.9 pūtā́ brahma-pavítreṇa pūtā́s sū́ryasya rasmíbhiḥ  
+5.1.131.10 imé dhūpā́s surabhíno divyá-dhūpādhivā́sitāḥ  
+5.1.131.11 pūtā́ brahma-pavítreṇa pūtā́s sū́ryasya rasmíbhiḥ  
+5.1.131.12 śubhrā́ jyótiś ca devā́nāṃ tejáś ca satata-prabháḥ  
+prabhās-karó mahā-tejā dīpó 'yaṃ pratigŕ̥hyātām  
+  
+5.1.0.36 ā́vāhayāmi śivórjé tvādhivā́sitās trī́ṇi ca  
+  
+5.1.132.1 dhārāsu saptásu  
+5.1.132.2 kr̥ṇuṣvá pā́jaḥ prásitiṃ ná pr̥thvī́ṃ yāhí rā́jevā́mavā(g)ṃ íbhena  
+tr̥ṣvī́m ánu prásitiṃ drūṇānó 'stāsi vídhya rakṣásas tápiṣṭhaiḥ  
+5.1.132.3 táva bhramā́sa āśuyā́ patanty ánu spr̥śa dhr̥ṣatā́ śóśucānaḥ  
+tápū́(g)ṃṣy agne juhvā pataṅgā́n ásaṃdito ví sr̥ja víṣvag ulkā́ḥ  
+5.1.132.5 práti spáśo ví śr̥ja tū́rṇitamo bhávā pāyúr viśó asyā́ ádabdhaḥ  
+yó no dūré agháśa(g)ṃso yó ánty ágne mā́kiṣ ṭe vyáthir ā dadharṣīt  
+5.1.132.7 úd agne tiṣṭha práty ā́ tanuṣva ny amitrā(g)ṃ oṣatāt tigmahete  
+yó no árāti(g)ṃ samidhāna cakré nīcā́ táṃ dhakṣy atasáṃ ná śúṣkam  
+5.1.132.9 ūrdhvó bhava práti vidhyā́dhy asmád āvíṣ kr̥ṇuṣva daívyāny agne  
+áva sthirā́ tánuhi yātujū́nāṃ jāmím ájāmiṃ prá mr̥ṇīhi śátrū́n[*195]  
+[*195] The VMP text divides this verse between two sections, making the second line of this verse the first line of chapter 133. The numbering has been adjusted so that the complete verse now comes at the end of chapter 132.  
+  
+  
+5.1.133.1 sá te jānāti sumatíṃ yaviṣṭha yá ī́vate bráhmaṇe gātúm aírat  
+víśvāny asmai sudínāni rāyó dyumnā́ny aryó ví dúro abhí dyaut  
+5.1.133.2 séd agne astu subhágas sudā́nur yás tvā nítyena havíṣā yá ukthaíḥ  
+píprīṣati svá ā́yuṣi duroṇé víśvéd asmai sudínā sā́sad iṣṭíḥ  
+5.1.133.3 árcāmi te sumatíṃ ghóṣy arvā́k sáṃ te vāvā́tā jaratām iyáṃ gī́ḥ  
+sváśvās tvā suráthā marjayemāsmé kṣatrā́ṇi dhārayer ánu dyū́n  
+5.1.133.4 ihá tvā bhū́ry ā cared úpa tmán dóṣā-vastar dīdivā́(g)ṃsam ánu dyū́n  
+krī́ḍantas tvā sumánasas sapemābhí dyumnā́ tasthivā́(g)ṃso jánānām  
+5.1.133.5 yás tvā sváśvas suhiraṇyó agna upayāti vásumatā ráthena  
+tásya trātā́ bhavasi tásya sákhā yás ta ātithyám ānuṣág jújoṣat[*196]  
+[*196] The VMP text divides this verse between two sections, making the second line of this verse the first line of chapter 134. The numbering has been adjusted so that the complete verse now comes at the end of chapter 133.  
+  
+  
+5.1.134.1 mahó rujāmi bandhútā vácobhis tán mā pitúr gótamād ánv iyāya  
+tván no asyá vácasaś cikiddhi hótar yaviṣṭha sukrato dámūnāḥ  
+5.1.134.2 ásvapnajas taráṇayas suśévā[*197] átandrāso 'vr̥kā́ áśramiṣṭhāḥ  
+té pāyávas sadhríyañco niṣádyā́gne táva naḥ pāntv amūra  
+5.1.134.3 yé pāyávo māmateyán te agne páśyanto andháṃ duritā́d árakṣan  
+rarákṣa tānt[*198] sukŕ̥to viśvá-vedā dípsanta íd ripávo nā́ha debhuḥ  
+5.1.134.4 tváyā vayá(g)ṃ sadhanyas tvotās táva práṇīty aśyāma[*199] vā́jān  
+ubhā́ śá(g)ṃsā sūdaya satyatāte 'nuṣṭhuyā́ kr̥ṇuhy ahrayāṇa  
+5.1.134.5 ayā́ te agne samídhā vidhema práti stóma(g)ṃ śasyámānaṃ gr̥bhāya  
+dáhāśáso rakṣásaḥ pāhy asmā́n druhó nidó mitramaho avadyā́t[*200]  
+[*197] Text: suśśévā  
+[*198] Text: tānth; TS tānt; RV tān  
+[*199] TS āśyāma; RV aśyāma  
+[*200] The VMP text divides this verse between two sections, making the second line of this verse the first line of chapter 135. The numbering has been adjusted so that the complete verse now comes at the end of chapter 134.  
+  
+  
+  
+5.1.135.1 rakṣo-háṇaṃ vājínam ā́ jigharmi mitráṃ práthiṣṭham úpa yāmi śárma  
+śíśāno agníḥ krátubhis sámiddhas sá no dívā sá riṣáḥ pātu náktam  
+5.1.135.2 ví jyótiṣā br̥hatā́ bhāty agnír āvír víśvāni kr̥ṇute mahītvā́  
+prā́devīr māyā́s sahate durévāś śíśīte śŕ̥ṅge rákṣase viníkṣe  
+5.1.135.3 utá svānā́so diví ṣantv agnés tigmā́yudhā rákṣase hántavā́ u  
+máde cid asya prá rujanti bhā́mā ná varante paribādhó ádevīḥ  
+5.1.135.4 mahā́(g)ṃ índro nr̥vád ā́ carṣaṇiprāḥ  
+5.1.135.5 trātā́ram índram  
+5.1.135.6 agnír ā́yuṣmān  
+5.1.135.7 svasti-dā́ viśás-pátiḥ  
+  
+5.1.0.37 ágne ráthena gr̥bhā́yā́yuṣmān ékañ ca  
+  
+5.1.136.1 védāhám etám  
+5.1.136.2 óṃ śéṣam ā́vāhayāmi  
+5.1.136.3 mítram ā́vāhayāmi  
+5.1.136.4 átrim ā́vāhayāmi  
+5.1.136.5 víśvam ā́vāhayāmi  
+5.1.136.6 śívam ā́vāhayāmi  
+5.1.136.7 sánā́tánam ā́vāhayāmi  
+5.1.136.8 sánáṃdánam ā́vāhayāmi  
+5.1.136.9 sánát-kúmā́ram ā́vāhayāmi  
+5.1.136.10 sánákam ā́vāhayāmi  
+  
+5.1.137.1 jáyām ā́vāhayāmi  
+5.1.137.2 víjáyām ā́vāhayāmi  
+5.1.137.3 víndām ā́vāhayāmi  
+5.1.137.4 nándām ā́vāhayāmi  
+5.1.137.5 púṣṭíkām ā́vāhayāmi  
+5.1.137.6 kúmúdvátīm ā́vāhayāmi  
+5.1.137.7 útpálíkām ā́vāhayāmi  
+5.1.137.8 víśókām ā́vāhayāmi  
+5.1.137.9 kánikradaj janúṣam  
+5.1.137.10 aśvínau váhatāṃ vahetāṃ[*201] vahāmi sa(g)ṃsr̥ṣṭaṃ gáruḍa-rathaṃ yathā-sthānáṃ vahāmi  
+5.1.137.11 ajñānajñāú dvā́v imāv ī́śānīśā́v ajaú hy éko bhoktr̥ bhojyā́rthá-yuktaḥ  
+5.1.137.12 anantātmā́ viśvá-rūpo hy akartā́ kr̥táṃ yathā vedáyate bráhma sampádyate  
+5.1.137.13 yád vaiṣṇavá(g)ṃ śáyane śayānám  
+5.1.137.14 śriyé jātó medínī devī́  
+5.1.137.15 óṃ víṣṇum ā́vāhayāmi  
+5.1.137.16 víṣṇor nú kaṃ vīryāṇi  
+5.1.137.17 agním īle puróhitam  
+5.1.137.18 iṣé tvorjé tvā  
+5.1.137.19 ágna ā́ yāhi śáṃ no devī́ḥ  
+[*201] 1946 edition: vahetāṃ; 1984 edition: hetāṃ va  
+  
+  
+5.1.0.38 sánákam ā́vāhayāmi sthānáṃ vahāmi náva ca  
+  
+5.1.138.1 óṃ víṣṇum ā́vāhayāmi  
+5.1.138.2 śríyam ā́vāhayāmi  
+5.1.138.3 háríṇīm ā́vāhayāmi  
+5.1.138.4 óṃ púrúṣam ā́vāhayāmi  
+5.1.138.5 kápílam ā́vāhayāmi  
+5.1.138.6 sátyam ā́vāhayāmi  
+5.1.138.7 yájñam ā́vāhayāmi  
+5.1.138.8 ácyútam ā́vāhayāmi  
+5.1.138.9 nā́rā́yáṇam ā́vāhayāmi  
+5.1.138.10 ánírúddham ā́vāhayāmi  
+  
+5.1.139.1 púṇyam ā́vāhayāmi  
+5.1.139.2 várā́ham ā́vāhayāmi  
+5.1.139.3 súbhádram ā́vāhayāmi  
+5.1.139.4 nā́rásíṃham ā́vāhayāmi  
+5.1.139.5 ī́śítā́tmā́nam[*202] ā́vāhayāmi  
+5.1.139.6 vā́mánam ā́vāhayāmi  
+5.1.139.7 sárvódváham ā́vāhayāmi  
+5.1.139.8 trívíkrámam ā́vāhayāmi  
+5.1.139.9 sárvá-vídyeśváram ā́vāhayāmi  
+5.1.139.10 índram ā́vāhayāmi  
+[*202] Text: ī́śítā́tmánam  
+  
+  
+5.1.140.1 yámam ā́vāhayāmi  
+5.1.140.2 várúṇam ā́vāhayāmi  
+5.1.140.3 kúbéram ā́vāhayāmi  
+5.1.140.4 ágnim ā́vāhayāmi  
+5.1.140.5 nírŕ̥tim ā́vāhayāmi  
+5.1.140.6 vā́yum ā́vāhayāmi  
+5.1.140.7 ī́śā́nam ā́vāhayāmi  
+5.1.140.8 súbhádram ā́vāhayāmi  
+5.1.140.9 sárvam ā́vāhayāmi  
+5.1.140.10 háyā́tmákam ā́vāhayāmi  
+  
+5.1.141.1 sukhā́váham ā́vāhayāmi  
+5.1.141.2 rā́má-dévam ā́vāhayāmi  
+5.1.141.3 sáṃváham ā́vāhayāmi  
+5.1.141.4 púṇyá-dévam ā́vāhayāmi  
+5.1.141.5 súváham ā́vāhayāmi  
+5.1.141.6 mítram ā́vāhayāmi  
+5.1.141.7 sánā́tánam ā́vāhayāmi  
+5.1.141.8 átrim ā́vāhayāmi  
+5.1.141.9 sánáṃdánam ā́vāhayāmi  
+5.1.141.10 śívam ā́vāhayāmi  
+  
+5.1.142.1 sánát-kúmā́ram ā́vāhayāmi  
+5.1.142.2 víśvam ā́vāhayāmi  
+5.1.142.3 sánákam ā́vāhayāmi  
+5.1.142.4 índram ā́vāhayāmi  
+5.1.142.5 yámam ā́vāhayāmi  
+5.1.142.6 várúṇam ā́vāhayāmi  
+5.1.142.7 kúbéram ā́vāhayāmi  
+5.1.142.8 ágnim ā́vāhayāmi  
+5.1.142.9 nírŕ̥tim ā́vāhayāmi  
+5.1.142.10 vā́yum ā́vāhayāmi  
+  
+5.1.143.1 ī́śā́nam ā́vāhayāmi  
+5.1.143.2 brahmā́nam ā́vāhayāmi  
+5.1.143.3 mā́rkáṇḍéyam ā́vāhayāmi  
+5.1.143.4 śáṃkáram ā́vāhayāmi  
+5.1.143.5 bhŕ̥gum ā́vāhayāmi  
+5.1.143.6 dhā́tā́ram ā́vāhayāmi  
+5.1.143.7 vídhā́tā́ram ā́vāhayāmi  
+5.1.143.8 bhúváṅgam ā́vāhayāmi  
+5.1.143.9 pátáṅgam ā́vāhayāmi  
+5.1.143.10 pátíram ā́vāhayāmi  
+  
+5.1.144.1 várúṇam ā́vāhayāmi  
+5.1.144.2 máṇíkam ā́vāhayāmi  
+5.1.144.3 sándhyām ā́vāhayāmi  
+5.1.144.4 víkhánásam ā́vāhayāmi  
+5.1.144.5 tā́pásam ā́vāhayāmi  
+5.1.144.6 kíṣkíndham ā́vāhayāmi  
+5.1.144.7 tī́rtham ā́vāhayāmi  
+5.1.144.8 ī́śā́nam ā́vāhayāmi  
+5.1.144.9 bali-rákṣákam ā́vāhayāmi  
+5.1.144.10 vā́g-dévīm ā́vāhayāmi  
+  
+5.1.145.1 rávim ā́vāhayāmi  
+5.1.145.2 śákram ā́vāhayāmi  
+5.1.145.3 śríyam ā́vāhayāmi  
+5.1.145.4 pávítrám ā́vāhayāmi[*203]  
+5.1.145.5 hávíḥ-pā́lákam ā́vāhayāmi  
+5.1.145.6 ágnim ā́vāhayāmi  
+5.1.145.7 bhaúmam ā́vāhayāmi  
+5.1.145.8 jágád-bhúvam ā́vāhayāmi  
+5.1.145.9 dúrgām ā́vāhayāmi  
+5.1.145.10 yámam ā́vāhayāmi  
+5.1.145.11 máṃdam ā́vāhayāmi[*204]  
+[*203] 1946 edition omits this verse  
+[*204] In the 1984 edition this verse is the first verse of the next section, i.e. 5.1.146.1.  
+  
+  
+  
+5.1.146.1 sáptá-róhíṇīr ā́vāhayāmi  
+5.1.146.2 sáptá-mā́tr̥̄r ā́vāhayāmi  
+5.1.146.3 nírŕ̥tim ā́vāhayāmi  
+5.1.146.4 bŕ̥háspátím ā́vāhayāmi[*205]  
+5.1.146.5 dhā́trī́m ā́vāhayāmi[*206]  
+5.1.146.6 máhā́-kā́lim[*207] ā́vāhayāmi  
+5.1.146.7 púrúṣam ā́vāhayāmi  
+5.1.146.8 várúṇam ā́vāhayāmi  
+5.1.146.9 búdham ā́vāhayāmi  
+5.1.146.10 jyéṣṭhām ā́vāhayāmi  
+5.1.146.11 púṣpá-rákṣákam ā́vāhayāmi[*208]  
+5.1.146.12 vā́yum ā́vāhayāmi  
+[*205] 1946 edition omits this verse  
+[*206] 1946 edition omits this verse  
+[*207] Text: kāḷim.  This verse is omitted in the 1984 edition. (mahā-kālī ?)  
+[*208] In the 1984 edition this verse is the first verse of the next section, i.e. 5.1.147.1.  
+  
+  
+  
+5.1.147.1 śúkram ā́vāhayāmi  
+5.1.147.2 sáptárṣīn[*209] ā́vāhayāmi  
+5.1.147.3 gáṃgām ā́vāhayāmi  
+5.1.147.4 kúbéram ā́vāhayāmi  
+5.1.147.5 níśā́káram ā́vāhayāmi  
+5.1.147.6 páñcá-bhū́tān ā́vāhayāmi  
+5.1.147.7 śā́ntam ā́vāhayāmi  
+5.1.147.8 nyákṣam ā́vāhayāmi  
+5.1.147.9 vívásvátam ā́vāhayāmi  
+5.1.147.10 mitrám ā́vāhayāmi  
+[*209] 1984 edition: bhŕ̥gv-ā́dí-sáptárṣīn  
+  
+  
+5.1.148.1 kṣattāram ā́vāhayāmi  
+5.1.148.2 śrī́-bhū́tam ā́vāhayāmi  
+5.1.148.3 gárúḍam ā́vāhayāmi  
+5.1.148.4 vákrá-túṇḍam ā́vāhayāmi  
+5.1.148.5 nā́gá-rā́jam ā́vāhayāmi  
+5.1.148.6 cákram ā́vāhayāmi  
+5.1.148.7 dhvájam ā́vāhayāmi  
+5.1.148.8 śáṅkham ā́vāhayāmi  
+5.1.148.9 yū́thā́dhípam[*210] ā́vāhyāmi  
+5.1.148.10 ákṣá-hántam ā́vāhayāmi  
+[*210] Text: yūdhāthipam  
+  
+  
+5.1.0.39 ánírúddham ā́vāhayāmīndrám[*211] ā́vāhayāmi háyā́tmákam ā́vāhayāmi śívam ā́vāhayāmi vā́yum ā́vāhayāmi pátíram ā́vāhayāmi vā́g-dévīm ā́vāhayāmi mándam ā́vāhayāmi vā́yum ā́vāhayāmi mitrám ā́vāhayāmy ákṣá-hántam ā́vāhayāmi  
+[*211] 1946 edition: ā́vāhayāmi mīndram; 1984 edition: ā́vāhayāmīndrám  
+  
+  
+5.1.149.1 oṃ hotar ehi vayam idaṃ deva-yajanaṃ kariṣyāmaḥ[*212]  
+5.1.149.2 adhvaryo devatā ācakṣva tāsām ānupūrvam uccair upāṃśutāṃ ca  
+5.1.149.3 agnaye samidhyamānāyānu brūhi[*213]  
+5.1.149.4 oṃ[*214] namaḥ pravaktre nama upadraṣṭre namo 'nukhyātre ka idam anuvakṣyati sa idam anuvakṣyati ṣaṇ morvīr aṃhasas pāntu dyauś ca pr̥thivī cāhaś ca rātriś cāpaś cauṣadhayaś ca vāk saṃsthita[*215]-yájñas sādhuś[*216] candāṃsi prapadye 'ham eva mā́m[*217]  
+śrī viṣṇu-śarmāṇam[*218]  
+5.1.149.5 bhūte bhaviṣyati jāte janiṣyamāṇa ābhajāmy apāvyaṃ[*219] vāco aśāntim vaha[*220]  
+5.1.149.6 jāta-vedo ramayā paśūn mayi[*221]  
+5.1.149.7 varma me dyāvā-pr̥thivī varmāgnir varma sūryo varma me santu[*222] tiraś-cíkā́ḥ  
+5.1.149.8 tád adyá vācáḥ prathamáṃ maśīya[*223] yénā́súrā́m  
+ábhí devā́ ásāma  
+ū́rjāda utá yajñiyāsaḥ páñca-janā máma hotráṃ juṣadhvaṃ[*224]  
+[*212] Beginning with 5.1.149.1 there are no accent marks in the text until  the third to last word of 5.1.149.4, where 'ham has a svarita mark.  At this point the accents resume with an udātta over mā́m, the last word of this verse.  
+[*213] TS 6.3.7.1; TB 3.3.7.1 (VC p. 7)  
+[*214] After oṃ, beginning with the word namaḥ,  there is a quote from the Āśvalāyana-Śrauta-Sūtra, AŚ 1.2.1, (p. 14-15) which continues until VMP 5.1.149.9 as indicated.  
+[*215] AŚ sama-sthita-  
+[*216] AŚ sādhu  
+[*217] The AŚ here gives amum iti svan nāmādiśeta.  
+[*218] This verse is not in AŚ 1.2.1. The accent marks disappear again here with this verse and resume toward the end of text 5.1.149.8.  
+[*219] 1984 edition: ābhjāmyava āvyaṃ; 1946 edition: ābhajāny apāvyaṃ; AŚ ābhajāmy apāvaṃ  
+[*220] The AŚ here inserts:  iti aṅguly-agrāṇy avakr̥ṣya  
+[*221] The AŚ here inserts:  iti pratisandadhyāt  
+[*222] Accent marks resume here with a svarita over the tu in santu.  
+[*223] AŚ here inserts the word iti after maśīya which marks the end of AŚ 1.2.1.  
+[*224] Beginning with the words tád adyá in VMP 5.1.149.8 and ending here with the word juṣadhvaṃ a complete verse from RV 10.53.4 is quoted. In the VMP text, the verse is divided between two sections.  The third line of this verse, ū́rjāda...juṣadhvam, is the first line of section 150, however the numbering has been adjusted so that the complete verse is at the end of section 149. AŚ 1.2.1 includes only a pratīka from RV 10.53.4, however VMP includes the entire RV verse.  
+  
+  
+  
+5.1.150.1 him  
+5.1.150.2 bhū́r bhúvas súvar óm[*225]  
+5.1.150.3 pra vo vājā abhidyavo haviṣmanto ghr̥tācyā devāṃ jigāti sumnay... [*226] om[*227]  
+5.1.150.4 agna ā yāhi vītaye gr̥ṇāno havyadātaye  
+ni hotā satsi[*228] barhiṣ...[*229] om  
+5.1.150.5 tan tvā samidbhir aṅgiro ghr̥tena vardhayāmasi  
+br̥hac-chocā yaviṣṭhy...[*230] om  
+5.1.150.6 sa naḥ pr̥thuś śravāyyam acchā deva vivāsasi  
+br̥had-agne suvīry...[*231] om[*232]  
+[*225] All accent marks disappear again from this point forward and resume at 5.1.152.5 with the word ágne.  
+[*226] RV, TB, MS, etc: sumnayuḥ; The VMP here begins a pattern of dropping the last vowel (and any consonant that follows it) from the last word in an RV quote and adding om at the end.  This is seen to continue through 5.1.152.4.  
+[*227] This verse is found at RV 3.27.1  (VC p. 630)  
+[*228] Text: sathsi  
+[*229] RV, TS, TB: barhiṣi  
+[*230] RV, TS, TB: yaviṣṭhya  
+[*231] RV, TB: suvīryam  
+[*232] The VMP text divides this verse between two sections, making the second line of this verse the first line of chapter 151. However, the numbering has been adjusted so that the complete verse now comes at the end of chapter 150.  
+  
+  
+  
+5.1.151.1 īlenyo namasyas tiras tamāṃsi darśataḥ  
+sam agnir idhyate vr̥ṣ...[*233] om  
+5.1.151.2 vr̥ṣo agnis sam idhyate 'śvo na deva-vāhanaḥ  
+taṃ haviṣmanta īḷat...[*234] om  
+5.1.151.3 vr̥ṣaṇaṃ tvā vayaṃ vr̥ṣan vr̥ṣānas sam idhīmahi  
+agne dīdyataṃ br̥h...[*235] om  
+5.1.151.4 agniṃ dūtaṃ vr̥ṇīmahe hotāraṃ viśva-vedasam  
+asya yajñasya sukrat...[*236] om  
+5.1.151.5 samidhyamāno adhvare 'gniḥ pāvaka īḍyaḥ[*237]  
+śociṣ-keśas tas īmah...[*238] om[*239]  
+[*233] RV, TB: vr̥ṣā  
+[*234] RV, TB: īḷate  
+[*235] RV, TB: br̥hat  
+[*236] RV, TB, TS: sukratum  
+[*237] Text: īḍḍyaḥ; RV, TB: īḍyaḥ  
+[*238] RV, TB: īmahe  
+[*239] The VMP text divides this verse between two sections, making the second line of this verse the first line of chapter 152. The numbering has been adjusted so that the complete verse now comes at the end of chapter 151.  
+  
+  
+  
+5.1.152.1 pr̥thu-pājā amartyo ghr̥ta-nirṇik sv-āhutaḥ  
+agnir yajñasya havyav...[*240] om  
+5.1.152.2 taṃ sabādho yata-sruca itthā dhiyā yajñavantaḥ  
+ā cakrur agnim ūtay...[*241] om  
+5.1.152.3 samiddho agna āhūta devān yakṣi sv-adhvara  
+tvaṃ hi havyavāl[*242] as...[*243] om  
+5.1.152.4 ā juhota[*244] duvasyatāgniṃ prayaty adhvare  
+vr̥ṇīdhvaṃ havyavāhan...[*245] om  
+5.1.152.5 ágne mahā́(g)ṃ asi brāhmaṇa bhārata[*246]  
+5.1.152.6 (kāśyapāvatsāra-naiddhruva)[*247]  
+[*240] RV, TB: havyavāṭ  
+[*241] RV, TB: ūtaye  
+[*242] Text: havyavāḷ  
+[*243] RV, TB, TS: asi  
+[*244] 1984 edition: juhotā  
+[*245] RV, TB: havyavāhanam  
+[*246] Beginning with this verse and ending with verse 5.1.154.1, ā́vaha devā́n yájamānāya, is a set of pratīkas which are found in TS 2.5.9.1-4.  The complete verse is as follows (I have underlined the Sanskrit and English that appears in the VMP text): ágne mahā́ṅ asīty āha mahā́n hy eṣa yad agnír brāhmaṇéty āha brāhmaṇó hy eṣa bhāratéty āhaiṣá hí devébhyo havyáṃ bharati devéddha íty āha devā́ hy etam aindhate mánviddha íty āha mánur hy etam uttaro devébhya aíndhárṣi-ṣṭuta íty āharṣayo hy etam astuvan víprānumadita íty āha (1) víprā hy ete yac chuśruvā́ṃso bráhma-saṃśita ity āha bráhma-saṃśito hy eṣa ghr̥tahavana íty āha ghr̥tāhutír hy asya priyátamā praṇī́r yajñā́nām ity āha praṇī́r hy eṣa yajñānāṃ rathī́r adhvarā́ṇām íty āhaiṣa hí deva-ratho 'tūrto hótéty āha ná hy etaṃ kaścaná (2) tárati tū́rṇir havya-vāḍ ity āha sárvaṃ hy eṣa taraty ā́spā́traṃ juhū́r devā́nām íty āha juhūr hy eṣa devā́nāṃ camasó deva-pā́na íty aha camasó hy eṣa deva-pā́no 'rā́ṃ ivāgne nemír devā́ṃs tvaṃ paribhū́r asī́ty āha devā́n hy eṣa paribhū́r yád brūyā́d ā́ vaha devān devayaté yajamānāyéti bhrā́tr̥vyam asmai (3) janayed ā́ vaha devā́n yájamānāyéty āha yájamānam evaíténa vardhayati... | Keith's translation: “`O Agni, thou art great', he says, for Agni is great.  `O Brahman', he says, for he is a Brahman.  `O Bhārata', he says, for he bears the sacrifice to the gods.  `Kindled by the gods', he says, for the gods kindled him.  `Kindled by Manu', he says, for Manu kindled him after the gods.  `Praised by the R̥ṣis', he says, for the R̥ṣis praised him.  `Rejoiced in by sages', he says, for learned people are sages.  `Celebrated by the poets', he says, for learned people are the poets.  `Quickened by the holy power (Brahman)', he says, for he is quickened by the holy power (Brahman).  `With ghee offering', he says, for ghee is his dearest offering.  `Leader of the sacrifices', he says, for  
+he is the leader of the sacrifices.  `Charioteer of the rites', he says, for he is the chariot of the gods.  `The Hotr̥ unsurpassed', he says, for no one surpasses him.  `Surpassing, bearing the oblation', he says, for he surpasses all.  `The mouth dish, the ladle of the gods', he says, for he is the ladle of the gods.  `The bowl from which the gods drink', he says, for he is the bowl from which the gods drink.  `O Agni, like a felly the spokes, thou dost surround the gods', he says, for he surrounds the gods.  If he were to say, `Bring hither the gods to the pious sacrificer', he would produce an enemy for him.  `Bring hither the gods to the sacrificer', he says; verily with that he makes the sacrificer to grow great.”  
+[*247] This verse is in parentheses in the Sanskrit text.  
+  
+  
+  
+5.1.153.1 devéddho mánv-iddhaḥ[*248]  
+5.1.153.2 ŕ̥ṣi-ṣṭuto víprānumaditaḥ kavi-śastó bráhma-sa(g)ṃśito ghr̥tā́havanaḥ  
+5.1.153.3 praṇī́r yajñā́nām  
+5.1.153.4 ráthīr[*249] adhvarā́ṇām  
+5.1.153.5 atū́rto hótā  
+5.1.153.6 tū́rṇir havyavā́ṭ  
+5.1.153.7 ā́spā́traṃ juhū́r devā́nām  
+5.1.153.8 camasó deva-pā́naḥ  
+5.1.153.9 arā́(g)ṃ ivāgne nemír devā́(g)ṃs tváṃ paribhū́r ási  
+[*248] TB: asāv asau deveddho manviddhaḥ  
+[*249] Text: radhīr  
+  
+  
+  
+5.1.154.1 ā́vaha devā́n yájamānāya  
+5.1.154.2 idáṃ víṣṇuḥ  
+5.1.154.3 āyātu bhagavān puruṣas sa-gaṇas sa-sainyas sa-śrī-sahāyas saha-devatābhir anumanyatām  
+5.1.154.4 yas tu garuḍa-ratho[*250] nityam r̥ṣibhiś cānugāminaṃ tam ajaṃ puṇḍarīkākṣaṃ bhagavantam óm  
+5.1.154.5 víṣṇum ā́vaha[*251]  
+5.1.154.6 púrúṣam ā́vaha  
+5.1.154.7 sátyam ā́vaha  
+5.1.154.8 ácyútam ā́vaha  
+5.1.154.9 ániruddham ā́vaha  
+[*250] Text: -radho  
+[*251] In TB section 3.5.3.6, verses with āvaha, similar to 5.1.154.5-9, are found frequently.  
+  
+  
+  
+5.1.155.1 śriyé jātáḥ  
+5.1.155.2 āyātu bhagavatī śrīs svarṇa-varṇā sa-gaṇā sa-sainyā śrī-parama-puruṣa-sahāyā saha-devatābhir anumanyatām  
+5.1.155.3 yā padmāsanā padma-hastā haṃsa-niryākhya-vāhinī nityam r̥ṣibhiś cānugāminī tām ajāṃ padma-netrīṃ bhagavatīṃ śrī́m  
+5.1.155.4 śríyam ā́vaha  
+5.1.155.5 dhŕ̥tīm ā́vaha  
+5.1.155.6 pávítrīm ā́vaha  
+5.1.155.7 prámódā́yínīm ā́vaha  
+5.1.155.8 medínī devī́  
+5.1.155.9 āyātu bhagavatī hariṇī śyāma-varṇā sa-gaṇā sa-sainyā śrī-parama-púruṣa-sahāyā saha-devatābhir anumanyatām  
+5.1.155.10 yā nīlotpalāsanā nīlotpala-hastā mahā-cātaka-vāhinī nityam r̥ṣibhiś cānugāminī tām ajāṃ nīlotpala-netrīṃ bhágávátīṃ lám[*252]  
+[*252] 1984 edition adds here glām pāṭhāṃtaram: “glām is a variant reading (for lam)”.  
+  
+  
+5.1.156.1 háríṇīm ā́vaha  
+5.1.156.2 paúṣṇīm ā́vaha  
+5.1.156.3 kṣóṇīm ā́vaha  
+5.1.156.4 máhīm ā́vaha  
+5.1.156.5 [*253]víṣṇave júṣṭaṃ nírvapāmi  
+5.1.156.6 púruṣāya júṣṭaṃ nírvapāmi  
+5.1.156.7 satyā́ya júṣṭaṃ nírvapāmi  
+5.1.156.8 ácyutāya júṣṭaṃ nírvapāmi  
+5.1.156.9 ániruddhāya júṣṭaṃ nírvapāmi  
+5.1.156.10 śríyai júṣṭaṃ nírvapāmi  
+5.1.156.11 dhŕ̥tyai júṣṭaṃ nírvapāmi  
+5.1.156.12 pavítryai júṣṭaṃ nírvapāmi  
+5.1.156.13 prámódā́yínyai júṣṭaṃ nírvapāmi  
+5.1.156.14 háríṇyai júṣṭaṃ nírvapāmi  
+5.1.156.15 paúṣṇyai júṣṭaṃ nírvapāmi  
+5.1.156.16 kṣóṇyai júṣṭaṃ nírvapāmi  
+5.1.156.17 máhyai júṣṭaṃ nírvapāmi  
+[*253] mārkaṇdeyādi sarva-devān tān āvaha | dhātrādi-mahā-bhūtān tān āvaha | āvāhayāmi  
+  
+  
+5.1.0.40 bhā́rátá paribhū́r asy aniruddham ā́vaha bhagavatīṃ láṃ śríyai júṣṭaṃ nírvapāmi saptá ca  
+  
+5.1.157.1 óṃ víṣṇave svā́hā  
+5.1.157.2 púruṣāya svā́hā  
+5.1.157.3 satyā́ya svā́hā  
+5.1.157.4 ácyutāya svā́hā  
+5.1.157.5 ániruddhāya svā́hā  
+5.1.157.6 śríyai svā́hā  
+5.1.157.7 dhŕ̥tyaí svā́hā  
+5.1.157.8 pavítryai svā́hā  
+5.1.157.9 pramódā́yinyai svā́hā  
+5.1.157.10 haríṇyai svā́hā  
+  
+5.1.158.1 paúṣṇyai svā́hā  
+5.1.158.2 kṣóṇyai svā́hā  
+5.1.158.3 máhyai svā́hā  
+5.1.158.4 mārkaṇḍeyā́ya svā́hā  
+5.1.158.5 puṇyā́ya svā́hā  
+5.1.158.6 purāṇā́ya svā́hā  
+5.1.158.7 ámitā́ya svā́hā  
+5.1.158.8 pádmā-pitre svā́hā  
+5.1.158.9 dhātr̥-nāthā́ya[*254] svā́hā  
+5.1.158.10 khyātīśā́ya svā́hā  
+[*254] Text: dhātr̥-nādhāya  
+  
+  
+5.1.159.1 bhŕ̥gave svā́hā  
+5.1.159.2 bráhmaṇe svā́hā  
+5.1.159.3 prajā́-pataye svā́hā  
+5.1.159.4 pitāmahā́ya svā́hā  
+5.1.159.5 hiraṇya-garbhā́ya svā́hā  
+5.1.159.6 gaṃgā-dharā́ya svā́hā  
+5.1.159.7 r̥ṣabha-vāhanā́ya svā́hā  
+5.1.159.8 aṣṭa-mūrtáye svā́hā  
+5.1.159.9 umā́-pataye svā́hā  
+5.1.159.10 dhā́tre svā́hā  
+  
+5.1.160.1 daṃbhíne svā́hā  
+5.1.160.2 sanilā́ya[*255] svā́hā  
+5.1.160.3 gandha-dā́ya svā́hā  
+5.1.160.4 vidhā́tre svā́hā  
+5.1.160.5 kīnāśā́ya svā́hā  
+5.1.160.6 muruṇḍā́ya svā́hā  
+5.1.160.7 nyarṇā́ya svā́hā  
+5.1.160.8 bhr̥táye svā́hā  
+5.1.160.9 bhuvaṅgā́ya svā́hā  
+5.1.160.10 utsaṅgā́ya svā́hā  
+[*255] Text: saniḷā̀ya  
+  
+  
+5.1.161.1 pīṭhā́ya svā́hā  
+5.1.161.2 pataṅgā́ya svā́hā  
+5.1.161.3 utkarā́ya svā́hā  
+5.1.161.4 apadānā́ya[*256] svā́hā  
+5.1.161.5 kapárdine svā́hā  
+5.1.161.6 patirā́ya svā́hā  
+5.1.161.7 ballidā́ya svā́hā  
+5.1.161.8 madhya-gā́ya svā́hā  
+5.1.161.9 vaṅghanā́ya svā́hā  
+5.1.161.10 varuṇā́ya svā́hā  
+[*256] 1984 edition: apadhānā́ya  
+  
+  
+5.1.162.1 téjine svā́hā  
+5.1.162.2 daṃśíne svā́hā  
+5.1.162.3 tarasvíne svā́hā  
+5.1.162.4 maṇikā́ya svā́hā  
+5.1.162.5 mahā-balā́ya svā́hā  
+5.1.162.6 vimalā́ya svā́hā  
+5.1.162.7 dvāra-pālakā́ya svā́hā  
+5.1.162.8 sandhyā́yai svā́hā  
+5.1.162.9 prabhā́vatyai svā́hā  
+5.1.162.10 jyoti-rūpā́yai svā́hā  
+  
+5.1.163.1 dr̥ḍha-vratā́yai svā́hā  
+5.1.163.2 vaikhānasā́ya svā́hā  
+5.1.163.3 tapo-yuktā́ya svā́hā  
+5.1.163.4 siddhi-dā́ya svā́hā  
+5.1.163.5 brahma-darśíne svā́hā  
+5.1.163.6 tāpasā́ya svā́hā  
+5.1.163.7 siddhi-rājā́ya svā́hā  
+5.1.163.8 sarva-doṣa-vivarjitā́ya svā́hā  
+5.1.163.9 sahasrāśva-médhine svā́hā  
+5.1.163.10 kiṣkindhā́ya svā́hā  
+  
+5.1.164.1 bahu-mardanā́ya svā́hā  
+5.1.164.2 bahu-senā́ya svā́hā  
+5.1.164.3 dr̥ḍha-vratā́ya svā́hā  
+5.1.164.4 tīrthā́ya svā́hā  
+5.1.164.5 udvāhakā́ya svā́hā  
+5.1.164.6 sarva-yogyā́ya svā́hā  
+5.1.164.7 udāvahā́ya svā́hā  
+5.1.164.8 indrā́ya svā́hā  
+5.1.164.9 śacī́-pataye svā́hā  
+5.1.164.10 puru-hūtā́ya svā́hā  
+  
+5.1.165.1 purandarā́ya svā́hā  
+5.1.165.2 agnáye svā́hā  
+5.1.165.3 jātá-vedase svā́hā  
+5.1.165.4 pāvakā́ya svā́hā  
+5.1.165.5 hutāśanā́ya svā́hā  
+5.1.165.6 yamā́ya svā́hā  
+5.1.165.7 dharma-rājā́ya svā́hā  
+5.1.165.8 preteśā́ya svā́hā  
+5.1.165.9 madhya-sthā́ya svā́hā  
+5.1.165.10 ārambhādhipátaye svā́hā  
+  
+5.1.166.1 nirr̥taye svā́hā  
+5.1.166.2 nīlā́ya svā́hā  
+5.1.166.3 sarva-rakṣo-ídhipátaye svā́hā  
+5.1.166.4 varuṇā́ya svā́hā  
+5.1.166.5 pracétase svā́hā  
+5.1.166.6 raktāmbarā́ya svā́hā  
+5.1.166.7 yādas-patáye svā́hā  
+5.1.166.8 vāyáve svā́hā  
+5.1.166.9 jávanā́ya svā́hā  
+5.1.166.10 bhūtātmakā́ya svā́hā  
+  
+5.1.167.1 udānā́ya svā́hā  
+5.1.167.2 kuberā́ya svā́hā  
+5.1.167.3 dhanyā́ya svā́hā  
+5.1.167.4 paulastyā́ya svā́hā  
+5.1.167.5 yakṣa-rājā́ya svā́hā  
+5.1.167.6 īśānā́ya svā́hā  
+5.1.167.7 īśvarā́ya svā́hā  
+5.1.167.8 devā́ya svā́hā  
+5.1.167.9 bhavā́ya svāha  
+5.1.167.10 ādityā́ya svā́hā  
+  
+5.1.168.1 bhāskarā́ya svā́hā  
+5.1.168.2 sūryā́ya svā́hā  
+5.1.168.3 mārtāṇḍā́ya svā́hā  
+5.1.168.4 vivásvataye svā́hā  
+5.1.168.5 aṅgārakā́ya svā́hā  
+5.1.168.6 vakrā́ya svā́hā  
+5.1.168.7 raktā́ya svā́hā  
+5.1.168.8 dharā-sutā́ya svā́hā  
+5.1.168.9 sūrya-putrā́ya svā́hā  
+5.1.168.10 mandā́ya svā́hā  
+  
+5.1.169.1 raivatyā́ya svā́hā  
+5.1.169.2 śanaiścarā́ya svā́hā  
+5.1.169.3 pīta-varṇā́ya svā́hā  
+5.1.169.4 gúrave svā́hā  
+5.1.169.5 taiṣyā́ya svā́hā  
+5.1.169.6 bŕ̥haspátaye svā́hā  
+5.1.169.7 budhā́ya svā́hā  
+5.1.169.8 śyāmā́ya svā́hā  
+5.1.169.9 saumyā́ya svā́hā  
+5.1.169.10 śraviṣṭha-jā́ya svā́hā  
+  
+5.1.170.1 śukrā́ya svā́hā  
+5.1.170.2 bhārgavā́ya svā́hā  
+5.1.170.3 kāvyā́ya svā́hā  
+5.1.170.4 parisárpiṇe svā́hā  
+5.1.170.5 nalínyai[*257] svā́hā  
+5.1.170.6 jāhnávyai svā́hā  
+5.1.170.7 gaṃgā́yai svā́hā  
+5.1.170.8 loka-pāványai svā́hā  
+5.1.170.9 vasíṣṭhā́ya svā́hā  
+5.1.170.10 somā́ya svā́hā  
+[*257] Text: naḷínyai  
+  
+  
+5.1.171.1 yajñāṃgā́ya svā́hā  
+5.1.171.2 índave svā́hā  
+5.1.171.3 candrámase svā́hā  
+5.1.171.4 bhavā́ya svā́hā  
+5.1.171.5 śarvā́ya svā́hā  
+5.1.171.6 īśānā́ya svā́hā  
+5.1.171.7 paśu-pátaye svā́hā  
+5.1.171.8 ugrā́ya svā́hā  
+5.1.171.9 rudrā́ya svā́hā  
+5.1.171.10 bhīmā́ya svā́hā  
+  
+5.1.172.1 mahā-devā́ya svā́hā  
+5.1.172.2 jagád-bhúve svā́hā  
+5.1.172.3 yájad-bhuve svā́hā  
+5.1.172.4 viśva-bhúve svā́hā  
+5.1.172.5 brahma-bhúve svā́hā  
+5.1.172.6 rudra-bhúve svā́hā  
+5.1.172.7 bhúvar-bhúve svā́hā  
+5.1.172.8 puruṣā́ya svā́hā (?)[*258]  
+5.1.172.9 parama-puruṣā́ya svā́hā  
+5.1.172.10 puruṣātmakā́ya svā́hā  
+[*258] púruṣaṃ satyam acyutam aniruddham iti | iti kaśyapaḥ  
+  
+  
+5.1.173.1 dharma-mayā́ya svā́hā  
+5.1.173.2 dhā́tryai svā́hā  
+5.1.173.3 mahódaryai svā́hā  
+5.1.173.4 raúdryai svā́hā  
+5.1.173.5 mahā́-kā́lyai[*259] svā́hā  
+5.1.173.6 bhū́r-jyeṣṭhā́yínyai svā́hā  
+5.1.173.7 bhúvár-jyeṣṭhā́yínyai svā́hā  
+5.1.173.8 súvár-jyeṣṭhā́yínyai svā́hā  
+5.1.173.9 kali-rājā́yínyai svā́hā  
+5.1.173.10 kali-pátnyai svā́hā  
+[*259] Text: kāḷyai  
+  
+  
+5.1.174.1 durgā́yai svā́hā  
+5.1.174.2 kātyāyínyai svā́hā  
+5.1.174.3 vaiṣṇávyai svā́hā  
+5.1.174.4 vindhya-vāsínyai svā́hā  
+5.1.174.5 kuṇṭhínyai svā́hā  
+5.1.174.6 nandínyai svā́hā  
+5.1.174.7 dharítryai svā́hā  
+5.1.174.8 rajáta-priyāyai svā́hā  
+5.1.174.9 granthínyai svā́hā  
+5.1.174.10 vegínyai svā́hā  
+  
+5.1.175.1 prajayā́yai svā́hā  
+5.1.175.2 pravā́hiṇyai svā́hā  
+5.1.175.3 kr̥cchríṇyai svā́hā  
+5.1.175.4 śākhínyai svā́hā  
+5.1.175.5 vāhínyai svā́hā  
+5.1.175.6 yoktríṇyai svā́hā  
+5.1.175.7 kuṇṭhínyai svā́hā  
+5.1.175.8 jāríṇyai svā́hā  
+5.1.175.9 cardínyai svā́hā  
+5.1.175.10 pravāhínyai svā́hā  
+  
+5.1.176.1 vikāríṇyai svā́hā  
+5.1.176.2 dāmínyai svā́hā  
+5.1.176.3 bisínyai svā́hā  
+5.1.176.4 vidyutā́yai svā́hā  
+5.1.176.5 dadrúṇyai svā́hā  
+5.1.176.6 indu-kalā́yai svā́hā  
+5.1.176.7 saumanásyai svā́hā  
+5.1.176.8 pravidyutā́yai svā́hā  
+5.1.176.9 indriya-vikāríṇyai svā́hā  
+5.1.176.10 árvavátyai svā́hā  
+  
+5.1.177.1 gaṅgā-vā́ṇyai svā́hā  
+5.1.177.2 sŕ̥jantyai svā́hā  
+5.1.177.3 pádmā-pitre svā́hā  
+5.1.177.4 dhātr̥-nāthā́ya[*260] svā́hā  
+5.1.177.5 khyātīśā́ya svā́hā  
+5.1.177.6 bhŕ̥gave svā́hā  
+5.1.177.7 saṃbhūtīśā́ya svā́hā  
+5.1.177.8 marī́caye svā́hā  
+5.1.177.9 śocíṣmate svā́hā  
+5.1.177.10 paurṇamāsa-bhr̥tā́ya svā́hā  
+[*260] Text: dhātr̥-nādhā́ya  
+  
+  
+5.1.178.1 kṣamādhavā́ya svā́hā  
+5.1.178.2 pulahā́ya svā́hā  
+5.1.178.3 kardamā́ya svā́hā  
+5.1.178.4 mahā́-dhr̥taye svā́hā  
+5.1.178.5 pulastyāya svā́hā  
+5.1.178.6 prītí-bhártre svā́hā  
+5.1.178.7 vaśaṃ-karā́ya svā́hā  
+5.1.178.8 dāntinī-rājā́ya svā́hā  
+5.1.178.9 siddhi-rājā́ya svā́hā  
+5.1.178.10 niṣka-sūnáve svā́hā  
+  
+5.1.179.1 sannatīśā́ya svā́hā  
+5.1.179.2 kratáve svā́hā  
+5.1.179.3 ūrjā́-pátaye svā́hā  
+5.1.179.4 rāja-pūrvāya svā́hā  
+5.1.179.5 vásiṣṭhāya svā́hā  
+5.1.179.6 vā́k-pataye svā́hā  
+5.1.179.7 átraye svā́hā  
+5.1.179.8 niyāmakā́ya svā́hā  
+5.1.179.9 satya-netra-guráve svā́hā  
+5.1.179.10 anasūyā́-varāya svā́hā  
+  
+5.1.180.1 gaviṣṭhā́ya svā́hā  
+5.1.180.2 traiṣṭubhā́ya svā́hā  
+5.1.180.3 guhyā́ya svā́hā  
+5.1.180.4 ākāśā́ya svā́hā  
+5.1.180.5 ásave svā́hā  
+5.1.180.6 samīraṇā́ya svā́hā  
+5.1.180.7 vāyáve svā́hā  
+5.1.180.8 pr̥ṣadaśvā́ya svā́hā  
+5.1.180.9 vīti-hotrā́ya svā́hā  
+5.1.180.10 ābhuraṇyā́ya svā́hā  
+  
+5.1.181.1 śuddhā́ya svā́hā  
+5.1.181.2 agnáye svā́hā  
+5.1.181.3 pavitrā́ya svā́hā  
+5.1.181.4 amr̥tā́ya svā́hā  
+5.1.181.5 toyā́ya svā́hā  
+5.1.181.6 gahvarā́ya svā́hā  
+5.1.181.7 haríṇyai svā́hā  
+5.1.181.8 paúṣṇyai svā́hā  
+5.1.181.9 kṣóṇyai svā́hā  
+5.1.181.10 máhyai svā́hā  
+  
+5.1.182.1 vāg-dévyai svā́hā  
+5.1.182.2 viśvā́yai svā́hā  
+5.1.182.3 bhr̥gu-pátnyai svā́hā  
+5.1.182.4 sárásvátyai svā́hā  
+5.1.182.5 śríyai svā́hā  
+5.1.182.6 dhŕ̥tyai svā́hā  
+5.1.182.7 pávitryai svā́hā  
+5.1.182.8 pramódā́yínyai svā́hā  
+5.1.182.9 nyakṣā́ya svā́hā  
+5.1.182.10 adhityákā́ya[*261] svā́hā  
+[*261] MW p. 21 adhityakā, “land on the upper part of a mountain”.  
+  
+  
+5.1.183.1 pīvárā́ya svā́hā  
+5.1.183.2 āryakā́ya svā́hā  
+5.1.183.3 vivásvataye svā́hā  
+5.1.183.4 bharatā́ya svā́hā  
+5.1.183.5 viśvá-kármáṇe svā́hā  
+5.1.183.6 marī́címáte svā́hā  
+5.1.183.7 mitrā́ya svā́hā  
+5.1.183.8 hitvarā́ya svā́hā  
+5.1.183.9 rājiṣmáte svā́hā  
+5.1.183.10 ramaṇakā́ya svā́hā  
+  
+5.1.184.1 kṣátre svā́hā  
+5.1.184.2 mahī-dharā́ya svā́hā  
+5.1.184.3 urva-rohā́ya svā́hā  
+5.1.184.4 śévadhaye svā́hā  
+5.1.184.5 havi-rakṣakā́ya svā́hā  
+5.1.184.6 āgneyā́ya svā́hā  
+5.1.184.7 śailūṣā́ya svā́hā  
+5.1.184.8 pacanā́ya svā́hā  
+5.1.184.9 brāhmáṇyai svā́hā  
+5.1.184.10 piṅgalā́yai[*262] svā́hā  
+[*262] Text: piṅgaḷā̀yai  
+  
+  
+5.1.185.1 gaúryai svā́hā  
+5.1.185.2 sarváto-mukhyai svā́hā  
+5.1.185.3 sarit-priyā́yai svā́hā  
+5.1.185.4 viśva-rūpā́yai svā́hā  
+5.1.185.5 ugrā́yai svā́hā  
+5.1.185.6 gaṇéśvaryai svā́hā  
+5.1.185.7 vaiśākhínyai svāha  
+5.1.185.8 śikhaṇḍínyai svā́hā  
+5.1.185.9 gāyátryai svā́hā  
+5.1.185.10 ṣaṇ-múkhyai svā́hā  
+  
+5.1.186.1 viśva-garbhā́yai svā́hā  
+5.1.186.2 viṣórmiṇyai svā́hā  
+5.1.186.3 kr̥ṣṇā́yai svā́hā  
+5.1.186.4 rohíṇyai[*263] svā́hā  
+5.1.186.5 vārā́hyai svā́hā  
+5.1.186.6 vara-dā́yai svā́hā  
+5.1.186.7 úrvyai svā́hā  
+5.1.186.8 vajra-dáṃṣṭryai svā́hā  
+5.1.186.9 jáyantyai svā́hā  
+5.1.186.10 kauśíkyai svā́hā  
+[*263] 1946 edition: drohíṇyai  
+  
+  
+5.1.187.1 indrā́ṇyai svā́hā  
+5.1.187.2 ghanāghanányai svā́hā  
+5.1.187.3 kā́lyai[*264] svā́hā  
+5.1.187.4 nā́līka[*265]-daṃṣṭryai svā́hā  
+5.1.187.5 vŕ̥ṣabha-vāhanā́yai svā́hā  
+5.1.187.6 veda-dhāríṇyai svā́hā  
+5.1.187.7 puṣpa-rakṣakā́ya svā́hā  
+5.1.187.8 harítā́ya svā́hā  
+5.1.187.9 adhivāsā́ya svā́hā  
+5.1.187.10 phullā́ya svā́hā  
+[*264] Text: kāḷyai  
+[*265] Text: nāḷīka  
+  
+  
+  
+5.1.188.1 bali-rakṣakā́ya svā́hā  
+5.1.188.2 daṇḍyā́ya svā́hā  
+5.1.188.3 sarvadā́ya svā́hā  
+5.1.188.4 samā́ya svā́hā  
+5.1.188.5 viṣvaksénā́ya svā́hā  
+5.1.188.6 śāntā́ya svā́hā  
+5.1.188.7 harā́ya svā́hā[*266]  
+5.1.188.8 ámitā́ya svā́hā  
+5.1.188.9 śrī-bhūtā́ya svā́hā  
+5.1.188.10 śveta-varṇā́ya svā́hā  
+[*266] haritāya svā̀hā iti pā  
+  
+  
+5.1.189.1 vaiṣṇavā́ya svā́hā  
+5.1.189.2 mukha-pālíne svā́hā  
+5.1.189.3 garuḍā́ya svā́hā  
+5.1.189.4 pakṣi-rājā́ya svā́hā  
+5.1.189.5 súparṇā́ya svā́hā  
+5.1.189.6 khagādhipátaye svā́hā  
+5.1.189.7 vakra-tuṇḍā́ya svā́hā  
+5.1.189.8 eka-daṃṣṭrā́ya svā́hā  
+5.1.189.9 vikaṭā́ya svā́hā  
+5.1.189.10 vināyakā́ya svā́hā  
+  
+5.1.190.1 nāga-rājā́ya svā́hā  
+5.1.190.2 sahasra-śīrṣā́ya svā́hā  
+5.1.190.3 anantā́ya svā́hā  
+5.1.190.4 śeṣā́ya svā́hā  
+5.1.190.5 sudarśanā́ya svā́hā  
+5.1.190.6 cakrā́ya svā́hā  
+5.1.190.7 sahasra-vikacā́ya svā́hā  
+5.1.190.8 anapāyíne svā́hā  
+5.1.190.9 jayā́ya svā́hā  
+5.1.190.10 atyucchritā́ya svā́hā  
+  
+5.1.191.1 dhanyā́ya svā́hā  
+5.1.191.2 dhvajā́ya svā́hā  
+5.1.191.3 pāṃcajanyā́ya svā́hā  
+5.1.191.4 śaṅkhā́ya svā́hā  
+5.1.191.5 ambujā́ya svā́hā  
+5.1.191.6 viṣṇú-priyā́ya svā́hā  
+5.1.191.7 yūthādhipā́ya[*267] svā́hā  
+5.1.191.8 nityā́ya svā́hā  
+5.1.191.9 ugrā́ya svā́hā  
+5.1.191.10 mahā́-bhūtā́ya svā́hā  
+5.1.191.11 pāvakorjunā́ya svā́hā  
+5.1.191.12 hasta-magā́ya[*268] svā́hā  
+5.1.191.13 akṣa-hantā́ya svā́hā  
+5.1.191.14 viṣṇu-bhūtā́ya svā́hā  
+[*267] Text: yūdhādhipā́ya  
+[*268] check MW p. 772  
+  
+  
+  
+5.1.0.41.1 haríṇyai svā́hā  
+5.1.0.41.2 khyā́tīśā́ya svā́hā  
+5.1.0.41.3 dhā́tre svā́hotsaṃgā́ya svā́hā varuṇā́ya svā́hā jyotī-rūpā́yai svā́hā kiṣkindhā́ya svā́hā puru-hūtā́ya svā́hārambhādhipátaye svā́hā  
+5.1.0.41.4 bhū́tā́tmakā́ya svā́hādityā́ya svā́hā mandā́ya svā́hā śraviṣṭha-jā́ya svā́hā somā́ya svā́hā bhīmā́ya svā́hā puruṣātmakā́ya svā́hā kali-pátnyai svā́hā vegínyai svā́hā pravāhínyai svā́hārvavátyai svā́hā paurṇamāsa-bhr̥tā́ya svā́hā niṣka-sūnáve svā́hānasūyā-varā́ya svā́hābhuraṇyā́ya svā́hā mahyai svā́hādhītyakā́ya svā́hā ramaṇakā́ya svā́hā piṅgalā́yai[*269] svā́hā ṣáṇ-mukhyai svā́hā kauśíkyai svā́hā phullā́ya svā́hā śveta-varṇā́ya svā́hā vināyakā́ya svā́hātyucchritā́ya svā́hā mahā-bhūtā́ya svā́hā catvā́rí ca  
+[*269] Text: piṅgaḷā̀yai  
+  
+  
+5.1.0.42[*270] priyatā́ṃ bhágavān rudráṃ bhūtáṃ nírdagdha(g)ṃ rákṣaś śuddhā́ imé ā́yā́tú bhágavān imé bījā́ bráhmā́ṇam ā́vāhayāmi yó 'jaḥ purā́ medínī devī́ víṣṇur mā́ṃ pātv asmín deśé prá tád víṣṇúr híraṇya-varṇāḥ pávamānas súvar-jáno médase náma éto nv índraṃ víṣṇur mā́ṃ pātu rudhirā́ya tváce námo jīvā́ya námo bráhma jajñānám ā́cā́ryáṃ tvā́m ahaṃ vā́stoṣ-pate maúli-mālāyai[*271] svā́hā sthūpikā́yai svā́hā śuddhā́ imé śukrám asy agním īle gārhapatya-yajñám ā́vāhayāmīṣé tvorjé tvā́po vā́ idá(g)ṃ sárvam ā́tmātmāṇór áṇīyān áto devā́ idáṃ víṣṇur óm ā́yā́tú bhágávā́n áthárvá-védam ā́vāhayāmi dhārāsu saptasú védāhám etám óṃ víṣṇum ā́vāhayāmy oṃ hotar ehi víṣṇave svā́haíka-catvā́ri(g)mśat  
+[*270] 41 in book  
+[*271] Text: mauḷimālāyai  
+  
+  
+  
+5.1.192.1 priyátā́ṃ bhágavān druhiṇyai svā́hā rudrā-jam ā́vāhāyāmy atrá svastí savitādité ínumanyasva éto nv índraṃ satyakam ā́vāhayāmi dharma-rājam ā́vāhayāmi jyótiṣe svā́hā samānā́ya svā́hā karṇā́ya svā́hā vairāgyam ā́vāhayāmy aṇór áṇīyān ā́pa undantu sukhāvaham ā́vāhayāmi br̥had-agne suvīry óṃ pīṭhā́ya svā́hā yajñāṃgā́ya svā́hā śuddhā́ya svā́hā dhanyā́ya svāhaiká-návaty-uttara-śatám  
+  
+príyátā́ṃ bhágavān viṣṇu-bhūtā́ya svā́hā  
+“háriḥ óṃ tat sat”  
+  
+________________________________________  
+  
+  
+Śriyai námaḥ  
+Āvaraṇa-sáptakeṣūkta-mūrtī-homaḥ  
+  
+5.2.1.1 óṃ víṣṇave svā́hā  
+5.2.1.2 mahā́-víṣṇave svā́hā  
+5.2.1.3 sadā́-víṣṇave svā́hā  
+5.2.1.4 vyā́pí-nā́rā́yaṇā́ya svā́hā  
+5.2.1.5 śríyai svā́hā  
+5.2.1.6 bhū́myai svā́hā  
+5.2.1.7 púruṣāya svā́hā  
+5.2.1.8 parámá-purúṣā́ya svā́hā  
+5.2.1.9 púrúṣā́tmakā́ya svā́hā  
+5.2.1.10 dharma-mayā́ya svā́hā  
+  
+5.2.2.1 śríyai svā́hā  
+5.2.2.2 medínyai svā́hā  
+5.2.2.3 satyā́ya svā́hā  
+5.2.2.4 sátyā́tmakā́ya svā́hā  
+5.2.2.5 jñā́ná-mayā́ya svā́hā  
+5.2.2.6 sárva-saṃhārāya svā́hā  
+5.2.2.7 dhŕ̥tyai svā́hā  
+5.2.2.8 paúṣṇyai svā́hā  
+5.2.2.9 ácyutāya svā́hā  
+5.2.2.10 áparímitā́ya svā́hā  
+  
+5.2.3.1 aiśvaryā́ya svā́hā  
+5.2.3.2 śrī́-pataye svā́hā  
+5.2.3.3 pavítryai svā́hā  
+5.2.3.4 kṣóṇyai svā́hā  
+5.2.3.5 aniruddhā́ya svā́hā  
+5.2.3.6 mahāntā́ya[*272] svā́hā  
+5.2.3.7 vairāgyā́ya svā́hā  
+5.2.3.8 sárva-tejo-mayāya svā́hā  
+5.2.3.9 pramódā́yínyai svā́hā  
+5.2.3.10 máhyai svā́hā  
+[*272] 1984 edition: mahantā́ya  
+  
+  
+5.2.4.1 kapilā́ya svā́hā  
+5.2.4.2 múní-várāya svā́hā  
+5.2.4.3 śuddhā́ya svā́hā  
+5.2.4.4 véda-rūpiṇe svā́hā  
+5.2.4.5 gāyátryai svā́hā  
+5.2.4.6 sā́vitryai svā́hā  
+5.2.4.7 yajñā́ya svā́hā  
+5.2.4.8 sárvá-dévá-mayāya svā́hā  
+5.2.4.9 puṇyā́ya svā́hā  
+5.2.4.10 krátave svā́hā  
+  
+5.2.5.1 svāhā́yai svā́hā  
+5.2.5.2 svadhā́yai svā́hā  
+5.2.5.3 nārāyaṇā́ya svā́hā  
+5.2.5.4 jágannāthāya[*273] svā́hā  
+5.2.5.5 devá-devā́ya svā́hā  
+5.2.5.6 trayī́-mayāya svā́hā  
+5.2.5.7 kámalāyai svā́hā  
+5.2.5.8 iḷā́yai svā́hā[*274]  
+5.2.5.9 puṇyā́ya svā́hā  
+5.2.5.10 puṇyā́tmakāya svā́hā  
+[*273] Text: nādhāya  
+[*274] cf.  VMP 5.2.15.9  
+  
+  
+  
+5.2.6.1 puṇyá-mū́rtaye svā́hā  
+5.2.6.2 puṇyá-dā́yine svā́hā  
+5.2.6.3 indirā́yai svā́hā  
+5.2.6.4 dharáṇyai svā́hā  
+5.2.6.5 varāhā́ya svā́hā  
+5.2.6.6 vara-dā́ya svā́hā  
+5.2.6.7 bhū́mi-sandhāraṇāya svā́hā  
+5.2.6.8 vájra-daṃṣṭrine svā́hā  
+5.2.6.9 śríyai svā́hā  
+5.2.6.10 bhū́myai svā́hā  
+  
+5.2.7.1 nārasiṃhā́ya svā́hā  
+5.2.7.2 tapo-nāthā́ya[*275] svā́hā  
+5.2.7.3 mahā́-víṣṇave svā́hā  
+5.2.7.4 mahā-balā́ya svā́hā  
+5.2.7.5 śríyai svā́hā  
+5.2.7.6 bhū́myaí svā́hā  
+5.2.7.7 vāmanā́ya svā́hā  
+5.2.7.8 vára-dāya svā́hā  
+5.2.7.9 kāśyapā́ya svā́hā  
+5.2.7.10 aditi-príyā́ya svā́hā  
+[*275] Text: tapo-nādhā́ya  
+  
+  
+5.2.8.1 trívikramāya svā́hā  
+5.2.8.2 tri-lokeśā́ya svā́hā  
+5.2.8.3 sarvādhā́rāya svā́hā  
+5.2.8.4 vaíkuṇṭhāya svā́hā  
+5.2.8.5 subhadrā́ya svā́hā  
+5.2.8.6 sumukhā́ya svā́hā  
+5.2.8.7 sukha-pradā́ya svā́hā  
+5.2.8.8 sukha-darśanā́ya svā́hā  
+5.2.8.9 kámalāyai svā́hā  
+5.2.8.10 ávanyai svā́hā  
+  
+5.2.9.1 īśā́ya svā́hā  
+5.2.9.2 vára-dāya svā́hā  
+5.2.9.3 sarveśā́ya svā́hā  
+5.2.9.4 īśítā́tmane svā́hā  
+5.2.9.5 padmā́yai svā́hā  
+5.2.9.6 sthirā́yai svā́hā  
+5.2.9.7 sarveśā́ya svā́hā  
+5.2.9.8 sarvādhārā́ya svā́hā  
+5.2.9.9 sárva-jñā́ya svā́hā  
+5.2.9.10 sarvodvahā́ya svā́hā  
+  
+5.2.10.1 lákṣmyai svā́hā  
+5.2.10.2 dhárāyai svā́hā  
+5.2.10.3 sárva-vidyeśvarāya svā́hā  
+5.2.10.4 puṇyā́ya svā́hā  
+5.2.10.5 śuddhā́ya svā́hā  
+5.2.10.6 jñānā́ya svā́hā  
+5.2.10.7 kanákā́yai svā́hā  
+5.2.10.8 śyāmā́yai svā́hā  
+5.2.10.9 indrā́ya svā́hā  
+5.2.10.10 śacī́-pataye svā́hā  
+  
+5.2.11.1 puru-hūtā́ya svā́hā  
+5.2.11.2 purandarā́ya svā́hā  
+5.2.11.3 agnáye svā́hā  
+5.2.11.4 jātá-vedase svā́hā  
+5.2.11.5 pāvakā́ya svā́hā  
+5.2.11.6 hutāśanā́ya svā́hā  
+5.2.11.7 yamā́ya svā́hā  
+5.2.11.8 dharma-rājā́ya svā́hā  
+5.2.11.9 preteśā́ya svā́hā  
+5.2.11.10 madhya-sthā́ya svā́hā  
+  
+5.2.12.1 āraṃbhādhipátaye svā́hā  
+5.2.12.2 nírr̥taye svā́hā  
+5.2.12.3 nīlā́ya svā́hā  
+5.2.12.4 sarva-rakṣo-ídhipátaye svā́hā  
+5.2.12.5 varuṇā́ya svā́hā  
+5.2.12.6 pracétase svā́hā  
+5.2.12.7 raktāmbarā́ya svā́hā  
+5.2.12.8 yādas-patáye svā́hā  
+5.2.12.9 vāyáve svā́hā  
+5.2.12.10 javanā́ya svā́hā  
+  
+5.2.13.1 bhūtātmakā́ya svā́hā  
+5.2.13.2 udānā́ya svā́hā  
+5.2.13.3 kuberā́ya svā́hā  
+5.2.13.4 dhanyā́ya svā́hā  
+5.2.13.5 paulastyā́ya svā́hā  
+5.2.13.6 yakṣa-rājā́ya svā́hā  
+5.2.13.7 ī́śānā́ya svā́hā  
+5.2.13.8 devā́ya svā́hā  
+5.2.13.9 bhavā́ya svā́hā  
+5.2.13.10 mahā́-devā́ya svā́hā  
+  
+5.2.14.1 śríyai svā́hā  
+5.2.14.2 dhŕ̥tyai svā́hā  
+5.2.14.3 pavítryai svā́hā  
+5.2.14.4 pramódā́yínyai svā́hā  
+5.2.14.5 haríṇyai svā́hā  
+5.2.14.6 paúṣṇyai svā́hā  
+5.2.14.7 kṣóṇyai svā́hā  
+5.2.14.8 máhyai svā́hā  
+5.2.14.9 subhadrā́ya svā́hā  
+5.2.14.10 sumúkhā́ya svā́hā  
+  
+5.2.15.1 sukhá-pradāya svā́hā  
+5.2.15.2 sukha-darśánā́ya svā́hā  
+5.2.15.3 kamálā́yai svā́hā  
+5.2.15.4 ávanyai svā́hā  
+5.2.15.5 hayā́tmakā́ya svā́hā  
+5.2.15.6 déveśā́ya svā́hā  
+5.2.15.7 sárvā́naṃdā́ya svā́hā  
+5.2.15.8 sanā́tanā́ya svā́hā  
+5.2.15.9 ilā́yai svā́hā  
+5.2.15.10 víśvāyai svā́hā  
+  
+5.2.16.1 rāma-devā́ya svā́hā  
+5.2.16.2 mahā-balā́ya svā́hā  
+5.2.16.3 mahā-bhadrā́ya svā́hā  
+5.2.16.4 paráśu-pāṇaye svā́hā  
+5.2.16.5 brā́hmyai svā́hā  
+5.2.16.6 vijáyā́yai svā́hā  
+5.2.16.7 puṇyā́ya svā́hā  
+5.2.16.8 puṇyātmakā́ya svā́hā  
+5.2.16.9 puṇyá-mū́rtaye svā́hā  
+5.2.16.10 puṇyá-dā́yine svā́hā  
+  
+5.2.17.1 indirā́yai svā́hā  
+5.2.17.2 dharáṇyai svā́hā  
+5.2.17.3 sarvā́ya svā́hā  
+5.2.17.4 viśvā́ya svā́hā  
+5.2.17.5 sarvādhārā́ya svā́hā  
+5.2.17.6 sarveśvarā́ya svā́hā  
+5.2.17.7 sakálā́yai svā́hā  
+5.2.17.8 viśvā́yai svā́hā  
+5.2.17.9 sukhā́vahā́ya svā́hā  
+5.2.17.10 sureśā́ya svā́hā  
+  
+5.2.18.1 sumúkhā́ya svā́hā  
+5.2.18.2 sura-priyā́ya svā́hā  
+5.2.18.3 śúddhā́yai svā́hā  
+5.2.18.4 vimálā́yai svā́hā  
+5.2.18.5 saṃvāhā́ya svā́hā  
+5.2.18.6 sarva-tejó-mayāya svā́hā  
+5.2.18.7 ānaṃdā́ya svā́hā  
+5.2.18.8 sárva-rūpiṇe svā́hā  
+5.2.18.9 subhágā́yai svā́hā  
+5.2.18.10 sumúkhyai svā́hā  
+  
+5.2.19.1 suvahā́ya svā́hā  
+5.2.19.2 sukr̥tā́ya svā́hā  
+5.2.19.3 vijñānā́ya svā́hā  
+5.2.19.4 veda-mayā́ya svā́hā  
+5.2.19.5 sumadā́yai svā́hā  
+5.2.19.6 janányai svā́hā  
+5.2.19.7 mitrā́ya svā́hā  
+5.2.19.8 loka-hitā́ya svā́hā  
+5.2.19.9 viśvātmakā́ya svā́hā  
+5.2.19.10 kapi-varā́ya svā́hā  
+  
+5.2.20.1 átraye svā́hā  
+5.2.20.2 vidhā́tārā́ya svā́hā  
+5.2.20.3 tr̥tīyātmakā́ya svā́hā  
+5.2.20.4 véda-mūrtaye svā́hā  
+5.2.20.5 śivā́ya svā́hā  
+5.2.20.6 muni-varā́ya svā́hā  
+5.2.20.7 śuddhā́ya svā́hā  
+5.2.20.8 suyoktārā́ya svā́hā  
+5.2.20.9 viśvā́ya svā́hā  
+5.2.20.10 bhūta-nāyakā́ya svā́hā  
+  
+5.2.21.1 jagad-vīkṣanā́ya svā́hā  
+5.2.21.2 sarva-mātr̥kā́ya svā́hā  
+5.2.21.3 sanā́tanā́ya svā́hā  
+5.2.21.4 múnīndrā́ya svā́hā  
+5.2.21.5 bráhma-sambhavāya svā́hā  
+5.2.21.6 niṣṭhānakā́ya svā́hā  
+5.2.21.7 sanaṃdanā́ya svā́hā  
+5.2.21.8 gúrave svā́hā  
+5.2.21.9 sarva-pūjyā́ya svā́hā  
+5.2.21.10 mantra-jñā́ya svā́hā  
+  
+5.2.22.1 sanat-kumārā́ya svā́hā  
+5.2.22.2 jyótir-īśāya svā́hā  
+5.2.22.3 nírúdvegā́ya svā́hā  
+5.2.22.4 akrodhā́ya svā́hā  
+5.2.22.5 sánakāya svā́hā  
+5.2.22.6 niyatārā́ya svā́hā  
+5.2.22.7 dhárma-jñāya svā́hā  
+5.2.22.8 dhármá-códítāya svā́ha  
+5.2.22.9 indrā́ya svā́hā  
+5.2.22.10 mahā́-devā́ya svā́hā[*276]  
+[*276] indrādīnāṃ catur-mūrti-mantraiḥ pūrvavat  
+  
+  
+5.2.23.1 śríyai svā́hā  
+5.2.23.2 máhyaí svā́hā[*277]  
+5.2.23.3 bráhmaṇe svā́hā  
+5.2.23.4 prajā́-pataye svā́hā  
+5.2.23.5 pitāmahā́ya svā́hā  
+5.2.23.6 hiraṇya-garbhā́ya svā́hā  
+5.2.23.7 mārkaṇḍeyā́ya svā́hā  
+5.2.23.8 puṇyā́ya svā́hā  
+5.2.23.9 purāṇā́ya svā́hā  
+5.2.23.10 amitā́ya svā́hā  
+[*277] śrī mahī-devy-ādīnāṃ catur-nāmabhiḥ pūrvavat  
+  
+  
+5.2.24.1 gaṃgā-dharā́ya svā́hā  
+5.2.24.2 vr̥ṣabha-vāhanā́ya[*278] svā́hā  
+5.2.24.3 aṣṭa-mūrtáye svā́hā  
+5.2.24.4 umā́-pataye svā́hā  
+5.2.24.5 pádmā-pitre svā́hā  
+5.2.24.6 dhātr̥-nāthā́ya[*279] svā́hā  
+5.2.24.7 khyātīśā́ya svā́hā  
+5.2.24.8 bhŕ̥gave svā́hā  
+5.2.24.9 dhā́tre svā́hā  
+5.2.24.10 daṃbhíne svā́hā  
+[*278] cf. 5.1.159.7, r̥ṣabha-vāhanāya, which occurs in a similar sequences of verses (i.e. 5.1.159.6-9 cf. 5.2.24.1-4).  
+[*279] Text: dhātr̥-nādhā́ya  
+  
+  
+  
+5.2.25.1 sanilā́ya[*280] svā́hā  
+5.2.25.2 gandha-dā́ya svā́hā  
+5.2.25.3 vidhā́tre svā́hā  
+5.2.25.4 kīnāśā́ya svā́hā  
+5.2.25.5 muruṃḍā́ya svā́hā  
+5.2.25.6 nyarṇakā́ya[*281] svā́hā  
+5.2.25.7 bhr̥táye svā́hā  
+5.2.25.8 bhuvaṃgā́ya svā́hā  
+5.2.25.9 utsaṅgā́ya svā́hā  
+5.2.25.10 pīṭhā́ya svā́hā  
+[*280] Text: saniḷā́ya  
+[*281] cf. 5.1.160.7, nyarṇāya, which occurs in a similar sequence of verses (i.e. 5.1.159.10-162.3 cf. 5.2.24.9-27.2).  
+  
+  
+  
+5.2.26.1 pataṅgā́ya svā́hā  
+5.2.26.2 utkarā́ya svā́hā  
+5.2.26.3 apadānā́ya svā́hā  
+5.2.26.4 kapárdine svā́hā  
+5.2.26.5 patirā́ya svā́hā  
+5.2.26.6 ballidā́ya svā́hā  
+5.2.26.7 madhya-gā́ya svā́hā  
+5.2.26.8 vaṅghanā́ya svā́hā  
+5.2.26.9 varuṇā́ya svā́hā  
+5.2.26.10 téjine svā́hā  
+  
+5.2.27.1 daṃśíne svā́hā  
+5.2.27.2 tarasvíne svā́hā  
+5.2.27.3 nyakṣā́ya svā́hā  
+5.2.27.4 adhītyakā́ya[*282] svā́hā  
+5.2.27.5 pīvarā́ya svā́hā  
+5.2.27.6 āryakā́ya svā́hā  
+5.2.27.7 vivásvate svā́hā  
+5.2.27.8 bharatā́ya svā́hā  
+5.2.27.9 viśvá-karmaṇe svā́hā  
+5.2.27.10 marī́címate svā́hā  
+[*282] cf. 5.1.182.10, adhityakā́ya, which occurs in a similar sequence of verses i.e.5.1.182.9-184.4 cf. 5.2.27.3-28.8.)  
+  
+  
+5.2.28.1 mitrā́ya svā́hā  
+5.2.28.2 itvarā́ya[*283] svā́hā  
+5.2.28.3 rājiṣmáte svā́hā  
+5.2.28.4 ramaṇakā́ya svā́hā  
+5.2.28.5 kṣátre svā́hā  
+5.2.28.6 mahī-dharā́ya svā́hā  
+5.2.28.7 urva-rohā́ya svā́hā  
+5.2.28.8 śévadhaye svā́hā  
+5.2.28.9 maṇikā́ya svā́hā  
+5.2.28.10 mahā-balā́ya svā́hā  
+[*283] cf. 5.1.183.3, hitvarāya, which occurs in a similar sequence of verses (i.e. 5.1.182.9-184.4 cf. 5.2.27.3-28.8).  
+  
+  
+5.2.29.1 vimalā́ya svā́hā  
+5.2.29.2 dvāra-pālakā́ya svā́hā  
+5.2.29.3 sandhyā́yai svā́hā  
+5.2.29.4 prabhā́vatyai svā́hā  
+5.2.29.5 jyoti-rūpā́yai svā́hā  
+5.2.29.6 dr̥ḍha-vratā́yai svā́hā  
+5.2.29.7 vikhanáse svā́hā  
+5.2.29.8 tapo-yuktā́ya svā́hā  
+5.2.29.9 siddhi-dā́ya svā́hā  
+5.2.29.10 bráhma-darśine svā́hā  
+  
+5.2.30.1 tāpasā́ya svā́hā  
+5.2.30.2 siddhi-rājā́ya svā́hā  
+5.2.30.3 sarva-doṣa-vivarjitā́ya svā́hā  
+5.2.30.4 sahasrā́śva-medhine svā́hā  
+5.2.30.5 kiṣkindhā́ya svā́hā  
+5.2.30.6 bahu-mardánā́ya svā́hā  
+5.2.30.7 bahu-senā́ya svā́hā  
+5.2.30.8 dr̥ḍha-vratā́ya svā́hā  
+5.2.30.9 tīrthā́ya svā́hā  
+5.2.30.10 udvāhakā́ya svā́hā  
+  
+5.2.31.1 sarva-yogyā́ya svā́hā  
+5.2.31.2 udāvahā́ya svā́hā  
+5.2.31.3 vakra-tuṇḍā́ya svā́hā  
+5.2.31.4 eka-daṃṣṭrā́ya svā́hā  
+5.2.31.5 vikaṭā́ya svā́hā  
+5.2.31.6 vināyakā́ya svā́hā  
+5.2.31.7 nāga-rājā́ya svā́hā  
+5.2.31.8 sahasra-śīrṣā́ya svā́hā  
+5.2.31.9 anantā́ya svā́hā  
+5.2.31.10 śeṣā́ya svā́hā  
+  
+5.2.32.1 śaṅkhā́ya svā́hā  
+5.2.32.2 nidhi-varā́ya svā́hā  
+5.2.32.3 dhaná-dā́ya svā́hā  
+5.2.32.4 mauktíkódbhavāya svā́hā  
+5.2.32.5 padmā́ya svā́hā  
+5.2.32.6 nidhi-varā́ya svā́hā  
+5.2.32.7 raktābhā́ya svā́hā  
+5.2.32.8 bhūta-nāyákā́ya svā́hā  
+5.2.32.9 tuháṇā́ya svā́hā  
+5.2.32.10 daitya-rājā́ya svā́hā  
+  
+5.2.33.1 viṣṇu-bhaktā́ya svā́hā  
+5.2.33.2 gadādharā́ya svā́hā  
+5.2.33.3 daiteyā́ya svā́hā  
+5.2.33.4 mahā-vīryā́ya svā́hā  
+5.2.33.5 balin-dā́ya svā́hā  
+5.2.33.6 śū́la-pāṇaye svā́hā  
+5.2.33.7 nandakā́ya svā́hā  
+5.2.33.8 khaḍgā́ya svā́hā  
+5.2.33.9 pā́pa-harāya svā́hā  
+5.2.33.10 daitya-nāśanā́ya svā́hā  
+  
+5.2.34.1 śārṅgā́ya svā́hā  
+5.2.34.2 dhanur-varā́ya svā́hā  
+5.2.34.3 śátru-hantre svā́hā  
+5.2.34.4 varā́yudhāya svā́hā  
+5.2.34.5 śáṅkha-cūline[*284] svā́hā  
+5.2.34.6 vŕ̥kṣa-daṇḍā́ya svā́hā  
+5.2.34.6 śvétā́bhāya svā́hā  
+5.2.34.7 ghora-rūpā́ya svā́hā  
+5.2.34.8 cákra-cūline[*285] svā́hā  
+5.2.34.10 mahā-nādā́ya svā́hā  
+[*284] Text: -śūḷine  
+[*285] Text: -cūḷine  
+  
+  
+  
+5.2.35.1 úgra-rūpiṇe svā́hā  
+5.2.35.2 bhayānakā́ya svā́hā  
+5.2.35.3 caṇḍā́ya svā́hā  
+5.2.35.4 ugrā́ya svā́hā  
+5.2.35.5 bhayānakā́ya svā́hā  
+5.2.35.6 dvā́ra-pālakāya svā́hā  
+5.2.35.7 pracaṇḍā́ya svā́hā  
+5.2.35.8 bhīmā́ya svā́hā  
+5.2.35.9 ghóra-rūpāya svā́hā  
+5.2.35.10 dvāradhipátáye svā́hā  
+  
+5.2.36.1 viṣvaksenā́ya svā́hā  
+5.2.36.2 śāntā́ya svā́hā  
+5.2.36.3 harā́ya[*286] svāha  
+5.2.36.4 amitā́ya svā́hā  
+5.2.36.5 śrī-bhūtā́ya svā́hā  
+5.2.36.6 śveta-varṇā́ya svā́hā  
+5.2.36.7 vaíṣṇávā́ya svā́hā  
+5.2.36.8 múkhá-pā́líne svā́hā  
+5.2.36.9 garuḍā́ya svā́hā  
+5.2.36.10 pakṣi-rājā́ya svā́hā  
+[*286] 1946 edition: haritāvāya; 1984 edition: harā́ya  
+  
+  
+5.2.37.1 suparṇā́ya svā́hā  
+5.2.37.2 khagādhipā́ya[*287] svā́hā  
+5.2.37.3 sudarśanā́ya svā́hā  
+5.2.37.4 cakrā́ya svā́hā  
+5.2.37.5 sahasra-vikacā́ya svā́hā  
+5.2.37.6 anapāyíne svā́hā  
+5.2.37.7 pāñcajanyā́ya svā́hā  
+5.2.37.8 śaṅkhā́ya svā́hā  
+5.2.37.9 ambujā́ya svā́hā  
+5.2.37.10 víṣṇu-priyā́ya svā́hā  
+[*287] cf. 5.1.189.6, khagādhipataye, which occurs in a similar sequence of verses (i.e. 5.1.188.5-189.6 cf. 5.2.36.1-5.2.37.2).  
+  
+  
+5.2.38.1 jayā́ya svā́hā  
+5.2.38.2 atyucchritā́ya svā́hā  
+5.2.38.3 dhanyā́ya svā́hā  
+5.2.38.4 dhvajā́ya svā́hā  
+5.2.38.5 yūthādhipā́ya[*288] svā́hā  
+5.2.38.6 nityā́ya svā́hā  
+5.2.38.7 agrā́ya[*289] svā́hā  
+5.2.38.8 mahā-bhūtā́ya svā́hā  
+5.2.38.9 pāvakorjunā́ya svā́hā  
+5.2.38.10 hastā́ya[*290] svā́hā  
+[*288] Text: yūdhādhipā́ya  
+[*289] cf. 5.1.191.9, ugrāya, which occurs in a similar sequence of verses (i.e. 5.1.191.7-14 cf. 5.2.38.5-39.2).  
+[*290] 1946 edition: hastamāya  
+  
+  
+  
+5.2.39.1 akṣa-hantā́ya svā́hā  
+5.2.39.2 viṣṇu-bhūtā́ya[*291] svā́hā  
+5.2.39.3 indrā́ya svā́hā[*292]  
+5.2.39.4 ādityā́ya svā́hā[*293]  
+5.2.39.5 bhāskarā́ya svā́hā  
+5.2.39.6 sūryā́ya svā́hā  
+5.2.39.7 mārtāṇḍā́ya svā́hā  
+5.2.39.8 vivásvate svā́hā  
+5.2.39.9 vasiṣṭhā́ya svā́hā  
+5.2.39.10 somā́ya svā́hā  
+[*291] 1946 edition: viṣṇu-bhūtá-yútāya; 1984 edition: viṣṇu-bhūtā́ya  
+[*292] indrādi-dig-īśānāṃ catur-mūrti-mantraiḥ purvavat  
+[*293] ravi-śaśinau pañca-mūrti-mantrā iti marīciḥ  
+  
+  
+  
+5.2.40.1 yajñā́ṃgā́ya svā́hā  
+5.2.40.2 índave svā́hā  
+5.2.40.3 candrā́ya svā́hā  
+5.2.40.4 aṅgārakā́ya svā́hā  
+5.2.40.5 vakrā́ya svā́hā  
+5.2.40.6 raktā́ya svā́hā  
+5.2.40.7 dharā-sutā́ya svā́hā  
+5.2.40.8 budhā́ya svā́hā  
+5.2.40.9 śyāmā́ya svā́hā  
+5.2.40.10 saumyā́ya svā́hā  
+  
+5.2.41.1 śraviṣṭha-jā́ya svā́hā  
+5.2.41.2 pīta-varṇā́ya svā́hā  
+5.2.41.3 gúrave svā́hā  
+5.2.41.4 taiṣyā́ya svā́hā  
+5.2.41.5 bŕ̥haspátaye svā́hā  
+5.2.41.6 śukrā́ya svā́hā  
+5.2.41.7 kāvyā́ya svā́hā  
+5.2.41.8 bhārgavā́ya svā́hā  
+5.2.41.9 parisárpiṇe svā́hā  
+5.2.41.10 sūrya-putrā́ya svā́hā  
+  
+5.2.42.1 mandā́ya svā́hā  
+5.2.42.2 raivatyā́ya svā́hā  
+5.2.42.3 śanaiścarā́ya svā́hā  
+5.2.42.4 rā́have svā́hā  
+5.2.42.5 daiteyā́ya svā́hā  
+5.2.42.6 urageśā́ya svā́hā  
+5.2.42.7 grā́hakāya svāha  
+5.2.42.8 ketáve svā́hā  
+5.2.42.9 kr̥ṣṇa-varṇā́ya svā́hā  
+5.2.42.10 raudrā́ya svā́hā  
+  
+5.2.43.1 aprakāśíne svā́hā  
+5.2.43.2 nalínyai[*294] svā́hā  
+5.2.43.3 jāhnávyai svā́hā  
+5.2.43.4 gaṃgā́yai svā́hā  
+5.2.43.5 lóka-pāvanyai svā́hā  
+5.2.43.6 yamúnā́yai svā́hā  
+5.2.43.7 sphaṭikābhā́yai svā́hā  
+5.2.43.8 nadī-varā́yai svā́hā  
+5.2.43.9 pā́vanyai svā́hā  
+5.2.43.10 nármadāyai svā́hā  
+[*294] Text: naḷínyai  
+  
+  
+5.2.44.1 nadī-varā́yai svā́hā  
+5.2.44.2 vidyud-rūpā́yai svā́hā  
+5.2.44.3 viśālā́yai svā́hā  
+5.2.44.4 síndhave svā́hā  
+5.2.44.5 nadī-varā́yai svā́hā  
+5.2.44.6 mr̥dv-áṅgyai svā́hā  
+5.2.44.7 sā́dhanāyai svā́hā  
+5.2.44.8 durgā́yai svā́hā  
+5.2.44.9 kātyāyányai[*295] svā́hā  
+5.2.44.10 vaiṣṇávyai svā́hā  
+[*295] cf. 5.1.174.2, kātyāyanyai, which occurs in a similar sequence of verses (i.e. 5.1.174.1-4 cf. 5.2.44.8-45.1).  
+  
+  
+5.2.45.1 vindhya-vāsínyai svā́hā  
+5.2.45.2 síddhyai svā́hā  
+5.2.45.3 viśvā́yai svā́hā  
+5.2.45.4 bhr̥gu-pátnyai svā́hā  
+5.2.45.5 sárasvatyai svā́hā  
+5.2.45.6 śríyai svā́hā  
+5.2.45.7 dhr̥tyai svā́hā  
+5.2.45.8 pávitryai svā́hā  
+5.2.45.9 prámódāyinyai svā́hā  
+5.2.45.10 bhū́r-jyeṣṭhā́yinyai svā́hā[*296]  
+[*296] jyeṣṭhā devyā ṣat nāma-mantrā iti marīciḥ | jyeṣṭhāṃ pañcabhir āhvayed ity atriḥ  
+  
+  
+5.2.46.1 bhúvar-jyeṣṭhā́yinyai svā́hā  
+5.2.46.2 súvar-jyeṣṭhāyinyai svā́hā  
+5.2.46.3 kali-rājā́yinyai svā́hā  
+5.2.46.4 kálí-patnyai svā́hā  
+5.2.46.5 dhā́tryai svā́hā  
+5.2.46.6 mahódáryai svā́hā  
+5.2.46.7 raúdryai svā́hā  
+5.2.46.8 mahā-kā́lyai[*297] svā́hā  
+5.2.46.9 surā́yai svā́hā  
+[*297] Text: kā̀ḷyai  
+  
+  
+5.2.47.1 sumúkhyai svā́hā  
+5.2.47.2 vidyud-rūpā́yai svā́hā  
+5.2.47.3 subhagā́yai svā́hā  
+5.2.47.4 sundáryai svā́hā  
+5.2.47.5 viśālā́yai svā́hā  
+5.2.47.6 padmā́kṣyai svā́hā  
+5.2.47.7 pádma-varṇiṇyai svā́hā  
+5.2.47.8 svāhā́yai svā́hā  
+5.2.47.9 śubhā́ṅgyai svā́hā  
+5.2.47.10 mr̥dv-áṅgyai svā́hā  
+  
+5.2.48.1 sādhanā́yai svā́hā  
+5.2.48.2 svadhā́yai svā́hā  
+5.2.48.3 sámr̥ddhyai svā́hā  
+5.2.48.4 kula-vr̥ddhínyai svā́hā  
+5.2.48.5 sánnatyai svā́hā  
+5.2.48.6 māyā́yai svā́hā  
+5.2.48.7 mā́taṅgyai svā́hā  
+5.2.48.8 varā́hyai svā́hā  
+5.2.48.9 varānanā́yai svā́hā  
+5.2.48.10 saṃhlādínyai svā́hā  
+  
+5.2.49.1 varārohā́yai svā́hā  
+5.2.49.2 māyā́ṅgyai svā́hā  
+5.2.49.3 múdvárthinyai svā́hā  
+5.2.49.4 rākā́yai svā́hā  
+5.2.49.5 mukhyā́yai svā́hā  
+5.2.49.6 raktā́ṅgyai svā́hā  
+5.2.49.7 varānanā́yai svā́hā  
+5.2.49.8 sinī́vā́lyai svā́hā  
+5.2.49.9 gábhástinyai svā́hā  
+5.2.49.10 hita-dā́yai svā́hā  
+  
+5.2.50.1 puṇya-dā́yai svā́hā  
+5.2.50.2 havi-rakṣakā́ya svā́hā  
+5.2.50.3 āgneyā́ya svā́hā  
+5.2.50.4 śailūṣā́ya svā́hā  
+5.2.50.5 pacanā́ya svā́hā  
+5.2.50.6 puṣpa-rakṣakā́ya svā́hā  
+5.2.50.7 haritā́ya svā́hā  
+5.2.50.8 adhivāsā́ya svā́hā  
+5.2.50.9 phullā́ya svā́hā  
+5.2.50.10 púruṣāya svā́hā  
+  
+5.2.51.1 parama-purúṣā́ya svā́hā  
+5.2.51.2 púrúṣā́tmakā́ya svā́hā  
+5.2.51.3 dharma-mayā́ya svā́hā  
+5.2.51.4 tváṣṭre svā́hā  
+5.2.51.5 rū́pa-jātāya svā́hā  
+5.2.51.6 nidhi-jā́ya svā́hā  
+5.2.51.7 plotā́dhipataye svā́hā  
+5.2.51.8 gadā́yai svā́hā  
+5.2.51.9 kaumodákyai svā́hā  
+5.2.51.10 puṇyā́yai svā́hā  
+  
+5.2.52.1 prabalā́yai svā́hā  
+5.2.52.2 sarveśvarā́ya svā́hā  
+5.2.52.3 jágannāthā́ya svā́hā  
+5.2.52.4 cāmuṇḍā́ya svā́hā  
+5.2.52.5 sarvataś-cárāya svā́hā  
+5.2.52.6 bali-rakṣakā́ya svā́hā  
+5.2.52.7 daṇḍyā́ya svā́hā  
+5.2.52.8 sarva-jñā́ya[*298] svā́hā  
+5.2.52.9 samā́ya svā́hā  
+5.2.52.10 gaviṣṭhā́ya svā́hā  
+[*298] cf. 5.1.188.3, sarvadāya, which occurs in a similar sequence of verses (i.e.5.1.188.1--4 cf. 5.2.52.6-9).  
+  
+  
+5.2.53.1 traiṣṭubhā́ya svā́hā  
+5.2.53.2 guhyā́ya svā́hā  
+5.2.53.3 ākāśā́ya svā́hā  
+5.2.53.4 háriṇyai svā́hā  
+5.2.53.5 paúṣṇyai svā́hā  
+5.2.53.6 kṣóṇyai svā́hā  
+5.2.53.7 máhyai svā́hā  
+5.2.53.8 pavitrā́ya svā́hā  
+5.2.53.9 amr̥tā́ya svā́hā  
+5.2.53.10 toyā́ya svā́hā  
+  
+5.2.54.1 gahvarā́ya svā́hā  
+5.2.54.2 vīti-hotrā́ya svā́hā  
+5.2.54.3 ābhuraṇyā́ya svā́hā  
+5.2.54.4 śuddhā́ya svā́hā  
+5.2.54.5 agnáye svā́hā  
+5.2.54.6 ásave svā́hā  
+5.2.54.7 samīraṇā́ya svā́hā  
+5.2.54.8 vāyáve svā́hā  
+5.2.54.9 pr̥ṣadaśvā́ya svā́hā  
+5.2.54.10 r̥g-vedā́ya svā́hā  
+  
+5.2.55.1 madhúne svā́hā  
+5.2.55.2 sómāya svā́hā  
+5.2.55.3 krátave svā́hā  
+5.2.55.4 yajur-vedā́ya svā́hā  
+5.2.55.5 dádhne svā́hā  
+5.2.55.6 miśrā́ya svā́hā  
+5.2.55.7 iṣṭā́ya svā́hā  
+5.2.55.8 sāma-vedā́ya svā́hā  
+5.2.55.9 ghr̥tā́ya svā́hā  
+5.2.55.10 vajrā́ya svā́hā  
+  
+5.2.56.1 yajñā́ya svā́hā  
+5.2.56.2 atharva-vedā́ya svā́hā  
+5.2.56.3 pavitrā́ya svā́hā  
+5.2.56.4 kṣīrā́ya svā́hā  
+5.2.56.5 puṇyā́ya svā́hā  
+5.2.56.6 śivā́ya svā́hā  
+5.2.56.7 muní-varāya svā́hā  
+5.2.56.8 śuddhā́ya svā́hā  
+5.2.56.9 suyoktārā́ya svā́hā  
+5.2.56.10 víṣṇave svā́hā  
+  
+5.2.57.1 vyāpíne svā́hā  
+5.2.57.2 ratnā́ya svā́hā  
+5.2.57.3 viśvā́ya svā́hā  
+5.2.57.4 kā́śyapāya svā́hā  
+5.2.57.5 viśva-mūrtáye svā́hā  
+5.2.57.6 ákṣatā́ya svā́hā  
+5.2.57.7 tákṣakāya svā́hā  
+5.2.57.8 jagád-bhúve svā́hā  
+5.2.57.9 yájad-bhuve svā́hā  
+5.2.57.10 viśva-bhúve svā́hā  
+  
+5.2.58.1 rudra-bhúve svā́hā  
+5.2.58.2 brahma-bhúve svā́hā  
+5.2.58.3 bhúvodbhúve[*299] svā́hā  
+5.2.58.4 páṅktīśā́ya svā́hā  
+5.2.58.5 vara-dā́ya svā́hā  
+5.2.58.6 mitrā́ya svā́hā  
+5.2.58.7 bhūta-nāyakā́ya svā́hā  
+5.2.58.8 pavitrā́ya svā́hā  
+5.2.58.9 mantrā́ya svā́hā  
+5.2.58.10 japyā́ya svā́hā  
+[*299] cf. 5.1.172.7, bhuvar-bhuve, which occurs in a similar sequence of verses (i.e. 5.1.172.2-7 cf. 5.2.57.8-58.3).  
+  
+  
+5.2.59.1 śuddhāya svā́hā  
+5.2.59.2 sarva-tīrtha-jálā́ya svā́hā  
+5.2.59.3 puṇyā́ya svā́hā  
+5.2.59.4 pávanāya svā́hā  
+5.2.59.5 puṇya-pūjitā́ya svā́hā  
+5.2.59.6 tákṣakāya svā́hā  
+5.2.59.7 sarpa-rājā́ya svā́hā  
+5.2.59.8 kṣiti-jā́ya svā́hā  
+5.2.59.9 dharā-dharā́ya svā́hā  
+5.2.59.10 medínyai svā́hā  
+  
+5.2.60.1 kúhvai svā́hā  
+5.2.60.2 sudaṃṣṭrā́yai svā́hā  
+5.2.60.3 kṣamā́yaí svā́hā  
+5.2.60.4 anumátyai svā́hā  
+5.2.60.5 sva-rūpā́yai svā́hā  
+5.2.60.6 tánv-aṅgyai svā́hā  
+5.2.60.7 subhagā́yai svā́hā  
+5.2.60.8 brahmā́ṇyai[*300] svā́hā  
+5.2.60.9 píṅgalāyai[*301] svā́hā  
+5.2.60.10 gaúryai svā́hā  
+[*300] cf. 5.1.184.9, brāhmaṇyai, which occurs in a similar sequence of verses (i.e. 5.1.184.9-187.6 cf. 5.2.60.8-63.5).  
+[*301] Text: píṅgáḷāyai  
+  
+  
+  
+5.2.61.1 sárvato-mukhyai svā́hā  
+5.2.61.2 sarit-priyā́yai svā́hā  
+5.2.61.3 viśva-rūpā́yai svā́hā  
+5.2.61.4 ugrā́yai svā́hā  
+5.2.61.5 gaṇéśvaryai svā́hā  
+5.2.61.6 vaíśākhínyai svā́hā  
+5.2.61.7 śíkhaṇḍínyai svā́hā  
+5.2.61.8 gāyátryai svā́hā  
+5.2.61.9 ṣáṇ-múkhyai svā́hā  
+5.2.61.10 víśva-garbhā́yai svā́hā  
+  
+5.2.62.1 viṣormiṇyaí svā́hā  
+5.2.62.2 kr̥ṣṇā́yai svā́hā  
+5.2.62.3 rohíṇyai[*302] svā́hā  
+5.2.62.4 vārā́hyai svā́hā  
+5.2.62.5 vara-dā́yai svā́hā  
+5.2.62.6 úrvyai svā́hā  
+5.2.62.7 vajra-dáṃṣṭryai[*303] svā́hā  
+5.2.62.8 jáyantyai svā́hā  
+5.2.62.9 kauśíkyai svā́hā  
+5.2.62.10 indrā́ṇyai svā́hā  
+[*302] 1946 edition: drohiṇyai  
+[*303] Text: daṃṣṭyai  
+  
+  
+5.2.63.1 ghanāghanányai svā́hā  
+5.2.63.2 kālyai[*304] svā́hā  
+5.2.63.3 nā́lī́ka-daṃṣṭryai svā́hā  
+5.2.63.4 vr̥ṣá-hā́yai[*305] svā́hā  
+5.2.63.5 veda-dhāríṇyai svā́hā  
+5.2.63.6 jayā́yai svā́hā  
+5.2.63.7 sukha-pradā́yai svā́hā  
+5.2.63.8 samr̥ddhínyai svā́hā  
+5.2.63.9 bhadrā́yai svā́hā  
+5.2.63.10 vijayā́yai svā́hā  
+[*304] Text: kāḷyai  
+[*305] cf. 5.1.187.5, vr̥ṣabha-vāhanāyai, which occurs in a similar sequence of verses (i.e. 5.1.184.9-187.6 cf. 5.2.60.8-63.5).  
+  
+  
+  
+5.2.64.1 viśokā́yai svā́hā  
+5.2.64.2 puṇyā́yai svā́hā  
+5.2.64.3 kāmānandā́yai svā́hā  
+5.2.64.4 vindā́yai svā́hā  
+5.2.64.5 lābhā́yai svā́hā  
+5.2.64.6 áprámattā́yai svā́hā[*306]  
+5.2.64.7 ajayā́yai svā́hā[*307]  
+5.2.64.8 nandákā́yai svā́hā  
+5.2.64.9 madhu-jánanyai svā́hā  
+5.2.64.10 sumuktā́yai svā́hā  
+[*306] 1946 edition: prámattā́yai  
+[*307] 1984 edition: ajeyam; 1946 edition: ajayā́yai  
+  
+  
+  
+5.2.65.1 subhagā́yai svā́hā  
+5.2.65.2 puṣṭikā́yai svā́hā  
+5.2.65.3 amóghavatyai svā́hā  
+5.2.65.4 puṇyā́yai svā́hā  
+5.2.65.5 prámattā́yai svā́hā  
+5.2.65.6 kumúdvatyai svā́hā  
+5.2.65.7 susahā́yai svā́hā  
+5.2.65.8 susaṃbharā́yai svā́hā  
+5.2.65.9 nivŕ̥ttyai[*308] svā́hā  
+5.2.65.10 utpalakā́yai svā́hā  
+[*308] Text: nivŕ̥tyai  
+  
+  
+5.2.66.1 sugandhínyai svā́hā  
+5.2.66.2 sarva-modā́yai svā́hā  
+5.2.66.3 sarvātmákā́yai svā́hā  
+5.2.66.4 víśokā́yai svā́hā  
+5.2.66.5 dhana-rā́śyai svā́hā  
+5.2.66.6 akṣatā́yai svā́hā  
+5.2.66.7 amitā́yai svā́hā  
+5.2.66.8 kuṇṭhínyai svā́hā  
+5.2.66.9 nandínyai svā́hā  
+5.2.66.10 dharítryai svā́hā  
+  
+5.2.67.1 rajíta-priyāyai[*309] svā́hā  
+5.2.67.2 gránthinyai[*310] svā́hā  
+5.2.67.3 vegínyai svā́hā  
+5.2.67.4 prajayā́yai svā́hā  
+5.2.67.5 prabarhíṇyai[*311] svā́hā  
+5.2.67.6 kr̥cchríṇyai svā́hā  
+5.2.67.7 śākhínyai svā́hā  
+5.2.67.8 vāhínyai svā́hā  
+5.2.67.9 yoktríṇyai svā́hā  
+5.2.67.10 kuṃṭhínyai svā́hā  
+[*309] cf. 5.1.174.8, rajata-priyāyai, which occurs in a similar sequence of verses (i.e. 5.1.174.5-179.10 cf. 5.2.66.8-72.3).  
+[*310] Text: grándhinyai  
+[*311] cf. 5.1.175.2, pravāhiṇyai, which occurs in a similar sequence of verses (i.e. 5.1.174.5-179.10 cf. 5.2.66.8-72.3).  
+  
+  
+  
+5.2.68.1 jāríṇyai svā́hā  
+5.2.68.2 cardínyai svā́hā  
+5.2.68.3 pravāhínyai svā́hā  
+5.2.68.4 vikāríṇyai svā́hā  
+5.2.68.5 dāmínyai svā́hā  
+5.2.68.6 baisínyai[*312] svā́hā  
+5.2.68.7 vidyutā́yai svā́hā  
+5.2.68.8 dadrúṇyai svā́hā  
+5.2.68.9 indu-karā́yai[*313] svā́hā  
+5.2.68.10 saumanásyai svā́hā  
+[*312] cf. 5.1.176.3, bisinyai, which occurs in a similar sequence of verses (i.e. 5.1.174.5-179.10 cf. 5.2.66.8-72.3).  
+[*313] cf. 5.1.176.6, indu-kalāyai, which occurs in a similar sequence of verses (i.e. 5.1.174.5-179.10 cf. 5.2.66.8-72.3).  
+  
+  
+  
+5.2.69.1 právidyutā́yai svā́hā  
+5.2.69.2 indriya-vikāríṇyai svā́hā  
+5.2.69.3 árvavatyai svā́hā  
+5.2.69.4 gaṅgā-vā́ṇyai svā́hā  
+5.2.69.5 sr̥jántyai svā́hā  
+5.2.69.6 pádmā-pitre svā́hā  
+5.2.69.7 dhātr̥-nāthā́ya[*314] svā́hā  
+5.2.69.8 khyātīśā́ya svā́hā  
+5.2.69.9 bhŕ̥gave svā́hā  
+5.2.69.10 sambhūtīśā́ya svā́hā  
+[*314] Text: -nādhā́ya  
+  
+  
+5.2.70.1 marī́caye svā́hā  
+5.2.70.2 śocíṣmate svā́hā  
+5.2.70.3 paurṇamāsá-bhŕ̥tā́ya svā́hā  
+5.2.70.4 kṣamādhavā́ya svā́hā  
+5.2.70.5 pulahā́ya svā́hā  
+5.2.70.6 kardamāya[*315] svā́hā  
+5.2.70.7 mahā́-dhr̥taye svā́hā  
+5.2.70.8 pulastyā́ya svā́hā  
+5.2.70.9 prītí-bhartre svā́hā  
+5.2.70.10 vaśaṅ-kárā́ya svā́hā  
+[*315] 1946 edition: kardamādyā́ya; 1984 edition: kardamāya  
+  
+  
+5.2.71.1 dāntinī-rājā́ya[*316] svā́hā  
+5.2.71.2 siddhi-rājā́ya svā́hā  
+5.2.71.3 niṣka-sūnáve svā́hā  
+5.2.71.4 sannátīśā́ya svā́hā  
+5.2.71.5 krátave svā́hā  
+5.2.71.6 ūrjā́-pataye svā́hā  
+5.2.71.7 rāja-pūrvā́ya svā́hā  
+5.2.71.8 vásiṣṭhāya svā́hā  
+5.2.71.9 vā́k-pataye svā́hā  
+5.2.71.10 átraye svā́hā  
+[*316] Text: dāntanī-rājā́ya corrected to dāntinī-rājā́ya.  cf. VMP 5.1.178.8  
+  
+  
+5.2.72.1 niyāmakā́ya svā́hā  
+5.2.72.2 satya-netra-gúrave svā́hā  
+5.2.72.3 anasūyā́-várāya svā́hā  
+5.2.72.4 agastyā́ya svā́hā  
+5.2.72.5 muni-varā́ya svā́hā  
+5.2.72.6 dhr̥tīśā́ya svā́hā  
+5.2.72.7 kúmbha-sambhavāya svā́hā  
+5.2.72.8 vatsarébhyas svā́hā  
+5.2.72.9 vásu-sutebhyas svā́hā  
+5.2.72.10 nidhíbhyas svā́hā  
+  
+5.2.73.1 dharmá-sūnukébhyas svā́hā  
+5.2.73.2 prāṇā́ya svāha  
+5.2.73.3 apānā́ya svā́hā  
+5.2.73.4 vyānā́ya svā́hā  
+5.2.73.5 udānā́ya svā́hā  
+5.2.73.6 samānā́ya svā́hā  
+5.2.73.7 marúdbhyas svā́hā  
+5.2.73.8 loka-dharébhyas svā́hā  
+5.2.73.9 saptá-saptá-gáṇebhyas svā́hā  
+5.2.73.10 marudvatī́-sutébhyas svā́hā  
+  
+5.2.74.1 śata-rudrébhyas svā́hā  
+5.2.74.2 oṣadhīśebhyas svā́hā  
+5.2.74.3 try-ambákébhyas svā́hā  
+5.2.74.4 kapālá-pā́ṇibhyas svā́hā  
+5.2.74.5 ajaíkapade svā́hā  
+5.2.74.6 ahirbúdhnaye svā́hā  
+5.2.74.7 pinākíne svā́hā  
+5.2.74.8 aparājitā́ya svā́hā  
+5.2.74.9 mr̥ga-vyādhā́ya svā́hā  
+5.2.74.10 śarvā́ya svā́hā  
+  
+5.2.75.1 nírr̥taye svā́hā  
+5.2.75.2 īśvárā́ya svā́hā  
+5.2.75.3 kapālíne svā́hā  
+5.2.75.4 bhavā́ya svā́hā  
+5.2.75.5 sthā́ṇave svā́hā  
+5.2.75.6 dhā́tre svā́hā  
+5.2.75.7 aryámṇe svā́hā  
+5.2.75.8 a(g)ṃśā́ya svā́hā  
+5.2.75.9 mitrā́ya svā́hā  
+5.2.75.10 váruṇāya svā́hā  
+  
+5.2.76.1 bhágāya svā́hā  
+5.2.76.2 índrāya svā́hā  
+5.2.76.3 vivásváte svā́hā  
+5.2.76.4 pūṣṇe svā́hā  
+5.2.76.5 parjányāya svā́hā  
+5.2.76.6 tváṣṭre svā́hā  
+5.2.76.7 víṣṇave svā́hā  
+5.2.76.8 gandharvébhyas svā́hā  
+5.2.76.9 ramyébhyas svā́hā  
+5.2.76.10 sura-jébhyas svā́hā  
+  
+5.2.77.1 saumya-jébhyas svā́hā  
+5.2.77.2 múnibhyas svā́hā  
+5.2.77.3 tapo-ídhipébhyas svā́hā  
+5.2.77.4 kuśébhyas svā́hā  
+5.2.77.5 pā́pa-vināśibhyas svā́hā  
+5.2.77.6 apsaróbhyas svā́hā  
+5.2.77.7 amr̥ta-jā́bhyas svā́hā  
+5.2.77.8 bhoga-vahā́bhyas svā́hā  
+5.2.77.9 svará-jābhyas[*317] svā́hā  
+5.2.77.10 aśvíbhyā(g)ṃ svā́hā  
+[*317] 1984 edition: sáró-jā́bhyas; 1946 edition: svará-jābhyas  
+  
+  
+5.2.78.1 yamálā́bhyā(g)ṃ[*318] svā́hā  
+5.2.78.2 yugmā́bhyā(g)ṃ svā́hā  
+5.2.78.3 tvāṣṭrī́-pútrābhyā(g)ṃ svā́hā  
+5.2.78.4 dharā́ya svā́hā  
+5.2.78.5 dhruvā́ya svā́hā  
+5.2.78.6 somā́ya svā́hā  
+5.2.78.7 adbhyás svā́hā  
+5.2.78.8 analā́ya svā́hā  
+5.2.78.9 anílā́ya svā́hā  
+5.2.78.10 prátyūṣā́ya svā́hā  
+[*318] Text: yamáḷābhyā(g)ṃ  
+  
+  
+5.2.79.1 prabhāsā́ya svā́hā  
+5.2.79.2 vidyā-dharébhyas svā́hā  
+5.2.79.3 mantra-balébhyas svā́hā  
+5.2.79.4 puṣpá-jebhyas svā́hā  
+5.2.79.5 bhoga-jébhyas svā́hā  
+5.2.79.6 tuṃbáráve svā́hā  
+5.2.79.7 muni-varā́ya svā́hā  
+5.2.79.8 svareśā́ya svā́hā  
+5.2.79.9 véda-rūpiṇe svā́hā  
+5.2.79.10 nāradā́ya svā́hā  
+  
+5.2.80.1muni-várāya svā́hā  
+5.2.80.2 gāna-rūpā́ya svā́hā  
+5.2.80.3 brahmá-saṃbhávā́ya svā́hā  
+5.2.80.4 r̥túbhyas svā́hā  
+5.2.80.5 mahā-rāśíbhyas svāḥā  
+5.2.80.6 gandharvā́bhyas svā́hā  
+5.2.80.7 tīrthébhyas svā́hā  
+5.2.80.8 prajā́-pataye svā́hā  
+5.2.80.9 sráṣṭre svā́hā  
+5.2.80.10 véda-mayāya svā́hā  
+  
+5.2.81.1 brahma-rūpā́ya svā́hā  
+5.2.81.2 mudgalā́ya svā́hā  
+5.2.81.3 muni-varā́ya svā́hā  
+5.2.81.4 śuddhā́ya svā́hā  
+5.2.81.5 sarvá-jñā́ya svā́hā  
+5.2.81.6 háleśāya svā́hā  
+5.2.81.7 mahā-balā́ya svā́hā  
+5.2.81.8 māyāṅgā́ya svā́hā  
+5.2.81.9 vára-dāyine svā́hā  
+5.2.81.10 yakṣā́ya svā́hā  
+  
+5.2.82.1 sarvá-vará-dā́ya svā́hā  
+5.2.82.2 súkhine svā́hā  
+5.2.82.3 deva-yonaye svā́hā  
+5.2.82.4 jā́mbavā́ya svā́hā  
+5.2.82.5 bāla-rūpā́ya svā́hā  
+5.2.82.6 darśanīyā́ya svā́hā  
+5.2.82.7 súndarāya svā́hā  
+5.2.82.8 asurā́ya svā́hā  
+5.2.82.9 daiteyā́ya svā́hā  
+5.2.82.10 ghóra-rūpāya svā́hā  
+  
+5.2.83.1 bhayānakā́ya svā́hā  
+5.2.83.2 kínnara-mithunāya[*319] svā́hā  
+5.2.83.3 tīrthā́ya svā́hā  
+5.2.83.4 sáṅgītā́ya svā́hā  
+5.2.83.5 pákṣi-rūpāya svā́hā  
+5.2.83.6 práhlādā́ya svā́hā  
+5.2.83.7 prájánanāya svā́hā  
+5.2.83.8 viṣṇu-bhaktā́ya svā́hā  
+5.2.83.9 gádādharāya svā́hā  
+5.2.83.10 madanā́ya svā́hā  
+[*319] Text: kínnara-midhunāya  
+  
+  
+5.2.84.1 kāmā́ya svā́hā  
+5.2.84.2 súndarāya svā́hā  
+5.2.84.3 divya-rūpā́ya svā́hā  
+5.2.84.4 vīpā́yai[*320] svā́hā  
+5.2.84.5 vidyud-rū́pā́yaí svā́hā  
+5.2.84.6 viśālā́ṅgyai svā́hā  
+5.2.84.7 medhā́yai svā́hā  
+5.2.84.8 vyājínyai svā́hā  
+5.2.84.9 súbhagāyai svā́hā  
+5.2.84.10 sundáryai svā́hā  
+[*320] 1946 edition: vipā́yai  
+  
+  
+5.2.85.1 viśuddhā́yai svā́hā  
+5.2.85.2 kāmínyai svā́hā  
+5.2.85.3 kāntā́yai svā́hā  
+5.2.85.4 śubhā́ṅgyai svā́hā  
+5.2.85.5 vímalāyai svā́hā  
+5.2.85.6 cándra-prabhāyai svā́hā  
+5.2.85.7 tanv-áṅgyai svā́hā  
+5.2.85.8 śvéta-rūpāyai svā́hā  
+5.2.85.9 dr̥ḍha-vratā́yai svā́hā  
+5.2.85.10 súndarāya svā́hā  
+  
+5.2.86.1 sura-príyā́ya svā́hā  
+5.2.86.2 śubhānandā́ya svā́hā  
+5.2.86.3 saumyā́ya svā́hā  
+5.2.86.4 bráhmaṇe svā́hā  
+5.2.86.5 áryamṇe svā́hā  
+5.2.86.6 daṇḍa-dharā́ya svā́hā  
+5.2.86.7 pā́śa-bhr̥te svā́hā  
+5.2.86.8 dhana-dā́ya svā́hā  
+5.2.86.9 savítre svā́hā  
+5.2.86.10 sāvitrā́ya svā́hā  
+  
+5.2.87.1 indrā́ya svā́hā  
+5.2.87.2 indrā-jā́ya svā́hā  
+5.2.87.3 rudrā́ya svā́hā  
+5.2.87.4 rudra-jā́ya[*321] svā́hā  
+5.2.87.5 ádbhyas svā́hā  
+5.2.87.6 ā́pa-vatsāya svā́hā  
+5.2.87.7 ī́śānāya[*322] svā́hā  
+5.2.87.8 parjanyā́ya svā́hā  
+5.2.87.9 jayantā́ya svā́hā  
+5.2.87.10 mahendrā́ya[*323] svā́hā  
+[*321] cf.  VMP 5.1.21.1  rudrā-jam  
+[*322] 1984 edition: ī́śāya  
+[*323] cf.  VMP 5.1.21.1  māhendram  
+  
+  
+  
+5.2.88.1 nāgā́ya svā́hā  
+5.2.88.2 bhūtā́ya svā́hā  
+5.2.88.3 yakṣā́ya svā́hā  
+5.2.88.4 ādityā́ya svā́hā  
+5.2.88.5 satyakā́ya svā́hā  
+5.2.88.6 bhŕ̥śāntā́ya svā́hā  
+5.2.88.7 antárikṣāya svā́hā  
+5.2.88.8 durgā́yai svā́hā  
+5.2.88.9 ghóṭa-mukhyai svā́hā  
+5.2.88.10 dhā́tryai svā́hā  
+  
+5.2.89.1 vapuṣā́ya svā́hā  
+5.2.89.2 ágnaye svā́hā  
+5.2.89.3 vitathā́ya svā́hā[*324]  
+5.2.89.4 gr̥há-kṣatā́ya svā́hā  
+5.2.89.5 pū́ṣaṇāya svā́hā  
+5.2.89.6 rā́kṣasā́ya svā́hā  
+5.2.89.7 jayā́ya svā́hā  
+5.2.89.8 kr̥ṣṇā́ya svā́hā  
+5.2.89.9 yamā́ya svā́hā  
+5.2.89.10 gandharvā́ya svā́hā  
+[*324] 1984 edition: vitadhāya; 1946 edition: vitathāya  
+  
+  
+5.2.90.1 bhr̥ṅga-rājā́ya svā́hā  
+5.2.90.2 suruṃḍā́ya svā́hā  
+5.2.90.3 r̥ṣáye svā́hā  
+5.2.90.4 śivā́ya svā́hā  
+5.2.90.5 prāṇā́ya svā́hā  
+5.2.90.6 kávaye svā́hā  
+5.2.90.7 nírr̥táye svā́hā  
+5.2.90.8 dauvārikā́ya svā́hā  
+5.2.90.9 sugrīvā́ya svā́hā  
+5.2.90.10 puṣpa-dantā́ya svā́hā  
+  
+5.2.91.1 śakrā́ya svā́hā  
+5.2.91.2 puru-hūtā́ya svā́hā  
+5.2.91.3 vidyā́yai svā́hā  
+5.2.91.4 sarit-pátaye svā́hā  
+5.2.91.5 asurā́ya svā́hā  
+5.2.91.6 śóṣaṇāya svā́hā  
+5.2.91.7 rāgā́ya svā́hā  
+5.2.91.8 yáśase svā́hā  
+5.2.91.9 bhadrā́yai svā́hā  
+5.2.91.10 véda-bhr̥te svā́hā  
+  
+5.2.92.1 tāpasā́ya svā́hā  
+5.2.92.2 jávanāya svā́hā  
+5.2.92.3 nāgā́ya svā́hā  
+5.2.92.4 mukhyā́ya svā́hā  
+5.2.92.5 bhallāṭā́ya svā́hā  
+5.2.92.6 sandhuṣā́ya[*325] svā́hā  
+5.2.92.7 viṃdyā́ya svā́hā  
+5.2.92.8 amitā́ya svā́hā  
+5.2.92.9 somā́ya svā́hā  
+5.2.92.10 argalā́ya[*326] svā́hā  
+5.2.92.11 ádityai svā́hā  
+5.2.92.12 sū́ri-devāya svā́hā  
+5.2.92.13 carákyai svā́hā  
+5.2.92.14 devatā́ryai svā́hā  
+5.2.92.15 pūtanā́yai svā́hā  
+5.2.92.16 pāpa-rākṣásyai svā́hā  
+5.2.92.17 pāñca-bhautikā́ya svā́hā  
+[*325] 1946 edition: sanduṣā́ya  
+[*326] Text: argaḷā̀ya  
+  
+  
+  
+háriḥ óṃ tatth sat  
+  
+________________________________________  
+  
+  
+Śrī Śrī vikhanasa mahā-gurave namaḥ  
+Śrī-vaikhānasa-mantra-praśnāṣṭake  
+Ṣaṣṭaḥ-praśna-prārambhaḥ  
+  
+6.1.1 hariḥ oṃ  
+6.1.2 áto devā́ avantu no yáto víṣṇur vicakramé  
+pr̥thivyā́s saptá-dhā́mabhis svā́hā  
+6.1.3 idáṃ víṣṇur ví cakrame tredhā́ ní dadhe padám  
+sámūḍham asya pā(g)ṃsuré svā́hā  
+6.1.4 trī́ṇi padā́ ví cakrame víṣṇur gopā́ ádābhyaḥ  
+ [t]áto[*327] dhármāṇi dhāráyan svā́hā  
+6.1.5 víṣṇoḥ kármāṇi paśyata yáto vratā́ni paspaśé  
+índrasya yújyas sákhā svā́hā  
+6.1.6 tád víṣṇoḥ paramáṃ padá(g)ṃ sádā paśyanti sūráyaḥ  
+divī́va cákṣur ā́tata(gg)ṃ svā́hā  
+6.1.7 tád víprāso vipanyávo jāgr̥vā́ṃsas sám indhate  
+víṣṇor yát paramáṃ padá(gg)ṃ svā́hā  
+[*327] RV: áto  
+  
+  
+6.0.1 cákṣur ā́tata(gg)ṃ svā́hā dvé ca  
+  
+6.2.1[*328] sahásra-śīrṣā púruṣas sahasrākṣás sáhásra-pāt  
+sá bhū́miṃ viśváto vr̥tvā́ty atiṣṭad daśāṅgulá(gg)ṃ svā́hā  
+6.2.2 púruṣa evédá(g)ṃ sárvaṃ yád bhūtáṃ yác ca bhávyam  
+utā́mr̥tatvásyéśāno yad ánnenātiróhati svā́hā  
+6.2.3 etā́vān asya mahimā́to jyā́yā́(g)ṃś ca pū́ruṣaḥ  
+pā́do 'sya víśvā bhūtā́ni tri-pā́d asyāmŕ̥taṃ diví svā́hā  
+6.2.4 tri-pā́d ūrdhvá úd ait púruṣaḥ pā́do 'syehā́bhávāt púnaḥ  
+táto víṣvaṅ vy akrāmat sāśanānaśané abhí svā́hā  
+6.2.5 tásmād virā́ḍ[*329] ajāyata virā́jo ádhí pū́ruṣaḥ  
+sá jāto áty aricyata paścā́d bhū́mim átho purás svā́hā  
+[*328] Begin TA 3.12  
+[*329] RV: virā́l  
+  
+  
+  
+6.3.1 yát púruṣena havíṣā devā́ yajñám átanvata  
+vasantó asyāsīd ā́jyam grīṣmá idhmáś śarád dhavís svā́hā  
+6.3.2 saptā́syāsan paridháyas trís saptá samídhaḥ kr̥tā́ḥ  
+devā́ yád yajñáṃ tánvānā́ ábadhnan púruṣaṃ paśú(gg)ṃ svā́hā[*330]  
+6.3.3 táṃ yajñáṃ barhíṣi praúkṣan púruṣaṃ jātám agratáḥ  
+téna devā́ áyajanta sādhyā́ r̥ṣayaś ca yé svā́hā  
+6.3.4 tásmād yajñā́th[*331] sarva-hútas sáṃbhr̥taṃ pŕ̥ṣádājyáṃ  
+paśū́(g)ṃs tā́(g)ṃś cakre vāyavyā́n ā́raṇyā́n grāmyā́ś ca yé svā́hā  
+6.3.5 tásmād yajñā́th[*332] sarva-húto[*333] ŕ̥cas sā́māni jajñire  
+chándā́(g)ṃsi jajñire tásmād yájus tásmād ajāyata svā́hā  
+[*330] RV 10.90.15 [out of order]; TA; (VC p. 973)  
+[*331] RV: yajñā́t  
+[*332] RV: yajñā́t  
+[*333] RV: sarva-húta  
+  
+  
+  
+6.4.1 tásmād áśvā ajāyanta yé ké cobhayā́dataḥ  
+gā́vo ha jajñire tásmāt tásmāj jātā́ ajāváyas svā́hā  
+6.4.2 yát púruṣam vy adadhuḥ katidhā́ vy kalpayan  
+múkhaṃ kím asya kaú bāhū́ kā́ ūrū́ pā́dāv[*334] ucyete svā́hā  
+6.4.3 brāhmaṇó 'sya múkham āsīd bāhū́ rājanyáḥ kr̥táḥ  
+ūrū́ tád asya yád vaíśyaḥ padbhyā́(g)ṃ śūdró ajāyata svā́hā  
+6.4.4 candrámā mánaso jātáś cákṣos sū́ryo ajāyata  
+múkhād índraś cāgníś ca prāṇā́d vāyur ajāyata svā́hā  
+6.4.5 nā́bhyā āsīd antárikṣaṃ śīrṣṇó dyáus sám avartata  
+padbhyā́ṃ bhū́mir díśaś śrótrāt táthā lokā́(g)ṃ akalpayan[*335] svā́hā  
+6.4.6 védāhám etáṃ púruṣaṃ mahā́ntam ādityá-varṇaṃ támasas tú pāré  
+sárvāṇi rūpā́ṇi vicítya dhī́ro[*336] nā́māni kr̥tvā́bhivádan yádā́ste svā́hā  
+6.4.7 dhātā́ purástād yám udājahā́ra śakráh právidvā́n pradíśaś cátasraḥ  
+tám eváṃ vidvā́n amŕ̥ta ihá bhavati nā́nyáh pánthā áyanāya vidyate svā́hā[*337]  
+6.4.8 yajñéna yajñám ayajanta devā́s tā́ni dhármāṇi práthamā́ny āsan[*338]  
+té ha nā́kaṃ mahimā́nas sacante[*339] yatra pū́rve sādhyā́s sánti devā́s svā́hā[*340]  
+[*334] RV: pā́dā; TA: pādāv  
+[*335] TA: akalpayann  
+[*336] TA: dhī́raḥ  
+[*337] cf. p. 407 tam eva vi...; TA 3.12.7  (VC p. 518)  
+[*338] TA: āsann  
+[*339] RV: sacanta  
+[*340] End TA 3.12  
+  
+  
+  
+6.0.2 pura svā́hā 'jāyáta svā́hā 'kalpayan svā́hā ṣaṭ ca  
+  
+6.5.1 híraṇya-varṇāṃ háriṇīṃ suvárṇa rajatás rajām  
+candrā́ṃ hiráṇmayīṃ lakṣmī́ṃ jā́tavedo mam ā́vaha svā́hā[*341]  
+6.5.2 tāṃ ma ā́vaha jā́ta vedo lakṣmī́m ánapagāmínīm  
+yásyāṃ híraṇyaṃ vindéyaṃ gā́máśvaṃ púrúṣā́n aháṃ svā́hā[*342]  
+6.5.3 aśva-pūrvā́ṃ[*343] ratha-madhyā́ṃ hastínād aprabódhinīm  
+śríyaṃ devī́m úpa hvaye śrī́r mā devī́ juṣatāṃ svā́hā[*344]  
+6.5.4 kāṃsosmi tā́ṃ híraṇya prākā́rā mārdrā́ṃ jválantīṃ tr̥ptā́ṃ tarpáyantīm  
+padme sthítā́ṃ padmá-varṇāṃ tvā́m ihópa-hvaye śríyaṃ svā́hā[*345]  
+6.5.5 candrā́ṃ prabhāsā́ṃ yaśás ā jválantīṃ śríyaṃ loké devá-juṣṭām udārā́m  
+tā́ṃ padmánemīṃ śáraṇam aháṃ prápadye 'lakṣmī́r me naśyatāṃ tvā́ṃ vr̥ṇomi svā́hā[*346]  
+[*341] Beginning here with verse 6.5.1 and ending with 6.7.7 we find the “Śrī-sūkta” of the R̥g Veda Khilas.  The verse numbers given are from Scheftelowitz, pp. 72-73,  RVKh 2.6.1-15.  The verse numbers in parentheses are from Bloomfield. RVKh 2.6.1 (5.87.1) (VC p. 1069)  
+[*342] RVKh 2.6.2 (5.87.2) (VC p. 462)  
+[*343] RVKh/VC: aśvapūrṇāṃ  
+[*344] RVKh 2.6.3 (5.87.3) (VC p. 127)  
+[*345] RVKh 2.6.4 (5.87.4) (VC p. 323)  
+[*346] RVKh 2.6.5 (5.87.5) (VC p. 366)  
+  
+  
+  
+6.6.1 ādityá-varṇe tápasó 'dhí-jātó vánas-páti stáva vr̥kṣó 'thá[*347] bilváḥ  
+tásya phálāni tápasā́ nudantu māyā́ntarā yā́ś ca bāhyā́ alakṣmī́s svā́hā[*348]  
+6.6.2 úpaitu mā́ṃ deva-sakháḥ kīrtíś ca máṇinā sahá  
+prādur bhutó 'smi rāṣṭre 'smín kīrtím r̥ddhiṃ dadā́tu me svā́hā[*349]  
+6.6.3 kṣút pipāsā́m alāṃ jyeṣṭā́m alakṣmī́ṃ nāśayāmy áhám  
+ábhūtim ásamr̥ddhiṃ cá sarvā́ṃ nír ṇudame gŕ̥hāt svā́hā[*350]  
+6.6.4 gándha-dvārā́ṃ durādharṣān nityá puṣṭāṃ karīṣiṇim  
+īśvárī́(g)ṃ sarva-bhūtānāṃ tā́m ihópa hvaye śríyam svā́hā[*351]  
+6.6.5 manasaḥ kā́mam ā́kutiṃ vācás satyám aśīmahi  
+paśūnā́ṃ rūpám annasya máyi śrī́ś śrayatāṃ yáśas svā́hā[*352]  
+[*347] Text: 'dhá  
+[*348] RVKh 2.6.6 (5.87.6) (VC p. 163)  
+[*349] RVKh 2.6.7 (5.87.7) (VC p. 272)  
+[*350] RVKh 2.6.8 (5.87.8) cf. TAA 10.33  (VC p. 340)  
+[*351] RVKh 2.6.9 (5.87.9) cf. TA 10.1.10; MahānU 4.8  (VC p. 343)  
+[*352] RVKh 2.6.10 (5.87.10) cf. VS 39.4; ŚB 14.3.2.19; KŚ 26.7.49 [These references for first line of verse.] (VC p.683) cf. VS 39.4; ŚB 14.3.2.20; TB 2.4.6.6 [These references for second line of verse.] (VC p. 578)  
+  
+  
+  
+6.7.1 kardámena prajā bhūtā mayi sámbhava kardámá  
+śríyaṃ vāsáya me kulé[*353] mātáraṃ padma-mā́linīṃ svā́hā[*354]  
+6.7.2 ā́pas sr̥jántu snigdhāni[*355] ciklī́tá vasa me gŕ̥hé  
+ní ca devī́ṃ mātáraṃ śríyaṃ vāsaya me kulé svā́hā[*356]  
+6.7.3 ārdrā́ṃ[*357] puṣkáriṇīṃ puṣṭíṃ piṅgálā́ṃ[*358] padma-mālínī́m[*359]  
+6.7.4 candrā́ṃ hiráṇmayīṃ lakṣmī́ṃ jā́tavedo ma ā́vaha svā́hā[*360]  
+6.7.5 ā́rdrā́ṃ yaṣkáriṇīṃ[*361] yaṣṭiṃ suvarṇā́ṃ hema-mālínī́m[*362]  
+6.7.6 sūryā́ṃ hiráṇmayīṃ lakṣmī́ṃ jā́tavedo ma ā́ vaha[*363] svā́hā[*364]  
+6.7.7 tā́ṃ ma ā́ vaha játavedo lakṣmī́m ánapagāmánīm  
+yásyāṃ híraṇyaṃ prábhūtaṃ gāvo dāsyó 'śvān vindéyaṃ púruṣān aháṃ svā́hā[*365]  
+6.7.8 mahā-devyaí ca vidmáhe viṣṇu-patnyaí ca dhīmahi  
+tán no lakṣmīḥ pracodáyāt svā́hā  
+[*353] RVKh/VC: gr̥he  
+[*354] RVKh 2.6.11 (5.87.11) (VC p. 320)  
+[*355] Text: sigdhāni  
+[*356] RVKh 2.6.12 (5.87.12) (VC p. 172)  
+[*357] RVKh/IS: pakvā́m; RVKh/VC: ārdrā́ṃ  
+[*358] Text: piṅgáḷā́ṃ  
+[*359] RVKh 2.6.13a (5.87.14a) (VC p. 186)  
+[*360] RVKh 2.6.14b (5.87.14c) (VC p. 366)  
+[*361] RVKh: puṣkáriṇīṃ  
+[*362] RVKh 2.6.14a (5.87.13a) (VC p. 186)  
+[*363] RVKh: mámā́ vaha replaces ma ā́ vaha  
+[*364] RVKh 2.6.13b (5.87.13c) (VC p. 1027) In the above four verses, 5.6.7.5-8, note the variation between IS and VC in the order of corresponding verse numbers.  IS: 2.6.13a, 14b. 14a, 13b.  VC: 5.87.14a, 14c, 13a, 13c.  
+[*365] RVKh 2.6.15 (5.87.15)  
+  
+  
+  
+6.0.3 vr̥ṇomi svā́hā yaśa svā́hā nahaṃ svā́hā dvé ca  
+  
+6.8.1 bhūmir bhūmnā́ dyáur variṇā́ntarikṣaṃ mahitvā́  
+upásthe te devy adite 'gním annādám annā́dyāyā́dadhe svā́hā[*366]  
+6.8.2 āyáṃ gáuḥ pŕ̥śnir akramīd asanan mātáraṃ punaḥ  
+pitáraṃ ca prayán sthúvás[*367] svā́hā[*368]  
+6.8.3 tri(g)ṃśád dhā́ma ví rājati vā́k pataṅgā́ya śiśríye  
+práty asya vaha dyúbhis svā́hā[*369]  
+6.8.4 asyá prāṇā́d apānaty antaś carati rocanā́  
+vyakhyan mahíṣás súvas svā́hā[*370]  
+6.8.5 yá[*371] tvā kruddháḥ paro vápa manyúnā yád ávartyā  
+sukálpam agne tát táva púnas tvód dīpayāmasi svā́hā[*372]  
+[*366] TS 1.5.3.1; 4.1   (VC p. 672)  
+[*367] TS: prayánt súvaḥ replaces prayán sthúvás  
+[*368] TS 1.5.3.2  
+[*369] TS 1.5.3.3  
+[*370] TS 1.5.3.4  
+[*371] TS: yat  
+[*372] TS 1.5.3.5  
+  
+  
+  
+6.9.1 yát te manyúparoptasya pr̥thivī́m ánu dadhvase  
+ādityā́ víśve tád devā́ vásavaś ca samā́bharan svāhā[*373]  
+6.9.2 máno jyótir juṣatām ā́jyaṃ vícchinnaṃ yajñá(g)ṃ sam imáṃ dadhātu  
+bŕ̥haspátis tanutām imáṃ no víśve devā́ ihá mādayantā(g)ṃ svā́hā[*374]  
+6.9.3 saptá te agne samídhas saptá jihvā́s saptá ŕ̥ṣayas saptá dhā́ma priyā́ṇi  
+sapta hótrās saptadhā́ tvā yajanti saptá yónīr ā́ pr̥ṇasvā ghr̥téna svā́hā[*375]  
+6.9.4 púnar ūrjā́ ní vartasva púnar agna iṣā́yuṣā  
+púnar naḥ pāhi viśvátas svā́hā[*376]  
+6.9.5 saha rayyā́ ní vártasvā́gne pínvasva dhā́rayā  
+viśvá-phsniyā viśvátas pári svā́hā[*377]  
+[*373] TS 1.5.3.6  
+[*374] TS 1.5.3.7  
+[*375] TS 1.5.3.8  
+[*376] TS 1.5.3.9  
+[*377] TS 1.5.3.10  
+  
+  
+  
+6.10.1 medínī devī́ vasúṃdharī syād vásudhā devī́ vāsávī  
+brahma-varcasáḥ pitr̥ṇā́(g)ṃ śrótraṃ víṣṇur mánas svā́hā  
+6.10.2 deví híraṇya-garbhiṇī devī́ prasodárī  
+rásane satyā́yane sīda svā́hā  
+6.10.3 samudrávatī sāvitrī́há no devī́ mahyákī  
+mahā́-dháraṇī mahódhya tiṣṭha svā́hā  
+6.10.4 śr̥ṅgé-śr̥ṅge yajñé-yajñe vibhīṣáṇī  
+índra-patnī vyājánī súrasita ihá svā́hā[*378]  
+6.10.5 vāyú-párī jala-śáyanī svayán-dhā́rā satyántho párimedínī  
+sopári dhattaṃgāya svā́hā  
+6.10.6 dhanur-dharā́yai vidmáhe sarva-siddhyaí ca dhīmahi  
+tán no dharāḥ pracodáyāt svā́hā  
+[*378] cf. VC p. 211  
+  
+  
+6.0.4 púnas tvóddīpayāmasi svā́hā viśvátas pári svā́hā sopári dhattaṃgāya svā́hā dvé ca[*379]  
+[*379] AV 12.2.5; TS 1.5.3.2; 4.2  (VC p. 591)  
+  
+  
+6.11.1 svastí caivéha svā́hā  
+6.11.2 prajā́-pataye svā́hā  
+6.11.3 ágnir dhī-mataye svā́hā  
+6.11.4 ādityébhyas svā́hā  
+6.11.5 víśvebhyo devébhyas svā́hā  
+6.11.6 marud-gaṇébhyas svā́hā  
+6.11.7 bhū́r agnáye ca pr̥thivyaí ca mahaté ca svā́hā  
+bhúvo vāyáve cāntárikṣāya ca mahaté ca svā́hā  
+súvar ādityā́ya ca divé ca mahaté ca svā́hā  
+bhū́r bhúvas súvaś candrámase ca nákṣatrebhyaś ca digbhyáś ca mahaté ca svā́hā  
+  
+6.12.1 imám me varuṇa prájā-pate ná tvac cittáṃ cāgnír bhūtā́nām r̥tā-ṣā́ṭ  
+6.12.2 yád devā yád devā yád ádīvyan[*380] ā́yuṣ ṭe vaiśvānarā́ya  
+6.12.3 cirāyuṣaṃ yáṃ právadanti dhī́rās sámasta-vedā́rtha-vídāṃ varāya  
+mārkaṇḍeyā́ya mahā́-munaye svā́hā  
+6.12.4 púṇyaugha-niṣṭhā́ya púrātanāya nítyātmane brahmá-vidā́ṃ várā́ya svā́hā  
+6.12.5 pádmā-pitre véda-bhŕ̥tāṃ varāya  
+mahā-vīryā́yāmíta-tejase svā́hā  
+6.12.6 bhŕ̥gave mahā́-munaye bráhma-nityāyá  
+bráhmātmane brahmá-sutāya svā́ḥā  
+[*380] cf.  VMP 5.1.77.8  
+  
+  
+6.13.1 bráhma jajñānáṃ prathamáṃ purástād vísīmatás surúco vená āvaḥ  
+sá budhníyā upamā́ ásya viṣṭhā́s satáś ca yónim ásataś ca vívas svā́hā  
+6.13.2 híraṇya-garbhás sám avartatā́gre bhūtásya jātáḥ pátir éka āsīt  
+sá dādhāra pr̥thivī́ṃ dyā́m utémā́ṃ kásmai devā́ya havíṣā vidhema svā́hā  
+6.13.3 rúdram anyáṃ bahutó hutaṃ vr̥ṣabháṃ námas te astu  
+tán me astu bāhúbhyāṃ vītáye svā́hā  
+6.13.4 try-ambakaṃ yajāmahe sugandhíṃ puṣṭi-várdhanam  
+urvārukám iva bándhanān mr̥tyór mukṣīya mā́ 'mŕ̥tāt svā́hā  
+6.13.5 dyā́vā-pr̥thivyóś śug áśuk sanniyoktróḥ  
+sámmānyayoḥ khyātī́ tu kaúram etā(g)ṃ svā́hā  
+  
+6.14.1 yasyāś śriyo vā́ ánujā agra-jāyā́ yām évājásra(g)ṃ súhutaṃ viśva-vídbhyām  
+tābhyā́ṃ prasannā́bhyā(g)ṃ hrā́sa-vr̥ddhī bhavetā(g)ṃ svā́hā  
+6.14.2 tásthuṣo dhŕ̥tyā dhárate yāni śaṃsáḥ  
+yásyehá tasmai bhúva eváṃ juhomi svā́hā  
+6.14.3 yá eṣá bibhraty úru tejaḥ pataṅgáḥ  
+dívas pári stho bhávato yásya vettú svā́hā  
+6.14.4 ví tatyá viśvaṃ vídadhāty r̥taṃn náḥ[*381]  
+vr̥tyā vr̥ttáṃ tasyá nītaṃ tam etat svā́hā  
+6.14.5 yó no 'bhírakṣaty ávamāya nas tu[*382] yás trayyā́ saṃvárdhayan pū́rayati  
+tásmai sárva-chándaso sáṃvyayan tā(g)ṃ sā́ no devī́ mānásī́m ānam etā(g)ṃ svā́hā  
+[*381] 1984 edition: ná  
+[*382] 1946 edition: ávamānayan tu  
+  
+  
+  
+6.15.1 munī́ndráṃ bráhma-nityāyá várotkr̥ṣṭā́ya  
+dauvāriká-prádhānāya máṇikāya svā́hā  
+6.15.2 sandhyā́yai múni-patnyai prabhā́vatyai dr̥ḍhá-vratāyai svā́hā  
+6.15.3 vaíkhānasāyā́cyúta-sa(gg)ṃśrayā́ya  
+tápo-ígra-niṣṭhā́ya ca bráhma-darśine svā́hā  
+6.15.4 tāpasā́ya síddhi-rājāyá  
+sa(g)ṃhitā́ya sahásrā́śvamedhine svā́hā  
+6.15.5 kíṣkindhāya báhu-mardanā́ya  
+bahu-senā́ya dr̥ḍhá-vrátāya svā́hā  
+6.15.6 tīrthā́ya sárva-sukhāvahā́ya  
+sarva-yogyā́ya sárva-darśine svā́hā  
+  
+6.0.5 mahaté ca svā́hā bráhmá-sutāya svā́hā kauram etā(g)ṃ svā́hā mānam etā(g)ṃ svā́hā dr̥dhá-vratāya svā́hā dvé ca  
+  
+6.16.1 trātā́ram índram avitā́ram índra(g)ṃ háve-have suháva(g)ṃ śū́ram índram  
+huvé nú[*383] śakráṃ puru-hūtám índrá(gg)ṃ svastí no maghávā dhātv índras svā́hā[*384]  
+6.16.2 mahā́(g)ṃ índro yá ójasā parjányo vr̥ṣṭimā́(g)ṃ iva  
+stómair vatsásya[*385] vāvr̥dhe svā́hā[*386]  
+6.16.3 mahā́(g)ṃ índro nr̥vád ā́ carṣaṇiprā́ utá dvibárhā aminás sáhobhiḥ  
+asmádríyag vāvr̥dhe vīryāyorúḥ pr̥thús súkr̥taḥ kartŕ̥bhir bhūt svā́hā[*387]  
+6.16.4 bhúvas tvám indra bráhmaṇā mahā́n bhúvo víśveṣu sávaneṣu yajñíyaḥ  
+bhúvo nr̥̄́(g)ṃś cyautnó víśvasmin bháre jyéṣṭhaś ca mántro viśva-carṣaṇe svā́hā[*388]  
+6.16.5 éndra sānasí(g)ṃ rayí(g)ṃ sajítvāna(g)ṃ sadāsáham  
+várṣiṣṭham ūtáye bhara svā́hā[*389]  
+[*383] AV, TS: huvé nú; RV, VS (M), KS: hváyāmi  
+[*384] RV 6.47.11; TS 1.6.12.5 (VC p. 448)  
+[*385] TB: vathsásya  
+[*386] RV 8.6.1; TS 1.4.20.1; TB 3.5.7.4  (VC p. 695)  
+[*387] RV 6.19.1; TS 1.4.21.1; TB 3.5.7.4  (VC p. 695)  
+[*388] RV 10.50.4; TS 3.4.11.4; AŚ 1.6.1; 4.11.6; 9.5.16  (VC p. 670)  
+[*389] RV 1.8.1; TS 3.4.11.3; TB 3.5.7.3; AŚ 1.6.1  (VC p. 302)  
+  
+  
+  
+6.17.1 prá sasāhiṣe puru-hūta śátrūñ jyéṣṭhas te śúṣma ihá rātír astu  
+índrā́ bhara dákṣiṇenā vásūni pátis síndhūnām asi revátīnā(g)ṃ svā́hā[*390]  
+6.17.2 asmā́kam índras sámr̥teṣu dhvajéṣv[*391] asmā́kaṃ yā́ íṣavas tā́ jayantu  
+asmā́kaṃ vīrā́ úttare bhavantv asmā́n u devā avatā háveṣu svā́hā[*392]  
+6.17.3 índro 'bhūd asyá bhúvanasya rājéndro dādhāra pr̥thivī́n dyā́m uté mā́m  
+indro ha víśvāni bhūtā́ni bhúvánāśritā́ni svā́hā  
+6.17.4 índro dyaúr vyóma bhū́r indrás sámudbháva no vírāṭ páśca  
+urv-antarikṣa-svargá-pavanam índrād índraṃ mánye pitáraṃ mātáraṃ ca svā́hā  
+6.17.5 índraṃ práṇayantaṃ vápur índra(gg)ṃ srávanta(g)ṃ savitā́ram índraṃ dadhātu  
+śákras sukŕ̥tasya lokám índraṃ manye pitáraṃ mātáraṃ ca svā́hā  
+[*390] RV 10.180.1; TS 3.4.11.4; MS 4.12.3: 184.15; 4.14.18: 248.17; TB 2.6.9.1; 3.5.7.4; AŚ 1.6.1; 3.7.11; 4.11.6; etc.  (VC p. 631)  
+[*391] Text: thvajéṣv  
+[*392] RV 10.103.11; TS 4.6.4.3; MS 2.10.4: 136.11; 4.14.14: 238.11  (VC p. 140)  
+  
+  
+  
+6.18.1 índro vr̥tráṃ vájreṇāvadhīd índro vyáyas sámudra-śuṣkaḥ  
+índraṃ manye pitáraṃ mātáraṃ ca svā́hā  
+6.18.2 índro babhūva bráhmaṇo gambhīrám ā́bhūti-párituṣṭiḥ  
+índro bhaviṣyád utá bhūtám índraṃ manye pitáraṃ mātáraṃ ca svā́hā  
+6.18.3 índro 'smā́n avatu vájra-bāhur índro bhūtā́ni bhúvanāni  
+índro 'smā́kam avatu vájra-prasādam índraṃ manye pitáraṃ mātáraṃ ca svā́hā[*393]  
+6.18.4 agnír mūrdhā́ diváḥ kakút-pátiḥ pr̥thivyā́ ayám  
+apā́(g)ṃ rétā́(g)ṃsi jinvati svā́hā  
+6.18.5 ayám agnís sahasríṇo vā́jasya śatínas pátiḥ  
+mūrdhā́ kavī́ rayīṇā́(g)ṃ svā́hā  
+[*393] MS 4.14.7: 225.13-14 (VC p.229)  
+  
+  
+6.19.1 yamó dādhāra pr̥thivī́ṃ yamó dyā́m utá sū́ryaḥ[*394]  
+yamás sárva-mr̥tyus stenáḥ[*395] prāṇā́nāṃ vāyūnā́(g)ṃ svā́hā  
+6.19.2 námas te nírr̥taye ghána-tejāya tásmai vísr̥ja bándhanāt  
+6.19.3 yáma naya tvá(g)ṃ sávitā́ devá uttamā́n ánīke abhírócaya yāyinā́(g)ṃ svā́hā  
+6.19.4 vásavaḥ prathamó devátānā(g)ṃ so 'sya prajā́ṃ paśū́n pāhi  
+6.19.5 áto devébhyaḥ paśúbhir yó vaí vásavas svasty ástu svā́hā  
+6.19.6 sahasrākṣó vā́ ayám agníḥ pitaro devátānām  
+6.19.7 vásūn yátra vásavo bhūtā́nāṃ pā́layanti tásmā ánya-vasubhya svā́hā  
+6.19.8 yé te śatáṃ váruṇa yé sahásraṃ yajñíyāḥ pā́śā vítatāḥ púrutrā́  
+tébhyo na índras savitótá víṣṇur víśvedevā́ muñcantu marútas svastyā́ svā́hā  
+[*394] KS: sūryam  
+[*395] cf. VMP 8.1.151.6:  te náḥ instead of stenáḥ  
+  
+  
+  
+6.20.1 úd uttamáṃ varuṇa pā́śam asmád ávādhámáṃ ví madhyamá(gg)ṃ śrathāya  
+áthā vayám āditya vraté távā́nāgaso áditaye syāma svā́hā  
+6.20.2 ayā́ś cāgné 'sy anabhíśastī́ś cāyā́taḥ  
+yajñáṃ vahatu sadā́ dhehi bheṣajá(gg)ṃ svā́hā  
+6.20.3 ā́pas sr̥jántu[*396] snigdhāni ciklītá vasa me gŕ̥hé  
+ní ca devī́ṃ mātáraṃ śríyaṃ vāsáya me kulé svā́hā  
+6.20.4 marútaḥ paramātmā́ páramā gatíḥ páraṃ bráhma páraṃ yógam  
+paramātmā́naṃ manye ajáraṃ yo 'gnir ahám ánnaṃ vāyáve svā́hā  
+6.20.5 marúto gaṇā́nāṃ prathamás saptádhānāṃ mūrdhā́ vāyo ányam ajárá(gg)ṃ śriyám  
+hótāraṃ vaí ráyan tvā́hur ágne havyáṃ marúdbhyas svā́hā  
+6.20.6 miśrá-vāsasaḥ kauberakā́ rakṣo-rājéna préṣitāḥ  
+grā́ma(g)ṃ sá-jānayo gacchántīcchánto paridā́kr̥tā́nt[*397] svā́hā  
+6.20.7 etā́n ghnataitā́n gr̥hṇītéty ayáṃ bráhmaṇas putráḥ  
+tā́n agníḥ páryasarat tā́n índras tā́n bŕ̥haspátiḥ  
+tā́n aháṃ veda brāhmaṇáḥ pramr̥śatáḥ kūṭa-dantā́n vikeśā́ṇ lambana-stanā́nth[*398] svā́hā  
+6.20.8 ī́śānas sárva-lokānā́ṃ try-ambakas sárva-vidyānā́m  
+ná dvitīyo bhavodbhavāya svā́hā  
+6.20.9 ī́śa ī́śitre bhū́r bhúvas súvar ī́śāya lokā́nām  
+bhīmā́ya vāmadevā́ya svā́hā  
+[*396] RVKh: sravantu  
+[*397] Text: 'paridā́kr̥tā́nth  
+[*398] ApMB: -stanā́nt  
+  
+  
+  
+6.0.6 bhára svā́hā mātáraṃ ca svā́hā rayīṇā́(g)ṃ svā́hā svastyā́ svā́hā marúdbhyas svā́hā náva ca  
+  
+6.21.1 úd u tyáṃ jātá-vedasaṃ deváṃ vahanti ketávaḥ  
+dr̥śé víśvāya sū́rya(gg)ṃ svā́hā  
+6.21.2 citrán devā́nām úd agād ánīkaṃ cákṣur mitrásya váruṇasyāgnéḥ  
+ā́prā dyā́vā-pr̥thivī́ antárikṣa(g)ṃ sū́rya ātmā́ jágatas tasthúṣapaś[*399] ca svā́hā  
+6.21.3 mámāgne várco vihavéṣv astu vayán tvéndhānās tanúvaṃ puṣema  
+máhyaṃ namantām pradíśaś cátasras tváyā́dhyakṣeṇa pŕ̥tanā jayema svā́hā[*400]  
+6.21.4 ahám agner agníṃ gr̥hṇāmi mámāgne 'gnír mámāntárikṣam  
+mā́rgo 'hám asmín prámadān kāmáye túbhyaṃ mánasā prajā́-pátaye svā́hā  
+6.21.5 ágna ā́ yāhi vītáye gr̥ṇānó havyádātaye  
+ní hótā sathsi[*401] barhíṣi svā́hā  
+[*399] RV: tasthúṣaś  
+[*400] This text is an example of how the 1946 edition is more reliable for accents.  In this instance it more accurately reflects the RV than the 1984 edition.  
+[*401] RV: satsi  
+  
+  
+  
+6.22.1 prabhur devó mando 'sitáś cāvyáyaḥ púruṣo víśvāya sū́ryāya svā́hā  
+6.22.2 grahā́dhipatiḥ pr̥thivī́ cāntárikṣaṃ ca  
+6.22.3 sū́rya ātmā́ jágatas tasthúṣaś ca svā́hā  
+6.22.4 bŕ̥haspatir devā́nām imáṃ yajñáṃ br̥ható me dadhātu  
+bŕ̥haspáti-vītaye svā́hā  
+6.22.5 bŕ̥haspátis sóman dadhātu bŕ̥haspátir yajñáṃ dadhātu  
+bŕ̥haspáti-vītaye svā́hā  
+6.22.6 bŕ̥haspáte áti yád aryó árhād dyumád vibhā́ti krátumaj jáneṣu  
+yád dīdáyac chávasarta-prajāta tád asmā́su dráviṇaṃ dhehi citrá(gg)ṃ svā́hā  
+  
+6.23.1 upayāmá-gr̥hīto 'si bŕ̥haspate tveṣáte yóniḥ  
+bŕ̥haspáti-vītaye svā́hā  
+6.23.2 śraviṣṭhá-jó yaḥ páramo nu goptā́ prajā́-pateḥ prathamá(g)ṃ hūyámānaḥ  
+6.23.3 prajā́-pataye 'sū́yamāna suṣúve yam bha-pas svā́hā  
+6.23.4 tád víṣṇoḥ paramáṃ  
+tád víprāsaḥ  
+6.23.5 prájā-pate ná tvád etāny anyó víśvā jātā́ni pári tā́ babhūva  
+yat kāmās te juhumás tán no astu vayá(gg)ṃ syāma pátayo rayīṇā́(g)ṃ svā́hā  
+6.23.6 subhū́s sváyam-bhū́ḥ prathamáṃ[*402] mahaty arṇavé dadhe ha gárbham r̥tvíyam  
+yáto jātáḥ prajā́-patis svā́hā  
+6.23.7 bhū bhā́minī bhúve-bhuve  
+6.23.8 bhū́r bhúvas súvar lóka-pāvanyai svā́hā  
+6.23.9 íṣṭa-gāminy aniṣṭa-ghnī́ nalíny[*403] eka-mūrdhní tásthur jāhnavyaí svā́hā  
+6.23.10 sóma yā́s te máyo-bhúva ūtáyas sánti dāśúṣe  
+tā́bhir no 'vitā́ bhava svā́hā  
+6.23.11 yā́ te dhā́māni diví yā́ pr̥thivyā́ṃ yā́ párvateṣv óṣadhīṣv apsú  
+tébhir no víśvais sumánā áhedan[*404] rā́janth[*405] soma práti havyā́ gr̥bhāya svā́hā  
+6.23.12 rúdram anyáṃ try-ambakam  
+[*402] VS: prathamo 'ntar  
+[*403] Text: naḷíny  
+[*404] RV: áhelan  
+[*405] RV: rājan  
+  
+  
+  
+6.0.7 barhíṣi svā́hā citrá(gg)ṃ svā́hā suveṣṭaú ca  
+  
+6.24.1[*406] jágad-bhuvaṃ bahutó hutaṃ yájad-bhuvan námas te astu  
+víśva-bhúve svā́hā  
+6.24.2 jágad-bhavó 'dhipatis senā-nī́r máyūra-priyáṣ ṣáḍ ānana āṅgāráḥ  
+sáñjáyā́ há námas te 'stu sukhā́vahāya svā́hā  
+6.24.3 subrahmaṇyó[*407] bŕ̥haspátes sutā́yāsya padma-yonéḥ  
+yásyātmā́ váhane vahati svā́hā  
+6.24.4 subrahmaṇyó rúdra-bhuvo bráhma-bhuvaḥ  
+bhavódbhavo mámāmŕ̥tāya svā́hā  
+6.24.5 jágad-bhuvas subrahmaṇyáḥ kŕ̥ttikā-sutáḥ  
+ṣaṣṭikā́ya svā́hā  
+[*406] 25 in book.  
+[*407] 1946 edition: subahaṇyo  
+  
+  
+  
+6.25.1 jágad-bhuvo yó yájad-bhuva skánda-viśākha-netā́  
+hávyam asmā́t ṣáṇ-mukhāya svā́hā  
+6.25.2 áto devā́  
+idáṃ víṣṇuḥ  
+6.25.3 yā́ brahmacāríṇy ámarāṇām údagrāyās sannámitā agra etā́ ramante  
+tásyā ānaya tváṃ havíṣo mātariśvanth svā́hā  
+6.25.4 sā́ cāru-janmā́ 'malā kasya jātā́ bhūtaís súmānyā vividhaíś śáṅkaraiṣā  
+hr̥ṣādhr̥ṣyā́ bahír antar vasū́nā(g)ṃ svā́hā  
+6.25.5 eṣā́marāṇā́ṅ gúrave satyám ādádhāti yā́ prā́dadhac cā́vani-gopā́m  
+sádasyā́ rameta sā́ rakṣatu nas sadā́ vai svā́hā  
+6.25.6 yā́myā niyamyā́ páramā kāla[*408]-randhrā́ kā́kānibhā sū́ninī sā́ rametām  
+dattáṃ japtáṃ pū́jitaṃ vā hután nas tasyā́ agnā́v etu pātu sadā nas svā́hā[*409]  
+[*408] Text: kāḷa  
+[*409] VMP divides this verse making the second line the first line of chapter 26.  The numbering is adjusted so that the complete verse comes at the end of chapter 25.  
+  
+  
+  
+6.26.1 jātávedase sunavāma sómam arātīyató ní dahāti[*410] védaḥ  
+sá naḥ parṣad áti durgā́ṇi víśvā nāvéva síndhuṃ duritā́ty agní svā́hā  
+6.26.2 tā́m agní-varṇāṃ tápasā jvalantī́ṃ vairocanī́ṃ karma-phaléṣu júṣṭām  
+durgā́ṃ devī́(g)ṃ śáraṇam aháṃ prápadye sutárasi tarase námas[*411] svā́hā  
+6.26.3 ágne tváṃ pārayā návyo asmā́nth[*412] svastíbhir áti durgā́ṇi víśvā  
+pū́ś ca pr̥thvī́ bahulā́ na urvī́ bhávā tokā́ya tánayāya śáṃ yos svā́hā  
+6.26.4 víśvāni no durgá-hā́ jātavedas síndhuṃ ná nāvā́ duritā́ti parṣi  
+ágne atriván mánasā[*413] gr̥ṇāno 'smākaṃ bodhy avitā[*414] tanū́nā(gg)ṃ svā́hā  
+6.26.5 pr̥tanā-jíta(g)ṃ sáhamānam agním ugrá(g)ṃ huvema páramā́th sadhásthāt  
+sá naḥ parṣad áti durgā́ṇi víśvā kṣā́mad devó áti duritā́ty agnís svā́hā  
+6.26.6 pratnó ṣi[*415] kam ī́ḍyo ádhvaréṣu sánāc ca hótā návyaś ca sáthsi  
+svā́ṃ cāgne tanúvaṃ pipríyasvāsmábhyaṃ ca saúbhagam ā́ yajasva svā́hā  
+[*410] Text: dahātti  
+[*411] In RVKh the phrase sutárasi tarase námas appears twice in the verse, whereas VMP only gives it once.  
+[*412] RV: asmān  
+[*413] RV: námasā  
+[*414] Text: bhūtva vitā́  
+[*415] RV: hi  
+  
+  
+  
+6.0.8 ṣaṣṭíkā́ya svā́hā ramétā́ṃ th sádhásthā trīṇi ca  
+  
+6.27.1 nandínyā mū́lavatyā jágato vasatyā́ jyeṣṭhā́yā astu suhutá(g)ṃ hutám  
+svasur devyā́ dharitryā rajáta-priyāyās svā́hā  
+6.27.2 ā́pó vivéśa prajáyā brahma-dārā́s skandá-prabarháṃ bháraṇe vidma devyā́ḥ  
+vegínī devī́ śárma deyāt sadā nas svā́hā  
+6.27.3 śā́khā-bhūta suśā́khayā divó bhettúm ayūyujat  
+dhātā́ devyā́ yájāma homā́gryāṃ tátra vāhiny udetu svā́hā  
+6.27.4 devī́ pravā́hiny  ániśaṃ pāti-bhūtá(g)ṃ sarvaṃ chandó víkīrayan  
+bhajato mé śivaṃ dhattā́ṃ jáyā vr̥ttáṃ járayatv ā́dhim eṣā́ svā́hā  
+6.27.5 bisínī bhūtā́ jánanīvā sr̥jánty útā́vanītā bráhmaṇy adhy upā́ste  
+tā́ṃ vidyútā́(g)ṃ samyág u tarpayāmi svā́hā  
+  
+6.28.1 pravidyutāyā́ súmano-dharā cā́muṃ virañjáty[*416] atá eṣa panthā́ḥ  
+tasyābhavat víndu-karānuráñjo juhomi sā́ no śiva-dā́ vidheyā svā́hā  
+6.28.2 gaṅgā-vā́ṇī sárasvatī phalaty ūrdhvá(g)ṃ śivā́ya nas sádābhayā bhavet  
+táta ādā́nam emi dhā́tus samastáṃ vísr̥jantīha devyā́s tasyā́ agnā́v etu pātu sadā nas svā́hā  
+6.28.3 vidyā́ṃ nno mā́tu vítanotu māná(g)ṃ sómena saumyā́ṃ ávatārayantu  
+táyā pratyáṅgaṃ vívr̥taṃ yad viśāmó 'mógháṃ vídma prajáyā brahmá etát svā́hā  
+6.28.4 mātā́ hy améyā máhī mūrtimatyā́ yáyā satváṃ[*417] vítanotīndriyéṣu  
+yásyā́ asyā́ váśa-niṣṭham ajāyata svaíriṇyā sā bhū́taye me bhavetā(g)ṃ svā́hā  
+6.28.5 ā́yām ahan tvā́ jánanīṃ prāṇina[s] syúḥ prājñā́ḥ prajñā́tām etyā́dhyavasthā́ṃ mamá dhiyo niyogám  
+pravāhiṇy ánaíṣi mama dhehi[*418] priyá(g)ṃ sā mā na hí(g)ṃsī svā́hā  
+[*416] 1984 edition: vīrañjáty; 1946, 1926 eds.: virañjáty  
+[*417] 1946 edition: sasatvaṃ  
+[*418] Text: thehi  
+  
+  
+  
+6.29.1 yáyā satas satyáṃ várata uditaṃ jyāyó jāyā́yai jarasáṃ vidhatte  
+táta újjihānāṃ tanúbhiś catúrbhir ímām agacchat svakáyā mahimnā svā́hā  
+6.29.2 prasaviṇy aṅgé mánavo vicakṣávo yáyā tu vr̥ddhíṃ várdhayanto viyāntáḥ  
+súbodham ānínyuḥ prásavaṃ prajā́nāṃ tádā ta ebhír vahantu puṣṭí(gg)ṃ svā́hā  
+6.29.3 yābhyo hi taptáṅ kr̥nvánto[*419] ínujātā́ yā́bhyo[*420] bhavaty árcir harā ca dhūrtíḥ  
+devyáḥ prasannā́ dhava-sammatā́ yā́ vahantu naś śá(g)ṃ súyaśaḥ kriyāsu svā́hā  
+6.29.4 yā́ mānasā vā́dhigátānuṣaṅgā́ḥ kriyā́su satyáḥ prasávas svávaitu  
+sánnīyate yā́bhir avantu devyó yájāmahe[*421] tád dhavíṣo tatābhyas svā́hā  
+6.29.5 yátas svám ā́sīd dhŕ̥dayād anādér ŕ̥ṣis tviṣādī́pya jágad dadhāra  
+khyātér īśase dhr̥g-agnaú juhomi svā́hā  
+[*419] Present stem in older form: kr̥ṇu.  
+[*420] Text: 'yā́bhyo  
+[*421] 1946 edition: yájāmaho  
+  
+  
+  
+6.30.1 asmā́ asmād[*422] ā́dadānó[*423] 'da éno[*424] búddhinā yó svá-tápasaḥ  
+āyá māṃ bhū́yo bhū́yas sr̥té[*425] ghr̥té svā́hā  
+6.30.2 kásyā́ṅgirā abhūc chíraso yáṃ mánanti  
+śréṣṭháṃ víbhor vītī́ hotre dadeya(gg)ṃ svā́hā  
+6.30.3 vísmāpayaty átra múdā babhāse  
+pópuṣyate syā́t prabháyāgamo nas svā́hā  
+6.30.4 vyā́vartate yó vibúdho vyāna eṣá vyā́pūrayan nó dharáté[*426] sarvam arvā́k  
+tásmād eváṃ juhutaś śá(g)ṃ sametu svā́hā  
+6.30.5 sá smā[*427] rasó 'gre asr̥jac cátasraḥ kanyās sa ukthyaṃ ca sá kīrtimantáḥ  
+smŕ̥tyā tásmād itá etu hótus svā́hā  
+[*422] cf. RV 6.42.4  (VC p. 138)  
+[*423] 1984 edition: ā́dadau nó  
+[*424] Text: éna  
+[*425] 1984 edition: pr̥te  
+[*426] 1946 edition: vyā́pūrayan nó tharáté  
+[*427] cf. RV 5.7.4 (VC p. 999)  
+  
+  
+  
+6.31.1 yá éṣódāná[*428] údítaḥ pulastyá upoṣa[*429] viśváṃ prábháyāham asmaí  
+júhomi ŕ̥ṣaye só 'vatu[*430] śárma svā́hā  
+6.31.2 ānándá rodaítya saraḥ púlastyáḥ prītyā́ tráyan tát sahate dvitīyáḥ  
+tásyāsti sānnidhyán níyata(g)ṃ rakṣatu svā́hā  
+6.31.3 prá prāyáśo pā́na[*431] idaṃ vapur yás te pā́pam ágryáḥ krátu-kīrti-kāmáḥ  
+tám ā́hutīr yó 'juhuta pretá eṣás svā́hā  
+6.31.4 yé níṣyantā ájāyanta patánty arka-pathā́ api  
+tántus tárhi tásmai yajāni svā́hā  
+6.31.5 yó no vásiṣṭhas sá sa-māna-jātáḥ kasyā́śéṣa(g)ṃ sárvam ídan tatāra  
+tásmai yaja ī́śāya munáya idán tu svā́hā  
+6.31.6 saptóttámā yé múnayo vásiṣṭha ū́rjā tú tébhyas sá hi tebhyas sujātáḥ  
+nityám asmā́d ámudajāni svā́hā  
+6.31.7 yá ānasūyéśo nídadhan nirakṣás sa(gg)ṃsā́rá-velā́m údíto rarakṣa  
+bhū́yād áya(g)ṃ váṃśa-karo 'sya vaṃśás svā́hā  
+6.31.8 yá eṣá digbhyó vavŕ̥dhe 'trī rā́jā  
+asmaí tásyedáṃ juhutó rātú sóma(gg)ṃ svā́hā  
+[*428] Text: éṣó 'dāná  
+[*429] 1984, 1946 editions: uṣopa; 1926 edition: upoṣa  
+[*430] 1926 edition here inserts the word yātu  
+[*431] cf. RV 7.8.4; TS 2.5.12.4 (VC p. 625)  
+  
+  
+  
+6.0.9 samyág u tarpayā́mi svā́hā na hí(g)ṃsī svā́hā juhomi svā́hā hotus svā́hā idán tu svā́hā ṣaṭ ca  
+  
+6.32.1 sa eko 'bhū́d divā́-niśaṃ nas sáñcāri-bhavódbhavaḥ  
+sraṣṭús sr̥ṣṭéś ca sáñcita svā́hā  
+6.32.2 yas traíṣṭubhaś cā́gra imá(g)ṃ sisr̥kṣus sásmāra sārvaṃ mánasā makheṣṭā  
+puṣpáṃ vimānáṃ vibúdhasya hetus svā́hā  
+6.32.3 prakramyā́tha ū́rdhvaṃ púruṣa-jo vivéśa prájāsu vr̥tyā́ya ásun dadāti  
+so 'ham asmín yájāni sámāpātu svā́hā  
+6.32.4 yó mātaríśvā víyaj-jātó 'ṃśako vr̥to hūyáte  
+yásya satá(g)ṃ sametu svā́hā  
+6.32.5 vŕ̥ṣākaper[*432] ihá úpoṣa-vr̥ttyā́[*433] yám ādattá déva āste  
+tásyābhám agne suhutá(g)ṃ harasva svā́hā  
+[*432] cf. RV 10.86.2; AV 20.126.2 (VC p. 900)  
+[*433] 1984, 1946 editions: -vr̥tyā; 1926 edition: -vr̥ttyā  
+  
+  
+  
+6.33.1 ojo-íbhimānī́ nídadhāra víśvaṃ trí-kośa-gair yád daśábhir yad agré  
+jātébhya ebhyás sa-hávo yajāni svā́hā  
+6.33.2 ā́po víśvan dadhāty ásūn divó dadhé 'dhaś cá kháṃ caran  
+cátuś-śr̥ṅgiṇa étu hótu svā́hā  
+6.33.3 cā́turyam[*434] asmín dádhati prajās tā́ḥ  
+cā́tur-guṇānā́m áta adbhya etát svā́hā  
+6.33.4 táyādityā́ nírviśanti bhū́tā víśve guṇānā́ṃ havíṣo vahantyā́  
+várāṃbarāyā́[*435] súhutan nidhattā(g)ṃ svā́hā  
+6.33.5 tat trīṇy[*436] eṣā́ dhárate sarvam arvā́g yā́m āyāntás sūráyo dyā́ṃ vrajantaḥ  
+tasyā́ agnā́v únnīyante juhomi svā́hā  
+[*434] caturyam= dexterity (MW p. 392)  
+[*435] 1946 edition: párāṃbarāyā́  
+[*436] 1984, 1946 editions: tatrīṇy; 1926 edition: tat trīṇy  
+  
+  
+  
+6.0.10 harasva svā́hā juhomi svā́hā  
+  
+6.34.1 pāvakā́ nas sárasvatī vā́jebhir vājínīvatī  
+yajñáṃ vaṣṭu dhiyā́vasus svā́hā  
+6.34.2 mahó árṇas sárasvatī prá cetayati ketúnā  
+dhíyo víśvā ví rājati svā́hā  
+6.34.3 śa(g)ṃ sā́niyaccháty[*437] ániśaṃ naḥ pavitrī́ yáyā sva-rā́jā sáṃvirājo virājáḥ  
+séhā hrāse púṣṭi-vardhane dhattā(g)ṃ svā́hā  
+6.34.4 bhūyá ā́tma-vr̥ttyā́[*438] bála-tejo-jananyā́ devópavāhyā́ mánasā yayā́sánn  
+dākṣāyaṇyā́ dhanyaí yajeya(gg)ṃ svā́hā  
+6.34.5 yá úttámó mū́rtímáto 'dhidhāmā́  
+śréṣṭhārpitaṃ tvā́hur ato yajāni svā́hā  
+[*437] 1984 edition: sā́niyaścháty  
+[*438] 1926 edition: vr̥ttyā; 1946, 1984 eds.: vr̥tyā  
+  
+  
+  
+6.35.1 agnéḥ pathā[*439] yáṃ práviśanti bhā́bhih  
+havī́(g)ṃṣi tasmā́ abhíto dadhātu svā́hā  
+6.35.2 yám arpáyanty átra kalā[*440] nidhāné diśā́sv ādityáḥ pítaro 'paras yā́ḥ  
+r̥kṣā nr̥̄ṇā́ṃ samprásaras sudhā́ṃ tásmai marīcaye súhutan nidhattā(g)ṃ svā́hā  
+6.35.3 yás saṃharaty éṣa sr̥jaty ahar náḥ  
+nénekti sañjī́vati[*441] mā́ nametā(g)ṃ svā́hā  
+6.35.4 ŕ̥cām adhīśó vísr̥jaṃś catásraḥ  
+prájāh prajéśo rámate rathé 'sya svā́hā  
+6.35.5 nī́tāṃ dhr̥tíṃ cétasi tāsu nityám  
+prajā́sv anáparo bibharti svā́hā  
+6.35.6 yéneṣṭe rása agra agrim ā́sate  
+áṃbhasi tásya havír juhomi svā́hā  
+6.35.7 samūhyate 'mbā́ sahá saptalokā́ḥ  
+dívi sthitā yé ca dharā́dharé ca bhūs svā́hā  
+6.35.8 cáruṃ paced yás sahá sapta-loké  
+rákṣā́(g)ṃsi rakṣánn ihá jīva-loké svā́hā  
+6.35.9 culyā́(g)ṃ haví rakṣan pácanaṃ bibharti  
+tásmai yaja īśā́ya bubhúkṣitāya svā́hā  
+[*439] 1984 edition: padhā; 1946 edition: pathā  
+[*440] Text: kaḷā  
+[*441] 1926 edition: sañjī́vati; 1946, 1984 eds.: sañjī́vatī  
+  
+  
+  
+6.0.11 yajāni svā́ḥā bibharti svā́hāṣtáu ca  
+  
+6.36.1 catur-mukhī́ loká-ramī ca kuṇḍínī  
+devī́ vívartínī virájo vidhātus svā́hā  
+6.36.2 yó loka-bhartrī́ rámatā prajā́nām  
+jātā́bhis sárvaṃ mánasā priyā́bhis svā́hā  
+6.36.3 tri-nétra-dhārī́ tápaso-dhi-devī́  
+víśveṣu devéṣu gáṇeṣu mukhyā svā́hā  
+6.36.4 cíhnaṃ ca raudráṃ dadhatī gaṇa-mukhyā́  
+bhasmā́ṅga-dhautī́ gaṇá-kāla-hāriṇī svā́hā  
+6.36.5 jvālā mālā́[*442] gumbhínī guha-jātā́  
+raudráṃ gaṇaṃ yā́ bíbhr̥yāt surūpī svā́hā  
+[*442] cf. TA 10.11.2  (VC p. 385)  
+  
+  
+6.37.1 bālā́n harī rakṣíṇī śr̥ṅgi-patrī́  
+ákṣeṣu śaktíṣu marī́ci-ramī́ ca devī́ svā́hā  
+6.37.2 yuge-yúge sámparirakṣitā́ ca  
+strī́ rūpa-dhārī́ púruṣasya cāriṇī svā́hā  
+6.37.3 sárvaṃ ramā rákṣíṇī loka-dhātrī́  
+viśváṅ gaṇai rákṣitā yā́s tu bhū́tyai svā́hā  
+6.37.4 kálpeṣu kalpéṣu súsaṃplaveṣu  
+alpī́ bhavitrī́ sahá goṣu bhūṣu svā́hā  
+6.37.5 ánteṣu ghoréṣu vā́rāha-lolā́  
+mándhī[*443] karṣī kŕ̥ṣṭa-mukhī́ ca devī́ svā́hā  
+6.37.6 sā́ sarva-devéṣu márud-gaṇeṣu  
+sámbhāvitā yā́ trí-daśādhipā́ ca svā́hā  
+6.37.7 mālā-dharī yā́ trí-daśādhipā́ ca  
+sándhyā daśī sá(g)ṃhita-sapta-dhātús svā́hā  
+6.37.8 caṇḍī́ harī bhī́ṣáṇī rudra-rūpī́ dhātrī́ dharitrī rasá-hārī ca loké  
+śūlī́ jaṭī mukta-keśī vikeśī svā́hā  
+6.37.9 mohī́ vimohī́ vimúhī guha-dhā́riṇī ca  
+nídrā ca devī́ vírajās tu bhū́tyai svā́hā  
+[*443] 1926 edition: mánthī  
+  
+  
+6.0.12 surūpī svā́hā devī́ svā́hāṣṭáu ca  
+  
+6.38.1 dhātā́sya víśvaṃ hí bíbharti yo vaí  
+púṣpāṇi rakṣánn ihá jīva-loké svā́hā  
+6.38.2 phullā́n hi yó rakṣati vr̥kṣa-ṣaṇḍā́n  
+víśvaṃ sr̥jaty éṣa vidhā́ya tásmai svā́hā  
+6.38.3 víśvān balí-rakṣita-sarva-devā́n  
+tásmād bálí(g)ṃ rakṣatu bhū́taye svā́hā  
+6.38.4 saúrya-hitá ī́śa pathābhirakṣánn  
+víśvān balé no 'bhiharán vidheya svā́hā  
+6.38.5 ā́gneyó yásmād yájāmahe tvā́ víśve sadā tváṃ máhito nu śámbho  
+vaírājan te suhútan nídhattā(g)ṃ svā́hā  
+  
+6.39.1 praíṣām adhīśó víbudhānām anādíḥ  
+yā́ me śastā́ṃ dhánitān dadhātu svā́hā  
+6.39.2 śatá-dhāra(g)ṃ hiraṇmáya(g)ṃ sómo 'gham āsté járad udvahán naḥ  
+víśvaṃ nó nú dadāt sadaína(gg)ṃ svā́hā  
+6.39.3 kadā́pí sr̥jate prajā́ ávigiraty ayán no gopāyatí naḥ  
+yajāmahe vípāpmā́ bhūyāma járato 'griyāya svā́hā  
+6.39.4 dhármaugha-mātā́ vídadhe samástam  
+dháran dhariṣyate sáha saptama(gg)ṃ svā́hā  
+6.39.5 yógan dháraṃ nu prásuva(g)ṃs tu jántū́n  
+júgopa gopa-gárbhaṃ surādis svā́hā  
+  
+6.40.1 yám arpáyanti múnayo havír yó 'jo 'hijānír víbudhā virā́jánn  
+táṃ mayi doṣā́ yásyānanāgnaú vípināni patantu svā́hā  
+6.40.2 śáṃ no nídhattāṃ tápaso jíhartām  
+svayambhúr ágre mŕ̥taye 'mŕ̥tāya svā́hā  
+6.40.3 bhū́mān anto 'gré bhúvanasya goptā́ vāmábhya ī́śanty amárā márāś ca  
+kurvate 'gnaú súhutáṅ ghr̥tena svā́hā  
+6.40.4 vándyo na eṣá vasúṣu nidadhyā́t  
+tri-dhā́ tri-dhāmā́ bíbhr̥yād adīnānth svā́hā  
+6.40.5 ā́sāgra agré súhutāñ jitaítā́n  
+ŕ̥ṣīn avāpyógra íto jayāya svā́hā  
+  
+6.41.1 ójo-bálāyāsy ámr̥tāya śambhó  
+pácasy ayo no 'pácayan na hi(g)ṃsī svā́hā  
+6.41.2 tán mā yaśo 'gré tā́vake vasū́nāṃ yájāmahe syā́d bhávataḥ prasánnaḥ  
+tádā vadaty úttama-gaṃ jayán te svā́hā  
+6.41.3 asmād upāsyó sy éhi hi  
+vr̥ddhi śarma bhávatodarā́t[*444] svā́hā  
+6.41.4 bhūtā́nām ágraṇyam aháṃ juhomi bhūtā́nām ī́śaṃ bhúvanasya gopám  
+bhūtā́nāṃ pátim átyúgra-vīryaṃ bhūtā́nāṃ pátaye námas svā́hā  
+6.41.5 bhūtó bhūtéṣu carati práviṣṭas sá bhūtā́nām ádhipatir babhūva  
+6.41.6 sárveṣāṃ bhūtā́nāṃ ádhipatis tásmai víṣṇu-bhūtākṣa-hantā́ya svā́hā  
+6.41.7 ákṣa-hante níhitās sahāyā́ḥ  
+sárveṣāṃ prāṇínā(g)ṃ śā́ntaye svā́hā  
+6.41.8 yé bhūtā́ḥ pracáranti dívā náktaṃ bálim icchánto vitúdasya préṣyāḥ  
+tébhyo balíṃ puṣṭi-kā́mo harāmi máyi púṣṭíṃ púṣṭi-patir dadhātu svā́hā  
+[*444] 1926, 1946 editions: bhávatodarā́t; 1984 edition: bhávatodharā́t  
+  
+  
+6.0.13 nídhattā(g)ṃ svā́hā surādis svā́hā jayāya svā́hākṣa-hantā́ya svā́hā catvā́ri ca  
+  
+6.42.1 áto devā́ idáṃ víṣṇus trī́ṇi padā́ víṣṇoḥ kármāṇi tád víṣṇoḥ paramáṃ padáṃ tad víprāsaḥ  
+  
+6.0.14 cákṣur ā́tata(gg)ṃ svā́hā dvé ca[*445]  
+[*445] 1984 edition omits this verse  
+  
+  
+6.0.14 áto devā́s sahásra-śīrṣā híraṇya-varṇāṃ bhū́mir bhūmnā́ svastí caívá trātā́ram índram údutyáṃ jágan naṃdíny ā sa ekaḥ pāvakā́ naś catur-mukhī́ dātā́ íto devā́ś cátur-daśa[*446]  
+[*446] 1946 edition omits this verse  
+  
+  
+6.0.15[*447] áto devā́ svasti caivodutyáṃ yá eṣó ójo bálāya dví-catvāri(g)ṃśat[*448]  
+[*447] 42 in book  
+[*448] 1946 edition omits this verse  
+  
+  
+  
+[Colophon:]  
+áto devā́s tad víprāsaḥ  
+háriḥ oṃ  
+tatth sat  
+  
+________________________________________  
+  
+  
+Śrī Śrī vikhanasa mahā-gurave namaḥ  
+Śrī-vaikhānasa-mantra-praśnāṣṭake  
+Saptama-praśna-prārambhaḥ  
+  
+  
+hariḥ oṃ[*449]  
+7.1.1.1[*450] [1.1] víṣṇus sárveṣām ádhipatiḥ paramáḥ purāṇáḥ  
+paró lokā́nām ájito 'jitātmán[*451] bhávate 'bhavāya[*452] svā́hā  
+7.1.1.2 [1.2] sú-sū́kṣmas sā́rvas[*453] sárveṣām antarātmā́ tásthus tásthusāṃ jáṃgámo jaṃgamānā́m vibhur vibhū́ṇāṃ vibhavódbhavāya svā́hā  
+7.1.1.3 [1.3] jyótir vā́ pā́ramātmikaṃ sā́rvaṃ víśva-bhavám bhavāya  
+prábhūtaṃ[*454] prāhiṇván páramparāya súkr̥taṃ kr̥tāya tásmai várāyá[*455] ī́śiṣe svā́hā  
+7.1.1.4 [1.4] īśó yásmād vítataṃ vitatyá káṃ kaṃ[*456] dhr̥táṃ kā́ma-hutó juhoti  
+kákúdaṅ kakuc chitvā́ bhū́yaḥ parāya svā́hā  
+7.1.1.5 [1.5] rāyā́m īśó 'ráhita[*457] ābharantyā́[*458] rā́ṃ rāṃ váhantyām ahítaḥ[*459]  
+rāyā́ṃ patiṃ rā́ṃ rā́ṃ dhárate dharitryai rā́ṃ váhatodvahāya svā́hā  
+[*449] pā́rámā́tmíkópáníṣád íti prásíddhám  pā́rā́yáṇé námóntáḥ hómé svā́hā́ntá ítí  
+[*450] VMP 7.1 tends to follow Bhaṭṭa-bhāskara.  
+[*451] US jitātman  
+[*452] US bhavāya  
+[*453] US has the normal visarga before an initial `s' of the following word, thus: sārvaḥ.  
+[*454] US prābhūtaṃ  
+[*455] US parāya  
+[*456] US omits second kam  
+[*457] US rahito  
+[*458] US bharantyai  
+[*459] US vahantyāhitaḥ  
+  
+  
+  
+7.1.2.1 [1.6] yó brahma-śabdáḥ práṇavaḥ pradhāná-śabdáś[*460] śábdāntarātmā́ nítyo[*461] viyattáḥ[*462] prátaran prakāmam  
+prājāpatyáṃ prátaran prakurván bhū́yó bhūtyaí vícaráñ[*463] carāya svā́hā  
+7.1.2.2 [1.7] yó vā trí-mūrtíḥ páramaḥ paraś cá trí-guṇaṃ juṣāṇás sákalaṃ vidhatté trís-tris tri-dhātmā́[*464]trí-dhā́ tri-dhā́ vā vídadhe samástaṃ  
+tri-dhā́ tri-rūpáṃ sákalan-dharāya svā́hā  
+7.1.2.3 [1.8] yad vā́ kr̥tám amárañ[*465] cárāṇāṃ yát sarva-niṣṭám[*466] amŕ̥taṃ[*467] sámastam yát páśyamānam ātmā́bhijuṣāṇám ántas sudhr̥tyā́nabhígamyamānāya[*468] svā́hā  
+7.1.2.4 [1.9] kaḥ kośam aṅgé kúśalaṃ vidhāya sā́kūtáṅ[*469] kr̥ṇute[*470] 'grá ida[g]ṃ su-kāntám kákudvaté kā́ma-caráñ carāya svā́hā  
+7.1.2.5 [1.10] yáṃ yajñaír múnayo juṣánti yán devā́ḥ páramaṃ pavítraṃ bhajiṣyánty[*471] ā́rtiṣu práṇatāḥ pradhānā́ḥ yaṃ sū́rayo japantó yóginás sū́kṣmais súpradarśanaiḥ páśyantīśvarāya svā́hā.  
+[*460] US pradhānaḥ śabdaḥ  
+[*461] US śabdāntarātma-nityo  
+[*462] US viyantaḥ yattaḥ  
+[*463] US acaram  
+[*464] US omits tris-tris tri-dhātmā  
+[*465] US amr̥tam  
+[*466] US sarva-niṣṭham which seems correct.  
+[*467] US ajaram  
+[*468] US suṣuptyānabhigamyamānāya  
+[*469] US sākr̥tam  
+[*470] US kr̥ṇvate  
+[*471] US bhaviṣyanti  
+  
+  
+  
+7.1.0.1 udvahāya svā́heśvarāya svā́hā  
+  
+7.1.3.1 [2.1] yó vā gáviṣṭhaḥ páramaḥ pradhānáḥ padáṃ vā yásya satvám[*472] āsīt  
+yásyopáritvaṃ múnayo 'núpaśyanti[*473] tásmai mukhyā́ya víṣṇave svā́hā  
+7.1.3.2 [2.2] yó vā vā́yur dví-guṇo 'ntarātmā́ sárveṣām antáś caratīhá víṣṇo[*474]  
+sa tvaṃ devā́n manuṣyān dr̥tān prátisaṃjīvase svā́hā[*475]  
+7.1.3.3 [2.3] tvám agnis[*476] trí-guṇo variṣṭháḥ páraṃ brahma paraṃ jyótiḥ  
+sárveṣāṃ tváṃ pā́lanāya hutám amŕ̥taṃ vahiṣyase svā́hā  
+7.1.3.4 [2.4] tváñ jī́vas tvám ā́pas sárveṣāṃ jánitā́ tvam ā́hāraḥ[*477]  
+tváṃ víṣṇo śramā́pánudāya cátur-guṇāya svāhā  
+7.1.3.5 [2.5] bhū́mer vítanván prádarān pradhānó bóbhūyamānáḥ[*478] pañcábhis svá-guṇaiḥ prasannais sárvān imā́n[*479] dhārayiṣyasi svā́hā  
+[*472] US sattvam  
+[*473] US na paśyanti  
+[*474] US viṣṇoḥ  
+[*475] US mr̥tān  
+[*476] US agne  
+[*477] US āharaḥ  
+[*478] US prataran prakāmaḥ popūyamānaḥ  
+[*479] US sarvāṇi māṃ  
+  
+  
+  
+7.1.4.1 [2.6] mánas tváṃ bhūtvā́ prátaras sato[*480] 'gré tvátto bhūtáṃ sámbhāváyiṣyasi sárveṣāṅ kāyā́nām árham arhate svā́hā  
+7.1.4.2 [2.7] tváṃ buddhír bhūtā́nām antarātmā́ púṇyavatāṃ púṇyéṣu sájjamānaḥ tváṃ buddhyā́[*481] vícínvamānaḥ puṇya-rūpā́ya svā́hā  
+7.1.4.3 [2.8] yás sūkṣmā́n sañcáramāṇān bhāva-bhāvitā́n[*482] bhavyābhavyā́n  
+kúrvann ā́tmīyam ámito dhunoti dhuráṃ vahite[*483] svā́hā  
+7.1.4.4 [2.9] yásya vā[*484] bháyād bhágavān uttasthé[*485] svayáṃ sū́ryas satyáṃ[*486] kā́laṃ váhamānaḥ  
+yásmā́t téja ātmī́yaṅ kr̥tvā́ sarvān asmā́n pālayiṣyati[*487] svā́hā  
+7.1.4.5 [2.10] yaṃ tvā́ṃ[*488] sarváṃ pā́lanāyā́bhíbhūtáṃ devā́s sárve pásyé[*489] vícaranti té devā́s tvam evá sárve māyā́ māyaíṣā[*490] te svā́hā  
+[*480] US manaḥ-prado  
+[*481] US buddhvā  
+[*482] US bhāvābhāvān  
+[*483] US vahiṣyase  
+[*484] US yasyādau  
+[*485] US uttaste  
+[*486] US sūryasya tvam  
+[*487] US pālayiṣyasi  
+[*488] US tvaṃ  
+[*489] US omits  
+[*490] US māyaiṣate  
+  
+  
+  
+7.1.0.2 yiṣyasi svā́hā māyaíṣā te svā́hā  
+  
+7.1.5.1 [3.1] yas tváṃ bhūtvā́ parjányo vibhīti-randhré[*491] prajā́bhir ākr̥ṣyámāṇaḥ satyáṃ kā́láṃ vraténa pāláyan hlā́dayiṣyasi[*492] svā́hā  
+7.1.5.2 [3.2] kā́mó bhūtvā́ prajā́nām antarā sthitás sárvān lokā́n hlādáyañ jī́vamānaḥ sandárpaṇāya haráye varāya svā́hā  
+7.1.5.3 [3.3] áṅgād aṅgād ánuprā́viśas[*493] sárvān lokā́n saṃrákṣaṇāya  
+yó vā vasan devo mātaríśvā sá yo 'smā́kaṃ bhū́tyai bhū́taye svā́hā  
+7.1.5.4 [3.4] yó mohayan bhūtā́nāṃ sargādhirákṣaṇāya[*494]  
+yás saṅkócas saṅkocanāya bhávatāt[*495] svā́hā  
+7.1.5.5 [3.5] yó dvādaśātmā́[*496] úpari spr̥śan vā́ devā́nāṃ jyótir jyótiṣām[*497] úttaraḥ svayáṃ vā spr̥śan[*498] jyótiṣe svā́hā[*499]  
+[*491] US bibheti randhre  
+[*492] US hlādayiṣyase  
+[*493] US ánuprāviśat  
+[*494] US sarghādi-rakṣaṇāya  
+[*495] US bhavate  
+[*496] US daśātmā  
+[*497] US jenātiṣam instead of jyótir jyótiṣām  
+[*498] US jenātir instead of svayáṃ vā spr̥śan  
+[*499] US yo daśātmā  
+  
+  
+  
+7.1.6.1 [3.6] yó brahmā́ bráhma-vídām ātmā syād ātmá-cakṣuṣām  
+bhū́tir bhū́timatāṃ súkr̥taṃ kr̥tāya svā́hā  
+7.1.6.2 [3.7] sārasvato vā́ eṣá devó yó vābháyaḥ[*500] pā́ramātmikáḥ  
+bhiyo bhayó[*501] vā sarvaṃ sándhuṣe svā́hā[*502]  
+7.1.6.3 [3.8] yó vā páraṃ jyotiḥ páraṃ sándadhānaḥ  
+paramātmā́ púruṣaṃ sañjániṣyase[*503] svā́hā  
+7.1.6.4 [3.9]  yó dośáś catúraś caturtháś[*504] catúraḥ padārthā́n[*505]  
+sarváṃ lokásya sándadhānas sáte[*506] sátvam ādádhānāya svā́hā  
+7.1.6.5 [3.10] yásyaitā́ bráhma-mū́rtáyo br̥hád-brahmáṇo[*507] brahma ā́dadhānaḥ yó[*508] bráhma-guptaye páraṃparāya svā́hā  
+[*500] US na hi instead of yo vābhayaḥ  
+[*501] US hayo 'bhayo instead of bhiyo bhayó  
+[*502] Agrees basically with Bhaṭṭa-bhāskara reading, as given in PUB.  
+[*503] US saṃjanayiṣye  
+[*504] US caturthaś; Text: caturdhaś  
+[*505] US padārthān; Text: padārdhān  
+[*506] US te sante  
+[*507] US -brahmāṇam  
+[*508] US yam  
+  
+  
+  
+7.1.0.3 jyótiṣe svā́hā parāya svā́hā  
+  
+7.1.7.1 [4.1] vā́ko vā́ ánuvāko vā́kaṃ vā́kam sáñjúṣamāṇaḥ  
+deva-sva-sváṃ[*509] gúptaye[*510] svayáṃ[*511] jyótiṣe svā́hā  
+7.1.7.2 [4.2] dvā́v etaú pakṣī́ ácarañ carantau nó dhuráṃ[*512] vyádhunīte  
+yáś caikó[*513] bhunakti bhóktre svā́hā  
+7.1.7.3 [4.3] yó vā ā́yuḥ páramātmā[*514] mīḍhúṣaḥ pāraṃparyā́t paráḥ[*515] parāyaṇaḥ paró[*516] lokā́nāṃ param ā́dadhānaḥ parátaḥ parāya[*517] svā́hā  
+7.1.7.4 [4.4] yó vā téjas[*518] téjasāṃ téjas téja ā́dadhānaḥ  
+satyás[*519] téjas téjasāṃ téjas téjase svā́hā  
+7.1.7.5 [4.5] sāhaṃ vā yā́ṃ sámāśíṣam āsīr bhūtābhūtā́  
+āsíṣam āsīr āsī́r ánubhūma svā́hā[*520].  
+[*509] US devasya svam  
+[*510] US sva-guptaye  
+[*511] US adds jenātiṣe after svayam  
+[*512] US nādhuram  
+[*513] US caikam  
+[*514] US adds na after paramātmā  
+[*515] US param  
+[*516] US parāya  
+[*517] US paramparāya  
+[*518] US omits yo vā tejas  
+[*519] US sattvas  
+[*520] US varies considerably here so I give the complete verse: saha sampāyās tvam āśiṣam āśi-bhūtābhūtam āśiṣam āśir āśīr āśir anubhūmiḥ svāhāḥ  
+  
+  
+  
+7.1.8.1 [4.6] yó vā[*521] sáṃyogaṃ sañjúṣamāṇas[*522] sandhús sandhúkṣaṇānām  
+saṃyógaṃ[*523] sándadhānaḥ puṇyáḥ puṇyā́nāṃ puṇyā́ya svā́hā  
+7.1.8.2 [4.7] sahásraṃ vā́ yásya vaí vitānám ā́dadhāti[*524] nás[*525] sahásraṃ vā́ āśíṣasyā́sikāḥ[*526] sahásrā yásya vaí sā́śikās[*527] sahásra-sahasrāya svā́hā  
+7.1.8.3 [4.8] svānī́kā[*528] gúptayo guptís satváṃ satvā́nāṃ[*529] sā́tváṃ padám  
+yát[*530] satváṃ[*531] satvám āsīt sā́tvaṃ sā́tváṃ vaí sátvám ādádhānāya svā́hā  
+7.1.8.4 [4.9] satváṃ vā́ údekám[*532] āsīd yát satvám ubháyor anugoptā́  
+tát satvám satváṃ-vádā́yá[*533] satyā́ya svā́hā  
+7.1.8.5 [4.10] sato jyotis[*534] sátvāntarātmā́[*535] satyódyógás sátyas sat-karmā́  
+satyáṃ satvá-vítānam[*536] āsīt satya-satyā́ya svā́hā  
+[*521] US ha  
+[*522] US dhyānaṃ juṣamāṇaḥ  
+[*523] US saṃyogaḥ  
+[*524] US ādadhānaḥ  
+[*525] US omits  
+[*526] US āśiṣah sahasram  
+[*527] US sāsikāḥ  
+[*528] US svātīkā  
+[*529] US adds (satyam satyānām)  
+[*530] US tat  
+[*531] US sattvam etc.  
+[*532] US udrekam  
+[*533] US satyaṃ satyam padāya  
+[*534] US satyo jenāti  
+[*535] US satyāntarātmā  
+[*536] US satyaṃ vitānam  
+  
+  
+  
+7.1.0.4 bhūma svā́hā satyā́ya svā́hā  
+  
+7.1.9.1 [5.1] satyaṃ[*537] satváṃ[*538] púṇyam āsīt púṇyo vā daivíkáṃ satváṃ[*539] satyám[*540] ārṣam satyaṃ satváṃ[*541] sát-pathāya svā́hā  
+7.1.9.2 [5.2] satyodyogás[*542] satva-prāṇás[*543] satvādhārás sátvas[*544] sandhānáḥ[*545]  
+satyas satvá[*546] prákāśayan[*547] jyótir[*548] jyótiṣe svā́hā  
+7.1.9.3 [5.3] kā́mīm imā́m[*549] īśiṣaṃ satyám īśiṣam[*550] ī́śiṣāṇān tat satváṃ satyá-rū́pám  
+satyā́ya sándadhānāya svā́hā  
+7.1.9.4 [5.4] ā́raṇī[*551] vā́ ārandá ā́vārandó ārandá[*552]  
+ayáṃ [*553]māran-dámám ārandám[*554] ā́śiṣe[*555] svā́hā  
+7.1.9.5 [5.5] tat satvo[*556] vā́ víṣṇur udyogás sūryo go[*557] vā́ víṣṇuṃ viśann[*558]  
+víśvaṃ víśvaṃ sándadhānas tád víśvaṃ víṣṇave viśvá-rūpāya svā́hā  
+[*537] US satyaḥ  
+[*538] US satyaṃ  
+[*539] US satyaṃ  
+[*540] US sattvam  
+[*541] US sattvam  
+[*542] US satyo jyotiḥ  
+[*543] US sattvaṃ prāṇāḥ  
+[*544] US sattvaṃ  
+[*545] US saṃyānāḥ  
+[*546] US sattvaṃ  
+[*547] US prakāśaṃ  
+[*548] US omits  
+[*549] US umām  
+[*550] US omits satyam īśiṣam  
+[*551] US ariṇir  
+[*552] US ārando  
+[*553] US adds ānandate before mārandam  
+[*554] US omits  
+[*555] US īśiṣe  
+[*556] US yat satyaṃ  
+[*557] US gaur  
+[*558] US viṣṇur viśat  
+  
+  
+  
+7.1.10.1 [5.6]tad bhū́r bhū́s tad[*559] bhū-sthó vā́ viśvá-rūpas tád bhū́ḥ prāṇás saṅkhyātáḥ  
+bhū́r bhúvas súvar asi[*560] bhū́r asi bhuvo 'si súvar asi bhū́r bhū́taye svā́hā  
+7.1.10.2 [5.7] ā́po vā́ ā́pa ā́po[*561] íntarātmā́ yó vedó vedā́nām ādhāráḥ  
+vedāntarātmā́ sá-raso rasa-saṅkhyātó rásaṃ rásam āsīd rasāya svā́hā  
+7.1.10.3 [5.8] trayī vā́ kā́maṃ trayī-máyaṃ trí-guṇaṃ tredhātmakam[*562]  
+trayī vā́ jyótis[*563] trī́-guṇan[*564] tri-guṇātmakán[*565] tásmai tredhā́gnaye[*566] trí-guṇāya svā́hā  
+7.1.10.4 [5.9] dvaú vā múkhyau múkhyādhārau sá-sukhau sānandaú  
+sá-smerau[*567] smerā́yatau[*568] sānandám ā́nanda-dau[*569] svā́hā  
+7.1.10.5 [5.10] sá ekaíkas sādhārás sā́dhiṣṭhā́no 'nādhāráḥ[*570]  
+káṃ kaṃ kásmai padé[*571] pātaḥ pādáyati[*572] pā́dite svā́hā  
+[*559] US bhū-stham  
+[*560] US bhūr āsīd replaces bhūr bhuvas suvar asi  
+[*561] US apo replaces āpa āpo  
+[*562] US tretātmakam  
+[*563] US jenāti  
+[*564] US tri-guṇan  
+[*565] US tri-guṇātmakam  
+[*566] US tretāgnaye  
+[*567] US sa-smerau; Text: sá-smekā́  
+[*568] US smerāyitau  
+[*569] US ānandate  
+[*570] US nādhiṣṭhānaḥ  
+[*571] US adds pade after pade  
+[*572] US pādāya  
+  
+  
+  
+7.1.0.5 rūpā́ya svā́hā pādite svā́hā  
+  
+7.1.11.1 [6.1] svayam ādis sárvāntarātmā́ devás[*573] sváyáṃ krīḍā́tmakaṃ vā́sr̥jat[*574]  
+yás svayáṃ lokám ávadhā́rám[*575] ávadhārayan svā́hā  
+7.1.11.2 [6.2] yás svayáṃ sr̥ṣtám ātmánā guptám ánu taṃ vitānám[*576] ácaraṃ carantam  
+svayáṃ krī́ḍan[*577]  krīḍáyan krīḍā́ntaram ánuprā́viśan[*578] svā́hā  
+7.1.11.3 [6.3] svaújasā sárvam ā́dadhāti yáḥ pā́pīyāṃsam ánupádam ā́hí[g]ṃsat  
+supuṇyaṃ púṇyātmakaṃ púṇya-vitānán[*579] dadhāra[*580] devā́ya svā́hā  
+7.1.11.4 [6.4] kṣmā́m ekā́ṃ sálilāvasannā́ṃ śrutvā́[*581] svanantī́m ánusaṃpátantīm[*582]  
+svayam bhūtvā́ varāhó vára[*583] újjahāra[*584] tásmai devā́ya súkr̥tāya pitre svā́hā  
+7.1.11.5 [6.5] yáḥ kun dháramāṇaḥ kún-dharatāṃ kún-dharatām íty avocat  
+tā́n[*585] sānumato[*586] vídadhat sva-tejasā tásmai devā́ya[*587] vára-dāya[*588] pitre svā́hā  
+[*573] US devasya  
+[*574] US avāsr̥jat  
+[*575] Text: avathāram  
+[*576] US anusaṃditānam replaces ánutaṃ vitānám  
+[*577] US krīḍaṃ  
+[*578] US anuprāviśat  
+[*579] US puṇyaṃ vitānaṃ  
+[*580] US dādhāra.  Text: dathāra.  
+[*581] Text: śr̥tvā́.  US śrutvā.  
+[*582] US anu svayam  
+[*583] US omits  
+[*584] US jahāra  
+[*585] US tāṃ  
+[*586] US sānumanto  
+[*587] US inserts here variṣṭhāya  
+[*588] US vara-pradāya  
+  
+  
+  
+7.1.12.1 [6.6] yó vā[*589] pr̥thām práskhalantīṃ prámr̥jyāmr̥tāṅgī́m[*590]  
+yá ūrvór úpadadhāt[*591] tásmai variṣṭhā́ya[*592] váradāya pitre svā́hā  
+7.1.12.2 [6.7] dyā́ṅ[*593] gā́m úśantī́m úśanābhipūrṇā́m[*594] ā́rakta-nīlā́m ámr̥taṃ[*595] carántīm[*596]  
+ā́lālayan lā́lita-kaṃkaṇāṃkī́ṃ[*597] tásmai prajeśā́ya váradāya pitre svā́hā  
+7.1.12.3 [6.8] prájā-pate ná tvád etā́ny anyó víśvā jātā́ni pári tā́ babhūva  
+yát-kāmās te juhumás tán no astu vayá[gg]ṃ syāma pátayo rayīṇā́[g]ṃ svā́hā  
+7.1.12.4 [6.9] yó dū́r-dhúraṃ[*598] dhū́r-varaṃ[*599] dhūr-varāṇā́m  
+sudhū́r dhū́r asi dhūr dhurāṇā́ṃ dhū́r asi dhū́r-váṅga me tva[gg]ṃ[*600] svā́hā  
+7.1.12.5 [6.10] yó vā vyahiṃsī́j[*601] járayājarantáṃ tán daitya-mukhyám aṃŕ̥tātma-rūpám  
+súkhuraṃ khurāṇā́ṃ kíñcit svanántaṃ tásmai nr̥siṃhā́ya súreśa-pitre svā́hā  
+[*589] US omits yó vā  
+[*590] US pramr̥jyāmr̥jāṅgīm  
+[*591] US upādadhāt.  Text:  upadathāṭ.  
+[*592] US mukhyāya  
+[*593] US yāṃ  
+[*594] US uśannabhipūrṇām  
+[*595] US amr̥tām  
+[*596] US rajantīm  
+[*597] US lālita-kaṅkaṇāṅgīm  
+[*598] US dhūr-dhuraṃ  
+[*599] US dhūr-dharam  
+[*600] US omits  
+[*601] US vāpy ahiṃsīj replaces vā vyahiṃsī́j  
+  
+  
+  
+7.1.0.6 váradāya pitre svā́hā súréśá-pítre svā́hā  
+  
+7.1.13.1 [7.1] tápo-nidhīnā́ṃ[*602] tápasā[g]ṃ rayíndáṃ ráyim āyur aṅgaṃ vyásanaugha-hiṃsrám[*603]  
+sā́siṣv asantáṃ sávane savítre tásmai súreśā́ya surá-brahma-kartre[*604] svā́hā  
+7.1.13.2 [7.2] yó vā nr̥siṃhó víjayaṃ bibhárṣi rā́-rājimantáṃ ráyi-daṃ kavī́nām  
+sā́rājimantáṃ sájayaṃ sahásraṃ tásmai suyantré súsévadhaye[*605] sevadhaye[*606] svā́hā  
+7.1.13.3 [7.3] ráyiḥ kakudmā́n vídadhad[*607] vináṣṭáṃ ráyimad vidhā́nam  
+tásmai kakutré víkaṭāya pítre svā́hā  
+7.1.13.4 [7.4] rākā́m ahá[g]ṃ suhávā́[g]ṃ súṣṭutī́ huve śr̥ṇótu nas subhágā bódhatu tmánā  
+sī́vyatv ápas sūcyā́cchidyamānayā dádātu vīrá[g]ṃ śatá-dāyam[*608] ukthyaṃ[*609] svā́hā  
+7.1.13.5 [7.5] védāhám etáṃ púruṣaṃ mahā́ntam ādityá-varṇaṃ támasas tú pāré  
+sárvāṇi rūpā́ṇi vicítya dhī́ro[*610] nā́māni kr̥tvā́bhivádan yád ā́ste svā́hā  
+[*602] US tapo-nidhiṃ  
+[*603] US vyasanaugha-hantr̥  
+[*604] US sura-br̥nda-kartre  
+[*605] US suśevadhaye  
+[*606] US omits  
+[*607] US dadhad  
+[*608] Text: śatá-dām, which has been corrected to śatá-dāyam.  
+[*609] Text: ukdhyá[gg]ṃ, which has been corrected to ukthyaṃ.  
+[*610] US dhīraḥ  
+  
+  
+  
+7.1.14.1 [7.6] dig-dóṣā[*611] yásya vídiśaś ca karṇáu[*612] dyaúr āsa vaktrám údaran nabho vā  
+śā́sti sma vā yás[*613] sváyam āpa dántaṃ tásmai varatré váradāya kásmai svā́hā  
+7.1.14.2 [7.7] padmā́sya[*614]-vákṣāḥ páramas su-puṇyáḥ padmā́-jánitráṃ[*615] páram asya vā́sam[*616]  
+sūkṣmás[*617] savitré[*618] sváyam ādadhā́nas sā́vitra-rūpáṃ parámaṃ su-puṇya[gg]ṃ svā́hā  
+7.1.14.3 [7.8] yáḥ puṇḍarīkáḥ párámāntarātmā́ kámrāṅga-bhūtáṃ[*619] kámalan dhadhāra[*620]  
+sā́siṣv[*621] asantáṃ sú-rase[*622] rasāya svā́hā  
+7.1.14.4 [7.9] rayīṇā́ṃ pátiṃ yájataṃ br̥hantáṃ rā́-rāga-muktáṃ gurúṃ sv-anīkám[*623]  
+táṃ rāyo[*624] rūpáṃ ráyi-bhūtá-bhū́tiṃ[*625] rayímat-suratre[*626] svā́hā  
+7.1.14.5 [7.10] rāyā́ṃ patatré[*627] rayím ādadhātré rāyó br̥hántáṃ ráyimat su-púṣṭām[*628]  
+rā́-rājimantáṃ rátaye yajántú[*629] táṃ biṃbavantáṃ kákudāya bhádre svā́hā  
+[*611] US dig-doṣo  
+[*612] US karṇau; Text: karṇá  
+[*613] US sāsi vā sma yā replaces śā́sti sma vā yás  
+[*614] US padmāsya; Text: padyāsya  
+[*615] US -janitrī  
+[*616] US vāsaḥ  
+[*617] US sūkṣmam  
+[*618] US sāvitraṃ  
+[*619] US -rūpaṃ  
+[*620] US dadhāra  
+[*621] Text: sā́sīṣv  
+[*622] US sarase  
+[*623] US sa-śrīkaṃ  
+[*624] US rāyi-  
+[*625] US -bhūtaṃ  
+[*626] US -suratraḥ  
+[*627] US patattre  
+[*628] US su-puṇyaṃ  
+[*629] US ramantaṃ  
+  
+  
+  
+7.1.0.7 yádā́sté svā́hā bhádre svā́hā  
+  
+7.1.15.1 [8.1] yát sāra-bhūtáṃ sákalaṃ dharítraṃ[*630] móda-prāyeṇā́nubhūtam ánuviddham  
+sūkṣmás sureśás sákalaṃ bibhárti[*631] tásmai sureśā́ya sakálaṃ supuṇya[gg]ṃ svā́hā  
+7.1.15.2 [8.2] phálo vā́ eṣá lokā́nām ájaro mahātmā viśvám yáḥ pāti vímalo 'malākhyaḥ  
+tásmai kakutré váradāya[*632] púṣṭyai svā́hā  
+7.1.15.3 [8.3] dhū́r no vahantáṃ rátaye ramantáṃ[*633] bhū́-bhūtim[*634] antás sámayaṃ suṣúmnam[*635]  
+áṃ rājimantáṃ sákalasya gúptyai svā́hā  
+7.1.15.4 [8.4] víśvaṃ  bibhárti prásuro rudantáṃ[*636]  
+sáṃrājimantáṃ[*637] sákalaṃ prarūḍhám  
+sá no vitatya práhiṇotu patre svā́hā  
+7.1.15.5 [8.5] só vā sva-rū́pas sáma-dr̥k samágro vídhunan tu dhányo[*638] vídadhat padáṃ vā  
+víyati prakāśáṃ bŕ̥hate 'rhe táṃ[*639] biṃbavantáṃ samá-daṃ samagra[gg]ṃ svā́hā  
+[*630] US dharitrīṃ  
+[*631] Accentuation in the 1946 edition:  bibhartí  
+[*632] US varadasya  
+[*633] US ramantām  
+[*634] US prabhūtim  
+[*635] US suṣumnā  
+[*636] US abhūd antaṃ replaces rudantáṃ  
+[*637] US saṃrājavantaṃ  
+[*638] US vidhudaṃ tudan yo replaces vídhunan tu dhányo  
+[*639] US guhena taṃ  
+  
+  
+  
+7.1.16.1 [8.6] bhūr bhuvaṃ vá bhuvo vā́ suvar[*640] vā́ kíñcit svanántaṃ súṣuve samástam  
+sárvasya dātā́ram ajáraṃ janitre svā́hā  
+7.1.16.2 [8.7] dākṣāyaṇyā́ṃ prásr̥taṃ samástaṃ sáṃkocayitvā́ sákalaṃ vitānam  
+sáṃvāsayan me[*641] sákalaṃ varíṣṭhaṃ[*642] tásmai prajeśā́ya dhuráṃ-dharāya svā́hā  
+7.1.16.3 [8.8] ā́śās samástāḥ prátaran nuvantás[*643] tā́s vāva nadyā́ṃ[*644] kámalā samástā́  
+tā́m[*645] me grahe vā́ sámadhatta puṣṭi[gg]ṃ svā́hā  
+7.1.16.4 [8.9] yó jaṃgamānā́ṃ sákalaṃ bibhárti[*646] sárvaṃ viyad vā́[*647] vícareta[*648] śákṣyán  
+tán naḥ[*649] kule[*650] vā́va puṣṇan[*651] tv[*652] ajásra[gg]ṃ svā́hā  
+7.1.16.5 [8.10] yó vā daśānā́ṃ práhr̥tās[*653] samástās tāṃs tān dadhānás[*654] sámayāt subī́jān[*655]  
+śábdātiriktás[*656] svá-balam balāya svā́hā  
+[*640] US suvo  
+[*641] US yaḥ  
+[*642] US variṣṭhaṃ; Text: variṣṭha  
+[*643] US pratarann anu tam antas replaces prátaran nuvantás  
+[*644] US tā vased dyauḥ replaces tā́s vāva nadyā́m  
+[*645] US sā  
+[*646] US bibharṣi  
+[*647] US omits  
+[*648] US vicarate  
+[*649] US nau  
+[*650] US kūle  
+[*651] US vāntike replaces vā́va puṣṇan  
+[*652] US omits  
+[*653] US prasr̥tāḥ  
+[*654] US dadhānās  
+[*655] US subījāḥ  
+[*656] US śabdātirītyai  
+  
+  
+  
+7.1.0.8 sámágra[gg]ṃ svā́hā balāya svā́hā  
+  
+7.1.17.1 [9.1] catvā́ro dóṣāḥ[*657] práharanti yásya sárvasya goptré sú-rasāya dhā́mne  
+sómasya puṇyáṃ ráyimat-pravr̥ddhyai svā́hā  
+7.1.17.2 [9.2] vákṣo vasaty ásya várāṃ variṣṭhā́ṃ[*658] vā́kan dadhānā́ vávr̥dhe samástam  
+tásmaí variṣṭhā́ya vára-pravr̥ddhyai svā́hā  
+7.1.17.3 [9.3] aṇór áṇīyān maható máhīyān ātmā́ gúhāyāṃ níhito 'sya jantóḥ  
+tám akratúṃ páśyati vīta-śokó dhātúḥ prásā́dān mahimā́nam īśa[gg]ṃ svā́hā  
+7.1.17.4 [9.4] víṣṇur váriṣṭho vara-dāna-mukhyó yó 'viśva-bhīṣī́[*659] dhyā́yann akurván  
+viśváṃ vibhīṣáṃ[*660] vyádadhat tam mántraṃ[*661] tád[*662] víṣṇáve yat[*663] prabhavíṣṇave yam[*664] amítaṃ bharitre svā́hā  
+7.1.17.5 [9.5] ájo[*665] juṣantáḥ prápatan padátaḥ[*666] pūṃ pū́ṃ puṣantáḥ púnar yaḥ[*667] pravā́kam[*668]  
+káṃ kaṃ janitré sáma-tejasan te svā́hā  
+[*657] US doṣaḥ  
+[*658] US varā variṣṭhaṃ replaces várāṃ variṣṭhā́ṃ  
+[*659] Text: 'viśva-bhīṣí; US viśvarṣīn replaces 'viśva-bhīṣī́  
+[*660] US hīṣad  
+[*661] Text: ántrat  
+[*662] US omits vyádadhat tam ántrat tád  
+[*663] US yāḥ  
+[*664] US tā  
+[*665] US abjo  
+[*666] US prapatat patantaḥ replaces prápatan padátaḥ  
+[*667] US punayaḥ replaces punar yaḥ  
+[*668] US pravāḷaḥ  
+  
+  
+  
+7.1.18.1 [9.6] mā́m ātma-guptā́ṃ váhasi sma bhūtyai[*669] tā́ṃ rājimatī́ṃ[*670] dhuráṃ[*671] dhūrayantīm[*672]  
+dhū́r asi dhruvā́ya svā́hā  
+7.1.18.2 [9.7] yáṃ cintayantó nigámānta-rūpáṃ yáṃ viṣṇu[*673]-rūpáṃ parámātma-puṇyám  
+té vindamānāḥ[*674] sákalaṃ vrajánti[*675] tán deva[*676]-mukhyáṃ su-rátaṃ bhavāya svā́hā  
+7.1.18.3 [9.8] puṇyáñ[*677] ca púṇyā[*678] phúruṣe[*679] pur-ágrāṃ[*680] tā́ṃ rājimatáṃ[*681] nídhi[*682]-coditā́ṃ naḥ[*683]  
+vídadhāti[*684] púṣṭiṃ[*685] parā́ṃ[*686] parā́ya svā́hā  
+7.1.18.4 [9.9] só[*687] no bhūtó yó vāmr̥tātmā́ su-puṣṭím ásmad vítaran[*688] pavítrām[*689]  
+só[*690] no 'stu bhū́tyai kámalā-varāya[*691] svā́hā  
+7.1.18.5 [9.10] sa tv[*692] evá nityáṃ sákalās sva-mūrtáyas[*693] sú-ratās v[*694] anántāḥ  
+té 'jījayanto vípad akṣayā́ṇām[*695] tát-tat-savitré harate harāya[*696] svā́hā  
+[*669] US vahase sva-bhūtyai replaces váhasi sma bhūtyai  
+[*670] US rājimantām  
+[*671] US dhūr  
+[*672] Text: thūrayantīm  
+[*673] US viśva  
+[*674] Text: vindamānāṃ; Bb: vindamānāḥ  
+[*675] US vrajantīṃ; Bb vrajánti; Text: vrajántī  
+[*676] US daiva  
+[*677] US puṇyāṃ  
+[*678] US puṇyaḥ  
+[*679] phúruṣe read as púruṣe.  US puruṣe  
+[*680] US pur-agre  
+[*681] In rājimatáṃ, the a has a double anudātta underneath it in the text. US rājimantāṃ.  cf. English text  
+[*682] US niśi  
+[*683] US coditānām  
+[*684] US nidadhāti  
+[*685] US puṣṭyai  
+[*686] US haran  
+[*687] US sa  
+[*688] US asmat-pitaraṃ replaces ásmad vítaran  
+[*689] US pavitraṃ  
+[*690] US sa  
+[*691] US kamalaṃ parāya replaces kámalā varāya  
+[*692] US omits  
+[*693] Text: pva-mūrtáyas corrected to sva-mūrtáyas. US sa-mūrtayaḥ  
+[*694] US tv  
+[*695] US viyati kṣayāṇāṃ replaces vípad akṣayā́ṇām  
+[*696] US parāya  
+  
+  
+  
+7.1.0.9 sánte svā́hā harāya[*697] svā́hā  
+[*697] The 1984 edition reads sārāya.  
+  
+  
+7.1.19.1 [10.1] yā́ gā[*698] váríṣṭhās sáhasūr dharitré[*699] vásan vasan[*700] vaí vásunīha bhadrā́ḥ[*701]  
+rérīhayanto[*702] rájatáṃ rejante[*703] svā́hā  
+7.1.19.2 [10.2] vāyáv[*704] antarātmā́ váhate[*705] samástaṃ[*706] sú-puṇya-devéti sa sūri-muktáḥ  
+sūrís surāṇā́ṃ súraso 'py asún-das sámūhya devā́ya[*707] vára-dāya pitre svā́hā  
+7.1.19.3 [10.3] sárvopáriṣṭād[*708] ádhitiṣṭhat[*709] ātmā́ tásyopariṣṭā́t[*710] páramas[*711] sa-múktaḥ[*712]  
+tán nīrajantaṃ[*713] sútanu vrajántam[*714] ánusáṃparāya svā́hā  
+7.1.19.4 [10.4] támas sárva-bhūtam ádhunod vareṇyás[*715] tváṃ[*716] satva-rūpáṃ[*717] sákalaṃ[*718] prakāśya[*719]  
+sáṅkleśayan sr̥ṣṭi-nímittaye[*720] yás[*721] tásmai pára-bráhmaṇe páraṃ-jyótiṣe svā́hā  
+7.1.19.5 [10.5] jyótir jyótir jyótiṣāṃ jyótir[*722] ójo vā́[*723] bálam ā́haran[*724]  
+satváṃ[*725] satvā́tmakaṃ sá-jyotir[*726] uktáṃ[*727] tásmai sū́kṣma-sūkṣmāya téjase svā́hā  
+[*698] US gaur  
+[*699] US sahasor dharitrī replaces sáhasūr dharitré  
+[*700] US vasuṃ vasuṃ replaces vásan vasan  
+[*701] US bhadrā  
+[*702] US rerījayanto  
+[*703] US rajataṃ  
+[*704] US vāyor  
+[*705] US vahati  
+[*706] US samastaḥ  
+[*707] US devā  
+[*708] US yasyopariṣṭad  
+[*709] US adhitiṣṭhad  
+[*710] US sarvopariṣṭāt  
+[*711] US paramātmā  
+[*712] US muktaṃ  
+[*713] US virajaṃ nityam replaces nīrajantaṃ  
+[*714] US omits sútanu vrajántam  
+[*715] US adhunādhvareṇa replaces ádhunod vareṇyás  
+[*716] US taṃ  
+[*717] US sattva-rūpaṃ  
+[*718] US omits  
+[*719] US anupraviśya  
+[*720] US -nimittāya  
+[*721] US omits  
+[*722] US jenātir jenātiṣāṃ jenātir replaces jyótir jyótir jyótiṣāṃ jyótir  
+[*723] US omits  
+[*724] US āharat  
+[*725] US omits  
+[*726] US saṃ jenātir replaces sá-jyotir  
+[*727] US itthaṃ  
+  
+  
+  
+7.1.20.1 [10.6] satváṃ satvā́tmako[*728] rájo rájasa ātmakás támas támasa ādhāráḥ  
+sākr̥táṃ tam īśvaram[*729] īśvárāya svā́hā  
+7.1.20.2 [10.7] ánirbhiṇṇaṃ yasyedám āsīd ā́sīd[*730] údakam ātmakám[*731]  
+yásyo dā́vodán-artham[*732] uccam uccaír úrugāyā svā́hā  
+7.1.20.3 [10.8][*733] yásyecchā́ lóké vā prájā yateta lokáṃ dhatté vāsī tán ná cāsīt  
+yád vā saṃjātáṃ yát sárvam īśam īśíṣe svā́hā[*734]  
+7.1.20.4 [10.9][*735] yó védādíḥ párámáḥ páro brahmā́ tráyī-mātrakas tráyī-mūrtikáḥ  
+śabdáś śabdādikáḥ paraṃ-bráhmaṇe páraṃ-jyótiṣe svā́hā  
+7.1.20.5 [10.10][*736] yó vā 'vyaktáṃ sákalaṃ pravŕ̥ddhyā́ yád idáṃ sárvam āsīt  
+sānandáṃ sā́kr̥táṃ harán parāya svā́hā  
+[*728] US sattvaṃ sattvātmakaṃ vā replaces satváṃ satvā́tmako  
+[*729] US nirīśvaram replaces tam īśvaram  
+[*730] US omits second āsīd  
+[*731] US udakātmakam replaces údakam ātmākám  
+[*732] US 'yanutham; Bb dāvo dahed anartham  
+[*733] US this verse reads:  yasyecchā loke vā prajāyatir loke yasmai vāsi tasmai  / vāsīt yad vās saṃjātaṃ [?] yat sarvam īśam āśiṣe svāhā  
+[*734] US adds mātr̥kāyām etāvad evopalabdham “In the source only this much available.”  
+[*735] Missing in US.  
+[*736] Missing in US.  
+  
+  
+7.1.0.10 téjase svā́hā parāya svā́hā  
+  
+7.1.21.1 [11.1][*737] yó vā bhū́ter bhū́tir āsīt sā vānandáṃ pratyānandám  
+sá-juṣaṃ vrajāmi satyaṃ satyā́ya svā́hā  
+7.1.21.2 [11.2] satyás satyá-sthas satyá-loka-sthas satyás sáñjanitrám[*738] āsīt  
+satya-satyā́ya ráṃhase svā́hā  
+7.1.21.3 [11.3] r̥táṃ satyám ámitaṃ purāṇam ā́diṃ janitrám ámr̥taṃ suréndram  
+sa-jyótiṣāṃ juṣámāṇaṃ juṣasva svā́hā  
+7.1.21.4 [11.4] káṃ rājimantám ámr̥tasya guptíṃ sóme juṣantám ámr̥taṃ bibharti  
+ráyimat-supúṣṭiṃ gúṇavantam atra tásmai supuṇyā́ya vára-dāya pitre svā́hā  
+7.1.21.5 [11.5] mā́m ātma-guptā́ṃ sátyasya sarvásya vítāna-rūpā́ṃ sanjū́juṣantī́ṃ páramāṃ pavítrām  
+sándhārayantīm sváyam apramáttāṃ sáṃyojayitré vára-dāya pítre svā́hā  
+7.1.0.11 pítré svā́hā dve ca  
+[*737] This chapter missing in US.  
+[*738] Bb: sáñjanitrá  
+  
+  
+  
+[Colophon:]  
+háriḥ om  
+tatth sat  
+śrī rāmacandrārpaṇam astu  
+  
+________________________________________  
+  
+  
+Śrī Śrī śrī-nívāsāya namaḥ  
+Śrī-vaikhānasa-mantrapraśnāṣṭake  
+Saptama-praśnaḥ  
+Pāramātmikopaniṣat  
+Śrī śrī nivāsa dīkṣitīya bhāṣyānusārī  
+  
+hariḥ oṃ  
+7.2.1.1 [1.1] víṣṇus sárveṣām ádhipatiḥ paramáḥ purāṇáḥ  
+paró lokā́nām ájito jitātmán bhávate 'bhavāya svā́hā  
+7.2.1.2 [1.2] su-sū́kṣmas sā́rvas[*739] sárveṣām antarātmā́[*740] tásthus tásthuṣāṃ jáṃgámo jaṃgamānā́m  
+vibhur vibhū́ṇāṃ vibhavódbhavāya svā́hā  
+7.2.1.3 [1.3] jyótir vā́ pā́ramātmikaṃ sā́rvaṃ víśva-bhaváṃ bhavāya prábhūtaṃ prāhiṇván[*741] páramparāya sú-kr̥taṃ kr̥tāya tásmai várāyá ī́śiṣe svā́hā  
+7.2.1.4 [1.4] īśó yásmād vítataṃ vitatyá káṃ kaṃ dhr̥táṃ kā́ma-hutó juhoti  
+kákúdaṃ kakuc chitvā́ bhū́yaḥ parāya svā́hā  
+7.2.1.5 [1.5] rāyām īśó ráhito bharantyaí rā́ṃ rāṃ váhantyā āhitáḥ  
+rāyā́ṃ patiṃ rā́ṃ rāṃ dhárate dharitryaí rā́ṃ váhatodvahāya svā́hā  
+[*739] Text: sā́rva  
+[*740] Text: anmarātmā́  
+[*741] Text: prāhiṇván  
+  
+  
+  
+7.2.2.1 [1.6] yó brahma-śabdáḥ práṇavaḥ pradhānáś śabdáś śábdāntarātmā́ nítyo viyattáḥ prátaran prakāmám  
+prājāpatyáṃ prátaraṃ prakurván bhūyó bhūtyaí acaráṃ carāya svā́hā  
+7.2.2.2 [1.7] yó vā trí-mūrtíḥ páramaḥ paraś cá trí-guṇaṃ juṣāṇás sákalaṃ vídatte  
+trís-tris tri-dhātmā́ tri-dhā́ tri-dhā́ vā vídadhe samástaṃ tri-dhā́ tri-rūpáṃ sákalaṃ-dharāya svā́hā  
+7.2.2.3 [1.8] yad vā́ kr̥tám amŕ̥taṃ cárāṇāṃ yát sarva-niṣṭhám ajáraṃ samastám  
+yát páśyamānam ātmā́bhijuṣāṇám ántas suṣuptyā́n[*742]abhígamyamānāya svā́hā  
+7.2.2.4 [1.9] kaḥ[*743] kośam aṅgé kúśalaṃ vidhāya sā́kr̥táṃ kr̥ṇvate 'grá idaṃ sukāntám  
+kákudvaté kā́ma-caráṃ carāya svā́hā  
+7.2.2.5 [1.10] yám yajñaír múnayo juṣánti yáṃ devā́ḥ páramaṃ pavítraṃ  bhaviṣyánty ā́rtiṣu práṇatāḥ pradhānā́ḥ ya(g)ṃ sū́rayo japantó yóginás sū́kṣmais súpradarśanaiḥ páśyantīśvarāya svā́hā  
+[*742] VMP text 1984 edition: suṣuptyā́g.  1946 edition: suṣuptyā́n.  
+[*743] Text: kaṃ  
+  
+  
+  
+7.2.0.1 ud vahāya svā́heśvarā́ya svā́hā  
+  
+7.2.3.1 [2.1] yó vā gáviṣṭhaḥ páramaḥ pradhānáḥ padáṃ vā yásya satvám āsīt  
+yásyopáritvaṃ múnayo 'núpaśyanti tásmai mukhyā́ya víṣṇave svā́hā  
+7.2.3.2 [2.2] yó vā vā́yur dví-guṇo 'ntarātmā́ sárveṣām antáś caratīhá víṣṇo  
+sa tváṃ devā́n manuṣyān mr̥tān párisaṃjīvase svā́hā  
+7.2.3.3 [2.3] tvám agne trí-guṇo variṣṭháḥ paraṃ brahma páraṃ jyótiḥ  
+sárveṣāṃ tváṃ pā́lanāya hutám amŕ̥taṃ vahiṣyaṣe svā́hā  
+7.2.3.4 [2.4] tváṃ[*744] jī́vas tvám ā́pas sárveṣāṃ jánitā́ tvam ā́hāraḥ  
+tváṃ víṣṇo śramā́pánudāya cátur-guṇāya svā́hā  
+7.2.3.5 [2.5] bhū́mer vítanván prátaran prakāmáḥ pópūyamānáḥ  
+pañcábhis svá-guṇaiḥ prasannaís sárvāṇi mā́n dhārayiṣyasi svā́hā  
+[*744] 1946 edition: taṃ  
+  
+  
+7.2.4.1 [2.6] mánas tváṃ bhūtvā́ prátaran prado 'gré tvátto bhūtáṃ sáṃbhāváyiṣyasi sárveṣāṃ kā́yānām árham arhate svā́hā  
+7.2.4.2 [2.7] tváṃ buddhír bhūtā́nām antarātmā́ púṇyavatāṃ púṇyéṣu sájjamānaḥ tváṃ buddhyā́ vicínvamānaḥ puṇya-rūpā́ya svā́hā  
+7.2.4.3 [2.8] yás sūkṣmā́n saṃcáramāṇān bhāvā́bhāvā́n bhavyābhavyā́n  
+kúrvann ā́tmīyam ámito dhunoti dhuráṃ vahiṣyase svā́hā  
+7.2.4.4 [2.9] yásya vā bháyād bhágavān uttasthé svayáṃ sū́ryas satyáṃ kā́laṃ váhamānaḥ  
+yásmāt téja ātmíyaṃ kr̥tvā́ sarvān asmā́n pālayiṣyasi svā́hā  
+7.2.4.5 [2.10] yaṃ tvā́ṃ sarváṃ pā́lanāyābhibhūtáṃ devā́s sárve páśye  
+vícaranti té devā́s tvam evá sárve māyā́ māyaíṣā te svā́hā  
+  
+7.2.0.2 yiṣyasi svā́hā māyaíṣā te svā́hā  
+  
+7.2.5.1 [3.1] yás tváṃ bhūtvā́ parjányo bibheti randhré prajā́bhir  
+ ākr̥ṣyámāṇaḥ satyáṃ kālaṃ vraténa pāláyan hlā́dayiṣyase svā́hā  
+7.2.5.2 [3.2] kāmó bhūtvā́ prajā́nām antarā sthitás sárvā lokān hlādáyañ jī́vamānaḥ sandárpaṇāya haráye varāya svā́hā  
+7.2.5.3 [3.3] áṅgād aṅgād ánuprā́viśat sárvān lokā́n saṃrakṣaṇāya  
+yó vā vasán devó mātaríśvā sá yo 'smā́kaṃ bhū́tyai bhū́taye svā́hā  
+7.2.5.4 [3.4] yó mohayan bhūtā́nā(g)ṃ[*745] sargā́dhirákṣaṇāya  
+yás saṃkócas saṃkócanāya bhávatāt svā́hā  
+7.2.5.5 [3.5] yó vā daśātmā́ úpari spr̥śan vā́ devā́nāṃ jyótir jyótiṣām  
+úttaraḥ svayáṃ vā spŕ̥śan jyótir jyótiṣe svā́hā  
+[*745] 1946 edition bhūtā́nāṃ  
+  
+  
+7.2.6.1 [3.6] yó brahmā́ bráhma-vídām ātmā syād ātmá-cakṣuṣām  
+bhū́tir bhū́timatāṃ súkr̥taṃ kr̥tāya svā́hā  
+7.2.6.2 [3.7] sārasvato vā́ eṣá devó 'yáṃ na vā́ hayaḥ pā́ramātmikaḥ  
+bhayó 'bhayó vā́ sárvaṃ sáṃdhuṣe svāhā  
+7.2.6.3 [3.8] yó vā páraṃ jyotiḥ páraṃ sándadhānaḥ  
+paramātmā́ púruṣaṃ sáñjánáyíṣyase svā́hā  
+7.2.6.4 [3.9] yó doṣáś catúraś caturtháś catúraḥ pádārthā́n  
+sarváṃ lokásya sándadhānas sáte sátvam ādádhānāya svā́hā  
+7.2.6.5 [3.10] yásyaitā́ bráhma-mū́rtayo br̥hád-brahmā́ṇaṃ brahma  
+ā́dadhānaḥ yáṃ bráhma brahma-gúptaye páraṃparāya svā́hā  
+  
+7.2.0.3 jyótiṣe svā́hā parāya svā́hā  
+  
+7.2.7.1 [4.1] vā́ko vā́ ánuvāko vā́kaṃ vā́kaṃ sáṃjúṣamāṇaḥ  
+devás sa sváṃ sva-gúptaye sváyaṃ jyótiṣe jyótiṣe svā́hā  
+7.2.7.2 [4.2] dvā́v etaú pakṣī́ ácaraṃ carantaú nā́dhuráṃ vyádhunīte  
+yáś caiko bhunakti bhóktre svā́hā  
+7.2.7.3 [4.3] yó vā ā́yuḥ páramātmānaṃ[*746] mīḍhúṣaḥ pāraṃparyā́t paráḥ parāyaṇáḥ paró lokā́nāṃ paramā́ dadhānaḥ parátaḥ parāya svā́hā  
+7.2.7.4 [4.4] yó vā téjas téjasāṃ téjas téja ā́dadhānaḥ  
+satyás téjas téjasāṃ téjas téjas téjase svā́hā  
+7.2.7.5 [4.5] saha saṃpāyā́s tvam āśíṣam āśīr bhūtā́bhūtám  
+āśíṣam āśī-rāsī́r āśir ánubhūmis[*747] svā́hā  
+[*746] páramātmānaṃ read as páramātmāyaṃ  
+[*747] Text: ánubhūmi  
+  
+  
+  
+7.2.8.1 [4.6] yó vā sáṃyogas saṃjúṣamāṇás sandhús sandhúkṣaṇānām  
+saṃyógaṃ sándadhānaḥ puṇyáḥ puṇyā́nāṃ puṇyā́ya svā́hā  
+7.2.8.2 [4.7] sahásraṃ vā́ yásyaivá vitānám ā́dadhānas sahásraṃ vā́  
+āsíṣas sāsikā́ḥ sahasraṃ yásya vaí sā́sikās sahásraṃ sahasrāya svā́hā  
+7.2.8.3 [4.8] svātígā gúptayo guptís satyáṃ satyā́nāṃ sā́tváṃ padám  
+tát satváṃ satvám āsīt sā́tvaṃ sā́tvaṃ vaí sātvám ādádhānāya svā́hā  
+7.2.8.4 [4.9] satváṃ vā́ údrekám āsīd yát satvám ubháyor anugoptā́  
+tát satváṃ satyáṃ-vadāya satyā́ya svā́hā  
+7.2.8.5 [4.10] satyo jyotis sátyāntarātmā́ satyódyógás sátyas sat-karmá  
+satyáṃ satyá-vítānam āsīt satyá-satyā́ya svā́hā  
+  
+7.2.0.4 bhūmi svā́hā satyā́ya svā́hā  
+  
+7.2.9.1 [5.1] satyas satváṃ púṇyam āsīt púṇyo vā daivíkam satyáṃ  
+satvám ārṣaṃ satyaṃ satváṃ sát-pathāya svā́hā  
+7.2.9.2 [5.2] satyó jyotís satvaṃ prāṇā́s satvādhārā́s sátva-sáṃdhānáḥ  
+satyas satváṃ prákāśaṃ jyótir jyótiṣe svā́hā  
+7.2.9.3 [5.3] kā́mīm umā́m īśiṣam ī́śiṣa satyám īśiṣam ī́śiṣāṇām tát satyáṃ satyá-rūpaṃ  
+satyáṃ satyā́ya sandádhānāya svā́hā  
+7.2.9.4 [5.4] ā́riṇī vā́ ārandá ā́vārandó  
+ayám ārandáḥ mā́randá ā́nandáté svā́hā  
+7.2.9.5 [5.5] tat satvó vā́ víṣṇur udyogás sūryo go vā́ víṣṇur viśat  
+víśvaṃ víśvaṃ sándadhānas tád víśvaṃ víṣṇave viśvá-rūpāya svā́hā  
+  
+7.2.10.1 [5.6] tád bhū́r bhū́-sthaṃ bhū́-stho vā́ viśvá-rūpas tád bhū́ḥ prāṇá-saṃkhyātáḥ  
+bhū́r bhū́r āsīd bhū́r asi bhúvo 'si súvar asi bhū́r bhū́taye svā́hā  
+7.2.10.2 [5.7] ā́po vā́ ā́pa ā́po 'ntarātmā́ yó vedó vedā́nām ādhāráḥ  
+vedāntarātmā́ sá-raso rasa-saṃkhyātó rásaṃ rasam āsīd rasā́ya svā́hā  
+7.2.10.3 [5.8] trayī vā́ kā́maṃ trayī-máyaṃ trí-guṇaṃ tretātmakám  
+trayī vā́ jyótis trí-guṇaṃ tri-guṇātmakáṃ tásmai tretā́gnaye trí-gúṇāya svā́hā  
+7.2.10.4 [5.9] dvaú vā múkhyau múkhyādhārau sá-sukhau sānandaú  
+sá-smeraú smerā́yatau sā́nandám ānandáte svā́hā  
+7.2.10.5 [5.10] sá ekaíkas sādhārás sā́dhiṣṭhānó ínādhiṣṭhānáḥ  
+káṃ kaṃ padé pade pātaḥ pādā́ya pā́dite svā́hā  
+  
+7.2.0.5 viśva-rū́pā́ya[*748] svā́hā pādite svā́hā  
+[*748] 1946 edition: rū́pā́ya  
+  
+  
+7.2.11.1 [6.1] svayam ādis sárvāntarātmā́ devás sa sváyaṃ krīḍā́tmakam ávāsr̥jat  
+yás svayáṃ lokám ávadhāram avadhārayant svā́hā  
+7.2.11.2 [6.2] yás svayáṃ sr̥ṣṭám ātmánā guptám ánu saṃvitānám ácaraṃ carantam  
+svayáṃ krī́ḍan krīḍáyan krīḍā́ntaram ánuprā́viśat svā́hā́  
+7.2.11.3 [6.3] svaújasā sárvám ā́dadhāti yáḥ pā́pīyā(g)ṃsam ánupádam ā́hí(g)ṃsat  
+supuṇyaṃ púṇyātmakaṃ[*749] púṇya-vitānán dádhāra devā́ya svā́hā  
+7.2.11.4 [6.4] kṣmā́m ekā́ṃ sálilāvasannā́ṃ śrutvā́ svanantī́m ánu supátantīm  
+svayáṃ bhūtvā́ varāhó vára újjahāra tásmai devā́ya súkr̥tā́ya pítre svā́hā  
+7.2.11.5 [6.5] yáḥ kundháramāṇaḥ kún-dharān kúṃ-dharatām íty avocat  
+tā́ṃ sānumato vídadhat sva-téjasā tásmai variṣṭhā́ya váradāya pítre svā́hā  
+[*749] 1946 edition: súpúṇyātmakam  
+  
+  
+7.2.12.1 [6.6] yó vā pr̥thāṃ práskhalantīṃ prámr̥jyāmr̥jāṃgī́m  
+yá ūrvór úpadadhāt tásmai mukhyā́ya váradāya pitre svā́hā  
+7.2.12.2 [6.7] yā́ṃ gām uśantī́m úśanābhipūrṇā́m ā́rakta-nīlā́m amŕ̥tā́ṃ rajantī́m  
+ā́lālayan[*750] lā́lita[*751]-kaṃkaṇāṃ tā́ṃ tásmai prajeśā́ya váradāya pítre svā́hā  
+7.2.12.3 [6.8] prájā-pate ná tvad etā́ny anyó víśvā jātā́ni pári tā́ babhūva  
+yát-kāmās te juhumás tán no astu vayá(gg)ṃ syāma pátayo rayīṇā́(g)ṃ svā́hā  
+7.2.12.4 [6.9] yó dhū́r dhuraṃ dhū́r dhuraṃ dhūr varāṇā́m  
+sudhū́r dhū́r asi dhūr dhurāṇā́ṃ dhū́r asi dhū́r-váṃga me[*752] svā́hā  
+7.2.12.5 [6.10] yó vā vyahiṃṣī́j járayājarantáṃ tán daitya-mukhyám amŕ̥tātma-rūpám  
+súkhuraṃ khurāṇā́ṃ kíñcit svánántaṃ tásmai nr̥siṃhā́ya súreśa-pitre svā́hā  
+[*750] Text: ā́lāḷayan  
+[*751] Text: lā́ḷita  
+[*752] Text: mes  
+  
+  
+  
+7.2.0.6 váradāya pitre svā́hā sureśa-pitre svā́hā  
+  
+7.2.13.1 [7.1] tápo-nídhiṃ tápasāṃ rayíndaṃ ráyim āyur aṃgáṃ vyásanaugha-hiṃsrám  
+sā́siṣv asantáṃ sávane savítre tásmai suréśā́ya surá-br̥nda-kartre svā́hā  
+7.2.13.2 [7.2] yó vā nr̥siṃhó víjayaṃ bibhárṣi rā́-rājimantáṃ ráyi-daṃ kavī́nām  
+sá-rājimantáṃ sájayaṃ sahásraṃ tásmai suyantré suśévadhaye śevádhaye svā́hā  
+7.2.13.3 [7.3] ráyiḥ kakudmā́n vídadhad vináṣṭaṃ[*753] ráyimad vidhā́nam  
+tásmai kakutré víkaṭāya pítre svā́hā  
+7.2.13.4 [7.4] rākā́m ahá(g)ṃ suhávā́(g)ṃ suṣṭutī́ huve śr̥ṇótu nas subhágā bódhatu tmánā[*754]  
+sī́vyatv ápas sūcyā́ccidyamāna yā dádātu vīra(g)ṃ śatá-dāyam ukthyá(gg)ṃ svā́hā  
+7.2.13.5 [7.5] védāhám etáṃ púruṣaṃ mahā́ntam ādityá-varṇaṃ támasas tú pāré  
+sárvāṇi rūpā́ṇi vicítya dhī́ro nā́māni kr̥tvā́bhivádan yád ā́ste svā́hā  
+[*753] Text: dvináṣṭaṃ  
+[*754] 1946 edition: dmánā  
+  
+  
+  
+7.2.14.1 [7.6] dig-dóṣā yásya vídiśas sva-karṇaú dyáur āsa vaktrám údaran nabho vā  
+sā́si ṣma vā yā́s sváyam āpa dáṃtaṃ tásmai varatré váradāya kásmai svā́hā  
+7.2.14.2 [7.7] padmā́sya-vákṣāḥ páramas supuṇyáḥ padmā́ janitrī́ páramasya vā́saḥ  
+sūkṣmáṃ sā́vitraṃ sváyam ādadhā́nas sā́vitra-rūpáṃ parámaṃ supuṇya(gg)ṃ svā́hā  
+7.2.14.3 [7.8] yáḥ puṇḍarīkáḥ parámāntarātmā kámrāṃga-rūpáṃ kamalaṃ dadhāra  
+sá-rase rasā́ya svā́hā  
+7.2.14.4 [7.9] rayīṇā́ṃ pátiṃ br̥hántaṃ rā́-rāga-muktáṃ gurúṃ sanīkám[*755]  
+táṃ rāyo rūpáṃ ráyi-bhūta-bhū́taṃ rayímat-sura-mitre[*756] svā́hā  
+7.2.14.5 [7.10] rāyā́ṃ patatré rayím ādadhātré rāyó br̥hántaṃ ráyimat supúṣṭām  
+rā́-rājimantáṃ ratáye ramantáṃ táṃ biṃbavantáṃ kákudāya bhádre svā́hā  
+[*755] From: sanī, gift.  MW p. 1141.  
+[*756] PUB: suratre instead of sura-mitre; US: suratraḥ instead of sura-mitre  
+  
+  
+  
+7.2.0.7 yádā́ste svā́hā bhadre svā́hā  
+  
+7.2.15.1 [8.1] yát sāra-bhūtáṃ sákalaṃ dharítraṃ móda-prāyeṇā́nubhūtam ánuviddham  
+sūkṣmás sureśás sákalaṃ bibhárti tásmai súreśā́ya sakálaṃ supuṇya(gg)ṃ svā́hā  
+7.2.15.2 [8.2] phálo vā́ eṣá lokā́nām ájaro mahātmā́ víśvaṃ yáḥ pāti vímalo 'malākhyaḥ  
+tásmai varatré váradasya púṣṭyai svā́hā  
+7.2.15.3 [8.3] dhū́r no vahantā́ṃ ratáye ramantā́ṃ púṃ-bhūtimantás sámayas suṣúmnā  
+áṃ rājimantáṃ sákalasya gúptyai svā́hā  
+7.2.15.4 [8.4] víśvaṃ bibhárṣi prásuro rudantáṃ  
+sáṃrājimantáṃ sákalaṃ prarūḍhám  
+sá no vitatya práhiṇotu pátre svā́hā  
+7.2.15.5 [8.5] só vā́ sva-rū́pas sámadr̥k samágro vídhu-daṃ tudán yo vídadhat padáṃ vā  
+víyati prakā́śaṃ bŕ̥hate ruhéṇa táṃ biṃbavantáṃ samádaṃ samagra(gg)ṃ svā́hā  
+  
+7.2.16.1 [8.6] bhūr bhuvaṃ vā́ bhuvo vā́ suvo vā́ kíñcit svanántaṃ súṣuve samastám  
+sárvasya dātā́ram ajáraṃ jaritre svā́ḥa  
+7.2.16.2 [8.7] dākṣāyaṇyā́ṃ prásr̥taṃ samástaṃ sámkocayitvā́ sákalaṃ vitānám  
+sáṃvāsayan me sákalaṃ varíṣṭaṃ tásmai prajeśā́ya dhuráṃ-dharāya svā́hā  
+7.2.16.3 [8.8] ā́śās samástāḥ prátaran v antás tā́s tā́ vased yā́ kámalā samástā  
+sā́ me gr̥he vā́ sámadatta puṣṭí(gg)ṃ svā́hā  
+7.2.16.4 [8.9] yó jaṃgamānā́ṃ sákalaṃ bibharṣi[*757] sárvaṃ viyad vā́ vícareta śákṣyán  
+tán naur jale vapuṣy ánty ajásra(gg)ṃ svā́hā  
+7.2.16.5 [8.10] yó vā daśānā́ṃ prásr̥tās samástās tāṃs tā́n dadhānā́s sámayāt sa-bī́jāḥ  
+śabdā́tiriktyaí sva-baláṃ balāya svā́hā  
+[*757] Text: bibhirṣi  
+  
+  
+7.2.0.8 sámágra(gg)ṃ svā́hā balā́ya svā́hā  
+  
+7.2.17.1 [9.1] catvā́ro dóṣāḥ práharanti yásya sárvasya goptré sá-rasāya dhā́mne  
+sómasya puṇyáṃ ráyimat-pravŕ̥ddhyai svā́hā  
+7.2.17.2 [9.2] vákṣo vasaty ásya várāṃ variṣṭháṃ vā́kan dadhānā́ vávr̥dhe samástam  
+tásmai variṣṭhā́ya vára-pravr̥ddhyai svā́hā  
+7.2.17.3 [9.3] aṇór áṇīyān maható máhīyān ātmā́ gúhāyāṃ níhito 'sya jantóḥ  
+tám akratuṃ paśyati vīta-śokó dhātúḥ prasā́dān mahimā́nam īśa(gg)ṃ svā́hā  
+7.2.17.4 [9.4] víṣṇur váriṣṭho vára-dāna-mukhyó yó viśva-r̥ṣī́n dhyā́yan nu kurván  
+víśvaṃ hī́ṣad[*758] vyádadhat tam átra tád víṣṇave yāḥ prabhavíṣṇave yā amítaṃ bharatre svā́hā  
+7.2.17.5 [9.5] ábjo juṣantáḥ právadat patántaḥ pūṃ pū́ṃ[*759] puṣantáḥ púnar yaḥ pravā́laḥ[*760]  
+káṃ kaṃ janitré sáma-tejasan te svā́hā  
+[*758] Text: hī́hiṣad  
+[*759] Text: pū́ṃ  
+[*760] Text: pravā́ḷaḥ  
+  
+  
+  
+7.2.18.1 [9.6] mā́m ātma-guptā́ṃ váhate sma bhū́tyaitā́ṃ rājimantā́ṃ sudhū́r dhū́rayantīm  
+dhū́r asi dhruvā́ya svā́hā  
+7.2.18.2 [9.7] yáṃ cintayantó nigámānta-rūpáṃ yáṃ viśva-rūpáṃ parámātma-rūpám  
+táṃ vindamānā́ṃ sákalaṃ vrajántīṃ táṃ deva-mukhyáṃ surátaṃ bhavā́ya svā́hā  
+7.2.18.3 [9.8] puṇyā́ṃ ca púṇyaḥ púruṣe pur-agré tā́ṃ rājimantā́ṃ níśi coditā́nām  
+vídadhāti púṣṭyai harán-parāya svā́hā  
+7.2.18.4 [9.9] só no bhūtó yó vāmr̥tātmā́ supúṣṭim ásmat pítaraṃ pavítram  
+só no 'stu bhū́tyai kamalā́-varāya svā́hā  
+7.2.18.5 [9.10] sa tv eva nityáṃ sákalās sa-mūrtáyas sá-ratās tv anántāḥ  
+té jījayanto víyati kṣayā́ṇāṃ tát-tat-śavitré hárate harāya svā́hā  
+  
+7.2.0.9 sánte svā́hā harāya svā́hā  
+  
+7.2.19.1 [10.1] yā́ gā váriṣṭhā sáhasūr dharitrī́ vasúṃ vasuṃ vaí vásunīha bhádrā  
+rérījayanto rájitáṃ rajate svā́hā  
+7.2.19.2 [10.2.] vāyúr antarātmā́ váhatī samástas sá-puṇya devéti sá sūri-muktáḥ  
+sū́ris súrāṇāṃ súraso 'py asun-dás samū́hya devā́ya vára-dāya pítre svā́hā  
+7.2.19.3 [10.3] sárvopáriṣṭād ádhi tiṣṭhat ātmā́ yásyopáriṣṭāt páramas sa-muktáḥ  
+táṃ nī́rajantam ánusáṃparāya svā́hā  
+7.2.19.4 [10.4] támas sárva-bhūtam ádhunod vareṇyás táṃ satva-rūpáṃ sákalaṃ prakāśya  
+sáṃkleśayant sŕ̥ṣṭi-nímittaye yás tásmai páraṃ-bráhmaṇe páraṃ-jyótiṣe svā́hā  
+7.2.19.5 [10.5] jyótir jyótiṣāṃ jyótir ójo bálaṃ satváṃ satvā́tmakaṃ sáṃjyótir itthám tásmai sūkṣma-sūkṣmā́ya téjase svā́hā  
+  
+7.2.20.1[*761] [10.6] satváṃ satvā́tmakaṃ vā́ rájo rájasa ātmakám támas támasa ādhārás  
+sā́kr̥táṃ táṃ nirīśvaram īśvárā́ya svā́hā  
+7.2.20.2 [10.7] ánirbhiṇṇaṃ yásyedám āsīd ā́sīd údakam ātmakám  
+yásyo dā́vodan-artham[*762] uccam uccaír úrugāya svā́hā  
+7.2.20.3 [10.8] yásyecchā́ loké vā prájāyatir loké yán naivā́sīt tán naivāsīt  
+yád vā saṃjātáṃ yát sarvám ī́śam īśíṣe svā́hā  
+7.2.20.4 [10.9][*763] yó védādíḥ páramaḥ paro brahmā́ tri-mā́tras tráyī-mūrtikáḥ  
+śabdáś śabdātigáḥ paraṃ-bráhmaṇe páraṃ-jyótiṣe svā́hā  
+7.2.20.5 [10.10][*764] yó vā 'vyaktáṃ sákaláṃ právr̥ddhyai yád idáṃ sárvam āsīt  
+sānandáṃ sākr̥táṃ taṃ harán parāya svā́hā  
+[*761] 21 in book  
+[*762] Text: dā́vodhan-ardham  
+[*763] Missing in US  
+[*764] Missing in US  
+  
+  
+  
+7.2.0.10 téjase svā́hā parāya svā́hā  
+  
+7.2.21.1 [11.1][*765] yó vā bhū́ter bhū́tir āsīt sā vānandáṃ pratyānandám  
+sáṃjuṣan vrajāmi[*766] satyáṃ satyā́ya svā́hā  
+7.2.21.2 [11.2] satyás satyá-sthas satyá-loka-sthas satyáṃ sáñjanitrám āsīt  
+satyáṃ satyā́ya ráṃhase svā́hā  
+7.2.21.3 [11.3] r̥tá(g)ṃ satyáṃ ámitaṃ purāṇám ā́diṃ janitrám ámr̥taṃ suréndram  
+saṃjyótiṣāṃ juṣámāṇaṃ[*767] juṣasva svā́hā  
+7.2.21.4 [11.4] áṃ rājimantáṃ sákalasya guptíṃ sóme juṣantám ámr̥taṃ bibharti  
+ráyimat supúṣṭiṃ gúṇavantam átra tásmai supuṇyā́ya váradāya pítre svā́hā  
+7.2.21.5 [11.5] mā́m ātma-guptā́ṃ sátvasya sarvásya vítāna-rūpā́ṃ saṃjū́juṣantī́ṃ páramāṃ pavítrām  
+sántārayantīṃ sváyam apramáttāṃ sáṃyojayitré váradāya pítre svā́hā  
+[*765] This chapter missing in US.  
+[*766] Text: vr̥jāmi  
+[*767] 1946 edition: r̥ṣámāṇaṃ  
+  
+  
+  
+7.2.0.11 pítre svā́hā́ dve ca  
+  
+[Colophon:]  
+  
+háriḥ om  
+tatth sat  
+śrī śrīnivāsārpaṇam astu  
+  
+________________________________________  
+  
+  
+Śrī Śrī Śrī-nivāsāya namaḥ  
+Śrī-vaikhānasa-mantra-praśnāṣṭake  
+aṣṭama-praśnaḥ  
+  
+8.1.1.1 tam éka-nemíṃ trí-vŕ̥ttá(g)ṃ ṣoḍaśāntá(g)ṃ śátā́rdhā́ráṃ víṃśátí prátyátárā́bhír áṣṭákaíṣ ṣáḍbhír víśvá-rū́paika-pāśám  
+trí-mā́rgá-bhédáṃ dví-nímíttaika-mohám  
+8.1.1.2 prajā́-patiṃ prathamáṃ yajñíyānāṃ devā́nām ágre yajatáṃ yajadhvam  
+sá no dadātu dráviṇa(g)ṃ suvī́rya(g)ṃ rāyás póṣaṃ víṣyatu nā́bhim asmé  
+8.1.1.3 raúkmáṃ kūrmáṃ bráhma-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.1.4 tam eka-nemím gájáṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.1.5 śatá-dhāra(g)ṃ hiraṇmáyam gárúḍáṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.1.6 brahmā́ devā́nām bráhmaṇa imáṃ bráhmá-máṇíṃ bráhma-sthāne 'hám prátiṣṭhāpayāmy óṃ námaḥ  
+  
+8.1.2.1 índraṃ práṇayantaṃ índrā́yemáṃ vájrá-máṇím índra-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.2.2 agnā́v agníś carati práviṣṭa ŕ̥ṣīṇāṃ putró adhirājá eṣáḥ  
+sāhākŕ̥tya bráhmaṇā te juhomi[*768] mā́ devā́nāṃ mithuyā́ kar bhāgadhéyam  
+8.1.2.3 ágnaya imáṃ maúktíkám ágni-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.2.4 yamó dādhāra yamā́yemáṃ vaíḍū́ryá-máṇíṃ yáma-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.2.5 vásavaḥ prathamáḥ nírr̥taya imáṃ śáṅkhá-jáṃ nírŕ̥ti-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+[*768] Text: jahomi  
+  
+  
+8.1.3.1 yé te śatám váruṇāyemáṃ spháṭíká-máṇíṃ várúṇa-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.3.2 marútaḥ paramātmā́ vā́yava imáṃ púṣyá-kā́ntá-máṇíṃ vā́yu-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.3.3 sóma(g)ṃ rā́jānam sómā́yemáṃ cándrá-kā́ntá-máṇíṃ sóma-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.3.4 ī́śānas sárva-lokānā́m ī́śā́nā́yemáṃ nī́lá-máṇím ī́śā́na-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.3.5 śáṃ no nídhattām vā́sukaya imám ámŕ̥tā́śmáká-máṇíṃ vā́súki-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námáḥ  
+  
+8.1.4.1 dhātā́ dhātr̥ṇā́ṃ bhúvanasya yás patir devá(g)ṃ savitā́ram[*769] abhimātiṣā́ham  
+imáṃ yajñám aśvínobhā́ bŕ̥haspátir devā́ḥ pāntu yájamānaṃ nyarthā́t  
+8.1.4.2 sā́dhyébhyá ímáṃ lóhítā́śmáká-máṇíṃ sā́dhya-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.4.3 víśve-devásya víśvébhyó dévébhyá ímám útpálá-máṇíṃ víśvé-déva-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.4.4 ádhi brahmā́ yatatām eṣá devó divás-pátyāṃ vādhi marúto vóbhayeṣā́m  
+8.1.4.5 tápo-yogī́ yogá ekás svādhiṣṭhā́ ninīhi víśvaṃ bhúvanasya bhū́yaḥ  
+8.1.4.6 síddhébhyá ímáṃ právā́lá[*770]-máṇíṃ síddha-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.4.7 ímā́ṃ mūrdhanyā́ máma vāṇy asū́nāṃ páter indriyā́ṇāṃ máteḥ priyā́ṇām  
+vā́co rucīnā́m[*771] právarāya gā́yan nídhiṃ nídadhyan prajáyā astu bhū́tyai  
+[*769] RV: trātāram; TS, VMP:  savitā́ram  
+[*770] Text: právā́ḷá  
+[*771] 1926, '46, '84 editions: r̥cīnā́m  
+  
+  
+  
+8.1.5.1 gándhárvébhyá ímā́ṃ mánáś-śílā́ṃ gándhárva-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.5.2 apsarássu yó gandhó gandharvéṣu ca yád yáśaḥ  
+daívo yó mānuṣó gandhás sá mā gandhás surabhír juṣatām  
+8.1.5.3 ápsáróbhyá ímáṃ śúktí-jám ápsára-sthāne 'háṃ prátiṣṭāpayāmy óṃ námaḥ  
+8.1.5.4 yáṅ kādraveyā́[*772] ádhigās samū́he śérate vīrā́s tásya páribarhi víśvam  
+táṃ vāsuke bhūta-sáhasra-mūrte túbhyaṃ námaḥ pratháye bhū́taye tvā  
+8.1.5.5 nā́gébhyá ímáṃ vímálá-máṇíṃ nā́ga-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.5.6 aryamṇáḥ kumbhī́ śátruḥ pātra-pāṇír nipuṇáḥ áryámṇá ímáṃ kúrvíndám áryáma-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.5.7 índraṃ práṇayantam índrā́yemáṃ gaíríkám índra-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+[*772] 1926 edition: kādraveyā́; 1946, '84 eds.: kārdraveyā́  
+  
+  
+8.1.6.1 agnā́v agníḥ ágnaya imáṃ hárítā́lákám[*773] ágni-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.6.2 yamó dādhāra yámā́yemā́ṃ mánáś-śílā́ṃ yáma-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.6.3 vásavaḥ prathamáḥ nírr̥taya imám áṃjánáṃ nírŕ̥ti-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.6.4 yé te śatáṃ váruṇāyemáṃ kā́sī́sáṃ várúṇa-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.6.5 marútaḥ paramātmā́ vā́yava imáṃ pā́rádáṃ vā́yu-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+[*773] Text: hárítā́ḷákám  
+  
+  
+8.1.7.1 sóma(g)ṃ rā́jānam sómā́yemáṃ saúrā́ṣṭrá(g)ṃ sóma-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.7.2 ī́śānas sárva-lokānā́m ī́śā́nā́yemáṃ gó-rócánám ī́śā́na-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.7.3 brahmā́ devā́nāṃ padavī́ḥ kavīnā́m ŕ̥ṣir víprāṇāṃ mahiṣó mr̥gā́ṇām  
+śyenó gŕ̥ddhrāṇā(g)ṃ[*774] svádhitir vánānā(g)ṃ sómaḥ pavítram áty eti rébhán[*775]  
+8.1.7.4 bráhmáṇá ímā́ní sárvá-gándhā́ní bráhma-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.7.5 índraṃ práṇayantam índrā́yémā́ní[*776] ṣáṣtíkā́n vrī́hī́nī́ndra-sthāne 'háṃ prátiṣṭhāpáyāmy óṃ námaḥ  
+[*774] RV: gŕ̥dhrāṇā(g)ṃ  
+[*775] Text: rébhánn  
+[*776] Text: índā́yémā́ní  
+  
+  
+  
+8.1.8.1 agnā́v agníḥ ágnaya imaú kúlúddhá-mā́ṣā́v[*777] ágni-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.8.2 yamó dādhāra yamā́yemaú gó-dhū́má-múdgaú yáma-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.8.3 vásavaḥ prathamáḥ nírr̥taya imau tila-tilvau nirr̥ti-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.8.4 yé té śatám váruṇāyemaú vaṃśá-yávaú[*778] várúṇa-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.8.5 marútaḥ paramātmā́ vā́yava imaú nī́vā́rá-príyā́ṃgū́ vā́yu-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+[*777] Text: kúḷúddhámā́ṣā́v  
+[*778] 1946 edition: yavá-vaṃśá-yávaú  
+  
+  
+  
+8.1.9.1 sóma(g)ṃ rā́jānam sómā́yemaú gódhū́má-yávaú sóma-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.9.2 ī́śānas sárva-lokānā́m ī́śā́náyémā́ní sárvá-bī́jā́nī́śā́na-sthāne 'háṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.9.3 bhūyá ā́tma-vr̥tyā́ bála-tejo-jananyā́ devópavāhyā́ mánasā yayā́sánn  
+dākṣāyaṇyā́ dhanyaí[*779] yajeya[*780]  
+8.1.9.4 śrī́vátthsáṃ prátiṣṭhāpayāmy oṃ námaḥ  
+8.1.9.5 námas sulomá sulomí bhuví bhuvó cittála[*781] gúhala[*782] dóṇīyat  
+8.1.9.6 pū́rṇá-kumbhaṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.9.7 sa eko bhū́d divā́ni śaṃ nas sáñcāri bhavódbhavaḥ  
+sraṣṭús sr̥ṣṭeś ca sáñcitaḥ  
+[*779] Text: thanyaí  
+[*780] cf. VMP 6.34.4: yajeya(gg)ṃ  
+[*781] Text: cittáḷa  
+[*782] Text: gúhaḷa  
+  
+  
+  
+8.1.10.1 bhérī́ṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.10.2 devásya tvā ā́dárśáṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.10.3 áto devā́ mátsyá-yúgmáṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.10.4 kṣmā́m ekā́ṃ sálilāvasannā́ṃ śrutvā́ svanantī́m ánu supátantīm  
+svayam bhūtvā́ varāhó vára újjahāra tásmai devā́ya súkr̥tāya pitre  
+8.1.10.5 áṅkúśáṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.10.6 tán mā yaśo 'gré śáṅkáṃ prátiṣṭhāpayāmy óṃ námaḥ  
+  
+8.1.11.1 brahmā́ devā́nām ā́vártáṃ prátiṣṭhāpayāmy óm námaḥ  
+8.1.11.2 bhū́mān anto 'gré gádā́-cákrā́sí-śárā́n prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.11.3 tán mā yaśo 'gré śáṅkhá-śā́rṅgá-khéṭákā́n prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.11.4 bráhmá[*783] bráhmāntarātmā́ bráhmá-pū́tāntarātmā́ bráhmaṇi bráhma-niṣṭhó bráhma-gupto gupto 'ham asmi  
+8.1.11.5 sruva-kamaṇḍalu-tulā-toda-yuga-lāṅgalādi-varṇa-cihnāni prátiṣṭhāpayāmy óṃ námaḥ  
+[*783] 1946 edition: bráhmá; 1984 edition: bráhmā́  
+  
+  
+8.1.12.1 yé te śatám méghá-vídyúl-lā́ṃchánáṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.12.2 śriyé jātáḥ śrī́-rū́páṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.12.3 medínī devī́ háríṇī́-rū́páṃ prátiṣṭhāpayāmy óṃ námaḥ  
+8.1.12.4 áto devā́  
+8.1.12.5 óṃ kánikradaj januṣam  
+8.1.12.6 prá tád víṣṇuḥ  
+8.1.12.7 víṣṇór nú kam ā́ tvāhārṣam ékākṣara(g)ṃ sahásra-śīrṣā púruṣaḥ  
+  
+8.1.13.1 víṣṇor nú kam áto devā́ idáṃ víṣṇus trī́ṇi padā́ víṣṇoḥ kármāṇi tád víṣṇoḥ paramáṃ tád víprāsaḥ  
+8.1.13.2 súvar bhúvar bhū́ḥ  
+8.1.13.3 yáṃ áṃ[*784] óṃ  
+8.1.13.4 ékākṣaram aṃ ām  
+8.1.13.5 ā́tmātmā páramāntarātmā́  
+8.1.13.6 idáṃ víṣṇuḥ  
+8.1.13.7 ā́yā́tú bhágávā́n  
+8.1.13.8 víṣṇúm ā́vāhayāmi  
+8.1.13.9 śrī́ṃ óm  
+8.1.13.10 śriyé jātáḥ ā́yā́tú bhágávátī́  
+8.1.13.11 śríyam ā́vāhayāmi laṃ om  
+8.1.13.12 medínī devī́  
+8.1.13.13 ā́yā́tú bhágávátī́ háríṇīm ā́vāhayāmi  
+[*784] 1946 edition: āṃ  
+  
+  
+8.0.1 brahmá devā́nāṃ námaḥ prátiṣṭhapáyāmy óṃ námo 'stu bhū́tyai práṇayantaṃ marútaḥ paramātmā́ prátiṣṭhāpayāmy óṃ námo námas sáñcāri bhavódbhavas tán mā yaśo 'gré námaḥ púruṣa ó(g)ṃ saptá ca  
+  
+8.1.14.1 úd vayáṃ támasa úd u tyáṃ jātá-vedaśam  
+8.1.14.2 prá tád víṣṇuḥ  
+8.1.14.3 vímā́naṃ prápadye  
+8.1.14.4 víṣṇu-mayaṃ prápadye  
+8.1.14.5 dévāvāsaṃ prápadye  
+8.1.14.6 vaíkuṇṭhodbhavaṃ prápadye  
+8.1.14.7 máṇíkaṃ prápadye  
+8.1.14.8 máhā́-bálaṃ prápadye  
+8.1.14.9 vímálaṃ prápadye  
+8.1.14.10 dvā́ra-pālakaṃ prápadye  
+  
+8.1.15.1 nírasta(g)ṃ rákṣo nírasto 'ghá-śá(g)ṃso nírastā árātayaḥ  
+8.1.15.2 sá-sómā devā́ rakṣadhvam  
+8.1.15.3 híraṇya-pā́ṇím ūtáye savitā́ram úpa hvaye  
+sá céttā devátā padám  
+8.1.15.4 diváṃ vívr̥ṇotu diví svargáṃ pihita-dvāráṃ vívr̥notu  
+8.1.15.5 dívy antárikṣe devátānā(g)ṃ sāpsaró-gaṇam abhídarśayatām  
+8.1.15.6 bhúvaṅgāya námaḥ  
+8.1.15.7 áto devā́ idáṃ víṣṇus trī́ṇi padā́ víṣṇoḥ kármāṇi tád víṣṇoḥ paramáṃ padá(g)ṃ tad víprāsaḥ  
+8.1.15.8 úddīpyasva jātavedo 'paghnáṃ nírr̥tiṃ máma  
+paśū́(g)ṃś ca máhyam ā́vaha jī́vanañ ca díśodiśa  
+  
+8.1.16.1 śā́myantú ghorāṇi  
+8.1.16.2 śā́myantú pāpāni  
+8.1.16.3 śā́myantú ītayaḥ  
+8.1.16.4 bhágávató bálena bhagavató vī́ryeṇa bhagavatás téjasā[*785] bhagavatáḥ kármaṇā  
+8.1.16.5 bhágávatā́nugr̥hīto bhagavatā́nuddhyāto bhagavad dhyā́tvā[*786] bhagavat-kárma kariṣyāmi tád bhagavā́n ánumanyatām  
+8.1.16.6 nárya-prajā́ṃ me gopāya  
+8.1.16.7 amr̥tatvā́ya jīváse  
+jātā́ṃ janiṣyámāṇāñ ca  
+amŕ̥te satyé prátiṣṭhitām  
+8.1.16.8 átharva pitúṃ me gopāya  
+rásam ánnam ihā́yuṣe[*787]  
+[*785] Text: tséjasā  
+[*786] 1984 edition: bhagavaṃ ddhyā́tvā; 1926, 1946 eds.: bhagavad dhyā́tvā  
+[*787] VMP divides this verse making the second line the first line of chapter 17.  The numbering is adjusted so that the complete verse comes at the end of chapter 16.  
+  
+  
+  
+8.1.17.1 ádabdhāyó 'śītano  
+8.1.17.2 áviṣan naḥ pitúṃ kr̥ṇu  
+8.1.17.3 śá(gg)ṃsya paśū́n me gopāya  
+8.1.17.4 dvi-pā́do yé cátuṣ-padaḥ  
+aṣṭā́ śaphāś ca yá ihā́gne ye caika-śaphā āśu-gā́ḥ[*788]  
+8.1.17.5 sá-pratha sabhā́ṃ me gopāya  
+8.1.17.6 yé ca sábhyās sábhā-sádaḥ  
+tā́n indriyā́vataḥ kuru  
+[*788] 1946 edition: aśu-gā́ḥ  
+  
+  
+8.1.18.1 sárvam ā́yur úpāsatām  
+8.1.18.2 áhe budhniya mántram me gopāya  
+yám ŕ̥ṣayas traividā́ vidúḥ  
+ŕ̥cas sāmāni yájū́(g)ṃṣi  
+8.1.18.3 sā́ hí[*789] śrī́r amŕ̥tā satā́m  
+8.1.18.4 mā́ no hi(g)ṃsīj jātavedo gā́m áśvaṃ púruṣaṃ jágat  
+ábibhrad ágna ā́gahi śriyā́ mā páripātaya  
+8.1.18.5 samrā́jaṃ ca virā́jaṃ cābhi śrī́r yā́ ca no gr̥hé  
+lakṣmī́ rāṣṭrásya yā́ múkhe táyā  
+mā sá(g)ṃ sr̥jāmasi  
+[*789] VMP text: hiś; TB: hi  
+  
+  
+8.1.19.1 índrasya tvā́ vájreṇābhy úpa viśāmi  
+váha kāle váha śríyaṃ mābhivaha[*790]  
+8.1.19.2 áśvo 'si háyo 'sy áto 'si náro 'sy árvāsi sáptir asi  
+vā́jy asi vŕ̥ṣāsi nr̥máṇā asi yáyur nā́māsy ādityā́nāṃ pátvā́nvihi  
+8.1.19.3 ā́-go-dā́nāt páṭhed idám  
+8.1.19.4 devásya tvā bráhma jajñāná(g)ṃ  
+8.1.19.5 híraṇya-garbháḥ  
+8.1.19.6 bhū́ḥ prápadye bhúvaḥ prápadye súvaḥ prápadye bhū́r bhúvas súvaḥ prápadye virā́jamānaṃ tám ajaṃ prápadye  
+8.1.19.7 téjo-mayaṃ téjasām ápy agámya(g)ṃ sárvātmā́naṃ támasaḥ pā́rabhūtaṃ bhūtyā́ viśváṃ pāti yás táṃ prápadye  
+8.1.19.8 víṣṇuṃ prápadye  
+8.1.19.9 púrúṣaṃ prápadye  
+[*790] Text: mābhīrvaha  
+  
+  
+8.1.20.1 sátyaṃ prápadye  
+8.1.20.2 ácyútaṃ prápadye  
+8.1.20.3 ánírúddhaṃ prápadye  
+8.1.20.4 váraṃ raṃha ā́sthāsye gā́rudaṃ raṃhaṃ ā́sthāsye gā́rútmaṃtaṃ ráṃha ā́sthāsye  
+8.1.20.5 sárvaṃ sarvaṃ ráṃho vaiṣṇavám aham ā́sthāsye  
+8.1.20.6 bhū́r asi bhū́ḥ prátiṣṭhityai  
+8.1.20.7 bhúvo 'si bhúvaḥ prátiṣṭhityai  
+8.1.20.8 súvar asi súvaḥ prátiṣṭhityai  
+8.1.20.9 bhū́r bhúvas súvar asi súvaḥ prátiṣṭhityai  
+8.1.20.10 sānandás sárveṣām antarātmā́ bhava  
+  
+8.1.21.1 pūtáḥ pū́tāntarātmā́ bhava  
+8.1.21.2 puṇyáḥ púṇyāntarātmā́ bhava  
+8.1.21.3 brahmá bráhmāntarātmā́ bhava  
+8.1.21.4 víṣṇúṃ prátiṣṭhāpayāmí  
+8.1.21.5 ávadhūta(g)ṃ rákṣó 'vadhūtā árātayaḥ  
+8.1.21.6 ávadhūtas so 'stu yo 'smān dveṣṭi yáñ ca vayáṃ dviṣmáḥ  
+8.1.21.7 ā́śā́sú sáptásv ápí kañja-rekhā ā́pas samagrā́s samudā́vahāmi  
+8.1.21.8 sómā́gní-sū́ryā́mŕ̥tá-puṣkarīṇā́m āpas samāvā́hya púras-kariṣye  
+8.1.21.9 sóma(g)ṃ rā́jānaṃ váruṇam agním anvā́rabhāmahe  
+ādityā́n víṣṇu(g)ṃ sū́ryaṃ brahmā́ṇaṃ ca bŕ̥haspátim  
+  
+8.1.22.1 ā́ mā vā́jasya śúcī vo havyā́  
+8.1.22.2 duhatā́n dívam índras savitemā́ṃ duhatā́ṃ medínīm  
+8.1.22.3 tád ubháyaṃ prajānā́ṃ nírītaye nírudvegāya  
+8.1.22.4 jāhnavī́ṃ loka-pāvánīm  
+8.1.22.5 imáṃ me gaṅge yamune sarasvati śútudri stómá(g)ṃ sacatā páruṣṇíyā́  
+asikniyā́ marudvr̥dhe vitástayā́rjīkīye śr̥ṇuhyā́ suṣómayā  
+8.1.22.6 ā́dyam abhígr̥hṇāmi śrīman-nārāyaṇa-caraṇau śaraṇaṃ prapadye śrī́máté nā́rāyaṇāya námaḥ  
+8.1.22.7 tátth savitúr váreṇyam  
+  
+8.1.23.1 arvā́ñcam índram  
+8.1.23.2 svastí no mimītāṃ kánikradaj janúṣam  
+8.1.23.3 sóma(g)ṃ rā́jānam ídam ā́paś śivā́ḥ  
+8.1.23.4 bhágávató balena  
+8.1.23.5 náśyanti jágatām ītáyo nírastaḥ parāvásus[*791] saha pāpmánā  
+8.1.23.6 ahám evédáṃ kariṣyāmi vibhóḥ kartúṃ nidhāsyati  
+8.1.23.7 káriṣyāmy átra yát kíñcit[*792] tán me devó ínumanyatām  
+8.1.23.8 pūtás tasya  
+8.1.23.9 óṃ bhū́r bhúvas súvaḥ  
+8.1.23.10 nārāyaṇā́ya  
+[*791] According to MW, p. 590, parāvásu is a name “of a Gandharva (associated with Viśvavasu)”.  
+[*792] 1984 edition: yátíñcat; 1946 edition: yátíñcit  
+  
+  
+  
+8.1.24.1 óṃ víṣṇave námaḥ  
+8.1.24.2 óṃ púruṣāya námaḥ  
+8.1.24.3 óṃ satyā́ya námaḥ  
+8.1.24.4 óṃ ácyutāya námaḥ  
+8.1.24.5 oṃ áníruddhāya námaḥ  
+8.1.24.6 udyántaṃ vā́vā́dityám agnír ánusamā́rohati  
+8.1.24.7 tásmād dhūmá evā́gnér dívā dadr̥śe  
+8.1.24.8 bhū́r anílayā bhū́tayā bhū́tayā páriṣiñcāmi bhúvas suṣumnáyā prāṇávatyā páriṣiñcāmi svár amŕ̥távatyā jyótiṣmatyā ca páriṣiñcāmi  
+8.1.24.9 tā́(g)ṃ savitúr váreṇyasya citrā́m aháṃ[*793] vr̥ṇe sumatíṃ viśvá-janyāṃ yā́m asya káṇvo áduhat[*794] prápīnā(g)ṃ sahásra-dhārāṃ páyasā mahī́ṃ gā́m  
+8.1.24.10 ā́gneyó yásmāt praíṣām adhīśáḥ  
+[*793] 1984 edition: ahaṃ; 1946 edition: āhaṃ  
+[*794] Text: ā́duhat  
+  
+  
+  
+8.1.25.1 víṣvak-senaṃ prápadye  
+8.1.25.2 śā́ntaṃ prápadye  
+8.1.25.3 háraṃ prápadye  
+8.1.25.4 ámítaṃ prápadye  
+8.1.25.5 sū́travatīṃ prápadye  
+8.1.25.6 jayā́ṃ prápadye  
+8.1.25.7 mā́rkaṇḍeyāya námaḥ  
+8.1.25.8 bhr̥gáve námaḥ  
+8.1.25.9 bráhmaṇe námaḥ  
+8.1.25.10 śáṅkarāya námaḥ  
+8.1.26.1 sū́ryā́ya námaḥ  
+8.1.26.2 sómā́ya námaḥ  
+8.1.26.3 áṅgārakāya námaḥ  
+8.1.26.4 saúmyā́ya námaḥ  
+8.1.26.5 bŕ̥haspátaye námaḥ  
+8.1.26.6 bhā́rgavāya námaḥ  
+8.1.26.7 sauráye námaḥ  
+8.1.26.8 rā́have námaḥ  
+8.1.26.9 kétáve námaḥ  
+8.1.26.10 dhā́tre námaḥ  
+  
+8.1.27.1 vídhā́tre námaḥ  
+8.1.27.2 bhúvaṅgāya námaḥ  
+8.1.27.3 pátáṅgāya námaḥ  
+8.1.27.4 pátírā́ya námaḥ  
+8.1.27.5 váráṇā́ya námaḥ  
+8.1.27.6 dharmā́ya námaḥ  
+8.1.27.7 jñā́nā́ya námaḥ  
+8.1.27.8 aiśvaryā́ya námaḥ  
+8.1.27.9 gájá-lakṣmyai námaḥ  
+8.1.27.10 maṇikā́ya námaḥ  
+  
+8.1.28.1 sandhyā́yai námaḥ  
+8.1.28.2 nyakṣyā́ya námaḥ  
+8.1.28.3 indrā́ya námaḥ  
+8.1.28.4 tā́pasāya námaḥ  
+8.1.28.5 siddhidā́ya námaḥ  
+8.1.28.6 kíṣkindhāya námaḥ  
+8.1.28.7 tīrthā́ya námaḥ  
+8.1.28.8 nā́ga-rājāya námaḥ  
+8.1.28.9 gaṇeśā́ya námaḥ  
+8.1.28.10 śáṅkha-nidhaye námaḥ  
+  
+8.1.29.1 pádma-nidhaye námaḥ  
+8.1.29.2 tuhiṇā́ya námaḥ  
+8.1.29.3 balindā́ya námaḥ  
+8.1.29.4 khaḍgā́ya námaḥ  
+8.1.29.5 śārṅgā́ya námaḥ  
+8.1.29.6 śáṅkha-cūliṇe[*795] námaḥ  
+8.1.29.7 cákra-cūliṇe[*796] námaḥ  
+8.1.29.8 caṇḍā́ya námaḥ  
+8.1.29.9 prácaṇḍāya námaḥ  
+8.1.29.10 śrī-bhūtā́ya námaḥ  
+[*795] Text: cūḷiṇe  
+[*796] Text: cūḷiṇe  
+  
+  
+  
+8.1.30.1 garuḍā́ya námaḥ  
+8.1.30.2 cakrā́ya námaḥ  
+8.1.30.3 dhvajā́ya námaḥ  
+8.1.30.4 śaṅkhā́ya námaḥ  
+8.1.30.5 yū́thādhipāya[*797] námaḥ  
+8.1.30.6 ákṣa-hantre námaḥ  
+8.1.30.7 havi-rakṣakā́ya námaḥ  
+8.1.30.8 ágnaye námaḥ  
+8.1.30.9 vívasvate námaḥ  
+8.1.30.10 yamā́ya námaḥ  
+[*797] Text: yū́dhādhipāya  
+  
+  
+8.1.31.1 bali-rakṣakā́ya námaḥ  
+8.1.31.2 nírr̥taye námaḥ  
+8.1.31.3 mitrā́ya námaḥ  
+8.1.31.4 varuṇā́ya námaḥ  
+8.1.31.5 púṣpa-rakṣakāya námaḥ  
+8.1.31.6 vā́yave námaḥ  
+8.1.31.7 kṣátre námaḥ  
+8.1.31.8 kúberāya námaḥ  
+8.1.31.9 bhā́skarāya námaḥ  
+8.1.31.10 ī́śānāya námaḥ  
+  
+8.1.32.1[*798] ávighnā́ya námaḥ  
+8.1.32.2 ā́modāya námaḥ  
+8.1.32.3 prámodāya námaḥ  
+8.1.32.4 pramukhā́ya námaḥ  
+8.1.32.5 durmukhā́ya námaḥ  
+8.1.32.6 víghṇa-kartre námaḥ  
+8.1.32.7 bhūtébhyo námaḥ  
+8.1.32.8 yakṣébhyo námaḥ  
+8.1.32.9 piśācébhyo námaḥ  
+8.1.32.10 nāgébhyo námaḥ  
+[*798] VMP lists this section as the previous one, as 31.  Next comes 33.  We have corrected this chapter number to 32.  
+  
+  
+8.0.2 prápádye díśodiśa gopāyendriyā́vataḥ kuru sa(g)ṃ sr̥jāmasi prápadye 'ntarātmā́ bhava br̥has-pátiṃ tát savitúr váreṇya(g)ṃ nārāyaṇā́ya praíṣām adhīśáś śáṅkarāya námo dhā́tre námo máṇikāya námaś śáṅkha-nidhaye námaś śrī-bhūtā́ya námo yamā́ya náma ī́śānāya námo nā́gebhyo námaḥ  
+  
+8.1.33.1 dhārāsu saptású śúci vo havyā́  
+8.1.33.2 mā́rtā́ṇḍam ā́vāhayāmi  
+8.1.33.3 jyéṣṭhā́m ā́vāhayāmi  
+8.1.33.4 sā́gáram ā́vāhayāmi  
+8.1.33.5 śúkram ā́vāhayāmi  
+8.1.33.6 dhármá-jñam ā́vāhayāmi  
+8.1.33.7 khágā́dhípátim ā́vāhayāmi  
+8.1.33.8 pháṇí-rā́jam ā́vāhayāmi  
+8.1.33.9 dhármam ā́vāhayāmi  
+  
+8.1.34.1 víṣṇum ā́vāhayāmi  
+8.1.34.2 rúdram ā́vāhayāmi  
+8.1.34.3 brahmā́ṇam ā́vāhayāmi  
+8.1.34.4 várúṇam ā́vāhayāmi  
+8.1.34.5 vánas-pátim ā́vāhayāmi  
+8.1.34.6 rávim ā́vāhayāmi  
+8.1.34.7 pítr̥̄n ā́vāhayāmi  
+8.1.34.8 bhū́mim ā́vāhayāmi  
+8.1.34.9 jā́hnávīm ā́vāhayāmi  
+8.1.34.10 vásántam ā́vāhayāmi  
+  
+8.1.35.1 kā́śyápam ā́vāhayāmi  
+8.1.35.2 phúllam ā́vāhayāmi  
+8.1.35.3 pŕ̥thívīm ā́vāhayāmi  
+8.1.35.4 bŕ̥haspátim ā́vāhayāmi  
+8.1.35.5 śríyam ā́vāhayāmi  
+8.1.35.6 śáśá-dháram ā́vāhayāmi  
+8.1.35.7 sā́má-védam ā́vāhayāmi  
+8.1.35.8 pítr̥̄n ā́vāhayāmi  
+8.1.35.9 śéṣam ā́vāhayāmi  
+8.1.35.10 vā́yum ā́vāhayāmi  
+  
+8.1.36.1 níśā́-káram ā́vāhayāmi  
+8.1.36.2 phúllam ā́vāhayāmi  
+8.1.36.3 vācás-pátim ā́vāhayāmi  
+8.1.36.4 médínīm ā́vāhayāmi  
+8.1.36.5 prácétásam ā́vāhayāmi  
+8.1.36.6 pā́ñcájányam ā́vāhayāmi  
+8.1.36.7 ámárān ā́vāhayāmi  
+8.1.36.8 nandī́śam ā́vāhayāmi  
+8.1.36.9 sā́má-védam ā́vāhayāmi  
+8.1.36.10 śárvam ā́vāhayāmi  
+  
+8.1.37.1 ápsárása ā́vāhayāmi  
+8.1.37.2 áthárváṇá-védam ā́vāhayāmi  
+8.1.37.3 yájúr-védam ā́vāhayāmi  
+8.1.37.4 súdhā́ṃśum ā́vāhayāmi  
+8.1.37.5 ráví-máṇḍálam ā́vāhayāmi  
+8.1.37.6 tváṣṭā́ram ā́vāhayāmi  
+8.1.37.7 sū́ryam ā́vāhayāmi  
+8.1.37.8 níśā́-káram ā́vāhayāmi  
+8.1.37.9 ṣáṇ-múkham ā́vāhayāmi  
+8.1.37.10 váhnim ā́vāhayāmi  
+  
+8.1.38.1 rúdram ā́vāhayāmi  
+8.1.38.2 ŕ̥g-védam ā́vāhayāmi  
+8.1.38.3 vā́súkim ā́vāhayāmi  
+8.1.38.4 trí-mū́rtīr ā́vāhayāmi  
+8.1.38.5 kraúñcá-nándánam ā́vāhayāmi  
+8.1.38.6 khágā́dhípátim ā́vāhayāmi  
+8.1.38.7 kápí-rā́jam ā́vāhayāmi  
+8.1.38.8 brahmā́ṇam ā́vāhayāmi  
+8.1.38.9 védā́n ā́vāhayāmi  
+8.1.38.10 ṣáḍ-ā́nánam ā́vāhayāmi  
+  
+8.1.39.1 nā́gān ā́vāhayāmi  
+8.1.39.2 vī́śam ā́vāhayāmi  
+8.1.39.3 śáṅkham ā́vāhayāmi  
+8.1.39.4 cákram ā́vāhayāmi  
+8.1.39.5 máhā́-dévam ā́vāhayāmi  
+8.1.39.6 kálā́[*799]-nídhim ā́vāhayāmi  
+8.1.39.7 várúṇam ā́vāhayāmi  
+8.1.39.8 pŕ̥thívīm ā́vāhayāmi  
+8.1.39.9 sárvá-tī́rthāny ā́vāhayāmi  
+8.1.39.10 nā́gá-rā́jam ā́vāhayāmi  
+[*799] Text: káḷā́  
+  
+  
+8.1.40.1 pā́ká-śā́sánam ā́vāhayāmi  
+8.1.40.2 hímā́ṃśum ā́vāhayāmi  
+8.1.40.3 ā́dítyam ā́vāhayāmi  
+8.1.40.4 vásíṣṭham ā́vāhayāmi  
+8.1.40.5 sómam ā́vāhayāmi  
+8.1.40.6 yájñā́ṅgam ā́vāhayāmi  
+8.1.40.7 índum ā́vāhayāmi  
+8.1.40.8 cándram ā́vāhayāmi  
+8.1.40.9 vímálam ā́vāhayāmi  
+8.1.40.10 mŕ̥gā́ṅkam ā́vāhayāmi  
+8.1.40.11 divā́-káram ā́vāhayāmi  
+8.1.40.12 kámálā́sánam ā́vāhayāmi  
+8.1.40.13 sū́ryam ā́vāhayāmi  
+8.1.40.14 pā́ñcábhaútákam ā́vāhayāmi  
+8.1.40.15 gárúḍam ā́vāhayāmi  
+8.1.40.16 híráṇyá-gárbham ā́vāhayāmi  
+8.1.40.17 nā́rā́yáṇam ā́vāhayāmi  
+  
+8.0.3 dhármam ā́vāhayāmi. pásántam ā́vāhayāmi. vā́yum ā́vāhayāmi. śárvam ā́vāhayāmi. váhnim ā́vāhayāmi. śáḍ-ā́nánam ā́vāhayāmi. nā́gá-rā́jam ā́vāhayāmi. mŕ̥gā́ṅkam ā́vāhayāmi. saptá cá.  
+  
+8.1.41.1 agníś śúci-vratatamaś śúcir vípraś śúciḥ kavíḥ śúcī rocata ā́hutaḥ  
+úd agne śúcayas táva śukrā́ brā́janta īrate táva jyótī(g)ṃṣy arcáyaḥ  
+8.1.41.2 tátth savitúr váreṇyam  
+8.1.41.3 dhārāsu saptásu  
+8.1.41.4 idám ā́paś śivā́ḥ  
+8.1.41.5 nārāyaṇā́ya  
+8.1.41.6 bhū́ḥ prápadye  
+8.1.41.7 vaíkhāṇasāyā́cyúta-sa(gg)ṃśrayā́ya  
+tápo-ígra niṣṭhā́ya ca bráhma-darṣine[*800]  
+[*800] VMP divides this verse making the second line the first line of chapter 42.  The numbering is adjusted so that the complete verse comes at the end of chapter 41.  
+  
+  
+8.1.42.1 dhanur-dharā́yai[*801] vidmáhe sarva-siddhyaí ca dhīmahi  
+tán no dharā pracodáyāt  
+8.1.42.2 sárvá-bhū́tá-nívā́ráṇā́yaí húṃ phat svāhā́  
+8.1.42.3 bhū́r bhúvas súvar óm  
+8.1.42.4 ā́dhāra-śaktyai námaḥ  
+8.1.42.5 ánántā́sánā́ya námaḥ  
+8.1.42.6 kū́rmā́sánā́ya námaḥ  
+8.1.42.7 vímálā́sánā́ya námaḥ  
+8.1.42.8 pádmā́sánā́ya námaḥ  
+[*801] 1946 edition: -tharāyai; 1984 edition: -tharāya  
+  
+  
+8.1.43.1 húṃ phaṭ svāhā́  
+8.1.43.2 índrāya námaḥ  
+8.1.43.3 agnáye námaḥ  
+8.1.43.4 yamā́ya námaḥ  
+8.1.43.5 nírr̥taye námaḥ  
+8.1.43.6 váruṇāya námaḥ  
+8.1.43.7 vāyáve námaḥ  
+8.1.43.8 sómāya námaḥ  
+8.1.43.9 ī́śānāya námaḥ  
+8.1.43.10 óṃ bhū́ḥ  
+  
+8.1.44.1 óṃ bhúvaḥ  
+8.1.44.2 ó(g)ṃ súvaḥ  
+8.1.44.3 óṃ máhaḥ  
+8.1.44.4 óṃ jánaḥ  
+8.1.44.5 óṃ tápaḥ  
+8.1.44.6 ó(g)ṃ satyám  
+8.1.44.7 óṃ táth savitúr váreṇyaṃ bhárgo devásya dhīmahi  
+dhíyo yó naḥ pracodáyāt  
+8.1.44.8 óm ā́po jyótī ráso 'mŕ̥taṃ bráhma bhū́r bhúvas súvar óm  
+8.1.44.9 bhū́mer vítanván prátaran prakāmáḥ pópūyamānáḥ páñcabhis svá-guṇaiḥ prasannais sárvāṇi mā́n dhārayiṣyasi svā́hā  
+  
+8.1.45.1 pŕ̥thivyaí húṃ phaṭ svāhā́  
+8.1.45.2 apsú pr̥thívī́ṃ právílāpayāmí  
+8.1.45.3 aniruddha-mūrtíṃ dhyā́yā́mi  
+8.1.45.4 tváṃ jī́vas tvám ā́pas sárveṣāṃ janitā́ tvam ā́hāraḥ  
+tváṃ víṣṇo śramā́pánudāya cátur-guṇāya svā́hā  
+8.1.45.5 amr̥tā́ya húṃ phaṭ svāhā́  
+8.1.45.6 agnā́v apáh právílāpayāmi  
+8.1.45.7 acyuta-mūrtíṃ dhyāyāmi  
+8.1.45.8 tvám agne trí-guṇo variṣṭháḥ páraṃ brahma páraṃ jyótiḥ  
+sárveṣāṃ tváṃ pā́lanāya hutám amŕ̥táṃ vahiṣyase svā́hā  
+  
+8.1.46.1 agnáyé húṃ phaṭ svāhā́  
+8.1.46.2 vāyā́v agníṃ právílāpayāmí  
+8.1.46.3 satya-mūrtíṃ dhyāyāmí  
+8.1.46.4 yó vā vā́yur dví-guṇo 'ntarātmā́ sárveṣām antáś caratīhá víṣṇo  
+sa tvaṃ devā́n manuṣyān mr̥tān párisaṃjīvase svā́hā  
+8.1.46.5 vāyávé húṃ phaṭ svāhā́  
+8.1.46.6 ā́kā́śé vāyúṃ právílāpayāmí  
+8.1.46.7 puruṣa-mūrtíṃ dhyāyāmí  
+8.1.46.8 yó vā gáviṣṭhaḥ páramaḥ pradhānáḥ[*802] padáṃ vā yásya satvám āsīt  
+yásyopáritvaṃ múnayo 'núpaśyanti tásmai mukhyā́ya víṣṇave svā́hā[*803]  
+[*802] Text: prathānáḥ  
+[*803] VMP divides this verse making the second line the first line of chapter 47.  The numbering is adjusted so that the complete verse comes at the end of chapter 46.  
+  
+  
+  
+8.1.47.1 ā́kā́śám ahaṅkāré právílāpayāmí  
+8.1.47.2 ahaṅkāráṃ mahat-tatvé právílāpayāmí  
+8.1.47.3 mahat-tatváṃ prákŕ̥taú právílāpayāmí  
+8.1.47.4 tā́ṃ prakŕ̥tiṃ pára-brahmaṇi právílāpayāmí  
+8.1.47.5 víṣṇu-mūrtíṃ dhyāyāmi  
+8.1.47.6 ā́ vāta vāhi bheṣajáṃ ví vāta vāhi yád rápaḥ  
+tvá(g)ṃ hí viśvá-bheṣajo devā́nāṃ dūtá ī́yase  
+8.1.47.7 ágne rákṣā ṇo á(g)ṃhasaḥ prati ṣma devá rī́ṣataḥ  
+tápiṣṭhair ajáro daha[*804]  
+[*804] VMP divides this verse making the second line the first line of chapter 48.  The numbering is adjusted so that the complete verse comes at the end of chapter 47.  
+  
+  
+8.1.48.1 ágne há(g)ṃsi ny atriṇam  
+8.1.48.2 yád adó vāta te gr̥he 'mr̥tásya nídhir hitáḥ  
+táto no dehi jīváse táto no dhehi bheṣajám  
+8.1.48.3 syonā́ pr̥thivī bhávānr̥kṣarā nivéśanī  
+yáccā naś śárma sapráthāḥ  
+8.1.48.4 yó vā gáviṣṭhaḥ  
+8.1.48.5 ātmana ākā́śas sámbhūtaḥ  
+8.1.48.6 paramātmánaḥ prakr̥tíṃ trí-gúṇā́tmíkā́ṃ prátiṣṭhāpayāmí  
+8.1.48.7 prakr̥tér mahā́ntám útpādayāmí  
+  
+8.1.49.1 maható 'háṅkāram utpādayāmí  
+8.1.49.2 ahaṅkārā́d ā́kā́śáṃ prátiṣṭhāpayāmí  
+8.1.49.3 yó vā vā́yuḥ  
+ākāśā́d vāyúṃ prátiṣṭhāpayāmí  
+8.1.49.4 tvám agne trí-guṇo variṣṭháḥ  
+vāyór agníṃ prátiṣṭhāpayāmí  
+8.1.49.5 tváṃ jī́vaḥ  
+agnér apáḥ prátiṣṭhāpayāmí  
+8.1.49.6 bhū́mer vítanván  
+adbhyáḥ pr̥thivī́ṃ prátiṣṭhāpayāmí  
+  
+8.1.50.1 ásunīte púnar asmā́su cákṣuḥ púnaḥ prāṇám ihá no dhehi bhógam  
+jyók paśyema sūryám uccáraṃtam ánumate mr̥láyā nas svastí  
+8.1.50.2 amr̥taṃ vaí prānā́ amŕ̥tam ā́paḥ prāṇā́n evá yathā-sthānám úpahvayate  
+8.1.50.3 mámá prā́ṇá íhá prāṇáḥ  
+8.1.50.4 mámá jī́vá íhá jī́vás sthitáḥ  
+8.1.50.5 mámá sárvéndríyā́ṇí vā́ṅ-mánó-búddhy-áháṃkā́rá-kā́ma-rāgāntáṃ  
+8.1.50.6 pŕ̥thívy-áp-téjó-vā́yv-ā́kā́śá-śábdá-spárśá-rū́pá-rásá-gándhá-tvák cákṣúś-śrótrá-jíhvā́-ghrā́ṇá-vā́k-pā́ṇí-pā́dá-pā́yū́pásthá-prā́ṇā́ ihaivā́gátyá súkháṃ círaṃ tiṣṭhantú hrī́ṃ svāhā́  
+8.1.50.7 máma hŕ̥daye páramātmanas sakākā́j jī́vā́tmā́náṃ prátiṣṭhāpayāmy ón námaḥ  
+8.1.50.8 haṃsa-haṃsā́ya vidmáhe parama-haṃsā́ya dhīmahi  
+táṃn no haṃsaḥ pracodáyāt  
+  
+8.1.51.1 yó vā sáṃyogas saṃjúṣamāṇas sandhús sandhúkṣaṇānām  
+saṃyógaṃ sándadhānaḥ[*805] puṇyáḥ puṇyā́nāṃ puṇyā́ya svā́hā  
+8.1.51.2 saha saṃpāyā́s tvam āśíṣam āśīr bhūtābhūtám  
+āśíṣam āśī-rāsī́r[*806] āśir ánubhūmis[*807] svā́hā  
+8.1.51.3 yó vā téjas téjasāṃ téjas téja ā́dadhānaḥ  
+satyás téjas téjasāṃ téjas téjas téjase svā́hā  
+8.1.51.4 yó vā ā́yuḥ páramātmānaṃ mīḍhúṣaḥ paraṃparyā́t paráḥ parāyaṇáḥ  
+paró lokā́nāṃ paramā́ dadhānaḥ parátaḥ parāya svā́hā  
+8.1.51.5 víṣṇus sárveṣām ádhipatiḥ paramáḥ purāṇáḥ  
+paró lokā́nām ájító jítātmán bhávaté 'bhavāya svā́hā  
+[*805] Text: sándhadhānaḥ  
+[*806] Text: āsī-rāsī́r  
+[*807] Text: ánubhūmi  
+  
+  
+  
+8.1.52.1 yó védādíḥ páramaḥ paro brahmā́ tri-mā́tras tráyi-mūrtikáḥ  
+śabdáś śabdātigáḥ paraṃ-bráhmaṇe páraṃ-jyótiṣe svā́hā  
+8.1.52.2 yó vā gáviṣṭhaḥ  
+8.1.52.3 parā́ya párameṣṭhy-ātmane víṣṇave ā́kāśāya námaḥ  
+8.1.52.4 yó vā vā́yuḥ  
+8.1.52.5 parā́ya púruṣātmane púruṣāya vā́yave námaḥ  
+8.1.52.6 tvám agne trí-guṇo variṣṭháḥ  
+8.1.52.7 parāya víśvātmane sátyāyāgnáye námaḥ  
+8.1.52.8 tváṃ jī́vas tvám ā́paḥ  
+8.1.52.9 parā́ya nívr̥ty-ātmane ácyutāyadbhyó námaḥ  
+  
+8.1.53.1 bhū́mer vítanvánn  
+8.1.53.2 parāya sárvātmane 'níruddhāya pŕ̥thivyai námaḥ  
+8.1.53.3 bráhmá bráhmāntarātmā́ bráhmá-pū́tāntarātmā́ bráhmaṇi bráhma-niṣṭhó bráhma-gupto gupto 'ham asmi  
+8.1.53.4 dyaúr dyaúr asi sárva imé prāṇā́ sthāṇáva āsann  
+8.1.53.5 śikhé udvártayāmi  
+8.1.53.6 sá-védās sa-mantrās sā́rṣās sá-sómā devā́ḥ parivartáyantām  
+8.1.53.7 devā́nām ayudhaíḥ[*808] páribādhayāmi  
+8.1.53.8 bráhmaṇo mántrair ī́śasyójasā bhŕ̥gūṇām áṅgirasāṃ tápasā sárvam ā́tanomi  
+8.1.53.9 nārāyaṇā́ya vidmáhe vāsudévā́ya dhīmahi  
+tán no viṣṇuḥ pracodáyāt  
+[*808] Text: ayuthaíḥ  
+  
+  
+8.1.54.1 sudarśanám abhígr̥hṇāmi  
+8.1.54.2 rávipām abhígr̥hṇāmi  
+8.1.54.3 sū́ryo 'si sū́ryāntarātmā́  
+8.1.54.4 cákṣur asi sárvam asi sárvaṃ dhehi  
+8.1.54.5 cándro 'si yajño 'si yajñā́yādhā́nam asi  
+8.1.54.6 yajñásya moṣád asi  
+8.1.54.7 ā́bhuraṇyaṃ vídhiṃ yajñáṃ  brahmā́ṇaṃ devendrám  
+8.1.54.8 antár asminn imé lokā́ḥ  
+8.1.54.9 áto devā́ idáṃ víṣṇus trī́ṇi padā́ víṣṇoḥ kármāṇi tád víṣṇoḥ paramáṃ tád víprāsaḥ  
+8.1.54.10 jñā́nā́yá hŕ̥dayāya námaḥ  
+  
+8.1.55.1 śáktyaí śírase svāhā́  
+8.1.55.2 bálā́yá śíkhāyai vaṣáṭ  
+8.1.55.3 aíśváryā́yá kávacāya húm  
+8.1.55.4 vī́ryā́yá nétrá-tráyāya vauṣáṭ  
+8.1.55.5 téjásé ástrāya pháṭ  
+8.1.55.6 bhū́r bhúvas súvar óm[*809]  
+8.1.55.7 keśavāya námaḥ  
+8.1.55.8 nārāyaṇā́ya námaḥ  
+8.1.55.9 mādhavā́ya námaḥ  
+8.1.55.10 govindā́ya námaḥ  
+[*809] śrī́ṃ óṃ hŕ̥dayāya námáḥ | drā́ṃ óṃ śírase svāhā | ā́ṃ óṃ śíkhāyai vaṣáṭ | hrā́ṃ óṃ kávacāya húm | klī́ṃ óṃ nétrá-tráyāya vauṣáṭ | rā́ṃ óṃ ástrāya pháṭ | bhū́r bhúvas súvár óm | áṃ ā́ṃ íṃ ī́ṃ úṃ ū́ṃ ŕ̥ṃ r̥̄́ṃ l̥'ṃ l̥̄'ṃ éṃ aíṃ óṃ aúṃ ā́ṃ ā́ḥ | govindā́ya námaḥ | mahīdharā́ya námaḥ | hr̥ṣīkeśā́ya námaḥ || trivikramā́ya námaḥ | víṣṇave námaḥ | mādhavā́ya námaḥ ||  
+  
+  
+8.1.56.1 víṣṇave námaḥ  
+8.1.56.2 madhusūdanā́ya námaḥ  
+8.1.56.3 trivikramā́ya námaḥ  
+8.1.56.4 vāmaṇā́ya námaḥ  
+8.1.56.5 śrīdharā́ya námaḥ  
+8.1.56.6 hr̥śīkeśā́ya námaḥ  
+8.1.56.7 padmanābhā́ya námaḥ  
+8.1.56.8 dāmódarā́ya námaḥ  
+8.1.56.9 saṅkarṣaṇā́ya námaḥ  
+8.1.56.10 vā́sudevāya námaḥ  
+  
+8.1.57.1 pradyumnā́ya námaḥ  
+8.1.57.2 aniruddhā́ya námaḥ  
+8.1.57.3 puruṣottamā́ya námaḥ  
+8.1.57.4 adhokṣajā́ya námaḥ  
+8.1.57.5 nā́rasiṃhāya námaḥ  
+8.1.57.6 ácyutāya námaḥ  
+8.1.57.7 janārdanā́ya námaḥ  
+8.1.57.8 upendrā́ya námaḥ  
+8.1.57.9 háraye námaḥ  
+8.1.57.10 śrī-kr̥ṣṇā́ya námaḥ  
+  
+8.1.58.1 ékākṣaraṃ  
+8.1.58.2 víśve nímagnaḥ  
+8.1.58.3 prāṇáḥ prásūtir  
+8.1.58.4 vitátya bāṇáṃ  
+8.1.58.5 tvám vajra-bhŕ̥d  
+8.1.58.6 dhātā́ vidhātā́  
+8.1.58.7 ŕ̥co yájū́(g)ṃṣi  
+8.1.58.8 sá éṣá devás  
+8.1.58.9 sá sárvá-vettā́  
+8.1.58.10 sāmaíś cá sāṅgáṃ[*810]  
+8.1.58.11 tvá(gg)ṃ strī pumān  
+8.1.58.12 mitrás suparṇás  
+8.1.58.13 tváṃ víṣṇur bhūtā́ni  
+8.1.58.14 tváṃ bhū́r bhúvas tva(g)ṃ  
+8.1.58.15 ya eváṃ nítyaṃ  
+8.1.58.16 buddhimatāṃ párāṃ gátim  
+8.1.58.17 óṃ dhánuṣe námaḥ  
+8.1.58.18 śáktyaí svāhā́  
+8.1.58.19 gádāyai vaṣáṭ  
+8.1.58.20 khaḍgā́ya húm  
+8.1.58.21 cakrā́ya vaúṣaṭ  
+8.1.58.22 vā́sukaye pháṭ  
+8.1.58.23 víṣṇur mā́ṃ rakṣatu  
+8.1.58.24 jāmbūnada-prabhā́ya cakra-dharā́ya kéśavāya námaḥ  
+8.1.58.25 candra-prabhā́ya dhanur-dharā́ya góvindāya svāhā́  
+[*810] Ek Up (US, SU, OU): cid-antaḥ in place of cá sāṅgáṃ  
+  
+  
+8.1.59.1 nīla-jīmūta-sánnibhā́ya śaṅkha-dharā́ya[*811] nā́rāyaṇāya váṣaṭ  
+8.1.59.2 padma-kíñjalka-sánnibhā́ya hala-dharā́ya víṣṇave húm  
+8.1.59.3 aravindābhā́ya musala-dharā́ya madhusū́danāya vaúṣaṭ  
+8.1.59.4 jvalana-prábhā́ya khaḍga-dharā́ya trivíkramāya pháṭ  
+8.1.59.5 taruṇāditya-sánnibhā́ya vajra-dharā́ya vā́manāya námaḥ  
+8.1.59.6 puṇḍarīkā́kṣā́ya paṭṭasa-dharā́ya śrī́dharāya svāhā́  
+8.1.59.7 indīvara-dála[*812]-śyā́māya kaumodakī-dharā́ya gádā-dharāya váṣáṭ  
+8.1.59.8 vidyut-prabhā́ya mudgara-dharā́ya hŕ̥śīkeśāya húm  
+8.1.59.9 citra-varṇa-dharā́ya pāśa-hastā́ya víṣṇave vauṣáṭ  
+8.1.59.10 indra-nīla-prabhā́yā́parājitāya vyāpi-nārāyaṇā́ya pháṭ  
+[*811] Text: -tharā́ya  
+[*812] Text: dáḷa  
+  
+  
+  
+8.1.60.1 bhū́r bhúvas súvar óm  
+8.1.60.2 óṃ námó nā́rāyaṇāyá  
+8.1.60.3 bráhmaivá bhūtā́nāṃ jyéṣṭhaṃ téna ko 'rhati spárdhitum  
+8.1.60.4 tátth savitúr váreṇyam  
+8.1.60.5 ā́tmātmā páramāntarātmā́  
+8.1.60.6 súvar bhúvar bhū́ḥ  
+8.1.60.7 śriyé jātáḥ  
+8.1.60.8 medínī devī́  
+8.1.60.9 saṃyuktam etát kṣar̥áte 'kṣaran tu vyaktā́vyáktaṃ bhávate víśvam asmā́t  
+8.1.60.10 ā́nīśa ātmā́ báddhyate bhoktr̥-bhāvā́d jñātvā́ dévaṃ múcyate sarva-pāpaiḥ  
+  
+8.1.61.1 idáṃ víṣṇuḥ  
+8.1.61.2 ā́yā́tú bhágávā́n  
+8.1.61.3 óṃ víṣṇum ā́vāhayāmi  
+8.1.61.4 púrúṣam ā́vāhayāmi  
+8.1.61.5 sátyam ā́vāhayāmi  
+8.1.61.6 ácyútam ā́vāhayāmi  
+8.1.61.7 ánírúddham ā́vāhayāmi  
+8.1.61.8 śriyé jātáś śriyá ā́ nír iyāya śríyaṃ váyo jaritŕ̥bhyo dadhāti  
+śríyaṃ vásānā amr̥tatvám āyan bhávanti satyā́ samidhā́ mitádrau  
+8.1.61.9[*813] āyātu bhagavatī śrīs svarṇa-varṇā sa-gaṇā sa-sainya śrī parama-puruṣa-sahāyā saha devatābhir anumanyatām  
+[*813] There are no accent marks in the text from 8.1.61.9 through 8.1.62.1.  
+  
+  
+8.1.62.1 yā padmāsanā padma-hastā haṃsa-niryākhya-vāhinī nityam r̥ṣibhiś cānugāminī tām ajāṃ puṇḍarīka-netrīṃ bhagavatīṃ śrīm  
+8.1.62.2 óṃ śríyam ā́vāhayāmi  
+8.1.62.3 dhŕ̥tim ā́vāhayāmi  
+8.1.62.4 pavítrīm ā́vāhayāmi  
+8.1.62.5 pramódā́yínīm ā́vāhayāmi  
+8.1.62.6 medínī devī́ vasúndharī syād vásudhā devī́ vāsávī  
+brahma-varcasáḥ pitr̥̄ṇā́(g)ṃ śrótraṃ víṣṇur mánaḥ  
+8.1.62.7[*814] āyātu bhagavatī hariṇī śyāma-varṇā sa-gaṇā sa-sainyā śrī parama-puruṣa-sahāyā saha devatābhir anumanyatām  
+8.1.62.8 yā nīlotpalāsanā nīlotpala-hastā mahā-cātaka-vāhinī nityam r̥ṣibhiś cānugāminī tām ajāṃ nīlotpala-netrīm bhagavatīṃ[*815] lam  
+8.1.62.9 óṃ háríṇīm ā́vāhayāmi  
+[*814] There are no accent marks in the text from 8.1.62.8 through 8.1.62.9.  
+[*815] Text: bhagavatī  
+  
+  
+  
+8.1.63.1 paúṣṇīm ā́vāhayāmi  
+8.1.63.2 kṣónīm ā́vāhayāmi  
+8.1.63.3 máhīm ā́vāhayāmi  
+8.1.63.4 oṃ máhyai námaḥ  
+8.1.63.5 sárvādhārāya námaḥ  
+8.1.63.6 sánātanāya námaḥ  
+8.1.63.7 divyā́ya námaḥ  
+8.1.63.8 kamáṭha-rūpiṇe [*816]námaḥ  
+8.1.63.9 ā́di-kūrmāya námaḥ  
+8.1.63.10 śéṣā́ya námaḥ  
+8.1.63.11 díg-gajebhyo námaḥ  
+8.1.63.12 ā́dhāra-śaktyai námaḥ  
+8.1.63.13 saptā́rṇavebhyo námaḥ  
+8.1.63.14 sáhásrá-pátrá-yútá-kámalāya námaḥ  
+8.1.63.15 ráktā́mbújá-máṇí-yámá-pádma-pīṭhāya námaḥ  
+8.1.63.16 śrī́mán-nā́rāyaṇāya námaḥ  
+[*816] The texts inserts the word ya here which we have omitted.  
+  
+  
+8.0.4 sa(gg)ṃśrayā́ya námo bhū́s svá-guṇair jyótir āsīd deva-rī́ṣata útpādayāmí prátiṣṭhāpayāmí prácodáyāt svā́hā námaḥ pracodáyān námo námo devāya námaś śrī́ kr̥ṣṇā́ya námas svāhā́ pháṭ[*817] sárvá-pāpaír ánúmányátā́m ā́vāhayāmi namaṣ ṣáṭ ca  
+[*817] Text: páṭ  
+  
+  
+8.1.64.1 prá tád víṣṇuḥ  
+8.1.64.2 astv āsanáṃ śubhaṃ loké brusī́ śúddhas tapo-mayam  
+8.1.64.3 tápaś cāyús tathā yogám astú te paramáṃ padám  
+8.1.64.4 viśvādikā́nāṃ jánanādi-kártre dhā́tre tápo-yajña-súveda-mūrté  
+8.1.64.5 susvāgatáṃ yátra taṃ tátra yásmāt tát te pádá(g)ṃ[*818] sūríbhis svāgatan te  
+8.1.64.6 mano 'bhimantā́ mā́navas sudhármā yán mātáraṃ vácaso mā́naseṣu  
+amogham ogháṃ práti veda-vedya-svákaṃ jánānām ánumanyatām idám  
+8.1.64.7 tvá(gg)ṃ strī tváṃ púmān mānasī[*819] tváṃ déva-kumārá idáṃ nā́daḥ kumārī́  
+8.1.64.8 tváṃ jī́rṇas tváṃ jániṃ gacchasi tváṃ jātó nivāsīr viśváto mukhaḥ  
+8.1.64.9 trī́ṇi padā́  
+[*818] Text: pádág corrected to pádágṃ  
+[*819] 1946 edition: mānasī; 1984 edition: mānasi  
+  
+  
+  
+8.1.65.1 índro 'bhimantā́ manávo vā́yavaś cā́pas samagrā́ abhíto yásya dadyā́t  
+8.1.65.2 víṣṇo imā́n vaiṣṇavā́(g)ṃs tarpayāmi prásīda devā́dhika-téjasainam  
+8.1.65.3 agnír índro váruṇo mitró aryamā́ vāyúḥ pūṣā́ sárasvatī sa-jóṣasaḥ  
+8.1.65.4 ādityā́ víṣṇur marútaḥ svar br̥hat-sómo rudró áditir bráhmaṇaspátiḥ  
+8.1.65.5 trír deváḥ[*820]  
+8.1.65.6 indriyā́ṇí śátá-kráto yā́ te jáneṣu pañcásu  
+índra tā́ni ta ā́ vr̥ṇe  
+8.1.65.7 ágann índra śrávo br̥hád dyumnáṃ dádhiṣva duṣṭáraṃ  
+út te śuṣmáṃ trirāmasi  
+8.1.65.8 yóge-yoge śáṃ no devī́  
+8.1.65.9 ghatā́t pári maṇḍa ivā́psu snehás sárvā́dhikas sarva-dhátteṣu śarváḥ  
+8.1.65.10 sá cetánáś cetáyate sva-śaktyā́  
+8.1.65.11 éko lokā́n gárbhavat pātu sárvān  
+8.1.65.12 vícakrame pr̥thivī́  
+[*820] Text: dreváḥ  
+  
+  
+8.0.5 trī́ṇi padā́ śáṃ no devī́ś catvā́ri ca  
+  
+8.1.66.1 bhū́ḥ prápadye  
+8.1.66.2 védāhám etáṃ púruṣaṃ mahā́ntam ādityá-varṇaṃ támasas tú pāré  
+sárvāṇi rūpā́ṇi vicítya dhī́raḥ nā́māni kr̥tvā́bhivádan yádā́ste  
+8.1.66.3 trī́ṇi padā́  
+8.1.66.4 ā́ mā vā́jasya prasavó jagamyād ā́ dyāvā-pŕ̥thivī́ viśvá-śambhū  
+ā́ mā gantāṃ pitárā mātárā cā́ mā sómo amŕ̥tatvā́ya gamyāt  
+8.1.66.5 śáṃ no devī́ḥ  
+8.1.66.6 upānáhāv adhyávarohāmi  
+  
+8.1.67.1 svastí no mimītām  
+8.1.67.2 páraṃ raṃha ā́sthāsye  
+8.1.67.3 prá tád víṣṇus trī́ṇi padā́ śáṃ no devī́ḥ  
+8.1.67.4 annā́dyāya vyūhadhvaṃ dīrghāyúr ahám annādó bhūyāsam  
+8.1.67.5 téna me tapá téna me jvalá téna me dīdihi yā́vad devā́ḥ  
+8.1.67.6 idáṃ bráhma punīmahe brahmá punātu  
+8.1.67.7 yóge-yoge tavástaraṃ vā́je-vāje havāmahe  
+sákhāya índram ūtáye  
+8.1.67.8 yán me gárbhe vásataḥ pāpám ugráṃ yáj jā́yamānasya ca kíñca dairghyám  
+pāpáṃ jātásya yásya bhúvi vártato me tásya tát pāvamānī́bhir aháṃ punāmi  
+  
+8.1.68.1 śáṃ no devī́ḥ  
+8.1.68.2 áto devā́ḥ idáṃ víṣṇus trī́ṇi padā́ víṣṇoḥ kármāṇi tád víṣṇoḥ paramáṃ tád víprāsaḥ  
+8.1.68.3 óṃ námó nā́rāyaṇāyá  
+8.1.68.4 kás tvā satyó mádānāṃ má(g)ṃhiṣṭho mathsad ándhasaḥ  
+dr̥ḍhā́ cid ārúje vásu  
+8.1.68.5 párilikhita(g)ṃ rákṣaḥ párilikhitā árātayáḥ  
+8.1.68.6 párilikhitas so 'stu yo 'smān dveṣṭi yáñ ca vayáṃ dviṣmáḥ  
+8.1.68.7 vā́rīś cátasraś śán no devī́ḥ  
+8.1.68.8 námo váruṇaś śuddháś śuddho 'ham asmi  
+8.1.68.9 śuddhó bráhma-vīró hárir yáthā śuddháḥ páñca-bhūtās táthā śuddhā́ś śuddho 'ham asmi  
+  
+8.1.69.1 bráhmāhám asmi hárir asmi  
+8.1.69.2 īśá īśo 'smi bhávaṃ bhávāmahe  
+8.1.69.3 sínīvāli-pŕ̥thuṣṭuke yā́ devā́nām ási svásā  
+juṣásva havyám ā́hutaṃ prajā́ṃ devi didiḍḍhi naḥ  
+8.1.69.4 bhū́r anílayā bhū́tayā bhū́tayā páriṣiñcāmi bhúvas suṣumnáyā prāṇávatyā páriṣiñcāmi svar amŕ̥távatyā jyótiṣmatyā ca páriṣiñcāmi  
+8.1.69.5 tā́(g)ṃ savitúr váreṇyasya citrā́m aháṃ[*821] vr̥ṇe sumatíṃ viśvá-janyām yā́m asya káṇvo áduhat prápīnā(g)ṃ sahásra-dhārāṃ páyasā mahī́ṃ gā́m  
+8.1.69.6 ágním īḷa iṣé tvorjé tvā gándha-dvārā́ṃ sahásra-śīrṣā púruṣaḥ  
+8.1.69.7 sahasra-śī́rṣaṃ devám áto devā́  
+[*821] 1984, 1946 editions: āháṃ, corrected to aháṃ.  
+  
+  
+8.1.70.1 mitrás suparṇáś cándra índro 'tha rudrás tváṣtā víṣṇus savitā́ gó-patis tvám  
+tváṃ víṣṇur bhūtā́ni tatrā́si daítyas tváyā vr̥taṃ jágad úlbena garbháḥ  
+8.1.70.2 áthā vayám āditya vraté távā́nāgaso áditaye syāma  
+8.1.70.3 yuváṃ vástrāṇi pīvasā́ vasāthe yuvór ácchidrā mántavo ha sárgāḥ  
+ávātiratam ánr̥tāni víśvā r̥téna mitrā varuṇā sacethe  
+8.1.70.4 trī́ṇi padā́ śáṃ no devī́ḥ  
+8.1.70.5 bhū́r asi bhūḥ pratiṣṭhityai trír deváḥ  
+8.1.70.6 áto devā́ óṃ námó nā́rāyaṇāyá  
+  
+8.0.6 ávarohāmy aháṃ punāmy ahám asmi devám áto devā́ nā́rāyaṇāyá  
+  
+8.1.71.1 téjo vátsyāvas savitúḥ prasave 'śvinor bāhúbhyāṃ pūṣṇó hástābhyām  
+8.1.71.2 sómasya tanū́r asi tanúvaṃ me pāhi  
+svā́ mā tanū́r ā́ viśa  
+8.1.71.3 śáṃ no devī́ḥ  
+8.1.71.4 idáṃ bráhma punīmahe  
+8.1.71.5 brahmá punātu  
+8.1.71.6 śáṃ no devī́ḥ  
+8.1.71.7 óṃ námó nā́rāyaṇāyá  
+8.1.71.8 víṣṇor nú kam  
+8.1.71.9 agníṃ dūtáṃ vr̥ṇīmahe hótāraṃ viśvá-vedasam  
+asyá yajñásya sukrátum  
+  
+8.1.72.1 bhūtó bhūtéṣu carati práviṣṭas sá bhūtā́nām ádhipatir babhūva  
+8.1.72.2 tásya mr̥tyaú carati rā́jasū́ya(g)ṃ sá rā́jā rājyám ánumanyatām idám  
+8.1.72.3 tád víṣṇoḥ paramám  
+8.1.72.4 imā́s sumánasaś śreṣṭhā́ divyá-puṣpādhivā́sitāḥ  
+8.1.72.5 pūtā́ brahma-pavítreṇa pūtā́s sū́ryasya raśmíbhiḥ  
+8.1.72.6 tád víprāsaḥ  
+8.1.72.7 imé gandhā́s[*822] surabhíno divyá-gandhādhivā́sitāḥ  
+8.1.72.8 pūtā́ brahma-pavítreṇa pūtā́s sū́ryasya raśmíbhiḥ  
+8.1.72.9 yádā́ñjanaṃ traikakudáṃ jātá(g)ṃ himávata upári  
+8.1.72.10 téna vāmāñje téjase várcase bhágāya ca  
+[*822] Text: ganthā́s  
+  
+  
+8.1.73.1 devásya tvā savitúḥ prasave 'śvinor bāhúbhyāṃ pūṣṇó hástābhyām  
+8.1.73.2 víṣṇave námáḥ  
+8.1.73.3 púruṣāya námáḥ  
+8.1.73.4 satyā́ya námáḥ  
+8.1.73.5 ácyutāya námáḥ  
+8.1.73.6 áníruddhāya námáḥ  
+8.1.73.7 kápilāya námáḥ  
+8.1.73.8 yajñā́ya námáḥ  
+8.1.73.9 nā́rāyaṇāya námáḥ  
+8.1.73.10 puṇyā́ya námáḥ  
+  
+8.1.74.1 śríyai námaḥ  
+8.1.74.2 dhŕ̥tyai námáḥ  
+8.1.74.3 pavítryai námáḥ  
+8.1.74.4 prámódā́yínyai námáḥ  
+8.1.74.5 haríṇyai námáḥ  
+8.1.74.6 paúṣṇyai námáḥ  
+8.1.74.7 kṣóṇyai námáḥ  
+8.1.74.8 máhyai námáḥ  
+8.1.74.9 vā́rāhāya námáḥ  
+8.1.74.10 nā́rasiṃhāya námáḥ  
+  
+8.1.75.1 vā́manāya námáḥ  
+8.1.75.2 trivikramā́ya námáḥ  
+8.1.75.3 subhadrā́ya námáḥ  
+8.1.75.4 ī́śitātmane námáḥ  
+8.1.75.5 sarvodvahā́ya námáḥ  
+8.1.75.6 sárva-vidyesvarāya námáḥ  
+8.1.75.7 indrā́ya námáḥ  
+8.1.75.8 yamā́ya námaḥ  
+8.1.75.9 váruṇāya námáḥ  
+8.1.75.10 kúberāya námáḥ  
+  
+8.1.76.1 agnáyé námáḥ  
+8.1.76.2 nírr̥taye námáḥ  
+8.1.76.3 vāyáve námáḥ  
+8.1.76.4 ī́śānāya námáḥ  
+8.1.76.5 subhadrā́ya námáḥ  
+8.1.76.6 hayātmakā́ya námáḥ  
+8.1.76.7 rā́ma-devāya námáḥ  
+8.1.76.8 puṇya-dévā́ya námáḥ  
+8.1.76.9 sarvā́ya námáḥ  
+8.1.76.10 sukhāvahā́ya námáḥ  
+  
+8.1.77.1 sáṃvahāya námáḥ  
+8.1.77.2 suvahā́ya námáḥ  
+8.1.77.3 śívaṃ prápadye  
+8.1.77.4 víśvaṃ prápadye  
+8.1.77.5 mítraṃ prápadye  
+8.1.77.6 átriṃ prápadye  
+8.1.77.7 sanat-kumā́raṃ prápadye  
+8.1.77.8 sanákaṃ prápadye  
+8.1.77.9 sánātanaṃ prápadye  
+8.1.77.10 sanáṃdánaṃ prápadye  
+  
+8.1.78.1[*823] indrā́ya námáḥ  
+8.1.78.2 yamā́ya námáḥ  
+8.1.78.3 váruṇāya námáḥ  
+8.1.78.4 kúberāya námáḥ  
+8.1.78.5 agnáye námáḥ  
+8.1.78.6 nírr̥taye námáḥ  
+8.1.78.7 vāyáve námáḥ  
+8.1.78.8 ī́śā́nāya námáḥ  
+8.1.78.9 páro mā́trayā  
+8.1.78.10 bŕ̥haspátir devā́nām  
+[*823] VMP omits numeral 78 for section 78.  
+  
+  
+8.1.79.1 imé dhūpā́s surabhíno divyá-dhūpādhivā́sitāḥ  
+8.1.79.2 pūtā́ brahma-pavítreṇa pūtā́s sū́ryasya raśmíbhiḥ  
+8.1.79.3 víṣṇoḥ kármāṇi  
+8.1.79.4 śubhrā́ jyótiś ca devā́nāṃ tejáś ca satata-prabháḥ  
+prabhās-káró mahā-tejā dīpó 'yaṃ pratigŕ̥hyatām  
+8.1.79.5 trír deváḥ  
+8.1.79.6 índriyā́ṇi śata-krato trī́ṇi padā́ yóge-yoge śáṃ no devī́ḥ  
+8.1.79.7 śúcī vo havyā́ḥ  
+8.1.79.8 varúṇam ā́vāhayāmi  
+8.1.79.9 vā́rā́ham ā́vāhayāmi  
+  
+8.1.80.1 nā́rásíṃham ā́vāhayāmi  
+8.1.80.2 vā́mánam ā́vāhayāmi  
+8.1.80.3 trívíkrámam ā́vāhayāmi  
+8.1.80.4 śríyam ā́vāhayāmi  
+8.1.80.5 lákṣmīm ā́vāhayāmi  
+8.1.80.6 sárásvátīm ā́vāhayāmi  
+8.1.80.7 bhávam ā́vāhayāmi  
+8.1.80.8 víṣṇus tvā́(g)ṃ rakṣatu śubhrā́ jyótir yóge-yoge śáṃ no devī́ḥ  
+8.1.80.9 óṃ námo bhágáváté vā́sudevāyá óṃ námó nā́rāyaṇāyá  
+  
+8.1.81.1 devásya tvā  
+8.1.81.2 marútaḥ paramātmā́ páramā gatíḥ páraṃ bráhma páraṃ yógam  
+páramātmā́naṃ manye ajáraṃ yo 'gnir ahám annaṃ vāyáve  
+8.1.81.3 sóma(g)ṃ rā́jānam  
+8.1.81.4 marúto gaṇā́nāṃ prathamás saptádhānāṃ[*824] mūrdhā́ vāyo ányam ajárá(gg)ṃ śriyám  
+hótāraṃ vaí ráyan tvā́hur[*825] ágne havyáṃ marúdbhyaḥ  
+8.1.81.5 áśvo 'si háyo 'sy áto[*826] 'si náro 'sy árvāsi sáptir asi vājy ási vŕ̥ṣāsi nr̥máṇā asi yáyur nā́māsy ādityā́nāṃ pátvā́nvihi  
+8.1.81.6 áto devā́ agním īḷe iṣé tvorjé tvāgna ā́ yāhi śáṃ no devī́ḥ  
+8.1.81.7 sóma(g)ṃ rā́jānam  
+8.1.81.8 ghr̥tā́t pári maṇḍa ivā́psu snehás sárvā́dhikas sarva-dhátteṣu śarváḥ  
+8.1.81.9 sá cetánáś cetáyate sva-śaktyā́  
+8.1.81.10 éko lokā́n gárbhavat pātu sárvān  
+8.1.81.11 ā́ vāta vāhi bheṣajáṃ ví vāta vāhi yád rápaḥ  
+tvá(g)ṃ hí viśvá-bheṣajo devā́nāṃ dūtá ī́yase  
+8.1.81.12 devásya tvā  
+8.1.81.13 óṃ námó bhágáváté vā́sudevāyá  
+8.1.81.14 óṃ námó nā́rāyaṇāyá  
+[*824] 1984 edition: saptáthānāṃ  
+[*825] 1984 edition: vā́hur  
+[*826] 1946, 1984 editions: atyo corrected to ato.  cf. VMP 8.1.19.3  
+  
+  
+  
+8.0.7 súkrátuṃ bhágāya ca puṇyā́ya námó nā́ra-siṃhāya námáḥ kúberāya námás súkhā́vahā́ya námás sanáṃdánaṃ prápadye devānāṃ vā́rā́ham ā́vāhayāmi nā́rāyaṇāyá sárva-dhátteṣu śarvás saptá ca  
+  
+8.1.82.1 agním īḷe puróhitaṃ yajñásya devám r̥tvíjam  
+hótāraṃ ratna-dhā́tamam  
+8.1.82.2 yán mádhuno madhavyam  
+8.1.82.3 yóge-yoge śáṃ no devī́ḥ  
+8.1.82.4 áthā́vánī́dám  
+8.1.82.5 ā́ mā vā́jásya citráṃ devā́nām ādítyam ā́vāhayāmi  
+8.1.82.6 bhā́s-káram ā́vāhayāmi  
+8.1.82.7 sū́ryam ā́vāhayāmi  
+8.1.82.8 vívásvántam ā́vāhayāmi  
+  
+8.1.83.1 ā́dítyaṃ prápadye  
+8.1.83.2 bhā́s-káraṃ prápadye  
+8.1.83.3 sū́ryaṃ prápadye  
+8.1.83.4 mā́rtā́ṇḍaṃ prápadye  
+8.1.83.5 vívásvántaṃ prápadye  
+8.1.83.6 devásya tvā  
+8.1.83.7 amr̥topastáraṇam asi  
+8.1.83.8 nārā́yaṇā́ya  
+8.1.83.9 yát te susīmé hŕ̥dayaṃ diví candrámasi śritám  
+8.1.83.10 tásyā́mr̥tatvásyéśāno  
+8.1.83.11 mā́háṃ paútram ágha(g)ṃ rudam  
+  
+8.1.84.1 veda te bhūmi hŕ̥dayaṃ diví candrámasi śritám  
+8.1.84.2 táthā́mr̥tatvásyéśāno  
+8.1.84.3 mā́háṃ paútram ághá(g)ṃ rudam  
+8.1.84.4 óṃ námó nā́rāyaṇāyá  
+8.1.84.5 tát savitúr váreṇyam  
+ahám asmi prathama-jā́[*827]  
+8.1.84.6 tád asya priyám abhí pā́tho áśyāṃ náro yátra devayávo mádanti  
+urukramásya sá hí bándhur itthā́ víṣṇoḥ padé paramé mádhva úthsaḥ  
+8.1.84.7 subhū́s svayam-bhū́ḥ prathamáṃ[*828] mahaty arṇavé dadhé ha gárbham r̥tvíyam yáto jātáḥ prajā́-patiḥ  
+8.1.84.8 viśvá-bheṣaja(g)ṃ subheṣajám  
+8.1.48.9 yáthā sthíta idáṃ me viśvá-bheṣajám  
+[*827] TU 3.10.6; TB 2.8.8.1; TA 9.10.6.1  (VC p. 149)  
+[*828] VS: prathamo 'ntar  
+  
+  
+  
+8.1.85.1 áśvinā prā́vátaṃ yuvám  
+idám ahá(g)ṃ sénāyā abhī́tvaryai  
+8.1.85.2 tváṃ júṣaja[*829] bheṣajáṃ vaiśvānarā́ya[*830] bheṣajám  
+átho asmábhyaṃ bheṣajá(g)ṃ súbheṣajam  
+8.1.85.3 idáṃ víṣṇur vícakrame yóge-yoge trir deváḥ  
+8.1.85.4 trī́ṇi padā́  
+8.1.85.5 sámāné vr̥kṣé púruṣo nimagnó ínīśatayā śócati múhyamānaḥ  
+júṣṭaṃ yádā́ paśyaty anyám īśáṃ tádā́bhīmā́nam éti[*831] vīta-śokáḥ  
+8.1.85.6 yóge-yoge śán no devī́r vícakrame pr̥thivī́  
+8.1.85.7 óṃ námó bhágáváté vā́sudevāyá  
+[*829] TS: táṃ juṣasva replaces tváṃ júṣaja  
+[*830] TS: gávé 'śvāya púruṣāya replaces vaiśvānarā́ya  
+[*831] ŚvetU, MuṇḍU: asya mahimānam iti replaces tádā́bhīmā́nam éti  
+  
+  
+  
+8.1.86.1 óṃ námó nā́rāyaṇāyá  
+8.1.86.2 bhū́ḥ prápadye áto devā́ sahásra-śīrṣā púruṣas sahasra-śī́rṣaṃ devám ékākṣaraṃ śubhrā́ jyótiḥ  
+8.1.86.3 upā́varoha jātavedaḥ púnas tváṃ devébhyo havyaṃ vaha naḥ prajānán  
+ā́yuḥ prajā́(g)ṃ rayím asmā́su dhehy ájasro dīdihi no duroṇé  
+8.1.86.4 táth savitúr váreṇyam  
+8.1.86.5 catvā́ri śŕ̥ṅgā tráyo asya pā́dā dvé śīrṣé saptá hástāso asyá  
+trī́dhā baddhó vŕ̥ṣabhó roravīti mahó devó mártyā́(g)ṃ ā́ viveśa  
+8.1.86.6 indrā́ya námáḥ  
+8.1.86.7 bráhmaṇe námáḥ  
+8.1.86.8 sómā́ya námáḥ  
+  
+8.1.87.1 yáthā ha tát  
+8.1.87.2 ádité ínumanyasva  
+8.1.87.3 áto devā́ idáṃ víṣṇus trī́ṇi padā́ víṣṇoḥ kármāṇi tád víṣṇoḥ paramáṃ tád víprāsaḥ  
+8.1.87.4 víṣṇave svā́hā  
+8.1.87.5 bhū́r bhúvas súvas svā́hā  
+8.1.87.6 agním īḷa iṣé tvorjé tvāgna ā́ yāhi śáṃ no devī́ḥ  
+8.1.87.7 ádité ínvama(gg)ṃsthā́ḥ  
+8.1.87.8 bhū́tis mā́ te  
+8.1.87.9 ādityás sómo námaḥ  
+8.1.87.10 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+8.1.87.11 yát te agne  
+8.1.87.12 úd vayán támasaḥ  
+8.1.87.13 vaiśvānarásya rūpám  
+  
+8.0.8 vívásvántam ā́vāhayāmi paútram ágha(g)ṃ rudáṃ viśvá-bhéṣajáṃ vā́sudevāyá sómā́ya námó bhúvas trī́ṇi ca  
+  
+8.1.88.1 trír deváḥ  
+8.1.88.2 yóge-yoge śáṃ no devī́ḥ  
+8.1.88.3 víśvān balí-rakṣita-sarva-devā́n  
+tásmād báli(g)ṃ rakṣatu bhū́taye  
+8.1.88.4 bálí-rákṣákam ā́vāhayāmi  
+8.1.88.5 dánḍyam ā́vāhayāmi  
+8.1.88.6 sárvá-jñam ā́vāhayāmi  
+8.1.88.7 sámam ā́vāhayāmi  
+8.1.88.8 śatá-dhāra(g)ṃ hiraṇmáyam  
+8.1.88.9 gárúḍam ā́vāhayāmi  
+  
+8.1.89.1 rathantarám asi vāmadevyám asi br̥hád asi  
+8.1.89.2 áṅkaú nyaṅkā́v abhíto ráthaṃ yaú dhvāntáṃ vātāgrám ánu sañcárantau  
+dūré hetir indriyā́vān patatrī́ té no 'gnáyaḥ páprayaḥ pārayantu  
+8.1.89.3 ayáṃ vām aśvínau[*832] rátho mā́ duḥkhé mā́ sukhé riṣat  
+áriṣṭa svastí gacchatu vivighnán pŕ̥tanā yatáḥ  
+8.1.89.4 ihá dhŕ̥tir ihá vídhr̥tir ihá rántir ihá rámatiḥ  
+8.1.89.5 svastí no mimītām  
+8.1.89.6 yógéśam ā́vāhayāmi  
+8.1.89.7 párá-bráhmā́ṇám ā́vāhayāmi  
+8.1.89.8 párámā́tmā́nam ā́vāhayāmi  
+[*832] ApMB: aśvínā  
+  
+  
+8.1.90.1 bháktá-vátsálam ā́vāhayāmi  
+8.1.90.2 áto devā́ udyántaṃ vā́vā́dityáṃ devásya tvā viṣṇus tvā́(g)ṃ rakṣatu  
+8.1.90.3 sóma(g)ṃ rā́jānaṃ marútaḥ paramātmā́  
+8.1.90.4 vāyu-parī jala-śáyanī svayán-dhā́rā satyántho párimedínī  
+sopári dhattaṃgāya  
+8.1.90.5 maṇikā́ya námaḥ  
+8.1.90.6 sándhyāyai námaḥ  
+8.1.90.7 yé bhūtā́ḥ pracáranti dívā náktaṃ bálim icchánto vitúdasya préṣyāḥ  
+tébhyo balíṃ puṣṭi-kā́mo harāmi máyi púṣṭiṃ púṣṭi-patir dadhātu  
+8.1.90.8 víṣṇor nú kaṃ vīryāṇi sahásra-śīrṣā púruṣaḥ  
+8.1.90.9 óṃ námó nā́rāyaṇāyá  
+8.1.90.10 óṃ námó bhágáváté vā́sudevāyá  
+8.1.90.11 sū́ryas tvā purástāt pātu kásyāś cid abhíśastyāḥ  
+8.1.90.12 úd vayáṃ támasaḥ  
+8.1.90.13 ihá púṣṭiṃ púṣṭi-patir dadhātv ihá prajā́ṃ ramayatu  
+8.1.90.14 prajā́-pataye puṣṭi-pátáye 'gni-patáye ráyi-pataye kā́māyānnā́dyāya  
+8.1.90.15 ágne náya supáthā[*833] rāyé asmā́n  
+[*833] Text: supádhā  
+  
+  
+8.0.9 gárúḍam ā́vāhayāmi paramātmānam ā́vāhayāmi púruṣas saptá cá  
+  
+8.1.91.1 víṣṇor nú kaṃ vīryāṇi imā́s sumánasa imé gandhā́ imé dhūpā́ś śubhrā́ jyótiḥ  
+8.1.91.2 hiraṇya-garbhás sám avartatā́gre bhūtásya jātáḥ pátir éka āsīt  
+sá dādhāra pr̥thivī́ṃ dyā́m utémā́ṃ kásmai devā́ya havíṣā vidhema  
+8.1.91.3 yé te śatám  
+8.1.91.4 idáṃ víṣṇuḥ  
+8.1.91.5 yóge-yoge  
+8.1.91.6 śáṃ no devī́r vícakrame  
+8.1.91.7 yám arpáyanti múnayo havír yó 'jó 'híjānír víbudhā virā́jann  
+táṃ mayi doṣā́ yásyānanāgnaú vípināni patantu  
+  
+8.1.92.1 śéṣam ā́vāhayāmi  
+8.1.92.2 sáhásrá-śī́rṣam ā́vāhayāmi  
+8.1.92.3 ánántam ā́vāhayāmi  
+8.1.92.4 nā́gá-rā́jam ā́vāhayāmi  
+8.1.92.5 yád vaiṣṇavá(g)ṃ śáyane śayānáṃ tát saha devaís saháŕ̥ṣibhiḥ  
+tát sarva-devā́ ánumanyatāṃ proktó vaiṣṇavo 'há(g)ṃ śáyitaṃ karomi  
+8.1.92.6 tá(g)ṃ śáyane devéśaṃ daítya-nāśāya tát sarva-devaír ánumanyatām  
+8.1.92.7 avíghnaṃ púṇya(g)ṃ sámpadyatāṃ tad bhagavā́n ánumanyatām  
+8.1.92.8 yád vaiṣṇavatvá(g)ṃ sámatā(g)ṃ samatváṃ vaiṣṇavo 'háṃ váhatāṃ vahāmi  
+8.1.92.9 víṣṇor aháṃ jíṣṇum aháḥ prápadye svā́hā svadhā́ vaí śírasā vahāmi  
+  
+8.1.93.1 síndhoḥ pátiṃ váruṇaṃ mā́ vidantu víṣṇúṃ śayáné śāyayāmí  
+8.1.93.2 śriyé jātáḥ śriyáṃ śayáné śāyayāmí  
+8.1.93.3 medínī devī́ haríṇī́ṃ śayáné śāyayāmí  
+8.1.93.4 agním īḷa iṣé tvorjé tvāgna ā́ yāhi śáṃ no devī́ḥ  
+8.1.93.5 iyáṃ jā́gratiḥ prathamáṃ práviśya devā́ bhavantu mánu-jā varéṇyaḥ  
+8.1.93.6 mahā́tmanné no hárate námas te  
+8.1.93.7 aghaugha-vidhváṃsam amúṃ kuruṣva  
+  
+8.1.94.1 bhū́r agnáye ca pr̥thivyaí ca mahaté ca námo bhúvo vāyáve cāntárikṣāya ca mahaté ca námas súvar ādityā́ya ca divé ca mahaté ca námo bhū́r bhúvas súvaś candrámase ca nákṣatrebhyaś ca digbhyáś ca mahaté ca námaḥ[*834]  
+8.1.94.2 yajñéna yajñám ayajanta devā́ḥ tā́ni dhármāṇi prathamā́ny āsan  
+té ha nā́kaṃ mahimā́nas sacante yátra pū́rve sādhyā́s sánti devā́ḥ  
+8.1.94.3 yáḥ prāṇató nimiṣató mahitvaíka íd rā́jā jágato babhū́va  
+yá ī́śe asyá dvi-pádaś cátuṣ-padaḥ kásmai devā́ya havíṣā vidhema  
+8.1.94.4 śukrán tvā śukrā́yāṃ dhā́mne-dhāmne devébhyo yájuṣe-yajuṣe gr̥hṇāmi  
+jyótis tvā jyótiṣy arcís tvārcíṣi dhā́mne-dhāmne devébhyo yájuṣe-yajuṣe gr̥hṇāmi  
+8.1.94.5 námo bráhmaṇe námo astv agnáye námaḥ pr̥thivyaí náma óṣadhībhyaḥ  
+námo vācé námo vācás-pátaye námo víṣṇave br̥haté karomi  
+[*834] TA, MahānU give svāhā in place of namaḥ in this verse.  cf.  VMP 6.11.7  
+  
+  
+8.1.95.1 ā́ tvāhārṣam antár abhūḥ  
+8.1.95.2 óṃ árcitas súṣṭutaś cāpi suparṇá-garuḍa-dhvájá  
+cakra-pāṇé mahā-bāho yathéṣṭaṃ vasa óṃ námaḥ  
+8.1.95.3 sahásra-śīrṣā púruṣaḥ  
+8.1.95.4 víṣṇor nú kaṃ vīryāṇi  
+8.1.95.5 sahasra-śī́rṣaṃ devám  
+8.1.95.6 nārāyaṇā́ya  
+8.1.95.7 áto devā́  
+8.1.95.8 óṃ námó nā́rāyaṇāyá  
+8.1.95.9 óṃ námó bhágáváté vā́sudevāyá  
+8.1.95.10 sū́ryas tvā purástāt pātu kásyāś cid abhíśastyāḥ  
+  
+8.0.10 vípināni patantu śírasā vahāmy amúṃ kuruṣva bŕ̥haté karomi vā́sudevāyaíkañ ca  
+  
+8.1.96.1 āśāsu saptásu  
+8.1.96.2 sóma(g)ṃ rā́jānam  
+8.1.96.3 sv-āsa-stháṃ devébhyaḥ  
+8.1.96.4 tátth savitúḥ  
+8.1.96.5 sumitrā́ na ā́pa óṣadhayas santu durmitrā́s tásmai bhūyāsur yo 'smān dveṣṭi yáñ ca vayáṃ dviṣmáḥ  
+8.1.96.6 híraṇya-pāṇim ūtáye savitā́ram úpa hvaye  
+sá céttā devátā padám  
+8.1.96.7 devásya tvā  
+8.1.96.8 óṃ bhū́r bhúvas súvaḥ  
+8.1.96.9 índraṃ náro nemádhitā havante yát pā́ryā yunájate dhíyas tā́ḥ  
+śū́ro nŕ̥-ṣātā śávasaś cakāná ā́ gó-mati vrajé bhajā tváṃ naḥ[*835]  
+[*835] VMP divides this verse making the second line the first line of chapter 97.  The numbering is adjusted so that the complete verse comes at the end of chapter 96.  
+  
+  
+8.1.97.1 iṣé tvorjé tvā  
+8.1.97.2 śúcī vo havyā́ imé dhūpā́ḥ  
+8.1.97.3 dhārāsu saptasú  
+8.1.97.4 idám ā́paś śivā́ḥ  
+8.1.97.5 ápa undantu jīváse  
+8.1.97.6 ā́po vā́ idá(g)ṃ sárvam  
+8.1.97.7 dhārāsu saptasu  
+8.1.97.8 úd u tyáṃ citrám  
+8.1.97.9 índrā-viṣṇū havíṣā vāvŕ̥dhānā́grādhvānā námasā rātahavyā  
+ghŕ̥tāsutī dráviṇaṃ dhattam asmé samudrá-sthaḥ kaláśas soma-dhā́naḥ[*836]  
+[*836] VMP divides this verse making the second line the first line of chapter 98.  The numbering is adjusted so that the complete verse comes at the end of chapter 97.  
+  
+  
+8.1.98.1 śukrán te anyád yajatam te anyád víṣu-rūpe áhanī dyaúr ivāsi  
+víśvā hí māyā́ ávasi svádhā́vó bhadrā́ te pū́ṣann ihá rātír astu  
+8.1.98.2 sóma óṣadhīnāṃ váruṇo bŕ̥haspátiḥ  
+8.1.98.3 prájā-pate ná tvád etā́ni...[*837]  
+8.1.98.4 anyé devā́ nī́radāḥ  
+8.1.98.5 śa(g)ṃ sā́ ni[yacchaty] námas sulomá sá éko 'bhū́d devásya tvā  
+8.1.98.6 áto devā́ kṣmā́m ekā́n tán mā yaśo 'gré brahmā́ devā́nām  
+8.1.98.7 idáṃ víṣṇuḥ  
+8.1.98.8 śukrám asi jyótir asi téjo 'si devó vas savitótpunātv ácchidreṇa pavítreṇa vásos sū́ryasya raśmíbhiś  
+śukrán tvā śukrā́yāṃ dhā́mne-dhāmne devébhyo yájuṣe-yajuṣe gr̥hṇāmi jyótis tvā jyótiṣy arcís tvārcíṣi dhā́mne-dhāmne devébhyo yájuṣe-yajuṣe grhṇāmi  
+[*837] Text: etā́n corrected to etā́ni  
+  
+  
+8.1.99.1  dadhíkrā́vṇo[*838] akāriṣaṃ jiṣṇór áśvasya vājínaḥ  
+surabhí no múkhā karat prá ṇa ā́yū(g)ṃṣi tāriṣat  
+8.1.99.2 ā́ pyāyasva sám etu té viśvátas soma vŕ̥ṣṇiyam[*839]  
+bhávā vā́jasya saṅgathé[*840]  
+8.1.99.3 gandha-dvārā́n durādharṣāṃ nityá-puṣṭāṃ karī́ṣiṇīm  
+īśvarī́(g)ṃ sárva-bhūtānāṃ tā́m ihópa hvaye śríyám  
+8.1.99.4 táth savitúr váreṇyam  
+8.1.99.5 try-ambakam  
+8.1.99.6 svā́diṣṭhayā mádíṣṭhayā pávasva soma dhā́rayā  
+índrāya pā́tave sutáḥ  
+[*838] Text: dadhikrāvṇṇo  
+[*839] VMP has metrical i.  
+[*840] Text: saṅgadhé  
+  
+  
+  
+8.1.100.1 ghr̥tá-pratīko ghr̥tá-yonir agnír ghr̥taís sámiddho ghr̥tám asyā́nnam  
+ghr̥ta-pŕ̥ṣas tvā saríto vahanti ghr̥táṃ píbanth suyájā yakṣi devā́n  
+8.1.100.2 yán mádhuno madhavyam paramám annā́d yaṃ vīryam  
+ténāháṃ mádhuno madhavyena paraméṇānnā́dyena vīryeṇa paramo 'nnādó madhavyo 'sāni  
+8.1.100.3 dadhikrā́vṇaḥ[*841]  
+8.1.100.4 śáṃ no devī́r ā́ pyāyasva  
+8.1.100.5 gandha-dvārā́m imā́ óṣadhayaḥ  
+8.1.100.6 sóma(g)ṃ rā́jānam  
+8.1.100.7 yátas[*842] svám ā́sīd áto devā́  
+8.1.100.8 brahmā́ devā́nām  
+[*841] Text: dadhikrā́vṇṇaḥ  
+[*842] Text: yáta  
+  
+  
+  
+8.1.101.1 citrán devā́nām imā́s sumánasaḥ  
+8.1.101.2 vándyo[*843] na eṣá vasúṣu nidadhyā́t  
+tri-dhā́ tri-dhāmā́ bíbhr̥yād adīnā́n  
+8.1.101.3 yé te śatáṃ vā́rīś cátasraḥ  
+8.1.101.4 rúdram anyáṃ sínīvālīmé gandhā́ḥ  
+8.1.101.5 tát-púruṣāya vidmáhe mahā-devā́ya dhīmahi  
+tán no rudraḥ pracodáyāt  
+8.1.101.6 nārāyaṇā́ya  
+8.1.101.7 óṃ jáyām ā́vāhayāmi  
+8.1.101.8 índráṃ práṇayantam  
+[*843] 1984 edition: vándhyo  
+  
+  
+8.1.102.1 ŕ̥co yájū́(g)ṃṣi praíṣām adhīśáś śatá-dhāra(g)ṃ hiraṇmáyam  
+8.1.102.2 kánikradaj januṣam  
+8.1.102.3 páraṃ raṃha ā́sthāsye  
+8.1.102.4 óṃ súvar bhúvar bhū́ḥ  
+8.1.102.5 trī́ṇi padā́ śáṃ no devī́ḥ  
+8.1.102.6 kr̥ṇuṣvá pā́jas svastí-dā viśás-pátiḥ  
+8.1.102.7 védāhám etáṃ yád vaiṣṇavá(g)ṃ śáyane śayānám  
+8.1.102.8 agním īḷe iṣé tvorjé tvāgna ā́ yāhi śáṃ no devī́ḥ  
+8.1.102.9 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+8.1.102.10 híraṇya-varṇāḥ pávamānas súvar-jánaḥ  
+  
+8.1.103.1 bhū́mir bhūmnā́  
+8.1.103.2 óṃ bhū́mim ā́vāhayāmi  
+8.1.103.3 úrvīm ā́vāhayāmi  
+8.1.103.4 dháráṇīm ā́vāhayāmi  
+8.1.103.5 rátná-gárbhām ā́vāhayāmi  
+8.1.103.6 háríṇīm ā́vāhayāmi  
+8.1.103.7 paúṣṇīm ā́vāhayāmi  
+8.1.103.8 kṣóṇīm ā́vāhayāmi  
+8.1.103.9 máhīm ā́vāhayāmi  
+8.1.103.10 ágne náya supáthā rāyé ásmā́n  
+  
+8.1.104.1 ágnim ā́vāhayāmi  
+8.1.104.2 jā́tá-védásam ā́vāhayāmi  
+8.1.104.3 sáhójásam ā́vāhayāmi  
+8.1.104.4 ájírā́-prábham ā́vāhayāmi  
+8.1.104.5 vaíśvā́ṇáram ā́vāhayāmi  
+8.1.104.6 náryā́pásam ā́vāhayāmi  
+8.1.104.7 páṅktí-rā́dhásam ā́vāhayāmi  
+8.1.104.8 vísárpíṇam ā́vāhayāmi  
+8.1.104.9 marútaḥ paramātmā́  
+8.1.104.10 vā́yum ā́vāhayāmi  
+  
+8.1.105.1 jávánam ā́vāhayāmi  
+8.1.105.2 bhū́tā́tmákam ā́vāhayāmi  
+8.1.105.3 údā́nam ā́vāhayāmi  
+8.1.105.4 śatá-dhāra(g)ṃ hiraṇmáyam  
+8.1.105.5 tā́rkṣyam ā́vāhayāmi  
+8.1.105.6 pákṣí-rū́pam ā́vāhayāmi  
+8.1.105.7 súpárṇam ā́vāhayāmi  
+8.1.105.8 áṅkúrā́dhípam ā́vāhayāmi  
+8.1.105.9 índraṃ práṇayantam  
+8.1.105.10 índram ā́vāhayāmi  
+  
+8.1.106.1 śácī́-pátim ā́vāhayāmi  
+8.1.106.2 púrú-hū́tam ā́vāhayāmi  
+8.1.106.3 púrán-dáram ā́vāhayāmi  
+8.1.106.4 hárí-háyam ā́vāhayāmi  
+8.1.106.5 vájrá-pā́ṇim ā́vāhayāmi  
+8.1.106.6 áryámṇam ā́vāhayāmi  
+8.1.106.7 trí-lókā́dhípam ā́vāhayāmi  
+8.1.106.8 rúdram anyám  
+8.1.106.9 páñcá-gávyam ā́vāhayāmi  
+8.1.106.10 śívam ā́vāhayāmi  
+  
+8.1.107.1 ī́śam ā́vāhayāmi  
+8.1.107.2 ávyáktam ā́vāhayāmi  
+8.1.107.3 víśve devāś śr̥ṇutémá(g)ṃ hávaṃ me yé antárikṣe yá úpa dyávi ṣṭhá  
+yé agni-jihvā́ utá vā yájatrā āsádyāsmín barhíṣi mādayadhvam  
+8.1.107.4 víśvā́n dévān ā́vāhayāmi  
+8.1.107.5 sárvā́n dévān ā́vāhayāmi  
+8.1.107.6 víśvá-pútrān ā́vāhayāmi  
+8.1.107.7 dhármá-sū́núkān ā́vāhayāmi  
+8.1.107.8 ágna ā́ yāhi  
+8.1.107.9 ghŕ̥tam ā́vāhayāmi  
+  
+8.1.108.1 sā́má-védam ā́vāhayāmi  
+8.1.108.2 vájram ā́vāhayāmi  
+8.1.108.3 yájñam ā́vāhayāmi  
+8.1.108.4 saṃvathsaro 'si parivathsaro 'sīdāvathsaro 'sīduvathsaro 'si  
+idvathsaro 'si vathsáro 'si tásya te vasantáś śíraḥ  
+8.1.108.5 váthsárān ā́vāhayāmi  
+8.1.108.6 vású-sútān ā́vāhayāmi  
+8.1.108.7 nídhīn ā́vāhayāmi  
+8.1.108.8 dhármá-sū́núkān ā́vāhayāmi  
+8.1.108.9 agním īḷe  
+  
+8.1.109.1 mádhu ā́vāhayāmi  
+8.1.109.2 ŕ̥g-védam ā́vāhayāmi  
+8.1.109.3 sómam ā́vāhayāmi  
+8.1.109.4 krátum ā́vāhayāmi  
+8.1.109.5 marútaḥ paramātmā́  
+8.1.109.6 prā́ṇam ā́vāhayāmi  
+8.1.109.7 ápā́nam ā́vāhayāmi  
+8.1.109.8 vyā́nam ā́vāhayāmi  
+8.1.109.9 údā́nam ā́vāhayāmi  
+8.1.109.10 sámā́nam ā́vāhayāmi  
+  
+8.1.110.1 iṣé tvorjé tvā  
+8.1.110.2 dádhi ā́vāhayāmi  
+8.1.110.3 yájúr-védam ā́vāhayāmi  
+8.1.110.4 íṣṭam ā́vāhayāmi  
+8.1.110.5 míśram ā́vāhayāmi  
+8.1.110.6 try-ambakaṃ yajāmahe  
+8.1.110.7 ī́śā́nam ā́vāhayāmi  
+8.1.110.8 kápā́línam ā́vāhayāmi  
+8.1.110.9 bhávam ā́vāhayāmi  
+8.1.110.10 súhā́-dévam ā́vāhayāmi  
+  
+8.1.111.1 śáṃ no devī́ḥ kṣī́ram ā́vāhayāmi  
+8.1.111.2 áthárvá-védam ā́vāhayāmi  
+8.1.111.3 pavítram ā́vāhayāmi  
+8.1.111.4 púṇyam ā́vāhayāmi  
+8.1.111.5 tád aśvínāv aśva-yújópayātāṃ śubhaṃ gámiṣṭhau suyámebhir áśvaiḥ  
+sváṃ nákṣatra(g)ṃ havíṣā yájantau madhvā sáṃpr̥ktau yájuṣā sámaktau  
+8.1.111.6 aśvínāv ā́vāhayāmi  
+8.1.111.7 márútā́v ā́vāhayāmi  
+8.1.111.8 yúgmám ā́vāhayāmi  
+  
+8.1.112.1 tvā́ṣṭrá[*844]-pútrāv ā́vāhayāmi  
+8.1.112.2 vasanténartúnā devā́ḥ vásavas tri-vŕ̥tā stutám  
+rathantaréṇa téjásā havír índre váyo dadhuḥ[*845]  
+8.1.112.3 śáḍ ŕ̥tūn ā́vāhayāmi  
+8.1.112.4 sáhá-rā́śīn ā́vāhayāmi  
+8.1.112.5 gándhān ā́vāhayāmi  
+8.1.112.6 tī́rthān ā́vāhayāmi  
+8.1.112.7 ā́ vāyo bhūṣa śucipā úpa nas sahásran te niyúto viśva-vāra  
+úpo te ándho[*846] mádyam ayāmi yásya deva dadhiṣé pūrva-péyam  
+[*844] 1946 edition: tvā́ṣṭrī́  
+[*845] Text: dathuḥ  
+[*846] Text: ántho  
+  
+  
+  
+8.1.113.1 marútān ā́vāhayāmi  
+8.1.113.2 lóká-dhárān ā́vāhayāmi  
+8.1.113.3 sáptá-sáptá-gáṇān ā́vāhayāmi  
+8.1.113.4 márúdvátī́-sútān ā́vāhayāmi  
+8.1.113.5 prajā́-patiṃ prathamáṃ yajñíyānām  
+8.1.113.6 ákṣátān ā́vāhayāmi  
+8.1.113.7 kā́śyapam ā́vāhayāmi  
+8.1.113.8 ánántam ā́vāhayāmi  
+8.1.113.9 víśvá-mū́rtim ā́vāhayāmi  
+8.1.113.10 bŕ̥haspate áti yát  
+  
+8.1.114.1 bŕ̥háspátim ā́vāhayāmi  
+8.1.114.2 pī́tá-várṇam ā́vāhayāmi  
+8.1.114.3 gúrum ā́vāhayāmi  
+8.1.114.4 taíṣyam ā́vāhayāmi  
+8.1.114.5 sómo dhenúm phálódákam ā́vāhayāmi  
+8.1.114.6 sómam ā́vāhayāmi  
+8.1.114.7 púṇyam ā́vāhayāmi  
+8.1.114.8 ámítam ā́vāhayāmi  
+8.1.114.9 śáṃ no nídhattām  
+  
+8.1.115.1 nā́gá-rā́jam ā́vāhayāmi  
+8.1.115.2 sáhásrá-śī́rṣam ā́vāhayāmi  
+8.1.115.3 ánántam ā́vāhayāmi  
+8.1.115.4 vā́súkim ā́vāhayāmi  
+8.1.115.5 yátas[*847] svám ā́sīt  
+8.1.115.6 kúśān ā́vāhayāmi  
+8.1.115.7 tápó-náthā́n[*848] ā́vāhayāmi  
+8.1.115.8 múnīn ā́vāhayāmi  
+8.1.115.9 pā́pá-vínā́śína ā́vāhayāmi  
+8.1.115.10 yám arpáyanti  
+[*847] Text: yáta  
+[*848] 1984 edition: tapo-dhanā  
+  
+  
+  
+8.1.116.1 tákṣákam ā́vāhayāmi  
+8.1.116.2 sárpá-rā́jam ā́vāhayāmi  
+8.1.116.3 kṣítí-jam ā́vāhayāmi  
+8.1.116.4 dhárā́dháram ā́vāhayāmi  
+8.1.116.5 idáṃ víṣṇuḥ  
+8.1.116.6 rátnam ā́vāhayāmi  
+8.1.116.7 víṣṇum ā́vāhayāmi  
+8.1.116.8 vyā́pínam ā́vāhayāmi  
+8.1.116.9 víśvam ā́vāhayāmi  
+8.1.116.10 apsarássu yó gandhó gandharveṣu ca yád yáśaḥ  
+daívo yó mānuṣó gandhás sá mā gandhás surabhír juṣatām[*849]  
+[*849] VMP divides this verse making the second line the first line of chapter 117.  The numbering is adjusted so that the complete verse comes at the end of chapter 116.  
+  
+  
+8.1.117.1 gándharvān ā́vāhayāmi  
+8.1.117.2 rámyān ā́vāhayāmi  
+8.1.117.3 svárá-jān ā́vāhayāmi  
+8.1.117.4 saúmyá-jān ā́vāhayāmi  
+8.1.117.5 yád devā́nāṃ cákṣuṣy ā́go ásti yád evá kíṃca pratijagrāhám agnír mā tásmād anr̥ṇáṃ kr̥ṇotu  
+8.1.117.6 jápyam ā́vāhayāmi  
+8.1.117.7 pávítram ā́vāhayāmi  
+8.1.117.8 mántram ā́vāhayāmi  
+8.1.117.9 śúddham ā́vāhayāmi  
+  
+8.1.118.1 ihá púṣṭiṃ púṣṭi-patir dadhātu  
+8.1.118.2 vídyā́-dhárān ā́vāhayāmi  
+8.1.118.3 mántrá-bálān ā́vāhayāmi  
+8.1.118.4 púṣpá-jān ā́vāhayāmi  
+8.1.118.5 bhógá-jān ā́vāhayāmi  
+8.1.118.6 citrán devā́nām  
+8.1.118.7 sárvaúṣádham ā́vāhayāmi  
+8.1.118.8 ā́dítyam ā́vāhayāmi  
+8.1.118.9 áṇḍá-jam ā́vāhayāmi  
+8.1.118.10 sū́ryam ā́vāhayāmi  
+  
+8.1.119.1 apsárā́su yā́ medhā́ gandharvéṣu ca yán mánaḥ  
+daívī medhā́ manuṣya-jā́ sā́ māṃ medhā́ surábhir juṣatām  
+8.1.119.2 ápsárása ā́vāhayāmi  
+8.1.119.3 múdā́váhā ā́vāhayāmi  
+8.1.119.4 bhógáváhā ā́vāhayāmi  
+8.1.119.5 svápná-jā ā́vāhayāmi  
+8.1.119.6 dhātā́sya víśvaṃ hí bíbharti yo vaí  
+púṣpāṇi rakṣánn ihá jīva-loké  
+8.1.119.7 dhā́tā́ram ā́vāhayāmi  
+8.1.119.8 súrá-jyéṣṭham ā́vāhayāmi  
+  
+8.1.120.1 páráméṣṭhínam ā́vāhayāmi  
+8.1.120.2 cátúrā́nánam ā́vāhayāmi  
+8.1.120.3 bhū́mān anto 'gré cákram ā́vāhayāmi  
+8.1.120.4 súdárśánam ā́vāhayāmi  
+8.1.120.5 sáhásrá-víkácam ā́vāhayāmi  
+8.1.120.6 ánápā́yínam ā́vāhayāmi  
+8.1.120.7 úd uttamám  
+8.1.120.8 várúṇam ā́vāhayāmi  
+8.1.120.9 prácétásam ā́vāhayāmi  
+  
+8.1.121.1 ráktā́mbárá-dháram ā́vāhayāmi  
+8.1.121.2 yā́dás-pátim ā́vāhayāmi  
+8.1.121.3 jágad-bhuvam  
+8.1.121.4 jágád-bhúvam ā́vāhayāmi  
+8.1.121.5 yájád-bhúvam ā́vāhayāmi  
+8.1.121.6 viśva-bhúvam ā́vāhayāmi  
+8.1.121.7 bráhmá-bhúvam ā́vāhayāmi  
+8.1.121.8 rúdrá-bhúvam ā́vāhayāmi  
+8.1.121.9 bhúvád-bhúvam ā́vāhayāmi  
+8.1.121.10 rúdram anyám  
+  
+8.1.122.1 rúdram ā́vāhayāmi  
+8.1.122.2 óṣádhī́śān ā́vāhayāmi  
+8.1.122.3 try-ámbákam ā́vāhayāmi  
+8.1.122.4 kápā́línam ā́vāhayāmi  
+8.1.122.5 sínīvāli-pŕ̥thuṣṭuke  
+8.1.122.6 sínī́vā́lim ā́vāhayāmi  
+8.1.122.7 gábhástínīm ā́vāhayāmi  
+8.1.122.8 hítá-dām ā́vāhayāmi  
+8.1.122.9 púṇyá-dām ā́vāhayāmi  
+8.1.122.10 trātā́ram índram  
+  
+8.1.123.1 índram ā́vāhayāmi  
+8.1.123.2 bhógam ā́vāhayāmi  
+8.1.123.3 gándham ā́vāhayāmi  
+8.1.123.4 śátá-krátum ā́vāhayāmi  
+8.1.123.5 hiraṇya-garbhás sám avartatā́gre  
+8.1.123.6 tváṣṭā́ram ā́vāhayāmi  
+8.1.123.7 rū́pá-jā́tam ā́vāhayāmi  
+8.1.123.8 nídhí-jam ā́vāhayāmi  
+8.1.123.9 plótā́dhípam ā́vāhayāmi  
+8.1.123.10 prájā-pate tváṃ nidhi-pā́ḥ purāṇó devā́nāṃ pitā́ janitā́ prajā́nām  
+pátir víśvasya jágataḥ paraspā havír no deva vihavé juṣasva[*850]  
+[*850] VMP divides this verse making the second line the first line of chapter 124.  The numbering is adjusted so that the complete verse comes at the end of chapter 123.  
+  
+  
+8.1.124.1 prájā́-pátim ā́vāhayāmi  
+8.1.124.2 sráṣṭā́ram ā́vāhayāmi  
+8.1.124.3 védá-máyam ā́vāhayāmi  
+8.1.124.4 bráhmá-rū́pam ā́vāhayāmi  
+8.1.124.5 jātávedase sunavāma sómam arātīyató ní dahāti védaḥ  
+sá naḥ parṣad áti durgā́ṇi víśvā nāvéva síndhuṃ duritā́ty agníḥ  
+8.1.124.6 dúrgā́m ā́vāhayāmi  
+8.1.124.7 kā́tyā́yánīm ā́vāhayāmi  
+8.1.124.8 vaíṣṇávīm ā́vāhayāmi  
+  
+8.1.125.1 víndhyá-vā́sínīm ā́vāhayāmi  
+8.1.125.2 ā́ satyéna  
+8.1.125.3 ā́dítyam ā́vāhayāmi  
+8.1.125.4 kā́śyápam ā́vāhayāmi  
+8.1.125.5 bhā́skáram ā́vāhayāmi  
+8.1.125.6 sū́ryam ā́vāhayāmi  
+8.1.125.7 yā́ te dhā́māni diví yā́ pr̥thivyā́ṃ yā́ párvateṣv óṣadhīṣv apsú  
+tébhir no víśvais sumánā áhedan rā́janth[*851] soma práti havyā́ gr̥bhāya  
+8.1.125.8 níśā́káram ā́vāhayāmi  
+8.1.125.9 cándram ā́vāhayāmi  
+[*851] RV: rājan  
+  
+  
+8.1.126.1 ā́tréyam ā́vāhayāmi  
+8.1.126.2 índum ā́vāhayāmi  
+8.1.126.3 jágad-bhuvas subrahmaṇyáḥ kŕ̥ttikā-sutáḥ ṣaṣṭikā́ya  
+8.1.126.4 kúmā́ram ā́vāhayāmi  
+8.1.126.5 śáktí-dháram ā́vāhayāmi  
+8.1.126.6 śíkhí-vā́ham ā́vāhayāmi  
+8.1.126.7 ṣáḍ-ā́nánam ā́vāhayāmi  
+8.1.126.8 agníṃ dūtám  
+8.1.126.9 ágnim ā́vāhayāmi  
+  
+8.1.127.1 jā́távédásam ā́vāhayāmi  
+8.1.127.2 pā́vákam ā́vāhayāmi  
+8.1.127.3 hútā́śánam ā́vāhayāmi  
+8.1.127.4 rakṣasva tváṃ mahā-bāho sampū́rṇān deva-pū́ritān  
+ī́ḍítā́ṃs trí-daśais tīrthaiḥ pavítrān uttamā́ñ chubhān  
+8.1.127.5 hárá svedáṃ varaṃ divyaṃ kaláśaṃ samaláṅkr̥tam  
+náva-dvayá-gaṇaiḥ pūjyaṃ purúṣāya samā́naya  
+8.1.127.6 ékākṣaram  
+8.1.127.7 víṣṇúṃ mr̥dā́ snāpayāmí  
+8.1.127.8 víśve nímagnaḥ  
+  
+8.1.128.1 víṣṇúṃ parváténá prádákṣíṇáṃ kārayāmí  
+8.1.128.2 prāṇá prásūtiḥ  
+8.1.128.3 víṣṇúṃ dhānyaís snāpayāmí  
+8.1.128.4 vitátya bānám  
+8.1.128.5 víṣṇúm aṅkúraír árcayāmí  
+8.1.128.6 tváṃ vajra-bhŕ̥t  
+8.1.128.7 víṣṇúṃ maṃgáléná[*852] prádákṣíṇáṃ kārayāmí  
+8.1.128.8 vásoḥ pavítram asi  
+8.1.128.9 víṣṇúṃ pañcá-gávyéná snāpayāmí  
+8.1.128.10 vā́rīś cátasraḥ  
+[*852] Text: maṃgáḷéná  
+  
+  
+8.1.129.1 víṣṇúm upásnā́néná snāpayāmí  
+8.1.129.2 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+8.1.129.3 víṣṇúm uṣṇódákéná snāpayāmí  
+8.1.129.4 ágna ā́ yāhi  
+8.1.129.5 víṣṇúṃ ghr̥téná snāpayāmí  
+8.1.129.6 agním īḷe  
+8.1.129.7 víṣṇúṃ madhúnā́ snāpayāmí  
+8.1.129.8 iṣé tvorjé tvā  
+8.1.129.9 víṣṇuṃ dadhnā́ snāpayāmí  
+8.1.129.10 śaṃ no devī́ḥ  
+  
+8.1.130.1 víṣṇúṃ kṣīréṇá snāpayāmí  
+8.1.130.2 abhí tvā śūra  
+8.1.130.3 víṣṇúṃ gandhódákéná snāpayāmí  
+8.1.130.4 imā́ óṣadhayaḥ  
+8.1.130.5 víṣṇúm akṣátódákéná snāpayāmí  
+8.1.130.6 jápan datvā́nuvadema sāmá somā́ndhya māndóḥ  
+karmaṇy ándha mā́ndho nínatu  
+8.1.130.7 víṣṇuṃ phalódákéná snāpayāmí  
+8.1.130.8 catvā́ri vā́k  
+8.1.130.9 víṣṇúṃ kuśódákéná snāpayāmí  
+  
+8.1.131.1 nārāyaṇā́ya  
+8.1.131.2 víṣṇúṃ ratnódákéná snāpayāmí  
+8.1.131.3 pūtás tasya  
+8.1.131.4 víṣṇúṃ japyódákéná snāpayāmí  
+8.1.131.5 catvā́ri śŕ̥ṅgā tráyo asya pā́dāḥ  
+8.1.131.6 víṣṇúṃ sarvaúśádhy-údákéná snāpayāmí  
+8.1.131.7 dhātā́ vidhātā́  
+8.1.131.8 víṣṇúṃ puṇyá-púṣpaír arcayāmí  
+8.1.131.9 ŕ̥co yájū(g)ṃṣi  
+8.1.131.10 víṣṇúṃ jātī́-phálā́dí-cū́rnéná snāpayāmí  
+  
+8.1.132.1 sa eṣa devó 'mbára-yāna-cákre víṣṇúṃ kaṣā́ya-cū́rṇénódvartayāmí  
+8.1.132.2 sa sarva-vettā́  
+8.1.132.3 víṣṇúṃ tīrthódákaís snāpayāmí  
+8.1.132.4 sāmaíś ca sāṅgám  
+8.1.132.5 víṣṇúṃ vanaúṣádhī́bhír mārjayāmí  
+8.1.132.6 áto devā́  
+8.1.132.7 víṣṇúṃ harídrā́-cū́rṇéná snāpayāmí  
+8.1.132.8 tvá(gg)ṃ strī pumān  
+8.1.132.9 víṣṇúṃ sarvá-gándhénódvartayāmí  
+  
+8.1.133.1 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+8.1.133.2 víṣṇúm uṣṇódákéná snāpayāmí  
+8.1.133.3 sahásra-śīrṣā púruṣaḥ  
+8.1.133.4 víṣṇúṃ śuddhódákéná snāpayāmí  
+8.1.133.5 yóge-yoge śáṃ no devī́ḥ  
+8.1.133.6 mitrás suparṇáḥ  
+8.1.133.7 víṣnúṃ ploténá vimr̥jāmí  
+8.1.133.8 téjo vátsyāvas sómasya tanū́r asi bhūtó bhūtéṣu carati práviṣṭhaḥ  
+8.1.133.9 agníṃ dūtám  
+8.1.133.10 tváṃ bhū́r bhúvas tvám  
+8.1.133.11 víṣṇúṃ mūlá-gándhena mārjayāmí  
+8.1.133.12 búddhímátāṃ párāṅ gátim  
+8.1.133.13 víṣṇúṃ dhātúbhír álaṅkaromí  
+8.1.133.14 kánikradaj janúṣam  
+  
+8.0.11 dhíyas tā́ rātahavyā́ yájuṣe gr̥hṇāmi pā́tave sutár dévā́nāṃ práṇayantaṃ súvar-jána ágne náya supáthā rāyé asmā́n vā́yum ā́vāhayāmīndram ā́vāhayāmi śivam ā́vāhayāmi ghŕ̥tam ā́vāhayāmy agním īḷe samānam ā́vāhayāmi mahā-devam ā́vāhayāmi yugmam ā́vāhayāmi pūrva-péyam ati yác cháṃ no nídhattāṃ yám arpáyanti yaśaś śuddham ā́vāhayāmi sūryam ā́vāhayāmi sura-jyeṣṭham ā́vāhayāmi pracetasam ā́vāhayāmi rúdram anyáṃ trātā́ram índraṃ prajā́nāṃ vaiṣṇavīm ā́vāhayāmi candram ā́vāhayāmy agním ā́vāhayāmi víśve nímagna vārīś cátasraś śáṃ no devī́ḥ kuśódákéná snāpayāmí cū́rṇéná snāpayāmí gándhénódvartayāmy agníṃ dūtáṃ pañca ca  
+  
+8.1.134.1 vā́stoṣ-pate dadbhyás svā́hā  
+8.1.134.2 śatá-dhāraṃ kadā́pí sr̥jate  
+8.1.134.3 ā́sāgra agrá ojo-bálāya  
+8.1.134.4 áto devā́ idáṃ víṣṇuḥ  
+8.1.134.5 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+8.1.134.6 dhārāsu saptasú  
+8.1.134.7 idám ā́paś śivā́ḥ  
+8.1.134.8 ā́po vā́ idá(g)ṃ sárvaṃ  
+8.1.134.9 nārāyaṇā́ya  
+  
+8.1.135.1 tát-púruṣāya vidmáhe súpárṇá-pakṣā́ya dhīmahi  
+táṃ no garuḍaḥ pracodáyāt  
+8.1.135.2 iṣé tvorjé tvā  
+8.1.135.3 ā́pa undaṃtu  
+8.1.135.4 sahásrá-śī́rṣā púruṣaḥ  
+8.1.135.5 áto devā́ idáṃ víṣṇuḥ  
+8.1.135.6 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+8.1.135.7 híraṇya-varṇāḥ pávamānas súvar-jánaḥ  
+8.1.135.8 śáṃ no devī́s sahásra-śīrṣā púruṣaḥ  
+8.1.135.9 áto devā́ idáṃ víṣṇuḥ  
+  
+8.1.136.1 ā́tmātmā dhārāsu saptasú  
+8.1.136.2 vainateyó mahā-vīryaḥ kāśyápo 'gni-samá-prabhaḥ  
+ā́yā́tú bhágavān rājā sarpá-jid viṣṇu-vā́hanaḥ  
+8.1.136.3 śatá-dhāraṃ kadā́pi sr̥jate  
+8.1.136.4 ā́po hí ṣṭhā́ mayo-bhúvaḥ  
+8.1.136.5 híraṇya-varṇāḥ pávamānas súvar-jánaḥ  
+8.1.136.6 svasti-dā́ viśás-pátiḥ  
+8.1.136.7 védāhám etám  
+8.1.136.8śatá-dhāraṃ kadā́pí sr̥jate  
+8.1.136.9[*853] oṃ āyātu tārkṣya bījākṣara rakta-varṇa śvetānana vajra-nakha vajra-pakṣa svāmi-kārya dhuraṃdharāṣṭa-nāga-sahita marut-sahāya saha devatābhir anumanyatā́m  
+[*853] In this verse, the text has no accent marks from oṃ through the first syllable, a, in anumanyatā́m.  
+  
+  
+8.1.137.1 yás tú śúká-várṇā́ṃbárá-dháráḥ púṣkárá-sáñcā́ríṇaṃ lóhítā́kṣáṃ gárutmantam óm  
+8.1.137.2 gárúḍam ā́vāhayāmi  
+8.1.137.3 pákṣí-rā́jam ā́vāhayāmi  
+8.1.137.4 súpárṇá-pákṣam ā́vāhayāmi  
+8.1.137.5 khágā́dhípátim ā́vāhayāmi  
+8.1.137.6 áto devā́ víṣṇor nú ka(g)ṃ sahásra-śīrṣā púruṣaḥ  
+8.1.137.7 ā́sāgra agrá ójo-bálāya  
+8.1.137.8 śatá-dhāraṃ kadā́pí sr̥jate  
+8.1.137.9 bhūs svā́hā  
+8.1.137.10 śatá-dhāraṃ kadā́pi sr̥jate  
+8.1.137.11 óṃ bhū́ḥ gárúḍam ā́vāhayāmi  
+8.1.137.12 tát-púruṣāya vidmáhe  
+8.1.137.13 ā́gneyó yásmāt  
+8.1.137.14 praíṣām adhīśáḥ  
+8.1.137.15 bhū́mān anto 'gré vándyo na eṣáḥ  
+  
+8.0.12 vidmáhe viṣṇur ánumanyatā́ṃ sr̥jate pañcá ca  
+  
+8.1.138.1 śucī vo havyā́  
+8.1.138.2 agníś śúciḥ  
+8.1.138.3 óṃ bhū́téśam ā́vāhayāmi  
+8.1.138.4 máhā́-bhū́tam ā́vāhayāmi  
+8.1.138.5 víṣṇú-bháktam ā́vāhayāmi  
+8.1.138.6 gádā́-dháram ā́vāhayāmi  
+8.1.138.7 prajā́-pátim ā́vāhayāmi  
+8.1.138.8 śéṣam ā́vāhayāmi  
+8.1.138.9 sū́ryam ā́vāhayāmi  
+8.1.138.10 cándram ā́vāhayāmi  
+  
+8.1.139.1 sáptá-mā́tr̥̄r ā́vāhayāmi  
+8.1.139.2 bhū́mim ā́vāhayāmi  
+8.1.139.3 vŕ̥ṣábham ā́vāhayāmi  
+8.1.139.4 índram ā́vāhayāmi  
+8.1.139.5 vā́cás-pátim ā́vāhayāmi  
+8.1.139.6 náṃdī́śam ā́vāhayāmi  
+8.1.139.7 ádité ínumanyasva  
+8.1.139.8 bhūteśā́ya svā́hā  
+8.1.139.9 áto devā́ idáṃ víṣṇus trī́ṇi padā́ víṣṇoḥ kármāṇi tád víṣṇoḥ páramáṃ tád víprāsaḥ  
+8.1.139.10 bhū́s svā́hā  
+  
+8.1.140.1 ádité ínvama(gg)ṃsthāḥ  
+8.1.140.2 úpa śvāsaya pr̥thivī́m utá dyā́ṃ purutrā́ te manutāṃ víṣṭhitaṃ jágat  
+sá duṃdubhe sajū́r índreṇa devaír dūrā́d dávīyo ápa sedha śátrūn  
+8.1.140.3 ā́ krandaya bálam ójo na ā́ dhā ní ṣṭanihi duritā́ bā́dhamānaḥ  
+ápa protha duṃdubhe ducchúnā́(g)ṃ[*854] itá índrasya muṣṭír asi vīḍáyasva  
+8.1.140.4 ā́mū́r aja pratyā́vartayemā́ḥ ketumád duṃdhubhír vāvadīti  
+sám áśva-parṇāś cáranti no náro 'smā́kam indra rathíno jayantu  
+8.1.140.5 óm bhū́r bhúvas súvaḥ  
+8.1.140.6 índrāya vā́caṃ vadaténdraṃ vā́jaṃ jāpayaténdro vā́jam ajayit  
+8.1.140.7 yajñásya ghoṣád asi  
+[*854] RV: duchúnā; TS: ducchúnā́ṃ.  Proof that Vaikhānasas follow TS.  
+  
+  
+8.0.13 cándram ā́vāhayāmi bhū́s svā́hā yajñásya ghoṣád asi  
+  
+8.1.141.1 udyántaṃ bŕ̥haspate áti yát  
+8.1.141.2 mā́rkaṇḍeyāya námáḥ  
+8.1.141.3 bhŕ̥gave námáḥ  
+8.1.141.4 bráhma jajñānám  
+8.1.141.5 pitā́ virā́jāṃ bráhma devā́ antár asmin bráhman devā́ś cátasra ā́śāḥ  
+  
+8.0.14 udyántaṃ páñca ca  
+  
+8.1.142.1 hiraṇya-garbhás sám avartatā́gre bhūtásya jātáḥ pátir éka āsīt  
+sá dādhāra pr̥thivī́n dyā́m utémā́ṃ kásmai devā́ya havíṣā vidhema  
+8.1.142.2 yáḥ prāṇató nimiṣató mahitvaíka íd rā́jā jágato babhū́va  
+yá ī́śe asyá dvi-pádaś cátuṣ-padaḥ kásmai devā́ya havíṣā vidhema  
+8.1.142.3 yá ātma-dā́ bala-dā́ yásya víśva upā́sate praśíṣáṃ yásya devā́ḥ  
+yásya chāyā́mŕ̥taṃ yásya mr̥tyúḥ kásmai devā́ya havíṣā vidhema  
+8.1.142.4 yásyemé himávanto mahitvā́ yásya samudrá(g)ṃ rasáyā sahā́húḥ  
+yásyemā́ḥ pradíśo yásya bāhū́ kásmai devā́ya havíṣā vidhema  
+8.1.142.5 yáṃ krándasī ávasā tastabhāné abhy aíkṣetāṃ mánasā réjamāne  
+yátrā́dhi sū́ra úditau vyéti[*855] kásmai devā́ya havíṣā vidhema  
+8.1.142.6 yéna dyaúr ugrā́ pr̥thivī́ ca dr̥ḍhé[*856] yéna súvas stabhitáṃ yéna nā́kaḥ  
+yó antárikṣe rájaso vimā́naḥ kásmai devā́ya havíṣā vidhema  
+8.1.142.7 ā́po ha yán mahátī́r[*857] víśvam ā́yan dákṣaṃ[*858] dádhānā janáyantīr agním  
+táto devā́nāṃ níravartatā́sur[*859] ékaḥ kásmai devā́ya havíṣā vidhema  
+8.1.142.8 yáś cid ā́po mahinā́ paryápaśyad dákṣaṃ dádhānā janáyantīr agním[*860]  
+yó devéṣv ádhi devá éka ā́sīt kásmai devā́ya havíṣā vidhema  
+[*855] RV: údito vibhā́ti replaces úditau vyéti  
+[*856] RV: dr̥dhā́  
+[*857] RV: yád br̥hatīr replaces yán mahátī́r  
+[*858] RV: garbham  
+[*859] RV: samavartatā́sur  
+[*860] RV: yajñám  
+  
+  
+  
+8.0.15 vídhéma ṣáṭ ca  
+  
+8.1.143.1 índraṃ vo viśvátas pári hávāmahe jánebhyaḥ  
+asmā́kam astu kévalaḥ  
+8.1.143.2 índraṃ náro nemádhitā havante yát pā́ryā yunájate dhíyas tā́ḥ  
+śū́ro nŕ̥-ṣātā śávasaś cakāná ā́ gó-mati vrajé bhajā tváṃ naḥ  
+8.1.143.3 indriyā́ṇi śata-krato yā́ te jáneṣu pañcásu  
+índra tā́ni ta ā́ vr̥ṇe  
+8.1.143.4 ánu te dāyi mahá índriyā́ya satrā́ te víśvam ánuvr̥tra hátyai[*861]  
+ánu kṣatrám ánu sáho yajatréndra devébhir án ute nr̥ṣáhye  
+8.1.143.5 yujé ráthaṃ gavéṣaṇa(g)ṃ háribhyām úpa bráhmāṇi jujuṣāṇám asthuḥ  
+ví bādhiṣṭā[*862] syá ródasī mahitvā́ índro vr̥trā́ṇy ápratī́ jaghanvā́n[*863]  
+[*861] RV, TS, TB: hátye  
+[*862] RV, AV: bādhiṣṭa; TB: bādhiṣṭā  
+[*863] VMP divides this verse making the second line the first line of chapter 144.  The numbering is adjusted so that the complete verse comes at the end of chapter 143.  
+  
+  
+  
+8.1.144.1 índraṃ náro yujé rátham  
+8.1.144.2 jagŕ̥bhṇā́[*864] te dákṣiṇam indra hástam vasūyávo vasu-pate vásūnām  
+vidmā́ hí tvā gó-pati(g)ṃ śūra gónām asmábhyaṃ citráṃ vŕ̥ṣaṇa(g)ṃ rayíṃ dāḥ  
+8.1.144.3 távedáṃ víśvam abhítaḥ paśavyam yát páśyasi cákṣuṣā sū́ryasya  
+gávām asi gó-patir éka indraḥ bhakṣīmáhi te práyatasya vásvaḥ[*865]  
+[*864] RV: jagr̥bhmā; TB: jagr̥bhṇā  
+[*865] VMP divides this verse making the second line the first line of chapter 145.  The numbering is adjusted so that the complete verse comes at the end of chapter 144.  
+  
+  
+  
+8.1.145.1 sám indra ṇo mánasā neṣi góbhiḥ sá(g)ṃ sūríbhir maghavanth[*866] sá(gg)ṃ svastyā́[*867]  
+sáṃ bráhmaṇā devá-kr̥taṃ[*868] yád ásti sáṃ devā́nā́(g)ṃ sumatyā́ yajñíyānām  
+8.1.145.2 ārā́c chátrum ápa bādhasva dūrám úgró yáś śámbaḥ[*869] puruhūta téna  
+asmé dhehi yávamad gómád índrá kr̥dhī́ dhíyaṃ jaritré vā́ja-ratnām  
+8.1.145.3 índra śréṣṭhāni dráviṇāni dhehi cíttiṃ dákṣasya subhagatvám asmé  
+póṣaṃ rayīṇā́m áriṣṭiṃ tanū́nāṃ svādmā́naṃ vācás sudinatvám áhnām  
+8.1.145.4 bhúvas tvám indra bráhmaṇā mahā́n bhúvo víśveṣu sávaneṣu yajñíyaḥ  
+bhúvo nr̥̄́(g)ṃś cyautnó víśvasmin bháre jyéṣṭhaś ca mántro viśva-carṣaṇe  
+8.1.145.5 índraṃ práṇayantaṃ vápur índra(gg)ṃ srávanta(g)ṃ savitā́ram índraṃ dadhātu  
+śákras sukŕ̥taṣya lokám índraṃ manye pitáraṃ mātā́rañ ca  
+8.1.145.6 éndra sānasí(g)ṃ rayí(g)ṃ sajítvāna(g)ṃ sadāsáham[*870]  
+várṣiṣṭham ūtáye bhara  
+[*866] RV: harivaḥ  
+[*867] RV: svasti  
+[*868] RV: -hitam  
+[*869] 1984 edition: śámbhuḥ; 1946 edition, RV: śámbaḥ  
+[*870] RV, TS: sadāsáham; VMP: sadāsaham  
+  
+  
+  
+8.0.16 jujuṣāṇám asthur éka indro 'sme saptá ca  
+  
+8.1.146.1 ágne náya supáthā rāyé asmā́n víśvāni deva vayúnāni vidvā́n  
+yuyodhy asmaj juhurāṇám éno bhū́yiṣṭhān te námá-úktíṃ vídhémá  
+8.1.146.2 prá vaś śukrā́ya bhānáve bharadhva(g)ṃ havyáṃ matíṃ cāgnáye súpūtam  
+yó daívyāni mā́nuṣā janū́(g)ṃṣy antár víśvāni vidmánā jígāti  
+8.1.146.3 ácchā[*871] gíro matáyo devayántīr agníṃ yanti dráviṇaṃ bhíkṣamāṇāḥ  
+susaṃdŕ̥śa(g)ṃ suprátīka(gg)ṃ sváñcá(g)ṃ havyavā́ham[*872] aratíṃ mā́nuṣāṇām  
+8.1.146.4 ágne tvám asmád yuyodhy ámīvā ánagnitrā abhyamanta kr̥ṣṭī́ḥ  
+púnar asmábhyá(g)ṃ suvitā́ya deva kṣā́ṃ víśvebhir ajárebhir yajatra  
+8.1.146.5 ágne tváṃ pārayā návyo asmā́n svastíbhir áti durgā́ṇi víśvā  
+pū́ś ca pr̥thvī́ bahulā́ na urvī́ bhávā tokā́ya tánayāya śáṃ yóḥ  
+[*871] RV: áchā; TB: ácchā  
+[*872] RV, TB: havyavā́ha; VMP: havyamā́ha  
+  
+  
+  
+8.1.147.1 prá kāravo mananā́ vacyámānā devadrī́cīṃ nayatha[*873] devayántaḥ  
+dakṣiṇāvā́ḍ vājínī prā́cy eti havír bháranty agnáye ghr̥tā́cī  
+8.1.147.2 ágna ā́ yāhi vītáye gr̥ṇānó havyádātaye  
+ní hótā satsi barhíṣi  
+8.1.147.3 agním īḷe puróhitaṃ yajñásya devám r̥tvíjam  
+hótāraṃ ratna-dhā́tamam  
+8.1.147.4 agníḥ pū́rvebhir r̥ṣibhir ī́ḍyo nū́tanir utá  
+sá devā́ṃ éhá vakṣati  
+8.1.147.5 agnínā rayím aśnavat póṣam evá divé-dive  
+yaśásaṃ vīrávattamam  
+[*873] RV: nayata  
+  
+  
+8.1.148.1 ágne yáṃ yajñám adhvaráṃ viśvátaḥ paribhū́r ási  
+sá íd devéṣu gacchati  
+8.1.148.2 agnír hótā kaví-kratus satyáś citrá-śravastamaḥ  
+devó devébhir ā́g amat  
+8.1.148.3 agnír ŕ̥ṣiḥ pávamānaḥ pā́ñcajanyaḥ puróhitaḥ  
+tám īmahe mahā-gayám  
+8.1.148.4 ágne pávasva svápā asmé várcas suvī́ryam  
+dádhad rayíṃ máyi póṣam  
+8.1.148.5 agnír mūrdhā́ diváḥ kakút pátiḥ pr̥thivyā́ ayám  
+apā́(g)ṃ rétā́(g)ṃsi jinvati  
+8.1.148.6 úd buddhyasvāgne práti jāgr̥hy enam iṣṭā-pūrté sá(g)ṃsr̥jethā mayáṃ ca  
+púnaḥ kr̥ṇvá(gg)ṃs tvā pitáraṃ yúvānam anvā́tā́(g)ṃsīt tváyi tántum etám  
+  
+8.0.17 śáṃ yór vīrávattamaṃ jinvati dvé ca  
+  
+8.1.149.1 ā́yātu devás sumánābhir ūtíbhir yamó havehá práyatābhir aktā́  
+ā́ sīdatā(g)ṃ suprayáte ha barhíṣy ū́rjāya jātyaí máma śatru-hátyai  
+8.1.149.2 yamé iva yátamāne yád aítaṃ prá vām bharan mā́nuṣā devayántaḥ  
+ā́ sīdata(gg)ṃ svám u lokáṃ vídāne svāsasthé bhavatam índave naḥ  
+8.1.149.3 yamā́ya sóma(g)ṃ sunuta yamā́ya juhutā havíḥ  
+yamá(g)ṃ ha yajñó gacchaty agní-dūto áraṃ-kr̥taḥ  
+8.1.149.4 yamā́ya ghr̥távad dhavír juhóta prá ca tiṣṭhata  
+só no devéṣv ā́ yamad dīrghám ā́yuḥ prá jīváse  
+8.1.149.5 yamā́ya mádhumattama(g)ṃ rā́jñe havyáṃ juhotana  
+idáṃ náma ŕ̥ṣibhyaḥ pūrvajébhyaḥ pū́rvebhyaḥ pathikŕ̥dbhyaḥ  
+  
+8.1.150.1 yó 'sya kaúṣṭhya jágataḥ pā́rthivasyaíka idvaśī́  
+yamáṃ bhaṅgyaśravó gāya yó rā́jā anaparódhyaḥ  
+8.1.150.2 yamáṃ gā́ya bhaṅgyaśrávo yó rā́jā anaparódhyaḥ  
+yénāpó nadyó dhanvāni yéna dyaúḥ pr̥thivī́ dr̥ḍhā́  
+8.1.150.3 hiraṇya-kakṣyā́nth sudhúrān hiraṇyākṣā́n ayaś-śaphā́n  
+áśvān anáśyato dānaṃ yamó rājā abhitíṣṭhati  
+8.1.150.4 yamó dādhāra pr̥thivī́ṃ yamó víśvam idáṃ jágat  
+yamā́ya sárvam ít trasthe[*874] yát prāṇád vāyú-rakṣitám  
+8.1.150.5 yáthā páñca yáthā ṣáḍ yathā́ páñcadaśárṣayaḥ  
+yamáṃ yó vidyāth sá brūyād yathaíká ŕ̥ṣir vijā́nate  
+[*874] TA: trasthe; KS: tasthe; VMP: rasthe  
+  
+  
+8.1.151.1 tríkadrukebhiḥ pátati[*875] ṣáḍ urvī́r ékam íd br̥hát  
+gāyatrī́ triṣṭúp[*876] chándā́(g)ṃsi sárvā tā́ yamá ā́hitā  
+8.1.151.2 áhar-ahar náyamāno gā́m áśvaṃ púruṣaṃ jágat  
+vaívasvato ná tr̥pyati páñcabhir mā́navair yamáḥ  
+8.1.151.3 vaívasvate vívicyante yáme rā́jani te janā́ḥ  
+yé cehá satyénécchante yá u cā́nr̥ta-vādináḥ  
+8.1.151.4 té rājann ihá vívicyante 'thā́yanti[*877] tvām úpa  
+devā́(g)ṃś ca yé namasyánti brā́hmaṇā(g)ṃś cāpacítyati  
+8.1.151.5 yásmin vr̥kṣé supalāśé devaís saṃpíbate yamáḥ  
+átrā no viś-pátiḥ pitā́ purāṇā́[*878] ánu venati  
+8.1.151.6 yamó dādhāra pr̥thivī́ṃ yamó dyā́m utá sū́ryaḥ[*879]  
+yamás sárva-mr̥tyus te náḥ[*880] prāṇā́nāṃ vāyūnā́m  
+[*875] RV patati; TA: pátati  
+[*876] RV: triṣṭúp gāyatrī́  
+[*877] Text: yantit  
+[*878] RV: purāṇā́ṃ  
+[*879] KS: sūryam  
+[*880] cf. VMP 6.19.1: stenáḥ instead of te náḥ  
+  
+  
+  
+8.0.18 pathikŕ̥dbhyo vijānaté ínuvenati dvé ca  
+  
+8.1.152.1 námas súte nirr̥te víśvarūpe 'yas-máyaṃ ví cr̥tā bandhám etám  
+yaména tváṃ yamyā saṃvidānóttamán nā́kam ádhi rohayemám  
+8.1.152.2 yát te devī́ nír̥r̥tir ābabándha dā́ma grīvā́sv avicartyám  
+idáṃ te tád ví ṣyāmy ā́yuṣo ná mádhyād áthā jīváḥ pitúm addhi prámuktaḥ  
+8.1.152.3 yásyāste asyā́ḥ krūrá āsáñ juhómy eṣā́ṃ bandhā́nām avasárjanāya  
+bhū́mir íti tvā jánā vidúr nírr̥tir íti tvāháṃ pári veda viśvátaḥ  
+8.1.152.4 ásunvantam áyajamānam iccha stenásyetyā́ṃ táskarasyā́nveṣi  
+anyám asmád iccha sā́ ta ityā́ námo devi nirr̥te túbhyam astu  
+8.1.152.5 devī́m aháṃ nírr̥tiṃ vándamānaḥ pitéva putráṃ dasaye vácobhiḥ  
+víśvasya yā́ jā́yamānasya véda śíraś-śiraḥ práti sūrī́ vícaṣte  
+8.1.152.6 nivéśanas saṃgámano vásūnāṃ víśvā rūpā́bhícaṣṭe śácībhiḥ  
+durgā́narātīr ápānuda vīrá-patnī  
+8.1.152.7 yaména yamy ā́yuṣā sáṃvídānā́[*881] pitéva putrám abhírakṣatan naḥ  
+8.1.152.8 námas te nírr̥taye ghána-tejāya tásmaí vísr̥ja bándhanāt  
+8.1.152.9 yáma naya tvá(g)ṃ savitā́ devá uttamā́n ánīke abhírocaya yāyinā́m  
+8.1.152.10 vásavaḥ prathamó devátānā(g)ṃ so 'sya prajā́ṃ paśū́n pāhi  
+8.1.152.11 áto devébhyaḥ paśúbhir yó vaí vásavas svásty astu  
+8.1.152.12 sahasrākṣó vā́ ayám agníḥ pitaro devátānām  
+8.1.152.13 vásūn yátra vásavo bhūtā́nā́ṃ pā́layanti tásmā ánya-vasubhyaḥ  
+[*881] 1984 edition: sáṃvídhānā́; 1946 edition, : sáṃvídānā́  
+  
+  
+8.0.19 vícaṣṭe 'ṣṭaú ca  
+  
+8.1.153.1 ástabhnād[*882] dyā́m r̥ṣabhó antárikṣam ámimīta varīmā́ṇaṃ pr̥thivyā́  
+ā́sīdad víśvā bhúvanāni saṃrā́ḍ víśvét tā́ni váruṇasya vratā́ni  
+8.1.153.2 yác cid dhí te víśo yathā prá deva varuṇa vratám  
+minīmási dyávi-dyavi  
+8.1.153.3 yát kíṃ cedáṃ varuṇa daívye jáne 'bhidroháṃ manuṣyāś cárāmasi  
+ácittī yát táva dhármā yuyopimá mā́ nas tásmād énaso deva rīriṣaḥ  
+8.1.153.4 kitavā́so yád riripúr ná dīví yád vā ghā satyám utá yán ná vidmá  
+sárvā tā́ ví ṣya śithiréva devā́thā[*883] te syāma varuṇa piyā́saḥ  
+8.1.153.5 áva te héḍo varuṇa námobhir áva yajñébhir īmahe havírbhiḥ  
+kṣáyann asmábhyam asura praceto[*884] rā́jann énā(g)ṃsi śiśrathaḥ kr̥tā́ni  
+[*882] Text: ástabhnā  
+[*883] RV: devā́dhā  
+[*884] RV: pracetā  
+  
+  
+  
+8.1.154.1 úd uttamáṃ varuṇa pā́śam asmád ávādhamáṃ ví madhyamá(gg)ṃ śrathāya  
+áthā vayám āditya vraté távā́nāgaso áditaye syāma  
+8.1.154.2 imáṃ me varuṇa śrudhī hávam adyā́ ca mr̥ḍaya  
+tvā́m avasyúr ā́ cake  
+8.1.154.3 tát[*885] tvā yāmi bráhmaṇā vándamānas tád ā́ śāste yájamāno havírbhiḥ  
+áheḍamāno varuṇehá bodhy úruśa(g)ṃsa mā́ na ā́yuḥ prá moṣīḥ  
+8.1.154.4 tváṃ no agne váruṇasya vidvā́n devásya héḍó 'va yāsisīṣṭhāḥ  
+yájiṣṭho váhnitamaś śóśucāno víśvā dvéṣā́(g)ṃsi prá mumugdhy asmát  
+8.1.154.5 sá tváṃ no agne 'vamó bhavotī́ nédiṣṭho asyā́ uṣáso vyuṣṭau  
+áva yakṣva no váruṇa(g)ṃ rárāṇo vīhí[*886] mr̥ḍīká(g)ṃ suhávo na edhi  
+8.1.154.6 tvám agne ayā́sy ayā́ sán mánasā hitáḥ  
+ayā́ sán havyám ūhiṣe áyā́ no dhehi bheṣajám  
+8.1.154.7 yé te śatáṃ varuṇa yé sahásraṃ yajñíyāḥ pā́śā vítatāḥ purutrā́  
+tébhyo na índras savitótá víṣṇur víśvedevā́ muñcantu marútas svastyā́  
+[*885] Text: tá  
+[*886] Text: vīhá  
+  
+  
+  
+8.0.20 kr̥tā́ny edhi catvā́ri ca  
+  
+8.1.155.1 pī́vonnā(g)ṃ[*887] rayi-vŕ̥dhas sumedhā́ś śvetás siṣakti niyútām abhiśrī́ḥ  
+té vāyáve sámanaso ví tasthur víśvén náras svapatyā́ni cakruḥ  
+8.1.155.2 rāyé ínú yáṃ jájñátū ródasī[*888] ubhé rāyé devī́ dhiṣáṇā dhāti devám  
+ádhā[*889] vāyúṃ niyútas saścata svā́ utá śvetáṃ vásudhitiṃ nireké[*890]  
+8.1.155.3 ā́ vāyo bhūṣa śucipā úpa nas sahásraṃ te niyúto viśva-vāra  
+úpo te ándho mádyam ayāmi yásya deva dadhiṣé pūrva-péyam  
+8.1.155.4 prá yā́bhir yā́si dāśvā́(g)ṃsam ácchā niyúdbhir vāyav iṣṭáye duroṇé  
+ní no rayí(g)ṃ subhójasaṃ yuvehá ni vīrávad[*891] gávyam áśviyaṃ ca rā́dhaḥ  
+8.1.155.5 prá vāyúm ácchā br̥hatī́ manīṣā́ br̥hád-rayiṃ viśvávārā(g)ṃ[*892] rathaprā́m  
+dutádyāmā niyútaḥ pátyamānaḥ kavíḥ kavím iyakṣasi prayajyo  
+[*887] RV: pī́voannāṃ  
+[*888] RV: ródasīme  
+[*889] RV: ádha  
+[*890] VMP follows TB  
+[*891] RV: yuvasva ní vīrám replaces yuvehá ni vīrávad  
+[*892] RV: viśvávāraṃ; TB: viśvávārāṃ  
+  
+  
+  
+8.1.156.1 ā́ no niyúdbhiś śatínībhir adhvará(g)ṃ sahasríṇībhir úpa yāhi yajñám  
+vā́yo asmín havíṣi mādayasva yūyáṃ pāta svastíbhis sádā naḥ  
+8.1.156.2 vā́yo śatá(g)ṃ hárīṇāṃ yuvásva póṣyāṇām  
+utá vā te sahasríṇo rátha ā́ yātu pā́jasā  
+8.1.156.3 prá yā́ vā́jaṃ ná héṣantaṃ perúm ásyasy arjuni  
+r̥dūdáreṇa sákhyā saceya yó mā ná ríṣyed dharyaśva pītáḥ  
+8.1.156.4 prakramyātha[*893] ū́rdhvaṃ púruṣa-jo vivéśa prájāsu vr̥tyā́ya ásūn dadāti  
+so 'ham asmín yájāni sámāpātu  
+8.1.156.5 yo mātaríśvā víyaj jātó[*894] 'ṃśako vr̥to hūyáte  
+yásya satá(g)ṃ sametu  
+8.1.156.6 marútaḥ paramātmā́ páramā gatíḥ páraṃ bráhma páraṃ yógam  
+paramātmā́naṃ manye ajáraṃ yo 'gnir ahám ánnaṃ vāyáve  
+8.1.156.7 marúto gaṇā́nāṃ prathamás saptádhānāṃ mūrdhā́ vāyo ányam ajára(g)ṃ śriyam  
+hotāraṃ vaí ráyan tvā́hur ágne havyáṃ marúdbhyaḥ  
+[*893] Text: prakramyādha  
+[*894] 1984 edition: viyajñātó instead of víyaj jātó  
+  
+  
+  
+8.0.21 práyájyó sametu catvā́ri ca  
+  
+8.1.157.1[*895] adbhyás tírodhā́jāyata táva vaiśravaṇás sadā  
+tírodhehi sapatnā́n no yé ápo áśnánti kecaná  
+8.1.157.2 tvāṣṭrī́ṃ māyā́ṃ vaiśravaṇó ráthá(g)ṃ sahasra-vándhuram  
+puruścakrá(g)ṃ sáhasrāśvam ā́sthāyā́yāhi no balím  
+8.1.157.3 yásmai bhūtā́ni balím ā́vahanti dhánaṃ gā́vo hásti híraṇyam áśvā́n  
+ásāma sumataú yajñíyasya śríyaṃ bíbhrató ínna-mukhīṃ virā́jam  
+8.1.157.4 sudarśané ca krauñcé ca maināgé ca mahā́-girau  
+satá dvāṭṭā́ra-gamantā́ sa(g)ṃhā́ryaṃ nágaraṃ táva  
+8.1.157.5 ítí mantrā́ḥ.  kálpo 'ta ūrdhvám  
+8.1.157.6 yádi báli(g)ṃ háred dhiraṇya-nābháye vitudáye kauberā́yāyáṃ baliḥ  
+[*895] All of 8.1.157 is a continuous quote from TA 1.31.1-2 only.  
+  
+  
+8.1.158.1 sárvá-bhū́tā́dhípátáyé nama ity áthá bálí(g)ṃ hŕ̥tvópatiṣṭheta  
+kṣatráṃ kṣatráṃ vaiśravaṇó brā́hmáṇā vaya(gg)ṃ smáḥ  
+8.1.158.2 námas te astu mā́ mā hi(g)ṃsīr ásmā́t právíśyā́nnam addhītī́  
+áthá tám ágním ādadhītá yásmínn étát kármá prayuñjītá  
+8.1.158.3 tiródhā bhū́s tiródhā bhúvaḥ  
+tiródhās[*896] svas tiródhā bhū́r bhúvas svaḥ  
+8.1.158.4 sárvéṣā́ṃ lókā́nā́m ā́dhípátye sīdety áthá tám ágnim indhītá  
+yásmínn étát kármá prayuñjītá tiródhā bhū́s svā́hā  
+8.1.158.5 tiródhā bhúvas svā́hā tiródhā svas svāhā tiródhā bhū́r bhúvas svas svāhā yásmínn ásyá kā́lé sárvā́ ā́hútī́r hútā bhaveyúḥ  
+[*896] VMP: tiródhā, corrected to tiródhās, the version in TA.  
+  
+  
+8.1.159.1 ápí brā́hmaṇa-mukhīnā́s tásmínn áhnáḥ kā́lé prayuñjītá  
+páras suptá-jánā́d vepí mā́ smá prámā́dyántam ādhyāpáyét[*897]  
+8.1.159.2 sárvā́rthās siddhyanté yá evaṃ vedá  
+kṣúdhyánn ídam ajānátā́ṃ sárvā́thā́ na siddhyanté[*898]  
+8.1.159.3 yás te vighā́tuko bhrātā́ mámā́ntár hr̥daye śrítáḥ  
+tásmā imám agra-píṇḍaṃ juhomi sá me 'rthān mā́ vívadhīn máyi svā́hā[*899]  
+8.1.159.4 rājādhirājā́ya prasahya-sāhíne námo vayáṃ vaiśravaṇā́ya kurmahe  
+sá me kā́mān kā́ma-kā́māya máhyaṃ kāmeśvaró vaiśravaṇó dadātu[*900]  
+8.1.159.5 kuberā́ya vaiśravaṇā́ya mahā-rājā́ya námaḥ[*901]  
+8.1.159.6 rāyás póṣāyā́yuṣā tvā nidhī́śo bhrā́tr̥vyāṇāṃ mahásāṃ cā́dhipatyai[*902]  
+8.1.159.7 miśrá-vāsasaḥ kauberakā́ rakṣo-rājéna préṣitāḥ  
+grā́ma(g)ṃ sá-jānayo gacchántīchánto paridā́kŕ̥tā́n  
+8.1.159.8 etā́n ghnataitā́n gr̥hṇītéty ayáṃ bráhmaṇas putráḥ  
+tā́n agníḥ páryasarat tā́n índras tā́n bŕ̥haspátiḥ  
+tā́n aháṃ veda brāhmaṇáḥ pramr̥śatáḥ kūṭa-dantā́n vikeśā́n lambana-stanā́n  
+[*897] TA 1.31.5 only (not in VC)  
+[*898] TA 1.31.5 only (not in VC)  
+[*899] TA 1.31.5-6 only (VC p. 771)  
+[*900] TA 1.31.6 only (VC p. 821)  
+[*901] TA 1.31.6 only (VC p. 328)  
+[*902] In VC pp. 824-825, there are two columns of rāyas poṣ... but no match to this verse.  
+  
+  
+  
+8.0.22 ayáṃ balir bhaveyúś cā́dhipatyai páñca ca  
+  
+8.1.160.1 stuhí śrutáṃ garta-sádaṃ yúvānaṃ mr̥gáṃ ná bhīmám upahatnúm ugrám  
+mr̥ḍā́ jaritré rudra stávāno anyáṃ te asmán ní vapantu sénāḥ  
+8.1.160.2 pári ṇo rudrásya hetír vr̥ṇaktu pári tveṣásya durmatír aghāyóḥ  
+áva sthirā́ maghávadbhyas tanuṣva mī́ḍhvas tokā́ya tánayāya mr̥ḍaya  
+8.1.160.3 mī́ḍhuṣṭama śívatama[*903] śivó nas sumánā bhava  
+paramé vr̥kṣá ā́yudhaṃ nidhā́ya kŕ̥ttiṃ vásāna ā́ cara pínākaṃ bíbhradā́ gahi  
+8.1.160.4 árhan bibharṣi sā́yakāni dhánvā́rhan niṣkáṃ yajatáṃ viśvá-rūpam árhann idáṃ dayase víśvam ábbhuvaṃ[*904] ná vā́ ójīyo rudra tvád asti  
+8.1.160.5 tvám agne rudró ásuro mahó divás tvá(g)ṃ śárdho mā́rutaṃ pr̥kṣá īśiṣe  
+tváṃ vā́tair aruṇaír yāsi śaṃgayás tváṃ pūṣā́[*905] vidhatáḥ pāsi nú tmánā  
+[*903] VMP: śívatamaś; TS: śívatama  
+[*904] RV: ábhvaṃ  
+[*905] Text: pūṃṣā́  
+  
+  
+  
+8.1.161.1 ā́ vo rā́jānam adhvarásya rudrá(g)ṃ hótāra(g)ṃ sátya-yája(g)ṃ ródasyoḥ  
+agníṃ purā́ tanayitnór acíttād dhíraṇya-rūpam ávase kr̥ṇudhvam  
+8.1.161.2 námas te rudra manyáva utó ta íṣave námaḥ  
+námas te astu dhánvane bāhúbhyām utá te námaḥ  
+8.1.161.3 yā́ ta íṣuś śivátamā śiváṃ babhū́va te dhánuḥ  
+śivā́ śaravyā́ yā́ táva táyā no rudra mr̥ḍaya  
+8.1.161.4 rúdram anyáṃ bahutó hutaṃ vr̥ṣabháṃ námas te astu  
+tán me astu bāhúbhyāṃ vītáye  
+8.1.161.5 try-ambakaṃ yajāmahe sugandhíṃ[*906] puṣṭi-várdhanam  
+urvārukám iva bándhanān mr̥tyór mukṣīya mā́mŕ̥tāt  
+8.1.161.6 ī́śānas sárva-lokānā́ṃ tryambakas sárva-vidyānā́m  
+ná dvitīyo bhavódbhavāya  
+8.1.161.7 ī́śa ī́śitre bhū́r bhúvas súvar ī́śāya lokā́nām  
+bhīmā́ya vāmadevā́ya námaḥ  
+[*906] RV: sugándhiṃ; TS: sugandhíṃ  
+  
+  
+8.0.23 vídhatáḥ pāsi sú tmánāmŕ̥tāc catvā́ri ca  
+  
+8.1.162.1 kánikradaj janúṣam  
+svasti-dā́ viśás-pátiḥ  
+8.1.162.2 suparṇo 'si garútmān tri-vŕ̥tte śíro gāyatráṃ cákṣus stóma ātmā́ sā́ma te tanū́r vāmadevyáṃ br̥had-rathantaré pakṣaú yajñāyajñíyaṃ púcchaṃ chándā(g)ṃsy áṅgāni dhíṣṇiyāś śaphā́ yájū́(g)ṃṣi nā́ma  
+8.1.162.3 suparṇo 'si garútmān dívaṃ gaccha súvaḥ pata  
+8.1.162.4 havíṣmatīr imā́ ā́po havíṣmān devó adhvaró  
+havíṣmā(g)ṃ ā́ vivāsati havíṣmā(g)ṃ astu sū́ryaḥ  
+8.1.162.5 agnér vó 'panna-gr̥hasya sádasi sādayāmi sumnā́ya sumninīs sumné mā dhattendrāgniyór bhāgadhéyīs stha mitrā́-váruṇayor bhāgadhéyīs stha víśveṣāṃ devā́nāṃ bhāgadhéyīs stha yajñé jāgr̥ta  
+8.1.162.6 bhū́r asi bhū́ḥ prátiṣṭhityai  
+8.1.162.7 dhvajáṃ prátiṣṭhāpayāmí  
+8.1.162.8 jayā́ya námaḥ  
+atyucchritā́ya námaḥ  
+  
+8.1.163.1 dhanyā́ya námaḥ  
+8.1.163.2 dhvajā́ya námaḥ  
+8.1.163.3 índrāya námaḥ  
+8.1.163.4 agnáye námaḥ  
+8.1.163.5 yámā́ya námaḥ  
+8.1.163.6 nírr̥taye námaḥ  
+8.1.163.7 váruṇāya námaḥ  
+8.1.163.8 vā́yave námaḥ  
+8.1.163.9 kuberā́ya námaḥ  
+8.1.163.10 ī́śānāya námaḥ  
+8.1.164.1 bráhmaṇe námaḥ  
+8.1.164.2 sūryā́ya námaḥ  
+8.1.164.3 indáve námaḥ  
+8.1.164.4 agnáye námaḥ  
+8.1.164.5 súdarśanāya námaḥ  
+8.1.164.6 vā́sukaye námaḥ  
+8.1.164.7 bráhmaṇe námaḥ  
+8.1.164.8 víṣṇave námaḥ  
+8.1.164.9 rudrā́ya námaḥ  
+8.1.164.10 bráhmaṇe námaḥ  
+8.1.164.11 sárasvatyai námaḥ  
+  
+8.0.24 atyucchritā́ya námaḥ ī́śānāya námo bráhmaṇe náma ékañ ca  
+  
+8.1.165.1 īṅkā́rā́ya svā́hā  
+8.1.165.2 ī́ṅkr̥tāya svā́hā  
+8.1.165.3 krándate svā́hā  
+8.1.165.4 avakrándate svā́hā  
+8.1.165.5 próthate svā́hā  
+8.1.165.6 prapróthate svā́hā  
+8.1.165.7 gandhā́ya svā́hā  
+8.1.165.8 ghrātā́ya svā́hā  
+8.1.165.9 prāṇā́ya svā́hā  
+8.1.165.10 vyānā́ya svā́hā  
+  
+8.1.166.1 ápānā́ya svā́hā  
+8.1.166.2 sandīyámānāya svā́hā  
+8.1.166.3 sánditāya svā́hā  
+8.1.166.4 vicr̥tyámānāya svā́hā  
+8.1.166.5 vícr̥ttāya svā́hā  
+8.1.166.6 palāyiṣyámāṇāya svā́hā  
+8.1.166.7 pálāyitāya svā́hā  
+8.1.166.8 upara(gg)ṃsyaté svā́hā  
+8.1.166.9 úparatāya svā́hā  
+8.1.166.10 nivekṣyaté svā́hā  
+  
+8.1.167.1 niviśámānāya svā́hā  
+8.1.167.2 níviṣṭāya svā́hā  
+8.1.167.3 niṣathsyaté svā́hā  
+8.1.167.4 niṣī́date svā́hā  
+8.1.167.5 níṣaṇṇāya svā́hā  
+8.1.167.6 āsiṣyaté svā́hā  
+8.1.167.7 ā́sīnāya svā́hā  
+8.1.167.8 ā́sitā́ya svā́hā  
+8.1.167.9 nipathsyaté svā́hā  
+8.1.167.10 nipádyamānāya svā́hā  
+  
+8.1.168.1 nípannāya svā́hā  
+8.1.168.2 śayiṣyaté svā́hā  
+8.1.168.3 śáyānāya svā́hā  
+8.1.168.4 śayitā́ya svā́hā  
+8.1.168.5 saṃmīliṣyaté svā́hā  
+8.1.168.6 saṃmī́late svā́hā  
+8.1.168.7 sáṃmīlitāya svā́hā  
+8.1.168.8 svapsyaté[*907] svā́hā  
+8.1.168.9 svapaté svā́hā  
+8.1.168.10 suptā́ya svā́hā  
+[*907] Text: svaphsyaté  
+  
+  
+8.1.169.1 prabhotsyate[*908] svā́hā  
+8.1.169.2 prabúddhyamānāya svā́hā  
+8.1.169.3 prábuddhāya svā́hā  
+8.1.169.4 jāgariṣyaté svā́hā  
+8.1.169.5 jā́grate svā́hā  
+8.1.169.6 jāgaritā́ya svā́hā  
+8.1.169.7 śúśrūṣamāṇāya svā́hā  
+8.1.169.8 śr̥ṇvaté svā́hā  
+8.1.169.9 śrutā́ya svā́hā  
+8.1.169.10 vīkṣisyaté svā́hā  
+[*908] Text: prabothsyaté  
+  
+  
+8.1.170.1 vī́kṣamāṇāya svā́hā  
+8.1.170.2 vī́kṣitāya svā́hā  
+8.1.170.3 sa(g)ṃhāsyaté svā́hā  
+8.1.170.4 saṃjíhānāya svā́hā  
+8.1.170.5 ujjíhānāya svā́hā  
+8.1.170.6 vivartsyaté[*909] svā́hā  
+8.1.170.7 vivártamānāya svā́hā  
+8.1.170.8 vívr̥ttāya svā́hā  
+8.1.170.9 utthāsyaté svā́hā  
+8.1.170.10 uttíṣṭhate svā́hā  
+[*909] Text: vivarthsyaté  
+  
+  
+8.1.171.1 útthitāya svā́hā  
+8.1.171.2 vidhaviṣyaté[*910] svā́hā  
+8.1.171.3 vidhūnvānā́ya svā́hā  
+8.1.171.4 vídhūtāya svā́hā  
+8.1.171.5 utkr̥(gg)ṃsyaté svā́hā  
+8.1.171.6 utkrā́mate svā́hā  
+8.1.171.7 útkrāntāya svā́hā  
+8.1.171.8 caṅkramiṣyaté svā́hā  
+8.1.171.9 caṅkramyámāṇāya svā́hā  
+8.1.171.10 caṅkramitā́ya svā́hā  
+[*910] 1984 edition: vithaviṣyaté  
+  
+  
+8.1.172.1 kaṇḍūyiṣyaté svā́hā  
+8.1.172.2 kaṇḍūyámānāya svā́hā  
+8.1.172.3 kaṇḍūyitā́ya svā́hā  
+8.1.172.4 nikaṣiṣyaté svā́hā  
+8.1.172.5 nikáṣamāṇāya svā́hā  
+8.1.172.6 níkaṣitāya svā́hā  
+8.1.172.7 yad átti tásmai svā́hā  
+8.1.172.8 yát píbati tásmai svā́hā  
+8.1.172.9 yán méhati tásmai svā́hā  
+8.1.172.10 yac chakr̥t karóti tásmai svā́hā  
+8.1.172.11 rétase svā́hā  
+8.1.172.12 prajā́bhyas svā́hā  
+8.1.172.13 prajánanāya svā́hā  
+8.1.172.14 sárvasmai svā́hā  
+  
+8.0.25 vyānā́ya svā́hā nivekṣyaté svā́hā nipádyamānāya svā́hā suptā́ya svā́hā vīkṣiṣyaté svā́hottíṣṭhate svā́hā caṅkramitā́ya svā́hā karóti tásmai svā́hā catvā́ri ca  
+  
+8.1.173.1 ā́-go-dā́nāt páṭhed idáṃ brāhmīyáṃ bráhma-nirmitam  
+sūktáṃ tát pāramātmíkam ātmā́ devā́nām ájaro 'mareśaḥ[*911]  
+8.1.173.2 sáṃphullāgré puṇḍarīké níviṣṭas tālā́rdhā́yā́mó[*912] rakta-netráḥ  
+śaṅkhá-spháṭíká-saṅkāśás téṣā́ṃ dévā́nā́m antar āsī́d antarātmā́  
+8.1.173.3 ajitó devó yakṣā́ṇāṃ vidyā́dharāṇā́ṃ gandharvāṇā́m antarātmā́ brahmaṇaś cāntarātmā́  
+brāhmīkó raudriká udānakás sa manuṣyā́ṇāṃ raukmó rukmó vā  
+8.1.173.4 áṅgúṣṭhá-mā́tró hŕ̥dáyé sanniviṣṭás tásthúṣā́m antarātmā́  
+agnír ā́viṣṭo yád rūpáṃ tásya pravā́ asi sá jīva ity abhíśasyate  
+[*911] Full verse for pratīka ā-go-dānāt.  Note full verse comes after, not before, the pratīka.  
+[*912] Text: tālā́rthā́yā́mó  
+  
+  
+  
+8.0.26 ā́-go-dā́nāt páṭhed aṣṭaú ca  
+  
+8.1.174.1 ómāsaś carṣaṇī-dhr̥to víśve devāsa ā́ gata  
+dāśvā́ṃso dāśúṣas sutám  
+8.1.174.2 víśve devā́so aptúras sutám ā́ gaṃta tū́rṇayaḥ  
+usrā́ iva svásarāṇi  
+8.1.174.3 víśve devā́so asrídha[*913] éhi māyāso adrúhaḥ  
+médhaṃ juṣanta váhnayaḥ  
+8.1.174.4 pāvakā́ nas sárasvatī vā́jebhir vājínīvatī  
+yajñáṃ vaṣṭu dhiyā́vasuḥ  
+8.1.174.5 codayitrī́ sūnŕ̥tānāṃ cétantī sumatīnā́m  
+yajñáṃ dadhe sáraśvatī  
+8.1.174.6  mahó árṇas sárasvatī prá cetayati ketúnā  
+dhiyo víśvā ví rājati  
+[*913] RV: asrídha; MS: asridhā.  Note VMP=RV, not MS.  
+  
+  
+8.0.27 sárasvatī dvé ca  
+  
+8.1.175.1 rā́trī vy akhyad āyatī́ purutrā́ devyā 1 'kṣábhiḥ[*914]  
+víśvā ádhi śríyo 'dhita  
+8.1.175.2 órv aprā ámartyā niváto devyū1dvátaḥ  
+jyótiṣā bādhate támaḥ  
+8.1.175.3 nír u svásāram askr̥toṣásaṃ devyā́yatī́  
+ápéd u hāsate támaḥ  
+8.1.175.4 sā́ no adyá yásyā vayáṃ ní te yā́mann ávikṣmahi  
+vr̥kṣé ná vasatíṃ váyaḥ  
+8.1.175.5 ní grā́māso avikṣata ní padváṃto ní pakṣíṇaḥ  
+ní śyenā́saś cid arthínaḥ  
+[*914] RV: devy 1 kṣabhiḥ; TB: devy akṣabhiḥ  
+  
+  
+8.1.176.1 yāváyā vr̥kyaṃ[*915] 1 vŕ̥kaṃ yaváya stenám ūrmye  
+áthā nas sutárā bhava  
+8.1.176.2 úpa mā pépiśat támaḥ kr̥ṣṇáṃ vyaktam asthita  
+úṣa r̥ṇéva yātaya  
+8.1.176.3 úpa te gā́[*916] ivā́karaṃ vr̥ṇīṣvá duhitar divaḥ  
+rā́tri stómaṃ ná jigyúṣe  
+8.1.176.4[*917] ā́ rātri pā́rthivaṃ rájaḥ pitúr aprāyi[*918] dhā́mabhiḥ  
+divás sádāṃsi br̥hatī́ ví tiṣṭhasa ā́ tveṣáṃ vartate támaḥ  
+8.1.176.5 yé te rātrī nr̥cákṣaso yuktā́so[*919] navatír náva  
+aśī́tis saṃtv[*920] aṣṭā́ utó te sapta sáptatīḥ  
+8.1.176.6 rā́trīṃ prá padye janánīṃ sarvá-bhūta-nivéśanīm  
+bhadrā́ṃ bhagávatīṃ kr̥ṣṇā́ṃ viśvásya jagató niśām  
+8.1.176.7 saṃveśinī́ṃ[*921] saṃyaminī́ṃ[*922] grahá-nakṣatra-mā́linīm  
+prápanno 'hám śivāṃ rātrī́ṃ bhadré pāram aśī́mahi bhadré pāram aśī́mahy óṃ námaḥ  
+[*915] Text: vr̥kyāṃ  
+[*916] VMP: vā́; RV, TB, etc: gā́  
+[*917] Verses 8.1.176.4-7 correspond to verses 4.2.1-4 of the R̥g Veda Khila, the “Rātrī Khila”.  Verses 8.1.176.4-5 also correspond to AV 19.47.1 and 19.47.3 respectively.  In Coburn's Devi Māhātmya, p. 265, he says that the sole variant between RVKh and AV is the AV's reading of draṣṭāro for yuktāso.  However in Whitney's Atharva Veda Saṃhitā, vol. 2, p. 975, he indicates another variant is AV's reading of santi for santu.  
+[*918] VMP: pitáraḥ prā́yu; AV, RVKh: pitúr aprāyi  
+[*919] AV: draṣṭāro  
+[*920] AV: santi  
+[*921] RVKh: veśanī́ṃ  
+[*922] RVKh: saṃyamanī́ṃ  
+  
+  
+  
+8.0.28 arthínas sáptatīś catvā́ri ca  
+  
+8.1.177.1 hiraṇya-garbhá ā́po ha yát prájāpate  
+8.1.177.2 sá veda putráḥ pitára(g)ṃ sá mātára(g)ṃ sá sūnúr bhuvat sá bhuvat púnar-maghaḥ  
+sá dyā́m aúrṇod antárikṣa(g)ṃ sá súvas sá víśvā bhúvo abhavat sá ā́ bhavat  
+8.1.177.3 sá pratnaván návīyasā́gne dyumnéna saṃyátā[*923]  
+br̥hát tatantha bhānúnā  
+8.1.177.4 ní kā́vyā vedhásaś[*924] śáśvatas kar háste dádhāno náryā purū́ṇi  
+agnír bhuvad rayipátī rayīṇā́(g)ṃ satrā́ cakrāṇó amŕ̥tāni víśvā  
+8.1.177.5 híraṇya-pāṇim ūtáye savitā́ram úpa hvaye sá céttā devátā padám  
+8.1.177.6 vāmám adyá savitar vāmám u śvó divé-dive vāmám asmábhya(g)ṃ sāvīḥ  
+vāmásya hí kṣáyasya deva bhū́rer ayā́ dhiyá vāma-bhā́jas syama  
+8.1.177.7 báḍ itthā́ párvatānāṃ khidráṃ bibharṣi pr̥thiví  
+prá yā́ bhūmi pravatvati mahnā́ jinóṣi mahini[*925]  
+[*923] The 1946 and 1984 editions of the VMP text here insert a footnote that reads: údutyáṃ citrám, which is the only part missing in an otherwise continuous quote from TS 2.2.12.  Keith's translation for this pratīka (his TS 2.2.12f) is: “The radiant.”  
+[*924] Text: vethásaś  
+[*925] VMP divides this verse making the second line the first line of chapter 178.  The numbering is adjusted so that the complete verse comes at the end of chapter 177.  
+  
+  
+  
+8.1.178.1 stómāsas tvā vicāriṇi práti ṣṭobhanty aktúbhiḥ  
+prá yā́ vā́jaṃ ná héṣantaṃ perúm ásyasy arjuni  
+8.1.178.2 r̥dūdáreṇa sákhyā saceya yó mā ná ríṣyed dhary-aśva pītáḥ  
+ayáṃ yás sómo nyádhāyy asmé tásmā índraṃ pratíram emy áccha  
+8.1.178.3 ā́pānta-manyus  tr̥pála-prabharmā dhúniś śímīvāñ chárumā(g)ṃ r̥jīṣī́  
+sómo víśvāny atasā́ vánāni nā́rvā́g índraṃ pratimā́nāni debhuḥ  
+8.1.178.4 prá suvānás sóma r̥ta-yúś ciketéndrāya bráhma jamádagnir árcann  
+vŕ̥ṣāyantā́si śávasas turásyā́ntár yaccha gr̥ṇaté dhartráṃ dŕ̥(g)ṃha  
+8.1.178.5 sa-bā́dhas te mádaṃ ca śuṣmayáṃ ca bráhma náro brahma-kŕ̥tas saparyan  
+arkó vā yát turáte sóma-cakṣās tátréd índro dadhate pr̥tsú[*926] turyā́m[*927]  
+[*926] Text: pr̥thsú  
+[*927] VMP divides this verse making the second line the first line of chapter 179.  The numbering is adjusted so that the complete verse comes at the end of chapter 178.  
+  
+  
+  
+8.1.179.1 váṣaṭ te viṣṇav āsá ā́ kr̥ṇomi tán me juṣasva śipi-viṣṭa havyám  
+várdhantu tvā suṣṭutáyo gíro me yūyáṃ pāta svastíbhis sádā naḥ  
+8.1.179.2 prá tát te adyá śipi-viṣṭa nā́māryáś śa(g)ṃsāmi vayúnāni vidvā́n  
+táṃ tvā gr̥ṇāmi tavásam átavīyān kṣáyantam asyá rájasaḥ parāké  
+8.1.179.3 kím ít te viṣṇo paricákṣyaṃ bhūt prá yád vavakṣé śipi-viṣṭó asmi  
+mā́ várpo asmád ápa gūha etád yád anyá-rūpas samithé babhū́tha  
+8.1.179.4 ágne dā́ daśúṣe rayíṃ vīrávantaṃ párīṇasaṃ śiśīhí nas sūnumátaḥ  
+8.1.179.5 dā́ no agne śatíno dā́s sahasríṇo duró ná vā́ja(gg)ṃ śrútyā ápā vr̥dhi  
+prā́cī dyā́vā-pr̥thivī́ bráhmaṇā kr̥dhi súvarṇá śukrám uṣáso ví didyutuḥ  
+  
+8.1.180.1 agnír dā dráviṇaṃ vīrá-peśā agnír ŕ̥ṣiṃ yás sahásrā sanóti  
+agnír diví havyám ā́ ta tanāgnér dhā́māni víbhr̥tā purutrā́  
+8.1.180.2 mā́ no márdhīr ā́ tū́ bhara  
+8.1.180.3 ghr̥táṃ ná pūtáṃ tanū́r arepā́ś śúci híraṇyam tát te rukmó ná rocata svadhāvaḥ  
+8.1.180.4 ubhé suścandra sarpíṣo dárvī śrīṇīṣa āsáni  
+utó na útpupūryā ukthéṣu śávásás páta íṣa(gg)ṃ stotŕ̥bhya ā́ bhara  
+8.1.180.5 vā́yo śatá(g)ṃ hárīṇāṃ yuvásva póṣyāṇām utá vā te sahasríṇo rátha ā́ yātu pā́jasā  
+8.1.180.6 prá yā́bhir yā́si dāśvā́(g)ṃsam ácchā niyúdbhir vāyav iṣṭáye duroṇé  
+ní no rayí(g)ṃ subhójasaṃ yuvehá ní vīrávad gávyam áśviyaṃ ca rā́dhaḥ  
+8.1.180.7 revátīr nas sadha-mā́da índre santu tuví-vājāḥ kṣumánto yā́bhir mádema  
+8.1.180.8 revā́(g)ṃ íd revátas stotā́ syā́t tvā́vato maghónaḥ préd u harivas śrutásya  
+  
+8.0.29 pŕ̥thívís sápáryán vídidyutuś ca rā́dháś catvā́ri ca  
+  
+8.1.181.1 viśva-jíte dhana-jíte svar-jíte satrā-jíte nr̥-jíta urvarā-jíte  
+aśva-jíte go-jíte ab-jíte bharéndrāya sómaṃ yajatā́ya haryatám  
+8.1.181.2 abhibhúve 'bhibhaṃgā́ya vanvaté 'ṣālhāya sáhamānāya vedháse  
+tuvigráye váhnaye duṣṭárītave satrā-sā́he náma índrāya vocata  
+8.1.181.3 satrā-sāhó jana-bhakṣó janaṃ-saháś cyavano yudhmó ánu jóṣam ukṣitáḥ vr̥taṃ-cayás sáhurir vikṣvāritá[*928] índrasya vocaṃ prá kr̥tā́ni vīryā  
+8.1.181.4 anānudó vr̥ṣabhó dódhato vadhó gaṃbhīrá r̥ṣvó ásamaṣṭa-kāvyaḥ  
+radhra-codáś śnáthano vīlitás pr̥thúr índras suyajñá uṣásas svar janat  
+8.1.181.5 yajñéna gātúm aptúro vividrire dhíyo hinvānā́ uśíjo manīṣíṇaḥ  
+abhisvárā niṣádā gā́ avasyáva índre hinvānā́ dráviṇāny āśata  
+[*928] Text: ikṣvāritá  
+  
+  
+8.1.182.1 índra śréṣṭhāni dráviṇāni dhéhi cíttiṃ dákṣasya subhagatvám asmé  
+póṣaṃ rayīṇā́m áriṣṭiṃ tanū́nāṃ svādmā́naṃ vācás sudinatvám áhnām  
+8.1.182.2 trí-kadrukeṣu mahiṣó yávāśiraṃ tuvi-śúṣmas  
+tr̥pátsómam apibad víṣṇunā sutáṃ yáthā́vaśat  
+sá īṃ mamāda máhi kárma kártave mahā́m urúṃ  
+saínaṃ saścad devó deváṃ satyám índraṃ satyá índuḥ  
+8.1.182.3 ádha tvíṣīmāṃ[*929] abhyójasā kríviṃ yudhā́bhavad  
+ā́ ródasī apr̥ṇad asya majmánā prá vāvr̥dhe  
+ádhattānyáṃ jaṭháre prém aricyata  
+saínaṃ saścad devó devám satyám índraṃ[*930] satyá índuḥ  
+8.1.182.4 sākáṃ jātáḥ krátunā sākám ójasā vavakṣitha  
+sākáṃ vr̥ddhó vīryais sāsahír mŕ̥dho vícarṣaṇiḥ  
+dā́tā rā́dhas stuvaté kā́myaṃ vásu saínaṃ sáścad devó devám satyám índraṃ[*931] satyá índuḥ  
+8.1.182.5 táva tyán náryaṃ[*932] nr̥tó 'pa indra prathamáṃ pūrvyáṃ diví pravā́cyaṃ kr̥tám  
+yád devásya śávasā prā́riṇā ásuṃ riṇáṃn apáḥ  
+bhuvad víśvam abhy ā́devam ójasā vidā́d ū́rjaṃ śatá-kratu vidā́d íṣam  
+[*929] Text: tvíṣīṃmāṃ  
+[*930] VMP omits saścad devó devám satyám índraṃ, which is in RV, and has = in its place in the text.  
+[*931] VMP omits devó devám satyám índraṃ, which is in RV, and has = in its place in the text.  
+[*932] Text: nárya  
+  
+  
+  
+8.0.30 dráviṇāny āśatāpá ékañ ca  
+  
+8.1.183.1 víṣṇave svā́hā  
+8.1.183.2 víṣṇave svastí-dā́ya svā́hā  
+8.1.183.3 víṣṇave sárvaṃ-dharāya svā́hā  
+8.1.183.4 víṣṇave sarva-goptré svā́hā  
+8.1.183.5 víṣṇave sarvā́tmane svā́hā  
+8.1.183.6 víṣṇave sarva-devā́tmane svā́hā  
+8.1.183.7 víṣṇave sarva-vedā́tmane svāhā  
+8.1.183.8 víṣṇave sarva-munī́nā́m ā́tmane svā́hā  
+8.1.183.9 víṣṇave yóga-sandhāraṇāya svā́hā  
+8.1.183.10 víṣṇave sárva-pratiṣṭhāya svā́hā  
+  
+8.1.184.1 nārāyaṇā́ya svā́hā  
+8.1.184.2 nārāyaṇā́tmane svā́hā  
+8.1.184.3 nārāyaṇā́ya sárva-devātmane svā́hā  
+8.1.184.4 nārāyaṇā́yéndra-rūpāya svā́hā  
+8.1.184.5 nārāyaṇā́ya sáṃyámánā́dhípátaye svā́hā  
+8.1.184.6 nārāyaṇā́ya sámbhógá-pátaye svā́hā  
+8.1.184.7 nārāyaṇā́ya sárva-tr̥pti-pradāya svā́hā  
+8.1.184.8 nārāyaṇā́yānántā́tmane svā́hā  
+8.1.184.9 nārāyaṇā́ya brahméśā́tmane svā́hā  
+8.1.184.10 nārāyaṇā́ya prajā́-pátaye svā́hā  
+  
+8.1.185.1 nārāyaṇā́yānántaśayanāya svā́hā  
+8.1.185.2 puṇya-nārāyaṇā́ya svā́hā  
+8.1.185.3 puṇya-nārāyaṇā́ya tri-dáśā́dhipataye svā́hā  
+8.1.185.4 puṇya-nārāyaṇā́ya vaṭā́kṣá-vā́sine svā́hā  
+8.1.185.5 puṇya-nārāyaṇā́ya pādā́rciṣe svā́hā  
+8.1.185.6 puṇya-nārāyaṇā́ya bālá-rū́piṇe svā́hā  
+8.1.185.7 puṇya-nārāyaṇā́ya māyā́-rū́piṇe svā́hā  
+8.1.185.8 puṇya-nārāyaṇā́ya prabódhine svā́hā  
+8.1.185.9 puṇya-nārāyaṇā́ya sárvādhiṣṭhānāya svā́hā  
+8.1.185.10 puṇya-nārāyaṇā́ya sárva-pravaraṇāya svā́hā  
+  
+8.1.186.1 puṇya-nārāyaṇā́ya mū́rdhni sthānāya svā́hā  
+8.1.186.2 bā́lāya svā́hā  
+8.1.186.3 bā́lāya váṭa-patra-śā́yíne svā́hā  
+8.1.186.4 satyā́ya svā́hā  
+8.1.186.5 satya-niṣṭhā́ya svā́hā  
+8.1.186.6 satyā́tmane svā́hā  
+8.1.186.7 satya-nityā́ya svā́hā  
+8.1.186.8 sárvé tvá(g)ṃ hí satyé satyáṃ prátiṣṭhāya svā́hā  
+8.1.186.9 satyā́ya sárva-loka-pravartine svā́hā  
+8.1.186.10 satyātma-devā́ya svā́hā  
+  
+8.1.187.1 satya-modā́ya svā́hā  
+8.1.187.2 satya-sopānakā́ya svā́hā  
+8.1.187.3 tvá(g)ṃ hí satyā́tmánth sátya-niṣṭhódbhavā́ya svā́hā  
+8.1.187.4 puruṣāya svā́hā  
+8.1.187.5 puruṣa-sa(gg)ṃstutā́ya svā́hā  
+8.1.187.6 puruṣa-samadhītā́ya svā́hā  
+8.1.187.7 puruṣa-niṣṭhā́ya svā́hā  
+8.1.187.8 puruṣā́tmáne svā́hā  
+8.1.187.9 puruṣa-puruṣā́ya svā́hā  
+8.1.187.10 puruṣā́ya jágan-mitrāya svā́hā  
+  
+8.1.188.1 puruṣā́ya jágad-ādhārāya svā́hā  
+8.1.188.2 puruṣā́ya jágat-pravartine svā́hā  
+8.1.188.3 puruṣā́ya jágad-dhetave svā́hā  
+8.1.188.4 víṣṇu-krīḍā́tmane svā́hā  
+8.1.188.5 bhūmi-saṅkrīḍā́tmane svā́hā  
+8.1.188.6 jagan-modā́ya svā́hā  
+8.1.188.7 jagad-dhitā́ya svā́hā  
+8.1.188.8 nikhuryapā́ya[*933] svā́hā  
+8.1.188.9 kā́ya svā́hā  
+8.1.188.10 kásmai svā́hā  
+[*933] According to MW, p. 545, nikhuryapa = Name of Viṣṇu in TS.  
+  
+  
+8.1.189.1 kátamásmai svā́hā  
+8.1.189.2 sárvasmai svā́hā  
+8.1.189.3 víṣṇave svā́hā  
+8.1.189.4 víṣṇave mantra-sandruhaṇā́ya svā́hā  
+8.1.189.5 dhruvarūpíṇe svā́hā  
+8.1.189.6 saṃvr̥tā́tmane svā́hā  
+8.1.189.7 saṃprīti-karā́ya svā́hā  
+8.1.189.8 sarva-śubhá-pradā́ya svā́hā  
+8.1.189.9 aśubha-nāśā́ya svā́hā  
+8.1.189.10 śubha-saṃbarhaṇā́ya svā́hā  
+  
+8.1.190.1 puṇyā́ya svā́hā  
+8.1.190.2 puṇyā́ya bálórjitāya svā́hā  
+8.1.190.3 puṇyā́ya jáya-samr̥ddhāya svā́hā  
+8.1.190.4 puṇyā́ya kā́mānanda-jananā́ya svā́hā  
+8.1.190.5 puṇyā́ya sárvānandāya svā́hā  
+8.1.190.6 puṇyā́ya sámr̥ddhāya svā́hā  
+8.1.190.7 puṇyā́ya śrī́-nidhānāya svā́hā  
+8.1.190.8 puṇyā́ya bráhma-sandruhaṇā́ya svā́hā  
+8.1.190.9 puṇyā́ya vára-sthānāya svā́hā  
+8.1.190.10 puṇyā́ya lóka-sambhāvanā́ya svā́hā  
+8.1.190.11 puṇyā́yā́dbhutāya svā́hā  
+8.1.190.12 puṇyā́yānā́di-nidhanāya svā́hā  
+8.1.190.13 puṇyā́yāmíta-mahimne svā́hā  
+8.1.190.14 puṇyā́yātyántá-hitāya svā́hā  
+8.1.190.15 puṇyā́ya sárva-pratiṣṭhāya svā́hā  
+8.1.190.16 puṇyā́ya sárva-loka-pratiṣṭhāya svā́hā  
+8.1.190.17 puṇyā́ya sárva-loka-śubhāvahāya svā́hā  
+8.1.190.18 puṇyā́ya sarvā́tmane svā́hā  
+  
+8.0.31 pratiṣṭhā́ya svā́hā  
+prajā́-pataye svā́hā sárva-praharaṇāya svā́hā satyātma-devā́ya svā́hā jágan-mitrāya svā́hā  
+kásmai svā́hā śubha-sambarhaṇā́ya svā́hā  
+lóka-sambhavanā́ya svā́hāṣṭaú ca  
+  
+  
+________________________________________  
+  
+  
+Bhágávác-chátā́ṣṭákám  
+  
+8.2.1.1 nārāyaṇā́ya svā́hā  
+8.2.1.2 narā́ya svā́hā  
+8.2.1.3 śaúraye svā́ha  
+8.2.1.4 cákra-pāṇaye svā́hā  
+8.2.1.5 janā́rdanā́ya svā́hā  
+8.2.1.6 vā́sudevāya svā́hā  
+8.2.1.7 jagad-yónaye svā́hā  
+8.2.1.8 vāmanā́ya svā́hā  
+8.2.1.9 jñā́na-pañjarāya svā́hā  
+8.2.1.10 śrī́-vállabhāya svā́hā  
+  
+8.2.2.1 jagannāthā́ya svā́hā  
+8.2.2.2 catúr-mū́rtaye svā́hā  
+8.2.2.3 catur-bhujā́ya svā́hā  
+8.2.2.4 gajendra-ghnā́ya svā́hā  
+8.2.2.5 gajārti-ghnā́ya svā́hā  
+8.2.2.6 kéśavāya svā́hā  
+8.2.2.7 kleśa-nāśanā́ya svā́hā  
+8.2.2.8 kaíṭabhāraye svā́hā  
+8.2.2.9 avidyā́raye svā́hā  
+8.2.2.10 kāma-dā́ya svā́hā  
+  
+8.2.3.1 kamalekṣaṇā́ya svā́hā  
+8.2.3.2 kaṃsá-śátrave svā́hā  
+8.2.3.3 ághā́rā́taye svā́hā  
+8.2.3.4 kākut-sthā́ya svā́hā  
+8.2.3.5 khaga-vā́hanāya svā́hā  
+8.2.3.6 nīlāmbhújá-dyutaye svā́hā  
+8.2.3.7 nityā́ya svā́hā  
+8.2.3.8 nitya-tr̥ptā́ya svā́hā  
+8.2.3.9 nirā́śrayā́ya svā́hā  
+8.2.3.10 nityā́nandā́ya svā́hā  
+  
+8.2.4.1 surā́dhyakṣā́ya svā́ḥā  
+8.2.4.2 nirvíkalpāya svā́hā  
+8.2.4.3 nirañjánā́ya svā́hā  
+8.2.4.4 brahmaṇyā́ya svā́hā  
+8.2.4.5 pr̥thivī-nāthā́ya svā́hā  
+8.2.4.6 pī́ta-vāsase svā́hā  
+8.2.4.7 guhāśayā́ya svā́hā  
+8.2.4.8 veda-garbhā́ya svā́hā  
+8.2.4.9 víbhave svā́hā  
+8.2.4.10 víṣṇave svā́hā  
+  
+8.2.5.1 śrī́mate svā́hā  
+8.2.5.2 trailokya-bhū́ṣaṇāya svā́hā  
+8.2.5.3 yajñá-mū́rtaye svā́hā  
+8.2.5.4 améyā́tmane svā́hā  
+8.2.5.5 vará-dā́ya svā́hā  
+8.2.5.6 vāsavānújāya svā́hā  
+8.2.5.7 bhaktí-príyāya svā́hā  
+8.2.5.8 jagat-pūjyā́ya svā́hā  
+8.2.5.9 paramā́tmane svā́hā  
+8.2.5.10 asurāntakā́ya svā́hā  
+  
+8.2.6.1 deva-devā́ya svā́hā  
+8.2.6.2 hr̥ṣīkeśā́ya svā́hā  
+8.2.6.3 śáṅkarāya svā́hā  
+8.2.6.4 garuḍa-dhvajā́ya svā́hā  
+8.2.6.5 nā́rásiṃhā́ya svā́hā  
+8.2.6.6 mahā́-devā́ya svā́hā  
+8.2.6.7 svayambhúve svā́hā  
+8.2.6.8 bhuvaneśvarā́ya svā́hā  
+8.2.6.9 śrī́dharāya svā́hā  
+8.2.6.10 devakī-putrā́ya svā́hā  
+  
+8.2.7.1 pā́rtha-sārathaye svā́hā  
+8.2.7.2 ácyutāya svā́hā  
+8.2.7.3 śáṅkha-pāṇaye svā́hā  
+8.2.7.4 parañ-jyótiṣe svā́hā  
+8.2.7.5 ātma-jyótiṣe svā́hā  
+8.2.7.6 acañcalā́ya svā́hā  
+8.2.7.7 śrī́vat(th)sāṅkā́ya svā́hā  
+8.2.7.8 akhilādhārā́ya svā́hā  
+8.2.7.9 sárva-loka-pataye svā́hā  
+8.2.7.10 prábhave svā́hā  
+  
+8.2.8.1 trivikramā́ya svā́hā  
+8.2.8.2 trikāla-jnā́ya svā́hā  
+8.2.8.3 tridhámne svā́hā  
+8.2.8.4 karuṇā-karā́ya svā́hā  
+8.2.8.5 sárva-jñāya svā́hā  
+8.2.8.6 sárvasmai svā́hā  
+8.2.8.7 sárva-sākṣiṇe svā́hā  
+8.2.8.8 aniruddhā́ya svā́hā  
+8.2.8.9 haya-grīvā́ya svā́hā  
+8.2.8.10 háraye svā́hā  
+  
+8.2.9.1 śārṅgíṇe svā́hā  
+8.2.9.2 harikeśā́ya svā́hā  
+8.2.9.3 halā́yudhāya svā́hā  
+8.2.9.4 sahasra-bāháve svā́hā  
+8.2.9.5 ávyaktāya svā́hā  
+8.2.9.6 sahasrākṣā́ya svā́hā  
+8.2.9.7 ákṣayāya svā́hā  
+8.2.9.8 ákṣarāya svā́hā  
+8.2.9.9 anantā́ya svā́hā  
+8.2.9.10 sarva-lokéśāya svā́hā  
+  
+8.2.10.1 kāmā́nándā́ya svā́hā  
+8.2.10.2 vikramā́ya svā́hā  
+8.2.10.3 māyā-dhārā́ya svā́hā  
+8.2.10.4 nirādhārā́ya svā́hā  
+8.2.10.5 sarvādhārā́ya svā́hā  
+8.2.10.6 dharā́-dharāya svā́hā  
+8.2.10.7 mahā́-víṣṇave svā́hā  
+8.2.10.8 sadā́-víṣṇave svā́hā  
+8.2.10.9 mā́dhavāya svā́hā  
+8.2.10.10 madhusūdanā́ya svā́hā  
+  
+8.2.11.1 niṣkalaṅkā́ya svā́hā  
+8.2.11.2 nirā́bhāsā́ya svā́hā  
+8.2.11.3 niṣprápañcāya svā́hā  
+8.2.11.4 nirañjanā́ya svā́hā  
+8.2.11.5 víśva-bhuje svā́hā  
+8.2.11.6 víśva-kartre svā́hā  
+8.2.11.7 puṇya-kīrtáye svā́hā  
+8.2.11.8 purā́tanā́ya svā́hā  
+8.2.11.9 áto devā́ idáṃ víṣṇuḥ  
+8.2.11.10 bhū́s svā́hā  
+  
+  
+________________________________________  
+  
+  
+Śrī́-śátā́ṣṭákám  
+  
+8.3.1.1 padma-priyā́yai svā́hā  
+8.3.1.2 padmínyai svā́hā  
+8.3.1.3 padma-hastā́yai svā́hā  
+8.3.1.4 padmālayā́yai svā́hā  
+8.3.1.5 padma-pādā́yai svā́hā  
+8.3.1.6 padmā́kṣyai svā́hā  
+8.3.1.7 padma-vāsínyai svā́hā  
+8.3.1.8 padmá-patrā́kṣa-daivatāyai svā́hā  
+8.3.1.9 padmāṅkā́yai svā́hā  
+8.3.1.10 padma-dohínyai svā́hā  
+  
+8.3.2.1 śrī-dévyai svā́hā  
+8.3.2.2 jñāna-rūpā́yai svā́hā  
+8.3.2.3 sukha-dā́yai svā́hā  
+8.3.2.4 sutŕ̥ptikāyai svā́hā  
+8.3.2.5 púṣṭi-pradāyai svā́hā  
+8.3.2.6 mahā́-lákṣmyai svā́hā  
+8.3.2.7 lakṣmī́-pū́rvāyai svā́hā  
+8.3.2.8 abhivŕ̥ddhi-dāyai svā́hā  
+8.3.2.9 pramoda-sambhavā́yai svā́hā  
+8.3.2.10 lakṣmī́ṃ-bharāyai svā́hā  
+  
+8.3.3.1 svātmáṃ-bharāyai svā́hā  
+8.3.3.2 vr̥ddhyaí svā́hā  
+8.3.3.3 samúdvahāyai svā́hā  
+8.3.3.4 vidā́yai svā́hā  
+8.3.3.5 suvā́ce svā́hā  
+8.3.3.6 icchā́-vídhā́yinyai svā́hā  
+8.3.3.7 puṇyāṃgā́yai svā́hā  
+8.3.3.8 puṇya-svarū́pā́yai svā́hā  
+8.3.3.9 udváhāyai svā́hā  
+8.3.3.10 satyákā́yai svā́hā  
+  
+8.3.4.1 puṇyātmá-hŕ̥dayāvāsāyai svā́hā  
+8.3.4.2 púṇyá-vákṣá-sthálā́láyāyai svā́hā  
+8.3.4.3 puṇyá-netrā́yai svā́hā  
+8.3.4.4 puṇyá-dā́tryai svā́hā  
+8.3.4.5 nityá-púṇyāyai svā́hā  
+8.3.4.6 supuṇyakā́yai svā́hā  
+8.3.4.7 paramodā́yai svā́hā  
+8.3.4.8 bhadrá-tā́rāyai svā́hā  
+8.3.4.9 sādhya-sárvā́rtha-sādhinyai svā́hā  
+8.3.4.10 kāntí-prádāyai svā́hā  
+  
+8.3.5.1 sarvanandā́yai svā́hā  
+8.3.5.2 viṣṇu-saṅkálpa-saṃbhavāyai svā́hā  
+8.3.5.3 śóbhanāṃgāyai svāhā  
+8.3.5.4 śruti-prāpyā́yai svā́hā  
+8.3.5.5 bhogā́yai svā́hā  
+8.3.5.6 bhóga-pratiṣṭhitāyai svā́hā  
+8.3.5.7 sarva-bhogā́yai svā́hā  
+8.3.5.8 dhāríṇyai svā́hā  
+8.3.5.9 bhóga-dāyai svā́hā  
+8.3.5.10 púṇyavatyai svā́hā  
+  
+8.3.6.1 vasuṃ-dharā́yai svā́hā  
+8.3.6.2 vasu-káryai svā́hā  
+8.3.6.3 lóka-mātre svā́hā  
+8.3.6.4 prasā́dinyai svā́hā  
+8.3.6.5 saṃkalpa-tr̥ptyai svā́hā  
+8.3.6.6 sáṃtr̥ptyai svāhā  
+8.3.6.7 subrahmaṇyā́yai svā́hā  
+8.3.6.8 mahā́-nadyai svā́hā  
+8.3.6.9 saṃkḷpta-sā́dhinyai svā́hā  
+8.3.6.10 brahmáṇyai svā́hā  
+  
+8.3.7.1 kálpa-sādhinyai svā́hā  
+8.3.7.2 sugandhínyai svā́hā  
+8.3.7.3 bhógavatyai svā́hā  
+8.3.7.4 rudrā́ṇyai svā́hā  
+8.3.7.5 dīpti-kāríṇyai svā́hā  
+8.3.7.6 tr̥ptyaí svā́hā  
+8.3.7.7 jayá-káryai svā́hā  
+8.3.7.8 dī́ptyai svā́hā  
+8.3.7.9 púṣṭyai svā́hā  
+8.3.7.10 parama-púṣṭi-dāyai svā́hā  
+  
+8.3.8.1 śā́ntyai svā́hā  
+8.3.8.2 vidyā́-dharyai svā́hā  
+8.3.8.3 vidyā-rūpā́yai svā́hā  
+8.3.8.4 íṣṭa-sādhinyai svā́hā  
+8.3.8.5 nityānapāyínyai svā́hā  
+8.3.8.6 ramyā́yai svā́hā  
+8.3.8.7 kalyāná-gúṇá[*934] gúmphitāyai[*935] svā́hā  
+8.3.8.8 bhū́ti-dā́yai svā́hā  
+8.3.8.9 śrī́-karyai svā́hā  
+8.3.8.10 dévyai svā́hā  
+[*934] Text: kalyāṇá-gúṇá  
+[*935] Text: gumbhitāyai  
+  
+  
+  
+8.3.9.1 vibhū́tyai svā́hā  
+8.3.9.2 háṃsa-vāhinyai svā́hā  
+8.3.9.3 prahlādínyai svā́hā  
+8.3.9.4 prakŕ̥tyai svā́hā  
+8.3.9.5 cid-rūpā́yai svā́hā  
+8.3.9.6 cítta-vāsinyai svā́hā  
+8.3.9.7 sarvāyuṣā́ṇā́m-ā́yur-me pāhi svā́hā  
+8.3.9.8 sárvaíśváryai svā́hā  
+8.3.9.9 sátyai svā́hā  
+8.3.9.10 sárvadāyínyai svā́hā  
+  
+8.3.10.1 dhārā́ṅgyai[*936] svā́hā  
+8.3.10.2 prayojaná-karāyai svā́hā  
+8.3.10.3 pradhāna-kā́riṇyai svā́hā  
+8.3.10.4 samŕ̥ddhyai svā́hā  
+8.3.10.5 púṇya-vardhinyai svā́hā  
+8.3.10.6 śrī-vaíṣṇávyai svā́hā  
+8.3.10.7 jayā́yai svā́hā  
+8.3.10.8 toyā́yai svā́hā  
+8.3.10.9 santā́na-kā́ríṇyai svā́hā  
+8.3.10.10 víṣṇu-patnyai svā́hā  
+[*936] 1946 edition: údārā́ṅgyai; 1984 edition: dhārā́ṅgyai  
+  
+  
+8.3.11.1 mahā́-bhū́tyai svā́hā  
+8.3.11.2 vítta-dāyai svā́hā  
+8.3.11.3 vr̥ṣa-vāhínyai svā́hā  
+8.3.11.4 varāṅgánā́yai svā́hā  
+8.3.11.5 divyā́ṅgyai svā́hā  
+8.3.11.6 sarva-bhūtá-hítá-pradāyai svā́hā  
+8.3.11.7 svāhā́yai svā́hā  
+8.3.11.8 svadhā́yai svā́hā  
+8.3.11.9 śa(g)ṃ sā́niyacchát  
+8.3.11.10 bhūya ā́tma-vr̥tyā́  
+  
+  
+________________________________________  
+  
+  
+Máhī́-śátā́ṣṭákám  
+  
+8.4.1.1 kamálā́yai svā́hā  
+8.4.1.2 kamálāvāsāyai svā́hā  
+8.4.1.3 kañja-netrā́yai svā́hā  
+8.4.1.4 mátyai svā́hā  
+8.4.1.5 dhŕ̥tyai svā́hā  
+8.4.1.6 viśokā́yai svā́hā  
+8.4.1.7 haríṇyai svā́hā  
+8.4.1.8 paúṣṇyai svā́hā  
+8.4.1.9 kṣóṇyai svā́hā  
+8.4.1.10 máhyai svā́hā  
+  
+8.4.2.1 atálā́yai svā́hā  
+8.4.2.2 nitálā́yai svā́hā  
+8.4.2.3 vitálā́yai svā́hā  
+8.4.2.4 sutálā́yai svā́hā  
+8.4.2.5 rasā́tálā́yai svā́hā  
+8.4.2.6 mahātalā́yai svā́hā  
+8.4.2.7 tala-rūpā́yai svā́hā  
+8.4.2.8 talā́tálā́yai svā́hā  
+8.4.2.9 bhū́myai svā́hā  
+8.4.2.10 bhū-tala-rūpā́yai svā́hā  
+  
+8.4.3.1 lóka-rūpāyai svā́hā  
+8.4.3.2 upasaṃhitā́yai svā́hā  
+8.4.3.3 prakŕ̥tyai svā́hā  
+8.4.3.4 vikŕ̥tyai svā́hā  
+8.4.3.5 viśva-rūpā́yai svā́hā  
+8.4.3.6 víśva-sādhinyai svā́hā  
+8.4.3.7 dharítryai svā́hā  
+8.4.3.8 mahátryai svā́hā  
+8.4.3.9 dhā́tryai svā́hā  
+8.4.3.10 nadī-rūpā́yai svā́hā  
+  
+8.4.4.1 sarásvatyai svā́hā  
+8.4.4.2 ātmám-bharā́yai svā́hā  
+8.4.4.3 vardhínyai svā́hā  
+8.4.4.4 kāśyápyai svā́hā  
+8.4.4.5 mahátyai svā́hā  
+8.4.4.6 sthirā́yai svā́hā  
+8.4.4.7 dharā-dhará-sámā́dhārāyai svā́hā  
+8.4.4.8 bhúve svā́hā  
+8.4.4.9 dharā-dhará-rū́píṇyai svā́hā  
+8.4.4.10 vasuṃ-dharā́yai svā́hā  
+  
+8.4.5.1 vasú-karāyai svā́hā  
+8.4.5.2 vasúdhā́yai svā́hā  
+8.4.5.3 dhaná-várdhínyai svā́hā  
+8.4.5.4 phala-rūpā́yai svā́hā  
+8.4.5.5 manó-rūpiṇyai svā́hā  
+8.4.5.6 búddhi-rūpiṇyai svā́hā  
+8.4.5.7 citta-rūpíṇyai svā́hā  
+8.4.5.8 ahaṅkārá-rū́piṇyai svā́hā  
+8.4.5.9 bhūta-pañcáká-rū́pāyai svā́hā  
+8.4.5.10 pŕ̥thvyai svā́hā  
+  
+8.4.6.1 sāgara-rūpíṇyai svā́hā  
+8.4.6.2 ambhúdhi-vardhinyai svā́hā  
+8.4.6.3 sarvā́yai svā́hā  
+8.4.6.4 sárva-kāma-pradāyai svā́hā  
+8.4.6.5 pr̥thā́yai svā́hā  
+8.4.6.6 kāmā́yai svā́hā  
+8.4.6.7 manó-harāyai svā́hā  
+8.4.6.8 siddhā́yai svā́hā  
+8.4.6.9 sárva-maṃgala[*937]-kāriṇyai svā́hā  
+8.4.6.10 śyāmā́ṅgyai svā́hā  
+[*937] Text: -maṃgaḷa  
+  
+  
+8.4.7.1 sánnibhāyai svā́hā  
+8.4.7.2 mahā-cātaka-vāhínyai svā́hā  
+8.4.7.3 utpálá-hástāyai svā́hā  
+8.4.7.4 puṇḍarīká-vílócánāyai svā́hā  
+8.4.7.5 puṇḍarīkā́kṣa-dayitāyai svā́hā  
+8.4.7.6 viśvam-bhárá-kúlā́yinyai svā́hā  
+8.4.7.7 haréḥ príyátamāyai svā́hā  
+8.4.7.8 vāsasthalā́yai svā́hā  
+8.4.7.9 atíkā́ntikāyai svā́hā  
+8.4.7.10 ādí-mū́rtyai svā́hā  
+  
+8.4.8.1 priyā́yai svā́hā  
+8.4.8.2 nityā́yai svā́hā  
+8.4.8.3 nandínyai svā́hā  
+8.4.8.4 satyá-rū́piṇyai svā́hā  
+8.4.8.5 satyá-príyāyai svā́hā  
+8.4.8.6 hiraṇyākṣā́ntakāriṇyai svā́hā  
+8.4.8.7 jīvá-vrā́tá-sád-ā́dhā́rāyai svā́hā  
+8.4.8.8 mahā́-lákṣmī́-príyāyai svā́hā  
+8.4.8.9 vara-prasā́dínyai svā́hā  
+8.4.8.10 ramyā́yai svā́hā  
+  
+8.4.9.1 vipulā́yai svā́hā  
+8.4.9.2 vara-módinyai svā́hā  
+8.4.9.3 vará-rū́pāyai svā́hā  
+8.4.9.4 puṇyāṅgā́yai svā́hā  
+8.4.9.5 puṇyávatyai svā́hā  
+8.4.9.6 abdhí-mékhalāyai svā́hā  
+8.4.9.7 iṣṭa-pradā́yai svā́hā  
+8.4.9.8 yajñā́ṅgyai svā́hā  
+8.4.9.9 prakŕ̥tyai svā́hā  
+8.4.9.10 íṣṭa-sādhinyai svā́hā  
+  
+8.4.10.1 ātmám-bhárā́yai svā́hā  
+8.4.10.2 sarvá-sáhāyai svā́hā  
+8.4.10.3 nirnidrā́yai svā́hā  
+8.4.10.4 níṣkr̥tyai svā́hā  
+8.4.10.5 sthítyai svā́hā  
+8.4.10.6 svāhā́yai svā́hā  
+8.4.10.7 svadhā́yai svā́hā  
+8.4.10.8 yajña-yajñā́yai svā́hā  
+8.4.10.9 br̥hátyai svā́hā  
+8.4.10.10 óṅ-kā́ra-rūpiṇyai svā́hā  
+  
+8.4.11.1 svāhā-kārā́yai svā́hā  
+8.4.11.2 svadhā-kārā́yai svā́hā  
+8.4.11.3 veda-vidyā́yai svā́hā  
+8.4.11.4 surū́piṇyai svā́hā  
+8.4.11.5 mahā-dévyai svā́hā  
+8.4.11.6 mahā-mānyā́yai svā́hā  
+8.4.11.7 sárva-siddhyai svā́hā  
+8.4.11.8 dhanur[*938]-dharā́yai svā́hā  
+8.4.11.9 táyādityā́  
+8.4.11.10  tat trīṇy[*939] eṣā́  
+[*938] Text: thanur-  
+[*939] cf. VMP 6.33.5  
+  
+  
+  
+8.1.191.1 nārāyaṇā́ya vidmáhe vāsudevā́ya dhīmahi  
+tán no vísṇuḥ pracodáyāt  
+8.1.191.2 mahā-devyaí ca vidmáhe viṣṇu-patnyaí ca dhīmahi  
+tán no lakṣmīḥ pracodáyāt  
+8.1.191.3 dhanur[*940]-dharā́yai vidmáhe sarva-siddhyaí ca dhīmahi  
+tán no dharā pracodáyāt[*941]  
+8.1.191.4 śrī-bhū-sakhyaí ca vidmáhe viṣṇu-patnyaí ca dhīmahi  
+tán no nīlāḥ[*942] pracodáyāt  
+8.1.191.5 lokādhyakṣā́ya vidmáhe dharādhyakṣā́ya dhīmahi  
+tán naḥ kūrmaḥ pracodáyāt  
+[*940] Text: thanur-  
+[*941] cf. VMP 6.10.6  
+[*942] Text: nīḷāḥ  
+  
+  
+  
+8.1.192.1 bhū-varāhā́ya vidmáhe hiraṇya-garbhā́ya dhīmahi  
+tán naḥ kroḍaḥ pracodáyāt  
+8.1.192.2 vajra-nákhāya vidmáhe tīkṣṇa-da(gg)ṃṣṭrā́ya dhīmahi  
+tán no nārasi(g)ṃhaḥ pracodáyāt  
+8.1.192.3 vāg-īśvarā́ya vidmáhe hayagrīvā́ya dhīmahi  
+tán no ha(g)ṃsaḥ pracodáyāt  
+8.1.192.4 vedāntāṃgā́ya vidmáhe hayagrīvā́ya dhīmáhí  
+tán no hayagrīvaḥ pracodáyāt  
+8.1.192.5 haṃsa-haṃsā́ya vidmáhe parama-haṃṣā́ya dhīmáhí  
+tán no haṃsaḥ pracodáyāt  
+  
+8.1.193.1 dāśarathā́ya[*943] vidmáhé sītā-vallabhā́ya dhīmahi  
+tán no rāmaḥ pracodáyāt  
+8.1.193.2 dhanur-dharā́ya vidmáhe rāma-bhadrā́ya dhīmahi  
+tán no rāmaḥ pracodáyāt  
+8.1.193.3 sudarśanā́ya vidmáhe heti-rājā́ya dhīmahi  
+tán naś cakraḥ pracodáyāt  
+8.1.193.4 jvālā-cakrā́ya vidmáhe mahā-cakrā́ya dhīmahi  
+tán naś cakraḥ pracodáyāt  
+8.1.193.5 dāmodarā́ya vidmáhe vāsudevā́ya dhīmahi  
+tán naḥ kr̥ṣṇaḥ pracodáyāt  
+[*943] Text: dāśaradhā́ya  
+  
+  
+8.1.194.1 tát-púruṣāya vidmáhe suparṇa-pakṣā́ya dhīmahi  
+tán no garuḍaḥ pracodáyāt  
+8.1.194.2 viṣvaksenā́ya vidmáhe vetra-hastā́ya dhīmahi  
+tán naś śāntaḥ pracodáyāt  
+8.1.194.3 vedātmanā́ya vidmáhe hiraṇya-garbhā́ya dhīmahi  
+tán no brahma pracodáyāt  
+8.1.194.4 tát-púruṣāya vidmáhe mahā-devā́ya dhīmahi  
+tán no rudraḥ pracodáyāt  
+8.1.194.5 tát-púruṣāya vidmáhe vakra-tuṇḍā́ya dhīmahi  
+táṃ no dantiḥ[*944] pracodáyāt  
+[*944] MahānU (US): dantī; TA, MahānU (SV): dantiḥ  
+  
+  
+8.1.195.1 tát-púrúṣā́ya vidmáhe mahā-senā́ya dhīmahi  
+tán naṣ ṣaṇ-mukhaḥ[*945] pracodáyāt  
+8.1.195.2 bhāskarā́ya vidmáhe mahad-dyuti-karā́ya[*946] dhīmahi  
+tán no ādityaḥ[*947] pracodáyāt  
+8.1.195.3 vaiśvānarā́ya vidmáhe lālīlā́ya[*948] dhīmahe  
+táṃ no agniḥ pracodáyāt  
+8.1.195.4 kātyāyanā́ya[*949] vidmáhe kanya-kumā́ri[*950] dhīmahi  
+tán no durgiḥ pracodáyāt  
+8.1.195.5 táth savitúr váreṇyaṃ bhárgo devásya dhīmahi  
+dhíyo yó naḥ pracodáyāt  
+[*945] MahānU (US): ṣaṣṭaḥ  (SV): ṣaṇ-mukhaḥ  
+[*946] VMP: maha-dyuti-karā́ya; MahānU (SV): mahad-dyuti-karā́ya; (US): divākarāya  
+[*947] MahānU (US): sūryaḥ  
+[*948] MahānU (US): lālelāya  
+[*949] MahānU (US): kātyāyanyai; (SV): kātyāyānāya  
+[*950] MahānU (US): kanyā-kumāryai  
+  
+  
+  
+8.1.196.1 śabda-rāśā́ya vidmáhe vāyu-putrā́ya dhīmahi  
+táṃ no hanumat pracodáyāt  
+8.1.196.2 tát-púruṣāya vidmáhe cakra-tuṇḍā́ya dhīmahi  
+táṃ no nandiḥ pracodáyāt  
+8.1.196.3 vārdhi-jā́tā́ya vidmáhe mahā-śaṅkhā́ya dhīmahi  
+tán naś śaṅkhaḥ pracodáyāt  
+8.1.196.4 ojo-balā́ya vidmáhe atyucchrayā́ya dhīmahi  
+táṃ no dhvajaḥ pracodáyāt  
+8.1.196.5 mahā-bhūtā́ya vidmáhe viṣṇu-bhaktā́ya dhīmahi  
+tán naś śrī-bhūtaḥ pracodáyāt  
+  
+8.1.197.1 deva-rājā́ya vidmáhe vajra-hastā́ya dhīmahi  
+tán naś śakraḥ pracodáyāt  
+8.1.197.2 ruda-netrā́ya vidmáhe śakti-hastā́ya dhīmahi  
+tán no vahniḥ pracodáyāt  
+8.1.197.3 vaivasvatā́ya vidmáhe daṇḍa-hastā́ya dhīmahi  
+tán no yamaḥ pracodáyāt  
+8.1.197.4 niśā-carā́ya vidmáhe khaḍga-hastā́ya dhīmahi  
+tán no nirr̥tiḥ pracodáyāt  
+8.1.197.5 sudhīśvarā́ya vidmáhe pāśa-hastā́ya dhīmahi  
+tán no varuṇaḥ pracodáyāt  
+8.1.197.6 jagat-prāṇā́ya vidmáhe yaṣṭi-hastā́ya dhīmahi  
+tán no vāyuḥ pracodáyāt  
+8.1.197.7 rāja-rājā́ya vidmáhe dhanādhyakṣyā́ya dhīmahi  
+tán nas somaḥ pracodáyāt  
+8.1.197.8 ruda-sakhā́ya vidmáhe vaiśravaṇā́ya dhīmahi  
+tán naḥ kuberaḥ pracodáyāt  
+8.1.197.9 yakṣeśvarā́ya vidmáhe gadā-hastā́ya dhīmahi  
+tán no yakṣaḥ pracodáyāt[*951]  
+[*951] mahā́-devā́ya vidmáhe śūla-hastā́ya dhīmahi tán naś śivaḥ pracodáyāt  
+  
+  
+8.0.32 prácodáyāt tán no ha(g)ṃsaḥ pracodáyāt kŕ̥ṣṇáḥ prácodáyād dántíḥ prácodáyād dhíyo yó naḥ prácodáyāc chrī́-bhū́táḥ prácodáyāt tán no varuṇaḥ prácodáyād aṣṭaú ca  
+  
+8.1.198.1 námo bráhmaṇe námo ástv agnáye námaḥ pr̥thivyaí náma óṣadhībhyaḥ  
+námo vācé námo vācás-pátaye námo víṣṇave br̥haté karomi  
+8.1.198.2 óṃ śā́ntiś śā́ntiś śā́ntiḥ  
+  
+8.0.33 námo bráhmaṇe trī́ṇi  
+  
+8.1.199.1 tác chaṃ yór[*952] ā́ vr̥ṇīmahe gātúṃ yajñā́ya gātúṃ yajñá-pataye daívī svastír astu naḥ svastír mā́nuṣebhyaḥ  
+ūrdhváṃ jigātu bheṣajám, śáṃ no astu dvi-páde śaṃ catus-pade, óṃ śā́ntiś śā́ntiś śā́ntiḥ  
+[*952] RVKh: chaṃyyor  
+  
+  
+8.0.34 tác chaṃyór ā́ vŕ̥ṇī́máhe náva  
+  
+8.1.200.1 námo vācé yā́ coditā́ yā́ cā́nūditā tásyai vācé námo námo vācé námo vācás-pátaye náma ŕ̥ṣibhyo mantra-kŕ̥dbhyo mántra-patibhyo mā́ mā́m ŕ̥ṣayo mantra-kŕ̥to mantra-pátayaḥ párādur mā́hám ŕ̥ṣīn mantra-kŕ̥to mantra-patīs párādāṃ vaiśvadevī́ṃ vā́cam udyāsa(g)ṃ śivā́m ádastāṃ júṣṭāṃ devébhyaś śárma me dyaúś śárma pr̥thivī́ śárma víśvam idáṃ jágat  
+śárma candráś ca sū́ryaś ca śárma brahma-prajā-patī́  
+8.1.200.2 bhūtáṃ vadiṣye bhúvanaṃ vadiṣye téjo vadiṣye yáśo vadiśye tápo vadiṣye bráhma vadiṣye satyáṃ vadiṣye tásmā ahám idám upastáraṇam úpastr̥ṇa upastáraṇaṃ me prajā́yai paśūnā́ṃ bhūyād upastáraṇam aháṃ prajā́yai paśūnā́ṃ bhūyāsaṃ prā́ṇāpānau mr̥tyór mā pātaṃ prā́ṇāpānau mā́ mā hāsiṣṭaṃ mádhu maniṣye mádhu janiṣye mádhu vakṣyāmi mádhu vadiṣyāmi mádhumatīṃ devébhyo vā́cam udyāsa(g)ṃ śúśrūṣéṇyāṃ manuṣyebhyas táṃ mā devā́ avantu śobhā́yai pitáró ínu madantu óṃ śā́ntiś śā́ntiś śā́ntiḥ  
+  
+8.0.35 námo vācé catvā́ri  
+  
+8.1.201.1 śáṃ no mitráś śáṃ váruṇaḥ śáṃ no bhavatv aryamā́  
+śáṃ na índro bŕ̥haspátiḥ śáṃ no víṣṇur urukramáḥ  
+8.1.201.2 námo brahmaṇe  
+8.1.201.3 námas te vāyo  
+8.1.201.4 tvám evá pratyákṣaṃ bráhmāsi  
+8.1.201.5 tvā́m evá pratyákṣaṃ bráhma vadiṣyāmi  
+8.1.201.6 r̥táṃ vadiṣyāmi  
+8.1.201.7 satyáṃ vadiṣyāmi  
+8.1.201.8 tán mām avatu  
+8.1.201.9 tád vaktā́ram avatu  
+8.1.201.10 ávatu mā́m  
+8.1.201.11 ávatu vaktā́ram  
+8.1.201.12 óṃ śā́ntiś śántiś śā́ntiḥ  
+  
+8.0.36 satyáṃ vadiṣyāmi páñca ca  
+8.1.202.1 śáṃ no vā́taḥ pavatāṃ mātaríśvā[*953] śáṃ nas tapatu sū́ryaḥ  
+8.1.202.2 áhāni śáṃ bhavantu naś śá(g)ṃ rā́triḥ práti dhīyatām  
+8.1.202.3 śám uṣā́ no vyucchatu śám ādityá údetu naḥ  
+8.1.202.4 śivā́ naś śántamā bhava sumr̥ḍīkā́ sárasvatī  
+mā́ te vyoma saṃdŕ̥śi  
+8.1.202.5 íḍāyai vā́stv asi vā́stumád vāstumánto bhūyāsma mā́ vā́stoś cith sma hy avāstús sá bhuyād yo 'smān dveṣṭi yáñ ca vayáṃ dviṣmáḥ  
+8.1.202.6 pratiṣṭhā́si pratiṣṭhā́vanto bhūyāsma mā́ pratiṣṭhā́yāś cith sma hy apratiṣṭhás sá bhūyād yo 'smān dveṣṭi yáñ ca vayáṃ dviṣmáḥ  
+8.1.202.7 ā́ vāta vāhi bheṣajáṃ ví vāta vāhi yád rápaḥ  
+tvá(g)ṃ hí viśvá-bheṣajo devā́nāṃ dūtá ī́yase  
+8.1.202.8 dvā́v imaú vā́tau vāta ā́ síndhor ā́ parāvátaḥ  
+dákṣaṃ me[*954] anyá ā vā́tu párānyó vātu yád rápaḥ[*955]  
+[*953] VS omits  
+[*954] RV: te  
+[*955] VMP divides this verse making the second line the first line of chapter 203.  The numbering is adjusted so that the complete verse comes at the end of chapter 202.  
+  
+  
+  
+8.1.203.1 yád adó vāta te gr̥he 'mr̥tasya nidhír hitáḥ  
+táto no dehi jīváse táto no dhehi bheṣajám  
+8.1.203.2 táto no máha ā́vaha vā́ta ā́ vātu bheṣajám  
+śaṃbhū́r mayobhū́r nó hr̥dé prá ṇa ā́yū(g)ṃṣi tāriṣat  
+8.1.203.3 índrasya gr̥ho 'si táṃ tvā prápadye ságus sā́śvaḥ  
+sahá yán me ásti téna  
+8.1.203.4 bhū́ḥ prápadye bhuvaḥ prápadye súvaḥ prápadye bhū́r bhúvas súvaḥ prápadye vāyúṃ prápadyé ínārtāṃ devátāṃ prápadyé 'śmānam ākhaṇáṃ prápadye prajā́-pater brahma-kośáṃ bráhma prápadya óṃ prápadye  
+8.1.203.5 antárikṣaṃ ma urv antaraṃ br̥hád agnáyaḥ párvatāś ca yáyā vā́tas svastyā́ svastimā́n táyā svastyā́ svastimā́n asāni  
+8.1.203.6 prā́ṇāpānau mr̥tyór mā pātaṃ prā́ṇāpānau mā́ mā hāsiṣṭaṃ  
+8.1.203.7 máyi medhā́ṃ máyi[*956] prajā́ṃ máyy agnís téjo dadhātu máyi medhā́ṃ máyi prajā́ṃ máyī́ndra indriyáṃ dadhātu máyi medhā́ṃ máyi prajā́ṃ máyi sū́ryo bhrā́jo dadhātu  
+[*956] TS omits  
+  
+  
+8.1.204.1 dyubhír aktúbhiḥ pári pātam asmā́n áriṣṭebhir aśvinā saúbhagebhiḥ  
+tán no mitró váruṇo māmahantām áditis síndhuḥ pr̥thivī́ utá dyaúḥ  
+8.1.204.2 káyā naś citrá ā́ bhuvad ūtī́ sadā́vr̥dhas sákhā  
+káyā śáciṣṭhayāvr̥tā́  
+8.1.204.3 kás tvā satyó mádānāṃ má(g)ṃhiṣṭho mathsad[*957] ándhasaḥ  
+dr̥ḍhā́ cid ārúje vásu  
+8.1.204.4 abhī́ ṣú ṇas sákhīnām avitā́ jaritr̥̄ṇā́m  
+śatáṃ bhavāsy ūtíbhiḥ  
+8.1.204.5 váyas suparṇā́ úpa sedur índraṃ priyá-medhā ŕ̥ṣayo nā́dhamānāḥ  
+ápa dhvāntám ūrṇuhí pūrdhí cákṣur mumugdhy asmān nidháyeva baddhā́n  
+[*957] RV: matsad  
+  
+  
+8.1.205.1 śáṃ no devī́r abhíṣṭaya āpo bhavantu pītáye  
+  śáṃ yór abhí sravantu naḥ  
+8.1.205.2 ī́śānā vā́ryāṇāṃ kṣáyantīś carṣaṇīnā́m  
+  apó yācāmi bheṣajám  
+8.1.205.3 sumitrā́ na ā́pa óṣadhayas santu durmitrā́s tásmai bhūyāsur yo 'smān dveṣṭi yáṃ ca vayáṃ dviṣmáḥ  
+8.1.205.4 ā́po hí ṣṭhā́ mayo-bhúvas tā́ na ūrjé dadhātana  
+mahé ráṇāya cákṣase  
+8.1.205.5 yó vaś śivátamo rásas tásya bhājayatehá naḥ  
+uśatī́r iva mātáraḥ  
+8.1.205.6 tásmā áraṃ gamāma vo yásya kṣáyāya jínvatha  
+ā́po janáyathā ca naḥ[*958]  
+[*958] VMP divides this verse making the second line the first line of chapter 206.  The numbering is adjusted so that the complete verse comes at the end of chapter 205.  
+  
+  
+8.1.206.1 pr̥thivī́ śāntā́ sāgnínā śāntā́ sā́ me śāntā́ śúca(g)ṃ śamayatu  
+antárikṣa(g)ṃ śāntáṃ tád vāyúnā śāntáṃ tán me śāntá(g)ṃ śúca(g)ṃ śámayatu  
+8.1.206.2 dyaúś śāntā́ sā́dityéna śāntā́ sā́ me śāntā́ śúca(g)ṃ śamayatu  
+8.1.206.3 pr̥thivī́ śā́ntir antárikṣa(g)ṃ śā́ntir dyaúś śā́ntir  
+8.1.206.4 díśaś śā́ntir avāntara-diśā́ś śā́ntir agníś śā́ntir vāyúś śā́ntir ādityáś śā́ntiś candrámāś śā́ntir nákṣatrāṇi śā́ntir  
+8.1.206.5 ā́paś śā́ntir óṣadhayaś śā́ntir vánas-pátayaś śā́ntir  
+8.1.206.6 gaúś śā́ntir ajā́ śāntir áśvaś śā́ntiḥ púruṣaś śā́ntir bráhmā śā́ntir brāhmanáś śā́ntiś śā́ntir evá śā́ntiś śā́ntir me astu śā́ntiḥ  
+8.1.206.7 táyāhá(g)ṃ śāntyā́ sarva-śāntyā́ máhyaṃ dvi-páde cátuṣ-pade ca śā́ntiṃ karomi śā́ntir me astu śā́ntiḥ  
+8.1.206.8 éha śrī́ś ca hrī́ś ca dhŕ̥tiś ca tápo medhā́ pratiṣṭhā́ śraddhā́ satyáṃ dhármaś caitā́ni móttiṣṭhantam ánū́ttiṣṭhantu mā́ mā(g)ṃ śrī́ś ca hrī́ś ca dhŕ̥tiś ca tápo medhā́ pratiṣṭhā́ śraddhā́ satyáṃ dhármaś caitā́ni mā mā́ hāsiṣuḥ  
+8.1.206.9 údā́yuṣā svāyúṣód óṣadhīnā(g)ṃ rásenótparjányasya śúṣmeṇódasthām amŕ̥tā(g)ṃ ánu  
+8.1.206.10 tác cákṣur devá-hitaṃ purástāc[*959] chukrám uccárat  
+páśyema śarádaś śatáṃ jī́vema śarádaś śatáṃ nándāma śarádaś śatáṃ módāma śarádaś śatáṃ bhávāma śarádaś śatá(g)ṃ śr̥ṇávāma śarádaś śatáṃ prábravāma śarádaś śatám ájītās syāma śarádaś śatáṃ jyók ca sū́ryaṃ dr̥śé  
+8.1.206.11 yá údagān maható 'rṇávād vibhrā́jamānas sarirásya mádhyāth sá mā vr̥ṣabhó lohitākṣás sū́ryo vipaścín mánasā punātu  
+8.1.206.12 bráhmaṇaś ścótany[*960] asi bráhmaṇa āṇī́ stho bráhmaṇa āvápanam asi dhāritéyáṃ pr̥thivī́ bráhmaṇā mahī́ dhāritám enena mahád antárikṣaṃ dívaṃ dādhāra pr̥thivī́(g)ṃ sá-devāṃ yád aháṃ véda tád aháṃ dhārayāṇi mā́ mád védó 'dhi vísrasat  
+8.1.206.13 medhā-manīṣé mā́viśatā(g)ṃ samī́cī bhūtásya bhávyasyā́varuddhyai sárvam ā́yur ayāṇi sárvam ā́yur ayāṇi  
+8.1.206.14 ābhír gīrbhír yád áto na ūnám ā́pyāyaya harivo várdhamānaḥ  
+yadā́ stotŕ̥bhyo máhi gotrā́ rujā́si bhūyiṣṭha-bhā́jo ádha te syāma  
+8.1.206.15 bráhma prā́vādiṣma tán no mā́ hāsīt  
+óṃ śā́ntiś śā́ntiś śā́ntiḥ  
+[*959] RV omits  
+[*960] VMP: bráhmaṇa ścótany  
+  
+  
+  
+8.0.37 parāváto dadhātu baddhā́ñ jínvatha dr̥śé saptá ca  
+  
+8.0.38[*961] tam eka-nemím úd vayán támasa dhārāsu saptāgníś śúci-vratatamaś śúciḥ prá tád víṣṇur bhū́ḥ prápadye téjovát syāvas savitúr agním īḷe trir devá víṣṇor nú kam ā́śā́sú sáptásu vā́stoṣ-pate śúcī vo havyodyántaṃ vā́ híráṇyá-garbhás sám avartaténdraṃ vo 'gne náya ā́yātu deva námas súte 'stabhnād yā́ pī́vonnā madbhyás tírodhā́stú[*962] hí śrutáṃ kánikradad īṅ-kārā́yā́-go-dā́nād ómāsa rā́trī vyakhyad āyatī́ híráṇyá-garbhá víśva-jíte víṣṇave svā́hā nārāyaṇā́ya námo bráhmaṇe tác chaṃ yór námo vācé śáṃ no mitráś śáṃ no vā́taḥ pavatā(g)ṃ sáptá-tri(g)ṃśat  
+[*961] 37 in book  
+[*962] Text: thírodhā́stú  
+  
+  
+  
+8.0.39[*963] tam eka-nemíṃ śáṅkháṃ prátiṣṭhāpayāmí pūtáḥ pū́tāntar bali rakṣakā́y[]āgníś śúci-vratatama yó vā sáṃyoga idáṃ víṣṇus tejovát syāvas savitúr devásya tvā víṣṇor nú kaṃ citrán devā́nā(g)ṃ śáṃ no devī́ ráktā́mbárá-dháram ā́vāhayāmi nārāyaṇā́yodyántaṃ vā́ trí-kadrukebhir ā́ vo rā́jā́ nótthitāya svā́hā viśva-jíte nārāyaṇā́ya śáṃ no mitrá(g)ṃ ṣáḍ úttárá-dví-śatatamám  
+tam eka-nemín trí-vŕ̥tá(g)ṃ ṣoḍaśāntám óṃ śā́ntiś śā́ntiś śā́ntiḥ  
+hariḥ oṃ  
+tatth sat  
+śrī kr̥ṣnārpaṇam astu  
+[*963] 206 in book  
+  
+  
+  
+Vaikhānasa-mantra-praśna  
+(c) H.J. Resnick   
+  
+  
+  
+  
+  
+
 
 ## पाठः
-
-श्री श्री-निवासाय नमः  
-श्री-वैखानस-मन्त्र-प्रश्नाष्टके  
-पञ्चम प्रश्न प्रारम्भः  
-  
-५।१।१।१ हरिः ॐ  
-प्रियतां भगवान् विष्णुस् सर्व-देवेश्वरो हरिः  
-श्रीवत्साङ्कस्[*१] सहस्राक्षस् सहस्र-चरणस् तथा  
-५।१।१।२ जितन् ते पुण्डरीकाक्ष नमस् ते विश्व-भावन  
-नमस् ते ऽस्तु हृषीकेश महा-पुरुष पूर्व-ज  
-५।१।१।३ भवन्तु सर्वाः[*२] पुण्याख्या निमित्ताश् शोभनान्विताः  
-त्वत्-प्रसादाद् वयं विष्णो तव दासास् समागताः  
-५।१।१।४ साधयामो विमानं ते प्रसादं कुरु नो भवान्  
-साहाय्यं सर्व-भृत्यास् ते कुर्वन्तु तव शासनात्  
-५।१।१।५ शान्त-वीशारि-भूतादीन्[*३] विसृजास्माभिर् एव तु  
-अनपायी प्रयात्व् अग्रे छित्वा विघ्नं पुनः-पुनः  
-[*१] इर्रेगुलर् बहु-व्रीहि अच्चेन्तुअतिओन्।  च्ड़्।  अ वेदिच् ग्रम्मर् ड़ोर् स्तुदेन्त्स्, अ।अ। मच्दोनेल्ल्, पगे ४५५अ।  
-[*२] उन्देर्लिनेद् स्य्ल्लब्लेस् रेचेइवे अ "दोउब्ले स्वरित," त्wओ परल्लेल् वेर्तिचल् लिनेस् अबोवे थे स्य्ल्लब्ले, इन् थे पुब्लिस्हेद् तेxत्।  
-[*३] च्ड़्।  काश्यप ज्ञान काण्डः, छप्तेर् ३४, वीश-हीने रिपु-वृद्धिः।  
-
-५।१।२।१ पृष्ठे च नन्दको यातु गदा वामं सुरक्षतु  
-शङ्ख-शक्तीतरे पार्श्वे यतेतां कार्य-सिद्धये  
-५।१।२।२ शेषा गच्छन्तु चास्माभिः प्रसादात् तव सर्वशः  
-त्वत्-प्रसादाद् वयं वीर करिष्यामो गृहं तव  
-५।१।२।३ यथोपलं दहत् सूर्य-तनुम् उष्णत्वम् आश्रितः[*४]  
-तथा वयं हि त्वद्-वीर्याच् छुश्रूषाम् अनुपालय  
-५।१।२।४ अस्ति चेत् करुणा त्वत्तश् चास्माकं दास-कर्मणाम्  
-अनुमन्ता भव प्रीतस् सर्वे याचामहे वयम्  
-५।१।२।५ इन्द्रश् शत-क्रतुर् वीरस् सर्व-राजश् शची-पतिः  
-प्रियतां भगवान् विष्णुः सर्व-लोक-शुभ-प्रदः  
-[*४] थे पुब्लिस्हेद् तेxत् गिवेस् थे ड़ोल्लोwइन्ग् वरिअन्त् wहिछ् इ हवे त्रन्स्लतेद् इन् थे एन्ग्लिस्ह्: यथोपलं दह्यते सूर्याद् अनुष्णम् उष्णत्वम् आश्रितम्।  
-
-५।१।३।१ अग्निर् अग्र्यः पवित्राणां देवानाम् अग्र-गो हरिः  
-प्रियतां भगवान् विष्णुस् सर्व-भोक्ता सुखावहः  
-५।१।३।२ सर्व-लोकोद्भवो विष्णुर् यमो यम-करः प्रजाः  
-प्रियतां दण्ड-भृन् नेता धर्मात्मा धर्म-पालकः  
-५।१।३।३ प्रजा रक्षन् विनिघ्नन् वै यातुधानान् अजः प्रभुः  
-निरृतिः प्रियतां नीलो नीलोत्पल-दल[*५]-प्रभः  
-५।१।३।४ वरुणः प्रचेता भगवान् विक्रमी यज्ञ-पालकः  
-रक्ताम्बर-धरो वीरः प्रियताम् प्रभुर् अव्ययः  
-५।१।३।५ वायुस् सर्वात्मको भद्र उदानो जवनो मरुत्  
-प्रियतां भगवान् प्राणश् शची-पति-सखा प्रभुः  
-५।१।३।६ राज-राजो धनाध्यक्षः कुबेरो विश्रवस्-सुतः  
-प्रियतां निधि-संयुक्त ईश्वरस्य सखा प्रभुः  
-५।१।३।७ ईशस् त्रि-लोचनश् शूली वृषभ-ध्वज-वाहनः  
-प्रियतां गण-भृन् नित्यं त्र्य्-अम्बको ऽम्बर-सन्निभः  
-५।१।३।८ ब्रह्मा पितामहो वीरो वेद-वक्ता वृषा-कपिः  
-प्रियतां पद्म-गर्भाभो विष्णु-पुत्रो विराट् स्वराट्  
-५।१।३।९ दिङ्-नागा नाग-सङ्घाश् च सर्वाश् चान्तर-देवताः  
-रव्य्-आदयो ग्रहा भूता ऋषयस् सिद्ध-चारणाः प्रियतां गण-संयुक्ताः कुर्वन्तु च सहायताम्  
-[*५] तेxत्: दऌअ  
-
-५।१।०।१ पुनः पुनश् शुभ-प्रदः प्रभुर् नव च  
-  
-५।१।४।१ रुद्रं भूतम् इन्द्रं यमम् मातॄस् सोमं वीरम् रुद्रम् इन्द्रं यमं वृक्षेन्द्रान्  
-५।१।४।२ वनस्-पतिभ्यो नमः  
-५।१।४।३ कुमारीभ्यो नमः  
-५।१।४।४ वृक्ष-राजेभ्यो नमः  
-५।१।४।५ सर्व-काम-प्रदेभ्यो नमः  
-५।१।४।६ अग्नये स्वाहा  
-५।१।४।७ वन-राजाय स्वाहा  
-५।१।४।८ सोमाय स्वाहा  
-  
-५।१।५।१ यमाय स्वाहा  
-५।१।५।२ शाखाय स्वाहा  
-५।१।५।३ स्थूल-लाक्षाय स्वाहा  
-५।१।५।४ व्याधाय स्वाहा  
-५।१।५।५ मृग-रूपिणे स्वाहा  
-५।१।५।६ वनस्-पतिभ्यस् स्वाहा  
-५।१।५।७ कुमारीभ्यस् स्वाहा  
-५।१।५।८ वल्लीभ्यस् स्वाहा  
-५।१।५।९ कुसुमाय स्वाहा  
-५।१।५।१० शलाटवे स्वाहा  
-  
-५।१।६।१ बृहत्-वचे स्वाहा  
-५।१।६।२ पुण्याय स्वाहा  
-५।१।६।३ अमित-तेजसे स्वाहा  
-५।१।६।४ सूर्याय स्वाहा  
-५।१।६।५ सूर्य-रूपाय स्वाहा  
-५।१।६।६ शृङ्गिणे स्वाहा  
-५।१।६।७ भूत-रूपिणे स्वाहा  
-५।१।६।८ नाग-हस्ताय स्वाहा  
-५।१।६।९ दिव्याय स्वाहा  
-५।१।६।१० त्रि-हस्ताय स्वाहा  
-  
-५।१।७।१ विघ्नाय स्वाहा  
-५।१।७।२ विघ्न-रूपाय स्वाहा  
-५।१।७।३ विनायकाय स्वाहा  
-५।१।७।४ प्रसारिणे स्वाहा  
-५।१।७।५ मुरुण्डाय स्वाहा  
-५।१।७।६ न्यर्णाय स्वाहा  
-५।१।७।७ नागेभ्यस् स्वाहा  
-५।१।७।८ भूत-राजेभ्यस् स्वाहा  
-५।१।७।९ चारणेभ्यस् स्वाहा  
-५।१।७।१० दिवा-चरेभ्यस् स्वाहा  
-  
-५।१।८।१ नक्तञ्-चरेभ्यस् स्वाहा  
-५।१।८।२ सन्ध्याभ्यस् स्वाहा  
-५।१।८।३ सन्ध्या-चरेभ्यस् स्वाहा  
-५।१।८।४ अप्सरोभ्यस् स्वाहा  
-५।१।८।५ यक्षीभ्यस् स्वाहा  
-५।१।८।६ कुमारीभ्यस् स्वाहा  
-५।१।८।७ आसुरीभ्यस् स्वाहा  
-५।१।८।८ राक्षसीभ्यस् स्वाहा  
-५।१।८।९ पिशाचीभ्यस् स्वाहा  
-५।१।८।१० वनाय स्वाहा  
-५।१।८।११ स्थल-चारिणे स्वाहा  
-५।१।८।१२ वृक्ष-देवेभ्यस् स्वाहा  
-५।१।८।१३ स्थान-देवेभ्यस् स्वाहा  
-५।१।८।१४ विद्याधरेभ्यस् स्वाहा  
-५।१।८।१५ रूपिभ्यस् स्वाहा  
-५।१।८।१६ मिथुनेभ्यस् स्वाहा  
-५।१।८।१७ सुखेभ्यस् स्वाहा  
-५।१।८।१८ भूस् स्वाहा  
-  
-५।१।०।२ सोमाय स्वाहा शलातवे स्वाहा त्रि-हस्ताय स्वाहा दिवा-चरेभ्यस् स्वाहा वनाय स्वाहा अष्टौ च  
-  
-५।१।९।१ निर्दग्ध(ग्)ं रक्षः  
-५।१।९।२ सर्वेश्वराय स्वाहा  
-५।१।९।३ जगन्नाथाय स्वाहा  
-५।१।९।४ चामुण्डाय स्वाहा  
-५।१।९।५ सर्वतश्-चराय स्वाहा  
-५।१।९।६ ब्रह्माण्यै स्वाहा  
-५।१।९।७ पिङ्गलायै[*६] स्वाहा  
-५।१।९।८ गौर्यै स्वाहा  
-५।१।९।९ सर्वतो-मुख्यै स्वाहा  
-५।१।९।१० सरित्-प्रियायै स्वाहा  
-[*६] तेxत्: पिङ्गऌआयै  
-
-५।१।१०।१ विश्व-रूपायै स्वाहा  
-५।१।१०।२ उग्रायै स्वाहा  
-५।१।१०।३ गणेश्वर्यै स्वाहा  
-५।१।१०।४ वैशाखिन्यै स्वाहा  
-५।१।१०।५ शिखण्डिन्यै स्वाहा  
-५।१।१०।६ गायत्र्यै स्वाहा  
-५।१।१०।७ षण्-मुख्यै स्वाहा  
-५।१।१०।८ विश्व-गर्भायै स्वाहा  
-५।१।१०।९ विषोर्मिण्यै स्वाहा  
-५।१।१०।१० कृष्णायै स्वाहा  
-  
-५।१।११।१ द्रुहिण्यै स्वाहा  
-५।१।११।२ वाराह्यै स्वाहा  
-५।१।११।३ वर-दायै स्वाहा  
-५।१।११।४ उर्व्यै स्वाहा  
-५।१।११।५ वज्र-दंष्ट्र्यै स्वाहा  
-५।१।११।६ जयन्त्यै स्वाहा  
-५।१।११।७ कौशिक्यै स्वाहा  
-५।१।११।८ इन्द्राण्यै स्वाहा  
-५।१।११।९ घनाघनन्यै स्वाहा  
-५।१।११।१० काल्यै[*७] स्वाहा  
-५।१।११।११ नालीक[*८]-दंष्ट्र्यै स्वाहा  
-५।१।११।१२ वृषभायै स्वाहा[*९]  
-५।१।११।१३ वेद-धारिण्यै स्वाहा  
-५।१।११।१४ वक्र-तुण्डाय स्वाहा  
-५।१।११।१५ एक-दंष्ट्राय स्वाहा  
-५।१।११।१६ विकटाय स्वाहा  
-५।१।११।१७ विनायकाय स्वाहा  
-५।१।११।१८ भूस् स्वाहा  
-[*७] तेxत्: काऌयै  
-[*८] तेxत्: नाऌईक  
-[*९] १९२६ एदितिओन्: वृषभायै; १९४६, १९८४ एद्स्।: वृषहायै  
-
-५।१।०।३ सरित्-प्रियायै स्वाहा कृष्णायै स्वाहा काल्यै[*१०] स्वाहा अष्टाउ च  
-[*१०] तेxत्: काऌयै  
-
-५।१।१२।१ शुद्धा इमे पशवः  
-५।१।१२।२ धारासु सप्तसु  
-५।१।१२।३ स्वस्ति नो मिमीतां[*११]  
-स्वस्ति-दा विशस् पतिः[*१२]  
-५।१।१२।४ नारायणाय  
-५।१।१२।५ ॐ शेषम् आवाहयामि  
-५।१।१२।६ मेदिनीम् आवाहयामि  
-५।१।१२।७ ज्येष्ठाम् आवाहयामि  
-५।१।१२।८ वायुम् आवाहयामि  
-५।१।१२।९ इन्द्रम् आवाहयामि  
-५।१।१२।१० मरुत आवाहयामि  
-[*११] र्व् ५।५१।११।  अल्सो श्श् १०।८।१७, १२।८।९, १४।३।१२; श्ग् १।४।२, १।१५।१२, २।६।२; अश् ८।१।२३, ९।५।५; म्ग् २।१५।६।  
-[*१२] र्व् १०।१५२।२अ।  अल्सो ड़ोउन्द् इन् र्व् १०।१५२।२; अव् १।२१।१, ८।५।२२; श्ब् ५।१; अद्ब् १; त्ब् ३।७।११।४; त १०।१।९; तअ १०।५५; महान् उ २०।५; अप्श् ३।१२।१; व्ह्ध् ८।४३।  
-
-५।१।१३।१ अपां पतिम् आवाहयामि यमम् आवाहयामि सोम(ग्)ं राजानम्[*१३] सोमम् आवाहयामि[*१४]  
-५।१।१३।२ सर्व-जित् सर्व-शत्रु-घ्नो ऽमोघो ऽप्रतिम-वीर्यवान्  
-आयातु भगवांश् चक्रस् सर्व-संहार-वर्तकः  
-५।१।१३।३ ॐ भूर् भुवस् सुवस् सु-भू स्वयम्-भूः  
-५।१।१३।४ वैनतेयो महा-वीर्यः काश्यपो ऽग्नि-सम-प्रभः  
-आयातु भगवान् राजा सर्प-जिद् विष्णु-वाहनः  
-५।१।१३।५ अस्त्व् आसनम्॥  
-५।१।१३।६ स्वागतं पक्षि-राजाय सर्पाशे विश्व-कर्मणे  
-अण्ड-जानां वरिष्ठाय विष्णुना सम-तेजसे  
-५।१।१३।७ अनुमन्ता भव प्रीतस् तव भर्तुः क्रियां प्रति  
-स्वय(ग्)ं[*१५] सर्वम् अनुज्ञानैर् गृह्यताम् इदम् अव्ययः  
-५।१।१३।८ योगे-योगे[*१६]  
-५।१।१३।९ आपो हि ष्ठा मयो-भुवस्[*१७] तत्[*१८] सवितुः  
-५।१।१३।१० चित्-पतिस् त्वा तेजोवत् स्यावः  
-५।१।१३।११ इह पुष्टिं पुष्टि-पतिर् दधात्व् इह प्रजा(ग्)ं रमयतु[*१९]  
-५।१।१३।१२ प्रजा-पतये पुष्टि-पतये ऽग्नि-पतये रयि-पतये कामायान्नाद्याय[*२०]  
-[*१३] सोमं राजानम् (प्रतीक): ख्ग् ३।२।२०; स्विध् २।३।२; वाइत् १५।१६। च्ड़्। विध् ५६।१७, ५६।२४; वाध् २८।१३ञ्१४; लत्ध् ३।१२; वत्ध् ३।१२।  
-[*१४] सोमम् आ वह: त्स् २।५।९।४; क्ब् ८।८; श्ब् १।४।२।१६, २।६।१।२२; त्ब् ३।५।३।२; श्श् १।५।२, ५।११।४।  
-[*१५] थे चोन्सोनन्त् ग् इस् ओच्चसिओनल्ल्य् इन्सेर्तेद् इन्तो थे तेxत् तो इन्दिचते अन् अनुस्वार।  
-[*१६] र्व् १।३०।७। थे र्व् फ्रसे योगे-योगे तवस्तरं इस् अल्सो गिवेन् इन् अव् १०।२४।७, २०।२६।१; स्व् १।१६३, २।९३; व्स् ११।१४; त्स् ४।१।२।१, ५।१।२।१; म्स् २।७।२: ७५।५, ३।१।३: ३।२१; क्स् १६।१, १०।२; प्ब् ९।२।२०; श्ब् ६।३।२।४; अस् ६।४।१०; वैत् २६।१२; अप्श् १६।२।३; म्श् ६।१।१; अप्म्ब् १।६।३, २।४।१; अप्ग् २।५।२०, ४।११।६; ह्ग् १।४।११।  
-[*१७] र्व् १०।९।१। थे wओर्द्स् आपो हि ष्ठा मयो-भुवः अरे अल्सो ड़ोउन्द् इन्:  अव् १।५।१; स्व् २।११८७; व्स् ११।५०, ३६।१४; त्स् ४।१।५।१, ५।६।१।४, ७।४।१९।४; म्स् २।७।५: ७९।१६, ३।१।६: ८।१०, ४।९।२७: १३९।३; क्स् १६।४, १९।५, ३५।३; श्ब् ६।५।१।२; त्ब् ३।९।७।५; त ४।४२।४, १०।१।११; अप्श् ७।२१।६, ९।१२।२। ९।१८।८, १३।१५।१३, १४।१८।१, १६।४।१; एत्च्।  
-[*१८] तेxत्: तत्थ्  
-[*१९] व्स् (क्) ३।२।५।  
-[*२०] थिस् इस् अ परफ्रसे ओड़्  व्स् (क्) ३।२।५, अग्नये गृह-पतये रयिमते पुष्टि-पतये स्वाहा।  अग्नये ऽन्नादायान्न-पतये स्वाहा।  
-
-५।१।०।४ मरुट आवायहयाम्य् अस्त्व् आसनं नव च  
-  
-५।१।१४।१ आयातु भगवान् दिव्यो दान्तश् शान्तो[*२१] जन-प्रियः  
-वर्षिष्ठस् सर्व-भक्तानां सर्व-दा धन-दो वरः[*२२]  
-५।१।१४।२ धारासु सप्तसु  
-५।१।१४।३ अतो देवा कनिक्रदज् जनुषम्  
-५।१।१४।४ प्रियतां[*२३] मेदिनी देवी येन शृङ्गेण चोद्धृता  
-वीर-पत्नी विशालाक्षी तस्यायं स्थान-निर्णये  
-अविघ्नेनैव तम् पात्वा साधयेमं वरानने  
-५।१।१४।५ मेदिनी देवी  
-५।१।१४।६ नमो वरुणः  
-५।१।१४।७ अक्षैर् मा दीव्यः कृषिम् इत् कृषस्व वित्ते रमस्व बहु मन्यमानः[*२४]  
-[*२१] थे १९४६ पुब्लिस्हेद् एदितिओन् गिवेस् थे वरिअन्त् रेअदिन्ग् शान्तो दान्तो।  
-[*२२] चोम्परे थे उनुसुअल् अच्चेन्त्स् हेरे wइथ् ५।१।१।१, प्रियतां भगवान् विष्णुस्।  
-[*२३] हेरे प्रियतां हस् ओन्ल्य् ओने अच्चेन्त्।  
-[*२४] र्व् १०।३४।१३अब्  
-
-५।१।१५।१ तत्र गावः कितव तत्र जाया तन् मे वि चष्टे सवितायम् अर्यः[*२५]  
-५।१।१५।२ त्वं वृषभस् त्वं पुरातनस् त्वं वै पौराणिकस् त्वं वैदिकस् त्वं चतुश्-शृङ्गः[*२६]  
-५।१।१५।३ त्वां एवाह मनु[र्] योक्ष्ये वहस्व[*२७] देवार्थं वीर धुरं वीरस् त्वम्  
-५।१।१५।४ शौरभेय सुरेश-वाहन वीशस्यांश वीश-सख गोपते  
-५।१।१५।५ विष्णोर् इमां भूमिं भवनार्थं कृषस्व  
-५।१।१५।६ युगं युग-शृङ्गं युञ्जामि योगार्थम्[*२८]  
-५।१।१५।७ ऋषिं गृह्णामि क्रष्टुं मुनीनां शासनात्[*२९]  
-५।१।१५।८ विष्णुर् मां रक्षतु  
-५।१।१५।९ ये ऽस्मिन् देशे जीवन्तः प्राणिनो रक्षा(ग्)ंसि भूताः।  पिशाचिन्यो ऽन्य-देव-युताश् श्रुणुध्व(ग्)ं सर्वेशस्येदं स्थानं भवनाय कल्पितम्  
-५।१।१५।१० गच्छन्तु यथेष्टम् अस्माद् रमणीयम् अन्यद् भद्रं वो अस्तु स्वस्ति भवतु  
-५।१।१५।११ हल-कृष्टा दिवं गच्छन्तु मर्दिता वायु-लोकम्।  श्रमार्ता अमर्त्यताम्  
-५।१।१५।१२ यथावच् चाहरेद् वीर्यम्  
-५।१।१५।१३ सर्वेषां चक्षुर् आदित्यः प्रियता(ग्)ं शुभान्य् एव क्रियताम् दैत्यारिर् भगवान् इतः  
-[*२५] र्व् १०।३४।१३च्द्  ओउर् तेxत् दिड़्ड़ेर्स् ड़्रोम् थे र्व् इन् थे अच्चेन्तुअतिओन् ओड़् थे ड़ोल्लोwइन्ग् wओर्द्स्:  कितव, जाया, आयम्, अन्द् अर्यः।  
-[*२६] च्ड़्।  र्व् ४।५८।२; भ्प् ५।२०।१५  
-[*२७] च्ज्  र्व् ८।२६।२३  
-[*२८] तेxत्: योगार्धम्  
-[*२९] थे पुब्लिस्हेद् तेxत् गिवेस् हेरे अस् अन् अद्दितिओनल् रेअदिन्ग् अत् थे बोत्तोम् ओड़् थे पगे: (रुद्रम् अन्यं त्र्य्-अम्बकम् इति मरीचिः)।  थे wओर्द्स् "थे पुब्लिस्हेद् तेxत्" इन्दिचते बोथ् थे १९४६ अन्द् १९८४ एदितिओन्स्।  
-
-५।१।०।५ मन्यमानो भवनाय कल्पित(ग्)ं सप्त च  
-  
-५।१।१६।१ इमे बीजा व्रीहि-यवा रुहन्तूष्णांशु-प्रसादात्  
-सोमेनार्पिता ग्रहैर् निर्व्याधिकाश् शुद्धाश् शुभा भवन्तु  
-५।१।१६।२ प्ररोह-बीजान् निर्वपामि भूमौ ये ब्रह्म-सृष्टा दश सप्त चैव।  ते वर्धिता वृष्टि-वशेन सर्वे सम्पाल्यमाना ह्य् अमृतेन लोकान्  
-५।१।१६।३ सप्त ग्राम्यास् सप्त चारण्यकाश् च ये घर्म-नष्टा हिम-वर्ष-सृष्टास् ते वृष्टि-भूता ह्य् अमृतं रक्षन्तु  
-५।१।१६।४ दीर्णार्द्र-संशुष्क-विवर्धमाना मूलैः फलैश् शाकैस् समृद्ध[*३०]-रूपैः  
-अन्नेन मर्त्यानां[*३१] हविषा सुराणान् ते वै रुहन्तां तृणवत् पशुभ्यः  
-५।१।१६।५ तान् भूमि-शुद्ध्यै निर्वपामि बीजान् देव-स्थिति-कारणाय  
-५।१।१६।६ ये व्योम-भूम्य्-अग्नि[*३२]-जलस्य वायोस् संयोग-भूताः प्ररुहन्ति सर्वे  
-तान् दैविके शुद्धि-कराय बीजान् निर्वपामि देव-स्थिति-कारणाय  
-[*३०] १९४६ एदितिओन् स्होwस् थे इन्चोर्रेच्त् रेअदिन्ग् पमृद्धैः wहिछ् wअस् चोर्रेच्तेद् इन् थे १९८४ एदितिओन्।  इन् तेलेगु स्च्रिप्त्, प अन्द् स अरे वेर्य् सिमिलर्।  
-[*३१] १९४६ तेxत् रेअद्स् मर्त्यान्ं।  थे १९८४ तेxत् रेअद्स् मर्त्यान्, अस्सुमिन्ग् थत् wहत् अप्पेअर्स् तो बे अ सेचोन्द् र् इस् अच्तुअल्ल्य् अ स्य्म्बोल् ड़ोर् ड़िनल् न् wइथ् ओने लोओप् ब्रोकेन् ओड़्ड़्।  ओथेर्wइसे अस् इत् स्तन्द्स्, थे १९८४ एदितिओन् wओउल्द् रेअद् मर्र्त्या।  इ हवे चोर्रेच्तेद् अल्ल् थेसे उनिन्तेल्लिगिब्ले ड़ोर्म्स् तो मर्त्यानां, wहिछ् चोम्बिनेद् wइथ् अन्नेन प्रोविदेस् अन् इन्तेल्लिगिब्ले रेअदिन्ग् परल्लेल् तो हविषा सुराणान्।  
-[*३२] थे तेxत् प्लचेस् अन् अनुदत्त उन्देर् थे ऊ ओड़् भूम्य् अन्द् थेन् अ स्वरित ओवेर् थे अ इन् अग्नि, सेएमिन्ग्ल्य् अन् इम्पोस्सिब्ले ड़ेअत् ओड़् रेचिततिओन्।  
-
-५।१।१७।१ यद् बीज-भूतम् इदम् अन्तरिक्षं, यद् बीजं चाग्निः पृथिवी रसश् च तद् बीज-रोहाय वहन्तु वातास्, संवर्धमाना रुहन्तां प्ररोहाः  
-५।१।१७।२ निरीतिकास् ते बहवो रुहन्तस् सम्पाल्यमाना ह्य् अमृत-वायुना च  
-कालेन बीजाः प्ररुहन्ति चोप्ता बीजाद् अहं प्रचरिष्यामि धर्मम्  
-५।१।१७।३ एते बीजा रस-भूता वहन्तु सोमेन सृष्टा अमृतवत् पशुभ्यः  
-एतान् प्ररोहान् रस-भूत-जातान् दत्तान् मे भुक्त्वा प्रचरन्तु गावः  
-५।१।१७।४ तस्मान् ममैतान् प्रवपामि गेहे ते मे पशूनाम् अमृता वहन्तु  
-एतं स्तुता मे प्रवहन्त्व् अमुत्र ते पुण्य-लोके मम देह-भूताः  
-५।१।१७।५ समुद्रवती शृङ्गे-शृङ्गे  
-५।१।१७।६ देवि त्वयि वापयाम्य् अमून् कुरुष्व त्व(ग्)ं सस्य-सम्पत्तिम्  
-  
-५।१।१८।१ काम-दुहे दुहामि त्वां काम-दुहे सस्य-वत्से धन-राशिं प्रपूरय  
-५।१।१८।२ दुहतां[*३३] दिवम् इन्द्रः  
-५।१।१८।३ धरा सा या[*३४] पुरा येन धृता या शोभनं पदम्  
-करिष्याम्य् अस्य सा प्रीता भव त्व(ग्)ं शुभ-लक्षणे  
-५।१।१८।४ दैविके तु तथा शौचे गोभिः कर्तुम् इह प्रभो  
-कर्तुम् अर्हसि नित्ये तु विद्ये वै त्वत्-प्रसादतः  
-५।१।१८।५ सस्या इमे सु-हविषस् सु-शुद्धा यथा चाहुतिर् यज्ञ-मुखे समृद्धाः  
-शुद्धामृतास् सूरिभिर् अग्र-पेयास् सर्वाङ्ग-देवा अवयवैश् शुभानाम्  
-५।१।१८।६ शुभा भवन्तु प्रभवन्तु पुष्ट्यै  
-५।१।१८।७ शुद्धा इमे पशव एषा(ग्)ं शृङ्गाव् इन्द्रा-विष्णू ब्रह्मा शिरः  
-५।१।१९।१ पृष्ठो रुद्र ऋषयो रोमाण्य् उरो गुहस् तीर्था लाङ्गूलम्  
-कुक्षिर् मेदिनी चक्षुषी चन्द्रादित्यौ वाला विद्याधराः  
-५।१।१९।२ ऊधस् सागराः[*३५] स्तना नद्यो गात्रं भू-धराः  
-अस्थीनि पर्वता रुधिरं मित्रा-वरुणौ मांसम् अग्निर् जाह्नवी मूत्रम्  
-५।१।१९।३ खुर उरगा ज्येष्ठा[*३६] नासिका दन्ता मरुतः  
-जिह्वा सरस्वती कर्णः कवीन्द्रश् शकृत् पुण्य-देशम्[*३७]  
-५।१।१९।४ एतास् स-वत्सा गावस् स-वृषाः  
-यथा-सुखं चरन्तु कामं चरन्ताम्  
-यथा-सुखं व्रजन्तु कामं व्रजन्ताम्  
-यथा-सुखं मुदन्तु कामं मुदन्ताम्  
-५।१।१९।५ गावो हि मे मातरस् सन्तु सर्वा मे गो-वृषाः पितरः सन्तु सर्वे  
-वत्सा मम भ्रातर एव सन्तु तस्माद् इऌआ शुद्धि-करा भवन्तु  
-५।१।१९।६ इमां सिञ्चामीमाम् अनुगच्छामीमां शोधयामीमां मुदन्तु देवा वितता वरेशाम्[*३८]  
-५।१।१९।७ भुञ्जन्तु दत्तं बलिम् अद्य वीराश्  
-श्वः श्रावये[*३९] यूयम् अशेषम् अस्माद्  
-गच्छध्वम् आर्यास् सु-मनसा च युक्ताः  
-[*३३] नोर्मल् अच्चेन्त् दुहतां।  
-[*३४] इ रेअद् थिस् अस् धरा सा या।  इन् हिस् एन्ग्लिस्ह् त्रन्स्लतिओन् ओड़् थे क्ज्क्, गोउद्रिअअन् (प्। ३१९) लिस्त्स् अन् अल्तेर्नतिवे रेअदिन्ग् धारायासाय ड़्रोम् अ ग्रोउप् ओड़् मनुस्च्रिप्त्स् wहिछ् हे चल्ल्स् ल्।  गोउद्रिअअन् इस् उनब्ले तो त्रन्स्लते थेसे लेत्तेर्स् एइथेर् अस् धारासाया (wहिछ् हे इन्चोर्रेच्त्ल्य् लिस्त्स् अस् धारासाय) ओर् अस् धारायासाय।  
-[*३५] इ हवे अद्देद् विसर्ग तो चोर्रेच्त् थे तेxत्।  
-[*३६] थे १९४६ एदितिओन् चोर्रेच्त्ल्य् गिवेस् ज्येष्ठा, होwएवेर् थे १९८४ एदितिओन् हस् चोर्रुप्तेद् थे wओर्द् तो जेष्ठा।  
-[*३७] थे ओल्देर् एदितिओन् चोर्रेच्त्ल्य् गिवेस् पुण्य-, होwएवेर् थे १९८४ एदितिओन् ओड़् थे तेxत् हस् चोर्रुप्तेद् इत् तो ऋउण्य-।  इन् तेलेगु स्च्रिप्त्, प् अन्द् ऋ, wहेन् ड़ोल्लोwइन्ग् अ चोन्सोनन्त्, अरे सिमिलर्।  
-[*३८] थे तेxत् गिवेस् थे उनिन्तेल्लिगिब्ले वरेऌआम्, wहिछ् इ हवे छन्गेद् तो वरेशाम्, तो थे (ड़ेमले) लोर्द् ओड़् बोओन्स्।  इ छोसे थिस् ओवेर् थे पोस्सिब्ले वरेषाम् सिन्चे इन् थे तेलेगु स्च्रिप्त् ऌ इस् वेर्य् सिमिलर् तो श्।  अल्सो थे रेअदिन्ग् ओड़् वरेशाम् गिवेस् प्रोविदेस् अ रेड़ेरेन्त् ड़ोर् थे ड़ोउर् ओच्चुर्रेन्चेस् इन् थिस् तेxत् ओड़् इमाम्।  
-[*३९] इ हवे चोर्रेच्तेद् श्वश्रावये तो श्वः श्रावये।  थुस् थे wओर्द् श्वः, "तोमोर्रोw" ड़ोल्लोwस् थे wओर्द् अद्य, "तोदय्" इन् थे प्रेविओउस् लिने, अ चोम्मोन् सेक़ुएन्चे।  च्ड़्। र्व् ६।५६।६द्।  
-
-५।१।०।६ कारणाय सम्पत्तिं शिरम् उदन्ता(ग्)ं चत्वारि च  
-  
-५।१।२०।१ ब्रह्माणम् आवाहयामि  
-५।१।२०।२ अर्यम्णम् आवाहयामि  
-५।१।२०।३ दण्ड-धरम् आवाहयामि  
-५।१।२०।४ पाश-भृतम् आवाहयामि  
-५।१।२०।५ धन-दम् आवाहयामि  
-५।१।२०।६ सवितृम्[*४०] आवाहयामि  
-५।१।२०।७ सावित्रम् आवाहयामि  
-५।१।२०।८ इन्द्रम् आवाहयामि  
-५।१।२०।९ इन्द्रा-जम्[*४१] आवाहयामि  
-५।१।२०।१० रुद्रम् आवाहयामि  
-[*४०] अन् इर्रेगुलर् अच्चुसतिवे।  
-[*४१] इ wअस् तेम्प्तेद् तो छन्गे थिस् तो इन्द्रानुजम्, अ नमे ड़ोर् विष्णु, होwएवेर् थे नेxत् ह्य्म्न् बेगिन्स् wइथ् रुद्रा-जम्, सो थे परल्लेल् ड़ोर्म् इन्द्रा-जम् सेएम्स् तो बे wहत् इस् इन्तेन्देद्।  
-
-५।१।२१।१ रुद्रा-जम् आवाहयामि  
-५।१।२१।२ अपम्[*४२] आवाहयामि  
-५।१।२१।३ आप-वत्सम् आवाहयामि  
-५।१।२१।४ ईशम् आवाहयामि  
-५।१।२१।५ पर्जन्यम् आवाहयामि  
-५।१।२१।६ जयन्तम् आवाहयामि  
-५।१।२१।७ आदित्यम् आवाहयामि  
-५।१।२१।८ माहेन्द्रम् आवाहयामि[*४३]  
-५।१।२१।९ सत्यकम् आवाहयामि  
-५।१।२१।१० भृशम् आवाहयामि  
-[*४२] थे wओर्द् अप्, "wअतेर्", इस् हेरे उसेद् इन् थे सिन्गुलर् अच्चुसतिवे।  थे सिन्गुलर् ड़ोर्म् ओड़् थिस् wओर्द् इस् नोर्मल्ल्य् ड़ोउन्द् ओन्ल्य् इन् वेदिच् सन्स्क्रित्।  
-[*४३] महेन्द्रम् आवह: त्ब् ३।५।३।२, श्श् १।५।३।  
-
-५।१।२२।१ अन्तरिक्षम् आवाहयामि  
-५।१।२२।२ अग्निम् आवाहयामि[*४४]  
-५।१।२२।३ पूषणम् आवाहयामि  
-५।१।२२।४ वितथम् आवाहयामि  
-५।१।२२।५ गृह-क्षतम् आवाहयामि  
-५।१।२२।६ यमम् आवाहयामि  
-५।१।२२।७ गन्धर्वम् आवाहयामि  
-५।१।२२।८ भृङ्ग-राजम् आवाहयामि  
-५।१।२२।९ ऋषिम् आवाहयामि  
-५।१।२२।१० निरृतिम् आवाहयामि  
-[*४४] अग्निम् आ वह:  क्ब् ८।८; श्ब् १।४।२।१६, २।६।१।२२; त्ब् ३।५।३।२; श्श् १।५।३, ५।११।४।  
-
-५।१।२३।१ दौवारिकम् आवाहयामि  
-५।१।२३।२ सुग्रीवम् आवाहयामि  
-५।१।२३।३ पुष्प-दन्तम् आवाहयामि  
-५।१।२३।४ सरित्-पतिम् आवाहयामि  
-५।१।२३।५ असुरम् आवाहयामि  
-५।१।२३।६ शोषणम् आवाहयामि  
-५।१।२३।७ रागम् आवाहयामि  
-५।१।२३।८ जवनम् आवाहयामि  
-५।१।२३।९ नागम् आवाहयामि  
-५।१।२३।१० मुख्यम् आवाहयामि  
-  
-५।१।२४।१ भल्लाटम् आवाहयामि  
-५।१।२४।२ सोमम् आवाहयामि[*४५]  
-५।१।२४।३ अर्गलम्[*४६] आवाहयामि  
-५।१।२४।४ अदितिम् आवाहयामि  
-५।१।२४।५ सूरि-देवम् आवाहयामि  
-५।१।२४।६ चरकीम् आवाहयामि  
-५।१।२४।७ देवतारिम् आवाहयामि  
-५।१।२४।८ पूतनाम् आवाहयामि  
-५।१।२४।९ पाप-राक्षसीम् आवाहयामि  
-५।१।२४।१० नागम् आवाहयामि  
-[*४५] च्ड़्। व्म्प्  ५।१।१३।१ ड़्न्  
-[*४६] तेxत्: अर्गऌअम्, wहिछ् इ हवे छन्गेद् तो अर्गलम् wहिछ् मेअन्स् "अ wओओदेन् बोल्त् ओर् पिन् ड़ोर् ड़स्तेनिन्ग् अ दोओर् ओर् थे चोवेर् ओड़् अ वेस्सेल् (इतेम्स् wहिछ् अरे मेन्तिओनेद् ड़्रेक़ुएन्त्ल्य् इन् वैखानस रितुअल्स्)"।  अन्द् इन् थे पद्म पुराण अर्गल इस् थे नमे ओड़् अ हेल्ल्।  
-
-५।१।२५।१ भूतम् आवाहयामि  
-५।१।२५।२ यक्षम् आवाहयामि  
-५।१।२५।३ दुर्गाम् आवाहयामि  
-५।१।२५।४ घोट-मुखीम् आवाहयामि  
-५।१।२५।५ धात्रीम् आवाहयामि  
-५।१।२५।६ वपुषाम् आवाहयामि  
-५।१।२५।७ राक्षसम् आवाहयामि  
-५।१।२५।८ जयम् आवाहयामि  
-५।१।२५।९ कृष्णम् आवाहयामि  
-५।१।२५।१० मुरुण्डम् आवाहयामि  
-  
-५।१।२६।१ शिवम् आवाहयामि[*४७]  
-५।१।२६।२ प्राणम् आवाहयामि  
-५।१।२६।३ कविम् आवाहयामि  
-५।१।२६।४ शक्रम् आवाहयामि  
-५।१।२६।५ पुरु-हूतम् आवाहयामि  
-५।१।२६।६ विन्द्याम् आवाहयामि  
-५।१।२६।७ यशसम् आवाहयामि  
-५।१।२६।८ भद्राम् आवाहयामि  
-५।१।२६।९ वेद-भृतम् आवाहयामि  
-५।१।२६।१० तापसम् आवाहयामि  
-[*४७] शिवम् आवाहयाम्य् अहम्: म्स् २।९।१: ११९।६।  
-
-५।१।२७।१ सिन्धुषाम् आवाहयामि  
-५।१।२७।२ विद्याम् आवाहयामि  
-५।१।२७।३ अमितम् आवाहयामि  
-५।१।२७।४ पाञ्च-भौतिकम् आवाहयामि  
-५।१।२७।५ शिवम् आवाहयामि  
-५।१।२७।६ विश्वम् आवाहयामि  
-५।१।२७।७ मित्रम् आवाहयामि  
-५।१।२७।८ अत्रिम् आवाहयामि  
-५।१।२७।९ कुस्तुरुण्डम् आवाहयामि  
-५।१।२७।१० गर्भम् आवाहयामि  
-  
-५।१।२८।१ वरुणम् आवाहयामि  
-५।१।२८।२ धन-दम् आवाहयामि  
-५।१।२८।३ कालेयम् आवाहयामि  
-५।१।२८।४ दहनम् आवाहयामि  
-५।१।२८।५ विघण्डम् आवाहयामि  
-५।१।२८।६ पवनम् आवाहयामि  
-५।१।२८।७ निमुदकम् आवाहयामि  
-५।१।२८।८ गोलकम् आवाहयामि  
-५।१।२८।९ महिष-घ्नम् आवाहयामि  
-५।१।२८।१० वेत्रम् आवाहयामि  
-  
-५।१।२९।१ वेत्र-सारम् आवाहयामि  
-५।१।२९।२ कपोतकम् आवाहयामि  
-५।१।२९।३ तुल्य-वादिनम् आवाहयामि  
-५।१।२९।४ फुल्लाम् आवाहयामि  
-५।१।२९।५ फुल्ल-रूपम् आवाहयामि  
-५।१।२९।६ विघ्नम् आवाहयामि  
-५।१।२९।७ विघ्न-कारिणम् आवाहयामि  
-५।१।२९।८ सर्व-वाहनम् आवाहयामि  
-५।१।२९।९ किष्किन्धम् आवाहयामि  
-५।१।२९।१० तीर्थम् आवाहयामि  
-५।१।२९।११ मोहनम् आवाहयामि  
-५।१।२९।१२ दण्डिनम् आवाहयामि  
-५।१।२९।१३ यूधकम् आवाहयामि  
-५।१।२९।१४ अन्तकम् आवाहयामि  
-५।१।२९।१५ स्पर्ध-घ्नम् आवाहयामि  
-५।१।२९।१६ निघ्नम् आवाहयामि  
-५।१।२९।१७ सुख-दम् आवाहयामि  
-५।१।२९।१८ हित-दम् आवाहयामि[*४८]  
-[*४८] एते अष्ट-शताख्या देवा इति कश्यपः  
-
-५।१।०।७ रुद्रम् आवाहयामि भृशम् आवाहयामि निरृतिम् आवाहयामि मुख्यम् आवाहयामि नागम् आवाहयामि मुरुण्डम् आवाहयामि तापसम् आवाहयामि गर्भम् आवाहयामि वेत्रम् आवाहयामि तीर्थम् आवाहयाम्य् अष्टाउ च।  
-  
-५।१।३०।१ यो ऽजः पुरा वीर-वरो वरेण्यो भूताधिपो भूत-समस्त-वाहः  
-यो वृत्र-हृद् वीर-पुरस् स-धूम-केतुः  
-५।१।३०।२ परिषदा यमो धर्मस् स-सुरारि-सङ्घः  
-निरृतिस् स-समुद्रो वरुणस् स-वायू[*४९] राजा कुबेरो ऽशनि-पाणि-युक्तः  
-५।१।३०।३ सुर-वृन्द[*५०]-सङ्घास् सह-कार्तिकेया गण-मुख्य-युक्ताः  
-प्रविशन्त्व् इदं स्थानम् इमे हरेर् ये परिषत्-प्रयुक्ताः  
-कुर्वन्त्व् इदं विघ्न-विनाशनी याः  
-५।१।३०।४ सर्वं व्यपैतु कल्मषम्  
-अवसिञ्चामि  
-पूर्वं स्थिता यथेष्टं गच्छन्तु  
-चरमं चरामः  
-[*४९] तेxत्: वायु, चोर्रेच्तेद् तो वायू, ड़्रोम्, प्रेसुमब्ल्य्, अन् ओरिगिनल् स-वायुः राजा।  
-[*५०] तेxत्: बृन्द, चोर्रेच्तेद् तो वृन्द।  
-
-५।१।३१।१ अत्र स्वस्ति सविता स्वस्ति सर्वे वै देवा दैविकम्  
-५।१।३१।२ स्वस्त्य् अस्तु सर्वेश्वरश् च धर्मात्मा वरुणो गण-भृद्-वरः  
-५।१।३१।३ प्रविशन्त्व् इदं कुम्भं कुम्भ-भृद् अम्बु-पालकः  
-५।१।३१।४ सर्वा वरुणम् अनुप्रविशन्तु  
-वरुणं पाश-भृतं वीरम् उदक-पम्  
-५।१।३१।५ इमां सीमां सिञ्चामि यज्ञियाम् इमां सीमां सत्येनाचरामि  
-५।१।३१।६ भवत्व् इदं विष्णोर् आलयम्  
-५।१।३१।७ अत्राम्बु-पतिर् वरुणश् चरतु यथेष्टम् अन्या गच्चन्तु  
-५।१।३१।८ इदं गर्भ इदं वास इदम् अन्यानाम् इदं गरुडस्याग्नेयादीनाम् अमितस्येदं चक्रस्येदं ध्वजस्येदं परस्येदं यूथाधिनाथस्य भवतु  
-५।१।३१।९ एते रमणीया भवन्तु  
-  
-५।१।३२।१ त्वां खनामि पृथिवि त्वद्-भर्तुश् शासनान् मुदा युक्ता भव  
-५।१।३२।२ देवानाम् देवस्य तस्येदं वैष्णवं भवनं देव-वाहिनी  
-५।१।३२।३ पांसून् प्रेष्यामि भवन्त्व् इमे ऽभिवृद्धये  
-५।१।३२।४ यस् सखा विष्णोर् वरदो वरानां कर्ता चमूनां शुचिश् शुचीनाम्  
-वीरो वीराणाम् आगमिष्यतु[*५१]  
-५।१।३२।५ त्व(ग्)ं सर्वं कारय वरदो वरस्य  
-त्वत्-प्रसादात् सिद्धो ऽहं सिद्धिं गच्छामि  
-५।१।३२।६ शरणं प्रपद्ये त्वाम् एवाविघ्नार्थम् अविघ्नं भवतु सिद्धं  
-५।१।३२।७ सु-क्रमास् सन्तु सु-नीताश् चापः  
-५।१।३२।८ सूचयतां वरुणश् शुभाशुभम्  
-५।१।३२।९ पातु मां वरुणो नित्यो रक्ताम्बरो जलेश्वरः  
-५।१।३२।१० अमित त्वत्-प्रसादेन सर्वे देवाः प्रसीदन्तु  
-५।१।३२।११ आयातु भगवान् ब्रह्मा अस्मिन् लोके हितङ्-करः  
-नित्यो ऽस्मिन् निर्मले पद्मे रम्यताम् ऋषिभिस् सह।  
-५।१।३२।१२ इदं ब्रह्मणा पूर्णं तु तम् आरुह्य देवास् सूचयन्तु शुभाशुभम्  
-५।१।३२।१३ उपगतास् सूचयन्तु देवाः  
-५।१।३२।१४ आयातु भगवान् विश्व-कर्मा विशतु  
-५।१।३२।१५ बुद्धिं ममाविशतु स एव निर्णयतां कर्म प्रथमं विराड्  बध्नातु  
-५।१।३२।१६ द्वितीय(ग्)ं[*५२] सप्त-ऋषयस् तेषां प्रसादाद् अविघ्नम् अस्तु  
-५।१।३२।१७ अस्याङ्ग-देवाः प्रविशन्त्व् इदं पुष्ट्यै भवन्तु सो ऽहं करोमि दिव्यं कर्म कारयन्तु देवाः  
-[*५१] थिस् इस् अ ररे ड़ुतुरे इम्पेरतिवे ड़ोर्म्।  च्ड़्। Wहित्नेय्ऽस् ग्रम्मर्,  ९३८  
-[*५२] थे १९४६ एदितिओन् गवे द्वितीयां, होwएवेर् थिस् wअस् चोर्रेच्तेद् इन् थे १९८४ एदितिओन् तो द्वितीयं, अप्परेन्त्ल्य् रेड़ेर्रिन्ग् तो कर्म इन् थे प्रेविओउस् वेर्से।  
-
-५।१।०।८ चरामो भवन्तु जलेश्वरो नव च  
-  
-५।१।३३।१ मेदिनी देवी  
-५।१।३३।२ वास्तोष्-पते  
-५।१।३३।३ धारासु सप्तसु  
-५।१।३३।४ स्वस्ति नो मिमीताम्  
-५।१।३३।५ एतो न्व् इन्द्रम्  
-५।१।३३।६ अदिते इनुमन्यस्व  
-५।१।३३।७ अतो देवा विष्णोर् नु क(ग्)ं सहस्र-शीर्षा पुरुषः  
-५।१।३३।८ हिरण्य-वर्णां भूमिर् भूम्ना  
-५।१।३३।९ ब्रह्म जज्ञान(ग्)ं हिरण्य-गर्भः  
-५।१।३३।१० यम् अर्पयन्ति शं नो निधत्तां भूमान् अन्तो ऽग्रे  
-नाग-राजाय स्वाहा  
-  
-५।१।३४।१ इन्द्राय स्वाहा  
-५।१।३४।२ अग्नये स्वाहा  
-५।१।३४।३ यमाय स्वाहा  
-५।१।३४।४ निरृतये स्वाहा  
-५।१।३४।५ वरुणाय स्वाहा  
-५।१।३४।६ वायवे स्वाहा  
-५।१।३४।७ कुबेराय स्वाहा  
-५।१।३४।८ ईशानाय स्वाहा  
-५।१।३४।९ नारायणाय सर्व-रत्नेभ्यस् स्वाहा  
-५।१।३४।१० नारायणाय सर्व-धातुभ्यस् स्वाहा  
-  
-५।१।३५।१ नारायणाय सर्व-बीजेभ्यस् स्वाहा  
-५।१।३५।२ नारायणाय सर्व-लोहेभ्यस् स्वाहा  
-५।१।३५।३ नदीभ्यस् स्वाहा  
-५।१।३५।४ पातालेभ्यस् स्वाहा  
-५।१।३५।५ वृक्षेभ्यस् स्वाहा  
-५।१।३५।६ नगेभ्यस् स्वाहा  
-५।१।३५।७ दिग्-गजेभ्यस् स्वाहा  
-५।१।३५।८ विष्णवे स्वाहा  
-५।१।३५।९ भूस् स्वाहा  
-५।१।३५।१० अदिते इन्वम(ग्ग्)ंस्थाः[*५३]  
-५।१।३५।११ आत्मात्मा परमान्तरात्मा  
-५।१।३५।१२ इदं विष्णोर् वीर्यम्  
-५।१।३५।१३ मेदिनी देवी  
-५।१।३५।१४ विष्णुर् योनिं कल्पयतु  
-५।१।३५।१५ ध्रुव-क्षितिः  
-५।१।३५।१६ यद् अस्य कर्मणो ऽत्यरीरिचम्  
-[*५३] थे दोउब्ले ग्, प्रेसुमब्ल्य् इन्सेर्तेद् हेरे अस् रेचिततिओन् गुइदे, इस् चेर्तैन्ल्य् उनुसुअल्।  
-
-५।१।०।९ नाग-राजाय स्वाहा धातुभ्यस् स्वाहान्वम(ग्ग्)ंस्थाष् षट् च  
-  
-५।१।३६।१ विष्णुर् मां पातु  
-५।१।३६।२ वास्तोष्-पते धारासु सप्तसु  
-५।१।३६।३ हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-५।१।३६।४ वन-राजाय नमः  
-५।१।३६।५ देशाधिपतये नमः  
-५।१।३६।६ सर्वेभ्यो देवेभ्यो नमः  
-५।१।३६।७ यक्षेभ्यो नमः  
-५।१।३६।८ विद्या-धरेभ्यो नमः  
-५।१।३६।९ राक्षसेभ्यो नमः  
-५।१।३६।१० पिशाचेभ्यो नमः  
-५।१।३६।११ नागेभ्यो नमः  
-५।१।३६।१२ गन्धर्वेभ्यो नमः  
-५।१।३६।१३ अष्टा-दश-गणेभ्यो नमः  
-५।१।३६।१४ तत्र-स्थाश् शीघ्रं व्रज  
-५।१।३६।१५ आत्मात्मा परमान्तरात्मा  
-५।१।३६।१६ इदं विष्णुः  
-५।१।३६।१७ नारायणाय  
-५।१।३६।१८ उद् उ त्यं जात-वेदसं चित्रं देवानाम्  
-५।१।३६।१९ रथन्तरम्[*५४] असि वामदेव्यम् असीन्द्रस्य त्वा  
-[*५४] तेxत्:  रधन्तरम्।  
-
-५।१।०।१० पिशाचेभ्यो नमो नव च  
-  
-५।१।३७।१ अस्मिन् देशे वसन्त उद्वस  
-५।१।३७।२ नमो वाचे या चोदिता  
-५।१।३७।३ वास्तोष्-पते ऽणोर् अणीयान्  
-५।१।३७।४ हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-५।१।३७।५ धारासु सप्तसु वन-राजाय नमः  
-५।१।३७।६ वनस्-पतिभ्यो नमः  
-५।१।३७।७ वन-देवताभ्यो नमः  
-५।१।३७।८ भूतेभ्यो नमः  
-५।१।३७।९ यक्षेभ्यो नमः  
-  
-५।१।३८।१ पिशाचेभ्यो नमः  
-५।१।३८।२ नागेभ्यो नमः  
-५।१।३८।३ विद्या-धरेभ्यो नमः  
-५।१।३८।४ अष्टा-दश-गणेभ्यो नमः  
-५।१।३८।५ अस्तु तृप्तिः  
-५।१।३८।६ इदं विष्णुः  
-५।१।३८।७ श्रिये जातो मेदिनी देवी[*५५]  
-५।१।३८।८ नारायणाय  
-५।१।३८।९ सोम(ग्)ं राजानं वरुणम् अग्निम् अन्वारभामहे  
-आदित्यान् विष्णु(ग्)ं सूर्यं ब्रह्माणं च बृहस्पतिम्  
-५।१।३८।१० रथन्तरम् असि  
-[*५५] इन् थे लेड़्त्-हन्द् मर्गिन् ओड़् थे मनुस्च्रिप्त् हेरे इस् wरित्तेन्: दारु-सम्ग्रहणं, "थे तकिन्ग् ओड़् थे wओओद्"।  
-
-५।१।०।११ नमो बृहस्पतिम् एकञ् च  
-  
-५।१।३९।१ प्र तद् विष्णुः  
-५।१।३९।२ वृक्ष-राजाय नमः  
-५।१।३९।३ देवावासाय नमः  
-५।१।३९।४ सुशाखिने नमः  
-५।१।३९।५ विरिञ्चि-निर्मिताय नमः  
-५।१।३९।६ विष्वक्सेनाय नमः  
-५।१।३९।७ चक्राय नमः  
-५।१।३९।८ ॐ भूर् भुवस् सुवः  
-५।१।३९।९ एतो न्व् इन्द्रम्।  
-५।१।३९।१० अतो देवा इदं विष्णुः  
-  
-५।१।४०।१ रुद्रम् अन्यं त्र्य्-अम्बकम्  
-५।१।४०।२ ब्रह्म जज्ञान(ग्)ं हिरण्य-गर्भः  
-५।१।४०।३ मिश्र-वासस एतान् घ्नतैतान्  
-५।१।४०।४ धाता ददातु न  
-इमम् मे वरुण  
-प्रजा-पते न त्वद्  
-अग्निर् भूतानाम्  
-ऋता-षाट्  
-५।१।४०।५ ये भूताः प्रचरन्ति  
-५।१।४०।६ सहस्र-शीर्षा पुरुषः धारासु सप्तसु  
-५।१।४०।७ सोम(ग्)ं राजानम्  
-५।१।४०।८ शं नो देवीः  
-५।१।४०।९ विष्णुस् त्वा(ग्)ं रक्षतु  
-  
-५।१।४१।१ अदिते इनुमन्यस्व  
-५।१।४१।२ वृक्ष-राजाय स्वाहा  
-५।१।४१।३ देवावासाय स्वाहा  
-५।१।४१।४ सुशाखिने स्वाहा  
-५।१।४१।५ विरिञ्चि-निर्मिताय स्वाहा  
-५।१।४१।६ सुपत्राय स्वाहा  
-५।१।४१।७ सुपुष्पाय स्वाहा  
-५।१।४१।८ वनस्-पतिभ्यस् स्वाहा  
-५।१।४१।९ द्यावा-पृथिवीभ्या(ग्)ं स्वाहा  
-५।१।४१।१० भूस् स्वाहा  
-  
-५।१।४२।१ विष्णवे स्वाहा  
-५।१।४२।२ श्री-धराय स्वाहा  
-५।१।४२।३ वराहाय स्वाहा  
-५।१।४२।४ उर्वी-सन्धारणाय स्वाहा  
-५।१।४२।५ सर्व-व्यापिने स्वाहा  
-५।१।४२।६ श्रियै स्वाहा  
-५।१।४२।७ हरिण्यै स्वाहा  
-५।१।४२।८ ख्यातीशाय स्वाहा  
-५।१।४२।९ चिरायुषे स्वाहा  
-५।१।४२।१० ब्रह्मणे स्वाहा  
-  
-५।१।४३।१ स्थाणवे स्वाहा  
-५।१।४३।२ सर्पाशिने स्वाहा  
-५।१।४३।३ चक्राय स्वाहा  
-५।१।४३।४ अमिताय स्वाहा  
-५।१।४३।५ देवेभ्यस् स्वाहा  
-५।१।४३।६ नागेभ्यस् स्वाहा  
-५।१।४३।७ भूस् स्वाहा  
-५।१।४३।८ ये अस्मिन् देशे जीवन्तः  
-५।१।४३।९ परशुवे नमः  [?]  
-५।१।४३।१० रुद्रम् अन्यं त्र्य्-अम्बकम्  
-५।१।४३।११ नमो वरुणश् शुद्धः  
-५।१।४३।१२ विष्णुर् मां रक्षतु[*५६]  
-५।१।४३।१३ सोम(ग्)ं राजानम्  
-[*५६] थे तेxत् हेरे इन्सेर्त्स् थिस् ड़ोओत्नोते: भवे भवेनाति-भवे भजस्व मां भवोद्भवाय नमः सोम(ग्)ं राजानम् = = बृहस्पतिम् नाथ-पाला ॥ प्रससाहिषे पुरु-हूत = = रेवतीनाम् ॥ काश्यपेन प्रतिपादितम्  
-
-५।१।०।१२ विष्णुर् विष्णुस् त्वा(ग्)ं रक्षतु भूस् स्वाहा ब्रह्मणे स्वाहा त्र्य्-अम्बकं त्रीणि च  
-  
-५।१।४४।१ हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-५।१।४४।२ अतो देवा रुद्रम् अन्यम्  
-५।१।४४।३ ब्रह्म जज्ञानम्  
-५।१।४४।४ आ-गो-दानात्  
-५।१।४४।५ हिरण्य-वर्णाः  
-५।१।४४।६ रत्री व्य् अख्यद् आयती  
-५।१।४४।७ नारायणाय  
-  
-५।१।०।१३ हिरण्य-वर्णास् सप्त च  
-  
-५।१।४५।१ पवमानस् सुवर्-जनः  
-५।१।४५।२ नारायणाय  
-५।१।४५।३ वसोः पवित्रम् असि  
-शं नो देवीर्  
-नमो वरुणः  
-५।१।४५।४ मधु वाता ऋतायते  
-५।१।४५।५ ऋतम् अमितं मधु  
-न इह सन्त  
-भूया(ग्)ंसि  
-५।१।४५।६ इदं मधुकाय च प्लवामहे  
-५।१।४५।७ इदं मधु चाचम्य प्रचरताम्  
-५।१।४५।८ शं नो देव्य्  
-अग्न आ याह्य्  
-अग्निम् ईले[*५७]  
-पूतस् तस्य पारे भुवनस्य मध्ये  
-इमा[*५८] ओषधयस् सम्बभूवुर्  
-अभि त्वा शूर  
-चत्वारि वाक्  
-५।१।४५।९ वारीश् चतस्रः  
-५।१।४५।१० आप्यायस्व सम् एतु ते विश्वतस् सोम वृष्णियम्[*५९]  
-भवा वाजस्य सङ्गथे[*६०]  
-[*५७] ल् देनोतेस् आ इन् थे र्व्  
-[*५८] तेxत्: मा wहिछ् इ हवे चोर्रेच्तेद् तो इमा।  
-[*५९] थे व्म्प् हेरे गिवेस् थे मेत्रिचल् ड़ोर्म् वृष्णियम् रथेर् थन् वृष्ण्यम्।  
-[*६०] व्म्प् दिविदेस् थिस् वेर्से, मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् ओड़् छप्तेर् ४६।  थे नुम्बेरिन्ग् हस् बेएन् अद्जुस्तेद् तो रेड़्लेच्त् थे चोम्प्लेते वेर्से, wहिछ् नोw अप्पेअर्स् हेरे अत् थे एन्द् ओड़् छप्तेर् ४५।  
-
-५।१।४६।१ सहस्र-शीर्षा पुरुषः  
-५।१।४६।२ एकाक्षर(ग्)ं  
-विष्णोर् नु कं वीर्याणि  
-५।१।४६।३ धारासु सप्तसु[*६१]  
-५।१।४६।४ स्वस्ति नो मिमीतां  
-स्वस्ति-दा विशस् पतिः  
-५।१।४६।५ अस्थिभ्यो नमः  
-५।१।४६।६ वेदाहम् एतं पुरुषं महान्तम् आदित्य-वर्णं तमसस् तु पारे  
-सर्वाणि रूपाणि विचित्य धीरो नामानि कृत्वाभिवदन् यदास्ते  
-५।१।४६।७ यद् वैष्णव(ग्)ं शयने शयानं तत् सह देवैस् सहर्षिभिः  
-तत् सर्व-देवा अनुमन्यतां प्रोक्तो वैष्णवो ऽह(ग्)ं शयितं करोमि  
-[*६१] च्ड़्।  ५।१।१२।२  हेरे थे अच्चेन्त् इस् इर्रेगुलर्ल्य् प्लचेद् ओन् थे पेनुल्तिमते स्य्ल्लब्ले ओड़् सप्तसु, रथेर् थन् थे लस्त् स्य्ल्लब्ले अस् उसुअल्।  
-
-५।१।४७।१ त(ग्)ं शयने देवेशं दैत्य-नाशाय तत् सर्व-देवैर् अनुमन्यताम्  
-५।१।४७।२ अविघ्नं पुण्य(ग्)ं सम्पद्यतां तद् भगवान् अनुमन्यताम्  
-५।१।४७।३ यद् वैष्णवत्व(ग्)ं समता(ग्)ं समत्वं वैष्णवो ऽहं वहतां वहामि  
-५।१।४७।४ विष्णोर् अहं जिष्णुम् अहः प्रपद्ये स्वाहा स्वधा वै शिरसा वहामि  
-५।१।४७।५ सिन्धोः पतिं वरुणं मा विदन्तु  
-५।१।४७।६ अतो देवा विष्णोर् नु क(ग्)ं सहस्र-शीर्षा पुरुषः  
-५।१।४७।७ आ त्वाहार्षम् अन्तर् अभूः  
-५।१।४७।८ श्रिये जातो मेदिनी देवी  
-५।१।४७।९ अस्थिभ्यस् स्वाहा  
-५।१।४७।१० कनिक्रदज् जनुषम्  
-  
-५।१।४८।१ विष्णोर् नु क(ग्)ं नारायणाय  
-५।१।४८।२ नमो वरुणः  
-५।१।४८।३ अग्नये स्वाहा  
-५।१।४८।४ वैश्वानराय स्वाहा  
-५।१।४८।५ जात-वेदसे स्वाहा  
-५।१।४८।६ पावकाय स्वाहा  
-५।१।४८।७ हुताशनाय स्वाहा  
-५।१।४८।८ हव्य-वाहनाय स्वाहा  
-५।१।४८।९ स्वाहा-प्रियाय स्वाहा  
-५।१।४८।१० यज्ञ-मूर्तये स्वाहा[*६२]  
-[*६२] थे १९८४ तेलेगु स्च्रिप्त् एदितिओन् ओड़् थे व्म्प् हस् अच्चिदेन्तल्ल्य् पुत् पगेस् १७ अन्द् १८ ओड़् थे ड़िर्स्त् प्रश्न अड़्तेर् पगे १६ ओड़् थे ड़िड़्थ् प्रश्न।  सिमिलर्ल्य् पगे १७ अन्द् १८ ओड़् थे ड़िड़्थ् प्रश्न हस् बेएन् पुत् अड़्तेर् पगे १६ ओड़् थे ड़िर्स्त् प्रश्न।  थे ड़िर्स्त् ड़ोउर् प्रश्नस् ड़ोर्म् अ सिन्ग्ले बोओक् अन्द् प्रश्नस् ५-८ ड़ोर्म् थे सेचोन्द् बोओक्।  थेरेड़ोरे थे तेxत् बेगिन्स् नुम्बेरिन्ग् अगैन् ड़्रोम् १ अत् थे बेगिन्निन्ग् ओड़् प्रश्न ५, अन्द् थिस् इस् wह्य् थे त्wओ सेत्स् ओड़् पगेस् १७ अन्द् १८ wएरे चोन्ड़ुसेद्।  
-
-५।१।४९।१ योग-मूर्तये स्वाहा  
-५।१।४९।२ विष्णवे स्वाहा  
-५।१।४९।३ वट-पत्र-शायिने स्वाहा  
-५।१।४९।४ अनन्त-शयनाय स्वाहा  
-५।१।४९।५ पुष्कर-नाभाय स्वाहा  
-५।१।४९।६ विश्वेश्वराय स्वाहा  
-५।१।४९।७ श्रीयै स्वाहा  
-५।१।४९।८ पौष्ण्यै स्वाहा  
-५।१।४९।९ मृकण्डु-जाय स्वाहा  
-५।१।४९।१० ख्यातीशाय स्वाहा  
-५।१।४९।११ सुपर्णाय स्वाहा  
-५।१।४९।१२ शेषाय स्वाहा  
-५।१।४९।१३ हलाय स्वाहा  
-५।१।४९।१४ जलाय स्वाहा  
-५।१।४९।१५ भूस् स्वाहा  
-  
-५।१।०।१४ वृष्णियम् करोमि जनुषम् यज्ञ-मूर्तये स्वाहा ख्यातीशाय स्वाहा पञ्च च  
-  
-५।१।५०।१ मेदसे नमः  
-५।१।५०।२ विष्णोर् नु कम्  
-५।१।५०।३ सहस्र-शीर्षा पुरुषः  
-५।१।५०।४ हिरण्य-वर्णां हरिणीम्  
-५।१।५०।५ भूमिर् भूम्ना  
-५।१।५०।६ अतो देवा  
-५।१।५०।७ मेदसे स्वाहा  
-५।१।५०।८ कनिक्रदज् जनुषम्  
-५।१।५०।९ अतो देवा  
-  
-५।१।०।१५ मेदसे नव  
-  
-५।१।५१।१ एतो न्व् इन्द्रम्  
-५।१।५१।२ शिराभ्यो नमः  
-५।१।५१।३ शिराभ्यस् स्वाहा  
-५।१।५१।४ अतो देवा  
-  
-५।१।०।१६ एतो न्व् इन्द्रं चत्वारि  
-  
-५।१।५२।१ विष्णुर् मां पातु  
-५।१।५२।२ श्रियम् आवाहयामि  
-५।१।५२।३ हारिणीम् आवाहयामि  
-५।१।५२।४ गरुडम् आवाहयामि  
-५।१।५२।५ शेषम् आवाहयामि  
-५।१।५२।६ हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-५।१।५२।७ धारासु सप्तसु  
-५।१।५२।८ भूमिर् भूम्ना  
-५।१।५२।९ एतो न्व् इन्द्रम्  
-५।१।५२।१० शं नो वातः पवताम्  
-  
-५।१।५३।१ श्रियै स्वाहा  
-५।१।५३।२ हरिण्यै स्वाहा  
-५।१।५३।३ मार्कण्देयाय स्वाहा  
-५।१।५३।४ भृगवे स्वाहा  
-५।१।५३।५ सुपर्णाय स्वाहा  
-५।१।५३।६ शेषाय स्वाहा  
-५।१।५३।७ नदीभ्यस् स्वाहा  
-५।१।५३।८ पर्वतेभ्यस् स्वाहा  
-५।१।५३।९ नागेभ्यस् स्वाहा  
-५।१।५३।१० भूस् स्वाहा  
-  
-५।१।५४।१ उद् उ त्यं[*६३] जात-वेदसं  
-चित्रं देवानाम्।  
-५।१।५४।२ तत्[*६४] सवितुर्  
-मेदिनी देवी  
-५।१।५४।३ ब्रह्मणे नमः महेश्वराय नमः  
-५।१।५४।४ श्रिये जातः  
-५।१।५४।५ अतो देवा  
-इदम् आपश् शिवाः  
-५।१।५४।६ इदं विष्णुर्  
-एते शतम्  
-५।१।५४।७ सहस्र-शीर्षा पुरुषः  
-५।१।५४।८ एकाक्षर(ग्)ं  
-ब्रह्मा देवानाम्  
-५।१।५४।९ पूषा ते ग्रन्थिं विष्यतु[*६५]  
-[*६३] तेxत्: उद्युतं  
-[*६४] तेxत्: तत्थ्  
-[*६५] थिर्द् पेर्सोन् सिन्गुलर् इम्पेरतिवे ड़्रोम् वि-सो।  
-
-५।१।५५।१ यन् मे गर्भे वसतः  
-प्र तद् विष्णुर् ओम्।  [?]  
-५।१।५५।२ वायु परी जल-शयनी  
-५।१।५५।३ हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-५।१।५५।४ मा(ग्)ंसेभ्यो नमः  
-५।१।५५।५ भूमिर् भूम्ना  
-५।१।५५।६ तयादित्या तत् त्रीण्य्[*६६] एषातो देवा सहस्र-शीर्षा पुरुषः  
-५।१।५५।७ विष्णोर् नु कं चिरायुषं पद्मा-पित्रे  
-५।१।५५।८ मा(ग्)ंसेभ्यस्[*६७] स्वाहा  
-५।१।५५।९  एकाक्षरम्  
-मेदिनी देवी  
-५।१।५५।१०  विष्णुस् सर्वेषाम् अधिपतिः  
-५।१।५५।११  एकाक्षर(ग्)ं  
-विष्णोर् नु कम्  
-५।१।५५।१२  विष्णुस् सर्वेषां  
-ध्रुव-क्षीतिर्  
-आ-गो-दानात्  
-[*६६] च्ड़्। व्म्प् ६।३३।५  
-[*६७] तेxत्: मा(ग्)ंसेभ्य  
-
-५।१।०।१७ पवतां, भूस् स्वाहा, ग्रन्थिं विष्यतु, पतिर्, द्वे च  
-  
-५।१।५६।१ रुधिराय नमः  
-५।१।५६।२ अतो देवा विष्णोर् नु कम्  
-५।१।५६।३ सहस्र-शीर्षा पुरुषः  
-५।१।५६।४ हिरण्य-वर्णां हरिणीम्  
-५।१।५६।५ शं नो वातः पवताम्  
-५।१।५६।६ रुधिराय स्वाहा  
-५।१।५६।७ विष्णुस् सर्वेषाम् अधिपतिः  
-५।१।५६।८ ॐ विष्णवे स्वाहा  
-५।१।५६।९ श्रियै स्वाहा  
-५।१।५६।१० हरिण्यै स्वाहा  
-  
-५।१।५७।१ चिरायुषे स्वाहा  
-५।१।५७।२ ख्यातीशाय स्वाहा  
-५।१।५७।३ गरुडाय स्वाहा  
-५।१।५७।४ शान्ताय स्वाहा  
-५।१।५७।५ चक्राय स्वाहा  
-५।१।५७।६ शङ्खाय स्वाहा  
-५।१।५७।७ शान्ताय स्वाहा  
-५।१।५७।८ भूतेभ्यस् स्वाहा  
-५।१।५७।९ सर्वाभ्यो देवताभ्यस् स्वाहा  
-५।१।५७।१० भूस् स्वाहा  
-५।१।५७।११ अग्निर् इन्द्रो वरुणो मित्रो अर्यमा वायुः पूषा सरस्वती स-जोषसः  
-५।१।५७।१२ आदित्या विष्णुर् मरुतस् स्वर् बृहत्-सोमो रुद्रो अदितिर् ब्रह्मणस्पतिः  
-५।१।५७।१३ दुहतां दिवम् इन्द्रः  
-५।१।५७।१४ सहस्र-शीर्षा पुरुषः  
-  
-५।१।०।१८ हरिण्यै स्वाहा भूस् स्वाहा चत्वारि च  
-  
-५।१।५८।१ त्वचे नमः  
-५।१।५८।२ अतो देवा विष्णोर् नु कम्  
-५।१।५८।३ सहस्र-शीर्षा पुरुषः  
-५।१।५८।४ स्वस्ति चैवेह स्वाहा  
-५।१।५८।५ त्वचे स्वाहा  
-५।१।५८।६ नारायणाय  
-५।१।५८।७ सोमस्य तनूर् असि  
-  
-५।१।०।१९ त्वचे सप्त च  
-  
-५।१।५९।१ जीवाय नमः  
-५।१।५९।२ अतो देवा विष्णोर् नु कम्  
-५।१।५९।३ सहस्र-शीर्षा पुरुषः  
-५।१।५९।४ विष्णुस् सर्वेषाम् अधिपतिः  
-५।१।५९।५ विष्णवे स्वाहा  
-५।१।५९।६ जीवाय स्वाहा  
-५।१।५९।७ हिरण्य-गर्भस् सम् अवर्तताग्रे  
-५।१।५९।८ आत्मात्मा परमान्तरात्मा  
-५।१।५९।९ अतो देवा  
-५।१।५९।१० विष्णोर् नु कं चित्रं देवानां तेजो वत्स्यावः  
-५।१।५९।११ भूमान् अन्तो ऽग्रे  
-५।१।५९।१२ अस्माद् उपास्यो  
-गन्ध-द्वाराम्  
-५।१।५९।१३ मेदिनी देवी  
-५।१।५९।१४ चिरायुषं यं यतस् स्वम् आसीद् धृदयात्  
-  
-५।१।०।२० वत्स्यावश् चत्वारि च  
-  
-५।१।६०।१ ब्रह्म जज्ञानम्  
-५।१।६०।२ ब्रह्माणम् आवाहयामि  
-५।१।६०।३ प्रजा-पतिम् आवाहयामि  
-५।१।६०।४ पितामहम् आवाहयामि  
-५।१।६०।५ हिरण्य-गर्भम् आवाहयामि  
-५।१।६०।६ ईशानम् आवाहयामि  
-५।१।६०।७ पर्जन्यम् आवाहयामि  
-५।१।६०।८ जयन्तम् आवाहयामि  
-५।१।६०।९ माहेन्द्रम् आवाहयामि  
-५।१।६०।१० आदित्यम् आवाहयामि  
-  
-५।१।६१।१ सत्यकम् आवाहयामि  
-५।१।६१।२ अग्निम् आवाहयामि  
-५।१।६१।३ वितथम् आवाहयामि  
-५।१।६१।४ गृह-क्षतम् आवाहयामि  
-५।१।६१।५ यमम् आवाहयामि  
-५।१।६१।६ गन्धर्वम् आवाहयामि  
-५।१।६१।७ भृङ्ग-राजम् आवाहयामि  
-५।१।६१।८ निरृतिम् आवाहयामि  
-५।१।६१।९ दौवारिकम् आवाहयामि  
-५।१।६१।१० सुग्रीवम् आवाहयामि  
-  
-५।१।६२।१ सरित्-पतिम् आवाहयामि  
-५।१।६२।२ असुरम् आवाहयामि  
-५।१।६२।३ शोषणम् आवाहयामि  
-५।१।६२।४ जवनम् आवाहयामि  
-५।१।६२।५ नागम् आवाहयामि  
-५।१।६२।६ मुख्यम् आवाहयामि  
-५।१।६२।७ सोमम् आवाहयामि  
-५।१।६२।८ अर्गलम्[*६८] आवाहयामि  
-५।१।६२।९ अदितिम् आवाहयामि  
-५।१।६२।१० ब्रह्म जज्ञानम्  
-[*६८] च्ड़्।  ५।१।२४।३  
-
-५।१।६३।१ ब्रह्माणम् आवाहयामि  
-५।१।६३।२ शं नो निधत्ताम्  
-५।१।६३।३ ॐ शेषम् आवाहयामि सहस्र-शीर्षम् आवाहयामि अनन्तम् आवाहयामि नाग-राजम् आवाहयामि  
-५।१।६३।४ धर्मौघ-माता  
-५।१।६३।५ वक्र-तुण्डम् आवाहयामि एक-दंष्ट्रम् आवाहयामि विकटम् आवाहयामि  
-  
-५।१।६४।१ विनायकम् आवाहयामि  
-५।१।६४।२ शत-धार(ग्)ं हिरण्मयम्  
-५।१।६४।३ गरुडम् आवाहयामि पक्षि-राजम् आवाहयामि सुपर्णम् आवाहयामि  खगाधिपतिम् आवाहयामि  
-५।१।६४।४ भूमान् अन्तो ऽग्रे  
-५।१।६४।५ चक्रम् आवाहयामि सुदर्शनम् आवाहयामि सहस्र-विकचम् आवाहयामि  
-  
-५।१।६५।१ अनपायिनम् आवाहयामि  
-५।१।६५।२ ऋचो यजू(ग्)ंषि  
-५।१।६५।३ पङ्क्तीशम् आवाहयामि मित्रम् आवाहयामि वरदम् आवाहयामि  भूतनायकम् आवाहयामि  
-५।१।६५।४ तन् मा यशो ऽग्रे  
-५।१।६५।५ शङ्खम् आवाहयामि पाञ्चजन्यम् आवाहयामि अम्बुजम् आवाहयामि  
-  
-५।१।६६।१ विष्णु-प्रियम् आवाहयामि  
-५।१।६६।२ आग्नेयो यस्मात्  
-५।१।६६।३ विष्वक्सेनम् आवाहयामि  
-५।१।६६।४ शान्तम् आवाहयामि  
-५।१।६६।५ हरितम् आवाहयामि  
-५।१।६६।६ अमितम् आवाहयामि  
-५।१।६६।७ जयाम् आवाहयामि  
-५।१।६६।८ सुख-प्रदाम् आवाहयामि  
-५।१।६६।९ समृद्धिनीम् आवाहयामि  
-५।१।६६।१० भद्राम् आवाहयामि  
-  
-५।१।६७।१ विजयाम् आवाहयामि  
-५।१।६७।२ विशोकाम् आवाहयामि  
-५।१।६७।३ पुण्याम् आवाहयामि  
-५।१।६७।४ कामानन्दाम् आवाहयामि  
-५।१।६७।५ विन्दाम् आवाहयामि  
-५।१।६७।६ लाभाम् आवाहयामि  
-५।१।६७।७ अप्रमत्ताम् आवाहयामि  
-५।१।६७।८ अजेयाम् आवाहयामि  
-५।१।६७।९ नन्दकाम् आवाहयामि  
-५।१।६७।१० मधु-जननीम् आवाहयामि  
-  
-५।१।६८।१ सुमुक्ताम् आवाहयामि  
-५।१।६८।२ सुभगाम् आवाहयामि  
-५।१।६८।३ पुष्टिकाम् आवाहयामि  
-५।१।६८।४ अमोघवतीम् आवाहयामि  
-५।१।६८।५ पुण्याम् आवाहयामि  
-५।१।६८।६ अप्रमत्ताम् आवाहयामि  
-५।१।६८।७ कुमुद्वतीम् आवाहयामि  
-५।१।६८।८ सुसहाम् आवाहयामि  
-५।१।६८।९ सुसम्भराम् आवाहयामि  
-५।१।६८।१० निवृत्तीम् आवाहयामि  
-  
-५।१।६९।१ उत्पलकाम् आवाहयामि  
-५।१।६९।२ सुगन्धिनीम् आवाहयामि  
-५।१।६९।३ सर्व-मोदाम् आवाहयामि  
-५।१।६९।४ सर्वात्मकाम् आवाहयामि  
-५।१।६९।५ विशोकाम् आवाहयामि  
-५।१।६९।६ धन-राशिम् आवाहयामि  
-५।१।६९।७ अक्षताम् आवाहयामि  
-५।१।६९।८ अमिताम् आवाहयामि  
-५।१।६९।९ इन्द्रं प्रणयन्तम्  
-५।१।६९।१० इन्द्रम् आवाहयामि  
-  
-५।१।७०।१ शची-पतिम् आवाहयामि पुरु-हूतम् आवाहयामि पुरन्दरम् आवाहयामि  
-५।१।७०।२ अग्निर् मूर्धा[*६९]  
-५।१।७०।३ अग्निम् आवाहयामि जात-वेदसम् आवाहयामि पावकम् आवाहयामि हूताशनम् आवाहयामि  
-५।१।७०।४ यमो दाधार  
-५।१।७०।५ यमम् आवाहयामि  
-[*६९] तेxत्:  मूर्था।  
-
-५।१।७१।१ धर्म-राजम् आवाहयामि  
-५।१।७१।२ प्रेतेशम् आवाहयामि  
-५।१।७१।३ मध्य-स्थम् आवाहयामि  
-५।१।७१।४ नमस् ते निरृतये  
-५।१।७१।५ आरम्भाधिपतिम् आवाहयामि  
-५।१।७१।६ निरृतिम् आवाहयामि  
-५।१।७१।७ नीलम् आवाहयामि  
-५।१।७१।८ सर्व-रक्षो-इधिपतिम् आवाहयामि  
-५।१।७१।९ ये ते शतम्  
-५।१।७१।१० वरुणम् आवाहयामि  
-  
-५।१।७२।१ प्रचेतसम् आवाहयामि  
-५।१।७२।२ रक्ताम्बरम् आवाहयामि  
-५।१।७२।३ यादस्-पतिम् आवाहयामि  
-५।१।७२।४ मरुतः परमात्मा  
-५।१।७२।५ वायुम् आवाहयामि  
-५।१।७२।६ जवनम् आवाहयामि  
-५।१।७२।७ भूतात्मकम् आवाहयामि  
-५।१।७२।८ उदानम् आवाहयामि  
-५।१।७२।९ मिश्र-वाससः  
-५।१।७२।१० कुबेरम् आवाहयामि  
-  
-५।१।७३।१ धन्यम् आवाहयामि  
-५।१।७३।२ पौलस्त्यम् आवाहयामि  
-५।१।७३।३ यक्ष-राजम् आवाहयामि  
-५।१।७३।४ ईशानस् सर्व-लोकानाम्  
-५।१।७३।५ ईशानम् आवाहयामि  
-५।१।७३।६ देवम् आवाहयामि  
-५।१।७३।७ भवम् आवाहयामि  
-५।१।७३।८ महा-देवम् आवाहयामि  
-५।१।७३।९ सोम यास् ते मयो-भुव ऊतयस् सन्ति दाशुषे  
-ताभिर् नो ऽविता भव  
-  
-५।१।७४।१ सोमम् आवाहयामि  
-५।१।७४।२ यज्ञाङ्गम् आवाहयामि  
-५।१।७४।३ इन्दुम् आवाहयामि  
-५।१।७४।४ चन्द्रम् आवाहयामि  
-५।१।७४।५ नारायणाय  
-५।१।७४।६ मेदिनी देवी  
-५।१।७४।७ हरिणीम् आवाहयामि  
-५।१।७४।८ पौष्णीम् आवाहयामि  
-५।१।७४।९ क्षोणीम् आवाहयामि  
-५।१।७४।१० महीम् आवाहयामि  
-  
-५।१।७५।१ राकाम् अहम्  
-५।१।७५।२ राकाम् आवाहयामि  
-५।१।७५।३ मुख्याम् आवाहयामि  
-५।१।७५।४ रक्ताङ्गीम् आवाहयामि  
-५।१।७५।५ वराननाम् आवाहयामि  
-५।१।७५।६ सिनीवालि पृथुष्टुके  
-५।१।७५।७ सिनीवालिम् आवाहयामि  
-५।१।७५।८ गभस्तिनीम् आवाहयामि  
-५।१।७५।९ हित-दाम् आवाहयामि  
-५।१।७५।१० पुण्य-दाम् आवाहयामि  
-५।१।७५।११ सोम(ग्)ं राजानं वरुणम् अग्निम् अन्वारभामहे  
-आदित्यान् विष्णु(ग्)ं सूर्यं ब्रह्माणं च बृहस्पतिम्  
-५।१।७५।१२ ॐ सोमम् आवाहयामि  
-५।१।७५।१३ धारासु सप्तसु  
-५।१।७५।१४ सोम(ग्)ं राजानम्  
-५।१।७५।१५ अतो देवा  
-५।१।७५।१६ विष्णोर् नु कम्  
-५।१।७५।१७ ये ते शतम् ओम्  
-  
-५।१।०।२१ आदित्यम् आवाहयामि सुग्रीवम् आवाहयामि ब्रह्म जज्ञानं विकटम् आवाहयामि विकचम् आवाहयाम्य्  अम्बुजम् आवाहयामि भद्राम् आवाहयामि मधु-जननीम् आवाहयामि निवृत्तीम् आवाहयामीन्द्रम् आवाहयामि यमम् आवाहयामि वरुणम् आवाहयामि कुबेरम् आवाहयामि नो ऽविता भव[*७०] महीम् आवाहयामि पुण्य-दाम् आवाहयाम्य् अष्टौ च  
-[*७०] थे १९८४ एदितिओन् गिवेस् अविता भव इन्स्तेअद् ओड़्  नो ऽविता भव।  
-
-५।१।७६।१ आचार्यं त्वाम् अहं वृणे  
-५।१।७६।२ अक्षि-मोचन-होमार्थं त्वाम् अहं वृणे  
-५।१।७६।३ वास्तु-होमार्थं त्वाम् अहं वृणे  
-५।१।७६।४ गार्हपत्य-होमार्थं त्वाम् अहं वृणे  
-५।१।७६।५ अन्वाहार्य-होमार्थं त्वाम् अहं वृणे  
-५।१।७६।६ आहवनीय-होमार्थं त्वाम् अहं वृणे  
-५।१।७६।७ आनसक्थ्य-होमार्थं त्वाम् अहं वृणे  
-५।१।७६।८ सभ्य-होमार्थं त्वाम् अहं वृणे  
-५।१।७६।९ पौण्डरीक-होमार्थं त्वाम् अहं वृणे  
-५।१।७६।१० ब्रह्मार्थं त्वाम् अहं वृणे  
-  
-५।१।७७।१ सोमार्थम् त्वाम् अहं वृणे  
-५।१।७७।२ होतारम् त्वाम् अहं वृणे  
-५।१।७७।३ स्नपनार्थं त्वाम् अहं वृणे  
-५।१।७७।४ सर्व-देवार्चनार्थं त्वाम् अहं वृणे  
-५।१।७७।५ स्थापकार्थं त्वाम् अहं वृणे  
-५।१।७७।६ (२) ऋतं च सत्यम् च  
-देव-कृतस्य  
-यन् मे गर्भे  
-तरत् स मन्दी  
-वसोः पवित्रञ्  
-जात-वेदसे  
-विष्णोर् नु क(ग्)ं  
-सहस्र-शीर्षैकाक्षरम्  
-आ त्वाहार्षं  
-त्वम् अग्ने पवस्व  
-५।१।७७।७ एतो न्व् इन्द्रम्  
-५।१।७७।८ यद् देवा यद् देवा  
-यद् अदीव्यन्[*७१]  
-आयुष् टे  
-वैश्वानराय  
-नवो-नवो भवति  
-५।१।७७।९ तेजो वत्स्यावस् सोमस्य तनूर् असि  
-५।१।७७।१० इदं ब्रह्म पुनीमहे भूतो भूतेषु  
-५।१।७७।११ कृणुष्व पाजस् स्वस्ति नो मिमीतां स्वस्ति-दा विशस्-पतिः  
-[*७१] अदीव्यं हस् बेएन् चोर्रेच्तेद् तो अदीव्यन् अच्चोर्दिन्ग् तो अल्ल् थे तेxत्स् ड़ोर् wहिछ् थिस् इस् अ प्रतीक।  
-
-५।१।०।२२ त्वाम् अहं वृणे भूतो भूतेष्व् एकञ् च  
-  
-५।१।७८।१ वास्तोष्-पते  
-५।१।७८।२ आपो हि ष्ठा मयो-भुवः  
-५।१।७८।३ हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-५।१।७८।४ एतो न्व् इन्द्रम्  
-५।१।७८।५ दद्भ्यस् स्वाहा  [२८ इन् बोओक् मुस्त् बे ७८]  
-  
-५।१।०।२३ वास्तोष्-पते ते पञ्च  
-  
-५।१।७९।१ मौलि-मालायै[*७२] स्वाहा  
-५।१।७९।२ दिव्याय स्वाहा  
-५।१।७९।३ रत्नाय स्वाहा  
-५।१।७९।४ उत्तराय स्वाहा  
-५।१।७९।५ सर्वोत्तमाय स्वाहा  
-५।१।७९।६ सर्वस्मै स्वाहा  
-५।१।७९।७ विष्णवे स्वाहा  
-५।१।७९।८ प्रभविष्णवे स्वाहा  
-५।१।७९।९ मकुटाय स्वाहा  
-५।१।७९।१० केशेभ्यस् स्वाहा  
-[*७२] तेxत्: मौऌइ-मालायै  
-
-५।१।८०।१ उष्णीषाय स्वाहा  
-५।१।८०।२ मूर्ध्ने स्वाहा  
-५।१।८०।३ मुखाय स्वाहा  
-५।१।८०।४ ललाटाय स्वाहा  
-५।१।८०।५ श्रोत्राभ्या(ग्)ं स्वाहा  
-५।१।८०।६ भ्रूभ्या(ग्)ं स्वाहा  
-५।१।८०।७ अपाङ्गाभ्या(ग्)ं स्वाहा  
-५।१।८०।८ अक्षिभ्या(ग्)ं स्वाहा  
-५।१।८०।९ पक्ष्मभ्यस् स्वाहा  
-५।१।८०।१० तारकाभ्या(ग्)ं स्वाहा[*७३]  
-[*७३] पताकाभ्या(ग्)ं स्वाहा  
-
-५।१।८१।१ ज्योतिषे स्वाहा  
-५।१।८१।२ ज्योति-रूपायै स्वाहा  
-५।१।८१।३ गण्डभ्या(ग्)ं स्वाहा  
-५।१।८१।४ हनूभ्या(ग्)ं स्वाहा  
-५।१।८१।५ नासिकाभ्या(ग्)ं स्वाहा  
-५।१।८१।६ पुटाभ्या(ग्)ं स्वाहा  
-५।१।८१।७ ओष्ठाभ्या(ग्)ं स्वाहा  
-५।१।८१।८ दन्तेभ्यस् स्वाहा  
-५।१।८१।९ जिह्वायै स्वाहा  
-५।१।८१।१० सुवक्त्राय स्वाहा  
-  
-५।१।८२।१ चुबुकाय स्वाहा  
-५।१।८२।२ अधराय स्वाहा  
-५।१।८२।३ गलाय[*७४] स्वाहा  
-५।१।८२।४ कण्ठाय स्वाहा  
-५।१।८२।५ ग्रीवायै स्वाहा  
-५।१।८२।६ कीकसाभ्यस् स्वाहा  
-५।१।८२।७ जत्रुभ्यस्[*७५] स्वाहा  
-५।१।८२।८ जत्रु-रूपेभ्यस् स्वाहा  
-५।१।८२।९ अ(ग्)ंसाभ्या(ग्)ं स्वाहा  
-५।१।८२।१० दोषाभ्या(ग्)ं स्वाहा  
-[*७४] तेxत्: गऌआय  
-[*७५] तेxत्: जत्रुभ्य  
-
-५।१।८३।१ स्कन्धाभ्या(ग्)ं स्वाहा  
-५।१।८३।२ बाहुभ्या(ग्)ं स्वाहा  
-५।१।८३।३ कूर्परेभ्यस् स्वाहा  
-५।१।८३।४ प्रकोष्ठेभ्यस् स्वाहा  
-५।१।८३।५ तलेभ्यस् स्वाहा  
-५।१।८३।६ अङ्गुलीभ्यस्[*७६] स्वाहा  
-५।१।८३।७ पर्वभ्यस् स्वाहा  
-५।१।८३।८ नखेभ्यस् स्वाहा  
-५।१।८३।९ हृदयाय स्वाहा  
-५।१।८३।१० स्तनाभ्या(ग्)ं स्वाहा  
-[*७६] तेxत्: अङ्गुऌईभ्यस्  
-
-५।१।८४।१ पार्श्वाभ्या(ग्)ं स्वाहा  
-५।१।८४।२ उदराय स्वाहा  
-५।१।८४।३ नाभये स्वाहा  
-५।१।८४।४ कृकातिकायै स्वाहा  
-५।१।८४।५ नालिभ्यस्[*७७] स्वाहा  
-५।१।८४।६ व(ग्)ंशाय स्वाहा  
-५।१।८४।७ श्रोणिभ्या(ग्)ं स्वाहा  
-५।१।८४।८ कट्टिराय स्वाहा  
-५।१।८४।९ प्रजननाय स्वाहा  
-५।१।८४।१० स्वाहा  
-५।१।८४।११ प्रजात्यै स्वाहा  
-[*७७] तेxत्: नाऌइभ्यस्  
-
-५।१।८५।१ वस्तये स्वाहा  
-५।१।८५।२ वस्तिमुष्काय स्वाहा  
-५।१।८५।३ सक्थिभ्या(ग्)ं  स्वाहा  
-५।१।८५।४ ऊरुभ्या(ग्)ं स्वाहा  
-५।१।८५।५ जानुभ्या(ग्)ं स्वाहा  
-५।१।८५।६ जङ्घाभ्या(ग्)ं स्वाहा  
-५।१।८५।७ गुल्फेभ्यस्[*७८] स्वाहा [?]  
-५।१।८५।८ पार्ष्णिभ्या(ग्)ं स्वाहा  
-५।१।८५।९ पादाभ्या(ग्)ं स्वाहा  
-५।१।८५।१० पादाङ्गुलीभ्यस्[*७९] स्वाहा  
-[*७८] तेxत्: गुल्भेभ्यस्  
-[*७९] तेxत्: पादाङ्गुऌईभ्यस्  
-
-५।१।८६।१ पर्वभ्यस् स्वाहा  
-५।१।८६।२ नखेभ्यस् स्वाहा  
-५।१।८६।३ सन्धिभ्यस् स्वाहा  
-५।१।८६।४ सन्धानेभ्यस् स्वाहा  
-५।१।८६।५ रोमभ्यस् स्वाहा  
-५।१।८६।६ रोम-कूपेभ्यस् स्वाहा  
-५।१।८६।७ मर्मभ्यस् स्वाहा  
-५।१।८६।८ मर्म-पाणिभ्यस् स्वाहा  
-५।१।८६।९ होत्रेभ्यस् स्वाहा  
-५।१।८६।१० सिराभ्यस् स्वाहा  
-  
-५।१।८७।१ त्वग्भ्यस् स्वाहा  
-५।१।८७।२ रक्तेभ्यस् स्वाहा  
-५।१।८७।३ मा(ग्)ंसेभ्यस् स्वाहा  
-५।१।८७।४ मेदोभ्यस् स्वाहा  
-५।१।८७।५ अस्थिभ्यस् स्वाहा  
-५।१।८७।६ मज्जभ्यस् स्वाहा  
-५।१।८७।७ शुक्लाय स्वाहा  
-५।१।८७।८ शुक्ल-रूपाय स्वाहा  
-५।१।८७।९ हेतवे स्वाहा  
-५।१।८७।१० तेजिष्ठाय स्वाहा  
-  
-५।१।८८।१ तेजसे स्वाहा  
-५।१।८८।२ धातुभ्यस् स्वाहा  
-५।१।८८।३ धातु-रूपेभ्यस् स्वाहा  
-५।१।८८।४ वाग्भ्यस् स्वाहा  
-५।१।८८।५ अक्षरेभ्यस् स्वाहा  
-५।१।८८।६ नादेभ्यस् स्वाहा  
-५।१।८८।७ मनसे स्वाहा  
-५।१।८८।८ बुद्धये स्वाहा  
-५।१।८८।९ अहङ्काराय स्वाहा  
-५।१।८८।१० चित्ताय स्वाहा  
-  
-५।१।८९।१ हृत्-पुण्डरीकाय स्वाहा  
-५।१।८९।२ प्राण-पुण्डरीकाय स्वाहा  
-५।१।८९।३ वायवे स्वाहा  
-५।१।८९।४ जीवाय स्वाहा  
-५।१।८९।५ जीवात्मने स्वाहा  
-५।१।८९।६ सत्याय स्वाहा  
-५।१।८९।७ सत्य-रूपाय स्वाह  
-५।१।८९।८ ज्ञानाय स्वाहा  
-५।१।८९।९ ज्ञान-रूपाय स्वाहा  
-५।१।८९।१० ज्ञेयाय स्वाहा[*८०]  
-[*८०] ज्ञात्रे साव्हा  
-
-५।१।९०।१ विज्ञात्रे स्वाहा  
-५।१।९०।२ अनन्ताय स्वाहा  
-५।१।९०।३ आनन्दाय स्वाहा  
-५।१।९०।४ व्यक्ताय स्वाहा  
-५।१।९०।५ अव्यक्ताय स्वाहा  
-५।१।९०।६ प्राणाय स्वाहा  
-५।१।९०।७ प्राणात्मने स्वाहा  
-५।१।९०।८ अपानाय स्वाहा  
-५।१।९०।९ व्यानाय स्वाहा  
-५।१।९०।१० उदानाय स्वाहा  
-  
-५।१।९१।१ समानाय स्वाहा  
-५।१।९१।२ महते स्वाहा  
-५।१।९१।३ महात्मने स्वाहा  
-५।१।९१।४ आत्मने स्वाहा  
-५।१।९१।५ अनात्मने स्वाहा  
-५।१।९१।६ विश्वस्मै स्वाहा  
-५।१।९१।७ विश्वात्मने स्वाहा  
-५।१।९१।८ परस्मै स्वाहा  
-५।१।९१।९ परमात्मने स्वाहा  
-५।१।९१।१० यस्मै स्वाहा  
-  
-५।१।९२।१ तस्मै स्वाहा  
-५।१।९२।२ कस्मै स्वाहा  
-५।१।९२।३ सर्वस्मै स्वाहा  
-५।१।९२।४ सर्वात्मने स्वाहा  
-५।१।९२।५ प्रभायै स्वाहा  
-५।१।९२।६ शिरश्-चक्राय स्वाहा  
-५।१।९२।७ चक्राय स्वाहा  
-५।१।९२।८ शङ्खाय स्वाहा  
-५।१।९२।९ शार्ङ्गाय स्वाहा  
-५।१।९२।१० गदायै स्वाहा  
-  
-५।१।९३।१ नन्दकाय स्वाहा  
-५।१।९३।२ अम्बराय स्वाहा  
-५।१।९३।३ भूषणेभ्यस् स्वाहा  
-५।१।९३।४ प्रभा-पतये स्वाहा  
-५।१।९३।५ छत्राय स्वाहा  
-५।१।९३।६ पाद-पद्माय स्वाहा  
-५।१।९३।७ पाद-पीठाय स्वाहा  
-५।१।९३।८ अङ्गेभ्यस् स्वाहा  
-५।१।९३।९ महाङ्गेभ्यस् स्वाहा  
-५।१।९३।१० उपाङ्गेभ्यस् स्वाहा  
-  
-५।१।९४।१ प्रत्यङ्गेभ्यस् स्वाहा  
-५।१।९४।२ सर्वेभ्यस् स्वाहा  
-५।१।९४।३ पुरुषाय स्वाहा  
-५।१।९४।४ भूस् स्वाहा  
-५।१।९४।५ तयादित्या तत् त्रीण्य्[*८१] एषा  
-५।१।९४।६ आपो विश्वं चातुर्यम्  
-५।१।९४।७ वृषाकपेर् ओजो-इभिमानी  
-५।१।९४।८ प्रक्रम्याथ[*८२] ऊर्ध्वं यो मातरिश्वा  
-५।१।९४।९ स एको ऽभूद् यस् त्रैष्टुभश्[*८३] च  
-५।१।९४।१० विष्णोर् नु कम्  
-५।१।९४।११ सहस्र-शीर्षा पुरुषः  
-५।१।९४।१२ अतो देवा इदं विष्णुः  
-५।१।९४।१३ श(ग्)ं सानियच्छद् भूय आत्म-वृत्या  
-५।१।९४।१४ तयादित्या तत् त्रीण्य्[*८४] एषा  
-५।१।९४।१५ ब्रह्म जज्ञान(ग्)ं हिरण्य-गर्भः  
-५।१।९४।१६ रुद्रम् अन्यं त्र्य्-अम्बकम्  
-५।१।९४।१७ चित्तं च स्वाहा  
-५।१।९४।१८ अग्निर् भूतानाम्  
-ऋता-षाट्  
-[*८१] च्ड़्। व्म्प् ६।३३।५  
-[*८२] तेxत्: पक्रम्याथ  
-[*८३] तेxत्: रैष्टुभश्  
-[*८४] च्ड़्। व्म्प् ६।३३।५  
-
-५।१।०।२४ केशेभ्यस् स्वाहा तारकाभ्या(ग्)ं स्वाहा सुवक्त्राय स्वाहा दोषाभ्या(ग्)ं स्वाहा स्तनाभ्या(ग्)ं स्वाहा प्रजात्यै स्वाहा पादाङ्गुलीभ्यस्[*८५] स्वाहा सिराभ्यस् स्वाहा तेजिष्ठाय स्वाहा चित्ताय स्वाहा ज्ञेयाय स्वाहोदानाय स्वाहा यस्मै स्वाहा गदायै स्वाहोपाङ्गेभ्यस् स्वाहा विष्णोर् नु कम् अष्टाउ च  
-[*८५] तेxत्: पादाङ्गुऌईभ्यस्  
-
-५।१।९५।१ स्थूपिकायै स्वाहा  
-५।१।९५।२ स्थूपिमुकुलायै[*८६] स्वाहा  
-५।१।९५।३ पद्माय स्वाहा  
-५।१।९५।४ फलकायै स्वाहा  
-५।१।९५।५ पद्माय स्वाहा  
-५।१।९५।६ कण्ठाय स्वाहा  
-५।१।९५।७ कर्णाय स्वाहा  
-५।१।९५।८ क्षेपणाय स्वाहा  
-५।१।९५।९ वेत्राय स्वाहा  
-५।१।९५।१० कर्णाय स्वाहा  
-[*८६] तेxत्: स्थूपिमुकुऌआयै  
-
-५।१।९६।१ क्षेपणाय स्वाहा  
-५।१।९६।२ पङ्क-जाय स्वाहा  
-५।१।९६।३ कुम्भाय स्वाहा  
-५।१।९६।४ पङ्क-जाय स्वाहा  
-५।१।९६।५ क्षेपणाय स्वाहा  
-५।१।९६।६ वेत्राय स्वाहा  
-५।१।९६।७ क्षेपणाय स्वाहा  
-५।१।९६।८ पद्माय स्वाहा  
-५।१।९६।९ फलकायै स्वाहा  
-५।१।९६।१० अवलग्नाय स्वाहा  
-  
-५।१।९७।१ कुम्भाय स्वाहा  
-५।१।९७।२ शक्ति-ध्वजाय स्वाहा  
-५।१।९७।३ पद्माय स्वाहा  
-५।१।९७।४ उभाय स्वाहा  
-५।१।९७।५ नासिकायै स्वाहा  
-५।१।९७।६ दण्डाय स्वाहा  
-५।१।९७।७ मृणालिकायाइ[*८७] स्वाहा  
-५।१।९७।८ मुष्टि-बन्धाय स्वाहा  
-५।१।९७।९ वाजनाय स्वाहा  
-५।१।९७।१० उत्तराय स्वाहा  
-[*८७] तेxत्: मृणाऌइकायाइ  
-
-५।१।९८।१ कर्णाय स्वाहा  
-५।१।९८।२ ऊह-प्रत्यूहाय स्वाहा  
-५।१।९८।३ वेदिकायै स्वाहा  
-५।१।९८।४ भूमि-कल्पाय स्वाहा  
-५।१।९८।५ वाजनय स्वाहा  
-५।१।९८।६ प्रतये स्वाहा  
-५।१।९८।७ अन्तरिताय स्वाहा  
-५।१।९८।८ लिङ्गाय स्वाहा  
-५।१।९८।९ शक्ति-ध्वजाय स्वाहा  
-५।१।९८।१० नासिकायै स्वाहा  
-  
-५।१।९९।१ कर्ण-पालिकायै स्वाहा  
-५।१।९९।२ कपोताय स्वाहा  
-५।१।९९।३ वाजनाय स्वाहा  
-५।१।९९।४ पङ्क-जाय स्वाहा  
-५।१।९९।५ वाजनाय स्वाहा  
-५।१।९९।६ उत्तराय स्वाहा  
-५।१।९९।७ बोधिकायै स्वाहा  
-५।१।९९।८ वीर-काण्डाय स्वाहा  
-५।१।९९।९ फलकायै स्वाहा  
-५।१।९९।१० वेत्राय स्वाहा  
-  
-५।१।१००।१ उत्सन्धिकाय स्वाहा  
-५।१।१००।२ ध्वजाय स्वाहा  
-५।१।१००।३ कुम्भाय स्वाहा  
-५।१।१००।४ ध्वजास्याय स्वाहा  
-५।१।१००।५ पद्माय स्वाहा  
-५।१।१००।६ भीरवे स्वाहा  
-५।१।१००।७ स्कन्धाय स्वाहा  
-५।१।१००।८ पद्म-मालायै स्वाहा  
-५।१।१००।९ स्कन्धान्तरायै स्वाहा  
-५।१।१००।१० वेदिकायै स्वाहा  
-५।१।१००।११ महा-पट्टिकायै स्वाहा  
-५।१।१००।१२ क्षुद्र-पट्टिकायै स्वाहा  
-५।१।१००।१३ कर्णाय स्वाहा  
-५।१।१००।१४ कुमुदाय स्वाहा  
-५।१।१००।१५ जगत्यै स्वाहा  
-५।१।१००।१६ उपानाय स्वाहा  
-५।१।१००।१७ भूस् स्वाहा  
-  
-५।१।०।२५ कर्णाय स्वाहावलग्नाय स्वाहोत्तराय स्वाहा नासिकायै स्वाहा वेत्राय स्वाहा वेदिकायै स्वाहा सप्त च  
-  
-५।१।१०१।१ शुद्धा इमे पशवः  
-५।१।१०१।२ गौर् धेनु-भव्या  
-५।१।१०१।३ आ-गो-दानात्  
-५।१।१०१।४ साम-वेदम् आवाहयामि  
-५।१।१०१।५ यजुर्-वेदम् आवाहयामि  
-५।१।१०१।६ ऋग्-वेदम् आवाहयामि  
-५।१।१०१।७ अथर्व-वेदम् आवाहयामि  
-५।१।१०१।८ वायुम् आवाहयामि  
-५।१।१०१।९ महीम् आवाहयामि  
-५।१।१०१।१० दिवा-करम् आवाहयामि  
-  
-५।१।१०२।१ चन्द्रम् आवाहयामि  
-५।१।१०२।२ आत्मात्मा परमान्तरात्मा  
-५।१।१०२।३ विष्णुर् मां रक्षतु  
-५।१।१०२।४ अतो देवा इदं विष्णुः  
-५।१।१०२।५ सहस्र-शीर्षा पुरुषः  
-५।१।१०२।६ श्रिये जातो मेदिनी देवी  
-५।१।१०२।७ आ-गो-दानात्  
-५।१।१०२।८ इमा ओषधयः  
-५।१।१०२।९ अग्न आ याहि  
-५।१।१०२।१० इषे त्वोर्जे त्वाग्निम् ईले पुरोहितम्  
-  
-५।१।१०३।१ शं नो देवीः  
-५।१।१०३।२ इदम् आपश् शिवाः नारायणाय  
-५।१।१०३।३ अग्निम् ईले  
-५।१।१०३।४ इषे त्वोर्जे त्वा  
-५।१।१०३।५ अग्न आ याहि शं नो देवीः  
-५।१।१०३।६ आप उन्दन्तु  
-५।१।१०३।७ सहस्र-शीर्षा पुरुषः  
-५।१।१०३।८ अतो देवाः  
-५।१।१०३।९ एकाक्षरम् आपो हि ष्ठा मयो-भुवः  
-५।१।१०३।१० हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-५।१।१०३।११ शं नो देवीस् सहस्र-शीर्षा पुरुषः  
-५।१।१०३।१२ अतो देवा इदं विष्णुः  
-५।१।१०३।१३ धारासु सप्तसु  
-  
-५।१।०।२६ दिवा-करम् आवाहयामि पुरोहितं भुवश् चत्वारि च  
-  
-५।१।१०४।१ शुक्रम् असि  
-५।१।१०४।२ दधिक्राव्णो[*८८] अकारिषम्  
-५।१।१०४।३ आप्यायस्व  
-५।१।१०४।४ गन्ध-द्वाराम्  
-५।१।१०४।५ तत्[*८९] सवितुः  
-५।१।१०४।६ वसोः पवित्रम् असि  
-५।१।१०४।७ पञ्च-गव्यम् आवाहयामि  
-५।१।१०४।८ शिवम् आवाहयामि  
-५।१।१०४।९ ईशम् आवाहयामि  
-५।१।१०४।१० अव्यक्तम् आवाहयामि  
-[*८८] तेxत्: दधिक्राव्ण्णो  
-[*८९] तेxत्: तथ्  
-
-५।१।१०५।१ विष्णोर् नु कं वीर्याणि  
-५।१।१०५।२ भूस् स्वाहा  
-५।१।१०५।३ विष्णवे स्वाहा  
-५।१।१०५।४ विश्वेश्वराय स्वाहा  
-५।१।१०५।५ जनार्दनाय स्वाहा  
-५।१।१०५।६ सर्व-भूतात्मने स्वाहा  
-५।१।१०५।७ अव्यक्ताय स्वाहा  
-५।१।१०५।८ अचलाय स्वाहा  
-५।१।१०५।९ देवेभ्यस् स्वाहा  
-५।१।१०५।१० भूतेभ्यस् स्वाहा  
-  
-५।१।१०६।१ नागेभ्यस् स्वाहा  
-५।१।१०६।२ लोक-पालेभ्यस् स्वाहा  
-५।१।१०६।३ भूस् स्वाहा  
-५।१।१०६।४ अतो देवा इदं विष्णुः  
-५।१।१०६।५ ब्रह्म जज्ञान(ग्)ं हिरण्य-गर्भः  
-५।१।१०६।६ रुद्रम् अन्यं त्र्य्-अम्बकम्  
-५।१।१०६।७ प्रजा-पते न त्वत् प्रजा-पतिर् जयान्[*९०]  
-५।१।१०६।८ ये ते शतम्  
-५।१।१०६।९ धर्मौघ-माता  
-५।१।१०६।१० शत-धारम् आग्नेयो यस्मात्  
-[*९०] प्रजापतिर् जयान् इन्द्राये वृष्णे  त्स् ३।४।४।१अ  
-
-५।१।१०७।१ त्रातारम् इन्द्रम् अग्निर् मूर्धा[*९१]  
-५।१।१०७।२ यमो दाधार वसवः प्रथमः  
-५।१।१०७।३ ये ते शतं मरुतः परमात्मा  
-५।१।१०७।४ मिश्र-वासस ईशानः  
-५।१।१०७।५ यद् अस्य कर्मणो ऽत्य् अरीरिचम्  
-५।१।१०७।६ शं नो देवीः  
-५।१।१०७।७ अथर्व-वेदम् आवाहयामि  
-५।१।१०७।८ क्षीरम् आवाहयामि  
-५।१।१०७।९ पवित्रम् आवाहयामि  
-५।१।१०७।१० पुण्यम् आवाहयामि  
-[*९१] तेxत्: मूर्था  
-
-५।१।१०८।१ क्षीरोदधिश् शेषश् शेष-शायिनः  
-५।१।१०८।२ अतो देवाः  
-५।१।१०८।३ उद्यन्तं वावादित्यम् अग्निर् अनुसमारोहति  
-५।१।१०८।४ योगीशाय स्वाहा  
-५।१।१०८।५ शेष-पर्यङ्क-शायिने स्वाहा  
-५।१।१०८।६ शब्द-ब्रह्मणे स्वाहा  
-५।१।१०८।७ समुद्रेभ्यस् स्वाहा  
-५।१।१०८।८ पर्वतेभ्यस् स्वाहा  
-५।१।१०८।९ देवेभ्यस् स्वाह  
-५।१।१०८।१० ऋषिभ्यस् स्वाःअ  
-  
-५।१।१०९।१ पितृभ्यस् स्वाहा  
-५।१।१०९।२ नागेभ्यस् स्वाहा  
-५।१।१०९।३ लोक-पालेभ्यस् स्वाहा  
-५।१।१०९।४ भूतेभ्यस् स्वाहा  
-५।१।१०९।५ इदम् आपश् शिवाः  
-५।१।१०९।६ पुण्य-तीर्थम् आवाहयामि  
-५।१।१०९।७ शिवम् आवाहयामि  
-५।१।१०९।८ पुण्यम् आवाहयामि  
-५।१।१०९।९ देवावासम् आवाहयामि  
-५।१।१०९।१० विष्णोर् नु कम्  
-  
-५।१।११०।१ पुरुषम् आवाहयामि  
-५।१।११०।२ सत्यम् आवाहयामि  
-५।१।११०।३ अच्युतम् आवाहयामि  
-५।१।११०।४ अनिरुद्धम् आवाहयामि  
-५।१।११०।५ न्यक्षम् आवाहयामि  
-५।१।११०।६ विवस्वतम् आवाहयामि  
-५।१।११०।७ मित्रम् आवाहयामि  
-५।१।११०।८ क्षत्तारम् आवाहयामि  
-५।१।११०।९ धर्मम् आवाहयामि  
-५।१।११०।१० ज्ञानम् आवाहयामि  
-  
-५।१।१११।१ वैराग्यम् आवाहयामि  
-५।१।१११।२ ऐश्वर्यम् आवाहयामि  
-५।१।१११।३ चक्रम् आवाहयामि  
-५।१।१११।४ शङ्खम् आवाहयामि  
-५।१।१११।५ गदाम् आवाहयामि  
-५।१।१११।६ शार्ङ्गम् आवाहयामि  
-५।१।१११।७ पद्मम् आवाहयामि  
-५।१।१११।८ खड्गम् आवाहयामि  
-५।१।१११।९ मुसलम् आवाहयामि  
-५।१।१११।१० वन-मालाम् आवाहयामि  
-  
-५।१।११२।१ इन्द्रम् आवाहयामि  
-५।१।११२।२ यमम् आवाहयामि  
-५।१।११२।३ वरुणम् आवाहयामि  
-५।१।११२।४ कुबेरम् आवाहयामि  
-५।१।११२।५ अग्निम् आवाहयामि  
-५।१।११२।६ निरृतिम् आवाहयामि  
-५।१।११२।७ वायुम् आवाहयामि  
-५।१।११२।८ ईशानम् आवाहयामि  
-५।१।११२। ९ शेषम् आवाहयामि  
-५।१।११२।१० आपो हि ष्ठा मयो-भुवः  
-५।१।११२।११ धाता ददातु न  
-इमम् मे वरुण  
-प्रजा-पते न त्वद्  
-अग्निर् भूतानाम्  
-ऋता-षाट्  
-५।१।११२।१२ अग्निर् मूर्धायम् अग्निर् यद् अस्य कर्मणो ऽत्य् अरीरिचम्  
-५।१।११२।१३ ये भूताः प्रचरन्ति  
-  
-५।१।०।२७ अव्यक्तम् आवाहयामि भूतेभ्यस् स्वाहाग्नेयो यस्मात् पुण्यम् आवाहयामि ऋषिभ्यस् स्वाहा विष्णोर् नु कम् आवाहयामि वन-मालाम् आवाहयामि मयो-भुवश् चत्वारि च  
-  
-५।१।११३।१ अग्निम् ईले  
-५।१।११३।२ इषे त्वोर्जे त्वा  
-५।१।११३।३ अग्न आ याहि शं नो देवीः  
-५।१।११३।४ आशासु सप्तसु  
-५।१।११३।५ सोम(ग्)ं राजानम्  
-५।१।११३।६ महीम् आवाहयामि  
-५।१।११३।७ विष्णुम् आवाहयामि  
-५।१।११३।८ अग्निम् आवाहयामि  
-५।१।११३।९ वासुकिम् आवाहयामि  
-५।१।११३।१० अग्न आ याह्य् आयुर्-दा अग्ने ऽग्निं दूतम् अग्निर् मूर्धा[*९२]  
-[*९२] तेxत्: मूर्था  
-
-५।१।११४।१ वैश्वानरस्य रूपम्  
-५।१।११४।२ जात-वेदो भुवनस्यायुर्-दा अग्ने  
-५।१।११४।३ उपावरोह  
-५।१।११४।४ घृत-प्रतीकः  
-५।१।११४।५ अग्निर् इन्द्रो वरुणो मित्रो अर्यमा[*९३] वायुः पूषा सरस्वती स-जोषसः  
-५।१।११४।६ आदित्या विष्णुर् मरुतः स्वर् बृहत्-सोमो रुद्रो अदितिर् ब्रह्मणस्पतिः  
-५।१।११४।७ एतो न्व् इन्द्रम्  
-५।१।११४।८ वास्तोष्-पते ऽणोर् अणीयान्  
-५।१।११४।९ धारासु सप्तसु  
-५।१।११४।१० अणोर् अणीयान् अथावनीदम् अस्त्व् आसनम्  
-५।१।११४।११ अग्निम् ईले  
-५।१।११४।१२ एतो न्व् इन्द्रम् उपावरोह  
-५।१।११४।१३ जात-वेदो भुवनस्य  
-५।१।११४।१४ अग्न आ याह्य्  
-अयन् ते योनिर्  
-मयि गृह्णाम्य् अग्रे  
-घृत-प्रतीको  
-जात-वेदो भुवनस्य  
-[*९३] तेxत्: आर्यमा  
-
-५।१।०।२८ मूर्धासन(ग्)ं[*९४] चत्वारि च  
-[*९४] तेxत्: मूर्थासन(ग्)ं  
-
-५।१।११५।१ गार्हपत्य-यज्ञम् आवाहयामि  
-५।१।११५।२ यज्ञ-दैवत-विश्वान् देवान् आवाहयामि  
-५।१।११५।३ ॐ भूः पुरुषम् आवाहयामि  
-५।१।११५।४ अच्युतम् आवाहयामि  
-५।१।११५।५ अन्वाहार्य-यज्ञम् आवाहयामि  
-५।१।११५।६ यज्ञ-दैवत-विश्वान् देवान् आवाहयामि  
-५।१।११५।७ ॐ भुवः पुरुषम् आवाहयामि  
-५।१।११५।८ सत्यम् आवाहयामि  
-५।१।११५।९ आहवनीय-यज्ञम् आवाहयामि  
-५।१।११५।१० यज्ञ-दैवत-विश्वान् देवान् आवाहयामि  
-  
-५।१।११६।१ ओ(ग्)ं सुवः पुरुषम् आवाहयामि  
-५।१।११६।२ पुरुषम् आवाहयामि  
-५।१।११६।३ आवसक्थ्य-यज्ञम् आवाहयामि  
-५।१।११६।४ यज्ञ-दैवत-विश्वान् देवान् आवाहयामि  
-५।१।११६।५ ॐ महः पुरुषम् आवाहयामि  
-५।१।११६।६ अनिरुद्धम् आवाहयामि  
-५।१।११६।७ सभ्य-यज्ञम् आवाहयामि  
-५।१।११६।८ यज्ञ-दैवत-विश्वान् देवान् आवाहयामि  
-५।१।११६।९ ॐ जनः पुरुषम् आवाहयामि  
-५।१।११६।१० विष्णुम् आवाहयामि  
-  
-५।१।११७।१ पौण्डरीक-यज्ञम् आवाहयामि  
-५।१।११७।२ यज्ञ-दैवत-विश्वान् देवान् आवाहयामि  
-५।१।११७।३ ॐ तपः पुरुषम् आवाहयामि  
-५।१।११७।४ वासुदेवम् आवाहयामि  
-५।१।११७।५ श्रामणक-यज्ञम् आवाहयामि  
-५।१।११७।६ यज्ञ-दैवत-विश्वान् देवान् आवाहयामि  
-५।१।११७।७ ओ(ग्)ं सत्यं पुरुषम् आवाहयामि  
-५।१।११७।८ नारायणम् आवाहयामि  
-५।१।११७।९ औपासन-यज्ञम् आवाहयामि  
-५।१।११७।१० यज्ञ-दैवत-विश्वान् देवान् आवाहयामि  
-५।१।११७।११ अतो देवाः  
-  
-५।१।०।२९ विश्वान् देवान् आवाहयामि विष्णुम् आवाहयामि देवान् आवाहयाम्य्  एकञ् च  
-  
-५।१।११८।१ इषे त्वोर्जे त्वा स्वस्ति-दा विशस्-पतिः  
-५।१।११८।२ इन्द्रं नरो नेमधिता हवन्ते यत् पार्या युनजते धियस् ताः  
-शूरो नृ-षाता शवसश् चकान आ गो-मति व्रजे भजा त्वं नः  
-५।१।११८।३ शुची वो हव्या  
-५।१।११८।४ इमे धूपास् सुरभिनो[*९५] दिव्य-धूपाधिवासिताः  
-५।१।११८।५ पूता ब्रह्म-पवित्रेण पूतास् सूर्यस्य रश्मिभिः  
-५।१।११८।६ आद्यम् अभिगृह्णामीदम् आपश् शिवाः  
-५।१।११८।७ विश्वतश् चक्षुर् उत विश्वतो मुखो विश्वतो हस्त उत विश्वतस् पात्  
-सं बाहुभ्यां नमति सम्पतत्रैर् द्यावा पृथिवी जनयन् देव एकः  
-५।१।११८।८ नमस् सुलोम सुलोमि  
-धारासु सप्तसु  
-५।१।११८।९ आप उन्दन्तु जीवसे दीर्घायुत्वाय वर्चस ओषधे त्रयस् वैन(ग्ग्)ं स्वधिते मैन(ग्)ं हि(ग्)ंसीर् देव-श्रूर् एतानि प्रवपे स्वस्त्य् उत्तराण्य् अशी यापो अस्मान् मातरश् शुन्धन्तु घृतेन नो घृत-पुवः पुनन्तु विश्वम् अस्मत् प्रवहन्तु रिप्रम् उदाभ्यश् शुचिरा पूत एमि सोमस्य तनूर् असि तनुवं मे पाहि महीनां पयो ऽसि वर्चो-धा असि वर्चोमयि धेहि वृत्रस्य कनीनिकासि चक्षुष्-पा असि चक्षुर् मे पाहि चित्-पतिस् त्वा पुनातु वाक्-पतिस् त्वा पुनातु देवस् त्वा सविता पुनात्व् अच्छिद्रेण पवित्रेण वसोस् सूर्यस्य रश्मिभिस् तस्य ते पवित्र-पते पवित्रेण यस्मै कं पुने तच् छकेयम् आ वो देवास ईमहे सत्य-धर्माणो अध्वरे यद् वो देवास आगुरे यज्ञियासो हवामह इन्द्राग्नी द्यावा-पृथिवी आप ओषधीस् त्वं दीक्षाणाम् अधिपतिर् असीह मा सन्तं पाहि  
-[*९५] अड़्तेर् सुरभिनो थे तेxत् अगैन् हस् धूपा, wहिछ् हस् बेएन् रेमोवेद् इन् चोन्ड़ोर्मित्य् wइथ् व्म्प् ५।१।१३१।१० अन्द् ८।१।७९।१।  
-
-५।१।०।३०।१ सप्तस्व् एकञ् च  
-  
-५।१।११९।१ आपो वा इद(ग्)ं सर्वं विश्वा भूतान्य् आपः प्राणा वा आपः पशव आपो ऽमृतम् आपो इन्नम् आपस् सम्राड् आपो विराड् आपस् स्वराड् आपश् छन्दा(ग्)ंस्य् आपो ज्योती(ग्)ंष्य् आपस् सत्यम् आपस् सर्वा देवता आपो भूर् भुवस् सुवर् आप ॐ  
-५।१।११९।२ तेजोवत् स्यावः  
-५।१।११९।३ ॐ नमो विष्णवे  
-५।१।११९।४ ॐ नमो नारायणाय  
-५।१।११९।५ ॐ नमो भगवते वासुदेवाय  
-५।१।११९।६ भूय आत्म-वृत्या  
-५।१।११९।७ नमस् सुलोम स एको भूद्[*९६] देवस्य त्वा सवितुर् अतो देवा क्ष्माम् एकाम्  
-५।१।११९।८ तन् मा यशो ऽग्रे ब्रह्मा देवानां भूमान् अन्तो ऽग्रे  
-५।१।११९।९ तन् मा यशो ऽग्रे शत-धार(ग्)ं तम् एक-नेमिं प्रजा-पतिं प्रथमम्[*९७] (?)[*९८] नारायणाय विद्महे  
-५।१।११९।१० नारायणाय  
-५।१।११९।११ सोम(ग्)ं राजानम्  
-५।१।११९।१२ इयं जाग्रतिः प्रथमं प्रविश्य देवा भवन्तु मनु-जा वरेण्यः  
-५।१।११९।१३ महात्मन्ने नो हरते नमस् ते  
-५।१।११९।१४ अघौघ-विध्वंसम् अमुं कुरुष्व  
-५।१।११९।१५ विष्णुर् मां रक्षतु  
-५।१।११९।१६ ॐ केशवाय नमः  
-५।१।११९।१७ ॐ अम्  
-[*९६] तेxत्: भूर्  
-[*९७] प्रजापतिं प्रथमं यज्ञियानाम्  म्स् ४।१४।१च्; त्ब् २।८।१।४अ; अप्श् २०।२०।९अ  
-[*९८] क़ुएस्तिओन् मर्क् अप्पेअर्स् इन् थे व्म्प् तेxत् अन्द् अल्सो इन् थे ड़ोल्लोwइन्ग् ड़ोओत्नोते: (?) वरं विष्णुर् वरेणीयं भर्गो माया च धीमहि । तं नो विष्णुः प्रचोदयात् (इति कैश्चित्)  
-
-५।१।०।३१ विद्महे ऽष्टाउ च  
-  
-५।१।१२०।१ आत्मात्मा परमान्तरात्मा मह्य्-अन्तरात्मा यश् चातिरात्मा सतनो ऽन्तरात्मा व्यावेष्टि विश्व(ग्)ं सकलं बिभर्ति यो व्यक्त-पुण्यस् स-तुनः प्रधानः  
-५।१।१२०।२ प्राणः प्रणीतिस् स उदान आदिर् वर-दो वराहो व्यानश् च मे स्यात् तपसाञ् च मूर्तिः कपिलो मुनीन्द्रो यश् चापानो हयशीर्षो नः  
-५।१।१२०।३ यत् सर्वम् अश्नात्य्[*९९] अजरस् समग्र(ग्)ं श्रियम् ऊर्ज-युक्तां स तु मे समानः  
-५।१।१२०।४ बलम् आसुरं यत् सततं निहन्ता ब्रह्मा बुद्धिर् मे गोप ईश्वरः  
-५।१।१२०।५ सविता च वीर्यम् इन्दुश् च धातु[*१००]-रस-भूत-भूता भूतास् स-भूताः  
-५।१।१२०।६ द्यौर् मे अस्तु मूर्धोदर-नाभो[*१०१] वा भूमिर् यथाङ्घ्रिर्[*१०२] ववृधे ऽहम् ईशः  
-५।१।१२०।७ अस्थीनि मे स्युर् अथ पर्वताख्या भुजगाश् च केशा दिवि ये चरन्तः  
-५।१।१२०।८ द्वौ नेत्र-रूपौ विथु पृश्च्नि [?] मुख्यौ रुधिरञ् च सार(ग्)ं सकलञ् च तोयम्  
-५।१।१२०।९ स्नायवो मे आसन्ना द्यौर् भृगुर् मे हृदयम् अस्तु  
-सर्वे अन्ये मुनयो ऽङ्ग-भूता वेदा मे आस्यं जिह्वा मे सरस्वती  
-५।१।१२०।१० दन्ता मरुत उपजिह्वा उपश्रुतिः  
-५।१।१२०।११ वृषणौ मित्रा-वरुणाव् उपस्थः प्रजा-पतिर् आन्त्रा मे वेदाश् श्रुति[*१०३]-स्मृती मेदाधारणे  
-५।१।१२०।१२ स्वेदम् मे वर्षं मूत्र कोश(ग्)ं समुद्रं पुरीषं काञ्चनम्  
-५।१।१२०।१३ सावित्री गायत्री मर्यादा वेदि-हृत्-पुण्डरीके विमले प्रविष्टस् सकलस् स-लक्ष्मीस् स-विभूतिकाङ्गो यत् सर्वं पुण्यं मय्य् अधिष्ठानम् अस्तु  
-५।१।१२०।१४ सर्वेषां देवानाम् आत्मकस् सर्वेषां मुनीनाम् आत्मकस् तपो-मूर्तिर् इह पुण्य-मूर्तिर् आसन्[*१०४]  
-५।१।१२०।१५ सहस्र-शीर्षा पुरुषः  
-[*९९] तेxत्: अश्ञ्छात्य्  
-[*१००] तेxत्: थातु  
-[*१०१] थे १९४६ एदितिओन् रेअद्स्: मूर्धोदरन् नभो  
-[*१०२] तेxत्: यधाङ्घ्रिर्  
-[*१०३] तेxत्: श्रुतिस्  
-[*१०४] तेxत्: आसन्न्  
-
-५।१।०।३२ सरस्वती षट् च  
-  
-५।१।१२१।१[*१०५] अणोर् अणीयान् महतो महीयान् आत्मा गुहायां निहितो ऽस्य जन्तोः  
-तम् अक्रतुं पश्यति वीत-शोको धातुः प्रसादान् महिमानम् ईशम्  
-५।१।१२१।२[*१०६] सप्त-प्राणाः प्रभवन्ति तस्मात्[*१०७] सप्तार्चिषस् समिधस् सप्तजिह्वाः  
-सप्त इमे लोका येषु चरन्ति प्राणा गुहाशयां[*१०८] निहितास् सप्त-सप्त  
-५।१।१२१।३[*१०९] अतस् समुद्रा गिरयश् च सर्वे ऽस्मात्[*११०] स्यन्दन्ते सिन्धवस् सर्व-रूपाः  
-अतश् च विश्वा ओषधयो रसाश्[*१११] च येनैष भूतस्[*११२] तिष्ठत्य्[*११३] अन्तरात्मा  
-५।१।१२१।४[*११४] ब्रह्मा देवानां पदवीः कवीनाम् ऋषिर् विप्राणां महिषो मृगाणाम्  
-श्येनो गृध्राणा(ग्)ं स्वधितिर् वनाना(ग्)ं सोमः पवित्रम् अत्य् एति रेभन्[*११५]  
-५।१।१२१।५[*११६] अजाम् एकां लोहित-शुक्ल-कृष्णां बह्वीं प्रजां जनयन्ती(ग्)ं स-रूपाम्  
-अजो ह्य् एको जुषमाणो ऽनुशेते जहात्य् एनां भुक्त-भोगाम् अजो ऽन्यः  
-[*१०५] महानु उस् ८।३; स्wव् १२।१  
-[*१०६] महानु उस् ८।४; स्wव् १२।२  
-[*१०७] तेxत्: तस्माथ्  
-[*१०८] उस् गुहाशया; स्wव् गुहाशयात्  
-[*१०९] महानु उस् ८।५; स्wव् १२।३  
-[*११०] तेxत्: ऽस्माथ्; उस् अस्मात्  
-[*१११] उस् रसश्  
-[*११२] उस् भूतैस्  
-[*११३] उस् तिष्ठते ह्य्  
-[*११४] महानु उस् ९।१; स्wव् १२।४  
-[*११५] तेxत्: रेभन्न्  
-[*११६] महानु उस् ९।२; स्wव् १२।५  
-
-५।१।१२२।१[*११७] ह(ग्)ंसश् शुचि-षद् वसुर् अन्तरिक्ष-सद् धोता वेदि-षद् अतिथिर् दुरोण-सत्  
-नृ-षद् वर-सद् ऋत-सद् व्योम-सद् अब्-जा गो-जा ऋत-जा अद्रि-जा ऋतं बृहत्  
-५।१।१२२।२[*११८] यस्माज्[*११९] जाता न परा नैव किञ्चनास[*१२०] य आविवेश भुवनानि विश्वा  
-प्रजा-पतिः प्रजया संविदानस् त्रीणि ज्योती(ग्)ंषि सचते स षोडशी  
-५।१।१२२।३[*१२१] विधर्तार(ग्)ं हवामहे वसोः कुविद् वनाति नः  
-सवितारं नृ-चक्षसम्  
-५।१।१२२।४[*१२२] अद्या नो देव सवितः प्रजावत्[*१२३] सावीस् सौभगम्  
-परा दुष्वप्निय(ग्)ं[*१२४] सुव  
-५।१।१२२।५[*१२५] विश्वानि देव सवितर् दुरितानि परा सुव  
-यद् भद्रं तन् म[*१२६] आ सुव  
-[*११७] महानु उस् ९।३; स्wव् १२।६  
-[*११८] महानु उस् ९।४; स्wव् १२।६अ  
-[*११९] उस् यस्मान्  
-[*१२०] उस् न जातः परो अन्यो अस्ति रेप्लचेस् जात्ऩ् न परा नैव किञ्चन्ऩ्स  
-[*१२१] महानु उस् ९।५; स्wव् १२।६ब्  
-[*१२२] महानु उस् ९।६; स्wव् ३९।२  
-[*१२३] तेxत्: प्रजावथ्  
-[*१२४] उस् दुःष्वप्नियं; स्wव् दुःस्वप्नियं  
-[*१२५] महानु उस् ९।७; स्wव् ३९।३  
-[*१२६] उस्, र्व्, एत्च्।  न  
-
-५।१।१२३।१[*१२७] मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः[*१२८]  
-माध्वीर् नस् सन्त्व् ओषधीः  
-५।१।१२३।२[*१२९] मधु नक्तम् उतोषसि[*१३०] मधु-मत् पार्थिव(ग्)ं रजः  
-मधु द्यौर् अस्तु नः पिता  
-५।१।१२३।३[*१३१] मधुमान् नो वनस्-पतिर् मधुमा(ग्)ं अस्तु सूर्यः  
-माध्वीर् गावो भवन्तु नः  
-५।१।१२३।४[*१३२] घृतं मिमिक्षे[*१३३] घृतम् अस्य योनिर् घृते श्रितो घृतम् उव्[*१३४] अस्य धाम  
-अनुष्वधम् आ वह मादयस्व स्वाहा-कृतं वृषभ वक्षि हव्यम्  
-५।१।१२३।५[*१३५] समुद्राद् ऊर्मिर् मधुमा(ग्)ं उद् आरद् उपा(ग्)ंशुना सम् अमृतत्वम् आनट्  
-घृतस्य नाम गुह्यं यद् अस्ति जिह्वा देवानाम् अमृतस्य नाभिः  
-[*१२७] महानु उस् ९।८; स्wव् ३९।४  
-[*१२८] तेxत्: सिन्थवः  
-[*१२९] महानु उस् ९।९; स्wव् ३९।५  
-[*१३०] उस्, र्व् उतोषसो; त्स् उतोषसि  
-[*१३१] महानु उस् ९।१०; स्wव् ३९।६  
-[*१३२] महानु उस् ९।११; स्wव् १२।७  
-[*१३३] स्wव् मिमिक्षिरे।  थिस् तेxत् हेरे ड़ोल्लोwस् थे त, wहिछ् इस् अल्सो मिमिक्षिरे।  
-[*१३४] उस्, र्व् व्  
-[*१३५] महानु उस् ९।१२; स्wव् १२।८  
-
-५।१।१२४[*१३६]।१[*१३७] वयं नाम प्र ब्रवामा घृतेनास्मिन्[*१३८] यज्ञे धारयामा[*१३९] नमोभिः  
-उप ब्रह्मा शृणवच् छस्यमानं चतुश्-शृङ्गो ऽवमीद् गौर एतत्  
-५।१।१२४।२[*१४०] चत्वारि शृङ्गा त्रयो अस्य पादा द्वे शीर्षे सप्त हस्तासो अस्य  
-त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्या(ग्)ं आ विवेश  
-५।१।१२४।३[*१४१] त्रिधा हितं पणिभिर् गुह्यमानं गवि देवासो घृतम् अन्व् अविन्दन्[*१४२]  
-इन्द्र एक(ग्)ं सूर्य एकं जजान वेनाद् एक(ग्ग्)ं स्वधया निष् टतक्षुः  
-५।१।१२४।४[*१४३] यो देवानां प्रथमं पुरस्ताद् विश्वाधिको रुद्रो महर्षिः  
-हिरण्य-गर्भं पश्यत जायमान(ग्)ं स नो देवश् शुभया स्मृत्या संयुनक्तु[*१४४]  
-५।१।१२४।५[*१४५] यस्मात् परं नापरम् अस्ति किञ्चिद् यस्मान् नाणीयो न ज्यायो ऽस्ति कश्चित्  
-वृक्ष इव स्तब्धो दिवि तिष्ठत्य् एकस् तेनेदं पूर्णं पुरुषेन सर्वम्  
-५।१।१२४।६[*१४६] न कर्मणा न प्रजया[*१४७] धनेन त्यागेनैके अमृतत्वम् आनशुः  
-परेण नाकं निहितं गुहायां विभ्राजते यद् यतयो विशन्ति  
-५।१।१२४।७[*१४८] वेदान्त-विज्ञान-सुनिश्चितार्थास्[*१४९] सन्न्यास-योगाद् यतयश् शुद्ध-सत्त्वाः  
-ते ब्रह्म-लोके तु[*१५०] परान्त-काले परामृतात्[*१५१] परिमुच्यन्ति सर्वे  
-५।१।१२४।८[*१५२] दहरं[*१५३] विपाप्मं[*१५४] पर-वेश्म-भूतं[*१५५] यत् पुण्डरीकं पुर--मध्य-स(ग्ग्)ंस्थम्  
-तत्रापि दहरं[*१५६] गगनं विशोकस्[*१५७] तस्मिन् यदन्तस् तद् उपासितव्यम्  
-५।१।१२४।९[*१५८] यद्[*१५९] वेदादौ स्वरः प्रोक्तो वेदान्ते च प्रतिष्ठितः  
-तस्य प्रकृति-लीनस्य यः परस् स महेश्वरः  
-[*१३६] व्म्प् तेxत् इन्चोर्रेच्त्ल्य् नुम्बेर्स् थिस् सेच्तिओन् अस् ११४।  
-[*१३७] महानु उस् ९।१३; स्wव् १२।९  
-[*१३८] उस्, र्व् घृतस्यास्मिन्; स्wव् घृतेनास्मिन्  
-[*१३९] तेxत्: धारायामा चोर्रेच्तेद् तो  धारयामा। उस्, स्wव् धारयामा  
-[*१४०] महानु उस् १०।१; स्wव् १२।१०  
-[*१४१] महानु उस् १०।२; स्wव् १२।११  
-[*१४२] तेxत्: अविन्दन्न्  
-[*१४३] महानु उस् १०।३; स्wव् १२।१२  
-[*१४४] उस् संयुनक्ति  
-[*१४५] महानु उस् १०।४; स्wव् १२।१३  
-[*१४६] महानु उस् १०।५; स्wव् १२।१४  
-[*१४७] तेxत्: प्रया  
-[*१४८] महानु उस् १०।६; स्wव् १२।१५  
-[*१४९] स्wव् -विनिश्चितार्थास् रेप्लचेस् -सुनिश्चितार्थास्  
-[*१५०] उस् -लोकेषु रेप्लचेस् -लोके तु  
-[*१५१] उस् परामृताः  
-[*१५२] महानु उस् १०।७; स्wव् १२।१६  
-[*१५३] उस्, स्wव् दह्रं  
-[*१५४] स्wव् विपापं  
-[*१५५] उस् वरं वेश्म-भूतं रेप्लचेस् पर-वेश्म-भूतं  
-[*१५६] उस् दह्रं; स्wव् दह्रे  
-[*१५७] स्wव् विशोकं  
-[*१५८] महानु उस् १०।८; स्wव् १२।१७  
-[*१५९] उस्, स्wव् यो  
-
-५।१।०।३३ अजो ऽन्यस् सुव नाभिस् सर्वम् अष्टाउ च[*१६०]  
-[*१६०] उस् अजो ऽन्यस् सुविभा नाभिः सर्वम् अस्यैव; स्wव् ओमित्स्  
-
-५।१।१२५।१ अतो देवा इदं विष्णुः  
-५।१।१२५।२ ओम्[*१६१]  
-५।१।१२५।३[*१६२] सहस्र-शीर्षं देवं विश्वाक्षं[*१६३] विश्व-शम्भुवम्  
-विश्वं नारायणं देवम् अक्षरं परमं प्रभुम्[*१६४]  
-५।१।१२५।४[*१६५] विश्वतः परमं नित्यं विश्वं नारायण(ग्)ं हरिम्  
-विश्वम् एवेदं पुरुषस् तद् विश्वम् उपजीवति  
-५।१।१२५।५[*१६६] पतिम् विश्वस्यात्मेश्वर(ग्)ं शाश्वत(ग्)ं शिवम् अच्युतम्  
-नारायणं महा-ज्ञेयं विश्वात्मानं परायणम्  
-५।१।१२५।६[*१६७] नारायण-परं[*१६८] ब्रह्म तत्त्वं नारायणः परः  
-नारायण-परो[*१६९] ज्योतिर् आत्मा नारायणः परः[*१७०]  
-[*१६१] व्म्प् इन्सेर्त्स् ५।१।१२५।१-२, थेन् चोन्तिनुएस् wइथ् wइथ् महानु।  
-[*१६२] महानु उस् ११।१; स्wव् १३।१  
-[*१६३] उस् विश्वाख्यं  
-[*१६४] स्wव् प्रभु(पद)म्  
-[*१६५] महानु उस् ११।२; स्wव् १३।२  
-[*१६६] महानु उस् ११।३; स्wव् १३।३  
-[*१६७] महानु उस् ११।४; स्wव् १३।४  
-[*१६८] उस्, स्wव् नारायणः परं  
-[*१६९] उस्, स्wव् नारायणः परो  
-[*१७०] व्म्प् हेरे ओमित्स् उस् ११।५: नारायणः परो ध्याता ध्यानं नारायणः परः* । पदाद् अपि परश् चासु तस्माद् यस् तु परात् परः ॥ *स्wव् गिवेस् थे ड़िर्स्त् लिने ओन्ल्य् इन् ब्रच्केत्स् ड़ोल्लोwइन्ग् स्wव् १३।४  
-
-५।१।१२६।१[*१७१] यच् च किञ्चिज् जगत्य् अस्मिन् दृश्यते श्रूयते ऽपि वा  
-अन्तर् बहिश् च तत्[*१७२] सर्वं व्याप्य नारायणस् स्थितः  
-५।१।१२६।२[*१७३] अनन्तम् अव्ययं कवि(ग्)ं समुद्रे इन्तं[*१७४] विश्व-शम्भुवम्  
-पद्म-कोश-प्रतीकाश(ग्)ं हृदयञ्[*१७५] चाप्य् अधो मुखम्  
-५।१।१२६।३[*१७६] अधो निष्ट्या वितस्त्यान् तु[*१७७] नाभ्याम् उपरि तिष्ठति  
-हृदयं तद् विजानीयाद् विश्वस्यायतनम् महत्  
-५।१।१२६।४[*१७८] सन्तत(ग्)ं[*१७९] सिराभिस् तु लम्बत्य् आकोश-सन्निभम्  
-तस्यान्ते सुषिर(ग्)ं सूक्ष्मं तस्मिन्त्[*१८०] सर्वं प्रतिष्ठितम्  
-५।१।१२६।५[*१८१] तस्य मध्ये महान् अग्निर् विश्वार्चिर् विश्वतो मुखः  
-सो ऽग्र-भुग् विभजन्[*१८२] तिष्ठन्न् आहारम् अजरः[*१८३] कविः[*१८४]  
-५।१।१२६।६[*१८५] सन्तापयति स्वं देहम् आ-पाद-तल-मस्तकम्  
-तस्य मध्ये वह्नि-शिखा अणीयोर्ध्वा व्यवस्थितः[*१८६]  
-५।१।१२६।७[*१८७] नील-तोय-द-मध्य-स्था विद्युल्-लेखेव भास्वरा[*१८८]  
-नीवार-शूकवत् तन्वी पीताभा स्यात् तनूपमा[*१८९]  
-५।१।१२६।८[*१९०] तस्याश् शिखाया मध्ये परमात्मा व्यवस्थितः  
-स ब्रह्मा स शिवस् सेन्द्रस् सो ऽक्षरः परमस् स्व-राट्[*१९१]  
-५।१।१२६।९[*१९२] ऋत(ग्)ं सत्यं परं ब्रह्म पुरुषं कृष्ण-पिङ्गलम्[*१९३]  
-ऊर्ध्व-रेतं विरूपाक्षं विश्व-रूपाय वै[*१९४] नमः  
-[*१७१] महानु उस् ११।६; स्wव् १३।५  
-[*१७२] तेxत्: तथ्  
-[*१७३] महानु उस् ११।७; स्wव् १३।६  
-[*१७४] उस् तं  
-[*१७५] उस् सुषिरं  
-[*१७६] महानु उस् ११।८; स्wव् १३।७  
-[*१७७] स्wव् वितस्त्यान्ते रेप्लचेस् वितस्त्यान् तु  
-[*१७८] महानु उस् ११।९; स्wव् १३।८  
-[*१७९] उस् सततं तु  
-[*१८०] तेxत्: तस्मिन्थ्  चोर्रेच्तेद् तो तस्मिन्त्,  उस् तस्मिन्त्।  
-[*१८१] महानु उस् ११।१०; स्wव् १३।९  
-[*१८२] उस् विभजंस्  
-[*१८३] उस् अक्षरः  
-[*१८४] स्wव् इन्सेर्त्स्, इन् ब्रच्केत्स्, अड़्तेर् स्wव् १३।९: तिर्यग् ऊर्ध्वम् अधः शायी रश्मयस् तस्य सन्तता(ः)  
-[*१८५] महानु उस् ११।११; स्wव् १३।१०  
-[*१८६] उस्, स्wव् व्यवस्थिता  
-[*१८७] महानु उस् ११।१२; स्wव् १३।११  
-[*१८८] उस् भासुरा  
-[*१८९] स्wव् पीता भास्वत्य् अनुपमा रेप्लचेस् पीताभा स्यात् तनूपमा  
-[*१९०] महानु उस् ११।१३; स्wव् १३।१२  
-[*१९१] व्म्प् हेरे ओमित्स् उस् ११।१४-१५  
-[*१९२] महानु उस् १२।१; स्wव् २३।१  
-[*१९३] तेxत्: पिङ्गऌअम्  
-[*१९४] उस् इन्सेर्त्स् नमो अड़्तेर् वै  
-
-५।१।०।३४ परः कविर् अष्टाउ च  
-  
-५।१।१२७।१ ॐ आयातु भगवान्  
-५।१।१२७।२ ॐ आश्रावय  
-५।१।१२७।३ ॐ अस्तु श्रौषट्  
-५।१।१२७।४ ॐ यज  
-५।१।१२७।५ ॐ ये यजामहे  
-५।१।१२७।६ ॐ वौषट्  
-५।१।१२७।७ ॐ सहस्र-शीर्षा पुरुषः  
-५।१।१२७।८ विष्णोर् नु कम्  
-५।१।१२७।९ एकाक्षरम्  
-५।१।१२७।१० हिरण्य-वर्णां भूमिर् भूम्ना  
-५।१।१२७।११ अतो देवाः  
-  
-५।१।०।३५ भूम्नैकं च  
-  
-५।१।१२८।१ अथर्व-वेदम् आवाहयामि  
-५।१।१२८।२ अश्विनाव् आवाहयामि  
-५।१।१२८।३ साम-वेदम् आवाहयामि  
-५।१।१२८।४ वत्सरान् आवाहयामि  
-५।१।१२८।५ ऋग्-वेदम् आवाहयामि  
-५।१।१२८।६ वायुम् आवाहयामि  
-५।१।१२८।७ आदित्यम् आवाहयामि  
-५।१।१२८।८ अप्सरस आवाहयामि  
-५।१।१२८।९ काश्यपम् आवाहयामि  
-५।१।१२८।१० मरुत आवाहयामि  
-  
-५।१।१२९।१ मुनीनाम् आवाहयामि  
-५।१।१२९।२ तक्षकम् आवाहयामि  
-५।१।१२९।३ ऋतून् आवाहयामि  
-५।१।१२९।४ बृहस्पतिम् आवाहयामि  
-५।१।१२९।५ शं नो देवीः  
-५।१।१२९।६ अग्न आ याहि  
-५।१।१२९।७ अग्निम् ईले  
-५।१।१२९।८ पूतस् तस्य पारे भुवनस्य मध्ये नाकस्य पृष्ठे महतो महीयते  
-५।१।१२९।९ महद्भिस् स्ॐभसोर् भुवनयोर् गमनयोर् मेध्ययोर् विभवयोर् देवम् अभिसञ्जातम् अपि ब्रह्मा  
-५।१।१२९।१० सदा वेदास् तु यशो महान् यशो मह-द्युतिर् मह-मतिर् महान् पुरुषो ऽस्तु सदा-शिवः  
-  
-५।१।१३०।१ इमा ओषधयस् सम्बभूवुस् तास् ताः सर्वाः पवमाने  
-५।१।१३०।२ अनुगताश् शान्तिं कुर्वन्तु नः  
-५।१।१३०।३ अभि त्वा शूर नोनुमो दुग्धा इव धेनवः  
-ईशानम् अस्य जगतस् सुवर्दृशम् ईशानम् इन्द्र तस्थुषः  
-५।१।१३०।४ चत्वारि वाक् परिमिता पदानि तानि विदुर् ब्राह्मणा ये मनीषिणः  
-गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति  
-५।१।१३०।५ वारीश् चतस्रस् सदृशः कवीनां पत्युः प्रत्यावरिता क्षदंश् च  
-भूयो भूत्यै भुवनस्य पुष्ट्यै स्नायीत यस् सङ्गतं स्नापयामि  
-५।१।१३०।६ आपो हि ष्ठा मयो-भुवः  
-५।१।१३०।७ इषे त्वोर्जे त्वा  
-  
-५।१।१३१।१ आप उन्दन्तु  
-५।१।१३१।२ मित्रस् सुवर्णः  
-५।१।१३१।३ तेजोवत् स्यावः  
-५।१।१३१।४ सोमस्य तनूर् असि  
-५।१।१३१।५ भूतो भूतेषु  
-५।१।१३१।६ इमास् सुमनस श्रेष्ठा दिव्य-पुष्पाधिवासिताः  
-५।१।१३१।७ पूता ब्रह्म-पवित्रेण पूतास् सूर्यस्य रस्मिभिः  
-५।१।१३१।८ इमे गन्धास् सुरभिनो दिव्य-गन्धाधिवासिताः  
-५।१।१३१।९ पूता ब्रह्म-पवित्रेण पूतास् सूर्यस्य रस्मिभिः  
-५।१।१३१।१० इमे धूपास् सुरभिनो दिव्य-धूपाधिवासिताः  
-५।१।१३१।११ पूता ब्रह्म-पवित्रेण पूतास् सूर्यस्य रस्मिभिः  
-५।१।१३१।१२ शुभ्रा ज्योतिश् च देवानां तेजश् च सतत-प्रभः  
-प्रभास्-करो महा-तेजा दीपो ऽयं प्रतिगृह्याताम्  
-  
-५।१।०।३६ आवाहयामि शिवोर्जे त्वाधिवासितास् त्रीणि च  
-  
-५।१।१३२।१ धारासु सप्तसु  
-५।१।१३२।२ कृणुष्व पाजः प्रसितिं न पृथ्वीं याहि राजेवामवा(ग्)ं इभेन  
-तृष्वीम् अनु प्रसितिं द्रूणानो ऽस्तासि विध्य रक्षसस् तपिष्ठैः  
-५।१।१३२।३ तव भ्रमास आशुया पतन्त्य् अनु स्पृश धृषता शोशुचानः  
-तपू(ग्)ंष्य् अग्ने जुह्वा पतङ्गान् असन्दितो वि सृज विष्वग् उल्काः  
-५।१।१३२।५ प्रति स्पशो वि शृज तूर्णितमो भवा पायुर् विशो अस्या अदब्धः  
-यो नो दूरे अघश(ग्)ंसो यो अन्त्य् अग्ने माकिष् टे व्यथिर् आ दधर्षीत्  
-५।१।१३२।७ उद् अग्ने तिष्ठ प्रत्य् आ तनुष्व न्य् अमित्रा(ग्)ं ओषतात् तिग्महेते  
-यो नो अराति(ग्)ं समिधान चक्रे नीचा तं धक्ष्य् अतसं न शुष्कम्  
-५।१।१३२।९ ऊर्ध्वो भव प्रति विध्याध्य् अस्मद् आविष् कृणुष्व दैव्यान्य् अग्ने  
-अव स्थिरा तनुहि यातुजूनां जामिम् अजामिं प्र मृणीहि शत्रून्[*१९५]  
-[*१९५] थे व्म्प् तेxत् दिविदेस् थिस् वेर्से बेत्wएएन् त्wओ सेच्तिओन्स्, मकिन्ग् थे सेचोन्द् लिने ओड़् थिस् वेर्से थे ड़िर्स्त् लिने ओड़् छप्तेर् १३३। थे नुम्बेरिन्ग् हस् बेएन् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से नोw चोमेस् अत् थे एन्द् ओड़् छप्तेर् १३२।  
-
-५।१।१३३।१ स ते जानाति सुमतिं यविष्ठ य ईवते ब्रह्मणे गातुम् ऐरत्  
-विश्वान्य् अस्मै सुदिनानि रायो द्युम्नान्य् अर्यो वि दुरो अभि द्यौत्  
-५।१।१३३।२ सेद् अग्ने अस्तु सुभगस् सुदानुर् यस् त्वा नित्येन हविषा य उक्थैः  
-पिप्रीषति स्व आयुषि दुरोणे विश्वेद् अस्मै सुदिना सासद् इष्टिः  
-५।१।१३३।३ अर्चामि ते सुमतिं घोष्य् अर्वाक् सं ते वावाता जरताम् इयं गीः  
-स्वश्वास् त्वा सुरथा मर्जयेमास्मे क्षत्राणि धारयेर् अनु द्यून्  
-५।१।१३३।४ इह त्वा भूर्य् आ चरेद् उप त्मन् दोषा-वस्तर् दीदिवा(ग्)ंसम् अनु द्यून्  
-क्रीडन्तस् त्वा सुमनसस् सपेमाभि द्युम्ना तस्थिवा(ग्)ंसो जनानाम्  
-५।१।१३३।५ यस् त्वा स्वश्वस् सुहिरण्यो अग्न उपयाति वसुमता रथेन  
-तस्य त्राता भवसि तस्य सखा यस् त आतिथ्यम् आनुषग् जुजोषत्[*१९६]  
-[*१९६] थे व्म्प् तेxत् दिविदेस् थिस् वेर्से बेत्wएएन् त्wओ सेच्तिओन्स्, मकिन्ग् थे सेचोन्द् लिने ओड़् थिस् वेर्से थे ड़िर्स्त् लिने ओड़् छप्तेर् १३४। थे नुम्बेरिन्ग् हस् बेएन् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से नोw चोमेस् अत् थे एन्द् ओड़् छप्तेर् १३३।  
-
-५।१।१३४।१ महो रुजामि बन्धुता वचोभिस् तन् मा पितुर् गोतमाद् अन्व् इयाय  
-त्वन् नो अस्य वचसश् चिकिद्धि होतर् यविष्ठ सुक्रतो दमूनाः  
-५।१।१३४।२ अस्वप्नजस् तरणयस् सुशेवा[*१९७] अतन्द्रासो ऽवृका अश्रमिष्ठाः  
-ते पायवस् सध्रियञ्चो निषद्याग्ने तव नः पान्त्व् अमूर  
-५।१।१३४।३ ये पायवो मामतेयन् ते अग्ने पश्यन्तो अन्धं दुरिताद् अरक्षन्  
-ररक्ष तान्त्[*१९८] सुकृतो विश्व-वेदा दिप्सन्त इद् रिपवो नाह देभुः  
-५।१।१३४।४ त्वया वय(ग्)ं सधन्यस् त्वोतास् तव प्रणीत्य् अश्याम[*१९९] वाजान्  
-उभा श(ग्)ंसा सूदय सत्यताते ऽनुष्ठुया कृणुह्य् अह्रयाण  
-५।१।१३४।५ अया ते अग्ने समिधा विधेम प्रति स्तोम(ग्)ं शस्यमानं गृभाय  
-दहाशसो रक्षसः पाह्य् अस्मान् द्रुहो निदो मित्रमहो अवद्यात्[*२००]  
-[*१९७] तेxत्: सुश्शेवा  
-[*१९८] तेxत्: तान्थ्; त्स् तान्त्; र्व् तान्  
-[*१९९] त्स् आश्याम; र्व् अश्याम  
-[*२००] थे व्म्प् तेxत् दिविदेस् थिस् वेर्से बेत्wएएन् त्wओ सेच्तिओन्स्, मकिन्ग् थे सेचोन्द् लिने ओड़् थिस् वेर्से थे ड़िर्स्त् लिने ओड़् छप्तेर् १३५। थे नुम्बेरिन्ग् हस् बेएन् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से नोw चोमेस् अत् थे एन्द् ओड़् छप्तेर् १३४।  
-
-५।१।१३५।१ रक्षो-हणं वाजिनम् आ जिघर्मि मित्रं प्रथिष्ठम् उप यामि शर्म  
-शिशानो अग्निः क्रतुभिस् समिद्धस् स नो दिवा स रिषः पातु नक्तम्  
-५।१।१३५।२ वि ज्योतिषा बृहता भात्य् अग्निर् आविर् विश्वानि कृणुते महीत्वा  
-प्रादेवीर् मायास् सहते दुरेवाश् शिशीते शृङ्गे रक्षसे विनिक्षे  
-५।१।१३५।३ उत स्वानासो दिवि षन्त्व् अग्नेस् तिग्मायुधा रक्षसे हन्तवा उ  
-मदे चिद् अस्य प्र रुजन्ति भामा न वरन्ते परिबाधो अदेवीः  
-५।१।१३५।४ महा(ग्)ं इन्द्रो नृवद् आ चर्षणिप्राः  
-५।१।१३५।५ त्रातारम् इन्द्रम्  
-५।१।१३५।६ अग्निर् आयुष्मान्  
-५।१।१३५।७ स्वस्ति-दा विशस्-पतिः  
-  
-५।१।०।३७ अग्ने रथेन गृभायायुष्मान् एकञ् च  
-  
-५।१।१३६।१ वेदाहम् एतम्  
-५।१।१३६।२ ॐ शेषम् आवाहयामि  
-५।१।१३६।३ मित्रम् आवाहयामि  
-५।१।१३६।४ अत्रिम् आवाहयामि  
-५।१।१३६।५ विश्वम् आवाहयामि  
-५।१।१३६।६ शिवम् आवाहयामि  
-५।१।१३६।७ सनातनम् आवाहयामि  
-५।१।१३६।८ सनन्दनम् आवाहयामि  
-५।१।१३६।९ सनत्-कुमारम् आवाहयामि  
-५।१।१३६।१० सनकम् आवाहयामि  
-  
-५।१।१३७।१ जयाम् आवाहयामि  
-५।१।१३७।२ विजयाम् आवाहयामि  
-५।१।१३७।३ विन्दाम् आवाहयामि  
-५।१।१३७।४ नन्दाम् आवाहयामि  
-५।१।१३७।५ पुष्टिकाम् आवाहयामि  
-५।१।१३७।६ कुमुद्वतीम् आवाहयामि  
-५।१।१३७।७ उत्पलिकाम् आवाहयामि  
-५।१।१३७।८ विशोकाम् आवाहयामि  
-५।१।१३७।९ कनिक्रदज् जनुषम्  
-५।१।१३७।१० अश्विनौ वहतां वहेतां[*२०१] वहामि स(ग्)ंसृष्टं गरुड-रथं यथा-स्थानं वहामि  
-५।१।१३७।११ अज्ञानज्ञाउ द्वाव् इमाव् ईशानीशाव् अजौ ह्य् एको भोक्तृ भोज्यार्थ-युक्तः  
-५।१।१३७।१२ अनन्तात्मा विश्व-रूपो ह्य् अकर्ता कृतं यथा वेदयते ब्रह्म सम्पद्यते  
-५।१।१३७।१३ यद् वैष्णव(ग्)ं शयने शयानम्  
-५।१।१३७।१४ श्रिये जातो मेदिनी देवी  
-५।१।१३७।१५ ॐ विष्णुम् आवाहयामि  
-५।१।१३७।१६ विष्णोर् नु कं वीर्याणि  
-५।१।१३७।१७ अग्निम् ईले पुरोहितम्  
-५।१।१३७।१८ इषे त्वोर्जे त्वा  
-५।१।१३७।१९ अग्न आ याहि शं नो देवीः  
-[*२०१] १९४६ एदितिओन्: वहेतां; १९८४ एदितिओन्: हेतां व  
-
-५।१।०।३८ सनकम् आवाहयामि स्थानं वहामि नव च  
-  
-५।१।१३८।१ ॐ विष्णुम् आवाहयामि  
-५।१।१३८।२ श्रियम् आवाहयामि  
-५।१।१३८।३ हरिणीम् आवाहयामि  
-५।१।१३८।४ ॐ पुरुषम् आवाहयामि  
-५।१।१३८।५ कपिलम् आवाहयामि  
-५।१।१३८।६ सत्यम् आवाहयामि  
-५।१।१३८।७ यज्ञम् आवाहयामि  
-५।१।१३८।८ अच्युतम् आवाहयामि  
-५।१।१३८।९ नारायणम् आवाहयामि  
-५।१।१३८।१० अनिरुद्धम् आवाहयामि  
-  
-५।१।१३९।१ पुण्यम् आवाहयामि  
-५।१।१३९।२ वराहम् आवाहयामि  
-५।१।१३९।३ सुभद्रम् आवाहयामि  
-५।१।१३९।४ नारसिंहम् आवाहयामि  
-५।१।१३९।५ ईशितात्मानम्[*२०२] आवाहयामि  
-५।१।१३९।६ वामनम् आवाहयामि  
-५।१।१३९।७ सर्वोद्वहम् आवाहयामि  
-५।१।१३९।८ त्रिविक्रमम् आवाहयामि  
-५।१।१३९।९ सर्व-विद्येश्वरम् आवाहयामि  
-५।१।१३९।१० इन्द्रम् आवाहयामि  
-[*२०२] तेxत्: ईशितात्मनम्  
-
-५।१।१४०।१ यमम् आवाहयामि  
-५।१।१४०।२ वरुणम् आवाहयामि  
-५।१।१४०।३ कुबेरम् आवाहयामि  
-५।१।१४०।४ अग्निम् आवाहयामि  
-५।१।१४०।५ निरृतिम् आवाहयामि  
-५।१।१४०।६ वायुम् आवाहयामि  
-५।१।१४०।७ ईशानम् आवाहयामि  
-५।१।१४०।८ सुभद्रम् आवाहयामि  
-५।१।१४०।९ सर्वम् आवाहयामि  
-५।१।१४०।१० हयात्मकम् आवाहयामि  
-  
-५।१।१४१।१ सुखावहम् आवाहयामि  
-५।१।१४१।२ राम-देवम् आवाहयामि  
-५।१।१४१।३ संवहम् आवाहयामि  
-५।१।१४१।४ पुण्य-देवम् आवाहयामि  
-५।१।१४१।५ सुवहम् आवाहयामि  
-५।१।१४१।६ मित्रम् आवाहयामि  
-५।१।१४१।७ सनातनम् आवाहयामि  
-५।१।१४१।८ अत्रिम् आवाहयामि  
-५।१।१४१।९ सनन्दनम् आवाहयामि  
-५।१।१४१।१० शिवम् आवाहयामि  
-  
-५।१।१४२।१ सनत्-कुमारम् आवाहयामि  
-५।१।१४२।२ विश्वम् आवाहयामि  
-५।१।१४२।३ सनकम् आवाहयामि  
-५।१।१४२।४ इन्द्रम् आवाहयामि  
-५।१।१४२।५ यमम् आवाहयामि  
-५।१।१४२।६ वरुणम् आवाहयामि  
-५।१।१४२।७ कुबेरम् आवाहयामि  
-५।१।१४२।८ अग्निम् आवाहयामि  
-५।१।१४२।९ निरृतिम् आवाहयामि  
-५।१।१४२।१० वायुम् आवाहयामि  
-  
-५।१।१४३।१ ईशानम् आवाहयामि  
-५।१।१४३।२ ब्रह्मानम् आवाहयामि  
-५।१।१४३।३ मार्कण्डेयम् आवाहयामि  
-५।१।१४३।४ शङ्करम् आवाहयामि  
-५।१।१४३।५ भृगुम् आवाहयामि  
-५।१।१४३।६ धातारम् आवाहयामि  
-५।१।१४३।७ विधातारम् आवाहयामि  
-५।१।१४३।८ भुवङ्गम् आवाहयामि  
-५।१।१४३।९ पतङ्गम् आवाहयामि  
-५।१।१४३।१० पतिरम् आवाहयामि  
-  
-५।१।१४४।१ वरुणम् आवाहयामि  
-५।१।१४४।२ मणिकम् आवाहयामि  
-५।१।१४४।३ सन्ध्याम् आवाहयामि  
-५।१।१४४।४ विखनसम् आवाहयामि  
-५।१।१४४।५ तापसम् आवाहयामि  
-५।१।१४४।६ किष्किन्धम् आवाहयामि  
-५।१।१४४।७ तीर्थम् आवाहयामि  
-५।१।१४४।८ ईशानम् आवाहयामि  
-५।१।१४४।९ बलि-रक्षकम् आवाहयामि  
-५।१।१४४।१० वाग्-देवीम् आवाहयामि  
-  
-५।१।१४५।१ रविम् आवाहयामि  
-५।१।१४५।२ शक्रम् आवाहयामि  
-५।१।१४५।३ श्रियम् आवाहयामि  
-५।१।१४५।४ पवित्रम् आवाहयामि[*२०३]  
-५।१।१४५।५ हविः-पालकम् आवाहयामि  
-५।१।१४५।६ अग्निम् आवाहयामि  
-५।१।१४५।७ भौमम् आवाहयामि  
-५।१।१४५।८ जगद्-भुवम् आवाहयामि  
-५।१।१४५।९ दुर्गाम् आवाहयामि  
-५।१।१४५।१० यमम् आवाहयामि  
-५।१।१४५।११ मन्दम् आवाहयामि[*२०४]  
-[*२०३] १९४६ एदितिओन् ओमित्स् थिस् वेर्से  
-[*२०४] इन् थे १९८४ एदितिओन् थिस् वेर्से इस् थे ड़िर्स्त् वेर्से ओड़् थे नेxत् सेच्तिओन्, इ।ए। ५।१।१४६।१।  
-
-५।१।१४६।१ सप्त-रोहिणीर् आवाहयामि  
-५।१।१४६।२ सप्त-मातॄर् आवाहयामि  
-५।१।१४६।३ निरृतिम् आवाहयामि  
-५।१।१४६।४ बृहस्पतिम् आवाहयामि[*२०५]  
-५।१।१४६।५ धात्रीम् आवाहयामि[*२०६]  
-५।१।१४६।६ महा-कालिम्[*२०७] आवाहयामि  
-५।१।१४६।७ पुरुषम् आवाहयामि  
-५।१।१४६।८ वरुणम् आवाहयामि  
-५।१।१४६।९ बुधम् आवाहयामि  
-५।१।१४६।१० ज्येष्ठाम् आवाहयामि  
-५।१।१४६।११ पुष्प-रक्षकम् आवाहयामि[*२०८]  
-५।१।१४६।१२ वायुम् आवाहयामि  
-[*२०५] १९४६ एदितिओन् ओमित्स् थिस् वेर्से  
-[*२०६] १९४६ एदितिओन् ओमित्स् थिस् वेर्से  
-[*२०७] तेxत्: काऌइम्।  थिस् वेर्से इस् ओमित्तेद् इन् थे १९८४ एदितिओन्। (महा-काली ?)  
-[*२०८] इन् थे १९८४ एदितिओन् थिस् वेर्से इस् थे ड़िर्स्त् वेर्से ओड़् थे नेxत् सेच्तिओन्, इ।ए। ५।१।१४७।१।  
-
-५।१।१४७।१ शुक्रम् आवाहयामि  
-५।१।१४७।२ सप्तर्षीन्[*२०९] आवाहयामि  
-५।१।१४७।३ गङ्गाम् आवाहयामि  
-५।१।१४७।४ कुबेरम् आवाहयामि  
-५।१।१४७।५ निशाकरम् आवाहयामि  
-५।१।१४७।६ पञ्च-भूतान् आवाहयामि  
-५।१।१४७।७ शान्तम् आवाहयामि  
-५।१।१४७।८ न्यक्षम् आवाहयामि  
-५।१।१४७।९ विवस्वतम् आवाहयामि  
-५।१।१४७।१० मित्रम् आवाहयामि  
-[*२०९] १९८४ एदितिओन्: भृग्व्-आदि-सप्तर्षीन्  
-
-५।१।१४८।१ क्षत्तारम् आवाहयामि  
-५।१।१४८।२ श्री-भूतम् आवाहयामि  
-५।१।१४८।३ गरुडम् आवाहयामि  
-५।१।१४८।४ वक्र-तुण्डम् आवाहयामि  
-५।१।१४८।५ नाग-राजम् आवाहयामि  
-५।१।१४८।६ चक्रम् आवाहयामि  
-५।१।१४८।७ ध्वजम् आवाहयामि  
-५।१।१४८।८ शङ्खम् आवाहयामि  
-५।१।१४८।९ यूथाधिपम्[*२१०] आवाह्यामि  
-५।१।१४८।१० अक्ष-हन्तम् आवाहयामि  
-[*२१०] तेxत्: यूधाथिपम्  
-
-५।१।०।३९ अनिरुद्धम् आवाहयामीन्द्रम्[*२११] आवाहयामि हयात्मकम् आवाहयामि शिवम् आवाहयामि वायुम् आवाहयामि पतिरम् आवाहयामि वाग्-देवीम् आवाहयामि मन्दम् आवाहयामि वायुम् आवाहयामि मित्रम् आवाहयाम्य् अक्ष-हन्तम् आवाहयामि  
-[*२११] १९४६ एदितिओन्: आवाहयामि मीन्द्रम्; १९८४ एदितिओन्: आवाहयामीन्द्रम्  
-
-५।१।१४९।१ ॐ होतर् एहि वयम् इदं देव-यजनं करिष्यामः[*२१२]  
-५।१।१४९।२ अध्वर्यो देवता आचक्ष्व तासाम् आनुपूर्वम् उच्चैर् उपांशुतां च  
-५।१।१४९।३ अग्नये समिध्यमानायानु ब्रूहि[*२१३]  
-५।१।१४९।४ ॐ[*२१४] नमः प्रवक्त्रे नम उपद्रष्ट्रे नमो ऽनुख्यात्रे क इदम् अनुवक्ष्यति स इदम् अनुवक्ष्यति षण् मोर्वीर् अंहसस् पान्तु द्यौश् च पृथिवी चाहश् च रात्रिश् चापश् चौषधयश् च वाक् संस्थित[*२१५]-यज्ञस् साधुश्[*२१६] चन्दांसि प्रपद्ये ऽहम् एव माम्[*२१७]  
-श्री विष्णु-शर्माणम्[*२१८]  
-५।१।१४९।५ भूते भविष्यति जाते जनिष्यमाण आभजाम्य् अपाव्यं[*२१९] वाचो अशान्तिम् वह[*२२०]  
-५।१।१४९।६ जात-वेदो रमया पशून् मयि[*२२१]  
-५।१।१४९।७ वर्म मे द्यावा-पृथिवी वर्माग्निर् वर्म सूर्यो वर्म मे सन्तु[*२२२] तिरश्-चिकाः  
-५।१।१४९।८ तद् अद्य वाचः प्रथमं मशीय[*२२३] येनासुराम्  
-अभि देवा असाम  
-ऊर्जाद उत यज्ञियासः पञ्च-जना मम होत्रं जुषध्वं[*२२४]  
-[*२१२] बेगिन्निन्ग् wइथ् ५।१।१४९।१ थेरे अरे नो अच्चेन्त् मर्क्स् इन् थे तेxत् उन्तिल्  थे थिर्द् तो लस्त् wओर्द् ओड़् ५।१।१४९।४, wहेरे ऽहम् हस् अ स्वरित मर्क्।  अत् थिस् पोइन्त् थे अच्चेन्त्स् रेसुमे wइथ् अन् उदात्त ओवेर् माम्, थे लस्त् wओर्द् ओड़् थिस् वेर्से।  
-[*२१३] त्स् ६।३।७।१; त्ब् ३।३।७।१ (व्च् प्। ७)  
-[*२१४] अड़्तेर् ॐ, बेगिन्निन्ग् wइथ् थे wओर्द् नमः,  थेरे इस् अ क़ुओते ड़्रोम् थे आश्वलायन-श्रौत-सूत्र, अश् १।२।१, (प्। १४-१५) wहिछ् चोन्तिनुएस् उन्तिल् व्म्प् ५।१।१४९।९ अस् इन्दिचतेद्।  
-[*२१५] अश् सम-स्थित-  
-[*२१६] अश् साधु  
-[*२१७] थे अश् हेरे गिवेस् अमुम् इति स्वन् नामादिशेत।  
-[*२१८] थिस् वेर्से इस् नोत् इन् अश् १।२।१। थे अच्चेन्त् मर्क्स् दिसप्पेअर् अगैन् हेरे wइथ् थिस् वेर्से अन्द् रेसुमे तोwअर्द् थे एन्द् ओड़् तेxत् ५।१।१४९।८।  
-[*२१९] १९८४ एदितिओन्: आभ्जाम्यव आव्यं; १९४६ एदितिओन्: आभजान्य् अपाव्यं; अश् आभजाम्य् अपावं  
-[*२२०] थे अश् हेरे इन्सेर्त्स्:  इति अङ्गुल्य्-अग्राण्य् अवकृष्य  
-[*२२१] थे अश् हेरे इन्सेर्त्स्:  इति प्रतिसन्दध्यात्  
-[*२२२] अच्चेन्त् मर्क्स् रेसुमे हेरे wइथ् अ स्वरित ओवेर् थे तु इन् सन्तु।  
-[*२२३] अश् हेरे इन्सेर्त्स् थे wओर्द् इति अड़्तेर् मशीय wहिछ् मर्क्स् थे एन्द् ओड़् अश् १।२।१।  
-[*२२४] बेगिन्निन्ग् wइथ् थे wओर्द्स् तद् अद्य इन् व्म्प् ५।१।१४९।८ अन्द् एन्दिन्ग् हेरे wइथ् थे wओर्द् जुषध्वं अ चोम्प्लेते वेर्से ड़्रोम् र्व् १०।५३।४ इस् क़ुओतेद्। इन् थे व्म्प् तेxत्, थे वेर्से इस् दिविदेद् बेत्wएएन् त्wओ सेच्तिओन्स्।  थे थिर्द् लिने ओड़् थिस् वेर्से, ऊर्जाद॥।जुषध्वम्, इस् थे ड़िर्स्त् लिने ओड़् सेच्तिओन् १५०, होwएवेर् थे नुम्बेरिन्ग् हस् बेएन् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से इस् अत् थे एन्द् ओड़् सेच्तिओन् १४९। अश् १।२।१ इन्च्लुदेस् ओन्ल्य् अ प्रतीक ड़्रोम् र्व् १०।५३।४, होwएवेर् व्म्प् इन्च्लुदेस् थे एन्तिरे र्व् वेर्से।  
-
-५।१।१५०।१ हिम्  
-५।१।१५०।२ भूर् भुवस् सुवर् ओम्[*२२५]  
-५।१।१५०।३ प्र वो वाजा अभिद्यवो हविष्मन्तो घृताच्या देवां जिगाति सुम्नय्॥। [*२२६] ओम्[*२२७]  
-५।१।१५०।४ अग्न आ याहि वीतये गृणानो हव्यदातये  
-नि होता सत्सि[*२२८] बर्हिष्॥।[*२२९] ओम्  
-५।१।१५०।५ तन् त्वा समिद्भिर् अङ्गिरो घृतेन वर्धयामसि  
-बृहच्-छोचा यविष्ठ्य्॥।[*२३०] ओम्  
-५।१।१५०।६ स नः पृथुश् श्रवाय्यम् अच्छा देव विवाससि  
-बृहद्-अग्ने सुवीर्य्॥।[*२३१] ओम्[*२३२]  
-[*२२५] अल्ल् अच्चेन्त् मर्क्स् दिसप्पेअर् अगैन् ड़्रोम् थिस् पोइन्त् ड़ोर्wअर्द् अन्द् रेसुमे अत् ५।१।१५२।५ wइथ् थे wओर्द् अग्ने।  
-[*२२६] र्व्, त्ब्, म्स्, एत्च्: सुम्नयुः; थे व्म्प् हेरे बेगिन्स् अ पत्तेर्न् ओड़् द्रोप्पिन्ग् थे लस्त् वोwएल् (अन्द् अन्य् चोन्सोनन्त् थत् ड़ोल्लोwस् इत्) ड़्रोम् थे लस्त् wओर्द् इन् अन् र्व् क़ुओते अन्द् अद्दिन्ग् ओम् अत् थे एन्द्।  थिस् इस् सेएन् तो चोन्तिनुए थ्रोउघ् ५।१।१५२।४।  
-[*२२७] थिस् वेर्से इस् ड़ोउन्द् अत् र्व् ३।२७।१  (व्च् प्। ६३०)  
-[*२२८] तेxत्: सथ्सि  
-[*२२९] र्व्, त्स्, त्ब्: बर्हिषि  
-[*२३०] र्व्, त्स्, त्ब्: यविष्ठ्य  
-[*२३१] र्व्, त्ब्: सुवीर्यम्  
-[*२३२] थे व्म्प् तेxत् दिविदेस् थिस् वेर्से बेत्wएएन् त्wओ सेच्तिओन्स्, मकिन्ग् थे सेचोन्द् लिने ओड़् थिस् वेर्से थे ड़िर्स्त् लिने ओड़् छप्तेर् १५१। होwएवेर्, थे नुम्बेरिन्ग् हस् बेएन् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से नोw चोमेस् अत् थे एन्द् ओड़् छप्तेर् १५०।  
-
-५।१।१५१।१ ईलेन्यो नमस्यस् तिरस् तमांसि दर्शतः  
-सम् अग्निर् इध्यते वृष्॥।[*२३३] ओम्  
-५।१।१५१।२ वृषो अग्निस् सम् इध्यते ऽश्वो न देव-वाहनः  
-तं हविष्मन्त ईऌअत्॥।[*२३४] ओम्  
-५।१।१५१।३ वृषणं त्वा वयं वृषन् वृषानस् सम् इधीमहि  
-अग्ने दीद्यतं बृह्॥।[*२३५] ओम्  
-५।१।१५१।४ अग्निं दूतं वृणीमहे होतारं विश्व-वेदसम्  
-अस्य यज्ञस्य सुक्रत्॥।[*२३६] ओम्  
-५।१।१५१।५ समिध्यमानो अध्वरे ऽग्निः पावक ईड्यः[*२३७]  
-शोचिष्-केशस् तस् ईमह्॥।[*२३८] ओम्[*२३९]  
-[*२३३] र्व्, त्ब्: वृषा  
-[*२३४] र्व्, त्ब्: ईऌअते  
-[*२३५] र्व्, त्ब्: बृहत्  
-[*२३६] र्व्, त्ब्, त्स्: सुक्रतुम्  
-[*२३७] तेxत्: ईड्ड्यः; र्व्, त्ब्: ईड्यः  
-[*२३८] र्व्, त्ब्: ईमहे  
-[*२३९] थे व्म्प् तेxत् दिविदेस् थिस् वेर्से बेत्wएएन् त्wओ सेच्तिओन्स्, मकिन्ग् थे सेचोन्द् लिने ओड़् थिस् वेर्से थे ड़िर्स्त् लिने ओड़् छप्तेर् १५२। थे नुम्बेरिन्ग् हस् बेएन् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से नोw चोमेस् अत् थे एन्द् ओड़् छप्तेर् १५१।  
-
-५।१।१५२।१ पृथु-पाजा अमर्त्यो घृत-निर्णिक् स्व्-आहुतः  
-अग्निर् यज्ञस्य हव्यव्॥।[*२४०] ओम्  
-५।१।१५२।२ तं सबाधो यत-स्रुच इत्था धिया यज्ञवन्तः  
-आ चक्रुर् अग्निम् ऊतय्॥।[*२४१] ओम्  
-५।१।१५२।३ समिद्धो अग्न आहूत देवान् यक्षि स्व्-अध्वर  
-त्वं हि हव्यवाल्[*२४२] अस्॥।[*२४३] ओम्  
-५।१।१५२।४ आ जुहोत[*२४४] दुवस्यताग्निं प्रयत्य् अध्वरे  
-वृणीध्वं हव्यवाहन्॥।[*२४५] ओम्  
-५।१।१५२।५ अग्ने महा(ग्)ं असि ब्राह्मण भारत[*२४६]  
-५।१।१५२।६ (काश्यपावत्सार-नैद्ध्रुव)[*२४७]  
-[*२४०] र्व्, त्ब्: हव्यवाट्  
-[*२४१] र्व्, त्ब्: ऊतये  
-[*२४२] तेxत्: हव्यवाऌ  
-[*२४३] र्व्, त्ब्, त्स्: असि  
-[*२४४] १९८४ एदितिओन्: जुहोता  
-[*२४५] र्व्, त्ब्: हव्यवाहनम्  
-[*२४६] बेगिन्निन्ग् wइथ् थिस् वेर्से अन्द् एन्दिन्ग् wइथ् वेर्से ५।१।१५४।१, आवह देवान् यजमानाय, इस् अ सेत् ओड़् प्रतीकस् wहिछ् अरे ड़ोउन्द् इन् त्स् २।५।९।१-४।  थे चोम्प्लेते वेर्से इस् अस् ड़ोल्लोwस् (इ हवे उन्देर्लिनेद् थे सन्स्क्रित् अन्द् एन्ग्लिस्ह् थत् अप्पेअर्स् इन् थे व्म्प् तेxत्): अग्ने महाङ् असीत्य् आह महान् ह्य् एष यद् अग्निर् ब्राह्मणेत्य् आह ब्राह्मणो ह्य् एष भारतेत्य् आहैष हि देवेभ्यो हव्यं भरति देवेद्ध इत्य् आह देवा ह्य् एतम् ऐन्धते मन्विद्ध इत्य् आह मनुर् ह्य् एतम् उत्तरो देवेभ्य ऐन्धर्षि-ष्टुत इत्य् आहर्षयो ह्य् एतम् अस्तुवन् विप्रानुमदित इत्य् आह (१) विप्रा ह्य् एते यच् छुश्रुवांसो ब्रह्म-संशित इत्य् आह ब्रह्म-संशितो ह्य् एष घृतहवन इत्य् आह घृताहुतिर् ह्य् अस्य प्रियतमा प्रणीर् यज्ञानाम् इत्य् आह प्रणीर् ह्य् एष यज्ञानां रथीर् अध्वराणाम् इत्य् आहैष हि देव-रथो ऽतूर्तो होतेत्य् आह न ह्य् एतं कश्चन (२) तरति तूर्णिर् हव्य-वाड् इत्य् आह सर्वं ह्य् एष तरत्य् आस्पात्रं जुहूर् देवानाम् इत्य् आह जुहूर् ह्य् एष देवानां चमसो देव-पान इत्य् अह चमसो ह्य् एष देव-पानो ऽरां इवाग्ने नेमिर् देवांस् त्वं परिभूर् असीत्य् आह देवान् ह्य् एष परिभूर् यद् ब्रूयाद् आ वह देवान् देवयते यजमानायेति भ्रातृव्यम् अस्मै (३) जनयेद् आ वह देवान् यजमानायेत्य् आह यजमानम् एवैतेन वर्धयति॥। । केइथ्ऽस् त्रन्स्लतिओन्: "ऽओ अग्नि, थोउ अर्त् ग्रेअत्ऽ, हे सय्स्, ड़ोर् अग्नि इस् ग्रेअत्।  ऽओ ब्रह्मन्ऽ, हे सय्स्, ड़ोर् हे इस् अ ब्रह्मन्।  ऽओ भारतऽ, हे सय्स्, ड़ोर् हे बेअर्स् थे सच्रिड़िचे तो थे गोद्स्।  ऽकिन्द्लेद् ब्य् थे गोद्स्ऽ, हे सय्स्, ड़ोर् थे गोद्स् किन्द्लेद् हिम्।  ऽकिन्द्लेद् ब्य् मनुऽ, हे सय्स्, ड़ोर् मनु किन्द्लेद् हिम् अड़्तेर् थे गोद्स्।  ऽप्रैसेद् ब्य् थे Ṛषिस्ऽ, हे सय्स्, ड़ोर् थे Ṛषिस् प्रैसेद् हिम्।  ऽरेजोइचेद् इन् ब्य् सगेस्ऽ, हे सय्स्, ड़ोर् लेअर्नेद् पेओप्ले अरे सगेस्।  ऽचेलेब्रतेद् ब्य् थे पोएत्स्ऽ, हे सय्स्, ड़ोर् लेअर्नेद् पेओप्ले अरे थे पोएत्स्।  ऽक़ुइच्केनेद् ब्य् थे होल्य् पोwएर् (ब्रह्मन्)ऽ, हे सय्स्, ड़ोर् हे इस् क़ुइच्केनेद् ब्य् थे होल्य् पोwएर् (ब्रह्मन्)।  ऽWइथ् घेए ओड़्ड़ेरिन्ग्ऽ, हे सय्स्, ड़ोर् घेए इस् हिस् देअरेस्त् ओड़्ड़ेरिन्ग्।  ऽलेअदेर् ओड़् थे सच्रिड़िचेस्ऽ, हे सय्स्, ड़ोर् हे इस् थे लेअदेर् ओड़् थे सच्रिड़िचेस्।  ऽछरिओतेएर् ओड़् थे रितेस्ऽ, हे सय्स्, ड़ोर् हे इस् थे छरिओत् ओड़् थे गोद्स्।  ऽथे होतृ उन्सुर्पस्सेद्ऽ, हे सय्स्, ड़ोर् नो ओने  
-सुर्पस्सेस् हिम्।  ऽसुर्पस्सिन्ग्, बेअरिन्ग् थे ओब्लतिओन्ऽ, हे सय्स्, ड़ोर् हे सुर्पस्सेस् अल्ल्।  ऽथे मोउथ् दिस्ह्, थे लद्ले ओड़् थे गोद्स्ऽ, हे सय्स्, ड़ोर् हे इस् थे लद्ले ओड़् थे गोद्स्।  ऽथे बोwल् ड़्रोम् wहिछ् थे गोद्स् द्रिन्क्ऽ, हे सय्स्, ड़ोर् हे इस् थे बोwल् ड़्रोम् wहिछ् थे गोद्स् द्रिन्क्।  ऽओ अग्नि, लिके अ ड़ेल्ल्य् थे स्पोकेस्, थोउ दोस्त् सुर्रोउन्द् थे गोद्स्ऽ, हे सय्स्, ड़ोर् हे सुर्रोउन्द्स् थे गोद्स्।  इड़् हे wएरे तो सय्, ऽब्रिन्ग् हिथेर् थे गोद्स् तो थे पिओउस् सच्रिड़िचेर्ऽ, हे wओउल्द् प्रोदुचे अन् एनेम्य् ड़ोर् हिम्।  ऽब्रिन्ग् हिथेर् थे गोद्स् तो थे सच्रिड़िचेर्ऽ, हे सय्स्; वेरिल्य् wइथ् थत् हे मकेस् थे सच्रिड़िचेर् तो ग्रोw ग्रेअत्।"  
-[*२४७] थिस् वेर्से इस् इन् परेन्थेसेस् इन् थे सन्स्क्रित् तेxत्।  
-
-५।१।१५३।१ देवेद्धो मन्व्-इद्धः[*२४८]  
-५।१।१५३।२ ऋषि-ष्टुतो विप्रानुमदितः कवि-शस्तो ब्रह्म-स(ग्)ंशितो घृताहवनः  
-५।१।१५३।३ प्रणीर् यज्ञानाम्  
-५।१।१५३।४ रथीर्[*२४९] अध्वराणाम्  
-५।१।१५३।५ अतूर्तो होता  
-५।१।१५३।६ तूर्णिर् हव्यवाट्  
-५।१।१५३।७ आस्पात्रं जुहूर् देवानाम्  
-५।१।१५३।८ चमसो देव-पानः  
-५।१।१५३।९ अरा(ग्)ं इवाग्ने नेमिर् देवा(ग्)ंस् त्वं परिभूर् असि  
-[*२४८] त्ब्: असाव् असौ देवेद्धो मन्विद्धः  
-[*२४९] तेxत्: रधीर्  
-
-५।१।१५४।१ आवह देवान् यजमानाय  
-५।१।१५४।२ इदं विष्णुः  
-५।१।१५४।३ आयातु भगवान् पुरुषस् स-गणस् स-सैन्यस् स-श्री-सहायस् सह-देवताभिर् अनुमन्यताम्  
-५।१।१५४।४ यस् तु गरुड-रथो[*२५०] नित्यम् ऋषिभिश् चानुगामिनं तम् अजं पुण्डरीकाक्षं भगवन्तम् ओम्  
-५।१।१५४।५ विष्णुम् आवह[*२५१]  
-५।१।१५४।६ पुरुषम् आवह  
-५।१।१५४।७ सत्यम् आवह  
-५।१।१५४।८ अच्युतम् आवह  
-५।१।१५४।९ अनिरुद्धम् आवह  
-[*२५०] तेxत्: -रधो  
-[*२५१] इन् त्ब् सेच्तिओन् ३।५।३।६, वेर्सेस् wइथ् आवह, सिमिलर् तो ५।१।१५४।५-९, अरे ड़ोउन्द् ड़्रेक़ुएन्त्ल्य्।  
-
-५।१।१५५।१ श्रिये जातः  
-५।१।१५५।२ आयातु भगवती श्रीस् स्वर्ण-वर्णा स-गणा स-सैन्या श्री-परम-पुरुष-सहाया सह-देवताभिर् अनुमन्यताम्  
-५।१।१५५।३ या पद्मासना पद्म-हस्ता हंस-निर्याख्य-वाहिनी नित्यम् ऋषिभिश् चानुगामिनी ताम् अजां पद्म-नेत्रीं भगवतीं श्रीम्  
-५।१।१५५।४ श्रियम् आवह  
-५।१।१५५।५ धृतीम् आवह  
-५।१।१५५।६ पवित्रीम् आवह  
-५।१।१५५।७ प्रमोदायिनीम् आवह  
-५।१।१५५।८ मेदिनी देवी  
-५।१।१५५।९ आयातु भगवती हरिणी श्याम-वर्णा स-गणा स-सैन्या श्री-परम-पुरुष-सहाया सह-देवताभिर् अनुमन्यताम्  
-५।१।१५५।१० या नीलोत्पलासना नीलोत्पल-हस्ता महा-चातक-वाहिनी नित्यम् ऋषिभिश् चानुगामिनी ताम् अजां नीलोत्पल-नेत्रीं भगवतीं लम्[*२५२]  
-[*२५२] १९८४ एदितिओन् अद्द्स् हेरे ग्लाम् पाठान्तरम्: "ग्लाम् इस् अ वरिअन्त् रेअदिन्ग् (ड़ोर् लम्)"।  
-
-५।१।१५६।१ हरिणीम् आवह  
-५।१।१५६।२ पौष्णीम् आवह  
-५।१।१५६।३ क्षोणीम् आवह  
-५।१।१५६।४ महीम् आवह  
-५।१।१५६।५ [*२५३]विष्णवे जुष्टं निर्वपामि  
-५।१।१५६।६ पुरुषाय जुष्टं निर्वपामि  
-५।१।१५६।७ सत्याय जुष्टं निर्वपामि  
-५।१।१५६।८ अच्युताय जुष्टं निर्वपामि  
-५।१।१५६।९ अनिरुद्धाय जुष्टं निर्वपामि  
-५।१।१५६।१० श्रियै जुष्टं निर्वपामि  
-५।१।१५६।११ धृत्यै जुष्टं निर्वपामि  
-५।१।१५६।१२ पवित्र्यै जुष्टं निर्वपामि  
-५।१।१५६।१३ प्रमोदायिन्यै जुष्टं निर्वपामि  
-५।१।१५६।१४ हरिण्यै जुष्टं निर्वपामि  
-५।१।१५६।१५ पौष्ण्यै जुष्टं निर्वपामि  
-५।१।१५६।१६ क्षोण्यै जुष्टं निर्वपामि  
-५।१।१५६।१७ मह्यै जुष्टं निर्वपामि  
-[*२५३] मार्कण्देयादि सर्व-देवान् तान् आवह । धात्रादि-महा-भूतान् तान् आवह । आवाहयामि  
-
-५।१।०।४० भारत परिभूर् अस्य् अनिरुद्धम् आवह भगवतीं लं श्रियै जुष्टं निर्वपामि सप्त च  
-  
-५।१।१५७।१ ॐ विष्णवे स्वाहा  
-५।१।१५७।२ पुरुषाय स्वाहा  
-५।१।१५७।३ सत्याय स्वाहा  
-५।१।१५७।४ अच्युताय स्वाहा  
-५।१।१५७।५ अनिरुद्धाय स्वाहा  
-५।१।१५७।६ श्रियै स्वाहा  
-५।१।१५७।७ धृत्यै स्वाहा  
-५।१।१५७।८ पवित्र्यै स्वाहा  
-५।१।१५७।९ प्रमोदायिन्यै स्वाहा  
-५।१।१५७।१० हरिण्यै स्वाहा  
-  
-५।१।१५८।१ पौष्ण्यै स्वाहा  
-५।१।१५८।२ क्षोण्यै स्वाहा  
-५।१।१५८।३ मह्यै स्वाहा  
-५।१।१५८।४ मार्कण्डेयाय स्वाहा  
-५।१।१५८।५ पुण्याय स्वाहा  
-५।१।१५८।६ पुराणाय स्वाहा  
-५।१।१५८।७ अमिताय स्वाहा  
-५।१।१५८।८ पद्मा-पित्रे स्वाहा  
-५।१।१५८।९ धातृ-नाथाय[*२५४] स्वाहा  
-५।१।१५८।१० ख्यातीशाय स्वाहा  
-[*२५४] तेxत्: धातृ-नाधाय  
-
-५।१।१५९।१ भृगवे स्वाहा  
-५।१।१५९।२ ब्रह्मणे स्वाहा  
-५।१।१५९।३ प्रजा-पतये स्वाहा  
-५।१।१५९।४ पितामहाय स्वाहा  
-५।१।१५९।५ हिरण्य-गर्भाय स्वाहा  
-५।१।१५९।६ गङ्गा-धराय स्वाहा  
-५।१।१५९।७ ऋषभ-वाहनाय स्वाहा  
-५।१।१५९।८ अष्ट-मूर्तये स्वाहा  
-५।१।१५९।९ उमा-पतये स्वाहा  
-५।१।१५९।१० धात्रे स्वाहा  
-  
-५।१।१६०।१ दम्भिने स्वाहा  
-५।१।१६०।२ सनिलाय[*२५५] स्वाहा  
-५।१।१६०।३ गन्ध-दाय स्वाहा  
-५।१।१६०।४ विधात्रे स्वाहा  
-५।१।१६०।५ कीनाशाय स्वाहा  
-५।१।१६०।६ मुरुण्डाय स्वाहा  
-५।१।१६०।७ न्यर्णाय स्वाहा  
-५।१।१६०।८ भृतये स्वाहा  
-५।१।१६०।९ भुवङ्गाय स्वाहा  
-५।१।१६०।१० उत्सङ्गाय स्वाहा  
-[*२५५] तेxत्: सनिऌआय  
-
-५।१।१६१।१ पीठाय स्वाहा  
-५।१।१६१।२ पतङ्गाय स्वाहा  
-५।१।१६१।३ उत्कराय स्वाहा  
-५।१।१६१।४ अपदानाय[*२५६] स्वाहा  
-५।१।१६१।५ कपर्दिने स्वाहा  
-५।१।१६१।६ पतिराय स्वाहा  
-५।१।१६१।७ बल्लिदाय स्वाहा  
-५।१।१६१।८ मध्य-गाय स्वाहा  
-५।१।१६१।९ वङ्घनाय स्वाहा  
-५।१।१६१।१० वरुणाय स्वाहा  
-[*२५६] १९८४ एदितिओन्: अपधानाय  
-
-५।१।१६२।१ तेजिने स्वाहा  
-५।१।१६२।२ दंशिने स्वाहा  
-५।१।१६२।३ तरस्विने स्वाहा  
-५।१।१६२।४ मणिकाय स्वाहा  
-५।१।१६२।५ महा-बलाय स्वाहा  
-५।१।१६२।६ विमलाय स्वाहा  
-५।१।१६२।७ द्वार-पालकाय स्वाहा  
-५।१।१६२।८ सन्ध्यायै स्वाहा  
-५।१।१६२।९ प्रभावत्यै स्वाहा  
-५।१।१६२।१० ज्योति-रूपायै स्वाहा  
-  
-५।१।१६३।१ दृढ-व्रतायै स्वाहा  
-५।१।१६३।२ वैखानसाय स्वाहा  
-५।१।१६३।३ तपो-युक्ताय स्वाहा  
-५।१।१६३।४ सिद्धि-दाय स्वाहा  
-५।१।१६३।५ ब्रह्म-दर्शिने स्वाहा  
-५।१।१६३।६ तापसाय स्वाहा  
-५।१।१६३।७ सिद्धि-राजाय स्वाहा  
-५।१।१६३।८ सर्व-दोष-विवर्जिताय स्वाहा  
-५।१।१६३।९ सहस्राश्व-मेधिने स्वाहा  
-५।१।१६३।१० किष्किन्धाय स्वाहा  
-  
-५।१।१६४।१ बहु-मर्दनाय स्वाहा  
-५।१।१६४।२ बहु-सेनाय स्वाहा  
-५।१।१६४।३ दृढ-व्रताय स्वाहा  
-५।१।१६४।४ तीर्थाय स्वाहा  
-५।१।१६४।५ उद्वाहकाय स्वाहा  
-५।१।१६४।६ सर्व-योग्याय स्वाहा  
-५।१।१६४।७ उदावहाय स्वाहा  
-५।१।१६४।८ इन्द्राय स्वाहा  
-५।१।१६४।९ शची-पतये स्वाहा  
-५।१।१६४।१० पुरु-हूताय स्वाहा  
-  
-५।१।१६५।१ पुरन्दराय स्वाहा  
-५।१।१६५।२ अग्नये स्वाहा  
-५।१।१६५।३ जात-वेदसे स्वाहा  
-५।१।१६५।४ पावकाय स्वाहा  
-५।१।१६५।५ हुताशनाय स्वाहा  
-५।१।१६५।६ यमाय स्वाहा  
-५।१।१६५।७ धर्म-राजाय स्वाहा  
-५।१।१६५।८ प्रेतेशाय स्वाहा  
-५।१।१६५।९ मध्य-स्थाय स्वाहा  
-५।१।१६५।१० आरम्भाधिपतये स्वाहा  
-  
-५।१।१६६।१ निरृतये स्वाहा  
-५।१।१६६।२ नीलाय स्वाहा  
-५।१।१६६।३ सर्व-रक्षो-इधिपतये स्वाहा  
-५।१।१६६।४ वरुणाय स्वाहा  
-५।१।१६६।५ प्रचेतसे स्वाहा  
-५।१।१६६।६ रक्ताम्बराय स्वाहा  
-५।१।१६६।७ यादस्-पतये स्वाहा  
-५।१।१६६।८ वायवे स्वाहा  
-५।१।१६६।९ जवनाय स्वाहा  
-५।१।१६६।१० भूतात्मकाय स्वाहा  
-  
-५।१।१६७।१ उदानाय स्वाहा  
-५।१।१६७।२ कुबेराय स्वाहा  
-५।१।१६७।३ धन्याय स्वाहा  
-५।१।१६७।४ पौलस्त्याय स्वाहा  
-५।१।१६७।५ यक्ष-राजाय स्वाहा  
-५।१।१६७।६ ईशानाय स्वाहा  
-५।१।१६७।७ ईश्वराय स्वाहा  
-५।१।१६७।८ देवाय स्वाहा  
-५।१।१६७।९ भवाय स्वाह  
-५।१।१६७।१० आदित्याय स्वाहा  
-  
-५।१।१६८।१ भास्कराय स्वाहा  
-५।१।१६८।२ सूर्याय स्वाहा  
-५।१।१६८।३ मार्ताण्डाय स्वाहा  
-५।१।१६८।४ विवस्वतये स्वाहा  
-५।१।१६८।५ अङ्गारकाय स्वाहा  
-५।१।१६८।६ वक्राय स्वाहा  
-५।१।१६८।७ रक्ताय स्वाहा  
-५।१।१६८।८ धरा-सुताय स्वाहा  
-५।१।१६८।९ सूर्य-पुत्राय स्वाहा  
-५।१।१६८।१० मन्दाय स्वाहा  
-  
-५।१।१६९।१ रैवत्याय स्वाहा  
-५।१।१६९।२ शनैश्चराय स्वाहा  
-५।१।१६९।३ पीत-वर्णाय स्वाहा  
-५।१।१६९।४ गुरवे स्वाहा  
-५।१।१६९।५ तैष्याय स्वाहा  
-५।१।१६९।६ बृहस्पतये स्वाहा  
-५।१।१६९।७ बुधाय स्वाहा  
-५।१।१६९।८ श्यामाय स्वाहा  
-५।१।१६९।९ सौम्याय स्वाहा  
-५।१।१६९।१० श्रविष्ठ-जाय स्वाहा  
-  
-५।१।१७०।१ शुक्राय स्वाहा  
-५।१।१७०।२ भार्गवाय स्वाहा  
-५।१।१७०।३ काव्याय स्वाहा  
-५।१।१७०।४ परिसर्पिणे स्वाहा  
-५।१।१७०।५ नलिन्यै[*२५७] स्वाहा  
-५।१।१७०।६ जाह्नव्यै स्वाहा  
-५।१।१७०।७ गङ्गायै स्वाहा  
-५।१।१७०।८ लोक-पावन्यै स्वाहा  
-५।१।१७०।९ वसिष्ठाय स्वाहा  
-५।१।१७०।१० सोमाय स्वाहा  
-[*२५७] तेxत्: नऌइन्यै  
-
-५।१।१७१।१ यज्ञाङ्गाय स्वाहा  
-५।१।१७१।२ इन्दवे स्वाहा  
-५।१।१७१।३ चन्द्रमसे स्वाहा  
-५।१।१७१।४ भवाय स्वाहा  
-५।१।१७१।५ शर्वाय स्वाहा  
-५।१।१७१।६ ईशानाय स्वाहा  
-५।१।१७१।७ पशु-पतये स्वाहा  
-५।१।१७१।८ उग्राय स्वाहा  
-५।१।१७१।९ रुद्राय स्वाहा  
-५।१।१७१।१० भीमाय स्वाहा  
-  
-५।१।१७२।१ महा-देवाय स्वाहा  
-५।१।१७२।२ जगद्-भुवे स्वाहा  
-५।१।१७२।३ यजद्-भुवे स्वाहा  
-५।१।१७२।४ विश्व-भुवे स्वाहा  
-५।१।१७२।५ ब्रह्म-भुवे स्वाहा  
-५।१।१७२।६ रुद्र-भुवे स्वाहा  
-५।१।१७२।७ भुवर्-भुवे स्वाहा  
-५।१।१७२।८ पुरुषाय स्वाहा (?)[*२५८]  
-५।१।१७२।९ परम-पुरुषाय स्वाहा  
-५।१।१७२।१० पुरुषात्मकाय स्वाहा  
-[*२५८] पुरुषं सत्यम् अच्युतम् अनिरुद्धम् इति । इति कश्यपः  
-
-५।१।१७३।१ धर्म-मयाय स्वाहा  
-५।१।१७३।२ धात्र्यै स्वाहा  
-५।१।१७३।३ महोदर्यै स्वाहा  
-५।१।१७३।४ रौद्र्यै स्वाहा  
-५।१।१७३।५ महा-काल्यै[*२५९] स्वाहा  
-५।१।१७३।६ भूर्-ज्येष्ठायिन्यै स्वाहा  
-५।१।१७३।७ भुवर्-ज्येष्ठायिन्यै स्वाहा  
-५।१।१७३।८ सुवर्-ज्येष्ठायिन्यै स्वाहा  
-५।१।१७३।९ कलि-राजायिन्यै स्वाहा  
-५।१।१७३।१० कलि-पत्न्यै स्वाहा  
-[*२५९] तेxत्: काऌयै  
-
-५।१।१७४।१ दुर्गायै स्वाहा  
-५।१।१७४।२ कात्यायिन्यै स्वाहा  
-५।१।१७४।३ वैष्णव्यै स्वाहा  
-५।१।१७४।४ विन्ध्य-वासिन्यै स्वाहा  
-५।१।१७४।५ कुण्ठिन्यै स्वाहा  
-५।१।१७४।६ नन्दिन्यै स्वाहा  
-५।१।१७४।७ धरित्र्यै स्वाहा  
-५।१।१७४।८ रजत-प्रियायै स्वाहा  
-५।१।१७४।९ ग्रन्थिन्यै स्वाहा  
-५।१।१७४।१० वेगिन्यै स्वाहा  
-  
-५।१।१७५।१ प्रजयायै स्वाहा  
-५।१।१७५।२ प्रवाहिण्यै स्वाहा  
-५।१।१७५।३ कृच्छ्रिण्यै स्वाहा  
-५।१।१७५।४ शाखिन्यै स्वाहा  
-५।१।१७५।५ वाहिन्यै स्वाहा  
-५।१।१७५।६ योक्त्रिण्यै स्वाहा  
-५।१।१७५।७ कुण्ठिन्यै स्वाहा  
-५।१।१७५।८ जारिण्यै स्वाहा  
-५।१।१७५।९ चर्दिन्यै स्वाहा  
-५।१।१७५।१० प्रवाहिन्यै स्वाहा  
-  
-५।१।१७६।१ विकारिण्यै स्वाहा  
-५।१।१७६।२ दामिन्यै स्वाहा  
-५।१।१७६।३ बिसिन्यै स्वाहा  
-५।१।१७६।४ विद्युतायै स्वाहा  
-५।१।१७६।५ दद्रुण्यै स्वाहा  
-५।१।१७६।६ इन्दु-कलायै स्वाहा  
-५।१।१७६।७ सौमनस्यै स्वाहा  
-५।१।१७६।८ प्रविद्युतायै स्वाहा  
-५।१।१७६।९ इन्द्रिय-विकारिण्यै स्वाहा  
-५।१।१७६।१० अर्ववत्यै स्वाहा  
-  
-५।१।१७७।१ गङ्गा-वाण्यै स्वाहा  
-५।१।१७७।२ सृजन्त्यै स्वाहा  
-५।१।१७७।३ पद्मा-पित्रे स्वाहा  
-५।१।१७७।४ धातृ-नाथाय[*२६०] स्वाहा  
-५।१।१७७।५ ख्यातीशाय स्वाहा  
-५।१।१७७।६ भृगवे स्वाहा  
-५।१।१७७।७ सम्भूतीशाय स्वाहा  
-५।१।१७७।८ मरीचये स्वाहा  
-५।१।१७७।९ शोचिष्मते स्वाहा  
-५।१।१७७।१० पौर्णमास-भृताय स्वाहा  
-[*२६०] तेxत्: धातृ-नाधाय  
-
-५।१।१७८।१ क्षमाधवाय स्वाहा  
-५।१।१७८।२ पुलहाय स्वाहा  
-५।१।१७८।३ कर्दमाय स्वाहा  
-५।१।१७८।४ महा-धृतये स्वाहा  
-५।१।१७८।५ पुलस्त्याय स्वाहा  
-५।१।१७८।६ प्रीति-भर्त्रे स्वाहा  
-५।१।१७८।७ वशं-कराय स्वाहा  
-५।१।१७८।८ दान्तिनी-राजाय स्वाहा  
-५।१।१७८।९ सिद्धि-राजाय स्वाहा  
-५।१।१७८।१० निष्क-सूनवे स्वाहा  
-  
-५।१।१७९।१ सन्नतीशाय स्वाहा  
-५।१।१७९।२ क्रतवे स्वाहा  
-५।१।१७९।३ ऊर्जा-पतये स्वाहा  
-५।१।१७९।४ राज-पूर्वाय स्वाहा  
-५।१।१७९।५ वसिष्ठाय स्वाहा  
-५।१।१७९।६ वाक्-पतये स्वाहा  
-५।१।१७९।७ अत्रये स्वाहा  
-५।१।१७९।८ नियामकाय स्वाहा  
-५।१।१७९।९ सत्य-नेत्र-गुरवे स्वाहा  
-५।१।१७९।१० अनसूया-वराय स्वाहा  
-  
-५।१।१८०।१ गविष्ठाय स्वाहा  
-५।१।१८०।२ त्रैष्टुभाय स्वाहा  
-५।१।१८०।३ गुह्याय स्वाहा  
-५।१।१८०।४ आकाशाय स्वाहा  
-५।१।१८०।५ असवे स्वाहा  
-५।१।१८०।६ समीरणाय स्वाहा  
-५।१।१८०।७ वायवे स्वाहा  
-५।१।१८०।८ पृषदश्वाय स्वाहा  
-५।१।१८०।९ वीति-होत्राय स्वाहा  
-५।१।१८०।१० आभुरण्याय स्वाहा  
-  
-५।१।१८१।१ शुद्धाय स्वाहा  
-५।१।१८१।२ अग्नये स्वाहा  
-५।१।१८१।३ पवित्राय स्वाहा  
-५।१।१८१।४ अमृताय स्वाहा  
-५।१।१८१।५ तोयाय स्वाहा  
-५।१।१८१।६ गह्वराय स्वाहा  
-५।१।१८१।७ हरिण्यै स्वाहा  
-५।१।१८१।८ पौष्ण्यै स्वाहा  
-५।१।१८१।९ क्षोण्यै स्वाहा  
-५।१।१८१।१० मह्यै स्वाहा  
-  
-५।१।१८२।१ वाग्-देव्यै स्वाहा  
-५।१।१८२।२ विश्वायै स्वाहा  
-५।१।१८२।३ भृगु-पत्न्यै स्वाहा  
-५।१।१८२।४ सरस्वत्यै स्वाहा  
-५।१।१८२।५ श्रियै स्वाहा  
-५।१।१८२।६ धृत्यै स्वाहा  
-५।१।१८२।७ पवित्र्यै स्वाहा  
-५।१।१८२।८ प्रमोदायिन्यै स्वाहा  
-५।१।१८२।९ न्यक्षाय स्वाहा  
-५।१।१८२।१० अधित्यकाय[*२६१] स्वाहा  
-[*२६१] म्W प्। २१ अधित्यका, "लन्द् ओन् थे उप्पेर् पर्त् ओड़् अ मोउन्तैन्"।  
-
-५।१।१८३।१ पीवराय स्वाहा  
-५।१।१८३।२ आर्यकाय स्वाहा  
-५।१।१८३।३ विवस्वतये स्वाहा  
-५।१।१८३।४ भरताय स्वाहा  
-५।१।१८३।५ विश्व-कर्मणे स्वाहा  
-५।१।१८३।६ मरीचिमते स्वाहा  
-५।१।१८३।७ मित्राय स्वाहा  
-५।१।१८३।८ हित्वराय स्वाहा  
-५।१।१८३।९ राजिष्मते स्वाहा  
-५।१।१८३।१० रमणकाय स्वाहा  
-  
-५।१।१८४।१ क्षत्रे स्वाहा  
-५।१।१८४।२ मही-धराय स्वाहा  
-५।१।१८४।३ उर्व-रोहाय स्वाहा  
-५।१।१८४।४ शेवधये स्वाहा  
-५।१।१८४।५ हवि-रक्षकाय स्वाहा  
-५।१।१८४।६ आग्नेयाय स्वाहा  
-५।१।१८४।७ शैलूषाय स्वाहा  
-५।१।१८४।८ पचनाय स्वाहा  
-५।१।१८४।९ ब्राह्मण्यै स्वाहा  
-५।१।१८४।१० पिङ्गलायै[*२६२] स्वाहा  
-[*२६२] तेxत्: पिङ्गऌआयै  
-
-५।१।१८५।१ गौर्यै स्वाहा  
-५।१।१८५।२ सर्वतो-मुख्यै स्वाहा  
-५।१।१८५।३ सरित्-प्रियायै स्वाहा  
-५।१।१८५।४ विश्व-रूपायै स्वाहा  
-५।१।१८५।५ उग्रायै स्वाहा  
-५।१।१८५।६ गणेश्वर्यै स्वाहा  
-५।१।१८५।७ वैशाखिन्यै स्वाह  
-५।१।१८५।८ शिखण्डिन्यै स्वाहा  
-५।१।१८५।९ गायत्र्यै स्वाहा  
-५।१।१८५।१० षण्-मुख्यै स्वाहा  
-  
-५।१।१८६।१ विश्व-गर्भायै स्वाहा  
-५।१।१८६।२ विषोर्मिण्यै स्वाहा  
-५।१।१८६।३ कृष्णायै स्वाहा  
-५।१।१८६।४ रोहिण्यै[*२६३] स्वाहा  
-५।१।१८६।५ वाराह्यै स्वाहा  
-५।१।१८६।६ वर-दायै स्वाहा  
-५।१।१८६।७ उर्व्यै स्वाहा  
-५।१।१८६।८ वज्र-दंष्ट्र्यै स्वाहा  
-५।१।१८६।९ जयन्त्यै स्वाहा  
-५।१।१८६।१० कौशिक्यै स्वाहा  
-[*२६३] १९४६ एदितिओन्: द्रोहिण्यै  
-
-५।१।१८७।१ इन्द्राण्यै स्वाहा  
-५।१।१८७।२ घनाघनन्यै स्वाहा  
-५।१।१८७।३ काल्यै[*२६४] स्वाहा  
-५।१।१८७।४ नालीक[*२६५]-दंष्ट्र्यै स्वाहा  
-५।१।१८७।५ वृषभ-वाहनायै स्वाहा  
-५।१।१८७।६ वेद-धारिण्यै स्वाहा  
-५।१।१८७।७ पुष्प-रक्षकाय स्वाहा  
-५।१।१८७।८ हरिताय स्वाहा  
-५।१।१८७।९ अधिवासाय स्वाहा  
-५।१।१८७।१० फुल्लाय स्वाहा  
-[*२६४] तेxत्: काऌयै  
-[*२६५] तेxत्: नाऌईक  
-
-५।१।१८८।१ बलि-रक्षकाय स्वाहा  
-५।१।१८८।२ दण्ड्याय स्वाहा  
-५।१।१८८।३ सर्वदाय स्वाहा  
-५।१।१८८।४ समाय स्वाहा  
-५।१।१८८।५ विष्वक्सेनाय स्वाहा  
-५।१।१८८।६ शान्ताय स्वाहा  
-५।१।१८८।७ हराय स्वाहा[*२६६]  
-५।१।१८८।८ अमिताय स्वाहा  
-५।१।१८८।९ श्री-भूताय स्वाहा  
-५।१।१८८।१० श्वेत-वर्णाय स्वाहा  
-[*२६६] हरिताय स्वाहा इति पा  
-
-५।१।१८९।१ वैष्णवाय स्वाहा  
-५।१।१८९।२ मुख-पालिने स्वाहा  
-५।१।१८९।३ गरुडाय स्वाहा  
-५।१।१८९।४ पक्षि-राजाय स्वाहा  
-५।१।१८९।५ सुपर्णाय स्वाहा  
-५।१।१८९।६ खगाधिपतये स्वाहा  
-५।१।१८९।७ वक्र-तुण्डाय स्वाहा  
-५।१।१८९।८ एक-दंष्ट्राय स्वाहा  
-५।१।१८९।९ विकटाय स्वाहा  
-५।१।१८९।१० विनायकाय स्वाहा  
-  
-५।१।१९०।१ नाग-राजाय स्वाहा  
-५।१।१९०।२ सहस्र-शीर्षाय स्वाहा  
-५।१।१९०।३ अनन्ताय स्वाहा  
-५।१।१९०।४ शेषाय स्वाहा  
-५।१।१९०।५ सुदर्शनाय स्वाहा  
-५।१।१९०।६ चक्राय स्वाहा  
-५।१।१९०।७ सहस्र-विकचाय स्वाहा  
-५।१।१९०।८ अनपायिने स्वाहा  
-५।१।१९०।९ जयाय स्वाहा  
-५।१।१९०।१० अत्युच्छ्रिताय स्वाहा  
-  
-५।१।१९१।१ धन्याय स्वाहा  
-५।१।१९१।२ ध्वजाय स्वाहा  
-५।१।१९१।३ पाञ्चजन्याय स्वाहा  
-५।१।१९१।४ शङ्खाय स्वाहा  
-५।१।१९१।५ अम्बुजाय स्वाहा  
-५।१।१९१।६ विष्णु-प्रियाय स्वाहा  
-५।१।१९१।७ यूथाधिपाय[*२६७] स्वाहा  
-५।१।१९१।८ नित्याय स्वाहा  
-५।१।१९१।९ उग्राय स्वाहा  
-५।१।१९१।१० महा-भूताय स्वाहा  
-५।१।१९१।११ पावकोर्जुनाय स्वाहा  
-५।१।१९१।१२ हस्त-मगाय[*२६८] स्वाहा  
-५।१।१९१।१३ अक्ष-हन्ताय स्वाहा  
-५।१।१९१।१४ विष्णु-भूताय स्वाहा  
-[*२६७] तेxत्: यूधाधिपाय  
-[*२६८] छेच्क् म्W प्। ७७२  
-
-५।१।०।४१।१ हरिण्यै स्वाहा  
-५।१।०।४१।२ ख्यातीशाय स्वाहा  
-५।१।०।४१।३ धात्रे स्वाहोत्सङ्गाय स्वाहा वरुणाय स्वाहा ज्योती-रूपायै स्वाहा किष्किन्धाय स्वाहा पुरु-हूताय स्वाहारम्भाधिपतये स्वाहा  
-५।१।०।४१।४ भूतात्मकाय स्वाहादित्याय स्वाहा मन्दाय स्वाहा श्रविष्ठ-जाय स्वाहा सोमाय स्वाहा भीमाय स्वाहा पुरुषात्मकाय स्वाहा कलि-पत्न्यै स्वाहा वेगिन्यै स्वाहा प्रवाहिन्यै स्वाहार्ववत्यै स्वाहा पौर्णमास-भृताय स्वाहा निष्क-सूनवे स्वाहानसूया-वराय स्वाहाभुरण्याय स्वाहा मह्यै स्वाहाधीत्यकाय स्वाहा रमणकाय स्वाहा पिङ्गलायै[*२६९] स्वाहा षण्-मुख्यै स्वाहा कौशिक्यै स्वाहा फुल्लाय स्वाहा श्वेत-वर्णाय स्वाहा विनायकाय स्वाहात्युच्छ्रिताय स्वाहा महा-भूताय स्वाहा चत्वारि च  
-[*२६९] तेxत्: पिङ्गऌआयै  
-
-५।१।०।४२[*२७०] प्रियतां भगवान् रुद्रं भूतं निर्दग्ध(ग्)ं रक्षश् शुद्धा इमे आयातु भगवान् इमे बीजा ब्रह्माणम् आवाहयामि यो ऽजः पुरा मेदिनी देवी विष्णुर् मां पात्व् अस्मिन् देशे प्र तद् विष्णुर् हिरण्य-वर्णाः पवमानस् सुवर्-जनो मेदसे नम एतो न्व् इन्द्रं विष्णुर् मां पातु रुधिराय त्वचे नमो जीवाय नमो ब्रह्म जज्ञानम् आचार्यं त्वाम् अहं वास्तोष्-पते मौलि-मालायै[*२७१] स्वाहा स्थूपिकायै स्वाहा शुद्धा इमे शुक्रम् अस्य् अग्निम् ईले गार्हपत्य-यज्ञम् आवाहयामीषे त्वोर्जे त्वापो वा इद(ग्)ं सर्वम् आत्मात्माणोर् अणीयान् अतो देवा इदं विष्णुर् ओम् आयातु भगवान् अथर्व-वेदम् आवाहयामि धारासु सप्तसु वेदाहम् एतम् ॐ विष्णुम् आवाहयाम्य् ॐ होतर् एहि विष्णवे स्वाहैक-चत्वारि(ग्)म्शत्  
-[*२७०] ४१ इन् बोओक्  
-[*२७१] तेxत्: मौऌइमालायै  
-
-५।१।१९२।१ प्रियतां भगवान् द्रुहिण्यै स्वाहा रुद्रा-जम् आवाहायाम्य् अत्र स्वस्ति सवितादिते इनुमन्यस्व एतो न्व् इन्द्रं सत्यकम् आवाहयामि धर्म-राजम् आवाहयामि ज्योतिषे स्वाहा समानाय स्वाहा कर्णाय स्वाहा वैराग्यम् आवाहयाम्य् अणोर् अणीयान् आप उन्दन्तु सुखावहम् आवाहयामि बृहद्-अग्ने सुवीर्य् ॐ पीठाय स्वाहा यज्ञाङ्गाय स्वाहा शुद्धाय स्वाहा धन्याय स्वाहैक-नवत्य्-उत्तर-शतम्  
-  
-प्रियतां भगवान् विष्णु-भूताय स्वाहा  
-"हरिः ॐ तत् सत्"  
-  
-________________________________________  
-
-श्रियै नमः  
-आवरण-सप्तकेषूक्त-मूर्ती-होमः  
-  
-५।२।१।१ ॐ विष्णवे स्वाहा  
-५।२।१।२ महा-विष्णवे स्वाहा  
-५।२।१।३ सदा-विष्णवे स्वाहा  
-५।२।१।४ व्यापि-नारायणाय स्वाहा  
-५।२।१।५ श्रियै स्वाहा  
-५।२।१।६ भूम्यै स्वाहा  
-५।२।१।७ पुरुषाय स्वाहा  
-५।२।१।८ परम-पुरुषाय स्वाहा  
-५।२।१।९ पुरुषात्मकाय स्वाहा  
-५।२।१।१० धर्म-मयाय स्वाहा  
-  
-५।२।२।१ श्रियै स्वाहा  
-५।२।२।२ मेदिन्यै स्वाहा  
-५।२।२।३ सत्याय स्वाहा  
-५।२।२।४ सत्यात्मकाय स्वाहा  
-५।२।२।५ ज्ञान-मयाय स्वाहा  
-५।२।२।६ सर्व-संहाराय स्वाहा  
-५।२।२।७ धृत्यै स्वाहा  
-५।२।२।८ पौष्ण्यै स्वाहा  
-५।२।२।९ अच्युताय स्वाहा  
-५।२।२।१० अपरिमिताय स्वाहा  
-  
-५।२।३।१ ऐश्वर्याय स्वाहा  
-५।२।३।२ श्री-पतये स्वाहा  
-५।२।३।३ पवित्र्यै स्वाहा  
-५।२।३।४ क्षोण्यै स्वाहा  
-५।२।३।५ अनिरुद्धाय स्वाहा  
-५।२।३।६ महान्ताय[*२७२] स्वाहा  
-५।२।३।७ वैराग्याय स्वाहा  
-५।२।३।८ सर्व-तेजो-मयाय स्वाहा  
-५।२।३।९ प्रमोदायिन्यै स्वाहा  
-५।२।३।१० मह्यै स्वाहा  
-[*२७२] १९८४ एदितिओन्: महन्ताय  
-
-५।२।४।१ कपिलाय स्वाहा  
-५।२।४।२ मुनि-वराय स्वाहा  
-५।२।४।३ शुद्धाय स्वाहा  
-५।२।४।४ वेद-रूपिणे स्वाहा  
-५।२।४।५ गायत्र्यै स्वाहा  
-५।२।४।६ सावित्र्यै स्वाहा  
-५।२।४।७ यज्ञाय स्वाहा  
-५।२।४।८ सर्व-देव-मयाय स्वाहा  
-५।२।४।९ पुण्याय स्वाहा  
-५।२।४।१० क्रतवे स्वाहा  
-  
-५।२।५।१ स्वाहायै स्वाहा  
-५।२।५।२ स्वधायै स्वाहा  
-५।२।५।३ नारायणाय स्वाहा  
-५।२।५।४ जगन्नाथाय[*२७३] स्वाहा  
-५।२।५।५ देव-देवाय स्वाहा  
-५।२।५।६ त्रयी-मयाय स्वाहा  
-५।२।५।७ कमलायै स्वाहा  
-५।२।५।८ इऌआयै स्वाहा[*२७४]  
-५।२।५।९ पुण्याय स्वाहा  
-५।२।५।१० पुण्यात्मकाय स्वाहा  
-[*२७३] तेxत्: नाधाय  
-[*२७४] च्ड़्।  व्म्प् ५।२।१५।९  
-
-५।२।६।१ पुण्य-मूर्तये स्वाहा  
-५।२।६।२ पुण्य-दायिने स्वाहा  
-५।२।६।३ इन्दिरायै स्वाहा  
-५।२।६।४ धरण्यै स्वाहा  
-५।२।६।५ वराहाय स्वाहा  
-५।२।६।६ वर-दाय स्वाहा  
-५।२।६।७ भूमि-सन्धारणाय स्वाहा  
-५।२।६।८ वज्र-दंष्ट्रिने स्वाहा  
-५।२।६।९ श्रियै स्वाहा  
-५।२।६।१० भूम्यै स्वाहा  
-  
-५।२।७।१ नारसिंहाय स्वाहा  
-५।२।७।२ तपो-नाथाय[*२७५] स्वाहा  
-५।२।७।३ महा-विष्णवे स्वाहा  
-५।२।७।४ महा-बलाय स्वाहा  
-५।२।७।५ श्रियै स्वाहा  
-५।२।७।६ भूम्यै स्वाहा  
-५।२।७।७ वामनाय स्वाहा  
-५।२।७।८ वर-दाय स्वाहा  
-५।२।७।९ काश्यपाय स्वाहा  
-५।२।७।१० अदिति-प्रियाय स्वाहा  
-[*२७५] तेxत्: तपो-नाधाय  
-
-५।२।८।१ त्रिविक्रमाय स्वाहा  
-५।२।८।२ त्रि-लोकेशाय स्वाहा  
-५।२।८।३ सर्वाधाराय स्वाहा  
-५।२।८।४ वैकुण्ठाय स्वाहा  
-५।२।८।५ सुभद्राय स्वाहा  
-५।२।८।६ सुमुखाय स्वाहा  
-५।२।८।७ सुख-प्रदाय स्वाहा  
-५।२।८।८ सुख-दर्शनाय स्वाहा  
-५।२।८।९ कमलायै स्वाहा  
-५।२।८।१० अवन्यै स्वाहा  
-५।२।९।१ ईशाय स्वाहा  
-५।२।९।२ वर-दाय स्वाहा  
-५।२।९।३ सर्वेशाय स्वाहा  
-५।२।९।४ ईशितात्मने स्वाहा  
-५।२।९।५ पद्मायै स्वाहा  
-५।२।९।६ स्थिरायै स्वाहा  
-५।२।९।७ सर्वेशाय स्वाहा  
-५।२।९।८ सर्वाधाराय स्वाहा  
-५।२।९।९ सर्व-ज्ञाय स्वाहा  
-५।२।९।१० सर्वोद्वहाय स्वाहा  
-  
-५।२।१०।१ लक्ष्म्यै स्वाहा  
-५।२।१०।२ धरायै स्वाहा  
-५।२।१०।३ सर्व-विद्येश्वराय स्वाहा  
-५।२।१०।४ पुण्याय स्वाहा  
-५।२।१०।५ शुद्धाय स्वाहा  
-५।२।१०।६ ज्ञानाय स्वाहा  
-५।२।१०।७ कनकायै स्वाहा  
-५।२।१०।८ श्यामायै स्वाहा  
-५।२।१०।९ इन्द्राय स्वाहा  
-५।२।१०।१० शची-पतये स्वाहा  
-  
-५।२।११।१ पुरु-हूताय स्वाहा  
-५।२।११।२ पुरन्दराय स्वाहा  
-५।२।११।३ अग्नये स्वाहा  
-५।२।११।४ जात-वेदसे स्वाहा  
-५।२।११।५ पावकाय स्वाहा  
-५।२।११।६ हुताशनाय स्वाहा  
-५।२।११।७ यमाय स्वाहा  
-५।२।११।८ धर्म-राजाय स्वाहा  
-५।२।११।९ प्रेतेशाय स्वाहा  
-५।२।११।१० मध्य-स्थाय स्वाहा  
-  
-५।२।१२।१ आरम्भाधिपतये स्वाहा  
-५।२।१२।२ निरृतये स्वाहा  
-५।२।१२।३ नीलाय स्वाहा  
-५।२।१२।४ सर्व-रक्षो-इधिपतये स्वाहा  
-५।२।१२।५ वरुणाय स्वाहा  
-५।२।१२।६ प्रचेतसे स्वाहा  
-५।२।१२।७ रक्ताम्बराय स्वाहा  
-५।२।१२।८ यादस्-पतये स्वाहा  
-५।२।१२।९ वायवे स्वाहा  
-५।२।१२।१० जवनाय स्वाहा  
-  
-५।२।१३।१ भूतात्मकाय स्वाहा  
-५।२।१३।२ उदानाय स्वाहा  
-५।२।१३।३ कुबेराय स्वाहा  
-५।२।१३।४ धन्याय स्वाहा  
-५।२।१३।५ पौलस्त्याय स्वाहा  
-५।२।१३।६ यक्ष-राजाय स्वाहा  
-५।२।१३।७ ईशानाय स्वाहा  
-५।२।१३।८ देवाय स्वाहा  
-५।२।१३।९ भवाय स्वाहा  
-५।२।१३।१० महा-देवाय स्वाहा  
-  
-५।२।१४।१ श्रियै स्वाहा  
-५।२।१४।२ धृत्यै स्वाहा  
-५।२।१४।३ पवित्र्यै स्वाहा  
-५।२।१४।४ प्रमोदायिन्यै स्वाहा  
-५।२।१४।५ हरिण्यै स्वाहा  
-५।२।१४।६ पौष्ण्यै स्वाहा  
-५।२।१४।७ क्षोण्यै स्वाहा  
-५।२।१४।८ मह्यै स्वाहा  
-५।२।१४।९ सुभद्राय स्वाहा  
-५।२।१४।१० सुमुखाय स्वाहा  
-  
-५।२।१५।१ सुख-प्रदाय स्वाहा  
-५।२।१५।२ सुख-दर्शनाय स्वाहा  
-५।२।१५।३ कमलायै स्वाहा  
-५।२।१५।४ अवन्यै स्वाहा  
-५।२।१५।५ हयात्मकाय स्वाहा  
-५।२।१५।६ देवेशाय स्वाहा  
-५।२।१५।७ सर्वानन्दाय स्वाहा  
-५।२।१५।८ सनातनाय स्वाहा  
-५।२।१५।९ इलायै स्वाहा  
-५।२।१५।१० विश्वायै स्वाहा  
-  
-५।२।१६।१ राम-देवाय स्वाहा  
-५।२।१६।२ महा-बलाय स्वाहा  
-५।२।१६।३ महा-भद्राय स्वाहा  
-५।२।१६।४ परशु-पाणये स्वाहा  
-५।२।१६।५ ब्राह्म्यै स्वाहा  
-५।२।१६।६ विजयायै स्वाहा  
-५।२।१६।७ पुण्याय स्वाहा  
-५।२।१६।८ पुण्यात्मकाय स्वाहा  
-५।२।१६।९ पुण्य-मूर्तये स्वाहा  
-५।२।१६।१० पुण्य-दायिने स्वाहा  
-  
-५।२।१७।१ इन्दिरायै स्वाहा  
-५।२।१७।२ धरण्यै स्वाहा  
-५।२।१७।३ सर्वाय स्वाहा  
-५।२।१७।४ विश्वाय स्वाहा  
-५।२।१७।५ सर्वाधाराय स्वाहा  
-५।२।१७।६ सर्वेश्वराय स्वाहा  
-५।२।१७।७ सकलायै स्वाहा  
-५।२।१७।८ विश्वायै स्वाहा  
-५।२।१७।९ सुखावहाय स्वाहा  
-५।२।१७।१० सुरेशाय स्वाहा  
-  
-५।२।१८।१ सुमुखाय स्वाहा  
-५।२।१८।२ सुर-प्रियाय स्वाहा  
-५।२।१८।३ शुद्धायै स्वाहा  
-५।२।१८।४ विमलायै स्वाहा  
-५।२।१८।५ संवाहाय स्वाहा  
-५।२।१८।६ सर्व-तेजो-मयाय स्वाहा  
-५।२।१८।७ आनन्दाय स्वाहा  
-५।२।१८।८ सर्व-रूपिणे स्वाहा  
-५।२।१८।९ सुभगायै स्वाहा  
-५।२।१८।१० सुमुख्यै स्वाहा  
-  
-५।२।१९।१ सुवहाय स्वाहा  
-५।२।१९।२ सुकृताय स्वाहा  
-५।२।१९।३ विज्ञानाय स्वाहा  
-५।२।१९।४ वेद-मयाय स्वाहा  
-५।२।१९।५ सुमदायै स्वाहा  
-५।२।१९।६ जनन्यै स्वाहा  
-५।२।१९।७ मित्राय स्वाहा  
-५।२।१९।८ लोक-हिताय स्वाहा  
-५।२।१९।९ विश्वात्मकाय स्वाहा  
-५।२।१९।१० कपि-वराय स्वाहा  
-  
-५।२।२०।१ अत्रये स्वाहा  
-५।२।२०।२ विधाताराय स्वाहा  
-५।२।२०।३ तृतीयात्मकाय स्वाहा  
-५।२।२०।४ वेद-मूर्तये स्वाहा  
-५।२।२०।५ शिवाय स्वाहा  
-५।२।२०।६ मुनि-वराय स्वाहा  
-५।२।२०।७ शुद्धाय स्वाहा  
-५।२।२०।८ सुयोक्ताराय स्वाहा  
-५।२।२०।९ विश्वाय स्वाहा  
-५।२।२०।१० भूत-नायकाय स्वाहा  
-  
-५।२।२१।१ जगद्-वीक्षनाय स्वाहा  
-५।२।२१।२ सर्व-मातृकाय स्वाहा  
-५।२।२१।३ सनातनाय स्वाहा  
-५।२।२१।४ मुनीन्द्राय स्वाहा  
-५।२।२१।५ ब्रह्म-सम्भवाय स्वाहा  
-५।२।२१।६ निष्ठानकाय स्वाहा  
-५।२।२१।७ सनन्दनाय स्वाहा  
-५।२।२१।८ गुरवे स्वाहा  
-५।२।२१।९ सर्व-पूज्याय स्वाहा  
-५।२।२१।१० मन्त्र-ज्ञाय स्वाहा  
-  
-५।२।२२।१ सनत्-कुमाराय स्वाहा  
-५।२।२२।२ ज्योतिर्-ईशाय स्वाहा  
-५।२।२२।३ निरुद्वेगाय स्वाहा  
-५।२।२२।४ अक्रोधाय स्वाहा  
-५।२।२२।५ सनकाय स्वाहा  
-५।२।२२।६ नियताराय स्वाहा  
-५।२।२२।७ धर्म-ज्ञाय स्वाहा  
-५।२।२२।८ धर्म-चोदिताय स्वाह  
-५।२।२२।९ इन्द्राय स्वाहा  
-५।२।२२।१० महा-देवाय स्वाहा[*२७६]  
-[*२७६] इन्द्रादीनां चतुर्-मूर्ति-मन्त्रैः पूर्ववत्  
-
-५।२।२३।१ श्रियै स्वाहा  
-५।२।२३।२ मह्यै स्वाहा[*२७७]  
-५।२।२३।३ ब्रह्मणे स्वाहा  
-५।२।२३।४ प्रजा-पतये स्वाहा  
-५।२।२३।५ पितामहाय स्वाहा  
-५।२।२३।६ हिरण्य-गर्भाय स्वाहा  
-५।२।२३।७ मार्कण्डेयाय स्वाहा  
-५।२।२३।८ पुण्याय स्वाहा  
-५।२।२३।९ पुराणाय स्वाहा  
-५।२।२३।१० अमिताय स्वाहा  
-[*२७७] श्री मही-देव्य्-आदीनां चतुर्-नामभिः पूर्ववत्  
-
-५।२।२४।१ गङ्गा-धराय स्वाहा  
-५।२।२४।२ वृषभ-वाहनाय[*२७८] स्वाहा  
-५।२।२४।३ अष्ट-मूर्तये स्वाहा  
-५।२।२४।४ उमा-पतये स्वाहा  
-५।२।२४।५ पद्मा-पित्रे स्वाहा  
-५।२।२४।६ धातृ-नाथाय[*२७९] स्वाहा  
-५।२।२४।७ ख्यातीशाय स्वाहा  
-५।२।२४।८ भृगवे स्वाहा  
-५।२।२४।९ धात्रे स्वाहा  
-५।२।२४।१० दम्भिने स्वाहा  
-[*२७८] च्ड़्। ५।१।१५९।७, ऋषभ-वाहनाय, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चेस् ओड़् वेर्सेस् (इ।ए। ५।१।१५९।६-९ च्ड़्। ५।२।२४।१-४)।  
-[*२७९] तेxत्: धातृ-नाधाय  
-
-५।२।२५।१ सनिलाय[*२८०] स्वाहा  
-५।२।२५।२ गन्ध-दाय स्वाहा  
-५।२।२५।३ विधात्रे स्वाहा  
-५।२।२५।४ कीनाशाय स्वाहा  
-५।२।२५।५ मुरुण्डाय स्वाहा  
-५।२।२५।६ न्यर्णकाय[*२८१] स्वाहा  
-५।२।२५।७ भृतये स्वाहा  
-५।२।२५।८ भुवङ्गाय स्वाहा  
-५।२।२५।९ उत्सङ्गाय स्वाहा  
-५।२।२५।१० पीठाय स्वाहा  
-[*२८०] तेxत्: सनिऌआय  
-[*२८१] च्ड़्। ५।१।१६०।७, न्यर्णाय, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१५९।१०-१६२।३ च्ड़्। ५।२।२४।९-२७।२)।  
-
-५।२।२६।१ पतङ्गाय स्वाहा  
-५।२।२६।२ उत्कराय स्वाहा  
-५।२।२६।३ अपदानाय स्वाहा  
-५।२।२६।४ कपर्दिने स्वाहा  
-५।२।२६।५ पतिराय स्वाहा  
-५।२।२६।६ बल्लिदाय स्वाहा  
-५।२।२६।७ मध्य-गाय स्वाहा  
-५।२।२६।८ वङ्घनाय स्वाहा  
-५।२।२६।९ वरुणाय स्वाहा  
-५।२।२६।१० तेजिने स्वाहा  
-  
-५।२।२७।१ दंशिने स्वाहा  
-५।२।२७।२ तरस्विने स्वाहा  
-५।२।२७।३ न्यक्षाय स्वाहा  
-५।२।२७।४ अधीत्यकाय[*२८२] स्वाहा  
-५।२।२७।५ पीवराय स्वाहा  
-५।२।२७।६ आर्यकाय स्वाहा  
-५।२।२७।७ विवस्वते स्वाहा  
-५।२।२७।८ भरताय स्वाहा  
-५।२।२७।९ विश्व-कर्मणे स्वाहा  
-५।२।२७।१० मरीचिमते स्वाहा  
-[*२८२] च्ड़्। ५।१।१८२।१०, अधित्यकाय, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् इ।ए।५।१।१८२।९-१८४।४ च्ड़्। ५।२।२७।३-२८।८।)  
-
-५।२।२८।१ मित्राय स्वाहा  
-५।२।२८।२ इत्वराय[*२८३] स्वाहा  
-५।२।२८।३ राजिष्मते स्वाहा  
-५।२।२८।४ रमणकाय स्वाहा  
-५।२।२८।५ क्षत्रे स्वाहा  
-५।२।२८।६ मही-धराय स्वाहा  
-५।२।२८।७ उर्व-रोहाय स्वाहा  
-५।२।२८।८ शेवधये स्वाहा  
-५।२।२८।९ मणिकाय स्वाहा  
-५।२।२८।१० महा-बलाय स्वाहा  
-[*२८३] च्ड़्। ५।१।१८३।३, हित्वराय, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१८२।९-१८४।४ च्ड़्। ५।२।२७।३-२८।८)।  
-
-५।२।२९।१ विमलाय स्वाहा  
-५।२।२९।२ द्वार-पालकाय स्वाहा  
-५।२।२९।३ सन्ध्यायै स्वाहा  
-५।२।२९।४ प्रभावत्यै स्वाहा  
-५।२।२९।५ ज्योति-रूपायै स्वाहा  
-५।२।२९।६ दृढ-व्रतायै स्वाहा  
-५।२।२९।७ विखनसे स्वाहा  
-५।२।२९।८ तपो-युक्ताय स्वाहा  
-५।२।२९।९ सिद्धि-दाय स्वाहा  
-५।२।२९।१० ब्रह्म-दर्शिने स्वाहा  
-  
-५।२।३०।१ तापसाय स्वाहा  
-५।२।३०।२ सिद्धि-राजाय स्वाहा  
-५।२।३०।३ सर्व-दोष-विवर्जिताय स्वाहा  
-५।२।३०।४ सहस्राश्व-मेधिने स्वाहा  
-५।२।३०।५ किष्किन्धाय स्वाहा  
-५।२।३०।६ बहु-मर्दनाय स्वाहा  
-५।२।३०।७ बहु-सेनाय स्वाहा  
-५।२।३०।८ दृढ-व्रताय स्वाहा  
-५।२।३०।९ तीर्थाय स्वाहा  
-५।२।३०।१० उद्वाहकाय स्वाहा  
-  
-५।२।३१।१ सर्व-योग्याय स्वाहा  
-५।२।३१।२ उदावहाय स्वाहा  
-५।२।३१।३ वक्र-तुण्डाय स्वाहा  
-५।२।३१।४ एक-दंष्ट्राय स्वाहा  
-५।२।३१।५ विकटाय स्वाहा  
-५।२।३१।६ विनायकाय स्वाहा  
-५।२।३१।७ नाग-राजाय स्वाहा  
-५।२।३१।८ सहस्र-शीर्षाय स्वाहा  
-५।२।३१।९ अनन्ताय स्वाहा  
-५।२।३१।१० शेषाय स्वाहा  
-  
-५।२।३२।१ शङ्खाय स्वाहा  
-५।२।३२।२ निधि-वराय स्वाहा  
-५।२।३२।३ धन-दाय स्वाहा  
-५।२।३२।४ मौक्तिकोद्भवाय स्वाहा  
-५।२।३२।५ पद्माय स्वाहा  
-५।२।३२।६ निधि-वराय स्वाहा  
-५।२।३२।७ रक्ताभाय स्वाहा  
-५।२।३२।८ भूत-नायकाय स्वाहा  
-५।२।३२।९ तुहणाय स्वाहा  
-५।२।३२।१० दैत्य-राजाय स्वाहा  
-  
-५।२।३३।१ विष्णु-भक्ताय स्वाहा  
-५।२।३३।२ गदाधराय स्वाहा  
-५।२।३३।३ दैतेयाय स्वाहा  
-५।२।३३।४ महा-वीर्याय स्वाहा  
-५।२।३३।५ बलिन्-दाय स्वाहा  
-५।२।३३।६ शूल-पाणये स्वाहा  
-५।२।३३।७ नन्दकाय स्वाहा  
-५।२।३३।८ खड्गाय स्वाहा  
-५।२।३३।९ पाप-हराय स्वाहा  
-५।२।३३।१० दैत्य-नाशनाय स्वाहा  
-  
-५।२।३४।१ शार्ङ्गाय स्वाहा  
-५।२।३४।२ धनुर्-वराय स्वाहा  
-५।२।३४।३ शत्रु-हन्त्रे स्वाहा  
-५।२।३४।४ वरायुधाय स्वाहा  
-५।२।३४।५ शङ्ख-चूलिने[*२८४] स्वाहा  
-५।२।३४।६ वृक्ष-दण्डाय स्वाहा  
-५।२।३४।६ श्वेताभाय स्वाहा  
-५।२।३४।७ घोर-रूपाय स्वाहा  
-५।२।३४।८ चक्र-चूलिने[*२८५] स्वाहा  
-५।२।३४।१० महा-नादाय स्वाहा  
-[*२८४] तेxत्: -शूऌइने  
-[*२८५] तेxत्: -चूऌइने  
-
-५।२।३५।१ उग्र-रूपिणे स्वाहा  
-५।२।३५।२ भयानकाय स्वाहा  
-५।२।३५।३ चण्डाय स्वाहा  
-५।२।३५।४ उग्राय स्वाहा  
-५।२।३५।५ भयानकाय स्वाहा  
-५।२।३५।६ द्वार-पालकाय स्वाहा  
-५।२।३५।७ प्रचण्डाय स्वाहा  
-५।२।३५।८ भीमाय स्वाहा  
-५।२।३५।९ घोर-रूपाय स्वाहा  
-५।२।३५।१० द्वारधिपतये स्वाहा  
-  
-५।२।३६।१ विष्वक्सेनाय स्वाहा  
-५।२।३६।२ शान्ताय स्वाहा  
-५।२।३६।३ हराय[*२८६] स्वाह  
-५।२।३६।४ अमिताय स्वाहा  
-५।२।३६।५ श्री-भूताय स्वाहा  
-५।२।३६।६ श्वेत-वर्णाय स्वाहा  
-५।२।३६।७ वैष्णवाय स्वाहा  
-५।२।३६।८ मुख-पालिने स्वाहा  
-५।२।३६।९ गरुडाय स्वाहा  
-५।२।३६।१० पक्षि-राजाय स्वाहा  
-[*२८६] १९४६ एदितिओन्: हरितावाय; १९८४ एदितिओन्: हराय  
-
-५।२।३७।१ सुपर्णाय स्वाहा  
-५।२।३७।२ खगाधिपाय[*२८७] स्वाहा  
-५।२।३७।३ सुदर्शनाय स्वाहा  
-५।२।३७।४ चक्राय स्वाहा  
-५।२।३७।५ सहस्र-विकचाय स्वाहा  
-५।२।३७।६ अनपायिने स्वाहा  
-५।२।३७।७ पाञ्चजन्याय स्वाहा  
-५।२।३७।८ शङ्खाय स्वाहा  
-५।२।३७।९ अम्बुजाय स्वाहा  
-५।२।३७।१० विष्णु-प्रियाय स्वाहा  
-[*२८७] च्ड़्। ५।१।१८९।६, खगाधिपतये, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१८८।५-१८९।६ च्ड़्। ५।२।३६।१-५।२।३७।२)।  
-
-५।२।३८।१ जयाय स्वाहा  
-५।२।३८।२ अत्युच्छ्रिताय स्वाहा  
-५।२।३८।३ धन्याय स्वाहा  
-५।२।३८।४ ध्वजाय स्वाहा  
-५।२।३८।५ यूथाधिपाय[*२८८] स्वाहा  
-५।२।३८।६ नित्याय स्वाहा  
-५।२।३८।७ अग्राय[*२८९] स्वाहा  
-५।२।३८।८ महा-भूताय स्वाहा  
-५।२।३८।९ पावकोर्जुनाय स्वाहा  
-५।२।३८।१० हस्ताय[*२९०] स्वाहा  
-[*२८८] तेxत्: यूधाधिपाय  
-[*२८९] च्ड़्। ५।१।१९१।९, उग्राय, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१९१।७-१४ च्ड़्। ५।२।३८।५-३९।२)।  
-[*२९०] १९४६ एदितिओन्: हस्तमाय  
-
-५।२।३९।१ अक्ष-हन्ताय स्वाहा  
-५।२।३९।२ विष्णु-भूताय[*२९१] स्वाहा  
-५।२।३९।३ इन्द्राय स्वाहा[*२९२]  
-५।२।३९।४ आदित्याय स्वाहा[*२९३]  
-५।२।३९।५ भास्कराय स्वाहा  
-५।२।३९।६ सूर्याय स्वाहा  
-५।२।३९।७ मार्ताण्डाय स्वाहा  
-५।२।३९।८ विवस्वते स्वाहा  
-५।२।३९।९ वसिष्ठाय स्वाहा  
-५।२।३९।१० सोमाय स्वाहा  
-[*२९१] १९४६ एदितिओन्: विष्णु-भूत-युताय; १९८४ एदितिओन्: विष्णु-भूताय  
-[*२९२] इन्द्रादि-दिग्-ईशानां चतुर्-मूर्ति-मन्त्रैः पुर्ववत्  
-[*२९३] रवि-शशिनौ पञ्च-मूर्ति-मन्त्रा इति मरीचिः  
-
-५।२।४०।१ यज्ञाङ्गाय स्वाहा  
-५।२।४०।२ इन्दवे स्वाहा  
-५।२।४०।३ चन्द्राय स्वाहा  
-५।२।४०।४ अङ्गारकाय स्वाहा  
-५।२।४०।५ वक्राय स्वाहा  
-५।२।४०।६ रक्ताय स्वाहा  
-५।२।४०।७ धरा-सुताय स्वाहा  
-५।२।४०।८ बुधाय स्वाहा  
-५।२।४०।९ श्यामाय स्वाहा  
-५।२।४०।१० सौम्याय स्वाहा  
-  
-५।२।४१।१ श्रविष्ठ-जाय स्वाहा  
-५।२।४१।२ पीत-वर्णाय स्वाहा  
-५।२।४१।३ गुरवे स्वाहा  
-५।२।४१।४ तैष्याय स्वाहा  
-५।२।४१।५ बृहस्पतये स्वाहा  
-५।२।४१।६ शुक्राय स्वाहा  
-५।२।४१।७ काव्याय स्वाहा  
-५।२।४१।८ भार्गवाय स्वाहा  
-५।२।४१।९ परिसर्पिणे स्वाहा  
-५।२।४१।१० सूर्य-पुत्राय स्वाहा  
-  
-५।२।४२।१ मन्दाय स्वाहा  
-५।२।४२।२ रैवत्याय स्वाहा  
-५।२।४२।३ शनैश्चराय स्वाहा  
-५।२।४२।४ राहवे स्वाहा  
-५।२।४२।५ दैतेयाय स्वाहा  
-५।२।४२।६ उरगेशाय स्वाहा  
-५।२।४२।७ ग्राहकाय स्वाह  
-५।२।४२।८ केतवे स्वाहा  
-५।२।४२।९ कृष्ण-वर्णाय स्वाहा  
-५।२।४२।१० रौद्राय स्वाहा  
-  
-५।२।४३।१ अप्रकाशिने स्वाहा  
-५।२।४३।२ नलिन्यै[*२९४] स्वाहा  
-५।२।४३।३ जाह्नव्यै स्वाहा  
-५।२।४३।४ गङ्गायै स्वाहा  
-५।२।४३।५ लोक-पावन्यै स्वाहा  
-५।२।४३।६ यमुनायै स्वाहा  
-५।२।४३।७ स्फटिकाभायै स्वाहा  
-५।२।४३।८ नदी-वरायै स्वाहा  
-५।२।४३।९ पावन्यै स्वाहा  
-५।२।४३।१० नर्मदायै स्वाहा  
-[*२९४] तेxत्: नऌइन्यै  
-
-५।२।४४।१ नदी-वरायै स्वाहा  
-५।२।४४।२ विद्युद्-रूपायै स्वाहा  
-५।२।४४।३ विशालायै स्वाहा  
-५।२।४४।४ सिन्धवे स्वाहा  
-५।२।४४।५ नदी-वरायै स्वाहा  
-५।२।४४।६ मृद्व्-अङ्ग्यै स्वाहा  
-५।२।४४।७ साधनायै स्वाहा  
-५।२।४४।८ दुर्गायै स्वाहा  
-५।२।४४।९ कात्यायन्यै[*२९५] स्वाहा  
-५।२।४४।१० वैष्णव्यै स्वाहा  
-[*२९५] च्ड़्। ५।१।१७४।२, कात्यायन्यै, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१७४।१-४ च्ड़्। ५।२।४४।८-४५।१)।  
-
-५।२।४५।१ विन्ध्य-वासिन्यै स्वाहा  
-५।२।४५।२ सिद्ध्यै स्वाहा  
-५।२।४५।३ विश्वायै स्वाहा  
-५।२।४५।४ भृगु-पत्न्यै स्वाहा  
-५।२।४५।५ सरस्वत्यै स्वाहा  
-५।२।४५।६ श्रियै स्वाहा  
-५।२।४५।७ धृत्यै स्वाहा  
-५।२।४५।८ पवित्र्यै स्वाहा  
-५।२।४५।९ प्रमोदायिन्यै स्वाहा  
-५।२।४५।१० भूर्-ज्येष्ठायिन्यै स्वाहा[*२९६]  
-[*२९६] ज्येष्ठा देव्या षत् नाम-मन्त्रा इति मरीचिः । ज्येष्ठां पञ्चभिर् आह्वयेद् इत्य् अत्रिः  
-
-५।२।४६।१ भुवर्-ज्येष्ठायिन्यै स्वाहा  
-५।२।४६।२ सुवर्-ज्येष्ठायिन्यै स्वाहा  
-५।२।४६।३ कलि-राजायिन्यै स्वाहा  
-५।२।४६।४ कलि-पत्न्यै स्वाहा  
-५।२।४६।५ धात्र्यै स्वाहा  
-५।२।४६।६ महोदर्यै स्वाहा  
-५।२।४६।७ रौद्र्यै स्वाहा  
-५।२।४६।८ महा-काल्यै[*२९७] स्वाहा  
-५।२।४६।९ सुरायै स्वाहा  
-[*२९७] तेxत्: काऌयै  
-
-५।२।४७।१ सुमुख्यै स्वाहा  
-५।२।४७।२ विद्युद्-रूपायै स्वाहा  
-५।२।४७।३ सुभगायै स्वाहा  
-५।२।४७।४ सुन्दर्यै स्वाहा  
-५।२।४७।५ विशालायै स्वाहा  
-५।२।४७।६ पद्माक्ष्यै स्वाहा  
-५।२।४७।७ पद्म-वर्णिण्यै स्वाहा  
-५।२।४७।८ स्वाहायै स्वाहा  
-५।२।४७।९ शुभाङ्ग्यै स्वाहा  
-५।२।४७।१० मृद्व्-अङ्ग्यै स्वाहा  
-  
-५।२।४८।१ साधनायै स्वाहा  
-५।२।४८।२ स्वधायै स्वाहा  
-५।२।४८।३ समृद्ध्यै स्वाहा  
-५।२।४८।४ कुल-वृद्धिन्यै स्वाहा  
-५।२।४८।५ सन्नत्यै स्वाहा  
-५।२।४८।६ मायायै स्वाहा  
-५।२।४८।७ मातङ्ग्यै स्वाहा  
-५।२।४८।८ वराह्यै स्वाहा  
-५।२।४८।९ वराननायै स्वाहा  
-५।२।४८।१० संह्लादिन्यै स्वाहा  
-  
-५।२।४९।१ वरारोहायै स्वाहा  
-५।२।४९।२ मायाङ्ग्यै स्वाहा  
-५।२।४९।३ मुद्वर्थिन्यै स्वाहा  
-५।२।४९।४ राकायै स्वाहा  
-५।२।४९।५ मुख्यायै स्वाहा  
-५।२।४९।६ रक्ताङ्ग्यै स्वाहा  
-५।२।४९।७ वराननायै स्वाहा  
-५।२।४९।८ सिनीवाल्यै स्वाहा  
-५।२।४९।९ गभस्तिन्यै स्वाहा  
-५।२।४९।१० हित-दायै स्वाहा  
-  
-५।२।५०।१ पुण्य-दायै स्वाहा  
-५।२।५०।२ हवि-रक्षकाय स्वाहा  
-५।२।५०।३ आग्नेयाय स्वाहा  
-५।२।५०।४ शैलूषाय स्वाहा  
-५।२।५०।५ पचनाय स्वाहा  
-५।२।५०।६ पुष्प-रक्षकाय स्वाहा  
-५।२।५०।७ हरिताय स्वाहा  
-५।२।५०।८ अधिवासाय स्वाहा  
-५।२।५०।९ फुल्लाय स्वाहा  
-५।२।५०।१० पुरुषाय स्वाहा  
-  
-५।२।५१।१ परम-पुरुषाय स्वाहा  
-५।२।५१।२ पुरुषात्मकाय स्वाहा  
-५।२।५१।३ धर्म-मयाय स्वाहा  
-५।२।५१।४ त्वष्ट्रे स्वाहा  
-५।२।५१।५ रूप-जाताय स्वाहा  
-५।२।५१।६ निधि-जाय स्वाहा  
-५।२।५१।७ प्लोताधिपतये स्वाहा  
-५।२।५१।८ गदायै स्वाहा  
-५।२।५१।९ कौमोदक्यै स्वाहा  
-५।२।५१।१० पुण्यायै स्वाहा  
-  
-५।२।५२।१ प्रबलायै स्वाहा  
-५।२।५२।२ सर्वेश्वराय स्वाहा  
-५।२।५२।३ जगन्नाथाय स्वाहा  
-५।२।५२।४ चामुण्डाय स्वाहा  
-५।२।५२।५ सर्वतश्-चराय स्वाहा  
-५।२।५२।६ बलि-रक्षकाय स्वाहा  
-५।२।५२।७ दण्ड्याय स्वाहा  
-५।२।५२।८ सर्व-ज्ञाय[*२९८] स्वाहा  
-५।२।५२।९ समाय स्वाहा  
-५।२।५२।१० गविष्ठाय स्वाहा  
-[*२९८] च्ड़्। ५।१।१८८।३, सर्वदाय, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए।५।१।१८८।१--४ च्ड़्। ५।२।५२।६-९)।  
-
-५।२।५३।१ त्रैष्टुभाय स्वाहा  
-५।२।५३।२ गुह्याय स्वाहा  
-५।२।५३।३ आकाशाय स्वाहा  
-५।२।५३।४ हरिण्यै स्वाहा  
-५।२।५३।५ पौष्ण्यै स्वाहा  
-५।२।५३।६ क्षोण्यै स्वाहा  
-५।२।५३।७ मह्यै स्वाहा  
-५।२।५३।८ पवित्राय स्वाहा  
-५।२।५३।९ अमृताय स्वाहा  
-५।२।५३।१० तोयाय स्वाहा  
-  
-५।२।५४।१ गह्वराय स्वाहा  
-५।२।५४।२ वीति-होत्राय स्वाहा  
-५।२।५४।३ आभुरण्याय स्वाहा  
-५।२।५४।४ शुद्धाय स्वाहा  
-५।२।५४।५ अग्नये स्वाहा  
-५।२।५४।६ असवे स्वाहा  
-५।२।५४।७ समीरणाय स्वाहा  
-५।२।५४।८ वायवे स्वाहा  
-५।२।५४।९ पृषदश्वाय स्वाहा  
-५।२।५४।१० ऋग्-वेदाय स्वाहा  
-  
-५।२।५५।१ मधुने स्वाहा  
-५।२।५५।२ सोमाय स्वाहा  
-५।२।५५।३ क्रतवे स्वाहा  
-५।२।५५।४ यजुर्-वेदाय स्वाहा  
-५।२।५५।५ दध्ने स्वाहा  
-५।२।५५।६ मिश्राय स्वाहा  
-५।२।५५।७ इष्टाय स्वाहा  
-५।२।५५।८ साम-वेदाय स्वाहा  
-५।२।५५।९ घृताय स्वाहा  
-५।२।५५।१० वज्राय स्वाहा  
-  
-५।२।५६।१ यज्ञाय स्वाहा  
-५।२।५६।२ अथर्व-वेदाय स्वाहा  
-५।२।५६।३ पवित्राय स्वाहा  
-५।२।५६।४ क्षीराय स्वाहा  
-५।२।५६।५ पुण्याय स्वाहा  
-५।२।५६।६ शिवाय स्वाहा  
-५।२।५६।७ मुनि-वराय स्वाहा  
-५।२।५६।८ शुद्धाय स्वाहा  
-५।२।५६।९ सुयोक्ताराय स्वाहा  
-५।२।५६।१० विष्णवे स्वाहा  
-  
-५।२।५७।१ व्यापिने स्वाहा  
-५।२।५७।२ रत्नाय स्वाहा  
-५।२।५७।३ विश्वाय स्वाहा  
-५।२।५७।४ काश्यपाय स्वाहा  
-५।२।५७।५ विश्व-मूर्तये स्वाहा  
-५।२।५७।६ अक्षताय स्वाहा  
-५।२।५७।७ तक्षकाय स्वाहा  
-५।२।५७।८ जगद्-भुवे स्वाहा  
-५।२।५७।९ यजद्-भुवे स्वाहा  
-५।२।५७।१० विश्व-भुवे स्वाहा  
-  
-५।२।५८।१ रुद्र-भुवे स्वाहा  
-५।२।५८।२ ब्रह्म-भुवे स्वाहा  
-५।२।५८।३ भुवोद्भुवे[*२९९] स्वाहा  
-५।२।५८।४ पङ्क्तीशाय स्वाहा  
-५।२।५८।५ वर-दाय स्वाहा  
-५।२।५८।६ मित्राय स्वाहा  
-५।२।५८।७ भूत-नायकाय स्वाहा  
-५।२।५८।८ पवित्राय स्वाहा  
-५।२।५८।९ मन्त्राय स्वाहा  
-५।२।५८।१० जप्याय स्वाहा  
-[*२९९] च्ड़्। ५।१।१७२।७, भुवर्-भुवे, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१७२।२-७ च्ड़्। ५।२।५७।८-५८।३)।  
-
-५।२।५९।१ शुद्धाय स्वाहा  
-५।२।५९।२ सर्व-तीर्थ-जलाय स्वाहा  
-५।२।५९।३ पुण्याय स्वाहा  
-५।२।५९।४ पवनाय स्वाहा  
-५।२।५९।५ पुण्य-पूजिताय स्वाहा  
-५।२।५९।६ तक्षकाय स्वाहा  
-५।२।५९।७ सर्प-राजाय स्वाहा  
-५।२।५९।८ क्षिति-जाय स्वाहा  
-५।२।५९।९ धरा-धराय स्वाहा  
-५।२।५९।१० मेदिन्यै स्वाहा  
-  
-५।२।६०।१ कुह्वै स्वाहा  
-५।२।६०।२ सुदंष्ट्रायै स्वाहा  
-५।२।६०।३ क्षमायै स्वाहा  
-५।२।६०।४ अनुमत्यै स्वाहा  
-५।२।६०।५ स्व-रूपायै स्वाहा  
-५।२।६०।६ तन्व्-अङ्ग्यै स्वाहा  
-५।२।६०।७ सुभगायै स्वाहा  
-५।२।६०।८ ब्रह्माण्यै[*३००] स्वाहा  
-५।२।६०।९ पिङ्गलायै[*३०१] स्वाहा  
-५।२।६०।१० गौर्यै स्वाहा  
-[*३००] च्ड़्। ५।१।१८४।९, ब्राह्मण्यै, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१८४।९-१८७।६ च्ड़्। ५।२।६०।८-६३।५)।  
-[*३०१] तेxत्: पिङ्गऌआयै  
-
-५।२।६१।१ सर्वतो-मुख्यै स्वाहा  
-५।२।६१।२ सरित्-प्रियायै स्वाहा  
-५।२।६१।३ विश्व-रूपायै स्वाहा  
-५।२।६१।४ उग्रायै स्वाहा  
-५।२।६१।५ गणेश्वर्यै स्वाहा  
-५।२।६१।६ वैशाखिन्यै स्वाहा  
-५।२।६१।७ शिखण्डिन्यै स्वाहा  
-५।२।६१।८ गायत्र्यै स्वाहा  
-५।२।६१।९ षण्-मुख्यै स्वाहा  
-५।२।६१।१० विश्व-गर्भायै स्वाहा  
-  
-५।२।६२।१ विषोर्मिण्यै स्वाहा  
-५।२।६२।२ कृष्णायै स्वाहा  
-५।२।६२।३ रोहिण्यै[*३०२] स्वाहा  
-५।२।६२।४ वाराह्यै स्वाहा  
-५।२।६२।५ वर-दायै स्वाहा  
-५।२।६२।६ उर्व्यै स्वाहा  
-५।२।६२।७ वज्र-दंष्ट्र्यै[*३०३] स्वाहा  
-५।२।६२।८ जयन्त्यै स्वाहा  
-५।२।६२।९ कौशिक्यै स्वाहा  
-५।२।६२।१० इन्द्राण्यै स्वाहा  
-[*३०२] १९४६ एदितिओन्: द्रोहिण्यै  
-[*३०३] तेxत्: दंष्ट्यै  
-
-५।२।६३।१ घनाघनन्यै स्वाहा  
-५।२।६३।२ काल्यै[*३०४] स्वाहा  
-५।२।६३।३ नालीक-दंष्ट्र्यै स्वाहा  
-५।२।६३।४ वृष-हायै[*३०५] स्वाहा  
-५।२।६३।५ वेद-धारिण्यै स्वाहा  
-५।२।६३।६ जयायै स्वाहा  
-५।२।६३।७ सुख-प्रदायै स्वाहा  
-५।२।६३।८ समृद्धिन्यै स्वाहा  
-५।२।६३।९ भद्रायै स्वाहा  
-५।२।६३।१० विजयायै स्वाहा  
-[*३०४] तेxत्: काऌयै  
-[*३०५] च्ड़्। ५।१।१८७।५, वृषभ-वाहनायै, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१८४।९-१८७।६ च्ड़्। ५।२।६०।८-६३।५)।  
-
-५।२।६४।१ विशोकायै स्वाहा  
-५।२।६४।२ पुण्यायै स्वाहा  
-५।२।६४।३ कामानन्दायै स्वाहा  
-५।२।६४।४ विन्दायै स्वाहा  
-५।२।६४।५ लाभायै स्वाहा  
-५।२।६४।६ अप्रमत्तायै स्वाहा[*३०६]  
-५।२।६४।७ अजयायै स्वाहा[*३०७]  
-५।२।६४।८ नन्दकायै स्वाहा  
-५।२।६४।९ मधु-जनन्यै स्वाहा  
-५।२।६४।१० सुमुक्तायै स्वाहा  
-[*३०६] १९४६ एदितिओन्: प्रमत्तायै  
-[*३०७] १९८४ एदितिओन्: अजेयम्; १९४६ एदितिओन्: अजयायै  
-
-५।२।६५।१ सुभगायै स्वाहा  
-५।२।६५।२ पुष्टिकायै स्वाहा  
-५।२।६५।३ अमोघवत्यै स्वाहा  
-५।२।६५।४ पुण्यायै स्वाहा  
-५।२।६५।५ प्रमत्तायै स्वाहा  
-५।२।६५।६ कुमुद्वत्यै स्वाहा  
-५।२।६५।७ सुसहायै स्वाहा  
-५।२।६५।८ सुसम्भरायै स्वाहा  
-५।२।६५।९ निवृत्त्यै[*३०८] स्वाहा  
-५।२।६५।१० उत्पलकायै स्वाहा  
-[*३०८] तेxत्: निवृत्यै  
-
-५।२।६६।१ सुगन्धिन्यै स्वाहा  
-५।२।६६।२ सर्व-मोदायै स्वाहा  
-५।२।६६।३ सर्वात्मकायै स्वाहा  
-५।२।६६।४ विशोकायै स्वाहा  
-५।२।६६।५ धन-राश्यै स्वाहा  
-५।२।६६।६ अक्षतायै स्वाहा  
-५।२।६६।७ अमितायै स्वाहा  
-५।२।६६।८ कुण्ठिन्यै स्वाहा  
-५।२।६६।९ नन्दिन्यै स्वाहा  
-५।२।६६।१० धरित्र्यै स्वाहा  
-  
-५।२।६७।१ रजित-प्रियायै[*३०९] स्वाहा  
-५।२।६७।२ ग्रन्थिन्यै[*३१०] स्वाहा  
-५।२।६७।३ वेगिन्यै स्वाहा  
-५।२।६७।४ प्रजयायै स्वाहा  
-५।२।६७।५ प्रबर्हिण्यै[*३११] स्वाहा  
-५।२।६७।६ कृच्छ्रिण्यै स्वाहा  
-५।२।६७।७ शाखिन्यै स्वाहा  
-५।२।६७।८ वाहिन्यै स्वाहा  
-५।२।६७।९ योक्त्रिण्यै स्वाहा  
-५।२।६७।१० कुण्ठिन्यै स्वाहा  
-[*३०९] च्ड़्। ५।१।१७४।८, रजत-प्रियायै, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१७४।५-१७९।१० च्ड़्। ५।२।६६।८-७२।३)।  
-[*३१०] तेxत्: ग्रन्धिन्यै  
-[*३११] च्ड़्। ५।१।१७५।२, प्रवाहिण्यै, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१७४।५-१७९।१० च्ड़्। ५।२।६६।८-७२।३)।  
-
-५।२।६८।१ जारिण्यै स्वाहा  
-५।२।६८।२ चर्दिन्यै स्वाहा  
-५।२।६८।३ प्रवाहिन्यै स्वाहा  
-५।२।६८।४ विकारिण्यै स्वाहा  
-५।२।६८।५ दामिन्यै स्वाहा  
-५।२।६८।६ बैसिन्यै[*३१२] स्वाहा  
-५।२।६८।७ विद्युतायै स्वाहा  
-५।२।६८।८ दद्रुण्यै स्वाहा  
-५।२।६८।९ इन्दु-करायै[*३१३] स्वाहा  
-५।२।६८।१० सौमनस्यै स्वाहा  
-[*३१२] च्ड़्। ५।१।१७६।३, बिसिन्यै, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१७४।५-१७९।१० च्ड़्। ५।२।६६।८-७२।३)।  
-[*३१३] च्ड़्। ५।१।१७६।६, इन्दु-कलायै, wहिछ् ओच्चुर्स् इन् अ सिमिलर् सेक़ुएन्चे ओड़् वेर्सेस् (इ।ए। ५।१।१७४।५-१७९।१० च्ड़्। ५।२।६६।८-७२।३)।  
-
-५।२।६९।१ प्रविद्युतायै स्वाहा  
-५।२।६९।२ इन्द्रिय-विकारिण्यै स्वाहा  
-५।२।६९।३ अर्ववत्यै स्वाहा  
-५।२।६९।४ गङ्गा-वाण्यै स्वाहा  
-५।२।६९।५ सृजन्त्यै स्वाहा  
-५।२।६९।६ पद्मा-पित्रे स्वाहा  
-५।२।६९।७ धातृ-नाथाय[*३१४] स्वाहा  
-५।२।६९।८ ख्यातीशाय स्वाहा  
-५।२।६९।९ भृगवे स्वाहा  
-५।२।६९।१० सम्भूतीशाय स्वाहा  
-[*३१४] तेxत्: -नाधाय  
-
-५।२।७०।१ मरीचये स्वाहा  
-५।२।७०।२ शोचिष्मते स्वाहा  
-५।२।७०।३ पौर्णमास-भृताय स्वाहा  
-५।२।७०।४ क्षमाधवाय स्वाहा  
-५।२।७०।५ पुलहाय स्वाहा  
-५।२।७०।६ कर्दमाय[*३१५] स्वाहा  
-५।२।७०।७ महा-धृतये स्वाहा  
-५।२।७०।८ पुलस्त्याय स्वाहा  
-५।२।७०।९ प्रीति-भर्त्रे स्वाहा  
-५।२।७०।१० वशङ्-कराय स्वाहा  
-[*३१५] १९४६ एदितिओन्: कर्दमाद्याय; १९८४ एदितिओन्: कर्दमाय  
-
-५।२।७१।१ दान्तिनी-राजाय[*३१६] स्वाहा  
-५।२।७१।२ सिद्धि-राजाय स्वाहा  
-५।२।७१।३ निष्क-सूनवे स्वाहा  
-५।२।७१।४ सन्नतीशाय स्वाहा  
-५।२।७१।५ क्रतवे स्वाहा  
-५।२।७१।६ ऊर्जा-पतये स्वाहा  
-५।२।७१।७ राज-पूर्वाय स्वाहा  
-५।२।७१।८ वसिष्ठाय स्वाहा  
-५।२।७१।९ वाक्-पतये स्वाहा  
-५।२।७१।१० अत्रये स्वाहा  
-[*३१६] तेxत्: दान्तनी-राजाय चोर्रेच्तेद् तो दान्तिनी-राजाय।  च्ड़्। व्म्प् ५।१।१७८।८  
-
-५।२।७२।१ नियामकाय स्वाहा  
-५।२।७२।२ सत्य-नेत्र-गुरवे स्वाहा  
-५।२।७२।३ अनसूया-वराय स्वाहा  
-५।२।७२।४ अगस्त्याय स्वाहा  
-५।२।७२।५ मुनि-वराय स्वाहा  
-५।२।७२।६ धृतीशाय स्वाहा  
-५।२।७२।७ कुम्भ-सम्भवाय स्वाहा  
-५।२।७२।८ वत्सरेभ्यस् स्वाहा  
-५।२।७२।९ वसु-सुतेभ्यस् स्वाहा  
-५।२।७२।१० निधिभ्यस् स्वाहा  
-  
-५।२।७३।१ धर्म-सूनुकेभ्यस् स्वाहा  
-५।२।७३।२ प्राणाय स्वाह  
-५।२।७३।३ अपानाय स्वाहा  
-५।२।७३।४ व्यानाय स्वाहा  
-५।२।७३।५ उदानाय स्वाहा  
-५।२।७३।६ समानाय स्वाहा  
-५।२।७३।७ मरुद्भ्यस् स्वाहा  
-५।२।७३।८ लोक-धरेभ्यस् स्वाहा  
-५।२।७३।९ सप्त-सप्त-गणेभ्यस् स्वाहा  
-५।२।७३।१० मरुद्वती-सुतेभ्यस् स्वाहा  
-  
-५।२।७४।१ शत-रुद्रेभ्यस् स्वाहा  
-५।२।७४।२ ओषधीशेभ्यस् स्वाहा  
-५।२।७४।३ त्र्य्-अम्बकेभ्यस् स्वाहा  
-५।२।७४।४ कपाल-पाणिभ्यस् स्वाहा  
-५।२।७४।५ अजैकपदे स्वाहा  
-५।२।७४।६ अहिर्बुध्नये स्वाहा  
-५।२।७४।७ पिनाकिने स्वाहा  
-५।२।७४।८ अपराजिताय स्वाहा  
-५।२।७४।९ मृग-व्याधाय स्वाहा  
-५।२।७४।१० शर्वाय स्वाहा  
-  
-५।२।७५।१ निरृतये स्वाहा  
-५।२।७५।२ ईश्वराय स्वाहा  
-५।२।७५।३ कपालिने स्वाहा  
-५।२।७५।४ भवाय स्वाहा  
-५।२।७५।५ स्थाणवे स्वाहा  
-५।२।७५।६ धात्रे स्वाहा  
-५।२।७५।७ अर्यम्णे स्वाहा  
-५।२।७५।८ अ(ग्)ंशाय स्वाहा  
-५।२।७५।९ मित्राय स्वाहा  
-५।२।७५।१० वरुणाय स्वाहा  
-  
-५।२।७६।१ भगाय स्वाहा  
-५।२।७६।२ इन्द्राय स्वाहा  
-५।२।७६।३ विवस्वते स्वाहा  
-५।२।७६।४ पूष्णे स्वाहा  
-५।२।७६।५ पर्जन्याय स्वाहा  
-५।२।७६।६ त्वष्ट्रे स्वाहा  
-५।२।७६।७ विष्णवे स्वाहा  
-५।२।७६।८ गन्धर्वेभ्यस् स्वाहा  
-५।२।७६।९ रम्येभ्यस् स्वाहा  
-५।२।७६।१० सुर-जेभ्यस् स्वाहा  
-  
-५।२।७७।१ सौम्य-जेभ्यस् स्वाहा  
-५।२।७७।२ मुनिभ्यस् स्वाहा  
-५।२।७७।३ तपो-इधिपेभ्यस् स्वाहा  
-५।२।७७।४ कुशेभ्यस् स्वाहा  
-५।२।७७।५ पाप-विनाशिभ्यस् स्वाहा  
-५।२।७७।६ अप्सरोभ्यस् स्वाहा  
-५।२।७७।७ अमृत-जाभ्यस् स्वाहा  
-५।२।७७।८ भोग-वहाभ्यस् स्वाहा  
-५।२।७७।९ स्वर-जाभ्यस्[*३१७] स्वाहा  
-५।२।७७।१० अश्विभ्या(ग्)ं स्वाहा  
-[*३१७] १९८४ एदितिओन्: सरो-जाभ्यस्; १९४६ एदितिओन्: स्वर-जाभ्यस्  
-
-५।२।७८।१ यमलाभ्या(ग्)ं[*३१८] स्वाहा  
-५।२।७८।२ युग्माभ्या(ग्)ं स्वाहा  
-५।२।७८।३ त्वाष्ट्री-पुत्राभ्या(ग्)ं स्वाहा  
-५।२।७८।४ धराय स्वाहा  
-५।२।७८।५ ध्रुवाय स्वाहा  
-५।२।७८।६ सोमाय स्वाहा  
-५।२।७८।७ अद्भ्यस् स्वाहा  
-५।२।७८।८ अनलाय स्वाहा  
-५।२।७८।९ अनिलाय स्वाहा  
-५।२।७८।१० प्रत्यूषाय स्वाहा  
-[*३१८] तेxत्: यमऌआभ्या(ग्)ं  
-
-५।२।७९।१ प्रभासाय स्वाहा  
-५।२।७९।२ विद्या-धरेभ्यस् स्वाहा  
-५।२।७९।३ मन्त्र-बलेभ्यस् स्वाहा  
-५।२।७९।४ पुष्प-जेभ्यस् स्वाहा  
-५।२।७९।५ भोग-जेभ्यस् स्वाहा  
-५।२।७९।६ तुम्बरवे स्वाहा  
-५।२।७९।७ मुनि-वराय स्वाहा  
-५।२।७९।८ स्वरेशाय स्वाहा  
-५।२।७९।९ वेद-रूपिणे स्वाहा  
-५।२।७९।१० नारदाय स्वाहा  
-  
-५।२।८०।१मुनि-वराय स्वाहा  
-५।२।८०।२ गान-रूपाय स्वाहा  
-५।२।८०।३ ब्रह्म-सम्भवाय स्वाहा  
-५।२।८०।४ ऋतुभ्यस् स्वाहा  
-५।२।८०।५ महा-राशिभ्यस् स्वाःआ  
-५।२।८०।६ गन्धर्वाभ्यस् स्वाहा  
-५।२।८०।७ तीर्थेभ्यस् स्वाहा  
-५।२।८०।८ प्रजा-पतये स्वाहा  
-५।२।८०।९ स्रष्ट्रे स्वाहा  
-५।२।८०।१० वेद-मयाय स्वाहा  
-  
-५।२।८१।१ ब्रह्म-रूपाय स्वाहा  
-५।२।८१।२ मुद्गलाय स्वाहा  
-५।२।८१।३ मुनि-वराय स्वाहा  
-५।२।८१।४ शुद्धाय स्वाहा  
-५।२।८१।५ सर्व-ज्ञाय स्वाहा  
-५।२।८१।६ हलेशाय स्वाहा  
-५।२।८१।७ महा-बलाय स्वाहा  
-५।२।८१।८ मायाङ्गाय स्वाहा  
-५।२।८१।९ वर-दायिने स्वाहा  
-५।२।८१।१० यक्षाय स्वाहा  
-  
-५।२।८२।१ सर्व-वर-दाय स्वाहा  
-५।२।८२।२ सुखिने स्वाहा  
-५।२।८२।३ देव-योनये स्वाहा  
-५।२।८२।४ जाम्बवाय स्वाहा  
-५।२।८२।५ बाल-रूपाय स्वाहा  
-५।२।८२।६ दर्शनीयाय स्वाहा  
-५।२।८२।७ सुन्दराय स्वाहा  
-५।२।८२।८ असुराय स्वाहा  
-५।२।८२।९ दैतेयाय स्वाहा  
-५।२।८२।१० घोर-रूपाय स्वाहा  
-  
-५।२।८३।१ भयानकाय स्वाहा  
-५।२।८३।२ किन्नर-मिथुनाय[*३१९] स्वाहा  
-५।२।८३।३ तीर्थाय स्वाहा  
-५।२।८३।४ सङ्गीताय स्वाहा  
-५।२।८३।५ पक्षि-रूपाय स्वाहा  
-५।२।८३।६ प्रह्लादाय स्वाहा  
-५।२।८३।७ प्रजननाय स्वाहा  
-५।२।८३।८ विष्णु-भक्ताय स्वाहा  
-५।२।८३।९ गदाधराय स्वाहा  
-५।२।८३।१० मदनाय स्वाहा  
-[*३१९] तेxत्: किन्नर-मिधुनाय  
-
-५।२।८४।१ कामाय स्वाहा  
-५।२।८४।२ सुन्दराय स्वाहा  
-५।२।८४।३ दिव्य-रूपाय स्वाहा  
-५।२।८४।४ वीपायै[*३२०] स्वाहा  
-५।२।८४।५ विद्युद्-रूपायै स्वाहा  
-५।२।८४।६ विशालाङ्ग्यै स्वाहा  
-५।२।८४।७ मेधायै स्वाहा  
-५।२।८४।८ व्याजिन्यै स्वाहा  
-५।२।८४।९ सुभगायै स्वाहा  
-५।२।८४।१० सुन्दर्यै स्वाहा  
-[*३२०] १९४६ एदितिओन्: विपायै  
-
-५।२।८५।१ विशुद्धायै स्वाहा  
-५।२।८५।२ कामिन्यै स्वाहा  
-५।२।८५।३ कान्तायै स्वाहा  
-५।२।८५।४ शुभाङ्ग्यै स्वाहा  
-५।२।८५।५ विमलायै स्वाहा  
-५।२।८५।६ चन्द्र-प्रभायै स्वाहा  
-५।२।८५।७ तन्व्-अङ्ग्यै स्वाहा  
-५।२।८५।८ श्वेत-रूपायै स्वाहा  
-५।२।८५।९ दृढ-व्रतायै स्वाहा  
-५।२।८५।१० सुन्दराय स्वाहा  
-  
-५।२।८६।१ सुर-प्रियाय स्वाहा  
-५।२।८६।२ शुभानन्दाय स्वाहा  
-५।२।८६।३ सौम्याय स्वाहा  
-५।२।८६।४ ब्रह्मणे स्वाहा  
-५।२।८६।५ अर्यम्णे स्वाहा  
-५।२।८६।६ दण्ड-धराय स्वाहा  
-५।२।८६।७ पाश-भृते स्वाहा  
-५।२।८६।८ धन-दाय स्वाहा  
-५।२।८६।९ सवित्रे स्वाहा  
-५।२।८६।१० सावित्राय स्वाहा  
-  
-५।२।८७।१ इन्द्राय स्वाहा  
-५।२।८७।२ इन्द्रा-जाय स्वाहा  
-५।२।८७।३ रुद्राय स्वाहा  
-५।२।८७।४ रुद्र-जाय[*३२१] स्वाहा  
-५।२।८७।५ अद्भ्यस् स्वाहा  
-५।२।८७।६ आप-वत्साय स्वाहा  
-५।२।८७।७ ईशानाय[*३२२] स्वाहा  
-५।२।८७।८ पर्जन्याय स्वाहा  
-५।२।८७।९ जयन्ताय स्वाहा  
-५।२।८७।१० महेन्द्राय[*३२३] स्वाहा  
-[*३२१] च्ड़्।  व्म्प् ५।१।२१।१  रुद्रा-जम्  
-[*३२२] १९८४ एदितिओन्: ईशाय  
-[*३२३] च्ड़्।  व्म्प् ५।१।२१।१  माहेन्द्रम्  
-
-५।२।८८।१ नागाय स्वाहा  
-५।२।८८।२ भूताय स्वाहा  
-५।२।८८।३ यक्षाय स्वाहा  
-५।२।८८।४ आदित्याय स्वाहा  
-५।२।८८।५ सत्यकाय स्वाहा  
-५।२।८८।६ भृशान्ताय स्वाहा  
-५।२।८८।७ अन्तरिक्षाय स्वाहा  
-५।२।८८।८ दुर्गायै स्वाहा  
-५।२।८८।९ घोट-मुख्यै स्वाहा  
-५।२।८८।१० धात्र्यै स्वाहा  
-  
-५।२।८९।१ वपुषाय स्वाहा  
-५।२।८९।२ अग्नये स्वाहा  
-५।२।८९।३ वितथाय स्वाहा[*३२४]  
-५।२।८९।४ गृह-क्षताय स्वाहा  
-५।२।८९।५ पूषणाय स्वाहा  
-५।२।८९।६ राक्षसाय स्वाहा  
-५।२।८९।७ जयाय स्वाहा  
-५।२।८९।८ कृष्णाय स्वाहा  
-५।२।८९।९ यमाय स्वाहा  
-५।२।८९।१० गन्धर्वाय स्वाहा  
-[*३२४] १९८४ एदितिओन्: वितधाय; १९४६ एदितिओन्: वितथाय  
-
-५।२।९०।१ भृङ्ग-राजाय स्वाहा  
-५।२।९०।२ सुरुण्डाय स्वाहा  
-५।२।९०।३ ऋषये स्वाहा  
-५।२।९०।४ शिवाय स्वाहा  
-५।२।९०।५ प्राणाय स्वाहा  
-५।२।९०।६ कवये स्वाहा  
-५।२।९०।७ निरृतये स्वाहा  
-५।२।९०।८ दौवारिकाय स्वाहा  
-५।२।९०।९ सुग्रीवाय स्वाहा  
-५।२।९०।१० पुष्प-दन्ताय स्वाहा  
-  
-५।२।९१।१ शक्राय स्वाहा  
-५।२।९१।२ पुरु-हूताय स्वाहा  
-५।२।९१।३ विद्यायै स्वाहा  
-५।२।९१।४ सरित्-पतये स्वाहा  
-५।२।९१।५ असुराय स्वाहा  
-५।२।९१।६ शोषणाय स्वाहा  
-५।२।९१।७ रागाय स्वाहा  
-५।२।९१।८ यशसे स्वाहा  
-५।२।९१।९ भद्रायै स्वाहा  
-५।२।९१।१० वेद-भृते स्वाहा  
-  
-५।२।९२।१ तापसाय स्वाहा  
-५।२।९२।२ जवनाय स्वाहा  
-५।२।९२।३ नागाय स्वाहा  
-५।२।९२।४ मुख्याय स्वाहा  
-५।२।९२।५ भल्लाटाय स्वाहा  
-५।२।९२।६ सन्धुषाय[*३२५] स्वाहा  
-५।२।९२।७ विन्द्याय स्वाहा  
-५।२।९२।८ अमिताय स्वाहा  
-५।२।९२।९ सोमाय स्वाहा  
-५।२।९२।१० अर्गलाय[*३२६] स्वाहा  
-५।२।९२।११ अदित्यै स्वाहा  
-५।२।९२।१२ सूरि-देवाय स्वाहा  
-५।२।९२।१३ चरक्यै स्वाहा  
-५।२।९२।१४ देवतार्यै स्वाहा  
-५।२।९२।१५ पूतनायै स्वाहा  
-५।२।९२।१६ पाप-राक्षस्यै स्वाहा  
-५।२।९२।१७ पाञ्च-भौतिकाय स्वाहा  
-[*३२५] १९४६ एदितिओन्: सन्दुषाय  
-[*३२६] तेxत्: अर्गऌआय  
-
-हरिः ॐ तत्थ् सत्  
-  
-________________________________________  
-
-श्री श्री विखनस महा-गुरवे नमः  
-श्री-वैखानस-मन्त्र-प्रश्नाष्टके  
-षष्टः-प्रश्न-प्रारम्भः  
-  
-६।१।१ हरिः ॐ  
-६।१।२ अतो देवा अवन्तु नो यतो विष्णुर् विचक्रमे  
-पृथिव्यास् सप्त-धामभिस् स्वाहा  
-६।१।३ इदं विष्णुर् वि चक्रमे त्रेधा नि दधे पदम्  
-समूढम् अस्य पा(ग्)ंसुरे स्वाहा  
-६।१।४ त्रीणि पदा वि चक्रमे विष्णुर् गोपा अदाभ्यः  
- [त्]अतो[*३२७] धर्माणि धारयन् स्वाहा  
-६।१।५ विष्णोः कर्माणि पश्यत यतो व्रतानि पस्पशे  
-इन्द्रस्य युज्यस् सखा स्वाहा  
-६।१।६ तद् विष्णोः परमं पद(ग्)ं सदा पश्यन्ति सूरयः  
-दिवीव चक्षुर् आतत(ग्ग्)ं स्वाहा  
-६।१।७ तद् विप्रासो विपन्यवो जागृवांसस् सम् इन्धते  
-विष्णोर् यत् परमं पद(ग्ग्)ं स्वाहा  
-[*३२७] र्व्: अतो  
-
-६।०।१ चक्षुर् आतत(ग्ग्)ं स्वाहा द्वे च  
-  
-६।२।१[*३२८] सहस्र-शीर्षा पुरुषस् सहस्राक्षस् सहस्र-पात्  
-स भूमिं विश्वतो वृत्वात्य् अतिष्टद् दशाङ्गुल(ग्ग्)ं स्वाहा  
-६।२।२ पुरुष एवेद(ग्)ं सर्वं यद् भूतं यच् च भव्यम्  
-उतामृतत्वस्येशानो यद् अन्नेनातिरोहति स्वाहा  
-६।२।३ एतावान् अस्य महिमातो ज्याया(ग्)ंश् च पूरुषः  
-पादो ऽस्य विश्वा भूतानि त्रि-पाद् अस्यामृतं दिवि स्वाहा  
-६।२।४ त्रि-पाद् ऊर्ध्व उद् ऐत् पुरुषः पादो ऽस्येहाभवात् पुनः  
-ततो विष्वङ् व्य् अक्रामत् साशनानशने अभि स्वाहा  
-६।२।५ तस्माद् विराड्[*३२९] अजायत विराजो अधि पूरुषः  
-स जातो अत्य् अरिच्यत पश्चाद् भूमिम् अथो पुरस् स्वाहा  
-[*३२८] बेगिन् त ३।१२  
-[*३२९] र्व्: विराल्  
-
-६।३।१ यत् पुरुषेन हविषा देवा यज्ञम् अतन्वत  
-वसन्तो अस्यासीद् आज्यम् ग्रीष्म इध्मश् शरद् धविस् स्वाहा  
-६।३।२ सप्तास्यासन् परिधयस् त्रिस् सप्त समिधः कृताः  
-देवा यद् यज्ञं तन्वाना अबध्नन् पुरुषं पशु(ग्ग्)ं स्वाहा[*३३०]  
-६।३।३ तं यज्ञं बर्हिषि प्रौक्षन् पुरुषं जातम् अग्रतः  
-तेन देवा अयजन्त साध्या ऋषयश् च ये स्वाहा  
-६।३।४ तस्माद् यज्ञाथ्[*३३१] सर्व-हुतस् सम्भृतं पृषदाज्यं  
-पशू(ग्)ंस् ता(ग्)ंश् चक्रे वायव्यान् आरण्यान् ग्राम्याश् च ये स्वाहा  
-६।३।५ तस्माद् यज्ञाथ्[*३३२] सर्व-हुतो[*३३३] ऋचस् सामानि जज्ञिरे  
-छन्दा(ग्)ंसि जज्ञिरे तस्माद् यजुस् तस्माद् अजायत स्वाहा  
-[*३३०] र्व् १०।९०।१५ [ओउत् ओड़् ओर्देर्]; त; (व्च् प्। ९७३)  
-[*३३१] र्व्: यज्ञात्  
-[*३३२] र्व्: यज्ञात्  
-[*३३३] र्व्: सर्व-हुत  
-
-६।४।१ तस्माद् अश्वा अजायन्त ये के चोभयादतः  
-गावो ह जज्ञिरे तस्मात् तस्माज् जाता अजावयस् स्वाहा  
-६।४।२ यत् पुरुषम् व्य् अदधुः कतिधा व्य् कल्पयन्  
-मुखं किम् अस्य कौ बाहू का ऊरू पादाव्[*३३४] उच्येते स्वाहा  
-६।४।३ ब्राह्मणो ऽस्य मुखम् आसीद् बाहू राजन्यः कृतः  
-ऊरू तद् अस्य यद् वैश्यः पद्भ्या(ग्)ं शूद्रो अजायत स्वाहा  
-६।४।४ चन्द्रमा मनसो जातश् चक्षोस् सूर्यो अजायत  
-मुखाद् इन्द्रश् चाग्निश् च प्राणाद् वायुर् अजायत स्वाहा  
-६।४।५ नाभ्या आसीद् अन्तरिक्षं शीर्ष्णो द्यौस् सम् अवर्तत  
-पद्भ्यां भूमिर् दिशश् श्रोत्रात् तथा लोका(ग्)ं अकल्पयन्[*३३५] स्वाहा  
-६।४।६ वेदाहम् एतं पुरुषं महान्तम् आदित्य-वर्णं तमसस् तु पारे  
-सर्वाणि रूपाणि विचित्य धीरो[*३३६] नामानि कृत्वाभिवदन् यदास्ते स्वाहा  
-६।४।७ धाता पुरस्ताद् यम् उदाजहार शक्रह् प्रविद्वान् प्रदिशश् चतस्रः  
-तम् एवं विद्वान् अमृत इह भवति नान्यह् पन्था अयनाय विद्यते स्वाहा[*३३७]  
-६।४।८ यज्ञेन यज्ञम् अयजन्त देवास् तानि धर्माणि प्रथमान्य् आसन्[*३३८]  
-ते ह नाकं महिमानस् सचन्ते[*३३९] यत्र पूर्वे साध्यास् सन्ति देवास् स्वाहा[*३४०]  
-[*३३४] र्व्: पादा; त: पादाव्  
-[*३३५] त: अकल्पयन्न्  
-[*३३६] त: धीरः  
-[*३३७] च्ड़्। प्। ४०७ तम् एव वि॥।; त ३।१२।७  (व्च् प्। ५१८)  
-[*३३८] त: आसन्न्  
-[*३३९] र्व्: सचन्त  
-[*३४०] एन्द् त ३।१२  
-
-६।०।२ पुर स्वाहा ऽजायत स्वाहा ऽकल्पयन् स्वाहा षट् च  
-  
-६।५।१ हिरण्य-वर्णां हरिणीं सुवर्ण रजतस् रजाम्  
-चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो मम् आवह स्वाहा[*३४१]  
-६।५।२ तां म आवह जात वेदो लक्ष्मीम् अनपगामिनीम्  
-यस्यां हिरण्यं विन्देयं गामश्वं पुरुषान् अहं स्वाहा[*३४२]  
-६।५।३ अश्व-पूर्वां[*३४३] रथ-मध्यां हस्तिनाद् अप्रबोधिनीम्  
-श्रियं देवीम् उप ह्वये श्रीर् मा देवी जुषतां स्वाहा[*३४४]  
-६।५।४ कांसोस्मि तां हिरण्य प्राकारा मार्द्रां ज्वलन्तीं तृप्तां तर्पयन्तीम्  
-पद्मे स्थितां पद्म-वर्णां त्वाम् इहोप-ह्वये श्रियं स्वाहा[*३४५]  
-६।५।५ चन्द्रां प्रभासां यशस् आ ज्वलन्तीं श्रियं लोके देव-जुष्टाम् उदाराम्  
-तां पद्मनेमीं शरणम् अहं प्रपद्ये ऽलक्ष्मीर् मे नश्यतां त्वां वृणोमि स्वाहा[*३४६]  
-[*३४१] बेगिन्निन्ग् हेरे wइथ् वेर्से ६।५।१ अन्द् एन्दिन्ग् wइथ् ६।७।७ wए ड़िन्द् थे "श्री-सूक्त" ओड़् थे Ṛग् वेद खिलस्।  थे वेर्से नुम्बेर्स् गिवेन् अरे ड़्रोम् स्छेड़्तेलोwइत्ज़्, प्प्। ७२-७३,  र्व्ख् २।६।१-१५।  थे वेर्से नुम्बेर्स् इन् परेन्थेसेस् अरे ड़्रोम् ब्लोओम्ड़िएल्द्। र्व्ख् २।६।१ (५।८७।१) (व्च् प्। १०६९)  
-[*३४२] र्व्ख् २।६।२ (५।८७।२) (व्च् प्। ४६२)  
-[*३४३] र्व्ख्।व्च्: अश्वपूर्णां  
-[*३४४] र्व्ख् २।६।३ (५।८७।३) (व्च् प्। १२७)  
-[*३४५] र्व्ख् २।६।४ (५।८७।४) (व्च् प्। ३२३)  
-[*३४६] र्व्ख् २।६।५ (५।८७।५) (व्च् प्। ३६६)  
-
-६।६।१ आदित्य-वर्णे तपसो ऽधि-जातो वनस्-पति स्तव वृक्षो ऽथ[*३४७] बिल्वः  
-तस्य फलानि तपसा नुदन्तु मायान्तरा याश् च बाह्या अलक्ष्मीस् स्वाहा[*३४८]  
-६।६।२ उपैतु मां देव-सखः कीर्तिश् च मणिना सह  
-प्रादुर् भुतो ऽस्मि राष्ट्रे ऽस्मिन् कीर्तिम् ऋद्धिं ददातु मे स्वाहा[*३४९]  
-६।६।३ क्षुत् पिपासाम् अलां ज्येष्टाम् अलक्ष्मीं नाशयाम्य् अहम्  
-अभूतिम् असमृद्धिं च सर्वां निर् णुदमे गृहात् स्वाहा[*३५०]  
-६।६।४ गन्ध-द्वारां दुराधर्षान् नित्य पुष्टां करीषिणिम्  
-ईश्वरी(ग्)ं सर्व-भूतानां ताम् इहोप ह्वये श्रियम् स्वाहा[*३५१]  
-६।६।५ मनसः कामम् आकुतिं वाचस् सत्यम् अशीमहि  
-पशूनां रूपम् अन्नस्य मयि श्रीश् श्रयतां यशस् स्वाहा[*३५२]  
-[*३४७] तेxत्: ऽध  
-[*३४८] र्व्ख् २।६।६ (५।८७।६) (व्च् प्। १६३)  
-[*३४९] र्व्ख् २।६।७ (५।८७।७) (व्च् प्। २७२)  
-[*३५०] र्व्ख् २।६।८ (५।८७।८) च्ड़्। तअ १०।३३  (व्च् प्। ३४०)  
-[*३५१] र्व्ख् २।६।९ (५।८७।९) च्ड़्। त १०।१।१०; महानु ४।८  (व्च् प्। ३४३)  
-[*३५२] र्व्ख् २।६।१० (५।८७।१०) च्ड़्। व्स् ३९।४; श्ब् १४।३।२।१९; क्श् २६।७।४९ [थेसे रेड़ेरेन्चेस् ड़ोर् ड़िर्स्त् लिने ओड़् वेर्से।] (व्च् प्।६८३) च्ड़्। व्स् ३९।४; श्ब् १४।३।२।२०; त्ब् २।४।६।६ [थेसे रेड़ेरेन्चेस् ड़ोर् सेचोन्द् लिने ओड़् वेर्से।] (व्च् प्। ५७८)  
-
-६।७।१ कर्दमेन प्रजा भूता मयि सम्भव कर्दम  
-श्रियं वासय मे कुले[*३५३] मातरं पद्म-मालिनीं स्वाहा[*३५४]  
-६।७।२ आपस् सृजन्तु स्निग्धानि[*३५५] चिक्लीत वस मे गृहे  
-नि च देवीं मातरं श्रियं वासय मे कुले स्वाहा[*३५६]  
-६।७।३ आर्द्रां[*३५७] पुष्करिणीं पुष्टिं पिङ्गलां[*३५८] पद्म-मालिनीम्[*३५९]  
-६।७।४ चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह स्वाहा[*३६०]  
-६।७।५ आर्द्रां यष्करिणीं[*३६१] यष्टिं सुवर्णां हेम-मालिनीम्[*३६२]  
-६।७।६ सूर्यां हिरण्मयीं लक्ष्मीं जातवेदो म आ वह[*३६३] स्वाहा[*३६४]  
-६।७।७ तां म आ वह जतवेदो लक्ष्मीम् अनपगामनीम्  
-यस्यां हिरण्यं प्रभूतं गावो दास्यो ऽश्वान् विन्देयं पुरुषान् अहं स्वाहा[*३६५]  
-६।७।८ महा-देव्यै च विद्महे विष्णु-पत्न्यै च धीमहि  
-तन् नो लक्ष्मीः प्रचोदयात् स्वाहा  
-[*३५३] र्व्ख्।व्च्: गृहे  
-[*३५४] र्व्ख् २।६।११ (५।८७।११) (व्च् प्। ३२०)  
-[*३५५] तेxत्: सिग्धानि  
-[*३५६] र्व्ख् २।६।१२ (५।८७।१२) (व्च् प्। १७२)  
-[*३५७] र्व्ख्।इस्: पक्वाम्; र्व्ख्।व्च्: आर्द्रां  
-[*३५८] तेxत्: पिङ्गऌआं  
-[*३५९] र्व्ख् २।६।१३अ (५।८७।१४अ) (व्च् प्। १८६)  
-[*३६०] र्व्ख् २।६।१४ब् (५।८७।१४च्) (व्च् प्। ३६६)  
-[*३६१] र्व्ख्: पुष्करिणीं  
-[*३६२] र्व्ख् २।६।१४अ (५।८७।१३अ) (व्च् प्। १८६)  
-[*३६३] र्व्ख्: ममा वह रेप्लचेस् म आ वह  
-[*३६४] र्व्ख् २।६।१३ब् (५।८७।१३च्) (व्च् प्। १०२७) इन् थे अबोवे ड़ोउर् वेर्सेस्, ५।६।७।५-८, नोते थे वरिअतिओन् बेत्wएएन् इस् अन्द् व्च् इन् थे ओर्देर् ओड़् चोर्रेस्पोन्दिन्ग् वेर्से नुम्बेर्स्।  इस्: २।६।१३अ, १४ब्। १४अ, १३ब्।  व्च्: ५।८७।१४अ, १४च्, १३अ, १३च्।  
-[*३६५] र्व्ख् २।६।१५ (५।८७।१५)  
-
-६।०।३ वृणोमि स्वाहा यश स्वाहा नहं स्वाहा द्वे च  
-  
-६।८।१ भूमिर् भूम्ना द्यौर् वरिणान्तरिक्षं महित्वा  
-उपस्थे ते देव्य् अदिते ऽग्निम् अन्नादम् अन्नाद्यायादधे स्वाहा[*३६६]  
-६।८।२ आयं गौः पृश्निर् अक्रमीद् असनन् मातरं पुनः  
-पितरं च प्रयन् स्थुवस्[*३६७] स्वाहा[*३६८]  
-६।८।३ त्रि(ग्)ंशद् धाम वि राजति वाक् पतङ्गाय शिश्रिये  
-प्रत्य् अस्य वह द्युभिस् स्वाहा[*३६९]  
-६।८।४ अस्य प्राणाद् अपानत्य् अन्तश् चरति रोचना  
-व्यख्यन् महिषस् सुवस् स्वाहा[*३७०]  
-६।८।५ य[*३७१] त्वा क्रुद्धः परो वप मन्युना यद् अवर्त्या  
-सुकल्पम् अग्ने तत् तव पुनस् त्वोद् दीपयामसि स्वाहा[*३७२]  
-[*३६६] त्स् १।५।३।१; ४।१   (व्च् प्। ६७२)  
-[*३६७] त्स्: प्रयन्त् सुवः रेप्लचेस् प्रयन् स्थुवस्  
-[*३६८] त्स् १।५।३।२  
-[*३६९] त्स् १।५।३।३  
-[*३७०] त्स् १।५।३।४  
-[*३७१] त्स्: यत्  
-[*३७२] त्स् १।५।३।५  
-
-६।९।१ यत् ते मन्युपरोप्तस्य पृथिवीम् अनु दध्वसे  
-आदित्या विश्वे तद् देवा वसवश् च समाभरन् स्वाहा[*३७३]  
-६।९।२ मनो ज्योतिर् जुषताम् आज्यं विच्छिन्नं यज्ञ(ग्)ं सम् इमं दधातु  
-बृहस्पतिस् तनुताम् इमं नो विश्वे देवा इह मादयन्ता(ग्)ं स्वाहा[*३७४]  
-६।९।३ सप्त ते अग्ने समिधस् सप्त जिह्वास् सप्त ऋषयस् सप्त धाम प्रियाणि  
-सप्त होत्रास् सप्तधा त्वा यजन्ति सप्त योनीर् आ पृणस्वा घृतेन स्वाहा[*३७५]  
-६।९।४ पुनर् ऊर्जा नि वर्तस्व पुनर् अग्न इषायुषा  
-पुनर् नः पाहि विश्वतस् स्वाहा[*३७६]  
-६।९।५ सह रय्या नि वर्तस्वाग्ने पिन्वस्व धारया  
-विश्व-फ्स्निया विश्वतस् परि स्वाहा[*३७७]  
-[*३७३] त्स् १।५।३।६  
-[*३७४] त्स् १।५।३।७  
-[*३७५] त्स् १।५।३।८  
-[*३७६] त्स् १।५।३।९  
-[*३७७] त्स् १।५।३।१०  
-
-६।१०।१ मेदिनी देवी वसुन्धरी स्याद् वसुधा देवी वासवी  
-ब्रह्म-वर्चसः पितृणा(ग्)ं श्रोत्रं विष्णुर् मनस् स्वाहा  
-६।१०।२ देवि हिरण्य-गर्भिणी देवी प्रसोदरी  
-रसने सत्यायने सीद स्वाहा  
-६।१०।३ समुद्रवती सावित्रीह नो देवी मह्यकी  
-महा-धरणी महोध्य तिष्ठ स्वाहा  
-६।१०।४ शृङ्गे-शृङ्गे यज्ञे-यज्ञे विभीषणी  
-इन्द्र-पत्नी व्याजनी सुरसित इह स्वाहा[*३७८]  
-६।१०।५ वायु-परी जल-शयनी स्वयन्-धारा सत्यन्थो परिमेदिनी  
-सोपरि धत्तङ्गाय स्वाहा  
-६।१०।६ धनुर्-धरायै विद्महे सर्व-सिद्ध्यै च धीमहि  
-तन् नो धराः प्रचोदयात् स्वाहा  
-[*३७८] च्ड़्। व्च् प्। २११  
-
-६।०।४ पुनस् त्वोद्दीपयामसि स्वाहा विश्वतस् परि स्वाहा सोपरि धत्तङ्गाय स्वाहा द्वे च[*३७९]  
-[*३७९] अव् १२।२।५; त्स् १।५।३।२; ४।२  (व्च् प्। ५९१)  
-
-६।११।१ स्वस्ति चैवेह स्वाहा  
-६।११।२ प्रजा-पतये स्वाहा  
-६।११।३ अग्निर् धी-मतये स्वाहा  
-६।११।४ आदित्येभ्यस् स्वाहा  
-६।११।५ विश्वेभ्यो देवेभ्यस् स्वाहा  
-६।११।६ मरुद्-गणेभ्यस् स्वाहा  
-६।११।७ भूर् अग्नये च पृथिव्यै च महते च स्वाहा  
-भुवो वायवे चान्तरिक्षाय च महते च स्वाहा  
-सुवर् आदित्याय च दिवे च महते च स्वाहा  
-भूर् भुवस् सुवश् चन्द्रमसे च नक्षत्रेभ्यश् च दिग्भ्यश् च महते च स्वाहा  
-  
-६।१२।१ इमम् मे वरुण प्रजा-पते न त्वच् चित्तं चाग्निर् भूतानाम् ऋता-षाट्  
-६।१२।२ यद् देवा यद् देवा यद् अदीव्यन्[*३८०] आयुष् टे वैश्वानराय  
-६।१२।३ चिरायुषं यं प्रवदन्ति धीरास् समस्त-वेदार्थ-विदां वराय  
-मार्कण्डेयाय महा-मुनये स्वाहा  
-६।१२।४ पुण्यौघ-निष्ठाय पुरातनाय नित्यात्मने ब्रह्म-विदां वराय स्वाहा  
-६।१२।५ पद्मा-पित्रे वेद-भृतां वराय  
-महा-वीर्यायामित-तेजसे स्वाहा  
-६।१२।६ भृगवे महा-मुनये ब्रह्म-नित्याय  
-ब्रह्मात्मने ब्रह्म-सुताय स्वाःआ  
-[*३८०] च्ड़्।  व्म्प् ५।१।७७।८  
-
-६।१३।१ ब्रह्म जज्ञानं प्रथमं पुरस्ताद् विसीमतस् सुरुचो वेन आवः  
-स बुध्निया उपमा अस्य विष्ठास् सतश् च योनिम् असतश् च विवस् स्वाहा  
-६।१३।२ हिरण्य-गर्भस् सम् अवर्तताग्रे भूतस्य जातः पतिर् एक आसीत्  
-स दाधार पृथिवीं द्याम् उतेमां कस्मै देवाय हविषा विधेम स्वाहा  
-६।१३।३ रुद्रम् अन्यं बहुतो हुतं वृषभं नमस् ते अस्तु  
-तन् मे अस्तु बाहुभ्यां वीतये स्वाहा  
-६।१३।४ त्र्य्-अम्बकं यजामहे सुगन्धिं पुष्टि-वर्धनम्  
-उर्वारुकम् इव बन्धनान् मृत्योर् मुक्षीय मा ऽमृतात् स्वाहा  
-६।१३।५ द्यावा-पृथिव्योश् शुग् अशुक् सन्नियोक्त्रोः  
-सम्मान्ययोः ख्याती तु कौरम् एता(ग्)ं स्वाहा  
-  
-६।१४।१ यस्याश् श्रियो वा अनुजा अग्र-जाया याम् एवाजस्र(ग्)ं सुहुतं विश्व-विद्भ्याम्  
-ताभ्यां प्रसन्नाभ्या(ग्)ं ह्रास-वृद्धी भवेता(ग्)ं स्वाहा  
-६।१४।२ तस्थुषो धृत्या धरते यानि शंसः  
-यस्येह तस्मै भुव एवं जुहोमि स्वाहा  
-६।१४।३ य एष बिभ्रत्य् उरु तेजः पतङ्गः  
-दिवस् परि स्थो भवतो यस्य वेत्तु स्वाहा  
-६।१४।४ वि तत्य विश्वं विदधात्य् ऋतन्न् नः[*३८१]  
-वृत्या वृत्तं तस्य नीतं तम् एतत् स्वाहा  
-६।१४।५ यो नो ऽभिरक्षत्य् अवमाय नस् तु[*३८२] यस् त्रय्या संवर्धयन् पूरयति  
-तस्मै सर्व-छन्दसो संव्ययन् ता(ग्)ं सा नो देवी मानसीम् आनम् एता(ग्)ं स्वाहा  
-[*३८१] १९८४ एदितिओन्: न  
-[*३८२] १९४६ एदितिओन्: अवमानयन् तु  
-
-६।१५।१ मुनीन्द्रं ब्रह्म-नित्याय वरोत्कृष्टाय  
-दौवारिक-प्रधानाय मणिकाय स्वाहा  
-६।१५।२ सन्ध्यायै मुनि-पत्न्यै प्रभावत्यै दृढ-व्रतायै स्वाहा  
-६।१५।३ वैखानसायाच्युत-स(ग्ग्)ंश्रयाय  
-तपो-इग्र-निष्ठाय च ब्रह्म-दर्शिने स्वाहा  
-६।१५।४ तापसाय सिद्धि-राजाय  
-स(ग्)ंहिताय सहस्राश्वमेधिने स्वाहा  
-६।१५।५ किष्किन्धाय बहु-मर्दनाय  
-बहु-सेनाय दृढ-व्रताय स्वाहा  
-६।१५।६ तीर्थाय सर्व-सुखावहाय  
-सर्व-योग्याय सर्व-दर्शिने स्वाहा  
-  
-६।०।५ महते च स्वाहा ब्रह्म-सुताय स्वाहा कौरम् एता(ग्)ं स्वाहा मानम् एता(ग्)ं स्वाहा दृध-व्रताय स्वाहा द्वे च  
-  
-६।१६।१ त्रातारम् इन्द्रम् अवितारम् इन्द्र(ग्)ं हवे-हवे सुहव(ग्)ं शूरम् इन्द्रम्  
-हुवे नु[*३८३] शक्रं पुरु-हूतम् इन्द्र(ग्ग्)ं स्वस्ति नो मघवा धात्व् इन्द्रस् स्वाहा[*३८४]  
-६।१६।२ महा(ग्)ं इन्द्रो य ओजसा पर्जन्यो वृष्टिमा(ग्)ं इव  
-स्तोमैर् वत्सस्य[*३८५] वावृधे स्वाहा[*३८६]  
-६।१६।३ महा(ग्)ं इन्द्रो नृवद् आ चर्षणिप्रा उत द्विबर्हा अमिनस् सहोभिः  
-अस्मद्रियग् वावृधे वीर्यायोरुः पृथुस् सुकृतः कर्तृभिर् भूत् स्वाहा[*३८७]  
-६।१६।४ भुवस् त्वम् इन्द्र ब्रह्मणा महान् भुवो विश्वेषु सवनेषु यज्ञियः  
-भुवो नॄ(ग्)ंश् च्यौत्नो विश्वस्मिन् भरे ज्येष्ठश् च मन्त्रो विश्व-चर्षणे स्वाहा[*३८८]  
-६।१६।५ एन्द्र सानसि(ग्)ं रयि(ग्)ं सजित्वान(ग्)ं सदासहम्  
-वर्षिष्ठम् ऊतये भर स्वाहा[*३८९]  
-[*३८३] अव्, त्स्: हुवे नु; र्व्, व्स् (म्), क्स्: ह्वयामि  
-[*३८४] र्व् ६।४७।११; त्स् १।६।१२।५ (व्च् प्। ४४८)  
-[*३८५] त्ब्: वथ्सस्य  
-[*३८६] र्व् ८।६।१; त्स् १।४।२०।१; त्ब् ३।५।७।४  (व्च् प्। ६९५)  
-[*३८७] र्व् ६।१९।१; त्स् १।४।२१।१; त्ब् ३।५।७।४  (व्च् प्। ६९५)  
-[*३८८] र्व् १०।५०।४; त्स् ३।४।११।४; अश् १।६।१; ४।११।६; ९।५।१६  (व्च् प्। ६७०)  
-[*३८९] र्व् १।८।१; त्स् ३।४।११।३; त्ब् ३।५।७।३; अश् १।६।१  (व्च् प्। ३०२)  
-
-६।१७।१ प्र ससाहिषे पुरु-हूत शत्रूञ् ज्येष्ठस् ते शुष्म इह रातिर् अस्तु  
-इन्द्रा भर दक्षिणेना वसूनि पतिस् सिन्धूनाम् असि रेवतीना(ग्)ं स्वाहा[*३९०]  
-६।१७।२ अस्माकम् इन्द्रस् समृतेषु ध्वजेष्व्[*३९१] अस्माकं या इषवस् ता जयन्तु  
-अस्माकं वीरा उत्तरे भवन्त्व् अस्मान् उ देवा अवता हवेषु स्वाहा[*३९२]  
-६।१७।३ इन्द्रो ऽभूद् अस्य भुवनस्य राजेन्द्रो दाधार पृथिवीन् द्याम् उते माम्  
-इन्द्रो ह विश्वानि भूतानि भुवनाश्रितानि स्वाहा  
-६।१७।४ इन्द्रो द्यौर् व्योम भूर् इन्द्रस् समुद्भव नो विराट् पश्च  
-उर्व्-अन्तरिक्ष-स्वर्ग-पवनम् इन्द्राद् इन्द्रं मन्ये पितरं मातरं च स्वाहा  
-६।१७।५ इन्द्रं प्रणयन्तं वपुर् इन्द्र(ग्ग्)ं स्रवन्त(ग्)ं सवितारम् इन्द्रं दधातु  
-शक्रस् सुकृतस्य लोकम् इन्द्रं मन्ये पितरं मातरं च स्वाहा  
-[*३९०] र्व् १०।१८०।१; त्स् ३।४।११।४; म्स् ४।१२।३: १८४।१५; ४।१४।१८: २४८।१७; त्ब् २।६।९।१; ३।५।७।४; अश् १।६।१; ३।७।११; ४।११।६; एत्च्।  (व्च् प्। ६३१)  
-[*३९१] तेxत्: थ्वजेष्व्  
-[*३९२] र्व् १०।१०३।११; त्स् ४।६।४।३; म्स् २।१०।४: १३६।११; ४।१४।१४: २३८।११  (व्च् प्। १४०)  
-
-६।१८।१ इन्द्रो वृत्रं वज्रेणावधीद् इन्द्रो व्ययस् समुद्र-शुष्कः  
-इन्द्रं मन्ये पितरं मातरं च स्वाहा  
-६।१८।२ इन्द्रो बभूव ब्रह्मणो गम्भीरम् आभूति-परितुष्टिः  
-इन्द्रो भविष्यद् उत भूतम् इन्द्रं मन्ये पितरं मातरं च स्वाहा  
-६।१८।३ इन्द्रो ऽस्मान् अवतु वज्र-बाहुर् इन्द्रो भूतानि भुवनानि  
-इन्द्रो ऽस्माकम् अवतु वज्र-प्रसादम् इन्द्रं मन्ये पितरं मातरं च स्वाहा[*३९३]  
-६।१८।४ अग्निर् मूर्धा दिवः ककुत्-पतिः पृथिव्या अयम्  
-अपा(ग्)ं रेता(ग्)ंसि जिन्वति स्वाहा  
-६।१८।५ अयम् अग्निस् सहस्रिणो वाजस्य शतिनस् पतिः  
-मूर्धा कवी रयीणा(ग्)ं स्वाहा  
-[*३९३] म्स् ४।१४।७: २२५।१३-१४ (व्च् प्।२२९)  
-
-६।१९।१ यमो दाधार पृथिवीं यमो द्याम् उत सूर्यः[*३९४]  
-यमस् सर्व-मृत्युस् स्तेनः[*३९५] प्राणानां वायूना(ग्)ं स्वाहा  
-६।१९।२ नमस् ते निरृतये घन-तेजाय तस्मै विसृज बन्धनात्  
-६।१९।३ यम नय त्व(ग्)ं सविता देव उत्तमान् अनीके अभिरोचय यायिना(ग्)ं स्वाहा  
-६।१९।४ वसवः प्रथमो देवताना(ग्)ं सो ऽस्य प्रजां पशून् पाहि  
-६।१९।५ अतो देवेभ्यः पशुभिर् यो वै वसवस् स्वस्त्य् अस्तु स्वाहा  
-६।१९।६ सहस्राक्षो वा अयम् अग्निः पितरो देवतानाम्  
-६।१९।७ वसून् यत्र वसवो भूतानां पालयन्ति तस्मा अन्य-वसुभ्य स्वाहा  
-६।१९।८ ये ते शतं वरुण ये सहस्रं यज्ञियाः पाशा वितताः पुरुत्रा  
-तेभ्यो न इन्द्रस् सवितोत विष्णुर् विश्वेदेवा मुञ्चन्तु मरुतस् स्वस्त्या स्वाहा  
-[*३९४] क्स्: सूर्यम्  
-[*३९५] च्ड़्। व्म्प् ८।१।१५१।६:  ते नः इन्स्तेअद् ओड़् स्तेनः  
-
-६।२०।१ उद् उत्तमं वरुण पाशम् अस्मद् अवाधमं वि मध्यम(ग्ग्)ं श्रथाय  
-अथा वयम् आदित्य व्रते तवानागसो अदितये स्याम स्वाहा  
-६।२०।२ अयाश् चाग्ने ऽस्य् अनभिशस्तीश् चायातः  
-यज्ञं वहतु सदा धेहि भेषज(ग्ग्)ं स्वाहा  
-६।२०।३ आपस् सृजन्तु[*३९६] स्निग्धानि चिक्लीत वस मे गृहे  
-नि च देवीं मातरं श्रियं वासय मे कुले स्वाहा  
-६।२०।४ मरुतः परमात्मा परमा गतिः परं ब्रह्म परं योगम्  
-परमात्मानं मन्ये अजरं यो ऽग्निर् अहम् अन्नं वायवे स्वाहा  
-६।२०।५ मरुतो गणानां प्रथमस् सप्तधानां मूर्धा वायो अन्यम् अजर(ग्ग्)ं श्रियम्  
-होतारं वै रयन् त्वाहुर् अग्ने हव्यं मरुद्भ्यस् स्वाहा  
-६।२०।६ मिश्र-वाससः कौबेरका रक्षो-राजेन प्रेषिताः  
-ग्राम(ग्)ं स-जानयो गच्छन्तीच्छन्तो परिदाकृतान्त्[*३९७] स्वाहा  
-६।२०।७ एतान् घ्नतैतान् गृह्णीतेत्य् अयं ब्रह्मणस् पुत्रः  
-तान् अग्निः पर्यसरत् तान् इन्द्रस् तान् बृहस्पतिः  
-तान् अहं वेद ब्राह्मणः प्रमृशतः कूट-दन्तान् विकेशाण् लम्बन-स्तनान्थ्[*३९८] स्वाहा  
-६।२०।८ ईशानस् सर्व-लोकानां त्र्य्-अम्बकस् सर्व-विद्यानाम्  
-न द्वितीयो भवोद्भवाय स्वाहा  
-६।२०।९ ईश ईशित्रे भूर् भुवस् सुवर् ईशाय लोकानाम्  
-भीमाय वामदेवाय स्वाहा  
-[*३९६] र्व्ख्: स्रवन्तु  
-[*३९७] तेxत्: ऽपरिदाकृतान्थ्  
-[*३९८] अप्म्ब्: -स्तनान्त्  
-
-६।०।६ भर स्वाहा मातरं च स्वाहा रयीणा(ग्)ं स्वाहा स्वस्त्या स्वाहा मरुद्भ्यस् स्वाहा नव च  
-  
-६।२१।१ उद् उ त्यं जात-वेदसं देवं वहन्ति केतवः  
-दृशे विश्वाय सूर्य(ग्ग्)ं स्वाहा  
-६।२१।२ चित्रन् देवानाम् उद् अगाद् अनीकं चक्षुर् मित्रस्य वरुणस्याग्नेः  
-आप्रा द्यावा-पृथिवी अन्तरिक्ष(ग्)ं सूर्य आत्मा जगतस् तस्थुषपश्[*३९९] च स्वाहा  
-६।२१।३ ममाग्ने वर्चो विहवेष्व् अस्तु वयन् त्वेन्धानास् तनुवं पुषेम  
-मह्यं नमन्ताम् प्रदिशश् चतस्रस् त्वयाध्यक्षेण पृतना जयेम स्वाहा[*४००]  
-६।२१।४ अहम् अग्नेर् अग्निं गृह्णामि ममाग्ने ऽग्निर् ममान्तरिक्षम्  
-मार्गो ऽहम् अस्मिन् प्रमदान् कामये तुभ्यं मनसा प्रजा-पतये स्वाहा  
-६।२१।५ अग्न आ याहि वीतये गृणानो हव्यदातये  
-नि होता सथ्सि[*४०१] बर्हिषि स्वाहा  
-[*३९९] र्व्: तस्थुषश्  
-[*४००] थिस् तेxत् इस् अन् एxअम्प्ले ओड़् होw थे १९४६ एदितिओन् इस् मोरे रेलिअब्ले ड़ोर् अच्चेन्त्स्।  इन् थिस् इन्स्तन्चे इत् मोरे अच्चुरतेल्य् रेड़्लेच्त्स् थे र्व् थन् थे १९८४ एदितिओन्।  
-[*४०१] र्व्: सत्सि  
-
-६।२२।१ प्रभुर् देवो मन्दो ऽसितश् चाव्ययः पुरुषो विश्वाय सूर्याय स्वाहा  
-६।२२।२ ग्रहाधिपतिः पृथिवी चान्तरिक्षं च  
-६।२२।३ सूर्य आत्मा जगतस् तस्थुषश् च स्वाहा  
-६।२२।४ बृहस्पतिर् देवानाम् इमं यज्ञं बृहतो मे दधातु  
-बृहस्पति-वीतये स्वाहा  
-६।२२।५ बृहस्पतिस् सोमन् दधातु बृहस्पतिर् यज्ञं दधातु  
-बृहस्पति-वीतये स्वाहा  
-६।२२।६ बृहस्पते अति यद् अर्यो अर्हाद् द्युमद् विभाति क्रतुमज् जनेषु  
-यद् दीदयच् छवसर्त-प्रजात तद् अस्मासु द्रविणं धेहि चित्र(ग्ग्)ं स्वाहा  
-  
-६।२३।१ उपयाम-गृहीतो ऽसि बृहस्पते त्वेषते योनिः  
-बृहस्पति-वीतये स्वाहा  
-६।२३।२ श्रविष्ठ-जो यः परमो नु गोप्ता प्रजा-पतेः प्रथम(ग्)ं हूयमानः  
-६।२३।३ प्रजा-पतये ऽसूयमान सुषुवे यम् भ-पस् स्वाहा  
-६।२३।४ तद् विष्णोः परमं  
-तद् विप्रासः  
-६।२३।५ प्रजा-पते न त्वद् एतान्य् अन्यो विश्वा जातानि परि ता बभूव  
-यत् कामास् ते जुहुमस् तन् नो अस्तु वय(ग्ग्)ं स्याम पतयो रयीणा(ग्)ं स्वाहा  
-६।२३।६ सुभूस् स्वयम्-भूः प्रथमं[*४०२] महत्य् अर्णवे दधे ह गर्भम् ऋत्वियम्  
-यतो जातः प्रजा-पतिस् स्वाहा  
-६।२३।७ भू भामिनी भुवे-भुवे  
-६।२३।८ भूर् भुवस् सुवर् लोक-पावन्यै स्वाहा  
-६।२३।९ इष्ट-गामिन्य् अनिष्ट-घ्नी नलिन्य्[*४०३] एक-मूर्ध्नि तस्थुर् जाह्नव्यै स्वाहा  
-६।२३।१० सोम यास् ते मयो-भुव ऊतयस् सन्ति दाशुषे  
-ताभिर् नो ऽविता भव स्वाहा  
-६।२३।११ या ते धामानि दिवि या पृथिव्यां या पर्वतेष्व् ओषधीष्व् अप्सु  
-तेभिर् नो विश्वैस् सुमना अहेदन्[*४०४] राजन्थ्[*४०५] सोम प्रति हव्या गृभाय स्वाहा  
-६।२३।१२ रुद्रम् अन्यं त्र्य्-अम्बकम्  
-[*४०२] व्स्: प्रथमो ऽन्तर्  
-[*४०३] तेxत्: नऌइन्य्  
-[*४०४] र्व्: अहेलन्  
-[*४०५] र्व्: राजन्  
-
-६।०।७ बर्हिषि स्वाहा चित्र(ग्ग्)ं स्वाहा सुवेष्टौ च  
-  
-६।२४।१[*४०६] जगद्-भुवं बहुतो हुतं यजद्-भुवन् नमस् ते अस्तु  
-विश्व-भुवे स्वाहा  
-६।२४।२ जगद्-भवो ऽधिपतिस् सेना-नीर् मयूर-प्रियष् षड् आनन आङ्गारः  
-सञ्जया ह नमस् ते ऽस्तु सुखावहाय स्वाहा  
-६।२४।३ सुब्रह्मण्यो[*४०७] बृहस्पतेस् सुतायास्य पद्म-योनेः  
-यस्यात्मा वहने वहति स्वाहा  
-६।२४।४ सुब्रह्मण्यो रुद्र-भुवो ब्रह्म-भुवः  
-भवोद्भवो ममामृताय स्वाहा  
-६।२४।५ जगद्-भुवस् सुब्रह्मण्यः कृत्तिका-सुतः  
-षष्टिकाय स्वाहा  
-[*४०६] २५ इन् बोओक्।  
-[*४०७] १९४६ एदितिओन्: सुबहण्यो  
-
-६।२५।१ जगद्-भुवो यो यजद्-भुव स्कन्द-विशाख-नेता  
-हव्यम् अस्मात् षण्-मुखाय स्वाहा  
-६।२५।२ अतो देवा  
-इदं विष्णुः  
-६।२५।३ या ब्रह्मचारिण्य् अमराणाम् उदग्रायास् सन्नमिता अग्र एता रमन्ते  
-तस्या आनय त्वं हविषो मातरिश्वन्थ् स्वाहा  
-६।२५।४ सा चारु-जन्मा ऽमला कस्य जाता भूतैस् सुमान्या विविधैश् शङ्करैषा  
-हृषाधृष्या बहिर् अन्तर् वसूना(ग्)ं स्वाहा  
-६।२५।५ एषामराणाङ् गुरवे सत्यम् आदधाति या प्रादधच् चावनि-गोपाम्  
-सदस्या रमेत सा रक्षतु नस् सदा वै स्वाहा  
-६।२५।६ याम्या नियम्या परमा काल[*४०८]-रन्ध्रा काकानिभा सूनिनी सा रमेताम्  
-दत्तं जप्तं पूजितं वा हुतन् नस् तस्या अग्नाव् एतु पातु सदा नस् स्वाहा[*४०९]  
-[*४०८] तेxत्: काऌअ  
-[*४०९] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् २६।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् २५।  
-
-६।२६।१ जातवेदसे सुनवाम सोमम् अरातीयतो नि दहाति[*४१०] वेदः  
-स नः पर्षद् अति दुर्गाणि विश्वा नावेव सिन्धुं दुरितात्य् अग्नि स्वाहा  
-६।२६।२ ताम् अग्नि-वर्णां तपसा ज्वलन्तीं वैरोचनीं कर्म-फलेषु जुष्टाम्  
-दुर्गां देवी(ग्)ं शरणम् अहं प्रपद्ये सुतरसि तरसे नमस्[*४११] स्वाहा  
-६।२६।३ अग्ने त्वं पारया नव्यो अस्मान्थ्[*४१२] स्वस्तिभिर् अति दुर्गाणि विश्वा  
-पूश् च पृथ्वी बहुला न उर्वी भवा तोकाय तनयाय शं योस् स्वाहा  
-६।२६।४ विश्वानि नो दुर्ग-हा जातवेदस् सिन्धुं न नावा दुरिताति पर्षि  
-अग्ने अत्रिवन् मनसा[*४१३] गृणानो ऽस्माकं बोध्य् अविता[*४१४] तनूना(ग्ग्)ं स्वाहा  
-६।२६।५ पृतना-जित(ग्)ं सहमानम् अग्निम् उग्र(ग्)ं हुवेम परमाथ् सधस्थात्  
-स नः पर्षद् अति दुर्गाणि विश्वा क्षामद् देवो अति दुरितात्य् अग्निस् स्वाहा  
-६।२६।६ प्रत्नो षि[*४१५] कम् ईड्यो अध्वरेषु सनाच् च होता नव्यश् च सथ्सि  
-स्वां चाग्ने तनुवं पिप्रियस्वास्मभ्यं च सौभगम् आ यजस्व स्वाहा  
-[*४१०] तेxत्: दहात्ति  
-[*४११] इन् र्व्ख् थे फ्रसे सुतरसि तरसे नमस् अप्पेअर्स् त्wइचे इन् थे वेर्से, wहेरेअस् व्म्प् ओन्ल्य् गिवेस् इत् ओन्चे।  
-[*४१२] र्व्: अस्मान्  
-[*४१३] र्व्: नमसा  
-[*४१४] तेxत्: भूत्व विता  
-[*४१५] र्व्: हि  
-
-६।०।८ षष्टिकाय स्वाहा रमेतां थ् सधस्था त्रीणि च  
-  
-६।२७।१ नन्दिन्या मूलवत्या जगतो वसत्या ज्येष्ठाया अस्तु सुहुत(ग्)ं हुतम्  
-स्वसुर् देव्या धरित्र्या रजत-प्रियायास् स्वाहा  
-६।२७।२ आपो विवेश प्रजया ब्रह्म-दारास् स्कन्द-प्रबर्हं भरणे विद्म देव्याः  
-वेगिनी देवी शर्म देयात् सदा नस् स्वाहा  
-६।२७।३ शाखा-भूत सुशाखया दिवो भेत्तुम् अयूयुजत्  
-धाता देव्या यजाम होमाग्र्यां तत्र वाहिन्य् उदेतु स्वाहा  
-६।२७।४ देवी प्रवाहिन्य्  अनिशं पाति-भूत(ग्)ं सर्वं छन्दो विकीरयन्  
-भजतो मे शिवं धत्तां जया वृत्तं जरयत्व् आधिम् एषा स्वाहा  
-६।२७।५ बिसिनी भूता जननीवा सृजन्त्य् उतावनीता ब्रह्मण्य् अध्य् उपास्ते  
-तां विद्युता(ग्)ं सम्यग् उ तर्पयामि स्वाहा  
-  
-६।२८।१ प्रविद्युताया सुमनो-धरा चामुं विरञ्जत्य्[*४१६] अत एष पन्थाः  
-तस्याभवत् विन्दु-करानुरञ्जो जुहोमि सा नो शिव-दा विधेया स्वाहा  
-६।२८।२ गङ्गा-वाणी सरस्वती फलत्य् ऊर्ध्व(ग्)ं शिवाय नस् सदाभया भवेत्  
-तत आदानम् एमि धातुस् समस्तं विसृजन्तीह देव्यास् तस्या अग्नाव् एतु पातु सदा नस् स्वाहा  
-६।२८।३ विद्यां न्नो मातु वितनोतु मान(ग्)ं सोमेन सौम्यां अवतारयन्तु  
-तया प्रत्यङ्गं विवृतं यद् विशामो ऽमोघं विद्म प्रजया ब्रह्म एतत् स्वाहा  
-६।२८।४ माता ह्य् अमेया मही मूर्तिमत्या यया सत्वं[*४१७] वितनोतीन्द्रियेषु  
-यस्या अस्या वश-निष्ठम् अजायत स्वैरिण्या सा भूतये मे भवेता(ग्)ं स्वाहा  
-६।२८।५ आयाम् अहन् त्वा जननीं प्राणिन[स्] स्युः प्राज्ञाः प्रज्ञाताम् एत्याध्यवस्थां मम धियो नियोगम्  
-प्रवाहिण्य् अनैषि मम धेहि[*४१८] प्रिय(ग्)ं सा मा न हि(ग्)ंसी स्वाहा  
-[*४१६] १९८४ एदितिओन्: वीरञ्जत्य्; १९४६, १९२६ एद्स्।: विरञ्जत्य्  
-[*४१७] १९४६ एदितिओन्: ससत्वं  
-[*४१८] तेxत्: थेहि  
-
-६।२९।१ यया सतस् सत्यं वरत उदितं ज्यायो जायायै जरसं विधत्ते  
-तत उज्जिहानां तनुभिश् चतुर्भिर् इमाम् अगच्छत् स्वकया महिम्ना स्वाहा  
-६।२९।२ प्रसविण्य् अङ्गे मनवो विचक्षवो यया तु वृद्धिं वर्धयन्तो वियान्तः  
-सुबोधम् आनिन्युः प्रसवं प्रजानां तदा त एभिर् वहन्तु पुष्टि(ग्ग्)ं स्वाहा  
-६।२९।३ याभ्यो हि तप्तङ् कृन्वन्तो[*४१९] इनुजाता याभ्यो[*४२०] भवत्य् अर्चिर् हरा च धूर्तिः  
-देव्यः प्रसन्ना धव-सम्मता या वहन्तु नश् श(ग्)ं सुयशः क्रियासु स्वाहा  
-६।२९।४ या मानसा वाधिगतानुषङ्गाः क्रियासु सत्यः प्रसवस् स्ववैतु  
-सन्नीयते याभिर् अवन्तु देव्यो यजामहे[*४२१] तद् धविषो तताभ्यस् स्वाहा  
-६।२९।५ यतस् स्वम् आसीद् धृदयाद् अनादेर् ऋषिस् त्विषादीप्य जगद् दधार  
-ख्यातेर् ईशसे धृग्-अग्नौ जुहोमि स्वाहा  
-[*४१९] प्रेसेन्त् स्तेम् इन् ओल्देर् ड़ोर्म्: कृणु।  
-[*४२०] तेxत्: ऽयाभ्यो  
-[*४२१] १९४६ एदितिओन्: यजामहो  
-
-६।३०।१ अस्मा अस्माद्[*४२२] आददानो[*४२३] ऽद एनो[*४२४] बुद्धिना यो स्व-तपसः  
-आय मां भूयो भूयस् सृते[*४२५] घृते स्वाहा  
-६।३०।२ कस्याङ्गिरा अभूच् छिरसो यं मनन्ति  
-श्रेष्ठं विभोर् वीती होत्रे ददेय(ग्ग्)ं स्वाहा  
-६।३०।३ विस्मापयत्य् अत्र मुदा बभासे  
-पोपुष्यते स्यात् प्रभयागमो नस् स्वाहा  
-६।३०।४ व्यावर्तते यो विबुधो व्यान एष व्यापूरयन् नो धरते[*४२६] सर्वम् अर्वाक्  
-तस्माद् एवं जुहुतश् श(ग्)ं समेतु स्वाहा  
-६।३०।५ स स्मा[*४२७] रसो ऽग्रे असृजच् चतस्रः कन्यास् स उक्थ्यं च स कीर्तिमन्तः  
-स्मृत्या तस्माद् इत एतु होतुस् स्वाहा  
-[*४२२] च्ड़्। र्व् ६।४२।४  (व्च् प्। १३८)  
-[*४२३] १९८४ एदितिओन्: आददौ नो  
-[*४२४] तेxत्: एन  
-[*४२५] १९८४ एदितिओन्: पृते  
-[*४२६] १९४६ एदितिओन्: व्यापूरयन् नो थरते  
-[*४२७] च्ड़्। र्व् ५।७।४ (व्च् प्। ९९९)  
-
-६।३१।१ य एषोदान[*४२८] उदितः पुलस्त्य उपोष[*४२९] विश्वं प्रभयाहम् अस्मै  
-जुहोमि ऋषये सो ऽवतु[*४३०] शर्म स्वाहा  
-६।३१।२ आनन्द रोदैत्य सरः पुलस्त्यः प्रीत्या त्रयन् तत् सहते द्वितीयः  
-तस्यास्ति सान्निध्यन् नियत(ग्)ं रक्षतु स्वाहा  
-६।३१।३ प्र प्रायशो पान[*४३१] इदं वपुर् यस् ते पापम् अग्र्यः क्रतु-कीर्ति-कामः  
-तम् आहुतीर् यो ऽजुहुत प्रेत एषस् स्वाहा  
-६।३१।४ ये निष्यन्ता अजायन्त पतन्त्य् अर्क-पथा अपि  
-तन्तुस् तर्हि तस्मै यजानि स्वाहा  
-६।३१।५ यो नो वसिष्ठस् स स-मान-जातः कस्याशेष(ग्)ं सर्वम् इदन् ततार  
-तस्मै यज ईशाय मुनय इदन् तु स्वाहा  
-६।३१।६ सप्तोत्तमा ये मुनयो वसिष्ठ ऊर्जा तु तेभ्यस् स हि तेभ्यस् सुजातः  
-नित्यम् अस्माद् अमुदजानि स्वाहा  
-६।३१।७ य आनसूयेशो निदधन् निरक्षस् स(ग्ग्)ंसार-वेलाम् उदितो ररक्ष  
-भूयाद् अय(ग्)ं वंश-करो ऽस्य वंशस् स्वाहा  
-६।३१।८ य एष दिग्भ्यो ववृधे ऽत्री राजा  
-अस्मै तस्येदं जुहुतो रातु सोम(ग्ग्)ं स्वाहा  
-[*४२८] तेxत्: एषो ऽदान  
-[*४२९] १९८४, १९४६ एदितिओन्स्: उषोप; १९२६ एदितिओन्: उपोष  
-[*४३०] १९२६ एदितिओन् हेरे इन्सेर्त्स् थे wओर्द् यातु  
-[*४३१] च्ड़्। र्व् ७।८।४; त्स् २।५।१२।४ (व्च् प्। ६२५)  
-
-६।०।९ सम्यग् उ तर्पयामि स्वाहा न हि(ग्)ंसी स्वाहा जुहोमि स्वाहा होतुस् स्वाहा इदन् तु स्वाहा षट् च  
-  
-६।३२।१ स एको ऽभूद् दिवा-निशं नस् सञ्चारि-भवोद्भवः  
-स्रष्टुस् सृष्टेश् च सञ्चित स्वाहा  
-६।३२।२ यस् त्रैष्टुभश् चाग्र इम(ग्)ं सिसृक्षुस् सस्मार सार्वं मनसा मखेष्टा  
-पुष्पं विमानं विबुधस्य हेतुस् स्वाहा  
-६।३२।३ प्रक्रम्याथ ऊर्ध्वं पुरुष-जो विवेश प्रजासु वृत्याय असुन् ददाति  
-सो ऽहम् अस्मिन् यजानि समापातु स्वाहा  
-६।३२।४ यो मातरिश्वा वियज्-जातो ऽंशको वृतो हूयते  
-यस्य सत(ग्)ं समेतु स्वाहा  
-६।३२।५ वृषाकपेर्[*४३२] इह उपोष-वृत्त्या[*४३३] यम् आदत्त देव आस्ते  
-तस्याभम् अग्ने सुहुत(ग्)ं हरस्व स्वाहा  
-[*४३२] च्ड़्। र्व् १०।८६।२; अव् २०।१२६।२ (व्च् प्। ९००)  
-[*४३३] १९८४, १९४६ एदितिओन्स्: -वृत्या; १९२६ एदितिओन्: -वृत्त्या  
-
-६।३३।१ ओजो-इभिमानी निदधार विश्वं त्रि-कोश-गैर् यद् दशभिर् यद् अग्रे  
-जातेभ्य एभ्यस् स-हवो यजानि स्वाहा  
-६।३३।२ आपो विश्वन् दधात्य् असून् दिवो दधे ऽधश् च खं चरन्  
-चतुश्-शृङ्गिण एतु होतु स्वाहा  
-६।३३।३ चातुर्यम्[*४३४] अस्मिन् दधति प्रजास् ताः  
-चातुर्-गुणानाम् अत अद्भ्य एतत् स्वाहा  
-६।३३।४ तयादित्या निर्विशन्ति भूता विश्वे गुणानां हविषो वहन्त्या  
-वराम्बराया[*४३५] सुहुतन् निधत्ता(ग्)ं स्वाहा  
-६।३३।५ तत् त्रीण्य्[*४३६] एषा धरते सर्वम् अर्वाग् याम् आयान्तस् सूरयो द्यां व्रजन्तः  
-तस्या अग्नाव् उन्नीयन्ते जुहोमि स्वाहा  
-[*४३४] चतुर्यम्= देxतेरित्य् (म्W प्। ३९२)  
-[*४३५] १९४६ एदितिओन्: पराम्बराया  
-[*४३६] १९८४, १९४६ एदितिओन्स्: तत्रीण्य्; १९२६ एदितिओन्: तत् त्रीण्य्  
-
-६।०।१० हरस्व स्वाहा जुहोमि स्वाहा  
-  
-६।३४।१ पावका नस् सरस्वती वाजेभिर् वाजिनीवती  
-यज्ञं वष्टु धियावसुस् स्वाहा  
-६।३४।२ महो अर्णस् सरस्वती प्र चेतयति केतुना  
-धियो विश्वा वि राजति स्वाहा  
-६।३४।३ श(ग्)ं सानियच्छत्य्[*४३७] अनिशं नः पवित्री यया स्व-राजा संविराजो विराजः  
-सेहा ह्रासे पुष्टि-वर्धने धत्ता(ग्)ं स्वाहा  
-६।३४।४ भूय आत्म-वृत्त्या[*४३८] बल-तेजो-जनन्या देवोपवाह्या मनसा ययासन्न्  
-दाक्षायण्या धन्यै यजेय(ग्ग्)ं स्वाहा  
-६।३४।५ य उत्तमो मूर्तिमतो ऽधिधामा  
-श्रेष्ठार्पितं त्वाहुर् अतो यजानि स्वाहा  
-[*४३७] १९८४ एदितिओन्: सानियश्छत्य्  
-[*४३८] १९२६ एदितिओन्: वृत्त्या; १९४६, १९८४ एद्स्।: वृत्या  
-
-६।३५।१ अग्नेः पथा[*४३९] यं प्रविशन्ति भाभिह्  
-हवी(ग्)ंषि तस्मा अभितो दधातु स्वाहा  
-६।३५।२ यम् अर्पयन्त्य् अत्र कला[*४४०] निधाने दिशास्व् आदित्यः पितरो ऽपरस् याः  
-ऋक्षा नॄणां सम्प्रसरस् सुधां तस्मै मरीचये सुहुतन् निधत्ता(ग्)ं स्वाहा  
-६।३५।३ यस् संहरत्य् एष सृजत्य् अहर् नः  
-नेनेक्ति सञ्जीवति[*४४१] मा नमेता(ग्)ं स्वाहा  
-६।३५।४ ऋचाम् अधीशो विसृजंश् चतस्रः  
-प्रजाह् प्रजेशो रमते रथे ऽस्य स्वाहा  
-६।३५।५ नीतां धृतिं चेतसि तासु नित्यम्  
-प्रजास्व् अनपरो बिभर्ति स्वाहा  
-६।३५।६ येनेष्टे रस अग्र अग्रिम् आसते  
-अम्भसि तस्य हविर् जुहोमि स्वाहा  
-६।३५।७ समूह्यते ऽम्बा सह सप्तलोकाः  
-दिवि स्थिता ये च धराधरे च भूस् स्वाहा  
-६।३५।८ चरुं पचेद् यस् सह सप्त-लोके  
-रक्षा(ग्)ंसि रक्षन्न् इह जीव-लोके स्वाहा  
-६।३५।९ चुल्या(ग्)ं हवि रक्षन् पचनं बिभर्ति  
-तस्मै यज ईशाय बुभुक्षिताय स्वाहा  
-[*४३९] १९८४ एदितिओन्: पधा; १९४६ एदितिओन्: पथा  
-[*४४०] तेxत्: कऌआ  
-[*४४१] १९२६ एदितिओन्: सञ्जीवति; १९४६, १९८४ एद्स्।: सञ्जीवती  
-
-६।०।११ यजानि स्वाःआ बिभर्ति स्वाहाष्तौ च  
-  
-६।३६।१ चतुर्-मुखी लोक-रमी च कुण्डिनी  
-देवी विवर्तिनी विरजो विधातुस् स्वाहा  
-६।३६।२ यो लोक-भर्त्री रमता प्रजानाम्  
-जाताभिस् सर्वं मनसा प्रियाभिस् स्वाहा  
-६।३६।३ त्रि-नेत्र-धारी तपसो-धि-देवी  
-विश्वेषु देवेषु गणेषु मुख्या स्वाहा  
-६।३६।४ चिह्नं च रौद्रं दधती गण-मुख्या  
-भस्माङ्ग-धौती गण-काल-हारिणी स्वाहा  
-६।३६।५ ज्वाला माला[*४४२] गुम्भिनी गुह-जाता  
-रौद्रं गणं या बिभृयात् सुरूपी स्वाहा  
-[*४४२] च्ड़्। त १०।११।२  (व्च् प्। ३८५)  
-
-६।३७।१ बालान् हरी रक्षिणी शृङ्गि-पत्री  
-अक्षेषु शक्तिषु मरीचि-रमी च देवी स्वाहा  
-६।३७।२ युगे-युगे सम्परिरक्षिता च  
-स्त्री रूप-धारी पुरुषस्य चारिणी स्वाहा  
-६।३७।३ सर्वं रमा रक्षिणी लोक-धात्री  
-विश्वङ् गणै रक्षिता यास् तु भूत्यै स्वाहा  
-६।३७।४ कल्पेषु कल्पेषु सुसम्प्लवेषु  
-अल्पी भवित्री सह गोषु भूषु स्वाहा  
-६।३७।५ अन्तेषु घोरेषु वाराह-लोला  
-मन्धी[*४४३] कर्षी कृष्ट-मुखी च देवी स्वाहा  
-६।३७।६ सा सर्व-देवेषु मरुद्-गणेषु  
-सम्भाविता या त्रि-दशाधिपा च स्वाहा  
-६।३७।७ माला-धरी या त्रि-दशाधिपा च  
-सन्ध्या दशी स(ग्)ंहित-सप्त-धातुस् स्वाहा  
-६।३७।८ चण्डी हरी भीषणी रुद्र-रूपी धात्री धरित्री रस-हारी च लोके  
-शूली जटी मुक्त-केशी विकेशी स्वाहा  
-६।३७।९ मोही विमोही विमुही गुह-धारिणी च  
-निद्रा च देवी विरजास् तु भूत्यै स्वाहा  
-[*४४३] १९२६ एदितिओन्: मन्थी  
-  
-६।०।१२ सुरूपी स्वाहा देवी स्वाहाष्टौ च  
-  
-६।३८।१ धातास्य विश्वं हि बिभर्ति यो वै  
-पुष्पाणि रक्षन्न् इह जीव-लोके स्वाहा  
-६।३८।२ फुल्लान् हि यो रक्षति वृक्ष-षण्डान्  
-विश्वं सृजत्य् एष विधाय तस्मै स्वाहा  
-६।३८।३ विश्वान् बलि-रक्षित-सर्व-देवान्  
-तस्माद् बलि(ग्)ं रक्षतु भूतये स्वाहा  
-६।३८।४ सौर्य-हित ईश पथाभिरक्षन्न्  
-विश्वान् बले नो ऽभिहरन् विधेय स्वाहा  
-६।३८।५ आग्नेयो यस्माद् यजामहे त्वा विश्वे सदा त्वं महितो नु शम्भो  
-वैराजन् ते सुहुतन् निधत्ता(ग्)ं स्वाहा  
-  
-६।३९।१ प्रैषाम् अधीशो विबुधानाम् अनादिः  
-या मे शस्तां धनितान् दधातु स्वाहा  
-६।३९।२ शत-धार(ग्)ं हिरण्मय(ग्)ं सोमो ऽघम् आस्ते जरद् उद्वहन् नः  
-विश्वं नो नु ददात् सदैन(ग्ग्)ं स्वाहा  
-६।३९।३ कदापि सृजते प्रजा अविगिरत्य् अयन् नो गोपायति नः  
-यजामहे विपाप्मा भूयाम जरतो ऽग्रियाय स्वाहा  
-६।३९।४ धर्मौघ-माता विदधे समस्तम्  
-धरन् धरिष्यते सह सप्तम(ग्ग्)ं स्वाहा  
-६।३९।५ योगन् धरं नु प्रसुव(ग्)ंस् तु जन्तून्  
-जुगोप गोप-गर्भं सुरादिस् स्वाहा  
-  
-६।४०।१ यम् अर्पयन्ति मुनयो हविर् यो ऽजो ऽहिजानिर् विबुधा विराजन्न्  
-तं मयि दोषा यस्याननाग्नौ विपिनानि पतन्तु स्वाहा  
-६।४०।२ शं नो निधत्तां तपसो जिहर्ताम्  
-स्वयम्भुर् अग्रे मृतये ऽमृताय स्वाहा  
-६।४०।३ भूमान् अन्तो ऽग्रे भुवनस्य गोप्ता वामभ्य ईशन्त्य् अमरा मराश् च  
-कुर्वते ऽग्नौ सुहुतङ् घृतेन स्वाहा  
-६।४०।४ वन्द्यो न एष वसुषु निदध्यात्  
-त्रि-धा त्रि-धामा बिभृयाद् अदीनान्थ् स्वाहा  
-६।४०।५ आसाग्र अग्रे सुहुताञ् जितैतान्  
-ऋषीन् अवाप्योग्र इतो जयाय स्वाहा  
-  
-६।४१।१ ओजो-बलायास्य् अमृताय शम्भो  
-पचस्य् अयो नो ऽपचयन् न हि(ग्)ंसी स्वाहा  
-६।४१।२ तन् मा यशो ऽग्रे तावके वसूनां यजामहे स्याद् भवतः प्रसन्नः  
-तदा वदत्य् उत्तम-गं जयन् ते स्वाहा  
-६।४१।३ अस्माद् उपास्यो स्य् एहि हि  
-वृद्धि शर्म भवतोदरात्[*४४४] स्वाहा  
-६।४१।४ भूतानाम् अग्रण्यम् अहं जुहोमि भूतानाम् ईशं भुवनस्य गोपम्  
-भूतानां पतिम् अत्युग्र-वीर्यं भूतानां पतये नमस् स्वाहा  
-६।४१।५ भूतो भूतेषु चरति प्रविष्टस् स भूतानाम् अधिपतिर् बभूव  
-६।४१।६ सर्वेषां भूतानां अधिपतिस् तस्मै विष्णु-भूताक्ष-हन्ताय स्वाहा  
-६।४१।७ अक्ष-हन्ते निहितास् सहायाः  
-सर्वेषां प्राणिना(ग्)ं शान्तये स्वाहा  
-६।४१।८ ये भूताः प्रचरन्ति दिवा नक्तं बलिम् इच्छन्तो वितुदस्य प्रेष्याः  
-तेभ्यो बलिं पुष्टि-कामो हरामि मयि पुष्टिं पुष्टि-पतिर् दधातु स्वाहा  
-[*४४४] १९२६, १९४६ एदितिओन्स्: भवतोदरात्; १९८४ एदितिओन्: भवतोधरात्  
-
-६।०।१३ निधत्ता(ग्)ं स्वाहा सुरादिस् स्वाहा जयाय स्वाहाक्ष-हन्ताय स्वाहा चत्वारि च  
-  
-६।४२।१ अतो देवा इदं विष्णुस् त्रीणि पदा विष्णोः कर्माणि तद् विष्णोः परमं पदं तद् विप्रासः  
-  
-६।०।१४ चक्षुर् आतत(ग्ग्)ं स्वाहा द्वे च[*४४५]  
-[*४४५] १९८४ एदितिओन् ओमित्स् थिस् वेर्से  
-
-६।०।१४ अतो देवास् सहस्र-शीर्षा हिरण्य-वर्णां भूमिर् भूम्ना स्वस्ति चैव त्रातारम् इन्द्रम् उदुत्यं जगन् नन्दिन्य् आ स एकः पावका नश् चतुर्-मुखी दाता इतो देवाश् चतुर्-दश[*४४६]  
-[*४४६] १९४६ एदितिओन् ओमित्स् थिस् वेर्से  
-
-६।०।१५[*४४७] अतो देवा स्वस्ति चैवोदुत्यं य एषो ओजो बलाय द्वि-चत्वारि(ग्)ंशत्[*४४८]  
-[*४४७] ४२ इन् बोओक्  
-[*४४८] १९४६ एदितिओन् ओमित्स् थिस् वेर्से  
-
-[चोलोफोन्:]  
-अतो देवास् तद् विप्रासः  
-हरिः ॐ  
-तत्थ् सत्  
-  
-________________________________________  
-
-श्री श्री विखनस महा-गुरवे नमः  
-श्री-वैखानस-मन्त्र-प्रश्नाष्टके  
-सप्तम-प्रश्न-प्रारम्भः  
-
-हरिः ॐ[*४४९]  
-७।१।१।१[*४५०] [१।१] विष्णुस् सर्वेषाम् अधिपतिः परमः पुराणः  
-परो लोकानाम् अजितो ऽजितात्मन्[*४५१] भवते ऽभवाय[*४५२] स्वाहा  
-७।१।१।२ [१।२] सु-सूक्ष्मस् सार्वस्[*४५३] सर्वेषाम् अन्तरात्मा तस्थुस् तस्थुसां जङ्गमो जङ्गमानाम् विभुर् विभूणां विभवोद्भवाय स्वाहा  
-७।१।१।३ [१।३] ज्योतिर् वा पारमात्मिकं सार्वं विश्व-भवम् भवाय  
-प्रभूतं[*४५४] प्राहिण्वन् परम्पराय सुकृतं कृताय तस्मै वराय[*४५५] ईशिषे स्वाहा  
-७।१।१।४ [१।४] ईशो यस्माद् विततं वितत्य कं कं[*४५६] धृतं काम-हुतो जुहोति  
-ककुदङ् ककुच् छित्वा भूयः पराय स्वाहा  
-७।१।१।५ [१।५] रायाम् ईशो ऽरहित[*४५७] आभरन्त्या[*४५८] रां रां वहन्त्याम् अहितः[*४५९]  
-रायां पतिं रां रां धरते धरित्र्यै रां वहतोद्वहाय स्वाहा  
-[*४४९] पारमात्मिकोपनिषद् इति प्रसिद्धम्  पारायणे नमोन्तः होमे स्वाहान्त इति  
-[*४५०] व्म्प् ७।१ तेन्द्स् तो ड़ोल्लोw भट्ट-भास्कर।  
-[*४५१] उस् जितात्मन्  
-[*४५२] उस् भवाय  
-[*४५३] उस् हस् थे नोर्मल् विसर्ग बेड़ोरे अन् इनितिअल् ऽस्ऽ ओड़् थे ड़ोल्लोwइन्ग् wओर्द्, थुस्: सार्वः।  
-[*४५४] उस् प्राभूतं  
-[*४५५] उस् पराय  
-[*४५६] उस् ओमित्स् सेचोन्द् कम्  
-[*४५७] उस् रहितो  
-[*४५८] उस् भरन्त्यै  
-[*४५९] उस् वहन्त्याहितः  
-  
-  
-  
-७।१।२।१ [१।६] यो ब्रह्म-शब्दः प्रणवः प्रधान-शब्दश्[*४६०] शब्दान्तरात्मा नित्यो[*४६१] वियत्तः[*४६२] प्रतरन् प्रकामम्  
-प्राजापत्यं प्रतरन् प्रकुर्वन् भूयो भूत्यै विचरञ्[*४६३] चराय स्वाहा  
-७।१।२।२ [१।७] यो वा त्रि-मूर्तिः परमः परश् च त्रि-गुणं जुषाणस् सकलं विधत्ते त्रिस्-त्रिस् त्रि-धात्मा[*४६४]त्रि-धा त्रि-धा वा विदधे समस्तं  
-त्रि-धा त्रि-रूपं सकलन्-धराय स्वाहा  
-७।१।२।३ [१।८] यद् वा कृतम् अमरञ्[*४६५] चराणां यत् सर्व-निष्टम्[*४६६] अमृतं[*४६७] समस्तम् यत् पश्यमानम् आत्माभिजुषाणम् अन्तस् सुधृत्यानभिगम्यमानाय[*४६८] स्वाहा  
-७।१।२।४ [१।९] कः कोशम् अङ्गे कुशलं विधाय साकूतङ्[*४६९] कृणुते[*४७०] ऽग्र इद[ग्]ं सु-कान्तम् ककुद्वते काम-चरञ् चराय स्वाहा  
-७।१।२।५ [१।१०] यं यज्ञैर् मुनयो जुषन्ति यन् देवाः परमं पवित्रं भजिष्यन्त्य्[*४७१] आर्तिषु प्रणताः प्रधानाः यं सूरयो जपन्तो योगिनस् सूक्ष्मैस् सुप्रदर्शनैः पश्यन्तीश्वराय स्वाहा।  
-[*४६०] उस् प्रधानः शब्दः  
-[*४६१] उस् शब्दान्तरात्म-नित्यो  
-[*४६२] उस् वियन्तः यत्तः  
-[*४६३] उस् अचरम्  
-[*४६४] उस् ओमित्स् त्रिस्-त्रिस् त्रि-धात्मा  
-[*४६५] उस् अमृतम्  
-[*४६६] उस् सर्व-निष्ठम् wहिछ् सेएम्स् चोर्रेच्त्।  
-[*४६७] उस् अजरम्  
-[*४६८] उस् सुषुप्त्यानभिगम्यमानाय  
-[*४६९] उस् साकृतम्  
-[*४७०] उस् कृण्वते  
-[*४७१] उस् भविष्यन्ति  
-  
-  
-  
-७।१।०।१ उद्वहाय स्वाहेश्वराय स्वाहा  
-  
-७।१।३।१ [२।१] यो वा गविष्ठः परमः प्रधानः पदं वा यस्य सत्वम्[*४७२] आसीत्  
-यस्योपरित्वं मुनयो ऽनुपश्यन्ति[*४७३] तस्मै मुख्याय विष्णवे स्वाहा  
-७।१।३।२ [२।२] यो वा वायुर् द्वि-गुणो ऽन्तरात्मा सर्वेषाम् अन्तश् चरतीह विष्णो[*४७४]  
-स त्वं देवान् मनुष्यान् दृतान् प्रतिसञ्जीवसे स्वाहा[*४७५]  
-७।१।३।३ [२।३] त्वम् अग्निस्[*४७६] त्रि-गुणो वरिष्ठः परं ब्रह्म परं ज्योतिः  
-सर्वेषां त्वं पालनाय हुतम् अमृतं वहिष्यसे स्वाहा  
-७।१।३।४ [२।४] त्वञ् जीवस् त्वम् आपस् सर्वेषां जनिता त्वम् आहारः[*४७७]  
-त्वं विष्णो श्रमापनुदाय चतुर्-गुणाय स्वाहा  
-७।१।३।५ [२।५] भूमेर् वितन्वन् प्रदरान् प्रधानो बोभूयमानः[*४७८] पञ्चभिस् स्व-गुणैः प्रसन्नैस् सर्वान् इमान्[*४७९] धारयिष्यसि स्वाहा  
-[*४७२] उस् सत्त्वम्  
-[*४७३] उस् न पश्यन्ति  
-[*४७४] उस् विष्णोः  
-[*४७५] उस् मृतान्  
-[*४७६] उस् अग्ने  
-[*४७७] उस् आहरः  
-[*४७८] उस् प्रतरन् प्रकामः पोपूयमानः  
-[*४७९] उस् सर्वाणि मां  
-  
-  
-  
-७।१।४।१ [२।६] मनस् त्वं भूत्वा प्रतरस् सतो[*४८०] ऽग्रे त्वत्तो भूतं सम्भावयिष्यसि सर्वेषाङ् कायानाम् अर्हम् अर्हते स्वाहा  
-७।१।४।२ [२।७] त्वं बुद्धिर् भूतानाम् अन्तरात्मा पुण्यवतां पुण्येषु सज्जमानः त्वं बुद्ध्या[*४८१] विचिन्वमानः पुण्य-रूपाय स्वाहा  
-७।१।४।३ [२।८] यस् सूक्ष्मान् सञ्चरमाणान् भाव-भावितान्[*४८२] भव्याभव्यान्  
-कुर्वन्न् आत्मीयम् अमितो धुनोति धुरं वहिते[*४८३] स्वाहा  
-७।१।४।४ [२।९] यस्य वा[*४८४] भयाद् भगवान् उत्तस्थे[*४८५] स्वयं सूर्यस् सत्यं[*४८६] कालं वहमानः  
-यस्मात् तेज आत्मीयङ् कृत्वा सर्वान् अस्मान् पालयिष्यति[*४८७] स्वाहा  
-७।१।४।५ [२।१०] यं त्वां[*४८८] सर्वं पालनायाभिभूतं देवास् सर्वे पस्ये[*४८९] विचरन्ति ते देवास् त्वम् एव सर्वे माया मायैषा[*४९०] ते स्वाहा  
-[*४८०] उस् मनः-प्रदो  
-[*४८१] उस् बुद्ध्वा  
-[*४८२] उस् भावाभावान्  
-[*४८३] उस् वहिष्यसे  
-[*४८४] उस् यस्यादौ  
-[*४८५] उस् उत्तस्ते  
-[*४८६] उस् सूर्यस्य त्वम्  
-[*४८७] उस् पालयिष्यसि  
-[*४८८] उस् त्वं  
-[*४८९] उस् ओमित्स्  
-[*४९०] उस् मायैषते  
-  
-  
-  
-७।१।०।२ यिष्यसि स्वाहा मायैषा ते स्वाहा  
-  
-७।१।५।१ [३।१] यस् त्वं भूत्वा पर्जन्यो विभीति-रन्ध्रे[*४९१] प्रजाभिर् आकृष्यमाणः सत्यं कालं व्रतेन पालयन् ह्लादयिष्यसि[*४९२] स्वाहा  
-७।१।५।२ [३।२] कामो भूत्वा प्रजानाम् अन्तरा स्थितस् सर्वान् लोकान् ह्लादयञ् जीवमानः सन्दर्पणाय हरये वराय स्वाहा  
-७।१।५।३ [३।३] अङ्गाद् अङ्गाद् अनुप्राविशस्[*४९३] सर्वान् लोकान् संरक्षणाय  
-यो वा वसन् देवो मातरिश्वा स यो ऽस्माकं भूत्यै भूतये स्वाहा  
-७।१।५।४ [३।४] यो मोहयन् भूतानां सर्गाधिरक्षणाय[*४९४]  
-यस् सङ्कोचस् सङ्कोचनाय भवतात्[*४९५] स्वाहा  
-७।१।५।५ [३।५] यो द्वादशात्मा[*४९६] उपरि स्पृशन् वा देवानां ज्योतिर् ज्योतिषाम्[*४९७] उत्तरः स्वयं वा स्पृशन्[*४९८] ज्योतिषे स्वाहा[*४९९]  
-[*४९१] उस् बिभेति रन्ध्रे  
-[*४९२] उस् ह्लादयिष्यसे  
-[*४९३] उस् अनुप्राविशत्  
-[*४९४] उस् सर्घादि-रक्षणाय  
-[*४९५] उस् भवते  
-[*४९६] उस् दशात्मा  
-[*४९७] उस् जेनातिषम् इन्स्तेअद् ओड़् ज्योतिर् ज्योतिषाम्  
-[*४९८] उस् जेनातिर् इन्स्तेअद् ओड़् स्वयं वा स्पृशन्  
-[*४९९] उस् यो दशात्मा  
-  
-  
-  
-७।१।६।१ [३।६] यो ब्रह्मा ब्रह्म-विदाम् आत्मा स्याद् आत्म-चक्षुषाम्  
-भूतिर् भूतिमतां सुकृतं कृताय स्वाहा  
-७।१।६।२ [३।७] सारस्वतो वा एष देवो यो वाभयः[*५००] पारमात्मिकः  
-भियो भयो[*५०१] वा सर्वं सन्धुषे स्वाहा[*५०२]  
-७।१।६।३ [३।८] यो वा परं ज्योतिः परं सन्दधानः  
-परमात्मा पुरुषं सञ्जनिष्यसे[*५०३] स्वाहा  
-७।१।६।४ [३।९]  यो दोशश् चतुरश् चतुर्थश्[*५०४] चतुरः पदार्थान्[*५०५]  
-सर्वं लोकस्य सन्दधानस् सते[*५०६] सत्वम् आदधानाय स्वाहा  
-७।१।६।५ [३।१०] यस्यैता ब्रह्म-मूर्तयो बृहद्-ब्रह्मणो[*५०७] ब्रह्म आदधानः यो[*५०८] ब्रह्म-गुप्तये परम्पराय स्वाहा  
-[*५००] उस् न हि इन्स्तेअद् ओड़् यो वाभयः  
-[*५०१] उस् हयो ऽभयो इन्स्तेअद् ओड़् भियो भयो  
-[*५०२] अग्रेएस् बसिचल्ल्य् wइथ् भट्ट-भास्कर रेअदिन्ग्, अस् गिवेन् इन् पुब्।  
-[*५०३] उस् सञ्जनयिष्ये  
-[*५०४] उस् चतुर्थश्; तेxत्: चतुर्धश्  
-[*५०५] उस् पदार्थान्; तेxत्: पदार्धान्  
-[*५०६] उस् ते सन्ते  
-[*५०७] उस् -ब्रह्माणम्  
-[*५०८] उस् यम्  
-  
-  
-  
-७।१।०।३ ज्योतिषे स्वाहा पराय स्वाहा  
-  
-७।१।७।१ [४।१] वाको वा अनुवाको वाकं वाकम् सञ्जुषमाणः  
-देव-स्व-स्वं[*५०९] गुप्तये[*५१०] स्वयं[*५११] ज्योतिषे स्वाहा  
-७।१।७।२ [४।२] द्वाव् एतौ पक्षी अचरञ् चरन्तौ नो धुरं[*५१२] व्यधुनीते  
-यश् चैको[*५१३] भुनक्ति भोक्त्रे स्वाहा  
-७।१।७।३ [४।३] यो वा आयुः परमात्मा[*५१४] मीढुषः पारम्पर्यात् परः[*५१५] परायणः परो[*५१६] लोकानां परम् आदधानः परतः पराय[*५१७] स्वाहा  
-७।१।७।४ [४।४] यो वा तेजस्[*५१८] तेजसां तेजस् तेज आदधानः  
-सत्यस्[*५१९] तेजस् तेजसां तेजस् तेजसे स्वाहा  
-७।१।७।५ [४।५] साहं वा यां समाशिषम् आसीर् भूताभूता  
-आसिषम् आसीर् आसीर् अनुभूम स्वाहा[*५२०]।  
-[*५०९] उस् देवस्य स्वम्  
-[*५१०] उस् स्व-गुप्तये  
-[*५११] उस् अद्द्स् जेनातिषे अड़्तेर् स्वयम्  
-[*५१२] उस् नाधुरम्  
-[*५१३] उस् चैकम्  
-[*५१४] उस् अद्द्स् न अड़्तेर् परमात्मा  
-[*५१५] उस् परम्  
-[*५१६] उस् पराय  
-[*५१७] उस् परम्पराय  
-[*५१८] उस् ओमित्स् यो वा तेजस्  
-[*५१९] उस् सत्त्वस्  
-[*५२०] उस् वरिएस् चोन्सिदेरब्ल्य् हेरे सो इ गिवे थे चोम्प्लेते वेर्से: सह सम्पायास् त्वम् आशिषम् आशि-भूताभूतम् आशिषम् आशिर् आशीर् आशिर् अनुभूमिः स्वाहाः  
-  
-  
-  
-७।१।८।१ [४।६] यो वा[*५२१] संयोगं सञ्जुषमाणस्[*५२२] सन्धुस् सन्धुक्षणानाम्  
-संयोगं[*५२३] सन्दधानः पुण्यः पुण्यानां पुण्याय स्वाहा  
-७।१।८।२ [४।७] सहस्रं वा यस्य वै वितानम् आदधाति[*५२४] नस्[*५२५] सहस्रं वा आशिषस्यासिकाः[*५२६] सहस्रा यस्य वै साशिकास्[*५२७] सहस्र-सहस्राय स्वाहा  
-७।१।८।३ [४।८] स्वानीका[*५२८] गुप्तयो गुप्तिस् सत्वं सत्वानां[*५२९] सात्वं पदम्  
-यत्[*५३०] सत्वं[*५३१] सत्वम् आसीत् सात्वं सात्वं वै सत्वम् आदधानाय स्वाहा  
-७।१।८।४ [४।९] सत्वं वा उदेकम्[*५३२] आसीद् यत् सत्वम् उभयोर् अनुगोप्ता  
-तत् सत्वम् सत्वं-वदाय[*५३३] सत्याय स्वाहा  
-७।१।८।५ [४।१०] सतो ज्योतिस्[*५३४] सत्वान्तरात्मा[*५३५] सत्योद्योगस् सत्यस् सत्-कर्मा  
-सत्यं सत्व-वितानम्[*५३६] आसीत् सत्य-सत्याय स्वाहा  
-[*५२१] उस् ह  
-[*५२२] उस् ध्यानं जुषमाणः  
-[*५२३] उस् संयोगः  
-[*५२४] उस् आदधानः  
-[*५२५] उस् ओमित्स्  
-[*५२६] उस् आशिषह् सहस्रम्  
-[*५२७] उस् सासिकाः  
-[*५२८] उस् स्वातीका  
-[*५२९] उस् अद्द्स् (सत्यम् सत्यानाम्)  
-[*५३०] उस् तत्  
-[*५३१] उस् सत्त्वम् एत्च्।  
-[*५३२] उस् उद्रेकम्  
-[*५३३] उस् सत्यं सत्यम् पदाय  
-[*५३४] उस् सत्यो जेनाति  
-[*५३५] उस् सत्यान्तरात्मा  
-[*५३६] उस् सत्यं वितानम्  
-  
-  
-  
-७।१।०।४ भूम स्वाहा सत्याय स्वाहा  
-  
-७।१।९।१ [५।१] सत्यं[*५३७] सत्वं[*५३८] पुण्यम् आसीत् पुण्यो वा दैविकं सत्वं[*५३९] सत्यम्[*५४०] आर्षम् सत्यं सत्वं[*५४१] सत्-पथाय स्वाहा  
-७।१।९।२ [५।२] सत्योद्योगस्[*५४२] सत्व-प्राणस्[*५४३] सत्वाधारस् सत्वस्[*५४४] सन्धानः[*५४५]  
-सत्यस् सत्व[*५४६] प्रकाशयन्[*५४७] ज्योतिर्[*५४८] ज्योतिषे स्वाहा  
-७।१।९।३ [५।३] कामीम् इमाम्[*५४९] ईशिषं सत्यम् ईशिषम्[*५५०] ईशिषाणान् तत् सत्वं सत्य-रूपम्  
-सत्याय सन्दधानाय स्वाहा  
-७।१।९।४ [५।४] आरणी[*५५१] वा आरन्द आवारन्दो आरन्द[*५५२]  
-अयं [*५५३]मारन्-दमम् आरन्दम्[*५५४] आशिषे[*५५५] स्वाहा  
-७।१।९।५ [५।५] तत् सत्वो[*५५६] वा विष्णुर् उद्योगस् सूर्यो गो[*५५७] वा विष्णुं विशन्न्[*५५८]  
-विश्वं विश्वं सन्दधानस् तद् विश्वं विष्णवे विश्व-रूपाय स्वाहा  
-[*५३७] उस् सत्यः  
-[*५३८] उस् सत्यं  
-[*५३९] उस् सत्यं  
-[*५४०] उस् सत्त्वम्  
-[*५४१] उस् सत्त्वम्  
-[*५४२] उस् सत्यो ज्योतिः  
-[*५४३] उस् सत्त्वं प्राणाः  
-[*५४४] उस् सत्त्वं  
-[*५४५] उस् संयानाः  
-[*५४६] उस् सत्त्वं  
-[*५४७] उस् प्रकाशं  
-[*५४८] उस् ओमित्स्  
-[*५४९] उस् उमाम्  
-[*५५०] उस् ओमित्स् सत्यम् ईशिषम्  
-[*५५१] उस् अरिणिर्  
-[*५५२] उस् आरन्दो  
-[*५५३] उस् अद्द्स् आनन्दते बेड़ोरे मारन्दम्  
-[*५५४] उस् ओमित्स्  
-[*५५५] उस् ईशिषे  
-[*५५६] उस् यत् सत्यं  
-[*५५७] उस् गौर्  
-[*५५८] उस् विष्णुर् विशत्  
-  
-  
-  
-७।१।१०।१ [५।६]तद् भूर् भूस् तद्[*५५९] भू-स्थो वा विश्व-रूपस् तद् भूः प्राणस् सङ्ख्यातः  
-भूर् भुवस् सुवर् असि[*५६०] भूर् असि भुवो ऽसि सुवर् असि भूर् भूतये स्वाहा  
-७।१।१०।२ [५।७] आपो वा आप आपो[*५६१] इन्तरात्मा यो वेदो वेदानाम् आधारः  
-वेदान्तरात्मा स-रसो रस-सङ्ख्यातो रसं रसम् आसीद् रसाय स्वाहा  
-७।१।१०।३ [५।८] त्रयी वा कामं त्रयी-मयं त्रि-गुणं त्रेधात्मकम्[*५६२]  
-त्रयी वा ज्योतिस्[*५६३] त्री-गुणन्[*५६४] त्रि-गुणात्मकन्[*५६५] तस्मै त्रेधाग्नये[*५६६] त्रि-गुणाय स्वाहा  
-७।१।१०।४ [५।९] द्वौ वा मुख्यौ मुख्याधारौ स-सुखौ सानन्दौ  
-स-स्मेरौ[*५६७] स्मेरायतौ[*५६८] सानन्दम् आनन्द-दौ[*५६९] स्वाहा  
-७।१।१०।५ [५।१०] स एकैकस् साधारस् साधिष्ठानो ऽनाधारः[*५७०]  
-कं कं कस्मै पदे[*५७१] पातः पादयति[*५७२] पादिते स्वाहा  
-[*५५९] उस् भू-स्थम्  
-[*५६०] उस् भूर् आसीद् रेप्लचेस् भूर् भुवस् सुवर् असि  
-[*५६१] उस् अपो रेप्लचेस् आप आपो  
-[*५६२] उस् त्रेतात्मकम्  
-[*५६३] उस् जेनाति  
-[*५६४] उस् त्रि-गुणन्  
-[*५६५] उस् त्रि-गुणात्मकम्  
-[*५६६] उस् त्रेताग्नये  
-[*५६७] उस् स-स्मेरौ; तेxत्: स-स्मेका  
-[*५६८] उस् स्मेरायितौ  
-[*५६९] उस् आनन्दते  
-[*५७०] उस् नाधिष्ठानः  
-[*५७१] उस् अद्द्स् पदे अड़्तेर् पदे  
-[*५७२] उस् पादाय  
-  
-  
-  
-७।१।०।५ रूपाय स्वाहा पादिते स्वाहा  
-  
-७।१।११।१ [६।१] स्वयम् आदिस् सर्वान्तरात्मा देवस्[*५७३] स्वयं क्रीडात्मकं वासृजत्[*५७४]  
-यस् स्वयं लोकम् अवधारम्[*५७५] अवधारयन् स्वाहा  
-७।१।११।२ [६।२] यस् स्वयं सृष्तम् आत्मना गुप्तम् अनु तं वितानम्[*५७६] अचरं चरन्तम्  
-स्वयं क्रीडन्[*५७७]  क्रीडयन् क्रीडान्तरम् अनुप्राविशन्[*५७८] स्वाहा  
-७।१।११।३ [६।३] स्वौजसा सर्वम् आदधाति यः पापीयांसम् अनुपदम् आहि[ग्]ंसत्  
-सुपुण्यं पुण्यात्मकं पुण्य-वितानन्[*५७९] दधार[*५८०] देवाय स्वाहा  
-७।१।११।४ [६।४] क्ष्माम् एकां सलिलावसन्नां श्रुत्वा[*५८१] स्वनन्तीम् अनुसम्पतन्तीम्[*५८२]  
-स्वयम् भूत्वा वराहो वर[*५८३] उज्जहार[*५८४] तस्मै देवाय सुकृताय पित्रे स्वाहा  
-७।१।११।५ [६।५] यः कुन् धरमाणः कुन्-धरतां कुन्-धरताम् इत्य् अवोचत्  
-तान्[*५८५] सानुमतो[*५८६] विदधत् स्व-तेजसा तस्मै देवाय[*५८७] वर-दाय[*५८८] पित्रे स्वाहा  
-[*५७३] उस् देवस्य  
-[*५७४] उस् अवासृजत्  
-[*५७५] तेxत्: अवथारम्  
-[*५७६] उस् अनुसन्दितानम् रेप्लचेस् अनुतं वितानम्  
-[*५७७] उस् क्रीडं  
-[*५७८] उस् अनुप्राविशत्  
-[*५७९] उस् पुण्यं वितानं  
-[*५८०] उस् दाधार।  तेxत्: दथार।  
-[*५८१] तेxत्: शृत्वा।  उस् श्रुत्वा।  
-[*५८२] उस् अनु स्वयम्  
-[*५८३] उस् ओमित्स्  
-[*५८४] उस् जहार  
-[*५८५] उस् तां  
-[*५८६] उस् सानुमन्तो  
-[*५८७] उस् इन्सेर्त्स् हेरे वरिष्ठाय  
-[*५८८] उस् वर-प्रदाय  
-  
-  
-  
-७।१।१२।१ [६।६] यो वा[*५८९] पृथाम् प्रस्खलन्तीं प्रमृज्यामृताङ्गीम्[*५९०]  
-य ऊर्वोर् उपदधात्[*५९१] तस्मै वरिष्ठाय[*५९२] वरदाय पित्रे स्वाहा  
-७।१।१२।२ [६।७] द्याङ्[*५९३] गाम् उशन्तीम् उशनाभिपूर्णाम्[*५९४] आरक्त-नीलाम् अमृतं[*५९५] चरन्तीम्[*५९६]  
-आलालयन् लालित-कङ्कणाङ्कीं[*५९७] तस्मै प्रजेशाय वरदाय पित्रे स्वाहा  
-७।१।१२।३ [६।८] प्रजा-पते न त्वद् एतान्य् अन्यो विश्वा जातानि परि ता बभूव  
-यत्-कामास् ते जुहुमस् तन् नो अस्तु वय[ग्ग्]ं स्याम पतयो रयीणा[ग्]ं स्वाहा  
-७।१।१२।४ [६।९] यो दूर्-धुरं[*५९८] धूर्-वरं[*५९९] धूर्-वराणाम्  
-सुधूर् धूर् असि धूर् धुराणां धूर् असि धूर्-वङ्ग मे त्व[ग्ग्]ं[*६००] स्वाहा  
-७।१।१२।५ [६।१०] यो वा व्यहिंसीज्[*६०१] जरयाजरन्तं तन् दैत्य-मुख्यम् अंऋतात्म-रूपम्  
-सुखुरं खुराणां किञ्चित् स्वनन्तं तस्मै नृसिंहाय सुरेश-पित्रे स्वाहा  
-[*५८९] उस् ओमित्स् यो वा  
-[*५९०] उस् प्रमृज्यामृजाङ्गीम्  
-[*५९१] उस् उपादधात्।  तेxत्:  उपदथाट्।  
-[*५९२] उस् मुख्याय  
-[*५९३] उस् यां  
-[*५९४] उस् उशन्नभिपूर्णाम्  
-[*५९५] उस् अमृताम्  
-[*५९६] उस् रजन्तीम्  
-[*५९७] उस् लालित-कङ्कणाङ्गीम्  
-[*५९८] उस् धूर्-धुरं  
-[*५९९] उस् धूर्-धरम्  
-[*६००] उस् ओमित्स्  
-[*६०१] उस् वाप्य् अहिंसीज् रेप्लचेस् वा व्यहिंसीज्  
-  
-  
-  
-७।१।०।६ वरदाय पित्रे स्वाहा सुरेश-पित्रे स्वाहा  
-  
-७।१।१३।१ [७।१] तपो-निधीनां[*६०२] तपसा[ग्]ं रयिन्दं रयिम् आयुर् अङ्गं व्यसनौघ-हिंस्रम्[*६०३]  
-सासिष्व् असन्तं सवने सवित्रे तस्मै सुरेशाय सुर-ब्रह्म-कर्त्रे[*६०४] स्वाहा  
-७।१।१३।२ [७।२] यो वा नृसिंहो विजयं बिभर्षि रा-राजिमन्तं रयि-दं कवीनाम्  
-साराजिमन्तं सजयं सहस्रं तस्मै सुयन्त्रे सुसेवधये[*६०५] सेवधये[*६०६] स्वाहा  
-७।१।१३।३ [७।३] रयिः ककुद्मान् विदधद्[*६०७] विनष्टं रयिमद् विधानम्  
-तस्मै ककुत्रे विकटाय पित्रे स्वाहा  
-७।१।१३।४ [७।४] राकाम् अह[ग्]ं सुहवा[ग्]ं सुष्टुती हुवे शृणोतु नस् सुभगा बोधतु त्मना  
-सीव्यत्व् अपस् सूच्याच्छिद्यमानया ददातु वीर[ग्]ं शत-दायम्[*६०८] उक्थ्यं[*६०९] स्वाहा  
-७।१।१३।५ [७।५] वेदाहम् एतं पुरुषं महान्तम् आदित्य-वर्णं तमसस् तु पारे  
-सर्वाणि रूपाणि विचित्य धीरो[*६१०] नामानि कृत्वाभिवदन् यद् आस्ते स्वाहा  
-[*६०२] उस् तपो-निधिं  
-[*६०३] उस् व्यसनौघ-हन्तृ  
-[*६०४] उस् सुर-बृन्द-कर्त्रे  
-[*६०५] उस् सुशेवधये  
-[*६०६] उस् ओमित्स्  
-[*६०७] उस् दधद्  
-[*६०८] तेxत्: शत-दाम्, wहिछ् हस् बेएन् चोर्रेच्तेद् तो शत-दायम्।  
-[*६०९] तेxत्: उक्ध्य[ग्ग्]ं, wहिछ् हस् बेएन् चोर्रेच्तेद् तो उक्थ्यं।  
-[*६१०] उस् धीरः  
-  
-  
-  
-७।१।१४।१ [७।६] दिग्-दोषा[*६११] यस्य विदिशश् च कर्णौ[*६१२] द्यौर् आस वक्त्रम् उदरन् नभो वा  
-शास्ति स्म वा यस्[*६१३] स्वयम् आप दन्तं तस्मै वरत्रे वरदाय कस्मै स्वाहा  
-७।१।१४।२ [७।७] पद्मास्य[*६१४]-वक्षाः परमस् सु-पुण्यः पद्मा-जनित्रं[*६१५] परम् अस्य वासम्[*६१६]  
-सूक्ष्मस्[*६१७] सवित्रे[*६१८] स्वयम् आदधानस् सावित्र-रूपं परमं सु-पुण्य[ग्ग्]ं स्वाहा  
-७।१।१४।३ [७।८] यः पुण्डरीकः परमान्तरात्मा कम्राङ्ग-भूतं[*६१९] कमलन् धधार[*६२०]  
-सासिष्व्[*६२१] असन्तं सु-रसे[*६२२] रसाय स्वाहा  
-७।१।१४।४ [७।९] रयीणां पतिं यजतं बृहन्तं रा-राग-मुक्तं गुरुं स्व्-अनीकम्[*६२३]  
-तं रायो[*६२४] रूपं रयि-भूत-भूतिं[*६२५] रयिमत्-सुरत्रे[*६२६] स्वाहा  
-७।१।१४।५ [७।१०] रायां पतत्रे[*६२७] रयिम् आदधात्रे रायो बृहन्तं रयिमत् सु-पुष्टाम्[*६२८]  
-रा-राजिमन्तं रतये यजन्तु[*६२९] तं बिम्बवन्तं ककुदाय भद्रे स्वाहा  
-[*६११] उस् दिग्-दोषो  
-[*६१२] उस् कर्णौ; तेxत्: कर्ण  
-[*६१३] उस् सासि वा स्म या रेप्लचेस् शास्ति स्म वा यस्  
-[*६१४] उस् पद्मास्य; तेxत्: पद्यास्य  
-[*६१५] उस् -जनित्री  
-[*६१६] उस् वासः  
-[*६१७] उस् सूक्ष्मम्  
-[*६१८] उस् सावित्रं  
-[*६१९] उस् -रूपं  
-[*६२०] उस् दधार  
-[*६२१] तेxत्: सासीष्व्  
-[*६२२] उस् सरसे  
-[*६२३] उस् स-श्रीकं  
-[*६२४] उस् रायि-  
-[*६२५] उस् -भूतं  
-[*६२६] उस् -सुरत्रः  
-[*६२७] उस् पतत्त्रे  
-[*६२८] उस् सु-पुण्यं  
-[*६२९] उस् रमन्तं  
-  
-  
-  
-७।१।०।७ यदास्ते स्वाहा भद्रे स्वाहा  
-  
-७।१।१५।१ [८।१] यत् सार-भूतं सकलं धरित्रं[*६३०] मोद-प्रायेणानुभूतम् अनुविद्धम्  
-सूक्ष्मस् सुरेशस् सकलं बिभर्ति[*६३१] तस्मै सुरेशाय सकलं सुपुण्य[ग्ग्]ं स्वाहा  
-७।१।१५।२ [८।२] फलो वा एष लोकानाम् अजरो महात्मा विश्वम् यः पाति विमलो ऽमलाख्यः  
-तस्मै ककुत्रे वरदाय[*६३२] पुष्ट्यै स्वाहा  
-७।१।१५।३ [८।३] धूर् नो वहन्तं रतये रमन्तं[*६३३] भू-भूतिम्[*६३४] अन्तस् समयं सुषुम्नम्[*६३५]  
-अं राजिमन्तं सकलस्य गुप्त्यै स्वाहा  
-७।१।१५।४ [८।४] विश्वं  बिभर्ति प्रसुरो रुदन्तं[*६३६]  
-संराजिमन्तं[*६३७] सकलं प्ररूढम्  
-स नो वितत्य प्रहिणोतु पत्रे स्वाहा  
-७।१।१५।५ [८।५] सो वा स्व-रूपस् सम-दृक् समग्रो विधुनन् तु धन्यो[*६३८] विदधत् पदं वा  
-वियति प्रकाशं बृहते ऽर्हे तं[*६३९] बिम्बवन्तं सम-दं समग्र[ग्ग्]ं स्वाहा  
-[*६३०] उस् धरित्रीं  
-[*६३१] अच्चेन्तुअतिओन् इन् थे १९४६ एदितिओन्:  बिभर्ति  
-[*६३२] उस् वरदस्य  
-[*६३३] उस् रमन्ताम्  
-[*६३४] उस् प्रभूतिम्  
-[*६३५] उस् सुषुम्ना  
-[*६३६] उस् अभूद् अन्तं रेप्लचेस् रुदन्तं  
-[*६३७] उस् संराजवन्तं  
-[*६३८] उस् विधुदं तुदन् यो रेप्लचेस् विधुनन् तु धन्यो  
-[*६३९] उस् गुहेन तं  
-  
-  
-  
-७।१।१६।१ [८।६] भूर् भुवं व भुवो वा सुवर्[*६४०] वा किञ्चित् स्वनन्तं सुषुवे समस्तम्  
-सर्वस्य दातारम् अजरं जनित्रे स्वाहा  
-७।१।१६।२ [८।७] दाक्षायण्यां प्रसृतं समस्तं सङ्कोचयित्वा सकलं वितानम्  
-संवासयन् मे[*६४१] सकलं वरिष्ठं[*६४२] तस्मै प्रजेशाय धुरं-धराय स्वाहा  
-७।१।१६।३ [८।८] आशास् समस्ताः प्रतरन् नुवन्तस्[*६४३] तास् वाव नद्यां[*६४४] कमला समस्ता  
-ताम्[*६४५] मे ग्रहे वा समधत्त पुष्टि[ग्ग्]ं स्वाहा  
-७।१।१६।४ [८।९] यो जङ्गमानां सकलं बिभर्ति[*६४६] सर्वं वियद् वा[*६४७] विचरेत[*६४८] शक्ष्यन्  
-तन् नः[*६४९] कुले[*६५०] वाव पुष्णन्[*६५१] त्व्[*६५२] अजस्र[ग्ग्]ं स्वाहा  
-७।१।१६।५ [८।१०] यो वा दशानां प्रहृतास्[*६५३] समस्तास् तांस् तान् दधानस्[*६५४] समयात् सुबीजान्[*६५५]  
-शब्दातिरिक्तस्[*६५६] स्व-बलम् बलाय स्वाहा  
-[*६४०] उस् सुवो  
-[*६४१] उस् यः  
-[*६४२] उस् वरिष्ठं; तेxत्: वरिष्ठ  
-[*६४३] उस् प्रतरन्न् अनु तम् अन्तस् रेप्लचेस् प्रतरन् नुवन्तस्  
-[*६४४] उस् ता वसेद् द्यौः रेप्लचेस् तास् वाव नद्याम्  
-[*६४५] उस् सा  
-[*६४६] उस् बिभर्षि  
-[*६४७] उस् ओमित्स्  
-[*६४८] उस् विचरते  
-[*६४९] उस् नौ  
-[*६५०] उस् कूले  
-[*६५१] उस् वान्तिके रेप्लचेस् वाव पुष्णन्  
-[*६५२] उस् ओमित्स्  
-[*६५३] उस् प्रसृताः  
-[*६५४] उस् दधानास्  
-[*६५५] उस् सुबीजाः  
-[*६५६] उस् शब्दातिरीत्यै  
-  
-  
-  
-७।१।०।८ समग्र[ग्ग्]ं स्वाहा बलाय स्वाहा  
-  
-७।१।१७।१ [९।१] चत्वारो दोषाः[*६५७] प्रहरन्ति यस्य सर्वस्य गोप्त्रे सु-रसाय धाम्ने  
-सोमस्य पुण्यं रयिमत्-प्रवृद्ध्यै स्वाहा  
-७।१।१७।२ [९।२] वक्षो वसत्य् अस्य वरां वरिष्ठां[*६५८] वाकन् दधाना ववृधे समस्तम्  
-तस्मै वरिष्ठाय वर-प्रवृद्ध्यै स्वाहा  
-७।१।१७।३ [९।३] अणोर् अणीयान् महतो महीयान् आत्मा गुहायां निहितो ऽस्य जन्तोः  
-तम् अक्रतुं पश्यति वीत-शोको धातुः प्रसादान् महिमानम् ईश[ग्ग्]ं स्वाहा  
-७।१।१७।४ [९।४] विष्णुर् वरिष्ठो वर-दान-मुख्यो यो ऽविश्व-भीषी[*६५९] ध्यायन्न् अकुर्वन्  
-विश्वं विभीषं[*६६०] व्यदधत् तम् मन्त्रं[*६६१] तद्[*६६२] विष्णवे यत्[*६६३] प्रभविष्णवे यम्[*६६४] अमितं भरित्रे स्वाहा  
-७।१।१७।५ [९।५] अजो[*६६५] जुषन्तः प्रपतन् पदतः[*६६६] पूं पूं पुषन्तः पुनर् यः[*६६७] प्रवाकम्[*६६८]  
-कं कं जनित्रे सम-तेजसन् ते स्वाहा  
-[*६५७] उस् दोषः  
-[*६५८] उस् वरा वरिष्ठं रेप्लचेस् वरां वरिष्ठां  
-[*६५९] तेxत्: ऽविश्व-भीषि; उस् विश्वर्षीन् रेप्लचेस् ऽविश्व-भीषी  
-[*६६०] उस् हीषद्  
-[*६६१] तेxत्: अन्त्रत्  
-[*६६२] उस् ओमित्स् व्यदधत् तम् अन्त्रत् तद्  
-[*६६३] उस् याः  
-[*६६४] उस् ता  
-[*६६५] उस् अब्जो  
-[*६६६] उस् प्रपतत् पतन्तः रेप्लचेस् प्रपतन् पदतः  
-[*६६७] उस् पुनयः रेप्लचेस् पुनर् यः  
-[*६६८] उस् प्रवाऌअः  
-  
-  
-  
-७।१।१८।१ [९।६] माम् आत्म-गुप्तां वहसि स्म भूत्यै[*६६९] तां राजिमतीं[*६७०] धुरं[*६७१] धूरयन्तीम्[*६७२]  
-धूर् असि ध्रुवाय स्वाहा  
-७।१।१८।२ [९।७] यं चिन्तयन्तो निगमान्त-रूपं यं विष्णु[*६७३]-रूपं परमात्म-पुण्यम्  
-ते विन्दमानाः[*६७४] सकलं व्रजन्ति[*६७५] तन् देव[*६७६]-मुख्यं सु-रतं भवाय स्वाहा  
-७।१।१८।३ [९।८] पुण्यञ्[*६७७] च पुण्या[*६७८] फुरुषे[*६७९] पुर्-अग्रां[*६८०] तां राजिमतं[*६८१] निधि[*६८२]-चोदितां नः[*६८३]  
-विदधाति[*६८४] पुष्टिं[*६८५] परां[*६८६] पराय स्वाहा  
-७।१।१८।४ [९।९] सो[*६८७] नो भूतो यो वामृतात्मा सु-पुष्टिम् अस्मद् वितरन्[*६८८] पवित्राम्[*६८९]  
-सो[*६९०] नो ऽस्तु भूत्यै कमला-वराय[*६९१] स्वाहा  
-७।१।१८।५ [९।१०] स त्व्[*६९२] एव नित्यं सकलास् स्व-मूर्तयस्[*६९३] सु-रतास् व्[*६९४] अनन्ताः  
-ते ऽजीजयन्तो विपद् अक्षयाणाम्[*६९५] तत्-तत्-सवित्रे हरते हराय[*६९६] स्वाहा  
-[*६६९] उस् वहसे स्व-भूत्यै रेप्लचेस् वहसि स्म भूत्यै  
-[*६७०] उस् राजिमन्ताम्  
-[*६७१] उस् धूर्  
-[*६७२] तेxत्: थूरयन्तीम्  
-[*६७३] उस् विश्व  
-[*६७४] तेxत्: विन्दमानां; ब्ब्: विन्दमानाः  
-[*६७५] उस् व्रजन्तीं; ब्ब् व्रजन्ति; तेxत्: व्रजन्ती  
-[*६७६] उस् दैव  
-[*६७७] उस् पुण्यां  
-[*६७८] उस् पुण्यः  
-[*६७९] फुरुषे रेअद् अस् पुरुषे।  उस् पुरुषे  
-[*६८०] उस् पुर्-अग्रे  
-[*६८१] इन् राजिमतं, थे अ हस् अ दोउब्ले अनुदात्त उन्देर्नेअथ् इत् इन् थे तेxत्। उस् राजिमन्तां।  च्ड़्। एन्ग्लिस्ह् तेxत्  
-[*६८२] उस् निशि  
-[*६८३] उस् चोदितानाम्  
-[*६८४] उस् निदधाति  
-[*६८५] उस् पुष्ट्यै  
-[*६८६] उस् हरन्  
-[*६८७] उस् स  
-[*६८८] उस् अस्मत्-पितरं रेप्लचेस् अस्मद् वितरन्  
-[*६८९] उस् पवित्रं  
-[*६९०] उस् स  
-[*६९१] उस् कमलं पराय रेप्लचेस् कमला वराय  
-[*६९२] उस् ओमित्स्  
-[*६९३] तेxत्: प्व-मूर्तयस् चोर्रेच्तेद् तो स्व-मूर्तयस्। उस् स-मूर्तयः  
-[*६९४] उस् त्व्  
-[*६९५] उस् वियति क्षयाणां रेप्लचेस् विपद् अक्षयाणाम्  
-[*६९६] उस् पराय  
-  
-  
-  
-७।१।०।९ सन्ते स्वाहा हराय[*६९७] स्वाहा  
-[*६९७] थे १९८४ एदितिओन् रेअद्स् साराय।  
-  
-  
-७।१।१९।१ [१०।१] या गा[*६९८] वरिष्ठास् सहसूर् धरित्रे[*६९९] वसन् वसन्[*७००] वै वसुनीह भद्राः[*७०१]  
-रेरीहयन्तो[*७०२] रजतं रेजन्ते[*७०३] स्वाहा  
-७।१।१९।२ [१०।२] वायव्[*७०४] अन्तरात्मा वहते[*७०५] समस्तं[*७०६] सु-पुण्य-देवेति स सूरि-मुक्तः  
-सूरिस् सुराणां सुरसो ऽप्य् असुन्-दस् समूह्य देवाय[*७०७] वर-दाय पित्रे स्वाहा  
-७।१।१९।३ [१०।३] सर्वोपरिष्टाद्[*७०८] अधितिष्ठत्[*७०९] आत्मा तस्योपरिष्टात्[*७१०] परमस्[*७११] स-मुक्तः[*७१२]  
-तन् नीरजन्तं[*७१३] सुतनु व्रजन्तम्[*७१४] अनुसम्पराय स्वाहा  
-७।१।१९।४ [१०।४] तमस् सर्व-भूतम् अधुनोद् वरेण्यस्[*७१५] त्वं[*७१६] सत्व-रूपं[*७१७] सकलं[*७१८] प्रकाश्य[*७१९]  
-सङ्क्लेशयन् सृष्टि-निमित्तये[*७२०] यस्[*७२१] तस्मै पर-ब्रह्मणे परं-ज्योतिषे स्वाहा  
-७।१।१९।५ [१०।५] ज्योतिर् ज्योतिर् ज्योतिषां ज्योतिर्[*७२२] ओजो वा[*७२३] बलम् आहरन्[*७२४]  
-सत्वं[*७२५] सत्वात्मकं स-ज्योतिर्[*७२६] उक्तं[*७२७] तस्मै सूक्ष्म-सूक्ष्माय तेजसे स्वाहा  
-[*६९८] उस् गौर्  
-[*६९९] उस् सहसोर् धरित्री रेप्लचेस् सहसूर् धरित्रे  
-[*७००] उस् वसुं वसुं रेप्लचेस् वसन् वसन्  
-[*७०१] उस् भद्रा  
-[*७०२] उस् रेरीजयन्तो  
-[*७०३] उस् रजतं  
-[*७०४] उस् वायोर्  
-[*७०५] उस् वहति  
-[*७०६] उस् समस्तः  
-[*७०७] उस् देवा  
-[*७०८] उस् यस्योपरिष्टद्  
-[*७०९] उस् अधितिष्ठद्  
-[*७१०] उस् सर्वोपरिष्टात्  
-[*७११] उस् परमात्मा  
-[*७१२] उस् मुक्तं  
-[*७१३] उस् विरजं नित्यम् रेप्लचेस् नीरजन्तं  
-[*७१४] उस् ओमित्स् सुतनु व्रजन्तम्  
-[*७१५] उस् अधुनाध्वरेण रेप्लचेस् अधुनोद् वरेण्यस्  
-[*७१६] उस् तं  
-[*७१७] उस् सत्त्व-रूपं  
-[*७१८] उस् ओमित्स्  
-[*७१९] उस् अनुप्रविश्य  
-[*७२०] उस् -निमित्ताय  
-[*७२१] उस् ओमित्स्  
-[*७२२] उस् जेनातिर् जेनातिषां जेनातिर् रेप्लचेस् ज्योतिर् ज्योतिर् ज्योतिषां ज्योतिर्  
-[*७२३] उस् ओमित्स्  
-[*७२४] उस् आहरत्  
-[*७२५] उस् ओमित्स्  
-[*७२६] उस् सं जेनातिर् रेप्लचेस् स-ज्योतिर्  
-[*७२७] उस् इत्थं  
-  
-  
-  
-७।१।२०।१ [१०।६] सत्वं सत्वात्मको[*७२८] रजो रजस आत्मकस् तमस् तमस आधारः  
-साकृतं तम् ईश्वरम्[*७२९] ईश्वराय स्वाहा  
-७।१।२०।२ [१०।७] अनिर्भिण्णं यस्येदम् आसीद् आसीद्[*७३०] उदकम् आत्मकम्[*७३१]  
-यस्यो दावोदन्-अर्थम्[*७३२] उच्चम् उच्चैर् उरुगाया स्वाहा  
-७।१।२०।३ [१०।८][*७३३] यस्येच्छा लोके वा प्रजा यतेत लोकं धत्ते वासी तन् न चासीत्  
-यद् वा सञ्जातं यत् सर्वम् ईशम् ईशिषे स्वाहा[*७३४]  
-७।१।२०।४ [१०।९][*७३५] यो वेदादिः परमः परो ब्रह्मा त्रयी-मात्रकस् त्रयी-मूर्तिकः  
-शब्दश् शब्दादिकः परं-ब्रह्मणे परं-ज्योतिषे स्वाहा  
-७।१।२०।५ [१०।१०][*७३६] यो वा ऽव्यक्तं सकलं प्रवृद्ध्या यद् इदं सर्वम् आसीत्  
-सानन्दं साकृतं हरन् पराय स्वाहा  
-[*७२८] उस् सत्त्वं सत्त्वात्मकं वा रेप्लचेस् सत्वं सत्वात्मको  
-[*७२९] उस् निरीश्वरम् रेप्लचेस् तम् ईश्वरम्  
-[*७३०] उस् ओमित्स् सेचोन्द् आसीद्  
-[*७३१] उस् उदकात्मकम् रेप्लचेस् उदकम् आत्माकम्  
-[*७३२] उस् ऽयनुथम्; ब्ब् दावो दहेद् अनर्थम्  
-[*७३३] उस् थिस् वेर्से रेअद्स्:  यस्येच्छा लोके वा प्रजायतिर् लोके यस्मै वासि तस्मै  । वासीत् यद् वास् सञ्जातं [?] यत् सर्वम् ईशम् आशिषे स्वाहा  
-[*७३४] उस् अद्द्स् मातृकायाम् एतावद् एवोपलब्धम् "इन् थे सोउर्चे ओन्ल्य् थिस् मुछ् अवैलब्ले।"  
-[*७३५] मिस्सिन्ग् इन् उस्।  
-[*७३६] मिस्सिन्ग् इन् उस्।  
-  
-  
-७।१।०।१० तेजसे स्वाहा पराय स्वाहा  
-  
-७।१।२१।१ [११।१][*७३७] यो वा भूतेर् भूतिर् आसीत् सा वानन्दं प्रत्यानन्दम्  
-स-जुषं व्रजामि सत्यं सत्याय स्वाहा  
-७।१।२१।२ [११।२] सत्यस् सत्य-स्थस् सत्य-लोक-स्थस् सत्यस् सञ्जनित्रम्[*७३८] आसीत्  
-सत्य-सत्याय रंहसे स्वाहा  
-७।१।२१।३ [११।३] ऋतं सत्यम् अमितं पुराणम् आदिं जनित्रम् अमृतं सुरेन्द्रम्  
-स-ज्योतिषां जुषमाणं जुषस्व स्वाहा  
-७।१।२१।४ [११।४] कं राजिमन्तम् अमृतस्य गुप्तिं सोमे जुषन्तम् अमृतं बिभर्ति  
-रयिमत्-सुपुष्टिं गुणवन्तम् अत्र तस्मै सुपुण्याय वर-दाय पित्रे स्वाहा  
-७।१।२१।५ [११।५] माम् आत्म-गुप्तां सत्यस्य सर्वस्य वितान-रूपां सन्जूजुषन्तीं परमां पवित्राम्  
-सन्धारयन्तीम् स्वयम् अप्रमत्तां संयोजयित्रे वर-दाय पित्रे स्वाहा  
-७।१।०।११ पित्रे स्वाहा द्वे च  
-[*७३७] थिस् छप्तेर् मिस्सिन्ग् इन् उस्।  
-[*७३८] ब्ब्: सञ्जनित्र  
-  
-  
-  
-[चोलोफोन्:]  
-हरिः ओम्  
-तत्थ् सत्  
-श्री रामचन्द्रार्पणम् अस्तु  
-  
-________________________________________  
-  
-  
-श्री श्री श्री-निवासाय नमः  
-श्री-वैखानस-मन्त्रप्रश्नाष्टके  
-सप्तम-प्रश्नः  
-पारमात्मिकोपनिषत्  
-श्री श्री निवास दीक्षितीय भाष्यानुसारी  
-  
-हरिः ॐ  
-७।२।१।१ [१।१] विष्णुस् सर्वेषाम् अधिपतिः परमः पुराणः  
-परो लोकानाम् अजितो जितात्मन् भवते ऽभवाय स्वाहा  
-७।२।१।२ [१।२] सु-सूक्ष्मस् सार्वस्[*७३९] सर्वेषाम् अन्तरात्मा[*७४०] तस्थुस् तस्थुषां जङ्गमो जङ्गमानाम्  
-विभुर् विभूणां विभवोद्भवाय स्वाहा  
-७।२।१।३ [१।३] ज्योतिर् वा पारमात्मिकं सार्वं विश्व-भवं भवाय प्रभूतं प्राहिण्वन्[*७४१] परम्पराय सु-कृतं कृताय तस्मै वराय ईशिषे स्वाहा  
-७।२।१।४ [१।४] ईशो यस्माद् विततं वितत्य कं कं धृतं काम-हुतो जुहोति  
-ककुदं ककुच् छित्वा भूयः पराय स्वाहा  
-७।२।१।५ [१।५] रायाम् ईशो रहितो भरन्त्यै रां रां वहन्त्या आहितः  
-रायां पतिं रां रां धरते धरित्र्यै रां वहतोद्वहाय स्वाहा  
-[*७३९] तेxत्: सार्व  
-[*७४०] तेxत्: अन्मरात्मा  
-[*७४१] तेxत्: प्राहिण्वन्  
-  
-  
-  
-७।२।२।१ [१।६] यो ब्रह्म-शब्दः प्रणवः प्रधानश् शब्दश् शब्दान्तरात्मा नित्यो वियत्तः प्रतरन् प्रकामम्  
-प्राजापत्यं प्रतरं प्रकुर्वन् भूयो भूत्यै अचरं चराय स्वाहा  
-७।२।२।२ [१।७] यो वा त्रि-मूर्तिः परमः परश् च त्रि-गुणं जुषाणस् सकलं विदत्ते  
-त्रिस्-त्रिस् त्रि-धात्मा त्रि-धा त्रि-धा वा विदधे समस्तं त्रि-धा त्रि-रूपं सकलं-धराय स्वाहा  
-७।२।२।३ [१।८] यद् वा कृतम् अमृतं चराणां यत् सर्व-निष्ठम् अजरं समस्तम्  
-यत् पश्यमानम् आत्माभिजुषाणम् अन्तस् सुषुप्त्यान्[*७४२]अभिगम्यमानाय स्वाहा  
-७।२।२।४ [१।९] कः[*७४३] कोशम् अङ्गे कुशलं विधाय साकृतं कृण्वते ऽग्र इदं सुकान्तम्  
-ककुद्वते काम-चरं चराय स्वाहा  
-७।२।२।५ [१।१०] यम् यज्ञैर् मुनयो जुषन्ति यं देवाः परमं पवित्रं  भविष्यन्त्य् आर्तिषु प्रणताः प्रधानाः य(ग्)ं सूरयो जपन्तो योगिनस् सूक्ष्मैस् सुप्रदर्शनैः पश्यन्तीश्वराय स्वाहा  
-[*७४२] व्म्प् तेxत् १९८४ एदितिओन्: सुषुप्त्याग्।  १९४६ एदितिओन्: सुषुप्त्यान्।  
-[*७४३] तेxत्: कं  
-  
-  
-  
-७।२।०।१ उद् वहाय स्वाहेश्वराय स्वाहा  
-  
-७।२।३।१ [२।१] यो वा गविष्ठः परमः प्रधानः पदं वा यस्य सत्वम् आसीत्  
-यस्योपरित्वं मुनयो ऽनुपश्यन्ति तस्मै मुख्याय विष्णवे स्वाहा  
-७।२।३।२ [२।२] यो वा वायुर् द्वि-गुणो ऽन्तरात्मा सर्वेषाम् अन्तश् चरतीह विष्णो  
-स त्वं देवान् मनुष्यान् मृतान् परिसञ्जीवसे स्वाहा  
-७।२।३।३ [२।३] त्वम् अग्ने त्रि-गुणो वरिष्ठः परं ब्रह्म परं ज्योतिः  
-सर्वेषां त्वं पालनाय हुतम् अमृतं वहिष्यषे स्वाहा  
-७।२।३।४ [२।४] त्वं[*७४४] जीवस् त्वम् आपस् सर्वेषां जनिता त्वम् आहारः  
-त्वं विष्णो श्रमापनुदाय चतुर्-गुणाय स्वाहा  
-७।२।३।५ [२।५] भूमेर् वितन्वन् प्रतरन् प्रकामः पोपूयमानः  
-पञ्चभिस् स्व-गुणैः प्रसन्नैस् सर्वाणि मान् धारयिष्यसि स्वाहा  
-[*७४४] १९४६ एदितिओन्: तं  
-  
-  
-७।२।४।१ [२।६] मनस् त्वं भूत्वा प्रतरन् प्रदो ऽग्रे त्वत्तो भूतं सम्भावयिष्यसि सर्वेषां कायानाम् अर्हम् अर्हते स्वाहा  
-७।२।४।२ [२।७] त्वं बुद्धिर् भूतानाम् अन्तरात्मा पुण्यवतां पुण्येषु सज्जमानः त्वं बुद्ध्या विचिन्वमानः पुण्य-रूपाय स्वाहा  
-७।२।४।३ [२।८] यस् सूक्ष्मान् सञ्चरमाणान् भावाभावान् भव्याभव्यान्  
-कुर्वन्न् आत्मीयम् अमितो धुनोति धुरं वहिष्यसे स्वाहा  
-७।२।४।४ [२।९] यस्य वा भयाद् भगवान् उत्तस्थे स्वयं सूर्यस् सत्यं कालं वहमानः  
-यस्मात् तेज आत्मियं कृत्वा सर्वान् अस्मान् पालयिष्यसि स्वाहा  
-७।२।४।५ [२।१०] यं त्वां सर्वं पालनायाभिभूतं देवास् सर्वे पश्ये  
-विचरन्ति ते देवास् त्वम् एव सर्वे माया मायैषा ते स्वाहा  
-  
-७।२।०।२ यिष्यसि स्वाहा मायैषा ते स्वाहा  
-  
-७।२।५।१ [३।१] यस् त्वं भूत्वा पर्जन्यो बिभेति रन्ध्रे प्रजाभिर्  
- आकृष्यमाणः सत्यं कालं व्रतेन पालयन् ह्लादयिष्यसे स्वाहा  
-७।२।५।२ [३।२] कामो भूत्वा प्रजानाम् अन्तरा स्थितस् सर्वा लोकान् ह्लादयञ् जीवमानः सन्दर्पणाय हरये वराय स्वाहा  
-७।२।५।३ [३।३] अङ्गाद् अङ्गाद् अनुप्राविशत् सर्वान् लोकान् संरक्षणाय  
-यो वा वसन् देवो मातरिश्वा स यो ऽस्माकं भूत्यै भूतये स्वाहा  
-७।२।५।४ [३।४] यो मोहयन् भूताना(ग्)ं[*७४५] सर्गाधिरक्षणाय  
-यस् सङ्कोचस् सङ्कोचनाय भवतात् स्वाहा  
-७।२।५।५ [३।५] यो वा दशात्मा उपरि स्पृशन् वा देवानां ज्योतिर् ज्योतिषाम्  
-उत्तरः स्वयं वा स्पृशन् ज्योतिर् ज्योतिषे स्वाहा  
-[*७४५] १९४६ एदितिओन् भूतानां  
-  
-  
-७।२।६।१ [३।६] यो ब्रह्मा ब्रह्म-विदाम् आत्मा स्याद् आत्म-चक्षुषाम्  
-भूतिर् भूतिमतां सुकृतं कृताय स्वाहा  
-७।२।६।२ [३।७] सारस्वतो वा एष देवो ऽयं न वा हयः पारमात्मिकः  
-भयो ऽभयो वा सर्वं सन्धुषे स्वाहा  
-७।२।६।३ [३।८] यो वा परं ज्योतिः परं सन्दधानः  
-परमात्मा पुरुषं सञ्जनयिष्यसे स्वाहा  
-७।२।६।४ [३।९] यो दोषश् चतुरश् चतुर्थश् चतुरः पदार्थान्  
-सर्वं लोकस्य सन्दधानस् सते सत्वम् आदधानाय स्वाहा  
-७।२।६।५ [३।१०] यस्यैता ब्रह्म-मूर्तयो बृहद्-ब्रह्माणं ब्रह्म  
-आदधानः यं ब्रह्म ब्रह्म-गुप्तये परम्पराय स्वाहा  
-  
-७।२।०।३ ज्योतिषे स्वाहा पराय स्वाहा  
-  
-७।२।७।१ [४।१] वाको वा अनुवाको वाकं वाकं सञ्जुषमाणः  
-देवस् स स्वं स्व-गुप्तये स्वयं ज्योतिषे ज्योतिषे स्वाहा  
-७।२।७।२ [४।२] द्वाव् एतौ पक्षी अचरं चरन्तौ नाधुरं व्यधुनीते  
-यश् चैको भुनक्ति भोक्त्रे स्वाहा  
-७।२।७।३ [४।३] यो वा आयुः परमात्मानं[*७४६] मीढुषः पारम्पर्यात् परः परायणः परो लोकानां परमा दधानः परतः पराय स्वाहा  
-७।२।७।४ [४।४] यो वा तेजस् तेजसां तेजस् तेज आदधानः  
-सत्यस् तेजस् तेजसां तेजस् तेजस् तेजसे स्वाहा  
-७।२।७।५ [४।५] सह सम्पायास् त्वम् आशिषम् आशीर् भूताभूतम्  
-आशिषम् आशी-रासीर् आशिर् अनुभूमिस्[*७४७] स्वाहा  
-[*७४६] परमात्मानं रेअद् अस् परमात्मायं  
-[*७४७] तेxत्: अनुभूमि  
-  
-  
-  
-७।२।८।१ [४।६] यो वा संयोगस् सञ्जुषमाणस् सन्धुस् सन्धुक्षणानाम्  
-संयोगं सन्दधानः पुण्यः पुण्यानां पुण्याय स्वाहा  
-७।२।८।२ [४।७] सहस्रं वा यस्यैव वितानम् आदधानस् सहस्रं वा  
-आसिषस् सासिकाः सहस्रं यस्य वै सासिकास् सहस्रं सहस्राय स्वाहा  
-७।२।८।३ [४।८] स्वातिगा गुप्तयो गुप्तिस् सत्यं सत्यानां सात्वं पदम्  
-तत् सत्वं सत्वम् आसीत् सात्वं सात्वं वै सात्वम् आदधानाय स्वाहा  
-७।२।८।४ [४।९] सत्वं वा उद्रेकम् आसीद् यत् सत्वम् उभयोर् अनुगोप्ता  
-तत् सत्वं सत्यं-वदाय सत्याय स्वाहा  
-७।२।८।५ [४।१०] सत्यो ज्योतिस् सत्यान्तरात्मा सत्योद्योगस् सत्यस् सत्-कर्म  
-सत्यं सत्य-वितानम् आसीत् सत्य-सत्याय स्वाहा  
-  
-७।२।०।४ भूमि स्वाहा सत्याय स्वाहा  
-  
-७।२।९।१ [५।१] सत्यस् सत्वं पुण्यम् आसीत् पुण्यो वा दैविकम् सत्यं  
-सत्वम् आर्षं सत्यं सत्वं सत्-पथाय स्वाहा  
-७।२।९।२ [५।२] सत्यो ज्योतिस् सत्वं प्राणास् सत्वाधारास् सत्व-सन्धानः  
-सत्यस् सत्वं प्रकाशं ज्योतिर् ज्योतिषे स्वाहा  
-७।२।९।३ [५।३] कामीम् उमाम् ईशिषम् ईशिष सत्यम् ईशिषम् ईशिषाणाम् तत् सत्यं सत्य-रूपं  
-सत्यं सत्याय सन्दधानाय स्वाहा  
-७।२।९।४ [५।४] आरिणी वा आरन्द आवारन्दो  
-अयम् आरन्दः मारन्द आनन्दते स्वाहा  
-७।२।९।५ [५।५] तत् सत्वो वा विष्णुर् उद्योगस् सूर्यो गो वा विष्णुर् विशत्  
-विश्वं विश्वं सन्दधानस् तद् विश्वं विष्णवे विश्व-रूपाय स्वाहा  
-  
-७।२।१०।१ [५।६] तद् भूर् भू-स्थं भू-स्थो वा विश्व-रूपस् तद् भूः प्राण-सङ्ख्यातः  
-भूर् भूर् आसीद् भूर् असि भुवो ऽसि सुवर् असि भूर् भूतये स्वाहा  
-७।२।१०।२ [५।७] आपो वा आप आपो ऽन्तरात्मा यो वेदो वेदानाम् आधारः  
-वेदान्तरात्मा स-रसो रस-सङ्ख्यातो रसं रसम् आसीद् रसाय स्वाहा  
-७।२।१०।३ [५।८] त्रयी वा कामं त्रयी-मयं त्रि-गुणं त्रेतात्मकम्  
-त्रयी वा ज्योतिस् त्रि-गुणं त्रि-गुणात्मकं तस्मै त्रेताग्नये त्रि-गुणाय स्वाहा  
-७।२।१०।४ [५।९] द्वौ वा मुख्यौ मुख्याधारौ स-सुखौ सानन्दौ  
-स-स्मेरौ स्मेरायतौ सानन्दम् आनन्दते स्वाहा  
-७।२।१०।५ [५।१०] स एकैकस् साधारस् साधिष्ठानो इनाधिष्ठानः  
-कं कं पदे पदे पातः पादाय पादिते स्वाहा  
-  
-७।२।०।५ विश्व-रूपाय[*७४८] स्वाहा पादिते स्वाहा  
-[*७४८] १९४६ एदितिओन्: रूपाय  
-  
-  
-७।२।११।१ [६।१] स्वयम् आदिस् सर्वान्तरात्मा देवस् स स्वयं क्रीडात्मकम् अवासृजत्  
-यस् स्वयं लोकम् अवधारम् अवधारयन्त् स्वाहा  
-७।२।११।२ [६।२] यस् स्वयं सृष्टम् आत्मना गुप्तम् अनु संवितानम् अचरं चरन्तम्  
-स्वयं क्रीडन् क्रीडयन् क्रीडान्तरम् अनुप्राविशत् स्वाहा  
-७।२।११।३ [६।३] स्वौजसा सर्वम् आदधाति यः पापीया(ग्)ंसम् अनुपदम् आहि(ग्)ंसत्  
-सुपुण्यं पुण्यात्मकं[*७४९] पुण्य-वितानन् दधार देवाय स्वाहा  
-७।२।११।४ [६।४] क्ष्माम् एकां सलिलावसन्नां श्रुत्वा स्वनन्तीम् अनु सुपतन्तीम्  
-स्वयं भूत्वा वराहो वर उज्जहार तस्मै देवाय सुकृताय पित्रे स्वाहा  
-७।२।११।५ [६।५] यः कुन्धरमाणः कुन्-धरान् कुं-धरताम् इत्य् अवोचत्  
-तां सानुमतो विदधत् स्व-तेजसा तस्मै वरिष्ठाय वरदाय पित्रे स्वाहा  
-[*७४९] १९४६ एदितिओन्: सुपुण्यात्मकम्  
-  
-  
-७।२।१२।१ [६।६] यो वा पृथां प्रस्खलन्तीं प्रमृज्यामृजाङ्गीम्  
-य ऊर्वोर् उपदधात् तस्मै मुख्याय वरदाय पित्रे स्वाहा  
-७।२।१२।२ [६।७] यां गाम् उशन्तीम् उशनाभिपूर्णाम् आरक्त-नीलाम् अमृतां रजन्तीम्  
-आलालयन्[*७५०] लालित[*७५१]-कङ्कणां तां तस्मै प्रजेशाय वरदाय पित्रे स्वाहा  
-७।२।१२।३ [६।८] प्रजा-पते न त्वद् एतान्य् अन्यो विश्वा जातानि परि ता बभूव  
-यत्-कामास् ते जुहुमस् तन् नो अस्तु वय(ग्ग्)ं स्याम पतयो रयीणा(ग्)ं स्वाहा  
-७।२।१२।४ [६।९] यो धूर् धुरं धूर् धुरं धूर् वराणाम्  
-सुधूर् धूर् असि धूर् धुराणां धूर् असि धूर्-वङ्ग मे[*७५२] स्वाहा  
-७।२।१२।५ [६।१०] यो वा व्यहिंषीज् जरयाजरन्तं तन् दैत्य-मुख्यम् अमृतात्म-रूपम्  
-सुखुरं खुराणां किञ्चित् स्वनन्तं तस्मै नृसिंहाय सुरेश-पित्रे स्वाहा  
-[*७५०] तेxत्: आलाऌअयन्  
-[*७५१] तेxत्: लाऌइत  
-[*७५२] तेxत्: मेस्  
-  
-  
-  
-७।२।०।६ वरदाय पित्रे स्वाहा सुरेश-पित्रे स्वाहा  
-  
-७।२।१३।१ [७।१] तपो-निधिं तपसां रयिन्दं रयिम् आयुर् अङ्गं व्यसनौघ-हिंस्रम्  
-सासिष्व् असन्तं सवने सवित्रे तस्मै सुरेशाय सुर-बृन्द-कर्त्रे स्वाहा  
-७।२।१३।२ [७।२] यो वा नृसिंहो विजयं बिभर्षि रा-राजिमन्तं रयि-दं कवीनाम्  
-स-राजिमन्तं सजयं सहस्रं तस्मै सुयन्त्रे सुशेवधये शेवधये स्वाहा  
-७।२।१३।३ [७।३] रयिः ककुद्मान् विदधद् विनष्टं[*७५३] रयिमद् विधानम्  
-तस्मै ककुत्रे विकटाय पित्रे स्वाहा  
-७।२।१३।४ [७।४] राकाम् अह(ग्)ं सुहवा(ग्)ं सुष्टुती हुवे शृणोतु नस् सुभगा बोधतु त्मना[*७५४]  
-सीव्यत्व् अपस् सूच्याच्चिद्यमान या ददातु वीर(ग्)ं शत-दायम् उक्थ्य(ग्ग्)ं स्वाहा  
-७।२।१३।५ [७।५] वेदाहम् एतं पुरुषं महान्तम् आदित्य-वर्णं तमसस् तु पारे  
-सर्वाणि रूपाणि विचित्य धीरो नामानि कृत्वाभिवदन् यद् आस्ते स्वाहा  
-[*७५३] तेxत्: द्विनष्टं  
-[*७५४] १९४६ एदितिओन्: द्मना  
-  
-  
-  
-७।२।१४।१ [७।६] दिग्-दोषा यस्य विदिशस् स्व-कर्णौ द्यौर् आस वक्त्रम् उदरन् नभो वा  
-सासि ष्म वा यास् स्वयम् आप दन्तं तस्मै वरत्रे वरदाय कस्मै स्वाहा  
-७।२।१४।२ [७।७] पद्मास्य-वक्षाः परमस् सुपुण्यः पद्मा जनित्री परमस्य वासः  
-सूक्ष्मं सावित्रं स्वयम् आदधानस् सावित्र-रूपं परमं सुपुण्य(ग्ग्)ं स्वाहा  
-७।२।१४।३ [७।८] यः पुण्डरीकः परमान्तरात्मा कम्राङ्ग-रूपं कमलं दधार  
-स-रसे रसाय स्वाहा  
-७।२।१४।४ [७।९] रयीणां पतिं बृहन्तं रा-राग-मुक्तं गुरुं सनीकम्[*७५५]  
-तं रायो रूपं रयि-भूत-भूतं रयिमत्-सुर-मित्रे[*७५६] स्वाहा  
-७।२।१४।५ [७।१०] रायां पतत्रे रयिम् आदधात्रे रायो बृहन्तं रयिमत् सुपुष्टाम्  
-रा-राजिमन्तं रतये रमन्तं तं बिम्बवन्तं ककुदाय भद्रे स्वाहा  
-[*७५५] ड़्रोम्: सनी, गिड़्त्।  म्W प्। ११४१।  
-[*७५६] पुब्: सुरत्रे इन्स्तेअद् ओड़् सुर-मित्रे; उस्: सुरत्रः इन्स्तेअद् ओड़् सुर-मित्रे  
-  
-  
-  
-७।२।०।७ यदास्ते स्वाहा भद्रे स्वाहा  
-  
-७।२।१५।१ [८।१] यत् सार-भूतं सकलं धरित्रं मोद-प्रायेणानुभूतम् अनुविद्धम्  
-सूक्ष्मस् सुरेशस् सकलं बिभर्ति तस्मै सुरेशाय सकलं सुपुण्य(ग्ग्)ं स्वाहा  
-७।२।१५।२ [८।२] फलो वा एष लोकानाम् अजरो महात्मा विश्वं यः पाति विमलो ऽमलाख्यः  
-तस्मै वरत्रे वरदस्य पुष्ट्यै स्वाहा  
-७।२।१५।३ [८।३] धूर् नो वहन्तां रतये रमन्तां पुं-भूतिमन्तस् समयस् सुषुम्ना  
-अं राजिमन्तं सकलस्य गुप्त्यै स्वाहा  
-७।२।१५।४ [८।४] विश्वं बिभर्षि प्रसुरो रुदन्तं  
-संराजिमन्तं सकलं प्ररूढम्  
-स नो वितत्य प्रहिणोतु पत्रे स्वाहा  
-७।२।१५।५ [८।५] सो वा स्व-रूपस् समदृक् समग्रो विधु-दं तुदन् यो विदधत् पदं वा  
-वियति प्रकाशं बृहते रुहेण तं बिम्बवन्तं समदं समग्र(ग्ग्)ं स्वाहा  
-  
-७।२।१६।१ [८।६] भूर् भुवं वा भुवो वा सुवो वा किञ्चित् स्वनन्तं सुषुवे समस्तम्  
-सर्वस्य दातारम् अजरं जरित्रे स्वाःअ  
-७।२।१६।२ [८।७] दाक्षायण्यां प्रसृतं समस्तं सम्कोचयित्वा सकलं वितानम्  
-संवासयन् मे सकलं वरिष्टं तस्मै प्रजेशाय धुरं-धराय स्वाहा  
-७।२।१६।३ [८।८] आशास् समस्ताः प्रतरन् व् अन्तस् तास् ता वसेद् या कमला समस्ता  
-सा मे गृहे वा समदत्त पुष्टि(ग्ग्)ं स्वाहा  
-७।२।१६।४ [८।९] यो जङ्गमानां सकलं बिभर्षि[*७५७] सर्वं वियद् वा विचरेत शक्ष्यन्  
-तन् नौर् जले वपुष्य् अन्त्य् अजस्र(ग्ग्)ं स्वाहा  
-७।२।१६।५ [८।१०] यो वा दशानां प्रसृतास् समस्तास् तांस् तान् दधानास् समयात् स-बीजाः  
-शब्दातिरिक्त्यै स्व-बलं बलाय स्वाहा  
-[*७५७] तेxत्: बिभिर्षि  
-  
-  
-७।२।०।८ समग्र(ग्ग्)ं स्वाहा बलाय स्वाहा  
-  
-७।२।१७।१ [९।१] चत्वारो दोषाः प्रहरन्ति यस्य सर्वस्य गोप्त्रे स-रसाय धाम्ने  
-सोमस्य पुण्यं रयिमत्-प्रवृद्ध्यै स्वाहा  
-७।२।१७।२ [९।२] वक्षो वसत्य् अस्य वरां वरिष्ठं वाकन् दधाना ववृधे समस्तम्  
-तस्मै वरिष्ठाय वर-प्रवृद्ध्यै स्वाहा  
-७।२।१७।३ [९।३] अणोर् अणीयान् महतो महीयान् आत्मा गुहायां निहितो ऽस्य जन्तोः  
-तम् अक्रतुं पश्यति वीत-शोको धातुः प्रसादान् महिमानम् ईश(ग्ग्)ं स्वाहा  
-७।२।१७।४ [९।४] विष्णुर् वरिष्ठो वर-दान-मुख्यो यो विश्व-ऋषीन् ध्यायन् नु कुर्वन्  
-विश्वं हीषद्[*७५८] व्यदधत् तम् अत्र तद् विष्णवे याः प्रभविष्णवे या अमितं भरत्रे स्वाहा  
-७।२।१७।५ [९।५] अब्जो जुषन्तः प्रवदत् पतन्तः पूं पूं[*७५९] पुषन्तः पुनर् यः प्रवालः[*७६०]  
-कं कं जनित्रे सम-तेजसन् ते स्वाहा  
-[*७५८] तेxत्: हीहिषद्  
-[*७५९] तेxत्: पूं  
-[*७६०] तेxत्: प्रवाऌअः  
-  
-  
-  
-७।२।१८।१ [९।६] माम् आत्म-गुप्तां वहते स्म भूत्यैतां राजिमन्तां सुधूर् धूरयन्तीम्  
-धूर् असि ध्रुवाय स्वाहा  
-७।२।१८।२ [९।७] यं चिन्तयन्तो निगमान्त-रूपं यं विश्व-रूपं परमात्म-रूपम्  
-तं विन्दमानां सकलं व्रजन्तीं तं देव-मुख्यं सुरतं भवाय स्वाहा  
-७।२।१८।३ [९।८] पुण्यां च पुण्यः पुरुषे पुर्-अग्रे तां राजिमन्तां निशि चोदितानाम्  
-विदधाति पुष्ट्यै हरन्-पराय स्वाहा  
-७।२।१८।४ [९।९] सो नो भूतो यो वामृतात्मा सुपुष्टिम् अस्मत् पितरं पवित्रम्  
-सो नो ऽस्तु भूत्यै कमला-वराय स्वाहा  
-७।२।१८।५ [९।१०] स त्व् एव नित्यं सकलास् स-मूर्तयस् स-रतास् त्व् अनन्ताः  
-ते जीजयन्तो वियति क्षयाणां तत्-तत्-शवित्रे हरते हराय स्वाहा  
-  
-७।२।०।९ सन्ते स्वाहा हराय स्वाहा  
-  
-७।२।१९।१ [१०।१] या गा वरिष्ठा सहसूर् धरित्री वसुं वसुं वै वसुनीह भद्रा  
-रेरीजयन्तो रजितं रजते स्वाहा  
-७।२।१९।२ [१०।२।] वायुर् अन्तरात्मा वहती समस्तस् स-पुण्य देवेति स सूरि-मुक्तः  
-सूरिस् सुराणां सुरसो ऽप्य् असुन्-दस् समूह्य देवाय वर-दाय पित्रे स्वाहा  
-७।२।१९।३ [१०।३] सर्वोपरिष्टाद् अधि तिष्ठत् आत्मा यस्योपरिष्टात् परमस् स-मुक्तः  
-तं नीरजन्तम् अनुसम्पराय स्वाहा  
-७।२।१९।४ [१०।४] तमस् सर्व-भूतम् अधुनोद् वरेण्यस् तं सत्व-रूपं सकलं प्रकाश्य  
-सङ्क्लेशयन्त् सृष्टि-निमित्तये यस् तस्मै परं-ब्रह्मणे परं-ज्योतिषे स्वाहा  
-७।२।१९।५ [१०।५] ज्योतिर् ज्योतिषां ज्योतिर् ओजो बलं सत्वं सत्वात्मकं सञ्ज्योतिर् इत्थम् तस्मै सूक्ष्म-सूक्ष्माय तेजसे स्वाहा  
-  
-७।२।२०।१[*७६१] [१०।६] सत्वं सत्वात्मकं वा रजो रजस आत्मकम् तमस् तमस आधारस्  
-साकृतं तं निरीश्वरम् ईश्वराय स्वाहा  
-७।२।२०।२ [१०।७] अनिर्भिण्णं यस्येदम् आसीद् आसीद् उदकम् आत्मकम्  
-यस्यो दावोदन्-अर्थम्[*७६२] उच्चम् उच्चैर् उरुगाय स्वाहा  
-७।२।२०।३ [१०।८] यस्येच्छा लोके वा प्रजायतिर् लोके यन् नैवासीत् तन् नैवासीत्  
-यद् वा सञ्जातं यत् सर्वम् ईशम् ईशिषे स्वाहा  
-७।२।२०।४ [१०।९][*७६३] यो वेदादिः परमः परो ब्रह्मा त्रि-मात्रस् त्रयी-मूर्तिकः  
-शब्दश् शब्दातिगः परं-ब्रह्मणे परं-ज्योतिषे स्वाहा  
-७।२।२०।५ [१०।१०][*७६४] यो वा ऽव्यक्तं सकलं प्रवृद्ध्यै यद् इदं सर्वम् आसीत्  
-सानन्दं साकृतं तं हरन् पराय स्वाहा  
-[*७६१] २१ इन् बोओक्  
-[*७६२] तेxत्: दावोधन्-अर्धम्  
-[*७६३] मिस्सिन्ग् इन् उस्  
-[*७६४] मिस्सिन्ग् इन् उस्  
-  
-  
-  
-७।२।०।१० तेजसे स्वाहा पराय स्वाहा  
-  
-७।२।२१।१ [११।१][*७६५] यो वा भूतेर् भूतिर् आसीत् सा वानन्दं प्रत्यानन्दम्  
-सञ्जुषन् व्रजामि[*७६६] सत्यं सत्याय स्वाहा  
-७।२।२१।२ [११।२] सत्यस् सत्य-स्थस् सत्य-लोक-स्थस् सत्यं सञ्जनित्रम् आसीत्  
-सत्यं सत्याय रंहसे स्वाहा  
-७।२।२१।३ [११।३] ऋत(ग्)ं सत्यं अमितं पुराणम् आदिं जनित्रम् अमृतं सुरेन्द्रम्  
-सञ्ज्योतिषां जुषमाणं[*७६७] जुषस्व स्वाहा  
-७।२।२१।४ [११।४] अं राजिमन्तं सकलस्य गुप्तिं सोमे जुषन्तम् अमृतं बिभर्ति  
-रयिमत् सुपुष्टिं गुणवन्तम् अत्र तस्मै सुपुण्याय वरदाय पित्रे स्वाहा  
-७।२।२१।५ [११।५] माम् आत्म-गुप्तां सत्वस्य सर्वस्य वितान-रूपां सञ्जूजुषन्तीं परमां पवित्राम्  
-सन्तारयन्तीं स्वयम् अप्रमत्तां संयोजयित्रे वरदाय पित्रे स्वाहा  
-[*७६५] थिस् छप्तेर् मिस्सिन्ग् इन् उस्।  
-[*७६६] तेxत्: वृजामि  
-[*७६७] १९४६ एदितिओन्: ऋषमाणं  
-  
-  
-  
-७।२।०।११ पित्रे स्वाहा द्वे च  
-[चोलोफोन्:]  
-  
-हरिः ओम्  
-तत्थ् सत्  
-श्री श्रीनिवासार्पणम् अस्तु  
-  
-________________________________________  
-  
-  
-श्री श्री श्री-निवासाय नमः  
-श्री-वैखानस-मन्त्र-प्रश्नाष्टके  
-अष्टम-प्रश्नः  
-  
-८।१।१।१ तम् एक-नेमिं त्रि-वृत्त(ग्)ं षोडशान्त(ग्)ं शतार्धारं विंशति प्रत्यतराभिर् अष्टकैष् षड्भिर् विश्व-रूपैक-पाशम्  
-त्रि-मार्ग-भेदं द्वि-निमित्तैक-मोहम्  
-८।१।१।२ प्रजा-पतिं प्रथमं यज्ञियानां देवानाम् अग्रे यजतं यजध्वम्  
-स नो ददातु द्रविण(ग्)ं सुवीर्य(ग्)ं रायस् पोषं विष्यतु नाभिम् अस्मे  
-८।१।१।३ रौक्मं कूर्मं ब्रह्म-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१।४ तम् एक-नेमिम् गजं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१।५ शत-धार(ग्)ं हिरण्मयम् गरुडं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१।६ ब्रह्मा देवानाम् ब्रह्मण इमं ब्रह्म-मणिं ब्रह्म-स्थाने ऽहम् प्रतिष्ठापयाम्य् ॐ नमः  
-  
-८।१।२।१ इन्द्रं प्रणयन्तं इन्द्रायेमं वज्र-मणिम् इन्द्र-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।२।२ अग्नाव् अग्निश् चरति प्रविष्ट ऋषीणां पुत्रो अधिराज एषः  
-साहाकृत्य ब्रह्मणा ते जुहोमि[*७६८] मा देवानां मिथुया कर् भागधेयम्  
-८।१।२।३ अग्नय इमं मौक्तिकम् अग्नि-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।२।४ यमो दाधार यमायेमं वैडूर्य-मणिं यम-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।२।५ वसवः प्रथमः निरृतय इमं शङ्ख-जं निरृति-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-[*७६८] तेxत्: जहोमि  
-  
-  
-८।१।३।१ ये ते शतम् वरुणायेमं स्फटिक-मणिं वरुण-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।३।२ मरुतः परमात्मा वायव इमं पुष्य-कान्त-मणिं वायु-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।३।३ सोम(ग्)ं राजानम् सोमायेमं चन्द्र-कान्त-मणिं सोम-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।३।४ ईशानस् सर्व-लोकानाम् ईशानायेमं नील-मणिम् ईशान-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।३।५ शं नो निधत्ताम् वासुकय इमम् अमृताश्मक-मणिं वासुकि-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-  
-८।१।४।१ धाता धातृणां भुवनस्य यस् पतिर् देव(ग्)ं सवितारम्[*७६९] अभिमातिषाहम्  
-इमं यज्ञम् अश्विनोभा बृहस्पतिर् देवाः पान्तु यजमानं न्यर्थात्  
-८।१।४।२ साध्येभ्य इमं लोहिताश्मक-मणिं साध्य-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।४।३ विश्वे-देवस्य विश्वेभ्यो देवेभ्य इमम् उत्पल-मणिं विश्वे-देव-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।४।४ अधि ब्रह्मा यतताम् एष देवो दिवस्-पत्यां वाधि मरुतो वोभयेषाम्  
-८।१।४।५ तपो-योगी योग एकस् स्वाधिष्ठा निनीहि विश्वं भुवनस्य भूयः  
-८।१।४।६ सिद्धेभ्य इमं प्रवाल[*७७०]-मणिं सिद्ध-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।४।७ इमां मूर्धन्या मम वाण्य् असूनां पतेर् इन्द्रियाणां मतेः प्रियाणाम्  
-वाचो रुचीनाम्[*७७१] प्रवराय गायन् निधिं निदध्यन् प्रजया अस्तु भूत्यै  
-[*७६९] र्व्: त्रातारम्; त्स्, व्म्प्:  सवितारम्  
-[*७७०] तेxत्: प्रवाऌअ  
-[*७७१] १९२६, ऽ४६, ऽ८४ एदितिओन्स्: ऋचीनाम्  
-  
-  
-  
-८।१।५।१ गन्धर्वेभ्य इमां मनश्-शिलां गन्धर्व-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।५।२ अप्सरस्सु यो गन्धो गन्धर्वेषु च यद् यशः  
-दैवो यो मानुषो गन्धस् स मा गन्धस् सुरभिर् जुषताम्  
-८।१।५।३ अप्सरोभ्य इमं शुक्ति-जम् अप्सर-स्थाने ऽहं प्रतिष्टापयाम्य् ॐ नमः  
-८।१।५।४ यङ् काद्रवेया[*७७२] अधिगास् समूहे शेरते वीरास् तस्य परिबर्हि विश्वम्  
-तं वासुके भूत-सहस्र-मूर्ते तुभ्यं नमः प्रथये भूतये त्वा  
-८।१।५।५ नागेभ्य इमं विमल-मणिं नाग-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।५।६ अर्यम्णः कुम्भी शत्रुः पात्र-पाणिर् निपुणः अर्यम्ण इमं कुर्विन्दम् अर्यम-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।५।७ इन्द्रं प्रणयन्तम् इन्द्रायेमं गैरिकम् इन्द्र-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-[*७७२] १९२६ एदितिओन्: काद्रवेया; १९४६, ऽ८४ एद्स्।: कार्द्रवेया  
-  
-  
-८।१।६।१ अग्नाव् अग्निः अग्नय इमं हरितालकम्[*७७३] अग्नि-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।६।२ यमो दाधार यमायेमां मनश्-शिलां यम-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।६।३ वसवः प्रथमः निरृतय इमम् अञ्जनं निरृति-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।६।४ ये ते शतं वरुणायेमं कासीसं वरुण-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।६।५ मरुतः परमात्मा वायव इमं पारदं वायु-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-[*७७३] तेxत्: हरिताऌअकम्  
-  
-  
-८।१।७।१ सोम(ग्)ं राजानम् सोमायेमं सौराष्ट्र(ग्)ं सोम-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।७।२ ईशानस् सर्व-लोकानाम् ईशानायेमं गो-रोचनम् ईशान-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।७।३ ब्रह्मा देवानां पदवीः कवीनाम् ऋषिर् विप्राणां महिषो मृगाणाम्  
-श्येनो गृद्ध्राणा(ग्)ं[*७७४] स्वधितिर् वनाना(ग्)ं सोमः पवित्रम् अत्य् एति रेभन्[*७७५]  
-८।१।७।४ ब्रह्मण इमानि सर्व-गन्धानि ब्रह्म-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।७।५ इन्द्रं प्रणयन्तम् इन्द्रायेमानि[*७७६] षष्तिकान् व्रीहीनीन्द्र-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-[*७७४] र्व्: गृध्राणा(ग्)ं  
-[*७७५] तेxत्: रेभन्न्  
-[*७७६] तेxत्: इन्दायेमानि  
-  
-  
-  
-८।१।८।१ अग्नाव् अग्निः अग्नय इमौ कुलुद्ध-माषाव्[*७७७] अग्नि-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।८।२ यमो दाधार यमायेमौ गो-धूम-मुद्गौ यम-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।८।३ वसवः प्रथमः निरृतय इमौ तिल-तिल्वौ निरृति-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।८।४ ये ते शतम् वरुणायेमौ वंश-यवौ[*७७८] वरुण-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।८।५ मरुतः परमात्मा वायव इमौ नीवार-प्रियाङ्गू वायु-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-[*७७७] तेxत्: कुऌउद्धमाषाव्  
-[*७७८] १९४६ एदितिओन्: यव-वंश-यवौ  
-  
-  
-  
-८।१।९।१ सोम(ग्)ं राजानम् सोमायेमौ गोधूम-यवौ सोम-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।९।२ ईशानस् सर्व-लोकानाम् ईशानयेमानि सर्व-बीजानीशान-स्थाने ऽहं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।९।३ भूय आत्म-वृत्या बल-तेजो-जनन्या देवोपवाह्या मनसा ययासन्न्  
-दाक्षायण्या धन्यै[*७७९] यजेय[*७८०]  
-८।१।९।४ श्रीवत्थ्सं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।९।५ नमस् सुलोम सुलोमि भुवि भुवो चित्तल[*७८१] गुहल[*७८२] दोणीयत्  
-८।१।९।६ पूर्ण-कुम्भं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।९।७ स एको भूद् दिवानि शं नस् सञ्चारि भवोद्भवः  
-स्रष्टुस् सृष्टेश् च सञ्चितः  
-[*७७९] तेxत्: थन्यै  
-[*७८०] च्ड़्। व्म्प् ६।३४।४: यजेय(ग्ग्)ं  
-[*७८१] तेxत्: चित्तऌअ  
-[*७८२] तेxत्: गुहऌअ  
-  
-  
-  
-८।१।१०।१ भेरीं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१०।२ देवस्य त्वा आदर्शं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१०।३ अतो देवा मत्स्य-युग्मं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१०।४ क्ष्माम् एकां सलिलावसन्नां श्रुत्वा स्वनन्तीम् अनु सुपतन्तीम्  
-स्वयम् भूत्वा वराहो वर उज्जहार तस्मै देवाय सुकृताय पित्रे  
-८।१।१०।५ अङ्कुशं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१०।६ तन् मा यशो ऽग्रे शङ्कं प्रतिष्ठापयाम्य् ॐ नमः  
-  
-८।१।११।१ ब्रह्मा देवानाम् आवर्तं प्रतिष्ठापयाम्य् ओम् नमः  
-८।१।११।२ भूमान् अन्तो ऽग्रे गदा-चक्रासि-शरान् प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।११।३ तन् मा यशो ऽग्रे शङ्ख-शार्ङ्ग-खेटकान् प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।११।४ ब्रह्म[*७८३] ब्रह्मान्तरात्मा ब्रह्म-पूतान्तरात्मा ब्रह्मणि ब्रह्म-निष्ठो ब्रह्म-गुप्तो गुप्तो ऽहम् अस्मि  
-८।१।११।५ स्रुव-कमण्डलु-तुला-तोद-युग-लाङ्गलादि-वर्ण-चिह्नानि प्रतिष्ठापयाम्य् ॐ नमः  
-[*७८३] १९४६ एदितिओन्: ब्रह्म; १९८४ एदितिओन्: ब्रह्मा  
-  
-  
-८।१।१२।१ ये ते शतम् मेघ-विद्युल्-लाञ्छनं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१२।२ श्रिये जातः श्री-रूपं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१२।३ मेदिनी देवी हरिणी-रूपं प्रतिष्ठापयाम्य् ॐ नमः  
-८।१।१२।४ अतो देवा  
-८।१।१२।५ ॐ कनिक्रदज् जनुषम्  
-८।१।१२।६ प्र तद् विष्णुः  
-८।१।१२।७ विष्णोर् नु कम् आ त्वाहार्षम् एकाक्षर(ग्)ं सहस्र-शीर्षा पुरुषः  
-  
-८।१।१३।१ विष्णोर् नु कम् अतो देवा इदं विष्णुस् त्रीणि पदा विष्णोः कर्माणि तद् विष्णोः परमं तद् विप्रासः  
-८।१।१३।२ सुवर् भुवर् भूः  
-८।१।१३।३ यं अं[*७८४] ॐ  
-८।१।१३।४ एकाक्षरम् अं आम्  
-८।१।१३।५ आत्मात्मा परमान्तरात्मा  
-८।१।१३।६ इदं विष्णुः  
-८।१।१३।७ आयातु भगवान्  
-८।१।१३।८ विष्णुम् आवाहयामि  
-८।१।१३।९ श्रीं ओम्  
-८।१।१३।१० श्रिये जातः आयातु भगवती  
-८।१।१३।११ श्रियम् आवाहयामि लं ओम्  
-८।१।१३।१२ मेदिनी देवी  
-८।१।१३।१३ आयातु भगवती हरिणीम् आवाहयामि  
-[*७८४] १९४६ एदितिओन्: आं  
-  
-  
-८।०।१ ब्रह्म देवानां नमः प्रतिष्ठपयाम्य् ॐ नमो ऽस्तु भूत्यै प्रणयन्तं मरुतः परमात्मा प्रतिष्ठापयाम्य् ॐ नमो नमस् सञ्चारि भवोद्भवस् तन् मा यशो ऽग्रे नमः पुरुष ओ(ग्)ं सप्त च  
-  
-८।१।१४।१ उद् वयं तमस उद् उ त्यं जात-वेदशम्  
-८।१।१४।२ प्र तद् विष्णुः  
-८।१।१४।३ विमानं प्रपद्ये  
-८।१।१४।४ विष्णु-मयं प्रपद्ये  
-८।१।१४।५ देवावासं प्रपद्ये  
-८।१।१४।६ वैकुण्ठोद्भवं प्रपद्ये  
-८।१।१४।७ मणिकं प्रपद्ये  
-८।१।१४।८ महा-बलं प्रपद्ये  
-८।१।१४।९ विमलं प्रपद्ये  
-८।१।१४।१० द्वार-पालकं प्रपद्ये  
-  
-८।१।१५।१ निरस्त(ग्)ं रक्षो निरस्तो ऽघ-श(ग्)ंसो निरस्ता अरातयः  
-८।१।१५।२ स-सोमा देवा रक्षध्वम्  
-८।१।१५।३ हिरण्य-पाणिम् ऊतये सवितारम् उप ह्वये  
-स चेत्ता देवता पदम्  
-८।१।१५।४ दिवं विवृणोतु दिवि स्वर्गं पिहित-द्वारं विवृनोतु  
-८।१।१५।५ दिव्य् अन्तरिक्षे देवताना(ग्)ं साप्सरो-गणम् अभिदर्शयताम्  
-८।१।१५।६ भुवङ्गाय नमः  
-८।१।१५।७ अतो देवा इदं विष्णुस् त्रीणि पदा विष्णोः कर्माणि तद् विष्णोः परमं पद(ग्)ं तद् विप्रासः  
-८।१।१५।८ उद्दीप्यस्व जातवेदो ऽपघ्नं निरृतिं मम  
-पशू(ग्)ंश् च मह्यम् आवह जीवनञ् च दिशोदिश  
-  
-८।१।१६।१ शाम्यन्तु घोराणि  
-८।१।१६।२ शाम्यन्तु पापानि  
-८।१।१६।३ शाम्यन्तु ईतयः  
-८।१।१६।४ भगवतो बलेन भगवतो वीर्येण भगवतस् तेजसा[*७८५] भगवतः कर्मणा  
-८।१।१६।५ भगवतानुगृहीतो भगवतानुद्ध्यातो भगवद् ध्यात्वा[*७८६] भगवत्-कर्म करिष्यामि तद् भगवान् अनुमन्यताम्  
-८।१।१६।६ नर्य-प्रजां मे गोपाय  
-८।१।१६।७ अमृतत्वाय जीवसे  
-जातां जनिष्यमाणाञ् च  
-अमृते सत्ये प्रतिष्ठिताम्  
-८।१।१६।८ अथर्व पितुं मे गोपाय  
-रसम् अन्नम् इहायुषे[*७८७]  
-[*७८५] तेxत्: त्सेजसा  
-[*७८६] १९८४ एदितिओन्: भगवं द्ध्यात्वा; १९२६, १९४६ एद्स्।: भगवद् ध्यात्वा  
-[*७८७] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् १७।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् १६।  
-  
-  
-  
-८।१।१७।१ अदब्धायो ऽशीतनो  
-८।१।१७।२ अविषन् नः पितुं कृणु  
-८।१।१७।३ श(ग्ग्)ंस्य पशून् मे गोपाय  
-८।१।१७।४ द्वि-पादो ये चतुष्-पदः  
-अष्टा शफाश् च य इहाग्ने ये चैक-शफा आशु-गाः[*७८८]  
-८।१।१७।५ स-प्रथ सभां मे गोपाय  
-८।१।१७।६ ये च सभ्यास् सभा-सदः  
-तान् इन्द्रियावतः कुरु  
-[*७८८] १९४६ एदितिओन्: अशु-गाः  
-  
-  
-८।१।१८।१ सर्वम् आयुर् उपासताम्  
-८।१।१८।२ अहे बुध्निय मन्त्रम् मे गोपाय  
-यम् ऋषयस् त्रैविदा विदुः  
-ऋचस् सामानि यजू(ग्)ंषि  
-८।१।१८।३ सा हि[*७८९] श्रीर् अमृता सताम्  
-८।१।१८।४ मा नो हि(ग्)ंसीज् जातवेदो गाम् अश्वं पुरुषं जगत्  
-अबिभ्रद् अग्न आगहि श्रिया मा परिपातय  
-८।१।१८।५ सम्राजं च विराजं चाभि श्रीर् या च नो गृहे  
-लक्ष्मी राष्ट्रस्य या मुखे तया  
-मा स(ग्)ं सृजामसि  
-[*७८९] व्म्प् तेxत्: हिश्; त्ब्: हि  
-  
-  
-८।१।१९।१ इन्द्रस्य त्वा वज्रेणाभ्य् उप विशामि  
-वह काले वह श्रियं माभिवह[*७९०]  
-८।१।१९।२ अश्वो ऽसि हयो ऽस्य् अतो ऽसि नरो ऽस्य् अर्वासि सप्तिर् असि  
-वाज्य् असि वृषासि नृमणा असि ययुर् नामास्य् आदित्यानां पत्वान्विहि  
-८।१।१९।३ आ-गो-दानात् पठेद् इदम्  
-८।१।१९।४ देवस्य त्वा ब्रह्म जज्ञान(ग्)ं  
-८।१।१९।५ हिरण्य-गर्भः  
-८।१।१९।६ भूः प्रपद्ये भुवः प्रपद्ये सुवः प्रपद्ये भूर् भुवस् सुवः प्रपद्ये विराजमानं तम् अजं प्रपद्ये  
-८।१।१९।७ तेजो-मयं तेजसाम् अप्य् अगम्य(ग्)ं सर्वात्मानं तमसः पारभूतं भूत्या विश्वं पाति यस् तं प्रपद्ये  
-८।१।१९।८ विष्णुं प्रपद्ये  
-८।१।१९।९ पुरुषं प्रपद्ये  
-[*७९०] तेxत्: माभीर्वह  
-  
-  
-८।१।२०।१ सत्यं प्रपद्ये  
-८।१।२०।२ अच्युतं प्रपद्ये  
-८।१।२०।३ अनिरुद्धं प्रपद्ये  
-८।१।२०।४ वरं रंह आस्थास्ये गारुदं रंहं आस्थास्ये गारुत्मन्तं रंह आस्थास्ये  
-८।१।२०।५ सर्वं सर्वं रंहो वैष्णवम् अहम् आस्थास्ये  
-८।१।२०।६ भूर् असि भूः प्रतिष्ठित्यै  
-८।१।२०।७ भुवो ऽसि भुवः प्रतिष्ठित्यै  
-८।१।२०।८ सुवर् असि सुवः प्रतिष्ठित्यै  
-८।१।२०।९ भूर् भुवस् सुवर् असि सुवः प्रतिष्ठित्यै  
-८।१।२०।१० सानन्दस् सर्वेषाम् अन्तरात्मा भव  
-  
-८।१।२१।१ पूतः पूतान्तरात्मा भव  
-८।१।२१।२ पुण्यः पुण्यान्तरात्मा भव  
-८।१।२१।३ ब्रह्म ब्रह्मान्तरात्मा भव  
-८।१।२१।४ विष्णुं प्रतिष्ठापयामि  
-८।१।२१।५ अवधूत(ग्)ं रक्षो ऽवधूता अरातयः  
-८।१।२१।६ अवधूतस् सो ऽस्तु यो ऽस्मान् द्वेष्टि यञ् च वयं द्विष्मः  
-८।१।२१।७ आशासु सप्तस्व् अपि कञ्ज-रेखा आपस् समग्रास् समुदावहामि  
-८।१।२१।८ सोमाग्नि-सूर्यामृत-पुष्करीणाम् आपस् समावाह्य पुरस्-करिष्ये  
-८।१।२१।९ सोम(ग्)ं राजानं वरुणम् अग्निम् अन्वारभामहे  
-आदित्यान् विष्णु(ग्)ं सूर्यं ब्रह्माणं च बृहस्पतिम्  
-  
-८।१।२२।१ आ मा वाजस्य शुची वो हव्या  
-८।१।२२।२ दुहतान् दिवम् इन्द्रस् सवितेमां दुहतां मेदिनीम्  
-८।१।२२।३ तद् उभयं प्रजानां निरीतये निरुद्वेगाय  
-८।१।२२।४ जाह्नवीं लोक-पावनीम्  
-८।१।२२।५ इमं मे गङ्गे यमुने सरस्वति शुतुद्रि स्तोम(ग्)ं सचता परुष्णिया  
-असिक्निया मरुद्वृधे वितस्तयार्जीकीये शृणुह्या सुषोमया  
-८।१।२२।६ आद्यम् अभिगृह्णामि श्रीमन्-नारायण-चरणौ शरणं प्रपद्ये श्रीमते नारायणाय नमः  
-८।१।२२।७ तत्थ् सवितुर् वरेण्यम्  
-  
-८।१।२३।१ अर्वाञ्चम् इन्द्रम्  
-८।१।२३।२ स्वस्ति नो मिमीतां कनिक्रदज् जनुषम्  
-८।१।२३।३ सोम(ग्)ं राजानम् इदम् आपश् शिवाः  
-८।१।२३।४ भगवतो बलेन  
-८।१।२३।५ नश्यन्ति जगताम् ईतयो निरस्तः परावसुस्[*७९१] सह पाप्मना  
-८।१।२३।६ अहम् एवेदं करिष्यामि विभोः कर्तुं निधास्यति  
-८।१।२३।७ करिष्याम्य् अत्र यत् किञ्चित्[*७९२] तन् मे देवो इनुमन्यताम्  
-८।१।२३।८ पूतस् तस्य  
-८।१।२३।९ ॐ भूर् भुवस् सुवः  
-८।१।२३।१० नारायणाय  
-[*७९१] अच्चोर्दिन्ग् तो म्W, प्। ५९०, परावसु इस् अ नमे "ओड़् अ गन्धर्व (अस्सोचिअतेद् wइथ् विश्ववसु)"।  
-[*७९२] १९८४ एदितिओन्: यतिञ्चत्; १९४६ एदितिओन्: यतिञ्चित्  
-  
-  
-  
-८।१।२४।१ ॐ विष्णवे नमः  
-८।१।२४।२ ॐ पुरुषाय नमः  
-८।१।२४।३ ॐ सत्याय नमः  
-८।१।२४।४ ॐ अच्युताय नमः  
-८।१।२४।५ ॐ अनिरुद्धाय नमः  
-८।१।२४।६ उद्यन्तं वावादित्यम् अग्निर् अनुसमारोहति  
-८।१।२४।७ तस्माद् धूम एवाग्नेर् दिवा ददृशे  
-८।१।२४।८ भूर् अनिलया भूतया भूतया परिषिञ्चामि भुवस् सुषुम्नया प्राणवत्या परिषिञ्चामि स्वर् अमृतवत्या ज्योतिष्मत्या च परिषिञ्चामि  
-८।१।२४।९ ता(ग्)ं सवितुर् वरेण्यस्य चित्राम् अहं[*७९३] वृणे सुमतिं विश्व-जन्यां याम् अस्य कण्वो अदुहत्[*७९४] प्रपीना(ग्)ं सहस्र-धारां पयसा महीं गाम्  
-८।१।२४।१० आग्नेयो यस्मात् प्रैषाम् अधीशः  
-[*७९३] १९८४ एदितिओन्: अहं; १९४६ एदितिओन्: आहं  
-[*७९४] तेxत्: आदुहत्  
-  
-  
-  
-८।१।२५।१ विष्वक्-सेनं प्रपद्ये  
-८।१।२५।२ शान्तं प्रपद्ये  
-८।१।२५।३ हरं प्रपद्ये  
-८।१।२५।४ अमितं प्रपद्ये  
-८।१।२५।५ सूत्रवतीं प्रपद्ये  
-८।१।२५।६ जयां प्रपद्ये  
-८।१।२५।७ मार्कण्डेयाय नमः  
-८।१।२५।८ भृगवे नमः  
-८।१।२५।९ ब्रह्मणे नमः  
-८।१।२५।१० शङ्कराय नमः  
-८।१।२६।१ सूर्याय नमः  
-८।१।२६।२ सोमाय नमः  
-८।१।२६।३ अङ्गारकाय नमः  
-८।१।२६।४ सौम्याय नमः  
-८।१।२६।५ बृहस्पतये नमः  
-८।१।२६।६ भार्गवाय नमः  
-८।१।२६।७ सौरये नमः  
-८।१।२६।८ राहवे नमः  
-८।१।२६।९ केतवे नमः  
-८।१।२६।१० धात्रे नमः  
-  
-८।१।२७।१ विधात्रे नमः  
-८।१।२७।२ भुवङ्गाय नमः  
-८।१।२७।३ पतङ्गाय नमः  
-८।१।२७।४ पतिराय नमः  
-८।१।२७।५ वरणाय नमः  
-८।१।२७।६ धर्माय नमः  
-८।१।२७।७ ज्ञानाय नमः  
-८।१।२७।८ ऐश्वर्याय नमः  
-८।१।२७।९ गज-लक्ष्म्यै नमः  
-८।१।२७।१० मणिकाय नमः  
-  
-८।१।२८।१ सन्ध्यायै नमः  
-८।१।२८।२ न्यक्ष्याय नमः  
-८।१।२८।३ इन्द्राय नमः  
-८।१।२८।४ तापसाय नमः  
-८।१।२८।५ सिद्धिदाय नमः  
-८।१।२८।६ किष्किन्धाय नमः  
-८।१।२८।७ तीर्थाय नमः  
-८।१।२८।८ नाग-राजाय नमः  
-८।१।२८।९ गणेशाय नमः  
-८।१।२८।१० शङ्ख-निधये नमः  
-  
-८।१।२९।१ पद्म-निधये नमः  
-८।१।२९।२ तुहिणाय नमः  
-८।१।२९।३ बलिन्दाय नमः  
-८।१।२९।४ खड्गाय नमः  
-८।१।२९।५ शार्ङ्गाय नमः  
-८।१।२९।६ शङ्ख-चूलिणे[*७९५] नमः  
-८।१।२९।७ चक्र-चूलिणे[*७९६] नमः  
-८।१।२९।८ चण्डाय नमः  
-८।१।२९।९ प्रचण्डाय नमः  
-८।१।२९।१० श्री-भूताय नमः  
-[*७९५] तेxत्: चूऌइणे  
-[*७९६] तेxत्: चूऌइणे  
-  
-  
-  
-८।१।३०।१ गरुडाय नमः  
-८।१।३०।२ चक्राय नमः  
-८।१।३०।३ ध्वजाय नमः  
-८।१।३०।४ शङ्खाय नमः  
-८।१।३०।५ यूथाधिपाय[*७९७] नमः  
-८।१।३०।६ अक्ष-हन्त्रे नमः  
-८।१।३०।७ हवि-रक्षकाय नमः  
-८।१।३०।८ अग्नये नमः  
-८।१।३०।९ विवस्वते नमः  
-८।१।३०।१० यमाय नमः  
-[*७९७] तेxत्: यूधाधिपाय  
-  
-  
-८।१।३१।१ बलि-रक्षकाय नमः  
-८।१।३१।२ निरृतये नमः  
-८।१।३१।३ मित्राय नमः  
-८।१।३१।४ वरुणाय नमः  
-८।१।३१।५ पुष्प-रक्षकाय नमः  
-८।१।३१।६ वायवे नमः  
-८।१।३१।७ क्षत्रे नमः  
-८।१।३१।८ कुबेराय नमः  
-८।१।३१।९ भास्कराय नमः  
-८।१।३१।१० ईशानाय नमः  
-  
-८।१।३२।१[*७९८] अविघ्नाय नमः  
-८।१।३२।२ आमोदाय नमः  
-८।१।३२।३ प्रमोदाय नमः  
-८।१।३२।४ प्रमुखाय नमः  
-८।१।३२।५ दुर्मुखाय नमः  
-८।१।३२।६ विघ्ण-कर्त्रे नमः  
-८।१।३२।७ भूतेभ्यो नमः  
-८।१।३२।८ यक्षेभ्यो नमः  
-८।१।३२।९ पिशाचेभ्यो नमः  
-८।१।३२।१० नागेभ्यो नमः  
-[*७९८] व्म्प् लिस्त्स् थिस् सेच्तिओन् अस् थे प्रेविओउस् ओने, अस् ३१।  नेxत् चोमेस् ३३।  Wए हवे चोर्रेच्तेद् थिस् छप्तेर् नुम्बेर् तो ३२।  
-  
-  
-८।०।२ प्रपद्ये दिशोदिश गोपायेन्द्रियावतः कुरु स(ग्)ं सृजामसि प्रपद्ये ऽन्तरात्मा भव बृहस्-पतिं तत् सवितुर् वरेण्य(ग्)ं नारायणाय प्रैषाम् अधीशश् शङ्कराय नमो धात्रे नमो मणिकाय नमश् शङ्ख-निधये नमश् श्री-भूताय नमो यमाय नम ईशानाय नमो नागेभ्यो नमः  
-  
-८।१।३३।१ धारासु सप्तसु शुचि वो हव्या  
-८।१।३३।२ मार्ताण्डम् आवाहयामि  
-८।१।३३।३ ज्येष्ठाम् आवाहयामि  
-८।१।३३।४ सागरम् आवाहयामि  
-८।१।३३।५ शुक्रम् आवाहयामि  
-८।१।३३।६ धर्म-ज्ञम् आवाहयामि  
-८।१।३३।७ खगाधिपतिम् आवाहयामि  
-८।१।३३।८ फणि-राजम् आवाहयामि  
-८।१।३३।९ धर्मम् आवाहयामि  
-  
-८।१।३४।१ विष्णुम् आवाहयामि  
-८।१।३४।२ रुद्रम् आवाहयामि  
-८।१।३४।३ ब्रह्माणम् आवाहयामि  
-८।१।३४।४ वरुणम् आवाहयामि  
-८।१।३४।५ वनस्-पतिम् आवाहयामि  
-८।१।३४।६ रविम् आवाहयामि  
-८।१।३४।७ पितॄन् आवाहयामि  
-८।१।३४।८ भूमिम् आवाहयामि  
-८।१।३४।९ जाह्नवीम् आवाहयामि  
-८।१।३४।१० वसन्तम् आवाहयामि  
-  
-८।१।३५।१ काश्यपम् आवाहयामि  
-८।१।३५।२ फुल्लम् आवाहयामि  
-८।१।३५।३ पृथिवीम् आवाहयामि  
-८।१।३५।४ बृहस्पतिम् आवाहयामि  
-८।१।३५।५ श्रियम् आवाहयामि  
-८।१।३५।६ शश-धरम् आवाहयामि  
-८।१।३५।७ साम-वेदम् आवाहयामि  
-८।१।३५।८ पितॄन् आवाहयामि  
-८।१।३५।९ शेषम् आवाहयामि  
-८।१।३५।१० वायुम् आवाहयामि  
-  
-८।१।३६।१ निशा-करम् आवाहयामि  
-८।१।३६।२ फुल्लम् आवाहयामि  
-८।१।३६।३ वाचस्-पतिम् आवाहयामि  
-८।१।३६।४ मेदिनीम् आवाहयामि  
-८।१।३६।५ प्रचेतसम् आवाहयामि  
-८।१।३६।६ पाञ्चजन्यम् आवाहयामि  
-८।१।३६।७ अमरान् आवाहयामि  
-८।१।३६।८ नन्दीशम् आवाहयामि  
-८।१।३६।९ साम-वेदम् आवाहयामि  
-८।१।३६।१० शर्वम् आवाहयामि  
-  
-८।१।३७।१ अप्सरस आवाहयामि  
-८।१।३७।२ अथर्वण-वेदम् आवाहयामि  
-८।१।३७।३ यजुर्-वेदम् आवाहयामि  
-८।१।३७।४ सुधांशुम् आवाहयामि  
-८।१।३७।५ रवि-मण्डलम् आवाहयामि  
-८।१।३७।६ त्वष्टारम् आवाहयामि  
-८।१।३७।७ सूर्यम् आवाहयामि  
-८।१।३७।८ निशा-करम् आवाहयामि  
-८।१।३७।९ षण्-मुखम् आवाहयामि  
-८।१।३७।१० वह्निम् आवाहयामि  
-  
-८।१।३८।१ रुद्रम् आवाहयामि  
-८।१।३८।२ ऋग्-वेदम् आवाहयामि  
-८।१।३८।३ वासुकिम् आवाहयामि  
-८।१।३८।४ त्रि-मूर्तीर् आवाहयामि  
-८।१।३८।५ क्रौञ्च-नन्दनम् आवाहयामि  
-८।१।३८।६ खगाधिपतिम् आवाहयामि  
-८।१।३८।७ कपि-राजम् आवाहयामि  
-८।१।३८।८ ब्रह्माणम् आवाहयामि  
-८।१।३८।९ वेदान् आवाहयामि  
-८।१।३८।१० षड्-आननम् आवाहयामि  
-  
-८।१।३९।१ नागान् आवाहयामि  
-८।१।३९।२ वीशम् आवाहयामि  
-८।१।३९।३ शङ्खम् आवाहयामि  
-८।१।३९।४ चक्रम् आवाहयामि  
-८।१।३९।५ महा-देवम् आवाहयामि  
-८।१।३९।६ कला[*७९९]-निधिम् आवाहयामि  
-८।१।३९।७ वरुणम् आवाहयामि  
-८।१।३९।८ पृथिवीम् आवाहयामि  
-८।१।३९।९ सर्व-तीर्थान्य् आवाहयामि  
-८।१।३९।१० नाग-राजम् आवाहयामि  
-[*७९९] तेxत्: कऌआ  
-  
-  
-८।१।४०।१ पाक-शासनम् आवाहयामि  
-८।१।४०।२ हिमांशुम् आवाहयामि  
-८।१।४०।३ आदित्यम् आवाहयामि  
-८।१।४०।४ वसिष्ठम् आवाहयामि  
-८।१।४०।५ सोमम् आवाहयामि  
-८।१।४०।६ यज्ञाङ्गम् आवाहयामि  
-८।१।४०।७ इन्दुम् आवाहयामि  
-८।१।४०।८ चन्द्रम् आवाहयामि  
-८।१।४०।९ विमलम् आवाहयामि  
-८।१।४०।१० मृगाङ्कम् आवाहयामि  
-८।१।४०।११ दिवा-करम् आवाहयामि  
-८।१।४०।१२ कमलासनम् आवाहयामि  
-८।१।४०।१३ सूर्यम् आवाहयामि  
-८।१।४०।१४ पाञ्चभौतकम् आवाहयामि  
-८।१।४०।१५ गरुडम् आवाहयामि  
-८।१।४०।१६ हिरण्य-गर्भम् आवाहयामि  
-८।१।४०।१७ नारायणम् आवाहयामि  
-  
-८।०।३ धर्मम् आवाहयामि। पसन्तम् आवाहयामि। वायुम् आवाहयामि। शर्वम् आवाहयामि। वह्निम् आवाहयामि। शड्-आननम् आवाहयामि। नाग-राजम् आवाहयामि। मृगाङ्कम् आवाहयामि। सप्त च।  
-८।१।४१।१ अग्निश् शुचि-व्रततमश् शुचिर् विप्रश् शुचिः कविः शुची रोचत आहुतः  
-उद् अग्ने शुचयस् तव शुक्रा ब्राजन्त ईरते तव ज्योती(ग्)ंष्य् अर्चयः  
-८।१।४१।२ तत्थ् सवितुर् वरेण्यम्  
-८।१।४१।३ धारासु सप्तसु  
-८।१।४१।४ इदम् आपश् शिवाः  
-८।१।४१।५ नारायणाय  
-८।१।४१।६ भूः प्रपद्ये  
-८।१।४१।७ वैखाणसायाच्युत-स(ग्ग्)ंश्रयाय  
-तपो-इग्र निष्ठाय च ब्रह्म-दर्षिने[*८००]  
-[*८००] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् ४२।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् ४१।  
-  
-  
-८।१।४२।१ धनुर्-धरायै[*८०१] विद्महे सर्व-सिद्ध्यै च धीमहि  
-तन् नो धरा प्रचोदयात्  
-८।१।४२।२ सर्व-भूत-निवारणायै हुं फत् स्वाहा  
-८।१।४२।३ भूर् भुवस् सुवर् ओम्  
-८।१।४२।४ आधार-शक्त्यै नमः  
-८।१।४२।५ अनन्तासनाय नमः  
-८।१।४२।६ कूर्मासनाय नमः  
-८।१।४२।७ विमलासनाय नमः  
-८।१।४२।८ पद्मासनाय नमः  
-[*८०१] १९४६ एदितिओन्: -थरायै; १९८४ एदितिओन्: -थराय  
-  
-  
-८।१।४३।१ हुं फट् स्वाहा  
-८।१।४३।२ इन्द्राय नमः  
-८।१।४३।३ अग्नये नमः  
-८।१।४३।४ यमाय नमः  
-८।१।४३।५ निरृतये नमः  
-८।१।४३।६ वरुणाय नमः  
-८।१।४३।७ वायवे नमः  
-८।१।४३।८ सोमाय नमः  
-८।१।४३।९ ईशानाय नमः  
-८।१।४३।१० ॐ भूः  
-  
-८।१।४४।१ ॐ भुवः  
-८।१।४४।२ ओ(ग्)ं सुवः  
-८।१।४४।३ ॐ महः  
-८।१।४४।४ ॐ जनः  
-८।१।४४।५ ॐ तपः  
-८।१।४४।६ ओ(ग्)ं सत्यम्  
-८।१।४४।७ ॐ तथ् सवितुर् वरेण्यं भर्गो देवस्य धीमहि  
-धियो यो नः प्रचोदयात्  
-८।१।४४।८ ओम् आपो ज्योती रसो ऽमृतं ब्रह्म भूर् भुवस् सुवर् ओम्  
-८।१।४४।९ भूमेर् वितन्वन् प्रतरन् प्रकामः पोपूयमानः पञ्चभिस् स्व-गुणैः प्रसन्नैस् सर्वाणि मान् धारयिष्यसि स्वाहा  
-  
-८।१।४५।१ पृथिव्यै हुं फट् स्वाहा  
-८।१।४५।२ अप्सु पृथिवीं प्रविलापयामि  
-८।१।४५।३ अनिरुद्ध-मूर्तिं ध्यायामि  
-८।१।४५।४ त्वं जीवस् त्वम् आपस् सर्वेषां जनिता त्वम् आहारः  
-त्वं विष्णो श्रमापनुदाय चतुर्-गुणाय स्वाहा  
-८।१।४५।५ अमृताय हुं फट् स्वाहा  
-८।१।४५।६ अग्नाव् अपह् प्रविलापयामि  
-८।१।४५।७ अच्युत-मूर्तिं ध्यायामि  
-८।१।४५।८ त्वम् अग्ने त्रि-गुणो वरिष्ठः परं ब्रह्म परं ज्योतिः  
-सर्वेषां त्वं पालनाय हुतम् अमृतं वहिष्यसे स्वाहा  
-  
-८।१।४६।१ अग्नये हुं फट् स्वाहा  
-८।१।४६।२ वायाव् अग्निं प्रविलापयामि  
-८।१।४६।३ सत्य-मूर्तिं ध्यायामि  
-८।१।४६।४ यो वा वायुर् द्वि-गुणो ऽन्तरात्मा सर्वेषाम् अन्तश् चरतीह विष्णो  
-स त्वं देवान् मनुष्यान् मृतान् परिसञ्जीवसे स्वाहा  
-८।१।४६।५ वायवे हुं फट् स्वाहा  
-८।१।४६।६ आकाशे वायुं प्रविलापयामि  
-८।१।४६।७ पुरुष-मूर्तिं ध्यायामि  
-८।१।४६।८ यो वा गविष्ठः परमः प्रधानः[*८०२] पदं वा यस्य सत्वम् आसीत्  
-यस्योपरित्वं मुनयो ऽनुपश्यन्ति तस्मै मुख्याय विष्णवे स्वाहा[*८०३]  
-[*८०२] तेxत्: प्रथानः  
-[*८०३] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् ४७।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् ४६।  
-  
-  
-  
-८।१।४७।१ आकाशम् अहङ्कारे प्रविलापयामि  
-८।१।४७।२ अहङ्कारं महत्-तत्वे प्रविलापयामि  
-८।१।४७।३ महत्-तत्वं प्रकृतौ प्रविलापयामि  
-८।१।४७।४ तां प्रकृतिं पर-ब्रह्मणि प्रविलापयामि  
-८।१।४७।५ विष्णु-मूर्तिं ध्यायामि  
-८।१।४७।६ आ वात वाहि भेषजं वि वात वाहि यद् रपः  
-त्व(ग्)ं हि विश्व-भेषजो देवानां दूत ईयसे  
-८।१।४७।७ अग्ने रक्षा णो अ(ग्)ंहसः प्रति ष्म देव रीषतः  
-तपिष्ठैर् अजरो दह[*८०४]  
-[*८०४] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् ४८।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् ४७।  
-  
-  
-८।१।४८।१ अग्ने ह(ग्)ंसि न्य् अत्रिणम्  
-८।१।४८।२ यद् अदो वात ते गृहे ऽमृतस्य निधिर् हितः  
-ततो नो देहि जीवसे ततो नो धेहि भेषजम्  
-८।१।४८।३ स्योना पृथिवी भवानृक्षरा निवेशनी  
-यच्चा नश् शर्म सप्रथाः  
-८।१।४८।४ यो वा गविष्ठः  
-८।१।४८।५ आत्मन आकाशस् सम्भूतः  
-८।१।४८।६ परमात्मनः प्रकृतिं त्रि-गुणात्मिकां प्रतिष्ठापयामि  
-८।१।४८।७ प्रकृतेर् महान्तम् उत्पादयामि  
-  
-८।१।४९।१ महतो ऽहङ्कारम् उत्पादयामि  
-८।१।४९।२ अहङ्काराद् आकाशं प्रतिष्ठापयामि  
-८।१।४९।३ यो वा वायुः  
-आकाशाद् वायुं प्रतिष्ठापयामि  
-८।१।४९।४ त्वम् अग्ने त्रि-गुणो वरिष्ठः  
-वायोर् अग्निं प्रतिष्ठापयामि  
-८।१।४९।५ त्वं जीवः  
-अग्नेर् अपः प्रतिष्ठापयामि  
-८।१।४९।६ भूमेर् वितन्वन्  
-अद्भ्यः पृथिवीं प्रतिष्ठापयामि  
-  
-८।१।५०।१ असुनीते पुनर् अस्मासु चक्षुः पुनः प्राणम् इह नो धेहि भोगम्  
-ज्योक् पश्येम सूर्यम् उच्चरन्तम् अनुमते मृलया नस् स्वस्ति  
-८।१।५०।२ अमृतं वै प्राना अमृतम् आपः प्राणान् एव यथा-स्थानम् उपह्वयते  
-८।१।५०।३ मम प्राण इह प्राणः  
-८।१।५०।४ मम जीव इह जीवस् स्थितः  
-८।१।५०।५ मम सर्वेन्द्रियाणि वाङ्-मनो-बुद्ध्य्-अहङ्कार-काम-रागान्तं  
-८।१।५०।६ पृथिव्य्-अप्-तेजो-वाय्व्-आकाश-शब्द-स्पर्श-रूप-रस-गन्ध-त्वक् चक्षुश्-श्रोत्र-जिह्वा-घ्राण-वाक्-पाणि-पाद-पायूपस्थ-प्राणा इहैवागत्य सुखं चिरं तिष्ठन्तु ह्रीं स्वाहा  
-८।१।५०।७ मम हृदये परमात्मनस् सकाकाज् जीवात्मानं प्रतिष्ठापयाम्य् ओन् नमः  
-८।१।५०।८ हंस-हंसाय विद्महे परम-हंसाय धीमहि  
-तन्न् नो हंसः प्रचोदयात्  
-  
-८।१।५१।१ यो वा संयोगस् सञ्जुषमाणस् सन्धुस् सन्धुक्षणानाम्  
-संयोगं सन्दधानः[*८०५] पुण्यः पुण्यानां पुण्याय स्वाहा  
-८।१।५१।२ सह सम्पायास् त्वम् आशिषम् आशीर् भूताभूतम्  
-आशिषम् आशी-रासीर्[*८०६] आशिर् अनुभूमिस्[*८०७] स्वाहा  
-८।१।५१।३ यो वा तेजस् तेजसां तेजस् तेज आदधानः  
-सत्यस् तेजस् तेजसां तेजस् तेजस् तेजसे स्वाहा  
-८।१।५१।४ यो वा आयुः परमात्मानं मीढुषः परम्पर्यात् परः परायणः  
-परो लोकानां परमा दधानः परतः पराय स्वाहा  
-८।१।५१।५ विष्णुस् सर्वेषाम् अधिपतिः परमः पुराणः  
-परो लोकानाम् अजितो जितात्मन् भवते ऽभवाय स्वाहा  
-[*८०५] तेxत्: सन्धधानः  
-[*८०६] तेxत्: आसी-रासीर्  
-[*८०७] तेxत्: अनुभूमि  
-  
-  
-  
-८।१।५२।१ यो वेदादिः परमः परो ब्रह्मा त्रि-मात्रस् त्रयि-मूर्तिकः  
-शब्दश् शब्दातिगः परं-ब्रह्मणे परं-ज्योतिषे स्वाहा  
-८।१।५२।२ यो वा गविष्ठः  
-८।१।५२।३ पराय परमेष्ठ्य्-आत्मने विष्णवे आकाशाय नमः  
-८।१।५२।४ यो वा वायुः  
-८।१।५२।५ पराय पुरुषात्मने पुरुषाय वायवे नमः  
-८।१।५२।६ त्वम् अग्ने त्रि-गुणो वरिष्ठः  
-८।१।५२।७ पराय विश्वात्मने सत्यायाग्नये नमः  
-८।१।५२।८ त्वं जीवस् त्वम् आपः  
-८।१।५२।९ पराय निवृत्य्-आत्मने अच्युतायद्भ्यो नमः  
-  
-८।१।५३।१ भूमेर् वितन्वन्न्  
-८।१।५३।२ पराय सर्वात्मने ऽनिरुद्धाय पृथिव्यै नमः  
-८।१।५३।३ ब्रह्म ब्रह्मान्तरात्मा ब्रह्म-पूतान्तरात्मा ब्रह्मणि ब्रह्म-निष्ठो ब्रह्म-गुप्तो गुप्तो ऽहम् अस्मि  
-८।१।५३।४ द्यौर् द्यौर् असि सर्व इमे प्राणा स्थाणव आसन्न्  
-८।१।५३।५ शिखे उद्वर्तयामि  
-८।१।५३।६ स-वेदास् स-मन्त्रास् सार्षास् स-सोमा देवाः परिवर्तयन्ताम्  
-८।१।५३।७ देवानाम् अयुधैः[*८०८] परिबाधयामि  
-८।१।५३।८ ब्रह्मणो मन्त्रैर् ईशस्योजसा भृगूणाम् अङ्गिरसां तपसा सर्वम् आतनोमि  
-८।१।५३।९ नारायणाय विद्महे वासुदेवाय धीमहि  
-तन् नो विष्णुः प्रचोदयात्  
-[*८०८] तेxत्: अयुथैः  
-  
-  
-८।१।५४।१ सुदर्शनम् अभिगृह्णामि  
-८।१।५४।२ रविपाम् अभिगृह्णामि  
-८।१।५४।३ सूर्यो ऽसि सूर्यान्तरात्मा  
-८।१।५४।४ चक्षुर् असि सर्वम् असि सर्वं धेहि  
-८।१।५४।५ चन्द्रो ऽसि यज्ञो ऽसि यज्ञायाधानम् असि  
-८।१।५४।६ यज्ञस्य मोषद् असि  
-८।१।५४।७ आभुरण्यं विधिं यज्ञं  ब्रह्माणं देवेन्द्रम्  
-८।१।५४।८ अन्तर् अस्मिन्न् इमे लोकाः  
-८।१।५४।९ अतो देवा इदं विष्णुस् त्रीणि पदा विष्णोः कर्माणि तद् विष्णोः परमं तद् विप्रासः  
-८।१।५४।१० ज्ञानाय हृदयाय नमः  
-  
-८।१।५५।१ शक्त्यै शिरसे स्वाहा  
-८।१।५५।२ बलाय शिखायै वषट्  
-८।१।५५।३ ऐश्वर्याय कवचाय हुम्  
-८।१।५५।४ वीर्याय नेत्र-त्रयाय वौषट्  
-८।१।५५।५ तेजसे अस्त्राय फट्  
-८।१।५५।६ भूर् भुवस् सुवर् ओम्[*८०९]  
-८।१।५५।७ केशवाय नमः  
-८।१।५५।८ नारायणाय नमः  
-८।१।५५।९ माधवाय नमः  
-८।१।५५।१० गोविन्दाय नमः  
-[*८०९] श्रीं ॐ हृदयाय नमः । द्रां ॐ शिरसे स्वाहा । आं ॐ शिखायै वषट् । ह्रां ॐ कवचाय हुम् । क्लीं ॐ नेत्र-त्रयाय वौषट् । रां ॐ अस्त्राय फट् । भूर् भुवस् सुवर् ओम् । अं आं इं ईं उं ऊं ऋं ॠं ऌं ॡऽं एं ऐं ॐ औं आं आः । गोविन्दाय नमः । महीधराय नमः । हृषीकेशाय नमः ॥ त्रिविक्रमाय नमः । विष्णवे नमः । माधवाय नमः ॥  
-  
-  
-८।१।५६।१ विष्णवे नमः  
-८।१।५६।२ मधुसूदनाय नमः  
-८।१।५६।३ त्रिविक्रमाय नमः  
-८।१।५६।४ वामणाय नमः  
-८।१।५६।५ श्रीधराय नमः  
-८।१।५६।६ हृशीकेशाय नमः  
-८।१।५६।७ पद्मनाभाय नमः  
-८।१।५६।८ दामोदराय नमः  
-८।१।५६।९ सङ्कर्षणाय नमः  
-८।१।५६।१० वासुदेवाय नमः  
-  
-८।१।५७।१ प्रद्युम्नाय नमः  
-८।१।५७।२ अनिरुद्धाय नमः  
-८।१।५७।३ पुरुषोत्तमाय नमः  
-८।१।५७।४ अधोक्षजाय नमः  
-८।१।५७।५ नारसिंहाय नमः  
-८।१।५७।६ अच्युताय नमः  
-८।१।५७।७ जनार्दनाय नमः  
-८।१।५७।८ उपेन्द्राय नमः  
-८।१।५७।९ हरये नमः  
-८।१।५७।१० श्री-कृष्णाय नमः  
-  
-८।१।५८।१ एकाक्षरं  
-८।१।५८।२ विश्वे निमग्नः  
-८।१।५८।३ प्राणः प्रसूतिर्  
-८।१।५८।४ वितत्य बाणं  
-८।१।५८।५ त्वम् वज्र-भृद्  
-८।१।५८।६ धाता विधाता  
-८।१।५८।७ ऋचो यजू(ग्)ंषि  
-८।१।५८।८ स एष देवस्  
-८।१।५८।९ स सर्व-वेत्ता  
-८।१।५८।१० सामैश् च साङ्गं[*८१०]  
-८।१।५८।११ त्व(ग्ग्)ं स्त्री पुमान्  
-८।१।५८।१२ मित्रस् सुपर्णस्  
-८।१।५८।१३ त्वं विष्णुर् भूतानि  
-८।१।५८।१४ त्वं भूर् भुवस् त्व(ग्)ं  
-८।१।५८।१५ य एवं नित्यं  
-८।१।५८।१६ बुद्धिमतां परां गतिम्  
-८।१।५८।१७ ॐ धनुषे नमः  
-८।१।५८।१८ शक्त्यै स्वाहा  
-८।१।५८।१९ गदायै वषट्  
-८।१।५८।२० खड्गाय हुम्  
-८।१।५८।२१ चक्राय वौषट्  
-८।१।५८।२२ वासुकये फट्  
-८।१।५८।२३ विष्णुर् मां रक्षतु  
-८।१।५८।२४ जाम्बूनद-प्रभाय चक्र-धराय केशवाय नमः  
-८।१।५८।२५ चन्द्र-प्रभाय धनुर्-धराय गोविन्दाय स्वाहा  
-[*८१०] एक् उप् (उस्, सु, ओउ): चिद्-अन्तः इन् प्लचे ओड़् च साङ्गं  
-  
-  
-८।१।५९।१ नील-जीमूत-सन्निभाय शङ्ख-धराय[*८११] नारायणाय वषट्  
-८।१।५९।२ पद्म-किञ्जल्क-सन्निभाय हल-धराय विष्णवे हुम्  
-८।१।५९।३ अरविन्दाभाय मुसल-धराय मधुसूदनाय वौषट्  
-८।१।५९।४ ज्वलन-प्रभाय खड्ग-धराय त्रिविक्रमाय फट्  
-८।१।५९।५ तरुणादित्य-सन्निभाय वज्र-धराय वामनाय नमः  
-८।१।५९।६ पुण्डरीकाक्षाय पट्टस-धराय श्रीधराय स्वाहा  
-८।१।५९।७ इन्दीवर-दल[*८१२]-श्यामाय कौमोदकी-धराय गदा-धराय वषट्  
-८।१।५९।८ विद्युत्-प्रभाय मुद्गर-धराय हृशीकेशाय हुम्  
-८।१।५९।९ चित्र-वर्ण-धराय पाश-हस्ताय विष्णवे वौषट्  
-८।१।५९।१० इन्द्र-नील-प्रभायापराजिताय व्यापि-नारायणाय फट्  
-[*८११] तेxत्: -थराय  
-[*८१२] तेxत्: दऌअ  
-  
-  
-८।१।६०।१ भूर् भुवस् सुवर् ओम्  
-८।१।६०।२ ॐ नमो नारायणाय  
-८।१।६०।३ ब्रह्मैव भूतानां ज्येष्ठं तेन को ऽर्हति स्पर्धितुम्  
-८।१।६०।४ तत्थ् सवितुर् वरेण्यम्  
-८।१।६०।५ आत्मात्मा परमान्तरात्मा  
-८।१।६०।६ सुवर् भुवर् भूः  
-८।१।६०।७ श्रिये जातः  
-८।१।६०।८ मेदिनी देवी  
-८।१।६०।९ संयुक्तम् एतत् क्षऋअते ऽक्षरन् तु व्यक्ताव्यक्तं भवते विश्वम् अस्मात्  
-८।१।६०।१० आनीश आत्मा बद्ध्यते भोक्तृ-भावाद् ज्ञात्वा देवं मुच्यते सर्व-पापैः  
-  
-८।१।६१।१ इदं विष्णुः  
-८।१।६१।२ आयातु भगवान्  
-८।१।६१।३ ॐ विष्णुम् आवाहयामि  
-८।१।६१।४ पुरुषम् आवाहयामि  
-८।१।६१।५ सत्यम् आवाहयामि  
-८।१।६१।६ अच्युतम् आवाहयामि  
-८।१।६१।७ अनिरुद्धम् आवाहयामि  
-८।१।६१।८ श्रिये जातश् श्रिय आ निर् इयाय श्रियं वयो जरितृभ्यो दधाति  
-श्रियं वसाना अमृतत्वम् आयन् भवन्ति सत्या समिधा मितद्रौ  
-८।१।६१।९[*८१३] आयातु भगवती श्रीस् स्वर्ण-वर्णा स-गणा स-सैन्य श्री परम-पुरुष-सहाया सह देवताभिर् अनुमन्यताम्  
-[*८१३] थेरे अरे नो अच्चेन्त् मर्क्स् इन् थे तेxत् ड़्रोम् ८।१।६१।९ थ्रोउघ् ८।१।६२।१।  
-  
-  
-८।१।६२।१ या पद्मासना पद्म-हस्ता हंस-निर्याख्य-वाहिनी नित्यम् ऋषिभिश् चानुगामिनी ताम् अजां पुण्डरीक-नेत्रीं भगवतीं श्रीम्  
-८।१।६२।२ ॐ श्रियम् आवाहयामि  
-८।१।६२।३ धृतिम् आवाहयामि  
-८।१।६२।४ पवित्रीम् आवाहयामि  
-८।१।६२।५ प्रमोदायिनीम् आवाहयामि  
-८।१।६२।६ मेदिनी देवी वसुन्धरी स्याद् वसुधा देवी वासवी  
-ब्रह्म-वर्चसः पितॄणा(ग्)ं श्रोत्रं विष्णुर् मनः  
-८।१।६२।७[*८१४] आयातु भगवती हरिणी श्याम-वर्णा स-गणा स-सैन्या श्री परम-पुरुष-सहाया सह देवताभिर् अनुमन्यताम्  
-८।१।६२।८ या नीलोत्पलासना नीलोत्पल-हस्ता महा-चातक-वाहिनी नित्यम् ऋषिभिश् चानुगामिनी ताम् अजां नीलोत्पल-नेत्रीम् भगवतीं[*८१५] लम्  
-८।१।६२।९ ॐ हरिणीम् आवाहयामि  
-[*८१४] थेरे अरे नो अच्चेन्त् मर्क्स् इन् थे तेxत् ड़्रोम् ८।१।६२।८ थ्रोउघ् ८।१।६२।९।  
-[*८१५] तेxत्: भगवती  
-  
-  
-  
-८।१।६३।१ पौष्णीम् आवाहयामि  
-८।१।६३।२ क्षोनीम् आवाहयामि  
-८।१।६३।३ महीम् आवाहयामि  
-८।१।६३।४ ॐ मह्यै नमः  
-८।१।६३।५ सर्वाधाराय नमः  
-८।१।६३।६ सनातनाय नमः  
-८।१।६३।७ दिव्याय नमः  
-८।१।६३।८ कमठ-रूपिणे [*८१६]नमः  
-८।१।६३।९ आदि-कूर्माय नमः  
-८।१।६३।१० शेषाय नमः  
-८।१।६३।११ दिग्-गजेभ्यो नमः  
-८।१।६३।१२ आधार-शक्त्यै नमः  
-८।१।६३।१३ सप्तार्णवेभ्यो नमः  
-८।१।६३।१४ सहस्र-पत्र-युत-कमलाय नमः  
-८।१।६३।१५ रक्ताम्बुज-मणि-यम-पद्म-पीठाय नमः  
-८।१।६३।१६ श्रीमन्-नारायणाय नमः  
-[*८१६] थे तेxत्स् इन्सेर्त्स् थे wओर्द् य हेरे wहिछ् wए हवे ओमित्तेद्।  
-  
-  
-८।०।४ स(ग्ग्)ंश्रयाय नमो भूस् स्व-गुणैर् ज्योतिर् आसीद् देव-रीषत उत्पादयामि प्रतिष्ठापयामि प्रचोदयात् स्वाहा नमः प्रचोदयान् नमो नमो देवाय नमश् श्री कृष्णाय नमस् स्वाहा फट्[*८१७] सर्व-पापैर् अनुमन्यताम् आवाहयामि नमष् षट् च  
-[*८१७] तेxत्: पट्  
-  
-  
-८।१।६४।१ प्र तद् विष्णुः  
-८।१।६४।२ अस्त्व् आसनं शुभं लोके ब्रुसी शुद्धस् तपो-मयम्  
-८।१।६४।३ तपश् चायुस् तथा योगम् अस्तु ते परमं पदम्  
-८।१।६४।४ विश्वादिकानां जननादि-कर्त्रे धात्रे तपो-यज्ञ-सुवेद-मूर्ते  
-८।१।६४।५ सुस्वागतं यत्र तं तत्र यस्मात् तत् ते पद(ग्)ं[*८१८] सूरिभिस् स्वागतन् ते  
-८।१।६४।६ मनो ऽभिमन्ता मानवस् सुधर्मा यन् मातरं वचसो मानसेषु  
-अमोघम् ओघं प्रति वेद-वेद्य-स्वकं जनानाम् अनुमन्यताम् इदम्  
-८।१।६४।७ त्व(ग्ग्)ं स्त्री त्वं पुमान् मानसी[*८१९] त्वं देव-कुमार इदं नादः कुमारी  
-८।१।६४।८ त्वं जीर्णस् त्वं जनिं गच्छसि त्वं जातो निवासीर् विश्वतो मुखः  
-८।१।६४।९ त्रीणि पदा  
-[*८१८] तेxत्: पदग् चोर्रेच्तेद् तो पदग्ं  
-[*८१९] १९४६ एदितिओन्: मानसी; १९८४ एदितिओन्: मानसि  
-  
-  
-  
-८।१।६५।१ इन्द्रो ऽभिमन्ता मनवो वायवश् चापस् समग्रा अभितो यस्य दद्यात्  
-८।१।६५।२ विष्णो इमान् वैष्णवा(ग्)ंस् तर्पयामि प्रसीद देवाधिक-तेजसैनम्  
-८।१।६५।३ अग्निर् इन्द्रो वरुणो मित्रो अर्यमा वायुः पूषा सरस्वती स-जोषसः  
-८।१।६५।४ आदित्या विष्णुर् मरुतः स्वर् बृहत्-सोमो रुद्रो अदितिर् ब्रह्मणस्पतिः  
-८।१।६५।५ त्रिर् देवः[*८२०]  
-८।१।६५।६ इन्द्रियाणि शत-क्रतो या ते जनेषु पञ्चसु  
-इन्द्र तानि त आ वृणे  
-८।१।६५।७ अगन्न् इन्द्र श्रवो बृहद् द्युम्नं दधिष्व दुष्टरं  
-उत् ते शुष्मं त्रिरामसि  
-८।१।६५।८ योगे-योगे शं नो देवी  
-८।१।६५।९ घतात् परि मण्ड इवाप्सु स्नेहस् सर्वाधिकस् सर्व-धत्तेषु शर्वः  
-८।१।६५।१० स चेतनश् चेतयते स्व-शक्त्या  
-८।१।६५।११ एको लोकान् गर्भवत् पातु सर्वान्  
-८।१।६५।१२ विचक्रमे पृथिवी  
-[*८२०] तेxत्: द्रेवः  
-  
-  
-८।०।५ त्रीणि पदा शं नो देवीश् चत्वारि च  
-  
-८।१।६६।१ भूः प्रपद्ये  
-८।१।६६।२ वेदाहम् एतं पुरुषं महान्तम् आदित्य-वर्णं तमसस् तु पारे  
-सर्वाणि रूपाणि विचित्य धीरः नामानि कृत्वाभिवदन् यदास्ते  
-८।१।६६।३ त्रीणि पदा  
-८।१।६६।४ आ मा वाजस्य प्रसवो जगम्याद् आ द्यावा-पृथिवी विश्व-शम्भू  
-आ मा गन्तां पितरा मातरा चा मा सोमो अमृतत्वाय गम्यात्  
-८।१।६६।५ शं नो देवीः  
-८।१।६६।६ उपानहाव् अध्यवरोहामि  
-  
-८।१।६७।१ स्वस्ति नो मिमीताम्  
-८।१।६७।२ परं रंह आस्थास्ये  
-८।१।६७।३ प्र तद् विष्णुस् त्रीणि पदा शं नो देवीः  
-८।१।६७।४ अन्नाद्याय व्यूहध्वं दीर्घायुर् अहम् अन्नादो भूयासम्  
-८।१।६७।५ तेन मे तप तेन मे ज्वल तेन मे दीदिहि यावद् देवाः  
-८।१।६७।६ इदं ब्रह्म पुनीमहे ब्रह्म पुनातु  
-८।१।६७।७ योगे-योगे तवस्तरं वाजे-वाजे हवामहे  
-सखाय इन्द्रम् ऊतये  
-८।१।६७।८ यन् मे गर्भे वसतः पापम् उग्रं यज् जायमानस्य च किञ्च दैर्घ्यम्  
-पापं जातस्य यस्य भुवि वर्ततो मे तस्य तत् पावमानीभिर् अहं पुनामि  
-  
-८।१।६८।१ शं नो देवीः  
-८।१।६८।२ अतो देवाः इदं विष्णुस् त्रीणि पदा विष्णोः कर्माणि तद् विष्णोः परमं तद् विप्रासः  
-८।१।६८।३ ॐ नमो नारायणाय  
-८।१।६८।४ कस् त्वा सत्यो मदानां म(ग्)ंहिष्ठो मथ्सद् अन्धसः  
-दृढा चिद् आरुजे वसु  
-८।१।६८।५ परिलिखित(ग्)ं रक्षः परिलिखिता अरातयः  
-८।१।६८।६ परिलिखितस् सो ऽस्तु यो ऽस्मान् द्वेष्टि यञ् च वयं द्विष्मः  
-८।१।६८।७ वारीश् चतस्रश् शन् नो देवीः  
-८।१।६८।८ नमो वरुणश् शुद्धश् शुद्धो ऽहम् अस्मि  
-८।१।६८।९ शुद्धो ब्रह्म-वीरो हरिर् यथा शुद्धः पञ्च-भूतास् तथा शुद्धाश् शुद्धो ऽहम् अस्मि  
-  
-८।१।६९।१ ब्रह्माहम् अस्मि हरिर् अस्मि  
-८।१।६९।२ ईश ईशो ऽस्मि भवं भवामहे  
-८।१।६९।३ सिनीवालि-पृथुष्टुके या देवानाम् असि स्वसा  
-जुषस्व हव्यम् आहुतं प्रजां देवि दिदिड्ढि नः  
-८।१।६९।४ भूर् अनिलया भूतया भूतया परिषिञ्चामि भुवस् सुषुम्नया प्राणवत्या परिषिञ्चामि स्वर् अमृतवत्या ज्योतिष्मत्या च परिषिञ्चामि  
-८।१।६९।५ ता(ग्)ं सवितुर् वरेण्यस्य चित्राम् अहं[*८२१] वृणे सुमतिं विश्व-जन्याम् याम् अस्य कण्वो अदुहत् प्रपीना(ग्)ं सहस्र-धारां पयसा महीं गाम्  
-८।१।६९।६ अग्निम् ईऌअ इषे त्वोर्जे त्वा गन्ध-द्वारां सहस्र-शीर्षा पुरुषः  
-८।१।६९।७ सहस्र-शीर्षं देवम् अतो देवा  
-[*८२१] १९८४, १९४६ एदितिओन्स्: आहं, चोर्रेच्तेद् तो अहं।  
-  
-  
-८।१।७०।१ मित्रस् सुपर्णश् चन्द्र इन्द्रो ऽथ रुद्रस् त्वष्ता विष्णुस् सविता गो-पतिस् त्वम्  
-त्वं विष्णुर् भूतानि तत्रासि दैत्यस् त्वया वृतं जगद् उल्बेन गर्भः  
-८।१।७०।२ अथा वयम् आदित्य व्रते तवानागसो अदितये स्याम  
-८।१।७०।३ युवं वस्त्राणि पीवसा वसाथे युवोर् अच्छिद्रा मन्तवो ह सर्गाः  
-अवातिरतम् अनृतानि विश्वा ऋतेन मित्रा वरुणा सचेथे  
-८।१।७०।४ त्रीणि पदा शं नो देवीः  
-८।१।७०।५ भूर् असि भूः प्रतिष्ठित्यै त्रिर् देवः  
-८।१।७०।६ अतो देवा ॐ नमो नारायणाय  
-  
-८।०।६ अवरोहाम्य् अहं पुनाम्य् अहम् अस्मि देवम् अतो देवा नारायणाय  
-  
-८।१।७१।१ तेजो वत्स्यावस् सवितुः प्रसवे ऽश्विनोर् बाहुभ्यां पूष्णो हस्ताभ्याम्  
-८।१।७१।२ सोमस्य तनूर् असि तनुवं मे पाहि  
-स्वा मा तनूर् आ विश  
-८।१।७१।३ शं नो देवीः  
-८।१।७१।४ इदं ब्रह्म पुनीमहे  
-८।१।७१।५ ब्रह्म पुनातु  
-८।१।७१।६ शं नो देवीः  
-८।१।७१।७ ॐ नमो नारायणाय  
-८।१।७१।८ विष्णोर् नु कम्  
-८।१।७१।९ अग्निं दूतं वृणीमहे होतारं विश्व-वेदसम्  
-अस्य यज्ञस्य सुक्रतुम्  
-  
-८।१।७२।१ भूतो भूतेषु चरति प्रविष्टस् स भूतानाम् अधिपतिर् बभूव  
-८।१।७२।२ तस्य मृत्यौ चरति राजसूय(ग्)ं स राजा राज्यम् अनुमन्यताम् इदम्  
-८।१।७२।३ तद् विष्णोः परमम्  
-८।१।७२।४ इमास् सुमनसश् श्रेष्ठा दिव्य-पुष्पाधिवासिताः  
-८।१।७२।५ पूता ब्रह्म-पवित्रेण पूतास् सूर्यस्य रश्मिभिः  
-८।१।७२।६ तद् विप्रासः  
-८।१।७२।७ इमे गन्धास्[*८२२] सुरभिनो दिव्य-गन्धाधिवासिताः  
-८।१।७२।८ पूता ब्रह्म-पवित्रेण पूतास् सूर्यस्य रश्मिभिः  
-८।१।७२।९ यदाञ्जनं त्रैककुदं जात(ग्)ं हिमवत उपरि  
-८।१।७२।१० तेन वामाञ्जे तेजसे वर्चसे भगाय च  
-[*८२२] तेxत्: गन्थास्  
-  
-  
-८।१।७३।१ देवस्य त्वा सवितुः प्रसवे ऽश्विनोर् बाहुभ्यां पूष्णो हस्ताभ्याम्  
-८।१।७३।२ विष्णवे नमः  
-८।१।७३।३ पुरुषाय नमः  
-८।१।७३।४ सत्याय नमः  
-८।१।७३।५ अच्युताय नमः  
-८।१।७३।६ अनिरुद्धाय नमः  
-८।१।७३।७ कपिलाय नमः  
-८।१।७३।८ यज्ञाय नमः  
-८।१।७३।९ नारायणाय नमः  
-८।१।७३।१० पुण्याय नमः  
-  
-८।१।७४।१ श्रियै नमः  
-८।१।७४।२ धृत्यै नमः  
-८।१।७४।३ पवित्र्यै नमः  
-८।१।७४।४ प्रमोदायिन्यै नमः  
-८।१।७४।५ हरिण्यै नमः  
-८।१।७४।६ पौष्ण्यै नमः  
-८।१।७४।७ क्षोण्यै नमः  
-८।१।७४।८ मह्यै नमः  
-८।१।७४।९ वाराहाय नमः  
-८।१।७४।१० नारसिंहाय नमः  
-  
-८।१।७५।१ वामनाय नमः  
-८।१।७५।२ त्रिविक्रमाय नमः  
-८।१।७५।३ सुभद्राय नमः  
-८।१।७५।४ ईशितात्मने नमः  
-८।१।७५।५ सर्वोद्वहाय नमः  
-८।१।७५।६ सर्व-विद्येस्वराय नमः  
-८।१।७५।७ इन्द्राय नमः  
-८।१।७५।८ यमाय नमः  
-८।१।७५।९ वरुणाय नमः  
-८।१।७५।१० कुबेराय नमः  
-  
-८।१।७६।१ अग्नये नमः  
-८।१।७६।२ निरृतये नमः  
-८।१।७६।३ वायवे नमः  
-८।१।७६।४ ईशानाय नमः  
-८।१।७६।५ सुभद्राय नमः  
-८।१।७६।६ हयात्मकाय नमः  
-८।१।७६।७ राम-देवाय नमः  
-८।१।७६।८ पुण्य-देवाय नमः  
-८।१।७६।९ सर्वाय नमः  
-८।१।७६।१० सुखावहाय नमः  
-  
-८।१।७७।१ संवहाय नमः  
-८।१।७७।२ सुवहाय नमः  
-८।१।७७।३ शिवं प्रपद्ये  
-८।१।७७।४ विश्वं प्रपद्ये  
-८।१।७७।५ मित्रं प्रपद्ये  
-८।१।७७।६ अत्रिं प्रपद्ये  
-८।१।७७।७ सनत्-कुमारं प्रपद्ये  
-८।१।७७।८ सनकं प्रपद्ये  
-८।१।७७।९ सनातनं प्रपद्ये  
-८।१।७७।१० सनन्दनं प्रपद्ये  
-  
-८।१।७८।१[*८२३] इन्द्राय नमः  
-८।१।७८।२ यमाय नमः  
-८।१।७८।३ वरुणाय नमः  
-८।१।७८।४ कुबेराय नमः  
-८।१।७८।५ अग्नये नमः  
-८।१।७८।६ निरृतये नमः  
-८।१।७८।७ वायवे नमः  
-८।१।७८।८ ईशानाय नमः  
-८।१।७८।९ परो मात्रया  
-८।१।७८।१० बृहस्पतिर् देवानाम्  
-[*८२३] व्म्प् ओमित्स् नुमेरल् ७८ ड़ोर् सेच्तिओन् ७८।  
-  
-८।१।७९।१ इमे धूपास् सुरभिनो दिव्य-धूपाधिवासिताः  
-८।१।७९।२ पूता ब्रह्म-पवित्रेण पूतास् सूर्यस्य रश्मिभिः  
-८।१।७९।३ विष्णोः कर्माणि  
-८।१।७९।४ शुभ्रा ज्योतिश् च देवानां तेजश् च सतत-प्रभः  
-प्रभास्-करो महा-तेजा दीपो ऽयं प्रतिगृह्यताम्  
-८।१।७९।५ त्रिर् देवः  
-८।१।७९।६ इन्द्रियाणि शत-क्रतो त्रीणि पदा योगे-योगे शं नो देवीः  
-८।१।७९।७ शुची वो हव्याः  
-८।१।७९।८ वरुणम् आवाहयामि  
-८।१।७९।९ वाराहम् आवाहयामि  
-  
-८।१।८०।१ नारसिंहम् आवाहयामि  
-८।१।८०।२ वामनम् आवाहयामि  
-८।१।८०।३ त्रिविक्रमम् आवाहयामि  
-८।१।८०।४ श्रियम् आवाहयामि  
-८।१।८०।५ लक्ष्मीम् आवाहयामि  
-८।१।८०।६ सरस्वतीम् आवाहयामि  
-८।१।८०।७ भवम् आवाहयामि  
-८।१।८०।८ विष्णुस् त्वा(ग्)ं रक्षतु शुभ्रा ज्योतिर् योगे-योगे शं नो देवीः  
-८।१।८०।९ ॐ नमो भगवते वासुदेवाय ॐ नमो नारायणाय  
-  
-८।१।८१।१ देवस्य त्वा  
-८।१।८१।२ मरुतः परमात्मा परमा गतिः परं ब्रह्म परं योगम्  
-परमात्मानं मन्ये अजरं यो ऽग्निर् अहम् अन्नं वायवे  
-८।१।८१।३ सोम(ग्)ं राजानम्  
-८।१।८१।४ मरुतो गणानां प्रथमस् सप्तधानां[*८२४] मूर्धा वायो अन्यम् अजर(ग्ग्)ं श्रियम्  
-होतारं वै रयन् त्वाहुर्[*८२५] अग्ने हव्यं मरुद्भ्यः  
-८।१।८१।५ अश्वो ऽसि हयो ऽस्य् अतो[*८२६] ऽसि नरो ऽस्य् अर्वासि सप्तिर् असि वाज्य् असि वृषासि नृमणा असि ययुर् नामास्य् आदित्यानां पत्वान्विहि  
-८।१।८१।६ अतो देवा अग्निम् ईऌए इषे त्वोर्जे त्वाग्न आ याहि शं नो देवीः  
-८।१।८१।७ सोम(ग्)ं राजानम्  
-८।१।८१।८ घृतात् परि मण्ड इवाप्सु स्नेहस् सर्वाधिकस् सर्व-धत्तेषु शर्वः  
-८।१।८१।९ स चेतनश् चेतयते स्व-शक्त्या  
-८।१।८१।१० एको लोकान् गर्भवत् पातु सर्वान्  
-८।१।८१।११ आ वात वाहि भेषजं वि वात वाहि यद् रपः  
-त्व(ग्)ं हि विश्व-भेषजो देवानां दूत ईयसे  
-८।१।८१।१२ देवस्य त्वा  
-८।१।८१।१३ ॐ नमो भगवते वासुदेवाय  
-८।१।८१।१४ ॐ नमो नारायणाय  
-[*८२४] १९८४ एदितिओन्: सप्तथानां  
-[*८२५] १९८४ एदितिओन्: वाहुर्  
-[*८२६] १९४६, १९८४ एदितिओन्स्: अत्यो चोर्रेच्तेद् तो अतो।  च्ड़्। व्म्प् ८।१।१९।३  
-  
-  
-  
-८।०।७ सुक्रतुं भगाय च पुण्याय नमो नार-सिंहाय नमः कुबेराय नमस् सुखावहाय नमस् सनन्दनं प्रपद्ये देवानां वाराहम् आवाहयामि नारायणाय सर्व-धत्तेषु शर्वस् सप्त च  
-  
-८।१।८२।१ अग्निम् ईऌए पुरोहितं यज्ञस्य देवम् ऋत्विजम्  
-होतारं रत्न-धातमम्  
-८।१।८२।२ यन् मधुनो मधव्यम्  
-८।१।८२।३ योगे-योगे शं नो देवीः  
-८।१।८२।४ अथावनीदम्  
-८।१।८२।५ आ मा वाजस्य चित्रं देवानाम् आदित्यम् आवाहयामि  
-८।१।८२।६ भास्-करम् आवाहयामि  
-८।१।८२।७ सूर्यम् आवाहयामि  
-८।१।८२।८ विवस्वन्तम् आवाहयामि  
-  
-८।१।८३।१ आदित्यं प्रपद्ये  
-८।१।८३।२ भास्-करं प्रपद्ये  
-८।१।८३।३ सूर्यं प्रपद्ये  
-८।१।८३।४ मार्ताण्डं प्रपद्ये  
-८।१।८३।५ विवस्वन्तं प्रपद्ये  
-८।१।८३।६ देवस्य त्वा  
-८।१।८३।७ अमृतोपस्तरणम् असि  
-८।१।८३।८ नारायणाय  
-८।१।८३।९ यत् ते सुसीमे हृदयं दिवि चन्द्रमसि श्रितम्  
-८।१।८३।१० तस्यामृतत्वस्येशानो  
-८।१।८३।११ माहं पौत्रम् अघ(ग्)ं रुदम्  
-  
-८।१।८४।१ वेद ते भूमि हृदयं दिवि चन्द्रमसि श्रितम्  
-८।१।८४।२ तथामृतत्वस्येशानो  
-८।१।८४।३ माहं पौत्रम् अघ(ग्)ं रुदम्  
-८।१।८४।४ ॐ नमो नारायणाय  
-८।१।८४।५ तत् सवितुर् वरेण्यम्  
-अहम् अस्मि प्रथम-जा[*८२७]  
-८।१।८४।६ तद् अस्य प्रियम् अभि पाथो अश्यां नरो यत्र देवयवो मदन्ति  
-उरुक्रमस्य स हि बन्धुर् इत्था विष्णोः पदे परमे मध्व उथ्सः  
-८।१।८४।७ सुभूस् स्वयम्-भूः प्रथमं[*८२८] महत्य् अर्णवे दधे ह गर्भम् ऋत्वियम् यतो जातः प्रजा-पतिः  
-८।१।८४।८ विश्व-भेषज(ग्)ं सुभेषजम्  
-८।१।४८।९ यथा स्थित इदं मे विश्व-भेषजम्  
-[*८२७] तु ३।१०।६; त्ब् २।८।८।१; त ९।१०।६।१  (व्च् प्। १४९)  
-[*८२८] व्स्: प्रथमो ऽन्तर्  
-  
-  
-  
-८।१।८५।१ अश्विना प्रावतं युवम्  
-इदम् अह(ग्)ं सेनाया अभीत्वर्यै  
-८।१।८५।२ त्वं जुषज[*८२९] भेषजं वैश्वानराय[*८३०] भेषजम्  
-अथो अस्मभ्यं भेषज(ग्)ं सुभेषजम्  
-८।१।८५।३ इदं विष्णुर् विचक्रमे योगे-योगे त्रिर् देवः  
-८।१।८५।४ त्रीणि पदा  
-८।१।८५।५ समाने वृक्षे पुरुषो निमग्नो इनीशतया शोचति मुह्यमानः  
-जुष्टं यदा पश्यत्य् अन्यम् ईशं तदाभीमानम् एति[*८३१] वीत-शोकः  
-८।१।८५।६ योगे-योगे शन् नो देवीर् विचक्रमे पृथिवी  
-८।१।८५।७ ॐ नमो भगवते वासुदेवाय  
-[*८२९] त्स्: तं जुषस्व रेप्लचेस् त्वं जुषज  
-[*८३०] त्स्: गवे ऽश्वाय पुरुषाय रेप्लचेस् वैश्वानराय  
-[*८३१] श्वेतु, मुण्डु: अस्य महिमानम् इति रेप्लचेस् तदाभीमानम् एति  
-  
-  
-  
-८।१।८६।१ ॐ नमो नारायणाय  
-८।१।८६।२ भूः प्रपद्ये अतो देवा सहस्र-शीर्षा पुरुषस् सहस्र-शीर्षं देवम् एकाक्षरं शुभ्रा ज्योतिः  
-८।१।८६।३ उपावरोह जातवेदः पुनस् त्वं देवेभ्यो हव्यं वह नः प्रजानन्  
-आयुः प्रजा(ग्)ं रयिम् अस्मासु धेह्य् अजस्रो दीदिहि नो दुरोणे  
-८।१।८६।४ तथ् सवितुर् वरेण्यम्  
-८।१।८६।५ चत्वारि शृङ्गा त्रयो अस्य पादा द्वे शीर्षे सप्त हस्तासो अस्य  
-त्रीधा बद्धो वृषभो रोरवीति महो देवो मर्त्या(ग्)ं आ विवेश  
-८।१।८६।६ इन्द्राय नमः  
-८।१।८६।७ ब्रह्मणे नमः  
-८।१।८६।८ सोमाय नमः  
-  
-८।१।८७।१ यथा ह तत्  
-८।१।८७।२ अदिते इनुमन्यस्व  
-८।१।८७।३ अतो देवा इदं विष्णुस् त्रीणि पदा विष्णोः कर्माणि तद् विष्णोः परमं तद् विप्रासः  
-८।१।८७।४ विष्णवे स्वाहा  
-८।१।८७।५ भूर् भुवस् सुवस् स्वाहा  
-८।१।८७।६ अग्निम् ईऌअ इषे त्वोर्जे त्वाग्न आ याहि शं नो देवीः  
-८।१।८७।७ अदिते इन्वम(ग्ग्)ंस्थाः  
-८।१।८७।८ भूतिस् मा ते  
-८।१।८७।९ आदित्यस् सोमो नमः  
-८।१।८७।१० आपो हि ष्ठा मयो-भुवः  
-८।१।८७।११ यत् ते अग्ने  
-८।१।८७।१२ उद् वयन् तमसः  
-८।१।८७।१३ वैश्वानरस्य रूपम्  
-  
-८।०।८ विवस्वन्तम् आवाहयामि पौत्रम् अघ(ग्)ं रुदं विश्व-भेषजं वासुदेवाय सोमाय नमो भुवस् त्रीणि च  
-  
-८।१।८८।१ त्रिर् देवः  
-८।१।८८।२ योगे-योगे शं नो देवीः  
-८।१।८८।३ विश्वान् बलि-रक्षित-सर्व-देवान्  
-तस्माद् बलि(ग्)ं रक्षतु भूतये  
-८।१।८८।४ बलि-रक्षकम् आवाहयामि  
-८।१।८८।५ दन्ड्यम् आवाहयामि  
-८।१।८८।६ सर्व-ज्ञम् आवाहयामि  
-८।१।८८।७ समम् आवाहयामि  
-८।१।८८।८ शत-धार(ग्)ं हिरण्मयम्  
-८।१।८८।९ गरुडम् आवाहयामि  
-  
-८।१।८९।१ रथन्तरम् असि वामदेव्यम् असि बृहद् असि  
-८।१।८९।२ अङ्कौ न्यङ्काव् अभितो रथं यौ ध्वान्तं वाताग्रम् अनु सञ्चरन्तौ  
-दूरे हेतिर् इन्द्रियावान् पतत्री ते नो ऽग्नयः पप्रयः पारयन्तु  
-८।१।८९।३ अयं वाम् अश्विनौ[*८३२] रथो मा दुःखे मा सुखे रिषत्  
-अरिष्ट स्वस्ति गच्छतु विविघ्नन् पृतना यतः  
-८।१।८९।४ इह धृतिर् इह विधृतिर् इह रन्तिर् इह रमतिः  
-८।१।८९।५ स्वस्ति नो मिमीताम्  
-८।१।८९।६ योगेशम् आवाहयामि  
-८।१।८९।७ पर-ब्रह्माणम् आवाहयामि  
-८।१।८९।८ परमात्मानम् आवाहयामि  
-[*८३२] अप्म्ब्: अश्विना  
-  
-  
-८।१।९०।१ भक्त-वत्सलम् आवाहयामि  
-८।१।९०।२ अतो देवा उद्यन्तं वावादित्यं देवस्य त्वा विष्णुस् त्वा(ग्)ं रक्षतु  
-८।१।९०।३ सोम(ग्)ं राजानं मरुतः परमात्मा  
-८।१।९०।४ वायु-परी जल-शयनी स्वयन्-धारा सत्यन्थो परिमेदिनी  
-सोपरि धत्तङ्गाय  
-८।१।९०।५ मणिकाय नमः  
-८।१।९०।६ सन्ध्यायै नमः  
-८।१।९०।७ ये भूताः प्रचरन्ति दिवा नक्तं बलिम् इच्छन्तो वितुदस्य प्रेष्याः  
-तेभ्यो बलिं पुष्टि-कामो हरामि मयि पुष्टिं पुष्टि-पतिर् दधातु  
-८।१।९०।८ विष्णोर् नु कं वीर्याणि सहस्र-शीर्षा पुरुषः  
-८।१।९०।९ ॐ नमो नारायणाय  
-८।१।९०।१० ॐ नमो भगवते वासुदेवाय  
-८।१।९०।११ सूर्यस् त्वा पुरस्तात् पातु कस्याश् चिद् अभिशस्त्याः  
-८।१।९०।१२ उद् वयं तमसः  
-८।१।९०।१३ इह पुष्टिं पुष्टि-पतिर् दधात्व् इह प्रजां रमयतु  
-८।१।९०।१४ प्रजा-पतये पुष्टि-पतये ऽग्नि-पतये रयि-पतये कामायान्नाद्याय  
-८।१।९०।१५ अग्ने नय सुपथा[*८३३] राये अस्मान्  
-[*८३३] तेxत्: सुपधा  
-  
-  
-८।०।९ गरुडम् आवाहयामि परमात्मानम् आवाहयामि पुरुषस् सप्त च  
-  
-८।१।९१।१ विष्णोर् नु कं वीर्याणि इमास् सुमनस इमे गन्धा इमे धूपाश् शुभ्रा ज्योतिः  
-८।१।९१।२ हिरण्य-गर्भस् सम् अवर्तताग्रे भूतस्य जातः पतिर् एक आसीत्  
-स दाधार पृथिवीं द्याम् उतेमां कस्मै देवाय हविषा विधेम  
-८।१।९१।३ ये ते शतम्  
-८।१।९१।४ इदं विष्णुः  
-८।१।९१।५ योगे-योगे  
-८।१।९१।६ शं नो देवीर् विचक्रमे  
-८।१।९१।७ यम् अर्पयन्ति मुनयो हविर् यो ऽजो ऽहिजानिर् विबुधा विराजन्न्  
-तं मयि दोषा यस्याननाग्नौ विपिनानि पतन्तु  
-  
-८।१।९२।१ शेषम् आवाहयामि  
-८।१।९२।२ सहस्र-शीर्षम् आवाहयामि  
-८।१।९२।३ अनन्तम् आवाहयामि  
-८।१।९२।४ नाग-राजम् आवाहयामि  
-८।१।९२।५ यद् वैष्णव(ग्)ं शयने शयानं तत् सह देवैस् सहऋषिभिः  
-तत् सर्व-देवा अनुमन्यतां प्रोक्तो वैष्णवो ऽह(ग्)ं शयितं करोमि  
-८।१।९२।६ त(ग्)ं शयने देवेशं दैत्य-नाशाय तत् सर्व-देवैर् अनुमन्यताम्  
-८।१।९२।७ अविघ्नं पुण्य(ग्)ं सम्पद्यतां तद् भगवान् अनुमन्यताम्  
-८।१।९२।८ यद् वैष्णवत्व(ग्)ं समता(ग्)ं समत्वं वैष्णवो ऽहं वहतां वहामि  
-८।१।९२।९ विष्णोर् अहं जिष्णुम् अहः प्रपद्ये स्वाहा स्वधा वै शिरसा वहामि  
-  
-८।१।९३।१ सिन्धोः पतिं वरुणं मा विदन्तु विष्णुं शयने शाययामि  
-८।१।९३।२ श्रिये जातः श्रियं शयने शाययामि  
-८।१।९३।३ मेदिनी देवी हरिणीं शयने शाययामि  
-८।१।९३।४ अग्निम् ईऌअ इषे त्वोर्जे त्वाग्न आ याहि शं नो देवीः  
-८।१।९३।५ इयं जाग्रतिः प्रथमं प्रविश्य देवा भवन्तु मनु-जा वरेण्यः  
-८।१।९३।६ महात्मन्ने नो हरते नमस् ते  
-८।१।९३।७ अघौघ-विध्वंसम् अमुं कुरुष्व  
-  
-८।१।९४।१ भूर् अग्नये च पृथिव्यै च महते च नमो भुवो वायवे चान्तरिक्षाय च महते च नमस् सुवर् आदित्याय च दिवे च महते च नमो भूर् भुवस् सुवश् चन्द्रमसे च नक्षत्रेभ्यश् च दिग्भ्यश् च महते च नमः[*८३४]  
-८।१।९४।२ यज्ञेन यज्ञम् अयजन्त देवाः तानि धर्माणि प्रथमान्य् आसन्  
-ते ह नाकं महिमानस् सचन्ते यत्र पूर्वे साध्यास् सन्ति देवाः  
-८।१।९४।३ यः प्राणतो निमिषतो महित्वैक इद् राजा जगतो बभूव  
-य ईशे अस्य द्वि-पदश् चतुष्-पदः कस्मै देवाय हविषा विधेम  
-८।१।९४।४ शुक्रन् त्वा शुक्रायां धाम्ने-धाम्ने देवेभ्यो यजुषे-यजुषे गृह्णामि  
-ज्योतिस् त्वा ज्योतिष्य् अर्चिस् त्वार्चिषि धाम्ने-धाम्ने देवेभ्यो यजुषे-यजुषे गृह्णामि  
-८।१।९४।५ नमो ब्रह्मणे नमो अस्त्व् अग्नये नमः पृथिव्यै नम ओषधीभ्यः  
-नमो वाचे नमो वाचस्-पतये नमो विष्णवे बृहते करोमि  
-[*८३४] त, महानु गिवे स्वाहा इन् प्लचे ओड़् नमः इन् थिस् वेर्से।  च्ड़्।  व्म्प् ६।११।७  
-  
-  
-८।१।९५।१ आ त्वाहार्षम् अन्तर् अभूः  
-८।१।९५।२ ॐ अर्चितस् सुष्टुतश् चापि सुपर्ण-गरुड-ध्वज  
-चक्र-पाणे महा-बाहो यथेष्टं वस ॐ नमः  
-८।१।९५।३ सहस्र-शीर्षा पुरुषः  
-८।१।९५।४ विष्णोर् नु कं वीर्याणि  
-८।१।९५।५ सहस्र-शीर्षं देवम्  
-८।१।९५।६ नारायणाय  
-८।१।९५।७ अतो देवा  
-८।१।९५।८ ॐ नमो नारायणाय  
-८।१।९५।९ ॐ नमो भगवते वासुदेवाय  
-८।१।९५।१० सूर्यस् त्वा पुरस्तात् पातु कस्याश् चिद् अभिशस्त्याः  
-  
-८।०।१० विपिनानि पतन्तु शिरसा वहाम्य् अमुं कुरुष्व बृहते करोमि वासुदेवायैकञ् च  
-  
-८।१।९६।१ आशासु सप्तसु  
-८।१।९६।२ सोम(ग्)ं राजानम्  
-८।१।९६।३ स्व्-आस-स्थं देवेभ्यः  
-८।१।९६।४ तत्थ् सवितुः  
-८।१।९६।५ सुमित्रा न आप ओषधयस् सन्तु दुर्मित्रास् तस्मै भूयासुर् यो ऽस्मान् द्वेष्टि यञ् च वयं द्विष्मः  
-८।१।९६।६ हिरण्य-पाणिम् ऊतये सवितारम् उप ह्वये  
-स चेत्ता देवता पदम्  
-८।१।९६।७ देवस्य त्वा  
-८।१।९६।८ ॐ भूर् भुवस् सुवः  
-८।१।९६।९ इन्द्रं नरो नेमधिता हवन्ते यत् पार्या युनजते धियस् ताः  
-शूरो नृ-षाता शवसश् चकान आ गो-मति व्रजे भजा त्वं नः[*८३५]  
-[*८३५] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् ९७।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् ९६।  
-  
-८।१।९७।१ इषे त्वोर्जे त्वा  
-८।१।९७।२ शुची वो हव्या इमे धूपाः  
-८।१।९७।३ धारासु सप्तसु  
-८।१।९७।४ इदम् आपश् शिवाः  
-८।१।९७।५ अप उन्दन्तु जीवसे  
-८।१।९७।६ आपो वा इद(ग्)ं सर्वम्  
-८।१।९७।७ धारासु सप्तसु  
-८।१।९७।८ उद् उ त्यं चित्रम्  
-८।१।९७।९ इन्द्रा-विष्णू हविषा वावृधानाग्राध्वाना नमसा रातहव्या  
-घृतासुती द्रविणं धत्तम् अस्मे समुद्र-स्थः कलशस् सोम-धानः[*८३६]  
-[*८३६] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् ९८।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् ९७।  
-  
-  
-८।१।९८।१ शुक्रन् ते अन्यद् यजतम् ते अन्यद् विषु-रूपे अहनी द्यौर् इवासि  
-विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्न् इह रातिर् अस्तु  
-८।१।९८।२ सोम ओषधीनां वरुणो बृहस्पतिः  
-८।१।९८।३ प्रजा-पते न त्वद् एतानि॥।[*८३७]  
-८।१।९८।४ अन्ये देवा नीरदाः  
-८।१।९८।५ श(ग्)ं सा नि[यच्छत्य्] नमस् सुलोम स एको ऽभूद् देवस्य त्वा  
-८।१।९८।६ अतो देवा क्ष्माम् एकान् तन् मा यशो ऽग्रे ब्रह्मा देवानाम्  
-८।१।९८।७ इदं विष्णुः  
-८।१।९८।८ शुक्रम् असि ज्योतिर् असि तेजो ऽसि देवो वस् सवितोत्पुनात्व् अच्छिद्रेण पवित्रेण वसोस् सूर्यस्य रश्मिभिश्  
-शुक्रन् त्वा शुक्रायां धाम्ने-धाम्ने देवेभ्यो यजुषे-यजुषे गृह्णामि ज्योतिस् त्वा ज्योतिष्य् अर्चिस् त्वार्चिषि धाम्ने-धाम्ने देवेभ्यो यजुषे-यजुषे ग्र्ह्णामि  
-[*८३७] तेxत्: एतान् चोर्रेच्तेद् तो एतानि  
-  
-  
-८।१।९९।१  दधिक्राव्णो[*८३८] अकारिषं जिष्णोर् अश्वस्य वाजिनः  
-सुरभि नो मुखा करत् प्र ण आयू(ग्)ंषि तारिषत्  
-८।१।९९।२ आ प्यायस्व सम् एतु ते विश्वतस् सोम वृष्णियम्[*८३९]  
-भवा वाजस्य सङ्गथे[*८४०]  
-८।१।९९।३ गन्ध-द्वारान् दुराधर्षां नित्य-पुष्टां करीषिणीम्  
-ईश्वरी(ग्)ं सर्व-भूतानां ताम् इहोप ह्वये श्रियम्  
-८।१।९९।४ तथ् सवितुर् वरेण्यम्  
-८।१।९९।५ त्र्य्-अम्बकम्  
-८।१।९९।६ स्वादिष्ठया मदिष्ठया पवस्व सोम धारया  
-इन्द्राय पातवे सुतः  
-[*८३८] तेxत्: दधिक्राव्ण्णो  
-[*८३९] व्म्प् हस् मेत्रिचल् इ।  
-[*८४०] तेxत्: सङ्गधे  
-  
-  
-  
-८।१।१००।१ घृत-प्रतीको घृत-योनिर् अग्निर् घृतैस् समिद्धो घृतम् अस्यान्नम्  
-घृत-पृषस् त्वा सरितो वहन्ति घृतं पिबन्थ् सुयजा यक्षि देवान्  
-८।१।१००।२ यन् मधुनो मधव्यम् परमम् अन्नाद् यं वीर्यम्  
-तेनाहं मधुनो मधव्येन परमेणान्नाद्येन वीर्येण परमो ऽन्नादो मधव्यो ऽसानि  
-८।१।१००।३ दधिक्राव्णः[*८४१]  
-८।१।१००।४ शं नो देवीर् आ प्यायस्व  
-८।१।१००।५ गन्ध-द्वाराम् इमा ओषधयः  
-८।१।१००।६ सोम(ग्)ं राजानम्  
-८।१।१००।७ यतस्[*८४२] स्वम् आसीद् अतो देवा  
-८।१।१००।८ ब्रह्मा देवानाम्  
-[*८४१] तेxत्: दधिक्राव्ण्णः  
-[*८४२] तेxत्: यत  
-  
-  
-  
-८।१।१०१।१ चित्रन् देवानाम् इमास् सुमनसः  
-८।१।१०१।२ वन्द्यो[*८४३] न एष वसुषु निदध्यात्  
-त्रि-धा त्रि-धामा बिभृयाद् अदीनान्  
-८।१।१०१।३ ये ते शतं वारीश् चतस्रः  
-८।१।१०१।४ रुद्रम् अन्यं सिनीवालीमे गन्धाः  
-८।१।१०१।५ तत्-पुरुषाय विद्महे महा-देवाय धीमहि  
-तन् नो रुद्रः प्रचोदयात्  
-८।१।१०१।६ नारायणाय  
-८।१।१०१।७ ॐ जयाम् आवाहयामि  
-८।१।१०१।८ इन्द्रं प्रणयन्तम्  
-[*८४३] १९८४ एदितिओन्: वन्ध्यो  
-  
-  
-८।१।१०२।१ ऋचो यजू(ग्)ंषि प्रैषाम् अधीशश् शत-धार(ग्)ं हिरण्मयम्  
-८।१।१०२।२ कनिक्रदज् जनुषम्  
-८।१।१०२।३ परं रंह आस्थास्ये  
-८।१।१०२।४ ॐ सुवर् भुवर् भूः  
-८।१।१०२।५ त्रीणि पदा शं नो देवीः  
-८।१।१०२।६ कृणुष्व पाजस् स्वस्ति-दा विशस्-पतिः  
-८।१।१०२।७ वेदाहम् एतं यद् वैष्णव(ग्)ं शयने शयानम्  
-८।१।१०२।८ अग्निम् ईऌए इषे त्वोर्जे त्वाग्न आ याहि शं नो देवीः  
-८।१।१०२।९ आपो हि ष्ठा मयो-भुवः  
-८।१।१०२।१० हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-  
-८।१।१०३।१ भूमिर् भूम्ना  
-८।१।१०३।२ ॐ भूमिम् आवाहयामि  
-८।१।१०३।३ उर्वीम् आवाहयामि  
-८।१।१०३।४ धरणीम् आवाहयामि  
-८।१।१०३।५ रत्न-गर्भाम् आवाहयामि  
-८।१।१०३।६ हरिणीम् आवाहयामि  
-८।१।१०३।७ पौष्णीम् आवाहयामि  
-८।१।१०३।८ क्षोणीम् आवाहयामि  
-८।१।१०३।९ महीम् आवाहयामि  
-८।१।१०३।१० अग्ने नय सुपथा राये अस्मान्  
-  
-८।१।१०४।१ अग्निम् आवाहयामि  
-८।१।१०४।२ जात-वेदसम् आवाहयामि  
-८।१।१०४।३ सहोजसम् आवाहयामि  
-८।१।१०४।४ अजिरा-प्रभम् आवाहयामि  
-८।१।१०४।५ वैश्वाणरम् आवाहयामि  
-८।१।१०४।६ नर्यापसम् आवाहयामि  
-८।१।१०४।७ पङ्क्ति-राधसम् आवाहयामि  
-८।१।१०४।८ विसर्पिणम् आवाहयामि  
-८।१।१०४।९ मरुतः परमात्मा  
-८।१।१०४।१० वायुम् आवाहयामि  
-  
-८।१।१०५।१ जवनम् आवाहयामि  
-८।१।१०५।२ भूतात्मकम् आवाहयामि  
-८।१।१०५।३ उदानम् आवाहयामि  
-८।१।१०५।४ शत-धार(ग्)ं हिरण्मयम्  
-८।१।१०५।५ तार्क्ष्यम् आवाहयामि  
-८।१।१०५।६ पक्षि-रूपम् आवाहयामि  
-८।१।१०५।७ सुपर्णम् आवाहयामि  
-८।१।१०५।८ अङ्कुराधिपम् आवाहयामि  
-८।१।१०५।९ इन्द्रं प्रणयन्तम्  
-८।१।१०५।१० इन्द्रम् आवाहयामि  
-  
-८।१।१०६।१ शची-पतिम् आवाहयामि  
-८।१।१०६।२ पुरु-हूतम् आवाहयामि  
-८।१।१०६।३ पुरन्-दरम् आवाहयामि  
-८।१।१०६।४ हरि-हयम् आवाहयामि  
-८।१।१०६।५ वज्र-पाणिम् आवाहयामि  
-८।१।१०६।६ अर्यम्णम् आवाहयामि  
-८।१।१०६।७ त्रि-लोकाधिपम् आवाहयामि  
-८।१।१०६।८ रुद्रम् अन्यम्  
-८।१।१०६।९ पञ्च-गव्यम् आवाहयामि  
-८।१।१०६।१० शिवम् आवाहयामि  
-  
-८।१।१०७।१ ईशम् आवाहयामि  
-८।१।१०७।२ अव्यक्तम् आवाहयामि  
-८।१।१०७।३ विश्वे देवाश् शृणुतेम(ग्)ं हवं मे ये अन्तरिक्षे य उप द्यवि ष्ठ  
-ये अग्नि-जिह्वा उत वा यजत्रा आसद्यास्मिन् बर्हिषि मादयध्वम्  
-८।१।१०७।४ विश्वान् देवान् आवाहयामि  
-८।१।१०७।५ सर्वान् देवान् आवाहयामि  
-८।१।१०७।६ विश्व-पुत्रान् आवाहयामि  
-८।१।१०७।७ धर्म-सूनुकान् आवाहयामि  
-८।१।१०७।८ अग्न आ याहि  
-८।१।१०७।९ घृतम् आवाहयामि  
-  
-८।१।१०८।१ साम-वेदम् आवाहयामि  
-८।१।१०८।२ वज्रम् आवाहयामि  
-८।१।१०८।३ यज्ञम् आवाहयामि  
-८।१।१०८।४ संवथ्सरो ऽसि परिवथ्सरो ऽसीदावथ्सरो ऽसीदुवथ्सरो ऽसि  
-इद्वथ्सरो ऽसि वथ्सरो ऽसि तस्य ते वसन्तश् शिरः  
-८।१।१०८।५ वथ्सरान् आवाहयामि  
-८।१।१०८।६ वसु-सुतान् आवाहयामि  
-८।१।१०८।७ निधीन् आवाहयामि  
-८।१।१०८।८ धर्म-सूनुकान् आवाहयामि  
-८।१।१०८।९ अग्निम् ईऌए  
-  
-८।१।१०९।१ मधु आवाहयामि  
-८।१।१०९।२ ऋग्-वेदम् आवाहयामि  
-८।१।१०९।३ सोमम् आवाहयामि  
-८।१।१०९।४ क्रतुम् आवाहयामि  
-८।१।१०९।५ मरुतः परमात्मा  
-८।१।१०९।६ प्राणम् आवाहयामि  
-८।१।१०९।७ अपानम् आवाहयामि  
-८।१।१०९।८ व्यानम् आवाहयामि  
-८।१।१०९।९ उदानम् आवाहयामि  
-८।१।१०९।१० समानम् आवाहयामि  
-  
-८।१।११०।१ इषे त्वोर्जे त्वा  
-८।१।११०।२ दधि आवाहयामि  
-८।१।११०।३ यजुर्-वेदम् आवाहयामि  
-८।१।११०।४ इष्टम् आवाहयामि  
-८।१।११०।५ मिश्रम् आवाहयामि  
-८।१।११०।६ त्र्य्-अम्बकं यजामहे  
-८।१।११०।७ ईशानम् आवाहयामि  
-८।१।११०।८ कपालिनम् आवाहयामि  
-८।१।११०।९ भवम् आवाहयामि  
-८।१।११०।१० सुहा-देवम् आवाहयामि  
-  
-८।१।१११।१ शं नो देवीः क्षीरम् आवाहयामि  
-८।१।१११।२ अथर्व-वेदम् आवाहयामि  
-८।१।१११।३ पवित्रम् आवाहयामि  
-८।१।१११।४ पुण्यम् आवाहयामि  
-८।१।१११।५ तद् अश्विनाव् अश्व-युजोपयातां शुभं गमिष्ठौ सुयमेभिर् अश्वैः  
-स्वं नक्षत्र(ग्)ं हविषा यजन्तौ मध्वा सम्पृक्तौ यजुषा समक्तौ  
-८।१।१११।६ अश्विनाव् आवाहयामि  
-८।१।१११।७ मरुताव् आवाहयामि  
-८।१।१११।८ युग्मम् आवाहयामि  
-  
-८।१।११२।१ त्वाष्ट्र[*८४४]-पुत्राव् आवाहयामि  
-८।१।११२।२ वसन्तेनर्तुना देवाः वसवस् त्रि-वृता स्तुतम्  
-रथन्तरेण तेजसा हविर् इन्द्रे वयो दधुः[*८४५]  
-८।१।११२।३ शड् ऋतून् आवाहयामि  
-८।१।११२।४ सह-राशीन् आवाहयामि  
-८।१।११२।५ गन्धान् आवाहयामि  
-८।१।११२।६ तीर्थान् आवाहयामि  
-८।१।११२।७ आ वायो भूष शुचिपा उप नस् सहस्रन् ते नियुतो विश्व-वार  
-उपो ते अन्धो[*८४६] मद्यम् अयामि यस्य देव दधिषे पूर्व-पेयम्  
-[*८४४] १९४६ एदितिओन्: त्वाष्ट्री  
-[*८४५] तेxत्: दथुः  
-[*८४६] तेxत्: अन्थो  
-  
-  
-  
-८।१।११३।१ मरुतान् आवाहयामि  
-८।१।११३।२ लोक-धरान् आवाहयामि  
-८।१।११३।३ सप्त-सप्त-गणान् आवाहयामि  
-८।१।११३।४ मरुद्वती-सुतान् आवाहयामि  
-८।१।११३।५ प्रजा-पतिं प्रथमं यज्ञियानाम्  
-८।१।११३।६ अक्षतान् आवाहयामि  
-८।१।११३।७ काश्यपम् आवाहयामि  
-८।१।११३।८ अनन्तम् आवाहयामि  
-८।१।११३।९ विश्व-मूर्तिम् आवाहयामि  
-८।१।११३।१० बृहस्पते अति यत्  
-  
-८।१।११४।१ बृहस्पतिम् आवाहयामि  
-८।१।११४।२ पीत-वर्णम् आवाहयामि  
-८।१।११४।३ गुरुम् आवाहयामि  
-८।१।११४।४ तैष्यम् आवाहयामि  
-८।१।११४।५ सोमो धेनुम् फलोदकम् आवाहयामि  
-८।१।११४।६ सोमम् आवाहयामि  
-८।१।११४।७ पुण्यम् आवाहयामि  
-८।१।११४।८ अमितम् आवाहयामि  
-८।१।११४।९ शं नो निधत्ताम्  
-  
-८।१।११५।१ नाग-राजम् आवाहयामि  
-८।१।११५।२ सहस्र-शीर्षम् आवाहयामि  
-८।१।११५।३ अनन्तम् आवाहयामि  
-८।१।११५।४ वासुकिम् आवाहयामि  
-८।१।११५।५ यतस्[*८४७] स्वम् आसीत्  
-८।१।११५।६ कुशान् आवाहयामि  
-८।१।११५।७ तपो-नथान्[*८४८] आवाहयामि  
-८।१।११५।८ मुनीन् आवाहयामि  
-८।१।११५।९ पाप-विनाशिन आवाहयामि  
-८।१।११५।१० यम् अर्पयन्ति  
-[*८४७] तेxत्: यत  
-[*८४८] १९८४ एदितिओन्: तपो-धना  
-  
-  
-  
-८।१।११६।१ तक्षकम् आवाहयामि  
-८।१।११६।२ सर्प-राजम् आवाहयामि  
-८।१।११६।३ क्षिति-जम् आवाहयामि  
-८।१।११६।४ धराधरम् आवाहयामि  
-८।१।११६।५ इदं विष्णुः  
-८।१।११६।६ रत्नम् आवाहयामि  
-८।१।११६।७ विष्णुम् आवाहयामि  
-८।१।११६।८ व्यापिनम् आवाहयामि  
-८।१।११६।९ विश्वम् आवाहयामि  
-८।१।११६।१० अप्सरस्सु यो गन्धो गन्धर्वेषु च यद् यशः  
-दैवो यो मानुषो गन्धस् स मा गन्धस् सुरभिर् जुषताम्[*८४९]  
-[*८४९] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् ११७।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् ११६।  
-  
-८।१।११७।१ गन्धर्वान् आवाहयामि  
-८।१।११७।२ रम्यान् आवाहयामि  
-८।१।११७।३ स्वर-जान् आवाहयामि  
-८।१।११७।४ सौम्य-जान् आवाहयामि  
-८।१।११७।५ यद् देवानां चक्षुष्य् आगो अस्ति यद् एव किञ्च प्रतिजग्राहम् अग्निर् मा तस्माद् अनृणं कृणोतु  
-८।१।११७।६ जप्यम् आवाहयामि  
-८।१।११७।७ पवित्रम् आवाहयामि  
-८।१।११७।८ मन्त्रम् आवाहयामि  
-८।१।११७।९ शुद्धम् आवाहयामि  
-  
-८।१।११८।१ इह पुष्टिं पुष्टि-पतिर् दधातु  
-८।१।११८।२ विद्या-धरान् आवाहयामि  
-८।१।११८।३ मन्त्र-बलान् आवाहयामि  
-८।१।११८।४ पुष्प-जान् आवाहयामि  
-८।१।११८।५ भोग-जान् आवाहयामि  
-८।१।११८।६ चित्रन् देवानाम्  
-८।१।११८।७ सर्वौषधम् आवाहयामि  
-८।१।११८।८ आदित्यम् आवाहयामि  
-८।१।११८।९ अण्ड-जम् आवाहयामि  
-८।१।११८।१० सूर्यम् आवाहयामि  
-  
-८।१।११९।१ अप्सरासु या मेधा गन्धर्वेषु च यन् मनः  
-दैवी मेधा मनुष्य-जा सा मां मेधा सुरभिर् जुषताम्  
-८।१।११९।२ अप्सरस आवाहयामि  
-८।१।११९।३ मुदावहा आवाहयामि  
-८।१।११९।४ भोगवहा आवाहयामि  
-८।१।११९।५ स्वप्न-जा आवाहयामि  
-८।१।११९।६ धातास्य विश्वं हि बिभर्ति यो वै  
-पुष्पाणि रक्षन्न् इह जीव-लोके  
-८।१।११९।७ धातारम् आवाहयामि  
-८।१।११९।८ सुर-ज्येष्ठम् आवाहयामि  
-  
-८।१।१२०।१ परमेष्ठिनम् आवाहयामि  
-८।१।१२०।२ चतुराननम् आवाहयामि  
-८।१।१२०।३ भूमान् अन्तो ऽग्रे चक्रम् आवाहयामि  
-८।१।१२०।४ सुदर्शनम् आवाहयामि  
-८।१।१२०।५ सहस्र-विकचम् आवाहयामि  
-८।१।१२०।६ अनपायिनम् आवाहयामि  
-८।१।१२०।७ उद् उत्तमम्  
-८।१।१२०।८ वरुणम् आवाहयामि  
-८।१।१२०।९ प्रचेतसम् आवाहयामि  
-  
-८।१।१२१।१ रक्ताम्बर-धरम् आवाहयामि  
-८।१।१२१।२ यादस्-पतिम् आवाहयामि  
-८।१।१२१।३ जगद्-भुवम्  
-८।१।१२१।४ जगद्-भुवम् आवाहयामि  
-८।१।१२१।५ यजद्-भुवम् आवाहयामि  
-८।१।१२१।६ विश्व-भुवम् आवाहयामि  
-८।१।१२१।७ ब्रह्म-भुवम् आवाहयामि  
-८।१।१२१।८ रुद्र-भुवम् आवाहयामि  
-८।१।१२१।९ भुवद्-भुवम् आवाहयामि  
-८।१।१२१।१० रुद्रम् अन्यम्  
-  
-८।१।१२२।१ रुद्रम् आवाहयामि  
-८।१।१२२।२ ओषधीशान् आवाहयामि  
-८।१।१२२।३ त्र्य्-अम्बकम् आवाहयामि  
-८।१।१२२।४ कपालिनम् आवाहयामि  
-८।१।१२२।५ सिनीवालि-पृथुष्टुके  
-८।१।१२२।६ सिनीवालिम् आवाहयामि  
-८।१।१२२।७ गभस्तिनीम् आवाहयामि  
-८।१।१२२।८ हित-दाम् आवाहयामि  
-८।१।१२२।९ पुण्य-दाम् आवाहयामि  
-८।१।१२२।१० त्रातारम् इन्द्रम्  
-  
-८।१।१२३।१ इन्द्रम् आवाहयामि  
-८।१।१२३।२ भोगम् आवाहयामि  
-८।१।१२३।३ गन्धम् आवाहयामि  
-८।१।१२३।४ शत-क्रतुम् आवाहयामि  
-८।१।१२३।५ हिरण्य-गर्भस् सम् अवर्तताग्रे  
-८।१।१२३।६ त्वष्टारम् आवाहयामि  
-८।१।१२३।७ रूप-जातम् आवाहयामि  
-८।१।१२३।८ निधि-जम् आवाहयामि  
-८।१।१२३।९ प्लोताधिपम् आवाहयामि  
-८।१।१२३।१० प्रजा-पते त्वं निधि-पाः पुराणो देवानां पिता जनिता प्रजानाम्  
-पतिर् विश्वस्य जगतः परस्पा हविर् नो देव विहवे जुषस्व[*८५०]  
-[*८५०] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् १२४।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् १२३।  
-  
-  
-८।१।१२४।१ प्रजा-पतिम् आवाहयामि  
-८।१।१२४।२ स्रष्टारम् आवाहयामि  
-८।१।१२४।३ वेद-मयम् आवाहयामि  
-८।१।१२४।४ ब्रह्म-रूपम् आवाहयामि  
-८।१।१२४।५ जातवेदसे सुनवाम सोमम् अरातीयतो नि दहाति वेदः  
-स नः पर्षद् अति दुर्गाणि विश्वा नावेव सिन्धुं दुरितात्य् अग्निः  
-८।१।१२४।६ दुर्गाम् आवाहयामि  
-८।१।१२४।७ कात्यायनीम् आवाहयामि  
-८।१।१२४।८ वैष्णवीम् आवाहयामि  
-  
-८।१।१२५।१ विन्ध्य-वासिनीम् आवाहयामि  
-८।१।१२५।२ आ सत्येन  
-८।१।१२५।३ आदित्यम् आवाहयामि  
-८।१।१२५।४ काश्यपम् आवाहयामि  
-८।१।१२५।५ भास्करम् आवाहयामि  
-८।१।१२५।६ सूर्यम् आवाहयामि  
-८।१।१२५।७ या ते धामानि दिवि या पृथिव्यां या पर्वतेष्व् ओषधीष्व् अप्सु  
-तेभिर् नो विश्वैस् सुमना अहेदन् राजन्थ्[*८५१] सोम प्रति हव्या गृभाय  
-८।१।१२५।८ निशाकरम् आवाहयामि  
-८।१।१२५।९ चन्द्रम् आवाहयामि  
-[*८५१] र्व्: राजन्  
-  
-  
-८।१।१२६।१ आत्रेयम् आवाहयामि  
-८।१।१२६।२ इन्दुम् आवाहयामि  
-८।१।१२६।३ जगद्-भुवस् सुब्रह्मण्यः कृत्तिका-सुतः षष्टिकाय  
-८।१।१२६।४ कुमारम् आवाहयामि  
-८।१।१२६।५ शक्ति-धरम् आवाहयामि  
-८।१।१२६।६ शिखि-वाहम् आवाहयामि  
-८।१।१२६।७ षड्-आननम् आवाहयामि  
-८।१।१२६।८ अग्निं दूतम्  
-८।१।१२६।९ अग्निम् आवाहयामि  
-  
-८।१।१२७।१ जातवेदसम् आवाहयामि  
-८।१।१२७।२ पावकम् आवाहयामि  
-८।१।१२७।३ हुताशनम् आवाहयामि  
-८।१।१२७।४ रक्षस्व त्वं महा-बाहो सम्पूर्णान् देव-पूरितान्  
-ईडितांस् त्रि-दशैस् तीर्थैः पवित्रान् उत्तमाञ् छुभान्  
-८।१।१२७।५ हर स्वेदं वरं दिव्यं कलशं समलङ्कृतम्  
-नव-द्वय-गणैः पूज्यं पुरुषाय समानय  
-८।१।१२७।६ एकाक्षरम्  
-८।१।१२७।७ विष्णुं मृदा स्नापयामि  
-८।१।१२७।८ विश्वे निमग्नः  
-  
-८।१।१२८।१ विष्णुं पर्वतेन प्रदक्षिणं कारयामि  
-८।१।१२८।२ प्राण प्रसूतिः  
-८।१।१२८।३ विष्णुं धान्यैस् स्नापयामि  
-८।१।१२८।४ वितत्य बानम्  
-८।१।१२८।५ विष्णुम् अङ्कुरैर् अर्चयामि  
-८।१।१२८।६ त्वं वज्र-भृत्  
-८।१।१२८।७ विष्णुं मङ्गलेन[*८५२] प्रदक्षिणं कारयामि  
-८।१।१२८।८ वसोः पवित्रम् असि  
-८।१।१२८।९ विष्णुं पञ्च-गव्येन स्नापयामि  
-८।१।१२८।१० वारीश् चतस्रः  
-[*८५२] तेxत्: मङ्गऌएन  
-  
-  
-८।१।१२९।१ विष्णुम् उपस्नानेन स्नापयामि  
-८।१।१२९।२ आपो हि ष्ठा मयो-भुवः  
-८।१।१२९।३ विष्णुम् उष्णोदकेन स्नापयामि  
-८।१।१२९।४ अग्न आ याहि  
-८।१।१२९।५ विष्णुं घृतेन स्नापयामि  
-८।१।१२९।६ अग्निम् ईऌए  
-८।१।१२९।७ विष्णुं मधुना स्नापयामि  
-८।१।१२९।८ इषे त्वोर्जे त्वा  
-८।१।१२९।९ विष्णुं दध्ना स्नापयामि  
-८।१।१२९।१० शं नो देवीः  
-  
-८।१।१३०।१ विष्णुं क्षीरेण स्नापयामि  
-८।१।१३०।२ अभि त्वा शूर  
-८।१।१३०।३ विष्णुं गन्धोदकेन स्नापयामि  
-८।१।१३०।४ इमा ओषधयः  
-८।१।१३०।५ विष्णुम् अक्षतोदकेन स्नापयामि  
-८।१।१३०।६ जपन् दत्वानुवदेम साम सोमान्ध्य मान्दोः  
-कर्मण्य् अन्ध मान्धो निनतु  
-८।१।१३०।७ विष्णुं फलोदकेन स्नापयामि  
-८।१।१३०।८ चत्वारि वाक्  
-८।१।१३०।९ विष्णुं कुशोदकेन स्नापयामि  
-  
-८।१।१३१।१ नारायणाय  
-८।१।१३१।२ विष्णुं रत्नोदकेन स्नापयामि  
-८।१।१३१।३ पूतस् तस्य  
-८।१।१३१।४ विष्णुं जप्योदकेन स्नापयामि  
-८।१।१३१।५ चत्वारि शृङ्गा त्रयो अस्य पादाः  
-८।१।१३१।६ विष्णुं सर्वौशध्य्-उदकेन स्नापयामि  
-८।१।१३१।७ धाता विधाता  
-८।१।१३१।८ विष्णुं पुण्य-पुष्पैर् अर्चयामि  
-८।१।१३१।९ ऋचो यजू(ग्)ंषि  
-८।१।१३१।१० विष्णुं जाती-फलादि-चूर्नेन स्नापयामि  
-  
-८।१।१३२।१ स एष देवो ऽम्बर-यान-चक्रे विष्णुं कषाय-चूर्णेनोद्वर्तयामि  
-८।१।१३२।२ स सर्व-वेत्ता  
-८।१।१३२।३ विष्णुं तीर्थोदकैस् स्नापयामि  
-८।१।१३२।४ सामैश् च साङ्गम्  
-८।१।१३२।५ विष्णुं वनौषधीभिर् मार्जयामि  
-८।१।१३२।६ अतो देवा  
-८।१।१३२।७ विष्णुं हरिद्रा-चूर्णेन स्नापयामि  
-८।१।१३२।८ त्व(ग्ग्)ं स्त्री पुमान्  
-८।१।१३२।९ विष्णुं सर्व-गन्धेनोद्वर्तयामि  
-  
-८।१।१३३।१ आपो हि ष्ठा मयो-भुवः  
-८।१।१३३।२ विष्णुम् उष्णोदकेन स्नापयामि  
-८।१।१३३।३ सहस्र-शीर्षा पुरुषः  
-८।१।१३३।४ विष्णुं शुद्धोदकेन स्नापयामि  
-८।१।१३३।५ योगे-योगे शं नो देवीः  
-८।१।१३३।६ मित्रस् सुपर्णः  
-८।१।१३३।७ विष्नुं प्लोतेन विमृजामि  
-८।१।१३३।८ तेजो वत्स्यावस् सोमस्य तनूर् असि भूतो भूतेषु चरति प्रविष्ठः  
-८।१।१३३।९ अग्निं दूतम्  
-८।१।१३३।१० त्वं भूर् भुवस् त्वम्  
-८।१।१३३।११ विष्णुं मूल-गन्धेन मार्जयामि  
-८।१।१३३।१२ बुद्धिमतां पराङ् गतिम्  
-८।१।१३३।१३ विष्णुं धातुभिर् अलङ्करोमि  
-८।१।१३३।१४ कनिक्रदज् जनुषम्  
-  
-८।०।११ धियस् ता रातहव्या यजुषे गृह्णामि पातवे सुतर् देवानां प्रणयन्तं सुवर्-जन अग्ने नय सुपथा राये अस्मान् वायुम् आवाहयामीन्द्रम् आवाहयामि शिवम् आवाहयामि घृतम् आवाहयाम्य् अग्निम् ईऌए समानम् आवाहयामि महा-देवम् आवाहयामि युग्मम् आवाहयामि पूर्व-पेयम् अति यच् छं नो निधत्तां यम् अर्पयन्ति यशश् शुद्धम् आवाहयामि सूर्यम् आवाहयामि सुर-ज्येष्ठम् आवाहयामि प्रचेतसम् आवाहयामि रुद्रम् अन्यं त्रातारम् इन्द्रं प्रजानां वैष्णवीम् आवाहयामि चन्द्रम् आवाहयाम्य् अग्निम् आवाहयामि विश्वे निमग्न वारीश् चतस्रश् शं नो देवीः कुशोदकेन स्नापयामि चूर्णेन स्नापयामि गन्धेनोद्वर्तयाम्य् अग्निं दूतं पञ्च च  
-  
-८।१।१३४।१ वास्तोष्-पते दद्भ्यस् स्वाहा  
-८।१।१३४।२ शत-धारं कदापि सृजते  
-८।१।१३४।३ आसाग्र अग्र ओजो-बलाय  
-८।१।१३४।४ अतो देवा इदं विष्णुः  
-८।१।१३४।५ आपो हि ष्ठा मयो-भुवः  
-८।१।१३४।६ धारासु सप्तसु  
-८।१।१३४।७ इदम् आपश् शिवाः  
-८।१।१३४।८ आपो वा इद(ग्)ं सर्वं  
-८।१।१३४।९ नारायणाय  
-  
-८।१।१३५।१ तत्-पुरुषाय विद्महे सुपर्ण-पक्षाय धीमहि  
-तं नो गरुडः प्रचोदयात्  
-८।१।१३५।२ इषे त्वोर्जे त्वा  
-८।१।१३५।३ आप उन्दन्तु  
-८।१।१३५।४ सहस्र-शीर्षा पुरुषः  
-८।१।१३५।५ अतो देवा इदं विष्णुः  
-८।१।१३५।६ आपो हि ष्ठा मयो-भुवः  
-८।१।१३५।७ हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-८।१।१३५।८ शं नो देवीस् सहस्र-शीर्षा पुरुषः  
-८।१।१३५।९ अतो देवा इदं विष्णुः  
-  
-८।१।१३६।१ आत्मात्मा धारासु सप्तसु  
-८।१।१३६।२ वैनतेयो महा-वीर्यः काश्यपो ऽग्नि-सम-प्रभः  
-आयातु भगवान् राजा सर्प-जिद् विष्णु-वाहनः  
-८।१।१३६।३ शत-धारं कदापि सृजते  
-८।१।१३६।४ आपो हि ष्ठा मयो-भुवः  
-८।१।१३६।५ हिरण्य-वर्णाः पवमानस् सुवर्-जनः  
-८।१।१३६।६ स्वस्ति-दा विशस्-पतिः  
-८।१।१३६।७ वेदाहम् एतम्  
-८।१।१३६।८शत-धारं कदापि सृजते  
-८।१।१३६।९[*८५३] ॐ आयातु तार्क्ष्य बीजाक्षर रक्त-वर्ण श्वेतानन वज्र-नख वज्र-पक्ष स्वामि-कार्य धुरन्धराष्ट-नाग-सहित मरुत्-सहाय सह देवताभिर् अनुमन्यताम्  
-[*८५३] इन् थिस् वेर्से, थे तेxत् हस् नो अच्चेन्त् मर्क्स् ड़्रोम् ॐ थ्रोउघ् थे ड़िर्स्त् स्य्ल्लब्ले, अ, इन् अनुमन्यताम्।  
-  
-  
-८।१।१३७।१ यस् तु शुक-वर्णाम्बर-धरः पुष्कर-सञ्चारिणं लोहिताक्षं गरुत्मन्तम् ओम्  
-८।१।१३७।२ गरुडम् आवाहयामि  
-८।१।१३७।३ पक्षि-राजम् आवाहयामि  
-८।१।१३७।४ सुपर्ण-पक्षम् आवाहयामि  
-८।१।१३७।५ खगाधिपतिम् आवाहयामि  
-८।१।१३७।६ अतो देवा विष्णोर् नु क(ग्)ं सहस्र-शीर्षा पुरुषः  
-८।१।१३७।७ आसाग्र अग्र ओजो-बलाय  
-८।१।१३७।८ शत-धारं कदापि सृजते  
-८।१।१३७।९ भूस् स्वाहा  
-८।१।१३७।१० शत-धारं कदापि सृजते  
-८।१।१३७।११ ॐ भूः गरुडम् आवाहयामि  
-८।१।१३७।१२ तत्-पुरुषाय विद्महे  
-८।१।१३७।१३ आग्नेयो यस्मात्  
-८।१।१३७।१४ प्रैषाम् अधीशः  
-८।१।१३७।१५ भूमान् अन्तो ऽग्रे वन्द्यो न एषः  
-  
-८।०।१२ विद्महे विष्णुर् अनुमन्यतां सृजते पञ्च च  
-  
-८।१।१३८।१ शुची वो हव्या  
-८।१।१३८।२ अग्निश् शुचिः  
-८।१।१३८।३ ॐ भूतेशम् आवाहयामि  
-८।१।१३८।४ महा-भूतम् आवाहयामि  
-८।१।१३८।५ विष्णु-भक्तम् आवाहयामि  
-८।१।१३८।६ गदा-धरम् आवाहयामि  
-८।१।१३८।७ प्रजा-पतिम् आवाहयामि  
-८।१।१३८।८ शेषम् आवाहयामि  
-८।१।१३८।९ सूर्यम् आवाहयामि  
-८।१।१३८।१० चन्द्रम् आवाहयामि  
-  
-८।१।१३९।१ सप्त-मातॄर् आवाहयामि  
-८।१।१३९।२ भूमिम् आवाहयामि  
-८।१।१३९।३ वृषभम् आवाहयामि  
-८।१।१३९।४ इन्द्रम् आवाहयामि  
-८।१।१३९।५ वाचस्-पतिम् आवाहयामि  
-८।१।१३९।६ नन्दीशम् आवाहयामि  
-८।१।१३९।७ अदिते इनुमन्यस्व  
-८।१।१३९।८ भूतेशाय स्वाहा  
-८।१।१३९।९ अतो देवा इदं विष्णुस् त्रीणि पदा विष्णोः कर्माणि तद् विष्णोः परमं तद् विप्रासः  
-८।१।१३९।१० भूस् स्वाहा  
-  
-८।१।१४०।१ अदिते इन्वम(ग्ग्)ंस्थाः  
-८।१।१४०।२ उप श्वासय पृथिवीम् उत द्यां पुरुत्रा ते मनुतां विष्ठितं जगत्  
-स दुन्दुभे सजूर् इन्द्रेण देवैर् दूराद् दवीयो अप सेध शत्रून्  
-८।१।१४०।३ आ क्रन्दय बलम् ओजो न आ धा नि ष्टनिहि दुरिता बाधमानः  
-अप प्रोथ दुन्दुभे दुच्छुना(ग्)ं[*८५४] इत इन्द्रस्य मुष्टिर् असि वीडयस्व  
-८।१।१४०।४ आमूर् अज प्रत्यावर्तयेमाः केतुमद् दुन्धुभिर् वावदीति  
-सम् अश्व-पर्णाश् चरन्ति नो नरो ऽस्माकम् इन्द्र रथिनो जयन्तु  
-८।१।१४०।५ ओम् भूर् भुवस् सुवः  
-८।१।१४०।६ इन्द्राय वाचं वदतेन्द्रं वाजं जापयतेन्द्रो वाजम् अजयित्  
-८।१।१४०।७ यज्ञस्य घोषद् असि  
-[*८५४] र्व्: दुछुना; त्स्: दुच्छुनां।  प्रोओड़् थत् वैखानसस् ड़ोल्लोw त्स्।  
-  
-  
-८।०।१३ चन्द्रम् आवाहयामि भूस् स्वाहा यज्ञस्य घोषद् असि  
-  
-८।१।१४१।१ उद्यन्तं बृहस्पते अति यत्  
-८।१।१४१।२ मार्कण्डेयाय नमः  
-८।१।१४१।३ भृगवे नमः  
-८।१।१४१।४ ब्रह्म जज्ञानम्  
-८।१।१४१।५ पिता विराजां ब्रह्म देवा अन्तर् अस्मिन् ब्रह्मन् देवाश् चतस्र आशाः  
-  
-८।०।१४ उद्यन्तं पञ्च च  
-  
-८।१।१४२।१ हिरण्य-गर्भस् सम् अवर्तताग्रे भूतस्य जातः पतिर् एक आसीत्  
-स दाधार पृथिवीन् द्याम् उतेमां कस्मै देवाय हविषा विधेम  
-८।१।१४२।२ यः प्राणतो निमिषतो महित्वैक इद् राजा जगतो बभूव  
-य ईशे अस्य द्वि-पदश् चतुष्-पदः कस्मै देवाय हविषा विधेम  
-८।१।१४२।३ य आत्म-दा बल-दा यस्य विश्व उपासते प्रशिषं यस्य देवाः  
-यस्य छायामृतं यस्य मृत्युः कस्मै देवाय हविषा विधेम  
-८।१।१४२।४ यस्येमे हिमवन्तो महित्वा यस्य समुद्र(ग्)ं रसया सहाहुः  
-यस्येमाः प्रदिशो यस्य बाहू कस्मै देवाय हविषा विधेम  
-८।१।१४२।५ यं क्रन्दसी अवसा तस्तभाने अभ्य् ऐक्षेतां मनसा रेजमाने  
-यत्राधि सूर उदितौ व्येति[*८५५] कस्मै देवाय हविषा विधेम  
-८।१।१४२।६ येन द्यौर् उग्रा पृथिवी च दृढे[*८५६] येन सुवस् स्तभितं येन नाकः  
-यो अन्तरिक्षे रजसो विमानः कस्मै देवाय हविषा विधेम  
-८।१।१४२।७ आपो ह यन् महतीर्[*८५७] विश्वम् आयन् दक्षं[*८५८] दधाना जनयन्तीर् अग्निम्  
-ततो देवानां निरवर्ततासुर्[*८५९] एकः कस्मै देवाय हविषा विधेम  
-८।१।१४२।८ यश् चिद् आपो महिना पर्यपश्यद् दक्षं दधाना जनयन्तीर् अग्निम्[*८६०]  
-यो देवेष्व् अधि देव एक आसीत् कस्मै देवाय हविषा विधेम  
-[*८५५] र्व्: उदितो विभाति रेप्लचेस् उदितौ व्येति  
-[*८५६] र्व्: दृधा  
-[*८५७] र्व्: यद् बृहतीर् रेप्लचेस् यन् महतीर्  
-[*८५८] र्व्: गर्भम्  
-[*८५९] र्व्: समवर्ततासुर्  
-[*८६०] र्व्: यज्ञम्  
-  
-  
-  
-८।०।१५ विधेम षट् च  
-  
-८।१।१४३।१ इन्द्रं वो विश्वतस् परि हवामहे जनेभ्यः  
-अस्माकम् अस्तु केवलः  
-८।१।१४३।२ इन्द्रं नरो नेमधिता हवन्ते यत् पार्या युनजते धियस् ताः  
-शूरो नृ-षाता शवसश् चकान आ गो-मति व्रजे भजा त्वं नः  
-८।१।१४३।३ इन्द्रियाणि शत-क्रतो या ते जनेषु पञ्चसु  
-इन्द्र तानि त आ वृणे  
-८।१।१४३।४ अनु ते दायि मह इन्द्रियाय सत्रा ते विश्वम् अनुवृत्र हत्यै[*८६१]  
-अनु क्षत्रम् अनु सहो यजत्रेन्द्र देवेभिर् अन् उते नृषह्ये  
-८।१।१४३।५ युजे रथं गवेषण(ग्)ं हरिभ्याम् उप ब्रह्माणि जुजुषाणम् अस्थुः  
-वि बाधिष्टा[*८६२] स्य रोदसी महित्वा इन्द्रो वृत्राण्य् अप्रती जघन्वान्[*८६३]  
-[*८६१] र्व्, त्स्, त्ब्: हत्ये  
-[*८६२] र्व्, अव्: बाधिष्ट; त्ब्: बाधिष्टा  
-[*८६३] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् १४४।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् १४३।  
-  
-  
-  
-८।१।१४४।१ इन्द्रं नरो युजे रथम्  
-८।१।१४४।२ जगृभ्णा[*८६४] ते दक्षिणम् इन्द्र हस्तम् वसूयवो वसु-पते वसूनाम्  
-विद्मा हि त्वा गो-पति(ग्)ं शूर गोनाम् अस्मभ्यं चित्रं वृषण(ग्)ं रयिं दाः  
-८।१।१४४।३ तवेदं विश्वम् अभितः पशव्यम् यत् पश्यसि चक्षुषा सूर्यस्य  
-गवाम् असि गो-पतिर् एक इन्द्रः भक्षीमहि ते प्रयतस्य वस्वः[*८६५]  
-[*८६४] र्व्: जगृभ्मा; त्ब्: जगृभ्णा  
-[*८६५] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् १४५।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् १४४।  
-  
-  
-  
-८।१।१४५।१ सम् इन्द्र णो मनसा नेषि गोभिः स(ग्)ं सूरिभिर् मघवन्थ्[*८६६] स(ग्ग्)ं स्वस्त्या[*८६७]  
-सं ब्रह्मणा देव-कृतं[*८६८] यद् अस्ति सं देवाना(ग्)ं सुमत्या यज्ञियानाम्  
-८।१।१४५।२ आराच् छत्रुम् अप बाधस्व दूरम् उग्रो यश् शम्बः[*८६९] पुरुहूत तेन  
-अस्मे धेहि यवमद् गोमद् इन्द्र कृधी धियं जरित्रे वाज-रत्नाम्  
-८।१।१४५।३ इन्द्र श्रेष्ठानि द्रविणानि धेहि चित्तिं दक्षस्य सुभगत्वम् अस्मे  
-पोषं रयीणाम् अरिष्टिं तनूनां स्वाद्मानं वाचस् सुदिनत्वम् अह्नाम्  
-८।१।१४५।४ भुवस् त्वम् इन्द्र ब्रह्मणा महान् भुवो विश्वेषु सवनेषु यज्ञियः  
-भुवो नॄ(ग्)ंश् च्यौत्नो विश्वस्मिन् भरे ज्येष्ठश् च मन्त्रो विश्व-चर्षणे  
-८।१।१४५।५ इन्द्रं प्रणयन्तं वपुर् इन्द्र(ग्ग्)ं स्रवन्त(ग्)ं सवितारम् इन्द्रं दधातु  
-शक्रस् सुकृतष्य लोकम् इन्द्रं मन्ये पितरं मातारञ् च  
-८।१।१४५।६ एन्द्र सानसि(ग्)ं रयि(ग्)ं सजित्वान(ग्)ं सदासहम्[*८७०]  
-वर्षिष्ठम् ऊतये भर  
-[*८६६] र्व्: हरिवः  
-[*८६७] र्व्: स्वस्ति  
-[*८६८] र्व्: -हितम्  
-[*८६९] १९८४ एदितिओन्: शम्भुः; १९४६ एदितिओन्, र्व्: शम्बः  
-[*८७०] र्व्, त्स्: सदासहम्; व्म्प्: सदासहम्  
-  
-  
-  
-८।०।१६ जुजुषाणम् अस्थुर् एक इन्द्रो ऽस्मे सप्त च  
-  
-८।१।१४६।१ अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान्  
-युयोध्य् अस्मज् जुहुराणम् एनो भूयिष्ठान् ते नम-उक्तिं विधेम  
-८।१।१४६।२ प्र वश् शुक्राय भानवे भरध्व(ग्)ं हव्यं मतिं चाग्नये सुपूतम्  
-यो दैव्यानि मानुषा जनू(ग्)ंष्य् अन्तर् विश्वानि विद्मना जिगाति  
-८।१।१४६।३ अच्छा[*८७१] गिरो मतयो देवयन्तीर् अग्निं यन्ति द्रविणं भिक्षमाणाः  
-सुसन्दृश(ग्)ं सुप्रतीक(ग्ग्)ं स्वञ्च(ग्)ं हव्यवाहम्[*८७२] अरतिं मानुषाणाम्  
-८।१।१४६।४ अग्ने त्वम् अस्मद् युयोध्य् अमीवा अनग्नित्रा अभ्यमन्त कृष्टीः  
-पुनर् अस्मभ्य(ग्)ं सुविताय देव क्षां विश्वेभिर् अजरेभिर् यजत्र  
-८।१।१४६।५ अग्ने त्वं पारया नव्यो अस्मान् स्वस्तिभिर् अति दुर्गाणि विश्वा  
-पूश् च पृथ्वी बहुला न उर्वी भवा तोकाय तनयाय शं योः  
-[*८७१] र्व्: अछा; त्ब्: अच्छा  
-[*८७२] र्व्, त्ब्: हव्यवाह; व्म्प्: हव्यमाह  
-  
-  
-  
-८।१।१४७।१ प्र कारवो मनना वच्यमाना देवद्रीचीं नयथ[*८७३] देवयन्तः  
-दक्षिणावाड् वाजिनी प्राच्य् एति हविर् भरन्त्य् अग्नये घृताची  
-८।१।१४७।२ अग्न आ याहि वीतये गृणानो हव्यदातये  
-नि होता सत्सि बर्हिषि  
-८।१।१४७।३ अग्निम् ईऌए पुरोहितं यज्ञस्य देवम् ऋत्विजम्  
-होतारं रत्न-धातमम्  
-८।१।१४७।४ अग्निः पूर्वेभिर् ऋषिभिर् ईड्यो नूतनिर् उत  
-स देवां एह वक्षति  
-८।१।१४७।५ अग्निना रयिम् अश्नवत् पोषम् एव दिवे-दिवे  
-यशसं वीरवत्तमम्  
-[*८७३] र्व्: नयत  
-  
-  
-८।१।१४८।१ अग्ने यं यज्ञम् अध्वरं विश्वतः परिभूर् असि  
-स इद् देवेषु गच्छति  
-८।१।१४८।२ अग्निर् होता कवि-क्रतुस् सत्यश् चित्र-श्रवस्तमः  
-देवो देवेभिर् आग् अमत्  
-८।१।१४८।३ अग्निर् ऋषिः पवमानः पाञ्चजन्यः पुरोहितः  
-तम् ईमहे महा-गयम्  
-८।१।१४८।४ अग्ने पवस्व स्वपा अस्मे वर्चस् सुवीर्यम्  
-दधद् रयिं मयि पोषम्  
-८।१।१४८।५ अग्निर् मूर्धा दिवः ककुत् पतिः पृथिव्या अयम्  
-अपा(ग्)ं रेता(ग्)ंसि जिन्वति  
-८।१।१४८।६ उद् बुद्ध्यस्वाग्ने प्रति जागृह्य् एनम् इष्टा-पूर्ते स(ग्)ंसृजेथा मयं च  
-पुनः कृण्व(ग्ग्)ंस् त्वा पितरं युवानम् अन्वाता(ग्)ंसीत् त्वयि तन्तुम् एतम्  
-  
-८।०।१७ शं योर् वीरवत्तमं जिन्वति द्वे च  
-  
-८।१।१४९।१ आयातु देवस् सुमनाभिर् ऊतिभिर् यमो हवेह प्रयताभिर् अक्ता  
-आ सीदता(ग्)ं सुप्रयते ह बर्हिष्य् ऊर्जाय जात्यै मम शत्रु-हत्यै  
-८।१।१४९।२ यमे इव यतमाने यद् ऐतं प्र वाम् भरन् मानुषा देवयन्तः  
-आ सीदत(ग्ग्)ं स्वम् उ लोकं विदाने स्वासस्थे भवतम् इन्दवे नः  
-८।१।१४९।३ यमाय सोम(ग्)ं सुनुत यमाय जुहुता हविः  
-यम(ग्)ं ह यज्ञो गच्छत्य् अग्नि-दूतो अरं-कृतः  
-८।१।१४९।४ यमाय घृतवद् धविर् जुहोत प्र च तिष्ठत  
-सो नो देवेष्व् आ यमद् दीर्घम् आयुः प्र जीवसे  
-८।१।१४९।५ यमाय मधुमत्तम(ग्)ं राज्ञे हव्यं जुहोतन  
-इदं नम ऋषिभ्यः पूर्वजेभ्यः पूर्वेभ्यः पथिकृद्भ्यः  
-  
-८।१।१५०।१ यो ऽस्य कौष्ठ्य जगतः पार्थिवस्यैक इद्वशी  
-यमं भङ्ग्यश्रवो गाय यो राजा अनपरोध्यः  
-८।१।१५०।२ यमं गाय भङ्ग्यश्रवो यो राजा अनपरोध्यः  
-येनापो नद्यो धन्वानि येन द्यौः पृथिवी दृढा  
-८।१।१५०।३ हिरण्य-कक्ष्यान्थ् सुधुरान् हिरण्याक्षान् अयश्-शफान्  
-अश्वान् अनश्यतो दानं यमो राजा अभितिष्ठति  
-८।१।१५०।४ यमो दाधार पृथिवीं यमो विश्वम् इदं जगत्  
-यमाय सर्वम् इत् त्रस्थे[*८७४] यत् प्राणद् वायु-रक्षितम्  
-८।१।१५०।५ यथा पञ्च यथा षड् यथा पञ्चदशर्षयः  
-यमं यो विद्याथ् स ब्रूयाद् यथैक ऋषिर् विजानते  
-[*८७४] त: त्रस्थे; क्स्: तस्थे; व्म्प्: रस्थे  
-  
-  
-८।१।१५१।१ त्रिकद्रुकेभिः पतति[*८७५] षड् उर्वीर् एकम् इद् बृहत्  
-गायत्री त्रिष्टुप्[*८७६] छन्दा(ग्)ंसि सर्वा ता यम आहिता  
-८।१।१५१।२ अहर्-अहर् नयमानो गाम् अश्वं पुरुषं जगत्  
-वैवस्वतो न तृप्यति पञ्चभिर् मानवैर् यमः  
-८।१।१५१।३ वैवस्वते विविच्यन्ते यमे राजनि ते जनाः  
-ये चेह सत्येनेच्छन्ते य उ चानृत-वादिनः  
-८।१।१५१।४ ते राजन्न् इह विविच्यन्ते ऽथायन्ति[*८७७] त्वाम् उप  
-देवा(ग्)ंश् च ये नमस्यन्ति ब्राह्मणा(ग्)ंश् चापचित्यति  
-८।१।१५१।५ यस्मिन् वृक्षे सुपलाशे देवैस् सम्पिबते यमः  
-अत्रा नो विश्-पतिः पिता पुराणा[*८७८] अनु वेनति  
-८।१।१५१।६ यमो दाधार पृथिवीं यमो द्याम् उत सूर्यः[*८७९]  
-यमस् सर्व-मृत्युस् ते नः[*८८०] प्राणानां वायूनाम्  
-[*८७५] र्व् पतति; त: पतति  
-[*८७६] र्व्: त्रिष्टुप् गायत्री  
-[*८७७] तेxत्: यन्तित्  
-[*८७८] र्व्: पुराणां  
-[*८७९] क्स्: सूर्यम्  
-[*८८०] च्ड़्। व्म्प् ६।१९।१: स्तेनः इन्स्तेअद् ओड़् ते नः  
-  
-  
-  
-८।०।१८ पथिकृद्भ्यो विजानते इनुवेनति द्वे च  
-  
-८।१।१५२।१ नमस् सुते निरृते विश्वरूपे ऽयस्-मयं वि चृता बन्धम् एतम्  
-यमेन त्वं यम्या संविदानोत्तमन् नाकम् अधि रोहयेमम्  
-८।१।१५२।२ यत् ते देवी निऋऋतिर् आबबन्ध दाम ग्रीवास्व् अविचर्त्यम्  
-इदं ते तद् वि ष्याम्य् आयुषो न मध्याद् अथा जीवः पितुम् अद्धि प्रमुक्तः  
-८।१।१५२।३ यस्यास्ते अस्याः क्रूर आसञ् जुहोम्य् एषां बन्धानाम् अवसर्जनाय  
-भूमिर् इति त्वा जना विदुर् निरृतिर् इति त्वाहं परि वेद विश्वतः  
-८।१।१५२।४ असुन्वन्तम् अयजमानम् इच्छ स्तेनस्येत्यां तस्करस्यान्वेषि  
-अन्यम् अस्मद् इच्छ सा त इत्या नमो देवि निरृते तुभ्यम् अस्तु  
-८।१।१५२।५ देवीम् अहं निरृतिं वन्दमानः पितेव पुत्रं दसये वचोभिः  
-विश्वस्य या जायमानस्य वेद शिरश्-शिरः प्रति सूरी विचष्ते  
-८।१।१५२।६ निवेशनस् सङ्गमनो वसूनां विश्वा रूपाभिचष्टे शचीभिः  
-दुर्गानरातीर् अपानुद वीर-पत्नी  
-८।१।१५२।७ यमेन यम्य् आयुषा संविदाना[*८८१] पितेव पुत्रम् अभिरक्षतन् नः  
-८।१।१५२।८ नमस् ते निरृतये घन-तेजाय तस्मै विसृज बन्धनात्  
-८।१।१५२।९ यम नय त्व(ग्)ं सविता देव उत्तमान् अनीके अभिरोचय यायिनाम्  
-८।१।१५२।१० वसवः प्रथमो देवताना(ग्)ं सो ऽस्य प्रजां पशून् पाहि  
-८।१।१५२।११ अतो देवेभ्यः पशुभिर् यो वै वसवस् स्वस्त्य् अस्तु  
-८।१।१५२।१२ सहस्राक्षो वा अयम् अग्निः पितरो देवतानाम्  
-८।१।१५२।१३ वसून् यत्र वसवो भूतानां पालयन्ति तस्मा अन्य-वसुभ्यः  
-[*८८१] १९८४ एदितिओन्: संविधाना; १९४६ एदितिओन्, : संविदाना  
-  
-  
-८।०।१९ विचष्टे ऽष्टौ च  
-  
-८।१।१५३।१ अस्तभ्नाद्[*८८२] द्याम् ऋषभो अन्तरिक्षम् अमिमीत वरीमाणं पृथिव्या  
-आसीदद् विश्वा भुवनानि संराड् विश्वेत् तानि वरुणस्य व्रतानि  
-८।१।१५३।२ यच् चिद् धि ते विशो यथा प्र देव वरुण व्रतम्  
-मिनीमसि द्यवि-द्यवि  
-८।१।१५३।३ यत् किं चेदं वरुण दैव्ये जने ऽभिद्रोहं मनुष्याश् चरामसि  
-अचित्ती यत् तव धर्मा युयोपिम मा नस् तस्माद् एनसो देव रीरिषः  
-८।१।१५३।४ कितवासो यद् रिरिपुर् न दीवि यद् वा घा सत्यम् उत यन् न विद्म  
-सर्वा ता वि ष्य शिथिरेव देवाथा[*८८३] ते स्याम वरुण पियासः  
-८।१।१५३।५ अव ते हेडो वरुण नमोभिर् अव यज्ञेभिर् ईमहे हविर्भिः  
-क्षयन्न् अस्मभ्यम् असुर प्रचेतो[*८८४] राजन्न् एना(ग्)ंसि शिश्रथः कृतानि  
-[*८८२] तेxत्: अस्तभ्ना  
-[*८८३] र्व्: देवाधा  
-[*८८४] र्व्: प्रचेता  
-  
-  
-  
-८।१।१५४।१ उद् उत्तमं वरुण पाशम् अस्मद् अवाधमं वि मध्यम(ग्ग्)ं श्रथाय  
-अथा वयम् आदित्य व्रते तवानागसो अदितये स्याम  
-८।१।१५४।२ इमं मे वरुण श्रुधी हवम् अद्या च मृडय  
-त्वाम् अवस्युर् आ चके  
-८।१।१५४।३ तत्[*८८५] त्वा यामि ब्रह्मणा वन्दमानस् तद् आ शास्ते यजमानो हविर्भिः  
-अहेडमानो वरुणेह बोध्य् उरुश(ग्)ंस मा न आयुः प्र मोषीः  
-८।१।१५४।४ त्वं नो अग्ने वरुणस्य विद्वान् देवस्य हेडो ऽव यासिसीष्ठाः  
-यजिष्ठो वह्नितमश् शोशुचानो विश्वा द्वेषा(ग्)ंसि प्र मुमुग्ध्य् अस्मत्  
-८।१।१५४।५ स त्वं नो अग्ने ऽवमो भवोती नेदिष्ठो अस्या उषसो व्युष्टौ  
-अव यक्ष्व नो वरुण(ग्)ं रराणो वीहि[*८८६] मृडीक(ग्)ं सुहवो न एधि  
-८।१।१५४।६ त्वम् अग्ने अयास्य् अया सन् मनसा हितः  
-अया सन् हव्यम् ऊहिषे अया नो धेहि भेषजम्  
-८।१।१५४।७ ये ते शतं वरुण ये सहस्रं यज्ञियाः पाशा वितताः पुरुत्रा  
-तेभ्यो न इन्द्रस् सवितोत विष्णुर् विश्वेदेवा मुञ्चन्तु मरुतस् स्वस्त्या  
-[*८८५] तेxत्: त  
-[*८८६] तेxत्: वीह  
-  
-  
-  
-८।०।२० कृतान्य् एधि चत्वारि च  
-  
-८।१।१५५।१ पीवोन्ना(ग्)ं[*८८७] रयि-वृधस् सुमेधाश् श्वेतस् सिषक्ति नियुताम् अभिश्रीः  
-ते वायवे समनसो वि तस्थुर् विश्वेन् नरस् स्वपत्यानि चक्रुः  
-८।१।१५५।२ राये इनु यं जज्ञतू रोदसी[*८८८] उभे राये देवी धिषणा धाति देवम्  
-अधा[*८८९] वायुं नियुतस् सश्चत स्वा उत श्वेतं वसुधितिं निरेके[*८९०]  
-८।१।१५५।३ आ वायो भूष शुचिपा उप नस् सहस्रं ते नियुतो विश्व-वार  
-उपो ते अन्धो मद्यम् अयामि यस्य देव दधिषे पूर्व-पेयम्  
-८।१।१५५।४ प्र याभिर् यासि दाश्वा(ग्)ंसम् अच्छा नियुद्भिर् वायव् इष्टये दुरोणे  
-नि नो रयि(ग्)ं सुभोजसं युवेह नि वीरवद्[*८९१] गव्यम् अश्वियं च राधः  
-८।१।१५५।५ प्र वायुम् अच्छा बृहती मनीषा बृहद्-रयिं विश्ववारा(ग्)ं[*८९२] रथप्राम्  
-दुतद्यामा नियुतः पत्यमानः कविः कविम् इयक्षसि प्रयज्यो  
-[*८८७] र्व्: पीवोअन्नां  
-[*८८८] र्व्: रोदसीमे  
-[*८८९] र्व्: अध  
-[*८९०] व्म्प् ड़ोल्लोwस् त्ब्  
-[*८९१] र्व्: युवस्व नि वीरम् रेप्लचेस् युवेह नि वीरवद्  
-[*८९२] र्व्: विश्ववारं; त्ब्: विश्ववारां  
-  
-  
-  
-८।१।१५६।१ आ नो नियुद्भिश् शतिनीभिर् अध्वर(ग्)ं सहस्रिणीभिर् उप याहि यज्ञम्  
-वायो अस्मिन् हविषि मादयस्व यूयं पात स्वस्तिभिस् सदा नः  
-८।१।१५६।२ वायो शत(ग्)ं हरीणां युवस्व पोष्याणाम्  
-उत वा ते सहस्रिणो रथ आ यातु पाजसा  
-८।१।१५६।३ प्र या वाजं न हेषन्तं पेरुम् अस्यस्य् अर्जुनि  
-ऋदूदरेण सख्या सचेय यो मा न रिष्येद् धर्यश्व पीतः  
-८।१।१५६।४ प्रक्रम्याथ[*८९३] ऊर्ध्वं पुरुष-जो विवेश प्रजासु वृत्याय असून् ददाति  
-सो ऽहम् अस्मिन् यजानि समापातु  
-८।१।१५६।५ यो मातरिश्वा वियज् जातो[*८९४] ऽंशको वृतो हूयते  
-यस्य सत(ग्)ं समेतु  
-८।१।१५६।६ मरुतः परमात्मा परमा गतिः परं ब्रह्म परं योगम्  
-परमात्मानं मन्ये अजरं यो ऽग्निर् अहम् अन्नं वायवे  
-८।१।१५६।७ मरुतो गणानां प्रथमस् सप्तधानां मूर्धा वायो अन्यम् अजर(ग्)ं श्रियम्  
-होतारं वै रयन् त्वाहुर् अग्ने हव्यं मरुद्भ्यः  
-[*८९३] तेxत्: प्रक्रम्याध  
-[*८९४] १९८४ एदितिओन्: वियज्ञातो इन्स्तेअद् ओड़् वियज् जातो  
-  
-  
-  
-८।०।२१ प्रयज्यो समेतु चत्वारि च  
-  
-८।१।१५७।१[*८९५] अद्भ्यस् तिरोधाजायत तव वैश्रवणस् सदा  
-तिरोधेहि सपत्नान् नो ये अपो अश्नन्ति केचन  
-८।१।१५७।२ त्वाष्ट्रीं मायां वैश्रवणो रथ(ग्)ं सहस्र-वन्धुरम्  
-पुरुश्चक्र(ग्)ं सहस्राश्वम् आस्थायायाहि नो बलिम्  
-८।१।१५७।३ यस्मै भूतानि बलिम् आवहन्ति धनं गावो हस्ति हिरण्यम् अश्वान्  
-असाम सुमतौ यज्ञियस्य श्रियं बिभ्रतो इन्न-मुखीं विराजम्  
-८।१।१५७।४ सुदर्शने च क्रौञ्चे च मैनागे च महा-गिरौ  
-सत द्वाट्टार-गमन्ता स(ग्)ंहार्यं नगरं तव  
-८।१।१५७।५ इति मन्त्राः।  कल्पो ऽत ऊर्ध्वम्  
-८।१।१५७।६ यदि बलि(ग्)ं हरेद् धिरण्य-नाभये वितुदये कौबेरायायं बलिः  
-[*८९५] अल्ल् ओड़् ८।१।१५७ इस् अ चोन्तिनुओउस् क़ुओते ड़्रोम् त १।३१।१-२ ओन्ल्य्।  
-  
-  
-८।१।१५८।१ सर्व-भूताधिपतये नम इत्य् अथ बलि(ग्)ं हृत्वोपतिष्ठेत  
-क्षत्रं क्षत्रं वैश्रवणो ब्राह्मणा वय(ग्ग्)ं स्मः  
-८।१।१५८।२ नमस् ते अस्तु मा मा हि(ग्)ंसीर् अस्मात् प्रविश्यान्नम् अद्धीती  
-अथ तम् अग्निम् आदधीत यस्मिन्न् एतत् कर्म प्रयुञ्जीत  
-८।१।१५८।३ तिरोधा भूस् तिरोधा भुवः  
-तिरोधास्[*८९६] स्वस् तिरोधा भूर् भुवस् स्वः  
-८।१।१५८।४ सर्वेषां लोकानाम् आधिपत्ये सीदेत्य् अथ तम् अग्निम् इन्धीत  
-यस्मिन्न् एतत् कर्म प्रयुञ्जीत तिरोधा भूस् स्वाहा  
-८।१।१५८।५ तिरोधा भुवस् स्वाहा तिरोधा स्वस् स्वाहा तिरोधा भूर् भुवस् स्वस् स्वाहा यस्मिन्न् अस्य काले सर्वा आहुतीर् हुता भवेयुः  
-[*८९६] व्म्प्: तिरोधा, चोर्रेच्तेद् तो तिरोधास्, थे वेर्सिओन् इन् त।  
-  
-  
-८।१।१५९।१ अपि ब्राह्मण-मुखीनास् तस्मिन्न् अह्नः काले प्रयुञ्जीत  
-परस् सुप्त-जनाद् वेपि मा स्म प्रमाद्यन्तम् आध्यापयेत्[*८९७]  
-८।१।१५९।२ सर्वार्थास् सिद्ध्यन्ते य एवं वेद  
-क्षुध्यन्न् इदम् अजानतां सर्वाथा न सिद्ध्यन्ते[*८९८]  
-८।१।१५९।३ यस् ते विघातुको भ्राता ममान्तर् हृदये श्रितः  
-तस्मा इमम् अग्र-पिण्डं जुहोमि स मे ऽर्थान् मा विवधीन् मयि स्वाहा[*८९९]  
-८।१।१५९।४ राजाधिराजाय प्रसह्य-साहिने नमो वयं वैश्रवणाय कुर्महे  
-स मे कामान् काम-कामाय मह्यं कामेश्वरो वैश्रवणो ददातु[*९००]  
-८।१।१५९।५ कुबेराय वैश्रवणाय महा-राजाय नमः[*९०१]  
-८।१।१५९।६ रायस् पोषायायुषा त्वा निधीशो भ्रातृव्याणां महसां चाधिपत्यै[*९०२]  
-८।१।१५९।७ मिश्र-वाससः कौबेरका रक्षो-राजेन प्रेषिताः  
-ग्राम(ग्)ं स-जानयो गच्छन्तीछन्तो परिदाकृतान्  
-८।१।१५९।८ एतान् घ्नतैतान् गृह्णीतेत्य् अयं ब्रह्मणस् पुत्रः  
-तान् अग्निः पर्यसरत् तान् इन्द्रस् तान् बृहस्पतिः  
-तान् अहं वेद ब्राह्मणः प्रमृशतः कूट-दन्तान् विकेशान् लम्बन-स्तनान्  
-[*८९७] त १।३१।५ ओन्ल्य् (नोत् इन् व्च्)  
-[*८९८] त १।३१।५ ओन्ल्य् (नोत् इन् व्च्)  
-[*८९९] त १।३१।५-६ ओन्ल्य् (व्च् प्। ७७१)  
-[*९००] त १।३१।६ ओन्ल्य् (व्च् प्। ८२१)  
-[*९०१] त १।३१।६ ओन्ल्य् (व्च् प्। ३२८)  
-[*९०२] इन् व्च् प्प्। ८२४-८२५, थेरे अरे त्wओ चोलुम्न्स् ओड़् रायस् पोष्॥। बुत् नो मत्छ् तो थिस् वेर्से।  
-  
-  
-  
-८।०।२२ अयं बलिर् भवेयुश् चाधिपत्यै पञ्च च  
-  
-८।१।१६०।१ स्तुहि श्रुतं गर्त-सदं युवानं मृगं न भीमम् उपहत्नुम् उग्रम्  
-मृडा जरित्रे रुद्र स्तवानो अन्यं ते अस्मन् नि वपन्तु सेनाः  
-८।१।१६०।२ परि णो रुद्रस्य हेतिर् वृणक्तु परि त्वेषस्य दुर्मतिर् अघायोः  
-अव स्थिरा मघवद्भ्यस् तनुष्व मीढ्वस् तोकाय तनयाय मृडय  
-८।१।१६०।३ मीढुष्टम शिवतम[*९०३] शिवो नस् सुमना भव  
-परमे वृक्ष आयुधं निधाय कृत्तिं वसान आ चर पिनाकं बिभ्रदा गहि  
-८।१।१६०।४ अर्हन् बिभर्षि सायकानि धन्वार्हन् निष्कं यजतं विश्व-रूपम् अर्हन्न् इदं दयसे विश्वम् अब्भुवं[*९०४] न वा ओजीयो रुद्र त्वद् अस्ति  
-८।१।१६०।५ त्वम् अग्ने रुद्रो असुरो महो दिवस् त्व(ग्)ं शर्धो मारुतं पृक्ष ईशिषे  
-त्वं वातैर् अरुणैर् यासि शङ्गयस् त्वं पूषा[*९०५] विधतः पासि नु त्मना  
-[*९०३] व्म्प्: शिवतमश्; त्स्: शिवतम  
-[*९०४] र्व्: अभ्वं  
-[*९०५] तेxत्: पूंषा  
-  
-  
-  
-८।१।१६१।१ आ वो राजानम् अध्वरस्य रुद्र(ग्)ं होतार(ग्)ं सत्य-यज(ग्)ं रोदस्योः  
-अग्निं पुरा तनयित्नोर् अचित्ताद् धिरण्य-रूपम् अवसे कृणुध्वम्  
-८।१।१६१।२ नमस् ते रुद्र मन्यव उतो त इषवे नमः  
-नमस् ते अस्तु धन्वने बाहुभ्याम् उत ते नमः  
-८।१।१६१।३ या त इषुश् शिवतमा शिवं बभूव ते धनुः  
-शिवा शरव्या या तव तया नो रुद्र मृडय  
-८।१।१६१।४ रुद्रम् अन्यं बहुतो हुतं वृषभं नमस् ते अस्तु  
-तन् मे अस्तु बाहुभ्यां वीतये  
-८।१।१६१।५ त्र्य्-अम्बकं यजामहे सुगन्धिं[*९०६] पुष्टि-वर्धनम्  
-उर्वारुकम् इव बन्धनान् मृत्योर् मुक्षीय मामृतात्  
-८।१।१६१।६ ईशानस् सर्व-लोकानां त्र्यम्बकस् सर्व-विद्यानाम्  
-न द्वितीयो भवोद्भवाय  
-८।१।१६१।७ ईश ईशित्रे भूर् भुवस् सुवर् ईशाय लोकानाम्  
-भीमाय वामदेवाय नमः  
-[*९०६] र्व्: सुगन्धिं; त्स्: सुगन्धिं  
-  
-  
-८।०।२३ विधतः पासि सु त्मनामृताच् चत्वारि च  
-  
-८।१।१६२।१ कनिक्रदज् जनुषम्  
-स्वस्ति-दा विशस्-पतिः  
-८।१।१६२।२ सुपर्णो ऽसि गरुत्मान् त्रि-वृत्ते शिरो गायत्रं चक्षुस् स्तोम आत्मा साम ते तनूर् वामदेव्यं बृहद्-रथन्तरे पक्षौ यज्ञायज्ञियं पुच्छं छन्दा(ग्)ंस्य् अङ्गानि धिष्णियाश् शफा यजू(ग्)ंषि नाम  
-८।१।१६२।३ सुपर्णो ऽसि गरुत्मान् दिवं गच्छ सुवः पत  
-८।१।१६२।४ हविष्मतीर् इमा आपो हविष्मान् देवो अध्वरो  
-हविष्मा(ग्)ं आ विवासति हविष्मा(ग्)ं अस्तु सूर्यः  
-८।१।१६२।५ अग्नेर् वो ऽपन्न-गृहस्य सदसि सादयामि सुम्नाय सुम्निनीस् सुम्ने मा धत्तेन्द्राग्नियोर् भागधेयीस् स्थ मित्रा-वरुणयोर् भागधेयीस् स्थ विश्वेषां देवानां भागधेयीस् स्थ यज्ञे जागृत  
-८।१।१६२।६ भूर् असि भूः प्रतिष्ठित्यै  
-८।१।१६२।७ ध्वजं प्रतिष्ठापयामि  
-८।१।१६२।८ जयाय नमः  
-अत्युच्छ्रिताय नमः  
-  
-८।१।१६३।१ धन्याय नमः  
-८।१।१६३।२ ध्वजाय नमः  
-८।१।१६३।३ इन्द्राय नमः  
-८।१।१६३।४ अग्नये नमः  
-८।१।१६३।५ यमाय नमः  
-८।१।१६३।६ निरृतये नमः  
-८।१।१६३।७ वरुणाय नमः  
-८।१।१६३।८ वायवे नमः  
-८।१।१६३।९ कुबेराय नमः  
-८।१।१६३।१० ईशानाय नमः  
-८।१।१६४।१ ब्रह्मणे नमः  
-८।१।१६४।२ सूर्याय नमः  
-८।१।१६४।३ इन्दवे नमः  
-८।१।१६४।४ अग्नये नमः  
-८।१।१६४।५ सुदर्शनाय नमः  
-८।१।१६४।६ वासुकये नमः  
-८।१।१६४।७ ब्रह्मणे नमः  
-८।१।१६४।८ विष्णवे नमः  
-८।१।१६४।९ रुद्राय नमः  
-८।१।१६४।१० ब्रह्मणे नमः  
-८।१।१६४।११ सरस्वत्यै नमः  
-  
-८।०।२४ अत्युच्छ्रिताय नमः ईशानाय नमो ब्रह्मणे नम एकञ् च  
-  
-८।१।१६५।१ ईङ्काराय स्वाहा  
-८।१।१६५।२ ईङ्कृताय स्वाहा  
-८।१।१६५।३ क्रन्दते स्वाहा  
-८।१।१६५।४ अवक्रन्दते स्वाहा  
-८।१।१६५।५ प्रोथते स्वाहा  
-८।१।१६५।६ प्रप्रोथते स्वाहा  
-८।१।१६५।७ गन्धाय स्वाहा  
-८।१।१६५।८ घ्राताय स्वाहा  
-८।१।१६५।९ प्राणाय स्वाहा  
-८।१।१६५।१० व्यानाय स्वाहा  
-  
-८।१।१६६।१ अपानाय स्वाहा  
-८।१।१६६।२ सन्दीयमानाय स्वाहा  
-८।१।१६६।३ सन्दिताय स्वाहा  
-८।१।१६६।४ विचृत्यमानाय स्वाहा  
-८।१।१६६।५ विचृत्ताय स्वाहा  
-८।१।१६६।६ पलायिष्यमाणाय स्वाहा  
-८।१।१६६।७ पलायिताय स्वाहा  
-८।१।१६६।८ उपर(ग्ग्)ंस्यते स्वाहा  
-८।१।१६६।९ उपरताय स्वाहा  
-८।१।१६६।१० निवेक्ष्यते स्वाहा  
-  
-८।१।१६७।१ निविशमानाय स्वाहा  
-८।१।१६७।२ निविष्टाय स्वाहा  
-८।१।१६७।३ निषथ्स्यते स्वाहा  
-८।१।१६७।४ निषीदते स्वाहा  
-८।१।१६७।५ निषण्णाय स्वाहा  
-८।१।१६७।६ आसिष्यते स्वाहा  
-८।१।१६७।७ आसीनाय स्वाहा  
-८।१।१६७।८ आसिताय स्वाहा  
-८।१।१६७।९ निपथ्स्यते स्वाहा  
-८।१।१६७।१० निपद्यमानाय स्वाहा  
-  
-८।१।१६८।१ निपन्नाय स्वाहा  
-८।१।१६८।२ शयिष्यते स्वाहा  
-८।१।१६८।३ शयानाय स्वाहा  
-८।१।१६८।४ शयिताय स्वाहा  
-८।१।१६८।५ सम्मीलिष्यते स्वाहा  
-८।१।१६८।६ सम्मीलते स्वाहा  
-८।१।१६८।७ सम्मीलिताय स्वाहा  
-८।१।१६८।८ स्वप्स्यते[*९०७] स्वाहा  
-८।१।१६८।९ स्वपते स्वाहा  
-८।१।१६८।१० सुप्ताय स्वाहा  
-[*९०७] तेxत्: स्वफ्स्यते  
-  
-  
-८।१।१६९।१ प्रभोत्स्यते[*९०८] स्वाहा  
-८।१।१६९।२ प्रबुद्ध्यमानाय स्वाहा  
-८।१।१६९।३ प्रबुद्धाय स्वाहा  
-८।१।१६९।४ जागरिष्यते स्वाहा  
-८।१।१६९।५ जाग्रते स्वाहा  
-८।१।१६९।६ जागरिताय स्वाहा  
-८।१।१६९।७ शुश्रूषमाणाय स्वाहा  
-८।१।१६९।८ शृण्वते स्वाहा  
-८।१।१६९।९ श्रुताय स्वाहा  
-८।१।१६९।१० वीक्षिस्यते स्वाहा  
-[*९०८] तेxत्: प्रबोथ्स्यते  
-  
-  
-८।१।१७०।१ वीक्षमाणाय स्वाहा  
-८।१।१७०।२ वीक्षिताय स्वाहा  
-८।१।१७०।३ स(ग्)ंहास्यते स्वाहा  
-८।१।१७०।४ सञ्जिहानाय स्वाहा  
-८।१।१७०।५ उज्जिहानाय स्वाहा  
-८।१।१७०।६ विवर्त्स्यते[*९०९] स्वाहा  
-८।१।१७०।७ विवर्तमानाय स्वाहा  
-८।१।१७०।८ विवृत्ताय स्वाहा  
-८।१।१७०।९ उत्थास्यते स्वाहा  
-८।१।१७०।१० उत्तिष्ठते स्वाहा  
-[*९०९] तेxत्: विवर्थ्स्यते  
-  
-  
-८।१।१७१।१ उत्थिताय स्वाहा  
-८।१।१७१।२ विधविष्यते[*९१०] स्वाहा  
-८।१।१७१।३ विधून्वानाय स्वाहा  
-८।१।१७१।४ विधूताय स्वाहा  
-८।१।१७१।५ उत्कृ(ग्ग्)ंस्यते स्वाहा  
-८।१।१७१।६ उत्क्रामते स्वाहा  
-८।१।१७१।७ उत्क्रान्ताय स्वाहा  
-८।१।१७१।८ चङ्क्रमिष्यते स्वाहा  
-८।१।१७१।९ चङ्क्रम्यमाणाय स्वाहा  
-८।१।१७१।१० चङ्क्रमिताय स्वाहा  
-[*९१०] १९८४ एदितिओन्: विथविष्यते  
-  
-  
-८।१।१७२।१ कण्डूयिष्यते स्वाहा  
-८।१।१७२।२ कण्डूयमानाय स्वाहा  
-८।१।१७२।३ कण्डूयिताय स्वाहा  
-८।१।१७२।४ निकषिष्यते स्वाहा  
-८।१।१७२।५ निकषमाणाय स्वाहा  
-८।१।१७२।६ निकषिताय स्वाहा  
-८।१।१७२।७ यद् अत्ति तस्मै स्वाहा  
-८।१।१७२।८ यत् पिबति तस्मै स्वाहा  
-८।१।१७२।९ यन् मेहति तस्मै स्वाहा  
-८।१।१७२।१० यच् छकृत् करोति तस्मै स्वाहा  
-८।१।१७२।११ रेतसे स्वाहा  
-८।१।१७२।१२ प्रजाभ्यस् स्वाहा  
-८।१।१७२।१३ प्रजननाय स्वाहा  
-८।१।१७२।१४ सर्वस्मै स्वाहा  
-  
-८।०।२५ व्यानाय स्वाहा निवेक्ष्यते स्वाहा निपद्यमानाय स्वाहा सुप्ताय स्वाहा वीक्षिष्यते स्वाहोत्तिष्ठते स्वाहा चङ्क्रमिताय स्वाहा करोति तस्मै स्वाहा चत्वारि च  
-  
-८।१।१७३।१ आ-गो-दानात् पठेद् इदं ब्राह्मीयं ब्रह्म-निर्मितम्  
-सूक्तं तत् पारमात्मिकम् आत्मा देवानाम् अजरो ऽमरेशः[*९११]  
-८।१।१७३।२ सम्फुल्लाग्रे पुण्डरीके निविष्टस् तालार्धायामो[*९१२] रक्त-नेत्रः  
-शङ्ख-स्फटिक-सङ्काशस् तेषां देवानाम् अन्तर् आसीद् अन्तरात्मा  
-८।१।१७३।३ अजितो देवो यक्षाणां विद्याधराणां गन्धर्वाणाम् अन्तरात्मा ब्रह्मणश् चान्तरात्मा  
-ब्राह्मीको रौद्रिक उदानकस् स मनुष्याणां रौक्मो रुक्मो वा  
-८।१।१७३।४ अङ्गुष्ठ-मात्रो हृदये सन्निविष्टस् तस्थुषाम् अन्तरात्मा  
-अग्निर् आविष्टो यद् रूपं तस्य प्रवा असि स जीव इत्य् अभिशस्यते  
-[*९११] ड़ुल्ल् वेर्से ड़ोर् प्रतीक आ-गो-दानात्।  नोते ड़ुल्ल् वेर्से चोमेस् अड़्तेर्, नोत् बेड़ोरे, थे प्रतीक।  
-[*९१२] तेxत्: तालार्थायामो  
-  
-  
-  
-८।०।२६ आ-गो-दानात् पठेद् अष्टौ च  
-  
-८।१।१७४।१ ओमासश् चर्षणी-धृतो विश्वे देवास आ गत  
-दाश्वांसो दाशुषस् सुतम्  
-८।१।१७४।२ विश्वे देवासो अप्तुरस् सुतम् आ गन्त तूर्णयः  
-उस्रा इव स्वसराणि  
-८।१।१७४।३ विश्वे देवासो अस्रिध[*९१३] एहि मायासो अद्रुहः  
-मेधं जुषन्त वह्नयः  
-८।१।१७४।४ पावका नस् सरस्वती वाजेभिर् वाजिनीवती  
-यज्ञं वष्टु धियावसुः  
-८।१।१७४।५ चोदयित्री सूनृतानां चेतन्ती सुमतीनाम्  
-यज्ञं दधे सरश्वती  
-८।१।१७४।६  महो अर्णस् सरस्वती प्र चेतयति केतुना  
-धियो विश्वा वि राजति  
-[*९१३] र्व्: अस्रिध; म्स्: अस्रिधा।  नोते व्म्प्=र्व्, नोत् म्स्।  
-  
-  
-८।०।२७ सरस्वती द्वे च  
-  
-८।१।१७५।१ रात्री व्य् अख्यद् आयती पुरुत्रा देव्या १ ऽक्षभिः[*९१४]  
-विश्वा अधि श्रियो ऽधित  
-८।१।१७५।२ ओर्व् अप्रा अमर्त्या निवतो देव्यू१द्वतः  
-ज्योतिषा बाधते तमः  
-८।१।१७५।३ निर् उ स्वसारम् अस्कृतोषसं देव्यायती  
-अपेद् उ हासते तमः  
-८।१।१७५।४ सा नो अद्य यस्या वयं नि ते यामन्न् अविक्ष्महि  
-वृक्षे न वसतिं वयः  
-८।१।१७५।५ नि ग्रामासो अविक्षत नि पद्वन्तो नि पक्षिणः  
-नि श्येनासश् चिद् अर्थिनः  
-[*९१४] र्व्: देव्य् १ क्षभिः; त्ब्: देव्य् अक्षभिः  
-  
-  
-८।१।१७६।१ यावया वृक्यं[*९१५] १ वृकं यवय स्तेनम् ऊर्म्ये  
-अथा नस् सुतरा भव  
-८।१।१७६।२ उप मा पेपिशत् तमः कृष्णं व्यक्तम् अस्थित  
-उष ऋणेव यातय  
-८।१।१७६।३ उप ते गा[*९१६] इवाकरं वृणीष्व दुहितर् दिवः  
-रात्रि स्तोमं न जिग्युषे  
-८।१।१७६।४[*९१७] आ रात्रि पार्थिवं रजः पितुर् अप्रायि[*९१८] धामभिः  
-दिवस् सदांसि बृहती वि तिष्ठस आ त्वेषं वर्तते तमः  
-८।१।१७६।५ ये ते रात्री नृचक्षसो युक्तासो[*९१९] नवतिर् नव  
-अशीतिस् सन्त्व्[*९२०] अष्टा उतो ते सप्त सप्ततीः  
-८।१।१७६।६ रात्रीं प्र पद्ये जननीं सर्व-भूत-निवेशनीम्  
-भद्रां भगवतीं कृष्णां विश्वस्य जगतो निशाम्  
-८।१।१७६।७ संवेशिनीं[*९२१] संयमिनीं[*९२२] ग्रह-नक्षत्र-मालिनीम्  
-प्रपन्नो ऽहम् शिवां रात्रीं भद्रे पारम् अशीमहि भद्रे पारम् अशीमह्य् ॐ नमः  
-[*९१५] तेxत्: वृक्यां  
-[*९१६] व्म्प्: वा; र्व्, त्ब्, एत्च्: गा  
-[*९१७] वेर्सेस् ८।१।१७६।४-७ चोर्रेस्पोन्द् तो वेर्सेस् ४।२।१-४ ओड़् थे Ṛग् वेद खिल, थे "रात्री खिल"।  वेर्सेस् ८।१।१७६।४-५ अल्सो चोर्रेस्पोन्द् तो अव् १९।४७।१ अन्द् १९।४७।३ रेस्पेच्तिवेल्य्।  इन् चोबुर्न्ऽस् देवि माहात्म्य, प्। २६५, हे सय्स् थत् थे सोले वरिअन्त् बेत्wएएन् र्व्ख् अन्द् अव् इस् थे अव्ऽस् रेअदिन्ग् ओड़् द्रष्टारो ड़ोर् युक्तासो।  होwएवेर् इन् Wहित्नेय्ऽस् अथर्व वेद संहिता, वोल्। २, प्। ९७५, हे इन्दिचतेस् अनोथेर् वरिअन्त् इस् अव्ऽस् रेअदिन्ग् ओड़् सन्ति ड़ोर् सन्तु।  
-[*९१८] व्म्प्: पितरः प्रायु; अव्, र्व्ख्: पितुर् अप्रायि  
-[*९१९] अव्: द्रष्टारो  
-[*९२०] अव्: सन्ति  
-[*९२१] र्व्ख्: वेशनीं  
-[*९२२] र्व्ख्: संयमनीं  
-  
-  
-  
-८।०।२८ अर्थिनस् सप्ततीश् चत्वारि च  
-  
-८।१।१७७।१ हिरण्य-गर्भ आपो ह यत् प्रजापते  
-८।१।१७७।२ स वेद पुत्रः पितर(ग्)ं स मातर(ग्)ं स सूनुर् भुवत् स भुवत् पुनर्-मघः  
-स द्याम् और्णोद् अन्तरिक्ष(ग्)ं स सुवस् स विश्वा भुवो अभवत् स आ भवत्  
-८।१।१७७।३ स प्रत्नवन् नवीयसाग्ने द्युम्नेन संयता[*९२३]  
-बृहत् ततन्थ भानुना  
-८।१।१७७।४ नि काव्या वेधसश्[*९२४] शश्वतस् कर् हस्ते दधानो नर्या पुरूणि  
-अग्निर् भुवद् रयिपती रयीणा(ग्)ं सत्रा चक्राणो अमृतानि विश्वा  
-८।१।१७७।५ हिरण्य-पाणिम् ऊतये सवितारम् उप ह्वये स चेत्ता देवता पदम्  
-८।१।१७७।६ वामम् अद्य सवितर् वामम् उ श्वो दिवे-दिवे वामम् अस्मभ्य(ग्)ं सावीः  
-वामस्य हि क्षयस्य देव भूरेर् अया धिय वाम-भाजस् स्यम  
-८।१।१७७।७ बड् इत्था पर्वतानां खिद्रं बिभर्षि पृथिवि  
-प्र या भूमि प्रवत्वति मह्ना जिनोषि महिनि[*९२५]  
-[*९२३] थे १९४६ अन्द् १९८४ एदितिओन्स् ओड़् थे व्म्प् तेxत् हेरे इन्सेर्त् अ ड़ोओत्नोते थत् रेअद्स्: उदुत्यं चित्रम्, wहिछ् इस् थे ओन्ल्य् पर्त् मिस्सिन्ग् इन् अन् ओथेर्wइसे चोन्तिनुओउस् क़ुओते ड़्रोम् त्स् २।२।१२।  केइथ्ऽस् त्रन्स्लतिओन् ड़ोर् थिस् प्रतीक (हिस् त्स् २।२।१२ड़्) इस्: "थे रदिअन्त्।"  
-[*९२४] तेxत्: वेथसश्  
-[*९२५] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् १७८।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् १७७।  
-  
-  
-  
-८।१।१७८।१ स्तोमासस् त्वा विचारिणि प्रति ष्टोभन्त्य् अक्तुभिः  
-प्र या वाजं न हेषन्तं पेरुम् अस्यस्य् अर्जुनि  
-८।१।१७८।२ ऋदूदरेण सख्या सचेय यो मा न रिष्येद् धर्य्-अश्व पीतः  
-अयं यस् सोमो न्यधाय्य् अस्मे तस्मा इन्द्रं प्रतिरम् एम्य् अच्छ  
-८।१।१७८।३ आपान्त-मन्युस्  तृपल-प्रभर्मा धुनिश् शिमीवाञ् छरुमा(ग्)ं ऋजीषी  
-सोमो विश्वान्य् अतसा वनानि नार्वाग् इन्द्रं प्रतिमानानि देभुः  
-८।१।१७८।४ प्र सुवानस् सोम ऋत-युश् चिकेतेन्द्राय ब्रह्म जमदग्निर् अर्चन्न्  
-वृषायन्तासि शवसस् तुरस्यान्तर् यच्छ गृणते धर्त्रं दृ(ग्)ंह  
-८।१।१७८।५ स-बाधस् ते मदं च शुष्मयं च ब्रह्म नरो ब्रह्म-कृतस् सपर्यन्  
-अर्को वा यत् तुरते सोम-चक्षास् तत्रेद् इन्द्रो दधते पृत्सु[*९२६] तुर्याम्[*९२७]  
-[*९२६] तेxत्: पृथ्सु  
-[*९२७] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् १७९।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् १७८।  
-  
-  
-  
-८।१।१७९।१ वषट् ते विष्णव् आस आ कृणोमि तन् मे जुषस्व शिपि-विष्ट हव्यम्  
-वर्धन्तु त्वा सुष्टुतयो गिरो मे यूयं पात स्वस्तिभिस् सदा नः  
-८।१।१७९।२ प्र तत् ते अद्य शिपि-विष्ट नामार्यश् श(ग्)ंसामि वयुनानि विद्वान्  
-तं त्वा गृणामि तवसम् अतवीयान् क्षयन्तम् अस्य रजसः पराके  
-८।१।१७९।३ किम् इत् ते विष्णो परिचक्ष्यं भूत् प्र यद् ववक्षे शिपि-विष्टो अस्मि  
-मा वर्पो अस्मद् अप गूह एतद् यद् अन्य-रूपस् समिथे बभूथ  
-८।१।१७९।४ अग्ने दा दशुषे रयिं वीरवन्तं परीणसं शिशीहि नस् सूनुमतः  
-८।१।१७९।५ दा नो अग्ने शतिनो दास् सहस्रिणो दुरो न वाज(ग्ग्)ं श्रुत्या अपा वृधि  
-प्राची द्यावा-पृथिवी ब्रह्मणा कृधि सुवर्ण शुक्रम् उषसो वि दिद्युतुः  
-  
-८।१।१८०।१ अग्निर् दा द्रविणं वीर-पेशा अग्निर् ऋषिं यस् सहस्रा सनोति  
-अग्निर् दिवि हव्यम् आ त तनाग्नेर् धामानि विभृता पुरुत्रा  
-८।१।१८०।२ मा नो मर्धीर् आ तू भर  
-८।१।१८०।३ घृतं न पूतं तनूर् अरेपाश् शुचि हिरण्यम् तत् ते रुक्मो न रोचत स्वधावः  
-८।१।१८०।४ उभे सुश्चन्द्र सर्पिषो दर्वी श्रीणीष आसनि  
-उतो न उत्पुपूर्या उक्थेषु शवसस् पत इष(ग्ग्)ं स्तोतृभ्य आ भर  
-८।१।१८०।५ वायो शत(ग्)ं हरीणां युवस्व पोष्याणाम् उत वा ते सहस्रिणो रथ आ यातु पाजसा  
-८।१।१८०।६ प्र याभिर् यासि दाश्वा(ग्)ंसम् अच्छा नियुद्भिर् वायव् इष्टये दुरोणे  
-नि नो रयि(ग्)ं सुभोजसं युवेह नि वीरवद् गव्यम् अश्वियं च राधः  
-८।१।१८०।७ रेवतीर् नस् सध-माद इन्द्रे सन्तु तुवि-वाजाः क्षुमन्तो याभिर् मदेम  
-८।१।१८०।८ रेवा(ग्)ं इद् रेवतस् स्तोता स्यात् त्वावतो मघोनः प्रेद् उ हरिवस् श्रुतस्य  
-  
-८।०।२९ पृथिविस् सपर्यन् विदिद्युतुश् च राधश् चत्वारि च  
-  
-८।१।१८१।१ विश्व-जिते धन-जिते स्वर्-जिते सत्रा-जिते नृ-जित उर्वरा-जिते  
-अश्व-जिते गो-जिते अब्-जिते भरेन्द्राय सोमं यजताय हर्यतम्  
-८।१।१८१।२ अभिभुवे ऽभिभङ्गाय वन्वते ऽषाल्हाय सहमानाय वेधसे  
-तुविग्रये वह्नये दुष्टरीतवे सत्रा-साहे नम इन्द्राय वोचत  
-८।१।१८१।३ सत्रा-साहो जन-भक्षो जनं-सहश् च्यवनो युध्मो अनु जोषम् उक्षितः वृतं-चयस् सहुरिर् विक्ष्वारित[*९२८] इन्द्रस्य वोचं प्र कृतानि वीर्या  
-८।१।१८१।४ अनानुदो वृषभो दोधतो वधो गम्भीर ऋष्वो असमष्ट-काव्यः  
-रध्र-चोदश् श्नथनो वीलितस् पृथुर् इन्द्रस् सुयज्ञ उषसस् स्वर् जनत्  
-८।१।१८१।५ यज्ञेन गातुम् अप्तुरो विविद्रिरे धियो हिन्वाना उशिजो मनीषिणः  
-अभिस्वरा निषदा गा अवस्यव इन्द्रे हिन्वाना द्रविणान्य् आशत  
-[*९२८] तेxत्: इक्ष्वारित  
-  
-  
-८।१।१८२।१ इन्द्र श्रेष्ठानि द्रविणानि धेहि चित्तिं दक्षस्य सुभगत्वम् अस्मे  
-पोषं रयीणाम् अरिष्टिं तनूनां स्वाद्मानं वाचस् सुदिनत्वम् अह्नाम्  
-८।१।१८२।२ त्रि-कद्रुकेषु महिषो यवाशिरं तुवि-शुष्मस्  
-तृपत्सोमम् अपिबद् विष्णुना सुतं यथावशत्  
-स ईं ममाद महि कर्म कर्तवे महाम् उरुं  
-सैनं सश्चद् देवो देवं सत्यम् इन्द्रं सत्य इन्दुः  
-८।१।१८२।३ अध त्विषीमां[*९२९] अभ्योजसा क्रिविं युधाभवद्  
-आ रोदसी अपृणद् अस्य मज्मना प्र वावृधे  
-अधत्तान्यं जठरे प्रेम् अरिच्यत  
-सैनं सश्चद् देवो देवम् सत्यम् इन्द्रं[*९३०] सत्य इन्दुः  
-८।१।१८२।४ साकं जातः क्रतुना साकम् ओजसा ववक्षिथ  
-साकं वृद्धो वीर्यैस् सासहिर् मृधो विचर्षणिः  
-दाता राधस् स्तुवते काम्यं वसु सैनं सश्चद् देवो देवम् सत्यम् इन्द्रं[*९३१] सत्य इन्दुः  
-८।१।१८२।५ तव त्यन् नर्यं[*९३२] नृतो ऽप इन्द्र प्रथमं पूर्व्यं दिवि प्रवाच्यं कृतम्  
-यद् देवस्य शवसा प्रारिणा असुं रिणन्न् अपः  
-भुवद् विश्वम् अभ्य् आदेवम् ओजसा विदाद् ऊर्जं शत-क्रतु विदाद् इषम्  
-[*९२९] तेxत्: त्विषीम्मां  
-[*९३०] व्म्प् ओमित्स् सश्चद् देवो देवम् सत्यम् इन्द्रं, wहिछ् इस् इन् र्व्, अन्द् हस् = इन् इत्स् प्लचे इन् थे तेxत्।  
-[*९३१] व्म्प् ओमित्स् देवो देवम् सत्यम् इन्द्रं, wहिछ् इस् इन् र्व्, अन्द् हस् = इन् इत्स् प्लचे इन् थे तेxत्।  
-[*९३२] तेxत्: नर्य  
-  
-  
-  
-८।०।३० द्रविणान्य् आशताप एकञ् च  
-  
-८।१।१८३।१ विष्णवे स्वाहा  
-८।१।१८३।२ विष्णवे स्वस्ति-दाय स्वाहा  
-८।१।१८३।३ विष्णवे सर्वं-धराय स्वाहा  
-८।१।१८३।४ विष्णवे सर्व-गोप्त्रे स्वाहा  
-८।१।१८३।५ विष्णवे सर्वात्मने स्वाहा  
-८।१।१८३।६ विष्णवे सर्व-देवात्मने स्वाहा  
-८।१।१८३।७ विष्णवे सर्व-वेदात्मने स्वाहा  
-८।१।१८३।८ विष्णवे सर्व-मुनीनाम् आत्मने स्वाहा  
-८।१।१८३।९ विष्णवे योग-सन्धारणाय स्वाहा  
-८।१।१८३।१० विष्णवे सर्व-प्रतिष्ठाय स्वाहा  
-  
-८।१।१८४।१ नारायणाय स्वाहा  
-८।१।१८४।२ नारायणात्मने स्वाहा  
-८।१।१८४।३ नारायणाय सर्व-देवात्मने स्वाहा  
-८।१।१८४।४ नारायणायेन्द्र-रूपाय स्वाहा  
-८।१।१८४।५ नारायणाय संयमनाधिपतये स्वाहा  
-८।१।१८४।६ नारायणाय सम्भोग-पतये स्वाहा  
-८।१।१८४।७ नारायणाय सर्व-तृप्ति-प्रदाय स्वाहा  
-८।१।१८४।८ नारायणायानन्तात्मने स्वाहा  
-८।१।१८४।९ नारायणाय ब्रह्मेशात्मने स्वाहा  
-८।१।१८४।१० नारायणाय प्रजा-पतये स्वाहा  
-  
-८।१।१८५।१ नारायणायानन्तशयनाय स्वाहा  
-८।१।१८५।२ पुण्य-नारायणाय स्वाहा  
-८।१।१८५।३ पुण्य-नारायणाय त्रि-दशाधिपतये स्वाहा  
-८।१।१८५।४ पुण्य-नारायणाय वटाक्ष-वासिने स्वाहा  
-८।१।१८५।५ पुण्य-नारायणाय पादार्चिषे स्वाहा  
-८।१।१८५।६ पुण्य-नारायणाय बाल-रूपिणे स्वाहा  
-८।१।१८५।७ पुण्य-नारायणाय माया-रूपिणे स्वाहा  
-८।१।१८५।८ पुण्य-नारायणाय प्रबोधिने स्वाहा  
-८।१।१८५।९ पुण्य-नारायणाय सर्वाधिष्ठानाय स्वाहा  
-८।१।१८५।१० पुण्य-नारायणाय सर्व-प्रवरणाय स्वाहा  
-  
-८।१।१८६।१ पुण्य-नारायणाय मूर्ध्नि स्थानाय स्वाहा  
-८।१।१८६।२ बालाय स्वाहा  
-८।१।१८६।३ बालाय वट-पत्र-शायिने स्वाहा  
-८।१।१८६।४ सत्याय स्वाहा  
-८।१।१८६।५ सत्य-निष्ठाय स्वाहा  
-८।१।१८६।६ सत्यात्मने स्वाहा  
-८।१।१८६।७ सत्य-नित्याय स्वाहा  
-८।१।१८६।८ सर्वे त्व(ग्)ं हि सत्ये सत्यं प्रतिष्ठाय स्वाहा  
-८।१।१८६।९ सत्याय सर्व-लोक-प्रवर्तिने स्वाहा  
-८।१।१८६।१० सत्यात्म-देवाय स्वाहा  
-  
-८।१।१८७।१ सत्य-मोदाय स्वाहा  
-८।१।१८७।२ सत्य-सोपानकाय स्वाहा  
-८।१।१८७।३ त्व(ग्)ं हि सत्यात्मन्थ् सत्य-निष्ठोद्भवाय स्वाहा  
-८।१।१८७।४ पुरुषाय स्वाहा  
-८।१।१८७।५ पुरुष-स(ग्ग्)ंस्तुताय स्वाहा  
-८।१।१८७।६ पुरुष-समधीताय स्वाहा  
-८।१।१८७।७ पुरुष-निष्ठाय स्वाहा  
-८।१।१८७।८ पुरुषात्मने स्वाहा  
-८।१।१८७।९ पुरुष-पुरुषाय स्वाहा  
-८।१।१८७।१० पुरुषाय जगन्-मित्राय स्वाहा  
-  
-८।१।१८८।१ पुरुषाय जगद्-आधाराय स्वाहा  
-८।१।१८८।२ पुरुषाय जगत्-प्रवर्तिने स्वाहा  
-८।१।१८८।३ पुरुषाय जगद्-धेतवे स्वाहा  
-८।१।१८८।४ विष्णु-क्रीडात्मने स्वाहा  
-८।१।१८८।५ भूमि-सङ्क्रीडात्मने स्वाहा  
-८।१।१८८।६ जगन्-मोदाय स्वाहा  
-८।१।१८८।७ जगद्-धिताय स्वाहा  
-८।१।१८८।८ निखुर्यपाय[*९३३] स्वाहा  
-८।१।१८८।९ काय स्वाहा  
-८।१।१८८।१० कस्मै स्वाहा  
-[*९३३] अच्चोर्दिन्ग् तो म्W, प्। ५४५, निखुर्यप = नमे ओड़् विष्णु इन् त्स्।  
-  
-  
-८।१।१८९।१ कतमस्मै स्वाहा  
-८।१।१८९।२ सर्वस्मै स्वाहा  
-८।१।१८९।३ विष्णवे स्वाहा  
-८।१।१८९।४ विष्णवे मन्त्र-सन्द्रुहणाय स्वाहा  
-८।१।१८९।५ ध्रुवरूपिणे स्वाहा  
-८।१।१८९।६ संवृतात्मने स्वाहा  
-८।१।१८९।७ सम्प्रीति-कराय स्वाहा  
-८।१।१८९।८ सर्व-शुभ-प्रदाय स्वाहा  
-८।१।१८९।९ अशुभ-नाशाय स्वाहा  
-८।१।१८९।१० शुभ-सम्बर्हणाय स्वाहा  
-  
-८।१।१९०।१ पुण्याय स्वाहा  
-८।१।१९०।२ पुण्याय बलोर्जिताय स्वाहा  
-८।१।१९०।३ पुण्याय जय-समृद्धाय स्वाहा  
-८।१।१९०।४ पुण्याय कामानन्द-जननाय स्वाहा  
-८।१।१९०।५ पुण्याय सर्वानन्दाय स्वाहा  
-८।१।१९०।६ पुण्याय समृद्धाय स्वाहा  
-८।१।१९०।७ पुण्याय श्री-निधानाय स्वाहा  
-८।१।१९०।८ पुण्याय ब्रह्म-सन्द्रुहणाय स्वाहा  
-८।१।१९०।९ पुण्याय वर-स्थानाय स्वाहा  
-८।१।१९०।१० पुण्याय लोक-सम्भावनाय स्वाहा  
-८।१।१९०।११ पुण्यायाद्भुताय स्वाहा  
-८।१।१९०।१२ पुण्यायानादि-निधनाय स्वाहा  
-८।१।१९०।१३ पुण्यायामित-महिम्ने स्वाहा  
-८।१।१९०।१४ पुण्यायात्यन्त-हिताय स्वाहा  
-८।१।१९०।१५ पुण्याय सर्व-प्रतिष्ठाय स्वाहा  
-८।१।१९०।१६ पुण्याय सर्व-लोक-प्रतिष्ठाय स्वाहा  
-८।१।१९०।१७ पुण्याय सर्व-लोक-शुभावहाय स्वाहा  
-८।१।१९०।१८ पुण्याय सर्वात्मने स्वाहा  
-  
-८।०।३१ प्रतिष्ठाय स्वाहा  
-प्रजा-पतये स्वाहा सर्व-प्रहरणाय स्वाहा सत्यात्म-देवाय स्वाहा जगन्-मित्राय स्वाहा  
-कस्मै स्वाहा शुभ-सम्बर्हणाय स्वाहा  
-लोक-सम्भवनाय स्वाहाष्टौ च  
-  
-  
-________________________________________  
-  
-  
-भगवच्-छताष्टकम्  
-  
-८।२।१।१ नारायणाय स्वाहा  
-८।२।१।२ नराय स्वाहा  
-८।२।१।३ शौरये स्वाह  
-८।२।१।४ चक्र-पाणये स्वाहा  
-८।२।१।५ जनार्दनाय स्वाहा  
-८।२।१।६ वासुदेवाय स्वाहा  
-८।२।१।७ जगद्-योनये स्वाहा  
-८।२।१।८ वामनाय स्वाहा  
-८।२।१।९ ज्ञान-पञ्जराय स्वाहा  
-८।२।१।१० श्री-वल्लभाय स्वाहा  
-  
-८।२।२।१ जगन्नाथाय स्वाहा  
-८।२।२।२ चतुर्-मूर्तये स्वाहा  
-८।२।२।३ चतुर्-भुजाय स्वाहा  
-८।२।२।४ गजेन्द्र-घ्नाय स्वाहा  
-८।२।२।५ गजार्ति-घ्नाय स्वाहा  
-८।२।२।६ केशवाय स्वाहा  
-८।२।२।७ क्लेश-नाशनाय स्वाहा  
-८।२।२।८ कैटभारये स्वाहा  
-८।२।२।९ अविद्यारये स्वाहा  
-८।२।२।१० काम-दाय स्वाहा  
-  
-८।२।३।१ कमलेक्षणाय स्वाहा  
-८।२।३।२ कंस-शत्रवे स्वाहा  
-८।२।३।३ अघारातये स्वाहा  
-८।२।३।४ काकुत्-स्थाय स्वाहा  
-८।२।३।५ खग-वाहनाय स्वाहा  
-८।२।३।६ नीलाम्भुज-द्युतये स्वाहा  
-८।२।३।७ नित्याय स्वाहा  
-८।२।३।८ नित्य-तृप्ताय स्वाहा  
-८।२।३।९ निराश्रयाय स्वाहा  
-८।२।३।१० नित्यानन्दाय स्वाहा  
-  
-८।२।४।१ सुराध्यक्षाय स्वाःआ  
-८।२।४।२ निर्विकल्पाय स्वाहा  
-८।२।४।३ निरञ्जनाय स्वाहा  
-८।२।४।४ ब्रह्मण्याय स्वाहा  
-८।२।४।५ पृथिवी-नाथाय स्वाहा  
-८।२।४।६ पीत-वाससे स्वाहा  
-८।२।४।७ गुहाशयाय स्वाहा  
-८।२।४।८ वेद-गर्भाय स्वाहा  
-८।२।४।९ विभवे स्वाहा  
-८।२।४।१० विष्णवे स्वाहा  
-  
-८।२।५।१ श्रीमते स्वाहा  
-८।२।५।२ त्रैलोक्य-भूषणाय स्वाहा  
-८।२।५।३ यज्ञ-मूर्तये स्वाहा  
-८।२।५।४ अमेयात्मने स्वाहा  
-८।२।५।५ वर-दाय स्वाहा  
-८।२।५।६ वासवानुजाय स्वाहा  
-८।२।५।७ भक्ति-प्रियाय स्वाहा  
-८।२।५।८ जगत्-पूज्याय स्वाहा  
-८।२।५।९ परमात्मने स्वाहा  
-८।२।५।१० असुरान्तकाय स्वाहा  
-  
-८।२।६।१ देव-देवाय स्वाहा  
-८।२।६।२ हृषीकेशाय स्वाहा  
-८।२।६।३ शङ्कराय स्वाहा  
-८।२।६।४ गरुड-ध्वजाय स्वाहा  
-८।२।६।५ नारसिंहाय स्वाहा  
-८।२।६।६ महा-देवाय स्वाहा  
-८।२।६।७ स्वयम्भुवे स्वाहा  
-८।२।६।८ भुवनेश्वराय स्वाहा  
-८।२।६।९ श्रीधराय स्वाहा  
-८।२।६।१० देवकी-पुत्राय स्वाहा  
-  
-८।२।७।१ पार्थ-सारथये स्वाहा  
-८।२।७।२ अच्युताय स्वाहा  
-८।२।७।३ शङ्ख-पाणये स्वाहा  
-८।२।७।४ परञ्-ज्योतिषे स्वाहा  
-८।२।७।५ आत्म-ज्योतिषे स्वाहा  
-८।२।७।६ अचञ्चलाय स्वाहा  
-८।२।७।७ श्रीवत्(थ्)साङ्काय स्वाहा  
-८।२।७।८ अखिलाधाराय स्वाहा  
-८।२।७।९ सर्व-लोक-पतये स्वाहा  
-८।२।७।१० प्रभवे स्वाहा  
-  
-८।२।८।१ त्रिविक्रमाय स्वाहा  
-८।२।८।२ त्रिकाल-ज्नाय स्वाहा  
-८।२।८।३ त्रिधम्ने स्वाहा  
-८।२।८।४ करुणा-कराय स्वाहा  
-८।२।८।५ सर्व-ज्ञाय स्वाहा  
-८।२।८।६ सर्वस्मै स्वाहा  
-८।२।८।७ सर्व-साक्षिणे स्वाहा  
-८।२।८।८ अनिरुद्धाय स्वाहा  
-८।२।८।९ हय-ग्रीवाय स्वाहा  
-८।२।८।१० हरये स्वाहा  
-  
-८।२।९।१ शार्ङ्गिणे स्वाहा  
-८।२।९।२ हरिकेशाय स्वाहा  
-८।२।९।३ हलायुधाय स्वाहा  
-८।२।९।४ सहस्र-बाहवे स्वाहा  
-८।२।९।५ अव्यक्ताय स्वाहा  
-८।२।९।६ सहस्राक्षाय स्वाहा  
-८।२।९।७ अक्षयाय स्वाहा  
-८।२।९।८ अक्षराय स्वाहा  
-८।२।९।९ अनन्ताय स्वाहा  
-८।२।९।१० सर्व-लोकेशाय स्वाहा  
-  
-८।२।१०।१ कामानन्दाय स्वाहा  
-८।२।१०।२ विक्रमाय स्वाहा  
-८।२।१०।३ माया-धाराय स्वाहा  
-८।२।१०।४ निराधाराय स्वाहा  
-८।२।१०।५ सर्वाधाराय स्वाहा  
-८।२।१०।६ धरा-धराय स्वाहा  
-८।२।१०।७ महा-विष्णवे स्वाहा  
-८।२।१०।८ सदा-विष्णवे स्वाहा  
-८।२।१०।९ माधवाय स्वाहा  
-८।२।१०।१० मधुसूदनाय स्वाहा  
-  
-८।२।११।१ निष्कलङ्काय स्वाहा  
-८।२।११।२ निराभासाय स्वाहा  
-८।२।११।३ निष्प्रपञ्चाय स्वाहा  
-८।२।११।४ निरञ्जनाय स्वाहा  
-८।२।११।५ विश्व-भुजे स्वाहा  
-८।२।११।६ विश्व-कर्त्रे स्वाहा  
-८।२।११।७ पुण्य-कीर्तये स्वाहा  
-८।२।११।८ पुरातनाय स्वाहा  
-८।२।११।९ अतो देवा इदं विष्णुः  
-८।२।११।१० भूस् स्वाहा  
-  
-  
-________________________________________  
-  
-  
-श्री-शताष्टकम्  
-  
-८।३।१।१ पद्म-प्रियायै स्वाहा  
-८।३।१।२ पद्मिन्यै स्वाहा  
-८।३।१।३ पद्म-हस्तायै स्वाहा  
-८।३।१।४ पद्मालयायै स्वाहा  
-८।३।१।५ पद्म-पादायै स्वाहा  
-८।३।१।६ पद्माक्ष्यै स्वाहा  
-८।३।१।७ पद्म-वासिन्यै स्वाहा  
-८।३।१।८ पद्म-पत्राक्ष-दैवतायै स्वाहा  
-८।३।१।९ पद्माङ्कायै स्वाहा  
-८।३।१।१० पद्म-दोहिन्यै स्वाहा  
-  
-८।३।२।१ श्री-देव्यै स्वाहा  
-८।३।२।२ ज्ञान-रूपायै स्वाहा  
-८।३।२।३ सुख-दायै स्वाहा  
-८।३।२।४ सुतृप्तिकायै स्वाहा  
-८।३।२।५ पुष्टि-प्रदायै स्वाहा  
-८।३।२।६ महा-लक्ष्म्यै स्वाहा  
-८।३।२।७ लक्ष्मी-पूर्वायै स्वाहा  
-८।३।२।८ अभिवृद्धि-दायै स्वाहा  
-८।३।२।९ प्रमोद-सम्भवायै स्वाहा  
-८।३।२।१० लक्ष्मीं-भरायै स्वाहा  
-  
-८।३।३।१ स्वात्मं-भरायै स्वाहा  
-८।३।३।२ वृद्ध्यै स्वाहा  
-८।३।३।३ समुद्वहायै स्वाहा  
-८।३।३।४ विदायै स्वाहा  
-८।३।३।५ सुवाचे स्वाहा  
-८।३।३।६ इच्छा-विधायिन्यै स्वाहा  
-८।३।३।७ पुण्याङ्गायै स्वाहा  
-८।३।३।८ पुण्य-स्वरूपायै स्वाहा  
-८।३।३।९ उद्वहायै स्वाहा  
-८।३।३।१० सत्यकायै स्वाहा  
-  
-८।३।४।१ पुण्यात्म-हृदयावासायै स्वाहा  
-८।३।४।२ पुण्य-वक्ष-स्थलालयायै स्वाहा  
-८।३।४।३ पुण्य-नेत्रायै स्वाहा  
-८।३।४।४ पुण्य-दात्र्यै स्वाहा  
-८।३।४।५ नित्य-पुण्यायै स्वाहा  
-८।३।४।६ सुपुण्यकायै स्वाहा  
-८।३।४।७ परमोदायै स्वाहा  
-८।३।४।८ भद्र-तारायै स्वाहा  
-८।३।४।९ साध्य-सर्वार्थ-साधिन्यै स्वाहा  
-८।३।४।१० कान्ति-प्रदायै स्वाहा  
-  
-८।३।५।१ सर्वनन्दायै स्वाहा  
-८।३।५।२ विष्णु-सङ्कल्प-सम्भवायै स्वाहा  
-८।३।५।३ शोभनाङ्गायै स्वाहा  
-८।३।५।४ श्रुति-प्राप्यायै स्वाहा  
-८।३।५।५ भोगायै स्वाहा  
-८।३।५।६ भोग-प्रतिष्ठितायै स्वाहा  
-८।३।५।७ सर्व-भोगायै स्वाहा  
-८।३।५।८ धारिण्यै स्वाहा  
-८।३।५।९ भोग-दायै स्वाहा  
-८।३।५।१० पुण्यवत्यै स्वाहा  
-  
-८।३।६।१ वसुं-धरायै स्वाहा  
-८।३।६।२ वसु-कर्यै स्वाहा  
-८।३।६।३ लोक-मात्रे स्वाहा  
-८।३।६।४ प्रसादिन्यै स्वाहा  
-८।३।६।५ सङ्कल्प-तृप्त्यै स्वाहा  
-८।३।६।६ सन्तृप्त्यै स्वाहा  
-८।३।६।७ सुब्रह्मण्यायै स्वाहा  
-८।३।६।८ महा-नद्यै स्वाहा  
-८।३।६।९ सङ्कॢप्त-साधिन्यै स्वाहा  
-८।३।६।१० ब्रह्मण्यै स्वाहा  
-  
-८।३।७।१ कल्प-साधिन्यै स्वाहा  
-८।३।७।२ सुगन्धिन्यै स्वाहा  
-८।३।७।३ भोगवत्यै स्वाहा  
-८।३।७।४ रुद्राण्यै स्वाहा  
-८।३।७।५ दीप्ति-कारिण्यै स्वाहा  
-८।३।७।६ तृप्त्यै स्वाहा  
-८।३।७।७ जय-कर्यै स्वाहा  
-८।३।७।८ दीप्त्यै स्वाहा  
-८।३।७।९ पुष्ट्यै स्वाहा  
-८।३।७।१० परम-पुष्टि-दायै स्वाहा  
-  
-८।३।८।१ शान्त्यै स्वाहा  
-८।३।८।२ विद्या-धर्यै स्वाहा  
-८।३।८।३ विद्या-रूपायै स्वाहा  
-८।३।८।४ इष्ट-साधिन्यै स्वाहा  
-८।३।८।५ नित्यानपायिन्यै स्वाहा  
-८।३।८।६ रम्यायै स्वाहा  
-८।३।८।७ कल्यान-गुण[*९३४] गुम्फितायै[*९३५] स्वाहा  
-८।३।८।८ भूति-दायै स्वाहा  
-८।३।८।९ श्री-कर्यै स्वाहा  
-८।३।८।१० देव्यै स्वाहा  
-[*९३४] तेxत्: कल्याण-गुण  
-[*९३५] तेxत्: गुम्भितायै  
-  
-  
-  
-८।३।९।१ विभूत्यै स्वाहा  
-८।३।९।२ हंस-वाहिन्यै स्वाहा  
-८।३।९।३ प्रह्लादिन्यै स्वाहा  
-८।३।९।४ प्रकृत्यै स्वाहा  
-८।३।९।५ चिद्-रूपायै स्वाहा  
-८।३।९।६ चित्त-वासिन्यै स्वाहा  
-८।३।९।७ सर्वायुषाणाम्-आयुर्-मे पाहि स्वाहा  
-८।३।९।८ सर्वैश्वर्यै स्वाहा  
-८।३।९।९ सत्यै स्वाहा  
-८।३।९।१० सर्वदायिन्यै स्वाहा  
-  
-८।३।१०।१ धाराङ्ग्यै[*९३६] स्वाहा  
-८।३।१०।२ प्रयोजन-करायै स्वाहा  
-८।३।१०।३ प्रधान-कारिण्यै स्वाहा  
-८।३।१०।४ समृद्ध्यै स्वाहा  
-८।३।१०।५ पुण्य-वर्धिन्यै स्वाहा  
-८।३।१०।६ श्री-वैष्णव्यै स्वाहा  
-८।३।१०।७ जयायै स्वाहा  
-८।३।१०।८ तोयायै स्वाहा  
-८।३।१०।९ सन्तान-कारिण्यै स्वाहा  
-८।३।१०।१० विष्णु-पत्न्यै स्वाहा  
-[*९३६] १९४६ एदितिओन्: उदाराङ्ग्यै; १९८४ एदितिओन्: धाराङ्ग्यै  
-  
-  
-८।३।११।१ महा-भूत्यै स्वाहा  
-८।३।११।२ वित्त-दायै स्वाहा  
-८।३।११।३ वृष-वाहिन्यै स्वाहा  
-८।३।११।४ वराङ्गनायै स्वाहा  
-८।३।११।५ दिव्याङ्ग्यै स्वाहा  
-८।३।११।६ सर्व-भूत-हित-प्रदायै स्वाहा  
-८।३।११।७ स्वाहायै स्वाहा  
-८।३।११।८ स्वधायै स्वाहा  
-८।३।११।९ श(ग्)ं सानियच्छत्  
-८।३।११।१० भूय आत्म-वृत्या  
-  
-  
-________________________________________  
-  
-  
-मही-शताष्टकम्  
-  
-८।४।१।१ कमलायै स्वाहा  
-८।४।१।२ कमलावासायै स्वाहा  
-८।४।१।३ कञ्ज-नेत्रायै स्वाहा  
-८।४।१।४ मत्यै स्वाहा  
-८।४।१।५ धृत्यै स्वाहा  
-८।४।१।६ विशोकायै स्वाहा  
-८।४।१।७ हरिण्यै स्वाहा  
-८।४।१।८ पौष्ण्यै स्वाहा  
-८।४।१।९ क्षोण्यै स्वाहा  
-८।४।१।१० मह्यै स्वाहा  
-  
-८।४।२।१ अतलायै स्वाहा  
-८।४।२।२ नितलायै स्वाहा  
-८।४।२।३ वितलायै स्वाहा  
-८।४।२।४ सुतलायै स्वाहा  
-८।४।२।५ रसातलायै स्वाहा  
-८।४।२।६ महातलायै स्वाहा  
-८।४।२।७ तल-रूपायै स्वाहा  
-८।४।२।८ तलातलायै स्वाहा  
-८।४।२।९ भूम्यै स्वाहा  
-८।४।२।१० भू-तल-रूपायै स्वाहा  
-  
-८।४।३।१ लोक-रूपायै स्वाहा  
-८।४।३।२ उपसंहितायै स्वाहा  
-८।४।३।३ प्रकृत्यै स्वाहा  
-८।४।३।४ विकृत्यै स्वाहा  
-८।४।३।५ विश्व-रूपायै स्वाहा  
-८।४।३।६ विश्व-साधिन्यै स्वाहा  
-८।४।३।७ धरित्र्यै स्वाहा  
-८।४।३।८ महत्र्यै स्वाहा  
-८।४।३।९ धात्र्यै स्वाहा  
-८।४।३।१० नदी-रूपायै स्वाहा  
-  
-८।४।४।१ सरस्वत्यै स्वाहा  
-८।४।४।२ आत्मम्-भरायै स्वाहा  
-८।४।४।३ वर्धिन्यै स्वाहा  
-८।४।४।४ काश्यप्यै स्वाहा  
-८।४।४।५ महत्यै स्वाहा  
-८।४।४।६ स्थिरायै स्वाहा  
-८।४।४।७ धरा-धर-समाधारायै स्वाहा  
-८।४।४।८ भुवे स्वाहा  
-८।४।४।९ धरा-धर-रूपिण्यै स्वाहा  
-८।४।४।१० वसुं-धरायै स्वाहा  
-  
-८।४।५।१ वसु-करायै स्वाहा  
-८।४।५।२ वसुधायै स्वाहा  
-८।४।५।३ धन-वर्धिन्यै स्वाहा  
-८।४।५।४ फल-रूपायै स्वाहा  
-८।४।५।५ मनो-रूपिण्यै स्वाहा  
-८।४।५।६ बुद्धि-रूपिण्यै स्वाहा  
-८।४।५।७ चित्त-रूपिण्यै स्वाहा  
-८।४।५।८ अहङ्कार-रूपिण्यै स्वाहा  
-८।४।५।९ भूत-पञ्चक-रूपायै स्वाहा  
-८।४।५।१० पृथ्व्यै स्वाहा  
-  
-८।४।६।१ सागर-रूपिण्यै स्वाहा  
-८।४।६।२ अम्भुधि-वर्धिन्यै स्वाहा  
-८।४।६।३ सर्वायै स्वाहा  
-८।४।६।४ सर्व-काम-प्रदायै स्वाहा  
-८।४।६।५ पृथायै स्वाहा  
-८।४।६।६ कामायै स्वाहा  
-८।४।६।७ मनो-हरायै स्वाहा  
-८।४।६।८ सिद्धायै स्वाहा  
-८।४।६।९ सर्व-मङ्गल[*९३७]-कारिण्यै स्वाहा  
-८।४।६।१० श्यामाङ्ग्यै स्वाहा  
-[*९३७] तेxत्: -मङ्गऌअ  
-  
-  
-८।४।७।१ सन्निभायै स्वाहा  
-८।४।७।२ महा-चातक-वाहिन्यै स्वाहा  
-८।४।७।३ उत्पल-हस्तायै स्वाहा  
-८।४।७।४ पुण्डरीक-विलोचनायै स्वाहा  
-८।४।७।५ पुण्डरीकाक्ष-दयितायै स्वाहा  
-८।४।७।६ विश्वम्-भर-कुलायिन्यै स्वाहा  
-८।४।७।७ हरेः प्रियतमायै स्वाहा  
-८।४।७।८ वासस्थलायै स्वाहा  
-८।४।७।९ अतिकान्तिकायै स्वाहा  
-८।४।७।१० आदि-मूर्त्यै स्वाहा  
-  
-८।४।८।१ प्रियायै स्वाहा  
-८।४।८।२ नित्यायै स्वाहा  
-८।४।८।३ नन्दिन्यै स्वाहा  
-८।४।८।४ सत्य-रूपिण्यै स्वाहा  
-८।४।८।५ सत्य-प्रियायै स्वाहा  
-८।४।८।६ हिरण्याक्षान्तकारिण्यै स्वाहा  
-८।४।८।७ जीव-व्रात-सद्-आधारायै स्वाहा  
-८।४।८।८ महा-लक्ष्मी-प्रियायै स्वाहा  
-८।४।८।९ वर-प्रसादिन्यै स्वाहा  
-८।४।८।१० रम्यायै स्वाहा  
-  
-८।४।९।१ विपुलायै स्वाहा  
-८।४।९।२ वर-मोदिन्यै स्वाहा  
-८।४।९।३ वर-रूपायै स्वाहा  
-८।४।९।४ पुण्याङ्गायै स्वाहा  
-८।४।९।५ पुण्यवत्यै स्वाहा  
-८।४।९।६ अब्धि-मेखलायै स्वाहा  
-८।४।९।७ इष्ट-प्रदायै स्वाहा  
-८।४।९।८ यज्ञाङ्ग्यै स्वाहा  
-८।४।९।९ प्रकृत्यै स्वाहा  
-८।४।९।१० इष्ट-साधिन्यै स्वाहा  
-  
-८।४।१०।१ आत्मम्-भरायै स्वाहा  
-८।४।१०।२ सर्व-सहायै स्वाहा  
-८।४।१०।३ निर्निद्रायै स्वाहा  
-८।४।१०।४ निष्कृत्यै स्वाहा  
-८।४।१०।५ स्थित्यै स्वाहा  
-८।४।१०।६ स्वाहायै स्वाहा  
-८।४।१०।७ स्वधायै स्वाहा  
-८।४।१०।८ यज्ञ-यज्ञायै स्वाहा  
-८।४।१०।९ बृहत्यै स्वाहा  
-८।४।१०।१० ओङ्-कार-रूपिण्यै स्वाहा  
-  
-८।४।११।१ स्वाहा-कारायै स्वाहा  
-८।४।११।२ स्वधा-कारायै स्वाहा  
-८।४।११।३ वेद-विद्यायै स्वाहा  
-८।४।११।४ सुरूपिण्यै स्वाहा  
-८।४।११।५ महा-देव्यै स्वाहा  
-८।४।११।६ महा-मान्यायै स्वाहा  
-८।४।११।७ सर्व-सिद्ध्यै स्वाहा  
-८।४।११।८ धनुर्[*९३८]-धरायै स्वाहा  
-८।४।११।९ तयादित्या  
-८।४।११।१०  तत् त्रीण्य्[*९३९] एषा  
-[*९३८] तेxत्: थनुर्-  
-[*९३९] च्ड़्। व्म्प् ६।३३।५  
-  
-  
-  
-८।१।१९१।१ नारायणाय विद्महे वासुदेवाय धीमहि  
-तन् नो विस्णुः प्रचोदयात्  
-८।१।१९१।२ महा-देव्यै च विद्महे विष्णु-पत्न्यै च धीमहि  
-तन् नो लक्ष्मीः प्रचोदयात्  
-८।१।१९१।३ धनुर्[*९४०]-धरायै विद्महे सर्व-सिद्ध्यै च धीमहि  
-तन् नो धरा प्रचोदयात्[*९४१]  
-८।१।१९१।४ श्री-भू-सख्यै च विद्महे विष्णु-पत्न्यै च धीमहि  
-तन् नो नीलाः[*९४२] प्रचोदयात्  
-८।१।१९१।५ लोकाध्यक्षाय विद्महे धराध्यक्षाय धीमहि  
-तन् नः कूर्मः प्रचोदयात्  
-[*९४०] तेxत्: थनुर्-  
-[*९४१] च्ड़्। व्म्प् ६।१०।६  
-[*९४२] तेxत्: नीऌआः  
-  
-  
-  
-८।१।१९२।१ भू-वराहाय विद्महे हिरण्य-गर्भाय धीमहि  
-तन् नः क्रोडः प्रचोदयात्  
-८।१।१९२।२ वज्र-नखाय विद्महे तीक्ष्ण-द(ग्ग्)ंष्ट्राय धीमहि  
-तन् नो नारसि(ग्)ंहः प्रचोदयात्  
-८।१।१९२।३ वाग्-ईश्वराय विद्महे हयग्रीवाय धीमहि  
-तन् नो ह(ग्)ंसः प्रचोदयात्  
-८।१।१९२।४ वेदान्ताङ्गाय विद्महे हयग्रीवाय धीमहि  
-तन् नो हयग्रीवः प्रचोदयात्  
-८।१।१९२।५ हंस-हंसाय विद्महे परम-हंषाय धीमहि  
-तन् नो हंसः प्रचोदयात्  
-  
-८।१।१९३।१ दाशरथाय[*९४३] विद्महे सीता-वल्लभाय धीमहि  
-तन् नो रामः प्रचोदयात्  
-८।१।१९३।२ धनुर्-धराय विद्महे राम-भद्राय धीमहि  
-तन् नो रामः प्रचोदयात्  
-८।१।१९३।३ सुदर्शनाय विद्महे हेति-राजाय धीमहि  
-तन् नश् चक्रः प्रचोदयात्  
-८।१।१९३।४ ज्वाला-चक्राय विद्महे महा-चक्राय धीमहि  
-तन् नश् चक्रः प्रचोदयात्  
-८।१।१९३।५ दामोदराय विद्महे वासुदेवाय धीमहि  
-तन् नः कृष्णः प्रचोदयात्  
-[*९४३] तेxत्: दाशरधाय  
-  
-  
-८।१।१९४।१ तत्-पुरुषाय विद्महे सुपर्ण-पक्षाय धीमहि  
-तन् नो गरुडः प्रचोदयात्  
-८।१।१९४।२ विष्वक्सेनाय विद्महे वेत्र-हस्ताय धीमहि  
-तन् नश् शान्तः प्रचोदयात्  
-८।१।१९४।३ वेदात्मनाय विद्महे हिरण्य-गर्भाय धीमहि  
-तन् नो ब्रह्म प्रचोदयात्  
-८।१।१९४।४ तत्-पुरुषाय विद्महे महा-देवाय धीमहि  
-तन् नो रुद्रः प्रचोदयात्  
-८।१।१९४।५ तत्-पुरुषाय विद्महे वक्र-तुण्डाय धीमहि  
-तं नो दन्तिः[*९४४] प्रचोदयात्  
-[*९४४] महानु (उस्): दन्ती; त, महानु (स्व्): दन्तिः  
-  
-  
-८।१।१९५।१ तत्-पुरुषाय विद्महे महा-सेनाय धीमहि  
-तन् नष् षण्-मुखः[*९४५] प्रचोदयात्  
-८।१।१९५।२ भास्कराय विद्महे महद्-द्युति-कराय[*९४६] धीमहि  
-तन् नो आदित्यः[*९४७] प्रचोदयात्  
-८।१।१९५।३ वैश्वानराय विद्महे लालीलाय[*९४८] धीमहे  
-तं नो अग्निः प्रचोदयात्  
-८।१।१९५।४ कात्यायनाय[*९४९] विद्महे कन्य-कुमारि[*९५०] धीमहि  
-तन् नो दुर्गिः प्रचोदयात्  
-८।१।१९५।५ तथ् सवितुर् वरेण्यं भर्गो देवस्य धीमहि  
-धियो यो नः प्रचोदयात्  
-[*९४५] महानु (उस्): षष्टः  (स्व्): षण्-मुखः  
-[*९४६] व्म्प्: मह-द्युति-कराय; महानु (स्व्): महद्-द्युति-कराय; (उस्): दिवाकराय  
-[*९४७] महानु (उस्): सूर्यः  
-[*९४८] महानु (उस्): लालेलाय  
-[*९४९] महानु (उस्): कात्यायन्यै; (स्व्): कात्यायानाय  
-[*९५०] महानु (उस्): कन्या-कुमार्यै  
-  
-  
-  
-८।१।१९६।१ शब्द-राशाय विद्महे वायु-पुत्राय धीमहि  
-तं नो हनुमत् प्रचोदयात्  
-८।१।१९६।२ तत्-पुरुषाय विद्महे चक्र-तुण्डाय धीमहि  
-तं नो नन्दिः प्रचोदयात्  
-८।१।१९६।३ वार्धि-जाताय विद्महे महा-शङ्खाय धीमहि  
-तन् नश् शङ्खः प्रचोदयात्  
-८।१।१९६।४ ओजो-बलाय विद्महे अत्युच्छ्रयाय धीमहि  
-तं नो ध्वजः प्रचोदयात्  
-८।१।१९६।५ महा-भूताय विद्महे विष्णु-भक्ताय धीमहि  
-तन् नश् श्री-भूतः प्रचोदयात्  
-  
-८।१।१९७।१ देव-राजाय विद्महे वज्र-हस्ताय धीमहि  
-तन् नश् शक्रः प्रचोदयात्  
-८।१।१९७।२ रुद-नेत्राय विद्महे शक्ति-हस्ताय धीमहि  
-तन् नो वह्निः प्रचोदयात्  
-८।१।१९७।३ वैवस्वताय विद्महे दण्ड-हस्ताय धीमहि  
-तन् नो यमः प्रचोदयात्  
-८।१।१९७।४ निशा-चराय विद्महे खड्ग-हस्ताय धीमहि  
-तन् नो निरृतिः प्रचोदयात्  
-८।१।१९७।५ सुधीश्वराय विद्महे पाश-हस्ताय धीमहि  
-तन् नो वरुणः प्रचोदयात्  
-८।१।१९७।६ जगत्-प्राणाय विद्महे यष्टि-हस्ताय धीमहि  
-तन् नो वायुः प्रचोदयात्  
-८।१।१९७।७ राज-राजाय विद्महे धनाध्यक्ष्याय धीमहि  
-तन् नस् सोमः प्रचोदयात्  
-८।१।१९७।८ रुद-सखाय विद्महे वैश्रवणाय धीमहि  
-तन् नः कुबेरः प्रचोदयात्  
-८।१।१९७।९ यक्षेश्वराय विद्महे गदा-हस्ताय धीमहि  
-तन् नो यक्षः प्रचोदयात्[*९५१]  
-[*९५१] महा-देवाय विद्महे शूल-हस्ताय धीमहि तन् नश् शिवः प्रचोदयात्  
-  
-  
-८।०।३२ प्रचोदयात् तन् नो ह(ग्)ंसः प्रचोदयात् कृष्णः प्रचोदयाद् दन्तिः प्रचोदयाद् धियो यो नः प्रचोदयाच् छ्री-भूतः प्रचोदयात् तन् नो वरुणः प्रचोदयाद् अष्टौ च  
-  
-८।१।१९८।१ नमो ब्रह्मणे नमो अस्त्व् अग्नये नमः पृथिव्यै नम ओषधीभ्यः  
-नमो वाचे नमो वाचस्-पतये नमो विष्णवे बृहते करोमि  
-८।१।१९८।२ ॐ शान्तिश् शान्तिश् शान्तिः  
-  
-८।०।३३ नमो ब्रह्मणे त्रीणि  
-  
-८।१।१९९।१ तच् छं योर्[*९५२] आ वृणीमहे गातुं यज्ञाय गातुं यज्ञ-पतये दैवी स्वस्तिर् अस्तु नः स्वस्तिर् मानुषेभ्यः  
-ऊर्ध्वं जिगातु भेषजम्, शं नो अस्तु द्वि-पदे शं चतुस्-पदे, ॐ शान्तिश् शान्तिश् शान्तिः  
-[*९५२] र्व्ख्: छंय्योर्  
-  
-  
-८।०।३४ तच् छंयोर् आ वृणीमहे नव  
-  
-८।१।२००।१ नमो वाचे या चोदिता या चानूदिता तस्यै वाचे नमो नमो वाचे नमो वाचस्-पतये नम ऋषिभ्यो मन्त्र-कृद्भ्यो मन्त्र-पतिभ्यो मा माम् ऋषयो मन्त्र-कृतो मन्त्र-पतयः परादुर् माहम् ऋषीन् मन्त्र-कृतो मन्त्र-पतीस् परादां वैश्वदेवीं वाचम् उद्यास(ग्)ं शिवाम् अदस्तां जुष्टां देवेभ्यश् शर्म मे द्यौश् शर्म पृथिवी शर्म विश्वम् इदं जगत्  
-शर्म चन्द्रश् च सूर्यश् च शर्म ब्रह्म-प्रजा-पती  
-८।१।२००।२ भूतं वदिष्ये भुवनं वदिष्ये तेजो वदिष्ये यशो वदिश्ये तपो वदिष्ये ब्रह्म वदिष्ये सत्यं वदिष्ये तस्मा अहम् इदम् उपस्तरणम् उपस्तृण उपस्तरणं मे प्रजायै पशूनां भूयाद् उपस्तरणम् अहं प्रजायै पशूनां भूयासं प्राणापानौ मृत्योर् मा पातं प्राणापानौ मा मा हासिष्टं मधु मनिष्ये मधु जनिष्ये मधु वक्ष्यामि मधु वदिष्यामि मधुमतीं देवेभ्यो वाचम् उद्यास(ग्)ं शुश्रूषेण्यां मनुष्येभ्यस् तं मा देवा अवन्तु शोभायै पितरो इनु मदन्तु ॐ शान्तिश् शान्तिश् शान्तिः  
-  
-८।०।३५ नमो वाचे चत्वारि  
-  
-८।१।२०१।१ शं नो मित्रश् शं वरुणः शं नो भवत्व् अर्यमा  
-शं न इन्द्रो बृहस्पतिः शं नो विष्णुर् उरुक्रमः  
-८।१।२०१।२ नमो ब्रह्मणे  
-८।१।२०१।३ नमस् ते वायो  
-८।१।२०१।४ त्वम् एव प्रत्यक्षं ब्रह्मासि  
-८।१।२०१।५ त्वाम् एव प्रत्यक्षं ब्रह्म वदिष्यामि  
-८।१।२०१।६ ऋतं वदिष्यामि  
-८।१।२०१।७ सत्यं वदिष्यामि  
-८।१।२०१।८ तन् माम् अवतु  
-८।१।२०१।९ तद् वक्तारम् अवतु  
-८।१।२०१।१० अवतु माम्  
-८।१।२०१।११ अवतु वक्तारम्  
-८।१।२०१।१२ ॐ शान्तिश् शन्तिश् शान्तिः  
-  
-८।०।३६ सत्यं वदिष्यामि पञ्च च  
-८।१।२०२।१ शं नो वातः पवतां मातरिश्वा[*९५३] शं नस् तपतु सूर्यः  
-८।१।२०२।२ अहानि शं भवन्तु नश् श(ग्)ं रात्रिः प्रति धीयताम्  
-८।१।२०२।३ शम् उषा नो व्युच्छतु शम् आदित्य उदेतु नः  
-८।१।२०२।४ शिवा नश् शन्तमा भव सुमृडीका सरस्वती  
-मा ते व्योम सन्दृशि  
-८।१।२०२।५ इडायै वास्त्व् असि वास्तुमद् वास्तुमन्तो भूयास्म मा वास्तोश् चिथ् स्म ह्य् अवास्तुस् स भुयाद् यो ऽस्मान् द्वेष्टि यञ् च वयं द्विष्मः  
-८।१।२०२।६ प्रतिष्ठासि प्रतिष्ठावन्तो भूयास्म मा प्रतिष्ठायाश् चिथ् स्म ह्य् अप्रतिष्ठस् स भूयाद् यो ऽस्मान् द्वेष्टि यञ् च वयं द्विष्मः  
-८।१।२०२।७ आ वात वाहि भेषजं वि वात वाहि यद् रपः  
-त्व(ग्)ं हि विश्व-भेषजो देवानां दूत ईयसे  
-८।१।२०२।८ द्वाव् इमौ वातौ वात आ सिन्धोर् आ परावतः  
-दक्षं मे[*९५४] अन्य आ वातु परान्यो वातु यद् रपः[*९५५]  
-[*९५३] व्स् ओमित्स्  
-[*९५४] र्व्: ते  
-[*९५५] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् २०३।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् २०२।  
-  
-  
-  
-८।१।२०३।१ यद् अदो वात ते गृहे ऽमृतस्य निधिर् हितः  
-ततो नो देहि जीवसे ततो नो धेहि भेषजम्  
-८।१।२०३।२ ततो नो मह आवह वात आ वातु भेषजम्  
-शम्भूर् मयोभूर् नो हृदे प्र ण आयू(ग्)ंषि तारिषत्  
-८।१।२०३।३ इन्द्रस्य गृहो ऽसि तं त्वा प्रपद्ये सगुस् साश्वः  
-सह यन् मे अस्ति तेन  
-८।१।२०३।४ भूः प्रपद्ये भुवः प्रपद्ये सुवः प्रपद्ये भूर् भुवस् सुवः प्रपद्ये वायुं प्रपद्ये इनार्तां देवतां प्रपद्ये ऽश्मानम् आखणं प्रपद्ये प्रजा-पतेर् ब्रह्म-कोशं ब्रह्म प्रपद्य ॐ प्रपद्ये  
-८।१।२०३।५ अन्तरिक्षं म उर्व् अन्तरं बृहद् अग्नयः पर्वताश् च यया वातस् स्वस्त्या स्वस्तिमान् तया स्वस्त्या स्वस्तिमान् असानि  
-८।१।२०३।६ प्राणापानौ मृत्योर् मा पातं प्राणापानौ मा मा हासिष्टं  
-८।१।२०३।७ मयि मेधां मयि[*९५६] प्रजां मय्य् अग्निस् तेजो दधातु मयि मेधां मयि प्रजां मयीन्द्र इन्द्रियं दधातु मयि मेधां मयि प्रजां मयि सूर्यो भ्राजो दधातु  
-[*९५६] त्स् ओमित्स्  
-  
-  
-८।१।२०४।१ द्युभिर् अक्तुभिः परि पातम् अस्मान् अरिष्टेभिर् अश्विना सौभगेभिः  
-तन् नो मित्रो वरुणो मामहन्ताम् अदितिस् सिन्धुः पृथिवी उत द्यौः  
-८।१।२०४।२ कया नश् चित्र आ भुवद् ऊती सदावृधस् सखा  
-कया शचिष्ठयावृता  
-८।१।२०४।३ कस् त्वा सत्यो मदानां म(ग्)ंहिष्ठो मथ्सद्[*९५७] अन्धसः  
-दृढा चिद् आरुजे वसु  
-८।१।२०४।४ अभी षु णस् सखीनाम् अविता जरितॄणाम्  
-शतं भवास्य् ऊतिभिः  
-८।१।२०४।५ वयस् सुपर्णा उप सेदुर् इन्द्रं प्रिय-मेधा ऋषयो नाधमानाः  
-अप ध्वान्तम् ऊर्णुहि पूर्धि चक्षुर् मुमुग्ध्य् अस्मान् निधयेव बद्धान्  
-[*९५७] र्व्: मत्सद्  
-  
-  
-८।१।२०५।१ शं नो देवीर् अभिष्टय आपो भवन्तु पीतये  
-  शं योर् अभि स्रवन्तु नः  
-८।१।२०५।२ ईशाना वार्याणां क्षयन्तीश् चर्षणीनाम्  
-  अपो याचामि भेषजम्  
-८।१।२०५।३ सुमित्रा न आप ओषधयस् सन्तु दुर्मित्रास् तस्मै भूयासुर् यो ऽस्मान् द्वेष्टि यं च वयं द्विष्मः  
-८।१।२०५।४ आपो हि ष्ठा मयो-भुवस् ता न ऊर्जे दधातन  
-महे रणाय चक्षसे  
-८।१।२०५।५ यो वश् शिवतमो रसस् तस्य भाजयतेह नः  
-उशतीर् इव मातरः  
-८।१।२०५।६ तस्मा अरं गमाम वो यस्य क्षयाय जिन्वथ  
-आपो जनयथा च नः[*९५८]  
-[*९५८] व्म्प् दिविदेस् थिस् वेर्से मकिन्ग् थे सेचोन्द् लिने थे ड़िर्स्त् लिने ओड़् छप्तेर् २०६।  थे नुम्बेरिन्ग् इस् अद्जुस्तेद् सो थत् थे चोम्प्लेते वेर्से चोमेस् अत् थे एन्द् ओड़् छप्तेर् २०५।  
-  
-  
-८।१।२०६।१ पृथिवी शान्ता साग्निना शान्ता सा मे शान्ता शुच(ग्)ं शमयतु  
-अन्तरिक्ष(ग्)ं शान्तं तद् वायुना शान्तं तन् मे शान्त(ग्)ं शुच(ग्)ं शमयतु  
-८।१।२०६।२ द्यौश् शान्ता सादित्येन शान्ता सा मे शान्ता शुच(ग्)ं शमयतु  
-८।१।२०६।३ पृथिवी शान्तिर् अन्तरिक्ष(ग्)ं शान्तिर् द्यौश् शान्तिर्  
-८।१।२०६।४ दिशश् शान्तिर् अवान्तर-दिशाश् शान्तिर् अग्निश् शान्तिर् वायुश् शान्तिर् आदित्यश् शान्तिश् चन्द्रमाश् शान्तिर् नक्षत्राणि शान्तिर्  
-८।१।२०६।५ आपश् शान्तिर् ओषधयश् शान्तिर् वनस्-पतयश् शान्तिर्  
-८।१।२०६।६ गौश् शान्तिर् अजा शान्तिर् अश्वश् शान्तिः पुरुषश् शान्तिर् ब्रह्मा शान्तिर् ब्राह्मनश् शान्तिश् शान्तिर् एव शान्तिश् शान्तिर् मे अस्तु शान्तिः  
-८।१।२०६।७ तयाह(ग्)ं शान्त्या सर्व-शान्त्या मह्यं द्वि-पदे चतुष्-पदे च शान्तिं करोमि शान्तिर् मे अस्तु शान्तिः  
-८।१।२०६।८ एह श्रीश् च ह्रीश् च धृतिश् च तपो मेधा प्रतिष्ठा श्रद्धा सत्यं धर्मश् चैतानि मोत्तिष्ठन्तम् अनूत्तिष्ठन्तु मा मा(ग्)ं श्रीश् च ह्रीश् च धृतिश् च तपो मेधा प्रतिष्ठा श्रद्धा सत्यं धर्मश् चैतानि मा मा हासिषुः  
-८।१।२०६।९ उदायुषा स्वायुषोद् ओषधीना(ग्)ं रसेनोत्पर्जन्यस्य शुष्मेणोदस्थाम् अमृता(ग्)ं अनु  
-८।१।२०६।१० तच् चक्षुर् देव-हितं पुरस्ताच्[*९५९] छुक्रम् उच्चरत्  
-पश्येम शरदश् शतं जीवेम शरदश् शतं नन्दाम शरदश् शतं मोदाम शरदश् शतं भवाम शरदश् शत(ग्)ं शृणवाम शरदश् शतं प्रब्रवाम शरदश् शतम् अजीतास् स्याम शरदश् शतं ज्योक् च सूर्यं दृशे  
-८।१।२०६।११ य उदगान् महतो ऽर्णवाद् विभ्राजमानस् सरिरस्य मध्याथ् स मा वृषभो लोहिताक्षस् सूर्यो विपश्चिन् मनसा पुनातु  
-८।१।२०६।१२ ब्रह्मणश् श्चोतन्य्[*९६०] असि ब्रह्मण आणी स्थो ब्रह्मण आवपनम् असि धारितेयं पृथिवी ब्रह्मणा मही धारितम् एनेन महद् अन्तरिक्षं दिवं दाधार पृथिवी(ग्)ं स-देवां यद् अहं वेद तद् अहं धारयाणि मा मद् वेदो ऽधि विस्रसत्  
-८।१।२०६।१३ मेधा-मनीषे माविशता(ग्)ं समीची भूतस्य भव्यस्यावरुद्ध्यै सर्वम् आयुर् अयाणि सर्वम् आयुर् अयाणि  
-८।१।२०६।१४ आभिर् गीर्भिर् यद् अतो न ऊनम् आप्यायय हरिवो वर्धमानः  
-यदा स्तोतृभ्यो महि गोत्रा रुजासि भूयिष्ठ-भाजो अध ते स्याम  
-८।१।२०६।१५ ब्रह्म प्रावादिष्म तन् नो मा हासीत्  
-ॐ शान्तिश् शान्तिश् शान्तिः  
-[*९५९] र्व् ओमित्स्  
-[*९६०] व्म्प्: ब्रह्मण श्चोतन्य्  
-  
-  
-  
-८।०।३७ परावतो दधातु बद्धाञ् जिन्वथ दृशे सप्त च  
-  
-८।०।३८[*९६१] तम् एक-नेमिम् उद् वयन् तमस धारासु सप्ताग्निश् शुचि-व्रततमश् शुचिः प्र तद् विष्णुर् भूः प्रपद्ये तेजोवत् स्यावस् सवितुर् अग्निम् ईऌए त्रिर् देव विष्णोर् नु कम् आशासु सप्तसु वास्तोष्-पते शुची वो हव्योद्यन्तं वा हिरण्य-गर्भस् सम् अवर्ततेन्द्रं वो ऽग्ने नय आयातु देव नमस् सुते ऽस्तभ्नाद् या पीवोन्ना मद्भ्यस् तिरोधास्तु[*९६२] हि श्रुतं कनिक्रदद् ईङ्-काराया-गो-दानाद् ओमास रात्री व्यख्यद् आयती हिरण्य-गर्भ विश्व-जिते विष्णवे स्वाहा नारायणाय नमो ब्रह्मणे तच् छं योर् नमो वाचे शं नो मित्रश् शं नो वातः पवता(ग्)ं सप्त-त्रि(ग्)ंशत्  
-[*९६१] ३७ इन् बोओक्  
-[*९६२] तेxत्: थिरोधास्तु  
-  
-  
-  
-८।०।३९[*९६३] तम् एक-नेमिं शङ्खं प्रतिष्ठापयामि पूतः पूतान्तर् बलि रक्षकाय्[]आग्निश् शुचि-व्रततम यो वा संयोग इदं विष्णुस् तेजोवत् स्यावस् सवितुर् देवस्य त्वा विष्णोर् नु कं चित्रन् देवाना(ग्)ं शं नो देवी रक्ताम्बर-धरम् आवाहयामि नारायणायोद्यन्तं वा त्रि-कद्रुकेभिर् आ वो राजा नोत्थिताय स्वाहा विश्व-जिते नारायणाय शं नो मित्र(ग्)ं षड् उत्तर-द्वि-शततमम्  
-तम् एक-नेमिन् त्रि-वृत(ग्)ं षोडशान्तम् ॐ शान्तिश् शान्तिश् शान्तिः  
-हरिः ॐ  
-तत्थ् सत्  
-श्री कृष्नार्पणम् अस्तु  
-[*९६३] २०६ इन् बोओक्  
-  
-  
-  
-वैखानस-मन्त्र-प्रश्न  
-(च्) ह्।ज्। रेस्निच्क्   
-  
-  
-  
-  
-  

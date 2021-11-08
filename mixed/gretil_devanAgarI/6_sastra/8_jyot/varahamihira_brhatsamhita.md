@@ -1,11 +1,19 @@
----
-title: 'Varahamihira: Brhatsamhita'
++++
+title = "Varahamihira: Brhatsamhita"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Varahamihira: Brhatsamhita  
-
+  
+  
+  
+  
 Varahamihira: Brhatsamhita  
               (Version 4.3, May 8, 1998)  
                      digitalized by   
@@ -16,13890 +24,13767 @@ Varahamihira: Brhatsamhita
               [variants marked by K. & K's tr.]  
               and Utpala's commentary [marked by U.]  
               variants start from *.  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
 
-(२)   सन्धि  
-        ड़ोर् थे चोन्वेनिएन्चे ओड़् wओर्द् सेअर्छ्, इन्तेर्नल् अन्द् एxतेर्नल्   
+
+  (२) सन्धि  
+        फ़ोर् थे चोन्वेनिएन्चे ओफ़् wओर्द् सेअर्छ्, इन्तेर्नल् अन्द् एxतेर्नल्   
         वोwएल् सन्धिस् अरे देचोम्पोसेद् ब्य्^।  
-        एग्।  विज़ेस^उक्ति < vizeSokti  
-             ca^iti < ceti  
-          horA^anyo < horAnyo  
-          ko +api < ko'pi  
-     Consonantal sandhis are retained.  
-  
-  (3)   Compounds  
-        Members of compound words are sometimes separated by^,  
-        but not consistent.  
-  
-  (4)   Others  
-     Varitants for the part beginning with * are supplied in [   ] .  
-
-1 upanayanādhyāyaḥ  
-
-1.01ab/ jayati jagataḥ prasūtir viśvātmā sahaja^bhūṣaṇaṃ nabhasaḥ/  
-  
-1.01cd/ druta^kanaka^sadṛśa^daśa^śata^mayūkha^mālā^arcitaḥ savitā//  
-  
-1.02ab/ prathama^muni^kathitam avitatham avalokya grantha^vistarasya artham/  
-  
-1.02cd/ na^atilaghu^vipula^racanābhir udyataḥ spaṣṭam abhidhātum//  
-  
-1.03ab/ muni^viracitam idam iti yac cirantanaṃ sādhu na manuja^grathitam/  
-  
-1.03cd/ tulye +arthe +akṣara^bhedād amantrake kā viśeṣa^uktiḥ//  
-  
-1.04ab/ kṣititanaya^divasa^vāro na śubhakṛd iti yadi pitāmaha^prokte/  
-  
-1.04cd/ kuja^dinam aniṣṭam iti vā ko +atra viśeṣo nṛ^divya^*kṛteḥ[K.kṛte]//  
-  
-1.05ab/ ābrahma^ādi^viniḥsṛtam ālokya grantha^vistaraṃ kramaśaḥ/  
-  
-1.05cd/ kriyamāṇakam eva +etat samāsato +ato mama^utsāhaḥ//  
-  
-1.06ab/ āsīt tamaḥ kila^idaṃ tatra^apāṃ taijase +abhavad dhaime/  
-  
-1.06cd/ svar^bhū^śakale brahmā viśvakṛd aṇḍe +arka^śaśi^nayanaḥ//  
-  
-1.07ab/ kapilaḥ pradhānam āha dravya^ādīn kaṇakabhug asya viśvasya/  
-  
-1.07cd/ kālaṃ kāraṇam eke svabhāvam apare jaguḥ karma//  
-  
-1.08ab/ tad alam ativistareṇa prasaṅga^vāda^artha^nirṇayo +atimahān/  
-  
-1.08cd/ jyotiḥśāstra^aṅgānāṃ vaktavyo nirṇayo +atra mayā//  
-  
-1.09a  jyotiḥśāstram aneka^bheda^viṣayaṃ skandha^traya^adhiṣṭhitaṃ  
-  
-1.09b  tat^kārtsnya^upanayasya nāma munibhiḥ saṃkīrtyate saṃhitā/  
-  
-1.09c  skandhe +asmin gaṇitena yā grahagatis tantra^abhidhānas tv asau  
-  
-1.09d  horā^anyo +aṅga^viniścayaś ca kathitaḥ skandhas tṛtīyo +aparaḥ//  
-  
-1.10ab/ vakra^anuvakra^astamaya^udaya^ādyās tārā^grahāṇāṃ karaṇe mayā^uktāḥ/  
-  
-1.10cd/ horāgataṃ vistaraśaś ca janma^yātrā^vivāhaiḥ saha pūrvam uktam//  
-  
-1.11ab/ praśna^pratipraśna^kathā^prasaṅgān sv^alpa^upayogān graha^sambhavāmś ca/  
-  
-1.11cd/ santyajya phalgūni ca sāra^bhūtaṃ bhūta^artham arthaiḥ sakalaiḥ pravakṣye//  
-
-2  sāṃvatsarasūtrādhyāyaḥ  
-
-atha^ataḥ sāṃvatsara^sūtraṃ vyākhyāsyāmaḥ  
-  
-2.(1) tatra sāṃvatsaro +abhijātaḥ priya^darśano vinītaveṣaḥ satyavāg anasūyakaḥ samaḥ susaṃhitā^upacita^gātra^sandhir avikalaś cāru^kara^caraṇa^nakha^nayana^cibuka^daśana^śravaṇa^lalāṭa^bhrū^uttama^aṅgo vapuṣmān gambhīra^udātta^ghoṣaḥ/ prāyaḥ śarīra^ākāra^*anuvarttino[K.anuvartino] hi guṇā doṣāś ca bhavanti/  
-  
-2.(2) tatra guṇāḥ---śucir dakṣaḥ pragalbho *vāggmī[K.vāgmī] pratibhānavān deśa^kāla^vit sāttviko na parṣad^bhīruḥ sahādhyāyibhir anabhibhavanīyaḥ kuśalo +avyasanī śāntika^pauṣṭika^abhicāra^snāna^vidyā^abhijño vibudha^arcana^vrata^upavāsa^nirataḥ svatantra^āścarya^utpādita^prabhāvaḥ pṛṣṭābhidhāyy anyatra daivāt yayād grahagaṇita^saṃhitā^horā^grantha^artha^vettā^iti/  
-  
-2.(3) tatra grahagaṇite pauliśa^romaka^vāsiṣṭha^saura^paitāmaheṣu pañcasv eteṣu siddhānteṣu yuga^varṣa^ayana^ṛtu^māsa^pakṣa^ahorātra^yāma^muhūrta^*nāḍī[U.nāḍī^vināḍī]prāṇa^truṭi^truṭy^ādy^avayava^*ādikasya[K.ādyasya] kālasya kṣetrasya ca vettā/  
-  
-2.(4) caturṇāṃ ca mānānāṃ saura^sāvana^nākṣatra^cāndrāṇām adhimāsaka^avama^sambhavasya ca kāraṇa^abhijñaḥ/  
-  
-2.(5) ṣaṣṭy^abda^yuga^varṣa^māsa^dina^horā^adhipatīnāṃ *pratipatti[K.pratipattivi]^cchedavit/  
-  
-2.(6) saura^ādīnāṃ ca mānānām *asadṛśa^sadṛśa[K.sadṛśa^asadṛśa]yogya^ayogyatva^pratipādana^paṭuḥ/  
-  
-2.(7) siddhānta^bhede +apy ayana^nivṛttau pratyakṣaṃ sama^maṇḍala^lekhā^samprayoga^abhyudita^aṃśakānāṃ [K.ca] chāyā^jala^yantra^dṛg^gaṇita^sāmyena pratipādana^kuśalaḥ/  
-  
-2.(8) sūrya^ādīnāṃ ca grahāṇām śīghra^manda^yāmya^uttara^nīca^uccagati^kāraṇa^abhijñaḥ/  
-  
-2.(9) sūrya^candramasoś ca grahaṇe grahaṇa^ādi^mokṣa^kāla^dik^pramāṇa^sthiti^vimarda^varṇa^*ādeśānām[K.deśānām] anāgata^graha^samāgama^yuddhānām ādeṣṭā/  
-  
-2.(10) pratyeka^graha^bhramaṇa^yojana^kakṣyā^pramāṇa^prativiṣaya^yojana^pariccheda^kuśalaḥ[K.kuśalo]/  
-  
-2.(11) bhū^bhagaṇa^bhramaṇa^saṃsthāna^ādy^akṣa^avalambaka^aharvyāsa^cara^dala^kāla^rāśy^udaya^cchāyā^nāḍī^karaṇa^prabhṛtiṣu kṣetra^kāla^karaṇeṣv abhijñaḥ/  
-  
-2.(12) nānā^codya^praśna^bheda^upalabdhi^janita^vāk^sāro nikaṣa^santāpa^abhiniveśaiḥ [K.viśuddhasya] kanakasya^iva^adhikataram amalīkṛtasya [K.śāstrasya]vaktā tantrajño bhavati[K.uktañ ca]/  
-  
-2.01ab/ na pratibaddhaṃ gamayati vakti na ca praśnam ekam api pṛṣṭaḥ/  
-  
-2.01cd/ nigadati na ca śiṣyebhyaḥ sa kathaṃ śāstra^arthavij jñeyaḥ//  
-  
-2.02ab/ grantho +anyathā^anyathā^*arthaṃ[K.arthaḥ] karaṇaṃ yaś ca^anyathā karoty abudhaḥ/  
-  
-2.02cd/ sa pitāmaham upagamya stauti naro vaiśikena^āryām//  
-  
-2.03ab/ tantre suparijñāte lagne chāyā^ambuyantra^saṃvidite/  
-  
-2.03cd/ horā^arthe ca surūḍhe na^ādeṣṭur bhāratī vandhyā//  
-
-2.04a apy arṇavasya puruṣaḥ prataran kadā cid  
-  
-2.04b āsādayed anila^vega^vaśena pāram/  
-  
-2.04c na tv asya kālapuruṣa^ākhya^mahā^arṇavasya  
-  
-2.04d gacchet kadā cid anṛṣir manasā^api pāram//  
-  
-2.(13) horāśāstre +api [K.ca] rāśi^horā^dreṣkāṇa^navāṃśaka^dvādaśabhāga^triṃśadbhāga^bala^abala^parigraho grahāṇāṃ dik^sthāna^kāla^ceṣṭābhir aneka^prakāra^bala^nirdhāraṇaṃ prakṛti^dhātu^dravya^jāti^ceṣṭā^ādi^parigraho niṣeka^janma^kāla^vismāpana^pratyaya^ādeśa^sadyomaraṇa^āyurdāya^daśā^antardaśā^aṣṭaka^varga^rājayoga^candrayoga^dvigraha^ādiyogānāṃ nābhasa^ādīnām  
-ca yogānām phalāny āśraya^bhāva^avalokana^niryāṇa^gaty^anūkāni *tatkāla[K.tātkālika]praśna^śubha^aśubha^nimittāni vivāha^ādīnām ca karmanāṃ karaṇam/  
-  
-2.(14) yātrāyāṃ tu [K.ca] tithi^divasa^karaṇa^nakṣatra^muhūrta^vilagna^yoga^deha^spandana^svapna^vijaya^snāna^grahayajña^gaṇa^yāga^agniliṅga^hasty^aśva^iṅgita^senā^pravāda^ceṣṭā^ādi^graha^ṣāḍguṇya^upāya^maṅgala^amaṅgala^śakuna^sainya^niveśa^bhūmayo +agnivarṇā mantri^cara^dūta^āṭavikānāṃ yathākālaṃ prayogāḥ paradurga^upalambha^upāyaś ca^ity uktaṃ ca^ācāryaiḥ/  
-  
-2.05ab/ jagati prasāritam iva^ālikhitam iva matau niṣiktam iva hṛdaye/  
-  
-2.05cd/ śāstraṃ yasya sabhagaṇaṃ na^ādeśā *niṣphalās[K.niḥphalās] tasya//  
-  
-2.(15) saṃhitā^pāragaś ca daiva^cintako bhavati/  
-  
-2.(16) yatra +ete saṃhitā^padārthāḥ/  
-  
-2.(17.1) dina^kara^ādīnām grahāṇāṃ cārās teṣu ca teṣāṃ prakṛti^vikṛti^pramāṇa^varṇa^kiraṇa^dyuti^saṃsthāna^astamana^udaya^mārga^mārgāntara^vakra^anuvakra^ṛkṣa^graha^samāgama^cāra^ādibhiḥ phalāni nakṣatra^kūrma^vibhāgena deśeṣv *agastya^cāraḥ[K.agasticāraḥ]/ saptarṣi^cāraḥ /graha^bhaktayo  
-nakṣatra^vyūha^graha^śṛṅgāṭaka^graha^yuddha^graha^samāgama^graha^varṣa^phala^garbha^lakṣaṇa^rohiṇī^svāty^āṣāḍhīyogāḥ  
-sadyovarṣa^kusumalatā^paridhi^pariveṣa^parigha^pavana^ulkā^digdāha^kṣiticalana^sandhyā^rāga^gandharvanagara^rajo^nirghāta^argha^kāṇḍa^sasyajanma^indradhvaja^indracāpa^vāstuvidyā^aṅgavidyā^vāyasavidyā^antaracakra^mṛgacakra^śvacakra^vātacakra^prāsādalakṣaṇa^pratimālakṣaṇa^pratiṣṭhāpana^vṛkṣāyurveda^udagārgala^nīrājana^*khañjanaka[K.khañjana]^utpātaśānti^  
-mayūracitraka^ghṛta^kambala^khaḍga^paṭṭa^kṛkavāku^kūrma^go^aja^aśva^ibha^purūṣa[K.ū.puruṣa]^strī^lakṣaṇāny  
-  
-2.(17.2) antaḥpura^cintā^piṭakalakṣaṇa^upānaccheda^vastraccheda^cāmara^daṇḍa^*śayana[K.śayyā]^āsanalakṣaṇa^ratnaparīkṣā dīpalakṣaṇaṃ dantakāṣṭha^ādy^āśritāni śubha^aśubhāni nimittāni sāmānyāni ca jagataḥ pratipuruṣaṃ pārthive ca pratikṣaṇam ananyakarma^abhiyuktena daivajñena cintayitavyāni/ na ca^ekākinā śakyante +aharniśam avadhārayituṃ nimittāni/ tasmāt  
-subhṛtena^eva daivajñena anye *+api[K.omitted] tadvidaś catvāraḥ *kartavyāḥ[K.bhartavyāḥ]/tatra^ekena^aindrī ca^āgneyī ca dig avalokayitavyā/ yāmyā nairṛtī ca^anyena^evaṃ vāruṇī vāyavyā ca^uttarā ca^aiśāni ca^iti/ yasmād *ulkā^pāta^ādīni[K.nimittāni] śīghram *apagacchati[K.upagacchati]^iti/ *tasyāś[K.teṣāṃ]  
-ca^ākāra^varṇa^sneha^pramāna^ādi^graha^ṛkṣa^upaghāta^ādibhiḥ phalāni bhavanti/  
-
-2.06ab/ kṛtsna^aṅga^upāṅga^kuśalaṃ horā^gaṇita^naiṣṭhikam/  
-  
-2.06cd/ yo na pūjayate rājā sa nāśam upāgacchati//  
-  
-2.07ab/ vanaṃ samāśritā ye +api nirmamā niṣparigrahāḥ/  
-  
-2.07cd/ api te paripṛcchanti jyotiṣāṃ gatikovidam//  
-  
-2.08ab/ apradīpā yathā rātrir anādityaṃ yathā nabhaḥ/  
-  
-2.08cd/ tathā^asāṃvatsaro rājā bhramyaty andha iva^adhvani//  
-  
-2.09ab/ *muhūrta[K.muhūrtaṃ]^tithi^nakṣatram ṛtavaś ca^ayane tathā/  
-  
-2.09cd/ sarvāṇy eva^akulāni syur na syāt sāṃvatsaro yadi//  
-  
-2.10ab/ tasmād rājñā^adhigantavyo vidvān sāṃvatsaro +agraṇīḥ/  
-  
-2.10cd/ jayaṃ yaśaḥ śriyaṃ bhogān śreyaś ca samabhīpsatā//  
-  
-2.11ab/ na^asāṃvatsarike deśe vastavyaṃ bhūtim icchatā/  
-  
-2.11cd/ cakṣur^bhūto hi yatra^eṣa pāpaṃ tatra na vidyate//  
-  
-2.12ab/ na sāṃvatsara^pāṭhī ca narakeṣu^upapadyate/  
-  
-2.12cd/ brahmaloka^pratiṣṭhāṃ ca labhate daivacintakaḥ//  
-  
-2.13ab/ granthataś ca^arthataś ca^etat kṛtsnaṃ jānati yo dvijaḥ/  
-  
-2.13cd/ agrabhuk sa bhavet^śrāddhe pūjitaḥ paṅkti^pāvanaḥ/  
-  
-2.14ab/ mlecchā hi yavanās teṣu samyak śāstram idaṃ sthitam/  
-  
-2.14cd/ ṛṣivat te +api pūjyante kiṃ punar daivavid dvijaḥ//  
-  
-2.15ab/ kuhaka^āveśa^pihitaiḥ karṇa^upaśruti^hetubhiḥ/  
-  
-2.15cd/ kṛta^ādeśo na sarvatra praṣṭavyo na sa daivavit//  
-  
-2.16ab/ aviditvā^eva *yat[K.yaḥ]^śāstraṃ daivajñatvaṃ prapadyate/  
-  
-2.16cd/ sa paṅkti^dūṣakaḥ pāpo jñeyo nakṣatra^sūcakaḥ//  
-  
-[K.2.18ab/ nakṣatra^sūcaka^uddiṣṭam upahāsaṃ karoti yaḥ/  
-  
-K.2.18c/ sa vrajaty andhatā^misraṃ sārdham ṛkṣaviḍambinā//]  
-  
-2.17ab/ nagara^dvāra^loṣṭasya yadvat syād upayācitam/  
-  
-2.17cd/ ādeśas tadvad ajñānāṃ yaḥ satyaḥ sa vibhāvyate//  
-  
-2.18ab/ sampattyā yojita^ādeśas tad^vicchinna^kathā^priyaḥ/  
-  
-2.18cd/ mattaḥ śāstra^ekadeśena tyājyas tādṛg^mahīkṣitā//  
-  
-2.19ab/ yas tu samyag vijānāti horā^gaṇita^saṃhitāḥ/  
-  
-2.19cd/ abhyarcyaḥ sa narendreṇa svīkartavyo jaya^eṣiṇā//  
-  
-2.20ab/ na tat sahasraṃ kariṇāṃ vājināṃ ca caturguṇam/  
-  
-2.20cd/ karoti deśa^kālajño *yathā^eko[K.yad eko]^daivacintakaḥ//  
-  
-2.21ab/ duḥsvapna^durvicintita^duṣprekṣita^duṣkṛtāni karmāṇi/  
-  
-2.21cd/ kṣipraṃ prayānti nāśam śaśinaḥ śrutvā bhasaṃvādam//  
-  
-2.22ab/ na tathā^icchati bhūpateḥ pitā jananī vā svajano +atha vā suhṛt/  
-  
-2.22cd/ svayaśo^abhivivṛddhaye yathā hitam āptaḥ sabalasya daivavit//  
-
-3 ādityacārādhyāyaḥ  
-
-3.01ab/ āśleṣā^ardhād dakṣiṇam uttaram ayanaṃ *raver[K.omitted] dhaniṣṭhā^adyam/  
-  
-3.01cd/ nūnaṃ kadā cid āsīd yena^uktam pūrva^śāstreṣu//  
-  
-3.02ab/ sāmpratam ayanaṃ savituḥ karkaṭaka^ādyam mṛga^āditaś ca^anyat/  
-  
-3.02cd/ ukta^abhāvo vikṛtiḥ pratyakṣa^parīkṣaṇair vyaktiḥ//  
-  
-3.03ab/ dūrastha^cihna^vedhād udaye +astamaye +api vā sahasrāṃśoḥ/  
-  
-3.03cd/ chāyā^praveśa^nirgama^cihnair vā maṇḍale mahati//  
-  
-3.04ab/ aprāpya makaram arko vinivṛtto hanti sa^aparām yāmyām/  
-  
-3.04cd/ karkaṭakam asamprāpto vinivṛttaś ca^uttarāṃ sa +aindrīm//  
-  
-3.05ab/ uttaram ayanam atītya vyāvṛttaḥ kṣema^sasya^vṛddhi^karaḥ/  
-  
-3.05cd/ prakṛtisthaś ca^apy evaṃ vikṛta^gatir bhayakṛd uṣṇāṃśuḥ//  
-  
-3.06ab/ sa^tamaskaṃ parva vinā tvaṣṭā nāma^arka^maṇḍalaṃ kurute/  
-  
-3.06cd/ sa nihanti sapta bhūpān janāṃś ca śastra^agni^durbhikṣaiḥ//  
-  
-3.07ab/ tāmasakīlaka^saṃjñā rāhusutāḥ ketavas trayas triṃśat/  
-  
-3.07cd/ varṇa^sthāna^ākārais tān dṛṣṭvā +arke phalaṃ brūyāt//  
-  
-3.08ab/ te ca^arka^maṇḍala^gatāḥ pāpaphalāś candra^maṇḍale saumyāḥ/  
-  
-3.08cd/ dhvāṅkṣa^kabandha^praharaṇa^rūpāḥ pāpāḥ śaśāṅke +api//  
-  
-3.09ab/ teṣām udaye rūpāṇy ambhaḥ kaluṣaṃ rajo^vṛtaṃ vyoma/  
-  
-3.09cd/ naga^taru^śikhara^*āmardī[K.vimardī] saśarkaro mārutaś caṇḍaḥ//  
-  
-3.10ab/ ṛtu^viparītās taravo dīptā mṛga^pakṣiṇo diśāṃ dāhāḥ/  
-  
-3.10cd/ nirghāta^mahīkampa^ādayo bhavanty atra ca^utpātāḥ//  
-  
-3.11ab/ na pṛthak phalāni teṣāṃ śikhi^kīlaka^rāhu^darśanāni yadi/  
-  
-3.11cd/ tad^udaya^kāraṇam eṣāṃ ketu^ādīnām phalaṃ brūyāt//  
-  
-3.12ab/ yasmin yasmin deśe darśanam āyānti sūrya^bimbasthā/  
-  
-3.12cd/ tasmiṃs tasmin vyasanam mahīpatīnām parijñeyam//  
-  
-3.13ab/ kṣut^pramlāna^śarīrā munayo +apy utsṛṣṭa^dharma^sac^caritāḥ/  
-  
-3.13cd/ nirmāṃsa^bāla^hastāḥ kṛcchreṇa +āyānti *para^deśam[K.paradeśān]//  
-  
-3.14ab/ taskara^vilupta^vittāḥ pradīrgha^niḥśvāsa^mukulita^akṣi^puṭāḥ/  
-  
-3.14cd/ santaḥ sanna^śarīrāḥ śoka^udbhava^*vāṣpa[K's tr. bāṣpa]ruddha^dṛśaḥ//  
-  
-3.15ab/ kṣāmā jugupsamānāḥ svanṛpati^paracakra^pīḍitā manujāḥ/  
-  
-3.15cd/ svanṛpati^caritaṃ karma *na[K.ca] *purā kṛtaṃ[K.parākṛtaṃ, K's tr. purākṛtaṃ] prabruvanty anye//  
-  
-3.16ab/ garbheṣv api niṣpannā vārimuco na prabhūta^vārimucaḥ/  
-  
-3.16cd/ sarito yānti tanutvaṃ kva cit kvacij jāyate sasyam//  
-  
-3.17ab/ daṇḍe narendra^mṛtyur vyādhi^bhayaṃ syāt *kabandha^saṃsthāne[K.kavandhasaṃsthāne]/  
-  
-3.17cd/ dhvāṅkṣe ca taskara^bhayaṃ durbhikṣaṃ kīlake +arkasthe//  
-  
-3.18ab/ rāja^upakaraṇa^rūpaiś chatra^dhvaja^cāmara^ādibhir viddhaḥ/  
-  
-3.18cd/ rājānyatva^kṛd arkaḥ sphuliṅga^dhūma^ādibhir janahā//  
-  
-3.19ab/ eko durbhikṣa^karo dvyādyāḥ syur narapater vināśāya/  
-  
-3.19cd/ sita^rakta^pīta^kṛṣṇais tair viddho +arko +anuvarṇaghnaḥ//  
-  
-3.20ab/ *dvaśyante[K.& ū.dṛśyante] ca yatas te ravi^bimbasya^utthitā mahā^utpātāḥ/  
-  
-3.20cd/ āgacchati lokānāṃ tena^eva bhayaṃ pradeśena//  
-  
-3.21ab/ ūrdhvakaro divasa^karas tāmraḥ senāpatiṃ vināśayati/  
-  
-3.21cd/ pīto narendra^putraṃ śvetas tu purohitaṃ hanti//  
-  
-3.22ab/ citro +atha vā^api dhūmro raviraśmir *vyākulām[K.vyākulāṃ] karoty *ūrdham[K.mahīm]/  
-  
-3.22cd/ taskara^śastra^nipātair yadi salilaṃ na^āśu pātayati//  
-  
-3.23ab/ tāmraḥ kapilo vā^arkaḥ śiśire hari^kuṅkuma^cchaviś ca madhau/  
-  
-3.23cd/ āpāṇḍu^kanaka^varṇo grīṣme varṣāsu śuklaś ca//  
-  
-3.24ab/ śaradi kamala^udara^ābho hemante rudhira^sannibhaḥ śastaḥ/  
-  
-3.24cd/ prāvṛṭkāle snigdhaḥ sarva^ṛtunibho +api śubhadāyī//  
-  
-3.25ab/ rūkṣaḥ śveto viprān rakta^ābhaḥ kṣatriyān vināśayati/  
-  
-3.25cd/ pīto vaiśyān kṛṣṇas tato aparān śubha^karaḥ snigdhaḥ//  
-  
-3.26ab/ grīṣme rakto bhayakṛd varṣāsv asitaḥ karoty anāvṛṣṭim/  
-  
-3.26cd/ hemante pīto +arkaḥ karoti *na cireṇa[K.acireṇa] roga^bhayam//  
-  
-3.27ab/ suracāpa^pāṭita^tanur nṛpati^virodha^pradaḥ sahasrāṃśuḥ/  
-  
-3.27cd/ prāvṛṭkāle sadyaḥ karoti vimala^dyutir vṛṣṭim//  
-  
-3.28ab/ varṣākāle vṛṣṭiṃ karoti sadyaḥ śirīṣa^puṣpa^ābhaḥ/  
-  
-3.28cd/ śikhi^patra^nibhaḥ salilaṃ na karoti dvādaśa^abdāni//  
-  
-3.29ab/ śyāme +arke kīṭa^bhayaṃ bhasma^nibhe bhayam uśanti paracakrāt/  
-  
-3.29cd/ yasya^ṛkṣe sacchidras tasya vināśaḥ kṣitīśasya//  
-  
-3.30ab/ śaśa^rudhira^nibhe bhānau nabhas^tala^sthe bhavanti saṅgrāmāḥ/  
-  
-3.30cd/ śaśi^sadṛśe *nṛpati^badhaḥ[K.nṛpati^vaddhaḥ] kṣipraṃ ca^anyo nṛpo bhavati//  
-  
-3.31ab/ kṣut^mārakṛt ghaṭa^nibhaḥ khaṇḍo *janahā[K.nṛpahā] vidīdhitir bhayadaḥ/  
-  
-3.31cd/ toraṇa^rūpaḥ purahā chatra^nibho deśa^nāśāya//  
-  
-3.32ab/ dhvaja^cāpa^nibhe yuddhāni bhāskare vepane ca rūkṣe ca/  
-  
-3.32cd/ kṛṣṇā rekhā savitari yadi hanti tato *nṛpaṃ[K.nṛpaṃ tataḥ] sacivaḥ//  
-  
-3.33ab/ *dina^karam[K.divasakaram] *udaya^asta^saṃsthitam[K.udayasaṃsthitam] ulkā^aśani^vidyuto yadā hanyuḥ/  
-  
-3.33cd/ narapati^maraṇaṃ vindyāt tadā^anyarāja^*pratiṣṭhā[K.pratiṣṭhāṃ] ca//  
-  
-3.34ab/ pratidivasam ahima^kiraṇaḥ pariveṣī sandhyayor dvayor atha vā/  
-  
-3.34cd/ rakto +astam eti rakta^uditaś ca bhūpaṃ karoty anyam//  
-  
-3.35ab/ praharaṇa^sadṛśair jaladaiḥ sthagitaḥ sandhyā^dvaye +api raṇakārī/  
-  
-3.35cd/ mṛga^mahiṣa^vihaga^khara^karabha^sadṛśa^rūpaiś ca bhayadāyī//  
-  
-3.36ab/ dina^kara^kara^abhitāpād ṛkṣam avāpnoti sumahatīm pīḍām/  
-  
-3.36cd/ bhavati tu paścāt^śuddhaṃ kanakam iva hutāśa^paritāpāt//  
-  
-3.37ab/ divasakṛtaḥ pratisūryo jalakṛd udag dakṣiṇe sthito +anilakṛt/  
-  
-3.37cd/ ubhayasthaḥ salila^bhayaṃ nṛpam upari nihanty adho janahā//  
-  
-3.38a rudhira^nibho viyaty avanipa^antakaro na cirāt  
-  
-3.38b paruṣa^rajo^aruṇī^kṛta^tanur yadi vā dinakṛt/  
-  
-3.38c [K.3.39ab] asita^vicitra^nīla^paruṣo jana^ghāta^karaḥ  
-  
-3.38d [K.3.39cd] khaga^mṛga^bhairava^svara^rutaiś ca niśā^dyumukhe//  
-  
-3.39ab/ [K.3.40ab] amala^vapur avakra^maṇḍalaḥ sphuṭa^vipula^amala^dīrgha^dīdhitiḥ/  
-  
-3.39cd/ [K.3.40cd] avikṛta^tanu^varṇa^cihna^bhṛj jagati karoti śivaṃ divā^karaḥ//  
-
-4 candracārādhyāyaḥ/  
-
-4.01ab/ nityam adhaḥsthasya^indor bhābhir bhānoḥ sitaṃ bhavaty ardham/  
-  
-4.01cd/ svacchāyayā^anyad asitaṃ kumbhasya^iva^ātapasthasya//  
-  
-4.02ab/ salila^maye śaśini raver dīdhitayo mūrchitās tamo naiśam/  
-  
-4.02cd/ kṣapayanti darpaṇa^udara*nihitā[K.nihatā] iva mandirasya^antaḥ//  
-  
-4.03ab/ tyajato +arka^talaṃ śaśinaḥ paścād avalambate yathā śauklyam/  
-  
-4.03cd/ dinakara^vaśāt tathā^indoḥ prakāśate +adhaḥ prabhṛty udayaḥ//  
-  
-4.04ab/ pratidivasam evam arkāt sthāna^viśeṣeṇa śauklya^parivṛddhiḥ/  
-  
-4.04cd/ bhavati śaśino +aparāhṇe paścād bhāge ghaṭasya^iva  
-  
-4.05ab/ aindrasya śīta^kiraṇo mūla^āṣāḍhā^dvayasya *ca^āyātaḥ[K.vā yātaḥ]/  
-  
-4.05cd/ yāmyena *vīja[K.ū.bīja]^jalacara^kānanahā vahni^bhayadaś ca//  
-  
-4.06ab/ dakṣiṇa^pārśvena gataḥ śaśī viśākhā^anurādhayoḥ pāpaḥ/  
-  
-4.06cd/ madhyena tu praśastaḥ *pitṛdeva[K.pitryasya]^viśākhayoś ca^api//  
-  
-4.07ab/ ṣaḍ anāgatāni pauṣṇād dvādaśa raudrāc ca madhya^yogīni/  
-  
-4.07cd/ jyeṣṭha^ādyāni nava^ṛkṣāṇy uḍupatinā^atītya yujyante//  
-  
-4.08ab/ unnatam īṣac^chṛṅgaṃ nau^saṃsthāne viśālatā ca^uktā/  
-  
-4.08cd/ nāvika^pīḍā tasmin bhavati śivaṃ sarva^lokasya//  
-  
-4.09ab/ arddha^unnate ca lāṅgalam iti pīḍā tad^upajīvināṃ tasmin/  
-  
-4.09cd/ prītiś ca nirnimittaṃ manujapatīnāṃ subhikṣaṃ ca//  
-  
-4.10ab/ dakṣiṇa^viṣāṇam ardha^unnataṃ yadā duṣṭa^lāṅgala^ākhyaṃ tat/  
-  
-4.10cd/ pāṇḍya^nareśvara^nidhana^kṛd udyoga^karaṃ balānām ca//  
-  
-4.11ab/ sama^śaśini subhikṣa^kṣema^vṛṣṭayaḥ prathama^divasa^sadṛśāḥ syuḥ/  
-  
-4.11cd/ daṇḍavad udite pīḍā gavāṃ nṛpaś ca^ugra^daṇḍo +atra//  
-  
-4.12ab/ kārmuka^rūpe yuddhāni yatra tu jyā tato jayas teṣām/  
-  
-4.12cd/ sthānaṃ yugam iti yāmya^uttara^āyataṃ bhūmi^kampāya//  
-  
-4.13ab/ yugam eva yāmya^koṭyāṃ kiṃ cit tuṅgaṃ sa pārśva^śāyī^iti  
-  
-4.13cd/ vinihanti sārthavāhān vṛṣṭeś ca vinigrahaṃ kuryāt//  
-  
-4.14ab/ abhyucchrāyād ekaṃ yadi śaśino +avāṅmukhaṃ bhavet^chṛṅgam/  
-  
-4.14cd/ āvarjitam ity asubhikṣa^kāri tad go^dhanasya^api//  
-  
-4.15ab/ avyucchinnā rekhā samantato maṇḍalā ca kuṇḍa^ākhyam/  
-  
-4.15cd/ asmin māṇḍalikānāṃ sthāna^tyāgo narapatīnām//  
-  
-4.16ab/ prokta^sthāna^abhāvād udag^uccaḥ kṣema^vṛddhi^vṛṣṭi^karaḥ/  
-  
-4.16cd/ dakṣiṇa^tuṅgaś candro durbhikṣa^bhayāya nirdiṣṭaḥ//  
-  
-4.17ab/ śṛṅgeṇa^ekena^*indur[K.induṃ] vilīnam atha vā^apy avāṅmukhaṃ *śṛṅgam[K.aśṛṅgam]/  
-  
-4.17cd/ sampūrṇaṃ ca^abhinavaṃ dṛṣṭvā^eko jīvitād bhraśyet//  
-  
-4.18ab/ saṃsthāna^vidhiḥ kathito rūpāṇy asmād bhavanti candramasaḥ/  
-  
-4.18cd/ svalpo durbhikṣa^karo mahān subhikṣa^āvahaḥ proktaḥ//  
-  
-4.19ab/ madhya^tanur vajra^ākhyaḥ kṣud^bhayadaḥ sambhramāya rājñāṃ ca/  
-  
-4.19cd/ candro mṛdaṅga^rūpaḥ kṣema^subhikṣa^āvaho bhavati//  
-  
-4.20ab/ jñeyo viśāla^mūrtir narapati^lakṣmī^vivṛddhaye candraḥ/  
-  
-4.20cd/ sthūlaḥ subhikṣa^kārī priya^dhānya^karas tu tanu^mūrtiḥ//  
-  
-4.21a pratyantān ku^nṛpāṃś ca hanty uḍupatiḥ śṛṅge kujena^āhate  
-  
-4.21b śastra^kṣud^bhayakṛd yamena śaśijena^avṛṣṭi^durbhikṣa^kṛt/  
-  
-4.21c śreṣṭhān hanti nṛpān mahendra^guruṇā śukreṇa ca^alpān nṛpān  
-  
-4.21d śukle yāpyam idaṃ phalam graha^kṛtaṃ kṛṣṇe yathokta^āgamam//  
-  
-4.22a bhinnaḥ sitena magadhān yavanān pulindān  
-  
-4.22b nepāla^bhṛṅgi^*marukaccha[K's tr. marukucca]^surāṣṭra^madrān/  
-  
-4.22c pāñcāla^kaikaya^kulūtaka^puruṣādān  
-  
-4.22d hanyād uśīnara^janān api sapta māsān//  
-  
-4.23ab/ gāndhāra^sauvīraka^sindhu^kīrān dhānyāni śailān draviḍa^adhipāṃś ca/  
-  
-4.23cd/ dvijāṃś ca māsān daśa śītaraśmiḥ santāpayed vākpatinā vibhinnaḥ//  
-  
-4.24a udyuktān saha vāhanair narapatīṃs traigartakān mālavān  
-  
-4.24b kaulindān gaṇa^puṅgavān atha śibīn āyodhyakān pārthivān/  
-  
-4.24c hanyāt kaurava^matsya^śukty^adhipatīn rājanya^mukhyān api  
-  
-4.24d prāleyāṃśur asṛggrahe tanugate ṣaṇmāsam aryādayā//  
-  
-4.25ab/ yaudheyān sacivān sakauravān prāgīśān atha ca^arjunāyanān/  
-  
-4.25cd/ hanyād arkaja^bhinna^maṇḍalaḥ śītāṃśur daśa^māsa^pīḍayā//  
-  
-4.26ab/ magadhān mathurāṃ ca pīḍayed veṇāyāś ca taṭaṃ śaśāṅkajaḥ/  
-  
-4.26cd/ aparatra kṛtaṃ yugaṃ vaded yadi bhittvā śaśinaṃ vinirgataḥ//  
-  
-4.27ab/ kṣema^ārogya^subhikṣa^vināśī śītāṃśuḥ śikhinā yadi bhinnaḥ/  
-  
-4.27cd/ kuryād āyudha^jīvi^vināśaṃ caurāṇām adhikena ca pīḍām//  
-  
-4.28ab/ ulkayā yadā śaśī grasta eva hanyate/  
-  
-4.28cd/ hanyate tadā nṛpo yasya janmani sthitaḥ//  
-  
-4.29ab/ bhasma^nibhaḥ paruṣo +aruṇa^mūrtiḥ śīta^karaḥ kiraṇaiḥ parihīṇaḥ/  
-  
-4.29cd/ śyāva^tanuḥ sphuṭitaḥ sphuraṇo vā *kṣuḍ^ḍamara[K.kṣutsamarā]^āmaya^caura^bhayāya//  
-  
-4.30ab/ prāleya^kunda^kumuda^sphaṭika^avadāto yatnād iva^adrisutayā parimṛjya candraḥ/  
-  
-4.30cd/ uccaiḥ kṛto niśi bhaviṣyati me śivāya yo dṛśyate sa bhavitā jagataḥ śivāya//  
-  
-4.31ab[K.4.32ab]/ śukle pakṣe sampravṛddhe pravṛddhiṃ brahma^kṣatraṃ yāti vṛddhiṃ prajāś ca/  
-  
-4.31cd[K.4.32cd]/ hīne hānis tulyatā tulyatāyāṃ kṛṣṇe sarve tatphalaṃ vyatyayena//  
-  
-4.32ab[K.4.31ab]/ yadi kumuda^mṛṇāla^hāra^gauras tithi^niyamāt kṣayam eti varddhate vā/  
-  
-4.32cd[K.4.31cd]/ avikṛta^gati^maṇḍala^aṃśu^yogī bhavati nṛṇāṃ vijayāya śītaraśmiḥ//  
-
-5 rāhucārādhyāyaḥ  
-
-5.01ab/ amṛta^āsvāda^viśeṣāc cchinnam api śiraḥ kila^asurasya^idam/  
-  
-5.01cd/ prāṇair aparityaktaṃ grahatāṃ yātaṃ vadanty eke//  
-  
-5.02ab/ indu^arka^maṇḍala^ākṛtir asitatvāt kila na dṛśyate gagane/  
-  
-5.02cd/ anyatra parva^kālād vara^pradānāt kamalayoneḥ//  
-  
-5.03ab/ mukha^puccha^vibhakta^aṅgaṃ bhujaṅgam ākāram upadiśanty anye/  
-  
-5.03cd/ kathayanty amūrtam apare tamo^mayaṃ saiṃhikeya^ākhyākhyam//  
-  
-5.04ab/ yadi mūrto bhavicārī śiro +atha vā bhavati maṇḍalī rāhuḥ/  
-  
-5.04cd/ bhagaṇa^ardhena^*antaritau[K.antarito] gṛhṇāti kathaṃ niyata^cāraḥ//  
-  
-5.05ab/ aniyata^cāraḥ khalu ced upalabdhiḥ saṃkhyayā kathaṃ tasya/  
-  
-5.05cd/ puccha^ānana^abhidhāno +antareṇa kasmān na gṛhṇāti//  
-  
-5.06ab/ atha tu bhujagendra^rūpaḥ pucchena mukhena vā sa gṛhṇāti/  
-  
-5.06cd/ mukha^puccha^antara^saṃsthaṃ sthagayati kasmān na bhagaṇa^ardham//  
-  
-5.07ab/ rāhu^dvayaṃ yadi syād graste +astamite +atha vā^udite candre/  
-  
-5.07cd/ tatsamagatinā^anyena grastaḥ sūryo +api dṛśyate//  
-  
-5.08ab/ bhū^cchāyāṃ sva^grahaṇe bhāskaram arka^grahe praviśati^induḥ/  
-  
-5.08cd/ pragrahaṇam ataḥ paścān na^indor bhānoś ca pūrva^ardhāt//  
-  
-5.09ab/ vṛkṣasya svacchāyā yathā^*ekapārśve[K.ekapārśvena] bhavati *dīrghacayā[K.dīrghā ca]/  
-  
-5.09cd/ niśi niśi tadvad bhūmer āvaraṇa^vaśād dineśasya//  
-  
-5.10ab/ sūryāt saptama^rāśau yadi ca^udag^dakṣiṇena na^atigataḥ/  
-  
-5.10cd/ candraḥ pūrva^abhimukhaś chāyām aurvīm tadā viśati//  
-  
-5.11ab/ candro +adhaḥsthaḥ sthagayati ravim ambudavat samāgataḥ paścāt/  
-  
-5.11cd/ pratideśam ataś citraṃ dṛṣṭi^vaśād bhāskara^grahaṇam//  
-  
-5.12ab/ āvaraṇaṃ mahad indoḥ kuṇṭha^viṣāṇas tato +ardha^saṃcchannaḥ/  
-  
-5.12cd/ svalpam raver yato +atas tīkṣṇa^viṣāṇo ravir bhavati//  
-  
-5.13ab/ evam uparāga^kāraṇam uktam idaṃ divya^dṛgbhir ācāryaiḥ/  
-  
-5.13cd/ rāhur akāraṇam asminn ity uktaḥ śāstra^sadbhāvaḥ//  
-  
-5.14ab/ yo +asau^asuro rāhus tasya varo brahmaṇā +ayam ājñaptaḥ/  
-  
-5.14cd/ āpyāyanam uparāge datta^hutāṃśena te bhavitā//  
-  
-5.15ab/ tasmin kāle sānnidhyam asya tena^upacaryate rāhuḥ/  
-  
-5.15cd/ yāmyottarā śaśigatir gaṇite +apy upacaryate tena//  
-  
-5.16ab/ na kathaṃ cid api nimittair grahaṇaṃ vijñāyate nimittāni/  
-  
-5.16cd/ anyasminn api kāle bhavanty atha^utpāta^rūpāṇi//  
-  
-5.17ab/ pañcagraha^saṃyogān na kila grahaṇasya sambhavo bhavati/  
-  
-5.17cd/ tailaṃ ca jale +aṣṭamyāṃ na vicintyam idaṃ vipaścidbhiḥ//  
-  
-5.18ab/ avanatyā +arke grāso dig^jñeyā valanayā^avanatyā ca/  
-  
-5.18cd/ tithy^avasānād velā karaṇe kathitāni tāni mayā//  
-  
-5.19ab/ ṣaṇmāsa^uttara^vṛddhyā parveśāḥ sapta devatāḥ kramaśaḥ/  
-  
-5.19cd/ brahma^śaśi^indra^kuberā varuṇa^agni^yamāś ca vijñeyāḥ//  
-  
-5.20ab/ brāhme dvija^paśu^*vṛddhiḥ kṣema^ārogyāṇi[K.vṛddhikṣemārogyāṇi] sasya^sampat^ca/  
-  
-5.20cd/ tadvat saumye tasmin pīḍā viduṣām avṛṣṭiś ca//  
-  
-5.21ab/ aindre bhūpa^virodhaḥ śārada^sasya^kṣayo na ca kṣemam/  
-  
-5.21cd/ kaubere +artha^patīnām artha^vināśaḥ subhikṣaṃ ca//  
-  
-5.22ab/ vāruṇam avanīśa^aśubham anyeṣāṃ kṣema^sasya^vṛddhi^karam/  
-  
-5.22cd/ āgneyaṃ mitra^ākhyaṃ sasya^ārogya^abhaya^ambu^karam//  
-  
-5.23ab/ yāmyaṃ karoty avṛṣṭiṃ durbhikṣaṃ saṃkṣayaṃ ca sasyānām/  
-  
-5.23cd/ yad ataḥ paraṃ tad aśubhaṃ kṣut^māra^avṛṣṭidaṃ parva//  
-  
-5.24ab/ velāhīne parvaṇi garbha^vipattiś ca śastra^kopaś ca/  
-  
-5.24cd/ ativele kusuma^phala^kṣayo bhayaṃ sasya^nāśaś ca//  
-  
-5.25ab/ hīna^atirikta^kāle phalam uktaṃ pūrva^śāstra^dṛṣṭatvāt/  
-  
-5.25cd/ sphuṭa^gaṇita^vidaḥ kālaḥ kathañ cid api na^anyathā bhavati//  
-  
-5.26ab/ yady ekasmin māse grahaṇaṃ ravi^somayos tadā kṣitipāḥ/  
-  
-5.26cd/ svabala^kṣobhaiḥ saṃkṣayam āyānty atiśastra^kopaś ca//  
-  
-5.27ab/ grastāv udita^astamitau śārada^dhānya^avanīśvara^kṣayadau/  
-  
-5.27cd/ sarva^grastau durbhikṣa^marakadau pāpa^sandṛṣṭau//  
-  
-5.28ab/ ardha^udita^uparakto naikṛtikān hanti sarvayajñāṃś ca/  
-  
-5.28cd/ agny^upajīvi^guṇa^adhika^vipra^āśramiṇo *yuge +abhyuditaḥ[K.ayugābhyuditaḥ]//  
-  
-5.29ab/ karṣaka^*pākhaṇḍi[K.pāṣaṇḍi]^vaṇik^kṣatriya^bala^nāyakān *dvitīyāṃśe[K.dvitīye +aṃśe]/  
-  
-5.29cd/ kāruka^śūdra^mlecchān kha^tṛtīyāmśe samantrijanān//  
-  
-5.30ab/ madhya^ahne narapati^madhyadeśahā śobhanaś ca dhānya^arghaḥ/  
-  
-5.30cd/ tṛṇabhug^amātya^antaḥpura^vaiśyaghnaḥ pañcame khāṃśe/  
-  
-5.31ab/ strī^śūdrān ṣaṣṭhe +aṃśe dasyu^pratyantahā^astamaya^kāle/  
-  
-5.31cd/ yasmin khāṃśe mokṣas tat^proktānāṃ śivaṃ bhavati//  
-  
-5.32ab/ dvija^nṛpatīn udagayane viṭ^śūdrān dakṣiṇāyane hanti/  
-  
-5.32cd/ rāhur udag^ādidṛṣṭaḥ pradakṣiṇaṃ hanti vipra^ādīn//  
-  
-5.33ab/ mlecchān vidiksthito yāyinaś ca hanyād dhutāśa^saktāṃś ca/  
-  
-5.33cd/ salila^cara^danti^ghātī yāmyena^udag gavām aśubhaḥ//  
-  
-5.34ab/ pūrveṇa salila^pūrṇāṃ karoti vasudhāṃ samāgato daityaḥ/  
-  
-5.34cd/ paścāt karṣaka^sevaka^bīja^vināśāya nirdiṣṭaḥ//  
-  
-5.35ab/ pāñcāla^kaliṅga^śūrasenāḥ kāmboja^uḍra^kirāta^śastra^vārttāḥ/  
-  
-5.35cd/ jīvanti ca ye hutāśa^vṛttyā te pīḍām upayānti meṣa^saṃsthe//  
-  
-5.36ab/ gopāḥ paśavo +atha gomino manujā ye ca mahattvam āgatāḥ/  
-  
-5.36cd/ pīḍām upayānti bhāskare graste śīta^kare +atha vā vṛṣe//  
-  
-5.37ab/ mithune pravara^aṅganā nṛpā nṛpa^mātrā balinaḥ kalā^vidaḥ/  
-  
-5.37cd/ yamunā^taṭajāḥ sabāhlikā matsyāḥ suhma^janaiḥ samanvitāḥ//  
-5.38ab/ ābhīrān^śabarān sapahlavān mallān matsya^kurūñ chakān api/  
-  
-5.38cd/ pāñcālān vikalāṃś ca pīḍayaty annaṃ ca^api nihanti karkaṭe//  
-  
-5.39ab/ siṃhe pulinda^gaṇa^mekala^sattva^yuktān rāja^upamān narapatīn vana^gocarāṃś ca/  
-  
-5.39cd/ ṣaṣṭhe tu sasya^kavi^lekhaka^geya^saktān hanty aśmaka^tripura^śāli^yutāṃś ca deśān//  
-  
-5.40ab/ tulādhare +avanty^aparāntya^sādhūn vaṇig^daśārṇān *marukacchapāṃś[K.bharukacchapāṃś] ca/  
-  
-5.40cd/ aliny atha^udumbara^madra^colān drumān sayaudheya^viṣa^āyudhīyān//  
-  
-5.41ab/ dhanviny amātya^vara^vāji^videha^mallān pāñcāla^vaidya^vaṇijo viṣama^āyudhajñān/  
-  
-5.41cd/ hanyān mṛge tu jhaṣa^mantri^kulāni nīcān mantra^auṣadhīṣu kuśalān sthavira^āyudhīyān//  
-  
-5.42ab/ kumbhe +antargirijān sapaścima^janān bhāra^udvahāṃs taskarān ābhīrān darada^ārya^siṃha^purakān hanyāt tathā barbarān/(checked)  
-  
-5.42cd/ mīne sāgarakūla^sāgara^jala^dravyāṇi *vanyān[K.mānyān] janān prājñān vāryupajīvinaś ca bhaphalaṃ kūrma^upadeśād vadet//  
-  
-5.43ab/ savya^apasavya^leha^grasana^nirodha^avamardana^ārohāḥ/  
-  
-5.43cd/ āghrātaṃ madhyatamas tamo +antya iti te daśa grāsāḥ//  
-  
-5.44ab/ savyagate tamasi jagaj^jalaplutaṃ bhavati muditam abhayaṃ ca/  
-  
-5.44cd/ apasavye narapati^taskara^avamardaiḥ prajānāśaḥ//  
-  
-5.45ab/ *jihva^upaleḍhi[K.jihvevaleḍhi] paritas timira^nudo maṇḍalaṃ yadi sa lehaḥ/  
-  
-5.45cd/ pramudita^samasta^bhūtā prabhūta^toyā ca tatra mahī//  
-  
-5.46ab/ grasanam iti yadā tryaṃśaḥ pādo vā gṛhyate +atha vā^apy ardham/  
-  
-5.46cd/ sphīta^nṛpa^vitta^hāniḥ pīḍā ca sphīta^deśānām//  
-  
-5.47ab/ paryanteṣu gṛhītvā madhye piṇḍīkṛtaṃ tamas tiṣṭhet/  
-  
-5.47cd/ sa nirodho vijñeyaḥ pramoda^kṛt sarvabhūtānām//  
-  
-5.48ab/ avamardanam iti niḥśeṣam eva sañchādya yadi ciraṃ tiṣṭhet/  
-  
-5.48cd/ hanyāt pradhāna^bhūpān *pradhāna^deśāṃś[K.pradhānadeśān pradhānabhūpāṃś] ca timira^mayaḥ//  
-  
-5.49ab/ vṛtte grahe yadi tamas tatkṣaṇam āvṛtya dṛśyate bhūyaḥ/  
-  
-5.49cd/ ārohaṇam ity anyonya^mardanair bhaya^karaṃ rājñām//  
-  
-5.50ab/ darpaṇa iva^ekadeśe *sabāṣpa[K.savāṣpa]^niḥśvāsa^māruta^upahataḥ/  
-  
-5.50cd/ dṛśyeta^āghrātaṃ tat suvṛṣṭi^vṛddhy^āvahaṃ jagataḥ//  
-  
-5.51ab/ madhye tamaḥ praviṣṭaṃ vitamaskaṃ maṇḍalaṃ ca yadi paritaḥ  
-  
-5.51cd/ tan^madhyadeśa^nāśaṃ karoti kukṣy^āmaya^bhayaṃ ca//  
-  
-5.52ab/ paryanteṣu^atibahulaṃ svalpaṃ madhye tamas tamontya^ākhye/  
-  
-5.52cd/ sasyānām īti^bhayaṃ bhayam asmiṃs taskarāṇāṃ ca//  
-  
-5.53ab/ śvete kṣema^subhikṣaṃ brāhmaṇa^pīḍāṃ ca nirdiśed rāhau/  
-  
-5.53cd/ agni^bhayam anala^varṇe pīḍā ca hutāśavṛttīnām//  
-  
-5.54ab/ harite roga^*ulbaṇatā[K.ulvaṇatā] sasyānām ītibhiś ca vidhvaṃsaḥ/  
-  
-5.54cd/ kapile śīghraga^sattva^mleccha^dhvaṃso +atha durbhikṣam//  
-  
-5.55ab/ aruṇa^kiraṇa^anurūpe durbhikṣa^avṛṣṭayo vihaga^pīḍā/  
-  
-5.55cd/ ādhūmre kṣema^subhikṣam ādiśet mandavṛṣṭiṃ ca//  
-  
-5.56ab/ kāpota^aruṇa^kapila^śyāvābhe kṣud^bhayaṃ vinirdeśyam/  
-  
-5.56cd/ kāpotaḥ śūdrāṇāṃ vyādhi^karaḥ kṛṣṇa^varṇaś ca//  
-  
-5.57ab/ vimalaka^maṇi^pīta^ābho vaiśya^dhvaṃsī bhavet subhikṣāya/  
-  
-5.57cd/ sa^arciṣmaty agni^bhayaṃ gairika^rūpe tu yuddhāni//  
-  
-5.58ab/ dūrvākāṇḍa^śyāme hāridre vā^api nirdiśet marakam/  
-  
-5.58cd/ aśani^bhaya^sampradāyī *pāṭala[K.pāṭali]^kusuma^upamo rāhuḥ//  
-  
-5.59ab/ pāṃśu^vilohita^rūpaḥ kṣatra^dhvaṃsāya bhavati vṛṣṭeś ca/  
-  
-5.59cd/ bāla^ravi^kamala^suracāpa^rūpa^bhṛt śastra^kopāya//  
-  
-5.60ab/ paśyan grastaṃ saumyo ghṛta^madhu^taila^kṣayāya rājṇāṃ ca/  
-  
-5.60cd/ bhaumaḥ samara^vimardaṃ śikhi^kopaṃ taskara^bhayaṃ ca//  
-  
-5.61ab/ śukraḥ sasya^vimardaṃ nānā^kleśāṃś ca janayati dharitryām/  
-  
-5.61cd/ ravijaḥ karoty avṛṣṭiṃ durbhikṣaṃ taskara^bhayaṃ ca//  
-  
-5.62ab/ yad aśubham avalokanābhir uktaṃ grahajanitaṃ grahaṇe pramokṣaṇe vā/  
-  
-5.62cd/ surapatiguruṇā^avalokite tat^śamam upayāti jalair iva^agnir iddhaḥ//  
-  
-5.63ab/ graste kramān nimittaiḥ punar graho māsa^ṣaṭka^parivṛddhyā/  
-  
-5.63cd/ pavana^ulkāpāta^rajaḥ kṣitikampa^tamo^aśani^nipātaiḥ//  
-  
-5.64ab/ āvantikā janapadāḥ kāverī^narmadā^taṭa^āśrayiṇaḥ/  
-  
-5.64cd/ dṛptāś ca manujapatayaḥ pīḍyante kṣitisute graste//  
-  
-5.65ab/ antarvedīṃ sarayūṃ nepālaṃ pūrvasāgaraṃ śoṇam/  
-  
-5.65cd/ strī^nṛpa^yodha^kumārān saha vidvadbhir budho hanti//  
-  
-5.66ab/ grahaṇa^upagate jīve vidvan^nṛpa^mantri^gaja^haya^dhvaṃsaḥ/  
-  
-5.66cd/ sindhu^taṭa^vāsinām apy udag^diśaṃ saṃśritānāṃ ca//  
-  
-5.67ab/ bhṛgutanaye rāhugate *dāśeraka[K.daserakāḥ]kaikayāḥ sayaudheyāḥ/  
-  
-5.67cd/ āryāvarttāḥ śibayaḥ strī^saciva^gaṇāś ca pīḍyante//  
-  
-5.68ab/ saure maru^bhava^puṣkara*saurāṣṭrika[K.saurāṣṭrā]^dhātavo +arbuda^antyajanāḥ/  
-  
-5.68cd/ gomanta^pāriyātra^āśritāś[K's tr. gomantaḥ pāriyātrā] ca nāśaṃ vrajanty āśu//  
-  
-5.69a kārttikyām anala^upajīvi^magadhān prācya^adhipān kośalān  
-  
-5.69b kalmāṣān atha śūrasena^sahitān kāśīś ca santāpayet/  
-  
-5.69c *hanyād[K.hanyād ca] āśu kaliṅgadeśa^nṛpatiṃ sa^amātya^bhṛtyaṃ tamo  
-  
-5.69d dṛṣṭaṃ kṣatriya^tāpadaṃ janayati kṣemaṃ subhikṣa^anvitam//  
-  
-5.70ab/ kāśmīrakān kauśalakān sapuṇḍrān mṛgāṃś ca hanyād aparāntakāṃś ca/  
-  
-5.70cd/ ye somapās tāṃś ca nihanty saumye suvṛṣṭi^kṛt kṣema^subhikṣa^kṛt^ca//  
-  
-5.71ab/ pauṣe dvija^kṣatra^jana^uparodhaḥ sasaindhava^ākhyāḥ kukurā videhāḥ/  
-  
-5.71cd/ dhvaṃsaṃ vrajanty atra ca manda^vṛṣṭiṃ bhayaṃ ca vindyād asubhikṣa^yutam//  
-  
-5.72a māghe tu mātṛ^pitṛ^bhakta^vasiṣṭha^gotrān  
-  
-5.72b svādhyāya^dharma^niratān kariṇas turaṅgān/  
-  
-5.72c vaṅga^aṅga^kāśi^manujāṃś ca dunoti rāhur  
-  
-5.72d vṛṣṭiṃ ca karṣakajana^*abhimatāṃ[K.anumatāṃ] karoti//  
-  
-5.73ab/ pīḍā^karaṃ phālgunamāsi parva *vaṅga^aśmaka^avantika[K.vantaka]^mekalānām/  
-  
-5.73cd/ *nṛtyajña[K.nṛttajña]^sasya^pravara^aṅganānāṃ dhanuṣkara^kṣatra^tapasvināṃ ca//  
-  
-5.74a *caitryāṃ[K.caitre] tu citrakara^lekha^geya^saktān  
-  
-5.74b rūpopajīvi^nigamajña^hiraṇya^paṇyān/  
-  
-5.74c pauṇḍra^auḍra^kaikaya^janān atha ca^aśmakāṃś ca  
-  
-5.74d tāpaḥ spṛśaty amarapo +atra vicitra^varṣī//  
-  
-5.75ab/ vaiśākha^*māse[K.māsi] grahaṇe vināśam āyānti karpāsa^tilāḥ sa^mudgāḥ/  
-  
-5.75cd/ ikṣvāku^yaudheya^śakāḥ kaliṅgāḥ *sopa^plavāḥ[K.sopadravāḥ] kintu subhikṣam asmin//  
-  
-5.76ab/ jyeṣṭhe[K.jyaiṣṭhe] narendra^dvija^rājapatnyaḥ sasyāni vṛṣṭiś ca mahāgaṇāś ca/  
-  
-5.76cd/ pradhvaṃsam āyānti narāś ca saumyāḥ sālvaiḥ sametāś ca niṣāda^saṅghāḥ//  
-  
-5.77ab/ āṣāḍha^parvaṇy udapāna^vapra^nadī^pravāhān phala^mūla^vārttān/  
-  
-5.77cd/ gāndhāra^kāśmīra^pulinda^cīnān hatān vaded maṇḍala^varṣam asmin//  
-  
-5.78a kāśmīrān sapulinda^cīna^yavanān hanyāt kurukṣetrajān  
-  
-5.78b gāndhārān api madhyadeśa^sahitān vṛṣṭo grahaḥ śrāvaṇe/  
-  
-5.78c kāmboja^ekaśaphāṃś ca śāradam api tyaktvā yathoktān imān  
-  
-5.78d anyatra pracura^anna^hṛṣṭa^manujair dhātrīṃ karoty āvṛtām//  
-  
-5.79a kaliṅga^vaṅgān magadhān surāṣṭrān  
-  
-5.79b mlecchān suvīrān *darada^aśmakāṃś[K.daradāñ chakāṃś] ca/  
-  
-5.79c strīṇāṃ ca garbhān asuro nihanti  
-  
-5.79d subhikṣa^kṛd bhādrapade +abhyupetaḥ//  
-  
-5.80a kāmboja^cīna^yavanān saha śalyahṛdbhir  
-  
-5.80b *bāhlīka[K.vālhīka]^sindhutaṭa^vāsijanāṃś ca hanyāt/  
-  
-5.80c *ānartta[K.ānarta]^pauṇḍra^bhiṣajaś ca tathā kirātān  
-  
-5.80d dṛṣṭo +asuro +aśvayuji bhūri^subhikṣa^kṛc ca//  
-  
-5.81ab/ hanu^kukṣi^pāyu^bhedā dvir dviḥ sañchardanaṃ ca jaraṇaṃ ca/  
-  
-5.81cd/ madhya^antayoś ca vidaraṇam iti daśa śaśi^sūryayor mokṣāḥ//  
-  
-5.82ab/ āgneyyām apagamanaṃ dakṣiṇa^hanubheda^saṃjñitaṃ śaśinaḥ/  
-  
-5.82cd/ sasya^vimardo mukha^rug nṛpa^pīḍā syāt suvṛṣṭiś ca//  
-  
-5.83ab/ pūrvottareṇa vāmo hanu^bhedo nṛpa^kumāra^bhayadāyī/  
-  
-5.83cd/ mukharogaṃ śastra^bhayaṃ tasmin vindyāt subhikṣaṃ ca//  
-  
-5.84ab/ dakṣiṇa^kukṣi^vibhedo dakṣiṇa^pārśvena yadi bhaven mokṣaḥ/  
-  
-5.84cd/ pīḍā nṛpa^putrāṇām abhiyojyā dakṣiṇā ripavaḥ//  
-  
-5.85ab/ vāmas tu kukṣi^bhedo yady uttaramārga^saṃsthito rāhuḥ/  
-  
-5.85cd/ strīṇāṃ garbha^vipattiḥ sasyāni ca tatra madhyāni//  
-  
-5.86ab/ nairṛta^vāyavya^sthau dakṣiṇa^vāmau tu pāyu^bhedau dvau/  
-  
-5.86cd/ guhya^rug alpā vṛṣṭir dvayos tu rājñī^kṣayo vāme//  
-  
-5.87ab/ pūrveṇa pragrahaṇaṃ kṛtvā prāg eva ca^apasarpeta /  
-  
-5.87cd/ sañchardanam iti tat kṣema^sasya^hārdipradaṃ jagataḥ//  
-  
-5.88ab/ prāk pragrahaṇaṃ yasmin paścād apasarpaṇaṃ tu taj jaraṇam/  
-  
-5.88cd/ kṣut^śastra^bhaya^*udvignā na[K.udvignāḥ kva] śaraṇam upayānti tatra janāḥ//  
-5.89ab/ madhye yadi prakāśaḥ prathamaṃ tan madhya^vidaraṇaṃ nāma/  
-  
-5.89cd/ antaḥkopa^karaṃ syāt subhikṣadaṃ na^ativṛṣṭi^karam//  
-  
-5.90ab/ paryanteṣu vimalatā bahulaṃ madhye tamo *+antya[K.anta]^daraṇa^ākhyaḥ/  
-  
-5.90cd/ madhyākhyadeśa^nāśaḥ śārada^sasya^kṣayaś ca^asmin//  
-  
-5.91ab/ ete sarve mokṣā vaktavyā bhāskare +api kintv atra/  
-  
-5.91cd/ pūrvā dik śaśini yathā tathā ravau paścimā kalpyā//  
-  
-5.92ab/ mukte saptāhāntaḥ pāṃśu^nipāto +anna^saṃkṣayaṃ kurute/  
-  
-5.92cd/ nīhāro roga^bhayaṃ bhūkampaḥ pravara^nṛpa^mṛtyum//  
-  
-5.93ab/ ulkā mantri^vināśaṃ nānāvarṇā ghanāś ca bhayam atulam/  
-  
-5.93cd/ stanitaṃ garbha^vināśaṃ vidyun^nṛpa^daṃṣṭri^paripīḍām//  
-  
-5.94ab/ pariveṣo ruk^pīḍāṃ digdāho nṛpa^bhayaṃ ca sa^agni^bhayaṃ/  
-  
-5.94cd/ rūkṣo vāyuḥ prabalaś caurasamutthaṃ bhayaṃ dhatte//  
-  
-5.95ab/ nirghātaḥ suracāpaṃ daṇḍaś ca kṣud^bhayaṃ sa^paracakram/  
-  
-5.95cd/ *grahayuddhe[K.grahayuddhaṃ] nṛpa^yuddhaṃ ketuś ca tad eva sandṛṣṭaḥ//  
-  
-5.96ab/ avikṛtasalila*nipātaiḥ[K.nipāte] saptāha^antaḥ subhikṣam ādeśyam/  
-  
-5.96cd/ yac ca^aśubhaṃ grahaṇajaṃ tat sarvaṃ nāśan upayāti//  
-  
-5.97ab/ somagrahe nivṛtte pakṣānte yadi bhaved graho +arkasya/  
-  
-5.97cd/ tatra^anayaḥ prajānāṃ dampatyor vairam anyonyam//  
-  
-5.98ab/ arkagrahāt tu śaśino grahaṇaṃ yadi dṛśyate tato viprāḥ/  
-  
-5.98cd/ naika^kratu^phala^bhājo bhavanti muditāḥ prajāś ca^eva//  
-
-6 bhaumacārādhyāyaḥ  
-
-6.01ab/ yady udaya^ṛkṣād vakraṃ karoti navama^aṣṭa^saptama^ṛkṣeṣu/  
-  
-6.01cd/ tad*vaktrām[K.vakram ū.vaktram] uṣṇam udaye pīḍā^karam agnivārttānām//  
-  
-6.02ab/ dvādaśa^daśama^ekādaśa^nakṣatrād vakrite kuje +aśru^mukham/  
-  
-6.02cd/ dūṣayati rasān udaye karoti rogān avṛṣṭiṃ ca//  
-  
-6.03ab/ vyālaṃ trayodaśa^ṛkṣāc caturdaśād vā vipacyate +astamaye/  
-  
-6.03cd/ daṃṣṭri^vyāla^mṛgebhyaḥ karoti pīḍāṃ subhikṣaṃ ca//  
-  
-6.04ab/ rudhira^ānanam iti vaktraṃ pañcadaśāt ṣoḍaśāc ca vinivṛtte/  
-  
-6.04cd/ tat^kālaṃ mukha^rogaṃ sa^bhayaṃ ca subhikṣam āvahati//  
-  
-6.05ab/ asi^muśalaṃ saptadaśād aṣṭādaśato +api vā tad anuvakre/  
-  
-6.05cd/ dasyu^gaṇebhyaḥ pīdāṃ karoty avṛṣṭiṃ sa^śastra^bhayām//  
-  
-6.06ab/ bhāgya^āryamā^udite yadi nivartate vaiśva^daivate bhaumaḥ/  
-  
-6.06cd/ prājāpatye +astamitas trīn api lokān nipīḍayati//  
-  
-6.07ab/ śravaṇa^uditasya vakraṃ puṣye mūrdha^abhiṣikta^pīḍā^kṛt/  
-  
-6.07cd/ yasminn ṛkṣe +abhyuditas tad^dig^vyūhān janān hanti//  
-  
-6.08ab/ madhyena yadi maghānāṃ gata^agataṃ lohitaḥ karoti tataḥ/  
-  
-6.08cd/ pāṇḍyo nṛpo vinaśyati śastra^udyogād bhayam avṛṣṭiṃ//  
-  
-6.09ab/ bhittvā *maghā[K.maghāṃ] viśākhāṃ bhindan bhaumaḥ karoti durbhikṣam/  
-  
-6.09cd/ marakaṃ karoti ghoraṃ yadi bhittvā rohiṇīṃ yāti//  
-  
-6.10ab/ dakṣiṇato rohiṇyās caran mahījo +argha^vṛṣṭi^nigraha^kṛt/  
-  
-6.10cd/ dhūmāyan sa^śikho vā vinihanyāt pāriyātra^sthān//  
-  
-6.11ab/ prājāpatye śravaṇe mūle *triṣu ca^uttareṣu[K.tisṛṣūttarāsu] śākre ca/  
-  
-6.11cd/ vicaran ghana^nivahānām upaghāta^karaḥ kṣamā^tanayaḥ//  
-  
-6.12ab/ cāra^udayāḥ praśastāḥ śravaṇa^maghā^āditya*hasta^mūleṣu[K.mūlahasteṣu]/  
-  
-6.12cd/ ekapadā^aśvi^viśākhā^prājāpatyeṣu ca kujasya//  
-  
-6.13a vipula^vimala^mūrtiḥ kiṃśuka^aśoka^varṇaḥ  
-  
-6.13b sphuṭa^rucira^mayūkhas tapta^tāmra^prabhā^ābhaḥ/  
-  
-6.13c vicarati yadi mārgaṃ ca^uttaraṃ medinījaḥ  
-  
-6.13d śubha^kṛd avani^pānāṃ hārdidaś ca prajānām//  
-
-7 budhacārādhyāyaḥ  
-
-7.01ab/ na^utpāta^parityaktaḥ kadā cid api candrajo vrajaty udayam/  
-  
-7.01cd/ jala^dahana^pavana^bhaya^kṛd dhānya^argha^kṣaya^vivṛddhau vā//  
-  
-7.02ab/ vicaran śravaṇa^dhaniṣṭhā^prajāpatya[U.prājāpatya]^indu*vaiśvadevāni[K.viśvadaivāni]/  
-  
-7.02cd/ mṛdnan hima^kara^tanayaḥ karoty avṛṣṭiṃ sa^roga^bhayām//  
-  
-7.03ab/ raudra^ādīni maghā^antāny upāśrite candraje prajāpīḍā/  
-  
-7.03cd/ śastra^nipāta^kṣud^bhaya^roga^anāvṛṣṭi^santāpaiḥ//  
-  
-7.04ab/ hasta^ādīni *caran[K.vicaran] ṣaḍṛkṣāṇy upapīḍayan gavām aśubhaḥ/  
-  
-7.04cd/ sneha^rasa^argha^vivṛddhiṃ karoti ca^urvīṃ prabhūta^annām//  
-  
-7.05ab/ āryamṇaṃ hautabhujaṃ bhadrapadām uttrarāṃ yameśaṃ ca/  
-  
-7.05cd/ candrasya suto nighnan prāṇa^bhṛtāṃ dhātu^saṃkṣaya^kṛt//  
-  
-7.06ab/ āśvina^vāruṇa^mūlāny upamṛdnan revatīṃ ca candra^sutaḥ/  
-  
-7.06cd/ paṇya^bhiṣag^naujīvika^salilaja^turaga^upaghāta^karaḥ//  
-  
-7.07ab/ pūrva^ādy^ṛkṣa^tritayād ekam api^indoḥ suto +abhimṛdnīyāt/  
-  
-7.07cd/ kṣut^śastra^taskara^āmaya^bhaya^pradāyī caran jagataḥ//  
-  
-7.08ab/ prākṛta^vimiśra^saṃkṣipta^tīkṣṇa^yogānta^ghora^pāpa^ākhyāḥ/  
-  
-7.08cd/ sapta parāśara^tantre nakṣatraiḥ kīrtitā gatayaḥ//  
-7.09ab/ prākṛta^saṃjñā vāyavya^yāmya^paitāmahāni bahulāś ca/  
-  
-7.09cd/ miśrā gatiḥ pradiṣṭā śaśi^śiva^pitṛ^*bhujagadevāni[K.bhujagadaivāni]/  
-  
-7.10ab/ saṃkṣiptāyāṃ puṣyaḥ punarvasuḥ phalgunī^dvayaṃ ca^iti/  
-  
-7.10cd/ tīkṣṇāyāṃ bhadrapadā^dvayaṃ sa^śākra^aśvayuk pauṣṇam//  
-  
-7.11ab/ yogāntikā^iti mūlaṃ dve ca^āṣāḍhe gatiḥ sutasya^indoḥ//  
-  
-7.11cd/ ghorā śravaṇas tvāṣṭraṃ *vasudaivaṃ[K.vasudevaṃ] vāruṇaṃ ca^eva//  
-  
-7.12ab/ pāpa^ākhyā sāvitraṃ maitraṃ śakrāgni^daivataṃ ca^iti/  
-  
-7.12cd/ udaya^pravāsa^divasaiḥ sa eva gati^lakṣaṇaṃ prāha//  
-  
-7.13ab/ catvāriṃśat(40) triṃśad(30) dvisametā viṃśatir(22) dvinavakaṃ(18) ca/  
-  
-7.13cd/ nava(9) māsa^ardhaṃ(15) daśa ca^ekasaṃyutāḥ(11) prākṛtādyānām//  
-  
-7.14ab/ prākṛta^gatyām ārogya^vṛṣṭi^sasya^pravṛddhayaḥ kṣemam/  
-  
-7.14cd/ saṃkṣipta^miśrayor miśram etad anyāsu viparītam//  
-  
-7.15ab/ ṛjvī^ativakrā^vakrā vikalā ca matena devalasya^etāḥ/  
-  
-7.15cd/ pañca^catur^dvy^ekāhā ṛjvyādīnāṃ ṣaḍabhyastāḥ//  
-  
-7.16ab/ ṛjvī hitā prajānām *ativakrā +arghaṃ[K.ativakrārthaṃ] gatir vināśayati/  
-  
-7.16cd/ śastra^bhayadā ca vakrā vikalā bhaya^roga^saṃjananī//  
-  
-7.17ab/ pauṣa^āṣāḍha^śrāvaṇa^vaiśākheṣv indujaḥ sa^māgheṣu/  
-  
-7.17cd/ vṛṣṭo bhayāya jagataḥ śubha^phala^kṛt proṣitas teṣu//  
-  
-7.18ab/ *kārtike[K.kārttike] +aśvayuji vā yadi māse dṛśyate tanu^bhavaḥ śiśirāṃśoḥ/  
-  
-7.18cd/ śastra^caura^hutabhug^gada^toya^kṣud^bhayāni ca tadā vidadhāti  
-  
-7.19ab/ ruddhāni saumye *+astagate[K.astamite] purāṇi yāny udgate tāny upayānti mokṣam/  
-  
-7.19cd/ anye tu paścād udite vadanti lābhaḥ purāṇāṃ bhavati tajjñāḥ//  
-  
-7.20ab/ hema^kāntir atha vā śuka^varṇaḥ sasyakena maṇinā sadṛśo vā/  
-  
-7.20cd/ snigdha^mūrtir alaghuś ca hitāya vyatyaye na śubha^kṛt śaśiputraḥ//  
-
-8 bṛhaspaticārādhyāyaḥ  
-
-8.01ab/ nakṣatreṇa saha^udayam upagacchati yena devapati^mantrī/  
-  
-8.01cd/ tat^saṃjñaṃ vaktavyaṃ varṣaṃ māsa^krameṇa^eva//  
-  
-8.02ab/ varṣāṇi kārttika^ādīny āgneyād bha^dvaya^anuyogīni/  
-  
-8.02cd/ kramaśas tribhaṃ tu pañcamam upāntyam antyaṃ ca yad varṣam//  
-  
-8.03ab/ śakaṭa^anala^upajīvaka^go^pīḍā vyādhi^śastra^kopaś ca/  
-  
-8.03cd/ vṛddhis tu rakta^pītaka^kusumānāṃ kārttike varṣe//  
-  
-8.04ab/ saumye +abde +anāvṛṣṭir mṛga^ākhu^śalabha^aṇḍajaiś ca sasya^vadhaḥ/  
-  
-8.04cd/ vyādhi^bhayaṃ mitrair api bhūpānāṃ jāyate vairam//  
-  
-8.05ab/ śubha^kṛj^jagataḥ pauṣo nivṛtta^vairāḥ parasparaṃ kṣitipāḥ/  
-  
-8.05cd/ dvi^tri^guṇo dhānya^arghaḥ pauṣṭika^karma^prasiddhiś ca//  
-  
-8.06ab/ pitṛpūjā^parivṛddhir māghe hārdiś ca sarvabhūtānām/  
-  
-8.06cd/ ārogya^vṛṣṭi^dhānya^argha^sampado mitra^lābhaś ca//  
-  
-8.07ab/ phālguna^varṣe vindyāt kva cit kva cit kṣema^vṛṣṭi^sasyāni/  
-  
-8.07cd/ daurbhāgyaṃ pramadānāṃ prabalāś caurā nṛpāś ca^ugrāḥ//  
-  
-8.08ab/ caitre mandā vṛṣṭiḥ priyam annaṃ kṣemam avanipā mṛdavaḥ/  
-  
-8.08cd/ vṛddhiś ca kośa^dhānyasya bhavati pīḍā ca rūpavatām//  
-  
-8.09ab/ vaiśākhe *dharma^ratā[K.dharmaparā] vigata^bhayāḥ pramuditāḥ prajāḥ sanṛpāḥ/  
-  
-8.09cd/ yajña^kriyā^prāvṛttir niṣpattiḥ sarva^sasyānām//  
-  
-8.10ab/ jyaiṣṭhe jāti^kula^dhana^śreṇī^śreṣṭhā nṛpāḥ sadharmajñāḥ/  
-  
-8.10cd/ pīḍyante dhānyāni ca hitvā kaṅguṃ śamījātim//  
-8.11ab/ āṣāḍhe jāyante sasyāni kva cid avṛṣṭir anyatra/  
-  
-8.11cd/ yogakṣemaṃ madhyaṃ vyagrāś ca bhavanti bhūpālāḥ//  
-  
-8.12ab/ śrāvaṇa^varṣe kṣemaṃ samyak sasyāni pākam upayānti/  
-  
-8.12cd/ kṣudrā ye *pākhaṇḍāḥ[K.pāṣaṇḍāḥ] pīḍyante ye ca tad^bhaktāḥ//  
-  
-8.13ab/ bhādrapade vallījaṃ niṣpattiṃ yāti pūrvasasyaṃ ca/  
-  
-8.13cd/ na bhavaty aparaṃ sasyaṃ kva cit subhikṣaṃ kvacic ca bhayam//  
-  
-8.14ab/ āśvayuje +abde +ajasraṃ patati jalaṃ pramuditāḥ prajāḥ kṣemam/  
-  
-8.14cd/ prāṇa^cayaḥ prāṇa^bhṛtām sarveṣām anna^bāhulyam//  
-  
-8.15ab/ udag^ārogya^subhikṣa^kṣema^karo vākpatiś caran bhānām/  
-  
-8.15cd/ yāmye tad^viparīto madhyena tu madhya^phala^dāyī//  
-  
-8.16ab/ vicaran bha^dvayam iṣṭas tat^sārdhaṃ vatsareṇa madhya^phalaḥ/  
-  
-8.16cd/ sasyānāṃ vidhvaṃsī vicared adhikaṃ yadi kadā cit//  
-  
-8.17ab/ anala^bhayam anala^varṇe vyādhiḥ pīte raṇa^āgamaḥ śyāme/  
-  
-8.17cd/ harite ca taskarebhyaḥ pīḍā rakte tu śastra^bhayam//  
-  
-8.18ab/ dhūma^ābhe +anāvṛṣṭis tridaśa^gurau nṛpa^vadho divā dṛṣṭe/  
-  
-8.18cd/ vipule +amale sutāre rātrau dṛṣṭe prajāḥ svasthāḥ//  
-  
-8.19a rohiṇyo +analabhaṃ ca vatsara^tanur nābhis tv aṣāḍha^dvayaṃ  
-  
-8.19b sārpaṃ hṛt^pitṛ^daivataṃ ca kusumaṃ śuddhaiḥ śubhaṃ taiḥ phalam/  
-  
-8.19c dehe krūra^nipīḍite +agny^anilajaṃ nābhyāṃ bhayaṃ kṣut^kṛtaṃ  
-  
-8.19d puṣpe mūla^phala^kṣayo +atha hṛdaye sasyasya nāśo dhruvam//  
-  
-8.20a gatāni varṣāṇi śakendra^kālād  
-  
-8.20b dhatāni rudrair guṇayec caturbhiḥ/  
-  
-8.20c nava^aṣṭa^pañca^aṣṭa(8589)yutāni kṛtvā  
-  
-8.20d vibhājayec^śūnya^śarā^garāmaiḥ(3750)//  
-  
-8.21a *labdhena[K.phalena] yuktaṃ śaka^bhūpakālaṃ  
-  
-8.21b saṃśodhya ṣaṣṭyā viṣayair vibhajya/  
-  
-8.21c yugāni nārāyaṇa^pūrvakāṇi  
-  
-8.21d labdhāni śeṣāḥ kramaśaḥ samāḥ syuḥ//  
-  
-8.22ab/ ekaikam abdeṣu nava^āhateṣu dattvā pṛthag dvādaśakaṃ krameṇa/  
-  
-8.22cd/ hṛtvā caturbhir vasudevatā^ādyāny uḍūni śeṣāṃśaka^pūrvam abdam//  
-  
-8.23ab/ viṣṇuḥ surejyo balabhid dhutāśas tvaṣṭa^uttaraproṣṭhapadā^adhipaś ca/  
-  
-8.23cd/ kramād yugeśāḥ pitṛ^viśva^*soma[K.somāḥ]^śakrānala^ākhya^aśvi^bhagāḥ pradiṣṭāḥ//  
-  
-8.24ab/ saṃvatsaro +agniḥ parivatsaro +arka idā^ādikaḥ śīta^mayūkha^mālī/  
-  
-8.24cd/ prajāpatiś ca^apy anuvatsaraḥ syād idvatsaraḥ śailasutāpatiś ca//  
-  
-8.25ab/ vṛṣṭiḥ samādye pramukhe dvitīye prabhūta^toyā kathitā tṛtīye/  
-  
-8.25cd/ paścāj jalaṃ muñcati yac caturthaṃ svalpa^udakaṃ pañcamam abdam uktam//  
-  
-8.26ab/ catvāri mukhyāni yugāny atha^eṣāṃ viṣṇu^indra^jīva^anala^daivatāni/  
-  
-8.26cd/ catvāri madhyāni ca madhyamāni catvāri ca^antyāny adhamāni  
-  
-vindyāt//  
-  
-8.27ab/ ādyaṃ dhaniṣṭāṃśam abhiprapanno māghe yadā yāty udayaṃ surejyaḥ/  
-  
-8.27cd/ ṣaṣṭy^abda^pūrvaḥ prabhavaḥ sa nāmnā *prapadyate[K.pravartate] bhūta^hitas tadābdaḥ//  
-  
-8.28ab/ kva cit tv avṛṣṭiḥ pavana^agni^kopaḥ santi^ītayaḥ śleṣma^kṛtāś ca rogāḥ/  
-  
-8.28cd/ saṃvatsare +asmin prabhave pravṛtte na duḥkham āpnoti janas tathā^api//  
-  
-8.29ab/ tasmād dvitīyo vibhavaḥ pradiṣṭaḥ śuklas tṛtīyaḥ parataḥ pramodaḥ/  
-  
-8.29cd/ prajāpatiś ca^iti yathottarāṇi śastāni varṣāṇi phalāny *atha^eṣām[K.caiṣām]//  
-  
-8.30ab/ niṣpanna^śāli^ikṣu^yava^ādi^sasyāṃ bhayair vimuktām upaśānta^vairām//  
-  
-8.30cd/ saṃhṛṣṭa^lokāṃ kali^doṣa^muktāṃ kṣatraṃ tadā śāsti ca bhūtadhātrīm//  
-  
-8.31ab/ ādyo +aṅgirāḥ śrīmukha^bhāvasā^āhvau *yuvā sudhāteti[K.yuvātha dhāteti] yuge dvitīye/  
-  
-8.31cd/ varṣāṇi pañca^eva yathākrameṇa trīṇy atra śastāni same pare dve//  
-  
-8.32ab/ triṣv *ādya^varṣeṣu[K.aṅgirādyeṣu, K's tr. ādyavarṣeṣu] nikāma^varṣī devī nirātaṅka^*bhayaś[K.bhayāś] ca lokaḥ/  
-  
-8.32cd/ abda^dvaye +antye +api samā suvṛṣṭiḥ kintv atra rogāḥ samara^āgamaś ca//  
-  
-8.33ab/ śākre yuge pūrvam atha^īśvara^ākhyaṃ varṣaṃ dvitīyaṃ bahudhānyam āhuḥ/  
-  
-8.33cd/ pramāthinaṃ vikramam apy *atha^anyad[K.ato +anyad] vṛṣaṃ ca vindyād gurucāra^yogāt//  
-  
-8.34ab/ ādyaṃ dvitīyaṃ ca śubhe tu varṣe kṛta^anukāraṃ kurutaḥ prajānām/  
-  
-8.34cd/ pāpaḥ pramāthī vṛṣa^vikramau tu subhikṣadau roga^bhaya^pradau ca//  
-  
-8.35ab/ śreṣṭhaṃ ca caturthasya yugasya pūrvaṃ yac citrabhānuṃ kathayanti varṣam/  
-  
-8.35cd/ madhyaṃ dvitīyaṃ tu subhānu^sañjñaṃ roga^pradaṃ mṛtyu^karaṃ *na taṃ ca[K.na tac ca]//  
-  
-8.36ab/ tāraṇaṃ tad^anu bhūri^vāridaṃ sasya^vṛddhi^*muditāti[K.muditaṃ ca]^pārthivam/  
-  
-8.36cd/ pañcamaṃ vyayam uśanti śobhanaṃ manmatha^prabalam utsava^ākulam//  
-  
-8.37ab/ tvāṣṭre yuge sarvajid^ādya uktaḥ saṃvatsaro +anyaḥ khalu sarvadhārī/  
-  
-8.37cd/ tasmād virodhī vikṛtaḥ kharaś ca śasto dvitīyo +atra bhayāya śeṣāḥ//  
-  
-8.38ab/ nandano +atha vijayo jayas tathā manmatho +asya parataś ca durmukhaḥ/  
-  
-8.38cd/ kāntam atra yuga āditas trayaṃ manmathaḥ sama^phalo +adhamo +aparaḥ//  
-  
-8.39ab/ hemalamba iti saptame yuge syād vilambi parato vikāri ca/  
-  
-8.39cd/ śarvarīti tad^anu plavaḥ smṛto vatsaro guru^vaśena pañcamaḥ//  
-  
-8.40a *īti^prāyā[K.itiprāyaḥ] pracura^pavanā vṛṣṭir abde tu pūrve  
-  
-8.40b mandaṃ sasyaṃ na bahu^salilaṃ vatsare +ato dvitīye/  
-  
-8.40c atyudvegaḥ pracura^salilaḥ syāt tṛtīyaś caturtho  
-  
-8.40d durbhikṣāya plava iti tataḥ śobhano bhūri^toyaḥ//  
-  
-8.41ab/ vaiśve yuge *śokahṛd[K.śobhakṛd] ity atha^ādyaḥ saṃvatsaro +ataḥ śubhakṛd dvitīyaḥ/  
-  
-8.41cd/ krodhī tṛtīyaḥ parataḥ krameṇa viśvāvasuś ca^iti parābhavaś ca//  
-  
-8.42ab/ pūrvā^parau prīti^karau prajānām eṣāṃ tṛtīyo bahu^doṣado +abdaḥ/  
-  
-8.42cd/ antyau samau kintu parābhave +agniḥ śastra^āmaya^ārtir dvija^go^bhayaṃ ca//  
-  
-8.43ab/ ādyaḥ plavaṅgo navame yuge +abdaḥ syāt kīlako +anyaḥ parataś ca saumyaḥ/  
-  
-8.43cd/ sādhāraṇo rodhakṛd ity *atha^evaṃ[K.athābdaḥ] śubhapradau kīlaka^saumyasaṃjñau//  
-  
-8.44ab/ kaṣṭaḥ plavaṅgo bahuśaḥ prajānāṃ sādhāraṇe +alpaṃ jalam ītayaś ca/  
-  
-8.44cd/ yaḥ pañcamo rodhakṛd ity atha^abdaś citram jalam tatra ca sasyasampat//  
-  
-8.45ab/ indrāgnidaivaṃ daśamaṃ yugaṃ yat *tatra^ādya^varṣaṃ[K.tarādyamabdaṃ] paridhāvisaṃjñam/  
-  
-8.45cd/ *pramādinaṃ vikramam apy ato +anyat[K.pramādyathānandamataḥ paraṃ yat] syād rākṣasaṃ ca^anala^saṃjñitam ca//  
-  
-8.46ab/ paridhāvini madhyadeśa^nāśo nṛpa^hānir jalam alpam agni^kopaḥ/  
-  
-8.46cd/ alasas tu janaḥ pramādi^saṃjñe ḍamaraṃ raktaka^puṣpa^bīja^nāśaḥ//  
-  
-8.47ab/ *vikramaḥ[K.tatparaḥ] sakala^loka^nandano rākṣasaḥ kṣaya^karo +analas tathā/  
-  
-8.47cd/ grīṣma^dhānya^janano +atra rākṣaso vahni^kopa^maraka^prado +analaḥ//  
-  
-8.48ab/ ekādaśe piṅgala^kālayukta^siddhārtha^raudrāḥ khalu durmatiś ca/  
-  
-8.48cd/ ādye tu vṣṛṭir mahatī sacaurā śvāso hanū^kampa^yutaś ca kāsaḥ//  
-  
-8.49ab/ yat kālayuktaṃ tad aneka^doṣaṃ siddhārtha^saṃjñe bahavo guṇāś ca/  
-  
-8.49cd/ raudro +atiraudraḥ kṣaya^kṛt pradiṣṭo yo durmatir madhyama^vṛṣṭi^kṛt saḥ//  
-  
-8.50ab/ bhāgye yuge dundubhi^saṃjñam ādyaṃ sasyasya vṛddhiṃ mahatīṃ karoti/  
-  
-8.50cd/ *aṅgāra^saṃjñaṃ[K.udgārisaṃjñaṃ] tad^anu kṣayāya nareśvarāṇāṃ viṣamā ca vṛṣṭiḥ//  
-  
-8.51ab/ raktākṣam abdaṃ kathitaṃ tṛtīyaṃ tasmin bhayaṃ daṃṣṭri^kṛtaṃ gadāś ca/  
-  
-8.51cd/ krodhaṃ bahu^krodha^karaṃ caturthaṃ rāṣṭrāṇi śūnyīkurute virodhaiḥ//  
-  
-8.52a kṣayam iti yugasya^antyasya^antyaṃ bahu^kṣaya^kārakaṃ  
-  
-8.52b janayati bhayaṃ tad^viprāṇāṃ kṛṣībala^vṛddhidam/  
-  
-8.52c upacaya^karaṃ viṭ^śūdrāṇāṃ para^sva^hṛtāṃ tathā  
-  
-8.52d kathitam akhilaṃ ṣaṣṭy^abde yat tad atra samāsataḥ//  
-  
-8.53ab/ akaluṣāṃśu^jaṭilaḥ pṛthu^mūrtiḥ kumuda^kunda^kusuma^sphaṭika^ābhaḥ/  
-  
-8.53cd/ graha^hato na yadi sat^patha^vartī *hita^karo[K.hatakiro] +amara^gurur manujānām//  
-
-9 śukracārādhyāyaḥ  
-
-9.01ab/ nāga^gaja^airāvata^vṛṣabha^go^jaradgava^mṛga^aja^dahana^ākhyāḥ/  
-  
-9.01cd/ aśviny^ādyāḥ kaiś cit tribhāḥ kramād vīthayaḥ kathitāḥ//  
-  
-9.02ab/ nāgā tu pavana^yāmya^analāni paitāmahāt tribhās tisraḥ/  
-  
-9.02cd/ govīthyām aśvinyaḥ pauṣṇaṃ dve ca^api bhadrapade//  
-  
-9.03ab/ jāradgavyāṃ śravaṇāt tribhaṃ mṛga^ākhyā tribhaṃ tu maitra^ādyam/  
-  
-9.03cd/ hasta^viśākhā^tvāṣṭrāṇy aja^ity aṣāḍhā^dvayaṃ dahanā//  
-  
-9.04ab/ tisras tisras tāsāṃ kramād udaṅ^madhya^yāmya^mārga^sthāḥ/  
-  
-9.04cd/ tāsām apy uttara^madhya^*dakṣiṇena sthita^ekaikā[K.dakṣiṇāvasthitaikaikā]//  
-  
-9.05ab/ vīthī^mārgān apare kathayanti yathāsthitān bha^mārgasya/  
-  
-9.05cd/ nakṣatrāṇāṃ tārā yāmyottara^madhyamās tadvat//  
-  
-9.06ab/ uttaramārgo yāmya^ādi nigadito madhyamas tu bhāgya^ādyaḥ/  
-  
-9.06cd/ dakṣiṇa^mārgo^āṣāḍhā^ādi kaiś cid evaṃ kṛtā mārgāḥ//  
-  
-9.07ab/ *jyautiṣam[K.jyotisam] āgama^śāstraṃ vipratipattau na yogyam asmākam/  
-  
-9.07cd/ svayam evā vikalpayituṃ kintu bahūnāṃ mataṃ vakṣye//  
-  
-9.08ab/ uttaravīthiṣu śukraḥ subhikṣa^śiva^kṛd gato +astam udayam *ca[K.vā]/  
-  
-9.08cd/ madhyāsu madhya^phaladaḥ kaṣṭa^phalo dakṣiṇa^sthāsu//  
-  
-9.09ab/ atyuttama^uttamonaṃ sama^madhya^nyūnam adhama^kaṣṭa^phalam/  
-  
-9.09cd/ *kaṣṭataraṃ[K.kaṣṭatamaṃ] saumya^ādyāsu vīthiṣu yathākramaṃ brūyāt//  
-  
-9.10ab/ bharaṇī^pūrvaṃ maṇḍalam ṛkṣa^catuṣkaṃ subhikṣa^karam ādyam/  
-  
-9.10cd/ vaṅga^aṅga^mahiṣa^*bāhlika[K.vāhlika]^kaliṅga^deśeṣu bhaya^jananam//  
-  
-9.11ab/ atra^uditam ārohed graho +aparo yadi sitaṃ tato hanyāt/  
-  
-9.11cd/ bhadrāśva^śūrasenaka^yaudheyaka^koṭivarṣa^nṛpān//  
-  
-9.12ab/ bhacatuṣṭayam ārdrā^ādyaṃ dvitīyam amita^ambu^sasya^sampattyai/  
-  
-9.12cd/ viprāṇām aśubha^karaṃ viśeṣataḥ krūra^ceṣṭānām//  
-  
-9.13ab/ anyena^atra^ākrānte mlecchā^*āṭavika[K.& ū.ātavikā]^śvajīvi^gomantān/  
-  
-9.13cd/ gonarda^nīca^śūdrān vaidehāṃś ca^anayaḥ spṛśati//  
-  
-9.14ab/ vicaran maghā^ādi^pañcakam uditaḥ sasya^praṇāśa^kṛt^śukraḥ/  
-  
-9.14cd/ kṣut^taskara^bhaya^janano nīca^unnati^saṅkarakaraś ca//  
-  
-9.15ab/ pitryādye +avaṣṭabdho hanty anyena^āvikān śabara^śūdrān/  
-  
-9.15cd/ puṇḍrā^aparāntya^śūlika^vanavāsi^draviḍa^sāmudrān//  
-  
-9.16ab/ svāty^ādyaṃ bha^tritayaṃ maṇḍalam etac caturtham abhaya^karam/  
-  
-9.16cd/ brahma^kṣatra^subhikṣa^abhivṛddhaye mitra^bhedāya//  
-  
-9.17ab/ atra^akrānte mṛtyuḥ kirātabhartuḥ^pinaṣṭi ca^ikṣvākūn/  
-  
-9.17cd/ pratyanta^avanti^pulinda^taṅgaṇān śūrasenāṃś ca//  
-  
-9.18ab/ jyeṣṭhā^ādyaṃ pañca^ṛkṣaṃ kṣut^taskara^roga^dam prabādhayate/  
-  
-9.18cd/ kāśmīra^aśmaka^matsyān sa^cārudevīn avantīṃś ca//  
-  
-9.19ab/ *atra^arohed draviḍa^ābhīra^ambaṣṭha[K.ārohe +atrābhīrān draviḍāmbaṣṭha]^trigarta^saurāṣṭrān/  
-9.19cd/ nāśayanti sindhu^sauvīrakāṃś ca kāśi^īśvarasya vadhaḥ//  
-  
-9.20ab/ ṣaṣṭhaṃ ṣaṇnakṣatraṃ śubham etan maṇḍalaṃ dhaniṣṭhā^ādyam/  
-  
-9.20cd/ bhūri^dhana^gokula^ākulam analpa^dhānyaṃ kva cit sabhayam//  
-  
-9.21ab/ atra^*ārohec[K.ārohe]^śūlika^gāndhāra^avantayaḥ prapīḍyante/  
-  
-9.21cd/ vaideha^vadhaḥ pratyanta^yavana^śaka^dāsa^parivṛddhiḥ//  
-  
-9.22ab/ aparasyāṃ svāty^ādyaṃ jyeṣṭhā^ādyaṃ ca^api maṇḍalaṃ śubhadam/  
-  
-9.22cd/ pitrya^ādyaṃ pūrvasyāṃ śeṣāṇi yathokta^phaladāni//  
-  
-9.23ab/ dṛṣṭo *+anastamite[K.+anastagate +arke] bhaya^kṛt kṣud^roga^kṛt samastam ahaḥ/  
-  
-9.23cd/ *ardha^divase[K.arthadivasaṃ] ca sa^indur nṛpa^bala^pura^bhedakṛt^śukraḥ//  
-  
-9.24ab/ bhindan gato +anala^ṛkṣaṃ kūlātikrānta^vāri^vāhābhiḥ/  
-  
-9.24cd/ avyakta^tuṅga^nimnā samā saridbhir bhavati dhātrī//  
-  
-9.25ab/ prājāpatye śakaṭe bhinne kṛtvā^iva pātakaṃ vasudhā/  
-  
-9.25cd/ keśa^asthi^śakala^śabalā kāpālam iva vrataṃ dhatte//  
-  
-9.26ab/ saumya^upagato rasa^sasya^saṃkṣayāya^uśanāḥ samuddiṣṭaḥ/  
-  
-9.26cd/ ārdrāgatas tu kośala^kaliṅga^hā salila^nikara^karaḥ//  
-  
-9.27ab/ aśmaka^vaidarbhāṇāṃ punarvasusthe site mahān anayaḥ/  
-  
-9.27cd/ puṣye puṣṭā vṛṣṭir *vidyādhararaṇa[U.vidyādhara]^vimardaś ca//  
-  
-9.28ab/ āśleṣāsu bhujaṅgama^dāruṇa^pīḍā^vahaś caran śukraḥ/  
-  
-9.28cd/ bhindan maghāṃ mahāmātra^doṣa^kṛd bhūri^vṛṣṭi^karaḥ//  
-  
-9.29ab/ bhāgye śabara^pulinda^pradhvaṃsa^karo +ambu^nivaha^mokṣāya/  
-  
-9.29cd/ āryamṇe kuru^jāṅgala^pāñcāla^ghnaḥ salila^dāyī//  
-  
-9.30ab/ kaurava^citrakarāṇāṃ haste pīḍā jalasya ca nirodhaḥ/  
-  
-9.30cd/ kūpakṛd^aṇḍaja^pīḍā citrāsthe śobhanā vṛṣṭiḥ//  
-  
-9.31ab/ svātau prabhūta^vṛṣṭir dūta^vaṇig^nāvikān spṛśaty anayaḥ/  
-  
-9.31cd/ aindra^agne +api suvṛṣṭir vaṇijāṃ ca bhayaṃ vijānīyāt//  
-  
-9.32ab/ maitre kṣatra^virodho jyeṣṭhāyāṃ kṣatra^mukhya^santāpaḥ/  
-  
-9.32cd/ maulika^bhiṣajām mūle triṣv api ca^eteṣv anāvṛṣṭiḥ//  
-  
-9.33ab/ āpye salilaja^pīḍā viśveśe vyādhayaḥ prakupyanti/  
-  
-9.33cd/ śravaṇe śravaṇa^vyādhiḥ *pākhaṇḍi[K.pāṣaṇḍi]^bhayaṃ dhaniṣṭhāsu//  
-  
-9.34ab/ śatabhiṣaji śauṇḍikānām *ajaikabhe[K.ajaikape] dyūtajīvināṃ *pīḍāṃ[K.pīḍā]/  
-  
-9.34cd/ kuru^pāñcālānām api karoti ca^asmin sitaḥ salilam//  
-  
-9.35ab/ āhirbudhnye phala^mūla^tāpa^kṛd yāyinām ca revatyām/  
-  
-9.35cd/ aśvinyāṃ hayapānāṃ yāmye tu kirāta^yavanānām//  
-  
-9.36ab/ *caturdaśīṃ pañcadaśīṃ tathā^aṣṭamīṃ[K.caturdaśe pañcadaśe tathāṣṭame] tamisrapakṣasya *tithiṃ[K.tithau] bhṛgoḥ sutaḥ/  
-  
-9.36cd/ yadā vrajed darśanam astam eti vā tadā mahī vārimayīva lakṣyate//  
-  
-9.37ab/ gurur bhṛguś ca^apara^pūrva^kāṣṭhayoḥ parasparaṃ saptama^rāśigau yadā/  
-  
-9.37cd/ tadā prajā rug^bhaya^śoka^pīḍitā na vāri paśyanti purandara^ujjhitam//  
-  
-9.38ab/ yadā sthitā jīva^budha^āra^sūryajāḥ sitasya sarve +agrapatha^anuvartinaḥ/  
-  
-9.38cd/ nṛ^nāga^vidyādhara^saṅgarās tadā bhavanti vātāś ca samucchrita^antakāḥ//  
-  
-9.39ab/ na mitrabhāve suhṛdo vyavasthitāḥ kriyāsu samyag na ratā dvijātayaḥ/  
-  
-9.39cd/ na ca^alpam apy ambu dadāti vāsavo bhinatti vajreṇa śirāṃsi bhūbhṛtām//  
-  
-9.40ab/ śanaiścare mleccha^viḍāla^kuñjarāḥ kharā mahiṣyo +asita^dhānya^śūkarāḥ/  
-  
-9.40cd/ pulinda^śūdrāś ca sadakṣiṇāpathāḥ kṣayaṃ vrajanty akṣi^marud^gada^udbhavaiḥ//  
-  
-9.41ab/ nihanti śukraḥ kṣitije +agrataḥ *prajāṃ[K.prajā] hutāśa^śastra^kṣud^avṛṣṭi^taskaraiḥ/  
-  
-9.41cd/ cara^acaraṃ vyaktam atha^uttarāpathaṃ diśo +agni^vidyud^rajasā ca pīḍyet//  
-  
-9.42ab/ bṛhaspatau hanti puraḥsthite sitaḥ sitaṃ samastaṃ dvija^go^surālayān/  
-  
-9.42cd/ diśaṃ ca pūrvāṃ karakāsṛjo +ambudā gale gadā bhūri bhavec ca śāradam//  
-  
-9.43a saumyo +asta^udayoḥ puro bhṛgusutasya^avasthitas toya^kṛd  
-  
-9.43b rogān pittaja^*kāmalāṃś[K.kāmalāṃ K's tr. kāmalāmś or kāmalāś] ca kurute puṣṇāti ca *graiṣmikān[K.graiṣmikam]/  
-  
-9.43c hanyāt pravrajita^āgnihotrika^bhiṣag^raṅgopajīvyān hayān  
-  
-9.43d vaiśyān gāḥ saha vāhanair narapatīn pītāni paścād diśam//  
-  
-9.44a śikhi^bhayam analābhe śastra^kopaś ca rakte  
-  
-9.44b kanakanikaṣagaure vyādhayo daityapūjye/  
-  
-9.44c harita^kapila^rūpe śvāsa^kāsa^prakopaḥ  
-  
-9.44d patati na salilaṃ khād bhasmarūkṣāsitābhe//  
-  
-9.45ab/ dadhi^kumuda^śaśāṅka^kānti^bhṛt sphuṭa^vikasat^kiraṇo bṛhattanuḥ/  
-  
-9.45cd/ sugatir avikṛto jayānvitaḥ kṛtayugarūpakaraḥ sitāhvayaḥ//  
-
-10 śanaiścaracārādhyāyaḥ  
-
-10.01ab/ śravaṇa^anila^hasta^ārdrā^bharaṇī^bhāgya^upagaḥ suto +arkasya/  
-  
-10.01cd/ pracura^salila^upagūḍhāṃ karoti dhātrīṃ yadi snigdhaḥ//  
-  
-10.02ab/ ahi^varuṇa^purandara^daivateṣu sukṣema^kṛn na ca^atijalam/  
-  
-10.02cd/ kṣut^śastra^avṛṣṭi^karo mūle pratyekam api vakṣye//  
-  
-10.03ab/ turaga^turagopacāraka^kavi^vaidya^amātya^hā^arkajo +aśvigataḥ/  
-  
-10.03cd/ yāmye nartaka^vādaka^geya^jña^kṣudra^naikṛtikān//  
-  
-10.04ab/ bahulāsthe pīḍyante saure +agnyupajīvinaś camūpāś ca/  
-  
-10.04cd/ rohiṇyāṃ kośala^madra^kāśi^pañcāla^śākaṭikāḥ//  
-  
-10.05ab/ mṛgaśirasi vatsa^yājaka^yajamāna^āryajana^madhyadeśās ca/  
-  
-10.05cd/ raudra^sthe *pārata^ramaṭhās tailika^rajaka[K.pāratarātailikarajaka]^caurāś ca//  
-  
-10.06ab/ āditye pāñcanada^pratyanta^surāṣṭra^sindhu^sauvīrāḥ/  
-  
-10.06cd/ puṣye ghāṇṭhika^ghauṣika^yavana^vaṇik^kitava^kusumāni//  
-  
-10.07ab/ sārpe jalaruha^sarpāḥ pitrye bāhlīka^cīna^gāndhārāḥ/  
-  
-10.07cd/ śūlika^pārata^vaiśyāḥ koṣṭhāgārāṇi vaṇijaś ca//  
-  
-10.08ab/ bhāgye rasa^vikrayiṇaḥ paṇya^strī^kanyakā^mahārāṣṭrāḥ/  
-  
-10.08cd/ āryamṇe nṛpa^guḍa^lavaṇa^bhikṣuka^ambūni takṣaśilā//  
-  
-10.09ab/ haste nāpita^cākrika^caura^bhiṣak^sūcikā dvipa^grāhāḥ/  
-  
-10.09cd/ bandhakyaḥ kauśalakā mālākārāś ca pīḍyante//  
-  
-10.10ab/ citrāsthe pramadājana^lekhaka^citrajña^citrabhāṇḍāni/  
-  
-10.10cd/ svātau māgadha^cara^dūta^sūta^potaplava^naṭa^ādyāḥ//  
-  
-10.11ab/ aindrāgnākhye traigarta^cīna^kaulūta^kuṅkumaṃ lākṣā/  
-  
-10.11cd/ sasyāny atha māñjiṣṭhaṃ kausumbhaṃ ca kṣayaṃ yāti//  
-  
-10.12ab/ maitre kulūta^taṅgaṇa^khasa^kāśmīrāḥ samantri^cakracarāḥ/  
-  
-10.12cd/ upatāpaṃ yānti ca ghāṇṭikā vibhedaś ca mitrāṇām//  
-  
-10.13ab/ jyeṣṭhāsu nṛpa^purohita^nṛpa^satkṛta^śūra^gaṇa^kula^śreṇyaḥ/  
-  
-10.13cd/ mūle tu kāśi^kośala^pāñcāla^phala^auṣadhī^yodhāḥ//  
-  
-10.14ab/ āpye +aṅga^vaṅga^kauśala^girivrajā magadha^puṇḍra^mithilāś ca/  
-  
-10.14cd/ upatāpaṃ yānti janā vasanti ye tāmraliptyāṃ ca//  
-  
-10.15ab/ viśveśvare +arkaputraś caran daśārṇān nihanti yavanāṃś ca/  
-  
-10.15cd/ ujjayinīṃ śabarān pāriyātrikān kuntibhojāṃś ca//  
-  
-10.16ab/ śravaṇe rāja^adhikṛtān viprāgrya^bhiṣak^purohita^kaliṅgān/  
-  
-10.16cd/ vasubhe magadheśa^jayo vṛddhiś ca dhaneṣv adhikṛtānām//  
-  
-10.17ab/ sāje śatabhiṣaji bhiṣak^kavi^śauṇḍika^paṇya^nīti*vṛttīnām[K.varttānām]/  
-  
-10.17cd/ āhirbudhnye nadyo yānakarāḥ strī^hiraṇyaṃ ca//  
-  
-10.18ab/ revatyāṃ rāja^bhṛtāḥ krauñca^dvīpa^āśritāḥ śaratsasyam/  
-  
-10.18cd/ śabarāś ca nipīḍyante yavanāś ca śanaiścare carati//  
-10.19ab/ yadā viśākhāsu mahendra^mantrī sutaś ca bhānor dahana^ṛkṣa^yātaḥ/  
-  
-10.19cd/ tadā prajānām anayo +atighoraḥ pura^prabhedo gatayor bham ekam//  
-  
-10.20ab/ aṇḍajahā ravijo yadi citraḥ kṣudbhayakṛd yadi pīta^mayūkhaḥ/  
-  
-10.20cd/ śastra^bhayāya ca raktasavarṇo bhasmanibho bahu^vairakaraś ca//  
-  
-10.21a vaidūryakānti^vimalaḥ śubhakṛt prajānāṃ  
-  
-10.21b bāṇa^atasīkusuma^varṇa^nibhaś ca śastaḥ/  
-  
-10.21c *yaṃ ca^api[K.pañca^api] varṇam upagacchati tatsavarṇān  
-  
-10.21d sūryātmajaḥ kṣayatīti muni^pravādaḥ//  
-
-11 ketucārādhyāyaḥ  
-
-11.01ab/ gārgīyaṃ śikhi^cāraṃ pārāśaram asitadevala^kṛtaṃ ca/  
-  
-11.01cd/ anyāṃś ca bahūn dṛṣṭvā kriyate +ayam anākulaś cāraḥ//  
-  
-11.02ab/ darśanam astamayo vā na gaṇitavidhinā^asya śakyate jñātum/  
-  
-11.02cd/ divya^antarikṣa^bhaumās trividhāḥ syuḥ ketavo yasmāt//  
-  
-11.03ab/ ahutāśe +analarūpaṃ yasmiṃs tat^keturūpam eva^uktam/  
-  
-11.03cd/ khadyota^piśācālaya^maṇi^ratna^ādīn parityajya//  
-  
-11.04ab/ dhvaja^śastra^bhavana^taru^turaga^kuñjara^ādyeṣv atha^antarikṣās te/  
-  
-11.04cd/ divyā nakṣatrasthā bhaumāḥ syur ato +anyathā śikhinaḥ//  
-  
-11.05ab/ śatam eka^adhikam eke sahasram apare vadanti ketūnām/  
-  
-11.05cd/ bahurūpam ekam eva prāha munir nāradaḥ ketum//  
-  
-11.06ab/ yady eko yadi bahavaḥ kim anena phalaṃ tu sarvathā vācyam/  
-  
-11.06cd/ udaya^astamayaiḥ sthānaiḥ sparśair ādhūmanair varṇaiḥ/  
-  
-11.07ab/ yāvanty ahāni dṛśyo māsās tāvanta eva phalapākaḥ/  
-  
-11.07cd/ māsair abdāṃś ca vadet prathamāt pakṣatrayāt parataḥ//  
-  
-11.08ab/ hrasvas tanuḥ prasannaḥ snigdhas tv ṛjur acira^saṃsthitaḥ śuklaḥ/  
-  
-11.08cd/ udito *+atha vā^abhivṛṣṭaḥ[K.vā^apy abhidṛṣṭaḥ] subhikṣa^saukhyāvahaḥ ketuḥ//  
-  
-11.09ab/ ukta^viparīta^rūpo na śubhakaro dhūmaketur utpannaḥ/  
-  
-11.09cd/ indrāyudha^anukārī viśeṣato dvitricūlo vā//  
-  
-11.10ab/ hāra^maṇi^hema^rūpāḥ kiraṇa^ākhyāḥ pañcaviṃśatiḥ saśikhāḥ/  
-  
-11.10cd/ prāgaparadiśor dṛśyā nṛpati^virodhāvahā ravijāḥ//  
-  
-11.11ab/ śuka^dahana^bandhujīvaka^lākṣā^kṣataja^upamā hutāśasutāḥ/  
-  
-11.11cd/ āgneyyāṃ dṛśyante tāvantas te +api śikhibhayadāḥ//  
-  
-11.12ab/ vakraśikhā mṛtyusutā rūkṣāḥ kṛṣṇāś ca te +api tāvantaḥ/  
-  
-11.12cd/ dṛśyante yāmyāyāṃ jana^maraka^āvedinas te ca//  
-  
-11.13ab/ darpaṇa^vṛtta^ākārā viśikhāḥ kiraṇānvitā dharātanayāḥ/  
-  
-11.13cd/ kṣudbhayadā dvāviṃśatir aiśānyām ambutailanibhāḥ//  
-  
-11.14ab/ śaśikiraṇa^rajata^hima^kumuda^kunda^kusuma^upamāḥ sutāḥ śaśinaḥ/  
-  
-11.14cd/ uttarato dṛśyante trayaḥ subhikṣāvahāḥ śikhinaḥ//  
-  
-11.15ab/ brahmasuta eka eva triśikho varṇais tribhir yugāntakaraḥ/  
-  
-11.15cd/ aniyatadiksamprabhavo vijñeyo brahmadaṇḍākhyaḥ//  
-  
-11.16ab/ śatam abhihitam ekasametam etad ekena virahitāny asmāt/  
-  
-11.16cd/ kathayiṣye ketūnāṃ śatāni nava lakṣaṇaiḥ spaṣṭaiḥ//  
-  
-11.17ab/ saumyaiśānyor udayaṃ śukrasutā yānti caturaśītyākhyāḥ/  
-  
-11.17cd/ vipulasitatārakās te snigdhāś ca bhavanti tīvraphalāḥ//  
-  
-11.18ab/ snigdhāḥ prabhā^sametā dviśikhāḥ ṣaṣṭiḥ śanaiścarāṅgaruhāḥ/  
-  
-11.18cd/ atikaṣṭaphalā dṛśyāḥ sarvatraite kanakasaṃjñāḥ//  
-  
-11.19ab/ vikacā nāma gurusutāḥ sita^ekatārāḥ śikhāparityaktāḥ/  
-  
-11.19cd/ ṣaṣṭiḥ pañcabhir adhikā snigdhā yāmyāśritāḥ pāpāḥ//  
-  
-11.20ab/ na^ativyaktāḥ sūkṣmā dīrghāḥ śuklā yathā^iṣṭa^dik^prabhavāḥ/  
-  
-11.20cd/ budhajās taskarasaṃjñāḥ pāpaphalās tv ekapañcāśat//  
-  
-11.21ab/ kṣataja^anala^anurūpās tri^cūla^tārāḥ kujātmajāḥ ṣaṣṭiḥ/  
-  
-11.21cd/ nāmnā ca kauṅkumās te saumyāśāsaṃsthitāḥ pāpāḥ//  
-  
-11.22ab/ triṃśaty adhikā rāhos te tāmasakīlakā iti khyātāḥ/  
-  
-11.22cd/ raviśaśigā dṛśyante teṣāṃ phalam arkacāroktam//  
-  
-11.23ab/ viṃśatyadhikam anyat^śatam agner viśvarūpasaṃjñānām/  
-  
-11.23cd/ tīvra^anala^bhayadānāṃ jvālāmālākulatanūnām//  
-  
-11.24ab/ śyāmāruṇā vitārāś cāmararūpā vikīrṇadīdhitayaḥ/  
-  
-11.24cd/ aruṇākhyā vāyoḥ saptasaptatiḥ pāpadāḥ paruṣāḥ//  
-  
-11.25ab/ tārāpuñjanikāśā gaṇakā nāma prajāpater aṣṭau/  
-  
-11.25cd/ dve ca śate caturadhike *caturasrā[K.caturaśrā] brahmasantānāḥ//  
-  
-11.26ab/ kaṅkā nāma varuṇajā dvātriṃśad^vaṃśa^gulma^saṃsthānāḥ/  
-  
-11.26cd/ śaśivat^prabhā^sametās tīvraphalāḥ ketavaḥ proktāḥ//  
-  
-11.27ab/ ṣaṇṇavatiḥ kālasutāḥ kabandha^saṃjñāḥ kabandha^saṃsthānāḥ/  
-  
-11.27cd/ *puṇḍra[K.caṇḍa]^abhaya^pradāḥ syur virūpa^tārāś ca te śikhinaḥ//  
-  
-11.28ab/ śukla^vipula^ekatārā nava vidiśāṃ ketavaḥ samutpannāḥ/  
-  
-11.28cd/ evaṃ ketu^sahasraṃ viśeṣam eṣām ato vakṣye//  
-  
-11.29ab/ udagāyato mahān snigdha^mūrtir aparodayī vasāketuḥ/  
-  
-11.29cd/ sadyaḥ karoti marakaṃ subhikṣam apy uttamaṃ kurute//  
-  
-11.30ab/ tallakṣaṇo +asthiketuḥ sa tu rūkṣaḥ kṣud^bhaya^āvahaḥ proktaḥ/  
-  
-11.30cd/ snigdhas tādṛk prācyāṃ śastrākhyo ḍamara^marakāya//  
-  
-11.31ab/ dṛśyo +amāvāsyāyāṃ kapālaketuḥ sadhūmra^raśmi^śikhaḥ/  
-  
-11.31cd/ prāṅ nabhaso +ardhavicārī kṣut^maraka^avṛṣṭi^roga^karaḥ//  
-  
-11.32ab/ prāg *vaiśvānara[K.vaśvānara, K's tr. vaiśvānara]mārge śūlāgraḥ śyāva^rūkṣa^tāmra^arciḥ/  
-  
-11.32cd/ nabhasastribhāgagāmī raudra iti kapālatulyaphalaḥ//  
-  
-11.33ab/ aparasyāṃ calaketuḥ śikhayā yāmyāgrayāṅgula^ucchritayā/  
-  
-11.33cd/ gacched yathā yathodak tathā tathā dairghyam āyāti//  
-  
-11.34ab/ saptamunīn saṃspṛśya dhruvam abhijitam eva ca pratinivṛttaḥ/  
-  
-11.34cd/ nabhaso +ardhamātram itvā yāmyena^astam samupayāti//  
-  
-11.35ab/ hanyāt prayāgakūlād yāvad avantīṃ ca *puṣkarāraṇyam[K.puṣkarāṇyam]/  
-  
-11.35cd/ udag api ca devikām api bhūyiṣṭhaṃ madhyadeśākhyam//  
-  
-11.36ab/ anyān api sa deśān kva cit kva cid dhanti rogadurbhikṣaiḥ/  
-  
-11.36cd/ daśa māsān phalapāko +asya kaiś cid aṣṭādaśa proktaḥ//  
-  
-11.37ab/ prāgardharātradṛśyo yāmyāgraḥ śvetaketur anyaś ca/  
-  
-11.37cd/ ka iti yugākṛtir apare yugapattau saptadinadṛśyau//  
-  
-11.38ab/ snigdhau subhikṣaśivadāv athādhikaṃ dṛśyate kanāmā yaḥ/  
-  
-11.38cd/ daśa varṣāṇy upatāpaṃ janayati śastra^prakopakṛtam//  
-  
-11.39ab/ śveta iti jaṭākāro rūkṣaḥ śyāvo viyattribhāgagataḥ/  
-11.39cd/ vinivartate +apasavyaṃ tribhāgaśeṣāḥ prajāḥ kurute//  
-  
-11.40ab/ ādhūmrayā tu śikhayā darśanam āyāti kṛttikāsaṃsthaḥ/  
-  
-11.40cd/ jñeyaḥ sa raśmiketuḥ śvetasamānaṃ phalaṃ dhatte//  
-  
-11.41ab/ dhruvaketur aniyata^gati^pramāṇa^varṇa^ākṛtir bhavati viṣvak/  
-  
-11.41cd/ divya^antarikṣa^bhaumo bhavaty ayaṃ snigdha iṣṭaphalaḥ//  
-  
-11.42ab/ senāṅgeṣu nṛpāṇāṃ gṛha^taru^śaileṣu ca^api deśānām/  
-  
-11.42cd/ gṛhiṇām upaskareṣu ca vināśināṃ darśanaṃ yāti//  
-  
-11.43ab/ kumuda iti kumudakāntir vāruṇyāṃ prākśikho niśām ekām/  
-  
-11.43cd/ dṛṣṭaḥ subhikṣam atulaṃ daśa kila varṣāṇi sa karoti//  
-  
-11.44ab/ sakṛd ekayāmadṛśyaḥ susūkṣmatāro +apareṇa maṇiketuḥ/  
-  
-11.44cd/ ṛjvī śikhāsya śuklā stanodgatā kṣīradhāreva//  
-  
-11.45ab/ udayann eva subhikṣaṃ caturo māsān karoty asau sārdhān/  
-  
-11.45cd/ prādurbhāvaṃ prāyaḥ karoti ca kṣudrajantūnām//  
-  
-11.46ab/ jalaketur api ca paścāt snigdhaḥ śikhayāpareṇa ca^unnatayā/  
-  
-11.46cd/ nava māsān sa subhikṣaṃ karoti śāntiṃ ca lokasya//  
-  
-11.47ab/ bhavaketur ekarātraṃ dṛśyaḥ prāk sūkṣmatārakaḥ snigdhaḥ/  
-  
-11.47cd/ harilāṅgūla^upamayā pradakṣiṇāvartayā śikhayā//  
-  
-11.48ab/ yāvata eva muhūrtān darśanam āyāti nirdiśet^māsān/  
-  
-11.48cd/ tāvad atulaṃ subhikṣaṃ rūkṣe prāṇāntikān rogān//  
-  
-11.49ab/ apareṇa padmaketur mṛṇālagauro bhaven niśām ekām/  
-  
-11.49cd/ sapta karoti subhikṣaṃ varṣāṇy atiharṣayuktāni//  
-  
-11.50ab/ āvarta iti niśārdhe savyaśikho +aruṇanibho +apare snigdhaḥ/  
-  
-11.50cd/ yāvat kṣaṇān sa dṛśyas tāvan māsān subhikṣakaraḥ//  
-  
-11.51ab/ paścāt sandhyākāle saṃvarto nāma dhūmra^tāmra^śikhaḥ/  
-  
-11.51cd/ ākramya viyattryaṃśaṃ śūlāgra^avasthito raudraḥ//  
-  
-11.52ab/ yāvata eva muhūrtān dṛśyo varṣāṇi hanti tāvanti/  
-  
-11.52cd/ bhūpān śastra^nipātair udaya^ṛkṣaṃ ca^api pīḍayati//  
-  
-11.53ab/ ye śastās tān hitvā ketubhir *ādhūpite[K.ādhūmite] +atha vā spṛṣṭe/  
-  
-11.53cd/ nakṣatre bhavati vadho yeṣāṃ rājñāṃ pravakṣye tān//  
-11.54ab/ aśvinyām aśmakapaṃ bharaṇīṣu kirātapārthivaṃ hanyāt/  
-  
-11.54cd/ bahulāsu kaliṅgeśaṃ rohiṇyāṃ śūrasenapatim//  
-  
-11.55ab/ auśīnaram api saumye jalajājīvādhipaṃ tathārdrāsu/  
-  
-11.55cd/ āditye +aśmaka*nāthān[K.nāthaṃ] puṣye maghadhādhipaṃ hanti//  
-  
-11.56ab/ asikeśaṃ bhaujaṅge pitrye +aṅgaṃ pāṇḍyanātham api bhāgye/  
-  
-11.56cd/ *aujjayinikam[K.aujjayanikam] āryamṇe sāvitre daṇḍakādhipatim//  
-  
-11.57ab/ citrāsu kurukṣetrādhipasya maraṇaṃ samādiśet tajjñaḥ/  
-  
-11.57cd/ kāśmīraka^kāmbojau nṛpatī prābhañjane na staḥ//  
-  
-11.58ab/ ikṣvākur alaka*nāthaś[K.nāthau, K's tr. nātho] ca hanyate yadi bhaved viśākhāsu/  
-  
-11.58cd/ maitre puṇḍrādhipatir *jyeṣṭhāsu ca[K.jyeṣṭhāsvatha] sārvabhaumavadhaḥ//  
-  
-11.59ab/ mūle +andhra^madraka^patī jaladeve kāśipo maraṇam eti/  
-  
-11.59cd/ yaudheyaka^arjunāyana^śivi^caidyān vaiśvadeve ca//  
-  
-11.60ab/ hanyāt kaikayanāthaṃ pāñcanadaṃ siṃhalādhipaṃ vāṅgam/  
-  
-11.60cd/ naimiṣanṛpaṃ kirātaṃ śravaṇādiṣu ṣaṭsv imān kramaśaḥ//  
-  
-11.61ab/ ulkābhitāḍitaśikhaḥ śikhī śivaḥ śivataro *+atidṛṣṭo[K.abhivṛṣṭo] yaḥ/  
-  
-11.61cd/ aśubhaḥ sa eva cola^avagāṇa^sitahūṇa^cīnānām//  
-  
-11.62a namrā yataḥ śikhi^śikhā^abhisṛtā yato vā  
-  
-11.62b ṛkṣaṃ ca yat spṛśati tat kathitāṃś ca deśān/  
-  
-11.62c divya^prabhāva^nihatān sa yathā garutmān  
-  
-11.62d bhuṅkte gato narapatiḥ parabhogibhogān//  
-
-12 agastyacārādhyāyaḥ  
-
-12.01a samudro +antaḥ śailair makara^nakhara^utkhāta^śikharaiḥ  
-  
-12.01b kṛtas toya^ucchittyā sapadi sutarāṃ yena ruciraḥ/  
-  
-12.01c patan muktāmiśraiḥ pravara^maṇiratna^ambunivahaiḥ  
-  
-12.01d surān pratyādeṣṭuṃ *mita[K.sita]^mukuṭa^ratnān iva purā//  
-  
-12.02ab/ yena ca^ambuharaṇe +api vidrumair bhūdharaiḥ sa^maṇiratna^vidrumaiḥ/  
-  
-12.02cd/ nirgatais tad^uragaiś ca rājitaḥ sāgaro +adhikataraṃ virājitaḥ//  
-  
-12.03ab/ prasphurat^timi^jalebha^jihmagaḥ kṣipta^ratna^nikaro mahodadhiḥ/  
-  
-12.03cd/ āpadāṃ padagato +api yāpito yena pītasalilo +amaraśriyam//  
-  
-12.04ab/ pracalat^timi^śuktija^śaṅkha^citaḥ salile +apahṛte +api patiḥ saritām/  
-  
-12.04cd/ sa^taraṅga^sitotpala^haṃsa^bhṛtaḥ sarasaḥ śaradi^iva vibharti *rucim[K.rucam]//  
-  
-12.05ab/ timi^sitāmbudharaṃ maṇi^tārakaṃ sphaṭika^candram anambu^śarad^dyutiḥ/  
-  
-12.05cd/ phaṇi^phaṇa^upala^raśmi^śikhigrahaṃ kuṭilageśa^viyac ca cakāra yaḥ//  
-  
-12.06a dinakara^ratha^mārga^vicchittaye +abhyudyataṃ yac calat^śṛṅgam udbhrānta^vidyādhara^aṃsa^avasakta^priyā^vyagra^datta^aṅka^deha^avalamba^ambara^*aty[K.abhy]ucchrita^uddhūyamāna^dhvajaiḥ śobhitam/  
-  
-12.06b karikaṭa^mada^miśra^rakta^avaleha^anuvāsa^anusāri^dvirepha^avalīna^uttamāṅgaiḥ kṛtān bāṇapuṣpair iva^uttaṃsakān dhārayadbhir mṛgendraiḥ sanāthīkṛta^antar^darī^nirjharam/  
-  
-12.06c gagana^talam iva^ullikhantaṃ pravṛddhair gaja^ākṛṣṭa^phulla^druma^trāsa^vibhrānta^matta^dvirepha^āvalī^*hṛṣṭa[K.gīta]^mandra^svanaiḥ śailakūṭais tarakṣa^ṛkṣa^śārdūla^śākhāmṛga^adhyāsitaiḥ/  
-  
-12.06d rahasi madanasaktayā revayā kāntayā^iva^upagūḍhaṃ sura^adhyāsita^udyānam ambhośana^anna^mūla^anilāhāra^vipra^anvitaṃ vindhyam astambhayad yaś ca tasya^udayaḥ śrūyatām//  
-  
-12.07ab/ udaye ca muner agastyanāmnaḥ kusamāyogamalapradūṣitāni/  
-  
-12.07cd/ hṛdayāni satām iva svabhāvāt punar ambūni bhavanti nirmalāni//  
-  
-12.08ab/ pārśvadvaya^adhiṣṭhita^cakravākāmāpuṣṇatī sasvana^haṃsa^paṅktim/  
-  
-12.08cd/ tāmbūla^rakta^utkaṣita^agradantī vibhāti yoṣā^iva *śarat[K.sarit] sahāsā//  
-  
-12.09ab/ indīvara^āsanna^sitotpala^anvitā *śarad[K.sarit] bhramatṣaṭpadapaṅktibhūṣitā/  
-  
-12.09cd/ sabhrūlatākṣepakaṭākṣavīkṣaṇā vidagdhayoṣā^iva vibhāti sasmarā//  
-  
-12.10a indoḥ payodavigamopahitāṃ vibhūtiṃ  
-  
-12.10b draṣṭuṃ taraṅgavalayā kumudaṃ niśāsu/  
-  
-12.10c unmīlayaty alinilīnadalaṃ supakṣma  
-  
-12.10d vāpī vilocanam iva^asita^tārakāntam//  
-  
-12.11ab/ nānā^vicitra^ambuja^haṃsa^koka^kāraṇḍava^āpūrṇa^taḍāga^hastā/  
-  
-12.11cd/ ratnaiḥ prabhūtaiḥ kusumaiḥ phalaiś ca bhūryacchatīvārgham agastyanāmne//  
-  
-12.12ab/ salilam amarapājñayā^ujjhitaṃ yad dhana^pariveṣṭita^mūrtibhir bhujaṅgaiḥ/  
-  
-12.12cd/ phaṇi^janita^viṣa^agni^sampraduṣṭaṃ bhavati śivaṃ tad agastya^darśanena//  
-  
-12.13ab/ smaraṇād api pāpam apākurute kim uta stutibhir varuṇāṅgaruhaḥ/  
-  
-12.13cd/ munibhiḥ kathito +asya yathārghavidhiḥ kathayāmi tatha^eva narendrahitam//  
-  
-12.14ab/ saṃkhyāvidhānāt pratideśam asya vijñāya sandarśanam ādiśej jñaḥ/  
-  
-12.14cd/ tac ca^*ujjayinyām[K.ujjayanyām] agatasya kanyāṃ bhāgaiḥ svarākhyaiḥ sphuṭa^bhāskarasya//  
-  
-12.15ab/ īṣatprabhinne +aruṇaraśmijālair naiśe +andhakāre diśi dakṣiṇasyām/  
-  
-12.15cd/ sāṃvatsarāveditadigvibhāge bhūpo +argham urvyāṃ prayataḥ prayacchet//  
-  
-12.16a kālodbhavaiḥ surabhibhiḥ kusumaiḥ phalaiś ca  
-  
-12.16b ratnaiś ca sāgarabhavaiḥ kanakāmbaraiś ca/  
-  
-12.16c dhenvā vṛṣeṇa paramānna^yutaiś ca bhakṣyair  
-  
-12.16d dadhy^akṣataiḥ surabhi^dhūpa^vilepanaiś ca//  
-  
-12.17a narapatir imam arghaṃ śraddadhāno dadhānaḥ  
-  
-12.17b pravigatagadadoṣo nirjitārātipakṣaḥ/  
-  
-12.17c bhavati yadi ca dadyāt sapta varṣāṇi samyag  
-  
-12.17d jalanidhi*raśanāyāḥ[K.rasanāyāḥ] svāmitāṃ yāti bhūmeḥ//  
-  
-12.18ab/ dvijo yathālābham upāhṛtārghaḥ prāpnoti vedān pramadāś ca putrān/  
-  
-12.18cd/ vaiśyaś ca gāṃ bhūri ghanaṃ ca śūdro rogakṣayaṃ dharmaphalaṃ ca sarve//  
-  
-12.19a rogān karoti paruṣaḥ kapilas tv avṛṣṭiṃ  
-  
-12.19b dhūmro gavām aśubhakṛt sphuraṇo bhayāya/  
-  
-12.19c māñjiṣṭharāga^sadṛśaḥ kṣudham āhavāṃś ca  
-  
-12.19d kuryād aṇuś ca purarodham agastyanāmā//  
-  
-12.20ab/ śātakumbhasadṛśaḥ sphaṭikābhas tarpayann iva mahīṃ *kiraṇāgraiḥ[K.kiraṇaughaiḥ]/  
-  
-12.20cd/ dṛśyate yadi *tadā[K.tataḥ] pracurānnā bhūr bhavaty abhaya^roga^jana^āḍhyā//  
-  
-12.21ab/ ulkayā vinihataḥ śikhinā vā kṣudbhayaṃ marakam eva *vidhatte[K.dhatte]/  
-  
-12.21cd/ dṛśyate sa kila hastagate +arke rohiṇīm upagate +astam upaiti//  
-
-13 saptarṣicārādhyāyaḥ  
-
-13.01ab/ saikāvalīva rājati sasitotpalamālinī sahāseva/  
-  
-13.01cd/ nāthavatīva ca dig yaiḥ kauverī saptabhir munibhiḥ//  
-  
-13.02ab/ dhruvanāyakopadeśān *narinartī[K.narinarttī]^iva^uttarā bhramadbhiś ca/  
-  
-13.02cd/ yaiś cāram ahaṃ teṣāṃ kathayiṣye vṛddhagarga^matāt//  
-  
-13.03ab/ āsan maghāsu munayaḥ śāsati pṛthvīṃ yudhiṣṭhire nṛpatau/  
-  
-13.03cd/ ṣaḍdvikapañcadviyutaḥ śakakālas tasya rājñaś ca//  
-  
-13.04ab/ ekaikasminn ṛkṣe śataṃ śataṃ te caranti varṣāṇām/  
-  
-13.04cd/ *prāgudayato +apy avivarād rjūn nayati tatra saṃyuktāḥ[K.prāguttarataś ca ete sadā udayante sasādhvīkāḥ]//  
-  
-13.05ab/ pūrve bhāge bhagavān marīcir apare sthito vasiṣṭho +asmāt/  
-  
-13.05cd/ tasyāṅgirās tato +atris tasyāsannaḥ pulastyaś ca//  
-  
-13.06ab/ pulahaḥ kratur iti bhagān āsannā anukrameṇa *pūrvādyāt[K.pūrvādyāḥ]/  
-  
-13.06cd/ tatra vasiṣṭhaṃ munivaram upāśritārundhatī sādhvī//  
-  
-13.07ab/ ulkā^aśani^dhūma^ādyair hatā vivarṇā viraśmayo hrasvāḥ/  
-  
-13.07cd/ hanyuḥ svaṃ svaṃ vargaṃ vipulāḥ snigdhāś ca tadvṛddhyai//  
-  
-13.08ab/ gandharva^deva^dānava^mantra^auṣadhi^siddha^yakṣa^nāgānām/  
-  
-13.08cd/ pīḍākāro marīcir jñeyo vidyādharāṇāṃ ca//  
-  
-13.09ab/ śaka^yavana^darada^pārata^kāmbojāṃs tāpasān vanopetān/  
-  
-13.09cd/ hanti vasiṣṭho +abhihato vivṛddhido raśmisampannaḥ//  
-  
-13.10ab/ aṅgiraso jñānayutā dhīmanto brāhmaṇāś ca nirdiṣṭāḥ/  
-  
-13.10cd/ atreḥ kāntārabhavā jalajāny ambhonidhiḥ saritaḥ//  
-  
-13.11ab/ rakṣaḥ^piśāca^dānava^daitya^bhujaṅgāḥ smṛtāḥ pulastyasya/  
-  
-13.11cd/ pulahasya tu mūlaphalaṃ kratos tu yajñāḥ sayajñabhṛtaḥ//  
-
-14 nakṣatrakūrmādhyāyaḥ  
-
-14.01ab/ nakṣatratraya^vargair āgneyādyair vyavasthitair navadhā/  
-  
-14.01cd/ bhāratavarṣe *madhya[K.madhyāt]^prāgādi^vibhājitā deśāḥ//  
-  
-14.02ab/ bhadra^arimeda^māṇḍavya^sālva^nīpa^ujjihāna^saṃkhyātāḥ/  
-  
-14.02cd/ maru^vatsa^ghoṣa^yāmuna^sārasvata^matsya^mādhyamikāḥ//  
-  
-14.03ab/ māthuraka^upajyotiṣa^dharmāraṇyāni śūrasenāś ca/  
-  
-14.03cd/ gauragrīva^uddehika^pāṇḍu^guḍa^aśvattha^pāñcālāḥ//  
-  
-14.04ab/ sāketa^kaṅka^kuru^kālakoṭi^kukurāś ca pāriyātra^nagaḥ/  
-  
-14.04cd/ audumbara^kāpiṣṭhala^gajāhvayāś ca^iti madhyam idam//  
-  
-14.05ab/ atha pūrvasyām añjana^vṛṣabha^dhvaja^padma^mālyavad^girayaḥ/  
-  
-14.05cd/ vyāghramukha^suhma^karvaṭa^cāndrapurāḥ śūrpakarṇāś ca//  
-  
-14.06ab/ khasa^magadha^śibiragiri^mithila^samataṭa^uḍra^aśvavadana^danturakāḥ/  
-  
-14.06cd/ prāgjyotiṣa^lauhitya^kṣīroda^samudra^puruṣādāḥ//  
-  
-14.07ab/ udayagiri^bhadra^gauḍaka^pauṇḍra^utkala^kāśi^mekala^ambaṣṭhāḥ/  
-  
-14.07cd/ ekapada^*tāmraliptaka[K.tāmalipitaka]^kośalakā vardhamānāś ca//  
-  
-14.08ab/ āgneyyāṃ diśi kośala^kaliṅga^vaṅga^upavaṅga^jaṭharāṅgāḥ/  
-  
-14.08cd/ śaulika^vidarbha^vatsa^andhra^cedikāś ca^ūrdhvakaṇṭhāś ca//  
-  
-14.09ab/ vṛṣa^nālikera^carmadvīpā vindhyāntavāsinas tripurī/  
-  
-14.09cd/ śmaśrudhara^*hemakuḍya[K.hemakūṭya]^vyālagrīvā mahāgrīvāḥ//  
-  
-14.10ab/ kiṣkindha^kaṇṭakasthala^niṣādarāṣṭrāṇi purika^dāśārṇāḥ/  
-  
-14.10cd/ saha nagna^parṇaśabarair āśleṣādye trike deśāḥ//  
-  
-14.11ab/ atha dakṣiṇena laṅkā^kālājina^saurikīrṇa^tālikaṭāḥ/  
-  
-14.11cd/ girinagara^malaya^dardura^mahendra^mālindya^bharukacchāḥ//  
-  
-14.12ab/ kaṅkaṭa^*kaṅkaṇa[K.ṭaṅkaṇa]^vanavāsi^śibika^phaṇikāra^koṅkaṇa^ābhīrāḥ/  
-  
-14.12cd/ ākara^veṇā^*āvartaka[K.āvantaka]^daśapura^gonarda^keralakāḥ//  
-  
-14.13ab/ karṇāṭa^mahāṭavi^citrakūṭa^nāsikya^kollagiri^colāḥ/  
-  
-14.13cd/ krauñcadvīpa^jaṭādhara^kāveryo riṣyamūkaś ca//  
-  
-14.14ab/ vaidūrya^śaṅkha^muktā^atri^vāricara^dharmapaṭṭana^dvīpāḥ/  
-  
-14.14cd/ gaṇarājya^kṛṣṇa^vellūra^piśika^śūrpādri^kusumanagāḥ//  
-  
-14.15ab/ tumbavana^*kārmaṇayaka[K.ū.kārmaṇeyaka]^yāmyodadhi^tāpasāśramā ṛṣikāḥ/  
-  
-14.15cd/ kāñcī^marucīpaṭṭana^cery^āryaka^siṃhalā ṛṣabhāḥ//  
-  
-14.16ab/ baladevapaṭṭanaṃ daṇḍakāvana^timiṅgilāśanā bhadrāḥ/  
-  
-14.16cd/ kaccho +atha kuñjaradarī satāmraparṇī^iti vijñeyāḥ//  
-  
-14.17ab/ nairṛtyāṃ diśi deśāḥ pahlava^kāmboja^sindhusauvīrāḥ/  
-  
-14.17cd/ vaḍavāmukha^arava^ambaṣṭha^kapila^nārīmukha^ānartāḥ//  
-  
-14.18ab/ pheṇagiri^yavana^*mārgara[K.mākara]^karṇaprāveya^pāraśava^śūdrāḥ/  
-  
-14.18cd/ barbara^kirāta^khaṇḍa^*kravyāda[K.kravyāśyā]^ābhīra^cañcūkāḥ//  
-  
-14.19ab/ hemagiri^sindhu^kālaka^raivataka^surāṣṭra^bādara^draviḍāḥ/  
-  
-14.19cd/ svāty^ādye bhatritaye jñeyaś ca mahārṇavo +atra^eva//  
-  
-14.20ab/ aparasyāṃ maṇimān meghavān vanaughaḥ kṣurārpaṇo +astagiriḥ/  
-  
-14.20cd/ aparāntaka^śāntika^haihaya^praśastādri^vokkāṇāḥ//  
-  
-14.21ab/ pañcanada^ramaṭha^pārata^tārakṣiti^jṛṅga^vaiśya^kanaka^śakāḥ/  
-  
-14.21cd/ nirmaryādā mlecchā ye paścima^dik^sthitās te ca//  
-  
-14.22ab/ diśi paścimottarasyāṃ māṇḍavya^*tuṣāra[K.tukhāra]^tāla^hala^madrāḥ/  
-  
-14.22cd/ aśmaka^kulūta^*halaḍāḥ[K.haḍa]^strīrājya^nṛsiṃhavana^khasthāḥ//  
-  
-14.23ab/ veṇumatī phalgulukā guluhā marukucca^carmaraṅgākhyāḥ/  
-  
-14.23cd/ ekavilocana^śūlika^dīrghagrīva^āsya^keśāś ca//  
-  
-14.24ab/ uttarataḥ kailāso himavān vasumān girir dhanuṣmāṃś ca/  
-  
-14.24cd/ krauñco meruḥ kuravas tathā^uttarāḥ kṣudramīnāś ca//  
-  
-14.25ab/ kaikaya^vasāti^yāmuna^bhogaprastha^arjunāyana^agnīdhrāḥ/  
-  
-14.25cd/ *ādarāntardvīpi[K.ū.ādarśāntadvīpi]^trigarta^*turagānanāḥ śvamukhāḥ[K.turagānanāśvamukhāḥ]//  
-14.26ab/ keśadhara^cipiṭanāsika^dāseraka^vāṭadhāna^śaradhānāḥ/  
-  
-14.26cd/ takṣaśila^puṣkalāvata^kailāvata^kaṇṭhadhānāś ca//  
-  
-14.27ab/ ambara^madraka^mālava^paurava^kacchāra^daṇḍa^piṅgalakāḥ/  
-  
-14.27cd/ māṇahala^hūṇa^kohala^śītaka^māṇḍavya^bhūtapurāḥ//  
-  
-14.28ab/ gāndhāra^yaśovati^hematāla^rājanya^khacara^gavyāś ca/  
-  
-14.28cd/ yaudheya^dāsameyāḥ śyāmākāḥ kṣemadhūrtāś ca//  
-  
-14.29ab/ aiśānyāṃ meruka^naṣṭarājya^paśupāla^kīra^kāśmīrāḥ/  
-  
-14.29cd/ abhisāra^darada^taṅgaṇa^kulūta^*sairindhra[K.sairindha]^vanarāṣṭrāḥ//  
-  
-14.30ab/ brahmapura^dārva^ḍāmara^vanarājya^kirāta^cīna^kauṇindāḥ/  
-  
-14.30cd/ *bhallāḥ paṭola[K.bhallāpalola]^jaṭāsura^*kunaṭakhasa[K.kunaṭhakhaṣa]^ghoṣa^kucikākhyāḥ//  
-  
-14.31ab/ ekacaraṇa^*anuviddhāḥ[K.anuviśvāḥ] suvarṇabhūr *vasudhanaṃ[K.vasuvanaṃ] diviṣṭhāś ca/  
-  
-14.31cd/ paurava^*cīranivāsi[K.cīranivāsana]^trinetra^muñjādri^*gāndharvāḥ[K.gandharvāḥ]//  
-  
-14.32ab/ vargair āgneyādyaiḥ krūragraha^pīḍitaiḥ krameṇa nṛpāḥ/  
-  
-14.32cd/ pāñcālo māgadhikaḥ kāliṅgaś ca kṣayaṃ yānti//  
-  
-14.33ab/ āvanto +atha^ānarto mṛtyuṃ ca^āyāti sindhusauvīraḥ/  
-  
-14.33cd/ rājā ca hārahauro madreśo +anyaś ca kauṇindaḥ//  
-
-15 nakṣatravyūhādhyāyaḥ  
-
-15.01ab/ āgneye sitakusuma^āhitāgni^mantrajña^sūtra^bhāṣya^jñāḥ/  
-  
-15.01cd/ ākarika^nāpita^dvija^ghaṭakāra^purohita^abdajñāḥ//  
-  
-15.02ab/ rohiṇyāṃ suvrata^paṇya^bhūpa^dhani^yoga^yukta^śākaṭikāḥ/  
-  
-15.02cd/ go^vṛṣa^jalacara^karṣaka^śiloccaya^aiśvaryasampannāḥ//  
-  
-15.03ab/ mṛgaśirasi surabhi^vastra^abja^kusuma^phala^ratna^vanacara^vihaṅgāḥ/  
-  
-15.03cd/ mṛga^somapīthi^gāndharva^kāmukā lekhahārāś ca//  
-  
-15.04ab/ raudre vadha^bandha^ānṛta^paradāra^steya^śāṭhya^bheda^ratāḥ/  
-  
-15.04cd/ tuṣadhānya^tīkṣṇa^mantra^abhicāra^vetālakarmajñāḥ//  
-  
-15.05ab/ āditye satya^audārya^śauca^kula^rūpa^dhī^yaśo^artha^yutāḥ/  
-  
-15.05cd/ uttamadhānyaṃ vaṇijaḥ sevābhiratāḥ saśilpijanāḥ//  
-  
-15.06ab/ puṣye yava^godhūmāḥ śāli^ikṣu^vanāni mantriṇo bhūpāḥ/  
-  
-15.06cd/ salilopajīvinaḥ sādhavaś ca yajña^iṣṭi^saktāś ca//  
-  
-15.07ab/ ahideve kṛtrima^kanda^mūla^phala^kīṭa^pannaga^viṣāṇi/  
-  
-15.07cd/ para^dhana^haraṇa^abhiratās tuṣadhānyaṃ sarvabhiṣajaś ca//  
-  
-15.08ab/ pitrye dhana^dhānya^āḍhyāḥ koṣṭhāgārāṇi parvatāśrayiṇaḥ/  
-  
-15.08cd/ pitṛ^bhakta^vaṇik^śūrāḥ kravyādāḥ strī^dviṣo manujāḥ//  
-  
-15.09ab/ prākphalgunīṣu naṭa^yuvati^subhaga^gāndharva^śilpi^paṇyāni/  
-  
-15.09cd/ karpāsa^lavaṇa^*makṣika[K.ū.mākṣika]^tailāni kumārakāś ca^api//  
-  
-15.10ab/ āryamṇe mārdava^śauca^vinaya^*pākhaṇḍi[K.pāṣaṇḍi]^dāna^śāstra^ratāḥ/  
-  
-15.10cd/ śobhana^dhānya^mahādhana^karmānuratāḥ samanujendrāḥ//  
-  
-15.11ab/ haste taskara^kuñjara^rathika^mahāmātra^śilpi^paṇyāni/  
-  
-15.11cd/ tuṣadhānyaṃ śrutayuktā vaṇijas tejoyutāś ca^atra//  
-  
-15.12ab/ tvāṣṭre bhūṣaṇa^maṇi^rāga^lekhya^gāndharva^gandha^yukti^jñāḥ/  
-  
-15.12cd/ gaṇitapaṭu^tantuvāyāḥ śālākyā rājadhānyāni//  
-  
-15.13ab/ svātau khaga^mṛga^turagā vaṇijo dhānyāni vātabahulāni/  
-  
-15.13cd/ asthira^sauhṛda^laghu^sattva^tāpasāḥ paṇya^kuśalāś ca//  
-  
-15.14ab/ indrāgnidaivate rakta^puṣpa^phala^śākhinaḥ sa^tila^mudgāḥ/  
-  
-15.14cd/ karpāsa^māṣa^caṇakāḥ purandara^hutāśa^bhaktāś ca//  
-  
-15.15ab/ maitre śauryasametā gaṇanāyaka^sādhu^goṣṭhi^yāna^ratāḥ/  
-  
-15.15cd/ ye sādhavaś ca loke sarvaṃ ca śaratsamutpannam//  
-  
-15.16ab/ paurandare +atiśūrāḥ kula^vitta^yaśo^+anvitāḥ parasvahṛtaḥ/  
-  
-15.16cd/ vijigīṣavo narendrāḥ senānāṃ ca^api netāraḥ//  
-  
-15.17ab/ mūle bheṣaja^bhiṣajo gaṇamukhyāḥ kusuma^mūla^phala^*vārtāḥ[K.vārttāḥ]/  
-  
-15.17cd/ bījāny atidhanayuktāḥ phalamūlair ye ca vartante//  
-  
-15.18ab/ āpye mṛdavo jalamārgagāminaḥ satya^śauca^dhana^yuktāḥ/  
-  
-15.18cd/ setukara^vāri^jīvaka^phala^kusumāny ambujātāni//  
-  
-15.19ab/ viśveśvare mahāmātra^malla^kari^turaga^devatā^*saktāḥ[K.bhaktāḥ]/  
-  
-15.19cd/ sthāvara^yodhā bhogānvitāś ca ye *tejasā[K.caujasā] yuktāḥ//  
-  
-15.20ab/ śravaṇe māyāpaṭavo nityodyuktāś ca karmasu samarthāḥ/  
-  
-15.20cd/ utsāhinaḥ sadharmā bhāgavatāḥ satyavacanāś ca//  
-  
-15.21ab/ vasubhe mānonmuktāḥ *klība[K.klībāś]^acalasauhṛdāḥ striyāṃ *dveṣyāḥ[K.dvaṣyāḥ, K's tr. dveṣyāḥ]/  
-  
-15.21cd/ dānābhiratā bahuvittasaṃyutāḥ śamaparāś ca narāḥ//  
-  
-15.22ab/ varuṇeśe pāśika^matsya^bandha^jalajāni jalacarājīvāḥ/  
-  
-15.22cd/ saukarika^rajaka^śauṇḍika^śākunikāś ca^api varge +asmin//  
-  
-15.23ab/ āje taskara^paśupāla^hiṃsra^kīnāśa^nīca^śaṭha^ceṣṭāḥ/  
-  
-15.23cd/ dharma^vratair virahitā niyuddha^kuśalāś ca ye manujāḥ//  
-  
-15.24ab/ *āhirbudhnye[K.āhirbudhnyu] viprāḥ kratu^dāna^tapo^yutā mahāvibhavāḥ/  
-  
-15.24cd/ āśramiṇaḥ *pākhaṇḍā[K.pāṣaṇḍā] nareśvarāḥ sāradhānyaṃ ca//  
-  
-15.25ab/ pauṣṇe salilaja^phala^kusuma^lavaṇa^maṇi^śaṅkha^mauktika^abjāni/  
-  
-15.25cd/ surabhi^kusumāni gandhā vaṇijo naukarṇadhārāś ca//  
-  
-15.26ab/ aśvinyām aśvaharāḥ senāpati^vaidya^sevakās turagāḥ/  
-  
-15.26cd/ *turagārohā vaṇijo[K.turagārohāś ca vanig] rūpopetās turagarakṣāḥ//  
-  
-15.27ab/ yāmye +asṛk^piśita^bhujaḥ krūrā vadha^bandha^tāḍana^āsaktāḥ/  
-  
-15.27cd/ tuṣadhānyaṃ nīcakulodbhavā vihīnāś ca sattvena//  
-  
-15.28ab/ pūrvātrayaṃ sānalam agrajānāṃ rājñāṃ tu puṣyeṇa sahottarāṇi/  
-  
-15.28cd/ sapauṣṇa^maitraṃ pitṛdaivataṃ ca prajāpater bhaṃ ca kṛṣīvalānām//  
-  
-15.29ab/ āditya^hasta^abhijid^āśvināni vaṇigjanānāṃ pravadanti *tāni[K.bhāni]/  
-  
-15.29cd/ mūla^trinetra^anila^vāruṇāni bhāny ugrajāteḥ *prabhaviṣṇutāyāḥ[K.prabhaviṣṇutāyām]//  
-  
-15.30ab/ saumya^aindra^citrā^vasudaivatāni sevājana^svāmyam upāgatāni/  
-15.30cd/ sārpaṃ viśākhā śravaṇo bharaṇyaś caṇḍālajāter *abhinirdiśanti[K.iti nirdaśanti]//  
-  
-15.31ab/ ravi^ravisuta^bhogam āgataṃ kṣitisuta^bhedana^vakra^dūṣitam/  
-  
-15.31cd/ grahaṇagatam atha^ulkayā hataṃ niyatam uṣākara^pīḍitaṃ ca yat//  
-  
-15.32ab/ tad upahatam iti pracakṣate prakṛti^viparyaya^yātam eva vā/  
-  
-15.32cd/ nigadita^parivarga^dūṣaṇaṃ kathita^viparyayagaṃ samṛddhaye//  
-
-16 grahabhaktiyogādhyāyaḥ  
-
-16.01ab/ prāṅ narmadārdha^śoṇa^uḍra^vaṅga^suhmāḥ kaliṅga^bāhlīkāḥ/  
-  
-16.01cd/ śaka^yavana^magadha^śabara^prāgjyotiṣa^cīna^kāmbojāḥ//  
-  
-16.02ab/ mekala^kirāta^viṭakā bahir^antaḥ^śailajāḥ pulindāś ca/  
-  
-16.02cd/ draviḍānāṃ prāgardhaṃ dakṣiṇakūlaṃ ca yamunāyāḥ//  
-  
-16.03ab/ campa^udumbara^kauśāmbi^cedi^vindhyāṭavī^kaliṅgāś ca/  
-  
-16.03cd/ puṇḍrā golāṅgūla^śrīparvata^*vardhamānāni[K.vardhamānāś ca]//  
-  
-16.04ab/ ikṣumatī^ity atha taskara^pārata^kāntāra^gopa^bījānām/  
-  
-16.04cd/ tuṣadhānya^kaṭuka^taru^kanaka^dahana^viṣa^samaraśūrāṇām//  
-  
-16.05ab/ bheṣaja^bhiṣak^catuṣpada^kṛṣikara^nṛpa^hiṃsra^yāyi^caurāṇām/  
-  
-16.05cd/ vyāla^araṇya^yaśoyuta^tīkṣṇāṇāṃ bhāskaraḥ svāmī//  
-  
-16.06ab/ giri^salila^durga^kośala^bharukaccha^samudra^romaka^*tuṣārāḥ[K.tukhārāḥ]/  
-  
-16.06cd/ vanavāsi^taṅgaṇa^hala^strīrājya^mahārṇavadvīpāḥ//  
-  
-16.07ab/ madhurarasa^kusuma^phala^salila^lavaṇa^maṇi^śaṅkha^mauktika^abjānām/  
-  
-16.07cd/ śāli^yava^auṣadhi^godhūma^somapa^ākranda^viprāṇām//  
-  
-16.08ab/ sita^subhaga^turaga^ratikara^yuvati^camūnātha^bhojya^vastrāṇām/  
-  
-16.08cd/ śṛṅgi^niśācara^kārṣaka^yajñavidāṃ ca^adhipaś candraḥ//  
-  
-16.09ab/ śoṇasya narmadāyā bhīmarathāyāś ca paścimārdhasthāḥ/  
-  
-16.09cd/ nirvindhyā vetravatī siprā godāvarī veṇā//  
-  
-16.10ab/ mandākinī payoṣṇī mahānadī sindhu^mālatī^pārāḥ/  
-  
-16.10cd/ uttarapāṇḍya^mahendrādri^vindhya^malaya^upagāś colāḥ//  
-  
-16.11ab/ draviḍa^videha^andhra^aśmaka^*bhāsāpara[K.bhāsāpura]^kauṅkaṇāḥ samantriṣikāḥ/  
-  
-16.11cd/ kuntala^kerala^daṇḍaka^kāntipura^mleccha^*saṅkariṇaḥ[K.saṅkarajāḥ]//  
-  
-[K.16.12ab/ nāsikyabhogavardhanavirāṭavindhyādripārśvagā deśāḥ/  
-  
-K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]  
-  
-16.12ab/ nāgara^kṛṣikara^pārata^hutāśanājīvi^*śastra^vārtānām[K.śastra^vārttānām]/  
-  
-16.12cd/ āṭavika^durga^karvaṭa^*vadhika[K.vadhaka]^nṛśaṃsa^avaliptānām//  
-  
-16.13ab/ narapati^kumāra^kuñjara^dāmbhika^ḍimbhābhighāta^paśupānām/  
-  
-16.13cd/ rakta^phala^kusuma^vidruma^camūpa^guḍa^madya^tīkṣṇānām//  
-  
-16.14ab/ kośa^bhavana^āgnihotrika^dhātvākara^śākya^bhikṣu^caurāṇām/  
-  
-16.14cd/ śaṭha^dīrghavaira^bahvāśināṃ ca vasudhāsuto +adhipatiḥ//  
-  
-16.15ab/ lohityaḥ sindhunadaḥ sarayūr gāmbhīrikā rathākhyā ca/  
-  
-16.15cd/ gaṅgā^kauśiky^ādyāḥ sarito vaideha^kāmbojāḥ//  
-  
-16.16ab/ mathurāyāḥ pūrvārdhaṃ himavad^gomanta^citrakūṭa^sthāḥ/  
-  
-16.16cd/ saurāṣṭra^setu^jalamārga^paṇya^bila^parvata^āśrayiṇaḥ//  
-  
-16.17ab/ udapāna^yantra^gāndharva^lekhya^maṇi^rāga^gandha^yukti^vidaḥ/  
-  
-16.17cd/ ālekhya^śabda^gaṇita^prasādhaka^āyuṣya^śilpajñāḥ//  
-  
-16.18ab/ carapuruṣa^kuhakajīvaka^śiśu^kavi^śaṭha^sūcaka^abhicāra^ratāḥ/  
-  
-16.18cd/ dūta^napuṃsaka^hāsyajña^bhūtatantra^indrajāla^jñāḥ//  
-  
-16.19ab/ ārakṣaka^naṭa^nartaka^ghṛta^taila^sneha^bīja^tiktāni/  
-  
-16.19cd/ vratacāri^rasāyana^kuśala^vesarāś candraputrasya//  
-  
-16.20ab/ sindhunada^pūrvabhāgo mathurā^paścārdha^bharata^sauvīrāḥ/  
-  
-16.20cd/ srughna^*audīcya[K.udīcya]^vipāśā^sarit^śatadrū ramaṭha^*śālvāḥ[K.sālvāḥ]//  
-  
-16.21ab/ traigarta^*paurava[K.pauraba]^ambaṣṭha^pāratā vāṭadhāna^yaudheyāḥ/  
-  
-16.21cd/ sārasvata^arjunāyana^matsyārdha^grāmarāṣṭrāṇi//  
-  
-16.22ab/ hasty^aśva^purohita^bhūpa^mantri^māṅgalya^pauṣṭika^āsaktāḥ/  
-  
-16.22cd/ kāruṇya^satya^śauca^vrata^vidyā^dāna^dharma^yutāḥ//  
-  
-16.23ab/ paura^mahādhana^śabda^artha^vedaviduṣo +abhicāra^nīti^jñāḥ/  
-  
-16.23cd/ manujeśvara^upakaraṇam chatra^dhvaja^cāmara^ādyaṃ ca//  
-  
-16.24ab/ śaileya^kuṣṭha[K.kaṣṭha]^māṃsī^tagara^rasa^saindhavāni vallījam/  
-  
-16.24cd/ madhura^rasa^madhūcchiṣṭāni corakaś ca^iti jīvasya//  
-  
-16.25ab/ takṣaśila^*martikāvata[K.ū.mārtikāvata]^bahugiri^gāndhāra^puṣkalāvatakāḥ/  
-  
-16.25cd/ prasthala^mālava^kaikaya^dāśārṇa^uśīnarāḥ śibayaḥ//  
-  
-16.26ab/ ye ca pibanti vitastām irāvatīṃ candrabhāga^saritaṃ ca/  
-  
-16.26cd/ ratha^rajata^ākara^kuñjara^turaga^mahāmātra^dhanayuktāḥ//  
-  
-16.27ab/ surabhi^kusuma^anulepana^maṇi^vajra^vibhūṣaṇa^amburuha^śayyāḥ/  
-  
-16.27cd/ vara^taruṇa^yuvati^kāma^upakaraṇa^mṛṣṭānna^madhura^bhujaḥ//  
-  
-16.28ab/ udyāna^salila^kāmuka^yaśaḥ^sukha^audārya^rūpa^sampannāḥ/  
-  
-16.28cd/ vidvad^amātya^vaṇigjana^ghaṭakṛc^citrāṇḍajās triphalāḥ//  
-  
-16.29ab/ kauśeyapaṭṭa^kambala^patraurṇika^rodhra^patra^cocāni/  
-  
-16.29cd/ jātīphala^aguru^vacā^pippalyaś candanaṃ ca bhṛgoḥ//  
-  
-16.30ab/ ānarta^ārbuda^puṣkara^saurāṣṭra^ābhīra^śūdra^raivatakāḥ/  
-  
-16.30cd/ naṣṭā yasmin deśe sarasvatī paścimo deśaḥ/  
-  
-16.31ab/ kurubhūmijāḥ prabhāsaṃ vidiśā vedasmṛtī mahītaṭajāḥ/  
-  
-16.31cd/ khala^malina^nīca^tailika^vihīnasattva^upahata^puṃstvāḥ//  
-  
-16.32ab/ *bāndhana[K.bandhana]^śākunika^aśuci^kaivarta^virūpa^vṛddha^saukarikāḥ/  
-  
-16.32cd/ gaṇapūjya^skhalita^vrata^śabara^pulinda^arthaparihīnāḥ/  
-  
-16.33ab/ kaṭu^tikta^rasāyana^vidhavayoṣito bhujaga^taskara^mahiṣyaḥ/  
-  
-16.33cd/ khara^karabha^caṇaka^*vātala[K.vātula]^niṣpāvāś ca^arkaputrasya//  
-  
-16.34ab/ giriśikhara^kandara^darī^viniviṣṭā mlecchajātayaḥ śūdrāḥ/  
-  
-16.34cd/ gomāyu^bhakṣa^śūlika^vokkāṇa^aśvamukha^vikalāṅgāḥ/  
-  
-16.35ab/ kulapāṃsana^hiṃsra^kṛtaghna^caura^niḥsatya^śauca^dānāś ca/  
-  
-16.35cd/ khara^cara^niyuddhavit^tīvraroṣa^*garttāśrayā[K.garbhāśayā] nīcāḥ//  
-  
-16.36ab/ upahata^dāmbhika^rākṣasa^nidrābahulāś ca jantavaḥ sarve/  
-  
-16.36cd/ dharmeṇa ca saṃtyaktā māṣa^tilāś ca^arkaśaśiśatroḥ//  
-  
-16.37ab/ giridurga^pahlava^śveta^hūṇa^cola^āvagāṇa^maru^cīnāḥ/  
-  
-16.37cd/ pratyanta^dhani^maheccha^vyavasāya^parākramopetāḥ//  
-  
-16.38ab/ paradāra^vivāda^ratāḥ pararandhra^kutūhalā mada^utsiktāḥ/  
-  
-16.38cd/ mūrkhā^adhārmika^vijigīṣavaś ca ketoḥ samākhyātāḥ//  
-  
-16.39a udayasamaye yaḥ snigdhāṃśur mahān prakṛtisthito  
-  
-16.39b yadi ca na hato nirghāta^ulkā^rajo^grahamardanaiḥ/  
-  
-16.39c svabhavana^gataḥ svocca^prāptaḥ śubhagraha^vīkṣitaḥ  
-  
-16.39d sa bhavati śivas teṣāṃ yeṣāṃ prabhuḥ parikīrtitaḥ//  
-  
-16.40ab/ abhihita^viparīta^*lakṣaṇe[K.lakṣanaiḥ] kṣayam upagacchati tatparigrahaḥ/  
-  
-16.40cd/ ḍamara^bhaya^gada^āturā janā narapatayaś ca bhavanti duḥkhitāḥ//  
-  
-16.41ab/ yadi na ripukṛtaṃ bhayaṃ nṛpāṇāṃ svasuta^kṛtaṃ niyamād amātyajaṃ vā/  
-  
-16.41cd/ bhavati janapadasya ca^apy avṛṣṭyā gamanam apūrvapura^adri^nimnagāsu//  
-
-17 grahayuddhādhyāyaḥ/  
-
-17.01ab/ yuddhaṃ yathā yadā vā *bhaviṣyam[K.bhaviṣyad] ādiśyate trikālajñaiḥ/  
-  
-17.01cd/ tadvijñānaṃ karaṇe mayā kṛtaṃ sūrya^*siddhānte[K.siddhāntāt]//  
-  
-17.02ab/ viyati caratāṃ grahāṇām uparyupary ātmamārgasaṃsthānām/  
-  
-17.02cd/ atidūrād dṛgviṣaye samatām iva samprayātānām//  
-  
-17.03ab/ āsanna^krama^yogād bheda^ullekha^aṃśu^mardana^*asavyaiḥ[K.asavyaḥ]/  
-  
-17.03cd/ yuddhaṃ catuṣprakāraṃ parāśara^ādyair munibhir uktam//  
-  
-17.04ab/ bhede vṛṣṭivināśo bhedaḥ suhṛdāṃ mahākulānāṃ ca/  
-  
-17.04cd/ ullekhe śastra^bhayaṃ mantrivirodhaḥ priyānnatvam//  
-  
-17.05ab/ amśuvirodhe yuddhāni bhūbhṛtāṃ śastra^ruk^kṣud^avamardāḥ/  
-17.05cd/ yuddhe ca^apy apasavye bhavanti yuddhāni bhūpānām//  
-  
-17.06ab/ ravir ākrando madhye pauraḥ pūrve +apare sthito yāyī/  
-  
-17.06cd/ paurā budha^guru^ravijā nityaṃ śītāṃśur *ākrandaḥ[K.ākrandraḥ]//  
-  
-17.07ab/ ketu^kuja^rāhu^śukrā yāyina ete hatā *ghnanti[K.grahā hanyuḥ]/  
-  
-17.07cd/ ākranda^yāyi^paurān jayino *jayadāḥ[K.jayadā] sva^vargasya//  
-  
-17.08ab/ paure paureṇa hate paurāḥ paurān nṛpān vinighnanti/  
-  
-17.08cd/ evaṃ *yāyyākrandā[K.yāyyākrandau] nāgara^yāyi^grahāś ca^eva//  
-  
-17.09ab/ dakṣiṇadiksthaḥ paruṣo vepathur aprāpya sannivṛtto +aṇuḥ/  
-  
-17.09cd/ adhirūḍho vikṛto niṣprabho vivarṇaś ca yaḥ sa jitaḥ//  
-  
-17.10ab/ uktaviparītalakṣaṇasampanno jayagato *vinirdeśyaḥ[K.vinirdiṣṭaḥ]/  
-  
-17.10cd/ vipulaḥ snigdho dyutimān dakṣiṇadikstho +api jayayuktaḥ//  
-17.11ab/ dvāv api mayūkhayuktau vipulau snigdhau samāgame bhavataḥ/  
-  
-17.11cd/ tatra *anyonyaṃ prītir[K.anyonyaprītir] viparītāv ātmapakṣaghnau//  
-  
-17.12ab/ yuddhaṃ samāgamo vā yady avyaktau *svalakṣaṇair[K.tu lakṣaṇair] bhavataḥ/  
-  
-17.12cd/ bhuvi bhūbhṛtām api tathā phalam avyaktaṃ vinirdeśyam//  
-  
-17.13ab/ guruṇā jite +avanisute bāhlīkā yāyino *+agnivārtāś ca[K.agnivārttāś ca]/  
-  
-17.13cd/ śaśijena śūrasenāḥ kaliṅga^*śālvāś[K.sālvāś] ca pīḍyante//  
-  
-17.14ab/ saureṇa^are vijite jayanti paurāḥ prajāś ca sīdanti/  
-  
-17.14cd/ *koṣṭhāgāra[K.koṣṭhāgāra]^mleccha^kṣatriya^tāpaś ca śukrajite//  
-  
-17.15ab/ bhaumena hate śaśije vṛkṣa^sarit^tāpasa^aśmaka^narendrāḥ/  
-  
-17.15cd/ uttaradiksthāḥ kratu^dīkṣitāś ca santāpam āyānti//  
-  
-17.16ab/ guruṇā *jite budhe[K.budhe jite] mleccha^śūdra^caura^arthayukta^paurajanāḥ/  
-  
-17.16cd/ traigartapārvatīyāḥ pīḍyante kampate ca mahī//  
-  
-17.17ab/ ravijena budhe dhvaste nāvika^yodha^abja^sadhana^garbhiṇyaḥ/  
-  
-17.17cd/ bhṛguṇā jite +agnikopaḥ sasya^ambuda^yāyi^vidhvaṃsaḥ//  
-  
-17.18ab/ jīve śukra^abhihate kulūta^gāndhāra^kaikayā madrāḥ/  
-  
-17.18cd/ *śālvā[K.sālvā] vatsā vaṅgā gāvaḥ sasyāni *pīḍyante[K.naśyanti]//  
-  
-17.19ab/ bhaumena hate jīve madhyo deśo nareśvarā gāvaḥ/  
-  
-17.19cd/ saureṇa ca^arjunāyana^vasāti^yaudheya^śibi^viprāḥ//  
-  
-17.20ab/ śaśitanayena^api jite bṛhaspatau mleccha^satya^śastra^bhṛtaḥ/  
-  
-17.20cd/ upayānti madhyadeśaś ca saṃkṣayaṃ yac ca bhaktiphalam//  
-  
-17.21ab/ śukre bṛhaspati^*jite[K.hate] yāyī śreṣṭho vināśam upayāti/  
-  
-17.21cd/ brahmakṣatravirodhaḥ salilaṃ ca na vāsavas tyajati//  
-  
-17.22ab/ kośala^kaliṅga^vaṅgā vatsā matsyāś ca madhyadeśa^yutāḥ/  
-  
-17.22cd/ mahatīṃ vrajanti pīḍāṃ napuṃsakāḥ śūrasenāś ca//  
-  
-17.23ab/ kuja^vijite bhṛgu^tanaye bala^mukhya^vadho narendra^saṃgrāmāḥ/  
-  
-17.23cd/ saumyena pārvatīyāḥ kṣīravināśo +alpavṛṣṭiś ca//  
-  
-17.24ab/ ravijena site vijite *guṇamukhyāḥ[U.gaṇamukhyāḥ] śastra^jīvinaḥ kṣatram/  
-  
-17.24cd/ jalajāś ca nipīḍyante sāmānyaṃ bhaktiphalam anyat//  
-  
-17.25ab/ asite sitena nihate +argha^vṛddhir ahi^vihaga^mānināṃ pīḍā/  
-  
-17.25cd/ kṣitijena taṅgaṇa^andhra^uḍra^kāśi^bāhlīka^deśānām//  
-  
-17.26ab/ saumyena parābhūte mande +aṅga^vaṇig^vihaṅga^paśu^nāgāḥ/  
-  
-17.26cd/ santāpyante guruṇā strī^bahulā mahiṣaka^śakāś ca//  
-  
-17.27ab/ ayaṃ viśeṣo +abhihito hatānāṃ kuja^jña^vāgīśa^sita^asitānām/  
-  
-17.27cd/ phalaṃ tu vācyaṃ graha^bhaktito +anyad yathā tathā ghnanti hatāḥ svabhaktīḥ//  
-
-18 śaśigrahasamāgamādhyāyaḥ  
-
-18.01ab/ bhānāṃ yathāsambhavam uttareṇa yāto grahāṇāṃ yadi vā śaśāṅkaḥ/  
-  
-18.01cd/ pradakṣiṇaṃ tat^*śubhadaṃ nṛpāṇāṃ[K.śubhakṛnnarāṇāṃ] yāmyena yāto na śivaḥ śaśāṅkaḥ//  
-  
-18.02ab/ candramā yadi kujasya yāty udak pārvatīya^balaśālināṃ jayaḥ/  
-  
-18.02cd/ kṣatriyāḥ pramuditāḥ sayāyino bhūri^dhānya^muditā vasundharā//  
-  
-18.03ab/ uttarataḥ svasutasya śaśaṅkaḥ paura^jayāya subhikṣa^karaś ca/  
-  
-18.03cd/ sasya^cayaṃ kurute janahārdiṃ kośa^cayaṃ ca narādhipatīnām//  
-  
-18.04ab/ bṛhaspater uttarage śaśāṅke paura^dvija^kṣatriya^paṇḍitānām/  
-  
-18.04cd/ dharmasya deśasya ca madhyamasya vṛddhiḥ subhikṣaṃ muditāḥ prajāś ca//  
-  
-18.05ab/ bhārgavasya yadi yāty udak śaśī kośa^yukta^gaja^vāji^vṛddhidaḥ/  
-  
-18.05cd/ yāyināṃ ca vijayo dhanuṣmatāṃ sasyasampad api ca^uttamā tadā//  
-  
-18.06ab/ ravijasya śaśī pradakṣiṇaṃ kuryāc cet purabhūbhṛtāṃ jayaḥ/  
-  
-18.06cd/ śaka^bāhlika^sindhu^pahlavā *mudabhājo[K.mudbhājo] yavanaiḥ samanvitāḥ//  
-  
-18.07ab/ yeṣām udag gaccchati bhagrahāṇāṃ prāleyaraśmir nirupadravaś ca/  
-  
-18.07cd/ tad^dravya^paura^itara^bhakti^deśān puṣṇāti yāmyena nihanti tāni//  
-  
-18.08a śaśini phalam *udaksthe[K.udakasthe] yad grahasya^upadiṣṭaṃ  
-  
-18.08b bhavati tad apasavye sarvam eva pratīpam/  
-  
-18.08c iti śaśisamavāyāḥ *kīrtitā[K.kīrttitā] bhagrahāṇāṃ  
-  
-18.08d na khalu bhavati yuddhaṃ sākam indor graha^ṛkṣaiḥ//  
-
-19 grahavarṣaphalādhyāyaḥ  
-
-19.01a sarvatra bhūr viralasasyayutā vanāni  
-  
-19.01b daivād bibhakṣayiṣudaṃṣṭrisamāvṛtāni/  
-  
-19.01c *nadyaś[K.syandanti] ca naiva *hi[K.ca] payaḥ pracuraṃ *sravanti[K.sravantyo]  
-  
-19.01d rugbheṣajāni na tathātibalānvitāni//  
-  
-19.02a tīkṣṇaṃ tapaty aditijaḥ śiśire +api kāle  
-  
-19.02b nātyambudā jalamuco +acalasannikāśāḥ/  
-  
-19.02c naṣṭaprabha^ṛkṣagaṇa^śīta^karaṃ nabhaś ca  
-  
-19.02d sīdanti tāpasakulāni sagokulāni//  
-  
-19.03a hasty^aśva^pattimad asahyabalair upetā  
-  
-19.03b bāṇa^āsana^asi^muśala^atiśayāś caranti/  
-  
-19.03c ghnanto nṛpā yudhi nṛpa^anucaraiś ca deśān  
-  
-19.03d saṃvatsare dinakarasya dine +atha māse//  
-  
-19.04a vyāptaṃ nabhaḥ pracalita^acala^sannikāśair  
-  
-19.04b vyāla^añjana^ali^gavala^cchavibhiḥ payodaiḥ/  
-  
-19.04c gāṃ pūrayadbhir akhilām amalābhir adbhir  
-  
-19.04d *utkaṇṭhitena[K.utkaṇṭhakena] guruṇā dhvanitena cāśāḥ//  
-  
-19.05a toyāni padma^kumuda^utpalavanty atīva  
-  
-19.05b phulladrumāṇy upavanāny alināditāni/  
-  
-19.05c gāvaḥ prabhūtapayaso nayanābhirāmā  
-  
-19.05d rāmā ratair avirataṃ ramayanti rāmān//  
-  
-19.06a godhūma^śāli^yava^dhānya^vara^ikṣu^vāṭā  
-  
-19.06b bhūḥ pālyate nṛpatibhir nagara^ākara^āḍhyā/  
-  
-19.06c cityaṅkitā kratuvareṣṭivighuṣṭanādā  
-  
-19.06d saṃvatsare śiśiragor abhisampravṛtte//  
-  
-19.07a vātoddhataś carati vahnir atipracaṇḍo  
-  
-19.07b grāmān vanāni nagarāṇi ca sandidhakṣuḥ/  
-  
-19.07c hāhā^iti dasyugaṇapātahatā raṭanti  
-  
-19.07d niḥsvīkṛtā vipaśavo bhuvi martyasaṃghāḥ//  
-  
-19.08a abhyunnatā viyati saṃhatamūrtayo +api  
-  
-19.08b muñcanti *kutra cid[K.na kva cid] apaḥ pracuraṃ payodāḥ/  
-  
-19.08c sīmni prajātam api śoṣam upaiti sasyaṃ  
-  
-19.08d niṣpannam apy avinayād apare haranti//  
-  
-19.09a bhūpā na samyagabhipālanasaktacittāḥ  
-  
-19.09b pittottharukpracuratā bhujagaprakopaḥ/  
-  
-19.09c evaṃvidhair *upahṛtā[K.ū.upahatā] bhavati prajā^iyaṃ  
-  
-19.09d saṃvatsare +avanisutasya vipannasasyā//  
-  
-19.10a māyā^indrajāla^kuhaka^ākara^nāgarāṇāṃ  
-  
-19.10b gāndharva^lekhya^gaṇita^astravidāṃ ca vṛddhiḥ/  
-  
-19.10c piprīṣayā nṛpatayo +adbhutadarśanāni  
-  
-19.10d ditsanti tuṣṭijananāni parasparebhyaḥ//  
-  
-19.11a *vārtā[K.vārttā] jagaty avitathā vikalā trayī ca  
-  
-19.11b samyak caraty api manor iva daṇḍanītiḥ/  
-  
-19.11c *adhyakṣara[K.adhyakṣaraṃ]svabhiniviṣṭadhiyo *+api[K.atra] ke cid  
-  
-19.11d ānvīkṣikīṣu ca paraṃ padamīhamānāḥ//  
-  
-19.12a hāsyajña^dūta^kavi^bāla^napuṃsakānāṃ  
-  
-19.12b yuktijña^setu^jala^parvata^vāsināṃ ca/  
-  
-19.12c hārdiṃ karoti mṛgalāñchanajaḥ svake +abde  
-  
-19.12d māse +atha vā *pracuratā[K.pracuratāṃ] bhuvi ca^auṣadhīnām//  
-  
-19.13a dhvanir uccarito +adhvare dyugāmī  
-  
-19.13b vipulo yajñamuṣāṃ manāṃsi bhindan/  
-  
-19.13c vicaraty aniśaṃ dvijottamānāṃ  
-  
-19.13d hṛdaya^ānanda^karo +adhvarāṃśabhājām//  
-  
-19.14ab/ kṣitir uttama^sasyavaty aneka^dvipa^patty^aśva^dhana^uru^gokula^āḍhyā/  
-  
-19.14cd/ kṣitipair abhipālanapravṛddhā dyucaraspardhijanā tadā vibhāti//  
-  
-19.15ab/ vividhair viyad unnataiḥ payodair vṛtam urvīṃ payasābhitarpayadbhiḥ/  
-  
-19.15cd/ surarājaguroḥ śubhe *tu[K.atra] varṣe bahusasyā kṣitir uttama^ṛddhiyuktā//  
-  
-19.16a śāli^ikṣumaty api dharā dharaṇīdhara^ābha^  
-  
-19.16b dhārādhara^ujjhita^payaḥ^paripūrṇa^vaprā/  
-  
-19.16c śrīmat^saroruha^tata^ambu^taḍāga^kīrṇā  
-  
-19.16d yoṣā^iva bhāty abhinava^ābharaṇa^ujjvala^aṅgī//  
-  
-19.17a kṣatraṃ kṣitau kṣapita^bhūri^bala^ari^pakṣam  
-  
-19.17b udghuṣṭa^naika^jaya^śabda^virāvitāśam/  
-  
-19.17c saṃhṛṣṭa^śiṣṭa^jana^duṣṭa^vinaṣṭa^vargāṃ  
-  
-19.17d gāṃ pālayanty avanipā nagarākarāḍhyām//  
-  
-19.18a pepīyate madhu madhau saha kāminībhir  
-  
-19.18b jegīyate śravaṇahāri sa^veṇu^vīṇam/  
-  
-19.18c bobhujyate +atithisuhṛtsvajanaiḥ sahānnam  
-  
-19.18d abde sitasya madanasya jayāvaghoṣaḥ//  
-  
-19.19a *udvṛtta[U.uddhata]^dasyugaṇabhūriraṇākulāni  
-  
-19.19b rāṣṭrāṇy anekapaśuvittavinākṛtāni/  
-  
-19.19c rorūyamāṇa^hata^bandhujanair janaiś ca  
-  
-19.19d roga^uttamākulakulāni bubhukṣayā ca//  
-  
-19.20a vātoddhatāmbudharavarjitam antarikṣam  
-  
-19.20b ārugṇanaikaviṭapaṃ ca dharātalaṃ dyauḥ/  
-  
-19.20c naṣṭārkacandrakiraṇātirajo +avanaddhā  
-  
-19.20d toyāśayāś ca vijalāḥ sarito +api tanvyaḥ//  
-  
-19.21a jātāni kutra cid atoyatayā vināśam  
-  
-19.21b ṛcchanti puṣṭim aparāṇi jalokṣitāni/  
-  
-19.21c sasyāni mandam abhivarṣati *vṛtra^śatrur[K.vṛtraśatrau]  
-  
-19.21d varṣe divākarasutasya sadā pravṛtte//  
-  
-19.22a aṇur apaṭumayūkho nīcago +anyair jito vā  
-  
-19.22b na sakalaphaladātā puṣṭido +ato +anyathā yaḥ/  
-  
-19.22c yad aśubham aśubhe +abde māsajaṃ tasya vṛddhiḥ  
-  
-19.22d śubhaphalam api ca^evaṃ yāpyam anyonyatāyām//  
-
-20 grahaśṛṅgāṭakādhyāyaḥ  
-
-20.01ab/ yasyāṃ diśi dṛśyante viśanti tārāgrahā raviṃ sarve/  
-  
-20.01cd/ bhavati bhayaṃ diśi tasyām āyudha^kopa^kṣudhaā^ātaṅkaiḥ//  
-  
-20.02ab/ cakra^dhanuḥ^śṛṅgāṭaka^daṇḍa^pura^prāsa^vajra^saṃsthānāḥ/  
-  
-20.02cd/ kṣud^vṛṣṭikarā[K.ū.avṛṣṭikarā] loke samarāya ca mānava^indrāṇām//  
-  
-20.03ab/ yasmin khāṃśe dṛśyā grahamālā dinakare dināntagate/  
-  
-20.03cd/ tatra +anyo bhavati nṛpaḥ paracakra^upadravaś ca mahān//  
-  
-20.04ab/ *tasminn[K.yasminn] ṛkṣe kuryuḥ samāgamaṃ tajjanān grahā hanyuḥ/  
-  
-20.04cd/ *avibhedinaḥ[K.avibhedanāḥ] parasparam amalamayūkhāḥ śivās teṣām//  
-  
-20.05ab/ graha^saṃvarta^samāgama^sammoha^samāja^sannipāta^ākhyāḥ/  
-  
-20.05cd/ kośaś cety eteṣām abhidhāsye lakṣaṇaṃ saphalaṃ//  
-  
-20.06ab/ eka^ṛkṣe catvāraḥ saha paurair yāyino +atha vā pañca/  
-  
-20.06cd/ saṃvarto nāma bhavet^śikhi^rāhuyutaḥ sa sammohaḥ//  
-  
-20.07ab/ pauraḥ paurasameto yāyī saha yāyinā samājākhyaḥ/  
-  
-20.07cd/ yama^jīva^saṅgame +anyo yady āgacchet tadā kośaḥ//  
-  
-20.08ab/ uditaḥ paścād ekaḥ prāk cānyo yadi sa sannipātākhyaḥ/  
-  
-20.08cd/ avikṛtatanavaḥ snigdhā vipulāś ca samāgame dhanyāḥ//  
-  
-20.09ab/ samau tu saṃvartasamāgamākhyau sammoha^kośau bhayadau prajānām/  
-  
-20.09cd/ *samājasaṃjño susamā pradiṣṭā[K.samājñaḥ susamaḥ pradiṣṭo] vairaprakopaḥ khalu sannipāte//  
-
-21 garbhalakṣaṇādhyāyaḥ  
-
-21.01ab/ annaṃ jagataḥ prāṇāḥ prāvṛṭkālasya cānnam āyattam/  
-  
-21.01cd/ yasmād ataḥ parīkṣyaḥ prāvṛṭkālaḥ prayatnena//  
-  
-21.02ab/ tallakṣaṇāni munibhir yāni nibaddhāni tāni dṛṣṭvā^idam/  
-  
-21.02cd/ kriyate garga^parāśara^kāśyapa^*vajra^ādi[K.vātsyādi]racitāni//  
-  
-21.03ab/ daivavid avihitacitto[K.avahitacitto] dyuniśaṃ yo garbhalakṣaṇe bhavati/  
-  
-21.03cd/ tasya muner iva vāṇī na bhavati mithyāmbunirdeśe//  
-  
-21.04ab/ kiṃ vātaḥ param anyat^*śāstrajyāyo[K.śāstraṃ jyāyo] +asti yad viditvā^eva/  
-21.04cd/ pradhvaṃsiny api kāle trikāladarśī kalau bhavati//  
-  
-21.05ab/ ke cid vadanti *kārtika[K.kārttika]śuklāntam atītya garbhadivasāḥ syuḥ/  
-  
-21.05cd/ na *ca[K.tu] tanmataṃ bahūnāṃ garga^ādīnāṃ mataṃ vakṣye//  
-  
-21.06ab/ *mārgaśiraḥsita[K.mārgaśiraśukla]pakṣa^pratipat^prabhṛti kṣapākare +aṣāḍhām/  
-  
-21.06cd/ pūrvāṃ vā samupagate garbhāṇāṃ lakṣaṇam jñeyam//  
-  
-21.07ab/ yannakṣatram upagate garbhaś candre bhavet sa candravaśāt/  
-  
-21.07cd/ pañcanavate dinaśate tatra^eva prasavam āyāti//  
-  
-21.08ab/ sita^pakṣa^bhavāḥ kṛṣṇe śukle kṛṣṇā dyusambhavā rātrau/  
-  
-21.08cd/ naktaṃprabhavāś cāhani sandhyājātāś ca sandhyāyām//  
-  
-21.09ab/ mṛgaśīrṣādyā garbhā mandaphalāḥ pauṣaśuklajātāś ca/  
-  
-21.09cd/ pauṣasya kṛṣṇa^pakṣeṇa nirdiśet^śrāvaṇasya sitam//  
-  
-21.10ab/ māghasitotthā garbhāḥ śrāvaṇakṛṣṇe prasūtim āyānti/  
-  
-21.10cd/ māghasya kṛṣṇa^pakṣeṇa nirdiśed bhādrapadaśuklam//  
-  
-21.11ab/ phālguna^śukla^samutthā bhādrapadasya^asite vinirdeśyāḥ/  
-  
-21.11cd/ tasyaiva kṛṣṇa^pakṣa^udbhavās tu ye te +aśvayuk^śukle//  
-  
-21.12ab/ caitra^sita^pakṣa^jātāḥ kṛṣṇe +aśvayujasya vāridā garbhāḥ/  
-  
-21.12cd/ caitra^asita^sambhūtāḥ *kārtika^śukle[K.kārttikaśukle] +abhivarṣanti//  
-  
-21.13ab/ pūrva^udbhūtāḥ paścād aparotthāḥ prāg bhavanti jīmūtāḥ/  
-  
-21.13cd/ śeṣāsv api dikṣv evaṃ viparyayo bhavati vāyoś ca//  
-  
-21.14ab/ hlādi^mṛdu^udak^śiva^śakra^dig^bhavo māruto viyad^vimalam/  
-  
-21.14cd/ snigdha^sita^bahula^pariveṣa^parivṛtau hima^*mayakhārkau[K.ū.mayūkhārkau]//  
-  
-21.15ab/ pṛthu^bahula^snigdha^ghanaṃ ghana^sūcī^kṣuraka^lohita^abhra^yutam/  
-  
-21.15cd/ kākāṇḍa^mecaka^ābhaṃ viyad^viśuddha^indu^nakṣatram//  
-  
-21.16ab/ suracāpa^mandra^garjita^vidyut^*pratisūryakā[K.pratisūryakāḥ] śubhā sandhyā/  
-  
-21.16cd/ śaśi^śiva^śakra^āśāsthāḥ śāntaravāḥ pakṣi^mṛga^saṅghāḥ//  
-  
-21.17ab/ vipulāḥ pradakṣiṇa^carāḥ snigdha^mayūkhā grahā nirupasargāḥ/  
-  
-21.17cd/ taravaś ca nirupasṛṣṭa^aṅkurā naracatuṣpadā hṛṣṭāḥ//  
-  
-21.18ab/ garbhāṇāṃ puṣṭikarāḥ sarveṣām eva yo +atra tu viśeṣaḥ/  
-  
-21.18cd/ svartu^svabhāva^janito garbha^*vivṛddhyai[K.vivṛddhau] tam abhidhāsye//  
-  
-21.19ab/ pauṣe samārgaśīrṣe sandhyārāgo +ambudāḥ sapariveṣāḥ/  
-  
-21.19cd/ nātyarthaṃ mṛgaśīrṣe śītaṃ pauṣe +atihimapātaḥ//  
-  
-21.20ab/ māghe prabalo vāyus tuṣārakaluṣadyutī raviśaśāṅkau/  
-  
-21.20cd/ atiśītaṃ saghanasya ca bhānor astodayau dhanyau//  
-  
-21.21ab/ phālgunamāse rūkṣaś caṇḍaḥ pavano +abhra^samplavāḥ snigdhāḥ/  
-  
-21.21cd/ pariveṣāś cāsakalāḥ kapilas tāmro raviś ca śubhaḥ//  
-  
-21.22ab/ pavana^ghana^vṛṣṭi^yuktāś caitre garbhāḥ śubhāḥ sapariveṣāḥ/  
-  
-21.22cd/ ghanapavanasalilavidyutstanitaiś ca hitāya vaiśākhe//  
-  
-21.23ab/ muktā^rajata^nikāśās^tamāla^nīlotpala^añjana^ābhāsaḥ/  
-  
-21.23cd/ jalacarasattvākārā grabheṣu ghanāḥ prabhūtajalāḥ//  
-  
-21.24ab/ tīvradivākarakiraṇābhitāpitā mandamārutā jaladāḥ/  
-  
-21.24cd/ ruṣitā iva dhārābhir visṛjanty ambhaḥ prasavakāle//  
-  
-21.25ab/ garbha^upaghāta^liṅgāny ulkā^aśani^pāṃśupāta^digdāhaḥ/  
-  
-21.25cd/ kṣitikampa^khapura^kīlaka^ketu^graha^yuddha^nirghātāḥ//  
-  
-21.26ab/ rudhira^ādi^vṛṣṭi^vaikṛta^parigha^indradhanūṃṣi darśanaṃ rāhoḥ/  
-  
-21.26cd/ ity utpātair etais trividhaiś cānyair hato garbhaḥ//  
-  
-21.27ab/ svartu^svabhāva^janitaiḥ sāmānyair yaiś ca lakṣaṇair vṛddhiḥ/  
-  
-21.27cd/ garbhāṇām viparītais tair eva viparyayo bhavati//  
-  
-21.28ab/ bhadrapadā^dvaya^viśvāmbu*deva[K.daiva]paitāmaheṣv atha ṛkṣeṣu/  
-  
-21.28cd/ sarveṣv ṛtuṣu vivṛddho garbho bahutoyado bhavati//  
-  
-21.29ab/ śatabhiṣag^āśleṣā^ārdrā^svāti^maghā^saṃyutaḥ śubho garbhaḥ/  
-  
-21.29cd/ puṣṇāti bahūn divasān hanty utpātair hatas trividhaiḥ//  
-  
-21.30ab/ mṛgamāsa^ādiṣv aṣṭau ṣaṭ ṣoḍaśa viṃśatiś caturyuktā/  
-  
-21.30cd/ viṃśatir atha divasa^trayam ekatama^ṛkṣeṇa pañcabhyaḥ//  
-  
-21.31ab[K.21.35ab]/ pañca^nimittaiḥ śata^yojanaṃ tad^ardha^ardham ekahānyā +ataḥ/  
-  
-21.31cd[K.21.35cd]/ varṣati *pañcanimittād[K.pañcasamantād] rūpeṇa^ekena yo garbhaḥ//  
-  
-21.32ab[K.21.36ab]/ droṇaḥ pañcanimitte garbhe trīṇy āḍhakāni pavanena/  
-  
-21.32cd[K.21.36cd]/ ṣaḍ vidyutā navābhraiḥ stanitena dvādaśa prasave//  
-  
-21.33ab/ krūra^graha^saṃyukte karakā^aśani^matsya^varṣadā garbhāḥ/  
-  
-21.33cd/ śaśini ravau vā śubhasaṃyuta^īkṣite bhūrivṛṣṭikarāḥ//  
-  
-21.34ab/ grabhasamaye +ativṛṣṭir garbha^abhāvāya nirnimitta^kṛtā/  
-21.34cd/ droṇāṣṭāṃśe +abhyadhike vṛṣṭe garbhaḥ sruto bhavati//  
-  
-21.35ab/ garbhaḥ puṣṭaḥ prasave graha^upaghāta^ādibhir yadi na vṛṣṭaḥ/  
-  
-21.35cd/ ātmīya^garbha^samaye karakā^miśraṃ dadāty ambhaḥ//  
-  
-21.36ab/ kāṭhinyaṃ yāti yathā cira^kāla^dhṛtaṃ payaḥ payasvinyāḥ/  
-  
-21.36cd/ kāla^atītaṃ tadvat salilaṃ kāṭhinyam upayāti//  
-  
-21.37a pavana^salila^vidyud^garjitā^abhra^anvito yaḥ  
-  
-21.37b sa bhavati bahutoyaḥ pañca^rūpa^abhyupetaḥ/  
-  
-21.37c visṛjati yadi toyaṃ garbhakāle +atibhūri  
-  
-21.37d prasava^samayam itvā śīkara^ambhaḥ karoti//  
-
-22 garbhadhāraṇādhyāyaḥ  
-
-22.01ab/ jyaiṣṭhasite +aṣṭamyādyaś catvāro vāyudhāraṇā divasāḥ/  
-  
-22.01cd/ mṛduśubhapavanāḥ śastāḥ snigdha^ghana^sthagita^gaganāś ca//  
-  
-22.02ab/ tatra^eva svātyādye vṛṣṭe bhacatuṣṭaye kramāt^māsāḥ/  
-  
-22.02cd/ śrāvaṇapūrvā jñeyāḥ parisrutā dhāraṇās tāḥ syuḥ/  
-  
-22.03ab/ yadi tā syur ekarūpāḥ śubhās tataḥ sāntarās tu na śivāya/  
-  
-22.03cd/ taskara^bhayadāś *ca^uktāḥ[K.proktāḥ] ślokāś ca^apy atra vāsiṣṭhāḥ//  
-  
-22.04ab/ savidyutaḥ sapṛṣataḥ sa^pāṃśu^utkara^mārutāḥ/  
-  
-22.04cd/ sa^arka^candra^paricchannā dhāraṇāḥ śubha^dhāraṇāḥ//  
-  
-22.05ab/ yadā tu vidyutaḥ śreṣṭhāḥ *śubhāśāḥ[K.śubhāśā] pratyupasthitāḥ/  
-  
-22.05cd/ tadāpi sarvasasyānāṃ vṛddhiṃ brūyād vicakṣaṇaḥ//  
-  
-22.06ab/ sapāṃśuvarṣāḥ sāpaś ca śubhā bālakriyā api/  
-  
-22.06cd/ pakṣiṇām susvarā vācaḥ krīḍā pāṃśujalādiṣu//  
-  
-22.07ab/ ravicandraparīveṣāḥ snigdhā nātyantadūṣitāḥ/  
-  
-22.07cd/ vṛṣṭis tadāpi vijñeyā sarvasasya^*arthasādhikā[K.abhivṛddhaye]//  
-  
-22.08ab/ meghāḥ snigdhāḥ saṃhatāś ca pradakṣiṇagatikriyāḥ/  
-  
-22.08cd/ tadā syān mahatī vṛṣṭiḥ sarvasasya^*abhivṛddhaye[K.arthasādhikā]//  
-
-23 pravarṣaṇādhyāyaḥ  
-
-23.01ab/ jyaiṣṭhyāṃ samatītāyāṃ pūrvāṣāḍhādi^sampravṛṣṭena/  
-  
-23.01cd/ śubham aśubhaṃ vā vācyaṃ parimāṇaṃ ca^ambhasas tajjñaiḥ//  
-  
-23.02ab/ hastaviśālaṃ kuṇḍakam adhikṛtya^ambupramāṇa^nirdeśaḥ/  
-  
-23.02cd/ pañcāśat palam āḍhakam anena minuyāj jalaṃ patitam//  
-  
-23.03ab/ yena dharitrī mudrā janitā vā bindavas tṛṇā^āgreṣu/  
-  
-23.03cd/ vṛṣṭena tena vācyaṃ parimāṇaṃ vāriṇaḥ prathamam//  
-  
-23.04ab/ ke cid yathābhivṛṣṭaṃ daśa^yojana^maṇḍalaṃ vadanty anye/  
-  
-23.04cd/ garga^vasiṣṭha^parāśara^matam etad dvādaśān na param//  
-  
-23.05ab/ yeṣu ca bheṣv abhivṛṣṭaṃ bhūyas teṣv eva varṣati prāyaḥ/  
-  
-23.05cd/ yadi na^āpya^ādiṣu vṛṣṭaṃ sarveṣu tadā tv anāvṛṣṭiḥ//  
-  
-23.06ab/ hasta^āpya^saumya^citrā^pauṣṇa^dhaniṣṭhāsu ṣoḍaśa droṇāḥ/  
-  
-23.06cd/ śatabhiṣag^aindra^svātiṣu catvāraḥ kṛttikāsu daśa//  
-  
-23.07ab/ śravaṇe maghā^anurādhā^bharaṇī^mūleṣu daśa caturyuktāḥ/  
-  
-23.07cd/ phalgunyāṃ pañcakṛtiḥ punarvasau viṃśatir droṇāḥ//  
-  
-23.08ab/ *aindrāgny^ākhye[K.aindrāgnākhye] vaiśve ca viṃśatiḥ sārpabhe daśa tryadhikāḥ/  
-  
-23.08cd/ āhirbudhnya^āryamṇa^prājāpatyeṣu pañcakṛtiḥ/  
-  
-23.09ab/ pañcadaśa^āje puṣye ca kīrtitā vājibhe daśa dvau ca/  
-  
-23.09cd/ raudre +aṣṭādaśa kathitā droṇā nirupadraveṣv *ete[K.eṣu]//  
-  
-23.10ab/ ravi^ravisuta^ketu^pīḍite bhe kṣititanaya^trividha^adbhuta^āhate ca/  
-  
-23.10cd/ bhavati *ca[K.hi] na śivaṃ na ca^api vṛṣṭiḥ śubhasahite nirupadrave śivaṃ ca//  
-
-24 rohiṇīyogādhyāyaḥ  
-
-24.01ab/ kanaka^śilā^caya^vivarajatarukusumāsaṅgimadhukarānurute/  
-  
-24.01cd/ bahu^vihaga^kalaha^surayuvati^gīta^mandra^svana^upavane//  
-  
-24.02ab/ suranilaya^śikhari^śikhare bṛhaspatir nāradāya yān āha/  
-  
-24.02cd/ garga^parāśara^kāśyapa^mayāś ca yān śiṣya^saṅghebhyaḥ//  
-  
-24.03ab/ tān avalokya yathāvat prājāpatya^indusamprayogārthān/  
-  
-24.03cd/ *alpa[K.svalpa]granthenāhaṃ tān evābhyudyato vaktum//  
-  
-24.04ab/ prājeśam āṣāḍhatamisrapakṣe kṣapākareṇa^upagataṃ samīkṣya/  
-  
-24.04cd/ vaktavyam iṣṭaṃ jagato +aśubhaṃ vā śāstropadeśād grahacintakena//  
-  
-24.05ab/ yogo yathānāgata eva vācyaḥ sa dhiṣṇyayogaḥ karaṇe mayoktaḥ/  
-  
-24.05cd/ candrapramāṇadyutivarṇamārgair utpātavātaiś ca phalaṃ *nigadyam[K.nigādyam]//  
-  
-24.06a purād udag *yat[K.yat] purato +api vā sthalaṃ  
-  
-24.06b tryahoṣitas tatra hutāśatatparaḥ/  
-  
-24.06c grahān sanakṣatragaṇān samālikhet  
-  
-24.06d sadhūpapuṣpair balibhiś ca pūjayet//  
-  
-24.07a saratna^toya^auṣadhibhiś caturdiśaṃ  
-  
-24.07b tarupravālāpihitaiḥ supūjitaiḥ/  
-  
-24.07c akālamūlaiḥ kalaśair alaṅkṛtaṃ  
-  
-24.07d kuśāstṛtaṃ sthaṇḍilam āvased dvijaḥ//  
-  
-24.08a ālabhya mantreṇa mahāvratena  
-  
-24.08b bījāni sarvāṇi nidhāya kumbhe/  
-  
-24.08c plāvyāni cāmīkara^darbha^toyair  
-  
-24.08d homo marudvāruṇa^*soma[K.saumya]mantraiḥ//  
-  
-24.09a ślakṣṇāṃ patākām asitāṃ vidadhyād  
-  
-24.09b daṇḍapramāṇāṃ triguṇocchritāṃ ca/  
-  
-24.09c ādau kṛte diggrahaṇe nabhasvān  
-  
-24.09d grāhyas tayā yogagate śaśāṅke//  
-  
-24.10a tatrārdhamāsāḥ praharair vikalpyā  
-  
-24.10b varṣānimittaṃ divasās tadaṃśaiḥ/  
-  
-24.10c savyena gacchan śubhadaḥ sadaiva  
-  
-24.10d yasmin pratiṣṭhā balavān sa vāyuḥ//  
-  
-24.11a vṛtte tu yoge +aṅkuritāni yāni  
-  
-24.11b santīha bījāni dhṛtāni kumbhe/  
-  
-24.11c yeṣāṃ tu yo +aṃśo +aṅkuritas tadaṃśas  
-  
-24.11d teṣāṃ vivṛddhiṃ samupaiti nānyaḥ//  
-  
-24.12ab/ śānta^pakṣi^mṛga^rāvitā diśo nirmalaṃ viyadanindito +anilaḥ/  
-  
-24.12cd/ śasyate śaśini *rohiṇīgate[K.rohiṇīyate] meghamārutaphalāni vacmy ataḥ//  
-  
-24.13a kva cid asitasitaiḥ sitaiḥ kvacic ca  
-  
-24.13b kva cid asitair bhujagair ivāmbuvāhaiḥ/  
-  
-24.13c valita^jaṭhara^pṛṣṭha^mātra^dṛśyaiḥ  
-  
-24.13d sphurita^taḍid^rasanair vṛtaṃ viśālaiḥ//  
-  
-24.14a vikasita^kamala^udara^avadātair  
-  
-24.14b aruṇakaradyutirañjita^upakaṇṭhaiḥ/  
-  
-24.14c churitam iva viyad^ghanair vicitrair  
-  
-24.14d madhukara^kuṅkuma^kiṃśuka^avadātaiḥ//  
-  
-24.15a asita^ghana^niruddham eva vā  
-  
-24.15b calita^taḍit^suracāpa^citritam/  
-  
-24.15c dvipa^mahiṣa^kula^ākulī^kṛtaṃ  
-  
-24.15d vanam iva dāvaparītam ambaram//  
-  
-24.16ab/ atha vā^añjana^śaila^śilā^nicaya^pratirūpa^dharaiḥ sthagitaṃ gaganam/  
-  
-24.16cd/ hima^mauktika^śaṅkha^śaśāṅka^kara^dyuti^hāribhir ambudharair atha vā//  
-  
-24.17a taḍid^dhaima^kakṣyair balāka^agradantaiḥ  
-  
-24.17b sravad^vāri^dānaiś calat^prānta^hastaiḥ/  
-  
-24.17c vicitra^indracāpadhvaja^ucchrāyaśobhais  
-  
-24.17d tamālālinīlair vṛtaṃ ca^abda^nāgaiḥ//  
-  
-24.18a sandhyānurakte nabhasi sthitānām  
-  
-24.18b indīvara^śyāma^rucāṃ ghanānām/  
-  
-24.18c vṛndāni pītāmbaraveṣṭitasya  
-  
-24.18d kāntiṃ hareś corayatāṃ yadā vā//  
-  
-24.19a saśikhi^cātaka^dardura^niḥsvanair  
-  
-24.19b yadi vimiśritamandrapaṭusvanāḥ/  
-  
-24.19c kham avatatya digantavilambinaḥ  
-  
-24.19d saliladāḥ salilaughamucaḥ kṣitau//  
-  
-24.20a nigaditarūpair jaladharajālais  
-  
-24.20b tryaham avaruddhaṃ dvyaham atha vā^ahaḥ/  
-  
-24.20c yadi viyad evaṃ bhavati subhikṣaṃ  
-  
-24.20d muditajanā ca pracurajalā bhūḥ//  
-  
-24.21a rūkṣair alpair mārutā^kṣipta^dehair  
-  
-24.21b uṣṭra^dhvāṅkṣa^preta^śākhāmṛga^ābhaiḥ/  
-  
-24.21c anyeṣāṃ vā ninditānāṃ *svarūpair[K.sarūpair]  
-  
-24.21d mūkaiś cābdair no śivaṃ nāpi vṛṣṭiḥ//  
-24.22a vigata^ghane vā viyati vivasvān  
-  
-24.22b amṛdumayūkhaḥ salilakṛd evam/  
-  
-24.22c sara iva phullaṃ niśi kumudāḍhyaṃ  
-  
-24.22d kham uḍuviśuddhaṃ yadi ca suvṛṣṭyai//  
-  
-24.23a pūrvodbhūtaiḥ sasyaniṣpattir abdair  
-  
-24.23b āgneyāśāsambhavair agnikopaḥ/  
-  
-24.23c yāmye sasyaṃ kṣīyate nairṛte *+ardhaṃ[K.arghaṃ K's tr. ardhaṃ]  
-  
-24.23d paścāj jātaiḥ śobhanā vṛṣṭir abdaiḥ//  
-  
-24.24a vāyavyotthair vātavṛṣṭiḥ kvacic ca  
-  
-24.24b puṣṭā vṛṣṭiḥ saumya^kāṣṭhā^samutthaiḥ/  
-  
-24.24c śreṣṭhaṃ sasyaṃ sthāṇudiksampravṛddhair  
-  
-24.24d vāyuś ca^evaṃ dikṣu dhatte phalāni//  
-  
-24.25a ulkānipātās taḍito +aśaniś ca  
-  
-24.25b digdāha^nirghāta^mahīprakampāḥ/  
-  
-24.25c nādā mṛgāṇāṃ sapatatriṇāṃ ca  
-  
-24.25d grāhyā yatha^eva ambudharās tatha^eva//  
-  
-24.26a nāmāṅkitais tair udagādikumbhaiḥ  
-  
-24.26b pradakṣiṇaṃ śrāvaṇamāsapūrvaiḥ/  
-  
-24.26c pūrṇaiḥ sa māsaḥ salilasya dātā  
-  
-24.26d *srutair[K.srutar] avṛṣṭiḥ parikalpyam ūnaiḥ//  
-  
-24.27a anyaiś ca kumbhair nṛpa^nāmacihnair  
-  
-24.27b deśāṅkitaiś ca^apy aparais tatha^eva/  
-  
-24.27c bhagnaiḥ srutair nyūnajalaiḥ supūrṇair  
-  
-24.27d bhāgyāni vācyāni yathānurūpam//  
-  
-24.28a dūrago nikaṭago +atha vā śaśī  
-  
-24.28b dakṣiṇe pathi yathā tathā sthitaḥ/  
-  
-24.28c rohiṇīṃ yadi yunakti sarvathā  
-  
-24.28d kaṣṭam eva jagato vinirdiśet//  
-  
-24.29a spṛśann udag yāti yadā śaśāṅkas  
-  
-24.29b tadā suvṛṣṭir bahula^upasargā/  
-  
-24.29c asaṃspṛśan yogam udaksametaḥ  
-  
-24.29d karoti vṛṣṭiṃ vipulāṃ śivaṃ ca//  
-  
-24.30a rohiṇī^śakaṭa^madhya^saṃsthite  
-  
-24.30b candramasy aśaraṇīkṛtā janāḥ/  
-  
-24.30c kva^api yānti śiśuyācitāśanāḥ  
-  
-24.30d sūryataptapiṭharāmbupāyinaḥ//  
-  
-24.31a uditaṃ yadi śītadīdhitiṃ  
-  
-24.31b prathamaṃ pṛṣṭhata eti rohiṇī/  
-  
-24.31c śubham eva tadā smarāturāḥ  
-  
-24.31d pramadāḥ *kāmavaśena[K.kāmivaśe ca] saṃsthitāḥ//  
-  
-24.32a anugacchati pṛṣṭataḥ śaśī  
-  
-24.32b *yadi[K.omitted] kāmī vanitām iva priyām/  
-  
-24.32c makara^dhvaja^bāṇa^kheditāḥ  
-  
-24.32d pramadānāṃ vaśagās tadā narāḥ//  
-  
-24.33a āgneyyāṃ diśi candramā yadi bhavet tatra^upasargo mahān  
-  
-24.33b nairṛtyāṃ samupadrutāni nidhanaṃ sasyāni yāntītibhiḥ/  
-  
-24.33c prājeśāniladiksthite hima^kare sasyasya madhyaś cayo  
-  
-24.33d yāte sthāṇudiśaṃ guṇāḥ subahavaḥ sasyārgha^*vṛṣṭyādayaḥ[K.vṛddhyādayaḥ]//  
-  
-24.34ab/ tāḍayed yadi ca yogatārakām āvṛṇoti vapuṣā yadāpi vā/  
-  
-24.34cd/ tāḍane bhayam uśanti dāruṇaṃ chādane *nṛpa^badho[K.nṛpa^vadho] +aṅganākṛtaḥ//  
-  
-24.35ab/ gopraveśasamaye +agrato vṛṣo yāti kṛṣṇapaśur eva vā puraḥ/  
-  
-24.35cd/ bhūri vāri śabale tu madhyamaṃ no site +ambuparikalpanāparaiḥ//  
-  
-24.36ab/ dṛśyate na yadi rohiṇīyutaś candramā nabhasi toyadāvṛte/  
-  
-24.36cd/ rugbhayaṃ mahadupasthitaṃ tadā bhūś ca bhūrijalasasyasaṃyutā//  
-
-25 svātiyogādhyāyaḥ  
-
-25.01ab/ yad rohiṇīyogaphalaṃ tad eva svātāv aṣāḍhāsahite ca candre/  
-  
-25.01cd/ āṣāḍhaśukle nikhilaṃ vicintyaṃ yo +asmin viśeṣas tam ahaṃ pravakṣye//  
-  
-25.02a svātau niśāṃśe prathame +abhivṛṣṭe  
-  
-25.02b sasyāni sarvāṇy upayānti vṛddhim/  
-  
-25.02c bhāge dvitīye tila^mudga^māṣā  
-  
-25.02d graiṣmaṃ tṛtīye +asti na śāradāni//  
-  
-25.03ab/ vṛṣṭe +ahnibhāge prathame suvṛṣṭis tadvad dvitīye tu sakīṭa^sarpā/  
-  
-25.03cd/ vṛṣṭis tu madhyāparabhāgavṛṣṭe niśchidravṛṣṭir dyuniśaṃ pravṛṣṭe//  
-  
-25.04ab/ samam uttareṇa tārā citrāyāḥ kīrtyate hy apāṃvatsaḥ/  
-  
-25.04cd/ tasyāsanne candre svāter yogaḥ śivo bhavati//  
-  
-25.05a saptamyāṃ svātiyoge yadi patati himaṃ māghamāsāndhakāre  
-  
-25.05b vāyur vā caṇḍavegaḥ sajalajaladharo vā^api garjaty ajasram/  
-  
-25.05c vidyunmālākulaṃ vā yadi bhavati nabho naṣṭacandrārkatāraṃ  
-  
-25.05d vijñeyā prāvṛḍ eṣā muditajanapadā sarvasasyair upetā//  
-  
-25.06ab/ tatha^eva phālgune caitre vaiśākhasyāsite +api vā/  
-  
-25.06cd/ svātiyogaṃ vijānīyād āṣāḍhe ca viśeṣataḥ//  
-
-26  āṣāḍhīyogādhyāyaḥ  
-
-26.01a āṣāḍhyāṃ samatulitādhivāsitānām  
-  
-26.01b anyedyur yad adhikatām upaiti bījam/  
-  
-26.01c tadvṛddhir bhavati na jāyate yadūnaṃ  
-  
-26.01d mantro +asmin bhavati tulābhimantraṇāya//  
-  
-26.02ab/ stotavyā mantrayogena satyā devī sarasvatī/  
-  
-26.02cd/ darśayiṣyasi yatsatyaṃ satye satyavratā hy asi//  
-  
-26.03ab/ yena satyena candrārkau grahā jyotirgaṇās tathā/  
-  
-26.03cd/ uttiṣṭhantīha pūrveṇa paścād astaṃ vrajanti ca//  
-  
-26.04ab/ yatsatyaṃ sarvavedeṣu yatsatyaṃ brahmavādiṣu/  
-  
-26.04cd/ yatsatyaṃ triṣu lokeṣu tatsatyam iha dṛśyatām//  
-  
-26.05ab/ brahmaṇo duhitāsi tvam āditya^iti prakīrtitā/  
-  
-26.05cd/ kāśyapī gotrataś ca^eva nāmato viśrutā tulā//  
-  
-26.06a kṣaumaṃ catuḥsūtrakasannibaddhaṃ  
-  
-26.06b ṣaḍaṅgulaṃ śikyakavastram asyāḥ/  
-  
-26.06c sūtrapramāṇam ca daśāṅgulāni  
-  
-26.06d ṣaḍ eva *kakṣya[K.kakṣa]^ubhayaśikyamadhye//  
-  
-26.07a yāmye śikye kāñcanaṃ sanniveśyaṃ  
-  
-26.07b śeṣadravyāṇy uttare +ambūni *ca^eva[K.ca^evam]/  
-  
-26.07c toyaiḥ kaupyaiḥ *saindhavaiḥ[K.syandibhiḥ] sārasaiś ca  
-  
-26.07d vṛṣṭir[var.vṛddhir] hīnā madhyamā cottamā ca//  
-  
-26.08a dantair nāgā go^haya^ādyāś ca lomnā  
-  
-26.08b hemnā bhūpāḥ śikthakena dvijādyāḥ/  
-  
-26.08c tadvad deśā varṣamāsā diśaś ca  
-  
-26.08d śeṣadravyāṇy ātmarūpasthitāni//  
-  
-26.09ab/ haimī pradhānā rajatena madhyā tayor alābhe khadireṇa kāryā/  
-  
-26.09cd/ viddhaḥ pumān yena śareṇa sā vā tulā pramāṇena bhaved vitastiḥ//  
-  
-26.10ab/ hīnasya nāśo +abhyadhikasya vṛddhis tulyena tulyaṃ tulitaṃ tulāyām/  
-  
-26.10cd/ etattulā^kośa^rahasyam uktaṃ prājeśayoge +api naro vidadhyāt//  
-  
-26.11a svātāv aṣāḍhāsv atha rohiṇīṣu  
-  
-26.11b pāpagrahā yogagatā na śastāḥ/  
-  
-26.11c grāhyaṃ tu yogadvayam apy upoṣya  
-  
-26.11d yadādhimāso dviguṇīkaroti//  
-  
-26.12a trayo +api yogāḥ sadṛśāḥ phalena  
-26.12b yadā tadā vācyam asaṃśayena/  
-  
-26.12c viparyaye yattv iha rohiṇījaṃ  
-  
-26.12d phalaṃ tad evābhyadhikaṃ nigadyam//  
-  
-26.13ab/ niṣpattir agnikopo vṛṣṭir mandātha madhyamā śreṣṭhā/  
-  
-26.13cd/ bahujalapavanā puṣṭā śubhā ca pūrvādibhiḥ pavanaiḥ//  
-  
-[K.26.14ab/ vṛttāyām āṣāḍhyām kṛṣṇacaturthyām ajaikapāda^ṛkṣe/]  
-  
-[K.26.14cd/ yadi varṣati parjanyaḥ prāvṛṭ śastā na cen na tataḥ//]  
-  
-[K.26.15ab/ āṣāḍhyām paurṇamāsyāṃ tu yady aiśāno +anilo bhavet/]  
-  
-[K.26.15cd/ astaṃ gacchati tīkṣṇāṃśau sasyasampattir uttamā//]  
-
-27 vātacakrādhyāyaḥ  
-
-27.01ab[K.omitted]/ āṣāḍha^paurṇamāsyāṃ tu yady aiśāno +anilo bhavet/  
-  
-27.01cd[K.omitted]/ astaṃ gacchati tīkṣṇāṃśau sasya sampattir uttamā//  
-  
-27.02a pūrvaḥ pūrvasamudra^vīci^śikhara^prasphālanā^ghūrṇitaś  
-  
-27.02b candrārka^aṃśu^saṭā^*kalāpa[K.abhighāta]^kalito vāyur yadā^ākāśataḥ/  
-  
-27.02c naikānta^sthita^nīlamegha^*paṭalā[K.paṭalāṃ] śāradya^*saṃvardhitā[K. saṃvardhitāṃ]/  
-  
-27.02d vāsanta^utkaṭa^sasya^maṇḍita^*talā sarvā mahī śobhate[K.talāṃ vidyāt tadā medinīm]//  
-  
-27.03a yadā *vahnau[K.agneyo] vāyur *vahati gagane +akhaṇḍita^tanuḥ[K.malaya^śikhara^āsphālanapaṭuḥ]  
-  
-27.03b plavaty asmin yoge bhagavati pataṅge pravasati/  
-  
-27.03c tadā nitya^uddīptā jvalana^śikhara^āliṅgitatalā  
-  
-27.03d svagātra^uṣma^ucchvāsair vamati vasudhā bhasmanikaram//  
-  
-27.04a tālī^patra^latā^vitāna^tarubhiḥ śākhāmṛgān nartayan  
-  
-27.04b yoge +asmin plavati *dhvaniḥ saparuṣo[K.dhvanansuparuṣo] vāyur yadā dakṣiṇaḥ/  
-  
-27.04c *tadvad yogasamutthitas tu[K.sarvodyogasamunnatāś ca] gajavat tāla^aṅkuśair ghaṭṭitāḥ  
-  
-27.04d kīnāśā iva manda^vāri^*kaṇikā[K.kaṇikān] muñcanti meghās tadā//  
-  
-27.05a sūkṣmailā^lavalī^lavaṅga^nicayān vyāghūrṇayan sāgare  
-  
-27.05b bhānor astamaye plavaty avirato vāyur yadā nairṛtaḥ/  
-  
-27.05c kṣut^*tṛṣṇa^āvṛta[K.tṛṣṇāmṛta]^mānuṣa^asthi^śakala^prastāra^bhāra^cchadā  
-  
-27.05d mattā pretavadhūr iva^ugra^capalā bhūmis tadā lakṣyate//  
-  
-27.06a yadā reṇu^utpātaiḥ *pravicala^saṭāṭopa^capalaḥ[K.pravikaṭasaṭāṭopacapalaḥ]  
-  
-27.06b pravātaḥ *paścāc ced[K.paścārdhe] dinakara^kara^āpāta^samaye/  
-  
-27.06c tadā sasyopetā *pravara^nikara^ābaddha^samarā[K.pravaranṛvrābaddhasamarā]  
-  
-27.06d *kṣitiḥ sthānasthāneṣv[K.dharā sthāne sthāneṣv] avirata^vasā^māṃsa^rudhirā//  
-  
-27.07a āṣāḍhī^parva^kāle yadi kiraṇapater astakāla^upapattau  
-  
-27.07b vāyavyo vṛddhavegaḥ *pavana^ghana^vapuḥ pannaga^arddha^anukāri[K.plavati dhanaripuḥ pannagādānukārī]/  
-  
-27.07c jānīyād vāri^dhārā^pramudita^*mudita^āmukta[K.muditāṃ mukta]^maṇḍūka^kaṇṭhāṃ  
-  
-27.07d sasya^udbhāsa^ekacihnāṃ sukha^bahulatayā bhāgyasenām iva^urvīm//  
-  
-27.08a meru^grasta^marīci^maṇḍala^tale grīṣma^avasāne ravau  
-  
-27.08b vāty āmodi^kadamba^gandha^surabhir vāyur yadā ca^uttaraḥ/  
-  
-27.08c vidyud^bhrānti^samasta^kānti^kalanā mattās tadā toyadā  
-  
-27.08d unmattā iva naṣṭa^candra^kiraṇāṃ gāṃ pūrayanty ambubhiḥ//  
-  
-27.09ab/ *vṛttāyām āṣāḍhyāṃ kṛṣṇa^caturthyām ajaikapāda^ṛkṣe[K.aiśāno yadi śītalo +amaragaṇaiḥ saṃsevyamāno bhavet]/  
-  
-27.09cd/ *yadi varṣati parjanyaḥ prāvṛt śastā na cen na tadā[K.punnāgāgurupārijātasurabhirvāyuḥ pracaṇḍadhvaniḥ]//  
-  
-27.10ab/ *naṣṭacandrārkakiranaṃ naṣṭatāraṃ na cen nabhaḥ[K.āpūrṇodakayauvanā vasumatī sampannasasyākulā]/  
-  
-27.10cd/ *na tāṃ bhadrapadāṃ manye yatra devo na varṣati[K.dharmiṣṭhāḥ praṇatārayo nṛpatayo rakṣanti varṇāṃs tadā]//  
-
-28 sadyovarṣaṇādhyāyaḥ  
-
-28.01a varṣāpraśne salilanilayaṃ rāśim āśritya candro  
-  
-28.01b lagnaṃ yāto bhavati yadi vā kendragaḥ śukla^pakṣe/  
-  
-28.01c saumyair dṛṣṭaḥ pracuram udakaṃ pāpadṛṣṭo +alpam ambhaḥ  
-  
-28.01d prāvṛṭkāle sṛjati na cirāt^candravad bhārgavo +api//  
-  
-28.02a ārdraṃ dravyaṃ spṛśati yadi vā vāri tatsaṃjñakaṃ vā  
-  
-28.02b toyāsanno bhavati yadi vā toyakārya^unmukho vā/  
-  
-28.02c praṣṭā vācyaḥ salilam acirād asti niḥsaṃśayena  
-  
-28.02d pṛcchākāle salilam iti vā śrūyate yatra śabdaḥ//  
-  
-28.03a udaya^śikhari^saṃstho durnirīkṣyo +atidīptyā  
-  
-28.03b drutakanakanikāśaḥ snigdhavaidūryakāntiḥ/  
-  
-28.03c tadahani kurute +ambhas toyakāle vivasvān  
-  
-28.03d pratapati yadi ca^uccaiḥ khaṃ gato +atīva tīkṣṇam//  
-  
-28.04a virasam udakaṃ gonetrābhaṃ viyadvimalā diśo  
-  
-28.04b lavaṇa^vikṛtiḥ kākāṇḍābhaṃ yadā ca bhavet^nabhaḥ/  
-  
-28.04c pavana^vigamaḥ poplūyante jhaṣāḥ sthalagāmino  
-  
-28.04d rasanam asakṛt^maṇḍūkānāṃ jalāgamahetavaḥ//  
-  
-28.05a mārjārā bhṛśam avaniṃ nakhair likhanto[K.likhante]  
-  
-28.05b lohānāṃ malanicayaḥ savisragandhaḥ/  
-  
-28.05c rathyāyāṃ *śiśuracitāś[K.śiśunicitāś] ca setubandhāḥ  
-  
-28.05d samprāptaṃ jalam acirāt^nivedayanti//  
-  
-28.06ab/ girayo *+añjanacūrṇasannibhā[K.añjanapuñjasannibhā] yadi vā bāṣpaniruddhakandarāḥ/  
-  
-28.06cd/ kṛkavākuvilocana^upamāḥ pariveṣāḥ śaśinaś ca vṛṣṭidāḥ//  
-  
-28.07a vinā^upaghātena pipīlikānām  
-  
-28.07b aṇḍa^upasaṃkrāntir ahivyavāyaḥ/  
-  
-28.07c *drumāvarohaś[K.drumādhirohaś] ca bhujaṅgamānāṃ  
-  
-28.07d vṛṣṭer nimittāni gavāṃ plutaṃ ca//  
-28.08a taru^śikhara^upagatāḥ kṛkalāsā  
-  
-28.08b gagana^tala^sthita^dṛṣṭi^nipātāḥ/  
-  
-28.08c yadi ca gavāṃ ravivīkṣaṇam ūrdhvaṃ  
-  
-28.08d nipatati vāri tadā na cireṇa//  
-  
-28.09ab/ na^icchanti vinirgamaṃ gṛhād dhunvanti śravaṇān khurān api/  
-  
-28.09cd/ paśavaḥ paśuvac ca *kukkurā[K.kurkurā] yady ambhaḥ patatīti nirdiśet//  
-  
-28.10a yadā sthitā gṛhapaṭaleṣu *kukkurā[K.kurkurā]  
-  
-28.10b *rudanti[K.bhavanti] vā yadi vitataṃ *viyat^mukhāḥ[K.divonmukhāḥ]/  
-  
-28.10c divā taḍid yadi ca pinākidigbhavā  
-  
-28.10d tadā kṣamā bhavati *samaiva vāriṇā[K.sa,ātovāroṃā]//  
-  
-28.11a śuka^kapota^vilocana^sannibho  
-  
-28.11b madhu^nibhaś ca yadā hima^dīdhitiḥ/  
-  
-28.11c pratiśaśī ca yadā divi rājate  
-  
-28.11d patati vāri tadā na *cireṇa ca[K.cirād divaḥ]//  
-  
-28.12a stanitaṃ niśi vidyuto divā  
-  
-28.12b rudhiranibhā yadi daṇḍavatsthitāḥ/  
-  
-28.12c pavanaḥ purataś ca śītalo  
-  
-28.12d yadi salilasya tadā^āgamo bhavet//  
-  
-28.13a vallīnāṃ gagana^tala^unmukhāḥ pravālāḥ  
-  
-28.13b snāyante yadi jalapāṃśubhir vihaṅgāḥ/  
-  
-28.13c sevante yadi ca sarīsṛpās tṛṇāgrāṇy  
-  
-28.13d āsanno bhavati tadā jalasya pātaḥ/  
-  
-28.14a mayūra^śuka^cāṣa^cātaka^samāna^varṇā yadā  
-  
-28.14b japākusuma^paṅkaja^dyuti^muṣaś ca sandhyā^ghanāḥ/  
-  
-28.14c jalormi^naga^nakra^kacchapa^varāha^mīna^upamāḥ  
-  
-28.14d prabhūta^puṭasaṃcayā na tu cireṇa yacchanty apaḥ//  
-  
-28.15a paryanteṣu sudhā^śaśāṅka^dhavalā madhye +añjana^ali^tviṣaḥ  
-  
-28.15b snigdhā naika^puṭāḥ kṣaraj^jalakaṇāḥ sopāna^vicchedinaḥ/  
-  
-28.15c māhendrīprabhavāḥ prayānty aparataḥ prāg vā ambupa^āśā^udbhavā  
-  
-28.15d ye te vārimucas tyajanti na cirād ambhaḥ prabhūtaṃ bhuvi//  
-  
-28.16ab/ śakracāpa^parigha^pratisūryā rohito +atha taḍitaḥ pariveṣaḥ/  
-  
-28.16cd/ udgama^astamaye yadi bhānor ādiśet pracuram ambu tadāśu//  
-  
-28.17a yadi tittira^patra^nibhaṃ gaganaṃ  
-  
-28.17b muditāḥ pravadanti ca pakṣi^gaṇāḥ/  
-  
-28.17c udaya^astamaye savitur dyuniśaṃ  
-  
-28.17d visṛjanti ghanā na cireṇa jalam//  
-  
-28.18a yady amogha^kiraṇāḥ sahasragor  
-  
-28.18b astabhūdharakarā iva^ucchritāḥ/  
-  
-28.18c bhūsamaṃ ca rasate yadā^ambudas  
-  
-28.18d tan mahad bhavati vṛṣṭi^lakṣaṇaṃ//  
-  
-28.19ab/ prāvṛṣi śīta^karo bhṛguputrāt saptamarāśigataḥ śubhadṛṣṭaḥ/  
-  
-28.19cd/ sūryasutān navapañcamago vā saptamagaś ca jalā^āgamanāya//  
-28.20ab/ prāyo grahāṇām udayāstakāle samāgame maṇḍalasaṃkrame ca/  
-  
-28.20cd/ pakṣa^kṣaye tīkṣṇakarāyanānte vṛṣṭir gate +arke niyamena cārdrām//  
-  
-28.21ab/ samāgame patati jalaṃ jñaśukrayor jñajīvayor gurusitayoś ca saṅgame/  
-  
-28.21cd/ yamārayoḥ pavana^hutāśajaṃ bhayaṃ hy adṛṣṭayor asahitayoś ca sadgrahaiḥ//  
-  
-28.22ab/ agrataḥ pṛṣṭhato vā^api grahāḥ sūryāvalambinaḥ/  
-  
-28.22cd/ yadā tadā prakurvanti mahīm ekārṇavām iva//  
-  
-28.23ab/ [K.omitted] praviśati yadi khadyoto jaladasamīpeṣu rajanīṣu/  
-  
-28.23cd/ [K.omitted] kedārapūram adhikaṃ varṣati devas tadā na cirāt//  
-  
-28.24ab/ [K.omitted] varṣaty api raṭati yadā gomāyuś ca pradoṣavelāyām/  
-  
-28.24cd/ [K.omitted] saptāhaṃ durdinam api tadā payo nātra sandehaḥ//  
-
-29 kusumalatādhyāyaḥ  
-
-29.01ab/ phala^kusuma^sampravṛddhiṃ vanaspatīnāṃ vilokya vijñeyam/  
-  
-29.01cd/ sulabhatvaṃ dravyāṇāṃ niṣpattiś ca^api sasyānām//  
-  
-29.02ab/ śālena kalamaśālī raktāśokena raktaśāliś ca/  
-  
-29.02cd/ pāṇḍūkaḥ kṣīrikayā nīlāśokena sūkarakaḥ//  
-  
-29.03ab/ nyagrodhena tu yavakas tinduka^vṛddhyā ca ṣaṣṭiko bhavati/  
-  
-29.03cd/ aśvatthena jñeyā niṣpattiḥ sarvasasyānām//  
-  
-29.04ab/ jambūbhis tila^māṣāḥ śirīṣa^vṛddhyā ca kaṅgu^niṣpattiḥ/  
-  
-29.04cd/ godhūmāś ca madhūkair yava^vṛddhiḥ saptaparṇena//  
-  
-29.05ab/ atimuktaka^kundābhyāṃ karpāsaṃ sarṣapān vaded aśanaiḥ/  
-  
-29.05cd/ badarībhiś ca kulatthāṃś *ciravilvena[K.ū.cirabilvena]^ādiśet^mudgān//  
-  
-29.06ab/ atasī vetasa^puṣpaiḥ palāśa^kusumaiś ca kodravā jñeyāḥ/  
-  
-29.06cd/ tilakena śaṅkha^mauktika^rajatāny atha ca^iṅgudena *śaṇāḥ[K.śaṇaḥ]//  
-  
-29.07ab/ kariṇaś ca hastikarṇair ādeśyā vājino +aśvakarṇena/  
-  
-29.07cd/ gāvaś ca pāṭalābhiḥ kadalībhir aja^āvikaṃ bhavati//  
-  
-29.08ab/ campaka^kusumaiḥ kanakaṃ vidruma^sampac ca bandhujīvena/  
-  
-29.08cd/ *kuravaka[K.kuruvaka]^vṛddhyā vajraṃ vaidūryaṃ nandikāvartaiḥ//  
-  
-29.09ab/ vindyāc ca sindhuvāreṇa mauktikaṃ *kārukāḥ[K.kuṅkumaṃ] kusumbhena/  
-  
-29.09cd/ raktotpalena rājā mantrī nīlotpalenoktaḥ//  
-  
-29.10ab/ śreṣṭhī *suvarṇapuṣpāt[K.suvarṇapuṣpaiḥ] padmair viprāḥ purohitāḥ kumudaiḥ/  
-  
-29.10cd/ saugandhikena balapatir arkeṇa hiraṇya^parivṛddhiḥ//  
-  
-29.11ab/ āmraiḥ kṣemaṃ bhallātakair bhayaṃ pīlubhis tathā^ārogyam/  
-  
-29.11cd/ khadira^śamībhyāṃ durbhikṣam arjunaiḥ śobhanā vṛṣṭiḥ//  
-  
-29.12ab/ picumanda^nāgakusumaiḥ subhikṣam atha mārutaḥ kapitthena/  
-  
-29.12cd/ niculena^avṛṣṭibhayaṃ vyādhibhayaṃ bhavati kuṭajena//  
-  
-29.13ab/ dūrvā^kuśa^kusumābhyām ikṣur vahniś ca kovidāreṇa/  
-  
-29.13cd/ śyāmālatā^abhivṛddhyā bandhakyo vṛddhim āyānti//  
-  
-29.14a yasmin *kāle[K.deśe] snigdha^niśchidra^patrāḥ  
-  
-29.14b saṃdṛśyante vṛkṣagulmā latāś ca/  
-  
-29.14c tasmin vṛṣṭiḥ śobhanā sapradiṣṭā  
-  
-29.14d rūkṣaiś chidrair alpam ambhaḥ pradiṣṭam//  
-
-30 sandhyālakṣaṇādhyāyaḥ  
-
-30.01ab/ ardha^astamitān uditāt sūryād aspaṣṭabhaṃ nabho yāvat/  
-  
-30.01cd/ tāvat sandhyākālaś cihnair etaiḥ phalaṃ ca^asmin//  
-  
-30.02ab/ mṛga^*śakuni[K.śakuna]^pavana^pariveṣa^paridhi^parigha^abhravṛkṣa^suracāpaiḥ/  
-  
-30.02cd/ gandharvanagara^ravikara^daṇḍa^rajaḥ snehavarṇaiś ca//  
-  
-30.03ab/ bhairavam uccair viruvan mṛgo +asakṛd grāma^ghātam ācaṣṭe/  
-  
-30.03cd/ ravidīpto dakṣiṇato mahāsvanaḥ sainya^ghātakaraḥ//  
-  
-30.04ab/ apasavye saṃgrāmaḥ savye senā^samāgamaḥ śānte/  
-  
-30.04cd/ mṛgacakre pavane vā sandhyāyāṃ miśrage vṛṣṭiḥ//  
-  
-30.05ab/ dīpta^mṛga^aṇḍaja^virutā prāk sandhyā deśa^nāśam ākhyāti/  
-  
-30.05cd/ dakṣiṇadik^sthair virutā grahaṇāya purasya dīptāsyaiḥ//  
-  
-30.06ab/ gṛha^taru^toraṇa^mathane sapāṃśu^loṣṭa^utkare +anile prabale/  
-  
-30.06cd/ bhairavarāve rūkṣe khagapātini ca^aśubhā sandhyā//  
-  
-30.07ab/ manda^pavana^avaghaṭṭita^calita^palāśa^drumā vipavanā vā/  
-  
-30.07cd/ madhurasvara^śānta^vihaṅga^mṛga^rutā pūjitā sandhyā//  
-  
-30.08ab/ sandhyākāle snigdhā daṇḍa^taḍit^matsya^paridhi^pariveṣāḥ/  
-  
-30.08cd/ surapaticāpa^airāvata^ravikiraṇāś cāśu vṛṣṭikaraḥ//  
-  
-30.09ab/ vicchinna^viṣama^vidhvasta^vikṛta^kuṭila^apasavya^parivṛttāḥ/  
-  
-30.09cd/ tanu^hrasva^vikala^kaluṣāś ca vigraha^avṛṣṭidāḥ kiraṇāḥ//  
-  
-30.10ab/ uddyotinaḥ prasannā ṛjavo dīrghāḥ pradakṣiṇāvartāḥ/  
-  
-30.10cd/ kiraṇāḥ śivāya jagato vitamaske nabhasi bhānumataḥ//  
-  
-30.11ab/ śuklāḥ karā dinakṛto diva^ādi^madhya^anta^gāminaḥ snigdhāḥ/  
-  
-30.11cd/ avyucchinnā ṛjavo vṛṣṭikarās te *tv[K.hy] amoghākhyāḥ//  
-  
-30.12ab/ kalmāṣa^babhru^kapilā vicitra^māñjiṣṭha^harita^śabalābhāḥ/  
-  
-30.12cd/ tridiva^anubandhino +avṛṣṭaye +alpabhayadās tu saptāhāt//  
-  
-30.13ab/ tāmrā balapati^mṛtyuṃ pīta^aruṇa^sannibhāś ca tad^vyasanam/  
-  
-30.13cd/ haritāḥ paśu^sasya^badhaṃ dhūmasavarṇā gavāṃ nāśam//  
-  
-30.14ab/ māñjiṣṭābhāḥ śastra^agni^sambhramaṃ babhravaḥ pavana^vṛṣṭim/  
-  
-30.14cd/ bhasma^sadṛśās tv avṛṣṭiṃ tanubhāvaṃ śabala^kalmāṣāḥ//  
-  
-30.15a bandhūka^puṣpa^añjana^cūrṇa^sannibhaṃ  
-  
-30.15b sāndhyaṃ rajo +abhyeti yadā divākaram/  
-  
-30.15c lokās tadā rogaśatair nipīḍyate  
-  
-30.15d śuklaṃ rajo loka^vivṛddhi^śāntaye//  
-  
-30.16ab/ ravikiraṇa^jalada^marutāṃ saṅghāto daṇḍavat sthito daṇḍaḥ/  
-  
-30.16cd/ sa vidik^sthito nṛpāṇām aśubho dikṣu *dvijādīnām[K's tr. dvijātīnām]//  
-  
-30.17ab/ śastra^bhaya^ātaṅka^karo dṛṣṭaḥ prāṅ^madhya^sandhiṣu dinasya/  
-  
-30.17cd/ śuklādyo viprādīn yad abhimukhas tāṃ nihanti diśam//  
-  
-30.18ab/ dadhisadṛśāgro nīlo bhānu^cchādī kha^madhyago +abhrataruḥ/  
-  
-30.18cd/ pītacchuritāś ca ghanā ghanamūlā bhūrivṛṣṭikarāḥ//  
-  
-30.19ab/ anulomage +abhravṛkṣe śamaṃ gate yāyino nṛpasya badhaḥ/  
-  
-30.19cd/ bālataru^pratirūpiṇi yuvarāja^amātyayor mṛtyuḥ//  
-  
-30.20ab/ kuvalaya^vaidūrya^ambuja^kiñjalkābhā prabhañjana^unmuktā/  
-  
-30.20cd/ sandhyā karoti vṛṣṭiṃ ravikiraṇa^udbhāsitā sadyaḥ//  
-  
-30.21ab/ aśubha^ākṛti^ghana^gandharvanagara^nīhāra^*dhūma^pāṃśuyutā[K.pāṃśudhūmayutā]/  
-  
-30.21cd/ prāvṛṣi karoty avagraham anyartau śastra^kopakarī//  
-  
-30.22ab/ śiśirādiṣu varṇāḥ śoṇa^pīta^sita^citra^padma^rudhira^nibhāḥ/  
-  
-30.22cd/ prakṛtibhavāḥ sandhyāyāṃ svartau śastā vikṛtir anyā//  
-  
-30.23ab/ āyudhabhṛn nararūpaṃ chinnābhraṃ parabhayāya ravigāmi/  
-  
-30.23cd/ sita^khapure +arka^ākrānte puralābho bhedane nāśaḥ//  
-  
-30.24a sita^sitānta^ghana^āvaraṇaṃ raver  
-  
-30.24b bhavati vṛṣṭikaraṃ yadi savyataḥ/  
-  
-30.24c yadi ca vīraṇa^gulma^nibhair ghanair  
-  
-30.24d divasabhartur adīptadig^udbhavaiḥ//  
-  
-30.25ab/ nṛpa^vipattikaraḥ parighaḥ sitaḥ kṣataja^tulyavapur balakopakṛt/  
-  
-30.25cd/ kanaka^rūpadharo bala^vṛddhidaḥ savitur udgama^kāla^samutthitaḥ//  
-  
-30.26a ubhayapārśvagatau paridhī raveḥ  
-  
-30.26b pracuratoya^*karau[K.kṛtau] vapuṣā^anvitau/  
-  
-30.26c atha samasta^kakup^paricāriṇaḥ  
-  
-30.26d paridhayo +asti kaṇo +api na vāriṇaḥ//  
-  
-30.27ab/ dhvaja^ātapatra^parvata^dvipa^aśva^rūpadhāriṇaḥ/  
-  
-30.27cd/ jayāya sandhyayor ghanā raṇāya raktasannibhāḥ//  
-  
-30.28ab/ palāla^dhūma^sañcaya^sthita^upamā balāhakāḥ/  
-  
-30.28cd/ balāny arūkṣa^mūrtayo vivardhayanti bhūbhṛtām//  
-  
-30.29ab/ vilambino druma^upamāḥ khara^aruṇa^prakāśinaḥ/  
-  
-30.29cd/ ghanāḥ śivāya sandhyayoḥ pura^upamāḥ śubhāvahāḥ//  
-  
-30.30ab/ dīpta^vihaṅga^śivā^mṛga^ghuṣṭā daṇḍa^rajaḥ^parigha^ādiyutā ca/  
-  
-30.30cd/ pratyaham arkavikārayutā vā deśa^nareśa^subhikṣa^badhāya//  
-  
-30.31a prācī tatkṣaṇam eva naktam aparā sandhyā tryahād vā phalaṃ  
-  
-30.31b saptāhāt pariveṣa^reṇu^parighāḥ kurvanti sadyo na cet/  
-  
-30.31c tadvat sūryakara^indrakārmuka^taḍit^pratyarka^megha^anilās  
-  
-30.31d tasminn eva dine +aṣṭame +atha vihagāḥ saptāhapākā mṛgāḥ//  
-  
-30.32a ekaṃ dīptyā yojanaṃ bhāti sandhyā  
-  
-30.32b vidyudbhāsā ṣaṭ prakāśīkaroti/  
-  
-30.32c pañca^abdānāṃ garjitaṃ yāti śabdo  
-  
-30.32d nāstīyattā *ke cid[K.kā cid] ulkānipāte//  
-  
-30.33a pratyarkasaṃjñaḥ paridhis tu tasya  
-  
-30.33b *triyojanābhaḥ[K.triyojanā bhā] parighasya pañca/  
-  
-30.33c ṣaṭpañcadṛśyaṃ pariveṣacakraṃ  
-  
-30.33d daśa^amareśasya dhanur vibhāti//  
-
-31 digdāhalakṣaṇādhyāyaḥ  
-
-31.01ab/ dāho diśāṃ rājabhayāya pīto deśasya nāśāya hutāśavarṇaḥ/  
-  
-31.01cd/ yaś ca^aruṇaḥ syād apasavya^vāyuḥ sasyasya nāśaṃ sa karoti dṛṣṭaḥ//  
-  
-31.02a yo +atīva dīptyā kurute prakāśaṃ  
-  
-31.02b chāyām api vyañjayate +arkavad yaḥ/  
-  
-31.02c rājño mahad vedayate bhayaṃ sa  
-  
-31.02d śastra^prakopaṃ kṣataja^anurūpaḥ//  
-  
-31.03a prāk kṣatriyāṇāṃ sanareśvarāṇāṃ  
-  
-31.03b prāgdakṣiṇe śilpi^kumāra^pīḍā/  
-  
-31.03c yāmye saha^ugraiḥ puruṣais tu vaiśyā  
-  
-31.03d dūtāḥ punarbhūpramadāś ca koṇe//  
-  
-31.04a paścāt tu śūdrāḥ kṛṣi^jīvinaś ca  
-  
-31.04b caurās turaṅgaiḥ saha vāyudiksthe/  
-  
-31.04c pīḍāṃ vrajanty uttarataś ca viprāḥ  
-  
-31.04d *pākhaṇḍino[K.pāṣaṇḍino] vāṇijakāś ca śārvyām//  
-  
-31.05a nabhaḥ prasannaṃ vimalāni bhāni  
-31.05b pradakṣiṇaṃ vāti sadāgatiś ca/  
-  
-31.05c diśāṃ ca dāhaḥ kanaka^avadāto  
-  
-31.05d hitāya lokasya sapārthivasya//  
-
-32 bhūkampalakṣaṇādhyāyaḥ  
-
-32.01ab/ kṣitikampam āhur eke bṛhadantarjalanivāsisattva^kṛtam/  
-  
-32.01cd/ bhūbhāra^khinna^diggaja^viśrāma^samudbhavaṃ ca^anye//  
-  
-32.02ab/ anilo +anilena nihataḥ kṣitau patan sasvanaṃ karoty *anye[K.eke]/  
-  
-32.02cd/ ke cit tv adṛṣṭa^kāritam idam anye prāhur ācāryāḥ//  
-  
-32.03ab/ giribhiḥ purā sapakṣair vasudhā prapatadbhir utpadbhiś ca/  
-  
-32.03cd/ ākampitā pitāmaham āha^amarasadasi savrīḍam//  
-  
-32.04ab/ bhagavan nāma mama^etat tvayā kṛtaṃ yad acala^iti tan na tathā/  
-  
-32.04cd/ kriyate +acalaiś caladbhiḥ śaktāhaṃ nāsya khedasya//  
-  
-32.05ab/ tasyāḥ *sagadgada^giraṃ[K.sagaḍgadagiraṃ] kiṃ cit sphuritādharaṃ vinatam īṣat/  
-  
-32.05cd/ sāśruvilocanam ānanam ālokya pitāmahaḥ prāha//  
-  
-32.06ab/ manyuṃ hara^indra dhātryāḥ kṣipa kuliśaṃ śaila^pakṣa^bhaṅgāya/  
-  
-32.06cd/ śakraḥ kṛtam ity uktvā mā bhair iti vasumatīm āha//  
-  
-32.07ab/ kintv anila^dahana^surapati^varuṇāḥ sadasatphala^avabodhārtham/  
-  
-32.07cd/ prāg dvitricaturbhāgeṣu dinaniśoḥ kampayiṣyanti//  
-  
-32.08ab/ catvāry āryamṇādyāny ādityaṃ mṛgaśiro +aśvayuk ca^iti/  
-  
-32.08cd/ maṇḍalam etad vāyavyam asya rūpāṇi saptāhāt//  
-  
-32.09ab/ dhūma^ākulīkṛta^āśe nabhasi nabhasvān rajaḥ kṣipan bhaumam/  
-  
-32.09cd/ virujan drumāṃś ca vicarati ravir apaṭu^kara^avabhāsī ca//  
-  
-32.10ab/ vāyavye bhūkampe sasya^ambu^vana^auṣadhī^kṣayo +abhihitaḥ/  
-  
-32.10cd/ śvayathu^śvāsa^unmāda^jvara^kāsa^*bhavo[K.bhavā] vaṇik^pīḍā//  
-  
-32.11ab/ rūpa^āyudha^bhṛd^vaidyā^strī^kavi^gāndharva^paṇya^śilpijanāḥ/  
-  
-32.11cd/ pīḍyante saurāṣṭraka^kuru^maghadha^daśārṇa^matsyāś ca//  
-  
-32.12ab/ puṣya^āgneya^viśākhā^bharaṇī^pitrya^aja^bhāgya^saṃjñāni/  
-  
-32.12cd/ vargo hautabhujo +ayaṃ karoti rūpāṇy atha^etāni//  
-  
-32.13ab/ tārā^ulkāpāta^āvṛtam ādīptam iva^ambaraṃ sadigdāham/  
-  
-32.13cd/ vicarati marut^sahāyaḥ saptārciḥ saptadivasāntaḥ//  
-  
-32.14ab/ āgneye +ambuda^nāśaḥ salilāśaya^saṃkṣayo nṛpati^vairam/  
-  
-32.14cd/ dadrū^vicarcikā^jvara^visarpikāḥ pāṇḍurogaś ca//  
-  
-32.15ab/ dīptaujasaḥ pracaṇḍāḥ pīḍyante ca^aśmaka^aṅga^bāhlīkāḥ/  
-  
-32.15cd/ taṅgaṇa^kaliṅga^vaṅga^*draviḍāḥ[U.draviṇāḥ] *śabarā anekavidhāḥ[K.śabarāś ca naikavidhāḥ]//  
-  
-32.16ab/ abhijit^śravaṇa^dhaniṣṭhā^prājāpatya^aindra^vaiśva^maitrāṇi/  
-  
-32.16cd/ surapati^maṇḍalam etad bhavanti *ca^apy asya rūpāṇi[K.ca asya svarūpāṇi]//  
-  
-32.17ab/ calita^acala^varṣmāṇo gambhīra^virāviṇas *taḍidvantaḥ[K.taḍitvantaḥ]/  
-  
-32.17cd/ gavala^alikula^ahinibhā visṛjanti payaḥ payovāhāḥ//  
-  
-32.18ab/ aindraṃ *stuta[K.śruti]^kulajāti^khyāta^avanipāla^gaṇapa^vidhvaṃsi/  
-  
-32.18cd/ atisāra^galagraha^vadanaroga^kṛc chardikopāya//  
-  
-32.19ab/ kāśi^yugandhara^paurava^kirāta^kīra^abhisāra^hala^madrāḥ/  
-  
-32.19cd/ arbuda^*surāṣṭra[K.suvāstu]^mālava^pīḍākaram iṣṭavṛṣṭikaram//  
-  
-32.20ab/ pauṣṇa^āpya^ārdrā^āśleṣā^mūla^ahirbudhnya^varuṇadevāni/  
-  
-32.20cd/ maṇḍalam etad vāruṇam asyāpi bhavanti rūpāṇi//  
-  
-32.21ab/ nīlotpala^ali^bhinna^añjana^tviṣo madhura^rāviṇo bahulāḥ/  
-  
-32.21cd/ taḍid^udbhāsita^dehā *dhārā^aṅkura[K.dhārāṅkuśa]varṣiṇo jaladāḥ//  
-  
-32.22ab/ vāruṇam arṇava^sarid^āśrita^ghnam ativṛṣṭidaṃ vigata^vairam/  
-  
-32.22cd/ gonarda^cedi^kukurān kirāta^vaidehakān hanti//  
-  
-32.23ab/ ṣaḍbhir māsaiḥ kampo dvābhyāṃ pākaṃ ca yāti nirghātaḥ/  
-  
-32.23cd/ anyān apy utpātān jagur anye maṇḍalair etaiḥ//  
-  
-[K.3verses inserted  
-  
-K.32.24ab/ ulkā hariś candrapuraṃ rajaś ca nirghātabhūkampakakuppradāhāḥ/  
-  
-K.32.24cd/ vāto +aticaṇḍo grahaṇaṃ ravīndvor nakṣatratārāgaṇavaikṛtāni//  
-  
-K.32.25ab/ vyabhre vṛṣṭir vaikṛtaṃ vātavṛṣṭir dhūmo +anagner visphuliṅgārciṣo vā/  
-  
-K.32.25cd/ vanyaṃ sattvaṃ grāmamadhye viśedvā rātrāvaindraṃ kārmukaṃ dṛśyate vā//  
-  
-K.32.26ab/ sandhyāvikārāḥ pariveṣakhaṇḍā nadyaḥ pratīpā divi tūryanādāḥ/  
-  
-K.32.26ab/ anyac ca yatsyāt prakṛteḥ pratīpaṃ tanmaṇḍalair eva phalaṃ nigādyam//]  
-  
-32.24ab/ hanty aindro vāyavyaṃ vāyuś ca^apy aindram evam anyonyam/  
-  
-32.24cd/ vāruṇa^hautabhujāv api velā^nakṣatrajāḥ kampāḥ//  
-  
-32.25ab/ prathita^nareśvara^maraṇa^vyasanāny āgneya^vāyumaṇḍalayoḥ/  
-  
-32.25cd/ kṣudbhaya^maraka^avṛṣṭibhir upatāpyante janāś ca api//  
-  
-32.26ab/ vāruṇa^paurandarayoḥ subhikṣa^śivavṛṣṭi^hārdayo loke/  
-  
-32.26cd/ gāvo +atibhūri^payaso nivṛtta^vairāś ca bhūpālāḥ//  
-  
-32.27ab/ pakṣaiś caturbhir anilas tribhir agnir devarāṭ ca saptāhāt/  
-  
-32.27cd/ sadyaḥ phalati ca varuṇo yeṣu na kālo +adbhuteṣu^uktaḥ//  
-  
-32.28ab/ calayati pavanaḥ śatadvayaṃ śatam analo daśayojana^anvitam/  
-  
-32.28cd/ salilapatir aśītisaṃyutaṃ kuliśadharo +abhyadhikaṃ ca *ṣaṣṭitaḥ[K.ṣaṣṭikam]//  
-  
-32.29ab/ tricatruthasaptamadine māse pakṣe tathā tripakṣe ce/  
-  
-32.29cd/ yadi bhavati bhūmikampaḥ pradhāna^nṛpa^nāśano bhavati//  
-
-33 ulkālakṣaṇādhyāyaḥ  
-
-33.01ab/ divi bhukta^śubhaphalānāṃ patatāṃ rūpāṇi yāni tāny ulkāḥ/  
-  
-33.01cd/ dhiṣṇyā^ulkā^aśani^vidyut^tārā iti pañcadhā bhinnāḥ//  
-  
-33.02ab/ ulkā pakṣeṇa phalaṃ tadvad dhiṣṇyā^aśanis tribhiḥ pakṣaiḥ/  
-  
-33.02cd/ vidyud ahobhiḥ ṣaḍbhiḥ tadvat tārā vipācayati//  
-  
-33.03ab/ tārā phala^pāda^karī phalārdhadātrī prakīrtitā dhiṣṇyā/  
-  
-33.03cd/ tisraḥ sampūrṇa^phalā vidyud atha^ulkā^aśaniś ca^iti//  
-  
-33.04ab/ aśaniḥ svanena mahatā nṛ^gaja^aśva^mṛga^aśma^veśma^taru^paśuṣu/  
-  
-33.04cd/ nipatati vidārayantī dharātalaṃ cakra^saṃsthānā//  
-  
-33.05ab/ vidyut sattvatrāsaṃ janayantī taṭataṭasvanā sahasā/  
-  
-33.05cd/ kutilaviśālā nipatati jīva^indhanarāśiṣu jvalitā//  
-  
-33.06ab/ dhiṣṇyā kṛśālpapucchā dhanūṃṣi daśa dṛśyate +antarābhyadhikam/  
-  
-33.06cd/ jvalitāṅgāranikāśā dvau hastau sā pramāṇena//  
-  
-33.07ab/ tārā hastaṃ dīrghā śuklā tāmra^abja^tantu^rūpā vā/  
-  
-33.07cd/ tiryag adhaś ca^ūrdhvaṃ vā yāti viyaty uhyamānā^iva//  
-  
-33.08ab/ ulkā śirasi viśālā nipatantī vardhate pratanu^pucchā//  
-  
-33.08cd/ dīrghā *ca bhavati[K.bhavati ca] puruṣaṃ bhedā bahavo bhavaty asyāḥ//  
-  
-33.09ab/ preta^praharaṇa^khara^karabha^nakra^kapi^daṃṣṭri^lāṅgala^mṛgābhāḥ/  
-33.09cd/ godhā^ahi^dhūma^rūpāḥ pāpā yā ca^ubhayaśiraskā//  
-  
-33.10ab/ dhvaja^jhaṣa^*giri^kari[K.karigiri]^kamala^indu^turaga^santapta^rajata^haṃsābhāḥ/  
-  
-33.10cd/ *śrīvṛkṣa[K.śrīvatsa, K's tr. śrīvṛkṣa]^vajra^śaṅkha^svastika^rūpāḥ śiva^subhikṣāḥ//  
-  
-33.11ab/ ambara^madhyād bahvyo nipatantyo rāja^rāṣṭra^nāśāya/  
-  
-33.11cd/ bambhramatī gagana^upari vibhramam ākhyāti lokasya//  
-  
-33.12ab/ saṃspṛśatī candrārkau tadvisṛtā vā sabhūprakampā ca/  
-  
-33.12cd/ paracakra^āgama^nṛpa^bhaya^durbhikṣa^avṛṣṭi^bhaya^jananī//  
-  
-33.13ab/ paura^itaraghnam ulkā^apasavya^karaṇaṃ divākara^himāṃśavoḥ/  
-  
-33.13cd/ ulkā śubhadā purato divākara^viniḥsṛtā yātuḥ//  
-  
-33.14ab/ śuklā raktā pītā kṛṣṇā ca^ulkā dvija^ādivarṇaghnī/  
-  
-33.14cd/ kramaśaś caitān hanyur mūrdha^uraḥ^pārśva^puccha^sthāḥ//  
-  
-33.15ab/ uttaradig^ādi^patitā viprādīnām aniṣṭadā rūkṣā/  
-  
-33.15cd/ ṛjvī snigdha^akhaṇḍā nīca^upagatā ca tad^vṛddhyai//  
-  
-33.16ab/ *śyāva^aruṇa[K.śyāmā vāruṇa]^nīla^asṛg^dahana^asita^bhasma^sannibhā rūkṣā/  
-  
-33.16cd/ sandhyā^dina^jā vakrā dalitā ca para^āgama^bhayāya//  
-  
-33.17ab/ nakṣatra^graha^*ghātais[K.ghāte] tadbhaktīnāṃ kṣayāya nirdiṣṭā/  
-  
-33.17cd/ udaye ghnatī ravīndū paura^itara^mṛtyave +aste vā//  
-  
-33.18ab/ bhāgya^āditya^dhaniṣṭhā^mūleṣu^ulkā^hateṣu yuvatīnām/  
-  
-33.18cd/ vipra^kṣatriya^pīḍā puṣya^anila^viṣṇudeveṣu//  
-  
-33.19ab/ dhruva^saumyeṣu nṛpāṇām ugreṣu sadāruṇeṣu caurāṇām/  
-  
-33.19cd/ kṣipreṣu kalāviduṣāṃ pīḍā sādhāraṇe ca hate//  
-  
-33.20ab/ kurvanty etāḥ patitā devapratimāsu rāja^rāṣṭra^bhayam/  
-  
-33.20cd/ śakropari nṛpatīnāṃ gṛheṣu tatsvāmināṃ pīḍām//  
-  
-33.21ab/ āśā^graha^upaghāte taddeśyānāṃ khale kṛṣiratānām/  
-  
-33.21cd/ caityatarau sampatitā satkṛta^pīḍāṃ karoty ulkā//  
-  
-33.22ab/ dvāri purasya purakṣayam atha^indrakīle janakṣayo +abhihitaḥ/  
-  
-33.22cd/ brahma^āyatane viprān vinihanyād gomino goṣṭhe//  
-  
-33.23ab/ kṣveḍā^āsphoṭita^vādita^gīta^utkuṣṭa^svanā bhavanti yadā/  
-  
-33.23cd/ ulkā^nipāta^samaye bhayāya rāṣṭrasya sanṛpasya//  
-  
-33.24a yasyāś ciraṃ tiṣṭhati khe +anuṣaṅgo  
-  
-33.24b daṇḍākṛtiḥ sā nṛpater bhayāya/  
-  
-33.24c yā ca^uhyate tantudhṛtā^iva khasthā  
-  
-33.24d yā vā mahendra^dhvaja^tulya^rūpā//  
-  
-33.25ab/ śreṣṭhinaḥ pratīpagā tiryagā *nṛpāṅganānām[K.nṛpāṅganāḥ]/  
-  
-33.25cd/ hanty adhomukhī nṛpān brāhmaṇān atha^ūrdhvagā//  
-  
-33.26ab/ *barhi[K.varhi]^puccha^rūpiṇī loka^saṃkṣaya^āvahā/  
-  
-33.26cd/ sarpavat *prasarpatī[K.prasarpiṇī] yoṣitām aniṣṭadā//  
-  
-33.27ab/ hanti maṇḍalā puraṃ chatravat purohitam/  
-  
-33.27cd/ vaṃśa^gulmavat sthitā rāṣṭra^doṣa^kāriṇī//  
-  
-33.28ab/ vyāla^sūkara^upamā visphuliṅga^mālinī/  
-  
-33.28cd/ khaṇḍaśo +atha vā gatā sasvanā ca pāpadā//  
-  
-33.29ab/ surapaticāpa^pratimā rājyaṃ nabhasi vilīnā jaladān hanti/  
-  
-33.29cd/ pavana^vilomā kuṭilaṃ yātā na bhavati śastā vinivṛttā vā//  
-  
-33.30ab/ abhibhavati yataḥ puraṃ balaṃ vā bhavati bhayaṃ tata eva pārthivasya/  
-  
-33.30cd/ nipatati ca yayā diśā pradīptā jayati ripūn acirāt tayā prayātaḥ//  
-
-34 pariveṣalakṣaṇādhyāyaḥ  
-
-34.01ab/ sammūrcchitā ravīndvoḥ kiraṇāḥ pavanena maṇḍalībhūtāḥ/  
-  
-34.01cd/ nānāvarṇa^ākṛtayas tanv abhre vyomni pariveṣāḥ//  
-  
-34.02ab/ te rakta^nīla^pāṇḍura^kāpota^abhrābha^śabala^*harita[K.hari]^śuklāḥ/  
-  
-34.02cd/ indra^yama^varuṇa^nirṛti^śvasana^īśa^pitāmaha^*ambu[K.agni]kṛtāḥ//  
-  
-34.03ab/ dhanadaḥ karoti mecakam anyonya^guṇa^āśrayeṇa ca^apy anye/  
-  
-34.03cd/ pravilīyate muhurmuhur alpaphalaḥ so +api vāyukṛtaḥ//  
-  
-34.04ab/ cāṣa^śikhi^rajata^taila^kṣīra^jalābhaḥ svakāla^sambhūtaḥ/  
-  
-34.04cd/ avikala^vṛttaḥ snigdhaḥ pariveṣaḥ śiva^subhikṣa^karaḥ//  
-  
-34.05ab/ sakala^gagana^anucārī naikābhaḥ kṣataja^sannibho rūkṣaḥ/  
-  
-34.05cd/ asakala^śakaṭa^śarāsana^śṛṅgāṭakavat sthitaḥ pāpaḥ//  
-  
-34.06ab/ śikhi^gala^same +ativarṣṇe bahuvarṇe nṛpa^vadho bhayaṃ dhūmre/  
-  
-34.06cd/ haricāpa^nibhe yuddhāny aśokakusuma^prabhe ca^api//  
-  
-34.07ab/ varṇena^ekena yadā bahulaḥ snigdhaḥ kṣura^abhraka^ākīrṇaḥ/  
-  
-34.07cd/ sva^ṛtau sadyo varṣaṃ karoti pītaś ca dīptārkaḥ//  
-  
-34.08ab/ dīpta^*mṛga^vihaṅga[K.vihaṅgamṛga]^rutaḥ kaluṣaḥ sandhyā^traya^utthito +atimahān/  
-  
-34.08cd/ bhayakṛt taḍid^ulkā^ādyair hato nṛpaṃ hanti śastreṇa//  
-  
-34.09ab/ pratidinam arka^himāṃśvor aharniśaṃ raktayor narendra^vadhaḥ/  
-  
-34.09cd/ pariviṣṭayor abhīkṣaṇaṃ lagna^*astamaya[K.astanabhaḥ]sthayos tadvat//  
-  
-34.10ab/ senāpater bhayakaro dvimaṇḍalo na^atiśastra^kopakaraḥ/  
-  
-34.10cd/ triprabhṛti śastra^kopaṃ yuvarāja^bhayaṃ nagararodham//  
-  
-34.11ab/ vṛṣṭis tryaheṇa māsena vigraho vā grahendubhanirodhe/  
-  
-34.11cd/ horājanmādhipayor janma^ṛkṣe vāṃ *+aśubho[K.vāśubho ū.ca aśubho] rājñaḥ//  
-  
-34.12ab/ pariveṣamaṇḍalagato ravitanayaḥ kṣudradhānya^nāśa^karaḥ/  
-  
-34.12cd/ janayati ca vāta^vṛṣṭiṃ sthāvara^kṛṣikṛn nihantā ca//  
-  
-34.13ab/ bhaume kumāra^balapati^sainyānāṃ vidravo +agniśastra^bhayam/  
-  
-34.13cd/ jīve pariveṣagate purohita^amātya^nṛpa^pīḍā//  
-  
-34.14ab/ mantri^sthāvara^lekhaka^parivṛddhiś candraje suvṛṣṭiś ca/  
-  
-34.14cd/ śukre yāyi^kṣatriya^*rājñī[K.rājñāṃ]pīḍā priyaṃ cānnam//  
-  
-34.15ab/ kṣud^anala^mṛtyu^narādhipa^śastrebhyo jāyate bhayaṃ ketau/  
-  
-34.15cd/ pariviṣṭe garbha^bhayaṃ rāhau vyādhir nṛpa^bhayaṃ ca//  
-  
-34.16ab/ yuddhāni vijānīyāt pariveṣa^abhyantare dvayor grahayoḥ/  
-  
-34.16cd/ divasakṛtaḥ śaśino vā kṣud^avṛṣṭi^bhayaṃ triṣu proktam//  
-  
-34.17ab/ yāti caturṣu narendraḥ sa^amātya^purohito vaśaṃ mṛtyoḥ/  
-  
-34.17cd/ pralayam iva viddhi jagataḥ pañcādiṣu maṇḍalastheṣu//  
-  
-34.18ab/ tārāgrahasya kuryāt pṛthag eva samutthito narendra^vadham/  
-  
-34.18cd/ nakṣatrāṇām atha vā yadi ketor na^udayo bhavati//  
-  
-34.19ab/ vipra^kṣatriya^viṭ^śūdrahā bhavet pratipad^ādiṣu kramaśaḥ/  
-  
-34.19cd/ śreṇī^pura^kośānāṃ pañcamy^ādiṣv aśubhakārī//  
-  
-34.20ab/ yuvarājasya^aṣṭamyāṃ paratas triṣu pārthivasya doṣakaraḥ//  
-  
-34.20cd/ pura^rodho dvādaśyāṃ sainya^kṣobhas trayodaśyām//  
-  
-34.21ab/ narapatipatnī^pīḍāṃ pariveṣo +abhyutthitaś caturdaśyām/  
-  
-34.21cd/ kuryāt tu pañcadaśyāṃ pīḍāṃ manujādhipasya^eva//  
-  
-34.22ab/ nāgarakāṇām abhyantara^sthitā yāyināṃ ca bāhyasthā/  
-  
-34.22cd/ pariveṣa^madhya^rekhā vijñeyā^ākrandasārāṇām//  
-  
-34.23ab/ raktaḥ śyāmo rūkṣaś ca bhavati yeṣāṃ parājayas teṣām/  
-34.23cd/ snigdhaḥ śveto dyutimān yeṣāṃ bhāgo jayas teṣām//  
-
-35 indrāyuddhalakṣaṇādhyāyaḥ  
-
-35.01ab/ sūryasya vividhavarṇāḥ pavanena vighaṭṭitāḥ karāḥ sa^abhre/  
-  
-35.01cd/ viyati dhanuḥ^saṃsthānā ye dṛśyante tad indradhanuḥ//  
-  
-35.02ab/ ke cid anantakula^uraga^niḥśvāsa^udbhūtam āhur ācāryāḥ/  
-  
-35.02cd/ tad yāyināṃ nṛpāṇām abhimukham ajaya^āvahaṃ bhavati//  
-  
-35.03ab/ acchinnam avani^gāḍhaṃ dyutimat snigdhaṃ ghanaṃ vividhavarṇam/  
-  
-35.03cd/ dvir uditam anulomaṃ ca praśastam ambhaḥ prayacchati ca//  
-  
-35.04ab/ vidig^udbhūtaṃ dik^svāmi^nāśanaṃ vyabhrajaṃ maraka^kāri/  
-  
-35.04cd/ pāṭala^pītaka^nīlaiḥ śastra^agni^kṣut^kṛtā doṣāḥ//  
-  
-35.05ab/ jalamadhye +anāvṛṣṭir bhuvi sasya^vadhas tarau sthite vyādhiḥ/  
-  
-35.05cd/ *vālmīke[K.valmīke] śastra^bhayaṃ niśi saciva^vadhāya dhanur aindram//  
-  
-35.06ab/ vṛṣṭiṃ karoty avṛṣṭyāṃ vṛṣṭiṃ vṛṣṭyāṃ nivārayaty aindryām/  
-  
-35.06cd/ paścāt sadaiva vṛṣṭiṃ kuliśabhṛtaś cāpam ācaṣṭe//  
-  
-35.07a cāpaṃ maghonaḥ kurute niśāyām  
-  
-35.07b ākhaṇḍalāyāṃ diśi bhūpapīḍām/  
-  
-35.07c yāmya^apara^udak^prabhavaṃ nihanyāt  
-  
-35.07d senāpatiṃ nāyaka^mantriṇau ca//  
-  
-35.08ab/ niśi suracāpaṃ sita^varṇādyaṃ janayati pīḍāṃ dvija^pūrvāṇām/  
-  
-35.08cd/ bhavati ca yasyāṃ diśi tad deśyaṃ narapati^mukhyaṃ nacirād dhanyāt//  
-
-36 gandharvanagaralakṣaṇādhyāyaḥ  
-
-36.01ab/ udag^ādi purohita^nṛpa^balapati^yuvarāja^doṣadaṃ khapuram/  
-  
-36.01cd/ sita^rakta^pīta^kṛṣṇaṃ vipra^ādīnām abhāvāya//  
-  
-36.02ab/ nāgara^nṛpati^jaya^āvaham udag^vidiksthaṃ vivarṇa^nāśāya/  
-  
-36.02cd/ śānta^āśāyāṃ dṛṣṭaṃ satoraṇaṃ nṛpati^vijayāya//  
-  
-36.03ab/ sarvadig^utthaṃ satatothitaṃ ca bhayadaṃ narendra^rāṣṭrāṇām/  
-  
-36.03cd/ caura^aṭavikān hanyād dhūma^anala^śakracāpa^ābham//  
-  
-36.04ab/ gandharvanagaram utthitam āpāṇḍuram aśanipāta^vāta^karam/  
-  
-36.04cd/ dīpte narendra^mṛtyur vāme +aribhayaṃ jayaḥ savye//  
-  
-36.05ab/ anekavarṇa^ākṛti khe prakāśate puraṃ patākā^dhvaja^toraṇa^anvitam/  
-  
-36.05cd/ yadā tadā nāga^manuṣya^vājināṃ pibaty asṛg bhūri raṇe vasundharā//  
-
-37 pratisūryalakṣaṇādhyāyaḥ  
-
-37.01ab/ pratisūryakaḥ praśasto divasakṛd^ṛtu^varṇa^saprabhaḥ snigdhaḥ/  
-  
-37.01cd/ vaidūrya^nibhaḥ svacchaḥ śuklaś ca kṣema^saubhikṣaḥ//  
-  
-37.02ab/ pīto vyādhiṃ janayaty aśokarūpaś ca śastra^kopāya/  
-  
-37.02cd/ pratisūryāṇāṃ mālā dasyu^bhaya^ātaṅka^nṛpa^hantrī//  
-  
-37.03ab/ divasakṛtaḥ pratisūryo jalakṛd^udag^dakṣiṇe sthito +anilakṛt/  
-  
-37.03cd/ ubhayasthaḥ salilabhayaṃ nṛpam upari nihanty adho janahā//  
-
-[K.chap. 38 rajolakṣaṇam inserted  
-
-K.38.01ab/ kathayanti pārthivavadhaṃ rajasā ghana^timira^sañcaya^nibhena/  
-  
-K.38.01cd/ avibhāvyamāna^giri^pura^taravaḥ sarvā diśaś channāḥ//  
-  
-K.38.02ab/ yasyām diśi dhūmacayaḥ prāk prabhavati nāśameti vā yasyām/  
-  
-K.38.02cd/ āgacchati saptāhāt tatra eva bhayaṃ na sandehaḥ//  
-  
-K.38.03ab/ śvete rajoghanaughe pīḍā syān mantrijanapadānāṃ ca/  
-  
-K.38.03cd/ nacirāt prakopam upayāti śastram atisaṅkulā siddhiḥ//  
-  
-K.38.04ab/ arkodaye vijṛmbhati yadi dinam ekaṃ dinadvayaṃ vā^api/  
-  
-K.38.04cd/ sthagayann iva gagana^talaṃ bhayam atyugraṃ nivedayati//  
-  
-K.38.05ab/ anavaratasañcayavahaṃ rajanīm ekāṃ pradhānanṛpa^hantṛ/  
-  
-K.38.05cd/ kṣemāya ca śeṣāṇāṃ vicakṣaṇānāṃ narendrāṇām//  
-  
-K.38.06ab/ rajanīdvayaṃ visarpati yasmin rāṣṭre rajoghanaṃ bahulam/  
-  
-K.38.06cd/ paracakrasya āgamanaṃ tasminn api sanniboddhavyam//  
-  
-K.38.07ab/ nipatati rajanītritayaṃ catuṣkam apy annarasavināśāya/  
-  
-K.38.07cd/ rājñāṃ sainyakṣobho rajasi bhavet pañcarātrabhave//  
-  
-K.38.08ab/ ketvādyudayavimuktaṃ yadā rajo bhavati tīvrabhayadāyi/  
-  
-K.38.08cd/ śiśirād anyatrartau phalam avikalam āhu ācāryāḥ//]  
-
-38 nirghātalakṣaṇādhyāyaḥ  
-
-38.01ab/ pavanaḥ pavana^abhihato gaganād avanau yadā samāpatati/  
-  
-38.01cd/ bhavati tadā nirghātaḥ sa ca pāpo dīpta^vihaga^rutaḥ//  
-  
-38.02ab/ arka^udaye +adhikaraṇika^nṛpa^dhani^yodha^aṅganā^vaṇig^veśyāḥ/  
-  
-38.02cd/ āpraharāṃśe +aja^āvikam upahanyāt^śūdrapaurāṃś ca//  
-  
-38.03ab/ āmadhya^ahnād rāja^upasevino brāhmaṇāṃś ca pīḍayati/  
-  
-38.03cd/ vaiśya^jaladāṃs tṛtīye caurān prahare caturthe tu//  
-  
-38.04ab/ astaṃ yāte nīcān prathame yāme nihanti sasyāni/  
-  
-38.04cd/ rātrau dvitīya^yāme piśāca^saṅghān nipīḍayati//  
-  
-38.05ab/ turaga^kariṇas tṛtīye vinihanyād yāyinaś caturthe ca/  
-  
-38.05cd/ bhairava^jarjaraśabdo yāti yatas tāṃ diśaṃ hanti//  
-
-39 sasyajātakādhyāyaḥ  
-
-39.01ab/ vṛścika^vṛṣa^praveśe bhānor ye bādarāyaṇena^uktāḥ/  
-  
-39.01cd/ grīṣma^śarat^sasyānāṃ sad^asad^yogāḥ kṛtās ta ime//  
-  
-39.02ab/ bhānor alipraveśe kendrais tasmāt^śubhagraha^ākrāntaiḥ/  
-  
-39.02cd/ balavadbhiḥ saumyair vā *nirīkṣite[K.nirīkṣitair] graiṣmika^vivṛddhiḥ//  
-  
-39.03ab/ aṣṭamarāśigate +arke guruśaśinoḥ kumbha^siṃha^*saṃsthitayoḥ[K.sthitayoḥ]/  
-  
-39.03cd/ siṃha^ghaṭa^saṃsthayor vā niṣpattir grīṣma^sasyasya//  
-  
-39.04ab/ arkāt site dvitīye budhe +atha vā yugapad eva vā sthitayoḥ/  
-  
-39.04cd/ vyayagatayor api tadvan niṣpattir atīva gurudṛṣṭyā//  
-  
-39.05ab/ śubhamadhye +alini sūryād guruśaśinoḥ saptame parā sampat/  
-  
-39.05cd/ aly^ādisthe savitari gurau dvitīye +ardhaniṣpattiḥ//  
-  
-39.06ab/ lābha^hibuka^artha^yuktaiḥ sūryād aligāt sita^indu^śaśiputraiḥ/  
-  
-39.06cd/ sasyasya parā sampat karmaṇi jīve gavāṃ ca^agryā//  
-  
-39.07ab/ kumbhe gurur gavi śaśī sūryo +alimukhe kuja^arkajau makare/  
-  
-39.07cd/ niṣpattir asti mahatī paścāt paracakra^bhaya^rogam//  
-  
-39.08ab/ madhye pāpagrahayoḥ sūryaḥ sasyaṃ vināśayaty aligaḥ/  
-  
-39.08cd/ pāpaḥ saptamarāśau jātaṃ jātaṃ vināśayati//  
-  
-39.09ab/ arthasthāne krūraḥ saumyair anirīkṣitaḥ prathamajātam/  
-  
-39.09cd/ sasyaṃ nihanti paścād uptaṃ niṣpādayed vyaktam//  
-  
-39.10ab/ jāmitra^kendra^saṃsthau krūrau sūryasya vṛścika^sthasya/  
-  
-39.10cd/ sasya^vipattiṃ kurutaḥ saumyair dṛṣṭau na sarvatra//  
-  
-39.11ab/ vṛścika^saṃsthād arkāt saptama^ṣaṣṭha^upagau yadā krūrau/  
-  
-39.11cd/ bhavati tadā niṣpattiḥ sasyānām argha^parihāniḥ//  
-  
-39.12ab/ vidhinā^anena^eva ravir vṛṣa^praveśe śarat^samutthānām/  
-  
-39.12cd/ vijñeyaḥ sasyānāṃ nāśāya śivāya vā tajjñaiḥ//  
-  
-39.13ab/ triṣu meṣa^ādiṣu sūryaḥ saumyayuto vīkṣito +api vā vicaran/  
-  
-39.13cd/ *graiṣmika[K.graṣmika]dhānyaṃ kurute *samargham[K.samartham] abhaya^upayogyaṃ ca//  
-  
-39.14ab/ kārmuka^mṛga^ghaṭa^saṃsthaḥ *śārada^sasyasya[K.śāradasya] tadvad eva raviḥ/  
-  
-39.14cd/ saṃgrahakāle jñeyo viparyayaḥ krūradṛg^*yogāt[K.yāgāt]//  
-
-40 dravyaniścayādhyāyaḥ  
-
-40.01ab/ ye yeṣāṃ dravyāṇām adhipatayo rāśayaḥ samuddiṣṭāḥ/  
-  
-40.01cd/ munibhiḥ śubhāśubhārthaṃ tān āgamataḥ pravakṣyāmi//  
-  
-40.02ab/ vastra^āvika^kutupānāṃ masūra^godhūma^rālaka^yavānām/  
-  
-40.02cd/ sthala^sambhava^oṣadhīnāṃ kanakasya ca kīrtito meṣaḥ//  
-  
-40.03ab/ gavi vastra^kusuma^godhūma^śāli^yava^mahiṣa^surabhitanayāḥ syuḥ/  
-  
-40.03cd/ mithune +api dhānya^śārada^vallī^śālūka^kārpāsāḥ//  
-  
-40.04ab/ karkiṇi kodrava^kadalī^dūrvā^phala^kanda^patra^cocāni/  
-  
-40.04cd/ siṃhe tuṣadhānya^rasāḥ siṃha^ādīnāṃ tvacaḥ saguḍāḥ//  
-  
-40.05ab/ ṣaṣṭhe +atasī^kalāyāḥ kulattha^godhūma^mudga^niṣpāvāḥ/  
-  
-40.05cd/ saptamarāśau māṣā *yava^godhūmāḥ sasarṣapāś ca^eva[K.godhūmāḥ sarṣapāḥ sayavāḥ]//  
-  
-40.06ab/ aṣṭamarāśāv ikṣuḥ saikyaṃ lohāny aja^āvikaṃ ca^api/  
-  
-40.06cd/ navame tu turaga^lavaṇa^ambara^astra^tila^dhānya^mūlāni//  
-  
-40.07ab/ makare taru^gulma^ādyaṃ saikya^ikṣu^suvarṇa^kṛṣṇalohāni/  
-  
-40.07cd/ kumbhe salilaja^phala^kusuma^ratna^citrāṇi rūpāṇi//  
-  
-40.08ab/ mīne kapāla^sambhava^ratnāny ambu^udbhavāni vajrāṇi/  
-  
-40.08cd/ snehāś ca naikarūpā vyākhyātā matsyajātaṃ ca//  
-  
-40.09ab/ rāśeś catur^daśa^artha^aya^sapta^nava^pañcamasthito jīvaḥ/  
-  
-40.09cd/ dvy^ekādaśa^daśa^pañca^aṣṭameṣu śaśijaś ca vṛddhikaraḥ//  
-  
-40.10ab/ ṣaṭ^saptamago hāniṃ vṛddhiṃ śukraḥ karoti śeṣeṣu/  
-  
-40.10cd/ upacaya^saṃsthāḥ krūrāḥ śubhadāḥ śeṣeṣu hānikarāḥ//  
-  
-40.11ab/ rāśer yasya krūrāḥ pīḍāsthāneṣu saṃsthitā balinaḥ/  
-  
-40.11cd/ tatprokta^dravyāṇāṃ mahārghatā durlabhatvaṃ ca//  
-  
-40.12ab/ iṣṭasthāne saumyā balino yeṣāṃ bhavanti rāśīnām/  
-  
-40.12cd/ taddravyāṇāṃ vṛddhiḥ *sāmarghyaṃ vallabhatvaṃ ca[K.sāmarthayamadurlabhatvaṃ ca]//  
-  
-40.13ab/ gocara^pīḍāyām api rāśir balibhiḥ śubhagrahair dṛṣṭaḥ/  
-  
-40.13cd/ pīḍāṃ na karoti tathā krūrair evaṃ viparyāsaḥ//  
-
-41 arghakāṇḍādhyāyaḥ  
-
-41.01ab/ ativṛṣṭy^ulkā^daṇḍān pariveṣa^grahaṇa^paridhi^pūrvāṃś ca/  
-  
-41.01cd/ dṛṣṭvā^amāvāsyāyām utpātān *paurṇamāsyāṃ[K.pūrṇamāsyāṃ] ca//  
-  
-41.02ab/ brūyād arghaviśeṣān pratimāsaṃ rāśiṣu kramāt sūrye/  
-  
-41.02cd/ anyatithāv utpātā ye te ḍamarārtaye rājñām//  
-  
-41.03ab/ meṣa^upagate sūrye grīṣmaja^dhānyasya saṃgrahaṃ *kṛtvā[K.kuryāt]/  
-  
-41.03cd/ vana^mūla^phalasya vṛṣe caturthamāse tayor lābhaḥ//  
-  
-41.04ab/ mithunasthe sarvarasān dhānyāni ca saṃgrahaṃ samupanīya/  
-  
-41.04cd/ ṣaṣṭhe māse vipulaṃ *vikretā[K.vikrīṇan] prāpnuyāl lābham//  
-  
-41.05ab/ karkiṇy arke madhu^gandha^taila^ghṛta^phāṇitāni vinidhāya/  
-  
-41.05cd/ dviguṇā dvitīyamāse labdhir hīna^adhike chedaḥ//  
-  
-41.06ab/ siṃhe suvarṇa^maṇi^carma^varma^śastrāṇi mauktikaṃ rajatam/  
-  
-41.06cd/ pañcamamāse labdhir vikretur ato +anyathā chedaḥ//  
-  
-41.07ab/ kanyāgate dinakare cāmara^khara^karabha^vājināṃ kretā/  
-  
-41.07cd/ ṣaṣṭhe māse dviguṇaṃ lābham avāpnoti vikrīṇan//  
-  
-41.08ab/ taulini tāntava^bhāṇḍaṃ maṇi^kambala^kāca^pītakusumāni/  
-  
-41.08cd/ ādadyād dhānyāni ca *varṣārdhād[K.ṣaṇmāsād] dviguṇitā vṛddhiḥ//  
-  
-41.09ab/ vṛścika^saṃsthe savitari phala^kandaka^mūla^vividha^ratnāni/  
-  
-41.09cd/ varṣadvayam uṣitāni dviguṇaṃ lābhaṃ prayacchanti//  
-  
-41.10ab/ cāpagate gṛhṇīyāt *kuṅkuma[K.kuṅkama]^śaṅkha^pravāla^kācāni/  
-  
-41.10cd/ muktāphalāni ca tato varṣārdhād dviguṇatāṃ yānti//  
-  
-41.11ab/ *mṛga^ghaṭa^saṃsthe savitari gṛhṇīyāl[K.mṛgadhaṭage gṛhṇīyād divākare] lohabhāṇḍa^dhānyāni/  
-  
-41.11cd/ sthitvā māsaṃ dadyāl lābhārthī dviguṇam āpnoti//  
-  
-41.12ab/ savitari jhaṣam upayāte mūla^phalaṃ kanda^bhāṇḍa^ratnāni/  
-  
-41.12cd/ saṃsthāpya vatsarārdhaṃ lābhakam iṣṭaṃ samāpnoti//  
-  
-41.13ab/ rāśau rāśau yasmin śiśiramayūkhaḥ sahasrakiraṇo vā/  
-  
-41.13cd/ yukto +adhimitradṛṣṭas tatra^ayaṃ lābhako diṣṭaḥ//  
-  
-41.14a savitṛ^sahitaḥ sampūrṇo vā śubhair yutavīkṣitaḥ  
-  
-41.14b śiśirakiraṇaḥ sadyo +arghasya pravṛddhikaraḥ smṛtaḥ/  
-  
-41.14c aśubhasahitaḥ sandṛṣṭo vā hinasty atha vā raviḥ  
-  
-41.14d pratigṛhagatān bhāvān buddhvā vadet sadasatphalam//  
-
-42 indradhvajasampadadhyāyaḥ  
-
-42.01ab/ brahmāṇam ūcur amarā bhagavan śaktāḥ sma nāsurān samare/  
-  
-42.01cd/ pratiyodhayitum atas tvāṃ śaraṇyaśaraṇaṃ samupayātāḥ//  
-  
-42.02ab/ devān uvāca bhagavān kṣīrode keśavaḥ sa vaḥ ketum/  
-  
-42.02cd/ yaṃ dāsyati taṃ dṛṣṭvā na^ājau sthāsyanti vo daityāḥ//  
-  
-42.03ab/ labdhavarāḥ kṣīrodaṃ gatvā te tuṣṭuvuḥ surāḥ sa^indrāḥ/  
-  
-42.03cd/ śrīvatsa^aṅkaṃ kaustubha^maṇi^kirana^udbhāsita^uraskam//  
-  
-42.04ab/ śrīpatim acintyam asamaṃ *samaṃ tataḥ[K.samantataḥ] sarvadehināṃ sūkṣmam/  
-  
-42.04cd/ paramātmānam anādiṃ viṣṇum avijñāta^paryantam//  
-  
-42.05ab/ taiḥ saṃstutaḥ sa devas tutoṣa nārāyaṇo dadau caiṣām/  
-  
-42.05cd/ dhvajam asura^sura^vadhū^mukha^kamala^vana^tuṣāra^tīkṣṇāṃśum//  
-  
-42.06ab/ taṃ viṣṇu^tejo^bhavam aṣṭacakre rathe sthitaṃ bhāsvati ratnacitre/  
-  
-42.06cd/ dedīpyamānaṃ śaradi^iva sūryaṃ dhvajaṃ samāsādya mumoda śakraḥ//  
-42.07ab/ sa kiṅkiṇī^jāla^*pariṣkṛtena[K.pariskṛtena] srak^chatra^ghaṇṭā^piṭakā^anvitena/  
-  
-42.07cd/ samucchritena^amararāḍ^dhvajena ninye vināśaṃ samare +arisainyam//  
-  
-42.08ab/ uparicarasya^amarapo vasor dadau cedipasya veṇumayīm/  
-  
-42.08cd/ yaṣṭiṃ tāṃ sa narendro vidhivat sampūjayām āsa//  
-  
-42.09ab/ prīto mahena *maghavā[K.maghavān] prāha^evaṃ ye nṛpāḥ kariṣyanti/  
-  
-42.09cd/ vasuvad^vasumantas te bhuvi siddhājñā bhaviṣyanti//  
-  
-42.10ab/ muditāḥ prajāś ca teṣāṃ bhayaroga^vivarjitāḥ prabhūtānnāḥ/  
-  
-42.10cd/ dhvaja^eva ca^abhidhāsyati jagati nimittaiḥ phalaṃ sadasat//  
-  
-42.11ab/ pūjā tasya narendrair bala^vṛddhi^jaya^arthibhir yathā pūrvam/  
-  
-42.11cd/ śakrājñayā prayuktā tām āgamataḥ pravakṣyāmi//  
-  
-42.12ab/ tasya vidhānaṃ śubha^karaṇa^divasa^nakṣatra^maṅgala^muhūrtaiḥ/  
-  
-42.12cd/ prāsthānikair vanam iyād daivajñaḥ sūtradhāraś ca//  
-  
-42.13ab/ udyāna^devatālaya^pitṛvana^valmīka^mārga^citijātāḥ/  
-  
-42.13cd/ kubja^ūrdhvaśuṣka^kaṇṭaki^vallī^vandāka^yuktāś ca//  
-  
-42.14ab/ bahu^vihagālaya^koṭara^pavana^anala^pīḍitāś ca ye taravaḥ/  
-  
-42.14cd/ ye ca syuḥ strīsaṃjñā na te śubhāḥ śakraketvarthe//  
-  
-42.15ab/ śreṣṭho +arjuno *+ajakarṇaḥ[K.aśvakamaḥ] priyaka^dhava^udumbarāś ca pañcaite/  
-  
-42.15cd/ eteṣām *ekatamaṃ[K.anyatamaṃ] praśastam atha vā^aparaṃ vṛkṣam//  
-  
-42.16ab/ gaura^asita^kṣiti^bhavaṃ sampūjya yathāvidhi dvijaḥ pūrvam/  
-  
-42.16cd/ vijane sametya rātrau spṛṣṭvā brūyād imaṃ mantram//  
-  
-42.17ab/ yānīha vṛkṣe bhūtāni tebhyaḥ svasti namo +astu vaḥ/  
-  
-42.17cd/ upahāraṃ gṛhītvā^imaṃ kriyatāṃ vāsaparyayaḥ//  
-  
-42.18ab/ pārthivas tvāṃ varayate svasti te +astu nagottama/  
-  
-42.18cd/ dhvajārthaṃ devarājasya pūjā^iyaṃ pratigṛhyatām//  
-  
-42.19ab/ chindyāt prabhātasamaye vṛkṣam udak prāṅmukho +api vā bhūtvā/  
-  
-42.19cd/ paraśor jarjaraśabdo na^iṣṭaḥ snigdho ghanaś ca hitaḥ//  
-  
-42.20ab/ nṛpa^jayadam avidhvaṃstaṃ patanam anākuñcitaṃ ca pūrvodak/  
-  
-42.20cd/ avilagnaṃ ca^anyatarau viparītam atas tyajet patitam//  
-  
-42.21ab/ chittvāgre catur^aṅgulam aṣṭau mūle jale kṣiped yaṣṭim/  
-  
-42.21cd/ uddhṛtya puradvāraṃ śakaṭena nayen manuṣyair vā//  
-  
-42.22ab/ arabhaṅge balabhedo nemyā nāśo balasya vijñeyaḥ/  
-  
-42.22cd/ arthakṣayo +akṣa^bhaṅge tathā^aṇibhaṅge ca varddhakinaḥ//  
-  
-42.23ab/ bhādrapada^śukla^pakṣasya^aṣṭamyāṃ nāgarair vṛto rājā/  
-  
-42.23cd/ daivajña^saciva^kañcuki^viprapramukhaiḥ suveṣadharaiḥ//  
-  
-42.24ab/ ahata^ambara^saṃvītāṃ yaṣṭiṃ paurandarīṃ puraṃ pauraiḥ/  
-  
-42.24cd/ srag^gandha^dhūpa^yuktāṃ praveśayet śaṅkha^tūrya^ravaiḥ//  
-  
-42.25ab/ rucira^patākā^toraṇa^vanamālā^alaṅkṛtaṃ prahṛṣṭa^janam/  
-  
-42.25cd/ sammārjita^arcita^pathaṃ suveṣa^gaṇikājana^ākīrṇam//  
-  
-42.26ab/ abhyarcita^āpaṇagṛhaṃ prabhūta^puṇyāha^veda^nirghoṣam/  
-  
-42.26cd/ naṭa^nartaka^geyajñair ākīrṇa^catuṣpathaṃ nagaram//  
-  
-42.27ab/ tatra patākāḥ śvetā *bhavanti vijayāya[K.vijayāya bhavanti] rogadāḥ pītāḥ/  
-  
-42.27cd/ jayadāś ca citrarūpā raktāḥ śastra^prakopāya//  
-  
-42.28ab/ yaṣṭiṃ praveśayantīṃ nipātayanto bhayāya nāgādyāḥ/  
-  
-42.28cd/ bālānāṃ talaśabde saṃgrāmaḥ sattva^yuddhe vā//  
-  
-42.29ab/ santakṣya punas takṣā vidhivad yaṣṭiṃ praropayed yantre/  
-  
-42.29cd/ jāgaram ekādaśyāṃ nareśvaraḥ kārayec cāsyām//  
-  
-42.30ab/ sita^vastra^uṣṇīṣadharaḥ purohitaḥ śākra^vaiṣṇavair mantraiḥ/  
-  
-42.30cd/ juhuyād agniṃ sāmvatsaro nimittāni gṛhṇīyāt//  
-  
-42.31ab/ iṣṭa^dravya^ākāraḥ surabhiḥ snigdho ghano +analo +arciṣmān/  
-  
-42.31cd/ śubhakṛd ato +anyo *+aniṣṭo[K.neṣṭo] yātrāyāṃ vistaro +abhihitaḥ//  
-  
-42.32a svāhāvasānasamaye svayam ujjvalārciḥ  
-  
-42.32b snigdhaḥ pradakṣiṇa^śikho hutabhug nṛpasya/  
-  
-42.32c gaṅgā^divākarasutā^jala^cāruhārāṃ  
-  
-42.32d dhātrīṃ *samudra^raśanāṃ[K.samudrarasanāṃ] vaśagāṃ karoti//  
-  
-42.33a cāmīkara^aśoka^kuraṇṭaka^abja^  
-  
-42.33b vaidūrya^nīlotpala^sannibhe +agnau/  
-  
-42.33c na dhvāntam antarbhavane +avakāśaṃ  
-  
-42.33d karoti ratna^aṃśu^hataṃ nṛpasya//  
-  
-42.34a yeṣāṃ rathaugha^arṇava^megha^dantināṃ  
-  
-42.34b samasvano +agnir yadi vā^api dundubheḥ/  
-  
-42.34c teṣāṃ madāndha^ibha^ghaṭa^avaghaṭṭitā  
-  
-42.34d bhavanti yāne timira^upamā diśaḥ//  
-  
-42.35ab/ dhvaja^kumbha^haya^ibha^bhūbhṛtām anurūpe vaśam eti bhūbhṛtām/  
-  
-42.35cd/ udaya^asta^dharādharā +adharā himavad^vindhya^payodharā dharā//  
-  
-42.36ab/ dvirada^mada^mahī^saroja^lājā[K.lājaiḥ]^ghṛta^madhunā ca hutāśane sagandhe/  
-  
-42.36cd/ praṇata^nṛpa^śiromaṇi^prabhābhir bhavati puraś^churiteva bhūr nṛpasya//  
-  
-42.37ab/ uktaṃ yad uttiṣṭhati śakraketau śubha^aśubhaṃ saptamarīcirūpaiḥ/  
-  
-42.37cd/ tajjanma^yajña^grahaśānti^yātrā^vivāha^kāleṣv api cintanīyam//  
-  
-42.38ab/ guḍa^pūpa^pāyasa^ādyair viprān abhyarcya dakṣiṇābhiś ca/  
-  
-42.38cd/ śravaṇena dvādaśyām utthāpyo +anyatra vā śravaṇāt//  
-  
-42.39ab/ śakra^kumāryaḥ kāryāḥ prāha manuḥ sapta pañca vā tajjñaiḥ/  
-  
-42.39cd/ nanda^upananda^saṃjñe *pāda^ūna^ardhe dhvaja^ucchrāyāt[K.pādenārdhena cocchrāyāt]//  
-  
-42.40ab/ ṣoḍaśabhāga^abhyadhike jayavijaye dve vasundhare ca^anye/  
-42.40cd/ adhikā śakrajanitrī madhye +aṣṭāṃśena ca^etāsām//  
-  
-42.41ab/ prītaiḥ kṛtāni vibudhair yāni purā bhūṣaṇāni suraketoḥ/  
-  
-42.41cd/ tāni krameṇa dadyāt piṭakāni vicitrarūpāṇi//  
-  
-42.42ab/ rakta^aśoka^nikāśaṃ *caturasraṃ[K.caturaśram] viśvakarmaṇā prathamam/  
-  
-42.42cd/ *raśanā[K.rasanā] svayambhuvā śaṅkareṇa *ca^anekavarṇagā dattā[K.cānekavarṇadharī]//  
-  
-42.43ab/ aṣṭāśri nīlaraktaṃ tṛtīyam indreṇa bhūṣaṇaṃ dattam/  
-  
-42.43cd/ asitaṃ yamaś caturthaṃ masūrakaṃ kāntimad ayacchat//  
-  
-42.44ab/ mañjiṣṭhābhaṃ varuṇaḥ ṣaḍaśri tatpañcamaṃ jalorminibham/  
-  
-42.44cd/ mayūraṃ keyūraṃ ṣaṣṭhaṃ vāyur jaladanīlam//  
-  
-42.45ab/ skandhaḥ svaṃ keyūraṃ saptamam adadad dhvajāya bahucitram/  
-  
-42.45cd/ aṣṭamam anala^jvālā^saṅkāśaṃ havyabhug^*vṛttam[K.dattam]//  
-  
-42.46ab/ vaidūrya^sadṛśam *indro[K.indur] navamaṃ graiveyakaṃ dadāv anyat/  
-  
-42.46cd/ rathacakrābhaṃ daśamaṃ sūryas tvaṣṭā prabhāyuktam//  
-  
-42.47ab/ ekādaśam udvaṃśaṃ viśvedevāḥ sarojasaṅkāśam/  
-  
-42.47cd/ dvādaśam api ca *niveśam ṛṣayo[K.nivaṃśaṃ munayo] nīlotpalābhāsam//  
-  
-42.48ab/ kiñ cid adhaūrdhva^*nirmitam[K.nirnatam] upari viśālaṃ trayodaśaṃ ketoḥ/  
-  
-42.48cd/ śirasi bṛhaspati^śukrau lākṣārasasannibhaṃ dadatuḥ//  
-  
-42.49ab/ yady yad yena *vibhūṣaṇam[K.vinirmitam] amareṇa vinirmitaṃ[K.vibhūṣaṇam] dhvajasya^arthe/  
-  
-42.49cd/ tattat taddaivatyaṃ vijñātavyaṃ vipaścidbhiḥ//  
-  
-42.50ab/ dhvaja^parimāṇa^tryaṃśaḥ paridhiḥ prathamasya bhavati piṭakasya/  
-  
-42.50cd/ parataḥ prathamāt prathamād aṣṭāṃśāṣṭāṃśahīnāni//  
-  
-42.51ab/ kuryād ahani caturthe pūraṇam indradhvajasya śāstrajñaḥ/  
-  
-42.51cd/ manunā ca^āgamagītān mantrān etān paṭhen niyataḥ//  
-  
-42.52ab/ hara^arka^vaivasvata^śakra^somair dhaneśa^vaiśvānara^pāśabhṛdbhiḥ/  
-  
-42.52cd/ maharṣi^saṃghaiḥ sadig^apsarobhiḥ śukra^aṅgiraḥ^skanda^marudgaṇaiś ca//  
-  
-42.53ab/ yathā tvam ūrjaskaraṇa^ekarūpaiḥ samarcitas tv ābharaṇair udāraiḥ/  
-  
-42.53cd/ tatheha tāny ābharaṇāni *yāge[K.deva] śubhāni samprītamanā gṛhāṇa//  
-  
-42.54ab/ ajo +avyayaḥ śāśvata ekarūpo viṣṇur varāhaḥ puruṣaḥ purāṇaḥ/  
-  
-42.54cd/ tvam antakaḥ sarvaharaḥ kṛśānuḥ *sahasraśīrṣaḥ[K.sahasraśīrśā] śatamanyur īḍyaḥ//  
-  
-42.55ab/ kaviṃ saptajihvaṃ trātāram indraṃ *svavitāraṃ[K.avitāraṃ] sureśam/  
-  
-42.55cd/ hvayāmi śakraṃ vṛtrahaṇaṃ suṣeṇam asmākaṃ vīrā *uttarā[K.uttare] bhavantu//  
-  
-42.56ab/ prapūraṇe ca^ucchrayaṇe praveśe snāne tathā mālyavidhau visarge/  
-  
-42.56cd/ paṭhed imān nṛpatiḥ sopavāso mantrān śubhān puruhūtasya ketoḥ//  
-  
-42.57ab/ kṣatra[K.ū.chatra]^dhvaja^ādarśa^phala^ardha^candrair vicitramālā^kadalī^ikṣudaṇḍaiḥ/  
-  
-42.57cd/ savyāla^siṃhaiḥ piṭakair gavākṣair alaṅkṛtaṃ dikṣu ca lokapālaiḥ//  
-  
-42.58a acchinna^rajjuṃ dṛḍha^kāṣṭha^mātṛkaṃ  
-  
-42.58b suśliṣṭa^yantra^argala^pāda^toraṇam/  
-  
-42.58c utthāpayel lakṣma sahasracakṣuṣaḥ  
-  
-42.58d sāradruma^abhagna^kumārika^anvitam//  
-  
-42.59a avirata^jana^rāvaṃ maṅgala^āśīḥ^praṇāmaiḥ/  
-  
-42.59b paṭu^paṭaha^mṛdaṅgaiḥ śaṅkha^bhery^ādibhiś ca/  
-  
-42.59c śruti^vihita^vacobhiḥ pāpaṭhadbhiś ca viprair  
-  
-42.59d aśubha^*vihata[K.rahita]^śabdaṃ ketum *utthāpayec[K.utthāpayīta] ca//  
-  
-42.60a phala^dadhi^ghṛta^lājā^kṣaudra^puṣpa^agrahastaiḥ  
-  
-42.60b praṇipatita^śirobhis *tuṣṭavadbhiś[K.tuṣṭuvadbhiś] ca pauraiḥ/  
-  
-42.60c *vṛtam[K.dhṛtam] animiṣa^bhartuḥ ketum īśaḥ prajānām  
-  
-42.60d arinagara^nata^agraṃ kārayed dviḍ^*badhāya[K.vadhāya]//  
-  
-42.61a na^atidrutaṃ na ca vilambitam aprakampam  
-  
-42.61b adhvasta^mālya^piṭaka^ādi^vibhūṣaṇam ca/  
-  
-42.61c utthānam iṣṭam aśubhaṃ yad ato +anyathā syāt  
-  
-42.61d tacchāntibhir narapateḥ śamayet purodhāḥ//  
-  
-42.62a kravyāda^kauśika^kapotaka^kāka^kaṅkaiḥ  
-  
-42.62b ketusthitair mahad uśanti bhayaṃ nṛpasya/  
-  
-42.62c cāṣeṇa ca^api yuvarājabhayaṃ vadanti  
-  
-42.62d śyeno vilocanabhayaṃ nipatan karoti//  
-  
-42.63a chatra^bhaṅga^patane nṛpa^mṛtyus  
-  
-42.63b taskarān madhu karoti nilīnam/  
-  
-42.63c hanti ca^apy atha purohitam ulkā  
-  
-42.63d pārthivasya mahiṣīm aśaniś ca//  
-  
-42.64a rājñīvināśaṃ patitā patākā  
-  
-42.64b karoty avṛṣṭiṃ piṭakasya pātaḥ/  
-  
-42.64c madhya^agra^mūleṣu ca ketubhaṅgo  
-  
-42.64d nihanti mantri^kṣitipāla^paurān//  
-  
-42.65a dhūma^āvṛte śikhi^bhayaṃ tamasā ca moho  
-  
-42.65b vyālaiś ca bhagna^patitair na bhavaty amātyāḥ/  
-  
-42.65c glāyanty udakprabhṛti ca kramaśo *dvijādyān[K.dvijādyā]  
-  
-42.65d bhaṅge tu bandhaki^*badhaḥ[K.vadhaḥ] kathitaḥ kumāryāḥ//  
-  
-42.66a rajju^utsaṅga^cchedane bāla^pīḍā  
-  
-42.66b rājño mātuḥ pīḍanaṃ mātṛkāyāḥ/  
-  
-42.66c yadyat kuryuś *cāraṇā bālakā[K.bālakāś cāraṇā] vā  
-  
-42.66d tattat tādṛg bhāvi pāpaṃ śubhaṃ vā//  
-  
-42.67a dinacatuṣṭayam utthitam arcitaṃ  
-  
-42.67b samabhipūjya nṛpo +ahani pañcame/  
-  
-42.67c prakṛtibhiḥ saha lakṣma visarjayed  
-  
-42.67d balabhidaḥ svabala^abhivivṛddhaye//  
-  
-42.68ab/ uparicara^vasu^pravartitaṃ nṛpatibhir apy anusantataṃ kṛtam/  
-  
-42.68cd/ vidhim imam anumanya pārthivo na ripukṛtaṃ bhayam āpnuyād iti//  
-
-43 nīrājanādhyāyaḥ  
-
-43.01ab/ bhagavati jaladhara^pakṣma^kṣapākara^arka^īkṣaṇe kamalanābhe/  
-  
-43.01cd/ unmīlayati *turaṅga[K.turaṅgana]kari^nara^nīrājanaṃ kuryāt//  
-  
-43.02ab/ dvādaśyām aṣṭamyāṃ *kārtika[K.kārttika]śuklasya pañcadaśyāṃ vā/  
-  
-43.02cd/ āśvayuje vā kuryān nīrājana^saṃjñitāṃ śāntim//  
-  
-43.03ab/ nagara^uttarapūrvadiśi praśastabhūmau praśastadārumayam/  
-  
-43.03cd/ ṣoḍaśahasta^ucchrāyaṃ daśavipulaṃ toraṇaṃ kāryam///  
-  
-43.04ab/ sarja^udumbara^*kakubha^śākhāmaya[K.śākhākakubhamayaṃ]^śāntisadma kuśabahulam/  
-  
-43.04cd/ vaṃśa^vinirmita^matsya^dhvaja^cakra^alaṅkṛta^dvāram//  
-  
-43.05ab/ pratisarayā turagāṇāṃ bhallātaka^śāli^kuṣṭha^siddhārthān/  
-  
-43.05cd/ kaṇṭheṣu nibadhnīyāt puṣṭyarthaṃ śāntigṛhagāṇām//  
-  
-43.06ab/ ravi^varuṇa^viśvadeva^prajeśa^puruhūta^vaiṣṇavair mantraiḥ/  
-  
-43.06cd/ saptāhaṃ śāntigṛhe kuryāt^śāntiṃ turaṅgāṇām//  
-  
-43.07ab/ abhyarcitā na paruṣaṃ vaktavyā nāpi tāḍanīyās te/  
-  
-43.07cd/ puṇyāha^śaṅkha^tūrya^dhvani^gītaravair vimukta^bhayāḥ//  
-  
-43.08ab/ prāpte aṣṭame +ahni kuryād udaṅmukhaṃ toraṇasya dakṣiṇataḥ/  
-  
-43.08cd/ kuśa^cīra^āvṛtam āśramam agniṃ purato +asya vedyāṃ ca//  
-  
-43.09ab/ candana^kuṣṭha^samaṅgā^haritāla^manaḥśilā^priyaṅgu^vacāḥ/  
-  
-43.09cd/ danty^amṛtā^añjana^rajanī^suvarṇapuṣpy^agnimanthāś[K.suvarṇapuṣpāgnimanthāś] ca//  
-  
-43.10ab/ śvetāṃ sapūrṇakośāṃ kaṭambharā^trāyamāṇa^sahadevīḥ/  
-  
-43.10cd/ nāgakusumaṃ svaguptāṃ śatāvarīṃ somarājīṃ ca//  
-  
-43.11ab/ kalaśeṣv *etāḥ[K.etān] kṛtvā sambhārān upahared *valiṃ[K.ū.baliṃ] samyak//  
-  
-43.11cd/ bhakṣyair nānākārair madhu^pāyasa^yāvaka^pracuraiḥ//  
-  
-43.12ab/ khadira^palāśa^udumbara^kāśmary^aśvattha^nirmitāḥ samidhaḥ/  
-  
-43.12cd/ sruk kanakād rajatād vā kartavyā bhūtikāmena//  
-  
-43.13ab/ pūrva^abhimukhaḥ śrīmān vaiyāghre carmaṇi sthito rājā/  
-  
-43.13cd/ tiṣṭhed anala^samīpe turagabhiṣag^daivavit^sahitaḥ//  
-  
-43.14ab/ yātrāyāṃ yad abhihitaṃ grahayajña^vidhau mahendraketau ca/  
-  
-43.14cd/ vedī^purohita^anala^lakṣaṇam asmiṃs tad avadhāryam//  
-  
-43.15ab/ lakṣaṇayuktaṃ turagaṃ dviradavaraṃ ca^eva dīkṣitaṃ snātam/  
-  
-43.15cd/ ahata^sita^ambara^gandha^srag^*dhūma[K.ū.dhūpā]^abhyarcitaṃ kṛtvā/  
-  
-43.16ab/ āśrama^toraṇa^mūlaṃ samupanayet sāntvayan śanair vācā/  
-43.16cd/ vāditra^śaṅkha^puṇyāha^niḥsvana^āpūrita^digantam//  
-  
-43.17ab/ yady ānītas tiṣṭhed dakṣiṇacaraṇaṃ hayaḥ samutkṣipya/  
-  
-43.17cd/ sa jayati tadā narendraḥ śatrūn *nacirād[K.acirād] vinā yatnāt//  
-  
-43.18ab/ trasyan na^iṣṭo rājñaḥ pariśeṣaṃ ceṣṭitaṃ dvipa^hayānām/  
-  
-43.18cd/ yātrāyāṃ vyākhyātaṃ tad iha vicintyaṃ yathāyukti//  
-  
-43.19ab/ piṇḍam abhimantrya dadyāt purohito vājine sa yadi jighret/  
-43.19cd/ aśnīyād vā jayakṛd viparīto +ato +anyathā^abhihitaḥ//  
-  
-43.20ab/ kalaśa^udakeṣu śākhām āplāvya^audumbarīṃ spṛśet turagān/  
-  
-43.20cd/ śāntika^pauṣṭika^mantrair evaṃ senāṃ sanṛpa^nāgām//  
-  
-43.21ab/ śāntiṃ rāṣṭra^vivṛddhyai kṛtvā bhūyo +abhicārakair mantraiḥ/  
-  
-43.21cd/ mṛtmayam ariṃ vibhindyāt^śūlena^uraḥsthale vipraḥ//  
-  
-43.22ab/ khalinaṃ hayāya dadyād abhimantrya purohitas tato rājā/  
-  
-43.22cd/ āruhya^udakpūrvāṃ yāyān nīrājitaḥ sabalaḥ//  
-  
-43.23ab/ mṛdaṅga^śaṅkha^dhvani^hṛṣṭa^kuñjara^sravanmada^āmoda^sugandha^mārutaḥ/  
-  
-43.23cd/ śiromaṇi^*prānta[K.vrāta]calat prabhācayair jvalan vivasvān iva toyada^atyaye//  
-  
-43.24ab/ haṃsa^paṅktibhir itas tato +adrirāṭ sampatadbhir iva śuklacāmaraiḥ//  
-  
-43.24cd/ mṛṣṭagandha^pavana^anuvāhibhir dhūyamāna^rucira^srag^ambaraḥ/  
-  
-43.25ab/ naikavarṇa^maṇi^vajra^bhūṣitair bhūṣito mukuṭa^kuṇḍala^aṅgadaiḥ/  
-  
-43.25cd/ bhūri^ratna^kiraṇa^anurañjitaḥ śakrakārmuka^*ruciṃ[K.rucaṃ] samudvahan//  
-  
-43.26ab/ utpatadbhir iva khaṃ turaṅgamair dārayadbhir iva dantibhir dharām/  
-  
-43.26cd/ nirjita^aribhir iva^amarair naraiḥ śakravat parivṛto vrajen nṛpaḥ//  
-  
-43.27ab/ savajra^muktāphala^bhūṣaṇo +atha vā sita^srag^uṣṇīṣa^vilepana^ambaraḥ/  
-  
-43.27cd/ dhṛta^ātapatro gaja^pṛṣṭham āśrito ghana^upari^iva^indutale bhṛgoḥ sutaḥ//  
-  
-43.28ab/ samprahṛṣṭa^nara^vāji^kuñjaraṃ nirmala^praharaṇa^aṃśu^bhāsuram/  
-  
-43.28cd/ nirvikāram ari^pakṣa^bhīṣaṇaṃ yasya sainyam acirāt sa gāṃ jayet//  
-
-44 khañjanakalakṣaṇādhyāyaḥ  
-
-44.01ab/ khañjanako nāma^ayaṃ yo vihagas tasya darśane prathame/  
-  
-44.01cd/ proktāni yāni munibhiḥ phalāni tāni pravakṣyāmi//  
-  
-44.02ab/ sthūlo^abhyunnata^kaṇṭhaḥ kṛṣṇa^galo bhadrakārako bhadraḥ/  
-  
-44.02cd/ ākaṇṭha^mukhāt kṛṣṇaḥ sampūrṇaḥ pūrayaty āśām//  
-  
-44.03ab/ kṛṣṇo gale +asya binduḥ sita^karaṭāntaḥ sa riktakṛd riktaḥ/  
-  
-44.03cd/ pīto gopīta iti kleśakaraḥ khañjano dṛṣṭaḥ//  
-  
-44.04ab/ atha madhura^surabhi^phala^kusuma^taruṣu salilāśayeṣu puṇyeṣu/  
-  
-44.04cd/ kari^turaga^bhujaga^mūrdhni prāsāda^udyāna^harmyeṣu//  
-  
-44.05ab/ go^goṣṭha^sat^samāgama^yajña^utsava^pārthiva^dvija^samīpe/  
-  
-44.05cd/ hasti^turaṅgama^śālā^cchatra^dhvaja^cāmara^ādyeṣu//  
-  
-44.06ab/ hema^samīpa^sita^ambara^kamala^utpala^pūjita^upalipteṣu/  
-  
-44.06cd/ dadhi^pātra^dhānya^kūṭeṣu ca śriyaṃ khañjanaḥ kurute//  
-  
-44.07ab/ paṅke svādv^anna^āptir gorasa^sampac ca gomaya^upagate/  
-  
-44.07cd/ śādvalage vastra^āptiḥ śakaṭasthe deśa^vibhraṃśaḥ//  
-  
-44.08ab/ gṛhapaṭale +arthabhraṃśo *badhre[K.vadhre] bandho +aśucau bhavati rogaḥ/  
-  
-44.08cd/ pṛṣṭhe tv aja^āvikānāṃ priya^saṅgamam āvahaty āśu//  
-  
-44.09ab/ mahiṣa^uṣṭra^gardabha^asthiśmaśāna^gṛhakoṇa^śarkara^*aṭṭa[K.adri]sthaḥ/  
-  
-44.09cd/ prākāra^bhasma^keśeṣu ca^aśubho maraṇa^rug^bhayadaḥ//  
-  
-44.10ab/ pakṣau dhunvan na śubhaḥ śubhaḥ piban vāri nimnagā^saṃsthaḥ/  
-  
-44.10cd/ sūryodaye *praśasto[K.+atha śasto] na^iṣṭaphalaḥ khañjano +astamaye//  
-  
-44.11ab/ nīrājane nivṛtte yayā diśā khañjanaṃ nṛpo yāntam/  
-  
-44.11cd/ paśyet tayā gatasya kṣipram arātir vaśam upaiti//  
-  
-44.12a tasmin nidhir bhavati maithunam eti yasmin  
-  
-44.12b yasmiṃs tu chardayati tatra tale +asti kācam/  
-  
-44.12c aṅgāram apy upadiśanti purīṣaṇe +asya  
-  
-44.12d tat^kautuka^apanayanāya khaned dharitrīm//  
-  
-44.13ab/ mṛta^vikala^vibhinna^rogitaḥ svatanu^samāna^phalapradaḥ khagaḥ/  
-  
-44.13cd/ dhanakṛd abhinilīyamānako viyati ca bandhu^samāgama^pradaḥ//  
-  
-44.14ab/ nṛpatir api śubhaṃ śubhapradeśe khagam avalokya mahītale vidadhyāt/  
-  
-44.14cd/ surabhi^kusuma^dhūpa^yuktam arghaṃ śubham *abhinandim[K.ū.abhinanditam] evam eti vṛddhim//  
-  
-44.15ab/ aśubham api vilokya khañjanaṃ dvija^guru^sādhu^sura^arcane rataḥ/  
-  
-44.15cd/ na nṛpatir aśubhaṃ *samāpnuyāt[K.samāpnuyān] na yadi dināni ca sapta māṃsabhuk//  
-  
-44.16ab/ āvarṣāt prathame darśane phalaṃ pratidinaṃ tu *dinaśeṣāt[K.dinaśeṣe]/  
-  
-44.16cd/ dik^sthāna^mūrti^lagna^ṛkṣa^śānta^dīpta^ādibhiś ca^ūhyam//  
-
-45 utpātādhyāyaḥ  
-
-45.01ab/ yān atrer utpātān gargaḥ provāca tān ahaṃ vakṣye/  
-  
-45.01cd/ teṣāṃ saṃkṣepo +ayaṃ prakṛter anyatvam utpātaḥ//  
-  
-45.02ab/ apacāreṇa narāṇām upasargaḥ pāpasañcayād bhavati/  
-  
-45.02cd/ saṃsūcayanti divya^āntarikṣa^bhaumās *ta utpātāḥ[K.tadutpātāḥ]//  
-  
-45.03ab/ manujānām apacārād aparaktā devatāḥ sṛjanty etān/  
-  
-45.03cd/ tatpratighātāya nṛpaḥ śāntiṃ rāṣṭre prayuñjīta//  
-  
-45.04ab/ divyaṃ graha^ṛkṣa^vaikṛtam ulkā^nirghāta^pavana^pariveṣāḥ/  
-  
-45.04cd/ gandharvapura^purandaracāpa^ādi yad āntarikṣaṃ tat//  
-  
-45.05ab/ bhaumaṃ cara^sthira^bhavaṃ tat^śāntibhir āhataṃ śamam upaiti/  
-  
-45.05cd/ nābhasam upaiti mṛdutāṃ śāmyati no divyam ity eke//  
-  
-45.06ab/ divyam api śamam upaiti prabhūta^kanaka^anna^go^mahī^dānaiḥ/  
-  
-45.06cd/ rudra^āyatane bhūmau godohāt koṭihomāc ca//  
-  
-45.07ab/ ātma^suta^kośa^vāhana^pura^dāra^purohiteṣu *loke ca[K.lokeṣu]/  
-  
-45.07cd/ pākam upayāti daivaṃ parikalpitam aṣṭadhā nṛpateḥ//  
-  
-45.08ab/ animitta^bhaṅga^calana^sveda^aśru^nipāta^jalpana^ādyāni/  
-  
-45.08cd/ liṅga^ārcā^āyatanānāṃ nāśāya nareśa^deśānām//  
-  
-45.09ab/ daivatayātrā^śakaṭākṣa^cakra^yuga^ketu^bhaṅga^patanāni/  
-  
-45.09cd/ samparyāsana^sādana^*saṅgaś[K.saṅgāś] ca na deśa^nṛpa^śubhadāḥ//  
-  
-45.10ab/ ṛṣi^dharma^pitṛ^brahma^prodbhūtaṃ vaikṛtaṃ dvijātīnām/  
-  
-45.10cd/ yad rudra^lokapāla^udbhavaṃ paśūnām aniṣṭaṃ tat//  
-  
-45.11ab/ guru^sita^śanaiścara^utthaṃ purodhasāṃ viṣṇujaṃ ca lokānām/  
-  
-45.11cd/ skanda^viśākha^samutthaṃ māṇḍalikānāṃ narendrāṇām//  
-  
-45.12ab/ vedavyāse mantriṇi vināyake vaikṛtaṃ camūnāthe/  
-  
-45.12cd/ dhātari saviśvakarmaṇi lokābhāvāya nirdiṣṭam//  
-  
-45.13ab/ deva^kumāra^kumārī^vanitā^preṣyeṣu vaikṛtaṃ yat syāt/  
-  
-45.13cd/ tan narapateḥ kumāraka^kumārikā^strī^parijanānām//  
-  
-45.14ab/ rakṣaḥ^piśāca^*gṛhyaka[U.guhyaka]^nāgānām *evam[K.etad] eva *nirdiṣṭam[K.nirdeśyam]/  
-  
-45.14cd/ māsaiś ca^apy aṣṭābhiḥ sarveṣām eva phalapākaḥ//  
-  
-45.15ab/ buddhvā devavikāraṃ śuciḥ purodhās tryaha^uṣitaḥ snātaḥ/  
-  
-45.15cd/ snāna^kusuma^anulepana^vastrair abhyarcayet pratimām//  
-  
-45.16ab/ madhuparkeṇa purodhā *bhakṣyair[K.bakṣair] balibhiś ca vidhivad upatiṣṭhet/  
-  
-45.16cd/ sthālīpākaṃ juhuyād vidhivan mantraiś ca tal^liṅgaiḥ//  
-  
-45.17a iti vibudha^vikāre śāntayaḥ saptarātraṃ  
-  
-45.17b dvija^vibudha^gaṇa^arcā gīta^nṛtya^utsavāś ca/  
-  
-45.17c vidhivad avani^pālair yaiḥ prayuktā na teṣāṃ  
-  
-45.17d bhavati durita^pāko dakṣiṇābhiś ca ruddhaḥ//  
-  
-45.18ab/ rāṣṭre yasya^anagniḥ pradīpyate dīpyate ca na^indhanavān/  
-  
-45.18cd/ manujeśvarasya pīḍā tasya *ca[K.omitted] rāṣṭrasya vijñeyā//  
-  
-45.19ab/ jala^māṃsa^ārdra^jvalane nṛpati^vadhaḥ praharaṇe raṇo raudraḥ/  
-  
-45.19cd/ sainya^grāma^pureṣu ca nāśo vahner bhayaṃ kurute//  
-  
-45.20ab/ prāsāda^bhavana^toraṇa^ketv^ādiṣv ananalena dagdheṣu/  
-  
-45.20cd/ taḍitā vā ṣaṇmāsāt paracakrasya^āgamo niyamāt//  
-  
-45.21ab/ dhūmo +anagni^samuttho rajas tamaś ca^ahnijaṃ mahā^bhayadam/  
-  
-45.21cd/ vyabhre niśy uḍunāśo darśanam api ca^ahni doṣakaram//  
-  
-45.22ab/ nagara^*catuṣpād^aṇḍaja[K.catuṣpāda^aṇḍaja]^manujānāṃ bhayakaraṃ jvalanam āhuḥ/  
-  
-45.22cd/ dhūma^agni^visphuliṅgaiḥ śayyā^ambara^keśagair mṛtyuḥ//  
-  
-45.23ab/ āyudha^jvalana^sarpaṇa^svanāḥ kośa^nirgamana^vepanāni vā/  
-  
-45.23cd/ vaikṛtāni yadi vā^āyudhe +aparāṇy āśu raudra^raṇa^saṅkulaṃ vadet//  
-  
-45.24a mantrair *āgneyaiḥ[K.vāhnaiḥ] kṣīravṛkṣāt samidbhir  
-  
-45.24b hotavyo +agniḥ sarṣapaiḥ sarpiṣā ca/  
-  
-45.24c agnyādīnāṃ vaikṛte śāntir evaṃ  
-  
-45.24d deyaṃ ca^asmin kāñcanaṃ brāhmaṇebhyaḥ//  
-  
-45.25ab/ śākhābhaṅge +akasmād vṛkṣāṇāṃ nirdiśed raṇodyogam/  
-  
-45.25cd/ hasane deśabhraṃśaṃ rudite ca vyādhi^bāhulyam//  
-  
-45.26ab/ rāṣṭra^vibhedas tv anṛtau bālavadho +atīva kusumite bāle/  
-  
-45.26cd/ vṛkṣāt kṣīrasrāve sarvadravya^kṣayo bhavati//  
-  
-45.27ab/ madye vāhana^nāśaḥ saṃgrāmaḥ śoṇite madhuni rogaḥ/  
-  
-45.27cd/ snehe durbhikṣa^bhayaṃ mahadbhayaṃ *niḥsrute[K.niḥsṛte] salile//  
-  
-45.28ab/ śuṣka^virohe vīrya^anna^saṃkṣayaḥ śoṣaṇe ca virujānām/  
-  
-45.28cd/ patitānām utthāne svayaṃ bhayaṃ daivajanitaṃ ca//  
-  
-45.29ab/ pūjitavṛkṣe hy anṛtau kusumaphalaṃ nṛpa^vadhāya nirdiṣṭam/  
-  
-45.29cd/ dhūmas tasmin jvālā +atha vā bhaven nṛpa^vadhāya^eva//  
-  
-45.30ab/ sarpatsu taruṣu jalpatsu vā^api jana^saṃkṣayo vinirdiṣṭaḥ/  
-  
-45.30cd/ vṛkṣāṇāṃ vaikṛtye daśabhir māsaiḥ phala^vipākaḥ//  
-  
-45.31ab/ srag^gandha^dhūpa^ambara^pūjitasya chatraṃ vidhāya^upari pādapasya/  
-  
-45.31cd/ kṛtvā śivaṃ rudrajapo +atra kāryo rudrebhya ity atra *ṣaḍ eva homāḥ[K.ṣaḍaṅgahomaḥ]//  
-  
-45.32ab/ pāyasena *madhunāpi[K.madhunā ca] bhojayed brāhmaṇān ghṛtayutena bhūpatiḥ/  
-  
-45.32cd/ medinī nigaditā^atra dakṣiṇā vaikṛte tarukṛte hitārthibhiḥ//  
-  
-45.33ab/ nāle +abja^yava^ādīnām ekasmin dvi^tri^sambhavo maraṇam/  
-  
-45.33cd/ kathayati tadadhipatīnāṃ yamalaṃ jātaṃ ca kusumaphalam//  
-  
-45.34ab/ ativṛddhiḥ sasyānāṃ nānā^phala^kusuma^*sambhavo[K.bhavo] vṛkṣe/  
-  
-45.34cd/ bhavati hi yady ekasmin paracakrasya^āgamo niyamāt//  
-  
-45.35ab/ ardhena yadā tailaṃ bhavati tilānām atailatā vā syāt/  
-  
-45.35cd/ annasya ca vairasyaṃ tadā tu vindyād bhayaṃ sumahat//  
-  
-45.36ab/ vikṛta^kusumaṃ phalam vā grāmād atha vā purād vahiḥ[K.ū.bahiḥ] kāryam/  
-  
-45.36cd/ saumyo +atra caruḥ kāryo nirvāpyo vā paśuḥ śāntyai//  
-  
-45.37a sasye ca dṛṣṭvā vikṛtiṃ pradeyaṃ  
-  
-45.37b tatkṣetram eva prathamaṃ dvijebhyaḥ/  
-  
-45.37c tasya^eva madhye carum atra bhaumaṃ  
-  
-45.37d kṛtvā na doṣaṃ samupaiti *tajjam[K.tajjān]//  
-  
-45.38ab/ durbhikṣam *anāvṛṣṭāv ativṛṣṭau[K.anāvṛṣṭyām ativṛṣṭyām] kṣudbhayaṃ *parabhayaṃ ca[K.saparacakram]/  
-  
-45.38cd/ rogo hy anṛtu^bhavāyāṃ *nṛpati^vadho[K.nṛpa^vadho] +anabhrajātāyām//  
-  
-45.39ab/ śīta^uṣṇa^*viparyāso[K.viparyāse] no samyagṛtuṣu ca sampravṛtteṣu/  
-  
-45.39cd/ ṣaṇmāsād rāṣṭra^bhayaṃ roga^bhayaṃ daiva^janitaṃ ca//  
-  
-45.40ab/ anya^ṛtau saptāhaṃ prabandha^varṣe pradhāna^nṛpa^maraṇam/  
-  
-45.40cd/ rakte śastra^udyogo māṃsa^asthi^vasā^ādibhir marakaḥ//  
-  
-45.41ab/ dhānya^hiraṇya^tvak^phala^kusuma^ādyair varṣitair bhayaṃ vindyāt/  
-  
-45.41cd/ aṅgāra^pāṃśu^varṣe vināśam āyāti tannagaram//  
-  
-45.42ab/ upalā vinā jaladharair vikṛtā vā prāṇino yadā vṛṣṭāḥ/  
-  
-45.42cd/ chidraṃ vā^apy ativṛṣṭau sasyānām īti^saṃjananam//  
-  
-[K.one verse inserted  
-  
-K. 46.43ab/ kṣīra^ghṛta^kṣaudrāṇāṃ dadhno rudhira^uṣṇa^vāriṇāṃ[K's tr. vāriṇo] varṣe/  
-  
-K. 46.43cd/ deśavināśo jñeyo +asṛgvarṣe ca api nṛpa^yuddham//]  
-  
-45.43ab/ yady amale +arke chāyā na dṛśyate pratīpā vā/  
-  
-45.43cd/ deśasya tadā sumahad^bhayam āyātaṃ vinirdeśyam//  
-  
-45.44ab/ vyabhre nabhasi^indradhanur divā yadā dṛśyate +atha vā rātrau/  
-  
-45.44cd/ prācyām aparasyāṃ vā tadā bhavet kṣudbhyaṃ sumahat//  
-  
-45.45ab/ sūrya^indu^parjanya^samīraṇānāṃ *yāgaḥ[K.yogaḥ] smṛto vṛṣṭi^vikāra^kāle/  
-  
-45.45cd/ dhānya^anna^go^kāñcana^dakṣiṇāś ca deyās tataḥ śāntim upaiti pāpam//  
-  
-45.46ab/ apasarpaṇaṃ nadīnām nagarād acireṇa śūnyatāṃ kurute/  
-  
-45.46cd/ śoṣaś ca^aśoṣyāṇām anyeṣāṃ vā hradādīnām//  
-  
-45.47ab/ snehā^sṛg^māṃsa^vahāḥ saṅkula^kaluṣāḥ pratīpagāś ca^api/  
-  
-45.47cd/ paracakrasya^āgamanaṃ nadyaḥ kathayanti ṣaṇmāsāt//  
-  
-45.48ab/ jvālā^dhūma^kvātha^ārudita^utkruṣṭāni ca^eva kūpānām/  
-  
-45.48cd/ gīta^prajalpitāni ca jana^marakāya^*upadiṣṭāni[K.pradiṣṭāni]//  
-  
-45.49ab/ *salila[K.toya]^utpattir akhāte gandha^rasa^viparyaye ca toyānām/  
-  
-45.49cd/ salilāśaya^vikṛtau vā mahadbhayaṃ tatra śantim *imām[K.iyam]//  
-  
-45.50ab/ salila^vikāre kuryāt pūjāṃ varuṇasya vāruṇair mantraiḥ/  
-  
-45.50cd/ tair eva ca japa^homaṃ śamam evaṃ pāpam upayāti//  
-  
-45.51ab/ prasava^vikāre strīṇāṃ dvi^tri^catuṣ^prabhṛti^samprasūtau vā/  
-  
-45.51cd/ hīna^atirikta^kāle ca deśa^kula^saṃkṣayo bhavati//  
-  
-45.52ab/ vaḍavā^uṣṭra^mahiṣa^go^hastinīṣu yamala^udbhave *raṇa^maraṇam[K.maraṇam] eṣām/  
-  
-45.52cd/ ṣaṇmāsāt sūtiphalaṃ śāntau ślokau ca garga^uktau//  
-  
-45.53ab/ nāryaḥ parasya viṣaye tyaktavyās tā hita^arthinā/  
-  
-45.53cd/ tarpayec ca dvijān kāmaiḥ śāntiṃ ca^eva^atra kārayet//  
-  
-45.54ab/ catuṣpādāḥ sva^yūthebhyas tyaktavyāḥ para^bhūmiṣu/  
-  
-45.54cd/ nagaraṃ svāminaṃ yūtham anyathā tu vināśayet//  
-  
-45.55ab/ parayonāv abhigamanaṃ bhavati tiraścām asādhu dhenūnām/  
-  
-45.55cd/ ukṣāṇo vā^anyonyaṃ pibati śvā vā surabhi^putram//  
-45.56ab/ māsatrayeṇa vindyāt tasmin niḥsaṃśayaṃ para^āgamanam/  
-  
-45.56cd/ tatpratighātāya^etau ślokau gargeṇa nirdiṣṭau//  
-  
-45.57ab/ tyāgo vivāsanaṃ dānaṃ tat tasya^āśu śubhaṃ bhavet/  
-  
-45.57cd/ tarpayed brāhmaṇāṃś ca^atra japa^homāṃś ca kārayet//  
-  
-45.58ab/ sthālīpākena dhātāraṃ paśunā ca purohitaḥ/  
-  
-45.58cd/ prājāpatyena mantreṇa yajed bahv^anna^dakṣiṇam//  
-  
-45.59ab/ yānaṃ vāha^viyuktaṃ yadi gacchen na vrajec ca vāha^yutam/  
-  
-45.59cd/ rāṣṭra^bhayaṃ bhavati tadā cakrāṇāṃ sāda^bhaṅge ca//  
-  
-45.60ab[K.46.61ab]/ gītarava^tūryaśabdā nabhasi yadā vā cara^sthira^anyatvam/  
-  
-45.60cd[K.46.61cd]/ mṛtyus tadā gadā vā *visvatūrye[K.ū.visvaratārye] para^abhibhavaḥ//  
-  
-45.61ab[K.46.62ab]/ anabhihata^tūrya^nādaḥ śabdo vā tāḍiteṣu yadi na syāt/  
-  
-45.61cd[K.46.62cd]/ vyutpattau vā teṣāṃ para^āgamo nṛpati^maraṇaṃ vā//  
-  
-45.62ab/ go^lāṅgalayoḥ saṅge darvī^śūrpa^ādy^upaskara^vikāre/  
-  
-45.62cd/ kroṣṭuka^nāde ca tathā śastra^bhayaṃ munivacaś ca^idam//  
-  
-45.63ab/ vāyavyeṣv eṣu nṛpatir vāyuṃ śaktubhir arcayet/  
-  
-45.63cd/ āvāyor iti pañcarco *japtavyāḥ[K.jāpyāś ca] prayatair dvijaiḥ//  
-  
-45.64ab/ brāhmaṇān parama^annena dakṣiṇābhiś ca tarpayet/  
-  
-45.64cd/ bahv^anna^dakṣiṇā homāḥ kartavyāś ca prayatnataḥ//  
-  
-45.65ab/ pura^pakṣiṇo vanacarā vanyā vā nirbhayā viśanti puram/  
-  
-45.65cd/ naktaṃ vā divasa^carāḥ kṣapā^carā vā caranty ahani//  
-  
-45.66ab/ sandhyā^dvaye +api maṇḍalam ābadhnanto mṛgā vihaṅgā vā/  
-  
-45.66cd/ dīptāyāṃ diśy atha vā krośantaḥ saṃhatā bhayadāḥ//  
-  
-45.67ab/ *śyenāḥ[K.śvānaḥ] prarudanta iva dvāre krośanti jambukā dīptāḥ/  
-  
-45.67cd/ praviśen narendra^bhavane kapotakaḥ kauśiko yadi vā//  
-  
-45.68ab/ kukkuṭa^rutaṃ pradoṣe hemanta^ādau ca kokila^ālāpāḥ/  
-  
-45.68cd/ pratiloma^maṇḍala^carāḥ śyena^ādyāś ca^ambare bhayadāḥ//  
-  
-45.69ab/ gṛha^caitya^toraṇeṣu dvāreṣu ca pakṣi^saṅgha^*sampātaḥ[K.sampātāḥ]/  
-  
-45.69cd/ madhu^valmīka^ambhoruha^*samudbhavaś[K.samudbhavāś] ca^api nāśāya//  
-  
-45.70ab/ śvabhir asthi^śava^avayava^praveśanaṃ mandireṣu marakāya/  
-  
-45.70cd/ paśu^śastra^vyāhāre nṛpa^mṛtyur munivacaś ca^idam//  
-  
-45.71ab/ mṛga^pakṣi^vikāreṣu kuryād *dhīmān[K.ū.dhomān] sadakṣiṇān/  
-  
-45.71cd/ devāḥ kapota iti ca japtavyāḥ pañcabhir dvijaiḥ//  
-  
-45.72ab/ sudevā iti ca^ekena deyā gāvaḥ *sadakṣiṇāḥ[K.ca dakṣiṇā]/  
-  
-45.72cd/ japet^śākuna^sūktaṃ vā mano vedaśirāṃśi ca//  
-  
-45.73ab/ śakradhvaja^indrakīla^stambhadvāra^prapāta^bhaṅgeṣu/  
-  
-45.73cd/ tadvat kapāṭa^toraṇa^ketūnāṃ narapater maraṇam//  
-  
-45.74ab/ sandhyā^dvayasya dīptir dhūma^utpattiś ca kānane +anagnau/  
-  
-45.74cd/ chidra^abhāve bhūmer daraṇaṃ kampaś ca bhayakārī//  
-  
-45.75a *pākhaṇḍāṇāṃ[K.pāṣaṇḍāṇāṃ] nāstikānāṃ ca bhaktaḥ  
-  
-45.75b sādhv^ācāra^projjhitaḥ krodha^śīlaḥ/  
-  
-45.75c īrṣyuḥ krūro vigraha^āsakta^cetā  
-  
-45.75d yasmin rājā tasya deśasya nāśaḥ//  
-  
-45.76ab/ prahara hara chindhi bhindhi^ity āyudha^kāṣṭha^aśma^pāṇayo bālāḥ/  
-  
-45.76cd/ nigadantaḥ praharante tatra^api bhayaṃ bhavaty āśu//  
-  
-45.77ab/ aṅgāra^gairika^ādyair vikṛta^preta^abhilekhanaṃ yasmin/  
-  
-45.77cd/ nāyaka^citritam atha vā kṣaye kṣayaṃ yāti na cireṇa//  
-  
-45.78ab/ lūtā^paṭa^aṅga^śabalaṃ na sandhyayoḥ pūjitaṃ kalaha^yuktam/  
-  
-45.78cd/ nitya^ucchiṣṭa^strīkaṃ ca yad gṛhaṃ tat kṣayaṃ yāti//  
-  
-45.79ab/ dṛṣṭeṣu yātudhāneṣu nirdiśen marakam āśu samprāptam/  
-  
-45.79cd/ pratighātāya^eteṣāṃ gargaḥ śāntiṃ cakāra^imām//  
-  
-45.80ab/ mahāśāntyo +atha balayo bhojyāni sumahānti ca/  
-  
-45.80cd/ kārayeta mahendraṃ ca *māhendrīṃ[K.mahendrībhiḥ] ca samarcayet//  
-  
-45.81ab/ narapati^deśa^vināśe ketor udaye +atha vā grahe +arkendvoḥ/  
-  
-45.81cd/ utpātānāṃ prabhavaḥ sva^ṛtubhavaś ca^apy adoṣāya//  
-  
-45.82ab/ ye ca na doṣān janayanty utpātās tān ṛtu^svabhāva^kṛtān/  
-45.82cd/ ṛṣiputra^kṛtaiḥ ślokair vidyād etaiḥ samāsa^uktaiḥ//  
-  
-45.83ab/ vajra^aśani^mahī^kampa^sandhyā^nirghāta^niḥsvanāḥ/  
-  
-45.83cd/ pariveṣa^rajo^dhūma^rakta^arka^*astamaya[K.astamana]^udayāḥ//  
-  
-45.84ab/ drumebhyo +anna^rasa^sneha^bahu^puṣpa^phala^udgamāḥ/  
-  
-45.84cd/ go^pakṣi^mada^vṛddhiś ca śivāya madhu^mādhave//  
-  
-45.85ab/ tārā^ulkā^pāta^kaluṣaṃ kapila^arkendu^maṇḍalam/  
-  
-45.85cd/ anagni^jvalana^sphoṭa^dhūma^reṇv^anila^āhatam//  
-  
-45.86ab/ rakta^padma^*aruṇā[K.aruṇam] *sandhyā[K.sandhyaṃ] nabhaḥ kṣubdha^arṇava^upamam/  
-  
-45.86cd/ saritāṃ ca^ambu^saṃśoṣaṃ dṛṣṭvā grīṣme śubhaṃ vadet//  
-  
-45.87ab/ śakrāyudha^parīveṣa^vidyut^śuṣka^virohaṇam/  
-  
-45.87cd/ kampa^udvartana^vaikṛtyaṃ rasanaṃ daraṇaṃ kṣiteḥ//  
-  
-45.88ab/ saro^nady^udapānānāṃ vṛddhy^ūrdhva^taraṇa^plavāḥ/  
-  
-45.88cd/ saraṇaṃ ca^adri^gehānāṃ varṣāsu na bhaya^āvaham//  
-  
-45.89ab/ divya^strī^bhūta^gandharva^vimāna^adbhuta^darśanam/  
-  
-45.89cd/ graha^nakṣatra^tārāṇāṃ darśanaṃ ca divā +ambare//  
-  
-45.90ab/ gīta^vāditra^nirghoṣā vana^parvata^sānuṣu/  
-  
-45.90cd/ sasya^vṛddhir apāṃ hānir apāpāḥ śaradi smṛtāḥ//  
-  
-45.91ab/ śīta^anila^tuṣāratvaṃ nardanaṃ mṛga^pakṣiṇām/  
-  
-45.91cd/ rakṣo^yakṣa^ādi^sattvānāṃ darśanaṃ vāg amanuṣī//  
-  
-45.92ab/ diśo dhūma^andhakārāś ca sa^nabho^vana^parvatāḥ/  
-  
-45.92cd/ uccaiḥ sūrya^udaya^astau ca hemante śobhanāḥ smṛtāḥ//  
-  
-45.93ab/ hima^pāta^anila^utpātā virūpa^adbhuta^darśanam/  
-  
-45.93cd/ kṛṣṇa^añjana^ābham ākāśaṃ tārā^ulkā^pāta^piñjaram//  
-  
-45.94ab/ citra^garbha^udbhavāḥ strīṣu go^aja^aśva^mṛga^pakṣiṣu/  
-  
-45.94cd/ patra^aṅkura^latānāṃ ca vikārāḥ śiśire śubhāḥ//  
-  
-45.95ab/ ṛtu^svabhāva^jā hy ete dṛṣṭāḥ sva^ṛtau śubha^pradāḥ/  
-  
-45.95cd/ ṛtor anyatra ca^utpātā dṛṣṭās te *ca^atidāruṇāḥ[K.bṛśadārunāḥ]//  
-  
-45.96ab/ unmattānāṃ ca yā gāthāḥ śiśūnāṃ *yac ca bhāṣitam[K.bhāṣitaṃ ca yat]/  
-  
-45.96cd/ striyo yac ca prabhāṣante tasya nāsti vyatikramaḥ//  
-  
-45.97ab/ pūrvaṃ carati deveṣu paścāc *carati[K.gacchati] mānuṣān/  
-  
-45.97cd/ na^acoditā vāg vadati satyā hy eṣā sarasvatī//  
-  
-45.98a utpātān gaṇita^vivarjito +api buddhvā  
-  
-45.98b vikhyāto bhavati narendra^vallabhaś ca/  
-  
-45.98c etat tan^munivacanaṃ rahasyam uktaṃ  
-  
-45.98d yaj jñātvā bhavati naras trikāladarśī//  
-
-46 mayūracitrakādhyāyaḥ  
-
-46.01ab/ divya^āntarikṣa^āśrayam uktam ādau mayā phalaṃ śastam aśobhanaṃ ca/  
-  
-46.01cd/ prāyeṇa cāreṣu samāgameṣu yuddheṣu mārga^ādiṣu vistareṇa//  
-  
-46.02a bhūyo varāhamihirasya na yuktam etat  
-  
-46.02b kartuṃ samāsakṛd asav iti tasya doṣaḥ/  
-  
-46.02c tajjñair na vācyam idam uktaphala^anugīti  
-  
-46.02d yad *barhi[K.varhi]citrakam iti prathitaṃ varāṅgam//  
-  
-46.03ab/ svarūpam eva tasya tat^prakīrtita^anukīrtanam/  
-  
-46.03cd/ bravīmy ahaṃ na ced idaṃ tathā +api me +atra vācyatā//  
-  
-46.04ab/ uttaravīthi^gatā dyutimantaḥ kṣema^*śubhikṣa[U.subhikṣa]^śivāya samastāḥ/  
-  
-46.04cd/ dakṣiṇa^mārga^gatā dyutihīnāḥ kṣudbhaya^taskara^mṛtyu^karās te//  
-  
-46.05ab/ koṣṭhāgāra^gate bhṛgu^putre puṣyasthe ca girām prabhaviṣṇau/  
-  
-46.05cd/ nirvairāḥ kṣitipāḥ sukhabhājaḥ saṃhṛṣṭāś ca janā gatarogāḥ//  
-  
-46.06ab/ pīḍayanti yadi kṛttikāṃ maghāṃ rohiṇīṃ śravam aindram eva vā/  
-  
-46.06cd/ projjhya sūryam apare grahās tadā paścimā dig anayena pīḍyate//  
-  
-46.07a prācyāṃ ced dhvajavad avasthitā dinānte  
-  
-46.07b prācyānāṃ bhavati hi vigraho nṛpāṇām/  
-  
-46.07c madhye ced bhavati hi madhyadeśa^*pīṭhā[K.ū.pīḍā]  
-  
-46.07d rūkṣais tair na tu *ruciman[K.rucirair] mayūkhavadbhiḥ//  
-  
-46.08ab/ dakṣiṇāṃ kakubham *āśritas[K.āśritais] tu tair dakṣiṇāpathapayomucāṃ kṣayaḥ/  
-  
-46.08cd/ hīna^rūkṣa^tanubhiś ca vigrahaḥ sthūla^deha^kiraṇa^anvitaiḥ śubham//  
-  
-46.09ab/ uttaramārge spaṣṭa^mayūkhāḥ śāntikarās te tan nṛpatīnām/  
-  
-46.09cd/ hrasva^śarīrā bhasma^savarṇā doṣakarāḥ syur deśa^nṛpāṇām//  
-  
-46.10a nakṣatrāṇāṃ tārakāḥ sagrahāṇām  
-  
-46.10b dhūmajvālāvisphuliṅgānvitāś cet/  
-  
-46.10c ālokaṃ vā nirnimittaṃ na yānti  
-  
-46.10d yāti dhvaṃsaṃ sarvalokaḥ sabhūpaḥ//  
-  
-46.11a divi bhāti yadā tuhināṃśuyugaṃ  
-  
-46.11b dvija^vṛddhir atīva tadāśu śubhā/  
-  
-46.11c tadanantaravarṇaraṇo +arkayuge  
-  
-46.11d jagataḥ pralayas tricatuṣprabhṛti//  
-  
-46.12a munīn abhijitaṃ dhruvaṃ maghavataś ca bhaṃ saṃspṛśan  
-  
-46.12b śikhī ghanavināśakṛt kuśalakarmahā śokadaḥ/  
-  
-46.12c *bhujaṅgam[K.bhujaṅgabham] atha saṃspṛśed bhavati vṛṣṭināśo dhruvaṃ  
-  
-46.12d kṣayaṃ vrajati vidruto janapadaś ca bālākulaḥ//  
-  
-46.13ab/ prāgdvāreṣu caran raviputro nakṣatreṣu karoti ca vakram/  
-  
-46.13cd/ durbhikṣaṃ kurute *mahadugraṃ[K.bhayam ugraṃ] mitrāṇāṃ ca virodham avṛṣṭim//  
-  
-46.14ab/ rohiṇīśakaṭam arkanandano yadi bhinatti rudhiro +atha vā śikhī/  
-  
-46.14cd/ kiṃ vadāmi yad aniṣṭasāgare jagad aśeṣam upayāti saṃkṣayam//  
-  
-46.15ab/ udayati satataṃ yadā śikhī carati bhacakram aśeṣam eva vā/  
-  
-46.15cd/ anubhavati purākṛtaṃ tadā phalam aśubhaṃ sacara^acaraṃ jagat//  
-  
-46.16a dhanuḥsthāyī rūkṣo rudhirasadṛśaḥ kṣudbhayakaro  
-  
-46.16b balodyogaṃ *candraḥ[K.cenduḥ] kathayati jayaṃ jyā +asya ca yataḥ/  
-  
-46.16c gavāṃ{avāk] śṛṅgo goghno nidhanam api sasyasya kurute  
-  
-46.16d jvalan dhūmāyan vā nṛpatimaraṇāyaiva bhavati//  
-  
-46.17ab/ snigdhaḥ sthūlaḥ samaśṛṅgo viśālas tuṅgaś ca^udagvicaran nāgavīthyām/  
-  
-46.17cd/ dṛṣṭaḥ saumyair aśubhair viprayukto lokānandaṃ kurute +atīva candraḥ//  
-  
-46.18ab/ pitrya^maitra^puruhūta^viśākhā^tvāṣṭram etya ca yunakti śaśāṅkaḥ/  
-  
-46.18cd/ dakṣiṇena na *śubhaḥ śubhakṛt[K.śubho hitakṛt] syād yady udak carati madhyagato vā//  
-  
-46.19ab/ parigha iti megharekhā yā tiryagbhāskarodaye +aste vā/  
-  
-46.19cd/ paridhis tu pratisūryo daṇḍas tv ṛjur indracāpanibhaḥ//  
-  
-46.20ab/ udaye +aste vā bhānor ye dīrghā raśmayas tv amoghās te/  
-  
-46.20cd/ suracāpakhaṇḍam ṛju yad rohitam airāvataṃ dīrgham//  
-  
-46.21ab/ ardha^astamayāt sandhyā vyaktībhūtā na tārakā yāvat/  
-  
-46.21cd/ tejaḥparihāni mukhād bhānor ardha^udayo yāvat//  
-  
-46.22ab/ tasmin sandhyā^kāle cihnair etaiḥ śubha^aśubhaṃ vācyam/  
-  
-46.22cd/ sarvair etaiḥ snigdhaiḥ sadyo varṣaṃ bhayaṃ rūkṣaiḥ//  
-  
-46.23a acchinnaḥ parigho viyac ca vimalaṃ śyāmā mayūkhā raveḥ  
-  
-46.23b snigdhā dīdhitayaḥ *mitaṃ[K.ū.sitaṃ] suradhanurvidyuc ca pūrvottarā/  
-  
-46.23c snigdho meghatarur divākarakarair āliṅgato vā yadā  
-  
-46.23d vṛṣṭiḥ syād yadi vā +arkam astasamaye megho mahān chādayet//  
-  
-46.24ab/ khaṇḍo vakraḥ kṛṣṇo hrasvaḥ kāka^ādyair vā cihnair viddhaḥ/  
-  
-46.24cd/ yasmin deśe rūkṣaś cārkas tatrābhāvaḥ prāyo rājñaḥ//  
-  
-46.25ab/ vāhinīṃ samupayāti pṛṣṭhato māṃsabhuk khagagaṇo yuyutsataḥ/  
-  
-46.25cd/ yasya tasya balavidravo mahān agrais tu vijayo vihaṅgamaiḥ//  
-  
-46.26ab/ bhānor udaye yadi vāstamaye gandharvapurapratimā dhvajanī/  
-  
-46.26cd/ vimbaṃ niruṇaddhi tadā nṛpateḥ prāptaṃ samaraṃ sabhayaṃ pravadet//  
-  
-46.27ab/ śastā śāntidvijamṛgaghuṣṭā sandhyā snigdhā mṛdupavanā ca/  
-  
-46.27cd/ pāṃśudhvastā janapadanāśaṃ dhatte rūkṣā rudhiranibhā vā//  
-  
-46.28a yadvistareṇa kathitaṃ munibhis tad asmin  
-  
-46.28b sarvaṃ mayā nigaditaṃ punaruktavarjam/  
-  
-46.28c śrutvā +api kokila^rutaṃ balibhug virauti  
-  
-46.28d yat^tat svabhāvakṛtam asya pikaṃ na jetum//  
-
-47 puṣyasnānādhyāyaḥ  
-
-47.01ab/ mūlaṃ manujādhipatiḥ prajātaros tad upaghāta^saṃskārāt/  
-  
-47.01cd/ aśubhaṃ śubhaṃ ca loke bhavati yato +ato nṛpati^cintā//  
-  
-47.02ab/ yā vyākhyātā śāntiḥ svayambhuvā suraguror mahendra^arthe/  
-  
-47.02cd/ tāṃ prāpya vṛddhagargaḥ prāha yathā bhāgureḥ śṛṇuta//  
-  
-47.03ab/ puṣyasnānaṃ nṛpateḥ kartavyaṃ daivavit^purodhābhyām/  
-  
-47.03cd/ nātaḥ paraṃ pavitraṃ sarva^utpāta^antakaram asti//  
-  
-47.04ab/ śleṣmātaka^akṣa^kaṇṭaki^kaṭu^tikta^vigandhi^pādapa^vihīne/  
-  
-47.04cd/ kauśika^gṛdhraprabhṛtibhir aniṣṭa^vihagaiḥ parityakte//  
-  
-47.05ab/ taruṇa^taru^gulma^vallī^latā^pratāna^*anvite[K.āvṛte] vanoddeśe/  
-  
-47.05cd/ nirupahata^patra^pallava^manojña^madhuradrumaprāye//  
-  
-47.06ab/ kṛkavāku^jīva^jīvaka^śuka^śikhi^śatapatra^cāṣa^hārītaiḥ/  
-  
-47.06cd/ krakara^cakora^kapiñjala^vañjula^pārāvata^śrīkaiḥ//  
-  
-47.07ab/ kusuma^rasapāna^matta^dvirepha^puṃskokila^ādibhiś ca^anyaiḥ/  
-  
-47.07cd/ virute vanopakaṇṭhe kṣetra^āgāre śucāv atha vā//  
-  
-47.08ab/ *hṛdinī[K.ū.hradinī]^vilāsinīnāṃ jalakhaga^nakhavikṣateṣu ramyeṣu/  
-  
-47.08cd/ pulina^jaghaneṣu kuryād dṛk^manasoḥ prītijananeṣu//  
-47.09ab/ protpluta^haṃsa^cchatre kāraṇḍava^kurara^sārasa^udgīte/  
-  
-47.09cd/ phulla^indīvara^nayane sarasi sahasrākṣa^kānti^dhare//  
-  
-47.10ab/ protphulla^kamala^vadanāḥ kalahaṃsa^*kala[K.kalasvana]^prabhāṣiṇyaḥ/  
-  
-47.10cd/ prottuṅga^kuḍmala^kucā yasmin nalinī^vilāsinyaḥ//  
-  
-47.11ab/ kuryād goromanthaja^phenalava^śakṛt^khura^kṣata^upacite/  
-  
-47.11cd/ acira^prasūta^huṅkṛta^valgita^vatsa^utsave goṣṭhe//  
-  
-47.12ab/ atha vā samudratīre kuśala^āgata^*ratna^pota[K.potaratna]^sambādhe/  
-  
-47.12cd/ ghana^nicula^līna^jalacara^sitakhaga^śabalīkṛta^upānte//  
-  
-47.13ab/ kṣamayā krodha iva jitaḥ siṃho mṛgya^abhibhūyate *yeṣu[K.yatra]/  
-  
-47.13cd/ datta^abhaya^khaga^mṛga^śāvakeṣu teṣv āśrameṣv atha vā//  
-  
-47.14ab/ kāñcī^kalāpa^nūpura^gurujaghana^udvahana^vighnita^padābhiḥ/  
-  
-47.14cd/ śrīmati mṛgekṣaṇābhir gṛhe +anyabhṛta^valgu^vacanābhiḥ//  
-  
-47.15ab/ puṇyeṣv āyataneṣu ca tīrtheṣu^udyāna^ramya^deśeṣu/  
-  
-47.15cd/ pūrvodak^plava^bhūmau pradakṣiṇa^ambhovahāyāṃ ca//  
-  
-47.16ab/ bhasma^aṅgāra^asthy^ūṣara^tuṣa^keśa^śvabhra^karkaṭa^āvāsaiḥ/  
-  
-47.16cd/ *śvāvidha[K.śvāvin]^mūṣaka^vivarair valmīkair yā ca santyaktā//  
-  
-47.17ab/ dhātrī ghanā sugandhā snigdhā madhurā samā ca vijayāya/  
-  
-47.17cd/ senāvāse +apy evaṃ yojayitavyā yathāyogam//  
-  
-47.18ab/ niṣkramya purān naktaṃ daivajña^amātya^yājakāḥ prācyām/  
-  
-47.18cd/ kauberyāṃ vā kṛtvā baliṃ diśīśādhipāyāṃ vā//  
-  
-47.19ab/ lājā^akṣata^dadhi^kusumaiḥ prayataḥ praṇataḥ purohitaḥ kuryāt/  
-  
-47.19cd/ āvāhanam atha mantras tasmin munibhiḥ samuddiṣṭaḥ//  
-  
-47.20ab/ āgacchantu surāḥ sarve ye +atra pūjā^abhilāṣiṇaḥ/  
-  
-47.20cd/ diśo nāgā dvijāś ca^eva ye *ca^apy anye[K.cāney apy] +aṃśabhāginaḥ//  
-  
-47.21ab/ āvāhya^evam tataḥ sarvān evaṃ brūyāt purohitaḥ/  
-  
-47.21cd/ śvaḥ pūjāṃ prāpya yāsyanti dattvā śāntiṃ mahīpateḥ//  
-  
-47.22ab/ āvāhiteṣu kṛtvā pūjāṃ tāṃ śarvarīṃ vaseyus te/  
-  
-47.22cd/ sadasat^svapnanimittaṃ yātrāyāṃ svapnavidhir uktaḥ//  
-  
-47.23ab/ apare +ahani prabhāte sambhārān upahared yathoktaguṇān/  
-  
-47.23cd/ gatvā +avanipradeśe ślokāś ca^apy atra munigītāḥ//  
-  
-47.24ab/ tasmin maṇḍalam ālikhya kalpayet tatra medinīm/  
-  
-47.24cd/ nānā^ratnākaravatīṃ sthānāni vividhāni ca//  
-  
-47.25ab/ purohito yathāsthānaṃ nāgān yakṣān surān pitṝn/  
-  
-47.25cd/ gandharva^apsarasaś ca^eva munīn siddhāṃś ca vinyaset//  
-  
-47.26ab/ grahāṃś ca *sarva[K.saha]nakṣatrai rudrāṃś ca saha mātṛbhiḥ/  
-  
-47.26cd/ skandaṃ viṣṇuṃ viśākhaṃ ca lokapālān surastriyaḥ//  
-  
-47.27ab/ varṇakair vivikdhaiḥ kṛtvā hṛdyair gandha^guṇānvitaiḥ/  
-  
-47.27cd/ yathāsvaṃ pūjayed vidvān gandha^mālyānulepanaiḥ//  
-  
-47.28ab/ bhakṣyair annaiś ca vividhaiḥ phala^mūla^āmiṣais tathā/  
-  
-47.28cd/ *pānaiś ca[K.pānakair] vividhair hṛdyaiḥ surā^kṣīra^āsava^ādibhiḥ//  
-  
-47.29ab/ kathayāmy ataḥ param ahaṃ pūjām asmin yathābhilikhitānām/  
-  
-47.29cd/ grahayajñe yaḥ prokto vidhir grahāṇāṃ sa kartavyaḥ//  
-  
-47.30ab/ māṃsa^odana^madyaiḥ piśāca^dititanaya^dānavāḥ pūjyāḥ/  
-  
-47.30cd/ abhyañjana^añjana^tilaiḥ pitaro māṃsa^odanaiś ca^api//  
-  
-47.31ab/ sāma^yajurbhir munayas tv ṛgbhir gandhaiś ca dhūpa^mālya^yutaiḥ/  
-  
-47.31cd/ aśleṣakavarṇais trimadhureṇa ca^abhyarcayed nāgān//  
-  
-47.32ab/ dhūpa^ājya^āhuti^mālyair vibudhān *ratnaḥ[U.ratnaiḥ] stuti^praṇāmaiś ca/  
-  
-47.32cd/ gandharvān apsaraso gandhair mālyaiś ca susugandhaiḥ//  
-  
-47.33ab/ śeṣāṃs tu sārvavarṇika^balibhiḥ pūjāṃ nyasec ca sarveṣām/  
-  
-47.33cd/ pratisara^vastra^patākā^bhūṣaṇa^yajñopavītāni//  
-  
-47.34ab/ maṇḍala^paścimabhāge kṛtvā^agniṃ dakṣiṇe +atha vā vedyām/  
-  
-47.34cd/ ādadyāt sambhārān darbhān dīrghān agarbhāṃś ca//  
-  
-47.35ab/ lājā^ājya^akṣata^dadhi^madhu^siddhārthaka^gandha^sumanaso *dhūpaḥ[K.dhupān]/  
-  
-47.35cd/ gorocana^añjana^*tilāḥ[K.tilān] svartuja^madhurāṇi ca phalāni//  
-  
-47.36ab/ saghṛtasya pāyasasya ca tatra śarāvāṇi taiś ca sambhāraiḥ/  
-  
-47.36cd/ paścimavedyāṃ pūjāṃ kuryāt *snānasya[U.snātasya] sā vedī//  
-  
-47.37ab/ tasyāḥ koṇeṣu dṛḍhān kalaśān sita^sūtra^veṣṭita^grīvān/  
-  
-47.37cd/ sakṣīra^vṛkṣa^pallava^phala^apidhānān vyavasthāpya//  
-  
-47.38ab/ puṣyasnāna^vimiśreṇa^āpūrṇān ambhasā saratnāṃś ca/  
-  
-47.38cd/ puṣyasnānadravyāṇy ādadyād garga^gītāni//  
-  
-47.39ab/ jyotiṣmatīṃ trāyamāṇām abhayām aparājitām/  
-  
-47.39cd/ jīvāṃ viśveśvarīṃ pāṭhāṃ samaṅgāṃ vijayāṃ tathā//  
-  
-47.40ab/ sahāṃ ca sahadevīṃ ca pūrṇakośāṃ śatāvarīm/  
-  
-47.40cd/ ariṣṭikāṃ śivāṃ bhadrāṃ teṣu kumbheṣu vinyaset//  
-  
-47.41ab/ brāhmīṃ kṣemām ajāṃ ca^eva sarvabījāni *kāñcanīm[K.kāñcanam]/  
-  
-47.41cd/ maṅgalyāni yathālābhaṃ sarvauṣadhyo *rasās[K.rasāṃs] tathā//  
-  
-47.42ab/ ratnāni *sarvagandhāś[K.sarvagandhāṃś] ca bilvaṃ ca savikaṅkatam/  
-  
-47.42cd/ praśasta^nāmnyaś ca^oṣadhyo hiraṇyaṃ maṅgalāni ca//  
-  
-47.43ab/ ādāv anaḍuhaś carma jarayā saṃhṛtāyuṣaḥ/  
-  
-47.43cd/ praśastalakṣaṇabhṛtaḥ prācīnagrīvam āstaret//  
-  
-47.44ab/ tato vṛṣasya yodhasya carma rohitam akṣatam/  
-  
-47.44cd/ simhasyātha tṛtīyaṃ syād vyāghrasya ca tataḥ param//  
-  
-47.45ab/ catvāry etāni carmāṇi tasyāṃ vedyām upāstaret/  
-  
-47.45cd/ śubhe muhūrte samprāpte puṣyayukte niśākare//  
-  
-47.46ab/ bhadrāsanam ekatamena kāritaṃ kanaka^rajata^tāmrāṇām/  
-  
-47.46cd/ kṣīrataru^nirmitaṃ vā vinyasyaṃ carmaṇām upari//  
-  
-47.47ab/ trividhas tasya^ucchrāyo hastaḥ pādādhiko +ardhayuktaś ca/  
-  
-47.47cd/ māṇḍalikā^anantarajit^samasta^rājya^arthināṃ śubhadaḥ//  
-  
-47.48ab/ antardhāya hiraṇyaṃ tatra^upaviśen nareśvaraḥ sumanāḥ/  
-  
-47.48cd/ saciva^āpta^purohita^daiva^paura^kalyāṇa^nāmavṛtaḥ//  
-  
-47.49ab/ vandijana^paura^*vipraiḥ praghuṣṭa[K.viprapraghuṣṭa]^puṇyāha^veda^nirghoṣaiḥ/  
-  
-47.49cd/ samṛdaṅga^śaṅkha^tūryair maṅgala^śabdair hatāniṣṭaḥ//  
-  
-47.50ab/ ahata^kṣauma^nivasanaṃ purohitaḥ kambalena sañchādya/  
-  
-47.50cd/ kṛta^bali^pūjaṃ kalaśair abhiṣiñcet sarpiṣā pūrṇaiḥ//  
-  
-47.51ab/ aṣṭāv aṣṭāviṃśatir aṣṭaśataṃ vā^api kalaśa^parimāṇam/  
-  
-47.51cd/ adhike +adhike guṇottaram ayaṃ ca mantro +atra munigītaḥ//  
-  
-47.52ab/ ājyaṃ tejaḥ samuddiṣṭam ājyaṃ pāpaharaṃ param/  
-  
-47.52cd/ ājyaṃ surāṇām āhāra ājye lokāḥ pratiṣṭhitāḥ//  
-  
-47.53ab/ bhauma^āntarikṣaṃ divyaṃ vā yat te *kalmaṣam[K.kalviṣaṃ] āgatam/  
-  
-47.53cd/ sarvaṃ tadājyasaṃsparśāt praṇāśam upagacchatu//  
-  
-47.54ab/ kambalam apanīya tataḥ puṣyasnānāmbubhiḥ saphalapuṣpaiḥ/  
-  
-47.54cd/ abhiṣiñcen manujendraṃ purohito +anena mantreṇa//  
-  
-47.55ab/ surās tvām abhiṣiñcantu ye ca siddhāḥ purātanāḥ/  
-  
-47.55cd/ brahmā viṣṇuś ca *rudraś[K.śambhuś] ca sādhyāś ca samarudgaṇāḥ//  
-  
-47.56ab/ ādityā vasavo rudrā aśvinau ca bhiṣagvarau/  
-  
-47.56cd/ aditir devamātā ca svāhā siddhiḥ sarasvatī//  
-  
-47.57ab/ kīrtir lakṣmīr dhṛtiḥ śrīś ca sinīvālī kuhūs tathā/  
-  
-47.57cd/ danuś ca surasā ca^eva vinatā kadrur eva ca//  
-  
-47.58ab/ devapatnyaś ca yā noktā devamātara eva ca/  
-  
-47.58cd/ sarvās tvām abhiṣiñcantu divyāś ca^apsarasāṃ gaṇāḥ//  
-  
-47.59ab/ nakṣatrāṇi muhūrtāś ca pakṣa^ahorātra^sandhayaḥ/  
-  
-47.59cd/ saṃvatsarā dineśāś ca kalāḥ kāṣṭhāḥ kṣaṇā lavā/  
-  
-47.60ab[K.48.69cd]/ sarve tvām abhiṣiñcantu kālasyāvayavāḥ śubhāḥ/  
-  
-47.60cd[K.48.70ab]/ ete ca^anye ca munayo veda^vrata^parāyaṇāḥ//  
-47.61ab[K.omitted]/ saśiṣyās te +abhiṣiñcantu sadārāś ca tapodhanāḥ/  
-  
-47.61cd[K.omitted]/ vaimānikāḥ suragaṇā manavaḥ sāgaraiḥ saha//  
-  
-47.62ab/ saritaś ca mahābhāgā nāgāḥ kiṃpuruṣāś tathā/  
-  
-47.62cd/ vaikhānasā mahābhāgā dvijā vaihāyasāś ca ye//  
-  
-47.63ab/ saptarṣayaḥ sadārāś ca dhruvasthānāni yāni ca/  
-  
-47.63cd/ marīcir atriḥ pulahaḥ pulastyaḥ kratur aṅgirāḥ//  
-  
-47.64ab/ bhṛguḥ sanatkumāraś ca sanako +atha sanandanaḥ/  
-  
-47.64cd/ sanātanaś ca dakṣaś ca jaigīṣavyo bhagandaraḥ//  
-  
-47.65ab/ ekataś ca dvitaś ca^eva trito jābālikaśyapau/  
-  
-47.65cd/ durvāsā durvinītaś ca kaṇvaḥ kātyāyanas tathā//  
-  
-47.66ab/ mārkaṇḍeyo dīrghatapāḥ śunaḥśepho vidūrathaḥ/  
-  
-47.66cd/ ūrdhvaḥ saṃvartakaś ca^eva cyavano +atriḥ parāśaraḥ//  
-  
-47.67ab/ dvaipāyano yavakrīto devarājaḥ sahānujaḥ/  
-  
-47.67cd/ parvatās taravo vallyaḥ puṇyāny āyatanāni ca//  
-  
-47.68ab/ prajāpatir ditiś ca^eva gāvo viśvasya mātaraḥ/  
-  
-47.68cd/ vāhanāni ca divyāni sarvalokāś cara^acarāḥ//  
-  
-47.69ab/ agnayaḥ pitaras tārā jīmūtāḥ khaṃ diśo jalam/  
-  
-47.69cd/ ete ca^anye ca bahavaḥ puṇya^saṅkīrtanāḥ *śubhaiḥ[K.śubhāḥ]//  
-  
-47.70ab/ toyais tvām abhiṣiñcantu sarva^utpāta^nibarhaṇaiḥ/  
-  
-47.70cd/ *yathābhiṣikto maghavān etair mudita^manasaiḥ[K.kalyāṇam te prakurvantu āyurārogyam eva ca]//  
-  
-47.71ab/ ity etaiś cānyaiś ca^apy atharvakalpa^*āhitaiḥ[K.vihitaiḥ] sarudragaṇaiḥ/  
-  
-47.71cd/ kauṣmāṇḍa^mahārauhiṇa^kuberahṛdyaiḥ samṛddhyā ca//  
-  
-47.72ab/ āpohiṣṭhā^tisṛbhir hiraṇyavarṇā^iti catasṛbhir japtam/  
-  
-47.72cd/ kārpāsika^vastrayugaṃ bibhṛyāt snāto narādhipatiḥ//  
-  
-47.73ab/ puṇyāha^śaṅkha^śabdair ācānto +abhyarcya deva^guru^viprān/  
-  
-47.73cd/ chatra^dhvaja^āyudhāni ca tataḥ svapūjāṃ prayuñjīta//  
-  
-47.74ab/ āyuṣyaṃ varcasyaṃ rāyaspoṣābhir ṛgbhir etābhiḥ/  
-  
-47.74cd/ parijaptaṃ vaijayikaṃ navaṃ vidadhyād alaṅkāram//  
-  
-47.75ab/ gatvā dvitīyavedīṃ samupaviśec carmaṇāṃ upari rājā/  
-  
-47.75cd/ deyāni ca^eva carmāṇy uparyupary evam etāni//  
-  
-47.76ab/ vṛṣasya vṛṣadaṃśasya ruroś ca pṛṣatasya ca/  
-  
-47.76cd/ teṣām upari siṃhasya vyāghrasya ca tataḥ param//  
-  
-47.77ab/ mukhyasthāne juhuyāt purohito +agniṃ samit^tila^ghṛtādyaiḥ/  
-  
-47.77cd/ trinayana^śakra^bṛhaspati^nārāyaṇa^nityagati^ṛgbhiḥ//  
-  
-47.78ab/ indradhvaja^nirdiṣṭāny agninimittāni daivavid brūyāt/  
-  
-47.78cd/ kṛtvā +aśeṣa^samāptiṃ purohitaḥ prāñjalir brūyāt//  
-  
-47.79ab/ yāntu devagaṇāḥ sarve pūjām ādāya pārthivāt/  
-  
-47.79cd/ siddhiṃ dattvā *tu vipulāṃ[K.suvipulām] punar āgamanāya *ca[K.vai]//  
-  
-47.80ab/ nṛpatir ato daivajñaṃ purohitaṃ ca^arcayed dhanair bahubhiḥ/  
-  
-47.80cd/ anyāṃś ca dakṣiṇīyān *yathocitaṃ[K.yathārhataḥ] śrotriyaprabhṛtīn//  
-  
-47.81ab/ dattvā +abhayaṃ prajānām āghātasthānagān visṛjya paśūn/  
-  
-47.81cd/ bandhana^mokṣaṃ kuryād abhyantara^doṣakṛd^varjam//  
-  
-47.82ab/ etat prayujyamānaṃ pratipuṣyaṃ sukha^yaśo^artha^vṛddhikaram/  
-  
-47.82cd/ *puṣyād[K.puṣyam] vinā^ardhaphaladā pauṣī śāntiḥ *parā[K.purā] proktā//  
-  
-47.83ab/ rāṣṭra^utpāta^upasargeṣu rāhoḥ ketoś ca darśane/  
-  
-47.83cd/ grahāvamardane ca^eva puṣyasnānaṃ samācaret//  
-  
-47.84ab/ nāsti loke sa utpāto yo hy anena na śāmyati/  
-  
-47.84cd/ maṅgalaṃ cāparaṃ nāsti yad asmād atiricyate//  
-  
-47.85ab/ adhirājyārthino rājñaḥ putrajanma ca kāṅkṣataḥ/  
-  
-47.85cd/ tatpūrvam abhiṣeke ca vidhir eṣa praśasyate//  
-  
-47.86ab/ mahendrārtham uvāca^idam bṛhatkīrtir bṛhaspatiḥ/  
-  
-47.86cd/ snānam āyuṣ^prajā^vṛddhi^saubhāgya^karaṇaṃ param//  
-  
-47.87ab/ anenaiva vidhānena hasty^aśvaṃ *snāpayet tataḥ[K.snāpayīta yaḥ]/  
-  
-47.87cd/ tasya^āmaya^vinirmuktaṃ parāṃ siddhim avāpnuyāt//  
-
-48 paṭṭalakṣaṇādhyāyaḥ  
-
-48.01ab/ vistaraśo nirdiṣṭaṃ paṭṭāṇāṃ lakṣaṇaṃ yad ācāryaiḥ/  
-  
-48.01cd/ tat saṃkṣepaḥ kriyate mayā +atra sakalārthasampannaḥ//  
-  
-48.02ab/ paṭṭaḥ śubhado rājṇāṃ madhye +aṣṭāv aṅgulāni vistīrṇaḥ/  
-  
-48.02cd/ sapta narendra^mahiṣyāḥ ṣaḍ yuvarājasya nirdiṣṭaḥ//  
-  
-48.03ab/ catur^aṅgula^vistāraḥ paṭṭaḥ senāpater bhavati madhye/  
-  
-48.03cd/ dve ca prasādapaṭṭaḥ pañcaite kīrtitāḥ paṭṭāḥ//  
-  
-48.04ab/ sarve dviguṇāyāmā madhyād ardhena pārśvavistīrṇāḥ/  
-  
-48.04cd/ sarve ca śuddhakāñcanavinirmitāḥ śreyaso vṛddhyai//  
-  
-48.05ab/ pañca^śikho bhūmipates triśikho yuvarāja^pārthiva^mahiṣyoḥ/  
-  
-48.05cd/ ekaśikhaḥ sainyapateḥ prasādapaṭṭo vinā śikhayā//  
-  
-48.06ab/ kriyamāṇaṃ yadi patraṃ sukhena vistāram eti paṭṭasya/  
-  
-48.06cd/ vṛddhijayau bhūmipates tathā prajānāṃ ca sukhasampat//  
-  
-48.07ab/ jīvitarājyavināśaṃ karoti madhye vraṇaḥ samutpannaḥ/  
-  
-48.07cd/ madhye sphuṭitas tyājyo vighnakaraḥ pārśvayoḥ sphuṭitaḥ//  
-  
-48.08ab/ aśubhanimitta^utpattau śāstrajñaḥ śāntim ādiśed rājñaḥ/  
-  
-48.08cd/ śastanimittaḥ paṭṭo nṛpa^rāṣṭra^vivṛddhaye bhavati//  
-
-49 khaḍgalakṣaṇādhyāyaḥ  
-
-49.01ab/ aṅgula^śatārdham uttama ūnaḥ syāt *pañcaviṃśatiḥ[K.pañcaviṃśatiṃ] khaḍgaḥ/  
-  
-49.01cd/ aṅgulamānāj jñeyo vraṇo +aśubho viṣama^parvasthaḥ//  
-  
-49.02ab/ śrīvṛkṣa^vardhamāna^ātapatra^śivaliṅga^kuṇḍala^abjānām/  
-  
-49.02cd/ sadṛśā vraṇāḥ praśastā dhvaja^āyudha^svastikānāṃ ca//  
-49.03ab/ kṛkalāsa^kāka^kaṅka^kravyāda^kabandha^vṛścika^ākṛtayaḥ/  
-  
-49.03cd/ khaḍge vraṇā na śubhadā vaṃśānugatāḥ prabhūtāś ca//  
-  
-49.04ab/ sphuṭito hrasvaḥ kuṇṭho vaṃśacchinno na dṛg^mano +anugataḥ/  
-  
-49.04cd/ asvana iti cāniṣṭaḥ proktaviparyasta iṣṭaphalaḥ//  
-  
-49.05ab/ kvaṇitaṃ maraṇāya^uktaṃ parājayāya pravartanaṃ kośāt/  
-  
-49.05cd/ svayam udgīrṇe yuddhaṃ jvalite vijayo bhavati khaḍge//  
-  
-49.06a nākāraṇaṃ vivṛṇuyān na vighaṭṭayec ca  
-  
-49.06b paśyen na tatra vadanaṃ na vadec ca mūlyam/  
-  
-49.06c deśaṃ na cāsya kathayet pratimānayen na  
-  
-49.06d naiva spṛśen nṛpatir aprayato +asiyaṣṭim//  
-  
-49.07ab/ gojihvā^saṃsthāno nīlotpala^vaṃśa^patra^sadṛśaś ca/  
-  
-49.07cd/ karavīra^patra^śūla^agra^maṇḍala^agrāḥ praśastāḥ syuḥ//  
-  
-49.08ab/ niṣpanno na chedyo nikaṣaiḥ kāryaḥ pramāṇayuktaḥ saḥ/  
-  
-49.08cd/ mūle mriyate svāmī jananī tasyāgrataś chinne//  
-  
-49.09ab/ yasmin tsarupradeśe vraṇo bhavet tadvad eva khaḍgasya/  
-  
-49.09cd/ vanitānām iva tilako guhye vācyo mukhe dṛṣṭvā//  
-  
-49.10ab/ atha vā spṛśati yadaṅgaṃ praṣṭā nistriṃśabhṛt tadavadhārya/  
-  
-49.10cd/ kośasthasya^ādeśyo vraṇo +asti śāstraṃ viditvedam//  
-  
-49.11ab/ śirasi spṛṣṭe prathame +aṅgule dvitīye lalāṭasaṃsparśe/  
-  
-49.11cd/ bhrūmadhye ca tṛtīye netre spṛṣṭe catruthe ca//  
-  
-49.12ab/ *nāsa^auṣṭha[K.nāsoṣṭha]^kapola^hanu^śravaṇa^grīva^*aṃsake ca[K.aṃsakeṣu] pañcādyāḥ/  
-  
-49.12cd/ urasi dvādaśasaṃsthas trayodaśe kakṣayor jñeyaḥ//  
-  
-49.13ab/ stana^hṛdaya^udara^*kukṣi^nābhau[K.kukṣinābhīṣu] tu caturdaśādayo jñeyāḥ/  
-  
-49.13cd/ nābhimūle kaṭyāṃ guhye ca^ekonaviṃśatitaḥ//  
-  
-49.14ab/ ūrvor dvāviṃśe syād ūrvor madhye vraṇas trayoviṃśe/  
-  
-49.14cd/ jānuni ca caturviṃśe jaṅghāyāṃ pañcaviṃśe ca//  
-  
-49.15ab/ jaṅghāmadhye gulphe pārṣṇyāṃ pāde tadaṅgulīṣv api ca/  
-  
-49.15cd/ ṣaḍviṃśatikād yāvat triṃśad iti matena gargasya//  
-  
-49.16ab/ putramaraṇaṃ dhanāptir dhanahāniḥ sampadaś ca bandhaś ca/  
-  
-49.16cd/ ekādyaṅgulasaṃsthair vraṇaiḥ phalaṃ nirdiśet kramaśaḥ//  
-  
-49.17ab/ sutalābhaḥ kalaho hasti^labdhayaḥ putramaraṇa^dhanalābhau/  
-  
-49.17cd/ kramaśo vināśa^vanitāpti^cittaduḥkhāni ṣaṭprabhṛti//  
-  
-49.18ab/ labdhir *hāniḥ strīlabdhayo[K.hānistrīlabdhayo] badho vṛddhi^maraṇa^paritoṣāḥ/  
-  
-49.18cd/ jñeyāś caturdaśādiṣu dhanahāniś caikaviṃśe syāt//  
-  
-49.19ab/ vittāptir anirvāṇaṃ dhana^āgamo mṛtyu^sampado +asvatvam/  
-  
-49.19cd/ aiśvarya^mṛtyu^rājyāni ca kramāt triṃśad iti yāvat//  
-  
-49.20ab/ parato na viśeṣaphalaṃ viṣamasamasthās tu pāpaśubhaphaladāḥ/  
-49.20cd/ kaiś cid aphalāḥ pradiṣṭās triṃśatparato +agram iti yāvat//  
-  
-49.21ab/ karavīra^utpala^gaja^mada^ghṛta^kuṅkuma^kunda^campaka^sagandhaḥ/  
-  
-49.21cd/ śubhado +aniṣṭo gomūtra^paṅka^medaḥ^sadṛśa^gandhaḥ//  
-  
-49.22ab/ kūrma^vasā^asṛk^kṣāra^upamaś ca bhaya^duḥkhado bhavati gandhaḥ/  
-  
-49.22cd/ vaidūrya^kanaka^vidyut^prabho jaya^ārogya^vṛddhikaraḥ//  
-  
-49.23a idam auśanasaṃ ca śastra^pānaṃ  
-  
-49.23b rudhireṇa śriyam icchataḥ pradīptām/  
-  
-49.23c haviṣā guṇavat^suta^abhilipsoḥ  
-  
-49.23d salilena^akṣayam icchataś ca vittam//  
-  
-49.24a vaḍavā^uṣṭra^kareṇu^dugdha^pānaṃ  
-  
-49.24b yadi pāpena samīhate +arthasiddhim/  
-  
-49.24c jhaṣa^pitta^mṛga^aśva^basta^dugdhaiḥ  
-  
-49.24d kari^hasta^cchidaye satāla^garbhaiḥ//  
-  
-49.25a ārkaṃ payo huḍuviṣāṇa^maṣī^sametaṃ  
-  
-49.25b pārāvata^ākhu^śakṛtā ca *yutaḥ[K.yutaṃ] pralepaḥ/  
-  
-49.25c śastrasya tailamathitasya tato +asya pānaṃ  
-  
-49.25d paścāt^śitasya na śilāsu bhaved vighātaḥ//  
-  
-49.26a kṣāre kadalyā mathitena yukte  
-  
-49.26b dina^uṣite pāyitam āyasaṃ yat/  
-  
-49.26c samyak śitaṃ ca^aśmani naiti bhaṅgaṃ  
-  
-49.26d na ca^anyaloheṣv api tasya kauṇṭhyam//  
-
-50 aṅgavidyādhyāya  
-
-50.01a daivajñena śubha^aśubhaṃ dig^udita^sthāna^āhṛtān īkṣatā  
-  
-50.01b vācyaṃ praṣṭṛ^nija^apara^aṅga^ghaṭanāṃ ca^ālokya kālaṃ dhiyā/  
-  
-50.01c sarvajño hi cara^acara^ātmakatayā^asau sarvadarśo vibhuś  
-  
-50.01d ceṣṭā^vyāhṛtibhiḥ śubha^aśubha^phalaṃ sandarśayaty arthinām//  
-  
-50.02a sthānaṃ puṣpa^suhāsi^bhūri^phalabhṛt^susnigdha^kṛtti^cchada^  
-  
-50.02b asatpakṣi^cyuta^śastasaṃjñita^taru^cchāya^upagūḍhaṃ samam/  
-  
-50.02c deva^ṛṣi^dvija^sādhu^siddha^nilayaṃ satpuṣpa^sasya^ukṣitam  
-  
-50.02d satsvādu^udaka^nirmalatva^janita^āhlādaṃ ca *sacchādvalam[K.sacchāḍvalam]//  
-  
-50.03ab/ chinna^bhinna^kṛmi^khāta^kaṇṭaki^pluṣṭa^rūkṣa^kuṭilair na sat kujaiḥ/  
-  
-50.03cd/ krūra^pakṣi^yuta^nindyanāmabhiḥ śuṣka^śīrṇa^bahu^parṇa^*carmabhiḥ[K.varmabhiḥ]//  
-  
-50.04a śmaśāna^śūnyāyatanaṃ catuṣpathaṃ  
-  
-50.04b tathā^+amanojñaṃ viṣamaṃ sada^ūṣaram/  
-  
-50.04c avaskara^aṅgāra^kapāla^bhasmabhiś  
-  
-50.04d citaṃ tuṣaiḥ śuṣkatṛṇair naśobhanam//  
-  
-50.05ab/ pravrajita^nagna^nāpita^ripu^bandhana^*saunikais[K.sūnikais] tathā śvapacaiḥ/  
-  
-50.05cd/ kitava^yati^pīḍitair yutam āyudha^mādhvīka^vikrayair na śubham//  
-  
-50.06a prāg^uttara^īśāś ca diśaḥ praśastāḥ  
-  
-50.06b praṣṭur na vāyv^ambu^yamāgni^rakṣaḥ/  
-  
-50.06c pūrvāhnakāle +asti śubhaṃ na rātrau  
-  
-50.06d sandhyādvaye praśnakṛto +aparāhṇe//  
-  
-50.07a yātrāvidhāne hi śubha^aśubhaṃ yat  
-  
-50.07b proktaṃ nimittaṃ tad ihāpi vācyam/  
-  
-50.07c dṛṣṭvā puro vā janatāhṛtaṃ vā  
-  
-50.07d praṣṭuḥ sthitaṃ pāṇitale +atha vastre//  
-  
-50.08a atha^aṅgāny ūrū^oṣṭha^stana^vṛṣaṇa^pādaṃ ca daśanā  
-  
-50.08b bhujau hastau gaṇḍau kaca^gala^nakha^aṅguṣṭham api yat/  
-  
-50.08c sa^śaṅkhaṃ *kakṣa^aṃsaṃ śravaṇa[K.kaṣāṃsaśravaṇa]^guda^sandhi^iti puruṣe  
-  
-50.08d striyāṃ bhrū^nāsā^sphig^vali^kaṭi^sulekhā^aṅgulicayam//  
-  
-50.09a jihvā grīvā piṇḍike pārṣṇiyugmaṃ  
-  
-50.09b jaṅghe nābhiḥ karṇapālī kṛkāṭī/  
-  
-50.09c vaktraṃ pṛṣṭhaṃ jatru^jānu^asthi^pārśvaṃ  
-  
-50.09d hṛt^tālu^akṣī mehana^uras^trikaṃ ca//  
-  
-50.10ab/ napuṃsaka^ākhyaṃ ca śiro lalāṭam āśv ādya^saṃjñair aparaiś cireṇa/  
-  
-50.10cd/ siddhir bhavej jātu napuṃsakair no rūkṣa^kṣatair bhagna^kṛśaiś ca pūrvaiḥ//  
-  
-50.11ab/ spṛṣṭe vā cālite vā^api pāda^aṅguṣṭhe +akṣi^rug bhavet/  
-  
-50.11cd/ aṅgulyāṃ duhituḥ śokaṃ śiroghāte nṛpād bhayam//  
-  
-50.12ab/ viprayogam urasi svagātrataḥ karpaṭāhṛtir anarthadā bhavet/  
-  
-50.12cd/ syāt priyāptir abhigṛhya karpaṭaṃ pṛcchataś caraṇapādayojituḥ//  
-  
-50.13ab/ pāda^aṅguṣṭhena vilikhed bhūmiṃ kṣetra^utthacintayā/  
-  
-50.13cd/ hastena pādau kaṇḍūyet tasya *dāsīmayī[K.dāsīmayā] ca sā//  
-  
-50.14ab/ tāla^bhūrja^paṭa^darśane +aṃśukaṃ cintayet kaca^tuṣa^asthi^bhasmagam/  
-  
-50.14cd/ vyādhir āśrayati rajju^jālakaṃ valkalaṃ ca samavekṣya bandhanam//  
-  
-50.15ab/ pippalī^marica^śuṇṭhi^vāridai rodhra^kuṣṭha^vasana^ambu^jīrakaiḥ/  
-  
-50.15cd/ gandha^māṃsi^śatapuṣpayā vadet pṛcchatas tagarakeṇa *cintayet[K.cintanam]//  
-  
-50.16ab/ strī^puruṣa^doṣa^pīḍita^sarva^*artha[K.adhva]^suta^artha^dhānya^tanayānām/  
-  
-50.16cd/ dvicatuṣpada^kṣitīnāṃ vināśataḥ kīrtitair dṛṣṭaiḥ//  
-  
-50.17ab/ nyagrodha^madhuka^tinduka^jambū^plakṣa^āmra^*badara[K.badari]^jātiphalaiḥ/  
-  
-50.17cd/ dhana^kanaka^puruṣa^loha^aṃśuka^rūpya^*audumbara^āptir[K.udumbarāptir] api karagaiḥ//  
-  
-50.18ab/ dhānya^paripūrṇa^pātraṃ kumbhaḥ pūrṇaḥ kuṭumba^vṛddhikarau/  
-  
-50.18cd/ gaja^go^śunāṃ purīṣaṃ dhana^yuvati^suhṛd^vināśakaram//  
-  
-50.19ab/ paśu^hasti^mahiṣa^paṅkaja^rajata^vyāghrair labheta sandṛṣṭaiḥ/  
-  
-50.19cd/ avi^dhana^nivasana^malayaja^kauśeya^ābharaṇa^saṅghātam//  
-  
-50.20ab/ pṛcchā vṛddha^śrāvaka^suparivrāḍ^darśane nṛbhir vihitā/  
-  
-50.20cd/ mitra^dyūtārtha^bhavā gaṇikā^nṛpa^sūtikā^arthakṛtā//  
-  
-50.21ab/ śākya^upādhyāya^*arhat[K.ārhata]^*nirgranthi[K.nirgrantha]^nimitta^nigama^kaivartaiḥ/  
-  
-50.21cd/ caura^camūpati^vaṇijāṃ dāsī^yodha^āpaṇastha^vadhyānām//  
-  
-50.22ab/ tāpase śauṇḍike dṛṣṭe proṣitaṃ paśupālanam/  
-  
-50.22cd/ hṛdgataṃ *pracchakasya[K.pṛcchakasya] syād uñchavṛṭau vipannatā//  
-  
-50.23ab/ icchāmi praṣṭuṃ bhaṇa paśyatv āryaḥ samādiśa^ity ukte//  
-  
-50.23cd/ saṃyoga^kuṭumba^utthā lābha^aiśvarya^udgatā cintā//  
-  
-50.24a nirdiśa^iti gadite *jaya^adhvajā[K.jayādhvagā]  
-  
-50.24b pratyavekṣya mama cintitaṃ vada/  
-  
-50.24c āśu sarvajanamadhyagaṃ tvayā  
-  
-50.24d dṛśyatām iti ca bandhu^caurajā//  
-  
-50.25a antaḥsthe +aṅge svajana udito bāhyaje bāhya *eva[K.evam]  
-  
-50.25b pāda^aṅguṣṭha^aṅgulikalanayā dāsadāsījanaḥ syāt/  
-  
-50.25c jaṅghe preṣyo bhavati bhaginī nābhito hṛtsvabhāryā  
-  
-50.25d pāṇyaṅguṣṭha^aṅgulicaya^kṛtasparśane putrakanye//  
-  
-50.26ab/ mātaraṃ jaṭhare mūrdhni guruṃ dakṣiṇavāmakau/  
-  
-50.26cd/ bāhū bhrātā^atha tatpatnī spṛṣṭvā^evaṃ cauram ādiśet//  
-  
-50.27ab/ antar^aṅgam avamucya bāhya^ga^sparśanaṃ yadi karoti pṛcchakaḥ/  
-  
-50.27cd/ śleṣma^mūtra^śakṛtas *tyajanty atho[K.tyajannadhaḥ] pātayet kara^tala^stha^vastu cet//  
-  
-50.28a bhṛśam avanāmita^aṅga^parimoṭanato +apy atha vā  
-  
-50.28b jana^dhṛta^rikta^bhāṇḍam avalokya ca caurajanam/  
-  
-50.28c hṛta^patita^kṣata^asmṛta^vinaṣṭa^bhagna^gata^  
-  
-50.28d unmuṣita^mṛta^ādy^aniṣṭa^ravato labhate na hṛtam//  
-  
-50.29a nigaditam idaṃ yat^tat sarvaṃ tuṣa^asthi^viṣa^ādikaiḥ  
-  
-50.29b saha mṛtikaraṃ pīḍā^artānāṃ samaṃ rudita^*kṣataiḥ[K.kṣutaiḥ]/  
-  
-50.29c avayavam api spṛṣṭvā^antaḥsthaṃ dṛḍhaṃ marud āhared  
-  
-50.29d atibahu tadā bhuktvā^annaṃ saṃsthitaḥ suhito vadet//  
-  
-50.30ab/ lalāṭasparśanāt^śūkadarśanāt^śālijaudanam/  
-  
-50.30cd/ uraḥsparśāt ṣaṣṭika^*ākhyaṃ[K.annam] grīvā^sparśe ca yāvakam//  
-  
-50.31ab/ kukṣi^kuca^jaṭhara^jānu^sparśe māṣāḥ payas^tila^yavāgvaḥ/  
-  
-50.31cd/ *āsvādayate[K.āsvādayataś] ca^oṣṭhau lihate madhuraṃ rasaṃ jñeyam//  
-  
-50.32ab/ *visṛkke[K.vispṛkke] sphoṭayej jihvām āmle vaktraṃ vikūṇayet/  
-  
-50.32cd/ *kaṭuke +atha kaṣāye +atha[K.kaṭutiktakaṣāyoṣṇair] hikket ṣṭhīvec ca saindhave//  
-  
-50.33a śleṣmatyāge śuṣka^tiktaṃ tad alpaṃ  
-  
-50.33b śrutvā kravyādaṃ vā prekṣya vā māṃsamiśram/  
-  
-50.33c bhrū^gaṇḍa^oṣṭha^sparśane śākunaṃ tad^  
-  
-50.33d bhuktaṃ tena^ity uktam etan nimittam//  
-  
-50.34ab/ mūrdha^gala^keśa^hanu^śaṅkha^karṇa^jaṅghaṃ vastiṃ ca spṛṣṭvā/  
-  
-50.34cd/ gaja^mahiṣa^meṣa^śūkara^go^śaśa^mṛga^*mahiṣa[K.omitted]^māṃsayug bhuktam//  
-  
-50.35ab/ dṛṣṭe śrute +apy aśakune godhā^matsya^āmiṣaṃ vaded bhuktam/  
-  
-50.35cd/ garbhiṇyā garbhasya ca nipatanam evaṃ prakalpayet praśne//  
-  
-50.36ab/ puṃ^strī^napuṃsaka^ākhye dṛṣṭe +anumite puraḥsthite spṛṣṭe/  
-  
-50.36cd/ tajjanma bhavati pāna^anna^puṣpa^phala^darśane ca śubham//  
-  
-50.37a aṅguṣṭhena bhrū^udaraṃ vā^aṅguliṃ vā  
-  
-50.37b spṛṣṭvā pṛcched garbha^cintā tadā syāt/  
-  
-50.37c madhv^ājyādyair hema^ratna^pravālair  
-  
-50.37d agrasthair vā mātṛ^dhātry^ātmajaiś ca//  
-  
-50.38a garbhayutā jaṭhare karage syād  
-  
-50.38b duṣṭa^nimitta^vaśāt tadudāsaḥ/  
-  
-50.38c karṣati tajjaṭharaṃ yadi pīṭha^  
-  
-50.38d utpīḍanataṇ karage ca kare +api//  
-  
-50.39ab/ ghrāṇāyā dakṣiṇe dvāre spṛṣṭe māsottaraṃ vadet/  
-  
-50.39cd/ vāme *+abdau[K.dvau] karṇa evaṃ mā dvicaturghnaḥ śrutistane//  
-  
-50.40a veṇīmūle trīn sutān kanyake dve  
-  
-50.40b karṇe putrān pañca haste trayaṃ ca/  
-  
-50.40c aṅguṣṭhānte pañcakaṃ cānupūrvyā  
-  
-50.40d pāda^aṅguṣṭhe pārṣṇiyugme +api kanyām//  
-  
-50.41ab/ savya^asavya^ūrusamsparśe sūte kanyā^suta^dvayam/  
-  
-50.41cd/ spṛṣṭe lalāṭa^madhya^ante catus^tri^tanayā bhavet//  
-  
-50.42ab/ śiro^lalāṭa^bhrū^karṇa^gaṇḍaṃ hanu^radā galam  
-  
-50.42cd/ savya^apasavya^skandhaś ca hastau cibuka^nālakam//  
-  
-50.43a uraḥ kucaṃ dakṣiṇam apy asavyaṃ  
-  
-50.43b hṛt^pārśvam evaṃ jaṭharaṃ kaṭiś ca/  
-  
-50.43c sphik^pāyu^sandhi^ūruyugaṃ ca jānū  
-  
-50.43d jaṅghe +atha pādāv iti kṛttikā^ādau//  
-  
-50.44a iti nigaditam etad gātra^saṃsparśa^lakṣma  
-  
-50.44b prakaṭam abhimatāptyai vīkṣya śāstrāṇi samyak/  
-  
-50.44c vipulamatir udāro vetti yaḥ sarvam etan  
-  
-50.44d narapatijanatābhiḥ pūjyate +asau sadaiva//  
-
-51 piṭakalakṣaṇādhyāyaḥ  
-
-51.01ab/ sita^rakta^pīta^kṛṣṇā viprādīnāṃ krameṇa piṭakā ye/  
-  
-51.01cd/ te kramaśaḥ proktaphalā varṇānāṃ *na^agrajātānām[K.agrajādīnām]//  
-  
-51.02a susnigdha^vyakta^śobhāḥ śirasi dhanacayaṃ mūrdhni saubhāgyam ārād  
-  
-51.02b daurbhāgyaṃ bhrūyugotthāḥ priyajana^ghaṭanām āśu duḥśīlatāṃ ca/  
-  
-51.02c tanmadhyotthāś ca śokaṃ nayanapuṭagatā netrayor iṣṭadṛṣṭiṃ  
-  
-51.02d pravrajyāṃ śaṅkhadeśe +aśrujalanipatana^*sthānagā rānti cintām[K.sthānagāś ca aticintām]//  
-  
-51.03a ghrāṇā^gaṇḍe vasanasutadāś ca^oṣṭhayor annalābhaṃ  
-  
-51.03b kuryus tadvac cibukatalagā bhūri vittaṃ lalāṭe/  
-  
-51.03c hanvor evaṃ galakṛtapadā bhūṣaṇāny annapāne  
-  
-51.03d śrotre *ṣaḍbhūtaṇa[K.ū.tadbhūṣaṇa]gaṇam api jñānam ātmasvarūpam//  
-  
-51.04a śiraḥ^sandhi^grīvā^hṛdaya^kuca^pārśva^urasi gatā  
-  
-51.04b ayoghātaṃ ghātaṃ suta^tanaya^lābhaṃ śucam api/  
-  
-51.04c priyaprāptiṃ skandhe +apy aṭanam atha bhikṣārtham asakṛd  
-  
-51.04d vināśaṃ kakṣotthā vidadhati dhanānāṃ *bahumukham[K.bahusukham]//  
-  
-51.05ab/ duḥkha^śatrunicayasya *vināśaṃ[K.vighātaṃ] pṛṣṭha^bāhu^yugajā racayanti/  
-  
-51.05cd/ saṃyamaṃ ca maṇibandhana^jātā bhūṣaṇa^ādyam upabāhu^yug^utthāḥ//  
-  
-51.06a dhanāptiṃ saubhāgyaṃ śucam api kara^aṅguly^udaragāḥ  
-  
-51.06b supānānnaṃ nābhau tadadha iha caurair dhanahṛtim/  
-  
-51.06c dhanaṃ dhānyaṃ bastau yuvatim atha meḍhre sutanayān  
-  
-51.06d dhanaṃ saubhāgyaṃ vā guda^vṛṣaṇajātā vidadhati//  
-  
-51.07ab/ ūrvor yāna^aṅganā^lābhaṃ jānvoḥ śatrujanāt kṣatim/  
-  
-51.07cd/ śastreṇa jaṅghayor gulphe +adhva^bandha^kleśadāyinaḥ//  
-  
-51.08ab/ sphik^pārṣṇi^pāda^jātā dhananāśa^agamyagamanam adhvānam//  
-  
-51.08cd/ bandhanam aṅgulinicaye +aṅguṣṭhe ca jñātilokataḥ pūjām//  
-  
-51.09ab/ utpāta^gaṇḍa^piṭakā dakṣiṇato vāmatas tv abhīghātāḥ/  
-  
-51.09cd/ dhanyā bhavanti puṃsāṃ tad^viparītāś *ca[K.tu] nārīṇām//  
-  
-51.10a iti piṭakavibhāgaḥ prokta āmūrdhato +ayaṃ  
-  
-51.10b vraṇa^tilaka^vibhāgo +apy evam eva prakalpyaḥ/  
-  
-51.10c bhavati maśaka^lakṣma^āvartajanma^api tadvan  
-  
-51.10d nigaditaphalakāri prāṇināṃ deha^saṃstham//  
-
-52 vāstuvidyā  
-
-52.01ab/ vāstujñānam atha^ataḥ kamalabhavān muniparam parāyātam/  
-  
-52.01cd/ kriyate +adhunā mayā^idam vidagdha^sāṃvatsara^prītyai//  
-  
-52.02ab/ kim api kila bhūtam abhavad rundhānaṃ rodasī śarīreṇa/  
-  
-52.02cd/ tad amaragaṇena sahasā vinigṛhya^adhomukhaṃ nyastam//  
-  
-52.03ab/ yatra ca yena gṛhītaṃ vibudhena^adhiṣṭhitaḥ sa tatra^eva/  
-  
-52.03cd/ tad amaramayaṃ vidhātā vāstunaraṃ kalpayām āsa//  
-  
-52.04ab/ uttamam aṣṭa^abhyadhikaṃ hastaśataṃ nṛpa^gṛhaṃ pṛthutvena/  
-  
-52.04cd/ aṣṭa^aṣṭa^ūnāny evaṃ pañca sapādāni dairghyeṇa//  
-  
-52.05ab/ ṣaḍbhiḥ ṣaḍbhir hīnā senāpati^sadmanāṃ catuḥṣaṣṭiḥ/  
-  
-52.05cd/ *evaṃ pañca gṛhāṇi[K.pañca evaṃ vistārāt] ṣaḍbhāga^samanvitā dairghyam//  
-  
-52.06ab/ ṣaṣṭiś *caturbhir hīnā[K.caturvihīnā] veśmāni pañca sacivasya/  
-  
-52.06cd/ sva^aṣṭāṃśa^yuto dairghyaṃ tadardhato rāja^mahiṣīṇām//  
-  
-52.07ab/ ṣaḍbhiḥ ṣaḍbhiś ca^evaṃ yuvarājasya^apavarjitā^aśītiḥ/  
-  
-52.07cd/ tryaṃśānvitā ca dairghyaṃ pañca tadardhais tadanujanānām//  
-  
-52.08ab/ nṛpa^saciva^antaratulyaṃ sāmanta^pravara^rājapuruṣāṇām/  
-  
-52.08cd/ nṛpa^yuvarāja^viśeṣaḥ kañcuki^veśyā^kalājñānām//  
-  
-52.09ab/ adhyakṣa^adhikṛtānāṃ *sarveṣāṃ[K.sarveṣām eva] kośa^rati^tulyam/  
-  
-52.09cd/ yuvarāja^mantri^vivaraṃ karmānta^adhyakṣa^dūtānām//  
-  
-52.10ab/ catvāriṃśad^ dhīnā catuścaturbhis tu pañca yāvad iti/  
-  
-52.10cd/ ṣaḍ^bhāga^yutā dairghyaṃ daivajña^purodhasor bhiṣajaḥ//  
-  
-52.11ab/ vāstuni yo vistāraḥ sa eva ca^ucchrāya^niścayaḥ śubhadaḥ/  
-  
-52.11cd/ śālā^ekeṣu gṛheṣv api vistārād dviguṇitaṃ dairghyam//  
-  
-52.12ab/ cāturvarṇya^vyāso dvātriṃśat *sā[K.syāt] catuścaturhīnā/  
-  
-52.12cd/ āṣoḍaśād iti paraṃ nyūnataram atīva hīnānām//  
-  
-52.13ab/ sadaśāṃśaṃ viprāṇāṃ kṣatrasya^aṣṭāṃśa^saṃyutaṃ dairghyam/  
-  
-52.13cd/ ṣaḍbhāga^yutaṃ vaiśyasya bhavati śūdrasya pādayutam//  
-  
-52.14ab/ nṛpa^senāpati^gṛhayor antaramānena kośa^rati^bhavane/  
-  
-52.14cd/ senāpati^cāturvarṇya^vivarato rājapuruṣāṇām//  
-  
-52.15ab/ atha *pāraśava[K.pārasava]^ādīnāṃ svamāna^saṃyoga^dala^samaṃ bhavanam/  
-  
-52.15cd/ hīna^adhikaṃ svamānād aśubhakaraṃ vāstu sarveṣām//  
-  
-52.16ab/ paśv^āśramiṇām amitaṃ dhānya^āyudha^vahni^rati^gṛhāṇāṃ ca/  
-  
-52.16cd/ na^icchanti śāstrakārā hastaśatād ucchritaṃ parataḥ//  
-  
-52.17ab/ senāpati^nṛpatīnāṃ saptati^sahite dvidhā^kṛte vyāse/  
-  
-52.17cd/ śālā caturdaśa^hṛte pañcatriṃśad^dhṛte +alindaḥ//  
-  
-52.18ab/ hasta^dvātriṃśa^ādiṣu catuś^catus^tri^trika^trikāḥ śālāḥ/  
-  
-52.18cd/ sapta^daśa^tritaya^tithi^trayodaśa^kṛtāṅgula^abhyadhikāḥ//  
-  
-52.19ab/ tri^tri^dvi^dvi^dvi^samāḥ kṣayakramād aṅgulāni ca^eteṣām/  
-  
-52.19cd/ vyekā viṃśatir aṣṭau viṃśatir aṣṭādaśa tritayam//  
-  
-52.20ab/ śālā^tribhāga^tulyā kartavyā vīthikā bahirbhavanāt/  
-  
-52.20cd/ yady agrato bhavati sā soṣṇīṣaṃ nāma tadvāstu//  
-  
-52.21ab/ sāyāśrayam iti paścāt sāvaṣṭambhaṃ tu pārśvasaṃsthitayā/  
-  
-52.21cd/ susthitam iti ca samantāt^śāstrajñaiḥ pūjitāḥ sarvāḥ//  
-  
-52.22ab/ vistāra^ṣoḍaśāṃśaḥ sacatur^hasto bhaved gṛha^ucchrāyaḥ/  
-  
-52.22cd/ dvādaśa^bhāgena^ūno bhūmau bhūmau samastānām//  
-  
-52.23ab/ vyāsāt ṣoḍaśabhāgaḥ sarveṣāṃ sadmanāṃ bhavati bhittiḥ/  
-  
-52.23cd/ pakva^iṣṭakā^ākṛtānāṃ dārukṛtānāṃ tu *na vikalpaḥ[K.savikalpaḥ, K's tr. na vikalpaḥ]//  
-  
-52.24ab/ ekādaśa^bhāga^yutaḥ sasaptatir nṛpa^baleśayor vyāsaḥ/  
-  
-52.24cd/ ucchrāyo +aṅgulatulyo dvārasyārdhena viṣkambhaḥ//  
-  
-52.25ab/ viprādīnāṃ vyāsāt pañcāṃśo +aṣṭādaśa^aṅgula^sametaḥ/  
-  
-52.25cd/ sāṣṭāṃśo viṣkambho dvārasya triguṇa ucchrāyaḥ//  
-  
-52.26ab/ ucchrāya^hasta^saṃkhyā^parimāṇāny aṅgulāni bāhulyam/  
-52.26cd/ śākhādvaye +api kāryaṃ sārdhaṃ tat syād udumbarayoḥ//  
-  
-52.27ab/ ucchrāyāt saptaguṇād aśītibhāgaḥ pṛthutvam eteṣām/  
-  
-52.27cd/ navaguṇite +aśītyaṃśaḥ stambhasya daśāṃśahīno +agre//  
-  
-52.28ab/ *samacaturasro[K.samacaturaśro] rucako vajro *+aṣṭāsrir[K.aṣṭāśris] dvivajrako dviguṇaḥ/  
-  
-52.28cd/ dvātriṃśatā tu madhye pralīnako vṛtta iti vṛttaḥ//  
-  
-52.29ab/ stambhaṃ vibhajya navadhā vahanaṃ bhāgo ghaṭo +asya bhāgo +anyaḥ/  
-  
-52.29cd/ padmaṃ tathā^uttaroṣṭhaṃ kuryād bhāgena bhāgena//  
-  
-52.30ab/ stambhasamaṃ bāhulyaṃ bhāratulānām upary upary āsām/  
-  
-52.30cd/ bhavati tulā^upatulānām ūnaṃ pādena pādena//  
-  
-52.31ab/ apratiṣiddha^alindaṃ samantato vāstu sarvatobhadram/  
-  
-52.31cd/ nṛpa^vibudha^samūhānāṃ kāryaṃ dvāraiś caturbhir api//  
-  
-52.32ab/ nandyāvartam alindaiḥ śālākuḍyāt pradakṣiṇa^antagataiḥ/  
-  
-52.32cd/ dvāraṃ paścimam asmin vihāya śeṣāṇi kāryāṇi//  
-  
-52.33ab/ dvārālindo +antagataḥ pradakṣiṇo +anyaḥ śubhas tataś cānyaḥ/  
-  
-52.33cd/ *tasmiṃś[K.tadvad] ca vardhamāne dvāraṃ tu na dakṣiṇaṃ kāryam//  
-  
-52.34ab/ aparo +antagato +alindaḥ prāgantagatau tadutthitau cānyau/  
-  
-52.34cd/ tadavadhi^*vidhṛtaś[K.vivṛtaś, K's tr. vidhṛta] cānyaḥ prāgdvāraṃ svastike *śubhadam[K.+aśubhadam, K's tr. śubham]//  
-  
-52.35ab/ prāk^paścima^avalindāv antagatau tad avadhisthitau śeṣau/  
-  
-52.35cd/ rucake dvāraṃ na śubhadam uttarato +anyāni śastāni//  
-  
-52.36ab/ śreṣṭhaṃ nandyāvartaṃ sarveṣāṃ vardhamāna^saṃjñaṃ ca/  
-  
-52.36cd/ svastika^rucake madhye śeṣaṃ śubhadaṃ nṛpa^ādīnām//  
-  
-52.37ab/ uttaraśālā^hīnaṃ hiraṇyanābhaṃ triśālakaṃ dhanyam/  
-  
-52.37cd/ prākśālayā viyuktaṃ sukṣetraṃ vṛddhidaṃ vāstu//  
-  
-52.38ab/ yāmyāhīnaṃ cullī triśālakaṃ vittanāśakaram etat/  
-  
-52.38cd/ pakṣaghnam aparayā varjitaṃ suta^dhvaṃsa^vaira^karam//  
-  
-52.39ab/ siddhārtham aparayāmye yamasūryaṃ paścimottare śāle/  
-  
-52.39cd/ daṇḍākhyam udakpūrve vāta^ākhyaṃ prāgyutā yāmyā//  
-  
-52.40ab/ pūrvāpare tu śāle gṛhacullī dakṣiṇottare kācam/  
-  
-52.40cd/ siddhārthe +arthāvāptir yamasūrye gṛhapater mṛtyuḥ//  
-  
-52.41ab/ daṇḍavadho daṇḍākhye kalaha^udvegaḥ sadaiva vāta^bākhye/  
-  
-52.41cd/ vittavināśaś cullyāṃ jñātivirodhaḥ smṛtaḥ kāce//  
-  
-52.42ab/ ekāśītivibhāge daśa daśa pūrvottarāyatā rekhāḥ/  
-  
-52.42cd/ antas trayodaśa surā dvātriṃśad^bāhya^koṣṭhasthāḥ//  
-  
-52.43ab/ śikhi^parjanya^jayanta^indra^sūrya^satyā bhṛśo +antarikṣaś ca/  
-  
-52.43cd/ *aiśānyādi[K.aiśānyādyāḥ]^kramaśo dakṣiṇapūrve +anilaḥ koṇe//  
-  
-52.44ab/ pūṣā vitatha^bṛhatkṣata^yama^gandharva^ākhya^bhṛṅgarāja^mṛgāḥ/  
-  
-52.44cd/ pitṛ^dauvārika^sugrīva^kusumadanta^ambupaty^asurāḥ//  
-  
-52.45ab/ śoṣo +atha pāpayakṣmā rogaḥ koṇe tato +ahi^mukhyau ca/  
-  
-52.45cd/ bhallāṭa^soma^bhujagās tato +aditir ditir iti kramaśaḥ//  
-  
-52.46ab/ madhye brahmā navakoṣṭhakādhipo +asya^aryamā sthitaḥ prācyām/  
-  
-52.46cd/ ekāntarāt pradakṣiṇam asmāt savitā vivasvāṃś ca//  
-  
-52.47ab/ vibudha^adhipatis tasmān mitro +anyo rāja^yakṣma^nāmā ca/  
-  
-52.47cd/ *pṛthivī[K.pṛthvī]dharāpavatsāv ity ete brahmaṇaḥ paridhau//  
-  
-52.48ab/ āpo nāma^aiśāne koṇe hautāśane ca sāvitraḥ/  
-  
-52.48cd/ jaya iti ca nairṛte rudra ānile +abhyantarapadeṣu//  
-  
-52.49ab/ āpas tathā^apavatsaḥ parjanyo +agnir ditiś ca vargo +ayam/  
-  
-52.49cd/ evaṃ koṇe koṇe padikāḥ syuḥ pañca pañca surāḥ//  
-  
-52.50ab/ bāhyā dvipadāḥ śeṣās te vibudhā viṃśati samākhyātāḥ/  
-  
-52.50cd/ śeṣāś catvāro +anye tripadā dikṣv aryamādyās te//  
-  
-52.51ab/ pūrvottaradig^mūrdhā puruṣo +ayam avāṅ^mukho +asya śirasi śikhī/  
-  
-52.51cd/ āpo mukhe stane +asyāryamā hy urasy āpavatsaś ca//  
-  
-52.52ab/ parjanyādyā bāhyā dṛkśravaṇa^uraḥsthalāṃsagā devāḥ/  
-  
-52.52cd/ satyādyāḥ pañca bhuje haste savitā *ca sāvitraḥ[K.sasāvitraḥ]//  
-  
-52.53ab/ vitatho bṛhatkṣatayutaḥ pārśve jaṭhare sthito vivasvāṃś ca/  
-  
-52.53cd/ ūrū jānu ca jaṅghe sphig iti yamādyaiḥ parigṛhītāḥ//  
-  
-52.54ab/ ete dakṣiṇapārśve sthāneṣv evaṃ ca vāmapārśvasthāḥ/  
-  
-52.54cd/ meḍhre śakra^jayantau hṛdaye brahmā pitā^*aṅghrigataḥ[K.aṅgrigataḥ]//  
-  
-52.55ab/ aṣṭa^aṣṭakapadam atha vā kṛtvā rekhāś ca koṇagās tiryak/  
-  
-52.55cd/ brahmā catuṣpado +asminn ardhapadā brahmakoṇasthāḥ//  
-  
-52.56ab/ aṣṭau ca bahiṣkoṇeṣv ardhapadās tad^ubhaya^sthitāḥ sa^ardhāḥ/  
-  
-52.56cd/ uktebhyo ye śeṣās te dvipadā viṃśatis te *hi[K.ca]//  
-  
-52.57ab/ sampātā vaṃśānāṃ madhyāni samāni yāni ca padānām/  
-  
-52.57cd/ marmāṇi tāni *vindyān na tāni paripīḍayet[K.vindyānn aparipīḍayet] prājñaḥ//  
-  
-52.58ab/ tāny aśucibhāṇḍa^kīla^stambha^ādyaiḥ pīḍitāni śalyaiś ca/  
-  
-52.58cd/ gṛhabhartus tattulye pīḍām aṅge prayacchanti//  
-  
-52.59ab/ kaṇḍūyate yad aṅgaṃ *gṛhabhartur[K.gṛhapatinā] yatra vā^amarāhutyām/  
-  
-52.59cd/ aśubhaṃ bhaven nimittaṃ vikṛter vā agneḥ saśalyaṃ tat//  
-  
-52.60ab/ dhanahānir dārumaye paśupīḍā rugbhayāni cāsthikṛte/  
-  
-[K.two verses inserted  
-  
-K. 53.60cd/ lohamaye śastra^bhayaṃ kapālakeśeṣu mṛtyuḥ syāt//  
-  
-K. 53.61ab/ aṅgāre stenabhayaṃ bhasmani ca vinirdiśet sadāgnibhayam/  
-  
-K. 53.61cd/ śalyaṃ hi marmasaṃsthaṃ suvarṇa^rajata^ādṛte +atyaśubham//  
-  
-K. 53.62ab/ marmaṇyamarmago vā ruṇaddhy arthāgamaṃ tuṣasamūhaḥ]/  
-  
-52.60cd/ api nāgadantako marma^saṃsthito doṣakṛd bhavati//  
-  
-52.61ab/ rogād vāyuṃ pitṛto hutāśanaṃ śoṣasūtram api vitathāt/  
-  
-52.61cd/ mukhyād bhṛśaṃ jayantāc ca bhṛṅgam aditeś ca sugrīvam//  
-  
-52.62ab/ tatsampātā nava ye tāny atimarmāṇi sampradiṣṭāni/  
-  
-52.62cd/ yaś ca padasya^aṣṭāṃśas tat proktaṃ marma^parimāṇam//  
-  
-52.63ab/ padahasta^saṃkhyayā sammitāni vaṃśo +aṅgulāni vistīrṇaḥ/  
-  
-52.63cd/ vaṃśavyāso +adhyardhaḥ śirāpramāṇaṃ vinirdiṣṭam//  
-  
-52.64ab/ sukham icchan brahmāṇaṃ yatnād rakṣed gṛhī *gṛhāntaḥstham[K.gṛtāntastham]/  
-  
-52.64cd/ ucchiṣṭa^ādy^upaghātād gṛhapatir upatapyate tasmin//  
-  
-52.65ab/ dakṣiṇabhujena hīne vāstunare +arthakṣayo *+aṅganādādoṣāḥ[K.aṅganādoṣāḥ]/  
-  
-52.65cd/ vāme +arthadhānyahāniḥ śirasi guṇair hīyate sarvaiḥ//  
-  
-52.66ab/ strīdoṣāḥ sutamaraṇaṃ preṣyatvaṃ ca^api caraṇavaikalye/  
-  
-52.66cd/ avikala^puruṣe vasatāṃ māna^artha^yutāni saukhyāni//  
-  
-52.67ab/ gṛha^nagara^grāmeṣu ca sarvatra^evaṃ pratiṣṭhitā devāḥ/  
-  
-52.67cd/ teṣu ca yatha^anurūpaṃ varṇā viprādayo vāsyāḥ/  
-  
-52.68ab/ vāsagṛhāṇi ca vindyād vipra^ādīnām udagdigādyāni/  
-  
-52.68cd/ viśatāṃ ca yathā bhavanaṃ bhavanti tāny eva dakṣiṇataḥ//  
-  
-52.69ab/ nava^guṇa^sūtra^vibhaktāny aṣṭa^guṇena^atha vā catuḥṣaṣṭeḥ/  
-  
-52.69cd/ dvārāṇi yāni teṣām anala^ādīnāṃ phala^upanayaḥ//  
-  
-52.70ab/ *anilabhayaṃ[K.analabhayaṃ] *strījananaṃ[K.strījanma] prabhūtadhanatā narendra^vāllabhyam/  
-  
-52.70cd/ krodhaparatā^anṛtatvaṃ krauryaṃ cauryaṃ ca pūrveṇa//  
-  
-52.71ab/ alpasutatvaṃ praiṣyaṃ nīcatvaṃ bhakṣya^pāna^suta^vṛddhiḥ/  
-  
-52.71cd/ raudraṃ kṛtaghnam adhanaṃ suta^vīrya^ghnaṃ ca yāmyena//  
-  
-52.72ab/ suta^pīḍā ripu^vṛddhir na suta^dhana^āptiḥ[K.dhanastāptiḥ] suta^artha^phala^sampat/  
-  
-52.72cd/ dhanasampan nṛpati^bhayaṃ dhana^kṣayo roga ity apare//  
-52.73ab/ vadha^bandho ripu^vṛddhiḥ sutadhanalābhaḥ[K.dhanasutalābhaḥ] samastaguṇasampat/  
-  
-52.73cd/ putradhanāptir vairaṃ sutena doṣāḥ striyā naiḥsvam//  
-  
-52.74ab/ mārga^taru^koṇa^kūpa^stambha^bhrama^viddham aśubbhadaṃ dvāram/  
-  
-52.74cd/ ucchrāyād dviguṇamitāṃ tyaktvā bhūmiṃ na doṣāya//  
-  
-52.75ab/ rathyā^āviddhaṃ dvāraṃ nāśāya kumāra^doṣadaṃ taruṇā/  
-  
-52.75cd/ paṅkadvāre śoko vyayo +ambuniḥsrāviṇi[K.ambuni śrāviṇi] proktaḥ//  
-  
-52.76ab/ kūpena^apasmāro bhavati vināśaś ca devatā^āviddhe/  
-  
-52.76cd/ stambhena strīdoṣāḥ kulanāśo brāhmaṇābhimukhe[K.brāhmaṇo +abhimukhe]//  
-  
-52.77ab/ unmādaḥ svayam udghāṭite +atha pihite svayaṃ kulavināśaḥ/  
-  
-52.77cd/ mānādhike nṛpa^bhayaṃ dasyubhayaṃ *vyasanam eva nīce ca[K.vyasanadaṃ nīcam]//  
-  
-52.78ab/ dvāraṃ dvārasya^upari yat tan na śivāya saṅkaṭaṃ yac ca/  
-  
-52.78cd/ āvyāttaṃ kṣudbhayadaṃ kubjaṃ kulanāśanaṃ bhavati//  
-  
-52.79ab/ pīḍākaram atipīḍitam antarvinataṃ bhaved abhāvāya/  
-  
-52.79cd/ bāhyavinate pravāso digbhrānte dasyubhiḥ pīḍā//  
-  
-52.80ab/ mūladvāraṃ nānyair dvārair abhisandadhīta rūpa^ṛddhyā/  
-  
-52.80cd/ ghaṭa^phala^patra^pramathā^ādibhiś ca tan^maṅgalaiś cinuyāt//  
-  
-52.81ab/ aiśānyādiṣu koṇeṣu saṃsthitā bāhyato gṛhasyaitāḥ/  
-  
-52.81cd/ carakī vidārināmā^atha pūtanā rākṣasī ca^iti//  
-  
-52.82ab/ purabhavanagrāmāṇāṃ ye koṇās teṣu nivasatāṃ doṣāḥ/  
-52.82cd/ śvapacādayo +antyajātyās teṣv eva vivṛddhim āyānti//  
-  
-52.83ab/ yāmyādiṣv aśubhaphalā jātās taravaḥ pradakṣiṇenaite/  
-  
-52.83cd/ udagādiṣu praśastāḥ plakṣa^vaṭa^udumbara^aśvatthā[K.udumbarāśvatthāḥ]//  
-  
-52.84ab/ āsannāḥ kaṇṭhakino ripubhayadāḥ kṣīriṇo +arthanāśāya/  
-  
-52.84cd/ phalinaḥ prajākṣayakarā dārūṇy api varjayed eṣām//  
-  
-52.85ab/ chindyād yadi na tarūṃś tān tadantare pūjitān vaped anyat[K.anyān]/  
-  
-52.85cd/ punnāga^aśoka^ariṣṭa^bakula^panasān śamī^śālau//  
-  
-52.86a śastauṣadhidrumalatā madhurā sugandhā  
-  
-52.86b snigdhā samā na suṣirā ca mahī narāṇām/  
-  
-52.86c apyadhvani śramavinodam upāgatānāṃ  
-  
-52.86d dhatte śriyaṃ kim uta śāśvatamandireṣu//  
-  
-52.87ab/ sacivālaye +arthanāśo dhūrtagṛhe sutavadhaḥ samīpasthe/  
-  
-52.87cd/ udvego devakule catuṣpade[K.ū.catuṣpathe] bhavati cākīrtiḥ//  
-  
-52.88ab/ caitye bhayaṃ grahakṛtaṃ valmīkaśvabhrasaṅkule vipadaḥ/  
-  
-52.88cd/ gartāyāṃ tu pipāsā kūrma^ākāre dhanavināśaḥ//  
-  
-52.89ab/ udagādiplavam iṣṭaṃ viprādīnāṃ pradakṣiṇenaiva/  
-  
-52.89cd/ vipraḥ sarvatra vased anuvarṇam atha^iṣṭam anyeṣām//  
-  
-52.90ab/ gṛhamadhye hastamitaṃ khātvā paripūritaṃ punaḥ śvabhram/  
-  
-52.90cd/ yady ūnam aniṣṭaṃ tat same samaṃ dhanyam adhikaṃ yat//  
-  
-52.91ab/ śvabhram atha vā^ambupūrṇaṃ padaśatam itvā^āgatasya yadi na^ūnam/  
-  
-52.91cd/ tad dhanyaṃ yac ca bhavet palāny apām āḍhakaṃ catuḥṣaṣṭiḥ//  
-  
-52.92ab/ āme vā mṛtpātre śvabhrasthe dīpavartir abhyadhikam/  
-  
-52.92cd/ jvalati diśi yasya śastā sā bhūmis tasya varṇasya//  
-  
-52.93ab/ śvabhroṣitaṃ na kusumaṃ yasya[K.yasmin] pramlāyate +anuvarṇasamam/  
-  
-52.93cd/ tattasya bhavati śubhadaṃ yasya ca yasmin mano ramate//  
-  
-52.94ab/ sita^rakta^pīta^kṛṣṇā viprādīnāṃ praśasyate bhūmiḥ/  
-  
-52.94cd/ gandhaś ca bhavati yasyāṃ[K.yasyā] ghṛtarudhirānnādyamadyasamaḥ//  
-  
-52.95ab/ kuśa^yuktā śara^bahulā dūrvā^kāśa^āvṛtā kremeṇa mahī/  
-  
-52.95cd/ *hy anuvarṇaṃ[K.anuvarṇam] vṛddhikarī madhura^kaṣāya^amla^kaṭukā ca//  
-  
-52.96ab/ kṛṣṭāṃ prarūḍhabījāṃ go +adhyuṣitāṃ brāhmaṇaiḥ praśastāṃ ca/  
-  
-52.96cd/ gatvā mahīṃ gṛhapatiḥ kāle sāmvatsaroddiṣṭe//  
-  
-52.97ab/ bhakṣyair nānākārair dadhy^akṣata^surabhi^kusuma^dhūpaiś ca/  
-  
-52.97cd/ daivatapūjāṃ kṛtvā sthapatīn abhyarcya viprāṃś ca//  
-  
-52.98ab/ vipraḥ spṛṣṭvā śīrṣaṃ vakṣaś ca kṣatriyo viśāś ca^ūrū/  
-  
-52.98cd/ śūdraḥ pādau spṛṣṭvā kuryād rekhāṃ gṛhārambhe//  
-  
-52.99ab/ aṅguṣṭhakena kuryān madhyāṅgulyā +atha vā pradeśinyā/  
-  
-52.99cd/ kanakamaṇirajatamuktād adhika^phala^kusuma^akṣataiś ca śubham//  
-  
-52.100ab/ śastreṇa śastra^mṛtyur bandho lohena bhasmanā^agnibhayam/  
-  
-52.100cd/ taskara^bhayaṃ tṛṇena ca kāṣṭha^ullikhitā ca rājabhayam//  
-  
-52.101ab/ vakrā pādālikhitā śatrubhayakleśadā virūpā ca/  
-  
-52.101cd/ carmāṅgārāsthikṛtā dantena ca bhartur[K.kartur] aśivāya//  
-  
-52.102ab/ vairam apasavyalikhitā pradakṣiṇaṃ sampado vinirdeśyāḥ/  
-  
-52.102cd/ vācaḥ paruṣā niṣṭhīvitaṃ kṣutaṃ cāśubhaṃ kathitam//  
-  
-52.103ab/ ardhanicitaṃ kṛtaṃ vā praviśan sthapatir gṛhe nimittāni/  
-  
-52.103cd/ avalokayed gṛhapatiḥ kva saṃsthitaḥ spṛśati kiṃ cāṅgam//  
-  
-52.104ab/ ravidīpte yadi śakunis tasmin kāle virauti paruṣaravam[K.paruṣaravaḥ]/  
-  
-52.104cd/ saṃspṛṣṭāṅgasamānaṃ tasmin deśe +asthi nirdeśyam//  
-  
-52.105ab/ śakuna^samaye +athvā +anye hasty^aśva^śvādayo +anuvāśante/  
-  
-52.105cd/ tatprabhavam asthi tasmiṃs tadaṅgasambhūtam eva^iti//  
-  
-52.106ab/ sūtre prasāryamāṇe gardabha^rāvo +asthiśalyam ācaṣṭe/  
-  
-52.106cd/ śva^śṛgāla^laṅghite vā sūtre śalyaṃ vinirdeśyam//  
-  
-52.107ab/ diśi śāntāyāṃ śakunir[K.śakuno] madhuravirāvī yadā tadā vācyaḥ/  
-  
-52.107cd/ arthas tasmin sthāne gṛheśvarādhiṣṭhite +aṅge vā//  
-  
-52.108ab/ sūtracchede mṛtyuḥ kīle ca^avāṅmukhe mahagaḥ[K.mahān rogaḥ]/  
-  
-52.108cd/ gṛhanāthasthapatīnāṃ smṛti^lope mṛtyur ādeśyaḥ//  
-  
-52.109ab/ skandhāc cyute śiroruk kulopasargo +apavarjite kumbhe/  
-  
-52.109cd/ bhagne +api ca karmivadhaś cyute karād gṛhapater mṛtyuḥ//  
-  
-52.110ab/ dakṣiṇapūrve koṇe kṛtvā pūjāṃ śilāṃ nyaset prathamam[K.prathamām]/  
-  
-52.110cd/ śeṣāḥ pradakṣiṇena stambhāś ca^evaṃ samutthāpya[K.samutthāpyāḥ]//  
-  
-52.111ab/ chatra^srag^ambara^yutaḥ kṛta^dhūpa^vilepanaḥ samutthāpyaḥ/  
-  
-52.111cd/ stambhas tatha^eva kāryo dvāra^ucchrāyaḥ prayatnena//  
-  
-52.112ab/ vihaga^ādibhir avalīnair ākampita^patita^duḥsthitaiś ca tathā[K.phalam]/  
-  
-52.112cd/ śakradhvaja^*sadṛśaphalaṃ tad eva tasmin[K.sadṛśaṃ tasmiṃś ca śubhaṃ] vinirdiṣṭam//  
-  
-52.113ab/ prāguttara^unnate dhanasutakṣayaḥ sutavadhaś ca durgandhe/  
-  
-52.113cd/ vakre bandhuvināśo na santi garbhāś ca din^mūḍhe//  
-  
-52.114ab/ icched yadi gṛha^vṛddhiṃ tataḥ samantād vivardhayet tulyam/  
-  
-52.114cd/ eka^uddeśe doṣaḥ prāg atha vā +apy uttare kuryāt//  
-  
-52.115ab/ prāg bhavati mitravairaṃ mṛtyubhayaṃ dakṣiṇena yadi vṛddhiḥ/  
-  
-52.115cd/ arthavināśaḥ paścād udag^vivṛddhir[K.udag^vivṛddhau] manastāpaḥ//  
-  
-52.116ab/ aiśānyāṃ devagṛhaṃ mahānasaṃ yadi ca^api kāryam āgneyyām/  
-  
-52.116cd/ nairṛtyāṃ bhāṇḍa^upaskaro +arthadhānyāni mārutyām//  
-  
-52.117ab/ prācyādisthe salile sutahāniḥ śikhi^bhayaṃ ripubhayaṃ ca/  
-  
-52.117cd/ strīkalahaḥ strīdauṣṭyaṃ naiḥsvyaṃ vittātmaja^vivṛddhiḥ//  
-  
-52.118ab/ khaga^nilaya^bhagna^saṃśuṣka^dagdha^devālaya^śmaśāna^sthān/  
-  
-52.118cd/ kṣīrataru^dhava^vibhītaka^nimba^araṇi^*varjitān chindyāt[K.varjitāṃś cchindyāt]//  
-  
-52.119ab/ rātrau kṛtabalipūjaṃ pradakṣiṇaṃ chedayed divā vṛkṣam/  
-  
-52.119cd/ dhanyam udakprākpatataṃ na grāhyo +ato +anyathā patitaḥ//  
-  
-52.120ab/ chedo yady avikārī tataḥ śubhaṃ dāru tad^gṛhaupayikam/  
-  
-52.120cd/ pīte tu maṇḍale nirdiśet taror madhyagāṃ godhām//  
-  
-52.121ab/ mañjiṣṭhābhe bheko nīle sarpas tathā+aruṇe saraṭaḥ/  
-  
-52.121cd/ mudgābhe +aśmā kapile tu mūṣako +ambhaś ca khaḍgābhe//  
-  
-52.122ab/ dhānya^go^guru^hutāśa^surāṇāṃ na svaped upari nāpy anuvaṃśam/  
-  
-52.122cd/ na^uttarāparaśirā na ca nagno naiva cārdracaraṇaḥ śriyam icchan//  
-  
-52.123ab/ bhūripuṣpa^vikaraṃ[K.nikaraṃ] satoraṇaṃ toyapūrṇakalaśa^upaśobhitam/  
-  
-52.123cd/ dhūpagandha^balipūjitāmaraṃ brāhmaṇadhvaniyutaṃ viśed gṛham//  
-
-53 dakārgalādhyāyaḥ  
-
-53.01ab/ dharmyaṃ yaśasyaṃ ca vadāmy ato +ahaṃ dakārgalaṃ[K.dagārgalaṃ] yena jala^upalabdhiḥ/  
-  
-53.01cd/ puṃsāṃ yathā^aṅgeṣu śirās tatha^eva kṣitāv api pronnata^nimna^saṃsthāḥ//  
-  
-53.02ab/ ekena varṇena rasena ca^ambhaś cyutaṃ nabhasto vasudhā^viśeṣāt/  
-  
-53.02cd/ nānārasatvaṃ bahuvarṇatāṃ ca gataṃ parīkṣyaṃ kṣiti^tulyam eva//  
-  
-53.03ab/ puruhūta^anala^yama^nirṛti^varuṇa^pavana^indu^śaṅkarā devāḥ/  
-  
-53.03cd/ vijñātavyāḥ kramaśaḥ prācya^ādyānāṃ diśāṃ patayaḥ//  
-  
-53.04ab/ dikpatisaṃjñā ca śirā navamī madhye mahāśirānāmnī/  
-  
-53.04cd/ etābhyo +anyāḥ śataśo viniḥsṛtā nāmabhiḥ prathitāḥ//  
-  
-53.05ab/ pātālād *ūrdhvaśirā śubhā[K.ūrdhvaśirāḥ śubhāś] caturdikṣu saṃsthitā yāś ca/  
-  
-53.05cd/ koṇadigutthā na śubhāḥ śirānimittāny ato vakṣye//  
-  
-53.06ab/ yadi vetaso +amburahite deśe hastais tribhis tataḥ paścāt/  
-  
-53.06cd/ sārdhe puruṣe toyaṃ vahati śirā paścimā tatra//  
-  
-53.07ab/ cihnam api ca^ardhapuruṣe maṇḍūkaḥ pāṇḍuro +atha mṛt pītā/  
-  
-53.07cd/ puṭabhedakaś ca tasmin pāṣāṇo bhavati toyam adhaḥ//  
-  
-53.08ab/ jambvāś ca^udag dhastais tribhiḥ śirā^adho naradvaye pūrvā/  
-  
-53.08cd/ mṛllohagandhikā pāṇḍurā ca[K.atha] puruṣe +atra maṇḍūkaḥ//  
-  
-53.09ab/ jambūvṛkṣasya prāg valmīko yadi bhavet samīpasthaḥ/  
-  
-53.09cd/ tasmād dakṣiṇapārśve salilaṃ puruṣadvaye svādu//  
-  
-53.10ab/ ardhapuruṣe ca matsyaḥ pārāvata^sannibhaś ca pāṣāṇaḥ/  
-  
-53.10cd/ mṛd bhavati ca^atra nīlā dīrghaṃ kālaṃ ca bahu toyam//  
-  
-53.11ab/ paścād udumbarasya tribhir eva karair naradvaye sārdhe/  
-  
-53.11cd/ puruṣe sito +ahir aśma^añjana^upamo +adhaḥ śirā sujalā//  
-  
-53.12ab/ udag arjunasya dṛśyo valmīko yadi tato +arjunād dhastaiḥ/  
-  
-53.12cd/ tribhir ambu bhavati puruṣais tribhir ardha^samanvitaiḥ paścāt//  
-  
-53.13ab/ śvetā godhā^ardhanare puruṣe mṛd dhūsarā tataḥ kṛṣṇā/  
-  
-53.13cd/ pītā sitā sasikatā tato jalaṃ nirdiśed amitam//  
-  
-53.14ab/ valmīka^upacitāyāṃ nirguṇḍyāṃ dakṣiṇena kathitakaraiḥ/  
-  
-53.14cd/ puruṣadvaye sapāde svādu jalaṃ bhavati ca^aśoṣyam//  
-  
-53.15ab/ rohita^matsyo +ardhanare mṛt kapilā pāṇḍurā tataḥ parataḥ/  
-  
-53.15cd/ sikatā saśarkarā +atha krameṇa parato bhavaty ambhaḥ//  
-  
-53.16ab/ pūrveṇa yadi badaryā valmīko dṛśyate jalaṃ paścāt/  
-  
-53.16cd/ puruṣais tribhir ādeśyaṃ śvetā gṛhagodhikā^ardhanare//  
-  
-53.17ab/ sapalāśā badarī ced diśy aparasyāṃ tato jalaṃ bhavati/  
-  
-53.17cd/ puruṣatraye sapāde puruṣe +atra ca duṇḍubhaś[K.duṇḍubhiś] cihnam//  
-  
-53.18ab/ vilva[K.bilva]^udumbarayoge vihāya hastatrayaṃ tu yāmyena/  
-  
-53.18cd/ puruṣais tribhir ambu bhavet kṛṣṇo +ardhanare ca maṇḍūkaḥ//  
-  
-53.19ab/ kākodumbarikāyāṃ valmīko dṛśyate śirā tasmin/  
-  
-53.19cd/ puruṣatraye sapāde paścimadiksthā vahati sā ca//  
-  
-53.20ab/ āpāṇḍupītikā mṛd gorasavarṇaś ca bhavati pāṣāṇaḥ/  
-  
-53.20cd/ puruṣārdhe kumudanibho dṛṣṭipathaṃ mūṣako yāti//  
-  
-53.21ab/ jalaparihīne deśe vṛkṣaḥ kampillako yadā dṛśyaḥ/  
-  
-53.21cd/ prācyāṃ hastatritaye vahati śirā dakṣiṇā prathamam//  
-  
-53.22ab/ mṛn^nīlotpala^varṇā kāpotā *dṛśyate tatas[K.ca^eva dṛśyate] tasmin/  
-  
-53.22cd/ haste *+ajagandhako matsyakaḥ[K.+ajagandhimatsyo bhavati] payo +alpaṃ ca sakṣāram//  
-  
-53.23ab/ śoṇākataror aparottare śirā dvau karāv atikramya/  
-  
-53.23cd/ kumudā nāma śirā sā puruṣatrayavāhinī bhavati//  
-  
-53.24ab/ āsanno valmīko dakṣiṇapārśve vibhītakasya yadi/  
-  
-53.24cd/ adhyardhe bhavati[K.tasya] śirā puruṣe jñeyā diśi prācyām//  
-  
-53.25ab/ tasya^eva paścimāyāṃ diśi valmīko yadā bhaved dhaste/  
-  
-53.25cd/ tatra^udag bhavati śirā caturbhir ardhādhikaiḥ puruṣaiḥ//  
-  
-53.26ab/ śveto viśvambharakaḥ prathame puruṣe tu kuṅkumābho +aśmā/  
-  
-53.26cd/ aparasyāṃ diśi ca śirā naśyati varṣatraye +atīte//  
-  
-53.27ab/ *sakuśaḥ sita[K.sakuśāsita] aiśānyāṃ valmīko yatra kovidārasya/  
-  
-53.27cd/ madhye tayor narair ardhapañcamais toyam akṣobhyam//  
-  
-53.28ab/ prathame puruṣe bhujagaḥ kamalodarasannibho mahī raktā/  
-  
-53.28cd/ kuruvindaḥ pāṣāṇaś cihnāny etāni vācyāni//  
-  
-53.29ab/ yadi bhavati saptaparṇo valmīkavṛtas taduttare toyam/  
-  
-53.29cd/ vācyaṃ puruṣaiḥ pañcabhir atrāpi bhavanti cihnāni//  
-  
-53.30ab/ puruṣa^ardhe maṇḍūko harito haritāla^sannibhā bhūś ca/  
-  
-53.30cd/ pāṣāṇo +abhranikāśaḥ saumyā ca śirā śubha^ambuvahā//  
-  
-53.31ab/ sarveṣāṃ vṛkṣāṇām adhaḥ sthito darduro yadā dṛśyaḥ/  
-  
-53.31cd/ tasmād dhaste toyaṃ caturbhir ardha^adhikaiḥ puruṣaiḥ//  
-  
-53.32ab/ puruṣe tu bhavati nakulo nīlo mṛt pītikā tataḥ śvetā/  
-  
-53.32cd/ dardura^samāna^rūpaḥ pāṣāṇo dṛśyate ca^atra//  
-  
-53.33ab/ yady ahinilayo dṛśyo dakṣiṇataḥ saṃsthitaḥ karañjasya/  
-  
-53.33cd/ hastadvaye tu yāmye puruṣatritaye śirā sārdhe//  
-  
-53.34ab/ kacchapakaḥ puruṣa^ardhe prathamaṃ ca^udbhidyate śirā pūrvā/  
-  
-53.34cd/ udag anyā svādujalā harito +aśmādhas tatas toyam//  
-  
-53.35ab/ uttarataś ca madhūkād ahinilayaḥ paścime taros toyam/  
-  
-53.35cd/ parihṛtya pañca hastān ardha^aṣṭama^pauruṣān[K.pauruṣe] prathamam//  
-  
-53.36ab/ ahirājaḥ puruṣe +asmin dhūmrā dhātrī kuluttha[K.kulattha]varṇo +aśmā/  
-  
-53.36cd/ māhendrī bhavati śirā vahati saphenaṃ sadā toyam//  
-  
-53.37ab/ valmīkaḥ snigdho dakṣiṇena tilakasya sakuśa^dūrvaś cet/  
-  
-53.37cd/ puruṣaiḥ pañcabhir ambho diśi vāruṇyāṃ śirā pūrvā//  
-  
-53.38ab/ sarpa^āvāsaḥ paścād yadā kadambasya dakṣiṇena jalam/  
-  
-53.38cd/ parato hastatritayāt ṣaḍbhiḥ puruṣais turīya^ūnaiḥ//  
-  
-53.39ab/ kauberī ca^atra śirā vahati jalaṃ lohagandhi ca^akṣobhyam/  
-53.39cd/ kanaka^nibho maṇḍūko naramātre mṛttikā pītā//  
-  
-53.40ab/ valmīkasaṃvṛto yadi tālo vā bhavati nālikero vā/  
-  
-53.40cd/ paścāt ṣaḍbhir hastair naraiś caturbhiḥ śirā yāmyā//  
-  
-53.41ab/ yāmyena kapitthasya^ahisaṃśrayaś ced udag jalaṃ vācyam/  
-  
-53.41cd/ sapta parityajya karān khātvā puruṣān jalaṃ pañca//  
-  
-53.42ab/ karburako +ahiḥ puruṣe kṛṣṇā mṛt puṭabhid api ca pāṣāṇaḥ/  
-  
-53.42cd/ śvetā mṛt paścimataḥ śirā tataś ca^uttarā bhavati//  
-  
-53.43ab/ aśmantakasya vāme badarī vā dṛśyate +ahinilayo vā/  
-  
-53.43cd/ ṣaḍbhir udak tasya karaiḥ sārdhe puruṣatraye toyam/  
-  
-53.44ab/ kūrmaḥ prathame puruṣe pāṣāṇo dhūsaraḥ sasikatā mṛt/  
-  
-53.44cd/ ādau *ca śirā[K.śirā ca] yāmyā pūrvottarato dvitīyā ca//  
-  
-53.45ab/ vāmena haridrataror valmīkaś *cej jalaṃ bhavati pūrve[K.cet tato jalaṃ]/  
-  
-53.45cd/ hastatritaye *satryaṃśaiḥ pumbhiḥ[K.puruṣaiḥ satryaṃśaiḥ] pañcabhir bhavati//  
-  
-53.46ab/ nīlo bhujagaḥ puruṣe mṛt pītā marakata^upamaś ca^aśmā/  
-  
-53.46cd/ kṛṣṇā bhūḥ prathamaṃ vāruṇī śirā dakṣiṇena^anyā//  
-  
-53.47ab/ jalaparihīne deśe dṛśyante +anūpajāni *cen nimitāni[K.cihnāni]/  
-  
-53.47cd/ vīraṇa^dūrvā mṛdavaś ca yatra tasmin jalaṃ puruṣe//  
-  
-53.48ab/ bhārṅgī trivṛtā dantī sūkarapādī ca lakṣmaṇā ca^eva/  
-  
-53.48cd/ navamālikā ca hastadvaye +ambu yāmye tribhiḥ puruṣaiḥ//  
-  
-53.49ab/ snigdhāḥ pralamba^śākhā vāmana^vikaṭa[K.viṭa]drumāḥ samīpajalāḥ/  
-  
-53.49cd/ suṣirā jarjara^patrā rūkṣāś ca jalena santyaktāḥ//  
-  
-53.50ab/ tilaka^āmrātaka^varuṇaka^bhallātaka^vilva[K.bilva]^tinduka^aṅkolāḥ[K.aṅkollāḥ]/  
-  
-53.50cd/ piṇḍāra^śirīṣa^añjana^parūṣakā *vañjulo +atibalā[K.vañjurātibalā]//  
-  
-53.51ab/ ete yadi susnigdhā valmīkaiḥ parivṛtās tatas toyam/  
-  
-53.51cd/ hastais tribhir uttarataś caturbhir ardhena ca nareṇa[K.narasya]//  
-  
-53.52ab/ atṛṇe satṛṇā yasmin satṛṇe tṛṇavarjitā mahī yatra/  
-  
-53.52cd/ tasmin śirā pradiṣṭā vaktavyaṃ vā dhanaṃ ca^asmin//  
-  
-53.53ab/ kaṇṭaky akaṇṭakānāṃ vyatyāse +ambhas tribhiḥ karaiḥ paścāt/  
-  
-53.53cd/ khātvā puruṣatritayaṃ tribhāgayuktaṃ dhanaṃ vā syāt//  
-  
-53.54ab/ nadati mahī gambhīraṃ yasmiṃś caraṇāhatā jalaṃ tasmin/  
-  
-53.54cd/ sārdhais tribhir manuṣyaiḥ kauberī tatra ca śirā syāt//  
-  
-53.55ab/ vṛkṣasya^ekā śākhā yadi vinatā bhavati pāṇḍurā vā syāt/  
-  
-53.55cd/ vijñātavyaṃ śākhātale jalaṃ tripuruṣaṃ khātvā//  
-  
-53.56ab/ phala^kusuma^vikāro yasya tasya pūrve śirā tribhir hastaiḥ/  
-  
-53.56cd/ bhavati puruṣaiś caturbhiḥ pāṣāṇo +adhaḥ kṣitiḥ pītā//  
-  
-53.57ab/ yadi kaṇṭakārikā kaṇṭakair vinā dṛśyate sitaiḥ kusumaiḥ/  
-  
-53.57cd/ tasyās tale +ambu vācyaṃ tribhir narair ardhapuruṣe ca//  
-  
-53.58ab/ kharjūrī dviśiraskā yatra bhavej jalavivarjite deśe/  
-  
-53.58cd/ tasyāḥ paścimabhāge nirdeśyaṃ tripuruṣair[K.tripuruṣe] vāri//  
-  
-53.59ab/ yadi bhavati karṇikāraḥ sitakusumaḥ syāt palāśavṛkṣo vā/  
-  
-53.59cd/ savyena tatra hastadvaye +ambu puruṣadvaye[K.puruṣatraye] bhavati//  
-  
-53.60ab/ *yasyām ūṣmā[K.ūṣmā yasyām] dhātryāṃ dhūmo vā tatra vāri narayugale[K.narayugme]/  
-  
-53.60cd/ nirdeṣṭavyā ca śirā mahatā toya^pravāheṇa//  
-  
-53.61ab/ yasmin kṣetroddeśe jātaṃ sasyaṃ vināśam upayāti/  
-  
-53.61cd/ snigdham atipāṇḍuraṃ vā mahāśirā narayuge tatra//  
-  
-53.62ab/ marudeśe bhavati śirā yathā tathā^ataḥ paraṃ pravakṣyāmi/  
-  
-53.62cd/ grīvā karabhāṇām iva bhūtala^saṃsthāḥ śirā yānti//  
-  
-53.63ab/ pūrvottareṇa pīlor yadi valmīko jalaṃ bhavati paścāt/  
-  
-53.63cd/ uttaragamanā ca śirā vijñeyā pañcabhiḥ puruṣaiḥ//  
-  
-53.64ab/ cihnaṃ dardura ādau *mṛt kapilā tatparaṃ[K.mṛtkapilātaḥ paraṃ] bhaved dharitā/  
-  
-53.64cd/ bhavati ca puruṣe adho +aśmā tasya tale *+ambho vinirdeṣyam[K.vāri nirdecyam]//  
-  
-53.65ab/ pīlor eva prācyāṃ valmīko +ato +ardhapañcamair hastaiḥ/  
-  
-53.65cd/ diśi yāmyāyāṃ toyaṃ vaktavyaṃ saptabhiḥ puruṣaiḥ//  
-  
-53.66ab/ prathame puruṣe bhujagaḥ sitāsito hastamātramūrtiś ca/  
-  
-53.66cd/ dakṣiṇato vahati śirā sakṣāraṃ bhūri pānīyam//  
-  
-53.67ab/ uttarataś ca karīrasya^ahigṛhaṃ[K.karīrād ahinilaye] dakṣiṇe jalaṃ svādu/  
-  
-53.67cd/ daśabhiḥ puruṣair jñeyam purṣe pīto +atra maṇḍūkaḥ//  
-  
-53.68ab/ rohītakasya paścād ahivāsaś cet tribhiḥ karair yāmye/  
-  
-53.68cd/ dvādaśa puruṣān khātvā sakṣārā paścimena śirā//  
-  
-53.69ab/ indrataror valmīkaḥ prāg dṛśyaḥ paścime śirā haste/  
-  
-53.69cd/ khātvā caturdaśa narān kapilā godhā nare prathame//  
-  
-53.70ab/ yadi vā suvarṇa^nāmnas taror bhaved vāmato bhujaṅga^gṛham/  
-  
-53.70cd/ hasta^dvaye tu yāmye pañcadaśa^nara^avasāne +ambu//  
-  
-53.71ab/ kṣāraṃ payo +atra nakulo +ardha^mānave tāmra^sannibhaś ca^aśmā/  
-  
-53.71cd/ raktā ca bhavati vasudhā vahati śirā dakṣiṇā tatra//  
-  
-53.72ab/ badarī^rohita^vṛkṣau sampṛktau ced vināpi valmīkam/  
-  
-53.72cd/ hasta^traye +ambu paścāt ṣoḍaśabhir mānavair bhavati//  
-  
-53.73ab/ surasaṃ jalam ādau dakṣiṇā śirā vahati ca^uttaneṇa^anyā/  
-53.73cd/ piṣṭanibhaḥ pāṣāṇo mṛt śvetā vṛściko +ardha^nare//  
-  
-53.74ab/ sakarīrā ced vadarī tribhiḥ karaiḥ paścimena tatra^ambhaḥ/  
-  
-53.74cd/ aṣṭādaśabhiḥ puruṣair aiśānī bahu^jalā ca śirā//  
-  
-53.75ab/ pīlu^sametā badarī hasta^traya^sammite diśi prācyām//  
-  
-53.75cd/ viṃśatyā puruṣāṇām aśoṣyam ambho +atra sakṣāram//  
-  
-53.76ab/ kakubha^karīrāv ekatra saṃyutau yatra kakubha^vilvau[K.bilbau] vā/  
-  
-53.76cd/ hasta^dvaye +ambu paścān narair bhavet pañcaviṃśatyā//  
-  
-53.77ab/ valmīka^mūrdhani yadā dūrvā ca kuśāś ca pāṇḍurāḥ santi/  
-  
-53.77cd/ kūpo madhye deyo jalam atra nara^ekaviṃśatyā//  
-  
-53.78ab/ bhūmiḥ kadambaka[K.bhūmī kadambaka, K's tr. bhūmīkadambaka]^yutā valmīke yatra dṛśyate dūrvā/  
-  
-53.78cd/ hasta^dvayena[K.hastatrayena] yāmye narair jalaṃ pañcaviṃśatyā//  
-  
-53.79ab/ valmīka^traya^madhye rohītaka^pādapo yadā bhavati/  
-  
-53.79cd/ nānā^vṛkṣaiḥ sahitas tribhir jalaṃ tatra vaktavyam//  
-  
-53.80ab/ hasta^catuṣke madhyāt ṣoḍaśabhiś ca^aṅgulair udag vāri/  
-  
-53.80cd/ catvāriṃśat puruṣān khātvā *+aśmā +adhaḥ[K.aśmātaḥ] śirā bhavati//  
-  
-53.81ab/ granthi^pracurā yasmin śamī bhaved uttareṇa valmīkaḥ/  
-  
-53.81cd/ paścāt pañca^kara^ante śata^ardha^saṃkhyair naraiḥ salilam//  
-  
-53.82ab/ ekasthāḥ pañca yadā valmīkā madhyamo bhavet^śvetaḥ/  
-  
-53.82cd/ tasmin śirā pradiṣṭā nara^ṣaṣṭyā pañca^varjitayā//  
-  
-53.83ab/ sa^palāśā yatra śamī paścimabhāge +ambu mānavaiḥ ṣaṣṭyā/  
-  
-53.83cd/ ardh^anare +ahiḥ prathamaṃ savālukā pītamṛt parataḥ//  
-  
-53.84ab/ valmīkena parivṛtaḥ śveto rohītako bhaved yasmin/  
-  
-53.84cd/ pūrveṇa hasta^mātre saptatyā mānavair ambu//  
-  
-53.85ab/ śvetā kaṇṭaka^bahulā yatra śamī dakṣiṇena tatra payaḥ/  
-  
-53.85cd/ nara^pañcaka^saṃyutayā saptatyā^ahir nara^ardhe ca//  
-  
-53.86ab/ marudeśe yac cihnaṃ na jāṅgale tair jalaṃ vinirdeśyam/  
-  
-53.86cd/ jambū^vetasa^*pūrvair[K.pūrve] ye puruṣās te marau dviguṇāḥ//  
-  
-53.87ab/ jambūs trivṛtā maurvī[K.mūrvā] śiśumārī sārivā śivā śyāmā/  
-  
-53.87cd/ vīrudhayo vārāhī jyotiṣmatī *garuḍavegā ca[K.ca garuḍavegā]//  
-  
-53.88ab/ sūkarika^māṣaparṇī^vyāghrapadāś ca^iti yady aher nilaye/  
-  
-53.88cd/ valmīkād uttaratas tribhiḥ karais tri^puruṣe toyam//  
-  
-53.89ab/ etad anūpe vācyaṃ jāṅgala^bhūmau tu pañcabhiḥ puruṣaiḥ/  
-  
-53.89cd/ etair eva nimittair marudeśe saptabhiḥ kathayet//  
-  
-53.90ab/ ekanibhā yatra mahī tṛṇa^taru^valmīka^gulma^parihīnā/  
-  
-53.90cd/ tasyāṃ yatra vikāro bhavati dharitryāṃ jalaṃ tatra//  
-  
-53.91ab/ yatra snigdhā nimnā savālukā sa^anunādinī vā syāt/  
-  
-53.91cd/ tatra ardhapañcakair[K.ardhapañcamair] vāri mānavaiḥ pañcabhir yadi vā//  
-  
-53.92ab/ snigdha^tarūṇāṃ yāmye naraiś caturbhir jalaṃ prabhūtaṃ ca/  
-  
-53.92cd/ taru^gahane +api hi vikṛto yas tasmāt tadvad eva vadet//  
-  
-53.93ab/ namate yatra dharitrī sa^ardhe puruṣe +ambu jāṅgala^anūpe/  
-  
-53.93cd/ kīṭā vā yatra vinā^ālayena bahavo +ambu tatra^api//  
-  
-53.94ab/ uṣṇā śītā ca mahī śīta^uṣṇa^ambhas tribhir naraiḥ sa^ardhaiḥ/  
-  
-53.94cd/ indradhanur matsyo vā valmīko vā catur^hastāt//  
-  
-53.95ab/ valmīkānāṃ paṅktyāṃ yady eko +abhyucchritaḥ śirā tad^adhaḥ/  
-  
-53.95cd/ śuṣyati na rohate vā sasyaṃ yasyāṃ ca tatra^ambhaḥ//  
-  
-53.96ab/ nyagrodha^palāśa^udumbaraiḥ sametais tribhir jalaṃ tad^adhaḥ/  
-  
-53.96cd/ vaṭa^pippala^samavāye tadvad vācyaṃ śirā ca^udak//  
-  
-53.97ab/ āgneye yadi koṇe grāmasya purasya vā bhavet[K.bhavati] kūpaḥ/  
-  
-53.97cd/ nityaṃ sa karoti bhayaṃ dāhaṃ ca samānuṣaṃ prāyaḥ//  
-  
-53.98ab/ nairṛta^koṇe bāla^kṣayaṃ *ca vanitā^bhayaṃ[K.vanitābhayaṃ] ca vāyavye/  
-  
-53.98cd/ dik^trayam etat tyaktvā śeṣāsu śubha^āvahāḥ kūpāḥ//  
-  
-53.99ab/ sārasvatena muninā dakārgalaṃ[K.dagārgalaṃ] yat krtaṃ tad avalokya/  
-  
-53.99cd/ āryābhiḥ kṛtam etad vṛttair api mānavaṃ vakṣye//  
-  
-53.100a snigdhā yataḥ pādapa^gulma^vallyo  
-  
-53.100b niśchidra^patrāś ca tataḥ śirā^asti/  
-  
-53.100c padma^kṣura^uśīra^kulāḥ saguṇḍrāḥ  
-  
-53.100d kāśāḥ kuśā vā nalikā nalo vā//  
-  
-53.101a kharjūra^jambū^arjuna^vetasāḥ syuḥ  
-  
-53.101b kṣīra^anvitā vā druma^gulma^vallyaḥ/  
-  
-53.101c chatra^ibha^nāgāḥ śatapatra^nīpāḥ  
-  
-53.101d syur naktamālāś ca sa^sinduvārāḥ//  
-  
-53.102a vibhītako vā madayantikā vā  
-  
-53.102b yatra^asti tasmin puruṣa^traye +ambhaḥ/  
-  
-53.102c syāt parvatasya^upari parvato +anyas  
-  
-53.102d tatra^api mūle puruṣa^traye +ambhaḥ//  
-  
-53.103a yā mauñjikaiḥ[K.mauñjakaiḥ] kāśa^kuśaiś ca yuktā  
-  
-53.103b nīlā ca mṛd yatra saśarkarā ca/  
-  
-53.103c tasyāṃ prabhūtaṃ surasaṃ ca toyaṃ  
-  
-53.103d kṛṣṇa^atha vā yatra ca raktamṛd vā//  
-  
-53.104a saśarkarā tāmra^mahī kaṣāyaṃ  
-  
-53.104b kṣāraṃ dharitrī kapilā karoti/  
-  
-53.104c āpāṇḍurāyāṃ lavaṇaṃ pradiṣṭaṃ  
-  
-53.104d mṛṣṭaṃ[K.miṣṭam] payo nīla^vasundharāyām//  
-  
-53.105a śāka^aśvakarṇa^arjuna^vilva[K.bilva]^sarjāḥ  
-  
-53.105b śrīparṇy^ariṣṭā^dhava^śiṃśapāś ca/  
-  
-53.105c chidraiś ca patrair[K.parṇair] druma^gulma^vallyo  
-  
-53.105d rūkṣāś ca dūre +ambu nivedayanti//  
-  
-53.106a sūrya^agni^bhasma^uṣṭra^khara^anuvarṇā  
-  
-53.106b yā nirjalā sā vasudhā pradiṣṭā/  
-  
-53.106c rakta^aṅkurāḥ kṣīra^yutāḥ karīrā  
-  
-53.106d raktā dharā cej jalam aśmano +adhaḥ//  
-  
-53.107a vaidūrya^mudga[K.vaiḍūryamuḍga]^ambuda^mecaka^ābhā  
-  
-53.107b pāka^unmukha^udumbara^sannibhā vā/  
-  
-53.107c bhaṅga[K.bhṛṅga]^añjana^ābhā kapilā^atha vā yā  
-  
-53.107d jñeyā śilā bhūri^samīpa^toyā//  
-  
-53.108a pārāvata[K.parāvata]^kṣaudra^ghṛta^upamā yā[K.vā]  
-  
-53.108b kṣaumasya vastrasya ca tulya^varṇā/  
-  
-53.108c yā somavallyāś ca samāna^rūpā  
-  
-53.108d sāpy āśu toyaṃ kurute +akṣayaṃ ca//  
-  
-53.109a tāmraiḥ sametā pṛṣatair vicitrair  
-  
-53.109b āpāṇḍu^bhasma^uṣṭra^khara^anurūpā/  
-  
-53.109c bhṛṅga^upama^aṅguṣṭhika^puṣpikā vā  
-  
-53.109d sūrya^agni^varṇā ca śilā vitoyā//  
-  
-53.110a candra^ātapa^sphaṭika^mauktika^hema^rūpā  
-  
-53.110b yāś ca^indranīla^maṇi^hiṅguluka^añjana^ābhāḥ/  
-  
-53.110c sūrya^udaya^aṃśu^haritāla^nibhāś ca yāḥ syus  
-  
-53.110d tāḥ śobhanā munivaco +atra ca vṛttam etat//  
-  
-53.111a etā hy abhedyāś ca śilāḥ śivāś ca  
-  
-53.111b yakṣaiś ca nāgaiś ca sadā^abhijuṣṭāḥ/  
-  
-53.111c yeṣāṃ ca rāṣṭreṣu bhavanti rājṇāṃ  
-  
-53.111d teṣām avṛṣṭir na bhavet kadā cit//  
-  
-53.112a bhedaṃ yadā naiti śilā tadānīṃ  
-  
-53.112b palāśa^kāṣṭhaiḥ saha tindukānām/  
-  
-53.112c prajvālayitvā^analam agnivarṇā  
-  
-53.112d sudhā^ambu^siktā pravidāram eti//  
-  
-53.113a toyaṃ śritaṃ[K.śṛtam] mokṣaka^bhasmanā vā  
-  
-53.113b yat saptakṛtvaḥ pariṣecanaṃ tat/  
-  
-53.113c kāryaṃ śara^kṣāra^yutaṃ śilāyāḥ  
-  
-53.113d prasphoṭanaṃ vahni^vitāpitāyāḥ//  
-  
-53.114a takra^kāñjika^surāḥ sakulatthā  
-  
-53.114b yojitāni badarāṇi ca tasmin/  
-  
-53.114c saptarātram uṣitāny abhitaptāṃ  
-  
-53.114d dārayanti hi śilāṃ pariṣekaiḥ//  
-  
-53.115a naimbaṃ patraṃ tvak ca nālaṃ tilānāṃ  
-  
-53.115b sa^apāmārgaṃ tindukaṃ syād guḍūcī/  
-  
-53.115c gomūtreṇa srāvitaḥ kṣāra eṣāṃ  
-53.115d ṣaṭ^kṛtvo +atas tāpito bhidyate +aśmā//  
-53.116a ārkaṃ payo huḍu^viṣāṇa^maṣī^sametaṃ  
-  
-53.116b pārāvata^ākhu^śakṛtā ca yutaḥ pralepaḥ/  
-  
-53.116c ṭaṅkasya taila^mathitasya tato +asya pānaṃ  
-  
-53.116d paścāt^śitasya na śilāsu bhaved vighātaḥ//  
-  
-53.117a kṣāre kadalyā mathitena yukte[K.yakte]  
-  
-53.117b dina^uṣite pāyitam āyasaṃ yat/  
-  
-53.117c samyak śitaṃ[K.chitaṃ] ca^aśmani na^eti bhaṅgaṃ  
-  
-53.117d na ca^anyaloheṣv api tasya kauṇṭhyam//  
-  
-53.118a pālī prāg^apara^āyatā^ambu suciraṃ dhatte na yāmyottarā  
-  
-53.118b kallolair avadāram eti marutā sā prāyaśaḥ preritaiḥ/  
-  
-53.118c tāṃ ced icchati sāra^dārubhir apāṃ sampātam āvārayet  
-  
-53.118d pāṣāṇa^ādibhir eva vā praticayaṃ kṣuṇṇaṃ[K.kṣunnaṃ] dvipa^aśva^ādibhiḥ//  
-  
-53.119ab/ kakubha^vaṭa^āmra^plakṣa^kadambaiḥ sa^nicula^jambū^vetasa^nīpaiḥ/  
-  
-53.119cd/ kurabaka[K.kuravaka]^tāla^aśoka^madhūkair bakula^vimiśraiś ca^āvṛta^tīrām//  
-  
-53.120a dvāraṃ ca nairvāhikam ekadeśe  
-  
-53.120b kāryaṃ śilā^sañcita^vārimārgam/  
-  
-53.120c kośa^sthitaṃ nirvivaraṃ kapāṭaṃ  
-  
-53.120d kṛtvā tataḥ pāṃśubhir āvapet tam//  
-  
-53.121ab/ añjana^mustā^uśīraiḥ sa^rājakośātaka^āmalaka^cūrṇaiḥ/  
-  
-53.121cd/ katakaphala^samāyuktair yogaḥ kūpe pradātavyaḥ//  
-  
-53.122a kaluṣaṃ kaṭukaṃ lavaṇaṃ virasaṃ  
-  
-53.122b salilaṃ yadi vā śubhagandhi[U.aśubhagandhi] bhavet/  
-  
-53.122c tad anena bhavaty amalaṃ surasaṃ  
-  
-53.122d susugandhi guṇair aparaiś ca yutam//  
-  
-53.123ab/ hasto maghā^anurādhā^puṣya^dhaniṣṭhā^uttarāṇi rohiṇyaḥ/  
-  
-53.123cd/ śatabhiṣag ity ārambhe kūpānāṃ śasyate bhagaṇaḥ//  
-  
-53.124ab/ kṛtvā varuṇasya baliṃ vaṭa^vetasa^kīlakaṃ śirā^sthāne/  
-  
-53.124cd/ kusumair gandhair dhūpaiḥ sampūjya nidhāpayet prathamam//  
-  
-[K.54.125ab/ meghodbhavaṃ prathamam eva mayā pradiṣṭaṃ jyeṣṭhām atītya baladevamatādi dṛṣṭvā/  
-  
-K.54.125cd/ bhaumaṃ dagārgalam idaṃ kathitaṃ dvitīyaṃ samyag varāhamihireṇa muniprasādāt//]  
-
-54 vṛkṣāyurvedādhyāyaḥ  
-
-54.01ab/ prānta^cchāyā^vinirmuktā na manojñā jalāśayāḥ/  
-  
-54.01cd/ yasmād ato jala^prānteṣv ārāmān viniveśayet//  
-  
-54.02ab/ mṛdvī bhūḥ sarvavṛkṣāṇāṃ hitā tasyām tilān vapet/  
-  
-54.02cd/ puṣpitāṃs tāṃś ca mṛdnīyāt[K.gṛhṇīyāt] karma^etat prathamaṃ bhuvaḥ[K.bhuvi]//  
-  
-54.03ab/ ariṣṭa^aśoka^punnāga^śirīṣāḥ sapriyaṅgavaḥ/  
-  
-54.03cd/ maṅgalyāḥ pūrvam ārāme ropaṇīyā gṛheṣu vā//  
-  
-54.04ab/ panasa^aśoka^kadalī^jambū^lakuca^dāḍimāḥ/  
-  
-54.04cd/ drākṣā^pālīvatāś ca^eva bījapūra^atimuktakāḥ//  
-  
-54.05ab/ ete drumāḥ kāṇḍaropyā[K.kāṇḍāropyā] gomayena pralepitāḥ/  
-  
-54.05cd/ mūlocchede +atha vā skandhe ropaṇīyāḥ *paraṃ tataḥ[K.prayatnataḥ]//  
-  
-54.06ab/ ajātaśākhān śiśire jātaśākhān himāgame/  
-  
-54.06cd/ varṣāgame ca suskandhān *yathādiksthān praropayet[K.yathādik pratiropayet]//  
-  
-54.07ab/ ghṛta^uśīra^tila^kṣaudra^viḍaṅga^kṣīra^gomayaiḥ/  
-  
-54.07cd/ āmūla^skandha^liptānāṃ saṃkrāmaṇa^viropaṇam//  
-  
-54.08ab/ śucir bhūtvā taroḥ pūjāṃ kṛtvā snāna^anulepanaiḥ/  
-  
-54.08cd/ ropayed ropitaś ca^eva patrais tair eva jāyate//  
-  
-54.09ab/ sāyaṃ prātaś ca gharma^ṛtau[K.gharmānte] śītakāle dina^antare/  
-  
-54.09cd/ varṣāsu ca bhuvaḥ śoṣe sektavyā ropitā drumāḥ//  
-  
-54.10ab/ jambū^vetasa^vānīra^kadamba^udumbara^arjunāḥ/  
-  
-54.10cd/ bījapūraka^mṛdvīkā^lakucāś ca sadāḍimāḥ//  
-  
-54.11ab/ vañjulo naktamālaś ca tilakaḥ panasas tathā/  
-  
-54.11cd/ timiro +amrātakaś ca^iti[K.ca^eva] ṣoḍaśa^anūpajāḥ smṛtāḥ//  
-  
-54.12ab/ uttamaṃ viṃśatir hastā madhyamaṃ ṣoḍaśāntaram/  
-  
-54.12cd/ sthānāt sthānāntaraṃ kāryaṃ vṛkṣāṇāṃ dvādaśa^avaram//  
-  
-54.13ab/ abhyāsajātās taravaḥ samspṛśantaḥ parasparam/  
-  
-54.13cd/ miśrair mūlaiś ca na phalaṃ samyag yacchanti pīḍitāḥ//  
-  
-54.14ab/ śīta^vāta^ātapai rogo jāyate pāṇḍu^patratā/  
-  
-54.14cd/ avṛddhiś ca pravālānāṃ[U.prabālānām] śākhāśoṣo rasasrutiḥ//  
-  
-54.15ab/ cikitsitam atha^eteṣāṃ śastreṇa^ādau viśodhanam/  
-  
-54.15cd/ viḍaṅga^ghṛta^paṅka^aktān secayet kṣīravāriṇā//  
-  
-54.16ab/ phala^nāśe kulatthaiś ca māṣair mudgais tilair yavaiḥ/  
-  
-54.16cd/ śṛta^śīta^payaḥ^sekaḥ phala^puṣpa^samṛddhaye[K.abhivṛddhaye]//  
-  
-54.17ab/ avikā^aja^śakṛc^cūrṇasya^āḍhake dve tila^āḍhakam/  
-  
-54.17cd/ saktu^prastho jala^droṇo gomāṃsa^tulayā saha//  
-  
-54.18ab/ sapta^rātra^uṣitair etaiḥ sekaḥ kāryo vanaspateḥ/  
-  
-54.18cd/ valmī^gulma^latānāṃ ca phala^puṣpāya sarvadā//  
-  
-54.19a vāsarāṇi daśa dugdha^bhāvitaṃ  
-  
-54.19b bījam ājya^yuta^hasta^yojitam/  
-  
-54.19c gomayena bahuśo virūkṣitaṃ  
-  
-54.19d krauḍa^mārga^piśitaiś ca dhūpitam//  
-  
-54.20ab/ māṃsa[K.matsya]^sūkara^vasā^samanvitaṃ ropitaṃ ca parikarmita^avanau/  
-  
-54.20cd/ kṣīra^saṃyuta^jala^avasecitaṃ jāyate kusuma^yuktam eva tat//  
-  
-54.21ab/ tintiḍī^ity api karoti vallarīṃ vrīhi^māṣa^tila^cūrṇa^saktubhiḥ/  
-  
-54.21cd/ pūtimāṃsa^sahitaiś ca secitā dhūpitā ca satataṃ haridrayā//  
-  
-54.22a kapittha^vallī^karaṇāya mūlāny  
-  
-54.22b āsphota^dhātrī^dhava^vāsikānām/  
-  
-54.22c palāśinī vetasa^sūryaballī[K.ū.vallī]  
-  
-54.22d śyāma^atimuktaiḥ sahita^aṣṭamūlī//  
-  
-54.23a kṣīre śṛte ca^apy anayā suśīte  
-  
-54.23b tālā[K.nālā] śataṃ sthāpya kapitthabījam/  
-  
-54.23c dine dine śoṣitam arkapādair  
-  
-54.23d māsaṃ vidhis tv eṣa tato +adhiropyam//  
-  
-54.24a hasta^āyataṃ taddviguṇaṃ gabhīraṃ  
-  
-54.24b khātvā^avaṭaṃ prokta^jala^avapūrṇam/  
-  
-54.24c śuṣkaṃ pradagdhaṃ madhu^sarpiṣā tat  
-  
-54.24d pralepayed bhasma^samanvitana[K.ū.samanvitena]//  
-  
-54.25a cūrṇīkṛtair māṣa^tilair yavaiś ca  
-  
-54.25b prapūrayed mṛttikayā^antarasthaiḥ/  
-  
-54.25c matsyāmiṣa^ambhas[K.ambhaḥ]^sahitaṃ ca hanyād  
-  
-54.25d yāvad ghanatvaṃ samupāgataṃ tat//  
-  
-54.26a uptaṃ ca bījaṃ catur^aṅgula^adho  
-  
-54.26b matsya^ambhasā māṃsa^jalaiś ca siktam/  
-  
-54.26c vallī bhavaty āśu śubha^pravālā  
-  
-54.26d vismāpanī maṇḍapam āvṛṇoti//  
-  
-54.27ab/ śataśo +aṅkola[K.aṅkolla]^sambhūta^phala^kalkena bhāvitam/  
-  
-54.27cd/ etat tailena vā bījaṃ ślaiṣmātaka[K.ū.śleṣmātaka]^phalena vā//  
-  
-54.28ab/ vāpitaṃ karaka^unmiśra^mṛdi tatkṣaṇa^janmakam/  
-  
-54.28cd/ phala^bhāra^anvitā śākhā bhavati^iti kim adbhutam//  
-  
-54.29ab/ śleṣmātakasya bījāni niṣkulī^kṛtya bhāvayet prājñaḥ/  
-  
-54.29cd/ aṅkola[K.aṅkolla]^vijjalā^adbhiś chāyāyāṃ saptakṛtva[K.saptakṛtv]^evam//  
-  
-54.30ab/ māhiṣa^gomaya^ghṛṣṭāny asya karīṣe ca tāni nikṣipya/  
-  
-54.30cd/ karakā^jala^mṛd^yoge nyuptāny ahnā phala^karāṇi//  
-  
-54.31ab/ dhruva^mṛdu^mūla^viśākhā gurubhaṃ śravaṇas tathā^aśvinī hastaḥ[K.hastaṃ]/  
-  
-54.31cd/ uktāni divya^dṛgbhiḥ pādapa^saṃropaṇe bhāni//  
-
-55 prāsādalakṣaṇādhyāyaḥ  
-
-55.01ab/ kṛtvā prabhūtaṃ salilam ārāmān viniveśya ca/  
-  
-55.01cd/ devatā^āyatanaṃ kuryād yaśo^dharma^abhivṛddhaye//  
-  
-55.02ab/ iṣṭā^pūrtena labhyante ye lokās tān bubhūṣatā/  
-  
-55.02cd/ devānām ālayaḥ kāryo dvayam api atra dṛśyate//  
-  
-55.03ab/ salila^udyāna^yukteṣu kṛteṣv akṛteṣu ca/  
-  
-55.03cd/ sthāneṣv eteṣu sānnidhyam upagacchanti devatāḥ//  
-  
-55.04ab/ saraḥsu nalinī^chatra^nirasta^raviraśmiṣu/  
-  
-55.04cd/ haṃsa^aṃsa^ākṣipta^kahlāra^vīthī[K.vīcī, K's tr. vīthī]^vimala^vāriṣu//  
-  
-55.05ab/ haṃsa^kāraṇḍava^krauñca^cakravāka^virāviṣu/  
-  
-55.05cd/ paryanta^nicula^cchāyā^viśrānta^jalacāriṣu//  
-  
-55.06ab/ krauñca^kāñcīkalāpāś ca kalahaṃsa^kala^svarāḥ[K.svanāḥ]/  
-  
-55.06cd/ nadyas toya^aṃśukā yatra śapharī^kṛta^mekhalāḥ//  
-  
-55.07ab/ phulla^tīra^druma^uttaṃsāḥ saṅgama^śroṇi^maṇḍalāḥ/  
-  
-55.07cd/ pulina^abhyunnata^urasyā haṃsa^vāsāś[K.haṃsahāsāś] ca nimnagāḥ//  
-  
-55.08ab/ vana^upānta^nadī^śaila^nirjhara^upānta^bhūmiṣu/  
-  
-55.08cd/ ramante devatā nityaṃ pureṣu^udyānavatsu ca//  
-  
-55.09ab/ bhūmayo brāhmaṇādīnāṃ yāḥ proktā vāstukarmaṇi/  
-  
-55.09cd/ tā eva teṣāṃ śasyante devatā^āyataneṣv api//  
-  
-55.10ab/ catuḥṣaṣṭi^padaṃ kāryaṃ devatā^āyatanaṃ sadā/  
-  
-55.10cd/ dvāraṃ ca madhyamaṃ tasmin[K.tatra] samadiksthaṃ praśasyate//  
-  
-55.11ab/ yo vistāro bhaved yasya dviguṇā tatsamunnatiḥ/  
-  
-55.11cd/ ucchrāyād yas tṛtīyāṃśas tena tulyā *kaṭiḥ smṛtā[K.kaṭir bhavet]//  
-  
-55.12ab/ vistāra^ardhaṃ bhaved garbho bhittayo +anyāḥ samantataḥ/  
-  
-55.12cd/ garbha^pādena vistīrṇaṃ dvāraṃ dviguṇam ucchritam//  
-  
-55.13ab/ ucchrāyāt pāda^vistīrṇā śākhā tadvad udumbaraḥ/  
-  
-55.13cd/ vistāra^pāda^pratimaṃ bāhulyaṃ śākhayoḥ smṛtam//  
-  
-55.14ab/ tri^pañca^sapta^navabhiḥ śākhābhis tat praśasyate/  
-  
-55.14cd/ adhaḥ śākhā^caturbhāge pratīhārau niveśayet///  
-  
-55.15ab/ śeṣaṃ maṅgalya^vihagaiḥ *śrīvṛkṣaiḥ svastikair[K.śrīvṛkṣasvastikair] ghaṭaiḥ/  
-  
-55.15cd/ mithunaiḥ patra^vallībhiḥ pramathaiś ca^upaśobhayet//  
-  
-55.16ab/ dvāra^māna^aṣṭa^bhāga^ūnā pratimā syāt sapiṇḍikā/  
-  
-55.16cd/ dvau bhāgau pratimā tatra tṛtīyāṃśaś ca piṇḍikā//  
-  
-55.17ab/ meru^mandara^kailāsa^vimānacchanda^nandanāḥ/  
-  
-55.17cd/ samudga^padma^garuḍa^nandivardhana^kuñjarāḥ//  
-  
-55.18ab/ guharājo vṛṣo haṃsaḥ sarvatobhadrako ghaṭaḥ/  
-  
-55.18cd/ siṃho vṛttaś catuṣkoṇaḥ ṣoḍaśa^aṣṭāśrayas tathā//  
-  
-55.19ab/ ity ete viṃśatiḥ proktāḥ prāsādāḥ saṃjñayā mayā/  
-  
-55.19cd/ yathokta^anukrameṇa^eva lakṣaṇāni vadāmy ataḥ//  
-  
-55.20ab/ tatra ṣaḍaśrir merur dvādaśa^bhaumo vicitra^kuharaś ca/  
-  
-55.20cd/ dvārair yutaś caturbhir dvātriṃśad^dhasta^vistīrṇaḥ//  
-  
-55.21ab/ triṃśad^dhasta^āyāmo daśa^bhaumo mandaraḥ śikhara^yuktaḥ/  
-  
-55.21cd/ kailāso +api śikharavān aṣṭāviṃśo +aṣṭa^bhaumaś ca//  
-  
-55.22ab/ jāla^gavākṣaka^yukto vimānasaṃjñas tri^saptaka^āyāmaḥ/  
-  
-55.22cd/ nandana iti ṣaḍ^bhaumo dvātriṃśaḥ ṣoḍaśa^aṇḍa^yuktaḥ//  
-  
-55.23ab/ vṛttaḥ samudga^nāmā padmaḥ padma^ākṛtiḥ śayā aṣṭau[K.śayānāṣṭau]/  
-  
-55.23cd/ śṛṅgeṇa^ekena bhaved eka^eva ca bhūmikā tasya//  
-  
-55.24ab/ garuḍa^ākṛtiś ca garuḍo nandī^iti ca ṣaṭcatuṣka^vistīrṇaḥ/  
-  
-55.24cd/ kāryas tu[K.ca] sapta^bhaumo vibhūṣito +aṇḍais tu[K.ca] viṃśatyā//  
-  
-55.25ab/ kuñjara iti gaja^pṛṣṭhaḥ ṣoḍaśahastaḥ samantato mūlāt/  
-  
-55.25cd/ guharājaḥ ṣoḍaśakas tri^candraśālā bhaved valabhī//  
-  
-55.26ab/ vṛṣa eka^bhūmi^śṛṅgo dvādaśahastaḥ samantato vṛttaḥ/  
-  
-55.26cd/ haṃso haṃsa^ākāro ghaṭo +aṣṭahastaḥ kalaśa^rūpaḥ//  
-  
-55.27ab/ dvārair yutaś caturbhir bahu^śikharo bhavati sarvatobhadraḥ/  
-  
-55.27cd/ bahu^rucira^candraśālaḥ ṣaḍviṃśaḥ pañca^bhaumaś ca//  
-  
-55.28ab/ siṃhaḥ siṃha^ākrānto dvādaśakoṇo +aṣṭahasta^vistīrṇaḥ/  
-  
-55.28cd/ catvāro +añjana^rūpāḥ pañca^aṇḍa^yutas tu caturasraḥ[K.caturaśraḥ]//  
-  
-55.29ab/ bhūmikā^aṅgula^mānena mayasya^aṣṭottaraṃ śatam/  
-  
-55.29cd/ sārdhaṃ hastatrayaṃ ca^eva kathitaṃ viśvakarmaṇā//  
-  
-55.30ab/ prāhuḥ sthapatayaś ca^atra matam ekaṃ vipaścitaḥ/  
-  
-55.30cd/ kapotapāli^saṃyuktā nyūnā gacchanti tulyatām//  
-  
-55.31a prāsādalakṣaṇam idam kathitaṃ samāsād  
-  
-55.31b gargeṇa yad viracitaṃ tad iha^asti sarvam/  
-  
-55.31c manu^ādibhir viracitāni pṛthūni yāni  
-  
-55.31d tatsaṃspṛśan[K.tatsaṃsmṛtiṃ] prati mayā^atra kṛto +adhikāraḥ//  
-
-56 vajralepalakṣaṇādhyāyaḥ  
-
-56.01ab/ āmaṃ tindukam āmaṃ kapitthakaṃ puṣpam api ca śālmalyāḥ/  
-  
-56.01cd/ bījāni śallakīnāṃ dhanvana^valko vacā ca^iti//  
-  
-56.02ab/ etaiḥ saliladroṇaḥ kvāthayitavyo +aṣṭabhāgaśeṣaś ca/  
-  
-56.02cd/ avatāryo +asya ca kalko dravyair etaiḥ samanuyojyaḥ//  
-  
-56.03ab/ śrīvāsaka^rasa^guggulu^bhallātaka^kundurūka^sarjarasaiḥ/  
-  
-56.03cd/ atasī^bilvaiś ca yutaḥ kalko +ayaṃ vajralepa^ākhyaḥ//  
-56.04ab/ prāsāda^harmya^valabhī^liṅga^pratimāsu kuḍya^kūpeṣu/  
-  
-56.04cd/ santapto dātavyo varṣa^sahasrāyuta^sthāyī//  
-  
-56.05ab/ lākṣā^kunduru^guggulu^gṛhadhūma^kapittha^bilva^madhyāni/  
-  
-56.05cd/ nāga*phala^nimba[K.balāphala]^tinduka^madana^phala^madhūka^mañjiṣṭhāḥ//  
-  
-56.06ab/ sarjarasa^rasa^āmalakāni ca^iti kalkaḥ kṛto dvitīyo +ayam/  
-  
-56.06cd/ vajrākhyaḥ prathamaguṇair ayam api teṣv eva kāryeṣu//  
-  
-56.07ab/ go^mahiṣa^aja^viṣāṇaiḥ khararomṇā mahiṣacarma^gavyaiś ca/  
-  
-56.07cd/ nimba^kapittha^rasaiḥ saha vajratalo[K.vajrataro] nāma kalko +anyaḥ//  
-  
-56.08ab/ aṣṭau sīsaka^bhāgāḥ kāṃsasya dvau tu rītikā^bhāgaḥ/  
-  
-56.08cd/ maya^kathito yogo +ayaṃ vijñeyo vajrasaṅghātaḥ//  
-
-57 pratimālakṣaṇādhyāyaḥ/  
-
-57.01ab/ jāla^antarage bhānau yad aṇutaraṃ darśanaṃ rajo yāti/  
-  
-57.01cd/ tad vindyāt paramāṇuṃ prathamaṃ taddhi pramāṇānām//  
-  
-57.02ab/ paramāṇu^rajo bālāgra[K.vālāgra]^likṣa^yūkaṃ[K.yūkā] yavo +aṅgulaṃ ca^iti/  
-  
-57.02cd/ aṣṭaguṇāni yathottaram aṅgulam ekaṃ bhavati saṃkhyā[K.mātrā]//  
-  
-57.03ab/ devāgāra^dvārasya^aṣṭa^amśa^ūnasya yas tṛtīyo +aṃśaḥ/  
-  
-57.03cd/ tat^piṇḍikā^pramāṇaṃ pratimā tad^dviguṇa^parimāṇā//  
-  
-57.04ab/ svair aṅgula^pramāṇair dvādaśa vīstīrṇam[U.vistīrṇam] āyataṃ ca mukham/  
-  
-57.04cd/ nagnajitā tu caturdaśa dairghyeṇa drāviḍaṃ kathitam//  
-  
-57.05ab/ nāsā^lalāṭa^cibuka^grīvāś catura^aṅgulās tathā karṇau/  
-  
-57.05cd/ dve aṅgule ca hanunī[K.hanuke] cibukaṃ ca dvyaṅgulaṃ vitatam[K.vistṛtam]//  
-  
-57.06ab/ aṣṭa^aṅgulaṃ lalāṭaṃ vistārād dvy^aṅgulāt pare śaṅkhau/  
-  
-57.06cd/ catur^aṅgulau tu śaṅkhau karṇau tu dvy^aṅgulau[K.dvyaṅgulaṃ] pṛthulau//  
-  
-57.07ab/ karṇa^upāntaḥ kāryo +ardha^pañcame bhrū^samena sūtreṇa/  
-  
-57.07cd/ karṇa^srotaḥ sukumārakam ca netra[K.nayana]^prabandha^samam//  
-  
-57.08ab/ catur^aṅgulaṃ vasiṣṭhaḥ kathayati netrānta^karṇayor vivaram/  
-  
-57.08cd/ adharo +aṅgula^pramāṇas tasya^ardhena^uttroṣṭhaś ca//  
-  
-57.09ab/ ardha^aṅgulā tu gocchā vaktraṃ catur^aṅgula^āyataṃ kāryam/  
-  
-57.09cd/ vipulaṃ tu sa^ardham aṅgulam *avyāttaṃ try^aṅgulaṃ[K.adhyāttattryaṅgulaṃ] vyāttam//  
-  
-57.10ab/ dvy^aṅgula^tulyau nāsāpuṭau ca nāsā puṭā^agrato jñeyā/  
-  
-57.10cd/ syād dvy^aṅgulam ucchrāyaś catur^aṅgulam antaraṃ ca^akṣṇoḥ//  
-  
-57.11ab/ dvy^aṅgula^mito +akṣi^kośo dve netre tat^tribhāgikā tārā/  
-  
-57.11cd/ dṛk^tārā pañca^aṃśo netra^vikāśo +aṅgulaṃ bhavati//  
-  
-57.12ab/ paryantāt paryantaṃ daśa bhruvo +ardha^aṅgulaṃ bhruvor lekhā/  
-  
-57.12cd/ bhrū^madhyaṃ dvy^aṅgulakaṃ bhūr[U.bhrūr] dhairghyeṇa^aṅgula^catuṣkam//  
-  
-57.13ab/ kāryā tu keśa^rekhā bhrū^bandha^sama^aṅgula^ardha^vistīrṇā/  
-  
-57.13cd/ netra^ante karavīrakam upanyased aṅgula^pramitam//  
-  
-57.14ab/ dvātriṃśat pariṇāhāc caturdaśa^āyāmato +aṅgulāni śiraḥ/  
-  
-57.14cd/ dvādaśa tu citra^karmaṇi dṛśyante viṃśatir adṛśyāḥ//  
-  
-57.15ab/ āsyaṃ sa^keśa^nicayaṃ ṣoḍaśa dairghyeṇa nagnijit[U.nagnajit]^proktam/  
-  
-57.15cd/ grīvā daśa vistīrṇā pariṇāhād viṃśatiḥ sa^ekā//  
-  
-57.16ab/ kaṇṭhād dvādaśa hṛdayaṃ hṛdayān nābhī[K.nābhiś] ca tat^pramāṇena/  
-  
-57.16cd/ nābhī^madhyād meḍhra^antaraṃ ca tat^tulyam eva^uktam//  
-  
-57.17ab/ ūrū ca^aṅgula^mānaiś catur^yutā viṃśatis tathā jaṅghe/  
-  
-57.17cd/ jānukapicche catur^aṅgule ca pādau ca tat^tulyau//  
-  
-57.18ab/ dvādaśa^dīrghau ṣaṭ pṛthutayā ca pādau trika^āyata^aṅguṣṭhau/  
-  
-57.18cd/ pañca^aṅgula^pariṇāhau pradeśinī try^aṅgulaṃ dīrghā//  
-  
-57.19ab/ aṣṭa^aṃśa^aṃśa^ūnāḥ śeṣa^aṅgulyaḥ[K.śeṣāṅgulayaḥ] krameṇa kartavyāḥ/  
-57.19cd/ sa^caturtha^bhāgam aṅgulam utsedho +aṅguṣṭhakasya^uktaḥ//  
-  
-57.20ab/ aṅguṣṭha^nakhaḥ kathitas caturtha^bhāga^ūnam aṅgulaṃ tajjñaiḥ/  
-  
-57.20cd/ śeṣa^nakhānām ardha^aṅgulaṃ kramāt kiṃcid^ūnaṃ vā//  
-  
-57.21ab/ jaṅgha^agre pariṇāhaś caturdaśa^uktas tu vistarāt[K.vistaraḥ] pañca/  
-  
-57.21cd/ madhye tu sapta vipulā pariṇāhāt triguṇitāḥ sapta//  
-  
-57.22ab/ aṣṭau tu jānumadhye vaipulyaṃ try^aṣṭakaṃ tu pariṇāhaḥ/  
-  
-57.22cd/ vipulau caturdaśa^ūrū madhye dviguṇaś ca tat^paridhiḥ//  
-  
-57.23ab/ kaṭir aṣṭādaśa vipulā catvāriṃśac catur^yutā paridhau/  
-  
-57.23cd/ aṅgulam ekaṃ nābhī[K.nābhir] vedhena tathā pramāṇena//  
-  
-57.24ab/ catvāriṃśad^dvi^yutā nābhī^madhyena madhya^pariṇāhaḥ/  
-  
-57.24cd/ stanayoḥ ṣoḍaśa ca^antaram ūrdhvaṃ kakṣye[K.kakṣe] ṣaḍ^aṅgulike//  
-  
-57.25ab/ *aṣṭāv aṃsau dvādaśa bāhū kāryau[K.kāryāv aṣṭāv aṃsau dvādaśa bāhū] tathā prabāhū ca/  
-  
-57.25cd/ bāhū ṣaḍ^vistīrṇau[K.ṣaḍvistirṇau] pratibāhū tv aṅgula^catuṣkam//  
-  
-57.26ab/ ṣoḍaśa bāhū mūle pariṇāhād dvādaśa^agra^haste ca/  
-  
-57.26cd/ vistāreṇa karatalaṃ ṣaḍ^aṅgulaṃ sapta dairghyeṇa//  
-  
-57.27ab/ pañca^aṅgulāni madhyā pradeśinī madhya^parva^dala^hīnā/  
-  
-57.27cd/ anayā tulyā ca^anāmikā kaniṣṭhā tu parva^ūnā//  
-  
-57.28ab/ parva^dvayam aṅguṣṭhaḥ śeṣa^aṅgulyas[K.śeṣāṅgulayas] tribhis tribhiḥ kāryāḥ/  
-  
-57.28cd/ nakha^parimāṇaṃ kāryaṃ sarvāsām parvaṇo +ardhena//  
-  
-57.29ab/ deśa^anurūpa^bhūṣaṇa^veṣālaṅkāra^mūrtibhiḥ kāryā/  
-  
-57.29cd/ pratimā lakṣaṇa^yuktā sannihitā vṛddhidā bhavati//  
-  
-57.30ab/ daśaratha^tanayo rāmo baliś ca vairocaniḥ śataṃ viṃśam/  
-  
-57.30cd/ dvādaśa^hānyā śeṣāḥ pravara^sama^nyūna^parimāṇāḥ//  
-  
-57.31ab/ kāryo +aṣṭabhujo bhagavāṃś catur^bhujo dvibhuja eva vā viṣṇuḥ/  
-  
-57.31cd/ śrīvatsa^aṅkita^vakṣāḥ kaustubha^maṇi^bhūṣita^uraskaḥ//  
-  
-57.32ab/ atasī^kusuma^śyāmaḥ pīta^ambara^nivasanaḥ prasanna^mukhaḥ/  
-  
-57.32cd/ kuṇḍala^kirīṭa^dhārī pīna^gala^uraḥsthala^aṃsa^bhujaḥ//  
-  
-57.33ab/ khaḍga^gadā^śara^pāṇir dakṣiṇataḥ śāntidaś caturtha^karaḥ/  
-  
-57.33cd/ vāma^kareṣu ca kārmuka^kheṭaka^cakrāṇi śaṅkhaś ca//  
-  
-57.34ab/ atha ca caturbhujam icchati śāntida eko gadā^dharaś ca^anyaḥ/  
-  
-57.34cd/ dakṣiṇa^pārśve tv[K.hy] evaṃ vāme śaṅkhaś ca cakraṃ ca//  
-  
-57.35ab/ dvibhujasya tu śānti^karo dakṣiṇa^hasto +aparaś ca śaṅkha^dharaḥ/  
-  
-57.35cd/ evaṃ viṣṇoḥ pratimā kartavyā bhūtim icchadbhiḥ//  
-  
-57.36ab/ baladevo hala^pāṇir mada^vibhrama^locanaś ca kartavyaḥ/  
-  
-57.36cd/ vibhrat[K.bibhrat] kuṇḍalam ekaṃ śaṅkha^indu^mṛṇāla^gaura^tanuḥ[K.vapuḥ]//  
-  
-57.37ab/ ekānaṃśā kāryā devī baladeva^kṛṣṇayor madhye/  
-  
-57.37cd/ kaṭi^saṃsthita^vāma^karā sarojam itareṇa ca^udvahatī//  
-  
-57.38ab/ kāryā caturbhujā yā vāma^karābhyāṃ sa^pustakaṃ kamalam/  
-  
-57.38cd/ dvābhyāṃ dakṣiṇa^pārśve varam arthiṣv akṣa^sūtraṃ ca//  
-  
-57.39ab/ *vāmo +atha vā^aṣṭa^bhujāyāḥ[K.vāmeṣv aṣṭabhujāyāḥ] kamaṇḍaluś cāpam ambujaṃ śāstram/  
-  
-57.39cd/ vara^śara^darpaṇa^yuktāḥ savya^bhujāḥ sa^akṣa^sūtrāś ca//  
-  
-57.40ab/ śāmbaś ca gadā^hastaḥ pradyumnaś cāpa^bhṛt surūpaś ca/  
-  
-57.40cd/ anayoḥ striyau ca kārye kheṭaka^nistriṃśa^dhāriṇyau//  
-  
-57.41ab/ brahmā kamaṇḍalu^karaś catur^mukhaḥ paṇkaja^āsana^sthaś ca/  
-  
-57.41cd/ skandaḥ kumāra^rūpaḥ śakti^dharo barhiketuś ca//  
-  
-57.42ab/ śukla^catur^viṣāṇo dvipo mahendrasya vajra^pāṇitvam/  
-  
-57.42cd/ tiryag lalāṭa^saṃsthaṃ tṛtīyam api locanaṃ cihnam//  
-  
-57.43ab/ śambhoḥ śirasi^indukalā vṛṣa^dhvajo +akṣi ca tṛtīyam api ca^ūrdhvam/  
-  
-57.43cd/ śūlaṃ dhanuḥ pinākaṃ vāma^ardhe vā girisutā^ardham//  
-  
-57.44ab/ padma^aṅkita^kara^caraṇaḥ prasanna^mūrtiḥ sunīca^keśaś ca/  
-  
-57.44cd/ padmāsana^upaviṣṭaḥ pitā^iva jagato bhavati[K.bhavet] buddhaḥ//  
-  
-57.45ab/ ā^jānu^lamba^bāhuḥ śrīvatsa^aṅkaḥ praśānta^mūrtiś ca/  
-  
-57.45cd/ dig^vāsās taruṇo rūpavāṃś ca kāryo +arhatāṃ devaḥ//  
-  
-57.46ab/ nāsā^lalāṭa^jaṅgha^ūru^gaṇḍa^vakṣāṃsi ca^unnatāni raveḥ/  
-  
-57.46cd/ kuryād udīcya^veṣaṃ gūḍhaṃ pādād uro yāvat//  
-  
-57.47ab/ bibhrāṇaḥ sva^kara^ruhe bāhubhyāṃ[K.pāṇibhyāṃ] paṅkaje mukuṭa^dhārī/  
-  
-57.47cd/ kuṇḍala^bhūṣita^vadanaḥ pralamba^hāro viyadga[K's tr. viyaṅga]^vṛtaḥ//  
-  
-57.48cd/ kamala^udara^dyuti^mukhaḥ kañcuka^guptaḥ smita^prasanna^mukhaḥ/  
-  
-57.48cd/ ratna^ujjvala^prabhā^maṇḍalaś ca kartuḥ śubhakaro +arkaḥ//  
-  
-57.49ab/ saumyā tu hasta^mātrā vasudā hasta^dvaya^ucchritā pratimā/  
-  
-57.49cd/ kṣema^subhikṣāya bhavet tri^catur^hasta^pramāṇā yā//  
-  
-57.50ab/ nṛpa^bhayam atyaṅgāyāṃ hīna^aṅgāyām akalyatā kartuḥ/  
-  
-57.50cd/ śāta^udaryāṃ kṣud^bhayam artha^vināśaḥ kṛśa^aṅgāyām[K.kṛśāyāṃ ca]//  
-  
-57.51ab/ maraṇaṃ tu sa^kṣatāyāṃ śastra^nipātena nirdiśet kartuḥ/  
-  
-57.51cd/ vāma^avanatā patnīṃ dakṣiṇa^vinatā hinasty āyuḥ//  
-  
-57.52ab/ andhatvam ūrdhva^dṛṣṭyā karoti cintām adhomukhī dṛṣṭiḥ/  
-  
-57.52cd/ sarva^pratimāsv evaṃ śubha^aśubhaṃ bhāskara^ukta^samam//  
-  
-57.53ab/ liṅgasya vṛtta^paradhiṃ dairghyeṇa^āsūtrya tat tridhā vibhajet/  
-  
-57.53cd/ mūle tac caturasraṃ[K.caturaśraṃ] madhye tv aṣṭāśriṃ vṛttam ataḥ//  
-  
-57.54ab/ caturasram[K.caturaśram] avani^khāte madhyaṃ kāryaṃ tu piṇḍikā^śvabhre/  
-  
-57.54cd/ dṛśya^ucchrāyeṇa samā samantataḥ piṇḍikā[K.piṇḍakā] śvabhrāt//  
-  
-57.55ab/ kṛśa^dīrghaṃ deśaghnaṃ pārśva^vihīnaṃ purasya nāśaya/  
-  
-57.55cd/ yasya kṣataṃ bhaved mastake vināśāya tal^liṅgam//  
-  
-57.56ab/ mātṛ^gaṇaḥ kartavyaḥ sva^nāma^deva^anurūpa^kṛta^cihnaḥ/  
-  
-57.56cd/ revanto +aśva^ārūḍho mṛgayā^krīḍā^ādi^parivāraḥ//  
-  
-57.57ab/ daṇḍī yamo mahiṣago haṃsa^ārūḍhaś ca pāśabhṛd varuṇaḥ/  
-  
-57.57cd/ nara^vāhanaḥ kubero vāma^kirīṭī bṛhat^kukṣiḥ//  
-  
-[K.58.58ab/ pramathādhipo gajamukhaḥ pralamba^jaṭharaḥ kuṭhāradhārī syāt/  
-  
-K.58.58cd/ ekaviṣāṇo bibhran mūlakakandaṃ sunīladalakandam//]  
-
-58 vanasampraveśādhyāyaḥ  
-
-58.01ab/ kartur anukūla^divase daivajña^viśodhite śubha^nimitte/  
-  
-58.01cd/ maṅgala^śakunaiḥ prāsthānikaiś ca vana^sampraveśaḥ syāt//  
-  
-58.02ab/ pitṛvana^mārga^surālaya^valmīka^udyāna^tāpasāśrama^jāḥ/  
-  
-58.02cd/ caitya^saritsaṅgama^sambhavāś ca ghaṭatoya^siktāś ca//  
-  
-58.03ab/ kubja^anujāta^vallī^nipīḍitā vajra^māruta^upahatāḥ/  
-  
-58.03cd/ svapatita^hasti^nipīḍita^śuṣka^agni^pluṣṭa^madhunilayāḥ//  
-  
-58.04ab/ taravo varjayitavyāḥ śubhadāḥ syuḥ snigdha^patra^kusuma^phalāḥ/  
-  
-58.04cd/ abhimata^vṛkṣaṃ gatvā kuryāt pūjāṃ sabali^puṣpām//  
-  
-58.05ab/ suradāru^candana^śamī^madhūka^taravaḥ śubhā dvijātīnām/  
-  
-58.05cd/ kṣatrasya^ariṣṭa^aśvattha^khadira^bilvā vivṛddhikarāḥ//  
-  
-58.06ab/ vaiśyānāṃ jīvaka^khadira^sindhuka^syandanāś[K.spandanāś] ca śubhaphaladāḥ/  
-  
-58.06cd/ tinduka^kesara^sarja^arjuna^āmra^śālāś ca śūdrāṇām//  
-  
-58.07ab/ liṅgaṃ vā pratimā vā drumavat sthāpyā yathā diśaṃ yasmāt/  
-  
-58.07cd/ tasmāc cihnayitavyā diśo drumasya^ūrdhvam atha vā^adhaḥ/  
-  
-58.08ab/ paramānna^modaka^odana^dadhi^palala^ullopikā^ādibhir bhakṣyaiḥ/  
-  
-58.08cd/ madyaiḥ kusumair dhūpair gandhaiś ca taruṃ samabhyarcya//  
-  
-58.09ab/ sura^pitṛ^piśāca^rākṣasa^bhujaga^asura^gaṇa^vināyaka^ādyānām/  
-  
-58.09cd/ kṛtvā rātrau pūjāṃ vṛkṣaṃ saṃspṛśya ca brūyāt//  
-  
-58.10ab/ arcārtham amukasya tvaṃ devasya parikalpitaḥ/  
-  
-58.10cd/ namas te vṛkṣa pūjeyaṃ vidhivat sampragṛhyatām//  
-  
-58.11a yānīha bhūtāni vasanti tāni  
-  
-58.11b baliṃ gṛhītvā vidhivat prayuktam/  
-  
-58.11c anyatra vāsaṃ parikalpyantu  
-  
-58.11d kṣamantu tāny adya namo +astu tebhyaḥ//  
-  
-58.12a vṛkṣaṃ prabhāte salilena siktvā  
-  
-58.12b pūrvottarasyāṃ diśi sannikṛtya/  
-  
-58.12c madhvājya^digdhena[K.liptena] kuṭhārakeṇa  
-  
-58.12d pradakṣiṇaṃ śeṣam ato nihanyāt[K.+abhihanyāt]//  
-  
-58.13a pūrveṇa pūrvottarato +atha vā^udak  
-  
-58.13b pated yadā vṛddhikaras tadā syāt/  
-  
-58.13c āgneyakoṇāt kramaśo +agnidāha^  
-  
-58.13d rugrāga[K.kṣudroga]rogās turagakṣayaś ca//  
-  
-58.14a yan na^uktam asmin vana^sampraveśe  
-  
-58.14b nipāta^vicchedana^vṛkṣagarbhāḥ/  
-  
-58.14c indradhvaje vāstuni ca pradiṣṭāḥ  
-  
-58.14d pūrvaṃ mayā te +atra tatha^eva yojyāḥ//  
-
-59 pratimāpratiṣṭhāpanādhyāyaḥ  
-
-59.01ab/ diśi yāmyāyāṃ[K.saumyāyāṃ] kuryād adhivāsana^maṇḍapaṃ budhaḥ prāg vā/  
-  
-59.01cd/ toraṇa^catuṣṭaya^yutaṃ śasta^druma^pallava^cchannam//  
-  
-59.02ab/ pūrve bhāge citrāḥ srajaḥ patākāś ca maṇḍapasya^uktāḥ/  
-  
-59.02cd/ āgneyyāṃ diśi raktāḥ kṛṣṇāḥ syur yāmya^nairṛtyoḥ[K.nairṛtayoḥ]//  
-  
-59.03ab/ śvetā diśy aparasyām vāyavyāyāṃ tu pāṇḍurā eva/  
-  
-59.03cd/ citrāś ca^uttara^pārśve pītāḥ pūrvottare kāryāḥ[K.koṇe]//  
-  
-59.04ab/ āyuḥ^śrī^bala^jayadā dāru^mayī mṛṇ^mayī[K.mṛnmayī] tathā pratimā/  
-  
-59.04cd/ loka^hitāya maṇi^mayī sauvarṇī puṣṭidā bhavati//  
-  
-59.05ab/ rajata^mayī kīrti^karī prajā^vivṛddhiṃ karoti tāmra^mayī/  
-  
-59.05cd/ bhū^lābhaṃ tu mahāntaṃ śailī pratimā^atha vā liṅgam//  
-  
-59.06ab/ śaṅkhu^upahatā pratimā pradhāna^puruṣaṃ kulaṃ ca ghātayati/  
-  
-59.06cd/ śvabhra^upahatā rogān upadravāṃś ca kṣayam[K.akṣayān] kurute//  
-  
-59.07ab/ maṇḍapa^madhye sthaṇḍilam upalipya^āstīrya sikatayā^atha kuśaiḥ/  
-59.07cd/ bhadrāsana^kṛta^śīrṣa^upadhāna^pādāṃ nyaset pratimām//  
-  
-59.08ab/ plakṣa^aśvattha^udumbara^śirīṣa^vaṭa^sambhavaiḥ kaṣāya^jalaiḥ/  
-  
-59.08cd/ maṅgalya^saṃjñitābhiḥ sarva^auṣadhibhiḥ kuśa^ādyābhiḥ//  
-  
-59.09ab/ dvipa^vṛṣabha^uddhata[K.uddhṛta]^parvata^valmīka^sarit^samāgama^taṭeṣu/  
-  
-59.09cd/ padma^saraḥsu ca mṛdbhiḥ sa^pañcagavyaiś ca tīrtha^jalaiḥ//  
-  
-59.10ab/ pūrva^śiraskāṃ snātāṃ suvarṇa^ratna^ambubhiś ca sa^sugandhaiḥ/  
-  
-59.10cd/ nānā^tūrya^ninādaiḥ puṇyāhair veda^nirghoṣaiḥ//  
-  
-59.11ab/ aindryāṃ diśi^indra^liṅgā mantrāḥ prāgdakṣiṇe +agni^liṅgāś ca/  
-  
-59.11cd/ vaktavyā[K.japtavyā] dvija^mukhyaiḥ pūjyās te dakṣiṇābhiś ca//  
-  
-59.12ab/ yo devaḥ saṃsthāpyas tan^mantraiś ca^analaṃ dvijo juhuyāt/  
-  
-59.12cd/ agni^nimittāni mayā proktāni^indra^dhvaja^utthāne[K.ucchrāye]//  
-  
-59.13ab/ dhūma^ākulo +apasavyo muhur muhur viphuliṅga^kṛn na śubhaḥ/  
-  
-59.13cd/ hotuḥ smṛti^lopo vā prasarpaṇaṃ ca^aśubhaṃ proktam//  
-  
-59.14ab/ snātām abhukta^vastrāṃ sv^alaṅkṛtāṃ pūjitām kusuma^gandhaiḥ/  
-  
-59.14cd/ pratimāṃ sv^āstīrṇāyām śayyāyām sthāpakaḥ kuryāt//  
-  
-59.15ab/ suptāṃ *sa^gīta^nṛtyair jāgaraṇaiḥ[K.sunṛtyagītair jāgarakaiḥ] samyag evam adhivāsya/  
-  
-59.15cd/ daivajña^sampradiṣṭe kāle saṃsthāpanaṃ kuryāt//  
-  
-59.16ab/ abhyarcya kusuma^vastra^anulepanaiḥ śaṅkha^tūrya^nirghoṣaiḥ/  
-  
-59.16cd/ prādakṣiṇyena nayed āyatanasya prayatnena//  
-  
-59.17ab/ kṛtvā baliṃ prabhūtaṃ sampūjya brāhmaṇāṃś ca sabhyāṃś ca/  
-  
-59.17cd/ dattvā hiraṇya^śakalaṃ vinikṣipet piṇḍikā^śvabhre/  
-  
-59.18ab/ sthāpaka^daivajña^dvija^sabhya^sthapatīn viśeṣato +abhyarcya/  
-  
-59.18cd/ kalyāṇānāṃ bhāgī bhavati^iha paratra ca svargī//  
-  
-59.19a viṣṇor bhāgavatān magāṃś ca savituḥ śambhoḥ sa^bhasma^dvijān  
-  
-59.19b mātṝṇām api maṇḍala^krama^vido[K.mātṛmaṇḍalavido] viprān vidur brahmaṇaḥ/  
-  
-59.19c śākyān sarva^hitasya śānta^manaso nagnān jinānāṃ vidur  
-  
-59.19d ye yaṃ devam upāśritāḥ sva^vidhinā tais tasya kāryā kriyā//  
-  
-59.20ab/ udagayane sitapakṣe śiśira^gabhastau ca jīva^varga^sthe/  
-  
-59.20cd/ lagne sthire sthira^aṃśe saumyair dhī^dharma^kendra^gataiḥ//  
-  
-59.21ab/ pāpair upacaya^saṃsthair dhruva^mṛdu^hari^tiṣya^vāyu^deveṣu/  
-  
-59.21cd/ vikuje dine +anukūle devānāṃ sthāpanaṃ śastam//  
-  
-59.22ab/ sāmānyam idaṃ samāsato lokānāṃ hitadaṃ mayā kṛtam/  
-  
-59.22cd/ adhivāsana^sanniveśane sāvitre pṛthag eva vistarāt//  
-
-60 golakṣaṇādhyāyaḥ  
-
-60.01a parāśaraḥ prāha bṛhadrathāya  
-  
-60.01b go^lakṣaṇaṃ yat kriyate tato +ayam/  
-  
-60.01c mayā samāsaḥ śubha^lakṣaṇās tāḥ  
-  
-60.01d sarvās tathā +apy āgamato +abhidhāsye//  
-  
-60.02ab/ sāsra^āvila^rūkṣa^akṣyo mūṣaka^nayanāś na śubhadā gāvaḥ/  
-  
-60.02cd/ pracalac^cipiṭa^viṣāṇāḥ karaṭāḥ khara^sadṛśa^varṇāś[K.varnāḥ] ca//  
-  
-60.03ab/ daśa^sapta^catur^dantyaḥ pralamba^muṇḍa^ānanā vinata^pṛṣṭhyaḥ[K.pṛṣṭhāḥ ū.pṛṣṭhaḥ]/  
-  
-60.03cd/ hrasva^sthūla^grīvā yava^madhyā dārita^khurāś ca//  
-  
-60.04ab/ śyāva^atidīrgha^jihvā gulphair atitanubhir atibṛhadbhir vā/  
-  
-60.04cd/ atikakudāḥ kṛśa^dehā na^iṣṭā hīna^adhika^aṅgyaś ca//  
-  
-60.05ab/ vṛṣabho +apy evaṃ sthūla^atilamba^vṛṣaṇaḥ śirā^tata^kroḍaḥ/  
-  
-60.05cd/ sthūla^śirā^cita^gaṇḍas tristhānaṃ mehate yaś ca//  
-  
-60.06ab/ mārjāra^akṣaḥ kapilaḥ karaṭo vā na śubhado dvijasya^eva[K.dvijasyeṣṭaḥ]/  
-  
-60.06cd/ kṛṣṇa^oṣṭha^tālu^jihvaḥ śvasano yūthasya ghātakaraḥ//  
-  
-60.07ab/ sthūla^śakṛn^maṇi^śṛṅgaḥ sita^udaraḥ kṛṣṇa^sāra^varṇaś ca/  
-  
-60.07cd/ gṛhajāto +api tyājyo yūtha^vināśa^āvaho vṛṣabhaḥ//  
-  
-60.08ab/ śyāmaka^puṣpa^cita^aṅgo bhasma^aruṇa^sannibho biḍāla^akṣaḥ/  
-  
-60.08cd/ viprāṇām api na śubhaṃ karoti vṛṣabhaḥ parigṛhītaḥ//  
-  
-60.09ab/ ye ca^uddharanti pādān paṅkād iva yojitāḥ kṛśa^grīvāḥ/  
-  
-60.09cd/ kātara^nayanā hīnāś ca pṛṣṭhatas te na bhārasahāḥ//  
-  
-60.10ab/ mṛdu^saṃhata^tāmra^oṣṭhās tanu^sphijas tāmra^tālu^jihvāś ca/  
-  
-60.10cd/ hrasva^tanu[K.tanuhrasvo]^ucca^śravaṇāḥ sukukṣayaḥ spṛṣṭa[K.spaṣṭa]^jaṅghāś ca//  
-  
-60.11ab/ ātāmra^saṃhata^khurā vyūḍha^uraskā bṛhat^kakuda^yuktāḥ/  
-  
-60.11cd/ snigdha^ślakṣṇa^tanu^tvag^romāṇas tāmra^tanu^śṛṅgāḥ//  
-  
-60.12ab/ tanu^bhū^spṛg^vāladhayo rakta^anta^vilocanā mahocchvāsāḥ/  
-  
-60.12cd/ siṃha^skandhās tanv^alpa^kambalāḥ pūjitāḥ sugamāḥ[K.ū.sugatāḥ]//  
-  
-60.13ab/ vāma^āvartair vāme dakṣiṇa^pārśve ca dakṣiṇa^āvartaiḥ/  
-  
-60.13cd/ śubhadā bhavanty anaḍuho jaṅghābhiś ca^eṇaka^nibhābhiḥ//  
-  
-60.14ab/ vaidūrya[K.vaiḍūrya]^mallikā^budbuda^īkṣaṇāḥ sthūla^netra^pakṣmāṇaḥ[K.varmāṇaḥ]/  
-  
-60.14cd/ pārṣṇibhir asphuṭita^ābhiḥ śastāḥ sarve ca[K.api] bhārasahāḥ//  
-  
-60.15ab/ ghrāṇoddeśe savalir mārjāra^mukhaḥ sitaś ca dakṣiṇataḥ/  
-  
-60.15cd/ kamala^utpala^lākṣā^ābhaḥ suvāladhir vāji^tulya^javaḥ//  
-  
-60.16ab/ lambair vṛṣaṇair meṣa^udaraś ca saṃkṣipta^vaṃkṣaṇa[K.kṣaṇā]^kroḍaḥ/  
-  
-60.16cd/ jñeyo bhāra^adhva^saho jave +aśva^tulyaś ca śastaphalaḥ//  
-  
-60.17ab/ sitavarṇaḥ piṅga^akṣas tāmra^viṣāṇa^īkṣaṇo mahāvaktraḥ/  
-  
-60.17cd/ haṃso nāma śubhaphalo yūthasya vivardhanaḥ proktaḥ//  
-  
-60.18ab/ bhūspṛgvāladhir ātāmra^viṣāṇo[K.vaṅkṣaṇo] raktadṛk kakudmāṃś[K.kakudmī] ca/  
-  
-60.18cd/ kalmāṣaś ca svāminam acirāt kurute patiṃ lakṣmyāḥ//  
-  
-60.19ab/ yo vā sitaikacaraṇair[K.sitaikacaraṇo] yatheṣṭavarṇaś ca so +api śubhaphalakṛt[K.śastaphalaḥ]/  
-  
-60.19cd/ miśraphalo +api grāhyo yadi na^ekāntapraśasto +asti//  
-
-61 śvalakṣaṇādhyāyaḥ  
-  
-  
-  
-61.01a pādāḥ pañca^nakhās trayo +agra^caraṇaḥ ṣaḍbhir nakhair dakṣiṇas  
-  
-61.01b tāmra^oṣṭha^agranaso mṛgeśvara^gatir jighran bhuvaṃ yāti ca/  
-  
-61.01c lāṅgūlaṃ sasaṭaṃ dṛg^ṛkṣa^sadṛśī karṇau ca lambau mṛdū  
-  
-61.01d yasya syāt sa karoti poṣṭur acirāt puṣṭāṃ śriyaṃ śvā gṛhe//  
-  
-61.02a pāde pāde pañca pañca^agrapāde  
-  
-61.02b vāme yasyāḥ ṣaṇnakhā mallikākṣyāḥ/  
-  
-61.02c vakraṃ pucchaṃ piṅgalā^lamba^karṇā  
-  
-61.02d yā sā rāṣṭraṃ kukkurī pāti puṣṭā[K.poṣṭuḥ]//  
-  
-  
-  
-                   62 kukkuṭalakṣaṇādhyāyaḥ  
-  
-  
-  
-62.01ab/ kukkuṭas tv ṛju^tanūruha^aṅgulis tāmra^vaktra^nakha^cūlikaḥ sitaḥ/  
-  
-62.01cd/ rauti susvaram uṣātyaye ca yo vṛddhidaḥ sa nṛpa^rāṣṭra^vājinām//  
-  
-62.02a yavagrīvo yo vā badara^sadṛśo vā^api vihago  
-  
-62.02b bṛhan^mūrdhā varṇair bhavati bahubhiś ca ruciraḥ/  
-  
-62.02c sa śastaḥ saṃgrāme madhu^madhupa^varṇaś ca jayakṛd  
-  
-62.02d na śasto yo +ato +anyaḥ kṛśa^tanu^ravaḥ khañja^caraṇaḥ//  
-  
-62.03ab/ kukkuṭī ca mṛdu^cāru^bhāṣiṇī snigdha^mūrti^rucira^ānana^īṣaṇā/  
-  
-62.03cd/ sā dadāti suciraṃ mahīkṣitāṃ śrī^yaśo^vijaya^vīryasampadaḥ//  
-  
-  
-                   63 kūrmalakṣaṇādhyāyaḥ  
-  
-  
-  
-63.01a sphuṭika^rajata^varṇo nīla^rājī^vicitraḥ  
-  
-63.01b kalaśa^sadṛśa^mūrtiś cāru^vaṃśaś ca kūrmaḥ/  
-  
-63.01c aruṇa^sama^vapur vā sarṣapa^ākāra^citraḥ  
-  
-63.01d sakala^nṛpa^mahattvaṃ mandirasthaḥ karoti//  
-  
-63.02ab/ añjana^bhṛṅga^śyāma^tanur vā bindu^vicitro +avyaṅga^śarīraḥ/  
-  
-63.02cd/ sarpa^śirā vā sthūlagalo yaḥ so +api nṛpāṇāṃ rāṣṭra^vivṛddhyai//  
-  
-63.03a vaiḍūrya^tviṭ sthūla^kaṇṭhas trikoṇo  
-  
-63.03b gūḍha^cchidraś ca^ūru[K.ū.cāru]^vaṃśaś ca śastaḥ/  
-  
-63.03c krīḍāvāpyāṃ toyapūrṇe maṇau vā  
-  
-63.03d kāryaḥ kūrmo maṅgala^arthaṃ narendraiḥ//  
-  
-  
-  
-                   64 chāgalakṣaṇādhyāyaḥ  
-  
-  
-  
-64.01ab/ chāga^śubha^aśubha^lakṣaṇam abhidhāsye nava^daśa^aṣṭa^dantās te/  
-  
-64.01cd/ dhanyāḥ sthāpyā veśmani santyājyāḥ sapta^dantā ye//  
-  
-64.02ab/ dakṣiṇa^pārśve maṇḍalam asitaṃ śuklasya śubhaphalaṃ bhavati/  
-  
-64.02cd/ ṛṣya^nibha^kṛṣṇa^lohita^varṇānāṃ śvetam ati[K.api]śubhadam//  
-  
-64.03ab/ stanavad avalambate yaḥ kaṇṭhe +ajānāṃ maṇiḥ sa vijñeyaḥ/  
-  
-64.03cd/ ekamaṇiḥ śubhaphala^kṛd dhanyatamā dvi^tra^maṇayo[K.dvitrimaṇayo] ye//  
-  
-64.04ab/ muṇḍāḥ sarve śubhadāḥ sarva^sitāḥ sarva^kṛṣṇa^dehāś ca/  
-  
-64.04cd/ ardha^asitāḥ sita^ardhā dhanyāḥ kapila^ardha^kṛṣṇāś ca//  
-  
-64.05ab/ vicarati yūthasya^agre prathamaṃ ca^ambho +avagāhate yo +ajaḥ/  
-  
-64.05cd/ sa śubhaḥ sita^mūrdhā vā mūrdhani vā kṛttikā[K.ṭikkikā] yasya//  
-  
-64.06ab/ sa^pṛṣata^kaṇṭha^śirā vā tila^piṣṭa^nibhaś ca tāmradṛk śastaḥ/  
-  
-64.06cd/ kṛṣṇa^caraṇaḥ sito vā kṛṣṇo vā śveta^caraṇo yaḥ//  
-  
-64.07ab/ yaḥ kṛṣṇa^aṇḍaḥ śveto madhye kṛṣṇena bhavati paṭṭena/  
-  
-64.07cd/ yo vā carati saśabdaṃ mandaṃ ca sa śobhanaś chāgaḥ//  
-  
-64.08ab/ ṛṣya^śiroruha^pādo yo vā prāk pāṇḍuro +apare nīlaḥ/  
-  
-64.08cd/ sa bhavati śubhakṛc chāgaḥ ślokaś ca^apy atra garga^uktaḥ//  
-  
-64.09ab/ kuṭṭakaḥ kuṭilaś ca^eva jaṭilo vāmanas tathā/  
-  
-64.09cd/ te catvāraḥ śriyaḥ putrā na^alakṣmīke vasanti te//  
-  
-64.10a atha^apraśastāḥ khara^tulya^nādāḥ  
-  
-64.10b pradīpta^pucchāḥ kunakhā vivarṇāḥ/  
-  
-64.10c nikṛtta^karṇā dvipa^mastakāś ca  
-  
-64.10d bhavanti ye ca^asita^tālu^jihvāḥ//  
-  
-64.11a varṇaiḥ praśastair maṇibhiḥ prayuktā[K.ca yuktā]  
-  
-64.11b muṇḍāś ca ye tāmra^vilocanāś ca/  
-  
-64.11c te pūjitā veśmani[K.veśmasu] mānavānāṃ  
-  
-64.11d saukhyāni kurvanti yaśaḥ śriyaṃ ca//  
-  
-  
-  
-                   65 aśvalakṣaṇādhyāyaḥ  
-  
-  
-  
-65.01a dīrgha^grīvā^akṣikūṭas trika^hṛdaya^pṛthus tāmra^tālu^oṣṭha^jihvaḥ  
-  
-65.01b sūkṣma^tvak^keśa^vālaḥ suśapha^gati^mukho hrasva^karṇa^oṣṭha^pucchaḥ/  
-  
-65.01c jaṅghā^jānu^ūru^vṛttaḥ sama^sita^daśanaś cāru^saṃsthāna^rūpo  
-  
-65.01d vājī sarva^aṅga^śuddho bhavati narapateḥ śatru^nāśāya nityam//  
-  
-65.02ab/ aśrupāta^hanu^gaṇḍa^hṛd[K.hṛḍ]^gala^protha^śaṅkha^kaṭi^basti^jānuni/  
-  
-65.02cd/ muṣka^nābhi^kakude tathā gude savya^kukṣi^caraṇe tathā[K.caraṇeṣu ca] śubhāḥ[U.aśubhāḥ]//  
-  
-65.03a ye prapāṇa^gala^karṇa^saṃsthitāḥ  
-  
-65.03b pṛṣṭha^madhya^nayana^upari sthitāḥ/  
-  
-65.03c oṣṭha^sakthi^bhuja^kukṣi^pārśvagās  
-  
-65.03d te lalāṭa^sahitāḥ suśobhanāḥ//  
-  
-65.04ab/ teṣāṃ prapāṇa eko lalāṭa^keśeṣu ca dhruva^āvartāḥ/  
-  
-65.04cd/ randhra^uparandhra^mūrdhani vakṣasi ca^iti smṛtau dvau dvau//  
-  
-65.05a ṣaṣbhir dantaiḥ sita^ābhair bhavati haya^śiśus taiḥ kaśāyair dvivarṣaiḥ  
-  
-65.05b sandaṃśair madhyama^antyaiḥ pati[K.ū.patita]samuditais tryabdhi[K.tryabda]^pañca^abdika^aśvaḥ/  
-  
-65.05c sandaṃśa^anukrameṇa trika^parigaṇitāḥ kālikā pīta^śuklāḥ  
-  
-65.05d kācā makṣīka[K.mākṣīka]^śaṅkha^avaṭa^calanam ato dantapātaṃ ca viddhi//  
-  
-  
-  
-                   66 hastilakṣaṇādhyāyaḥ  
-  
-  
-  
-66.01a madhv^ābha^dantāḥ suvibhakta^dehā  
-  
-66.01b na ca^*upadigdhā na[K.digdhāś ca] kṛśāḥ kṣamāś ca/  
-  
-66.01c gātraiḥ samaiś cāpa^samāna^vaṃśā  
-  
-66.01d varāha^tulyair jaghanaiś ca bhadrāḥ//  
-  
-66.02a vakṣo +atha kakṣā^valayaḥ ślathāś ca  
-  
-66.02b lamba^udaras tvag bṛhatī galaś ca/  
-  
-66.02c sthūlā ca kukṣiḥ saha pecakena  
-  
-66.02d saiṃhī ca dṛg manda^mataṅgajasya//  
-  
-66.03a mṛgās tu hrasva^adhara^vāla^meḍhrās  
-  
-66.03b tanv^aṅghri[K.tanvaṃhri]^kaṇṭha^dvija^hasta^karṇāḥ/  
-  
-66.03c sthūla^īkṣaṇāś ca^iti yathā^ukta^cihnaiḥ  
-  
-66.03d saṅkīrṇa^nāgā vyatimiśra^cihnāḥ//  
-  
-66.04a pañca^unnatiḥ sapta mṛgasya dairghyam  
-  
-66.04b aṣṭau ca hastāḥ pariṇāha^mānam/  
-  
-66.04c eka^dvi^vṛddhāv atha manda^bhadrau  
-  
-66.04d saṅkīrna^nāgo +aniyata^pramāṇaḥ//  
-  
-66.05a bhadrasya varṇo harito *madaś ca[K.madasya]  
-  
-66.05b mandasya hāridraka^sannikāśaḥ/  
-  
-66.05c kṛṣṇo madaś ca^abhihito mṛgasya  
-  
-66.05d saṅkīrṇa^nāgasya mado vimiśraḥ//  
-  
-66.06a tāmra^oṣṭha^tālu^vadanāḥ kalaviṅka^netrāḥ  
-  
-66.06b snigdha^unnata^agra^daśanāḥ pṛthula^āyata^āsyāḥ/  
-66.06c cāpa^unnata^āyata^nigūḍha^nimagna^vaṃśās  
-  
-66.06d tanv^eka^roma^cita^kūrma^samāna^kumbhāḥ//  
-  
-66.07a vistīrṇa^karṇa^hanu^nābhi^lalāṭa^guhyāḥ  
-  
-66.07b kūrma^unnata^dvi^nava^viṃśatibhir nakhaiś ca/  
-  
-66.07c rekhā^traya^upacita^vṛtta^karāḥ suvālā  
-  
-66.07d dhanyāḥ sugandhi^mada^puṣkara^mārutāś ca//  
-  
-66.08ab/ dīrgha^aṅguli^rakta^puṣkarāḥ sajala^ambhoda^nināda^bṛṃhiṇaḥ/  
-  
-66.08cd/ bṛhad^āyata^vṛtta^kandharā dhanyā bhūmipater mataṅgajāḥ//  
-  
-66.09a nimarda[K.ū.nirmadā]^abhyadhika^hīna^nakha^aṅgān  
-  
-66.09b kubja^vāmanaka^meṣa^viṣāṇān/  
-  
-66.09c dṛśya^kośa^phala^puṣkara^hīnān  
-  
-66.09d śyāva^nīla^śabala^asita^tālūn//  
-  
-66.10a svalpa^vaktra^ruha^matkuṇa^ṣaṇḍhān  
-  
-66.10b hastinīṃ ca gaja^lakṣaṇa^yuktām/  
-  
-66.10c garbhiṇī ca nṛpatiḥ paradeśaṃ  
-  
-66.10d prāpayed ativirūpa^phalās te//  
-  
-  
-  
-                   67  puruṣalakṣanādhyāyaḥ  
-  
-  
-  
-67.01a unmāna^māna^gati^saṃhati^sāra^varṇa^  
-  
-67.01b sneha^svara^prakṛti^sattvam anūkaṃ ādau/  
-  
-67.01c kṣetraṃ mṛjāṃ ca vidhivat kuśalo +avalokya  
-  
-67.01d sāmudravid vadati yātam anāgataṃ vā[K.ca]//  
-  
-67.02a asvedanau mṛdutalau kamala^udara^ābhau  
-  
-67.02b śliṣṭa^aṅgulī rucira^tāmra^nakhau supārṣṇī/  
-  
-67.02c uṣṇau śirā^virahitau sunigūḍha^gulphau  
-  
-67.02d kūrma^unnatau ca caraṇau manujeśvarasya//  
-  
-67.03a śūrpa^ākāra^virūkṣa^pāṇḍura^nakhau vakrau śirā^santatau  
-  
-67.03b saṃśuṣkau virala^aṅgulī ca caraṇau dāridrya^duḥkha^pradau/  
-  
-67.03c mārgāya^utkaṭakau kaṣāya^sadṛśau vaṃśasya vicchedadau[K.vicchittidau]  
-  
-67.03d brahmaghnau paripakva^mṛd^dyuti^talau pītāv *agamyā^ratau[K.agamyaratau]//  
-  
-67.04a pravirala^tanu^roma^vṛtta^jaṅghā  
-67.04b dvirada^kara^pratimair vara^ūrubhiś ca/  
-  
-67.04c upacita^sama^jānavaś ca bhūpā  
-  
-67.04d dhana^rahitāḥ śva^śṛgāla^tulya^jaṅghāḥ//  
-  
-67.05a roma^eka^ekaṃ kūpake pārthivānāṃ  
-  
-67.05b dve dve jñeye paṇḍita^śrotriyāṇām/  
-  
-67.05c try^ādyair niḥsvā mānavā duḥkha^bhājaḥ  
-  
-67.05d keśāś ca^evaṃ ninditāḥ pūjitāś ca//  
-  
-67.06a nirmāṃsa^jānur mriyate pravāse  
-  
-67.06b saubhāgyam alpair vikaṭair daridrāḥ/  
-  
-67.06c strī^nirjitāś ca^eva[K.ca^api] bhavanti nimnai  
-  
-67.06d rājyaṃ samāṃsaiś ca mahadbhir āyuḥ//  
-  
-67.07a liṅge +alpe dhanavān apatya^rahitaḥ sthūle *+api hīno[K.vihīno] dhanair  
-  
-67.07b meḍhre vāmanate suta^artha^rahito vakre +anyathā putravān/  
-  
-67.07c dāridryaṃ vinate tv adho +alpa^tanayo liṅge śirā^santate  
-  
-67.07d sthūla^granthi^yute sukhī mṛdu karoty antaṃ prameha^ādibhiḥ//  
-  
-67.08ab/ kośa^nigūḍhair bhūpā dīrghair bhagnaiś ca vitta^parihīnāḥ/  
-  
-67.08cd/ ṛju^vṛtta^śephaso laghu^śirāla^śiśnāś ca dhanavantaḥ//  
-  
-67.09ab/ jala^mṛtyur eka^vṛṣaṇo viṣamaiḥ strī^cañcalaḥ samaiḥ kṣitipaḥ/  
-  
-67.09cd/ hrasva^āyuś ca^udbaddhaiḥ pralamba^vṛṣaṇasya śatam āyuḥ//  
-  
-67.10ab/ raktair āḍhyā maṇibhir nirdravyāḥ pāṇḍuraiś ca malinaiś ca/  
-  
-67.10cd/ sukhinaḥ sa^śabda^mūtrā niḥsvā niḥśabda^dhārāś ca//  
-  
-67.11ab/ dvi^tri^catur^dhārābhiḥ pradakṣiṇa^āvarta^valita^mūtrābhiḥ/  
-  
-67.11cd/ pṛthivī^patayo jñeyā vikīrṇa^mūtrāś ca dhana^hīnāḥ//  
-  
-67.12ab/ eka^eva mūtra^dhārā valitā *rūpa^pradā na suta^dātrī[K.rūpapradhānasutadātrī]/  
-  
-67.12cd/ snigdha^unnata^sama^maṇayo dhana^vanitā^ratna^bhoktāraḥ/  
-  
-67.13ab/ maṇibhiś ca madhya^nimnaiḥ kanyā^pitaro bhavanti niḥsvāś ca/  
-  
-67.13cd/ bahu^paśu^bhājo madhya^unnataiś ca na^atyulbaṇair dhaninaḥ//  
-  
-67.14ab/ pariśuṣka^basti^śīrṣair dhana^rahitā durbhagāś ca vijñeyāḥ/  
-  
-67.14cd/ kusuma^sama^gandha^śukrā vijñātavyā mahī^pālāḥ//  
-  
-67.15ab/ madhu^gandhe bahuvittā matsya^sagandhe bahūny apatyāni/  
-  
-67.15cd/ tanu^śukraḥ strī^janako māṃsa^sagandho mahābhogī//  
-  
-67.16ab/ madirā^gandhe yajvā kṣāra^sagandhe ca retasi daridraḥ/  
-  
-67.16cd/ śīghraṃ maithuna^gāmī dīrgha^āyur ato +anyathā^alpāyuḥ//  
-  
-67.17ab/ niḥsvo +atisthūla^sphik samāṃsala^sphik sukha^anvito bhavati/  
-  
-67.17cd/ vyāghrānto +adhyardha^sphig maṇḍūka^sphig nara^adhipatiḥ//  
-  
-67.18ab/ siṃha^kaṭir manujendraḥ kapi^karabha^kaṭir dhanaiḥ parityaktaḥ/  
-  
-67.18cd/ sama^jaṭharā bhogayutā ghaṭa^piṭhara^nibha^udarā niḥsvāḥ//  
-  
-67.19ab/ avikala^pārśvā dhanino nimnair vakraiś ca bhoga^santyaktāḥ/  
-  
-67.19cd/ sama^kukṣā bhogāḍhyā nimnābhir bhoga^parihīnāḥ//  
-  
-67.20ab/ unnata^kukṣāḥ kṣitipāḥ kuṭilāḥ syur mānavā viṣama^kukṣāḥ/  
-  
-67.20cd/ sarpa^udarā daridrā bhavanti bahv^āśinaś ca^eva//  
-  
-67.21ab/ parimaṇḍala^unnatābhir vistīrṇābhiś ca nābhibhiḥ sukhinaḥ/  
-  
-67.21cd/ alpā[K.svalpā] tv adṛśya^nimnā nābhiḥ kleśa^āvahā bhavati//  
-  
-67.22ab/ vali^madhya^gatā viṣamā *śūlād bādhāṃ[K.śūlābādhaṃ] karoti naisvyaṃ[K.naiḥsvyaṃ] ca/  
-  
-67.22cd/ śāṭhyaṃ vāma^āvartā karoti medhāṃ pradakṣiṇataḥ//  
-  
-67.23ab/ pārśva^āyatā cira^āyuṣam upariṣṭāc ca^īśvaraṃ gava^āḍhyam adhaḥ/  
-  
-67.23cd/ śatapatra^karṇikā^ābhā nābhir manujeśvaraṃ kurute//  
-  
-67.24ab/ śastra^antaṃ strī^bhoginam ācāryaṃ bahu^sutaṃ yathāsaṃkhyam/  
-  
-67.24cd/ eka^dvi^tri^caturbhir valibhir vindyād nṛpaṃ tv avalim//  
-  
-67.25ab/ viṣama^valayo manuṣyā bhavanty agamyā^abhigāminaḥ pāpāḥ/  
-  
-67.25cd/ ṛju^valayaḥ sukha^bhājaḥ paradāra^dveṣiṇaś ca^eva//  
-  
-67.26ab/ māṃsala^mṛdubhiḥ pārśvaiḥ pradakṣiṇa^āvarta^romabhir bhūpāḥ/  
-  
-67.26cd/ viparītair nirdravyāḥ sukha^parihīnāḥ para^preṣyāḥ//  
-  
-67.27ab/ subhagā bhavanty anudvaddha[K.anubaddha]^cūcukā nirdhanā viṣama^dīrghaiḥ/  
-  
-67.27cd/ pīna^upacita^nimagnaiḥ kṣiti^patayaś cūcukaiḥ sukhinaḥ//  
-  
-67.28ab/ hṛdayaṃ samunnataṃ pṛthu na vepanaṃ māṃsalaṃ ca nṛpatīnām/  
-  
-67.28cd/ adhanānāṃ viparītaṃ khara^roma^citaṃ śirālaṃ ca//  
-  
-67.29ab/ sama^vakṣaso +arthavantaḥ pīnaiḥ *śūrā hy[K.śūrās tv] akiñcanās tanubhiḥ/  
-  
-67.29cd/ viṣamaṃ vakṣo yeṣāṃ te niḥsvāḥ śastra^nidhanāś ca//  
-  
-67.30ab/ viṣamair viṣamo jatrubhir artha^vihīno +asthi^sandhi^pariṇaddhaiḥ/  
-  
-67.30cd/ unnata^jatrur bhogī[K.bhāgī] nimnair niḥsvo +arthavān pīnaiḥ//  
-  
-67.31ab/ cipiṭa^grīvo niḥsvaḥ śuṣkā saśirā ca yasya vā grīvā/  
-  
-67.31cd/ mahiṣa^grīvaḥ śūraḥ śastra^anto vṛṣa^sama^grīvaḥ//  
-  
-67.32ab/ kambu^grīvo rājā pralamba^kaṇṭhaḥ prabhakṣaṇo bhavati/  
-  
-67.32cd/ pṛṣṭham abhagnam aromaśam arthavatām aśubhadam ato +anyat//  
-  
-67.33ab/ asvedana^pīna^unnata^sugandha[K.sugandhi]^sama^roma^saṅkulāḥ kakṣāḥ/  
-  
-67.33cd/ vijñātavyā dhaninām ato +anyathā^arthair vihīnānām//  
-  
-67.34ab/ nirmāṃsau romacitau bhagnāv alpau ca nirdhanasya^aṃsau/  
-  
-67.34cd/ vipulāv avyucchinnau suśliṣṭau saukhya^vīryavatām//  
-  
-67.35ab/ kari^kara^sadṛśau vṛttāv ā^jānv^avalambinau samau pīnau/  
-  
-67.35cd/ bāhū pṛthivī^īśānām adhanānāṃ[K.adhamānāṃ] romaśau hrasvau//  
-  
-67.36ab/ hasta^aṅgulayo dīrghāś cira^āyuṣām avalitāś ca subhagānām/  
-  
-67.36cd/ medhāvinām ca sūkṣmāś cipiṭāḥ para^karma^niratānām//  
-  
-67.37ab/ sthūlābhir dhana^rahitā bahir^natābhiś ca śastra^niryāṇāḥ/  
-  
-67.37cd/ kapi^sadṛśa^karā dhanino vyāghra^upama^pāṇayaḥ pāpāḥ//  
-  
-67.38ab/ maṇi^bandhanair nigūḍhair dṛḍhaiś ca su^śliṣṭa^sandhibhir bhūpāḥ/  
-  
-67.38cd/ hīnair hasta^cchedaḥ ślathaiḥ saśabdaiś ca nirdravyāḥ//  
-  
-67.39ab/ pitṛ^vittena vihīnā bhavanti nimnena karatalena narāḥ/  
-  
-67.39cd/ saṃvṛta^nimnair dhaninaḥ prottāna^karāś ca dātāraḥ//  
-  
-67.40ab/ viṣamair viṣamā niḥsvāś ca karatalair īśvarāś[K.īśvarās] tu lākṣābhaiḥ/  
-  
-67.40cd/ pītair agamya^vanitā^abhigāmino nirdhanā rūkṣaiḥ//  
-  
-67.41ab/ tuṣa^sadṛśa^nakhāḥ klībāś cipiṭaiḥ sphuṭitaiś ca vitta^santyaktāḥ/  
-  
-67.41cd/ ku^nakha^vivarṇaiḥ para^tarkukāś ca tāmraiś camūpatayaḥ//  
-  
-67.42ab/ aṅguṣṭha^yavair āḍhyāḥ sutavanto +aṅguṣṭha^*mūlajaiś ca yavaiḥ[K.mūlagaiś ca yavaḥ]/  
-  
-67.42cd/ dīrgha^aṅguli^parvāṇaḥ subhagā dīrgha^āyuṣaś ca^eva//  
-  
-67.43ab/ snigdhā nimnā rekhā dhanināṃ tad^vyatyayena niḥsvānām/  
-  
-67.43cd/ virala^aṅgulayo niḥsvā dhana^sañcayino ghana^aṅgulayaḥ//  
-  
-67.44ab/ tisro rekhā maṇi^bandhana^utthitāḥ kara^tala^upagā nṛpateḥ/  
-  
-67.44cd/ mīna^yuga^aṅkita^pāṇir nityaṃ satra^prado bhavati//  
-  
-67.45ab/ vajra^ākārā dhanināṃ vidyā^bhājāṃ ca mīna^puccha^nibhāḥ/  
-  
-67.45cd/ śaṅkha^ātapatra^śivikā^gaja^aśva^padma^upamā nṛpateḥ//  
-  
-67.46ab/ kalaśa^mṛṇāla^patākā^aṅkuśa^upamābhir bhavanti nidhipālāḥ/  
-  
-67.46cd/ dāma^nibhābhiś ca^āḍhyāḥ svastika^rūpābhir aiśvaryam//  
-  
-67.47ab/ cakra^asi^paraśu^tomara^śakti^dhanuḥ^kunta^sannibhā rekhāḥ/  
-  
-67.47cd/ kurvanti camūnāthaṃ yajvānam ulūkhala^ākārāḥ//  
-  
-67.48ab/ makara^dhvaja^koṣṭhāgāra^sannibhābhir mahādhana^upetāḥ/  
-  
-67.48cd/ vedī^nibhena ca^eva^agnihotriṇo brahmatīrthena//  
-  
-67.49ab/ vāpī^devakula^ādyair dharmaṃ kuruvanti ca tri^koṇābhiḥ/  
-  
-67.49cd/ aṅguṣṭha^mūla^rekhāḥ putrāḥ syur dārikāḥ sūkṣmāḥ//  
-  
-67.50ab/ rekhāḥ pradeśini^gatāḥ[K.gāḥ] śatāyuṣaṃ kalpanīyam ūnābhiḥ/  
-  
-67.50cd/ chinnābhir druma^patanaṃ bahu^rekhā^arekhiṇo niḥsvāḥ//  
-  
-67.51ab/ atikṛśa^dīrghaiś cibukair nirdravyā māṃsalair dhana^upetāḥ/  
-  
-67.51cd/ vimba[K.bimba]^upamair avakrair adharair bhūpās tanubhir asvāḥ//  
-  
-67.52ab/ oṣṭhaiḥ sphuṭita^vikhaṇḍita^vivarṇa^rūkṣaiś ca dhana^parityaktāḥ/  
-  
-67.52cd/ snigdhā ghanāś ca daśanāḥ sutīkṣṇa^daṃṣṭrāḥ samāś ca śubhāḥ//  
-  
-67.53ab/ jihvā raktā dīrghā ślakṣṇā susamā ca bhogino[K.bhogināṃ] jñeyā/  
-  
-67.53cd/ śvetā kṛṣṇā paruṣā nirdravyāṇāṃ tathā tālu//  
-  
-67.54ab/ vaktraṃ saumyaṃ saṃvṛtam amalaṃ ślakṣṇaṃ samaṃ ca bhūpānām/  
-  
-67.54cd/ viparītaṃ kleśa^bhujāṃ mahāmukhaṃ durbhagāṇāṃ ca//  
-  
-67.55ab/ strī^mukham anapatyānāṃ śāṭhyavatāṃ maṇḍalaṃ parijñeyam/  
-  
-67.55cd/ dīrghaṃ nirdravyāṇāṃ bhīru^mukhāḥ pāpa^karmāṇaḥ//  
-  
-67.56ab/ caturasraṃ[K.caturaśraṃ] dhūrtānāṃ nimnaṃ vakraṃ[K.vaktraṃ] ca tanaya^rahitānām/  
-  
-67.56cd/ kṛpaṇānām atihrasvaṃ sampūrṇaṃ bhogināṃ kāntam//  
-  
-67.57ab/ asphuṭita^agraṃ snigdhaṃ śmaśru śubhaṃ mṛdu ca sannataṃ ca^eva/  
-  
-67.57cd/ raktaiḥ paruṣaiś caurāḥ śmaśrubhir alpaiś ca vijñeyāḥ//  
-  
-67.58ab/ nirmāṃsaiḥ karṇaiḥ pāpa^mṛtyavaś carpaṭaiḥ subahubhogāḥ/  
-  
-67.58cd/ kṛpaṇāś ca hrasva^karṇāḥ śaṅku^śravaṇāś camūpatayaḥ[K.ca bhūpatayaḥ]//  
-  
-67.59ab/ romaśa^karṇā dīrgha^āyuṣaś ca[K.tu] dhana^bhāgino vipula^karṇāḥ/  
-  
-67.59cd/ krūrāḥ śirā^avanaddhair vyālambair māṃsalaiḥ sukhinaḥ//  
-  
-67.60ab/ bhogī tv animna^gaṇḍo mantrī sampūrṇa^māṃsa^gaṇḍo yaḥ/  
-  
-67.60cd/ sukhabhāk śuka^sama^nāsaś cira^jīvī śuṣka^nāsaś ca//  
-  
-67.61ab/ chinna^anurūpayā^agamya^gāmino dīrghayā tu saubhāgyam/  
-  
-67.61cd/ ākuñcitayā cauraḥ strī^mṛtyuḥ syāc cipiṭa^nāsaḥ//  
-  
-67.62ab/ dhanino +agra^vakra^nāsā dakṣiṇa^vinatāḥ[K.vakrāḥ] prabhakṣaṇāḥ krūrāḥ/  
-  
-67.62cd/ ṛjvī sv^alpa^cchidrā supuṭā nāsā sabhāgyānām//  
-  
-67.63ab/ dhanināṃ kṣutaṃ sakṛd dvi^tri^piṇḍitaṃ hlādi sa^anunādaṃ ca/  
-  
-67.63cd/ dīrgha^āyuṣāṃ pramuktaṃ vijñeyaṃ saṃhataṃ ca^eva//  
-  
-67.64ab/ padma^dala^ābhair dhanino rakta^anta^vilocanāḥ[K.vilocanāḥ] śriyaḥ bhājaḥ/  
-  
-67.64cd/ madhu^piṅgalair mahārthā mārjāra^vilocanaiḥ pāpāḥ//  
-  
-67.65ab/ hariṇa^akṣā maṇḍala^locanāś ca jihmaiś ca locanaiś caurāḥ/  
-  
-67.65cd/ krūrāḥ kekara^netrā gaja^sadṛśa^*vilocanāś camūpatayaḥ[K.dṛśaś ca bhūpatayaḥ]//  
-  
-67.66ab/ aiśvaryam gambhīrair nīlotpala^kāntibhiś ca vidvāṃsaḥ/  
-  
-67.66cd/ atikṛṣṇa^tārakāṇām akṣṇām utpāṭanaṃ bhavati//  
-  
-67.67ab/ mantritvaṃ sthūla^dṛśāṃ *śyāva^akṣāṇāṃ [K.śyāvākṣāṇāṃ ca]^bhavati saubhāgyam/  
-  
-67.67cd/ dīnā dṛg niḥsvānāṃ snigdhā vipula^artha^bhogavatām//  
-  
-67.68ab/ abhyunnatābhir alpa^āyuṣo viśāla^unnatābhir atisukhinaḥ/  
-  
-67.68cd/ viṣama^bhruvo daridrā bālendu^nata^bhruvaḥ sa^dhanāḥ//  
-  
-67.69ab/ dīrghā^asaṃsaktābhir dhaninaḥ khaṇḍābhir artha^parihīnāḥ/  
-  
-67.69cd/ madhya^vinata^bhruvo ye te saktāḥ strīṣv agamyāsu//  
-  
-67.70ab/ unnata^vipulaiḥ śaṅkhair dhanino[K.dhanyā] nimnaiḥ suta^artha^santyaktāḥ/  
-  
-67.70cd/ viṣama^lalāṭā vidhanā dhanavanto +ardhendu^sadṛśena//  
-  
-67.71ab/ śukti^viśālair ācāryatā śirā^santatair adharma^ratāḥ/  
-  
-67.71cd/ unnata^śirābhir āḍhyāḥ svastikavat saṃsthitābhiś ca//  
-  
-67.72ab/ nimna^lalāṭā vadha^bandha^bhāginaḥ krūra^karma^niratāś ca/  
-  
-67.72cd/ abhyunnataiś camūpāḥ[K.bhūpāḥ] kṛpaṇāḥ syuḥ saṃvṛta[K.saṅkaṭa]^lalāṭāḥ//  
-  
-67.73ab/ ruditam adīnam anaśru snigdhaṃ ca śubha^āvahaṃ manuṣyāṇām/  
-  
-67.73cd/ rūkṣaṃ dīnaṃ pracura^aśru ca^eva na śubha^pradaṃ puṃsām//  
-  
-67.74ab/ hasitaṃ śubhadam akampaṃ sa^nimīlita^locanaṃ tu pāpasya/  
-  
-67.74cd/ duṣṭasya[K.hṛṣṭasya] hasitam asakṛt sa^unmādasya^asakṛt prānte//  
-  
-67.75ab/ tisro rekhāḥ śata^jīvināṃ lalāṭa^āyatāḥ sthitā yadi tāḥ/  
-  
-67.75cd/ catasṛbhir avanīśatvaṃ navatiś ca^āyuḥ sa^pañca^abdā//  
-  
-67.76ab/ vicchinnābhiś ca^agamya^gāmino navatir apy arekheṇa/  
-67.76cd/ keśa^anta^upagatābhī rekhābhir aśīti^varṣa^āyuḥ//  
-  
-67.77ab/ pañcabhir āyuḥ saptatir eka^agra^avasthitābhir api ṣaṣṭiḥ/  
-  
-67.77cd/ bahu^rekheṇa śata^ardhaṃ catvāriṃśac ca vakrābhiḥ//  
-  
-67.78ab/ *bhrū^lagnābhis triṃśad[K.trimśabhrūlagnābhir]^viṃśatikaś ca^eva vāma^vakrābhiḥ/  
-  
-67.78cd/ kṣudrābhiḥ sv^alpa^āyur nyūnābhiś ca^antare kalpyam//  
-  
-67.79ab/ parimaṇḍalair gava^āḍhyāś chatra^ākāraiḥ śirobhir avanīśāḥ/  
-  
-67.79cd/ cipiṭaiḥ pitṛ^mātṛ^ghnāḥ karoṭi^śirasāṃ cirān mṛtyuḥ//  
-  
-67.80ab/ ghaṭa^mūrdhā^adhvāna^rucir dvi^mastakaḥ pāpakṛd dhanais tyaktaḥ/  
-  
-67.80cd/ nimnaṃ tu śiro mahatāṃ bahu^nimnam an^arthadaṃ bhavati//  
-  
-67.81ab/ eka^eka^bhavaiḥ snigdhaiḥ kṛṣṇair ākuñcitair abhinna^agraiḥ/  
-  
-67.81cd/ mṛdubhir na ca^atibahubhiḥ keśaiḥ sukha^bhāg narendro vā//  
-  
-67.82ab/ bahu^mūla^viṣama^kapilāḥ sthūla^sphuṭita^agra^paruṣa^hrasvāś ca/  
-  
-67.82cd/ atikuṭilāś ca^atighanāś ca mūrdhajā vitta^hīnānām//  
-  
-67.83ab/ yad yad gātraṃ rūkṣaṃ māṃsa^vihīnaṃ śira^avanaddhaṃ ca/  
-  
-67.83cd/ tat tad aniṣṭaṃ proktaṃ viparītam ataḥ śubhaṃ sarvam//  
-  
-67.84ab/ triṣu vipulo gambhīras triṣv eva ṣaḍ^unnataś catur^hrasvaḥ/  
-  
-67.84cd/ saptasu rakto rājā pañcasu dīrghaś ca sūkṣmaś ca//  
-  
-67.85a nābhī[K.nābhiḥ] svaraḥ sattvam iti praśastaṃ[K.pradiṣṭaṃ]  
-  
-67.85b gambhīram etat tritayaṃ narāṇām/  
-  
-67.85c uro lalāṭaṃ vadanaṃ ca puṃsāṃ  
-  
-67.85d vistīrṇam etat tritayaṃ praśastam//  
-  
-67.86a vakṣo +atha kakṣā nakha^nāsikā^āsyaṃ  
-  
-67.86b kṛkāṭikā ca^iti ṣaḍ^unnatāni/  
-  
-67.86c hrasvāni catvāri ca liṅga^pṛṣṭhaṃ  
-  
-67.86d grīvā ca jaṅghe ca hita^pradāni//  
-  
-67.87a netrānta^pāda^kara^tālv^adharoṣṭha^jihvā  
-  
-67.87b raktā nakhāś ca khalu sapta sukha^āvahāni/  
-  
-67.87c sūkṣmāṇi pañca daśana^aṅguli^parva^keśāḥ  
-  
-67.87d sākaṃ tvacā *kararuhā na ca[K.kararuhāś ca na] duḥkhitānām//  
-  
-67.88ab/ hanu^locana^bāhu^nāsikāḥ stanayor antaram atra pañcamam/  
-  
-67.88cd/ iti dīrgham idaṃ tu pañcakaṃ na bhavaty eva nṛṇām abhūbhṛtām//  
-  
-67.89a chāyā śubha^aśubha^phalāni nivedayantī  
-  
-67.89b lakṣyā manuṣya^paśu^pakṣiṣu lakṣaṇajñaiḥ/  
-  
-67.89c tejoguṇān bahir api pravikāśayantī  
-  
-67.89d dīpa^prabhā sphaṭika^ratna^ghaṭa^sthitā^iva//  
-  
-67.90a snigdha^dvija^tvag^nakha^roma^keśāś[K.keśa]  
-  
-67.90b chāyā sugandhā ca mahī^samutthā/  
-  
-67.90c tuṣṭy^artha^lābha^abhyudayān karoti  
-  
-67.90d dharmasya ca^ahany ahani pravṛttim//  
-  
-67.91a snigdhā sita^accha^haritā nayana^abhirāmā  
-  
-67.91b saubhāgya^mārdava^sukha^abhyudayān karoti/  
-  
-67.91c sarva^artha^siddhi^jananī jananī^iva ca^āpyā  
-  
-67.91d chāyā phalaṃ tanu^bhṛtāṃ śubham ādadhāti//  
-  
-67.92a caṇḍā^adhṛṣyā padma^hema^agni^varṇā  
-  
-67.92b yuktā tejo^vikramaiḥ sapratāpaiḥ/  
-  
-67.92c āgneyi^iti prāṇināṃ syāj jayāya  
-  
-67.92d kṣipraṃ siddhiṃ vāñchita^arthasya datte[K.dhatte]//  
-  
-67.93a malina^paruṣa^kṛṣṇā pāpa^gandhā^anila^utthā  
-  
-67.93b janayati vadha^bandha^vyādhy^anartha^artha^nāśān/  
-  
-67.93c sphaṭika^sadṛśa^rūpā bhāgya^yuktā^ātyudārā  
-  
-67.93d nidhir iva gagana^utthā śreyasāṃ sv^accha^varṇā//  
-  
-67.94a chāyāḥ krameṇa ku^jala^agny^anila^ambara^utthāḥ  
-  
-67.94b ke cid vadanti daśa tāś ca yathā^anupūrvyā/  
-  
-67.94c sūrya^abjanābha^puruhūta^yama^uḍupānāṃ  
-  
-67.94d tulyās tu lakṣaṇa^phalair iti tat samāsaḥ//  
-  
-67.95ab/ kari^vṛṣa^rathaugha^bherī^mṛdaṅga^siṃha^abhra[K.abda]^niḥsvanā bhūpāḥ/  
-  
-67.95cd/ gardabha^jarjara^rūkṣa^svarāś ca dhana^saukhya^santyaktāḥ//  
-  
-67.96ab/ sapta bhavanti ca sārā medo^majjā^tvag^asthi^śukrāṇi/  
-  
-67.96cd/ rudhiraṃ māṃsaṃ ca^iti prāṇa^bhṛtāṃ tat samāsa^phalam//  
-  
-67.97ab/ tālv^oṣṭha^dantapālī^jihvā^netrānta^pāyu^kara^caraṇaiḥ/  
-  
-67.97cd/ rakte[K.raktaiḥ] tu rakta^sārā bahu^sukha^vanitā^artha^putra^yutāḥ//  
-  
-67.98ab/ snigdha^tvakkā dhanino mṛdubhiḥ subhagā vicakṣaṇās tanubhiḥ/  
-  
-67.98cd/ majjā^medaḥ^sārāḥ suśarīrāḥ putra^vitta^yutāḥ[K.yuktāḥ]//  
-  
-67.99ab/ sthūla^asthir asthi^sāro balavān vidyā^antagaḥ surūpaś ca/  
-  
-67.99cd/ bahu^guru^śukrāḥ subhagā vidvāṃso rūpavantaś ca//  
-  
-67.100ab/ upacita^deho vidvān dhanī surūpaś ca māṃsa^sāro yaḥ/  
-  
-67.100cd/ saṅghātā iti ca suśliṣṭa^sandhitā sukha^bhujo jñeyā//  
-  
-67.101ab/ snehaḥ pañcasu lakṣyo vāg^jihvā^danta^netra^nakha^saṃsthaḥ/  
-  
-67.101cd/ suta^dhana^saubhāgya^yutāḥ snigdhais tair nirdhanā rūkṣaiḥ//  
-  
-67.102ab/ dyutimān varṇa^snigdhaḥ[K.varṇaḥ snigdhaḥ] kṣitipānām madhyamaḥ suta^arthavatām/  
-  
-67.102cd/ rūkṣo dhana^hīnānāṃ śuddhaḥ śubhado na saṅkīrṇaḥ//  
-  
-67.103ab/ sādhyam anūkaṃ vaktrād go^vṛṣa^śārdūla^siṃha^garuḍa^mukhāḥ/  
-  
-67.103cd/ apratihata^pratāpā jita^ripavo mānava^indrāś ca//  
-  
-67.104ab/ vānara^mahiṣa^varāha^aja^tulya^vadanāḥ śruta[K.suta]^artha^sukha^bhājaḥ/  
-  
-67.104cd/ gardabha^karabha^pratimair mukhaiḥ śarīraiś ca niḥsva^sukhāḥ//  
-  
-67.105ab/ aṣṭa^śataṃ ṣaṇ^ṇavatiḥ[K.ṣaṇavatiḥ] parimāṇaṃ catur^aśītir iti puṃsām/  
-  
-67.105cd/ uttama^sama^hīnānām aṅgula^saṅkhyā sva^mānena//  
-  
-67.106ab/ bhāra^ardha^tanuḥ sukha^bhāk tulito +ato duḥkha^bhāg bhavaty ūnaḥ/  
-  
-67.106cd/ bhāro +ativāḍhyānām adhyardhaḥ sarva^dharaṇīśaḥ//  
-  
-67.107ab/ viṃśati^varṣā nārī puruṣaḥ khalu pañca^viṃśatibhir abdaiḥ/  
-  
-67.107cd/ arhati māna^unmānaṃ jīvita^bhāge caturthe vā//  
-67.108ab/ bhū^jala^śikhy^anila^ambara^sura^nara^rakṣaḥ piśācaka^tiraścām/  
-  
-67.108cd/ sattvena bhavati puruṣo lakṣaṇam etad bhavati teṣām[K.eṣām]//  
-  
-67.109a mahī^svabhāvaḥ śubha^puṣpa^gandhaḥ  
-  
-67.109b sambhogavān su^śvasanaḥ sthiraś ca/  
-  
-67.109c toya^svabhāvo bahu^toyapāyī  
-  
-67.109d priya^abhibhāṣī[K.abhilāṣī] rasa^bhājanaś[K.bhojanaś] ca//  
-  
-67.110a agni^prakṛtyā capalo +ati^tīkṣṇaś  
-  
-67.110b caṇḍaḥ kṣudha^ālur bahu^bhojanaś ca/  
-  
-67.110c vāyoḥ svabhāvena calaḥ kṛśaś ca  
-  
-67.110d kṣipraṃ ca kopasya vaśaṃ prayāti//  
-  
-67.111a kha^prakṛtir nipuṇo vivṛta^āsyaḥ  
-  
-67.111b śabda^gateḥ kuśalaḥ su^śirā^aṅgaḥ/  
-  
-67.111c tyāga^yutaḥ[K.tyāgayuto] puruṣo mṛdu^kopaḥ  
-  
-67.111d sneha^rataś ca bhavet sura^sattvaḥ//  
-  
-67.112ab/ martya^sattva^saṃyuto gīta^bhūṣaṇa^priyaḥ/  
-  
-67.112cd/ saṃvibhāga^śīlavān nityam eva mānavaḥ//  
-  
-67.113a tīkṣṇa^prakopaḥ khala^ceṣṭitaś ca  
-  
-67.113b pāpaś ca sattvena niśā^carāṇām/  
-  
-67.113c piśāca^sattvaś capalo malākto  
-  
-67.113d bahu^pralāpī ca samulbaṇa^aṅgaḥ//  
-  
-67.114a bhīruḥ kṣudhā^ālur bahu^bhuk ca yaḥ syād  
-  
-67.114b jñeyaś ca[K.sa] sattvena naras tiraścām/  
-  
-67.114c evaṃ narāṇāṃ prakṛtiḥ pradiṣṭā  
-  
-67.114d yal lakṣaṇa^jñāḥ pravadanti sattvam//  
-  
-67.115a śārdūla^haṃsa^samada^dvipa^gopatīnāṃ  
-  
-67.115b tulyā bhavanti gatibhiḥ śikhināṃ ca bhūpāḥ/  
-  
-67.115c yeṣāṃ ca śabda^rahitaṃ stimitaṃ ca yātaṃ  
-  
-67.115d te +api^iśvarā druta^pariplutagā daridrāḥ//  
-  
-67.116a śrāntasya yānam aśanaṃ ca bubhukṣitasya  
-  
-67.116b pānaṃ tṛṣā^parigatasya bhayeṣu rakṣā/  
-  
-67.116c etāni yasya puruṣasya bhavanti kāle  
-  
-67.116d dhanyaṃ vadanti khalu taṃ nara^lakṣaṇajñāḥ//  
-  
-[K.68.117ab/ puruṣa^lakṣaṇam uktam idaṃ mayā muni^matāny avalokya samāsataḥ/  
-  
-K.68.117cd/ idam adhītya naro nṛpa^sammato bhavati sarva^janasya ca vallabhaḥ//]  
-  
-  
-  
-                   68 pañcamanuṣyavibhāgādhyāyaḥ  
-  
-  
-  
-68.01ab/ tārāgrahair balayutaiḥ sva^kṣetra^sva^uccagaiś catuṣṭayagaiḥ/  
-  
-68.01cd/ pañca puruṣāḥ praśastā jāyante tān ahaṃ vakṣye//  
-  
-68.02ab/ jīvena bhavati haṃsaḥ saureṇa śaśaḥ kujena rucakaś ca/  
-  
-68.02cd/ bhadro budhena balinā mālavyo daitya^pūjyena//  
-  
-68.03ab/ sattvam ahīnaṃ sūryāt^śārīraṃ mānasaṃ ca candra^balāt/  
-  
-68.03cd/ yad rāśi^bheda^yuktāv etau tal lakṣaṇaḥ sa pumān//  
-  
-68.04ab/ tad^dhātu^mahābhūta^prakṛti^dyuti^varṇa^sattva^rūpa^ādyaiḥ/  
-  
-68.04cd/ abala^ravi^indu^yutais taiḥ saṅkīrṇā lakṣaṇaiḥ puruṣāḥ//  
-  
-68.05ab/ bhaumāt sattvaṃ gurutā budhāt surejyāt svaraḥ sitāt snehaḥ/  
-  
-68.05cd/ varṇaḥ saurād eṣāṃ guṇa^doṣaiḥ sādhv^asādhutvam//  
-  
-68.06ab/ saṅkīrṇāḥ syur na nṛpā daśāsu teṣāṃ bhavanti sukha^bhājaḥ/  
-  
-68.06cd/ ripu^gṛha^nīca^ucca^cyuta^sat^pāpa^nirīkṣaṇair bhedāḥ[K.bhedaḥ]//  
-  
-68.07ab/ ṣaṇ^ṇavatir aṅgulānāṃ vyāyāmo dīrghatā ca haṃsasya/  
-  
-68.07cd/ śaśa^rucaka^bhadra^mālavya^saṃjñitās try^aṅgula^vivṛddhyā//  
-  
-68.08a yaḥ sāttvikas tasya dayā sthiratvaṃ  
-  
-68.08b sattva^ārjavaṃ brāhmaṇa^deva^bhaktiḥ/  
-  
-68.08c rajo^adhikaḥ kāvya^kalā^kratu^strī^  
-  
-68.08d saṃsakta^cittaḥ puruṣo +atiśūraḥ//  
-  
-68.09a tamo^adhiko vañcayitā pareṣāṃ  
-  
-68.09b mūrkho +alasaḥ krodha^paro +ati^nidraḥ/  
-  
-68.09c miśrair guṇaiḥ sattva^rajas^tamobhir  
-  
-68.09d miśrās tu te sapta saha prabhedaiḥ//  
-  
-68.10a mālavyo *nāga^nāsaḥ sama^bhuja[K.nāganāsasamabhuja]^yugalo jānu^samprāpta^hasto  
-  
-68.10b māṃsaiḥ pūrṇa^aṅga^sandhiḥ sama^rucira^tanur madhya^bhāge kṛśaś ca/  
-  
-68.10c pañca^aṣṭau ca^ūrdhvam āsyaṃ śruti^vivaram api try^aṅgula^ūnaṃ ca tiryag  
-  
-68.10d dīpta^akṣaṃ sat^kapolaṃ sama^sita^daśanaṃ na^atimāṃsa^adharoṣṭham//  
-  
-68.11a mālavān sa bharukaccha^surāṣṭrān  
-  
-68.11b lāṭa^sindhu^viṣaya^prabhṛtīṃś ca/  
-  
-68.11c vikrama^ārjita^dhano +avati rājā  
-  
-68.11d pāriyātra^nilayān[K.nilayaḥ] kṛta^buddhiḥ//  
-  
-68.12ab/ saptati^varṣo mālavyo +ayaṃ tyakṣyati samyak prāṇāṃs tīrthe/  
-  
-68.12cd/ lakṣaṇam etat samyak proktaṃ śeṣa^narāṇāṃ ca^ato vakṣye//  
-  
-68.13a upacita^samavṛtta^lamba^bāhur  
-  
-68.13b bhuja^yugala^pramitaḥ samucchrayo +asya/  
-  
-68.13c mṛdu^tanu^ghana^roma^naddha^gaṇḍo  
-  
-68.13d bhavati naraḥ khalu lakṣaṇena bhadraḥ//  
-  
-68.14a tvak^śukra^sāraḥ pṛthu^pīna^vakṣāḥ  
-  
-68.14b sattva^adhiko vyāghra^mukhaḥ sthiraś ca/  
-  
-68.14c kṣama^anvito dharma^paraḥ kṛta^jño  
-  
-68.14d gajendra^gāmī bahu^śāstra^vettā//  
-  
-68.15a prājño vapuṣmān su^lalāṭa^śaṅkhaḥ  
-  
-68.15b kalāsv abhijño dhṛtimān su^kukṣiḥ/  
-  
-68.15c saroja^garbha^dyuti^pāṇi^pādo  
-  
-68.15d yogī sunāsaḥ sama^saṃhata^bhrūḥ//  
-  
-68.16a nava^ambu^sikta^avani^patra^kuṅkuma^  
-  
-68.16b dvipendra^dāna^aguru^tulya^gandhatā/  
-  
-68.16c śiro^ruhāś ca^ekaja^kṛṣṇa^kuñcitās  
-  
-68.16d turaṅga^nāga^upama^guhya^gūḍhatā[K.gūḍhaguhyatā]//  
-  
-68.17a hala^muśala^gadā^asi^śaṅkha^cakra^  
-  
-68.17b dvipa^makara^abja^ratha^aṅkita^aṅghri[K.anhri]^hastaḥ/  
-  
-68.17c vibhavam api jano +asya bobhujī^iti  
-  
-68.17d kṣamati hi na svajanaṃ sva^tantra^buddhiḥ//  
-  
-68.18a aṅgulāni navatiś ca ṣaḍ^ūnāny  
-  
-68.18b ucchrayeṇa tulayā^api hi bhāraḥ/  
-  
-68.18c madhya^deśa^nṛpatir yadi puṣṭāś  
-  
-68.18d try^ādayo +asya sakala^avani^nāthaḥ//  
-  
-68.19ab/ bhuktvā samyag^vasudhāṃ śauryeṇa^upārjitām aśīty^abdaḥ/  
-  
-68.19cd/ tīrthe prāṇāṃs tyaktvā bhadro deva^ālayaṃ yāti//  
-  
-68.20a īṣad^danturakas tanu^dvija^nakhaḥ kośa^īkṣaṇaḥ śīghrago  
-  
-68.20b vidyā^dhātu^vaṇik^kriyāsu nirataḥ sampūrṇa^gaṇḍaḥ śaṭhaḥ/  
-  
-68.20c senānīḥ priya^maithunaḥ para^jana^strī^sakta^cittaś calaḥ  
-  
-68.20d śūro mātṛhito vana^acala^nadī^durgeṣu saktaḥ śaśaḥ//  
-  
-68.21a dīrgho +aṅgulānāṃ śatam aṣṭa^hīnaṃ  
-  
-68.21b sāśaṅka^ceṣṭaḥ para^randhravic ca/  
-  
-68.21c sāro +asya majjā nibhṛta^pracāraḥ  
-  
-68.21d śaśo hy ato[K.ayaṃ] na^atiguruḥ pradiṣṭaḥ//  
-68.22a madhye kṛśaḥ kheṭaka^khaḍga^vīṇā  
-  
-68.22b paryaṅka^mālā^muraja^anurūpāḥ/  
-  
-68.22c śūla^upamāś ca^ūrdhva^gatāś ca rekhāḥ  
-  
-68.22d śaśasya pāda^upagatāḥ kare vā//  
-  
-68.23a prātyantiko māṇḍaliko +atha vā^ayaṃ  
-  
-68.23b sphik^srāva^śūla^abhibhava^arta^mūrtiḥ/  
-  
-68.23c evaṃ śaśaḥ saptati^hāyano +ayaṃ  
-  
-68.23d vaivasvatasya^ālayam abhyupaiti//  
-  
-68.24a raktaṃ pīna^kapolam unnata^nasaṃ vaktraṃ suvarṇa^upamaṃ  
-  
-68.24b vṛttaṃ ca^asya śiro +akṣiṇī madhu^nibhe sarve ca raktā nakhāḥ/  
-  
-68.24c srag^dāma^aṅkuśa^śaṅkha^matsya^yugala^kratv^aṅga^kumbha^ambujaiś  
-  
-68.24d cihnair haṃsa^kala^svanaḥ su^caraṇo haṃsaḥ prasanna^indriyaḥ//  
-  
-68.25ab/ ratir ambhasi śukra^sāratā dvi^guṇā ca^aṣṭa^śataiḥ palair mitiḥ/  
-  
-68.25cd/ parimāṇam atha^asya ṣaḍ^yutā navatiḥ samparikīrtitā budhaiḥ//  
-68.26ab/ bhunakti haṃsaḥ khasa^śūrasenān gāndhāra^gaṅgā^yāmunā^antarālam/  
-  
-68.26cd/ śataṃ daśa^ūnaṃ śaradāṃ nṛpatvaṃ kṛtvā vana^ante samupaiti mṛtyum//  
-  
-68.27ab/ su^bhrū^keśo rakta^śyāmaḥ kambu^grīvo vyādīrgha^āsyaḥ/  
-  
-68.27cd/ śūraḥ krūraḥ śreṣṭho mantrī caura^svāmī vyāyāmī ca//  
-  
-68.28a yanmātram āsyaṃ rucakasya dīrghaṃ  
-  
-68.28b madhya^pradeśe caturasratā[K.caturaśratā] sā/  
-  
-68.28c tanu^cchaviḥ śoṇita^māṃsa^sāro  
-  
-68.28d hantā dviṣāṃ sāhasa^siddha^kāryaḥ//  
-  
-68.29a khaṭvāṅga^vīṇā^vṛṣa^cāpa^vajra^  
-  
-68.29b śakti^indra^śūla^aṅkita^pāṇi^pādaḥ/  
-  
-68.29c bhakto guru^brāhmaṇa^devatānāṃ  
-  
-68.29d śata^aṅgulaḥ syāt *tu sahasra^mānaḥ[K.tulayā sahasram]//  
-  
-68.30a mantra^abhicāra^kuśalaḥ kṛśa^jānu^jaṅgho  
-  
-68.30b vindhyaṃ sasahyagirim ujjayinīṃ ca bhuktvā/  
-  
-68.30c samprāpya saptati^samā rucako narendraḥ  
-  
-68.30d śastreṇa mṛtyum upayāty atha vā +analena//  
-  
-68.31a pañca^apare vāmanako jaghanyaḥ  
-  
-68.31b kubjo +atha vā maṇḍalako +atha sācī[K.samī]/  
-  
-68.31c pūrva^ukta^bhūpa^anucarā bhavanti  
-  
-68.31d saṅkīrṇa^saṃjñaḥ[K.saṃjñāḥ] śṛṇu lakṣaṇais tān//  
-  
-68.32a sampūrṇa^aṅgo vāmano bhagna^pṛṣṭhaḥ  
-  
-68.32b kiñcic ca^ūrū^madhya^kakṣya[K.kakṣa]^antareṣu/  
-  
-68.32c khyāto rājñāṃ hy eṣa bhadra^anujīvī  
-  
-68.32d sphīṭo rājā[K.dātā] vāsudevasya bhaktaḥ//  
-  
-68.33a mālavya^sevī tu jaghanya^nāmā  
-  
-68.33b khaṇḍendu^tulya^śravaṇaḥ su^sandhiḥ/  
-  
-68.33c śukreṇa sāraḥ piśunaḥ kaviś ca  
-  
-68.33d rūkṣa^cchaviḥ sthūla^kara^aṅgulīkaḥ//  
-  
-68.34a krūro dhanī sthūla^matiḥ pratītas  
-  
-68.34b tāmra^cchaviḥ syāt parihāsa^śīlaḥ/  
-  
-68.34c uro^aṅghri[K.anhri]^hasteṣv asi^śakti^pāśa^  
-  
-68.34d paraśvadha^*aṅkaḥ sa[K.aṅkaś ca] jaghanya^nāmā//  
-  
-68.35a kubjo nāmnā yaḥ sa śuddho hy adhastāt  
-  
-68.35b kṣīṇaḥ kiñ cit pūrva^kāye nataś ca/  
-  
-68.35c haṃsa^āsevī nāstiko +arthair upeto  
-  
-68.35d vidvān śūraḥ sūcakaḥ syāt kṛta^jñaḥ//  
-  
-68.36a kalāsv abhijñaḥ kalaha^priyaś ca  
-  
-68.36b prabhūta^bhṛtyaḥ pramadā^jitaś ca/  
-  
-68.36c sampūjya lokaṃ prajahāty akasmāt  
-  
-68.36d kubjo +ayam uktaḥ satata^udyataś ca//  
-  
-68.37ab/ *maṇḍalakakṣaṇam ato[K.maṇḍalakanāmadheyo. ū.maṇḍalakalakṣaṇam ato] rucaka^anucaro +abhicāravit kuśalaḥ/  
-  
-68.37cd/ kṛtyā^vetāla[K.vaitāla]^ādiṣu karmasu vidyāsu ca^anurataḥ//  
-  
-68.38ab/ vṛddha^ākāraḥ khara^*paruṣa^mūrdhajaś[K.rūkṣamūrdhajaś] ca śatru^nāśane kuśalaḥ/  
-  
-68.38cd/ dvija^deva^yajña^yoga^prasakta^dhīḥ strī^jito matimān//  
-  
-68.39a sācī^iti[K.sāmīti] yaḥ so +ativirūpa^dehaḥ  
-  
-68.39b śaśa^anugāmī khalu durbhagaś ca/  
-  
-68.39c dātā mahārambha^samāpta^kāryo  
-  
-68.39d guṇaiḥ śaśasya^eva bhavet samānaḥ//  
-  
-68.40a[K.omitted] puruṣa^lakṣaṇam uktam idam mayā  
-  
-68.40b[K.omitted] muni^matāni nirīkṣya samāsataḥ/  
-  
-68.40c[K.omitted] idam adhītya naro nṛpa^sammato  
-  
-68.40d[K.omitted] bhavati sarvajanasya ca vallabhaḥ//  
-  
-  
-  
-                   69 kanyālakṣaṇādhyāyaḥ  
-  
-  
-  
-69.01a snigdha^unnata^agra^tanu^tāmra^nakhau kumāryāḥ  
-  
-69.01b pādau sama^upacita^cāru^nigūḍha^gulphau/  
-  
-69.01c śliṣṭa^aṅgulī kamala^kānti^talau ca yasyās  
-  
-69.01d tām udvahed yadi bhuvo +adhipatitvam icchet//  
-  
-69.02a matsya^aṅkuśa^abja^yava^vajra^hala^asi^cihna^  
-  
-69.02b avasvedanau mṛdu^talau caraṇau praśastau/  
-  
-69.02c jaṅghe ca roma^rahite viśire suvṛtte  
-  
-69.02d jānu^dvayaṃ samam anulbaṇa^sandhideśam//  
-  
-69.03a ūrū ghanau karikara^pratimāv aromāv  
-  
-69.03b aśvattha^patra^sadṛśaṃ vipulaṃ ca guhyam/  
-  
-69.03c śroṇī^lalāṭam uru^kūrma^samunnataṃ ca  
-  
-69.03d gūḍho maṇiś ca vipulāṃ śriyam ādadhāti//  
-  
-69.04a vistīrṇa^māṃsa^upacito nitambaḥ  
-  
-69.04b guruś ca dhatte raśanā[K.rasanā]^kalāpam/  
-  
-69.04c nābhir gabhīrā[K.gambhīrā] vipula^aṅgānāṃ  
-  
-69.04d pradakṣiṇa^āvarta^gatā *ca śastā[K.praśastā]//  
-  
-69.05a madhyaṃ striyās tri^vali^nātham aromaśaṃ ca  
-  
-69.05b vṛttau ghanāv aviṣamau kaṭhināv urasyau/  
-  
-69.05c roma^pravarjitam[K.apavarjitam] uro mṛdu ca^aṅganānāṃ  
-  
-69.05d grīvā ca kambu^nicita^artha^sukhāni datte[K.dhatte]//  
-  
-69.06a bandhujīva^kusuma^upamo +adharo  
-  
-69.06b māṃsalo rucira^bimba^rūpa^bhṛt/  
-  
-69.06c kunda^kuḍmala^nibhāḥ samā dvijā  
-  
-69.06d yoṣitāṃ patisukha^amita^arthadāḥ//  
-  
-69.07a dākṣiṇya^yuktam aśaṭhaṃ parapuṣṭa^haṃsa^  
-  
-69.07b valgu prabhāṣitam adīnam analpa^saukhyam/  
-  
-69.07c nāsā samā sama^puṭā rucirā praśastā  
-  
-69.07d dṛg^nīla^nīraja^dala^dyuti^hāriṇī ca//  
-  
-69.08ab/ no saṅgate na^atipṛthū na lambe śaste bhruvau bāla^śaśāṅka^vakre/  
-  
-69.08cd/ ardhendu^saṃsthānam aromaśaṃ ca śastaṃ lalāṭaṃ na nataṃ na tuṅgam//  
-  
-69.09ab/ karṇa^yugmam api yukta^māṃsalaṃ śasyate mrdu *samāhitam samam[K.samaṃ samāhitam]/  
-  
-69.09cd/ snigdha^nīla^mṛdu^kuñcita^ekajā mūrdhajāḥ sukha^karāḥ samaṃ śiraḥ//  
-  
-69.10a bhṛṅgāra^āsana^vāji^kuñjara^ratha^śrīvṛkṣa^yūpa^iṣubhir  
-  
-69.10b mālā^kuṇḍala^cāmara^aṅkuśa^yavaiḥ śailair dhvajais toraṇaiḥ/  
-  
-69.10c matsya^svastika^vedikā^vyajanakaiḥ śaṅkha^ātapatra^ambujaiḥ  
-  
-69.10d pāde pāṇi^tale +atha vā[K.api vā] yuvatayo gacchanti rājñī^padam//  
-  
-69.11a nigūḍha^maṇibandhanau taruṇa^padma^garbha^upamau  
-  
-69.11b karau nṛpati^*yoṣitas[K.yoṣitāṃ] tanu^vikṛṣṭa^parva^aṅgulī/  
-  
-69.11c na nimnam ati na^unnataṃ kara^talaṃ su^rekhā^anvitaṃ  
-  
-69.11d karoty avidhavāṃ ciraṃ suta^sukha^artha^sambhoginīm//  
-  
-69.12a madhya^aṅguliṃ yā maṇibandhana^utthā  
-  
-69.12b rekhā gatā pāṇi^tale +aṅganāyāḥ/  
-  
-69.12c ūrdhva^sthitā pāda^tale +atha vā yā  
-  
-69.12d puṃso +atha vā rājya^sukhāya sā syāt//  
-  
-69.13a kaniṣṭhikā^mūla^bhavā gatā yā  
-  
-69.13b pradeśinī^madhyamika^antarālam/  
-  
-69.13c karoti rekhā parama^āyuṣaḥ sā  
-  
-69.13d pramāṇam ūnā tu tad ūnam āyuḥ//  
-  
-69.14a aṅguṣṭa^mūle prasavasya rekhāḥ  
-  
-69.14b putrā bṛhatyaḥ pramadās tu tanvyaḥ/  
-  
-69.14c acchinna^madhyā[K.dīrghā] bṛhad^āyuṣas[K.bṛhadāyuṣāṃ] tāḥ  
-  
-69.14d svalpa^āyuṣāṃ chinna^laghu^pramāṇāḥ//  
-  
-69.15a iti^idam uktaṃ śubham aṅganānām  
-  
-69.15b ato viparyastam aniṣṭam uktam/  
-  
-69.15c viśeṣato +aniṣṭa^phalāni yāni  
-  
-69.15d samāsatas tāny anukīrtayāmi//  
-  
-69.16a kaniṣṭhikā vā tad^anantarā vā  
-  
-69.16b mahīṃ na yasyāḥ śpṛśati striyāḥ syāt/  
-  
-69.16c gatā^atha vā^aṅguṣṭham atītya yasyāḥ  
-  
-69.16d pradeśinī sā kulaṭā +atipāpā//  
-  
-69.17a udbaddhābhyām piṇḍikābhyām śirāle  
-  
-69.17b śuṣke jaṅghe lomaśe[K.ū.romaśe] ca^atimāṃse  
-  
-69.17c vāma^āvartaṃ nimnam alpaṃ ca guhyaṃ  
-  
-69.17d kumbha^ākāraṃ ca^udaraṃ duḥkhitānām//  
-  
-69.18ab/ hrasvayā^atiniḥsvatā dīrghayā kula^kṣayaḥ/  
-  
-69.18cd/ grīvayā pṛthu^utthayā yoṣitaḥ pracaṇḍatā//  
-  
-69.19a netre yasyāḥ kekare piṅgale vā  
-  
-69.19b sā duḥśīlā śyāva^lola^īkṣaṇā ca/  
-  
-69.19c kūpau yasyā gaṇḍayoś ca smiteṣu  
-  
-69.19d niḥsandigdhaṃ bandhakīṃ tāṃ vadanti//  
-  
-69.20a pravilambini devaraṃ lalāṭe  
-  
-69.20b śvaśuraṃ hanty udare sphijoḥ patiṃ ca/  
-  
-69.20c atiroma^caya^anvita^uttara^oṣṭhī  
-  
-69.20d na śubhā bhartur atīva yā ca dīrghā//  
-  
-69.21a stanau saromau malina^ulbaṇau ca  
-  
-69.21b kleśaṃ dadhāte viṣamau ca karṇau/  
-  
-69.21c sthūlāḥ karālā viṣamāś ca dantāḥ  
-  
-69.21d kleśāya cauryāya ca kṛṣṇa^māṃsāḥ//  
-  
-69.22a kravyāda^rūpair vṛka^kāka^kaṅka^  
-  
-69.22b sarīsṛpa^ulūka^samāna^cihnaiḥ  
-  
-69.22c śuṣkaiḥ śirālair viṣamaiś ca hastair  
-  
-69.22d bhavanti nāryaḥ sukha^vitta^hīnāḥ//  
-  
-69.23a yā tu^uttaroṣṭhena samunnatena  
-  
-69.23b rūkṣa^agra^keśī kalaha^priyā sā/  
-  
-69.23c prāyo virūpāsu bhavanti doṣā  
-  
-69.23d yatra^ākṛtis tatra guṇā vasanti//  
-  
-69.24ab/ pādau sagulphau prathamaṃ pradiṣṭau jaṅghe dvitīyaṃ tu sa^jānu^cakre/  
-  
-69.24cd/ meḍhra^ūru^muṣkaṃ ca tatas tṛtīyaṃ nābhiḥ kaṭiś ca^eva[K.ca iti] caturtham āhuḥ//  
-  
-69.25ab/ udaraṃ kathayanti pañcamaṃ hṛdayaṃ ṣaṣṭham atas stana^anvitam/  
-  
-69.25cd/ atha saptamam aṃsajatruṇī kathayanty aṣṭamam oṣṭha^kandhare//  
-  
-69.26ab/ navamaṃ nayane ca sa^bhruṇī sa^lalāṭaṃ daśamaṃ śiras tathā/  
-  
-69.26cd/ aśubheṣv aśubhaṃ daśāphalaṃ caraṇa^ādyeṣu śubheṣu śobhanam//  
-  
-  
-  
-                   70 vastracchedalakṣaṇādhyāyaḥ  
-  
-  
-  
-70.01ab[K.71.6ab]/ prabhūta^vastradā^aśvinī bharaṇy atha^apahāriṇī/  
-  
-70.01cd[K.71.6cd]/ pradahyate +agnidaivate prajesvare +artha^siddhayaḥ//  
-  
-70.02ab[K.71.7ab]/ mṛge tu mūṣakād bhayaṃ vyasutvam eva śāṅkare/  
-  
-70.02cd[K.71.7cd]/ punarvasau śubha^āgamas tad^agrabhe dhanair yutiḥ//  
-  
-70.03ab[K.71.8ab]/ bhujaṅga^bhe vilupyate maghāsu mṛtyum ādiśet/  
-  
-70.03cd[K.71.8cd]/ bhaga^āhvaye nṛpād bhayaṃ dhana^āgamāya ca^uttarā//  
-  
-70.04ab[K.71.9ab]/ kareṇa karma^siddhayaḥ śubha^āgamas tu citrayā/  
-  
-70.04cd[K.71.9cd]/ śubhaṃ ca bhojyam ānile dvi^daivate jana^priyaḥ//  
-  
-70.05ab[K.71.10ab]/ suhūdyutiś[K.ū.suhṛdyutiś] ca mitrabhe tad^agra^bhe[K.purandare] +ambara^kṣayaḥ/  
-  
-70.05cd[K.71.10cd]/ jala^plutiś ca nairṛte rujo jalādhi^daivate//  
-  
-70.06ab[K.71.11ab]/ miṣṭam annam api vaiśva^daivate vaiṣṇave bhavati netra^rogatā/  
-  
-70.06cd[K.71.11cd]/ dhānya^labdhir[K.labdhim] api[K.atha] vāsave[K.viśvadaivate] vidur vāruṇe viṣa^kṛtaṃ mahadbhayam//  
-  
-70.07a[K.71.12a] bhadrapadāsu bhayaṃ salila^utthaṃ  
-  
-70.07b[K.71.12b] tat parataś ca bhavet suta^labdhiḥ/  
-  
-70.07c[K.71.12c] ratna^yutiṃ kathayanti ca pauṣṇe  
-  
-70.07d[K.71.12d] yo +abhinava^ambaram icchati bhoktum//  
-  
-[K.71.13ab/ vipra^matād atha bhūpati^dattaṃ yac ca vivāha^vidhāv abhilabdham/  
-  
-K.71.13cd/ teṣu guṇai rahiteṣv api bhoktuṃ nūtanam ambaramiṣṭaphalaṃ syāt//]  
-  
-70.08ab[K.71.14ab]/ bhoktuṃ nava^ambaraṃ śastam ṛkṣe +api guṇa^varjite/  
-  
-70.08cd[K.71.14cd]/ vivāhe rāja^sammāne brahmaṇāṇāṃ ca sammate//  
-70.09ab[K.71.1ab]/ vastrasya koṇeṣu vasanti devā narāś ca pāśānta^daśānta^madhye/  
-  
-70.09cd[K.71.1cd]/ śeṣās trayaś ca^atra niśācarāṃśās tatha^eva śayyā^āsana^pādukāsu//  
-  
-70.10ab[K.71.2ab]/ lipte maṣī^gomaya^kardama^ādyaiś chinne pradagdhe sphuṭite ca vindyāt/  
-  
-70.10cd[K.71.2cd]/ puṣṭaṃ nave +alpa^alpataraṃ ca bhukte pāpaṃ śubhaṃ ca^adhikam uttarīye//  
-  
-70.11ab[K.71.3ab]/ rug^rākṣasa^aṃśesv atha vā +api mṛtyuḥ puñ^janma^tejaś ca manuṣya^bhāge/  
-  
-70.11cd[K.71.3cd]/ bhāge +amarāṇām atha bhoga^vṛddhiḥ prānteṣu sarvatra vadanty aniṣṭam//  
-  
-70.12ab[K.71.4ab]/ kaṅka^plava^ulūka^kapota^kāka^kravyāda^gomāyu^khara^uṣṭra^sarpaiḥ/  
-  
-70.12cd[K.71.4cd]/ cheda^ākṛtir daivata^bhāgagā^api puṃsāṃ bhayaṃ mṛtyu^samaṃ karoti//  
-  
-70.13ab[K.71.5ab]/ chatra^dhvaja^svastika^vardhamāna^śrīvṛkṣa^kumbha^ambuja^toraṇa^ādyaiḥ/  
-  
-70.13cd[K.71.5cd]/ cheda^ākṛtir nairṛta^bhāgagā^api puṃsāṃ vidhatte na cireṇa lakṣmīm//  
-  
-  
-  
-                   71 cāmaralakṣaṇādhyāyaḥ  
-  
-  
-  
-71.01a devaiś camaryaḥ kila vāla^hetoḥ  
-  
-71.01b sṛṣṭā himakṣmādhara^kandareṣu/  
-  
-71.01c āpīta^varṇāś ca bhavanti tāsāṃ  
-  
-71.01d kṛṣṇāś ca lāṅgūla^bhavāḥ sitāś ca//  
-  
-71.02a sneho mṛdutvaṃ bahu^vālatā[K.vālatā ca]  
-  
-71.02b vaiśadyam alpa^asthi^nibandhanatvam/  
-  
-71.02c śauklyaṃ ca tāsāṃ[K.teṣāṃ] guṇa^sampad uktā  
-  
-71.02d viddha^alpa^luptāni na śobhanāni//  
-  
-71.03a adhyardha^hasta^pramito +asya daṇḍo  
-  
-71.03b hasto +atha vā^aratni^samo +atha vā^anyaḥ/  
-  
-71.03c kāṣṭhāt^śubhāt kāñcana^rūpya^guptād  
-  
-71.03d ratnaiś *ca sarvaiś[K.vicitraiś] ca hitāya rājñām//  
-  
-71.04ab/ yaṣṭy^ātapatra^aṅkuśa^vetra^cāpa^vitāna^kunta^dhvaja^cāmarāṇām/  
-  
-71.04cd/ vyāpīta^tantrī^madhu^kṛṣṇa^varṇā varṇa^krameṇa^eva hitāya daṇḍāḥ//  
-  
-71.05a mātṛ^bhū^dhana^kula^kṣayāvahā  
-  
-71.05b roga^mṛtyu^jananāś ca parvabhiḥ/  
-  
-71.05c dvy^ādibhir dvika^vivardhitaiḥ kramāt  
-  
-71.05d dvādaśa^anta^virataiḥ samaiḥ phalam//  
-  
-71.06a yātrā^prasiddhir dviṣatāṃ vināśo  
-  
-71.06b lābhāḥ prabhūtā[K.prabhūto] vasudhā^gamaś ca/  
-  
-71.06c vṛddhiḥ paśūnām abhivañchita^āptis  
-  
-71.06d try^ādyeṣv ayugmeṣu tad^īśvarāṇām//  
-  
-  
-  
-                   72 chatralakṣaṇādhyāyaḥ  
-  
-  
-  
-72.01ab/ nicitaṃ tu[K's tr. nu] haṃsa^pakṣaiḥ kṛkavāku^mayūra^sārasānāṃ vā/  
-  
-72.01cd/ daukūlyena[K.daukūlena] navena tu samantataś chāditaṃ śuklam//  
-  
-72.02ab/ muktāphalair upacitaṃ pralamba^mālā^āvilaṃ sphaṭika^mūlam/  
-  
-72.02cd/ ṣaḍ^ḍhasta^śuddhahaimaṃ nava^parva^naga^eka^daṇḍaṃ tu//  
-  
-72.03ab/ daṇḍa^ardha^vistṛtaṃ tat samāvṛtaṃ ratna^bhūṣitam[K.ratnavibhūṣitam, K's tr. ratnabhūṣitam] udagram/  
-  
-72.03cd/ nṛpates tad^ātapatraṃ kalyāṇa^paraṃ vijayadaṃ ca//  
-  
-72.04ab/ yuvarāja^nṛpati^patnyoḥ senāpati^daṇḍanāyakānāṃ ca/  
-  
-72.04cd/ daṇḍo +ardha^pañca^hastaḥ samapañca^*kṛto +ardha[K.kṛtārdha]vistāraḥ//  
-  
-72.05ab/ anyeṣām uṣṇaghnaṃ prasādapaṭṭair vibhūṣita^śiraskam/  
-  
-72.05cd/ vyālambi^ratnamālaṃ chatraṃ kāryaṃ tu[K.ca] māyūram//  
-  
-72.06ab/ anyeṣāṃ tu narāṇāṃ śīta^ātapa^vāraṇaṃ tu caturasram[K.caturaśram]/  
-  
-72.06cd/ samavṛtta^daṇḍa^yuktaṃ chatraṃ kāryaṃ tu viprāṇām//  
-  
-  
-  
-                   73 strīpraśamsādhyāyaḥ  
-  
-  
-  
-73.01a jaye dharitryāḥ puram eva sāraṃ  
-  
-73.01b pure gṛhaṃ sadmani ca^ekadeśaḥ/  
-  
-73.01c tatrāpi śayyā śayane varā strī  
-  
-73.01d ratnojjvalā rājyasukhasya sāraḥ//  
-  
-73.02ab/ ratnāni vibhūṣayanti yoṣā bhūṣyante vanitā na ratnakāntyā/  
-  
-73.02cd/ ceto vinatā haranty aratnā no ratnāni vināṅganā^aṅga^saṅgam[K.saṅgāt]//  
-  
-73.03a ākāraṃ vinigūhatāṃ ripubalaṃ jetuṃ samuttiṣṭhatāṃ  
-  
-73.03b tantraṃ cintayatāṃ kṛta^akṛta^śata^vyāpāra^śākhā^ākulam/  
-  
-73.03c mantri^prokta^niṣeviṇāṃ[K.niseviṇām, K's tr. niṣevinām] kṣitibhujām āśaṅkināṃ sarvato  
-  
-73.03d dhuḥkha^ambho^nidhi^vartināṃ sukha^lavaḥ kāntā^samāliṅganam//  
-73.04a śrutaṃ dṛṣṭaṃ spṛṣṭaṃ smṛtam api nṛṇāṃ hlāda^jananaṃ  
-  
-73.04b na ratnaṃ strībhyo +anyat kva cid api kṛtaṃ lokapatinā/  
-  
-73.04c tadarthaṃ dharma^arthau suta^viṣaya^saukhyāni ca tato  
-  
-73.04d gṛhe lakṣmyo mānyāḥ satatam abalā māna^vibhavaiḥ//  
-  
-73.05a ye +apy aṅganānāṃ pravadanti doṣān  
-  
-73.05b vairāgya^mārgeṇa guṇān vihāya/  
-  
-73.05c te durjanā me manaso vitarkaḥ  
-  
-73.05d sadbhāva^vākyāni na tāni teṣām//  
-  
-73.06a prabrūta satyaṃ karato +aṅganānāṃ  
-  
-73.06b doṣo +asti yo nācarito manuṣyaiḥ/  
-  
-73.06c dhārṣṭyena pumbhiḥ pramadā nirastā  
-  
-73.06d guṇādhikās tā manunā^atra ca^uktam//  
-  
-73.07ab/ somas tāsām adāt^śaucaṃ gandharvaḥ[K.gandharvāḥ] śikṣitāṃ giram/  
-  
-73.07cd/ agniś ca sarvabhakṣitvaṃ tasmān niṣkasamāḥ striyaḥ//  
-  
-73.08ab/ brāhmaṇāḥ pādato medhyā gāvo medhyāś ca pṛṣṭhataḥ/  
-  
-73.08cd/ aja^aśvā mukhato medhyāḥ striyo medhyās tu sarvataḥ//  
-  
-73.09ab/ striyaḥ pavitram atulaṃ naitā duṣyanti karhi cit/  
-  
-73.09cd/ māsi māsi rajo hy āsāṃ duṣkṛtāny apakarṣati//  
-  
-73.10ab/ jāmayo yāni gehāni śapanty apratipūjitāḥ/  
-  
-73.10cd/ tāni kṛtyā^hatāni^iva vinaśyanti samantataḥ//  
-  
-73.11ab/ jāyā vā syāj janitrī vā sambhavaḥ strīkṛto nṛṇām/  
-  
-73.11cd/ he kṛtaghnāś tayor nindāṃ kurvatāṃ vaḥ kutaḥ śubham//  
-  
-73.12ab/ dampatyor vyutkrame doṣaḥ samaḥ śāstre pratiṣṭhitaḥ/  
-  
-73.12cd/ narā na samavekṣante tena^atra varamaṅganāḥ//  
-  
-73.13ab/ bahir lomnā tu ṣaṇmāsān veṣṭitaḥ khara^carmaṇā/  
-  
-73.13cd/ dārātikramaṇe bhikṣāṃ dehi^ity uktvā viśudhyati//  
-  
-73.14ab/ na śatena^api varṣāṇām apaiti madana^āśayaḥ/  
-  
-73.14cd/ tatra aśaktyā nirvartante narā dhairyeṇa yoṣitaḥ//  
-  
-73.15ab/ aho dhārṣṭyam asādhūnāṃ nindatām anaghāḥ striyaḥ/  
-  
-73.15cd/ muṣṇatām iva caurāṇāṃ tiṣṭha caureti jalpatām//  
-  
-73.16a puruṣaś caṭulāni[K.cātulāni, K's tr. caṭulāni] kāminīnāṃ  
-  
-73.16b kurute yāni raho na tāni paścāt/  
-  
-73.16c sukṛtajñatayā^aṅganā gatāsūn  
-  
-73.16d avagūhya praviśanti saptajihvam//  
-  
-73.17a strīratna^bhogo +asti narasya yasya  
-  
-73.17b niḥsvo +api *sāmpraty avanīsvaro[K.svaṃ pratyavanīsvaro, K's tr. māṃ pratyava] +asau/  
-  
-73.17c rājyasya sāro +aśanam aṅganāś ca  
-  
-73.17d tṛṣṇa^anala^uddīpana^dāru śeṣam//  
-  
-73.18a kāminīṃ prathamayauvana^anvitāṃ  
-  
-73.18b manda^valgu^mṛdu^pīḍita^svanām/  
-  
-73.18c utstanīṃ samavalambya yā ratiḥ  
-  
-73.18d sā na dhātṛbhavane +asti me matiḥ//  
-  
-73.19a tatra deva^muni^siddha^cāraṇair  
-  
-73.19b mānya^mānapitṛ^sevya^sevanāt/  
-  
-73.19c brūta dhātṛbhavane +asti kiṃ sukhaṃ  
-  
-73.19d yad rahaḥ samavalambya na striyam//  
-  
-73.20a ābrahma^kīṭa^antam idaṃ nibaddhaṃ  
-  
-73.20b puṃstrīprayogeṇa jagat samastam/  
-  
-73.20c vrīḍā^atra kā yatra caturmukhatvam  
-  
-73.20d īśo +api lobhād gamito yuvatyāḥ//  
-  
-  
-  
-                   74 saubhāgyakaraṇādhyāyaḥ  
-  
-  
-  
-74.01a jātyaṃ manobhava^sukhaṃ subhagasya sarvam  
-  
-74.01b ābhāsa^mātram itarasya manoviyogāt/  
-  
-74.01c cittena bhāvayati dūragatā^api yaṃ strī  
-  
-74.01d garbhaṃ bibharti sadṛśaṃ puruṣasya tasya//  
-  
-74.02a bhaṅktvā kāṇḍaṃ pādapasya^uptam urvyāṃ  
-  
-74.02b bījaṃ vā^asyāṃ na^anyatām eti yadvat/  
-  
-74.02c evaṃ hy ātmā jāyate strīṣu bhūyaḥ  
-  
-74.02d kaś cit tasmin kṣetrayogād viśeṣaḥ//  
-  
-74.03a ātmā saha^eti manasā mana indriyeṇa  
-  
-74.03b svārthena ca^indriyam iti krama eṣa śīghraḥ/  
-  
-74.03c yogo +ayam eva manasaḥ kim agamyam asti  
-  
-74.03d yasmin mano vrajati tatra gato +ayam ātmā//  
-  
-74.04a ātmā^ayam ātmani gato hṛdaye +atisūkṣmo  
-  
-74.04b grāhyo +acalena manasā satata^abhiyogāt/  
-  
-74.04c yo yaṃ vicintayati yāti sa tanmayatvaṃ  
-  
-74.04d yasmād ataḥ subhagam eva gatā yuvatyaḥ//  
-  
-74.05ab/ dākṣiṇyam ekaṃ subhagatva^hetur vidveṣaṇaṃ tad^viparīta^ceṣṭā/  
-  
-74.05cd/ mantra^oṣadha^ādyaiḥ kuhaka^prayogair bhavanti doṣā bahavo na śarma//  
-  
-74.06ab/ vāllabhyam āyāti vihāya mānaṃ daurbhāgyam āpādayate +abhimānaḥ/  
-  
-74.06cd/ kṛcchreṇa saṃsādhayate +abhimānī kāryāṇy ayatnena vadan priyāṇi//  
-  
-74.07ab/ tejo na tad yat priya^sāhasatvaṃ vākyaṃ na ca^aniṣṭam asatpraṇītam/  
-  
-74.07cd/ kāryasya gatva?^antam anuddhatā ye tejasvinas te na vikatthanā ye//  
-  
-74.08ab/ yaḥ sārvajanyaṃ subhagatvam icched guṇān sa sarvasya vadet parokṣam[K.parokṣe]/  
-  
-74.08cd/ prāpnoti doṣān asato +apy anekān parasya yo doṣakathāṃ karoti//  
-  
-74.09ab/ sarva^upakāra^anugatasya lokaḥ sarva^upakāra^anugato narasya/  
-  
-74.09cd/ kṛtvā^upakāraṃ dviṣatāṃ vipatsu yā kīrtir alpena na sā śubhena//  
-  
-74.10ab/ tṛṇair ivāgniḥ sutarāṃ vivṛddhim āchādyamāno +api guṇo +abhyupaiti/  
-  
-74.10cd/ sa kevalaṃ durjanabhāvam eti hantuṃ guṇān vāñchati yaḥ parasya//  
-  
-  
-  
-                   75 kāndarpikādhyāyaḥ  
-  
-  
-  
-75.01ab/ rakte +adhike strī puruṣas tu śukre napuṃsakaṃ śoṇita^śukrasāmye/  
-  
-75.01cd/ yasmād ataḥ śukra^vivṛddhidāni niṣevitavyāni rasāyanāni//  
-  
-75.02ab/ harmya^pṛṣṭham uḍunātha^raśmayaḥ sa^utpalaṃ madhu mada^alasā priyā/  
-  
-75.02cd/ vallakī smarakathā rahaḥ srajo varga eṣa madanasya vāgurā//  
-  
-75.03a mākṣīkadhātu^madhu^pārada^lohacūrṇa^  
-  
-75.03b pathyā^śilājatu^*ghṛtāni samāni[K.viḍaṅgaghṛtāni] yo +adyāt/  
-  
-75.03c saikāni viṃśatir ahāni jarānvito +api  
-  
-75.03d so +aśītiko +api ramayaty abalāṃ yuvā^iva//  
-  
-75.04a kṣīraṃ śṛtaṃ yaḥ kapikacchu^mūlaiḥ  
-  
-75.04b pibet kṣayaṃ strīṣu na so +abhyupaiti/  
-  
-75.04c māṣān payaḥsarpiṣi vā vipakvān  
-  
-75.04d ṣaḍgrāsamātrāṃś ca payo +anupānam[K.anupānān]//  
-  
-75.05ab/ vidārikāyāḥ svarasena cūrṇaṃ muhurmuhur bhāvitaśoṣitaṃ ca/  
-  
-75.05cd/ śṛtena dugdhena saśarkareṇa pibet sa yasya pramadāḥ prabhūtāḥ//  
-  
-75.06a dhātrīphalānāṃ svarasena cūrṇaṃ  
-  
-75.06b subhāvitaṃ kṣaudra^sita^ājya^yuktam/  
-  
-75.06c līḍhvā^anu pītvā ca payo +agniśaktyā  
-  
-75.06d kāmaṃ nikāmaṃ puruṣo niṣevet//  
-  
-75.07a kṣīreṇa basta^aṇḍa yujā śṛtena  
-  
-75.07b samplāvya kāmī bahuśas tilān yaḥ/  
-  
-75.07c suśoṣitān atti *payaḥ pibec[K.pibet payaś] ca  
-  
-75.07d tasya^agrataḥ kiṃ caṭakaḥ karoti//  
-  
-75.08ab/ māṣa^sūpa^sahitena sarpiṣā ṣaṣṭikaudanam adanti ye narāḥ/  
-  
-75.08cd/ kṣīram apy anu pibanti tāsu te śarvarīṣu madanena[K.madane na] śerate//  
-  
-75.09a tila^aśvagandhā^kapikacchu^mūlair  
-  
-75.09b vidārikā^ṣaṣṭika^piṣṭa^yogaḥ/  
-  
-75.09c ājena piṣṭaḥ payasā ghṛtena  
-  
-75.09d pakvaṃ[K.paktvā] bhavet^śaṣkulikātivṛṣyā//  
-  
-75.10a kṣīreṇa vā gokṣuraka^upayogaṃ  
-  
-75.10b vidārikā^kandaka^bhakṣaṇaṃ vā/  
-  
-75.10c kurvan na sīded yadi jīryate +asya  
-  
-75.10d mandāgnitā ced idam atra cūrṇam//  
-  
-75.11ab/ sa^ajamoda^lavaṇā harītakī śṛṅgavera^sahitā ca pippalī/  
-  
-75.11cd/ madya^takra^tarala^uṣṇavāribhiś cūrṇapānam udarāgnidīpanam//  
-  
-75.12a atyamla^tikta^lavaṇāni kaṭūni vā+atti  
-  
-75.12b *yaḥ kṣāraśāka^bahulāni[K.kṣāraśākabahulāni] ca bhojanāni/  
-  
-75.12c dṛk^śukra^vīrya^rahitaḥ sa karoty anekān  
-75.12d vyājān jarann iva yuvā +apy abalām avāpya//  
-  
-  
-  
-                   76 gandhayuktyadhyāyaḥ  
-  
-  
-  
-76.01ab/ srag^gandha^dhūpa^ambara^bhūṣaṇa^ādyaṃ na śobhate śukla^śiroruhasya/  
-  
-76.01cd/ yasmād ato mūrdhaja^rāgasevāṃ kuryād yatha^eva^añjana^bhūṣaṇānām//  
-  
-76.02a lauhe pātre taṇḍulān kodravāṇāṃ  
-  
-76.02b śukle pakvāṃl lohacūrṇena sākam/  
-  
-76.02c piṣṭān sūkṣmaṃ mūrdhni śukla^amla^keśe  
-  
-76.02d datvā[K.dattvā] tiṣṭhed veṣṭayitvā^ārdra[K.arka]patraiḥ//  
-  
-76.03a yāte dvitīye prahare vihāya  
-  
-76.03b dadyāt^śirasy āmalaka^pralepam/  
-  
-76.03c saṃchādya patraiḥ praharadvayena  
-  
-76.03d prakṣālitaṃ kārṣṇyam upaiti śīrṣam//  
-  
-76.04a paścāt^śiraḥsnāna^sugandha^tailair  
-  
-76.04b loha^amla^gandhaṃ śiraso +apanīya/  
-  
-76.04c hṛdyaiś ca gandhair vividhaiś ca dhūpair  
-  
-76.04d antaḥpure rājyasukhaṃ niṣevet//  
-  
-76.05ab/ tvak^kuṣṭha^reṇu^nalikā^spṛkkā^rasa^tagara^bālakais tulyaiḥ/  
-  
-76.05cd/ kesara^patra^vimiśrair narapati^yogyaṃ śiraḥsnānam//  
-  
-76.06ab/ mañjiṣṭhayā vyāghranakhena śuktyā tvacā sakuṣṭhena rasena cūrṇaḥ/  
-  
-76.06cd/ tailena yukto +arkamayūkha^taptaḥ karoti tac campaka^gandhi tailam//  
-  
-76.07a tulyaiḥ patra^turuṣka^bāla^tagarair gandhaḥ smaroddīpanaḥ  
-  
-76.07b savyāmo bakulo +ayam eva kaṭukā^hiṅgu^pradhūpa^anvitaḥ/  
-  
-76.07c kuṣṭhena^utpalagandhikaḥ samalayaḥ pūrvo bhavec campako  
-  
-76.07d jātī^tvak^sahito +atimuktaka iti jñeyaḥ sakustumburuḥ//  
-  
-76.08ab/ śatapuṣpā^kundurukau pādena^ardhena nakha^turuṣkau ca/  
-  
-76.08cd/ malaya^priyaṅgu^*bhāgau[K's tr. bhāgo] gandho dhūpyo guḍa^nakhena//  
-  
-76.09ab/ guggulu^bālaka[K.vālaka]^lākṣā^mustā^nakha^śarkarāḥ kramād dhūpaḥ/  
-  
-76.09cd/ anyo māṃsī^bālaka[K.vālaka]^turuṣka^nakha^candanaiḥ piṇḍaḥ//  
-  
-76.10a harītakī^śaṅkha^ghana^drava^ambubhir  
-  
-76.10b guḍa^utpalaiḥ śailaka^mustaka^anvitaiḥ/  
-  
-76.10c navānta^pāda^ādi^vivardhitaiḥ kramād  
-  
-76.10d bhavanti dhūpā bahavo manoharāḥ//  
-  
-76.11a bhāgaiś caturbhiḥ sita^śaila[U.śaileya]^mustāḥ  
-  
-76.11b śrī^sarja^bhāgau nakha^guggulū ca/  
-  
-76.11c karpūra^bodho madhu^piṇḍito +ayaṃ  
-  
-76.11d kopacchado nāma narendradhūpaḥ//  
-  
-76.12ab/ tvag^uśīra^patra^bhāgaiḥ sūkṣmailā^ardhena saṃyutaiś cūrṇaḥ/  
-  
-76.12cd/ puṭavāsaḥ[K.paṭavāsaḥ] pravaro +ayaṃ mṛga^karpūra^prabodhena//  
-  
-76.13ab/ ghana^bālaka^śaileyaka^karpūra^uśīra^nāgapuṣpāṇi/  
-  
-76.13cd/ vyāghranakha^spṛkkā^aguru^*damanaka[U.madanaka]^nakha^tagara^dhānyāni//  
-  
-76.14ab/ karpūra[k's tr. karcūra]^cola[K.cora]^malayaiḥ svecchāparivartitaiś caturbhir ataḥ/  
-  
-76.14cd/ ekadvitricaturbhir bhāgair gandhārṇavo bhavati//  
-  
-76.15ab/ atyulbaṇagandha^tvād ekāṃśo nityam eva dhānyānām/  
-  
-76.15cd/ karpūrasya tadūno naitau dvitryādibhir deyau//  
-  
-76.16ab/ śrī^sarja^guḍa^nakhais te dhūpayitavyāḥ kramān na piṇḍasthaiḥ/  
-  
-76.16cd/ bodhaḥ kastūrikayā deyaḥ karpūra^saṃyutayā//  
-  
-76.17ab/ atra sahasra^catuṣṭayam anyāni ca saptati^sahasrāṇi/  
-  
-76.17cd/ lakṣaṃ śatāni sapta viṃśati^yuktāni gandhānām//  
-  
-76.18ab/ ekaikam ekabhāgaṃ dvi^tri^catur^bhāgikair yutaṃ dravyaiḥ/  
-  
-76.18cd/ ṣaḍ^gandha^karaṃ tadvad dvi^tri^catur^bhāgikaṃ kurute//  
-  
-76.19ab/ dravya^catuṣṭaya^yogād gandha^caturviṃśatir yathā^ekasya/  
-  
-76.19cd/ evaṃ śeṣāṇām api ṣaṇṇavatiḥ sarvapiṇḍo +atra//  
-  
-76.20ab/ ṣoḍaśake dravyagaṇe caturvikalpena bhidyamānānām/  
-  
-76.20cd/ aṣṭādaśa jāyante śatāni sahitāni viṃśatyā//  
-  
-76.21ab/ ṣaṇṇavati^bhedabhinnaś catur^vikalpo gaṇo yatas tasmāt/  
-  
-76.21cd/ ṣaṇṇanavati^guṇaḥ kāryaḥ sā saṅkhyā bhavati gandhānām//  
-  
-76.22a pūrveṇa pūrveṇa gatena yuktaṃ  
-  
-76.22b sthānaṃ vināntyaṃ pravadanti saṅkhyām/  
-  
-76.22c icchāvikalpaiḥ kramaśo +abhinīya  
-  
-76.22d nīte nivṛttiḥ punar anyanītiḥ//  
-  
-76.23ab/ dvi^tri^indriya^aṣṭabhāgair aguruḥ patraṃ turuṣka^śaileyau  
-  
-76.23cd/ viṣaya^aṣṭa^pakṣa^dahanāḥ priyaṅgu^mustā^rasāḥ keśaḥ//  
-  
-76.24ab/ spṛkkā^tvak^tagarāṇāṃ māṃsyāś ca kṛta^eka^sapta^ṣaḍ^bhāgāḥ/  
-  
-76.24cd/ sapta^ṛtu^veda^candrair malaya^nakha^śrīka^kundurukāḥ//  
-  
-76.25ab/ ṣoḍaśake kacchapuṭe yathā tathā *miśrite caturdravye[K.miśritaiś caturdravyaiḥ]/  
-  
-76.25cd/ ye +atra^aṣṭādaśa bhāgās te +asmin gandhādayo yogāḥ//  
-  
-76.26ab/ nakha^tagara^turuṣka^yutā jātī^karpūra^mṛga^kṛta^ubdodhāḥ[U.udbodhāḥ]/  
-  
-76.26cd/ guḍa^nakha^dhūpyā gandhāḥ kartavyāḥ sarvatobhadrāḥ//  
-  
-76.27ab/ jātīphala^mṛga^karpūra^bodhitaiḥ sa^sahakāra^madhu^siktaiḥ/  
-  
-76.27cd/ bahavo +atra pārijātāś caturbhir icchāparigṛhītaiḥ//  
-  
-76.28ab/ sarja^rasa^śrīvāsaka^samanvitā ye +atra sarva^dhūpās[K.sarvayogās] taiḥ/  
-  
-76.28cd/ śrī^sarja^rasa^viyuktaiḥ snānāni sabālaka[K.savālaka]tvagbhiḥ//  
-  
-76.29ab/ rodhra^uśīra^nata^aguru^*mustā^patra[K.mustā]^priyaṅgu^vana^pathyāḥ/  
-  
-76.29cd/ navakoṣṭhāt kacchapuṭād dravyatritayaṃ samuddhṛtya//  
-  
-76.30ab/ candana^turuṣka^bhāgau śukty^ardhaṃ pādikā tu śatapuṣpā/  
-  
-76.30cd/ kaṭu^hiṅgula^guḍa^dhūpyāḥ kesaragandhāś caturaśītiḥ//  
-  
-76.31ab/ saptāhaṃ gomūtre harītakī^cūrṇa^saṃyute kṣiptvā/  
-  
-76.31cd/ gandhodake ca bhūyo vinikṣiped dantakāṣṭhāni//  
-  
-76.32ab/ elā^tvak^patra^añjana^madhu^maricair nāgapuṣpa^kuṣṭhaiś ca/  
-  
-76.32cd/ gandhāmbhaḥ kartavyaṃ kiñ cit kālaṃ sthitāny asmin//  
-  
-76.33ab/ jātīphala^patra^elā^karpūraiḥ kṛta^yama^eka^śikhi^bhāgaiḥ/  
-  
-76.33cd/ avacūrnitāni bhānor marīcibhiḥ śoṣaṇīyāni//  
-  
-76.34a varṇa^prasādaṃ vadanasya kāntiṃ  
-  
-76.34b vaiśadyam āsyasya sugandhitāṃ ca/  
-  
-76.34c saṃsevituḥ śrotrasukhāṃ ca vācaṃ  
-  
-76.34d kurvanti kāṣṭhāny asakṛdbhavānām//  
-  
-76.35a kāmaṃ pradīpayati rūpam abhivyanakti  
-  
-76.35b saubhāgyam āvahati vaktra^sugandhitāṃ ca/  
-  
-76.35c ūrjaṃ karoti kaphajāṃś ca nihanti rogāṃs  
-  
-76.35d tāmbūlam evam aparāṃś ca guṇān karoti//  
-  
-76.36a yuktena cūrṇena karoti rāgaṃ  
-  
-76.36b rāga^kṣayaṃ pūgaphala^atiriktam/  
-  
-76.36c cūrṇa^adhikaṃ vaktra^vigandha^kāri  
-  
-76.36d patra^adhikaṃ sādhu karoti gandham//  
-  
-76.37a patra^adhikaṃ niśi hitaṃ saphalaṃ divā ca  
-  
-76.37b proktāny athākaraṇam asya viḍambanaiva/  
-  
-76.37c kakkola^pūga^lavalīphala^pārijātair  
-  
-76.37d āmoditaṃ madamudā muditaṃ karoti//  
-  
-  
-  
-                   77 strīpuṃsasamāyogādhyāyaḥ  
-  
-  
-  
-77.01ab/ śastrena veṇī^vinigūhitena vidūrathaṃ svā mahiṣī jaghāna/  
-  
-77.01cd/ viṣa^pradigdhena ca nūpureṇa devī viraktā kila kāśirājam//  
-  
-77.02a evaṃ viraktā janayanti doṣān  
-  
-77.02b prāṇacchido +anyair anukīrtitaiḥ kim/  
-  
-77.02c raktāviraktāḥ puruṣair ato +arthāt  
-  
-77.02d parīkṣitavyāḥ pramadāḥ prayatnāt//  
-  
-77.03a snehaṃ manobhavakṛtaṃ kathayanti bhāvā  
-  
-77.03b nābhī^bhuja^stana^vibhūṣaṇa^darśanāni/  
-  
-77.03c vastra^abhisaṃyamana^keśa^vimokṣaṇāni  
-77.03d bhrūkṣepa^kampita^kaṭākṣa^nirīkṣaṇāni//  
-  
-77.04a uccaiḥ ṣṭhīvanam utkaṭa^prahasitaṃ śayyā^āsana^utsarpaṇaṃ  
-  
-77.04b gātra^āsphoṭana^jṛmbhaṇāni sulabha^dravya^alpa^samprārthanā/  
-  
-77.04c bāla^āliṅgana^cumbanāny abhimukhe sakhyāḥ samālokanaṃ  
-  
-77.04d dṛkpātaś ca parāṅmukhe guṇakathā karṇasya kaṇḍūyanam//  
-  
-77.05a imāṃ ca vindyād anuraktaceṣṭāṃ  
-  
-77.05b priyāṇi vakti svadhanaṃ dadāti/  
-  
-77.05c vilokya saṃhṛṣyati vītaroṣā  
-  
-77.05d pramārṣṭi doṣān guṇakīrtanena//  
-  
-77.06a tanmitrapūjā tadaridviṣatvaṃ  
-  
-77.06b kṛtasmṛtiḥ proṣita^daurmanasyam/  
-  
-77.06c stana^oṣṭha^dānāny upagūhanaṃ ca  
-  
-77.06d svedo +atha cumbā^prathama^abhiyogaḥ//  
-  
-77.07a virakta^ceṣṭā bhrukuṭī[K.bhṛkuṭī]^mukhatvaṃ  
-  
-77.07b parāṅmukhatvaṃ kṛtavismṛtiś ca/  
-  
-77.07c asambhramo duṣparitoṣatā ca  
-  
-77.07d taddviṣṭa^maitrī paruṣaṃ ca vākyam//  
-  
-77.08a spṛṣṭvā^atha vā^ālokya dhunoti gātraṃ  
-  
-77.08b karoti garvaṃ na ruṇaddhi yāntam/  
-  
-77.08c cumbā^virāme vadanaṃ pramārṣṭi  
-  
-77.08d paścāt samuttiṣṭhati pūrvasuptā//  
-  
-77.09ab/ bhikṣuṇikā pravrajitā dāsī dhātrī kumārikā rajikā/  
-  
-77.09cd/ mālākārī duṣṭāṅganā sakhī nāpitī dūtyaḥ//  
-  
-77.10ab/ kulajana^vināśa^hetur dūtyo yasmād ataḥ prayatnena/  
-  
-77.10cd/ tābhyaḥ striyo +abhirakṣyā vaṃśa^yaśo^māna^vṛddhy^artham//  
-  
-77.11ab/ rātrī^vihāra^jāgara^roga^vyapadeśa^paragṛha^īkṣaṇikāḥ/  
-  
-77.11cd/ vyasana^utsavāś ca saṅketa^hetavas teṣu rakṣyāś ca//  
-  
-77.12a ādau na^icchati na^ujjhati smarakathāṃ vrīḍā^vimiśra^ālasā  
-  
-77.12b madhye hrī^parivarjita^abhyuparame lajjā^vinamra^ānanā/  
-  
-77.12c bhāvair na^ekavidhaiḥ karoty abhinayaṃ bhūyaś ca yā sādarā  
-  
-77.12d buddhvā pumprakṛtiṃ ca yā^anucarati glānetaraiś ceṣṭitaiḥ//  
-  
-77.13a strīṇāṃ guṇā yauvana^rūpa^veṣa^  
-  
-77.13b dākṣiṇya^vijñāna^vilāsa^pūrvāḥ/  
-  
-77.13c strī ratnasaṃjñā ca guṇa^anvitāsu  
-  
-77.13d strī^vyādhayo +anyāś caturasya puṃsaḥ//  
-  
-77.14a na grāmya^varṇair maladigdhakāyā  
-  
-77.14b nindyāṅga^saṃbandhi^kathāṃ ca kuryāt/  
-  
-77.14c na ca^anyakārya^smaraṇaṃ rahaḥsthā  
-  
-77.14d mano hi mūlaṃ haradagdhamūrteḥ//  
-  
-77.15ab/ śvāsaṃ manuṣyeṇa samaṃ tyajantī bāhu^upadhāna^stana^dāna^dakṣā/  
-  
-77.15cd/ sugandha^keśā susamīpa^rāgā supte +anusuptā prathamaṃ vibuddhā//  
-  
-77.16ab/ duṣṭa^svabhāvāḥ parivarjanīyā vimarda^kāleṣu ca na kṣamā yāḥ/  
-  
-77.16cd/ yāsām asṛg^vā^asita^nīla^pītam ātāmravarṇaṃ ca na tāḥ praśastāḥ//  
-  
-77.17ab/ yā svapnaśīlā bahu^rakta^pittā pravāhinī vāta^kapha^atiraktā[K.atiriktā]/  
-  
-77.17cd/ mahāśanā svedayutāṅgaduṣṭhā yā hrasvakeśī palitānvitā vā[K.ca]//  
-  
-77.18a māṃsāni yasyāś ca calanti nāryā  
-  
-77.18b mahodarā khikkhiminī ca yā syāt//  
-  
-77.18c strīlakṣaṇe yāḥ kathitāś ca pāpās  
-  
-77.18d tābhir na kuryāt saha kāmadharmam//  
-  
-77.19ab/ śaśa^śoṇita^saṅkāśaṃ lākṣā^rasa^sannikāśam atha^vā yat/  
-  
-77.19cd/ prakṣālitaṃ virajyati yac ca^asṛk tad bhavet^śuddham//  
-  
-77.20ab/ yac chabda^vedanā^varjitaṃ tryahāt sannivartate raktam/  
-  
-77.20cd/ tat puruṣa^samprayogād avicāraṃ garbhatāṃ yāti//  
-  
-77.21ab/ na dinatrayaṃ niṣevyaṃ[K.niṣevet] snānaṃ mālya^anulepanaṃ *strībhiḥ[K.ca strī]/  
-  
-77.21cd/ snāyāc caturtha^divase śāstra^uktena^upadeśena//  
-  
-77.22ab/ puṣyasnāna^oṣadhayo yāḥ kathitās tābhir ambu^miśrābhiḥ/  
-  
-77.22cd/ snāyāt tathātra mantraḥ sa eva yas tatra nirdiṣṭaḥ//  
-  
-77.23ab/ yugmāsu kila manuṣyā niśāsu nāryo bhavanti viṣamāsu/  
-  
-77.23cd/ dīrghāyuṣaḥ surūpāḥ sukhinaś ca vikṛṣṭa^yugmāsu//  
-  
-77.24ab/ dakṣiṇa^pārśve puruṣo vāme nārī yamāv ubhayasaṃsthau//  
-  
-77.24cd/ yad udaramadhya^upagataṃ napuṃsakaṃ tan niboddhavyam//  
-  
-77.25a kendra^trikoṇeṣu śubhasthiteṣu  
-  
-77.25b lagne śaśāṅke ca śubhaiḥ samete/  
-  
-77.25c pāpais trilābhārigataiś ca yāyāt  
-  
-77.25d puṃjanmayogeṣu ca samprayogam//  
-  
-77.26a na nakhadaśanavikṣatāni kuryād  
-  
-77.26b ṛtusamaye puruṣaḥ striyāḥ kathañ cit/  
-  
-77.26c ṛtur api daśa ṣaṭ ca vāsarāṇi  
-  
-77.26d prathama^niśātritayaṃ na tatra gamyam//  
-  
-  
-  
-                   78  śayyāsanalakṣaṇādhyāyaḥ  
-  
-  
-78.01ab/ sarvasya sarvakālaṃ yasmād upayogam eti śāstram idam/  
-  
-78.01cd/ rājñāṃ viśeṣato +ataḥ śayana^āsana^lakṣaṇaṃ vakṣye//  
-  
-78.02ab/ asana^spandana^candana^haridra^suradāru^tindukī^śālāḥ/  
-  
-78.02cd/ kāśmary^añjana^padmaka^śākā vā śiṃśapā ca śubhāḥ//  
-  
-78.03ab/ aśani^jala^anila^hasti^prapātitā madhu^vihaṅga^kṛta^nilayāḥ/  
-  
-78.03cd/ caitya^śmaśāna^pathija^ūrdhvaśuṣka^vallī^nibaddhāś ca//  
-  
-78.04ab/ kaṇṭakino *ye ca[K.vā ye] syur mahānadī^saṅgama^udbhavā ye ca/  
-  
-78.04cd/ surabhavanajāś ca na śubhā ye ca^apara^yāmya^dik^patitāḥ//  
-  
-78.05ab/ pratiṣiddha^vṛkṣa^nirmita^śayana^āsana^sevanāt kula^vināśaḥ/  
-  
-78.05cd/ vyādhi^bhaya^vyaya^kalahā bhavanty anarthā[K.anarthāś ca] anekavidhāḥ//  
-  
-78.06ab/ pūrvacchinnaṃ yadi vā dāru bhavet tat parīkṣyam ārambhe/  
-  
-78.06cd/ yady ārohet tasmin kumārakaḥ putra^paśu^daṃ tat//  
-  
-78.07ab/ sitakusuma^matta^vāraṇa^dadhy^akṣata^pūrṇakumbha^ratnāni/  
-  
-78.07cd/ maṅgalyāny anyāni ca dṛṣṭvā^ārambhe śubhaṃ jñeyam//  
-  
-78.08ab/ karmāṅgulaṃ yava^aṣṭakam udara^āsaktaṃ tuṣaiḥ parityaktam/  
-  
-78.08cd/ aṅgulaśataṃ nṛpāṇāṃ mahatī śayyā jayāya kṛtā//  
-  
-78.09ab/ navatiḥ saiva ṣaḍūnā dvādaśahīnā triṣaṭkahīnā ca/  
-  
-78.09cd/ nṛpa^putra^mantri^balapati^purodhasāṃ syur yathā^saṅkhyam//  
-  
-78.10ab/ ardham ato +aṣṭāṃśonaṃ viṣkambho viśvakarmaṇā proktaḥ/  
-  
-78.10cd/ āyāma^tryaṃśa^samaḥ pāda^ucchrāyaḥ sakukṣya[K.sakukṣi]śirāḥ//  
-  
-78.11ab/ yaḥ sarvaḥ śrīparṇyā paryaṅko nirmitaḥ sa dhanadātā/  
-  
-78.11cd/ asanakṛto rogaharas tindukasāreṇa vittakaraḥ//  
-  
-78.12ab/ yaḥ kevalaśiṃśapayā vinirmito bahuvidhaṃ sa vṛddhikaraḥ/  
-  
-78.12cd/ candanamayo ripughno dharma^yaśo^dīrgha^jīvita^kṛt//  
-  
-78.13ab/ yaḥ padmaka^paryaṅkaḥ sa dīrgham āyuḥ śriyaṃ śrutaṃ vittam/  
-  
-78.13cd/ kurute śālena kṛtaḥ kalyāṇaṃ śākaracitaś ca//  
-  
-78.14ab/ kevala^candana^racitaṃ kāñcana^guptaṃ vicitra^ratna^yutam/  
-  
-78.14cd/ adhyāsan paryaṅkaṃ vibudhair api pūjyate nṛpatiḥ//  
-  
-78.15ab/ anyena samāyuktā na tindukī śiṃśapā ca śubhaphaladā/  
-  
-78.15cd/ na *śrīparṇena[K.śrīparṇī na] ca devadāruvṛkṣo na ca^apy asanaḥ//  
-  
-78.16ab/ śubhadau tu śāla^śākau[K.śākaśālau] parasparaṃ saṃyutau pṛthak ca^eva/  
-  
-78.16cd/ tadvat pṛthak praśastau sahitau ca haridraka^kadambau//  
-  
-78.17ab/ sarvaḥ spandana^racito na śubhaḥ prāṇān hinasti ca^ambakṛtaḥ/  
-  
-78.17cd/ asano +anya^dāru^sahitaḥ kṣipraṃ doṣān karoti bahūn//  
-  
-78.18ab/ amba^spandana^candana^vṛkṣāṇāṃ spandanāt^śubhāḥ pādāḥ/  
-  
-78.18cd/ phala^taruṇā śayanāsanam iṣṭaphalaṃ bhavati sarveṇa//  
-  
-78.19ab/ gaja^dantaḥ sarveṣāṃ prokta^tarūṇāṃ praśasyate yoge/  
-  
-78.19cd/ kāryo +alaṅkāravidhir gaja^dantena praśastena//  
-  
-78.20ab/ dantasya mūlaparidhiṃ dvirāyataṃ prohya kalpayet^śeṣam/  
-  
-78.20cd/ adhikam anūpacarāṇāṃ nyūnaṃ giricāriṇāṃ kiñ cit//  
-  
-78.21ab/ *śrīvṛkṣa[K.śrīvatsa]^vardhamāna^cchatra^dhvaja^cāmara^anurūpeṣu/  
-  
-78.21cd/ chede dṛṣṭeṣv ārogya[K.arogya]^vijaya^dhana^vṛddhi^saukhyāni//  
-  
-78.22ab/ praharaṇa^sadṛśeṣu jayo nandyāvarte pranaṣṭa^deśa^āptiḥ/  
-  
-78.22cd/ loṣṭhe[K.ū.loṣṭe] tu labdhapūrvasya bhavati deśasya samprāptiḥ//  
-  
-78.23ab/ strīrūpe dhananāśo[K.svavināśo] bhṛṅgāre +abhyutthite suta^utpattiḥ/  
-78.23cd/ kumbhena nidhiprāptir yātrāvighnaṃ ca daṇḍena//  
-  
-78.24ab/ kṛkalāsa^kapi^bhujaṅgeṣv asubhikṣa^vyādhayo ripu^*vaśitvam[K.vaśatvam]/  
-  
-78.24cd/ gṛdhra^ulūka^dhvāṅkṣa^śyena^ākāreṣu janamarakaḥ//  
-  
-78.25ab/ pāśe +atha vā kabandhe nṛpa^mṛtyur janavipat srute rakte/  
-  
-78.25cd/ kṛṣṇe śyāve rūkṣe durgandhe cāśubhaṃ bhavati//  
-  
-78.26ab/ śuklaḥ samaḥ sugandhiḥ snigdhaś ca śubhāvaho bhavec chedaḥ/  
-  
-78.26cd/ aśubha^śubhacchedā ye śayaneṣv api te tathā phaladāḥ//  
-  
-78.27ab/ īṣāyoge dāru pradakṣiṇa^agraṃ praśastam ācāryaiḥ/  
-  
-78.27cd/ apasavya^ekadigagre bhavati bhayaṃ bhūta^sañjanitam//  
-  
-78.28ab/ ekena^avākśirasā[K.ekenāvākcchirasā] bhavati hi pādena pāda^vaikalyam/  
-  
-78.28cd/ dvābhyāṃ na jīryate +annaṃ tricaturbhiḥ kleśa^vadha^bandhāḥ//  
-  
-78.29ab/ suṣire +atha vā vivarṇe granthau pādasya śīrṣage vyādhiḥ/  
-  
-78.29cd/ pāde kumbho yaś ca granthau tasminn udararogaḥ//  
-  
-78.30ab/ kumbha^adhastāj jaṅghā tatra kṛto jaṅghayoḥ karoti bhayam/  
-  
-78.30cd/ tasyāś ca^ādharo +adhaḥ kṣayakṛd dravyasya tatra kṛtaḥ//  
-  
-78.31ab/ khuradeśe yo granthiḥ khuriṇāṃ pīḍākaraḥ sa nirdiṣṭaḥ/  
-  
-78.31cd/ īṣā^śīrṣaṇyoś ca tribhāga^saṃstho bhaven na śubhaḥ//  
-  
-78.32ab/ niṣkuṭam atha kolākṣaṃ sūkaranayanaṃ ca vatsanābhaṃ ca/  
-  
-78.32cd/ kālakam anyad dhundhukam iti kathitaś chidra^saṃkṣepaḥ//  
-  
-78.33ab/ ghaṭavat suṣiraṃ madhye saṅkaṭam āsye ca niṣkuṭaṃ chidram/  
-  
-78.33cd/ niṣpāva^māṣamātraṃ nīlaṃ chidraṃ ca kolākṣam//  
-  
-78.34ab/ sūkaranayanaṃ viṣamaṃ vivarṇam adhyardha^parva^dīrgham ca/  
-  
-78.34cd/ vāmāvartaṃ bhinnaṃ parvamitaṃ vatsanābha^ākhyam//  
-  
-78.35ab/ kālakasaṃjñaṃ kṛṣṇaṃ dhundhukam iti yad bhaved vinirbhinnam/  
-  
-78.35cd/ dārusavarṇaṃ chidraṃ na tathā pāpaṃ samuddiṣṭam//  
-  
-78.36ab/ niṣkuṭa^saṇjñe dravyakṣayas tu kolekṣaṇe kula^dhvaṃsaḥ/  
-  
-78.36cd/ śastra^bhayaṃ sūkarake rogabhayaṃ vatsanābhākhye//  
-  
-78.37ab/ kālaka^dhundhuka^saṃjñaṃ kīṭair viddhaṃ ca na śubhadaṃ chidram/  
-  
-78.37cd/ sarvaṃ granthipracuraṃ sarvatra na śobhanaṃ dāru//  
-  
-78.38ab/ ekadrumeṇa dhanyaṃ vṛkṣa^dvaya^nirmitaṃ ca dhanyataram/  
-  
-78.38cd/ tribhir ātmaja^vṛddhikaraṃ caturbhir arthaṃ[K.artho] yaśaś cāgryam//  
-  
-78.39ab/ pañca^vanaspati^racite pañcatvaṃ yāti tatra yaḥ śete/  
-  
-78.39cd/ ṣaṭsaptāṣṭatarūṇāṃ kāṣṭhair ghaṭite kulavināśaḥ//  
-  
-  
-  
-                   79 ratnaparīkṣādhyāyaḥ  
-  
-  
-  
-79.01ab/ ratnena śubhena śubhaṃ bhavati nṛpāṇām aniṣṭam aśubhena/  
-  
-79.01cd/ yasmād ataḥ parīkṣyaṃ daivaṃ ratnāśritam tajjñaiḥ//  
-  
-79.02ab/ dvipa^haya^vanitā^ādīnāṃ svaguṇaviśeṣeṇa ratnaśabdo +asti/  
-  
-79.02cd/ iha tu^upalaratnānām adhikāro vajrapūrvāṇām//  
-  
-79.03ab/ ratnāni balād daityād dadhīcito +anye vadanti jātāni/  
-  
-79.03cd/ ke cid bhuvaḥ svabhāvād vaicitryaṃ prāhur upalānām//  
-  
-79.04ab/ vajra^indranīla^marakata^karketara^padmarāga^rudhira^ākhyāḥ/  
-  
-79.04cd/ vaidūrya[K.vaiḍūrya]^pulaka^vimalaka^rājamaṇi^sphatika^śaśikāntāḥ//  
-  
-79.05ab/ saugandhika^gomedaka^śaṅkha^mahānīla^puṣparāga^ākhyāḥ/  
-  
-79.05cd/ brahmamaṇi^jyotīrasa^sasyaka^muktā^pravālāni//  
-  
-79.06ab/ veṇā^taṭe viśuddhaṃ śirīṣakusuma*prabhaṃ[K.upamaṃ] ca kauśalakam/  
-  
-79.06cd/ saurāṣṭrakam ātāmraṃ kṛṣṇaṃ saurpārakaṃ vajram//  
-  
-79.07ab/ īṣat^tāmraṃ himavati mataṅgajaṃ vallapuṣpasaṅkāśam/  
-  
-79.07cd/ āpītaṃ ca kaliṅge śyāmaṃ pauṇḍreṣu sambhūtam//  
-  
-79.08ab/ aindraṃ ṣaḍaśri śuklaṃ yāmyaṃ sarpa^āsya^rūpam asitaṃ ca/  
-  
-79.08cd/ kadalī^kāṇḍa^nikāśaṃ vaiṣṇavam iti sarva^saṃsthānam//  
-  
-79.09ab/ vāruṇam abalā^guhya^upamaṃ bhavet karṇikāra^puṣpa^nibham/  
-  
-79.09cd/ śṛṅgāṭaka^saṃsthānaṃ vyāghra^akṣi^nibhaṃ ca hautabhujam//  
-  
-79.10ab/ vāyavyaṃ ca yava^upamam aśoka^kusuma^prabhaṃ samuddiṣṭam/  
-  
-79.10cd/ srotaḥ khaniḥ prakīrṇakam ity ākara^sambhavas trividhaḥ//  
-  
-79.11ab/ raktaṃ pītaṃ ca śubham rājanyānām sitam dvijātīnām/  
-  
-79.11cd/ śairīṣaṃ vaiśyānāṃ śūdrāṇāṃ śasyate +asinibham//  
-  
-79.12ab/ sitasarṣapa^aṣṭakaṃ taṇḍulo bhavet taṇḍulais tu viṃśatyā/  
-  
-79.12cd/ tulitasya dve lakṣe mūlyaṃ dvidvyūnite caitat//  
-  
-79.13ab/ pāda^tryaṃśa^ardha^ūnaṃ tribhāga^pañcāṃśa^ṣoḍaśa^aṃśāś ca/  
-  
-79.13cd/ bhāgaś ca pañcaviṃśaḥ śatikas sāhasrikaś ca^iti//  
-  
-79.14ab/ sarva^dravya^ābhedyaṃ laghv ambhasi tarati raśmivat snighdam/  
-  
-79.14cd/ taḍid^anala^śakracāpa^upamaṃ ca vajraṃ hitāya^uktam//  
-  
-79.15ab/ kākapada^makṣikā^keśa^dhātu^yuktāni śarkarair[K.śarkarā] viddham/  
-  
-79.15cd/ dviguṇāśri dagdha[K.digdha]^kaluṣa^trasta^viśīrṇāni na śubhāni//  
-  
-79.16ab/ yāni ca budbuda^dalita^agra^cipiṭa^vāsīphala^pradīrghāṇi/  
-  
-79.16cd/ sarveṣāṃ caiteṣāṃ mūlyād bhāgo +aṣṭamo hāniḥ//  
-  
-79.17a vajraṃ na kiñ cid api dhārayitavyam eke  
-  
-79.17b putra^arthinībhir abalābhir uśanti tajjñāḥ/  
-  
-79.17c śṛṅgāṭaka^tripuṭa^dhānyakavat sthitaṃ yac  
-  
-79.17d śroṇīnibhaṃ ca śubhadaṃ tanaya^arthinīnām//  
-  
-79.18ab/ svajana^vibhava^jīvita^kṣayaṃ janayati vajram aniṣṭa^lakṣaṇam/  
-  
-79.18cd/ aśani^viṣa^bhaya^arināśanam śubham upabhoga^karaṃ[K.uru^bhogakara] ca bhūbhṛtām//  
-  
-  
-  
-                   80 muktālakṣaṇādhyāyaḥ  
-  
-  
-  
-80.01ab/ dvipa^bhujaga^śukti^śaṅkha^abhra^veṇu^timi^sūkara^prasūtāni/  
-  
-80.01cd/ muktāphalāni teṣāṃ bahusādhu ca śuktijaṃ bhavati//  
-  
-80.02ab/ siṃhalaka^pāralaukika^saurāṣṭrika^tāmraparṇi^pāraśavāḥ/  
-  
-80.02cd/ kaubera^pāṇḍyavāṭaka^haimā ity ākarās tv[K.hy] aṣṭau//  
-  
-80.03ab/ bahusaṃsthānāḥ snigdhāḥ[K.snigdhā] haṃsābhāḥ siṃhalākarāḥ sthūlāḥ/  
-  
-80.03cd/ īṣattāmrāḥ śvetās tamoviyuktāś ca tāmrākhyāḥ//  
-  
-80.04ab/ kṛṣṇāḥ śvetāḥ pītāḥ saśarkarāḥ pāralaukikā viṣamāḥ/  
-  
-80.04cd/ na sthūlā nātyalpā navanīta^nibhāś ca saurāṣṭrāḥ//  
-  
-80.05ab/ jyotiṣmatyaḥ[K.mantaḥ] śubhrā guravo +atimahāguṇāś ca pāraśavāḥ/  
-  
-80.05cd/ laghu jarjaraṃ dadhinibhaṃ *bṛhad dvisaṃsthānam[K.bṛhadvisaṃsthānam] api haimam//  
-  
-80.06ab/ viṣamam kṛṣṇa^śvetaṃ[K.kṛṣṇam śvetam] laghu kauberaṃ pramāṇa^tejovat/  
-  
-80.06cd/ nimbaphala^tripuṭa^dhānyaka^cūrṇāḥ syuḥ pāṇḍyavāṭabhavāḥ//  
-  
-80.07ab/ atasīkusuma^śyāmam vaiṣṇavam aindraṃ śaśāṅka^saṅkāśam/  
-  
-80.07cd/ haritāla^nibhaṃ vāruṇam asitaṃ yamadaivataṃ bhavati//  
-  
-80.08ab/ pariṇata^dāḍima^gulikā^guñjā^tāmraṃ ca vāyudaivatyam/  
-  
-80.08cd/ nirdhūma^anala^kamala^prabhaṃ ca vijñeyam āgneyam//  
-  
-80.09ab/ māṣaka^catuṣṭaya^dhṛtasya^ekasya śatāhatā tripañcāśat/  
-  
-80.09cd/ kārṣāpaṇā nigaditā mūlyaṃ tejoguṇayutasya//  
-  
-80.10ab/ māṣaka^dalahānyāto dvātriṃśa^dviṃśatis trayodaśa ca/  
-  
-80.10cd/ aṣṭau ca śatāni śatatrayaṃ tripañcāśatā sahitam//  
-  
-80.11ab/ pañcatriṃśaṃ śatam iti catvāraḥ kṛṣṇalā navatimūlyāḥ/  
-  
-80.11cd/ sārdhās tisro guñjāḥ saptatimūlyaṃ dhṛtaṃ rūpam//  
-  
-80.12ab/ guñjā^trayasya mūlyaṃ pañcāśad rūpakā guṇayutasya/  
-  
-80.12cd/ rūpaka^pañca^triṃśat^trayasya guñjā^ardhahīnasya//  
-  
-80.13ab/ paladaśabhāgo dharaṇaṃ tad yadi muktās trayodaśa surūpāḥ/  
-  
-80.13cd/ *triśatī[U.triṃśatī] sapañcaviṃśā rūpakasaṅkhyā kṛtaṃ mūlyam//  
-  
-80.14ab/ ṣoḍaśakasya dviśatī viṃśatirūpasya saptatiḥ saśatā/  
-  
-80.14cd/ yatpañcaviṃśatidhṛtaṃ tasya śataṃ triṃśatā sahitam//  
-  
-80.15ab/ triṃśatsaptatimūlyaṃ catvāriṃśacchatārdha^mūlyaṃ[K.mūlyā] ca/  
-  
-80.15cd/ ṣaṣṭiḥ pañconā vā dharaṇam pañca^aṣṭakaṃ mūlyam//  
-  
-80.16ab/ muktāśītyā triṃśacchatasya sā pañcarūpakavihīnā/  
-  
-80.16cd/ dvitricatuḥpañcaśatā dvādaśaṣaṭpañcakatritayam//  
-  
-80.17ab/ pikkā^piccā^arghā^ardhā ravakaḥ sikthaṃ trayodaśa^ādyānām/  
-  
-80.17cd/ saṃjṇāḥ parato nigarāś cūrṇāś ca^aśītipūrvāṇām//  
-  
-80.18ab/ etad^guṇayuktānāṃ dharaṇa^dhṛtānāṃ prakīrtitaṃ[K.prakītitam] mūlyam/  
-  
-80.18cd/ parikalpyam antarāle hīnaguṇāṇāṃ kṣayaḥ kāryaḥ//  
-  
-80.19ab/ kṛṣṇa^śvetaka^pītaka^tāmrāṇām īṣad api ca viṣamāṇām/  
-  
-80.19cd/ tryaṃśonam viṣamaka^pītayoś ca ṣaḍbhāga^dalahīnam//  
-  
-80.20ab/ airāvata^kulajānāṃ puṣya^śravaṇa^indu^sūrya^divaseṣu/  
-  
-80.20cd/ ye cottarāyaṇabhavā grahaṇe +arkendvoś ca bhadrebhāḥ//  
-  
-80.21ab/ teṣāṃ kila jāyante muktāḥ kumbheṣu saradakośeṣu/  
-  
-80.21cd/ bahavo bṛhatpramāṇā bahusaṃsthānāḥ prabhāyuktāḥ//  
-  
-80.22ab/ naiṣām arghaḥ kāryo na ca vedho +atīva te prabhāyuktāḥ/  
-  
-80.22cd/ suta^vijaya^ārogya^karā mahāpavitrā dhṛtā rājñām//  
-  
-80.23ab/ daṃṣṭrāmūle śaśikāntisaprabhaṃ bahuguṇaṃ ca vārāham/  
-  
-80.23cd/ timijaṃ matsya^aākṣi^ibhaṃ bṛhat pavitraṃ bahuguṇaṃ ca//  
-  
-80.24ab/ varṣa^upalavajjātaṃ vāyuskandhāc ca saptamād bhraṣṭam/  
-  
-80.24cd/ hriyate kila khād divyais taḍit^prabhaṃ megha^sambhūtam//  
-  
-80.25ab/ takṣaka^vāsuki^kulajāḥ kāmagamā ye ca pannagās teṣām/  
-  
-80.25cd/ snigdhā nīladyutayo bhavanti muktāḥ phaṇasyānte//  
-  
-80.26ab/ śaste +avanipradeśe rajatamaye bhājane sthite ca yadi/  
-  
-80.26cd/ varṣati devo +akasmāt tajjñeyaṃ nāgasambhūtam//  
-  
-80.27ab/ apaharati viṣamalakṣmīṃ kṣapayati śatrūn yaśo vikāśayati/  
-  
-80.27cd/ bhaujaṅgaṃ nṛpatīnāṃ dhṛtam akṛtārghaṃ vijayadaṃ ca//  
-  
-80.28ab/ karpūra^sphaṭika^nibhaṃ cipiṭaṃ viṣamaṃ ca veṇujaṃ jñeyam/  
-  
-80.28cd/ śaṅkha^udbhavaṃ śaśinibhaṃ vṛttaṃ bhrājiṣṇu ruciraṃ ca//  
-  
-80.29ab/ śaṅkha^timi^veṇu^vāraṇa^varāha^bhujaga^abhrajāny *avaidyāni[K.avaidhyāni ū.avedyāni]/  
-  
-80.29cd/ amitaguṇatvāc ca^eṣām arghaḥ śāstre na nirdiṣṭaḥ//  
-  
-80.30a etāni sarvāṇi mahāguṇāni  
-  
-80.30b sutā^artha^saubhāgya^yaśas^karāṇi/  
-  
-80.30c ruk^śoka^hantṝṇi ca pārthivānāṃ  
-  
-80.30d muktāphalāni^īpsita^kāmadāni//  
-80.31ab/ surabhūṣaṇaṃ latānāṃ sahasram aṣṭottaraṃ caturhastam/  
-  
-80.31cd/ inducchando[K.indracchando] nāmnā vijayacchandas tadardhena//  
-  
-80.32ab/ śatam aṣṭayutaṃ hāro devacchando hy aśītir ekayutā/  
-  
-80.32cd/ aṣṭāṣṭako +ardhahāro raśmikalāpaś ca navaṣaṭkaḥ//  
-  
-80.33ab/ dvātriṃśatā tu guccho viṃśatyā kīrtito +ardhagucchākhyaḥ/  
-  
-80.33cd/ ṣoḍaśabhir māṇavako dvādaśabhiś ca^ardhamāṇavakaḥ//  
-  
-80.34ab/ mandarasaṃjño +aṣṭābhiḥ pañcalatā hāraphalakam ity uktam/  
-  
-80.34cd/ saptāviṃśatimuktā hasto nakṣatramālā^iti//  
-  
-80.35ab/ antaramaṇisaṃyuktā maṇisopānaṃ suvarṇagulikair vā/  
-  
-80.35cd/ taralaka^maṇi^madhyaṃ tadvijñeyaṃ cāṭukāram iti//  
-  
-80.36a ekāvalī nāma yatheṣṭa^saṅkhyā  
-  
-80.36b hastapramāṇā maṇi^viprayuktā/  
-  
-80.36c saṃyojitā yā maṇinā tu madhye  
-  
-80.36d yaṣṭi^iti sā bhūṣaṇavidbhir uktam//  
-  
-  
-  
-                   81 padmarāgalakṣaṇādyāyaḥ  
-  
-  
-  
-81.01ab/ saugandhika^kuruvinda^sphaṭikebhyaḥ padmarāga^sambhūtiḥ[K's tr. padmarāgo sambhūtiḥ]/  
-  
-81.01cd/ saugandhikajā bhramara^añjana^abja^jambū^rasa^dyutayaḥ//  
-  
-81.02ab/ kuruvinda^bhavāḥ śabalā manda^dyutayaś ca dhātubhir viddhāḥ/  
-  
-81.02cd/ sphaṭikabhavā dyutimanto nānāvarṇā viśuddhāś ca//  
-  
-81.03ab/ snigdhaḥ prabhānulepī svaccho +arciṣmān guruḥ susaṃsthānaḥ/  
-  
-81.03cd/ antaḥprabho +atirāgo[K.atirāgā] maṇiratnaguṇāḥ samastānām//  
-  
-81.04ab/ kaluṣā mandadyutayo lekhākīrṇāḥ sadhātavaḥ khaṇḍāḥ/  
-  
-81.04cd/ durviddhā na manojñāḥ saśarkarāś ca^iti maṇidoṣāḥ//  
-  
-81.05ab/ bhramara^śikhi^kaṇṭha^varṇo dīpa^śikhā^saprabho bhujaṅgānām/  
-  
-81.05cd/ bhavati maṇiḥ kika mūrdhani yo +anargheyaḥ sa vijñeyaḥ//  
-  
-81.06a yas taṃ bibharti manujādhipatir na tasya  
-  
-81.06b doṣā bhavanti viṣa^roga^kṛtāḥ kadā cit/  
-  
-81.06c rāṣṭre ca nityam abhivarṣati tasya devaḥ  
-  
-81.06d śatrūṃś ca nāśayati tasya maṇeḥ prabhāvāt//  
-  
-81.07ab/ ṣaḍviṃśatiḥ sahasrāṇy ekasya maṇeḥ pala^pramāṇasya/  
-  
-81.07cd/ karṣa^trayasya viṃśatir upadiṣṭā padmarāgasya//  
-  
-81.08ab/ ardhapalasya dvādaśa karṣasya ekasya ṣaṭsahasrāṇi/  
-  
-81.08cd/ yac ca^aṣṭa^māṣaka^dhṛtaṃ tasya sahasratrayaṃ mūlyam//  
-  
-81.09ab/ māṣaka^catuṣṭayaṃ daśa^śata^krayaṃ dvau tu pañcaśatamūlyau/  
-  
-81.09cd/ parikalpyam antarāle mūlyaṃ hīna^adhika^guṇānām//  
-  
-81.10ab/ varṇany ūnasya^ardhaṃ tejohīnasya mūlyam aṣṭāṃśam/  
-  
-81.10cd/ alpaguṇo bahudoṣo mūlyāt prāpnoti viṃśāṃśam//  
-  
-81.11ab/ ādhūmraṃ vraṇabahulaṃ svalpaguṇaṃ cāpnuyād dviśatabhāgam/  
-  
-81.11cd/ iti padmarāga^mūlyaṃ pūrvācāryaiḥ samuddiṣṭam//  
-  
-  
-  
-                   82 marakatalakṣaṇādhyāyaḥ/  
-  
-  
-  
-82.01ab/ śuka^vaṃśapatra^kadalī^śirīṣakusumaprabhaṃ guṇopetam/  
-  
-82.01cd/ sura^pitṛ^kārye marakatam[K.rakatam] atīva śubhadaṃ nṛṇāṃ vihitam[K.vidhṛtam]//  
-  
-  
-  
-                   83 dīpalakṣaṇādhyāyaḥ  
-  
-  
-  
-83.01a vāmāvarto malinakiraṇaḥ sasphuliṅgo +alpamūrtiḥ  
-  
-83.01b kṣipraṃ nāśaṃ vrajati vimala^sneha^varty^anvito +api/  
-  
-83.01c dīpaḥ pāpaṃ kathayati phalaṃ śabdavān vepanaś ca  
-  
-83.01d vyākīrṇa^arcir viśalabha^marudyaś ca nāśaṃ prayāti//  
-  
-83.02a dīpaḥ saṃhata^mūrtir āyata^tanur nirvepano dīptimān  
-  
-83.02b niḥśabdo ruciraḥ pradakṣiṇagatir vaidūrya[K.vaiḍūrya]hemadyutiḥ/  
-  
-83.02c lakṣmīṃ kṣipram abhivyanakti suciraṃ[K.ruciraṃ, K's tr. suciram] yaś ca^udyataṃ dīpyate  
-  
-83.02d śeṣaṃ lakṣaṇam agnilakṣaṇasamaṃ yojyaṃ yathāyuktitaḥ//  
-  
-  
-  
-                   84 dantakāṣṭhalakṣaṇādhyāyaḥ  
-  
-  
-  
-84.01a vallī^latā^gulma^taru^prabhedaiḥ  
-  
-84.01b syur dantakāṣṭhāni sahasraśo yaiḥ/  
-  
-84.01c phalāni vācyāny atha[K.ati] tatprasaṅgo  
-  
-84.01d mā bhūd ato vacmy atha kāmikāni//  
-  
-84.02a ajñātapūrvāṇi na dantakāṣṭhāny  
-  
-84.02b adyān na patraiś ca samanvitāni/  
-  
-84.02c na yugmaparvāṇi na pāṭitāni  
-  
-84.02d na ca^ūrdhvaśuṣkāṇi vinā tvacā ca//  
-  
-84.03a vaikaṅkata^śrīphala^kāśmarīṣu  
-  
-84.03b brāhmī dyutiḥ kṣematarau sudārāḥ/  
-  
-84.03c vṛddhir vaṭe +arke pracuraṃ ca tejaḥ  
-  
-84.03d putrā madhūke saguṇāḥ[K.kakubhe] priyatvam//  
-  
-84.04a lakṣmīḥ śirīṣe ca tathā karañje  
-  
-84.04b plakṣe +artha^siddhiḥ samabhīpsitā syāt/  
-  
-84.04c mānyatvam āyāti janasya jātyāṃ  
-  
-84.04d prādhānyam aśvattha^tarau vadanti//  
-  
-84.05a ārogyam āyur badarī^bṛhatyor  
-  
-84.05b aiśvarya^vṛddhiḥ khadire sabilve/  
-  
-84.05c dravyāṇi ca^iṣṭāny atimuktake syuḥ  
-  
-84.05d prāpnoti tāny eva punaḥ kadambe//  
-  
-84.06a nīpe[K.nimbe] +arthāptiḥ karavīre +annalabdhir  
-  
-84.06b bhāṇḍīre syād *annam evaṃ[K.idam eva] prabhūtam/  
-  
-84.06c śamyāṃ śatrūn apahanty arjune ca  
-  
-84.06d śyāmāyāṃ ca dviṣatām eva nāśaḥ//  
-  
-84.07a śāle +aśvakarṇe ca vadanti gauravaṃ  
-  
-84.07b sabhadradārāv api cāṭarūṣake/  
-  
-84.07c vāllabhyam āyāti janasya sarvataḥ  
-  
-84.07d priyaṅgu^apāmārga^sajambu^dāḍimaiḥ//  
-  
-84.08a udaṅmukhaḥ prāṅmukha eva vā^abdaṃ  
-  
-84.08b kāmaṃ yatheṣṭhaṃ[U.yatheṣṭaṃ] hṛdaye niveśya/  
-  
-84.08c adyād anindan[K.anindyaṃ] ca sukha^upaviṣṭaḥ  
-  
-84.08d prakṣālya jahyāc ca śucipradeśe//  
-  
-84.09a abhimukha^patitaṃ praśānta^dik^sthaṃ  
-  
-84.09b śubham atiśobhanam ūrdhvasaṃsthitaṃ yat/  
-84.09c aśubhakaram ato +anyathā pradiṣṭaṃ  
-  
-84.09d sthita^patitaṃ ca karoti mṛṣṭam annam//  
-  
-  
-  
-                   85 śākunādhyāyaḥ  
-  
-  
-  
-85.01ab/ yat^śakra^śukra[K.śukraśakra]^vāgīśa^kapiṣṭhala^garutmatām/  
-  
-85.01cd/ matebhyaḥ prāha ṛṣabho bhāgurer devalasya ca//  
-  
-85.02ab/ bhāradvāja^mataṃ dṛṣṭvā yac ca śrīdravyavardhanaḥ/  
-  
-85.02cd/ āvantikaḥ prāha nṛpo mahārāja^adhirājakaḥ//  
-  
-85.03ab/ saptarṣīṇāṃ mataṃ yac ca saṃskṛtaṃ prākṛtaṃ ca yat/  
-  
-85.03cd/ yāni ca^uktāni garga^ādyair yātrākāraiś ca bhūribhiḥ//  
-  
-85.04ab/ tāni dṛṣṭvā cakāra^imaṃ sarvaśākunasaṃgraham/  
-  
-85.04cd/ varāhamihiraḥ prītyā śiṣyāṇāṃ jñānam uttamam//  
-  
-85.05ab/ anya^janma^antarakṛtaṃ karma puṃsāṃ śubha^aśubham/  
-  
-85.05cd/ yat tasya śakunaḥ pākaṃ nivedayati gacchatām//  
-  
-85.06ab/ grāma^āraṇya^ambu^bhū^vyoma^dyu^niśa^ubhaya^cāriṇaḥ/  
-  
-85.06cd/ ruta^yāta^īkṣita^ukteṣu grāhyāḥ puṃ^strī^napuṃsakāḥ[K.strīpunnapuṃsakāḥ]//  
-  
-85.07ab/ pṛthag jāty^anavasthānād eṣāṃ vyaktir na lakṣyate/  
-  
-85.07cd/ sāmānya^lakṣaṇa^uddeśe ślokāv ṛṣikṛtāv imau//  
-  
-85.08ab/ pīna^unnata^vikṛṣṭa^aṃsāḥ pṛthugrīvāḥ suvakṣasaḥ/  
-  
-85.08cd/ svalpa^gambhīra^virutāḥ puṃāṃsaḥ sthira^vikramāḥ//  
-  
-85.09ab/ tanu^uraska^śiro^grīvāḥ sūkṣma^āsya^pada^vikramāḥ/  
-  
-85.09cd/ prasakta^mṛdu^bhāṣiṇyaḥ striyo +ato +anyan napuṃsakam//  
-  
-85.10ab/ grāma^araṇya^pracāra^ādyaṃ lokād eva^upalakṣayet/  
-  
-85.10cd/ saṃcikṣipsur ahaṃ vacmi yātrā^mātra^prayojanam//  
-  
-85.11ab/ pathy^ātmānaṃ nṛpaṃ sainye pure ca^uddiśya devatām/  
-  
-85.11cd/ sārthe pradhānaṃ sāmye[K.sāmyaṃ] syāj jāti^vidyā^vayo +adhikam//  
-  
-85.12ab/ mukta^prāpta^eṣyad^arkāsu phalaṃ dikṣu tathāvidham/  
-  
-85.12cd/ aṅgāra[K.aṅgāri]^dīpta^dhūminyas tāś ca śāntās tato +aparāḥ[K.+aparā, K's tr. aparāḥ]//  
-  
-85.13ab/ tat^pañcama^diśāṃ tulyaṃ śubhaṃ traikālyam ādiśet/  
-  
-85.13cd/ pariśeṣadiśor[K.pariśeṣayor] vācyaṃ yathāsannaṃ śubha^aśubham//  
-  
-85.14ab/ śīghram āsanna^nimnasthaiś cirād unnata^dūragaiḥ/  
-  
-85.14cd/ sthāna^vṛddhy^upaghātāc ca tadvad brūyāt phalaṃ punaḥ//  
-  
-85.15ab/ kṣaṇa^tithy^uḍu^vāta^arkair devadīpto yathottaram/  
-  
-85.15cd/ kriyādīpto gati^sthāna^bhāva^svara^viceṣṭitaiḥ//  
-  
-85.16ab/ daśadhā^evaṃ praśānto +api saumyas tṛṇa^phala^aśanaḥ/  
-  
-85.16cd/ māṃsa^amedhya^aśane raudro vimiśro +anna^aśanaḥ smṛtaḥ//  
-  
-85.17ab/ harmya^prāsāda^maṅgalya^manojña^sthāna^saṃsthitāḥ/  
-  
-85.17cd/ śreṣṭhā madhura^sakṣīra^phala^puṣpa^drumeṣu ca//  
-  
-85.18ab/ svakāle giri^toya^sthā balino dyuniśācarāḥ/  
-  
-85.18cd/ klība^strī^*puruṣā jñeyā[K.puruśāś ca eṣāṃ] balinaḥ syur yathottaram//  
-  
-85.19ab/ java^jāti^bala^sthāna^harṣa^sattva^svara^anvitāḥ/  
-  
-85.19cd/ svabhūmāv anulomāś ca tad^ūnāḥ syur vivarjitāḥ//  
-  
-85.20ab/ kukkuṭa^ibha^pirilyaś ca śikhi^vañjula^chikkarāḥ/  
-  
-85.20cd/ balinaḥ siṃhanādaś ca kūṭapūrī ca pūrvataḥ//  
-  
-85.21ab/ kroṣṭuka^ulūka^hārīta^kāka^koka^ṛkṣa^piṅgalāḥ/  
-  
-85.21cd/ kapota^rudita^ākranda^krūra^śabdāś ca yāmyataḥ//  
-  
-85.22ab/ go^śaśa^krauñca^lomāśa^haṃsa^utkrośa^kapiñjalāḥ/  
-  
-85.22cd/ viḍāla^utsava^vāditra^gīta^hāsāś ca vāruṇāḥ//  
-  
-85.23ab/ śatapatra^kuraṅga^ākhu^mṛga^ekaśapha^kokilāḥ/  
-  
-85.23cd/ cāṣa^śalyaka^puṇyāha^ghaṇṭā^śaṅkha^ravā udak//  
-  
-85.24ab/ na grāmyo +araṇyago grāhyo na^āraṇyo grāmya^saṃsthitaḥ[K.grāmasaṃsthitaḥ]/  
-  
-85.24cd/ divācaro na śarvaryāṃ na ca naktaṃcaro divā//  
-  
-85.25ab/ dvandva^rogārdita^trastāḥ kalaha^āmiṣa^kāṅkṣiṇaḥ  
-  
-85.25cd/ āpaga^antaritā mattā na grāhyāḥ śakunāḥ kva cit//  
-  
-85.26ab/ rohita^aśva^aja^*vāleyāḥ kuraṅga[K.vāleyakuraṅga]^uṣṭra^mṛgāḥ śaśaḥ/  
-  
-85.26cd/ niṣphalāḥ śiśire jñeyā vasante kāka^kokilau//  
-  
-85.27ab/ na tu bhādrapade grāhyāḥ sūkara^śva^vṛka^ādayaḥ/  
-  
-85.27cd/ śāradya[K.śaradya]^abja^ada^go^krauñcāḥ śrāvaṇe hasti^cātakau//  
-  
-85.28ab/ vyāghra^ṛkṣa^vānara^dvīpi^mahiṣāḥ sabileśayāḥ/  
-  
-85.28cd/ hemante niṣphalā jñeyā bālāḥ sarve vimānuṣāḥ//  
-  
-85.29ab/ aindra^anala^diśor madhye tribhāgeṣu vyavasthitāḥ/  
-  
-85.29cd/ kośādhyakṣa^analājīvi^tapoyuktāḥ pradakṣiṇam//  
-  
-85.30ab/ śilpī bhikṣur vivastrā strī yāmya^anala^dig^antare/  
-  
-85.30cd/ parataś ca^api mātaṅga^gopa^dharmasamāśrayāḥ//  
-  
-85.31ab/ nairṛtī^vāruṇī^madhye pramadā^sūti^taskarāḥ/  
-  
-85.31cd/ śauṇḍikaḥ śākunī hiṃsro vāyavyā[K.vāyavya]^paścima^antare//  
-  
-85.32ab/ viṣaghātaka^gosvāmi^kuhakajñās tataḥ param/  
-  
-85.32cd/ dhanavān īkṣaṇīkaś ca mālākāraḥ paraṃ tataḥ//  
-  
-85.33ab/ vaiṣṇavaś carakaś ca^eva vājināṃ rakṣaṇe rataḥ/  
-  
-85.33cd/ *dvātriṃśad evaṃ[K.evaṃ dvātriṃśato] bhedāḥ syuḥ pūrvadigbhiḥ saha^uditāḥ//  
-  
-85.34ab/ rājā kumāro netā ca dūtaḥ śreṣṭhī caro dvijaḥ/  
-  
-85.34cd/ rājādhyakṣaś[K.ū.gajādhyakṣaś] ca pūrvādyāḥ kṣatriya^ādyāś caturdiśam//  
-  
-85.35ab/ gacchatas tiṣṭhato vā^api diśi yasyāṃ vyavasthitaḥ/  
-  
-85.35cd/ virauti śakuno vācyas taddigjena samāgamaḥ//  
-  
-85.36ab/ bhinna^bhairava^dīna^ārta^paruṣa^kṣāma^jarjarāḥ/  
-  
-85.36cd/ svanā[K.svarā] na^iṣṭāḥ śubhāḥ śānta[K.śāntā]^hṛṣṭa^prakṛti^pūritāḥ//  
-  
-85.37ab/ śivā śyāmā ralā chucchuḥ piṅgalā gṛhagodhikā/  
-  
-85.37cd/ sūkarī parapuṣṭā ca punnāmānaś ca vāmataḥ//  
-  
-85.38ab/ strīsaṃjñā bhāsa^bhaṣaka^kapi^śrīkarṇa^*dhikkarāḥ[K.chikkarāḥ]/  
-  
-85.38cd/ śikhi^śrīkaṇṭha^pippīka^ruru^śyenāś ca dakṣiṇāḥ//  
-  
-85.39ab/ kṣveḍa^āsphoṭita^puṇyāha^gīta^śaṅkha^ambu^niḥsvanāḥ/  
-  
-85.39cd/ satūrya^adhyayanāḥ puṃvat strīvad anyā giraḥ śubhāḥ//  
-  
-85.40ab/ grāmau madhyama^ṣaḍjau tu gāndhāraś ca^iti śobhanāḥ/  
-  
-85.40cd/ ṣaḍja[K.ṣaḍjā]^madhyama^gāndhārā ṛṣabhaś ca svarā hitāḥ//  
-  
-85.41ab/ ruta^kīrtana^dṛṣṭeṣu bhāradvāja^aja^barhiṇaḥ/  
-  
-85.41cd/ dhanyā nakula^cāṣau ca saraṭaḥ pāpado +agrataḥ//  
-  
-85.42ab/ jāhaka^ahi^śaśa^kroḍa^godhānāṃ kīrtanaṃ śubham/  
-  
-85.42cd/ *rutaṃ sandarśanaṃ[K.ratasandarśanaṃ] na^iṣṭaṃ pratīpaṃ vānara^ṛkṣayoḥ//  
-  
-85.43ab/ ojāḥ pradakṣiṇaṃ śastā mṛgāḥ sanakula^aṇḍajāḥ/  
-85.43cd/ cāṣaḥ sanakulo vāmo bhṛgur āha^aparāhṇataḥ//  
-  
-85.44ab/ chikkaraḥ kūṭapūrī ca pirilī cāhni dakṣiṇāḥ/  
-  
-85.44cd/ apasavyāḥ sadā śastā daṃṣṭriṇaḥ sabileśayāḥ//  
-  
-85.45ab/ śreṣṭhe hayasite prācyāṃ śavamāṃse ca dakṣiṇe/  
-  
-85.45cd/ kanyakā^dadhinī paścād udag go^vipra^sādhavaḥ//  
-  
-85.46ab/ jāla^śva^caraṇau na^iṣṭau prāg yāmyau śastra^ghātakau/  
-  
-85.46cd/ paścād āsava^ṣaṇḍhau ca khala^āsana^halāny udak//  
-  
-85.47ab/ karma^saṅgama^yuddheṣu praveśe naṣṭa^mārgaṇe/  
-  
-85.47cd/ yāna^vyastagatā grāhyā viśeṣaś ca^atra vakṣyate//  
-  
-85.48ab/ divā prasthānavad grāhyāḥ kuraṅga^ruru^vānarāḥ/  
-  
-85.48cd/ ahnaś ca prathame bhāge cāṣa^vañjula^kukkuṭāḥ//  
-  
-85.49ab/ paścime śarvarī^bhāge naptṛka^ulūka^piṅgalāḥ/  
-  
-85.49cd/ sarva eva viparyastā grāhyāḥ sārtheṣu yoṣitām//  
-  
-85.50ab/ nṛpa^sandarśane grāhyaḥ praveśe +api prayāṇavat/  
-  
-85.50cd/ giry^araṇya^*praveśeṣu[K.praveśe ca] nadīnāṃ ca^avagāhane//  
-  
-85.51ab/ vāma^dakṣiṇagau śastau yau tu tāv agra^pṛṣṭhagau/  
-  
-85.51cd/ kriyādīptau vināśāya yātuḥ parigha^saṃjñitau//  
-  
-85.52ab/ tāv eva tu yathābhāgaṃ praśānta^ruta^ceṣṭitau/  
-  
-85.52cd/ śakunau śakuna^dvāra^saṃjñitāv artha^siddhaye//  
-  
-85.53ab/ ke cit tu śakuna^dvāram icchanty ubhayataḥ sthitaiḥ/  
-  
-85.53cd/ śakunair ekajātīyaiḥ śānta^ceṣṭā^virāvibhiḥ//  
-  
-85.54ab/ visarjayati yady eka ekaś ca pratiṣedhati/  
-  
-85.54cd/ sa virodho +aśubho yātur grāhyo yo[K.ū.vā] balavattaraḥ//  
-  
-85.55ab/ pūrvaṃ prāveśiko[K.prāveśeko] bhūtvā punaḥ prāsthāniko bhavet/  
-  
-85.55cd/ sukhena siddhim ācaṣṭe praveśe tad^viparyayāt[K.tadviparyayaḥ]//  
-  
-85.56ab/ visarjya śakunaḥ pūrvaṃ sa eva niruṇaddhi cet/  
-  
-85.56cd/ prāha yātur arer mṛtyuṃ ḍamaraṃ rogam eva vā//  
-85.57ab/ apasavyās tu śakunā dīptā bhaya^nivedinaḥ/  
-  
-85.57cd/ ārambhe śakuno dīpto varṣāntas tadbhayaṅkaraḥ//  
-  
-85.58ab/ tithi^vāyv^arka^bha^sthāna^ceṣṭā^dīptā yathākramam/  
-  
-85.58cd/ dhana^sainya^bala^aṅga^iṣṭa^karmaṇāṃ syur bhayaṅkarāḥ//  
-  
-85.59ab/ jīmūtadhvanidīpteṣu bhayaṃ bhavati mārutāt/  
-  
-85.59cd/ ubhayoḥ sandhyayor dīptāḥ śastra^udbhava^bhayaṅkarāḥ//  
-  
-85.60ab/ citi^keśa^kapāleṣu mṛtyu^bandha^vadha^pradāḥ/  
-  
-85.60cd/ kaṇṭakī^kāṣṭha^bhasmasthāḥ kalaha^āyāsa^duḥkhadāḥ//  
-  
-85.61ab/ aprasiddhiṃ bhayaṃ vā^api niḥsāra^aśma^vyavasthitāḥ/  
-  
-85.61cd/ kurvanti śakunā dīptāḥ śāntā yāpya^phalās tu te//  
-  
-85.62ab/ asiddhisiddhidau jñeyau nirhāra^āhāra[K.nirhādāhāra]kāriṇau/  
-  
-85.62cd/ sthānād ruvan vrajed yātrāṃ śaṃsate tv anyathāgamam//  
-  
-85.63ab/ kalahaḥ svaradīpteṣu sthānadīpteṣu vigrahaḥ/  
-  
-85.63cd/ uccam ādau svaraṃ kṛtvā nīcaṃ paścāc ca doṣakṛt[K.moṣakṛt]//  
-  
-85.64ab/ eka^sthāne ruvan dīptaḥ saptāhād grāma^ghātakaḥ[K.grāmaghātakṛt]/  
-  
-85.64cd/ pura^deśa^narendrāṇām ṛtv^ardhāyana^vatsarāt  
-  
-85.65ab/ sarve durbhikṣa^kartāraḥ svajātipiśita^aśinaḥ[K.aśanāḥ]//  
-  
-85.65cd/ sarpa^mūṣaka^mārjāra^*pṛthuloma[K.pṛthuroma]^vivarjitāḥ//  
-  
-85.66ab/ parayoniṣu gacchanto maithunaṃ deśanāśanāḥ/  
-  
-85.66cd/ anyatra vesara^utpatter nṛṇāṃ ca^ajāti^maithunāt//  
-  
-85.67ab/ bandha^ghāta^bhayāni syuḥ pāda^ūrū^mastaka^antigaiḥ/  
-  
-85.67cd/ śaṣpa^apaḥ[K.apaśaṣpa]^piśita^anna^adair *doṣa^varṣa^kṣaya[K.varṣamoṣakṣata ū.doṣavarṣakṣata]^grahāḥ//  
-  
-85.68ab/ krūra^ugra^doṣa^duṣṭaiś ca pradhāna^nṛpa^vṛttakaiḥ/  
-  
-85.68cd/ cirakālena[K.cirakālaiś ca] dīptādyāsv āgamo dikṣu tannṛṇām//  
-  
-85.69ab/ sadravyo balavāṃś ca syāt sadravyasya^āgamo bhavet/  
-  
-85.69cd/ dyutimān vinataprekṣī saumyo dāruṇavṛttakṛt//  
-  
-85.70ab/ vidiksthaḥ śakuno dīpto vāmasthena^anuvāśitaḥ/  
-  
-85.70cd/ striyāḥ saṃgrahaṇaṃ prāha taddigākhyātayonitaḥ//  
-  
-85.71ab/ śāntaḥ pañcamadīptena viruto vijayāvahaḥ/  
-  
-85.71cd/ dig^nara^āgama^kārī vā doṣakṛt tad^viparyaye//  
-  
-85.72ab/ vāmasavya^gato[K.ruto] madhyaḥ prāha svaparayor bhayam/  
-  
-85.72cd/ maraṇaṃ kathayanti ete sarve samavirāviṇaḥ//  
-  
-85.73ab/ vṛkṣa^agra^madhya^mūleṣu gaja^aśva^rathika^āgamaḥ/  
-  
-85.73cd/ dīrgha^abja^muṣitāgreṣu nara^nau^śibikā^āgamaḥ//  
-  
-85.74ab/ śakaṭena^unnatasthe vā[K.ca] chāyāsthe chatra^saṃyute[K.chatrasamyutaḥ]/  
-  
-85.74cd/ eka^tri^pañca^saptāhāt pūrva^ādyāsv antarāsu ca//  
-  
-85.75ab/ surapati^hutavaha^yama^nirṛti^varuṇa^pavana^indu^saṅkarāḥ *kramaśaḥ[K.omitted]/  
-  
-85.75cd/ prācyādyānāṃ patayo diśaḥ pumāṃso +aṅganā vidiśaḥ//  
-  
-85.76ab/ taru^tālī^vidala^ambara^salilaja^śara^carma^paṭṭa^lekhāḥ syuḥ/  
-  
-85.76cd/ dvātriṃśat^pravibhakte dikcakre teṣu kāryāṇi//  
-  
-85.77ab/ vyāyāma^śikhi^nikūjita^kalaha^ambho^nigaḍa^mantra^go^śabdāḥ/  
-  
-85.77cd/ varṇās tu[K.ca] rakta^pītaka^kṛṣṇa^sitāḥ koṇagā miśrāḥ//  
-  
-85.78a cihnaṃ dhvajo dagdham atha śmaśānaṃ  
-  
-85.78b darī jalaṃ parvata^yajña^ghoṣāḥ/  
-  
-85.78c eteṣu saṃyoga^bhayāni vindyād  
-  
-85.78d anyāni vā sthāna^vikalpitāni//  
-  
-85.79a strīṇāṃ vikalpā bṛhatī kumārī  
-  
-85.79b vyaṅgā vigandhā tv atha nīlavastrā/  
-  
-85.79c kustrī pradīrghā vidhavā ca tāś ca  
-  
-85.79d saṃyoga^cintā parivedikāḥ syuḥ//  
-  
-85.80a pṛcchāsu rūpya^kanaka^ātura^bhāminīnāṃ  
-  
-85.80b meṣāvya^yāna^makha^gokula^saṃśrayāsu/  
-  
-85.80c nyagrodha^raktataru^rodhraka^kīcakākhyāś  
-  
-85.80d cūtadrumāḥ khadira^bilva^nagārjunāś ca//  
-  
-  
-  
-                   86 śākune'+antaracakrādhyāyaḥ  
-  
-  
-  
-86.01ab/ aindryāṃ diśi śāntāyāṃ viruvan nṛpa^saṃśrita^āgamaṃ vakti/  
-  
-86.01cd/ [K.śakuniḥ] pūjā^lābhaṃ maṇi^ratna^dravya^samprāptim//  
-  
-86.02ab/ tad^anantara^diśi kanaka^āgamo bhaved vāñchita^artha^siddhiś ca/  
-  
-86.02cd/ āyudha^dhana^pūgaphala^āgamas tṛtīye bhaved bhāge//  
-  
-86.03ab/ snigdha^dvijasya sandarśanaṃ caturthe tathā^āhitāgneś ca/  
-  
-86.03cd/ koṇe +anujīvi^bhikṣu^pradarśanaṃ kanaka^loha^āptiḥ//  
-  
-86.04ab/ yāmyena^ādye nṛpa^putra^darśanaṃ siddhir abhimatasya^āptiḥ/  
-  
-86.04cd/ parataḥ strī^dharma^āptiḥ sarṣapa^yava^labdhir apy uktā//  
-  
-86.05ab/ koṇāc caturtha^khaṇḍe labdhir dravyasya pūrva^naṣṭasya/  
-  
-86.05cd/ yad vā tad vā phalam api yātrāyāṃ prāpnuyād yātā//  
-  
-86.06ab/ yātrā^siddhiḥ samadakṣiṇena śikhi^mahiṣa^kukkuṭa^āptiś ca/  
-  
-86.06cd/ yāmyād dvitīyabhāge cāraṇa^saṅgaḥ śubhaṃ prītiḥ//  
-  
-86.07ab/ ūrdhvaṃ siddhiḥ kaivarta^saṅgamo mīna^tittira^ādy^āptiḥ/  
-  
-86.07cd/ pravrajita^darśanaṃ tatpare ca pakvānna^phala^labdhiḥ//  
-  
-86.08ab/ nairṛtyāṃ strīlābhas turaga^alaṅkāra^dūta^lekha^āptiḥ/  
-  
-86.08cd/ parato +asya carma^tatśilpi^darśanaṃ carmamaya^labdhiḥ//  
-  
-86.09ab/ vānara^bhikṣu^śravaṇa^avalokanaṃ nairṛtāt tṛtīya^aṃśe/  
-  
-86.09cd/ phala^kusuma^danta^ghaṭita^āgamaś ca koṇāc caturtha^aṃśe//  
-  
-86.10ab/ vāruṇyām arṇavajāta^ratna^vaidūrya[K.vaiḍūrya]^maṇimaya^prāptiḥ/  
-  
-86.10cd/ parato +ataḥ śabara^vyādha^caura^saṅgaḥ piśita^labdhiḥ//  
-  
-86.11ab/ parato +api darśanaṃ vātarogiṇāṃ candana^aguru^prāptiḥ/  
-  
-86.11cd/ āyudha^pustaka^labdhis tadvṛttisamāgamaś ca^ūrdhvam//  
-  
-86.12ab/ vāyavye phenaka^cāmara^aurṇika^āptiḥ sameti kāyasthaḥ/  
-  
-86.12cd/ mṛnmaya^lābho +anyasmin vaitālika^ḍiṇḍi^bhāṇḍānām//  
-  
-86.13ab/ vāyavyāc ca tṛtīye mitreṇa samāgamo dhanaprāptiḥ/  
-  
-86.13cd/ vastra^aśva^āptir ataḥ param iṣṭa^suhṛt^samprayogaś ca//  
-  
-86.14ab/ dadhi^taṇḍula^lājānāṃ labdhir udag darśanaṃ ca viprasya/  
-  
-86.14cd/ artha^avāptir anantaram upagacchati sārtha^vāhaś ca//  
-  
-86.15ab/ veśyā^vaṭu^dāsa^samāgamaḥ pare śukla[K.śuṣka]^puṣpa^phala^labdhiḥ/  
-  
-86.15cd/ *ata ūrdhvaṃ[K.ataḥ paraṃ] citrakarasya darśanaṃ citra^vastra^āptiḥ[K.vastrasamprāptiḥ]//  
-  
-86.16ab/ aiśānyāṃ devalaka^upasaṅgamo dhānya^ratna^paśu^labdhiḥ/  
-  
-86.16cd/ prāk prathame vastrāptiḥ samāgamaś ca^api bandhakyā//  
-  
-86.17ab/ rajakena samāyogo jalaja^dravya^āgamaś ca parato +ataḥ/  
-  
-86.17cd/ hasty^upajīvi^samājaś ca^asmād dhana^hasti^labdhiś ca//  
-  
-86.18ab/ dvātriṃśat^pravibhaktaṃ dikcakraṃ *vāstuvat sanemy uktam[K.vāstubandhane  apy uktam]/  
-  
-86.18cd/ ara^nābhi^sthair antaḥ phalāni navadhā vikalpyāni//  
-  
-86.19ab/ nābhisthe bandhu^suhṛt^samāgamas tuṣṭir uttamā bhavati/  
-  
-86.19cd/ prāg rakta^paṭṭa^vastra^āgamas tv are nṛpati^saṃyogaḥ//  
-  
-86.20ab/ āgneye kaulika^takṣa^pārikarma^aśva^sūta^saṃyogaḥ/  
-  
-86.20cd/ labdhiś ca tatkṛtānāṃ dravyāṇām aśva^labdhir vā//  
-  
-86.21ab/ nemī^bhāgaṃ buddhvā nābhī^bhāgaṃ ca dakṣiṇe yo +araḥ/  
-  
-86.21cd/ dhārmika^jana^saṃyogas tatra bhaved dharma^lābhaś ca//  
-  
-86.22ab/ usrā^krīḍaka^kāpālika^āgamo nairṛte samuddiṣṭaḥ/  
-  
-86.22cd/ vṛṣabhasya ca^atra labdhir māṣa^kulattha^ādyam aśanam ca//  
-  
-86.23ab/ aparasyāṃ diśi yo +aras tatra^āsaktiḥ kṛṣīvalair bhavati/  
-  
-86.23cd/ sāmudradravya^susāra^kāca^phala^madya^labdhiś ca//  
-  
-86.24ab/ bhāravaha^takṣa^bhikṣuka^sandarśanam api ca vāyu^dik^saṃsthe/  
-  
-86.24cd/ tilaka^kusumasya labdhiḥ sanāga^punnāga^kusumasya//  
-  
-86.25ab/ kauberyāṃ diśi *yo +aras tatrastho[K.śakunaḥ śāntāyāṃ] vitta^lābham ākhyāti/  
-  
-86.25cd/ bhāgavatena samāgamanam[K.ū.samāgamam] ācaṣṭe pīta^vastraiś ca//  
-  
-86.26ab/ aiśāne vratayuktā vanitā sandarśanaṃ samupayāti/  
-  
-86.26cd/ labdhiś ca parijñeyā kṛṣṇāyaḥ^śastra[K.kṛṣṇāyovastra]^ghaṇṭānām//  
-  
-86.27ab/ yāmye +aṣṭāṃśe paścād dvi^ṣaṭ^tri^sapta^aṣṭameṣu madhya^phalā/  
-  
-86.27cd/ saumyena ca dvitīye śeṣeṣv atiśobhanā yātrā//  
-  
-86.28ab/ abhyantare tu nābhyāṃ śubhaphaladā bhavati ṣaṭsu ca^areṣu/  
-  
-86.28cd/ vāyavyā^nairṛtayor arayoḥ[K.?ubhayyoḥ] kleśāvahā yātrā//  
-  
-86.29ab/ śāntāsu dikṣu phalam idam uktaṃ dīptāsv ato +abhidhāsyāmi/  
-  
-86.29cd/ aindryāṃ bhayaṃ narendrāt samāgamaś ca^eva śātrūṇām//  
-  
-86.30ab/ tad^anantara^diśi nāśaḥ kanakasya bhayaṃ suvarṇakārāṇām/  
-  
-86.30cd/ artha^kṣayas tṛtīye kalahaḥ śastra^prakopaś ca//  
-  
-86.31ab/ agnibhayaṃ ca caturthe bhayam āgneye ca bhavati caurebhyaḥ/  
-  
-86.31cd/ koṇād api dvitīye dhana^kṣayo nṛpa^suta^vināśaḥ//  
-  
-86.32ab/ pramadā^garbha^vināśas tṛtīya^bhāge bhavec caturthe ca/  
-  
-86.32cd/ hairaṇyaka^kārukayoḥ pradhvaṃsaḥ śastra^kopaś ca//  
-  
-86.33ab/ atha pañcame nṛpa^bhayaṃ mārī^mṛta^darśanaṃ ca vaktavyam/  
-  
-86.33cd/ ṣaṣṭhe tu bhayaṃ jñeyaṃ gandharvāṇāṃ saḍombānām//  
-  
-86.34ab/ dhīvara^śākunikānāṃ saptama^bhāgād[K.bhāge] bhayaṃ bhavati dīpte/  
-  
-86.34cd/ bhojana^vighāta ukto nirgrantha^bhayaṃ ca tatparataḥ//  
-  
-86.35ab/ kalaho nairṛta^bhāge raktasrāvo +atha śastra^kopaś ca/  
-  
-86.35cd/ aparādye carmakṛtaṃ vinaśyate carmakāra^bhayam//  
-  
-86.36ab/ tadanantaraṃ[K.tadanantare] parivrāṭ^śravaṇa^bhayaṃ tatpare tv anaśanabhayam/  
-  
-86.36cd/ vṛṣṭibhayaṃ vāruṇye śva^taskarāṇāṃ bhayaṃ parataḥ//  
-  
-86.37ab/ vāyu^grasta^vināśaḥ pare pare śastra^pusta^*vārtānām[K.vārttānām]/  
-  
-86.37cd/ koṇe pustakanāśaḥ pare viṣa^stena^vāyu^bhayam//  
-  
-86.38ab/ parato vitta^vināśo mitraiḥ saha vigrahaś ca vijñeyaḥ/  
-  
-86.38cd/ tasya^āsanne +aśvavadho bhayam api ca purodhasaḥ proktam//  
-  
-86.39ab/ goharaṇa^śastra^ghātāv udak pare sārtha^ghāta^dhana^nāśau/  
-  
-86.39cd/ āsanne ca śvabhayaṃ vrātya^dvija^dāsa^gaṇikānām//  
-  
-86.40ab/ aiśānasya^āsanne citra^ambara^citrakṛd^bhayaṃ proktam/  
-  
-86.40cd/ aiśāne tv agni^bhayaṃ dūṣaṇam apy uttama^strīṇām//  
-  
-86.41ab/ prāk tasya^eva^āsanne duḥkha^utpattiḥ striyā vināśaś ca/  
-  
-86.41cd/ bhayam ūrdhvaṃ rajakānāṃ vijñeyaṃ kācchikānāṃ ca//  
-  
-86.42ab/ hasty^āroha^bhayaṃ syād dvirada^vināśaś ca maṇḍala^samāptau/  
-  
-86.42cd/ abhyantare tu dīpte patnī^maraṇaṃ dhruvaṃ pūrve//  
-  
-86.43ab/ śastra^anala^prakopa^āgneye vāji^maraṇa^śilpi^bhayam/  
-  
-86.43cd/ yāmye dharma^*vināśo +apare[K.vināśaḥ pare] +agny^avaskanda^cokṣa^vadhāḥ//  
-  
-86.44ab/ apare tu karmiṇāṃ bhayam atha koṇe ca^anile khara^uṣṭra^vadhaḥ/  
-  
-86.44cd/ atra^eva manuṣyāṇāṃ visūcikā[K.viśūcikā]^viṣa^bhayaṃ bhavati//  
-  
-86.45ab/ udag artha^vipra^pīḍā diśy aiśānyāṃ tu citta^santāpaḥ/  
-  
-86.45cd/ grāmīṇa^gopa^pīḍā ca tatra nābhyāṃ tathā^ātma^vadhaḥ//  
-  
-  
-  
-                   87  virutādhyāyḥ  
-  
-  
-  
-87.01a śyāmā^śyena^śaśaghna^vañjula^śikhi^śrīkarṇa^cakrāhvayāś  
-  
-87.01b cāṣa^aṇḍīraka^khañjarīṭaka^śuka^dhvāṅkṣāḥ kapotās trayaḥ[K.trayāḥ]/  
-  
-87.01c bhāradvāja^kulālakukkuṭa^kharā hārīta^gṛdhrau kapiḥ  
-  
-87.01d pheṇṭaḥ kukkuṭa^pūrṇakūṭa^*caṭakāḥ proktā[K.caṭakāś ca uktā] divāsañcarāḥ//  
-  
-87.02a lomāśikā piṅgala^cchippikā^ākhyau  
-  
-87.02b valgulī^ulūkau śaśakaś ca rātrau/  
-  
-87.02c sarve svakāla^utkrama^cāriṇaḥ syur  
-87.02d deśasya nāśāya nṛpa^antadā vā//  
-  
-87.03a haya^nara^bhujaga^uṣṭra^dvīpi^siṃha^ṛkṣa^godhā  
-  
-87.03b vṛka^nakula^kuraṅga^śva^aja^go^vyāghra^haṃsāḥ/  
-  
-87.03c pṛṣata^mṛga^śṛgāla^śvāvid^ākhya^anyapuṣṭā  
-  
-87.03d dyuniśam api biḍālaḥ sārasaḥ sūkaraś ca//  
-  
-87.04ab/ bhaṣa^kūṭapūri[U.kūṭapūri]^kurabaka^karāyikāḥ pūrṇakūṭa^saṇjñāḥ syuḥ/  
-  
-87.04cd/ nāmāny ulūkaceṭyāḥ piṅgalikā pecikā hakkā//  
-  
-87.05ab/ kapotakī ca śyāmā vañjulakaḥ kīrtyate khadiracañcuḥ/  
-  
-87.05cd/ chucchundarī nṛpa^sutā vāleyo gardabhaḥ proktaḥ//  
-  
-87.06ab/ srotas^*taḍāgabhedya[K.taḍāgabhedyeka]^ekaputrakaḥ kalahakārikā ca ralā/  
-  
-87.06cd/ bhṛṅgāravac ca viruvati[K.vāśati] niśi bhūmau dvy^aṅgula^śarīrā//  
-  
-87.07ab/ durbaliko bhāṇḍīkaḥ prācyānāṃ dakṣiṇaḥ praśasto +asau/  
-  
-87.07cd/ dhikkāro mṛgajātiḥ kṛkavākuḥ kukkuṭaḥ proktaḥ//  
-  
-87.08ab/ gartākukkuṭakasya prathitaṃ tu kulālakukkuṭo nāma/  
-  
-87.08cd/ gṛhagodhikā^iti saṃjñā vijñeyā kuḍyamatsyasya//  
-  
-87.09ab/ divyo dhanvana uktaḥ kroḍaḥ syāt sūkaro +atha gaurusrā/  
-  
-87.09cd/ śvā sārameya ukto jātyā caṭikā ca sūkarikā//  
-  
-87.10ab/ evaṃ deśe deśe tadvidbhyaḥ samupalabhya nāmāni//  
-  
-87.10cd/ śakuna^ruta^jñāna^arthaṃ śāstre sañcitya[K.sañcintya] yojyāni//  
-  
-87.11ab/ vañjulaka^rutaṃ tittiḍ iti dīptam atha kilkili^iti tatpūrṇam/  
-  
-87.11cd/ śyena^śuka^gṛdhra^kaṅkāḥ prakṛter anyasvarā dīptāḥ//  
-  
-87.12ab/ yāna^āsana^śayyā^nilayanaṃ kapotasya sadma^viśanaṃ vā/  
-  
-87.12cd/ aśubha^pradaṃ narāṇāṃ jāti^vibhedena kālo +anyaḥ//  
-  
-87.13ab/ āpāṇḍurasya varṣāc citra^kapotasya ca^eva ṣaṇmāsāt/  
-  
-87.13cd/ kuṅkuma^dhūmrasya phalaṃ sadyaḥ pākaṃ kapotasya//  
-  
-87.14ab/ cicid iti śabdaḥ pūrṇaḥ śyāmāyāḥ śūliśūl iti ca dhanyaḥ/  
-  
-87.14cd/ cacca^iti dīptaḥ syāt svapriya^lābhāya[K.yogāya] cikcig iti//  
-  
-87.15ab/ hārītasya tu śabdo gugguḥ pūrṇo +apare pradīptāḥ syuḥ/  
-  
-87.15cd/ svara^vaicitryaṃ sarvaṃ bhāradvājyāḥ śubhaṃ proktam//  
-  
-87.16ab/ kiṣkiṣi^śabdaḥ pūrṇaḥ karāyikāyāḥ śubhaḥ kahakaha^iti/  
-  
-87.16cd/ kṣamāya[K.ū.kṣemāya] kevalaṃ karakara^iti na tv artha^siddhi^karaḥ//  
-  
-87.17ab/ koṭukli^iti kṣemyaḥ svaraḥ kaṭukli^iti vṛṣṭaye tasyāḥ/  
-  
-87.17cd/ aphalaḥ koṭikili^iti ca dīptaḥ khalu guṃ kṛtaḥ śabdaḥ//  
-  
-87.18a śastraṃ[K.ū.śastam] vāme darśanaṃ divyakasya  
-  
-87.18b siddhir jñeyā hasta^mātra^ucchritasya/  
-  
-87.18c tasminn eva pronnatasthe śarīrād  
-  
-87.18d dhātrī vaśyaṃ sāgarāntā^abhyupaiti//  
-  
-87.19a phaṇito +abhimukhāgamo +arisaṅgaṃ  
-  
-87.19b kathayati bandhu[K.bandha]^vadha^atyayaṃ ca yātuḥ/  
-  
-87.19c atha vā samupaiti savyabhāgāt  
-  
-87.19d na sa siddhyai kuśalo gamāgame ca//  
-  
-87.20a abjeṣu mūrdhasu ca vāji^gaja^uragāṇāṃ  
-  
-87.20b rājya^pradaḥ kuśala^kṛt^śuci^śādvaleṣu/  
-  
-87.20c bhasma^asthi^kāṣṭha^tuṣa^keśa^tṛṇeṣu duḥkhaṃ  
-  
-87.20d dṛṣṭaḥ karoti khalu khañjanako +abdam ekam//  
-  
-87.21a kilikilkili tittira^svanaḥ  
-  
-87.21b śāntaḥ śasta^phalo +anyathā^aparaḥ/  
-  
-87.21c śaśako niśi vāma^pārśvago  
-  
-87.21d vāśan śasta^phalo nigadyate//  
-  
-87.22a kilikili^virutaṃ kapeḥ pradīptaṃ  
-  
-87.22b na śubha^phala^pradam uddiśanti yātuḥ/  
-  
-87.22c śubham api kathayanti cugluśabdaṃ  
-  
-87.22d kapisadṛśaṃ ca kulālakukkuṭasya//  
-  
-87.23a pūrṇānanaḥ kṛmi^pataṅga^pipīlakā^ādyaiś  
-  
-87.23b cāṣaḥ pradakṣiṇam upaiti narasya yasya/  
-  
-87.23c khe svastikaṃ yadi karoty atha vā yiyāsos  
-  
-87.23d tasya^artha^lābham acirāt sumahat karoti//  
-  
-87.24a cāṣasya kākena virudhyataś cet  
-  
-87.24b parājayo dakṣiṇa^bhāga^gasya/  
-  
-87.24c vadhaḥ prayātasya tadā narasya  
-  
-87.24d viparyaye tasya jayaḥ pradiṣṭaḥ//  
-  
-87.25a keka^iti pūrṇakuṭavad yadi vāmapārśve  
-  
-87.25b cāṣaḥ karoti virutaṃ jayakṛt tadā syāt/  
-  
-87.25c krekra^iti[K.krakreti] tasya virutaṃ na śivāya dīptaṃ  
-  
-87.25d sandarśanaṃ śubhadam asya sadaiva yātuḥ//  
-  
-87.26a aṇḍīrakaṣ ṭī^iti rutena pūrṇaṣ^  
-  
-87.26b ṭiṭṭiṭṭiśabdena tu dīpta uktaḥ/  
-  
-87.26c pheṇṭaḥ śubho dakṣiṇa^bhāga^saṃstho  
-  
-87.26d na vāśite tasya kṛto viśeṣaḥ//  
-  
-87.27a śrīkarṇa^rutaṃ tu dakṣiṇe  
-  
-87.27b kvakvakva^iti śubhaṃ prakīrtitam/  
-  
-87.27c madhyaṃ khalu cikciki^iti yac^  
-  
-87.27d śeṣaṃ sarvam uśanti niṣphalam//  
-  
-87.28a durbaler api cirilvirilv iti  
-  
-87.28b proktam iṣṭaphaladaṃ hi vāmataḥ/  
-  
-87.28c vāmataś ca yadi dakṣiṇaṃ vrajet  
-87.28d kārya^siddhim acireṇa yacchati//  
-  
-87.29a cikciki^vāśitam eva tu kṛtvā  
-  
-87.29c dakṣiṇa^bhāgam upaiti tu vāmāt/  
-  
-87.29c kṣemakṛd eva na sādhayate +arthān  
-  
-87.29d vyatyaya^go vadha^bandha^bhayāya//  
-  
-87.30ab/ krakra^iti ca sārikā drutaṃ tretre vā^apy^abhayā virauti yā/  
-  
-87.30cd/ sā vakti yiyāsato +acirād gātrebhyaḥ[K.gātrebhya] kṣatajasya visrutim//  
-  
-87.31ab/ pheṇṭakasya vāmataś cirilvirilv iti svanaḥ/  
-  
-87.31cd/ śobhano nigadyate pradīpta ucyate +aparaḥ//  
-  
-87.32a śreṣṭhaṃ kharaṃ sthāsnum uśanti vāmam  
-  
-87.32b oṃ^kāra^śabdena hitaṃ ca yātuḥ/  
-  
-87.32c *ato +aparaṃ[K.ataḥ paraṃ] gardabha^nāditaṃ yat  
-  
-87.32d sarva^āśrayaṃ tat pravadanti dīptam//  
-  
-87.33a ā^kāra^rāvī samṛgaḥ kuraṅga  
-  
-87.33b o^kāra^rāvī pṛṣataś ca pūrṇaḥ/  
-  
-87.33c ye +anye svarās te kathitāḥ pradīptāḥ  
-  
-87.33d pūrṇāḥ śubhāḥ pāpaphalāḥ pradīptāḥ//  
-  
-87.34a bhītā ruvanti kukukukv iti tāmracūḍās  
-  
-87.34b tyaktvā rutāni bhayadāny aparāṇi rātrau/  
-  
-87.34c svasthaiḥ svabhāva^virutāni niśāvasāne  
-  
-87.34d tārāṇi rāṣṭra^pura^pārthiva^vṛddhi^dāni//  
-  
-87.35a nānāvidhāni virutāni hi chippikāyās  
-  
-87.35b tasyāḥ śubhāḥ kulukulur na śubhās tu śeṣāḥ/  
-  
-87.35c yātur biḍāla^virutaṃ na śubhaṃ sadaiva  
-  
-87.35d gos tu kṣutaṃ maraṇam eva karoti yātuḥ//  
-  
-87.36a huṃhuṃguglug iti priyām abhilaṣan krośaty ulūko mudā  
-  
-87.36b pūrṇaḥ syād gurulu pradīptam api ca jñeyaṃ sadā kiskisi/  
-  
-87.36c vijñeyaḥ kalaho yadā balabalaṃ tasya[K.tasyāḥ] asakṛd vāśitaṃ  
-  
-87.36d doṣāya^eva ṭaṭaṭṭaṭa^iti na śubhāḥ śeṣās tu dīpta[K.dīptāḥ]svarāḥ//  
-  
-87.37ab/ sārasa^kūjitam iṣṭaphalaṃ tad yad yugapad^virutaṃ mithunasya/  
-  
-87.37cd/ ekarutaṃ na śubhaṃ yadi vā syād ekarute pravirauti[K.pratirauti] cireṇa//  
-  
-87.38ab/ cirilvirilv iti svaraiḥ śubhaṃ karoti piṅgalāḥ[K.piṅgalā]/  
-  
-87.38cd/ ato +apare tu ye svarāḥ pradīpta^saṃjñitās tu te//  
-  
-87.39a iśivirutaṃ gamana^pratiṣedhi  
-  
-87.39b kuśukuśu cet kalahaṃ prakaroti/  
-  
-87.39c abhimata^kārya^gatiṃ ca yathā sā  
-  
-87.39d kathayati taṃ ca vidhiṃ kathayāmi//  
-  
-87.40a dinānta^sandhyā^samaye nivāsam  
-  
-87.40b āgamya tasyāḥ prayataś ca vṛkṣam/  
-  
-87.40c devān samabhyarcya pitāmaha^ādīn  
-  
-87.40d nava^ambaras taṃ ca taruṃ sugandhaiḥ//  
-  
-87.41a eko niśīthe +anala^dik^sthitaś ca  
-  
-87.41b divya^itarais tāṃ śapathair niyojya/  
-  
-87.41c pṛcched yathācintitam artham evam  
-  
-87.41d anena mantreṇa yathā^āśṛṇoti//  
-  
-87.42ab/ viddhi bhadre mayā yat tvam imam arthaṃ pracoditā/  
-  
-87.42cd/ kalyāṇi sarva^vacasāṃ veditrī tvaṃ prakīrtyase//  
-  
-87.43ab/ āpṛcche +adya gamiṣyāmi veditaś ca punas tv aham/  
-  
-87.43cd/ prātar āgamya pṛcche tvām āgneyīṃ diśam āśritaḥ//  
-  
-87.44ab/ pracodayāmy ahaṃ yat tvāṃ tan me vyākhyātum arhasi/  
-  
-87.44cd/ svaceṣṭitena kalyāṇi yathā vedmi nirākulam//  
-  
-87.45a ity evam ukte taru^mūrdha^gāyāś  
-  
-87.45b cirilvirilvi^iti rute +artha^siddhiḥ/  
-  
-87.45c atyākulatvaṃ[U.avyākulatvam] diśikāra^śabde  
-  
-87.45d kucākucā^ity evam udāhṛte vā//  
-  
-87.46a avāk^pradāne *+api hita[K.vihita]^artha^siddhiḥ  
-  
-87.46b pūrva^ukta^dikcakra^phalair ato +anyat/  
-  
-87.46c vācyaṃ phalaṃ ca^uttama^madhya^nīca^  
-  
-87.46d śākhā^sthitāyāṃ vara^madhya^nīcam//  
-  
-87.47a diṅmaṇḍale +abhyantara^bāhya^bhāge  
-  
-87.47b phalāni vindyād gṛhagodhikāyāḥ/  
-  
-87.47c chucchundarī cicciḍ iti pradīptā  
-  
-87.47d pūrṇā tu sā tittiḍ iti svanena//  
-  
-  
-  
-                   88 śvacakrādhyāyaḥ  
-  
-  
-  
-88.01a nṛ^turaga^kari^kumbha^paryāṇa^sakṣīravṛkṣa^iṣṭakāsañcaya^cchatra^śayyā^āsana^ulūkhalāni dhvajaṃ cāmaraṃ śādvalaṃ puṣpitaṃ vā pradeśaṃ yadā śvā^avamūtrya^agrato yāti yātus tadā kārya^siddhir bhaved ārdrake gomaye miṣṭabhojya^āgamaḥ śuṣka^sammūtraṇe śuṣkam annaṃ guḍo modaka^avāptir eva^atha vā  
-  
-88.01b atha viṣataru^kaṇṭhakī^kāṣṭha^pāṣāṇa^śuṣkadruma^asthi^śmaśānāni mūtrya^avahatya^atha vā yāyino +agresaro +aniṣṭam ākhyāti śayyā^kulāla^ādi bhāṇḍāny abhuktāny abhinnāni vā mūtrayan kanyakā^doṣakṛd bhujyamānāni ced duṣṭatāṃ tad^gṛhiṇyās tathā syād upānat^phalaṃ gos tu sammūtraṇe +avarṇa^jaḥ[K.varṇajaḥ] saṅkaraḥ/  
-  
-88.01c gamana^mukham upānahaṃ sampragṛhya^upatiṣṭhed yadā syād tadā siddhaye māṃsa^pūrṇa^ānane +artha^āptir ādreṇa ca^asthnā śubhaṃ sa^agny^alātena śuṣkeṇa ca^asthnā gṛhītena mṛtyuḥ praśānta^ulmukena^abhighāto +atha puṃsaḥ śiro^hasta^pāda^ādi vaktre bhuvo +abhyāgamo[K.hyāgamo] vastra^cīra^ādibhir vyāpadaḥ ke cid āhuḥ savastre śubham  
-  
-88.01d praviśati tu gṛhaṃ sa^śuṣka^asthi^vaktre pradhānasya tasmin vadhaḥ śṛṅkhalā^śīrṇa^vallī^varatrā^ādi vā bandhanaṃ ca^upagṛhya^upatiṣṭhed yadā syāt tadā bandhanaṃ leḍhi pādau vidhunvan svakarṇāv upary ākramaṃś ca^api vighnāya yātur virodhe virodhas tathā sva^aṅga^kaṇḍūyane syāt svapaṃś ca^ūrdhva^pādaḥ sadā doṣakṛt//  
-  
-88.02a sūrya^udaye +arka^abhimukho virauti  
-  
-88.02b grāmasya madhye yadi sārameyaḥ/  
-  
-88.02c eko yadā vā bahavaḥ sametāḥ  
-  
-88.02d śaṃsanti deśa^adhipam anyam āśu//  
-  
-88.03a sūrya^unmukhaḥ śvā^analadik^sthitaś ca  
-  
-88.03b caura^anala^trāsa^karo +acireṇa/  
-  
-88.03c madhyāhna^kāle +anala^mṛtyu^śaṃsī  
-  
-88.03d saśoṇitaḥ syāt kalaho +aparāhṇe//  
-  
-88.04a ruvan dineśa^abhimukho +astakāle  
-  
-88.04b kṛṣībalānāṃ bhayam āśu datte[K.dhatte]/  
-  
-88.04c pradoṣa^kāle +aniladiṅ^mukhaś ca[K.tu]  
-  
-88.04d datte[K.dhatte] bhayaṃ māruta^taskara^uttham//  
-  
-88.05a udaṅ^mukhaś ca^api niśārdha^kāle  
-  
-88.05b vipravyathāṃ goharaṇaṃ ca śāsti/  
-  
-88.05c niśāvasāne śivadin^mukhaś ca  
-  
-88.05d kanyā^abhidūṣa^anala^garbhapātān//  
-  
-88.06a uccaiḥ svarāḥ syus tṛṇa^kūṭa^saṃsthāḥ  
-  
-88.06b prāsāda^veśma^uttama^saṃsthitā vā/  
-  
-88.06c varṣāsu vṛṣṭiṃ kathayanti tīvrām  
-  
-88.06d anyatra mṛtyuṃ dahanaṃ rujaś ca//  
-  
-88.07a prāvṛṭ^kāle +avagrahe +ambho +avagāhya  
-  
-88.07b pratyāvartai[K.pratyāvṛttai] recakaiś ca^apy abhīkṣaṇam[K.abhīkṣṇam]/  
-  
-88.07c ādhunvanto vā pibantaś ca toyaṃ  
-  
-88.07d vṛṣṭiṃ kurvanty antare dvādaśāhāt//  
-  
-88.08a dvāre śiro nyasya bahiḥ śarīraṃ  
-  
-88.08b rorūyate śvā gṛhiṇīṃ vilokya/  
-  
-88.08c roga^pradaḥ syād atha mandira^antar^  
-  
-88.08d bahir^mukho *vakti ca[K.śaṃsati] bandhakīṃ tām//  
-  
-88.09ab/ kuḍyam utkirati veśmano yadā tatra khānaka^bhayaṃ bhavet tadā/  
-  
-88.09cd/ goṣṭham utkirati go^grahaṃ vaded dhānya^labdhim api dhānya^bhūmiṣu//  
-  
-88.10a ekena^akṣṇā sa^aśruṇā dīna^dṛṣṭir  
-  
-88.10b manda^āhāro duḥkha^kṛt tad^gṛhasya/  
-  
-88.10c gobhiḥ sākaṃ[K.sārdhaṃ] krīḍamāṇaḥ subhikṣaṃ  
-  
-88.10d kṣema^ārogyaṃ ca^abhidhatte mudaṃ ca//  
-  
-88.11a vāmaṃ jighrej jānu vitta^āgamāya  
-  
-88.11b strībhiḥ sākaṃ vigraho dakṣiṇaṃ cet/  
-  
-88.11c ūruṃ vāmaṃ ca^indriya^artha^upabhogaḥ[K.upabhogāḥ]  
-  
-88.11d savyaṃ jighred iṣṭa^mitrair virodhaḥ//  
-88.12a pādau jighred yāyinaś ced ayātrāṃ  
-  
-88.12b prāha^artha^āptiṃ vāñchitāṃ niścalasya/  
-  
-88.12c sthāna^sthasya^upānahau ced vijighret  
-  
-88.12d kṣipraṃ yātrāṃ sārameyaḥ karoti//  
-  
-88.13a ubhayor api jighraṇe hi bāhvor  
-  
-88.13b vijñeyo ripu^caura^samprayogaḥ/  
-  
-88.13c atha bhasmani gopayīta bhakṣān  
-  
-88.13d māṃsa^asthīni ca[K.vā ca] śīghram agnikopaḥ//  
-  
-88.14a grāme bhaṣitvā ca bahiḥ śmaśāne  
-88.14b bhaṣanti ced uttama^puṃ^vināśaḥ/  
-  
-88.14c yiyāsataś ca^abhimukho virauti  
-  
-88.14d yadā tadā śvā niruṇaddhi yātrām//  
-  
-88.15a ukāra^*varṇe virute[K.varṇena rute] +artha^siddhir  
-  
-88.15b okāra^varṇena ca vāma^pārśve/  
-  
-88.15c vyākṣepam aukāra^rutena vindyān  
-  
-88.15d niṣedhakṛt sarvarutaiś ca paścāt//  
-  
-88.16a *khaṃkha^iti[K.saṅkheti] ca^uccaiś ca muhurmuhur ye  
-  
-88.16b ruvanti daṇḍair iva tāḍyamānāḥ/  
-  
-88.16c śvāno +abhidhāvanti ca maṇḍalena  
-  
-88.16d te śūnyatāṃ mṛtyu^bhayaṃ ca kuryuḥ//  
-  
-88.17a prakāśya dantān yadi leḍhi sṛkviṇī  
-  
-88.17b tadā^aśanaṃ mṛṣṭam[K.miṣṭam] uśanti tadvidaḥ/  
-  
-88.17c yadā^ānanaṃ *leḍhi punar[K.ca avalihen] na sṛkviṇī  
-  
-88.17d pravṛtta^bhojye +api tadā^anna^vighna^kṛt//  
-  
-88.18a grāmasya madhye yadi vā purasya  
-  
-88.18b bhaṣanti saṃhatya muhurmuhur ye/  
-  
-88.18c te kleśam ākhyānti tad^īśvarasya  
-  
-88.18d śvā^araṇya^saṃstho mṛgavad vicintyaḥ//  
-  
-88.19a vṛkṣa^upage krośati toya^pātaḥ  
-  
-88.19b syād indrakīle sacivasya pīḍā/  
-  
-88.19c vāyor gṛhe sasya^bhayaṃ gṛha^antaḥ  
-  
-88.19d pīḍā purasya^eva ca gopura^sthe//  
-  
-88.20a bhayaṃ ca śayyāsu tad^īśvarāṇāṃ  
-  
-88.20b yāne bhaṣanto bhayadāś ca paścāt/  
-  
-88.20c atha^apasavyā jana^sanniveśe  
-  
-88.20d bhayaṃ bhaṣantaḥ kathayanty arīṇām//  
-  
-  
-  
-                   89 śivārutādhyāyaḥ  
-  
-  
-  
-89.01a śvabhiḥ śṛgālāḥ sadṛśāḥ phalena  
-  
-89.01b viśeṣa eṣāṃ śiśire madāptiḥ/  
-  
-89.01c hūhū rutānte parataś ca ṭāṭā  
-  
-89.01d pūrṇaḥ svaro +anye kathitāḥ pradīptāḥ//  
-  
-89.02a lomāśikāyāḥ khalu kakkaśabdaḥ  
-  
-89.02b pūrṇaḥ svabhāva^prabhavaḥ sa tasyāḥ/  
-  
-89.02c ye +anye svarās te prakṛter apetāḥ  
-  
-89.02d sarve ca dīptā iti sampradiṣṭāḥ//  
-  
-89.03ab/ pūrvodīcyoḥ śivā śastā śāntā sarvatra pūjitā/  
-  
-89.03cd/ dhūmitā^abhimukhī hanti svaradīptā digīśvarān//  
-  
-89.4ab[K.omitted]/ rājā kumāro netā ca dūtaḥ śreṣṭhī caro dvijaḥ/  
-  
-89.4cd[K.omitted]/ gaja^adhyakṣaś ca pūrvā^ādyāḥ kṣatriya^ādyāś caturdiśam//  
-  
-89.05ab/ sarvadikṣv aśubhā dīptā viśeṣeṇa^ahny aśobhanā/  
-  
-89.05cd/ pure sainye +apasavyā ca kaṣṭā sūryonmukhī śivā//  
-  
-89.06ab/ yāhi^ity agnibhayaṃ śāsti ṭāṭa^iti mṛta^vedikā/  
-  
-89.06cd/ dhigdhig duṣkṛtim[K.duṣkṛtam] ācaṣṭe sajvālā deśanāśinī//  
-  
-89.07ab/ naiva dāruṇatām eke sajvālāyāḥ pracakṣate/  
-  
-89.07cd/ arkādyanalavat tasyā vaktraṃ lālāsvabhāvataḥ//  
-  
-89.08ab/ anyapratirutā yāmyā sā^udbandha^mṛta^śaṃsinī/  
-  
-89.08cd/ vāruṇy anurutā sā^eva śaṃsate salile mṛtam//  
-  
-89.09ab/ akṣobhaḥ śravaṇaṃ ca^iṣṭaṃ dhanaprāptiḥ priyāgamaḥ/  
-  
-89.09cd/ kṣobhaḥ pradhāna^bhedaś ca vāhanānāṃ ca sampadaḥ//  
-  
-89.10ab/ phalam ā saptamād etad agrāhyaṃ parato rutam/  
-  
-89.10cd/ yāmyāyāṃ tad^viparyastaṃ phalaṃ ṣaṭ^pañcamād ṛte//  
-  
-89.11ab/ yā romāñcaṃ manuṣyāṇāṃ śakṛn^mūtraṃ ca vājinām/  
-  
-89.11cd/ rāvāt trāsaṃ ca janayet sā śivā na śiva^pradā//  
-  
-89.12ab/ maunaṃ gatā pratirute nara^dvirada^*vājibhiḥ[K.vājinām]/  
-  
-89.12cd/ yā śivā sā śivaṃ sainye pure vā samprayacchati//  
-  
-89.13ab/ bhebhā^iti śivā bhayaṅkarī bhobho vyāpadam ādiśec ca sā/  
-  
-89.13cd/ mṛti^bandha^nivedinī phiphe[K.phipha] hūhū ca^ātmahitā śivā svare//  
-  
-89.14a śāntā tv a^varṇāt *param ā^ruvantī[K.pavanau ruvantī]  
-  
-89.14b ṭāṭām udīrṇām iti vāśyamānā/  
-  
-89.14c ṭeṭe ca pūrvaṃ parataś ca thethe  
-  
-89.14d tasyāḥ sva^tuṣṭi^prabhavaṃ rutaṃ tat//  
-  
-89.15a uccair ghoraṃ varṇam uccārya pūrvaṃ  
-  
-89.15b paścāt krośet kroṣṭukasya^anurūpam/  
-  
-89.15c yā sā kṣemaṃ prāha vittasya cāptiṃ  
-  
-89.15d saṃyogaṃ vā proṣitena priyeṇa//  
-  
-  
-  
-                   90 mṛgaceṣṭitādhyāyaḥ  
-  
-  
-  
-90.01a sīmā^gatā vanya^mṛgā ruvantaḥ  
-  
-90.01b sthitā vrajanto +atha samāpatantaḥ/  
-  
-90.01c sampraty^atīta^eṣya^bhayāni dīptāḥ  
-  
-90.01d kurvanti śūnyaṃ parito bhramantaḥ//  
-  
-90.02a te grāmya^sattvair anuvāśyamānā  
-  
-90.02b bhayāya rodhāya bhavanti vanyaiḥ/  
-  
-90.02c dvābhyām api pratyanuvāśitās te  
-  
-90.02d vandi^*grahāyai ca[K.grahāyaiva] mṛgā ruvanti[K.bhavanti]//  
-  
-90.03a vanye sattve dvāra^saṃsthe purasya  
-  
-90.03b rodho vācyaḥ sampraviṣṭe vināśaḥ/  
-  
-90.03c sūte mṛtyuḥ syād bhayaṃ saṃsthite ca  
-  
-90.03d gehaṃ yāte bandhanaṃ sampradiṣṭam//  
-  
-  
-  
-                   91 gaveṅgitādhyāyaḥ  
-  
-  
-  
-91.01a gāvo dīnāḥ pārthivasya^aśivāya  
-  
-91.01b pādair bhūmiṃ kuṭṭayantyaś ca rogān/  
-  
-91.01c mṛtyuṃ kurvanty aśru^pūrṇa^āyata^akṣyaḥ  
-  
-91.01d patyur bhītās taskarān ā^ruvantyaḥ//  
-  
-91.02ab/ akāraṇe krośati ced anartho bhayāya rātrau vṛṣabhaḥ śivāya/  
-  
-91.02cd/ bhṛśaṃ niruddhā yadi makṣikābhis tadā^āśu vṛṣṭiṃ saramātmajair vā//  
-  
-91.03a āgacchantyo veśma bambhāraveṇa  
-  
-91.03b saṃsevantyo goṣṭha^vṛddhyai gavāṃ gāḥ/  
-  
-91.03c ārdra^aṅgyo vā hṛṣṭaromṇyaḥ prahṛṣṭā  
-  
-91.03d dhanyā gāvaḥ syur mahiṣyo +api ca^evam//  
-  
-  
-  
-                   92 aśveṅgitādhyāyaḥ  
-  
-  
-  
-92.01a utsargān na śubhadam *āsanāt parasthaṃ[K.ū.āsanāparasthaṃ]  
-  
-92.01b vāme ca jvalanam ato +aparaṃ praśastam/  
-  
-92.01c sarva^aṅga^jvalanam avṛddhidaṃ hayānāṃ  
-  
-92.01d dve varṣe dahana^kaṇāś ca dhūpanaṃ vā//  
-  
-92.02a antaḥpuraṃ nāśam upaiti meḍhre  
-  
-92.02b kośaḥ kṣayaṃ yāty udare pradīpte/  
-  
-92.02c pāyau ca pucche ca parājayaḥ syād  
-  
-92.02d vaktra^uttama^aṅga^jvalane jayaś ca//  
-  
-92.03a skandha^āsana^aṃsa^jvalanaṃ jayāya  
-  
-92.03b bandhāya pāda^jvalanaṃ pradiṣṭam/  
-  
-92.03c lalāṭa^vakṣo *+akṣi^bhuje ca[K.akṣibhujeṣu] dhūmaḥ  
-  
-92.03d parābhavāya jvalanaṃ jayāya//  
-  
-92.04a nāsāpuṭa^protha^śiro +aśrupāta^  
-  
-92.04b *netre ca[K.netreṣu] rātrau jvalanaṃ jayāya/  
-  
-92.04c palāśa^tāmra^asita^karburāṇāṃ  
-  
-92.04d nityaṃ śuka^ābhasya sitasya ca^iṣṭam//  
-  
-92.05a pradveṣo yavasa^ambhasāṃ prapatanaṃ svedo nimittād vinā  
-  
-92.05b kampo vā vadanāc ca rakta^patanaṃ dhūmasya vā sambhavaḥ/  
-  
-92.05c asvapnaś ca virodhināṃ[K.virodhitā] niśi divā nidrā^alasa^dhyānatā/  
-  
-92.05d sādo +adho^mukhatā viceṣṭitam idaṃ neṣṭaṃ smṛtaṃ vājinām//  
-  
-92.06ab/ ārohaṇam anya^vājināṃ paryāṇa^ādiyutasya vājinaḥ/  
-  
-92.06cd/ upavāhya^turaṅgamasya vā kalpasya^eva vipanna^śobhanā//  
-  
-92.07a krauñcavad ripu^vadhāya hreṣitaṃ[K.heṣitaṃ]  
-  
-92.07b grīvayā tv acalayā ca sa^unmukham/  
-  
-92.07c snigdham uccam anunādi hṛṣṭavad^  
-  
-92.07d grāsa^ruddha^vadanaiś ca vājibhiḥ//  
-  
-92.08a pūrṇapātra^dadhi^vipra^devatā  
-  
-92.08b gandha^puṣpa^phala^kāñcana^ādi vā/  
-  
-92.08c dravyam iṣṭam atha vā paraṃ bhaved  
-  
-92.08d dhreṣatāṃ[K.dheṣatāṃ] yadi samīpato jayaḥ//  
-  
-92.09a bhakṣya^pāna^khalina^abhinandinaḥ  
-  
-92.09b patyur aupayika^nandino +atha vā/  
-  
-92.09c savya^pārśva^gata^dṛṣṭayo +atha vā  
-  
-92.09d vāñchita^artha^phaladās turaṅgamāḥ//  
-  
-92.10a vāmaiś ca pādair abhitāḍayanto mahīṃ  
-  
-92.10b pravāsāya bhavanti bhartuḥ/  
-  
-92.10c sandhyāsu dīptām avalokayanto  
-  
-92.10d hreṣanti[K.heṣanti] ced bandha^parājayāya//  
-  
-92.11a atīva hreṣanti[K.heṣanti] kiranti vālān  
-  
-92.11b nidrāratāś ca pravadanti yātrām/  
-  
-92.11c roma^tyajo dīna^khara^svarāś ca  
-  
-92.11d pāṃśūn grasantaś ca bhayāya dṛṣṭāḥ//  
-  
-92.12a samudgavad dakṣiṇa^pārśva^śāyinaḥ  
-  
-92.12b padaṃ samutkṣipya ca dakṣiṇaṃ sthitāḥ/  
-  
-92.12c jayāya śeṣeṣv api vāhaneṣv idaṃ  
-  
-92.12d phalaṃ yathāsambhavam ādiśed budhaḥ//  
-  
-92.13a ārohati kṣitipatau vinaya^upapanno  
-  
-92.13b yātrā^anugo +anya^turagaṃ pratihreṣate[K.pratiheṣate] ca/  
-  
-92.13c vaktreṇa vā spṛśati dakṣiṇam ātma^pārśvaṃ  
-  
-92.13d yo +aśvaḥ sa bhartur acirāt pracinoti lakṣmīm//  
-  
-92.14a muhurmuhur mūtra^śakṛt karoti  
-  
-92.14b na tāḍyamāno +apy anulomayāyī/  
-  
-92.14c akārya^bhīto +aśru^vilocanaś ca  
-  
-92.14d śivaṃ[K.śubham] na bhartus turago +abhidhatte//  
-  
-92.15ab/ uktam idaṃ haya^ceṣṭitam ata ūrdhvaṃ dantināṃ pravakṣyāmi/  
-  
-92.15cd/ teṣāṃ tu danta^kalpana^bhaṅga^mlāna^ādi^ceṣṭābhiḥ//  
-  
-  
-  
-                   93 hasticeṣṭitādhyāyaḥ  
-  
-  
-  
-93.01ab/ dantasya mūla^paridhiṃ dvir āyataṃ prohya kalpayet^śeṣam/  
-  
-93.01cd/ adhikam anūpa^carāṇāṃ nyūnaṃ giri^cāriṇāṃ kiñ cit//  
-  
-93.02ab/ śrīvatsa^vardhamāna^cchatra^dhvaja^cāmara^anurūpeṣu/  
-  
-93.02cd/ chede dṛṣṭeṣv ārogya^vijaya^dhana^vṛddhi^saukhyāni//  
-  
-93.03ab/ praharaṇa^sadṛśeṣu jayo nandyāvarte pranaṣṭa^deśa^āptiḥ/  
-  
-93.03cd/ loṣṭe tu labdha^pūrvasya bhavati deśasya samprāptiḥ//  
-  
-93.04ab/ strīrūpe +aśva^vināśo[K.svavināśo] bhṛṅgāre +abhyutthite suta^utpattiḥ/  
-  
-93.04cd/ kumbhena nidhi^prāptir yātrā^vighnaṃ ca daṇḍena//  
-  
-93.05ab/ kṛkalāsa^kapi^bhujaṅgeṣv asubhikṣa^vyādhayo ripu^*vaśitvam[K.vaśatvam]/  
-  
-93.05cd/ gṛdhra^ulūka^dhvāṅkṣa^śyena^ākāreṣu janamarakaḥ//  
-  
-93.06ab/ pāśe +atha vā kabandhe nṛpa^mṛtyur jana^vipat srute rakte/  
-  
-93.06cd/ kṛṣṇe śyāve rūkṣe durgandhe ca^aśubhaṃ bhavati//  
-  
-93.07ab/ śuklaḥ samaḥ sugandhiḥ snigdhaś ca śubha^āvaho bhavec chedaḥ/  
-  
-93.07cd/ galana^mlāna^phalāni ca dantasya samāni bhaṅgena//  
-  
-93.08a mūla^madhya^daśana^agra^saṃsthitā  
-  
-93.08b deva^daitya^manujāḥ kramāt tataḥ/  
-  
-93.08c sphīta^madhya^paripelavaṃ phalaṃ  
-93.08d śīghra^madhya^cirakāla^sambhavam//  
-  
-93.09ab/ danta^bhaṅga^phalam atra dakṣiṇe bhūpa^deśa^bala^vidrava^pradam/  
-  
-93.09cd/ vāmataḥ suta^purohita^ibhayān[K.ibhapān] hanti sāṭavika^dāra^nāyakān//  
-  
-93.10ab/ ādiśed ubhaya^bhaṅga^darśanāt pārthivasya sakalaṃ kula^kṣayam/  
-  
-93.10cd/ saumya^lagna^tithi^bha^ādibhiḥ śubhaṃ vardhate +aśubham ato +anyathā vadet[K.bhavet]//  
-  
-93.11ab/ kṣīra^mṛṣṭa[K.kṣīravṛkṣa]^phala^puṣpa^pādapeṣv āpagā^taṭa^vighaṭṭitena vā/  
-  
-93.11cd/ vāma^madhya^rada^bhaṅga^khaṇḍane[K.khaṇḍanaṃ] śatru^nāśakṛd ato +anyathā param//  
-  
-93.12a skhalita^gatir akasmāt trasta^karṇo +atidīnaḥ  
-  
-93.12b śvasiti mṛdu sudīrghaṃ nyasta^hastaḥ pṛthivyām/  
-  
-93.12c druta^mukulita^dṛṣṭiḥ svapna^śīlo vilomo  
-  
-93.12d bhayakṛd ahita^bhakṣī naikaśo *+asṛk^śakṛt^kṛt[K.+asṛk chakṛt ca]//  
-  
-93.13a valmīka^sthāṇu^gulma^kṣupa^taru^mathanaḥ sva^icchayā hṛṣṭa^dṛṣṭir  
-  
-93.13b yāyād yātrā^anulomaṃ tvarita^pada^gatir vaktram unnāmya ca^uccaiḥ/  
-  
-93.13c kakṣyā^sannāha^kāle janayati ca muhuḥ śīkaraṃ bṛṃhitaṃ vā  
-  
-93.13d tatkāle[K.tatkālaṃ] vā madāptir jayakṛd atha radaṃ veṣṭayan dakṣiṇaṃ ca//  
-  
-93.14a praveśanaṃ vāriṇi vāraṇasya  
-  
-93.14b grāheṇa nāśāya bhaven nṛpasya/  
-  
-93.14c grāhaṃ gṛhotvā[K.grihītvā]^uttaraṇaṃ nṛpasya[K.ū.dvipasya]  
-  
-93.14d toyāt sthalaṃ vṛddhi^karaṃ nṛbhartuḥ//  
-  
-  
-  
-                   94  vāyasavirutādhyāyaḥ  
-  
-  
-  
-94.01ab/ prācyānāṃ dakṣiṇataḥ śubhadāḥ[K.śubhadaḥ] kākāḥ karāyikā vāmāḥ[K.vāmā]/  
-  
-94.01cd/ viparītam anya^deśeṣv avadhir loka^prasiddhyā^eva//  
-  
-94.02ab/ vaiśākhe nirupahate vṛkṣe nīḍaḥ subhikṣa^śiva^dātā/  
-  
-94.02cd/ nindita^kaṇṭaki^śuṣkeṣv asubhikṣa^bhayāni taddeśe//  
-  
-94.03ab/ nīḍe prāk śākhāyāṃ śaradi bhavet prathama^vṛṣṭir aparasyām/  
-  
-94.03cd/ yāmya^uttarayor madhyāt[K.madhyā] pradhāna^vṛṣṭis taror upari//  
-  
-94.04ab/ śikhi^diśi maṇḍala^vṛṣṭir nairṛtyāṃ śāradasya niṣpattiḥ/  
-  
-94.04cd/ pariśeṣayoḥ subhikṣaṃ mūṣaka^*sampac ca[K.sampat tu] vāyavye//  
-  
-94.05ab/ śara^darbha^gulma^vallī^dhānya^prāsāda^geha^nimneṣu/  
-  
-94.05cd/ śūnyo bhavati sa deśaś caura^anāvṛṣṭi^roga^ārtaḥ//  
-  
-94.06ab/ dvi^tri^catuḥ^śāvatvaṃ subhikṣadaṃ pañcabhir nṛpa^anyatvam/  
-  
-94.06cd/ aṇḍa^avakiraṇam eka^aṇḍatā^aprasūtiś ca na śivāya//  
-  
-94.07ab/ cauraka^varṇaiś caurāś citrair mṛtyuḥ sitais tu vahni^bhayam/  
-  
-94.07cd/ vikalair durbhikṣa^bhayaṃ kākānāṃ nirdiśet^śiśubhiḥ//  
-  
-94.08ab/ animitta^saṃhatair grāma^madhyagaiḥ kṣud^bhayaṃ praviruvadbhiḥ[K.pravāśadbhiḥ]/  
-  
-94.08cd/ rodhaś cakra^ākārair abhighāto varga^varga^sthaiḥ//  
-  
-94.09ab/ abhayāś ca tuṇḍa^pakṣaiś caraṇa^vighātair janān abhibhavantaḥ/  
-  
-94.09cd/ kurvanti śatru^vṛddhiṃ niśi vicaranto jana^vināśam//  
-  
-94.10ab/ savyena khe bhramadbhiḥ svabhayaṃ viparīta^maṇḍalaiś ca parāt/  
-  
-94.10cd/ atyākulaṃ bhramadbhir vāta^udbhramo bhavati kākaiḥ//  
-  
-94.11ab/ ūrdhva^mukhāś cala^pakṣāḥ pathi bhayadāḥ kṣud^bhayāya dhānya^muṣaḥ/  
-  
-94.11cd/ senā^aṅga^sthā yuddhaṃ parimoṣaṃ ca^anyabhṛta^pakṣāḥ//  
-  
-94.12ab/ bhasma^asthi^keśa^patrāṇi vinyasan pati^vadhāya śayyāyām/  
-  
-94.12cd/ maṇi^kusuma^ādy^avahanane[K.avahanena] sutasya *janmāpyathā^aṅganāyāś[K.janmāṅganāyāś ca][U.janma^anyathā^aṅganāyāś] ca//  
-  
-94.13ab/ pūrṇānane +artha^lābhaḥ sikatā^dhānya^ārdramṛt^kusuma^pūrvaiḥ/  
-  
-94.13cd/ bhayado jana^saṃvāsād yadi bhāṇḍāny apanayet kākaḥ//  
-  
-94.14ab/ vāhana^śastra^upānat^chatrachāyā^aṅga^kuṭṭane maraṇam/  
-  
-94.14cd/ tatpūjāyāṃ pūjā viṣṭhā^karaṇe +anna^samprāptiḥ//  
-  
-94.15ab/ yad dravyam upanayet tasya labdhir apaharati cet praṇāśaḥ syāt/  
-  
-94.15cd/ pīta^dravyaiḥ[K.pītadravye] kanakaṃ vastraṃ *kārpāsikaiḥ sitaiḥ[K.kārpāsike site] rūpyam//  
-  
-94.16ab/ sakṣīra^arjuna^vañjula^kūladvaya^pulina^gā ruvantaś ca/  
-  
-94.16cd/ prāvṛṣi vṛṣṭiṃ durdinam anṛtau snātāś ca pāṃśu^jalaiḥ//  
-  
-94.17ab/ dāruṇa^nādas taru^koṭara^upago vāyaso mahā^bhayadaḥ/  
-  
-94.17cd/ salilam avalokya viruvan vṛṣṭikaro +abda^anurāvī ca//  
-  
-94.18ab/ dīpta^udvigno viṭape vikuṭṭayan vahnikṛd vidhuta^pakṣaḥ/  
-  
-94.18cd/ rakta^dravyaṃ dagdhaṃ tṛṇa^kāṣṭhaṃ vā gṛhe vidadhat//  
-94.19ab/ aindrya^ādi^dig avalokī sūrya^abhimukho ruvan gṛhe gṛhinaḥ/  
-  
-94.19cd/ rājabhaya^cora^bandhana^kalahāḥ syuḥ paśu^bhayaṃ ca^iti//  
-  
-94.20ab/ śāntām aindrīm avalokayan ruyād rājapuruṣa^mitra^āptiḥ/  
-  
-94.20cd/ bhavati ca suvarṇa^labdhiḥ śāly^anna^guḍa^aśana^āptiś ca//  
-  
-94.21ab/ āgneyyām analājīvika^yuvati^pravara^dhātu^lābhaś ca/  
-  
-94.21cd/ yāmye māṣa^kulūtthā[K.kulatthā]bhojyaṃ gāndharvikair yogaḥ//  
-  
-94.22ab/ nairṛtyāṃ dūta^aśva^upakaraṇa^dadhi^taila^palala^bhojya^āptiḥ/  
-  
-94.22cd/ vāruṇyāṃ māṃsa^surā^āsava^dhānya^samudra^ratna^āptiḥ//  
-  
-94.23ab/ mārutyāṃ śastra^āyudha^saroja^vallī^phala^aśana^āptiś ca/  
-  
-94.23cd/ saumyāyāṃ parama^anna^aśanaṃ turaṅga^ambara^prāptiḥ//  
-  
-94.24ab/ aiśānyāṃ samprāptir ghṛta^pūrṇānāṃ bhaved anaḍuhaś ca/  
-  
-94.24cd/ evaṃ phalaṃ gṛhapater gṛha^pṛṣṭha^samāśrite bhavati//  
-  
-94.25ab/ gamane karṇasamaś cet kṣemāya na kārya^siddhaye bhavati//  
-  
-94.25cd/ abhimukham upaiti yātur viruvan vinivartayed yātrām//  
-  
-94.26ab/ vāme vāśitvā^ādau dakṣiṇa^pārśve +anuvāśate yātuḥ/  
-  
-94.26cd/ artha^apahāra^kārī tad^viparīto +artha^siddhi^karaḥ//  
-  
-94.27ab/ yadi vāma eva viruvan[K.viruyāt] muhurmuhur yāyino +anuloma^gatiḥ/  
-  
-94.27cd/ arthasya bhavati siddhyai prācyānāṃ dakṣiṇaś ca^evam//  
-  
-94.28ab/ vāmaḥ pratiloma^gatir viruvan[K.vāśan] gamanasya vighnakṛd bhavati/  
-  
-94.28cd/ tatrasthasya^eva phalaṃ kathayati tad^vāñchitaṃ gamane//  
-  
-94.29ab/ dakṣiṇa^virutaṃ kṛtvā vāme viruyād yathā^īpsita^avāptiḥ/  
-  
-94.29cd/ prativāśya puro yāyād drutam *atyarthāgamo bhavati[K.agre +arthāgamo +atimahān]//  
-  
-94.30ab/ prativāśya pṛṣṭḥato dakṣiṇena yāyād drutaṃ kṣataja^kārī[K.kṣatajakartā]/  
-  
-94.30cd/ ekacaraṇo +arkam īkṣan viruvaṃś ca puro rudhira^hetuḥ//  
-  
-94.31ab/ dṛṣṭvā^arkam ekapādas tuṇḍena likhed yadā svapicchāni/  
-  
-94.31cd/ purato janasya mahato vadham abhidhatte tadā balibhuk//  
-  
-94.32ab/ sasya^upete kṣetre viruvati śānte sasasya^bhū^labdhiḥ/  
-  
-94.32cd/ ākula^ceṣṭo viruvan sīmānte kleśakṛd yātuḥ//  
-  
-94.33ab/ susnigdha^patra^pallava^kusuma^phala^ānamra^surabhi^madhureṣu/  
-  
-94.33cd/ sakṣīra^avraṇa^saṃsthita^manojña^vṛkṣeṣu ca^artha^siddhi^karaḥ[K.cārthakaraḥ]//  
-  
-94.34ab/ niṣpanna^sasya^śādvala[K.śāḍvala, K's tr. śādvala]^bhavana^prāsāda^harmya^hariteṣu/  
-  
-94.34cd/ dhanya[K.dhānya]^ucchraya^maṅgalyeṣu ca^eva viruvan dhana^āgamadaḥ//  
-  
-94.35ab/ gopucchasthe valmīkage +atha vā darśanaṃ bhujaṅgasya/  
-  
-94.35cd/ sadyo jvaro mahiṣage viruvati gulme phalaṃ svalpam//  
-  
-94.36ab/ kāryasya vyāghātas tṛṇakūṭe vāmage +ambu^saṃsthe[K.asthisaṃsthe] vā/  
-  
-94.36cd/ ūrdhva^agni^pluṣṭe +aśani^hate ca kāke vadho bhavati//  
-  
-94.37ab/ kaṇṭaki^miśre saumye siddhiḥ kāryasya bhavati kalahaś ca/  
-  
-94.37cd/ kaṇṭakini bhavati kalaho vallī^pariveṣṭite bandhaḥ//  
-  
-94.38ab/ chinna^agre +aṅga^cchedaḥ kalahaḥ śuṣka^druma^sthite dhvāṃkṣe/  
-  
-94.38cd/ purataś ca pṛṣṭhato vā gomaya^saṃsthe dhana^prāptiḥ//  
-  
-94.39ab/ mṛta^puruṣa^aṅga^avayava^sthito +abhiviruvan[K.+abhivāśan] karoti mṛtyu^bhayam/  
-  
-94.39cd/ bhañjann asthi ca cañcvā yadi viruvaty[K.vāśaty] asthi^bhaṅgāya//  
-  
-94.40ab/ rajjv^asthi^kāṣṭha^kaṇṭaki^niḥsāra^śiroruha^ānane ruvati/  
-  
-94.40cd/ bhujaga^gada^daṃṣṭri^taskara^śastra^agni^bhayāny anukramaśaḥ//  
-  
-94.41ab/ sitakusuma^aśuci^māṃsa^ānane +artha^siddhir yathā^īpsitā yātuḥ/  
-  
-94.41cd/ *pakṣau dhunvann[K.dhunvan pakṣāv] ūrdhva^ānane ca vighnaṃ muhuḥ kvaṇati//  
-  
-94.42ab/ yadi śṛṅkhalāṃ varatrāṃ vallīṃ vā^ādāya vāśate bandhaḥ/  
-  
-94.42cd/ pāṣāṇa^sthe ca bhayaṃ kliṣṭa^apūrva^adhvika^yutiś ca//  
-  
-94.43ab/ anyonya^bhakṣa^saṃkrāmita^ānane tuṣṭir uttamā bhavati/  
-  
-94.43cd/ vijñeyaḥ strī^lābho dampatyor viruvator[K.vāśator] yugapat//  
-  
-94.44ab/ pramadā^śira^upagata^pūrṇa^kumbha^saṃsthe +aṅganā^artha^samprāptiḥ/  
-  
-94.44cd/ ghaṭa^kuṭṭane suta^vipad ghaṭa^upahadane +anna^samprāptiḥ//  
-  
-94.45ab/ skandhāvāra^ādīnāṃ niveśa^samaye ruvaṃś calat^pakṣaḥ/  
-  
-94.45cd/ sūcayate +anyat^sthānaṃ[K.+anyasthānaṃ] niścala^pakṣas tu bhaya^mātram//  
-  
-94.46ab/ praviśadbhiḥ sainya^ādīn sagṛdhra^kaṅkair vinā^āmiṣaṃ dhvāṃkṣaiḥ/  
-  
-94.46cd/ aviruddhais taiḥ prītir dviṣatāṃ yuddhaṃ viruddhaiś ca//  
-  
-94.47ab/ bandhaḥ sūkara^saṃsthe paṅkākte sūkare dvike +artha^āptiḥ/  
-  
-94.47cd/ kṣemaṃ khara^uṣṭra^saṃsthe ke cit prāhur vadhaṃ tu khare//  
-  
-94.48ab/ vāhanalābho +aśvagate viruvaty anuyāyini kṣatajapātaḥ/  
-  
-94.48cd/ anye +apy anuvrajanto yātāraṃ kākavad vihagāḥ//  
-  
-94.49ab/ dvātriṃśat pravibhakte digcakre yad yathā samuddiṣṭam/  
-  
-94.49cd/ tattat tathā vidheyaṃ guṇa^doṣa^phalaṃ yiyāsūnām//  
-  
-94.50ab/ kā iti kākasya rutaṃ sva^nilaya^saṃsthasya niṣphalaṃ proktam/  
-  
-94.50cd/ kava iti ca^ātmaprītyai ka^iti rute snigdha^mitra^āptiḥ//  
-  
-94.51ab/ karā^iti kalahaṃ kurukuru ca harṣam atha kaṭakaṭa^iti dadhibhaktam/  
-  
-94.51cd/ keke virutaṃ kuku vā dhana^lābhaṃ yāyinaḥ prāha//  
-  
-94.52ab/ kharekhare pathika^āgamam āha kakhākhā^iti yāyino mṛtyum/  
-  
-94.52cd/ gamana^pratiṣedhikam ā kakhalā[K.ākhalakhala, K's tr. ā khalakhala] sadyo +abhivarṣāya//  
-  
-94.53ab/ kākā^iti vighātaḥ[K.vighātaṃ] kākaṭi^iti ca^āhāra^dūṣaṇaṃ prāha/  
-  
-94.53cd/ prīty^āspadaṃ kavakava^iti bandham evaṃ kagākur iti//  
-  
-94.54ab/ karagau[K.karakau] virute varṣaṃ guḍavat trāsāya vaḍ iti vastra^āptiḥ/  
-  
-94.54cd/ kalaya^iti ca saṃyogaḥ śūdrasya brāhmaṇaiḥ sākam//  
-  
-94.55a kaḍ [K.phaḍ] iti phalāptiḥ phaladā[K.phalavā]^  
-  
-94.55b ahidarśanaṃ ṭaḍḍiti[K.ṭaḍiti] prahārāḥ syuḥ/  
-  
-94.55c strī^lābhaḥ strīti rute  
-  
-94.55b gaḍ iti gavāṃ puḍ iti puṣpāṇām//  
-  
-94.56ab/ yuddhāya ṭākuṭākv iti guhu vahni^bhayaṃ kaṭekaṭe kalahaḥ/  
-  
-94.56cd/ ṭākuli ciṇṭici kekeka^iti puraṃ ca^iti doṣāya//  
-  
-94.57a kāka^dvayasya^api samānam etat  
-  
-94.57b phalaṃ yaduktaṃ ruta^ceṣṭita^ādyaiḥ/  
-  
-94.57c patatriṇo +anye +api yathā^eva kāko  
-  
-94.57d vanyāḥ śvavac ca^uparidaṃṣṭriṇo ye//  
-  
-94.58a sthala^salila^carāṇāṃ vyatyayo megha^kāle  
-  
-94.58b pracura^salila^vṛṣṭyai śeṣakāle bhayāya/  
-  
-94.58c madhu bhavana^nilīnaṃ tat karoty āśu śūnyaṃ  
-  
-94.58d maraṇam api *ca nīlā[K.nilīnā] makṣikā mūrdhni līnā//  
-  
-94.59a vinikṣipantyaḥ salile +aṇḍakāni  
-  
-94.59b pipīlikā vṛṣṭi^nirodham āhuḥ/  
-  
-94.59c *taruṃ sthalaṃ[K.tarusthalaṃ, K's tr.taruṃ sthalaṃ] vā^api nayanti nimnād  
-  
-94.59d yadā tadā tāḥ kathayanti vṛṣṭim//  
-  
-94.60a kāryaṃ tu mūla^śakune +antaraje tadahni  
-  
-94.60b vindyāt phalaṃ niyatam evam ime vicintyāḥ/  
-  
-94.60c prārambha^yāna^samayeṣu tathā praveśe  
-  
-94.60d grāhyaṃ kṣutaṃ na śubhadaṃ kva cid apy uśanti//  
-  
-94.61a śubhaṃ daśā^pākam avighna^siddhiṃ  
-  
-94.61b mūla^abhirakṣām atha vā sahāyān/  
-  
-94.61c duṣṭasya[K.iṣṭasya] saṃsiddhim anāmayatvaṃ  
-  
-94.61d vadanti te mānayitur nṛpasya//  
-  
-94.62a krośād ūrdhvaṃ śakuna[K.śakuni]virutaṃ niṣphalaṃ prāhur eke  
-  
-94.62b tatra^aniṣṭe prathama^śakune mānayet pañca ṣaṭ ca/  
-  
-94.62c prāṇāyāmān nṛpatir aśubhe ṣoḍaśa^eva dvitīye  
-  
-94.62d pratyāgacchet svabhavanam ato yady aniṣṭas tṛtīyaḥ//  
-  
-  
-  
-                   95 śākuna^uttarādhyāyaḥ  
-  
-  
-  
-95.01ab/ dig^deśa^ceṣṭā^svara^vāsara^ṛkṣa^muhūrta^horā^karaṇa^udaya^aṃśān/  
-  
-95.01cd/ cara^sthira[K.cirasthira, K's tr. carasthira]^unmiśra^bala^abalaṃ ca buddhvā phalāni pravaded rutajṇaḥ//  
-  
-95.02a dvividhaṃ kathayanti saṃsthitānām  
-  
-95.02b āgāmi^sthira^saṃjñitaṃ ca kāryam/  
-  
-95.02c nṛpa^dūta^cara^anyadeśa^jātāny  
-  
-95.02d abhighātaḥ svajanādi ca^āgama^ākhyam//  
-  
-95.03a udbaddha^saṃgrahaṇa^bhojana^caura^vahni^  
-  
-95.03b varṣa^utsava^ātmaja^vadhāḥ kalaho bhayaṃ ca/  
-  
-95.03c vargaḥ sthiro +ayam udaya^induyute sthira^ṛkṣe  
-  
-95.03d vidyāt sthiraṃ caragṛhe ca caraṃ yad uktam//  
-  
-95.04ab/ sthira^pradeśa^upala^mandireṣu surālaye bhū^jala^sannidhau ca/  
-  
-95.04cd/ sthirāṇi kāryāṇi carāṇi yāni cala^pradeśa^ādiṣu ca^āgamāya//  
-  
-95.05a āpya^udaya^ṛkṣa^kṣaṇa^dig^jaleṣu  
-  
-95.05b pakṣa^avasāneṣu ca ye pradīptāḥ/  
-  
-95.05c sarve +api te vṛṣṭikarā ruvantaḥ  
-  
-95.05d śānto +api vṛṣṭiṃ kurute +ambucārī//  
-  
-95.06a āgneya^dig^lagna^muhūrta^deśeṣv  
-  
-95.06b arka^pradīpto +agnibhayāya rauti/  
-  
-95.06c viṣṭyāṃ yama^ṛkṣa^udaya^kaṇṭakeṣu  
-  
-95.06d niṣpatra^vallīṣu ca doṣakṛt[K.moṣakṛt] syāt//  
-  
-95.07a grāmyaḥ pradīptaḥ svara^ceṣṭitābhyām  
-95.07b ugro ruvan kaṇṭakini sthitaś ca/  
-  
-95.07c bhauma^ṛkṣalagne yadi nairṛtīṃ ca  
-  
-95.07d sthito +abhitaś cet kalahāya dṛṣṭaḥ//  
-  
-95.08a lagne +atha vā^indor bhṛgu^bha^aṃśa^saṃsthe  
-  
-95.08b vidik^sthito +adho^vadanaś ca rauti/  
-  
-95.08c dīptaḥ sa cet saṃgrahaṇaṃ karoti  
-  
-95.08d yonyā tayā yā vidiśi pradiṣṭā//  
-  
-95.09a puṃrāśi^lagne viṣame tithau ca  
-  
-95.09b diksthaḥ pradīptaḥ śukuno nara^ākhyaḥ/  
-  
-95.09c vācyaṃ tadā saṃgrahaṇaṃ narāṇāṃ  
-  
-95.09d miśre bhavet paṇḍaka^samprayogaḥ//  
-  
-95.10a evaṃ raveḥ kṣetra^navāṃśa^lagne  
-  
-95.10b lagne sthite vā svayam eva sūrye/  
-  
-95.10c dīpto +abhidhatte śakuno virauti[K.vivāsaṃ]  
-  
-95.10d puṃsaḥ pradhānasya hi kāraṇaṃ tat//  
-  
-95.11ab/ prārambhamāṇeṣu[K.prārabhyamāṇeṣu] ca sarva^kāryeṣv arka^anvitād bhād gaṇayed vilagnam/  
-  
-95.11cd/ samptad vipac ca^iti yathā krameṇa sampad vipac ca^iti[K.vā^api] tatha^eva vācyam[K.vācyā]//  
-  
-95.12a kāṇena^akṣṇā dakṣiṇena^eti sūrye  
-  
-95.12b candre lagnād dvādaśe ca^itarena/  
-  
-95.12c lagnasthe +arke pāpadṛṣṭe +andha eva  
-  
-95.12d kubjaḥ sva^ṛkṣe śrotra^hīno jaḍo vā//  
-  
-95.13a krūraḥ ṣaṣṭhe krūradṛṣṭo vilagnād  
-  
-95.13b yasmin rāśau tadgṛha^aṅge vraṇo +asya[K.syāt]/  
-  
-95.13c evaṃ proktaṃ yan mayā janmakāle  
-  
-95.13d cihnaṃ rūpaṃ tat tad asmin vicintyam//  
-  
-95.ṝ1a ataḥ paraṃ loka^nirūpitāni[K.omits from 95.ṝ1a to 95.ṝ32d]  
-  
-95.ṝ1b dravyeṣu nānā^akṣara^saṃgrahāṇi/  
-  
-95.ṝ1c iṣṭa^praṇītāni vibhājitāni  
-  
-95.ṝ1d nāmāni kendra^kramaśaḥ pravakṣye//  
-  
-95.ṝ2a lagna^ambu^saṃstha^asta^nabhaḥsthiteṣu  
-  
-95.ṝ2b kṣetreṣu ye lagnagatā gṛha^aṃśāḥ/  
-  
-95.ṝ2c tebhyo +akṣarāṇy ātmagṛha^āśrayāṇi  
-  
-95.ṝ2d vindyād grahāṇāṃ svagaṇa^krameṇa//  
-  
-95.ṝ3a ka^varga^pūrvān kuja^śukra^cāndri^  
-  
-95.ṝ3b jīva^arkajānāṃ pravadanti vargān/  
-  
-95.ṝ3c ya^kāra^pūrvāḥ śaśino niruktā  
-  
-95.ṝ3d varṇās tv a^kāra^prabhavā raveḥ syuḥ//  
-  
-95.ṝ4a dreṣkāṇa^vṛddhyā pravadanti nāma  
-  
-95.ṝ4b tri^pañca^sapta^akṣaram ojarāśau/  
-  
-95.ṝ4c yugme tu vindyād dvi^catuṣka^ṣaṭkaṃ  
-  
-95.ṝ4d nāma^akṣarāṇi graha^dṛṣṭi^vṛddhyā//  
-  
-95.ṝ5a vargottame dvya^kṣarakaṃ cara^aṃśe  
-  
-95.ṝ5b sthira^ṛkṣa^bhāge catur^akṣaraṃ tat/  
-  
-95.ṝ5c ojeṣu ca^ebhyo viṣama^akṣarāṇi  
-  
-95.ṝ5d syur dvisvabhāveṣu tu rāśivac ca//  
-  
-95.ṝ6a dvimūrti^saṃjñe tu vaded dvināma  
-  
-95.ṝ6b saumya^īkṣite dviprakṛtau ca rāśau/  
-  
-95.ṝ6c yāvān gaṇaḥ sva^udayago +aṃśakānāṃ  
-  
-95.ṝ6d tāvān grahaḥ saṃgrahake +akṣarāṇām//  
-  
-95.ṝ7a saṃyogam ādau bahuleṣu vindyāt  
-  
-95.ṝ7b kūṭeṣu saṃyogaparaṃ vadanti/  
-  
-95.ṝ7c sva^uccāṃśake dviṣkṛtam ṛkṣa^yogād  
-  
-95.ṝ7d gurv^akṣaraṃ tad^bhavana^aṃśake syāt//  
-  
-95.ṝ8a mātrā^ādi^yuk syād grahayuk^trikoṇe  
-  
-95.ṝ8b dreṣkāṇa^paryāyavad akṣareṣu/  
-  
-95.ṝ8c nabho^baleṣu^ūrdhvam adho +ambujeṣu  
-  
-95.ṝ8d jñeyo *visargas tu bala[U.visargo^astabala]^anviteṣu//  
-  
-95.ṝ9a śīrṣa^udayeṣu^ūrdhvam uśanti mātrām  
-  
-95.ṝ9b adhaś ca pṛṣṭha^udaya^śabditeṣu/  
-  
-95.ṝ9c tīryak ca vindyād ubhaya^udaye tāṃ  
-  
-95.ṝ9d dīrgheṣu dīrghām itareṣu ca^anyām//  
-  
-95.ṝ10a prāg^lagna^toya^asta^nabhaḥsthiteṣu  
-  
-95.ṝ10b bheṣv aṃśakebhyo +akṣara^saṃgrahaḥ syāt/  
-  
-95.ṝ10c krūro +akṣaraṃ hanti catuṣṭayastho  
-  
-95.ṝ10d dṛṣṭyā^api mātrāṃ ca trikoṇago vā//  
-  
-95.ṝ11a śubhagrahas tu^ūrjita^vīrya^bhāgī  
-  
-95.ṝ11b sthāna^aṃśa^tulya^akṣaradaḥ sa ca^uktaḥ/  
-  
-95.ṝ11c paśyan sthitaḥ kendra^trikoṇayor vā  
-  
-95.ṝ11d sva^ucce +api varṇa^dvayam ātma^bhāge//  
-  
-95.ṝ12a kṣetreśv are kṣīṇabale +aṃśake ca  
-  
-95.ṝ12b mātrā^akṣaraṃ nāśam upaiti tajjam/  
-  
-95.ṝ12c asambhave +apy udbhavam eti tasmin  
-  
-95.ṝ12d varga^ādyam uccāṃśa^yuji^īśa^dṛṣṭe//  
-  
-95.ṝ13a kendre yathāsthāna^bala^prakarṣaṃ  
-  
-95.ṝ13b kṣetrasya tat^kṣetra^pateś ca buddhvā/  
-  
-95.ṝ13c kāryo +akṣarāṇām anupūrvayogo  
-  
-95.ṝ13d mātrā^ādi^saṃyoga^vikalpanā ca//  
-  
-95.ṝ14a tatra^ādirāśy^ādi^catur^vilagnam  
-  
-95.ṝ14b ādy^aṃśaka^ādi^krama^paryāyeṇa/  
-  
-95.ṝ14c grahāṃśakebhyaḥ svagaṇa^akṣarāṇām  
-  
-95.ṝ14d anvarthane prāptir iyaṃ vidhāryā//  
-  
-95.ṝ15a meṣe kakāro hibuke yakāras  
-  
-95.ṝ15b tule cakāro makare pakāraḥ/  
-  
-95.ṝ15c meṣe chakāro hibuke +apy akāras  
-  
-95.ṝ15d tule khakāro makare phakāraḥ//  
-  
-95.ṝ16a meṣe ṭakāro hibuke ṭhakāras  
-  
-95.ṝ16b tule takāro makare thakāraḥ/  
-  
-95.ṝ16c meṣe tu rephā hibuke jakāras  
-  
-95.ṝ16d tule bakāro makare gakāraḥ//  
-  
-95.ṝ17a ākāram ādye +ambugate ghakāram  
-  
-95.ṝ17b aste bhakāraṃ makare jhakāram/  
-  
-95.ṝ17c lagne ḍakāraṃ hibuke dakāram  
-  
-95.ṝ17d aste dhakāraṃ makare ḍhakāram//  
-  
-95.ṝ18a lagne ñakāro hibuke makāras  
-  
-95.ṝ18b tule ṅakāro makare lakāraḥ/  
-  
-95.ṝ18c lagne kakāro hibuke pakāras  
-  
-95.ṝ18d tule cakāro makare ikāraḥ//  
-  
-95.ṝ19a lagne nakāro hibuke takāras  
-  
-95.ṝ19b tule ṇakāro makare ṭakāraḥ/  
-  
-95.ṝ19c ity etad uktaṃ carasaṃjñakasya  
-  
-95.ṝ19d vakṣye sthirākhyasya catuṣṭayasya//  
-  
-95.ṝ20a vṛṣe phakāro hibuke khakāraḥ  
-  
-95.ṝ20b kīṭe vakāro nṛghaṭe chakāraḥ/  
-  
-95.ṝ20c ādyāṃśakebhyo matimān vidadhyād  
-  
-95.ṝ20d anukrameṇa sthirasaṃjñakeṣu//  
-  
-95.ṝ21a lagne bakāro hibuke jakāra  
-  
-95.ṝ21b īkāram aste +ambarage gakāraḥ/  
-95.ṝ21c vṛṣe thakāro hibuke ṭakāraḥ  
-  
-95.ṝ21d kīṭe ḍakāro nṛghaṭe dakāraḥ//  
-  
-95.ṝ22a vṛṣe ghakāro hibuke śakāraḥ  
-  
-95.ṝ22b kīṭe jhakāro nṛghaṭe bhakāraḥ/  
-  
-95.ṝ22c lagne jakāro hibuke ukāraḥ  
-  
-95.ṝ22d kīṭe ṅakāro nṛghaṭe makāraḥ//  
-  
-95.ṝ23a lagne ḍhakāro +atha jale ṇakāraś  
-  
-95.ṝ23b cāste dhakāro +ambarage nakāraḥ/  
-  
-95.ṝ23c vṛṣe ṣakāro hibuke cakāraḥ  
-  
-95.ṝ23d kīṭe pakāro nṛghaṭe kakāraḥ//  
-  
-95.ṝ24a ūkāram āhur vṛṣabhe jale kham  
-  
-95.ṝ24b aste phakāro nṛghaṭe chakāraḥ/  
-  
-95.ṝ24c antye vṛṣe ṭam tam uśanti siṃhe  
-  
-95.ṝ24d thaṃ saptage ṭhaṃ pravadanti kumbhe//  
-  
-95.ṝ25a dvimūrtisaṃjñe mithune jakārāḥ  
-  
-95.ṝ25b ṣaṣṭhe bakāraḥ prathamāṃśake syāt/  
-  
-95.ṝ25c dhanurdhare +astopagate gakāro  
-  
-95.ṝ25d mīnadvaye cāmbarage sakāraḥ//  
-  
-95.ṝ26a lagne ghakāro hibuke bhakāraś  
-  
-95.ṝ26b cāste jhakāro +ambaramadhyage ī/  
-  
-95.ṝ26c lagne dakāro hibuke dhakāram  
-  
-95.ṝ26d aste ḍakāraṃ vidur ambare ḍham//  
-  
-95.ṝ27a lagne makāro hibuke ṅakāraś  
-  
-95.ṝ27b aste hakāro +ambarage ñakāraḥ/  
-  
-95.ṝ27c lagne pakāro jalage cakāra  
-  
-95.ṝ27d aikāram aste +ambarage kakāraḥ//  
-  
-95.ṝ28a prāglagne naṃ jalage ṇam āhur  
-  
-95.ṝ28b astaṃ gate ṭaṃ nabhasi sthite tam/  
-  
-95.ṝ28c prāglagnage khaṃ jalage yam āhur  
-  
-95.ṝ28d astaṃ gate chaṃ nabhasi sthite pham//  
-  
-95.ṝ29a lagne jam okāram athāmbusaṃsthe  
-  
-95.ṝ29b gam astasaṃsthe vidur ambare bam/  
-  
-95.ṝ29c ṭhaṃ lagnage +antye hibukāśrite ḍaṃ  
-  
-95.ṝ29d tham astage daṃ nabhasi sthite vai//  
-  
-95.ṝ30a evaṃ vikalpo +akṣara^saṃgraho +ayaṃ  
-  
-95.ṝ30b nāmnāṃ niruddiṣṭa^vidhāna uktaḥ/  
-  
-95.ṝ30c sarveṣu lagneṣu ca ke cid evam  
-  
-95.ṝ30d icchanti pūrva^ukta^vidhānavat tu//  
-  
-95.ṝ31a kendrāṇi vā kendra^gata^aṃśakaiḥ svaiḥ  
-  
-95.ṝ31b pṛthak pṛthak saṃguṇitāni kṛtvā/  
-  
-95.ṝ31c trikṛd^vibhaktaṃ vidur akṣaraṃ tat  
-  
-95.ṝ31d kṣetra^īśvarasya^amśa^parikrama^svam//  
-  
-95.ṝ32a saṃcintita^prārthita^nirgateṣu  
-  
-95.ṝ32b naṣṭa^kṣata^strī^rati^bhojaneṣu/  
-  
-95.ṝ32c svapna^ṛkṣa^cintā^puruṣādi^vargeṣv  
-  
-95.ṝ32d eteṣu nāmāny upalakṣayeta  
-  
-95.14a dvyakṣaraṃ cara^gṛha^aṃśaka^udaye  
-  
-95.14b nāma cāsya catur^akṣaraṃ sthire/  
-  
-95.14c nāmayugmam api ca dvimūrtiṣu  
-  
-95.14d tryakṣaraṃ bhavati ca^asya pañcabhiḥ//  
-  
-95.15a ka^ādyās tu vargāḥ kuja^śukra^saumya^  
-  
-95.15b jīva^arkajānāṃ kramaśaḥ pradiṣṭāḥ/  
-  
-95.15c varṇa^aṣṭakaṃ ya^ādi ca śītaraśme  
-  
-95.15d raver a^kārāt kramaśaḥ svarāḥ syuḥ//  
-  
-95.16a nāmāni ca^agny^ambu^kumāra^viṣṇu^  
-  
-95.16b śakra^indrapatnī^caturānanānām/  
-  
-95.16c tulyāni sūryāt kramaśo vicintya  
-  
-95.16d dvi^try^ādi^varṇair ghaṭayet svabuddhyā//  
-  
-95.17a vayāṃsi teṣām stana^pāna^bālya^  
-  
-95.17b vrata^sthitā yauvana^madhya^vṛddhāḥ/  
-  
-95.17c atīva^vṛddhā iti candra^bhauma^  
-  
-95.17d jña^śukra^jīva^arka^śanaiścarāṇām//  
-  
-  
-  
-                   96 pākādhyāyaḥ  
-  
-  
-  
-96.01ab/ pakṣād bhānoḥ somasya māsiko +aṅgārakasya vaktra^uktaḥ/  
-  
-96.01cd/ ādarśanāc ca pāko budhasya jīvasya varṣeṇa//  
-  
-96.02ab/ ṣaḍbhiḥ sitasya māsair abdena śaneḥ suradviṣo +abdārdhāt/  
-  
-96.02cd/ varṣāt sūryagrahaṇe sadyaḥ syāt tvāṣṭra^kīlakayoḥ//  
-  
-96.03ab/ tribhir eva dhūmaketor māsaiḥ śvetasya saptarātra^ante/  
-  
-96.03cd/ saptāhāt pariveṣa^indracāpa^sandhyā^abhrasūcīnām//  
-  
-96.04ab/ śīta^uṣṇa^viparyāsaḥ phala^puṣpam akālajaṃ diśāṃ dāhaḥ/  
-  
-96.04cd/ sthira^carayor anyatvaṃ prasūti^vikṛtiś ca ṣaṇ^māsāt//  
-  
-96.05ab/ akriyamāṇaka^karaṇaṃ bhūkampo +anutsavo duriṣṭaṃ ca/  
-  
-96.05cd/ śoṣaś ca^aśoṣyāṇāṃ sroto +anyatvaṃ ca varṣa^ardhāt//  
-  
-96.06ab/ stambha^kusūla^arcānāṃ jalpita^rudita^prakampita^svedāḥ/  
-  
-96.06cd/ māsa^trayeṇa kalaha^indracāpa^nirghāta^pākāś ca//  
-96.07ab/ kīṭa^ākhu^makṣika^uraga^bāhulyaṃ mṛga^vihaṅga^virutaṃ ca/  
-  
-96.07cd/ loṣṭasya cāpsu taraṇaṃ tribhir eva vipacyate māsaiḥ//  
-  
-96.08ab/ prasavaḥ śunām araṇye vanyānāṃ grāma^sampraveśaś ca/  
-  
-96.08cd/ madhunilaya^toraṇa^indradhvajāś ca varṣāt samadhikād vā//  
-  
-96.09ab/ gomāyu^gṛdhra^saṃghā daśa^ahikāḥ sadya eva tūrya^ravaḥ/  
-  
-96.09cd/ ākruṣṭaṃ pakṣa^phalaṃ valmīko vidaraṇaṃ ca bhuvaḥ//  
-  
-96.10ab/ ahutāśa^prajvalanaṃ ghṛta^taila^vasā^ādi^varṣaṇaṃ ca^api/  
-  
-96.10cd/ sadyaḥ paripacyante māse +adhyardhe ca janavādaḥ//  
-  
-96.11ab/ chatra^citi^yūpa^hutavaha^bījānāṃ saptabhir bhavati pakṣaiḥ/  
-  
-96.11cd/ chatrasya toraṇasya ca kecin māsāt phalaṃ prāhuḥ //  
-  
-96.12ab/ atyanta^viruddhānāṃ snehaḥ śabdaś ca viyati bhūtānām/  
-  
-96.12cd/ mārjāra^nakulayor mūṣakeṇa saṅgaś ca māsena//  
-  
-96.13ab/ gandharvapuraṃ māsād rasa^vaikṛtyaṃ hiraṇya^vikṛtiś ca/  
-  
-96.13cd/ dhvaja^veśma^pāṃśu^dhūma^ākulā diśaś ca^api māsa^phalāḥ//  
-  
-96.14ab/ navaka^eka^aṣṭa^daśaka^eka^ṣaṭ^trika^trika^saṅkhya^māsa^pākāni/  
-  
-96.14cd/ nakṣatrāṇy aśvinipūrvakāṇi sadyaḥ phala^āśleṣā//  
-  
-96.15ab/ pitryān māsaḥ ṣaṭ saṭ^trayo +ardham aṣṭau ca tri^ṣaḍ^eka^ekāḥ/  
-  
-96.15cd/ māsa^catuṣke +aṣāḍhe sadyaḥ pāka^abhijittārā//  
-  
-96.16ab/ sapta^aṣṭav adhyardhaṃ trayas trayaḥ pañca ca^eva māsāḥ syuḥ/  
-  
-96.16cd/ śravaṇa^ādīnāṃ pāko nakṣatrāṇāṃ yathāsaṅkhyam//  
-  
-96.17a nigadita^samaye na dṛśyate ced  
-  
-96.17b adhikataraṃ dviguṇe prapacyate tat/  
-  
-96.17c yadi na kanaka^ratna^go^pradānair  
-  
-96.17d upaśamitaṃ vidhivad dvijaiś ca śāntyā//  
-  
-  
-  
-                   97 nakṣatrakarmaguṇādhyāyaḥ  
-  
-  
-  
-97.01ab/ śikhi^guṇa^rasa^indriya^anala^śaśi^viṣaya^guṇa^ṛtu^pañca^vasu^pakṣāḥ/  
-  
-97.01cd/ viṣaya^eka^candra^bhūta^arṇava^agni^rudra^aśvi^vasu^dahanāḥ//  
-  
-97.02ab/ bhūta^śata^pakṣa^vasavo dvātriṃśac ca^iti tārakā^mānam/  
-  
-97.02cd/ kramaśo +aśviny^ādīnāṃ kālas tārā^pramāṇena//  
-  
-97.03ab/ nakṣatrajam udvāhe phalam abdais tārakā^mitaiḥ sadasat/  
-  
-97.03cd/ divasair jvarasya nāśo vyādher anyasya vā vācyaḥ//  
-  
-97.04ab/ aśvi^yama^dahana^kamalaja^śaśi^śūlabhṛd^aditi^jīva^phaṇi^pitaraḥ/  
-  
-97.04cd/ yony^aryama^dinakṛt^tvaṣṭṛ^pavana^śakrāgni^mitrāś ca//  
-  
-97.05ab/ śakro nirṛtis toyaṃ viśve brahmā harir vasur varuṇaḥ/  
-  
-97.05cd/ ajapādo +ahirbudhnyaḥ pūṣā cetīśvarā bhānām//  
-  
-97.06ab/ trīṇy uttarāṇi tebhyo rohiṇyaś ca dhruvāṇi taiḥ kuryāt/  
-  
-97.06cd/ abhiṣeka^śānti^taru^nagara^dharma^bīja^dhruva^ārambhān//  
-  
-97.07ab/ mūla^śiva^śakra^bhujaga^adhipāni tīkṣṇāni teṣu siddhyanti/  
-97.07cd/ abhighāta^mantra^vetāla^bandha^vadha^bheda^saṃbandhāḥ//  
-  
-97.08ab/ ugrāṇi pūrva^bharaṇī^pitryāṇy utsāda^nāśa^śāṭhyeṣu/  
-  
-97.08cd/ yojyāni bandha^viṣa^dahana^śastra^ghāta^ādiṣu ca siddhyai//  
-  
-97.09ab/ laghu hasta^aśvina^puṣyāḥ paṇya^rati^jñāna^bhūṣaṇa^kalāsu/  
-  
-97.09cd/ śilpa^auṣadha^yāna^ādiṣu siddhikarāṇi pradiṣṭāni//  
-  
-97.10ab/ mṛdu^vargo[K.mṛduvargas tv] +anūrādhā^citrā^pauṣṇa^aindavāni mitrārthe/  
-  
-97.10cd/ suratavidhi^vastra^bhūṣaṇa^maṅgala^gīteṣu ca hitāni//  
-  
-97.11ab/ hautabhujaṃ saviśākhaṃ mṛdu^tīkṣṇam tad^vimiśra^phala^kāri/  
-  
-97.11cd/ śravaṇatrayam āditya^ānile ca carakarmaṇi hitāni//  
-  
-97.12a hasta^trayaṃ mṛgaśiraḥ śravaṇa^trayaṃ[K.śravanāttrayaṃ] ca  
-  
-97.12b pūṣa^aśvi^śakra^guru^bhāni punarvasuś ca/  
-  
-97.12c kṣaure tu karmaṇi hitāny udaye kṣaṇe vā  
-  
-97.12d yuktāni ca^uḍupatinā śubhatārayā ca//  
-  
-97.13a na snātamātra^gamana^unmukha[K.utsuka]^bhūṣitānām  
-  
-97.13b abhyakta^bhukta^raṇakāla^nirāsanānām/  
-  
-97.13c sandhyā^*niśā^śani^kuja^arka^tithau[K.niśoḥ kujayamārkadine] ca rikte  
-  
-97.13d kṣauraṃ hitaṃ na navame +ahni na ca^api viṣṭyām//  
-  
-97.14ab/ nṛpājñayā brāhmaṇa^sammate ca vivāhakāle mṛtasūtake ca/  
-  
-97.14cd/ baddhasya mokṣe kratu^dīkṣaṇāsu sarveṣu śastaṃ kṣurakarma bheṣu//  
-  
-[K.one verse inserted  
-  
-K.98.15ab/ hasto mūlaṃ śravaṇā punarvasur mṛgaśiras tathā puṣyaḥ/  
-  
-K.98.15cd/ puṃsañjñiteṣu kāryeṣv etāni śubhāni dhiṣṇyāni//]  
-  
-97.15ab/ sāvitra^pauṣṇa^anila^maitra^tiṣya^tvāṣṭre tathā ca^uḍugaṇādhipa^ṛkṣe/  
-  
-97.15cd/ saṃskāra^dīkṣā^vrata^mekhalādi kuryād gurau śukra^budha^induyukte//  
-  
-[K.one verse inserted  
-  
-K.98.17ab/ lābhe tṛtīye ca śubhaiḥ samete pāpair vihīne śubharāśilagne/  
-  
-K.98.17cd/ vedhyau tu karṇau tridaśejyalagne tiṣyenducitrāharirevatīṣu//]  
-  
-97.16a śuddhair dvādaśa^kendra^naidhanagṛhaiḥ pāpais triṣaṣṭhāyagair  
-  
-97.16b lagne kendragate +atha vā suragurau daitya^indrapūjye +api vā/  
-  
-97.16c sarva^ārambha^phala^prasiddhir udaye rāśau ca kartuḥ śubhe  
-  
-97.16d sagrāmya^sthira^bha^udaye ca bhavanaṃ kāryaṃ praveśo +api vā//  
-  
-  
-  
-                   98  tithikarmaguṇādhyāyaḥ  
-  
-  
-  
-98.01ab/ kamalaja^vidhātṛ^hari^yama^śaśāṅka^ṣaḍvaktra^śakra^vasu^bhujagāḥ/  
-  
-98.01cd/ dharma^īśa^savitṛ^manmatha^kalayo viśve ca tithipatayaḥ//  
-  
-98.02ab/ pitaro +amāvasyāyāṃ saṃjñāsadṛśāśca taiḥ kriyāḥ kāryāḥ/  
-  
-98.02cd/ nandā bhadrā vijayā riktā pūrṇā ca tās trividhāḥ//  
-  
-98.03ab/ yat kāryaṃ nakṣatre taddaivatyāsu tithiṣu tat kāryam/  
-  
-98.03cd/ karaṇamuhūrteṣv api tat siddhikaraṃ devatāsadṛśam//  
-  
-  
-  
-                   99 karaṇaguṇādhyāyaḥ  
-  
-  
-  
-99.01ab/ vava^vālava^kaulava[K.bavabālavakaulaba]^taitila^ākhya^gara^vaṇija^viṣṭisaṃjñānām/  
-  
-99.01cd/ patayaḥ syur indra^kamalaja^mitra^aryama^bhū^śriyaḥ sayamāḥ//  
-  
-99.02ab/ kṛṣṇa^caturdaśyardhād dhuvāṇi[K.ū.dhruvāṇi] śakuniś catuṣpadaṃ nāgam/  
-  
-99.02cd/ kiṃstughnam iti ca teṣāṃ kali^vṛṣa^phaṇi^mārutāḥ patayaḥ//  
-  
-99.03a kuryād vave[K.bave] śubha^cara^sthira^pauṣṭikāni  
-  
-99.03b dharmakriyā^dvija^hitāni ca vālava[K.bālava]^ākhye/  
-  
-99.03c samprīti^mitra^varaṇāni ca kaulave[K.kaulabe] syuḥ  
-  
-99.03d saubhāgya^saṃśraya^gṛhāṇi ca taitila^ākhye//  
-  
-99.04a kṛṣi^bīja^gṛha^āśraya^jāni gare  
-  
-99.04b vaṇiji dhuva[K.dhruva]^kārya^vaṇig^yutayaḥ/  
-  
-99.04c na hi viṣṭikṛtaṃ vidadhāti śubhaṃ  
-  
-99.04d para^ghāta^viṣa^ādiṣu siddhikaram//  
-  
-99.05a kāryaṃ pauṣṭikam auṣadhādi śakunau mūlāni mantrās tathā  
-  
-99.05b gokāryāṇi catuṣpade dvijapitṛn uddiśya rājyāni ca/  
-  
-99.05c nāge sthāvara^dāruṇāni haraṇaṃ daurbhāgya^karmāṇy ataḥ  
-  
-99.05d kiṃstughne śubham iṣṭi[K.iṣṭa]puṣṭikaraṇaṃ maṅgalya^siddhi^kriyāḥ//  
-  
-99.06ab[K.omitted]/ lābhe tṛtīye ca śubhaiḥ samete pāpair vihīne śubharāśilagne/  
-  
-99.06cd[K.omitted]/ vedhyau ca karṇāv amarejyalagne puṣya^indu^citrā^hari^pauṣṇa^bheṣu//  
-  
-99.07a rohiṇy^uttara^revatī^mṛgaśiro^mūla^anurādhā^maghā^  
-  
-99.07b hasta^svātiṣu ṣaṣṭha^tauli^mithuneṣu^udyatsu pāṇi^grahaḥ/  
-  
-99.07c sapta^aṣṭa^antya^bahiḥśubhair uḍupatāv ekādaśa^dvi^trige  
-  
-99.07d krūrais tryāyaṣaḍaṣṭagair na tu bhṛgau ṣaṣṭhe kuje ca^aṣṭame//  
-  
-99.08a dampatyor dvi^nava^aṣṭa^rāśi^rahite cāra^anukule ravau  
-  
-99.08b candre ca^arka^kuja^arki^śukra^viyute madhye +atha vā pāpayoḥ/  
-  
-99.08c tyaktvā ca vyatipāta^vaidhṛti[K.vaidhṛta]^dinaṃ viṣṭiṃ ca riktāṃ tithiṃ  
-  
-99.08d krūrāhāyana^pauṣa^caitra[K.caitrapauṣa]^virahe lagna^aṃśake mānuṣe//  
-  
-  
-  
-                   100 nakṣatrajātakādhyāyaḥ  
-  
-  
-  
-100.01ab/ priyabhūṣaṇaḥ svarūpaḥ[K.surūpaḥ] subhago dakṣo +aśvinīṣu matimāṃś ca/  
-  
-100.01cd/ kṛtaniścaya^satya^arug^dakṣaḥ sukhitaś ca bharaṇīṣu//  
-  
-100.02ab/ bahubhuk paradāraratas tejasvī kṛttikāsu vikhyātaḥ/  
-  
-100.02cd/ rohiṇyāṃ satya^śuciḥ priyaṃvadaḥ *sthiraḥ svarūpaś ca[K.sthirasurūpaś ca]//  
-  
-100.03ab/ capalaś caturo bhīruḥ paṭur utsāhī dhanī mṛge bhogī/  
-  
-100.03cd/ śaṭha^garvita^caṇḍa^kṛtaghna^hiṃsra^pāpaś ca raudra^ṛkṣe//  
-  
-100.04ab/ dāntaḥ sukhī suśīlo durmedhā rogabhāk pipāsuś ca/  
-  
-100.04cd/ alpena ca santuṣṭaḥ punarvasau jāyate manujaḥ//  
-  
-100.05ab/ śāntātmā subhagaḥ paṇḍito dhanī dharma^saṃśritaḥ puṣye/  
-  
-100.05cd/ śaṭha^sarva^bhakṣakṣya[K.bhakṣa][U.bhakṣya]^pāpaḥ kṛtaghna^dhūrtaś ca bhaujaṅge//  
-  
-100.06ab/ bahubhṛtya^dhanī bhogī sura^pitṛ^bhakto mahodyamaḥ pitrye/  
-  
-100.06cd/ priyavāg dātā dyutimān aṭano nṛpa^sevako bhāgye//  
-  
-100.07ab/ subhago vidyā^āptadhano bhogī sukhabhāg dvitīyaphalgunyām/  
-  
-100.07cd/ utsāhī dhṛṣṭaḥ pānapo +aghṛṇī taskaro haste//  
-  
-100.08ab/ citrā^ambara^mālya^dharaḥ sulocanāṅgaś ca citrāyām[K.bhavati citrāyām]/  
-  
-100.08cd/ dānto vaṇik tṛṣāluḥ[K.kṛpāluḥ] priyavāg dharmāśritaḥ svātau//  
-  
-100.09ab/ īrṣur[K.irṣyur] lubdho dyutimān vacanapaṭuḥ kalahakṛd viśākhāsu//  
-  
-100.09cd/ āḍhyo videśavāsī kṣudhālur aṭano +anurādhāsu//  
-  
-100.10ab/ jyeṣṭhāsu na bahumitraḥ santuṣṭo dharmakṛt pracurakopaḥ/  
-  
-100.10cd/ mūle mānī dhanavān sukhī na hiṃsraḥ sthiro bhogī//  
-  
-100.11ab/ iṣṭā^nanda^kalatro vīro dṛḍha^sauhṛdaś ca jaladeve/  
-  
-100.11cd/ vaiśve vinīta^dhārmika^bahu^mitra^kṛtajña^subhagaś ca//  
-  
-100.12ab/ śrīmān śravaṇe śrutavān udāra^dāro dhana^anvitaḥ khyātaḥ/  
-  
-100.12cd/ dātā^āḍhya^śūra^gītapriyo dhaniṣṭhāsu dhana^lubdhaḥ//  
-  
-100.13ab/ sphuṭavāg vyasanī ripuhā sāhasikaḥ śatabhiṣaksu durgrāhyaḥ/  
-  
-100.13cd/ bhadrapadāsu^udvignaḥ strījita^dhana^paṭur adātā ca//  
-  
-100.14ab/ vaktā sukhī prajāvān jitaśatrur dhārmiko dvitīyāsu//  
-  
-100.14cd/ sampūrṇa^aṅgaḥ subhagaḥ śūraḥ śucir arthavān pauṣṇe//  
-  
-  
-  
-                   101 rāśivibhāgādhyāyaḥ  
-  
-  
-  
-101.01ab/ aśvinyo +atha bharaṇyo bahulāpādaś ca kīrtyate meṣaḥ/  
-  
-101.01cd/ vṛṣabho bahulāśeṣaṃ rohiṇyo +ardham ca mṛgaśirasaḥ//  
-  
-101.02ab/ mṛgaśiro +ardhaṃ raudraṃ punarvasor[K.punarvasor ca] aṃśakatrayaṃ mithunaḥ[K.mithunam]/  
-  
-101.02cd/ pādaś ca *punarvasutas tiṣyaḥ śleṣā[K.punarvasoḥ satiṣyo +aśleṣā] ca karkaṭakaḥ//  
-  
-101.03ab/ siṃho +atha maghā pūrvā ca phalgunī pāda uttarāyāś ca/  
-  
-101.03cd/ tatpariśeṣaṃ hastaś citrādyardhaṃ ca kanyākhyaḥ//  
-  
-101.04ab/ taulini citrāntyārdhaṃ svātiḥ pādatrayaṃ viśākhāyāḥ/  
-  
-101.04cd/ alini viśākhāpādas tathānurādhānvitā jyeṣṭhā//  
-  
-101.05ab/ mūlam aṣāḍhā pūrvā prathamaś ca^apy uttarāṃśako dhanvī/  
-  
-101.05cd/ makaras tatpariṣeśaṃ śravaṇaḥ pūrvaṃ dhaniṣṭhārdham//  
-  
-101.06ab/ kumbho +antyadhaniṣṭhārdhaṃ śatabhiṣagaṃśatrayaṃ ca pūrvāyāḥ/  
-  
-101.06cd/ bhadrapadāyāḥ śeṣaṃ tathottarā revatī ca jhaṣaḥ//  
-  
-101.07ab/ aśvinī^pitrya^mūla^ādyā meṣa^siṃha^haya^ādayaḥ/  
-  
-101.07cd/ viṣama^ṛkṣān nivartante pāda^vṛddhyā yathottaram//  
-  
-  
-  
-                   102  vivāhapaṭalādhyāyaḥ  
-  
-  
-  
-102.01a mūrtau karoti dinakṛd vidhavāṃ kujaś ca  
-  
-102.01b rāhur vipanna^tanayāṃ ravijo daridrām/  
-  
-102.01c śukraḥ śaśāṅka^tanayaś ca guruś ca sādhvīm  
-  
-102.01d āyuḥkṣayaṃ prakurute +atha vibhāvarīśaḥ//  
-  
-102.02a kurvanti bhāskara^śanaiścara^rāhu^bhaumā  
-  
-102.02b dāridrya^duḥkham atulaṃ niyataṃ dvitīye/  
-  
-102.02c vitteśvarīm avidhavāṃ guru^śukra^saumyā  
-  
-102.02d nārīṃ prabhūta^tanayāṃ kurute śaśāṅkaḥ//  
-  
-102.03a sūrya^indu^bhauma^guru^śukra^budhās tṛtīye  
-  
-102.03b kuryuḥ sadā bahusutāṃ dhanabhāginīṃ ca/  
-  
-102.03c vyaktāṃ[K.vyaktaṃ] divākarasutaḥ subhagāṃ karoti  
-  
-102.03d mṛtyuṃ dadāti niyamāt khalu saiṃhikeyaḥ//  
-  
-102.04a svalpaṃ payaḥ sravati sūryasute caturthe  
-  
-102.04b daurbhāgyam uṣṇa^kiraṇaḥ kurute śaśī ca/  
-  
-102.04c rāhuḥ sapatnanam[K.sapatnyam ū.sapatnam] api ca kṣitijo +alpavittaṃ[K.alpavittāṃ]  
-  
-102.04d dadyād bhṛguḥ suraguruś ca budhaś ca saukhyam//  
-  
-102.05a naṣṭātmajāṃ ravikujau khalu pañcamasthe[K.pañcamasthau]  
-  
-102.05b candrātmajo bahusutā gurubhārgavau ca/  
-  
-102.05c rāhur dadāti maraṇaṃ śanir ugrarogaṃ  
-  
-102.05d kanyā^*vināśam[K.prasūtim] acirāt kurute śaśāṅkaḥ//  
-  
-102.06a ṣaṣṭha^āśritāḥ śani^divākara^rāhu^jīvāḥ  
-  
-102.06b kuryuḥ kujaś ca subhagāṃ śvaśureṣu bhaktām/  
-  
-102.06c candraḥ karoti vidhavām uśanā daridrām  
-  
-102.06d ṛddhāṃ śaśāṅka^tanayaḥ kalahapriyāṃ ca//  
-102.07a saura^āra^jīva^budha^rāhu^ravi^indu^śukrāḥ  
-  
-102.07b kuryuḥ prasahya khalu saptamarāśi^saṃsthāḥ/  
-  
-102.07c vaidhavya^bandhana^vadha^kṣayam arthanāśa^  
-  
-102.07d vyādhi^pravāsa^maraṇāni yathākrameṇa//  
-  
-102.08a sthāne +aṣṭame gurubudhau niyataṃ viyogaṃ  
-  
-102.08b mṛtyuṃ śaśī bhṛgusutaś ca tatha^eva rāhuḥ/  
-  
-102.08c sūryaḥ karoty avidhavāṃ sarujāṃ[K.sarujaṃ] mahījaḥ  
-  
-102.08d sūryātmajo dhanavatīṃ pativallabhāṃ ca//  
-  
-102.09a dharme sthitā bhṛgu^divākara^bhūmiputrā  
-  
-102.09b jīvaś ca dharmaniratāṃ śaśijas tv arogām/  
-  
-102.09c rāhuś ca sūryatanayaś ca karoti bandhyāṃ[K.vandhyāṃ]  
-  
-102.09d kanyāprasūtim aṭanāṃ[K.aṭanaṃ] kurute śaśāṅkaḥ//  
-  
-102.10a rāhur nabhaḥsthala^gato[K.nabhasthalagato] vidhavāṃ karoti  
-  
-102.10b pāpe ratāṃ dinakaraś ca śanaiścaraś ca/  
-  
-102.10c mṛtyuṃ kujo +artharahitāṃ kulaṭāṃ ca candraḥ  
-  
-102.10d śeṣā grahā dhanavatīṃ subhagāṃ ca kuryuḥ//  
-  
-102.11a āye ravir bahusutāṃ sadhanāṃ[K.dhaninīṃ] śaśāṅkaḥ  
-  
-102.11b putra^anvitāṃ kṣitisuto ravijo dhanāḍhyām/  
-  
-102.11c āyuṣmatīṃ suraguruḥ śaśijaḥ samṛddhāṃ  
-  
-102.11d rāhuḥ karoty avidhavāṃ bhṛgur arthayuktām//  
-  
-102.12a ante gurur dhanavatīṃ dinakṛd daridrāṃ  
-  
-102.12b candro dhana^vyaya^karīṃ kulaṭāṃ ca rāhuḥ/  
-  
-102.12c sādhvīṃ bhṛguḥ śaśisuto bahu^putra^pautrāṃ  
-  
-102.12d pāna^prasakta^hṛdayām ravijaḥ kujaś ca//  
-  
-102.13a gopair yaṣṭy^āhatānāṃ khura^puṭa^dalitā yā tu dhūlir dinānte  
-  
-102.13b sodvāhe sundarīṇāṃ vipula^dhana^suta^ārogya^saubhāgya^kartrī/  
-  
-102.13c tasmin kāle na ca^ṛkṣaṃ na ca tithi^karaṇaṃ naiva lagnaṃ na yogaḥ  
-  
-102.13d khyātaḥ puṃsāṃ sukhārthaṃ śamayati duritāny utthitaṃ gorajas tu//  
-  
-  
-  
-                   103 grahagocarādhyāyaḥ  
-  
-  
-  
-103.01ab/ prāyeṇa sūtreṇa vinākṛtāni prakāśa^randhrāṇi cirantanāni/  
-  
-103.01cd/ ratnāni śāstrāṇi ca yojitāni navair guṇair bhūṣayituṃ kṣamāṇi//  
-  
-103.02ab/ prāyeṇa gocaro vyavahāryo +atas tatphalāni vakṣyāmi/  
-  
-103.02cd/ nānāvṛttair āryā[K.tanno] mukhacapalatvaṃ *kṣamadhvaṃ naḥ [K.kṣamantv āryāḥ]//  
-  
-103.03ab/ māṇḍavya^giraṃ śrutvā na madīyā rocate +atha vā naivam/  
-  
-103.03cd/ sādhvī tathā na puṃsāṃ priyā yathā syāj jaghanacapalā//  
-  
-103.04a sūryaḥ ṣaṭ^tri^daśa^sthitas tri^daśa^ṣaṭ^saptādyagaś candramā  
-  
-103.04b jīvaḥ sapta^nava^dvi^pañcama^gato vakra^arkajau ṣaṭtrigau/  
-  
-103.04c saumyaḥ ṣaḍ^dvi^catur^daśa^aṣṭama^gataḥ sūrye[K.ū.sarve] +apy upānte śubhāḥ  
-  
-103.04d śukraḥ saptama^ṣaḍ^daśa^ṛkṣa^sahitaḥ śārdūlavat trāsakṛt//  
-  
-103.05a janmany āyāsado +arkaḥ kṣapayati vibhavān koṣṭharoga^adhva^dātā  
-  
-103.05b vitta^bhraṃśaṃ dvitīye diśati ca na sukhaṃ vañcanāṃ dṛgrujaṃ ca/  
-  
-103.05c sthānaprāptiṃ tṛtīye *dhana^nicaya^mudā kalya^kṛc[K.dhananicayamudākalyakṛc] ca^ari^hartā[K.hantā]  
-  
-103.05d rogān datte[K.dhatte] caturthe janayati ca muhuḥ sragdharā^bhoga^vighnam//  
-  
-103.06a pīḍāḥ syuḥ pañcamasthe savitari bahuśo roga^ari^janitāḥ  
-  
-103.06b ṣaṣṭhe +arko hanti rogān kṣapayati ca ripūn śokāṃś ca nudati/  
-  
-103.06c adhvānaṃ saptamastho jaṭhara^gada^bhayaṃ dainyaṃ ca kurute/  
-  
-103.06d ruk^trāsau[K.rukkāsau] ca^aṣṭamasthe bhavati suvadanā na svāpi vanitā//  
-  
-103.07a ravāv āpaddainyaṃ rug iti navame vitta[K.citta]ceṣṭāvirodho  
-  
-103.07b jayaṃ prāpnoty ugraṃ daśama^gṛhage karma^siddhiṃ krameṇa/  
-  
-103.07c jaya^sthānaṃ[K.jayaṃ sthānaṃ] mānaṃ vibhavam api ca^ekādaśe roganāśaṃ  
-  
-103.07d suvṛttānāṃ ceṣṭā bhavati saphalā dvādaśe na^itareṣām//  
-  
-103.08a śaśī janmany anna^pravara^śayana^ācchādana^karo  
-  
-103.08b dvitīye mānārthān[K.mānārthau] glapayati savighnaś ca bhavati/  
-  
-103.08c tṛtīye vastra^strī^dhana^vijaya[K.nicaya]saukhyāni labhate  
-  
-103.08d caturthe +aviśvāsaḥ śikhariṇi bhujaṅgena sadṛśaḥ//  
-  
-103.09a dainyaṃ vyādhiṃ śucam api śaśī pañcame mārgavighnaṃ  
-  
-103.09b ṣaṣṭhe vittaṃ janayati sukhaṃ śatrurogakṣayaṃ ca/  
-  
-103.09c yānaṃ mānaṃ śayanam aśanaṃ saptame vittalābhaṃ  
-  
-103.09d mandākrānte phaṇini himagau ca aṣṭame bhīr na kasya//  
-  
-103.10a navama^gṛhago bandha^udvega^śrama^udararogakṛd  
-  
-103.10b daśama^bhavane ca ājñā^karma^prasiddhi^karaḥ *śaśī[K.omitted]/  
-  
-103.10c upacaya^suhṛtsaṃyoga^arthapramodam upāntyago  
-  
-103.10d vṛṣabha^caritān doṣān antye[K.ante] karoti ca[K.hi] savyayān//  
-  
-103.11ab/ kuje +abhighātaḥ prathame dvitīye narendrapīḍā kalahāridoṣaiḥ/  
-  
-103.11cd/ bhṛśaṃ ca pitta^anala^*caura^rogair[K.rogacaurair] upendravajra^pratimo +api yaḥ syāt//  
-  
-103.12a tṛtīyagaś caura^kumārakebhyo  
-  
-103.12b bhaumaḥ sakāśāt phalam ādadhāti/  
-  
-103.12c pradīptim ājñāṃ dhanam aurṇikāni  
-  
-103.12d dhātv^ākara^ākhyāni kila aparāṇi//  
-  
-103.13ab/ bhavati dharaṇije caturthage jvara^jaṭhara^gada^asṛg^udbhavaḥ/  
-  
-103.13cd/ kupuruṣa^janitāc ca saṅgamāt prasabham api karoti ca aśubham//  
-  
-103.14a ripu^gada^kopa^bhayāni pañcame  
-  
-103.14b tanayakṛtāś ca śuco mahīsute/  
-  
-103.14c dyutir api na asya ciraṃ bhavet sthirā  
-  
-103.14d śirasi kaper iva mālatī yathā[K.kṛtā]//  
-  
-103.15ab/ ripu^bhaya^kalahair vivarjitaḥ sakanaka^vidruma^tāmra^*kāmagaḥ[K.kāgamaḥ ū.cāgama]/  
-  
-103.15cd/ ripubhavana^gate mahīsute kim aparavaktra^vikāram īkṣate//  
-  
-103.16a kalatra^kalaha^akṣi^rug^jaṭhararoga^kṛt saptame  
-  
-103.16b kṣarat^kṣataja^rūkṣitaḥ kṣapita[K.kṣayita]^vitta^māno +aṣṭame/  
-  
-103.16c kuje navama^saṃsthite paribhava^arthanāśa^ādibhir  
-  
-103.16d vilambitagatir bhavaty abala^deha^dhātu^klamaiḥ//  
-  
-103.17ab/ daśama^gṛhagate samaṃ mahīje vividha^dhana^āptir upāntyage jayaś ca/  
-  
-103.17cd/ janapadam upari sthitaś ca bhuṅkte vanam iva ṣaṭcaraṇaḥ supuṣpita^agram//  
-  
-103.18a nānāvyayair dvādaśage mahīsute  
-  
-103.18b santāpyate +anartha^śataiś ca mānavaḥ/  
-  
-103.18c strī^kopa^pittaiś ca sanetra^vedanair  
-  
-103.18d yo +api indravaṃśa^abhijanena garvitaḥ//  
-103.19ab/ duṣṭa^vākya^piśuna^ahita^bhedair bandhanaiḥ sakalahaiś ca hṛtasvaḥ/  
-  
-103.19cd/ janmage śaśisute pathi gacchan svāgate +api kuśalaṃ na śṛṇoti//  
-  
-103.20ab/ paribhavo dhanagate dhanalabdhiḥ sahajage śaśisute hṛdaya^āptiḥ[K.ū.suhṛdāptiḥ]/  
-  
-103.20cd/ nṛpati^śatru^bhaya^śaṅkita^*cito[K.citto] drutapadaṃ vrajati duścaritaiḥ svaiḥ//  
-  
-103.21a caturthage svajana^kuṭumba^vṛddhayo  
-  
-103.21b dhana^āgamo bhavati ca śītaraśmije/  
-  
-103.21c suta^sthite tanaya^kalatra^vigraho  
-  
-103.21d niṣevate na ca rucirām api striyam//  
-  
-103.22a saubhāgyaṃ vijayam atha unnatiṃ ca ṣaṣṭhe  
-  
-103.22b vaivarṇyaṃ kalaham atīva saptame jñaḥ/  
-  
-103.22c mṛtyusthe jaya^suta[K.sutajaya]^vastra^vitta^lābhā  
-  
-103.22d naipuṇyaṃ bhavati mati^praharṣaṇīyam//  
-  
-103.23ab/ vighnakaro navamaḥ śaśiputraḥ karmagato ripuhā dhanadaś ca/  
-  
-103.23cd/ sapramadaṃ śayanaṃ ca vidhatte tadgṛhado +atha *kathāṃ staraṇaṃ ca[K.kathāstaraṇaṃ]//  
-  
-103.24a dhana^*suta^sukha[K.sukhasuta]^yoṣin^mitra^*vāha[K.vāhya]^āpti^tuṣṭis  
-  
-103.24b tuhinakiraṇa^putre lābhage mṛṣṭa^vākyaḥ/  
-  
-103.24c ripu^paribhava^rogaiḥ pīḍito dvādaśasthe  
-  
-103.24d na sahati paribhoktuṃ mālinī^yoga^saukhyam//  
-  
-103.25a jīve janmany apagata^dhana^dhīḥ  
-  
-103.25b sthāna^bhraṣṭo bahu^kalaha^yutaḥ/  
-  
-103.25c prāpya arthe +arthān vyarir api kurute  
-  
-103.25d kāntā^āsya^abje bhramaravilasitam//  
-  
-103.26a sthāna^bhraṃśāt kārya^vighātāc ca tṛtīye  
-  
-103.26b +anekaiḥ[K.naikaiḥ] kleśair bandhujana^utthaiś ca caturthe/  
-  
-103.26c jīve śāntiṃ pīḍitacittaś ca sa vinded[K.vinden]  
-  
-103.26d naiva grāme nāpi vane matta^mayūre//  
-  
-103.27a janayati ca tanayabhavanam upagataḥ  
-  
-103.27b parijana^śubha^suta^kari^turaga^vṛṣān/  
-  
-103.27c sakanaka^pura^gṛha^yuvati^vasana^kṛn  
-  
-103.27d maṇiguṇanikara^kṛd api vibudha^guruḥ//  
-  
-103.28a na sakhī^vadanaṃ tilakojjvalaṃ  
-  
-103.28b na *ca vanaṃ[K.bhavanaṃ] śikhi^kokila^nāditam/  
-  
-103.28c hariṇa^pluta^śāva^vicitritaṃ  
-  
-103.28d ripugate manasaḥ sukhadaṃ gurau//  
-  
-103.29a tridaśaguruḥ śayanaṃ ratibhogaṃ  
-  
-103.29b dhanam aśanaṃ kusumāny upavāhyam/  
-  
-103.29c janayati saptamarāśim upeto  
-  
-103.29d lalitapadāṃ ca giraṃ dhiṣaṇāṃ ca//  
-  
-103.30a bandhaṃ vyādhim ca^aṣṭame śokam ugraṃ  
-  
-103.30b mārga^*kleśān[K.kleśaṃ] mṛtyu^tulyāṃś ca rogān/  
-  
-103.30c naipuṇyā^ājñā^putra^karma^artha^siddhiṃ  
-  
-103.30d dharme jīvaḥ śālinīnāṃ ca lābham//  
-  
-103.31a sthāna^kalya^dhana^hā daśa^ṛkṣagas  
-  
-103.31b tatprado bhavati lābhago guruḥ/  
-  
-103.31c dvādaśe +adhvani viloma^duḥkha^bhāg  
-  
-103.31d yāti yady api naro rathoddhataḥ//  
-  
-103.32a prathamagṛha^upago bhṛgusutaḥ smara^upakaraṇaiḥ  
-  
-103.32b surabhi^manojña^gandha^kusuma^ambarair upacayam/  
-  
-103.32c śayana^gṛha^āsana^aśana^yutasya ca anukurute  
-  
-103.32d samada^vilāsinī^mukha^saroja^ṣaṭcaraṇatām//  
-  
-103.33a śukre dvitīyagṛhage prasava^artha^dhānya^  
-  
-103.33b bhūpāla^*sannata[K.sannati]^kuṭumba^hitāny avāpya/  
-  
-103.33c saṃsevate kusuma^ratna^vibhūṣitaś ca  
-  
-103.33d kāmaṃ vasantatilaka^dyuti^mūrdhajo +api//  
-  
-103.34ab/ ājñā^artha^māna^āspada^bhūti^vastra^śatru^kṣayān daityagurus tṛtīye/  
-  
-103.34cd/ datte[K.dhatte] caturthaś ca suhṛt^samājaṃ rudra^indra^vajra^pratimāṃ ca śaktim//  
-  
-103.35ab/ janayati śukraḥ pañcamasaṃstho guru^paritoṣaṃ bandhujana^āptim/  
-  
-103.35cd/ suta^dhana^labdhiṃ mitra^sahāyān anavasitatvaṃ ca ari^baleṣu//  
-  
-103.36a ṣaṣṭho bhṛguḥ paribhava^roga^tāpadaḥ  
-  
-103.36b strīhetukaṃ janayati saptamo +aśubham/  
-  
-103.36c yāto +aṣṭamaṃ bhavana^paricchada^prado  
-  
-103.36d lakṣmīvatīm upanayati striyaṃ ca saḥ//  
-  
-103.37a navame tu dharma^vanitā^sukha^bhāg  
-  
-103.37b bhṛguje +artha^vastra^nicayaś ca bhavet/  
-  
-103.37c daśame +avamāna^kalahān niyamāt  
-  
-103.37d pramitākṣarāṇy api vadan labhate//  
-  
-103.38ab/ upāntyago bhṛgo sutaḥ suhṛd^dhana^anna^gandha^daḥ/  
-  
-103.38cd/ dhana^ambara^āgamo +antyagaḥ sthiras tu na^ambara^āgamaḥ//  
-  
-103.39ab/ prathame ravije viṣa^vahni^hataḥ svajanair viyutaḥ kṛta^bandhu^vadhaḥ/  
-  
-103.39cd/ paradeśam upaity asuhṛd^bhavano vimukha^artha^suto +aṭaka^dīna^mukhaḥ//  
-  
-103.40a cāravaśād dvitīyagṛhage dinakara^tanaye  
-  
-103.40b rūpa^sukha^apavarjita^tanur vigata^mada^balaḥ/  
-  
-103.40c anyaguṇaiḥ kṛtaṃ vasucayam tad api khalu bhavaty  
-  
-103.40d ambv iva vaṃśapatrapatitaṃ na bahu na ca ciram//  
-  
-103.41a sūryasute tṛtīyagṛhage dhanāni labhate  
-  
-103.41b dāsa^paricchada^uṣṭra^mahiṣā^aśva^kuñjara^kharān/  
-  
-103.41c sadma^vibhūti^saukhyam amitaṃ gada^vyuparamaṃ  
-  
-103.41d bhīrur api praśāsty adhiripūṃś ca vīra^lalitaiḥ//  
-  
-103.42a caturthaṃ gṛhaṃ sūryaputre +abhyupete  
-  
-103.42b suhṛd^vitta^bhārya^ādibhir viprayuktaḥ/  
-  
-103.42c bhavaty asya sarvatra ca^asādhu duṣṭaṃ  
-  
-103.42d bhujaṅga^prayāta^anukāraṃ ca cittam//  
-  
-103.43a suta^dhana^parihīṇaḥ pañcamasthe  
-  
-103.43b pracura^kalaha^yuktaś ca arkaputre/  
-  
-103.43c vinihata^ripu^rogaḥ ṣaṣṭhayāte  
-  
-103.43d pibati ca vanitā^āsyaṃ śrī^puṭoṣṭham//  
-  
-103.44a gacchaty adhvānaṃ saptame ca aṣṭame ca  
-  
-103.44b hīnaḥ strī^putraiḥ sūryaje dīnaceṣṭaḥ/  
-  
-103.44c tadvad dharmasthe vaira^hṛd^roga^bandhair  
-  
-103.44d dharmo +apy ucchidyed vaiśvadevī^kriyā^ādyaḥ//  
-  
-103.45a karma^prāptir daśame +arthakṣayaś ca  
-  
-103.45b vidyā^kīrtyoḥ parihāniś ca saure/  
-  
-103.45c taikṣṇyaṃ lābhe parayoṣārtha^*lābhaś[K.lābhā]  
-  
-103.45d ca antye[K.ante] prāpnoty api śoka^ūrmimālām//  
-  
-103.46ab/ api kālam apekṣya ca pātraṃ śubhakṛd vidadhāty anurūpam/  
-103.46cd/ na madhau bahu kaṃ kuḍave vā[K.ca] visṛjaty api meghavitānaḥ//  
-  
-103.47a raktaiḥ puṣpair gandhais tāmraiḥ kanaka^vṛṣa^bakula^kusumair divākara^bhūsutau  
-  
-103.47b bhaktyā pūjyāv indur dhenvā sitakusuma^rajata^madhuraiḥ sitaś ca madapradaiḥ/  
-  
-103.47c kṛṣṇadravyaiḥ sauriḥ saumyo maṇi^rajata^tilaka^kusumair guruḥ paripītakaiḥ  
-  
-103.47d prītaiḥ pīḍā na syād uccād yadi patati viśati yadi vā bhujaṅgavijṛmbhitam//  
-  
-103.48ab/ śamaya^udgatām aśubhadṛṣṭim api vibudhaviprapūjayā/  
-  
-103.48cd/ śānti^japa^niyama^dāna^damaiḥ sujana^abhibhāṣaṇa^samāgamais tathā//  
-  
-103.49ab/ ravi^bhaumau pūrvārdhe śaśisaurau kathayato +antyagau rāśeḥ/  
-  
-103.49cd/ sadasal^lakṣaṇam āryagīty^upagītyor yathāsaṃkhyam//  
-  
-103.50ab/ ādau yādṛk saumyaḥ paścād api tādṛśo bhavati/  
-  
-103.50cd/ upagīter mātrāṇāṃ gaṇavat satsamprayogo vā//  
-  
-103.51ab/ āryāṇām api kurute vināśam antargurur viṣamasaṃsthaḥ/  
-  
-103.51cd/ gaṇa iva ṣaṣṭhe dṛṣṭaḥ sa[K.ca] sarvalaghutāṃ janaṃ[K.gato] nayati//  
-  
-103.52a aśubha^nirīkṣitaḥ śubha^phalo balinā balavān  
-  
-103.52b aśubha^phala^pradaś ca śubha^dṛg^viṣaya^upagataḥ/  
-  
-103.52c aśubhaśubhāv api svaphalayor vrajataḥ samatām  
-  
-103.52d idam api gītakaṃ ca khalu narkuṭakaṃ ca yathā//  
-  
-103.53ab/ nīce +aribhe +aste *ca aridṛṣṭasya[K's tr. aridṛṣṭasya] sarvaṃ vṛthā yat[K's tr. yathā] parikīrtitam/  
-  
-103.53cd/ purato +andhasya iva kāminyāḥ savilāsa^kaṭākṣa^nirīkṣaṇam//  
-  
-103.54ab/ sūryasuto +arkaphalasamaś candrasutaś chandataḥ samanuyāti yathā/  
-  
-103.54cd/ skandhakam āryāgītir vaitālīyaṃ ca māgadhī gāthā^āryām//  
-  
-103.55ab/ sauro +arkaraśmi^*yogāt[K.rāgāt] savikāro labdha^vṛddhir adhikataram/  
-103.55cd/ pittavad ācarati nṛṇāṃ pathyakṛtāṃ na tu tathā^āryāṇām//  
-  
-103.56ab/ yādṛśena graheṇa^indur yuktas tādṛg bhavet so +api/  
-  
-103.56cd/ mano^vṛtti^samāyogād vikāra iva vaktrasya//  
-  
-103.57ab/ pañcamaṃ *laghu sarveṣu[K.sarvapādeṣu] saptamaṃ dvi^caturthayoḥ/  
-  
-103.57cd/ yadvat^śloka^akṣaraṃ tadval laghutāṃ yāti duḥsthitaiḥ//  
-  
-103.58ab/ prakṛtyā^api laghur yaś ca vṛttabāhye vyavasthitaḥ/  
-  
-103.58cd/ sa yāti gurutāṃ loke yadā syuḥ susthitā grahāḥ//  
-  
-103.59ab/ prārabdham asusthitair grahair yat karma^ātma^vivṛddhaye budhaiḥ[K.+abudhaiḥ]/  
-  
-103.59cd/ vinihanti tad eva karma tān vaitālīyam iva ayathākṛtam//  
-  
-103.60ab/ sausthityam avekṣya yo grahebhyaḥ kāle prakramaṇaṃ karoti rājā/  
-  
-103.60cd/ aṇunā api sa pauruṣeṇa vṛttasya^aupacchandasikasya yāti pāram//  
-  
-103.61a upacaya^bhavana^upayātasya bhānor dine kārayed dhema^tāmra^aśva^kāṣṭha^asthi^carma^aurṇika^adri^druma^tvag^nakha^vyāla^caura^āyudhīya^aṭavī^krūra^rājopaseva^abhiṣeka^auṣadha^kṣauma^paṇyādi^gopāla^kāntāra^vaidya^aśma^kūṭa^avadāta^abhivikhyāta^śūra^āhavaślāghya^*yāyy[K.yājya]^*agnikarmāṇi[K.^agnikāryāṇi] siddhyanti lagnasthite vā ravau/  
-  
-103.61b śiśirakiraṇa^vāsare tasya va apy udgame kendrasaṃsthe +atha vā bhūṣaṇaṃ śaṅkha^muktā^abja^rūpya^ambu^yajña^ikṣu^bhojya^aṅganā^kṣīra^susnigdhavṛkṣa^kṣupa^anūpa^dhānya^dravadravya^*vipra^adhva^gīta[K.viprāśvaśīta]kriyā^śṛṅgi^kṛṣyādi^senādhipa^ākranda^bhūpāla^saubhāgya^naktañcara^ślaiṣmika^dravya^mātulya[K.mātuṅga]puṣpa^ambara^ārambha^siddhir bhavet//  
-  
-103.61c kṣititanaya^dine prasiddhyanti[K.prasidhyanti] dhātvākarādīni sarvāṇi kāryāṇi cāmīkara^agni^pravāla^āyudha^kraurya^caurya^abhighāta^aṭavī^durga^senādhikārās tathā rakta^puṣpa^drumā raktam anyac ca tiktaṃ kaṭu^dravya^kūṭa^ahi^pāśa^arjita^svāḥ kumārā bhiṣak^śākyabhikṣu^kṣapāvṛtti^kośeśa[K.kauśeya]^śāṭhyāni siddhyanti[K.sidhyanti] dambhās tathā//  
-  
-103.61d harati[U.harita, K.harita]maṇi^mahī^sugandhīni vastrāṇi sādhāraṇaṃ nāṭakaṃ śāstra^vijñāna^kāvyāni sarvāḥ kalā^yuktayo mantra^dhātu^kriyā^vāda^naipuṇya^puṇya^vratāyoga^dūtās tathā^āyuṣya^māyā^anṛta^snāna^hrasvāṇi dīrghāṇi madhyāni ca chandataś[K.cchandanaś] caṇḍavṛṣṭi^prayāta^anukārīṇi kāryāṇi siddhyanti[K.sidhyanti] saumyasya lagne +ahni vā//  
-  
-103.62a suraguru^divase kanakaṃ rajataṃ turagāḥ kariṇo vṛṣabhā bhiṣag^auṣadhayaḥ[K.oṣadhayaḥ]  
-  
-103.62b dvija^pitṛ^sura^kārya^puraḥsthita^gharma^nivāraṇa^cāmara^bhūṣaṇa^bhūpatayaḥ/  
-  
-103.62c vibudha^bhavana^dharmasamāśraya^maṅgala^śāstra^manojña^balaprada^satyagiraḥ  
-  
-103.62d vrata^havana^dhanāni ca siddhikarāṇi tathā rucirāṇi ca varṇaka^daṇḍakavat//  
-  
-103.63a bhṛgusutadivase ca citra^vastra^vṛṣya^veśya^kāminī^vilāsa^hāsa^yauvanopabhoga^ramya^bhūmayaḥ  
-  
-103.63b sphaṭika^rajata^manmatha^upacāra^vāhana^ikṣu^śārada^prakāra^go^vaṇik^kṛṣīvala^auṣadha^ambujāni ca/  
-  
-103.63c savitṛsutadine ca kārayen mahiṣy^aja^uṣṭra^kṛṣṇaloha^dāsa^vṛddha^nīca^karma^pakṣi^caura^pāśikān  
-  
-103.63d cyutavinaya^viśīrṇabhāṇḍa^hasty^apekṣa^vighnakāraṇāni ca anyathā na sādhayet samudrago +apy apāṃ kaṇam//  
-  
-103.64ab/ vipulām api buddhvā chandovicitiṃ bhavati kāryam etāvat/  
-  
-103.64cd/ śruti^sukhada^vṛtta^saṃgraham imam āha varāhamihiro +ataḥ//  
-  
-  
-  
-                   104 rūpasatrādhyāyaḥ  
-  
-  
-  
-104.01ab/ pādau mūlaṃ jaṅghe ca rohiṇī jānunī[K.omitted] tathāśvinyaḥ/  
-  
-104.01cd/ ūrū ca āṣāḍhadvayam atha guhyaṃ phalgunī^*dvitayam[K.yugmam]//  
-  
-104.02ab/ kaṭir api ca kṛttikā pārśvayoś ca yamalā bhavanti bhadrapadāḥ/  
-  
-104.02cd/ kukṣisthā revatyo vijñeyam uro +anurādhā ca//  
-  
-104.03ab/ pṛṣṭhaṃ viddhi dhaniṣṭhāṃ[K.dhaniṣṭhā] bhujau viśākhā[K.viśākhāṃ] smṛtau karau hastaḥ//  
-  
-104.03cd/ aṅgulyaś ca punarvasur āśleṣāsaṃjñitāś ca nakhāḥ//  
-  
-104.04ab/ grīvā jyeṣṭhā *śravaṇaṃ śravaṇau[K.śravaṇau śravanaḥ] puṣyo mukhaṃ dvijāḥ svātiḥ/  
-  
-104.04cd/ hasitaṃ śatabhiṣag atha nāsikā maghā mṛgaśiro netre//  
-  
-104.05ab/ citrā lalāṭasaṃsthā śiro bharaṇyaḥ śiroruhāś ca^ārdrā/  
-  
-104.05cd/ nakṣatrapuruṣako +ayaṃ kartavyo rūpam icchadbhiḥ//  
-  
-104.06ab/ caitrasya bahula^pakṣe hy aṣṭamyāṃ mūlasaṃyute candre/  
-  
-104.06cd/ hy[K.omitted] upavāsaḥ kartavyo viṣṇuṃ sampūjya dhiṣṇyaṃ ca//  
-  
-104.07ab/ dadyād vrate samāpte ghṛtapūrṇaṃ bhājanaṃ suvarṇayutam/  
-  
-104.07cd/ viprāya kālaviduṣe saratnavastraṃ svaśaktyā ca//  
-  
-104.08a annaiḥ kṣīraghṛta^utkaṭaiḥ saha guḍair viprān samabhyarcayed  
-  
-104.08b dadyāt teṣu suvarṇa[K.tatha^eva]vastrarajataṃ lāvaṇyam icchan naraḥ/  
-  
-104.08c pāda^ṛkṣāt prabhṛti kramād upavasann aṅga^ṛkṣanāmasv api  
-  
-104.08d kuryāt keśava^pūjanaṃ svavidhinā dhiṣṇyasya pūjāṃ tathā//  
-  
-104.09ab/ pralamba^bāhuḥ pṛthu^pīna^vakṣāḥ kṣapākara^āsyaḥ sita^cāru^dantaḥ/  
-  
-104.09cd/ gajendra^gāmī kamala^āyata^akṣaḥ strī^citta^hārī smara^tulya^mūrtiḥ//  
-  
-104.10ab/ śarad^amala^pūrṇa^candra^dyuti^sadṛśa^mukhī saroja^dala^netrā/  
-  
-104.10cd/ rucira^daśanā sukarṇā bhramara^udara^sannibhaiḥ keśaiḥ//  
-  
-104.11ab/ puṃskokila^sama^vāṇī tāmroṣṭī[K.ū.tāmroṣṭhī] padma^patra^kara^caraṇā/  
-  
-104.11cd/ stanabhārā^nata^madhyā pradakṣiṇāvartayā nābhyā//  
-  
-104.12ab/ kadalī^kāṇḍa^nibha^ūruḥ[K.ū.ūrūḥ] suśroṇī vara^kukundarā subhagā/  
-  
-104.12cd/ suśliṣṭa^aṅguli^pādā bhavati pramadā *manuṣyaś ca[K.manuṣyo vā]//  
-  
-104.13a yāvan nakṣatramālā vicarati gagane bhūṣayantī iha bhāsā  
-  
-104.13b tāvan nakṣatrabhūto vicarati saha tair brahmaṇo +ahno +avaśeṣam/  
-  
-104.13c kalpādau cakravartī bhavati hi matimāṃs tatkṣayāc ca^api bhūyaḥ  
-  
-104.13d saṃsāre jāyamāno bhavati narapatir brāhmaṇo vā dhanāḍhyaḥ//  
-  
-104.14ab/ mṛgaśīrṣa^ādyāḥ keśava^nārāyaṇa^mādhavāḥ sagovindāḥ/  
-  
-104.14cd/ viṣṇu^madhusūdana^ākhyau trivikramo vāmanaś ca^eva//  
-  
-104.15ab/ śrīdhara^nāmā tasmāt sahṛṣīkeśaś ca padmanābhaś ca/  
-  
-104.15cd dāmodara ity ete māsāḥ proktā yathāsaṃkhyaṃ//  
-  
-104.16ab/ māsa^nāma samupoṣito naro dvādaśīṣu vidhivat prakīrtayan/  
-  
-104.16cd/ keśavam samabhipūjya tatpadaṃ yāti yatra nahi janmajaṃ bhayam//  
-  
-  
-  
-                   105 upasaṃhārādhyāyaḥ  
-  
-  
-  
-105.01ab/ jyotiḥśāstra^samudraṃ pramathya mati^mandarādriṇā +atha mayā/  
-  
-105.01cd/ lokasya ālokakaraḥ śāstra^śaśāṅkaḥ samutkṣiptaḥ//  
-  
-105.02ab/ pūrvācārya^granthā na^utsṛṣṭāḥ kurvatā mayā śāstram/  
-  
-105.02cd/ tān avalokya^idaṃ ca prayatadhvaṃ kāmataḥ sujanāḥ//  
-  
-105.03ab/ atha vā kṛśam[K.bhṛśam] api sujanaḥ prathayati doṣārṇavād guṇaṃ dṛṣṭvā/  
-  
-105.03cd/ nīcas tad^viparītaḥ prakṛtir iyaṃ sādhv^asādhūnām//  
-  
-105.04ab/ durjana^hutāśa^taptaṃ kāvya^suvarṇaṃ viśuddhim āyāti/  
-  
-105.04cd/ śrāvayitavyaṃ tasmād duṣṭajanasya prayatnena//  
-  
-105.05a granthasya yat pracarato +asya vināśam eti  
-  
-105.05b lekhyād bahuśruta^mukha^ādhigama^krameṇa/  
-  
-105.05c yadvā mayā kukṛtam alpam iha^ākṛtaṃ vā  
-  
-105.05d kāryaṃ tad atra viduṣā parihṛtya rāgam//  
-  
-105.06ab/ dinakara^muni^guru^caraṇa^praṇipātakṛtaprasādamatinā^idam/  
-  
-105.06cd/ śāstram upasaṅgṛhītaṃ namo +astu pūrvapraṇetṛbhyaḥ//  
-  
-  
-  
-                   106 śāstrānukramaṇī  
-  
-  
-  
-106.01ab/ śāstra^upanayaḥ pūrvaṃ sāṃvatsarasūtram arkacāraś ca/  
-  
-106.01cd/ śaśi^rāhu^bhauma^budha^guru^sita^manda^śikhi^grahāṇāṃ ca//  
-  
-106.02ab/ cāraś ca^agastyamuneḥ saptarṣīṇāṃ ca kūrma^yogaś ca/  
-  
-106.02cd/ nakṣatrāṇāṃ vyūho grahabhaktir grahavimardaś ca//  
-  
-106.03ab/ graha^śaśi^yogaḥ samyag^graha^varṣaphalaṃ grahāṇāṃ ca/  
-  
-106.03cd/ śṛṅgāṭa^saṃsthitānāṃ meghānāṃ garbha^lakṣaṇaṃ ca^eva//  
-  
-106.04ab/ dhāraṇa^varṣaṇa^rohiṇi^vāyavya^āṣāḍha^bhadrapada[K.bhādrapada]^yogāḥ/  
-  
-106.04cd/ kṣaṇavṛṣṭiḥ kusumalatāḥ sandhyā^cihnaṃ diśāṃ dāhaḥ//  
-  
-106.05ab/ bhūkampa^ulkā^pariveṣa^lakṣaṇaṃ śakracāpa^khapuraṃ ca/  
-  
-106.05cd/ pratisūryo nirghātaḥ sasya^dravya^arghakāṇḍaṃ ca//  
-  
-106.06ab/ indradhvaja^nīrājana^khañjanaka^utpāta^varhi[K.barhi]citraṃ ca/  
-  
-106.06cd/ puṣya^abhiṣeka^paṭṭapramāṇam asilakṣaṇaṃ vāstu//  
-  
-106.07ab/ udak[K.udag]ārgalam ārāmikam amarālaya^lakṣaṇaṃ kuliśalepaḥ/  
-  
-106.07cd/ pratimā vanapraveśaḥ surabhavanānāṃ pratiṣṭhā ca//  
-  
-106.08ab/ cihnaṃ gavām atha śunām kukkuṭa^kūrma^aja^puruṣa^cihnaṃ ca/  
-  
-106.08cd/ pañca^manuṣya^vibhāgaḥ strīcihnaṃ vastra^vicchedaḥ//  
-  
-106.09ab/ cāmara^daṇḍa^parīkṣā strī^stotraṃ ca^api subhaga^karaṇaṃ ca/  
-  
-106.09cd/ kāndarpika^anulepana^puṃstrikādhyāya^śayana^vidhiḥ//  
-  
-106.10ab/ vajra^parīkṣā mauktika^lakṣaṇam atha padmarāga^marakatayoḥ/  
-  
-106.10cd/ dīpasya lakṣaṇaṃ dantadhāvanaṃ śākunaṃ miśram//  
-  
-106.11ab/ antaracakraṃ virutaṃ śvaceṣṭitaṃ virutam atha śivāyāś ca//  
-  
-106.11cd/ caritaṃ mṛga^aśva^kariṇāṃ vāyasa^vidyottaraṃ ca tataḥ//  
-  
-106.12ab/ pāko nakṣatra^guṇās tithi^karaṇa^guṇāḥ sadhiṣṇya^janma^guṇāḥ/  
-  
-106.12cd/ *gocaram atha[K.gocaras tathā] grahāṇāṃ kathito nakṣatrapuruṣaś ca//  
-  
-106.13ab/ śatam idam adhyāyānām anuparipāṭikramād anukrāntam/  
-  
-106.13cd/ atra śloka^sahasrāṇy ābaddhāny ūnacatvāri//  
-  
-106.14ab[K.omitted]/ atra^eva^antarbhūtaṃ pariśeṣaṃ nigaditaṃ ca yātrāyām/  
-  
-106.14cd[K.omitted]/ bahvāścaryaṃ jātakam uktaṃ karaṇaṃ ca bahucodyam//  
-  
-  
-  
-  
-  
+        एग्। विज़ेस^उक्ति < विज़ेसोक्ति  
+             च^इति < चेति  
+          होर^अन्यो < होरन्यो  
+          को +अपि < कोऽपि  
+     चोन्सोनन्तल् सन्धिस् अरे रेतैनेद्।  
+    
+  (३) चोम्पोउन्द्स्  
+        मेम्बेर्स् ओफ़् चोम्पोउन्द् wओर्द्स् अरे सोमेतिमेस् सेपरतेद् ब्य्^,  
+        बुत् नोत् चोन्सिस्तेन्त्।  
+    
+  (४) ओथेर्स्  
+     वरितन्त्स् फ़ोर् थे पर्त् बेगिन्निन्ग् wइथ् * अरे सुप्प्लिएद् इन् [ ] ।
+
+                   १ उपनयनाध्यायः
+
+१।०१अब्। जयति जगतः प्रसूतिर् विश्वात्मा सहज^भूषणं नभसः।  
+    
+१।०१च्द्। द्रुत^कनक^सदृश^दश^शत^मयूख^माला^अर्चितः सविता॥  
+    
+१।०२अब्। प्रथम^मुनि^कथितम् अवितथम् अवलोक्य ग्रन्थ^विस्तरस्य अर्थम्।  
+    
+१।०२च्द्। न^अतिलघु^विपुल^रचनाभिर् उद्यतः स्पष्टम् अभिधातुम्॥  
+    
+१।०३अब्। मुनि^विरचितम् इदम् इति यच् चिरन्तनं साधु न मनुज^ग्रथितम्।  
+    
+१।०३च्द्। तुल्ये +अर्थे +अक्षर^भेदाद् अमन्त्रके का विशेष^उक्तिः॥  
+    
+१।०४अब्। क्षितितनय^दिवस^वारो न शुभकृद् इति यदि पितामह^प्रोक्ते।  
+    
+१।०४च्द्। कुज^दिनम् अनिष्टम् इति वा को +अत्र विशेषो नृ^दिव्य^*कृतेः[क्।कृते]॥  
+    
+१।०५अब्। आब्रह्म^आदि^विनिःसृतम् आलोक्य ग्रन्थ^विस्तरं क्रमशः।  
+    
+१।०५च्द्। क्रियमाणकम् एव +एतत् समासतो +अतो मम^उत्साहः॥  
+    
+१।०६अब्। आसीत् तमः किल^इदं तत्र^अपां तैजसे +अभवद् धैमे।  
+    
+१।०६च्द्। स्वर्^भू^शकले ब्रह्मा विश्वकृद् अण्डे +अर्क^शशि^नयनः॥  
+    
+१।०७अब्। कपिलः प्रधानम् आह द्रव्य^आदीन् कणकभुग् अस्य विश्वस्य।  
+    
+१।०७च्द्। कालं कारणम् एके स्वभावम् अपरे जगुः कर्म॥  
+    
+१।०८अब्। तद् अलम् अतिविस्तरेण प्रसङ्ग^वाद^अर्थ^निर्णयो +अतिमहान्।  
+    
+१।०८च्द्। ज्योतिःशास्त्र^अङ्गानां वक्तव्यो निर्णयो +अत्र मया॥  
+    
+१।०९अ ज्योतिःशास्त्रम् अनेक^भेद^विषयं स्कन्ध^त्रय^अधिष्ठितं  
+    
+१।०९ब् तत्^कार्त्स्न्य^उपनयस्य नाम मुनिभिः सङ्कीर्त्यते संहिता।  
+    
+१।०९च् स्कन्धे +अस्मिन् गणितेन या ग्रहगतिस् तन्त्र^अभिधानस् त्व् असौ  
+    
+१।०९द् होरा^अन्यो +अङ्ग^विनिश्चयश् च कथितः स्कन्धस् तृतीयो +अपरः॥  
+    
+१।१०अब्। वक्र^अनुवक्र^अस्तमय^उदय^आद्यास् तारा^ग्रहाणां करणे मया^उक्ताः।  
+    
+१।१०च्द्। होरागतं विस्तरशश् च जन्म^यात्रा^विवाहैः सह पूर्वम् उक्तम्॥  
+    
+१।११अब्। प्रश्न^प्रतिप्रश्न^कथा^प्रसङ्गान् स्व्^अल्प^उपयोगान् ग्रह^सम्भवाम्श् च।  
+    
+१।११च्द्। सन्त्यज्य फल्गूनि च सार^भूतं भूत^अर्थम् अर्थैः सकलैः प्रवक्ष्ये॥
+
+                   २ सांवत्सरसूत्राध्यायः
+
+अथ^अतः सांवत्सर^सूत्रं व्याख्यास्यामः  
+    
+२।(१) तत्र सांवत्सरो +अभिजातः प्रिय^दर्शनो विनीतवेषः सत्यवाग् अनसूयकः समः सुसंहिता^उपचित^गात्र^सन्धिर् अविकलश् चारु^कर^चरण^नख^नयन^चिबुक^दशन^श्रवण^ललाट^भ्रू^उत्तम^अङ्गो वपुष्मान् गम्भीर^उदात्त^घोषः। प्रायः शरीर^आकार^*अनुवर्त्तिनो[क्।अनुवर्तिनो] हि गुणा दोषाश् च भवन्ति।  
+    
+२।(२) तत्र गुणाः---शुचिर् दक्षः प्रगल्भो *वाग्ग्मी[क्।वाग्मी] प्रतिभानवान् देश^काल^वित् सात्त्विको न पर्षद्^भीरुः सहाध्यायिभिर् अनभिभवनीयः कुशलो +अव्यसनी शान्तिक^पौष्टिक^अभिचार^स्नान^विद्या^अभिज्ञो विबुध^अर्चन^व्रत^उपवास^निरतः स्वतन्त्र^आश्चर्य^उत्पादित^प्रभावः पृष्टाभिधाय्य् अन्यत्र दैवात् ययाद् ग्रहगणित^संहिता^होरा^ग्रन्थ^अर्थ^वेत्ता^इति।  
+    
+२।(३) तत्र ग्रहगणिते पौलिश^रोमक^वासिष्ठ^सौर^पैतामहेषु पञ्चस्व् एतेषु सिद्धान्तेषु युग^वर्ष^अयन^ऋतु^मास^पक्ष^अहोरात्र^याम^मुहूर्त^*नाडी[उ।नाडी^विनाडी]प्राण^त्रुटि^त्रुट्य्^आद्य्^अवयव^*आदिकस्य[क्।आद्यस्य] कालस्य क्षेत्रस्य च वेत्ता।  
+    
+२।(४) चतुर्णां च मानानां सौर^सावन^नाक्षत्र^चान्द्राणाम् अधिमासक^अवम^सम्भवस्य च कारण^अभिज्ञः।  
+    
+२।(५) षष्ट्य्^अब्द^युग^वर्ष^मास^दिन^होरा^अधिपतीनां *प्रतिपत्ति[क्।प्रतिपत्तिवि]^च्छेदवित्।  
+    
+२।(६) सौर^आदीनां च मानानाम् *असदृश^सदृश[क्।सदृश^असदृश]योग्य^अयोग्यत्व^प्रतिपादन^पटुः।  
+    
+२।(७) सिद्धान्त^भेदे +अप्य् अयन^निवृत्तौ प्रत्यक्षं सम^मण्डल^लेखा^सम्प्रयोग^अभ्युदित^अंशकानां [क्।च] छाया^जल^यन्त्र^दृग्^गणित^साम्येन प्रतिपादन^कुशलः।  
+    
+२।(८) सूर्य^आदीनां च ग्रहाणाम् शीघ्र^मन्द^याम्य^उत्तर^नीच^उच्चगति^कारण^अभिज्ञः।  
+    
+२।(९) सूर्य^चन्द्रमसोश् च ग्रहणे ग्रहण^आदि^मोक्ष^काल^दिक्^प्रमाण^स्थिति^विमर्द^वर्ण^*आदेशानाम्[क्।देशानाम्] अनागत^ग्रह^समागम^युद्धानाम् आदेष्टा।  
+    
+२।(१०) प्रत्येक^ग्रह^भ्रमण^योजन^कक्ष्या^प्रमाण^प्रतिविषय^योजन^परिच्छेद^कुशलः[क्।कुशलो]।  
+    
+२।(११) भू^भगण^भ्रमण^संस्थान^आद्य्^अक्ष^अवलम्बक^अहर्व्यास^चर^दल^काल^राश्य्^उदय^च्छाया^नाडी^करण^प्रभृतिषु क्षेत्र^काल^करणेष्व् अभिज्ञः।  
+    
+२।(१२) नाना^चोद्य^प्रश्न^भेद^उपलब्धि^जनित^वाक्^सारो निकष^सन्ताप^अभिनिवेशैः [क्।विशुद्धस्य] कनकस्य^इव^अधिकतरम् अमलीकृतस्य [क्।शास्त्रस्य]वक्ता तन्त्रज्ञो भवति[क्।उक्तञ् च]।  
+    
+२।०१अब्। न प्रतिबद्धं गमयति वक्ति न च प्रश्नम् एकम् अपि पृष्टः।  
+    
+२।०१च्द्। निगदति न च शिष्येभ्यः स कथं शास्त्र^अर्थविज् ज्ञेयः॥  
+    
+२।०२अब्। ग्रन्थो +अन्यथा^अन्यथा^*अर्थं[क्।अर्थः] करणं यश् च^अन्यथा करोत्य् अबुधः।  
+    
+२।०२च्द्। स पितामहम् उपगम्य स्तौति नरो वैशिकेन^आर्याम्॥  
+    
+२।०३अब्। तन्त्रे सुपरिज्ञाते लग्ने छाया^अम्बुयन्त्र^संविदिते।  
+    
+२।०३च्द्। होरा^अर्थे च सुरूढे न^आदेष्टुर् भारती वन्ध्या॥
+
+२।०४अ अप्य् अर्णवस्य पुरुषः प्रतरन् कदा चिद्  
+    
+२।०४ब् आसादयेद् अनिल^वेग^वशेन पारम्।  
+    
+२।०४च् न त्व् अस्य कालपुरुष^आख्य^महा^अर्णवस्य  
+    
+२।०४द् गच्छेत् कदा चिद् अनृषिर् मनसा^अपि पारम्॥  
+    
+२।(१३) होराशास्त्रे +अपि [क्।च] राशि^होरा^द्रेष्काण^नवांशक^द्वादशभाग^त्रिंशद्भाग^बल^अबल^परिग्रहो ग्रहाणां दिक्^स्थान^काल^चेष्टाभिर् अनेक^प्रकार^बल^निर्धारणं प्रकृति^धातु^द्रव्य^जाति^चेष्टा^आदि^परिग्रहो निषेक^जन्म^काल^विस्मापन^प्रत्यय^आदेश^सद्योमरण^आयुर्दाय^दशा^अन्तर्दशा^अष्टक^वर्ग^राजयोग^चन्द्रयोग^द्विग्रह^आदियोगानां नाभस^आदीनाम्  
+च योगानाम् फलान्य् आश्रय^भाव^अवलोकन^निर्याण^गत्य्^अनूकानि *तत्काल[क्।तात्कालिक]प्रश्न^शुभ^अशुभ^निमित्तानि विवाह^आदीनाम् च कर्मनां करणम्।  
+    
+२।(१४) यात्रायां तु [क्।च] तिथि^दिवस^करण^नक्षत्र^मुहूर्त^विलग्न^योग^देह^स्पन्दन^स्वप्न^विजय^स्नान^ग्रहयज्ञ^गण^याग^अग्निलिङ्ग^हस्त्य्^अश्व^इङ्गित^सेना^प्रवाद^चेष्टा^आदि^ग्रह^षाड्गुण्य^उपाय^मङ्गल^अमङ्गल^शकुन^सैन्य^निवेश^भूमयो +अग्निवर्णा मन्त्रि^चर^दूत^आटविकानां यथाकालं प्रयोगाः परदुर्ग^उपलम्भ^उपायश् च^इत्य् उक्तं च^आचार्यैः।  
+    
+२।०५अब्। जगति प्रसारितम् इव^आलिखितम् इव मतौ निषिक्तम् इव हृदये।  
+    
+२।०५च्द्। शास्त्रं यस्य सभगणं न^आदेशा *निष्फलास्[क्।निःफलास्] तस्य॥  
+    
+२।(१५) संहिता^पारगश् च दैव^चिन्तको भवति।  
+    
+२।(१६) यत्र +एते संहिता^पदार्थाः।  
+    
+२।(१७।१) दिन^कर^आदीनाम् ग्रहाणां चारास् तेषु च तेषां प्रकृति^विकृति^प्रमाण^वर्ण^किरण^द्युति^संस्थान^अस्तमन^उदय^मार्ग^मार्गान्तर^वक्र^अनुवक्र^ऋक्ष^ग्रह^समागम^चार^आदिभिः फलानि नक्षत्र^कूर्म^विभागेन देशेष्व् *अगस्त्य^चारः[क्।अगस्तिचारः]। सप्तर्षि^चारः ।ग्रह^भक्तयो  
+नक्षत्र^व्यूह^ग्रह^शृङ्गाटक^ग्रह^युद्ध^ग्रह^समागम^ग्रह^वर्ष^फल^गर्भ^लक्षण^रोहिणी^स्वात्य्^आषाढीयोगाः  
+सद्योवर्ष^कुसुमलता^परिधि^परिवेष^परिघ^पवन^उल्का^दिग्दाह^क्षितिचलन^सन्ध्या^राग^गन्धर्वनगर^रजो^निर्घात^अर्घ^काण्ड^सस्यजन्म^इन्द्रध्वज^इन्द्रचाप^वास्तुविद्या^अङ्गविद्या^वायसविद्या^अन्तरचक्र^मृगचक्र^श्वचक्र^वातचक्र^प्रासादलक्षण^प्रतिमालक्षण^प्रतिष्ठापन^वृक्षायुर्वेद^उदगार्गल^नीराजन^*खञ्जनक[क्।खञ्जन]^उत्पातशान्ति^  
+मयूरचित्रक^घृत^कम्बल^खड्ग^पट्ट^कृकवाकु^कूर्म^गो^अज^अश्व^इभ^पुरूष[क्।ऊ।पुरुष]^स्त्री^लक्षणान्य्  
+    
+२।(१७।२) अन्तःपुर^चिन्ता^पिटकलक्षण^उपानच्छेद^वस्त्रच्छेद^चामर^दण्ड^*शयन[क्।शय्या]^आसनलक्षण^रत्नपरीक्षा दीपलक्षणं दन्तकाष्ठ^आद्य्^आश्रितानि शुभ^अशुभानि निमित्तानि सामान्यानि च जगतः प्रतिपुरुषं पार्थिवे च प्रतिक्षणम् अनन्यकर्म^अभियुक्तेन दैवज्ञेन चिन्तयितव्यानि। न च^एकाकिना शक्यन्ते +अहर्निशम् अवधारयितुं निमित्तानि। तस्मात्  
+सुभृतेन^एव दैवज्ञेन अन्ये *+अपि[क्।ओमित्तेद्] तद्विदश् चत्वारः *कर्तव्याः[क्।भर्तव्याः]।तत्र^एकेन^ऐन्द्री च^आग्नेयी च दिग् अवलोकयितव्या। याम्या नैरृती च^अन्येन^एवं वारुणी वायव्या च^उत्तरा च^ऐशानि च^इति। यस्माद् *उल्का^पात^आदीनि[क्।निमित्तानि] शीघ्रम् *अपगच्छति[क्।उपगच्छति]^इति। *तस्याश्[क्।तेषाम्]  
+च^आकार^वर्ण^स्नेह^प्रमान^आदि^ग्रह^ऋक्ष^उपघात^आदिभिः फलानि भवन्ति।
+
+२।०६अब्। कृत्स्न^अङ्ग^उपाङ्ग^कुशलं होरा^गणित^नैष्ठिकम्।  
+    
+२।०६च्द्। यो न पूजयते राजा स नाशम् उपागच्छति॥  
+    
+२।०७अब्। वनं समाश्रिता ये +अपि निर्ममा निष्परिग्रहाः।  
+    
+२।०७च्द्। अपि ते परिपृच्छन्ति ज्योतिषां गतिकोविदम्॥  
+    
+२।०८अब्। अप्रदीपा यथा रात्रिर् अनादित्यं यथा नभः।  
+    
+२।०८च्द्। तथा^असांवत्सरो राजा भ्रम्यत्य् अन्ध इव^अध्वनि॥  
+    
+२।०९अब्। *मुहूर्त[क्।मुहूर्तं]^तिथि^नक्षत्रम् ऋतवश् च^अयने तथा।  
+    
+२।०९च्द्। सर्वाण्य् एव^अकुलानि स्युर् न स्यात् सांवत्सरो यदि॥  
+    
+२।१०अब्। तस्माद् राज्ञा^अधिगन्तव्यो विद्वान् सांवत्सरो +अग्रणीः।  
+    
+२।१०च्द्। जयं यशः श्रियं भोगान् श्रेयश् च समभीप्सता॥  
+    
+२।११अब्। न^असांवत्सरिके देशे वस्तव्यं भूतिम् इच्छता।  
+    
+२।११च्द्। चक्षुर्^भूतो हि यत्र^एष पापं तत्र न विद्यते॥  
+    
+२।१२अब्। न सांवत्सर^पाठी च नरकेषु^उपपद्यते।  
+    
+२।१२च्द्। ब्रह्मलोक^प्रतिष्ठां च लभते दैवचिन्तकः॥  
+    
+२।१३अब्। ग्रन्थतश् च^अर्थतश् च^एतत् कृत्स्नं जानति यो द्विजः।  
+    
+२।१३च्द्। अग्रभुक् स भवेत्^श्राद्धे पूजितः पङ्क्ति^पावनः।  
+    
+२।१४अब्। म्लेच्छा हि यवनास् तेषु सम्यक् शास्त्रम् इदं स्थितम्।  
+    
+२।१४च्द्। ऋषिवत् ते +अपि पूज्यन्ते किं पुनर् दैवविद् द्विजः॥  
+    
+२।१५अब्। कुहक^आवेश^पिहितैः कर्ण^उपश्रुति^हेतुभिः।  
+    
+२।१५च्द्। कृत^आदेशो न सर्वत्र प्रष्टव्यो न स दैववित्॥  
+    
+२।१६अब्। अविदित्वा^एव *यत्[क्।यः]^शास्त्रं दैवज्ञत्वं प्रपद्यते।  
+    
+२।१६च्द्। स पङ्क्ति^दूषकः पापो ज्ञेयो नक्षत्र^सूचकः॥  
+    
+[क्।२।१८अब्। नक्षत्र^सूचक^उद्दिष्टम् उपहासं करोति यः।  
+    
+क्।२।१८च्। स व्रजत्य् अन्धता^मिस्रं सार्धम् ऋक्षविडम्बिना॥]  
+    
+२।१७अब्। नगर^द्वार^लोष्टस्य यद्वत् स्याद् उपयाचितम्।  
+    
+२।१७च्द्। आदेशस् तद्वद् अज्ञानां यः सत्यः स विभाव्यते॥  
+    
+२।१८अब्। सम्पत्त्या योजित^आदेशस् तद्^विच्छिन्न^कथा^प्रियः।  
+    
+२।१८च्द्। मत्तः शास्त्र^एकदेशेन त्याज्यस् तादृग्^महीक्षिता॥  
+    
+२।१९अब्। यस् तु सम्यग् विजानाति होरा^गणित^संहिताः।  
+    
+२।१९च्द्। अभ्यर्च्यः स नरेन्द्रेण स्वीकर्तव्यो जय^एषिणा॥  
+    
+२।२०अब्। न तत् सहस्रं करिणां वाजिनां च चतुर्गुणम्।  
+    
+२।२०च्द्। करोति देश^कालज्ञो *यथा^एको[क्।यद् एको]^दैवचिन्तकः॥  
+    
+२।२१अब्। दुःस्वप्न^दुर्विचिन्तित^दुष्प्रेक्षित^दुष्कृतानि कर्माणि।  
+    
+२।२१च्द्। क्षिप्रं प्रयान्ति नाशम् शशिनः श्रुत्वा भसंवादम्॥  
+    
+२।२२अब्। न तथा^इच्छति भूपतेः पिता जननी वा स्वजनो +अथ वा सुहृत्।  
+    
+२।२२च्द्। स्वयशो^अभिविवृद्धये यथा हितम् आप्तः सबलस्य दैववित्॥
+
+                   ३ आदित्यचाराध्यायः
+
+३।०१अब्। आश्लेषा^अर्धाद् दक्षिणम् उत्तरम् अयनं *रवेर्[क्।ओमित्तेद्] धनिष्ठा^अद्यम्।  
+    
+३।०१च्द्। नूनं कदा चिद् आसीद् येन^उक्तम् पूर्व^शास्त्रेषु॥  
+    
+३।०२अब्। साम्प्रतम् अयनं सवितुः कर्कटक^आद्यम् मृग^आदितश् च^अन्यत्।  
+    
+३।०२च्द्। उक्त^अभावो विकृतिः प्रत्यक्ष^परीक्षणैर् व्यक्तिः॥  
+    
+३।०३अब्। दूरस्थ^चिह्न^वेधाद् उदये +अस्तमये +अपि वा सहस्रांशोः।  
+    
+३।०३च्द्। छाया^प्रवेश^निर्गम^चिह्नैर् वा मण्डले महति॥  
+    
+३।०४अब्। अप्राप्य मकरम् अर्को विनिवृत्तो हन्ति स^अपराम् याम्याम्।  
+    
+३।०४च्द्। कर्कटकम् असम्प्राप्तो विनिवृत्तश् च^उत्तरां स +ऐन्द्रीम्॥  
+    
+३।०५अब्। उत्तरम् अयनम् अतीत्य व्यावृत्तः क्षेम^सस्य^वृद्धि^करः।  
+    
+३।०५च्द्। प्रकृतिस्थश् च^अप्य् एवं विकृत^गतिर् भयकृद् उष्णांशुः॥  
+    
+३।०६अब्। स^तमस्कं पर्व विना त्वष्टा नाम^अर्क^मण्डलं कुरुते।  
+    
+३।०६च्द्। स निहन्ति सप्त भूपान् जनांश् च शस्त्र^अग्नि^दुर्भिक्षैः॥  
+    
+३।०७अब्। तामसकीलक^सञ्ज्ञा राहुसुताः केतवस् त्रयस् त्रिंशत्।  
+    
+३।०७च्द्। वर्ण^स्थान^आकारैस् तान् दृष्ट्वा +अर्के फलं ब्रूयात्॥  
+    
+३।०८अब्। ते च^अर्क^मण्डल^गताः पापफलाश् चन्द्र^मण्डले सौम्याः।  
+    
+३।०८च्द्। ध्वाङ्क्ष^कबन्ध^प्रहरण^रूपाः पापाः शशाङ्के +अपि॥  
+    
+३।०९अब्। तेषाम् उदये रूपाण्य् अम्भः कलुषं रजो^वृतं व्योम।  
+    
+३।०९च्द्। नग^तरु^शिखर^*आमर्दी[क्।विमर्दी] सशर्करो मारुतश् चण्डः॥  
+    
+३।१०अब्। ऋतु^विपरीतास् तरवो दीप्ता मृग^पक्षिणो दिशां दाहाः।  
+    
+३।१०च्द्। निर्घात^महीकम्प^आदयो भवन्त्य् अत्र च^उत्पाताः॥  
+    
+३।११अब्। न पृथक् फलानि तेषां शिखि^कीलक^राहु^दर्शनानि यदि।  
+    
+३।११च्द्। तद्^उदय^कारणम् एषां केतु^आदीनाम् फलं ब्रूयात्॥  
+    
+३।१२अब्। यस्मिन् यस्मिन् देशे दर्शनम् आयान्ति सूर्य^बिम्बस्था।  
+    
+३।१२च्द्। तस्मिंस् तस्मिन् व्यसनम् महीपतीनाम् परिज्ञेयम्॥  
+    
+३।१३अब्। क्षुत्^प्रम्लान^शरीरा मुनयो +अप्य् उत्सृष्ट^धर्म^सच्^चरिताः।  
+    
+३।१३च्द्। निर्मांस^बाल^हस्ताः कृच्छ्रेण +आयान्ति *पर^देशम्[क्।परदेशान्]॥  
+    
+३।१४अब्। तस्कर^विलुप्त^वित्ताः प्रदीर्घ^निःश्वास^मुकुलित^अक्षि^पुटाः।  
+    
+३।१४च्द्। सन्तः सन्न^शरीराः शोक^उद्भव^*वाष्प[क्ऽस् त्र्। बाष्प]रुद्ध^दृशः॥  
+    
+३।१५अब्। क्षामा जुगुप्समानाः स्वनृपति^परचक्र^पीडिता मनुजाः।  
+    
+३।१५च्द्। स्वनृपति^चरितं कर्म *न[क्।च] *पुरा कृतं[क्।पराकृतम्, क्ऽस् त्र्। पुराकृतम्] प्रब्रुवन्त्य् अन्ये॥  
+    
+३।१६अब्। गर्भेष्व् अपि निष्पन्ना वारिमुचो न प्रभूत^वारिमुचः।  
+    
+३।१६च्द्। सरितो यान्ति तनुत्वं क्व चित् क्वचिज् जायते सस्यम्॥  
+    
+३।१७अब्। दण्डे नरेन्द्र^मृत्युर् व्याधि^भयं स्यात् *कबन्ध^संस्थाने[क्।कवन्धसंस्थाने]।  
+    
+३।१७च्द्। ध्वाङ्क्षे च तस्कर^भयं दुर्भिक्षं कीलके +अर्कस्थे॥  
+    
+३।१८अब्। राज^उपकरण^रूपैश् छत्र^ध्वज^चामर^आदिभिर् विद्धः।  
+    
+३।१८च्द्। राजान्यत्व^कृद् अर्कः स्फुलिङ्ग^धूम^आदिभिर् जनहा॥  
+    
+३।१९अब्। एको दुर्भिक्ष^करो द्व्याद्याः स्युर् नरपतेर् विनाशाय।  
+    
+३।१९च्द्। सित^रक्त^पीत^कृष्णैस् तैर् विद्धो +अर्को +अनुवर्णघ्नः॥  
+    
+३।२०अब्। *द्वश्यन्ते[क्।& ऊ।दृश्यन्ते] च यतस् ते रवि^बिम्बस्य^उत्थिता महा^उत्पाताः।  
+    
+३।२०च्द्। आगच्छति लोकानां तेन^एव भयं प्रदेशेन॥  
+    
+३।२१अब्। ऊर्ध्वकरो दिवस^करस् ताम्रः सेनापतिं विनाशयति।  
+    
+३।२१च्द्। पीतो नरेन्द्र^पुत्रं श्वेतस् तु पुरोहितं हन्ति॥  
+    
+३।२२अब्। चित्रो +अथ वा^अपि धूम्रो रविरश्मिर् *व्याकुलाम्[क्।व्याकुलाम्] करोत्य् *ऊर्धम्[क्।महीम्]।  
+    
+३।२२च्द्। तस्कर^शस्त्र^निपातैर् यदि सलिलं न^आशु पातयति॥  
+    
+३।२३अब्। ताम्रः कपिलो वा^अर्कः शिशिरे हरि^कुङ्कुम^च्छविश् च मधौ।  
+    
+३।२३च्द्। आपाण्डु^कनक^वर्णो ग्रीष्मे वर्षासु शुक्लश् च॥  
+    
+३।२४अब्। शरदि कमल^उदर^आभो हेमन्ते रुधिर^सन्निभः शस्तः।  
+    
+३।२४च्द्। प्रावृट्काले स्निग्धः सर्व^ऋतुनिभो +अपि शुभदायी॥  
+    
+३।२५अब्। रूक्षः श्वेतो विप्रान् रक्त^आभः क्षत्रियान् विनाशयति।  
+    
+३।२५च्द्। पीतो वैश्यान् कृष्णस् ततो अपरान् शुभ^करः स्निग्धः॥  
+    
+३।२६अब्। ग्रीष्मे रक्तो भयकृद् वर्षास्व् असितः करोत्य् अनावृष्टिम्।  
+    
+३।२६च्द्। हेमन्ते पीतो +अर्कः करोति *न चिरेण[क्।अचिरेण] रोग^भयम्॥  
+    
+३।२७अब्। सुरचाप^पाटित^तनुर् नृपति^विरोध^प्रदः सहस्रांशुः।  
+    
+३।२७च्द्। प्रावृट्काले सद्यः करोति विमल^द्युतिर् वृष्टिम्॥  
+    
+३।२८अब्। वर्षाकाले वृष्टिं करोति सद्यः शिरीष^पुष्प^आभः।  
+    
+३।२८च्द्। शिखि^पत्र^निभः सलिलं न करोति द्वादश^अब्दानि॥  
+    
+३।२९अब्। श्यामे +अर्के कीट^भयं भस्म^निभे भयम् उशन्ति परचक्रात्।  
+    
+३।२९च्द्। यस्य^ऋक्षे सच्छिद्रस् तस्य विनाशः क्षितीशस्य॥  
+    
+३।३०अब्। शश^रुधिर^निभे भानौ नभस्^तल^स्थे भवन्ति सङ्ग्रामाः।  
+    
+३।३०च्द्। शशि^सदृशे *नृपति^बधः[क्।नृपति^वद्धः] क्षिप्रं च^अन्यो नृपो भवति॥  
+    
+३।३१अब्। क्षुत्^मारकृत् घट^निभः खण्डो *जनहा[क्।नृपहा] विदीधितिर् भयदः।  
+    
+३।३१च्द्। तोरण^रूपः पुरहा छत्र^निभो देश^नाशाय॥  
+    
+३।३२अब्। ध्वज^चाप^निभे युद्धानि भास्करे वेपने च रूक्षे च।  
+    
+३।३२च्द्। कृष्णा रेखा सवितरि यदि हन्ति ततो *नृपं[क्।नृपं ततः] सचिवः॥  
+    
+३।३३अब्। *दिन^करम्[क्।दिवसकरम्] *उदय^अस्त^संस्थितम्[क्।उदयसंस्थितम्] उल्का^अशनि^विद्युतो यदा हन्युः।  
+    
+३।३३च्द्। नरपति^मरणं विन्द्यात् तदा^अन्यराज^*प्रतिष्ठा[क्।प्रतिष्ठाम्] च॥  
+    
+३।३४अब्। प्रतिदिवसम् अहिम^किरणः परिवेषी सन्ध्ययोर् द्वयोर् अथ वा।  
+    
+३।३४च्द्। रक्तो +अस्तम् एति रक्त^उदितश् च भूपं करोत्य् अन्यम्॥  
+    
+३।३५अब्। प्रहरण^सदृशैर् जलदैः स्थगितः सन्ध्या^द्वये +अपि रणकारी।  
+    
+३।३५च्द्। मृग^महिष^विहग^खर^करभ^सदृश^रूपैश् च भयदायी॥  
+    
+३।३६अब्। दिन^कर^कर^अभितापाद् ऋक्षम् अवाप्नोति सुमहतीम् पीडाम्।  
+    
+३।३६च्द्। भवति तु पश्चात्^शुद्धं कनकम् इव हुताश^परितापात्॥  
+    
+३।३७अब्। दिवसकृतः प्रतिसूर्यो जलकृद् उदग् दक्षिणे स्थितो +अनिलकृत्।  
+    
+३।३७च्द्। उभयस्थः सलिल^भयं नृपम् उपरि निहन्त्य् अधो जनहा॥  
+    
+३।३८अ रुधिर^निभो वियत्य् अवनिप^अन्तकरो न चिरात्  
+    
+३।३८ब् परुष^रजो^अरुणी^कृत^तनुर् यदि वा दिनकृत्।  
+    
+३।३८च् [क्।३।३९अब्] असित^विचित्र^नील^परुषो जन^घात^करः  
+    
+३।३८द् [क्।३।३९च्द्] खग^मृग^भैरव^स्वर^रुतैश् च निशा^द्युमुखे॥  
+    
+३।३९अब्। [क्।३।४०अब्] अमल^वपुर् अवक्र^मण्डलः स्फुट^विपुल^अमल^दीर्घ^दीधितिः।  
+    
+३।३९च्द्। [क्।३।४०च्द्] अविकृत^तनु^वर्ण^चिह्न^भृज् जगति करोति शिवं दिवा^करः॥
+
+                   ४ चन्द्रचाराध्यायः।
+
+४।०१अब्। नित्यम् अधःस्थस्य^इन्दोर् भाभिर् भानोः सितं भवत्य् अर्धम्।  
+    
+४।०१च्द्। स्वच्छायया^अन्यद् असितं कुम्भस्य^इव^आतपस्थस्य॥  
+    
+४।०२अब्। सलिल^मये शशिनि रवेर् दीधितयो मूर्छितास् तमो नैशम्।  
+    
+४।०२च्द्। क्षपयन्ति दर्पण^उदर*निहिता[क्।निहता] इव मन्दिरस्य^अन्तः॥  
+    
+४।०३अब्। त्यजतो +अर्क^तलं शशिनः पश्चाद् अवलम्बते यथा शौक्ल्यम्।  
+    
+४।०३च्द्। दिनकर^वशात् तथा^इन्दोः प्रकाशते +अधः प्रभृत्य् उदयः॥  
+    
+४।०४अब्। प्रतिदिवसम् एवम् अर्कात् स्थान^विशेषेण शौक्ल्य^परिवृद्धिः।  
+    
+४।०४च्द्। भवति शशिनो +अपराह्णे पश्चाद् भागे घटस्य^इव  
+    
+४।०५अब्। ऐन्द्रस्य शीत^किरणो मूल^आषाढा^द्वयस्य *च^आयातः[क्।वा यातः]।  
+    
+४।०५च्द्। याम्येन *वीज[क्।ऊ।बीज]^जलचर^काननहा वह्नि^भयदश् च॥  
+    
+४।०६अब्। दक्षिण^पार्श्वेन गतः शशी विशाखा^अनुराधयोः पापः।  
+    
+४।०६च्द्। मध्येन तु प्रशस्तः *पितृदेव[क्।पित्र्यस्य]^विशाखयोश् च^अपि॥  
+    
+४।०७अब्। षड् अनागतानि पौष्णाद् द्वादश रौद्राच् च मध्य^योगीनि।  
+    
+४।०७च्द्। ज्येष्ठ^आद्यानि नव^ऋक्षाण्य् उडुपतिना^अतीत्य युज्यन्ते॥  
+    
+४।०८अब्। उन्नतम् ईषच्^छृङ्गं नौ^संस्थाने विशालता च^उक्ता।  
+    
+४।०८च्द्। नाविक^पीडा तस्मिन् भवति शिवं सर्व^लोकस्य॥  
+    
+४।०९अब्। अर्द्ध^उन्नते च लाङ्गलम् इति पीडा तद्^उपजीविनां तस्मिन्।  
+    
+४।०९च्द्। प्रीतिश् च निर्निमित्तं मनुजपतीनां सुभिक्षं च॥  
+    
+४।१०अब्। दक्षिण^विषाणम् अर्ध^उन्नतं यदा दुष्ट^लाङ्गल^आख्यं तत्।  
+    
+४।१०च्द्। पाण्ड्य^नरेश्वर^निधन^कृद् उद्योग^करं बलानाम् च॥  
+    
+४।११अब्। सम^शशिनि सुभिक्ष^क्षेम^वृष्टयः प्रथम^दिवस^सदृशाः स्युः।  
+    
+४।११च्द्। दण्डवद् उदिते पीडा गवां नृपश् च^उग्र^दण्डो +अत्र॥  
+    
+४।१२अब्। कार्मुक^रूपे युद्धानि यत्र तु ज्या ततो जयस् तेषाम्।  
+    
+४।१२च्द्। स्थानं युगम् इति याम्य^उत्तर^आयतं भूमि^कम्पाय॥  
+    
+४।१३अब्। युगम् एव याम्य^कोट्यां किं चित् तुङ्गं स पार्श्व^शायी^इति  
+    
+४।१३च्द्। विनिहन्ति सार्थवाहान् वृष्टेश् च विनिग्रहं कुर्यात्॥  
+    
+४।१४अब्। अभ्युच्छ्रायाद् एकं यदि शशिनो +अवाङ्मुखं भवेत्^छृङ्गम्।  
+    
+४।१४च्द्। आवर्जितम् इत्य् असुभिक्ष^कारि तद् गो^धनस्य^अपि॥  
+    
+४।१५अब्। अव्युच्छिन्ना रेखा समन्ततो मण्डला च कुण्ड^आख्यम्।  
+    
+४।१५च्द्। अस्मिन् माण्डलिकानां स्थान^त्यागो नरपतीनाम्॥  
+    
+४।१६अब्। प्रोक्त^स्थान^अभावाद् उदग्^उच्चः क्षेम^वृद्धि^वृष्टि^करः।  
+    
+४।१६च्द्। दक्षिण^तुङ्गश् चन्द्रो दुर्भिक्ष^भयाय निर्दिष्टः॥  
+    
+४।१७अब्। शृङ्गेण^एकेन^*इन्दुर्[क्।इन्दुम्] विलीनम् अथ वा^अप्य् अवाङ्मुखं *शृङ्गम्[क्।अशृङ्गम्]।  
+    
+४।१७च्द्। सम्पूर्णं च^अभिनवं दृष्ट्वा^एको जीविताद् भ्रश्येत्॥  
+    
+४।१८अब्। संस्थान^विधिः कथितो रूपाण्य् अस्माद् भवन्ति चन्द्रमसः।  
+    
+४।१८च्द्। स्वल्पो दुर्भिक्ष^करो महान् सुभिक्ष^आवहः प्रोक्तः॥  
+    
+४।१९अब्। मध्य^तनुर् वज्र^आख्यः क्षुद्^भयदः सम्भ्रमाय राज्ञां च।  
+    
+४।१९च्द्। चन्द्रो मृदङ्ग^रूपः क्षेम^सुभिक्ष^आवहो भवति॥  
+    
+४।२०अब्। ज्ञेयो विशाल^मूर्तिर् नरपति^लक्ष्मी^विवृद्धये चन्द्रः।  
+    
+४।२०च्द्। स्थूलः सुभिक्ष^कारी प्रिय^धान्य^करस् तु तनु^मूर्तिः॥  
+    
+४।२१अ प्रत्यन्तान् कु^नृपांश् च हन्त्य् उडुपतिः शृङ्गे कुजेन^आहते  
+    
+४।२१ब् शस्त्र^क्षुद्^भयकृद् यमेन शशिजेन^अवृष्टि^दुर्भिक्ष^कृत्।  
+    
+४।२१च् श्रेष्ठान् हन्ति नृपान् महेन्द्र^गुरुणा शुक्रेण च^अल्पान् नृपान्  
+    
+४।२१द् शुक्ले याप्यम् इदं फलम् ग्रह^कृतं कृष्णे यथोक्त^आगमम्॥  
+    
+४।२२अ भिन्नः सितेन मगधान् यवनान् पुलिन्दान्  
+    
+४।२२ब् नेपाल^भृङ्गि^*मरुकच्छ[क्ऽस् त्र्। मरुकुच्च]^सुराष्ट्र^मद्रान्।  
+    
+४।२२च् पाञ्चाल^कैकय^कुलूतक^पुरुषादान्  
+    
+४।२२द् हन्याद् उशीनर^जनान् अपि सप्त मासान्॥  
+    
+४।२३अब्। गान्धार^सौवीरक^सिन्धु^कीरान् धान्यानि शैलान् द्रविड^अधिपांश् च।  
+    
+४।२३च्द्। द्विजांश् च मासान् दश शीतरश्मिः सन्तापयेद् वाक्पतिना विभिन्नः॥  
+    
+४।२४अ उद्युक्तान् सह वाहनैर् नरपतींस् त्रैगर्तकान् मालवान्  
+    
+४।२४ब् कौलिन्दान् गण^पुङ्गवान् अथ शिबीन् आयोध्यकान् पार्थिवान्।  
+    
+४।२४च् हन्यात् कौरव^मत्स्य^शुक्त्य्^अधिपतीन् राजन्य^मुख्यान् अपि  
+    
+४।२४द् प्रालेयांशुर् असृग्ग्रहे तनुगते षण्मासम् अर्यादया॥  
+    
+४।२५अब्। यौधेयान् सचिवान् सकौरवान् प्रागीशान् अथ च^अर्जुनायनान्।  
+    
+४।२५च्द्। हन्याद् अर्कज^भिन्न^मण्डलः शीतांशुर् दश^मास^पीडया॥  
+    
+४।२६अब्। मगधान् मथुरां च पीडयेद् वेणायाश् च तटं शशाङ्कजः।  
+    
+४।२६च्द्। अपरत्र कृतं युगं वदेद् यदि भित्त्वा शशिनं विनिर्गतः॥  
+    
+४।२७अब्। क्षेम^आरोग्य^सुभिक्ष^विनाशी शीतांशुः शिखिना यदि भिन्नः।  
+    
+४।२७च्द्। कुर्याद् आयुध^जीवि^विनाशं चौराणाम् अधिकेन च पीडाम्॥  
+    
+४।२८अब्। उल्कया यदा शशी ग्रस्त एव हन्यते।  
+    
+४।२८च्द्। हन्यते तदा नृपो यस्य जन्मनि स्थितः॥  
+    
+४।२९अब्। भस्म^निभः परुषो +अरुण^मूर्तिः शीत^करः किरणैः परिहीणः।  
+    
+४।२९च्द्। श्याव^तनुः स्फुटितः स्फुरणो वा *क्षुड्^डमर[क्।क्षुत्समरा]^आमय^चौर^भयाय॥  
+    
+४।३०अब्। प्रालेय^कुन्द^कुमुद^स्फटिक^अवदातो यत्नाद् इव^अद्रिसुतया परिमृज्य चन्द्रः।  
+    
+४।३०च्द्। उच्चैः कृतो निशि भविष्यति मे शिवाय यो दृश्यते स भविता जगतः शिवाय॥  
+    
+४।३१अब्[क्।४।३२अब्]। शुक्ले पक्षे सम्प्रवृद्धे प्रवृद्धिं ब्रह्म^क्षत्रं याति वृद्धिं प्रजाश् च।  
+    
+४।३१च्द्[क्।४।३२च्द्]। हीने हानिस् तुल्यता तुल्यतायां कृष्णे सर्वे तत्फलं व्यत्ययेन॥  
+    
+४।३२अब्[क्।४।३१अब्]। यदि कुमुद^मृणाल^हार^गौरस् तिथि^नियमात् क्षयम् एति वर्द्धते वा।  
+    
+४।३२च्द्[क्।४।३१च्द्]। अविकृत^गति^मण्डल^अंशु^योगी भवति नृणां विजयाय शीतरश्मिः॥
+
+                   ५ राहुचाराध्यायः
+
+५।०१अब्। अमृत^आस्वाद^विशेषाच् च्छिन्नम् अपि शिरः किल^असुरस्य^इदम्।  
+    
+५।०१च्द्। प्राणैर् अपरित्यक्तं ग्रहतां यातं वदन्त्य् एके॥  
+    
+५।०२अब्। इन्दु^अर्क^मण्डल^आकृतिर् असितत्वात् किल न दृश्यते गगने।  
+    
+५।०२च्द्। अन्यत्र पर्व^कालाद् वर^प्रदानात् कमलयोनेः॥  
+    
+५।०३अब्। मुख^पुच्छ^विभक्त^अङ्गं भुजङ्गम् आकारम् उपदिशन्त्य् अन्ये।  
+    
+५।०३च्द्। कथयन्त्य् अमूर्तम् अपरे तमो^मयं सैंहिकेय^आख्याख्यम्॥  
+    
+५।०४अब्। यदि मूर्तो भविचारी शिरो +अथ वा भवति मण्डली राहुः।  
+    
+५।०४च्द्। भगण^अर्धेन^*अन्तरितौ[क्।अन्तरितो] गृह्णाति कथं नियत^चारः॥  
+    
+५।०५अब्। अनियत^चारः खलु चेद् उपलब्धिः सङ्ख्यया कथं तस्य।  
+    
+५।०५च्द्। पुच्छ^आनन^अभिधानो +अन्तरेण कस्मान् न गृह्णाति॥  
+    
+५।०६अब्। अथ तु भुजगेन्द्र^रूपः पुच्छेन मुखेन वा स गृह्णाति।  
+    
+५।०६च्द्। मुख^पुच्छ^अन्तर^संस्थं स्थगयति कस्मान् न भगण^अर्धम्॥  
+    
+५।०७अब्। राहु^द्वयं यदि स्याद् ग्रस्ते +अस्तमिते +अथ वा^उदिते चन्द्रे।  
+    
+५।०७च्द्। तत्समगतिना^अन्येन ग्रस्तः सूर्यो +अपि दृश्यते॥  
+    
+५।०८अब्। भू^च्छायां स्व^ग्रहणे भास्करम् अर्क^ग्रहे प्रविशति^इन्दुः।  
+    
+५।०८च्द्। प्रग्रहणम् अतः पश्चान् न^इन्दोर् भानोश् च पूर्व^अर्धात्॥  
+    
+५।०९अब्। वृक्षस्य स्वच्छाया यथा^*एकपार्श्वे[क्।एकपार्श्वेन] भवति *दीर्घचया[क्।दीर्घा च]।  
+    
+५।०९च्द्। निशि निशि तद्वद् भूमेर् आवरण^वशाद् दिनेशस्य॥  
+    
+५।१०अब्। सूर्यात् सप्तम^राशौ यदि च^उदग्^दक्षिणेन न^अतिगतः।  
+    
+५।१०च्द्। चन्द्रः पूर्व^अभिमुखश् छायाम् और्वीम् तदा विशति॥  
+    
+५।११अब्। चन्द्रो +अधःस्थः स्थगयति रविम् अम्बुदवत् समागतः पश्चात्।  
+    
+५।११च्द्। प्रतिदेशम् अतश् चित्रं दृष्टि^वशाद् भास्कर^ग्रहणम्॥  
+    
+५।१२अब्। आवरणं महद् इन्दोः कुण्ठ^विषाणस् ततो +अर्ध^सञ्च्छन्नः।  
+    
+५।१२च्द्। स्वल्पम् रवेर् यतो +अतस् तीक्ष्ण^विषाणो रविर् भवति॥  
+    
+५।१३अब्। एवम् उपराग^कारणम् उक्तम् इदं दिव्य^दृग्भिर् आचार्यैः।  
+    
+५।१३च्द्। राहुर् अकारणम् अस्मिन्न् इत्य् उक्तः शास्त्र^सद्भावः॥  
+    
+५।१४अब्। यो +असौ^असुरो राहुस् तस्य वरो ब्रह्मणा +अयम् आज्ञप्तः।  
+    
+५।१४च्द्। आप्यायनम् उपरागे दत्त^हुतांशेन ते भविता॥  
+    
+५।१५अब्। तस्मिन् काले सान्निध्यम् अस्य तेन^उपचर्यते राहुः।  
+    
+५।१५च्द्। याम्योत्तरा शशिगतिर् गणिते +अप्य् उपचर्यते तेन॥  
+    
+५।१६अब्। न कथं चिद् अपि निमित्तैर् ग्रहणं विज्ञायते निमित्तानि।  
+    
+५।१६च्द्। अन्यस्मिन्न् अपि काले भवन्त्य् अथ^उत्पात^रूपाणि॥  
+    
+५।१७अब्। पञ्चग्रह^संयोगान् न किल ग्रहणस्य सम्भवो भवति।  
+    
+५।१७च्द्। तैलं च जले +अष्टम्यां न विचिन्त्यम् इदं विपश्चिद्भिः॥  
+    
+५।१८अब्। अवनत्या +अर्के ग्रासो दिग्^ज्ञेया वलनया^अवनत्या च।  
+    
+५।१८च्द्। तिथ्य्^अवसानाद् वेला करणे कथितानि तानि मया॥  
+    
+५।१९अब्। षण्मास^उत्तर^वृद्ध्या पर्वेशाः सप्त देवताः क्रमशः।  
+    
+५।१९च्द्। ब्रह्म^शशि^इन्द्र^कुबेरा वरुण^अग्नि^यमाश् च विज्ञेयाः॥  
+    
+५।२०अब्। ब्राह्मे द्विज^पशु^*वृद्धिः क्षेम^आरोग्याणि[क्।वृद्धिक्षेमारोग्याणि] सस्य^सम्पत्^च।  
+    
+५।२०च्द्। तद्वत् सौम्ये तस्मिन् पीडा विदुषाम् अवृष्टिश् च॥  
+    
+५।२१अब्। ऐन्द्रे भूप^विरोधः शारद^सस्य^क्षयो न च क्षेमम्।  
+    
+५।२१च्द्। कौबेरे +अर्थ^पतीनाम् अर्थ^विनाशः सुभिक्षं च॥  
+    
+५।२२अब्। वारुणम् अवनीश^अशुभम् अन्येषां क्षेम^सस्य^वृद्धि^करम्।  
+    
+५।२२च्द्। आग्नेयं मित्र^आख्यं सस्य^आरोग्य^अभय^अम्बु^करम्॥  
+    
+५।२३अब्। याम्यं करोत्य् अवृष्टिं दुर्भिक्षं सङ्क्षयं च सस्यानाम्।  
+    
+५।२३च्द्। यद् अतः परं तद् अशुभं क्षुत्^मार^अवृष्टिदं पर्व॥  
+    
+५।२४अब्। वेलाहीने पर्वणि गर्भ^विपत्तिश् च शस्त्र^कोपश् च।  
+    
+५।२४च्द्। अतिवेले कुसुम^फल^क्षयो भयं सस्य^नाशश् च॥  
+    
+५।२५अब्। हीन^अतिरिक्त^काले फलम् उक्तं पूर्व^शास्त्र^दृष्टत्वात्।  
+    
+५।२५च्द्। स्फुट^गणित^विदः कालः कथञ् चिद् अपि न^अन्यथा भवति॥  
+    
+५।२६अब्। यद्य् एकस्मिन् मासे ग्रहणं रवि^सोमयोस् तदा क्षितिपाः।  
+    
+५।२६च्द्। स्वबल^क्षोभैः सङ्क्षयम् आयान्त्य् अतिशस्त्र^कोपश् च॥  
+    
+५।२७अब्। ग्रस्ताव् उदित^अस्तमितौ शारद^धान्य^अवनीश्वर^क्षयदौ।  
+    
+५।२७च्द्। सर्व^ग्रस्तौ दुर्भिक्ष^मरकदौ पाप^सन्दृष्टौ॥  
+    
+५।२८अब्। अर्ध^उदित^उपरक्तो नैकृतिकान् हन्ति सर्वयज्ञांश् च।  
+    
+५।२८च्द्। अग्न्य्^उपजीवि^गुण^अधिक^विप्र^आश्रमिणो *युगे +अभ्युदितः[क्।अयुगाभ्युदितः]॥  
+    
+५।२९अब्। कर्षक^*पाखण्डि[क्।पाषण्डि]^वणिक्^क्षत्रिय^बल^नायकान् *द्वितीयांशे[क्।द्वितीये +अंशे]।  
+    
+५।२९च्द्। कारुक^शूद्र^म्लेच्छान् ख^तृतीयाम्शे समन्त्रिजनान्॥  
+    
+५।३०अब्। मध्य^अह्ने नरपति^मध्यदेशहा शोभनश् च धान्य^अर्घः।  
+    
+५।३०च्द्। तृणभुग्^अमात्य^अन्तःपुर^वैश्यघ्नः पञ्चमे खांशे।  
+    
+५।३१अब्। स्त्री^शूद्रान् षष्ठे +अंशे दस्यु^प्रत्यन्तहा^अस्तमय^काले।  
+    
+५।३१च्द्। यस्मिन् खांशे मोक्षस् तत्^प्रोक्तानां शिवं भवति॥  
+    
+५।३२अब्। द्विज^नृपतीन् उदगयने विट्^शूद्रान् दक्षिणायने हन्ति।  
+    
+५।३२च्द्। राहुर् उदग्^आदिदृष्टः प्रदक्षिणं हन्ति विप्र^आदीन्॥  
+    
+५।३३अब्। म्लेच्छान् विदिक्स्थितो यायिनश् च हन्याद् धुताश^सक्तांश् च।  
+    
+५।३३च्द्। सलिल^चर^दन्ति^घाती याम्येन^उदग् गवाम् अशुभः॥  
+    
+५।३४अब्। पूर्वेण सलिल^पूर्णां करोति वसुधां समागतो दैत्यः।  
+    
+५।३४च्द्। पश्चात् कर्षक^सेवक^बीज^विनाशाय निर्दिष्टः॥  
+    
+५।३५अब्। पाञ्चाल^कलिङ्ग^शूरसेनाः काम्बोज^उड्र^किरात^शस्त्र^वार्त्ताः।  
+    
+५।३५च्द्। जीवन्ति च ये हुताश^वृत्त्या ते पीडाम् उपयान्ति मेष^संस्थे॥  
+    
+५।३६अब्। गोपाः पशवो +अथ गोमिनो मनुजा ये च महत्त्वम् आगताः।  
+    
+५।३६च्द्। पीडाम् उपयान्ति भास्करे ग्रस्ते शीत^करे +अथ वा वृषे॥  
+    
+५।३७अब्। मिथुने प्रवर^अङ्गना नृपा नृप^मात्रा बलिनः कला^विदः।  
+    
+५।३७च्द्। यमुना^तटजाः सबाह्लिका मत्स्याः सुह्म^जनैः समन्विताः॥  
+५।३८अब्। आभीरान्^शबरान् सपह्लवान् मल्लान् मत्स्य^कुरूञ् छकान् अपि।  
+    
+५।३८च्द्। पाञ्चालान् विकलांश् च पीडयत्य् अन्नं च^अपि निहन्ति कर्कटे॥  
+    
+५।३९अब्। सिंहे पुलिन्द^गण^मेकल^सत्त्व^युक्तान् राज^उपमान् नरपतीन् वन^गोचरांश् च।  
+    
+५।३९च्द्। षष्ठे तु सस्य^कवि^लेखक^गेय^सक्तान् हन्त्य् अश्मक^त्रिपुर^शालि^युतांश् च देशान्॥  
+    
+५।४०अब्। तुलाधरे +अवन्त्य्^अपरान्त्य^साधून् वणिग्^दशार्णान् *मरुकच्छपांश्[क्।भरुकच्छपांश्] च।  
+    
+५।४०च्द्। अलिन्य् अथ^उदुम्बर^मद्र^चोलान् द्रुमान् सयौधेय^विष^आयुधीयान्॥  
+    
+५।४१अब्। धन्विन्य् अमात्य^वर^वाजि^विदेह^मल्लान् पाञ्चाल^वैद्य^वणिजो विषम^आयुधज्ञान्।  
+    
+५।४१च्द्। हन्यान् मृगे तु झष^मन्त्रि^कुलानि नीचान् मन्त्र^औषधीषु कुशलान् स्थविर^आयुधीयान्॥  
+    
+५।४२अब्। कुम्भे +अन्तर्गिरिजान् सपश्चिम^जनान् भार^उद्वहांस् तस्करान् आभीरान् दरद^आर्य^सिंह^पुरकान् हन्यात् तथा बर्बरान्।(छेच्केद्)  
+    
+५।४२च्द्। मीने सागरकूल^सागर^जल^द्रव्याणि *वन्यान्[क्।मान्यान्] जनान् प्राज्ञान् वार्युपजीविनश् च भफलं कूर्म^उपदेशाद् वदेत्॥  
+    
+५।४३अब्। सव्य^अपसव्य^लेह^ग्रसन^निरोध^अवमर्दन^आरोहाः।  
+    
+५।४३च्द्। आघ्रातं मध्यतमस् तमो +अन्त्य इति ते दश ग्रासाः॥  
+    
+५।४४अब्। सव्यगते तमसि जगज्^जलप्लुतं भवति मुदितम् अभयं च।  
+    
+५।४४च्द्। अपसव्ये नरपति^तस्कर^अवमर्दैः प्रजानाशः॥  
+    
+५।४५अब्। *जिह्व^उपलेढि[क्।जिह्वेवलेढि] परितस् तिमिर^नुदो मण्डलं यदि स लेहः।  
+    
+५।४५च्द्। प्रमुदित^समस्त^भूता प्रभूत^तोया च तत्र मही॥  
+    
+५।४६अब्। ग्रसनम् इति यदा त्र्यंशः पादो वा गृह्यते +अथ वा^अप्य् अर्धम्।  
+    
+५।४६च्द्। स्फीत^नृप^वित्त^हानिः पीडा च स्फीत^देशानाम्॥  
+    
+५।४७अब्। पर्यन्तेषु गृहीत्वा मध्ये पिण्डीकृतं तमस् तिष्ठेत्।  
+    
+५।४७च्द्। स निरोधो विज्ञेयः प्रमोद^कृत् सर्वभूतानाम्॥  
+    
+५।४८अब्। अवमर्दनम् इति निःशेषम् एव सञ्छाद्य यदि चिरं तिष्ठेत्।  
+    
+५।४८च्द्। हन्यात् प्रधान^भूपान् *प्रधान^देशांश्[क्।प्रधानदेशान् प्रधानभूपांश्] च तिमिर^मयः॥  
+    
+५।४९अब्। वृत्ते ग्रहे यदि तमस् तत्क्षणम् आवृत्य दृश्यते भूयः।  
+    
+५।४९च्द्। आरोहणम् इत्य् अन्योन्य^मर्दनैर् भय^करं राज्ञाम्॥  
+    
+५।५०अब्। दर्पण इव^एकदेशे *सबाष्प[क्।सवाष्प]^निःश्वास^मारुत^उपहतः।  
+    
+५।५०च्द्। दृश्येत^आघ्रातं तत् सुवृष्टि^वृद्ध्य्^आवहं जगतः॥  
+    
+५।५१अब्। मध्ये तमः प्रविष्टं वितमस्कं मण्डलं च यदि परितः  
+    
+५।५१च्द्। तन्^मध्यदेश^नाशं करोति कुक्ष्य्^आमय^भयं च॥  
+    
+५।५२अब्। पर्यन्तेषु^अतिबहुलं स्वल्पं मध्ये तमस् तमोन्त्य^आख्ये।  
+    
+५।५२च्द्। सस्यानाम् ईति^भयं भयम् अस्मिंस् तस्कराणां च॥  
+    
+५।५३अब्। श्वेते क्षेम^सुभिक्षं ब्राह्मण^पीडां च निर्दिशेद् राहौ।  
+    
+५।५३च्द्। अग्नि^भयम् अनल^वर्णे पीडा च हुताशवृत्तीनाम्॥  
+    
+५।५४अब्। हरिते रोग^*उल्बणता[क्।उल्वणता] सस्यानाम् ईतिभिश् च विध्वंसः।  
+    
+५।५४च्द्। कपिले शीघ्रग^सत्त्व^म्लेच्छ^ध्वंसो +अथ दुर्भिक्षम्॥  
+    
+५।५५अब्। अरुण^किरण^अनुरूपे दुर्भिक्ष^अवृष्टयो विहग^पीडा।  
+    
+५।५५च्द्। आधूम्रे क्षेम^सुभिक्षम् आदिशेत् मन्दवृष्टिं च॥  
+    
+५।५६अब्। कापोत^अरुण^कपिल^श्यावाभे क्षुद्^भयं विनिर्देश्यम्।  
+    
+५।५६च्द्। कापोतः शूद्राणां व्याधि^करः कृष्ण^वर्णश् च॥  
+    
+५।५७अब्। विमलक^मणि^पीत^आभो वैश्य^ध्वंसी भवेत् सुभिक्षाय।  
+    
+५।५७च्द्। स^अर्चिष्मत्य् अग्नि^भयं गैरिक^रूपे तु युद्धानि॥  
+    
+५।५८अब्। दूर्वाकाण्ड^श्यामे हारिद्रे वा^अपि निर्दिशेत् मरकम्।  
+    
+५।५८च्द्। अशनि^भय^सम्प्रदायी *पाटल[क्।पाटलि]^कुसुम^उपमो राहुः॥  
+    
+५।५९अब्। पांशु^विलोहित^रूपः क्षत्र^ध्वंसाय भवति वृष्टेश् च।  
+    
+५।५९च्द्। बाल^रवि^कमल^सुरचाप^रूप^भृत् शस्त्र^कोपाय॥  
+    
+५।६०अब्। पश्यन् ग्रस्तं सौम्यो घृत^मधु^तैल^क्षयाय राज्णां च।  
+    
+५।६०च्द्। भौमः समर^विमर्दं शिखि^कोपं तस्कर^भयं च॥  
+    
+५।६१अब्। शुक्रः सस्य^विमर्दं नाना^क्लेशांश् च जनयति धरित्र्याम्।  
+    
+५।६१च्द्। रविजः करोत्य् अवृष्टिं दुर्भिक्षं तस्कर^भयं च॥  
+    
+५।६२अब्। यद् अशुभम् अवलोकनाभिर् उक्तं ग्रहजनितं ग्रहणे प्रमोक्षणे वा।  
+    
+५।६२च्द्। सुरपतिगुरुणा^अवलोकिते तत्^शमम् उपयाति जलैर् इव^अग्निर् इद्धः॥  
+    
+५।६३अब्। ग्रस्ते क्रमान् निमित्तैः पुनर् ग्रहो मास^षट्क^परिवृद्ध्या।  
+    
+५।६३च्द्। पवन^उल्कापात^रजः क्षितिकम्प^तमो^अशनि^निपातैः॥  
+    
+५।६४अब्। आवन्तिका जनपदाः कावेरी^नर्मदा^तट^आश्रयिणः।  
+    
+५।६४च्द्। दृप्ताश् च मनुजपतयः पीड्यन्ते क्षितिसुते ग्रस्ते॥  
+    
+५।६५अब्। अन्तर्वेदीं सरयूं नेपालं पूर्वसागरं शोणम्।  
+    
+५।६५च्द्। स्त्री^नृप^योध^कुमारान् सह विद्वद्भिर् बुधो हन्ति॥  
+    
+५।६६अब्। ग्रहण^उपगते जीवे विद्वन्^नृप^मन्त्रि^गज^हय^ध्वंसः।  
+    
+५।६६च्द्। सिन्धु^तट^वासिनाम् अप्य् उदग्^दिशं संश्रितानां च॥  
+    
+५।६७अब्। भृगुतनये राहुगते *दाशेरक[क्।दसेरकाः]कैकयाः सयौधेयाः।  
+    
+५।६७च्द्। आर्यावर्त्ताः शिबयः स्त्री^सचिव^गणाश् च पीड्यन्ते॥  
+    
+५।६८अब्। सौरे मरु^भव^पुष्कर*सौराष्ट्रिक[क्।सौराष्ट्रा]^धातवो +अर्बुद^अन्त्यजनाः।  
+    
+५।६८च्द्। गोमन्त^पारियात्र^आश्रिताश्[क्ऽस् त्र्। गोमन्तः पारियात्रा] च नाशं व्रजन्त्य् आशु॥  
+    
+५।६९अ कार्त्तिक्याम् अनल^उपजीवि^मगधान् प्राच्य^अधिपान् कोशलान्  
+    
+५।६९ब् कल्माषान् अथ शूरसेन^सहितान् काशीश् च सन्तापयेत्।  
+    
+५।६९च् *हन्याद्[क्।हन्याद् च] आशु कलिङ्गदेश^नृपतिं स^अमात्य^भृत्यं तमो  
+    
+५।६९द् दृष्टं क्षत्रिय^तापदं जनयति क्षेमं सुभिक्ष^अन्वितम्॥  
+    
+५।७०अब्। काश्मीरकान् कौशलकान् सपुण्ड्रान् मृगांश् च हन्याद् अपरान्तकांश् च।  
+    
+५।७०च्द्। ये सोमपास् तांश् च निहन्त्य् सौम्ये सुवृष्टि^कृत् क्षेम^सुभिक्ष^कृत्^च॥  
+    
+५।७१अब्। पौषे द्विज^क्षत्र^जन^उपरोधः ससैन्धव^आख्याः कुकुरा विदेहाः।  
+    
+५।७१च्द्। ध्वंसं व्रजन्त्य् अत्र च मन्द^वृष्टिं भयं च विन्द्याद् असुभिक्ष^युतम्॥  
+    
+५।७२अ माघे तु मातृ^पितृ^भक्त^वसिष्ठ^गोत्रान्  
+    
+५।७२ब् स्वाध्याय^धर्म^निरतान् करिणस् तुरङ्गान्।  
+    
+५।७२च् वङ्ग^अङ्ग^काशि^मनुजांश् च दुनोति राहुर्  
+    
+५।७२द् वृष्टिं च कर्षकजन^*अभिमतां[क्।अनुमताम्] करोति॥  
+    
+५।७३अब्। पीडा^करं फाल्गुनमासि पर्व *वङ्ग^अश्मक^अवन्तिक[क्।वन्तक]^मेकलानाम्।  
+    
+५।७३च्द्। *नृत्यज्ञ[क्।नृत्तज्ञ]^सस्य^प्रवर^अङ्गनानां धनुष्कर^क्षत्र^तपस्विनां च॥  
+    
+५।७४अ *चैत्र्यां[क्।चैत्रे] तु चित्रकर^लेख^गेय^सक्तान्  
+    
+५।७४ब् रूपोपजीवि^निगमज्ञ^हिरण्य^पण्यान्।  
+    
+५।७४च् पौण्ड्र^औड्र^कैकय^जनान् अथ च^अश्मकांश् च  
+    
+५।७४द् तापः स्पृशत्य् अमरपो +अत्र विचित्र^वर्षी॥  
+    
+५।७५अब्। वैशाख^*मासे[क्।मासि] ग्रहणे विनाशम् आयान्ति कर्पास^तिलाः स^मुद्गाः।  
+    
+५।७५च्द्। इक्ष्वाकु^यौधेय^शकाः कलिङ्गाः *सोप^प्लवाः[क्।सोपद्रवाः] किन्तु सुभिक्षम् अस्मिन्॥  
+    
+५।७६अब्। ज्येष्ठे[क्।ज्यैष्ठे] नरेन्द्र^द्विज^राजपत्न्यः सस्यानि वृष्टिश् च महागणाश् च।  
+    
+५।७६च्द्। प्रध्वंसम् आयान्ति नराश् च सौम्याः साल्वैः समेताश् च निषाद^सङ्घाः॥  
+    
+५।७७अब्। आषाढ^पर्वण्य् उदपान^वप्र^नदी^प्रवाहान् फल^मूल^वार्त्तान्।  
+    
+५।७७च्द्। गान्धार^काश्मीर^पुलिन्द^चीनान् हतान् वदेद् मण्डल^वर्षम् अस्मिन्॥  
+    
+५।७८अ काश्मीरान् सपुलिन्द^चीन^यवनान् हन्यात् कुरुक्षेत्रजान्  
+    
+५।७८ब् गान्धारान् अपि मध्यदेश^सहितान् वृष्टो ग्रहः श्रावणे।  
+    
+५।७८च् काम्बोज^एकशफांश् च शारदम् अपि त्यक्त्वा यथोक्तान् इमान्  
+    
+५।७८द् अन्यत्र प्रचुर^अन्न^हृष्ट^मनुजैर् धात्रीं करोत्य् आवृताम्॥  
+    
+५।७९अ कलिङ्ग^वङ्गान् मगधान् सुराष्ट्रान्  
+    
+५।७९ब् म्लेच्छान् सुवीरान् *दरद^अश्मकांश्[क्।दरदाञ् छकांश्] च।  
+    
+५।७९च् स्त्रीणां च गर्भान् असुरो निहन्ति  
+    
+५।७९द् सुभिक्ष^कृद् भाद्रपदे +अभ्युपेतः॥  
+    
+५।८०अ काम्बोज^चीन^यवनान् सह शल्यहृद्भिर्  
+    
+५।८०ब् *बाह्लीक[क्।वाल्हीक]^सिन्धुतट^वासिजनांश् च हन्यात्।  
+    
+५।८०च् *आनर्त्त[क्।आनर्त]^पौण्ड्र^भिषजश् च तथा किरातान्  
+    
+५।८०द् दृष्टो +असुरो +अश्वयुजि भूरि^सुभिक्ष^कृच् च॥  
+    
+५।८१अब्। हनु^कुक्षि^पायु^भेदा द्विर् द्विः सञ्छर्दनं च जरणं च।  
+    
+५।८१च्द्। मध्य^अन्तयोश् च विदरणम् इति दश शशि^सूर्ययोर् मोक्षाः॥  
+    
+५।८२अब्। आग्नेय्याम् अपगमनं दक्षिण^हनुभेद^सञ्ज्ञितं शशिनः।  
+    
+५।८२च्द्। सस्य^विमर्दो मुख^रुग् नृप^पीडा स्यात् सुवृष्टिश् च॥  
+    
+५।८३अब्। पूर्वोत्तरेण वामो हनु^भेदो नृप^कुमार^भयदायी।  
+    
+५।८३च्द्। मुखरोगं शस्त्र^भयं तस्मिन् विन्द्यात् सुभिक्षं च॥  
+    
+५।८४अब्। दक्षिण^कुक्षि^विभेदो दक्षिण^पार्श्वेन यदि भवेन् मोक्षः।  
+    
+५।८४च्द्। पीडा नृप^पुत्राणाम् अभियोज्या दक्षिणा रिपवः॥  
+    
+५।८५अब्। वामस् तु कुक्षि^भेदो यद्य् उत्तरमार्ग^संस्थितो राहुः।  
+    
+५।८५च्द्। स्त्रीणां गर्भ^विपत्तिः सस्यानि च तत्र मध्यानि॥  
+    
+५।८६अब्। नैरृत^वायव्य^स्थौ दक्षिण^वामौ तु पायु^भेदौ द्वौ।  
+    
+५।८६च्द्। गुह्य^रुग् अल्पा वृष्टिर् द्वयोस् तु राज्ञी^क्षयो वामे॥  
+    
+५।८७अब्। पूर्वेण प्रग्रहणं कृत्वा प्राग् एव च^अपसर्पेत ।  
+    
+५।८७च्द्। सञ्छर्दनम् इति तत् क्षेम^सस्य^हार्दिप्रदं जगतः॥  
+    
+५।८८अब्। प्राक् प्रग्रहणं यस्मिन् पश्चाद् अपसर्पणं तु तज् जरणम्।  
+    
+५।८८च्द्। क्षुत्^शस्त्र^भय^*उद्विग्ना न[क्।उद्विग्नाः क्व] शरणम् उपयान्ति तत्र जनाः॥  
+५।८९अब्। मध्ये यदि प्रकाशः प्रथमं तन् मध्य^विदरणं नाम।  
+    
+५।८९च्द्। अन्तःकोप^करं स्यात् सुभिक्षदं न^अतिवृष्टि^करम्॥  
+    
+५।९०अब्। पर्यन्तेषु विमलता बहुलं मध्ये तमो *+अन्त्य[क्।अन्त]^दरण^आख्यः।  
+    
+५।९०च्द्। मध्याख्यदेश^नाशः शारद^सस्य^क्षयश् च^अस्मिन्॥  
+    
+५।९१अब्। एते सर्वे मोक्षा वक्तव्या भास्करे +अपि किन्त्व् अत्र।  
+    
+५।९१च्द्। पूर्वा दिक् शशिनि यथा तथा रवौ पश्चिमा कल्प्या॥  
+    
+५।९२अब्। मुक्ते सप्ताहान्तः पांशु^निपातो +अन्न^सङ्क्षयं कुरुते।  
+    
+५।९२च्द्। नीहारो रोग^भयं भूकम्पः प्रवर^नृप^मृत्युम्॥  
+    
+५।९३अब्। उल्का मन्त्रि^विनाशं नानावर्णा घनाश् च भयम् अतुलम्।  
+    
+५।९३च्द्। स्तनितं गर्भ^विनाशं विद्युन्^नृप^दंष्ट्रि^परिपीडाम्॥  
+    
+५।९४अब्। परिवेषो रुक्^पीडां दिग्दाहो नृप^भयं च स^अग्नि^भयम्।  
+    
+५।९४च्द्। रूक्षो वायुः प्रबलश् चौरसमुत्थं भयं धत्ते॥  
+    
+५।९५अब्। निर्घातः सुरचापं दण्डश् च क्षुद्^भयं स^परचक्रम्।  
+    
+५।९५च्द्। *ग्रहयुद्धे[क्।ग्रहयुद्धम्] नृप^युद्धं केतुश् च तद् एव सन्दृष्टः॥  
+    
+५।९६अब्। अविकृतसलिल*निपातैः[क्।निपाते] सप्ताह^अन्तः सुभिक्षम् आदेश्यम्।  
+    
+५।९६च्द्। यच् च^अशुभं ग्रहणजं तत् सर्वं नाशन् उपयाति॥  
+    
+५।९७अब्। सोमग्रहे निवृत्ते पक्षान्ते यदि भवेद् ग्रहो +अर्कस्य।  
+    
+५।९७च्द्। तत्र^अनयः प्रजानां दम्पत्योर् वैरम् अन्योन्यम्॥  
+    
+५।९८अब्। अर्कग्रहात् तु शशिनो ग्रहणं यदि दृश्यते ततो विप्राः।  
+    
+५।९८च्द्। नैक^क्रतु^फल^भाजो भवन्ति मुदिताः प्रजाश् च^एव॥
+
+                   ६ भौमचाराध्यायः
+
+६।०१अब्। यद्य् उदय^ऋक्षाद् वक्रं करोति नवम^अष्ट^सप्तम^ऋक्षेषु।  
+    
+६।०१च्द्। तद्*वक्त्राम्[क्।वक्रम् ऊ।वक्त्रम्] उष्णम् उदये पीडा^करम् अग्निवार्त्तानाम्॥  
+    
+६।०२अब्। द्वादश^दशम^एकादश^नक्षत्राद् वक्रिते कुजे +अश्रु^मुखम्।  
+    
+६।०२च्द्। दूषयति रसान् उदये करोति रोगान् अवृष्टिं च॥  
+    
+६।०३अब्। व्यालं त्रयोदश^ऋक्षाच् चतुर्दशाद् वा विपच्यते +अस्तमये।  
+    
+६।०३च्द्। दंष्ट्रि^व्याल^मृगेभ्यः करोति पीडां सुभिक्षं च॥  
+    
+६।०४अब्। रुधिर^आननम् इति वक्त्रं पञ्चदशात् षोडशाच् च विनिवृत्ते।  
+    
+६।०४च्द्। तत्^कालं मुख^रोगं स^भयं च सुभिक्षम् आवहति॥  
+    
+६।०५अब्। असि^मुशलं सप्तदशाद् अष्टादशतो +अपि वा तद् अनुवक्रे।  
+    
+६।०५च्द्। दस्यु^गणेभ्यः पीदां करोत्य् अवृष्टिं स^शस्त्र^भयाम्॥  
+    
+६।०६अब्। भाग्य^आर्यमा^उदिते यदि निवर्तते वैश्व^दैवते भौमः।  
+    
+६।०६च्द्। प्राजापत्ये +अस्तमितस् त्रीन् अपि लोकान् निपीडयति॥  
+    
+६।०७अब्। श्रवण^उदितस्य वक्रं पुष्ये मूर्ध^अभिषिक्त^पीडा^कृत्।  
+    
+६।०७च्द्। यस्मिन्न् ऋक्षे +अभ्युदितस् तद्^दिग्^व्यूहान् जनान् हन्ति॥  
+    
+६।०८अब्। मध्येन यदि मघानां गत^अगतं लोहितः करोति ततः।  
+    
+६।०८च्द्। पाण्ड्यो नृपो विनश्यति शस्त्र^उद्योगाद् भयम् अवृष्टिम्॥  
+    
+६।०९अब्। भित्त्वा *मघा[क्।मघाम्] विशाखां भिन्दन् भौमः करोति दुर्भिक्षम्।  
+    
+६।०९च्द्। मरकं करोति घोरं यदि भित्त्वा रोहिणीं याति॥  
+    
+६।१०अब्। दक्षिणतो रोहिण्यास् चरन् महीजो +अर्घ^वृष्टि^निग्रह^कृत्।  
+    
+६।१०च्द्। धूमायन् स^शिखो वा विनिहन्यात् पारियात्र^स्थान्॥  
+    
+६।११अब्। प्राजापत्ये श्रवणे मूले *त्रिषु च^उत्तरेषु[क्।तिसृषूत्तरासु] शाक्रे च।  
+    
+६।११च्द्। विचरन् घन^निवहानाम् उपघात^करः क्षमा^तनयः॥  
+    
+६।१२अब्। चार^उदयाः प्रशस्ताः श्रवण^मघा^आदित्य*हस्त^मूलेषु[क्।मूलहस्तेषु]।  
+    
+६।१२च्द्। एकपदा^अश्वि^विशाखा^प्राजापत्येषु च कुजस्य॥  
+    
+६।१३अ विपुल^विमल^मूर्तिः किंशुक^अशोक^वर्णः  
+    
+६।१३ब् स्फुट^रुचिर^मयूखस् तप्त^ताम्र^प्रभा^आभः।  
+    
+६।१३च् विचरति यदि मार्गं च^उत्तरं मेदिनीजः  
+    
+६।१३द् शुभ^कृद् अवनि^पानां हार्दिदश् च प्रजानाम्॥
+
+                   ७ बुधचाराध्यायः
+
+७।०१अब्। न^उत्पात^परित्यक्तः कदा चिद् अपि चन्द्रजो व्रजत्य् उदयम्।  
+    
+७।०१च्द्। जल^दहन^पवन^भय^कृद् धान्य^अर्घ^क्षय^विवृद्धौ वा॥  
+    
+७।०२अब्। विचरन् श्रवण^धनिष्ठा^प्रजापत्य[उ।प्राजापत्य]^इन्दु*वैश्वदेवानि[क्।विश्वदैवानि]।  
+    
+७।०२च्द्। मृद्नन् हिम^कर^तनयः करोत्य् अवृष्टिं स^रोग^भयाम्॥  
+    
+७।०३अब्। रौद्र^आदीनि मघा^अन्तान्य् उपाश्रिते चन्द्रजे प्रजापीडा।  
+    
+७।०३च्द्। शस्त्र^निपात^क्षुद्^भय^रोग^अनावृष्टि^सन्तापैः॥  
+    
+७।०४अब्। हस्त^आदीनि *चरन्[क्।विचरन्] षडृक्षाण्य् उपपीडयन् गवाम् अशुभः।  
+    
+७।०४च्द्। स्नेह^रस^अर्घ^विवृद्धिं करोति च^उर्वीं प्रभूत^अन्नाम्॥  
+    
+७।०५अब्। आर्यम्णं हौतभुजं भद्रपदाम् उत्त्ररां यमेशं च।  
+    
+७।०५च्द्। चन्द्रस्य सुतो निघ्नन् प्राण^भृतां धातु^सङ्क्षय^कृत्॥  
+    
+७।०६अब्। आश्विन^वारुण^मूलान्य् उपमृद्नन् रेवतीं च चन्द्र^सुतः।  
+    
+७।०६च्द्। पण्य^भिषग्^नौजीविक^सलिलज^तुरग^उपघात^करः॥  
+    
+७।०७अब्। पूर्व^आद्य्^ऋक्ष^त्रितयाद् एकम् अपि^इन्दोः सुतो +अभिमृद्नीयात्।  
+    
+७।०७च्द्। क्षुत्^शस्त्र^तस्कर^आमय^भय^प्रदायी चरन् जगतः॥  
+    
+७।०८अब्। प्राकृत^विमिश्र^सङ्क्षिप्त^तीक्ष्ण^योगान्त^घोर^पाप^आख्याः।  
+    
+७।०८च्द्। सप्त पराशर^तन्त्रे नक्षत्रैः कीर्तिता गतयः॥  
+७।०९अब्। प्राकृत^सञ्ज्ञा वायव्य^याम्य^पैतामहानि बहुलाश् च।  
+    
+७।०९च्द्। मिश्रा गतिः प्रदिष्टा शशि^शिव^पितृ^*भुजगदेवानि[क्।भुजगदैवानि]।  
+    
+७।१०अब्। सङ्क्षिप्तायां पुष्यः पुनर्वसुः फल्गुनी^द्वयं च^इति।  
+    
+७।१०च्द्। तीक्ष्णायां भद्रपदा^द्वयं स^शाक्र^अश्वयुक् पौष्णम्॥  
+    
+७।११अब्। योगान्तिका^इति मूलं द्वे च^आषाढे गतिः सुतस्य^इन्दोः॥  
+    
+७।११च्द्। घोरा श्रवणस् त्वाष्ट्रं *वसुदैवं[क्।वसुदेवम्] वारुणं च^एव॥  
+    
+७।१२अब्। पाप^आख्या सावित्रं मैत्रं शक्राग्नि^दैवतं च^इति।  
+    
+७।१२च्द्। उदय^प्रवास^दिवसैः स एव गति^लक्षणं प्राह॥  
+    
+७।१३अब्। चत्वारिंशत्(४०) त्रिंशद्(३०) द्विसमेता विंशतिर्(२२) द्विनवकं(१८) च।  
+    
+७।१३च्द्। नव(९) मास^अर्धं(१५) दश च^एकसंयुताः(११) प्राकृताद्यानाम्॥  
+    
+७।१४अब्। प्राकृत^गत्याम् आरोग्य^वृष्टि^सस्य^प्रवृद्धयः क्षेमम्।  
+    
+७।१४च्द्। सङ्क्षिप्त^मिश्रयोर् मिश्रम् एतद् अन्यासु विपरीतम्॥  
+    
+७।१५अब्। ऋज्वी^अतिवक्रा^वक्रा विकला च मतेन देवलस्य^एताः।  
+    
+७।१५च्द्। पञ्च^चतुर्^द्व्य्^एकाहा ऋज्व्यादीनां षडभ्यस्ताः॥  
+    
+७।१६अब्। ऋज्वी हिता प्रजानाम् *अतिवक्रा +अर्घं[क्।अतिवक्रार्थम्] गतिर् विनाशयति।  
+    
+७।१६च्द्। शस्त्र^भयदा च वक्रा विकला भय^रोग^सञ्जननी॥  
+    
+७।१७अब्। पौष^आषाढ^श्रावण^वैशाखेष्व् इन्दुजः स^माघेषु।  
+    
+७।१७च्द्। वृष्टो भयाय जगतः शुभ^फल^कृत् प्रोषितस् तेषु॥  
+    
+७।१८अब्। *कार्तिके[क्।कार्त्तिके] +अश्वयुजि वा यदि मासे दृश्यते तनु^भवः शिशिरांशोः।  
+    
+७।१८च्द्। शस्त्र^चौर^हुतभुग्^गद^तोय^क्षुद्^भयानि च तदा विदधाति  
+    
+७।१९अब्। रुद्धानि सौम्ये *+अस्तगते[क्।अस्तमिते] पुराणि यान्य् उद्गते तान्य् उपयान्ति मोक्षम्।  
+    
+७।१९च्द्। अन्ये तु पश्चाद् उदिते वदन्ति लाभः पुराणां भवति तज्ज्ञाः॥  
+    
+७।२०अब्। हेम^कान्तिर् अथ वा शुक^वर्णः सस्यकेन मणिना सदृशो वा।  
+    
+७।२०च्द्। स्निग्ध^मूर्तिर् अलघुश् च हिताय व्यत्यये न शुभ^कृत् शशिपुत्रः॥
+
+                   ८ बृहस्पतिचाराध्यायः
+
+८।०१अब्। नक्षत्रेण सह^उदयम् उपगच्छति येन देवपति^मन्त्री।  
+    
+८।०१च्द्। तत्^सञ्ज्ञं वक्तव्यं वर्षं मास^क्रमेण^एव॥  
+    
+८।०२अब्। वर्षाणि कार्त्तिक^आदीन्य् आग्नेयाद् भ^द्वय^अनुयोगीनि।  
+    
+८।०२च्द्। क्रमशस् त्रिभं तु पञ्चमम् उपान्त्यम् अन्त्यं च यद् वर्षम्॥  
+    
+८।०३अब्। शकट^अनल^उपजीवक^गो^पीडा व्याधि^शस्त्र^कोपश् च।  
+    
+८।०३च्द्। वृद्धिस् तु रक्त^पीतक^कुसुमानां कार्त्तिके वर्षे॥  
+    
+८।०४अब्। सौम्ये +अब्दे +अनावृष्टिर् मृग^आखु^शलभ^अण्डजैश् च सस्य^वधः।  
+    
+८।०४च्द्। व्याधि^भयं मित्रैर् अपि भूपानां जायते वैरम्॥  
+    
+८।०५अब्। शुभ^कृज्^जगतः पौषो निवृत्त^वैराः परस्परं क्षितिपाः।  
+    
+८।०५च्द्। द्वि^त्रि^गुणो धान्य^अर्घः पौष्टिक^कर्म^प्रसिद्धिश् च॥  
+    
+८।०६अब्। पितृपूजा^परिवृद्धिर् माघे हार्दिश् च सर्वभूतानाम्।  
+    
+८।०६च्द्। आरोग्य^वृष्टि^धान्य^अर्घ^सम्पदो मित्र^लाभश् च॥  
+    
+८।०७अब्। फाल्गुन^वर्षे विन्द्यात् क्व चित् क्व चित् क्षेम^वृष्टि^सस्यानि।  
+    
+८।०७च्द्। दौर्भाग्यं प्रमदानां प्रबलाश् चौरा नृपाश् च^उग्राः॥  
+    
+८।०८अब्। चैत्रे मन्दा वृष्टिः प्रियम् अन्नं क्षेमम् अवनिपा मृदवः।  
+    
+८।०८च्द्। वृद्धिश् च कोश^धान्यस्य भवति पीडा च रूपवताम्॥  
+    
+८।०९अब्। वैशाखे *धर्म^रता[क्।धर्मपरा] विगत^भयाः प्रमुदिताः प्रजाः सनृपाः।  
+    
+८।०९च्द्। यज्ञ^क्रिया^प्रावृत्तिर् निष्पत्तिः सर्व^सस्यानाम्॥  
+    
+८।१०अब्। ज्यैष्ठे जाति^कुल^धन^श्रेणी^श्रेष्ठा नृपाः सधर्मज्ञाः।  
+    
+८।१०च्द्। पीड्यन्ते धान्यानि च हित्वा कङ्गुं शमीजातिम्॥  
+८।११अब्। आषाढे जायन्ते सस्यानि क्व चिद् अवृष्टिर् अन्यत्र।  
+    
+८।११च्द्। योगक्षेमं मध्यं व्यग्राश् च भवन्ति भूपालाः॥  
+    
+८।१२अब्। श्रावण^वर्षे क्षेमं सम्यक् सस्यानि पाकम् उपयान्ति।  
+    
+८।१२च्द्। क्षुद्रा ये *पाखण्डाः[क्।पाषण्डाः] पीड्यन्ते ये च तद्^भक्ताः॥  
+    
+८।१३अब्। भाद्रपदे वल्लीजं निष्पत्तिं याति पूर्वसस्यं च।  
+    
+८।१३च्द्। न भवत्य् अपरं सस्यं क्व चित् सुभिक्षं क्वचिच् च भयम्॥  
+    
+८।१४अब्। आश्वयुजे +अब्दे +अजस्रं पतति जलं प्रमुदिताः प्रजाः क्षेमम्।  
+    
+८।१४च्द्। प्राण^चयः प्राण^भृताम् सर्वेषाम् अन्न^बाहुल्यम्॥  
+    
+८।१५अब्। उदग्^आरोग्य^सुभिक्ष^क्षेम^करो वाक्पतिश् चरन् भानाम्।  
+    
+८।१५च्द्। याम्ये तद्^विपरीतो मध्येन तु मध्य^फल^दायी॥  
+    
+८।१६अब्। विचरन् भ^द्वयम् इष्टस् तत्^सार्धं वत्सरेण मध्य^फलः।  
+    
+८।१६च्द्। सस्यानां विध्वंसी विचरेद् अधिकं यदि कदा चित्॥  
+    
+८।१७अब्। अनल^भयम् अनल^वर्णे व्याधिः पीते रण^आगमः श्यामे।  
+    
+८।१७च्द्। हरिते च तस्करेभ्यः पीडा रक्ते तु शस्त्र^भयम्॥  
+    
+८।१८अब्। धूम^आभे +अनावृष्टिस् त्रिदश^गुरौ नृप^वधो दिवा दृष्टे।  
+    
+८।१८च्द्। विपुले +अमले सुतारे रात्रौ दृष्टे प्रजाः स्वस्थाः॥  
+    
+८।१९अ रोहिण्यो +अनलभं च वत्सर^तनुर् नाभिस् त्व् अषाढ^द्वयं  
+    
+८।१९ब् सार्पं हृत्^पितृ^दैवतं च कुसुमं शुद्धैः शुभं तैः फलम्।  
+    
+८।१९च् देहे क्रूर^निपीडिते +अग्न्य्^अनिलजं नाभ्यां भयं क्षुत्^कृतं  
+    
+८।१९द् पुष्पे मूल^फल^क्षयो +अथ हृदये सस्यस्य नाशो ध्रुवम्॥  
+    
+८।२०अ गतानि वर्षाणि शकेन्द्र^कालाद्  
+    
+८।२०ब् धतानि रुद्रैर् गुणयेच् चतुर्भिः।  
+    
+८।२०च् नव^अष्ट^पञ्च^अष्ट(८५८९)युतानि कृत्वा  
+    
+८।२०द् विभाजयेच्^शून्य^शरा^गरामैः(३७५०)॥  
+    
+८।२१अ *लब्धेन[क्।फलेन] युक्तं शक^भूपकालं  
+    
+८।२१ब् संशोध्य षष्ट्या विषयैर् विभज्य।  
+    
+८।२१च् युगानि नारायण^पूर्वकाणि  
+    
+८।२१द् लब्धानि शेषाः क्रमशः समाः स्युः॥  
+    
+८।२२अब्। एकैकम् अब्देषु नव^आहतेषु दत्त्वा पृथग् द्वादशकं क्रमेण।  
+    
+८।२२च्द्। हृत्वा चतुर्भिर् वसुदेवता^आद्यान्य् उडूनि शेषांशक^पूर्वम् अब्दम्॥  
+    
+८।२३अब्। विष्णुः सुरेज्यो बलभिद् धुताशस् त्वष्ट^उत्तरप्रोष्ठपदा^अधिपश् च।  
+    
+८।२३च्द्। क्रमाद् युगेशाः पितृ^विश्व^*सोम[क्।सोमाः]^शक्रानल^आख्य^अश्वि^भगाः प्रदिष्टाः॥  
+    
+८।२४अब्। संवत्सरो +अग्निः परिवत्सरो +अर्क इदा^आदिकः शीत^मयूख^माली।  
+    
+८।२४च्द्। प्रजापतिश् च^अप्य् अनुवत्सरः स्याद् इद्वत्सरः शैलसुतापतिश् च॥  
+    
+८।२५अब्। वृष्टिः समाद्ये प्रमुखे द्वितीये प्रभूत^तोया कथिता तृतीये।  
+    
+८।२५च्द्। पश्चाज् जलं मुञ्चति यच् चतुर्थं स्वल्प^उदकं पञ्चमम् अब्दम् उक्तम्॥  
+    
+८।२६अब्। चत्वारि मुख्यानि युगान्य् अथ^एषां विष्णु^इन्द्र^जीव^अनल^दैवतानि।  
+    
+८।२६च्द्। चत्वारि मध्यानि च मध्यमानि चत्वारि च^अन्त्यान्य् अधमानि  
+    
+विन्द्यात्॥  
+    
+८।२७अब्। आद्यं धनिष्टांशम् अभिप्रपन्नो माघे यदा यात्य् उदयं सुरेज्यः।  
+    
+८।२७च्द्। षष्ट्य्^अब्द^पूर्वः प्रभवः स नाम्ना *प्रपद्यते[क्।प्रवर्तते] भूत^हितस् तदाब्दः॥  
+    
+८।२८अब्। क्व चित् त्व् अवृष्टिः पवन^अग्नि^कोपः सन्ति^ईतयः श्लेष्म^कृताश् च रोगाः।  
+    
+८।२८च्द्। संवत्सरे +अस्मिन् प्रभवे प्रवृत्ते न दुःखम् आप्नोति जनस् तथा^अपि॥  
+    
+८।२९अब्। तस्माद् द्वितीयो विभवः प्रदिष्टः शुक्लस् तृतीयः परतः प्रमोदः।  
+    
+८।२९च्द्। प्रजापतिश् च^इति यथोत्तराणि शस्तानि वर्षाणि फलान्य् *अथ^एषाम्[क्।चैषाम्]॥  
+    
+८।३०अब्। निष्पन्न^शालि^इक्षु^यव^आदि^सस्यां भयैर् विमुक्ताम् उपशान्त^वैराम्॥  
+    
+८।३०च्द्। संहृष्ट^लोकां कलि^दोष^मुक्तां क्षत्रं तदा शास्ति च भूतधात्रीम्॥  
+    
+८।३१अब्। आद्यो +अङ्गिराः श्रीमुख^भावसा^आह्वौ *युवा सुधातेति[क्।युवाथ धातेति] युगे द्वितीये।  
+    
+८।३१च्द्। वर्षाणि पञ्च^एव यथाक्रमेण त्रीण्य् अत्र शस्तानि समे परे द्वे॥  
+    
+८।३२अब्। त्रिष्व् *आद्य^वर्षेषु[क्।अङ्गिराद्येषु, क्ऽस् त्र्। आद्यवर्षेषु] निकाम^वर्षी देवी निरातङ्क^*भयश्[क्।भयाश्] च लोकः।  
+    
+८।३२च्द्। अब्द^द्वये +अन्त्ये +अपि समा सुवृष्टिः किन्त्व् अत्र रोगाः समर^आगमश् च॥  
+    
+८।३३अब्। शाक्रे युगे पूर्वम् अथ^ईश्वर^आख्यं वर्षं द्वितीयं बहुधान्यम् आहुः।  
+    
+८।३३च्द्। प्रमाथिनं विक्रमम् अप्य् *अथ^अन्यद्[क्।अतो +अन्यद्] वृषं च विन्द्याद् गुरुचार^योगात्॥  
+    
+८।३४अब्। आद्यं द्वितीयं च शुभे तु वर्षे कृत^अनुकारं कुरुतः प्रजानाम्।  
+    
+८।३४च्द्। पापः प्रमाथी वृष^विक्रमौ तु सुभिक्षदौ रोग^भय^प्रदौ च॥  
+    
+८।३५अब्। श्रेष्ठं च चतुर्थस्य युगस्य पूर्वं यच् चित्रभानुं कथयन्ति वर्षम्।  
+    
+८।३५च्द्। मध्यं द्वितीयं तु सुभानु^सञ्ज्ञं रोग^प्रदं मृत्यु^करं *न तं च[क्।न तच् च]॥  
+    
+८।३६अब्। तारणं तद्^अनु भूरि^वारिदं सस्य^वृद्धि^*मुदिताति[क्।मुदितं च]^पार्थिवम्।  
+    
+८।३६च्द्। पञ्चमं व्ययम् उशन्ति शोभनं मन्मथ^प्रबलम् उत्सव^आकुलम्॥  
+    
+८।३७अब्। त्वाष्ट्रे युगे सर्वजिद्^आद्य उक्तः संवत्सरो +अन्यः खलु सर्वधारी।  
+    
+८।३७च्द्। तस्माद् विरोधी विकृतः खरश् च शस्तो द्वितीयो +अत्र भयाय शेषाः॥  
+    
+८।३८अब्। नन्दनो +अथ विजयो जयस् तथा मन्मथो +अस्य परतश् च दुर्मुखः।  
+    
+८।३८च्द्। कान्तम् अत्र युग आदितस् त्रयं मन्मथः सम^फलो +अधमो +अपरः॥  
+    
+८।३९अब्। हेमलम्ब इति सप्तमे युगे स्याद् विलम्बि परतो विकारि च।  
+    
+८।३९च्द्। शर्वरीति तद्^अनु प्लवः स्मृतो वत्सरो गुरु^वशेन पञ्चमः॥  
+    
+८।४०अ *ईति^प्राया[क्।इतिप्रायः] प्रचुर^पवना वृष्टिर् अब्दे तु पूर्वे  
+    
+८।४०ब् मन्दं सस्यं न बहु^सलिलं वत्सरे +अतो द्वितीये।  
+    
+८।४०च् अत्युद्वेगः प्रचुर^सलिलः स्यात् तृतीयश् चतुर्थो  
+    
+८।४०द् दुर्भिक्षाय प्लव इति ततः शोभनो भूरि^तोयः॥  
+    
+८।४१अब्। वैश्वे युगे *शोकहृद्[क्।शोभकृद्] इत्य् अथ^आद्यः संवत्सरो +अतः शुभकृद् द्वितीयः।  
+    
+८।४१च्द्। क्रोधी तृतीयः परतः क्रमेण विश्वावसुश् च^इति पराभवश् च॥  
+    
+८।४२अब्। पूर्वा^परौ प्रीति^करौ प्रजानाम् एषां तृतीयो बहु^दोषदो +अब्दः।  
+    
+८।४२च्द्। अन्त्यौ समौ किन्तु पराभवे +अग्निः शस्त्र^आमय^आर्तिर् द्विज^गो^भयं च॥  
+    
+८।४३अब्। आद्यः प्लवङ्गो नवमे युगे +अब्दः स्यात् कीलको +अन्यः परतश् च सौम्यः।  
+    
+८।४३च्द्। साधारणो रोधकृद् इत्य् *अथ^एवं[क्।अथाब्दः] शुभप्रदौ कीलक^सौम्यसञ्ज्ञौ॥  
+    
+८।४४अब्। कष्टः प्लवङ्गो बहुशः प्रजानां साधारणे +अल्पं जलम् ईतयश् च।  
+    
+८।४४च्द्। यः पञ्चमो रोधकृद् इत्य् अथ^अब्दश् चित्रम् जलम् तत्र च सस्यसम्पत्॥  
+    
+८।४५अब्। इन्द्राग्निदैवं दशमं युगं यत् *तत्र^आद्य^वर्षं[क्।तराद्यमब्दम्] परिधाविसञ्ज्ञम्।  
+    
+८।४५च्द्। *प्रमादिनं विक्रमम् अप्य् अतो +अन्यत्[क्।प्रमाद्यथानन्दमतः परं यत्] स्याद् राक्षसं च^अनल^सञ्ज्ञितम् च॥  
+    
+८।४६अब्। परिधाविनि मध्यदेश^नाशो नृप^हानिर् जलम् अल्पम् अग्नि^कोपः।  
+    
+८।४६च्द्। अलसस् तु जनः प्रमादि^सञ्ज्ञे डमरं रक्तक^पुष्प^बीज^नाशः॥  
+    
+८।४७अब्। *विक्रमः[क्।तत्परः] सकल^लोक^नन्दनो राक्षसः क्षय^करो +अनलस् तथा।  
+    
+८।४७च्द्। ग्रीष्म^धान्य^जननो +अत्र राक्षसो वह्नि^कोप^मरक^प्रदो +अनलः॥  
+    
+८।४८अब्। एकादशे पिङ्गल^कालयुक्त^सिद्धार्थ^रौद्राः खलु दुर्मतिश् च।  
+    
+८।४८च्द्। आद्ये तु व्षृटिर् महती सचौरा श्वासो हनू^कम्प^युतश् च कासः॥  
+    
+८।४९अब्। यत् कालयुक्तं तद् अनेक^दोषं सिद्धार्थ^सञ्ज्ञे बहवो गुणाश् च।  
+    
+८।४९च्द्। रौद्रो +अतिरौद्रः क्षय^कृत् प्रदिष्टो यो दुर्मतिर् मध्यम^वृष्टि^कृत् सः॥  
+    
+८।५०अब्। भाग्ये युगे दुन्दुभि^सञ्ज्ञम् आद्यं सस्यस्य वृद्धिं महतीं करोति।  
+    
+८।५०च्द्। *अङ्गार^सञ्ज्ञं[क्।उद्गारिसञ्ज्ञम्] तद्^अनु क्षयाय नरेश्वराणां विषमा च वृष्टिः॥  
+    
+८।५१अब्। रक्ताक्षम् अब्दं कथितं तृतीयं तस्मिन् भयं दंष्ट्रि^कृतं गदाश् च।  
+    
+८।५१च्द्। क्रोधं बहु^क्रोध^करं चतुर्थं राष्ट्राणि शून्यीकुरुते विरोधैः॥  
+    
+८।५२अ क्षयम् इति युगस्य^अन्त्यस्य^अन्त्यं बहु^क्षय^कारकं  
+    
+८।५२ब् जनयति भयं तद्^विप्राणां कृषीबल^वृद्धिदम्।  
+    
+८।५२च् उपचय^करं विट्^शूद्राणां पर^स्व^हृतां तथा  
+    
+८।५२द् कथितम् अखिलं षष्ट्य्^अब्दे यत् तद् अत्र समासतः॥  
+    
+८।५३अब्। अकलुषांशु^जटिलः पृथु^मूर्तिः कुमुद^कुन्द^कुसुम^स्फटिक^आभः।  
+    
+८।५३च्द्। ग्रह^हतो न यदि सत्^पथ^वर्ती *हित^करो[क्।हतकिरो] +अमर^गुरुर् मनुजानाम्॥
+
+                   ९ शुक्रचाराध्यायः
+
+९।०१अब्। नाग^गज^ऐरावत^वृषभ^गो^जरद्गव^मृग^अज^दहन^आख्याः।  
+    
+९।०१च्द्। अश्विन्य्^आद्याः कैश् चित् त्रिभाः क्रमाद् वीथयः कथिताः॥  
+    
+९।०२अब्। नागा तु पवन^याम्य^अनलानि पैतामहात् त्रिभास् तिस्रः।  
+    
+९।०२च्द्। गोवीथ्याम् अश्विन्यः पौष्णं द्वे च^अपि भद्रपदे॥  
+    
+९।०३अब्। जारद्गव्यां श्रवणात् त्रिभं मृग^आख्या त्रिभं तु मैत्र^आद्यम्।  
+    
+९।०३च्द्। हस्त^विशाखा^त्वाष्ट्राण्य् अज^इत्य् अषाढा^द्वयं दहना॥  
+    
+९।०४अब्। तिस्रस् तिस्रस् तासां क्रमाद् उदङ्^मध्य^याम्य^मार्ग^स्थाः।  
+    
+९।०४च्द्। तासाम् अप्य् उत्तर^मध्य^*दक्षिणेन स्थित^एकैका[क्।दक्षिणावस्थितैकैका]॥  
+    
+९।०५अब्। वीथी^मार्गान् अपरे कथयन्ति यथास्थितान् भ^मार्गस्य।  
+    
+९।०५च्द्। नक्षत्राणां तारा याम्योत्तर^मध्यमास् तद्वत्॥  
+    
+९।०६अब्। उत्तरमार्गो याम्य^आदि निगदितो मध्यमस् तु भाग्य^आद्यः।  
+    
+९।०६च्द्। दक्षिण^मार्गो^आषाढा^आदि कैश् चिद् एवं कृता मार्गाः॥  
+    
+९।०७अब्। *ज्यौतिषम्[क्।ज्योतिसम्] आगम^शास्त्रं विप्रतिपत्तौ न योग्यम् अस्माकम्।  
+    
+९।०७च्द्। स्वयम् एवा विकल्पयितुं किन्तु बहूनां मतं वक्ष्ये॥  
+    
+९।०८अब्। उत्तरवीथिषु शुक्रः सुभिक्ष^शिव^कृद् गतो +अस्तम् उदयम् *च[क्।वा]।  
+    
+९।०८च्द्। मध्यासु मध्य^फलदः कष्ट^फलो दक्षिण^स्थासु॥  
+    
+९।०९अब्। अत्युत्तम^उत्तमोनं सम^मध्य^न्यूनम् अधम^कष्ट^फलम्।  
+    
+९।०९च्द्। *कष्टतरं[क्।कष्टतमम्] सौम्य^आद्यासु वीथिषु यथाक्रमं ब्रूयात्॥  
+    
+९।१०अब्। भरणी^पूर्वं मण्डलम् ऋक्ष^चतुष्कं सुभिक्ष^करम् आद्यम्।  
+    
+९।१०च्द्। वङ्ग^अङ्ग^महिष^*बाह्लिक[क्।वाह्लिक]^कलिङ्ग^देशेषु भय^जननम्॥  
+    
+९।११अब्। अत्र^उदितम् आरोहेद् ग्रहो +अपरो यदि सितं ततो हन्यात्।  
+    
+९।११च्द्। भद्राश्व^शूरसेनक^यौधेयक^कोटिवर्ष^नृपान्॥  
+    
+९।१२अब्। भचतुष्टयम् आर्द्रा^आद्यं द्वितीयम् अमित^अम्बु^सस्य^सम्पत्त्यै।  
+    
+९।१२च्द्। विप्राणाम् अशुभ^करं विशेषतः क्रूर^चेष्टानाम्॥  
+    
+९।१३अब्। अन्येन^अत्र^आक्रान्ते म्लेच्छा^*आटविक[क्।& ऊ।आतविका]^श्वजीवि^गोमन्तान्।  
+    
+९।१३च्द्। गोनर्द^नीच^शूद्रान् वैदेहांश् च^अनयः स्पृशति॥  
+    
+९।१४अब्। विचरन् मघा^आदि^पञ्चकम् उदितः सस्य^प्रणाश^कृत्^शुक्रः।  
+    
+९।१४च्द्। क्षुत्^तस्कर^भय^जननो नीच^उन्नति^सङ्करकरश् च॥  
+    
+९।१५अब्। पित्र्याद्ये +अवष्टब्धो हन्त्य् अन्येन^आविकान् शबर^शूद्रान्।  
+    
+९।१५च्द्। पुण्ड्रा^अपरान्त्य^शूलिक^वनवासि^द्रविड^सामुद्रान्॥  
+    
+९।१६अब्। स्वात्य्^आद्यं भ^त्रितयं मण्डलम् एतच् चतुर्थम् अभय^करम्।  
+    
+९।१६च्द्। ब्रह्म^क्षत्र^सुभिक्ष^अभिवृद्धये मित्र^भेदाय॥  
+    
+९।१७अब्। अत्र^अक्रान्ते मृत्युः किरातभर्तुः^पिनष्टि च^इक्ष्वाकून्।  
+    
+९।१७च्द्। प्रत्यन्त^अवन्ति^पुलिन्द^तङ्गणान् शूरसेनांश् च॥  
+    
+९।१८अब्। ज्येष्ठा^आद्यं पञ्च^ऋक्षं क्षुत्^तस्कर^रोग^दम् प्रबाधयते।  
+    
+९।१८च्द्। काश्मीर^अश्मक^मत्स्यान् स^चारुदेवीन् अवन्तींश् च॥  
+    
+९।१९अब्। *अत्र^अरोहेद् द्रविड^आभीर^अम्बष्ठ[क्।आरोहे +अत्राभीरान् द्रविडाम्बष्ठ]^त्रिगर्त^सौराष्ट्रान्।  
+९।१९च्द्। नाशयन्ति सिन्धु^सौवीरकांश् च काशि^ईश्वरस्य वधः॥  
+    
+९।२०अब्। षष्ठं षण्नक्षत्रं शुभम् एतन् मण्डलं धनिष्ठा^आद्यम्।  
+    
+९।२०च्द्। भूरि^धन^गोकुल^आकुलम् अनल्प^धान्यं क्व चित् सभयम्॥  
+    
+९।२१अब्। अत्र^*आरोहेच्[क्।आरोहे]^शूलिक^गान्धार^अवन्तयः प्रपीड्यन्ते।  
+    
+९।२१च्द्। वैदेह^वधः प्रत्यन्त^यवन^शक^दास^परिवृद्धिः॥  
+    
+९।२२अब्। अपरस्यां स्वात्य्^आद्यं ज्येष्ठा^आद्यं च^अपि मण्डलं शुभदम्।  
+    
+९।२२च्द्। पित्र्य^आद्यं पूर्वस्यां शेषाणि यथोक्त^फलदानि॥  
+    
+९।२३अब्। दृष्टो *+अनस्तमिते[क्।+अनस्तगते +अर्के] भय^कृत् क्षुद्^रोग^कृत् समस्तम् अहः।  
+    
+९।२३च्द्। *अर्ध^दिवसे[क्।अर्थदिवसम्] च स^इन्दुर् नृप^बल^पुर^भेदकृत्^शुक्रः॥  
+    
+९।२४अब्। भिन्दन् गतो +अनल^ऋक्षं कूलातिक्रान्त^वारि^वाहाभिः।  
+    
+९।२४च्द्। अव्यक्त^तुङ्ग^निम्ना समा सरिद्भिर् भवति धात्री॥  
+    
+९।२५अब्। प्राजापत्ये शकटे भिन्ने कृत्वा^इव पातकं वसुधा।  
+    
+९।२५च्द्। केश^अस्थि^शकल^शबला कापालम् इव व्रतं धत्ते॥  
+    
+९।२६अब्। सौम्य^उपगतो रस^सस्य^सङ्क्षयाय^उशनाः समुद्दिष्टः।  
+    
+९।२६च्द्। आर्द्रागतस् तु कोशल^कलिङ्ग^हा सलिल^निकर^करः॥  
+    
+९।२७अब्। अश्मक^वैदर्भाणां पुनर्वसुस्थे सिते महान् अनयः।  
+    
+९।२७च्द्। पुष्ये पुष्टा वृष्टिर् *विद्याधररण[उ।विद्याधर]^विमर्दश् च॥  
+    
+९।२८अब्। आश्लेषासु भुजङ्गम^दारुण^पीडा^वहश् चरन् शुक्रः।  
+    
+९।२८च्द्। भिन्दन् मघां महामात्र^दोष^कृद् भूरि^वृष्टि^करः॥  
+    
+९।२९अब्। भाग्ये शबर^पुलिन्द^प्रध्वंस^करो +अम्बु^निवह^मोक्षाय।  
+    
+९।२९च्द्। आर्यम्णे कुरु^जाङ्गल^पाञ्चाल^घ्नः सलिल^दायी॥  
+    
+९।३०अब्। कौरव^चित्रकराणां हस्ते पीडा जलस्य च निरोधः।  
+    
+९।३०च्द्। कूपकृद्^अण्डज^पीडा चित्रास्थे शोभना वृष्टिः॥  
+    
+९।३१अब्। स्वातौ प्रभूत^वृष्टिर् दूत^वणिग्^नाविकान् स्पृशत्य् अनयः।  
+    
+९।३१च्द्। ऐन्द्र^अग्ने +अपि सुवृष्टिर् वणिजां च भयं विजानीयात्॥  
+    
+९।३२अब्। मैत्रे क्षत्र^विरोधो ज्येष्ठायां क्षत्र^मुख्य^सन्तापः।  
+    
+९।३२च्द्। मौलिक^भिषजाम् मूले त्रिष्व् अपि च^एतेष्व् अनावृष्टिः॥  
+    
+९।३३अब्। आप्ये सलिलज^पीडा विश्वेशे व्याधयः प्रकुप्यन्ति।  
+    
+९।३३च्द्। श्रवणे श्रवण^व्याधिः *पाखण्डि[क्।पाषण्डि]^भयं धनिष्ठासु॥  
+    
+९।३४अब्। शतभिषजि शौण्डिकानाम् *अजैकभे[क्।अजैकपे] द्यूतजीविनां *पीडां[क्।पीडा]।  
+    
+९।३४च्द्। कुरु^पाञ्चालानाम् अपि करोति च^अस्मिन् सितः सलिलम्॥  
+    
+९।३५अब्। आहिर्बुध्न्ये फल^मूल^ताप^कृद् यायिनाम् च रेवत्याम्।  
+    
+९।३५च्द्। अश्विन्यां हयपानां याम्ये तु किरात^यवनानाम्॥  
+    
+९।३६अब्। *चतुर्दशीं पञ्चदशीं तथा^अष्टमीं[क्।चतुर्दशे पञ्चदशे तथाष्टमे] तमिस्रपक्षस्य *तिथिं[क्।तिथौ] भृगोः सुतः।  
+    
+९।३६च्द्। यदा व्रजेद् दर्शनम् अस्तम् एति वा तदा मही वारिमयीव लक्ष्यते॥  
+    
+९।३७अब्। गुरुर् भृगुश् च^अपर^पूर्व^काष्ठयोः परस्परं सप्तम^राशिगौ यदा।  
+    
+९।३७च्द्। तदा प्रजा रुग्^भय^शोक^पीडिता न वारि पश्यन्ति पुरन्दर^उज्झितम्॥  
+    
+९।३८अब्। यदा स्थिता जीव^बुध^आर^सूर्यजाः सितस्य सर्वे +अग्रपथ^अनुवर्तिनः।  
+    
+९।३८च्द्। नृ^नाग^विद्याधर^सङ्गरास् तदा भवन्ति वाताश् च समुच्छ्रित^अन्तकाः॥  
+    
+९।३९अब्। न मित्रभावे सुहृदो व्यवस्थिताः क्रियासु सम्यग् न रता द्विजातयः।  
+    
+९।३९च्द्। न च^अल्पम् अप्य् अम्बु ददाति वासवो भिनत्ति वज्रेण शिरांसि भूभृताम्॥  
+    
+९।४०अब्। शनैश्चरे म्लेच्छ^विडाल^कुञ्जराः खरा महिष्यो +असित^धान्य^शूकराः।  
+    
+९।४०च्द्। पुलिन्द^शूद्राश् च सदक्षिणापथाः क्षयं व्रजन्त्य् अक्षि^मरुद्^गद^उद्भवैः॥  
+    
+९।४१अब्। निहन्ति शुक्रः क्षितिजे +अग्रतः *प्रजां[क्।प्रजा] हुताश^शस्त्र^क्षुद्^अवृष्टि^तस्करैः।  
+    
+९।४१च्द्। चर^अचरं व्यक्तम् अथ^उत्तरापथं दिशो +अग्नि^विद्युद्^रजसा च पीड्येत्॥  
+    
+९।४२अब्। बृहस्पतौ हन्ति पुरःस्थिते सितः सितं समस्तं द्विज^गो^सुरालयान्।  
+    
+९।४२च्द्। दिशं च पूर्वां करकासृजो +अम्बुदा गले गदा भूरि भवेच् च शारदम्॥  
+    
+९।४३अ सौम्यो +अस्त^उदयोः पुरो भृगुसुतस्य^अवस्थितस् तोय^कृद्  
+    
+९।४३ब् रोगान् पित्तज^*कामलांश्[क्।कामलां क्ऽस् त्र्। कामलाम्श् ओर् कामलाश्] च कुरुते पुष्णाति च *ग्रैष्मिकान्[क्।ग्रैष्मिकम्]।  
+    
+९।४३च् हन्यात् प्रव्रजित^आग्निहोत्रिक^भिषग्^रङ्गोपजीव्यान् हयान्  
+    
+९।४३द् वैश्यान् गाः सह वाहनैर् नरपतीन् पीतानि पश्चाद् दिशम्॥  
+    
+९।४४अ शिखि^भयम् अनलाभे शस्त्र^कोपश् च रक्ते  
+    
+९।४४ब् कनकनिकषगौरे व्याधयो दैत्यपूज्ये।  
+    
+९।४४च् हरित^कपिल^रूपे श्वास^कास^प्रकोपः  
+    
+९।४४द् पतति न सलिलं खाद् भस्मरूक्षासिताभे॥  
+    
+९।४५अब्। दधि^कुमुद^शशाङ्क^कान्ति^भृत् स्फुट^विकसत्^किरणो बृहत्तनुः।  
+    
+९।४५च्द्। सुगतिर् अविकृतो जयान्वितः कृतयुगरूपकरः सिताह्वयः॥
+
+                   १० शनैश्चरचाराध्यायः
+
+१०।०१अब्। श्रवण^अनिल^हस्त^आर्द्रा^भरणी^भाग्य^उपगः सुतो +अर्कस्य।  
+    
+१०।०१च्द्। प्रचुर^सलिल^उपगूढां करोति धात्रीं यदि स्निग्धः॥  
+    
+१०।०२अब्। अहि^वरुण^पुरन्दर^दैवतेषु सुक्षेम^कृन् न च^अतिजलम्।  
+    
+१०।०२च्द्। क्षुत्^शस्त्र^अवृष्टि^करो मूले प्रत्येकम् अपि वक्ष्ये॥  
+    
+१०।०३अब्। तुरग^तुरगोपचारक^कवि^वैद्य^अमात्य^हा^अर्कजो +अश्विगतः।  
+    
+१०।०३च्द्। याम्ये नर्तक^वादक^गेय^ज्ञ^क्षुद्र^नैकृतिकान्॥  
+    
+१०।०४अब्। बहुलास्थे पीड्यन्ते सौरे +अग्न्युपजीविनश् चमूपाश् च।  
+    
+१०।०४च्द्। रोहिण्यां कोशल^मद्र^काशि^पञ्चाल^शाकटिकाः॥  
+    
+१०।०५अब्। मृगशिरसि वत्स^याजक^यजमान^आर्यजन^मध्यदेशास् च।  
+    
+१०।०५च्द्। रौद्र^स्थे *पारत^रमठास् तैलिक^रजक[क्।पारतरातैलिकरजक]^चौराश् च॥  
+    
+१०।०६अब्। आदित्ये पाञ्चनद^प्रत्यन्त^सुराष्ट्र^सिन्धु^सौवीराः।  
+    
+१०।०६च्द्। पुष्ये घाण्ठिक^घौषिक^यवन^वणिक्^कितव^कुसुमानि॥  
+    
+१०।०७अब्। सार्पे जलरुह^सर्पाः पित्र्ये बाह्लीक^चीन^गान्धाराः।  
+    
+१०।०७च्द्। शूलिक^पारत^वैश्याः कोष्ठागाराणि वणिजश् च॥  
+    
+१०।०८अब्। भाग्ये रस^विक्रयिणः पण्य^स्त्री^कन्यका^महाराष्ट्राः।  
+    
+१०।०८च्द्। आर्यम्णे नृप^गुड^लवण^भिक्षुक^अम्बूनि तक्षशिला॥  
+    
+१०।०९अब्। हस्ते नापित^चाक्रिक^चौर^भिषक्^सूचिका द्विप^ग्राहाः।  
+    
+१०।०९च्द्। बन्धक्यः कौशलका मालाकाराश् च पीड्यन्ते॥  
+    
+१०।१०अब्। चित्रास्थे प्रमदाजन^लेखक^चित्रज्ञ^चित्रभाण्डानि।  
+    
+१०।१०च्द्। स्वातौ मागध^चर^दूत^सूत^पोतप्लव^नट^आद्याः॥  
+    
+१०।११अब्। ऐन्द्राग्नाख्ये त्रैगर्त^चीन^कौलूत^कुङ्कुमं लाक्षा।  
+    
+१०।११च्द्। सस्यान्य् अथ माञ्जिष्ठं कौसुम्भं च क्षयं याति॥  
+    
+१०।१२अब्। मैत्रे कुलूत^तङ्गण^खस^काश्मीराः समन्त्रि^चक्रचराः।  
+    
+१०।१२च्द्। उपतापं यान्ति च घाण्टिका विभेदश् च मित्राणाम्॥  
+    
+१०।१३अब्। ज्येष्ठासु नृप^पुरोहित^नृप^सत्कृत^शूर^गण^कुल^श्रेण्यः।  
+    
+१०।१३च्द्। मूले तु काशि^कोशल^पाञ्चाल^फल^औषधी^योधाः॥  
+    
+१०।१४अब्। आप्ये +अङ्ग^वङ्ग^कौशल^गिरिव्रजा मगध^पुण्ड्र^मिथिलाश् च।  
+    
+१०।१४च्द्। उपतापं यान्ति जना वसन्ति ये ताम्रलिप्त्यां च॥  
+    
+१०।१५अब्। विश्वेश्वरे +अर्कपुत्रश् चरन् दशार्णान् निहन्ति यवनांश् च।  
+    
+१०।१५च्द्। उज्जयिनीं शबरान् पारियात्रिकान् कुन्तिभोजांश् च॥  
+    
+१०।१६अब्। श्रवणे राज^अधिकृतान् विप्राग्र्य^भिषक्^पुरोहित^कलिङ्गान्।  
+    
+१०।१६च्द्। वसुभे मगधेश^जयो वृद्धिश् च धनेष्व् अधिकृतानाम्॥  
+    
+१०।१७अब्। साजे शतभिषजि भिषक्^कवि^शौण्डिक^पण्य^नीति*वृत्तीनाम्[क्।वर्त्तानाम्]।  
+    
+१०।१७च्द्। आहिर्बुध्न्ये नद्यो यानकराः स्त्री^हिरण्यं च॥  
+    
+१०।१८अब्। रेवत्यां राज^भृताः क्रौञ्च^द्वीप^आश्रिताः शरत्सस्यम्।  
+    
+१०।१८च्द्। शबराश् च निपीड्यन्ते यवनाश् च शनैश्चरे चरति॥  
+१०।१९अब्। यदा विशाखासु महेन्द्र^मन्त्री सुतश् च भानोर् दहन^ऋक्ष^यातः।  
+    
+१०।१९च्द्। तदा प्रजानाम् अनयो +अतिघोरः पुर^प्रभेदो गतयोर् भम् एकम्॥  
+    
+१०।२०अब्। अण्डजहा रविजो यदि चित्रः क्षुद्भयकृद् यदि पीत^मयूखः।  
+    
+१०।२०च्द्। शस्त्र^भयाय च रक्तसवर्णो भस्मनिभो बहु^वैरकरश् च॥  
+    
+१०।२१अ वैदूर्यकान्ति^विमलः शुभकृत् प्रजानां  
+    
+१०।२१ब् बाण^अतसीकुसुम^वर्ण^निभश् च शस्तः।  
+    
+१०।२१च् *यं च^अपि[क्।पञ्च^अपि] वर्णम् उपगच्छति तत्सवर्णान्  
+    
+१०।२१द् सूर्यात्मजः क्षयतीति मुनि^प्रवादः॥
+
+                   ११ केतुचाराध्यायः
+
+११।०१अब्। गार्गीयं शिखि^चारं पाराशरम् असितदेवल^कृतं च।  
+    
+११।०१च्द्। अन्यांश् च बहून् दृष्ट्वा क्रियते +अयम् अनाकुलश् चारः॥  
+    
+११।०२अब्। दर्शनम् अस्तमयो वा न गणितविधिना^अस्य शक्यते ज्ञातुम्।  
+    
+११।०२च्द्। दिव्य^अन्तरिक्ष^भौमास् त्रिविधाः स्युः केतवो यस्मात्॥  
+    
+११।०३अब्। अहुताशे +अनलरूपं यस्मिंस् तत्^केतुरूपम् एव^उक्तम्।  
+    
+११।०३च्द्। खद्योत^पिशाचालय^मणि^रत्न^आदीन् परित्यज्य॥  
+    
+११।०४अब्। ध्वज^शस्त्र^भवन^तरु^तुरग^कुञ्जर^आद्येष्व् अथ^अन्तरिक्षास् ते।  
+    
+११।०४च्द्। दिव्या नक्षत्रस्था भौमाः स्युर् अतो +अन्यथा शिखिनः॥  
+    
+११।०५अब्। शतम् एक^अधिकम् एके सहस्रम् अपरे वदन्ति केतूनाम्।  
+    
+११।०५च्द्। बहुरूपम् एकम् एव प्राह मुनिर् नारदः केतुम्॥  
+    
+११।०६अब्। यद्य् एको यदि बहवः किम् अनेन फलं तु सर्वथा वाच्यम्।  
+    
+११।०६च्द्। उदय^अस्तमयैः स्थानैः स्पर्शैर् आधूमनैर् वर्णैः।  
+    
+११।०७अब्। यावन्त्य् अहानि दृश्यो मासास् तावन्त एव फलपाकः।  
+    
+११।०७च्द्। मासैर् अब्दांश् च वदेत् प्रथमात् पक्षत्रयात् परतः॥  
+    
+११।०८अब्। ह्रस्वस् तनुः प्रसन्नः स्निग्धस् त्व् ऋजुर् अचिर^संस्थितः शुक्लः।  
+    
+११।०८च्द्। उदितो *+अथ वा^अभिवृष्टः[क्।वा^अप्य् अभिदृष्टः] सुभिक्ष^सौख्यावहः केतुः॥  
+    
+११।०९अब्। उक्त^विपरीत^रूपो न शुभकरो धूमकेतुर् उत्पन्नः।  
+    
+११।०९च्द्। इन्द्रायुध^अनुकारी विशेषतो द्वित्रिचूलो वा॥  
+    
+११।१०अब्। हार^मणि^हेम^रूपाः किरण^आख्याः पञ्चविंशतिः सशिखाः।  
+    
+११।१०च्द्। प्रागपरदिशोर् दृश्या नृपति^विरोधावहा रविजाः॥  
+    
+११।११अब्। शुक^दहन^बन्धुजीवक^लाक्षा^क्षतज^उपमा हुताशसुताः।  
+    
+११।११च्द्। आग्नेय्यां दृश्यन्ते तावन्तस् ते +अपि शिखिभयदाः॥  
+    
+११।१२अब्। वक्रशिखा मृत्युसुता रूक्षाः कृष्णाश् च ते +अपि तावन्तः।  
+    
+११।१२च्द्। दृश्यन्ते याम्यायां जन^मरक^आवेदिनस् ते च॥  
+    
+११।१३अब्। दर्पण^वृत्त^आकारा विशिखाः किरणान्विता धरातनयाः।  
+    
+११।१३च्द्। क्षुद्भयदा द्वाविंशतिर् ऐशान्याम् अम्बुतैलनिभाः॥  
+    
+११।१४अब्। शशिकिरण^रजत^हिम^कुमुद^कुन्द^कुसुम^उपमाः सुताः शशिनः।  
+    
+११।१४च्द्। उत्तरतो दृश्यन्ते त्रयः सुभिक्षावहाः शिखिनः॥  
+    
+११।१५अब्। ब्रह्मसुत एक एव त्रिशिखो वर्णैस् त्रिभिर् युगान्तकरः।  
+    
+११।१५च्द्। अनियतदिक्सम्प्रभवो विज्ञेयो ब्रह्मदण्डाख्यः॥  
+    
+११।१६अब्। शतम् अभिहितम् एकसमेतम् एतद् एकेन विरहितान्य् अस्मात्।  
+    
+११।१६च्द्। कथयिष्ये केतूनां शतानि नव लक्षणैः स्पष्टैः॥  
+    
+११।१७अब्। सौम्यैशान्योर् उदयं शुक्रसुता यान्ति चतुरशीत्याख्याः।  
+    
+११।१७च्द्। विपुलसिततारकास् ते स्निग्धाश् च भवन्ति तीव्रफलाः॥  
+    
+११।१८अब्। स्निग्धाः प्रभा^समेता द्विशिखाः षष्टिः शनैश्चराङ्गरुहाः।  
+    
+११।१८च्द्। अतिकष्टफला दृश्याः सर्वत्रैते कनकसञ्ज्ञाः॥  
+    
+११।१९अब्। विकचा नाम गुरुसुताः सित^एकताराः शिखापरित्यक्ताः।  
+    
+११।१९च्द्। षष्टिः पञ्चभिर् अधिका स्निग्धा याम्याश्रिताः पापाः॥  
+    
+११।२०अब्। न^अतिव्यक्ताः सूक्ष्मा दीर्घाः शुक्ला यथा^इष्ट^दिक्^प्रभवाः।  
+    
+११।२०च्द्। बुधजास् तस्करसञ्ज्ञाः पापफलास् त्व् एकपञ्चाशत्॥  
+    
+११।२१अब्। क्षतज^अनल^अनुरूपास् त्रि^चूल^ताराः कुजात्मजाः षष्टिः।  
+    
+११।२१च्द्। नाम्ना च कौङ्कुमास् ते सौम्याशासंस्थिताः पापाः॥  
+    
+११।२२अब्। त्रिंशत्य् अधिका राहोस् ते तामसकीलका इति ख्याताः।  
+    
+११।२२च्द्। रविशशिगा दृश्यन्ते तेषां फलम् अर्कचारोक्तम्॥  
+    
+११।२३अब्। विंशत्यधिकम् अन्यत्^शतम् अग्नेर् विश्वरूपसञ्ज्ञानाम्।  
+    
+११।२३च्द्। तीव्र^अनल^भयदानां ज्वालामालाकुलतनूनाम्॥  
+    
+११।२४अब्। श्यामारुणा विताराश् चामररूपा विकीर्णदीधितयः।  
+    
+११।२४च्द्। अरुणाख्या वायोः सप्तसप्ततिः पापदाः परुषाः॥  
+    
+११।२५अब्। तारापुञ्जनिकाशा गणका नाम प्रजापतेर् अष्टौ।  
+    
+११।२५च्द्। द्वे च शते चतुरधिके *चतुरस्रा[क्।चतुरश्रा] ब्रह्मसन्तानाः॥  
+    
+११।२६अब्। कङ्का नाम वरुणजा द्वात्रिंशद्^वंश^गुल्म^संस्थानाः।  
+    
+११।२६च्द्। शशिवत्^प्रभा^समेतास् तीव्रफलाः केतवः प्रोक्ताः॥  
+    
+११।२७अब्। षण्णवतिः कालसुताः कबन्ध^सञ्ज्ञाः कबन्ध^संस्थानाः।  
+    
+११।२७च्द्। *पुण्ड्र[क्।चण्ड]^अभय^प्रदाः स्युर् विरूप^ताराश् च ते शिखिनः॥  
+    
+११।२८अब्। शुक्ल^विपुल^एकतारा नव विदिशां केतवः समुत्पन्नाः।  
+    
+११।२८च्द्। एवं केतु^सहस्रं विशेषम् एषाम् अतो वक्ष्ये॥  
+    
+११।२९अब्। उदगायतो महान् स्निग्ध^मूर्तिर् अपरोदयी वसाकेतुः।  
+    
+११।२९च्द्। सद्यः करोति मरकं सुभिक्षम् अप्य् उत्तमं कुरुते॥  
+    
+११।३०अब्। तल्लक्षणो +अस्थिकेतुः स तु रूक्षः क्षुद्^भय^आवहः प्रोक्तः।  
+    
+११।३०च्द्। स्निग्धस् तादृक् प्राच्यां शस्त्राख्यो डमर^मरकाय॥  
+    
+११।३१अब्। दृश्यो +अमावास्यायां कपालकेतुः सधूम्र^रश्मि^शिखः।  
+    
+११।३१च्द्। प्राङ् नभसो +अर्धविचारी क्षुत्^मरक^अवृष्टि^रोग^करः॥  
+    
+११।३२अब्। प्राग् *वैश्वानर[क्।वश्वानर, क्ऽस् त्र्। वैश्वानर]मार्गे शूलाग्रः श्याव^रूक्ष^ताम्र^अर्चिः।  
+    
+११।३२च्द्। नभसस्त्रिभागगामी रौद्र इति कपालतुल्यफलः॥  
+    
+११।३३अब्। अपरस्यां चलकेतुः शिखया याम्याग्रयाङ्गुल^उच्छ्रितया।  
+    
+११।३३च्द्। गच्छेद् यथा यथोदक् तथा तथा दैर्घ्यम् आयाति॥  
+    
+११।३४अब्। सप्तमुनीन् संस्पृश्य ध्रुवम् अभिजितम् एव च प्रतिनिवृत्तः।  
+    
+११।३४च्द्। नभसो +अर्धमात्रम् इत्वा याम्येन^अस्तम् समुपयाति॥  
+    
+११।३५अब्। हन्यात् प्रयागकूलाद् यावद् अवन्तीं च *पुष्करारण्यम्[क्।पुष्कराण्यम्]।  
+    
+११।३५च्द्। उदग् अपि च देविकाम् अपि भूयिष्ठं मध्यदेशाख्यम्॥  
+    
+११।३६अब्। अन्यान् अपि स देशान् क्व चित् क्व चिद् धन्ति रोगदुर्भिक्षैः।  
+    
+११।३६च्द्। दश मासान् फलपाको +अस्य कैश् चिद् अष्टादश प्रोक्तः॥  
+    
+११।३७अब्। प्रागर्धरात्रदृश्यो याम्याग्रः श्वेतकेतुर् अन्यश् च।  
+    
+११।३७च्द्। क इति युगाकृतिर् अपरे युगपत्तौ सप्तदिनदृश्यौ॥  
+    
+११।३८अब्। स्निग्धौ सुभिक्षशिवदाव् अथाधिकं दृश्यते कनामा यः।  
+    
+११।३८च्द्। दश वर्षाण्य् उपतापं जनयति शस्त्र^प्रकोपकृतम्॥  
+    
+११।३९अब्। श्वेत इति जटाकारो रूक्षः श्यावो वियत्त्रिभागगतः।  
+११।३९च्द्। विनिवर्तते +अपसव्यं त्रिभागशेषाः प्रजाः कुरुते॥  
+    
+११।४०अब्। आधूम्रया तु शिखया दर्शनम् आयाति कृत्तिकासंस्थः।  
+    
+११।४०च्द्। ज्ञेयः स रश्मिकेतुः श्वेतसमानं फलं धत्ते॥  
+    
+११।४१अब्। ध्रुवकेतुर् अनियत^गति^प्रमाण^वर्ण^आकृतिर् भवति विष्वक्।  
+    
+११।४१च्द्। दिव्य^अन्तरिक्ष^भौमो भवत्य् अयं स्निग्ध इष्टफलः॥  
+    
+११।४२अब्। सेनाङ्गेषु नृपाणां गृह^तरु^शैलेषु च^अपि देशानाम्।  
+    
+११।४२च्द्। गृहिणाम् उपस्करेषु च विनाशिनां दर्शनं याति॥  
+    
+११।४३अब्। कुमुद इति कुमुदकान्तिर् वारुण्यां प्राक्शिखो निशाम् एकाम्।  
+    
+११।४३च्द्। दृष्टः सुभिक्षम् अतुलं दश किल वर्षाणि स करोति॥  
+    
+११।४४अब्। सकृद् एकयामदृश्यः सुसूक्ष्मतारो +अपरेण मणिकेतुः।  
+    
+११।४४च्द्। ऋज्वी शिखास्य शुक्ला स्तनोद्गता क्षीरधारेव॥  
+    
+११।४५अब्। उदयन्न् एव सुभिक्षं चतुरो मासान् करोत्य् असौ सार्धान्।  
+    
+११।४५च्द्। प्रादुर्भावं प्रायः करोति च क्षुद्रजन्तूनाम्॥  
+    
+११।४६अब्। जलकेतुर् अपि च पश्चात् स्निग्धः शिखयापरेण च^उन्नतया।  
+    
+११।४६च्द्। नव मासान् स सुभिक्षं करोति शान्तिं च लोकस्य॥  
+    
+११।४७अब्। भवकेतुर् एकरात्रं दृश्यः प्राक् सूक्ष्मतारकः स्निग्धः।  
+    
+११।४७च्द्। हरिलाङ्गूल^उपमया प्रदक्षिणावर्तया शिखया॥  
+    
+११।४८अब्। यावत एव मुहूर्तान् दर्शनम् आयाति निर्दिशेत्^मासान्।  
+    
+११।४८च्द्। तावद् अतुलं सुभिक्षं रूक्षे प्राणान्तिकान् रोगान्॥  
+    
+११।४९अब्। अपरेण पद्मकेतुर् मृणालगौरो भवेन् निशाम् एकाम्।  
+    
+११।४९च्द्। सप्त करोति सुभिक्षं वर्षाण्य् अतिहर्षयुक्तानि॥  
+    
+११।५०अब्। आवर्त इति निशार्धे सव्यशिखो +अरुणनिभो +अपरे स्निग्धः।  
+    
+११।५०च्द्। यावत् क्षणान् स दृश्यस् तावन् मासान् सुभिक्षकरः॥  
+    
+११।५१अब्। पश्चात् सन्ध्याकाले संवर्तो नाम धूम्र^ताम्र^शिखः।  
+    
+११।५१च्द्। आक्रम्य वियत्त्र्यंशं शूलाग्र^अवस्थितो रौद्रः॥  
+    
+११।५२अब्। यावत एव मुहूर्तान् दृश्यो वर्षाणि हन्ति तावन्ति।  
+    
+११।५२च्द्। भूपान् शस्त्र^निपातैर् उदय^ऋक्षं च^अपि पीडयति॥  
+    
+११।५३अब्। ये शस्तास् तान् हित्वा केतुभिर् *आधूपिते[क्।आधूमिते] +अथ वा स्पृष्टे।  
+    
+११।५३च्द्। नक्षत्रे भवति वधो येषां राज्ञां प्रवक्ष्ये तान्॥  
+११।५४अब्। अश्विन्याम् अश्मकपं भरणीषु किरातपार्थिवं हन्यात्।  
+    
+११।५४च्द्। बहुलासु कलिङ्गेशं रोहिण्यां शूरसेनपतिम्॥  
+    
+११।५५अब्। औशीनरम् अपि सौम्ये जलजाजीवाधिपं तथार्द्रासु।  
+    
+११।५५च्द्। आदित्ये +अश्मक*नाथान्[क्।नाथम्] पुष्ये मघधाधिपं हन्ति॥  
+    
+११।५६अब्। असिकेशं भौजङ्गे पित्र्ये +अङ्गं पाण्ड्यनाथम् अपि भाग्ये।  
+    
+११।५६च्द्। *औज्जयिनिकम्[क्।औज्जयनिकम्] आर्यम्णे सावित्रे दण्डकाधिपतिम्॥  
+    
+११।५७अब्। चित्रासु कुरुक्षेत्राधिपस्य मरणं समादिशेत् तज्ज्ञः।  
+    
+११।५७च्द्। काश्मीरक^काम्बोजौ नृपती प्राभञ्जने न स्तः॥  
+    
+११।५८अब्। इक्ष्वाकुर् अलक*नाथश्[क्।नाथौ, क्ऽस् त्र्। नाथो] च हन्यते यदि भवेद् विशाखासु।  
+    
+११।५८च्द्। मैत्रे पुण्ड्राधिपतिर् *ज्येष्ठासु च[क्।ज्येष्ठास्वथ] सार्वभौमवधः॥  
+    
+११।५९अब्। मूले +अन्ध्र^मद्रक^पती जलदेवे काशिपो मरणम् एति।  
+    
+११।५९च्द्। यौधेयक^अर्जुनायन^शिवि^चैद्यान् वैश्वदेवे च॥  
+    
+११।६०अब्। हन्यात् कैकयनाथं पाञ्चनदं सिंहलाधिपं वाङ्गम्।  
+    
+११।६०च्द्। नैमिषनृपं किरातं श्रवणादिषु षट्स्व् इमान् क्रमशः॥  
+    
+११।६१अब्। उल्काभिताडितशिखः शिखी शिवः शिवतरो *+अतिदृष्टो[क्।अभिवृष्टो] यः।  
+    
+११।६१च्द्। अशुभः स एव चोल^अवगाण^सितहूण^चीनानाम्॥  
+    
+११।६२अ नम्रा यतः शिखि^शिखा^अभिसृता यतो वा  
+    
+११।६२ब् ऋक्षं च यत् स्पृशति तत् कथितांश् च देशान्।  
+    
+११।६२च् दिव्य^प्रभाव^निहतान् स यथा गरुत्मान्  
+    
+११।६२द् भुङ्क्ते गतो नरपतिः परभोगिभोगान्॥
+
+                   १२ अगस्त्यचाराध्यायः
+
+१२।०१अ समुद्रो +अन्तः शैलैर् मकर^नखर^उत्खात^शिखरैः  
+    
+१२।०१ब् कृतस् तोय^उच्छित्त्या सपदि सुतरां येन रुचिरः।  
+    
+१२।०१च् पतन् मुक्तामिश्रैः प्रवर^मणिरत्न^अम्बुनिवहैः  
+    
+१२।०१द् सुरान् प्रत्यादेष्टुं *मित[क्।सित]^मुकुट^रत्नान् इव पुरा॥  
+    
+१२।०२अब्। येन च^अम्बुहरणे +अपि विद्रुमैर् भूधरैः स^मणिरत्न^विद्रुमैः।  
+    
+१२।०२च्द्। निर्गतैस् तद्^उरगैश् च राजितः सागरो +अधिकतरं विराजितः॥  
+    
+१२।०३अब्। प्रस्फुरत्^तिमि^जलेभ^जिह्मगः क्षिप्त^रत्न^निकरो महोदधिः।  
+    
+१२।०३च्द्। आपदां पदगतो +अपि यापितो येन पीतसलिलो +अमरश्रियम्॥  
+    
+१२।०४अब्। प्रचलत्^तिमि^शुक्तिज^शङ्ख^चितः सलिले +अपहृते +अपि पतिः सरिताम्।  
+    
+१२।०४च्द्। स^तरङ्ग^सितोत्पल^हंस^भृतः सरसः शरदि^इव विभर्ति *रुचिम्[क्।रुचम्]॥  
+    
+१२।०५अब्। तिमि^सिताम्बुधरं मणि^तारकं स्फटिक^चन्द्रम् अनम्बु^शरद्^द्युतिः।  
+    
+१२।०५च्द्। फणि^फण^उपल^रश्मि^शिखिग्रहं कुटिलगेश^वियच् च चकार यः॥  
+    
+१२।०६अ दिनकर^रथ^मार्ग^विच्छित्तये +अभ्युद्यतं यच् चलत्^शृङ्गम् उद्भ्रान्त^विद्याधर^अंस^अवसक्त^प्रिया^व्यग्र^दत्त^अङ्क^देह^अवलम्ब^अम्बर^*अत्य्[क्।अभ्य्]उच्छ्रित^उद्धूयमान^ध्वजैः शोभितम्।  
+    
+१२।०६ब् करिकट^मद^मिश्र^रक्त^अवलेह^अनुवास^अनुसारि^द्विरेफ^अवलीन^उत्तमाङ्गैः कृतान् बाणपुष्पैर् इव^उत्तंसकान् धारयद्भिर् मृगेन्द्रैः सनाथीकृत^अन्तर्^दरी^निर्झरम्।  
+    
+१२।०६च् गगन^तलम् इव^उल्लिखन्तं प्रवृद्धैर् गज^आकृष्ट^फुल्ल^द्रुम^त्रास^विभ्रान्त^मत्त^द्विरेफ^आवली^*हृष्ट[क्।गीत]^मन्द्र^स्वनैः शैलकूटैस् तरक्ष^ऋक्ष^शार्दूल^शाखामृग^अध्यासितैः।  
+    
+१२।०६द् रहसि मदनसक्तया रेवया कान्तया^इव^उपगूढं सुर^अध्यासित^उद्यानम् अम्भोशन^अन्न^मूल^अनिलाहार^विप्र^अन्वितं विन्ध्यम् अस्तम्भयद् यश् च तस्य^उदयः श्रूयताम्॥  
+    
+१२।०७अब्। उदये च मुनेर् अगस्त्यनाम्नः कुसमायोगमलप्रदूषितानि।  
+    
+१२।०७च्द्। हृदयानि सताम् इव स्वभावात् पुनर् अम्बूनि भवन्ति निर्मलानि॥  
+    
+१२।०८अब्। पार्श्वद्वय^अधिष्ठित^चक्रवाकामापुष्णती सस्वन^हंस^पङ्क्तिम्।  
+    
+१२।०८च्द्। ताम्बूल^रक्त^उत्कषित^अग्रदन्ती विभाति योषा^इव *शरत्[क्।सरित्] सहासा॥  
+    
+१२।०९अब्। इन्दीवर^आसन्न^सितोत्पल^अन्विता *शरद्[क्।सरित्] भ्रमत्षट्पदपङ्क्तिभूषिता।  
+    
+१२।०९च्द्। सभ्रूलताक्षेपकटाक्षवीक्षणा विदग्धयोषा^इव विभाति सस्मरा॥  
+    
+१२।१०अ इन्दोः पयोदविगमोपहितां विभूतिं  
+    
+१२।१०ब् द्रष्टुं तरङ्गवलया कुमुदं निशासु।  
+    
+१२।१०च् उन्मीलयत्य् अलिनिलीनदलं सुपक्ष्म  
+    
+१२।१०द् वापी विलोचनम् इव^असित^तारकान्तम्॥  
+    
+१२।११अब्। नाना^विचित्र^अम्बुज^हंस^कोक^कारण्डव^आपूर्ण^तडाग^हस्ता।  
+    
+१२।११च्द्। रत्नैः प्रभूतैः कुसुमैः फलैश् च भूर्यच्छतीवार्घम् अगस्त्यनाम्ने॥  
+    
+१२।१२अब्। सलिलम् अमरपाज्ञया^उज्झितं यद् धन^परिवेष्टित^मूर्तिभिर् भुजङ्गैः।  
+    
+१२।१२च्द्। फणि^जनित^विष^अग्नि^सम्प्रदुष्टं भवति शिवं तद् अगस्त्य^दर्शनेन॥  
+    
+१२।१३अब्। स्मरणाद् अपि पापम् अपाकुरुते किम् उत स्तुतिभिर् वरुणाङ्गरुहः।  
+    
+१२।१३च्द्। मुनिभिः कथितो +अस्य यथार्घविधिः कथयामि तथ^एव नरेन्द्रहितम्॥  
+    
+१२।१४अब्। सङ्ख्याविधानात् प्रतिदेशम् अस्य विज्ञाय सन्दर्शनम् आदिशेज् ज्ञः।  
+    
+१२।१४च्द्। तच् च^*उज्जयिन्याम्[क्।उज्जयन्याम्] अगतस्य कन्यां भागैः स्वराख्यैः स्फुट^भास्करस्य॥  
+    
+१२।१५अब्। ईषत्प्रभिन्ने +अरुणरश्मिजालैर् नैशे +अन्धकारे दिशि दक्षिणस्याम्।  
+    
+१२।१५च्द्। सांवत्सरावेदितदिग्विभागे भूपो +अर्घम् उर्व्यां प्रयतः प्रयच्छेत्॥  
+    
+१२।१६अ कालोद्भवैः सुरभिभिः कुसुमैः फलैश् च  
+    
+१२।१६ब् रत्नैश् च सागरभवैः कनकाम्बरैश् च।  
+    
+१२।१६च् धेन्वा वृषेण परमान्न^युतैश् च भक्ष्यैर्  
+    
+१२।१६द् दध्य्^अक्षतैः सुरभि^धूप^विलेपनैश् च॥  
+    
+१२।१७अ नरपतिर् इमम् अर्घं श्रद्दधानो दधानः  
+    
+१२।१७ब् प्रविगतगददोषो निर्जितारातिपक्षः।  
+    
+१२।१७च् भवति यदि च दद्यात् सप्त वर्षाणि सम्यग्  
+    
+१२।१७द् जलनिधि*रशनायाः[क्।रसनायाः] स्वामितां याति भूमेः॥  
+    
+१२।१८अब्। द्विजो यथालाभम् उपाहृतार्घः प्राप्नोति वेदान् प्रमदाश् च पुत्रान्।  
+    
+१२।१८च्द्। वैश्यश् च गां भूरि घनं च शूद्रो रोगक्षयं धर्मफलं च सर्वे॥  
+    
+१२।१९अ रोगान् करोति परुषः कपिलस् त्व् अवृष्टिं  
+    
+१२।१९ब् धूम्रो गवाम् अशुभकृत् स्फुरणो भयाय।  
+    
+१२।१९च् माञ्जिष्ठराग^सदृशः क्षुधम् आहवांश् च  
+    
+१२।१९द् कुर्याद् अणुश् च पुररोधम् अगस्त्यनामा॥  
+    
+१२।२०अब्। शातकुम्भसदृशः स्फटिकाभस् तर्पयन्न् इव महीं *किरणाग्रैः[क्।किरणौघैः]।  
+    
+१२।२०च्द्। दृश्यते यदि *तदा[क्।ततः] प्रचुरान्ना भूर् भवत्य् अभय^रोग^जन^आढ्या॥  
+    
+१२।२१अब्। उल्कया विनिहतः शिखिना वा क्षुद्भयं मरकम् एव *विधत्ते[क्।धत्ते]।  
+    
+१२।२१च्द्। दृश्यते स किल हस्तगते +अर्के रोहिणीम् उपगते +अस्तम् उपैति॥
+
+                   १३ सप्तर्षिचाराध्यायः
+
+१३।०१अब्। सैकावलीव राजति ससितोत्पलमालिनी सहासेव।  
+    
+१३।०१च्द्। नाथवतीव च दिग् यैः कौवेरी सप्तभिर् मुनिभिः॥  
+    
+१३।०२अब्। ध्रुवनायकोपदेशान् *नरिनर्ती[क्।नरिनर्त्ती]^इव^उत्तरा भ्रमद्भिश् च।  
+    
+१३।०२च्द्। यैश् चारम् अहं तेषां कथयिष्ये वृद्धगर्ग^मतात्॥  
+    
+१३।०३अब्। आसन् मघासु मुनयः शासति पृथ्वीं युधिष्ठिरे नृपतौ।  
+    
+१३।०३च्द्। षड्द्विकपञ्चद्वियुतः शककालस् तस्य राज्ञश् च॥  
+    
+१३।०४अब्। एकैकस्मिन्न् ऋक्षे शतं शतं ते चरन्ति वर्षाणाम्।  
+    
+१३।०४च्द्। *प्रागुदयतो +अप्य् अविवराद् र्जून् नयति तत्र संयुक्ताः[क्।प्रागुत्तरतश् च एते सदा उदयन्ते ससाध्वीकाः]॥  
+    
+१३।०५अब्। पूर्वे भागे भगवान् मरीचिर् अपरे स्थितो वसिष्ठो +अस्मात्।  
+    
+१३।०५च्द्। तस्याङ्गिरास् ततो +अत्रिस् तस्यासन्नः पुलस्त्यश् च॥  
+    
+१३।०६अब्। पुलहः क्रतुर् इति भगान् आसन्ना अनुक्रमेण *पूर्वाद्यात्[क्।पूर्वाद्याः]।  
+    
+१३।०६च्द्। तत्र वसिष्ठं मुनिवरम् उपाश्रितारुन्धती साध्वी॥  
+    
+१३।०७अब्। उल्का^अशनि^धूम^आद्यैर् हता विवर्णा विरश्मयो ह्रस्वाः।  
+    
+१३।०७च्द्। हन्युः स्वं स्वं वर्गं विपुलाः स्निग्धाश् च तद्वृद्ध्यै॥  
+    
+१३।०८अब्। गन्धर्व^देव^दानव^मन्त्र^औषधि^सिद्ध^यक्ष^नागानाम्।  
+    
+१३।०८च्द्। पीडाकारो मरीचिर् ज्ञेयो विद्याधराणां च॥  
+    
+१३।०९अब्। शक^यवन^दरद^पारत^काम्बोजांस् तापसान् वनोपेतान्।  
+    
+१३।०९च्द्। हन्ति वसिष्ठो +अभिहतो विवृद्धिदो रश्मिसम्पन्नः॥  
+    
+१३।१०अब्। अङ्गिरसो ज्ञानयुता धीमन्तो ब्राह्मणाश् च निर्दिष्टाः।  
+    
+१३।१०च्द्। अत्रेः कान्तारभवा जलजान्य् अम्भोनिधिः सरितः॥  
+    
+१३।११अब्। रक्षः^पिशाच^दानव^दैत्य^भुजङ्गाः स्मृताः पुलस्त्यस्य।  
+    
+१३।११च्द्। पुलहस्य तु मूलफलं क्रतोस् तु यज्ञाः सयज्ञभृतः॥
+
+                   १४ नक्षत्रकूर्माध्यायः
+
+१४।०१अब्। नक्षत्रत्रय^वर्गैर् आग्नेयाद्यैर् व्यवस्थितैर् नवधा।  
+    
+१४।०१च्द्। भारतवर्षे *मध्य[क्।मध्यात्]^प्रागादि^विभाजिता देशाः॥  
+    
+१४।०२अब्। भद्र^अरिमेद^माण्डव्य^साल्व^नीप^उज्जिहान^सङ्ख्याताः।  
+    
+१४।०२च्द्। मरु^वत्स^घोष^यामुन^सारस्वत^मत्स्य^माध्यमिकाः॥  
+    
+१४।०३अब्। माथुरक^उपज्योतिष^धर्मारण्यानि शूरसेनाश् च।  
+    
+१४।०३च्द्। गौरग्रीव^उद्देहिक^पाण्डु^गुड^अश्वत्थ^पाञ्चालाः॥  
+    
+१४।०४अब्। साकेत^कङ्क^कुरु^कालकोटि^कुकुराश् च पारियात्र^नगः।  
+    
+१४।०४च्द्। औदुम्बर^कापिष्ठल^गजाह्वयाश् च^इति मध्यम् इदम्॥  
+    
+१४।०५अब्। अथ पूर्वस्याम् अञ्जन^वृषभ^ध्वज^पद्म^माल्यवद्^गिरयः।  
+    
+१४।०५च्द्। व्याघ्रमुख^सुह्म^कर्वट^चान्द्रपुराः शूर्पकर्णाश् च॥  
+    
+१४।०६अब्। खस^मगध^शिबिरगिरि^मिथिल^समतट^उड्र^अश्ववदन^दन्तुरकाः।  
+    
+१४।०६च्द्। प्राग्ज्योतिष^लौहित्य^क्षीरोद^समुद्र^पुरुषादाः॥  
+    
+१४।०७अब्। उदयगिरि^भद्र^गौडक^पौण्ड्र^उत्कल^काशि^मेकल^अम्बष्ठाः।  
+    
+१४।०७च्द्। एकपद^*ताम्रलिप्तक[क्।तामलिपितक]^कोशलका वर्धमानाश् च॥  
+    
+१४।०८अब्। आग्नेय्यां दिशि कोशल^कलिङ्ग^वङ्ग^उपवङ्ग^जठराङ्गाः।  
+    
+१४।०८च्द्। शौलिक^विदर्भ^वत्स^अन्ध्र^चेदिकाश् च^ऊर्ध्वकण्ठाश् च॥  
+    
+१४।०९अब्। वृष^नालिकेर^चर्मद्वीपा विन्ध्यान्तवासिनस् त्रिपुरी।  
+    
+१४।०९च्द्। श्मश्रुधर^*हेमकुड्य[क्।हेमकूट्य]^व्यालग्रीवा महाग्रीवाः॥  
+    
+१४।१०अब्। किष्किन्ध^कण्टकस्थल^निषादराष्ट्राणि पुरिक^दाशार्णाः।  
+    
+१४।१०च्द्। सह नग्न^पर्णशबरैर् आश्लेषाद्ये त्रिके देशाः॥  
+    
+१४।११अब्। अथ दक्षिणेन लङ्का^कालाजिन^सौरिकीर्ण^तालिकटाः।  
+    
+१४।११च्द्। गिरिनगर^मलय^दर्दुर^महेन्द्र^मालिन्द्य^भरुकच्छाः॥  
+    
+१४।१२अब्। कङ्कट^*कङ्कण[क्।टङ्कण]^वनवासि^शिबिक^फणिकार^कोङ्कण^आभीराः।  
+    
+१४।१२च्द्। आकर^वेणा^*आवर्तक[क्।आवन्तक]^दशपुर^गोनर्द^केरलकाः॥  
+    
+१४।१३अब्। कर्णाट^महाटवि^चित्रकूट^नासिक्य^कोल्लगिरि^चोलाः।  
+    
+१४।१३च्द्। क्रौञ्चद्वीप^जटाधर^कावेर्यो रिष्यमूकश् च॥  
+    
+१४।१४अब्। वैदूर्य^शङ्ख^मुक्ता^अत्रि^वारिचर^धर्मपट्टन^द्वीपाः।  
+    
+१४।१४च्द्। गणराज्य^कृष्ण^वेल्लूर^पिशिक^शूर्पाद्रि^कुसुमनगाः॥  
+    
+१४।१५अब्। तुम्बवन^*कार्मणयक[क्।ऊ।कार्मणेयक]^याम्योदधि^तापसाश्रमा ऋषिकाः।  
+    
+१४।१५च्द्। काञ्ची^मरुचीपट्टन^चेर्य्^आर्यक^सिंहला ऋषभाः॥  
+    
+१४।१६अब्। बलदेवपट्टनं दण्डकावन^तिमिङ्गिलाशना भद्राः।  
+    
+१४।१६च्द्। कच्छो +अथ कुञ्जरदरी सताम्रपर्णी^इति विज्ञेयाः॥  
+    
+१४।१७अब्। नैरृत्यां दिशि देशाः पह्लव^काम्बोज^सिन्धुसौवीराः।  
+    
+१४।१७च्द्। वडवामुख^अरव^अम्बष्ठ^कपिल^नारीमुख^आनर्ताः॥  
+    
+१४।१८अब्। फेणगिरि^यवन^*मार्गर[क्।माकर]^कर्णप्रावेय^पारशव^शूद्राः।  
+    
+१४।१८च्द्। बर्बर^किरात^खण्ड^*क्रव्याद[क्।क्रव्याश्या]^आभीर^चञ्चूकाः॥  
+    
+१४।१९अब्। हेमगिरि^सिन्धु^कालक^रैवतक^सुराष्ट्र^बादर^द्रविडाः।  
+    
+१४।१९च्द्। स्वात्य्^आद्ये भत्रितये ज्ञेयश् च महार्णवो +अत्र^एव॥  
+    
+१४।२०अब्। अपरस्यां मणिमान् मेघवान् वनौघः क्षुरार्पणो +अस्तगिरिः।  
+    
+१४।२०च्द्। अपरान्तक^शान्तिक^हैहय^प्रशस्ताद्रि^वोक्काणाः॥  
+    
+१४।२१अब्। पञ्चनद^रमठ^पारत^तारक्षिति^जृङ्ग^वैश्य^कनक^शकाः।  
+    
+१४।२१च्द्। निर्मर्यादा म्लेच्छा ये पश्चिम^दिक्^स्थितास् ते च॥  
+    
+१४।२२अब्। दिशि पश्चिमोत्तरस्यां माण्डव्य^*तुषार[क्।तुखार]^ताल^हल^मद्राः।  
+    
+१४।२२च्द्। अश्मक^कुलूत^*हलडाः[क्।हड]^स्त्रीराज्य^नृसिंहवन^खस्थाः॥  
+    
+१४।२३अब्। वेणुमती फल्गुलुका गुलुहा मरुकुच्च^चर्मरङ्गाख्याः।  
+    
+१४।२३च्द्। एकविलोचन^शूलिक^दीर्घग्रीव^आस्य^केशाश् च॥  
+    
+१४।२४अब्। उत्तरतः कैलासो हिमवान् वसुमान् गिरिर् धनुष्मांश् च।  
+    
+१४।२४च्द्। क्रौञ्चो मेरुः कुरवस् तथा^उत्तराः क्षुद्रमीनाश् च॥  
+    
+१४।२५अब्। कैकय^वसाति^यामुन^भोगप्रस्थ^अर्जुनायन^अग्नीध्राः।  
+    
+१४।२५च्द्। *आदरान्तर्द्वीपि[क्।ऊ।आदर्शान्तद्वीपि]^त्रिगर्त^*तुरगाननाः श्वमुखाः[क्।तुरगाननाश्वमुखाः]॥  
+१४।२६अब्। केशधर^चिपिटनासिक^दासेरक^वाटधान^शरधानाः।  
+    
+१४।२६च्द्। तक्षशिल^पुष्कलावत^कैलावत^कण्ठधानाश् च॥  
+    
+१४।२७अब्। अम्बर^मद्रक^मालव^पौरव^कच्छार^दण्ड^पिङ्गलकाः।  
+    
+१४।२७च्द्। माणहल^हूण^कोहल^शीतक^माण्डव्य^भूतपुराः॥  
+    
+१४।२८अब्। गान्धार^यशोवति^हेमताल^राजन्य^खचर^गव्याश् च।  
+    
+१४।२८च्द्। यौधेय^दासमेयाः श्यामाकाः क्षेमधूर्ताश् च॥  
+    
+१४।२९अब्। ऐशान्यां मेरुक^नष्टराज्य^पशुपाल^कीर^काश्मीराः।  
+    
+१४।२९च्द्। अभिसार^दरद^तङ्गण^कुलूत^*सैरिन्ध्र[क्।सैरिन्ध]^वनराष्ट्राः॥  
+    
+१४।३०अब्। ब्रह्मपुर^दार्व^डामर^वनराज्य^किरात^चीन^कौणिन्दाः।  
+    
+१४।३०च्द्। *भल्लाः पटोल[क्।भल्लापलोल]^जटासुर^*कुनटखस[क्।कुनठखष]^घोष^कुचिकाख्याः॥  
+    
+१४।३१अब्। एकचरण^*अनुविद्धाः[क्।अनुविश्वाः] सुवर्णभूर् *वसुधनं[क्।वसुवनम्] दिविष्ठाश् च।  
+    
+१४।३१च्द्। पौरव^*चीरनिवासि[क्।चीरनिवासन]^त्रिनेत्र^मुञ्जाद्रि^*गान्धर्वाः[क्।गन्धर्वाः]॥  
+    
+१४।३२अब्। वर्गैर् आग्नेयाद्यैः क्रूरग्रह^पीडितैः क्रमेण नृपाः।  
+    
+१४।३२च्द्। पाञ्चालो मागधिकः कालिङ्गश् च क्षयं यान्ति॥  
+    
+१४।३३अब्। आवन्तो +अथ^आनर्तो मृत्युं च^आयाति सिन्धुसौवीरः।  
+    
+१४।३३च्द्। राजा च हारहौरो मद्रेशो +अन्यश् च कौणिन्दः॥
+
+                   १५ नक्षत्रव्यूहाध्यायः
+
+१५।०१अब्। आग्नेये सितकुसुम^आहिताग्नि^मन्त्रज्ञ^सूत्र^भाष्य^ज्ञाः।  
+    
+१५।०१च्द्। आकरिक^नापित^द्विज^घटकार^पुरोहित^अब्दज्ञाः॥  
+    
+१५।०२अब्। रोहिण्यां सुव्रत^पण्य^भूप^धनि^योग^युक्त^शाकटिकाः।  
+    
+१५।०२च्द्। गो^वृष^जलचर^कर्षक^शिलोच्चय^ऐश्वर्यसम्पन्नाः॥  
+    
+१५।०३अब्। मृगशिरसि सुरभि^वस्त्र^अब्ज^कुसुम^फल^रत्न^वनचर^विहङ्गाः।  
+    
+१५।०३च्द्। मृग^सोमपीथि^गान्धर्व^कामुका लेखहाराश् च॥  
+    
+१५।०४अब्। रौद्रे वध^बन्ध^आनृत^परदार^स्तेय^शाठ्य^भेद^रताः।  
+    
+१५।०४च्द्। तुषधान्य^तीक्ष्ण^मन्त्र^अभिचार^वेतालकर्मज्ञाः॥  
+    
+१५।०५अब्। आदित्ये सत्य^औदार्य^शौच^कुल^रूप^धी^यशो^अर्थ^युताः।  
+    
+१५।०५च्द्। उत्तमधान्यं वणिजः सेवाभिरताः सशिल्पिजनाः॥  
+    
+१५।०६अब्। पुष्ये यव^गोधूमाः शालि^इक्षु^वनानि मन्त्रिणो भूपाः।  
+    
+१५।०६च्द्। सलिलोपजीविनः साधवश् च यज्ञ^इष्टि^सक्ताश् च॥  
+    
+१५।०७अब्। अहिदेवे कृत्रिम^कन्द^मूल^फल^कीट^पन्नग^विषाणि।  
+    
+१५।०७च्द्। पर^धन^हरण^अभिरतास् तुषधान्यं सर्वभिषजश् च॥  
+    
+१५।०८अब्। पित्र्ये धन^धान्य^आढ्याः कोष्ठागाराणि पर्वताश्रयिणः।  
+    
+१५।०८च्द्। पितृ^भक्त^वणिक्^शूराः क्रव्यादाः स्त्री^द्विषो मनुजाः॥  
+    
+१५।०९अब्। प्राक्फल्गुनीषु नट^युवति^सुभग^गान्धर्व^शिल्पि^पण्यानि।  
+    
+१५।०९च्द्। कर्पास^लवण^*मक्षिक[क्।ऊ।माक्षिक]^तैलानि कुमारकाश् च^अपि॥  
+    
+१५।१०अब्। आर्यम्णे मार्दव^शौच^विनय^*पाखण्डि[क्।पाषण्डि]^दान^शास्त्र^रताः।  
+    
+१५।१०च्द्। शोभन^धान्य^महाधन^कर्मानुरताः समनुजेन्द्राः॥  
+    
+१५।११अब्। हस्ते तस्कर^कुञ्जर^रथिक^महामात्र^शिल्पि^पण्यानि।  
+    
+१५।११च्द्। तुषधान्यं श्रुतयुक्ता वणिजस् तेजोयुताश् च^अत्र॥  
+    
+१५।१२अब्। त्वाष्ट्रे भूषण^मणि^राग^लेख्य^गान्धर्व^गन्ध^युक्ति^ज्ञाः।  
+    
+१५।१२च्द्। गणितपटु^तन्तुवायाः शालाक्या राजधान्यानि॥  
+    
+१५।१३अब्। स्वातौ खग^मृग^तुरगा वणिजो धान्यानि वातबहुलानि।  
+    
+१५।१३च्द्। अस्थिर^सौहृद^लघु^सत्त्व^तापसाः पण्य^कुशलाश् च॥  
+    
+१५।१४अब्। इन्द्राग्निदैवते रक्त^पुष्प^फल^शाखिनः स^तिल^मुद्गाः।  
+    
+१५।१४च्द्। कर्पास^माष^चणकाः पुरन्दर^हुताश^भक्ताश् च॥  
+    
+१५।१५अब्। मैत्रे शौर्यसमेता गणनायक^साधु^गोष्ठि^यान^रताः।  
+    
+१५।१५च्द्। ये साधवश् च लोके सर्वं च शरत्समुत्पन्नम्॥  
+    
+१५।१६अब्। पौरन्दरे +अतिशूराः कुल^वित्त^यशो^+अन्विताः परस्वहृतः।  
+    
+१५।१६च्द्। विजिगीषवो नरेन्द्राः सेनानां च^अपि नेतारः॥  
+    
+१५।१७अब्। मूले भेषज^भिषजो गणमुख्याः कुसुम^मूल^फल^*वार्ताः[क्।वार्त्ताः]।  
+    
+१५।१७च्द्। बीजान्य् अतिधनयुक्ताः फलमूलैर् ये च वर्तन्ते॥  
+    
+१५।१८अब्। आप्ये मृदवो जलमार्गगामिनः सत्य^शौच^धन^युक्ताः।  
+    
+१५।१८च्द्। सेतुकर^वारि^जीवक^फल^कुसुमान्य् अम्बुजातानि॥  
+    
+१५।१९अब्। विश्वेश्वरे महामात्र^मल्ल^करि^तुरग^देवता^*सक्ताः[क्।भक्ताः]।  
+    
+१५।१९च्द्। स्थावर^योधा भोगान्विताश् च ये *तेजसा[क्।चौजसा] युक्ताः॥  
+    
+१५।२०अब्। श्रवणे मायापटवो नित्योद्युक्ताश् च कर्मसु समर्थाः।  
+    
+१५।२०च्द्। उत्साहिनः सधर्मा भागवताः सत्यवचनाश् च॥  
+    
+१५।२१अब्। वसुभे मानोन्मुक्ताः *क्लीब[क्।क्लीबाश्]^अचलसौहृदाः स्त्रियां *द्वेष्याः[क्।द्वष्याः, क्ऽस् त्र्। द्वेष्याः]।  
+    
+१५।२१च्द्। दानाभिरता बहुवित्तसंयुताः शमपराश् च नराः॥  
+    
+१५।२२अब्। वरुणेशे पाशिक^मत्स्य^बन्ध^जलजानि जलचराजीवाः।  
+    
+१५।२२च्द्। सौकरिक^रजक^शौण्डिक^शाकुनिकाश् च^अपि वर्गे +अस्मिन्॥  
+    
+१५।२३अब्। आजे तस्कर^पशुपाल^हिंस्र^कीनाश^नीच^शठ^चेष्टाः।  
+    
+१५।२३च्द्। धर्म^व्रतैर् विरहिता नियुद्ध^कुशलाश् च ये मनुजाः॥  
+    
+१५।२४अब्। *आहिर्बुध्न्ये[क्।आहिर्बुध्न्यु] विप्राः क्रतु^दान^तपो^युता महाविभवाः।  
+    
+१५।२४च्द्। आश्रमिणः *पाखण्डा[क्।पाषण्डा] नरेश्वराः सारधान्यं च॥  
+    
+१५।२५अब्। पौष्णे सलिलज^फल^कुसुम^लवण^मणि^शङ्ख^मौक्तिक^अब्जानि।  
+    
+१५।२५च्द्। सुरभि^कुसुमानि गन्धा वणिजो नौकर्णधाराश् च॥  
+    
+१५।२६अब्। अश्विन्याम् अश्वहराः सेनापति^वैद्य^सेवकास् तुरगाः।  
+    
+१५।२६च्द्। *तुरगारोहा वणिजो[क्।तुरगारोहाश् च वनिग्] रूपोपेतास् तुरगरक्षाः॥  
+    
+१५।२७अब्। याम्ये +असृक्^पिशित^भुजः क्रूरा वध^बन्ध^ताडन^आसक्ताः।  
+    
+१५।२७च्द्। तुषधान्यं नीचकुलोद्भवा विहीनाश् च सत्त्वेन॥  
+    
+१५।२८अब्। पूर्वात्रयं सानलम् अग्रजानां राज्ञां तु पुष्येण सहोत्तराणि।  
+    
+१५।२८च्द्। सपौष्ण^मैत्रं पितृदैवतं च प्रजापतेर् भं च कृषीवलानाम्॥  
+    
+१५।२९अब्। आदित्य^हस्त^अभिजिद्^आश्विनानि वणिग्जनानां प्रवदन्ति *तानि[क्।भानि]।  
+    
+१५।२९च्द्। मूल^त्रिनेत्र^अनिल^वारुणानि भान्य् उग्रजातेः *प्रभविष्णुतायाः[क्।प्रभविष्णुतायाम्]॥  
+    
+१५।३०अब्। सौम्य^ऐन्द्र^चित्रा^वसुदैवतानि सेवाजन^स्वाम्यम् उपागतानि।  
+१५।३०च्द्। सार्पं विशाखा श्रवणो भरण्यश् चण्डालजातेर् *अभिनिर्दिशन्ति[क्।इति निर्दशन्ति]॥  
+    
+१५।३१अब्। रवि^रविसुत^भोगम् आगतं क्षितिसुत^भेदन^वक्र^दूषितम्।  
+    
+१५।३१च्द्। ग्रहणगतम् अथ^उल्कया हतं नियतम् उषाकर^पीडितं च यत्॥  
+    
+१५।३२अब्। तद् उपहतम् इति प्रचक्षते प्रकृति^विपर्यय^यातम् एव वा।  
+    
+१५।३२च्द्। निगदित^परिवर्ग^दूषणं कथित^विपर्ययगं समृद्धये॥
+
+                   १६ ग्रहभक्तियोगाध्यायः
+
+१६।०१अब्। प्राङ् नर्मदार्ध^शोण^उड्र^वङ्ग^सुह्माः कलिङ्ग^बाह्लीकाः।  
+    
+१६।०१च्द्। शक^यवन^मगध^शबर^प्राग्ज्योतिष^चीन^काम्बोजाः॥  
+    
+१६।०२अब्। मेकल^किरात^विटका बहिर्^अन्तः^शैलजाः पुलिन्दाश् च।  
+    
+१६।०२च्द्। द्रविडानां प्रागर्धं दक्षिणकूलं च यमुनायाः॥  
+    
+१६।०३अब्। चम्प^उदुम्बर^कौशाम्बि^चेदि^विन्ध्याटवी^कलिङ्गाश् च।  
+    
+१६।०३च्द्। पुण्ड्रा गोलाङ्गूल^श्रीपर्वत^*वर्धमानानि[क्।वर्धमानाश् च]॥  
+    
+१६।०४अब्। इक्षुमती^इत्य् अथ तस्कर^पारत^कान्तार^गोप^बीजानाम्।  
+    
+१६।०४च्द्। तुषधान्य^कटुक^तरु^कनक^दहन^विष^समरशूराणाम्॥  
+    
+१६।०५अब्। भेषज^भिषक्^चतुष्पद^कृषिकर^नृप^हिंस्र^यायि^चौराणाम्।  
+    
+१६।०५च्द्। व्याल^अरण्य^यशोयुत^तीक्ष्णाणां भास्करः स्वामी॥  
+    
+१६।०६अब्। गिरि^सलिल^दुर्ग^कोशल^भरुकच्छ^समुद्र^रोमक^*तुषाराः[क्।तुखाराः]।  
+    
+१६।०६च्द्। वनवासि^तङ्गण^हल^स्त्रीराज्य^महार्णवद्वीपाः॥  
+    
+१६।०७अब्। मधुररस^कुसुम^फल^सलिल^लवण^मणि^शङ्ख^मौक्तिक^अब्जानाम्।  
+    
+१६।०७च्द्। शालि^यव^औषधि^गोधूम^सोमप^आक्रन्द^विप्राणाम्॥  
+    
+१६।०८अब्। सित^सुभग^तुरग^रतिकर^युवति^चमूनाथ^भोज्य^वस्त्राणाम्।  
+    
+१६।०८च्द्। शृङ्गि^निशाचर^कार्षक^यज्ञविदां च^अधिपश् चन्द्रः॥  
+    
+१६।०९अब्। शोणस्य नर्मदाया भीमरथायाश् च पश्चिमार्धस्थाः।  
+    
+१६।०९च्द्। निर्विन्ध्या वेत्रवती सिप्रा गोदावरी वेणा॥  
+    
+१६।१०अब्। मन्दाकिनी पयोष्णी महानदी सिन्धु^मालती^पाराः।  
+    
+१६।१०च्द्। उत्तरपाण्ड्य^महेन्द्राद्रि^विन्ध्य^मलय^उपगाश् चोलाः॥  
+    
+१६।११अब्। द्रविड^विदेह^अन्ध्र^अश्मक^*भासापर[क्।भासापुर]^कौङ्कणाः समन्त्रिषिकाः।  
+    
+१६।११च्द्। कुन्तल^केरल^दण्डक^कान्तिपुर^म्लेच्छ^*सङ्करिणः[क्।सङ्करजाः]॥  
+    
+[क्।१६।१२अब्। नासिक्यभोगवर्धनविराटविन्ध्याद्रिपार्श्वगा देशाः।  
+    
+क्।१६।१२च्द्। ये च पिबन्ति सुतोयां तापीं ये च अपि गोमतीसलिलम् ॥]  
+    
+१६।१२अब्। नागर^कृषिकर^पारत^हुताशनाजीवि^*शस्त्र^वार्तानाम्[क्।शस्त्र^वार्त्तानाम्]।  
+    
+१६।१२च्द्। आटविक^दुर्ग^कर्वट^*वधिक[क्।वधक]^नृशंस^अवलिप्तानाम्॥  
+    
+१६।१३अब्। नरपति^कुमार^कुञ्जर^दाम्भिक^डिम्भाभिघात^पशुपानाम्।  
+    
+१६।१३च्द्। रक्त^फल^कुसुम^विद्रुम^चमूप^गुड^मद्य^तीक्ष्णानाम्॥  
+    
+१६।१४अब्। कोश^भवन^आग्निहोत्रिक^धात्वाकर^शाक्य^भिक्षु^चौराणाम्।  
+    
+१६।१४च्द्। शठ^दीर्घवैर^बह्वाशिनां च वसुधासुतो +अधिपतिः॥  
+    
+१६।१५अब्। लोहित्यः सिन्धुनदः सरयूर् गाम्भीरिका रथाख्या च।  
+    
+१६।१५च्द्। गङ्गा^कौशिक्य्^आद्याः सरितो वैदेह^काम्बोजाः॥  
+    
+१६।१६अब्। मथुरायाः पूर्वार्धं हिमवद्^गोमन्त^चित्रकूट^स्थाः।  
+    
+१६।१६च्द्। सौराष्ट्र^सेतु^जलमार्ग^पण्य^बिल^पर्वत^आश्रयिणः॥  
+    
+१६।१७अब्। उदपान^यन्त्र^गान्धर्व^लेख्य^मणि^राग^गन्ध^युक्ति^विदः।  
+    
+१६।१७च्द्। आलेख्य^शब्द^गणित^प्रसाधक^आयुष्य^शिल्पज्ञाः॥  
+    
+१६।१८अब्। चरपुरुष^कुहकजीवक^शिशु^कवि^शठ^सूचक^अभिचार^रताः।  
+    
+१६।१८च्द्। दूत^नपुंसक^हास्यज्ञ^भूततन्त्र^इन्द्रजाल^ज्ञाः॥  
+    
+१६।१९अब्। आरक्षक^नट^नर्तक^घृत^तैल^स्नेह^बीज^तिक्तानि।  
+    
+१६।१९च्द्। व्रतचारि^रसायन^कुशल^वेसराश् चन्द्रपुत्रस्य॥  
+    
+१६।२०अब्। सिन्धुनद^पूर्वभागो मथुरा^पश्चार्ध^भरत^सौवीराः।  
+    
+१६।२०च्द्। स्रुघ्न^*औदीच्य[क्।उदीच्य]^विपाशा^सरित्^शतद्रू रमठ^*शाल्वाः[क्।साल्वाः]॥  
+    
+१६।२१अब्। त्रैगर्त^*पौरव[क्।पौरब]^अम्बष्ठ^पारता वाटधान^यौधेयाः।  
+    
+१६।२१च्द्। सारस्वत^अर्जुनायन^मत्स्यार्ध^ग्रामराष्ट्राणि॥  
+    
+१६।२२अब्। हस्त्य्^अश्व^पुरोहित^भूप^मन्त्रि^माङ्गल्य^पौष्टिक^आसक्ताः।  
+    
+१६।२२च्द्। कारुण्य^सत्य^शौच^व्रत^विद्या^दान^धर्म^युताः॥  
+    
+१६।२३अब्। पौर^महाधन^शब्द^अर्थ^वेदविदुषो +अभिचार^नीति^ज्ञाः।  
+    
+१६।२३च्द्। मनुजेश्वर^उपकरणम् छत्र^ध्वज^चामर^आद्यं च॥  
+    
+१६।२४अब्। शैलेय^कुष्ठ[क्।कष्ठ]^मांसी^तगर^रस^सैन्धवानि वल्लीजम्।  
+    
+१६।२४च्द्। मधुर^रस^मधूच्छिष्टानि चोरकश् च^इति जीवस्य॥  
+    
+१६।२५अब्। तक्षशिल^*मर्तिकावत[क्।ऊ।मार्तिकावत]^बहुगिरि^गान्धार^पुष्कलावतकाः।  
+    
+१६।२५च्द्। प्रस्थल^मालव^कैकय^दाशार्ण^उशीनराः शिबयः॥  
+    
+१६।२६अब्। ये च पिबन्ति वितस्ताम् इरावतीं चन्द्रभाग^सरितं च।  
+    
+१६।२६च्द्। रथ^रजत^आकर^कुञ्जर^तुरग^महामात्र^धनयुक्ताः॥  
+    
+१६।२७अब्। सुरभि^कुसुम^अनुलेपन^मणि^वज्र^विभूषण^अम्बुरुह^शय्याः।  
+    
+१६।२७च्द्। वर^तरुण^युवति^काम^उपकरण^मृष्टान्न^मधुर^भुजः॥  
+    
+१६।२८अब्। उद्यान^सलिल^कामुक^यशः^सुख^औदार्य^रूप^सम्पन्नाः।  
+    
+१६।२८च्द्। विद्वद्^अमात्य^वणिग्जन^घटकृच्^चित्राण्डजास् त्रिफलाः॥  
+    
+१६।२९अब्। कौशेयपट्ट^कम्बल^पत्रौर्णिक^रोध्र^पत्र^चोचानि।  
+    
+१६।२९च्द्। जातीफल^अगुरु^वचा^पिप्पल्यश् चन्दनं च भृगोः॥  
+    
+१६।३०अब्। आनर्त^आर्बुद^पुष्कर^सौराष्ट्र^आभीर^शूद्र^रैवतकाः।  
+    
+१६।३०च्द्। नष्टा यस्मिन् देशे सरस्वती पश्चिमो देशः।  
+    
+१६।३१अब्। कुरुभूमिजाः प्रभासं विदिशा वेदस्मृती महीतटजाः।  
+    
+१६।३१च्द्। खल^मलिन^नीच^तैलिक^विहीनसत्त्व^उपहत^पुंस्त्वाः॥  
+    
+१६।३२अब्। *बान्धन[क्।बन्धन]^शाकुनिक^अशुचि^कैवर्त^विरूप^वृद्ध^सौकरिकाः।  
+    
+१६।३२च्द्। गणपूज्य^स्खलित^व्रत^शबर^पुलिन्द^अर्थपरिहीनाः।  
+    
+१६।३३अब्। कटु^तिक्त^रसायन^विधवयोषितो भुजग^तस्कर^महिष्यः।  
+    
+१६।३३च्द्। खर^करभ^चणक^*वातल[क्।वातुल]^निष्पावाश् च^अर्कपुत्रस्य॥  
+    
+१६।३४अब्। गिरिशिखर^कन्दर^दरी^विनिविष्टा म्लेच्छजातयः शूद्राः।  
+    
+१६।३४च्द्। गोमायु^भक्ष^शूलिक^वोक्काण^अश्वमुख^विकलाङ्गाः।  
+    
+१६।३५अब्। कुलपांसन^हिंस्र^कृतघ्न^चौर^निःसत्य^शौच^दानाश् च।  
+    
+१६।३५च्द्। खर^चर^नियुद्धवित्^तीव्ररोष^*गर्त्ताश्रया[क्।गर्भाशया] नीचाः॥  
+    
+१६।३६अब्। उपहत^दाम्भिक^राक्षस^निद्राबहुलाश् च जन्तवः सर्वे।  
+    
+१६।३६च्द्। धर्मेण च सन्त्यक्ता माष^तिलाश् च^अर्कशशिशत्रोः॥  
+    
+१६।३७अब्। गिरिदुर्ग^पह्लव^श्वेत^हूण^चोल^आवगाण^मरु^चीनाः।  
+    
+१६।३७च्द्। प्रत्यन्त^धनि^महेच्छ^व्यवसाय^पराक्रमोपेताः॥  
+    
+१६।३८अब्। परदार^विवाद^रताः पररन्ध्र^कुतूहला मद^उत्सिक्ताः।  
+    
+१६।३८च्द्। मूर्खा^अधार्मिक^विजिगीषवश् च केतोः समाख्याताः॥  
+    
+१६।३९अ उदयसमये यः स्निग्धांशुर् महान् प्रकृतिस्थितो  
+    
+१६।३९ब् यदि च न हतो निर्घात^उल्का^रजो^ग्रहमर्दनैः।  
+    
+१६।३९च् स्वभवन^गतः स्वोच्च^प्राप्तः शुभग्रह^वीक्षितः  
+    
+१६।३९द् स भवति शिवस् तेषां येषां प्रभुः परिकीर्तितः॥  
+    
+१६।४०अब्। अभिहित^विपरीत^*लक्षणे[क्।लक्षनैः] क्षयम् उपगच्छति तत्परिग्रहः।  
+    
+१६।४०च्द्। डमर^भय^गद^आतुरा जना नरपतयश् च भवन्ति दुःखिताः॥  
+    
+१६।४१अब्। यदि न रिपुकृतं भयं नृपाणां स्वसुत^कृतं नियमाद् अमात्यजं वा।  
+    
+१६।४१च्द्। भवति जनपदस्य च^अप्य् अवृष्ट्या गमनम् अपूर्वपुर^अद्रि^निम्नगासु॥
+
+                   १७ ग्रहयुद्धाध्यायः।
+
+१७।०१अब्। युद्धं यथा यदा वा *भविष्यम्[क्।भविष्यद्] आदिश्यते त्रिकालज्ञैः।  
+    
+१७।०१च्द्। तद्विज्ञानं करणे मया कृतं सूर्य^*सिद्धान्ते[क्।सिद्धान्तात्]॥  
+    
+१७।०२अब्। वियति चरतां ग्रहाणाम् उपर्युपर्य् आत्ममार्गसंस्थानाम्।  
+    
+१७।०२च्द्। अतिदूराद् दृग्विषये समताम् इव सम्प्रयातानाम्॥  
+    
+१७।०३अब्। आसन्न^क्रम^योगाद् भेद^उल्लेख^अंशु^मर्दन^*असव्यैः[क्।असव्यः]।  
+    
+१७।०३च्द्। युद्धं चतुष्प्रकारं पराशर^आद्यैर् मुनिभिर् उक्तम्॥  
+    
+१७।०४अब्। भेदे वृष्टिविनाशो भेदः सुहृदां महाकुलानां च।  
+    
+१७।०४च्द्। उल्लेखे शस्त्र^भयं मन्त्रिविरोधः प्रियान्नत्वम्॥  
+    
+१७।०५अब्। अम्शुविरोधे युद्धानि भूभृतां शस्त्र^रुक्^क्षुद्^अवमर्दाः।  
+१७।०५च्द्। युद्धे च^अप्य् अपसव्ये भवन्ति युद्धानि भूपानाम्॥  
+    
+१७।०६अब्। रविर् आक्रन्दो मध्ये पौरः पूर्वे +अपरे स्थितो यायी।  
+    
+१७।०६च्द्। पौरा बुध^गुरु^रविजा नित्यं शीतांशुर् *आक्रन्दः[क्।आक्रन्द्रः]॥  
+    
+१७।०७अब्। केतु^कुज^राहु^शुक्रा यायिन एते हता *घ्नन्ति[क्।ग्रहा हन्युः]।  
+    
+१७।०७च्द्। आक्रन्द^यायि^पौरान् जयिनो *जयदाः[क्।जयदा] स्व^वर्गस्य॥  
+    
+१७।०८अब्। पौरे पौरेण हते पौराः पौरान् नृपान् विनिघ्नन्ति।  
+    
+१७।०८च्द्। एवं *याय्याक्रन्दा[क्।याय्याक्रन्दौ] नागर^यायि^ग्रहाश् च^एव॥  
+    
+१७।०९अब्। दक्षिणदिक्स्थः परुषो वेपथुर् अप्राप्य सन्निवृत्तो +अणुः।  
+    
+१७।०९च्द्। अधिरूढो विकृतो निष्प्रभो विवर्णश् च यः स जितः॥  
+    
+१७।१०अब्। उक्तविपरीतलक्षणसम्पन्नो जयगतो *विनिर्देश्यः[क्।विनिर्दिष्टः]।  
+    
+१७।१०च्द्। विपुलः स्निग्धो द्युतिमान् दक्षिणदिक्स्थो +अपि जययुक्तः॥  
+१७।११अब्। द्वाव् अपि मयूखयुक्तौ विपुलौ स्निग्धौ समागमे भवतः।  
+    
+१७।११च्द्। तत्र *अन्योन्यं प्रीतिर्[क्।अन्योन्यप्रीतिर्] विपरीताव् आत्मपक्षघ्नौ॥  
+    
+१७।१२अब्। युद्धं समागमो वा यद्य् अव्यक्तौ *स्वलक्षणैर्[क्।तु लक्षणैर्] भवतः।  
+    
+१७।१२च्द्। भुवि भूभृताम् अपि तथा फलम् अव्यक्तं विनिर्देश्यम्॥  
+    
+१७।१३अब्। गुरुणा जिते +अवनिसुते बाह्लीका यायिनो *+अग्निवार्ताश् च[क्।अग्निवार्त्ताश् च]।  
+    
+१७।१३च्द्। शशिजेन शूरसेनाः कलिङ्ग^*शाल्वाश्[क्।साल्वाश्] च पीड्यन्ते॥  
+    
+१७।१४अब्। सौरेण^अरे विजिते जयन्ति पौराः प्रजाश् च सीदन्ति।  
+    
+१७।१४च्द्। *कोष्ठागार[क्।कोष्ठागार]^म्लेच्छ^क्षत्रिय^तापश् च शुक्रजिते॥  
+    
+१७।१५अब्। भौमेन हते शशिजे वृक्ष^सरित्^तापस^अश्मक^नरेन्द्राः।  
+    
+१७।१५च्द्। उत्तरदिक्स्थाः क्रतु^दीक्षिताश् च सन्तापम् आयान्ति॥  
+    
+१७।१६अब्। गुरुणा *जिते बुधे[क्।बुधे जिते] म्लेच्छ^शूद्र^चौर^अर्थयुक्त^पौरजनाः।  
+    
+१७।१६च्द्। त्रैगर्तपार्वतीयाः पीड्यन्ते कम्पते च मही॥  
+    
+१७।१७अब्। रविजेन बुधे ध्वस्ते नाविक^योध^अब्ज^सधन^गर्भिण्यः।  
+    
+१७।१७च्द्। भृगुणा जिते +अग्निकोपः सस्य^अम्बुद^यायि^विध्वंसः॥  
+    
+१७।१८अब्। जीवे शुक्र^अभिहते कुलूत^गान्धार^कैकया मद्राः।  
+    
+१७।१८च्द्। *शाल्वा[क्।साल्वा] वत्सा वङ्गा गावः सस्यानि *पीड्यन्ते[क्।नश्यन्ति]॥  
+    
+१७।१९अब्। भौमेन हते जीवे मध्यो देशो नरेश्वरा गावः।  
+    
+१७।१९च्द्। सौरेण च^अर्जुनायन^वसाति^यौधेय^शिबि^विप्राः॥  
+    
+१७।२०अब्। शशितनयेन^अपि जिते बृहस्पतौ म्लेच्छ^सत्य^शस्त्र^भृतः।  
+    
+१७।२०च्द्। उपयान्ति मध्यदेशश् च सङ्क्षयं यच् च भक्तिफलम्॥  
+    
+१७।२१अब्। शुक्रे बृहस्पति^*जिते[क्।हते] यायी श्रेष्ठो विनाशम् उपयाति।  
+    
+१७।२१च्द्। ब्रह्मक्षत्रविरोधः सलिलं च न वासवस् त्यजति॥  
+    
+१७।२२अब्। कोशल^कलिङ्ग^वङ्गा वत्सा मत्स्याश् च मध्यदेश^युताः।  
+    
+१७।२२च्द्। महतीं व्रजन्ति पीडां नपुंसकाः शूरसेनाश् च॥  
+    
+१७।२३अब्। कुज^विजिते भृगु^तनये बल^मुख्य^वधो नरेन्द्र^सङ्ग्रामाः।  
+    
+१७।२३च्द्। सौम्येन पार्वतीयाः क्षीरविनाशो +अल्पवृष्टिश् च॥  
+    
+१७।२४अब्। रविजेन सिते विजिते *गुणमुख्याः[उ।गणमुख्याः] शस्त्र^जीविनः क्षत्रम्।  
+    
+१७।२४च्द्। जलजाश् च निपीड्यन्ते सामान्यं भक्तिफलम् अन्यत्॥  
+    
+१७।२५अब्। असिते सितेन निहते +अर्घ^वृद्धिर् अहि^विहग^मानिनां पीडा।  
+    
+१७।२५च्द्। क्षितिजेन तङ्गण^अन्ध्र^उड्र^काशि^बाह्लीक^देशानाम्॥  
+    
+१७।२६अब्। सौम्येन पराभूते मन्दे +अङ्ग^वणिग्^विहङ्ग^पशु^नागाः।  
+    
+१७।२६च्द्। सन्ताप्यन्ते गुरुणा स्त्री^बहुला महिषक^शकाश् च॥  
+    
+१७।२७अब्। अयं विशेषो +अभिहितो हतानां कुज^ज्ञ^वागीश^सित^असितानाम्।  
+    
+१७।२७च्द्। फलं तु वाच्यं ग्रह^भक्तितो +अन्यद् यथा तथा घ्नन्ति हताः स्वभक्तीः॥
+
+                   १८ शशिग्रहसमागमाध्यायः
+
+१८।०१अब्। भानां यथासम्भवम् उत्तरेण यातो ग्रहाणां यदि वा शशाङ्कः।  
+    
+१८।०१च्द्। प्रदक्षिणं तत्^*शुभदं नृपाणां[क्।शुभकृन्नराणाम्] याम्येन यातो न शिवः शशाङ्कः॥  
+    
+१८।०२अब्। चन्द्रमा यदि कुजस्य यात्य् उदक् पार्वतीय^बलशालिनां जयः।  
+    
+१८।०२च्द्। क्षत्रियाः प्रमुदिताः सयायिनो भूरि^धान्य^मुदिता वसुन्धरा॥  
+    
+१८।०३अब्। उत्तरतः स्वसुतस्य शशङ्कः पौर^जयाय सुभिक्ष^करश् च।  
+    
+१८।०३च्द्। सस्य^चयं कुरुते जनहार्दिं कोश^चयं च नराधिपतीनाम्॥  
+    
+१८।०४अब्। बृहस्पतेर् उत्तरगे शशाङ्के पौर^द्विज^क्षत्रिय^पण्डितानाम्।  
+    
+१८।०४च्द्। धर्मस्य देशस्य च मध्यमस्य वृद्धिः सुभिक्षं मुदिताः प्रजाश् च॥  
+    
+१८।०५अब्। भार्गवस्य यदि यात्य् उदक् शशी कोश^युक्त^गज^वाजि^वृद्धिदः।  
+    
+१८।०५च्द्। यायिनां च विजयो धनुष्मतां सस्यसम्पद् अपि च^उत्तमा तदा॥  
+    
+१८।०६अब्। रविजस्य शशी प्रदक्षिणं कुर्याच् चेत् पुरभूभृतां जयः।  
+    
+१८।०६च्द्। शक^बाह्लिक^सिन्धु^पह्लवा *मुदभाजो[क्।मुद्भाजो] यवनैः समन्विताः॥  
+    
+१८।०७अब्। येषाम् उदग् गच्च्छति भग्रहाणां प्रालेयरश्मिर् निरुपद्रवश् च।  
+    
+१८।०७च्द्। तद्^द्रव्य^पौर^इतर^भक्ति^देशान् पुष्णाति याम्येन निहन्ति तानि॥  
+    
+१८।०८अ शशिनि फलम् *उदक्स्थे[क्।उदकस्थे] यद् ग्रहस्य^उपदिष्टं  
+    
+१८।०८ब् भवति तद् अपसव्ये सर्वम् एव प्रतीपम्।  
+    
+१८।०८च् इति शशिसमवायाः *कीर्तिता[क्।कीर्त्तिता] भग्रहाणां  
+    
+१८।०८द् न खलु भवति युद्धं साकम् इन्दोर् ग्रह^ऋक्षैः॥
+
+                   १९ ग्रहवर्षफलाध्यायः
+
+१९।०१अ सर्वत्र भूर् विरलसस्ययुता वनानि  
+    
+१९।०१ब् दैवाद् बिभक्षयिषुदंष्ट्रिसमावृतानि।  
+    
+१९।०१च् *नद्यश्[क्।स्यन्दन्ति] च नैव *हि[क्।च] पयः प्रचुरं *स्रवन्ति[क्।स्रवन्त्यो]  
+    
+१९।०१द् रुग्भेषजानि न तथातिबलान्वितानि॥  
+    
+१९।०२अ तीक्ष्णं तपत्य् अदितिजः शिशिरे +अपि काले  
+    
+१९।०२ब् नात्यम्बुदा जलमुचो +अचलसन्निकाशाः।  
+    
+१९।०२च् नष्टप्रभ^ऋक्षगण^शीत^करं नभश् च  
+    
+१९।०२द् सीदन्ति तापसकुलानि सगोकुलानि॥  
+    
+१९।०३अ हस्त्य्^अश्व^पत्तिमद् असह्यबलैर् उपेता  
+    
+१९।०३ब् बाण^आसन^असि^मुशल^अतिशयाश् चरन्ति।  
+    
+१९।०३च् घ्नन्तो नृपा युधि नृप^अनुचरैश् च देशान्  
+    
+१९।०३द् संवत्सरे दिनकरस्य दिने +अथ मासे॥  
+    
+१९।०४अ व्याप्तं नभः प्रचलित^अचल^सन्निकाशैर्  
+    
+१९।०४ब् व्याल^अञ्जन^अलि^गवल^च्छविभिः पयोदैः।  
+    
+१९।०४च् गां पूरयद्भिर् अखिलाम् अमलाभिर् अद्भिर्  
+    
+१९।०४द् *उत्कण्ठितेन[क्।उत्कण्ठकेन] गुरुणा ध्वनितेन चाशाः॥  
+    
+१९।०५अ तोयानि पद्म^कुमुद^उत्पलवन्त्य् अतीव  
+    
+१९।०५ब् फुल्लद्रुमाण्य् उपवनान्य् अलिनादितानि।  
+    
+१९।०५च् गावः प्रभूतपयसो नयनाभिरामा  
+    
+१९।०५द् रामा रतैर् अविरतं रमयन्ति रामान्॥  
+    
+१९।०६अ गोधूम^शालि^यव^धान्य^वर^इक्षु^वाटा  
+    
+१९।०६ब् भूः पाल्यते नृपतिभिर् नगर^आकर^आढ्या।  
+    
+१९।०६च् चित्यङ्किता क्रतुवरेष्टिविघुष्टनादा  
+    
+१९।०६द् संवत्सरे शिशिरगोर् अभिसम्प्रवृत्ते॥  
+    
+१९।०७अ वातोद्धतश् चरति वह्निर् अतिप्रचण्डो  
+    
+१९।०७ब् ग्रामान् वनानि नगराणि च सन्दिधक्षुः।  
+    
+१९।०७च् हाहा^इति दस्युगणपातहता रटन्ति  
+    
+१९।०७द् निःस्वीकृता विपशवो भुवि मर्त्यसङ्घाः॥  
+    
+१९।०८अ अभ्युन्नता वियति संहतमूर्तयो +अपि  
+    
+१९।०८ब् मुञ्चन्ति *कुत्र चिद्[क्।न क्व चिद्] अपः प्रचुरं पयोदाः।  
+    
+१९।०८च् सीम्नि प्रजातम् अपि शोषम् उपैति सस्यं  
+    
+१९।०८द् निष्पन्नम् अप्य् अविनयाद् अपरे हरन्ति॥  
+    
+१९।०९अ भूपा न सम्यगभिपालनसक्तचित्ताः  
+    
+१९।०९ब् पित्तोत्थरुक्प्रचुरता भुजगप्रकोपः।  
+    
+१९।०९च् एवंविधैर् *उपहृता[क्।ऊ।उपहता] भवति प्रजा^इयं  
+    
+१९।०९द् संवत्सरे +अवनिसुतस्य विपन्नसस्या॥  
+    
+१९।१०अ माया^इन्द्रजाल^कुहक^आकर^नागराणां  
+    
+१९।१०ब् गान्धर्व^लेख्य^गणित^अस्त्रविदां च वृद्धिः।  
+    
+१९।१०च् पिप्रीषया नृपतयो +अद्भुतदर्शनानि  
+    
+१९।१०द् दित्सन्ति तुष्टिजननानि परस्परेभ्यः॥  
+    
+१९।११अ *वार्ता[क्।वार्त्ता] जगत्य् अवितथा विकला त्रयी च  
+    
+१९।११ब् सम्यक् चरत्य् अपि मनोर् इव दण्डनीतिः।  
+    
+१९।११च् *अध्यक्षर[क्।अध्यक्षरं]स्वभिनिविष्टधियो *+अपि[क्।अत्र] के चिद्  
+    
+१९।११द् आन्वीक्षिकीषु च परं पदमीहमानाः॥  
+    
+१९।१२अ हास्यज्ञ^दूत^कवि^बाल^नपुंसकानां  
+    
+१९।१२ब् युक्तिज्ञ^सेतु^जल^पर्वत^वासिनां च।  
+    
+१९।१२च् हार्दिं करोति मृगलाञ्छनजः स्वके +अब्दे  
+    
+१९।१२द् मासे +अथ वा *प्रचुरता[क्।प्रचुरताम्] भुवि च^औषधीनाम्॥  
+    
+१९।१३अ ध्वनिर् उच्चरितो +अध्वरे द्युगामी  
+    
+१९।१३ब् विपुलो यज्ञमुषां मनांसि भिन्दन्।  
+    
+१९।१३च् विचरत्य् अनिशं द्विजोत्तमानां  
+    
+१९।१३द् हृदय^आनन्द^करो +अध्वरांशभाजाम्॥  
+    
+१९।१४अब्। क्षितिर् उत्तम^सस्यवत्य् अनेक^द्विप^पत्त्य्^अश्व^धन^उरु^गोकुल^आढ्या।  
+    
+१९।१४च्द्। क्षितिपैर् अभिपालनप्रवृद्धा द्युचरस्पर्धिजना तदा विभाति॥  
+    
+१९।१५अब्। विविधैर् वियद् उन्नतैः पयोदैर् वृतम् उर्वीं पयसाभितर्पयद्भिः।  
+    
+१९।१५च्द्। सुरराजगुरोः शुभे *तु[क्।अत्र] वर्षे बहुसस्या क्षितिर् उत्तम^ऋद्धियुक्ता॥  
+    
+१९।१६अ शालि^इक्षुमत्य् अपि धरा धरणीधर^आभ^  
+    
+१९।१६ब् धाराधर^उज्झित^पयः^परिपूर्ण^वप्रा।  
+    
+१९।१६च् श्रीमत्^सरोरुह^तत^अम्बु^तडाग^कीर्णा  
+    
+१९।१६द् योषा^इव भात्य् अभिनव^आभरण^उज्ज्वल^अङ्गी॥  
+    
+१९।१७अ क्षत्रं क्षितौ क्षपित^भूरि^बल^अरि^पक्षम्  
+    
+१९।१७ब् उद्घुष्ट^नैक^जय^शब्द^विराविताशम्।  
+    
+१९।१७च् संहृष्ट^शिष्ट^जन^दुष्ट^विनष्ट^वर्गां  
+    
+१९।१७द् गां पालयन्त्य् अवनिपा नगराकराढ्याम्॥  
+    
+१९।१८अ पेपीयते मधु मधौ सह कामिनीभिर्  
+    
+१९।१८ब् जेगीयते श्रवणहारि स^वेणु^वीणम्।  
+    
+१९।१८च् बोभुज्यते +अतिथिसुहृत्स्वजनैः सहान्नम्  
+    
+१९।१८द् अब्दे सितस्य मदनस्य जयावघोषः॥  
+    
+१९।१९अ *उद्वृत्त[उ।उद्धत]^दस्युगणभूरिरणाकुलानि  
+    
+१९।१९ब् राष्ट्राण्य् अनेकपशुवित्तविनाकृतानि।  
+    
+१९।१९च् रोरूयमाण^हत^बन्धुजनैर् जनैश् च  
+    
+१९।१९द् रोग^उत्तमाकुलकुलानि बुभुक्षया च॥  
+    
+१९।२०अ वातोद्धताम्बुधरवर्जितम् अन्तरिक्षम्  
+    
+१९।२०ब् आरुग्णनैकविटपं च धरातलं द्यौः।  
+    
+१९।२०च् नष्टार्कचन्द्रकिरणातिरजो +अवनद्धा  
+    
+१९।२०द् तोयाशयाश् च विजलाः सरितो +अपि तन्व्यः॥  
+    
+१९।२१अ जातानि कुत्र चिद् अतोयतया विनाशम्  
+    
+१९।२१ब् ऋच्छन्ति पुष्टिम् अपराणि जलोक्षितानि।  
+    
+१९।२१च् सस्यानि मन्दम् अभिवर्षति *वृत्र^शत्रुर्[क्।वृत्रशत्रौ]  
+    
+१९।२१द् वर्षे दिवाकरसुतस्य सदा प्रवृत्ते॥  
+    
+१९।२२अ अणुर् अपटुमयूखो नीचगो +अन्यैर् जितो वा  
+    
+१९।२२ब् न सकलफलदाता पुष्टिदो +अतो +अन्यथा यः।  
+    
+१९।२२च् यद् अशुभम् अशुभे +अब्दे मासजं तस्य वृद्धिः  
+    
+१९।२२द् शुभफलम् अपि च^एवं याप्यम् अन्योन्यतायाम्॥
+
+                   २० ग्रहशृङ्गाटकाध्यायः
+
+२०।०१अब्। यस्यां दिशि दृश्यन्ते विशन्ति ताराग्रहा रविं सर्वे।  
+    
+२०।०१च्द्। भवति भयं दिशि तस्याम् आयुध^कोप^क्षुधआ^आतङ्कैः॥  
+    
+२०।०२अब्। चक्र^धनुः^शृङ्गाटक^दण्ड^पुर^प्रास^वज्र^संस्थानाः।  
+    
+२०।०२च्द्। क्षुद्^वृष्टिकरा[क्।ऊ।अवृष्टिकरा] लोके समराय च मानव^इन्द्राणाम्॥  
+    
+२०।०३अब्। यस्मिन् खांशे दृश्या ग्रहमाला दिनकरे दिनान्तगते।  
+    
+२०।०३च्द्। तत्र +अन्यो भवति नृपः परचक्र^उपद्रवश् च महान्॥  
+    
+२०।०४अब्। *तस्मिन्न्[क्।यस्मिन्न्] ऋक्षे कुर्युः समागमं तज्जनान् ग्रहा हन्युः।  
+    
+२०।०४च्द्। *अविभेदिनः[क्।अविभेदनाः] परस्परम् अमलमयूखाः शिवास् तेषाम्॥  
+    
+२०।०५अब्। ग्रह^संवर्त^समागम^सम्मोह^समाज^सन्निपात^आख्याः।  
+    
+२०।०५च्द्। कोशश् चेत्य् एतेषाम् अभिधास्ये लक्षणं सफलम्॥  
+    
+२०।०६अब्। एक^ऋक्षे चत्वारः सह पौरैर् यायिनो +अथ वा पञ्च।  
+    
+२०।०६च्द्। संवर्तो नाम भवेत्^शिखि^राहुयुतः स सम्मोहः॥  
+    
+२०।०७अब्। पौरः पौरसमेतो यायी सह यायिना समाजाख्यः।  
+    
+२०।०७च्द्। यम^जीव^सङ्गमे +अन्यो यद्य् आगच्छेत् तदा कोशः॥  
+    
+२०।०८अब्। उदितः पश्चाद् एकः प्राक् चान्यो यदि स सन्निपाताख्यः।  
+    
+२०।०८च्द्। अविकृततनवः स्निग्धा विपुलाश् च समागमे धन्याः॥  
+    
+२०।०९अब्। समौ तु संवर्तसमागमाख्यौ सम्मोह^कोशौ भयदौ प्रजानाम्।  
+    
+२०।०९च्द्। *समाजसञ्ज्ञो सुसमा प्रदिष्टा[क्।समाज्ञः सुसमः प्रदिष्टो] वैरप्रकोपः खलु सन्निपाते॥
+
+                   २१ गर्भलक्षणाध्यायः
+
+२१।०१अब्। अन्नं जगतः प्राणाः प्रावृट्कालस्य चान्नम् आयत्तम्।  
+    
+२१।०१च्द्। यस्माद् अतः परीक्ष्यः प्रावृट्कालः प्रयत्नेन॥  
+    
+२१।०२अब्। तल्लक्षणानि मुनिभिर् यानि निबद्धानि तानि दृष्ट्वा^इदम्।  
+    
+२१।०२च्द्। क्रियते गर्ग^पराशर^काश्यप^*वज्र^आदि[क्।वात्स्यादि]रचितानि॥  
+    
+२१।०३अब्। दैवविद् अविहितचित्तो[क्।अवहितचित्तो] द्युनिशं यो गर्भलक्षणे भवति।  
+    
+२१।०३च्द्। तस्य मुनेर् इव वाणी न भवति मिथ्याम्बुनिर्देशे॥  
+    
+२१।०४अब्। किं वातः परम् अन्यत्^*शास्त्रज्यायो[क्।शास्त्रं ज्यायो] +अस्ति यद् विदित्वा^एव।  
+२१।०४च्द्। प्रध्वंसिन्य् अपि काले त्रिकालदर्शी कलौ भवति॥  
+    
+२१।०५अब्। के चिद् वदन्ति *कार्तिक[क्।कार्त्तिक]शुक्लान्तम् अतीत्य गर्भदिवसाः स्युः।  
+    
+२१।०५च्द्। न *च[क्।तु] तन्मतं बहूनां गर्ग^आदीनां मतं वक्ष्ये॥  
+    
+२१।०६अब्। *मार्गशिरःसित[क्।मार्गशिरशुक्ल]पक्ष^प्रतिपत्^प्रभृति क्षपाकरे +अषाढाम्।  
+    
+२१।०६च्द्। पूर्वां वा समुपगते गर्भाणां लक्षणम् ज्ञेयम्॥  
+    
+२१।०७अब्। यन्नक्षत्रम् उपगते गर्भश् चन्द्रे भवेत् स चन्द्रवशात्।  
+    
+२१।०७च्द्। पञ्चनवते दिनशते तत्र^एव प्रसवम् आयाति॥  
+    
+२१।०८अब्। सित^पक्ष^भवाः कृष्णे शुक्ले कृष्णा द्युसम्भवा रात्रौ।  
+    
+२१।०८च्द्। नक्तम्प्रभवाश् चाहनि सन्ध्याजाताश् च सन्ध्यायाम्॥  
+    
+२१।०९अब्। मृगशीर्षाद्या गर्भा मन्दफलाः पौषशुक्लजाताश् च।  
+    
+२१।०९च्द्। पौषस्य कृष्ण^पक्षेण निर्दिशेत्^श्रावणस्य सितम्॥  
+    
+२१।१०अब्। माघसितोत्था गर्भाः श्रावणकृष्णे प्रसूतिम् आयान्ति।  
+    
+२१।१०च्द्। माघस्य कृष्ण^पक्षेण निर्दिशेद् भाद्रपदशुक्लम्॥  
+    
+२१।११अब्। फाल्गुन^शुक्ल^समुत्था भाद्रपदस्य^असिते विनिर्देश्याः।  
+    
+२१।११च्द्। तस्यैव कृष्ण^पक्ष^उद्भवास् तु ये ते +अश्वयुक्^शुक्ले॥  
+    
+२१।१२अब्। चैत्र^सित^पक्ष^जाताः कृष्णे +अश्वयुजस्य वारिदा गर्भाः।  
+    
+२१।१२च्द्। चैत्र^असित^सम्भूताः *कार्तिक^शुक्ले[क्।कार्त्तिकशुक्ले] +अभिवर्षन्ति॥  
+    
+२१।१३अब्। पूर्व^उद्भूताः पश्चाद् अपरोत्थाः प्राग् भवन्ति जीमूताः।  
+    
+२१।१३च्द्। शेषास्व् अपि दिक्ष्व् एवं विपर्ययो भवति वायोश् च॥  
+    
+२१।१४अब्। ह्लादि^मृदु^उदक्^शिव^शक्र^दिग्^भवो मारुतो वियद्^विमलम्।  
+    
+२१।१४च्द्। स्निग्ध^सित^बहुल^परिवेष^परिवृतौ हिम^*मयखार्कौ[क्।ऊ।मयूखार्कौ]॥  
+    
+२१।१५अब्। पृथु^बहुल^स्निग्ध^घनं घन^सूची^क्षुरक^लोहित^अभ्र^युतम्।  
+    
+२१।१५च्द्। काकाण्ड^मेचक^आभं वियद्^विशुद्ध^इन्दु^नक्षत्रम्॥  
+    
+२१।१६अब्। सुरचाप^मन्द्र^गर्जित^विद्युत्^*प्रतिसूर्यका[क्।प्रतिसूर्यकाः] शुभा सन्ध्या।  
+    
+२१।१६च्द्। शशि^शिव^शक्र^आशास्थाः शान्तरवाः पक्षि^मृग^सङ्घाः॥  
+    
+२१।१७अब्। विपुलाः प्रदक्षिण^चराः स्निग्ध^मयूखा ग्रहा निरुपसर्गाः।  
+    
+२१।१७च्द्। तरवश् च निरुपसृष्ट^अङ्कुरा नरचतुष्पदा हृष्टाः॥  
+    
+२१।१८अब्। गर्भाणां पुष्टिकराः सर्वेषाम् एव यो +अत्र तु विशेषः।  
+    
+२१।१८च्द्। स्वर्तु^स्वभाव^जनितो गर्भ^*विवृद्ध्यै[क्।विवृद्धौ] तम् अभिधास्ये॥  
+    
+२१।१९अब्। पौषे समार्गशीर्षे सन्ध्यारागो +अम्बुदाः सपरिवेषाः।  
+    
+२१।१९च्द्। नात्यर्थं मृगशीर्षे शीतं पौषे +अतिहिमपातः॥  
+    
+२१।२०अब्। माघे प्रबलो वायुस् तुषारकलुषद्युती रविशशाङ्कौ।  
+    
+२१।२०च्द्। अतिशीतं सघनस्य च भानोर् अस्तोदयौ धन्यौ॥  
+    
+२१।२१अब्। फाल्गुनमासे रूक्षश् चण्डः पवनो +अभ्र^सम्प्लवाः स्निग्धाः।  
+    
+२१।२१च्द्। परिवेषाश् चासकलाः कपिलस् ताम्रो रविश् च शुभः॥  
+    
+२१।२२अब्। पवन^घन^वृष्टि^युक्ताश् चैत्रे गर्भाः शुभाः सपरिवेषाः।  
+    
+२१।२२च्द्। घनपवनसलिलविद्युत्स्तनितैश् च हिताय वैशाखे॥  
+    
+२१।२३अब्। मुक्ता^रजत^निकाशास्^तमाल^नीलोत्पल^अञ्जन^आभासः।  
+    
+२१।२३च्द्। जलचरसत्त्वाकारा ग्रभेषु घनाः प्रभूतजलाः॥  
+    
+२१।२४अब्। तीव्रदिवाकरकिरणाभितापिता मन्दमारुता जलदाः।  
+    
+२१।२४च्द्। रुषिता इव धाराभिर् विसृजन्त्य् अम्भः प्रसवकाले॥  
+    
+२१।२५अब्। गर्भ^उपघात^लिङ्गान्य् उल्का^अशनि^पांशुपात^दिग्दाहः।  
+    
+२१।२५च्द्। क्षितिकम्प^खपुर^कीलक^केतु^ग्रह^युद्ध^निर्घाताः॥  
+    
+२१।२६अब्। रुधिर^आदि^वृष्टि^वैकृत^परिघ^इन्द्रधनूंषि दर्शनं राहोः।  
+    
+२१।२६च्द्। इत्य् उत्पातैर् एतैस् त्रिविधैश् चान्यैर् हतो गर्भः॥  
+    
+२१।२७अब्। स्वर्तु^स्वभाव^जनितैः सामान्यैर् यैश् च लक्षणैर् वृद्धिः।  
+    
+२१।२७च्द्। गर्भाणाम् विपरीतैस् तैर् एव विपर्ययो भवति॥  
+    
+२१।२८अब्। भद्रपदा^द्वय^विश्वाम्बु*देव[क्।दैव]पैतामहेष्व् अथ ऋक्षेषु।  
+    
+२१।२८च्द्। सर्वेष्व् ऋतुषु विवृद्धो गर्भो बहुतोयदो भवति॥  
+    
+२१।२९अब्। शतभिषग्^आश्लेषा^आर्द्रा^स्वाति^मघा^संयुतः शुभो गर्भः।  
+    
+२१।२९च्द्। पुष्णाति बहून् दिवसान् हन्त्य् उत्पातैर् हतस् त्रिविधैः॥  
+    
+२१।३०अब्। मृगमास^आदिष्व् अष्टौ षट् षोडश विंशतिश् चतुर्युक्ता।  
+    
+२१।३०च्द्। विंशतिर् अथ दिवस^त्रयम् एकतम^ऋक्षेण पञ्चभ्यः॥  
+    
+२१।३१अब्[क्।२१।३५अब्]। पञ्च^निमित्तैः शत^योजनं तद्^अर्ध^अर्धम् एकहान्या +अतः।  
+    
+२१।३१च्द्[क्।२१।३५च्द्]। वर्षति *पञ्चनिमित्ताद्[क्।पञ्चसमन्ताद्] रूपेण^एकेन यो गर्भः॥  
+    
+२१।३२अब्[क्।२१।३६अब्]। द्रोणः पञ्चनिमित्ते गर्भे त्रीण्य् आढकानि पवनेन।  
+    
+२१।३२च्द्[क्।२१।३६च्द्]। षड् विद्युता नवाभ्रैः स्तनितेन द्वादश प्रसवे॥  
+    
+२१।३३अब्। क्रूर^ग्रह^संयुक्ते करका^अशनि^मत्स्य^वर्षदा गर्भाः।  
+    
+२१।३३च्द्। शशिनि रवौ वा शुभसंयुत^ईक्षिते भूरिवृष्टिकराः॥  
+    
+२१।३४अब्। ग्रभसमये +अतिवृष्टिर् गर्भ^अभावाय निर्निमित्त^कृता।  
+२१।३४च्द्। द्रोणाष्टांशे +अभ्यधिके वृष्टे गर्भः स्रुतो भवति॥  
+    
+२१।३५अब्। गर्भः पुष्टः प्रसवे ग्रह^उपघात^आदिभिर् यदि न वृष्टः।  
+    
+२१।३५च्द्। आत्मीय^गर्भ^समये करका^मिश्रं ददात्य् अम्भः॥  
+    
+२१।३६अब्। काठिन्यं याति यथा चिर^काल^धृतं पयः पयस्विन्याः।  
+    
+२१।३६च्द्। काल^अतीतं तद्वत् सलिलं काठिन्यम् उपयाति॥  
+    
+२१।३७अ पवन^सलिल^विद्युद्^गर्जिता^अभ्र^अन्वितो यः  
+    
+२१।३७ब् स भवति बहुतोयः पञ्च^रूप^अभ्युपेतः।  
+    
+२१।३७च् विसृजति यदि तोयं गर्भकाले +अतिभूरि  
+    
+२१।३७द् प्रसव^समयम् इत्वा शीकर^अम्भः करोति॥
+
+                   २२ गर्भधारणाध्यायः
+
+२२।०१अब्। ज्यैष्ठसिते +अष्टम्याद्यश् चत्वारो वायुधारणा दिवसाः।  
+    
+२२।०१च्द्। मृदुशुभपवनाः शस्ताः स्निग्ध^घन^स्थगित^गगनाश् च॥  
+    
+२२।०२अब्। तत्र^एव स्वात्याद्ये वृष्टे भचतुष्टये क्रमात्^मासाः।  
+    
+२२।०२च्द्। श्रावणपूर्वा ज्ञेयाः परिस्रुता धारणास् ताः स्युः।  
+    
+२२।०३अब्। यदि ता स्युर् एकरूपाः शुभास् ततः सान्तरास् तु न शिवाय।  
+    
+२२।०३च्द्। तस्कर^भयदाश् *च^उक्ताः[क्।प्रोक्ताः] श्लोकाश् च^अप्य् अत्र वासिष्ठाः॥  
+    
+२२।०४अब्। सविद्युतः सपृषतः स^पांशु^उत्कर^मारुताः।  
+    
+२२।०४च्द्। स^अर्क^चन्द्र^परिच्छन्ना धारणाः शुभ^धारणाः॥  
+    
+२२।०५अब्। यदा तु विद्युतः श्रेष्ठाः *शुभाशाः[क्।शुभाशा] प्रत्युपस्थिताः।  
+    
+२२।०५च्द्। तदापि सर्वसस्यानां वृद्धिं ब्रूयाद् विचक्षणः॥  
+    
+२२।०६अब्। सपांशुवर्षाः सापश् च शुभा बालक्रिया अपि।  
+    
+२२।०६च्द्। पक्षिणाम् सुस्वरा वाचः क्रीडा पांशुजलादिषु॥  
+    
+२२।०७अब्। रविचन्द्रपरीवेषाः स्निग्धा नात्यन्तदूषिताः।  
+    
+२२।०७च्द्। वृष्टिस् तदापि विज्ञेया सर्वसस्य^*अर्थसाधिका[क्।अभिवृद्धये]॥  
+    
+२२।०८अब्। मेघाः स्निग्धाः संहताश् च प्रदक्षिणगतिक्रियाः।  
+    
+२२।०८च्द्। तदा स्यान् महती वृष्टिः सर्वसस्य^*अभिवृद्धये[क्।अर्थसाधिका]॥
+
+                   २३ प्रवर्षणाध्यायः
+
+२३।०१अब्। ज्यैष्ठ्यां समतीतायां पूर्वाषाढादि^सम्प्रवृष्टेन।  
+    
+२३।०१च्द्। शुभम् अशुभं वा वाच्यं परिमाणं च^अम्भसस् तज्ज्ञैः॥  
+    
+२३।०२अब्। हस्तविशालं कुण्डकम् अधिकृत्य^अम्बुप्रमाण^निर्देशः।  
+    
+२३।०२च्द्। पञ्चाशत् पलम् आढकम् अनेन मिनुयाज् जलं पतितम्॥  
+    
+२३।०३अब्। येन धरित्री मुद्रा जनिता वा बिन्दवस् तृणा^आग्रेषु।  
+    
+२३।०३च्द्। वृष्टेन तेन वाच्यं परिमाणं वारिणः प्रथमम्॥  
+    
+२३।०४अब्। के चिद् यथाभिवृष्टं दश^योजन^मण्डलं वदन्त्य् अन्ये।  
+    
+२३।०४च्द्। गर्ग^वसिष्ठ^पराशर^मतम् एतद् द्वादशान् न परम्॥  
+    
+२३।०५अब्। येषु च भेष्व् अभिवृष्टं भूयस् तेष्व् एव वर्षति प्रायः।  
+    
+२३।०५च्द्। यदि न^आप्य^आदिषु वृष्टं सर्वेषु तदा त्व् अनावृष्टिः॥  
+    
+२३।०६अब्। हस्त^आप्य^सौम्य^चित्रा^पौष्ण^धनिष्ठासु षोडश द्रोणाः।  
+    
+२३।०६च्द्। शतभिषग्^ऐन्द्र^स्वातिषु चत्वारः कृत्तिकासु दश॥  
+    
+२३।०७अब्। श्रवणे मघा^अनुराधा^भरणी^मूलेषु दश चतुर्युक्ताः।  
+    
+२३।०७च्द्। फल्गुन्यां पञ्चकृतिः पुनर्वसौ विंशतिर् द्रोणाः॥  
+    
+२३।०८अब्। *ऐन्द्राग्न्य्^आख्ये[क्।ऐन्द्राग्नाख्ये] वैश्वे च विंशतिः सार्पभे दश त्र्यधिकाः।  
+    
+२३।०८च्द्। आहिर्बुध्न्य^आर्यम्ण^प्राजापत्येषु पञ्चकृतिः।  
+    
+२३।०९अब्। पञ्चदश^आजे पुष्ये च कीर्तिता वाजिभे दश द्वौ च।  
+    
+२३।०९च्द्। रौद्रे +अष्टादश कथिता द्रोणा निरुपद्रवेष्व् *एते[क्।एषु]॥  
+    
+२३।१०अब्। रवि^रविसुत^केतु^पीडिते भे क्षितितनय^त्रिविध^अद्भुत^आहते च।  
+    
+२३।१०च्द्। भवति *च[क्।हि] न शिवं न च^अपि वृष्टिः शुभसहिते निरुपद्रवे शिवं च॥
+
+                   २४ रोहिणीयोगाध्यायः
+
+२४।०१अब्। कनक^शिला^चय^विवरजतरुकुसुमासङ्गिमधुकरानुरुते।  
+    
+२४।०१च्द्। बहु^विहग^कलह^सुरयुवति^गीत^मन्द्र^स्वन^उपवने॥  
+    
+२४।०२अब्। सुरनिलय^शिखरि^शिखरे बृहस्पतिर् नारदाय यान् आह।  
+    
+२४।०२च्द्। गर्ग^पराशर^काश्यप^मयाश् च यान् शिष्य^सङ्घेभ्यः॥  
+    
+२४।०३अब्। तान् अवलोक्य यथावत् प्राजापत्य^इन्दुसम्प्रयोगार्थान्।  
+    
+२४।०३च्द्। *अल्प[क्।स्वल्प]ग्रन्थेनाहं तान् एवाभ्युद्यतो वक्तुम्॥  
+    
+२४।०४अब्। प्राजेशम् आषाढतमिस्रपक्षे क्षपाकरेण^उपगतं समीक्ष्य।  
+    
+२४।०४च्द्। वक्तव्यम् इष्टं जगतो +अशुभं वा शास्त्रोपदेशाद् ग्रहचिन्तकेन॥  
+    
+२४।०५अब्। योगो यथानागत एव वाच्यः स धिष्ण्ययोगः करणे मयोक्तः।  
+    
+२४।०५च्द्। चन्द्रप्रमाणद्युतिवर्णमार्गैर् उत्पातवातैश् च फलं *निगद्यम्[क्।निगाद्यम्]॥  
+    
+२४।०६अ पुराद् उदग् *यत्[क्।यत्] पुरतो +अपि वा स्थलं  
+    
+२४।०६ब् त्र्यहोषितस् तत्र हुताशतत्परः।  
+    
+२४।०६च् ग्रहान् सनक्षत्रगणान् समालिखेत्  
+    
+२४।०६द् सधूपपुष्पैर् बलिभिश् च पूजयेत्॥  
+    
+२४।०७अ सरत्न^तोय^औषधिभिश् चतुर्दिशं  
+    
+२४।०७ब् तरुप्रवालापिहितैः सुपूजितैः।  
+    
+२४।०७च् अकालमूलैः कलशैर् अलङ्कृतं  
+    
+२४।०७द् कुशास्तृतं स्थण्डिलम् आवसेद् द्विजः॥  
+    
+२४।०८अ आलभ्य मन्त्रेण महाव्रतेन  
+    
+२४।०८ब् बीजानि सर्वाणि निधाय कुम्भे।  
+    
+२४।०८च् प्लाव्यानि चामीकर^दर्भ^तोयैर्  
+    
+२४।०८द् होमो मरुद्वारुण^*सोम[क्।सौम्य]मन्त्रैः॥  
+    
+२४।०९अ श्लक्ष्णां पताकाम् असितां विदध्याद्  
+    
+२४।०९ब् दण्डप्रमाणां त्रिगुणोच्छ्रितां च।  
+    
+२४।०९च् आदौ कृते दिग्ग्रहणे नभस्वान्  
+    
+२४।०९द् ग्राह्यस् तया योगगते शशाङ्के॥  
+    
+२४।१०अ तत्रार्धमासाः प्रहरैर् विकल्प्या  
+    
+२४।१०ब् वर्षानिमित्तं दिवसास् तदंशैः।  
+    
+२४।१०च् सव्येन गच्छन् शुभदः सदैव  
+    
+२४।१०द् यस्मिन् प्रतिष्ठा बलवान् स वायुः॥  
+    
+२४।११अ वृत्ते तु योगे +अङ्कुरितानि यानि  
+    
+२४।११ब् सन्तीह बीजानि धृतानि कुम्भे।  
+    
+२४।११च् येषां तु यो +अंशो +अङ्कुरितस् तदंशस्  
+    
+२४।११द् तेषां विवृद्धिं समुपैति नान्यः॥  
+    
+२४।१२अब्। शान्त^पक्षि^मृग^राविता दिशो निर्मलं वियदनिन्दितो +अनिलः।  
+    
+२४।१२च्द्। शस्यते शशिनि *रोहिणीगते[क्।रोहिणीयते] मेघमारुतफलानि वच्म्य् अतः॥  
+    
+२४।१३अ क्व चिद् असितसितैः सितैः क्वचिच् च  
+    
+२४।१३ब् क्व चिद् असितैर् भुजगैर् इवाम्बुवाहैः।  
+    
+२४।१३च् वलित^जठर^पृष्ठ^मात्र^दृश्यैः  
+    
+२४।१३द् स्फुरित^तडिद्^रसनैर् वृतं विशालैः॥  
+    
+२४।१४अ विकसित^कमल^उदर^अवदातैर्  
+    
+२४।१४ब् अरुणकरद्युतिरञ्जित^उपकण्ठैः।  
+    
+२४।१४च् छुरितम् इव वियद्^घनैर् विचित्रैर्  
+    
+२४।१४द् मधुकर^कुङ्कुम^किंशुक^अवदातैः॥  
+    
+२४।१५अ असित^घन^निरुद्धम् एव वा  
+    
+२४।१५ब् चलित^तडित्^सुरचाप^चित्रितम्।  
+    
+२४।१५च् द्विप^महिष^कुल^आकुली^कृतं  
+    
+२४।१५द् वनम् इव दावपरीतम् अम्बरम्॥  
+    
+२४।१६अब्। अथ वा^अञ्जन^शैल^शिला^निचय^प्रतिरूप^धरैः स्थगितं गगनम्।  
+    
+२४।१६च्द्। हिम^मौक्तिक^शङ्ख^शशाङ्क^कर^द्युति^हारिभिर् अम्बुधरैर् अथ वा॥  
+    
+२४।१७अ तडिद्^धैम^कक्ष्यैर् बलाक^अग्रदन्तैः  
+    
+२४।१७ब् स्रवद्^वारि^दानैश् चलत्^प्रान्त^हस्तैः।  
+    
+२४।१७च् विचित्र^इन्द्रचापध्वज^उच्छ्रायशोभैस्  
+    
+२४।१७द् तमालालिनीलैर् वृतं च^अब्द^नागैः॥  
+    
+२४।१८अ सन्ध्यानुरक्ते नभसि स्थितानाम्  
+    
+२४।१८ब् इन्दीवर^श्याम^रुचां घनानाम्।  
+    
+२४।१८च् वृन्दानि पीताम्बरवेष्टितस्य  
+    
+२४।१८द् कान्तिं हरेश् चोरयतां यदा वा॥  
+    
+२४।१९अ सशिखि^चातक^दर्दुर^निःस्वनैर्  
+    
+२४।१९ब् यदि विमिश्रितमन्द्रपटुस्वनाः।  
+    
+२४।१९च् खम् अवतत्य दिगन्तविलम्बिनः  
+    
+२४।१९द् सलिलदाः सलिलौघमुचः क्षितौ॥  
+    
+२४।२०अ निगदितरूपैर् जलधरजालैस्  
+    
+२४।२०ब् त्र्यहम् अवरुद्धं द्व्यहम् अथ वा^अहः।  
+    
+२४।२०च् यदि वियद् एवं भवति सुभिक्षं  
+    
+२४।२०द् मुदितजना च प्रचुरजला भूः॥  
+    
+२४।२१अ रूक्षैर् अल्पैर् मारुता^क्षिप्त^देहैर्  
+    
+२४।२१ब् उष्ट्र^ध्वाङ्क्ष^प्रेत^शाखामृग^आभैः।  
+    
+२४।२१च् अन्येषां वा निन्दितानां *स्वरूपैर्[क्।सरूपैर्]  
+    
+२४।२१द् मूकैश् चाब्दैर् नो शिवं नापि वृष्टिः॥  
+२४।२२अ विगत^घने वा वियति विवस्वान्  
+    
+२४।२२ब् अमृदुमयूखः सलिलकृद् एवम्।  
+    
+२४।२२च् सर इव फुल्लं निशि कुमुदाढ्यं  
+    
+२४।२२द् खम् उडुविशुद्धं यदि च सुवृष्ट्यै॥  
+    
+२४।२३अ पूर्वोद्भूतैः सस्यनिष्पत्तिर् अब्दैर्  
+    
+२४।२३ब् आग्नेयाशासम्भवैर् अग्निकोपः।  
+    
+२४।२३च् याम्ये सस्यं क्षीयते नैरृते *+अर्धं[क्।अर्घं क्ऽस् त्र्। अर्धम्]  
+    
+२४।२३द् पश्चाज् जातैः शोभना वृष्टिर् अब्दैः॥  
+    
+२४।२४अ वायव्योत्थैर् वातवृष्टिः क्वचिच् च  
+    
+२४।२४ब् पुष्टा वृष्टिः सौम्य^काष्ठा^समुत्थैः।  
+    
+२४।२४च् श्रेष्ठं सस्यं स्थाणुदिक्सम्प्रवृद्धैर्  
+    
+२४।२४द् वायुश् च^एवं दिक्षु धत्ते फलानि॥  
+    
+२४।२५अ उल्कानिपातास् तडितो +अशनिश् च  
+    
+२४।२५ब् दिग्दाह^निर्घात^महीप्रकम्पाः।  
+    
+२४।२५च् नादा मृगाणां सपतत्रिणां च  
+    
+२४।२५द् ग्राह्या यथ^एव अम्बुधरास् तथ^एव॥  
+    
+२४।२६अ नामाङ्कितैस् तैर् उदगादिकुम्भैः  
+    
+२४।२६ब् प्रदक्षिणं श्रावणमासपूर्वैः।  
+    
+२४।२६च् पूर्णैः स मासः सलिलस्य दाता  
+    
+२४।२६द् *स्रुतैर्[क्।स्रुतर्] अवृष्टिः परिकल्प्यम् ऊनैः॥  
+    
+२४।२७अ अन्यैश् च कुम्भैर् नृप^नामचिह्नैर्  
+    
+२४।२७ब् देशाङ्कितैश् च^अप्य् अपरैस् तथ^एव।  
+    
+२४।२७च् भग्नैः स्रुतैर् न्यूनजलैः सुपूर्णैर्  
+    
+२४।२७द् भाग्यानि वाच्यानि यथानुरूपम्॥  
+    
+२४।२८अ दूरगो निकटगो +अथ वा शशी  
+    
+२४।२८ब् दक्षिणे पथि यथा तथा स्थितः।  
+    
+२४।२८च् रोहिणीं यदि युनक्ति सर्वथा  
+    
+२४।२८द् कष्टम् एव जगतो विनिर्दिशेत्॥  
+    
+२४।२९अ स्पृशन्न् उदग् याति यदा शशाङ्कस्  
+    
+२४।२९ब् तदा सुवृष्टिर् बहुल^उपसर्गा।  
+    
+२४।२९च् असंस्पृशन् योगम् उदक्समेतः  
+    
+२४।२९द् करोति वृष्टिं विपुलां शिवं च॥  
+    
+२४।३०अ रोहिणी^शकट^मध्य^संस्थिते  
+    
+२४।३०ब् चन्द्रमस्य् अशरणीकृता जनाः।  
+    
+२४।३०च् क्व^अपि यान्ति शिशुयाचिताशनाः  
+    
+२४।३०द् सूर्यतप्तपिठराम्बुपायिनः॥  
+    
+२४।३१अ उदितं यदि शीतदीधितिं  
+    
+२४।३१ब् प्रथमं पृष्ठत एति रोहिणी।  
+    
+२४।३१च् शुभम् एव तदा स्मरातुराः  
+    
+२४।३१द् प्रमदाः *कामवशेन[क्।कामिवशे च] संस्थिताः॥  
+    
+२४।३२अ अनुगच्छति पृष्टतः शशी  
+    
+२४।३२ब् *यदि[क्।ओमित्तेद्] कामी वनिताम् इव प्रियाम्।  
+    
+२४।३२च् मकर^ध्वज^बाण^खेदिताः  
+    
+२४।३२द् प्रमदानां वशगास् तदा नराः॥  
+    
+२४।३३अ आग्नेय्यां दिशि चन्द्रमा यदि भवेत् तत्र^उपसर्गो महान्  
+    
+२४।३३ब् नैरृत्यां समुपद्रुतानि निधनं सस्यानि यान्तीतिभिः।  
+    
+२४।३३च् प्राजेशानिलदिक्स्थिते हिम^करे सस्यस्य मध्यश् चयो  
+    
+२४।३३द् याते स्थाणुदिशं गुणाः सुबहवः सस्यार्घ^*वृष्ट्यादयः[क्।वृद्ध्यादयः]॥  
+    
+२४।३४अब्। ताडयेद् यदि च योगतारकाम् आवृणोति वपुषा यदापि वा।  
+    
+२४।३४च्द्। ताडने भयम् उशन्ति दारुणं छादने *नृप^बधो[क्।नृप^वधो] +अङ्गनाकृतः॥  
+    
+२४।३५अब्। गोप्रवेशसमये +अग्रतो वृषो याति कृष्णपशुर् एव वा पुरः।  
+    
+२४।३५च्द्। भूरि वारि शबले तु मध्यमं नो सिते +अम्बुपरिकल्पनापरैः॥  
+    
+२४।३६अब्। दृश्यते न यदि रोहिणीयुतश् चन्द्रमा नभसि तोयदावृते।  
+    
+२४।३६च्द्। रुग्भयं महदुपस्थितं तदा भूश् च भूरिजलसस्यसंयुता॥
+
+                   २५ स्वातियोगाध्यायः
+
+२५।०१अब्। यद् रोहिणीयोगफलं तद् एव स्वाताव् अषाढासहिते च चन्द्रे।  
+    
+२५।०१च्द्। आषाढशुक्ले निखिलं विचिन्त्यं यो +अस्मिन् विशेषस् तम् अहं प्रवक्ष्ये॥  
+    
+२५।०२अ स्वातौ निशांशे प्रथमे +अभिवृष्टे  
+    
+२५।०२ब् सस्यानि सर्वाण्य् उपयान्ति वृद्धिम्।  
+    
+२५।०२च् भागे द्वितीये तिल^मुद्ग^माषा  
+    
+२५।०२द् ग्रैष्मं तृतीये +अस्ति न शारदानि॥  
+    
+२५।०३अब्। वृष्टे +अह्निभागे प्रथमे सुवृष्टिस् तद्वद् द्वितीये तु सकीट^सर्पा।  
+    
+२५।०३च्द्। वृष्टिस् तु मध्यापरभागवृष्टे निश्छिद्रवृष्टिर् द्युनिशं प्रवृष्टे॥  
+    
+२५।०४अब्। समम् उत्तरेण तारा चित्रायाः कीर्त्यते ह्य् अपांवत्सः।  
+    
+२५।०४च्द्। तस्यासन्ने चन्द्रे स्वातेर् योगः शिवो भवति॥  
+    
+२५।०५अ सप्तम्यां स्वातियोगे यदि पतति हिमं माघमासान्धकारे  
+    
+२५।०५ब् वायुर् वा चण्डवेगः सजलजलधरो वा^अपि गर्जत्य् अजस्रम्।  
+    
+२५।०५च् विद्युन्मालाकुलं वा यदि भवति नभो नष्टचन्द्रार्कतारं  
+    
+२५।०५द् विज्ञेया प्रावृड् एषा मुदितजनपदा सर्वसस्यैर् उपेता॥  
+    
+२५।०६अब्। तथ^एव फाल्गुने चैत्रे वैशाखस्यासिते +अपि वा।  
+    
+२५।०६च्द्। स्वातियोगं विजानीयाद् आषाढे च विशेषतः॥
+
+                   २६ आषाढीयोगाध्यायः
+
+२६।०१अ आषाढ्यां समतुलिताधिवासितानाम्  
+    
+२६।०१ब् अन्येद्युर् यद् अधिकताम् उपैति बीजम्।  
+    
+२६।०१च् तद्वृद्धिर् भवति न जायते यदूनं  
+    
+२६।०१द् मन्त्रो +अस्मिन् भवति तुलाभिमन्त्रणाय॥  
+    
+२६।०२अब्। स्तोतव्या मन्त्रयोगेन सत्या देवी सरस्वती।  
+    
+२६।०२च्द्। दर्शयिष्यसि यत्सत्यं सत्ये सत्यव्रता ह्य् असि॥  
+    
+२६।०३अब्। येन सत्येन चन्द्रार्कौ ग्रहा ज्योतिर्गणास् तथा।  
+    
+२६।०३च्द्। उत्तिष्ठन्तीह पूर्वेण पश्चाद् अस्तं व्रजन्ति च॥  
+    
+२६।०४अब्। यत्सत्यं सर्ववेदेषु यत्सत्यं ब्रह्मवादिषु।  
+    
+२६।०४च्द्। यत्सत्यं त्रिषु लोकेषु तत्सत्यम् इह दृश्यताम्॥  
+    
+२६।०५अब्। ब्रह्मणो दुहितासि त्वम् आदित्य^इति प्रकीर्तिता।  
+    
+२६।०५च्द्। काश्यपी गोत्रतश् च^एव नामतो विश्रुता तुला॥  
+    
+२६।०६अ क्षौमं चतुःसूत्रकसन्निबद्धं  
+    
+२६।०६ब् षडङ्गुलं शिक्यकवस्त्रम् अस्याः।  
+    
+२६।०६च् सूत्रप्रमाणम् च दशाङ्गुलानि  
+    
+२६।०६द् षड् एव *कक्ष्य[क्।कक्ष]^उभयशिक्यमध्ये॥  
+    
+२६।०७अ याम्ये शिक्ये काञ्चनं सन्निवेश्यं  
+    
+२६।०७ब् शेषद्रव्याण्य् उत्तरे +अम्बूनि *च^एव[क्।च^एवम्]।  
+    
+२६।०७च् तोयैः कौप्यैः *सैन्धवैः[क्।स्यन्दिभिः] सारसैश् च  
+    
+२६।०७द् वृष्टिर्[वर्।वृद्धिर्] हीना मध्यमा चोत्तमा च॥  
+    
+२६।०८अ दन्तैर् नागा गो^हय^आद्याश् च लोम्ना  
+    
+२६।०८ब् हेम्ना भूपाः शिक्थकेन द्विजाद्याः।  
+    
+२६।०८च् तद्वद् देशा वर्षमासा दिशश् च  
+    
+२६।०८द् शेषद्रव्याण्य् आत्मरूपस्थितानि॥  
+    
+२६।०९अब्। हैमी प्रधाना रजतेन मध्या तयोर् अलाभे खदिरेण कार्या।  
+    
+२६।०९च्द्। विद्धः पुमान् येन शरेण सा वा तुला प्रमाणेन भवेद् वितस्तिः॥  
+    
+२६।१०अब्। हीनस्य नाशो +अभ्यधिकस्य वृद्धिस् तुल्येन तुल्यं तुलितं तुलायाम्।  
+    
+२६।१०च्द्। एतत्तुला^कोश^रहस्यम् उक्तं प्राजेशयोगे +अपि नरो विदध्यात्॥  
+    
+२६।११अ स्वाताव् अषाढास्व् अथ रोहिणीषु  
+    
+२६।११ब् पापग्रहा योगगता न शस्ताः।  
+    
+२६।११च् ग्राह्यं तु योगद्वयम् अप्य् उपोष्य  
+    
+२६।११द् यदाधिमासो द्विगुणीकरोति॥  
+    
+२६।१२अ त्रयो +अपि योगाः सदृशाः फलेन  
+२६।१२ब् यदा तदा वाच्यम् असंशयेन।  
+    
+२६।१२च् विपर्यये यत्त्व् इह रोहिणीजं  
+    
+२६।१२द् फलं तद् एवाभ्यधिकं निगद्यम्॥  
+    
+२६।१३अब्। निष्पत्तिर् अग्निकोपो वृष्टिर् मन्दाथ मध्यमा श्रेष्ठा।  
+    
+२६।१३च्द्। बहुजलपवना पुष्टा शुभा च पूर्वादिभिः पवनैः॥  
+    
+[क्।२६।१४अब्। वृत्तायाम् आषाढ्याम् कृष्णचतुर्थ्याम् अजैकपाद^ऋक्षे।]  
+    
+[क्।२६।१४च्द्। यदि वर्षति पर्जन्यः प्रावृट् शस्ता न चेन् न ततः॥]  
+    
+[क्।२६।१५अब्। आषाढ्याम् पौर्णमास्यां तु यद्य् ऐशानो +अनिलो भवेत्।]  
+    
+[क्।२६।१५च्द्। अस्तं गच्छति तीक्ष्णांशौ सस्यसम्पत्तिर् उत्तमा॥]
+
+                   २७ वातचक्राध्यायः
+
+२७।०१अब्[क्।ओमित्तेद्]। आषाढ^पौर्णमास्यां तु यद्य् ऐशानो +अनिलो भवेत्।  
+    
+२७।०१च्द्[क्।ओमित्तेद्]। अस्तं गच्छति तीक्ष्णांशौ सस्य सम्पत्तिर् उत्तमा॥  
+    
+२७।०२अ पूर्वः पूर्वसमुद्र^वीचि^शिखर^प्रस्फालना^घूर्णितश्  
+    
+२७।०२ब् चन्द्रार्क^अंशु^सटा^*कलाप[क्।अभिघात]^कलितो वायुर् यदा^आकाशतः।  
+    
+२७।०२च् नैकान्त^स्थित^नीलमेघ^*पटला[क्।पटलाम्] शारद्य^*संवर्धिता[क्। संवर्धितां]।  
+    
+२७।०२द् वासन्त^उत्कट^सस्य^मण्डित^*तला सर्वा मही शोभते[क्।तलां विद्यात् तदा मेदिनीम्]॥  
+    
+२७।०३अ यदा *वह्नौ[क्।अग्नेयो] वायुर् *वहति गगने +अखण्डित^तनुः[क्।मलय^शिखर^आस्फालनपटुः]  
+    
+२७।०३ब् प्लवत्य् अस्मिन् योगे भगवति पतङ्गे प्रवसति।  
+    
+२७।०३च् तदा नित्य^उद्दीप्ता ज्वलन^शिखर^आलिङ्गिततला  
+    
+२७।०३द् स्वगात्र^उष्म^उच्छ्वासैर् वमति वसुधा भस्मनिकरम्॥  
+    
+२७।०४अ ताली^पत्र^लता^वितान^तरुभिः शाखामृगान् नर्तयन्  
+    
+२७।०४ब् योगे +अस्मिन् प्लवति *ध्वनिः सपरुषो[क्।ध्वनन्सुपरुषो] वायुर् यदा दक्षिणः।  
+    
+२७।०४च् *तद्वद् योगसमुत्थितस् तु[क्।सर्वोद्योगसमुन्नताश् च] गजवत् ताल^अङ्कुशैर् घट्टिताः  
+    
+२७।०४द् कीनाशा इव मन्द^वारि^*कणिका[क्।कणिकान्] मुञ्चन्ति मेघास् तदा॥  
+    
+२७।०५अ सूक्ष्मैला^लवली^लवङ्ग^निचयान् व्याघूर्णयन् सागरे  
+    
+२७।०५ब् भानोर् अस्तमये प्लवत्य् अविरतो वायुर् यदा नैरृतः।  
+    
+२७।०५च् क्षुत्^*तृष्ण^आवृत[क्।तृष्णामृत]^मानुष^अस्थि^शकल^प्रस्तार^भार^च्छदा  
+    
+२७।०५द् मत्ता प्रेतवधूर् इव^उग्र^चपला भूमिस् तदा लक्ष्यते॥  
+    
+२७।०६अ यदा रेणु^उत्पातैः *प्रविचल^सटाटोप^चपलः[क्।प्रविकटसटाटोपचपलः]  
+    
+२७।०६ब् प्रवातः *पश्चाच् चेद्[क्।पश्चार्धे] दिनकर^कर^आपात^समये।  
+    
+२७।०६च् तदा सस्योपेता *प्रवर^निकर^आबद्ध^समरा[क्।प्रवरनृव्राबद्धसमरा]  
+    
+२७।०६द् *क्षितिः स्थानस्थानेष्व्[क्।धरा स्थाने स्थानेष्व्] अविरत^वसा^मांस^रुधिरा॥  
+    
+२७।०७अ आषाढी^पर्व^काले यदि किरणपतेर् अस्तकाल^उपपत्तौ  
+    
+२७।०७ब् वायव्यो वृद्धवेगः *पवन^घन^वपुः पन्नग^अर्द्ध^अनुकारि[क्।प्लवति धनरिपुः पन्नगादानुकारी]।  
+    
+२७।०७च् जानीयाद् वारि^धारा^प्रमुदित^*मुदित^आमुक्त[क्।मुदितां मुक्त]^मण्डूक^कण्ठां  
+    
+२७।०७द् सस्य^उद्भास^एकचिह्नां सुख^बहुलतया भाग्यसेनाम् इव^उर्वीम्॥  
+    
+२७।०८अ मेरु^ग्रस्त^मरीचि^मण्डल^तले ग्रीष्म^अवसाने रवौ  
+    
+२७।०८ब् वात्य् आमोदि^कदम्ब^गन्ध^सुरभिर् वायुर् यदा च^उत्तरः।  
+    
+२७।०८च् विद्युद्^भ्रान्ति^समस्त^कान्ति^कलना मत्तास् तदा तोयदा  
+    
+२७।०८द् उन्मत्ता इव नष्ट^चन्द्र^किरणां गां पूरयन्त्य् अम्बुभिः॥  
+    
+२७।०९अब्। *वृत्तायाम् आषाढ्यां कृष्ण^चतुर्थ्याम् अजैकपाद^ऋक्षे[क्।ऐशानो यदि शीतलो +अमरगणैः संसेव्यमानो भवेत्]।  
+    
+२७।०९च्द्। *यदि वर्षति पर्जन्यः प्रावृत् शस्ता न चेन् न तदा[क्।पुन्नागागुरुपारिजातसुरभिर्वायुः प्रचण्डध्वनिः]॥  
+    
+२७।१०अब्। *नष्टचन्द्रार्ककिरनं नष्टतारं न चेन् नभः[क्।आपूर्णोदकयौवना वसुमती सम्पन्नसस्याकुला]।  
+    
+२७।१०च्द्। *न तां भद्रपदां मन्ये यत्र देवो न वर्षति[क्।धर्मिष्ठाः प्रणतारयो नृपतयो रक्षन्ति वर्णांस् तदा]॥
+
+                   २८ सद्योवर्षणाध्यायः
+
+२८।०१अ वर्षाप्रश्ने सलिलनिलयं राशिम् आश्रित्य चन्द्रो  
+    
+२८।०१ब् लग्नं यातो भवति यदि वा केन्द्रगः शुक्ल^पक्षे।  
+    
+२८।०१च् सौम्यैर् दृष्टः प्रचुरम् उदकं पापदृष्टो +अल्पम् अम्भः  
+    
+२८।०१द् प्रावृट्काले सृजति न चिरात्^चन्द्रवद् भार्गवो +अपि॥  
+    
+२८।०२अ आर्द्रं द्रव्यं स्पृशति यदि वा वारि तत्सञ्ज्ञकं वा  
+    
+२८।०२ब् तोयासन्नो भवति यदि वा तोयकार्य^उन्मुखो वा।  
+    
+२८।०२च् प्रष्टा वाच्यः सलिलम् अचिराद् अस्ति निःसंशयेन  
+    
+२८।०२द् पृच्छाकाले सलिलम् इति वा श्रूयते यत्र शब्दः॥  
+    
+२८।०३अ उदय^शिखरि^संस्थो दुर्निरीक्ष्यो +अतिदीप्त्या  
+    
+२८।०३ब् द्रुतकनकनिकाशः स्निग्धवैदूर्यकान्तिः।  
+    
+२८।०३च् तदहनि कुरुते +अम्भस् तोयकाले विवस्वान्  
+    
+२८।०३द् प्रतपति यदि च^उच्चैः खं गतो +अतीव तीक्ष्णम्॥  
+    
+२८।०४अ विरसम् उदकं गोनेत्राभं वियद्विमला दिशो  
+    
+२८।०४ब् लवण^विकृतिः काकाण्डाभं यदा च भवेत्^नभः।  
+    
+२८।०४च् पवन^विगमः पोप्लूयन्ते झषाः स्थलगामिनो  
+    
+२८।०४द् रसनम् असकृत्^मण्डूकानां जलागमहेतवः॥  
+    
+२८।०५अ मार्जारा भृशम् अवनिं नखैर् लिखन्तो[क्।लिखन्ते]  
+    
+२८।०५ब् लोहानां मलनिचयः सविस्रगन्धः।  
+    
+२८।०५च् रथ्यायां *शिशुरचिताश्[क्।शिशुनिचिताश्] च सेतुबन्धाः  
+    
+२८।०५द् सम्प्राप्तं जलम् अचिरात्^निवेदयन्ति॥  
+    
+२८।०६अब्। गिरयो *+अञ्जनचूर्णसन्निभा[क्।अञ्जनपुञ्जसन्निभा] यदि वा बाष्पनिरुद्धकन्दराः।  
+    
+२८।०६च्द्। कृकवाकुविलोचन^उपमाः परिवेषाः शशिनश् च वृष्टिदाः॥  
+    
+२८।०७अ विना^उपघातेन पिपीलिकानाम्  
+    
+२८।०७ब् अण्ड^उपसङ्क्रान्तिर् अहिव्यवायः।  
+    
+२८।०७च् *द्रुमावरोहश्[क्।द्रुमाधिरोहश्] च भुजङ्गमानां  
+    
+२८।०७द् वृष्टेर् निमित्तानि गवां प्लुतं च॥  
+२८।०८अ तरु^शिखर^उपगताः कृकलासा  
+    
+२८।०८ब् गगन^तल^स्थित^दृष्टि^निपाताः।  
+    
+२८।०८च् यदि च गवां रविवीक्षणम् ऊर्ध्वं  
+    
+२८।०८द् निपतति वारि तदा न चिरेण॥  
+    
+२८।०९अब्। न^इच्छन्ति विनिर्गमं गृहाद् धुन्वन्ति श्रवणान् खुरान् अपि।  
+    
+२८।०९च्द्। पशवः पशुवच् च *कुक्कुरा[क्।कुर्कुरा] यद्य् अम्भः पततीति निर्दिशेत्॥  
+    
+२८।१०अ यदा स्थिता गृहपटलेषु *कुक्कुरा[क्।कुर्कुरा]  
+    
+२८।१०ब् *रुदन्ति[क्।भवन्ति] वा यदि विततं *वियत्^मुखाः[क्।दिवोन्मुखाः]।  
+    
+२८।१०च् दिवा तडिद् यदि च पिनाकिदिग्भवा  
+    
+२८।१०द् तदा क्षमा भवति *समैव वारिणा[क्।स,आतोवारोंआ]॥  
+    
+२८।११अ शुक^कपोत^विलोचन^सन्निभो  
+    
+२८।११ब् मधु^निभश् च यदा हिम^दीधितिः।  
+    
+२८।११च् प्रतिशशी च यदा दिवि राजते  
+    
+२८।११द् पतति वारि तदा न *चिरेण च[क्।चिराद् दिवः]॥  
+    
+२८।१२अ स्तनितं निशि विद्युतो दिवा  
+    
+२८।१२ब् रुधिरनिभा यदि दण्डवत्स्थिताः।  
+    
+२८।१२च् पवनः पुरतश् च शीतलो  
+    
+२८।१२द् यदि सलिलस्य तदा^आगमो भवेत्॥  
+    
+२८।१३अ वल्लीनां गगन^तल^उन्मुखाः प्रवालाः  
+    
+२८।१३ब् स्नायन्ते यदि जलपांशुभिर् विहङ्गाः।  
+    
+२८।१३च् सेवन्ते यदि च सरीसृपास् तृणाग्राण्य्  
+    
+२८।१३द् आसन्नो भवति तदा जलस्य पातः।  
+    
+२८।१४अ मयूर^शुक^चाष^चातक^समान^वर्णा यदा  
+    
+२८।१४ब् जपाकुसुम^पङ्कज^द्युति^मुषश् च सन्ध्या^घनाः।  
+    
+२८।१४च् जलोर्मि^नग^नक्र^कच्छप^वराह^मीन^उपमाः  
+    
+२८।१४द् प्रभूत^पुटसञ्चया न तु चिरेण यच्छन्त्य् अपः॥  
+    
+२८।१५अ पर्यन्तेषु सुधा^शशाङ्क^धवला मध्ये +अञ्जन^अलि^त्विषः  
+    
+२८।१५ब् स्निग्धा नैक^पुटाः क्षरज्^जलकणाः सोपान^विच्छेदिनः।  
+    
+२८।१५च् माहेन्द्रीप्रभवाः प्रयान्त्य् अपरतः प्राग् वा अम्बुप^आशा^उद्भवा  
+    
+२८।१५द् ये ते वारिमुचस् त्यजन्ति न चिराद् अम्भः प्रभूतं भुवि॥  
+    
+२८।१६अब्। शक्रचाप^परिघ^प्रतिसूर्या रोहितो +अथ तडितः परिवेषः।  
+    
+२८।१६च्द्। उद्गम^अस्तमये यदि भानोर् आदिशेत् प्रचुरम् अम्बु तदाशु॥  
+    
+२८।१७अ यदि तित्तिर^पत्र^निभं गगनं  
+    
+२८।१७ब् मुदिताः प्रवदन्ति च पक्षि^गणाः।  
+    
+२८।१७च् उदय^अस्तमये सवितुर् द्युनिशं  
+    
+२८।१७द् विसृजन्ति घना न चिरेण जलम्॥  
+    
+२८।१८अ यद्य् अमोघ^किरणाः सहस्रगोर्  
+    
+२८।१८ब् अस्तभूधरकरा इव^उच्छ्रिताः।  
+    
+२८।१८च् भूसमं च रसते यदा^अम्बुदस्  
+    
+२८।१८द् तन् महद् भवति वृष्टि^लक्षणम्॥  
+    
+२८।१९अब्। प्रावृषि शीत^करो भृगुपुत्रात् सप्तमराशिगतः शुभदृष्टः।  
+    
+२८।१९च्द्। सूर्यसुतान् नवपञ्चमगो वा सप्तमगश् च जला^आगमनाय॥  
+२८।२०अब्। प्रायो ग्रहाणाम् उदयास्तकाले समागमे मण्डलसङ्क्रमे च।  
+    
+२८।२०च्द्। पक्ष^क्षये तीक्ष्णकरायनान्ते वृष्टिर् गते +अर्के नियमेन चार्द्राम्॥  
+    
+२८।२१अब्। समागमे पतति जलं ज्ञशुक्रयोर् ज्ञजीवयोर् गुरुसितयोश् च सङ्गमे।  
+    
+२८।२१च्द्। यमारयोः पवन^हुताशजं भयं ह्य् अदृष्टयोर् असहितयोश् च सद्ग्रहैः॥  
+    
+२८।२२अब्। अग्रतः पृष्ठतो वा^अपि ग्रहाः सूर्यावलम्बिनः।  
+    
+२८।२२च्द्। यदा तदा प्रकुर्वन्ति महीम् एकार्णवाम् इव॥  
+    
+२८।२३अब्। [क्।ओमित्तेद्] प्रविशति यदि खद्योतो जलदसमीपेषु रजनीषु।  
+    
+२८।२३च्द्। [क्।ओमित्तेद्] केदारपूरम् अधिकं वर्षति देवस् तदा न चिरात्॥  
+    
+२८।२४अब्। [क्।ओमित्तेद्] वर्षत्य् अपि रटति यदा गोमायुश् च प्रदोषवेलायाम्।  
+    
+२८।२४च्द्। [क्।ओमित्तेद्] सप्ताहं दुर्दिनम् अपि तदा पयो नात्र सन्देहः॥
+
+                   २९ कुसुमलताध्यायः
+
+२९।०१अब्। फल^कुसुम^सम्प्रवृद्धिं वनस्पतीनां विलोक्य विज्ञेयम्।  
+    
+२९।०१च्द्। सुलभत्वं द्रव्याणां निष्पत्तिश् च^अपि सस्यानाम्॥  
+    
+२९।०२अब्। शालेन कलमशाली रक्ताशोकेन रक्तशालिश् च।  
+    
+२९।०२च्द्। पाण्डूकः क्षीरिकया नीलाशोकेन सूकरकः॥  
+    
+२९।०३अब्। न्यग्रोधेन तु यवकस् तिन्दुक^वृद्ध्या च षष्टिको भवति।  
+    
+२९।०३च्द्। अश्वत्थेन ज्ञेया निष्पत्तिः सर्वसस्यानाम्॥  
+    
+२९।०४अब्। जम्बूभिस् तिल^माषाः शिरीष^वृद्ध्या च कङ्गु^निष्पत्तिः।  
+    
+२९।०४च्द्। गोधूमाश् च मधूकैर् यव^वृद्धिः सप्तपर्णेन॥  
+    
+२९।०५अब्। अतिमुक्तक^कुन्दाभ्यां कर्पासं सर्षपान् वदेद् अशनैः।  
+    
+२९।०५च्द्। बदरीभिश् च कुलत्थांश् *चिरविल्वेन[क्।ऊ।चिरबिल्वेन]^आदिशेत्^मुद्गान्॥  
+    
+२९।०६अब्। अतसी वेतस^पुष्पैः पलाश^कुसुमैश् च कोद्रवा ज्ञेयाः।  
+    
+२९।०६च्द्। तिलकेन शङ्ख^मौक्तिक^रजतान्य् अथ च^इङ्गुदेन *शणाः[क्।शणः]॥  
+    
+२९।०७अब्। करिणश् च हस्तिकर्णैर् आदेश्या वाजिनो +अश्वकर्णेन।  
+    
+२९।०७च्द्। गावश् च पाटलाभिः कदलीभिर् अज^आविकं भवति॥  
+    
+२९।०८अब्। चम्पक^कुसुमैः कनकं विद्रुम^सम्पच् च बन्धुजीवेन।  
+    
+२९।०८च्द्। *कुरवक[क्।कुरुवक]^वृद्ध्या वज्रं वैदूर्यं नन्दिकावर्तैः॥  
+    
+२९।०९अब्। विन्द्याच् च सिन्धुवारेण मौक्तिकं *कारुकाः[क्।कुङ्कुमम्] कुसुम्भेन।  
+    
+२९।०९च्द्। रक्तोत्पलेन राजा मन्त्री नीलोत्पलेनोक्तः॥  
+    
+२९।१०अब्। श्रेष्ठी *सुवर्णपुष्पात्[क्।सुवर्णपुष्पैः] पद्मैर् विप्राः पुरोहिताः कुमुदैः।  
+    
+२९।१०च्द्। सौगन्धिकेन बलपतिर् अर्केण हिरण्य^परिवृद्धिः॥  
+    
+२९।११अब्। आम्रैः क्षेमं भल्लातकैर् भयं पीलुभिस् तथा^आरोग्यम्।  
+    
+२९।११च्द्। खदिर^शमीभ्यां दुर्भिक्षम् अर्जुनैः शोभना वृष्टिः॥  
+    
+२९।१२अब्। पिचुमन्द^नागकुसुमैः सुभिक्षम् अथ मारुतः कपित्थेन।  
+    
+२९।१२च्द्। निचुलेन^अवृष्टिभयं व्याधिभयं भवति कुटजेन॥  
+    
+२९।१३अब्। दूर्वा^कुश^कुसुमाभ्याम् इक्षुर् वह्निश् च कोविदारेण।  
+    
+२९।१३च्द्। श्यामालता^अभिवृद्ध्या बन्धक्यो वृद्धिम् आयान्ति॥  
+    
+२९।१४अ यस्मिन् *काले[क्।देशे] स्निग्ध^निश्छिद्र^पत्राः  
+    
+२९।१४ब् सन्दृश्यन्ते वृक्षगुल्मा लताश् च।  
+    
+२९।१४च् तस्मिन् वृष्टिः शोभना सप्रदिष्टा  
+    
+२९।१४द् रूक्षैश् छिद्रैर् अल्पम् अम्भः प्रदिष्टम्॥
+
+                   ३० सन्ध्यालक्षणाध्यायः
+
+३०।०१अब्। अर्ध^अस्तमितान् उदितात् सूर्याद् अस्पष्टभं नभो यावत्।  
+    
+३०।०१च्द्। तावत् सन्ध्याकालश् चिह्नैर् एतैः फलं च^अस्मिन्॥  
+    
+३०।०२अब्। मृग^*शकुनि[क्।शकुन]^पवन^परिवेष^परिधि^परिघ^अभ्रवृक्ष^सुरचापैः।  
+    
+३०।०२च्द्। गन्धर्वनगर^रविकर^दण्ड^रजः स्नेहवर्णैश् च॥  
+    
+३०।०३अब्। भैरवम् उच्चैर् विरुवन् मृगो +असकृद् ग्राम^घातम् आचष्टे।  
+    
+३०।०३च्द्। रविदीप्तो दक्षिणतो महास्वनः सैन्य^घातकरः॥  
+    
+३०।०४अब्। अपसव्ये सङ्ग्रामः सव्ये सेना^समागमः शान्ते।  
+    
+३०।०४च्द्। मृगचक्रे पवने वा सन्ध्यायां मिश्रगे वृष्टिः॥  
+    
+३०।०५अब्। दीप्त^मृग^अण्डज^विरुता प्राक् सन्ध्या देश^नाशम् आख्याति।  
+    
+३०।०५च्द्। दक्षिणदिक्^स्थैर् विरुता ग्रहणाय पुरस्य दीप्तास्यैः॥  
+    
+३०।०६अब्। गृह^तरु^तोरण^मथने सपांशु^लोष्ट^उत्करे +अनिले प्रबले।  
+    
+३०।०६च्द्। भैरवरावे रूक्षे खगपातिनि च^अशुभा सन्ध्या॥  
+    
+३०।०७अब्। मन्द^पवन^अवघट्टित^चलित^पलाश^द्रुमा विपवना वा।  
+    
+३०।०७च्द्। मधुरस्वर^शान्त^विहङ्ग^मृग^रुता पूजिता सन्ध्या॥  
+    
+३०।०८अब्। सन्ध्याकाले स्निग्धा दण्ड^तडित्^मत्स्य^परिधि^परिवेषाः।  
+    
+३०।०८च्द्। सुरपतिचाप^ऐरावत^रविकिरणाश् चाशु वृष्टिकरः॥  
+    
+३०।०९अब्। विच्छिन्न^विषम^विध्वस्त^विकृत^कुटिल^अपसव्य^परिवृत्ताः।  
+    
+३०।०९च्द्। तनु^ह्रस्व^विकल^कलुषाश् च विग्रह^अवृष्टिदाः किरणाः॥  
+    
+३०।१०अब्। उद्द्योतिनः प्रसन्ना ऋजवो दीर्घाः प्रदक्षिणावर्ताः।  
+    
+३०।१०च्द्। किरणाः शिवाय जगतो वितमस्के नभसि भानुमतः॥  
+    
+३०।११अब्। शुक्लाः करा दिनकृतो दिव^आदि^मध्य^अन्त^गामिनः स्निग्धाः।  
+    
+३०।११च्द्। अव्युच्छिन्ना ऋजवो वृष्टिकरास् ते *त्व्[क्।ह्य्] अमोघाख्याः॥  
+    
+३०।१२अब्। कल्माष^बभ्रु^कपिला विचित्र^माञ्जिष्ठ^हरित^शबलाभाः।  
+    
+३०।१२च्द्। त्रिदिव^अनुबन्धिनो +अवृष्टये +अल्पभयदास् तु सप्ताहात्॥  
+    
+३०।१३अब्। ताम्रा बलपति^मृत्युं पीत^अरुण^सन्निभाश् च तद्^व्यसनम्।  
+    
+३०।१३च्द्। हरिताः पशु^सस्य^बधं धूमसवर्णा गवां नाशम्॥  
+    
+३०।१४अब्। माञ्जिष्टाभाः शस्त्र^अग्नि^सम्भ्रमं बभ्रवः पवन^वृष्टिम्।  
+    
+३०।१४च्द्। भस्म^सदृशास् त्व् अवृष्टिं तनुभावं शबल^कल्माषाः॥  
+    
+३०।१५अ बन्धूक^पुष्प^अञ्जन^चूर्ण^सन्निभं  
+    
+३०।१५ब् सान्ध्यं रजो +अभ्येति यदा दिवाकरम्।  
+    
+३०।१५च् लोकास् तदा रोगशतैर् निपीड्यते  
+    
+३०।१५द् शुक्लं रजो लोक^विवृद्धि^शान्तये॥  
+    
+३०।१६अब्। रविकिरण^जलद^मरुतां सङ्घातो दण्डवत् स्थितो दण्डः।  
+    
+३०।१६च्द्। स विदिक्^स्थितो नृपाणाम् अशुभो दिक्षु *द्विजादीनाम्[क्ऽस् त्र्। द्विजातीनाम्]॥  
+    
+३०।१७अब्। शस्त्र^भय^आतङ्क^करो दृष्टः प्राङ्^मध्य^सन्धिषु दिनस्य।  
+    
+३०।१७च्द्। शुक्लाद्यो विप्रादीन् यद् अभिमुखस् तां निहन्ति दिशम्॥  
+    
+३०।१८अब्। दधिसदृशाग्रो नीलो भानु^च्छादी ख^मध्यगो +अभ्रतरुः।  
+    
+३०।१८च्द्। पीतच्छुरिताश् च घना घनमूला भूरिवृष्टिकराः॥  
+    
+३०।१९अब्। अनुलोमगे +अभ्रवृक्षे शमं गते यायिनो नृपस्य बधः।  
+    
+३०।१९च्द्। बालतरु^प्रतिरूपिणि युवराज^अमात्ययोर् मृत्युः॥  
+    
+३०।२०अब्। कुवलय^वैदूर्य^अम्बुज^किञ्जल्काभा प्रभञ्जन^उन्मुक्ता।  
+    
+३०।२०च्द्। सन्ध्या करोति वृष्टिं रविकिरण^उद्भासिता सद्यः॥  
+    
+३०।२१अब्। अशुभ^आकृति^घन^गन्धर्वनगर^नीहार^*धूम^पांशुयुता[क्।पांशुधूमयुता]।  
+    
+३०।२१च्द्। प्रावृषि करोत्य् अवग्रहम् अन्यर्तौ शस्त्र^कोपकरी॥  
+    
+३०।२२अब्। शिशिरादिषु वर्णाः शोण^पीत^सित^चित्र^पद्म^रुधिर^निभाः।  
+    
+३०।२२च्द्। प्रकृतिभवाः सन्ध्यायां स्वर्तौ शस्ता विकृतिर् अन्या॥  
+    
+३०।२३अब्। आयुधभृन् नररूपं छिन्नाभ्रं परभयाय रविगामि।  
+    
+३०।२३च्द्। सित^खपुरे +अर्क^आक्रान्ते पुरलाभो भेदने नाशः॥  
+    
+३०।२४अ सित^सितान्त^घन^आवरणं रवेर्  
+    
+३०।२४ब् भवति वृष्टिकरं यदि सव्यतः।  
+    
+३०।२४च् यदि च वीरण^गुल्म^निभैर् घनैर्  
+    
+३०।२४द् दिवसभर्तुर् अदीप्तदिग्^उद्भवैः॥  
+    
+३०।२५अब्। नृप^विपत्तिकरः परिघः सितः क्षतज^तुल्यवपुर् बलकोपकृत्।  
+    
+३०।२५च्द्। कनक^रूपधरो बल^वृद्धिदः सवितुर् उद्गम^काल^समुत्थितः॥  
+    
+३०।२६अ उभयपार्श्वगतौ परिधी रवेः  
+    
+३०।२६ब् प्रचुरतोय^*करौ[क्।कृतौ] वपुषा^अन्वितौ।  
+    
+३०।२६च् अथ समस्त^ककुप्^परिचारिणः  
+    
+३०।२६द् परिधयो +अस्ति कणो +अपि न वारिणः॥  
+    
+३०।२७अब्। ध्वज^आतपत्र^पर्वत^द्विप^अश्व^रूपधारिणः।  
+    
+३०।२७च्द्। जयाय सन्ध्ययोर् घना रणाय रक्तसन्निभाः॥  
+    
+३०।२८अब्। पलाल^धूम^सञ्चय^स्थित^उपमा बलाहकाः।  
+    
+३०।२८च्द्। बलान्य् अरूक्ष^मूर्तयो विवर्धयन्ति भूभृताम्॥  
+    
+३०।२९अब्। विलम्बिनो द्रुम^उपमाः खर^अरुण^प्रकाशिनः।  
+    
+३०।२९च्द्। घनाः शिवाय सन्ध्ययोः पुर^उपमाः शुभावहाः॥  
+    
+३०।३०अब्। दीप्त^विहङ्ग^शिवा^मृग^घुष्टा दण्ड^रजः^परिघ^आदियुता च।  
+    
+३०।३०च्द्। प्रत्यहम् अर्कविकारयुता वा देश^नरेश^सुभिक्ष^बधाय॥  
+    
+३०।३१अ प्राची तत्क्षणम् एव नक्तम् अपरा सन्ध्या त्र्यहाद् वा फलं  
+    
+३०।३१ब् सप्ताहात् परिवेष^रेणु^परिघाः कुर्वन्ति सद्यो न चेत्।  
+    
+३०।३१च् तद्वत् सूर्यकर^इन्द्रकार्मुक^तडित्^प्रत्यर्क^मेघ^अनिलास्  
+    
+३०।३१द् तस्मिन्न् एव दिने +अष्टमे +अथ विहगाः सप्ताहपाका मृगाः॥  
+    
+३०।३२अ एकं दीप्त्या योजनं भाति सन्ध्या  
+    
+३०।३२ब् विद्युद्भासा षट् प्रकाशीकरोति।  
+    
+३०।३२च् पञ्च^अब्दानां गर्जितं याति शब्दो  
+    
+३०।३२द् नास्तीयत्ता *के चिद्[क्।का चिद्] उल्कानिपाते॥  
+    
+३०।३३अ प्रत्यर्कसञ्ज्ञः परिधिस् तु तस्य  
+    
+३०।३३ब् *त्रियोजनाभः[क्।त्रियोजना भा] परिघस्य पञ्च।  
+    
+३०।३३च् षट्पञ्चदृश्यं परिवेषचक्रं  
+    
+३०।३३द् दश^अमरेशस्य धनुर् विभाति॥
+
+                   ३१ दिग्दाहलक्षणाध्यायः
+
+३१।०१अब्। दाहो दिशां राजभयाय पीतो देशस्य नाशाय हुताशवर्णः।  
+    
+३१।०१च्द्। यश् च^अरुणः स्याद् अपसव्य^वायुः सस्यस्य नाशं स करोति दृष्टः॥  
+    
+३१।०२अ यो +अतीव दीप्त्या कुरुते प्रकाशं  
+    
+३१।०२ब् छायाम् अपि व्यञ्जयते +अर्कवद् यः।  
+    
+३१।०२च् राज्ञो महद् वेदयते भयं स  
+    
+३१।०२द् शस्त्र^प्रकोपं क्षतज^अनुरूपः॥  
+    
+३१।०३अ प्राक् क्षत्रियाणां सनरेश्वराणां  
+    
+३१।०३ब् प्राग्दक्षिणे शिल्पि^कुमार^पीडा।  
+    
+३१।०३च् याम्ये सह^उग्रैः पुरुषैस् तु वैश्या  
+    
+३१।०३द् दूताः पुनर्भूप्रमदाश् च कोणे॥  
+    
+३१।०४अ पश्चात् तु शूद्राः कृषि^जीविनश् च  
+    
+३१।०४ब् चौरास् तुरङ्गैः सह वायुदिक्स्थे।  
+    
+३१।०४च् पीडां व्रजन्त्य् उत्तरतश् च विप्राः  
+    
+३१।०४द् *पाखण्डिनो[क्।पाषण्डिनो] वाणिजकाश् च शार्व्याम्॥  
+    
+३१।०५अ नभः प्रसन्नं विमलानि भानि  
+३१।०५ब् प्रदक्षिणं वाति सदागतिश् च।  
+    
+३१।०५च् दिशां च दाहः कनक^अवदातो  
+    
+३१।०५द् हिताय लोकस्य सपार्थिवस्य॥
+
+                   ३२ भूकम्पलक्षणाध्यायः
+
+३२।०१अब्। क्षितिकम्पम् आहुर् एके बृहदन्तर्जलनिवासिसत्त्व^कृतम्।  
+    
+३२।०१च्द्। भूभार^खिन्न^दिग्गज^विश्राम^समुद्भवं च^अन्ये॥  
+    
+३२।०२अब्। अनिलो +अनिलेन निहतः क्षितौ पतन् सस्वनं करोत्य् *अन्ये[क्।एके]।  
+    
+३२।०२च्द्। के चित् त्व् अदृष्ट^कारितम् इदम् अन्ये प्राहुर् आचार्याः॥  
+    
+३२।०३अब्। गिरिभिः पुरा सपक्षैर् वसुधा प्रपतद्भिर् उत्पद्भिश् च।  
+    
+३२।०३च्द्। आकम्पिता पितामहम् आह^अमरसदसि सव्रीडम्॥  
+    
+३२।०४अब्। भगवन् नाम मम^एतत् त्वया कृतं यद् अचल^इति तन् न तथा।  
+    
+३२।०४च्द्। क्रियते +अचलैश् चलद्भिः शक्ताहं नास्य खेदस्य॥  
+    
+३२।०५अब्। तस्याः *सगद्गद^गिरं[क्।सगड्गदगिरम्] किं चित् स्फुरिताधरं विनतम् ईषत्।  
+    
+३२।०५च्द्। साश्रुविलोचनम् आननम् आलोक्य पितामहः प्राह॥  
+    
+३२।०६अब्। मन्युं हर^इन्द्र धात्र्याः क्षिप कुलिशं शैल^पक्ष^भङ्गाय।  
+    
+३२।०६च्द्। शक्रः कृतम् इत्य् उक्त्वा मा भैर् इति वसुमतीम् आह॥  
+    
+३२।०७अब्। किन्त्व् अनिल^दहन^सुरपति^वरुणाः सदसत्फल^अवबोधार्थम्।  
+    
+३२।०७च्द्। प्राग् द्वित्रिचतुर्भागेषु दिननिशोः कम्पयिष्यन्ति॥  
+    
+३२।०८अब्। चत्वार्य् आर्यम्णाद्यान्य् आदित्यं मृगशिरो +अश्वयुक् च^इति।  
+    
+३२।०८च्द्। मण्डलम् एतद् वायव्यम् अस्य रूपाणि सप्ताहात्॥  
+    
+३२।०९अब्। धूम^आकुलीकृत^आशे नभसि नभस्वान् रजः क्षिपन् भौमम्।  
+    
+३२।०९च्द्। विरुजन् द्रुमांश् च विचरति रविर् अपटु^कर^अवभासी च॥  
+    
+३२।१०अब्। वायव्ये भूकम्पे सस्य^अम्बु^वन^औषधी^क्षयो +अभिहितः।  
+    
+३२।१०च्द्। श्वयथु^श्वास^उन्माद^ज्वर^कास^*भवो[क्।भवा] वणिक्^पीडा॥  
+    
+३२।११अब्। रूप^आयुध^भृद्^वैद्या^स्त्री^कवि^गान्धर्व^पण्य^शिल्पिजनाः।  
+    
+३२।११च्द्। पीड्यन्ते सौराष्ट्रक^कुरु^मघध^दशार्ण^मत्स्याश् च॥  
+    
+३२।१२अब्। पुष्य^आग्नेय^विशाखा^भरणी^पित्र्य^अज^भाग्य^सञ्ज्ञानि।  
+    
+३२।१२च्द्। वर्गो हौतभुजो +अयं करोति रूपाण्य् अथ^एतानि॥  
+    
+३२।१३अब्। तारा^उल्कापात^आवृतम् आदीप्तम् इव^अम्बरं सदिग्दाहम्।  
+    
+३२।१३च्द्। विचरति मरुत्^सहायः सप्तार्चिः सप्तदिवसान्तः॥  
+    
+३२।१४अब्। आग्नेये +अम्बुद^नाशः सलिलाशय^सङ्क्षयो नृपति^वैरम्।  
+    
+३२।१४च्द्। दद्रू^विचर्चिका^ज्वर^विसर्पिकाः पाण्डुरोगश् च॥  
+    
+३२।१५अब्। दीप्तौजसः प्रचण्डाः पीड्यन्ते च^अश्मक^अङ्ग^बाह्लीकाः।  
+    
+३२।१५च्द्। तङ्गण^कलिङ्ग^वङ्ग^*द्रविडाः[उ।द्रविणाः] *शबरा अनेकविधाः[क्।शबराश् च नैकविधाः]॥  
+    
+३२।१६अब्। अभिजित्^श्रवण^धनिष्ठा^प्राजापत्य^ऐन्द्र^वैश्व^मैत्राणि।  
+    
+३२।१६च्द्। सुरपति^मण्डलम् एतद् भवन्ति *च^अप्य् अस्य रूपाणि[क्।च अस्य स्वरूपाणि]॥  
+    
+३२।१७अब्। चलित^अचल^वर्ष्माणो गम्भीर^विराविणस् *तडिद्वन्तः[क्।तडित्वन्तः]।  
+    
+३२।१७च्द्। गवल^अलिकुल^अहिनिभा विसृजन्ति पयः पयोवाहाः॥  
+    
+३२।१८अब्। ऐन्द्रं *स्तुत[क्।श्रुति]^कुलजाति^ख्यात^अवनिपाल^गणप^विध्वंसि।  
+    
+३२।१८च्द्। अतिसार^गलग्रह^वदनरोग^कृच् छर्दिकोपाय॥  
+    
+३२।१९अब्। काशि^युगन्धर^पौरव^किरात^कीर^अभिसार^हल^मद्राः।  
+    
+३२।१९च्द्। अर्बुद^*सुराष्ट्र[क्।सुवास्तु]^मालव^पीडाकरम् इष्टवृष्टिकरम्॥  
+    
+३२।२०अब्। पौष्ण^आप्य^आर्द्रा^आश्लेषा^मूल^अहिर्बुध्न्य^वरुणदेवानि।  
+    
+३२।२०च्द्। मण्डलम् एतद् वारुणम् अस्यापि भवन्ति रूपाणि॥  
+    
+३२।२१अब्। नीलोत्पल^अलि^भिन्न^अञ्जन^त्विषो मधुर^राविणो बहुलाः।  
+    
+३२।२१च्द्। तडिद्^उद्भासित^देहा *धारा^अङ्कुर[क्।धाराङ्कुश]वर्षिणो जलदाः॥  
+    
+३२।२२अब्। वारुणम् अर्णव^सरिद्^आश्रित^घ्नम् अतिवृष्टिदं विगत^वैरम्।  
+    
+३२।२२च्द्। गोनर्द^चेदि^कुकुरान् किरात^वैदेहकान् हन्ति॥  
+    
+३२।२३अब्। षड्भिर् मासैः कम्पो द्वाभ्यां पाकं च याति निर्घातः।  
+    
+३२।२३च्द्। अन्यान् अप्य् उत्पातान् जगुर् अन्ये मण्डलैर् एतैः॥  
+    
+[क्।३वेर्सेस् इन्सेर्तेद्  
+    
+क्।३२।२४अब्। उल्का हरिश् चन्द्रपुरं रजश् च निर्घातभूकम्पककुप्प्रदाहाः।  
+    
+क्।३२।२४च्द्। वातो +अतिचण्डो ग्रहणं रवीन्द्वोर् नक्षत्रतारागणवैकृतानि॥  
+    
+क्।३२।२५अब्। व्यभ्रे वृष्टिर् वैकृतं वातवृष्टिर् धूमो +अनग्नेर् विस्फुलिङ्गार्चिषो वा।  
+    
+क्।३२।२५च्द्। वन्यं सत्त्वं ग्राममध्ये विशेद्वा रात्रावैन्द्रं कार्मुकं दृश्यते वा॥  
+    
+क्।३२।२६अब्। सन्ध्याविकाराः परिवेषखण्डा नद्यः प्रतीपा दिवि तूर्यनादाः।  
+    
+क्।३२।२६अब्। अन्यच् च यत्स्यात् प्रकृतेः प्रतीपं तन्मण्डलैर् एव फलं निगाद्यम्॥]  
+    
+३२।२४अब्। हन्त्य् ऐन्द्रो वायव्यं वायुश् च^अप्य् ऐन्द्रम् एवम् अन्योन्यम्।  
+    
+३२।२४च्द्। वारुण^हौतभुजाव् अपि वेला^नक्षत्रजाः कम्पाः॥  
+    
+३२।२५अब्। प्रथित^नरेश्वर^मरण^व्यसनान्य् आग्नेय^वायुमण्डलयोः।  
+    
+३२।२५च्द्। क्षुद्भय^मरक^अवृष्टिभिर् उपताप्यन्ते जनाश् च अपि॥  
+    
+३२।२६अब्। वारुण^पौरन्दरयोः सुभिक्ष^शिववृष्टि^हार्दयो लोके।  
+    
+३२।२६च्द्। गावो +अतिभूरि^पयसो निवृत्त^वैराश् च भूपालाः॥  
+    
+३२।२७अब्। पक्षैश् चतुर्भिर् अनिलस् त्रिभिर् अग्निर् देवराट् च सप्ताहात्।  
+    
+३२।२७च्द्। सद्यः फलति च वरुणो येषु न कालो +अद्भुतेषु^उक्तः॥  
+    
+३२।२८अब्। चलयति पवनः शतद्वयं शतम् अनलो दशयोजन^अन्वितम्।  
+    
+३२।२८च्द्। सलिलपतिर् अशीतिसंयुतं कुलिशधरो +अभ्यधिकं च *षष्टितः[क्।षष्टिकम्]॥  
+    
+३२।२९अब्। त्रिचत्रुथसप्तमदिने मासे पक्षे तथा त्रिपक्षे चे।  
+    
+३२।२९च्द्। यदि भवति भूमिकम्पः प्रधान^नृप^नाशनो भवति॥
+
+                   ३३ उल्कालक्षणाध्यायः
+
+३३।०१अब्। दिवि भुक्त^शुभफलानां पततां रूपाणि यानि तान्य् उल्काः।  
+    
+३३।०१च्द्। धिष्ण्या^उल्का^अशनि^विद्युत्^तारा इति पञ्चधा भिन्नाः॥  
+    
+३३।०२अब्। उल्का पक्षेण फलं तद्वद् धिष्ण्या^अशनिस् त्रिभिः पक्षैः।  
+    
+३३।०२च्द्। विद्युद् अहोभिः षड्भिः तद्वत् तारा विपाचयति॥  
+    
+३३।०३अब्। तारा फल^पाद^करी फलार्धदात्री प्रकीर्तिता धिष्ण्या।  
+    
+३३।०३च्द्। तिस्रः सम्पूर्ण^फला विद्युद् अथ^उल्का^अशनिश् च^इति॥  
+    
+३३।०४अब्। अशनिः स्वनेन महता नृ^गज^अश्व^मृग^अश्म^वेश्म^तरु^पशुषु।  
+    
+३३।०४च्द्। निपतति विदारयन्ती धरातलं चक्र^संस्थाना॥  
+    
+३३।०५अब्। विद्युत् सत्त्वत्रासं जनयन्ती तटतटस्वना सहसा।  
+    
+३३।०५च्द्। कुतिलविशाला निपतति जीव^इन्धनराशिषु ज्वलिता॥  
+    
+३३।०६अब्। धिष्ण्या कृशाल्पपुच्छा धनूंषि दश दृश्यते +अन्तराभ्यधिकम्।  
+    
+३३।०६च्द्। ज्वलिताङ्गारनिकाशा द्वौ हस्तौ सा प्रमाणेन॥  
+    
+३३।०७अब्। तारा हस्तं दीर्घा शुक्ला ताम्र^अब्ज^तन्तु^रूपा वा।  
+    
+३३।०७च्द्। तिर्यग् अधश् च^ऊर्ध्वं वा याति वियत्य् उह्यमाना^इव॥  
+    
+३३।०८अब्। उल्का शिरसि विशाला निपतन्ती वर्धते प्रतनु^पुच्छा॥  
+    
+३३।०८च्द्। दीर्घा *च भवति[क्।भवति च] पुरुषं भेदा बहवो भवत्य् अस्याः॥  
+    
+३३।०९अब्। प्रेत^प्रहरण^खर^करभ^नक्र^कपि^दंष्ट्रि^लाङ्गल^मृगाभाः।  
+३३।०९च्द्। गोधा^अहि^धूम^रूपाः पापा या च^उभयशिरस्का॥  
+    
+३३।१०अब्। ध्वज^झष^*गिरि^करि[क्।करिगिरि]^कमल^इन्दु^तुरग^सन्तप्त^रजत^हंसाभाः।  
+    
+३३।१०च्द्। *श्रीवृक्ष[क्।श्रीवत्स, क्ऽस् त्र्। श्रीवृक्ष]^वज्र^शङ्ख^स्वस्तिक^रूपाः शिव^सुभिक्षाः॥  
+    
+३३।११अब्। अम्बर^मध्याद् बह्व्यो निपतन्त्यो राज^राष्ट्र^नाशाय।  
+    
+३३।११च्द्। बम्भ्रमती गगन^उपरि विभ्रमम् आख्याति लोकस्य॥  
+    
+३३।१२अब्। संस्पृशती चन्द्रार्कौ तद्विसृता वा सभूप्रकम्पा च।  
+    
+३३।१२च्द्। परचक्र^आगम^नृप^भय^दुर्भिक्ष^अवृष्टि^भय^जननी॥  
+    
+३३।१३अब्। पौर^इतरघ्नम् उल्का^अपसव्य^करणं दिवाकर^हिमांशवोः।  
+    
+३३।१३च्द्। उल्का शुभदा पुरतो दिवाकर^विनिःसृता यातुः॥  
+    
+३३।१४अब्। शुक्ला रक्ता पीता कृष्णा च^उल्का द्विज^आदिवर्णघ्नी।  
+    
+३३।१४च्द्। क्रमशश् चैतान् हन्युर् मूर्ध^उरः^पार्श्व^पुच्छ^स्थाः॥  
+    
+३३।१५अब्। उत्तरदिग्^आदि^पतिता विप्रादीनाम् अनिष्टदा रूक्षा।  
+    
+३३।१५च्द्। ऋज्वी स्निग्ध^अखण्डा नीच^उपगता च तद्^वृद्ध्यै॥  
+    
+३३।१६अब्। *श्याव^अरुण[क्।श्यामा वारुण]^नील^असृग्^दहन^असित^भस्म^सन्निभा रूक्षा।  
+    
+३३।१६च्द्। सन्ध्या^दिन^जा वक्रा दलिता च पर^आगम^भयाय॥  
+    
+३३।१७अब्। नक्षत्र^ग्रह^*घातैस्[क्।घाते] तद्भक्तीनां क्षयाय निर्दिष्टा।  
+    
+३३।१७च्द्। उदये घ्नती रवीन्दू पौर^इतर^मृत्यवे +अस्ते वा॥  
+    
+३३।१८अब्। भाग्य^आदित्य^धनिष्ठा^मूलेषु^उल्का^हतेषु युवतीनाम्।  
+    
+३३।१८च्द्। विप्र^क्षत्रिय^पीडा पुष्य^अनिल^विष्णुदेवेषु॥  
+    
+३३।१९अब्। ध्रुव^सौम्येषु नृपाणाम् उग्रेषु सदारुणेषु चौराणाम्।  
+    
+३३।१९च्द्। क्षिप्रेषु कलाविदुषां पीडा साधारणे च हते॥  
+    
+३३।२०अब्। कुर्वन्त्य् एताः पतिता देवप्रतिमासु राज^राष्ट्र^भयम्।  
+    
+३३।२०च्द्। शक्रोपरि नृपतीनां गृहेषु तत्स्वामिनां पीडाम्॥  
+    
+३३।२१अब्। आशा^ग्रह^उपघाते तद्देश्यानां खले कृषिरतानाम्।  
+    
+३३।२१च्द्। चैत्यतरौ सम्पतिता सत्कृत^पीडां करोत्य् उल्का॥  
+    
+३३।२२अब्। द्वारि पुरस्य पुरक्षयम् अथ^इन्द्रकीले जनक्षयो +अभिहितः।  
+    
+३३।२२च्द्। ब्रह्म^आयतने विप्रान् विनिहन्याद् गोमिनो गोष्ठे॥  
+    
+३३।२३अब्। क्ष्वेडा^आस्फोटित^वादित^गीत^उत्कुष्ट^स्वना भवन्ति यदा।  
+    
+३३।२३च्द्। उल्का^निपात^समये भयाय राष्ट्रस्य सनृपस्य॥  
+    
+३३।२४अ यस्याश् चिरं तिष्ठति खे +अनुषङ्गो  
+    
+३३।२४ब् दण्डाकृतिः सा नृपतेर् भयाय।  
+    
+३३।२४च् या च^उह्यते तन्तुधृता^इव खस्था  
+    
+३३।२४द् या वा महेन्द्र^ध्वज^तुल्य^रूपा॥  
+    
+३३।२५अब्। श्रेष्ठिनः प्रतीपगा तिर्यगा *नृपाङ्गनानाम्[क्।नृपाङ्गनाः]।  
+    
+३३।२५च्द्। हन्त्य् अधोमुखी नृपान् ब्राह्मणान् अथ^ऊर्ध्वगा॥  
+    
+३३।२६अब्। *बर्हि[क्।वर्हि]^पुच्छ^रूपिणी लोक^सङ्क्षय^आवहा।  
+    
+३३।२६च्द्। सर्पवत् *प्रसर्पती[क्।प्रसर्पिणी] योषिताम् अनिष्टदा॥  
+    
+३३।२७अब्। हन्ति मण्डला पुरं छत्रवत् पुरोहितम्।  
+    
+३३।२७च्द्। वंश^गुल्मवत् स्थिता राष्ट्र^दोष^कारिणी॥  
+    
+३३।२८अब्। व्याल^सूकर^उपमा विस्फुलिङ्ग^मालिनी।  
+    
+३३।२८च्द्। खण्डशो +अथ वा गता सस्वना च पापदा॥  
+    
+३३।२९अब्। सुरपतिचाप^प्रतिमा राज्यं नभसि विलीना जलदान् हन्ति।  
+    
+३३।२९च्द्। पवन^विलोमा कुटिलं याता न भवति शस्ता विनिवृत्ता वा॥  
+    
+३३।३०अब्। अभिभवति यतः पुरं बलं वा भवति भयं तत एव पार्थिवस्य।  
+    
+३३।३०च्द्। निपतति च यया दिशा प्रदीप्ता जयति रिपून् अचिरात् तया प्रयातः॥
+
+                   ३४ परिवेषलक्षणाध्यायः
+
+३४।०१अब्। सम्मूर्च्छिता रवीन्द्वोः किरणाः पवनेन मण्डलीभूताः।  
+    
+३४।०१च्द्। नानावर्ण^आकृतयस् तन्व् अभ्रे व्योम्नि परिवेषाः॥  
+    
+३४।०२अब्। ते रक्त^नील^पाण्डुर^कापोत^अभ्राभ^शबल^*हरित[क्।हरि]^शुक्लाः।  
+    
+३४।०२च्द्। इन्द्र^यम^वरुण^निरृति^श्वसन^ईश^पितामह^*अम्बु[क्।अग्नि]कृताः॥  
+    
+३४।०३अब्। धनदः करोति मेचकम् अन्योन्य^गुण^आश्रयेण च^अप्य् अन्ये।  
+    
+३४।०३च्द्। प्रविलीयते मुहुर्मुहुर् अल्पफलः सो +अपि वायुकृतः॥  
+    
+३४।०४अब्। चाष^शिखि^रजत^तैल^क्षीर^जलाभः स्वकाल^सम्भूतः।  
+    
+३४।०४च्द्। अविकल^वृत्तः स्निग्धः परिवेषः शिव^सुभिक्ष^करः॥  
+    
+३४।०५अब्। सकल^गगन^अनुचारी नैकाभः क्षतज^सन्निभो रूक्षः।  
+    
+३४।०५च्द्। असकल^शकट^शरासन^शृङ्गाटकवत् स्थितः पापः॥  
+    
+३४।०६अब्। शिखि^गल^समे +अतिवर्ष्णे बहुवर्णे नृप^वधो भयं धूम्रे।  
+    
+३४।०६च्द्। हरिचाप^निभे युद्धान्य् अशोककुसुम^प्रभे च^अपि॥  
+    
+३४।०७अब्। वर्णेन^एकेन यदा बहुलः स्निग्धः क्षुर^अभ्रक^आकीर्णः।  
+    
+३४।०७च्द्। स्व^ऋतौ सद्यो वर्षं करोति पीतश् च दीप्तार्कः॥  
+    
+३४।०८अब्। दीप्त^*मृग^विहङ्ग[क्।विहङ्गमृग]^रुतः कलुषः सन्ध्या^त्रय^उत्थितो +अतिमहान्।  
+    
+३४।०८च्द्। भयकृत् तडिद्^उल्का^आद्यैर् हतो नृपं हन्ति शस्त्रेण॥  
+    
+३४।०९अब्। प्रतिदिनम् अर्क^हिमांश्वोर् अहर्निशं रक्तयोर् नरेन्द्र^वधः।  
+    
+३४।०९च्द्। परिविष्टयोर् अभीक्षणं लग्न^*अस्तमय[क्।अस्तनभः]स्थयोस् तद्वत्॥  
+    
+३४।१०अब्। सेनापतेर् भयकरो द्विमण्डलो न^अतिशस्त्र^कोपकरः।  
+    
+३४।१०च्द्। त्रिप्रभृति शस्त्र^कोपं युवराज^भयं नगररोधम्॥  
+    
+३४।११अब्। वृष्टिस् त्र्यहेण मासेन विग्रहो वा ग्रहेन्दुभनिरोधे।  
+    
+३४।११च्द्। होराजन्माधिपयोर् जन्म^ऋक्षे वां *+अशुभो[क्।वाशुभो ऊ।च अशुभो] राज्ञः॥  
+    
+३४।१२अब्। परिवेषमण्डलगतो रवितनयः क्षुद्रधान्य^नाश^करः।  
+    
+३४।१२च्द्। जनयति च वात^वृष्टिं स्थावर^कृषिकृन् निहन्ता च॥  
+    
+३४।१३अब्। भौमे कुमार^बलपति^सैन्यानां विद्रवो +अग्निशस्त्र^भयम्।  
+    
+३४।१३च्द्। जीवे परिवेषगते पुरोहित^अमात्य^नृप^पीडा॥  
+    
+३४।१४अब्। मन्त्रि^स्थावर^लेखक^परिवृद्धिश् चन्द्रजे सुवृष्टिश् च।  
+    
+३४।१४च्द्। शुक्रे यायि^क्षत्रिय^*राज्ञी[क्।राज्ञां]पीडा प्रियं चान्नम्॥  
+    
+३४।१५अब्। क्षुद्^अनल^मृत्यु^नराधिप^शस्त्रेभ्यो जायते भयं केतौ।  
+    
+३४।१५च्द्। परिविष्टे गर्भ^भयं राहौ व्याधिर् नृप^भयं च॥  
+    
+३४।१६अब्। युद्धानि विजानीयात् परिवेष^अभ्यन्तरे द्वयोर् ग्रहयोः।  
+    
+३४।१६च्द्। दिवसकृतः शशिनो वा क्षुद्^अवृष्टि^भयं त्रिषु प्रोक्तम्॥  
+    
+३४।१७अब्। याति चतुर्षु नरेन्द्रः स^अमात्य^पुरोहितो वशं मृत्योः।  
+    
+३४।१७च्द्। प्रलयम् इव विद्धि जगतः पञ्चादिषु मण्डलस्थेषु॥  
+    
+३४।१८अब्। ताराग्रहस्य कुर्यात् पृथग् एव समुत्थितो नरेन्द्र^वधम्।  
+    
+३४।१८च्द्। नक्षत्राणाम् अथ वा यदि केतोर् न^उदयो भवति॥  
+    
+३४।१९अब्। विप्र^क्षत्रिय^विट्^शूद्रहा भवेत् प्रतिपद्^आदिषु क्रमशः।  
+    
+३४।१९च्द्। श्रेणी^पुर^कोशानां पञ्चम्य्^आदिष्व् अशुभकारी॥  
+    
+३४।२०अब्। युवराजस्य^अष्टम्यां परतस् त्रिषु पार्थिवस्य दोषकरः॥  
+    
+३४।२०च्द्। पुर^रोधो द्वादश्यां सैन्य^क्षोभस् त्रयोदश्याम्॥  
+    
+३४।२१अब्। नरपतिपत्नी^पीडां परिवेषो +अभ्युत्थितश् चतुर्दश्याम्।  
+    
+३४।२१च्द्। कुर्यात् तु पञ्चदश्यां पीडां मनुजाधिपस्य^एव॥  
+    
+३४।२२अब्। नागरकाणाम् अभ्यन्तर^स्थिता यायिनां च बाह्यस्था।  
+    
+३४।२२च्द्। परिवेष^मध्य^रेखा विज्ञेया^आक्रन्दसाराणाम्॥  
+    
+३४।२३अब्। रक्तः श्यामो रूक्षश् च भवति येषां पराजयस् तेषाम्।  
+३४।२३च्द्। स्निग्धः श्वेतो द्युतिमान् येषां भागो जयस् तेषाम्॥
+
+                   ३५ इन्द्रायुद्धलक्षणाध्यायः
+
+३५।०१अब्। सूर्यस्य विविधवर्णाः पवनेन विघट्टिताः कराः स^अभ्रे।  
+    
+३५।०१च्द्। वियति धनुः^संस्थाना ये दृश्यन्ते तद् इन्द्रधनुः॥  
+    
+३५।०२अब्। के चिद् अनन्तकुल^उरग^निःश्वास^उद्भूतम् आहुर् आचार्याः।  
+    
+३५।०२च्द्। तद् यायिनां नृपाणाम् अभिमुखम् अजय^आवहं भवति॥  
+    
+३५।०३अब्। अच्छिन्नम् अवनि^गाढं द्युतिमत् स्निग्धं घनं विविधवर्णम्।  
+    
+३५।०३च्द्। द्विर् उदितम् अनुलोमं च प्रशस्तम् अम्भः प्रयच्छति च॥  
+    
+३५।०४अब्। विदिग्^उद्भूतं दिक्^स्वामि^नाशनं व्यभ्रजं मरक^कारि।  
+    
+३५।०४च्द्। पाटल^पीतक^नीलैः शस्त्र^अग्नि^क्षुत्^कृता दोषाः॥  
+    
+३५।०५अब्। जलमध्ये +अनावृष्टिर् भुवि सस्य^वधस् तरौ स्थिते व्याधिः।  
+    
+३५।०५च्द्। *वाल्मीके[क्।वल्मीके] शस्त्र^भयं निशि सचिव^वधाय धनुर् ऐन्द्रम्॥  
+    
+३५।०६अब्। वृष्टिं करोत्य् अवृष्ट्यां वृष्टिं वृष्ट्यां निवारयत्य् ऐन्द्र्याम्।  
+    
+३५।०६च्द्। पश्चात् सदैव वृष्टिं कुलिशभृतश् चापम् आचष्टे॥  
+    
+३५।०७अ चापं मघोनः कुरुते निशायाम्  
+    
+३५।०७ब् आखण्डलायां दिशि भूपपीडाम्।  
+    
+३५।०७च् याम्य^अपर^उदक्^प्रभवं निहन्यात्  
+    
+३५।०७द् सेनापतिं नायक^मन्त्रिणौ च॥  
+    
+३५।०८अब्। निशि सुरचापं सित^वर्णाद्यं जनयति पीडां द्विज^पूर्वाणाम्।  
+    
+३५।०८च्द्। भवति च यस्यां दिशि तद् देश्यं नरपति^मुख्यं नचिराद् धन्यात्॥
+
+                   ३६ गन्धर्वनगरलक्षणाध्यायः
+
+३६।०१अब्। उदग्^आदि पुरोहित^नृप^बलपति^युवराज^दोषदं खपुरम्।  
+    
+३६।०१च्द्। सित^रक्त^पीत^कृष्णं विप्र^आदीनाम् अभावाय॥  
+    
+३६।०२अब्। नागर^नृपति^जय^आवहम् उदग्^विदिक्स्थं विवर्ण^नाशाय।  
+    
+३६।०२च्द्। शान्त^आशायां दृष्टं सतोरणं नृपति^विजयाय॥  
+    
+३६।०३अब्। सर्वदिग्^उत्थं सततोथितं च भयदं नरेन्द्र^राष्ट्राणाम्।  
+    
+३६।०३च्द्। चौर^अटविकान् हन्याद् धूम^अनल^शक्रचाप^आभम्॥  
+    
+३६।०४अब्। गन्धर्वनगरम् उत्थितम् आपाण्डुरम् अशनिपात^वात^करम्।  
+    
+३६।०४च्द्। दीप्ते नरेन्द्र^मृत्युर् वामे +अरिभयं जयः सव्ये॥  
+    
+३६।०५अब्। अनेकवर्ण^आकृति खे प्रकाशते पुरं पताका^ध्वज^तोरण^अन्वितम्।  
+    
+३६।०५च्द्। यदा तदा नाग^मनुष्य^वाजिनां पिबत्य् असृग् भूरि रणे वसुन्धरा॥
+
+                   ३७ प्रतिसूर्यलक्षणाध्यायः
+
+३७।०१अब्। प्रतिसूर्यकः प्रशस्तो दिवसकृद्^ऋतु^वर्ण^सप्रभः स्निग्धः।  
+    
+३७।०१च्द्। वैदूर्य^निभः स्वच्छः शुक्लश् च क्षेम^सौभिक्षः॥  
+    
+३७।०२अब्। पीतो व्याधिं जनयत्य् अशोकरूपश् च शस्त्र^कोपाय।  
+    
+३७।०२च्द्। प्रतिसूर्याणां माला दस्यु^भय^आतङ्क^नृप^हन्त्री॥  
+    
+३७।०३अब्। दिवसकृतः प्रतिसूर्यो जलकृद्^उदग्^दक्षिणे स्थितो +अनिलकृत्।  
+    
+३७।०३च्द्। उभयस्थः सलिलभयं नृपम् उपरि निहन्त्य् अधो जनहा॥
+
+                   [क्।छप्। ३८ रजोलक्षणम् इन्सेर्तेद्
+
+क्।३८।०१अब्। कथयन्ति पार्थिववधं रजसा घन^तिमिर^सञ्चय^निभेन।  
+    
+क्।३८।०१च्द्। अविभाव्यमान^गिरि^पुर^तरवः सर्वा दिशश् छन्नाः॥  
+    
+क्।३८।०२अब्। यस्याम् दिशि धूमचयः प्राक् प्रभवति नाशमेति वा यस्याम्।  
+    
+क्।३८।०२च्द्। आगच्छति सप्ताहात् तत्र एव भयं न सन्देहः॥  
+    
+क्।३८।०३अब्। श्वेते रजोघनौघे पीडा स्यान् मन्त्रिजनपदानां च।  
+    
+क्।३८।०३च्द्। नचिरात् प्रकोपम् उपयाति शस्त्रम् अतिसङ्कुला सिद्धिः॥  
+    
+क्।३८।०४अब्। अर्कोदये विजृम्भति यदि दिनम् एकं दिनद्वयं वा^अपि।  
+    
+क्।३८।०४च्द्। स्थगयन्न् इव गगन^तलं भयम् अत्युग्रं निवेदयति॥  
+    
+क्।३८।०५अब्। अनवरतसञ्चयवहं रजनीम् एकां प्रधाननृप^हन्तृ।  
+    
+क्।३८।०५च्द्। क्षेमाय च शेषाणां विचक्षणानां नरेन्द्राणाम्॥  
+    
+क्।३८।०६अब्। रजनीद्वयं विसर्पति यस्मिन् राष्ट्रे रजोघनं बहुलम्।  
+    
+क्।३८।०६च्द्। परचक्रस्य आगमनं तस्मिन्न् अपि सन्निबोद्धव्यम्॥  
+    
+क्।३८।०७अब्। निपतति रजनीत्रितयं चतुष्कम् अप्य् अन्नरसविनाशाय।  
+    
+क्।३८।०७च्द्। राज्ञां सैन्यक्षोभो रजसि भवेत् पञ्चरात्रभवे॥  
+    
+क्।३८।०८अब्। केत्वाद्युदयविमुक्तं यदा रजो भवति तीव्रभयदायि।  
+    
+क्।३८।०८च्द्। शिशिराद् अन्यत्रर्तौ फलम् अविकलम् आहु आचार्याः॥]
+
+                   ३८ निर्घातलक्षणाध्यायः
+
+३८।०१अब्। पवनः पवन^अभिहतो गगनाद् अवनौ यदा समापतति।  
+    
+३८।०१च्द्। भवति तदा निर्घातः स च पापो दीप्त^विहग^रुतः॥  
+    
+३८।०२अब्। अर्क^उदये +अधिकरणिक^नृप^धनि^योध^अङ्गना^वणिग्^वेश्याः।  
+    
+३८।०२च्द्। आप्रहरांशे +अज^आविकम् उपहन्यात्^शूद्रपौरांश् च॥  
+    
+३८।०३अब्। आमध्य^अह्नाद् राज^उपसेविनो ब्राह्मणांश् च पीडयति।  
+    
+३८।०३च्द्। वैश्य^जलदांस् तृतीये चौरान् प्रहरे चतुर्थे तु॥  
+    
+३८।०४अब्। अस्तं याते नीचान् प्रथमे यामे निहन्ति सस्यानि।  
+    
+३८।०४च्द्। रात्रौ द्वितीय^यामे पिशाच^सङ्घान् निपीडयति॥  
+    
+३८।०५अब्। तुरग^करिणस् तृतीये विनिहन्याद् यायिनश् चतुर्थे च।  
+    
+३८।०५च्द्। भैरव^जर्जरशब्दो याति यतस् तां दिशं हन्ति॥
+
+                   ३९ सस्यजातकाध्यायः
+
+३९।०१अब्। वृश्चिक^वृष^प्रवेशे भानोर् ये बादरायणेन^उक्ताः।  
+    
+३९।०१च्द्। ग्रीष्म^शरत्^सस्यानां सद्^असद्^योगाः कृतास् त इमे॥  
+    
+३९।०२अब्। भानोर् अलिप्रवेशे केन्द्रैस् तस्मात्^शुभग्रह^आक्रान्तैः।  
+    
+३९।०२च्द्। बलवद्भिः सौम्यैर् वा *निरीक्षिते[क्।निरीक्षितैर्] ग्रैष्मिक^विवृद्धिः॥  
+    
+३९।०३अब्। अष्टमराशिगते +अर्के गुरुशशिनोः कुम्भ^सिंह^*संस्थितयोः[क्।स्थितयोः]।  
+    
+३९।०३च्द्। सिंह^घट^संस्थयोर् वा निष्पत्तिर् ग्रीष्म^सस्यस्य॥  
+    
+३९।०४अब्। अर्कात् सिते द्वितीये बुधे +अथ वा युगपद् एव वा स्थितयोः।  
+    
+३९।०४च्द्। व्ययगतयोर् अपि तद्वन् निष्पत्तिर् अतीव गुरुदृष्ट्या॥  
+    
+३९।०५अब्। शुभमध्ये +अलिनि सूर्याद् गुरुशशिनोः सप्तमे परा सम्पत्।  
+    
+३९।०५च्द्। अल्य्^आदिस्थे सवितरि गुरौ द्वितीये +अर्धनिष्पत्तिः॥  
+    
+३९।०६अब्। लाभ^हिबुक^अर्थ^युक्तैः सूर्याद् अलिगात् सित^इन्दु^शशिपुत्रैः।  
+    
+३९।०६च्द्। सस्यस्य परा सम्पत् कर्मणि जीवे गवां च^अग्र्या॥  
+    
+३९।०७अब्। कुम्भे गुरुर् गवि शशी सूर्यो +अलिमुखे कुज^अर्कजौ मकरे।  
+    
+३९।०७च्द्। निष्पत्तिर् अस्ति महती पश्चात् परचक्र^भय^रोगम्॥  
+    
+३९।०८अब्। मध्ये पापग्रहयोः सूर्यः सस्यं विनाशयत्य् अलिगः।  
+    
+३९।०८च्द्। पापः सप्तमराशौ जातं जातं विनाशयति॥  
+    
+३९।०९अब्। अर्थस्थाने क्रूरः सौम्यैर् अनिरीक्षितः प्रथमजातम्।  
+    
+३९।०९च्द्। सस्यं निहन्ति पश्चाद् उप्तं निष्पादयेद् व्यक्तम्॥  
+    
+३९।१०अब्। जामित्र^केन्द्र^संस्थौ क्रूरौ सूर्यस्य वृश्चिक^स्थस्य।  
+    
+३९।१०च्द्। सस्य^विपत्तिं कुरुतः सौम्यैर् दृष्टौ न सर्वत्र॥  
+    
+३९।११अब्। वृश्चिक^संस्थाद् अर्कात् सप्तम^षष्ठ^उपगौ यदा क्रूरौ।  
+    
+३९।११च्द्। भवति तदा निष्पत्तिः सस्यानाम् अर्घ^परिहानिः॥  
+    
+३९।१२अब्। विधिना^अनेन^एव रविर् वृष^प्रवेशे शरत्^समुत्थानाम्।  
+    
+३९।१२च्द्। विज्ञेयः सस्यानां नाशाय शिवाय वा तज्ज्ञैः॥  
+    
+३९।१३अब्। त्रिषु मेष^आदिषु सूर्यः सौम्ययुतो वीक्षितो +अपि वा विचरन्।  
+    
+३९।१३च्द्। *ग्रैष्मिक[क्।ग्रष्मिक]धान्यं कुरुते *समर्घम्[क्।समर्थम्] अभय^उपयोग्यं च॥  
+    
+३९।१४अब्। कार्मुक^मृग^घट^संस्थः *शारद^सस्यस्य[क्।शारदस्य] तद्वद् एव रविः।  
+    
+३९।१४च्द्। सङ्ग्रहकाले ज्ञेयो विपर्ययः क्रूरदृग्^*योगात्[क्।यागात्]॥
+
+                   ४० द्रव्यनिश्चयाध्यायः
+
+४०।०१अब्। ये येषां द्रव्याणाम् अधिपतयो राशयः समुद्दिष्टाः।  
+    
+४०।०१च्द्। मुनिभिः शुभाशुभार्थं तान् आगमतः प्रवक्ष्यामि॥  
+    
+४०।०२अब्। वस्त्र^आविक^कुतुपानां मसूर^गोधूम^रालक^यवानाम्।  
+    
+४०।०२च्द्। स्थल^सम्भव^ओषधीनां कनकस्य च कीर्तितो मेषः॥  
+    
+४०।०३अब्। गवि वस्त्र^कुसुम^गोधूम^शालि^यव^महिष^सुरभितनयाः स्युः।  
+    
+४०।०३च्द्। मिथुने +अपि धान्य^शारद^वल्ली^शालूक^कार्पासाः॥  
+    
+४०।०४अब्। कर्किणि कोद्रव^कदली^दूर्वा^फल^कन्द^पत्र^चोचानि।  
+    
+४०।०४च्द्। सिंहे तुषधान्य^रसाः सिंह^आदीनां त्वचः सगुडाः॥  
+    
+४०।०५अब्। षष्ठे +अतसी^कलायाः कुलत्थ^गोधूम^मुद्ग^निष्पावाः।  
+    
+४०।०५च्द्। सप्तमराशौ माषा *यव^गोधूमाः ससर्षपाश् च^एव[क्।गोधूमाः सर्षपाः सयवाः]॥  
+    
+४०।०६अब्। अष्टमराशाव् इक्षुः सैक्यं लोहान्य् अज^आविकं च^अपि।  
+    
+४०।०६च्द्। नवमे तु तुरग^लवण^अम्बर^अस्त्र^तिल^धान्य^मूलानि॥  
+    
+४०।०७अब्। मकरे तरु^गुल्म^आद्यं सैक्य^इक्षु^सुवर्ण^कृष्णलोहानि।  
+    
+४०।०७च्द्। कुम्भे सलिलज^फल^कुसुम^रत्न^चित्राणि रूपाणि॥  
+    
+४०।०८अब्। मीने कपाल^सम्भव^रत्नान्य् अम्बु^उद्भवानि वज्राणि।  
+    
+४०।०८च्द्। स्नेहाश् च नैकरूपा व्याख्याता मत्स्यजातं च॥  
+    
+४०।०९अब्। राशेश् चतुर्^दश^अर्थ^अय^सप्त^नव^पञ्चमस्थितो जीवः।  
+    
+४०।०९च्द्। द्व्य्^एकादश^दश^पञ्च^अष्टमेषु शशिजश् च वृद्धिकरः॥  
+    
+४०।१०अब्। षट्^सप्तमगो हानिं वृद्धिं शुक्रः करोति शेषेषु।  
+    
+४०।१०च्द्। उपचय^संस्थाः क्रूराः शुभदाः शेषेषु हानिकराः॥  
+    
+४०।११अब्। राशेर् यस्य क्रूराः पीडास्थानेषु संस्थिता बलिनः।  
+    
+४०।११च्द्। तत्प्रोक्त^द्रव्याणां महार्घता दुर्लभत्वं च॥  
+    
+४०।१२अब्। इष्टस्थाने सौम्या बलिनो येषां भवन्ति राशीनाम्।  
+    
+४०।१२च्द्। तद्द्रव्याणां वृद्धिः *सामर्घ्यं वल्लभत्वं च[क्।सामर्थयमदुर्लभत्वं च]॥  
+    
+४०।१३अब्। गोचर^पीडायाम् अपि राशिर् बलिभिः शुभग्रहैर् दृष्टः।  
+    
+४०।१३च्द्। पीडां न करोति तथा क्रूरैर् एवं विपर्यासः॥
+
+                   ४१ अर्घकाण्डाध्यायः
+
+४१।०१अब्। अतिवृष्ट्य्^उल्का^दण्डान् परिवेष^ग्रहण^परिधि^पूर्वांश् च।  
+    
+४१।०१च्द्। दृष्ट्वा^अमावास्यायाम् उत्पातान् *पौर्णमास्यां[क्।पूर्णमास्याम्] च॥  
+    
+४१।०२अब्। ब्रूयाद् अर्घविशेषान् प्रतिमासं राशिषु क्रमात् सूर्ये।  
+    
+४१।०२च्द्। अन्यतिथाव् उत्पाता ये ते डमरार्तये राज्ञाम्॥  
+    
+४१।०३अब्। मेष^उपगते सूर्ये ग्रीष्मज^धान्यस्य सङ्ग्रहं *कृत्वा[क्।कुर्यात्]।  
+    
+४१।०३च्द्। वन^मूल^फलस्य वृषे चतुर्थमासे तयोर् लाभः॥  
+    
+४१।०४अब्। मिथुनस्थे सर्वरसान् धान्यानि च सङ्ग्रहं समुपनीय।  
+    
+४१।०४च्द्। षष्ठे मासे विपुलं *विक्रेता[क्।विक्रीणन्] प्राप्नुयाल् लाभम्॥  
+    
+४१।०५अब्। कर्किण्य् अर्के मधु^गन्ध^तैल^घृत^फाणितानि विनिधाय।  
+    
+४१।०५च्द्। द्विगुणा द्वितीयमासे लब्धिर् हीन^अधिके छेदः॥  
+    
+४१।०६अब्। सिंहे सुवर्ण^मणि^चर्म^वर्म^शस्त्राणि मौक्तिकं रजतम्।  
+    
+४१।०६च्द्। पञ्चममासे लब्धिर् विक्रेतुर् अतो +अन्यथा छेदः॥  
+    
+४१।०७अब्। कन्यागते दिनकरे चामर^खर^करभ^वाजिनां क्रेता।  
+    
+४१।०७च्द्। षष्ठे मासे द्विगुणं लाभम् अवाप्नोति विक्रीणन्॥  
+    
+४१।०८अब्। तौलिनि तान्तव^भाण्डं मणि^कम्बल^काच^पीतकुसुमानि।  
+    
+४१।०८च्द्। आदद्याद् धान्यानि च *वर्षार्धाद्[क्।षण्मासाद्] द्विगुणिता वृद्धिः॥  
+    
+४१।०९अब्। वृश्चिक^संस्थे सवितरि फल^कन्दक^मूल^विविध^रत्नानि।  
+    
+४१।०९च्द्। वर्षद्वयम् उषितानि द्विगुणं लाभं प्रयच्छन्ति॥  
+    
+४१।१०अब्। चापगते गृह्णीयात् *कुङ्कुम[क्।कुङ्कम]^शङ्ख^प्रवाल^काचानि।  
+    
+४१।१०च्द्। मुक्ताफलानि च ततो वर्षार्धाद् द्विगुणतां यान्ति॥  
+    
+४१।११अब्। *मृग^घट^संस्थे सवितरि गृह्णीयाल्[क्।मृगधटगे गृह्णीयाद् दिवाकरे] लोहभाण्ड^धान्यानि।  
+    
+४१।११च्द्। स्थित्वा मासं दद्याल् लाभार्थी द्विगुणम् आप्नोति॥  
+    
+४१।१२अब्। सवितरि झषम् उपयाते मूल^फलं कन्द^भाण्ड^रत्नानि।  
+    
+४१।१२च्द्। संस्थाप्य वत्सरार्धं लाभकम् इष्टं समाप्नोति॥  
+    
+४१।१३अब्। राशौ राशौ यस्मिन् शिशिरमयूखः सहस्रकिरणो वा।  
+    
+४१।१३च्द्। युक्तो +अधिमित्रदृष्टस् तत्र^अयं लाभको दिष्टः॥  
+    
+४१।१४अ सवितृ^सहितः सम्पूर्णो वा शुभैर् युतवीक्षितः  
+    
+४१।१४ब् शिशिरकिरणः सद्यो +अर्घस्य प्रवृद्धिकरः स्मृतः।  
+    
+४१।१४च् अशुभसहितः सन्दृष्टो वा हिनस्त्य् अथ वा रविः  
+    
+४१।१४द् प्रतिगृहगतान् भावान् बुद्ध्वा वदेत् सदसत्फलम्॥
+
+                   ४२ इन्द्रध्वजसम्पदध्यायः
+
+४२।०१अब्। ब्रह्माणम् ऊचुर् अमरा भगवन् शक्ताः स्म नासुरान् समरे।  
+    
+४२।०१च्द्। प्रतियोधयितुम् अतस् त्वां शरण्यशरणं समुपयाताः॥  
+    
+४२।०२अब्। देवान् उवाच भगवान् क्षीरोदे केशवः स वः केतुम्।  
+    
+४२।०२च्द्। यं दास्यति तं दृष्ट्वा न^आजौ स्थास्यन्ति वो दैत्याः॥  
+    
+४२।०३अब्। लब्धवराः क्षीरोदं गत्वा ते तुष्टुवुः सुराः स^इन्द्राः।  
+    
+४२।०३च्द्। श्रीवत्स^अङ्कं कौस्तुभ^मणि^किरन^उद्भासित^उरस्कम्॥  
+    
+४२।०४अब्। श्रीपतिम् अचिन्त्यम् असमं *समं ततः[क्।समन्ततः] सर्वदेहिनां सूक्ष्मम्।  
+    
+४२।०४च्द्। परमात्मानम् अनादिं विष्णुम् अविज्ञात^पर्यन्तम्॥  
+    
+४२।०५अब्। तैः संस्तुतः स देवस् तुतोष नारायणो ददौ चैषाम्।  
+    
+४२।०५च्द्। ध्वजम् असुर^सुर^वधू^मुख^कमल^वन^तुषार^तीक्ष्णांशुम्॥  
+    
+४२।०६अब्। तं विष्णु^तेजो^भवम् अष्टचक्रे रथे स्थितं भास्वति रत्नचित्रे।  
+    
+४२।०६च्द्। देदीप्यमानं शरदि^इव सूर्यं ध्वजं समासाद्य मुमोद शक्रः॥  
+४२।०७अब्। स किङ्किणी^जाल^*परिष्कृतेन[क्।परिस्कृतेन] स्रक्^छत्र^घण्टा^पिटका^अन्वितेन।  
+    
+४२।०७च्द्। समुच्छ्रितेन^अमरराड्^ध्वजेन निन्ये विनाशं समरे +अरिसैन्यम्॥  
+    
+४२।०८अब्। उपरिचरस्य^अमरपो वसोर् ददौ चेदिपस्य वेणुमयीम्।  
+    
+४२।०८च्द्। यष्टिं तां स नरेन्द्रो विधिवत् सम्पूजयाम् आस॥  
+    
+४२।०९अब्। प्रीतो महेन *मघवा[क्।मघवान्] प्राह^एवं ये नृपाः करिष्यन्ति।  
+    
+४२।०९च्द्। वसुवद्^वसुमन्तस् ते भुवि सिद्धाज्ञा भविष्यन्ति॥  
+    
+४२।१०अब्। मुदिताः प्रजाश् च तेषां भयरोग^विवर्जिताः प्रभूतान्नाः।  
+    
+४२।१०च्द्। ध्वज^एव च^अभिधास्यति जगति निमित्तैः फलं सदसत्॥  
+    
+४२।११अब्। पूजा तस्य नरेन्द्रैर् बल^वृद्धि^जय^अर्थिभिर् यथा पूर्वम्।  
+    
+४२।११च्द्। शक्राज्ञया प्रयुक्ता ताम् आगमतः प्रवक्ष्यामि॥  
+    
+४२।१२अब्। तस्य विधानं शुभ^करण^दिवस^नक्षत्र^मङ्गल^मुहूर्तैः।  
+    
+४२।१२च्द्। प्रास्थानिकैर् वनम् इयाद् दैवज्ञः सूत्रधारश् च॥  
+    
+४२।१३अब्। उद्यान^देवतालय^पितृवन^वल्मीक^मार्ग^चितिजाताः।  
+    
+४२।१३च्द्। कुब्ज^ऊर्ध्वशुष्क^कण्टकि^वल्ली^वन्दाक^युक्ताश् च॥  
+    
+४२।१४अब्। बहु^विहगालय^कोटर^पवन^अनल^पीडिताश् च ये तरवः।  
+    
+४२।१४च्द्। ये च स्युः स्त्रीसञ्ज्ञा न ते शुभाः शक्रकेत्वर्थे॥  
+    
+४२।१५अब्। श्रेष्ठो +अर्जुनो *+अजकर्णः[क्।अश्वकमः] प्रियक^धव^उदुम्बराश् च पञ्चैते।  
+    
+४२।१५च्द्। एतेषाम् *एकतमं[क्।अन्यतमम्] प्रशस्तम् अथ वा^अपरं वृक्षम्॥  
+    
+४२।१६अब्। गौर^असित^क्षिति^भवं सम्पूज्य यथाविधि द्विजः पूर्वम्।  
+    
+४२।१६च्द्। विजने समेत्य रात्रौ स्पृष्ट्वा ब्रूयाद् इमं मन्त्रम्॥  
+    
+४२।१७अब्। यानीह वृक्षे भूतानि तेभ्यः स्वस्ति नमो +अस्तु वः।  
+    
+४२।१७च्द्। उपहारं गृहीत्वा^इमं क्रियतां वासपर्ययः॥  
+    
+४२।१८अब्। पार्थिवस् त्वां वरयते स्वस्ति ते +अस्तु नगोत्तम।  
+    
+४२।१८च्द्। ध्वजार्थं देवराजस्य पूजा^इयं प्रतिगृह्यताम्॥  
+    
+४२।१९अब्। छिन्द्यात् प्रभातसमये वृक्षम् उदक् प्राङ्मुखो +अपि वा भूत्वा।  
+    
+४२।१९च्द्। परशोर् जर्जरशब्दो न^इष्टः स्निग्धो घनश् च हितः॥  
+    
+४२।२०अब्। नृप^जयदम् अविध्वंस्तं पतनम् अनाकुञ्चितं च पूर्वोदक्।  
+    
+४२।२०च्द्। अविलग्नं च^अन्यतरौ विपरीतम् अतस् त्यजेत् पतितम्॥  
+    
+४२।२१अब्। छित्त्वाग्रे चतुर्^अङ्गुलम् अष्टौ मूले जले क्षिपेद् यष्टिम्।  
+    
+४२।२१च्द्। उद्धृत्य पुरद्वारं शकटेन नयेन् मनुष्यैर् वा॥  
+    
+४२।२२अब्। अरभङ्गे बलभेदो नेम्या नाशो बलस्य विज्ञेयः।  
+    
+४२।२२च्द्। अर्थक्षयो +अक्ष^भङ्गे तथा^अणिभङ्गे च वर्द्धकिनः॥  
+    
+४२।२३अब्। भाद्रपद^शुक्ल^पक्षस्य^अष्टम्यां नागरैर् वृतो राजा।  
+    
+४२।२३च्द्। दैवज्ञ^सचिव^कञ्चुकि^विप्रप्रमुखैः सुवेषधरैः॥  
+    
+४२।२४अब्। अहत^अम्बर^संवीतां यष्टिं पौरन्दरीं पुरं पौरैः।  
+    
+४२।२४च्द्। स्रग्^गन्ध^धूप^युक्तां प्रवेशयेत् शङ्ख^तूर्य^रवैः॥  
+    
+४२।२५अब्। रुचिर^पताका^तोरण^वनमाला^अलङ्कृतं प्रहृष्ट^जनम्।  
+    
+४२।२५च्द्। सम्मार्जित^अर्चित^पथं सुवेष^गणिकाजन^आकीर्णम्॥  
+    
+४२।२६अब्। अभ्यर्चित^आपणगृहं प्रभूत^पुण्याह^वेद^निर्घोषम्।  
+    
+४२।२६च्द्। नट^नर्तक^गेयज्ञैर् आकीर्ण^चतुष्पथं नगरम्॥  
+    
+४२।२७अब्। तत्र पताकाः श्वेता *भवन्ति विजयाय[क्।विजयाय भवन्ति] रोगदाः पीताः।  
+    
+४२।२७च्द्। जयदाश् च चित्ररूपा रक्ताः शस्त्र^प्रकोपाय॥  
+    
+४२।२८अब्। यष्टिं प्रवेशयन्तीं निपातयन्तो भयाय नागाद्याः।  
+    
+४२।२८च्द्। बालानां तलशब्दे सङ्ग्रामः सत्त्व^युद्धे वा॥  
+    
+४२।२९अब्। सन्तक्ष्य पुनस् तक्षा विधिवद् यष्टिं प्ररोपयेद् यन्त्रे।  
+    
+४२।२९च्द्। जागरम् एकादश्यां नरेश्वरः कारयेच् चास्याम्॥  
+    
+४२।३०अब्। सित^वस्त्र^उष्णीषधरः पुरोहितः शाक्र^वैष्णवैर् मन्त्रैः।  
+    
+४२।३०च्द्। जुहुयाद् अग्निं साम्वत्सरो निमित्तानि गृह्णीयात्॥  
+    
+४२।३१अब्। इष्ट^द्रव्य^आकारः सुरभिः स्निग्धो घनो +अनलो +अर्चिष्मान्।  
+    
+४२।३१च्द्। शुभकृद् अतो +अन्यो *+अनिष्टो[क्।नेष्टो] यात्रायां विस्तरो +अभिहितः॥  
+    
+४२।३२अ स्वाहावसानसमये स्वयम् उज्ज्वलार्चिः  
+    
+४२।३२ब् स्निग्धः प्रदक्षिण^शिखो हुतभुग् नृपस्य।  
+    
+४२।३२च् गङ्गा^दिवाकरसुता^जल^चारुहारां  
+    
+४२।३२द् धात्रीं *समुद्र^रशनां[क्।समुद्ररसनाम्] वशगां करोति॥  
+    
+४२।३३अ चामीकर^अशोक^कुरण्टक^अब्ज^  
+    
+४२।३३ब् वैदूर्य^नीलोत्पल^सन्निभे +अग्नौ।  
+    
+४२।३३च् न ध्वान्तम् अन्तर्भवने +अवकाशं  
+    
+४२।३३द् करोति रत्न^अंशु^हतं नृपस्य॥  
+    
+४२।३४अ येषां रथौघ^अर्णव^मेघ^दन्तिनां  
+    
+४२।३४ब् समस्वनो +अग्निर् यदि वा^अपि दुन्दुभेः।  
+    
+४२।३४च् तेषां मदान्ध^इभ^घट^अवघट्टिता  
+    
+४२।३४द् भवन्ति याने तिमिर^उपमा दिशः॥  
+    
+४२।३५अब्। ध्वज^कुम्भ^हय^इभ^भूभृताम् अनुरूपे वशम् एति भूभृताम्।  
+    
+४२।३५च्द्। उदय^अस्त^धराधरा +अधरा हिमवद्^विन्ध्य^पयोधरा धरा॥  
+    
+४२।३६अब्। द्विरद^मद^मही^सरोज^लाजा[क्।लाजैः]^घृत^मधुना च हुताशने सगन्धे।  
+    
+४२।३६च्द्। प्रणत^नृप^शिरोमणि^प्रभाभिर् भवति पुरश्^छुरितेव भूर् नृपस्य॥  
+    
+४२।३७अब्। उक्तं यद् उत्तिष्ठति शक्रकेतौ शुभ^अशुभं सप्तमरीचिरूपैः।  
+    
+४२।३७च्द्। तज्जन्म^यज्ञ^ग्रहशान्ति^यात्रा^विवाह^कालेष्व् अपि चिन्तनीयम्॥  
+    
+४२।३८अब्। गुड^पूप^पायस^आद्यैर् विप्रान् अभ्यर्च्य दक्षिणाभिश् च।  
+    
+४२।३८च्द्। श्रवणेन द्वादश्याम् उत्थाप्यो +अन्यत्र वा श्रवणात्॥  
+    
+४२।३९अब्। शक्र^कुमार्यः कार्याः प्राह मनुः सप्त पञ्च वा तज्ज्ञैः।  
+    
+४२।३९च्द्। नन्द^उपनन्द^सञ्ज्ञे *पाद^ऊन^अर्धे ध्वज^उच्छ्रायात्[क्।पादेनार्धेन चोच्छ्रायात्]॥  
+    
+४२।४०अब्। षोडशभाग^अभ्यधिके जयविजये द्वे वसुन्धरे च^अन्ये।  
+४२।४०च्द्। अधिका शक्रजनित्री मध्ये +अष्टांशेन च^एतासाम्॥  
+    
+४२।४१अब्। प्रीतैः कृतानि विबुधैर् यानि पुरा भूषणानि सुरकेतोः।  
+    
+४२।४१च्द्। तानि क्रमेण दद्यात् पिटकानि विचित्ररूपाणि॥  
+    
+४२।४२अब्। रक्त^अशोक^निकाशं *चतुरस्रं[क्।चतुरश्रम्] विश्वकर्मणा प्रथमम्।  
+    
+४२।४२च्द्। *रशना[क्।रसना] स्वयम्भुवा शङ्करेण *च^अनेकवर्णगा दत्ता[क्।चानेकवर्णधरी]॥  
+    
+४२।४३अब्। अष्टाश्रि नीलरक्तं तृतीयम् इन्द्रेण भूषणं दत्तम्।  
+    
+४२।४३च्द्। असितं यमश् चतुर्थं मसूरकं कान्तिमद् अयच्छत्॥  
+    
+४२।४४अब्। मञ्जिष्ठाभं वरुणः षडश्रि तत्पञ्चमं जलोर्मिनिभम्।  
+    
+४२।४४च्द्। मयूरं केयूरं षष्ठं वायुर् जलदनीलम्॥  
+    
+४२।४५अब्। स्कन्धः स्वं केयूरं सप्तमम् अददद् ध्वजाय बहुचित्रम्।  
+    
+४२।४५च्द्। अष्टमम् अनल^ज्वाला^सङ्काशं हव्यभुग्^*वृत्तम्[क्।दत्तम्]॥  
+    
+४२।४६अब्। वैदूर्य^सदृशम् *इन्द्रो[क्।इन्दुर्] नवमं ग्रैवेयकं ददाव् अन्यत्।  
+    
+४२।४६च्द्। रथचक्राभं दशमं सूर्यस् त्वष्टा प्रभायुक्तम्॥  
+    
+४२।४७अब्। एकादशम् उद्वंशं विश्वेदेवाः सरोजसङ्काशम्।  
+    
+४२।४७च्द्। द्वादशम् अपि च *निवेशम् ऋषयो[क्।निवंशं मुनयो] नीलोत्पलाभासम्॥  
+    
+४२।४८अब्। किञ् चिद् अधऊर्ध्व^*निर्मितम्[क्।निर्नतम्] उपरि विशालं त्रयोदशं केतोः।  
+    
+४२।४८च्द्। शिरसि बृहस्पति^शुक्रौ लाक्षारससन्निभं ददतुः॥  
+    
+४२।४९अब्। यद्य् यद् येन *विभूषणम्[क्।विनिर्मितम्] अमरेण विनिर्मितं[क्।विभूषणम्] ध्वजस्य^अर्थे।  
+    
+४२।४९च्द्। तत्तत् तद्दैवत्यं विज्ञातव्यं विपश्चिद्भिः॥  
+    
+४२।५०अब्। ध्वज^परिमाण^त्र्यंशः परिधिः प्रथमस्य भवति पिटकस्य।  
+    
+४२।५०च्द्। परतः प्रथमात् प्रथमाद् अष्टांशाष्टांशहीनानि॥  
+    
+४२।५१अब्। कुर्याद् अहनि चतुर्थे पूरणम् इन्द्रध्वजस्य शास्त्रज्ञः।  
+    
+४२।५१च्द्। मनुना च^आगमगीतान् मन्त्रान् एतान् पठेन् नियतः॥  
+    
+४२।५२अब्। हर^अर्क^वैवस्वत^शक्र^सोमैर् धनेश^वैश्वानर^पाशभृद्भिः।  
+    
+४२।५२च्द्। महर्षि^सङ्घैः सदिग्^अप्सरोभिः शुक्र^अङ्गिरः^स्कन्द^मरुद्गणैश् च॥  
+    
+४२।५३अब्। यथा त्वम् ऊर्जस्करण^एकरूपैः समर्चितस् त्व् आभरणैर् उदारैः।  
+    
+४२।५३च्द्। तथेह तान्य् आभरणानि *यागे[क्।देव] शुभानि सम्प्रीतमना गृहाण॥  
+    
+४२।५४अब्। अजो +अव्ययः शाश्वत एकरूपो विष्णुर् वराहः पुरुषः पुराणः।  
+    
+४२।५४च्द्। त्वम् अन्तकः सर्वहरः कृशानुः *सहस्रशीर्षः[क्।सहस्रशीर्शा] शतमन्युर् ईड्यः॥  
+    
+४२।५५अब्। कविं सप्तजिह्वं त्रातारम् इन्द्रं *स्ववितारं[क्।अवितारम्] सुरेशम्।  
+    
+४२।५५च्द्। ह्वयामि शक्रं वृत्रहणं सुषेणम् अस्माकं वीरा *उत्तरा[क्।उत्तरे] भवन्तु॥  
+    
+४२।५६अब्। प्रपूरणे च^उच्छ्रयणे प्रवेशे स्नाने तथा माल्यविधौ विसर्गे।  
+    
+४२।५६च्द्। पठेद् इमान् नृपतिः सोपवासो मन्त्रान् शुभान् पुरुहूतस्य केतोः॥  
+    
+४२।५७अब्। क्षत्र[क्।ऊ।छत्र]^ध्वज^आदर्श^फल^अर्ध^चन्द्रैर् विचित्रमाला^कदली^इक्षुदण्डैः।  
+    
+४२।५७च्द्। सव्याल^सिंहैः पिटकैर् गवाक्षैर् अलङ्कृतं दिक्षु च लोकपालैः॥  
+    
+४२।५८अ अच्छिन्न^रज्जुं दृढ^काष्ठ^मातृकं  
+    
+४२।५८ब् सुश्लिष्ट^यन्त्र^अर्गल^पाद^तोरणम्।  
+    
+४२।५८च् उत्थापयेल् लक्ष्म सहस्रचक्षुषः  
+    
+४२।५८द् सारद्रुम^अभग्न^कुमारिक^अन्वितम्॥  
+    
+४२।५९अ अविरत^जन^रावं मङ्गल^आशीः^प्रणामैः।  
+    
+४२।५९ब् पटु^पटह^मृदङ्गैः शङ्ख^भेर्य्^आदिभिश् च।  
+    
+४२।५९च् श्रुति^विहित^वचोभिः पापठद्भिश् च विप्रैर्  
+    
+४२।५९द् अशुभ^*विहत[क्।रहित]^शब्दं केतुम् *उत्थापयेच्[क्।उत्थापयीत] च॥  
+    
+४२।६०अ फल^दधि^घृत^लाजा^क्षौद्र^पुष्प^अग्रहस्तैः  
+    
+४२।६०ब् प्रणिपतित^शिरोभिस् *तुष्टवद्भिश्[क्।तुष्टुवद्भिश्] च पौरैः।  
+    
+४२।६०च् *वृतम्[क्।धृतम्] अनिमिष^भर्तुः केतुम् ईशः प्रजानाम्  
+    
+४२।६०द् अरिनगर^नत^अग्रं कारयेद् द्विड्^*बधाय[क्।वधाय]॥  
+    
+४२।६१अ न^अतिद्रुतं न च विलम्बितम् अप्रकम्पम्  
+    
+४२।६१ब् अध्वस्त^माल्य^पिटक^आदि^विभूषणम् च।  
+    
+४२।६१च् उत्थानम् इष्टम् अशुभं यद् अतो +अन्यथा स्यात्  
+    
+४२।६१द् तच्छान्तिभिर् नरपतेः शमयेत् पुरोधाः॥  
+    
+४२।६२अ क्रव्याद^कौशिक^कपोतक^काक^कङ्कैः  
+    
+४२।६२ब् केतुस्थितैर् महद् उशन्ति भयं नृपस्य।  
+    
+४२।६२च् चाषेण च^अपि युवराजभयं वदन्ति  
+    
+४२।६२द् श्येनो विलोचनभयं निपतन् करोति॥  
+    
+४२।६३अ छत्र^भङ्ग^पतने नृप^मृत्युस्  
+    
+४२।६३ब् तस्करान् मधु करोति निलीनम्।  
+    
+४२।६३च् हन्ति च^अप्य् अथ पुरोहितम् उल्का  
+    
+४२।६३द् पार्थिवस्य महिषीम् अशनिश् च॥  
+    
+४२।६४अ राज्ञीविनाशं पतिता पताका  
+    
+४२।६४ब् करोत्य् अवृष्टिं पिटकस्य पातः।  
+    
+४२।६४च् मध्य^अग्र^मूलेषु च केतुभङ्गो  
+    
+४२।६४द् निहन्ति मन्त्रि^क्षितिपाल^पौरान्॥  
+    
+४२।६५अ धूम^आवृते शिखि^भयं तमसा च मोहो  
+    
+४२।६५ब् व्यालैश् च भग्न^पतितैर् न भवत्य् अमात्याः।  
+    
+४२।६५च् ग्लायन्त्य् उदक्प्रभृति च क्रमशो *द्विजाद्यान्[क्।द्विजाद्या]  
+    
+४२।६५द् भङ्गे तु बन्धकि^*बधः[क्।वधः] कथितः कुमार्याः॥  
+    
+४२।६६अ रज्जु^उत्सङ्ग^च्छेदने बाल^पीडा  
+    
+४२।६६ब् राज्ञो मातुः पीडनं मातृकायाः।  
+    
+४२।६६च् यद्यत् कुर्युश् *चारणा बालका[क्।बालकाश् चारणा] वा  
+    
+४२।६६द् तत्तत् तादृग् भावि पापं शुभं वा॥  
+    
+४२।६७अ दिनचतुष्टयम् उत्थितम् अर्चितं  
+    
+४२।६७ब् समभिपूज्य नृपो +अहनि पञ्चमे।  
+    
+४२।६७च् प्रकृतिभिः सह लक्ष्म विसर्जयेद्  
+    
+४२।६७द् बलभिदः स्वबल^अभिविवृद्धये॥  
+    
+४२।६८अब्। उपरिचर^वसु^प्रवर्तितं नृपतिभिर् अप्य् अनुसन्ततं कृतम्।  
+    
+४२।६८च्द्। विधिम् इमम् अनुमन्य पार्थिवो न रिपुकृतं भयम् आप्नुयाद् इति॥
+
+                   ४३ नीराजनाध्यायः
+
+४३।०१अब्। भगवति जलधर^पक्ष्म^क्षपाकर^अर्क^ईक्षणे कमलनाभे।  
+    
+४३।०१च्द्। उन्मीलयति *तुरङ्ग[क्।तुरङ्गन]करि^नर^नीराजनं कुर्यात्॥  
+    
+४३।०२अब्। द्वादश्याम् अष्टम्यां *कार्तिक[क्।कार्त्तिक]शुक्लस्य पञ्चदश्यां वा।  
+    
+४३।०२च्द्। आश्वयुजे वा कुर्यान् नीराजन^सञ्ज्ञितां शान्तिम्॥  
+    
+४३।०३अब्। नगर^उत्तरपूर्वदिशि प्रशस्तभूमौ प्रशस्तदारुमयम्।  
+    
+४३।०३च्द्। षोडशहस्त^उच्छ्रायं दशविपुलं तोरणं कार्यम्॥।  
+    
+४३।०४अब्। सर्ज^उदुम्बर^*ककुभ^शाखामय[क्।शाखाककुभमयं]^शान्तिसद्म कुशबहुलम्।  
+    
+४३।०४च्द्। वंश^विनिर्मित^मत्स्य^ध्वज^चक्र^अलङ्कृत^द्वारम्॥  
+    
+४३।०५अब्। प्रतिसरया तुरगाणां भल्लातक^शालि^कुष्ठ^सिद्धार्थान्।  
+    
+४३।०५च्द्। कण्ठेषु निबध्नीयात् पुष्ट्यर्थं शान्तिगृहगाणाम्॥  
+    
+४३।०६अब्। रवि^वरुण^विश्वदेव^प्रजेश^पुरुहूत^वैष्णवैर् मन्त्रैः।  
+    
+४३।०६च्द्। सप्ताहं शान्तिगृहे कुर्यात्^शान्तिं तुरङ्गाणाम्॥  
+    
+४३।०७अब्। अभ्यर्चिता न परुषं वक्तव्या नापि ताडनीयास् ते।  
+    
+४३।०७च्द्। पुण्याह^शङ्ख^तूर्य^ध्वनि^गीतरवैर् विमुक्त^भयाः॥  
+    
+४३।०८अब्। प्राप्ते अष्टमे +अह्नि कुर्याद् उदङ्मुखं तोरणस्य दक्षिणतः।  
+    
+४३।०८च्द्। कुश^चीर^आवृतम् आश्रमम् अग्निं पुरतो +अस्य वेद्यां च॥  
+    
+४३।०९अब्। चन्दन^कुष्ठ^समङ्गा^हरिताल^मनःशिला^प्रियङ्गु^वचाः।  
+    
+४३।०९च्द्। दन्त्य्^अमृता^अञ्जन^रजनी^सुवर्णपुष्प्य्^अग्निमन्थाश्[क्।सुवर्णपुष्पाग्निमन्थाश्] च॥  
+    
+४३।१०अब्। श्वेतां सपूर्णकोशां कटम्भरा^त्रायमाण^सहदेवीः।  
+    
+४३।१०च्द्। नागकुसुमं स्वगुप्तां शतावरीं सोमराजीं च॥  
+    
+४३।११अब्। कलशेष्व् *एताः[क्।एतान्] कृत्वा सम्भारान् उपहरेद् *वलिं[क्।ऊ।बलिम्] सम्यक्॥  
+    
+४३।११च्द्। भक्ष्यैर् नानाकारैर् मधु^पायस^यावक^प्रचुरैः॥  
+    
+४३।१२अब्। खदिर^पलाश^उदुम्बर^काश्मर्य्^अश्वत्थ^निर्मिताः समिधः।  
+    
+४३।१२च्द्। स्रुक् कनकाद् रजताद् वा कर्तव्या भूतिकामेन॥  
+    
+४३।१३अब्। पूर्व^अभिमुखः श्रीमान् वैयाघ्रे चर्मणि स्थितो राजा।  
+    
+४३।१३च्द्। तिष्ठेद् अनल^समीपे तुरगभिषग्^दैववित्^सहितः॥  
+    
+४३।१४अब्। यात्रायां यद् अभिहितं ग्रहयज्ञ^विधौ महेन्द्रकेतौ च।  
+    
+४३।१४च्द्। वेदी^पुरोहित^अनल^लक्षणम् अस्मिंस् तद् अवधार्यम्॥  
+    
+४३।१५अब्। लक्षणयुक्तं तुरगं द्विरदवरं च^एव दीक्षितं स्नातम्।  
+    
+४३।१५च्द्। अहत^सित^अम्बर^गन्ध^स्रग्^*धूम[क्।ऊ।धूपा]^अभ्यर्चितं कृत्वा।  
+    
+४३।१६अब्। आश्रम^तोरण^मूलं समुपनयेत् सान्त्वयन् शनैर् वाचा।  
+४३।१६च्द्। वादित्र^शङ्ख^पुण्याह^निःस्वन^आपूरित^दिगन्तम्॥  
+    
+४३।१७अब्। यद्य् आनीतस् तिष्ठेद् दक्षिणचरणं हयः समुत्क्षिप्य।  
+    
+४३।१७च्द्। स जयति तदा नरेन्द्रः शत्रून् *नचिराद्[क्।अचिराद्] विना यत्नात्॥  
+    
+४३।१८अब्। त्रस्यन् न^इष्टो राज्ञः परिशेषं चेष्टितं द्विप^हयानाम्।  
+    
+४३।१८च्द्। यात्रायां व्याख्यातं तद् इह विचिन्त्यं यथायुक्ति॥  
+    
+४३।१९अब्। पिण्डम् अभिमन्त्र्य दद्यात् पुरोहितो वाजिने स यदि जिघ्रेत्।  
+४३।१९च्द्। अश्नीयाद् वा जयकृद् विपरीतो +अतो +अन्यथा^अभिहितः॥  
+    
+४३।२०अब्। कलश^उदकेषु शाखाम् आप्लाव्य^औदुम्बरीं स्पृशेत् तुरगान्।  
+    
+४३।२०च्द्। शान्तिक^पौष्टिक^मन्त्रैर् एवं सेनां सनृप^नागाम्॥  
+    
+४३।२१अब्। शान्तिं राष्ट्र^विवृद्ध्यै कृत्वा भूयो +अभिचारकैर् मन्त्रैः।  
+    
+४३।२१च्द्। मृत्मयम् अरिं विभिन्द्यात्^शूलेन^उरःस्थले विप्रः॥  
+    
+४३।२२अब्। खलिनं हयाय दद्याद् अभिमन्त्र्य पुरोहितस् ततो राजा।  
+    
+४३।२२च्द्। आरुह्य^उदक्पूर्वां यायान् नीराजितः सबलः॥  
+    
+४३।२३अब्। मृदङ्ग^शङ्ख^ध्वनि^हृष्ट^कुञ्जर^स्रवन्मद^आमोद^सुगन्ध^मारुतः।  
+    
+४३।२३च्द्। शिरोमणि^*प्रान्त[क्।व्रात]चलत् प्रभाचयैर् ज्वलन् विवस्वान् इव तोयद^अत्यये॥  
+    
+४३।२४अब्। हंस^पङ्क्तिभिर् इतस् ततो +अद्रिराट् सम्पतद्भिर् इव शुक्लचामरैः॥  
+    
+४३।२४च्द्। मृष्टगन्ध^पवन^अनुवाहिभिर् धूयमान^रुचिर^स्रग्^अम्बरः।  
+    
+४३।२५अब्। नैकवर्ण^मणि^वज्र^भूषितैर् भूषितो मुकुट^कुण्डल^अङ्गदैः।  
+    
+४३।२५च्द्। भूरि^रत्न^किरण^अनुरञ्जितः शक्रकार्मुक^*रुचिं[क्।रुचम्] समुद्वहन्॥  
+    
+४३।२६अब्। उत्पतद्भिर् इव खं तुरङ्गमैर् दारयद्भिर् इव दन्तिभिर् धराम्।  
+    
+४३।२६च्द्। निर्जित^अरिभिर् इव^अमरैर् नरैः शक्रवत् परिवृतो व्रजेन् नृपः॥  
+    
+४३।२७अब्। सवज्र^मुक्ताफल^भूषणो +अथ वा सित^स्रग्^उष्णीष^विलेपन^अम्बरः।  
+    
+४३।२७च्द्। धृत^आतपत्रो गज^पृष्ठम् आश्रितो घन^उपरि^इव^इन्दुतले भृगोः सुतः॥  
+    
+४३।२८अब्। सम्प्रहृष्ट^नर^वाजि^कुञ्जरं निर्मल^प्रहरण^अंशु^भासुरम्।  
+    
+४३।२८च्द्। निर्विकारम् अरि^पक्ष^भीषणं यस्य सैन्यम् अचिरात् स गां जयेत्॥
+
+                   ४४ खञ्जनकलक्षणाध्यायः
+
+४४।०१अब्। खञ्जनको नाम^अयं यो विहगस् तस्य दर्शने प्रथमे।  
+    
+४४।०१च्द्। प्रोक्तानि यानि मुनिभिः फलानि तानि प्रवक्ष्यामि॥  
+    
+४४।०२अब्। स्थूलो^अभ्युन्नत^कण्ठः कृष्ण^गलो भद्रकारको भद्रः।  
+    
+४४।०२च्द्। आकण्ठ^मुखात् कृष्णः सम्पूर्णः पूरयत्य् आशाम्॥  
+    
+४४।०३अब्। कृष्णो गले +अस्य बिन्दुः सित^करटान्तः स रिक्तकृद् रिक्तः।  
+    
+४४।०३च्द्। पीतो गोपीत इति क्लेशकरः खञ्जनो दृष्टः॥  
+    
+४४।०४अब्। अथ मधुर^सुरभि^फल^कुसुम^तरुषु सलिलाशयेषु पुण्येषु।  
+    
+४४।०४च्द्। करि^तुरग^भुजग^मूर्ध्नि प्रासाद^उद्यान^हर्म्येषु॥  
+    
+४४।०५अब्। गो^गोष्ठ^सत्^समागम^यज्ञ^उत्सव^पार्थिव^द्विज^समीपे।  
+    
+४४।०५च्द्। हस्ति^तुरङ्गम^शाला^च्छत्र^ध्वज^चामर^आद्येषु॥  
+    
+४४।०६अब्। हेम^समीप^सित^अम्बर^कमल^उत्पल^पूजित^उपलिप्तेषु।  
+    
+४४।०६च्द्। दधि^पात्र^धान्य^कूटेषु च श्रियं खञ्जनः कुरुते॥  
+    
+४४।०७अब्। पङ्के स्वाद्व्^अन्न^आप्तिर् गोरस^सम्पच् च गोमय^उपगते।  
+    
+४४।०७च्द्। शाद्वलगे वस्त्र^आप्तिः शकटस्थे देश^विभ्रंशः॥  
+    
+४४।०८अब्। गृहपटले +अर्थभ्रंशो *बध्रे[क्।वध्रे] बन्धो +अशुचौ भवति रोगः।  
+    
+४४।०८च्द्। पृष्ठे त्व् अज^आविकानां प्रिय^सङ्गमम् आवहत्य् आशु॥  
+    
+४४।०९अब्। महिष^उष्ट्र^गर्दभ^अस्थिश्मशान^गृहकोण^शर्कर^*अट्ट[क्।अद्रि]स्थः।  
+    
+४४।०९च्द्। प्राकार^भस्म^केशेषु च^अशुभो मरण^रुग्^भयदः॥  
+    
+४४।१०अब्। पक्षौ धुन्वन् न शुभः शुभः पिबन् वारि निम्नगा^संस्थः।  
+    
+४४।१०च्द्। सूर्योदये *प्रशस्तो[क्।+अथ शस्तो] न^इष्टफलः खञ्जनो +अस्तमये॥  
+    
+४४।११अब्। नीराजने निवृत्ते यया दिशा खञ्जनं नृपो यान्तम्।  
+    
+४४।११च्द्। पश्येत् तया गतस्य क्षिप्रम् अरातिर् वशम् उपैति॥  
+    
+४४।१२अ तस्मिन् निधिर् भवति मैथुनम् एति यस्मिन्  
+    
+४४।१२ब् यस्मिंस् तु छर्दयति तत्र तले +अस्ति काचम्।  
+    
+४४।१२च् अङ्गारम् अप्य् उपदिशन्ति पुरीषणे +अस्य  
+    
+४४।१२द् तत्^कौतुक^अपनयनाय खनेद् धरित्रीम्॥  
+    
+४४।१३अब्। मृत^विकल^विभिन्न^रोगितः स्वतनु^समान^फलप्रदः खगः।  
+    
+४४।१३च्द्। धनकृद् अभिनिलीयमानको वियति च बन्धु^समागम^प्रदः॥  
+    
+४४।१४अब्। नृपतिर् अपि शुभं शुभप्रदेशे खगम् अवलोक्य महीतले विदध्यात्।  
+    
+४४।१४च्द्। सुरभि^कुसुम^धूप^युक्तम् अर्घं शुभम् *अभिनन्दिम्[क्।ऊ।अभिनन्दितम्] एवम् एति वृद्धिम्॥  
+    
+४४।१५अब्। अशुभम् अपि विलोक्य खञ्जनं द्विज^गुरु^साधु^सुर^अर्चने रतः।  
+    
+४४।१५च्द्। न नृपतिर् अशुभं *समाप्नुयात्[क्।समाप्नुयान्] न यदि दिनानि च सप्त मांसभुक्॥  
+    
+४४।१६अब्। आवर्षात् प्रथमे दर्शने फलं प्रतिदिनं तु *दिनशेषात्[क्।दिनशेषे]।  
+    
+४४।१६च्द्। दिक्^स्थान^मूर्ति^लग्न^ऋक्ष^शान्त^दीप्त^आदिभिश् च^ऊह्यम्॥
+
+                   ४५ उत्पाताध्यायः
+
+४५।०१अब्। यान् अत्रेर् उत्पातान् गर्गः प्रोवाच तान् अहं वक्ष्ये।  
+    
+४५।०१च्द्। तेषां सङ्क्षेपो +अयं प्रकृतेर् अन्यत्वम् उत्पातः॥  
+    
+४५।०२अब्। अपचारेण नराणाम् उपसर्गः पापसञ्चयाद् भवति।  
+    
+४५।०२च्द्। संसूचयन्ति दिव्य^आन्तरिक्ष^भौमास् *त उत्पाताः[क्।तदुत्पाताः]॥  
+    
+४५।०३अब्। मनुजानाम् अपचाराद् अपरक्ता देवताः सृजन्त्य् एतान्।  
+    
+४५।०३च्द्। तत्प्रतिघाताय नृपः शान्तिं राष्ट्रे प्रयुञ्जीत॥  
+    
+४५।०४अब्। दिव्यं ग्रह^ऋक्ष^वैकृतम् उल्का^निर्घात^पवन^परिवेषाः।  
+    
+४५।०४च्द्। गन्धर्वपुर^पुरन्दरचाप^आदि यद् आन्तरिक्षं तत्॥  
+    
+४५।०५अब्। भौमं चर^स्थिर^भवं तत्^शान्तिभिर् आहतं शमम् उपैति।  
+    
+४५।०५च्द्। नाभसम् उपैति मृदुतां शाम्यति नो दिव्यम् इत्य् एके॥  
+    
+४५।०६अब्। दिव्यम् अपि शमम् उपैति प्रभूत^कनक^अन्न^गो^मही^दानैः।  
+    
+४५।०६च्द्। रुद्र^आयतने भूमौ गोदोहात् कोटिहोमाच् च॥  
+    
+४५।०७अब्। आत्म^सुत^कोश^वाहन^पुर^दार^पुरोहितेषु *लोके च[क्।लोकेषु]।  
+    
+४५।०७च्द्। पाकम् उपयाति दैवं परिकल्पितम् अष्टधा नृपतेः॥  
+    
+४५।०८अब्। अनिमित्त^भङ्ग^चलन^स्वेद^अश्रु^निपात^जल्पन^आद्यानि।  
+    
+४५।०८च्द्। लिङ्ग^आर्चा^आयतनानां नाशाय नरेश^देशानाम्॥  
+    
+४५।०९अब्। दैवतयात्रा^शकटाक्ष^चक्र^युग^केतु^भङ्ग^पतनानि।  
+    
+४५।०९च्द्। सम्पर्यासन^सादन^*सङ्गश्[क्।सङ्गाश्] च न देश^नृप^शुभदाः॥  
+    
+४५।१०अब्। ऋषि^धर्म^पितृ^ब्रह्म^प्रोद्भूतं वैकृतं द्विजातीनाम्।  
+    
+४५।१०च्द्। यद् रुद्र^लोकपाल^उद्भवं पशूनाम् अनिष्टं तत्॥  
+    
+४५।११अब्। गुरु^सित^शनैश्चर^उत्थं पुरोधसां विष्णुजं च लोकानाम्।  
+    
+४५।११च्द्। स्कन्द^विशाख^समुत्थं माण्डलिकानां नरेन्द्राणाम्॥  
+    
+४५।१२अब्। वेदव्यासे मन्त्रिणि विनायके वैकृतं चमूनाथे।  
+    
+४५।१२च्द्। धातरि सविश्वकर्मणि लोकाभावाय निर्दिष्टम्॥  
+    
+४५।१३अब्। देव^कुमार^कुमारी^वनिता^प्रेष्येषु वैकृतं यत् स्यात्।  
+    
+४५।१३च्द्। तन् नरपतेः कुमारक^कुमारिका^स्त्री^परिजनानाम्॥  
+    
+४५।१४अब्। रक्षः^पिशाच^*गृह्यक[उ।गुह्यक]^नागानाम् *एवम्[क्।एतद्] एव *निर्दिष्टम्[क्।निर्देश्यम्]।  
+    
+४५।१४च्द्। मासैश् च^अप्य् अष्टाभिः सर्वेषाम् एव फलपाकः॥  
+    
+४५।१५अब्। बुद्ध्वा देवविकारं शुचिः पुरोधास् त्र्यह^उषितः स्नातः।  
+    
+४५।१५च्द्। स्नान^कुसुम^अनुलेपन^वस्त्रैर् अभ्यर्चयेत् प्रतिमाम्॥  
+    
+४५।१६अब्। मधुपर्केण पुरोधा *भक्ष्यैर्[क्।बक्षैर्] बलिभिश् च विधिवद् उपतिष्ठेत्।  
+    
+४५।१६च्द्। स्थालीपाकं जुहुयाद् विधिवन् मन्त्रैश् च तल्^लिङ्गैः॥  
+    
+४५।१७अ इति विबुध^विकारे शान्तयः सप्तरात्रं  
+    
+४५।१७ब् द्विज^विबुध^गण^अर्चा गीत^नृत्य^उत्सवाश् च।  
+    
+४५।१७च् विधिवद् अवनि^पालैर् यैः प्रयुक्ता न तेषां  
+    
+४५।१७द् भवति दुरित^पाको दक्षिणाभिश् च रुद्धः॥  
+    
+४५।१८अब्। राष्ट्रे यस्य^अनग्निः प्रदीप्यते दीप्यते च न^इन्धनवान्।  
+    
+४५।१८च्द्। मनुजेश्वरस्य पीडा तस्य *च[क्।ओमित्तेद्] राष्ट्रस्य विज्ञेया॥  
+    
+४५।१९अब्। जल^मांस^आर्द्र^ज्वलने नृपति^वधः प्रहरणे रणो रौद्रः।  
+    
+४५।१९च्द्। सैन्य^ग्राम^पुरेषु च नाशो वह्नेर् भयं कुरुते॥  
+    
+४५।२०अब्। प्रासाद^भवन^तोरण^केत्व्^आदिष्व् अननलेन दग्धेषु।  
+    
+४५।२०च्द्। तडिता वा षण्मासात् परचक्रस्य^आगमो नियमात्॥  
+    
+४५।२१अब्। धूमो +अनग्नि^समुत्थो रजस् तमश् च^अह्निजं महा^भयदम्।  
+    
+४५।२१च्द्। व्यभ्रे निश्य् उडुनाशो दर्शनम् अपि च^अह्नि दोषकरम्॥  
+    
+४५।२२अब्। नगर^*चतुष्पाद्^अण्डज[क्।चतुष्पाद^अण्डज]^मनुजानां भयकरं ज्वलनम् आहुः।  
+    
+४५।२२च्द्। धूम^अग्नि^विस्फुलिङ्गैः शय्या^अम्बर^केशगैर् मृत्युः॥  
+    
+४५।२३अब्। आयुध^ज्वलन^सर्पण^स्वनाः कोश^निर्गमन^वेपनानि वा।  
+    
+४५।२३च्द्। वैकृतानि यदि वा^आयुधे +अपराण्य् आशु रौद्र^रण^सङ्कुलं वदेत्॥  
+    
+४५।२४अ मन्त्रैर् *आग्नेयैः[क्।वाह्नैः] क्षीरवृक्षात् समिद्भिर्  
+    
+४५।२४ब् होतव्यो +अग्निः सर्षपैः सर्पिषा च।  
+    
+४५।२४च् अग्न्यादीनां वैकृते शान्तिर् एवं  
+    
+४५।२४द् देयं च^अस्मिन् काञ्चनं ब्राह्मणेभ्यः॥  
+    
+४५।२५अब्। शाखाभङ्गे +अकस्माद् वृक्षाणां निर्दिशेद् रणोद्योगम्।  
+    
+४५।२५च्द्। हसने देशभ्रंशं रुदिते च व्याधि^बाहुल्यम्॥  
+    
+४५।२६अब्। राष्ट्र^विभेदस् त्व् अनृतौ बालवधो +अतीव कुसुमिते बाले।  
+    
+४५।२६च्द्। वृक्षात् क्षीरस्रावे सर्वद्रव्य^क्षयो भवति॥  
+    
+४५।२७अब्। मद्ये वाहन^नाशः सङ्ग्रामः शोणिते मधुनि रोगः।  
+    
+४५।२७च्द्। स्नेहे दुर्भिक्ष^भयं महद्भयं *निःस्रुते[क्।निःसृते] सलिले॥  
+    
+४५।२८अब्। शुष्क^विरोहे वीर्य^अन्न^सङ्क्षयः शोषणे च विरुजानाम्।  
+    
+४५।२८च्द्। पतितानाम् उत्थाने स्वयं भयं दैवजनितं च॥  
+    
+४५।२९अब्। पूजितवृक्षे ह्य् अनृतौ कुसुमफलं नृप^वधाय निर्दिष्टम्।  
+    
+४५।२९च्द्। धूमस् तस्मिन् ज्वाला +अथ वा भवेन् नृप^वधाय^एव॥  
+    
+४५।३०अब्। सर्पत्सु तरुषु जल्पत्सु वा^अपि जन^सङ्क्षयो विनिर्दिष्टः।  
+    
+४५।३०च्द्। वृक्षाणां वैकृत्ये दशभिर् मासैः फल^विपाकः॥  
+    
+४५।३१अब्। स्रग्^गन्ध^धूप^अम्बर^पूजितस्य छत्रं विधाय^उपरि पादपस्य।  
+    
+४५।३१च्द्। कृत्वा शिवं रुद्रजपो +अत्र कार्यो रुद्रेभ्य इत्य् अत्र *षड् एव होमाः[क्।षडङ्गहोमः]॥  
+    
+४५।३२अब्। पायसेन *मधुनापि[क्।मधुना च] भोजयेद् ब्राह्मणान् घृतयुतेन भूपतिः।  
+    
+४५।३२च्द्। मेदिनी निगदिता^अत्र दक्षिणा वैकृते तरुकृते हितार्थिभिः॥  
+    
+४५।३३अब्। नाले +अब्ज^यव^आदीनाम् एकस्मिन् द्वि^त्रि^सम्भवो मरणम्।  
+    
+४५।३३च्द्। कथयति तदधिपतीनां यमलं जातं च कुसुमफलम्॥  
+    
+४५।३४अब्। अतिवृद्धिः सस्यानां नाना^फल^कुसुम^*सम्भवो[क्।भवो] वृक्षे।  
+    
+४५।३४च्द्। भवति हि यद्य् एकस्मिन् परचक्रस्य^आगमो नियमात्॥  
+    
+४५।३५अब्। अर्धेन यदा तैलं भवति तिलानाम् अतैलता वा स्यात्।  
+    
+४५।३५च्द्। अन्नस्य च वैरस्यं तदा तु विन्द्याद् भयं सुमहत्॥  
+    
+४५।३६अब्। विकृत^कुसुमं फलम् वा ग्रामाद् अथ वा पुराद् वहिः[क्।ऊ।बहिः] कार्यम्।  
+    
+४५।३६च्द्। सौम्यो +अत्र चरुः कार्यो निर्वाप्यो वा पशुः शान्त्यै॥  
+    
+४५।३७अ सस्ये च दृष्ट्वा विकृतिं प्रदेयं  
+    
+४५।३७ब् तत्क्षेत्रम् एव प्रथमं द्विजेभ्यः।  
+    
+४५।३७च् तस्य^एव मध्ये चरुम् अत्र भौमं  
+    
+४५।३७द् कृत्वा न दोषं समुपैति *तज्जम्[क्।तज्जान्]॥  
+    
+४५।३८अब्। दुर्भिक्षम् *अनावृष्टाव् अतिवृष्टौ[क्।अनावृष्ट्याम् अतिवृष्ट्याम्] क्षुद्भयं *परभयं च[क्।सपरचक्रम्]।  
+    
+४५।३८च्द्। रोगो ह्य् अनृतु^भवायां *नृपति^वधो[क्।नृप^वधो] +अनभ्रजातायाम्॥  
+    
+४५।३९अब्। शीत^उष्ण^*विपर्यासो[क्।विपर्यासे] नो सम्यगृतुषु च सम्प्रवृत्तेषु।  
+    
+४५।३९च्द्। षण्मासाद् राष्ट्र^भयं रोग^भयं दैव^जनितं च॥  
+    
+४५।४०अब्। अन्य^ऋतौ सप्ताहं प्रबन्ध^वर्षे प्रधान^नृप^मरणम्।  
+    
+४५।४०च्द्। रक्ते शस्त्र^उद्योगो मांस^अस्थि^वसा^आदिभिर् मरकः॥  
+    
+४५।४१अब्। धान्य^हिरण्य^त्वक्^फल^कुसुम^आद्यैर् वर्षितैर् भयं विन्द्यात्।  
+    
+४५।४१च्द्। अङ्गार^पांशु^वर्षे विनाशम् आयाति तन्नगरम्॥  
+    
+४५।४२अब्। उपला विना जलधरैर् विकृता वा प्राणिनो यदा वृष्टाः।  
+    
+४५।४२च्द्। छिद्रं वा^अप्य् अतिवृष्टौ सस्यानाम् ईति^सञ्जननम्॥  
+    
+[क्।ओने वेर्से इन्सेर्तेद्  
+    
+क्। ४६।४३अब्। क्षीर^घृत^क्षौद्राणां दध्नो रुधिर^उष्ण^वारिणां[क्ऽस् त्र्। वारिणो] वर्षे।  
+    
+क्। ४६।४३च्द्। देशविनाशो ज्ञेयो +असृग्वर्षे च अपि नृप^युद्धम्॥]  
+    
+४५।४३अब्। यद्य् अमले +अर्के छाया न दृश्यते प्रतीपा वा।  
+    
+४५।४३च्द्। देशस्य तदा सुमहद्^भयम् आयातं विनिर्देश्यम्॥  
+    
+४५।४४अब्। व्यभ्रे नभसि^इन्द्रधनुर् दिवा यदा दृश्यते +अथ वा रात्रौ।  
+    
+४५।४४च्द्। प्राच्याम् अपरस्यां वा तदा भवेत् क्षुद्भ्यं सुमहत्॥  
+    
+४५।४५अब्। सूर्य^इन्दु^पर्जन्य^समीरणानां *यागः[क्।योगः] स्मृतो वृष्टि^विकार^काले।  
+    
+४५।४५च्द्। धान्य^अन्न^गो^काञ्चन^दक्षिणाश् च देयास् ततः शान्तिम् उपैति पापम्॥  
+    
+४५।४६अब्। अपसर्पणं नदीनाम् नगराद् अचिरेण शून्यतां कुरुते।  
+    
+४५।४६च्द्। शोषश् च^अशोष्याणाम् अन्येषां वा ह्रदादीनाम्॥  
+    
+४५।४७अब्। स्नेहा^सृग्^मांस^वहाः सङ्कुल^कलुषाः प्रतीपगाश् च^अपि।  
+    
+४५।४७च्द्। परचक्रस्य^आगमनं नद्यः कथयन्ति षण्मासात्॥  
+    
+४५।४८अब्। ज्वाला^धूम^क्वाथ^आरुदित^उत्क्रुष्टानि च^एव कूपानाम्।  
+    
+४५।४८च्द्। गीत^प्रजल्पितानि च जन^मरकाय^*उपदिष्टानि[क्।प्रदिष्टानि]॥  
+    
+४५।४९अब्। *सलिल[क्।तोय]^उत्पत्तिर् अखाते गन्ध^रस^विपर्यये च तोयानाम्।  
+    
+४५।४९च्द्। सलिलाशय^विकृतौ वा महद्भयं तत्र शन्तिम् *इमाम्[क्।इयम्]॥  
+    
+४५।५०अब्। सलिल^विकारे कुर्यात् पूजां वरुणस्य वारुणैर् मन्त्रैः।  
+    
+४५।५०च्द्। तैर् एव च जप^होमं शमम् एवं पापम् उपयाति॥  
+    
+४५।५१अब्। प्रसव^विकारे स्त्रीणां द्वि^त्रि^चतुष्^प्रभृति^सम्प्रसूतौ वा।  
+    
+४५।५१च्द्। हीन^अतिरिक्त^काले च देश^कुल^सङ्क्षयो भवति॥  
+    
+४५।५२अब्। वडवा^उष्ट्र^महिष^गो^हस्तिनीषु यमल^उद्भवे *रण^मरणम्[क्।मरणम्] एषाम्।  
+    
+४५।५२च्द्। षण्मासात् सूतिफलं शान्तौ श्लोकौ च गर्ग^उक्तौ॥  
+    
+४५।५३अब्। नार्यः परस्य विषये त्यक्तव्यास् ता हित^अर्थिना।  
+    
+४५।५३च्द्। तर्पयेच् च द्विजान् कामैः शान्तिं च^एव^अत्र कारयेत्॥  
+    
+४५।५४अब्। चतुष्पादाः स्व^यूथेभ्यस् त्यक्तव्याः पर^भूमिषु।  
+    
+४५।५४च्द्। नगरं स्वामिनं यूथम् अन्यथा तु विनाशयेत्॥  
+    
+४५।५५अब्। परयोनाव् अभिगमनं भवति तिरश्चाम् असाधु धेनूनाम्।  
+    
+४५।५५च्द्। उक्षाणो वा^अन्योन्यं पिबति श्वा वा सुरभि^पुत्रम्॥  
+४५।५६अब्। मासत्रयेण विन्द्यात् तस्मिन् निःसंशयं पर^आगमनम्।  
+    
+४५।५६च्द्। तत्प्रतिघाताय^एतौ श्लोकौ गर्गेण निर्दिष्टौ॥  
+    
+४५।५७अब्। त्यागो विवासनं दानं तत् तस्य^आशु शुभं भवेत्।  
+    
+४५।५७च्द्। तर्पयेद् ब्राह्मणांश् च^अत्र जप^होमांश् च कारयेत्॥  
+    
+४५।५८अब्। स्थालीपाकेन धातारं पशुना च पुरोहितः।  
+    
+४५।५८च्द्। प्राजापत्येन मन्त्रेण यजेद् बह्व्^अन्न^दक्षिणम्॥  
+    
+४५।५९अब्। यानं वाह^वियुक्तं यदि गच्छेन् न व्रजेच् च वाह^युतम्।  
+    
+४५।५९च्द्। राष्ट्र^भयं भवति तदा चक्राणां साद^भङ्गे च॥  
+    
+४५।६०अब्[क्।४६।६१अब्]। गीतरव^तूर्यशब्दा नभसि यदा वा चर^स्थिर^अन्यत्वम्।  
+    
+४५।६०च्द्[क्।४६।६१च्द्]। मृत्युस् तदा गदा वा *विस्वतूर्ये[क्।ऊ।विस्वरतार्ये] पर^अभिभवः॥  
+    
+४५।६१अब्[क्।४६।६२अब्]। अनभिहत^तूर्य^नादः शब्दो वा ताडितेषु यदि न स्यात्।  
+    
+४५।६१च्द्[क्।४६।६२च्द्]। व्युत्पत्तौ वा तेषां पर^आगमो नृपति^मरणं वा॥  
+    
+४५।६२अब्। गो^लाङ्गलयोः सङ्गे दर्वी^शूर्प^आद्य्^उपस्कर^विकारे।  
+    
+४५।६२च्द्। क्रोष्टुक^नादे च तथा शस्त्र^भयं मुनिवचश् च^इदम्॥  
+    
+४५।६३अब्। वायव्येष्व् एषु नृपतिर् वायुं शक्तुभिर् अर्चयेत्।  
+    
+४५।६३च्द्। आवायोर् इति पञ्चर्चो *जप्तव्याः[क्।जाप्याश् च] प्रयतैर् द्विजैः॥  
+    
+४५।६४अब्। ब्राह्मणान् परम^अन्नेन दक्षिणाभिश् च तर्पयेत्।  
+    
+४५।६४च्द्। बह्व्^अन्न^दक्षिणा होमाः कर्तव्याश् च प्रयत्नतः॥  
+    
+४५।६५अब्। पुर^पक्षिणो वनचरा वन्या वा निर्भया विशन्ति पुरम्।  
+    
+४५।६५च्द्। नक्तं वा दिवस^चराः क्षपा^चरा वा चरन्त्य् अहनि॥  
+    
+४५।६६अब्। सन्ध्या^द्वये +अपि मण्डलम् आबध्नन्तो मृगा विहङ्गा वा।  
+    
+४५।६६च्द्। दीप्तायां दिश्य् अथ वा क्रोशन्तः संहता भयदाः॥  
+    
+४५।६७अब्। *श्येनाः[क्।श्वानः] प्ररुदन्त इव द्वारे क्रोशन्ति जम्बुका दीप्ताः।  
+    
+४५।६७च्द्। प्रविशेन् नरेन्द्र^भवने कपोतकः कौशिको यदि वा॥  
+    
+४५।६८अब्। कुक्कुट^रुतं प्रदोषे हेमन्त^आदौ च कोकिल^आलापाः।  
+    
+४५।६८च्द्। प्रतिलोम^मण्डल^चराः श्येन^आद्याश् च^अम्बरे भयदाः॥  
+    
+४५।६९अब्। गृह^चैत्य^तोरणेषु द्वारेषु च पक्षि^सङ्घ^*सम्पातः[क्।सम्पाताः]।  
+    
+४५।६९च्द्। मधु^वल्मीक^अम्भोरुह^*समुद्भवश्[क्।समुद्भवाश्] च^अपि नाशाय॥  
+    
+४५।७०अब्। श्वभिर् अस्थि^शव^अवयव^प्रवेशनं मन्दिरेषु मरकाय।  
+    
+४५।७०च्द्। पशु^शस्त्र^व्याहारे नृप^मृत्युर् मुनिवचश् च^इदम्॥  
+    
+४५।७१अब्। मृग^पक्षि^विकारेषु कुर्याद् *धीमान्[क्।ऊ।धोमान्] सदक्षिणान्।  
+    
+४५।७१च्द्। देवाः कपोत इति च जप्तव्याः पञ्चभिर् द्विजैः॥  
+    
+४५।७२अब्। सुदेवा इति च^एकेन देया गावः *सदक्षिणाः[क्।च दक्षिणा]।  
+    
+४५।७२च्द्। जपेत्^शाकुन^सूक्तं वा मनो वेदशिरांशि च॥  
+    
+४५।७३अब्। शक्रध्वज^इन्द्रकील^स्तम्भद्वार^प्रपात^भङ्गेषु।  
+    
+४५।७३च्द्। तद्वत् कपाट^तोरण^केतूनां नरपतेर् मरणम्॥  
+    
+४५।७४अब्। सन्ध्या^द्वयस्य दीप्तिर् धूम^उत्पत्तिश् च कानने +अनग्नौ।  
+    
+४५।७४च्द्। छिद्र^अभावे भूमेर् दरणं कम्पश् च भयकारी॥  
+    
+४५।७५अ *पाखण्डाणां[क्।पाषण्डाणाम्] नास्तिकानां च भक्तः  
+    
+४५।७५ब् साध्व्^आचार^प्रोज्झितः क्रोध^शीलः।  
+    
+४५।७५च् ईर्ष्युः क्रूरो विग्रह^आसक्त^चेता  
+    
+४५।७५द् यस्मिन् राजा तस्य देशस्य नाशः॥  
+    
+४५।७६अब्। प्रहर हर छिन्धि भिन्धि^इत्य् आयुध^काष्ठ^अश्म^पाणयो बालाः।  
+    
+४५।७६च्द्। निगदन्तः प्रहरन्ते तत्र^अपि भयं भवत्य् आशु॥  
+    
+४५।७७अब्। अङ्गार^गैरिक^आद्यैर् विकृत^प्रेत^अभिलेखनं यस्मिन्।  
+    
+४५।७७च्द्। नायक^चित्रितम् अथ वा क्षये क्षयं याति न चिरेण॥  
+    
+४५।७८अब्। लूता^पट^अङ्ग^शबलं न सन्ध्ययोः पूजितं कलह^युक्तम्।  
+    
+४५।७८च्द्। नित्य^उच्छिष्ट^स्त्रीकं च यद् गृहं तत् क्षयं याति॥  
+    
+४५।७९अब्। दृष्टेषु यातुधानेषु निर्दिशेन् मरकम् आशु सम्प्राप्तम्।  
+    
+४५।७९च्द्। प्रतिघाताय^एतेषां गर्गः शान्तिं चकार^इमाम्॥  
+    
+४५।८०अब्। महाशान्त्यो +अथ बलयो भोज्यानि सुमहान्ति च।  
+    
+४५।८०च्द्। कारयेत महेन्द्रं च *माहेन्द्रीं[क्।महेन्द्रीभिः] च समर्चयेत्॥  
+    
+४५।८१अब्। नरपति^देश^विनाशे केतोर् उदये +अथ वा ग्रहे +अर्केन्द्वोः।  
+    
+४५।८१च्द्। उत्पातानां प्रभवः स्व^ऋतुभवश् च^अप्य् अदोषाय॥  
+    
+४५।८२अब्। ये च न दोषान् जनयन्त्य् उत्पातास् तान् ऋतु^स्वभाव^कृतान्।  
+४५।८२च्द्। ऋषिपुत्र^कृतैः श्लोकैर् विद्याद् एतैः समास^उक्तैः॥  
+    
+४५।८३अब्। वज्र^अशनि^मही^कम्प^सन्ध्या^निर्घात^निःस्वनाः।  
+    
+४५।८३च्द्। परिवेष^रजो^धूम^रक्त^अर्क^*अस्तमय[क्।अस्तमन]^उदयाः॥  
+    
+४५।८४अब्। द्रुमेभ्यो +अन्न^रस^स्नेह^बहु^पुष्प^फल^उद्गमाः।  
+    
+४५।८४च्द्। गो^पक्षि^मद^वृद्धिश् च शिवाय मधु^माधवे॥  
+    
+४५।८५अब्। तारा^उल्का^पात^कलुषं कपिल^अर्केन्दु^मण्डलम्।  
+    
+४५।८५च्द्। अनग्नि^ज्वलन^स्फोट^धूम^रेण्व्^अनिल^आहतम्॥  
+    
+४५।८६अब्। रक्त^पद्म^*अरुणा[क्।अरुणम्] *सन्ध्या[क्।सन्ध्यम्] नभः क्षुब्ध^अर्णव^उपमम्।  
+    
+४५।८६च्द्। सरितां च^अम्बु^संशोषं दृष्ट्वा ग्रीष्मे शुभं वदेत्॥  
+    
+४५।८७अब्। शक्रायुध^परीवेष^विद्युत्^शुष्क^विरोहणम्।  
+    
+४५।८७च्द्। कम्प^उद्वर्तन^वैकृत्यं रसनं दरणं क्षितेः॥  
+    
+४५।८८अब्। सरो^नद्य्^उदपानानां वृद्ध्य्^ऊर्ध्व^तरण^प्लवाः।  
+    
+४५।८८च्द्। सरणं च^अद्रि^गेहानां वर्षासु न भय^आवहम्॥  
+    
+४५।८९अब्। दिव्य^स्त्री^भूत^गन्धर्व^विमान^अद्भुत^दर्शनम्।  
+    
+४५।८९च्द्। ग्रह^नक्षत्र^ताराणां दर्शनं च दिवा +अम्बरे॥  
+    
+४५।९०अब्। गीत^वादित्र^निर्घोषा वन^पर्वत^सानुषु।  
+    
+४५।९०च्द्। सस्य^वृद्धिर् अपां हानिर् अपापाः शरदि स्मृताः॥  
+    
+४५।९१अब्। शीत^अनिल^तुषारत्वं नर्दनं मृग^पक्षिणाम्।  
+    
+४५।९१च्द्। रक्षो^यक्ष^आदि^सत्त्वानां दर्शनं वाग् अमनुषी॥  
+    
+४५।९२अब्। दिशो धूम^अन्धकाराश् च स^नभो^वन^पर्वताः।  
+    
+४५।९२च्द्। उच्चैः सूर्य^उदय^अस्तौ च हेमन्ते शोभनाः स्मृताः॥  
+    
+४५।९३अब्। हिम^पात^अनिल^उत्पाता विरूप^अद्भुत^दर्शनम्।  
+    
+४५।९३च्द्। कृष्ण^अञ्जन^आभम् आकाशं तारा^उल्का^पात^पिञ्जरम्॥  
+    
+४५।९४अब्। चित्र^गर्भ^उद्भवाः स्त्रीषु गो^अज^अश्व^मृग^पक्षिषु।  
+    
+४५।९४च्द्। पत्र^अङ्कुर^लतानां च विकाराः शिशिरे शुभाः॥  
+    
+४५।९५अब्। ऋतु^स्वभाव^जा ह्य् एते दृष्टाः स्व^ऋतौ शुभ^प्रदाः।  
+    
+४५।९५च्द्। ऋतोर् अन्यत्र च^उत्पाता दृष्टास् ते *च^अतिदारुणाः[क्।बृशदारुनाः]॥  
+    
+४५।९६अब्। उन्मत्तानां च या गाथाः शिशूनां *यच् च भाषितम्[क्।भाषितं च यत्]।  
+    
+४५।९६च्द्। स्त्रियो यच् च प्रभाषन्ते तस्य नास्ति व्यतिक्रमः॥  
+    
+४५।९७अब्। पूर्वं चरति देवेषु पश्चाच् *चरति[क्।गच्छति] मानुषान्।  
+    
+४५।९७च्द्। न^अचोदिता वाग् वदति सत्या ह्य् एषा सरस्वती॥  
+    
+४५।९८अ उत्पातान् गणित^विवर्जितो +अपि बुद्ध्वा  
+    
+४५।९८ब् विख्यातो भवति नरेन्द्र^वल्लभश् च।  
+    
+४५।९८च् एतत् तन्^मुनिवचनं रहस्यम् उक्तं  
+    
+४५।९८द् यज् ज्ञात्वा भवति नरस् त्रिकालदर्शी॥
+
+                   ४६ मयूरचित्रकाध्यायः
+
+४६।०१अब्। दिव्य^आन्तरिक्ष^आश्रयम् उक्तम् आदौ मया फलं शस्तम् अशोभनं च।  
+    
+४६।०१च्द्। प्रायेण चारेषु समागमेषु युद्धेषु मार्ग^आदिषु विस्तरेण॥  
+    
+४६।०२अ भूयो वराहमिहिरस्य न युक्तम् एतत्  
+    
+४६।०२ब् कर्तुं समासकृद् असव् इति तस्य दोषः।  
+    
+४६।०२च् तज्ज्ञैर् न वाच्यम् इदम् उक्तफल^अनुगीति  
+    
+४६।०२द् यद् *बर्हि[क्।वर्हि]चित्रकम् इति प्रथितं वराङ्गम्॥  
+    
+४६।०३अब्। स्वरूपम् एव तस्य तत्^प्रकीर्तित^अनुकीर्तनम्।  
+    
+४६।०३च्द्। ब्रवीम्य् अहं न चेद् इदं तथा +अपि मे +अत्र वाच्यता॥  
+    
+४६।०४अब्। उत्तरवीथि^गता द्युतिमन्तः क्षेम^*शुभिक्ष[उ।सुभिक्ष]^शिवाय समस्ताः।  
+    
+४६।०४च्द्। दक्षिण^मार्ग^गता द्युतिहीनाः क्षुद्भय^तस्कर^मृत्यु^करास् ते॥  
+    
+४६।०५अब्। कोष्ठागार^गते भृगु^पुत्रे पुष्यस्थे च गिराम् प्रभविष्णौ।  
+    
+४६।०५च्द्। निर्वैराः क्षितिपाः सुखभाजः संहृष्टाश् च जना गतरोगाः॥  
+    
+४६।०६अब्। पीडयन्ति यदि कृत्तिकां मघां रोहिणीं श्रवम् ऐन्द्रम् एव वा।  
+    
+४६।०६च्द्। प्रोज्झ्य सूर्यम् अपरे ग्रहास् तदा पश्चिमा दिग् अनयेन पीड्यते॥  
+    
+४६।०७अ प्राच्यां चेद् ध्वजवद् अवस्थिता दिनान्ते  
+    
+४६।०७ब् प्राच्यानां भवति हि विग्रहो नृपाणाम्।  
+    
+४६।०७च् मध्ये चेद् भवति हि मध्यदेश^*पीठा[क्।ऊ।पीडा]  
+    
+४६।०७द् रूक्षैस् तैर् न तु *रुचिमन्[क्।रुचिरैर्] मयूखवद्भिः॥  
+    
+४६।०८अब्। दक्षिणां ककुभम् *आश्रितस्[क्।आश्रितैस्] तु तैर् दक्षिणापथपयोमुचां क्षयः।  
+    
+४६।०८च्द्। हीन^रूक्ष^तनुभिश् च विग्रहः स्थूल^देह^किरण^अन्वितैः शुभम्॥  
+    
+४६।०९अब्। उत्तरमार्गे स्पष्ट^मयूखाः शान्तिकरास् ते तन् नृपतीनाम्।  
+    
+४६।०९च्द्। ह्रस्व^शरीरा भस्म^सवर्णा दोषकराः स्युर् देश^नृपाणाम्॥  
+    
+४६।१०अ नक्षत्राणां तारकाः सग्रहाणाम्  
+    
+४६।१०ब् धूमज्वालाविस्फुलिङ्गान्विताश् चेत्।  
+    
+४६।१०च् आलोकं वा निर्निमित्तं न यान्ति  
+    
+४६।१०द् याति ध्वंसं सर्वलोकः सभूपः॥  
+    
+४६।११अ दिवि भाति यदा तुहिनांशुयुगं  
+    
+४६।११ब् द्विज^वृद्धिर् अतीव तदाशु शुभा।  
+    
+४६।११च् तदनन्तरवर्णरणो +अर्कयुगे  
+    
+४६।११द् जगतः प्रलयस् त्रिचतुष्प्रभृति॥  
+    
+४६।१२अ मुनीन् अभिजितं ध्रुवं मघवतश् च भं संस्पृशन्  
+    
+४६।१२ब् शिखी घनविनाशकृत् कुशलकर्महा शोकदः।  
+    
+४६।१२च् *भुजङ्गम्[क्।भुजङ्गभम्] अथ संस्पृशेद् भवति वृष्टिनाशो ध्रुवं  
+    
+४६।१२द् क्षयं व्रजति विद्रुतो जनपदश् च बालाकुलः॥  
+    
+४६।१३अब्। प्राग्द्वारेषु चरन् रविपुत्रो नक्षत्रेषु करोति च वक्रम्।  
+    
+४६।१३च्द्। दुर्भिक्षं कुरुते *महदुग्रं[क्।भयम् उग्रम्] मित्राणां च विरोधम् अवृष्टिम्॥  
+    
+४६।१४अब्। रोहिणीशकटम् अर्कनन्दनो यदि भिनत्ति रुधिरो +अथ वा शिखी।  
+    
+४६।१४च्द्। किं वदामि यद् अनिष्टसागरे जगद् अशेषम् उपयाति सङ्क्षयम्॥  
+    
+४६।१५अब्। उदयति सततं यदा शिखी चरति भचक्रम् अशेषम् एव वा।  
+    
+४६।१५च्द्। अनुभवति पुराकृतं तदा फलम् अशुभं सचर^अचरं जगत्॥  
+    
+४६।१६अ धनुःस्थायी रूक्षो रुधिरसदृशः क्षुद्भयकरो  
+    
+४६।१६ब् बलोद्योगं *चन्द्रः[क्।चेन्दुः] कथयति जयं ज्या +अस्य च यतः।  
+    
+४६।१६च् गवां{अवाक्] शृङ्गो गोघ्नो निधनम् अपि सस्यस्य कुरुते  
+    
+४६।१६द् ज्वलन् धूमायन् वा नृपतिमरणायैव भवति॥  
+    
+४६।१७अब्। स्निग्धः स्थूलः समशृङ्गो विशालस् तुङ्गश् च^उदग्विचरन् नागवीथ्याम्।  
+    
+४६।१७च्द्। दृष्टः सौम्यैर् अशुभैर् विप्रयुक्तो लोकानन्दं कुरुते +अतीव चन्द्रः॥  
+    
+४६।१८अब्। पित्र्य^मैत्र^पुरुहूत^विशाखा^त्वाष्ट्रम् एत्य च युनक्ति शशाङ्कः।  
+    
+४६।१८च्द्। दक्षिणेन न *शुभः शुभकृत्[क्।शुभो हितकृत्] स्याद् यद्य् उदक् चरति मध्यगतो वा॥  
+    
+४६।१९अब्। परिघ इति मेघरेखा या तिर्यग्भास्करोदये +अस्ते वा।  
+    
+४६।१९च्द्। परिधिस् तु प्रतिसूर्यो दण्डस् त्व् ऋजुर् इन्द्रचापनिभः॥  
+    
+४६।२०अब्। उदये +अस्ते वा भानोर् ये दीर्घा रश्मयस् त्व् अमोघास् ते।  
+    
+४६।२०च्द्। सुरचापखण्डम् ऋजु यद् रोहितम् ऐरावतं दीर्घम्॥  
+    
+४६।२१अब्। अर्ध^अस्तमयात् सन्ध्या व्यक्तीभूता न तारका यावत्।  
+    
+४६।२१च्द्। तेजःपरिहानि मुखाद् भानोर् अर्ध^उदयो यावत्॥  
+    
+४६।२२अब्। तस्मिन् सन्ध्या^काले चिह्नैर् एतैः शुभ^अशुभं वाच्यम्।  
+    
+४६।२२च्द्। सर्वैर् एतैः स्निग्धैः सद्यो वर्षं भयं रूक्षैः॥  
+    
+४६।२३अ अच्छिन्नः परिघो वियच् च विमलं श्यामा मयूखा रवेः  
+    
+४६।२३ब् स्निग्धा दीधितयः *मितं[क्।ऊ।सितम्] सुरधनुर्विद्युच् च पूर्वोत्तरा।  
+    
+४६।२३च् स्निग्धो मेघतरुर् दिवाकरकरैर् आलिङ्गतो वा यदा  
+    
+४६।२३द् वृष्टिः स्याद् यदि वा +अर्कम् अस्तसमये मेघो महान् छादयेत्॥  
+    
+४६।२४अब्। खण्डो वक्रः कृष्णो ह्रस्वः काक^आद्यैर् वा चिह्नैर् विद्धः।  
+    
+४६।२४च्द्। यस्मिन् देशे रूक्षश् चार्कस् तत्राभावः प्रायो राज्ञः॥  
+    
+४६।२५अब्। वाहिनीं समुपयाति पृष्ठतो मांसभुक् खगगणो युयुत्सतः।  
+    
+४६।२५च्द्। यस्य तस्य बलविद्रवो महान् अग्रैस् तु विजयो विहङ्गमैः॥  
+    
+४६।२६अब्। भानोर् उदये यदि वास्तमये गन्धर्वपुरप्रतिमा ध्वजनी।  
+    
+४६।२६च्द्। विम्बं निरुणद्धि तदा नृपतेः प्राप्तं समरं सभयं प्रवदेत्॥  
+    
+४६।२७अब्। शस्ता शान्तिद्विजमृगघुष्टा सन्ध्या स्निग्धा मृदुपवना च।  
+    
+४६।२७च्द्। पांशुध्वस्ता जनपदनाशं धत्ते रूक्षा रुधिरनिभा वा॥  
+    
+४६।२८अ यद्विस्तरेण कथितं मुनिभिस् तद् अस्मिन्  
+    
+४६।२८ब् सर्वं मया निगदितं पुनरुक्तवर्जम्।  
+    
+४६।२८च् श्रुत्वा +अपि कोकिल^रुतं बलिभुग् विरौति  
+    
+४६।२८द् यत्^तत् स्वभावकृतम् अस्य पिकं न जेतुम्॥
+
+                   ४७ पुष्यस्नानाध्यायः
+
+४७।०१अब्। मूलं मनुजाधिपतिः प्रजातरोस् तद् उपघात^संस्कारात्।  
+    
+४७।०१च्द्। अशुभं शुभं च लोके भवति यतो +अतो नृपति^चिन्ता॥  
+    
+४७।०२अब्। या व्याख्याता शान्तिः स्वयम्भुवा सुरगुरोर् महेन्द्र^अर्थे।  
+    
+४७।०२च्द्। तां प्राप्य वृद्धगर्गः प्राह यथा भागुरेः शृणुत॥  
+    
+४७।०३अब्। पुष्यस्नानं नृपतेः कर्तव्यं दैववित्^पुरोधाभ्याम्।  
+    
+४७।०३च्द्। नातः परं पवित्रं सर्व^उत्पात^अन्तकरम् अस्ति॥  
+    
+४७।०४अब्। श्लेष्मातक^अक्ष^कण्टकि^कटु^तिक्त^विगन्धि^पादप^विहीने।  
+    
+४७।०४च्द्। कौशिक^गृध्रप्रभृतिभिर् अनिष्ट^विहगैः परित्यक्ते॥  
+    
+४७।०५अब्। तरुण^तरु^गुल्म^वल्ली^लता^प्रतान^*अन्विते[क्।आवृते] वनोद्देशे।  
+    
+४७।०५च्द्। निरुपहत^पत्र^पल्लव^मनोज्ञ^मधुरद्रुमप्राये॥  
+    
+४७।०६अब्। कृकवाकु^जीव^जीवक^शुक^शिखि^शतपत्र^चाष^हारीतैः।  
+    
+४७।०६च्द्। क्रकर^चकोर^कपिञ्जल^वञ्जुल^पारावत^श्रीकैः॥  
+    
+४७।०७अब्। कुसुम^रसपान^मत्त^द्विरेफ^पुंस्कोकिल^आदिभिश् च^अन्यैः।  
+    
+४७।०७च्द्। विरुते वनोपकण्ठे क्षेत्र^आगारे शुचाव् अथ वा॥  
+    
+४७।०८अब्। *हृदिनी[क्।ऊ।ह्रदिनी]^विलासिनीनां जलखग^नखविक्षतेषु रम्येषु।  
+    
+४७।०८च्द्। पुलिन^जघनेषु कुर्याद् दृक्^मनसोः प्रीतिजननेषु॥  
+४७।०९अब्। प्रोत्प्लुत^हंस^च्छत्रे कारण्डव^कुरर^सारस^उद्गीते।  
+    
+४७।०९च्द्। फुल्ल^इन्दीवर^नयने सरसि सहस्राक्ष^कान्ति^धरे॥  
+    
+४७।१०अब्। प्रोत्फुल्ल^कमल^वदनाः कलहंस^*कल[क्।कलस्वन]^प्रभाषिण्यः।  
+    
+४७।१०च्द्। प्रोत्तुङ्ग^कुड्मल^कुचा यस्मिन् नलिनी^विलासिन्यः॥  
+    
+४७।११अब्। कुर्याद् गोरोमन्थज^फेनलव^शकृत्^खुर^क्षत^उपचिते।  
+    
+४७।११च्द्। अचिर^प्रसूत^हुङ्कृत^वल्गित^वत्स^उत्सवे गोष्ठे॥  
+    
+४७।१२अब्। अथ वा समुद्रतीरे कुशल^आगत^*रत्न^पोत[क्।पोतरत्न]^सम्बाधे।  
+    
+४७।१२च्द्। घन^निचुल^लीन^जलचर^सितखग^शबलीकृत^उपान्ते॥  
+    
+४७।१३अब्। क्षमया क्रोध इव जितः सिंहो मृग्य^अभिभूयते *येषु[क्।यत्र]।  
+    
+४७।१३च्द्। दत्त^अभय^खग^मृग^शावकेषु तेष्व् आश्रमेष्व् अथ वा॥  
+    
+४७।१४अब्। काञ्ची^कलाप^नूपुर^गुरुजघन^उद्वहन^विघ्नित^पदाभिः।  
+    
+४७।१४च्द्। श्रीमति मृगेक्षणाभिर् गृहे +अन्यभृत^वल्गु^वचनाभिः॥  
+    
+४७।१५अब्। पुण्येष्व् आयतनेषु च तीर्थेषु^उद्यान^रम्य^देशेषु।  
+    
+४७।१५च्द्। पूर्वोदक्^प्लव^भूमौ प्रदक्षिण^अम्भोवहायां च॥  
+    
+४७।१६अब्। भस्म^अङ्गार^अस्थ्य्^ऊषर^तुष^केश^श्वभ्र^कर्कट^आवासैः।  
+    
+४७।१६च्द्। *श्वाविध[क्।श्वाविन्]^मूषक^विवरैर् वल्मीकैर् या च सन्त्यक्ता॥  
+    
+४७।१७अब्। धात्री घना सुगन्धा स्निग्धा मधुरा समा च विजयाय।  
+    
+४७।१७च्द्। सेनावासे +अप्य् एवं योजयितव्या यथायोगम्॥  
+    
+४७।१८अब्। निष्क्रम्य पुरान् नक्तं दैवज्ञ^अमात्य^याजकाः प्राच्याम्।  
+    
+४७।१८च्द्। कौबेर्यां वा कृत्वा बलिं दिशीशाधिपायां वा॥  
+    
+४७।१९अब्। लाजा^अक्षत^दधि^कुसुमैः प्रयतः प्रणतः पुरोहितः कुर्यात्।  
+    
+४७।१९च्द्। आवाहनम् अथ मन्त्रस् तस्मिन् मुनिभिः समुद्दिष्टः॥  
+    
+४७।२०अब्। आगच्छन्तु सुराः सर्वे ये +अत्र पूजा^अभिलाषिणः।  
+    
+४७।२०च्द्। दिशो नागा द्विजाश् च^एव ये *च^अप्य् अन्ये[क्।चानेय् अप्य्] +अंशभागिनः॥  
+    
+४७।२१अब्। आवाह्य^एवम् ततः सर्वान् एवं ब्रूयात् पुरोहितः।  
+    
+४७।२१च्द्। श्वः पूजां प्राप्य यास्यन्ति दत्त्वा शान्तिं महीपतेः॥  
+    
+४७।२२अब्। आवाहितेषु कृत्वा पूजां तां शर्वरीं वसेयुस् ते।  
+    
+४७।२२च्द्। सदसत्^स्वप्ननिमित्तं यात्रायां स्वप्नविधिर् उक्तः॥  
+    
+४७।२३अब्। अपरे +अहनि प्रभाते सम्भारान् उपहरेद् यथोक्तगुणान्।  
+    
+४७।२३च्द्। गत्वा +अवनिप्रदेशे श्लोकाश् च^अप्य् अत्र मुनिगीताः॥  
+    
+४७।२४अब्। तस्मिन् मण्डलम् आलिख्य कल्पयेत् तत्र मेदिनीम्।  
+    
+४७।२४च्द्। नाना^रत्नाकरवतीं स्थानानि विविधानि च॥  
+    
+४७।२५अब्। पुरोहितो यथास्थानं नागान् यक्षान् सुरान् पितॄन्।  
+    
+४७।२५च्द्। गन्धर्व^अप्सरसश् च^एव मुनीन् सिद्धांश् च विन्यसेत्॥  
+    
+४७।२६अब्। ग्रहांश् च *सर्व[क्।सह]नक्षत्रै रुद्रांश् च सह मातृभिः।  
+    
+४७।२६च्द्। स्कन्दं विष्णुं विशाखं च लोकपालान् सुरस्त्रियः॥  
+    
+४७।२७अब्। वर्णकैर् विविक्धैः कृत्वा हृद्यैर् गन्ध^गुणान्वितैः।  
+    
+४७।२७च्द्। यथास्वं पूजयेद् विद्वान् गन्ध^माल्यानुलेपनैः॥  
+    
+४७।२८अब्। भक्ष्यैर् अन्नैश् च विविधैः फल^मूल^आमिषैस् तथा।  
+    
+४७।२८च्द्। *पानैश् च[क्।पानकैर्] विविधैर् हृद्यैः सुरा^क्षीर^आसव^आदिभिः॥  
+    
+४७।२९अब्। कथयाम्य् अतः परम् अहं पूजाम् अस्मिन् यथाभिलिखितानाम्।  
+    
+४७।२९च्द्। ग्रहयज्ञे यः प्रोक्तो विधिर् ग्रहाणां स कर्तव्यः॥  
+    
+४७।३०अब्। मांस^ओदन^मद्यैः पिशाच^दितितनय^दानवाः पूज्याः।  
+    
+४७।३०च्द्। अभ्यञ्जन^अञ्जन^तिलैः पितरो मांस^ओदनैश् च^अपि॥  
+    
+४७।३१अब्। साम^यजुर्भिर् मुनयस् त्व् ऋग्भिर् गन्धैश् च धूप^माल्य^युतैः।  
+    
+४७।३१च्द्। अश्लेषकवर्णैस् त्रिमधुरेण च^अभ्यर्चयेद् नागान्॥  
+    
+४७।३२अब्। धूप^आज्य^आहुति^माल्यैर् विबुधान् *रत्नः[उ।रत्नैः] स्तुति^प्रणामैश् च।  
+    
+४७।३२च्द्। गन्धर्वान् अप्सरसो गन्धैर् माल्यैश् च सुसुगन्धैः॥  
+    
+४७।३३अब्। शेषांस् तु सार्ववर्णिक^बलिभिः पूजां न्यसेच् च सर्वेषाम्।  
+    
+४७।३३च्द्। प्रतिसर^वस्त्र^पताका^भूषण^यज्ञोपवीतानि॥  
+    
+४७।३४अब्। मण्डल^पश्चिमभागे कृत्वा^अग्निं दक्षिणे +अथ वा वेद्याम्।  
+    
+४७।३४च्द्। आदद्यात् सम्भारान् दर्भान् दीर्घान् अगर्भांश् च॥  
+    
+४७।३५अब्। लाजा^आज्य^अक्षत^दधि^मधु^सिद्धार्थक^गन्ध^सुमनसो *धूपः[क्।धुपान्]।  
+    
+४७।३५च्द्। गोरोचन^अञ्जन^*तिलाः[क्।तिलान्] स्वर्तुज^मधुराणि च फलानि॥  
+    
+४७।३६अब्। सघृतस्य पायसस्य च तत्र शरावाणि तैश् च सम्भारैः।  
+    
+४७।३६च्द्। पश्चिमवेद्यां पूजां कुर्यात् *स्नानस्य[उ।स्नातस्य] सा वेदी॥  
+    
+४७।३७अब्। तस्याः कोणेषु दृढान् कलशान् सित^सूत्र^वेष्टित^ग्रीवान्।  
+    
+४७।३७च्द्। सक्षीर^वृक्ष^पल्लव^फल^अपिधानान् व्यवस्थाप्य॥  
+    
+४७।३८अब्। पुष्यस्नान^विमिश्रेण^आपूर्णान् अम्भसा सरत्नांश् च।  
+    
+४७।३८च्द्। पुष्यस्नानद्रव्याण्य् आदद्याद् गर्ग^गीतानि॥  
+    
+४७।३९अब्। ज्योतिष्मतीं त्रायमाणाम् अभयाम् अपराजिताम्।  
+    
+४७।३९च्द्। जीवां विश्वेश्वरीं पाठां समङ्गां विजयां तथा॥  
+    
+४७।४०अब्। सहां च सहदेवीं च पूर्णकोशां शतावरीम्।  
+    
+४७।४०च्द्। अरिष्टिकां शिवां भद्रां तेषु कुम्भेषु विन्यसेत्॥  
+    
+४७।४१अब्। ब्राह्मीं क्षेमाम् अजां च^एव सर्वबीजानि *काञ्चनीम्[क्।काञ्चनम्]।  
+    
+४७।४१च्द्। मङ्गल्यानि यथालाभं सर्वौषध्यो *रसास्[क्।रसांस्] तथा॥  
+    
+४७।४२अब्। रत्नानि *सर्वगन्धाश्[क्।सर्वगन्धांश्] च बिल्वं च सविकङ्कतम्।  
+    
+४७।४२च्द्। प्रशस्त^नाम्न्यश् च^ओषध्यो हिरण्यं मङ्गलानि च॥  
+    
+४७।४३अब्। आदाव् अनडुहश् चर्म जरया संहृतायुषः।  
+    
+४७।४३च्द्। प्रशस्तलक्षणभृतः प्राचीनग्रीवम् आस्तरेत्॥  
+    
+४७।४४अब्। ततो वृषस्य योधस्य चर्म रोहितम् अक्षतम्।  
+    
+४७।४४च्द्। सिम्हस्याथ तृतीयं स्याद् व्याघ्रस्य च ततः परम्॥  
+    
+४७।४५अब्। चत्वार्य् एतानि चर्माणि तस्यां वेद्याम् उपास्तरेत्।  
+    
+४७।४५च्द्। शुभे मुहूर्ते सम्प्राप्ते पुष्ययुक्ते निशाकरे॥  
+    
+४७।४६अब्। भद्रासनम् एकतमेन कारितं कनक^रजत^ताम्राणाम्।  
+    
+४७।४६च्द्। क्षीरतरु^निर्मितं वा विन्यस्यं चर्मणाम् उपरि॥  
+    
+४७।४७अब्। त्रिविधस् तस्य^उच्छ्रायो हस्तः पादाधिको +अर्धयुक्तश् च।  
+    
+४७।४७च्द्। माण्डलिका^अनन्तरजित्^समस्त^राज्य^अर्थिनां शुभदः॥  
+    
+४७।४८अब्। अन्तर्धाय हिरण्यं तत्र^उपविशेन् नरेश्वरः सुमनाः।  
+    
+४७।४८च्द्। सचिव^आप्त^पुरोहित^दैव^पौर^कल्याण^नामवृतः॥  
+    
+४७।४९अब्। वन्दिजन^पौर^*विप्रैः प्रघुष्ट[क्।विप्रप्रघुष्ट]^पुण्याह^वेद^निर्घोषैः।  
+    
+४७।४९च्द्। समृदङ्ग^शङ्ख^तूर्यैर् मङ्गल^शब्दैर् हतानिष्टः॥  
+    
+४७।५०अब्। अहत^क्षौम^निवसनं पुरोहितः कम्बलेन सञ्छाद्य।  
+    
+४७।५०च्द्। कृत^बलि^पूजं कलशैर् अभिषिञ्चेत् सर्पिषा पूर्णैः॥  
+    
+४७।५१अब्। अष्टाव् अष्टाविंशतिर् अष्टशतं वा^अपि कलश^परिमाणम्।  
+    
+४७।५१च्द्। अधिके +अधिके गुणोत्तरम् अयं च मन्त्रो +अत्र मुनिगीतः॥  
+    
+४७।५२अब्। आज्यं तेजः समुद्दिष्टम् आज्यं पापहरं परम्।  
+    
+४७।५२च्द्। आज्यं सुराणाम् आहार आज्ये लोकाः प्रतिष्ठिताः॥  
+    
+४७।५३अब्। भौम^आन्तरिक्षं दिव्यं वा यत् ते *कल्मषम्[क्।कल्विषम्] आगतम्।  
+    
+४७।५३च्द्। सर्वं तदाज्यसंस्पर्शात् प्रणाशम् उपगच्छतु॥  
+    
+४७।५४अब्। कम्बलम् अपनीय ततः पुष्यस्नानाम्बुभिः सफलपुष्पैः।  
+    
+४७।५४च्द्। अभिषिञ्चेन् मनुजेन्द्रं पुरोहितो +अनेन मन्त्रेण॥  
+    
+४७।५५अब्। सुरास् त्वाम् अभिषिञ्चन्तु ये च सिद्धाः पुरातनाः।  
+    
+४७।५५च्द्। ब्रह्मा विष्णुश् च *रुद्रश्[क्।शम्भुश्] च साध्याश् च समरुद्गणाः॥  
+    
+४७।५६अब्। आदित्या वसवो रुद्रा अश्विनौ च भिषग्वरौ।  
+    
+४७।५६च्द्। अदितिर् देवमाता च स्वाहा सिद्धिः सरस्वती॥  
+    
+४७।५७अब्। कीर्तिर् लक्ष्मीर् धृतिः श्रीश् च सिनीवाली कुहूस् तथा।  
+    
+४७।५७च्द्। दनुश् च सुरसा च^एव विनता कद्रुर् एव च॥  
+    
+४७।५८अब्। देवपत्न्यश् च या नोक्ता देवमातर एव च।  
+    
+४७।५८च्द्। सर्वास् त्वाम् अभिषिञ्चन्तु दिव्याश् च^अप्सरसां गणाः॥  
+    
+४७।५९अब्। नक्षत्राणि मुहूर्ताश् च पक्ष^अहोरात्र^सन्धयः।  
+    
+४७।५९च्द्। संवत्सरा दिनेशाश् च कलाः काष्ठाः क्षणा लवा।  
+    
+४७।६०अब्[क्।४८।६९च्द्]। सर्वे त्वाम् अभिषिञ्चन्तु कालस्यावयवाः शुभाः।  
+    
+४७।६०च्द्[क्।४८।७०अब्]। एते च^अन्ये च मुनयो वेद^व्रत^परायणाः॥  
+४७।६१अब्[क्।ओमित्तेद्]। सशिष्यास् ते +अभिषिञ्चन्तु सदाराश् च तपोधनाः।  
+    
+४७।६१च्द्[क्।ओमित्तेद्]। वैमानिकाः सुरगणा मनवः सागरैः सह॥  
+    
+४७।६२अब्। सरितश् च महाभागा नागाः किम्पुरुषाश् तथा।  
+    
+४७।६२च्द्। वैखानसा महाभागा द्विजा वैहायसाश् च ये॥  
+    
+४७।६३अब्। सप्तर्षयः सदाराश् च ध्रुवस्थानानि यानि च।  
+    
+४७।६३च्द्। मरीचिर् अत्रिः पुलहः पुलस्त्यः क्रतुर् अङ्गिराः॥  
+    
+४७।६४अब्। भृगुः सनत्कुमारश् च सनको +अथ सनन्दनः।  
+    
+४७।६४च्द्। सनातनश् च दक्षश् च जैगीषव्यो भगन्दरः॥  
+    
+४७।६५अब्। एकतश् च द्वितश् च^एव त्रितो जाबालिकश्यपौ।  
+    
+४७।६५च्द्। दुर्वासा दुर्विनीतश् च कण्वः कात्यायनस् तथा॥  
+    
+४७।६६अब्। मार्कण्डेयो दीर्घतपाः शुनःशेफो विदूरथः।  
+    
+४७।६६च्द्। ऊर्ध्वः संवर्तकश् च^एव च्यवनो +अत्रिः पराशरः॥  
+    
+४७।६७अब्। द्वैपायनो यवक्रीतो देवराजः सहानुजः।  
+    
+४७।६७च्द्। पर्वतास् तरवो वल्ल्यः पुण्यान्य् आयतनानि च॥  
+    
+४७।६८अब्। प्रजापतिर् दितिश् च^एव गावो विश्वस्य मातरः।  
+    
+४७।६८च्द्। वाहनानि च दिव्यानि सर्वलोकाश् चर^अचराः॥  
+    
+४७।६९अब्। अग्नयः पितरस् तारा जीमूताः खं दिशो जलम्।  
+    
+४७।६९च्द्। एते च^अन्ये च बहवः पुण्य^सङ्कीर्तनाः *शुभैः[क्।शुभाः]॥  
+    
+४७।७०अब्। तोयैस् त्वाम् अभिषिञ्चन्तु सर्व^उत्पात^निबर्हणैः।  
+    
+४७।७०च्द्। *यथाभिषिक्तो मघवान् एतैर् मुदित^मनसैः[क्।कल्याणम् ते प्रकुर्वन्तु आयुरारोग्यम् एव च]॥  
+    
+४७।७१अब्। इत्य् एतैश् चान्यैश् च^अप्य् अथर्वकल्प^*आहितैः[क्।विहितैः] सरुद्रगणैः।  
+    
+४७।७१च्द्। कौष्माण्ड^महारौहिण^कुबेरहृद्यैः समृद्ध्या च॥  
+    
+४७।७२अब्। आपोहिष्ठा^तिसृभिर् हिरण्यवर्णा^इति चतसृभिर् जप्तम्।  
+    
+४७।७२च्द्। कार्पासिक^वस्त्रयुगं बिभृयात् स्नातो नराधिपतिः॥  
+    
+४७।७३अब्। पुण्याह^शङ्ख^शब्दैर् आचान्तो +अभ्यर्च्य देव^गुरु^विप्रान्।  
+    
+४७।७३च्द्। छत्र^ध्वज^आयुधानि च ततः स्वपूजां प्रयुञ्जीत॥  
+    
+४७।७४अब्। आयुष्यं वर्चस्यं रायस्पोषाभिर् ऋग्भिर् एताभिः।  
+    
+४७।७४च्द्। परिजप्तं वैजयिकं नवं विदध्याद् अलङ्कारम्॥  
+    
+४७।७५अब्। गत्वा द्वितीयवेदीं समुपविशेच् चर्मणां उपरि राजा।  
+    
+४७।७५च्द्। देयानि च^एव चर्माण्य् उपर्युपर्य् एवम् एतानि॥  
+    
+४७।७६अब्। वृषस्य वृषदंशस्य रुरोश् च पृषतस्य च।  
+    
+४७।७६च्द्। तेषाम् उपरि सिंहस्य व्याघ्रस्य च ततः परम्॥  
+    
+४७।७७अब्। मुख्यस्थाने जुहुयात् पुरोहितो +अग्निं समित्^तिल^घृताद्यैः।  
+    
+४७।७७च्द्। त्रिनयन^शक्र^बृहस्पति^नारायण^नित्यगति^ऋग्भिः॥  
+    
+४७।७८अब्। इन्द्रध्वज^निर्दिष्टान्य् अग्निनिमित्तानि दैवविद् ब्रूयात्।  
+    
+४७।७८च्द्। कृत्वा +अशेष^समाप्तिं पुरोहितः प्राञ्जलिर् ब्रूयात्॥  
+    
+४७।७९अब्। यान्तु देवगणाः सर्वे पूजाम् आदाय पार्थिवात्।  
+    
+४७।७९च्द्। सिद्धिं दत्त्वा *तु विपुलां[क्।सुविपुलाम्] पुनर् आगमनाय *च[क्।वै]॥  
+    
+४७।८०अब्। नृपतिर् अतो दैवज्ञं पुरोहितं च^अर्चयेद् धनैर् बहुभिः।  
+    
+४७।८०च्द्। अन्यांश् च दक्षिणीयान् *यथोचितं[क्।यथार्हतः] श्रोत्रियप्रभृतीन्॥  
+    
+४७।८१अब्। दत्त्वा +अभयं प्रजानाम् आघातस्थानगान् विसृज्य पशून्।  
+    
+४७।८१च्द्। बन्धन^मोक्षं कुर्याद् अभ्यन्तर^दोषकृद्^वर्जम्॥  
+    
+४७।८२अब्। एतत् प्रयुज्यमानं प्रतिपुष्यं सुख^यशो^अर्थ^वृद्धिकरम्।  
+    
+४७।८२च्द्। *पुष्याद्[क्।पुष्यम्] विना^अर्धफलदा पौषी शान्तिः *परा[क्।पुरा] प्रोक्ता॥  
+    
+४७।८३अब्। राष्ट्र^उत्पात^उपसर्गेषु राहोः केतोश् च दर्शने।  
+    
+४७।८३च्द्। ग्रहावमर्दने च^एव पुष्यस्नानं समाचरेत्॥  
+    
+४७।८४अब्। नास्ति लोके स उत्पातो यो ह्य् अनेन न शाम्यति।  
+    
+४७।८४च्द्। मङ्गलं चापरं नास्ति यद् अस्माद् अतिरिच्यते॥  
+    
+४७।८५अब्। अधिराज्यार्थिनो राज्ञः पुत्रजन्म च काङ्क्षतः।  
+    
+४७।८५च्द्। तत्पूर्वम् अभिषेके च विधिर् एष प्रशस्यते॥  
+    
+४७।८६अब्। महेन्द्रार्थम् उवाच^इदम् बृहत्कीर्तिर् बृहस्पतिः।  
+    
+४७।८६च्द्। स्नानम् आयुष्^प्रजा^वृद्धि^सौभाग्य^करणं परम्॥  
+    
+४७।८७अब्। अनेनैव विधानेन हस्त्य्^अश्वं *स्नापयेत् ततः[क्।स्नापयीत यः]।  
+    
+४७।८७च्द्। तस्य^आमय^विनिर्मुक्तं परां सिद्धिम् अवाप्नुयात्॥
+
+                   ४८ पट्टलक्षणाध्यायः
+
+४८।०१अब्। विस्तरशो निर्दिष्टं पट्टाणां लक्षणं यद् आचार्यैः।  
+    
+४८।०१च्द्। तत् सङ्क्षेपः क्रियते मया +अत्र सकलार्थसम्पन्नः॥  
+    
+४८।०२अब्। पट्टः शुभदो राज्णां मध्ये +अष्टाव् अङ्गुलानि विस्तीर्णः।  
+    
+४८।०२च्द्। सप्त नरेन्द्र^महिष्याः षड् युवराजस्य निर्दिष्टः॥  
+    
+४८।०३अब्। चतुर्^अङ्गुल^विस्तारः पट्टः सेनापतेर् भवति मध्ये।  
+    
+४८।०३च्द्। द्वे च प्रसादपट्टः पञ्चैते कीर्तिताः पट्टाः॥  
+    
+४८।०४अब्। सर्वे द्विगुणायामा मध्याद् अर्धेन पार्श्वविस्तीर्णाः।  
+    
+४८।०४च्द्। सर्वे च शुद्धकाञ्चनविनिर्मिताः श्रेयसो वृद्ध्यै॥  
+    
+४८।०५अब्। पञ्च^शिखो भूमिपतेस् त्रिशिखो युवराज^पार्थिव^महिष्योः।  
+    
+४८।०५च्द्। एकशिखः सैन्यपतेः प्रसादपट्टो विना शिखया॥  
+    
+४८।०६अब्। क्रियमाणं यदि पत्रं सुखेन विस्तारम् एति पट्टस्य।  
+    
+४८।०६च्द्। वृद्धिजयौ भूमिपतेस् तथा प्रजानां च सुखसम्पत्॥  
+    
+४८।०७अब्। जीवितराज्यविनाशं करोति मध्ये व्रणः समुत्पन्नः।  
+    
+४८।०७च्द्। मध्ये स्फुटितस् त्याज्यो विघ्नकरः पार्श्वयोः स्फुटितः॥  
+    
+४८।०८अब्। अशुभनिमित्त^उत्पत्तौ शास्त्रज्ञः शान्तिम् आदिशेद् राज्ञः।  
+    
+४८।०८च्द्। शस्तनिमित्तः पट्टो नृप^राष्ट्र^विवृद्धये भवति॥
+
+                   ४९ खड्गलक्षणाध्यायः
+
+४९।०१अब्। अङ्गुल^शतार्धम् उत्तम ऊनः स्यात् *पञ्चविंशतिः[क्।पञ्चविंशतिम्] खड्गः।  
+    
+४९।०१च्द्। अङ्गुलमानाज् ज्ञेयो व्रणो +अशुभो विषम^पर्वस्थः॥  
+    
+४९।०२अब्। श्रीवृक्ष^वर्धमान^आतपत्र^शिवलिङ्ग^कुण्डल^अब्जानाम्।  
+    
+४९।०२च्द्। सदृशा व्रणाः प्रशस्ता ध्वज^आयुध^स्वस्तिकानां च॥  
+४९।०३अब्। कृकलास^काक^कङ्क^क्रव्याद^कबन्ध^वृश्चिक^आकृतयः।  
+    
+४९।०३च्द्। खड्गे व्रणा न शुभदा वंशानुगताः प्रभूताश् च॥  
+    
+४९।०४अब्। स्फुटितो ह्रस्वः कुण्ठो वंशच्छिन्नो न दृग्^मनो +अनुगतः।  
+    
+४९।०४च्द्। अस्वन इति चानिष्टः प्रोक्तविपर्यस्त इष्टफलः॥  
+    
+४९।०५अब्। क्वणितं मरणाय^उक्तं पराजयाय प्रवर्तनं कोशात्।  
+    
+४९।०५च्द्। स्वयम् उद्गीर्णे युद्धं ज्वलिते विजयो भवति खड्गे॥  
+    
+४९।०६अ नाकारणं विवृणुयान् न विघट्टयेच् च  
+    
+४९।०६ब् पश्येन् न तत्र वदनं न वदेच् च मूल्यम्।  
+    
+४९।०६च् देशं न चास्य कथयेत् प्रतिमानयेन् न  
+    
+४९।०६द् नैव स्पृशेन् नृपतिर् अप्रयतो +असियष्टिम्॥  
+    
+४९।०७अब्। गोजिह्वा^संस्थानो नीलोत्पल^वंश^पत्र^सदृशश् च।  
+    
+४९।०७च्द्। करवीर^पत्र^शूल^अग्र^मण्डल^अग्राः प्रशस्ताः स्युः॥  
+    
+४९।०८अब्। निष्पन्नो न छेद्यो निकषैः कार्यः प्रमाणयुक्तः सः।  
+    
+४९।०८च्द्। मूले म्रियते स्वामी जननी तस्याग्रतश् छिन्ने॥  
+    
+४९।०९अब्। यस्मिन् त्सरुप्रदेशे व्रणो भवेत् तद्वद् एव खड्गस्य।  
+    
+४९।०९च्द्। वनितानाम् इव तिलको गुह्ये वाच्यो मुखे दृष्ट्वा॥  
+    
+४९।१०अब्। अथ वा स्पृशति यदङ्गं प्रष्टा निस्त्रिंशभृत् तदवधार्य।  
+    
+४९।१०च्द्। कोशस्थस्य^आदेश्यो व्रणो +अस्ति शास्त्रं विदित्वेदम्॥  
+    
+४९।११अब्। शिरसि स्पृष्टे प्रथमे +अङ्गुले द्वितीये ललाटसंस्पर्शे।  
+    
+४९।११च्द्। भ्रूमध्ये च तृतीये नेत्रे स्पृष्टे चत्रुथे च॥  
+    
+४९।१२अब्। *नास^औष्ठ[क्।नासोष्ठ]^कपोल^हनु^श्रवण^ग्रीव^*अंसके च[क्।अंसकेषु] पञ्चाद्याः।  
+    
+४९।१२च्द्। उरसि द्वादशसंस्थस् त्रयोदशे कक्षयोर् ज्ञेयः॥  
+    
+४९।१३अब्। स्तन^हृदय^उदर^*कुक्षि^नाभौ[क्।कुक्षिनाभीषु] तु चतुर्दशादयो ज्ञेयाः।  
+    
+४९।१३च्द्। नाभिमूले कट्यां गुह्ये च^एकोनविंशतितः॥  
+    
+४९।१४अब्। ऊर्वोर् द्वाविंशे स्याद् ऊर्वोर् मध्ये व्रणस् त्रयोविंशे।  
+    
+४९।१४च्द्। जानुनि च चतुर्विंशे जङ्घायां पञ्चविंशे च॥  
+    
+४९।१५अब्। जङ्घामध्ये गुल्फे पार्ष्ण्यां पादे तदङ्गुलीष्व् अपि च।  
+    
+४९।१५च्द्। षड्विंशतिकाद् यावत् त्रिंशद् इति मतेन गर्गस्य॥  
+    
+४९।१६अब्। पुत्रमरणं धनाप्तिर् धनहानिः सम्पदश् च बन्धश् च।  
+    
+४९।१६च्द्। एकाद्यङ्गुलसंस्थैर् व्रणैः फलं निर्दिशेत् क्रमशः॥  
+    
+४९।१७अब्। सुतलाभः कलहो हस्ति^लब्धयः पुत्रमरण^धनलाभौ।  
+    
+४९।१७च्द्। क्रमशो विनाश^वनिताप्ति^चित्तदुःखानि षट्प्रभृति॥  
+    
+४९।१८अब्। लब्धिर् *हानिः स्त्रीलब्धयो[क्।हानिस्त्रीलब्धयो] बधो वृद्धि^मरण^परितोषाः।  
+    
+४९।१८च्द्। ज्ञेयाश् चतुर्दशादिषु धनहानिश् चैकविंशे स्यात्॥  
+    
+४९।१९अब्। वित्ताप्तिर् अनिर्वाणं धन^आगमो मृत्यु^सम्पदो +अस्वत्वम्।  
+    
+४९।१९च्द्। ऐश्वर्य^मृत्यु^राज्यानि च क्रमात् त्रिंशद् इति यावत्॥  
+    
+४९।२०अब्। परतो न विशेषफलं विषमसमस्थास् तु पापशुभफलदाः।  
+४९।२०च्द्। कैश् चिद् अफलाः प्रदिष्टास् त्रिंशत्परतो +अग्रम् इति यावत्॥  
+    
+४९।२१अब्। करवीर^उत्पल^गज^मद^घृत^कुङ्कुम^कुन्द^चम्पक^सगन्धः।  
+    
+४९।२१च्द्। शुभदो +अनिष्टो गोमूत्र^पङ्क^मेदः^सदृश^गन्धः॥  
+    
+४९।२२अब्। कूर्म^वसा^असृक्^क्षार^उपमश् च भय^दुःखदो भवति गन्धः।  
+    
+४९।२२च्द्। वैदूर्य^कनक^विद्युत्^प्रभो जय^आरोग्य^वृद्धिकरः॥  
+    
+४९।२३अ इदम् औशनसं च शस्त्र^पानं  
+    
+४९।२३ब् रुधिरेण श्रियम् इच्छतः प्रदीप्ताम्।  
+    
+४९।२३च् हविषा गुणवत्^सुत^अभिलिप्सोः  
+    
+४९।२३द् सलिलेन^अक्षयम् इच्छतश् च वित्तम्॥  
+    
+४९।२४अ वडवा^उष्ट्र^करेणु^दुग्ध^पानं  
+    
+४९।२४ब् यदि पापेन समीहते +अर्थसिद्धिम्।  
+    
+४९।२४च् झष^पित्त^मृग^अश्व^बस्त^दुग्धैः  
+    
+४९।२४द् करि^हस्त^च्छिदये सताल^गर्भैः॥  
+    
+४९।२५अ आर्कं पयो हुडुविषाण^मषी^समेतं  
+    
+४९।२५ब् पारावत^आखु^शकृता च *युतः[क्।युतम्] प्रलेपः।  
+    
+४९।२५च् शस्त्रस्य तैलमथितस्य ततो +अस्य पानं  
+    
+४९।२५द् पश्चात्^शितस्य न शिलासु भवेद् विघातः॥  
+    
+४९।२६अ क्षारे कदल्या मथितेन युक्ते  
+    
+४९।२६ब् दिन^उषिते पायितम् आयसं यत्।  
+    
+४९।२६च् सम्यक् शितं च^अश्मनि नैति भङ्गं  
+    
+४९।२६द् न च^अन्यलोहेष्व् अपि तस्य कौण्ठ्यम्॥
+
+                   ५० अङ्गविद्याध्याय
+
+५०।०१अ दैवज्ञेन शुभ^अशुभं दिग्^उदित^स्थान^आहृतान् ईक्षता  
+    
+५०।०१ब् वाच्यं प्रष्टृ^निज^अपर^अङ्ग^घटनां च^आलोक्य कालं धिया।  
+    
+५०।०१च् सर्वज्ञो हि चर^अचर^आत्मकतया^असौ सर्वदर्शो विभुश्  
+    
+५०।०१द् चेष्टा^व्याहृतिभिः शुभ^अशुभ^फलं सन्दर्शयत्य् अर्थिनाम्॥  
+    
+५०।०२अ स्थानं पुष्प^सुहासि^भूरि^फलभृत्^सुस्निग्ध^कृत्ति^च्छद^  
+    
+५०।०२ब् असत्पक्षि^च्युत^शस्तसञ्ज्ञित^तरु^च्छाय^उपगूढं समम्।  
+    
+५०।०२च् देव^ऋषि^द्विज^साधु^सिद्ध^निलयं सत्पुष्प^सस्य^उक्षितम्  
+    
+५०।०२द् सत्स्वादु^उदक^निर्मलत्व^जनित^आह्लादं च *सच्छाद्वलम्[क्।सच्छाड्वलम्]॥  
+    
+५०।०३अब्। छिन्न^भिन्न^कृमि^खात^कण्टकि^प्लुष्ट^रूक्ष^कुटिलैर् न सत् कुजैः।  
+    
+५०।०३च्द्। क्रूर^पक्षि^युत^निन्द्यनामभिः शुष्क^शीर्ण^बहु^पर्ण^*चर्मभिः[क्।वर्मभिः]॥  
+    
+५०।०४अ श्मशान^शून्यायतनं चतुष्पथं  
+    
+५०।०४ब् तथा^+अमनोज्ञं विषमं सद^ऊषरम्।  
+    
+५०।०४च् अवस्कर^अङ्गार^कपाल^भस्मभिश्  
+    
+५०।०४द् चितं तुषैः शुष्कतृणैर् नशोभनम्॥  
+    
+५०।०५अब्। प्रव्रजित^नग्न^नापित^रिपु^बन्धन^*सौनिकैस्[क्।सूनिकैस्] तथा श्वपचैः।  
+    
+५०।०५च्द्। कितव^यति^पीडितैर् युतम् आयुध^माध्वीक^विक्रयैर् न शुभम्॥  
+    
+५०।०६अ प्राग्^उत्तर^ईशाश् च दिशः प्रशस्ताः  
+    
+५०।०६ब् प्रष्टुर् न वाय्व्^अम्बु^यमाग्नि^रक्षः।  
+    
+५०।०६च् पूर्वाह्नकाले +अस्ति शुभं न रात्रौ  
+    
+५०।०६द् सन्ध्याद्वये प्रश्नकृतो +अपराह्णे॥  
+    
+५०।०७अ यात्राविधाने हि शुभ^अशुभं यत्  
+    
+५०।०७ब् प्रोक्तं निमित्तं तद् इहापि वाच्यम्।  
+    
+५०।०७च् दृष्ट्वा पुरो वा जनताहृतं वा  
+    
+५०।०७द् प्रष्टुः स्थितं पाणितले +अथ वस्त्रे॥  
+    
+५०।०८अ अथ^अङ्गान्य् ऊरू^ओष्ठ^स्तन^वृषण^पादं च दशना  
+    
+५०।०८ब् भुजौ हस्तौ गण्डौ कच^गल^नख^अङ्गुष्ठम् अपि यत्।  
+    
+५०।०८च् स^शङ्खं *कक्ष^अंसं श्रवण[क्।कषांसश्रवण]^गुद^सन्धि^इति पुरुषे  
+    
+५०।०८द् स्त्रियां भ्रू^नासा^स्फिग्^वलि^कटि^सुलेखा^अङ्गुलिचयम्॥  
+    
+५०।०९अ जिह्वा ग्रीवा पिण्डिके पार्ष्णियुग्मं  
+    
+५०।०९ब् जङ्घे नाभिः कर्णपाली कृकाटी।  
+    
+५०।०९च् वक्त्रं पृष्ठं जत्रु^जानु^अस्थि^पार्श्वं  
+    
+५०।०९द् हृत्^तालु^अक्षी मेहन^उरस्^त्रिकं च॥  
+    
+५०।१०अब्। नपुंसक^आख्यं च शिरो ललाटम् आश्व् आद्य^सञ्ज्ञैर् अपरैश् चिरेण।  
+    
+५०।१०च्द्। सिद्धिर् भवेज् जातु नपुंसकैर् नो रूक्ष^क्षतैर् भग्न^कृशैश् च पूर्वैः॥  
+    
+५०।११अब्। स्पृष्टे वा चालिते वा^अपि पाद^अङ्गुष्ठे +अक्षि^रुग् भवेत्।  
+    
+५०।११च्द्। अङ्गुल्यां दुहितुः शोकं शिरोघाते नृपाद् भयम्॥  
+    
+५०।१२अब्। विप्रयोगम् उरसि स्वगात्रतः कर्पटाहृतिर् अनर्थदा भवेत्।  
+    
+५०।१२च्द्। स्यात् प्रियाप्तिर् अभिगृह्य कर्पटं पृच्छतश् चरणपादयोजितुः॥  
+    
+५०।१३अब्। पाद^अङ्गुष्ठेन विलिखेद् भूमिं क्षेत्र^उत्थचिन्तया।  
+    
+५०।१३च्द्। हस्तेन पादौ कण्डूयेत् तस्य *दासीमयी[क्।दासीमया] च सा॥  
+    
+५०।१४अब्। ताल^भूर्ज^पट^दर्शने +अंशुकं चिन्तयेत् कच^तुष^अस्थि^भस्मगम्।  
+    
+५०।१४च्द्। व्याधिर् आश्रयति रज्जु^जालकं वल्कलं च समवेक्ष्य बन्धनम्॥  
+    
+५०।१५अब्। पिप्पली^मरिच^शुण्ठि^वारिदै रोध्र^कुष्ठ^वसन^अम्बु^जीरकैः।  
+    
+५०।१५च्द्। गन्ध^मांसि^शतपुष्पया वदेत् पृच्छतस् तगरकेण *चिन्तयेत्[क्।चिन्तनम्]॥  
+    
+५०।१६अब्। स्त्री^पुरुष^दोष^पीडित^सर्व^*अर्थ[क्।अध्व]^सुत^अर्थ^धान्य^तनयानाम्।  
+    
+५०।१६च्द्। द्विचतुष्पद^क्षितीनां विनाशतः कीर्तितैर् दृष्टैः॥  
+    
+५०।१७अब्। न्यग्रोध^मधुक^तिन्दुक^जम्बू^प्लक्ष^आम्र^*बदर[क्।बदरि]^जातिफलैः।  
+    
+५०।१७च्द्। धन^कनक^पुरुष^लोह^अंशुक^रूप्य^*औदुम्बर^आप्तिर्[क्।उदुम्बराप्तिर्] अपि करगैः॥  
+    
+५०।१८अब्। धान्य^परिपूर्ण^पात्रं कुम्भः पूर्णः कुटुम्ब^वृद्धिकरौ।  
+    
+५०।१८च्द्। गज^गो^शुनां पुरीषं धन^युवति^सुहृद्^विनाशकरम्॥  
+    
+५०।१९अब्। पशु^हस्ति^महिष^पङ्कज^रजत^व्याघ्रैर् लभेत सन्दृष्टैः।  
+    
+५०।१९च्द्। अवि^धन^निवसन^मलयज^कौशेय^आभरण^सङ्घातम्॥  
+    
+५०।२०अब्। पृच्छा वृद्ध^श्रावक^सुपरिव्राड्^दर्शने नृभिर् विहिता।  
+    
+५०।२०च्द्। मित्र^द्यूतार्थ^भवा गणिका^नृप^सूतिका^अर्थकृता॥  
+    
+५०।२१अब्। शाक्य^उपाध्याय^*अर्हत्[क्।आर्हत]^*निर्ग्रन्थि[क्।निर्ग्रन्थ]^निमित्त^निगम^कैवर्तैः।  
+    
+५०।२१च्द्। चौर^चमूपति^वणिजां दासी^योध^आपणस्थ^वध्यानाम्॥  
+    
+५०।२२अब्। तापसे शौण्डिके दृष्टे प्रोषितं पशुपालनम्।  
+    
+५०।२२च्द्। हृद्गतं *प्रच्छकस्य[क्।पृच्छकस्य] स्याद् उञ्छवृटौ विपन्नता॥  
+    
+५०।२३अब्। इच्छामि प्रष्टुं भण पश्यत्व् आर्यः समादिश^इत्य् उक्ते॥  
+    
+५०।२३च्द्। संयोग^कुटुम्ब^उत्था लाभ^ऐश्वर्य^उद्गता चिन्ता॥  
+    
+५०।२४अ निर्दिश^इति गदिते *जय^अध्वजा[क्।जयाध्वगा]  
+    
+५०।२४ब् प्रत्यवेक्ष्य मम चिन्तितं वद।  
+    
+५०।२४च् आशु सर्वजनमध्यगं त्वया  
+    
+५०।२४द् दृश्यताम् इति च बन्धु^चौरजा॥  
+    
+५०।२५अ अन्तःस्थे +अङ्गे स्वजन उदितो बाह्यजे बाह्य *एव[क्।एवम्]  
+    
+५०।२५ब् पाद^अङ्गुष्ठ^अङ्गुलिकलनया दासदासीजनः स्यात्।  
+    
+५०।२५च् जङ्घे प्रेष्यो भवति भगिनी नाभितो हृत्स्वभार्या  
+    
+५०।२५द् पाण्यङ्गुष्ठ^अङ्गुलिचय^कृतस्पर्शने पुत्रकन्ये॥  
+    
+५०।२६अब्। मातरं जठरे मूर्ध्नि गुरुं दक्षिणवामकौ।  
+    
+५०।२६च्द्। बाहू भ्राता^अथ तत्पत्नी स्पृष्ट्वा^एवं चौरम् आदिशेत्॥  
+    
+५०।२७अब्। अन्तर्^अङ्गम् अवमुच्य बाह्य^ग^स्पर्शनं यदि करोति पृच्छकः।  
+    
+५०।२७च्द्। श्लेष्म^मूत्र^शकृतस् *त्यजन्त्य् अथो[क्।त्यजन्नधः] पातयेत् कर^तल^स्थ^वस्तु चेत्॥  
+    
+५०।२८अ भृशम् अवनामित^अङ्ग^परिमोटनतो +अप्य् अथ वा  
+    
+५०।२८ब् जन^धृत^रिक्त^भाण्डम् अवलोक्य च चौरजनम्।  
+    
+५०।२८च् हृत^पतित^क्षत^अस्मृत^विनष्ट^भग्न^गत^  
+    
+५०।२८द् उन्मुषित^मृत^आद्य्^अनिष्ट^रवतो लभते न हृतम्॥  
+    
+५०।२९अ निगदितम् इदं यत्^तत् सर्वं तुष^अस्थि^विष^आदिकैः  
+    
+५०।२९ब् सह मृतिकरं पीडा^अर्तानां समं रुदित^*क्षतैः[क्।क्षुतैः]।  
+    
+५०।२९च् अवयवम् अपि स्पृष्ट्वा^अन्तःस्थं दृढं मरुद् आहरेद्  
+    
+५०।२९द् अतिबहु तदा भुक्त्वा^अन्नं संस्थितः सुहितो वदेत्॥  
+    
+५०।३०अब्। ललाटस्पर्शनात्^शूकदर्शनात्^शालिजौदनम्।  
+    
+५०।३०च्द्। उरःस्पर्शात् षष्टिक^*आख्यं[क्।अन्नम्] ग्रीवा^स्पर्शे च यावकम्॥  
+    
+५०।३१अब्। कुक्षि^कुच^जठर^जानु^स्पर्शे माषाः पयस्^तिल^यवाग्वः।  
+    
+५०।३१च्द्। *आस्वादयते[क्।आस्वादयतश्] च^ओष्ठौ लिहते मधुरं रसं ज्ञेयम्॥  
+    
+५०।३२अब्। *विसृक्के[क्।विस्पृक्के] स्फोटयेज् जिह्वाम् आम्ले वक्त्रं विकूणयेत्।  
+    
+५०।३२च्द्। *कटुके +अथ कषाये +अथ[क्।कटुतिक्तकषायोष्णैर्] हिक्केत् ष्ठीवेच् च सैन्धवे॥  
+    
+५०।३३अ श्लेष्मत्यागे शुष्क^तिक्तं तद् अल्पं  
+    
+५०।३३ब् श्रुत्वा क्रव्यादं वा प्रेक्ष्य वा मांसमिश्रम्।  
+    
+५०।३३च् भ्रू^गण्ड^ओष्ठ^स्पर्शने शाकुनं तद्^  
+    
+५०।३३द् भुक्तं तेन^इत्य् उक्तम् एतन् निमित्तम्॥  
+    
+५०।३४अब्। मूर्ध^गल^केश^हनु^शङ्ख^कर्ण^जङ्घं वस्तिं च स्पृष्ट्वा।  
+    
+५०।३४च्द्। गज^महिष^मेष^शूकर^गो^शश^मृग^*महिष[क्।ओमित्तेद्]^मांसयुग् भुक्तम्॥  
+    
+५०।३५अब्। दृष्टे श्रुते +अप्य् अशकुने गोधा^मत्स्य^आमिषं वदेद् भुक्तम्।  
+    
+५०।३५च्द्। गर्भिण्या गर्भस्य च निपतनम् एवं प्रकल्पयेत् प्रश्ने॥  
+    
+५०।३६अब्। पुं^स्त्री^नपुंसक^आख्ये दृष्टे +अनुमिते पुरःस्थिते स्पृष्टे।  
+    
+५०।३६च्द्। तज्जन्म भवति पान^अन्न^पुष्प^फल^दर्शने च शुभम्॥  
+    
+५०।३७अ अङ्गुष्ठेन भ्रू^उदरं वा^अङ्गुलिं वा  
+    
+५०।३७ब् स्पृष्ट्वा पृच्छेद् गर्भ^चिन्ता तदा स्यात्।  
+    
+५०।३७च् मध्व्^आज्याद्यैर् हेम^रत्न^प्रवालैर्  
+    
+५०।३७द् अग्रस्थैर् वा मातृ^धात्र्य्^आत्मजैश् च॥  
+    
+५०।३८अ गर्भयुता जठरे करगे स्याद्  
+    
+५०।३८ब् दुष्ट^निमित्त^वशात् तदुदासः।  
+    
+५०।३८च् कर्षति तज्जठरं यदि पीठ^  
+    
+५०।३८द् उत्पीडनतण् करगे च करे +अपि॥  
+    
+५०।३९अब्। घ्राणाया दक्षिणे द्वारे स्पृष्टे मासोत्तरं वदेत्।  
+    
+५०।३९च्द्। वामे *+अब्दौ[क्।द्वौ] कर्ण एवं मा द्विचतुर्घ्नः श्रुतिस्तने॥  
+    
+५०।४०अ वेणीमूले त्रीन् सुतान् कन्यके द्वे  
+    
+५०।४०ब् कर्णे पुत्रान् पञ्च हस्ते त्रयं च।  
+    
+५०।४०च् अङ्गुष्ठान्ते पञ्चकं चानुपूर्व्या  
+    
+५०।४०द् पाद^अङ्गुष्ठे पार्ष्णियुग्मे +अपि कन्याम्॥  
+    
+५०।४१अब्। सव्य^असव्य^ऊरुसम्स्पर्शे सूते कन्या^सुत^द्वयम्।  
+    
+५०।४१च्द्। स्पृष्टे ललाट^मध्य^अन्ते चतुस्^त्रि^तनया भवेत्॥  
+    
+५०।४२अब्। शिरो^ललाट^भ्रू^कर्ण^गण्डं हनु^रदा गलम्  
+    
+५०।४२च्द्। सव्य^अपसव्य^स्कन्धश् च हस्तौ चिबुक^नालकम्॥  
+    
+५०।४३अ उरः कुचं दक्षिणम् अप्य् असव्यं  
+    
+५०।४३ब् हृत्^पार्श्वम् एवं जठरं कटिश् च।  
+    
+५०।४३च् स्फिक्^पायु^सन्धि^ऊरुयुगं च जानू  
+    
+५०।४३द् जङ्घे +अथ पादाव् इति कृत्तिका^आदौ॥  
+    
+५०।४४अ इति निगदितम् एतद् गात्र^संस्पर्श^लक्ष्म  
+    
+५०।४४ब् प्रकटम् अभिमताप्त्यै वीक्ष्य शास्त्राणि सम्यक्।  
+    
+५०।४४च् विपुलमतिर् उदारो वेत्ति यः सर्वम् एतन्  
+    
+५०।४४द् नरपतिजनताभिः पूज्यते +असौ सदैव॥
+
+                   ५१ पिटकलक्षणाध्यायः
+
+५१।०१अब्। सित^रक्त^पीत^कृष्णा विप्रादीनां क्रमेण पिटका ये।  
+    
+५१।०१च्द्। ते क्रमशः प्रोक्तफला वर्णानां *न^अग्रजातानाम्[क्।अग्रजादीनाम्]॥  
+    
+५१।०२अ सुस्निग्ध^व्यक्त^शोभाः शिरसि धनचयं मूर्ध्नि सौभाग्यम् आराद्  
+    
+५१।०२ब् दौर्भाग्यं भ्रूयुगोत्थाः प्रियजन^घटनाम् आशु दुःशीलतां च।  
+    
+५१।०२च् तन्मध्योत्थाश् च शोकं नयनपुटगता नेत्रयोर् इष्टदृष्टिं  
+    
+५१।०२द् प्रव्रज्यां शङ्खदेशे +अश्रुजलनिपतन^*स्थानगा रान्ति चिन्ताम्[क्।स्थानगाश् च अतिचिन्ताम्]॥  
+    
+५१।०३अ घ्राणा^गण्डे वसनसुतदाश् च^ओष्ठयोर् अन्नलाभं  
+    
+५१।०३ब् कुर्युस् तद्वच् चिबुकतलगा भूरि वित्तं ललाटे।  
+    
+५१।०३च् हन्वोर् एवं गलकृतपदा भूषणान्य् अन्नपाने  
+    
+५१।०३द् श्रोत्रे *षड्भूतण[क्।ऊ।तद्भूषण]गणम् अपि ज्ञानम् आत्मस्वरूपम्॥  
+    
+५१।०४अ शिरः^सन्धि^ग्रीवा^हृदय^कुच^पार्श्व^उरसि गता  
+    
+५१।०४ब् अयोघातं घातं सुत^तनय^लाभं शुचम् अपि।  
+    
+५१।०४च् प्रियप्राप्तिं स्कन्धे +अप्य् अटनम् अथ भिक्षार्थम् असकृद्  
+    
+५१।०४द् विनाशं कक्षोत्था विदधति धनानां *बहुमुखम्[क्।बहुसुखम्]॥  
+    
+५१।०५अब्। दुःख^शत्रुनिचयस्य *विनाशं[क्।विघातम्] पृष्ठ^बाहु^युगजा रचयन्ति।  
+    
+५१।०५च्द्। संयमं च मणिबन्धन^जाता भूषण^आद्यम् उपबाहु^युग्^उत्थाः॥  
+    
+५१।०६अ धनाप्तिं सौभाग्यं शुचम् अपि कर^अङ्गुल्य्^उदरगाः  
+    
+५१।०६ब् सुपानान्नं नाभौ तदध इह चौरैर् धनहृतिम्।  
+    
+५१।०६च् धनं धान्यं बस्तौ युवतिम् अथ मेढ्रे सुतनयान्  
+    
+५१।०६द् धनं सौभाग्यं वा गुद^वृषणजाता विदधति॥  
+    
+५१।०७अब्। ऊर्वोर् यान^अङ्गना^लाभं जान्वोः शत्रुजनात् क्षतिम्।  
+    
+५१।०७च्द्। शस्त्रेण जङ्घयोर् गुल्फे +अध्व^बन्ध^क्लेशदायिनः॥  
+    
+५१।०८अब्। स्फिक्^पार्ष्णि^पाद^जाता धननाश^अगम्यगमनम् अध्वानम्॥  
+    
+५१।०८च्द्। बन्धनम् अङ्गुलिनिचये +अङ्गुष्ठे च ज्ञातिलोकतः पूजाम्॥  
+    
+५१।०९अब्। उत्पात^गण्ड^पिटका दक्षिणतो वामतस् त्व् अभीघाताः।  
+    
+५१।०९च्द्। धन्या भवन्ति पुंसां तद्^विपरीताश् *च[क्।तु] नारीणाम्॥  
+    
+५१।१०अ इति पिटकविभागः प्रोक्त आमूर्धतो +अयं  
+    
+५१।१०ब् व्रण^तिलक^विभागो +अप्य् एवम् एव प्रकल्प्यः।  
+    
+५१।१०च् भवति मशक^लक्ष्म^आवर्तजन्म^अपि तद्वन्  
+    
+५१।१०द् निगदितफलकारि प्राणिनां देह^संस्थम्॥
+
+                   ५२ वास्तुविद्या
+
+५२।०१अब्। वास्तुज्ञानम् अथ^अतः कमलभवान् मुनिपरम् परायातम्।  
+    
+५२।०१च्द्। क्रियते +अधुना मया^इदम् विदग्ध^सांवत्सर^प्रीत्यै॥  
+    
+५२।०२अब्। किम् अपि किल भूतम् अभवद् रुन्धानं रोदसी शरीरेण।  
+    
+५२।०२च्द्। तद् अमरगणेन सहसा विनिगृह्य^अधोमुखं न्यस्तम्॥  
+    
+५२।०३अब्। यत्र च येन गृहीतं विबुधेन^अधिष्ठितः स तत्र^एव।  
+    
+५२।०३च्द्। तद् अमरमयं विधाता वास्तुनरं कल्पयाम् आस॥  
+    
+५२।०४अब्। उत्तमम् अष्ट^अभ्यधिकं हस्तशतं नृप^गृहं पृथुत्वेन।  
+    
+५२।०४च्द्। अष्ट^अष्ट^ऊनान्य् एवं पञ्च सपादानि दैर्घ्येण॥  
+    
+५२।०५अब्। षड्भिः षड्भिर् हीना सेनापति^सद्मनां चतुःषष्टिः।  
+    
+५२।०५च्द्। *एवं पञ्च गृहाणि[क्।पञ्च एवं विस्तारात्] षड्भाग^समन्विता दैर्घ्यम्॥  
+    
+५२।०६अब्। षष्टिश् *चतुर्भिर् हीना[क्।चतुर्विहीना] वेश्मानि पञ्च सचिवस्य।  
+    
+५२।०६च्द्। स्व^अष्टांश^युतो दैर्घ्यं तदर्धतो राज^महिषीणाम्॥  
+    
+५२।०७अब्। षड्भिः षड्भिश् च^एवं युवराजस्य^अपवर्जिता^अशीतिः।  
+    
+५२।०७च्द्। त्र्यंशान्विता च दैर्घ्यं पञ्च तदर्धैस् तदनुजनानाम्॥  
+    
+५२।०८अब्। नृप^सचिव^अन्तरतुल्यं सामन्त^प्रवर^राजपुरुषाणाम्।  
+    
+५२।०८च्द्। नृप^युवराज^विशेषः कञ्चुकि^वेश्या^कलाज्ञानाम्॥  
+    
+५२।०९अब्। अध्यक्ष^अधिकृतानां *सर्वेषां[क्।सर्वेषाम् एव] कोश^रति^तुल्यम्।  
+    
+५२।०९च्द्। युवराज^मन्त्रि^विवरं कर्मान्त^अध्यक्ष^दूतानाम्॥  
+    
+५२।१०अब्। चत्वारिंशद्^ धीना चतुश्चतुर्भिस् तु पञ्च यावद् इति।  
+    
+५२।१०च्द्। षड्^भाग^युता दैर्घ्यं दैवज्ञ^पुरोधसोर् भिषजः॥  
+    
+५२।११अब्। वास्तुनि यो विस्तारः स एव च^उच्छ्राय^निश्चयः शुभदः।  
+    
+५२।११च्द्। शाला^एकेषु गृहेष्व् अपि विस्ताराद् द्विगुणितं दैर्घ्यम्॥  
+    
+५२।१२अब्। चातुर्वर्ण्य^व्यासो द्वात्रिंशत् *सा[क्।स्यात्] चतुश्चतुर्हीना।  
+    
+५२।१२च्द्। आषोडशाद् इति परं न्यूनतरम् अतीव हीनानाम्॥  
+    
+५२।१३अब्। सदशांशं विप्राणां क्षत्रस्य^अष्टांश^संयुतं दैर्घ्यम्।  
+    
+५२।१३च्द्। षड्भाग^युतं वैश्यस्य भवति शूद्रस्य पादयुतम्॥  
+    
+५२।१४अब्। नृप^सेनापति^गृहयोर् अन्तरमानेन कोश^रति^भवने।  
+    
+५२।१४च्द्। सेनापति^चातुर्वर्ण्य^विवरतो राजपुरुषाणाम्॥  
+    
+५२।१५अब्। अथ *पारशव[क्।पारसव]^आदीनां स्वमान^संयोग^दल^समं भवनम्।  
+    
+५२।१५च्द्। हीन^अधिकं स्वमानाद् अशुभकरं वास्तु सर्वेषाम्॥  
+    
+५२।१६अब्। पश्व्^आश्रमिणाम् अमितं धान्य^आयुध^वह्नि^रति^गृहाणां च।  
+    
+५२।१६च्द्। न^इच्छन्ति शास्त्रकारा हस्तशताद् उच्छ्रितं परतः॥  
+    
+५२।१७अब्। सेनापति^नृपतीनां सप्तति^सहिते द्विधा^कृते व्यासे।  
+    
+५२।१७च्द्। शाला चतुर्दश^हृते पञ्चत्रिंशद्^धृते +अलिन्दः॥  
+    
+५२।१८अब्। हस्त^द्वात्रिंश^आदिषु चतुश्^चतुस्^त्रि^त्रिक^त्रिकाः शालाः।  
+    
+५२।१८च्द्। सप्त^दश^त्रितय^तिथि^त्रयोदश^कृताङ्गुल^अभ्यधिकाः॥  
+    
+५२।१९अब्। त्रि^त्रि^द्वि^द्वि^द्वि^समाः क्षयक्रमाद् अङ्गुलानि च^एतेषाम्।  
+    
+५२।१९च्द्। व्येका विंशतिर् अष्टौ विंशतिर् अष्टादश त्रितयम्॥  
+    
+५२।२०अब्। शाला^त्रिभाग^तुल्या कर्तव्या वीथिका बहिर्भवनात्।  
+    
+५२।२०च्द्। यद्य् अग्रतो भवति सा सोष्णीषं नाम तद्वास्तु॥  
+    
+५२।२१अब्। सायाश्रयम् इति पश्चात् सावष्टम्भं तु पार्श्वसंस्थितया।  
+    
+५२।२१च्द्। सुस्थितम् इति च समन्तात्^शास्त्रज्ञैः पूजिताः सर्वाः॥  
+    
+५२।२२अब्। विस्तार^षोडशांशः सचतुर्^हस्तो भवेद् गृह^उच्छ्रायः।  
+    
+५२।२२च्द्। द्वादश^भागेन^ऊनो भूमौ भूमौ समस्तानाम्॥  
+    
+५२।२३अब्। व्यासात् षोडशभागः सर्वेषां सद्मनां भवति भित्तिः।  
+    
+५२।२३च्द्। पक्व^इष्टका^आकृतानां दारुकृतानां तु *न विकल्पः[क्।सविकल्पः, क्ऽस् त्र्। न विकल्पः]॥  
+    
+५२।२४अब्। एकादश^भाग^युतः ससप्ततिर् नृप^बलेशयोर् व्यासः।  
+    
+५२।२४च्द्। उच्छ्रायो +अङ्गुलतुल्यो द्वारस्यार्धेन विष्कम्भः॥  
+    
+५२।२५अब्। विप्रादीनां व्यासात् पञ्चांशो +अष्टादश^अङ्गुल^समेतः।  
+    
+५२।२५च्द्। साष्टांशो विष्कम्भो द्वारस्य त्रिगुण उच्छ्रायः॥  
+    
+५२।२६अब्। उच्छ्राय^हस्त^सङ्ख्या^परिमाणान्य् अङ्गुलानि बाहुल्यम्।  
+५२।२६च्द्। शाखाद्वये +अपि कार्यं सार्धं तत् स्याद् उदुम्बरयोः॥  
+    
+५२।२७अब्। उच्छ्रायात् सप्तगुणाद् अशीतिभागः पृथुत्वम् एतेषाम्।  
+    
+५२।२७च्द्। नवगुणिते +अशीत्यंशः स्तम्भस्य दशांशहीनो +अग्रे॥  
+    
+५२।२८अब्। *समचतुरस्रो[क्।समचतुरश्रो] रुचको वज्रो *+अष्टास्रिर्[क्।अष्टाश्रिस्] द्विवज्रको द्विगुणः।  
+    
+५२।२८च्द्। द्वात्रिंशता तु मध्ये प्रलीनको वृत्त इति वृत्तः॥  
+    
+५२।२९अब्। स्तम्भं विभज्य नवधा वहनं भागो घटो +अस्य भागो +अन्यः।  
+    
+५२।२९च्द्। पद्मं तथा^उत्तरोष्ठं कुर्याद् भागेन भागेन॥  
+    
+५२।३०अब्। स्तम्भसमं बाहुल्यं भारतुलानाम् उपर्य् उपर्य् आसाम्।  
+    
+५२।३०च्द्। भवति तुला^उपतुलानाम् ऊनं पादेन पादेन॥  
+    
+५२।३१अब्। अप्रतिषिद्ध^अलिन्दं समन्ततो वास्तु सर्वतोभद्रम्।  
+    
+५२।३१च्द्। नृप^विबुध^समूहानां कार्यं द्वारैश् चतुर्भिर् अपि॥  
+    
+५२।३२अब्। नन्द्यावर्तम् अलिन्दैः शालाकुड्यात् प्रदक्षिण^अन्तगतैः।  
+    
+५२।३२च्द्। द्वारं पश्चिमम् अस्मिन् विहाय शेषाणि कार्याणि॥  
+    
+५२।३३अब्। द्वारालिन्दो +अन्तगतः प्रदक्षिणो +अन्यः शुभस् ततश् चान्यः।  
+    
+५२।३३च्द्। *तस्मिंश्[क्।तद्वद्] च वर्धमाने द्वारं तु न दक्षिणं कार्यम्॥  
+    
+५२।३४अब्। अपरो +अन्तगतो +अलिन्दः प्रागन्तगतौ तदुत्थितौ चान्यौ।  
+    
+५२।३४च्द्। तदवधि^*विधृतश्[क्।विवृतश्, क्ऽस् त्र्। विधृत] चान्यः प्राग्द्वारं स्वस्तिके *शुभदम्[क्।+अशुभदम्, क्ऽस् त्र्। शुभम्]॥  
+    
+५२।३५अब्। प्राक्^पश्चिम^अवलिन्दाव् अन्तगतौ तद् अवधिस्थितौ शेषौ।  
+    
+५२।३५च्द्। रुचके द्वारं न शुभदम् उत्तरतो +अन्यानि शस्तानि॥  
+    
+५२।३६अब्। श्रेष्ठं नन्द्यावर्तं सर्वेषां वर्धमान^सञ्ज्ञं च।  
+    
+५२।३६च्द्। स्वस्तिक^रुचके मध्ये शेषं शुभदं नृप^आदीनाम्॥  
+    
+५२।३७अब्। उत्तरशाला^हीनं हिरण्यनाभं त्रिशालकं धन्यम्।  
+    
+५२।३७च्द्। प्राक्शालया वियुक्तं सुक्षेत्रं वृद्धिदं वास्तु॥  
+    
+५२।३८अब्। याम्याहीनं चुल्ली त्रिशालकं वित्तनाशकरम् एतत्।  
+    
+५२।३८च्द्। पक्षघ्नम् अपरया वर्जितं सुत^ध्वंस^वैर^करम्॥  
+    
+५२।३९अब्। सिद्धार्थम् अपरयाम्ये यमसूर्यं पश्चिमोत्तरे शाले।  
+    
+५२।३९च्द्। दण्डाख्यम् उदक्पूर्वे वात^आख्यं प्राग्युता याम्या॥  
+    
+५२।४०अब्। पूर्वापरे तु शाले गृहचुल्ली दक्षिणोत्तरे काचम्।  
+    
+५२।४०च्द्। सिद्धार्थे +अर्थावाप्तिर् यमसूर्ये गृहपतेर् मृत्युः॥  
+    
+५२।४१अब्। दण्डवधो दण्डाख्ये कलह^उद्वेगः सदैव वात^बाख्ये।  
+    
+५२।४१च्द्। वित्तविनाशश् चुल्ल्यां ज्ञातिविरोधः स्मृतः काचे॥  
+    
+५२।४२अब्। एकाशीतिविभागे दश दश पूर्वोत्तरायता रेखाः।  
+    
+५२।४२च्द्। अन्तस् त्रयोदश सुरा द्वात्रिंशद्^बाह्य^कोष्ठस्थाः॥  
+    
+५२।४३अब्। शिखि^पर्जन्य^जयन्त^इन्द्र^सूर्य^सत्या भृशो +अन्तरिक्षश् च।  
+    
+५२।४३च्द्। *ऐशान्यादि[क्।ऐशान्याद्याः]^क्रमशो दक्षिणपूर्वे +अनिलः कोणे॥  
+    
+५२।४४अब्। पूषा वितथ^बृहत्क्षत^यम^गन्धर्व^आख्य^भृङ्गराज^मृगाः।  
+    
+५२।४४च्द्। पितृ^दौवारिक^सुग्रीव^कुसुमदन्त^अम्बुपत्य्^असुराः॥  
+    
+५२।४५अब्। शोषो +अथ पापयक्ष्मा रोगः कोणे ततो +अहि^मुख्यौ च।  
+    
+५२।४५च्द्। भल्लाट^सोम^भुजगास् ततो +अदितिर् दितिर् इति क्रमशः॥  
+    
+५२।४६अब्। मध्ये ब्रह्मा नवकोष्ठकाधिपो +अस्य^अर्यमा स्थितः प्राच्याम्।  
+    
+५२।४६च्द्। एकान्तरात् प्रदक्षिणम् अस्मात् सविता विवस्वांश् च॥  
+    
+५२।४७अब्। विबुध^अधिपतिस् तस्मान् मित्रो +अन्यो राज^यक्ष्म^नामा च।  
+    
+५२।४७च्द्। *पृथिवी[क्।पृथ्वी]धरापवत्साव् इत्य् एते ब्रह्मणः परिधौ॥  
+    
+५२।४८अब्। आपो नाम^ऐशाने कोणे हौताशने च सावित्रः।  
+    
+५२।४८च्द्। जय इति च नैरृते रुद्र आनिले +अभ्यन्तरपदेषु॥  
+    
+५२।४९अब्। आपस् तथा^अपवत्सः पर्जन्यो +अग्निर् दितिश् च वर्गो +अयम्।  
+    
+५२।४९च्द्। एवं कोणे कोणे पदिकाः स्युः पञ्च पञ्च सुराः॥  
+    
+५२।५०अब्। बाह्या द्विपदाः शेषास् ते विबुधा विंशति समाख्याताः।  
+    
+५२।५०च्द्। शेषाश् चत्वारो +अन्ये त्रिपदा दिक्ष्व् अर्यमाद्यास् ते॥  
+    
+५२।५१अब्। पूर्वोत्तरदिग्^मूर्धा पुरुषो +अयम् अवाङ्^मुखो +अस्य शिरसि शिखी।  
+    
+५२।५१च्द्। आपो मुखे स्तने +अस्यार्यमा ह्य् उरस्य् आपवत्सश् च॥  
+    
+५२।५२अब्। पर्जन्याद्या बाह्या दृक्श्रवण^उरःस्थलांसगा देवाः।  
+    
+५२।५२च्द्। सत्याद्याः पञ्च भुजे हस्ते सविता *च सावित्रः[क्।ससावित्रः]॥  
+    
+५२।५३अब्। वितथो बृहत्क्षतयुतः पार्श्वे जठरे स्थितो विवस्वांश् च।  
+    
+५२।५३च्द्। ऊरू जानु च जङ्घे स्फिग् इति यमाद्यैः परिगृहीताः॥  
+    
+५२।५४अब्। एते दक्षिणपार्श्वे स्थानेष्व् एवं च वामपार्श्वस्थाः।  
+    
+५२।५४च्द्। मेढ्रे शक्र^जयन्तौ हृदये ब्रह्मा पिता^*अङ्घ्रिगतः[क्।अङ्ग्रिगतः]॥  
+    
+५२।५५अब्। अष्ट^अष्टकपदम् अथ वा कृत्वा रेखाश् च कोणगास् तिर्यक्।  
+    
+५२।५५च्द्। ब्रह्मा चतुष्पदो +अस्मिन्न् अर्धपदा ब्रह्मकोणस्थाः॥  
+    
+५२।५६अब्। अष्टौ च बहिष्कोणेष्व् अर्धपदास् तद्^उभय^स्थिताः स^अर्धाः।  
+    
+५२।५६च्द्। उक्तेभ्यो ये शेषास् ते द्विपदा विंशतिस् ते *हि[क्।च]॥  
+    
+५२।५७अब्। सम्पाता वंशानां मध्यानि समानि यानि च पदानाम्।  
+    
+५२।५७च्द्। मर्माणि तानि *विन्द्यान् न तानि परिपीडयेत्[क्।विन्द्यान्न् अपरिपीडयेत्] प्राज्ञः॥  
+    
+५२।५८अब्। तान्य् अशुचिभाण्ड^कील^स्तम्भ^आद्यैः पीडितानि शल्यैश् च।  
+    
+५२।५८च्द्। गृहभर्तुस् तत्तुल्ये पीडाम् अङ्गे प्रयच्छन्ति॥  
+    
+५२।५९अब्। कण्डूयते यद् अङ्गं *गृहभर्तुर्[क्।गृहपतिना] यत्र वा^अमराहुत्याम्।  
+    
+५२।५९च्द्। अशुभं भवेन् निमित्तं विकृतेर् वा अग्नेः सशल्यं तत्॥  
+    
+५२।६०अब्। धनहानिर् दारुमये पशुपीडा रुग्भयानि चास्थिकृते।  
+    
+[क्।त्wओ वेर्सेस् इन्सेर्तेद्  
+    
+क्। ५३।६०च्द्। लोहमये शस्त्र^भयं कपालकेशेषु मृत्युः स्यात्॥  
+    
+क्। ५३।६१अब्। अङ्गारे स्तेनभयं भस्मनि च विनिर्दिशेत् सदाग्निभयम्।  
+    
+क्। ५३।६१च्द्। शल्यं हि मर्मसंस्थं सुवर्ण^रजत^आदृते +अत्यशुभम्॥  
+    
+क्। ५३।६२अब्। मर्मण्यमर्मगो वा रुणद्ध्य् अर्थागमं तुषसमूहः]।  
+    
+५२।६०च्द्। अपि नागदन्तको मर्म^संस्थितो दोषकृद् भवति॥  
+    
+५२।६१अब्। रोगाद् वायुं पितृतो हुताशनं शोषसूत्रम् अपि वितथात्।  
+    
+५२।६१च्द्। मुख्याद् भृशं जयन्ताच् च भृङ्गम् अदितेश् च सुग्रीवम्॥  
+    
+५२।६२अब्। तत्सम्पाता नव ये तान्य् अतिमर्माणि सम्प्रदिष्टानि।  
+    
+५२।६२च्द्। यश् च पदस्य^अष्टांशस् तत् प्रोक्तं मर्म^परिमाणम्॥  
+    
+५२।६३अब्। पदहस्त^सङ्ख्यया सम्मितानि वंशो +अङ्गुलानि विस्तीर्णः।  
+    
+५२।६३च्द्। वंशव्यासो +अध्यर्धः शिराप्रमाणं विनिर्दिष्टम्॥  
+    
+५२।६४अब्। सुखम् इच्छन् ब्रह्माणं यत्नाद् रक्षेद् गृही *गृहान्तःस्थम्[क्।गृतान्तस्थम्]।  
+    
+५२।६४च्द्। उच्छिष्ट^आद्य्^उपघाताद् गृहपतिर् उपतप्यते तस्मिन्॥  
+    
+५२।६५अब्। दक्षिणभुजेन हीने वास्तुनरे +अर्थक्षयो *+अङ्गनादादोषाः[क्।अङ्गनादोषाः]।  
+    
+५२।६५च्द्। वामे +अर्थधान्यहानिः शिरसि गुणैर् हीयते सर्वैः॥  
+    
+५२।६६अब्। स्त्रीदोषाः सुतमरणं प्रेष्यत्वं च^अपि चरणवैकल्ये।  
+    
+५२।६६च्द्। अविकल^पुरुषे वसतां मान^अर्थ^युतानि सौख्यानि॥  
+    
+५२।६७अब्। गृह^नगर^ग्रामेषु च सर्वत्र^एवं प्रतिष्ठिता देवाः।  
+    
+५२।६७च्द्। तेषु च यथ^अनुरूपं वर्णा विप्रादयो वास्याः।  
+    
+५२।६८अब्। वासगृहाणि च विन्द्याद् विप्र^आदीनाम् उदग्दिगाद्यानि।  
+    
+५२।६८च्द्। विशतां च यथा भवनं भवन्ति तान्य् एव दक्षिणतः॥  
+    
+५२।६९अब्। नव^गुण^सूत्र^विभक्तान्य् अष्ट^गुणेन^अथ वा चतुःषष्टेः।  
+    
+५२।६९च्द्। द्वाराणि यानि तेषाम् अनल^आदीनां फल^उपनयः॥  
+    
+५२।७०अब्। *अनिलभयं[क्।अनलभयम्] *स्त्रीजननं[क्।स्त्रीजन्म] प्रभूतधनता नरेन्द्र^वाल्लभ्यम्।  
+    
+५२।७०च्द्। क्रोधपरता^अनृतत्वं क्रौर्यं चौर्यं च पूर्वेण॥  
+    
+५२।७१अब्। अल्पसुतत्वं प्रैष्यं नीचत्वं भक्ष्य^पान^सुत^वृद्धिः।  
+    
+५२।७१च्द्। रौद्रं कृतघ्नम् अधनं सुत^वीर्य^घ्नं च याम्येन॥  
+    
+५२।७२अब्। सुत^पीडा रिपु^वृद्धिर् न सुत^धन^आप्तिः[क्।धनस्ताप्तिः] सुत^अर्थ^फल^सम्पत्।  
+    
+५२।७२च्द्। धनसम्पन् नृपति^भयं धन^क्षयो रोग इत्य् अपरे॥  
+५२।७३अब्। वध^बन्धो रिपु^वृद्धिः सुतधनलाभः[क्।धनसुतलाभः] समस्तगुणसम्पत्।  
+    
+५२।७३च्द्। पुत्रधनाप्तिर् वैरं सुतेन दोषाः स्त्रिया नैःस्वम्॥  
+    
+५२।७४अब्। मार्ग^तरु^कोण^कूप^स्तम्भ^भ्रम^विद्धम् अशुब्भदं द्वारम्।  
+    
+५२।७४च्द्। उच्छ्रायाद् द्विगुणमितां त्यक्त्वा भूमिं न दोषाय॥  
+    
+५२।७५अब्। रथ्या^आविद्धं द्वारं नाशाय कुमार^दोषदं तरुणा।  
+    
+५२।७५च्द्। पङ्कद्वारे शोको व्ययो +अम्बुनिःस्राविणि[क्।अम्बुनि श्राविणि] प्रोक्तः॥  
+    
+५२।७६अब्। कूपेन^अपस्मारो भवति विनाशश् च देवता^आविद्धे।  
+    
+५२।७६च्द्। स्तम्भेन स्त्रीदोषाः कुलनाशो ब्राह्मणाभिमुखे[क्।ब्राह्मणो +अभिमुखे]॥  
+    
+५२।७७अब्। उन्मादः स्वयम् उद्घाटिते +अथ पिहिते स्वयं कुलविनाशः।  
+    
+५२।७७च्द्। मानाधिके नृप^भयं दस्युभयं *व्यसनम् एव नीचे च[क्।व्यसनदं नीचम्]॥  
+    
+५२।७८अब्। द्वारं द्वारस्य^उपरि यत् तन् न शिवाय सङ्कटं यच् च।  
+    
+५२।७८च्द्। आव्यात्तं क्षुद्भयदं कुब्जं कुलनाशनं भवति॥  
+    
+५२।७९अब्। पीडाकरम् अतिपीडितम् अन्तर्विनतं भवेद् अभावाय।  
+    
+५२।७९च्द्। बाह्यविनते प्रवासो दिग्भ्रान्ते दस्युभिः पीडा॥  
+    
+५२।८०अब्। मूलद्वारं नान्यैर् द्वारैर् अभिसन्दधीत रूप^ऋद्ध्या।  
+    
+५२।८०च्द्। घट^फल^पत्र^प्रमथा^आदिभिश् च तन्^मङ्गलैश् चिनुयात्॥  
+    
+५२।८१अब्। ऐशान्यादिषु कोणेषु संस्थिता बाह्यतो गृहस्यैताः।  
+    
+५२।८१च्द्। चरकी विदारिनामा^अथ पूतना राक्षसी च^इति॥  
+    
+५२।८२अब्। पुरभवनग्रामाणां ये कोणास् तेषु निवसतां दोषाः।  
+५२।८२च्द्। श्वपचादयो +अन्त्यजात्यास् तेष्व् एव विवृद्धिम् आयान्ति॥  
+    
+५२।८३अब्। याम्यादिष्व् अशुभफला जातास् तरवः प्रदक्षिणेनैते।  
+    
+५२।८३च्द्। उदगादिषु प्रशस्ताः प्लक्ष^वट^उदुम्बर^अश्वत्था[क्।उदुम्बराश्वत्थाः]॥  
+    
+५२।८४अब्। आसन्नाः कण्ठकिनो रिपुभयदाः क्षीरिणो +अर्थनाशाय।  
+    
+५२।८४च्द्। फलिनः प्रजाक्षयकरा दारूण्य् अपि वर्जयेद् एषाम्॥  
+    
+५२।८५अब्। छिन्द्याद् यदि न तरूंश् तान् तदन्तरे पूजितान् वपेद् अन्यत्[क्।अन्यान्]।  
+    
+५२।८५च्द्। पुन्नाग^अशोक^अरिष्ट^बकुल^पनसान् शमी^शालौ॥  
+    
+५२।८६अ शस्तौषधिद्रुमलता मधुरा सुगन्धा  
+    
+५२।८६ब् स्निग्धा समा न सुषिरा च मही नराणाम्।  
+    
+५२।८६च् अप्यध्वनि श्रमविनोदम् उपागतानां  
+    
+५२।८६द् धत्ते श्रियं किम् उत शाश्वतमन्दिरेषु॥  
+    
+५२।८७अब्। सचिवालये +अर्थनाशो धूर्तगृहे सुतवधः समीपस्थे।  
+    
+५२।८७च्द्। उद्वेगो देवकुले चतुष्पदे[क्।ऊ।चतुष्पथे] भवति चाकीर्तिः॥  
+    
+५२।८८अब्। चैत्ये भयं ग्रहकृतं वल्मीकश्वभ्रसङ्कुले विपदः।  
+    
+५२।८८च्द्। गर्तायां तु पिपासा कूर्म^आकारे धनविनाशः॥  
+    
+५२।८९अब्। उदगादिप्लवम् इष्टं विप्रादीनां प्रदक्षिणेनैव।  
+    
+५२।८९च्द्। विप्रः सर्वत्र वसेद् अनुवर्णम् अथ^इष्टम् अन्येषाम्॥  
+    
+५२।९०अब्। गृहमध्ये हस्तमितं खात्वा परिपूरितं पुनः श्वभ्रम्।  
+    
+५२।९०च्द्। यद्य् ऊनम् अनिष्टं तत् समे समं धन्यम् अधिकं यत्॥  
+    
+५२।९१अब्। श्वभ्रम् अथ वा^अम्बुपूर्णं पदशतम् इत्वा^आगतस्य यदि न^ऊनम्।  
+    
+५२।९१च्द्। तद् धन्यं यच् च भवेत् पलान्य् अपाम् आढकं चतुःषष्टिः॥  
+    
+५२।९२अब्। आमे वा मृत्पात्रे श्वभ्रस्थे दीपवर्तिर् अभ्यधिकम्।  
+    
+५२।९२च्द्। ज्वलति दिशि यस्य शस्ता सा भूमिस् तस्य वर्णस्य॥  
+    
+५२।९३अब्। श्वभ्रोषितं न कुसुमं यस्य[क्।यस्मिन्] प्रम्लायते +अनुवर्णसमम्।  
+    
+५२।९३च्द्। तत्तस्य भवति शुभदं यस्य च यस्मिन् मनो रमते॥  
+    
+५२।९४अब्। सित^रक्त^पीत^कृष्णा विप्रादीनां प्रशस्यते भूमिः।  
+    
+५२।९४च्द्। गन्धश् च भवति यस्यां[क्।यस्या] घृतरुधिरान्नाद्यमद्यसमः॥  
+    
+५२।९५अब्। कुश^युक्ता शर^बहुला दूर्वा^काश^आवृता क्रेमेण मही।  
+    
+५२।९५च्द्। *ह्य् अनुवर्णं[क्।अनुवर्णम्] वृद्धिकरी मधुर^कषाय^अम्ल^कटुका च॥  
+    
+५२।९६अब्। कृष्टां प्ररूढबीजां गो +अध्युषितां ब्राह्मणैः प्रशस्तां च।  
+    
+५२।९६च्द्। गत्वा महीं गृहपतिः काले साम्वत्सरोद्दिष्टे॥  
+    
+५२।९७अब्। भक्ष्यैर् नानाकारैर् दध्य्^अक्षत^सुरभि^कुसुम^धूपैश् च।  
+    
+५२।९७च्द्। दैवतपूजां कृत्वा स्थपतीन् अभ्यर्च्य विप्रांश् च॥  
+    
+५२।९८अब्। विप्रः स्पृष्ट्वा शीर्षं वक्षश् च क्षत्रियो विशाश् च^ऊरू।  
+    
+५२।९८च्द्। शूद्रः पादौ स्पृष्ट्वा कुर्याद् रेखां गृहारम्भे॥  
+    
+५२।९९अब्। अङ्गुष्ठकेन कुर्यान् मध्याङ्गुल्या +अथ वा प्रदेशिन्या।  
+    
+५२।९९च्द्। कनकमणिरजतमुक्ताद् अधिक^फल^कुसुम^अक्षतैश् च शुभम्॥  
+    
+५२।१००अब्। शस्त्रेण शस्त्र^मृत्युर् बन्धो लोहेन भस्मना^अग्निभयम्।  
+    
+५२।१००च्द्। तस्कर^भयं तृणेन च काष्ठ^उल्लिखिता च राजभयम्॥  
+    
+५२।१०१अब्। वक्रा पादालिखिता शत्रुभयक्लेशदा विरूपा च।  
+    
+५२।१०१च्द्। चर्माङ्गारास्थिकृता दन्तेन च भर्तुर्[क्।कर्तुर्] अशिवाय॥  
+    
+५२।१०२अब्। वैरम् अपसव्यलिखिता प्रदक्षिणं सम्पदो विनिर्देश्याः।  
+    
+५२।१०२च्द्। वाचः परुषा निष्ठीवितं क्षुतं चाशुभं कथितम्॥  
+    
+५२।१०३अब्। अर्धनिचितं कृतं वा प्रविशन् स्थपतिर् गृहे निमित्तानि।  
+    
+५२।१०३च्द्। अवलोकयेद् गृहपतिः क्व संस्थितः स्पृशति किं चाङ्गम्॥  
+    
+५२।१०४अब्। रविदीप्ते यदि शकुनिस् तस्मिन् काले विरौति परुषरवम्[क्।परुषरवः]।  
+    
+५२।१०४च्द्। संस्पृष्टाङ्गसमानं तस्मिन् देशे +अस्थि निर्देश्यम्॥  
+    
+५२।१०५अब्। शकुन^समये +अथ्वा +अन्ये हस्त्य्^अश्व^श्वादयो +अनुवाशन्ते।  
+    
+५२।१०५च्द्। तत्प्रभवम् अस्थि तस्मिंस् तदङ्गसम्भूतम् एव^इति॥  
+    
+५२।१०६अब्। सूत्रे प्रसार्यमाणे गर्दभ^रावो +अस्थिशल्यम् आचष्टे।  
+    
+५२।१०६च्द्। श्व^शृगाल^लङ्घिते वा सूत्रे शल्यं विनिर्देश्यम्॥  
+    
+५२।१०७अब्। दिशि शान्तायां शकुनिर्[क्।शकुनो] मधुरविरावी यदा तदा वाच्यः।  
+    
+५२।१०७च्द्। अर्थस् तस्मिन् स्थाने गृहेश्वराधिष्ठिते +अङ्गे वा॥  
+    
+५२।१०८अब्। सूत्रच्छेदे मृत्युः कीले च^अवाङ्मुखे महगः[क्।महान् रोगः]।  
+    
+५२।१०८च्द्। गृहनाथस्थपतीनां स्मृति^लोपे मृत्युर् आदेश्यः॥  
+    
+५२।१०९अब्। स्कन्धाच् च्युते शिरोरुक् कुलोपसर्गो +अपवर्जिते कुम्भे।  
+    
+५२।१०९च्द्। भग्ने +अपि च कर्मिवधश् च्युते कराद् गृहपतेर् मृत्युः॥  
+    
+५२।११०अब्। दक्षिणपूर्वे कोणे कृत्वा पूजां शिलां न्यसेत् प्रथमम्[क्।प्रथमाम्]।  
+    
+५२।११०च्द्। शेषाः प्रदक्षिणेन स्तम्भाश् च^एवं समुत्थाप्य[क्।समुत्थाप्याः]॥  
+    
+५२।१११अब्। छत्र^स्रग्^अम्बर^युतः कृत^धूप^विलेपनः समुत्थाप्यः।  
+    
+५२।१११च्द्। स्तम्भस् तथ^एव कार्यो द्वार^उच्छ्रायः प्रयत्नेन॥  
+    
+५२।११२अब्। विहग^आदिभिर् अवलीनैर् आकम्पित^पतित^दुःस्थितैश् च तथा[क्।फलम्]।  
+    
+५२।११२च्द्। शक्रध्वज^*सदृशफलं तद् एव तस्मिन्[क्।सदृशं तस्मिंश् च शुभम्] विनिर्दिष्टम्॥  
+    
+५२।११३अब्। प्रागुत्तर^उन्नते धनसुतक्षयः सुतवधश् च दुर्गन्धे।  
+    
+५२।११३च्द्। वक्रे बन्धुविनाशो न सन्ति गर्भाश् च दिन्^मूढे॥  
+    
+५२।११४अब्। इच्छेद् यदि गृह^वृद्धिं ततः समन्ताद् विवर्धयेत् तुल्यम्।  
+    
+५२।११४च्द्। एक^उद्देशे दोषः प्राग् अथ वा +अप्य् उत्तरे कुर्यात्॥  
+    
+५२।११५अब्। प्राग् भवति मित्रवैरं मृत्युभयं दक्षिणेन यदि वृद्धिः।  
+    
+५२।११५च्द्। अर्थविनाशः पश्चाद् उदग्^विवृद्धिर्[क्।उदग्^विवृद्धौ] मनस्तापः॥  
+    
+५२।११६अब्। ऐशान्यां देवगृहं महानसं यदि च^अपि कार्यम् आग्नेय्याम्।  
+    
+५२।११६च्द्। नैरृत्यां भाण्ड^उपस्करो +अर्थधान्यानि मारुत्याम्॥  
+    
+५२।११७अब्। प्राच्यादिस्थे सलिले सुतहानिः शिखि^भयं रिपुभयं च।  
+    
+५२।११७च्द्। स्त्रीकलहः स्त्रीदौष्ट्यं नैःस्व्यं वित्तात्मज^विवृद्धिः॥  
+    
+५२।११८अब्। खग^निलय^भग्न^संशुष्क^दग्ध^देवालय^श्मशान^स्थान्।  
+    
+५२।११८च्द्। क्षीरतरु^धव^विभीतक^निम्ब^अरणि^*वर्जितान् छिन्द्यात्[क्।वर्जितांश् च्छिन्द्यात्]॥  
+    
+५२।११९अब्। रात्रौ कृतबलिपूजं प्रदक्षिणं छेदयेद् दिवा वृक्षम्।  
+    
+५२।११९च्द्। धन्यम् उदक्प्राक्पततं न ग्राह्यो +अतो +अन्यथा पतितः॥  
+    
+५२।१२०अब्। छेदो यद्य् अविकारी ततः शुभं दारु तद्^गृहौपयिकम्।  
+    
+५२।१२०च्द्। पीते तु मण्डले निर्दिशेत् तरोर् मध्यगां गोधाम्॥  
+    
+५२।१२१अब्। मञ्जिष्ठाभे भेको नीले सर्पस् तथा+अरुणे सरटः।  
+    
+५२।१२१च्द्। मुद्गाभे +अश्मा कपिले तु मूषको +अम्भश् च खड्गाभे॥  
+    
+५२।१२२अब्। धान्य^गो^गुरु^हुताश^सुराणां न स्वपेद् उपरि नाप्य् अनुवंशम्।  
+    
+५२।१२२च्द्। न^उत्तरापरशिरा न च नग्नो नैव चार्द्रचरणः श्रियम् इच्छन्॥  
+    
+५२।१२३अब्। भूरिपुष्प^विकरं[क्।निकरम्] सतोरणं तोयपूर्णकलश^उपशोभितम्।  
+    
+५२।१२३च्द्। धूपगन्ध^बलिपूजितामरं ब्राह्मणध्वनियुतं विशेद् गृहम्॥
+
+                   ५३ दकार्गलाध्यायः
+
+५३।०१अब्। धर्म्यं यशस्यं च वदाम्य् अतो +अहं दकार्गलं[क्।दगार्गलम्] येन जल^उपलब्धिः।  
+    
+५३।०१च्द्। पुंसां यथा^अङ्गेषु शिरास् तथ^एव क्षिताव् अपि प्रोन्नत^निम्न^संस्थाः॥  
+    
+५३।०२अब्। एकेन वर्णेन रसेन च^अम्भश् च्युतं नभस्तो वसुधा^विशेषात्।  
+    
+५३।०२च्द्। नानारसत्वं बहुवर्णतां च गतं परीक्ष्यं क्षिति^तुल्यम् एव॥  
+    
+५३।०३अब्। पुरुहूत^अनल^यम^निरृति^वरुण^पवन^इन्दु^शङ्करा देवाः।  
+    
+५३।०३च्द्। विज्ञातव्याः क्रमशः प्राच्य^आद्यानां दिशां पतयः॥  
+    
+५३।०४अब्। दिक्पतिसञ्ज्ञा च शिरा नवमी मध्ये महाशिरानाम्नी।  
+    
+५३।०४च्द्। एताभ्यो +अन्याः शतशो विनिःसृता नामभिः प्रथिताः॥  
+    
+५३।०५अब्। पातालाद् *ऊर्ध्वशिरा शुभा[क्।ऊर्ध्वशिराः शुभाश्] चतुर्दिक्षु संस्थिता याश् च।  
+    
+५३।०५च्द्। कोणदिगुत्था न शुभाः शिरानिमित्तान्य् अतो वक्ष्ये॥  
+    
+५३।०६अब्। यदि वेतसो +अम्बुरहिते देशे हस्तैस् त्रिभिस् ततः पश्चात्।  
+    
+५३।०६च्द्। सार्धे पुरुषे तोयं वहति शिरा पश्चिमा तत्र॥  
+    
+५३।०७अब्। चिह्नम् अपि च^अर्धपुरुषे मण्डूकः पाण्डुरो +अथ मृत् पीता।  
+    
+५३।०७च्द्। पुटभेदकश् च तस्मिन् पाषाणो भवति तोयम् अधः॥  
+    
+५३।०८अब्। जम्ब्वाश् च^उदग् धस्तैस् त्रिभिः शिरा^अधो नरद्वये पूर्वा।  
+    
+५३।०८च्द्। मृल्लोहगन्धिका पाण्डुरा च[क्।अथ] पुरुषे +अत्र मण्डूकः॥  
+    
+५३।०९अब्। जम्बूवृक्षस्य प्राग् वल्मीको यदि भवेत् समीपस्थः।  
+    
+५३।०९च्द्। तस्माद् दक्षिणपार्श्वे सलिलं पुरुषद्वये स्वादु॥  
+    
+५३।१०अब्। अर्धपुरुषे च मत्स्यः पारावत^सन्निभश् च पाषाणः।  
+    
+५३।१०च्द्। मृद् भवति च^अत्र नीला दीर्घं कालं च बहु तोयम्॥  
+    
+५३।११अब्। पश्चाद् उदुम्बरस्य त्रिभिर् एव करैर् नरद्वये सार्धे।  
+    
+५३।११च्द्। पुरुषे सितो +अहिर् अश्म^अञ्जन^उपमो +अधः शिरा सुजला॥  
+    
+५३।१२अब्। उदग् अर्जुनस्य दृश्यो वल्मीको यदि ततो +अर्जुनाद् धस्तैः।  
+    
+५३।१२च्द्। त्रिभिर् अम्बु भवति पुरुषैस् त्रिभिर् अर्ध^समन्वितैः पश्चात्॥  
+    
+५३।१३अब्। श्वेता गोधा^अर्धनरे पुरुषे मृद् धूसरा ततः कृष्णा।  
+    
+५३।१३च्द्। पीता सिता ससिकता ततो जलं निर्दिशेद् अमितम्॥  
+    
+५३।१४अब्। वल्मीक^उपचितायां निर्गुण्ड्यां दक्षिणेन कथितकरैः।  
+    
+५३।१४च्द्। पुरुषद्वये सपादे स्वादु जलं भवति च^अशोष्यम्॥  
+    
+५३।१५अब्। रोहित^मत्स्यो +अर्धनरे मृत् कपिला पाण्डुरा ततः परतः।  
+    
+५३।१५च्द्। सिकता सशर्करा +अथ क्रमेण परतो भवत्य् अम्भः॥  
+    
+५३।१६अब्। पूर्वेण यदि बदर्या वल्मीको दृश्यते जलं पश्चात्।  
+    
+५३।१६च्द्। पुरुषैस् त्रिभिर् आदेश्यं श्वेता गृहगोधिका^अर्धनरे॥  
+    
+५३।१७अब्। सपलाशा बदरी चेद् दिश्य् अपरस्यां ततो जलं भवति।  
+    
+५३।१७च्द्। पुरुषत्रये सपादे पुरुषे +अत्र च दुण्डुभश्[क्।दुण्डुभिश्] चिह्नम्॥  
+    
+५३।१८अब्। विल्व[क्।बिल्व]^उदुम्बरयोगे विहाय हस्तत्रयं तु याम्येन।  
+    
+५३।१८च्द्। पुरुषैस् त्रिभिर् अम्बु भवेत् कृष्णो +अर्धनरे च मण्डूकः॥  
+    
+५३।१९अब्। काकोदुम्बरिकायां वल्मीको दृश्यते शिरा तस्मिन्।  
+    
+५३।१९च्द्। पुरुषत्रये सपादे पश्चिमदिक्स्था वहति सा च॥  
+    
+५३।२०अब्। आपाण्डुपीतिका मृद् गोरसवर्णश् च भवति पाषाणः।  
+    
+५३।२०च्द्। पुरुषार्धे कुमुदनिभो दृष्टिपथं मूषको याति॥  
+    
+५३।२१अब्। जलपरिहीने देशे वृक्षः कम्पिल्लको यदा दृश्यः।  
+    
+५३।२१च्द्। प्राच्यां हस्तत्रितये वहति शिरा दक्षिणा प्रथमम्॥  
+    
+५३।२२अब्। मृन्^नीलोत्पल^वर्णा कापोता *दृश्यते ततस्[क्।च^एव दृश्यते] तस्मिन्।  
+    
+५३।२२च्द्। हस्ते *+अजगन्धको मत्स्यकः[क्।+अजगन्धिमत्स्यो भवति] पयो +अल्पं च सक्षारम्॥  
+    
+५३।२३अब्। शोणाकतरोर् अपरोत्तरे शिरा द्वौ कराव् अतिक्रम्य।  
+    
+५३।२३च्द्। कुमुदा नाम शिरा सा पुरुषत्रयवाहिनी भवति॥  
+    
+५३।२४अब्। आसन्नो वल्मीको दक्षिणपार्श्वे विभीतकस्य यदि।  
+    
+५३।२४च्द्। अध्यर्धे भवति[क्।तस्य] शिरा पुरुषे ज्ञेया दिशि प्राच्याम्॥  
+    
+५३।२५अब्। तस्य^एव पश्चिमायां दिशि वल्मीको यदा भवेद् धस्ते।  
+    
+५३।२५च्द्। तत्र^उदग् भवति शिरा चतुर्भिर् अर्धाधिकैः पुरुषैः॥  
+    
+५३।२६अब्। श्वेतो विश्वम्भरकः प्रथमे पुरुषे तु कुङ्कुमाभो +अश्मा।  
+    
+५३।२६च्द्। अपरस्यां दिशि च शिरा नश्यति वर्षत्रये +अतीते॥  
+    
+५३।२७अब्। *सकुशः सित[क्।सकुशासित] ऐशान्यां वल्मीको यत्र कोविदारस्य।  
+    
+५३।२७च्द्। मध्ये तयोर् नरैर् अर्धपञ्चमैस् तोयम् अक्षोभ्यम्॥  
+    
+५३।२८अब्। प्रथमे पुरुषे भुजगः कमलोदरसन्निभो मही रक्ता।  
+    
+५३।२८च्द्। कुरुविन्दः पाषाणश् चिह्नान्य् एतानि वाच्यानि॥  
+    
+५३।२९अब्। यदि भवति सप्तपर्णो वल्मीकवृतस् तदुत्तरे तोयम्।  
+    
+५३।२९च्द्। वाच्यं पुरुषैः पञ्चभिर् अत्रापि भवन्ति चिह्नानि॥  
+    
+५३।३०अब्। पुरुष^अर्धे मण्डूको हरितो हरिताल^सन्निभा भूश् च।  
+    
+५३।३०च्द्। पाषाणो +अभ्रनिकाशः सौम्या च शिरा शुभ^अम्बुवहा॥  
+    
+५३।३१अब्। सर्वेषां वृक्षाणाम् अधः स्थितो दर्दुरो यदा दृश्यः।  
+    
+५३।३१च्द्। तस्माद् धस्ते तोयं चतुर्भिर् अर्ध^अधिकैः पुरुषैः॥  
+    
+५३।३२अब्। पुरुषे तु भवति नकुलो नीलो मृत् पीतिका ततः श्वेता।  
+    
+५३।३२च्द्। दर्दुर^समान^रूपः पाषाणो दृश्यते च^अत्र॥  
+    
+५३।३३अब्। यद्य् अहिनिलयो दृश्यो दक्षिणतः संस्थितः करञ्जस्य।  
+    
+५३।३३च्द्। हस्तद्वये तु याम्ये पुरुषत्रितये शिरा सार्धे॥  
+    
+५३।३४अब्। कच्छपकः पुरुष^अर्धे प्रथमं च^उद्भिद्यते शिरा पूर्वा।  
+    
+५३।३४च्द्। उदग् अन्या स्वादुजला हरितो +अश्माधस् ततस् तोयम्॥  
+    
+५३।३५अब्। उत्तरतश् च मधूकाद् अहिनिलयः पश्चिमे तरोस् तोयम्।  
+    
+५३।३५च्द्। परिहृत्य पञ्च हस्तान् अर्ध^अष्टम^पौरुषान्[क्।पौरुषे] प्रथमम्॥  
+    
+५३।३६अब्। अहिराजः पुरुषे +अस्मिन् धूम्रा धात्री कुलुत्थ[क्।कुलत्थ]वर्णो +अश्मा।  
+    
+५३।३६च्द्। माहेन्द्री भवति शिरा वहति सफेनं सदा तोयम्॥  
+    
+५३।३७अब्। वल्मीकः स्निग्धो दक्षिणेन तिलकस्य सकुश^दूर्वश् चेत्।  
+    
+५३।३७च्द्। पुरुषैः पञ्चभिर् अम्भो दिशि वारुण्यां शिरा पूर्वा॥  
+    
+५३।३८अब्। सर्प^आवासः पश्चाद् यदा कदम्बस्य दक्षिणेन जलम्।  
+    
+५३।३८च्द्। परतो हस्तत्रितयात् षड्भिः पुरुषैस् तुरीय^ऊनैः॥  
+    
+५३।३९अब्। कौबेरी च^अत्र शिरा वहति जलं लोहगन्धि च^अक्षोभ्यम्।  
+५३।३९च्द्। कनक^निभो मण्डूको नरमात्रे मृत्तिका पीता॥  
+    
+५३।४०अब्। वल्मीकसंवृतो यदि तालो वा भवति नालिकेरो वा।  
+    
+५३।४०च्द्। पश्चात् षड्भिर् हस्तैर् नरैश् चतुर्भिः शिरा याम्या॥  
+    
+५३।४१अब्। याम्येन कपित्थस्य^अहिसंश्रयश् चेद् उदग् जलं वाच्यम्।  
+    
+५३।४१च्द्। सप्त परित्यज्य करान् खात्वा पुरुषान् जलं पञ्च॥  
+    
+५३।४२अब्। कर्बुरको +अहिः पुरुषे कृष्णा मृत् पुटभिद् अपि च पाषाणः।  
+    
+५३।४२च्द्। श्वेता मृत् पश्चिमतः शिरा ततश् च^उत्तरा भवति॥  
+    
+५३।४३अब्। अश्मन्तकस्य वामे बदरी वा दृश्यते +अहिनिलयो वा।  
+    
+५३।४३च्द्। षड्भिर् उदक् तस्य करैः सार्धे पुरुषत्रये तोयम्।  
+    
+५३।४४अब्। कूर्मः प्रथमे पुरुषे पाषाणो धूसरः ससिकता मृत्।  
+    
+५३।४४च्द्। आदौ *च शिरा[क्।शिरा च] याम्या पूर्वोत्तरतो द्वितीया च॥  
+    
+५३।४५अब्। वामेन हरिद्रतरोर् वल्मीकश् *चेज् जलं भवति पूर्वे[क्।चेत् ततो जलं]।  
+    
+५३।४५च्द्। हस्तत्रितये *सत्र्यंशैः पुम्भिः[क्।पुरुषैः सत्र्यंशैः] पञ्चभिर् भवति॥  
+    
+५३।४६अब्। नीलो भुजगः पुरुषे मृत् पीता मरकत^उपमश् च^अश्मा।  
+    
+५३।४६च्द्। कृष्णा भूः प्रथमं वारुणी शिरा दक्षिणेन^अन्या॥  
+    
+५३।४७अब्। जलपरिहीने देशे दृश्यन्ते +अनूपजानि *चेन् निमितानि[क्।चिह्नानि]।  
+    
+५३।४७च्द्। वीरण^दूर्वा मृदवश् च यत्र तस्मिन् जलं पुरुषे॥  
+    
+५३।४८अब्। भार्ङ्गी त्रिवृता दन्ती सूकरपादी च लक्ष्मणा च^एव।  
+    
+५३।४८च्द्। नवमालिका च हस्तद्वये +अम्बु याम्ये त्रिभिः पुरुषैः॥  
+    
+५३।४९अब्। स्निग्धाः प्रलम्ब^शाखा वामन^विकट[क्।विट]द्रुमाः समीपजलाः।  
+    
+५३।४९च्द्। सुषिरा जर्जर^पत्रा रूक्षाश् च जलेन सन्त्यक्ताः॥  
+    
+५३।५०अब्। तिलक^आम्रातक^वरुणक^भल्लातक^विल्व[क्।बिल्व]^तिन्दुक^अङ्कोलाः[क्।अङ्कोल्लाः]।  
+    
+५३।५०च्द्। पिण्डार^शिरीष^अञ्जन^परूषका *वञ्जुलो +अतिबला[क्।वञ्जुरातिबला]॥  
+    
+५३।५१अब्। एते यदि सुस्निग्धा वल्मीकैः परिवृतास् ततस् तोयम्।  
+    
+५३।५१च्द्। हस्तैस् त्रिभिर् उत्तरतश् चतुर्भिर् अर्धेन च नरेण[क्।नरस्य]॥  
+    
+५३।५२अब्। अतृणे सतृणा यस्मिन् सतृणे तृणवर्जिता मही यत्र।  
+    
+५३।५२च्द्। तस्मिन् शिरा प्रदिष्टा वक्तव्यं वा धनं च^अस्मिन्॥  
+    
+५३।५३अब्। कण्टक्य् अकण्टकानां व्यत्यासे +अम्भस् त्रिभिः करैः पश्चात्।  
+    
+५३।५३च्द्। खात्वा पुरुषत्रितयं त्रिभागयुक्तं धनं वा स्यात्॥  
+    
+५३।५४अब्। नदति मही गम्भीरं यस्मिंश् चरणाहता जलं तस्मिन्।  
+    
+५३।५४च्द्। सार्धैस् त्रिभिर् मनुष्यैः कौबेरी तत्र च शिरा स्यात्॥  
+    
+५३।५५अब्। वृक्षस्य^एका शाखा यदि विनता भवति पाण्डुरा वा स्यात्।  
+    
+५३।५५च्द्। विज्ञातव्यं शाखातले जलं त्रिपुरुषं खात्वा॥  
+    
+५३।५६अब्। फल^कुसुम^विकारो यस्य तस्य पूर्वे शिरा त्रिभिर् हस्तैः।  
+    
+५३।५६च्द्। भवति पुरुषैश् चतुर्भिः पाषाणो +अधः क्षितिः पीता॥  
+    
+५३।५७अब्। यदि कण्टकारिका कण्टकैर् विना दृश्यते सितैः कुसुमैः।  
+    
+५३।५७च्द्। तस्यास् तले +अम्बु वाच्यं त्रिभिर् नरैर् अर्धपुरुषे च॥  
+    
+५३।५८अब्। खर्जूरी द्विशिरस्का यत्र भवेज् जलविवर्जिते देशे।  
+    
+५३।५८च्द्। तस्याः पश्चिमभागे निर्देश्यं त्रिपुरुषैर्[क्।त्रिपुरुषे] वारि॥  
+    
+५३।५९अब्। यदि भवति कर्णिकारः सितकुसुमः स्यात् पलाशवृक्षो वा।  
+    
+५३।५९च्द्। सव्येन तत्र हस्तद्वये +अम्बु पुरुषद्वये[क्।पुरुषत्रये] भवति॥  
+    
+५३।६०अब्। *यस्याम् ऊष्मा[क्।ऊष्मा यस्याम्] धात्र्यां धूमो वा तत्र वारि नरयुगले[क्।नरयुग्मे]।  
+    
+५३।६०च्द्। निर्देष्टव्या च शिरा महता तोय^प्रवाहेण॥  
+    
+५३।६१अब्। यस्मिन् क्षेत्रोद्देशे जातं सस्यं विनाशम् उपयाति।  
+    
+५३।६१च्द्। स्निग्धम् अतिपाण्डुरं वा महाशिरा नरयुगे तत्र॥  
+    
+५३।६२अब्। मरुदेशे भवति शिरा यथा तथा^अतः परं प्रवक्ष्यामि।  
+    
+५३।६२च्द्। ग्रीवा करभाणाम् इव भूतल^संस्थाः शिरा यान्ति॥  
+    
+५३।६३अब्। पूर्वोत्तरेण पीलोर् यदि वल्मीको जलं भवति पश्चात्।  
+    
+५३।६३च्द्। उत्तरगमना च शिरा विज्ञेया पञ्चभिः पुरुषैः॥  
+    
+५३।६४अब्। चिह्नं दर्दुर आदौ *मृत् कपिला तत्परं[क्।मृत्कपिलातः परम्] भवेद् धरिता।  
+    
+५३।६४च्द्। भवति च पुरुषे अधो +अश्मा तस्य तले *+अम्भो विनिर्देष्यम्[क्।वारि निर्देच्यम्]॥  
+    
+५३।६५अब्। पीलोर् एव प्राच्यां वल्मीको +अतो +अर्धपञ्चमैर् हस्तैः।  
+    
+५३।६५च्द्। दिशि याम्यायां तोयं वक्तव्यं सप्तभिः पुरुषैः॥  
+    
+५३।६६अब्। प्रथमे पुरुषे भुजगः सितासितो हस्तमात्रमूर्तिश् च।  
+    
+५३।६६च्द्। दक्षिणतो वहति शिरा सक्षारं भूरि पानीयम्॥  
+    
+५३।६७अब्। उत्तरतश् च करीरस्य^अहिगृहं[क्।करीराद् अहिनिलये] दक्षिणे जलं स्वादु।  
+    
+५३।६७च्द्। दशभिः पुरुषैर् ज्ञेयम् पुर्षे पीतो +अत्र मण्डूकः॥  
+    
+५३।६८अब्। रोहीतकस्य पश्चाद् अहिवासश् चेत् त्रिभिः करैर् याम्ये।  
+    
+५३।६८च्द्। द्वादश पुरुषान् खात्वा सक्षारा पश्चिमेन शिरा॥  
+    
+५३।६९अब्। इन्द्रतरोर् वल्मीकः प्राग् दृश्यः पश्चिमे शिरा हस्ते।  
+    
+५३।६९च्द्। खात्वा चतुर्दश नरान् कपिला गोधा नरे प्रथमे॥  
+    
+५३।७०अब्। यदि वा सुवर्ण^नाम्नस् तरोर् भवेद् वामतो भुजङ्ग^गृहम्।  
+    
+५३।७०च्द्। हस्त^द्वये तु याम्ये पञ्चदश^नर^अवसाने +अम्बु॥  
+    
+५३।७१अब्। क्षारं पयो +अत्र नकुलो +अर्ध^मानवे ताम्र^सन्निभश् च^अश्मा।  
+    
+५३।७१च्द्। रक्ता च भवति वसुधा वहति शिरा दक्षिणा तत्र॥  
+    
+५३।७२अब्। बदरी^रोहित^वृक्षौ सम्पृक्तौ चेद् विनापि वल्मीकम्।  
+    
+५३।७२च्द्। हस्त^त्रये +अम्बु पश्चात् षोडशभिर् मानवैर् भवति॥  
+    
+५३।७३अब्। सुरसं जलम् आदौ दक्षिणा शिरा वहति च^उत्तनेण^अन्या।  
+५३।७३च्द्। पिष्टनिभः पाषाणो मृत् श्वेता वृश्चिको +अर्ध^नरे॥  
+    
+५३।७४अब्। सकरीरा चेद् वदरी त्रिभिः करैः पश्चिमेन तत्र^अम्भः।  
+    
+५३।७४च्द्। अष्टादशभिः पुरुषैर् ऐशानी बहु^जला च शिरा॥  
+    
+५३।७५अब्। पीलु^समेता बदरी हस्त^त्रय^सम्मिते दिशि प्राच्याम्॥  
+    
+५३।७५च्द्। विंशत्या पुरुषाणाम् अशोष्यम् अम्भो +अत्र सक्षारम्॥  
+    
+५३।७६अब्। ककुभ^करीराव् एकत्र संयुतौ यत्र ककुभ^विल्वौ[क्।बिल्बौ] वा।  
+    
+५३।७६च्द्। हस्त^द्वये +अम्बु पश्चान् नरैर् भवेत् पञ्चविंशत्या॥  
+    
+५३।७७अब्। वल्मीक^मूर्धनि यदा दूर्वा च कुशाश् च पाण्डुराः सन्ति।  
+    
+५३।७७च्द्। कूपो मध्ये देयो जलम् अत्र नर^एकविंशत्या॥  
+    
+५३।७८अब्। भूमिः कदम्बक[क्।भूमी कदम्बक, क्ऽस् त्र्। भूमीकदम्बक]^युता वल्मीके यत्र दृश्यते दूर्वा।  
+    
+५३।७८च्द्। हस्त^द्वयेन[क्।हस्तत्रयेन] याम्ये नरैर् जलं पञ्चविंशत्या॥  
+    
+५३।७९अब्। वल्मीक^त्रय^मध्ये रोहीतक^पादपो यदा भवति।  
+    
+५३।७९च्द्। नाना^वृक्षैः सहितस् त्रिभिर् जलं तत्र वक्तव्यम्॥  
+    
+५३।८०अब्। हस्त^चतुष्के मध्यात् षोडशभिश् च^अङ्गुलैर् उदग् वारि।  
+    
+५३।८०च्द्। चत्वारिंशत् पुरुषान् खात्वा *+अश्मा +अधः[क्।अश्मातः] शिरा भवति॥  
+    
+५३।८१अब्। ग्रन्थि^प्रचुरा यस्मिन् शमी भवेद् उत्तरेण वल्मीकः।  
+    
+५३।८१च्द्। पश्चात् पञ्च^कर^अन्ते शत^अर्ध^सङ्ख्यैर् नरैः सलिलम्॥  
+    
+५३।८२अब्। एकस्थाः पञ्च यदा वल्मीका मध्यमो भवेत्^श्वेतः।  
+    
+५३।८२च्द्। तस्मिन् शिरा प्रदिष्टा नर^षष्ट्या पञ्च^वर्जितया॥  
+    
+५३।८३अब्। स^पलाशा यत्र शमी पश्चिमभागे +अम्बु मानवैः षष्ट्या।  
+    
+५३।८३च्द्। अर्ध्^अनरे +अहिः प्रथमं सवालुका पीतमृत् परतः॥  
+    
+५३।८४अब्। वल्मीकेन परिवृतः श्वेतो रोहीतको भवेद् यस्मिन्।  
+    
+५३।८४च्द्। पूर्वेण हस्त^मात्रे सप्तत्या मानवैर् अम्बु॥  
+    
+५३।८५अब्। श्वेता कण्टक^बहुला यत्र शमी दक्षिणेन तत्र पयः।  
+    
+५३।८५च्द्। नर^पञ्चक^संयुतया सप्तत्या^अहिर् नर^अर्धे च॥  
+    
+५३।८६अब्। मरुदेशे यच् चिह्नं न जाङ्गले तैर् जलं विनिर्देश्यम्।  
+    
+५३।८६च्द्। जम्बू^वेतस^*पूर्वैर्[क्।पूर्वे] ये पुरुषास् ते मरौ द्विगुणाः॥  
+    
+५३।८७अब्। जम्बूस् त्रिवृता मौर्वी[क्।मूर्वा] शिशुमारी सारिवा शिवा श्यामा।  
+    
+५३।८७च्द्। वीरुधयो वाराही ज्योतिष्मती *गरुडवेगा च[क्।च गरुडवेगा]॥  
+    
+५३।८८अब्। सूकरिक^माषपर्णी^व्याघ्रपदाश् च^इति यद्य् अहेर् निलये।  
+    
+५३।८८च्द्। वल्मीकाद् उत्तरतस् त्रिभिः करैस् त्रि^पुरुषे तोयम्॥  
+    
+५३।८९अब्। एतद् अनूपे वाच्यं जाङ्गल^भूमौ तु पञ्चभिः पुरुषैः।  
+    
+५३।८९च्द्। एतैर् एव निमित्तैर् मरुदेशे सप्तभिः कथयेत्॥  
+    
+५३।९०अब्। एकनिभा यत्र मही तृण^तरु^वल्मीक^गुल्म^परिहीना।  
+    
+५३।९०च्द्। तस्यां यत्र विकारो भवति धरित्र्यां जलं तत्र॥  
+    
+५३।९१अब्। यत्र स्निग्धा निम्ना सवालुका स^अनुनादिनी वा स्यात्।  
+    
+५३।९१च्द्। तत्र अर्धपञ्चकैर्[क्।अर्धपञ्चमैर्] वारि मानवैः पञ्चभिर् यदि वा॥  
+    
+५३।९२अब्। स्निग्ध^तरूणां याम्ये नरैश् चतुर्भिर् जलं प्रभूतं च।  
+    
+५३।९२च्द्। तरु^गहने +अपि हि विकृतो यस् तस्मात् तद्वद् एव वदेत्॥  
+    
+५३।९३अब्। नमते यत्र धरित्री स^अर्धे पुरुषे +अम्बु जाङ्गल^अनूपे।  
+    
+५३।९३च्द्। कीटा वा यत्र विना^आलयेन बहवो +अम्बु तत्र^अपि॥  
+    
+५३।९४अब्। उष्णा शीता च मही शीत^उष्ण^अम्भस् त्रिभिर् नरैः स^अर्धैः।  
+    
+५३।९४च्द्। इन्द्रधनुर् मत्स्यो वा वल्मीको वा चतुर्^हस्तात्॥  
+    
+५३।९५अब्। वल्मीकानां पङ्क्त्यां यद्य् एको +अभ्युच्छ्रितः शिरा तद्^अधः।  
+    
+५३।९५च्द्। शुष्यति न रोहते वा सस्यं यस्यां च तत्र^अम्भः॥  
+    
+५३।९६अब्। न्यग्रोध^पलाश^उदुम्बरैः समेतैस् त्रिभिर् जलं तद्^अधः।  
+    
+५३।९६च्द्। वट^पिप्पल^समवाये तद्वद् वाच्यं शिरा च^उदक्॥  
+    
+५३।९७अब्। आग्नेये यदि कोणे ग्रामस्य पुरस्य वा भवेत्[क्।भवति] कूपः।  
+    
+५३।९७च्द्। नित्यं स करोति भयं दाहं च समानुषं प्रायः॥  
+    
+५३।९८अब्। नैरृत^कोणे बाल^क्षयं *च वनिता^भयं[क्।वनिताभयम्] च वायव्ये।  
+    
+५३।९८च्द्। दिक्^त्रयम् एतत् त्यक्त्वा शेषासु शुभ^आवहाः कूपाः॥  
+    
+५३।९९अब्। सारस्वतेन मुनिना दकार्गलं[क्।दगार्गलम्] यत् क्र्तं तद् अवलोक्य।  
+    
+५३।९९च्द्। आर्याभिः कृतम् एतद् वृत्तैर् अपि मानवं वक्ष्ये॥  
+    
+५३।१००अ स्निग्धा यतः पादप^गुल्म^वल्ल्यो  
+    
+५३।१००ब् निश्छिद्र^पत्राश् च ततः शिरा^अस्ति।  
+    
+५३।१००च् पद्म^क्षुर^उशीर^कुलाः सगुण्ड्राः  
+    
+५३।१००द् काशाः कुशा वा नलिका नलो वा॥  
+    
+५३।१०१अ खर्जूर^जम्बू^अर्जुन^वेतसाः स्युः  
+    
+५३।१०१ब् क्षीर^अन्विता वा द्रुम^गुल्म^वल्ल्यः।  
+    
+५३।१०१च् छत्र^इभ^नागाः शतपत्र^नीपाः  
+    
+५३।१०१द् स्युर् नक्तमालाश् च स^सिन्दुवाराः॥  
+    
+५३।१०२अ विभीतको वा मदयन्तिका वा  
+    
+५३।१०२ब् यत्र^अस्ति तस्मिन् पुरुष^त्रये +अम्भः।  
+    
+५३।१०२च् स्यात् पर्वतस्य^उपरि पर्वतो +अन्यस्  
+    
+५३।१०२द् तत्र^अपि मूले पुरुष^त्रये +अम्भः॥  
+    
+५३।१०३अ या मौञ्जिकैः[क्।मौञ्जकैः] काश^कुशैश् च युक्ता  
+    
+५३।१०३ब् नीला च मृद् यत्र सशर्करा च।  
+    
+५३।१०३च् तस्यां प्रभूतं सुरसं च तोयं  
+    
+५३।१०३द् कृष्ण^अथ वा यत्र च रक्तमृद् वा॥  
+    
+५३।१०४अ सशर्करा ताम्र^मही कषायं  
+    
+५३।१०४ब् क्षारं धरित्री कपिला करोति।  
+    
+५३।१०४च् आपाण्डुरायां लवणं प्रदिष्टं  
+    
+५३।१०४द् मृष्टं[क्।मिष्टम्] पयो नील^वसुन्धरायाम्॥  
+    
+५३।१०५अ शाक^अश्वकर्ण^अर्जुन^विल्व[क्।बिल्व]^सर्जाः  
+    
+५३।१०५ब् श्रीपर्ण्य्^अरिष्टा^धव^शिंशपाश् च।  
+    
+५३।१०५च् छिद्रैश् च पत्रैर्[क्।पर्णैर्] द्रुम^गुल्म^वल्ल्यो  
+    
+५३।१०५द् रूक्षाश् च दूरे +अम्बु निवेदयन्ति॥  
+    
+५३।१०६अ सूर्य^अग्नि^भस्म^उष्ट्र^खर^अनुवर्णा  
+    
+५३।१०६ब् या निर्जला सा वसुधा प्रदिष्टा।  
+    
+५३।१०६च् रक्त^अङ्कुराः क्षीर^युताः करीरा  
+    
+५३।१०६द् रक्ता धरा चेज् जलम् अश्मनो +अधः॥  
+    
+५३।१०७अ वैदूर्य^मुद्ग[क्।वैडूर्यमुड्ग]^अम्बुद^मेचक^आभा  
+    
+५३।१०७ब् पाक^उन्मुख^उदुम्बर^सन्निभा वा।  
+    
+५३।१०७च् भङ्ग[क्।भृङ्ग]^अञ्जन^आभा कपिला^अथ वा या  
+    
+५३।१०७द् ज्ञेया शिला भूरि^समीप^तोया॥  
+    
+५३।१०८अ पारावत[क्।परावत]^क्षौद्र^घृत^उपमा या[क्।वा]  
+    
+५३।१०८ब् क्षौमस्य वस्त्रस्य च तुल्य^वर्णा।  
+    
+५३।१०८च् या सोमवल्ल्याश् च समान^रूपा  
+    
+५३।१०८द् साप्य् आशु तोयं कुरुते +अक्षयं च॥  
+    
+५३।१०९अ ताम्रैः समेता पृषतैर् विचित्रैर्  
+    
+५३।१०९ब् आपाण्डु^भस्म^उष्ट्र^खर^अनुरूपा।  
+    
+५३।१०९च् भृङ्ग^उपम^अङ्गुष्ठिक^पुष्पिका वा  
+    
+५३।१०९द् सूर्य^अग्नि^वर्णा च शिला वितोया॥  
+    
+५३।११०अ चन्द्र^आतप^स्फटिक^मौक्तिक^हेम^रूपा  
+    
+५३।११०ब् याश् च^इन्द्रनील^मणि^हिङ्गुलुक^अञ्जन^आभाः।  
+    
+५३।११०च् सूर्य^उदय^अंशु^हरिताल^निभाश् च याः स्युस्  
+    
+५३।११०द् ताः शोभना मुनिवचो +अत्र च वृत्तम् एतत्॥  
+    
+५३।१११अ एता ह्य् अभेद्याश् च शिलाः शिवाश् च  
+    
+५३।१११ब् यक्षैश् च नागैश् च सदा^अभिजुष्टाः।  
+    
+५३।१११च् येषां च राष्ट्रेषु भवन्ति राज्णां  
+    
+५३।१११द् तेषाम् अवृष्टिर् न भवेत् कदा चित्॥  
+    
+५३।११२अ भेदं यदा नैति शिला तदानीं  
+    
+५३।११२ब् पलाश^काष्ठैः सह तिन्दुकानाम्।  
+    
+५३।११२च् प्रज्वालयित्वा^अनलम् अग्निवर्णा  
+    
+५३।११२द् सुधा^अम्बु^सिक्ता प्रविदारम् एति॥  
+    
+५३।११३अ तोयं श्रितं[क्।शृतम्] मोक्षक^भस्मना वा  
+    
+५३।११३ब् यत् सप्तकृत्वः परिषेचनं तत्।  
+    
+५३।११३च् कार्यं शर^क्षार^युतं शिलायाः  
+    
+५३।११३द् प्रस्फोटनं वह्नि^वितापितायाः॥  
+    
+५३।११४अ तक्र^काञ्जिक^सुराः सकुलत्था  
+    
+५३।११४ब् योजितानि बदराणि च तस्मिन्।  
+    
+५३।११४च् सप्तरात्रम् उषितान्य् अभितप्तां  
+    
+५३।११४द् दारयन्ति हि शिलां परिषेकैः॥  
+    
+५३।११५अ नैम्बं पत्रं त्वक् च नालं तिलानां  
+    
+५३।११५ब् स^अपामार्गं तिन्दुकं स्याद् गुडूची।  
+    
+५३।११५च् गोमूत्रेण स्रावितः क्षार एषां  
+५३।११५द् षट्^कृत्वो +अतस् तापितो भिद्यते +अश्मा॥  
+५३।११६अ आर्कं पयो हुडु^विषाण^मषी^समेतं  
+    
+५३।११६ब् पारावत^आखु^शकृता च युतः प्रलेपः।  
+    
+५३।११६च् टङ्कस्य तैल^मथितस्य ततो +अस्य पानं  
+    
+५३।११६द् पश्चात्^शितस्य न शिलासु भवेद् विघातः॥  
+    
+५३।११७अ क्षारे कदल्या मथितेन युक्ते[क्।यक्ते]  
+    
+५३।११७ब् दिन^उषिते पायितम् आयसं यत्।  
+    
+५३।११७च् सम्यक् शितं[क्।छितम्] च^अश्मनि न^एति भङ्गं  
+    
+५३।११७द् न च^अन्यलोहेष्व् अपि तस्य कौण्ठ्यम्॥  
+    
+५३।११८अ पाली प्राग्^अपर^आयता^अम्बु सुचिरं धत्ते न याम्योत्तरा  
+    
+५३।११८ब् कल्लोलैर् अवदारम् एति मरुता सा प्रायशः प्रेरितैः।  
+    
+५३।११८च् तां चेद् इच्छति सार^दारुभिर् अपां सम्पातम् आवारयेत्  
+    
+५३।११८द् पाषाण^आदिभिर् एव वा प्रतिचयं क्षुण्णं[क्।क्षुन्नम्] द्विप^अश्व^आदिभिः॥  
+    
+५३।११९अब्। ककुभ^वट^आम्र^प्लक्ष^कदम्बैः स^निचुल^जम्बू^वेतस^नीपैः।  
+    
+५३।११९च्द्। कुरबक[क्।कुरवक]^ताल^अशोक^मधूकैर् बकुल^विमिश्रैश् च^आवृत^तीराम्॥  
+    
+५३।१२०अ द्वारं च नैर्वाहिकम् एकदेशे  
+    
+५३।१२०ब् कार्यं शिला^सञ्चित^वारिमार्गम्।  
+    
+५३।१२०च् कोश^स्थितं निर्विवरं कपाटं  
+    
+५३।१२०द् कृत्वा ततः पांशुभिर् आवपेत् तम्॥  
+    
+५३।१२१अब्। अञ्जन^मुस्ता^उशीरैः स^राजकोशातक^आमलक^चूर्णैः।  
+    
+५३।१२१च्द्। कतकफल^समायुक्तैर् योगः कूपे प्रदातव्यः॥  
+    
+५३।१२२अ कलुषं कटुकं लवणं विरसं  
+    
+५३।१२२ब् सलिलं यदि वा शुभगन्धि[उ।अशुभगन्धि] भवेत्।  
+    
+५३।१२२च् तद् अनेन भवत्य् अमलं सुरसं  
+    
+५३।१२२द् सुसुगन्धि गुणैर् अपरैश् च युतम्॥  
+    
+५३।१२३अब्। हस्तो मघा^अनुराधा^पुष्य^धनिष्ठा^उत्तराणि रोहिण्यः।  
+    
+५३।१२३च्द्। शतभिषग् इत्य् आरम्भे कूपानां शस्यते भगणः॥  
+    
+५३।१२४अब्। कृत्वा वरुणस्य बलिं वट^वेतस^कीलकं शिरा^स्थाने।  
+    
+५३।१२४च्द्। कुसुमैर् गन्धैर् धूपैः सम्पूज्य निधापयेत् प्रथमम्॥  
+    
+[क्।५४।१२५अब्। मेघोद्भवं प्रथमम् एव मया प्रदिष्टं ज्येष्ठाम् अतीत्य बलदेवमतादि दृष्ट्वा।  
+    
+क्।५४।१२५च्द्। भौमं दगार्गलम् इदं कथितं द्वितीयं सम्यग् वराहमिहिरेण मुनिप्रसादात्॥]
+
+                   ५४ वृक्षायुर्वेदाध्यायः
+
+५४।०१अब्। प्रान्त^च्छाया^विनिर्मुक्ता न मनोज्ञा जलाशयाः।  
+    
+५४।०१च्द्। यस्माद् अतो जल^प्रान्तेष्व् आरामान् विनिवेशयेत्॥  
+    
+५४।०२अब्। मृद्वी भूः सर्ववृक्षाणां हिता तस्याम् तिलान् वपेत्।  
+    
+५४।०२च्द्। पुष्पितांस् तांश् च मृद्नीयात्[क्।गृह्णीयात्] कर्म^एतत् प्रथमं भुवः[क्।भुवि]॥  
+    
+५४।०३अब्। अरिष्ट^अशोक^पुन्नाग^शिरीषाः सप्रियङ्गवः।  
+    
+५४।०३च्द्। मङ्गल्याः पूर्वम् आरामे रोपणीया गृहेषु वा॥  
+    
+५४।०४अब्। पनस^अशोक^कदली^जम्बू^लकुच^दाडिमाः।  
+    
+५४।०४च्द्। द्राक्षा^पालीवताश् च^एव बीजपूर^अतिमुक्तकाः॥  
+    
+५४।०५अब्। एते द्रुमाः काण्डरोप्या[क्।काण्डारोप्या] गोमयेन प्रलेपिताः।  
+    
+५४।०५च्द्। मूलोच्छेदे +अथ वा स्कन्धे रोपणीयाः *परं ततः[क्।प्रयत्नतः]॥  
+    
+५४।०६अब्। अजातशाखान् शिशिरे जातशाखान् हिमागमे।  
+    
+५४।०६च्द्। वर्षागमे च सुस्कन्धान् *यथादिक्स्थान् प्ररोपयेत्[क्।यथादिक् प्रतिरोपयेत्]॥  
+    
+५४।०७अब्। घृत^उशीर^तिल^क्षौद्र^विडङ्ग^क्षीर^गोमयैः।  
+    
+५४।०७च्द्। आमूल^स्कन्ध^लिप्तानां सङ्क्रामण^विरोपणम्॥  
+    
+५४।०८अब्। शुचिर् भूत्वा तरोः पूजां कृत्वा स्नान^अनुलेपनैः।  
+    
+५४।०८च्द्। रोपयेद् रोपितश् च^एव पत्रैस् तैर् एव जायते॥  
+    
+५४।०९अब्। सायं प्रातश् च घर्म^ऋतौ[क्।घर्मान्ते] शीतकाले दिन^अन्तरे।  
+    
+५४।०९च्द्। वर्षासु च भुवः शोषे सेक्तव्या रोपिता द्रुमाः॥  
+    
+५४।१०अब्। जम्बू^वेतस^वानीर^कदम्ब^उदुम्बर^अर्जुनाः।  
+    
+५४।१०च्द्। बीजपूरक^मृद्वीका^लकुचाश् च सदाडिमाः॥  
+    
+५४।११अब्। वञ्जुलो नक्तमालश् च तिलकः पनसस् तथा।  
+    
+५४।११च्द्। तिमिरो +अम्रातकश् च^इति[क्।च^एव] षोडश^अनूपजाः स्मृताः॥  
+    
+५४।१२अब्। उत्तमं विंशतिर् हस्ता मध्यमं षोडशान्तरम्।  
+    
+५४।१२च्द्। स्थानात् स्थानान्तरं कार्यं वृक्षाणां द्वादश^अवरम्॥  
+    
+५४।१३अब्। अभ्यासजातास् तरवः सम्स्पृशन्तः परस्परम्।  
+    
+५४।१३च्द्। मिश्रैर् मूलैश् च न फलं सम्यग् यच्छन्ति पीडिताः॥  
+    
+५४।१४अब्। शीत^वात^आतपै रोगो जायते पाण्डु^पत्रता।  
+    
+५४।१४च्द्। अवृद्धिश् च प्रवालानां[उ।प्रबालानाम्] शाखाशोषो रसस्रुतिः॥  
+    
+५४।१५अब्। चिकित्सितम् अथ^एतेषां शस्त्रेण^आदौ विशोधनम्।  
+    
+५४।१५च्द्। विडङ्ग^घृत^पङ्क^अक्तान् सेचयेत् क्षीरवारिणा॥  
+    
+५४।१६अब्। फल^नाशे कुलत्थैश् च माषैर् मुद्गैस् तिलैर् यवैः।  
+    
+५४।१६च्द्। शृत^शीत^पयः^सेकः फल^पुष्प^समृद्धये[क्।अभिवृद्धये]॥  
+    
+५४।१७अब्। अविका^अज^शकृच्^चूर्णस्य^आढके द्वे तिल^आढकम्।  
+    
+५४।१७च्द्। सक्तु^प्रस्थो जल^द्रोणो गोमांस^तुलया सह॥  
+    
+५४।१८अब्। सप्त^रात्र^उषितैर् एतैः सेकः कार्यो वनस्पतेः।  
+    
+५४।१८च्द्। वल्मी^गुल्म^लतानां च फल^पुष्पाय सर्वदा॥  
+    
+५४।१९अ वासराणि दश दुग्ध^भावितं  
+    
+५४।१९ब् बीजम् आज्य^युत^हस्त^योजितम्।  
+    
+५४।१९च् गोमयेन बहुशो विरूक्षितं  
+    
+५४।१९द् क्रौड^मार्ग^पिशितैश् च धूपितम्॥  
+    
+५४।२०अब्। मांस[क्।मत्स्य]^सूकर^वसा^समन्वितं रोपितं च परिकर्मित^अवनौ।  
+    
+५४।२०च्द्। क्षीर^संयुत^जल^अवसेचितं जायते कुसुम^युक्तम् एव तत्॥  
+    
+५४।२१अब्। तिन्तिडी^इत्य् अपि करोति वल्लरीं व्रीहि^माष^तिल^चूर्ण^सक्तुभिः।  
+    
+५४।२१च्द्। पूतिमांस^सहितैश् च सेचिता धूपिता च सततं हरिद्रया॥  
+    
+५४।२२अ कपित्थ^वल्ली^करणाय मूलान्य्  
+    
+५४।२२ब् आस्फोत^धात्री^धव^वासिकानाम्।  
+    
+५४।२२च् पलाशिनी वेतस^सूर्यबल्ली[क्।ऊ।वल्ली]  
+    
+५४।२२द् श्याम^अतिमुक्तैः सहित^अष्टमूली॥  
+    
+५४।२३अ क्षीरे शृते च^अप्य् अनया सुशीते  
+    
+५४।२३ब् ताला[क्।नाला] शतं स्थाप्य कपित्थबीजम्।  
+    
+५४।२३च् दिने दिने शोषितम् अर्कपादैर्  
+    
+५४।२३द् मासं विधिस् त्व् एष ततो +अधिरोप्यम्॥  
+    
+५४।२४अ हस्त^आयतं तद्द्विगुणं गभीरं  
+    
+५४।२४ब् खात्वा^अवटं प्रोक्त^जल^अवपूर्णम्।  
+    
+५४।२४च् शुष्कं प्रदग्धं मधु^सर्पिषा तत्  
+    
+५४।२४द् प्रलेपयेद् भस्म^समन्वितन[क्।ऊ।समन्वितेन]॥  
+    
+५४।२५अ चूर्णीकृतैर् माष^तिलैर् यवैश् च  
+    
+५४।२५ब् प्रपूरयेद् मृत्तिकया^अन्तरस्थैः।  
+    
+५४।२५च् मत्स्यामिष^अम्भस्[क्।अम्भः]^सहितं च हन्याद्  
+    
+५४।२५द् यावद् घनत्वं समुपागतं तत्॥  
+    
+५४।२६अ उप्तं च बीजं चतुर्^अङ्गुल^अधो  
+    
+५४।२६ब् मत्स्य^अम्भसा मांस^जलैश् च सिक्तम्।  
+    
+५४।२६च् वल्ली भवत्य् आशु शुभ^प्रवाला  
+    
+५४।२६द् विस्मापनी मण्डपम् आवृणोति॥  
+    
+५४।२७अब्। शतशो +अङ्कोल[क्।अङ्कोल्ल]^सम्भूत^फल^कल्केन भावितम्।  
+    
+५४।२७च्द्। एतत् तैलेन वा बीजं श्लैष्मातक[क्।ऊ।श्लेष्मातक]^फलेन वा॥  
+    
+५४।२८अब्। वापितं करक^उन्मिश्र^मृदि तत्क्षण^जन्मकम्।  
+    
+५४।२८च्द्। फल^भार^अन्विता शाखा भवति^इति किम् अद्भुतम्॥  
+    
+५४।२९अब्। श्लेष्मातकस्य बीजानि निष्कुली^कृत्य भावयेत् प्राज्ञः।  
+    
+५४।२९च्द्। अङ्कोल[क्।अङ्कोल्ल]^विज्जला^अद्भिश् छायायां सप्तकृत्व[क्।सप्तकृत्व्]^एवम्॥  
+    
+५४।३०अब्। माहिष^गोमय^घृष्टान्य् अस्य करीषे च तानि निक्षिप्य।  
+    
+५४।३०च्द्। करका^जल^मृद्^योगे न्युप्तान्य् अह्ना फल^कराणि॥  
+    
+५४।३१अब्। ध्रुव^मृदु^मूल^विशाखा गुरुभं श्रवणस् तथा^अश्विनी हस्तः[क्।हस्तं]।  
+    
+५४।३१च्द्। उक्तानि दिव्य^दृग्भिः पादप^संरोपणे भानि॥
+
+                   ५५ प्रासादलक्षणाध्यायः
+
+५५।०१अब्। कृत्वा प्रभूतं सलिलम् आरामान् विनिवेश्य च।  
+    
+५५।०१च्द्। देवता^आयतनं कुर्याद् यशो^धर्म^अभिवृद्धये॥  
+    
+५५।०२अब्। इष्टा^पूर्तेन लभ्यन्ते ये लोकास् तान् बुभूषता।  
+    
+५५।०२च्द्। देवानाम् आलयः कार्यो द्वयम् अपि अत्र दृश्यते॥  
+    
+५५।०३अब्। सलिल^उद्यान^युक्तेषु कृतेष्व् अकृतेषु च।  
+    
+५५।०३च्द्। स्थानेष्व् एतेषु सान्निध्यम् उपगच्छन्ति देवताः॥  
+    
+५५।०४अब्। सरःसु नलिनी^छत्र^निरस्त^रविरश्मिषु।  
+    
+५५।०४च्द्। हंस^अंस^आक्षिप्त^कह्लार^वीथी[क्।वीची, क्ऽस् त्र्। वीथी]^विमल^वारिषु॥  
+    
+५५।०५अब्। हंस^कारण्डव^क्रौञ्च^चक्रवाक^विराविषु।  
+    
+५५।०५च्द्। पर्यन्त^निचुल^च्छाया^विश्रान्त^जलचारिषु॥  
+    
+५५।०६अब्। क्रौञ्च^काञ्चीकलापाश् च कलहंस^कल^स्वराः[क्।स्वनाः]।  
+    
+५५।०६च्द्। नद्यस् तोय^अंशुका यत्र शफरी^कृत^मेखलाः॥  
+    
+५५।०७अब्। फुल्ल^तीर^द्रुम^उत्तंसाः सङ्गम^श्रोणि^मण्डलाः।  
+    
+५५।०७च्द्। पुलिन^अभ्युन्नत^उरस्या हंस^वासाश्[क्।हंसहासाश्] च निम्नगाः॥  
+    
+५५।०८अब्। वन^उपान्त^नदी^शैल^निर्झर^उपान्त^भूमिषु।  
+    
+५५।०८च्द्। रमन्ते देवता नित्यं पुरेषु^उद्यानवत्सु च॥  
+    
+५५।०९अब्। भूमयो ब्राह्मणादीनां याः प्रोक्ता वास्तुकर्मणि।  
+    
+५५।०९च्द्। ता एव तेषां शस्यन्ते देवता^आयतनेष्व् अपि॥  
+    
+५५।१०अब्। चतुःषष्टि^पदं कार्यं देवता^आयतनं सदा।  
+    
+५५।१०च्द्। द्वारं च मध्यमं तस्मिन्[क्।तत्र] समदिक्स्थं प्रशस्यते॥  
+    
+५५।११अब्। यो विस्तारो भवेद् यस्य द्विगुणा तत्समुन्नतिः।  
+    
+५५।११च्द्। उच्छ्रायाद् यस् तृतीयांशस् तेन तुल्या *कटिः स्मृता[क्।कटिर् भवेत्]॥  
+    
+५५।१२अब्। विस्तार^अर्धं भवेद् गर्भो भित्तयो +अन्याः समन्ततः।  
+    
+५५।१२च्द्। गर्भ^पादेन विस्तीर्णं द्वारं द्विगुणम् उच्छ्रितम्॥  
+    
+५५।१३अब्। उच्छ्रायात् पाद^विस्तीर्णा शाखा तद्वद् उदुम्बरः।  
+    
+५५।१३च्द्। विस्तार^पाद^प्रतिमं बाहुल्यं शाखयोः स्मृतम्॥  
+    
+५५।१४अब्। त्रि^पञ्च^सप्त^नवभिः शाखाभिस् तत् प्रशस्यते।  
+    
+५५।१४च्द्। अधः शाखा^चतुर्भागे प्रतीहारौ निवेशयेत्॥।  
+    
+५५।१५अब्। शेषं मङ्गल्य^विहगैः *श्रीवृक्षैः स्वस्तिकैर्[क्।श्रीवृक्षस्वस्तिकैर्] घटैः।  
+    
+५५।१५च्द्। मिथुनैः पत्र^वल्लीभिः प्रमथैश् च^उपशोभयेत्॥  
+    
+५५।१६अब्। द्वार^मान^अष्ट^भाग^ऊना प्रतिमा स्यात् सपिण्डिका।  
+    
+५५।१६च्द्। द्वौ भागौ प्रतिमा तत्र तृतीयांशश् च पिण्डिका॥  
+    
+५५।१७अब्। मेरु^मन्दर^कैलास^विमानच्छन्द^नन्दनाः।  
+    
+५५।१७च्द्। समुद्ग^पद्म^गरुड^नन्दिवर्धन^कुञ्जराः॥  
+    
+५५।१८अब्। गुहराजो वृषो हंसः सर्वतोभद्रको घटः।  
+    
+५५।१८च्द्। सिंहो वृत्तश् चतुष्कोणः षोडश^अष्टाश्रयस् तथा॥  
+    
+५५।१९अब्। इत्य् एते विंशतिः प्रोक्ताः प्रासादाः सञ्ज्ञया मया।  
+    
+५५।१९च्द्। यथोक्त^अनुक्रमेण^एव लक्षणानि वदाम्य् अतः॥  
+    
+५५।२०अब्। तत्र षडश्रिर् मेरुर् द्वादश^भौमो विचित्र^कुहरश् च।  
+    
+५५।२०च्द्। द्वारैर् युतश् चतुर्भिर् द्वात्रिंशद्^धस्त^विस्तीर्णः॥  
+    
+५५।२१अब्। त्रिंशद्^धस्त^आयामो दश^भौमो मन्दरः शिखर^युक्तः।  
+    
+५५।२१च्द्। कैलासो +अपि शिखरवान् अष्टाविंशो +अष्ट^भौमश् च॥  
+    
+५५।२२अब्। जाल^गवाक्षक^युक्तो विमानसञ्ज्ञस् त्रि^सप्तक^आयामः।  
+    
+५५।२२च्द्। नन्दन इति षड्^भौमो द्वात्रिंशः षोडश^अण्ड^युक्तः॥  
+    
+५५।२३अब्। वृत्तः समुद्ग^नामा पद्मः पद्म^आकृतिः शया अष्टौ[क्।शयानाष्टौ]।  
+    
+५५।२३च्द्। शृङ्गेण^एकेन भवेद् एक^एव च भूमिका तस्य॥  
+    
+५५।२४अब्। गरुड^आकृतिश् च गरुडो नन्दी^इति च षट्चतुष्क^विस्तीर्णः।  
+    
+५५।२४च्द्। कार्यस् तु[क्।च] सप्त^भौमो विभूषितो +अण्डैस् तु[क्।च] विंशत्या॥  
+    
+५५।२५अब्। कुञ्जर इति गज^पृष्ठः षोडशहस्तः समन्ततो मूलात्।  
+    
+५५।२५च्द्। गुहराजः षोडशकस् त्रि^चन्द्रशाला भवेद् वलभी॥  
+    
+५५।२६अब्। वृष एक^भूमि^शृङ्गो द्वादशहस्तः समन्ततो वृत्तः।  
+    
+५५।२६च्द्। हंसो हंस^आकारो घटो +अष्टहस्तः कलश^रूपः॥  
+    
+५५।२७अब्। द्वारैर् युतश् चतुर्भिर् बहु^शिखरो भवति सर्वतोभद्रः।  
+    
+५५।२७च्द्। बहु^रुचिर^चन्द्रशालः षड्विंशः पञ्च^भौमश् च॥  
+    
+५५।२८अब्। सिंहः सिंह^आक्रान्तो द्वादशकोणो +अष्टहस्त^विस्तीर्णः।  
+    
+५५।२८च्द्। चत्वारो +अञ्जन^रूपाः पञ्च^अण्ड^युतस् तु चतुरस्रः[क्।चतुरश्रः]॥  
+    
+५५।२९अब्। भूमिका^अङ्गुल^मानेन मयस्य^अष्टोत्तरं शतम्।  
+    
+५५।२९च्द्। सार्धं हस्तत्रयं च^एव कथितं विश्वकर्मणा॥  
+    
+५५।३०अब्। प्राहुः स्थपतयश् च^अत्र मतम् एकं विपश्चितः।  
+    
+५५।३०च्द्। कपोतपालि^संयुक्ता न्यूना गच्छन्ति तुल्यताम्॥  
+    
+५५।३१अ प्रासादलक्षणम् इदम् कथितं समासाद्  
+    
+५५।३१ब् गर्गेण यद् विरचितं तद् इह^अस्ति सर्वम्।  
+    
+५५।३१च् मनु^आदिभिर् विरचितानि पृथूनि यानि  
+    
+५५।३१द् तत्संस्पृशन्[क्।तत्संस्मृतिम्] प्रति मया^अत्र कृतो +अधिकारः॥
+
+                   ५६ वज्रलेपलक्षणाध्यायः
+
+५६।०१अब्। आमं तिन्दुकम् आमं कपित्थकं पुष्पम् अपि च शाल्मल्याः।  
+    
+५६।०१च्द्। बीजानि शल्लकीनां धन्वन^वल्को वचा च^इति॥  
+    
+५६।०२अब्। एतैः सलिलद्रोणः क्वाथयितव्यो +अष्टभागशेषश् च।  
+    
+५६।०२च्द्। अवतार्यो +अस्य च कल्को द्रव्यैर् एतैः समनुयोज्यः॥  
+    
+५६।०३अब्। श्रीवासक^रस^गुग्गुलु^भल्लातक^कुन्दुरूक^सर्जरसैः।  
+    
+५६।०३च्द्। अतसी^बिल्वैश् च युतः कल्को +अयं वज्रलेप^आख्यः॥  
+५६।०४अब्। प्रासाद^हर्म्य^वलभी^लिङ्ग^प्रतिमासु कुड्य^कूपेषु।  
+    
+५६।०४च्द्। सन्तप्तो दातव्यो वर्ष^सहस्रायुत^स्थायी॥  
+    
+५६।०५अब्। लाक्षा^कुन्दुरु^गुग्गुलु^गृहधूम^कपित्थ^बिल्व^मध्यानि।  
+    
+५६।०५च्द्। नाग*फल^निम्ब[क्।बलाफल]^तिन्दुक^मदन^फल^मधूक^मञ्जिष्ठाः॥  
+    
+५६।०६अब्। सर्जरस^रस^आमलकानि च^इति कल्कः कृतो द्वितीयो +अयम्।  
+    
+५६।०६च्द्। वज्राख्यः प्रथमगुणैर् अयम् अपि तेष्व् एव कार्येषु॥  
+    
+५६।०७अब्। गो^महिष^अज^विषाणैः खररोम्णा महिषचर्म^गव्यैश् च।  
+    
+५६।०७च्द्। निम्ब^कपित्थ^रसैः सह वज्रतलो[क्।वज्रतरो] नाम कल्को +अन्यः॥  
+    
+५६।०८अब्। अष्टौ सीसक^भागाः कांसस्य द्वौ तु रीतिका^भागः।  
+    
+५६।०८च्द्। मय^कथितो योगो +अयं विज्ञेयो वज्रसङ्घातः॥
+
+                   ५७ प्रतिमालक्षणाध्यायः।
+
+५७।०१अब्। जाल^अन्तरगे भानौ यद् अणुतरं दर्शनं रजो याति।  
+    
+५७।०१च्द्। तद् विन्द्यात् परमाणुं प्रथमं तद्धि प्रमाणानाम्॥  
+    
+५७।०२अब्। परमाणु^रजो बालाग्र[क्।वालाग्र]^लिक्ष^यूकं[क्।यूका] यवो +अङ्गुलं च^इति।  
+    
+५७।०२च्द्। अष्टगुणानि यथोत्तरम् अङ्गुलम् एकं भवति सङ्ख्या[क्।मात्रा]॥  
+    
+५७।०३अब्। देवागार^द्वारस्य^अष्ट^अम्श^ऊनस्य यस् तृतीयो +अंशः।  
+    
+५७।०३च्द्। तत्^पिण्डिका^प्रमाणं प्रतिमा तद्^द्विगुण^परिमाणा॥  
+    
+५७।०४अब्। स्वैर् अङ्गुल^प्रमाणैर् द्वादश वीस्तीर्णम्[उ।विस्तीर्णम्] आयतं च मुखम्।  
+    
+५७।०४च्द्। नग्नजिता तु चतुर्दश दैर्घ्येण द्राविडं कथितम्॥  
+    
+५७।०५अब्। नासा^ललाट^चिबुक^ग्रीवाश् चतुर^अङ्गुलास् तथा कर्णौ।  
+    
+५७।०५च्द्। द्वे अङ्गुले च हनुनी[क्।हनुके] चिबुकं च द्व्यङ्गुलं विततम्[क्।विस्तृतम्]॥  
+    
+५७।०६अब्। अष्ट^अङ्गुलं ललाटं विस्ताराद् द्व्य्^अङ्गुलात् परे शङ्खौ।  
+    
+५७।०६च्द्। चतुर्^अङ्गुलौ तु शङ्खौ कर्णौ तु द्व्य्^अङ्गुलौ[क्।द्व्यङ्गुलम्] पृथुलौ॥  
+    
+५७।०७अब्। कर्ण^उपान्तः कार्यो +अर्ध^पञ्चमे भ्रू^समेन सूत्रेण।  
+    
+५७।०७च्द्। कर्ण^स्रोतः सुकुमारकम् च नेत्र[क्।नयन]^प्रबन्ध^समम्॥  
+    
+५७।०८अब्। चतुर्^अङ्गुलं वसिष्ठः कथयति नेत्रान्त^कर्णयोर् विवरम्।  
+    
+५७।०८च्द्। अधरो +अङ्गुल^प्रमाणस् तस्य^अर्धेन^उत्त्रोष्ठश् च॥  
+    
+५७।०९अब्। अर्ध^अङ्गुला तु गोच्छा वक्त्रं चतुर्^अङ्गुल^आयतं कार्यम्।  
+    
+५७।०९च्द्। विपुलं तु स^अर्धम् अङ्गुलम् *अव्यात्तं त्र्य्^अङ्गुलं[क्।अध्यात्तत्त्र्यङ्गुलम्] व्यात्तम्॥  
+    
+५७।१०अब्। द्व्य्^अङ्गुल^तुल्यौ नासापुटौ च नासा पुटा^अग्रतो ज्ञेया।  
+    
+५७।१०च्द्। स्याद् द्व्य्^अङ्गुलम् उच्छ्रायश् चतुर्^अङ्गुलम् अन्तरं च^अक्ष्णोः॥  
+    
+५७।११अब्। द्व्य्^अङ्गुल^मितो +अक्षि^कोशो द्वे नेत्रे तत्^त्रिभागिका तारा।  
+    
+५७।११च्द्। दृक्^तारा पञ्च^अंशो नेत्र^विकाशो +अङ्गुलं भवति॥  
+    
+५७।१२अब्। पर्यन्तात् पर्यन्तं दश भ्रुवो +अर्ध^अङ्गुलं भ्रुवोर् लेखा।  
+    
+५७।१२च्द्। भ्रू^मध्यं द्व्य्^अङ्गुलकं भूर्[उ।भ्रूर्] धैर्घ्येण^अङ्गुल^चतुष्कम्॥  
+    
+५७।१३अब्। कार्या तु केश^रेखा भ्रू^बन्ध^सम^अङ्गुल^अर्ध^विस्तीर्णा।  
+    
+५७।१३च्द्। नेत्र^अन्ते करवीरकम् उपन्यसेद् अङ्गुल^प्रमितम्॥  
+    
+५७।१४अब्। द्वात्रिंशत् परिणाहाच् चतुर्दश^आयामतो +अङ्गुलानि शिरः।  
+    
+५७।१४च्द्। द्वादश तु चित्र^कर्मणि दृश्यन्ते विंशतिर् अदृश्याः॥  
+    
+५७।१५अब्। आस्यं स^केश^निचयं षोडश दैर्घ्येण नग्निजित्[उ।नग्नजित्]^प्रोक्तम्।  
+    
+५७।१५च्द्। ग्रीवा दश विस्तीर्णा परिणाहाद् विंशतिः स^एका॥  
+    
+५७।१६अब्। कण्ठाद् द्वादश हृदयं हृदयान् नाभी[क्।नाभिश्] च तत्^प्रमाणेन।  
+    
+५७।१६च्द्। नाभी^मध्याद् मेढ्र^अन्तरं च तत्^तुल्यम् एव^उक्तम्॥  
+    
+५७।१७अब्। ऊरू च^अङ्गुल^मानैश् चतुर्^युता विंशतिस् तथा जङ्घे।  
+    
+५७।१७च्द्। जानुकपिच्छे चतुर्^अङ्गुले च पादौ च तत्^तुल्यौ॥  
+    
+५७।१८अब्। द्वादश^दीर्घौ षट् पृथुतया च पादौ त्रिक^आयत^अङ्गुष्ठौ।  
+    
+५७।१८च्द्। पञ्च^अङ्गुल^परिणाहौ प्रदेशिनी त्र्य्^अङ्गुलं दीर्घा॥  
+    
+५७।१९अब्। अष्ट^अंश^अंश^ऊनाः शेष^अङ्गुल्यः[क्।शेषाङ्गुलयः] क्रमेण कर्तव्याः।  
+५७।१९च्द्। स^चतुर्थ^भागम् अङ्गुलम् उत्सेधो +अङ्गुष्ठकस्य^उक्तः॥  
+    
+५७।२०अब्। अङ्गुष्ठ^नखः कथितस् चतुर्थ^भाग^ऊनम् अङ्गुलं तज्ज्ञैः।  
+    
+५७।२०च्द्। शेष^नखानाम् अर्ध^अङ्गुलं क्रमात् किञ्चिद्^ऊनं वा॥  
+    
+५७।२१अब्। जङ्घ^अग्रे परिणाहश् चतुर्दश^उक्तस् तु विस्तरात्[क्।विस्तरः] पञ्च।  
+    
+५७।२१च्द्। मध्ये तु सप्त विपुला परिणाहात् त्रिगुणिताः सप्त॥  
+    
+५७।२२अब्। अष्टौ तु जानुमध्ये वैपुल्यं त्र्य्^अष्टकं तु परिणाहः।  
+    
+५७।२२च्द्। विपुलौ चतुर्दश^ऊरू मध्ये द्विगुणश् च तत्^परिधिः॥  
+    
+५७।२३अब्। कटिर् अष्टादश विपुला चत्वारिंशच् चतुर्^युता परिधौ।  
+    
+५७।२३च्द्। अङ्गुलम् एकं नाभी[क्।नाभिर्] वेधेन तथा प्रमाणेन॥  
+    
+५७।२४अब्। चत्वारिंशद्^द्वि^युता नाभी^मध्येन मध्य^परिणाहः।  
+    
+५७।२४च्द्। स्तनयोः षोडश च^अन्तरम् ऊर्ध्वं कक्ष्ये[क्।कक्षे] षड्^अङ्गुलिके॥  
+    
+५७।२५अब्। *अष्टाव् अंसौ द्वादश बाहू कार्यौ[क्।कार्याव् अष्टाव् अंसौ द्वादश बाहू] तथा प्रबाहू च।  
+    
+५७।२५च्द्। बाहू षड्^विस्तीर्णौ[क्।षड्विस्तिर्णौ] प्रतिबाहू त्व् अङ्गुल^चतुष्कम्॥  
+    
+५७।२६अब्। षोडश बाहू मूले परिणाहाद् द्वादश^अग्र^हस्ते च।  
+    
+५७।२६च्द्। विस्तारेण करतलं षड्^अङ्गुलं सप्त दैर्घ्येण॥  
+    
+५७।२७अब्। पञ्च^अङ्गुलानि मध्या प्रदेशिनी मध्य^पर्व^दल^हीना।  
+    
+५७।२७च्द्। अनया तुल्या च^अनामिका कनिष्ठा तु पर्व^ऊना॥  
+    
+५७।२८अब्। पर्व^द्वयम् अङ्गुष्ठः शेष^अङ्गुल्यस्[क्।शेषाङ्गुलयस्] त्रिभिस् त्रिभिः कार्याः।  
+    
+५७।२८च्द्। नख^परिमाणं कार्यं सर्वासाम् पर्वणो +अर्धेन॥  
+    
+५७।२९अब्। देश^अनुरूप^भूषण^वेषालङ्कार^मूर्तिभिः कार्या।  
+    
+५७।२९च्द्। प्रतिमा लक्षण^युक्ता सन्निहिता वृद्धिदा भवति॥  
+    
+५७।३०अब्। दशरथ^तनयो रामो बलिश् च वैरोचनिः शतं विंशम्।  
+    
+५७।३०च्द्। द्वादश^हान्या शेषाः प्रवर^सम^न्यून^परिमाणाः॥  
+    
+५७।३१अब्। कार्यो +अष्टभुजो भगवांश् चतुर्^भुजो द्विभुज एव वा विष्णुः।  
+    
+५७।३१च्द्। श्रीवत्स^अङ्कित^वक्षाः कौस्तुभ^मणि^भूषित^उरस्कः॥  
+    
+५७।३२अब्। अतसी^कुसुम^श्यामः पीत^अम्बर^निवसनः प्रसन्न^मुखः।  
+    
+५७।३२च्द्। कुण्डल^किरीट^धारी पीन^गल^उरःस्थल^अंस^भुजः॥  
+    
+५७।३३अब्। खड्ग^गदा^शर^पाणिर् दक्षिणतः शान्तिदश् चतुर्थ^करः।  
+    
+५७।३३च्द्। वाम^करेषु च कार्मुक^खेटक^चक्राणि शङ्खश् च॥  
+    
+५७।३४अब्। अथ च चतुर्भुजम् इच्छति शान्तिद एको गदा^धरश् च^अन्यः।  
+    
+५७।३४च्द्। दक्षिण^पार्श्वे त्व्[क्।ह्य्] एवं वामे शङ्खश् च चक्रं च॥  
+    
+५७।३५अब्। द्विभुजस्य तु शान्ति^करो दक्षिण^हस्तो +अपरश् च शङ्ख^धरः।  
+    
+५७।३५च्द्। एवं विष्णोः प्रतिमा कर्तव्या भूतिम् इच्छद्भिः॥  
+    
+५७।३६अब्। बलदेवो हल^पाणिर् मद^विभ्रम^लोचनश् च कर्तव्यः।  
+    
+५७।३६च्द्। विभ्रत्[क्।बिभ्रत्] कुण्डलम् एकं शङ्ख^इन्दु^मृणाल^गौर^तनुः[क्।वपुः]॥  
+    
+५७।३७अब्। एकानंशा कार्या देवी बलदेव^कृष्णयोर् मध्ये।  
+    
+५७।३७च्द्। कटि^संस्थित^वाम^करा सरोजम् इतरेण च^उद्वहती॥  
+    
+५७।३८अब्। कार्या चतुर्भुजा या वाम^कराभ्यां स^पुस्तकं कमलम्।  
+    
+५७।३८च्द्। द्वाभ्यां दक्षिण^पार्श्वे वरम् अर्थिष्व् अक्ष^सूत्रं च॥  
+    
+५७।३९अब्। *वामो +अथ वा^अष्ट^भुजायाः[क्।वामेष्व् अष्टभुजायाः] कमण्डलुश् चापम् अम्बुजं शास्त्रम्।  
+    
+५७।३९च्द्। वर^शर^दर्पण^युक्ताः सव्य^भुजाः स^अक्ष^सूत्राश् च॥  
+    
+५७।४०अब्। शाम्बश् च गदा^हस्तः प्रद्युम्नश् चाप^भृत् सुरूपश् च।  
+    
+५७।४०च्द्। अनयोः स्त्रियौ च कार्ये खेटक^निस्त्रिंश^धारिण्यौ॥  
+    
+५७।४१अब्। ब्रह्मा कमण्डलु^करश् चतुर्^मुखः पण्कज^आसन^स्थश् च।  
+    
+५७।४१च्द्। स्कन्दः कुमार^रूपः शक्ति^धरो बर्हिकेतुश् च॥  
+    
+५७।४२अब्। शुक्ल^चतुर्^विषाणो द्विपो महेन्द्रस्य वज्र^पाणित्वम्।  
+    
+५७।४२च्द्। तिर्यग् ललाट^संस्थं तृतीयम् अपि लोचनं चिह्नम्॥  
+    
+५७।४३अब्। शम्भोः शिरसि^इन्दुकला वृष^ध्वजो +अक्षि च तृतीयम् अपि च^ऊर्ध्वम्।  
+    
+५७।४३च्द्। शूलं धनुः पिनाकं वाम^अर्धे वा गिरिसुता^अर्धम्॥  
+    
+५७।४४अब्। पद्म^अङ्कित^कर^चरणः प्रसन्न^मूर्तिः सुनीच^केशश् च।  
+    
+५७।४४च्द्। पद्मासन^उपविष्टः पिता^इव जगतो भवति[क्।भवेत्] बुद्धः॥  
+    
+५७।४५अब्। आ^जानु^लम्ब^बाहुः श्रीवत्स^अङ्कः प्रशान्त^मूर्तिश् च।  
+    
+५७।४५च्द्। दिग्^वासास् तरुणो रूपवांश् च कार्यो +अर्हतां देवः॥  
+    
+५७।४६अब्। नासा^ललाट^जङ्घ^ऊरु^गण्ड^वक्षांसि च^उन्नतानि रवेः।  
+    
+५७।४६च्द्। कुर्याद् उदीच्य^वेषं गूढं पादाद् उरो यावत्॥  
+    
+५७।४७अब्। बिभ्राणः स्व^कर^रुहे बाहुभ्यां[क्।पाणिभ्याम्] पङ्कजे मुकुट^धारी।  
+    
+५७।४७च्द्। कुण्डल^भूषित^वदनः प्रलम्ब^हारो वियद्ग[क्ऽस् त्र्। वियङ्ग]^वृतः॥  
+    
+५७।४८च्द्। कमल^उदर^द्युति^मुखः कञ्चुक^गुप्तः स्मित^प्रसन्न^मुखः।  
+    
+५७।४८च्द्। रत्न^उज्ज्वल^प्रभा^मण्डलश् च कर्तुः शुभकरो +अर्कः॥  
+    
+५७।४९अब्। सौम्या तु हस्त^मात्रा वसुदा हस्त^द्वय^उच्छ्रिता प्रतिमा।  
+    
+५७।४९च्द्। क्षेम^सुभिक्षाय भवेत् त्रि^चतुर्^हस्त^प्रमाणा या॥  
+    
+५७।५०अब्। नृप^भयम् अत्यङ्गायां हीन^अङ्गायाम् अकल्यता कर्तुः।  
+    
+५७।५०च्द्। शात^उदर्यां क्षुद्^भयम् अर्थ^विनाशः कृश^अङ्गायाम्[क्।कृशायां च]॥  
+    
+५७।५१अब्। मरणं तु स^क्षतायां शस्त्र^निपातेन निर्दिशेत् कर्तुः।  
+    
+५७।५१च्द्। वाम^अवनता पत्नीं दक्षिण^विनता हिनस्त्य् आयुः॥  
+    
+५७।५२अब्। अन्धत्वम् ऊर्ध्व^दृष्ट्या करोति चिन्ताम् अधोमुखी दृष्टिः।  
+    
+५७।५२च्द्। सर्व^प्रतिमास्व् एवं शुभ^अशुभं भास्कर^उक्त^समम्॥  
+    
+५७।५३अब्। लिङ्गस्य वृत्त^परधिं दैर्घ्येण^आसूत्र्य तत् त्रिधा विभजेत्।  
+    
+५७।५३च्द्। मूले तच् चतुरस्रं[क्।चतुरश्रम्] मध्ये त्व् अष्टाश्रिं वृत्तम् अतः॥  
+    
+५७।५४अब्। चतुरस्रम्[क्।चतुरश्रम्] अवनि^खाते मध्यं कार्यं तु पिण्डिका^श्वभ्रे।  
+    
+५७।५४च्द्। दृश्य^उच्छ्रायेण समा समन्ततः पिण्डिका[क्।पिण्डका] श्वभ्रात्॥  
+    
+५७।५५अब्। कृश^दीर्घं देशघ्नं पार्श्व^विहीनं पुरस्य नाशय।  
+    
+५७।५५च्द्। यस्य क्षतं भवेद् मस्तके विनाशाय तल्^लिङ्गम्॥  
+    
+५७।५६अब्। मातृ^गणः कर्तव्यः स्व^नाम^देव^अनुरूप^कृत^चिह्नः।  
+    
+५७।५६च्द्। रेवन्तो +अश्व^आरूढो मृगया^क्रीडा^आदि^परिवारः॥  
+    
+५७।५७अब्। दण्डी यमो महिषगो हंस^आरूढश् च पाशभृद् वरुणः।  
+    
+५७।५७च्द्। नर^वाहनः कुबेरो वाम^किरीटी बृहत्^कुक्षिः॥  
+    
+[क्।५८।५८अब्। प्रमथाधिपो गजमुखः प्रलम्ब^जठरः कुठारधारी स्यात्।  
+    
+क्।५८।५८च्द्। एकविषाणो बिभ्रन् मूलककन्दं सुनीलदलकन्दम्॥]
+
+                   ५८ वनसम्प्रवेशाध्यायः
+
+५८।०१अब्। कर्तुर् अनुकूल^दिवसे दैवज्ञ^विशोधिते शुभ^निमित्ते।  
+    
+५८।०१च्द्। मङ्गल^शकुनैः प्रास्थानिकैश् च वन^सम्प्रवेशः स्यात्॥  
+    
+५८।०२अब्। पितृवन^मार्ग^सुरालय^वल्मीक^उद्यान^तापसाश्रम^जाः।  
+    
+५८।०२च्द्। चैत्य^सरित्सङ्गम^सम्भवाश् च घटतोय^सिक्ताश् च॥  
+    
+५८।०३अब्। कुब्ज^अनुजात^वल्ली^निपीडिता वज्र^मारुत^उपहताः।  
+    
+५८।०३च्द्। स्वपतित^हस्ति^निपीडित^शुष्क^अग्नि^प्लुष्ट^मधुनिलयाः॥  
+    
+५८।०४अब्। तरवो वर्जयितव्याः शुभदाः स्युः स्निग्ध^पत्र^कुसुम^फलाः।  
+    
+५८।०४च्द्। अभिमत^वृक्षं गत्वा कुर्यात् पूजां सबलि^पुष्पाम्॥  
+    
+५८।०५अब्। सुरदारु^चन्दन^शमी^मधूक^तरवः शुभा द्विजातीनाम्।  
+    
+५८।०५च्द्। क्षत्रस्य^अरिष्ट^अश्वत्थ^खदिर^बिल्वा विवृद्धिकराः॥  
+    
+५८।०६अब्। वैश्यानां जीवक^खदिर^सिन्धुक^स्यन्दनाश्[क्।स्पन्दनाश्] च शुभफलदाः।  
+    
+५८।०६च्द्। तिन्दुक^केसर^सर्ज^अर्जुन^आम्र^शालाश् च शूद्राणाम्॥  
+    
+५८।०७अब्। लिङ्गं वा प्रतिमा वा द्रुमवत् स्थाप्या यथा दिशं यस्मात्।  
+    
+५८।०७च्द्। तस्माच् चिह्नयितव्या दिशो द्रुमस्य^ऊर्ध्वम् अथ वा^अधः।  
+    
+५८।०८अब्। परमान्न^मोदक^ओदन^दधि^पलल^उल्लोपिका^आदिभिर् भक्ष्यैः।  
+    
+५८।०८च्द्। मद्यैः कुसुमैर् धूपैर् गन्धैश् च तरुं समभ्यर्च्य॥  
+    
+५८।०९अब्। सुर^पितृ^पिशाच^राक्षस^भुजग^असुर^गण^विनायक^आद्यानाम्।  
+    
+५८।०९च्द्। कृत्वा रात्रौ पूजां वृक्षं संस्पृश्य च ब्रूयात्॥  
+    
+५८।१०अब्। अर्चार्थम् अमुकस्य त्वं देवस्य परिकल्पितः।  
+    
+५८।१०च्द्। नमस् ते वृक्ष पूजेयं विधिवत् सम्प्रगृह्यताम्॥  
+    
+५८।११अ यानीह भूतानि वसन्ति तानि  
+    
+५८।११ब् बलिं गृहीत्वा विधिवत् प्रयुक्तम्।  
+    
+५८।११च् अन्यत्र वासं परिकल्प्यन्तु  
+    
+५८।११द् क्षमन्तु तान्य् अद्य नमो +अस्तु तेभ्यः॥  
+    
+५८।१२अ वृक्षं प्रभाते सलिलेन सिक्त्वा  
+    
+५८।१२ब् पूर्वोत्तरस्यां दिशि सन्निकृत्य।  
+    
+५८।१२च् मध्वाज्य^दिग्धेन[क्।लिप्तेन] कुठारकेण  
+    
+५८।१२द् प्रदक्षिणं शेषम् अतो निहन्यात्[क्।+अभिहन्यात्]॥  
+    
+५८।१३अ पूर्वेण पूर्वोत्तरतो +अथ वा^उदक्  
+    
+५८।१३ब् पतेद् यदा वृद्धिकरस् तदा स्यात्।  
+    
+५८।१३च् आग्नेयकोणात् क्रमशो +अग्निदाह^  
+    
+५८।१३द् रुग्राग[क्।क्षुद्रोग]रोगास् तुरगक्षयश् च॥  
+    
+५८।१४अ यन् न^उक्तम् अस्मिन् वन^सम्प्रवेशे  
+    
+५८।१४ब् निपात^विच्छेदन^वृक्षगर्भाः।  
+    
+५८।१४च् इन्द्रध्वजे वास्तुनि च प्रदिष्टाः  
+    
+५८।१४द् पूर्वं मया ते +अत्र तथ^एव योज्याः॥
+
+                   ५९ प्रतिमाप्रतिष्ठापनाध्यायः
+
+५९।०१अब्। दिशि याम्यायां[क्।सौम्यायाम्] कुर्याद् अधिवासन^मण्डपं बुधः प्राग् वा।  
+    
+५९।०१च्द्। तोरण^चतुष्टय^युतं शस्त^द्रुम^पल्लव^च्छन्नम्॥  
+    
+५९।०२अब्। पूर्वे भागे चित्राः स्रजः पताकाश् च मण्डपस्य^उक्ताः।  
+    
+५९।०२च्द्। आग्नेय्यां दिशि रक्ताः कृष्णाः स्युर् याम्य^नैरृत्योः[क्।नैरृतयोः]॥  
+    
+५९।०३अब्। श्वेता दिश्य् अपरस्याम् वायव्यायां तु पाण्डुरा एव।  
+    
+५९।०३च्द्। चित्राश् च^उत्तर^पार्श्वे पीताः पूर्वोत्तरे कार्याः[क्।कोणे]॥  
+    
+५९।०४अब्। आयुः^श्री^बल^जयदा दारु^मयी मृण्^मयी[क्।मृन्मयी] तथा प्रतिमा।  
+    
+५९।०४च्द्। लोक^हिताय मणि^मयी सौवर्णी पुष्टिदा भवति॥  
+    
+५९।०५अब्। रजत^मयी कीर्ति^करी प्रजा^विवृद्धिं करोति ताम्र^मयी।  
+    
+५९।०५च्द्। भू^लाभं तु महान्तं शैली प्रतिमा^अथ वा लिङ्गम्॥  
+    
+५९।०६अब्। शङ्खु^उपहता प्रतिमा प्रधान^पुरुषं कुलं च घातयति।  
+    
+५९।०६च्द्। श्वभ्र^उपहता रोगान् उपद्रवांश् च क्षयम्[क्।अक्षयान्] कुरुते॥  
+    
+५९।०७अब्। मण्डप^मध्ये स्थण्डिलम् उपलिप्य^आस्तीर्य सिकतया^अथ कुशैः।  
+५९।०७च्द्। भद्रासन^कृत^शीर्ष^उपधान^पादां न्यसेत् प्रतिमाम्॥  
+    
+५९।०८अब्। प्लक्ष^अश्वत्थ^उदुम्बर^शिरीष^वट^सम्भवैः कषाय^जलैः।  
+    
+५९।०८च्द्। मङ्गल्य^सञ्ज्ञिताभिः सर्व^औषधिभिः कुश^आद्याभिः॥  
+    
+५९।०९अब्। द्विप^वृषभ^उद्धत[क्।उद्धृत]^पर्वत^वल्मीक^सरित्^समागम^तटेषु।  
+    
+५९।०९च्द्। पद्म^सरःसु च मृद्भिः स^पञ्चगव्यैश् च तीर्थ^जलैः॥  
+    
+५९।१०अब्। पूर्व^शिरस्कां स्नातां सुवर्ण^रत्न^अम्बुभिश् च स^सुगन्धैः।  
+    
+५९।१०च्द्। नाना^तूर्य^निनादैः पुण्याहैर् वेद^निर्घोषैः॥  
+    
+५९।११अब्। ऐन्द्र्यां दिशि^इन्द्र^लिङ्गा मन्त्राः प्राग्दक्षिणे +अग्नि^लिङ्गाश् च।  
+    
+५९।११च्द्। वक्तव्या[क्।जप्तव्या] द्विज^मुख्यैः पूज्यास् ते दक्षिणाभिश् च॥  
+    
+५९।१२अब्। यो देवः संस्थाप्यस् तन्^मन्त्रैश् च^अनलं द्विजो जुहुयात्।  
+    
+५९।१२च्द्। अग्नि^निमित्तानि मया प्रोक्तानि^इन्द्र^ध्वज^उत्थाने[क्।उच्छ्राये]॥  
+    
+५९।१३अब्। धूम^आकुलो +अपसव्यो मुहुर् मुहुर् विफुलिङ्ग^कृन् न शुभः।  
+    
+५९।१३च्द्। होतुः स्मृति^लोपो वा प्रसर्पणं च^अशुभं प्रोक्तम्॥  
+    
+५९।१४अब्। स्नाताम् अभुक्त^वस्त्रां स्व्^अलङ्कृतां पूजिताम् कुसुम^गन्धैः।  
+    
+५९।१४च्द्। प्रतिमां स्व्^आस्तीर्णायाम् शय्यायाम् स्थापकः कुर्यात्॥  
+    
+५९।१५अब्। सुप्तां *स^गीत^नृत्यैर् जागरणैः[क्।सुनृत्यगीतैर् जागरकैः] सम्यग् एवम् अधिवास्य।  
+    
+५९।१५च्द्। दैवज्ञ^सम्प्रदिष्टे काले संस्थापनं कुर्यात्॥  
+    
+५९।१६अब्। अभ्यर्च्य कुसुम^वस्त्र^अनुलेपनैः शङ्ख^तूर्य^निर्घोषैः।  
+    
+५९।१६च्द्। प्रादक्षिण्येन नयेद् आयतनस्य प्रयत्नेन॥  
+    
+५९।१७अब्। कृत्वा बलिं प्रभूतं सम्पूज्य ब्राह्मणांश् च सभ्यांश् च।  
+    
+५९।१७च्द्। दत्त्वा हिरण्य^शकलं विनिक्षिपेत् पिण्डिका^श्वभ्रे।  
+    
+५९।१८अब्। स्थापक^दैवज्ञ^द्विज^सभ्य^स्थपतीन् विशेषतो +अभ्यर्च्य।  
+    
+५९।१८च्द्। कल्याणानां भागी भवति^इह परत्र च स्वर्गी॥  
+    
+५९।१९अ विष्णोर् भागवतान् मगांश् च सवितुः शम्भोः स^भस्म^द्विजान्  
+    
+५९।१९ब् मातॄणाम् अपि मण्डल^क्रम^विदो[क्।मातृमण्डलविदो] विप्रान् विदुर् ब्रह्मणः।  
+    
+५९।१९च् शाक्यान् सर्व^हितस्य शान्त^मनसो नग्नान् जिनानां विदुर्  
+    
+५९।१९द् ये यं देवम् उपाश्रिताः स्व^विधिना तैस् तस्य कार्या क्रिया॥  
+    
+५९।२०अब्। उदगयने सितपक्षे शिशिर^गभस्तौ च जीव^वर्ग^स्थे।  
+    
+५९।२०च्द्। लग्ने स्थिरे स्थिर^अंशे सौम्यैर् धी^धर्म^केन्द्र^गतैः॥  
+    
+५९।२१अब्। पापैर् उपचय^संस्थैर् ध्रुव^मृदु^हरि^तिष्य^वायु^देवेषु।  
+    
+५९।२१च्द्। विकुजे दिने +अनुकूले देवानां स्थापनं शस्तम्॥  
+    
+५९।२२अब्। सामान्यम् इदं समासतो लोकानां हितदं मया कृतम्।  
+    
+५९।२२च्द्। अधिवासन^सन्निवेशने सावित्रे पृथग् एव विस्तरात्॥
+
+                   ६० गोलक्षणाध्यायः
+
+६०।०१अ पराशरः प्राह बृहद्रथाय  
+    
+६०।०१ब् गो^लक्षणं यत् क्रियते ततो +अयम्।  
+    
+६०।०१च् मया समासः शुभ^लक्षणास् ताः  
+    
+६०।०१द् सर्वास् तथा +अप्य् आगमतो +अभिधास्ये॥  
+    
+६०।०२अब्। सास्र^आविल^रूक्ष^अक्ष्यो मूषक^नयनाश् न शुभदा गावः।  
+    
+६०।०२च्द्। प्रचलच्^चिपिट^विषाणाः करटाः खर^सदृश^वर्णाश्[क्।वर्नाः] च॥  
+    
+६०।०३अब्। दश^सप्त^चतुर्^दन्त्यः प्रलम्ब^मुण्ड^आनना विनत^पृष्ठ्यः[क्।पृष्ठाः ऊ।पृष्ठः]।  
+    
+६०।०३च्द्। ह्रस्व^स्थूल^ग्रीवा यव^मध्या दारित^खुराश् च॥  
+    
+६०।०४अब्। श्याव^अतिदीर्घ^जिह्वा गुल्फैर् अतितनुभिर् अतिबृहद्भिर् वा।  
+    
+६०।०४च्द्। अतिककुदाः कृश^देहा न^इष्टा हीन^अधिक^अङ्ग्यश् च॥  
+    
+६०।०५अब्। वृषभो +अप्य् एवं स्थूल^अतिलम्ब^वृषणः शिरा^तत^क्रोडः।  
+    
+६०।०५च्द्। स्थूल^शिरा^चित^गण्डस् त्रिस्थानं मेहते यश् च॥  
+    
+६०।०६अब्। मार्जार^अक्षः कपिलः करटो वा न शुभदो द्विजस्य^एव[क्।द्विजस्येष्टः]।  
+    
+६०।०६च्द्। कृष्ण^ओष्ठ^तालु^जिह्वः श्वसनो यूथस्य घातकरः॥  
+    
+६०।०७अब्। स्थूल^शकृन्^मणि^शृङ्गः सित^उदरः कृष्ण^सार^वर्णश् च।  
+    
+६०।०७च्द्। गृहजातो +अपि त्याज्यो यूथ^विनाश^आवहो वृषभः॥  
+    
+६०।०८अब्। श्यामक^पुष्प^चित^अङ्गो भस्म^अरुण^सन्निभो बिडाल^अक्षः।  
+    
+६०।०८च्द्। विप्राणाम् अपि न शुभं करोति वृषभः परिगृहीतः॥  
+    
+६०।०९अब्। ये च^उद्धरन्ति पादान् पङ्काद् इव योजिताः कृश^ग्रीवाः।  
+    
+६०।०९च्द्। कातर^नयना हीनाश् च पृष्ठतस् ते न भारसहाः॥  
+    
+६०।१०अब्। मृदु^संहत^ताम्र^ओष्ठास् तनु^स्फिजस् ताम्र^तालु^जिह्वाश् च।  
+    
+६०।१०च्द्। ह्रस्व^तनु[क्।तनुह्रस्वो]^उच्च^श्रवणाः सुकुक्षयः स्पृष्ट[क्।स्पष्ट]^जङ्घाश् च॥  
+    
+६०।११अब्। आताम्र^संहत^खुरा व्यूढ^उरस्का बृहत्^ककुद^युक्ताः।  
+    
+६०।११च्द्। स्निग्ध^श्लक्ष्ण^तनु^त्वग्^रोमाणस् ताम्र^तनु^शृङ्गाः॥  
+    
+६०।१२अब्। तनु^भू^स्पृग्^वालधयो रक्त^अन्त^विलोचना महोच्छ्वासाः।  
+    
+६०।१२च्द्। सिंह^स्कन्धास् तन्व्^अल्प^कम्बलाः पूजिताः सुगमाः[क्।ऊ।सुगताः]॥  
+    
+६०।१३अब्। वाम^आवर्तैर् वामे दक्षिण^पार्श्वे च दक्षिण^आवर्तैः।  
+    
+६०।१३च्द्। शुभदा भवन्त्य् अनडुहो जङ्घाभिश् च^एणक^निभाभिः॥  
+    
+६०।१४अब्। वैदूर्य[क्।वैडूर्य]^मल्लिका^बुद्बुद^ईक्षणाः स्थूल^नेत्र^पक्ष्माणः[क्।वर्माणः]।  
+    
+६०।१४च्द्। पार्ष्णिभिर् अस्फुटित^आभिः शस्ताः सर्वे च[क्।अपि] भारसहाः॥  
+    
+६०।१५अब्। घ्राणोद्देशे सवलिर् मार्जार^मुखः सितश् च दक्षिणतः।  
+    
+६०।१५च्द्। कमल^उत्पल^लाक्षा^आभः सुवालधिर् वाजि^तुल्य^जवः॥  
+    
+६०।१६अब्। लम्बैर् वृषणैर् मेष^उदरश् च सङ्क्षिप्त^वङ्क्षण[क्।क्षणा]^क्रोडः।  
+    
+६०।१६च्द्। ज्ञेयो भार^अध्व^सहो जवे +अश्व^तुल्यश् च शस्तफलः॥  
+    
+६०।१७अब्। सितवर्णः पिङ्ग^अक्षस् ताम्र^विषाण^ईक्षणो महावक्त्रः।  
+    
+६०।१७च्द्। हंसो नाम शुभफलो यूथस्य विवर्धनः प्रोक्तः॥  
+    
+६०।१८अब्। भूस्पृग्वालधिर् आताम्र^विषाणो[क्।वङ्क्षणो] रक्तदृक् ककुद्मांश्[क्।ककुद्मी] च।  
+    
+६०।१८च्द्। कल्माषश् च स्वामिनम् अचिरात् कुरुते पतिं लक्ष्म्याः॥  
+    
+६०।१९अब्। यो वा सितैकचरणैर्[क्।सितैकचरणो] यथेष्टवर्णश् च सो +अपि शुभफलकृत्[क्।शस्तफलः]।  
+    
+६०।१९च्द्। मिश्रफलो +अपि ग्राह्यो यदि न^एकान्तप्रशस्तो +अस्ति॥
+
+                   ६१ श्वलक्षणाध्यायः
+
+६१।०१अ पादाः पञ्च^नखास् त्रयो +अग्र^चरणः षड्भिर् नखैर् दक्षिणस्  
+    
+६१।०१ब् ताम्र^ओष्ठ^अग्रनसो मृगेश्वर^गतिर् जिघ्रन् भुवं याति च।  
+    
+६१।०१च् लाङ्गूलं ससटं दृग्^ऋक्ष^सदृशी कर्णौ च लम्बौ मृदू  
+    
+६१।०१द् यस्य स्यात् स करोति पोष्टुर् अचिरात् पुष्टां श्रियं श्वा गृहे॥  
+    
+६१।०२अ पादे पादे पञ्च पञ्च^अग्रपादे  
+    
+६१।०२ब् वामे यस्याः षण्नखा मल्लिकाक्ष्याः।  
+    
+६१।०२च् वक्रं पुच्छं पिङ्गला^लम्ब^कर्णा  
+    
+६१।०२द् या सा राष्ट्रं कुक्कुरी पाति पुष्टा[क्।पोष्टुः]॥
+
+                   ६२ कुक्कुटलक्षणाध्यायः
+
+६२।०१अब्। कुक्कुटस् त्व् ऋजु^तनूरुह^अङ्गुलिस् ताम्र^वक्त्र^नख^चूलिकः सितः।  
+    
+६२।०१च्द्। रौति सुस्वरम् उषात्यये च यो वृद्धिदः स नृप^राष्ट्र^वाजिनाम्॥  
+    
+६२।०२अ यवग्रीवो यो वा बदर^सदृशो वा^अपि विहगो  
+    
+६२।०२ब् बृहन्^मूर्धा वर्णैर् भवति बहुभिश् च रुचिरः।  
+    
+६२।०२च् स शस्तः सङ्ग्रामे मधु^मधुप^वर्णश् च जयकृद्  
+    
+६२।०२द् न शस्तो यो +अतो +अन्यः कृश^तनु^रवः खञ्ज^चरणः॥  
+    
+६२।०३अब्। कुक्कुटी च मृदु^चारु^भाषिणी स्निग्ध^मूर्ति^रुचिर^आनन^ईषणा।  
+    
+६२।०३च्द्। सा ददाति सुचिरं महीक्षितां श्री^यशो^विजय^वीर्यसम्पदः॥
+
+                   ६३ कूर्मलक्षणाध्यायः
+
+६३।०१अ स्फुटिक^रजत^वर्णो नील^राजी^विचित्रः  
+    
+६३।०१ब् कलश^सदृश^मूर्तिश् चारु^वंशश् च कूर्मः।  
+    
+६३।०१च् अरुण^सम^वपुर् वा सर्षप^आकार^चित्रः  
+    
+६३।०१द् सकल^नृप^महत्त्वं मन्दिरस्थः करोति॥  
+    
+६३।०२अब्। अञ्जन^भृङ्ग^श्याम^तनुर् वा बिन्दु^विचित्रो +अव्यङ्ग^शरीरः।  
+    
+६३।०२च्द्। सर्प^शिरा वा स्थूलगलो यः सो +अपि नृपाणां राष्ट्र^विवृद्ध्यै॥  
+    
+६३।०३अ वैडूर्य^त्विट् स्थूल^कण्ठस् त्रिकोणो  
+    
+६३।०३ब् गूढ^च्छिद्रश् च^ऊरु[क्।ऊ।चारु]^वंशश् च शस्तः।  
+    
+६३।०३च् क्रीडावाप्यां तोयपूर्णे मणौ वा  
+    
+६३।०३द् कार्यः कूर्मो मङ्गल^अर्थं नरेन्द्रैः॥
+
+                   ६४ छागलक्षणाध्यायः
+
+६४।०१अब्। छाग^शुभ^अशुभ^लक्षणम् अभिधास्ये नव^दश^अष्ट^दन्तास् ते।  
+    
+६४।०१च्द्। धन्याः स्थाप्या वेश्मनि सन्त्याज्याः सप्त^दन्ता ये॥  
+    
+६४।०२अब्। दक्षिण^पार्श्वे मण्डलम् असितं शुक्लस्य शुभफलं भवति।  
+    
+६४।०२च्द्। ऋष्य^निभ^कृष्ण^लोहित^वर्णानां श्वेतम् अति[क्।अपि]शुभदम्॥  
+    
+६४।०३अब्। स्तनवद् अवलम्बते यः कण्ठे +अजानां मणिः स विज्ञेयः।  
+    
+६४।०३च्द्। एकमणिः शुभफल^कृद् धन्यतमा द्वि^त्र^मणयो[क्।द्वित्रिमणयो] ये॥  
+    
+६४।०४अब्। मुण्डाः सर्वे शुभदाः सर्व^सिताः सर्व^कृष्ण^देहाश् च।  
+    
+६४।०४च्द्। अर्ध^असिताः सित^अर्धा धन्याः कपिल^अर्ध^कृष्णाश् च॥  
+    
+६४।०५अब्। विचरति यूथस्य^अग्रे प्रथमं च^अम्भो +अवगाहते यो +अजः।  
+    
+६४।०५च्द्। स शुभः सित^मूर्धा वा मूर्धनि वा कृत्तिका[क्।टिक्किका] यस्य॥  
+    
+६४।०६अब्। स^पृषत^कण्ठ^शिरा वा तिल^पिष्ट^निभश् च ताम्रदृक् शस्तः।  
+    
+६४।०६च्द्। कृष्ण^चरणः सितो वा कृष्णो वा श्वेत^चरणो यः॥  
+    
+६४।०७अब्। यः कृष्ण^अण्डः श्वेतो मध्ये कृष्णेन भवति पट्टेन।  
+    
+६४।०७च्द्। यो वा चरति सशब्दं मन्दं च स शोभनश् छागः॥  
+    
+६४।०८अब्। ऋष्य^शिरोरुह^पादो यो वा प्राक् पाण्डुरो +अपरे नीलः।  
+    
+६४।०८च्द्। स भवति शुभकृच् छागः श्लोकश् च^अप्य् अत्र गर्ग^उक्तः॥  
+    
+६४।०९अब्। कुट्टकः कुटिलश् च^एव जटिलो वामनस् तथा।  
+    
+६४।०९च्द्। ते चत्वारः श्रियः पुत्रा न^अलक्ष्मीके वसन्ति ते॥  
+    
+६४।१०अ अथ^अप्रशस्ताः खर^तुल्य^नादाः  
+    
+६४।१०ब् प्रदीप्त^पुच्छाः कुनखा विवर्णाः।  
+    
+६४।१०च् निकृत्त^कर्णा द्विप^मस्तकाश् च  
+    
+६४।१०द् भवन्ति ये च^असित^तालु^जिह्वाः॥  
+    
+६४।११अ वर्णैः प्रशस्तैर् मणिभिः प्रयुक्ता[क्।च युक्ता]  
+    
+६४।११ब् मुण्डाश् च ये ताम्र^विलोचनाश् च।  
+    
+६४।११च् ते पूजिता वेश्मनि[क्।वेश्मसु] मानवानां  
+    
+६४।११द् सौख्यानि कुर्वन्ति यशः श्रियं च॥
+
+                   ६५ अश्वलक्षणाध्यायः
+
+६५।०१अ दीर्घ^ग्रीवा^अक्षिकूटस् त्रिक^हृदय^पृथुस् ताम्र^तालु^ओष्ठ^जिह्वः  
+    
+६५।०१ब् सूक्ष्म^त्वक्^केश^वालः सुशफ^गति^मुखो ह्रस्व^कर्ण^ओष्ठ^पुच्छः।  
+    
+६५।०१च् जङ्घा^जानु^ऊरु^वृत्तः सम^सित^दशनश् चारु^संस्थान^रूपो  
+    
+६५।०१द् वाजी सर्व^अङ्ग^शुद्धो भवति नरपतेः शत्रु^नाशाय नित्यम्॥  
+    
+६५।०२अब्। अश्रुपात^हनु^गण्ड^हृद्[क्।हृड्]^गल^प्रोथ^शङ्ख^कटि^बस्ति^जानुनि।  
+    
+६५।०२च्द्। मुष्क^नाभि^ककुदे तथा गुदे सव्य^कुक्षि^चरणे तथा[क्।चरणेषु च] शुभाः[उ।अशुभाः]॥  
+    
+६५।०३अ ये प्रपाण^गल^कर्ण^संस्थिताः  
+    
+६५।०३ब् पृष्ठ^मध्य^नयन^उपरि स्थिताः।  
+    
+६५।०३च् ओष्ठ^सक्थि^भुज^कुक्षि^पार्श्वगास्  
+    
+६५।०३द् ते ललाट^सहिताः सुशोभनाः॥  
+    
+६५।०४अब्। तेषां प्रपाण एको ललाट^केशेषु च ध्रुव^आवर्ताः।  
+    
+६५।०४च्द्। रन्ध्र^उपरन्ध्र^मूर्धनि वक्षसि च^इति स्मृतौ द्वौ द्वौ॥  
+    
+६५।०५अ षष्भिर् दन्तैः सित^आभैर् भवति हय^शिशुस् तैः कशायैर् द्विवर्षैः  
+    
+६५।०५ब् सन्दंशैर् मध्यम^अन्त्यैः पति[क्।ऊ।पतित]समुदितैस् त्र्यब्धि[क्।त्र्यब्द]^पञ्च^अब्दिक^अश्वः।  
+    
+६५।०५च् सन्दंश^अनुक्रमेण त्रिक^परिगणिताः कालिका पीत^शुक्लाः  
+    
+६५।०५द् काचा मक्षीक[क्।माक्षीक]^शङ्ख^अवट^चलनम् अतो दन्तपातं च विद्धि॥
+
+                   ६६ हस्तिलक्षणाध्यायः
+
+६६।०१अ मध्व्^आभ^दन्ताः सुविभक्त^देहा  
+    
+६६।०१ब् न च^*उपदिग्धा न[क्।दिग्धाश् च] कृशाः क्षमाश् च।  
+    
+६६।०१च् गात्रैः समैश् चाप^समान^वंशा  
+    
+६६।०१द् वराह^तुल्यैर् जघनैश् च भद्राः॥  
+    
+६६।०२अ वक्षो +अथ कक्षा^वलयः श्लथाश् च  
+    
+६६।०२ब् लम्ब^उदरस् त्वग् बृहती गलश् च।  
+    
+६६।०२च् स्थूला च कुक्षिः सह पेचकेन  
+    
+६६।०२द् सैंही च दृग् मन्द^मतङ्गजस्य॥  
+    
+६६।०३अ मृगास् तु ह्रस्व^अधर^वाल^मेढ्रास्  
+    
+६६।०३ब् तन्व्^अङ्घ्रि[क्।तन्वंह्रि]^कण्ठ^द्विज^हस्त^कर्णाः।  
+    
+६६।०३च् स्थूल^ईक्षणाश् च^इति यथा^उक्त^चिह्नैः  
+    
+६६।०३द् सङ्कीर्ण^नागा व्यतिमिश्र^चिह्नाः॥  
+    
+६६।०४अ पञ्च^उन्नतिः सप्त मृगस्य दैर्घ्यम्  
+    
+६६।०४ब् अष्टौ च हस्ताः परिणाह^मानम्।  
+    
+६६।०४च् एक^द्वि^वृद्धाव् अथ मन्द^भद्रौ  
+    
+६६।०४द् सङ्कीर्न^नागो +अनियत^प्रमाणः॥  
+    
+६६।०५अ भद्रस्य वर्णो हरितो *मदश् च[क्।मदस्य]  
+    
+६६।०५ब् मन्दस्य हारिद्रक^सन्निकाशः।  
+    
+६६।०५च् कृष्णो मदश् च^अभिहितो मृगस्य  
+    
+६६।०५द् सङ्कीर्ण^नागस्य मदो विमिश्रः॥  
+    
+६६।०६अ ताम्र^ओष्ठ^तालु^वदनाः कलविङ्क^नेत्राः  
+    
+६६।०६ब् स्निग्ध^उन्नत^अग्र^दशनाः पृथुल^आयत^आस्याः।  
+६६।०६च् चाप^उन्नत^आयत^निगूढ^निमग्न^वंशास्  
+    
+६६।०६द् तन्व्^एक^रोम^चित^कूर्म^समान^कुम्भाः॥  
+    
+६६।०७अ विस्तीर्ण^कर्ण^हनु^नाभि^ललाट^गुह्याः  
+    
+६६।०७ब् कूर्म^उन्नत^द्वि^नव^विंशतिभिर् नखैश् च।  
+    
+६६।०७च् रेखा^त्रय^उपचित^वृत्त^कराः सुवाला  
+    
+६६।०७द् धन्याः सुगन्धि^मद^पुष्कर^मारुताश् च॥  
+    
+६६।०८अब्। दीर्घ^अङ्गुलि^रक्त^पुष्कराः सजल^अम्भोद^निनाद^बृंहिणः।  
+    
+६६।०८च्द्। बृहद्^आयत^वृत्त^कन्धरा धन्या भूमिपतेर् मतङ्गजाः॥  
+    
+६६।०९अ निमर्द[क्।ऊ।निर्मदा]^अभ्यधिक^हीन^नख^अङ्गान्  
+    
+६६।०९ब् कुब्ज^वामनक^मेष^विषाणान्।  
+    
+६६।०९च् दृश्य^कोश^फल^पुष्कर^हीनान्  
+    
+६६।०९द् श्याव^नील^शबल^असित^तालून्॥  
+    
+६६।१०अ स्वल्प^वक्त्र^रुह^मत्कुण^षण्ढान्  
+    
+६६।१०ब् हस्तिनीं च गज^लक्षण^युक्ताम्।  
+    
+६६।१०च् गर्भिणी च नृपतिः परदेशं  
+    
+६६।१०द् प्रापयेद् अतिविरूप^फलास् ते॥
+
+                   ६७ पुरुषलक्षनाध्यायः
+
+६७।०१अ उन्मान^मान^गति^संहति^सार^वर्ण^  
+    
+६७।०१ब् स्नेह^स्वर^प्रकृति^सत्त्वम् अनूकं आदौ।  
+    
+६७।०१च् क्षेत्रं मृजां च विधिवत् कुशलो +अवलोक्य  
+    
+६७।०१द् सामुद्रविद् वदति यातम् अनागतं वा[क्।च]॥  
+    
+६७।०२अ अस्वेदनौ मृदुतलौ कमल^उदर^आभौ  
+    
+६७।०२ब् श्लिष्ट^अङ्गुली रुचिर^ताम्र^नखौ सुपार्ष्णी।  
+    
+६७।०२च् उष्णौ शिरा^विरहितौ सुनिगूढ^गुल्फौ  
+    
+६७।०२द् कूर्म^उन्नतौ च चरणौ मनुजेश्वरस्य॥  
+    
+६७।०३अ शूर्प^आकार^विरूक्ष^पाण्डुर^नखौ वक्रौ शिरा^सन्ततौ  
+    
+६७।०३ब् संशुष्कौ विरल^अङ्गुली च चरणौ दारिद्र्य^दुःख^प्रदौ।  
+    
+६७।०३च् मार्गाय^उत्कटकौ कषाय^सदृशौ वंशस्य विच्छेददौ[क्।विच्छित्तिदौ]  
+    
+६७।०३द् ब्रह्मघ्नौ परिपक्व^मृद्^द्युति^तलौ पीताव् *अगम्या^रतौ[क्।अगम्यरतौ]॥  
+    
+६७।०४अ प्रविरल^तनु^रोम^वृत्त^जङ्घा  
+६७।०४ब् द्विरद^कर^प्रतिमैर् वर^ऊरुभिश् च।  
+    
+६७।०४च् उपचित^सम^जानवश् च भूपा  
+    
+६७।०४द् धन^रहिताः श्व^शृगाल^तुल्य^जङ्घाः॥  
+    
+६७।०५अ रोम^एक^एकं कूपके पार्थिवानां  
+    
+६७।०५ब् द्वे द्वे ज्ञेये पण्डित^श्रोत्रियाणाम्।  
+    
+६७।०५च् त्र्य्^आद्यैर् निःस्वा मानवा दुःख^भाजः  
+    
+६७।०५द् केशाश् च^एवं निन्दिताः पूजिताश् च॥  
+    
+६७।०६अ निर्मांस^जानुर् म्रियते प्रवासे  
+    
+६७।०६ब् सौभाग्यम् अल्पैर् विकटैर् दरिद्राः।  
+    
+६७।०६च् स्त्री^निर्जिताश् च^एव[क्।च^अपि] भवन्ति निम्नै  
+    
+६७।०६द् राज्यं समांसैश् च महद्भिर् आयुः॥  
+    
+६७।०७अ लिङ्गे +अल्पे धनवान् अपत्य^रहितः स्थूले *+अपि हीनो[क्।विहीनो] धनैर्  
+    
+६७।०७ब् मेढ्रे वामनते सुत^अर्थ^रहितो वक्रे +अन्यथा पुत्रवान्।  
+    
+६७।०७च् दारिद्र्यं विनते त्व् अधो +अल्प^तनयो लिङ्गे शिरा^सन्तते  
+    
+६७।०७द् स्थूल^ग्रन्थि^युते सुखी मृदु करोत्य् अन्तं प्रमेह^आदिभिः॥  
+    
+६७।०८अब्। कोश^निगूढैर् भूपा दीर्घैर् भग्नैश् च वित्त^परिहीनाः।  
+    
+६७।०८च्द्। ऋजु^वृत्त^शेफसो लघु^शिराल^शिश्नाश् च धनवन्तः॥  
+    
+६७।०९अब्। जल^मृत्युर् एक^वृषणो विषमैः स्त्री^चञ्चलः समैः क्षितिपः।  
+    
+६७।०९च्द्। ह्रस्व^आयुश् च^उद्बद्धैः प्रलम्ब^वृषणस्य शतम् आयुः॥  
+    
+६७।१०अब्। रक्तैर् आढ्या मणिभिर् निर्द्रव्याः पाण्डुरैश् च मलिनैश् च।  
+    
+६७।१०च्द्। सुखिनः स^शब्द^मूत्रा निःस्वा निःशब्द^धाराश् च॥  
+    
+६७।११अब्। द्वि^त्रि^चतुर्^धाराभिः प्रदक्षिण^आवर्त^वलित^मूत्राभिः।  
+    
+६७।११च्द्। पृथिवी^पतयो ज्ञेया विकीर्ण^मूत्राश् च धन^हीनाः॥  
+    
+६७।१२अब्। एक^एव मूत्र^धारा वलिता *रूप^प्रदा न सुत^दात्री[क्।रूपप्रधानसुतदात्री]।  
+    
+६७।१२च्द्। स्निग्ध^उन्नत^सम^मणयो धन^वनिता^रत्न^भोक्तारः।  
+    
+६७।१३अब्। मणिभिश् च मध्य^निम्नैः कन्या^पितरो भवन्ति निःस्वाश् च।  
+    
+६७।१३च्द्। बहु^पशु^भाजो मध्य^उन्नतैश् च न^अत्युल्बणैर् धनिनः॥  
+    
+६७।१४अब्। परिशुष्क^बस्ति^शीर्षैर् धन^रहिता दुर्भगाश् च विज्ञेयाः।  
+    
+६७।१४च्द्। कुसुम^सम^गन्ध^शुक्रा विज्ञातव्या मही^पालाः॥  
+    
+६७।१५अब्। मधु^गन्धे बहुवित्ता मत्स्य^सगन्धे बहून्य् अपत्यानि।  
+    
+६७।१५च्द्। तनु^शुक्रः स्त्री^जनको मांस^सगन्धो महाभोगी॥  
+    
+६७।१६अब्। मदिरा^गन्धे यज्वा क्षार^सगन्धे च रेतसि दरिद्रः।  
+    
+६७।१६च्द्। शीघ्रं मैथुन^गामी दीर्घ^आयुर् अतो +अन्यथा^अल्पायुः॥  
+    
+६७।१७अब्। निःस्वो +अतिस्थूल^स्फिक् समांसल^स्फिक् सुख^अन्वितो भवति।  
+    
+६७।१७च्द्। व्याघ्रान्तो +अध्यर्ध^स्फिग् मण्डूक^स्फिग् नर^अधिपतिः॥  
+    
+६७।१८अब्। सिंह^कटिर् मनुजेन्द्रः कपि^करभ^कटिर् धनैः परित्यक्तः।  
+    
+६७।१८च्द्। सम^जठरा भोगयुता घट^पिठर^निभ^उदरा निःस्वाः॥  
+    
+६७।१९अब्। अविकल^पार्श्वा धनिनो निम्नैर् वक्रैश् च भोग^सन्त्यक्ताः।  
+    
+६७।१९च्द्। सम^कुक्षा भोगाढ्या निम्नाभिर् भोग^परिहीनाः॥  
+    
+६७।२०अब्। उन्नत^कुक्षाः क्षितिपाः कुटिलाः स्युर् मानवा विषम^कुक्षाः।  
+    
+६७।२०च्द्। सर्प^उदरा दरिद्रा भवन्ति बह्व्^आशिनश् च^एव॥  
+    
+६७।२१अब्। परिमण्डल^उन्नताभिर् विस्तीर्णाभिश् च नाभिभिः सुखिनः।  
+    
+६७।२१च्द्। अल्पा[क्।स्वल्पा] त्व् अदृश्य^निम्ना नाभिः क्लेश^आवहा भवति॥  
+    
+६७।२२अब्। वलि^मध्य^गता विषमा *शूलाद् बाधां[क्।शूलाबाधम्] करोति नैस्व्यं[क्।नैःस्व्यम्] च।  
+    
+६७।२२च्द्। शाठ्यं वाम^आवर्ता करोति मेधां प्रदक्षिणतः॥  
+    
+६७।२३अब्। पार्श्व^आयता चिर^आयुषम् उपरिष्टाच् च^ईश्वरं गव^आढ्यम् अधः।  
+    
+६७।२३च्द्। शतपत्र^कर्णिका^आभा नाभिर् मनुजेश्वरं कुरुते॥  
+    
+६७।२४अब्। शस्त्र^अन्तं स्त्री^भोगिनम् आचार्यं बहु^सुतं यथासङ्ख्यम्।  
+    
+६७।२४च्द्। एक^द्वि^त्रि^चतुर्भिर् वलिभिर् विन्द्याद् नृपं त्व् अवलिम्॥  
+    
+६७।२५अब्। विषम^वलयो मनुष्या भवन्त्य् अगम्या^अभिगामिनः पापाः।  
+    
+६७।२५च्द्। ऋजु^वलयः सुख^भाजः परदार^द्वेषिणश् च^एव॥  
+    
+६७।२६अब्। मांसल^मृदुभिः पार्श्वैः प्रदक्षिण^आवर्त^रोमभिर् भूपाः।  
+    
+६७।२६च्द्। विपरीतैर् निर्द्रव्याः सुख^परिहीनाः पर^प्रेष्याः॥  
+    
+६७।२७अब्। सुभगा भवन्त्य् अनुद्वद्ध[क्।अनुबद्ध]^चूचुका निर्धना विषम^दीर्घैः।  
+    
+६७।२७च्द्। पीन^उपचित^निमग्नैः क्षिति^पतयश् चूचुकैः सुखिनः॥  
+    
+६७।२८अब्। हृदयं समुन्नतं पृथु न वेपनं मांसलं च नृपतीनाम्।  
+    
+६७।२८च्द्। अधनानां विपरीतं खर^रोम^चितं शिरालं च॥  
+    
+६७।२९अब्। सम^वक्षसो +अर्थवन्तः पीनैः *शूरा ह्य्[क्।शूरास् त्व्] अकिञ्चनास् तनुभिः।  
+    
+६७।२९च्द्। विषमं वक्षो येषां ते निःस्वाः शस्त्र^निधनाश् च॥  
+    
+६७।३०अब्। विषमैर् विषमो जत्रुभिर् अर्थ^विहीनो +अस्थि^सन्धि^परिणद्धैः।  
+    
+६७।३०च्द्। उन्नत^जत्रुर् भोगी[क्।भागी] निम्नैर् निःस्वो +अर्थवान् पीनैः॥  
+    
+६७।३१अब्। चिपिट^ग्रीवो निःस्वः शुष्का सशिरा च यस्य वा ग्रीवा।  
+    
+६७।३१च्द्। महिष^ग्रीवः शूरः शस्त्र^अन्तो वृष^सम^ग्रीवः॥  
+    
+६७।३२अब्। कम्बु^ग्रीवो राजा प्रलम्ब^कण्ठः प्रभक्षणो भवति।  
+    
+६७।३२च्द्। पृष्ठम् अभग्नम् अरोमशम् अर्थवताम् अशुभदम् अतो +अन्यत्॥  
+    
+६७।३३अब्। अस्वेदन^पीन^उन्नत^सुगन्ध[क्।सुगन्धि]^सम^रोम^सङ्कुलाः कक्षाः।  
+    
+६७।३३च्द्। विज्ञातव्या धनिनाम् अतो +अन्यथा^अर्थैर् विहीनानाम्॥  
+    
+६७।३४अब्। निर्मांसौ रोमचितौ भग्नाव् अल्पौ च निर्धनस्य^अंसौ।  
+    
+६७।३४च्द्। विपुलाव् अव्युच्छिन्नौ सुश्लिष्टौ सौख्य^वीर्यवताम्॥  
+    
+६७।३५अब्। करि^कर^सदृशौ वृत्ताव् आ^जान्व्^अवलम्बिनौ समौ पीनौ।  
+    
+६७।३५च्द्। बाहू पृथिवी^ईशानाम् अधनानां[क्।अधमानाम्] रोमशौ ह्रस्वौ॥  
+    
+६७।३६अब्। हस्त^अङ्गुलयो दीर्घाश् चिर^आयुषाम् अवलिताश् च सुभगानाम्।  
+    
+६७।३६च्द्। मेधाविनाम् च सूक्ष्माश् चिपिटाः पर^कर्म^निरतानाम्॥  
+    
+६७।३७अब्। स्थूलाभिर् धन^रहिता बहिर्^नताभिश् च शस्त्र^निर्याणाः।  
+    
+६७।३७च्द्। कपि^सदृश^करा धनिनो व्याघ्र^उपम^पाणयः पापाः॥  
+    
+६७।३८अब्। मणि^बन्धनैर् निगूढैर् दृढैश् च सु^श्लिष्ट^सन्धिभिर् भूपाः।  
+    
+६७।३८च्द्। हीनैर् हस्त^च्छेदः श्लथैः सशब्दैश् च निर्द्रव्याः॥  
+    
+६७।३९अब्। पितृ^वित्तेन विहीना भवन्ति निम्नेन करतलेन नराः।  
+    
+६७।३९च्द्। संवृत^निम्नैर् धनिनः प्रोत्तान^कराश् च दातारः॥  
+    
+६७।४०अब्। विषमैर् विषमा निःस्वाश् च करतलैर् ईश्वराश्[क्।ईश्वरास्] तु लाक्षाभैः।  
+    
+६७।४०च्द्। पीतैर् अगम्य^वनिता^अभिगामिनो निर्धना रूक्षैः॥  
+    
+६७।४१अब्। तुष^सदृश^नखाः क्लीबाश् चिपिटैः स्फुटितैश् च वित्त^सन्त्यक्ताः।  
+    
+६७।४१च्द्। कु^नख^विवर्णैः पर^तर्कुकाश् च ताम्रैश् चमूपतयः॥  
+    
+६७।४२अब्। अङ्गुष्ठ^यवैर् आढ्याः सुतवन्तो +अङ्गुष्ठ^*मूलजैश् च यवैः[क्।मूलगैश् च यवः]।  
+    
+६७।४२च्द्। दीर्घ^अङ्गुलि^पर्वाणः सुभगा दीर्घ^आयुषश् च^एव॥  
+    
+६७।४३अब्। स्निग्धा निम्ना रेखा धनिनां तद्^व्यत्ययेन निःस्वानाम्।  
+    
+६७।४३च्द्। विरल^अङ्गुलयो निःस्वा धन^सञ्चयिनो घन^अङ्गुलयः॥  
+    
+६७।४४अब्। तिस्रो रेखा मणि^बन्धन^उत्थिताः कर^तल^उपगा नृपतेः।  
+    
+६७।४४च्द्। मीन^युग^अङ्कित^पाणिर् नित्यं सत्र^प्रदो भवति॥  
+    
+६७।४५अब्। वज्र^आकारा धनिनां विद्या^भाजां च मीन^पुच्छ^निभाः।  
+    
+६७।४५च्द्। शङ्ख^आतपत्र^शिविका^गज^अश्व^पद्म^उपमा नृपतेः॥  
+    
+६७।४६अब्। कलश^मृणाल^पताका^अङ्कुश^उपमाभिर् भवन्ति निधिपालाः।  
+    
+६७।४६च्द्। दाम^निभाभिश् च^आढ्याः स्वस्तिक^रूपाभिर् ऐश्वर्यम्॥  
+    
+६७।४७अब्। चक्र^असि^परशु^तोमर^शक्ति^धनुः^कुन्त^सन्निभा रेखाः।  
+    
+६७।४७च्द्। कुर्वन्ति चमूनाथं यज्वानम् उलूखल^आकाराः॥  
+    
+६७।४८अब्। मकर^ध्वज^कोष्ठागार^सन्निभाभिर् महाधन^उपेताः।  
+    
+६७।४८च्द्। वेदी^निभेन च^एव^अग्निहोत्रिणो ब्रह्मतीर्थेन॥  
+    
+६७।४९अब्। वापी^देवकुल^आद्यैर् धर्मं कुरुवन्ति च त्रि^कोणाभिः।  
+    
+६७।४९च्द्। अङ्गुष्ठ^मूल^रेखाः पुत्राः स्युर् दारिकाः सूक्ष्माः॥  
+    
+६७।५०अब्। रेखाः प्रदेशिनि^गताः[क्।गाः] शतायुषं कल्पनीयम् ऊनाभिः।  
+    
+६७।५०च्द्। छिन्नाभिर् द्रुम^पतनं बहु^रेखा^अरेखिणो निःस्वाः॥  
+    
+६७।५१अब्। अतिकृश^दीर्घैश् चिबुकैर् निर्द्रव्या मांसलैर् धन^उपेताः।  
+    
+६७।५१च्द्। विम्ब[क्।बिम्ब]^उपमैर् अवक्रैर् अधरैर् भूपास् तनुभिर् अस्वाः॥  
+    
+६७।५२अब्। ओष्ठैः स्फुटित^विखण्डित^विवर्ण^रूक्षैश् च धन^परित्यक्ताः।  
+    
+६७।५२च्द्। स्निग्धा घनाश् च दशनाः सुतीक्ष्ण^दंष्ट्राः समाश् च शुभाः॥  
+    
+६७।५३अब्। जिह्वा रक्ता दीर्घा श्लक्ष्णा सुसमा च भोगिनो[क्।भोगिनाम्] ज्ञेया।  
+    
+६७।५३च्द्। श्वेता कृष्णा परुषा निर्द्रव्याणां तथा तालु॥  
+    
+६७।५४अब्। वक्त्रं सौम्यं संवृतम् अमलं श्लक्ष्णं समं च भूपानाम्।  
+    
+६७।५४च्द्। विपरीतं क्लेश^भुजां महामुखं दुर्भगाणां च॥  
+    
+६७।५५अब्। स्त्री^मुखम् अनपत्यानां शाठ्यवतां मण्डलं परिज्ञेयम्।  
+    
+६७।५५च्द्। दीर्घं निर्द्रव्याणां भीरु^मुखाः पाप^कर्माणः॥  
+    
+६७।५६अब्। चतुरस्रं[क्।चतुरश्रम्] धूर्तानां निम्नं वक्रं[क्।वक्त्रम्] च तनय^रहितानाम्।  
+    
+६७।५६च्द्। कृपणानाम् अतिह्रस्वं सम्पूर्णं भोगिनां कान्तम्॥  
+    
+६७।५७अब्। अस्फुटित^अग्रं स्निग्धं श्मश्रु शुभं मृदु च सन्नतं च^एव।  
+    
+६७।५७च्द्। रक्तैः परुषैश् चौराः श्मश्रुभिर् अल्पैश् च विज्ञेयाः॥  
+    
+६७।५८अब्। निर्मांसैः कर्णैः पाप^मृत्यवश् चर्पटैः सुबहुभोगाः।  
+    
+६७।५८च्द्। कृपणाश् च ह्रस्व^कर्णाः शङ्कु^श्रवणाश् चमूपतयः[क्।च भूपतयः]॥  
+    
+६७।५९अब्। रोमश^कर्णा दीर्घ^आयुषश् च[क्।तु] धन^भागिनो विपुल^कर्णाः।  
+    
+६७।५९च्द्। क्रूराः शिरा^अवनद्धैर् व्यालम्बैर् मांसलैः सुखिनः॥  
+    
+६७।६०अब्। भोगी त्व् अनिम्न^गण्डो मन्त्री सम्पूर्ण^मांस^गण्डो यः।  
+    
+६७।६०च्द्। सुखभाक् शुक^सम^नासश् चिर^जीवी शुष्क^नासश् च॥  
+    
+६७।६१अब्। छिन्न^अनुरूपया^अगम्य^गामिनो दीर्घया तु सौभाग्यम्।  
+    
+६७।६१च्द्। आकुञ्चितया चौरः स्त्री^मृत्युः स्याच् चिपिट^नासः॥  
+    
+६७।६२अब्। धनिनो +अग्र^वक्र^नासा दक्षिण^विनताः[क्।वक्राः] प्रभक्षणाः क्रूराः।  
+    
+६७।६२च्द्। ऋज्वी स्व्^अल्प^च्छिद्रा सुपुटा नासा सभाग्यानाम्॥  
+    
+६७।६३अब्। धनिनां क्षुतं सकृद् द्वि^त्रि^पिण्डितं ह्लादि स^अनुनादं च।  
+    
+६७।६३च्द्। दीर्घ^आयुषां प्रमुक्तं विज्ञेयं संहतं च^एव॥  
+    
+६७।६४अब्। पद्म^दल^आभैर् धनिनो रक्त^अन्त^विलोचनाः[क्।विलोचनाः] श्रियः भाजः।  
+    
+६७।६४च्द्। मधु^पिङ्गलैर् महार्था मार्जार^विलोचनैः पापाः॥  
+    
+६७।६५अब्। हरिण^अक्षा मण्डल^लोचनाश् च जिह्मैश् च लोचनैश् चौराः।  
+    
+६७।६५च्द्। क्रूराः केकर^नेत्रा गज^सदृश^*विलोचनाश् चमूपतयः[क्।दृशश् च भूपतयः]॥  
+    
+६७।६६अब्। ऐश्वर्यम् गम्भीरैर् नीलोत्पल^कान्तिभिश् च विद्वांसः।  
+    
+६७।६६च्द्। अतिकृष्ण^तारकाणाम् अक्ष्णाम् उत्पाटनं भवति॥  
+    
+६७।६७अब्। मन्त्रित्वं स्थूल^दृशां *श्याव^अक्षाणां [क्।श्यावाक्षाणां च]^भवति सौभाग्यम्।  
+    
+६७।६७च्द्। दीना दृग् निःस्वानां स्निग्धा विपुल^अर्थ^भोगवताम्॥  
+    
+६७।६८अब्। अभ्युन्नताभिर् अल्प^आयुषो विशाल^उन्नताभिर् अतिसुखिनः।  
+    
+६७।६८च्द्। विषम^भ्रुवो दरिद्रा बालेन्दु^नत^भ्रुवः स^धनाः॥  
+    
+६७।६९अब्। दीर्घा^असंसक्ताभिर् धनिनः खण्डाभिर् अर्थ^परिहीनाः।  
+    
+६७।६९च्द्। मध्य^विनत^भ्रुवो ये ते सक्ताः स्त्रीष्व् अगम्यासु॥  
+    
+६७।७०अब्। उन्नत^विपुलैः शङ्खैर् धनिनो[क्।धन्या] निम्नैः सुत^अर्थ^सन्त्यक्ताः।  
+    
+६७।७०च्द्। विषम^ललाटा विधना धनवन्तो +अर्धेन्दु^सदृशेन॥  
+    
+६७।७१अब्। शुक्ति^विशालैर् आचार्यता शिरा^सन्ततैर् अधर्म^रताः।  
+    
+६७।७१च्द्। उन्नत^शिराभिर् आढ्याः स्वस्तिकवत् संस्थिताभिश् च॥  
+    
+६७।७२अब्। निम्न^ललाटा वध^बन्ध^भागिनः क्रूर^कर्म^निरताश् च।  
+    
+६७।७२च्द्। अभ्युन्नतैश् चमूपाः[क्।भूपाः] कृपणाः स्युः संवृत[क्।सङ्कट]^ललाटाः॥  
+    
+६७।७३अब्। रुदितम् अदीनम् अनश्रु स्निग्धं च शुभ^आवहं मनुष्याणाम्।  
+    
+६७।७३च्द्। रूक्षं दीनं प्रचुर^अश्रु च^एव न शुभ^प्रदं पुंसाम्॥  
+    
+६७।७४अब्। हसितं शुभदम् अकम्पं स^निमीलित^लोचनं तु पापस्य।  
+    
+६७।७४च्द्। दुष्टस्य[क्।हृष्टस्य] हसितम् असकृत् स^उन्मादस्य^असकृत् प्रान्ते॥  
+    
+६७।७५अब्। तिस्रो रेखाः शत^जीविनां ललाट^आयताः स्थिता यदि ताः।  
+    
+६७।७५च्द्। चतसृभिर् अवनीशत्वं नवतिश् च^आयुः स^पञ्च^अब्दा॥  
+    
+६७।७६अब्। विच्छिन्नाभिश् च^अगम्य^गामिनो नवतिर् अप्य् अरेखेण।  
+६७।७६च्द्। केश^अन्त^उपगताभी रेखाभिर् अशीति^वर्ष^आयुः॥  
+    
+६७।७७अब्। पञ्चभिर् आयुः सप्ततिर् एक^अग्र^अवस्थिताभिर् अपि षष्टिः।  
+    
+६७।७७च्द्। बहु^रेखेण शत^अर्धं चत्वारिंशच् च वक्राभिः॥  
+    
+६७।७८अब्। *भ्रू^लग्नाभिस् त्रिंशद्[क्।त्रिम्शभ्रूलग्नाभिर्]^विंशतिकश् च^एव वाम^वक्राभिः।  
+    
+६७।७८च्द्। क्षुद्राभिः स्व्^अल्प^आयुर् न्यूनाभिश् च^अन्तरे कल्प्यम्॥  
+    
+६७।७९अब्। परिमण्डलैर् गव^आढ्याश् छत्र^आकारैः शिरोभिर् अवनीशाः।  
+    
+६७।७९च्द्। चिपिटैः पितृ^मातृ^घ्नाः करोटि^शिरसां चिरान् मृत्युः॥  
+    
+६७।८०अब्। घट^मूर्धा^अध्वान^रुचिर् द्वि^मस्तकः पापकृद् धनैस् त्यक्तः।  
+    
+६७।८०च्द्। निम्नं तु शिरो महतां बहु^निम्नम् अन्^अर्थदं भवति॥  
+    
+६७।८१अब्। एक^एक^भवैः स्निग्धैः कृष्णैर् आकुञ्चितैर् अभिन्न^अग्रैः।  
+    
+६७।८१च्द्। मृदुभिर् न च^अतिबहुभिः केशैः सुख^भाग् नरेन्द्रो वा॥  
+    
+६७।८२अब्। बहु^मूल^विषम^कपिलाः स्थूल^स्फुटित^अग्र^परुष^ह्रस्वाश् च।  
+    
+६७।८२च्द्। अतिकुटिलाश् च^अतिघनाश् च मूर्धजा वित्त^हीनानाम्॥  
+    
+६७।८३अब्। यद् यद् गात्रं रूक्षं मांस^विहीनं शिर^अवनद्धं च।  
+    
+६७।८३च्द्। तत् तद् अनिष्टं प्रोक्तं विपरीतम् अतः शुभं सर्वम्॥  
+    
+६७।८४अब्। त्रिषु विपुलो गम्भीरस् त्रिष्व् एव षड्^उन्नतश् चतुर्^ह्रस्वः।  
+    
+६७।८४च्द्। सप्तसु रक्तो राजा पञ्चसु दीर्घश् च सूक्ष्मश् च॥  
+    
+६७।८५अ नाभी[क्।नाभिः] स्वरः सत्त्वम् इति प्रशस्तं[क्।प्रदिष्टम्]  
+    
+६७।८५ब् गम्भीरम् एतत् त्रितयं नराणाम्।  
+    
+६७।८५च् उरो ललाटं वदनं च पुंसां  
+    
+६७।८५द् विस्तीर्णम् एतत् त्रितयं प्रशस्तम्॥  
+    
+६७।८६अ वक्षो +अथ कक्षा नख^नासिका^आस्यं  
+    
+६७।८६ब् कृकाटिका च^इति षड्^उन्नतानि।  
+    
+६७।८६च् ह्रस्वानि चत्वारि च लिङ्ग^पृष्ठं  
+    
+६७।८६द् ग्रीवा च जङ्घे च हित^प्रदानि॥  
+    
+६७।८७अ नेत्रान्त^पाद^कर^ताल्व्^अधरोष्ठ^जिह्वा  
+    
+६७।८७ब् रक्ता नखाश् च खलु सप्त सुख^आवहानि।  
+    
+६७।८७च् सूक्ष्माणि पञ्च दशन^अङ्गुलि^पर्व^केशाः  
+    
+६७।८७द् साकं त्वचा *कररुहा न च[क्।कररुहाश् च न] दुःखितानाम्॥  
+    
+६७।८८अब्। हनु^लोचन^बाहु^नासिकाः स्तनयोर् अन्तरम् अत्र पञ्चमम्।  
+    
+६७।८८च्द्। इति दीर्घम् इदं तु पञ्चकं न भवत्य् एव नृणाम् अभूभृताम्॥  
+    
+६७।८९अ छाया शुभ^अशुभ^फलानि निवेदयन्ती  
+    
+६७।८९ब् लक्ष्या मनुष्य^पशु^पक्षिषु लक्षणज्ञैः।  
+    
+६७।८९च् तेजोगुणान् बहिर् अपि प्रविकाशयन्ती  
+    
+६७।८९द् दीप^प्रभा स्फटिक^रत्न^घट^स्थिता^इव॥  
+    
+६७।९०अ स्निग्ध^द्विज^त्वग्^नख^रोम^केशाश्[क्।केश]  
+    
+६७।९०ब् छाया सुगन्धा च मही^समुत्था।  
+    
+६७।९०च् तुष्ट्य्^अर्थ^लाभ^अभ्युदयान् करोति  
+    
+६७।९०द् धर्मस्य च^अहन्य् अहनि प्रवृत्तिम्॥  
+    
+६७।९१अ स्निग्धा सित^अच्छ^हरिता नयन^अभिरामा  
+    
+६७।९१ब् सौभाग्य^मार्दव^सुख^अभ्युदयान् करोति।  
+    
+६७।९१च् सर्व^अर्थ^सिद्धि^जननी जननी^इव च^आप्या  
+    
+६७।९१द् छाया फलं तनु^भृतां शुभम् आदधाति॥  
+    
+६७।९२अ चण्डा^अधृष्या पद्म^हेम^अग्नि^वर्णा  
+    
+६७।९२ब् युक्ता तेजो^विक्रमैः सप्रतापैः।  
+    
+६७।९२च् आग्नेयि^इति प्राणिनां स्याज् जयाय  
+    
+६७।९२द् क्षिप्रं सिद्धिं वाञ्छित^अर्थस्य दत्ते[क्।धत्ते]॥  
+    
+६७।९३अ मलिन^परुष^कृष्णा पाप^गन्धा^अनिल^उत्था  
+    
+६७।९३ब् जनयति वध^बन्ध^व्याध्य्^अनर्थ^अर्थ^नाशान्।  
+    
+६७।९३च् स्फटिक^सदृश^रूपा भाग्य^युक्ता^आत्युदारा  
+    
+६७।९३द् निधिर् इव गगन^उत्था श्रेयसां स्व्^अच्छ^वर्णा॥  
+    
+६७।९४अ छायाः क्रमेण कु^जल^अग्न्य्^अनिल^अम्बर^उत्थाः  
+    
+६७।९४ब् के चिद् वदन्ति दश ताश् च यथा^अनुपूर्व्या।  
+    
+६७।९४च् सूर्य^अब्जनाभ^पुरुहूत^यम^उडुपानां  
+    
+६७।९४द् तुल्यास् तु लक्षण^फलैर् इति तत् समासः॥  
+    
+६७।९५अब्। करि^वृष^रथौघ^भेरी^मृदङ्ग^सिंह^अभ्र[क्।अब्द]^निःस्वना भूपाः।  
+    
+६७।९५च्द्। गर्दभ^जर्जर^रूक्ष^स्वराश् च धन^सौख्य^सन्त्यक्ताः॥  
+    
+६७।९६अब्। सप्त भवन्ति च सारा मेदो^मज्जा^त्वग्^अस्थि^शुक्राणि।  
+    
+६७।९६च्द्। रुधिरं मांसं च^इति प्राण^भृतां तत् समास^फलम्॥  
+    
+६७।९७अब्। ताल्व्^ओष्ठ^दन्तपाली^जिह्वा^नेत्रान्त^पायु^कर^चरणैः।  
+    
+६७।९७च्द्। रक्ते[क्।रक्तैः] तु रक्त^सारा बहु^सुख^वनिता^अर्थ^पुत्र^युताः॥  
+    
+६७।९८अब्। स्निग्ध^त्वक्का धनिनो मृदुभिः सुभगा विचक्षणास् तनुभिः।  
+    
+६७।९८च्द्। मज्जा^मेदः^साराः सुशरीराः पुत्र^वित्त^युताः[क्।युक्ताः]॥  
+    
+६७।९९अब्। स्थूल^अस्थिर् अस्थि^सारो बलवान् विद्या^अन्तगः सुरूपश् च।  
+    
+६७।९९च्द्। बहु^गुरु^शुक्राः सुभगा विद्वांसो रूपवन्तश् च॥  
+    
+६७।१००अब्। उपचित^देहो विद्वान् धनी सुरूपश् च मांस^सारो यः।  
+    
+६७।१००च्द्। सङ्घाता इति च सुश्लिष्ट^सन्धिता सुख^भुजो ज्ञेया॥  
+    
+६७।१०१अब्। स्नेहः पञ्चसु लक्ष्यो वाग्^जिह्वा^दन्त^नेत्र^नख^संस्थः।  
+    
+६७।१०१च्द्। सुत^धन^सौभाग्य^युताः स्निग्धैस् तैर् निर्धना रूक्षैः॥  
+    
+६७।१०२अब्। द्युतिमान् वर्ण^स्निग्धः[क्।वर्णः स्निग्धः] क्षितिपानाम् मध्यमः सुत^अर्थवताम्।  
+    
+६७।१०२च्द्। रूक्षो धन^हीनानां शुद्धः शुभदो न सङ्कीर्णः॥  
+    
+६७।१०३अब्। साध्यम् अनूकं वक्त्राद् गो^वृष^शार्दूल^सिंह^गरुड^मुखाः।  
+    
+६७।१०३च्द्। अप्रतिहत^प्रतापा जित^रिपवो मानव^इन्द्राश् च॥  
+    
+६७।१०४अब्। वानर^महिष^वराह^अज^तुल्य^वदनाः श्रुत[क्।सुत]^अर्थ^सुख^भाजः।  
+    
+६७।१०४च्द्। गर्दभ^करभ^प्रतिमैर् मुखैः शरीरैश् च निःस्व^सुखाः॥  
+    
+६७।१०५अब्। अष्ट^शतं षण्^णवतिः[क्।षणवतिः] परिमाणं चतुर्^अशीतिर् इति पुंसाम्।  
+    
+६७।१०५च्द्। उत्तम^सम^हीनानाम् अङ्गुल^सङ्ख्या स्व^मानेन॥  
+    
+६७।१०६अब्। भार^अर्ध^तनुः सुख^भाक् तुलितो +अतो दुःख^भाग् भवत्य् ऊनः।  
+    
+६७।१०६च्द्। भारो +अतिवाढ्यानाम् अध्यर्धः सर्व^धरणीशः॥  
+    
+६७।१०७अब्। विंशति^वर्षा नारी पुरुषः खलु पञ्च^विंशतिभिर् अब्दैः।  
+    
+६७।१०७च्द्। अर्हति मान^उन्मानं जीवित^भागे चतुर्थे वा॥  
+६७।१०८अब्। भू^जल^शिख्य्^अनिल^अम्बर^सुर^नर^रक्षः पिशाचक^तिरश्चाम्।  
+    
+६७।१०८च्द्। सत्त्वेन भवति पुरुषो लक्षणम् एतद् भवति तेषाम्[क्।एषाम्]॥  
+    
+६७।१०९अ मही^स्वभावः शुभ^पुष्प^गन्धः  
+    
+६७।१०९ब् सम्भोगवान् सु^श्वसनः स्थिरश् च।  
+    
+६७।१०९च् तोय^स्वभावो बहु^तोयपायी  
+    
+६७।१०९द् प्रिय^अभिभाषी[क्।अभिलाषी] रस^भाजनश्[क्।भोजनश्] च॥  
+    
+६७।११०अ अग्नि^प्रकृत्या चपलो +अति^तीक्ष्णश्  
+    
+६७।११०ब् चण्डः क्षुध^आलुर् बहु^भोजनश् च।  
+    
+६७।११०च् वायोः स्वभावेन चलः कृशश् च  
+    
+६७।११०द् क्षिप्रं च कोपस्य वशं प्रयाति॥  
+    
+६७।१११अ ख^प्रकृतिर् निपुणो विवृत^आस्यः  
+    
+६७।१११ब् शब्द^गतेः कुशलः सु^शिरा^अङ्गः।  
+    
+६७।१११च् त्याग^युतः[क्।त्यागयुतो] पुरुषो मृदु^कोपः  
+    
+६७।१११द् स्नेह^रतश् च भवेत् सुर^सत्त्वः॥  
+    
+६७।११२अब्। मर्त्य^सत्त्व^संयुतो गीत^भूषण^प्रियः।  
+    
+६७।११२च्द्। संविभाग^शीलवान् नित्यम् एव मानवः॥  
+    
+६७।११३अ तीक्ष्ण^प्रकोपः खल^चेष्टितश् च  
+    
+६७।११३ब् पापश् च सत्त्वेन निशा^चराणाम्।  
+    
+६७।११३च् पिशाच^सत्त्वश् चपलो मलाक्तो  
+    
+६७।११३द् बहु^प्रलापी च समुल्बण^अङ्गः॥  
+    
+६७।११४अ भीरुः क्षुधा^आलुर् बहु^भुक् च यः स्याद्  
+    
+६७।११४ब् ज्ञेयश् च[क्।स] सत्त्वेन नरस् तिरश्चाम्।  
+    
+६७।११४च् एवं नराणां प्रकृतिः प्रदिष्टा  
+    
+६७।११४द् यल् लक्षण^ज्ञाः प्रवदन्ति सत्त्वम्॥  
+    
+६७।११५अ शार्दूल^हंस^समद^द्विप^गोपतीनां  
+    
+६७।११५ब् तुल्या भवन्ति गतिभिः शिखिनां च भूपाः।  
+    
+६७।११५च् येषां च शब्द^रहितं स्तिमितं च यातं  
+    
+६७।११५द् ते +अपि^इश्वरा द्रुत^परिप्लुतगा दरिद्राः॥  
+    
+६७।११६अ श्रान्तस्य यानम् अशनं च बुभुक्षितस्य  
+    
+६७।११६ब् पानं तृषा^परिगतस्य भयेषु रक्षा।  
+    
+६७।११६च् एतानि यस्य पुरुषस्य भवन्ति काले  
+    
+६७।११६द् धन्यं वदन्ति खलु तं नर^लक्षणज्ञाः॥  
+    
+[क्।६८।११७अब्। पुरुष^लक्षणम् उक्तम् इदं मया मुनि^मतान्य् अवलोक्य समासतः।  
+    
+क्।६८।११७च्द्। इदम् अधीत्य नरो नृप^सम्मतो भवति सर्व^जनस्य च वल्लभः॥]
+
+                   ६८ पञ्चमनुष्यविभागाध्यायः
+
+६८।०१अब्। ताराग्रहैर् बलयुतैः स्व^क्षेत्र^स्व^उच्चगैश् चतुष्टयगैः।  
+    
+६८।०१च्द्। पञ्च पुरुषाः प्रशस्ता जायन्ते तान् अहं वक्ष्ये॥  
+    
+६८।०२अब्। जीवेन भवति हंसः सौरेण शशः कुजेन रुचकश् च।  
+    
+६८।०२च्द्। भद्रो बुधेन बलिना मालव्यो दैत्य^पूज्येन॥  
+    
+६८।०३अब्। सत्त्वम् अहीनं सूर्यात्^शारीरं मानसं च चन्द्र^बलात्।  
+    
+६८।०३च्द्। यद् राशि^भेद^युक्ताव् एतौ तल् लक्षणः स पुमान्॥  
+    
+६८।०४अब्। तद्^धातु^महाभूत^प्रकृति^द्युति^वर्ण^सत्त्व^रूप^आद्यैः।  
+    
+६८।०४च्द्। अबल^रवि^इन्दु^युतैस् तैः सङ्कीर्णा लक्षणैः पुरुषाः॥  
+    
+६८।०५अब्। भौमात् सत्त्वं गुरुता बुधात् सुरेज्यात् स्वरः सितात् स्नेहः।  
+    
+६८।०५च्द्। वर्णः सौराद् एषां गुण^दोषैः साध्व्^असाधुत्वम्॥  
+    
+६८।०६अब्। सङ्कीर्णाः स्युर् न नृपा दशासु तेषां भवन्ति सुख^भाजः।  
+    
+६८।०६च्द्। रिपु^गृह^नीच^उच्च^च्युत^सत्^पाप^निरीक्षणैर् भेदाः[क्।भेदः]॥  
+    
+६८।०७अब्। षण्^णवतिर् अङ्गुलानां व्यायामो दीर्घता च हंसस्य।  
+    
+६८।०७च्द्। शश^रुचक^भद्र^मालव्य^सञ्ज्ञितास् त्र्य्^अङ्गुल^विवृद्ध्या॥  
+    
+६८।०८अ यः सात्त्विकस् तस्य दया स्थिरत्वं  
+    
+६८।०८ब् सत्त्व^आर्जवं ब्राह्मण^देव^भक्तिः।  
+    
+६८।०८च् रजो^अधिकः काव्य^कला^क्रतु^स्त्री^  
+    
+६८।०८द् संसक्त^चित्तः पुरुषो +अतिशूरः॥  
+    
+६८।०९अ तमो^अधिको वञ्चयिता परेषां  
+    
+६८।०९ब् मूर्खो +अलसः क्रोध^परो +अति^निद्रः।  
+    
+६८।०९च् मिश्रैर् गुणैः सत्त्व^रजस्^तमोभिर्  
+    
+६८।०९द् मिश्रास् तु ते सप्त सह प्रभेदैः॥  
+    
+६८।१०अ मालव्यो *नाग^नासः सम^भुज[क्।नागनाससमभुज]^युगलो जानु^सम्प्राप्त^हस्तो  
+    
+६८।१०ब् मांसैः पूर्ण^अङ्ग^सन्धिः सम^रुचिर^तनुर् मध्य^भागे कृशश् च।  
+    
+६८।१०च् पञ्च^अष्टौ च^ऊर्ध्वम् आस्यं श्रुति^विवरम् अपि त्र्य्^अङ्गुल^ऊनं च तिर्यग्  
+    
+६८।१०द् दीप्त^अक्षं सत्^कपोलं सम^सित^दशनं न^अतिमांस^अधरोष्ठम्॥  
+    
+६८।११अ मालवान् स भरुकच्छ^सुराष्ट्रान्  
+    
+६८।११ब् लाट^सिन्धु^विषय^प्रभृतींश् च।  
+    
+६८।११च् विक्रम^आर्जित^धनो +अवति राजा  
+    
+६८।११द् पारियात्र^निलयान्[क्।निलयः] कृत^बुद्धिः॥  
+    
+६८।१२अब्। सप्तति^वर्षो मालव्यो +अयं त्यक्ष्यति सम्यक् प्राणांस् तीर्थे।  
+    
+६८।१२च्द्। लक्षणम् एतत् सम्यक् प्रोक्तं शेष^नराणां च^अतो वक्ष्ये॥  
+    
+६८।१३अ उपचित^समवृत्त^लम्ब^बाहुर्  
+    
+६८।१३ब् भुज^युगल^प्रमितः समुच्छ्रयो +अस्य।  
+    
+६८।१३च् मृदु^तनु^घन^रोम^नद्ध^गण्डो  
+    
+६८।१३द् भवति नरः खलु लक्षणेन भद्रः॥  
+    
+६८।१४अ त्वक्^शुक्र^सारः पृथु^पीन^वक्षाः  
+    
+६८।१४ब् सत्त्व^अधिको व्याघ्र^मुखः स्थिरश् च।  
+    
+६८।१४च् क्षम^अन्वितो धर्म^परः कृत^ज्ञो  
+    
+६८।१४द् गजेन्द्र^गामी बहु^शास्त्र^वेत्ता॥  
+    
+६८।१५अ प्राज्ञो वपुष्मान् सु^ललाट^शङ्खः  
+    
+६८।१५ब् कलास्व् अभिज्ञो धृतिमान् सु^कुक्षिः।  
+    
+६८।१५च् सरोज^गर्भ^द्युति^पाणि^पादो  
+    
+६८।१५द् योगी सुनासः सम^संहत^भ्रूः॥  
+    
+६८।१६अ नव^अम्बु^सिक्त^अवनि^पत्र^कुङ्कुम^  
+    
+६८।१६ब् द्विपेन्द्र^दान^अगुरु^तुल्य^गन्धता।  
+    
+६८।१६च् शिरो^रुहाश् च^एकज^कृष्ण^कुञ्चितास्  
+    
+६८।१६द् तुरङ्ग^नाग^उपम^गुह्य^गूढता[क्।गूढगुह्यता]॥  
+    
+६८।१७अ हल^मुशल^गदा^असि^शङ्ख^चक्र^  
+    
+६८।१७ब् द्विप^मकर^अब्ज^रथ^अङ्कित^अङ्घ्रि[क्।अन्ह्रि]^हस्तः।  
+    
+६८।१७च् विभवम् अपि जनो +अस्य बोभुजी^इति  
+    
+६८।१७द् क्षमति हि न स्वजनं स्व^तन्त्र^बुद्धिः॥  
+    
+६८।१८अ अङ्गुलानि नवतिश् च षड्^ऊनान्य्  
+    
+६८।१८ब् उच्छ्रयेण तुलया^अपि हि भारः।  
+    
+६८।१८च् मध्य^देश^नृपतिर् यदि पुष्टाश्  
+    
+६८।१८द् त्र्य्^आदयो +अस्य सकल^अवनि^नाथः॥  
+    
+६८।१९अब्। भुक्त्वा सम्यग्^वसुधां शौर्येण^उपार्जिताम् अशीत्य्^अब्दः।  
+    
+६८।१९च्द्। तीर्थे प्राणांस् त्यक्त्वा भद्रो देव^आलयं याति॥  
+    
+६८।२०अ ईषद्^दन्तुरकस् तनु^द्विज^नखः कोश^ईक्षणः शीघ्रगो  
+    
+६८।२०ब् विद्या^धातु^वणिक्^क्रियासु निरतः सम्पूर्ण^गण्डः शठः।  
+    
+६८।२०च् सेनानीः प्रिय^मैथुनः पर^जन^स्त्री^सक्त^चित्तश् चलः  
+    
+६८।२०द् शूरो मातृहितो वन^अचल^नदी^दुर्गेषु सक्तः शशः॥  
+    
+६८।२१अ दीर्घो +अङ्गुलानां शतम् अष्ट^हीनं  
+    
+६८।२१ब् साशङ्क^चेष्टः पर^रन्ध्रविच् च।  
+    
+६८।२१च् सारो +अस्य मज्जा निभृत^प्रचारः  
+    
+६८।२१द् शशो ह्य् अतो[क्।अयम्] न^अतिगुरुः प्रदिष्टः॥  
+६८।२२अ मध्ये कृशः खेटक^खड्ग^वीणा  
+    
+६८।२२ब् पर्यङ्क^माला^मुरज^अनुरूपाः।  
+    
+६८।२२च् शूल^उपमाश् च^ऊर्ध्व^गताश् च रेखाः  
+    
+६८।२२द् शशस्य पाद^उपगताः करे वा॥  
+    
+६८।२३अ प्रात्यन्तिको माण्डलिको +अथ वा^अयं  
+    
+६८।२३ब् स्फिक्^स्राव^शूल^अभिभव^अर्त^मूर्तिः।  
+    
+६८।२३च् एवं शशः सप्तति^हायनो +अयं  
+    
+६८।२३द् वैवस्वतस्य^आलयम् अभ्युपैति॥  
+    
+६८।२४अ रक्तं पीन^कपोलम् उन्नत^नसं वक्त्रं सुवर्ण^उपमं  
+    
+६८।२४ब् वृत्तं च^अस्य शिरो +अक्षिणी मधु^निभे सर्वे च रक्ता नखाः।  
+    
+६८।२४च् स्रग्^दाम^अङ्कुश^शङ्ख^मत्स्य^युगल^क्रत्व्^अङ्ग^कुम्भ^अम्बुजैश्  
+    
+६८।२४द् चिह्नैर् हंस^कल^स्वनः सु^चरणो हंसः प्रसन्न^इन्द्रियः॥  
+    
+६८।२५अब्। रतिर् अम्भसि शुक्र^सारता द्वि^गुणा च^अष्ट^शतैः पलैर् मितिः।  
+    
+६८।२५च्द्। परिमाणम् अथ^अस्य षड्^युता नवतिः सम्परिकीर्तिता बुधैः॥  
+६८।२६अब्। भुनक्ति हंसः खस^शूरसेनान् गान्धार^गङ्गा^यामुना^अन्तरालम्।  
+    
+६८।२६च्द्। शतं दश^ऊनं शरदां नृपत्वं कृत्वा वन^अन्ते समुपैति मृत्युम्॥  
+    
+६८।२७अब्। सु^भ्रू^केशो रक्त^श्यामः कम्बु^ग्रीवो व्यादीर्घ^आस्यः।  
+    
+६८।२७च्द्। शूरः क्रूरः श्रेष्ठो मन्त्री चौर^स्वामी व्यायामी च॥  
+    
+६८।२८अ यन्मात्रम् आस्यं रुचकस्य दीर्घं  
+    
+६८।२८ब् मध्य^प्रदेशे चतुरस्रता[क्।चतुरश्रता] सा।  
+    
+६८।२८च् तनु^च्छविः शोणित^मांस^सारो  
+    
+६८।२८द् हन्ता द्विषां साहस^सिद्ध^कार्यः॥  
+    
+६८।२९अ खट्वाङ्ग^वीणा^वृष^चाप^वज्र^  
+    
+६८।२९ब् शक्ति^इन्द्र^शूल^अङ्कित^पाणि^पादः।  
+    
+६८।२९च् भक्तो गुरु^ब्राह्मण^देवतानां  
+    
+६८।२९द् शत^अङ्गुलः स्यात् *तु सहस्र^मानः[क्।तुलया सहस्रम्]॥  
+    
+६८।३०अ मन्त्र^अभिचार^कुशलः कृश^जानु^जङ्घो  
+    
+६८।३०ब् विन्ध्यं ससह्यगिरिम् उज्जयिनीं च भुक्त्वा।  
+    
+६८।३०च् सम्प्राप्य सप्तति^समा रुचको नरेन्द्रः  
+    
+६८।३०द् शस्त्रेण मृत्युम् उपयात्य् अथ वा +अनलेन॥  
+    
+६८।३१अ पञ्च^अपरे वामनको जघन्यः  
+    
+६८।३१ब् कुब्जो +अथ वा मण्डलको +अथ साची[क्।समी]।  
+    
+६८।३१च् पूर्व^उक्त^भूप^अनुचरा भवन्ति  
+    
+६८।३१द् सङ्कीर्ण^सञ्ज्ञः[क्।सञ्ज्ञाः] शृणु लक्षणैस् तान्॥  
+    
+६८।३२अ सम्पूर्ण^अङ्गो वामनो भग्न^पृष्ठः  
+    
+६८।३२ब् किञ्चिच् च^ऊरू^मध्य^कक्ष्य[क्।कक्ष]^अन्तरेषु।  
+    
+६८।३२च् ख्यातो राज्ञां ह्य् एष भद्र^अनुजीवी  
+    
+६८।३२द् स्फीटो राजा[क्।दाता] वासुदेवस्य भक्तः॥  
+    
+६८।३३अ मालव्य^सेवी तु जघन्य^नामा  
+    
+६८।३३ब् खण्डेन्दु^तुल्य^श्रवणः सु^सन्धिः।  
+    
+६८।३३च् शुक्रेण सारः पिशुनः कविश् च  
+    
+६८।३३द् रूक्ष^च्छविः स्थूल^कर^अङ्गुलीकः॥  
+    
+६८।३४अ क्रूरो धनी स्थूल^मतिः प्रतीतस्  
+    
+६८।३४ब् ताम्र^च्छविः स्यात् परिहास^शीलः।  
+    
+६८।३४च् उरो^अङ्घ्रि[क्।अन्ह्रि]^हस्तेष्व् असि^शक्ति^पाश^  
+    
+६८।३४द् परश्वध^*अङ्कः स[क्।अङ्कश् च] जघन्य^नामा॥  
+    
+६८।३५अ कुब्जो नाम्ना यः स शुद्धो ह्य् अधस्तात्  
+    
+६८।३५ब् क्षीणः किञ् चित् पूर्व^काये नतश् च।  
+    
+६८।३५च् हंस^आसेवी नास्तिको +अर्थैर् उपेतो  
+    
+६८।३५द् विद्वान् शूरः सूचकः स्यात् कृत^ज्ञः॥  
+    
+६८।३६अ कलास्व् अभिज्ञः कलह^प्रियश् च  
+    
+६८।३६ब् प्रभूत^भृत्यः प्रमदा^जितश् च।  
+    
+६८।३६च् सम्पूज्य लोकं प्रजहात्य् अकस्मात्  
+    
+६८।३६द् कुब्जो +अयम् उक्तः सतत^उद्यतश् च॥  
+    
+६८।३७अब्। *मण्डलकक्षणम् अतो[क्।मण्डलकनामधेयो। ऊ।मण्डलकलक्षणम् अतो] रुचक^अनुचरो +अभिचारवित् कुशलः।  
+    
+६८।३७च्द्। कृत्या^वेताल[क्।वैताल]^आदिषु कर्मसु विद्यासु च^अनुरतः॥  
+    
+६८।३८अब्। वृद्ध^आकारः खर^*परुष^मूर्धजश्[क्।रूक्षमूर्धजश्] च शत्रु^नाशने कुशलः।  
+    
+६८।३८च्द्। द्विज^देव^यज्ञ^योग^प्रसक्त^धीः स्त्री^जितो मतिमान्॥  
+    
+६८।३९अ साची^इति[क्।सामीति] यः सो +अतिविरूप^देहः  
+    
+६८।३९ब् शश^अनुगामी खलु दुर्भगश् च।  
+    
+६८।३९च् दाता महारम्भ^समाप्त^कार्यो  
+    
+६८।३९द् गुणैः शशस्य^एव भवेत् समानः॥  
+    
+६८।४०अ[क्।ओमित्तेद्] पुरुष^लक्षणम् उक्तम् इदम् मया  
+    
+६८।४०ब्[क्।ओमित्तेद्] मुनि^मतानि निरीक्ष्य समासतः।  
+    
+६८।४०च्[क्।ओमित्तेद्] इदम् अधीत्य नरो नृप^सम्मतो  
+    
+६८।४०द्[क्।ओमित्तेद्] भवति सर्वजनस्य च वल्लभः॥
+
+                   ६९ कन्यालक्षणाध्यायः
+
+६९।०१अ स्निग्ध^उन्नत^अग्र^तनु^ताम्र^नखौ कुमार्याः  
+    
+६९।०१ब् पादौ सम^उपचित^चारु^निगूढ^गुल्फौ।  
+    
+६९।०१च् श्लिष्ट^अङ्गुली कमल^कान्ति^तलौ च यस्यास्  
+    
+६९।०१द् ताम् उद्वहेद् यदि भुवो +अधिपतित्वम् इच्छेत्॥  
+    
+६९।०२अ मत्स्य^अङ्कुश^अब्ज^यव^वज्र^हल^असि^चिह्न^  
+    
+६९।०२ब् अवस्वेदनौ मृदु^तलौ चरणौ प्रशस्तौ।  
+    
+६९।०२च् जङ्घे च रोम^रहिते विशिरे सुवृत्ते  
+    
+६९।०२द् जानु^द्वयं समम् अनुल्बण^सन्धिदेशम्॥  
+    
+६९।०३अ ऊरू घनौ करिकर^प्रतिमाव् अरोमाव्  
+    
+६९।०३ब् अश्वत्थ^पत्र^सदृशं विपुलं च गुह्यम्।  
+    
+६९।०३च् श्रोणी^ललाटम् उरु^कूर्म^समुन्नतं च  
+    
+६९।०३द् गूढो मणिश् च विपुलां श्रियम् आदधाति॥  
+    
+६९।०४अ विस्तीर्ण^मांस^उपचितो नितम्बः  
+    
+६९।०४ब् गुरुश् च धत्ते रशना[क्।रसना]^कलापम्।  
+    
+६९।०४च् नाभिर् गभीरा[क्।गम्भीरा] विपुल^अङ्गानां  
+    
+६९।०४द् प्रदक्षिण^आवर्त^गता *च शस्ता[क्।प्रशस्ता]॥  
+    
+६९।०५अ मध्यं स्त्रियास् त्रि^वलि^नाथम् अरोमशं च  
+    
+६९।०५ब् वृत्तौ घनाव् अविषमौ कठिनाव् उरस्यौ।  
+    
+६९।०५च् रोम^प्रवर्जितम्[क्।अपवर्जितम्] उरो मृदु च^अङ्गनानां  
+    
+६९।०५द् ग्रीवा च कम्बु^निचित^अर्थ^सुखानि दत्ते[क्।धत्ते]॥  
+    
+६९।०६अ बन्धुजीव^कुसुम^उपमो +अधरो  
+    
+६९।०६ब् मांसलो रुचिर^बिम्ब^रूप^भृत्।  
+    
+६९।०६च् कुन्द^कुड्मल^निभाः समा द्विजा  
+    
+६९।०६द् योषितां पतिसुख^अमित^अर्थदाः॥  
+    
+६९।०७अ दाक्षिण्य^युक्तम् अशठं परपुष्ट^हंस^  
+    
+६९।०७ब् वल्गु प्रभाषितम् अदीनम् अनल्प^सौख्यम्।  
+    
+६९।०७च् नासा समा सम^पुटा रुचिरा प्रशस्ता  
+    
+६९।०७द् दृग्^नील^नीरज^दल^द्युति^हारिणी च॥  
+    
+६९।०८अब्। नो सङ्गते न^अतिपृथू न लम्बे शस्ते भ्रुवौ बाल^शशाङ्क^वक्रे।  
+    
+६९।०८च्द्। अर्धेन्दु^संस्थानम् अरोमशं च शस्तं ललाटं न नतं न तुङ्गम्॥  
+    
+६९।०९अब्। कर्ण^युग्मम् अपि युक्त^मांसलं शस्यते म्र्दु *समाहितम् समम्[क्।समं समाहितम्]।  
+    
+६९।०९च्द्। स्निग्ध^नील^मृदु^कुञ्चित^एकजा मूर्धजाः सुख^कराः समं शिरः॥  
+    
+६९।१०अ भृङ्गार^आसन^वाजि^कुञ्जर^रथ^श्रीवृक्ष^यूप^इषुभिर्  
+    
+६९।१०ब् माला^कुण्डल^चामर^अङ्कुश^यवैः शैलैर् ध्वजैस् तोरणैः।  
+    
+६९।१०च् मत्स्य^स्वस्तिक^वेदिका^व्यजनकैः शङ्ख^आतपत्र^अम्बुजैः  
+    
+६९।१०द् पादे पाणि^तले +अथ वा[क्।अपि वा] युवतयो गच्छन्ति राज्ञी^पदम्॥  
+    
+६९।११अ निगूढ^मणिबन्धनौ तरुण^पद्म^गर्भ^उपमौ  
+    
+६९।११ब् करौ नृपति^*योषितस्[क्।योषिताम्] तनु^विकृष्ट^पर्व^अङ्गुली।  
+    
+६९।११च् न निम्नम् अति न^उन्नतं कर^तलं सु^रेखा^अन्वितं  
+    
+६९।११द् करोत्य् अविधवां चिरं सुत^सुख^अर्थ^सम्भोगिनीम्॥  
+    
+६९।१२अ मध्य^अङ्गुलिं या मणिबन्धन^उत्था  
+    
+६९।१२ब् रेखा गता पाणि^तले +अङ्गनायाः।  
+    
+६९।१२च् ऊर्ध्व^स्थिता पाद^तले +अथ वा या  
+    
+६९।१२द् पुंसो +अथ वा राज्य^सुखाय सा स्यात्॥  
+    
+६९।१३अ कनिष्ठिका^मूल^भवा गता या  
+    
+६९।१३ब् प्रदेशिनी^मध्यमिक^अन्तरालम्।  
+    
+६९।१३च् करोति रेखा परम^आयुषः सा  
+    
+६९।१३द् प्रमाणम् ऊना तु तद् ऊनम् आयुः॥  
+    
+६९।१४अ अङ्गुष्ट^मूले प्रसवस्य रेखाः  
+    
+६९।१४ब् पुत्रा बृहत्यः प्रमदास् तु तन्व्यः।  
+    
+६९।१४च् अच्छिन्न^मध्या[क्।दीर्घा] बृहद्^आयुषस्[क्।बृहदायुषाम्] ताः  
+    
+६९।१४द् स्वल्प^आयुषां छिन्न^लघु^प्रमाणाः॥  
+    
+६९।१५अ इति^इदम् उक्तं शुभम् अङ्गनानाम्  
+    
+६९।१५ब् अतो विपर्यस्तम् अनिष्टम् उक्तम्।  
+    
+६९।१५च् विशेषतो +अनिष्ट^फलानि यानि  
+    
+६९।१५द् समासतस् तान्य् अनुकीर्तयामि॥  
+    
+६९।१६अ कनिष्ठिका वा तद्^अनन्तरा वा  
+    
+६९।१६ब् महीं न यस्याः श्पृशति स्त्रियाः स्यात्।  
+    
+६९।१६च् गता^अथ वा^अङ्गुष्ठम् अतीत्य यस्याः  
+    
+६९।१६द् प्रदेशिनी सा कुलटा +अतिपापा॥  
+    
+६९।१७अ उद्बद्धाभ्याम् पिण्डिकाभ्याम् शिराले  
+    
+६९।१७ब् शुष्के जङ्घे लोमशे[क्।ऊ।रोमशे] च^अतिमांसे  
+    
+६९।१७च् वाम^आवर्तं निम्नम् अल्पं च गुह्यं  
+    
+६९।१७द् कुम्भ^आकारं च^उदरं दुःखितानाम्॥  
+    
+६९।१८अब्। ह्रस्वया^अतिनिःस्वता दीर्घया कुल^क्षयः।  
+    
+६९।१८च्द्। ग्रीवया पृथु^उत्थया योषितः प्रचण्डता॥  
+    
+६९।१९अ नेत्रे यस्याः केकरे पिङ्गले वा  
+    
+६९।१९ब् सा दुःशीला श्याव^लोल^ईक्षणा च।  
+    
+६९।१९च् कूपौ यस्या गण्डयोश् च स्मितेषु  
+    
+६९।१९द् निःसन्दिग्धं बन्धकीं तां वदन्ति॥  
+    
+६९।२०अ प्रविलम्बिनि देवरं ललाटे  
+    
+६९।२०ब् श्वशुरं हन्त्य् उदरे स्फिजोः पतिं च।  
+    
+६९।२०च् अतिरोम^चय^अन्वित^उत्तर^ओष्ठी  
+    
+६९।२०द् न शुभा भर्तुर् अतीव या च दीर्घा॥  
+    
+६९।२१अ स्तनौ सरोमौ मलिन^उल्बणौ च  
+    
+६९।२१ब् क्लेशं दधाते विषमौ च कर्णौ।  
+    
+६९।२१च् स्थूलाः कराला विषमाश् च दन्ताः  
+    
+६९।२१द् क्लेशाय चौर्याय च कृष्ण^मांसाः॥  
+    
+६९।२२अ क्रव्याद^रूपैर् वृक^काक^कङ्क^  
+    
+६९।२२ब् सरीसृप^उलूक^समान^चिह्नैः  
+    
+६९।२२च् शुष्कैः शिरालैर् विषमैश् च हस्तैर्  
+    
+६९।२२द् भवन्ति नार्यः सुख^वित्त^हीनाः॥  
+    
+६९।२३अ या तु^उत्तरोष्ठेन समुन्नतेन  
+    
+६९।२३ब् रूक्ष^अग्र^केशी कलह^प्रिया सा।  
+    
+६९।२३च् प्रायो विरूपासु भवन्ति दोषा  
+    
+६९।२३द् यत्र^आकृतिस् तत्र गुणा वसन्ति॥  
+    
+६९।२४अब्। पादौ सगुल्फौ प्रथमं प्रदिष्टौ जङ्घे द्वितीयं तु स^जानु^चक्रे।  
+    
+६९।२४च्द्। मेढ्र^ऊरु^मुष्कं च ततस् तृतीयं नाभिः कटिश् च^एव[क्।च इति] चतुर्थम् आहुः॥  
+    
+६९।२५अब्। उदरं कथयन्ति पञ्चमं हृदयं षष्ठम् अतस् स्तन^अन्वितम्।  
+    
+६९।२५च्द्। अथ सप्तमम् अंसजत्रुणी कथयन्त्य् अष्टमम् ओष्ठ^कन्धरे॥  
+    
+६९।२६अब्। नवमं नयने च स^भ्रुणी स^ललाटं दशमं शिरस् तथा।  
+    
+६९।२६च्द्। अशुभेष्व् अशुभं दशाफलं चरण^आद्येषु शुभेषु शोभनम्॥
+
+                   ७० वस्त्रच्छेदलक्षणाध्यायः
+
+७०।०१अब्[क्।७१।६अब्]। प्रभूत^वस्त्रदा^अश्विनी भरण्य् अथ^अपहारिणी।  
+    
+७०।०१च्द्[क्।७१।६च्द्]। प्रदह्यते +अग्निदैवते प्रजेस्वरे +अर्थ^सिद्धयः॥  
+    
+७०।०२अब्[क्।७१।७अब्]। मृगे तु मूषकाद् भयं व्यसुत्वम् एव शाङ्करे।  
+    
+७०।०२च्द्[क्।७१।७च्द्]। पुनर्वसौ शुभ^आगमस् तद्^अग्रभे धनैर् युतिः॥  
+    
+७०।०३अब्[क्।७१।८अब्]। भुजङ्ग^भे विलुप्यते मघासु मृत्युम् आदिशेत्।  
+    
+७०।०३च्द्[क्।७१।८च्द्]। भग^आह्वये नृपाद् भयं धन^आगमाय च^उत्तरा॥  
+    
+७०।०४अब्[क्।७१।९अब्]। करेण कर्म^सिद्धयः शुभ^आगमस् तु चित्रया।  
+    
+७०।०४च्द्[क्।७१।९च्द्]। शुभं च भोज्यम् आनिले द्वि^दैवते जन^प्रियः॥  
+    
+७०।०५अब्[क्।७१।१०अब्]। सुहूद्युतिश्[क्।ऊ।सुहृद्युतिश्] च मित्रभे तद्^अग्र^भे[क्।पुरन्दरे] +अम्बर^क्षयः।  
+    
+७०।०५च्द्[क्।७१।१०च्द्]। जल^प्लुतिश् च नैरृते रुजो जलाधि^दैवते॥  
+    
+७०।०६अब्[क्।७१।११अब्]। मिष्टम् अन्नम् अपि वैश्व^दैवते वैष्णवे भवति नेत्र^रोगता।  
+    
+७०।०६च्द्[क्।७१।११च्द्]। धान्य^लब्धिर्[क्।लब्धिम्] अपि[क्।अथ] वासवे[क्।विश्वदैवते] विदुर् वारुणे विष^कृतं महद्भयम्॥  
+    
+७०।०७अ[क्।७१।१२अ] भद्रपदासु भयं सलिल^उत्थं  
+    
+७०।०७ब्[क्।७१।१२ब्] तत् परतश् च भवेत् सुत^लब्धिः।  
+    
+७०।०७च्[क्।७१।१२च्] रत्न^युतिं कथयन्ति च पौष्णे  
+    
+७०।०७द्[क्।७१।१२द्] यो +अभिनव^अम्बरम् इच्छति भोक्तुम्॥  
+    
+[क्।७१।१३अब्। विप्र^मताद् अथ भूपति^दत्तं यच् च विवाह^विधाव् अभिलब्धम्।  
+    
+क्।७१।१३च्द्। तेषु गुणै रहितेष्व् अपि भोक्तुं नूतनम् अम्बरमिष्टफलं स्यात्॥]  
+    
+७०।०८अब्[क्।७१।१४अब्]। भोक्तुं नव^अम्बरं शस्तम् ऋक्षे +अपि गुण^वर्जिते।  
+    
+७०।०८च्द्[क्।७१।१४च्द्]। विवाहे राज^सम्माने ब्रह्मणाणां च सम्मते॥  
+७०।०९अब्[क्।७१।१अब्]। वस्त्रस्य कोणेषु वसन्ति देवा नराश् च पाशान्त^दशान्त^मध्ये।  
+    
+७०।०९च्द्[क्।७१।१च्द्]। शेषास् त्रयश् च^अत्र निशाचरांशास् तथ^एव शय्या^आसन^पादुकासु॥  
+    
+७०।१०अब्[क्।७१।२अब्]। लिप्ते मषी^गोमय^कर्दम^आद्यैश् छिन्ने प्रदग्धे स्फुटिते च विन्द्यात्।  
+    
+७०।१०च्द्[क्।७१।२च्द्]। पुष्टं नवे +अल्प^अल्पतरं च भुक्ते पापं शुभं च^अधिकम् उत्तरीये॥  
+    
+७०।११अब्[क्।७१।३अब्]। रुग्^राक्षस^अंशेस्व् अथ वा +अपि मृत्युः पुञ्^जन्म^तेजश् च मनुष्य^भागे।  
+    
+७०।११च्द्[क्।७१।३च्द्]। भागे +अमराणाम् अथ भोग^वृद्धिः प्रान्तेषु सर्वत्र वदन्त्य् अनिष्टम्॥  
+    
+७०।१२अब्[क्।७१।४अब्]। कङ्क^प्लव^उलूक^कपोत^काक^क्रव्याद^गोमायु^खर^उष्ट्र^सर्पैः।  
+    
+७०।१२च्द्[क्।७१।४च्द्]। छेद^आकृतिर् दैवत^भागगा^अपि पुंसां भयं मृत्यु^समं करोति॥  
+    
+७०।१३अब्[क्।७१।५अब्]। छत्र^ध्वज^स्वस्तिक^वर्धमान^श्रीवृक्ष^कुम्भ^अम्बुज^तोरण^आद्यैः।  
+    
+७०।१३च्द्[क्।७१।५च्द्]। छेद^आकृतिर् नैरृत^भागगा^अपि पुंसां विधत्ते न चिरेण लक्ष्मीम्॥
+
+                   ७१ चामरलक्षणाध्यायः
+
+७१।०१अ देवैश् चमर्यः किल वाल^हेतोः  
+    
+७१।०१ब् सृष्टा हिमक्ष्माधर^कन्दरेषु।  
+    
+७१।०१च् आपीत^वर्णाश् च भवन्ति तासां  
+    
+७१।०१द् कृष्णाश् च लाङ्गूल^भवाः सिताश् च॥  
+    
+७१।०२अ स्नेहो मृदुत्वं बहु^वालता[क्।वालता च]  
+    
+७१।०२ब् वैशद्यम् अल्प^अस्थि^निबन्धनत्वम्।  
+    
+७१।०२च् शौक्ल्यं च तासां[क्।तेषाम्] गुण^सम्पद् उक्ता  
+    
+७१।०२द् विद्ध^अल्प^लुप्तानि न शोभनानि॥  
+    
+७१।०३अ अध्यर्ध^हस्त^प्रमितो +अस्य दण्डो  
+    
+७१।०३ब् हस्तो +अथ वा^अरत्नि^समो +अथ वा^अन्यः।  
+    
+७१।०३च् काष्ठात्^शुभात् काञ्चन^रूप्य^गुप्ताद्  
+    
+७१।०३द् रत्नैश् *च सर्वैश्[क्।विचित्रैश्] च हिताय राज्ञाम्॥  
+    
+७१।०४अब्। यष्ट्य्^आतपत्र^अङ्कुश^वेत्र^चाप^वितान^कुन्त^ध्वज^चामराणाम्।  
+    
+७१।०४च्द्। व्यापीत^तन्त्री^मधु^कृष्ण^वर्णा वर्ण^क्रमेण^एव हिताय दण्डाः॥  
+    
+७१।०५अ मातृ^भू^धन^कुल^क्षयावहा  
+    
+७१।०५ब् रोग^मृत्यु^जननाश् च पर्वभिः।  
+    
+७१।०५च् द्व्य्^आदिभिर् द्विक^विवर्धितैः क्रमात्  
+    
+७१।०५द् द्वादश^अन्त^विरतैः समैः फलम्॥  
+    
+७१।०६अ यात्रा^प्रसिद्धिर् द्विषतां विनाशो  
+    
+७१।०६ब् लाभाः प्रभूता[क्।प्रभूतो] वसुधा^गमश् च।  
+    
+७१।०६च् वृद्धिः पशूनाम् अभिवञ्छित^आप्तिस्  
+    
+७१।०६द् त्र्य्^आद्येष्व् अयुग्मेषु तद्^ईश्वराणाम्॥
+
+                   ७२ छत्रलक्षणाध्यायः
+
+७२।०१अब्। निचितं तु[क्ऽस् त्र्। नु] हंस^पक्षैः कृकवाकु^मयूर^सारसानां वा।  
+    
+७२।०१च्द्। दौकूल्येन[क्।दौकूलेन] नवेन तु समन्ततश् छादितं शुक्लम्॥  
+    
+७२।०२अब्। मुक्ताफलैर् उपचितं प्रलम्ब^माला^आविलं स्फटिक^मूलम्।  
+    
+७२।०२च्द्। षड्^ढस्त^शुद्धहैमं नव^पर्व^नग^एक^दण्डं तु॥  
+    
+७२।०३अब्। दण्ड^अर्ध^विस्तृतं तत् समावृतं रत्न^भूषितम्[क्।रत्नविभूषितम्, क्ऽस् त्र्। रत्नभूषितम्] उदग्रम्।  
+    
+७२।०३च्द्। नृपतेस् तद्^आतपत्रं कल्याण^परं विजयदं च॥  
+    
+७२।०४अब्। युवराज^नृपति^पत्न्योः सेनापति^दण्डनायकानां च।  
+    
+७२।०४च्द्। दण्डो +अर्ध^पञ्च^हस्तः समपञ्च^*कृतो +अर्ध[क्।कृतार्ध]विस्तारः॥  
+    
+७२।०५अब्। अन्येषाम् उष्णघ्नं प्रसादपट्टैर् विभूषित^शिरस्कम्।  
+    
+७२।०५च्द्। व्यालम्बि^रत्नमालं छत्रं कार्यं तु[क्।च] मायूरम्॥  
+    
+७२।०६अब्। अन्येषां तु नराणां शीत^आतप^वारणं तु चतुरस्रम्[क्।चतुरश्रम्]।  
+    
+७२।०६च्द्। समवृत्त^दण्ड^युक्तं छत्रं कार्यं तु विप्राणाम्॥
+
+                   ७३ स्त्रीप्रशम्साध्यायः
+
+७३।०१अ जये धरित्र्याः पुरम् एव सारं  
+    
+७३।०१ब् पुरे गृहं सद्मनि च^एकदेशः।  
+    
+७३।०१च् तत्रापि शय्या शयने वरा स्त्री  
+    
+७३।०१द् रत्नोज्ज्वला राज्यसुखस्य सारः॥  
+    
+७३।०२अब्। रत्नानि विभूषयन्ति योषा भूष्यन्ते वनिता न रत्नकान्त्या।  
+    
+७३।०२च्द्। चेतो विनता हरन्त्य् अरत्ना नो रत्नानि विनाङ्गना^अङ्ग^सङ्गम्[क्।सङ्गात्]॥  
+    
+७३।०३अ आकारं विनिगूहतां रिपुबलं जेतुं समुत्तिष्ठतां  
+    
+७३।०३ब् तन्त्रं चिन्तयतां कृत^अकृत^शत^व्यापार^शाखा^आकुलम्।  
+    
+७३।०३च् मन्त्रि^प्रोक्त^निषेविणां[क्।निसेविणाम्, क्ऽस् त्र्। निषेविनाम्] क्षितिभुजाम् आशङ्किनां सर्वतो  
+    
+७३।०३द् धुःख^अम्भो^निधि^वर्तिनां सुख^लवः कान्ता^समालिङ्गनम्॥  
+७३।०४अ श्रुतं दृष्टं स्पृष्टं स्मृतम् अपि नृणां ह्लाद^जननं  
+    
+७३।०४ब् न रत्नं स्त्रीभ्यो +अन्यत् क्व चिद् अपि कृतं लोकपतिना।  
+    
+७३।०४च् तदर्थं धर्म^अर्थौ सुत^विषय^सौख्यानि च ततो  
+    
+७३।०४द् गृहे लक्ष्म्यो मान्याः सततम् अबला मान^विभवैः॥  
+    
+७३।०५अ ये +अप्य् अङ्गनानां प्रवदन्ति दोषान्  
+    
+७३।०५ब् वैराग्य^मार्गेण गुणान् विहाय।  
+    
+७३।०५च् ते दुर्जना मे मनसो वितर्कः  
+    
+७३।०५द् सद्भाव^वाक्यानि न तानि तेषाम्॥  
+    
+७३।०६अ प्रब्रूत सत्यं करतो +अङ्गनानां  
+    
+७३।०६ब् दोषो +अस्ति यो नाचरितो मनुष्यैः।  
+    
+७३।०६च् धार्ष्ट्येन पुम्भिः प्रमदा निरस्ता  
+    
+७३।०६द् गुणाधिकास् ता मनुना^अत्र च^उक्तम्॥  
+    
+७३।०७अब्। सोमस् तासाम् अदात्^शौचं गन्धर्वः[क्।गन्धर्वाः] शिक्षितां गिरम्।  
+    
+७३।०७च्द्। अग्निश् च सर्वभक्षित्वं तस्मान् निष्कसमाः स्त्रियः॥  
+    
+७३।०८अब्। ब्राह्मणाः पादतो मेध्या गावो मेध्याश् च पृष्ठतः।  
+    
+७३।०८च्द्। अज^अश्वा मुखतो मेध्याः स्त्रियो मेध्यास् तु सर्वतः॥  
+    
+७३।०९अब्। स्त्रियः पवित्रम् अतुलं नैता दुष्यन्ति कर्हि चित्।  
+    
+७३।०९च्द्। मासि मासि रजो ह्य् आसां दुष्कृतान्य् अपकर्षति॥  
+    
+७३।१०अब्। जामयो यानि गेहानि शपन्त्य् अप्रतिपूजिताः।  
+    
+७३।१०च्द्। तानि कृत्या^हतानि^इव विनश्यन्ति समन्ततः॥  
+    
+७३।११अब्। जाया वा स्याज् जनित्री वा सम्भवः स्त्रीकृतो नृणाम्।  
+    
+७३।११च्द्। हे कृतघ्नाश् तयोर् निन्दां कुर्वतां वः कुतः शुभम्॥  
+    
+७३।१२अब्। दम्पत्योर् व्युत्क्रमे दोषः समः शास्त्रे प्रतिष्ठितः।  
+    
+७३।१२च्द्। नरा न समवेक्षन्ते तेन^अत्र वरमङ्गनाः॥  
+    
+७३।१३अब्। बहिर् लोम्ना तु षण्मासान् वेष्टितः खर^चर्मणा।  
+    
+७३।१३च्द्। दारातिक्रमणे भिक्षां देहि^इत्य् उक्त्वा विशुध्यति॥  
+    
+७३।१४अब्। न शतेन^अपि वर्षाणाम् अपैति मदन^आशयः।  
+    
+७३।१४च्द्। तत्र अशक्त्या निर्वर्तन्ते नरा धैर्येण योषितः॥  
+    
+७३।१५अब्। अहो धार्ष्ट्यम् असाधूनां निन्दताम् अनघाः स्त्रियः।  
+    
+७३।१५च्द्। मुष्णताम् इव चौराणां तिष्ठ चौरेति जल्पताम्॥  
+    
+७३।१६अ पुरुषश् चटुलानि[क्।चातुलानि, क्ऽस् त्र्। चटुलानि] कामिनीनां  
+    
+७३।१६ब् कुरुते यानि रहो न तानि पश्चात्।  
+    
+७३।१६च् सुकृतज्ञतया^अङ्गना गतासून्  
+    
+७३।१६द् अवगूह्य प्रविशन्ति सप्तजिह्वम्॥  
+    
+७३।१७अ स्त्रीरत्न^भोगो +अस्ति नरस्य यस्य  
+    
+७३।१७ब् निःस्वो +अपि *साम्प्रत्य् अवनीस्वरो[क्।स्वं प्रत्यवनीस्वरो, क्ऽस् त्र्। मां प्रत्यव] +असौ।  
+    
+७३।१७च् राज्यस्य सारो +अशनम् अङ्गनाश् च  
+    
+७३।१७द् तृष्ण^अनल^उद्दीपन^दारु शेषम्॥  
+    
+७३।१८अ कामिनीं प्रथमयौवन^अन्वितां  
+    
+७३।१८ब् मन्द^वल्गु^मृदु^पीडित^स्वनाम्।  
+    
+७३।१८च् उत्स्तनीं समवलम्ब्य या रतिः  
+    
+७३।१८द् सा न धातृभवने +अस्ति मे मतिः॥  
+    
+७३।१९अ तत्र देव^मुनि^सिद्ध^चारणैर्  
+    
+७३।१९ब् मान्य^मानपितृ^सेव्य^सेवनात्।  
+    
+७३।१९च् ब्रूत धातृभवने +अस्ति किं सुखं  
+    
+७३।१९द् यद् रहः समवलम्ब्य न स्त्रियम्॥  
+    
+७३।२०अ आब्रह्म^कीट^अन्तम् इदं निबद्धं  
+    
+७३।२०ब् पुंस्त्रीप्रयोगेण जगत् समस्तम्।  
+    
+७३।२०च् व्रीडा^अत्र का यत्र चतुर्मुखत्वम्  
+    
+७३।२०द् ईशो +अपि लोभाद् गमितो युवत्याः॥
+
+                   ७४ सौभाग्यकरणाध्यायः
+
+७४।०१अ जात्यं मनोभव^सुखं सुभगस्य सर्वम्  
+    
+७४।०१ब् आभास^मात्रम् इतरस्य मनोवियोगात्।  
+    
+७४।०१च् चित्तेन भावयति दूरगता^अपि यं स्त्री  
+    
+७४।०१द् गर्भं बिभर्ति सदृशं पुरुषस्य तस्य॥  
+    
+७४।०२अ भङ्क्त्वा काण्डं पादपस्य^उप्तम् उर्व्यां  
+    
+७४।०२ब् बीजं वा^अस्यां न^अन्यताम् एति यद्वत्।  
+    
+७४।०२च् एवं ह्य् आत्मा जायते स्त्रीषु भूयः  
+    
+७४।०२द् कश् चित् तस्मिन् क्षेत्रयोगाद् विशेषः॥  
+    
+७४।०३अ आत्मा सह^एति मनसा मन इन्द्रियेण  
+    
+७४।०३ब् स्वार्थेन च^इन्द्रियम् इति क्रम एष शीघ्रः।  
+    
+७४।०३च् योगो +अयम् एव मनसः किम् अगम्यम् अस्ति  
+    
+७४।०३द् यस्मिन् मनो व्रजति तत्र गतो +अयम् आत्मा॥  
+    
+७४।०४अ आत्मा^अयम् आत्मनि गतो हृदये +अतिसूक्ष्मो  
+    
+७४।०४ब् ग्राह्यो +अचलेन मनसा सतत^अभियोगात्।  
+    
+७४।०४च् यो यं विचिन्तयति याति स तन्मयत्वं  
+    
+७४।०४द् यस्माद् अतः सुभगम् एव गता युवत्यः॥  
+    
+७४।०५अब्। दाक्षिण्यम् एकं सुभगत्व^हेतुर् विद्वेषणं तद्^विपरीत^चेष्टा।  
+    
+७४।०५च्द्। मन्त्र^ओषध^आद्यैः कुहक^प्रयोगैर् भवन्ति दोषा बहवो न शर्म॥  
+    
+७४।०६अब्। वाल्लभ्यम् आयाति विहाय मानं दौर्भाग्यम् आपादयते +अभिमानः।  
+    
+७४।०६च्द्। कृच्छ्रेण संसाधयते +अभिमानी कार्याण्य् अयत्नेन वदन् प्रियाणि॥  
+    
+७४।०७अब्। तेजो न तद् यत् प्रिय^साहसत्वं वाक्यं न च^अनिष्टम् असत्प्रणीतम्।  
+    
+७४।०७च्द्। कार्यस्य गत्व?^अन्तम् अनुद्धता ये तेजस्विनस् ते न विकत्थना ये॥  
+    
+७४।०८अब्। यः सार्वजन्यं सुभगत्वम् इच्छेद् गुणान् स सर्वस्य वदेत् परोक्षम्[क्।परोक्षे]।  
+    
+७४।०८च्द्। प्राप्नोति दोषान् असतो +अप्य् अनेकान् परस्य यो दोषकथां करोति॥  
+    
+७४।०९अब्। सर्व^उपकार^अनुगतस्य लोकः सर्व^उपकार^अनुगतो नरस्य।  
+    
+७४।०९च्द्। कृत्वा^उपकारं द्विषतां विपत्सु या कीर्तिर् अल्पेन न सा शुभेन॥  
+    
+७४।१०अब्। तृणैर् इवाग्निः सुतरां विवृद्धिम् आछाद्यमानो +अपि गुणो +अभ्युपैति।  
+    
+७४।१०च्द्। स केवलं दुर्जनभावम् एति हन्तुं गुणान् वाञ्छति यः परस्य॥
+
+                   ७५ कान्दर्पिकाध्यायः
+
+७५।०१अब्। रक्ते +अधिके स्त्री पुरुषस् तु शुक्रे नपुंसकं शोणित^शुक्रसाम्ये।  
+    
+७५।०१च्द्। यस्माद् अतः शुक्र^विवृद्धिदानि निषेवितव्यानि रसायनानि॥  
+    
+७५।०२अब्। हर्म्य^पृष्ठम् उडुनाथ^रश्मयः स^उत्पलं मधु मद^अलसा प्रिया।  
+    
+७५।०२च्द्। वल्लकी स्मरकथा रहः स्रजो वर्ग एष मदनस्य वागुरा॥  
+    
+७५।०३अ माक्षीकधातु^मधु^पारद^लोहचूर्ण^  
+    
+७५।०३ब् पथ्या^शिलाजतु^*घृतानि समानि[क्।विडङ्गघृतानि] यो +अद्यात्।  
+    
+७५।०३च् सैकानि विंशतिर् अहानि जरान्वितो +अपि  
+    
+७५।०३द् सो +अशीतिको +अपि रमयत्य् अबलां युवा^इव॥  
+    
+७५।०४अ क्षीरं शृतं यः कपिकच्छु^मूलैः  
+    
+७५।०४ब् पिबेत् क्षयं स्त्रीषु न सो +अभ्युपैति।  
+    
+७५।०४च् माषान् पयःसर्पिषि वा विपक्वान्  
+    
+७५।०४द् षड्ग्रासमात्रांश् च पयो +अनुपानम्[क्।अनुपानान्]॥  
+    
+७५।०५अब्। विदारिकायाः स्वरसेन चूर्णं मुहुर्मुहुर् भावितशोषितं च।  
+    
+७५।०५च्द्। शृतेन दुग्धेन सशर्करेण पिबेत् स यस्य प्रमदाः प्रभूताः॥  
+    
+७५।०६अ धात्रीफलानां स्वरसेन चूर्णं  
+    
+७५।०६ब् सुभावितं क्षौद्र^सित^आज्य^युक्तम्।  
+    
+७५।०६च् लीढ्वा^अनु पीत्वा च पयो +अग्निशक्त्या  
+    
+७५।०६द् कामं निकामं पुरुषो निषेवेत्॥  
+    
+७५।०७अ क्षीरेण बस्त^अण्ड युजा शृतेन  
+    
+७५।०७ब् सम्प्लाव्य कामी बहुशस् तिलान् यः।  
+    
+७५।०७च् सुशोषितान् अत्ति *पयः पिबेच्[क्।पिबेत् पयश्] च  
+    
+७५।०७द् तस्य^अग्रतः किं चटकः करोति॥  
+    
+७५।०८अब्। माष^सूप^सहितेन सर्पिषा षष्टिकौदनम् अदन्ति ये नराः।  
+    
+७५।०८च्द्। क्षीरम् अप्य् अनु पिबन्ति तासु ते शर्वरीषु मदनेन[क्।मदने न] शेरते॥  
+    
+७५।०९अ तिल^अश्वगन्धा^कपिकच्छु^मूलैर्  
+    
+७५।०९ब् विदारिका^षष्टिक^पिष्ट^योगः।  
+    
+७५।०९च् आजेन पिष्टः पयसा घृतेन  
+    
+७५।०९द् पक्वं[क्।पक्त्वा] भवेत्^शष्कुलिकातिवृष्या॥  
+    
+७५।१०अ क्षीरेण वा गोक्षुरक^उपयोगं  
+    
+७५।१०ब् विदारिका^कन्दक^भक्षणं वा।  
+    
+७५।१०च् कुर्वन् न सीदेद् यदि जीर्यते +अस्य  
+    
+७५।१०द् मन्दाग्निता चेद् इदम् अत्र चूर्णम्॥  
+    
+७५।११अब्। स^अजमोद^लवणा हरीतकी शृङ्गवेर^सहिता च पिप्पली।  
+    
+७५।११च्द्। मद्य^तक्र^तरल^उष्णवारिभिश् चूर्णपानम् उदराग्निदीपनम्॥  
+    
+७५।१२अ अत्यम्ल^तिक्त^लवणानि कटूनि वा+अत्ति  
+    
+७५।१२ब् *यः क्षारशाक^बहुलानि[क्।क्षारशाकबहुलानि] च भोजनानि।  
+    
+७५।१२च् दृक्^शुक्र^वीर्य^रहितः स करोत्य् अनेकान्  
+७५।१२द् व्याजान् जरन्न् इव युवा +अप्य् अबलाम् अवाप्य॥
+
+                   ७६ गन्धयुक्त्यध्यायः
+
+७६।०१अब्। स्रग्^गन्ध^धूप^अम्बर^भूषण^आद्यं न शोभते शुक्ल^शिरोरुहस्य।  
+    
+७६।०१च्द्। यस्माद् अतो मूर्धज^रागसेवां कुर्याद् यथ^एव^अञ्जन^भूषणानाम्॥  
+    
+७६।०२अ लौहे पात्रे तण्डुलान् कोद्रवाणां  
+    
+७६।०२ब् शुक्ले पक्वांल् लोहचूर्णेन साकम्।  
+    
+७६।०२च् पिष्टान् सूक्ष्मं मूर्ध्नि शुक्ल^अम्ल^केशे  
+    
+७६।०२द् दत्वा[क्।दत्त्वा] तिष्ठेद् वेष्टयित्वा^आर्द्र[क्।अर्क]पत्रैः॥  
+    
+७६।०३अ याते द्वितीये प्रहरे विहाय  
+    
+७६।०३ब् दद्यात्^शिरस्य् आमलक^प्रलेपम्।  
+    
+७६।०३च् सञ्छाद्य पत्रैः प्रहरद्वयेन  
+    
+७६।०३द् प्रक्षालितं कार्ष्ण्यम् उपैति शीर्षम्॥  
+    
+७६।०४अ पश्चात्^शिरःस्नान^सुगन्ध^तैलैर्  
+    
+७६।०४ब् लोह^अम्ल^गन्धं शिरसो +अपनीय।  
+    
+७६।०४च् हृद्यैश् च गन्धैर् विविधैश् च धूपैर्  
+    
+७६।०४द् अन्तःपुरे राज्यसुखं निषेवेत्॥  
+    
+७६।०५अब्। त्वक्^कुष्ठ^रेणु^नलिका^स्पृक्का^रस^तगर^बालकैस् तुल्यैः।  
+    
+७६।०५च्द्। केसर^पत्र^विमिश्रैर् नरपति^योग्यं शिरःस्नानम्॥  
+    
+७६।०६अब्। मञ्जिष्ठया व्याघ्रनखेन शुक्त्या त्वचा सकुष्ठेन रसेन चूर्णः।  
+    
+७६।०६च्द्। तैलेन युक्तो +अर्कमयूख^तप्तः करोति तच् चम्पक^गन्धि तैलम्॥  
+    
+७६।०७अ तुल्यैः पत्र^तुरुष्क^बाल^तगरैर् गन्धः स्मरोद्दीपनः  
+    
+७६।०७ब् सव्यामो बकुलो +अयम् एव कटुका^हिङ्गु^प्रधूप^अन्वितः।  
+    
+७६।०७च् कुष्ठेन^उत्पलगन्धिकः समलयः पूर्वो भवेच् चम्पको  
+    
+७६।०७द् जाती^त्वक्^सहितो +अतिमुक्तक इति ज्ञेयः सकुस्तुम्बुरुः॥  
+    
+७६।०८अब्। शतपुष्पा^कुन्दुरुकौ पादेन^अर्धेन नख^तुरुष्कौ च।  
+    
+७६।०८च्द्। मलय^प्रियङ्गु^*भागौ[क्ऽस् त्र्। भागो] गन्धो धूप्यो गुड^नखेन॥  
+    
+७६।०९अब्। गुग्गुलु^बालक[क्।वालक]^लाक्षा^मुस्ता^नख^शर्कराः क्रमाद् धूपः।  
+    
+७६।०९च्द्। अन्यो मांसी^बालक[क्।वालक]^तुरुष्क^नख^चन्दनैः पिण्डः॥  
+    
+७६।१०अ हरीतकी^शङ्ख^घन^द्रव^अम्बुभिर्  
+    
+७६।१०ब् गुड^उत्पलैः शैलक^मुस्तक^अन्वितैः।  
+    
+७६।१०च् नवान्त^पाद^आदि^विवर्धितैः क्रमाद्  
+    
+७६।१०द् भवन्ति धूपा बहवो मनोहराः॥  
+    
+७६।११अ भागैश् चतुर्भिः सित^शैल[उ।शैलेय]^मुस्ताः  
+    
+७६।११ब् श्री^सर्ज^भागौ नख^गुग्गुलू च।  
+    
+७६।११च् कर्पूर^बोधो मधु^पिण्डितो +अयं  
+    
+७६।११द् कोपच्छदो नाम नरेन्द्रधूपः॥  
+    
+७६।१२अब्। त्वग्^उशीर^पत्र^भागैः सूक्ष्मैला^अर्धेन संयुतैश् चूर्णः।  
+    
+७६।१२च्द्। पुटवासः[क्।पटवासः] प्रवरो +अयं मृग^कर्पूर^प्रबोधेन॥  
+    
+७६।१३अब्। घन^बालक^शैलेयक^कर्पूर^उशीर^नागपुष्पाणि।  
+    
+७६।१३च्द्। व्याघ्रनख^स्पृक्का^अगुरु^*दमनक[उ।मदनक]^नख^तगर^धान्यानि॥  
+    
+७६।१४अब्। कर्पूर[क्ऽस् त्र्। कर्चूर]^चोल[क्।चोर]^मलयैः स्वेच्छापरिवर्तितैश् चतुर्भिर् अतः।  
+    
+७६।१४च्द्। एकद्वित्रिचतुर्भिर् भागैर् गन्धार्णवो भवति॥  
+    
+७६।१५अब्। अत्युल्बणगन्ध^त्वाद् एकांशो नित्यम् एव धान्यानाम्।  
+    
+७६।१५च्द्। कर्पूरस्य तदूनो नैतौ द्वित्र्यादिभिर् देयौ॥  
+    
+७६।१६अब्। श्री^सर्ज^गुड^नखैस् ते धूपयितव्याः क्रमान् न पिण्डस्थैः।  
+    
+७६।१६च्द्। बोधः कस्तूरिकया देयः कर्पूर^संयुतया॥  
+    
+७६।१७अब्। अत्र सहस्र^चतुष्टयम् अन्यानि च सप्तति^सहस्राणि।  
+    
+७६।१७च्द्। लक्षं शतानि सप्त विंशति^युक्तानि गन्धानाम्॥  
+    
+७६।१८अब्। एकैकम् एकभागं द्वि^त्रि^चतुर्^भागिकैर् युतं द्रव्यैः।  
+    
+७६।१८च्द्। षड्^गन्ध^करं तद्वद् द्वि^त्रि^चतुर्^भागिकं कुरुते॥  
+    
+७६।१९अब्। द्रव्य^चतुष्टय^योगाद् गन्ध^चतुर्विंशतिर् यथा^एकस्य।  
+    
+७६।१९च्द्। एवं शेषाणाम् अपि षण्णवतिः सर्वपिण्डो +अत्र॥  
+    
+७६।२०अब्। षोडशके द्रव्यगणे चतुर्विकल्पेन भिद्यमानानाम्।  
+    
+७६।२०च्द्। अष्टादश जायन्ते शतानि सहितानि विंशत्या॥  
+    
+७६।२१अब्। षण्णवति^भेदभिन्नश् चतुर्^विकल्पो गणो यतस् तस्मात्।  
+    
+७६।२१च्द्। षण्णनवति^गुणः कार्यः सा सङ्ख्या भवति गन्धानाम्॥  
+    
+७६।२२अ पूर्वेण पूर्वेण गतेन युक्तं  
+    
+७६।२२ब् स्थानं विनान्त्यं प्रवदन्ति सङ्ख्याम्।  
+    
+७६।२२च् इच्छाविकल्पैः क्रमशो +अभिनीय  
+    
+७६।२२द् नीते निवृत्तिः पुनर् अन्यनीतिः॥  
+    
+७६।२३अब्। द्वि^त्रि^इन्द्रिय^अष्टभागैर् अगुरुः पत्रं तुरुष्क^शैलेयौ  
+    
+७६।२३च्द्। विषय^अष्ट^पक्ष^दहनाः प्रियङ्गु^मुस्ता^रसाः केशः॥  
+    
+७६।२४अब्। स्पृक्का^त्वक्^तगराणां मांस्याश् च कृत^एक^सप्त^षड्^भागाः।  
+    
+७६।२४च्द्। सप्त^ऋतु^वेद^चन्द्रैर् मलय^नख^श्रीक^कुन्दुरुकाः॥  
+    
+७६।२५अब्। षोडशके कच्छपुटे यथा तथा *मिश्रिते चतुर्द्रव्ये[क्।मिश्रितैश् चतुर्द्रव्यैः]।  
+    
+७६।२५च्द्। ये +अत्र^अष्टादश भागास् ते +अस्मिन् गन्धादयो योगाः॥  
+    
+७६।२६अब्। नख^तगर^तुरुष्क^युता जाती^कर्पूर^मृग^कृत^उब्दोधाः[उ।उद्बोधाः]।  
+    
+७६।२६च्द्। गुड^नख^धूप्या गन्धाः कर्तव्याः सर्वतोभद्राः॥  
+    
+७६।२७अब्। जातीफल^मृग^कर्पूर^बोधितैः स^सहकार^मधु^सिक्तैः।  
+    
+७६।२७च्द्। बहवो +अत्र पारिजाताश् चतुर्भिर् इच्छापरिगृहीतैः॥  
+    
+७६।२८अब्। सर्ज^रस^श्रीवासक^समन्विता ये +अत्र सर्व^धूपास्[क्।सर्वयोगास्] तैः।  
+    
+७६।२८च्द्। श्री^सर्ज^रस^वियुक्तैः स्नानानि सबालक[क्।सवालक]त्वग्भिः॥  
+    
+७६।२९अब्। रोध्र^उशीर^नत^अगुरु^*मुस्ता^पत्र[क्।मुस्ता]^प्रियङ्गु^वन^पथ्याः।  
+    
+७६।२९च्द्। नवकोष्ठात् कच्छपुटाद् द्रव्यत्रितयं समुद्धृत्य॥  
+    
+७६।३०अब्। चन्दन^तुरुष्क^भागौ शुक्त्य्^अर्धं पादिका तु शतपुष्पा।  
+    
+७६।३०च्द्। कटु^हिङ्गुल^गुड^धूप्याः केसरगन्धाश् चतुरशीतिः॥  
+    
+७६।३१अब्। सप्ताहं गोमूत्रे हरीतकी^चूर्ण^संयुते क्षिप्त्वा।  
+    
+७६।३१च्द्। गन्धोदके च भूयो विनिक्षिपेद् दन्तकाष्ठानि॥  
+    
+७६।३२अब्। एला^त्वक्^पत्र^अञ्जन^मधु^मरिचैर् नागपुष्प^कुष्ठैश् च।  
+    
+७६।३२च्द्। गन्धाम्भः कर्तव्यं किञ् चित् कालं स्थितान्य् अस्मिन्॥  
+    
+७६।३३अब्। जातीफल^पत्र^एला^कर्पूरैः कृत^यम^एक^शिखि^भागैः।  
+    
+७६।३३च्द्। अवचूर्नितानि भानोर् मरीचिभिः शोषणीयानि॥  
+    
+७६।३४अ वर्ण^प्रसादं वदनस्य कान्तिं  
+    
+७६।३४ब् वैशद्यम् आस्यस्य सुगन्धितां च।  
+    
+७६।३४च् संसेवितुः श्रोत्रसुखां च वाचं  
+    
+७६।३४द् कुर्वन्ति काष्ठान्य् असकृद्भवानाम्॥  
+    
+७६।३५अ कामं प्रदीपयति रूपम् अभिव्यनक्ति  
+    
+७६।३५ब् सौभाग्यम् आवहति वक्त्र^सुगन्धितां च।  
+    
+७६।३५च् ऊर्जं करोति कफजांश् च निहन्ति रोगांस्  
+    
+७६।३५द् ताम्बूलम् एवम् अपरांश् च गुणान् करोति॥  
+    
+७६।३६अ युक्तेन चूर्णेन करोति रागं  
+    
+७६।३६ब् राग^क्षयं पूगफल^अतिरिक्तम्।  
+    
+७६।३६च् चूर्ण^अधिकं वक्त्र^विगन्ध^कारि  
+    
+७६।३६द् पत्र^अधिकं साधु करोति गन्धम्॥  
+    
+७६।३७अ पत्र^अधिकं निशि हितं सफलं दिवा च  
+    
+७६।३७ब् प्रोक्तान्य् अथाकरणम् अस्य विडम्बनैव।  
+    
+७६।३७च् कक्कोल^पूग^लवलीफल^पारिजातैर्  
+    
+७६।३७द् आमोदितं मदमुदा मुदितं करोति॥
+
+                   ७७ स्त्रीपुंससमायोगाध्यायः
+
+७७।०१अब्। शस्त्रेन वेणी^विनिगूहितेन विदूरथं स्वा महिषी जघान।  
+    
+७७।०१च्द्। विष^प्रदिग्धेन च नूपुरेण देवी विरक्ता किल काशिराजम्॥  
+    
+७७।०२अ एवं विरक्ता जनयन्ति दोषान्  
+    
+७७।०२ब् प्राणच्छिदो +अन्यैर् अनुकीर्तितैः किम्।  
+    
+७७।०२च् रक्ताविरक्ताः पुरुषैर् अतो +अर्थात्  
+    
+७७।०२द् परीक्षितव्याः प्रमदाः प्रयत्नात्॥  
+    
+७७।०३अ स्नेहं मनोभवकृतं कथयन्ति भावा  
+    
+७७।०३ब् नाभी^भुज^स्तन^विभूषण^दर्शनानि।  
+    
+७७।०३च् वस्त्र^अभिसंयमन^केश^विमोक्षणानि  
+७७।०३द् भ्रूक्षेप^कम्पित^कटाक्ष^निरीक्षणानि॥  
+    
+७७।०४अ उच्चैः ष्ठीवनम् उत्कट^प्रहसितं शय्या^आसन^उत्सर्पणं  
+    
+७७।०४ब् गात्र^आस्फोटन^जृम्भणानि सुलभ^द्रव्य^अल्प^सम्प्रार्थना।  
+    
+७७।०४च् बाल^आलिङ्गन^चुम्बनान्य् अभिमुखे सख्याः समालोकनं  
+    
+७७।०४द् दृक्पातश् च पराङ्मुखे गुणकथा कर्णस्य कण्डूयनम्॥  
+    
+७७।०५अ इमां च विन्द्याद् अनुरक्तचेष्टां  
+    
+७७।०५ब् प्रियाणि वक्ति स्वधनं ददाति।  
+    
+७७।०५च् विलोक्य संहृष्यति वीतरोषा  
+    
+७७।०५द् प्रमार्ष्टि दोषान् गुणकीर्तनेन॥  
+    
+७७।०६अ तन्मित्रपूजा तदरिद्विषत्वं  
+    
+७७।०६ब् कृतस्मृतिः प्रोषित^दौर्मनस्यम्।  
+    
+७७।०६च् स्तन^ओष्ठ^दानान्य् उपगूहनं च  
+    
+७७।०६द् स्वेदो +अथ चुम्बा^प्रथम^अभियोगः॥  
+    
+७७।०७अ विरक्त^चेष्टा भ्रुकुटी[क्।भृकुटी]^मुखत्वं  
+    
+७७।०७ब् पराङ्मुखत्वं कृतविस्मृतिश् च।  
+    
+७७।०७च् असम्भ्रमो दुष्परितोषता च  
+    
+७७।०७द् तद्द्विष्ट^मैत्री परुषं च वाक्यम्॥  
+    
+७७।०८अ स्पृष्ट्वा^अथ वा^आलोक्य धुनोति गात्रं  
+    
+७७।०८ब् करोति गर्वं न रुणद्धि यान्तम्।  
+    
+७७।०८च् चुम्बा^विरामे वदनं प्रमार्ष्टि  
+    
+७७।०८द् पश्चात् समुत्तिष्ठति पूर्वसुप्ता॥  
+    
+७७।०९अब्। भिक्षुणिका प्रव्रजिता दासी धात्री कुमारिका रजिका।  
+    
+७७।०९च्द्। मालाकारी दुष्टाङ्गना सखी नापिती दूत्यः॥  
+    
+७७।१०अब्। कुलजन^विनाश^हेतुर् दूत्यो यस्माद् अतः प्रयत्नेन।  
+    
+७७।१०च्द्। ताभ्यः स्त्रियो +अभिरक्ष्या वंश^यशो^मान^वृद्ध्य्^अर्थम्॥  
+    
+७७।११अब्। रात्री^विहार^जागर^रोग^व्यपदेश^परगृह^ईक्षणिकाः।  
+    
+७७।११च्द्। व्यसन^उत्सवाश् च सङ्केत^हेतवस् तेषु रक्ष्याश् च॥  
+    
+७७।१२अ आदौ न^इच्छति न^उज्झति स्मरकथां व्रीडा^विमिश्र^आलसा  
+    
+७७।१२ब् मध्ये ह्री^परिवर्जित^अभ्युपरमे लज्जा^विनम्र^आनना।  
+    
+७७।१२च् भावैर् न^एकविधैः करोत्य् अभिनयं भूयश् च या सादरा  
+    
+७७।१२द् बुद्ध्वा पुम्प्रकृतिं च या^अनुचरति ग्लानेतरैश् चेष्टितैः॥  
+    
+७७।१३अ स्त्रीणां गुणा यौवन^रूप^वेष^  
+    
+७७।१३ब् दाक्षिण्य^विज्ञान^विलास^पूर्वाः।  
+    
+७७।१३च् स्त्री रत्नसञ्ज्ञा च गुण^अन्वितासु  
+    
+७७।१३द् स्त्री^व्याधयो +अन्याश् चतुरस्य पुंसः॥  
+    
+७७।१४अ न ग्राम्य^वर्णैर् मलदिग्धकाया  
+    
+७७।१४ब् निन्द्याङ्ग^सम्बन्धि^कथां च कुर्यात्।  
+    
+७७।१४च् न च^अन्यकार्य^स्मरणं रहःस्था  
+    
+७७।१४द् मनो हि मूलं हरदग्धमूर्तेः॥  
+    
+७७।१५अब्। श्वासं मनुष्येण समं त्यजन्ती बाहु^उपधान^स्तन^दान^दक्षा।  
+    
+७७।१५च्द्। सुगन्ध^केशा सुसमीप^रागा सुप्ते +अनुसुप्ता प्रथमं विबुद्धा॥  
+    
+७७।१६अब्। दुष्ट^स्वभावाः परिवर्जनीया विमर्द^कालेषु च न क्षमा याः।  
+    
+७७।१६च्द्। यासाम् असृग्^वा^असित^नील^पीतम् आताम्रवर्णं च न ताः प्रशस्ताः॥  
+    
+७७।१७अब्। या स्वप्नशीला बहु^रक्त^पित्ता प्रवाहिनी वात^कफ^अतिरक्ता[क्।अतिरिक्ता]।  
+    
+७७।१७च्द्। महाशना स्वेदयुताङ्गदुष्ठा या ह्रस्वकेशी पलितान्विता वा[क्।च]॥  
+    
+७७।१८अ मांसानि यस्याश् च चलन्ति नार्या  
+    
+७७।१८ब् महोदरा खिक्खिमिनी च या स्यात्॥  
+    
+७७।१८च् स्त्रीलक्षणे याः कथिताश् च पापास्  
+    
+७७।१८द् ताभिर् न कुर्यात् सह कामधर्मम्॥  
+    
+७७।१९अब्। शश^शोणित^सङ्काशं लाक्षा^रस^सन्निकाशम् अथ^वा यत्।  
+    
+७७।१९च्द्। प्रक्षालितं विरज्यति यच् च^असृक् तद् भवेत्^शुद्धम्॥  
+    
+७७।२०अब्। यच् छब्द^वेदना^वर्जितं त्र्यहात् सन्निवर्तते रक्तम्।  
+    
+७७।२०च्द्। तत् पुरुष^सम्प्रयोगाद् अविचारं गर्भतां याति॥  
+    
+७७।२१अब्। न दिनत्रयं निषेव्यं[क्।निषेवेत्] स्नानं माल्य^अनुलेपनं *स्त्रीभिः[क्।च स्त्री]।  
+    
+७७।२१च्द्। स्नायाच् चतुर्थ^दिवसे शास्त्र^उक्तेन^उपदेशेन॥  
+    
+७७।२२अब्। पुष्यस्नान^ओषधयो याः कथितास् ताभिर् अम्बु^मिश्राभिः।  
+    
+७७।२२च्द्। स्नायात् तथात्र मन्त्रः स एव यस् तत्र निर्दिष्टः॥  
+    
+७७।२३अब्। युग्मासु किल मनुष्या निशासु नार्यो भवन्ति विषमासु।  
+    
+७७।२३च्द्। दीर्घायुषः सुरूपाः सुखिनश् च विकृष्ट^युग्मासु॥  
+    
+७७।२४अब्। दक्षिण^पार्श्वे पुरुषो वामे नारी यमाव् उभयसंस्थौ॥  
+    
+७७।२४च्द्। यद् उदरमध्य^उपगतं नपुंसकं तन् निबोद्धव्यम्॥  
+    
+७७।२५अ केन्द्र^त्रिकोणेषु शुभस्थितेषु  
+    
+७७।२५ब् लग्ने शशाङ्के च शुभैः समेते।  
+    
+७७।२५च् पापैस् त्रिलाभारिगतैश् च यायात्  
+    
+७७।२५द् पुञ्जन्मयोगेषु च सम्प्रयोगम्॥  
+    
+७७।२६अ न नखदशनविक्षतानि कुर्याद्  
+    
+७७।२६ब् ऋतुसमये पुरुषः स्त्रियाः कथञ् चित्।  
+    
+७७।२६च् ऋतुर् अपि दश षट् च वासराणि  
+    
+७७।२६द् प्रथम^निशात्रितयं न तत्र गम्यम्॥
+
+                   ७८ शय्यासनलक्षणाध्यायः
+
+७८।०१अब्। सर्वस्य सर्वकालं यस्माद् उपयोगम् एति शास्त्रम् इदम्।  
+    
+७८।०१च्द्। राज्ञां विशेषतो +अतः शयन^आसन^लक्षणं वक्ष्ये॥  
+    
+७८।०२अब्। असन^स्पन्दन^चन्दन^हरिद्र^सुरदारु^तिन्दुकी^शालाः।  
+    
+७८।०२च्द्। काश्मर्य्^अञ्जन^पद्मक^शाका वा शिंशपा च शुभाः॥  
+    
+७८।०३अब्। अशनि^जल^अनिल^हस्ति^प्रपातिता मधु^विहङ्ग^कृत^निलयाः।  
+    
+७८।०३च्द्। चैत्य^श्मशान^पथिज^ऊर्ध्वशुष्क^वल्ली^निबद्धाश् च॥  
+    
+७८।०४अब्। कण्टकिनो *ये च[क्।वा ये] स्युर् महानदी^सङ्गम^उद्भवा ये च।  
+    
+७८।०४च्द्। सुरभवनजाश् च न शुभा ये च^अपर^याम्य^दिक्^पतिताः॥  
+    
+७८।०५अब्। प्रतिषिद्ध^वृक्ष^निर्मित^शयन^आसन^सेवनात् कुल^विनाशः।  
+    
+७८।०५च्द्। व्याधि^भय^व्यय^कलहा भवन्त्य् अनर्था[क्।अनर्थाश् च] अनेकविधाः॥  
+    
+७८।०६अब्। पूर्वच्छिन्नं यदि वा दारु भवेत् तत् परीक्ष्यम् आरम्भे।  
+    
+७८।०६च्द्। यद्य् आरोहेत् तस्मिन् कुमारकः पुत्र^पशु^दं तत्॥  
+    
+७८।०७अब्। सितकुसुम^मत्त^वारण^दध्य्^अक्षत^पूर्णकुम्भ^रत्नानि।  
+    
+७८।०७च्द्। मङ्गल्यान्य् अन्यानि च दृष्ट्वा^आरम्भे शुभं ज्ञेयम्॥  
+    
+७८।०८अब्। कर्माङ्गुलं यव^अष्टकम् उदर^आसक्तं तुषैः परित्यक्तम्।  
+    
+७८।०८च्द्। अङ्गुलशतं नृपाणां महती शय्या जयाय कृता॥  
+    
+७८।०९अब्। नवतिः सैव षडूना द्वादशहीना त्रिषट्कहीना च।  
+    
+७८।०९च्द्। नृप^पुत्र^मन्त्रि^बलपति^पुरोधसां स्युर् यथा^सङ्ख्यम्॥  
+    
+७८।१०अब्। अर्धम् अतो +अष्टांशोनं विष्कम्भो विश्वकर्मणा प्रोक्तः।  
+    
+७८।१०च्द्। आयाम^त्र्यंश^समः पाद^उच्छ्रायः सकुक्ष्य[क्।सकुक्षि]शिराः॥  
+    
+७८।११अब्। यः सर्वः श्रीपर्ण्या पर्यङ्को निर्मितः स धनदाता।  
+    
+७८।११च्द्। असनकृतो रोगहरस् तिन्दुकसारेण वित्तकरः॥  
+    
+७८।१२अब्। यः केवलशिंशपया विनिर्मितो बहुविधं स वृद्धिकरः।  
+    
+७८।१२च्द्। चन्दनमयो रिपुघ्नो धर्म^यशो^दीर्घ^जीवित^कृत्॥  
+    
+७८।१३अब्। यः पद्मक^पर्यङ्कः स दीर्घम् आयुः श्रियं श्रुतं वित्तम्।  
+    
+७८।१३च्द्। कुरुते शालेन कृतः कल्याणं शाकरचितश् च॥  
+    
+७८।१४अब्। केवल^चन्दन^रचितं काञ्चन^गुप्तं विचित्र^रत्न^युतम्।  
+    
+७८।१४च्द्। अध्यासन् पर्यङ्कं विबुधैर् अपि पूज्यते नृपतिः॥  
+    
+७८।१५अब्। अन्येन समायुक्ता न तिन्दुकी शिंशपा च शुभफलदा।  
+    
+७८।१५च्द्। न *श्रीपर्णेन[क्।श्रीपर्णी न] च देवदारुवृक्षो न च^अप्य् असनः॥  
+    
+७८।१६अब्। शुभदौ तु शाल^शाकौ[क्।शाकशालौ] परस्परं संयुतौ पृथक् च^एव।  
+    
+७८।१६च्द्। तद्वत् पृथक् प्रशस्तौ सहितौ च हरिद्रक^कदम्बौ॥  
+    
+७८।१७अब्। सर्वः स्पन्दन^रचितो न शुभः प्राणान् हिनस्ति च^अम्बकृतः।  
+    
+७८।१७च्द्। असनो +अन्य^दारु^सहितः क्षिप्रं दोषान् करोति बहून्॥  
+    
+७८।१८अब्। अम्ब^स्पन्दन^चन्दन^वृक्षाणां स्पन्दनात्^शुभाः पादाः।  
+    
+७८।१८च्द्। फल^तरुणा शयनासनम् इष्टफलं भवति सर्वेण॥  
+    
+७८।१९अब्। गज^दन्तः सर्वेषां प्रोक्त^तरूणां प्रशस्यते योगे।  
+    
+७८।१९च्द्। कार्यो +अलङ्कारविधिर् गज^दन्तेन प्रशस्तेन॥  
+    
+७८।२०अब्। दन्तस्य मूलपरिधिं द्विरायतं प्रोह्य कल्पयेत्^शेषम्।  
+    
+७८।२०च्द्। अधिकम् अनूपचराणां न्यूनं गिरिचारिणां किञ् चित्॥  
+    
+७८।२१अब्। *श्रीवृक्ष[क्।श्रीवत्स]^वर्धमान^च्छत्र^ध्वज^चामर^अनुरूपेषु।  
+    
+७८।२१च्द्। छेदे दृष्टेष्व् आरोग्य[क्।अरोग्य]^विजय^धन^वृद्धि^सौख्यानि॥  
+    
+७८।२२अब्। प्रहरण^सदृशेषु जयो नन्द्यावर्ते प्रनष्ट^देश^आप्तिः।  
+    
+७८।२२च्द्। लोष्ठे[क्।ऊ।लोष्टे] तु लब्धपूर्वस्य भवति देशस्य सम्प्राप्तिः॥  
+    
+७८।२३अब्। स्त्रीरूपे धननाशो[क्।स्वविनाशो] भृङ्गारे +अभ्युत्थिते सुत^उत्पत्तिः।  
+७८।२३च्द्। कुम्भेन निधिप्राप्तिर् यात्राविघ्नं च दण्डेन॥  
+    
+७८।२४अब्। कृकलास^कपि^भुजङ्गेष्व् असुभिक्ष^व्याधयो रिपु^*वशित्वम्[क्।वशत्वम्]।  
+    
+७८।२४च्द्। गृध्र^उलूक^ध्वाङ्क्ष^श्येन^आकारेषु जनमरकः॥  
+    
+७८।२५अब्। पाशे +अथ वा कबन्धे नृप^मृत्युर् जनविपत् स्रुते रक्ते।  
+    
+७८।२५च्द्। कृष्णे श्यावे रूक्षे दुर्गन्धे चाशुभं भवति॥  
+    
+७८।२६अब्। शुक्लः समः सुगन्धिः स्निग्धश् च शुभावहो भवेच् छेदः।  
+    
+७८।२६च्द्। अशुभ^शुभच्छेदा ये शयनेष्व् अपि ते तथा फलदाः॥  
+    
+७८।२७अब्। ईषायोगे दारु प्रदक्षिण^अग्रं प्रशस्तम् आचार्यैः।  
+    
+७८।२७च्द्। अपसव्य^एकदिगग्रे भवति भयं भूत^सञ्जनितम्॥  
+    
+७८।२८अब्। एकेन^अवाक्शिरसा[क्।एकेनावाक्च्छिरसा] भवति हि पादेन पाद^वैकल्यम्।  
+    
+७८।२८च्द्। द्वाभ्यां न जीर्यते +अन्नं त्रिचतुर्भिः क्लेश^वध^बन्धाः॥  
+    
+७८।२९अब्। सुषिरे +अथ वा विवर्णे ग्रन्थौ पादस्य शीर्षगे व्याधिः।  
+    
+७८।२९च्द्। पादे कुम्भो यश् च ग्रन्थौ तस्मिन्न् उदररोगः॥  
+    
+७८।३०अब्। कुम्भ^अधस्ताज् जङ्घा तत्र कृतो जङ्घयोः करोति भयम्।  
+    
+७८।३०च्द्। तस्याश् च^आधरो +अधः क्षयकृद् द्रव्यस्य तत्र कृतः॥  
+    
+७८।३१अब्। खुरदेशे यो ग्रन्थिः खुरिणां पीडाकरः स निर्दिष्टः।  
+    
+७८।३१च्द्। ईषा^शीर्षण्योश् च त्रिभाग^संस्थो भवेन् न शुभः॥  
+    
+७८।३२अब्। निष्कुटम् अथ कोलाक्षं सूकरनयनं च वत्सनाभं च।  
+    
+७८।३२च्द्। कालकम् अन्यद् धुन्धुकम् इति कथितश् छिद्र^सङ्क्षेपः॥  
+    
+७८।३३अब्। घटवत् सुषिरं मध्ये सङ्कटम् आस्ये च निष्कुटं छिद्रम्।  
+    
+७८।३३च्द्। निष्पाव^माषमात्रं नीलं छिद्रं च कोलाक्षम्॥  
+    
+७८।३४अब्। सूकरनयनं विषमं विवर्णम् अध्यर्ध^पर्व^दीर्घम् च।  
+    
+७८।३४च्द्। वामावर्तं भिन्नं पर्वमितं वत्सनाभ^आख्यम्॥  
+    
+७८।३५अब्। कालकसञ्ज्ञं कृष्णं धुन्धुकम् इति यद् भवेद् विनिर्भिन्नम्।  
+    
+७८।३५च्द्। दारुसवर्णं छिद्रं न तथा पापं समुद्दिष्टम्॥  
+    
+७८।३६अब्। निष्कुट^सण्ज्ञे द्रव्यक्षयस् तु कोलेक्षणे कुल^ध्वंसः।  
+    
+७८।३६च्द्। शस्त्र^भयं सूकरके रोगभयं वत्सनाभाख्ये॥  
+    
+७८।३७अब्। कालक^धुन्धुक^सञ्ज्ञं कीटैर् विद्धं च न शुभदं छिद्रम्।  
+    
+७८।३७च्द्। सर्वं ग्रन्थिप्रचुरं सर्वत्र न शोभनं दारु॥  
+    
+७८।३८अब्। एकद्रुमेण धन्यं वृक्ष^द्वय^निर्मितं च धन्यतरम्।  
+    
+७८।३८च्द्। त्रिभिर् आत्मज^वृद्धिकरं चतुर्भिर् अर्थं[क्।अर्थो] यशश् चाग्र्यम्॥  
+    
+७८।३९अब्। पञ्च^वनस्पति^रचिते पञ्चत्वं याति तत्र यः शेते।  
+    
+७८।३९च्द्। षट्सप्ताष्टतरूणां काष्ठैर् घटिते कुलविनाशः॥
+
+                   ७९ रत्नपरीक्षाध्यायः
+
+७९।०१अब्। रत्नेन शुभेन शुभं भवति नृपाणाम् अनिष्टम् अशुभेन।  
+    
+७९।०१च्द्। यस्माद् अतः परीक्ष्यं दैवं रत्नाश्रितम् तज्ज्ञैः॥  
+    
+७९।०२अब्। द्विप^हय^वनिता^आदीनां स्वगुणविशेषेण रत्नशब्दो +अस्ति।  
+    
+७९।०२च्द्। इह तु^उपलरत्नानाम् अधिकारो वज्रपूर्वाणाम्॥  
+    
+७९।०३अब्। रत्नानि बलाद् दैत्याद् दधीचितो +अन्ये वदन्ति जातानि।  
+    
+७९।०३च्द्। के चिद् भुवः स्वभावाद् वैचित्र्यं प्राहुर् उपलानाम्॥  
+    
+७९।०४अब्। वज्र^इन्द्रनील^मरकत^कर्केतर^पद्मराग^रुधिर^आख्याः।  
+    
+७९।०४च्द्। वैदूर्य[क्।वैडूर्य]^पुलक^विमलक^राजमणि^स्फतिक^शशिकान्ताः॥  
+    
+७९।०५अब्। सौगन्धिक^गोमेदक^शङ्ख^महानील^पुष्पराग^आख्याः।  
+    
+७९।०५च्द्। ब्रह्ममणि^ज्योतीरस^सस्यक^मुक्ता^प्रवालानि॥  
+    
+७९।०६अब्। वेणा^तटे विशुद्धं शिरीषकुसुम*प्रभं[क्।उपमम्] च कौशलकम्।  
+    
+७९।०६च्द्। सौराष्ट्रकम् आताम्रं कृष्णं सौर्पारकं वज्रम्॥  
+    
+७९।०७अब्। ईषत्^ताम्रं हिमवति मतङ्गजं वल्लपुष्पसङ्काशम्।  
+    
+७९।०७च्द्। आपीतं च कलिङ्गे श्यामं पौण्ड्रेषु सम्भूतम्॥  
+    
+७९।०८अब्। ऐन्द्रं षडश्रि शुक्लं याम्यं सर्प^आस्य^रूपम् असितं च।  
+    
+७९।०८च्द्। कदली^काण्ड^निकाशं वैष्णवम् इति सर्व^संस्थानम्॥  
+    
+७९।०९अब्। वारुणम् अबला^गुह्य^उपमं भवेत् कर्णिकार^पुष्प^निभम्।  
+    
+७९।०९च्द्। शृङ्गाटक^संस्थानं व्याघ्र^अक्षि^निभं च हौतभुजम्॥  
+    
+७९।१०अब्। वायव्यं च यव^उपमम् अशोक^कुसुम^प्रभं समुद्दिष्टम्।  
+    
+७९।१०च्द्। स्रोतः खनिः प्रकीर्णकम् इत्य् आकर^सम्भवस् त्रिविधः॥  
+    
+७९।११अब्। रक्तं पीतं च शुभम् राजन्यानाम् सितम् द्विजातीनाम्।  
+    
+७९।११च्द्। शैरीषं वैश्यानां शूद्राणां शस्यते +असिनिभम्॥  
+    
+७९।१२अब्। सितसर्षप^अष्टकं तण्डुलो भवेत् तण्डुलैस् तु विंशत्या।  
+    
+७९।१२च्द्। तुलितस्य द्वे लक्षे मूल्यं द्विद्व्यूनिते चैतत्॥  
+    
+७९।१३अब्। पाद^त्र्यंश^अर्ध^ऊनं त्रिभाग^पञ्चांश^षोडश^अंशाश् च।  
+    
+७९।१३च्द्। भागश् च पञ्चविंशः शतिकस् साहस्रिकश् च^इति॥  
+    
+७९।१४अब्। सर्व^द्रव्य^आभेद्यं लघ्व् अम्भसि तरति रश्मिवत् स्निघ्दम्।  
+    
+७९।१४च्द्। तडिद्^अनल^शक्रचाप^उपमं च वज्रं हिताय^उक्तम्॥  
+    
+७९।१५अब्। काकपद^मक्षिका^केश^धातु^युक्तानि शर्करैर्[क्।शर्करा] विद्धम्।  
+    
+७९।१५च्द्। द्विगुणाश्रि दग्ध[क्।दिग्ध]^कलुष^त्रस्त^विशीर्णानि न शुभानि॥  
+    
+७९।१६अब्। यानि च बुद्बुद^दलित^अग्र^चिपिट^वासीफल^प्रदीर्घाणि।  
+    
+७९।१६च्द्। सर्वेषां चैतेषां मूल्याद् भागो +अष्टमो हानिः॥  
+    
+७९।१७अ वज्रं न किञ् चिद् अपि धारयितव्यम् एके  
+    
+७९।१७ब् पुत्र^अर्थिनीभिर् अबलाभिर् उशन्ति तज्ज्ञाः।  
+    
+७९।१७च् शृङ्गाटक^त्रिपुट^धान्यकवत् स्थितं यच्  
+    
+७९।१७द् श्रोणीनिभं च शुभदं तनय^अर्थिनीनाम्॥  
+    
+७९।१८अब्। स्वजन^विभव^जीवित^क्षयं जनयति वज्रम् अनिष्ट^लक्षणम्।  
+    
+७९।१८च्द्। अशनि^विष^भय^अरिनाशनम् शुभम् उपभोग^करं[क्।उरु^भोगकर] च भूभृताम्॥
+
+                   ८० मुक्तालक्षणाध्यायः
+
+८०।०१अब्। द्विप^भुजग^शुक्ति^शङ्ख^अभ्र^वेणु^तिमि^सूकर^प्रसूतानि।  
+    
+८०।०१च्द्। मुक्ताफलानि तेषां बहुसाधु च शुक्तिजं भवति॥  
+    
+८०।०२अब्। सिंहलक^पारलौकिक^सौराष्ट्रिक^ताम्रपर्णि^पारशवाः।  
+    
+८०।०२च्द्। कौबेर^पाण्ड्यवाटक^हैमा इत्य् आकरास् त्व्[क्।ह्य्] अष्टौ॥  
+    
+८०।०३अब्। बहुसंस्थानाः स्निग्धाः[क्।स्निग्धा] हंसाभाः सिंहलाकराः स्थूलाः।  
+    
+८०।०३च्द्। ईषत्ताम्राः श्वेतास् तमोवियुक्ताश् च ताम्राख्याः॥  
+    
+८०।०४अब्। कृष्णाः श्वेताः पीताः सशर्कराः पारलौकिका विषमाः।  
+    
+८०।०४च्द्। न स्थूला नात्यल्पा नवनीत^निभाश् च सौराष्ट्राः॥  
+    
+८०।०५अब्। ज्योतिष्मत्यः[क्।मन्तः] शुभ्रा गुरवो +अतिमहागुणाश् च पारशवाः।  
+    
+८०।०५च्द्। लघु जर्जरं दधिनिभं *बृहद् द्विसंस्थानम्[क्।बृहद्विसंस्थानम्] अपि हैमम्॥  
+    
+८०।०६अब्। विषमम् कृष्ण^श्वेतं[क्।कृष्णम् श्वेतम्] लघु कौबेरं प्रमाण^तेजोवत्।  
+    
+८०।०६च्द्। निम्बफल^त्रिपुट^धान्यक^चूर्णाः स्युः पाण्ड्यवाटभवाः॥  
+    
+८०।०७अब्। अतसीकुसुम^श्यामम् वैष्णवम् ऐन्द्रं शशाङ्क^सङ्काशम्।  
+    
+८०।०७च्द्। हरिताल^निभं वारुणम् असितं यमदैवतं भवति॥  
+    
+८०।०८अब्। परिणत^दाडिम^गुलिका^गुञ्जा^ताम्रं च वायुदैवत्यम्।  
+    
+८०।०८च्द्। निर्धूम^अनल^कमल^प्रभं च विज्ञेयम् आग्नेयम्॥  
+    
+८०।०९अब्। माषक^चतुष्टय^धृतस्य^एकस्य शताहता त्रिपञ्चाशत्।  
+    
+८०।०९च्द्। कार्षापणा निगदिता मूल्यं तेजोगुणयुतस्य॥  
+    
+८०।१०अब्। माषक^दलहान्यातो द्वात्रिंश^द्विंशतिस् त्रयोदश च।  
+    
+८०।१०च्द्। अष्टौ च शतानि शतत्रयं त्रिपञ्चाशता सहितम्॥  
+    
+८०।११अब्। पञ्चत्रिंशं शतम् इति चत्वारः कृष्णला नवतिमूल्याः।  
+    
+८०।११च्द्। सार्धास् तिस्रो गुञ्जाः सप्ततिमूल्यं धृतं रूपम्॥  
+    
+८०।१२अब्। गुञ्जा^त्रयस्य मूल्यं पञ्चाशद् रूपका गुणयुतस्य।  
+    
+८०।१२च्द्। रूपक^पञ्च^त्रिंशत्^त्रयस्य गुञ्जा^अर्धहीनस्य॥  
+    
+८०।१३अब्। पलदशभागो धरणं तद् यदि मुक्तास् त्रयोदश सुरूपाः।  
+    
+८०।१३च्द्। *त्रिशती[उ।त्रिंशती] सपञ्चविंशा रूपकसङ्ख्या कृतं मूल्यम्॥  
+    
+८०।१४अब्। षोडशकस्य द्विशती विंशतिरूपस्य सप्ततिः सशता।  
+    
+८०।१४च्द्। यत्पञ्चविंशतिधृतं तस्य शतं त्रिंशता सहितम्॥  
+    
+८०।१५अब्। त्रिंशत्सप्ततिमूल्यं चत्वारिंशच्छतार्ध^मूल्यं[क्।मूल्या] च।  
+    
+८०।१५च्द्। षष्टिः पञ्चोना वा धरणम् पञ्च^अष्टकं मूल्यम्॥  
+    
+८०।१६अब्। मुक्ताशीत्या त्रिंशच्छतस्य सा पञ्चरूपकविहीना।  
+    
+८०।१६च्द्। द्वित्रिचतुःपञ्चशता द्वादशषट्पञ्चकत्रितयम्॥  
+    
+८०।१७अब्। पिक्का^पिच्चा^अर्घा^अर्धा रवकः सिक्थं त्रयोदश^आद्यानाम्।  
+    
+८०।१७च्द्। सञ्ज्णाः परतो निगराश् चूर्णाश् च^अशीतिपूर्वाणाम्॥  
+    
+८०।१८अब्। एतद्^गुणयुक्तानां धरण^धृतानां प्रकीर्तितं[क्।प्रकीतितम्] मूल्यम्।  
+    
+८०।१८च्द्। परिकल्प्यम् अन्तराले हीनगुणाणां क्षयः कार्यः॥  
+    
+८०।१९अब्। कृष्ण^श्वेतक^पीतक^ताम्राणाम् ईषद् अपि च विषमाणाम्।  
+    
+८०।१९च्द्। त्र्यंशोनम् विषमक^पीतयोश् च षड्भाग^दलहीनम्॥  
+    
+८०।२०अब्। ऐरावत^कुलजानां पुष्य^श्रवण^इन्दु^सूर्य^दिवसेषु।  
+    
+८०।२०च्द्। ये चोत्तरायणभवा ग्रहणे +अर्केन्द्वोश् च भद्रेभाः॥  
+    
+८०।२१अब्। तेषां किल जायन्ते मुक्ताः कुम्भेषु सरदकोशेषु।  
+    
+८०।२१च्द्। बहवो बृहत्प्रमाणा बहुसंस्थानाः प्रभायुक्ताः॥  
+    
+८०।२२अब्। नैषाम् अर्घः कार्यो न च वेधो +अतीव ते प्रभायुक्ताः।  
+    
+८०।२२च्द्। सुत^विजय^आरोग्य^करा महापवित्रा धृता राज्ञाम्॥  
+    
+८०।२३अब्। दंष्ट्रामूले शशिकान्तिसप्रभं बहुगुणं च वाराहम्।  
+    
+८०।२३च्द्। तिमिजं मत्स्य^अआक्षि^इभं बृहत् पवित्रं बहुगुणं च॥  
+    
+८०।२४अब्। वर्ष^उपलवज्जातं वायुस्कन्धाच् च सप्तमाद् भ्रष्टम्।  
+    
+८०।२४च्द्। ह्रियते किल खाद् दिव्यैस् तडित्^प्रभं मेघ^सम्भूतम्॥  
+    
+८०।२५अब्। तक्षक^वासुकि^कुलजाः कामगमा ये च पन्नगास् तेषाम्।  
+    
+८०।२५च्द्। स्निग्धा नीलद्युतयो भवन्ति मुक्ताः फणस्यान्ते॥  
+    
+८०।२६अब्। शस्ते +अवनिप्रदेशे रजतमये भाजने स्थिते च यदि।  
+    
+८०।२६च्द्। वर्षति देवो +अकस्मात् तज्ज्ञेयं नागसम्भूतम्॥  
+    
+८०।२७अब्। अपहरति विषमलक्ष्मीं क्षपयति शत्रून् यशो विकाशयति।  
+    
+८०।२७च्द्। भौजङ्गं नृपतीनां धृतम् अकृतार्घं विजयदं च॥  
+    
+८०।२८अब्। कर्पूर^स्फटिक^निभं चिपिटं विषमं च वेणुजं ज्ञेयम्।  
+    
+८०।२८च्द्। शङ्ख^उद्भवं शशिनिभं वृत्तं भ्राजिष्णु रुचिरं च॥  
+    
+८०।२९अब्। शङ्ख^तिमि^वेणु^वारण^वराह^भुजग^अभ्रजान्य् *अवैद्यानि[क्।अवैध्यानि ऊ।अवेद्यानि]।  
+    
+८०।२९च्द्। अमितगुणत्वाच् च^एषाम् अर्घः शास्त्रे न निर्दिष्टः॥  
+    
+८०।३०अ एतानि सर्वाणि महागुणानि  
+    
+८०।३०ब् सुता^अर्थ^सौभाग्य^यशस्^कराणि।  
+    
+८०।३०च् रुक्^शोक^हन्तॄणि च पार्थिवानां  
+    
+८०।३०द् मुक्ताफलानि^ईप्सित^कामदानि॥  
+८०।३१अब्। सुरभूषणं लतानां सहस्रम् अष्टोत्तरं चतुर्हस्तम्।  
+    
+८०।३१च्द्। इन्दुच्छन्दो[क्।इन्द्रच्छन्दो] नाम्ना विजयच्छन्दस् तदर्धेन॥  
+    
+८०।३२अब्। शतम् अष्टयुतं हारो देवच्छन्दो ह्य् अशीतिर् एकयुता।  
+    
+८०।३२च्द्। अष्टाष्टको +अर्धहारो रश्मिकलापश् च नवषट्कः॥  
+    
+८०।३३अब्। द्वात्रिंशता तु गुच्छो विंशत्या कीर्तितो +अर्धगुच्छाख्यः।  
+    
+८०।३३च्द्। षोडशभिर् माणवको द्वादशभिश् च^अर्धमाणवकः॥  
+    
+८०।३४अब्। मन्दरसञ्ज्ञो +अष्टाभिः पञ्चलता हारफलकम् इत्य् उक्तम्।  
+    
+८०।३४च्द्। सप्ताविंशतिमुक्ता हस्तो नक्षत्रमाला^इति॥  
+    
+८०।३५अब्। अन्तरमणिसंयुक्ता मणिसोपानं सुवर्णगुलिकैर् वा।  
+    
+८०।३५च्द्। तरलक^मणि^मध्यं तद्विज्ञेयं चाटुकारम् इति॥  
+    
+८०।३६अ एकावली नाम यथेष्ट^सङ्ख्या  
+    
+८०।३६ब् हस्तप्रमाणा मणि^विप्रयुक्ता।  
+    
+८०।३६च् संयोजिता या मणिना तु मध्ये  
+    
+८०।३६द् यष्टि^इति सा भूषणविद्भिर् उक्तम्॥
+
+                   ८१ पद्मरागलक्षणाद्यायः
+
+८१।०१अब्। सौगन्धिक^कुरुविन्द^स्फटिकेभ्यः पद्मराग^सम्भूतिः[क्ऽस् त्र्। पद्मरागो सम्भूतिः]।  
+    
+८१।०१च्द्। सौगन्धिकजा भ्रमर^अञ्जन^अब्ज^जम्बू^रस^द्युतयः॥  
+    
+८१।०२अब्। कुरुविन्द^भवाः शबला मन्द^द्युतयश् च धातुभिर् विद्धाः।  
+    
+८१।०२च्द्। स्फटिकभवा द्युतिमन्तो नानावर्णा विशुद्धाश् च॥  
+    
+८१।०३अब्। स्निग्धः प्रभानुलेपी स्वच्छो +अर्चिष्मान् गुरुः सुसंस्थानः।  
+    
+८१।०३च्द्। अन्तःप्रभो +अतिरागो[क्।अतिरागा] मणिरत्नगुणाः समस्तानाम्॥  
+    
+८१।०४अब्। कलुषा मन्दद्युतयो लेखाकीर्णाः सधातवः खण्डाः।  
+    
+८१।०४च्द्। दुर्विद्धा न मनोज्ञाः सशर्कराश् च^इति मणिदोषाः॥  
+    
+८१।०५अब्। भ्रमर^शिखि^कण्ठ^वर्णो दीप^शिखा^सप्रभो भुजङ्गानाम्।  
+    
+८१।०५च्द्। भवति मणिः किक मूर्धनि यो +अनर्घेयः स विज्ञेयः॥  
+    
+८१।०६अ यस् तं बिभर्ति मनुजाधिपतिर् न तस्य  
+    
+८१।०६ब् दोषा भवन्ति विष^रोग^कृताः कदा चित्।  
+    
+८१।०६च् राष्ट्रे च नित्यम् अभिवर्षति तस्य देवः  
+    
+८१।०६द् शत्रूंश् च नाशयति तस्य मणेः प्रभावात्॥  
+    
+८१।०७अब्। षड्विंशतिः सहस्राण्य् एकस्य मणेः पल^प्रमाणस्य।  
+    
+८१।०७च्द्। कर्ष^त्रयस्य विंशतिर् उपदिष्टा पद्मरागस्य॥  
+    
+८१।०८अब्। अर्धपलस्य द्वादश कर्षस्य एकस्य षट्सहस्राणि।  
+    
+८१।०८च्द्। यच् च^अष्ट^माषक^धृतं तस्य सहस्रत्रयं मूल्यम्॥  
+    
+८१।०९अब्। माषक^चतुष्टयं दश^शत^क्रयं द्वौ तु पञ्चशतमूल्यौ।  
+    
+८१।०९च्द्। परिकल्प्यम् अन्तराले मूल्यं हीन^अधिक^गुणानाम्॥  
+    
+८१।१०अब्। वर्णन्य् ऊनस्य^अर्धं तेजोहीनस्य मूल्यम् अष्टांशम्।  
+    
+८१।१०च्द्। अल्पगुणो बहुदोषो मूल्यात् प्राप्नोति विंशांशम्॥  
+    
+८१।११अब्। आधूम्रं व्रणबहुलं स्वल्पगुणं चाप्नुयाद् द्विशतभागम्।  
+    
+८१।११च्द्। इति पद्मराग^मूल्यं पूर्वाचार्यैः समुद्दिष्टम्॥
+
+                   ८२ मरकतलक्षणाध्यायः।
+
+८२।०१अब्। शुक^वंशपत्र^कदली^शिरीषकुसुमप्रभं गुणोपेतम्।  
+    
+८२।०१च्द्। सुर^पितृ^कार्ये मरकतम्[क्।रकतम्] अतीव शुभदं नृणां विहितम्[क्।विधृतम्]॥
+
+                   ८३ दीपलक्षणाध्यायः
+
+८३।०१अ वामावर्तो मलिनकिरणः सस्फुलिङ्गो +अल्पमूर्तिः  
+    
+८३।०१ब् क्षिप्रं नाशं व्रजति विमल^स्नेह^वर्त्य्^अन्वितो +अपि।  
+    
+८३।०१च् दीपः पापं कथयति फलं शब्दवान् वेपनश् च  
+    
+८३।०१द् व्याकीर्ण^अर्चिर् विशलभ^मरुद्यश् च नाशं प्रयाति॥  
+    
+८३।०२अ दीपः संहत^मूर्तिर् आयत^तनुर् निर्वेपनो दीप्तिमान्  
+    
+८३।०२ब् निःशब्दो रुचिरः प्रदक्षिणगतिर् वैदूर्य[क्।वैडूर्य]हेमद्युतिः।  
+    
+८३।०२च् लक्ष्मीं क्षिप्रम् अभिव्यनक्ति सुचिरं[क्।रुचिरम्, क्ऽस् त्र्। सुचिरम्] यश् च^उद्यतं दीप्यते  
+    
+८३।०२द् शेषं लक्षणम् अग्निलक्षणसमं योज्यं यथायुक्तितः॥
+
+                   ८४ दन्तकाष्ठलक्षणाध्यायः
+
+८४।०१अ वल्ली^लता^गुल्म^तरु^प्रभेदैः  
+    
+८४।०१ब् स्युर् दन्तकाष्ठानि सहस्रशो यैः।  
+    
+८४।०१च् फलानि वाच्यान्य् अथ[क्।अति] तत्प्रसङ्गो  
+    
+८४।०१द् मा भूद् अतो वच्म्य् अथ कामिकानि॥  
+    
+८४।०२अ अज्ञातपूर्वाणि न दन्तकाष्ठान्य्  
+    
+८४।०२ब् अद्यान् न पत्रैश् च समन्वितानि।  
+    
+८४।०२च् न युग्मपर्वाणि न पाटितानि  
+    
+८४।०२द् न च^ऊर्ध्वशुष्काणि विना त्वचा च॥  
+    
+८४।०३अ वैकङ्कत^श्रीफल^काश्मरीषु  
+    
+८४।०३ब् ब्राह्मी द्युतिः क्षेमतरौ सुदाराः।  
+    
+८४।०३च् वृद्धिर् वटे +अर्के प्रचुरं च तेजः  
+    
+८४।०३द् पुत्रा मधूके सगुणाः[क्।ककुभे] प्रियत्वम्॥  
+    
+८४।०४अ लक्ष्मीः शिरीषे च तथा करञ्जे  
+    
+८४।०४ब् प्लक्षे +अर्थ^सिद्धिः समभीप्सिता स्यात्।  
+    
+८४।०४च् मान्यत्वम् आयाति जनस्य जात्यां  
+    
+८४।०४द् प्राधान्यम् अश्वत्थ^तरौ वदन्ति॥  
+    
+८४।०५अ आरोग्यम् आयुर् बदरी^बृहत्योर्  
+    
+८४।०५ब् ऐश्वर्य^वृद्धिः खदिरे सबिल्वे।  
+    
+८४।०५च् द्रव्याणि च^इष्टान्य् अतिमुक्तके स्युः  
+    
+८४।०५द् प्राप्नोति तान्य् एव पुनः कदम्बे॥  
+    
+८४।०६अ नीपे[क्।निम्बे] +अर्थाप्तिः करवीरे +अन्नलब्धिर्  
+    
+८४।०६ब् भाण्डीरे स्याद् *अन्नम् एवं[क्।इदम् एव] प्रभूतम्।  
+    
+८४।०६च् शम्यां शत्रून् अपहन्त्य् अर्जुने च  
+    
+८४।०६द् श्यामायां च द्विषताम् एव नाशः॥  
+    
+८४।०७अ शाले +अश्वकर्णे च वदन्ति गौरवं  
+    
+८४।०७ब् सभद्रदाराव् अपि चाटरूषके।  
+    
+८४।०७च् वाल्लभ्यम् आयाति जनस्य सर्वतः  
+    
+८४।०७द् प्रियङ्गु^अपामार्ग^सजम्बु^दाडिमैः॥  
+    
+८४।०८अ उदङ्मुखः प्राङ्मुख एव वा^अब्दं  
+    
+८४।०८ब् कामं यथेष्ठं[उ।यथेष्टम्] हृदये निवेश्य।  
+    
+८४।०८च् अद्याद् अनिन्दन्[क्।अनिन्द्यम्] च सुख^उपविष्टः  
+    
+८४।०८द् प्रक्षाल्य जह्याच् च शुचिप्रदेशे॥  
+    
+८४।०९अ अभिमुख^पतितं प्रशान्त^दिक्^स्थं  
+    
+८४।०९ब् शुभम् अतिशोभनम् ऊर्ध्वसंस्थितं यत्।  
+८४।०९च् अशुभकरम् अतो +अन्यथा प्रदिष्टं  
+    
+८४।०९द् स्थित^पतितं च करोति मृष्टम् अन्नम्॥
+
+                   ८५ शाकुनाध्यायः
+
+८५।०१अब्। यत्^शक्र^शुक्र[क्।शुक्रशक्र]^वागीश^कपिष्ठल^गरुत्मताम्।  
+    
+८५।०१च्द्। मतेभ्यः प्राह ऋषभो भागुरेर् देवलस्य च॥  
+    
+८५।०२अब्। भारद्वाज^मतं दृष्ट्वा यच् च श्रीद्रव्यवर्धनः।  
+    
+८५।०२च्द्। आवन्तिकः प्राह नृपो महाराज^अधिराजकः॥  
+    
+८५।०३अब्। सप्तर्षीणां मतं यच् च संस्कृतं प्राकृतं च यत्।  
+    
+८५।०३च्द्। यानि च^उक्तानि गर्ग^आद्यैर् यात्राकारैश् च भूरिभिः॥  
+    
+८५।०४अब्। तानि दृष्ट्वा चकार^इमं सर्वशाकुनसङ्ग्रहम्।  
+    
+८५।०४च्द्। वराहमिहिरः प्रीत्या शिष्याणां ज्ञानम् उत्तमम्॥  
+    
+८५।०५अब्। अन्य^जन्म^अन्तरकृतं कर्म पुंसां शुभ^अशुभम्।  
+    
+८५।०५च्द्। यत् तस्य शकुनः पाकं निवेदयति गच्छताम्॥  
+    
+८५।०६अब्। ग्राम^आरण्य^अम्बु^भू^व्योम^द्यु^निश^उभय^चारिणः।  
+    
+८५।०६च्द्। रुत^यात^ईक्षित^उक्तेषु ग्राह्याः पुं^स्त्री^नपुंसकाः[क्।स्त्रीपुन्नपुंसकाः]॥  
+    
+८५।०७अब्। पृथग् जात्य्^अनवस्थानाद् एषां व्यक्तिर् न लक्ष्यते।  
+    
+८५।०७च्द्। सामान्य^लक्षण^उद्देशे श्लोकाव् ऋषिकृताव् इमौ॥  
+    
+८५।०८अब्। पीन^उन्नत^विकृष्ट^अंसाः पृथुग्रीवाः सुवक्षसः।  
+    
+८५।०८च्द्। स्वल्प^गम्भीर^विरुताः पुंआंसः स्थिर^विक्रमाः॥  
+    
+८५।०९अब्। तनु^उरस्क^शिरो^ग्रीवाः सूक्ष्म^आस्य^पद^विक्रमाः।  
+    
+८५।०९च्द्। प्रसक्त^मृदु^भाषिण्यः स्त्रियो +अतो +अन्यन् नपुंसकम्॥  
+    
+८५।१०अब्। ग्राम^अरण्य^प्रचार^आद्यं लोकाद् एव^उपलक्षयेत्।  
+    
+८५।१०च्द्। सञ्चिक्षिप्सुर् अहं वच्मि यात्रा^मात्र^प्रयोजनम्॥  
+    
+८५।११अब्। पथ्य्^आत्मानं नृपं सैन्ये पुरे च^उद्दिश्य देवताम्।  
+    
+८५।११च्द्। सार्थे प्रधानं साम्ये[क्।साम्यम्] स्याज् जाति^विद्या^वयो +अधिकम्॥  
+    
+८५।१२अब्। मुक्त^प्राप्त^एष्यद्^अर्कासु फलं दिक्षु तथाविधम्।  
+    
+८५।१२च्द्। अङ्गार[क्।अङ्गारि]^दीप्त^धूमिन्यस् ताश् च शान्तास् ततो +अपराः[क्।+अपरा, क्ऽस् त्र्। अपराः]॥  
+    
+८५।१३अब्। तत्^पञ्चम^दिशां तुल्यं शुभं त्रैकाल्यम् आदिशेत्।  
+    
+८५।१३च्द्। परिशेषदिशोर्[क्।परिशेषयोर्] वाच्यं यथासन्नं शुभ^अशुभम्॥  
+    
+८५।१४अब्। शीघ्रम् आसन्न^निम्नस्थैश् चिराद् उन्नत^दूरगैः।  
+    
+८५।१४च्द्। स्थान^वृद्ध्य्^उपघाताच् च तद्वद् ब्रूयात् फलं पुनः॥  
+    
+८५।१५अब्। क्षण^तिथ्य्^उडु^वात^अर्कैर् देवदीप्तो यथोत्तरम्।  
+    
+८५।१५च्द्। क्रियादीप्तो गति^स्थान^भाव^स्वर^विचेष्टितैः॥  
+    
+८५।१६अब्। दशधा^एवं प्रशान्तो +अपि सौम्यस् तृण^फल^अशनः।  
+    
+८५।१६च्द्। मांस^अमेध्य^अशने रौद्रो विमिश्रो +अन्न^अशनः स्मृतः॥  
+    
+८५।१७अब्। हर्म्य^प्रासाद^मङ्गल्य^मनोज्ञ^स्थान^संस्थिताः।  
+    
+८५।१७च्द्। श्रेष्ठा मधुर^सक्षीर^फल^पुष्प^द्रुमेषु च॥  
+    
+८५।१८अब्। स्वकाले गिरि^तोय^स्था बलिनो द्युनिशाचराः।  
+    
+८५।१८च्द्। क्लीब^स्त्री^*पुरुषा ज्ञेया[क्।पुरुशाश् च एषाम्] बलिनः स्युर् यथोत्तरम्॥  
+    
+८५।१९अब्। जव^जाति^बल^स्थान^हर्ष^सत्त्व^स्वर^अन्विताः।  
+    
+८५।१९च्द्। स्वभूमाव् अनुलोमाश् च तद्^ऊनाः स्युर् विवर्जिताः॥  
+    
+८५।२०अब्। कुक्कुट^इभ^पिरिल्यश् च शिखि^वञ्जुल^छिक्कराः।  
+    
+८५।२०च्द्। बलिनः सिंहनादश् च कूटपूरी च पूर्वतः॥  
+    
+८५।२१अब्। क्रोष्टुक^उलूक^हारीत^काक^कोक^ऋक्ष^पिङ्गलाः।  
+    
+८५।२१च्द्। कपोत^रुदित^आक्रन्द^क्रूर^शब्दाश् च याम्यतः॥  
+    
+८५।२२अब्। गो^शश^क्रौञ्च^लोमाश^हंस^उत्क्रोश^कपिञ्जलाः।  
+    
+८५।२२च्द्। विडाल^उत्सव^वादित्र^गीत^हासाश् च वारुणाः॥  
+    
+८५।२३अब्। शतपत्र^कुरङ्ग^आखु^मृग^एकशफ^कोकिलाः।  
+    
+८५।२३च्द्। चाष^शल्यक^पुण्याह^घण्टा^शङ्ख^रवा उदक्॥  
+    
+८५।२४अब्। न ग्राम्यो +अरण्यगो ग्राह्यो न^आरण्यो ग्राम्य^संस्थितः[क्।ग्रामसंस्थितः]।  
+    
+८५।२४च्द्। दिवाचरो न शर्वर्यां न च नक्तञ्चरो दिवा॥  
+    
+८५।२५अब्। द्वन्द्व^रोगार्दित^त्रस्ताः कलह^आमिष^काङ्क्षिणः  
+    
+८५।२५च्द्। आपग^अन्तरिता मत्ता न ग्राह्याः शकुनाः क्व चित्॥  
+    
+८५।२६अब्। रोहित^अश्व^अज^*वालेयाः कुरङ्ग[क्।वालेयकुरङ्ग]^उष्ट्र^मृगाः शशः।  
+    
+८५।२६च्द्। निष्फलाः शिशिरे ज्ञेया वसन्ते काक^कोकिलौ॥  
+    
+८५।२७अब्। न तु भाद्रपदे ग्राह्याः सूकर^श्व^वृक^आदयः।  
+    
+८५।२७च्द्। शारद्य[क्।शरद्य]^अब्ज^अद^गो^क्रौञ्चाः श्रावणे हस्ति^चातकौ॥  
+    
+८५।२८अब्। व्याघ्र^ऋक्ष^वानर^द्वीपि^महिषाः सबिलेशयाः।  
+    
+८५।२८च्द्। हेमन्ते निष्फला ज्ञेया बालाः सर्वे विमानुषाः॥  
+    
+८५।२९अब्। ऐन्द्र^अनल^दिशोर् मध्ये त्रिभागेषु व्यवस्थिताः।  
+    
+८५।२९च्द्। कोशाध्यक्ष^अनलाजीवि^तपोयुक्ताः प्रदक्षिणम्॥  
+    
+८५।३०अब्। शिल्पी भिक्षुर् विवस्त्रा स्त्री याम्य^अनल^दिग्^अन्तरे।  
+    
+८५।३०च्द्। परतश् च^अपि मातङ्ग^गोप^धर्मसमाश्रयाः॥  
+    
+८५।३१अब्। नैरृती^वारुणी^मध्ये प्रमदा^सूति^तस्कराः।  
+    
+८५।३१च्द्। शौण्डिकः शाकुनी हिंस्रो वायव्या[क्।वायव्य]^पश्चिम^अन्तरे॥  
+    
+८५।३२अब्। विषघातक^गोस्वामि^कुहकज्ञास् ततः परम्।  
+    
+८५।३२च्द्। धनवान् ईक्षणीकश् च मालाकारः परं ततः॥  
+    
+८५।३३अब्। वैष्णवश् चरकश् च^एव वाजिनां रक्षणे रतः।  
+    
+८५।३३च्द्। *द्वात्रिंशद् एवं[क्।एवं द्वात्रिंशतो] भेदाः स्युः पूर्वदिग्भिः सह^उदिताः॥  
+    
+८५।३४अब्। राजा कुमारो नेता च दूतः श्रेष्ठी चरो द्विजः।  
+    
+८५।३४च्द्। राजाध्यक्षश्[क्।ऊ।गजाध्यक्षश्] च पूर्वाद्याः क्षत्रिय^आद्याश् चतुर्दिशम्॥  
+    
+८५।३५अब्। गच्छतस् तिष्ठतो वा^अपि दिशि यस्यां व्यवस्थितः।  
+    
+८५।३५च्द्। विरौति शकुनो वाच्यस् तद्दिग्जेन समागमः॥  
+    
+८५।३६अब्। भिन्न^भैरव^दीन^आर्त^परुष^क्षाम^जर्जराः।  
+    
+८५।३६च्द्। स्वना[क्।स्वरा] न^इष्टाः शुभाः शान्त[क्।शान्ता]^हृष्ट^प्रकृति^पूरिताः॥  
+    
+८५।३७अब्। शिवा श्यामा रला छुच्छुः पिङ्गला गृहगोधिका।  
+    
+८५।३७च्द्। सूकरी परपुष्टा च पुन्नामानश् च वामतः॥  
+    
+८५।३८अब्। स्त्रीसञ्ज्ञा भास^भषक^कपि^श्रीकर्ण^*धिक्कराः[क्।छिक्कराः]।  
+    
+८५।३८च्द्। शिखि^श्रीकण्ठ^पिप्पीक^रुरु^श्येनाश् च दक्षिणाः॥  
+    
+८५।३९अब्। क्ष्वेड^आस्फोटित^पुण्याह^गीत^शङ्ख^अम्बु^निःस्वनाः।  
+    
+८५।३९च्द्। सतूर्य^अध्ययनाः पुंवत् स्त्रीवद् अन्या गिरः शुभाः॥  
+    
+८५।४०अब्। ग्रामौ मध्यम^षड्जौ तु गान्धारश् च^इति शोभनाः।  
+    
+८५।४०च्द्। षड्ज[क्।षड्जा]^मध्यम^गान्धारा ऋषभश् च स्वरा हिताः॥  
+    
+८५।४१अब्। रुत^कीर्तन^दृष्टेषु भारद्वाज^अज^बर्हिणः।  
+    
+८५।४१च्द्। धन्या नकुल^चाषौ च सरटः पापदो +अग्रतः॥  
+    
+८५।४२अब्। जाहक^अहि^शश^क्रोड^गोधानां कीर्तनं शुभम्।  
+    
+८५।४२च्द्। *रुतं सन्दर्शनं[क्।रतसन्दर्शनम्] न^इष्टं प्रतीपं वानर^ऋक्षयोः॥  
+    
+८५।४३अब्। ओजाः प्रदक्षिणं शस्ता मृगाः सनकुल^अण्डजाः।  
+८५।४३च्द्। चाषः सनकुलो वामो भृगुर् आह^अपराह्णतः॥  
+    
+८५।४४अब्। छिक्करः कूटपूरी च पिरिली चाह्नि दक्षिणाः।  
+    
+८५।४४च्द्। अपसव्याः सदा शस्ता दंष्ट्रिणः सबिलेशयाः॥  
+    
+८५।४५अब्। श्रेष्ठे हयसिते प्राच्यां शवमांसे च दक्षिणे।  
+    
+८५।४५च्द्। कन्यका^दधिनी पश्चाद् उदग् गो^विप्र^साधवः॥  
+    
+८५।४६अब्। जाल^श्व^चरणौ न^इष्टौ प्राग् याम्यौ शस्त्र^घातकौ।  
+    
+८५।४६च्द्। पश्चाद् आसव^षण्ढौ च खल^आसन^हलान्य् उदक्॥  
+    
+८५।४७अब्। कर्म^सङ्गम^युद्धेषु प्रवेशे नष्ट^मार्गणे।  
+    
+८५।४७च्द्। यान^व्यस्तगता ग्राह्या विशेषश् च^अत्र वक्ष्यते॥  
+    
+८५।४८अब्। दिवा प्रस्थानवद् ग्राह्याः कुरङ्ग^रुरु^वानराः।  
+    
+८५।४८च्द्। अह्नश् च प्रथमे भागे चाष^वञ्जुल^कुक्कुटाः॥  
+    
+८५।४९अब्। पश्चिमे शर्वरी^भागे नप्तृक^उलूक^पिङ्गलाः।  
+    
+८५।४९च्द्। सर्व एव विपर्यस्ता ग्राह्याः सार्थेषु योषिताम्॥  
+    
+८५।५०अब्। नृप^सन्दर्शने ग्राह्यः प्रवेशे +अपि प्रयाणवत्।  
+    
+८५।५०च्द्। गिर्य्^अरण्य^*प्रवेशेषु[क्।प्रवेशे च] नदीनां च^अवगाहने॥  
+    
+८५।५१अब्। वाम^दक्षिणगौ शस्तौ यौ तु ताव् अग्र^पृष्ठगौ।  
+    
+८५।५१च्द्। क्रियादीप्तौ विनाशाय यातुः परिघ^सञ्ज्ञितौ॥  
+    
+८५।५२अब्। ताव् एव तु यथाभागं प्रशान्त^रुत^चेष्टितौ।  
+    
+८५।५२च्द्। शकुनौ शकुन^द्वार^सञ्ज्ञिताव् अर्थ^सिद्धये॥  
+    
+८५।५३अब्। के चित् तु शकुन^द्वारम् इच्छन्त्य् उभयतः स्थितैः।  
+    
+८५।५३च्द्। शकुनैर् एकजातीयैः शान्त^चेष्टा^विराविभिः॥  
+    
+८५।५४अब्। विसर्जयति यद्य् एक एकश् च प्रतिषेधति।  
+    
+८५।५४च्द्। स विरोधो +अशुभो यातुर् ग्राह्यो यो[क्।ऊ।वा] बलवत्तरः॥  
+    
+८५।५५अब्। पूर्वं प्रावेशिको[क्।प्रावेशेको] भूत्वा पुनः प्रास्थानिको भवेत्।  
+    
+८५।५५च्द्। सुखेन सिद्धिम् आचष्टे प्रवेशे तद्^विपर्ययात्[क्।तद्विपर्ययः]॥  
+    
+८५।५६अब्। विसर्ज्य शकुनः पूर्वं स एव निरुणद्धि चेत्।  
+    
+८५।५६च्द्। प्राह यातुर् अरेर् मृत्युं डमरं रोगम् एव वा॥  
+८५।५७अब्। अपसव्यास् तु शकुना दीप्ता भय^निवेदिनः।  
+    
+८५।५७च्द्। आरम्भे शकुनो दीप्तो वर्षान्तस् तद्भयङ्करः॥  
+    
+८५।५८अब्। तिथि^वाय्व्^अर्क^भ^स्थान^चेष्टा^दीप्ता यथाक्रमम्।  
+    
+८५।५८च्द्। धन^सैन्य^बल^अङ्ग^इष्ट^कर्मणां स्युर् भयङ्कराः॥  
+    
+८५।५९अब्। जीमूतध्वनिदीप्तेषु भयं भवति मारुतात्।  
+    
+८५।५९च्द्। उभयोः सन्ध्ययोर् दीप्ताः शस्त्र^उद्भव^भयङ्कराः॥  
+    
+८५।६०अब्। चिति^केश^कपालेषु मृत्यु^बन्ध^वध^प्रदाः।  
+    
+८५।६०च्द्। कण्टकी^काष्ठ^भस्मस्थाः कलह^आयास^दुःखदाः॥  
+    
+८५।६१अब्। अप्रसिद्धिं भयं वा^अपि निःसार^अश्म^व्यवस्थिताः।  
+    
+८५।६१च्द्। कुर्वन्ति शकुना दीप्ताः शान्ता याप्य^फलास् तु ते॥  
+    
+८५।६२अब्। असिद्धिसिद्धिदौ ज्ञेयौ निर्हार^आहार[क्।निर्हादाहार]कारिणौ।  
+    
+८५।६२च्द्। स्थानाद् रुवन् व्रजेद् यात्रां शंसते त्व् अन्यथागमम्॥  
+    
+८५।६३अब्। कलहः स्वरदीप्तेषु स्थानदीप्तेषु विग्रहः।  
+    
+८५।६३च्द्। उच्चम् आदौ स्वरं कृत्वा नीचं पश्चाच् च दोषकृत्[क्।मोषकृत्]॥  
+    
+८५।६४अब्। एक^स्थाने रुवन् दीप्तः सप्ताहाद् ग्राम^घातकः[क्।ग्रामघातकृत्]।  
+    
+८५।६४च्द्। पुर^देश^नरेन्द्राणाम् ऋत्व्^अर्धायन^वत्सरात्  
+    
+८५।६५अब्। सर्वे दुर्भिक्ष^कर्तारः स्वजातिपिशित^अशिनः[क्।अशनाः]॥  
+    
+८५।६५च्द्। सर्प^मूषक^मार्जार^*पृथुलोम[क्।पृथुरोम]^विवर्जिताः॥  
+    
+८५।६६अब्। परयोनिषु गच्छन्तो मैथुनं देशनाशनाः।  
+    
+८५।६६च्द्। अन्यत्र वेसर^उत्पत्तेर् नृणां च^अजाति^मैथुनात्॥  
+    
+८५।६७अब्। बन्ध^घात^भयानि स्युः पाद^ऊरू^मस्तक^अन्तिगैः।  
+    
+८५।६७च्द्। शष्प^अपः[क्।अपशष्प]^पिशित^अन्न^अदैर् *दोष^वर्ष^क्षय[क्।वर्षमोषक्षत ऊ।दोषवर्षक्षत]^ग्रहाः॥  
+    
+८५।६८अब्। क्रूर^उग्र^दोष^दुष्टैश् च प्रधान^नृप^वृत्तकैः।  
+    
+८५।६८च्द्। चिरकालेन[क्।चिरकालैश् च] दीप्ताद्यास्व् आगमो दिक्षु तन्नृणाम्॥  
+    
+८५।६९अब्। सद्रव्यो बलवांश् च स्यात् सद्रव्यस्य^आगमो भवेत्।  
+    
+८५।६९च्द्। द्युतिमान् विनतप्रेक्षी सौम्यो दारुणवृत्तकृत्॥  
+    
+८५।७०अब्। विदिक्स्थः शकुनो दीप्तो वामस्थेन^अनुवाशितः।  
+    
+८५।७०च्द्। स्त्रियाः सङ्ग्रहणं प्राह तद्दिगाख्यातयोनितः॥  
+    
+८५।७१अब्। शान्तः पञ्चमदीप्तेन विरुतो विजयावहः।  
+    
+८५।७१च्द्। दिग्^नर^आगम^कारी वा दोषकृत् तद्^विपर्यये॥  
+    
+८५।७२अब्। वामसव्य^गतो[क्।रुतो] मध्यः प्राह स्वपरयोर् भयम्।  
+    
+८५।७२च्द्। मरणं कथयन्ति एते सर्वे समविराविणः॥  
+    
+८५।७३अब्। वृक्ष^अग्र^मध्य^मूलेषु गज^अश्व^रथिक^आगमः।  
+    
+८५।७३च्द्। दीर्घ^अब्ज^मुषिताग्रेषु नर^नौ^शिबिका^आगमः॥  
+    
+८५।७४अब्। शकटेन^उन्नतस्थे वा[क्।च] छायास्थे छत्र^संयुते[क्।छत्रसम्युतः]।  
+    
+८५।७४च्द्। एक^त्रि^पञ्च^सप्ताहात् पूर्व^आद्यास्व् अन्तरासु च॥  
+    
+८५।७५अब्। सुरपति^हुतवह^यम^निरृति^वरुण^पवन^इन्दु^सङ्कराः *क्रमशः[क्।ओमित्तेद्]।  
+    
+८५।७५च्द्। प्राच्याद्यानां पतयो दिशः पुमांसो +अङ्गना विदिशः॥  
+    
+८५।७६अब्। तरु^ताली^विदल^अम्बर^सलिलज^शर^चर्म^पट्ट^लेखाः स्युः।  
+    
+८५।७६च्द्। द्वात्रिंशत्^प्रविभक्ते दिक्चक्रे तेषु कार्याणि॥  
+    
+८५।७७अब्। व्यायाम^शिखि^निकूजित^कलह^अम्भो^निगड^मन्त्र^गो^शब्दाः।  
+    
+८५।७७च्द्। वर्णास् तु[क्।च] रक्त^पीतक^कृष्ण^सिताः कोणगा मिश्राः॥  
+    
+८५।७८अ चिह्नं ध्वजो दग्धम् अथ श्मशानं  
+    
+८५।७८ब् दरी जलं पर्वत^यज्ञ^घोषाः।  
+    
+८५।७८च् एतेषु संयोग^भयानि विन्द्याद्  
+    
+८५।७८द् अन्यानि वा स्थान^विकल्पितानि॥  
+    
+८५।७९अ स्त्रीणां विकल्पा बृहती कुमारी  
+    
+८५।७९ब् व्यङ्गा विगन्धा त्व् अथ नीलवस्त्रा।  
+    
+८५।७९च् कुस्त्री प्रदीर्घा विधवा च ताश् च  
+    
+८५।७९द् संयोग^चिन्ता परिवेदिकाः स्युः॥  
+    
+८५।८०अ पृच्छासु रूप्य^कनक^आतुर^भामिनीनां  
+    
+८५।८०ब् मेषाव्य^यान^मख^गोकुल^संश्रयासु।  
+    
+८५।८०च् न्यग्रोध^रक्ततरु^रोध्रक^कीचकाख्याश्  
+    
+८५।८०द् चूतद्रुमाः खदिर^बिल्व^नगार्जुनाश् च॥
+
+                   ८६ शाकुनेऽ+अन्तरचक्राध्यायः
+
+८६।०१अब्। ऐन्द्र्यां दिशि शान्तायां विरुवन् नृप^संश्रित^आगमं वक्ति।  
+    
+८६।०१च्द्। [क्।शकुनिः] पूजा^लाभं मणि^रत्न^द्रव्य^सम्प्राप्तिम्॥  
+    
+८६।०२अब्। तद्^अनन्तर^दिशि कनक^आगमो भवेद् वाञ्छित^अर्थ^सिद्धिश् च।  
+    
+८६।०२च्द्। आयुध^धन^पूगफल^आगमस् तृतीये भवेद् भागे॥  
+    
+८६।०३अब्। स्निग्ध^द्विजस्य सन्दर्शनं चतुर्थे तथा^आहिताग्नेश् च।  
+    
+८६।०३च्द्। कोणे +अनुजीवि^भिक्षु^प्रदर्शनं कनक^लोह^आप्तिः॥  
+    
+८६।०४अब्। याम्येन^आद्ये नृप^पुत्र^दर्शनं सिद्धिर् अभिमतस्य^आप्तिः।  
+    
+८६।०४च्द्। परतः स्त्री^धर्म^आप्तिः सर्षप^यव^लब्धिर् अप्य् उक्ता॥  
+    
+८६।०५अब्। कोणाच् चतुर्थ^खण्डे लब्धिर् द्रव्यस्य पूर्व^नष्टस्य।  
+    
+८६।०५च्द्। यद् वा तद् वा फलम् अपि यात्रायां प्राप्नुयाद् याता॥  
+    
+८६।०६अब्। यात्रा^सिद्धिः समदक्षिणेन शिखि^महिष^कुक्कुट^आप्तिश् च।  
+    
+८६।०६च्द्। याम्याद् द्वितीयभागे चारण^सङ्गः शुभं प्रीतिः॥  
+    
+८६।०७अब्। ऊर्ध्वं सिद्धिः कैवर्त^सङ्गमो मीन^तित्तिर^आद्य्^आप्तिः।  
+    
+८६।०७च्द्। प्रव्रजित^दर्शनं तत्परे च पक्वान्न^फल^लब्धिः॥  
+    
+८६।०८अब्। नैरृत्यां स्त्रीलाभस् तुरग^अलङ्कार^दूत^लेख^आप्तिः।  
+    
+८६।०८च्द्। परतो +अस्य चर्म^तत्शिल्पि^दर्शनं चर्ममय^लब्धिः॥  
+    
+८६।०९अब्। वानर^भिक्षु^श्रवण^अवलोकनं नैरृतात् तृतीय^अंशे।  
+    
+८६।०९च्द्। फल^कुसुम^दन्त^घटित^आगमश् च कोणाच् चतुर्थ^अंशे॥  
+    
+८६।१०अब्। वारुण्याम् अर्णवजात^रत्न^वैदूर्य[क्।वैडूर्य]^मणिमय^प्राप्तिः।  
+    
+८६।१०च्द्। परतो +अतः शबर^व्याध^चौर^सङ्गः पिशित^लब्धिः॥  
+    
+८६।११अब्। परतो +अपि दर्शनं वातरोगिणां चन्दन^अगुरु^प्राप्तिः।  
+    
+८६।११च्द्। आयुध^पुस्तक^लब्धिस् तद्वृत्तिसमागमश् च^ऊर्ध्वम्॥  
+    
+८६।१२अब्। वायव्ये फेनक^चामर^और्णिक^आप्तिः समेति कायस्थः।  
+    
+८६।१२च्द्। मृन्मय^लाभो +अन्यस्मिन् वैतालिक^डिण्डि^भाण्डानाम्॥  
+    
+८६।१३अब्। वायव्याच् च तृतीये मित्रेण समागमो धनप्राप्तिः।  
+    
+८६।१३च्द्। वस्त्र^अश्व^आप्तिर् अतः परम् इष्ट^सुहृत्^सम्प्रयोगश् च॥  
+    
+८६।१४अब्। दधि^तण्डुल^लाजानां लब्धिर् उदग् दर्शनं च विप्रस्य।  
+    
+८६।१४च्द्। अर्थ^अवाप्तिर् अनन्तरम् उपगच्छति सार्थ^वाहश् च॥  
+    
+८६।१५अब्। वेश्या^वटु^दास^समागमः परे शुक्ल[क्।शुष्क]^पुष्प^फल^लब्धिः।  
+    
+८६।१५च्द्। *अत ऊर्ध्वं[क्।अतः परम्] चित्रकरस्य दर्शनं चित्र^वस्त्र^आप्तिः[क्।वस्त्रसम्प्राप्तिः]॥  
+    
+८६।१६अब्। ऐशान्यां देवलक^उपसङ्गमो धान्य^रत्न^पशु^लब्धिः।  
+    
+८६।१६च्द्। प्राक् प्रथमे वस्त्राप्तिः समागमश् च^अपि बन्धक्या॥  
+    
+८६।१७अब्। रजकेन समायोगो जलज^द्रव्य^आगमश् च परतो +अतः।  
+    
+८६।१७च्द्। हस्त्य्^उपजीवि^समाजश् च^अस्माद् धन^हस्ति^लब्धिश् च॥  
+    
+८६।१८अब्। द्वात्रिंशत्^प्रविभक्तं दिक्चक्रं *वास्तुवत् सनेम्य् उक्तम्[क्।वास्तुबन्धने अप्य् उक्तम्]।  
+    
+८६।१८च्द्। अर^नाभि^स्थैर् अन्तः फलानि नवधा विकल्प्यानि॥  
+    
+८६।१९अब्। नाभिस्थे बन्धु^सुहृत्^समागमस् तुष्टिर् उत्तमा भवति।  
+    
+८६।१९च्द्। प्राग् रक्त^पट्ट^वस्त्र^आगमस् त्व् अरे नृपति^संयोगः॥  
+    
+८६।२०अब्। आग्नेये कौलिक^तक्ष^पारिकर्म^अश्व^सूत^संयोगः।  
+    
+८६।२०च्द्। लब्धिश् च तत्कृतानां द्रव्याणाम् अश्व^लब्धिर् वा॥  
+    
+८६।२१अब्। नेमी^भागं बुद्ध्वा नाभी^भागं च दक्षिणे यो +अरः।  
+    
+८६।२१च्द्। धार्मिक^जन^संयोगस् तत्र भवेद् धर्म^लाभश् च॥  
+    
+८६।२२अब्। उस्रा^क्रीडक^कापालिक^आगमो नैरृते समुद्दिष्टः।  
+    
+८६।२२च्द्। वृषभस्य च^अत्र लब्धिर् माष^कुलत्थ^आद्यम् अशनम् च॥  
+    
+८६।२३अब्। अपरस्यां दिशि यो +अरस् तत्र^आसक्तिः कृषीवलैर् भवति।  
+    
+८६।२३च्द्। सामुद्रद्रव्य^सुसार^काच^फल^मद्य^लब्धिश् च॥  
+    
+८६।२४अब्। भारवह^तक्ष^भिक्षुक^सन्दर्शनम् अपि च वायु^दिक्^संस्थे।  
+    
+८६।२४च्द्। तिलक^कुसुमस्य लब्धिः सनाग^पुन्नाग^कुसुमस्य॥  
+    
+८६।२५अब्। कौबेर्यां दिशि *यो +अरस् तत्रस्थो[क्।शकुनः शान्तायाम्] वित्त^लाभम् आख्याति।  
+    
+८६।२५च्द्। भागवतेन समागमनम्[क्।ऊ।समागमम्] आचष्टे पीत^वस्त्रैश् च॥  
+    
+८६।२६अब्। ऐशाने व्रतयुक्ता वनिता सन्दर्शनं समुपयाति।  
+    
+८६।२६च्द्। लब्धिश् च परिज्ञेया कृष्णायः^शस्त्र[क्।कृष्णायोवस्त्र]^घण्टानाम्॥  
+    
+८६।२७अब्। याम्ये +अष्टांशे पश्चाद् द्वि^षट्^त्रि^सप्त^अष्टमेषु मध्य^फला।  
+    
+८६।२७च्द्। सौम्येन च द्वितीये शेषेष्व् अतिशोभना यात्रा॥  
+    
+८६।२८अब्। अभ्यन्तरे तु नाभ्यां शुभफलदा भवति षट्सु च^अरेषु।  
+    
+८६।२८च्द्। वायव्या^नैरृतयोर् अरयोः[क्।?उभय्योः] क्लेशावहा यात्रा॥  
+    
+८६।२९अब्। शान्तासु दिक्षु फलम् इदम् उक्तं दीप्तास्व् अतो +अभिधास्यामि।  
+    
+८६।२९च्द्। ऐन्द्र्यां भयं नरेन्द्रात् समागमश् च^एव शात्रूणाम्॥  
+    
+८६।३०अब्। तद्^अनन्तर^दिशि नाशः कनकस्य भयं सुवर्णकाराणाम्।  
+    
+८६।३०च्द्। अर्थ^क्षयस् तृतीये कलहः शस्त्र^प्रकोपश् च॥  
+    
+८६।३१अब्। अग्निभयं च चतुर्थे भयम् आग्नेये च भवति चौरेभ्यः।  
+    
+८६।३१च्द्। कोणाद् अपि द्वितीये धन^क्षयो नृप^सुत^विनाशः॥  
+    
+८६।३२अब्। प्रमदा^गर्भ^विनाशस् तृतीय^भागे भवेच् चतुर्थे च।  
+    
+८६।३२च्द्। हैरण्यक^कारुकयोः प्रध्वंसः शस्त्र^कोपश् च॥  
+    
+८६।३३अब्। अथ पञ्चमे नृप^भयं मारी^मृत^दर्शनं च वक्तव्यम्।  
+    
+८६।३३च्द्। षष्ठे तु भयं ज्ञेयं गन्धर्वाणां सडोम्बानाम्॥  
+    
+८६।३४अब्। धीवर^शाकुनिकानां सप्तम^भागाद्[क्।भागे] भयं भवति दीप्ते।  
+    
+८६।३४च्द्। भोजन^विघात उक्तो निर्ग्रन्थ^भयं च तत्परतः॥  
+    
+८६।३५अब्। कलहो नैरृत^भागे रक्तस्रावो +अथ शस्त्र^कोपश् च।  
+    
+८६।३५च्द्। अपराद्ये चर्मकृतं विनश्यते चर्मकार^भयम्॥  
+    
+८६।३६अब्। तदनन्तरं[क्।तदनन्तरे] परिव्राट्^श्रवण^भयं तत्परे त्व् अनशनभयम्।  
+    
+८६।३६च्द्। वृष्टिभयं वारुण्ये श्व^तस्कराणां भयं परतः॥  
+    
+८६।३७अब्। वायु^ग्रस्त^विनाशः परे परे शस्त्र^पुस्त^*वार्तानाम्[क्।वार्त्तानाम्]।  
+    
+८६।३७च्द्। कोणे पुस्तकनाशः परे विष^स्तेन^वायु^भयम्॥  
+    
+८६।३८अब्। परतो वित्त^विनाशो मित्रैः सह विग्रहश् च विज्ञेयः।  
+    
+८६।३८च्द्। तस्य^आसन्ने +अश्ववधो भयम् अपि च पुरोधसः प्रोक्तम्॥  
+    
+८६।३९अब्। गोहरण^शस्त्र^घाताव् उदक् परे सार्थ^घात^धन^नाशौ।  
+    
+८६।३९च्द्। आसन्ने च श्वभयं व्रात्य^द्विज^दास^गणिकानाम्॥  
+    
+८६।४०अब्। ऐशानस्य^आसन्ने चित्र^अम्बर^चित्रकृद्^भयं प्रोक्तम्।  
+    
+८६।४०च्द्। ऐशाने त्व् अग्नि^भयं दूषणम् अप्य् उत्तम^स्त्रीणाम्॥  
+    
+८६।४१अब्। प्राक् तस्य^एव^आसन्ने दुःख^उत्पत्तिः स्त्रिया विनाशश् च।  
+    
+८६।४१च्द्। भयम् ऊर्ध्वं रजकानां विज्ञेयं काच्छिकानां च॥  
+    
+८६।४२अब्। हस्त्य्^आरोह^भयं स्याद् द्विरद^विनाशश् च मण्डल^समाप्तौ।  
+    
+८६।४२च्द्। अभ्यन्तरे तु दीप्ते पत्नी^मरणं ध्रुवं पूर्वे॥  
+    
+८६।४३अब्। शस्त्र^अनल^प्रकोप^आग्नेये वाजि^मरण^शिल्पि^भयम्।  
+    
+८६।४३च्द्। याम्ये धर्म^*विनाशो +अपरे[क्।विनाशः परे] +अग्न्य्^अवस्कन्द^चोक्ष^वधाः॥  
+    
+८६।४४अब्। अपरे तु कर्मिणां भयम् अथ कोणे च^अनिले खर^उष्ट्र^वधः।  
+    
+८६।४४च्द्। अत्र^एव मनुष्याणां विसूचिका[क्।विशूचिका]^विष^भयं भवति॥  
+    
+८६।४५अब्। उदग् अर्थ^विप्र^पीडा दिश्य् ऐशान्यां तु चित्त^सन्तापः।  
+    
+८६।४५च्द्। ग्रामीण^गोप^पीडा च तत्र नाभ्यां तथा^आत्म^वधः॥
+
+                   ८७ विरुताध्याय्ः
+
+८७।०१अ श्यामा^श्येन^शशघ्न^वञ्जुल^शिखि^श्रीकर्ण^चक्राह्वयाश्  
+    
+८७।०१ब् चाष^अण्डीरक^खञ्जरीटक^शुक^ध्वाङ्क्षाः कपोतास् त्रयः[क्।त्रयाः]।  
+    
+८७।०१च् भारद्वाज^कुलालकुक्कुट^खरा हारीत^गृध्रौ कपिः  
+    
+८७।०१द् फेण्टः कुक्कुट^पूर्णकूट^*चटकाः प्रोक्ता[क्।चटकाश् च उक्ता] दिवासञ्चराः॥  
+    
+८७।०२अ लोमाशिका पिङ्गल^च्छिप्पिका^आख्यौ  
+    
+८७।०२ब् वल्गुली^उलूकौ शशकश् च रात्रौ।  
+    
+८७।०२च् सर्वे स्वकाल^उत्क्रम^चारिणः स्युर्  
+८७।०२द् देशस्य नाशाय नृप^अन्तदा वा॥  
+    
+८७।०३अ हय^नर^भुजग^उष्ट्र^द्वीपि^सिंह^ऋक्ष^गोधा  
+    
+८७।०३ब् वृक^नकुल^कुरङ्ग^श्व^अज^गो^व्याघ्र^हंसाः।  
+    
+८७।०३च् पृषत^मृग^शृगाल^श्वाविद्^आख्य^अन्यपुष्टा  
+    
+८७।०३द् द्युनिशम् अपि बिडालः सारसः सूकरश् च॥  
+    
+८७।०४अब्। भष^कूटपूरि[उ।कूटपूरि]^कुरबक^करायिकाः पूर्णकूट^सण्ज्ञाः स्युः।  
+    
+८७।०४च्द्। नामान्य् उलूकचेट्याः पिङ्गलिका पेचिका हक्का॥  
+    
+८७।०५अब्। कपोतकी च श्यामा वञ्जुलकः कीर्त्यते खदिरचञ्चुः।  
+    
+८७।०५च्द्। छुच्छुन्दरी नृप^सुता वालेयो गर्दभः प्रोक्तः॥  
+    
+८७।०६अब्। स्रोतस्^*तडागभेद्य[क्।तडागभेद्येक]^एकपुत्रकः कलहकारिका च रला।  
+    
+८७।०६च्द्। भृङ्गारवच् च विरुवति[क्।वाशति] निशि भूमौ द्व्य्^अङ्गुल^शरीरा॥  
+    
+८७।०७अब्। दुर्बलिको भाण्डीकः प्राच्यानां दक्षिणः प्रशस्तो +असौ।  
+    
+८७।०७च्द्। धिक्कारो मृगजातिः कृकवाकुः कुक्कुटः प्रोक्तः॥  
+    
+८७।०८अब्। गर्ताकुक्कुटकस्य प्रथितं तु कुलालकुक्कुटो नाम।  
+    
+८७।०८च्द्। गृहगोधिका^इति सञ्ज्ञा विज्ञेया कुड्यमत्स्यस्य॥  
+    
+८७।०९अब्। दिव्यो धन्वन उक्तः क्रोडः स्यात् सूकरो +अथ गौरुस्रा।  
+    
+८७।०९च्द्। श्वा सारमेय उक्तो जात्या चटिका च सूकरिका॥  
+    
+८७।१०अब्। एवं देशे देशे तद्विद्भ्यः समुपलभ्य नामानि॥  
+    
+८७।१०च्द्। शकुन^रुत^ज्ञान^अर्थं शास्त्रे सञ्चित्य[क्।सञ्चिन्त्य] योज्यानि॥  
+    
+८७।११अब्। वञ्जुलक^रुतं तित्तिड् इति दीप्तम् अथ किल्किलि^इति तत्पूर्णम्।  
+    
+८७।११च्द्। श्येन^शुक^गृध्र^कङ्काः प्रकृतेर् अन्यस्वरा दीप्ताः॥  
+    
+८७।१२अब्। यान^आसन^शय्या^निलयनं कपोतस्य सद्म^विशनं वा।  
+    
+८७।१२च्द्। अशुभ^प्रदं नराणां जाति^विभेदेन कालो +अन्यः॥  
+    
+८७।१३अब्। आपाण्डुरस्य वर्षाच् चित्र^कपोतस्य च^एव षण्मासात्।  
+    
+८७।१३च्द्। कुङ्कुम^धूम्रस्य फलं सद्यः पाकं कपोतस्य॥  
+    
+८७।१४अब्। चिचिद् इति शब्दः पूर्णः श्यामायाः शूलिशूल् इति च धन्यः।  
+    
+८७।१४च्द्। चच्च^इति दीप्तः स्यात् स्वप्रिय^लाभाय[क्।योगाय] चिक्चिग् इति॥  
+    
+८७।१५अब्। हारीतस्य तु शब्दो गुग्गुः पूर्णो +अपरे प्रदीप्ताः स्युः।  
+    
+८७।१५च्द्। स्वर^वैचित्र्यं सर्वं भारद्वाज्याः शुभं प्रोक्तम्॥  
+    
+८७।१६अब्। किष्किषि^शब्दः पूर्णः करायिकायाः शुभः कहकह^इति।  
+    
+८७।१६च्द्। क्षमाय[क्।ऊ।क्षेमाय] केवलं करकर^इति न त्व् अर्थ^सिद्धि^करः॥  
+    
+८७।१७अब्। कोटुक्लि^इति क्षेम्यः स्वरः कटुक्लि^इति वृष्टये तस्याः।  
+    
+८७।१७च्द्। अफलः कोटिकिलि^इति च दीप्तः खलु गुं कृतः शब्दः॥  
+    
+८७।१८अ शस्त्रं[क्।ऊ।शस्तम्] वामे दर्शनं दिव्यकस्य  
+    
+८७।१८ब् सिद्धिर् ज्ञेया हस्त^मात्र^उच्छ्रितस्य।  
+    
+८७।१८च् तस्मिन्न् एव प्रोन्नतस्थे शरीराद्  
+    
+८७।१८द् धात्री वश्यं सागरान्ता^अभ्युपैति॥  
+    
+८७।१९अ फणितो +अभिमुखागमो +अरिसङ्गं  
+    
+८७।१९ब् कथयति बन्धु[क्।बन्ध]^वध^अत्ययं च यातुः।  
+    
+८७।१९च् अथ वा समुपैति सव्यभागात्  
+    
+८७।१९द् न स सिद्ध्यै कुशलो गमागमे च॥  
+    
+८७।२०अ अब्जेषु मूर्धसु च वाजि^गज^उरगाणां  
+    
+८७।२०ब् राज्य^प्रदः कुशल^कृत्^शुचि^शाद्वलेषु।  
+    
+८७।२०च् भस्म^अस्थि^काष्ठ^तुष^केश^तृणेषु दुःखं  
+    
+८७।२०द् दृष्टः करोति खलु खञ्जनको +अब्दम् एकम्॥  
+    
+८७।२१अ किलिकिल्किलि तित्तिर^स्वनः  
+    
+८७।२१ब् शान्तः शस्त^फलो +अन्यथा^अपरः।  
+    
+८७।२१च् शशको निशि वाम^पार्श्वगो  
+    
+८७।२१द् वाशन् शस्त^फलो निगद्यते॥  
+    
+८७।२२अ किलिकिलि^विरुतं कपेः प्रदीप्तं  
+    
+८७।२२ब् न शुभ^फल^प्रदम् उद्दिशन्ति यातुः।  
+    
+८७।२२च् शुभम् अपि कथयन्ति चुग्लुशब्दं  
+    
+८७।२२द् कपिसदृशं च कुलालकुक्कुटस्य॥  
+    
+८७।२३अ पूर्णाननः कृमि^पतङ्ग^पिपीलका^आद्यैश्  
+    
+८७।२३ब् चाषः प्रदक्षिणम् उपैति नरस्य यस्य।  
+    
+८७।२३च् खे स्वस्तिकं यदि करोत्य् अथ वा यियासोस्  
+    
+८७।२३द् तस्य^अर्थ^लाभम् अचिरात् सुमहत् करोति॥  
+    
+८७।२४अ चाषस्य काकेन विरुध्यतश् चेत्  
+    
+८७।२४ब् पराजयो दक्षिण^भाग^गस्य।  
+    
+८७।२४च् वधः प्रयातस्य तदा नरस्य  
+    
+८७।२४द् विपर्यये तस्य जयः प्रदिष्टः॥  
+    
+८७।२५अ केक^इति पूर्णकुटवद् यदि वामपार्श्वे  
+    
+८७।२५ब् चाषः करोति विरुतं जयकृत् तदा स्यात्।  
+    
+८७।२५च् क्रेक्र^इति[क्।क्रक्रेति] तस्य विरुतं न शिवाय दीप्तं  
+    
+८७।२५द् सन्दर्शनं शुभदम् अस्य सदैव यातुः॥  
+    
+८७।२६अ अण्डीरकष् टी^इति रुतेन पूर्णष्^  
+    
+८७।२६ब् टिट्टिट्टिशब्देन तु दीप्त उक्तः।  
+    
+८७।२६च् फेण्टः शुभो दक्षिण^भाग^संस्थो  
+    
+८७।२६द् न वाशिते तस्य कृतो विशेषः॥  
+    
+८७।२७अ श्रीकर्ण^रुतं तु दक्षिणे  
+    
+८७।२७ब् क्वक्वक्व^इति शुभं प्रकीर्तितम्।  
+    
+८७।२७च् मध्यं खलु चिक्चिकि^इति यच्^  
+    
+८७।२७द् शेषं सर्वम् उशन्ति निष्फलम्॥  
+    
+८७।२८अ दुर्बलेर् अपि चिरिल्विरिल्व् इति  
+    
+८७।२८ब् प्रोक्तम् इष्टफलदं हि वामतः।  
+    
+८७।२८च् वामतश् च यदि दक्षिणं व्रजेत्  
+८७।२८द् कार्य^सिद्धिम् अचिरेण यच्छति॥  
+    
+८७।२९अ चिक्चिकि^वाशितम् एव तु कृत्वा  
+    
+८७।२९च् दक्षिण^भागम् उपैति तु वामात्।  
+    
+८७।२९च् क्षेमकृद् एव न साधयते +अर्थान्  
+    
+८७।२९द् व्यत्यय^गो वध^बन्ध^भयाय॥  
+    
+८७।३०अब्। क्रक्र^इति च सारिका द्रुतं त्रेत्रे वा^अप्य्^अभया विरौति या।  
+    
+८७।३०च्द्। सा वक्ति यियासतो +अचिराद् गात्रेभ्यः[क्।गात्रेभ्य] क्षतजस्य विस्रुतिम्॥  
+    
+८७।३१अब्। फेण्टकस्य वामतश् चिरिल्विरिल्व् इति स्वनः।  
+    
+८७।३१च्द्। शोभनो निगद्यते प्रदीप्त उच्यते +अपरः॥  
+    
+८७।३२अ श्रेष्ठं खरं स्थास्नुम् उशन्ति वामम्  
+    
+८७।३२ब् ओं^कार^शब्देन हितं च यातुः।  
+    
+८७।३२च् *अतो +अपरं[क्।अतः परम्] गर्दभ^नादितं यत्  
+    
+८७।३२द् सर्व^आश्रयं तत् प्रवदन्ति दीप्तम्॥  
+    
+८७।३३अ आ^कार^रावी समृगः कुरङ्ग  
+    
+८७।३३ब् ओ^कार^रावी पृषतश् च पूर्णः।  
+    
+८७।३३च् ये +अन्ये स्वरास् ते कथिताः प्रदीप्ताः  
+    
+८७।३३द् पूर्णाः शुभाः पापफलाः प्रदीप्ताः॥  
+    
+८७।३४अ भीता रुवन्ति कुकुकुक्व् इति ताम्रचूडास्  
+    
+८७।३४ब् त्यक्त्वा रुतानि भयदान्य् अपराणि रात्रौ।  
+    
+८७।३४च् स्वस्थैः स्वभाव^विरुतानि निशावसाने  
+    
+८७।३४द् ताराणि राष्ट्र^पुर^पार्थिव^वृद्धि^दानि॥  
+    
+८७।३५अ नानाविधानि विरुतानि हि छिप्पिकायास्  
+    
+८७।३५ब् तस्याः शुभाः कुलुकुलुर् न शुभास् तु शेषाः।  
+    
+८७।३५च् यातुर् बिडाल^विरुतं न शुभं सदैव  
+    
+८७।३५द् गोस् तु क्षुतं मरणम् एव करोति यातुः॥  
+    
+८७।३६अ हुंहुङ्गुग्लुग् इति प्रियाम् अभिलषन् क्रोशत्य् उलूको मुदा  
+    
+८७।३६ब् पूर्णः स्याद् गुरुलु प्रदीप्तम् अपि च ज्ञेयं सदा किस्किसि।  
+    
+८७।३६च् विज्ञेयः कलहो यदा बलबलं तस्य[क्।तस्याः] असकृद् वाशितं  
+    
+८७।३६द् दोषाय^एव टटट्टट^इति न शुभाः शेषास् तु दीप्त[क्।दीप्ताः]स्वराः॥  
+    
+८७।३७अब्। सारस^कूजितम् इष्टफलं तद् यद् युगपद्^विरुतं मिथुनस्य।  
+    
+८७।३७च्द्। एकरुतं न शुभं यदि वा स्याद् एकरुते प्रविरौति[क्।प्रतिरौति] चिरेण॥  
+    
+८७।३८अब्। चिरिल्विरिल्व् इति स्वरैः शुभं करोति पिङ्गलाः[क्।पिङ्गला]।  
+    
+८७।३८च्द्। अतो +अपरे तु ये स्वराः प्रदीप्त^सञ्ज्ञितास् तु ते॥  
+    
+८७।३९अ इशिविरुतं गमन^प्रतिषेधि  
+    
+८७।३९ब् कुशुकुशु चेत् कलहं प्रकरोति।  
+    
+८७।३९च् अभिमत^कार्य^गतिं च यथा सा  
+    
+८७।३९द् कथयति तं च विधिं कथयामि॥  
+    
+८७।४०अ दिनान्त^सन्ध्या^समये निवासम्  
+    
+८७।४०ब् आगम्य तस्याः प्रयतश् च वृक्षम्।  
+    
+८७।४०च् देवान् समभ्यर्च्य पितामह^आदीन्  
+    
+८७।४०द् नव^अम्बरस् तं च तरुं सुगन्धैः॥  
+    
+८७।४१अ एको निशीथे +अनल^दिक्^स्थितश् च  
+    
+८७।४१ब् दिव्य^इतरैस् तां शपथैर् नियोज्य।  
+    
+८७।४१च् पृच्छेद् यथाचिन्तितम् अर्थम् एवम्  
+    
+८७।४१द् अनेन मन्त्रेण यथा^आशृणोति॥  
+    
+८७।४२अब्। विद्धि भद्रे मया यत् त्वम् इमम् अर्थं प्रचोदिता।  
+    
+८७।४२च्द्। कल्याणि सर्व^वचसां वेदित्री त्वं प्रकीर्त्यसे॥  
+    
+८७।४३अब्। आपृच्छे +अद्य गमिष्यामि वेदितश् च पुनस् त्व् अहम्।  
+    
+८७।४३च्द्। प्रातर् आगम्य पृच्छे त्वाम् आग्नेयीं दिशम् आश्रितः॥  
+    
+८७।४४अब्। प्रचोदयाम्य् अहं यत् त्वां तन् मे व्याख्यातुम् अर्हसि।  
+    
+८७।४४च्द्। स्वचेष्टितेन कल्याणि यथा वेद्मि निराकुलम्॥  
+    
+८७।४५अ इत्य् एवम् उक्ते तरु^मूर्ध^गायाश्  
+    
+८७।४५ब् चिरिल्विरिल्वि^इति रुते +अर्थ^सिद्धिः।  
+    
+८७।४५च् अत्याकुलत्वं[उ।अव्याकुलत्वम्] दिशिकार^शब्दे  
+    
+८७।४५द् कुचाकुचा^इत्य् एवम् उदाहृते वा॥  
+    
+८७।४६अ अवाक्^प्रदाने *+अपि हित[क्।विहित]^अर्थ^सिद्धिः  
+    
+८७।४६ब् पूर्व^उक्त^दिक्चक्र^फलैर् अतो +अन्यत्।  
+    
+८७।४६च् वाच्यं फलं च^उत्तम^मध्य^नीच^  
+    
+८७।४६द् शाखा^स्थितायां वर^मध्य^नीचम्॥  
+    
+८७।४७अ दिङ्मण्डले +अभ्यन्तर^बाह्य^भागे  
+    
+८७।४७ब् फलानि विन्द्याद् गृहगोधिकायाः।  
+    
+८७।४७च् छुच्छुन्दरी चिच्चिड् इति प्रदीप्ता  
+    
+८७।४७द् पूर्णा तु सा तित्तिड् इति स्वनेन॥
+
+                   ८८ श्वचक्राध्यायः
+
+८८।०१अ नृ^तुरग^करि^कुम्भ^पर्याण^सक्षीरवृक्ष^इष्टकासञ्चय^च्छत्र^शय्या^आसन^उलूखलानि ध्वजं चामरं शाद्वलं पुष्पितं वा प्रदेशं यदा श्वा^अवमूत्र्य^अग्रतो याति यातुस् तदा कार्य^सिद्धिर् भवेद् आर्द्रके गोमये मिष्टभोज्य^आगमः शुष्क^सम्मूत्रणे शुष्कम् अन्नं गुडो मोदक^अवाप्तिर् एव^अथ वा  
+    
+८८।०१ब् अथ विषतरु^कण्ठकी^काष्ठ^पाषाण^शुष्कद्रुम^अस्थि^श्मशानानि मूत्र्य^अवहत्य^अथ वा यायिनो +अग्रेसरो +अनिष्टम् आख्याति शय्या^कुलाल^आदि भाण्डान्य् अभुक्तान्य् अभिन्नानि वा मूत्रयन् कन्यका^दोषकृद् भुज्यमानानि चेद् दुष्टतां तद्^गृहिण्यास् तथा स्याद् उपानत्^फलं गोस् तु सम्मूत्रणे +अवर्ण^जः[क्।वर्णजः] सङ्करः।  
+    
+८८।०१च् गमन^मुखम् उपानहं सम्प्रगृह्य^उपतिष्ठेद् यदा स्याद् तदा सिद्धये मांस^पूर्ण^आनने +अर्थ^आप्तिर् आद्रेण च^अस्थ्ना शुभं स^अग्न्य्^अलातेन शुष्केण च^अस्थ्ना गृहीतेन मृत्युः प्रशान्त^उल्मुकेन^अभिघातो +अथ पुंसः शिरो^हस्त^पाद^आदि वक्त्रे भुवो +अभ्यागमो[क्।ह्यागमो] वस्त्र^चीर^आदिभिर् व्यापदः के चिद् आहुः सवस्त्रे शुभम्  
+    
+८८।०१द् प्रविशति तु गृहं स^शुष्क^अस्थि^वक्त्रे प्रधानस्य तस्मिन् वधः शृङ्खला^शीर्ण^वल्ली^वरत्रा^आदि वा बन्धनं च^उपगृह्य^उपतिष्ठेद् यदा स्यात् तदा बन्धनं लेढि पादौ विधुन्वन् स्वकर्णाव् उपर्य् आक्रमंश् च^अपि विघ्नाय यातुर् विरोधे विरोधस् तथा स्व^अङ्ग^कण्डूयने स्यात् स्वपंश् च^ऊर्ध्व^पादः सदा दोषकृत्॥  
+    
+८८।०२अ सूर्य^उदये +अर्क^अभिमुखो विरौति  
+    
+८८।०२ब् ग्रामस्य मध्ये यदि सारमेयः।  
+    
+८८।०२च् एको यदा वा बहवः समेताः  
+    
+८८।०२द् शंसन्ति देश^अधिपम् अन्यम् आशु॥  
+    
+८८।०३अ सूर्य^उन्मुखः श्वा^अनलदिक्^स्थितश् च  
+    
+८८।०३ब् चौर^अनल^त्रास^करो +अचिरेण।  
+    
+८८।०३च् मध्याह्न^काले +अनल^मृत्यु^शंसी  
+    
+८८।०३द् सशोणितः स्यात् कलहो +अपराह्णे॥  
+    
+८८।०४अ रुवन् दिनेश^अभिमुखो +अस्तकाले  
+    
+८८।०४ब् कृषीबलानां भयम् आशु दत्ते[क्।धत्ते]।  
+    
+८८।०४च् प्रदोष^काले +अनिलदिङ्^मुखश् च[क्।तु]  
+    
+८८।०४द् दत्ते[क्।धत्ते] भयं मारुत^तस्कर^उत्थम्॥  
+    
+८८।०५अ उदङ्^मुखश् च^अपि निशार्ध^काले  
+    
+८८।०५ब् विप्रव्यथां गोहरणं च शास्ति।  
+    
+८८।०५च् निशावसाने शिवदिन्^मुखश् च  
+    
+८८।०५द् कन्या^अभिदूष^अनल^गर्भपातान्॥  
+    
+८८।०६अ उच्चैः स्वराः स्युस् तृण^कूट^संस्थाः  
+    
+८८।०६ब् प्रासाद^वेश्म^उत्तम^संस्थिता वा।  
+    
+८८।०६च् वर्षासु वृष्टिं कथयन्ति तीव्राम्  
+    
+८८।०६द् अन्यत्र मृत्युं दहनं रुजश् च॥  
+    
+८८।०७अ प्रावृट्^काले +अवग्रहे +अम्भो +अवगाह्य  
+    
+८८।०७ब् प्रत्यावर्तै[क्।प्रत्यावृत्तै] रेचकैश् च^अप्य् अभीक्षणम्[क्।अभीक्ष्णम्]।  
+    
+८८।०७च् आधुन्वन्तो वा पिबन्तश् च तोयं  
+    
+८८।०७द् वृष्टिं कुर्वन्त्य् अन्तरे द्वादशाहात्॥  
+    
+८८।०८अ द्वारे शिरो न्यस्य बहिः शरीरं  
+    
+८८।०८ब् रोरूयते श्वा गृहिणीं विलोक्य।  
+    
+८८।०८च् रोग^प्रदः स्याद् अथ मन्दिर^अन्तर्^  
+    
+८८।०८द् बहिर्^मुखो *वक्ति च[क्।शंसति] बन्धकीं ताम्॥  
+    
+८८।०९अब्। कुड्यम् उत्किरति वेश्मनो यदा तत्र खानक^भयं भवेत् तदा।  
+    
+८८।०९च्द्। गोष्ठम् उत्किरति गो^ग्रहं वदेद् धान्य^लब्धिम् अपि धान्य^भूमिषु॥  
+    
+८८।१०अ एकेन^अक्ष्णा स^अश्रुणा दीन^दृष्टिर्  
+    
+८८।१०ब् मन्द^आहारो दुःख^कृत् तद्^गृहस्य।  
+    
+८८।१०च् गोभिः साकं[क्।सार्धम्] क्रीडमाणः सुभिक्षं  
+    
+८८।१०द् क्षेम^आरोग्यं च^अभिधत्ते मुदं च॥  
+    
+८८।११अ वामं जिघ्रेज् जानु वित्त^आगमाय  
+    
+८८।११ब् स्त्रीभिः साकं विग्रहो दक्षिणं चेत्।  
+    
+८८।११च् ऊरुं वामं च^इन्द्रिय^अर्थ^उपभोगः[क्।उपभोगाः]  
+    
+८८।११द् सव्यं जिघ्रेद् इष्ट^मित्रैर् विरोधः॥  
+८८।१२अ पादौ जिघ्रेद् यायिनश् चेद् अयात्रां  
+    
+८८।१२ब् प्राह^अर्थ^आप्तिं वाञ्छितां निश्चलस्य।  
+    
+८८।१२च् स्थान^स्थस्य^उपानहौ चेद् विजिघ्रेत्  
+    
+८८।१२द् क्षिप्रं यात्रां सारमेयः करोति॥  
+    
+८८।१३अ उभयोर् अपि जिघ्रणे हि बाह्वोर्  
+    
+८८।१३ब् विज्ञेयो रिपु^चौर^सम्प्रयोगः।  
+    
+८८।१३च् अथ भस्मनि गोपयीत भक्षान्  
+    
+८८।१३द् मांस^अस्थीनि च[क्।वा च] शीघ्रम् अग्निकोपः॥  
+    
+८८।१४अ ग्रामे भषित्वा च बहिः श्मशाने  
+८८।१४ब् भषन्ति चेद् उत्तम^पुं^विनाशः।  
+    
+८८।१४च् यियासतश् च^अभिमुखो विरौति  
+    
+८८।१४द् यदा तदा श्वा निरुणद्धि यात्राम्॥  
+    
+८८।१५अ उकार^*वर्णे विरुते[क्।वर्णेन रुते] +अर्थ^सिद्धिर्  
+    
+८८।१५ब् ओकार^वर्णेन च वाम^पार्श्वे।  
+    
+८८।१५च् व्याक्षेपम् औकार^रुतेन विन्द्यान्  
+    
+८८।१५द् निषेधकृत् सर्वरुतैश् च पश्चात्॥  
+    
+८८।१६अ *खङ्ख^इति[क्।सङ्खेति] च^उच्चैश् च मुहुर्मुहुर् ये  
+    
+८८।१६ब् रुवन्ति दण्डैर् इव ताड्यमानाः।  
+    
+८८।१६च् श्वानो +अभिधावन्ति च मण्डलेन  
+    
+८८।१६द् ते शून्यतां मृत्यु^भयं च कुर्युः॥  
+    
+८८।१७अ प्रकाश्य दन्तान् यदि लेढि सृक्विणी  
+    
+८८।१७ब् तदा^अशनं मृष्टम्[क्।मिष्टम्] उशन्ति तद्विदः।  
+    
+८८।१७च् यदा^आननं *लेढि पुनर्[क्।च अवलिहेन्] न सृक्विणी  
+    
+८८।१७द् प्रवृत्त^भोज्ये +अपि तदा^अन्न^विघ्न^कृत्॥  
+    
+८८।१८अ ग्रामस्य मध्ये यदि वा पुरस्य  
+    
+८८।१८ब् भषन्ति संहत्य मुहुर्मुहुर् ये।  
+    
+८८।१८च् ते क्लेशम् आख्यान्ति तद्^ईश्वरस्य  
+    
+८८।१८द् श्वा^अरण्य^संस्थो मृगवद् विचिन्त्यः॥  
+    
+८८।१९अ वृक्ष^उपगे क्रोशति तोय^पातः  
+    
+८८।१९ब् स्याद् इन्द्रकीले सचिवस्य पीडा।  
+    
+८८।१९च् वायोर् गृहे सस्य^भयं गृह^अन्तः  
+    
+८८।१९द् पीडा पुरस्य^एव च गोपुर^स्थे॥  
+    
+८८।२०अ भयं च शय्यासु तद्^ईश्वराणां  
+    
+८८।२०ब् याने भषन्तो भयदाश् च पश्चात्।  
+    
+८८।२०च् अथ^अपसव्या जन^सन्निवेशे  
+    
+८८।२०द् भयं भषन्तः कथयन्त्य् अरीणाम्॥
+
+                   ८९ शिवारुताध्यायः
+
+८९।०१अ श्वभिः शृगालाः सदृशाः फलेन  
+    
+८९।०१ब् विशेष एषां शिशिरे मदाप्तिः।  
+    
+८९।०१च् हूहू रुतान्ते परतश् च टाटा  
+    
+८९।०१द् पूर्णः स्वरो +अन्ये कथिताः प्रदीप्ताः॥  
+    
+८९।०२अ लोमाशिकायाः खलु कक्कशब्दः  
+    
+८९।०२ब् पूर्णः स्वभाव^प्रभवः स तस्याः।  
+    
+८९।०२च् ये +अन्ये स्वरास् ते प्रकृतेर् अपेताः  
+    
+८९।०२द् सर्वे च दीप्ता इति सम्प्रदिष्टाः॥  
+    
+८९।०३अब्। पूर्वोदीच्योः शिवा शस्ता शान्ता सर्वत्र पूजिता।  
+    
+८९।०३च्द्। धूमिता^अभिमुखी हन्ति स्वरदीप्ता दिगीश्वरान्॥  
+    
+८९।४अब्[क्।ओमित्तेद्]। राजा कुमारो नेता च दूतः श्रेष्ठी चरो द्विजः।  
+    
+८९।४च्द्[क्।ओमित्तेद्]। गज^अध्यक्षश् च पूर्वा^आद्याः क्षत्रिय^आद्याश् चतुर्दिशम्॥  
+    
+८९।०५अब्। सर्वदिक्ष्व् अशुभा दीप्ता विशेषेण^अह्न्य् अशोभना।  
+    
+८९।०५च्द्। पुरे सैन्ये +अपसव्या च कष्टा सूर्योन्मुखी शिवा॥  
+    
+८९।०६अब्। याहि^इत्य् अग्निभयं शास्ति टाट^इति मृत^वेदिका।  
+    
+८९।०६च्द्। धिग्धिग् दुष्कृतिम्[क्।दुष्कृतम्] आचष्टे सज्वाला देशनाशिनी॥  
+    
+८९।०७अब्। नैव दारुणताम् एके सज्वालायाः प्रचक्षते।  
+    
+८९।०७च्द्। अर्काद्यनलवत् तस्या वक्त्रं लालास्वभावतः॥  
+    
+८९।०८अब्। अन्यप्रतिरुता याम्या सा^उद्बन्ध^मृत^शंसिनी।  
+    
+८९।०८च्द्। वारुण्य् अनुरुता सा^एव शंसते सलिले मृतम्॥  
+    
+८९।०९अब्। अक्षोभः श्रवणं च^इष्टं धनप्राप्तिः प्रियागमः।  
+    
+८९।०९च्द्। क्षोभः प्रधान^भेदश् च वाहनानां च सम्पदः॥  
+    
+८९।१०अब्। फलम् आ सप्तमाद् एतद् अग्राह्यं परतो रुतम्।  
+    
+८९।१०च्द्। याम्यायां तद्^विपर्यस्तं फलं षट्^पञ्चमाद् ऋते॥  
+    
+८९।११अब्। या रोमाञ्चं मनुष्याणां शकृन्^मूत्रं च वाजिनाम्।  
+    
+८९।११च्द्। रावात् त्रासं च जनयेत् सा शिवा न शिव^प्रदा॥  
+    
+८९।१२अब्। मौनं गता प्रतिरुते नर^द्विरद^*वाजिभिः[क्।वाजिनाम्]।  
+    
+८९।१२च्द्। या शिवा सा शिवं सैन्ये पुरे वा सम्प्रयच्छति॥  
+    
+८९।१३अब्। भेभा^इति शिवा भयङ्करी भोभो व्यापदम् आदिशेच् च सा।  
+    
+८९।१३च्द्। मृति^बन्ध^निवेदिनी फिफे[क्।फिफ] हूहू च^आत्महिता शिवा स्वरे॥  
+    
+८९।१४अ शान्ता त्व् अ^वर्णात् *परम् आ^रुवन्ती[क्।पवनौ रुवन्ती]  
+    
+८९।१४ब् टाटाम् उदीर्णाम् इति वाश्यमाना।  
+    
+८९।१४च् टेटे च पूर्वं परतश् च थेथे  
+    
+८९।१४द् तस्याः स्व^तुष्टि^प्रभवं रुतं तत्॥  
+    
+८९।१५अ उच्चैर् घोरं वर्णम् उच्चार्य पूर्वं  
+    
+८९।१५ब् पश्चात् क्रोशेत् क्रोष्टुकस्य^अनुरूपम्।  
+    
+८९।१५च् या सा क्षेमं प्राह वित्तस्य चाप्तिं  
+    
+८९।१५द् संयोगं वा प्रोषितेन प्रियेण॥
+
+                   ९० मृगचेष्टिताध्यायः
+
+९०।०१अ सीमा^गता वन्य^मृगा रुवन्तः  
+    
+९०।०१ब् स्थिता व्रजन्तो +अथ समापतन्तः।  
+    
+९०।०१च् सम्प्रत्य्^अतीत^एष्य^भयानि दीप्ताः  
+    
+९०।०१द् कुर्वन्ति शून्यं परितो भ्रमन्तः॥  
+    
+९०।०२अ ते ग्राम्य^सत्त्वैर् अनुवाश्यमाना  
+    
+९०।०२ब् भयाय रोधाय भवन्ति वन्यैः।  
+    
+९०।०२च् द्वाभ्याम् अपि प्रत्यनुवाशितास् ते  
+    
+९०।०२द् वन्दि^*ग्रहायै च[क्।ग्रहायैव] मृगा रुवन्ति[क्।भवन्ति]॥  
+    
+९०।०३अ वन्ये सत्त्वे द्वार^संस्थे पुरस्य  
+    
+९०।०३ब् रोधो वाच्यः सम्प्रविष्टे विनाशः।  
+    
+९०।०३च् सूते मृत्युः स्याद् भयं संस्थिते च  
+    
+९०।०३द् गेहं याते बन्धनं सम्प्रदिष्टम्॥
+
+                   ९१ गवेङ्गिताध्यायः
+
+९१।०१अ गावो दीनाः पार्थिवस्य^अशिवाय  
+    
+९१।०१ब् पादैर् भूमिं कुट्टयन्त्यश् च रोगान्।  
+    
+९१।०१च् मृत्युं कुर्वन्त्य् अश्रु^पूर्ण^आयत^अक्ष्यः  
+    
+९१।०१द् पत्युर् भीतास् तस्करान् आ^रुवन्त्यः॥  
+    
+९१।०२अब्। अकारणे क्रोशति चेद् अनर्थो भयाय रात्रौ वृषभः शिवाय।  
+    
+९१।०२च्द्। भृशं निरुद्धा यदि मक्षिकाभिस् तदा^आशु वृष्टिं सरमात्मजैर् वा॥  
+    
+९१।०३अ आगच्छन्त्यो वेश्म बम्भारवेण  
+    
+९१।०३ब् संसेवन्त्यो गोष्ठ^वृद्ध्यै गवां गाः।  
+    
+९१।०३च् आर्द्र^अङ्ग्यो वा हृष्टरोम्ण्यः प्रहृष्टा  
+    
+९१।०३द् धन्या गावः स्युर् महिष्यो +अपि च^एवम्॥
+
+                   ९२ अश्वेङ्गिताध्यायः
+
+९२।०१अ उत्सर्गान् न शुभदम् *आसनात् परस्थं[क्।ऊ।आसनापरस्थम्]  
+    
+९२।०१ब् वामे च ज्वलनम् अतो +अपरं प्रशस्तम्।  
+    
+९२।०१च् सर्व^अङ्ग^ज्वलनम् अवृद्धिदं हयानां  
+    
+९२।०१द् द्वे वर्षे दहन^कणाश् च धूपनं वा॥  
+    
+९२।०२अ अन्तःपुरं नाशम् उपैति मेढ्रे  
+    
+९२।०२ब् कोशः क्षयं यात्य् उदरे प्रदीप्ते।  
+    
+९२।०२च् पायौ च पुच्छे च पराजयः स्याद्  
+    
+९२।०२द् वक्त्र^उत्तम^अङ्ग^ज्वलने जयश् च॥  
+    
+९२।०३अ स्कन्ध^आसन^अंस^ज्वलनं जयाय  
+    
+९२।०३ब् बन्धाय पाद^ज्वलनं प्रदिष्टम्।  
+    
+९२।०३च् ललाट^वक्षो *+अक्षि^भुजे च[क्।अक्षिभुजेषु] धूमः  
+    
+९२।०३द् पराभवाय ज्वलनं जयाय॥  
+    
+९२।०४अ नासापुट^प्रोथ^शिरो +अश्रुपात^  
+    
+९२।०४ब् *नेत्रे च[क्।नेत्रेषु] रात्रौ ज्वलनं जयाय।  
+    
+९२।०४च् पलाश^ताम्र^असित^कर्बुराणां  
+    
+९२।०४द् नित्यं शुक^आभस्य सितस्य च^इष्टम्॥  
+    
+९२।०५अ प्रद्वेषो यवस^अम्भसां प्रपतनं स्वेदो निमित्ताद् विना  
+    
+९२।०५ब् कम्पो वा वदनाच् च रक्त^पतनं धूमस्य वा सम्भवः।  
+    
+९२।०५च् अस्वप्नश् च विरोधिनां[क्।विरोधिता] निशि दिवा निद्रा^अलस^ध्यानता।  
+    
+९२।०५द् सादो +अधो^मुखता विचेष्टितम् इदं नेष्टं स्मृतं वाजिनाम्॥  
+    
+९२।०६अब्। आरोहणम् अन्य^वाजिनां पर्याण^आदियुतस्य वाजिनः।  
+    
+९२।०६च्द्। उपवाह्य^तुरङ्गमस्य वा कल्पस्य^एव विपन्न^शोभना॥  
+    
+९२।०७अ क्रौञ्चवद् रिपु^वधाय ह्रेषितं[क्।हेषितम्]  
+    
+९२।०७ब् ग्रीवया त्व् अचलया च स^उन्मुखम्।  
+    
+९२।०७च् स्निग्धम् उच्चम् अनुनादि हृष्टवद्^  
+    
+९२।०७द् ग्रास^रुद्ध^वदनैश् च वाजिभिः॥  
+    
+९२।०८अ पूर्णपात्र^दधि^विप्र^देवता  
+    
+९२।०८ब् गन्ध^पुष्प^फल^काञ्चन^आदि वा।  
+    
+९२।०८च् द्रव्यम् इष्टम् अथ वा परं भवेद्  
+    
+९२।०८द् ध्रेषतां[क्।धेषताम्] यदि समीपतो जयः॥  
+    
+९२।०९अ भक्ष्य^पान^खलिन^अभिनन्दिनः  
+    
+९२।०९ब् पत्युर् औपयिक^नन्दिनो +अथ वा।  
+    
+९२।०९च् सव्य^पार्श्व^गत^दृष्टयो +अथ वा  
+    
+९२।०९द् वाञ्छित^अर्थ^फलदास् तुरङ्गमाः॥  
+    
+९२।१०अ वामैश् च पादैर् अभिताडयन्तो महीं  
+    
+९२।१०ब् प्रवासाय भवन्ति भर्तुः।  
+    
+९२।१०च् सन्ध्यासु दीप्ताम् अवलोकयन्तो  
+    
+९२।१०द् ह्रेषन्ति[क्।हेषन्ति] चेद् बन्ध^पराजयाय॥  
+    
+९२।११अ अतीव ह्रेषन्ति[क्।हेषन्ति] किरन्ति वालान्  
+    
+९२।११ब् निद्रारताश् च प्रवदन्ति यात्राम्।  
+    
+९२।११च् रोम^त्यजो दीन^खर^स्वराश् च  
+    
+९२।११द् पांशून् ग्रसन्तश् च भयाय दृष्टाः॥  
+    
+९२।१२अ समुद्गवद् दक्षिण^पार्श्व^शायिनः  
+    
+९२।१२ब् पदं समुत्क्षिप्य च दक्षिणं स्थिताः।  
+    
+९२।१२च् जयाय शेषेष्व् अपि वाहनेष्व् इदं  
+    
+९२।१२द् फलं यथासम्भवम् आदिशेद् बुधः॥  
+    
+९२।१३अ आरोहति क्षितिपतौ विनय^उपपन्नो  
+    
+९२।१३ब् यात्रा^अनुगो +अन्य^तुरगं प्रतिह्रेषते[क्।प्रतिहेषते] च।  
+    
+९२।१३च् वक्त्रेण वा स्पृशति दक्षिणम् आत्म^पार्श्वं  
+    
+९२।१३द् यो +अश्वः स भर्तुर् अचिरात् प्रचिनोति लक्ष्मीम्॥  
+    
+९२।१४अ मुहुर्मुहुर् मूत्र^शकृत् करोति  
+    
+९२।१४ब् न ताड्यमानो +अप्य् अनुलोमयायी।  
+    
+९२।१४च् अकार्य^भीतो +अश्रु^विलोचनश् च  
+    
+९२।१४द् शिवं[क्।शुभम्] न भर्तुस् तुरगो +अभिधत्ते॥  
+    
+९२।१५अब्। उक्तम् इदं हय^चेष्टितम् अत ऊर्ध्वं दन्तिनां प्रवक्ष्यामि।  
+    
+९२।१५च्द्। तेषां तु दन्त^कल्पन^भङ्ग^म्लान^आदि^चेष्टाभिः॥
+
+                   ९३ हस्तिचेष्टिताध्यायः
+
+९३।०१अब्। दन्तस्य मूल^परिधिं द्विर् आयतं प्रोह्य कल्पयेत्^शेषम्।  
+    
+९३।०१च्द्। अधिकम् अनूप^चराणां न्यूनं गिरि^चारिणां किञ् चित्॥  
+    
+९३।०२अब्। श्रीवत्स^वर्धमान^च्छत्र^ध्वज^चामर^अनुरूपेषु।  
+    
+९३।०२च्द्। छेदे दृष्टेष्व् आरोग्य^विजय^धन^वृद्धि^सौख्यानि॥  
+    
+९३।०३अब्। प्रहरण^सदृशेषु जयो नन्द्यावर्ते प्रनष्ट^देश^आप्तिः।  
+    
+९३।०३च्द्। लोष्टे तु लब्ध^पूर्वस्य भवति देशस्य सम्प्राप्तिः॥  
+    
+९३।०४अब्। स्त्रीरूपे +अश्व^विनाशो[क्।स्वविनाशो] भृङ्गारे +अभ्युत्थिते सुत^उत्पत्तिः।  
+    
+९३।०४च्द्। कुम्भेन निधि^प्राप्तिर् यात्रा^विघ्नं च दण्डेन॥  
+    
+९३।०५अब्। कृकलास^कपि^भुजङ्गेष्व् असुभिक्ष^व्याधयो रिपु^*वशित्वम्[क्।वशत्वम्]।  
+    
+९३।०५च्द्। गृध्र^उलूक^ध्वाङ्क्ष^श्येन^आकारेषु जनमरकः॥  
+    
+९३।०६अब्। पाशे +अथ वा कबन्धे नृप^मृत्युर् जन^विपत् स्रुते रक्ते।  
+    
+९३।०६च्द्। कृष्णे श्यावे रूक्षे दुर्गन्धे च^अशुभं भवति॥  
+    
+९३।०७अब्। शुक्लः समः सुगन्धिः स्निग्धश् च शुभ^आवहो भवेच् छेदः।  
+    
+९३।०७च्द्। गलन^म्लान^फलानि च दन्तस्य समानि भङ्गेन॥  
+    
+९३।०८अ मूल^मध्य^दशन^अग्र^संस्थिता  
+    
+९३।०८ब् देव^दैत्य^मनुजाः क्रमात् ततः।  
+    
+९३।०८च् स्फीत^मध्य^परिपेलवं फलं  
+९३।०८द् शीघ्र^मध्य^चिरकाल^सम्भवम्॥  
+    
+९३।०९अब्। दन्त^भङ्ग^फलम् अत्र दक्षिणे भूप^देश^बल^विद्रव^प्रदम्।  
+    
+९३।०९च्द्। वामतः सुत^पुरोहित^इभयान्[क्।इभपान्] हन्ति साटविक^दार^नायकान्॥  
+    
+९३।१०अब्। आदिशेद् उभय^भङ्ग^दर्शनात् पार्थिवस्य सकलं कुल^क्षयम्।  
+    
+९३।१०च्द्। सौम्य^लग्न^तिथि^भ^आदिभिः शुभं वर्धते +अशुभम् अतो +अन्यथा वदेत्[क्।भवेत्]॥  
+    
+९३।११अब्। क्षीर^मृष्ट[क्।क्षीरवृक्ष]^फल^पुष्प^पादपेष्व् आपगा^तट^विघट्टितेन वा।  
+    
+९३।११च्द्। वाम^मध्य^रद^भङ्ग^खण्डने[क्।खण्डनम्] शत्रु^नाशकृद् अतो +अन्यथा परम्॥  
+    
+९३।१२अ स्खलित^गतिर् अकस्मात् त्रस्त^कर्णो +अतिदीनः  
+    
+९३।१२ब् श्वसिति मृदु सुदीर्घं न्यस्त^हस्तः पृथिव्याम्।  
+    
+९३।१२च् द्रुत^मुकुलित^दृष्टिः स्वप्न^शीलो विलोमो  
+    
+९३।१२द् भयकृद् अहित^भक्षी नैकशो *+असृक्^शकृत्^कृत्[क्।+असृक् छकृत् च]॥  
+    
+९३।१३अ वल्मीक^स्थाणु^गुल्म^क्षुप^तरु^मथनः स्व^इच्छया हृष्ट^दृष्टिर्  
+    
+९३।१३ब् यायाद् यात्रा^अनुलोमं त्वरित^पद^गतिर् वक्त्रम् उन्नाम्य च^उच्चैः।  
+    
+९३।१३च् कक्ष्या^सन्नाह^काले जनयति च मुहुः शीकरं बृंहितं वा  
+    
+९३।१३द् तत्काले[क्।तत्कालम्] वा मदाप्तिर् जयकृद् अथ रदं वेष्टयन् दक्षिणं च॥  
+    
+९३।१४अ प्रवेशनं वारिणि वारणस्य  
+    
+९३।१४ब् ग्राहेण नाशाय भवेन् नृपस्य।  
+    
+९३।१४च् ग्राहं गृहोत्वा[क्।ग्रिहीत्वा]^उत्तरणं नृपस्य[क्।ऊ।द्विपस्य]  
+    
+९३।१४द् तोयात् स्थलं वृद्धि^करं नृभर्तुः॥
+
+                   ९४ वायसविरुताध्यायः
+
+९४।०१अब्। प्राच्यानां दक्षिणतः शुभदाः[क्।शुभदः] काकाः करायिका वामाः[क्।वामा]।  
+    
+९४।०१च्द्। विपरीतम् अन्य^देशेष्व् अवधिर् लोक^प्रसिद्ध्या^एव॥  
+    
+९४।०२अब्। वैशाखे निरुपहते वृक्षे नीडः सुभिक्ष^शिव^दाता।  
+    
+९४।०२च्द्। निन्दित^कण्टकि^शुष्केष्व् असुभिक्ष^भयानि तद्देशे॥  
+    
+९४।०३अब्। नीडे प्राक् शाखायां शरदि भवेत् प्रथम^वृष्टिर् अपरस्याम्।  
+    
+९४।०३च्द्। याम्य^उत्तरयोर् मध्यात्[क्।मध्या] प्रधान^वृष्टिस् तरोर् उपरि॥  
+    
+९४।०४अब्। शिखि^दिशि मण्डल^वृष्टिर् नैरृत्यां शारदस्य निष्पत्तिः।  
+    
+९४।०४च्द्। परिशेषयोः सुभिक्षं मूषक^*सम्पच् च[क्।सम्पत् तु] वायव्ये॥  
+    
+९४।०५अब्। शर^दर्भ^गुल्म^वल्ली^धान्य^प्रासाद^गेह^निम्नेषु।  
+    
+९४।०५च्द्। शून्यो भवति स देशश् चौर^अनावृष्टि^रोग^आर्तः॥  
+    
+९४।०६अब्। द्वि^त्रि^चतुः^शावत्वं सुभिक्षदं पञ्चभिर् नृप^अन्यत्वम्।  
+    
+९४।०६च्द्। अण्ड^अवकिरणम् एक^अण्डता^अप्रसूतिश् च न शिवाय॥  
+    
+९४।०७अब्। चौरक^वर्णैश् चौराश् चित्रैर् मृत्युः सितैस् तु वह्नि^भयम्।  
+    
+९४।०७च्द्। विकलैर् दुर्भिक्ष^भयं काकानां निर्दिशेत्^शिशुभिः॥  
+    
+९४।०८अब्। अनिमित्त^संहतैर् ग्राम^मध्यगैः क्षुद्^भयं प्रविरुवद्भिः[क्।प्रवाशद्भिः]।  
+    
+९४।०८च्द्। रोधश् चक्र^आकारैर् अभिघातो वर्ग^वर्ग^स्थैः॥  
+    
+९४।०९अब्। अभयाश् च तुण्ड^पक्षैश् चरण^विघातैर् जनान् अभिभवन्तः।  
+    
+९४।०९च्द्। कुर्वन्ति शत्रु^वृद्धिं निशि विचरन्तो जन^विनाशम्॥  
+    
+९४।१०अब्। सव्येन खे भ्रमद्भिः स्वभयं विपरीत^मण्डलैश् च परात्।  
+    
+९४।१०च्द्। अत्याकुलं भ्रमद्भिर् वात^उद्भ्रमो भवति काकैः॥  
+    
+९४।११अब्। ऊर्ध्व^मुखाश् चल^पक्षाः पथि भयदाः क्षुद्^भयाय धान्य^मुषः।  
+    
+९४।११च्द्। सेना^अङ्ग^स्था युद्धं परिमोषं च^अन्यभृत^पक्षाः॥  
+    
+९४।१२अब्। भस्म^अस्थि^केश^पत्राणि विन्यसन् पति^वधाय शय्यायाम्।  
+    
+९४।१२च्द्। मणि^कुसुम^आद्य्^अवहनने[क्।अवहनेन] सुतस्य *जन्माप्यथा^अङ्गनायाश्[क्।जन्माङ्गनायाश् च][उ।जन्म^अन्यथा^अङ्गनायाश्] च॥  
+    
+९४।१३अब्। पूर्णानने +अर्थ^लाभः सिकता^धान्य^आर्द्रमृत्^कुसुम^पूर्वैः।  
+    
+९४।१३च्द्। भयदो जन^संवासाद् यदि भाण्डान्य् अपनयेत् काकः॥  
+    
+९४।१४अब्। वाहन^शस्त्र^उपानत्^छत्रछाया^अङ्ग^कुट्टने मरणम्।  
+    
+९४।१४च्द्। तत्पूजायां पूजा विष्ठा^करणे +अन्न^सम्प्राप्तिः॥  
+    
+९४।१५अब्। यद् द्रव्यम् उपनयेत् तस्य लब्धिर् अपहरति चेत् प्रणाशः स्यात्।  
+    
+९४।१५च्द्। पीत^द्रव्यैः[क्।पीतद्रव्ये] कनकं वस्त्रं *कार्पासिकैः सितैः[क्।कार्पासिके सिते] रूप्यम्॥  
+    
+९४।१६अब्। सक्षीर^अर्जुन^वञ्जुल^कूलद्वय^पुलिन^गा रुवन्तश् च।  
+    
+९४।१६च्द्। प्रावृषि वृष्टिं दुर्दिनम् अनृतौ स्नाताश् च पांशु^जलैः॥  
+    
+९४।१७अब्। दारुण^नादस् तरु^कोटर^उपगो वायसो महा^भयदः।  
+    
+९४।१७च्द्। सलिलम् अवलोक्य विरुवन् वृष्टिकरो +अब्द^अनुरावी च॥  
+    
+९४।१८अब्। दीप्त^उद्विग्नो विटपे विकुट्टयन् वह्निकृद् विधुत^पक्षः।  
+    
+९४।१८च्द्। रक्त^द्रव्यं दग्धं तृण^काष्ठं वा गृहे विदधत्॥  
+९४।१९अब्। ऐन्द्र्य^आदि^दिग् अवलोकी सूर्य^अभिमुखो रुवन् गृहे गृहिनः।  
+    
+९४।१९च्द्। राजभय^चोर^बन्धन^कलहाः स्युः पशु^भयं च^इति॥  
+    
+९४।२०अब्। शान्ताम् ऐन्द्रीम् अवलोकयन् रुयाद् राजपुरुष^मित्र^आप्तिः।  
+    
+९४।२०च्द्। भवति च सुवर्ण^लब्धिः शाल्य्^अन्न^गुड^अशन^आप्तिश् च॥  
+    
+९४।२१अब्। आग्नेय्याम् अनलाजीविक^युवति^प्रवर^धातु^लाभश् च।  
+    
+९४।२१च्द्। याम्ये माष^कुलूत्था[क्।कुलत्था]भोज्यं गान्धर्विकैर् योगः॥  
+    
+९४।२२अब्। नैरृत्यां दूत^अश्व^उपकरण^दधि^तैल^पलल^भोज्य^आप्तिः।  
+    
+९४।२२च्द्। वारुण्यां मांस^सुरा^आसव^धान्य^समुद्र^रत्न^आप्तिः॥  
+    
+९४।२३अब्। मारुत्यां शस्त्र^आयुध^सरोज^वल्ली^फल^अशन^आप्तिश् च।  
+    
+९४।२३च्द्। सौम्यायां परम^अन्न^अशनं तुरङ्ग^अम्बर^प्राप्तिः॥  
+    
+९४।२४अब्। ऐशान्यां सम्प्राप्तिर् घृत^पूर्णानां भवेद् अनडुहश् च।  
+    
+९४।२४च्द्। एवं फलं गृहपतेर् गृह^पृष्ठ^समाश्रिते भवति॥  
+    
+९४।२५अब्। गमने कर्णसमश् चेत् क्षेमाय न कार्य^सिद्धये भवति॥  
+    
+९४।२५च्द्। अभिमुखम् उपैति यातुर् विरुवन् विनिवर्तयेद् यात्राम्॥  
+    
+९४।२६अब्। वामे वाशित्वा^आदौ दक्षिण^पार्श्वे +अनुवाशते यातुः।  
+    
+९४।२६च्द्। अर्थ^अपहार^कारी तद्^विपरीतो +अर्थ^सिद्धि^करः॥  
+    
+९४।२७अब्। यदि वाम एव विरुवन्[क्।विरुयात्] मुहुर्मुहुर् यायिनो +अनुलोम^गतिः।  
+    
+९४।२७च्द्। अर्थस्य भवति सिद्ध्यै प्राच्यानां दक्षिणश् च^एवम्॥  
+    
+९४।२८अब्। वामः प्रतिलोम^गतिर् विरुवन्[क्।वाशन्] गमनस्य विघ्नकृद् भवति।  
+    
+९४।२८च्द्। तत्रस्थस्य^एव फलं कथयति तद्^वाञ्छितं गमने॥  
+    
+९४।२९अब्। दक्षिण^विरुतं कृत्वा वामे विरुयाद् यथा^ईप्सित^अवाप्तिः।  
+    
+९४।२९च्द्। प्रतिवाश्य पुरो यायाद् द्रुतम् *अत्यर्थागमो भवति[क्।अग्रे +अर्थागमो +अतिमहान्]॥  
+    
+९४।३०अब्। प्रतिवाश्य पृष्ट्ःअतो दक्षिणेन यायाद् द्रुतं क्षतज^कारी[क्।क्षतजकर्ता]।  
+    
+९४।३०च्द्। एकचरणो +अर्कम् ईक्षन् विरुवंश् च पुरो रुधिर^हेतुः॥  
+    
+९४।३१अब्। दृष्ट्वा^अर्कम् एकपादस् तुण्डेन लिखेद् यदा स्वपिच्छानि।  
+    
+९४।३१च्द्। पुरतो जनस्य महतो वधम् अभिधत्ते तदा बलिभुक्॥  
+    
+९४।३२अब्। सस्य^उपेते क्षेत्रे विरुवति शान्ते ससस्य^भू^लब्धिः।  
+    
+९४।३२च्द्। आकुल^चेष्टो विरुवन् सीमान्ते क्लेशकृद् यातुः॥  
+    
+९४।३३अब्। सुस्निग्ध^पत्र^पल्लव^कुसुम^फल^आनम्र^सुरभि^मधुरेषु।  
+    
+९४।३३च्द्। सक्षीर^अव्रण^संस्थित^मनोज्ञ^वृक्षेषु च^अर्थ^सिद्धि^करः[क्।चार्थकरः]॥  
+    
+९४।३४अब्। निष्पन्न^सस्य^शाद्वल[क्।शाड्वल, क्ऽस् त्र्। शाद्वल]^भवन^प्रासाद^हर्म्य^हरितेषु।  
+    
+९४।३४च्द्। धन्य[क्।धान्य]^उच्छ्रय^मङ्गल्येषु च^एव विरुवन् धन^आगमदः॥  
+    
+९४।३५अब्। गोपुच्छस्थे वल्मीकगे +अथ वा दर्शनं भुजङ्गस्य।  
+    
+९४।३५च्द्। सद्यो ज्वरो महिषगे विरुवति गुल्मे फलं स्वल्पम्॥  
+    
+९४।३६अब्। कार्यस्य व्याघातस् तृणकूटे वामगे +अम्बु^संस्थे[क्।अस्थिसंस्थे] वा।  
+    
+९४।३६च्द्। ऊर्ध्व^अग्नि^प्लुष्टे +अशनि^हते च काके वधो भवति॥  
+    
+९४।३७अब्। कण्टकि^मिश्रे सौम्ये सिद्धिः कार्यस्य भवति कलहश् च।  
+    
+९४।३७च्द्। कण्टकिनि भवति कलहो वल्ली^परिवेष्टिते बन्धः॥  
+    
+९४।३८अब्। छिन्न^अग्रे +अङ्ग^च्छेदः कलहः शुष्क^द्रुम^स्थिते ध्वाङ्क्षे।  
+    
+९४।३८च्द्। पुरतश् च पृष्ठतो वा गोमय^संस्थे धन^प्राप्तिः॥  
+    
+९४।३९अब्। मृत^पुरुष^अङ्ग^अवयव^स्थितो +अभिविरुवन्[क्।+अभिवाशन्] करोति मृत्यु^भयम्।  
+    
+९४।३९च्द्। भञ्जन्न् अस्थि च चञ्च्वा यदि विरुवत्य्[क्।वाशत्य्] अस्थि^भङ्गाय॥  
+    
+९४।४०अब्। रज्ज्व्^अस्थि^काष्ठ^कण्टकि^निःसार^शिरोरुह^आनने रुवति।  
+    
+९४।४०च्द्। भुजग^गद^दंष्ट्रि^तस्कर^शस्त्र^अग्नि^भयान्य् अनुक्रमशः॥  
+    
+९४।४१अब्। सितकुसुम^अशुचि^मांस^आनने +अर्थ^सिद्धिर् यथा^ईप्सिता यातुः।  
+    
+९४।४१च्द्। *पक्षौ धुन्वन्न्[क्।धुन्वन् पक्षाव्] ऊर्ध्व^आनने च विघ्नं मुहुः क्वणति॥  
+    
+९४।४२अब्। यदि शृङ्खलां वरत्रां वल्लीं वा^आदाय वाशते बन्धः।  
+    
+९४।४२च्द्। पाषाण^स्थे च भयं क्लिष्ट^अपूर्व^अध्विक^युतिश् च॥  
+    
+९४।४३अब्। अन्योन्य^भक्ष^सङ्क्रामित^आनने तुष्टिर् उत्तमा भवति।  
+    
+९४।४३च्द्। विज्ञेयः स्त्री^लाभो दम्पत्योर् विरुवतोर्[क्।वाशतोर्] युगपत्॥  
+    
+९४।४४अब्। प्रमदा^शिर^उपगत^पूर्ण^कुम्भ^संस्थे +अङ्गना^अर्थ^सम्प्राप्तिः।  
+    
+९४।४४च्द्। घट^कुट्टने सुत^विपद् घट^उपहदने +अन्न^सम्प्राप्तिः॥  
+    
+९४।४५अब्। स्कन्धावार^आदीनां निवेश^समये रुवंश् चलत्^पक्षः।  
+    
+९४।४५च्द्। सूचयते +अन्यत्^स्थानं[क्।+अन्यस्थानम्] निश्चल^पक्षस् तु भय^मात्रम्॥  
+    
+९४।४६अब्। प्रविशद्भिः सैन्य^आदीन् सगृध्र^कङ्कैर् विना^आमिषं ध्वाङ्क्षैः।  
+    
+९४।४६च्द्। अविरुद्धैस् तैः प्रीतिर् द्विषतां युद्धं विरुद्धैश् च॥  
+    
+९४।४७अब्। बन्धः सूकर^संस्थे पङ्काक्ते सूकरे द्विके +अर्थ^आप्तिः।  
+    
+९४।४७च्द्। क्षेमं खर^उष्ट्र^संस्थे के चित् प्राहुर् वधं तु खरे॥  
+    
+९४।४८अब्। वाहनलाभो +अश्वगते विरुवत्य् अनुयायिनि क्षतजपातः।  
+    
+९४।४८च्द्। अन्ये +अप्य् अनुव्रजन्तो यातारं काकवद् विहगाः॥  
+    
+९४।४९अब्। द्वात्रिंशत् प्रविभक्ते दिग्चक्रे यद् यथा समुद्दिष्टम्।  
+    
+९४।४९च्द्। तत्तत् तथा विधेयं गुण^दोष^फलं यियासूनाम्॥  
+    
+९४।५०अब्। का इति काकस्य रुतं स्व^निलय^संस्थस्य निष्फलं प्रोक्तम्।  
+    
+९४।५०च्द्। कव इति च^आत्मप्रीत्यै क^इति रुते स्निग्ध^मित्र^आप्तिः॥  
+    
+९४।५१अब्। करा^इति कलहं कुरुकुरु च हर्षम् अथ कटकट^इति दधिभक्तम्।  
+    
+९४।५१च्द्। केके विरुतं कुकु वा धन^लाभं यायिनः प्राह॥  
+    
+९४।५२अब्। खरेखरे पथिक^आगमम् आह कखाखा^इति यायिनो मृत्युम्।  
+    
+९४।५२च्द्। गमन^प्रतिषेधिकम् आ कखला[क्।आखलखल, क्ऽस् त्र्। आ खलखल] सद्यो +अभिवर्षाय॥  
+    
+९४।५३अब्। काका^इति विघातः[क्।विघातम्] काकटि^इति च^आहार^दूषणं प्राह।  
+    
+९४।५३च्द्। प्रीत्य्^आस्पदं कवकव^इति बन्धम् एवं कगाकुर् इति॥  
+    
+९४।५४अब्। करगौ[क्।करकौ] विरुते वर्षं गुडवत् त्रासाय वड् इति वस्त्र^आप्तिः।  
+    
+९४।५४च्द्। कलय^इति च संयोगः शूद्रस्य ब्राह्मणैः साकम्॥  
+    
+९४।५५अ कड् [क्।फड्] इति फलाप्तिः फलदा[क्।फलवा]^  
+    
+९४।५५ब् अहिदर्शनं टड्डिति[क्।टडिति] प्रहाराः स्युः।  
+    
+९४।५५च् स्त्री^लाभः स्त्रीति रुते  
+    
+९४।५५ब् गड् इति गवां पुड् इति पुष्पाणाम्॥  
+    
+९४।५६अब्। युद्धाय टाकुटाक्व् इति गुहु वह्नि^भयं कटेकटे कलहः।  
+    
+९४।५६च्द्। टाकुलि चिण्टिचि केकेक^इति पुरं च^इति दोषाय॥  
+    
+९४।५७अ काक^द्वयस्य^अपि समानम् एतत्  
+    
+९४।५७ब् फलं यदुक्तं रुत^चेष्टित^आद्यैः।  
+    
+९४।५७च् पतत्रिणो +अन्ये +अपि यथा^एव काको  
+    
+९४।५७द् वन्याः श्ववच् च^उपरिदंष्ट्रिणो ये॥  
+    
+९४।५८अ स्थल^सलिल^चराणां व्यत्ययो मेघ^काले  
+    
+९४।५८ब् प्रचुर^सलिल^वृष्ट्यै शेषकाले भयाय।  
+    
+९४।५८च् मधु भवन^निलीनं तत् करोत्य् आशु शून्यं  
+    
+९४।५८द् मरणम् अपि *च नीला[क्।निलीना] मक्षिका मूर्ध्नि लीना॥  
+    
+९४।५९अ विनिक्षिपन्त्यः सलिले +अण्डकानि  
+    
+९४।५९ब् पिपीलिका वृष्टि^निरोधम् आहुः।  
+    
+९४।५९च् *तरुं स्थलं[क्।तरुस्थलम्, क्ऽस् त्र्।तरुं स्थलम्] वा^अपि नयन्ति निम्नाद्  
+    
+९४।५९द् यदा तदा ताः कथयन्ति वृष्टिम्॥  
+    
+९४।६०अ कार्यं तु मूल^शकुने +अन्तरजे तदह्नि  
+    
+९४।६०ब् विन्द्यात् फलं नियतम् एवम् इमे विचिन्त्याः।  
+    
+९४।६०च् प्रारम्भ^यान^समयेषु तथा प्रवेशे  
+    
+९४।६०द् ग्राह्यं क्षुतं न शुभदं क्व चिद् अप्य् उशन्ति॥  
+    
+९४।६१अ शुभं दशा^पाकम् अविघ्न^सिद्धिं  
+    
+९४।६१ब् मूल^अभिरक्षाम् अथ वा सहायान्।  
+    
+९४।६१च् दुष्टस्य[क्।इष्टस्य] संसिद्धिम् अनामयत्वं  
+    
+९४।६१द् वदन्ति ते मानयितुर् नृपस्य॥  
+    
+९४।६२अ क्रोशाद् ऊर्ध्वं शकुन[क्।शकुनि]विरुतं निष्फलं प्राहुर् एके  
+    
+९४।६२ब् तत्र^अनिष्टे प्रथम^शकुने मानयेत् पञ्च षट् च।  
+    
+९४।६२च् प्राणायामान् नृपतिर् अशुभे षोडश^एव द्वितीये  
+    
+९४।६२द् प्रत्यागच्छेत् स्वभवनम् अतो यद्य् अनिष्टस् तृतीयः॥
+
+                   ९५ शाकुन^उत्तराध्यायः
+
+९५।०१अब्। दिग्^देश^चेष्टा^स्वर^वासर^ऋक्ष^मुहूर्त^होरा^करण^उदय^अंशान्।  
+    
+९५।०१च्द्। चर^स्थिर[क्।चिरस्थिर, क्ऽस् त्र्। चरस्थिर]^उन्मिश्र^बल^अबलं च बुद्ध्वा फलानि प्रवदेद् रुतज्णः॥  
+    
+९५।०२अ द्विविधं कथयन्ति संस्थितानाम्  
+    
+९५।०२ब् आगामि^स्थिर^सञ्ज्ञितं च कार्यम्।  
+    
+९५।०२च् नृप^दूत^चर^अन्यदेश^जातान्य्  
+    
+९५।०२द् अभिघातः स्वजनादि च^आगम^आख्यम्॥  
+    
+९५।०३अ उद्बद्ध^सङ्ग्रहण^भोजन^चौर^वह्नि^  
+    
+९५।०३ब् वर्ष^उत्सव^आत्मज^वधाः कलहो भयं च।  
+    
+९५।०३च् वर्गः स्थिरो +अयम् उदय^इन्दुयुते स्थिर^ऋक्षे  
+    
+९५।०३द् विद्यात् स्थिरं चरगृहे च चरं यद् उक्तम्॥  
+    
+९५।०४अब्। स्थिर^प्रदेश^उपल^मन्दिरेषु सुरालये भू^जल^सन्निधौ च।  
+    
+९५।०४च्द्। स्थिराणि कार्याणि चराणि यानि चल^प्रदेश^आदिषु च^आगमाय॥  
+    
+९५।०५अ आप्य^उदय^ऋक्ष^क्षण^दिग्^जलेषु  
+    
+९५।०५ब् पक्ष^अवसानेषु च ये प्रदीप्ताः।  
+    
+९५।०५च् सर्वे +अपि ते वृष्टिकरा रुवन्तः  
+    
+९५।०५द् शान्तो +अपि वृष्टिं कुरुते +अम्बुचारी॥  
+    
+९५।०६अ आग्नेय^दिग्^लग्न^मुहूर्त^देशेष्व्  
+    
+९५।०६ब् अर्क^प्रदीप्तो +अग्निभयाय रौति।  
+    
+९५।०६च् विष्ट्यां यम^ऋक्ष^उदय^कण्टकेषु  
+    
+९५।०६द् निष्पत्र^वल्लीषु च दोषकृत्[क्।मोषकृत्] स्यात्॥  
+    
+९५।०७अ ग्राम्यः प्रदीप्तः स्वर^चेष्टिताभ्याम्  
+९५।०७ब् उग्रो रुवन् कण्टकिनि स्थितश् च।  
+    
+९५।०७च् भौम^ऋक्षलग्ने यदि नैरृतीं च  
+    
+९५।०७द् स्थितो +अभितश् चेत् कलहाय दृष्टः॥  
+    
+९५।०८अ लग्ने +अथ वा^इन्दोर् भृगु^भ^अंश^संस्थे  
+    
+९५।०८ब् विदिक्^स्थितो +अधो^वदनश् च रौति।  
+    
+९५।०८च् दीप्तः स चेत् सङ्ग्रहणं करोति  
+    
+९५।०८द् योन्या तया या विदिशि प्रदिष्टा॥  
+    
+९५।०९अ पुंराशि^लग्ने विषमे तिथौ च  
+    
+९५।०९ब् दिक्स्थः प्रदीप्तः शुकुनो नर^आख्यः।  
+    
+९५।०९च् वाच्यं तदा सङ्ग्रहणं नराणां  
+    
+९५।०९द् मिश्रे भवेत् पण्डक^सम्प्रयोगः॥  
+    
+९५।१०अ एवं रवेः क्षेत्र^नवांश^लग्ने  
+    
+९५।१०ब् लग्ने स्थिते वा स्वयम् एव सूर्ये।  
+    
+९५।१०च् दीप्तो +अभिधत्ते शकुनो विरौति[क्।विवासम्]  
+    
+९५।१०द् पुंसः प्रधानस्य हि कारणं तत्॥  
+    
+९५।११अब्। प्रारम्भमाणेषु[क्।प्रारभ्यमाणेषु] च सर्व^कार्येष्व् अर्क^अन्विताद् भाद् गणयेद् विलग्नम्।  
+    
+९५।११च्द्। सम्प्तद् विपच् च^इति यथा क्रमेण सम्पद् विपच् च^इति[क्।वा^अपि] तथ^एव वाच्यम्[क्।वाच्या]॥  
+    
+९५।१२अ काणेन^अक्ष्णा दक्षिणेन^एति सूर्ये  
+    
+९५।१२ब् चन्द्रे लग्नाद् द्वादशे च^इतरेन।  
+    
+९५।१२च् लग्नस्थे +अर्के पापदृष्टे +अन्ध एव  
+    
+९५।१२द् कुब्जः स्व^ऋक्षे श्रोत्र^हीनो जडो वा॥  
+    
+९५।१३अ क्रूरः षष्ठे क्रूरदृष्टो विलग्नाद्  
+    
+९५।१३ब् यस्मिन् राशौ तद्गृह^अङ्गे व्रणो +अस्य[क्।स्यात्]।  
+    
+९५।१३च् एवं प्रोक्तं यन् मया जन्मकाले  
+    
+९५।१३द् चिह्नं रूपं तत् तद् अस्मिन् विचिन्त्यम्॥  
+    
+९५।ॠ१अ अतः परं लोक^निरूपितानि[क्।ओमित्स् फ़्रोम् ९५।ॠ१अ तो ९५।ॠ३२द्]  
+    
+९५।ॠ१ब् द्रव्येषु नाना^अक्षर^सङ्ग्रहाणि।  
+    
+९५।ॠ१च् इष्ट^प्रणीतानि विभाजितानि  
+    
+९५।ॠ१द् नामानि केन्द्र^क्रमशः प्रवक्ष्ये॥  
+    
+९५।ॠ२अ लग्न^अम्बु^संस्थ^अस्त^नभःस्थितेषु  
+    
+९५।ॠ२ब् क्षेत्रेषु ये लग्नगता गृह^अंशाः।  
+    
+९५।ॠ२च् तेभ्यो +अक्षराण्य् आत्मगृह^आश्रयाणि  
+    
+९५।ॠ२द् विन्द्याद् ग्रहाणां स्वगण^क्रमेण॥  
+    
+९५।ॠ३अ क^वर्ग^पूर्वान् कुज^शुक्र^चान्द्रि^  
+    
+९५।ॠ३ब् जीव^अर्कजानां प्रवदन्ति वर्गान्।  
+    
+९५।ॠ३च् य^कार^पूर्वाः शशिनो निरुक्ता  
+    
+९५।ॠ३द् वर्णास् त्व् अ^कार^प्रभवा रवेः स्युः॥  
+    
+९५।ॠ४अ द्रेष्काण^वृद्ध्या प्रवदन्ति नाम  
+    
+९५।ॠ४ब् त्रि^पञ्च^सप्त^अक्षरम् ओजराशौ।  
+    
+९५।ॠ४च् युग्मे तु विन्द्याद् द्वि^चतुष्क^षट्कं  
+    
+९५।ॠ४द् नाम^अक्षराणि ग्रह^दृष्टि^वृद्ध्या॥  
+    
+९५।ॠ५अ वर्गोत्तमे द्व्य^क्षरकं चर^अंशे  
+    
+९५।ॠ५ब् स्थिर^ऋक्ष^भागे चतुर्^अक्षरं तत्।  
+    
+९५।ॠ५च् ओजेषु च^एभ्यो विषम^अक्षराणि  
+    
+९५।ॠ५द् स्युर् द्विस्वभावेषु तु राशिवच् च॥  
+    
+९५।ॠ६अ द्विमूर्ति^सञ्ज्ञे तु वदेद् द्विनाम  
+    
+९५।ॠ६ब् सौम्य^ईक्षिते द्विप्रकृतौ च राशौ।  
+    
+९५।ॠ६च् यावान् गणः स्व^उदयगो +अंशकानां  
+    
+९५।ॠ६द् तावान् ग्रहः सङ्ग्रहके +अक्षराणाम्॥  
+    
+९५।ॠ७अ संयोगम् आदौ बहुलेषु विन्द्यात्  
+    
+९५।ॠ७ब् कूटेषु संयोगपरं वदन्ति।  
+    
+९५।ॠ७च् स्व^उच्चांशके द्विष्कृतम् ऋक्ष^योगाद्  
+    
+९५।ॠ७द् गुर्व्^अक्षरं तद्^भवन^अंशके स्यात्॥  
+    
+९५।ॠ८अ मात्रा^आदि^युक् स्याद् ग्रहयुक्^त्रिकोणे  
+    
+९५।ॠ८ब् द्रेष्काण^पर्यायवद् अक्षरेषु।  
+    
+९५।ॠ८च् नभो^बलेषु^ऊर्ध्वम् अधो +अम्बुजेषु  
+    
+९५।ॠ८द् ज्ञेयो *विसर्गस् तु बल[उ।विसर्गो^अस्तबल]^अन्वितेषु॥  
+    
+९५।ॠ९अ शीर्ष^उदयेषु^ऊर्ध्वम् उशन्ति मात्राम्  
+    
+९५।ॠ९ब् अधश् च पृष्ठ^उदय^शब्दितेषु।  
+    
+९५।ॠ९च् तीर्यक् च विन्द्याद् उभय^उदये तां  
+    
+९५।ॠ९द् दीर्घेषु दीर्घाम् इतरेषु च^अन्याम्॥  
+    
+९५।ॠ१०अ प्राग्^लग्न^तोय^अस्त^नभःस्थितेषु  
+    
+९५।ॠ१०ब् भेष्व् अंशकेभ्यो +अक्षर^सङ्ग्रहः स्यात्।  
+    
+९५।ॠ१०च् क्रूरो +अक्षरं हन्ति चतुष्टयस्थो  
+    
+९५।ॠ१०द् दृष्ट्या^अपि मात्रां च त्रिकोणगो वा॥  
+    
+९५।ॠ११अ शुभग्रहस् तु^ऊर्जित^वीर्य^भागी  
+    
+९५।ॠ११ब् स्थान^अंश^तुल्य^अक्षरदः स च^उक्तः।  
+    
+९५।ॠ११च् पश्यन् स्थितः केन्द्र^त्रिकोणयोर् वा  
+    
+९५।ॠ११द् स्व^उच्चे +अपि वर्ण^द्वयम् आत्म^भागे॥  
+    
+९५।ॠ१२अ क्षेत्रेश्व् अरे क्षीणबले +अंशके च  
+    
+९५।ॠ१२ब् मात्रा^अक्षरं नाशम् उपैति तज्जम्।  
+    
+९५।ॠ१२च् असम्भवे +अप्य् उद्भवम् एति तस्मिन्  
+    
+९५।ॠ१२द् वर्ग^आद्यम् उच्चांश^युजि^ईश^दृष्टे॥  
+    
+९५।ॠ१३अ केन्द्रे यथास्थान^बल^प्रकर्षं  
+    
+९५।ॠ१३ब् क्षेत्रस्य तत्^क्षेत्र^पतेश् च बुद्ध्वा।  
+    
+९५।ॠ१३च् कार्यो +अक्षराणाम् अनुपूर्वयोगो  
+    
+९५।ॠ१३द् मात्रा^आदि^संयोग^विकल्पना च॥  
+    
+९५।ॠ१४अ तत्र^आदिराश्य्^आदि^चतुर्^विलग्नम्  
+    
+९५।ॠ१४ब् आद्य्^अंशक^आदि^क्रम^पर्यायेण।  
+    
+९५।ॠ१४च् ग्रहांशकेभ्यः स्वगण^अक्षराणाम्  
+    
+९५।ॠ१४द् अन्वर्थने प्राप्तिर् इयं विधार्या॥  
+    
+९५।ॠ१५अ मेषे ककारो हिबुके यकारस्  
+    
+९५।ॠ१५ब् तुले चकारो मकरे पकारः।  
+    
+९५।ॠ१५च् मेषे छकारो हिबुके +अप्य् अकारस्  
+    
+९५।ॠ१५द् तुले खकारो मकरे फकारः॥  
+    
+९५।ॠ१६अ मेषे टकारो हिबुके ठकारस्  
+    
+९५।ॠ१६ब् तुले तकारो मकरे थकारः।  
+    
+९५।ॠ१६च् मेषे तु रेफा हिबुके जकारस्  
+    
+९५।ॠ१६द् तुले बकारो मकरे गकारः॥  
+    
+९५।ॠ१७अ आकारम् आद्ये +अम्बुगते घकारम्  
+    
+९५।ॠ१७ब् अस्ते भकारं मकरे झकारम्।  
+    
+९५।ॠ१७च् लग्ने डकारं हिबुके दकारम्  
+    
+९५।ॠ१७द् अस्ते धकारं मकरे ढकारम्॥  
+    
+९५।ॠ१८अ लग्ने ञकारो हिबुके मकारस्  
+    
+९५।ॠ१८ब् तुले ङकारो मकरे लकारः।  
+    
+९५।ॠ१८च् लग्ने ककारो हिबुके पकारस्  
+    
+९५।ॠ१८द् तुले चकारो मकरे इकारः॥  
+    
+९५।ॠ१९अ लग्ने नकारो हिबुके तकारस्  
+    
+९५।ॠ१९ब् तुले णकारो मकरे टकारः।  
+    
+९५।ॠ१९च् इत्य् एतद् उक्तं चरसञ्ज्ञकस्य  
+    
+९५।ॠ१९द् वक्ष्ये स्थिराख्यस्य चतुष्टयस्य॥  
+    
+९५।ॠ२०अ वृषे फकारो हिबुके खकारः  
+    
+९५।ॠ२०ब् कीटे वकारो नृघटे छकारः।  
+    
+९५।ॠ२०च् आद्यांशकेभ्यो मतिमान् विदध्याद्  
+    
+९५।ॠ२०द् अनुक्रमेण स्थिरसञ्ज्ञकेषु॥  
+    
+९५।ॠ२१अ लग्ने बकारो हिबुके जकार  
+    
+९५।ॠ२१ब् ईकारम् अस्ते +अम्बरगे गकारः।  
+९५।ॠ२१च् वृषे थकारो हिबुके टकारः  
+    
+९५।ॠ२१द् कीटे डकारो नृघटे दकारः॥  
+    
+९५।ॠ२२अ वृषे घकारो हिबुके शकारः  
+    
+९५।ॠ२२ब् कीटे झकारो नृघटे भकारः।  
+    
+९५।ॠ२२च् लग्ने जकारो हिबुके उकारः  
+    
+९५।ॠ२२द् कीटे ङकारो नृघटे मकारः॥  
+    
+९५।ॠ२३अ लग्ने ढकारो +अथ जले णकारश्  
+    
+९५।ॠ२३ब् चास्ते धकारो +अम्बरगे नकारः।  
+    
+९५।ॠ२३च् वृषे षकारो हिबुके चकारः  
+    
+९५।ॠ२३द् कीटे पकारो नृघटे ककारः॥  
+    
+९५।ॠ२४अ ऊकारम् आहुर् वृषभे जले खम्  
+    
+९५।ॠ२४ब् अस्ते फकारो नृघटे छकारः।  
+    
+९५।ॠ२४च् अन्त्ये वृषे टम् तम् उशन्ति सिंहे  
+    
+९५।ॠ२४द् थं सप्तगे ठं प्रवदन्ति कुम्भे॥  
+    
+९५।ॠ२५अ द्विमूर्तिसञ्ज्ञे मिथुने जकाराः  
+    
+९५।ॠ२५ब् षष्ठे बकारः प्रथमांशके स्यात्।  
+    
+९५।ॠ२५च् धनुर्धरे +अस्तोपगते गकारो  
+    
+९५।ॠ२५द् मीनद्वये चाम्बरगे सकारः॥  
+    
+९५।ॠ२६अ लग्ने घकारो हिबुके भकारश्  
+    
+९५।ॠ२६ब् चास्ते झकारो +अम्बरमध्यगे ई।  
+    
+९५।ॠ२६च् लग्ने दकारो हिबुके धकारम्  
+    
+९५।ॠ२६द् अस्ते डकारं विदुर् अम्बरे ढम्॥  
+    
+९५।ॠ२७अ लग्ने मकारो हिबुके ङकारश्  
+    
+९५।ॠ२७ब् अस्ते हकारो +अम्बरगे ञकारः।  
+    
+९५।ॠ२७च् लग्ने पकारो जलगे चकार  
+    
+९५।ॠ२७द् ऐकारम् अस्ते +अम्बरगे ककारः॥  
+    
+९५।ॠ२८अ प्राग्लग्ने नं जलगे णम् आहुर्  
+    
+९५।ॠ२८ब् अस्तं गते टं नभसि स्थिते तम्।  
+    
+९५।ॠ२८च् प्राग्लग्नगे खं जलगे यम् आहुर्  
+    
+९५।ॠ२८द् अस्तं गते छं नभसि स्थिते फम्॥  
+    
+९५।ॠ२९अ लग्ने जम् ओकारम् अथाम्बुसंस्थे  
+    
+९५।ॠ२९ब् गम् अस्तसंस्थे विदुर् अम्बरे बम्।  
+    
+९५।ॠ२९च् ठं लग्नगे +अन्त्ये हिबुकाश्रिते डं  
+    
+९५।ॠ२९द् थम् अस्तगे दं नभसि स्थिते वै॥  
+    
+९५।ॠ३०अ एवं विकल्पो +अक्षर^सङ्ग्रहो +अयं  
+    
+९५।ॠ३०ब् नाम्नां निरुद्दिष्ट^विधान उक्तः।  
+    
+९५।ॠ३०च् सर्वेषु लग्नेषु च के चिद् एवम्  
+    
+९५।ॠ३०द् इच्छन्ति पूर्व^उक्त^विधानवत् तु॥  
+    
+९५।ॠ३१अ केन्द्राणि वा केन्द्र^गत^अंशकैः स्वैः  
+    
+९५।ॠ३१ब् पृथक् पृथक् सङ्गुणितानि कृत्वा।  
+    
+९५।ॠ३१च् त्रिकृद्^विभक्तं विदुर् अक्षरं तत्  
+    
+९५।ॠ३१द् क्षेत्र^ईश्वरस्य^अम्श^परिक्रम^स्वम्॥  
+    
+९५।ॠ३२अ सञ्चिन्तित^प्रार्थित^निर्गतेषु  
+    
+९५।ॠ३२ब् नष्ट^क्षत^स्त्री^रति^भोजनेषु।  
+    
+९५।ॠ३२च् स्वप्न^ऋक्ष^चिन्ता^पुरुषादि^वर्गेष्व्  
+    
+९५।ॠ३२द् एतेषु नामान्य् उपलक्षयेत  
+    
+९५।१४अ द्व्यक्षरं चर^गृह^अंशक^उदये  
+    
+९५।१४ब् नाम चास्य चतुर्^अक्षरं स्थिरे।  
+    
+९५।१४च् नामयुग्मम् अपि च द्विमूर्तिषु  
+    
+९५।१४द् त्र्यक्षरं भवति च^अस्य पञ्चभिः॥  
+    
+९५।१५अ क^आद्यास् तु वर्गाः कुज^शुक्र^सौम्य^  
+    
+९५।१५ब् जीव^अर्कजानां क्रमशः प्रदिष्टाः।  
+    
+९५।१५च् वर्ण^अष्टकं य^आदि च शीतरश्मे  
+    
+९५।१५द् रवेर् अ^कारात् क्रमशः स्वराः स्युः॥  
+    
+९५।१६अ नामानि च^अग्न्य्^अम्बु^कुमार^विष्णु^  
+    
+९५।१६ब् शक्र^इन्द्रपत्नी^चतुराननानाम्।  
+    
+९५।१६च् तुल्यानि सूर्यात् क्रमशो विचिन्त्य  
+    
+९५।१६द् द्वि^त्र्य्^आदि^वर्णैर् घटयेत् स्वबुद्ध्या॥  
+    
+९५।१७अ वयांसि तेषाम् स्तन^पान^बाल्य^  
+    
+९५।१७ब् व्रत^स्थिता यौवन^मध्य^वृद्धाः।  
+    
+९५।१७च् अतीव^वृद्धा इति चन्द्र^भौम^  
+    
+९५।१७द् ज्ञ^शुक्र^जीव^अर्क^शनैश्चराणाम्॥
+
+                   ९६ पाकाध्यायः
+
+९६।०१अब्। पक्षाद् भानोः सोमस्य मासिको +अङ्गारकस्य वक्त्र^उक्तः।  
+    
+९६।०१च्द्। आदर्शनाच् च पाको बुधस्य जीवस्य वर्षेण॥  
+    
+९६।०२अब्। षड्भिः सितस्य मासैर् अब्देन शनेः सुरद्विषो +अब्दार्धात्।  
+    
+९६।०२च्द्। वर्षात् सूर्यग्रहणे सद्यः स्यात् त्वाष्ट्र^कीलकयोः॥  
+    
+९६।०३अब्। त्रिभिर् एव धूमकेतोर् मासैः श्वेतस्य सप्तरात्र^अन्ते।  
+    
+९६।०३च्द्। सप्ताहात् परिवेष^इन्द्रचाप^सन्ध्या^अभ्रसूचीनाम्॥  
+    
+९६।०४अब्। शीत^उष्ण^विपर्यासः फल^पुष्पम् अकालजं दिशां दाहः।  
+    
+९६।०४च्द्। स्थिर^चरयोर् अन्यत्वं प्रसूति^विकृतिश् च षण्^मासात्॥  
+    
+९६।०५अब्। अक्रियमाणक^करणं भूकम्पो +अनुत्सवो दुरिष्टं च।  
+    
+९६।०५च्द्। शोषश् च^अशोष्याणां स्रोतो +अन्यत्वं च वर्ष^अर्धात्॥  
+    
+९६।०६अब्। स्तम्भ^कुसूल^अर्चानां जल्पित^रुदित^प्रकम्पित^स्वेदाः।  
+    
+९६।०६च्द्। मास^त्रयेण कलह^इन्द्रचाप^निर्घात^पाकाश् च॥  
+९६।०७अब्। कीट^आखु^मक्षिक^उरग^बाहुल्यं मृग^विहङ्ग^विरुतं च।  
+    
+९६।०७च्द्। लोष्टस्य चाप्सु तरणं त्रिभिर् एव विपच्यते मासैः॥  
+    
+९६।०८अब्। प्रसवः शुनाम् अरण्ये वन्यानां ग्राम^सम्प्रवेशश् च।  
+    
+९६।०८च्द्। मधुनिलय^तोरण^इन्द्रध्वजाश् च वर्षात् समधिकाद् वा॥  
+    
+९६।०९अब्। गोमायु^गृध्र^सङ्घा दश^अहिकाः सद्य एव तूर्य^रवः।  
+    
+९६।०९च्द्। आक्रुष्टं पक्ष^फलं वल्मीको विदरणं च भुवः॥  
+    
+९६।१०अब्। अहुताश^प्रज्वलनं घृत^तैल^वसा^आदि^वर्षणं च^अपि।  
+    
+९६।१०च्द्। सद्यः परिपच्यन्ते मासे +अध्यर्धे च जनवादः॥  
+    
+९६।११अब्। छत्र^चिति^यूप^हुतवह^बीजानां सप्तभिर् भवति पक्षैः।  
+    
+९६।११च्द्। छत्रस्य तोरणस्य च केचिन् मासात् फलं प्राहुः ॥  
+    
+९६।१२अब्। अत्यन्त^विरुद्धानां स्नेहः शब्दश् च वियति भूतानाम्।  
+    
+९६।१२च्द्। मार्जार^नकुलयोर् मूषकेण सङ्गश् च मासेन॥  
+    
+९६।१३अब्। गन्धर्वपुरं मासाद् रस^वैकृत्यं हिरण्य^विकृतिश् च।  
+    
+९६।१३च्द्। ध्वज^वेश्म^पांशु^धूम^आकुला दिशश् च^अपि मास^फलाः॥  
+    
+९६।१४अब्। नवक^एक^अष्ट^दशक^एक^षट्^त्रिक^त्रिक^सङ्ख्य^मास^पाकानि।  
+    
+९६।१४च्द्। नक्षत्राण्य् अश्विनिपूर्वकाणि सद्यः फल^आश्लेषा॥  
+    
+९६।१५अब्। पित्र्यान् मासः षट् सट्^त्रयो +अर्धम् अष्टौ च त्रि^षड्^एक^एकाः।  
+    
+९६।१५च्द्। मास^चतुष्के +अषाढे सद्यः पाक^अभिजित्तारा॥  
+    
+९६।१६अब्। सप्त^अष्टव् अध्यर्धं त्रयस् त्रयः पञ्च च^एव मासाः स्युः।  
+    
+९६।१६च्द्। श्रवण^आदीनां पाको नक्षत्राणां यथासङ्ख्यम्॥  
+    
+९६।१७अ निगदित^समये न दृश्यते चेद्  
+    
+९६।१७ब् अधिकतरं द्विगुणे प्रपच्यते तत्।  
+    
+९६।१७च् यदि न कनक^रत्न^गो^प्रदानैर्  
+    
+९६।१७द् उपशमितं विधिवद् द्विजैश् च शान्त्या॥
+
+                   ९७ नक्षत्रकर्मगुणाध्यायः
+
+९७।०१अब्। शिखि^गुण^रस^इन्द्रिय^अनल^शशि^विषय^गुण^ऋतु^पञ्च^वसु^पक्षाः।  
+    
+९७।०१च्द्। विषय^एक^चन्द्र^भूत^अर्णव^अग्नि^रुद्र^अश्वि^वसु^दहनाः॥  
+    
+९७।०२अब्। भूत^शत^पक्ष^वसवो द्वात्रिंशच् च^इति तारका^मानम्।  
+    
+९७।०२च्द्। क्रमशो +अश्विन्य्^आदीनां कालस् तारा^प्रमाणेन॥  
+    
+९७।०३अब्। नक्षत्रजम् उद्वाहे फलम् अब्दैस् तारका^मितैः सदसत्।  
+    
+९७।०३च्द्। दिवसैर् ज्वरस्य नाशो व्याधेर् अन्यस्य वा वाच्यः॥  
+    
+९७।०४अब्। अश्वि^यम^दहन^कमलज^शशि^शूलभृद्^अदिति^जीव^फणि^पितरः।  
+    
+९७।०४च्द्। योन्य्^अर्यम^दिनकृत्^त्वष्टृ^पवन^शक्राग्नि^मित्राश् च॥  
+    
+९७।०५अब्। शक्रो निरृतिस् तोयं विश्वे ब्रह्मा हरिर् वसुर् वरुणः।  
+    
+९७।०५च्द्। अजपादो +अहिर्बुध्न्यः पूषा चेतीश्वरा भानाम्॥  
+    
+९७।०६अब्। त्रीण्य् उत्तराणि तेभ्यो रोहिण्यश् च ध्रुवाणि तैः कुर्यात्।  
+    
+९७।०६च्द्। अभिषेक^शान्ति^तरु^नगर^धर्म^बीज^ध्रुव^आरम्भान्॥  
+    
+९७।०७अब्। मूल^शिव^शक्र^भुजग^अधिपानि तीक्ष्णानि तेषु सिद्ध्यन्ति।  
+९७।०७च्द्। अभिघात^मन्त्र^वेताल^बन्ध^वध^भेद^सम्बन्धाः॥  
+    
+९७।०८अब्। उग्राणि पूर्व^भरणी^पित्र्याण्य् उत्साद^नाश^शाठ्येषु।  
+    
+९७।०८च्द्। योज्यानि बन्ध^विष^दहन^शस्त्र^घात^आदिषु च सिद्ध्यै॥  
+    
+९७।०९अब्। लघु हस्त^अश्विन^पुष्याः पण्य^रति^ज्ञान^भूषण^कलासु।  
+    
+९७।०९च्द्। शिल्प^औषध^यान^आदिषु सिद्धिकराणि प्रदिष्टानि॥  
+    
+९७।१०अब्। मृदु^वर्गो[क्।मृदुवर्गस् त्व्] +अनूराधा^चित्रा^पौष्ण^ऐन्दवानि मित्रार्थे।  
+    
+९७।१०च्द्। सुरतविधि^वस्त्र^भूषण^मङ्गल^गीतेषु च हितानि॥  
+    
+९७।११अब्। हौतभुजं सविशाखं मृदु^तीक्ष्णम् तद्^विमिश्र^फल^कारि।  
+    
+९७।११च्द्। श्रवणत्रयम् आदित्य^आनिले च चरकर्मणि हितानि॥  
+    
+९७।१२अ हस्त^त्रयं मृगशिरः श्रवण^त्रयं[क्।श्रवनात्त्रयम्] च  
+    
+९७।१२ब् पूष^अश्वि^शक्र^गुरु^भानि पुनर्वसुश् च।  
+    
+९७।१२च् क्षौरे तु कर्मणि हितान्य् उदये क्षणे वा  
+    
+९७।१२द् युक्तानि च^उडुपतिना शुभतारया च॥  
+    
+९७।१३अ न स्नातमात्र^गमन^उन्मुख[क्।उत्सुक]^भूषितानाम्  
+    
+९७।१३ब् अभ्यक्त^भुक्त^रणकाल^निरासनानाम्।  
+    
+९७।१३च् सन्ध्या^*निशा^शनि^कुज^अर्क^तिथौ[क्।निशोः कुजयमार्कदिने] च रिक्ते  
+    
+९७।१३द् क्षौरं हितं न नवमे +अह्नि न च^अपि विष्ट्याम्॥  
+    
+९७।१४अब्। नृपाज्ञया ब्राह्मण^सम्मते च विवाहकाले मृतसूतके च।  
+    
+९७।१४च्द्। बद्धस्य मोक्षे क्रतु^दीक्षणासु सर्वेषु शस्तं क्षुरकर्म भेषु॥  
+    
+[क्।ओने वेर्से इन्सेर्तेद्  
+    
+क्।९८।१५अब्। हस्तो मूलं श्रवणा पुनर्वसुर् मृगशिरस् तथा पुष्यः।  
+    
+क्।९८।१५च्द्। पुंसञ्ज्ञितेषु कार्येष्व् एतानि शुभानि धिष्ण्यानि॥]  
+    
+९७।१५अब्। सावित्र^पौष्ण^अनिल^मैत्र^तिष्य^त्वाष्ट्रे तथा च^उडुगणाधिप^ऋक्षे।  
+    
+९७।१५च्द्। संस्कार^दीक्षा^व्रत^मेखलादि कुर्याद् गुरौ शुक्र^बुध^इन्दुयुक्ते॥  
+    
+[क्।ओने वेर्से इन्सेर्तेद्  
+    
+क्।९८।१७अब्। लाभे तृतीये च शुभैः समेते पापैर् विहीने शुभराशिलग्ने।  
+    
+क्।९८।१७च्द्। वेध्यौ तु कर्णौ त्रिदशेज्यलग्ने तिष्येन्दुचित्राहरिरेवतीषु॥]  
+    
+९७।१६अ शुद्धैर् द्वादश^केन्द्र^नैधनगृहैः पापैस् त्रिषष्ठायगैर्  
+    
+९७।१६ब् लग्ने केन्द्रगते +अथ वा सुरगुरौ दैत्य^इन्द्रपूज्ये +अपि वा।  
+    
+९७।१६च् सर्व^आरम्भ^फल^प्रसिद्धिर् उदये राशौ च कर्तुः शुभे  
+    
+९७।१६द् सग्राम्य^स्थिर^भ^उदये च भवनं कार्यं प्रवेशो +अपि वा॥
+
+                   ९८ तिथिकर्मगुणाध्यायः
+
+९८।०१अब्। कमलज^विधातृ^हरि^यम^शशाङ्क^षड्वक्त्र^शक्र^वसु^भुजगाः।  
+    
+९८।०१च्द्। धर्म^ईश^सवितृ^मन्मथ^कलयो विश्वे च तिथिपतयः॥  
+    
+९८।०२अब्। पितरो +अमावस्यायां सञ्ज्ञासदृशाश्च तैः क्रियाः कार्याः।  
+    
+९८।०२च्द्। नन्दा भद्रा विजया रिक्ता पूर्णा च तास् त्रिविधाः॥  
+    
+९८।०३अब्। यत् कार्यं नक्षत्रे तद्दैवत्यासु तिथिषु तत् कार्यम्।  
+    
+९८।०३च्द्। करणमुहूर्तेष्व् अपि तत् सिद्धिकरं देवतासदृशम्॥
+
+                   ९९ करणगुणाध्यायः
+
+९९।०१अब्। वव^वालव^कौलव[क्।बवबालवकौलब]^तैतिल^आख्य^गर^वणिज^विष्टिसञ्ज्ञानाम्।  
+    
+९९।०१च्द्। पतयः स्युर् इन्द्र^कमलज^मित्र^अर्यम^भू^श्रियः सयमाः॥  
+    
+९९।०२अब्। कृष्ण^चतुर्दश्यर्धाद् धुवाणि[क्।ऊ।ध्रुवाणि] शकुनिश् चतुष्पदं नागम्।  
+    
+९९।०२च्द्। किंस्तुघ्नम् इति च तेषां कलि^वृष^फणि^मारुताः पतयः॥  
+    
+९९।०३अ कुर्याद् ववे[क्।बवे] शुभ^चर^स्थिर^पौष्टिकानि  
+    
+९९।०३ब् धर्मक्रिया^द्विज^हितानि च वालव[क्।बालव]^आख्ये।  
+    
+९९।०३च् सम्प्रीति^मित्र^वरणानि च कौलवे[क्।कौलबे] स्युः  
+    
+९९।०३द् सौभाग्य^संश्रय^गृहाणि च तैतिल^आख्ये॥  
+    
+९९।०४अ कृषि^बीज^गृह^आश्रय^जानि गरे  
+    
+९९।०४ब् वणिजि धुव[क्।ध्रुव]^कार्य^वणिग्^युतयः।  
+    
+९९।०४च् न हि विष्टिकृतं विदधाति शुभं  
+    
+९९।०४द् पर^घात^विष^आदिषु सिद्धिकरम्॥  
+    
+९९।०५अ कार्यं पौष्टिकम् औषधादि शकुनौ मूलानि मन्त्रास् तथा  
+    
+९९।०५ब् गोकार्याणि चतुष्पदे द्विजपितृन् उद्दिश्य राज्यानि च।  
+    
+९९।०५च् नागे स्थावर^दारुणानि हरणं दौर्भाग्य^कर्माण्य् अतः  
+    
+९९।०५द् किंस्तुघ्ने शुभम् इष्टि[क्।इष्ट]पुष्टिकरणं मङ्गल्य^सिद्धि^क्रियाः॥  
+    
+९९।०६अब्[क्।ओमित्तेद्]। लाभे तृतीये च शुभैः समेते पापैर् विहीने शुभराशिलग्ने।  
+    
+९९।०६च्द्[क्।ओमित्तेद्]। वेध्यौ च कर्णाव् अमरेज्यलग्ने पुष्य^इन्दु^चित्रा^हरि^पौष्ण^भेषु॥  
+    
+९९।०७अ रोहिण्य्^उत्तर^रेवती^मृगशिरो^मूल^अनुराधा^मघा^  
+    
+९९।०७ब् हस्त^स्वातिषु षष्ठ^तौलि^मिथुनेषु^उद्यत्सु पाणि^ग्रहः।  
+    
+९९।०७च् सप्त^अष्ट^अन्त्य^बहिःशुभैर् उडुपताव् एकादश^द्वि^त्रिगे  
+    
+९९।०७द् क्रूरैस् त्र्यायषडष्टगैर् न तु भृगौ षष्ठे कुजे च^अष्टमे॥  
+    
+९९।०८अ दम्पत्योर् द्वि^नव^अष्ट^राशि^रहिते चार^अनुकुले रवौ  
+    
+९९।०८ब् चन्द्रे च^अर्क^कुज^अर्कि^शुक्र^वियुते मध्ये +अथ वा पापयोः।  
+    
+९९।०८च् त्यक्त्वा च व्यतिपात^वैधृति[क्।वैधृत]^दिनं विष्टिं च रिक्तां तिथिं  
+    
+९९।०८द् क्रूराहायन^पौष^चैत्र[क्।चैत्रपौष]^विरहे लग्न^अंशके मानुषे॥
+
+                   १०० नक्षत्रजातकाध्यायः
+
+१००।०१अब्। प्रियभूषणः स्वरूपः[क्।सुरूपः] सुभगो दक्षो +अश्विनीषु मतिमांश् च।  
+    
+१००।०१च्द्। कृतनिश्चय^सत्य^अरुग्^दक्षः सुखितश् च भरणीषु॥  
+    
+१००।०२अब्। बहुभुक् परदाररतस् तेजस्वी कृत्तिकासु विख्यातः।  
+    
+१००।०२च्द्। रोहिण्यां सत्य^शुचिः प्रियंवदः *स्थिरः स्वरूपश् च[क्।स्थिरसुरूपश् च]॥  
+    
+१००।०३अब्। चपलश् चतुरो भीरुः पटुर् उत्साही धनी मृगे भोगी।  
+    
+१००।०३च्द्। शठ^गर्वित^चण्ड^कृतघ्न^हिंस्र^पापश् च रौद्र^ऋक्षे॥  
+    
+१००।०४अब्। दान्तः सुखी सुशीलो दुर्मेधा रोगभाक् पिपासुश् च।  
+    
+१००।०४च्द्। अल्पेन च सन्तुष्टः पुनर्वसौ जायते मनुजः॥  
+    
+१००।०५अब्। शान्तात्मा सुभगः पण्डितो धनी धर्म^संश्रितः पुष्ये।  
+    
+१००।०५च्द्। शठ^सर्व^भक्षक्ष्य[क्।भक्ष][उ।भक्ष्य]^पापः कृतघ्न^धूर्तश् च भौजङ्गे॥  
+    
+१००।०६अब्। बहुभृत्य^धनी भोगी सुर^पितृ^भक्तो महोद्यमः पित्र्ये।  
+    
+१००।०६च्द्। प्रियवाग् दाता द्युतिमान् अटनो नृप^सेवको भाग्ये॥  
+    
+१००।०७अब्। सुभगो विद्या^आप्तधनो भोगी सुखभाग् द्वितीयफल्गुन्याम्।  
+    
+१००।०७च्द्। उत्साही धृष्टः पानपो +अघृणी तस्करो हस्ते॥  
+    
+१००।०८अब्। चित्रा^अम्बर^माल्य^धरः सुलोचनाङ्गश् च चित्रायाम्[क्।भवति चित्रायाम्]।  
+    
+१००।०८च्द्। दान्तो वणिक् तृषालुः[क्।कृपालुः] प्रियवाग् धर्माश्रितः स्वातौ॥  
+    
+१००।०९अब्। ईर्षुर्[क्।इर्ष्युर्] लुब्धो द्युतिमान् वचनपटुः कलहकृद् विशाखासु॥  
+    
+१००।०९च्द्। आढ्यो विदेशवासी क्षुधालुर् अटनो +अनुराधासु॥  
+    
+१००।१०अब्। ज्येष्ठासु न बहुमित्रः सन्तुष्टो धर्मकृत् प्रचुरकोपः।  
+    
+१००।१०च्द्। मूले मानी धनवान् सुखी न हिंस्रः स्थिरो भोगी॥  
+    
+१००।११अब्। इष्टा^नन्द^कलत्रो वीरो दृढ^सौहृदश् च जलदेवे।  
+    
+१००।११च्द्। वैश्वे विनीत^धार्मिक^बहु^मित्र^कृतज्ञ^सुभगश् च॥  
+    
+१००।१२अब्। श्रीमान् श्रवणे श्रुतवान् उदार^दारो धन^अन्वितः ख्यातः।  
+    
+१००।१२च्द्। दाता^आढ्य^शूर^गीतप्रियो धनिष्ठासु धन^लुब्धः॥  
+    
+१००।१३अब्। स्फुटवाग् व्यसनी रिपुहा साहसिकः शतभिषक्सु दुर्ग्राह्यः।  
+    
+१००।१३च्द्। भद्रपदासु^उद्विग्नः स्त्रीजित^धन^पटुर् अदाता च॥  
+    
+१००।१४अब्। वक्ता सुखी प्रजावान् जितशत्रुर् धार्मिको द्वितीयासु॥  
+    
+१००।१४च्द्। सम्पूर्ण^अङ्गः सुभगः शूरः शुचिर् अर्थवान् पौष्णे॥
+
+                   १०१ राशिविभागाध्यायः
+
+१०१।०१अब्। अश्विन्यो +अथ भरण्यो बहुलापादश् च कीर्त्यते मेषः।  
+    
+१०१।०१च्द्। वृषभो बहुलाशेषं रोहिण्यो +अर्धम् च मृगशिरसः॥  
+    
+१०१।०२अब्। मृगशिरो +अर्धं रौद्रं पुनर्वसोर्[क्।पुनर्वसोर् च] अंशकत्रयं मिथुनः[क्।मिथुनम्]।  
+    
+१०१।०२च्द्। पादश् च *पुनर्वसुतस् तिष्यः श्लेषा[क्।पुनर्वसोः सतिष्यो +अश्लेषा] च कर्कटकः॥  
+    
+१०१।०३अब्। सिंहो +अथ मघा पूर्वा च फल्गुनी पाद उत्तरायाश् च।  
+    
+१०१।०३च्द्। तत्परिशेषं हस्तश् चित्राद्यर्धं च कन्याख्यः॥  
+    
+१०१।०४अब्। तौलिनि चित्रान्त्यार्धं स्वातिः पादत्रयं विशाखायाः।  
+    
+१०१।०४च्द्। अलिनि विशाखापादस् तथानुराधान्विता ज्येष्ठा॥  
+    
+१०१।०५अब्। मूलम् अषाढा पूर्वा प्रथमश् च^अप्य् उत्तरांशको धन्वी।  
+    
+१०१।०५च्द्। मकरस् तत्परिषेशं श्रवणः पूर्वं धनिष्ठार्धम्॥  
+    
+१०१।०६अब्। कुम्भो +अन्त्यधनिष्ठार्धं शतभिषगंशत्रयं च पूर्वायाः।  
+    
+१०१।०६च्द्। भद्रपदायाः शेषं तथोत्तरा रेवती च झषः॥  
+    
+१०१।०७अब्। अश्विनी^पित्र्य^मूल^आद्या मेष^सिंह^हय^आदयः।  
+    
+१०१।०७च्द्। विषम^ऋक्षान् निवर्तन्ते पाद^वृद्ध्या यथोत्तरम्॥
+
+                   १०२ विवाहपटलाध्यायः
+
+१०२।०१अ मूर्तौ करोति दिनकृद् विधवां कुजश् च  
+    
+१०२।०१ब् राहुर् विपन्न^तनयां रविजो दरिद्राम्।  
+    
+१०२।०१च् शुक्रः शशाङ्क^तनयश् च गुरुश् च साध्वीम्  
+    
+१०२।०१द् आयुःक्षयं प्रकुरुते +अथ विभावरीशः॥  
+    
+१०२।०२अ कुर्वन्ति भास्कर^शनैश्चर^राहु^भौमा  
+    
+१०२।०२ब् दारिद्र्य^दुःखम् अतुलं नियतं द्वितीये।  
+    
+१०२।०२च् वित्तेश्वरीम् अविधवां गुरु^शुक्र^सौम्या  
+    
+१०२।०२द् नारीं प्रभूत^तनयां कुरुते शशाङ्कः॥  
+    
+१०२।०३अ सूर्य^इन्दु^भौम^गुरु^शुक्र^बुधास् तृतीये  
+    
+१०२।०३ब् कुर्युः सदा बहुसुतां धनभागिनीं च।  
+    
+१०२।०३च् व्यक्तां[क्।व्यक्तम्] दिवाकरसुतः सुभगां करोति  
+    
+१०२।०३द् मृत्युं ददाति नियमात् खलु सैंहिकेयः॥  
+    
+१०२।०४अ स्वल्पं पयः स्रवति सूर्यसुते चतुर्थे  
+    
+१०२।०४ब् दौर्भाग्यम् उष्ण^किरणः कुरुते शशी च।  
+    
+१०२।०४च् राहुः सपत्ननम्[क्।सपत्न्यम् ऊ।सपत्नम्] अपि च क्षितिजो +अल्पवित्तं[क्।अल्पवित्ताम्]  
+    
+१०२।०४द् दद्याद् भृगुः सुरगुरुश् च बुधश् च सौख्यम्॥  
+    
+१०२।०५अ नष्टात्मजां रविकुजौ खलु पञ्चमस्थे[क्।पञ्चमस्थौ]  
+    
+१०२।०५ब् चन्द्रात्मजो बहुसुता गुरुभार्गवौ च।  
+    
+१०२।०५च् राहुर् ददाति मरणं शनिर् उग्ररोगं  
+    
+१०२।०५द् कन्या^*विनाशम्[क्।प्रसूतिम्] अचिरात् कुरुते शशाङ्कः॥  
+    
+१०२।०६अ षष्ठ^आश्रिताः शनि^दिवाकर^राहु^जीवाः  
+    
+१०२।०६ब् कुर्युः कुजश् च सुभगां श्वशुरेषु भक्ताम्।  
+    
+१०२।०६च् चन्द्रः करोति विधवाम् उशना दरिद्राम्  
+    
+१०२।०६द् ऋद्धां शशाङ्क^तनयः कलहप्रियां च॥  
+१०२।०७अ सौर^आर^जीव^बुध^राहु^रवि^इन्दु^शुक्राः  
+    
+१०२।०७ब् कुर्युः प्रसह्य खलु सप्तमराशि^संस्थाः।  
+    
+१०२।०७च् वैधव्य^बन्धन^वध^क्षयम् अर्थनाश^  
+    
+१०२।०७द् व्याधि^प्रवास^मरणानि यथाक्रमेण॥  
+    
+१०२।०८अ स्थाने +अष्टमे गुरुबुधौ नियतं वियोगं  
+    
+१०२।०८ब् मृत्युं शशी भृगुसुतश् च तथ^एव राहुः।  
+    
+१०२।०८च् सूर्यः करोत्य् अविधवां सरुजां[क्।सरुजम्] महीजः  
+    
+१०२।०८द् सूर्यात्मजो धनवतीं पतिवल्लभां च॥  
+    
+१०२।०९अ धर्मे स्थिता भृगु^दिवाकर^भूमिपुत्रा  
+    
+१०२।०९ब् जीवश् च धर्मनिरतां शशिजस् त्व् अरोगाम्।  
+    
+१०२।०९च् राहुश् च सूर्यतनयश् च करोति बन्ध्यां[क्।वन्ध्याम्]  
+    
+१०२।०९द् कन्याप्रसूतिम् अटनां[क्।अटनम्] कुरुते शशाङ्कः॥  
+    
+१०२।१०अ राहुर् नभःस्थल^गतो[क्।नभस्थलगतो] विधवां करोति  
+    
+१०२।१०ब् पापे रतां दिनकरश् च शनैश्चरश् च।  
+    
+१०२।१०च् मृत्युं कुजो +अर्थरहितां कुलटां च चन्द्रः  
+    
+१०२।१०द् शेषा ग्रहा धनवतीं सुभगां च कुर्युः॥  
+    
+१०२।११अ आये रविर् बहुसुतां सधनां[क्।धनिनीम्] शशाङ्कः  
+    
+१०२।११ब् पुत्र^अन्वितां क्षितिसुतो रविजो धनाढ्याम्।  
+    
+१०२।११च् आयुष्मतीं सुरगुरुः शशिजः समृद्धां  
+    
+१०२।११द् राहुः करोत्य् अविधवां भृगुर् अर्थयुक्ताम्॥  
+    
+१०२।१२अ अन्ते गुरुर् धनवतीं दिनकृद् दरिद्रां  
+    
+१०२।१२ब् चन्द्रो धन^व्यय^करीं कुलटां च राहुः।  
+    
+१०२।१२च् साध्वीं भृगुः शशिसुतो बहु^पुत्र^पौत्रां  
+    
+१०२।१२द् पान^प्रसक्त^हृदयाम् रविजः कुजश् च॥  
+    
+१०२।१३अ गोपैर् यष्ट्य्^आहतानां खुर^पुट^दलिता या तु धूलिर् दिनान्ते  
+    
+१०२।१३ब् सोद्वाहे सुन्दरीणां विपुल^धन^सुत^आरोग्य^सौभाग्य^कर्त्री।  
+    
+१०२।१३च् तस्मिन् काले न च^ऋक्षं न च तिथि^करणं नैव लग्नं न योगः  
+    
+१०२।१३द् ख्यातः पुंसां सुखार्थं शमयति दुरितान्य् उत्थितं गोरजस् तु॥
+
+                   १०३ ग्रहगोचराध्यायः
+
+१०३।०१अब्। प्रायेण सूत्रेण विनाकृतानि प्रकाश^रन्ध्राणि चिरन्तनानि।  
+    
+१०३।०१च्द्। रत्नानि शास्त्राणि च योजितानि नवैर् गुणैर् भूषयितुं क्षमाणि॥  
+    
+१०३।०२अब्। प्रायेण गोचरो व्यवहार्यो +अतस् तत्फलानि वक्ष्यामि।  
+    
+१०३।०२च्द्। नानावृत्तैर् आर्या[क्।तन्नो] मुखचपलत्वं *क्षमध्वं नः [क्।क्षमन्त्व् आर्याः]॥  
+    
+१०३।०३अब्। माण्डव्य^गिरं श्रुत्वा न मदीया रोचते +अथ वा नैवम्।  
+    
+१०३।०३च्द्। साध्वी तथा न पुंसां प्रिया यथा स्याज् जघनचपला॥  
+    
+१०३।०४अ सूर्यः षट्^त्रि^दश^स्थितस् त्रि^दश^षट्^सप्ताद्यगश् चन्द्रमा  
+    
+१०३।०४ब् जीवः सप्त^नव^द्वि^पञ्चम^गतो वक्र^अर्कजौ षट्त्रिगौ।  
+    
+१०३।०४च् सौम्यः षड्^द्वि^चतुर्^दश^अष्टम^गतः सूर्ये[क्।ऊ।सर्वे] +अप्य् उपान्ते शुभाः  
+    
+१०३।०४द् शुक्रः सप्तम^षड्^दश^ऋक्ष^सहितः शार्दूलवत् त्रासकृत्॥  
+    
+१०३।०५अ जन्मन्य् आयासदो +अर्कः क्षपयति विभवान् कोष्ठरोग^अध्व^दाता  
+    
+१०३।०५ब् वित्त^भ्रंशं द्वितीये दिशति च न सुखं वञ्चनां दृग्रुजं च।  
+    
+१०३।०५च् स्थानप्राप्तिं तृतीये *धन^निचय^मुदा कल्य^कृच्[क्।धननिचयमुदाकल्यकृच्] च^अरि^हर्ता[क्।हन्ता]  
+    
+१०३।०५द् रोगान् दत्ते[क्।धत्ते] चतुर्थे जनयति च मुहुः स्रग्धरा^भोग^विघ्नम्॥  
+    
+१०३।०६अ पीडाः स्युः पञ्चमस्थे सवितरि बहुशो रोग^अरि^जनिताः  
+    
+१०३।०६ब् षष्ठे +अर्को हन्ति रोगान् क्षपयति च रिपून् शोकांश् च नुदति।  
+    
+१०३।०६च् अध्वानं सप्तमस्थो जठर^गद^भयं दैन्यं च कुरुते।  
+    
+१०३।०६द् रुक्^त्रासौ[क्।रुक्कासौ] च^अष्टमस्थे भवति सुवदना न स्वापि वनिता॥  
+    
+१०३।०७अ रवाव् आपद्दैन्यं रुग् इति नवमे वित्त[क्।चित्त]चेष्टाविरोधो  
+    
+१०३।०७ब् जयं प्राप्नोत्य् उग्रं दशम^गृहगे कर्म^सिद्धिं क्रमेण।  
+    
+१०३।०७च् जय^स्थानं[क्।जयं स्थानम्] मानं विभवम् अपि च^एकादशे रोगनाशं  
+    
+१०३।०७द् सुवृत्तानां चेष्टा भवति सफला द्वादशे न^इतरेषाम्॥  
+    
+१०३।०८अ शशी जन्मन्य् अन्न^प्रवर^शयन^आच्छादन^करो  
+    
+१०३।०८ब् द्वितीये मानार्थान्[क्।मानार्थौ] ग्लपयति सविघ्नश् च भवति।  
+    
+१०३।०८च् तृतीये वस्त्र^स्त्री^धन^विजय[क्।निचय]सौख्यानि लभते  
+    
+१०३।०८द् चतुर्थे +अविश्वासः शिखरिणि भुजङ्गेन सदृशः॥  
+    
+१०३।०९अ दैन्यं व्याधिं शुचम् अपि शशी पञ्चमे मार्गविघ्नं  
+    
+१०३।०९ब् षष्ठे वित्तं जनयति सुखं शत्रुरोगक्षयं च।  
+    
+१०३।०९च् यानं मानं शयनम् अशनं सप्तमे वित्तलाभं  
+    
+१०३।०९द् मन्दाक्रान्ते फणिनि हिमगौ च अष्टमे भीर् न कस्य॥  
+    
+१०३।१०अ नवम^गृहगो बन्ध^उद्वेग^श्रम^उदररोगकृद्  
+    
+१०३।१०ब् दशम^भवने च आज्ञा^कर्म^प्रसिद्धि^करः *शशी[क्।ओमित्तेद्]।  
+    
+१०३।१०च् उपचय^सुहृत्संयोग^अर्थप्रमोदम् उपान्त्यगो  
+    
+१०३।१०द् वृषभ^चरितान् दोषान् अन्त्ये[क्।अन्ते] करोति च[क्।हि] सव्ययान्॥  
+    
+१०३।११अब्। कुजे +अभिघातः प्रथमे द्वितीये नरेन्द्रपीडा कलहारिदोषैः।  
+    
+१०३।११च्द्। भृशं च पित्त^अनल^*चौर^रोगैर्[क्।रोगचौरैर्] उपेन्द्रवज्र^प्रतिमो +अपि यः स्यात्॥  
+    
+१०३।१२अ तृतीयगश् चौर^कुमारकेभ्यो  
+    
+१०३।१२ब् भौमः सकाशात् फलम् आदधाति।  
+    
+१०३।१२च् प्रदीप्तिम् आज्ञां धनम् और्णिकानि  
+    
+१०३।१२द् धात्व्^आकर^आख्यानि किल अपराणि॥  
+    
+१०३।१३अब्। भवति धरणिजे चतुर्थगे ज्वर^जठर^गद^असृग्^उद्भवः।  
+    
+१०३।१३च्द्। कुपुरुष^जनिताच् च सङ्गमात् प्रसभम् अपि करोति च अशुभम्॥  
+    
+१०३।१४अ रिपु^गद^कोप^भयानि पञ्चमे  
+    
+१०३।१४ब् तनयकृताश् च शुचो महीसुते।  
+    
+१०३।१४च् द्युतिर् अपि न अस्य चिरं भवेत् स्थिरा  
+    
+१०३।१४द् शिरसि कपेर् इव मालती यथा[क्।कृता]॥  
+    
+१०३।१५अब्। रिपु^भय^कलहैर् विवर्जितः सकनक^विद्रुम^ताम्र^*कामगः[क्।कागमः ऊ।चागम]।  
+    
+१०३।१५च्द्। रिपुभवन^गते महीसुते किम् अपरवक्त्र^विकारम् ईक्षते॥  
+    
+१०३।१६अ कलत्र^कलह^अक्षि^रुग्^जठररोग^कृत् सप्तमे  
+    
+१०३।१६ब् क्षरत्^क्षतज^रूक्षितः क्षपित[क्।क्षयित]^वित्त^मानो +अष्टमे।  
+    
+१०३।१६च् कुजे नवम^संस्थिते परिभव^अर्थनाश^आदिभिर्  
+    
+१०३।१६द् विलम्बितगतिर् भवत्य् अबल^देह^धातु^क्लमैः॥  
+    
+१०३।१७अब्। दशम^गृहगते समं महीजे विविध^धन^आप्तिर् उपान्त्यगे जयश् च।  
+    
+१०३।१७च्द्। जनपदम् उपरि स्थितश् च भुङ्क्ते वनम् इव षट्चरणः सुपुष्पित^अग्रम्॥  
+    
+१०३।१८अ नानाव्ययैर् द्वादशगे महीसुते  
+    
+१०३।१८ब् सन्ताप्यते +अनर्थ^शतैश् च मानवः।  
+    
+१०३।१८च् स्त्री^कोप^पित्तैश् च सनेत्र^वेदनैर्  
+    
+१०३।१८द् यो +अपि इन्द्रवंश^अभिजनेन गर्वितः॥  
+१०३।१९अब्। दुष्ट^वाक्य^पिशुन^अहित^भेदैर् बन्धनैः सकलहैश् च हृतस्वः।  
+    
+१०३।१९च्द्। जन्मगे शशिसुते पथि गच्छन् स्वागते +अपि कुशलं न शृणोति॥  
+    
+१०३।२०अब्। परिभवो धनगते धनलब्धिः सहजगे शशिसुते हृदय^आप्तिः[क्।ऊ।सुहृदाप्तिः]।  
+    
+१०३।२०च्द्। नृपति^शत्रु^भय^शङ्कित^*चितो[क्।चित्तो] द्रुतपदं व्रजति दुश्चरितैः स्वैः॥  
+    
+१०३।२१अ चतुर्थगे स्वजन^कुटुम्ब^वृद्धयो  
+    
+१०३।२१ब् धन^आगमो भवति च शीतरश्मिजे।  
+    
+१०३।२१च् सुत^स्थिते तनय^कलत्र^विग्रहो  
+    
+१०३।२१द् निषेवते न च रुचिराम् अपि स्त्रियम्॥  
+    
+१०३।२२अ सौभाग्यं विजयम् अथ उन्नतिं च षष्ठे  
+    
+१०३।२२ब् वैवर्ण्यं कलहम् अतीव सप्तमे ज्ञः।  
+    
+१०३।२२च् मृत्युस्थे जय^सुत[क्।सुतजय]^वस्त्र^वित्त^लाभा  
+    
+१०३।२२द् नैपुण्यं भवति मति^प्रहर्षणीयम्॥  
+    
+१०३।२३अब्। विघ्नकरो नवमः शशिपुत्रः कर्मगतो रिपुहा धनदश् च।  
+    
+१०३।२३च्द्। सप्रमदं शयनं च विधत्ते तद्गृहदो +अथ *कथां स्तरणं च[क्।कथास्तरणं]॥  
+    
+१०३।२४अ धन^*सुत^सुख[क्।सुखसुत]^योषिन्^मित्र^*वाह[क्।वाह्य]^आप्ति^तुष्टिस्  
+    
+१०३।२४ब् तुहिनकिरण^पुत्रे लाभगे मृष्ट^वाक्यः।  
+    
+१०३।२४च् रिपु^परिभव^रोगैः पीडितो द्वादशस्थे  
+    
+१०३।२४द् न सहति परिभोक्तुं मालिनी^योग^सौख्यम्॥  
+    
+१०३।२५अ जीवे जन्मन्य् अपगत^धन^धीः  
+    
+१०३।२५ब् स्थान^भ्रष्टो बहु^कलह^युतः।  
+    
+१०३।२५च् प्राप्य अर्थे +अर्थान् व्यरिर् अपि कुरुते  
+    
+१०३।२५द् कान्ता^आस्य^अब्जे भ्रमरविलसितम्॥  
+    
+१०३।२६अ स्थान^भ्रंशात् कार्य^विघाताच् च तृतीये  
+    
+१०३।२६ब् +अनेकैः[क्।नैकैः] क्लेशैर् बन्धुजन^उत्थैश् च चतुर्थे।  
+    
+१०३।२६च् जीवे शान्तिं पीडितचित्तश् च स विन्देद्[क्।विन्देन्]  
+    
+१०३।२६द् नैव ग्रामे नापि वने मत्त^मयूरे॥  
+    
+१०३।२७अ जनयति च तनयभवनम् उपगतः  
+    
+१०३।२७ब् परिजन^शुभ^सुत^करि^तुरग^वृषान्।  
+    
+१०३।२७च् सकनक^पुर^गृह^युवति^वसन^कृन्  
+    
+१०३।२७द् मणिगुणनिकर^कृद् अपि विबुध^गुरुः॥  
+    
+१०३।२८अ न सखी^वदनं तिलकोज्ज्वलं  
+    
+१०३।२८ब् न *च वनं[क्।भवनम्] शिखि^कोकिल^नादितम्।  
+    
+१०३।२८च् हरिण^प्लुत^शाव^विचित्रितं  
+    
+१०३।२८द् रिपुगते मनसः सुखदं गुरौ॥  
+    
+१०३।२९अ त्रिदशगुरुः शयनं रतिभोगं  
+    
+१०३।२९ब् धनम् अशनं कुसुमान्य् उपवाह्यम्।  
+    
+१०३।२९च् जनयति सप्तमराशिम् उपेतो  
+    
+१०३।२९द् ललितपदां च गिरं धिषणां च॥  
+    
+१०३।३०अ बन्धं व्याधिम् च^अष्टमे शोकम् उग्रं  
+    
+१०३।३०ब् मार्ग^*क्लेशान्[क्।क्लेशम्] मृत्यु^तुल्यांश् च रोगान्।  
+    
+१०३।३०च् नैपुण्या^आज्ञा^पुत्र^कर्म^अर्थ^सिद्धिं  
+    
+१०३।३०द् धर्मे जीवः शालिनीनां च लाभम्॥  
+    
+१०३।३१अ स्थान^कल्य^धन^हा दश^ऋक्षगस्  
+    
+१०३।३१ब् तत्प्रदो भवति लाभगो गुरुः।  
+    
+१०३।३१च् द्वादशे +अध्वनि विलोम^दुःख^भाग्  
+    
+१०३।३१द् याति यद्य् अपि नरो रथोद्धतः॥  
+    
+१०३।३२अ प्रथमगृह^उपगो भृगुसुतः स्मर^उपकरणैः  
+    
+१०३।३२ब् सुरभि^मनोज्ञ^गन्ध^कुसुम^अम्बरैर् उपचयम्।  
+    
+१०३।३२च् शयन^गृह^आसन^अशन^युतस्य च अनुकुरुते  
+    
+१०३।३२द् समद^विलासिनी^मुख^सरोज^षट्चरणताम्॥  
+    
+१०३।३३अ शुक्रे द्वितीयगृहगे प्रसव^अर्थ^धान्य^  
+    
+१०३।३३ब् भूपाल^*सन्नत[क्।सन्नति]^कुटुम्ब^हितान्य् अवाप्य।  
+    
+१०३।३३च् संसेवते कुसुम^रत्न^विभूषितश् च  
+    
+१०३।३३द् कामं वसन्ततिलक^द्युति^मूर्धजो +अपि॥  
+    
+१०३।३४अब्। आज्ञा^अर्थ^मान^आस्पद^भूति^वस्त्र^शत्रु^क्षयान् दैत्यगुरुस् तृतीये।  
+    
+१०३।३४च्द्। दत्ते[क्।धत्ते] चतुर्थश् च सुहृत्^समाजं रुद्र^इन्द्र^वज्र^प्रतिमां च शक्तिम्॥  
+    
+१०३।३५अब्। जनयति शुक्रः पञ्चमसंस्थो गुरु^परितोषं बन्धुजन^आप्तिम्।  
+    
+१०३।३५च्द्। सुत^धन^लब्धिं मित्र^सहायान् अनवसितत्वं च अरि^बलेषु॥  
+    
+१०३।३६अ षष्ठो भृगुः परिभव^रोग^तापदः  
+    
+१०३।३६ब् स्त्रीहेतुकं जनयति सप्तमो +अशुभम्।  
+    
+१०३।३६च् यातो +अष्टमं भवन^परिच्छद^प्रदो  
+    
+१०३।३६द् लक्ष्मीवतीम् उपनयति स्त्रियं च सः॥  
+    
+१०३।३७अ नवमे तु धर्म^वनिता^सुख^भाग्  
+    
+१०३।३७ब् भृगुजे +अर्थ^वस्त्र^निचयश् च भवेत्।  
+    
+१०३।३७च् दशमे +अवमान^कलहान् नियमात्  
+    
+१०३।३७द् प्रमिताक्षराण्य् अपि वदन् लभते॥  
+    
+१०३।३८अब्। उपान्त्यगो भृगो सुतः सुहृद्^धन^अन्न^गन्ध^दः।  
+    
+१०३।३८च्द्। धन^अम्बर^आगमो +अन्त्यगः स्थिरस् तु न^अम्बर^आगमः॥  
+    
+१०३।३९अब्। प्रथमे रविजे विष^वह्नि^हतः स्वजनैर् वियुतः कृत^बन्धु^वधः।  
+    
+१०३।३९च्द्। परदेशम् उपैत्य् असुहृद्^भवनो विमुख^अर्थ^सुतो +अटक^दीन^मुखः॥  
+    
+१०३।४०अ चारवशाद् द्वितीयगृहगे दिनकर^तनये  
+    
+१०३।४०ब् रूप^सुख^अपवर्जित^तनुर् विगत^मद^बलः।  
+    
+१०३।४०च् अन्यगुणैः कृतं वसुचयम् तद् अपि खलु भवत्य्  
+    
+१०३।४०द् अम्ब्व् इव वंशपत्रपतितं न बहु न च चिरम्॥  
+    
+१०३।४१अ सूर्यसुते तृतीयगृहगे धनानि लभते  
+    
+१०३।४१ब् दास^परिच्छद^उष्ट्र^महिषा^अश्व^कुञ्जर^खरान्।  
+    
+१०३।४१च् सद्म^विभूति^सौख्यम् अमितं गद^व्युपरमं  
+    
+१०३।४१द् भीरुर् अपि प्रशास्त्य् अधिरिपूंश् च वीर^ललितैः॥  
+    
+१०३।४२अ चतुर्थं गृहं सूर्यपुत्रे +अभ्युपेते  
+    
+१०३।४२ब् सुहृद्^वित्त^भार्य^आदिभिर् विप्रयुक्तः।  
+    
+१०३।४२च् भवत्य् अस्य सर्वत्र च^असाधु दुष्टं  
+    
+१०३।४२द् भुजङ्ग^प्रयात^अनुकारं च चित्तम्॥  
+    
+१०३।४३अ सुत^धन^परिहीणः पञ्चमस्थे  
+    
+१०३।४३ब् प्रचुर^कलह^युक्तश् च अर्कपुत्रे।  
+    
+१०३।४३च् विनिहत^रिपु^रोगः षष्ठयाते  
+    
+१०३।४३द् पिबति च वनिता^आस्यं श्री^पुटोष्ठम्॥  
+    
+१०३।४४अ गच्छत्य् अध्वानं सप्तमे च अष्टमे च  
+    
+१०३।४४ब् हीनः स्त्री^पुत्रैः सूर्यजे दीनचेष्टः।  
+    
+१०३।४४च् तद्वद् धर्मस्थे वैर^हृद्^रोग^बन्धैर्  
+    
+१०३।४४द् धर्मो +अप्य् उच्छिद्येद् वैश्वदेवी^क्रिया^आद्यः॥  
+    
+१०३।४५अ कर्म^प्राप्तिर् दशमे +अर्थक्षयश् च  
+    
+१०३।४५ब् विद्या^कीर्त्योः परिहानिश् च सौरे।  
+    
+१०३।४५च् तैक्ष्ण्यं लाभे परयोषार्थ^*लाभश्[क्।लाभा]  
+    
+१०३।४५द् च अन्त्ये[क्।अन्ते] प्राप्नोत्य् अपि शोक^ऊर्मिमालाम्॥  
+    
+१०३।४६अब्। अपि कालम् अपेक्ष्य च पात्रं शुभकृद् विदधात्य् अनुरूपम्।  
+१०३।४६च्द्। न मधौ बहु कं कुडवे वा[क्।च] विसृजत्य् अपि मेघवितानः॥  
+    
+१०३।४७अ रक्तैः पुष्पैर् गन्धैस् ताम्रैः कनक^वृष^बकुल^कुसुमैर् दिवाकर^भूसुतौ  
+    
+१०३।४७ब् भक्त्या पूज्याव् इन्दुर् धेन्वा सितकुसुम^रजत^मधुरैः सितश् च मदप्रदैः।  
+    
+१०३।४७च् कृष्णद्रव्यैः सौरिः सौम्यो मणि^रजत^तिलक^कुसुमैर् गुरुः परिपीतकैः  
+    
+१०३।४७द् प्रीतैः पीडा न स्याद् उच्चाद् यदि पतति विशति यदि वा भुजङ्गविजृम्भितम्॥  
+    
+१०३।४८अब्। शमय^उद्गताम् अशुभदृष्टिम् अपि विबुधविप्रपूजया।  
+    
+१०३।४८च्द्। शान्ति^जप^नियम^दान^दमैः सुजन^अभिभाषण^समागमैस् तथा॥  
+    
+१०३।४९अब्। रवि^भौमौ पूर्वार्धे शशिसौरौ कथयतो +अन्त्यगौ राशेः।  
+    
+१०३।४९च्द्। सदसल्^लक्षणम् आर्यगीत्य्^उपगीत्योर् यथासङ्ख्यम्॥  
+    
+१०३।५०अब्। आदौ यादृक् सौम्यः पश्चाद् अपि तादृशो भवति।  
+    
+१०३।५०च्द्। उपगीतेर् मात्राणां गणवत् सत्सम्प्रयोगो वा॥  
+    
+१०३।५१अब्। आर्याणाम् अपि कुरुते विनाशम् अन्तर्गुरुर् विषमसंस्थः।  
+    
+१०३।५१च्द्। गण इव षष्ठे दृष्टः स[क्।च] सर्वलघुतां जनं[क्।गतो] नयति॥  
+    
+१०३।५२अ अशुभ^निरीक्षितः शुभ^फलो बलिना बलवान्  
+    
+१०३।५२ब् अशुभ^फल^प्रदश् च शुभ^दृग्^विषय^उपगतः।  
+    
+१०३।५२च् अशुभशुभाव् अपि स्वफलयोर् व्रजतः समताम्  
+    
+१०३।५२द् इदम् अपि गीतकं च खलु नर्कुटकं च यथा॥  
+    
+१०३।५३अब्। नीचे +अरिभे +अस्ते *च अरिदृष्टस्य[क्ऽस् त्र्। अरिदृष्टस्य] सर्वं वृथा यत्[क्ऽस् त्र्। यथा] परिकीर्तितम्।  
+    
+१०३।५३च्द्। पुरतो +अन्धस्य इव कामिन्याः सविलास^कटाक्ष^निरीक्षणम्॥  
+    
+१०३।५४अब्। सूर्यसुतो +अर्कफलसमश् चन्द्रसुतश् छन्दतः समनुयाति यथा।  
+    
+१०३।५४च्द्। स्कन्धकम् आर्यागीतिर् वैतालीयं च मागधी गाथा^आर्याम्॥  
+    
+१०३।५५अब्। सौरो +अर्करश्मि^*योगात्[क्।रागात्] सविकारो लब्ध^वृद्धिर् अधिकतरम्।  
+१०३।५५च्द्। पित्तवद् आचरति नृणां पथ्यकृतां न तु तथा^आर्याणाम्॥  
+    
+१०३।५६अब्। यादृशेन ग्रहेण^इन्दुर् युक्तस् तादृग् भवेत् सो +अपि।  
+    
+१०३।५६च्द्। मनो^वृत्ति^समायोगाद् विकार इव वक्त्रस्य॥  
+    
+१०३।५७अब्। पञ्चमं *लघु सर्वेषु[क्।सर्वपादेषु] सप्तमं द्वि^चतुर्थयोः।  
+    
+१०३।५७च्द्। यद्वत्^श्लोक^अक्षरं तद्वल् लघुतां याति दुःस्थितैः॥  
+    
+१०३।५८अब्। प्रकृत्या^अपि लघुर् यश् च वृत्तबाह्ये व्यवस्थितः।  
+    
+१०३।५८च्द्। स याति गुरुतां लोके यदा स्युः सुस्थिता ग्रहाः॥  
+    
+१०३।५९अब्। प्रारब्धम् असुस्थितैर् ग्रहैर् यत् कर्म^आत्म^विवृद्धये बुधैः[क्।+अबुधैः]।  
+    
+१०३।५९च्द्। विनिहन्ति तद् एव कर्म तान् वैतालीयम् इव अयथाकृतम्॥  
+    
+१०३।६०अब्। सौस्थित्यम् अवेक्ष्य यो ग्रहेभ्यः काले प्रक्रमणं करोति राजा।  
+    
+१०३।६०च्द्। अणुना अपि स पौरुषेण वृत्तस्य^औपच्छन्दसिकस्य याति पारम्॥  
+    
+१०३।६१अ उपचय^भवन^उपयातस्य भानोर् दिने कारयेद् धेम^ताम्र^अश्व^काष्ठ^अस्थि^चर्म^और्णिक^अद्रि^द्रुम^त्वग्^नख^व्याल^चौर^आयुधीय^अटवी^क्रूर^राजोपसेव^अभिषेक^औषध^क्षौम^पण्यादि^गोपाल^कान्तार^वैद्य^अश्म^कूट^अवदात^अभिविख्यात^शूर^आहवश्लाघ्य^*याय्य्[क्।याज्य]^*अग्निकर्माणि[क्।^अग्निकार्याणि] सिद्ध्यन्ति लग्नस्थिते वा रवौ।  
+    
+१०३।६१ब् शिशिरकिरण^वासरे तस्य व अप्य् उद्गमे केन्द्रसंस्थे +अथ वा भूषणं शङ्ख^मुक्ता^अब्ज^रूप्य^अम्बु^यज्ञ^इक्षु^भोज्य^अङ्गना^क्षीर^सुस्निग्धवृक्ष^क्षुप^अनूप^धान्य^द्रवद्रव्य^*विप्र^अध्व^गीत[क्।विप्राश्वशीत]क्रिया^शृङ्गि^कृष्यादि^सेनाधिप^आक्रन्द^भूपाल^सौभाग्य^नक्तञ्चर^श्लैष्मिक^द्रव्य^मातुल्य[क्।मातुङ्ग]पुष्प^अम्बर^आरम्भ^सिद्धिर् भवेत्॥  
+    
+१०३।६१च् क्षितितनय^दिने प्रसिद्ध्यन्ति[क्।प्रसिध्यन्ति] धात्वाकरादीनि सर्वाणि कार्याणि चामीकर^अग्नि^प्रवाल^आयुध^क्रौर्य^चौर्य^अभिघात^अटवी^दुर्ग^सेनाधिकारास् तथा रक्त^पुष्प^द्रुमा रक्तम् अन्यच् च तिक्तं कटु^द्रव्य^कूट^अहि^पाश^अर्जित^स्वाः कुमारा भिषक्^शाक्यभिक्षु^क्षपावृत्ति^कोशेश[क्।कौशेय]^शाठ्यानि सिद्ध्यन्ति[क्।सिध्यन्ति] दम्भास् तथा॥  
+    
+१०३।६१द् हरति[उ।हरित, क्।हरित]मणि^मही^सुगन्धीनि वस्त्राणि साधारणं नाटकं शास्त्र^विज्ञान^काव्यानि सर्वाः कला^युक्तयो मन्त्र^धातु^क्रिया^वाद^नैपुण्य^पुण्य^व्रतायोग^दूतास् तथा^आयुष्य^माया^अनृत^स्नान^ह्रस्वाणि दीर्घाणि मध्यानि च छन्दतश्[क्।च्छन्दनश्] चण्डवृष्टि^प्रयात^अनुकारीणि कार्याणि सिद्ध्यन्ति[क्।सिध्यन्ति] सौम्यस्य लग्ने +अह्नि वा॥  
+    
+१०३।६२अ सुरगुरु^दिवसे कनकं रजतं तुरगाः करिणो वृषभा भिषग्^औषधयः[क्।ओषधयः]  
+    
+१०३।६२ब् द्विज^पितृ^सुर^कार्य^पुरःस्थित^घर्म^निवारण^चामर^भूषण^भूपतयः।  
+    
+१०३।६२च् विबुध^भवन^धर्मसमाश्रय^मङ्गल^शास्त्र^मनोज्ञ^बलप्रद^सत्यगिरः  
+    
+१०३।६२द् व्रत^हवन^धनानि च सिद्धिकराणि तथा रुचिराणि च वर्णक^दण्डकवत्॥  
+    
+१०३।६३अ भृगुसुतदिवसे च चित्र^वस्त्र^वृष्य^वेश्य^कामिनी^विलास^हास^यौवनोपभोग^रम्य^भूमयः  
+    
+१०३।६३ब् स्फटिक^रजत^मन्मथ^उपचार^वाहन^इक्षु^शारद^प्रकार^गो^वणिक्^कृषीवल^औषध^अम्बुजानि च।  
+    
+१०३।६३च् सवितृसुतदिने च कारयेन् महिष्य्^अज^उष्ट्र^कृष्णलोह^दास^वृद्ध^नीच^कर्म^पक्षि^चौर^पाशिकान्  
+    
+१०३।६३द् च्युतविनय^विशीर्णभाण्ड^हस्त्य्^अपेक्ष^विघ्नकारणानि च अन्यथा न साधयेत् समुद्रगो +अप्य् अपां कणम्॥  
+    
+१०३।६४अब्। विपुलाम् अपि बुद्ध्वा छन्दोविचितिं भवति कार्यम् एतावत्।  
+    
+१०३।६४च्द्। श्रुति^सुखद^वृत्त^सङ्ग्रहम् इमम् आह वराहमिहिरो +अतः॥
+
+                   १०४ रूपसत्राध्यायः
+
+१०४।०१अब्। पादौ मूलं जङ्घे च रोहिणी जानुनी[क्।ओमित्तेद्] तथाश्विन्यः।  
+    
+१०४।०१च्द्। ऊरू च आषाढद्वयम् अथ गुह्यं फल्गुनी^*द्वितयम्[क्।युग्मम्]॥  
+    
+१०४।०२अब्। कटिर् अपि च कृत्तिका पार्श्वयोश् च यमला भवन्ति भद्रपदाः।  
+    
+१०४।०२च्द्। कुक्षिस्था रेवत्यो विज्ञेयम् उरो +अनुराधा च॥  
+    
+१०४।०३अब्। पृष्ठं विद्धि धनिष्ठां[क्।धनिष्ठा] भुजौ विशाखा[क्।विशाखाम्] स्मृतौ करौ हस्तः॥  
+    
+१०४।०३च्द्। अङ्गुल्यश् च पुनर्वसुर् आश्लेषासञ्ज्ञिताश् च नखाः॥  
+    
+१०४।०४अब्। ग्रीवा ज्येष्ठा *श्रवणं श्रवणौ[क्।श्रवणौ श्रवनः] पुष्यो मुखं द्विजाः स्वातिः।  
+    
+१०४।०४च्द्। हसितं शतभिषग् अथ नासिका मघा मृगशिरो नेत्रे॥  
+    
+१०४।०५अब्। चित्रा ललाटसंस्था शिरो भरण्यः शिरोरुहाश् च^आर्द्रा।  
+    
+१०४।०५च्द्। नक्षत्रपुरुषको +अयं कर्तव्यो रूपम् इच्छद्भिः॥  
+    
+१०४।०६अब्। चैत्रस्य बहुल^पक्षे ह्य् अष्टम्यां मूलसंयुते चन्द्रे।  
+    
+१०४।०६च्द्। ह्य्[क्।ओमित्तेद्] उपवासः कर्तव्यो विष्णुं सम्पूज्य धिष्ण्यं च॥  
+    
+१०४।०७अब्। दद्याद् व्रते समाप्ते घृतपूर्णं भाजनं सुवर्णयुतम्।  
+    
+१०४।०७च्द्। विप्राय कालविदुषे सरत्नवस्त्रं स्वशक्त्या च॥  
+    
+१०४।०८अ अन्नैः क्षीरघृत^उत्कटैः सह गुडैर् विप्रान् समभ्यर्चयेद्  
+    
+१०४।०८ब् दद्यात् तेषु सुवर्ण[क्।तथ^एव]वस्त्ररजतं लावण्यम् इच्छन् नरः।  
+    
+१०४।०८च् पाद^ऋक्षात् प्रभृति क्रमाद् उपवसन्न् अङ्ग^ऋक्षनामस्व् अपि  
+    
+१०४।०८द् कुर्यात् केशव^पूजनं स्वविधिना धिष्ण्यस्य पूजां तथा॥  
+    
+१०४।०९अब्। प्रलम्ब^बाहुः पृथु^पीन^वक्षाः क्षपाकर^आस्यः सित^चारु^दन्तः।  
+    
+१०४।०९च्द्। गजेन्द्र^गामी कमल^आयत^अक्षः स्त्री^चित्त^हारी स्मर^तुल्य^मूर्तिः॥  
+    
+१०४।१०अब्। शरद्^अमल^पूर्ण^चन्द्र^द्युति^सदृश^मुखी सरोज^दल^नेत्रा।  
+    
+१०४।१०च्द्। रुचिर^दशना सुकर्णा भ्रमर^उदर^सन्निभैः केशैः॥  
+    
+१०४।११अब्। पुंस्कोकिल^सम^वाणी ताम्रोष्टी[क्।ऊ।ताम्रोष्ठी] पद्म^पत्र^कर^चरणा।  
+    
+१०४।११च्द्। स्तनभारा^नत^मध्या प्रदक्षिणावर्तया नाभ्या॥  
+    
+१०४।१२अब्। कदली^काण्ड^निभ^ऊरुः[क्।ऊ।ऊरूः] सुश्रोणी वर^कुकुन्दरा सुभगा।  
+    
+१०४।१२च्द्। सुश्लिष्ट^अङ्गुलि^पादा भवति प्रमदा *मनुष्यश् च[क्।मनुष्यो वा]॥  
+    
+१०४।१३अ यावन् नक्षत्रमाला विचरति गगने भूषयन्ती इह भासा  
+    
+१०४।१३ब् तावन् नक्षत्रभूतो विचरति सह तैर् ब्रह्मणो +अह्नो +अवशेषम्।  
+    
+१०४।१३च् कल्पादौ चक्रवर्ती भवति हि मतिमांस् तत्क्षयाच् च^अपि भूयः  
+    
+१०४।१३द् संसारे जायमानो भवति नरपतिर् ब्राह्मणो वा धनाढ्यः॥  
+    
+१०४।१४अब्। मृगशीर्ष^आद्याः केशव^नारायण^माधवाः सगोविन्दाः।  
+    
+१०४।१४च्द्। विष्णु^मधुसूदन^आख्यौ त्रिविक्रमो वामनश् च^एव॥  
+    
+१०४।१५अब्। श्रीधर^नामा तस्मात् सहृषीकेशश् च पद्मनाभश् च।  
+    
+१०४।१५च्द् दामोदर इत्य् एते मासाः प्रोक्ता यथासङ्ख्यम्॥  
+    
+१०४।१६अब्। मास^नाम समुपोषितो नरो द्वादशीषु विधिवत् प्रकीर्तयन्।  
+    
+१०४।१६च्द्। केशवम् समभिपूज्य तत्पदं याति यत्र नहि जन्मजं भयम्॥
+
+                   १०५ उपसंहाराध्यायः
+
+१०५।०१अब्। ज्योतिःशास्त्र^समुद्रं प्रमथ्य मति^मन्दराद्रिणा +अथ मया।  
+    
+१०५।०१च्द्। लोकस्य आलोककरः शास्त्र^शशाङ्कः समुत्क्षिप्तः॥  
+    
+१०५।०२अब्। पूर्वाचार्य^ग्रन्था न^उत्सृष्टाः कुर्वता मया शास्त्रम्।  
+    
+१०५।०२च्द्। तान् अवलोक्य^इदं च प्रयतध्वं कामतः सुजनाः॥  
+    
+१०५।०३अब्। अथ वा कृशम्[क्।भृशम्] अपि सुजनः प्रथयति दोषार्णवाद् गुणं दृष्ट्वा।  
+    
+१०५।०३च्द्। नीचस् तद्^विपरीतः प्रकृतिर् इयं साध्व्^असाधूनाम्॥  
+    
+१०५।०४अब्। दुर्जन^हुताश^तप्तं काव्य^सुवर्णं विशुद्धिम् आयाति।  
+    
+१०५।०४च्द्। श्रावयितव्यं तस्माद् दुष्टजनस्य प्रयत्नेन॥  
+    
+१०५।०५अ ग्रन्थस्य यत् प्रचरतो +अस्य विनाशम् एति  
+    
+१०५।०५ब् लेख्याद् बहुश्रुत^मुख^आधिगम^क्रमेण।  
+    
+१०५।०५च् यद्वा मया कुकृतम् अल्पम् इह^आकृतं वा  
+    
+१०५।०५द् कार्यं तद् अत्र विदुषा परिहृत्य रागम्॥  
+    
+१०५।०६अब्। दिनकर^मुनि^गुरु^चरण^प्रणिपातकृतप्रसादमतिना^इदम्।  
+    
+१०५।०६च्द्। शास्त्रम् उपसङ्गृहीतं नमो +अस्तु पूर्वप्रणेतृभ्यः॥
+
+                   १०६ शास्त्रानुक्रमणी
+
+१०६।०१अब्। शास्त्र^उपनयः पूर्वं सांवत्सरसूत्रम् अर्कचारश् च।  
+    
+१०६।०१च्द्। शशि^राहु^भौम^बुध^गुरु^सित^मन्द^शिखि^ग्रहाणां च॥  
+    
+१०६।०२अब्। चारश् च^अगस्त्यमुनेः सप्तर्षीणां च कूर्म^योगश् च।  
+    
+१०६।०२च्द्। नक्षत्राणां व्यूहो ग्रहभक्तिर् ग्रहविमर्दश् च॥  
+    
+१०६।०३अब्। ग्रह^शशि^योगः सम्यग्^ग्रह^वर्षफलं ग्रहाणां च।  
+    
+१०६।०३च्द्। शृङ्गाट^संस्थितानां मेघानां गर्भ^लक्षणं च^एव॥  
+    
+१०६।०४अब्। धारण^वर्षण^रोहिणि^वायव्य^आषाढ^भद्रपद[क्।भाद्रपद]^योगाः।  
+    
+१०६।०४च्द्। क्षणवृष्टिः कुसुमलताः सन्ध्या^चिह्नं दिशां दाहः॥  
+    
+१०६।०५अब्। भूकम्प^उल्का^परिवेष^लक्षणं शक्रचाप^खपुरं च।  
+    
+१०६।०५च्द्। प्रतिसूर्यो निर्घातः सस्य^द्रव्य^अर्घकाण्डं च॥  
+    
+१०६।०६अब्। इन्द्रध्वज^नीराजन^खञ्जनक^उत्पात^वर्हि[क्।बर्हि]चित्रं च।  
+    
+१०६।०६च्द्। पुष्य^अभिषेक^पट्टप्रमाणम् असिलक्षणं वास्तु॥  
+    
+१०६।०७अब्। उदक्[क्।उदग्]आर्गलम् आरामिकम् अमरालय^लक्षणं कुलिशलेपः।  
+    
+१०६।०७च्द्। प्रतिमा वनप्रवेशः सुरभवनानां प्रतिष्ठा च॥  
+    
+१०६।०८अब्। चिह्नं गवाम् अथ शुनाम् कुक्कुट^कूर्म^अज^पुरुष^चिह्नं च।  
+    
+१०६।०८च्द्। पञ्च^मनुष्य^विभागः स्त्रीचिह्नं वस्त्र^विच्छेदः॥  
+    
+१०६।०९अब्। चामर^दण्ड^परीक्षा स्त्री^स्तोत्रं च^अपि सुभग^करणं च।  
+    
+१०६।०९च्द्। कान्दर्पिक^अनुलेपन^पुंस्त्रिकाध्याय^शयन^विधिः॥  
+    
+१०६।१०अब्। वज्र^परीक्षा मौक्तिक^लक्षणम् अथ पद्मराग^मरकतयोः।  
+    
+१०६।१०च्द्। दीपस्य लक्षणं दन्तधावनं शाकुनं मिश्रम्॥  
+    
+१०६।११अब्। अन्तरचक्रं विरुतं श्वचेष्टितं विरुतम् अथ शिवायाश् च॥  
+    
+१०६।११च्द्। चरितं मृग^अश्व^करिणां वायस^विद्योत्तरं च ततः॥  
+    
+१०६।१२अब्। पाको नक्षत्र^गुणास् तिथि^करण^गुणाः सधिष्ण्य^जन्म^गुणाः।  
+    
+१०६।१२च्द्। *गोचरम् अथ[क्।गोचरस् तथा] ग्रहाणां कथितो नक्षत्रपुरुषश् च॥  
+    
+१०६।१३अब्। शतम् इदम् अध्यायानाम् अनुपरिपाटिक्रमाद् अनुक्रान्तम्।  
+    
+१०६।१३च्द्। अत्र श्लोक^सहस्राण्य् आबद्धान्य् ऊनचत्वारि॥  
+    
+१०६।१४अब्[क्।ओमित्तेद्]। अत्र^एव^अन्तर्भूतं परिशेषं निगदितं च यात्रायाम्।  
+    
+१०६।१४च्द्[क्।ओमित्तेद्]। बह्वाश्चर्यं जातकम् उक्तं करणं च बहुचोद्यम्॥
+

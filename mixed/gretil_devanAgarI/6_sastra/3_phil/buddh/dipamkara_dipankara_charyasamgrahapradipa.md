@@ -1,7 +1,9 @@
----
-title: 'Dipamkara (Dipankara): Caryasamgrahapradipa'
++++
+title = "Dipamkara (Dipankara): Caryasamgrahapradipa"
 
----
++++
+
+
 ## Intro
   
   
@@ -32,19 +34,71 @@ Therefore, many word boundaries are not marked by blanks.
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
+
+
 चर्यासङ्ग्रहप्रदीपः (च्स्प्)  
-  
+    
 नमो लोकेश्वराय  
-  
+    
 मदाद्यशेषमूढानां यस्य वचनरश्मिभिः ।  
 फुल्लतामेति हृत्पद्मं तं वन्दे पुरुषोत्तमम् ॥ च्स्प्_१ ॥  
 पारमिं गुह्यमन्त्रं च श्रित्वा बोधिः प्रसिध्यति ।  
@@ -89,10 +143,8 @@ Therefore, many word boundaries are not marked by blanks.
 धर्मो नायं ममैवेति सुसदाशयपूर्वकम् ॥ च्स्प्_२१  
 धर्माश्च लौकिकान् पृच्छेद्, निजमित्रसमीरितः ।  
 नेपालविषये कृतवान्, रतिर्मन्त्रनये न चेद् ॥ च्स्प्_२२ ॥  
-  
+    
 एवं स्थविर ! कर्त्तव्यम् ।२३, अ ।  
-  
-चर्यासङ्ग्रहप्रदीपो महापण्डिताचार्य - दीपङ्कर - श्रीज्ञानकृतः समाप्तः ।  
-  
-  
-  
+    
+चर्यासङ्ग्रहप्रदीपो महापण्डिताचार्य - दीपङ्कर - श्रीज्ञानकृतः समाप्तः ।
+

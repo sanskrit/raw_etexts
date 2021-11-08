@@ -1,7 +1,9 @@
----
-title: 'Bhattanarayana: Venisamhara'
++++
+title = "Bhattanarayana: Venisamhara"
 
----
++++
+
+
 ## Intro
   
   
@@ -28,5359 +30,4209 @@ Input by Yves Codet, Toulouse (August 2002)
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
+
+
 ****************************************************************  
-नोते: थिस् ए-तेxत् इस् चोन्वेर्तेद् ड़्रोम् उनिचोदे देवनगरि एन्चोदिन्ग्।   
-थेरेड़ोरे wओर्द् बोउन्दरिएस् अरे नोत् स्पचेद्।  
-****************************************************************  
-  
-  
-#  
-  
-  
-  
-  
-*...**    = stage  
-&...&:    = speaker  
-{Pkt_n}   = Prakrit Text    
-SktCh_n:  = Sanskrit Chaya of Prakrit text  
-[s...]    = divisions of the plot  
-  
-  
+नोते: थिस् ए-तेxत् इस् चोन्वेर्तेद् फ़्रोम् उनिचोदे देवनगरि एन्चोदिन्ग्।   
+थेरेफ़ोरे wओर्द् बोउन्दरिएस् अरे नोत् स्पचेद्।  
+****************************************************************
+
+###
+
+*॥।** = स्तगे  
+&॥।&: = स्पेअकेर्  
+{प्क्त्_न्} = प्रक्रित् तेxत्    
+स्क्त्छ्_न्: = सन्स्क्रित् छय ओफ़् प्रक्रित् तेxत्  
+[स्॥।] = दिविसिओन्स् ओफ़् थे प्लोत्
+
 **************************************************************************  
-  
-Bhaṭṭanārāyaṇa: Veṇīsaṃhāra  
-  
-  
-DRAMATIS PERSONAE:  
-  
-Stage director  
-Assistant of the stage director  
-Yudhiṣṭhira  
-Bhīmasena  
-Arjuna  
-Sahadeva  
-Kṛṣṇa  
-Dhṛtarāṣṭra  
-Duryodhana  
-Karṇa  
-Kṛpa  
-Aśvatthāman  
-Saṃjaya  
-Sundaraka, an attendant on Karṇa  
-Chamberlain of Yudhiṣṭhira  
-Chamberlain of Duryodhana  
-Rākṣasa (Rudhirapriya), an attendant on Hiḍimbā  
-Rākṣasa, a friend of Duryodhana  
-Charioteers, doorkeepers  
-Draupadī  
-Bhānumatī, wife of Duryodhana  
-Gāndhārī  
-Duḥśalā, sister of Duryodhana and wife of Jayadratha  
-Rākṣasī, wife of Rudhirapriya  
-Mother of Jayadratha  
-Attendants on Draupadī and Bhānumatī  
-  
+    
+भट्टनारायण: वेणीसंहार
+
+द्रमतिस् पेर्सोनए:  
+    
+स्तगे दिरेच्तोर्  
+अस्सिस्तन्त् ओफ़् थे स्तगे दिरेच्तोर्  
+युधिष्ठिर  
+भीमसेन  
+अर्जुन  
+सहदेव  
+कृष्ण  
+धृतराष्ट्र  
+दुर्योधन  
+कर्ण  
+कृप  
+अश्वत्थामन्  
+सञ्जय  
+सुन्दरक, अन् अत्तेन्दन्त् ओन् कर्ण  
+छम्बेर्लैन् ओफ़् युधिष्ठिर  
+छम्बेर्लैन् ओफ़् दुर्योधन  
+राक्षस (रुधिरप्रिय), अन् अत्तेन्दन्त् ओन् हिडिम्बा  
+राक्षस, अ फ़्रिएन्द् ओफ़् दुर्योधन  
+छरिओतेएर्स्, दोओर्केएपेर्स्  
+द्रौपदी  
+भानुमती, wइफ़े ओफ़् दुर्योधन  
+गान्धारी  
+दुःशला, सिस्तेर् ओफ़् दुर्योधन अन्द् wइफ़े ओफ़् जयद्रथ  
+राक्षसी, wइफ़े ओफ़् रुधिरप्रिय  
+मोथेर् ओफ़् जयद्रथ  
+अत्तेन्दन्त्स् ओन् द्रौपदी अन्द् भानुमती  
+    
 ***************************************************************************  
-  
-veṇīsaṃhāram   /  
-ACT_1  
-prathamo 'ṅkaḥ   /  
-  
-VERSE_1.1  
-niṣiddhairapyebhirlulitamakarando madhukaraiḥ  $ karairindorantaśchurita iva saṃbhinnamukulaḥ  &  
-vidhattāṃ siddhiṃ no nayanasubhagāmasya sadasaḥ  ē̃ prakīrṇaḥ puṣpāṇāṃ haricaraṇayorañjalirayam  // 1.1 //  
-  
-api ca  
-VERSE_1.2  
-kālindyāḥ pulineṣu kelikupitāmutsṛjya rāse rasaṃ  $ gacchantīmanugacchato 'śrukaluṣāṃ kaṃsadviṣo rādhikām  &  
-tatpādapratimāniveśitapadasyodbhūtaromodgate-  ē̃ rakṣuṇṇo 'nunayaḥ prasannadayitādṛṣṭasya puṣṇātu vaḥ  // 1.2 //  
-  
-api ca  
-VERSE_1.3  
-dṛṣṭaḥ saprema devyā kimidamiti bhayātsaṃbhramāccāsurībhiḥ  $ śāntāntastattvasāraiḥ sakaruṇamṛṣibhirviṣṇunā sasmitena  &  
-ākṛṣyāstraṃ sagarvairupaśamitavadhūsaṃbhramairdaityavīraiḥ  ē̃ sānandaṃ devatābhirmayapuradahane dhūrjaṭiḥ pātu yuṣmān  // 1.3 //  
-  
-*nāndyante**  
-  
-  
-&sūtradhāraḥ&:  
-alamatiprasaṅgena  /  
-VERSE_1.4  
-śravaṇāñjalipuṭapeyaṃ viracitavānbhāratākhyamamṛtaṃ yaḥ  /  
-tamahamarāgamakṛṣṇaṃ kṛṣṇadvaipāyanaṃ vande  // 1.4 //  
-  
-*samantādavalokya**  
-tadbhavantaḥ pariṣadagresarāḥ vijñāpyaṃ naḥ kiṃcidasti  /  
-VERSE_1.5  
-kusumāñjalirapara iva prakīryate kāvyabandha eṣo 'tra  /  
-madhuliha iva madhubindūnviralānapi bhajata guṇaleśān  // 1.5 //  
-  
-tadidaṃ kavermṛgarājalakṣmaṇo bhaṭṭanārāyaṇasya kṛtiṃ veṇīsaṃhāraṃ nāma nāṭakaṃ prayoktumudyatā vayam  / tadatra kavipariśramānurodhādvodāttakathāvastugauravādvā navanāṭakadarśanakutūhalādvā bhavadbhiravadhānaṃ dīyamānamabhyarthaye  /  
-  
-*nepathye**  
-  
-  
-bhāva tvaryatāṃ tvaryatām  / ete khalvāryavidurājñayā puruṣāḥ sakalameva śailūṣajanaṃ vyāharanti  / pravartyantāmaparihīyamānamātodyavinyāsādikā vidhayaḥ  / praveśakālaḥ kila tatrabhavataḥ pārāśaryanāradatumburujāmadagnyaprabhṛtibhirmunivṛndārakairanugamyamānasya bharatakulahitakāmyayā svayaṃ pratipannadautyasya devakīsūnoścakrapāṇermahārājaduryodhanaśibiraṃ prati prasthātukāmasyeti  /  
-  
-  
-&sūtradhāraḥ&:  
-*ākarṇya sānandam**  
-aho nu khalu bho bhagavatā jagatprabhavasthitinirodhaprabhaviṣṇunā viṣṇunādyānugṛhītamidaṃ bharatakulaṃ sakalaṃ ca rājakamanayoḥ kurupāṇḍavarājaputrayorāhavakalpāntānalapraśamahetunā svayaṃ saṃdhikāriṇā kaṃsāriṇā dūtena  / tatkimiti pāripārśvika nārambhayasi kuśīlavaiḥ saha saṃgītakam  /  
-  
-*praviśya**  
-  
-  
-&pāripārśvikaḥ&:  
-bhavatu  / ārambhayāmi  / kaṃ samayamāśritya gīyatām  /  
-  
-  
-&sūtradhāraḥ&:  
-nanvamumeva tāvaccandrātapanakṣatrakrauñcahaṃsakulasaptacchadakumudapuṇḍarīkakāśakusumaparāgadhavalitagaganadiṅmaṇḍalaṃ svādujalajalāśayaṃ śaratsamayamāśritya pravartyatāṃ saṃgītakam  / tathā hyasyāṃ śaradi  
-VERSE_1.6  
-satpakṣā madhuragiraḥ prasādhitāśā madoddhatārambhāḥ  /  
-nipatanti dhārtarāṣṭrāḥ kālavaśānmedinīpṛṣṭhe  // 1.6 //  
-  
-  
-  
-&pāripārśvikaḥ&:  
-*sasaṃbhramam**  
-bhāva śāntaṃ pāpaṃ pratihatamamaṅgalam  /  
-  
-  
-&sūtradhāraḥ&:  
-*savailakṣyasmitam**  
-māriṣa śaratsamayavarṇanāśaṃsayā haṃsā dhārtarāṣṭrā iti vyapadiśyante  / tatkiṃ śāntaṃ pāpaṃ pratihatamamaṅgalam  /  
-  
-  
-&pāripārśvikaḥ&:  
-na khalu na jāne  / kiṃ tvamaṅgalāśaṃsayāsya vo vacanasya yatsatyaṃ kampitamiva me hṛdayam  /  
-  
-  
-&sūtradhāraḥ&:  
-māriṣa nanu sarvamevedānīṃ pratihatamamaṅgalaṃ svayaṃ pratipannadautyena saṃdhikāriṇā kaṃsāriṇā  / tathā hi  
-VERSE_1.7  
-nirvāṇavairadahanāḥ praśamādarīṇāṃ  $ nandantu pāṇḍutanayāḥ saha mādhavena  &  
-raktaprasādhitabhuvaḥ kṣatavigrahāśca  ē̃ svasthā bhavantu kururājatanayāḥ sabhṛtyāḥ  // 1.7 //  
-  
-  
-*nepathye  / sādhikṣepam**  
-  
-  
-āḥ durātmanvṛthāmaṅgalapāṭhaka śailūṣāpasada  /  
-VERSE_1.8  
-lākṣāgṛhānalaviṣānnasabhāpraveśaiḥ  $ prāṇeṣu vittanicayeṣu ca naḥ prahṛtya  &  
-ākṛṣṭapāṇḍavavadhūparidhānakeśāḥ  ē̃ svasthā bhavanti mayi jīvati dhārtarāṣṭrāḥ  // 1.8 //  
-  
-  
-[saṃdhyaṅga / value="upakṣepa" resp="V 6.69" from="pl1"]  
-*sūtradhārapāripārśvikāvākarṇayataḥ**  
-  
-  
-&pāripārśvikaḥ&:  
-bhāva kuta etat  /  
-  
-  
-&sūtradhāraḥ&:  
-*pṛṣṭhato vilokya**  
-aye eṣa khalu vāsudevagamanātkurusaṃdhānamamṛṣyamāṇaḥ pṛthulalāṭataṭaghaṭitavikaṭakīnāśatoraṇatriśūlāyamānabhīṣaṇabhrukuṭirāpibanniva naḥ sarvāndṛṣṭipātena sahadevānugamyamānaḥ kruddho bhīmasena ita evābhivartate  / tanna yuktamasya purataḥ sthātum  / tadita āvāmanyatra gacchāvaḥ  /  
-  
-*iti niṣkrāntau**  
-  
-prastāvanā  /  
-  
-  
-*tataḥ praviśati sahadevānugamyamānaḥ kruddho bhīmasenaḥ**  
-  
-  
-&bhīmasenaḥ&:  
-āḥ durātmanvṛthāmaṅgalapāṭhaka śailūṣāpasada  /*lākṣāgṛhetyādi punaḥ paṭhati**  
-  
-  
-  
-&sahadevaḥ&:  
-*sānunayam**  
-ārya marṣaya marṣaya  / anumatameva no bharataputrasyāsya vacanam  / nirvāṇavairadahanā iti yathārthameva  / sabhṛtyāḥ kuravaḥ kṣatajālaṃkṛtavasuṃdharāḥ kṣataśarīrāśca svargasthā bhavantviti bravīti  /  
-  
-  
-&bhīmasenaḥ&:  
-*sopālambham**  
-na khalu na khalvamaṅgalāni cintayitumarhanti bhavantaḥ kauravāṇām  / saṃdheyāste bhrātaro yuṣmākam  /  
-  
-  
-&sahadevaḥ&:  
-*saroṣam**  
-ārya  
-VERSE_1.9  
-dhṛtarāṣṭrasya tanayānkṛtavairānpade pade  /  
-rājā na cenniṣeddhā syātkaḥ kṣameta tavānujaḥ  // 1.9 //  
-  
-  
-  
-&bhīmasenaḥ&:  
-evamidam  / ata evāhamadyaprabhṛti bhinno bhavadbhyaḥ  / paśya  /  
-VERSE_1.10  
-pravṛddhaṃ yadvairaṃ mama khalu śiśoreva kurubhi-  $ rna tatrāryo heturna bhavati kirīṭī na ca yuvām  &  
-jarāsaṃdhasyoraḥsthalamiva virūḍhaṃ punarapi  ē̃ krudhā saṃdhiṃ bhīmo vighaṭayati yūyaṃ ghaṭayata  // 1.10 //  
-  
-  
-[saṃdhyaṅga / value="parikara" resp="V" from="pl2"]  
-  
-&sahadevaḥ&:  
-*sānunayam**  
-ārya evamatisaṃbhṛtakrodheṣu yuṣmāsu kadācitkhidyate guruḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-kiṃ nāma khidyate guruḥ  / guruḥ khedamapi jānāti  / paśya  /  
-VERSE_1.11  
-tathābhūtāṃ dṛṣṭvā nṛpasadasi pāñcālatanayāṃ  $ vane vyādhaiḥ sārdhaṃ suciramuṣitaṃ valkaladharaiḥ  &  
-virāṭasyāvāse sthitamanucitārambhanibhṛtaṃ  ē̃ guruḥ khedaṃ khinne mayi bhajati nādyāpi kuruṣu  // 1.11 //  
-  
-tatsahadeva nivartasva  / evaṃ cāticirapravṛddhāmarṣoddīptasya bhīmasya vacanādvijñāpaya rājānam  /  
-  
-  
-&sahadevaḥ&:  
-ārya kimiti  /  
-  
-  
-&bhīmasenaḥ&:  
-evaṃ vijñāpaya  /  
-VERSE_1.12  
-yuṣmacchāsanalaṅghanāṃhasi mayā magnena nāma sthitaṃ  $ prāptā nāma vigarhaṇā sthitimatāṃ madhye 'nujānāmapi  &  
-krodhollāsitaśoṇitāruṇagadasyocchindataḥ kauravā-  ē̃ nadyaikaṃ divasaṃ mamāsi na gururnāhaṃ vidheyastava  // 1.12 //  
-  
-*ityuddhataṃ parikrāmati**  
-  
-  
-  
-&sahadevaḥ&:  
-*tamevānugacchannātmagatam**  
-aye kathamāryaḥ pāñcālyāścatuḥśālaṃ praviṣṭaḥ  / bhavatu tāvadahamatraiva tiṣṭhāmi  /*iti sthitaḥ**  
-  
-  
-  
-&bhīmasenaḥ&:  
-*pratinivṛtyāvalokya ca**  
-sahadeva gaccha tvaṃ gurumanuvartasva  / ahamapyāyudhāgāraṃ praviśyāyudhasahāyo bhavāmi  /  
-  
-  
-&sahadevaḥ&:  
-ārya nedamāyudhāgāraṃ pāñcālyāścatuḥśālamidam  /  
-  
-  
-&bhīmasenaḥ&:  
-*savitarkam**  
-kiṃ nāma nedamāyudhāgāraṃ pāñcālyāścatuḥśālamidam  /*kiṃcidvihasya saharṣam**  
-āmantrayitavyā mayā pāñcālī  /*sapraṇayaṃ sahadevaṃ haste gṛhītvā**  
-vatsa āgamyatām  / yadāryaḥ kurubhiḥ saṃdhānamicchannasmānpīḍayati tadbhavānapi paśyatu  /  
-  
-*ubhau praveśaṃ nāṭayataḥ**  
-  
-  
-&sahadevaḥ&:  
-ārya idamāsanamāstīrṇam  / atropaviśya pratipālayatvāryaḥ kṛṣṇāgamanam  /  
-  
-  
-&bhīmasenaḥ&:  
-*upaviśya**  
-vatsa kṛṣṇāgamanamityanenopodghātena smṛtam  / atha bhagavānkṛṣṇaḥ kena paṇena saṃdhiṃ kartuṃ suyodhanaṃ prati prahitaḥ  /  
-  
-  
-&sahadevaḥ&:  
-ārya pañcabhirgrāmaiḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-*karṇau pidhāya**  
-ahaha hanta devasyājātaśatrorapyayamīdṛśastejopakarṣa iti yatsatyaṃ kampitamiva me hṛdayam  /*parivṛtya sthitvā**  
-tadvatsa na tvayā kathitaṃ na mayā śrutam  /  
-VERSE_1.13  
-yattadūrjitamatyugraṃ kṣātraṃ tejo 'sya bhūpateḥ  /  
-dīvyatākṣaistadānena nūnaṃ tadapi hāritam  // 1.13 //  
-  
-  
-*nepathye**  
-  
-  
-{Pkt_1}samassasadu samassasadu bhaṭṭiṇī  /  
-  
-  
-SktCh_1: samāśvasitu samāśvasitu bhaṭṭinī  /  
-  
-  
-&sahadevaḥ&:  
-*nepathyābhimukhamavalokyātmagatam**  
-aye kathaṃ yājñasenī muhurupacīyamānabāṣpapaṭalasthagitanayanāryasamīpamupasarpati  / tatkaṣṭataramāpatitam  /  
-VERSE_1.14  
-yadvaidyutamiva jyotirārye kruddhe 'dya saṃbhṛtam  /  
-tatprāvṛḍiva kṛṣṇeyaṃ nūnaṃ saṃvardhayiṣyati  // 1.14 //  
-  
-  
-*tataḥ praviśati yathānirdiṣṭā draupadī ceṭī ca  / draupadī sāsraṃ niśvasiti**  
-  
-  
-&ceṭī&:  
-{Pkt_2}samassasadu samassasadu bhaṭṭiṇī  / abaṇaissadi de maṇṇuṃ ṇiccāṇubaddhakuruvelo kumālo bhīmaseṇo  /  
-  
-  
-SktCh_2: samāśvasitu samāśvasitu bhaṭṭinī  / apaneṣyati te manyuṃ nityānubaddhakuruvairaḥ kumāro bhīmasenaḥ  /  
-  
-  
-&draupadī&:  
-{Pkt_3}hañje buddhimadie hodi edaṃ jai mahārāassa paḍiulo huvissadi  /  
-  
-  
-SktCh_3: hañje buddhimatike bhavatyetadyadi mahārājasya pratikūlo bhaviṣyati  /  
-  
-  
-&ceṭī&:  
-{Pkt_4}*vilokya**  
-eso kumālo ciṭṭhadi  / tā ṇaṃ ubasappadu bhaṭṭiṇī  /  
-  
-  
-SktCh_4: eṣa kumārastiṣṭhati  / tadenamupasarpatu bhaṭṭinī  /  
-  
-  
-&draupadī&:  
-{Pkt_5}hañje evvaṃ karemha  /  
-  
-  
-SktCh_5: hañje evaṃ kurvaḥ  /  
-  
-*iti parikrāmataḥ**  
-  
-  
-&ceṭī&:  
-{Pkt_6}*upasṛtya**  
-jaadu jaadu kumālo  /  
-  
-  
-SktCh_6: jayatu jayatu kumāraḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-*aśṛṇvanyattadūrjitamiti punaḥ paṭhati**  
-  
-  
-  
-&ceṭī&:  
-{Pkt_7}*parivṛtya**  
-bhaṭṭiṇi parikubido via kumālo lakkhīadi  /  
-  
-  
-SktCh_7: bhaṭṭini parikupita iva kumāraḥ lakṣyate  /  
-  
-  
-&draupadī&:  
-{Pkt_8}hañje jai evvaṃ tā avahīraṇā bi esā maṃ assāsaadi  / tā ettha ubaviṭṭhā bhavia suṇomi dāva ṇāhassa vavasidaṃ  /  
-  
-  
-SktCh_8: hañje yadyevaṃ tadavadhīraṇāpyeṣā māmāśvāsayati  / tadatropaviṣṭā bhūtvā śṛṇomi tāvannāthasya vyavasitam  /  
-  
-*ubhe tathā kurutaḥ**  
-  
-  
-&bhīmasenaḥ&:  
-*sakrodhaṃ sahadevamadhikṛtya**  
-kiṃ nāma pañcabhirgrāmaiḥ saṃdhiḥ  /  
-VERSE_1.15  
-mathnāmi kauravaśataṃ samare na kopā-  $ dduḥśāsanasya rudhiraṃ na pibāmyurastaḥ  &  
-saṃcūrṇayāmi gadayā na suyodhanorū  ē̃ saṃdhiṃ karotu bhavatāṃ nṛpatiḥ paṇena  // 1.15 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_9}*saharṣaṃ janāntikam**  
-ṇāha assudapuvvaṃ khu de īdisaṃ vaaṇaṃ  / tā puṇo bi dāva bhaṇāhi  /  
-  
-  
-SktCh_9: nātha aśrutapūrvaṃ khalu ta īdṛśaṃ vacanam  / tatpunarapi tāvadbhaṇa  /  
-  
-  
-&bhīmasenaḥ&:  
-*aśṛṇvanneva mathnāmītyādi punaḥ paṭhati**  
-  
-  
-  
-&sahadevaḥ&:  
-ārya kiṃ mahārājasya saṃdeśo 'vyutpanna iva gṛhītaḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-kā punaratra vyutpattiḥ  /  
-  
-  
-&sahadevaḥ&:  
-ārya evaṃ guraṇā saṃdiṣṭam  /  
-  
-  
-&bhīmasenaḥ&:  
-kasya  /  
-  
-  
-&sahadevaḥ&:  
-suyodhanasya  /  
-  
-  
-&bhīmasenaḥ&:  
-kimiti  /  
-  
-  
-&sahadevaḥ&:  
-VERSE_1.16  
-indraprasthaṃ vṛkaprasthaṃ jayantaṃ vāraṇāvatam  /  
-prayaccha caturo grāmānkaṃcidekaṃ tu pañcamam  // 1.16 //  
-  
-  
-  
-&bhīmasenaḥ&:  
-tataḥ kim  /  
-  
-  
-&sahadevaḥ&:  
-tadevamanayā pratināmagrāmaprārthanayā pañcamasya cākīrtanādviṣabhojanajatugṛhadāhadyūtasabhādyapakārasthānodghāṭanamevedaṃ manye  /  
-  
-  
-&bhīmasenaḥ&:  
-*sāṭopam**  
-vatsa evaṃ kṛte kiṃ kṛtaṃ bhavati  /  
-  
-  
-&sahadevaḥ&:  
-ārya evaṃ kṛte loke tāvatsvagotrakṣayāśaṅki hṛdayamāviṣkṛtaṃ bhavati kururājasyāsaṃdheyatā ca darśitā bhavati  /  
-  
-  
-&bhīmasenaḥ&:  
-sarvamapyetadanarthakam  / kururājasya tāvadasaṃdheyatā tadaiva niveditā yadaivāsmābhirito vanaṃ gacchadbhiḥ sarvaireva kurukulasya nidhanaṃ pratijñātam  / loke 'pi ca dhārtarāṣṭrakulakṣayaḥ kiṃ lajjākaro bhavatām  / api ca re mūrkha  
-VERSE_1.17  
-yuṣmānhrepayati krodhālloke śatrukulakṣayaḥ  /  
-na lajjayati dārāṇāṃ sabhāyāṃ keśakarṣaṇam  // 1.17 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_10}*janāntikam**  
-ṇāha ṇa lajjanti ede  / tumaṃ bi dāva mā visumarehi  /  
-  
-  
-SktCh_10: nātha na lajjanta ete  / tvamapi tāvanmā vismārṣīḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-*sasmaraṇam**  
-vatsa kathaṃ cirayati pāñcālī  /  
-  
-  
-&sahadevaḥ&:  
-ārya kā khalu velā tatrabhavatyāḥ prāptāyāḥ  / kiṃ tu roṣāveśavaśādāgatāpyāryeṇa nopalakṣitā  /  
-  
-  
-&bhīmasenaḥ&:  
-*dṛṣṭvā sādarām**  
-devi samuddhatāmarṣairasmābhirāgatāpi bhavatī nopalakṣitā  / ato na manyuṃ kartumarhasi  /  
-  
-&draupadī&:  
-{Pkt_11}ṇāha udāsīṇesu tumhesu maṇṇū ṇa uṇa kubidesu  /  
-  
-  
-SktCh_11: nātha udāsīneṣu yuṣmāsu manyurna punaḥ kupiteṣu  /  
-  
-  
-&bhīmasenaḥ&:  
-yadyevamapagataparībhavamātmānaṃ samarthayasva  /*hastaṃ gṛhītvā pārśve samupaveśya mukhamavalokya**  
-kiṃ punaratrabhavatīmudvignāmivopalakṣayāmi  /  
-  
-  
-&draupadī&:  
-{Pkt_12}ṇāha kiṃ uvveakālaṇaṃ tumhesu saṇṇihidesu  /  
-  
-  
-SktCh_12: nātha kimudvegakāraṇaṃ yuṣmāsu saṃnihiteṣu  /  
-  
-  
-&bhīmasenaḥ&:  
-kimiti nāvedayasi  /*keśānavalokya**  
-atha vā kimāveditena  
-VERSE_1.18  
-jīvatsu pāṇḍuputreṣu dūramaproṣiteṣu ca  /  
-pāñcālarājatanayā vahate yadimāṃ daśām  // 1.18 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_13}hañje buddhimadie ṇivedehi dāva ṇāhassa  / ko aṇṇo maha parihaveṇa khijjadi  /  
-  
-  
-SktCh_13: hañje buddhimatike nivedaya tāvannāthasya  / ko 'nyo mama parībhavena khidyate  /  
-  
-  
-&ceṭī&:  
-{Pkt_14}jaṃ devī āṇavedi  /*bhīmamupasṛtyāñjaliṃ baddhvā**  
-kumāla ido bi ahiaṃ ajja maṇṇukālaṇaṃ āsī devīe  /  
-  
-  
-SktCh_14: yaddevyājñāpayati  / kumāra ito 'pyadhikamadya manyukāraṇamāsīddevyāḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-kiṃ nāmāsmādapyadhikataram  / tatkathaya kathaya  /  
-VERSE_1.19  
-kauravyavaṃśadāve 'sminka eṣa śalabhāyate  /  
-muktaveṇīṃ spṛśannenāṃ kṛṣṇāṃ dhūmaśikhāmiva  // 1.19 //  
-  
-  
-  
-&ceṭī&:  
-{Pkt_15}suṇādu kumālo  / ajja khu devī ambāsahidā subhaddappamuheṇa sabattivaggeṇa parivudā ajjāe gandhālīe pādavandaṇaṃ kāduṃ gadā āsī  /  
-  
-  
-SktCh_15: śṛṇotu kamāraḥ  / adya khalu devyambāsahitā subhadrāpramukheṇa sapatnīvargeṇa parivṛtāryāyā gāndhāryāḥ pādavandanaṃ kartuṃ gatāsīt  /  
-  
-  
-&bhīmasenaḥ&:  
-yuktametat  / vandyāḥ khalu guravaḥ  / tatastataḥ  /  
-  
-  
-&ceṭī&:  
-{Pkt_16}tado paḍiṇiuttamāṇā bhāṇumadīe diṭṭhā  /  
-  
-  
-SktCh_16: tataḥ pratinivartamānā bhānumatyā dṛṣṭā  /  
-  
-  
-&bhīmasanaḥ&:  
-*sakrodham**  
-āḥ śatrorbhāryayā dṛṣṭā  / hanta sthānaṃ krodhasya devyāḥ  / tatastataḥ  /  
-  
-  
-&ceṭī&:  
-{Pkt_17}tado tāe deviṃ pekkhia sahīvaaṇadiṇṇadiṭṭhīe sagavvaṃ īsi vihasia bhaṇidaṃ  /  
-  
-  
-SktCh_17: tatastayā devīṃ prekṣya sakhīvadanadattadṛṣṭyā sagarvamīṣadvihasya bhaṇitam  /  
-  
-  
-&bhīmasenaḥ&:  
-na kevalaṃ dṛṣṭoktā ca  / aho kiṃ kurmaḥ  / tatastataḥ  /  
-  
-  
-&ceṭī&:  
-{Pkt_18}ai jaṇṇaseṇi pañca gāmā patthīanti tti suṇīadi  / kīsa dāṇiṃ bi de kesā ṇa saṃjamīanti  /  
-  
-  
-SktCh_18: ayi yājñaseni pañcagrāmāḥ prārthyanta iti śrūyate  / kasmādidānīmapi te keśā na saṃyamyante  /  
-  
-  
-&bhīmasenaḥ&:  
-sahadeva śrutam  /  
-  
-  
-&sahadevaḥ&:  
-kimihocyate  / duryodhanakalatraṃ hi sā  / paśya  /  
-VERSE_1.20  
-strīṇāṃ hi sāhacaryādbhavanti cetāṃsi bhartṛsadṛśāni  /  
-madhurāpi hi mūrcchayate viṣaviṭapisamāśritā vallī  // 1.20 //  
-  
-  
-  
-&bhīmasenaḥ&:  
-buddhimatike tato devyā kimabhihitam  /  
-  
-  
-&ceṭī&:  
-{Pkt_19}kumāla jai parijaṇahīṇā bhave tado devī bhaṇādi  /  
-  
-  
-SktCh_19: kumāra yadi parijanahīnā bhavettadā devī bhaṇati  /  
-  
-  
-&bhīmasenaḥ&:  
-kiṃ punarabhihitaṃ bhavatyā  /  
-  
-  
-&ceṭī&:  
-{Pkt_20}mae evvaṃ bhaṇidaṃ  / ai bhāṇumadi tumhāṇaṃ amukkesu kesesu kahaṃ amhāṇaṃ devīe kesā saṃjamīanti tti  /  
-  
-  
-SktCh_20: mayā evaṃ bhaṇitam  / ayi bhānumati yuṣmākamamukteṣu keśeṣu kathamasmākaṃ devyāḥ keśāḥ saṃyamyanta iti  /  
-  
-  
-&bhīmasenaḥ&:  
-*saparitoṣam**  
-sādhu buddhimatike sādhu  / tadabhihitaṃ yadasmatparijanocitam  /*svābharaṇāni buddhimatikāyai prayacchati**  
-atrabhavati pāñcālarājatanaye śrūyatām  / acireṇaiva kālena  
-VERSE_1.21  
-cañcadbhujabhramitacaṇḍagadābhighāta-  $ saṃcūrṇitoruyugalasya suyodhanasya  &  
-styānāvanaddhaghanaśoṇitaśoṇapāṇi-  ē̃ ruttaṃsayiṣyati kacāṃstava devi bhīmaḥ  // 1.21 //  
-  
-  
-[saṃdhyaṅga / value="parinyāsa" resp="V 6.71" from="pl3"]  
-  
-&draupadī&:  
-{Pkt_21}kiṃ ṇāha dukkaraṃ tue parikubideṇa  /  
- aṇugeṇhantu edaṃ vavasidaṃ de bhādaro  /  
-  
-SktCh_21: kiṃ nātha duṣkaraṃ tvayā parikupitena  / anugṛhṇantvetadvyavasitaṃ te bhrātaraḥ  /  
-  
-[saṃdhyaṅga / value="vilobhana" resp="V 6.72" from="ch21" to="pl4"]  
-  
-&sahadevaḥ&:  
-anugṛhītametadasmābhiḥ  /  
-  
-*nepathye mahānkalakalaḥ  / sarve savismayamākarṇayanti**  
-  
-  
-&bhīmasenaḥ&:  
-VERSE_1.22  
-manthāyastārṇavāmbhaḥplutakuharavalanmandaradhvānadhīraḥ  $ koṇāghāteṣu garjatpralayaghanaghaṭānyo 'nyasaṃghaṭṭacaṇḍaḥ  &  
-kṛṣṇākrodhāgradūtaḥ kurukulanidhanotpātanirghātavātaḥ  ē̃ kenāsmatsiṃhanādapratirasitasakho dundubhistāḍyate 'yam  // 1.22 //  
-  
-  
-*praviśya saṃbhrāntaḥ**  
-  
-  
-&kañcukī&:  
-kumāra eṣa khalu bhagavānvāsudevaḥ  /  
-  
-*sarve kṛtāñjalayaḥ samuttiṣṭhanti**  
-  
-  
-&bhīmasenaḥ&:  
-*sasaṃbhramam**  
-kvāsau bhagavān  /  
-  
-  
-&kañcukī&:  
-pāṇḍavapakṣapātāmarṣitena suyodhanena saṃyantumārabdhaḥ  /  
-  
-*sarve saṃbhramaṃ nāṭayanti**  
-  
-  
-&bhīmasenaḥ&:  
-kiṃ saṃyataḥ  /  
-  
-  
-&kañcukī&:  
-na hi na hi saṃyantumārabdhaḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-kiṃ kṛtaṃ devena  /  
-  
-  
-&kañcukī&:  
-tataḥ sa mahātmā darśitaviśvarūpatejaḥsaṃpātamūrcchitamavadhūya kurukulamasmacchibirasaṃniveśamanuprāptaḥ  / kamāramavilambitaṃ draṣṭumicchati  /  
-  
-  
-&bhīmasenaḥ&:  
-*sopahāsam**  
-kiṃ nāma durātmā suyodhano bhagavantaṃ saṃyantumicchati  /*ākāśe dattadṛṣṭiḥ**  
-āḥ durātmankurukulapāṃsana evamatikrāntamaryāde tvayi nimittamātreṇa pāṇḍavakrodhena bhavitavyam  /  
-  
-  
-&sahadevaḥ&:  
-ārya kimasau durātmā suyodhano vāsudevamapi bhagavantaṃ svena rūpeṇa na jānāti  /  
-  
-  
-&bhīmasenaḥ&:  
-vatsa mūḍhaḥ khalvayaṃ durātmā  / kathaṃ jānātu  / paśya  /  
-VERSE_1.23  
-ātmārāmā vihitamatayo nirvikalpe samādhau  $ jñānodrekādvighaṭitatamogranthayaḥ sattvaniṣṭhāḥ  &  
-yaṃ vīkṣante kamapi tamasāṃ jyotiṣāṃ vā parastā-  ē̃ ttaṃ mohāndhaḥ kathamayamamuṃ vettu devaṃ purāṇam  // 1.23 //  
-  
-ārya jayaṃdhara kimidānīmadhyavasyati guruḥ  /  
-  
-  
-&kañcukī&:  
-svayameva gatvā mahārājasyādhyavasitaṃ jñāsyati kumāraḥ  /  
-*iti niṣkrāntaḥ**  
-  
-  
-*nepathye kalakalānantaram**  
-  
-  
-bho bho drupadavirāṭavṛṣṇyandhakasahadevaprabhṛtayo 'smadakṣauhiṇīpatayaḥ kauravacamūpradhānayodhāśca śṛṇvantu bhavantaḥ  /  
-VERSE_1.24  
-yatsatyavratabhaṅgabhīrumanasā yatnena mandīkṛtaṃ  $ yadvismartumapīhitaṃ śamavatā śāntiṃ kulasyecchatā  &  
-taddyūtāraṇisaṃbhṛtaṃ nṛpavadhūkeśāmbarākarṣaṇaiḥ  ē̃ krodhajyotiridaṃ mahatkuruvane yaudhiṣṭhiraṃ jṛmbhate  // 1.24 //  
-  
-  
-  
-&bhīmasenaḥ&:  
-*ākarṇya  / saharṣam**  
-jṛmbhatāṃ jṛmbhatāmapratihataprasaramāryasya krodhajyotiḥ  /  
-  
-  
-&draupadī&:  
-{Pkt_22}ṇāha kiṃ dāṇiṃ eso palaajalaharatthaṇidamaṃsalo khaṇe khaṇe samaradunduhī tāḍīadi  /  
-  
-  
-SktCh_22: nātha kimidānīmeṣa pralayajaladharastanitamāṃsalaḥ kṣaṇe kṣaṇe samaradundubhistāḍyate  /  
-  
-  
-&bhīmasenaḥ&:  
-devi kimanyat  / yajñaḥ pravartate  /  
-  
-  
-&draupadī&:  
-{Pkt_23}*savismayam**  
-ko eso jaṇṇo  /  
-  
-  
-SktCh_23: ka eṣa yajñaḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-raṇayajñaḥ  / tathā hi  
-VERSE_1.25  
-catvāro vayamṛtvijaḥ sa bhagavānkarmopadeṣṭā hariḥ  $ saṃgrāmādhvaradīkṣito narapatiḥ patnī gṛhītavratā  &  
-kauravyāḥ paśavaḥ priyāparibhavakleśopaśāntiḥ phalaṃ  ē̃ rājanyopanimantraṇāya rasati sphītaṃ yaśodundubhiḥ  // 1.25 //  
-  
-  
-  
-&sahadevaḥ&:  
-ārya gacchāmo vayamidānīṃ gurujanānujñāptā kikramānurūpamācaritum  /  
-  
-  
-&bhīmasenaḥ&:  
-vatsa ete vayamudyatā evāryasyānujñānamanuṣṭhātum  /*  
-utthāya**  
-devi gacchāmo vayamidānīṃ kurukulakṣayāya  /  
-  
-  
-&draupadī&:  
-{Pkt_24}*bāṣpaṃ dhārayantī**  
-ṇāha asurasamarāhimuhassa hariṇo via maṅgalaṃ tumhāṇaṃ hodu  /  
-  
-  
-SktCh_24: nātha asurasamarābhimukhasya hareriva maṅgalaṃ yuṣmākaṃ bhavatu  /  
-  
-  
-&ubhau&:  
-pratigṛhītaṃ maṅgalavacanamasmābhiḥ  /  
-  
-  
-&draupadī&:  
-{Pkt_25}aṇṇaṃ ca ṇāha puṇo bi tumhehiṃ samarādo āacchia ahaṃ samāsāsaidavvā  /  
-  
-  
-SktCh_25: anyacca nātha punarapi yuṣmābhiḥ samarādāgatyāhaṃ samāśvāsayitavyā  /  
-  
-  
-&bhīmasenaḥ&:  
-nanu pāñcālarājatanaye kimadyāpyalīkāśvāsanayā  /  
-VERSE_1.26  
-bhūyaḥ paribhavaklāntilajjāvidhuritānanam  /  
-aniḥśeṣitakauravyaṃ na paśyasi vṛkodaram  // 1.26 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_26}ṇāha mā khu mā khu jaṇṇaseṇīparihavuddībidakobāṇalā aṇavekkhidasarīrā saṃcarissaha  / jado appamattasaṃcaraṇijjāiṃ riubalāiṃ suṇīanti  /  
-  
-  
-SktCh_26: nātha mā khalu mā khalu yājñasenīparibhavoddīpitakopānalā anapekṣitaśarīrāḥ saṃcariṣyatha  / yato 'pramattasaṃcaraṇīyāni ripubalāni śrūyante  /  
-  
-  
-&bhīmasenaḥ&:  
-ayi sukṣatriye  
-VERSE_1.27  
-anyo 'nyāsphālabhinnadviparudhiravasāmāṃsamastiṣkapaṅke  $ magnānāṃ syandanānāmuparikṛtapadanyāsavikrāntapattau  &  
-sphītāsṛkpānagoṣṭhīrasadaśivaśivātūryanṛtyatkabandhe  ē̃ saṃgrāmaikārṇavāntaḥpayasi vicarituṃ paṇḍitāḥ pāṇḍuputrāḥ  // 1.27 //  
-  
-  
-*iti niṣkrāntāḥ sarve**  
-  
-  
-iti prathamo 'ṅkaḥ  /  
-  
-ACT_2  
-dvitīyo 'ṅkaḥ  /  
-  
-*tataḥ praviśati kañcukī**  
-  
-  
-&kañcukī&:  
-ādiṣṭo 'smi mahārājaduryodhanena  / vinayaṃdhara satvaraṃ gaccha tvam  / anviṣyatāṃ devī bhānumatī  / api nivṛttāmbāyāḥ pādavandanasamayānna veti  / yatastāṃ vilokya nihatābhimanyavo rādheyajayadrathaprabhṛtayo 'smatsenāpatayaḥ samarabhūmiṃ gatvā sabhājayitavyā iti  / tanmayā drutataraṃ gantavyam  / aho prabhaviṣṇutā mahārājasya yanmama jarasābhibhūtasya maryādāmātramevāvarodhavyāpāraḥ  / atha vā kimiti jarāmupālabheya yataḥ sarvāntaḥpurikāṇāmeva vyāvahāriko veṣaśceṣṭā ca  / tathā hi  
-VERSE_2.1  
-noccaiḥ satyapi cakṣuṣīkṣitamalaṃ śrutvāpi nākarṇitaṃ  $ śaktenāpyadhikāra ityadhikṛtā yaṣṭiḥ samālambitā  &  
-sarvatra skhaliteṣu dattamanasā yātaṃ mayā noddhataṃ  ē̃ sevāsvīkṛtajīvitasya jarasā kiṃ nāma yanme kṛtam  // 2.1 //  
-  
-*parikramya dṛṣṭvākāśe**  
-vihaṃgike api śvaśrūjanapādavandanaṃ kṛtvā pratinivṛttā bhānumatī  /*karṇaṃ dattvā**  
-kiṃ kathayasi  / eṣā bhānumatī devī patyuḥ samaravijayāśaṃsayā nirvartitagurudevapādavandanādyaprabhṛtyārabdhaniyamā bālodyāne tiṣṭhatīti  / tadbhadre gaccha tvamātmavyāpārāya yāvadahamapyatrasthāṃ devīṃ mahārājāya nivedayāmi  /*iti parikramya**  
-sādhu pativrate sādhu strībhāve 'pi vartamānā varaṃ bhavatī na punarmahārājaḥ yo 'yamudyateṣu balavatsvabalavatsu vā vāsudevasahāyeṣu pāṇḍuputreṣvariṣvadyāpyantaḥpuravihāramanubhavati  /*vicintya**  
-idamaparamayathātathaṃ svāminaśceṣṭitam  / kutaḥ  
-VERSE_2.2  
-ā śastragrahaṇādakuṇṭhaparaśostasyāpi jetā mune-  $ stāpāyāsya na pāṇḍusūnubhirayaṃ bhīṣmaḥ śaraiḥ śāyitaḥ  &  
-prauḍhānekadhanurdharārivijayaśrāntasya caikākino  ē̃ bālasyāyamarātilūnadhanuṣaḥ prīto 'bhimanyorvadhāt  // 2.2 //  
-  
-sarvathā daivaṃ naḥ svasti kariṣyati  / tadyāvadatrasthāṃ devīṃ mahārājāya nivedayāmi  /*iti niṣkrāntaḥ**  
-  
-  
-viṣkambhakaḥ  /  
-  
-  
-*tataḥ praviśatyāsanasthā devī bhānumatī sakhī ceṭī ca**  
-  
-  
-&sakhī&:  
-{Pkt_27}sahi bhāṇumadi kīsa dāṇiṃ tumaṃ sibiṇaadaṃsaṇamettassa kide ahimāṇiṇo mahārāadujjohaṇassa mahisī bhavia evvaṃ vialiadhīrabhāvā adimettaṃ saṃtappasi  /  
-  
-  
-SktCh_27: sakhi bhānumati kasmādidānīṃ tvaṃ svapnadarśanamātrasya kṛte 'bhimānino mahārājaduryodhanasya mahiṣī bhūtvaivaṃ vigalitadhīrabhāvātimātraṃ saṃtapyase  /  
-  
-  
-&ceṭī&:  
-{Pkt_28}bhaṭṭiṇi sohaṇaṃ bhaṇādi suvaaṇā  / sibiṇaanto jaṇo kiṃ ṇa khu palabadi  /  
-  
-  
-SktCh_28: bhaṭṭini śobhanaṃ vadati suvadanā  / svapañjanaḥ kiṃ na khalu pralapati  /  
-  
-  
-&bhānumatī&:  
-{Pkt_29}hañje evvaṃ edaṃ  / kiṃ du edaṃ sibiṇaaṃ adimettaṃ akusaladaṃsaṇaṃ me paḍibhādi  /  
-  
-  
-SktCh_29: hañje evametat  / kiṃ tvayaṃ svapno 'timātramakuśaladarśano me pratibhāti  /  
-  
-  
-&sakhī&:  
-{Pkt_30}piasahi jai evvaṃ tā kahehi sibiṇaaṃ jeṇa amhe bi paḍiṭṭhābaantīo dhammappasaṃsāe devadāsaṃkittaṇeṇa duvvādipaḍiggaheṇa a paḍihaḍissāmo  /  
-  
-  
-SktCh_30: priyasakhi yadyevaṃ tatkathaya svapnaṃ yenāvāmapi pratiṣṭhāpayantyau dharmapraśaṃsayā devatāsaṃkīrtanena dūrvādiparigraheṇa ca parihariṣyāvaḥ  /  
-  
-  
-&ceṭī&:  
-{Pkt_31}sohaṇaṃ kkhu bhaṇādi suvaaṇā  / akusaladaṃsaṇā sibiṇaā devadāṇaṃ pasaṃsāe kusalapariṇāmā honti tti suṇīadi  /  
-  
-  
-SktCh_31: śobhanaṃ khalu bhaṇati suvadanā  / akuśaladarśanāḥ svapnā devatānāṃ praśaṃsayā kuśalapariṇāmā bhavantīti śrūyate  /  
-  
-  
-&bhānumatī&:  
-{Pkt_32}jai evvaṃ tā kahaissaṃ  / avahidā dāva hohi  /  
-  
-  
-SktCh_32: yadyevaṃ tatkathayiṣye  / avahitā tāvadbhava  /  
-  
-  
-&sakhī&:  
-{Pkt_33}avahidamhi  / kahedu piasahī  /  
-  
-  
-SktCh_33: avahitāsmi  / kathayatu priyasakhī  /  
-  
-  
-&bhānumatī&:  
-{Pkt_34}halā bhaeṇa visumaridamhi  / tā ciṭṭha jāva savvaṃ sumaria kahaissaṃ  /*iti cintāṃ nāṭayati**  
-  
-  
-  
-SktCh_34: halā bhayena vismṛtāsmi  / tattiṣṭha yāvatsarvaṃ smṛtvā kathayiṣyāmi  /  
-  
-*tataḥ praviśati duryodhanaḥ kañcukī ca**  
-  
-  
-&duryodhanaḥ&:  
-sūktamidaṃ kasyacit  /  
-VERSE_2.3  
-guptyā sākṣānmahānalpaḥ svayamanyena vā kṛtaḥ  /  
-karoti mahatīṃ prītimapakāro 'pakāriṇām  // 2.3 //  
-  
-yenādya droṇakarṇajayadrathādibhirhatamabhimanyumupaśrutya samucchvāsitamiva naścetasā  /  
-  
-  
-&kañcukī&:  
-deva nedamatiduṣkaramācāryaśastraprabhāvāṇāṃ karṇajayadrathayorvā  / kā nāmātra ślāghā  /  
-  
-  
-&rājā&:  
-vinayaṃdhara kimāha bhavān  / eko bahubhirbālo lūnaśarāsanaśca nihata ityatra kā ślāghā kurupuṃgavānāmiti  / mūḍha paśya  /  
-VERSE_2.4  
-hate jarati gāṅgeye puraskṛtya śikhaṇḍinam  /  
-yā ślāghā pāṇḍuputrāṇāṃ saivāsmākaṃ bhaviṣyati  // 2.4 //  
-  
-  
-  
-&kañcukī&:  
-*savailakṣyam**  
-deva na mamāyaṃ saṃkalpaḥ  / kiṃ tu bhavatpauruṣapratīghāto 'smābhirnāvalokitapūrva ityata evaṃ vijñāpayāmi  /  
-  
-  
-&rājā&:  
-evamidam  /  
-VERSE_2.5  
-sahabhṛtyagaṇaṃ sabāndhavaṃ sahamitraṃ sasutaṃ sahānujam  /  
-svabalena nihanti saṃyuge na cirātpāṇḍusutaḥ suyodhanam  // 2.5 //  
-  
-  
-  
-&kañcukī&:  
-*karṇau pidhāya sabhayam**  
-śāntaṃ pāpam  / pratihatamamaṅgalam  /  
-  
-  
-&rājā&:  
-vinayaṃdhara kiṃ mayoktam  /  
-  
-  
-&kañcukī&:  
-*sahabhṛtyagaṇaṃ sabāndhavaṃ sahamitraṃ sasutaṃ sahānujam  / svabalena nihanti saṃyuge na cirātpāṇḍusutaṃ suyodhanaḥ  // iti paṭhati**  
-etadviparītamabhihitaṃ devena  /  
-  
-  
-&rājā&:  
-vinayaṃdhara adya khalu bhānumatī yathāpūrvaṃ māmanāmantrya vāsabhavanātprātareva niṣkrānteti vyākṣiptaṃ me manaḥ  / tadādeśaya tamuddeśaṃ yatrasthā bhānumatī  /  
-  
-  
-&kañcukī&:  
-ita ito devaḥ  /  
-  
-*ubhau parikrāmataḥ**  
-  
-  
-&kañcukī&:  
-*puro 'valokya samantato gandhamāghrāya**  
-  
-deva paśya paśya  / etattuhinakaṇaśiśirasamīraṇodvellitabandhanacyutaśephālikāviracitakusumaprakaramīṣadālohitamugdhavadhūkapolapāṭalalodhraprasūnavijitaśyāmalatāsaubhāgyamunmīlitabakulakundakusumasurabhiśītalaṃ prabhātakālaramaṇīyamagrataste bālodyānam  / tadavalokayatu devaḥ  / tathā hi  
-VERSE_2.6  
-prāleyamiśramakarandakarālakośaiḥ  $ puṣpaiḥ samaṃ nipatitā rajanīprabuddhaiḥ  &  
-arkāṃśubhinnamukulodarasāndragandha-  ē̃ saṃsūcitāni kamalānyalayaḥ patanti  // 2.6 //  
-  
-  
-  
-&rājā&:  
-*samantādavalokya**  
-vinayaṃdhara idamaparamamuṣminnuṣasi ramaṇīyam  / paśya  /  
-VERSE_2.7  
-jṛmbhārambhapravitatadalopāntajālapraviṣṭai-  $ rhastairbhānornṛpataya iva spṛśyamānā vibuddhāḥ  &  
-strībhiḥ sārdhaṃ ghanaparimalastokalakṣyāṅgarāgā  ē̃ muñcantyete vikacanalinīgarbhaśayyāṃ dvirephāḥ  // 2.7 //  
-  
-  
-  
-&kañcukī&:  
-deva nanveṣā devī bhānumatī suvadanayā taralikayā ca paryupāsyamānā tiṣṭhati  / tadupasarpatu devaḥ  /  
-  
-  
-&rājā&:  
-*dṛṣṭvā**  
-ārya vinayaṃdhara gaccha tvaṃ sāṃgrāmikaṃ me rathamupakalpayitum  / ahamapyeṣa devīṃ dṛṣṭvānupadamāgata eva  /  
-  
-  
-&kañcukī&:  
-eṣa kṛto devādeśaḥ  /*iti niṣkrāntaḥ**  
-  
-  
-  
-&sakhī&:  
-{Pkt_35}piasahi abi sumaridaṃ tue  /  
-  
-  
-SktCh_35: priyasakhi api smṛtaṃ tvayā  /  
-  
-  
-&bhānumatī&:  
-{Pkt_36}sahi sumaridaṃ  / ajja kila pamadavaṇe āsīṇāe mama aggado keṇa bi adisaidadivvarūbiṇā ṇauleṇa ahisadaṃ vābādidaṃ  /  
-  
-  
-SktCh_36: sakhi smṛtam  / adya kila pramadavana āsīnāyā mamāgrataḥ kenāpyatiśayitadivyarūpiṇā nakulenāhiśataṃ vyāpāditam  /  
-  
-  
-&ubhe&:  
-{Pkt_37}*apavāryātmagatam**  
-santaṃ pābaṃ paḍihadaṃ amaṅgalaṃ  /*prakāśam**  
-tado tado  /  
-  
-  
-SktCh_37: śāntaṃ pāpaṃ pratihatamamaṅgalam  / tatastataḥ  /  
-  
-  
-&bhānumatī&:  
-{Pkt_38}adisaṃdābobagahīahiaāe visumaridaṃ mae  / tā puṇo bi sumaria kahaissaṃ  /  
-  
-  
-SktCh_38: atisaṃtāpopagṛhītahṛdayayā vismṛtaṃ mayā  / tatpunarapi smṛtvā kathayiṣye  /  
-  
-  
-&rājā&:  
-aho devī bhānumatī suvadanātaralikābhyāṃ saha kimapi mantrayamāṇā tiṣṭhati  / bhavatu  / anena latājālenāntaritaḥ śṛṇomi tāvadāsāṃ viśrabdhālāpam  /*iti tathā sthitaḥ**  
-  
-  
-  
-&sakhī&:  
-{Pkt_39}sahi alaṃ saṃdābeṇa  / kahedu piasahī  /  
-  
-  
-SktCh_39: sakhi alaṃ saṃtāpena  / kathayatu priyasakhī  /  
-  
-  
-&rājā&:  
-kiṃ nu khalvasyāḥ saṃtāpakāraṇam  / atha vānāmantrya māmiyamadya vāsabhavanānniṣkrānteti samarthita evāsyā mayā kopaḥ  / ayi bhānumati aviṣayaḥ khalu duryodhano bhavatyāḥ kopasya  /  
-VERSE_2.8  
-kiṃ kaṇṭhe śithilīkṛto bhujalatāpāśaḥ pramādānmayā  $ nidrācchedavivartaneṣvabhimukhaṃ nādyāsi saṃbhāvitā  &  
-anyastrījanasaṃkathālaghurahaṃ svapne tvayā lakṣito  ē̃ doṣaṃ paśyasi kaṃ priye parijanopālambhayogye mayi  // 2.8 //  
-  
-*vicintya**  
-atha vā  
-VERSE_2.9  
-iyamasmadupāśrayaikacittā manasā premanibaddhamatsareṇa  /  
-niyataṃ kupitātivallabhatvātsvayamutprekṣya mamāparādhaleśam  // 2.9 //  
-  
-tathāpi śṛṇumastāvatkiṃ vakṣyatīti  /  
-  
-  
-&bhānumatī&:  
-{Pkt_40}halā haṃ tado tassa adisaidadivvarūbiṇo ṇaulassa daṃsaṇeṇa ussuā jādā  /  
-  
-  
-SktCh_40: halā ahaṃ tatastasyātiśayitadivyarūpiṇo nakulasya darśanenotsukā jātā  /  
-  
-  
-&rājā&:  
-*savailakṣyam**  
-kiṃ nāmātiśayitadivyarūpiṇo nakulasya darśanenotsukā jātā  / tatkimanayā pāpayā mādrīsutānuraktayā vayamevaṃ vipralabdhāḥ  /*sotprekṣamiyamasmaditi paṭhitvā**  
-mūḍha duryodhana kulaṭāvipralabhyamānamātmānaṃ bahumanyamāno 'dhunā kiṃ vakṣyasi  /*kiṃ kaṇṭha ityādi paṭhitvā diśo 'valokya**  
-aho etadarthamevāsyāḥ prātareva viviktasthānābhilāṣaḥ sakhījanasaṃkathāsu ca pakṣapātaḥ  / duryodhanastu mohādavijñātabandhakīhṛdayasāraḥ kvāpi paribhrāntaḥ  / āḥ pāpe matparigrahapāṃsule  
-VERSE_2.10  
-tadbhīrutvaṃ tava mama puraḥ sāhasānīdṛśāni  $ ślāghā sāsmadvapuṣi vinayavyutkrame 'pyeṣa rāgaḥ  &  
-taccaudāryaṃ mayi jaḍamatau cāpale ko 'pi panthāḥ  ē̃ khyāte tasminvitamasi kule janma kaulīnametat  // 2.10 //  
-  
-  
-  
-&sakhī&:  
-{Pkt_41}tado tado  /  
-  
-  
-SktCh_41: tatastataḥ  /  
-  
-  
-&bhānumatī&:  
-{Pkt_42}tado ujjhia taṃ āsaṇaṭṭhāṇaṃ ladāmaṇḍabaṃ paviṭṭhā  / tado so bi maṃ aṇusaranto evva ladāmaṇḍabaṃ paviṭṭho  /  
-  
-  
-SktCh_42: tata ujjhitvā tadāsanasthānaṃ latāmaṇḍapaṃ praviṣṭā  / tataḥ so 'pi māmanusaranneva latāmaṇḍapaṃ praviṣṭaḥ  /  
-  
-  
-&rājā&:  
-aho kuṭalocitamasyāḥ pāpāyā aśālīnatvam  /  
-VERSE_2.11  
-yasmiṃścirapraṇayanirbharabaddhabhāva-  $ māvedito rahasi matsuratopabhogaḥ  &  
-tatraiva duścaritamadya nivedayantī  ē̃ hrīṇāsi pāpahṛdaye na sakhījane 'smin  // 2.11 //  
-  
-  
-  
-&ubhe&:  
-{Pkt_43}tado tado  /  
-  
-  
-SktCh_43: tatastataḥ  /  
-  
-  
-&bhānumatī&:  
-{Pkt_44}tado teṇa sagavvaṃ pasāriakareṇa apahariaṃ me thaṇaṃsuaṃ  /  
-  
-  
-SktCh_44: tatastena sagarvaṃ prasāritakareṇāpahṛtaṃ me stanāṃśukam  /  
-  
-  
-&rājā&:  
-*vicintya**  
-sagarvaṃ prasāritakareṇāpahṛtaṃ me stanāṃśukam  /*sakrodham**  
-alamataḥ paraṃ śrutvā  / bhavatu tāvattasya paravanitāskandanapragalbhasya mādrīsutahatakasya jīvitamapaharāmi  /*kiṃcidgatvā vicintya**  
-atha veyameva tāvatpāpaśīlā prathamamanuśāsanīyā  /*iti nivartate**  
-  
-  
-  
-&ubhe&:  
-{N_45}tado tado  /  
-  
-  
-SktCh_45: tatastataḥ  /  
-  
-  
-&bhānumatī&:  
-{Pkt_46}tado haṃ ajjauttassa pabhādamaṅgalatūraravamisseṇa vāravilāsiṇīsaṃgīdasaddeṇa paḍibodhidamhi  /  
-  
-  
-SktCh_46: tato 'hamāryaputrasya prabhātamaṅgalatūryaravamiśreṇa vāravilāsinīsaṃgītaśabdena pratibodhitāsmi  /  
-  
-  
-&rājā&:  
-*savitarkam**  
-kiṃ nu pratibodhitāsmīti svapnadarśanamanayā varṇitaṃ bhavet  /*vicintya**  
-bhavatu sakhīvacanādvyaktirbhaviṣyati  /  
-  
-*ubhe saviṣādamanyo 'nyaṃ paśyataḥ**  
-  
-  
-&suvadanā&:  
-{Pkt_47}jaṃ kiṃ bi ettha accāhidaṃ taṃ bhāīrahīppamuhāṇaṃ ṇaīṇaṃ salileṇa avaharīadu  / bhaavadāṇaṃ bamhaṇāṇaṃ bi āsīsāe āhudihudeṇa pajjalideṇa bhaavadā hudāsaṇeṇa a ṇassadu  /  
-  
-  
-SktCh_47: yatkimapyatrātyāhitaṃ tadbhāgīrathīpramukhāṇāṃ nadīnāṃ salilenāpahriyatām  / bhagavatāṃ brāhmaṇānāmapyāśiṣāhutihutena prajvalitena bhagavatā hutāśanena ca naśyatu  /  
-  
-  
-&rājā&:  
-alaṃ vikalpena  / svapnadarśanamevaitadanayā varṇitam  / mayā punarmandadhiyānyathaiva saṃbhāvitam  /  
-VERSE_2.12  
-diṣṭyārdhaśrutivipralambhajanitakrodhādahaṃ no gato  $ diṣṭyā no paruṣaṃ ruṣārdhakathane kiṃcinmayā vyāhṛtam  &  
-māṃ pratyāyayituṃ vimūḍhahṛdayaṃ diṣṭyā kathāntaṃ gatā  ē̃ mithyādūṣitayānayā virahitaṃ diṣṭyā na jātaṃ jagat  // 2.12 //  
-  
-  
-  
-&bhānumatī&:  
-{Pkt_48}halā kahehi kiṃ ettha suhasūaaṃ  /  
-  
-  
-SktCh_48: halā kathaya kimatra śubhasūcakam  /  
-  
-  
-&sakhī ceṭī ca&:  
-{Pkt_49}*anyo 'nyamavalokyāpavārya**  
-ettha ṇatthi thoaṃ bi suhasūaaṃ  / jai ettha alīaṃ kahaissaṃ tā piasahīe abarāhiṇī bhavissaṃ  / so evva siṇiddho jaṇo jo pucchido parusaṃ bi hidaṃ bhaṇādi  /*prakāśam**  
-sahi savvaṃ evva edaṃ asuhaṇivedaṇaṃ  / tā devadāṇaṃ paṇāmeṇa dujādijaṇapaḍiggaheṇa a antarīadu  / ṇa hu dāṭhiṇo ṇaulassa vā daṃsaṇaṃ ahisadavahaṃ a sibiṇae pasaṃsanti viakkhaṇā  /  
-  
-  
-SktCh_49: atra nāsti stokamapi śubhasūcakam  / yadyatrālīkaṃ kathayiṣye tatpriyasakhyā aparādhinī bhaviṣyāmi  / sa eva snigdho jano yaḥ pṛṣṭaḥ paruṣamapi hitaṃ bhaṇati  / sakhi sarvamevaitadaśubhanivedanam  / taddevatānāṃ praṇāmena dvijātijanapratigraheṇa cāntaryatām  / na khalu daṃṣṭriṇo nakulasya vā darśanamahiśatavadhaṃ ca svapne praśaṃsanti vicakṣaṇāḥ  /  
-  
-  
-&rājā&:  
-avitathamāha suvadanā  / nakulena pannagaśatavadhaḥ stanāṃśukāpaharaṇaṃ ca niyatamariṣṭodarkaṃ tarkayāmi  /  
-VERSE_2.13  
-paryāyeṇa hi dṛśyante svapnāḥ kāmaṃ śubhāśubhāḥ  /  
-śatasaṃkhyā punariyaṃ sānujaṃ spṛśatīva mām  // 2.13 //  
-  
-*vāmākṣispandanaṃ sūcayitvā**  
-āḥ mamāpi nāma duryodhanasyānimittāni hṛdayakṣobhamāvedayanti  /*sāvaṣṭambham**  
-atha vā bhīrujanahṛdayaprakampaneṣu kā gaṇanā duryodhanasyaivaṃvidheṣu  / gītaścāyamartho 'ṅgirasā  /  
-VERSE_2.14  
-grahāṇāṃ caritaṃ svapno 'nimittānyupayācitam  /  
-phalanti kākatālīyaṃ tebhyaḥ prājñā na bibhyati  // 2.14 //  
-  
-tadbhānumatyāḥ strīsvabhāvasulabhāmalīkāśaṅkāmapanayāmi  /  
-  
-  
-&bhānumatī&:  
-{Pkt_50}halā suvaaṇe pekkha dāva udaagirisiharantaridavimukkarahavaro vialidasaṃjhārāappasaṇṇadurāloamaṇḍalo jādo bhaavaṃ diahaṇāho  /  
-  
-  
-SktCh_50: halā suvadane paśya tāvadudayagiriśikharāntaritavimuktarathavaro vigalitasaṃdhyārāgaprasannadurālokamaṇḍalo jāto bhagavāndivasanāthaḥ  /  
-  
-  
-&sakhī&:  
-{Pkt_51}sahi rosāṇidakaṇaapattasariseṇa ladājālantarobahidakiraṇaṇivaheṇa piñjaridujjāṇabhūmibhāo duppekkhaṇijjo bhaavaṃ sahassarassī saṃvutto  / tā samao de lohidacandaṇakusumagabbheṇa aggheṇa pajjubaṭṭhāduṃ  /  
-  
-  
-SktCh_51: sakhi roṣāṇitakanakapatrasadṛśena latājālāntaropahitakiraṇanivahena piñjaritodyānabhūmibhāgo duḥprekṣaṇīyo bhagavānsahasraraśmiḥ saṃvṛttaḥ  / tatsamayaste lohitacandanakusumagarbheṇārgheṇa paryupasthātum  /  
-  
-  
-&bhānumatī&:  
-{Pkt_52}hañje taralie ubaṇehi me agghabhāaṇaṃ jāva bhaavado sahassarassiṇo sabariaṃ ṇivvattemi  /  
-  
-  
-SktCh_52: hañje taralike upanaya me 'rghyabhājanaṃ yāvadbhagavataḥ sahasraraśmeḥ saparyāṃ nirvartayāmi  /  
-  
-  
-&ceṭī&:  
-{Pkt_53}jaṃ devī āṇabedi  /*iti niṣkrāntā**  
-  
-  
-  
-SktCh_53: yaddevyājñāpayati  /  
-  
-  
-&rājā&:  
-ayameva sādhutarovasaraḥ priyāsamīpamupagantum  /*ityupasarpati**  
-  
-  
-*praviśya**  
-  
-  
-&ceṭī&:  
-{Pkt_54}bhaṭṭiṇi edaṃ agghabhāaṇaṃ  / tā ṇivvattīadu bhaavado sahassarassiṇo sabariā  /  
-  
-  
-SktCh_54: bhaṭṭini idamarghyabhājanam  / tannivartyatāṃ bhagavataḥ sahasraraśmeḥ saparyā  /  
-  
-  
-&sakhī&:  
-{Pkt_55}*vilokyātmagatam**  
-kahaṃ mahārāo āado  / hanta jādo se ṇiamabhaṅgo  /  
-  
-  
-SktCh_55: kathaṃ mahārāja āgataḥ  / hanta jāto 'syā niyamabhaṅgaḥ  /  
-  
-*rājopasṛtya saṃjñayā parijanamutsārya svayamevārghyapātraṃ gṛhītvā dadāti**  
-  
-  
-&bhānumatī&:  
-{Pkt_56}*dinakarābhimukhī bhūtvā**  
-bhaavaṃ ambaramahāsarekkasahassapatta puvvadihāvahūmuhamaṇḍalakuṅkumavisesaa saalabhuaṇekkaraaṇappadība jaṃ ettha sibiṇaadaṃsaṇe kiṃ bi accāhidaṃ taṃ bhaavado paṇāmeṇa sabhāduassa ajjauttassa kusalapariṇāmi hodu  /*arghyaṃ dattvā**  
-hañje taralie ubaṇehi me kusumāiṃ  / abarāṇaṃ bi devadāṇaṃ sabariaṃ ṇivvattemi  /*hastau prasārayati**  
-  
-  
-  
-SktCh_56: bhagavannambaramahāsaraekasahasrapatra pūrvadiśāvadhūmukhamaṇḍalakuṅkumaviśeṣaka sakalabhuvanaikaratnapradīpa yadatra svapnadarśane kimapyatyāhitaṃ tadbhagavataḥ praṇāmena sabhrātṛkasyāryaputrasya kuśalapariṇāmi bhavatu  / hañje taralike upanaya me kusumāni  / aparāsāmapi devatānāṃ saparyāṃ nirvartayāmi  /  
-  
-*rājā puṣpāṇyupanayati sparśasukhamabhinīya ca kusumāni bhūmau pātayati**  
-  
-  
-&bhānumatī&:  
-{Pkt_57}*saroṣam**  
-aho pamādo pariaṇassa  /*parivṛtya dṛṣṭvā sasaṃbhramam**  
-kahaṃ ajjautto  /  
-  
-  
-SktCh_57: aho pramādaḥ parijanasya  / kathamāryaputraḥ  /  
-  
-  
-&rājā&:  
-devi anipuṇaḥ parijano 'yamevaṃvidhe sevāvakāśe  / tatprabhavatyatrānuśāsane devī  /  
-  
-*bhānumatī lajjāṃ nāṭayati**  
-  
-  
-&rājā&:  
-ayi priye  
-VERSE_2.15  
-vikira dhavaladīrghāpāṅgasaṃsarpi cakṣuḥ  $ parijanapathavartinyatra kiṃ saṃbhrameṇa  &  
-smitamadhuramudāraṃ devi māmālapoccaiḥ  ē̃ prabhavati mama pāṇyorañjaliḥ sevituṃ tvām  // 2.15 //  
-  
-  
-  
-&bhānumatī&:  
-{Pkt_58}ajjautta abbhaṇuṇṇādāe tue atthi me kassiṃ bi ṇiame ahilāso  /  
-  
-  
-SktCh_58: āryaputra abhyanujñātāyāstvayāsti me kasminnapi niyame 'bhilāṣaḥ  /  
-  
-  
-&rājā&:  
-śrutavistāra evāsmi bhavatyāḥ svapnavṛttāntaṃ prati  / tadalamevaṃ prakṛtisukumāramātmānaṃ khedayitum  /  
-  
-  
-&bhānumatī&:  
-{Pkt_59}ajjautta adimettaṃ me saṅkā bāhei  / tā aṇumaṇṇadu maṃ ajjautta  /  
-  
-  
-SktCh_59: āryaputra atimātraṃ māṃ śaṅkā bādhate  / tadanumanyatāṃ māmāryaputraḥ  /  
-  
-  
-&rājā&:  
-*sagarvam**  
-devi alamanayā śaṅkayā  / paśya  /  
-VERSE_2.16  
-kiṃ no vyāptadiśāṃ prakampitabhuvāmakṣauhiṇīnāṃ phalaṃ  $ kiṃ droṇena kimaṅgarājaviśikhairevaṃ yadi klāmyasi  &  
-bhīru bhrātṛśatasya me bhujavanacchāyāṃ sukhopasthitā  ē̃ tvaṃ duryodhanakesarīndragṛhiṇī śaṅkāspadaṃ kiṃ tava  // 2.16 //  
-  
-  
-  
-&bhānumatī&:  
-{Pkt_60}ajjautta ṇa hu kiṃ bi me saṅkākālaṇaṃ tumhesu saṇṇihidesu  / kiṃ tu ajjauttassa evva maṇorahasaṃpattiṃ abhiṇandāmi  /  
-  
-  
-SktCh_60: āryaputra na khalu kimapi me śaṅkākāraṇaṃ yuṣmāsu saṃnihiteṣu  / kiṃ tvāryaputrasyaiva manorathasaṃpattimabhinandāmi  /  
-  
-  
-&rājā&:  
-ayi sundari etāvanta eva manorathā yadahaṃ dayitayā saṃgataḥ svecchayā viharāmīti  / paśya  /  
-VERSE_2.17  
-premābaddhastimitanayanāpīyamānābjaśobhaṃ  $ lajjāyogādaviśadakathaṃ mandamandasmitaṃ vā  &  
-vaktrenduṃ te niyamamuṣitālaktakāgrādharaṃ vā  /  ē̃ pātuṃ vāñchā paramasulabhaṃ kiṃ nu duryodhanasya  // 2.17 //  
-  
-  
-*nepathye mahānkalakalaḥ  / sarva ākarṇayanti**  
-  
-  
-&bhānumatī&:  
-{Pkt_61}*sabhayaṃ rājānaṃ pariṣvajya**  
-parittāadu parittāadu ajjautto  /  
-  
-  
-SktCh_61: paritrāyatāṃ paritrāyatāmāryaputraḥ  /  
-  
-  
-&rājā&:  
-*samantādavalokya**  
-priye alaṃ saṃbhrameṇa  / paśya  /  
-VERSE_2.18  
-dikṣu vyūḍhāṅghripāṅgastṛṇajaṭilacalatpāṃśudaṇḍo 'ntarikṣe  $ jhāṃkārī śarkarālaḥ pathiṣu viṭapināṃ skandhakāṣaiḥ sadhūmaḥ  &  
-prāsādānāṃ nikuñjeṣvabhinavajaladodgāragambhīradhīra-  ē̃ ścaṇḍārambhaḥ samīro vahati paridiśaṃ bhīru kiṃ saṃbhrameṇa  // 2.18 //  
-  
-  
-  
-&sakhī&:  
-{Pkt_62}mahārāo pavisadu edaṃ dārupavvaapāsādaṃ  / uvveakārī khu aaṃ utthidaparusaraakalusīkidaṇaaṇo ummūlidataruvarasaddavittatthamandurāparibbhaṭṭhavallahatulaṃgamapajjāulīkidajaṇapaddhaī bhīsaṇo samīraṇāsāro  /  
-  
-  
-SktCh_62: mahārājaḥ praviśatvimaṃ dāruparvataprāsādam  / udvegakārī khalvayamutthitaparuṣarajaḥkaluṣīkṛtanayana unmūlitataruvaraśabdavitrastamandurāparibhraṣṭavallabhaturaṃgamaparyākulīkṛtajanapaddhatirbhīṣaṇaḥ samīraṇāsāraḥ  /  
-  
-  
-&rājā&:  
-*saharṣam**  
-upakāri khalvidaṃ vātyācakraṃ suyodhanasya  / yasya prasādādayatnaparityaktaniyamayā devyā saṃpādito 'smanmanorathaḥ  / kathamiti  /  
-VERSE_2.19  
-nyastā na bhrukuṭirna bāṣpasalilairācchādite locane  $ nītaṃ nānanamanyataḥ saśapathaṃ nāhaṃ spṛśanvāritaḥ  &  
-tanvyā magnapayodharaṃ bhayavaśādābaddhamāliṅgitaṃ  ē̃ bhaṅktāsyā niyamasya bhīṣaṇamarunnāyaṃ vayasyo mama  // 2.19 //  
-  
-tatsaṃpūrṇamanorathasya me kāmacāraḥ saṃprati vihāreṣu  / tadito dāruparvataprāsādameva gacchāmaḥ  /  
-  
-*sarve vātyābādhāṃ rūpayanto yatnataḥ parikrāmanti**  
-  
-  
-&rājā&:  
-VERSE_2.20  
-kuru ghanoru padāni śanaiḥ śanairayi vimuñca gatiṃ parivepinīm  /  
-patasi bāhulatoparibandhanaṃ mama nipīḍaya gāḍhamuraḥsthalam  // 2.20 //  
-  
-*praveśaṃ rūpayitvā**  
-priye alabdhāvakāśaḥ samīraṇaḥ saṃvṛtatvādgarbhagṛhasya  / visrabdhamunmīlaya cakṣurunmṛṣṭareṇunikaram  /  
-  
-  
-&bhānumatī&:  
-{Pkt_63}*saharṣam**  
-diṭṭhiā iha dāva uppādasamīraṇo ṇa bādhedi  /  
-  
-  
-SktCh_63: diṣṭyeha tāvadutpātasamīraṇo na bādhate  /  
-  
-  
-&sakhī&:  
-{Pkt_64}mahārāa ārohaṇasaṃbhamaṇissahaṃ piasahīe ūrujualaṃ  / tā kīsa dāṇiṃ mahārāo āsaṇavediṃ ṇa bhūsedi  /  
-  
-  
-SktCh_64: mahārāja ārohaṇasaṃbhramaniḥsahaṃ priyasakhyā ūruyugalam  / tatkasmādidānīṃ mahārāja āsanavedīṃ na bhūṣayati  /  
-  
-  
-&rājā&:  
-*devīmavalokya**  
-bhavati analpamevāpakṛtaṃ vātyāsaṃbhrameṇa  / tathā hi  
-VERSE_2.21  
-reṇurbādhāṃ vidhatte tanurapi mahatīṃ netrayorāyatatvā-  $ dutkampo 'lpo 'pi pīnastanabharitamuraḥ kṣiptahāraṃ dunoti  &  
-ūrvormande 'pi yāte pṛthujaghanabharādvepathurvardhate 'syā  ē̃ vātyā khedaṃ kṛśāṅgayāḥ suciramavayavairdattahastā karoti  // 2.21 //  
-  
-  
-*sarva upaviśanti**  
-  
-  
-&rājā&:  
-tatkimityanāstīrṇaṃ kaṭhinaṃ śilātalamadhyāste devī  /  
-VERSE_2.22  
-lolāṃśukasya pavanākulitāṃśukāntaṃ  $ tvaddṛṣṭihāri mama locanabāndhavasya  &  
-adhyāsituṃ tava ciraṃ jaghanasthalasya  ē̃ paryāptameva karabhoru mamoruyugmam  // 2.22 //  
-  
-  
-*praviśya paṭākṣepeṇa saṃbhrāntaḥ**  
-  
-  
-&kañcukī&:  
-deva bhagnaṃ bhagnam  /  
-  
-*sarve sātaṅkaṃ paśyanti**  
-  
-  
-&rājā&:  
-kiṃ nāma  /  
-  
-  
-&kañcukī&:  
-bhagnaṃ bhīmena  /  
-  
-  
-&rājā&:  
-āḥ kiṃ pralapasi  /  
-  
-  
-&bhānumatī&:  
-{Pkt_65}ajja kiṃ aṇatthaṃ mantesi  /  
-  
-  
-SktCh_65: ārya kimanarthaṃ mantrayase  /  
-  
-  
-&kañcukī&:  
-*sabhayam**  
-nanu bhagnaṃ bhīmena bhavataḥ  /  
-  
-  
-&rājā&:  
-dhikpralāpinvṛddhāpasada ko 'yamadya te vyāmohaḥ  /  
-  
-  
-&kañcukī&:  
-deva na khalu kaścidvyāmohaḥ  / satyameva bravīmi  /  
-VERSE_2.23  
-bhagnaṃ bhīmena bhavato marutā rathaketanam  /  
-patitaṃ kiṅkiṇīkvāṇabaddhākrandamiva kṣitau  // 2.23 //  
-  
-  
-  
-&rājā&:  
-balavatsamīraṇavegātkampite bhuvane bhagnaḥ syandanaketuḥ  / tatkimityuddhataṃ pralapasi bhagnaṃ bhagnamiti  /  
-  
-  
-&kañcukī&:  
-deva na kiṃcit  / kiṃ tu śamanārthamasyānimittasya vijñāpayitavyo deva iti svāmibhaktirmāṃ mukharayati  /  
-  
-  
-&bhānumatī&:  
-{Pkt_66}ajjautta pariharīadu edaṃ aṇimittaṃ pasaṇṇabamhaṇaveāṇughoseṇa homeṇa a  /  
-  
-  
-SktCh_66: āryaputra parihāryatāmetadanimittaṃ prasannabrāhmaṇavedānughoṣeṇa homena ca  /  
-  
-  
-&rājā&:  
-*sāvajñam**  
-nanu gaccha  / purohitasumitrāya nivedaya  /  
-  
-  
-&kañcukī&:  
-yadājñāpayati devaḥ  /*iti niṣkrāntaḥ**  
-  
-  
-*praviśya**  
-  
-  
-&pratīhārī&:  
-{Pkt_67}*sodvegamupasṛtya**  
-jaadu jaadu mahārāo  / mahārāa esā khu jāmāduṇo sindhurāassa mādā dussalā a paḍihārabhūmīe ciṭṭhadi  /  
-  
-  
-SktCh_67: jayatu jayatu mahārājaḥ  / mahārāja eṣā khalu jāmātuḥ sindhurājasya mātā duḥśalā ca pratīhārabhūmau tiṣṭhati  /  
-  
-  
-&rājā&:  
-*kiṃcidvicintyātmagatam**  
-kiṃ jayadrathamātā duḥśalā ceti  / kaccidabhimanyuvadhāmarṣitaiḥ pāṇḍuputrairna kiṃcidatyāhitamāceṣṭitaṃ bhavet  /*prakāśam**  
-gaccha  / praveśaya śīghram  /  
-  
-  
-&pratīhārī&:  
-{Pkt_68}jaṃ mahārāo āṇabedi  /*iti niṣkrāntaḥ**  
-  
-  
-  
-SktCh_68: yanmahārāja ājñāpayati  /  
-  
-*tataḥ praviśati saṃbhrāntā jayadrathamātā duḥśalā ca  / ubhe sāsraṃ duryodhanasya pādayoḥ patataḥ**  
-  
-  
-&mātā&:  
-{Pkt_69}parittāadu parittāadu kuluṇāho  /  
-  
-  
-SktCh_69: paritrāyatāṃ paritrāyatāṃ kurunāthaḥ  /  
-  
-*duḥśalā roditi**  
-  
-  
-&rājā&:  
-*sasaṃbhramamutthāpya**  
-amba samāśvasihi samāśvasihi  / kimatyāhitam  / api kuśalaṃ samarāṅgaṇeṣvapratirathasya jayadrathasya  /  
-  
-  
-&mātā&:  
-{Pkt_70}jāda kudo kusalaṃ  /  
-  
-  
-SktCh_70: jāta kutaḥ kuśalam  /  
-  
-  
-&rājā&:  
-kathamiva  /  
-  
-  
-&mātā&:  
-{Pkt_71}*sāśaṅkam**  
-ajja khu puttavahāmarisuddībideṇa gaṇḍīviṇā aṇatthamide diasaṇāhe tassa vaho paḍiṇṇādo  /  
-  
-  
-SktCh_71: adya khalu putravadhāmarṣoddīpitena gāṇḍīvinānastamite divasanāthe tasya vadhaḥ pratijñātaḥ  /  
-  
-  
-&rājā&:  
-*sasmitam**  
-idaṃ tadaśrukāraṇamambāyā duḥśalāyāśca  / putraśokādunmattasya kirīṭinaḥ pralāpairevamavasthā  / aho mugdhatvamabalānām  / amba kṛtaṃ viṣādena  / vatse duḥśale alamaśrupātena  / kutaścāyaṃ tasya dhanaṃjayasya prabhāvo duryodhanabāhuparigharakṣitasya mahārathajayadrathasya vipattimutpādayitum  /  
-  
-  
-&mātā&:  
-{Pkt_72}jāda puttabandhuvahāmarisuddībidakobāṇalā aṇavekkhidasarīrā vīrā parikkamanti  /  
-  
-  
-SktCh_72: jāta putrabandhuvadhāmarṣoddīpitakopānalā anapekṣitaśarīrā vīrāḥ parikrāmanti  /  
-  
-  
-&rājā&:  
-*sopahāsam**  
-evametat  / sarvajanaprasiddhaivāmarṣitā pāṇḍavānām  / paśya  /  
-VERSE_2.24  
-hastākṛṣṭavilolakeśavasanā duḥśāsanenājñayā  $ pāñcālī mama rājacakrapurato gaurgauriti vyāhṛtā  &  
-tasminneva sa kiṃ nu gāṇḍivadharo nāsītpṛthānandano  ē̃ yūnaḥ kṣatriyavaṃśajasya kṛtinaḥ krodhāspadaṃ kiṃ na tat  // 2.24 //  
-  
-  
-  
-&mātā&:  
-{Pkt_73}asamattapaḍiṇṇābharassa attavaho se paḍiṇṇādo  /  
-  
-  
-SktCh_73: asamāptapratijñābharasyātmavadho 'sya pratijñātaḥ  /  
-  
-  
-&rājā&:  
-yadyevamalamānandasthāne 'pi te viṣādena  / nanu vaktavyamutsannaḥ sānujo yudhiṣṭhira iti  / anyacca mātaḥ kā śaktirasti dhanaṃjayasyānyasya vā kuruśataparivāravardhitamahimnaḥ kṛpakarṇadroṇāśvatthāmādimahārathadviguṇīkṛtanirāvaraṇavikramasya nāmāpi grahītuṃ te tanayasya  / ayi sutaparākramānabhijñe  
-VERSE_2.25  
-dharmātmajaṃ prati yamau ca kathaiva nāsti  $ madhye vṛkodarakirīṭabhṛtorbalena  &  
-eko 'pi visphuritamaṇḍalacāpacakraṃ  ē̃ kaḥ sindhurājamabhiṣeṇayituṃ samarthaḥ  // 2.25 //  
-  
-  
-  
-&bhānumatī&:  
-{Pkt_74}ajjautta jai bi evvaṃ taha bi gurukidapaḍiṇṇābharo dhaṇaṃjao ṇidāṇaṃ kkhu saṃkāe  /  
-  
-  
-SktCh_74: āryaputra yadyapyevaṃ tathāpi gurukṛtapratijñābharo dhanaṃjayaḥ nidānaṃ khalu śaṅkāyāḥ  /  
-  
-  
-&mātā&:  
-{Pkt_75}jāde sāhu kāloidaṃ tue mantidaṃ  /  
-  
-  
-SktCh_75: jāte sādhu kālocitaṃ tvayā mantritam  /  
-  
-  
-&rājā&:  
-āḥ mamāpi nāma duryodhanasya śaṅkāsthānaṃ pāṇḍavāḥ  / paśya  /  
-VERSE_2.26  
-kodaṇḍajyākiṇāṅkairagaṇitaripubhiḥ kaṅkaṭonmuktadehaiḥ  $ śliṣṭānyo 'nyātapatraiḥ sitakamalavanabhrāntimutpādayadbhiḥ  &  
-reṇugrastārkabhāsāṃ pracaladasilatādanturāṇāṃ balānā-  ē̃ mākrāntā bhrātṛbhirme diśi diśi samare koṭayaḥ saṃpatanti  // 2.26 //  
-  
-api ca bhānumati vijñātapāṇḍavaprabhāve kiṃ tvamapyevamāśaṅkase  / paśya  /  
-VERSE_2.27  
-duḥśāsanasya hṛdayakṣatajāmbupāne  $ duryodhanasya ca yathā gadayorubhaṅge  &  
-tejasvināṃ samaramūrdhani pāṇḍavānāṃ  ē̃ jñeyā jayadrathavadhe 'pi tathā pratijñā  // 2.27 //  
-  
-kaḥ ko 'tra bhoḥ  / jaitraṃ me rathamupakalpaya tāvat  / yāvadahamapi tasya pragalbhapāṇḍavasya jayadrathaparirakṣaṇenaiva mithyāpratijñāvailakṣyasaṃpāditamaśastrapūtaṃ maraṇamupadiśāmi  /  
-  
-*praviśya**  
-  
-  
-&kañcukī&:  
-deva  
-VERSE_2.28  
-udghātakvaṇitavilolahemaghaṇṭaḥ  $ prālambadviguṇitacāmaraprahāsaḥ  &  
-sajjo 'yaṃ niyamitavalgitākulāśvaḥ  ē̃ śatrūṇāṃ kṣapitamanoratho rathaste  // 2.28 //  
-  
-  
-  
-&rājā&:  
-devi praviśa tvamabhyantarameva  /*yāvadahamapi tasya pragalbhapāṇḍavasya ityādi paṭhanparikrāmati**  
-  
-  
-*iti niskrāntāḥ sarve**  
-  
-  
-iti dvitīyo 'ṅkaḥ  /  
-ACT_3  
-tṛtīyo 'ṅkaḥ  /  
-  
-*tataḥ praviśati vikṛtaveṣā rākṣasī**  
-  
-  
-&rākṣasī&:  
-*vikṛtaṃ vihasya saparitoṣam**  
-  
-VERSE_3.1  
-hadamāṇuśamaṃśabhālae kumbhaśahaśśavaśāhiṃ śaṃcide  /  
-aṇiśaṃ a pibāmi śoṇiaṃ valiśaśadaṃ śamale huvīadu  // 3.1 //  
-  
-{Pkt_77}*nṛtyantī saparitoṣam**  
-jai śindhulāavahadiahe via diahe diahe śamalakamma paḍibajjai ajjuṇe tado pajjattabhalidakoṭṭhāgāle maṃśaśoṇiehiṃ me gehe huvīadi  /*parikramya diśo 'valokya**  
-aha kahiṃ ṇu khu luhilappie huvīadi  / tā jāva imaśśiṃ śamale piabhattālaṃ luhilappiaṃ aṇṇeśāmi  /*parikramya**  
-hodu śaddābaiśśaṃ dāva  / ale luhilappiā luhilappiā ido ehi ido ehi  /  
-  
-  
-SktCh_76: hatamānuṣamāṃsabhārake kumbhasahasravasābhiḥ saṃcite  / aniśaṃ ca pibāmi śoṇitaṃ varṣaśataṃ samaro bhavatu  // 1  //  
-  
-SktCh_77: yadi sindhurājavadhadivasa iva divase divase samarakarma pratipadyate 'rjunastadā paryāptabhṛtakoṣṭhāgāraṃ māṃsaśoṇitairme gṛhaṃ bhaviṣyati  / atha kva nu khalu rudhirapriyo bhaviṣyati  / tadyāvadetasminsamare priyabhartāraṃ rudhirapriyamanveṣyāmi  / bhavatu śabdāyiṣye tāvat  / are rudhirapriya rudhirapriya ita ehīta ehi  /  
-  
-*tataḥ praviśati tathāvidho rākṣasaḥ**  
-  
-  
-&rākṣasaḥ&:  
-*śramaṃ nāṭayan**  
-  
-VERSE_3.2  
-paccaggahadāṇaṃ maṃśae jai uṇhe luhile a lambhai  /  
-tā eśe maha paliśśame khaṇamettaṃ evva lahu ṇaśśai  // 3.2 //  
-  
-  
-SktCh_78: pratyagrahatānāṃ māṃsaṃ yadyuṣṇaṃ rudhiraṃ ca labhyeta  / tadeṣa mama pariśramaḥ kṣaṇamātrameva laghu naśyet  // 2  //  
-  
-*rākṣasī punarvyāharati**  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_79}*ākarṇya**  
-ale ke eśe maṃ saddābedi  /*vilokya**  
-kahaṃ piā me vaśāgandhā  /*upasṛtya**  
-vaśāgandhe kīśa maṃ śaddābeśi  /  
-  
-VERSE_3.3  
-luhilāśavapāṇamattie laṇahiṇḍaṇakhalantagattie  /  
-śaddāaśi kīśa maṃ pie puliśaśahaśśaṃ hadaṃ śuṇīadi  // 3.3 //  
-  
-  
-SktCh_79: are kaiṣā māṃ śabdāyate  / kathaṃ priyā me vasāgandhā  / vasāgandhe kasmānmāṃ śabdāyase  /  
-  
-SktCh_80: rudhirāsavapānamattike raṇahiṇḍanaskhaladgātrike  / śabdāyase kasmānmāṃ priye puruṣasahasraṃ hataṃ śrūyate  // 3  //  
-  
-  
-&rākṣasī&:  
-{Pkt_81}ale luhilappiā edaṃ kkhu mae tuha kālaṇādo paccaggahadaśśa kaśśa bi lāeśiṇo pahūdavaśāśiṇehacikkaṇaṃ koṇhaṃ ṇavaluhilaṃ aggamaṃśaṃ a āṇīdaṃ  / tā pibāhi ṇaṃ  /  
-  
-  
-SktCh_81: are rudhirapriya idaṃ khalu mayā tava kāraṇātpratyagrahatasya kasyāpi rājarṣeḥ prabhūtavasāsnehacikkaṇaṃ koṣṇaṃ navarudhiramagramāṃsaṃ cānītam  / tatpibaitat  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_82}*saparitoṣam**  
-śāhu vaśāgandhe śāhu  / śohaṇaṃ tue kidaṃ  / baliamhi pibāśide  / tā ubaṇehi  /  
-  
-  
-SktCh_82: sādhu vasāgandhe sādhu  / śobhanaṃ tvayā kṛtam  / balavadasmi pipāsitaḥ  / tadupanaya  /  
-  
-  
-&rākṣasī&:  
-{Pkt_83}ale luhilappiā ediśe hadaṇalagaatulaṃgamaśoṇiavaśāśamuddaduśśaṃcale śamalāṅgaṇe paḍibbhamante tumaṃ pibāśie śi tti accaliaṃ accaliaṃ  /  
-  
-  
-SktCh_83: are rudhirapriya īdṛśe hatanaragajaturaṃgamaśoṇitavasāsamudraduḥsaṃcare samarāṅgaṇe paribhramaṃstvaṃ pipāsito 'sītyāścaryamāścaryam  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_84}ai śutthide ṇaṃ puttaśoaśaṃtattahiaaṃ śāmiṇiṃ hiḍimbādeiṃ pekkhiduṃ gadamhi  /  
-  
-  
-SktCh_84: ayi susthite nanu putraśokasaṃtaptahṛdayāṃ svāminīṃ hiḍimbādevīṃ prekṣituṃ gato 'smi  /  
-  
-  
-&rākṣasī&:  
-{Pkt_85}luhilappiā ajja bi śāmiṇīe hiḍimbādeīe ghaḍukkaaśoe ṇa ubaśammadi  /  
-  
-  
-SktCh_85: radhirapriya adyāpi svāminyā hiḍimbādevyā ghaṭotkacaśoko nopaśāmyati  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_86}vaśāgandhe kudo śe ubaśame  / kevalaṃ ahimaṇṇuvahaśoaśamāṇadukkhāe śubhaddādevīe jaṇṇaśeṇīe a kadhaṃ kadhaṃ vi śamāśāśīadi  /  
-  
-  
-SktCh_86: vasāgandhe kuto 'syā upaśamaḥ  / kevalamabhimanyuvadhaśokasamānaduḥkhayā subhadrādevyā yājñasenyā ca kathaṃ kathamapi samāśvāsyate  /  
-  
-  
-&rākṣasī&:  
-{Pkt_87}luhilappiā geṇha edaṃ hatthiśilakabālaśaṃciaṃ aggamaṃśobadaṃśaṃ  / pibāhi ṇavaśoṇiāsavaṃ  /  
-  
-  
-SktCh_87: rudhirapriya gṛhāṇaitaddhastiśiraḥkapālasaṃcitamagramāṃsopadaṃśam  / piba navaśoṇitāsavam  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_88}*tathā kṛtvā**  
-vaśāgandhe aha kiappahūdaṃ tue śaṃciaṃ luhilaṃ aggamaṃśaṃ a  /  
-  
-  
-SktCh_88: vasāgandhe atha kiyatprabhūtaṃ tvayā saṃcitaṃ rudhiramagramāṃsaṃ ca  /  
-  
-  
-&rākṣasī&:  
-{Pkt_89}ale luhilappiā puvvaśaṃciaṃ jāṇāśi jevva tumaṃ  / ṇavaśaṃciaṃ śiṇu dāva  / bhaadattaśoṇiakumbhe śindhulāavaśākumbhe duve dubadamacchāhibabhūliśśavaśomadattabalhīappamuhāṇaṃ ṇalindāṇaṃ aṇṇāṇaṃ bi pākidapuliśāṇaṃ luhilavaśāmaṃśaśśa ghaḍā abiṇaddhamuhā śahaśśaśaṃkkhā śanti me gehe  /  
-  
-  
-SktCh_89: are rudhirapriya pūrvasaṃcitaṃ jānāsyeva tvam  / navasaṃcitaṃ śṛṇu tāvat  / bhagadattaśoṇitakumbhaḥ sindhurājavasākumbhau dvau drupadamatsyādhipabhūriśravaḥsomadattabālhīkapramukhāṇāṃ narendrāṇāmanyeṣāmapi prākṛtapuruṣāṇāṃ rudhiravasāmāṃsasya ghaṭā apinaddhamukhāḥ sahasrasaṃkhyāḥ santi me gehe  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_90}*saparitoṣamāliṅgya**  
-śāhu śugghaliṇīe śāhu  / imiṇā de śugghaliṇitteṇa ajja uṇa śāmiṇīe hiḍimbādevīe śaṃvihāṇeṇa a paṇaṭṭhaṃ me jammadāliddaṃ  /  
-  
-  
-SktCh_90: sādhu sugṛhiṇi sādhu  / anena te sugṛhiṇītvenādya punaḥ svāminyā hiḍimbādevyāḥ saṃvidhānena ca pranaṣṭaṃ me janmadāridryam  /  
-  
-  
-&rākṣasī&:  
-{Pkt_91}luhilappiā kediśe śāmiṇīe śaṃvihāṇe kide  /  
-  
-  
-SktCh_91: rudhirapriya kīdṛśaṃ svāminyā saṃvidhānaṃ kṛtam  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_92}vaśāgandhe ajja kkhu ahaṃ śāmiṇīe hiḍimbādevīe śavahumāṇaṃ śaddābia āṇatte jaha luhilappiā ajja pahudi tue ajjauttaśśa bhīmaśeṇaśśa piṭṭhadoṇupiṭṭhaṃ śamale āhiṇḍidavvaṃ tti  / tā taśśa aṇumaggagāmiṇo hadamāṇuśaśoṇiaṇaīdaṃśaṇappaṇaṭṭhabubhukkhāpibāśaśśa iha evva me śaggaloo huvīadi  / tumaṃ bi viśśaddhā bhavia luhilavaśāhiṃ kumbhaśahaśśaṃ śaṃcehi  /  
-  
-  
-SktCh_92: vasāgandhe adya khalvahaṃ svāminyā hiḍimbādevyā sabahumānaṃ śabdāyyājñapto yathā rudhirapriya adya prabhṛti tvayāryaputrasya bhīmasenasya pṛṣṭhato 'nupṛṣṭhaṃ samara āhiṇḍitavyamiti  / tattasyānumārgagāmino hatamānuṣaśoṇitanadīdarśanapranaṣṭabubhukṣāpipāsasyehaiva me svargaloko bhaviṣyati  / tvamapi visrabdhā bhūtvā rudhiravasābhiḥ kumbhasahasraṃ saṃcinu  /  
-  
-  
-&rākṣasī&:  
-{Pkt_93}luhilappiā kiṃṇimittaṃ kumālabhīmaśeṇaśśa piṭṭhadoṇupiṭṭhaṃ āhiṇḍīadi  /  
-  
-  
-SktCh_93: rudhirapriya kiṃnimittaṃ kumārabhīmasenasya pṛṣṭhato 'nupṛṣṭhamāhiṇḍyate  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_94}vaśāgandhe teṇa hi śāmiṇā viodaleṇa duśśāśaṇaśśa luhilaṃ pāduṃ paḍiṇṇādaṃ  / taṃ ca amhehiṃ lakkhaśehiṃ aṇuppaviśia pādavvaṃ tti  /  
-  
-  
-SktCh_94: vasāgandhe tena hi svāminā vṛkodareṇa duḥśāsanasya rudhiraṃ pātuṃ pratijñātam  / taccāsmābhī rākṣasairanupraviśya pātavyamiti  /  
-  
-  
-&rākṣasī&:  
-{Pkt_95}*saharṣam**  
-śāhu śāmiṇi śāhu  / śuśaṃvihāṇe me bhattā tue kade  /  
-  
-  
-SktCh_95: sādhu svāmini sādhu  / susaṃvidhāno me bhartā tvayā kṛtaḥ  /  
-  
-*nepathye mahānkalakalaḥ  / ubhāvākarṇayataḥ**  
-  
-  
-&rākṣasī&:  
-{Pkt_96}*ākarṇya sasaṃbhramam**  
-ale luhilappiā kiṃ ṇu kkhu eśe mahante kalaale śuṇīadi  /  
-  
-  
-SktCh_96: are rudhirapriya kiṃ nu khalveṣa mahānkalakalaḥ śrūyate  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_97}*dṛṣṭvā**  
-vaśāgandhe eśe kkhu dhiṭṭhajjuṇṇeṇa doṇe keśeśu ākiṭṭhia aśibatteṇa vābādīadi  /  
-  
-  
-SktCh_97: vasāgandhe eṣa khalu dhṛṣṭadyumnena droṇaḥ keśeṣvākṛṣyāsipatreṇa vyāpādyate  /  
-  
-  
-&rākṣasī&:  
-{Pkt_98}*saharṣam**  
-luhilappiā ehi  / gacchia doṇaśśa luhilaṃ pivamha  /  
-  
-  
-SktCh_98: rudhirapriya ehi  / gatvā droṇasya rudhiraṃ pibāvaḥ  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_99}*sabhayam**  
-vaśāgandhe bamhaṇaśoṇiaṃ kkhu edaṃ galaaṃ dahante dahante paviśadi  / tā kiṃ ediṇā  /  
-  
-  
-SktCh_99: vasāgandhe brāhmaṇaśoṇitaṃ khalvetadgalaṃ dahaddahatpraviśati  / tatkimetena  /  
-  
-*nepathye punaḥ kalakalaḥ**  
-  
-  
-&rākṣasī&:  
-{Pkt_100}luhilappiā puṇo bi eśe mahante kalaale śuṇīadi  /  
-  
-  
-SktCh_100: rudhirapriya punarapyeṣa mahānkalakalaḥ śrūyate  /  
-  
-  
-&rākṣasaḥ&:  
-{Pkt_101}vaśāgandhe eśe kkhu aśśatthāme ākiṭṭhidāśibatte ido evva āacchadi  / kadā bi dubadasudalośeṇa amhe bi vābādaiśśadi  / tā ehi  / atikkamamha  /  
-  
-  
-SktCh_101: vasāgandhe eṣa khalvaśvatthāmākṛṣṭāsipatra ita evāgacchati  / kadāciddrupadasutaroṣeṇāvāmapi vyāpādayiṣyati  / tadehi  / atikramāvaḥ  /  
-  
-*iti niṣkrāntau**  
-  
-praveśakaḥ  /  
-  
-  
-*tataḥ praviśatyutkhātakhaḍgaḥ kalakalamākarṇayannaśvatthāmā**  
-  
-  
-&aśvatthāmā&:  
-VERSE_3.4  
-mahāpralayamārutakṣubhitapuṣkarāvartaka-  $ pracaṇḍaghanagarjitapratiravānukārī muhuḥ  &  
-ravaḥ śravaṇabhairavaḥ sthagitarodasīkandaraḥ  ē̃ kuto 'dya samarodadherayamabhūtapūrvaḥ puraḥ  // 3.4 //  
-  
-*vicintya**  
-dhruvaṃ gāṇḍīvinā sātyakinā vṛkodareṇa vā yauvanadarpādatikrāntamaryādena parikopitastātaḥ samullaṅghya śiṣyapriyatāmātmaprabhāvasadṛśamāceṣṭate  / tathā hi  
-VERSE_3.5  
-yadduryodhanapakṣapātasadṛśaṃ yuktaṃ yadastragrahe  $ rāmāllabdhasamastahetiguruṇo vīryasya yatsāṃpratam  &  
-loke sarvadhanuṣmatāmadhipateryaccānurūpaṃ ruṣaḥ  ē̃ prārabdhaṃ ripughasmareṇa niyataṃ tatkarma tātena me  // 3.5 //  
-  
-*pṛṣṭhato vilokya**  
-tadalamidānīṃ mama rathapratīkṣayānayā  / saśastra evāsmi sajalajaladharaprabhābhāsureṇa supragrahavimalakaladhautatsaruṇāmunā khaḍgena  / yāvatsamarabhuvamavatarāmi  /*parikramya  / vāmākṣispandanaṃ sūcayitvā**  
-āḥ kathaṃ mamāpi nāmāśvatthāmnaḥ samaramahotsavapramodanirbharasya tātavikramadarśanalālasasyānimittāni samaragamanavighnamutpādayanti  / bhavatu gacchāmi  /*sāvaṣṭambhaṃ parikramyāgrato vilokya**  
-kathamavadhīritakṣātradharmāṇāmujjhitasatpuruṣocitalajjāvaguṇṭhanānāṃ vismṛtasvāmisatkāralaghucetasāṃ dviradaturaṃgamacaraṇacāriṇāmagaṇitakulayaśaḥsadṛśaparākramavratānāṃ raṇabhūmeḥ samantādapakrāmatāmayaṃ mahānnādo balānām  /*nirūpya**  
-hā dhikkaṣṭam  / kathamete mahārathāḥ karṇādayo 'pi samarātparāṅmukhā bhavanti  / kathaṃ nu tātādhiṣṭhitānāmapi balānāmiyamavasthā bhavet  / bhavatu saṃstambhayāmi  / bho bhoḥ kauravasenāsamudravelāparipālanamahāmahīdharā narapatayaḥ kṛtaṃ kṛtamamunā samaraparityāgasāhasena  /  
-VERSE_3.6  
-yadi samaramapāsya nāsti mṛtyo-  $ rbhayamiti yuktamito 'nyataḥ prayātum  &  
-atha maraṇamavaśyameva jantoḥ  ē̃ kimiti mudhā malinaṃ yaśaḥ kurudhve  // 3.6 //  
-  
-api ca  
-VERSE_3.7  
-astrajvālāvalīḍhapratibalajaladherantaraurvāyamāṇe  $ senānāthe sthite 'sminmama pitari gurau sarvadhanvīśvarāṇām  &  
-karṇālaṃ saṃbhrameṇa vraja kṛpa samaraṃ muñca hārdikya śaṅkāṃ  ē̃ tāte cāpadvitīye vahati raṇadhurāṃ ko bhayasyāvakāśaḥ  // 3.7 //  
-  
-  
-*nepathye**  
-  
-  
-kuto 'dyāpi te tātaḥ  /  
-  
-  
-&aśvatthāmā&:  
-*śrutvā**  
-kiṃ brūtha  / kuto 'dyāpi te tāta iti  /*saroṣam**  
-āḥ kṣudrāḥ samarabhīravaḥ kathamevaṃ pralapatāṃ vaḥ sahasradhā na dīrṇamanayā jihvayā  /  
-VERSE_3.8  
-dagdhuṃ viśvaṃ dahanakiraṇairnoditā dvādaśārkā  $ vātā vātā diśi diśi na vā saptadhā sapta bhinnāḥ  &  
-channaṃ meghairna gaganatalaṃ puṣkarāvartakādyaiḥ  ē̃ pāpaṃ pāpāḥ kathayata kathaṃ śauryarāśeḥ piturme  // 3.8 //  
-  
-  
-*praviśya saṃbhrāntaḥ saprahāraḥ**  
-  
-  
-&sūtaḥ&:  
-paritrāyatāṃ paritrāyatāṃ kumāraḥ  /*iti pādayoḥ patati**  
-  
-  
-  
-&aśvatthāmā&:  
-*vilokya**  
-aye kathaṃ tātasya sārathiraśvasenaḥ  / ārya nanu trailokyatrāṇakṣamasya sārathirasi  / kiṃ mattaḥ paritrāṇamicchasi  /  
-  
-  
-&sūtaḥ&:  
-*utthāya sakaruṇam**  
-kuto 'dyāpi te tātaḥ  /  
-  
-  
-&aśvatthāmā&:  
-*sāvegam**  
-kiṃ tāta eva nāsti  /  
-  
-  
-&sūtaḥ&:  
-atha kim  /  
-  
-  
-&aśvatthāmā&:  
-hā tāta  /*iti mohamupagataḥ**  
-  
-  
-  
-&sūtaḥ&:  
-kamāra samāśvasihi samāśvasihi  /  
-  
-  
-&aśvatthāmā&:  
-*labdhasaṃjñaḥ sāsram**  
-hā tāta hā sutavatsala hā lokatrayaikadhanurdhara hā jāmadagĀÇènyāstrasarvasvapratigrahapraṇayin kvāsi  / prayaccha me prativacanam  /  
-  
-  
-&sūtaḥ&:  
-kamāra alamatyantaśokāvegena  / vīrapuruṣocitāṃ vipattimupagate pitari tvamapi tadanurūpeṇaiva vīryeṇa śokasāgaramuttīrya sukhī bhava  /  
-  
-  
-&aśvatthāmā&:  
-*aśrūṇi vimucya**  
-ārya kathaya kathaya kathaṃ tādṛgbhujavīryasāgarastāto 'pi nāmāstamupagataḥ  /  
-VERSE_3.9  
-kiṃ bhīmādgurudakṣiṇāṃ gurugadādbhīmapriyaḥ prāptavān  
-  
-  
-  
-&sūtaḥ&:  
-śāntaṃ pāpam  / śāntaṃ pāpam  /  
-  
-  
-&aśvatthāmā&:  
-VERSE_3.9  
-antevāsidayālurujjhitanayenāsādito jiṣṇunā  /  
-  
-  
-  
-&sūtaḥ&:  
-kathamevaṃ bhaviṣyati  /  
-  
-  
-&aśvatthāmā&:  
-VERSE_3.9  
-govindena sudarśanasya niyataṃ dhārāpathaṃ prāpitaḥ  
-  
-  
-  
-&sūtaḥ&:  
-etadapi nāsti  /  
-  
-  
-&aśvatthāmā&:  
-VERSE_3.9  
-śaṅke nāpadamanyataḥ khalu gurorebhyaścaturthādaham  // 3.9 //  
-  
-  
-  
-&sūtaḥ&:  
-kumāra  
-VERSE_3.10  
-ete 'pi tasya kupitasya mahāstrapāṇeḥ  $ kiṃ dhūrjaṭeriva tulāmupayānti saṃkhye  &  
-śokoparuddhahṛdayena yadā tu śastraṃ  ē̃ tyaktaṃ tadāsya vihitaṃ ripuṇātighoram  // 3.10 //  
-  
-  
-  
-&aśvatthāmā&:  
-kiṃ punaḥ kāraṇaṃ śokasyāstraparityāgasya vā  /  
-  
-  
-&sūtaḥ&:  
-nanu kumāra eva kāraṇam  /  
-  
-  
-&aśvatthāmā&:  
-kathamahameva nāma  /  
-  
-  
-&sūtaḥ&:  
-śrūyatām  /*aśrūṇi vimucya**  
-  
-VERSE_3.11  
-aśvatthāmā hata iti pṛthāsūnunā spaṣṭamuktvā  $ svairaṃ śeṣe gaja iti kila vyāhṛtaṃ satyavācā  &  
-tacchrutvāsau dayitatanayaḥ pratyayāttasya rājñaḥ  ē̃ śastrāṇyājau nayanasalilaṃ cāpi tulyaṃ mumoca  // 3.11 //  
-  
-  
-  
-&aśvatthāmā&:  
-hā tāta hā sutavatsala hā vṛthāmadarthaparityaktajīvita hā śauryarāśe hā śiṣyapriya hā yudhiṣṭhirapakṣapātin  /*iti roditi**  
-  
-  
-  
-&sūtaḥ&:  
-kumāra alamatyantaparidevanakārpaṇyena  /  
-  
-  
-&aśvatthāmā&:  
-VERSE_3.12  
-śrutvā vadhaṃ mama mṛṣā sutavatsalena  $ tāta tvayā saha śarairasavo vimuktāḥ  &  
-jīvāmyahaṃ punarayaṃ bhavatā viyuktaḥ  ē̃ krūre 'pi tanmayi mudhā tava pakṣapātaḥ  // 3.12 //  
-  
-*iti mohamupagataḥ**  
-  
-  
-  
-&sūtaḥ&:  
-samāśvasitu samāśvasitu kamāraḥ  /  
-  
-*tataḥ praviśati kṛpaḥ**  
-  
-  
-&kṛpaḥ&:  
-*sodvegaṃ niḥśvasya**  
-  
-VERSE_3.13  
-dhiksānujaṃ kurupatiṃ dhigajātaśatruṃ  $ digbhūpatīnviphalaśastrabhṛto dhigasmān  &  
-keśagrahaḥ khalu tadā drupadātmajāyā  ē̃ droṇasya cādya likhitairiva vīkṣito yaiḥ  // 3.13 //  
-  
-tatkathaṃ nu khalu vatsaṃ drakṣyāmyaśvatthāmānam  / atha vā himavatsāragurucetasi jñātalokasthitau tasminna khalu śokāvegamahamāśaṅke  / kiṃ tu pituḥ paribhavasadṛśamupaśrutya na jāne kiṃ vyavasyatīti  / atha vā  
-VERSE_3.14  
-ekasya tāvatpāko 'yaṃ dāruṇo bhuvi vartate  /  
-keśagrahe dvitīye 'sminnūnaṃ niḥśeṣitāḥ prajāḥ  // 3.14 //  
-  
-*vilokya**  
-tadayaṃ vatsastiṣṭhati  / yāvadupasarpāmi  /*upasṛtya sasaṃbhramam**  
-vatsa samāśvasihi samāśvasihi  /  
-  
-  
-&aśvatthāmā&:  
-*saṃjñāṃ labdhvā sāsram**  
-hā tāta hā sakalabhuvanaikaguro  /*ākāśe**  
-yudhiṣṭhira yudhiṣṭhira  
-VERSE_3.15  
-ā janmano na vitathaṃ bhavatā kiloktaṃ  $ na dvekṣi yajjanamatastvamajātaśatruḥ  &  
-tāte gurau dvijavare mama bhāgyadoṣā-  ē̃ tsarvaṃ tadekapada eva kathaṃ nirastam  // 3.15 //  
-  
-  
-  
-&sūtaḥ&:  
-kumāra eṣa te mātulaḥ śāradvataḥ pārśve tiṣṭhati  /  
-  
-  
-&aśvatthāmā&:  
-*pārśve vilokya sabāṣpam**  
-mātula mātula  
-VERSE_3.16  
-gato yenādya tvaṃ saha raṇabhuvaṃ sainyapatinā  $ ya ekaḥ śūrāṇāṃ gurukaṇḍūnikaṣaṇaḥ  &  
-parīhāsāścitrāḥ satatamabhavanyena bhavataḥ  ē̃ svasuḥ ślāghyo bhartā kva nu khalu sa te mātula gataḥ  // 3.16 //  
-  
-  
-  
-&kṛpaḥ&:  
-parigataparigantavya eva bhavān  / tadalamatyantaśokāvegena  /  
-  
-  
-&aśvatthāmā&:  
-mātula parityaktameva mayā paridevanam  / eṣo 'haṃ sutavatsalaṃ tātamevānugacchāmi  /  
-  
-  
-&kṛpaḥ&:  
-vatsa anupapannaṃ bhavadvidhānāmidam  /  
-  
-  
-&sūtaḥ&:  
-kumāra alamatisāhasena  /  
-  
-  
-&aśvatthāmā&:  
-ārya śāradvata  
-VERSE_3.17  
-madviyogabhayāttātaḥ paralokamito gataḥ  /  
-karomi virahaṃ tasya vatsalasya kathaṃ pituḥ  // 3.17 //  
-  
-  
-  
-&kṛpaḥ&:  
-vatsa yāvadayaṃ saṃsārastāvatprasiddhaiveyaṃ lokayātrā yatputraiḥ pitaro lokadvaye 'pyanuvartanīyā iti  / paśya  /  
-VERSE_3.18  
-nivāpāñjalidānena ketanaiḥ śrāddhakarmabhiḥ  /  
-tasyopakāre śaktastvaṃ kiṃ jīvankimutānyathā  // 3.18 //  
-  
-  
-  
-&sūtaḥ&:  
-āyuṣman yathaiva mātulaste śāradvataḥ kathayati tattathā  /  
-  
-  
-&aśvatthāmā&:  
-ārya satyameveāñl̃m  / kiṃ tvatidurvahatvācchokabhārasya na śaknomi tātavirahitaḥ kṣaṇamapi prāṇāndhārayitum  / tadgacchāmi tamevoddeśaṃ yatra tathāvidhamapi pitaraṃ drakṣyāmi  /*uttiṣṭhankhaḍgamālokya vicintya**  
-kṛtamadyāpi śastragrahaṇaviḍambanayā  / bhagavañśastra  
-VERSE_3.19  
-gṛhītaṃ yenāsīḥ paribhavabhayānnocitamapi  $ prabhāvādyasyābhūnna khalu tava kaścinna viṣayaḥ  &  
-parityaktaṃ tena tvamasi sutaśokānna tu bhayā-  ē̃ dvimokṣye śastra tvāmahamapi yataḥ svasti bhavate  // 3.19 //  
-  
-*ityutsṛjati**  
-  
-  
-*nepathye**  
-  
-  
-bho bho rājānaḥ kathamiha bhavantaḥ sarve gurorbhāradvājasya paribhavamamunā nṛśaṃsena prayuktamupekṣante  /  
-  
-  
-&aśvatthāmā&:  
-*ākarṇya śanaiḥ śastraṃ spṛśan**  
-kiṃ gurorbhāradvājasya paribhavaḥ  /  
-  
-*punarnepathye**  
-  
-  
-VERSE_3.20  
-ācāryasya tribhuvanagurornyastaśastrasya śokā-  $ ddroṇasyājau nayanasalilakṣālitārdrānanasya  &  
-maulau pāṇiṃ palitadhavale nyasya kṛtvā nṛśaṃsaṃ  ē̃ dhṛṣṭadyumnaḥ svaśibiramayaṃ yāti sarve sahadhvam  // 3.20 //  
-  
-  
-  
-&aśvatthāmā&:  
-*sakrodhaṃ sakampaṃ ca kṛpasūtau dṛṣṭvā**  
-kiṃ nāmedam  /  
-VERSE_3.21  
-pratyakṣamāttadhanuṣāṃ manujeśvarāṇāṃ  $ prāyopaveśasadṛśaṃ vratamāsthitasya  &  
-tātasya me palitamaulinirastakāśe  ē̃ vyāpāritaṃ śirasi śastramaśastrapāṇeḥ  // 3.21 //  
-  
-  
-  
-&kṛpaḥ&:  
-vatsa evaṃ kila janaḥ kathayati  /  
-  
-  
-&aśvatthāmā&:  
-kiṃ tātasya durātmanā parimṛṣṭamabhūcchiraḥ  /  
-  
-  
-&sūtaḥ&:  
-*sabhayam**  
-kumāra āsīdayaṃ tasya tejorāśerdevasya navaḥ paribhavāvatāraḥ  /  
-  
-  
-&aśvatthāmā&:  
-hā tāta hā putrapriya mama mandabhāgadheyasya kṛte śastraparityāgāttathāvidhena kṣudreṇātmā paribhāvitaḥ  / atha vā  
-VERSE_3.22  
-parityakte dehe raṇaśirasi śokāndhamanasā  $ śiraḥ śvā kāko vā drupadatanayo vā parimṛśet  &  
-sphuraddivyāstraughadraviṇamadamattasya ca ripo-  ē̃ rmamaivāyaṃ pādaḥ śirasi nihitastasya na karaḥ  // 3.22 //  
-  
-āḥ durātmanpāñcālāpasada  
-VERSE_3.23  
-tātaṃ śastragrahaṇavimukhaṃ niścayenopalabhya  $ tyaktvā śaṅkāṃ khalu vidadhataḥ pāṇimasyottamāṅge  &  
-aśvatthāmā karadhṛtadhanuḥ pāṇḍupāñcālasenā-  ē̃ tūlotkṣepapralayapavanaḥ kiṃ na yātaḥ smṛtiṃ te  // 3.23 //  
-  
-yudhiṣṭhira yudhiṣṭhira ajātaśatro amithyāvādindharmaputra sānujasya te kimanenāpakṛtam  / atha vā kimanenālīkaprakṛtijihmacetasā  / arjuna sātyake bāhuśālinvṛkodara mādhava yuktaṃ nāma bhavatāṃ surāsuramanujalokaikadhanurdharasya dvijanmanaḥ pariṇatavayasaḥ sarvācāryasya viśeṣato mama pituramunā drupadakulakalaṅkena manujapaśunā spṛśyamānamuttamāṅgamupekṣitam  / atha vā sarva evaite pātakinaḥ  / kimetaiḥ  
-VERSE_3.24  
-kṛtamanumataṃ dṛṣṭaṃ vā yairidaṃ gurupātakaṃ  $ manujapaśubhirnirmaryādairbhavadbhirudāyudhaiḥ  &  
-narakaripuṇā sārdhaṃ teṣāṃ sabhīmakirīṭinā-  ē̃ mayamahamasṛṅmedomāṃsaiḥ karomi diśāṃ balim  // 3.24 //  
-  
-  
-  
-&kṛpaḥ&:  
-vatsa kiṃ na saṃbhāvyate bhāradvājatulye bāhuśālini divyāstragrāmakovide bhavati  /  
-  
-  
-&aśvatthāmā&:  
-bho bhoḥ pāṇḍavamatsyasomakamāgadhādyāḥ kṣatriyāpasādāḥ  
-VERSE_3.25  
-piturmūrdhni spṛṣṭe jvaladanalabhāsvatparaśunā  $ kṛtaṃ yadrāmeṇa śrutimupagataṃ tanna bhavatām  &  
-kimadyāśvatthāmā tadarirudhirāsāravighasaṃ  ē̃ na karma krodhāndhaḥ prabhavati vidhātuṃ raṇamukhe  // 3.25 //  
-  
-sūta gaccha tvaṃ sarvopakaraṇaiḥ sāṃgrāmikaiḥ sarvāyudhairupetaṃ mahāhavalakṣaṇaṃ nāmāsmatsyandanamupanaya  /  
-  
-  
-&sūtaḥ&:  
-yadājñāpayati kumāraḥ  /*iti niṣkrāntaḥ**  
-  
-  
-  
-&kṛpaḥ&:  
-vatsa avaśyapratikartavye 'smindāruṇe paribhavāgnau sarveṣāmasmākaṃ ko 'nyastvāmantareṇa śaktaḥ pratikartum  / kiṃ tu  
-  
-  
-&aśvatthāmā&:  
-kimataḥ param  /  
-  
-  
-&kṛpaḥ&:  
-saināpatye 'bhiṣiktaṃ bhavantamicchāmi samarabhuvanamavatārayitum  /  
-  
-  
-&aśvatthāmā&:  
-mātula paratantramidamakiṃcitkaraṃ ca  /  
-  
-  
-&kṛpaḥ&:  
-vatsa na khalu paratantraṃ nākiṃcitkaraṃ ca  / paśya  /  
-VERSE_3.26  
-bhavedabhīṣmamadroṇaṃ dhārtarāṣṭrabalaṃ katham  /  
-yadi tattulyakarmātra bhavāndhuri na yujyate  // 3.26 //  
-  
-kṛtaparikarasya bhavādṛśasya trailokyamapi na kṣamaṃ paripanthībhavituṃ kiṃ punaryudhiṣṭhirabalam  / tadevaṃ manye parikalpitābhiṣekopakaraṇaḥ kauravarājo na cirāttvāmevābhyapekṣamāṇastiṣṭhatīti  /  
-  
-  
-&aśvatthāmā&:  
-yadyevaṃ tvarate me paribhavānaladahyamānamidaṃ cetastatpratīkārajalāvagāhanāya  / tadahaṃ gatvā tātavadhaviṣaṇṇamānasaṃ kurupatiṃ saināpatyasvayaṃgrahaṇapraṇayasamāśvāsanayā mandasaṃtāpaṃ karomi  /  
-  
-  
-&kṛpaḥ&:  
-vatsa evamidam  / atastamevoddeśaṃ gacchāvaḥ  /  
-  
-*iti parikrāmataḥ**  
-  
-*tataḥ praviśataḥ karṇaduryodhanau**  
-  
-  
-&duryodhanaḥ&:  
-aṅgarāja  
-VERSE_3.27  
-tejasvī ripuhatabandhuduḥkhapāraṃ  $ bāhubhyāṃ vrajati dhṛtāyudhaplavābhyām  &  
-ācāryaḥ sutanidhanaṃ niśamya saṃkhye  ē̃ kiṃ śastragrahasamaye viśastra āsīt  // 3.27 //  
-  
-atha vā sūktamidamabhiyuktaiḥ prakṛtirdustyajeti  / yataḥ śokāndhamanasā tena vimucya kṣātradharmakārkaśyaṃ dvijātidharmasulabho mārdavaparigrahaḥ kṛtaḥ  /  
-  
-  
-&karṇaḥ&:  
-rājankauraveśvara na khalvidamevam  /  
-  
-  
-&duryodhanaḥ&:  
-kathaṃ tarhi  /  
-  
-  
-&karṇaḥ&:  
-evaṃ kilāsyābhiprāyo yathāśvatthāmā mayā pṛthivīrājye 'bhiṣektavya iti  / tasyābhāvādvṛddhasya me brāhmaṇasya vṛthā śastragrahaṇamiti tathā kṛtavān  /  
-  
-  
-&duryodhanaḥ&:  
-*saśiraḥkampam**  
-evamidam  /  
-  
-  
-&karṇaḥ&:  
-etadarthaṃ ca kauravapāṇḍavapakṣapātapravṛttamahāsaṃgrāmasya rājakasya parasparakṣayamapekṣamāṇena tena pradhānapuruṣavadhopekṣā kṛtā  /  
-  
-  
-&duryodhanaḥ&:  
-upapannamidam  /  
-  
-  
-&karṇaḥ&:  
-anyacca rājan drupadenāpyasya bālyātprabhṛtyabhiprāyavedinā na svarāṣṭre vāso dattaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-sādhu aṅgarāja sādhu  / nipuṇamabhihitam  /  
-  
-  
-&karṇaḥ&:  
-na cāyaṃ mamaikasyābhiprāyaḥ  / anye 'bhiyuktā api naivedamanyathā manyante  /  
-  
-  
-&duryodhanaḥ&:  
-evametat  / kaḥ saṃdehaḥ  /  
-VERSE_3.28  
-dattvābhayaṃ so 'tiratho badhyamānaṃ kirīṭinā  /  
-sindhurājamupekṣeta naivaṃ cetkathamanyathā  // 3.28 //  
-  
-  
-  
-&kṛpaḥ&:  
-*vilokya**  
-vatsa eṣa duryodhanaḥ sūtaputreṇa sahāsyāṃ nyagrodhacchāyāyāmupaviṣṭastiṣṭhati  / tadupasarpāvaḥ  /  
-  
-*tathā kṛtvā**  
-  
-  
-&ubhau&:  
-vijayatāṃ kauraveśvaraḥ  /  
-  
-  
-&duryodhanaḥ&:  
-*dṛṣṭvā**  
-aye kathaṃ kṛpo 'śvatthāmā ca  /*āsanādavatīrya kṛpaṃ prati**  
-guro abhivādaye  /*aśvatthāmānamuddiśya**  
-ācāryaputra  
-VERSE_3.29  
-ehyasmadarthahatatāta pariṣvajasva  $ klāntairidaṃ mama nirantaramaṅgamaṅgaiḥ  &  
-sparśastavaiṣa bhujayoḥ sadṛśaḥ pituste  ē̃ śoke 'pi yo vikṛtimeti tanūruheṣu  // 3.29 //  
-  
-  
-*āliṅgya pārśva upaveśayati  / aśvatthāmā bāṣpamutsṛjati**  
-  
-  
-&karṇaḥ&:  
-drauṇāyana alamatyarthamātmānaṃ śokānale prakṣipya  /  
-  
-  
-&duryodhanaḥ&:  
-ācāryaputra ko viśeṣa āvayorasminvyasanamahārṇave  / paśya  /  
-VERSE_3.30  
-tātastava praṇayavānsa pituḥ sakhā me  $ śastre yathā tava guruḥ sa tathā mamāpi  &  
-kiṃ tasya dehanidhane kathayāmi duḥkhaṃ  ē̃ jānīhi tadguruśucā manasā tvameva  // 3.30 //  
-  
-  
-  
-&kṛpaḥ&:  
-vatsa yathāha kurupatistathaivaitat  /  
-  
-  
-&aśvatthāmā&:  
-rājannevaṃ pakṣapātini tvayi yuktameva śokabhāraṃ laghūkartum  / kiṃ tu  
-VERSE_3.31  
-mayi jīvati mattātaḥ keśagrahaṇamavāptavān  /  
-kathamanye kariṣyanti putrebhyaḥ putriṇaḥ spṛhām  // 3.31 //  
-  
-  
-  
-&karṇaḥ&:  
-drauṇāyana kimatra kriyate yadā tenaiva sarvaparibhavatrāṇahetunā śastramutsṛjatā tādṛśīmavasthāmātmā nītaḥ  /  
-  
-  
-&aśvatthāmā&:  
-aṅgarāja kimāha bhavānkimatra kriyata iti  / śrūyatāṃ yatkriyate  /  
-VERSE_3.32  
-yo yaḥ śastraṃ bibharti svabhujagurumadaḥ pāṇḍavīnāṃ camūnāṃ  $ yo yaḥ pāñcālagotre śiśuradhikavayā garbhaśayyāṃ gato vā  &  
-yo yastatkarmasākṣī carati mayi raṇe yaśca yaśca pratīpaḥ  ē̃ krodhāndhastasya tasya svayamapi jagatāmantakasyāntako 'ham  // 3.32 //  
-  
-api ca bho jāmadagnyaśiṣya karṇa  
-VERSE_3.33  
-deśaḥ so 'yamarātiśoṇitajalairyasminhradāḥ pūritāḥ  $ kṣatrādeva tathāvidhaḥ paribhavastātasya keśagrahaḥ  &  
-tānyevāhitaśastraghasmaragurūṇyastrāṇi bhāsvanti me  ē̃ yadrāmeṇa kṛtaṃ tadeva kurute drauṇāyanaḥ krodhanaḥ  // 3.33 //  
-  
-  
-  
-&duryodhanaḥ&:  
-ācāryaputra tasya tathāvidhasyānanyasādhāraṇasya te vīrabhāvasya kimanyatsadṛśam  /  
-  
-  
-&kṛpaḥ&:  
-rājansumahānkhalu droṇaputreṇa voḍhumadhyavasitaḥ samarabhāraḥ  / tadahamevaṃ manye  / bhavatā kṛtaparikaro 'yamucchettuṃ lokatrayamapi samarthaḥ kiṃ punaryudhiṣṭhirabalam  / ato 'bhiṣicyatāṃ saināpatye  /  
-  
-  
-&duryodhanaḥ&:  
-suṣṭhu yujyamānamabhihitaṃ yuṣmābhiḥ  / kiṃ tu prākpratipanno 'yamartho 'ṅgarājasya  /  
-  
-  
-&kṛpaḥ&:  
-rājannasadṛśaparibhavaśokasāgare nimajjantamenamaṅgarājasyārthe naivopekṣituṃ yuktam  / asyāpi tadevārikulamanuśāsanīyam  / ataḥ kimasya pīḍā na bhaviṣyati  /  
-  
-  
-&aśvatthāmā&:  
-rājankauraveśvara kimadyāpi yuktāyuktavicāraṇayā  /  
-VERSE_3.34  
-prayatnaparibodhitaḥ stutibhiradya śeṣe niśā-  $ makeśavamapāṇḍavaṃ bhuvanamadya niḥsomakam  &  
-iyaṃ parisamāpyate raṇakathādya doḥśālinā  ē̃ vyapaitu nṛpakānanātigururadya bhāro bhuvaḥ  // 3.34 //  
-  
-  
-  
-&karṇaḥ&:  
-*vihasya**  
-vaktuṃ sukaramidaṃ duṣkaramadhyavasātum  / bahavaḥ kauravabale 'sya karmaṇaḥ śaktāḥ  /  
-  
-  
-&aśvatthāmā&:  
-aṅgarāja evamidam  / bahavaḥ kauravabale 'tra śaktāḥ  / kiṃ tu duḥkhopahataḥ śokāveśavaśādbravīmi na punarvīrajanādhikṣepeṇa  /  
-  
-  
-&karṇaḥ&:  
-mūḍha duḥkhitasyāśrupātaḥ kupitasya cāyudhadvitīyasya saṃgrāmāvataraṇamucitaṃ naivaṃvidhāḥ pralāpāḥ  /  
-  
-  
-&aśvatthāmā&:  
-*sakrodham**  
-are re rādhāgarbhabhārabhūta sūtāpasada mamāpi nāmāśvatthāmno duḥkhitasyāśrubhiḥ pratikriyāmupadiśi na śastreṇa  / paśya  /  
-VERSE_3.35  
-nirvīryaṃ guruśāpabhāṣitavaśātkiṃ me tavevāyudhaṃ  $ saṃpratyeva bhayādvihāya samaraṃ prāpto 'smi kiṃ tvaṃ yathā  &  
-jāto 'haṃ stutivaṃśakīrtanavidāṃ kiṃ sārathīnāṃ kule  ē̃ kṣudrārātikṛtāpriyaṃ pratikaromyasreṇa nāstreṇa yat  // 3.35 //  
-  
-  
-  
-&karṇaḥ&:  
-*sakrodham**  
-are re vācāṭa vṛthāśastragrahaṇadurvidagdha baṭo  
-VERSE_3.36  
-nirvīryaṃ vā savīryaṃ vā mayā notsṛṣṭamāyudham  /  
-yathā pāñcālabhītena pitrā te bāhuśālinā  // 3.36 //  
-  
-api ca  
-VERSE_3.37  
-sūto vā sūtaputro vā yo vā ko vā bhavāmyaham  /  
-daivāyattaṃ kule janma madāyattaṃ tu pauruṣam  // 3.37 //  
-  
-  
-  
-&aśvatthāmā&:  
-*sakrodham**  
-are re rathakārakulakalaṅka rādhāgarbhabhārabhūta are āyudhānabhijña tātamapyadhikṣipasi  / atha vā  
-VERSE_3.38  
-sa bhīruḥ śūro vā prathitabhujasārastribhuvane  $ kṛtaṃ yattenājau pratidinamiyaṃ vetti vasudhā  &  
-parityaktaṃ śastraṃ kathamiti sa satyavratadharaḥ  ē̃ pṛthāsūnuḥ sākṣī tvamasi raṇabhīro kva nu tadā  // 3.38 //  
-  
-  
-  
-&karṇaḥ&:  
-*vihasya**  
-evaṃ bhīruraham  / punarvikramaikarasaṃ tava pitaramanusmṛtya mahānme saṃśayo jātaḥ  / api ca re mūḍha  
-VERSE_3.39  
-yadi śastramujjhitamaśastrapāṇayo  $ na nivārayanti kimarīnudāyudhān  &  
-yadanena maulidalane 'pyudāsitaṃ  ē̃ suciraṃ striyeva nṛpacakrasaṃnidhau  // 3.39 //  
-  
-  
-  
-&aśvatthāmā&:  
-*sakrodhaṃ sakampaṃ ca**  
-durātmanrājavallabha pragalbha sūtāpasada asaṃbaddhapralāpin  
-VERSE_3.40  
-kathamapi na niṣiddho duḥkhinā bhīruṇā vā  $ drupadatanayapāṇistena pitrā mamādya  &  
-tava bhujabaladarpādhmāyamānasya vāmaḥ  ē̃ śirasi caraṇa eṣa nyasyate vārayainam  // 3.40 //  
-  
-*iti tathā kartumuttiṣṭhati**  
-  
-  
-  
-&kṛpaduryodhanau&:  
-guruputra marṣaya  /*iti nivārayataḥ**  
-  
-  
-*aśvatthāmā caraṇaprahāraṃ nāṭayati**  
-  
-  
-&karṇaḥ&:  
-*sakrodhamutthāya khaḍgamākṛṣya**  
-are durātmanvācāla brahmabandho ātmaślāgha  
-VERSE_3.41  
-jātyā kāmamavadhyo 'si caraṇaṃ tvimamuddhṛtam  /  
-anena lūnaṃ khaḍgena patitaṃ vetsyasi kṣitau  // 3.41 //  
-  
-  
-  
-&aśvatthāmā&:  
-are mūḍha kiṃ nāma jātyā kāmamavadhyo 'ham  / iyaṃ sā jātistyaktā  /*iti yajñopavītaṃ chinatti  / punaśca sakrodham**  
-  
-VERSE_3.42  
-adya mithyāpratijño 'sau kirīṭī kriyate mayā  /  
-śastraṃ gṛhāṇa vā tyaktvā maulau vā racayāñjalim  // 3.42 //  
-  
-  
-*ubhāvapi khaḍgamākṛṣyānyo 'nyaṃ prahartumudyatau  / kṛpaduryodhanau vārayataḥ**  
-  
-  
-&duryodhanaḥ&:  
-sakhe ācāryaputra śastragrahaṇenālam  /  
-  
-  
-&kṛpaḥ&:  
-vatsa sūtaputra śastragrahaṇenālam  /  
-  
-  
-&aśvatthāmā&:  
-mātula mātula kiṃ nivārayasi  / ayamapi tātanindāpragalbhaḥ sūtāpasado dhṛṣṭadyumnapakṣapātyeva  /  
-  
-  
-&karṇaḥ&:  
-rājanna khalvahaṃ nivārayitavyaḥ  /  
-VERSE_3.43  
-upekṣitānāṃ mandānāṃ dhīrasattvairavajñayā  /  
-atrāsitānāṃ krodhāndhairbhavatyeṣā vikatthanā  // 3.43 //  
-  
-  
-  
-&aśvatthāmā&:  
-rājanmuñca muñcainam  / āsādayatu madbhujāntaraniṣpeṣasulabhamasūnāmavasādanam  / anyacca rājan  / snehena kāryeṇa vā yattvamenaṃ tātādhikṣepakāriṇaṃ durātmānaṃ mattaḥ parirakṣitumicchasi tadubhayamapi vṛthaiva  / paśya  /  
-VERSE_3.44  
-pāpapriyastava kathaṃ guṇinaḥ sahāyaḥ  $ sūtānvayaḥ śaśadharānvayasaṃbhavasya  &  
-hantā kirīṭinamahaṃ nṛpa muñca kuryāṃ  ē̃ krodhādakarṇamapṛthātmajamadya lokam  // 3.44 //  
-  
-*iti prahartumicchati**  
-  
-  
-  
-&karṇaḥ&:  
-*khaḍgamudyamya**  
-are vācāṭa brāhmaṇādhama ayaṃ na bhavasi  / rājanmuñca muñca  / na khalvahaṃ vārayitavyaḥ  /*hantumicchati**  
-  
-  
-*duryodhanakṛpau nivārayataḥ**  
-  
-  
-&duryodhanaḥ&:  
-karṇa guruputra ko 'yamadya yuvayorvyāmohaḥ  /  
-  
-  
-&kṛpaḥ&:  
-vatsa anyadeva prastutamanyatrāvega iti ko 'yaṃ vyāmohaḥ  / svabalavyasanaṃ cedamasminkāle rājakulasyāsya yuṣmatta eva bhavatīti vāmaḥ panthāḥ  /  
-  
-  
-&aśvatthāmā&:  
-mātula na labhyate 'sya kaṭupralāpino rathakārakulakalaṅkasya darpaḥ śātayitum  /  
-  
-  
-&kṛpaḥ&:  
-vatsa akālaḥ khalu svabalapradhānavirodhasya  /  
-  
-  
-&aśvatthāmā&:  
-mātula yadyevam  
-VERSE_3.45  
-ayaṃ pāpo yāvanna nidhanamupeyādariśaraiḥ  $ parityaktaṃ tāvatpriyamapi mayāstraṃ raṇamukhe  &  
-balānāṃ nāthe 'sminparikupitabhīmārjunabhaye  ē̃ samutpanne rājā priyasakhabalaṃ vettu samare  // 3.45 //  
-  
-*iti khaḍgamutsṛjati**  
-  
-  
-  
-&karṇaḥ&:  
-*vihasya**  
-kulakramāgatamevaitadbhavādṛśāṃ yadastraparityāgo nāma  /  
-  
-  
-&aśvatthāmā&:  
-nanu re aparityaktamapi bhavādṛśairāyudhaṃ ciraparityaktameva niṣphalatvāt  /  
-  
-  
-&karṇaḥ&:  
-are muḍha  
-VERSE_3.46  
-dhṛtāyudho yāvadahaṃ tāvadanyaiḥ kimāyudhaiḥ  /  
-yadvā na siddhamastreṇa mama tatkena setsyati  // 3.46 //  
-  
-  
-*nepathye**  
-  
-  
-āḥ durātmandraupadīkeśāmbarākarṣaṇamahāpātakindhārtarāṣṭrāpasada cirasya khalu kālasya matsaṃmukhamāgato 'si  / kṣudrapaśo kvedānīṃ gamyate  / api ca bho bho rādheyaduryodhanasaubalaprabhṛtayaḥ pāṇḍavavidveṣaṇaścāpapāṇayo mānadhanāḥ śṛṇvantu bhavantaḥ  /  
-VERSE_3.47  
-spṛṣṭā yena śiroruhe nṛpaśunā pāñcālarājātmajā  $ yenāsyāḥ paridhānamapyapahṛtaṃ rājñāṃ gurūṇāṃ puraḥ  &  
-yasyoraḥsthalaśoṇitāsavamahaṃ pātuṃ pratijñātavā-  ē̃ nso 'yaṃ madbhujapañjare nipatitaḥ saṃrakṣyatāṃ kauravaḥ  // 3.47 //  
-  
-  
-*sarva ākarṇayanti**  
-  
-  
-&aśvatthāmā&:  
-*sotprāsam**  
-aṅgarāja senāpate jāmadagnyaśiṣya droṇopahāsinbhujabalaparirakṣitasakalaloka  /*dhṛtāyudha iti paṭhitvā**  
-idaṃ tadāsannatarameva saṃvṛttam  / rakṣainaṃ sāṃprataṃ bhīmādduḥśāsanam  /  
-  
-  
-&karṇaḥ&:  
-āḥ kā śaktirvṛkodarasya mayi jīvati duḥśāsanasya chāyāmapyākramitum  / yuvarāja na bhetavyaṃ na bhetavyam  / ayamahamāgato 'smi  /*iti niṣkrāntaḥ**  
-  
-  
-  
-&aśvatthāmā&:  
-rājankauravanātha abhīṣmadroṇaṃ saṃprati kauravabalamāloḍayantau bhīmārjunau rādheyenaivaṃvidhenānyena vā na śakyete nivārayitum  / ataḥ svayameva bhrātuḥ pratīkāraparo bhava  /  
-  
-  
-&duryodhanaḥ&:  
-āḥ śaktirasti durātmanaḥ pavanatanayasyānyasya vā mayi jīvati śastrapāṇau vatsasya chāyāmapyākramitum  / vatsa na bhetavyaṃ na bhetavyam  / kaḥ ko 'tra bhoḥ  / rathamupanaya  /*iti niṣkrāntaḥ**  
-  
-  
-*nepathye kalakalaḥ**  
-  
-  
-&aśvatthāmā&:  
-*agrato vilokya**  
-mātula hā dhikkaṣṭam  / eṣa khalu bhrātuḥ pratijñābhaṅgabhīruḥ kirīṭī samaṃ duryodhanarādheyau śaravarṣairdurvārairabhidravati  / sarvathā pītaṃ duḥśāsanaśoṇitaṃ bhīmena  / na khalu viṣahe duryodhanānujasyaināṃ vipattimavalokayitum  / anṛtamanumataṃ nāma  / mātula śastraṃ śastram  /  
-VERSE_3.48  
-satyādapyanṛtaṃ śreyo dhiksvargaṃ narako 'stu me  /  
-bhīmādduḥśāsanaṃ trātuṃ tyaktamatyaktamāyudham  // 3.48 //  
-  
-*iti khaḍgaṃ grahītumicchati**  
-  
-  
-*nepathye**  
-  
-  
-mahātmanbhāradvājasūno na khalu satyavacanamanullaṅghitapūrvamullaṅghayitumarhasi  /  
-  
-  
-&kṛpaḥ&:  
-vatsa aśarīriṇī bhāratī bhavantamanṛtādabhirakṣati  /  
-  
-  
-&aśvatthāmā&:  
-kathamiyamamānuṣī vāgnānumanute saṃgrāmāvataraṇaṃ mama  / bhoḥ kaṣṭam  / āḥ pakṣapātino devā api pāṇḍavānām  / sarvathā pītaṃ duḥśāsanaśoṇitaṃ bhīmena  / bhoḥ kaṣṭaṃ kaṣṭam  /  
-VERSE_3.49  
-duḥśāsanasya rudhire pīyamāne 'pyudāsitam  /  
-duryodhanasya kartāsmi kimanyatpriyamāhave  // 3.49 //  
-  
-mātula rādheyakrodhavaśādanāryamasmābhirācaritam  / atastvamapi tāvadasya rājñaḥ pārśvavartī bhava  /  
-  
-  
-&kṛpaḥ&:  
-gacchāmyahamatra pratividhātum  / bhavānapi śibirasaṃniveśameva pratiṣṭhatām  /  
-  
-*parikramya niṣkrāntau**  
-  
-  
-iti tṛtīyo 'ṅkaḥ  /  
-  
-ACT_4  
-caturtho 'ṅkaḥ  /  
-*tataḥ praviśati prahāramūrcchitaṃ rathasthaṃ duryodhanamapaharansūtaḥ  / sūtaḥ sasaṃbhramaṃ parikrāmati**  
-  
-*nepathye**  
-  
-  
-bho bho bāhubalāvalepapravartitamahāsamaradohadāḥ kauravapakṣapātapaṇīkṛtaprāṇadraviṇasaṃcayā narapatayaḥ saṃstabhyantāṃ saṃstabhyantāṃ nihataduḥśāsanapītāvaśeṣaśoṇitasnapitabībhatsaveṣavṛkodaradarśanabhayapariskhalatpraharaṇāni raṇātdravanti balāni  /  
-  
-  
-&sūtaḥ&:  
-*vilokya**  
-kathameṣa dhavalacapalacāmaracumbitakanakakamaṇḍalunā śikharāvabaddhavaijayantīsūcitena hatagajavājinarakalevarasahasrasaṃmardaviṣamodghātakṛtakalakalakiṅkiṇījālamālinā rathena śaravarṣastambhitaparabalaparākramaprasaraḥ pradrutamātmabalamāśvāsayankṛpaḥ kirīṭinābhiyuktamaṅgarājamanusarati  / hanta jātamasmadbalānāmavalambanam  /  
-  
-*nepathye kalakalānantaram**  
-  
-  
-bho bhoḥ asmaddarśanabhayaskhalitakārmukakṛpāṇatomaraśaktayaḥ kauravacamūbhaṭāḥ pāṇḍavapakṣapātinaśca yodhāḥ na bhetavyaṃ na bhetavyam  / ayamahaṃ nihataduḥśāsanapīvaroraḥsthalakṣatajāsavapānamadoddhato  rabhasagāmī stokāvaśiṣṭapratijñāmahotsavaḥ kauravarājasya dyūtanirjito dāsaḥ pārthamadhyamo bhīmasenaḥ sarvānbhavataḥ sākṣīkaromi  / śrūyatām  /  
-VERSE_4.1  
-rājño mānadhanasya kārmukabhṛto duryodhanasyāgrataḥ  $ pratyakṣaṃ kurubāndhavasya miṣataḥ karṇasya śalyasya ca  &  
-pītaṃ tasya mayādya pāṇḍavavadhūkeśāmbarākarṣiṇaḥ  ē̃ koṣṇaṃ jīvata eva tīkṣṇakarajakṣuṇṇādasṛgvakṣasaḥ  // 4.1 //  
-  
-  
-  
-&sūtaḥ&:  
-*śrutvā sabhayam**  
-aye āsanna eva durātmā kauravarājaputramahāvanotpātamāruto mārutiḥ  / anupalabdhasaṃjñaśca tāvadatra mahārājaḥ  / bhavatu  / sudūramapaharāmi syandanam  / kadācidduḥśāsana ivāsminnapyayamanāryo 'nāryamācariṣyati  /*tvaritataraṃ parikramyāvalokya ca**  
-aye ayamasau sarasīsarojavilolanasurabhiśītalamātariśvasaṃvāhitasāndrakisalayo  nyagrodhapādapaḥ  / ucitā viśrāmabhūriyaṃ samaravyāpārakhinnasya vīrajanasya  / atra sthitaścāyācitatālavṛntena haricandanacchaṭāśītalenāprayatnasurabhiṇā daśāpariṇāmayogyena sarasīsamīraṇenāmunā gataklamo bhaviṣyati mahārājaḥ  / lūnaketuścāyaṃ ratho 'nivārita eva pravekṣyati cchāyām  /*iti praveśaṃ rūpayitvā**  
-kaḥ ko 'tra bhoḥ  /*samantādavalokya**  
-kathaṃ na kaścidatra parijanaḥ  / nūnaṃ tathāvidhasya vṛkodarasya darśanādevaṃvidhasya ca svāminastrāsena śibirasaṃniveśameva praviṣṭaḥ  / kaṣṭaṃ bhoḥ kaṣṭam  /  
-VERSE_4.2  
-dattvā droṇena pārthādabhayamapi na saṃrakṣitaḥ sindhurājaḥ  $ krūraṃ duḥśāsane 'sminhariṇa iva kṛtaṃ bhīmasenena karma  &  
-duḥsādhyāmapyarīṇāṃ laghumiva samare pūrayitvā pratijñāṃ  ē̃ nāhaṃ manye sakāmaṃ kurukulavimukhaṃ daivametāvatāpi  // 4.2 //  
-  
-*rājānamavalokya**  
-kathamadyāpi na cetanāṃ labhate mahārājaḥ  / bhoḥ kaṣṭam  /*niḥśvasya**  
-  
-VERSE_4.3  
-madakalitakareṇubhajyamāne  $ vipina iva prakaṭaikaśālaśeṣe  &  
-hatasakalakumārake kule 'smiṃ-  ē̃ stvamapi vidheravalokitaḥ kaṭākṣaiḥ  // 4.3 //  
-  
-nanu bho hatavidhe bharatakulavimukha  
-VERSE_4.4  
-akṣatasya gadāpāṇeranārūḍhasya saṃśayam  /  
-eṣāpi bhīmasenasya pratijñā pūryate tvayā  // 4.4 //  
-  
-  
-  
-&duryodhanaḥ&:  
-*śanairupalabdhasaṃjñaḥ**  
-āḥ śaktirasti durātmano vṛkodarahatakasya mayi jīvati duryodhane pratijñāṃ pūrayitum  / vatsa duḥśāsana na bhetavyaṃ na bhetavyam  / ayamahamāgato 'smi  / nanu sūta prāpaya rathaṃ tamevoddeśaṃ yatra vatso me duḥśāsanaḥ  /  
-  
-  
-&sūtaḥ&:  
-āyuṣmannakṣamāḥ saṃprati vāhāste rathamudvoḍhum  /*apavārya**  
-manorathaṃ ca  /  
-  
-  
-&duryodhanaḥ&:  
-*rathādavatīrya sagarvaṃ sākūtaṃ ca**  
-kṛtaṃ syandanagamanakālātipātena  /  
-  
-  
-&sūtaḥ&:  
-*savailakṣyaṃ sakaruṇaṃ ca**  
-marṣayatu marṣayatvāyuṣmān  /  
-  
-  
-&duryodhanaḥ&:  
-dhiksūta kiṃ rathena  / kevalamarātivimardasaṃghaṭṭasaṃcārī duryodhanaḥ khalvaham  / tadgadāmātrasahāyaḥ samarabhuvamavatarāmi  /  
-  
-  
-&sūtaḥ&:  
-āyuṣmannevametat  / kaḥ saṃdehaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-yadyevaṃ kimevaṃ bhāṣase  / paśya  /  
-VERSE_4.5  
-bālasya me prakṛtidurlalitasya pāpaḥ  $ pāpaṃ vyavasyati samakṣamudāyudho 'sau  &  
-asminnivārayasi kiṃ vyavasāyinaṃ māṃ  ē̃ krodho na nāma karuṇā na ca te 'sti lajjā  // 4.5 //  
-  
-  
-  
-&sūtaḥ&:  
-*sakaruṇaṃ pādayornipatya**  
-etadvijñāpayāmi  / āyuṣmansaṃpūrṇapratijñena nivṛttena bhavitavyamidānīṃ durātmanā vṛkodarahatakena  / ata evaṃ bravīmi  /  
-  
-  
-&duryodhanaḥ&:  
-*sahasā bhūmau patan**  
-hā vatsa duḥśāsana hā madājñāvirodhitapāṇḍava hā vikramaikarasa hā madaṅkadurlalita hā arātikulagajaghaṭāmṛgendra hā yuvarāja kvāsi  / prayaccha me prativacanam  /*iti niḥśvasya mohamupagataḥ**  
-  
-  
-  
-&sūtaḥ&:  
-rājansamāśvasihi samāśvasihi  /  
-  
-  
-&duryodhanaḥ&:  
-*saṃjñāṃ labdhvā  / niḥśvasya**  
-  
-VERSE_4.6  
-mukto yatheṣṭamupabhogasukheṣu naiva  $ tvaṃ lālito 'pi hi mayā na vṛthāgrajena  &  
-asyāstu vatsa tava heturahaṃ vipatte-  ē̃ ryatkārito 'syavinayaṃ  na ca rakṣito 'si  // 4.6 //  
-  
-*iti patati**  
-  
-  
-  
-&sūtaḥ&:  
-āyuṣmansamāśvasihi samāśvasihi  /  
-  
-  
-&duryodhanaḥ&:  
-dhiksūta kimanuṣṭhitaṃ bhavatā  /  
-VERSE_4.7  
-rakṣaṇīyena satataṃ bālenājñānuvartinā  /  
-duḥśāsanena bhrātrāhamupahāreṇa rakṣitaḥ  // 4.7 //  
-  
-  
-  
-&sūtaḥ&:  
-mahārāja marmabhedibhiriṣutomaraśaktiprāsavarṣairmahārathānāmapahṛtacetanatvānniśceṣṭaḥ kṛto mahārāja ityapahṛto mayā rathaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-sūta virūpaṃ kṛtavānasi  /  
-VERSE_4.8  
-tasyaiva pāṇḍavapaśoranujadviṣo me  $ kṣodairgadāśanikṛtairna vibodhito 'smi  &  
-tāmeva nādhiśayito rudhirārdraśayyāṃ  ē̃ dauḥśāsanīṃ yadahamāśu vṛkodaro vā  // 4.8 //  
-  
-*niśvasya nabho vilokya**  
-nanu bho hatavidhe kṛpāvirahita bharatakulavimukha  
-VERSE_4.9  
-api nāma bhavenmṛtyurna ca hantā vṛkodaraḥ  /  
-  
-  
-  
-&sūtaḥ&:  
-śāntaṃ pāpaṃ śāntaṃ pāpam  / mahārāja kimidam  /  
-  
-  
-&duryodhanaḥ&:  
-VERSE_4.9  
-ghātitāśeṣabandhorme kiṃ rājyena jayena vā  // 4.9 //  
-  
-  
-*tataḥ praviśati śaraprahāravraṇabaddhapaṭṭikālaṃkṛtakāyaḥ sundarakaḥ**  
-  
-  
-&sundarakaḥ&:  
-{Pkt_102}ajjā abi ṇāma imassiṃ uddese sārahidudīo diṭṭho tumhehiṃ mahārāadujjohaṇo ṇa vetti *nirūpya**  
-kahaṃ ṇa ko bi mantedi  / hodu  / edāṇaṃ baddhapariarāṇaṃ purisāṇaṃ samūho dīsai  / ettha gadua pucchissaṃ  /*parikramya vilokya ca**  
-kahaṃ ede kkhu sassāmiṇo gāḍhappahārahadassa ghaṇasaṃṇāhajāladubbhejjamuhehiṃ kaṅkavadaṇehiṃ hiaādo sallāiṃ uddharanti  / tā ṇa kkhu ede jāṇanti  / hodu  / aṇṇado viciṇaissaṃ  /*agrato 'valokya kiṃcitparikramya**  
-ime kkhu abare pahūdadarā saṃgadā vīramaṇussā dīsanti  / tā ettha gadua pucchissaṃ  /*upagamya**  
-haṃho jāṇaha tumhe kassiṃ uddese kuruṇāho vaṭṭai tti  /*dṛṣṭvā**  
-kahaṃ ede bi maṃ pekkhia ahiadaraṃ roanti  / tā ṇa hu ede bi jāṇanti  / hā adikaruṇaṃ kkhu ettha vaṭṭai  / esā vīramādā samalaviṇihadaṃ puttaaṃ suṇia rattaṃsuaṇivasaṇāe samaggabhūsaṇāe vahūe saha aṇumaradi  /*saślāgham**  
-sāhu vīramāde sāhu  / aṇṇassiṃ bi jammantare aṇihadaputtaā huvissasi  / hodu  / aṇṇado viciṇaissaṃ  /*anyato vilokya**  
-aaṃ abaro bahuppahāraṇihadakāo akidavvaṇappaḍīāro evva johasamūho imaṃ suṇṇāsaṇaṃ tulaṃgamaṃ ubālahia roidi  / ṇūṇaṃ edāṇaṃ ettha evva sāmī vābādido  / tā ṇa hu ede bi jāṇanti  / hodu  / aṇṇado gadua pucchissaṃ  /*sarvato vilokya**  
-kahaṃ savvo evva avatthāṇurūbaṃ visaṇaṃ aṇuhavanto bhāadheavimuhadāe pajjāulo jaṇo  / tā kaṃ ettha pucchissaṃ  / kaṃ vā ubālahissaṃ  / hodu  / saaṃ evva ettha viciṇaissaṃ  /*parikramya**  
-hodu  / devvaṃ dāṇīṃ ubālahissaṃ  / haṃho devva eādasāṇaṃ akkhohiṇīṇaṃ ṇāho jeṭṭho bhādusadassa bhattā gaṅgeaddoṇaṅgarāasallakibakidavammassatthāmappamuhassa rāacakkassa saalapahuvīmaṇḍalekkaṇāho mahārāadujjohaṇo bi aṇṇesīadi  / aṇṇesīanto bi ṇa jāṇīadi kassiṃ uddese vaṭṭai tti  /*vicintya niḥśvasya ca**  
-aha vā kiṃ ettha devvaṃ ubālahāmi  / tassa kkhu edaṃ ṇibbhacchiaviuravaaṇavīassa avahīridapidāmahahidobadesaṅkurassa sauṇippocchāhaṇādivirūḍhamūlassa jadugehajūdavisasāhiṇo saṃbhūdaciraālasaṃbaddhaverālavālassa pañcālīkesaggahaṇakusumassa phalaṃ pariṇamadi  /*anyato vilokya**  
-jahā ettha eso viviharaaṇappahāsaṃvalidasūrakiraṇappasūdasakkacābasahassasaṃpūridadasadisāmuho  lūṇakeduvaṃso raho dīsai tā ahaṃ takkemi avassaṃ ediṇā mahārāadujjohaṇassa vissāmuddeseṇa hodavvaṃ  / jāva ṇirūbemi  /*upagamya dṛṣṭvā niśvasya ca**  
-kadhaṃ eādasāṇaṃ akkhohiṇīṇaṃ ṇāako bhavia mahārāo dujjohaṇo pāidapuriso via asalāhaṇīe bhūmie upaviṭṭho ciṭṭhadi  / atha vā tassa kkhu edaṃ pañcālīkesaggahakusumassa phalaṃ pariṇamadi  /  
-  
-  
-SktCh_102: āryāḥ api nāmāsmindeśe sārathidvitīyo dṛṣṭo yuṣmābhirmahārājaduryodhano na veti  / kathaṃ na ko 'pi mantrayate  / bhavatu  / eteṣāṃ baddhaparikarāṇāṃ puruṣāṇāṃ samūho dṛśyate  / atra gatvā prakṣyāmi  / kathamete khalu svasvāmino gāḍhaprahārahatasya ghanasaṃnāhajāladurbhedyamukhaiḥ kaṅkavadanairhṛdayācchalyānyuddharanti  / tanna khalvete jānanti  / bhavatu  / anyato viceṣyāmi  / ime khalvapare prabhūtatarāḥ saṃgatā vīramanuṣyā dṛśyante  / tadatra gatvā prakṣyāmi  / haṃho jānītha yūyaṃ kasminnuddeśe kurunātho vartata iti  / kathamete 'pi māṃ prekṣyādhikataraṃ rudanti  / tanna khalvete 'pi jānanti  / hā atikaruṇaṃ khalvatra vartate  / eṣā vīramātā samaravinihataṃ putrakaṃ śrutvā raktāṃśukanivasanayā samagrabhuṣaṇayā vadhvā sahānumriyate  / sādhu vīramātaḥ sādhu  / anyasminnapi janmāntare 'nihataputrakā bhaviṣyasi  / bhavatu  / anyato viceṣyāmi  / ayamaparo bahuprahāranihatakāyo 'kṛtavraṇabandha eva yodhasamūha imaṃ śūnyāsanaṃ turaṃgamamupālabhya roditi  / nūnameteṣāmatraiva svāmī vyāpāditaḥ  / tanna khalvete 'pi jānanti  / bhavatu  / anyato gatvā prakṣyāmi  / kathaṃ sarva evāvasthānurūpaṃ vyasanamanubhavanbhāgadheyavimukhatayā paryākulo janaḥ  / tatkamatra prakṣyāmi  / kaṃ vopālapsye  / bhavatu  / svayamevātra viceṣyāmi  / bhavatu  / daivamidānīmupālapsye  / haṃho daiva ekādaśānāmakṣauhiṇīnāṃ nātho jyeṣṭho bhrātṛśatasya bhartā gāṅgeyadroṇāṅgarājaśalyakṛpakṛtavarmāśvatthāmapramukhasya rājacakrasya sakalapṛthvīmaṇḍalaikanātho mahārājaduryodhano 'pyanviṣyate  / anviṣyamāṇo 'pi na jñāyate kasminnuddeśe vartata iti  / atha vā kimatra daivamupālabhe  / tasya khalvidaṃ  
-nirbhartsitaviduravacanabījasyāvadhīritapitāmahahitopadeśāṅkurasya śakuniprotsāhanādivirūḍhamūlasya jatugṛhadyūtaviṣaśākhinaḥ saṃbhūtacirakālasaṃbaddhavairālavālasya pāñcālīkeśagrahaṇakusumasya phalaṃ pariṇamati  / yathātraiva vividharatnaprabhāsaṃvalitasūryakiraṇaprasūtaśakracāpasahasrasaṃpūritadaśadiśāmukho  lūnaketavaṃśo ratho dṛśyate tathāhaṃ tarkayāmyavaśyametena mahārājaduryodhanasya viśrāmoddeśena bhavitavyamiti  / yāvannirūpayāmi  / kathamekādaśānāmakṣauhiṇīnāṃ nāyako bhūtvā mahārājo duryodhanaḥ prākṛtapuruṣa ivāślāghanīyāyāṃ bhūmāvupavaṣṭastiṣṭhati  / atha vā tasya khalvidaṃ pāñcālīkeśagrahakusumasya phalaṃ pariṇamati  /  
-  
-*upasṛtya sūtaṃ saṃjñayā pṛcchati**  
-  
-  
-&sūtaḥ&:  
-*dṛṣṭvā**  
-aye kathaṃ saṃgrāmātsundarakaḥ prāptaḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_103}*upagamya**  
-jedu jedu mahārāo  /  
-  
-  
-SktCh_103: jayatu jayatu mahārājaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-*vilokya**  
-aye sundarakaḥ  / sundaraka kaccitkuśalamaṅgarājasya  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_104}deva kusalaṃ sarīrametteṇa  /  
-  
-  
-SktCh_104: deva kuśalaṃ śarīramātreṇa  /  
-  
-  
-&duryodhanaḥ&:  
-*sasaṃbhramam**  
-sundaraka kiṃ kirīṭināsya nihatā dhaureyā hataḥ sārathirbhagno vā rathaḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_105}deva ṇa bhaggo raho  / se maṇoraho bi  /  
-  
-  
-SktCh_105: deva na bhagno rathaḥ  / asya manoratho 'pi  /  
-  
-  
-&duryodhanaḥ&:  
-*saroṣam**  
-kimavispaṣṭakathitairākulamapi paryākulayasi me hṛdayam  / tadaśeṣato vispaṣṭaṃ kathyatām  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_106}jaṃ devo āṇabedi  / ae devassa muuḍamaṇippahāveṇa abaṇīdā me raṇappahāraveaṇā  /*iti sāṭopaṃ parikramya**  
-suṇādu devo  / atthi dāṇiṃ kumāladussāsaṇavaha  /*ityardhokte mukhamācchādya śaṅkāṃ nāṭayati**  
-  
-  
-  
-SktCh_106: yaddeva ājñāpayati  / aye devasya mukuṭamaṇiprabhāveṇāpanītā me raṇaprahāravedanā  / śṛṇotu devaḥ  / astīdānīṃ kumāraduḥśāsanavadha  /  
-  
-  
-&sūtaḥ&:  
-sundaraka kathaya  / kathitameva daivena  /  
-  
-  
-&duryodhanaḥ&:  
-kathyatām  / śrutamasmābhiḥ  /  
-  
-&sundarakaḥ&:  
-{Pkt_107}saṇādu devo  / ajja dāva kumāladussāsaṇavahāmarisideṇa sāmiṇā aṅgarāeṇa kuḍilabhiuḍībhaṅgabhīsaṇaṇiḍalabaṭṭeṇa aviṇṇādasaṃdhāṇamokkhasilīmuhasaṃghādavarisiṇā abhijutto so durāāro majjhamapaṇḍavo bhīmaseṇahadao  /  
-  
-  
-SktCh_107: śṛṇotu devaḥ  / adya tāvatkumāraduḥśāsanavadhāmarṣitena svāmināṅgarājena kuṭilabhrukuṭībhaṅgabhīṣaṇaniṭalapaṭṭenāvijñātasaṃdhānamokṣaśilīmukhasaṃghātavarṣiṇābhiyuktaḥ sa durācāro madhyamapāṇḍavo bhīmasenahatakaḥ  /  
-  
-  
-&ubhau&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_108}tado deva uhaabalamilantadippantakarituraapadādisamubbhūdadhūliṇiareṇa pallatthagaaghaḍāsaṃghādeṇa a vittharanteṇa andhaāreṇa andhīkidaṃ uhaabalaṃ  / ṇa hu gagaṇatalaṃ lakkhīadi  /  
-  
-  
-SktCh_108: tato deva ubhayabalamiladdīpyamānakarituragapadātisamudbhūtadhūlinikareṇa paryastagajaghaṭāsaṃghātena ca vistīrṇamānenāndhakāreṇāndhīkṛtamubhayabalam  / na khalu gaganatalaṃ lakṣyate  /  
-  
-  
-&ubhau&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_109}tado deva dūrākaṭṭhiadhaṇugguṇācchoḍaṇaṭaṃkāreṇa gambhīrabhīsaṇeṇa jāṇīadi gajjidaṃ palaajalahareṇa tti  /  
-  
-  
-SktCh_109: tato deva dūrākṛṣṭadhanurguṇācchoṭanaṭaṃkāreṇa gambhīrabhīṣaṇena jñāyate garjitaṃ pralayajaladhareṇeti  /  
-  
-  
-&duryodhanaḥ&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_110}tado deva doṇṇaṃ bi tāṇaṃ aṇṇoṇṇasiṃhaṇādagajjidapisuṇaṃ vivihaparimukkappaharaṇāhadakavaasaṃgalidajjalaṇavijjucchaḍābhāsuraṃ gambhīratthaṇiacāpajalaharaṃ ppasarantasaradhārāsahassavarisaṃ jādaṃ samaraduddiṇaṃ  /  
-  
-  
-SktCh_110: tato deva dvayorapi tayoranyo 'nyasiṃhanādagarjitapiśunaṃ vividhaparimuktapraharaṇāhatakavacasaṃgalitajvalanavidyucchaṭābhāsuraṃ gambhīrastanitacāpajaladharaṃ prasaraccharadhārāsahasravarṣi jātaṃ samaradurdinam  /  
-  
-  
-&duryodhanaḥ&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_111}tado a deva edassiṃ antare jeṭṭhassa bhāduṇo parābhavasaṅkiṇā dhaṇaṃjaeṇa vajjaṇigghādaṇigghosavisamarasidadhaaaggaṭṭhidamahāvāṇaro turaṃgamasaṃvāhaṇavāpidavāsudevasaṅkhacakkāsigadālañchidacaubbāhudaṇḍaduddaṃsaṇo āpūriapañcajaṇṇadeadattatārarasidappaḍiravabharidadasadisāmuhakuharo dhāvido taṃ uddesaṃ rahavaro  /  
-  
-  
-SktCh_111: tataśca deva etasminnantare jyeṣṭhasya bhrātuḥ parābhavaśaṅkinā dhanaṃjayena vajranirghātanirghoṣaviṣamarasitadhvajāgrasthitamahāvānarasturaṃgamasaṃvāhanavyāpṛtavāsudevaśaṅkhacakrāsigadālāñchitacaturbāhudaṇḍadurdarśana āpūritapāñcajanyadevadattatārarasitapratiravabharitadaśadiśāmukhakuharo dhāvitastamuddeśaṃ rathavaraḥ  /  
-  
-  
-&duryodhanaḥ&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_112}tado bhīmaseṇadhanaṃjaehiṃ abhijuttaṃ pidaraṃ pekkhia sasaṃbhamaṃ vialiaṃ avadhūṇia raaṇasīsaaṃ ākaṇṇākaṭṭhidakaṭhiṇakodaṇḍajīo dāhiṇahatthukkhittasarapuṅkhavighaṭṭaṇatuvarāidasārahio taṃ desaṃ ubagado kumālavisaseṇo  /  
-  
-  
-SktCh_112: tato bhīmasenadhanaṃjayābhyāmabhiyuktaṃ pitaraṃ prekṣya sasaṃbhramaṃ vigalitamavadhūya ratnaśīrṣakamākarṇākṛṣṭakaṭhinakodaṇḍajīvaḥ dakṣiṇahastotkṣiptaśarapuṅkhavighaṭṭanatvaritasārathistaṃ deśamupagataḥ kumāravṛṣasenaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-*sāvaṣṭhambham**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_113}tado a deva teṇa āacchanteṇa evva kumālavisaseṇeṇa vidalidāsiladāsāmalasiṇiddhapuṅkhehiṃ kaṭhiṇakaṅkabattehiṃ kisaṇavaṇṇehiṃ sāṇasilāṇisidasāmalasallabandhehiṃ kusumido via tarū muhuttaeṇa silīmuhehiṃ pacchādido dhaṇaṃjaassa rahavaro  /  
-  
-  
-SktCh_113: tataśca deva tenāgacchataiva kumāravṛṣasenena vidalitāsilatāśyāmalasnigdhapuṅkhaiḥ kaṭhinakaṅkapatraiḥ kṛṣṇavarṇaiḥ śāṇaśilāniśitaśyāmalaśalyabandhaiḥ kusumita iva tarurmuhūrtena śilīmukhaiḥ pracchādito dhanaṃjayasya rathavaraḥ  /  
-  
-  
-&ubhau&:  
-*saharṣam**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_114}tado deva tikkhavikkhittaṇisidabhallabāṇavarisiṇā dhaṇaṃjaeṇa īsi vihasia bhaṇidaṃ  / are re visaseṇa piduṇo bi dāva de ṇa juttaṃ maha kubidassa abhimuhaṃ ṭhāduṃ  / kiṃ uṇa bhavado bālassa  / tā gaccha  / abarehiṃ kumārehiṃ saha āodhehi tti  / evvaṃ vāaṃ ṇisamia guraaṇāhikkhebeṇa uddībiakobobarattamuhamaṇḍalaviambhiabhiuḍībhaṅgabhīsaṇeṇa cābadhāriṇā kumālavisaseṇeṇa bi mammabhedaehiṃ parusavisamehiṃ sudivahakidappaṇaehiṃ ṇibbhacchido gaṇḍīvī bāṇehiṃ ṇa uṇa duṭṭhavaaṇehiṃ  /  
-  
-  
-SktCh_114: tato deva tīkṣṇavikṣiptaniśitabhallabāṇavarṣiṇā dhanaṃjayeneṣadvihasya bhaṇitam  / are re vṛṣasena piturapi tāvatte na yuktaṃ mama kupitasyābhimukhaṃ sthātum  / kiṃ punarbhavato bālasya  / tadgaccha  / aparaiḥ kumāraiḥ sahāyudhyasveti  / evaṃ vācaṃ niśamya gurujanādhikṣepeṇoddīpitakopoparaktamukhamaṇḍalavijṛmbhitabhrukuṭībhaṅgabhīṣaṇena cāpadhāriṇā kumāravṛṣasenenāpi marmabhedakaiḥ paruṣaviṣamaiḥ śrutipathakṛtapraṇayairnirbhartsito gāṇḍīvī bāṇairna punarduṣṭavacanaiḥ  /  
-  
-  
-&duryodhanaḥ&:  
-sādhu vṛṣasena sādhu  / sundaraka tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_115}tado deva ṇisidasarābhighādaveaṇopajādamaṇṇuṇā kirīṭiṇā caṇḍagaṇḍīvajīāsaddaṇijjidavajjaṇigghādaghoseṇa bāṇaṇipadaṇapaḍisiddhadaṃsaṇappasareṇa patthudaṃ sikkhābalāṇurūbaṃ kiṃ bi accaliaṃ  /  
-  
-  
-SktCh_115: tato deva niśitaśarābhighātavedanopajātamanyunā kirīṭinā caṇḍagāṇḍīvajīvāśabdanirjitavajranirghātaghoṣeṇa bāṇanipatanapratiṣiddhadarśanaprasareṇa prastutaṃ śikṣābalānurūpaṃ kimapyāścaryam  /  
-  
-  
-&duryodhanaḥ&:  
-*sākūtam**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_116}tado a deva taṃ tārisaṃ pekkhia sattuṇo samaravvābāracaurattaṇaṃ avibhāviatūṇīramuhadhaṇugguṇagamaṇāgamaṇasarasaṃdhāṇamokkhacaḍulakaraaleṇa kumālavisaseṇeṇa bi savisesaṃ patthudaṃ samalakamma  /  
-  
-  
-SktCh_116: tataśca deva tattādṛśaṃ prekṣya śatroḥ samaravyāpāracaturatvamavibhāvitatūṇīramukhadhanurguṇagamanāgamanaśarasaṃdhānamokṣacaṭulakaratalena kumāravṛṣasenenāpi saviśeṣaṃ prastutaṃ samarakarma  /  
-  
-  
-&duryodhanaḥ&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_117}tado deva etthantare vimukkasamaravvābāro muhuttavissamidaverāṇubandho doṇaṃ bi kururāapaṇḍavabalāṇaṃ sāhu kumālavisaseṇa sāhu tti kidakalaalo vīraloo avaloiduṃ pautto  /  
-  
-  
-SktCh_117: tato deva atrāntare vimuktasamaravyāpāro muhūrtaviśramitavairānubandho dvayorapi kururājapāṇḍavabalayoḥ sādhu kumāravṛṣasena sādhviti kṛtakalakalo vīraloko 'valokayituṃ pravṛttaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-*savismayam**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_118}tado a deva avahīridasaaladhāṇukkacakkaparakkamasāliṇo sudassa tahāviheṇa samalakammālambheṇa harisarosakaruṇāsaṃkaḍe vaṭṭamāṇassa sāmiṇo aṅgarāassa ṇipaḍiā sarapaddhaī bhīmaseṇe bapphapajjāulā diṭṭhī kumālavisaseṇe  /  
-  
-  
-SktCh_118: tataśca deva avadhīritasakaladhānuṣkacakraparākramaśālinaḥ sutasya tathāvidhena samarakarmārambheṇa harṣaroṣakaruṇāsaṃkaṭe vartamānasya svāmino 'ṅgarājasya nipatitā śarapaddhatirbhīmasene bāṣpaparyākulā dṛṣṭiḥ kumāravṛṣasene  /  
-  
-  
-&duryodhanaḥ&:  
-*sabhayam**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_119}tado a deva uhaabalappauttasāhukārāmarisideṇa saravarisappajjalideṇa gaṇḍīviṇā turaesu sārahiṃ pi rahavare dhaṇuṃ pi jīāiṃ pi ṇalindalañchaṇe sidādabatte bi a vābārido samaṃ silīmuhāsāro  /  
-  
-  
-SktCh_119: tataśca deva ubhayabalapravṛttasādhukārāmarṣitena śaravarṣaprajvalitena gāṇḍīvinā turageṣu sārathāvapi rathavare dhanuṣyapi jīvāyāmapi narendralāñchane sitātapatre 'pi ca vyāpāritaḥ samaṃ śilīmukhāsāraḥ  /  
-  
-  
-&duryodhanaḥ&:  
-*sabhayam**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_120}tado deva viraho lūṇaguṇakodaṇḍo paribbhamaṇavvābāramettappaḍisiddhasarasaṃpādo maṇḍalehiṃ viariduṃ pautto kumālo  /  
-  
-  
-SktCh_120: tato deva viratho lūnaguṇakodaṇḍaḥ paribhramaṇavyāpāramātrapratiṣiddhaśarasaṃpāto maṇḍalairvicarituṃ pravṛttaḥ kamāraḥ  /  
-  
-  
-&duryodhanaḥ&:  
-*sāśaṅkam**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_121}tado deva sudarahaviddhaṃsaṇāmarisuddībideṇa sāmiṇā aṅgarāeṇa agaṇiabhīmaseṇābhijoeṇa parimukko dhaṇaṃjaassa ubari silīmuhāsāro  / kumālo bi parijaṇobaṇīdaṃ aṇṇaṃ rahaṃ āruhia puṇo bi pautto dhaṇaṃjaeṇa saha āodheduṃ  /  
-  
-  
-SktCh_121: tato deva sutarathavidhvaṃsanāmarṣoddīpitena svāmināṅgarājenāgaṇitabhīmasenābhiyogena parimukto dhanaṃjayasyopari śilīmukhāsāraḥ  / kumāro 'pi parijanopanītamanyaṃ rathamāruhya punarapi pravṛtto dhanaṃjayena sahāyoddhum  /  
-  
-  
-&ubhau&:  
-sādhu vṛṣasena sādhu  / tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_122}tado deva bhaṇidaṃ a kumāleṇa re re tādāhikkhebamuhala majjhamapaṇḍava maha sarā tuha sarīraṃ ujjhia aṇṇassiṃ ṇa ṇibaḍanti  / tti bhaṇia sarasahassehiṃ paṇḍavasarīraṃ pacchādia siṃhaṇādeṇa gajjiduṃ pautto  /  
-  
-  
-SktCh_122: tato deva bhaṇitaṃ ca kumāreṇa re re tātādhikṣepamukhara madhyamapāṇḍava mama śarāstava śarīramujjhitvānyasminna nipatanti  / iti bhaṇitvā śarasahasraiḥ pāṇḍavaśarīraṃ pracchādya siṃhanādena garjituṃ pravṛttaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-*savismayam**  
-aho bālasya parākramo mugdhasvabhāvo 'pi  / tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_123}tado a deva taṃ sarasaṃpādaṃ samavadhūṇia ṇisidasarābhighādajādamaṇṇuṇā kirīṭiṇā gahidā rahucchaṅgādo kaṇantakaṇaakiṅkiṇījālajhaṃkāravirāiṇī mehobarohavimukkaṇahatthalaṇimmalā ṇisidasāmalasiṇiddhamuhī viviharaaṇappahābhāsurabhīsaṇaramaṇīadaṃsaṇā sattī sobahāsaṃ vimukkā a kumālāhimuhī  /  
-  
-  
-SktCh_123: tataśca deva taṃ śarasaṃpātaṃ samavadhūya niśitaśarābhighātajātamanyunā kirīṭinā gṛhītā rathotsaṅgātkvaṇatkanakakiṅkiṇījālajhaṃkāravirāviṇī meghoparodhavimuktanabhastalanirmalā niśitaśyāmalasnigdhamukhī vividharatnaprabhābhāsurabhīṣaṇaramaṇīyadarśanā śaktiḥ sopahāsaṃ vimuktā ca kumārābhimukhī  /  
-  
-  
-&duryodhanaḥ&:  
-*saviṣādam**  
-ahaha  / tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_124}tado a deva pajjalantiṃ sattiṃ pekkhia vialiaṃ aṅgarāassa hatthādo sasaraṃ dhaṇuṃ hiaādo vīrasulaho ucchāho ṇaaṇādo bāpphasalilaṃ vaaṇādo rasidaṃ  / hasidaṃ a dhaṇaṃjaeṇa siṃhaṇādaṃ viṇādidaṃ viodaleṇa dukkalaṃ dukkalaṃ tti ākkandidaṃ kurubaleṇa  /  
-  
-  
-SktCh_124: tataśca deva prajvalantīṃ śaktiṃ prekṣya vigalitamaṅgarājasya hastātsaśaraṃ dhanurhṛdayādvīrasulabha utsāho nayanādbāṣpasalilaṃ vadanādrasitam  / hasitaṃ ca dhanaṃjayena siṃhanādaṃ vināditaṃ vṛkodareṇa duṣkaraṃ duṣkaramityākranditaṃ kurubalena  /  
-  
-  
-&duryodhanaḥ&:  
-*saviṣādam**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_125}tado deva kumālavisaseṇeṇa ākaṇṇākiṭṭhaṇisidakhurappehiṃ ciraṃ ṇijjhāia addhapahe evva bhāīrahī via bhaavadā visamaloaṇeṇa tidhā kidā sattī  /  
-  
-  
-SktCh_125: tato deva kumāravṛṣasenenākarṇākṛṣṭaniśitakṣurapraiściraṃ nidhyāyārdhapatha eva bhāgīrathīva bhagavatā viṣamalocanena tridhā kṛtā śaktiḥ  /  
-  
-  
-&duryodhanaḥ&:  
-sādhu vṛṣasena sādhu  / tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_126}tado a deva edassiṃ antare kidakalakalamuhareṇa vīraloasāhuvādeṇa antarido samaratūraravo  / siddhacālaṇagaṇavimukkakusumappakareṇa pacchādidaṃ samalaṅgaṇaṃ  /  
-  
-  
-SktCh_126: tataśca deva etasminnantare kṛtakalakalamukhareṇa vīralokasādhuvādenāntaritaḥ samaratūryaravaḥ  / siddhacāraṇagaṇavimuktakusumaprakareṇa pracchāditaṃ samarāṅgaṇam  /  
-  
-  
-&duryodhanaḥ&:  
-aho bālasya parākramaḥ  / tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_127}tado a deva bhaṇiaṃ sāmiṇā aṅgarāeṇa  / bho viodala asamatto tuha maha bi samalavvābāro  / tā aṇumaṇṇa maṃ muhuttaaṃ  / pekkhāma dāva vacchassa tuha bhāduṇo a dhaṇuvvedasikkhāṇiuṇattaṇaṃ  / tuha bi edaṃ pekkhaṇīaṃ tti  /  
-  
-SktCh_127: tataśca deva bhaṇitaṃ svāmināṅgarājena  / bho vṛkodara asamāptastava mamāpi samaravyāpāraḥ  / tadanumanyasva māṃ muhūrtam  / prekṣāvahe tāvadvatsasya tava bhrātuśca dhanurvedaśikṣānipuṇatvam  / tavāpyetatprekṣaṇīyamiti  /  
-  
-  
-&duryodhanaḥ&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_128}tado deva viradā raṇavvābāraṇibbandhādo muhuttaaṃ pasamidaverā duve bi pekkhaā jādā bhīmaseṇaṅgarāā  /  
-  
-  
-SktCh_128: tato deva viratau raṇavyāpāranirbandhānmuhūrtaṃ praśamitavairau dvāvapi prekṣakau jātau bhīmasenāṅgarājau  /  
-  
-  
-&duryodhanaḥ&:  
-*sābhiprāyam**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_129}tado a deva edassiṃ antare sattikhaṇḍaṇāmarisideṇa gaṇḍīviṇā bhaṇiaṃ  / are re dujjohaṇappamuhā  /*ityardhokte lajjāṃ nāṭayati**  
-  
-  
-  
-SktCh_129: tataśca deva etasminnantare śaktikhaṇḍanāmarṣitena gāṇḍīvinā bhaṇitam  / are re duryodhanapramukhāḥ  /  
-  
-  
-&duryodhanaḥ&:  
-sundaraka kathyatām  / paravacanametat  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_130}suṇādu devo  / are dujjohaṇappamuhā kurubalaseṇāpahuṇaā are aviṇaaṇokaṇṇadhāra kaṇṇa tumhehiṃ maha parokkhaṃ bahuhiṃ mahorahehiṃ parivāria eāī maha puttao ahimaṇṇū vābādido  / ahaṃ uṇa tumhāṇaṃ pekkhantāṇaṃ evva edaṃ kumālavisaseṇaṃ sumaridavvasesaṃ karomi  / tti bhaṇia sagavvaṃ āpphālidaṃ ṇeṇa vajjaṇigghādaṇigghosabhīsaṇajīāravaṃ gaṇḍīvaṃ  / sāmiṇā bi sajjīkidaṃ kālapuṭṭhaṃ  /  
-  
-  
-SktCh_130: śṛṇotu devaḥ  / are duryodhanapramukhāḥ kurubalasenāprabhavaḥ are avinayanaukarṇadhāra karṇa yuṣmābhirmama parokṣaṃ bahubhirmahārathaiḥ parivṛtyaikākī mama putrako 'bhimanyurvyāpāditaḥ  / ahaṃ punaryuṣmākaṃ prekṣamāṇānāmevaitaṃ kumāravṛṣasenaṃ smartavyaśeṣaṃ karomi  / iti bhaṇitvā sagarvamāsphālitamanena vajranirghātanirghoṣabhīṣaṇajīvāravaṃ gāṇḍīvam  / svāmināpi sajjīkṛtaṃ kālapṛṣṭham  /  
-  
-  
-&duryodhanaḥ&:  
-*sāvahittham**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_131}tado a deva paḍisiddhabhīmaseṇasamalakammālambheṇa gaṇḍīviṇā viraidā aṅgarāavisaseṇarahakūlaṃkasāo duve bāṇaṇaīo  / tehiṃ bi duvehiṃ aṇṇoṇṇasiṇehadaṃsidasikkhāvisesehiṃ ahijutto so durāāro majjhamapaṇḍao  /  
-  
-  
-SktCh_131: tataśca deva pratiṣiddhabhīmasenasamarakarmārambheṇa gāṇḍīvinā viracite aṅgarājavṛṣasenarathakūlaṃkaṣe dve bāṇanadyau  / tābhyāmapi dvābhyāmanyo 'nyasnehadarśitaśikṣāviśeṣābhyāmabhiyuktaḥ sa durācāro madhyamapāṇḍavaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_132}tado a deva gaṇḍīviṇā tārarasidajīāṇigghosamettaviṇṇādabāṇavariseṇa taha āaridaṃ pattihiṃ jaha ṇa ṇahatthalaṃ ṇa sāmī ṇa raho ṇa dharaṇī ṇa kumālo ṇa keduvaṃso ṇa balāiṃ ṇa sārahī ṇa tulaṃgamā ṇa disāo ṇa vīraloo a lakkhīadi  /  
-  
-  
-SktCh_132: tataśca deva gāṇḍīvinā tārarasitajīvānirghoṣamātravijñātabāṇavarṣeṇa tathācaritaṃ patribhiryathā na nabhastalaṃ na svāmī na ratho na dharaṇī na kumāro na ketuvaṃśo na balāni na sārathirna turaṃgamā na diśo na vīralokaśca lakṣyate  /  
-  
-  
-&duryodhanaḥ&:  
-*savismayam**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_133}tado a deva adikkante saravarise khaṇamettaṃ evva saharisasiṃhaṇāde paṇḍavaseṇṇe savisādamukkakkande koravabale samutthido mahanto kalaalo hā hado kumālavisaseṇo tti  /  
-  
-  
-SktCh_133: tataśca deva atikrānte śaravarṣe kṣaṇamātrameva saharṣasiṃhanāde pāṇḍavasainye saviṣādamuktākrande kauravabale samutthito mahānkalakalo hā hataḥ kumāravṛṣasena iti  /  
-  
-  
-&duryodhanaḥ&:  
-*sabāṣparodham**  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_134}tado deva pekkhāmi kumālaṃ hadasārahitulaṃgaṃ lūṇādabattacābacāmarakeduvaṃsaṃ saggabbhaṭṭhaṃ via sulakumālaṃ ekkeṇa evva hiaamammabhediṇā silīmuheṇa bhiṇṇadehaṃ rahamajjhe pallatthaṃ  /  
-  
-  
-SktCh_134: tato deva prekṣe kumāraṃ hatasārathituraṃgaṃ lūnātapatracāpacāmaraketuvaṃśaṃ svargabhraṣṭamiva surakumāramekenaiva hṛdayamarmabhedinā śilīmukhena bhinnadehaṃ rathamadhye paryastam  /  
-  
-  
-&duryodhanaḥ&:  
-*sāsram**  
-ahaha kumāra vṛṣasena  / alamataḥ paraṃ śrutvā  / hā vatsa hā madaṅkadurlalita hā madājñākara hā gadāyudhapriyaśiṣya hā śauryasāgara hā rādheyakulapraroha hā priyadarśana hā duḥśāsananirviśeṣa hā sarvaguruvatsala prayaccha me prativacanam  /  
-VERSE_4.10  
-paryāptanetramaciroditacandrakānta-  $ mudbhidyamānanavayauvanaramyaśobham  &  
-prāṇāpahāraparivartitadṛṣṭi dṛṣṭaṃ  ē̃ karṇena tatkathamivānanapaṅkajaṃ te  // 4.10 //  
-  
-  
-  
-&sūtaḥ&:  
-āyuṣmannalamatyantaduḥkhāvegena  /  
-  
-  
-&duryodhanaḥ&:  
-sūta puṇyavanto hi duḥkhabhājo bhavanti  / asmākaṃ punaḥ  
-VERSE_4.11  
-pratyakṣaṃ hatabandhūnāmetatparibhavāgninā  /  
-hṛdayaṃ dahyate 'tyarthaṃ kuto duḥkhaṃ kuto vyathā  // 4.11 //  
-  
-*iti mohamupagataḥ**  
-  
-  
-  
-&sūtaḥ&:  
-samāśvasitu samāśvasitu mahārājaḥ  /*iti paṭāntena vījayati**  
-  
-  
-  
-&duryodhanaḥ&:  
-*labdhasaṃjñaḥ**  
-bhadra sundaraka tato vayasyena kiṃ pratipannamaṅgarājena  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_135}tado a deva tahāvidhassa puttassa daṃsaṇeṇa saṃgalidaṃ assujalaṃ ujjhia aṇabekkhidaparappaharaṇābhioeṇa sāmiṇā aṅgarāeṇa abhijutto dhaṇaṃjao  / taṃ a sudavahāmarisuddībidaparakkamaṃ vimukkajīvidāsaṃ taha parakkamantaṃ pekkhia bhīmaṇaulasahadevapañcālappamuhehiṃ antarido dhaṇaṃjaassa rahavaro  /  
-  
-  
-SktCh_135: tataśca deva tathāvidhasya putrasya darśanena saṃgalitamaśrujalamujjhitvānavekṣitaparapraharaṇābhiyogena svāmināṅgarājenābhiyukto dhanaṃjayaḥ  / taṃ ca sutavadhāmarṣoddīpitaparākramaṃ vimuktajīvitāśaṃ tathā parākramantaṃ prekṣya bhīmanakulasahadevapāñcālapramukhairantarito dhanaṃjayasya rathavaraḥ  /  
-  
-  
-&duryodhanaḥ&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_136}tado deva sallena bhaṇidaṃ  / aṅgarāa kkhalidatulaṃgamo mathidacakkaṇemikūbaro de raho  / tā ṇa juttaṃ bhīmajjuṇehiṃ saha ājujjiduṃ  / tti bhaṇia ṇivattido raho odārido sāmī sandaṇādo bahuppaāraṃ a samassāsido  /  
-  
-  
-SktCh_136: tato deva śalyena bhaṇitam  / aṅgarāja skhalitaturaṃgamo mathitacakranemikūbaraste rathaḥ  / tanna yuktaṃ bhīmārjunābhyāṃ sahāyoddhum  / iti bhaṇitvā nirvartito ratho 'vatāritaḥ svāmī syandanādbahuprakāraṃ ca samāśvāsitaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-tatastataḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_137}tado a sāmiṇā suiraṃ vilabia pariaṇobaṇīdaṃ aṇṇaṃ rahaṃ pekkhia dīhaṃ ṇissasia mai diṭṭhī viṇikkhittā  / sundaraa ehi tti bhaṇidaṃ a  / tado ahaṃ ubagado sāmisamībaṃ  / tado abaṇīa sīsaṭṭhāṇādo paṭṭiaṃ sarīrasaṃgalidehiṃ soṇiabindūhiṃ littamuhaṃ bāṇaṃ kadua avalihia pesido devassa saṃdeso  /*iti paṭṭakāmarpayati**  
-  
-  
-  
-SktCh_137: tataśca svāminā suciraṃ vilapya parijanopanītamanyaṃ rathaṃ prekṣya dīrghaṃ niḥśvasya mayi dṛṣṭirvinikṣiptā  / sundaraka ehīti bhaṇitaṃ ca  / tato 'hamupagataḥ svāmisamīpam  / tato 'panīya śīrṣasthānātpaṭṭikāṃ śarīrasaṃgalitaiḥ śoṇitabindubhirliptamukhaṃ bāṇaṃ kṛtvābhilikhya preṣito devasya saṃdeśaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-*gṛhītvā vācayati**  
-svasti  / mahārājaduryodhanaṃ samarāṅgaṇātkarṇa etadantaṃ kaṇṭhe gāḍhamāliṅgya vijñāpayati  /  
-VERSE_4.12  
-astragrāmavidhau kṛtī na samareṣvasyāsti tulyaḥ pumā-  $ nbhrātṛbhyo 'pi mamādhiko 'yamamunā jeyāḥ pṛthāsūnavaḥ  &  
-tvatsaṃbhāvita ityahaṃ na ca hato duḥśāsanārirmayā  ē̃ tvaṃ duḥkhapratikāramehi bhujayorvīryeṇa bāṣpeṇa vā  // 4.12 //  
-  
-vayasya karṇa kimidaṃ bhrātṛśatavadhaduḥkhitaṃ māmapareṇa vākśalyena ghaṭṭayasi  / bhadra sundaraka athedānīṃ kimārambho 'ṅgarājaḥ  /  
-  
-  
-&sundarakaḥ&:  
-{Pkt_138}deva abaṇīdasarīrāvaraṇo attavahakidaṇiccao puṇo bi pattheṇa saha samalaṃ maggedi  /  
-  
-  
-SktCh_138: deva apanītaśarīrāvaraṇa ātmavadhakṛtaniścayaḥ punarapi pārthena saha samaraṃ mārgayate  /  
-  
-  
-&duryodhanaḥ&:  
-*āvegādāsanāduttiṣṭhan**  
-sūta rathamupanaya  / sundaraka tvamapi madvacanāttvaritataraṃ gatvā vayasyamaṅgarājaṃ pratibodhaya  / alamatisāhasena  / abhinna evāyamāvayoḥ saṃkalpaḥ  / na khalu bhavāneko jīvitaparityāgākāṅkṣī  / kiṃ tu  
-VERSE_4.13  
-hatvā pārthānsalilamaśivaṃ bandhuvargāya dattvā  $ muktvā bāṣpaṃ saha katipayairmantribhiścāribhiśca  &  
-kṛtvānyo 'nyaṃ suciramapunarbhāvi gāḍhopagūḍhaṃ  ē̃ saṃtyakṣyāvo hatatanumimāṃ duḥkhitau nirvṛtau ca  // 4.13 //  
-  
-atha ca śokaṃ prati mayā na kiṃcitsaṃdeṣṭavyam  /  
-VERSE_4.14  
-vṛṣaseno na te putro na me duḥśāsano 'nujaḥ  /  
-tvāṃ bodhayāmi kimahaṃ tvaṃ māṃ saṃsthāpayiṣyasi  // 4.14 //  
-  
-  
-  
-&sundarakaḥ&:  
-{Pkt_139}jaṃ devo āṇabedi  /*iti niṣkrāntaḥ**  
-  
-  
-  
-SktCh_139: yaddeva ājñāpayati  /  
-  
-  
-&duryodhanaḥ&:  
-tūrṇameva rathamupasthāpaya  /  
-  
-  
-&sūtaḥ&:  
-*karṇaṃ dattvā**  
-deva hreṣāsaṃvalito nemidhvaniḥ śrūyate  / tathā tarkayāmi nūnaṃ parijanopanīto rathaḥ  /  
-  
-  
-&duryodhanaḥ&:  
-sūta gaccha tvaṃ sajjīkuru  /  
-  
-  
-&sūtaḥ&:  
-yadājñāpayati devaḥ  /*iti niṣkramya punaḥ praviśati**  
-  
-  
-  
-&duryodhanaḥ&:  
-*vilokya**  
-kimiti nārūḍho 'si  /  
-  
-  
-&sūtaḥ&:  
-eṣa khalu tāto 'mbā ca saṃjayādhiṣṭhitaṃ rathamāruhya devasya samīpamupagatau  /  
-  
-  
-&duryodhanaḥ&:  
-kiṃ nāma tāto 'mbā ca saṃprāptau  / kaṣṭamatibībhatsamācaritaṃ daivena  / sūta gaccha tvaṃ syandanaṃ tūrṇamupahara  / ahamapi tātadarśanaṃ pariharannekānte tiṣṭhāmi  /  
-  
-  
-&sūtaḥ&:  
-deva tvadekaśeṣabāndhavāvetau kathamiva na samāśvāsayasi  /  
-  
-  
-&duryodhanaḥ&:  
-sūta kathamiva samāśvāsayāmi vimukhabhāgadheyaḥ  / paśya  /  
-VERSE_4.15  
-adyaivāvāṃ raṇamupagatau tātamambāṃ ca dṛṣṭvā  $ ghrātastābhyāṃ śirasi vinato 'haṃ ca duḥśāsanaśca  &  
-tasminbāle prasabhamariṇā prāpite tāmavasthāṃ  ē̃ pārśvaṃ pitrorapagataghṛṇaḥ kiṃ nu vakṣyāmi gatvā  // 4.15 //  
-  
-tathāpyavaśyaṃ vandanīyau gurū  /  
-  
-*iti niṣkrāntau**  
-iti caturtho 'ṅkaḥ  /  
-  
-ACT_5  
-pañcamo 'ṅkaḥ  /  
-*tataḥ praviśati rathayānena gāndhārī saṃjayo dhṛtarāṣṭraśca**  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa saṃjaya kathaya kathaya kasminnuddeśe kurukulakānanaikapravālo vatso me duryodhanastiṣṭhati  / kaccijjīvati vā na vā  /  
-  
-  
-&gāndhārī&:  
-{Pkt_140}jāda jai saccaṃ jīvadi me vaccho tā kadhehi kassiṃ dese vaṭṭadi  /  
-  
-  
-SktCh_140: jāta yadi satyaṃ jīvati me vatsastatkathaya kasmindeśe vartate  /  
-  
-  
-&saṃjayaḥ&:  
-nanveṣa mahārāja eka eva nyagrodhacchāyāyāmupaviṣṭastiṣṭhati  /  
-  
-  
-&gāndhārī&:  
-{Pkt_141}*sakaruṇam**  
-jāda eāī tti bhaṇāsi  / kiṃ ṇu kkhu saṃpadaṃ bhādusadaṃ se pāse bhavissadi  /  
-  
-  
-SktCh_141: jāta ekākīti bhaṇasi  / kiṃ nu khalu sāṃprataṃ bhrātṛśatamasya pārśve bhaviṣyati  /  
-  
-  
-&saṃjayaḥ&:  
-tāta amba avatarataṃ svairaṃ rathāt  /  
-  
-*ubhāvavataraṇaṃ nāṭayataḥ**  
-  
-*tataḥ praviśati savrīḍamupaviṣṭo duryodhanaḥ**  
-  
-  
-&saṃjayaḥ&:  
-*upasṛtya**  
-vijayatāṃ mahārājaḥ  / nanveṣa tāto 'mbayā saha prāptaḥ  / kiṃ na paśyati mahārājaḥ  /  
-  
-*duryodhano vailakṣyaṃ nāṭayati**  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-VERSE_5.1  
-śalyāni vyapanīya kaṅkavadanairunmocite kaṅkaṭe  $ baddheṣu vraṇapaṭṭakeṣu śanakaiḥ karṇe kṛtāpāśrayaḥ  &  
-dūrānnirjitasāntvitānnarapatīnālokayaṁllīlayā  ē̃ sahyā putraka vedaneti na mayā pāpena pṛṣṭo bhavān  // 5.1 //  
-  
-  
-*dhṛtarāṣṭro gāndhārī ca sparśenopetyāliṅgataḥ**  
-  
-  
-&gāndhārī&:  
-{Pkt_142}vaccha adigāḍhappahāraveaṇāpajjāulassa amhesu saṃṇihidesu bi ṇa pasaradi de vāṇī  /  
-  
-  
-SktCh_142: vatsa atigāḍhaprahāravedanāparyākulasyāsmāsu saṃnihiteṣvapi na prasarati te vāṇī  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa duryodhana kimakṛtapūrvaḥ saṃprati mayyapyayamavyāhāraḥ  /  
-  
-  
-&gāndhārī&:  
-{Pkt_143}vaccha jai tumaṃ bi amhe ṇālabasi tā kiṃ saṃpadaṃ vaccho dussāsaṇo ālabadu dummarisaṇo vā adha aṇṇo vā  /*iti roditi**  
-  
-  
-  
-SktCh_143: vatsa yadi tvamapyasmānnālapasi tatkiṃ sāṃprataṃ vatso duḥśāsana ālapatu durmarṣaṇo vāthānyo vā  /  
-  
-  
-&duryodhanaḥ&:  
-VERSE_5.2  
-pāpo 'hamapratikṛtānujanāśadarśī  $ tātasya bāṣpapayasāṃ tava cāmba hetuḥ  &  
-durjātamatra vimale bharatānvavāye  ē̃ kiṃ māṃ sutakṣayakaraṃ suta ityavaiṣi  // 5.2 //  
-  
-  
-  
-&gāndhārī&:  
-{Pkt_144}jāda alaṃ paridevideṇa  / tumaṃ bi dāva ekko imassa andhajualassa maggobadesao  / tā ciraṃ jīva  / kiṃ me rajjeṇa jaeṇa vā  /  
-  
-  
-SktCh_144: jāta alaṃ paridevitena  / tvamapi tāvadeko 'syāndhayugalasya mārgopadeśakaḥ  / tacciraṃ jīva  / kiṃ me rājyena jayena vā  /  
-  
-  
-&duryodhanaḥ&:  
-VERSE_5.3  
-mātaḥ kimapyasadṛśaṃ kṛpaṇaṃ vacaste  $ sukṣatriyā kva bhavatī kva ca dīnataiṣā  &  
-nirvatsale sutaśatasya vipattimetāṃ  ē̃ tvaṃ nānucintayasi rakṣasi māmayogyam  // 5.3 //  
-  
-nūnaṃ viceṣṭitamidaṃ sutaśokasya  /  
-  
-  
-&saṃjayaḥ&:  
-mahārāja kiṃ vāyaṃ lokavādo vitatho na ghaṭasya kūpapāte rajjurapi tatra prakṣeptavyeti  /  
-  
-  
-&duryodhanaḥ&:  
-apuṣkalamidam  / upakriyamāṇābhāve kimupakaraṇena  /*iti roditi**  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-*duryodhanaṃ pariṣvajya**  
-vatsa samāśvasihi samāśvāsaya cāsmānimāmatidīnāṃ mātaraṃ ca  /  
-  
-  
-&duryodhanaḥ&:  
-tāta durlabhaḥ samāśvāsa idānīṃ yuṣmākam  / kiṃ tu  
-VERSE_5.4  
-kuntyā saha yuvāmadya mayā nihataputrayā  /  
-virājamānau śoke 'pi tanayānanuśocatam  // 5.4 //  
-  
-  
-  
-&gāndhārī&:  
-{Pkt_145}jāda edaṃ evva saṃpadaṃ pabhūdaṃ jaṃ tumaṃ bi dāva ekko jīvasi  / tā jāda akālo de samarassa  / pasīda  / eso de sīsañjalī  / ṇivattīadu samaravvābārādo  / apacchimaṃ karehi me vaaṇaṃ  /  
-  
-  
-SktCh_145: jāta etadeva sāṃprataṃ prabhūtaṃ yattvamapi tāvadeko jīvasi  / tajjāta akālaste samarasya  / prasīda  / eṣa te śīrṣāñjaliḥ  / nivartyatāṃ samaravyāpārāt  / apaścimaṃ kuru me vacanam  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa śṛṇu vacanaṃ tavāmbāyā mama ca nihatāśeṣabandhuvargasya  / paśya  /  
-VERSE_5.5  
-dāyādā na yayorbalena gaṇitāstau droṇabhīṣmau hatau  $ karṇasyātmajamagrataḥ śamayato bhītaṃ jagatphālgunāt  &  
-vatsānāṃ nidhanena me tvayi ripuḥ śeṣapratijño 'dhunā  ē̃ mānaṃ vairiṣu muñca tāta pitarāvandhāvimau pālaya  // 5.5 //  
-  
-  
-  
-&duryodhanaḥ&:  
-samarātpratinivṛtya kiṃ mayā kartavyam  /  
-  
-  
-&gāndhārī&:  
-{Pkt_146}jāda jaṃ pidā de viuro vā bhaṇādi  /  
-  
-  
-SktCh_146: jāta yatpitā te viduro vā bhaṇati  /  
-  
-  
-&saṃjayaḥ&:  
-deva evamidam  /  
-  
-  
-&duryodhanaḥ&:  
-saṃjaya adyāpyupadeṣṭavyamasti  /  
-  
-  
-&saṃjayaḥ&:  
-deva yāvatprāṇiti tāvadupadeṣṭavyabhūmirvijigīṣuḥ prajñāvatām  /  
-  
-  
-&duryodhanaḥ&:  
-*sakrodham**  
-śṛṇumastāvadbhavata eva prajñāvataḥ saṃpratyasmadanurūpamupadeśam  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa yuktavādini saṃjaye kimatra krodhena  / yadi prakṛtimāpadyase tadahameva bhavantaṃ bravīmi  / śrūyatām  /  
-  
-  
-&duryodhanaḥ&:  
-kathayatu tātaḥ  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa kiṃ vistareṇa  / saṃdhattāṃ bhavānidānīmapi yudhiṣṭhiramīpsitapaṇabandhena  /  
-  
-  
-&duryodhanaḥ&:  
-tāta tanayasnehavaiklavyādambā bāliśatvātsaṃjayaśca kāmamevaṃ bravītu  / yuṣmākamapyevaṃ vyāmohaḥ  / atha vā prabhavati putranāśajanmā hṛdayajvaraḥ  / anyacca tāta askhalitabhrātṛśato 'haṃ yadā tadāvadhīritavāsudevasāmopanyāsaḥ  / saṃprati hi dṛṣṭapitāmahācāryānujarājacakravipattiḥ svaśarīramātrasnehādudāttapuruṣavrīḍāvahamasukhāvasānaṃ ca kathamiva kariṣyati duryodhanaḥ saha pāṇḍavaiḥ saṃdhim  / anyacca nayavedinsaṃjaya  
-VERSE_5.6  
-hīyamānāḥ kila ripornṛpāḥ saṃdadhate parān  /  
-duḥśāsane hate 'hīnāḥ sānujāḥ pāṇḍavāḥ katham  // 5.6 //  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa evaṃ gate 'pi matprārthanayā na kiṃcinna karoti yudhiṣṭhiraḥ  / anyacca sarvadaivāprakṛṣṭamātmānaṃ manyate yudhiṣṭhiraḥ  /  
-  
-  
-&duryodhanaḥ&:  
-kathamiva  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa śrūyatāṃ pratijñā yudhiṣṭhirasya  / nāhamekasyāpi bhrāturvipattau prāṇāndhārayāmīti  / bahucchalatvātsaṃgrāmasyānujanāśamāśaṅkamāno yadaiva bhavate rocate tadaivāsau sajjaḥ saṃdhātum  /  
-  
-  
-&saṃjayaḥ&:  
-evamidam  /  
-  
-  
-&gāndhārī&:  
-{Pkt_147}jāda upapattijuttaṃ paḍibajjassa piduṇo vaaṇaṃ  /  
-  
-  
-SktCh_147: jāta upapattiyuktaṃ pratipadyasva piturvacanam  /  
-  
-  
-&duryodhanaḥ&:  
-tāta amba saṃjaya  
-VERSE_5.7  
-ekenāpi vinānujena maraṇaṃ pārthaḥ pratijñātavā-  $ nbhrātḥṇāṃ nihate śate 'bhilaṣate duryodhano jīvitum  &  
-taṃ duḥśāsanaśoṇitāśanamariṃ bhinnaṃ gadākoṭibhi-  ē̃ rbhīmaṃ dikṣu na vikṣipāmi kṛpaṇaḥ saṃdhiṃ vidadhyāmaham  // 5.7 //  
-  
-  
-  
-&gāndhārī&:  
-{Pkt_148}hā jāda dussāsaṇa hā madaṅkadullalita hā juarāa assudapuvvā kkhu kassa bi loe īdisī vipattī  / hā vīrasadappasaviṇi hadagandhāri dukkhasadaṃ pasūdāsi ṇa uṇa sudasadaṃ  /  
-  
-  
-SktCh_148: hā jāta duḥśāsana hā madaṅkadurlalita hā yuvarāja aśrutapūrvā khalu kasyāpi loka īdṛśī vipattiḥ  / hā vīraśataprasavini hatagāndhāri duḥkhaśataṃ prasūtāsi na punaḥ sutaśatam  /  
-  
-*sarve rudanti**  
-  
-  
-&saṃjayaḥ&:  
-*bāṣpamutsṛjya**  
-tāta amba pratibodhayituṃ mahārājamimāṃ bhūmiṃ yuvāmāgatau  / tadātmāpi tāvatsaṃstabhyatām  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa duryodhana evaṃ vimukheṣu bhāgadheyeṣu tvayi cāmuñcati sahajaṃ mānamariṣu tvadekaśeṣajīvitālambaneyaṃ tapasvinī gāndhārī kamavalambatāṃ śaraṇamahaṃ ca  /  
-  
-  
-&duryodhanaḥ&:  
-śrūyatāṃ yatpratipattumidānīṃ prāptakālam  /  
-VERSE_5.8  
-kalitabhuvanā bhuktaiśvaryāstiraskṛtavidviṣaḥ  $ praṇataśirasāṃ rājñāṃ cūḍāsahasrakṛtārcanāḥ  &  
-abhimukhamarīnghnantaḥ saṃkhye hatāḥ śatātmajā  ē̃ vahatu sagareṇoḍhāṃ tāto dhuraṃ sahito 'mbayā  // 5.8 //  
-  
-viparyaye tvasyādhipaterullaṅghitaḥ kṣātradharmaḥ syāt  /  
-  
-*nepathye mahānkalakalaḥ**  
-  
-  
-&gāndhārī&:  
-{Pkt_149}*ākarṇya sabhayam**  
-jāda kahiṃ edaṃ hāhākāramissaṃ tūrarasidaṃ suṇīadi  /  
-  
-  
-SktCh_149: jāta kutraitaddhāhākāramiśraṃ tūryarasitaṃ śrūyate  /  
-  
-  
-&saṃjayaḥ&:  
-amba bhūmiriyamevaṃvidhānāṃ bhīrujanatrāsanānāṃ mahāninādānām  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa saṃjaya jñāyatāmatibhairavaḥ khalu vistārī hāhāravaḥ  / kāraṇenāsya mahatā bhavitavyam  /  
-  
-  
-&duryodhanaḥ&:  
-tāta prasīda  / parāṅmukhaṃ khalu daivamasmākam  / yāvadaparamapi kiṃcidatyāhitaṃ na śrāvayati tāvadevājñāpaya māṃ saṃgrāmāvataraṇāya  /  
-  
-  
-&gāndhārī&:  
-{Pkt_150}jāda muhuttaaṃ dāva maṃ mandabhāiṇiṃ samassāsehi  /  
-  
-  
-SktCh_150: jāta muhūrtaṃ tāvanmāṃ mandabhāgyāṃ samāśvāsaya  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa yadyapi bhavānsamarāya kṛtaniścayastathāpi rahaḥ parapratīghātopāyaścintyatām  /  
-  
-  
-&duryodhanaḥ&:  
-VERSE_5.9  
-pratyakṣaṃ hatabāndhavā mama pare hantuṃ na yogyā rahaḥ  $ kiṃ vā tena kṛtena tairiva kṛtaṃ yanna prakāśaṃ raṇe  &  
-  
-  
-  
-&gāndhārī&:  
-{Pkt_151}jāda eāī tumaṃ  / ko de sahāattaṇaṃ karissadi  /  
-  
-  
-SktCh_151: jāta ekākī tvam  / kaste sāhāyyaṃ kariṣyati  /  
-  
-  
-&duryodhanaḥ&:  
-VERSE_5.9  
-eko 'haṃ bhavatīsutakṣayakaro mātaḥ kiyanto 'rayaḥ  ē̃ sāmyaṃ kevalametu daivamadhunā niṣpāṇḍavā medinī  // 5.9 //  
-  
-  
-*nepathye  / kalakalānantaram**  
-  
-  
-bho bho yodhāḥ nivedayantu bhavantaḥ kauraveśvarāya  / idaṃ mahatkadanaṃ pravṛttam  / alamapriyaśravaṇaparāṅmukhatayā  / yataḥ kālānurūpaṃ pratividhātavyamidānīm  / tathā hi  
-VERSE_5.10  
-tyaktaprājanaraśmiraṅkitatanuḥ pārthāṅkitairmārgaṇai-  $ rvāhaiḥ syandanavartmanāṃ paricayādākṛṣyamāṇaḥ śanaiḥ  &  
-vārtāmaṅgapatervilocanajalairāvedayanpṛcchatāṃ  ē̃ śūnyenaiva rathena yāti śibiraṃ śalyaḥ kurūñśalyayan  // 5.10 //  
-  
-  
-  
-&duryodhanaḥ&:  
-*śrutvā sāśaṅkam**  
-āḥ kenedamavispaṣṭamaśanipātadāruṇamudghoṣitam  / kaḥ ko 'tra bhoḥ  /  
-  
-*praviśya saṃbhrāntaḥ**  
-  
-  
-&sūtaḥ&:  
-hā hatāḥ smaḥ  /*ityātmānaṃ pātayati**  
-  
-  
-  
-&duryodhanaḥ&:  
-ayi kathaya kathaya  /  
-  
-  
-&sūtaḥ&:  
-āyuṣmankimanyat  /  
-VERSE_5.11  
-śalyena yathā śalyena mūrcchitaḥ praviśatā janaugho 'yam  /  
-śūnyaṃ karṇasya rathaṃ manorathamivādhirūḍhena  // 5.11 //  
-  
-  
-  
-&duryodhanaḥ&:  
-hā vayasya karṇa  /*iti mohamupagataḥ**  
-  
-  
-  
-&gāndhārī&:  
-{Pkt_152}jāda samassasa samassasa  /  
-  
-  
-SktCh_152: jāta samāśvasihi samāśvasihi  /  
-  
-  
-&saṃjayaḥ&:  
-samāśvasitu samāśvasitu devaḥ  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-bhoḥ kaṣṭaṃ kaṣṭam  /  
-VERSE_5.12  
-bhīṣme droṇe ca nihate ya āsīdavalambanam  /  
-vatssaya me suhṛcchūro rādheyaḥ so 'pyayaṃ hataḥ  // 5.12 //  
-  
-vatsa samāśvasihi samāśvasihi  / nanu bho hatavidhe  
-VERSE_5.13  
-andho 'nubhūtaśataputravipattiduḥkhaḥ  $ śocyāṃ daśāmupagataḥ saha bhāryayāham  &  
-asminnaśeṣitasuhṛdgurubandhuvarge  ē̃ duryodhane 'pi hi kṛto bhavatā nirāśaḥ  // 5.13 //  
-  
-vatsa duryodhana samāśvasihi samāśvasihi  / samāśvāsaya tapasvinīṃ mātaraṃ ca  /  
-  
-  
-&duryodhanaḥ&:  
-*labdhasaṃjñaḥ**  
-  
-VERSE_5.14  
-ayi karṇa karṇasukhadāṃ prayaccha me  $ giramudgiranniva mudaṃ mayi sthirām  &  
-satatāviyuktamakṛtāpriyaṃ priyaṃ  ē̃ vṛṣasenavatsala vihāya yāsi mām  // 5.14 //  
-  
-*punarmohamupagataḥ**  
-  
-  
-*sarve samāśvāsayanti**  
-  
-  
-&duryodhanaḥ&:  
-VERSE_5.15  
-mama prāṇādhike tasminnaṅgānāmadhipe hate  /  
-ucchvasannapi lajje 'hamāśvāse tāta kā kathā  // 5.15 //  
-  
-api ca  
-VERSE_5.16  
-śocāmi śocyamapi śatruhataṃ na vatsaṃ  $ duḥśāsanaṃ tamadhunā na ca bandhuvargam  &  
-yenātiduḥśravamasādhu kṛtaṃ tu karṇe  ē̃ kartāsmi tasya nidhanaṃ samare kulasya  // 5.16 //  
-  
-  
-  
-&gāndhārī&:  
-{Pkt_153}jāda siḍhilehi dāva khaṇamettaṃ bapphamokkhaṃ  /  
-  
-  
-SktCh_153: jāta śithilaya tāvatkṣaṇamātraṃ bāṣpamokṣam  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa kṣaṇamātraṃ parimārjayāśrūṇi  /  
-  
-  
-&duryodhanaḥ&:  
-VERSE_5.17  
-māmuddiśya tyajanprāṇānkenacinna nivāritaḥ  /  
-tatkṛte tyajato bāṣpaṃ kiṃ me dīnasya vāryate  // 5.17 //  
-  
-sūta kenaitadasaṃbhāvanīyamasmatkulāntakaraṃ karma kṛtaṃ syāt  /  
-  
-  
-&sūtaḥ&:  
-āyuṣmannevaṃ kila janaḥ kathayati  /  
-VERSE_5.18  
-bhūmau nimagnacakraścakrāyudhasāratheḥ śaraistasya  /  
-nihataḥ kilendrasūnorasmatsenākṛtāntasya  // 5.18 //  
-  
-  
-  
-&duryodhanaḥ&:  
-VERSE_5.19  
-karṇānanendusmaraṇātkṣubhitaḥ śokasāgaraḥ  /  
-vāḍaveneva śikhinā pīyate krodhajena me  // 5.19 //  
-  
-tāta amba prasīdatam  /  
-VERSE_5.20  
-jvalanaḥ śokajanmā māmayaṃ dahati duḥsahaḥ  /  
-samānāyāṃ vipattau me varaṃ saṃśayito raṇaḥ  // 5.20 //  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-*duryodhanaṃ pariṣvajya rudan**  
-  
-VERSE_5.21  
-bhavati tanaya satyaṃ saṃśayaḥ sāhaseṣu  $ dravati hṛdayametadbhīmamutprekṣya bhīmam  &  
-anikṛtinipuṇaṃ te ceṣṭitaṃ mānaśauṇḍa  ē̃ cchalabahulamarīṇāṃ saṃgaraṃ hā hato 'smi  // 5.21 //  
-  
-  
-  
-&gāndhārī&:  
-{Pkt_154}jāda teṇa evva sudasadakadanteṇa viodaleṇa samaṃ samalaṃ maggesi  /  
-  
-  
-SktCh_154: jāta tenaiva sutaśatakṛtāntena vṛkodareṇa samaṃ samaraṃ mārgayase  /  
-  
-  
-&duryodhanaḥ&:  
-tiṣṭhatu tāvadvṛkodaraḥ  /  
-VERSE_5.22  
-pāpena yena hṛdayasthamanoratho me  $ sarvāṅgacandanaraso nayanāmalenduḥ  &  
-putrastavāmba tava tāta nayaikaśiṣyo  ē̃ karṇo hataḥ sapadi tatra śarāḥ patantu  // 5.22 //  
-  
-sūta alamidānīṃ kālātipātena  / sajjaṃ me rathamupāhara  / bhayaṃ cetpāṇḍavebhyastiṣṭha  / gadāmātrasahāya eva samarabhuvamavatarāmi  /  
-  
-  
-&sūtaḥ&:  
-alamanyathā saṃbhāvitena  / ayamahamāgata eva  /*iti niṣkrāntaḥ**  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa duryodhana yadi sthira evāsmāndagdhumayaṃ te vyavasāyastatsaṃnihiteṣu vīreṣu senāpatiḥ kaścidabhiṣicyatām  /  
-  
-  
-&duryodhanaḥ&:  
-nanvabhiṣikta eva  /  
-  
-  
-&gāndhārī&:  
-{Pkt_155}jāda kadaro uṇa so jahiṃ edaṃ hadāsaṃ olambissaṃ  /  
-  
-  
-SktCh_155: jāta kataraḥ punaḥ sa yatremāṃ hatāśāmavalambiṣye  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-kiṃ vā śalya uta vāśvatthāmā  /  
-  
-&saṃjayaḥ&:  
-hā kaṣṭam  /  
-VERSE_5.23  
-gate bhīṣme hate droṇe karṇe ca vinipātite  /  
-āśā balavatī rājañśalyo jeṣyati pāṇḍavān  // 5.23 //  
-  
-  
-  
-&duryodhanaḥ&:  
-kiṃ vā śalyenota vāśvatthāmnā  /  
-VERSE_5.24  
-karṇāliṅganadāyī vā pārthaprāṇaharo 'pi vā  /  
-anivāritasaṃpātairayamātmāśruvāribhiḥ  // 5.24 //  
-  
-  
-*nepathye kalakalaṃ kṛtvā**  
-  
-  
-bho bhoḥ kauravabalapradhānayodhā alamasmānavalokya bhayāditastato gamanena  / kathayantu bhavantaḥ kasminnuddeśe suyodhanastiṣṭhati  /  
-  
-*sarve sasaṃbhramamākarṇayanti**  
-  
-*praviśya saṃbhrāntaḥ**  
-  
-  
-&sūtaḥ&:  
-āyuṣman  
-VERSE_5.25  
-prāptāvekarathārūḍhau pṛcchantau tvāmitastataḥ  /  
-  
-  
-  
-&sarve&:  
-kaśca kaśca  /  
-  
-  
-&sūtaḥ&:  
-VERSE_5.25  
-sa karṇāriḥ sa ca krūro vṛkakarmā vṛkodaraḥ  // 5.25 //  
-  
-  
-  
-&gāndhārī&:  
-{Pkt_156}*sabhayam**  
-jāda kiṃ ettha paḍipajjidavvaṃ  /  
-  
-  
-SktCh_156: jāta kimatra pratipattavyam  /  
-  
-  
-&duryodhanaḥ&:  
-nanu saṃnihitaiveyaṃ gadā  /  
-  
-  
-&gāndhārī&:  
-{Pkt_157}hā hadamhi mandabhāiṇī  /  
-  
-  
-SktCh_157: hā hatāsmi mandabhāginī  /  
-  
-  
-&duryodhanaḥ&:  
-amba alamidānīṃ kārpaṇyena  / saṃjaya rathamāropya pitarau śibiraṃ pratiṣṭhasva  / prāpto 'smacchokāpanodapraṇayī janaḥ  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa kṣaṇamekaṃ pratīkṣasva yāvadanayorbhāvamupalabhe  /  
-  
-  
-&duryodhanaḥ&:  
-tāta kimanenopalabdhena  /  
-  
-*tathā praviśato rathārūḍhau bhīmārjunau**  
-  
-  
-&bhīmaḥ&:  
-bho bhoḥ suyodhanānujīvinaḥ kimiti saṃbhramādayathāyathaṃ caranti bhavantaḥ  / alamāvayoḥ śaṅkayā  /  
-VERSE_5.26  
-kartā dyūtacchalānāṃ jatumayaśaraṇoddīpanaḥ so 'timānī  $ kṛṣṇākeśottarīyavyapanayanamarutpāṇḍavā yasya dāsāḥ  &  
-rājā duḥśāsanādergururanujaśatasyāṅgarājasya mitraṃ  ē̃ kvāste duryodhano 'sau kathayata na ruṣā draṣṭumāgatau svaḥ  // 5.26 //  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-saṃjaya dāruṇaḥ khalūpakṣepaḥ pāpasya  /  
-  
-  
-&saṃjayaḥ&:  
-tāta karmaṇā kṛtaniḥśeṣavipriyāḥ saṃprati vācā vyavasyanti  /  
-  
-  
-&duryodhanaḥ&:  
-sūta kathaya gatvobhayorayaṃ tiṣṭhatīti  /  
-  
-  
-&sūtaḥ&:  
-yadājñāpayati devaḥ  /*tāvupasṛtya**  
-bho vṛkodarārjunau eṣa mahārājastātenāmbayā ca saha nyagrodhacchāyāyāmupaviṣṭastiṣṭhati  /  
-  
-  
-&arjunaḥ&:  
-ārya prasīda  / na yuktaṃ putraśokapīḍitau pitarau punarasmaddarśanenodvejayitum  / tadgacchāvaḥ  /  
-  
-  
-&bhīmaḥ&:  
-mūḍha anullaṅghanīyaḥ sadācāraḥ  / na yuktamanabhivādya gurūngantum  /*upasṛtya**  
-saṃjaya pitrornamaskṛtiṃ śrāvaya  / atha vā tiṣṭha  / svayaṃ viśrāvya nāmakarmaṇī vandanīyā guravaḥ  /*iti rathādavatarataḥ**  
-  
-  
-  
-&arjunaḥ&:  
-*upagamya**  
-tāta amba  
-VERSE_5.27  
-sakalaripujayāśā yatra baddhā sutaiste  $ tṛṇamiva paribhūto yasya garveṇa lokaḥ  &  
-raṇaśirasi nihantā tasya rādhāsutasya  ē̃ praṇamati pitarau vāṃ madhyamaḥ pāṇḍavo 'yam  // 5.27 //  
-  
-  
-  
-&bhīmaḥ&:  
-VERSE_5.28  
-cūrṇitāśeṣakauravyaḥ kṣībo duḥśāsanāsṛjā  /  
-bhaṅktā suyodhanasyorvorbhīmo 'yaṃ śirasāñcati  // 5.28 //  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-durātmanvṛkodara na khalvidaṃ bhavataiva kevalaṃ sapatnānāmapakṛtam  / yāvatkṣatraṃ tāvatsamaravijayino jitā hatāśca vīrāḥ  / tatkimevaṃ vikatthanābhirasmānudvejayasi  /  
-  
-  
-&bhīmaḥ&:  
-tāta alaṃ manyunā  /  
-VERSE_5.29  
-kṛṣṭā keśeṣu kṛṣṇā tava sadasi puraḥ pāṇḍavānāṃ nṛpairyaiḥ  $ sarve te krodhavahnau kṛtaśalabhakulāvajñayā yena dagdhāḥ  &  
-etasmācchrāvaye 'haṃ na khalu bhujabalaślāghayā nāpi darpā-  ē̃ tputraiḥ pautraiśca karmaṇyatiguruṇi kṛte tāta sākṣī tvameva  // 5.29 //  
-  
-  
-  
-&duryodhanaḥ&:  
-are re maruttanaya kimevaṃ vṛddhasya rājñaḥ purato ninditavyamātmakarma ślāghase  / api ca  
-VERSE_5.30  
-kṛṣṭā keśeṣu bhāryā tava tava ca paśostasya rājñaḥ tayorvā  $ pratyakṣaṃ bhūpatīnāṃ mama bhuvanapaterājñayā dyūtadāsī  &  
-asminvairānubandhe vada kimapakṛtaṃ tairhatā ye narendrā  ē̃ bāhvorvīryātirekadraviṇagurumadaṃ māmajitvaiva darpaḥ  // 5.30 //  
-  
-āḥ durātman  / eṣa na bhavasi  /*iti sakrodhamutthāya hantumicchati**  
-  
-  
-*dhṛtarāṣṭro dhṛtvopaveśayati  / bhīmaḥ krodhaṃ nāṭayati**  
-  
-  
-&arjunaḥ&:  
-ārya prasīda  / kimatra krodhena  /  
-VERSE_5.31  
-apriyāṇi karotyeṣa vācā śakto na karmaṇā  /  
-hatabhrātṛśato duḥkhī pralāpairasya kā vyathā  // 5.31 //  
-  
-  
-  
-&bhīmaḥ&:  
-are re bharatakulakalaṅka  
-VERSE_5.32  
-atraiva kiṃ na viśaseyamahaṃ bhavantaṃ  $ duḥśāsanānugamanāya kaṭupralāpin  &  
-vighnaṃ gurū na kuruto yadi madgadāgra-  ē̃ nirbhidyamānaraṇitāsthani te śarīre  // 5.32 //  
-  
-anyacca mūḍha  
-VERSE_5.33  
-śokaiḥ strīvannayanasalilaṃ yatparityājito 'si  $ bhrāturvakṣaḥsthalavighaṭane yacca sākṣīkṛto 'si  &  
-āsīdetattava kunṛpateḥ kāraṇaṃ jīvitasya  ē̃ kruddhe yuṣmatkulakamalinīkuñjare bhīmasene  // 5.33 //  
-  
-  
-  
-&duryodhanaḥ&:  
-durātmanbharatakulāpasada dyūtadāsa pāṇḍavapaśo nāhaṃ bhavāniva vikatthanāpragalbhaḥ  / kiṃ tu  
-VERSE_5.34  
-drakṣyanti na cirātsuptaṃ bāndhavāstvāṃ raṇāṅgaṇe  /  
-madgadābhinnavakṣo 'sthiveṇikābhīmabhūṣaṇam  // 5.34 //  
-  
-  
-  
-&bhīmaḥ&:  
-*vihasya**  
-yadyevaṃ nāśraddheyo bhavān  / tathāpi pratyāsannameva kathayāmi  /  
-VERSE_5.35  
-pīnābhyāṃ madbhujābhyāṃ bhramitagurugadāghātasaṃcūrṇitoroḥ  $ krūrasyādhāya pādaṃ tava śirasi nṛṇāṃ paśyatāṃ śvaḥ prabhāte  &  
-tvanmukhyabhrātṛcakroddalanagaladasṛkcandanenānakhāgraṃ  ē̃ styānenārdreṇa cāktaḥ svayamanubhavitā bhūṣaṇaṃ bhīmamasmi  // 5.35 //  
-  
-  
-*nepathye**  
-  
-  
-bho bho bhīmasenārjunau eṣa khalu nihatāśeṣārāticakra ākrāntaparaśurāmābhirāmayaśāḥ pratāpatāpitadiṅmaṇḍalasthāpitasvajanaḥ śrīmānajātaśatrurdevo yudhiṣṭhiraḥ samājñāpayati  /  
-  
-  
-&ubhau&:  
-kimājñāpayatyāryaḥ  /  
-  
-*punarnepathye**  
-  
-  
-VERSE_5.36  
-kurvantvāptā hatānāṃ raṇaśirasi janā vahnisāddehabhārā-  $ naśrūnmiśraṃ kathaṃciddadatu jalamamī bāndhavā bāndhavebhyaḥ  &  
-mārgantāṃ jñātidehānhatanaragahane khaṇḍitāngṛdhrakaṅkai-  ē̃ rastaṃ bhāsvānprayātaḥ saha ripubhirayaṃ saṃhriyantāṃ balāni  // 5.36 //  
-  
-  
-  
-&ubhau&:  
-yadājñāpayatyāryaḥ  /*iti niṣkrāntau**  
-  
-  
-*nepathye**  
-  
-  
-are re gāṇḍīvākarṣaṇabāhuśālinnarjunārjuna kvedānīṃ gamyate  /  
-VERSE_5.37  
-karṇakrodhena yuṣmadvijayi dhanuridaṃ tyaktametānyahāni  $ prauḍhaṃ vikrāntamāsīdvana iva bhavatāṃ śūraśūnye raṇe 'smin  &  
-sparśaṃ smṛtvottamāṅge pituranavajitanyastaheterupetaḥ  ē̃ kalpāgniḥ pāṇḍavānāṃ drupadasutacamūghasmaro drauṇirasmi  // 5.37 //  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-*ākarṇya saharṣam**  
-vatsa duryodhana droṇavadhaparibhavoddīpitakrodhapāvakaḥ piturapi samadhikabalaḥ śikṣāvānamaropamaścāyamaśvatthāmā prāptaḥ  / tatpratyupagamanena tāvadayaṃ saṃbhāvyatāṃ vīraḥ  /  
-  
-  
-&gāndhārī&:  
-{Pkt_158}jāda paccuggaccha edaṃ mahābhāaṃ  /  
-  
-  
-SktCh_158: jāta pratyudgacchainaṃ mahābhāgam  /  
-  
-  
-&duryodhanaḥ&:  
-tāta amba kimanenāṅgarājavadhāśaṃsinā vṛthāyauvanaśastrabalabhareṇa  /  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa na khalvasminkāle parākramavatāmevaṃvidhānāṃ vāṅmātreṇāpi virāgamutpādayitumarhasi  /  
-  
-*praviśya**  
-  
-  
-&aśvatthāmā&:  
-vijayatāṃ kauravādhipatiḥ  /  
-  
-  
-&duryodhanaḥ&:  
-*utthāya**  
-guruputra ita āsyatām  /*ityupaveśayati**  
-  
-  
-  
-&aśvatthāmā&:  
-rājanduryodhana  
-VERSE_5.38  
-karṇena karṇasubhagaṃ bahu yattaduktvā  $ yatsaṃgareṣu vihitaṃ viditaṃ tvayā tat  &  
-drauṇistvadhijyadhanurāpatito 'bhyamitra-  ē̃ meṣo 'dhunā tyaja nṛpa pratikāracintām  // 5.38 //  
-  
-  
-  
-&duryodhanaḥ&:  
-*sābhyasūyam**  
-ācāryaputra  
-VERSE_5.39  
-avasāne 'ṅgarājasya yoddhavyaṃ bhavatā kila  /  
-mamāpyantaṃ pratīkṣasva kaḥ karṇaḥ kaḥ suyodhanaḥ  // 5.39 //  
-  
-  
-  
-&aśvatthāmā&:  
-*svagatam**  
-kathamadyāpi sa eva karṇapakṣapāto 'smāsu ca paribhavaḥ  /*prakāśam**  
-rājankauraveśvara evaṃ bhavatu  /*iti niṣkrāntaḥ**  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa ka eṣa te vyāmoho yadasminnapi kāle evaṃvidhasya mahābhāgasyāśvatthāmno vākpāruṣyeṇāparāgamutpādayasi  /  
-  
-  
-&duryodhanaḥ&:  
-kimasyāpriyamanṛtaṃ ca mayoktam  / kiṃ vā nedaṃ krodhasthānam  / paśya  /  
-VERSE_5.40  
-akalitamahimānaṃ kṣatriyairāttacāpaiḥ  $ samaraśirasi yuṣmadbhāgyadoṣādvipannam  &  
-parivadati samakṣaṃ mitramaṅgādhirājaṃ  ē̃ mama khalu kathayāsminko viśeṣo 'rjune vā  // 5.40 //  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-vatsa tavāpi ko 'tra doṣaḥ  / avasānamidānīṃ bharatakulasya  / saṃjaya kimidānīṃ karomi mandabhāgyaḥ  /*vicintya**  
-bhavatvevaṃ tāvat  / saṃjaya madvacanādbrūhi bhāradvājamaśvatthāmānam  /  
-VERSE_5.41  
-smarati na bhavānpītaṃ stanyaṃ vibhajya sahāmunā  $ mama ca mṛditaṃ kṣaumaṃ bālye tvadaṅgavivartanaiḥ  &  
-anujanidhanasphītācchokādatipraṇayācca ya-  ē̃ dvacanavikṛtiṣvasya krodho mudhā kriyate tvayā  // 5.41 //  
-  
-  
-  
-&saṃjayaḥ&:  
-yadājñāpayati tātaḥ  /*ityuttiṣṭhati**  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-api cedamanyattvayā vaktavyam  /  
-VERSE_5.42  
-yanmocitastava pitā vitathena śastraṃ  $ yattādṛśaḥ paribhavaḥ sa tathāvidho 'bhūt  &  
-etadvicintya balamātmani pauruṣaṃ ca  ē̃ duryodhanoktamapahāya vidhāsyasīti  // 5.42 //  
-  
-  
-  
-&saṃjayaḥ&:  
-yadājñāpayati tātaḥ  /*iti niṣkrāntaḥ**  
-  
-  
-  
-&duryodhanaḥ&:  
-sūta sāṃgrāmikaṃ me rathamupakalpaya  /  
-  
-  
-&sūtaḥ&:  
-yadājñāpayatyāyuṣmān  /*iti niṣkrāntaḥ**  
-  
-  
-  
-&dhṛtarāṣṭraḥ&:  
-gāndhāri ito vayaṃ madrādhipateḥ śalyasya śibirameva gacchāvaḥ  / vatsa tvamapyevaṃ kuru  /  
-  
-*iti parikramya niṣkrāntāḥ sarve**  
-  
-iti pañcamo 'ṅkaḥ  /  
-  
-ACT_6  
-ṣaṣṭho 'ṅkaḥ  /  
-*tataḥ praviśatyāsanastho yudhiṣṭhiro draupadī ceṭī puruṣaśca**  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*vicintya niḥśvasya ca**  
-  
-VERSE_6.1  
-tīrṇe bhīṣmamahodadhau kathamapi droṇānale nirvṛte  $ karṇāśīviṣabhogini praśamite śalye ca yāte divam  &  
-bhīmena priyasāhasena rabhasātsvalpāvaśeṣe jaye  ē̃ sarve jīvitasaṃśayaṃ vayamamī vācā samāropitāḥ  // 6.1 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_159}*sabāṣpam**  
-mahārāa pañcālie tti kiṃ ṇa bhaṇidaṃ  /  
-  
-  
-SktCh_159: mahārāja pāñcālyeti kiṃ na bhaṇitam  /  
-  
-  
-&yadhiṣṭhiraḥ&:  
-kṛṣṇe nanu mayā  /*puruṣamavalokya**  
-budhaka  /  
-  
-  
-&puruṣaḥ&:  
-deva ājñāpaya  /  
-  
-  
-&yadhiṣṭhiraḥ&:  
-ucyatāṃ sahadevaḥ  / kruddhasya vṛkodarasyāparyuṣitadāruṇāṃ pratijñāmupalabhya pranaṣṭasya māninaḥ kauravarājasya padavīmanveṣṭumatinipuṇamatayasteṣu teṣu sthāneṣu paramārthābhijñāścarāḥ susacivāśca bhaktimantaḥ paṭupaṭaharavavyaktaghoṣaṇāḥ suyodhanasaṃcāravedinaḥ pratiśrutadhanapūjāpratyupakriyāścarantu samantātsamantapañcakam  / api ca  
-VERSE_6.2  
-paṅke vā saikate vā sunibhṛtapadavīvedino yāntu dāśāḥ  $ kuñjeṣu kṣuṇṇavīrunnicayaparicayā ballavāḥ saṃcarantu  &  
-vyādhā vyāghrāṭavīṣu svaparapadavido ye ca randhreṣvabhijñā  ē̃ ye siddhavyañjanā vā pratimuninilayaṃ te ca cārāścarantu  // 6.2 //  
-  
-  
-  
-&puruṣaḥ&:  
-yadājñāpayati devaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-tiṣṭha  / evaṃ ca vaktavyaḥ sahadevaḥ  /  
-VERSE_6.3  
-jñeyā rahaḥ śaṅkitamālapantaḥ  $ suptā rugārtā madirāvidheyāḥ  &  
-trāso mṛgāṇāṃ vayasāṃ virāvo  ē̃ nṛpāṅkapādapratimāśca yatra  // 6.3 //  
-  
-  
-  
-&puruṣaḥ&:  
-yadājñāpayati devaḥ  /*iti niṣkramya punaḥ praviśya saharṣam**  
-deva pāñcālakaḥ prāptaḥ  /  
-  
-  
-&yadhiṣṭhiraḥ&:  
-tvaritaṃ praveśaya  /  
-  
-  
-&puruṣaḥ&:  
-*niṣkramya pāñcālakena saha praviśya**  
-eṣa devaḥ  / upasarpatu pāñcālakaḥ  /  
-  
-  
-&pāñcālakaḥ&:  
-jayatu jayatu devaḥ  / priyamāvedayāmi mahārājāya devyai ca  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-bhadra pāñcālaka kaccidāsāditā tasya durātmanaḥ kauravādhamasya padavī  /  
-  
-  
-&pāñcālakaḥ&:  
-deva na kevalaṃ padavī  / sa eva durātmā devīkeśāmbarākarṣaṇamahāpātakapradhānaheturupalabdhaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-sādhu  / bhadra priyamāveditam  / atha darśanagocaraṃ gataḥ  /  
-  
-  
-&pāñcālakaḥ&:  
-deva samaragocaraṃ pṛccha  /  
-  
-  
-&draupadī&:  
-{Pkt_160}*sabhayam**  
-kahaṃ samaragoaro vaṭṭai me ṇāho  /  
-  
-  
-SktCh_160: kathaṃ samaragocaro vartate me nāthaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*sāśaṅkam**  
-satyaṃ samaragocaro me vatsaḥ  /  
-  
-  
-&pāñcālakaḥ&:  
-satyam  / kimanyathā vakṣyate mahārājāya  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-VERSE_6.4  
-trastaṃ vināpi vaṣayāduruvikramasya  $ ceto vivekaparimantharatāṃ prayāti  &  
-jānāmi codyatagadasya vṛkodarasya  ē̃ sāraṃ raṇeṣu bhujayoḥ pariśaṅkitaśca  // 6.4 //  
-  
-*draupadīmavalokya**  
-ayi sukṣatriye  
-VERSE_6.5  
-gurūṇāṃ bandhūnāṃ kṣitipatisahasrasya ca puraḥ  $ purābhūdasmākaṃ nṛpasadasi yo 'yaṃ paribhavaḥ  &  
-priye prāyastasya dvitayamapi pāraṃ gamayati  ē̃ kṣayaḥ prāṇānāṃ naḥ kurupatipaśorvādya nidhanam  // 6.5 //  
-  
-atha vā kṛtaṃ saṃdehena  /  
-VERSE_6.6  
-nūnaṃ tenādya vīreṇa pratijñābhaṅgabhīruṇā  /  
-badhyate keśapāśaste sa cāsyākarṣaṇakṣamaḥ  // 6.6 //  
-  
-pāñcālaka kathaya kathaya kathamupalabdhaḥ sa durātmā kasminnuddeśe kiṃ vādhunā pravṛttamiti  /  
-  
-  
-&draupadī&:  
-{Pkt_161}bhadda kahehi kahehi  /  
-  
-  
-SktCh_161: bhadra kathaya kathaya  /  
-  
-  
-&pāñcālakaḥ&:  
-śṛṇotu devo devī ca  / astīha devena hate madrādhipatau śalye gāndhārarājakulaśalabhe sahadevaśastrānalaṃ praviṣṭe senāpatinidhananirākrandaviralayodhojjhitāsu samarabhūmiṣu ripubalaparājayoddhatavalgitavicitraparākramāsāditavimukhārāticakrāsu dhṛṣṭadyumnādhiṣṭhitāsu ca yuṣmatsenāsu pranaṣṭeṣu kṛpakṛtavarmāśvatthāmasu tathā dāruṇāmaparyuṣitāṃ pratijñāmupalabhya kumāravṛkodarasya na jñāyate kvāpi pralīnaḥ sa durātmā kauravādhamaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-tatastataḥ  /  
-  
-  
-&draupadī&:  
-{Pkt_162}ayi parado kahehi  /  
-  
-  
-SktCh_162: ayi parataḥ kathaya  /  
-  
-  
-&pāñcālakaḥ&:  
-avadhattāṃ devo devī ca  / tataśca bhagavatā vāsudevenādhiṣṭhitamekarathamārūḍhau kumārabhīmārjunau samantātsamantapañcakaṃ paryaṭitumārabdhau tamanāsāditavantau ca  / anantaraṃ daivamanuśocati mādṛśe bhṛtyavarge dīrghamuṣṇaṃ ca niśvasati kumāre bībhatsau jaladharasamayaniśāsaṃcāritataḍitprakarapiṅgalaiḥ kaṭākṣairādīpayati gadāṃ vṛkodare yatkiṃcanakāritāmadhikṣipati vidherbhagavati nārāyaṇe kaścitsaṃviditaḥ kumārasya māruterujjhitamāṃsabhāraḥ pratyagraviśasitamṛgalohitacaraṇanivasanastvaramāṇo 'ntikamupetya puruṣaḥ paruṣaśvāsagrastārdhaśrutavarṇānumeyapadayā vācā kathitavān  / kumāra asminmahato 'sya sarasastīre dve padapaddhatī samavatīrṇapratibimbe  / tayorekā sthalamuttīrṇā na dvitīyā  / paratra kumāraḥ pramāṇamiti  / tataḥ sasaṃbhramaṃ prasthitāḥ sarve vayaṃ tameva puraskṛtya  / gatvā ca sarastīraṃ parijñāyamānasuyodhanapadalāñchanāṃ padavīmāsādya bhagavatā vāsudevenoktam  / bho vīra vṛkodara jānāti kila suyodhanaḥ salilastambhanīṃ vidyām  / tannūnaṃ tena tvadbhayātsarasīmenāmadhiśayitena bhavitavyam  / etacca vacanamupaśrutya rāmānujasya sakaladiṅnikuñjapūritātiriktamudbhrāntasalilacaraśakuntakulaṃ trāsoddhatanakragrāhamāloḍya saraḥsalilaṃ bhairavaṃ ca garjitvā kumāravṛkodareṇābhihitam  / are re vṛthāprakhyāpitālīkapauruṣābhimāninpāñcālarājatanayākeśāmbarākarṣaṇamahāpātakindhārtarāṣṭrāpasada  
-VERSE_6.7  
-janmendoramale kule vyapadiśasyadyāpi dhatse gadāṃ  $ māṃ duḥśāsanakoṣṇaśoṇitamadhukṣībaṃ ripuṃ manyase  &  
-darpāndho madhukaiṭabhadviṣi harāvapyuddhataṃ ceṣṭase  ē̃ trāsānme nṛpaśo vihāya samaraṃ paṅke 'dhunā līyase  // 6.7 //  
-  
-api ca bho mānandha  
-VERSE_6.8  
-pāñcālyā manyuvahniḥ sphuṭamupaśamitaprāya eva prasahya  $ vyāsaktaiḥ keśapāśairhatapatiṣu mayā kauravāntaḥpureṣu  &  
-bhrāturduḥśāsanasya sravadasṛgurasaḥ pīyamānaṃ nirīkṣya  ē̃ krodhātkiṃ bhīmasene vihitamasamaye yattvayāsto 'bhimānaḥ  // 6.8 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_163}ṇāha abaṇīdo me maṇṇū jai puṇo bi sulahaṃ daṃsaṇaṃ bhavissadi  /  
-  
-  
-SktCh_163: nātha apanīto me manyuryadi punarapi sulabhaṃ darśanaṃ bhaviṣyati  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kṛṣṇe nāmaṅgalāni vyāhartumarhasyasminkāle  / bhadra tatastataḥ  /  
-  
-  
-&pāñcālakaḥ&:  
-tataścaivaṃ bhāṣamāṇena vṛkodareṇāvatīrya krodhoddhatabhramitabhīṣaṇagadāpāṇinā sahasaivollaṅghitatīramutsannanalinīvanamapaviddhamūrcchitagrāhamudbhrāntamatsyaśakuntamatibhairavāravabhramitavārisaṃcayamāyatamapi tatsaraḥ samantādāloḍitam  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-bhadra tathāpi kiṃ notthitaḥ  /  
-  
-  
-&pāñcālakaḥ&:  
-deva kathaṃ notthitaḥ  /  
-VERSE_6.9  
-tyaktvotthitaḥ sarabhasaṃ sarasaḥ sa mūla-  $ mudbhūtakopadahanograviṣasphuliṅgaḥ  &  
-āyastabhīmabhujamandaravellanābhiḥ  ē̃ kṣīrodadheḥ sumathitādiva kālakūṭaḥ  // 6.9 //  
-  
-  
-  
-&yudhiṣṭhiraḥ&:  
-sādhu sukṣatriya sādhu  /  
-  
-  
-&draupadī&:  
-{Pkt_164}paḍibaṇṇo samaro ṇa vā  /  
-  
-  
-SktCh_164: pratipannaḥ samaro na vā  /  
-  
-  
-&pāñcālakaḥ&:  
-utthāya ca tasmātsalilāśayātkarayugalottambhitatoraṇīkṛtabhīmagadaḥ kathayati sma  / are re mārute kiṃ bhayena pralīnaṃ duryodhanaṃ manyate bhavān  / mūḍha anihatapāṇḍuputraḥ prakāśaṃ lajjamāno viśramitumadhyavasitavānasmi pātālam  / evaṃ cokte vāsudevakirīṭibhyāṃ dvāvapyantaḥsalilaṃ niṣiddhasamarasamārambhau sthalamuttāritau bhīmasuyodhanau  / āsīnaśca kauravarājaḥ kṣititale gadāṃ nikṣipya viśīrṇarathasahasraṃ nihatakuruśatagajavājinarasahasrakalevarasaṃmardasaṃpatadgṛdhrakaṅkajambūkamutsannasuyodhamasmadvīramuktasiṃhanādamapamitrabāndhavamakauravaṃ raṇasthānamavalokyāyatamuṣṇaṃ ca niḥśvasitavān  / tataśca vṛkodareṇābhihitam  / ayi bhoḥ kauravarāja kṛtaṃ bandhunāśadarśanamanyunā  / maivaṃ viṣādaṃ kṛthāḥ paryāptāḥ pāṇḍavāḥ samarāyāhamasahāya iti  /  
-VERSE_6.10  
-pañcānāṃ manyase 'smākaṃ yaṃ suyodhaṃ suyodhana  /  
-daṃśitasyāttaśastrasya tena te 'stu raṇotsavaḥ  // 6.10 //  
-  
-itthaṃ ca śrutvānasūyānvitāṃ dṛṣṭiṃ kumārayornikṣipyoktavāndhārtarāṣṭraḥ  /  
-VERSE_6.11  
-karṇaduḥśāsanavadhāttulyāveva yuvāṃ mama  /  
-apriyo 'pi priyo yoddhuṃ tvameva priyasāhasaḥ  // 6.11 //  
-  
-ityutthāya parasparakrodhādhikṣepaparuṣavākkalahaprastāvitaghorasaṃgrāmau vicitravibhramabhramitagadāparibhāsurabhujadaṇḍau maṇḍalairvicaritumārabdhau bhīmaduryodhanau  / ahaṃ ca devena cakrapāṇinā devasakāśamanupreṣitaḥ  / āha ca devo devakīnandanaḥ  / aparyuṣitapratijñe ca mārutau pranaṣṭe kauravarāje mahānāsīnno viṣādaḥ  / saṃprati punarbhīmasenenāsādite suyodhane niṣkaṇṭakībhūtaṃ bhuvanatalaṃ parikalayatu bhavān  / abhyudayocitāścānavarataṃ pravartyantāṃ maṅgalasamārambhāḥ  / kṛtaṃ saṃdehena  /  
-VERSE_6.12  
-pūryantāṃ salilena ratnakalaśā rājyābhiṣekāya te  $ kṛṣṇātyantacirojjhite ca kabarībandhe karotu kṣaṇam  &  
-rāme śātakuṭhārabhāsurakare kṣatradrumocchedini  ē̃ krodhāndhe ca vṛkodare paripatatyājau kutaḥ saṃśayaḥ  // 6.12 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_165}*sabāṣpam**  
-jaṃ devo tihuaṇaṇāho bhaṇādi taṃ kahaṃ aṇṇahā bhavissadi  /  
-  
-  
-SktCh_165: yaddevastribhuvananātho bhaṇati tatkathamanyathā bhaviṣyati  /  
-  
-  
-&pāñcālakaḥ&:  
-na kevalamiyamāśīḥ  / asuraniṣūdanasyādeśo 'pi  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-ko hi nāma bhagavatā saṃdiṣṭaṃ vikalpayati  / kaḥ ko 'tra bhoḥ  /  
-  
-*praviśya**  
-  
-  
-&kañcukī&:  
-ājñāpayatu devaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-devasya devakīnandanasya bahumānādvatsasya me vijayamaṅgalāya pravartyantāṃ taducitāḥ samārambhāḥ  /  
-  
-  
-&kañcukī&:  
-yadājñāpayati devaḥ  /*sotsāhaṃ parikramya**  
-bho bhoḥ saṃvidhātḥṇāṃ puraḥsarā yathāpradhānamantarveśmikā dauvārikāśca eṣa khalu bhujabalaparikṣepottīrṇakauravaparibhavasāgarasya nirvyūḍhadurvahapratijñābhārasya suyodhanānujaśatonmūlanaprabhañjanasya duḥśāsanoraḥsthalavidalananārasiṃhasya duryodhanorustambhabhaṅgaviniścitavijayasya balinaḥ prābhañjanervṛkodarasya snehapakṣapātinā manasā maṅgalāni kartumājñāpayati devo yudhiṣṭhiraḥ  /*ākāśe**  
-kiṃ brūtha  / sarvato 'dhikataramapi pravṛttaṃ kiṃ nālokayasīti  / sādhu putrakāḥ sādhu  / anuktahitakāritā hi prakāśayati manogatāṃ svāmibhaktim  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-ārya jayaṃdhara  /  
-  
-  
-&kañcukī&:  
-ājñāpayatu devaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-gaccha priyakhyāpakaṃ pāñcālakaṃ pāritoṣikeṇa paritoṣaya  /  
-  
-  
-&kañcukī&:  
-yadājñāpayati devaḥ  /*iti pāñcālakena saha niṣkrāntaḥ**  
-  
-  
-  
-&draupadī&:  
-{Pkt_166}mahārāa kiṃṇimittaṃ uṇa ṇāhabhīmaseṇeṇa so durāāro bhaṇido  / pañcāṇaṃ bi amhāṇaṃ majjhe jeṇa de roadi teṇa saha de saṃgāmo hodu tti  / jai maddīsudāṇaṃ ekadareṇa saha saṃgāmo teṇa patthido bhave tado accāhidaṃ bhave  /  
-  
-  
-SktCh_166: mahārāja kiṃnimittaṃ punarnāthabhīmasenena sa durācāro bhaṇitaḥ  / pañcānāmapyasmākaṃ madhye yena te rocate tena saha te saṃgrāmo bhavatviti  / yadi mādrīsutayorekatareṇa saha saṃgrāmastena prārthito bhavettato 'tyāhitaṃ bhavet  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kṛṣṇe evaṃ manyate jarāsaṃdhaghātī  / hatasakalasuhṛdbandhuvīrānujarājanyāsu kṛpakṛtavarmāśvatthāmaśeṣāsvekādaśasvakṣauhiṇīṣvabāndhavaḥ śarīramātravibhavaḥ kadācidutsṛṣṭanijābhimāno dhārtarāṣṭraḥ parityajedāyudhaṃ tapovanaṃ vā vrajetsaṃdhiṃ vā pitṛmukhena yāceta  / evaṃ sati sudūramatikrāntaḥ pratijñābhāro bhavetsakalaripujayasyeti  / samaraṃ pratipattuṃ pañcānāmapi pāṇḍavānāmekasyāpi naiva kṣamaḥ suyodhanaḥ  / śaṅke cāhaṃ gadāyuddhaṃ vṛkodarasyaivānena  / ayi sukṣatriye paśya  /  
-VERSE_6.13  
-krodhodgūrṇagadasya nāsti sadṛśaḥ satyaṃ raṇe māruteḥ  $ kauravye kṛtahastatā punariyaṃ deve yathā sīriṇi  &  
-svastyastūddhatadhārtarāṣṭranalinīnāgāya vatsāya me  ē̃ śaṅke tasya suyodhanena samaraṃ naivetareṣāmaham  // 6.13 //  
-  
-  
-*nepathye**  
-  
-  
-tṛṣito 'smi bhostṛṣito 'smi  / saṃbhāvayatu kaścitsalilacchāyāsaṃpradānena mām  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*ākarṇya**  
-kaḥ ko 'tra bhoḥ  /  
-  
-*praviśya**  
-  
-  
-&kañcukī&:  
-ājñāpayatu devaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-jñāyatāṃ kimetat  /  
-  
-  
-&kañcukī&:  
-yadājñāpayati devaḥ  /*iti niṣkramya punaḥ praviśya**  
-deva kṣunmānatithirupasthitaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-śīghraṃ praveśaya  /  
-  
-  
-&kañcukī&:  
-yadājñāpayati devaḥ  /*iti niṣkrāntaḥ**  
-  
-  
-*tataḥ praviśati muniveṣadhārī cārvāko nāma rākṣasaḥ**  
-  
-  
-&rākṣasaḥ&:  
-*ātmagatam**  
-eṣo 'smi cārvāko nāma rākṣasaḥ  / suyodhanasya mitraṃ pāṇḍavānvañcayituṃ bhramāmi  /*prakāśam**  
-tṛṣito 'smi  / saṃbhāvayatu māṃ kaścijjalacchāyāpradānena  /*iti rājñaḥ samīpamupasarpati**  
-  
-  
-*sarva uttiṣṭhanti**  
-  
-  
-&yudhiṣṭhiraḥ&:  
-mune abhivādaye  /  
-  
-  
-&rākṣasaḥ&:  
-akālo 'yaṃ samudācārasya  / jalapradānena saṃbhāvayatu mām  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-mune idamāsanam  / upaviśyatām  /  
-  
-  
-&rākṣasaḥ&:  
-*upaviśya**  
-nanu bhavatāpi kriyatāmāsanaparigrahaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*upaviśya**  
-kaḥ ko 'tra bhoḥ  / salilamupanaya  /  
-  
-*praviśya gṛhītabhṛṅgāraḥ**  
-  
-  
-&kañcukī&:  
-*upasṛtya**  
-mahārāja śiśirasurabhisalilasaṃpūrṇo 'yaṃ bhṛṅgāraḥ pānabhājanaṃ cedam  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-mune nirvartyatāmudanyāpratikāraḥ  /  
-  
-  
-&rākṣasaḥ&:  
-*pādau prakṣalyopaspṛśanvicintya**  
-bhoḥ kṣatriyastvamiti manye  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-samyagvedī bhavān  / kṣatriya evāsmi  /  
-  
-  
-&rākṣasaḥ&:  
-sulabhaśca svajanavināśaḥ saṃgrāmeṣu pratidinamato nādeyaṃ bhavadbhyo jalādikam  / bhavatu  / chāyayaivānayā sarasvatīśiśirataraṃgaspṛśā marutā cānena vigataklamo bhaviṣyāmi  /  
-  
-  
-&draupadī&:  
-{Pkt_167}buddhimadie vīehi mahessiṃ imiṇā tālavinteṇa  /  
-  
-  
-SktCh_167: buddhimatike vījaya maharṣimanena tālavṛntena  /  
-  
-*ceṭī tathā karoti**  
-  
-  
-&rākṣasaḥ&:  
-bhavati anucito 'yamasmāsu samudācāraḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-mune kathaya kathamevaṃ bhavānpariśrāntaḥ  /  
-  
-  
-&rākṣasaḥ&:  
-munijanasulabhena kautūhalena tatrabhavatāṃ mahākṣatriyāṇāṃ dvandvayuddhamavalokayituṃ paryaṭāmi samantapañcakam  / adya tu balavattayā śaradātapasyāparyāptamevāvalokya gadāyuddhamarjunasuyodhanayorāgato 'smi  /  
-  
-*sarve viṣādaṃ nāṭayanti**  
-  
-  
-&kañcukī&:  
-mune na khalvevam  / bhīmasuyodhanayoriti kathaya  /  
-  
-  
-&rākṣasaḥ&:  
-āḥ aviditavṛttānta eva kathaṃ māmākṣipasi  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-maharṣe kathaya kathaya  /  
-  
-  
-&rākṣasaḥ&:  
-kṣaṇamātraṃ viśramya sarvaṃ kathayāmi bhavato na punarasya vṛddhasya  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kathaya kimarjunasuyodhanayoriti  /  
-  
-  
-&rākṣasaḥ&:  
-nanu pūrvameva kathitaṃ mayā pravṛttaṃ gadāyuddhamiti  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-na bhīmasuyodhanayoriti  /  
-  
-  
-&rākṣasaḥ&:  
-vṛttaṃ tat  /  
-  
-*yudhiṣṭhiro draupadī ca mohamupagatau**  
-  
-  
-&kañcukī&:  
-*salilenāsicya**  
-samāśvasitu devo devī ca  /  
-  
-  
-&ceṭī&:  
-{Pkt_168}samassasidu samassasidu devī  /  
-  
-  
-SktCh_168: samāśvasitu samāśvasitu devī  /  
-  
-*ubhau saṃjñāṃ labhete**  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kiṃ kathayasi mune vṛttaṃ bhīmasuyodhanayorgadāyuddhamiti  /  
-  
-  
-&draupadī&:  
-{Pkt_169}bhaavaṃ kahehi kahehi kiṃ vuttaṃ tti  /  
-  
-  
-SktCh_169: bhagavankathaya kathaya kiṃ vṛttamiti  /  
-  
-  
-&rākṣasaḥ&:  
-kañcukinkau punaretau  /  
-  
-  
-&kañcukī&:  
-brahmanneṣa devo yudhiṣṭhira iyamapi pāñcālarājatanayā  /  
-  
-  
-&rākṣasaḥ&:  
-āḥ dāruṇamupakrāntaṃ mayā nṛśaṃsena  /  
-  
-  
-&draupadī&:  
-{Pkt_170}hā ṇāha bhīmaseṇa  /*iti mohamupagatā**  
-  
-  
-SktCh_170: hā nātha bhīmasena  /  
-  
-  
-&kañcukī&:  
-kiṃ nāma kathitam  /  
-  
-  
-&ceṭī&:  
-{Pkt_171}samassasidu samassasidu devī  /  
-  
-  
-SktCh_171: samāśvasitu samāśvasitu devī  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*sāsram**  
-brahman  
-VERSE_6.14  
-pade saṃdigdha evāsminduḥkhamāste yudhiṣṭhiraḥ  /  
-vatsasya niścite tattve prāṇatyāgādayaṃ sukhī  // 6.14 //  
-  
-  
-  
-&rākṣasaḥ&:  
-*sānandamātmagatam**  
-atraiva me yatnaḥ  /*prakāśam**  
-yadi tvavaśyaṃ kathanīyaṃ tadā saṃkṣepataḥ kathayāmi  / na yuktaṃ bandhuvyasanaṃ vistareṇāvedayitum  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*aśrūṇi muñcan**  
-  
-VERSE_6.15  
-sarvathā kathaya brahmansaṃkṣepādvistareṇa vā  /  
-vatsasya kimapi śrotumeṣa dattaḥ kṣaṇo mayā  // 6.15 //  
-  
-  
-  
-&rākṣasaḥ&:  
-śrūyatām  /  
-VERSE_6.16  
-tasminkauravabhīmayorgurugadāghoradhvanau saṃyuge  
-  
-  
-  
-&draupadī&:  
-{Pkt_172}*sahasotthāya**  
-tado tado  /  
-  
-  
-SktCh_172: tatastataḥ  /  
-  
-  
-&rākṣasaḥ&:  
-*svagatam**  
-kathaṃ punaranayorlabdhasaṃjñatāmapanayāmi  /  
-VERSE_6.16  
-sīrī satvaramāgataściramabhūttasyāgrataḥ saṃgaraḥ  /  
-ālambya priyaśiṣyatāṃ tu halinā saṃjñā rahasyāhitā  $ yāmāsādya kurūttamaḥ pratikṛtiṃ duḥśāsanārau gataḥ  // 6.16 //  
-  
-  
-  
-&yudhiṣṭhiraḥ&:  
-hā vatsa vṛkodara  /*iti mohamupagataḥ**  
-  
-  
-  
-&draupadī&:  
-{Pkt_173}hā ṇāha bhīmaseṇa hā maha paribhavapaḍiārapariccattajīvia jaḍāsurabaahiḍimbakimmīrakīcaajarāsaṃdhaṇisūdaṇa soandhiāharaṇacāḍuāra dehi me paḍivaaṇaṃ  /*iti mohamupagatā**  
-  
-  
-  
-SktCh_173: hā nātha bhīmasena hā mama paribhavapratīkāraparityaktajīvita jaṭāsurabakahiḍimbakirmīrakīcakajarāsaṃdhaniṣūdana saugandhikāharaṇacāṭukāra dehi me prativacanam  /  
-  
-  
-&kañcukī&:  
-*sāsram**  
-hā kumāra bhīmasena dhārtarāṣṭrakulakamalinīprāleyavarṣa  /*sasaṃbhramam**  
-samāśvasitu mahārājaḥ  / bhadre samāśvāsaya svāminīm  / maharṣe tvamapi tāvadāśvāsaya mahārājam  /  
-  
-  
-&rākṣasaḥ&:  
-*svagatam**  
-āśvāsayāmi prāṇānparityājayitum  /*prakāśam**  
-bho bhīmāgraja kṣaṇamekamādhīyatāṃ samāśvāsaḥ  / kathāśeṣo 'sti  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*samāśvasya**  
-maharṣe kimasti kathāśeṣaḥ  /  
-  
-  
-&draupadī&:  
-{Pkt_174}*pratibudhya sabhayam**  
-bhaavaṃ kadhehi kīdiso kadhāseso tti  /  
-  
-  
-SktCh_174: bhagavankathaya kīdṛśaḥ kathāśeṣa iti  /  
-  
-  
-&kañcukī&:  
-kathaya kathaya  /  
-  
-  
-&rākṣasaḥ&:  
-tataśca hate tasminsukṣatriye vīrasulabhāṃ gatimupagate samagrasaṃgalitaṃ bhrātṛvadhaśokajaṃ bāṣpaṃ pramṛjya bhrātṛvadhaśokādapahāya gāṇḍīvaṃ pratyagrakṣatajacchaṭācarcitāṃ tāmeva gadāṃ bhrātṛhastādākṛṣya nivāryamāṇo 'pi saṃdhitsunā vāsudevenāgacchāgaccheti sopahāsaṃ bhramitagadājhaṃkāramūrcchitagambhīravacanadhvanināhūyamānaḥ kauravarājena tṛtīyo 'nujaste kirīṭī yoddhumārabdhaḥ  / akṛtinastasya gadāghātānnidhanamutprekṣamāṇena kāmapālenārjunapakṣapātī devakīsūnuratiprayatnātsvarathamāropya dvārakāṃ nītaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-sādhu bho arjuna tadaiva pratipannā vṛkodarapadavī gāṇḍīvaṃ parityajatā  / ahaṃ punaḥ kenopāyena prāṇāpagamamahotsavamutsahiṣye  /  
-  
-  
-&draupadī&:  
-{Pkt_175}hā ṇāha bhīmasaṇa ṇa juttaṃ dāṇiṃ de kaṇīasaṃ bhādaraṃ asikkhidaṃ gadāe dāruṇassa sattuṇo ahimuhaṃ gacchantaṃ ubekkhiduṃ  /*mohamupagatā**  
-  
-  
-  
-SktCh_175: hā nātha bhīmasena na yuktamidānīṃ te kanīyāṃsaṃ bhrātaramaśikṣitaṃ gadāyāṃ dāruṇasya śatrorabhimukhaṃ gacchantamupekṣitum  /  
-  
-  
-&rākṣasaḥ&:  
-tataścāham  
-  
-  
-&yudhiṣṭhiraḥ&:  
-bhavatu mune kimataḥ paraṃ śrutena  / hā tāta bhīmasena kāntāravyasanabāndhava hā maccharīrasthitivicchedakātara jatugṛhavipatsamudrataraṇayānapātra hā kirmīrahiḍimbāsurajarāsaṃdhavijayaikamalla hā kīcakasuyodhanānujakamalinīkuñjara hā dyūtapaṇapraṇayinhā madājñāsaṃpādaka hā kauravavanadāvānala  
-VERSE_6.17  
-nirlajjasya durodaravyasanino vatsa tvayā sā tadā  $ bhaktyā me samadadvipāyutabalenāṅgīkṛtā dāsatā  &  
-kiṃ nāmāpakṛtaṃ mayādhikamatastvayyadya yadgamyate  ē̃ tyaktvā nātha sabāndhavaṃ sapadi māṃ prītiḥ kva te sādhunā  // 6.17 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_176}*saṃjñāmupalabhyotthāya ca**  
-mahārāa kiṃ edaṃ vaṭṭai  /  
-  
-  
-SktCh_176: mahārāja kimetadvartate  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kṛṣṇe kimanyat  /  
-VERSE_6.18  
-sa kīcakaniṣūdano bakahiḍimbakirmīrahā  $ madāndhamagadhādhipadviradasaṃdhibhedāśaniḥ  &  
-gadāparighaśobhinā bhujayugena tenānvitaḥ  ē̃ priyastava mamānujo 'rjunagururgato 'staṃ kila  // 6.18 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_177}ṇāha bhīmaseṇa tue kila me kesā saṃamidavvā  / ṇa juttaṃ vīrassa khattiassa paḍiṇṇādaṃ siḍhileduṃ  / tā paḍibālehi maṃ jāva ubasappāmi  /*punarmohamupagatā**  
-  
-  
-  
-SktCh_177: nātha bhīmasena tvayā kila me keśāḥ saṃyamitavyāḥ  / na yuktaṃ vīrasya kṣatriyasya pratijñātaṃ śithilayitum  / tatpratipālaya māṃ yāvadupasarpāmi  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*ākāśe**  
-amba pṛthe śruto 'yaṃ tava putrasya samudācāraḥ  / māmekamanāthaṃ vilapantamutsṛjya kvāpi gataḥ  / tāta jarāsaṃdhaśatro kiṃ nāma vaiparītyametāvatā kālenālpāyuṣi tvayi samālokitaṃ janena  / atha vā mayaiva bahūpalabdham  /  
-VERSE_6.19  
-dattvā me karadīkṛtākhilanṛpāṃ yanmedinīṃ lajjase  $ dyūte yacca paṇīkṛto 'pi hi mayā na krudhyasi prīyase  &  
-sthityarthaṃ mama matsyarājabhavane prāpto 'si yatsūdatāṃ  ē̃ vatsaitāni vinaśvarasya sahasā dṛṣṭāni cihnāni  // 6.19 //  
-  
-mune kiṃ kathayasi  /*tasminkauravabhīmayorityādi paṭhati**  
-  
-  
-  
-&rākṣasaḥ&:  
-evametat  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-dhigasmadbhāgadheyāni  / bhagavankāmapāla kṛṣṇāgraja subhadrābhrātaḥ  
-VERSE_6.20  
-jñātiprītirmanasi na kṛtā kṣatriyāṇāṃ na dharmo  $ rūḍhaṃ sakhyaṃ tadapi gaṇitaṃ nānujasyārjunena  &  
-tulyaḥ kāmaṃ bhavatu bhavataḥ śiṣyayoḥ snehabandhaḥ  ē̃ ko 'yaṃ panthā yadasi vimukho mandabhāgye mayīttham  // 6.20 //  
-  
-*draupadīmupagamya**  
-ayi pāñcāli uttiṣṭha  / samānaduḥkhāvevāvāṃ bhavāvaḥ  / mūrcchayā kiṃ māmevamatisaṃdhatse  /  
-  
-  
-&draupadī&:  
-{Pkt_178}*labdhasaṃjñā**  
-bandhedu ṇāho dujjohaṇarudhilāddeṇa hattheṇa dussāsaṇamukkaṃ me kesahatthaṃ  / hañje buddhimadie tava paccakkhaṃ evva ṇāheṇa paḍiṇṇādaṃ  /*kañcukinamupetya**  
-ajja kiṃ saṃdiṭṭhaṃ dāva me deveṇa devaīṇandaṇeṇa puṇo bi kesaraaṇā ārambhīadu tti  / tā ubaṇehi me pupphadāmāiṃ  / viraehi dāva kavariṃ  / karehi bhaavado ṇārāaṇassa vaaṇaṃ  / ṇa hu so alīaṃ saṃdisadi  / aha vā kiṃ mae saṃtattāe bhaṇidaṃ  / aciragadaṃ ajjauttaṃ aṇugamissaṃ  /*yudhiṣṭhiramupagamya**  
-mahārāa ādībaa me cidaṃ  / tumaṃ bi khattadhammaṃ aṇuvaṭṭanto evva ṇāhassa jīviaharassa ahimuho hohi  /  
-  
-  
-SktCh_178: badhnātu nātho duryodhanarudhirārdreṇa hastena duḥśāsanamuktaṃ me keśahastam  / hañje buddhimatike tava pratyakṣameva nāthena pratijñātam  / ārya kiṃ saṃdiṣṭaṃ tāvanme devena devakīnandanena punarapi keśaracanārabhyatāmiti  / tadupanaya me puṣpadāmāni  / viracaya tāvatkabarīm  / kuru bhagavato nārāyaṇasya vacanam  / na khalu so 'līkaṃ saṃdiśati  / atha vā kiṃ mayā saṃtaptayā bhaṇitam  / aciragatamāryaputramanugamiṣyāmi  / mahārāja ādīpaya me citām  / tvamapi kṣatradharmamanuvartamāna eva nāthasya jīvitaharasyābhimukho bhava  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-yuktamāha pāñcālī  / kañcukinkriyatāmiyaṃ tapasvinī citāsaṃvibhāgena sahyavedanā  / mamāpi sajjaṃ dhanurupanaya  / alamatha vā dhanuṣā  /  
-VERSE_6.21  
-tasyaiva deharudhirokṣitapāṭalāṅgī-  $ mādāya saṃyati gadāmapavidhya cāpam  &  
-bhrātṛpriyeṇa kṛtamadya yadarjunena  ē̃ śreyo mamāpi hi tadeva kṛtaṃ jayena  // 6.21 //  
-  
-  
-  
-&rākṣasaḥ&:  
-rājanripujayavimukhaṃ te yadi cetastadā yatra tatra vā prāṇatyāgaṃ kuru  / vṛthā tatra gamanam  /  
-  
-  
-&kañcukī&:  
-dhiṅmune rākṣasasadṛśaṃ hṛdayaṃ bhavataḥ  /  
-  
-  
-&rākṣasaḥ&:  
-*sabhayaṃ svagatam**  
-kiṃ jñāto 'hamanena  /*prakāśam**  
-bhoḥ kañcukintayorgadayā khalu yuddhaṃ pravṛttamarjunaduryodhanayoḥ  / jānāmi ca tayorgadāyāṃ bhujasāram  / duḥkhitasya punarasya rājarṣeraparamaniṣṭaśravaṇaṃ pariharannevaṃ bravīmi  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*bāṣpaṃ visṛjan**  
-sādhu maharṣe sādhu  / susnigdhamabhihitam  /  
-  
-  
-&kañcukī&:  
-mahārāja kiṃ nāma śokāndhatayā devena devakalpenāpi prākṛteneva tyajate kṣātradharmaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-ārya jayaṃdhara  
-VERSE_6.22  
-śakṣyāmi no parighapīvarabāhudaṇḍau  $ vitteśaśakrapuradarśitavīryasārau  &  
-bhīmārjunau kṣititale praviceṣṭamānau  ē̃ draṣṭuṃ tayośca nidhanena ripuṃ kṛtārtham  // 6.22 //  
-  
-ayi pāñcālarājatanaye maddurnayaprāptaśocyadaśe yathā saṃdīpyate pāvakastathā sahitāveva bandhujanaṃ saṃbhāvayāvaḥ  /  
-  
-&draupadī&:  
-{Pkt_179}ajja karehi dārusaṃcaaṃ  / pajjalīadu aggī  / tuvaradi me hiaaṃ ṇāhaṃ pekkhiduṃ  /*sarvato dṛṣṭvā**  
-kahaṃ ṇa ko bi mahārāassa vaaṇaṃ karedi  / hā ṇāha bhīmaseṇa taṃ evva edaṃ rāaulaṃ tue virahidaṃ pariaṇo vi saṃpadaṃ pariharadi  /  
-  
-  
-SktCh_179: ārya kuru dārusaṃcayam  / prajvālyatāmagniḥ  / tvarate me hṛdayaṃ nāthaṃ prekṣitum  / kathaṃ na ko 'pi mahārājasya vacanaṃ karoti  / hā nātha bhīmasena tadevedaṃ rājakulaṃ tvayā virahitaṃ parijano 'pi sāṃprataṃ pariharati  /  
-  
-  
-&rākṣasaḥ&:  
-sadṛśamidaṃ bharatakulavadhūnāṃ patyuranusaraṇam  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-maharṣe na kaścicchṛṇoti tāvadāvayorvacanam  / tadindhanapradānena prasādaḥ kriyatām  /  
-  
-  
-&rākṣasaḥ&:  
-munijanaviruddhamidam  /*svagatam**  
-pūrṇo me manorathaḥ  / yāvadanupalakṣitaḥ samindhayāmi vahnim  /*prakāśam**  
-rājanna śaknumo vayamiha sthātum  /*iti niṣkrāntaḥ**  
-  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kṛṣṇe na kaścidasmadvacanaṃ karoti  / bhavatu  / svayamevāhaṃ dārusaṃcayaṃ kṛtvā citāmādīpayāmi  /  
-  
-  
-&draupadī&:  
-{Pkt_180}tuvaradu tuvaradu mahārāo  /  
-  
-  
-SktCh_180: tvaratāṃ tvaratāṃ mahārājaḥ  /  
-  
-*nepathye kalakalaḥ**  
-  
-  
-&draupadī&:  
-{Pkt_181}*sabhayamākarṇya**  
-mahārāa kassa bi eso baladappidassa visamo saṅkhaṇigghoso suṇīadi  / abaraṃ bi appiaṃ suṇiduṃ atthi ṇibbandho tado vilambīadi  /  
-  
-  
-SktCh_181: mahārāja kasyāpyeṣa baladarpitasya viṣamaḥ śaṅkhanirghoṣaḥ śrūyate  / aparamapyapriyaṃ śrotumasti nirbandhastato vilambyate  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-na khalu vilambyate  / uttiṣṭha  /*iti sarve parikrāmanti**  
-ayi pāñcāli ambāyāḥ sapatnījanasya ca kiṃcitsaṃdiśya nivartaya parijanam  /  
-  
-  
-&draupadī&:  
-{Pkt_182}mahārāa ambāe evvaṃ saṃdisissaṃ  / jo so baahiḍimbakimmīrajaḍāsurajarāsaṃdhavijaamallo de majjhamaputto so mama hadāsāe pakkhabādeṇa paraloaṃ gado tti  /  
-  
-  
-SktCh_182: mahārāja ambāyā evaṃ saṃdekṣyāmi  / yaḥ sa bakahiḍimbakirmīrajaṭāsurajarāsaṃdhavijayamallaste madhyamaputraḥ sa mama hatāśāyāḥ pakṣapātena paralokaṃ gata iti  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-bhadre buddhimatike ucyatāmasmadvacanādambā  /  
-VERSE_6.23  
-yenāsi tatra jatuveśmani dīpyamāne  $ nirvāhitā saha sutairbhujayorbalena  &  
-tasya priyasya balinastanayasya pāpa-  ē̃ mākhyāmi te 'mba kathayetkathamīdṛganyaḥ  // 6.23 //  
-  
-ārya jayaṃdhara tvayāpi sahadevasakāśaṃ gantavyam  / vaktavyaśca tatrabhavānpāṇḍukulabṛhaspatirmādreyaḥ kanīyānasmākam  / sakalakurukulakamalākaradāvānalo yudhiṣṭhiraḥ paralokamabhiprasthitaḥ priyānujamapratikūlaṃ satatamāśaṃsanīyamasaṃmūḍhaṃ vyasane 'bhyudaye ca dhṛtimantaṃ bhavantamaviralamāliṅgya śirasi cāghrāyedaṃ prārthayate  /  
-VERSE_6.24  
-mama hi vayasā dūreṇālpaḥ śrutena samo bhavā-  $ nsahajakṛtayā buddhyā jyeṣṭho manīṣitayā guruḥ  &  
-śirasi mukulau pāṇī kṛtvā bhavantamato 'rthaye  ē̃ mayi viralatāṃ neyaḥ snehaḥ piturbhava vāridaḥ  // 6.24 //  
-  
-api ca bālye saṃvardhitasya nityābhimānino 'smatsadṛśahṛdayasārasyāpi nakulasya mamājñayā vacane sthātavyam  / taducyatāṃ nakulaḥ  / nānugantavyāsmatpadavī  / tvayā hi vatsa  
-VERSE_6.25  
-vismṛtyāsmānśrutiviśadayā prajñayā sānujena  $ piṇḍānpāṇḍorudakapṛṣatānaśrugarbhānpradātum  &  
-dāyādānāmapi tu bhavane yādavānāṃ kule vā  ē̃ kāntāre vā kṛtavasatinā rakṣaṇīyaṃ śarīram  // 6.25 //  
-  
-gaccha jayaṃdhara asmaccharīraspṛṣṭikayā śāpitena bhavatākālahīnamidamavaśyamāvedanīyam  /  
-  
-  
-&draupadī&:  
-{Pkt_183}halā buddhimadie bhaṇāhi mama vaaṇeṇa piasahiṃ subhaddaṃ  / ajja vacchāe uttarāe cauttho māso paḍibaṇṇassa gabbhassa  / tumaṃ evva edaṃ kulapaḍiṭṭhābaaṃ sāvahāṇaṃ rakkha  / kadā bi ido paraloagadassa sasuraulassa amhāṇaṃ bi salilabindudo bhavissadi tti  /  
-  
-  
-SktCh_183: halā buddhimatike bhaṇa mama vacanena priyasakhīṃ subhadrām  / adya vatsāyā uttarāyāścaturtho māsaḥ pratipannasya garbhasya  / tvamevaitaṃ kulapratiṣṭhāpakaṃ sāvadhānaṃ rakṣa  / kadāpītaḥ paralokagatasya śvaśurakulasyāsmākamapi salilabindudo bhaviṣyatīti  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*sāsram**  
-bhoḥ kaṣṭam  /  
-VERSE_6.26  
-śākhārodhasthagitavasudhāmaṇḍale maṇḍitāśe  $ pīnaskandhe susadṛśamahāmūlaparyantabandhe  &  
-dagdhe daivātsumahati tarau tasya sūkṣmāṅkure 'smi-  ē̃ nnāśābandhaṃ kamapi kurute chāyayārthī jano 'yam  // 6.26 //  
-  
-sādhu  / idānīmadhyavasitaṃ karaṇīyam  /*kañcukinamavalokya**  
-ārya jayaṃdhara svaśarīreṇa śāpito 'si tathāpi na gamyate  /  
-  
-  
-&kañcukī&:  
-*sākrandam**  
-hā deva pāṇḍo tava sutānāmajātaśatrubhīmārjunanakulasahadevānāmayaṃ dāruṇaḥ pariṇāmaḥ  / hā devi kunti bhojarājabhavanapatāke  
-VERSE_6.27  
-bhrātuste tanayena śauriguruṇā śyālena gāṇḍīvina-  $ stasyaivākhiladhārtarāṣṭranalinīvyālolane dantinaḥ  &  
-ācāryeṇa vṛkodarasya halinonmattena mattena vā  ē̃ dagdhaṃ tvatsutakānanaṃ nanu mahī yasyāśrayācchītalā  // 6.27 //  
-  
-*iti rudanniṣkrāntaḥ**  
-  
-  
-  
-&yudhiṣṭhiraḥ&:  
-jayaṃdhara jayaṃdhara  /  
-  
-*praviśya**  
-  
-  
-&kañcakī&:  
-ājñāpayatu devaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-vaktavyamiti bravīmi  / na punaretāvanti bhāgadheyāni naḥ  / yadi kadācidvijayī syādvatso 'rjunastadvaktavyo 'smadvacanādbhavatā  /  
-VERSE_6.28  
-halī hetuḥ satyaṃ bhavati mama vatsasya nidhane  $ tathāpyeṣa bhrātā sahajasuhṛdaste madhuripoḥ  &  
-ataḥ krodhaḥ kāryo na khalu yadi ca prāṇiṣi tato  ē̃ vanaṃ gacchermā gāḥ punarakaruṇāṃ kṣātrapadavīm  // 6.28 //  
-  
-  
-  
-&kañcukī&:  
-yadājñāpayati devaḥ  /*iti niṣkrāntaḥ**  
-  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*agniṃ dṛṣṭvā saharṣam**  
-kṛṣṇe nanūddhataśikhāhastāhūtāsmadvidhavyasanijanaḥ samiddho bhagavānhutāśanastatrendhanīkaromyātmānam  /  
-  
-  
-&draupadī&:  
-{Pkt_184}pasīdadu pasīdadu mahārāo mama imiṇā apacchimeṇa paṇaeṇa  / ahaṃ dāva aggado pavisāmi  /  
-  
-  
-SktCh_184: prasīdatu prasīdatu mahārājo mamānenāpaścimena praṇayena  / ahaṃ tāvadagrataḥ praviśāmi  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-yadyevaṃ sahitāvevābhyudayamupabhokṣyāvahe  /  
-  
-  
-&ceṭī&:  
-{Pkt_185}hā bhaavanto loabālā parittāaha parittāaha  / eso kkhu somavaṃsarāesī rāasūasaṃtappidahavvavāho khaṇḍavasaṃtappidahudavahassa kirīḍiṇo jeṭṭho bhādā sugihīdaṇāmaheo mahārāajuhiṭṭhiro  / esā bi pañcālarāataṇaā devī jaṇṇavedimajjhasaṃbhavā jaṇṇaseṇī  / duve bi ṇikkaruṇajalaṇassa ppaveseṇa indhaṇīhonti  / tā parittāaha ajjā parittāaha  / kadhaṃ ṇa ko bi parittāadi  /*tayoragrataḥ patitvā**  
-kiṃ vavasidaṃ devīe deveṇa a  /  
-  
-  
-SktCh_185: hā bhagavanto lokapālāḥ paritrāyadhvaṃ paritrāyadhvam  / eṣa khalu somavaṃśarājarṣī rājasūyasaṃtarpitahavyavāhaḥ khāṇḍavasaṃtarpitahutavahasya kirīṭino jyeṣṭho bhrātā sugṛhītanāmadheyo mahārājayudhiṣṭhiraḥ  / eṣāpi pāñcālarājatanayā devī yajñavedimadhyasaṃbhavā yājñasenī  / dvāvapi niṣkaruṇajvalanasya praveśenendhanībhavataḥ  / tatparitrāyadhvamāryāḥ paritrāyadhvam  / kathaṃ na ko 'pi paritrāyate  / kiṃ vyavasitaṃ devyā devena ca  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-ayi buddhimatike yadvatsalena priyānujena vinā sadṛśaṃ tat  / uttiṣṭhottiṣṭha bhadre udakamupanaya  /  
-  
-  
-&ceṭī&:  
-{Pkt_186}jaṃ devo āṇabedi  /*iti niṣkramya punaḥ praviśya ca**  
-jedu jedu mahārāo  /  
-  
-  
-SktCh_186: yaddeva ājñāpayati  / jayatu jayatu mahārājaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-pāñcāli tvamapi tāvatsvapakṣapātino vṛkodarasya priyasyārjunasyodakakriyāṃ kuru  /  
-  
-  
-&draupadī&:  
-{Pkt_187}mahārāo evva karedu  / ahaṃ puṇo jalaṇaṃ pavisissaṃ  /  
-  
-  
-SktCh_187: mahārāja eva karotu  / ahaṃ punarjvalanaṃ pravekṣyāmi  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-anatikramaṇīyaṃ lokavṛttam  / bhadre udakamupanaya  /  
-  
-*ceṭī tathā karoti**  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*pādau prakṣālyopaspṛśya ca**  
-eṣa tāvatsalilāñjalirgāṅgeyāya bhīṣmāya gurave  / ayaṃ prapitāmahāya śāntanave  / ayamapi pitāmahāya vicitravīryāya  /*sāsram**  
-tātasyādhunāvasaraḥ  / ayamapi tatrabhavate sugṛhītanāmne pitre pāṇḍave  /  
-VERSE_6.29  
-adya prabhṛti vārīdamasmatto durlabhaṃ punaḥ  /  
-tāta mādryambayā sārdhaṃ mayā dattaṃ nipīyatām  // 6.29 //  
-  
-VERSE_6.30  
-etajjalaṃ jalajanīlavilocanāya  $ bhīmāya tasya mama cāpyavibhaktamastu  &  
-ekaṃ kṣaṇaṃ virama vatsa pipāsito 'pi  ē̃ pātuṃ tvayā saha javādayamāgato 'smi  // 6.30 //  
-  
-atha vā sukṣatriyāṇāṃ gatimupagataṃ vatsamahamupagato 'pyakṛtī draṣṭum  / vatsa bhīmasena  
-VERSE_6.31  
-mayā pītaṃ pītaṃ tadanu bhavatāmbāstanayugaṃ  $ maducchiṣṭairvṛttiṃ janayasi rasairvatsalatayā  &  
-vitāneṣvapyevaṃ tava mama ca some vidhirabhū-  ē̃ nnivāpāmbhaḥ pūrvaṃ pibasi kathamevaṃ tvamadhunā  // 6.31 //  
-  
-kṛṣṇe tvamapi dehi salilāñjalim  /  
-  
-  
-&draupadī&:  
-{Pkt_188}hañje buddhimadie ubaṇehi me salilaṃ  /  
-  
-  
-SktCh_188: hañje buddhimatike upanaya me salilam  /  
-  
-*ceṭī tathā karoti**  
-  
-  
-&draupadī&:  
-{Pkt_189}*upasṛtya jalāñjaliṃ pūrayitvā**  
-mahārāa kassa salilaṃ demhi  /  
-  
-  
-SktCh_189: mahārāja kasmai salilaṃ dadāmi  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-VERSE_6.32  
-tasmai dehi jalaṃ kṛṣṇe sahasā gacchate divam  /  
-ambāpi yena gāndhāryā ruditena sakhī kṛtā  // 6.32 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_190}ṇāha bhīmaseṇa pariaṇobaṇīdaṃ udaaṃ saggagadassa de pādodaaṃ bhodu  /  
-  
-  
-SktCh_190: nātha bhīmasena parijanopanītamudakaṃ svargagatasya te pādodakaṃ bhavatu  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-phālgunāgraja  
-VERSE_6.33  
-asamāptapratijñe 'staṃ yāte tvayi mahābhuje  /  
-muktakeśyaiva dattaste priyayā salilāñjaliḥ  // 6.33 //  
-  
-  
-  
-&draupadī&:  
-{Pkt_191}uṭṭhehi mahārāa dūraṃ gacchadi de bhādā  /  
-  
-  
-SktCh_191: uttiṣṭha mahārāja dūraṃ gacchati te bhrātā  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*dakṣiṇākṣispandanaṃ sūcayitvā**  
-pāñcāli nimittāni me kathayanti saṃbhāvayiṣyasi vṛkodaramiti  /  
-  
-  
-&draupadī&:  
-{Pkt_192}mahārāa suṇimittaṃ bhodu  /  
-  
-  
-SktCh_192: mahārāja sunimittaṃ bhavatu  /  
-  
-*nepathye kalakalaḥ**  
-  
-*praviśya saṃbhrāntaḥ**  
-  
-  
-&kañcukī&:  
-paritrāyatāṃ paritrāyatāṃ mahārājaḥ  / eṣa khalu durātmā kauravāpasadaḥ kṣatajābhiṣekapāṭalitāmbaraśarīraḥ samucchritadigdhabhīṣaṇagadāpāṇirudyatakāladaṇḍa iva kṛtānto 'trabhavatīṃ pāñcālarājatanayāmitastataḥ parimārgamāṇa ita evābhivartate  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-hā daiva te nirṇayo jātaḥ  / hā gāṇḍīvadhanvan  /*iti muhyati**  
-  
-  
-  
-&draupadī&:  
-{Pkt_193}hā ajjautta hā mama saaṃvarasaaṃgāhadullalida piaṃ bhāduaṃ aṇugadosi ṇa uṇa mahārāaṃ imaṃ dāsajaṇaṃ a  /*iti mohamupagatā**  
-  
-  
-  
-SktCh_193: hā āryaputra hā mama svayaṃvarasvayaṃgrāhadurlalita priyaṃ bhrātaramanugato 'si na punarmahārājamimaṃ dāsajanaṃ ca  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-hā vatsa savyasācinhā trilocanāṅganiṣpeṣamalla hā nivātakavacoddharaṇaniṣkaṇṭakīkṛtāmaraloka hā badaryāśramamunidvitīyatāpasa hā droṇācāryapriyaśiṣya hā astraśikṣābalaparitoṣitagāṅgeya hā rādheyakulakamalinīprāleyavarṣa hā gandharvanirvāsitaduryodhana hā pāṇḍavakulakamalinīrājahaṃsa  
-VERSE_6.34  
-tāṃ vatsalāmanabhivādya vinītamambāṃ  $ gāḍhaṃ ca māmanupaguhya mayāpyanuktaḥ  &  
-etāṃ svayaṃvaravadhūṃ dayitāmadṛṣṭvā  ē̃ dīrghapravāsamayi tāta kathaṃ gato 'si  // 6.34 //  
-  
-*mohamupagataḥ**  
-  
-  
-  
-&kañcukī&:  
-bhoḥ kaṣṭam  / eṣa durātmā kauravādhamo yatheṣṭamita evābhivartate  / sarvathā saṃpratyayameva kālocitaḥ pratīkāraḥ  / citāsamīpamupanayāmyatrabhavatīṃ pāñcālarājatanayām  / ahamapyevamevānugacchāmi  /*ceṭīṃ prati**  
-bhadre tvamapi devyā bhrātaraṃ dhṛṣṭadyumnaṃ nakulasahadevau vāvāpnuhi  / atha vaivamavasthite mahārāje 'stamitayorbhīmārjunayoḥ kuto 'tra paritrāṇāśā  /  
-  
-  
-&ceṭī&:  
-{Pkt_194}parittāaha parittāaha ajjā  /  
-  
-  
-SktCh_194: paritrāyadhvaṃ paritrāyadhvamāryāḥ  /  
-  
-*nepathye kalakalānantaram**  
-  
-  
-bho bhoḥ samantapañcakasaṃcāriṇaḥ kṣatajāsavamattayakṣarākṣasapiśācabhūtavetālakaṅkagṛdhrajambukolūkavāyasabhūyiṣṭhā viralayodhapuruṣāḥ kṛtamasmaddarśanatrāsena  / kathayata kasminnuddeśe yājñasenī saṃnihiteti  / kathayāmyupalakṣaṇaṃ tasyāḥ  /  
-VERSE_6.35  
-ūrū kareṇa parighaṭṭayataḥ salīlaṃ  $ duryodhanasya purato 'pahṛtāmbarā yā  &  
-duḥśāsanena kacakarṣaṇabhinnamauliḥ  ē̃ sā draupadī kathayata kva punaḥ pradeśe  // 6.35 //  
-  
-  
-  
-&kañcukī&:  
-hā devi yajñavedisaṃbhave paribhūyase saṃpratyanāthā kurukulakalaṅkena  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*sahasotthāya sāvaṣṭambham**  
-pāñcāli na bhetavyaṃ na bhetavyam  /*sasaṃbhramam**  
-kaḥ ko 'tra bhoḥ  / saniṣaṅgaṃ me dhanurupanaya  / durātmanduryodhanahataka āgacchāgaccha  / apanayāmi te gadākauśalasaṃbhṛtaṃ bhujadarpaṃ śilīmukhāsāreṇa  / anyacca re kurukulāṅgāra  
-VERSE_6.36  
-priyamanujamapaśyaṃstaṃ jarāsaṃdhamallaṃ  $ kupitaharakirātāyodhinaṃ taṃ ca vatsam  &  
-tvamiva kaṭhinacetāḥ prāṇituṃ nāsmi śakto  ē̃ nanu punarapahartuṃ bāṇavarṣaistavāsūn  // 6.36 //  
-  
-  
-*tataḥ praviśati gadāpāṇiḥ kṣatajasiktasarvāṅgo bhīmasenaḥ**  
-  
-  
-&bhīmasenaḥ&:  
-*uddhataṃ parikrāman**  
-bho bhoḥ samantapañcakasaṃcāriṇaḥ sainikāḥ ko 'yamāvegaḥ  /  
-VERSE_6.37  
-nāhaṃ rakṣo na bhūto ripurudhirajalaplāvitāṅgaḥ prakāmaṃ  $ nistīrṇorupratijñājalanidhigahanaḥ krodhanaḥ kṣatriyo 'smi  &  
-bho bho rājanyavīrāḥ samaraśikhiśikhādagdhaśeṣāḥ kṛtaṃ va-  ē̃ strāsenānena līnairhatakarituragāntarhitairāsyate yat  // 6.37 //  
-  
-kathayantu bhavantaḥ kasminnuddeśe pāñcālī tiṣṭhati  /  
-  
-  
-&draupadī&:  
-{Pkt_195}*labdhasaṃjñā**  
-parittāadu parittāadu mahārāo  /  
-  
-  
-SktCh_195: paritrāyatāṃ paritrāyatāṃ mahārājaḥ  /  
-  
-  
-&kañcukī&:  
-devi pāṇḍusnuṣe uttiṣṭhottiṣṭha  / saṃprati jhaṭiti citāpraveśa eva śreyān  /  
-  
-  
-&draupadī&:  
-{Pkt_196}*sahasotthāya**  
-kahaṃ ṇa saṃbhāvemi ajja bi cidāsamībaṃ  /  
-  
-  
-SktCh_196: kathaṃ na saṃbhāvayāmyadyāpi citāsamīpam  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kaḥ ko 'tra bhoḥ  / saniṣaṅgaṃ dhanurupanaya  / kathaṃ na kaścitparijanaḥ  / bhavatu  / bāhuyuddhenaiva durātmānaṃ gāḍhamāliṅgya jvalanamabhipātayāmi  /*parikaraṃ badhnāti**  
-  
-  
-  
-&kañcukī&:  
-devi pāṇḍusnuṣe saṃyamyantāmidānīṃ nayanoparodhino duḥśāsanāvakṛṣṭā mūrdhajāḥ  / astamitā saṃprati pratīkārāśā  / citāsamīpameva drutataraṃ saṃbhāvaya  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kṛṣṇe na khalvanihate tasmindurātmani duryodhane saṃhartavyāḥ keśāḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-pāñcāli na khalu mayi jīvati saṃhartavyā duḥśāsanavilulitā veṇirātmapāṇibhyām  / tiṣṭhatu tiṣṭhatu  / svayamevāhaṃ saṃharāmi  /  
-  
-*draupadī bhayādapasarpati**  
-  
-  
-&bhīmasenaḥ&:  
-tiṣṭha tiṣṭha bhīru kvādhunā gamyate  /*iti keśeṣu grahītumicchati**  
-  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*vegādbhīmamāliṅgya**  
-durātmanbhīmārjunaśatro suyodhanahataka  
-VERSE_6.38  
-āśaiśavādanudinaṃ janitāparādho  $ matto balena bhujayorhatarājaputraḥ  &  
-āsādya me 'ntaramidaṃ bhujapañjarasya  ē̃ jīvanprayāsi na padātpadamadya pāpa  // 6.38 //  
-  
-  
-  
-&bhīmasenaḥ&:  
-aye kathamāryaḥ suyodhanaśaṅkayā krodhānnirdayaṃ māmāliṅgati  /  
-  
-  
-&kañcukī&:  
-*nirūpya saharṣam**  
-mahārāja vañcyase  / ayaṃ khalvāyuṣmānbhīmasenaḥ suyodhanakṣatajāruṇīkṛtasakalaśarīrāmbaro durlakṣavyaktiḥ  / alamadhunā saṃdehena  /  
-  
-  
-&ceṭī&:  
-{Pkt_197}*draupadīmāliṅgya**  
-devi ṇivattīadu ṇivattīadu  / eso kkhu pūridapaḍiṇṇābhāro ṇāho de veṇīsaṃhāraṃ kāduṃ tumaṃ evva aṇṇesadi  /  
-  
-  
-SktCh_197: devi nivṛtyatāṃ nivṛtyatām  / eṣa khalu pūritapratijñābhāro nāthaste veṇīsaṃhāraṃ kartuṃ tvāmevānviṣyati  /  
-  
-  
-&draupadī&:  
-{Pkt_198}hañje kiṃ maṃ alīavaaṇehiṃ āsāsesi  /  
-  
-  
-SktCh_198: hañje kiṃ māmalīkavacanairāśvāsayasi  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-jayaṃdhara kiṃ kathayasi  / nāyamanujadveṣī duryodhanahatakaḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-deva ajātaśatro bhīmārjunaguro kuto 'dyāpi duryodhanahatakaḥ  / mayā hi tasya durātmanaḥ pāṇḍukulaparibhāvinaḥ  
-VERSE_6.39  
-bhūmau kṣiptaṃ śarīraṃ nihitamidamasṛkcandanābhaṃ nijāṅge  $ lakṣmīrārye niṣaṇṇā caturudadhipayaḥsīmayā sārdhamurvyā  &  
-bhṛtyā mitrāṇi yodhāḥ kurukulamakhilaṃ dagdhametadraṇāgnau  ē̃ nāmaikaṃ yadbravīṣi kṣitipa tadadhunā dhārtarāṣṭrasya śeṣam  // 6.39 //  
-  
-  
-*yudhiṣṭhiraḥ svairaṃ muktvā bhīmamavalokayannaśrūṇi pramārjayati**  
-  
-  
-&bhīmasenaḥ&:  
-*pādayoḥ patitvā**  
-jayatvāryaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-vatsa bāṣpajalāntaritanayanatvānna paśyāmi te mukhacandram  / tatkathaya kaccijjīvati bhavānsamaṃ kirīṭinā  /  
-  
-  
-&bhīmasenaḥ&:  
-nihatasakalaripupakṣe tvayi narādhipe jīvati bhīmo 'rjunaśca  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*punargāḍhamāliṅgya**  
-  
-VERSE_6.40  
-riporāstāṃ tāvannidhanamidamākhyāhi śataśaḥ  $ priyo bhrātā satyaṃ tvamasi mama yo 'sau bakaripuḥ  &  
-  
-  
-  
-&bhīmasenaḥ&:  
-ārya so 'ham  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-VERSE_6.40  
-jarāsaṃdhasyoraḥsarasi rudhirāsārasalile  ē̃ taṭāghātakrīḍālalitamakaraḥ saṃyati bhavān  // 6.40 //  
-  
-  
-  
-&bhīmasenaḥ&:  
-ārya sa evāham  / tanmuñcatu māmāryaḥ kṣaṇamekam  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kimaparamavaśiṣṭam  /  
-  
-&bhīmasenaḥ&:  
-ārya sumahadavaśiṣṭam  / saṃyacchāmi tāvadanena suyodhanaśoṇitokṣitena pāṇinā pāñcālyā duḥśāsanāvakṛṣṭaṃ keśahastam  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-satvaraṃ gacchatu bhavān  / anubhavatu tapasvinī veṇīsaṃhāramahotsavam  /  
-  
-  
-&bhīmasenaḥ&:  
-*draupadīmupasṛtya**  
-devi pāñcālarājatanaye diṣṭyā vardhase ripukulakṣayeṇa  / alamalamevaṃvidhaṃ māmālokya trāsena  /  
-VERSE_6.40  
-kṛṣṭā yenāsi rājñāṃ sadasi nṛpaśunā tena duḥśāsanena  $ styānānyetāni tasya spṛśa mama karayoḥ pītaśeṣāṇyasṛñji  &  
-kānte rājñaḥ kurūṇāmapi sarasamidaṃ madgadācūrṇitoro-  ē̃ raṅge 'ṅge 'sṛṅniṣaktaṃ tava paribhavajasyānalasyopaśāntyai  // 6.40 //  
-  
-buddhimatike kva sā saṃprati bhānumatī yopahasati pāṇḍavadārān  / bhavati yajñavedisaṃbhave yājñaseni  /  
-  
-  
-&draupadī&:  
-{Pkt_199}āṇabedu ṇāho  /  
-  
-  
-SktCh_199: ājñāpayatu nāthaḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-smarati bhavatī yanmayoktam  /*cañcadbhujetyādiSee stanza 1.21. pūrvoktaṃ paṭhati**  
-  
-  
-  
-&draupadī&:  
-{Pkt_200}ṇāha ṇa kevalaṃ sumarāmi  / aṇuhavāmi a ṇāhassa pasādeṇa  /  
-  
-  
-SktCh_200: nātha na kevalaṃ smarāmi  / anubhavāmi ca nāthasya prasādena  /  
-  
-  
-&bhīmasenaḥ&:  
-*veṇīmavadhūya**  
-bhavati saṃyamyatāmidānīṃ dhārtarāṣṭrakulakālarātrirduḥśāsanaviluliteyaṃ veṇī  /  
-  
-  
-&draupadī&:  
-{Pkt_201}ṇāha visumaridamhi edaṃ vābāraṃ  / ṇāhassa pasāeṇa puṇo bi sikkhissaṃ  /  
-  
-  
-SktCh_201: nātha vismṛtāsmyetaṃ vyāpāram  / nāthasya prasādena punarapi śikṣiṣye  /  
-  
-*bhīmasenaḥ veṇīṃ badhnāti**  
-  
-*nepathye**  
-  
-  
-mahāsamarānaladagdhaśeṣāya svasti bhavatu rājanyakulāya  /  
-VERSE_6.42  
-krodhāndhairyasya mokṣātkṣatanarapatibhiḥ pāṇḍuputraiḥ kṛtāni  $ pratyāśaṃ muktakeśānyatulabhujabalaiḥ pārthivāntaḥpurāṇi  &  
-kṛṣṇāyāḥ keśapāśaḥ kupitayamasakho dhūmaketuḥ kurūṇāṃ  ē̃ so 'yaṃ baddhaḥ prajānāṃ viramatu nidhanaṃ svasti rājñāṃ kulebhyaḥ  // 6.42 //  
-  
-  
-  
-&yudhiṣṭhiraḥ&:  
-devi eṣa te veṇīsaṃhāro 'bhinandyate nabhastalasaṃcāriṇā siddhajanena  /  
-  
-*tataḥ praviśataḥ kṛṣṇārjunau**  
-  
-  
-&kṛṣṇaḥ&:  
-*yudhiṣṭhiramupagamya**  
-vijayatāṃ nihatasakalārātimaṇḍalaḥ sānujaḥ pāṇḍavakulacandramā mahārājo yudhiṣṭhiraḥ  /  
-  
-  
-&arjunaḥ&:  
-jayatvāryaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*vilokya**  
-aye bhagavānpuṇḍarīkākṣo vatsaśca kirīṭī  / bhagavannabhivādaye  /*kirīṭinaṃ prati**  
-ehyehi vatsa  /  
-  
-*arjunaḥ praṇamati**  
-  
-  
-&yudhiṣṭhiraḥ&:  
-*vāsudevaṃ prati**  
-deva kutastasya vijayādanyadyasya bhagavānpurāṇapuruṣo nārāyaṇaḥ svayaṃ maṅgalānyāśāste  /  
-VERSE_6.43  
-kṛtagurumahadādikṣobhasaṃbhūtamūrtiṃ  $ guṇinamudayanāśasthānahetuṃ prajānām  &  
-ajamamaramacintyaṃ cintayitvāpi na tvāṃ  ē̃ bhavati jagati duḥkhī kiṃ punardeva dṛṣṭvā  // 6.43 //  
-  
-*arjunamāliṅgya**  
-vatsa pariṣvajasva mām  /  
-  
-  
-&kṛṣṇaḥ&:  
-mahārāja yudhiṣṭhira  
-VERSE_6.44  
-vyāso 'yaṃ bhagavānamī ca munayo vālmīkirāmādayo  $ dhṛṣṭadyumnamukhāśca sainyapatayo mādrīsutādhiṣṭhitāḥ  &  
-prāptā māgadhamatsyayādavakulairājñāvidheyaiḥ samaṃ  ē̃ skandhottambhitatīrthavārikalaśā rājyābhiṣekāya te  // 6.44 //  
-  
-ahaṃ punardurātmanā cārvākeṇa viprakṛtaṃ bhavantamupalabhyārjunena saha tvaritataramāyātaḥ  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-kathaṃ cārvākeṇa rakṣasā vayamevaṃ vipralabdhāḥ  /  
-  
-  
-&bhīmasenaḥ&:  
-*saroṣam**  
-kvāsau dhārtarāṣṭrasakhā puṇyajanāpasado yenāryasya mahāṃścittavibhramaḥ kṛtaḥ  /  
-  
-  
-&kṛṣṇaḥ&:  
-nigṛhītaḥ sa durātmā nakulena  / tatkathaya mahārāja kimasmātparaṃ samīhitaṃ saṃpādayāmi  /  
-  
-  
-&yudhiṣṭhiraḥ&:  
-evaṃ puṇḍarīkākṣa na kiṃcinna dadāti bhagavānprasannaḥ  / ahaṃ tu puruṣasādhāraṇayā buddhyā saṃtuṣyāmi  / na khalvataḥ paramabhyarthayituṃ kṣamaḥ  / paśyatu devaḥ  /  
-VERSE_6.45  
-krodhāndhaiḥ sakalaṃ hataṃ ripukulaṃ pañcākṣatāste vayaṃ  $ pāñcālyā mama durnayopajanitastīrṇo nikārārṇavaḥ  &  
-tvaṃ devaḥ puruṣottamaḥ sukṛtinaṃ māmādṛto bhāṣase  ē̃ kiṃ nāmānyadataḥ paraṃ bhagavato yāce prasannādaham  // 6.45 //  
-  
-tathāpi prītataraścedbhagavāṃstadidamastu  /  
-VERSE_6.46  
-akṛpaṇamarukśrāntaṃ jīvyājjanaḥ puruṣāyuṣaṃ  $ bhavatu bhagavanbhaktirdvaitaṃ vinā puruṣottame  &  
-dayitabhuvano vidvadbandhurguṇeṣu viśeṣavi-  ē̃ tsatatasukṛtī bhūyādbhūpaḥ prasādhitamaṇḍalaḥ  // 6.46 //  
-  
-api ca  
-VERSE_6.47  
-avanimavanipālāḥ pāntu vṛṣṭiṃ vidhattāṃ  $ jagati jaladharālī śasyapūrṇāstu bhūmiḥ  &  
-tvayi muranarakārau bhaktiradvaitayogā-  ē̃ dbhavatu mama sudīrghaṃ havyamaśnantu devāḥ  // 6.47 //  
-  
-  
-  
-&kṛṣṇaḥ&:  
-evamastu  /  
-  
-*iti niṣkrāntāḥ sarve**  
-  
-iti ṣaṣṭho 'ṅkaḥ  /  
-  
-samāptamidaṃ veṇīsaṃhāraṃ nāma nāṭakam  /  
-  
-  
-  
-idaṃ ca vidagdhasnigdhaviyogadurmanasā vipralapitaṃ tena kavinā  /  
-  
-kāvyālāpasubhāṣitavyasaninaste rājahaṃsā gatā-  
-stā goṣṭhyaḥ kṣayamāgatā guṇalavaślāghyāstu vācaḥ satām  /  
-sālaṃkārarasaprasannamadhurākārāḥ kavīnāṃ giraḥ  
-prāptā nāśamayaṃ tu bhūmivalaye jīyātprabandho mahān  //  
-  
-  
-  
-  
-  
-  
-  
+    
+वेणीसंहारम् ।  
+अच्त्_१  
+प्रथमो ऽङ्कः ।  
+    
+वेर्से_१।१  
+निषिद्धैरप्येभिर्लुलितमकरन्दो मधुकरैः $ करैरिन्दोरन्तश्छुरित इव सम्भिन्नमुकुलः &  
+विधत्तां सिद्धिं नो नयनसुभगामस्य सदसः ē̃ प्रकीर्णः पुष्पाणां हरिचरणयोरञ्जलिरयम् ॥ १।१ ॥  
+    
+अपि च  
+वेर्से_१।२  
+कालिन्द्याः पुलिनेषु केलिकुपितामुत्सृज्य रासे रसं $ गच्छन्तीमनुगच्छतो ऽश्रुकलुषां कंसद्विषो राधिकाम् &  
+तत्पादप्रतिमानिवेशितपदस्योद्भूतरोमोद्गते- ē̃ रक्षुण्णो ऽनुनयः प्रसन्नदयितादृष्टस्य पुष्णातु वः ॥ १।२ ॥  
+    
+अपि च  
+वेर्से_१।३  
+दृष्टः सप्रेम देव्या किमिदमिति भयात्सम्भ्रमाच्चासुरीभिः $ शान्तान्तस्तत्त्वसारैः सकरुणमृषिभिर्विष्णुना सस्मितेन &  
+आकृष्यास्त्रं सगर्वैरुपशमितवधूसम्भ्रमैर्दैत्यवीरैः ē̃ सानन्दं देवताभिर्मयपुरदहने धूर्जटिः पातु युष्मान् ॥ १।३ ॥  
+    
+*नान्द्यन्ते**
+
+&सूत्रधारः&:  
+अलमतिप्रसङ्गेन ।  
+वेर्से_१।४  
+श्रवणाञ्जलिपुटपेयं विरचितवान्भारताख्यममृतं यः ।  
+तमहमरागमकृष्णं कृष्णद्वैपायनं वन्दे ॥ १।४ ॥  
+    
+*समन्तादवलोक्य**  
+तद्भवन्तः परिषदग्रेसराः विज्ञाप्यं नः किञ्चिदस्ति ।  
+वेर्से_१।५  
+कुसुमाञ्जलिरपर इव प्रकीर्यते काव्यबन्ध एषो ऽत्र ।  
+मधुलिह इव मधुबिन्दून्विरलानपि भजत गुणलेशान् ॥ १।५ ॥  
+    
+तदिदं कवेर्मृगराजलक्ष्मणो भट्टनारायणस्य कृतिं वेणीसंहारं नाम नाटकं प्रयोक्तुमुद्यता वयम् । तदत्र कविपरिश्रमानुरोधाद्वोदात्तकथावस्तुगौरवाद्वा नवनाटकदर्शनकुतूहलाद्वा भवद्भिरवधानं दीयमानमभ्यर्थये ।  
+    
+*नेपथ्ये**
+
+भाव त्वर्यतां त्वर्यताम् । एते खल्वार्यविदुराज्ञया पुरुषाः सकलमेव शैलूषजनं व्याहरन्ति । प्रवर्त्यन्तामपरिहीयमानमातोद्यविन्यासादिका विधयः । प्रवेशकालः किल तत्रभवतः पाराशर्यनारदतुम्बुरुजामदग्न्यप्रभृतिभिर्मुनिवृन्दारकैरनुगम्यमानस्य भरतकुलहितकाम्यया स्वयं प्रतिपन्नदौत्यस्य देवकीसूनोश्चक्रपाणेर्महाराजदुर्योधनशिबिरं प्रति प्रस्थातुकामस्येति ।
+
+&सूत्रधारः&:  
+*आकर्ण्य सानन्दम्**  
+अहो नु खलु भो भगवता जगत्प्रभवस्थितिनिरोधप्रभविष्णुना विष्णुनाद्यानुगृहीतमिदं भरतकुलं सकलं च राजकमनयोः कुरुपाण्डवराजपुत्रयोराहवकल्पान्तानलप्रशमहेतुना स्वयं सन्धिकारिणा कंसारिणा दूतेन । तत्किमिति पारिपार्श्विक नारम्भयसि कुशीलवैः सह सङ्गीतकम् ।  
+    
+*प्रविश्य**
+
+&पारिपार्श्विकः&:  
+भवतु । आरम्भयामि । कं समयमाश्रित्य गीयताम् ।
+
+&सूत्रधारः&:  
+नन्वमुमेव तावच्चन्द्रातपनक्षत्रक्रौञ्चहंसकुलसप्तच्छदकुमुदपुण्डरीककाशकुसुमपरागधवलितगगनदिङ्मण्डलं स्वादुजलजलाशयं शरत्समयमाश्रित्य प्रवर्त्यतां सङ्गीतकम् । तथा ह्यस्यां शरदि  
+वेर्से_१।६  
+सत्पक्षा मधुरगिरः प्रसाधिताशा मदोद्धतारम्भाः ।  
+निपतन्ति धार्तराष्ट्राः कालवशान्मेदिनीपृष्ठे ॥ १।६ ॥
+
+&पारिपार्श्विकः&:  
+*ससम्भ्रमम्**  
+भाव शान्तं पापं प्रतिहतममङ्गलम् ।
+
+&सूत्रधारः&:  
+*सवैलक्ष्यस्मितम्**  
+मारिष शरत्समयवर्णनाशंसया हंसा धार्तराष्ट्रा इति व्यपदिश्यन्ते । तत्किं शान्तं पापं प्रतिहतममङ्गलम् ।
+
+&पारिपार्श्विकः&:  
+न खलु न जाने । किं त्वमङ्गलाशंसयास्य वो वचनस्य यत्सत्यं कम्पितमिव मे हृदयम् ।
+
+&सूत्रधारः&:  
+मारिष ननु सर्वमेवेदानीं प्रतिहतममङ्गलं स्वयं प्रतिपन्नदौत्येन सन्धिकारिणा कंसारिणा । तथा हि  
+वेर्से_१।७  
+निर्वाणवैरदहनाः प्रशमादरीणां $ नन्दन्तु पाण्डुतनयाः सह माधवेन &  
+रक्तप्रसाधितभुवः क्षतविग्रहाश्च ē̃ स्वस्था भवन्तु कुरुराजतनयाः सभृत्याः ॥ १।७ ॥
+
+*नेपथ्ये । साधिक्षेपम्**
+
+आः दुरात्मन्वृथामङ्गलपाठक शैलूषापसद ।  
+वेर्से_१।८  
+लाक्षागृहानलविषान्नसभाप्रवेशैः $ प्राणेषु वित्तनिचयेषु च नः प्रहृत्य &  
+आकृष्टपाण्डववधूपरिधानकेशाः ē̃ स्वस्था भवन्ति मयि जीवति धार्तराष्ट्राः ॥ १।८ ॥
+
+[सन्ध्यङ्ग । वलुए="उपक्षेप" रेस्प्="व् ६।६९" फ़्रोम्="प्ल्१"]  
+*सूत्रधारपारिपार्श्विकावाकर्णयतः**
+
+&पारिपार्श्विकः&:  
+भाव कुत एतत् ।
+
+&सूत्रधारः&:  
+*पृष्ठतो विलोक्य**  
+अये एष खलु वासुदेवगमनात्कुरुसन्धानममृष्यमाणः पृथुललाटतटघटितविकटकीनाशतोरणत्रिशूलायमानभीषणभ्रुकुटिरापिबन्निव नः सर्वान्दृष्टिपातेन सहदेवानुगम्यमानः क्रुद्धो भीमसेन इत एवाभिवर्तते । तन्न युक्तमस्य पुरतः स्थातुम् । तदित आवामन्यत्र गच्छावः ।  
+    
+*इति निष्क्रान्तौ**  
+    
+प्रस्तावना ।
+
+*ततः प्रविशति सहदेवानुगम्यमानः क्रुद्धो भीमसेनः**
+
+&भीमसेनः&:  
+आः दुरात्मन्वृथामङ्गलपाठक शैलूषापसद ।*लाक्षागृहेत्यादि पुनः पठति**
+
+&सहदेवः&:  
+*सानुनयम्**  
+आर्य मर्षय मर्षय । अनुमतमेव नो भरतपुत्रस्यास्य वचनम् । निर्वाणवैरदहना इति यथार्थमेव । सभृत्याः कुरवः क्षतजालङ्कृतवसुन्धराः क्षतशरीराश्च स्वर्गस्था भवन्त्विति ब्रवीति ।
+
+&भीमसेनः&:  
+*सोपालम्भम्**  
+न खलु न खल्वमङ्गलानि चिन्तयितुमर्हन्ति भवन्तः कौरवाणाम् । सन्धेयास्ते भ्रातरो युष्माकम् ।
+
+&सहदेवः&:  
+*सरोषम्**  
+आर्य  
+वेर्से_१।९  
+धृतराष्ट्रस्य तनयान्कृतवैरान्पदे पदे ।  
+राजा न चेन्निषेद्धा स्यात्कः क्षमेत तवानुजः ॥ १।९ ॥
+
+&भीमसेनः&:  
+एवमिदम् । अत एवाहमद्यप्रभृति भिन्नो भवद्भ्यः । पश्य ।  
+वेर्से_१।१०  
+प्रवृद्धं यद्वैरं मम खलु शिशोरेव कुरुभि- $ र्न तत्रार्यो हेतुर्न भवति किरीटी न च युवाम् &  
+जरासन्धस्योरःस्थलमिव विरूढं पुनरपि ē̃ क्रुधा सन्धिं भीमो विघटयति यूयं घटयत ॥ १।१० ॥
+
+[सन्ध्यङ्ग । वलुए="परिकर" रेस्प्="व्" फ़्रोम्="प्ल्२"]  
+    
+&सहदेवः&:  
+*सानुनयम्**  
+आर्य एवमतिसम्भृतक्रोधेषु युष्मासु कदाचित्खिद्यते गुरुः ।
+
+&भीमसेनः&:  
+किं नाम खिद्यते गुरुः । गुरुः खेदमपि जानाति । पश्य ।  
+वेर्से_१।११  
+तथाभूतां दृष्ट्वा नृपसदसि पाञ्चालतनयां $ वने व्याधैः सार्धं सुचिरमुषितं वल्कलधरैः &  
+विराटस्यावासे स्थितमनुचितारम्भनिभृतं ē̃ गुरुः खेदं खिन्ने मयि भजति नाद्यापि कुरुषु ॥ १।११ ॥  
+    
+तत्सहदेव निवर्तस्व । एवं चातिचिरप्रवृद्धामर्षोद्दीप्तस्य भीमस्य वचनाद्विज्ञापय राजानम् ।
+
+&सहदेवः&:  
+आर्य किमिति ।
+
+&भीमसेनः&:  
+एवं विज्ञापय ।  
+वेर्से_१।१२  
+युष्मच्छासनलङ्घनांहसि मया मग्नेन नाम स्थितं $ प्राप्ता नाम विगर्हणा स्थितिमतां मध्ये ऽनुजानामपि &  
+क्रोधोल्लासितशोणितारुणगदस्योच्छिन्दतः कौरवा- ē̃ नद्यैकं दिवसं ममासि न गुरुर्नाहं विधेयस्तव ॥ १।१२ ॥  
+    
+*इत्युद्धतं परिक्रामति**
+
+&सहदेवः&:  
+*तमेवानुगच्छन्नात्मगतम्**  
+अये कथमार्यः पाञ्चाल्याश्चतुःशालं प्रविष्टः । भवतु तावदहमत्रैव तिष्ठामि ।*इति स्थितः**
+
+&भीमसेनः&:  
+*प्रतिनिवृत्यावलोक्य च**  
+सहदेव गच्छ त्वं गुरुमनुवर्तस्व । अहमप्यायुधागारं प्रविश्यायुधसहायो भवामि ।
+
+&सहदेवः&:  
+आर्य नेदमायुधागारं पाञ्चाल्याश्चतुःशालमिदम् ।
+
+&भीमसेनः&:  
+*सवितर्कम्**  
+किं नाम नेदमायुधागारं पाञ्चाल्याश्चतुःशालमिदम् ।*किञ्चिद्विहस्य सहर्षम्**  
+आमन्त्रयितव्या मया पाञ्चाली ।*सप्रणयं सहदेवं हस्ते गृहीत्वा**  
+वत्स आगम्यताम् । यदार्यः कुरुभिः सन्धानमिच्छन्नस्मान्पीडयति तद्भवानपि पश्यतु ।  
+    
+*उभौ प्रवेशं नाटयतः**
+
+&सहदेवः&:  
+आर्य इदमासनमास्तीर्णम् । अत्रोपविश्य प्रतिपालयत्वार्यः कृष्णागमनम् ।
+
+&भीमसेनः&:  
+*उपविश्य**  
+वत्स कृष्णागमनमित्यनेनोपोद्घातेन स्मृतम् । अथ भगवान्कृष्णः केन पणेन सन्धिं कर्तुं सुयोधनं प्रति प्रहितः ।
+
+&सहदेवः&:  
+आर्य पञ्चभिर्ग्रामैः ।
+
+&भीमसेनः&:  
+*कर्णौ पिधाय**  
+अहह हन्त देवस्याजातशत्रोरप्ययमीदृशस्तेजोपकर्ष इति यत्सत्यं कम्पितमिव मे हृदयम् ।*परिवृत्य स्थित्वा**  
+तद्वत्स न त्वया कथितं न मया श्रुतम् ।  
+वेर्से_१।१३  
+यत्तदूर्जितमत्युग्रं क्षात्रं तेजो ऽस्य भूपतेः ।  
+दीव्यताक्षैस्तदानेन नूनं तदपि हारितम् ॥ १।१३ ॥
+
+*नेपथ्ये**
+
+{प्क्त्_१}समस्ससदु समस्ससदु भट्टिणी ।
+
+स्क्त्छ्_१: समाश्वसितु समाश्वसितु भट्टिनी ।
+
+&सहदेवः&:  
+*नेपथ्याभिमुखमवलोक्यात्मगतम्**  
+अये कथं याज्ञसेनी मुहुरुपचीयमानबाष्पपटलस्थगितनयनार्यसमीपमुपसर्पति । तत्कष्टतरमापतितम् ।  
+वेर्से_१।१४  
+यद्वैद्युतमिव ज्योतिरार्ये क्रुद्धे ऽद्य सम्भृतम् ।  
+तत्प्रावृडिव कृष्णेयं नूनं संवर्धयिष्यति ॥ १।१४ ॥
+
+*ततः प्रविशति यथानिर्दिष्टा द्रौपदी चेटी च । द्रौपदी सास्रं निश्वसिति**
+
+&चेटी&:  
+{प्क्त्_२}समस्ससदु समस्ससदु भट्टिणी । अबणैस्सदि दे मण्णुं णिच्चाणुबद्धकुरुवेलो कुमालो भीमसेणो ।
+
+स्क्त्छ्_२: समाश्वसितु समाश्वसितु भट्टिनी । अपनेष्यति ते मन्युं नित्यानुबद्धकुरुवैरः कुमारो भीमसेनः ।
+
+&द्रौपदी&:  
+{प्क्त्_३}हञ्जे बुद्धिमदिए होदि एदं जै महाराअस्स पडिउलो हुविस्सदि ।
+
+स्क्त्छ्_३: हञ्जे बुद्धिमतिके भवत्येतद्यदि महाराजस्य प्रतिकूलो भविष्यति ।
+
+&चेटी&:  
+{प्क्त्_४}*विलोक्य**  
+एसो कुमालो चिट्ठदि । ता णं उबसप्पदु भट्टिणी ।
+
+स्क्त्छ्_४: एष कुमारस्तिष्ठति । तदेनमुपसर्पतु भट्टिनी ।
+
+&द्रौपदी&:  
+{प्क्त्_५}हञ्जे एव्वं करेम्ह ।
+
+स्क्त्छ्_५: हञ्जे एवं कुर्वः ।  
+    
+*इति परिक्रामतः**
+
+&चेटी&:  
+{प्क्त्_६}*उपसृत्य**  
+जअदु जअदु कुमालो ।
+
+स्क्त्छ्_६: जयतु जयतु कुमारः ।
+
+&भीमसेनः&:  
+*अशृण्वन्यत्तदूर्जितमिति पुनः पठति**
+
+&चेटी&:  
+{प्क्त्_७}*परिवृत्य**  
+भट्टिणि परिकुबिदो विअ कुमालो लक्खीअदि ।
+
+स्क्त्छ्_७: भट्टिनि परिकुपित इव कुमारः लक्ष्यते ।
+
+&द्रौपदी&:  
+{प्क्त्_८}हञ्जे जै एव्वं ता अवहीरणा बि एसा मं अस्सासअदि । ता एत्थ उबविट्ठा भविअ सुणोमि दाव णाहस्स ववसिदं ।
+
+स्क्त्छ्_८: हञ्जे यद्येवं तदवधीरणाप्येषा मामाश्वासयति । तदत्रोपविष्टा भूत्वा शृणोमि तावन्नाथस्य व्यवसितम् ।  
+    
+*उभे तथा कुरुतः**
+
+&भीमसेनः&:  
+*सक्रोधं सहदेवमधिकृत्य**  
+किं नाम पञ्चभिर्ग्रामैः सन्धिः ।  
+वेर्से_१।१५  
+मथ्नामि कौरवशतं समरे न कोपा- $ द्दुःशासनस्य रुधिरं न पिबाम्युरस्तः &  
+सञ्चूर्णयामि गदया न सुयोधनोरू ē̃ सन्धिं करोतु भवतां नृपतिः पणेन ॥ १।१५ ॥
+
+&द्रौपदी&:  
+{प्क्त्_९}*सहर्षं जनान्तिकम्**  
+णाह अस्सुदपुव्वं खु दे ईदिसं वअणं । ता पुणो बि दाव भणाहि ।
+
+स्क्त्छ्_९: नाथ अश्रुतपूर्वं खलु त ईदृशं वचनम् । तत्पुनरपि तावद्भण ।
+
+&भीमसेनः&:  
+*अशृण्वन्नेव मथ्नामीत्यादि पुनः पठति**
+
+&सहदेवः&:  
+आर्य किं महाराजस्य सन्देशो ऽव्युत्पन्न इव गृहीतः ।
+
+&भीमसेनः&:  
+का पुनरत्र व्युत्पत्तिः ।
+
+&सहदेवः&:  
+आर्य एवं गुरणा सन्दिष्टम् ।
+
+&भीमसेनः&:  
+कस्य ।
+
+&सहदेवः&:  
+सुयोधनस्य ।
+
+&भीमसेनः&:  
+किमिति ।
+
+&सहदेवः&:  
+वेर्से_१।१६  
+इन्द्रप्रस्थं वृकप्रस्थं जयन्तं वारणावतम् ।  
+प्रयच्छ चतुरो ग्रामान्कञ्चिदेकं तु पञ्चमम् ॥ १।१६ ॥
+
+&भीमसेनः&:  
+ततः किम् ।
+
+&सहदेवः&:  
+तदेवमनया प्रतिनामग्रामप्रार्थनया पञ्चमस्य चाकीर्तनाद्विषभोजनजतुगृहदाहद्यूतसभाद्यपकारस्थानोद्घाटनमेवेदं मन्ये ।
+
+&भीमसेनः&:  
+*साटोपम्**  
+वत्स एवं कृते किं कृतं भवति ।
+
+&सहदेवः&:  
+आर्य एवं कृते लोके तावत्स्वगोत्रक्षयाशङ्कि हृदयमाविष्कृतं भवति कुरुराजस्यासन्धेयता च दर्शिता भवति ।
+
+&भीमसेनः&:  
+सर्वमप्येतदनर्थकम् । कुरुराजस्य तावदसन्धेयता तदैव निवेदिता यदैवास्माभिरितो वनं गच्छद्भिः सर्वैरेव कुरुकुलस्य निधनं प्रतिज्ञातम् । लोके ऽपि च धार्तराष्ट्रकुलक्षयः किं लज्जाकरो भवताम् । अपि च रे मूर्ख  
+वेर्से_१।१७  
+युष्मान्ह्रेपयति क्रोधाल्लोके शत्रुकुलक्षयः ।  
+न लज्जयति दाराणां सभायां केशकर्षणम् ॥ १।१७ ॥
+
+&द्रौपदी&:  
+{प्क्त्_१०}*जनान्तिकम्**  
+णाह ण लज्जन्ति एदे । तुमं बि दाव मा विसुमरेहि ।
+
+स्क्त्छ्_१०: नाथ न लज्जन्त एते । त्वमपि तावन्मा विस्मार्षीः ।
+
+&भीमसेनः&:  
+*सस्मरणम्**  
+वत्स कथं चिरयति पाञ्चाली ।
+
+&सहदेवः&:  
+आर्य का खलु वेला तत्रभवत्याः प्राप्तायाः । किं तु रोषावेशवशादागताप्यार्येण नोपलक्षिता ।
+
+&भीमसेनः&:  
+*दृष्ट्वा सादराम्**  
+देवि समुद्धतामर्षैरस्माभिरागतापि भवती नोपलक्षिता । अतो न मन्युं कर्तुमर्हसि ।  
+    
+&द्रौपदी&:  
+{प्क्त्_११}णाह उदासीणेसु तुम्हेसु मण्णू ण उण कुबिदेसु ।
+
+स्क्त्छ्_११: नाथ उदासीनेषु युष्मासु मन्युर्न पुनः कुपितेषु ।
+
+&भीमसेनः&:  
+यद्येवमपगतपरीभवमात्मानं समर्थयस्व ।*हस्तं गृहीत्वा पार्श्वे समुपवेश्य मुखमवलोक्य**  
+किं पुनरत्रभवतीमुद्विग्नामिवोपलक्षयामि ।
+
+&द्रौपदी&:  
+{प्क्त्_१२}णाह किं उव्वेअकालणं तुम्हेसु सण्णिहिदेसु ।
+
+स्क्त्छ्_१२: नाथ किमुद्वेगकारणं युष्मासु सन्निहितेषु ।
+
+&भीमसेनः&:  
+किमिति नावेदयसि ।*केशानवलोक्य**  
+अथ वा किमावेदितेन  
+वेर्से_१।१८  
+जीवत्सु पाण्डुपुत्रेषु दूरमप्रोषितेषु च ।  
+पाञ्चालराजतनया वहते यदिमां दशाम् ॥ १।१८ ॥
+
+&द्रौपदी&:  
+{प्क्त्_१३}हञ्जे बुद्धिमदिए णिवेदेहि दाव णाहस्स । को अण्णो मह परिहवेण खिज्जदि ।
+
+स्क्त्छ्_१३: हञ्जे बुद्धिमतिके निवेदय तावन्नाथस्य । को ऽन्यो मम परीभवेन खिद्यते ।
+
+&चेटी&:  
+{प्क्त्_१४}जं देवी आणवेदि ।*भीममुपसृत्याञ्जलिं बद्ध्वा**  
+कुमाल इदो बि अहिअं अज्ज मण्णुकालणं आसी देवीए ।
+
+स्क्त्छ्_१४: यद्देव्याज्ञापयति । कुमार इतो ऽप्यधिकमद्य मन्युकारणमासीद्देव्याः ।
+
+&भीमसेनः&:  
+किं नामास्मादप्यधिकतरम् । तत्कथय कथय ।  
+वेर्से_१।१९  
+कौरव्यवंशदावे ऽस्मिन्क एष शलभायते ।  
+मुक्तवेणीं स्पृशन्नेनां कृष्णां धूमशिखामिव ॥ १।१९ ॥
+
+&चेटी&:  
+{प्क्त्_१५}सुणादु कुमालो । अज्ज खु देवी अम्बासहिदा सुभद्दप्पमुहेण सबत्तिवग्गेण परिवुदा अज्जाए गन्धालीए पादवन्दणं कादुं गदा आसी ।
+
+स्क्त्छ्_१५: शृणोतु कमारः । अद्य खलु देव्यम्बासहिता सुभद्राप्रमुखेण सपत्नीवर्गेण परिवृतार्याया गान्धार्याः पादवन्दनं कर्तुं गतासीत् ।
+
+&भीमसेनः&:  
+युक्तमेतत् । वन्द्याः खलु गुरवः । ततस्ततः ।
+
+&चेटी&:  
+{प्क्त्_१६}तदो पडिणिउत्तमाणा भाणुमदीए दिट्ठा ।
+
+स्क्त्छ्_१६: ततः प्रतिनिवर्तमाना भानुमत्या दृष्टा ।
+
+&भीमसनः&:  
+*सक्रोधम्**  
+आः शत्रोर्भार्यया दृष्टा । हन्त स्थानं क्रोधस्य देव्याः । ततस्ततः ।
+
+&चेटी&:  
+{प्क्त्_१७}तदो ताए देविं पेक्खिअ सहीवअणदिण्णदिट्ठीए सगव्वं ईसि विहसिअ भणिदं ।
+
+स्क्त्छ्_१७: ततस्तया देवीं प्रेक्ष्य सखीवदनदत्तदृष्ट्या सगर्वमीषद्विहस्य भणितम् ।
+
+&भीमसेनः&:  
+न केवलं दृष्टोक्ता च । अहो किं कुर्मः । ततस्ततः ।
+
+&चेटी&:  
+{प्क्त्_१८}ऐ जण्णसेणि पञ्च गामा पत्थीअन्ति त्ति सुणीअदि । कीस दाणिं बि दे केसा ण सञ्जमीअन्ति ।
+
+स्क्त्छ्_१८: अयि याज्ञसेनि पञ्चग्रामाः प्रार्थ्यन्त इति श्रूयते । कस्मादिदानीमपि ते केशा न संयम्यन्ते ।
+
+&भीमसेनः&:  
+सहदेव श्रुतम् ।
+
+&सहदेवः&:  
+किमिहोच्यते । दुर्योधनकलत्रं हि सा । पश्य ।  
+वेर्से_१।२०  
+स्त्रीणां हि साहचर्याद्भवन्ति चेतांसि भर्तृसदृशानि ।  
+मधुरापि हि मूर्च्छयते विषविटपिसमाश्रिता वल्ली ॥ १।२० ॥
+
+&भीमसेनः&:  
+बुद्धिमतिके ततो देव्या किमभिहितम् ।
+
+&चेटी&:  
+{प्क्त्_१९}कुमाल जै परिजणहीणा भवे तदो देवी भणादि ।
+
+स्क्त्छ्_१९: कुमार यदि परिजनहीना भवेत्तदा देवी भणति ।
+
+&भीमसेनः&:  
+किं पुनरभिहितं भवत्या ।
+
+&चेटी&:  
+{प्क्त्_२०}मए एव्वं भणिदं । ऐ भाणुमदि तुम्हाणं अमुक्केसु केसेसु कहं अम्हाणं देवीए केसा सञ्जमीअन्ति त्ति ।
+
+स्क्त्छ्_२०: मया एवं भणितम् । अयि भानुमति युष्माकममुक्तेषु केशेषु कथमस्माकं देव्याः केशाः संयम्यन्त इति ।
+
+&भीमसेनः&:  
+*सपरितोषम्**  
+साधु बुद्धिमतिके साधु । तदभिहितं यदस्मत्परिजनोचितम् ।*स्वाभरणानि बुद्धिमतिकायै प्रयच्छति**  
+अत्रभवति पाञ्चालराजतनये श्रूयताम् । अचिरेणैव कालेन  
+वेर्से_१।२१  
+चञ्चद्भुजभ्रमितचण्डगदाभिघात- $ सञ्चूर्णितोरुयुगलस्य सुयोधनस्य &  
+स्त्यानावनद्धघनशोणितशोणपाणि- ē̃ रुत्तंसयिष्यति कचांस्तव देवि भीमः ॥ १।२१ ॥
+
+[सन्ध्यङ्ग । वलुए="परिन्यास" रेस्प्="व् ६।७१" फ़्रोम्="प्ल्३"]  
+    
+&द्रौपदी&:  
+{प्क्त्_२१}किं णाह दुक्करं तुए परिकुबिदेण ।  
+ अणुगेण्हन्तु एदं ववसिदं दे भादरो ।  
+    
+स्क्त्छ्_२१: किं नाथ दुष्करं त्वया परिकुपितेन । अनुगृह्णन्त्वेतद्व्यवसितं ते भ्रातरः ।  
+    
+[सन्ध्यङ्ग । वलुए="विलोभन" रेस्प्="व् ६।७२" फ़्रोम्="छ्२१" तो="प्ल्४"]  
+    
+&सहदेवः&:  
+अनुगृहीतमेतदस्माभिः ।  
+    
+*नेपथ्ये महान्कलकलः । सर्वे सविस्मयमाकर्णयन्ति**
+
+&भीमसेनः&:  
+वेर्से_१।२२  
+मन्थायस्तार्णवाम्भःप्लुतकुहरवलन्मन्दरध्वानधीरः $ कोणाघातेषु गर्जत्प्रलयघनघटान्यो ऽन्यसङ्घट्टचण्डः &  
+कृष्णाक्रोधाग्रदूतः कुरुकुलनिधनोत्पातनिर्घातवातः ē̃ केनास्मत्सिंहनादप्रतिरसितसखो दुन्दुभिस्ताड्यते ऽयम् ॥ १।२२ ॥
+
+*प्रविश्य सम्भ्रान्तः**
+
+&कञ्चुकी&:  
+कुमार एष खलु भगवान्वासुदेवः ।  
+    
+*सर्वे कृताञ्जलयः समुत्तिष्ठन्ति**
+
+&भीमसेनः&:  
+*ससम्भ्रमम्**  
+क्वासौ भगवान् ।
+
+&कञ्चुकी&:  
+पाण्डवपक्षपातामर्षितेन सुयोधनेन संयन्तुमारब्धः ।  
+    
+*सर्वे सम्भ्रमं नाटयन्ति**
+
+&भीमसेनः&:  
+किं संयतः ।
+
+&कञ्चुकी&:  
+न हि न हि संयन्तुमारब्धः ।
+
+&भीमसेनः&:  
+किं कृतं देवेन ।
+
+&कञ्चुकी&:  
+ततः स महात्मा दर्शितविश्वरूपतेजःसम्पातमूर्च्छितमवधूय कुरुकुलमस्मच्छिबिरसन्निवेशमनुप्राप्तः । कमारमविलम्बितं द्रष्टुमिच्छति ।
+
+&भीमसेनः&:  
+*सोपहासम्**  
+किं नाम दुरात्मा सुयोधनो भगवन्तं संयन्तुमिच्छति ।*आकाशे दत्तदृष्टिः**  
+आः दुरात्मन्कुरुकुलपांसन एवमतिक्रान्तमर्यादे त्वयि निमित्तमात्रेण पाण्डवक्रोधेन भवितव्यम् ।
+
+&सहदेवः&:  
+आर्य किमसौ दुरात्मा सुयोधनो वासुदेवमपि भगवन्तं स्वेन रूपेण न जानाति ।
+
+&भीमसेनः&:  
+वत्स मूढः खल्वयं दुरात्मा । कथं जानातु । पश्य ।  
+वेर्से_१।२३  
+आत्मारामा विहितमतयो निर्विकल्पे समाधौ $ ज्ञानोद्रेकाद्विघटिततमोग्रन्थयः सत्त्वनिष्ठाः &  
+यं वीक्षन्ते कमपि तमसां ज्योतिषां वा परस्ता- ē̃ त्तं मोहान्धः कथमयममुं वेत्तु देवं पुराणम् ॥ १।२३ ॥  
+    
+आर्य जयन्धर किमिदानीमध्यवस्यति गुरुः ।
+
+&कञ्चुकी&:  
+स्वयमेव गत्वा महाराजस्याध्यवसितं ज्ञास्यति कुमारः ।  
+*इति निष्क्रान्तः**
+
+*नेपथ्ये कलकलानन्तरम्**
+
+भो भो द्रुपदविराटवृष्ण्यन्धकसहदेवप्रभृतयो ऽस्मदक्षौहिणीपतयः कौरवचमूप्रधानयोधाश्च शृण्वन्तु भवन्तः ।  
+वेर्से_१।२४  
+यत्सत्यव्रतभङ्गभीरुमनसा यत्नेन मन्दीकृतं $ यद्विस्मर्तुमपीहितं शमवता शान्तिं कुलस्येच्छता &  
+तद्द्यूतारणिसम्भृतं नृपवधूकेशाम्बराकर्षणैः ē̃ क्रोधज्योतिरिदं महत्कुरुवने यौधिष्ठिरं जृम्भते ॥ १।२४ ॥
+
+&भीमसेनः&:  
+*आकर्ण्य । सहर्षम्**  
+जृम्भतां जृम्भतामप्रतिहतप्रसरमार्यस्य क्रोधज्योतिः ।
+
+&द्रौपदी&:  
+{प्क्त्_२२}णाह किं दाणिं एसो पलअजलहरत्थणिदमंसलो खणे खणे समरदुन्दुही ताडीअदि ।
+
+स्क्त्छ्_२२: नाथ किमिदानीमेष प्रलयजलधरस्तनितमांसलः क्षणे क्षणे समरदुन्दुभिस्ताड्यते ।
+
+&भीमसेनः&:  
+देवि किमन्यत् । यज्ञः प्रवर्तते ।
+
+&द्रौपदी&:  
+{प्क्त्_२३}*सविस्मयम्**  
+को एसो जण्णो ।
+
+स्क्त्छ्_२३: क एष यज्ञः ।
+
+&भीमसेनः&:  
+रणयज्ञः । तथा हि  
+वेर्से_१।२५  
+चत्वारो वयमृत्विजः स भगवान्कर्मोपदेष्टा हरिः $ सङ्ग्रामाध्वरदीक्षितो नरपतिः पत्नी गृहीतव्रता &  
+कौरव्याः पशवः प्रियापरिभवक्लेशोपशान्तिः फलं ē̃ राजन्योपनिमन्त्रणाय रसति स्फीतं यशोदुन्दुभिः ॥ १।२५ ॥
+
+&सहदेवः&:  
+आर्य गच्छामो वयमिदानीं गुरुजनानुज्ञाप्ता किक्रमानुरूपमाचरितुम् ।
+
+&भीमसेनः&:  
+वत्स एते वयमुद्यता एवार्यस्यानुज्ञानमनुष्ठातुम् ।*  
+उत्थाय**  
+देवि गच्छामो वयमिदानीं कुरुकुलक्षयाय ।
+
+&द्रौपदी&:  
+{प्क्त्_२४}*बाष्पं धारयन्ती**  
+णाह असुरसमराहिमुहस्स हरिणो विअ मङ्गलं तुम्हाणं होदु ।
+
+स्क्त्छ्_२४: नाथ असुरसमराभिमुखस्य हरेरिव मङ्गलं युष्माकं भवतु ।
+
+&उभौ&:  
+प्रतिगृहीतं मङ्गलवचनमस्माभिः ।
+
+&द्रौपदी&:  
+{प्क्त्_२५}अण्णं च णाह पुणो बि तुम्हेहिं समरादो आअच्छिअ अहं समासासैदव्वा ।
+
+स्क्त्छ्_२५: अन्यच्च नाथ पुनरपि युष्माभिः समरादागत्याहं समाश्वासयितव्या ।
+
+&भीमसेनः&:  
+ननु पाञ्चालराजतनये किमद्याप्यलीकाश्वासनया ।  
+वेर्से_१।२६  
+भूयः परिभवक्लान्तिलज्जाविधुरिताननम् ।  
+अनिःशेषितकौरव्यं न पश्यसि वृकोदरम् ॥ १।२६ ॥
+
+&द्रौपदी&:  
+{प्क्त्_२६}णाह मा खु मा खु जण्णसेणीपरिहवुद्दीबिदकोबाणला अणवेक्खिदसरीरा सञ्चरिस्सह । जदो अप्पमत्तसञ्चरणिज्जाइं रिउबलाइं सुणीअन्ति ।
+
+स्क्त्छ्_२६: नाथ मा खलु मा खलु याज्ञसेनीपरिभवोद्दीपितकोपानला अनपेक्षितशरीराः सञ्चरिष्यथ । यतो ऽप्रमत्तसञ्चरणीयानि रिपुबलानि श्रूयन्ते ।
+
+&भीमसेनः&:  
+अयि सुक्षत्रिये  
+वेर्से_१।२७  
+अन्यो ऽन्यास्फालभिन्नद्विपरुधिरवसामांसमस्तिष्कपङ्के $ मग्नानां स्यन्दनानामुपरिकृतपदन्यासविक्रान्तपत्तौ &  
+स्फीतासृक्पानगोष्ठीरसदशिवशिवातूर्यनृत्यत्कबन्धे ē̃ सङ्ग्रामैकार्णवान्तःपयसि विचरितुं पण्डिताः पाण्डुपुत्राः ॥ १।२७ ॥
+
+*इति निष्क्रान्ताः सर्वे**
+
+इति प्रथमो ऽङ्कः ।  
+    
+अच्त्_२  
+द्वितीयो ऽङ्कः ।  
+    
+*ततः प्रविशति कञ्चुकी**
+
+&कञ्चुकी&:  
+आदिष्टो ऽस्मि महाराजदुर्योधनेन । विनयन्धर सत्वरं गच्छ त्वम् । अन्विष्यतां देवी भानुमती । अपि निवृत्ताम्बायाः पादवन्दनसमयान्न वेति । यतस्तां विलोक्य निहताभिमन्यवो राधेयजयद्रथप्रभृतयो ऽस्मत्सेनापतयः समरभूमिं गत्वा सभाजयितव्या इति । तन्मया द्रुततरं गन्तव्यम् । अहो प्रभविष्णुता महाराजस्य यन्मम जरसाभिभूतस्य मर्यादामात्रमेवावरोधव्यापारः । अथ वा किमिति जरामुपालभेय यतः सर्वान्तःपुरिकाणामेव व्यावहारिको वेषश्चेष्टा च । तथा हि  
+वेर्से_२।१  
+नोच्चैः सत्यपि चक्षुषीक्षितमलं श्रुत्वापि नाकर्णितं $ शक्तेनाप्यधिकार इत्यधिकृता यष्टिः समालम्बिता &  
+सर्वत्र स्खलितेषु दत्तमनसा यातं मया नोद्धतं ē̃ सेवास्वीकृतजीवितस्य जरसा किं नाम यन्मे कृतम् ॥ २।१ ॥  
+    
+*परिक्रम्य दृष्ट्वाकाशे**  
+विहङ्गिके अपि श्वश्रूजनपादवन्दनं कृत्वा प्रतिनिवृत्ता भानुमती ।*कर्णं दत्त्वा**  
+किं कथयसि । एषा भानुमती देवी पत्युः समरविजयाशंसया निर्वर्तितगुरुदेवपादवन्दनाद्यप्रभृत्यारब्धनियमा बालोद्याने तिष्ठतीति । तद्भद्रे गच्छ त्वमात्मव्यापाराय यावदहमप्यत्रस्थां देवीं महाराजाय निवेदयामि ।*इति परिक्रम्य**  
+साधु पतिव्रते साधु स्त्रीभावे ऽपि वर्तमाना वरं भवती न पुनर्महाराजः यो ऽयमुद्यतेषु बलवत्स्वबलवत्सु वा वासुदेवसहायेषु पाण्डुपुत्रेष्वरिष्वद्याप्यन्तःपुरविहारमनुभवति ।*विचिन्त्य**  
+इदमपरमयथातथं स्वामिनश्चेष्टितम् । कुतः  
+वेर्से_२।२  
+आ शस्त्रग्रहणादकुण्ठपरशोस्तस्यापि जेता मुने- $ स्तापायास्य न पाण्डुसूनुभिरयं भीष्मः शरैः शायितः &  
+प्रौढानेकधनुर्धरारिविजयश्रान्तस्य चैकाकिनो ē̃ बालस्यायमरातिलूनधनुषः प्रीतो ऽभिमन्योर्वधात् ॥ २।२ ॥  
+    
+सर्वथा दैवं नः स्वस्ति करिष्यति । तद्यावदत्रस्थां देवीं महाराजाय निवेदयामि ।*इति निष्क्रान्तः**
+
+विष्कम्भकः ।
+
+*ततः प्रविशत्यासनस्था देवी भानुमती सखी चेटी च**
+
+&सखी&:  
+{प्क्त्_२७}सहि भाणुमदि कीस दाणिं तुमं सिबिणअदंसणमेत्तस्स किदे अहिमाणिणो महाराअदुज्जोहणस्स महिसी भविअ एव्वं विअलिअधीरभावा अदिमेत्तं सन्तप्पसि ।
+
+स्क्त्छ्_२७: सखि भानुमति कस्मादिदानीं त्वं स्वप्नदर्शनमात्रस्य कृते ऽभिमानिनो महाराजदुर्योधनस्य महिषी भूत्वैवं विगलितधीरभावातिमात्रं सन्तप्यसे ।
+
+&चेटी&:  
+{प्क्त्_२८}भट्टिणि सोहणं भणादि सुवअणा । सिबिणअन्तो जणो किं ण खु पलबदि ।
+
+स्क्त्छ्_२८: भट्टिनि शोभनं वदति सुवदना । स्वपञ्जनः किं न खलु प्रलपति ।
+
+&भानुमती&:  
+{प्क्त्_२९}हञ्जे एव्वं एदं । किं दु एदं सिबिणअं अदिमेत्तं अकुसलदंसणं मे पडिभादि ।
+
+स्क्त्छ्_२९: हञ्जे एवमेतत् । किं त्वयं स्वप्नो ऽतिमात्रमकुशलदर्शनो मे प्रतिभाति ।
+
+&सखी&:  
+{प्क्त्_३०}पिअसहि जै एव्वं ता कहेहि सिबिणअं जेण अम्हे बि पडिट्ठाबअन्तीओ धम्मप्पसंसाए देवदासङ्कित्तणेण दुव्वादिपडिग्गहेण अ पडिहडिस्सामो ।
+
+स्क्त्छ्_३०: प्रियसखि यद्येवं तत्कथय स्वप्नं येनावामपि प्रतिष्ठापयन्त्यौ धर्मप्रशंसया देवतासङ्कीर्तनेन दूर्वादिपरिग्रहेण च परिहरिष्यावः ।
+
+&चेटी&:  
+{प्क्त्_३१}सोहणं क्खु भणादि सुवअणा । अकुसलदंसणा सिबिणआ देवदाणं पसंसाए कुसलपरिणामा होन्ति त्ति सुणीअदि ।
+
+स्क्त्छ्_३१: शोभनं खलु भणति सुवदना । अकुशलदर्शनाः स्वप्ना देवतानां प्रशंसया कुशलपरिणामा भवन्तीति श्रूयते ।
+
+&भानुमती&:  
+{प्क्त्_३२}जै एव्वं ता कहैस्सं । अवहिदा दाव होहि ।
+
+स्क्त्छ्_३२: यद्येवं तत्कथयिष्ये । अवहिता तावद्भव ।
+
+&सखी&:  
+{प्क्त्_३३}अवहिदम्हि । कहेदु पिअसही ।
+
+स्क्त्छ्_३३: अवहितास्मि । कथयतु प्रियसखी ।
+
+&भानुमती&:  
+{प्क्त्_३४}हला भएण विसुमरिदम्हि । ता चिट्ठ जाव सव्वं सुमरिअ कहैस्सं ।*इति चिन्तां नाटयति**
+
+स्क्त्छ्_३४: हला भयेन विस्मृतास्मि । तत्तिष्ठ यावत्सर्वं स्मृत्वा कथयिष्यामि ।  
+    
+*ततः प्रविशति दुर्योधनः कञ्चुकी च**
+
+&दुर्योधनः&:  
+सूक्तमिदं कस्यचित् ।  
+वेर्से_२।३  
+गुप्त्या साक्षान्महानल्पः स्वयमन्येन वा कृतः ।  
+करोति महतीं प्रीतिमपकारो ऽपकारिणाम् ॥ २।३ ॥  
+    
+येनाद्य द्रोणकर्णजयद्रथादिभिर्हतमभिमन्युमुपश्रुत्य समुच्छ्वासितमिव नश्चेतसा ।
+
+&कञ्चुकी&:  
+देव नेदमतिदुष्करमाचार्यशस्त्रप्रभावाणां कर्णजयद्रथयोर्वा । का नामात्र श्लाघा ।
+
+&राजा&:  
+विनयन्धर किमाह भवान् । एको बहुभिर्बालो लूनशरासनश्च निहत इत्यत्र का श्लाघा कुरुपुङ्गवानामिति । मूढ पश्य ।  
+वेर्से_२।४  
+हते जरति गाङ्गेये पुरस्कृत्य शिखण्डिनम् ।  
+या श्लाघा पाण्डुपुत्राणां सैवास्माकं भविष्यति ॥ २।४ ॥
+
+&कञ्चुकी&:  
+*सवैलक्ष्यम्**  
+देव न ममायं सङ्कल्पः । किं तु भवत्पौरुषप्रतीघातो ऽस्माभिर्नावलोकितपूर्व इत्यत एवं विज्ञापयामि ।
+
+&राजा&:  
+एवमिदम् ।  
+वेर्से_२।५  
+सहभृत्यगणं सबान्धवं सहमित्रं ससुतं सहानुजम् ।  
+स्वबलेन निहन्ति संयुगे न चिरात्पाण्डुसुतः सुयोधनम् ॥ २।५ ॥
+
+&कञ्चुकी&:  
+*कर्णौ पिधाय सभयम्**  
+शान्तं पापम् । प्रतिहतममङ्गलम् ।
+
+&राजा&:  
+विनयन्धर किं मयोक्तम् ।
+
+&कञ्चुकी&:  
+*सहभृत्यगणं सबान्धवं सहमित्रं ससुतं सहानुजम् । स्वबलेन निहन्ति संयुगे न चिरात्पाण्डुसुतं सुयोधनः ॥ इति पठति**  
+एतद्विपरीतमभिहितं देवेन ।
+
+&राजा&:  
+विनयन्धर अद्य खलु भानुमती यथापूर्वं मामनामन्त्र्य वासभवनात्प्रातरेव निष्क्रान्तेति व्याक्षिप्तं मे मनः । तदादेशय तमुद्देशं यत्रस्था भानुमती ।
+
+&कञ्चुकी&:  
+इत इतो देवः ।  
+    
+*उभौ परिक्रामतः**
+
+&कञ्चुकी&:  
+*पुरो ऽवलोक्य समन्ततो गन्धमाघ्राय**  
+    
+देव पश्य पश्य । एतत्तुहिनकणशिशिरसमीरणोद्वेल्लितबन्धनच्युतशेफालिकाविरचितकुसुमप्रकरमीषदालोहितमुग्धवधूकपोलपाटललोध्रप्रसूनविजितश्यामलतासौभाग्यमुन्मीलितबकुलकुन्दकुसुमसुरभिशीतलं प्रभातकालरमणीयमग्रतस्ते बालोद्यानम् । तदवलोकयतु देवः । तथा हि  
+वेर्से_२।६  
+प्रालेयमिश्रमकरन्दकरालकोशैः $ पुष्पैः समं निपतिता रजनीप्रबुद्धैः &  
+अर्कांशुभिन्नमुकुलोदरसान्द्रगन्ध- ē̃ संसूचितानि कमलान्यलयः पतन्ति ॥ २।६ ॥
+
+&राजा&:  
+*समन्तादवलोक्य**  
+विनयन्धर इदमपरममुष्मिन्नुषसि रमणीयम् । पश्य ।  
+वेर्से_२।७  
+जृम्भारम्भप्रविततदलोपान्तजालप्रविष्टै- $ र्हस्तैर्भानोर्नृपतय इव स्पृश्यमाना विबुद्धाः &  
+स्त्रीभिः सार्धं घनपरिमलस्तोकलक्ष्याङ्गरागा ē̃ मुञ्चन्त्येते विकचनलिनीगर्भशय्यां द्विरेफाः ॥ २।७ ॥
+
+&कञ्चुकी&:  
+देव नन्वेषा देवी भानुमती सुवदनया तरलिकया च पर्युपास्यमाना तिष्ठति । तदुपसर्पतु देवः ।
+
+&राजा&:  
+*दृष्ट्वा**  
+आर्य विनयन्धर गच्छ त्वं साङ्ग्रामिकं मे रथमुपकल्पयितुम् । अहमप्येष देवीं दृष्ट्वानुपदमागत एव ।
+
+&कञ्चुकी&:  
+एष कृतो देवादेशः ।*इति निष्क्रान्तः**
+
+&सखी&:  
+{प्क्त्_३५}पिअसहि अबि सुमरिदं तुए ।
+
+स्क्त्छ्_३५: प्रियसखि अपि स्मृतं त्वया ।
+
+&भानुमती&:  
+{प्क्त्_३६}सहि सुमरिदं । अज्ज किल पमदवणे आसीणाए मम अग्गदो केण बि अदिसैददिव्वरूबिणा णौलेण अहिसदं वाबादिदं ।
+
+स्क्त्छ्_३६: सखि स्मृतम् । अद्य किल प्रमदवन आसीनाया ममाग्रतः केनाप्यतिशयितदिव्यरूपिणा नकुलेनाहिशतं व्यापादितम् ।
+
+&उभे&:  
+{प्क्त्_३७}*अपवार्यात्मगतम्**  
+सन्तं पाबं पडिहदं अमङ्गलं ।*प्रकाशम्**  
+तदो तदो ।
+
+स्क्त्छ्_३७: शान्तं पापं प्रतिहतममङ्गलम् । ततस्ततः ।
+
+&भानुमती&:  
+{प्क्त्_३८}अदिसन्दाबोबगहीअहिअआए विसुमरिदं मए । ता पुणो बि सुमरिअ कहैस्सं ।
+
+स्क्त्छ्_३८: अतिसन्तापोपगृहीतहृदयया विस्मृतं मया । तत्पुनरपि स्मृत्वा कथयिष्ये ।
+
+&राजा&:  
+अहो देवी भानुमती सुवदनातरलिकाभ्यां सह किमपि मन्त्रयमाणा तिष्ठति । भवतु । अनेन लताजालेनान्तरितः शृणोमि तावदासां विश्रब्धालापम् ।*इति तथा स्थितः**
+
+&सखी&:  
+{प्क्त्_३९}सहि अलं सन्दाबेण । कहेदु पिअसही ।
+
+स्क्त्छ्_३९: सखि अलं सन्तापेन । कथयतु प्रियसखी ।
+
+&राजा&:  
+किं नु खल्वस्याः सन्तापकारणम् । अथ वानामन्त्र्य मामियमद्य वासभवनान्निष्क्रान्तेति समर्थित एवास्या मया कोपः । अयि भानुमति अविषयः खलु दुर्योधनो भवत्याः कोपस्य ।  
+वेर्से_२।८  
+किं कण्ठे शिथिलीकृतो भुजलतापाशः प्रमादान्मया $ निद्राच्छेदविवर्तनेष्वभिमुखं नाद्यासि सम्भाविता &  
+अन्यस्त्रीजनसङ्कथालघुरहं स्वप्ने त्वया लक्षितो ē̃ दोषं पश्यसि कं प्रिये परिजनोपालम्भयोग्ये मयि ॥ २।८ ॥  
+    
+*विचिन्त्य**  
+अथ वा  
+वेर्से_२।९  
+इयमस्मदुपाश्रयैकचित्ता मनसा प्रेमनिबद्धमत्सरेण ।  
+नियतं कुपितातिवल्लभत्वात्स्वयमुत्प्रेक्ष्य ममापराधलेशम् ॥ २।९ ॥  
+    
+तथापि शृणुमस्तावत्किं वक्ष्यतीति ।
+
+&भानुमती&:  
+{प्क्त्_४०}हला हं तदो तस्स अदिसैददिव्वरूबिणो णौलस्स दंसणेण उस्सुआ जादा ।
+
+स्क्त्छ्_४०: हला अहं ततस्तस्यातिशयितदिव्यरूपिणो नकुलस्य दर्शनेनोत्सुका जाता ।
+
+&राजा&:  
+*सवैलक्ष्यम्**  
+किं नामातिशयितदिव्यरूपिणो नकुलस्य दर्शनेनोत्सुका जाता । तत्किमनया पापया माद्रीसुतानुरक्तया वयमेवं विप्रलब्धाः ।*सोत्प्रेक्षमियमस्मदिति पठित्वा**  
+मूढ दुर्योधन कुलटाविप्रलभ्यमानमात्मानं बहुमन्यमानो ऽधुना किं वक्ष्यसि ।*किं कण्ठ इत्यादि पठित्वा दिशो ऽवलोक्य**  
+अहो एतदर्थमेवास्याः प्रातरेव विविक्तस्थानाभिलाषः सखीजनसङ्कथासु च पक्षपातः । दुर्योधनस्तु मोहादविज्ञातबन्धकीहृदयसारः क्वापि परिभ्रान्तः । आः पापे मत्परिग्रहपांसुले  
+वेर्से_२।१०  
+तद्भीरुत्वं तव मम पुरः साहसानीदृशानि $ श्लाघा सास्मद्वपुषि विनयव्युत्क्रमे ऽप्येष रागः &  
+तच्चौदार्यं मयि जडमतौ चापले को ऽपि पन्थाः ē̃ ख्याते तस्मिन्वितमसि कुले जन्म कौलीनमेतत् ॥ २।१० ॥
+
+&सखी&:  
+{प्क्त्_४१}तदो तदो ।
+
+स्क्त्छ्_४१: ततस्ततः ।
+
+&भानुमती&:  
+{प्क्त्_४२}तदो उज्झिअ तं आसणट्ठाणं लदामण्डबं पविट्ठा । तदो सो बि मं अणुसरन्तो एव्व लदामण्डबं पविट्ठो ।
+
+स्क्त्छ्_४२: तत उज्झित्वा तदासनस्थानं लतामण्डपं प्रविष्टा । ततः सो ऽपि मामनुसरन्नेव लतामण्डपं प्रविष्टः ।
+
+&राजा&:  
+अहो कुटलोचितमस्याः पापाया अशालीनत्वम् ।  
+वेर्से_२।११  
+यस्मिंश्चिरप्रणयनिर्भरबद्धभाव- $ मावेदितो रहसि मत्सुरतोपभोगः &  
+तत्रैव दुश्चरितमद्य निवेदयन्ती ē̃ ह्रीणासि पापहृदये न सखीजने ऽस्मिन् ॥ २।११ ॥
+
+&उभे&:  
+{प्क्त्_४३}तदो तदो ।
+
+स्क्त्छ्_४३: ततस्ततः ।
+
+&भानुमती&:  
+{प्क्त्_४४}तदो तेण सगव्वं पसारिअकरेण अपहरिअं मे थणंसुअं ।
+
+स्क्त्छ्_४४: ततस्तेन सगर्वं प्रसारितकरेणापहृतं मे स्तनांशुकम् ।
+
+&राजा&:  
+*विचिन्त्य**  
+सगर्वं प्रसारितकरेणापहृतं मे स्तनांशुकम् ।*सक्रोधम्**  
+अलमतः परं श्रुत्वा । भवतु तावत्तस्य परवनितास्कन्दनप्रगल्भस्य माद्रीसुतहतकस्य जीवितमपहरामि ।*किञ्चिद्गत्वा विचिन्त्य**  
+अथ वेयमेव तावत्पापशीला प्रथममनुशासनीया ।*इति निवर्तते**
+
+&उभे&:  
+{न्_४५}तदो तदो ।
+
+स्क्त्छ्_४५: ततस्ततः ।
+
+&भानुमती&:  
+{प्क्त्_४६}तदो हं अज्जौत्तस्स पभादमङ्गलतूररवमिस्सेण वारविलासिणीसङ्गीदसद्देण पडिबोधिदम्हि ।
+
+स्क्त्छ्_४६: ततो ऽहमार्यपुत्रस्य प्रभातमङ्गलतूर्यरवमिश्रेण वारविलासिनीसङ्गीतशब्देन प्रतिबोधितास्मि ।
+
+&राजा&:  
+*सवितर्कम्**  
+किं नु प्रतिबोधितास्मीति स्वप्नदर्शनमनया वर्णितं भवेत् ।*विचिन्त्य**  
+भवतु सखीवचनाद्व्यक्तिर्भविष्यति ।  
+    
+*उभे सविषादमन्यो ऽन्यं पश्यतः**
+
+&सुवदना&:  
+{प्क्त्_४७}जं किं बि एत्थ अच्चाहिदं तं भाईरहीप्पमुहाणं णईणं सलिलेण अवहरीअदु । भअवदाणं बम्हणाणं बि आसीसाए आहुदिहुदेण पज्जलिदेण भअवदा हुदासणेण अ णस्सदु ।
+
+स्क्त्छ्_४७: यत्किमप्यत्रात्याहितं तद्भागीरथीप्रमुखाणां नदीनां सलिलेनापह्रियताम् । भगवतां ब्राह्मणानामप्याशिषाहुतिहुतेन प्रज्वलितेन भगवता हुताशनेन च नश्यतु ।
+
+&राजा&:  
+अलं विकल्पेन । स्वप्नदर्शनमेवैतदनया वर्णितम् । मया पुनर्मन्दधियान्यथैव सम्भावितम् ।  
+वेर्से_२।१२  
+दिष्ट्यार्धश्रुतिविप्रलम्भजनितक्रोधादहं नो गतो $ दिष्ट्या नो परुषं रुषार्धकथने किञ्चिन्मया व्याहृतम् &  
+मां प्रत्याययितुं विमूढहृदयं दिष्ट्या कथान्तं गता ē̃ मिथ्यादूषितयानया विरहितं दिष्ट्या न जातं जगत् ॥ २।१२ ॥
+
+&भानुमती&:  
+{प्क्त्_४८}हला कहेहि किं एत्थ सुहसूअअं ।
+
+स्क्त्छ्_४८: हला कथय किमत्र शुभसूचकम् ।
+
+&सखी चेटी च&:  
+{प्क्त्_४९}*अन्यो ऽन्यमवलोक्यापवार्य**  
+एत्थ णत्थि थोअं बि सुहसूअअं । जै एत्थ अलीअं कहैस्सं ता पिअसहीए अबराहिणी भविस्सं । सो एव्व सिणिद्धो जणो जो पुच्छिदो परुसं बि हिदं भणादि ।*प्रकाशम्**  
+सहि सव्वं एव्व एदं असुहणिवेदणं । ता देवदाणं पणामेण दुजादिजणपडिग्गहेण अ अन्तरीअदु । ण हु दाठिणो णौलस्स वा दंसणं अहिसदवहं अ सिबिणए पसंसन्ति विअक्खणा ।
+
+स्क्त्छ्_४९: अत्र नास्ति स्तोकमपि शुभसूचकम् । यद्यत्रालीकं कथयिष्ये तत्प्रियसख्या अपराधिनी भविष्यामि । स एव स्निग्धो जनो यः पृष्टः परुषमपि हितं भणति । सखि सर्वमेवैतदशुभनिवेदनम् । तद्देवतानां प्रणामेन द्विजातिजनप्रतिग्रहेण चान्तर्यताम् । न खलु दंष्ट्रिणो नकुलस्य वा दर्शनमहिशतवधं च स्वप्ने प्रशंसन्ति विचक्षणाः ।
+
+&राजा&:  
+अवितथमाह सुवदना । नकुलेन पन्नगशतवधः स्तनांशुकापहरणं च नियतमरिष्टोदर्कं तर्कयामि ।  
+वेर्से_२।१३  
+पर्यायेण हि दृश्यन्ते स्वप्नाः कामं शुभाशुभाः ।  
+शतसङ्ख्या पुनरियं सानुजं स्पृशतीव माम् ॥ २।१३ ॥  
+    
+*वामाक्षिस्पन्दनं सूचयित्वा**  
+आः ममापि नाम दुर्योधनस्यानिमित्तानि हृदयक्षोभमावेदयन्ति ।*सावष्टम्भम्**  
+अथ वा भीरुजनहृदयप्रकम्पनेषु का गणना दुर्योधनस्यैवंविधेषु । गीतश्चायमर्थो ऽङ्गिरसा ।  
+वेर्से_२।१४  
+ग्रहाणां चरितं स्वप्नो ऽनिमित्तान्युपयाचितम् ।  
+फलन्ति काकतालीयं तेभ्यः प्राज्ञा न बिभ्यति ॥ २।१४ ॥  
+    
+तद्भानुमत्याः स्त्रीस्वभावसुलभामलीकाशङ्कामपनयामि ।
+
+&भानुमती&:  
+{प्क्त्_५०}हला सुवअणे पेक्ख दाव उदअगिरिसिहरन्तरिदविमुक्करहवरो विअलिदसञ्झाराअप्पसण्णदुरालोअमण्डलो जादो भअवं दिअहणाहो ।
+
+स्क्त्छ्_५०: हला सुवदने पश्य तावदुदयगिरिशिखरान्तरितविमुक्तरथवरो विगलितसन्ध्यारागप्रसन्नदुरालोकमण्डलो जातो भगवान्दिवसनाथः ।
+
+&सखी&:  
+{प्क्त्_५१}सहि रोसाणिदकणअपत्तसरिसेण लदाजालन्तरोबहिदकिरणणिवहेण पिञ्जरिदुज्जाणभूमिभाओ दुप्पेक्खणिज्जो भअवं सहस्सरस्सी संवुत्तो । ता समओ दे लोहिदचन्दणकुसुमगब्भेण अग्घेण पज्जुबट्ठादुं ।
+
+स्क्त्छ्_५१: सखि रोषाणितकनकपत्रसदृशेन लताजालान्तरोपहितकिरणनिवहेन पिञ्जरितोद्यानभूमिभागो दुःप्रेक्षणीयो भगवान्सहस्ररश्मिः संवृत्तः । तत्समयस्ते लोहितचन्दनकुसुमगर्भेणार्घेण पर्युपस्थातुम् ।
+
+&भानुमती&:  
+{प्क्त्_५२}हञ्जे तरलिए उबणेहि मे अग्घभाअणं जाव भअवदो सहस्सरस्सिणो सबरिअं णिव्वत्तेमि ।
+
+स्क्त्छ्_५२: हञ्जे तरलिके उपनय मे ऽर्घ्यभाजनं यावद्भगवतः सहस्ररश्मेः सपर्यां निर्वर्तयामि ।
+
+&चेटी&:  
+{प्क्त्_५३}जं देवी आणबेदि ।*इति निष्क्रान्ता**
+
+स्क्त्छ्_५३: यद्देव्याज्ञापयति ।
+
+&राजा&:  
+अयमेव साधुतरोवसरः प्रियासमीपमुपगन्तुम् ।*इत्युपसर्पति**
+
+*प्रविश्य**
+
+&चेटी&:  
+{प्क्त्_५४}भट्टिणि एदं अग्घभाअणं । ता णिव्वत्तीअदु भअवदो सहस्सरस्सिणो सबरिआ ।
+
+स्क्त्छ्_५४: भट्टिनि इदमर्घ्यभाजनम् । तन्निवर्त्यतां भगवतः सहस्ररश्मेः सपर्या ।
+
+&सखी&:  
+{प्क्त्_५५}*विलोक्यात्मगतम्**  
+कहं महाराओ आअदो । हन्त जादो से णिअमभङ्गो ।
+
+स्क्त्छ्_५५: कथं महाराज आगतः । हन्त जातो ऽस्या नियमभङ्गः ।  
+    
+*राजोपसृत्य सञ्ज्ञया परिजनमुत्सार्य स्वयमेवार्घ्यपात्रं गृहीत्वा ददाति**
+
+&भानुमती&:  
+{प्क्त्_५६}*दिनकराभिमुखी भूत्वा**  
+भअवं अम्बरमहासरेक्कसहस्सपत्त पुव्वदिहावहूमुहमण्डलकुङ्कुमविसेसअ सअलभुअणेक्करअणप्पदीब जं एत्थ सिबिणअदंसणे किं बि अच्चाहिदं तं भअवदो पणामेण सभादुअस्स अज्जौत्तस्स कुसलपरिणामि होदु ।*अर्घ्यं दत्त्वा**  
+हञ्जे तरलिए उबणेहि मे कुसुमाइं । अबराणं बि देवदाणं सबरिअं णिव्वत्तेमि ।*हस्तौ प्रसारयति**
+
+स्क्त्छ्_५६: भगवन्नम्बरमहासरएकसहस्रपत्र पूर्वदिशावधूमुखमण्डलकुङ्कुमविशेषक सकलभुवनैकरत्नप्रदीप यदत्र स्वप्नदर्शने किमप्यत्याहितं तद्भगवतः प्रणामेन सभ्रातृकस्यार्यपुत्रस्य कुशलपरिणामि भवतु । हञ्जे तरलिके उपनय मे कुसुमानि । अपरासामपि देवतानां सपर्यां निर्वर्तयामि ।  
+    
+*राजा पुष्पाण्युपनयति स्पर्शसुखमभिनीय च कुसुमानि भूमौ पातयति**
+
+&भानुमती&:  
+{प्क्त्_५७}*सरोषम्**  
+अहो पमादो परिअणस्स ।*परिवृत्य दृष्ट्वा ससम्भ्रमम्**  
+कहं अज्जौत्तो ।
+
+स्क्त्छ्_५७: अहो प्रमादः परिजनस्य । कथमार्यपुत्रः ।
+
+&राजा&:  
+देवि अनिपुणः परिजनो ऽयमेवंविधे सेवावकाशे । तत्प्रभवत्यत्रानुशासने देवी ।  
+    
+*भानुमती लज्जां नाटयति**
+
+&राजा&:  
+अयि प्रिये  
+वेर्से_२।१५  
+विकिर धवलदीर्घापाङ्गसंसर्पि चक्षुः $ परिजनपथवर्तिन्यत्र किं सम्भ्रमेण &  
+स्मितमधुरमुदारं देवि मामालपोच्चैः ē̃ प्रभवति मम पाण्योरञ्जलिः सेवितुं त्वाम् ॥ २।१५ ॥
+
+&भानुमती&:  
+{प्क्त्_५८}अज्जौत्त अब्भणुण्णादाए तुए अत्थि मे कस्सिं बि णिअमे अहिलासो ।
+
+स्क्त्छ्_५८: आर्यपुत्र अभ्यनुज्ञातायास्त्वयास्ति मे कस्मिन्नपि नियमे ऽभिलाषः ।
+
+&राजा&:  
+श्रुतविस्तार एवास्मि भवत्याः स्वप्नवृत्तान्तं प्रति । तदलमेवं प्रकृतिसुकुमारमात्मानं खेदयितुम् ।
+
+&भानुमती&:  
+{प्क्त्_५९}अज्जौत्त अदिमेत्तं मे सङ्का बाहेइ । ता अणुमण्णदु मं अज्जौत्त ।
+
+स्क्त्छ्_५९: आर्यपुत्र अतिमात्रं मां शङ्का बाधते । तदनुमन्यतां मामार्यपुत्रः ।
+
+&राजा&:  
+*सगर्वम्**  
+देवि अलमनया शङ्कया । पश्य ।  
+वेर्से_२।१६  
+किं नो व्याप्तदिशां प्रकम्पितभुवामक्षौहिणीनां फलं $ किं द्रोणेन किमङ्गराजविशिखैरेवं यदि क्लाम्यसि &  
+भीरु भ्रातृशतस्य मे भुजवनच्छायां सुखोपस्थिता ē̃ त्वं दुर्योधनकेसरीन्द्रगृहिणी शङ्कास्पदं किं तव ॥ २।१६ ॥
+
+&भानुमती&:  
+{प्क्त्_६०}अज्जौत्त ण हु किं बि मे सङ्काकालणं तुम्हेसु सण्णिहिदेसु । किं तु अज्जौत्तस्स एव्व मणोरहसम्पत्तिं अभिणन्दामि ।
+
+स्क्त्छ्_६०: आर्यपुत्र न खलु किमपि मे शङ्काकारणं युष्मासु सन्निहितेषु । किं त्वार्यपुत्रस्यैव मनोरथसम्पत्तिमभिनन्दामि ।
+
+&राजा&:  
+अयि सुन्दरि एतावन्त एव मनोरथा यदहं दयितया सङ्गतः स्वेच्छया विहरामीति । पश्य ।  
+वेर्से_२।१७  
+प्रेमाबद्धस्तिमितनयनापीयमानाब्जशोभं $ लज्जायोगादविशदकथं मन्दमन्दस्मितं वा &  
+वक्त्रेन्दुं ते नियममुषितालक्तकाग्राधरं वा । ē̃ पातुं वाञ्छा परमसुलभं किं नु दुर्योधनस्य ॥ २।१७ ॥
+
+*नेपथ्ये महान्कलकलः । सर्व आकर्णयन्ति**
+
+&भानुमती&:  
+{प्क्त्_६१}*सभयं राजानं परिष्वज्य**  
+परित्ताअदु परित्ताअदु अज्जौत्तो ।
+
+स्क्त्छ्_६१: परित्रायतां परित्रायतामार्यपुत्रः ।
+
+&राजा&:  
+*समन्तादवलोक्य**  
+प्रिये अलं सम्भ्रमेण । पश्य ।  
+वेर्से_२।१८  
+दिक्षु व्यूढाङ्घ्रिपाङ्गस्तृणजटिलचलत्पांशुदण्डो ऽन्तरिक्षे $ झाङ्कारी शर्करालः पथिषु विटपिनां स्कन्धकाषैः सधूमः &  
+प्रासादानां निकुञ्जेष्वभिनवजलदोद्गारगम्भीरधीर- ē̃ श्चण्डारम्भः समीरो वहति परिदिशं भीरु किं सम्भ्रमेण ॥ २।१८ ॥
+
+&सखी&:  
+{प्क्त्_६२}महाराओ पविसदु एदं दारुपव्वअपासादं । उव्वेअकारी खु अअं उत्थिदपरुसरअकलुसीकिदणअणो उम्मूलिदतरुवरसद्दवित्तत्थमन्दुरापरिब्भट्ठवल्लहतुलङ्गमपज्जाउलीकिदजणपद्धई भीसणो समीरणासारो ।
+
+स्क्त्छ्_६२: महाराजः प्रविशत्विमं दारुपर्वतप्रासादम् । उद्वेगकारी खल्वयमुत्थितपरुषरजःकलुषीकृतनयन उन्मूलिततरुवरशब्दवित्रस्तमन्दुरापरिभ्रष्टवल्लभतुरङ्गमपर्याकुलीकृतजनपद्धतिर्भीषणः समीरणासारः ।
+
+&राजा&:  
+*सहर्षम्**  
+उपकारि खल्विदं वात्याचक्रं सुयोधनस्य । यस्य प्रसादादयत्नपरित्यक्तनियमया देव्या सम्पादितो ऽस्मन्मनोरथः । कथमिति ।  
+वेर्से_२।१९  
+न्यस्ता न भ्रुकुटिर्न बाष्पसलिलैराच्छादिते लोचने $ नीतं नाननमन्यतः सशपथं नाहं स्पृशन्वारितः &  
+तन्व्या मग्नपयोधरं भयवशादाबद्धमालिङ्गितं ē̃ भङ्क्तास्या नियमस्य भीषणमरुन्नायं वयस्यो मम ॥ २।१९ ॥  
+    
+तत्सम्पूर्णमनोरथस्य मे कामचारः सम्प्रति विहारेषु । तदितो दारुपर्वतप्रासादमेव गच्छामः ।  
+    
+*सर्वे वात्याबाधां रूपयन्तो यत्नतः परिक्रामन्ति**
+
+&राजा&:  
+वेर्से_२।२०  
+कुरु घनोरु पदानि शनैः शनैरयि विमुञ्च गतिं परिवेपिनीम् ।  
+पतसि बाहुलतोपरिबन्धनं मम निपीडय गाढमुरःस्थलम् ॥ २।२० ॥  
+    
+*प्रवेशं रूपयित्वा**  
+प्रिये अलब्धावकाशः समीरणः संवृतत्वाद्गर्भगृहस्य । विस्रब्धमुन्मीलय चक्षुरुन्मृष्टरेणुनिकरम् ।
+
+&भानुमती&:  
+{प्क्त्_६३}*सहर्षम्**  
+दिट्ठिआ इह दाव उप्पादसमीरणो ण बाधेदि ।
+
+स्क्त्छ्_६३: दिष्ट्येह तावदुत्पातसमीरणो न बाधते ।
+
+&सखी&:  
+{प्क्त्_६४}महाराअ आरोहणसम्भमणिस्सहं पिअसहीए ऊरुजुअलं । ता कीस दाणिं महाराओ आसणवेदिं ण भूसेदि ।
+
+स्क्त्छ्_६४: महाराज आरोहणसम्भ्रमनिःसहं प्रियसख्या ऊरुयुगलम् । तत्कस्मादिदानीं महाराज आसनवेदीं न भूषयति ।
+
+&राजा&:  
+*देवीमवलोक्य**  
+भवति अनल्पमेवापकृतं वात्यासम्भ्रमेण । तथा हि  
+वेर्से_२।२१  
+रेणुर्बाधां विधत्ते तनुरपि महतीं नेत्रयोरायतत्वा- $ दुत्कम्पो ऽल्पो ऽपि पीनस्तनभरितमुरः क्षिप्तहारं दुनोति &  
+ऊर्वोर्मन्दे ऽपि याते पृथुजघनभराद्वेपथुर्वर्धते ऽस्या ē̃ वात्या खेदं कृशाङ्गयाः सुचिरमवयवैर्दत्तहस्ता करोति ॥ २।२१ ॥
+
+*सर्व उपविशन्ति**
+
+&राजा&:  
+तत्किमित्यनास्तीर्णं कठिनं शिलातलमध्यास्ते देवी ।  
+वेर्से_२।२२  
+लोलांशुकस्य पवनाकुलितांशुकान्तं $ त्वद्दृष्टिहारि मम लोचनबान्धवस्य &  
+अध्यासितुं तव चिरं जघनस्थलस्य ē̃ पर्याप्तमेव करभोरु ममोरुयुग्मम् ॥ २।२२ ॥
+
+*प्रविश्य पटाक्षेपेण सम्भ्रान्तः**
+
+&कञ्चुकी&:  
+देव भग्नं भग्नम् ।  
+    
+*सर्वे सातङ्कं पश्यन्ति**
+
+&राजा&:  
+किं नाम ।
+
+&कञ्चुकी&:  
+भग्नं भीमेन ।
+
+&राजा&:  
+आः किं प्रलपसि ।
+
+&भानुमती&:  
+{प्क्त्_६५}अज्ज किं अणत्थं मन्तेसि ।
+
+स्क्त्छ्_६५: आर्य किमनर्थं मन्त्रयसे ।
+
+&कञ्चुकी&:  
+*सभयम्**  
+ननु भग्नं भीमेन भवतः ।
+
+&राजा&:  
+धिक्प्रलापिन्वृद्धापसद को ऽयमद्य ते व्यामोहः ।
+
+&कञ्चुकी&:  
+देव न खलु कश्चिद्व्यामोहः । सत्यमेव ब्रवीमि ।  
+वेर्से_२।२३  
+भग्नं भीमेन भवतो मरुता रथकेतनम् ।  
+पतितं किङ्किणीक्वाणबद्धाक्रन्दमिव क्षितौ ॥ २।२३ ॥
+
+&राजा&:  
+बलवत्समीरणवेगात्कम्पिते भुवने भग्नः स्यन्दनकेतुः । तत्किमित्युद्धतं प्रलपसि भग्नं भग्नमिति ।
+
+&कञ्चुकी&:  
+देव न किञ्चित् । किं तु शमनार्थमस्यानिमित्तस्य विज्ञापयितव्यो देव इति स्वामिभक्तिर्मां मुखरयति ।
+
+&भानुमती&:  
+{प्क्त्_६६}अज्जौत्त परिहरीअदु एदं अणिमित्तं पसण्णबम्हणवेआणुघोसेण होमेण अ ।
+
+स्क्त्छ्_६६: आर्यपुत्र परिहार्यतामेतदनिमित्तं प्रसन्नब्राह्मणवेदानुघोषेण होमेन च ।
+
+&राजा&:  
+*सावज्ञम्**  
+ननु गच्छ । पुरोहितसुमित्राय निवेदय ।
+
+&कञ्चुकी&:  
+यदाज्ञापयति देवः ।*इति निष्क्रान्तः**
+
+*प्रविश्य**
+
+&प्रतीहारी&:  
+{प्क्त्_६७}*सोद्वेगमुपसृत्य**  
+जअदु जअदु महाराओ । महाराअ एसा खु जामादुणो सिन्धुराअस्स मादा दुस्सला अ पडिहारभूमीए चिट्ठदि ।
+
+स्क्त्छ्_६७: जयतु जयतु महाराजः । महाराज एषा खलु जामातुः सिन्धुराजस्य माता दुःशला च प्रतीहारभूमौ तिष्ठति ।
+
+&राजा&:  
+*किञ्चिद्विचिन्त्यात्मगतम्**  
+किं जयद्रथमाता दुःशला चेति । कच्चिदभिमन्युवधामर्षितैः पाण्डुपुत्रैर्न किञ्चिदत्याहितमाचेष्टितं भवेत् ।*प्रकाशम्**  
+गच्छ । प्रवेशय शीघ्रम् ।
+
+&प्रतीहारी&:  
+{प्क्त्_६८}जं महाराओ आणबेदि ।*इति निष्क्रान्तः**
+
+स्क्त्छ्_६८: यन्महाराज आज्ञापयति ।  
+    
+*ततः प्रविशति सम्भ्रान्ता जयद्रथमाता दुःशला च । उभे सास्रं दुर्योधनस्य पादयोः पततः**
+
+&माता&:  
+{प्क्त्_६९}परित्ताअदु परित्ताअदु कुलुणाहो ।
+
+स्क्त्छ्_६९: परित्रायतां परित्रायतां कुरुनाथः ।  
+    
+*दुःशला रोदिति**
+
+&राजा&:  
+*ससम्भ्रममुत्थाप्य**  
+अम्ब समाश्वसिहि समाश्वसिहि । किमत्याहितम् । अपि कुशलं समराङ्गणेष्वप्रतिरथस्य जयद्रथस्य ।
+
+&माता&:  
+{प्क्त्_७०}जाद कुदो कुसलं ।
+
+स्क्त्छ्_७०: जात कुतः कुशलम् ।
+
+&राजा&:  
+कथमिव ।
+
+&माता&:  
+{प्क्त्_७१}*साशङ्कम्**  
+अज्ज खु पुत्तवहामरिसुद्दीबिदेण गण्डीविणा अणत्थमिदे दिअसणाहे तस्स वहो पडिण्णादो ।
+
+स्क्त्छ्_७१: अद्य खलु पुत्रवधामर्षोद्दीपितेन गाण्डीविनानस्तमिते दिवसनाथे तस्य वधः प्रतिज्ञातः ।
+
+&राजा&:  
+*सस्मितम्**  
+इदं तदश्रुकारणमम्बाया दुःशलायाश्च । पुत्रशोकादुन्मत्तस्य किरीटिनः प्रलापैरेवमवस्था । अहो मुग्धत्वमबलानाम् । अम्ब कृतं विषादेन । वत्से दुःशले अलमश्रुपातेन । कुतश्चायं तस्य धनञ्जयस्य प्रभावो दुर्योधनबाहुपरिघरक्षितस्य महारथजयद्रथस्य विपत्तिमुत्पादयितुम् ।
+
+&माता&:  
+{प्क्त्_७२}जाद पुत्तबन्धुवहामरिसुद्दीबिदकोबाणला अणवेक्खिदसरीरा वीरा परिक्कमन्ति ।
+
+स्क्त्छ्_७२: जात पुत्रबन्धुवधामर्षोद्दीपितकोपानला अनपेक्षितशरीरा वीराः परिक्रामन्ति ।
+
+&राजा&:  
+*सोपहासम्**  
+एवमेतत् । सर्वजनप्रसिद्धैवामर्षिता पाण्डवानाम् । पश्य ।  
+वेर्से_२।२४  
+हस्ताकृष्टविलोलकेशवसना दुःशासनेनाज्ञया $ पाञ्चाली मम राजचक्रपुरतो गौर्गौरिति व्याहृता &  
+तस्मिन्नेव स किं नु गाण्डिवधरो नासीत्पृथानन्दनो ē̃ यूनः क्षत्रियवंशजस्य कृतिनः क्रोधास्पदं किं न तत् ॥ २।२४ ॥
+
+&माता&:  
+{प्क्त्_७३}असमत्तपडिण्णाभरस्स अत्तवहो से पडिण्णादो ।
+
+स्क्त्छ्_७३: असमाप्तप्रतिज्ञाभरस्यात्मवधो ऽस्य प्रतिज्ञातः ।
+
+&राजा&:  
+यद्येवमलमानन्दस्थाने ऽपि ते विषादेन । ननु वक्तव्यमुत्सन्नः सानुजो युधिष्ठिर इति । अन्यच्च मातः का शक्तिरस्ति धनञ्जयस्यान्यस्य वा कुरुशतपरिवारवर्धितमहिम्नः कृपकर्णद्रोणाश्वत्थामादिमहारथद्विगुणीकृतनिरावरणविक्रमस्य नामापि ग्रहीतुं ते तनयस्य । अयि सुतपराक्रमानभिज्ञे  
+वेर्से_२।२५  
+धर्मात्मजं प्रति यमौ च कथैव नास्ति $ मध्ये वृकोदरकिरीटभृतोर्बलेन &  
+एको ऽपि विस्फुरितमण्डलचापचक्रं ē̃ कः सिन्धुराजमभिषेणयितुं समर्थः ॥ २।२५ ॥
+
+&भानुमती&:  
+{प्क्त्_७४}अज्जौत्त जै बि एव्वं तह बि गुरुकिदपडिण्णाभरो धणञ्जओ णिदाणं क्खु सङ्काए ।
+
+स्क्त्छ्_७४: आर्यपुत्र यद्यप्येवं तथापि गुरुकृतप्रतिज्ञाभरो धनञ्जयः निदानं खलु शङ्कायाः ।
+
+&माता&:  
+{प्क्त्_७५}जादे साहु कालोइदं तुए मन्तिदं ।
+
+स्क्त्छ्_७५: जाते साधु कालोचितं त्वया मन्त्रितम् ।
+
+&राजा&:  
+आः ममापि नाम दुर्योधनस्य शङ्कास्थानं पाण्डवाः । पश्य ।  
+वेर्से_२।२६  
+कोदण्डज्याकिणाङ्कैरगणितरिपुभिः कङ्कटोन्मुक्तदेहैः $ श्लिष्टान्यो ऽन्यातपत्रैः सितकमलवनभ्रान्तिमुत्पादयद्भिः &  
+रेणुग्रस्तार्कभासां प्रचलदसिलतादन्तुराणां बलाना- ē̃ माक्रान्ता भ्रातृभिर्मे दिशि दिशि समरे कोटयः सम्पतन्ति ॥ २।२६ ॥  
+    
+अपि च भानुमति विज्ञातपाण्डवप्रभावे किं त्वमप्येवमाशङ्कसे । पश्य ।  
+वेर्से_२।२७  
+दुःशासनस्य हृदयक्षतजाम्बुपाने $ दुर्योधनस्य च यथा गदयोरुभङ्गे &  
+तेजस्विनां समरमूर्धनि पाण्डवानां ē̃ ज्ञेया जयद्रथवधे ऽपि तथा प्रतिज्ञा ॥ २।२७ ॥  
+    
+कः को ऽत्र भोः । जैत्रं मे रथमुपकल्पय तावत् । यावदहमपि तस्य प्रगल्भपाण्डवस्य जयद्रथपरिरक्षणेनैव मिथ्याप्रतिज्ञावैलक्ष्यसम्पादितमशस्त्रपूतं मरणमुपदिशामि ।  
+    
+*प्रविश्य**
+
+&कञ्चुकी&:  
+देव  
+वेर्से_२।२८  
+उद्घातक्वणितविलोलहेमघण्टः $ प्रालम्बद्विगुणितचामरप्रहासः &  
+सज्जो ऽयं नियमितवल्गिताकुलाश्वः ē̃ शत्रूणां क्षपितमनोरथो रथस्ते ॥ २।२८ ॥
+
+&राजा&:  
+देवि प्रविश त्वमभ्यन्तरमेव ।*यावदहमपि तस्य प्रगल्भपाण्डवस्य इत्यादि पठन्परिक्रामति**
+
+*इति निस्क्रान्ताः सर्वे**
+
+इति द्वितीयो ऽङ्कः ।  
+अच्त्_३  
+तृतीयो ऽङ्कः ।  
+    
+*ततः प्रविशति विकृतवेषा राक्षसी**
+
+&राक्षसी&:  
+*विकृतं विहस्य सपरितोषम्**  
+    
+वेर्से_३।१  
+हदमाणुशमंशभालए कुम्भशहश्शवशाहिं शञ्चिदे ।  
+अणिशं अ पिबामि शोणिअं वलिशशदं शमले हुवीअदु ॥ ३।१ ॥  
+    
+{प्क्त्_७७}*नृत्यन्ती सपरितोषम्**  
+जै शिन्धुलाअवहदिअहे विअ दिअहे दिअहे शमलकम्म पडिबज्जै अज्जुणे तदो पज्जत्तभलिदकोट्ठागाले मंशशोणिएहिं मे गेहे हुवीअदि ।*परिक्रम्य दिशो ऽवलोक्य**  
+अह कहिं णु खु लुहिलप्पिए हुवीअदि । ता जाव इमश्शिं शमले पिअभत्तालं लुहिलप्पिअं अण्णेशामि ।*परिक्रम्य**  
+होदु शद्दाबैश्शं दाव । अले लुहिलप्पिआ लुहिलप्पिआ इदो एहि इदो एहि ।
+
+स्क्त्छ्_७६: हतमानुषमांसभारके कुम्भसहस्रवसाभिः सञ्चिते । अनिशं च पिबामि शोणितं वर्षशतं समरो भवतु ॥ १ ॥  
+    
+स्क्त्छ्_७७: यदि सिन्धुराजवधदिवस इव दिवसे दिवसे समरकर्म प्रतिपद्यते ऽर्जुनस्तदा पर्याप्तभृतकोष्ठागारं मांसशोणितैर्मे गृहं भविष्यति । अथ क्व नु खलु रुधिरप्रियो भविष्यति । तद्यावदेतस्मिन्समरे प्रियभर्तारं रुधिरप्रियमन्वेष्यामि । भवतु शब्दायिष्ये तावत् । अरे रुधिरप्रिय रुधिरप्रिय इत एहीत एहि ।  
+    
+*ततः प्रविशति तथाविधो राक्षसः**
+
+&राक्षसः&:  
+*श्रमं नाटयन्**  
+    
+वेर्से_३।२  
+पच्चग्गहदाणं मंशए जै उण्हे लुहिले अ लम्भै ।  
+ता एशे मह पलिश्शमे खणमेत्तं एव्व लहु णश्शै ॥ ३।२ ॥
+
+स्क्त्छ्_७८: प्रत्यग्रहतानां मांसं यद्युष्णं रुधिरं च लभ्येत । तदेष मम परिश्रमः क्षणमात्रमेव लघु नश्येत् ॥ २ ॥  
+    
+*राक्षसी पुनर्व्याहरति**
+
+&राक्षसः&:  
+{प्क्त्_७९}*आकर्ण्य**  
+अले के एशे मं सद्दाबेदि ।*विलोक्य**  
+कहं पिआ मे वशागन्धा ।*उपसृत्य**  
+वशागन्धे कीश मं शद्दाबेशि ।  
+    
+वेर्से_३।३  
+लुहिलाशवपाणमत्तिए लणहिण्डणखलन्तगत्तिए ।  
+शद्दाअशि कीश मं पिए पुलिशशहश्शं हदं शुणीअदि ॥ ३।३ ॥
+
+स्क्त्छ्_७९: अरे कैषा मां शब्दायते । कथं प्रिया मे वसागन्धा । वसागन्धे कस्मान्मां शब्दायसे ।  
+    
+स्क्त्छ्_८०: रुधिरासवपानमत्तिके रणहिण्डनस्खलद्गात्रिके । शब्दायसे कस्मान्मां प्रिये पुरुषसहस्रं हतं श्रूयते ॥ ३ ॥
+
+&राक्षसी&:  
+{प्क्त्_८१}अले लुहिलप्पिआ एदं क्खु मए तुह कालणादो पच्चग्गहदश्श कश्श बि लाएशिणो पहूदवशाशिणेहचिक्कणं कोण्हं णवलुहिलं अग्गमंशं अ आणीदं । ता पिबाहि णं ।
+
+स्क्त्छ्_८१: अरे रुधिरप्रिय इदं खलु मया तव कारणात्प्रत्यग्रहतस्य कस्यापि राजर्षेः प्रभूतवसास्नेहचिक्कणं कोष्णं नवरुधिरमग्रमांसं चानीतम् । तत्पिबैतत् ।
+
+&राक्षसः&:  
+{प्क्त्_८२}*सपरितोषम्**  
+शाहु वशागन्धे शाहु । शोहणं तुए किदं । बलिअम्हि पिबाशिदे । ता उबणेहि ।
+
+स्क्त्छ्_८२: साधु वसागन्धे साधु । शोभनं त्वया कृतम् । बलवदस्मि पिपासितः । तदुपनय ।
+
+&राक्षसी&:  
+{प्क्त्_८३}अले लुहिलप्पिआ एदिशे हदणलगअतुलङ्गमशोणिअवशाशमुद्ददुश्शञ्चले शमलाङ्गणे पडिब्भमन्ते तुमं पिबाशिए शि त्ति अच्चलिअं अच्चलिअं ।
+
+स्क्त्छ्_८३: अरे रुधिरप्रिय ईदृशे हतनरगजतुरङ्गमशोणितवसासमुद्रदुःसञ्चरे समराङ्गणे परिभ्रमंस्त्वं पिपासितो ऽसीत्याश्चर्यमाश्चर्यम् ।
+
+&राक्षसः&:  
+{प्क्त्_८४}ऐ शुत्थिदे णं पुत्तशोअशन्तत्तहिअअं शामिणिं हिडिम्बादेइं पेक्खिदुं गदम्हि ।
+
+स्क्त्छ्_८४: अयि सुस्थिते ननु पुत्रशोकसन्तप्तहृदयां स्वामिनीं हिडिम्बादेवीं प्रेक्षितुं गतो ऽस्मि ।
+
+&राक्षसी&:  
+{प्क्त्_८५}लुहिलप्पिआ अज्ज बि शामिणीए हिडिम्बादेईए घडुक्कअशोए ण उबशम्मदि ।
+
+स्क्त्छ्_८५: रधिरप्रिय अद्यापि स्वामिन्या हिडिम्बादेव्या घटोत्कचशोको नोपशाम्यति ।
+
+&राक्षसः&:  
+{प्क्त्_८६}वशागन्धे कुदो शे उबशमे । केवलं अहिमण्णुवहशोअशमाणदुक्खाए शुभद्दादेवीए जण्णशेणीए अ कधं कधं वि शमाशाशीअदि ।
+
+स्क्त्छ्_८६: वसागन्धे कुतो ऽस्या उपशमः । केवलमभिमन्युवधशोकसमानदुःखया सुभद्रादेव्या याज्ञसेन्या च कथं कथमपि समाश्वास्यते ।
+
+&राक्षसी&:  
+{प्क्त्_८७}लुहिलप्पिआ गेण्ह एदं हत्थिशिलकबालशञ्चिअं अग्गमंशोबदंशं । पिबाहि णवशोणिआसवं ।
+
+स्क्त्छ्_८७: रुधिरप्रिय गृहाणैतद्धस्तिशिरःकपालसञ्चितमग्रमांसोपदंशम् । पिब नवशोणितासवम् ।
+
+&राक्षसः&:  
+{प्क्त्_८८}*तथा कृत्वा**  
+वशागन्धे अह किअप्पहूदं तुए शञ्चिअं लुहिलं अग्गमंशं अ ।
+
+स्क्त्छ्_८८: वसागन्धे अथ कियत्प्रभूतं त्वया सञ्चितं रुधिरमग्रमांसं च ।
+
+&राक्षसी&:  
+{प्क्त्_८९}अले लुहिलप्पिआ पुव्वशञ्चिअं जाणाशि जेव्व तुमं । णवशञ्चिअं शिणु दाव । भअदत्तशोणिअकुम्भे शिन्धुलाअवशाकुम्भे दुवे दुबदमच्छाहिबभूलिश्शवशोमदत्तबल्हीअप्पमुहाणं णलिन्दाणं अण्णाणं बि पाकिदपुलिशाणं लुहिलवशामंशश्श घडा अबिणद्धमुहा शहश्शशङ्क्खा शन्ति मे गेहे ।
+
+स्क्त्छ्_८९: अरे रुधिरप्रिय पूर्वसञ्चितं जानास्येव त्वम् । नवसञ्चितं शृणु तावत् । भगदत्तशोणितकुम्भः सिन्धुराजवसाकुम्भौ द्वौ द्रुपदमत्स्याधिपभूरिश्रवःसोमदत्तबाल्हीकप्रमुखाणां नरेन्द्राणामन्येषामपि प्राकृतपुरुषाणां रुधिरवसामांसस्य घटा अपिनद्धमुखाः सहस्रसङ्ख्याः सन्ति मे गेहे ।
+
+&राक्षसः&:  
+{प्क्त्_९०}*सपरितोषमालिङ्ग्य**  
+शाहु शुग्घलिणीए शाहु । इमिणा दे शुग्घलिणित्तेण अज्ज उण शामिणीए हिडिम्बादेवीए शंविहाणेण अ पणट्ठं मे जम्मदालिद्दं ।
+
+स्क्त्छ्_९०: साधु सुगृहिणि साधु । अनेन ते सुगृहिणीत्वेनाद्य पुनः स्वामिन्या हिडिम्बादेव्याः संविधानेन च प्रनष्टं मे जन्मदारिद्र्यम् ।
+
+&राक्षसी&:  
+{प्क्त्_९१}लुहिलप्पिआ केदिशे शामिणीए शंविहाणे किदे ।
+
+स्क्त्छ्_९१: रुधिरप्रिय कीदृशं स्वामिन्या संविधानं कृतम् ।
+
+&राक्षसः&:  
+{प्क्त्_९२}वशागन्धे अज्ज क्खु अहं शामिणीए हिडिम्बादेवीए शवहुमाणं शद्दाबिअ आणत्ते जह लुहिलप्पिआ अज्ज पहुदि तुए अज्जौत्तश्श भीमशेणश्श पिट्ठदोणुपिट्ठं शमले आहिण्डिदव्वं त्ति । ता तश्श अणुमग्गगामिणो हदमाणुशशोणिअणईदंशणप्पणट्ठबुभुक्खापिबाशश्श इह एव्व मे शग्गलोओ हुवीअदि । तुमं बि विश्शद्धा भविअ लुहिलवशाहिं कुम्भशहश्शं शञ्चेहि ।
+
+स्क्त्छ्_९२: वसागन्धे अद्य खल्वहं स्वामिन्या हिडिम्बादेव्या सबहुमानं शब्दाय्याज्ञप्तो यथा रुधिरप्रिय अद्य प्रभृति त्वयार्यपुत्रस्य भीमसेनस्य पृष्ठतो ऽनुपृष्ठं समर आहिण्डितव्यमिति । तत्तस्यानुमार्गगामिनो हतमानुषशोणितनदीदर्शनप्रनष्टबुभुक्षापिपासस्येहैव मे स्वर्गलोको भविष्यति । त्वमपि विस्रब्धा भूत्वा रुधिरवसाभिः कुम्भसहस्रं सञ्चिनु ।
+
+&राक्षसी&:  
+{प्क्त्_९३}लुहिलप्पिआ किण्णिमित्तं कुमालभीमशेणश्श पिट्ठदोणुपिट्ठं आहिण्डीअदि ।
+
+स्क्त्छ्_९३: रुधिरप्रिय किन्निमित्तं कुमारभीमसेनस्य पृष्ठतो ऽनुपृष्ठमाहिण्ड्यते ।
+
+&राक्षसः&:  
+{प्क्त्_९४}वशागन्धे तेण हि शामिणा विओदलेण दुश्शाशणश्श लुहिलं पादुं पडिण्णादं । तं च अम्हेहिं लक्खशेहिं अणुप्पविशिअ पादव्वं त्ति ।
+
+स्क्त्छ्_९४: वसागन्धे तेन हि स्वामिना वृकोदरेण दुःशासनस्य रुधिरं पातुं प्रतिज्ञातम् । तच्चास्माभी राक्षसैरनुप्रविश्य पातव्यमिति ।
+
+&राक्षसी&:  
+{प्क्त्_९५}*सहर्षम्**  
+शाहु शामिणि शाहु । शुशंविहाणे मे भत्ता तुए कदे ।
+
+स्क्त्छ्_९५: साधु स्वामिनि साधु । सुसंविधानो मे भर्ता त्वया कृतः ।  
+    
+*नेपथ्ये महान्कलकलः । उभावाकर्णयतः**
+
+&राक्षसी&:  
+{प्क्त्_९६}*आकर्ण्य ससम्भ्रमम्**  
+अले लुहिलप्पिआ किं णु क्खु एशे महन्ते कलअले शुणीअदि ।
+
+स्क्त्छ्_९६: अरे रुधिरप्रिय किं नु खल्वेष महान्कलकलः श्रूयते ।
+
+&राक्षसः&:  
+{प्क्त्_९७}*दृष्ट्वा**  
+वशागन्धे एशे क्खु धिट्ठज्जुण्णेण दोणे केशेशु आकिट्ठिअ अशिबत्तेण वाबादीअदि ।
+
+स्क्त्छ्_९७: वसागन्धे एष खलु धृष्टद्युम्नेन द्रोणः केशेष्वाकृष्यासिपत्रेण व्यापाद्यते ।
+
+&राक्षसी&:  
+{प्क्त्_९८}*सहर्षम्**  
+लुहिलप्पिआ एहि । गच्छिअ दोणश्श लुहिलं पिवम्ह ।
+
+स्क्त्छ्_९८: रुधिरप्रिय एहि । गत्वा द्रोणस्य रुधिरं पिबावः ।
+
+&राक्षसः&:  
+{प्क्त्_९९}*सभयम्**  
+वशागन्धे बम्हणशोणिअं क्खु एदं गलअं दहन्ते दहन्ते पविशदि । ता किं एदिणा ।
+
+स्क्त्छ्_९९: वसागन्धे ब्राह्मणशोणितं खल्वेतद्गलं दहद्दहत्प्रविशति । तत्किमेतेन ।  
+    
+*नेपथ्ये पुनः कलकलः**
+
+&राक्षसी&:  
+{प्क्त्_१००}लुहिलप्पिआ पुणो बि एशे महन्ते कलअले शुणीअदि ।
+
+स्क्त्छ्_१००: रुधिरप्रिय पुनरप्येष महान्कलकलः श्रूयते ।
+
+&राक्षसः&:  
+{प्क्त्_१०१}वशागन्धे एशे क्खु अश्शत्थामे आकिट्ठिदाशिबत्ते इदो एव्व आअच्छदि । कदा बि दुबदसुदलोशेण अम्हे बि वाबादैश्शदि । ता एहि । अतिक्कमम्ह ।
+
+स्क्त्छ्_१०१: वसागन्धे एष खल्वश्वत्थामाकृष्टासिपत्र इत एवागच्छति । कदाचिद्द्रुपदसुतरोषेणावामपि व्यापादयिष्यति । तदेहि । अतिक्रमावः ।  
+    
+*इति निष्क्रान्तौ**  
+    
+प्रवेशकः ।
+
+*ततः प्रविशत्युत्खातखड्गः कलकलमाकर्णयन्नश्वत्थामा**
+
+&अश्वत्थामा&:  
+वेर्से_३।४  
+महाप्रलयमारुतक्षुभितपुष्करावर्तक- $ प्रचण्डघनगर्जितप्रतिरवानुकारी मुहुः &  
+रवः श्रवणभैरवः स्थगितरोदसीकन्दरः ē̃ कुतो ऽद्य समरोदधेरयमभूतपूर्वः पुरः ॥ ३।४ ॥  
+    
+*विचिन्त्य**  
+ध्रुवं गाण्डीविना सात्यकिना वृकोदरेण वा यौवनदर्पादतिक्रान्तमर्यादेन परिकोपितस्तातः समुल्लङ्घ्य शिष्यप्रियतामात्मप्रभावसदृशमाचेष्टते । तथा हि  
+वेर्से_३।५  
+यद्दुर्योधनपक्षपातसदृशं युक्तं यदस्त्रग्रहे $ रामाल्लब्धसमस्तहेतिगुरुणो वीर्यस्य यत्साम्प्रतम् &  
+लोके सर्वधनुष्मतामधिपतेर्यच्चानुरूपं रुषः ē̃ प्रारब्धं रिपुघस्मरेण नियतं तत्कर्म तातेन मे ॥ ३।५ ॥  
+    
+*पृष्ठतो विलोक्य**  
+तदलमिदानीं मम रथप्रतीक्षयानया । सशस्त्र एवास्मि सजलजलधरप्रभाभासुरेण सुप्रग्रहविमलकलधौतत्सरुणामुना खड्गेन । यावत्समरभुवमवतरामि ।*परिक्रम्य । वामाक्षिस्पन्दनं सूचयित्वा**  
+आः कथं ममापि नामाश्वत्थाम्नः समरमहोत्सवप्रमोदनिर्भरस्य तातविक्रमदर्शनलालसस्यानिमित्तानि समरगमनविघ्नमुत्पादयन्ति । भवतु गच्छामि ।*सावष्टम्भं परिक्रम्याग्रतो विलोक्य**  
+कथमवधीरितक्षात्रधर्माणामुज्झितसत्पुरुषोचितलज्जावगुण्ठनानां विस्मृतस्वामिसत्कारलघुचेतसां द्विरदतुरङ्गमचरणचारिणामगणितकुलयशःसदृशपराक्रमव्रतानां रणभूमेः समन्तादपक्रामतामयं महान्नादो बलानाम् ।*निरूप्य**  
+हा धिक्कष्टम् । कथमेते महारथाः कर्णादयो ऽपि समरात्पराङ्मुखा भवन्ति । कथं नु ताताधिष्ठितानामपि बलानामियमवस्था भवेत् । भवतु संस्तम्भयामि । भो भोः कौरवसेनासमुद्रवेलापरिपालनमहामहीधरा नरपतयः कृतं कृतममुना समरपरित्यागसाहसेन ।  
+वेर्से_३।६  
+यदि समरमपास्य नास्ति मृत्यो- $ र्भयमिति युक्तमितो ऽन्यतः प्रयातुम् &  
+अथ मरणमवश्यमेव जन्तोः ē̃ किमिति मुधा मलिनं यशः कुरुध्वे ॥ ३।६ ॥  
+    
+अपि च  
+वेर्से_३।७  
+अस्त्रज्वालावलीढप्रतिबलजलधेरन्तरौर्वायमाणे $ सेनानाथे स्थिते ऽस्मिन्मम पितरि गुरौ सर्वधन्वीश्वराणाम् &  
+कर्णालं सम्भ्रमेण व्रज कृप समरं मुञ्च हार्दिक्य शङ्कां ē̃ ताते चापद्वितीये वहति रणधुरां को भयस्यावकाशः ॥ ३।७ ॥
+
+*नेपथ्ये**
+
+कुतो ऽद्यापि ते तातः ।
+
+&अश्वत्थामा&:  
+*श्रुत्वा**  
+किं ब्रूथ । कुतो ऽद्यापि ते तात इति ।*सरोषम्**  
+आः क्षुद्राः समरभीरवः कथमेवं प्रलपतां वः सहस्रधा न दीर्णमनया जिह्वया ।  
+वेर्से_३।८  
+दग्धुं विश्वं दहनकिरणैर्नोदिता द्वादशार्का $ वाता वाता दिशि दिशि न वा सप्तधा सप्त भिन्नाः &  
+छन्नं मेघैर्न गगनतलं पुष्करावर्तकाद्यैः ē̃ पापं पापाः कथयत कथं शौर्यराशेः पितुर्मे ॥ ३।८ ॥
+
+*प्रविश्य सम्भ्रान्तः सप्रहारः**
+
+&सूतः&:  
+परित्रायतां परित्रायतां कुमारः ।*इति पादयोः पतति**
+
+&अश्वत्थामा&:  
+*विलोक्य**  
+अये कथं तातस्य सारथिरश्वसेनः । आर्य ननु त्रैलोक्यत्राणक्षमस्य सारथिरसि । किं मत्तः परित्राणमिच्छसि ।
+
+&सूतः&:  
+*उत्थाय सकरुणम्**  
+कुतो ऽद्यापि ते तातः ।
+
+&अश्वत्थामा&:  
+*सावेगम्**  
+किं तात एव नास्ति ।
+
+&सूतः&:  
+अथ किम् ।
+
+&अश्वत्थामा&:  
+हा तात ।*इति मोहमुपगतः**
+
+&सूतः&:  
+कमार समाश्वसिहि समाश्वसिहि ।
+
+&अश्वत्थामा&:  
+*लब्धसञ्ज्ञः सास्रम्**  
+हा तात हा सुतवत्सल हा लोकत्रयैकधनुर्धर हा जामदगाÇए᳡न्यास्त्रसर्वस्वप्रतिग्रहप्रणयिन् क्वासि । प्रयच्छ मे प्रतिवचनम् ।
+
+&सूतः&:  
+कमार अलमत्यन्तशोकावेगेन । वीरपुरुषोचितां विपत्तिमुपगते पितरि त्वमपि तदनुरूपेणैव वीर्येण शोकसागरमुत्तीर्य सुखी भव ।
+
+&अश्वत्थामा&:  
+*अश्रूणि विमुच्य**  
+आर्य कथय कथय कथं तादृग्भुजवीर्यसागरस्तातो ऽपि नामास्तमुपगतः ।  
+वेर्से_३।९  
+किं भीमाद्गुरुदक्षिणां गुरुगदाद्भीमप्रियः प्राप्तवान्
+
+&सूतः&:  
+शान्तं पापम् । शान्तं पापम् ।
+
+&अश्वत्थामा&:  
+वेर्से_३।९  
+अन्तेवासिदयालुरुज्झितनयेनासादितो जिष्णुना ।
+
+&सूतः&:  
+कथमेवं भविष्यति ।
+
+&अश्वत्थामा&:  
+वेर्से_३।९  
+गोविन्देन सुदर्शनस्य नियतं धारापथं प्रापितः
+
+&सूतः&:  
+एतदपि नास्ति ।
+
+&अश्वत्थामा&:  
+वेर्से_३।९  
+शङ्के नापदमन्यतः खलु गुरोरेभ्यश्चतुर्थादहम् ॥ ३।९ ॥
+
+&सूतः&:  
+कुमार  
+वेर्से_३।१०  
+एते ऽपि तस्य कुपितस्य महास्त्रपाणेः $ किं धूर्जटेरिव तुलामुपयान्ति सङ्ख्ये &  
+शोकोपरुद्धहृदयेन यदा तु शस्त्रं ē̃ त्यक्तं तदास्य विहितं रिपुणातिघोरम् ॥ ३।१० ॥
+
+&अश्वत्थामा&:  
+किं पुनः कारणं शोकस्यास्त्रपरित्यागस्य वा ।
+
+&सूतः&:  
+ननु कुमार एव कारणम् ।
+
+&अश्वत्थामा&:  
+कथमहमेव नाम ।
+
+&सूतः&:  
+श्रूयताम् ।*अश्रूणि विमुच्य**  
+    
+वेर्से_३।११  
+अश्वत्थामा हत इति पृथासूनुना स्पष्टमुक्त्वा $ स्वैरं शेषे गज इति किल व्याहृतं सत्यवाचा &  
+तच्छ्रुत्वासौ दयिततनयः प्रत्ययात्तस्य राज्ञः ē̃ शस्त्राण्याजौ नयनसलिलं चापि तुल्यं मुमोच ॥ ३।११ ॥
+
+&अश्वत्थामा&:  
+हा तात हा सुतवत्सल हा वृथामदर्थपरित्यक्तजीवित हा शौर्यराशे हा शिष्यप्रिय हा युधिष्ठिरपक्षपातिन् ।*इति रोदिति**
+
+&सूतः&:  
+कुमार अलमत्यन्तपरिदेवनकार्पण्येन ।
+
+&अश्वत्थामा&:  
+वेर्से_३।१२  
+श्रुत्वा वधं मम मृषा सुतवत्सलेन $ तात त्वया सह शरैरसवो विमुक्ताः &  
+जीवाम्यहं पुनरयं भवता वियुक्तः ē̃ क्रूरे ऽपि तन्मयि मुधा तव पक्षपातः ॥ ३।१२ ॥  
+    
+*इति मोहमुपगतः**
+
+&सूतः&:  
+समाश्वसितु समाश्वसितु कमारः ।  
+    
+*ततः प्रविशति कृपः**
+
+&कृपः&:  
+*सोद्वेगं निःश्वस्य**  
+    
+वेर्से_३।१३  
+धिक्सानुजं कुरुपतिं धिगजातशत्रुं $ दिग्भूपतीन्विफलशस्त्रभृतो धिगस्मान् &  
+केशग्रहः खलु तदा द्रुपदात्मजाया ē̃ द्रोणस्य चाद्य लिखितैरिव वीक्षितो यैः ॥ ३।१३ ॥  
+    
+तत्कथं नु खलु वत्सं द्रक्ष्याम्यश्वत्थामानम् । अथ वा हिमवत्सारगुरुचेतसि ज्ञातलोकस्थितौ तस्मिन्न खलु शोकावेगमहमाशङ्के । किं तु पितुः परिभवसदृशमुपश्रुत्य न जाने किं व्यवस्यतीति । अथ वा  
+वेर्से_३।१४  
+एकस्य तावत्पाको ऽयं दारुणो भुवि वर्तते ।  
+केशग्रहे द्वितीये ऽस्मिन्नूनं निःशेषिताः प्रजाः ॥ ३।१४ ॥  
+    
+*विलोक्य**  
+तदयं वत्सस्तिष्ठति । यावदुपसर्पामि ।*उपसृत्य ससम्भ्रमम्**  
+वत्स समाश्वसिहि समाश्वसिहि ।
+
+&अश्वत्थामा&:  
+*सञ्ज्ञां लब्ध्वा सास्रम्**  
+हा तात हा सकलभुवनैकगुरो ।*आकाशे**  
+युधिष्ठिर युधिष्ठिर  
+वेर्से_३।१५  
+आ जन्मनो न वितथं भवता किलोक्तं $ न द्वेक्षि यज्जनमतस्त्वमजातशत्रुः &  
+ताते गुरौ द्विजवरे मम भाग्यदोषा- ē̃ त्सर्वं तदेकपद एव कथं निरस्तम् ॥ ३।१५ ॥
+
+&सूतः&:  
+कुमार एष ते मातुलः शारद्वतः पार्श्वे तिष्ठति ।
+
+&अश्वत्थामा&:  
+*पार्श्वे विलोक्य सबाष्पम्**  
+मातुल मातुल  
+वेर्से_३।१६  
+गतो येनाद्य त्वं सह रणभुवं सैन्यपतिना $ य एकः शूराणां गुरुकण्डूनिकषणः &  
+परीहासाश्चित्राः सततमभवन्येन भवतः ē̃ स्वसुः श्लाघ्यो भर्ता क्व नु खलु स ते मातुल गतः ॥ ३।१६ ॥
+
+&कृपः&:  
+परिगतपरिगन्तव्य एव भवान् । तदलमत्यन्तशोकावेगेन ।
+
+&अश्वत्थामा&:  
+मातुल परित्यक्तमेव मया परिदेवनम् । एषो ऽहं सुतवत्सलं तातमेवानुगच्छामि ।
+
+&कृपः&:  
+वत्स अनुपपन्नं भवद्विधानामिदम् ।
+
+&सूतः&:  
+कुमार अलमतिसाहसेन ।
+
+&अश्वत्थामा&:  
+आर्य शारद्वत  
+वेर्से_३।१७  
+मद्वियोगभयात्तातः परलोकमितो गतः ।  
+करोमि विरहं तस्य वत्सलस्य कथं पितुः ॥ ३।१७ ॥
+
+&कृपः&:  
+वत्स यावदयं संसारस्तावत्प्रसिद्धैवेयं लोकयात्रा यत्पुत्रैः पितरो लोकद्वये ऽप्यनुवर्तनीया इति । पश्य ।  
+वेर्से_३।१८  
+निवापाञ्जलिदानेन केतनैः श्राद्धकर्मभिः ।  
+तस्योपकारे शक्तस्त्वं किं जीवन्किमुतान्यथा ॥ ३।१८ ॥
+
+&सूतः&:  
+आयुष्मन् यथैव मातुलस्ते शारद्वतः कथयति तत्तथा ।
+
+&अश्वत्थामा&:  
+आर्य सत्यमेवेआञ्ल्̃म् । किं त्वतिदुर्वहत्वाच्छोकभारस्य न शक्नोमि तातविरहितः क्षणमपि प्राणान्धारयितुम् । तद्गच्छामि तमेवोद्देशं यत्र तथाविधमपि पितरं द्रक्ष्यामि ।*उत्तिष्ठन्खड्गमालोक्य विचिन्त्य**  
+कृतमद्यापि शस्त्रग्रहणविडम्बनया । भगवञ्शस्त्र  
+वेर्से_३।१९  
+गृहीतं येनासीः परिभवभयान्नोचितमपि $ प्रभावाद्यस्याभून्न खलु तव कश्चिन्न विषयः &  
+परित्यक्तं तेन त्वमसि सुतशोकान्न तु भया- ē̃ द्विमोक्ष्ये शस्त्र त्वामहमपि यतः स्वस्ति भवते ॥ ३।१९ ॥  
+    
+*इत्युत्सृजति**
+
+*नेपथ्ये**
+
+भो भो राजानः कथमिह भवन्तः सर्वे गुरोर्भारद्वाजस्य परिभवममुना नृशंसेन प्रयुक्तमुपेक्षन्ते ।
+
+&अश्वत्थामा&:  
+*आकर्ण्य शनैः शस्त्रं स्पृशन्**  
+किं गुरोर्भारद्वाजस्य परिभवः ।  
+    
+*पुनर्नेपथ्ये**
+
+वेर्से_३।२०  
+आचार्यस्य त्रिभुवनगुरोर्न्यस्तशस्त्रस्य शोका- $ द्द्रोणस्याजौ नयनसलिलक्षालितार्द्राननस्य &  
+मौलौ पाणिं पलितधवले न्यस्य कृत्वा नृशंसं ē̃ धृष्टद्युम्नः स्वशिबिरमयं याति सर्वे सहध्वम् ॥ ३।२० ॥
+
+&अश्वत्थामा&:  
+*सक्रोधं सकम्पं च कृपसूतौ दृष्ट्वा**  
+किं नामेदम् ।  
+वेर्से_३।२१  
+प्रत्यक्षमात्तधनुषां मनुजेश्वराणां $ प्रायोपवेशसदृशं व्रतमास्थितस्य &  
+तातस्य मे पलितमौलिनिरस्तकाशे ē̃ व्यापारितं शिरसि शस्त्रमशस्त्रपाणेः ॥ ३।२१ ॥
+
+&कृपः&:  
+वत्स एवं किल जनः कथयति ।
+
+&अश्वत्थामा&:  
+किं तातस्य दुरात्मना परिमृष्टमभूच्छिरः ।
+
+&सूतः&:  
+*सभयम्**  
+कुमार आसीदयं तस्य तेजोराशेर्देवस्य नवः परिभवावतारः ।
+
+&अश्वत्थामा&:  
+हा तात हा पुत्रप्रिय मम मन्दभागधेयस्य कृते शस्त्रपरित्यागात्तथाविधेन क्षुद्रेणात्मा परिभावितः । अथ वा  
+वेर्से_३।२२  
+परित्यक्ते देहे रणशिरसि शोकान्धमनसा $ शिरः श्वा काको वा द्रुपदतनयो वा परिमृशेत् &  
+स्फुरद्दिव्यास्त्रौघद्रविणमदमत्तस्य च रिपो- ē̃ र्ममैवायं पादः शिरसि निहितस्तस्य न करः ॥ ३।२२ ॥  
+    
+आः दुरात्मन्पाञ्चालापसद  
+वेर्से_३।२३  
+तातं शस्त्रग्रहणविमुखं निश्चयेनोपलभ्य $ त्यक्त्वा शङ्कां खलु विदधतः पाणिमस्योत्तमाङ्गे &  
+अश्वत्थामा करधृतधनुः पाण्डुपाञ्चालसेना- ē̃ तूलोत्क्षेपप्रलयपवनः किं न यातः स्मृतिं ते ॥ ३।२३ ॥  
+    
+युधिष्ठिर युधिष्ठिर अजातशत्रो अमिथ्यावादिन्धर्मपुत्र सानुजस्य ते किमनेनापकृतम् । अथ वा किमनेनालीकप्रकृतिजिह्मचेतसा । अर्जुन सात्यके बाहुशालिन्वृकोदर माधव युक्तं नाम भवतां सुरासुरमनुजलोकैकधनुर्धरस्य द्विजन्मनः परिणतवयसः सर्वाचार्यस्य विशेषतो मम पितुरमुना द्रुपदकुलकलङ्केन मनुजपशुना स्पृश्यमानमुत्तमाङ्गमुपेक्षितम् । अथ वा सर्व एवैते पातकिनः । किमेतैः  
+वेर्से_३।२४  
+कृतमनुमतं दृष्टं वा यैरिदं गुरुपातकं $ मनुजपशुभिर्निर्मर्यादैर्भवद्भिरुदायुधैः &  
+नरकरिपुणा सार्धं तेषां सभीमकिरीटिना- ē̃ मयमहमसृङ्मेदोमांसैः करोमि दिशां बलिम् ॥ ३।२४ ॥
+
+&कृपः&:  
+वत्स किं न सम्भाव्यते भारद्वाजतुल्ये बाहुशालिनि दिव्यास्त्रग्रामकोविदे भवति ।
+
+&अश्वत्थामा&:  
+भो भोः पाण्डवमत्स्यसोमकमागधाद्याः क्षत्रियापसादाः  
+वेर्से_३।२५  
+पितुर्मूर्ध्नि स्पृष्टे ज्वलदनलभास्वत्परशुना $ कृतं यद्रामेण श्रुतिमुपगतं तन्न भवताम् &  
+किमद्याश्वत्थामा तदरिरुधिरासारविघसं ē̃ न कर्म क्रोधान्धः प्रभवति विधातुं रणमुखे ॥ ३।२५ ॥  
+    
+सूत गच्छ त्वं सर्वोपकरणैः साङ्ग्रामिकैः सर्वायुधैरुपेतं महाहवलक्षणं नामास्मत्स्यन्दनमुपनय ।
+
+&सूतः&:  
+यदाज्ञापयति कुमारः ।*इति निष्क्रान्तः**
+
+&कृपः&:  
+वत्स अवश्यप्रतिकर्तव्ये ऽस्मिन्दारुणे परिभवाग्नौ सर्वेषामस्माकं को ऽन्यस्त्वामन्तरेण शक्तः प्रतिकर्तुम् । किं तु
+
+&अश्वत्थामा&:  
+किमतः परम् ।
+
+&कृपः&:  
+सैनापत्ये ऽभिषिक्तं भवन्तमिच्छामि समरभुवनमवतारयितुम् ।
+
+&अश्वत्थामा&:  
+मातुल परतन्त्रमिदमकिञ्चित्करं च ।
+
+&कृपः&:  
+वत्स न खलु परतन्त्रं नाकिञ्चित्करं च । पश्य ।  
+वेर्से_३।२६  
+भवेदभीष्ममद्रोणं धार्तराष्ट्रबलं कथम् ।  
+यदि तत्तुल्यकर्मात्र भवान्धुरि न युज्यते ॥ ३।२६ ॥  
+    
+कृतपरिकरस्य भवादृशस्य त्रैलोक्यमपि न क्षमं परिपन्थीभवितुं किं पुनर्युधिष्ठिरबलम् । तदेवं मन्ये परिकल्पिताभिषेकोपकरणः कौरवराजो न चिरात्त्वामेवाभ्यपेक्षमाणस्तिष्ठतीति ।
+
+&अश्वत्थामा&:  
+यद्येवं त्वरते मे परिभवानलदह्यमानमिदं चेतस्तत्प्रतीकारजलावगाहनाय । तदहं गत्वा तातवधविषण्णमानसं कुरुपतिं सैनापत्यस्वयङ्ग्रहणप्रणयसमाश्वासनया मन्दसन्तापं करोमि ।
+
+&कृपः&:  
+वत्स एवमिदम् । अतस्तमेवोद्देशं गच्छावः ।  
+    
+*इति परिक्रामतः**  
+    
+*ततः प्रविशतः कर्णदुर्योधनौ**
+
+&दुर्योधनः&:  
+अङ्गराज  
+वेर्से_३।२७  
+तेजस्वी रिपुहतबन्धुदुःखपारं $ बाहुभ्यां व्रजति धृतायुधप्लवाभ्याम् &  
+आचार्यः सुतनिधनं निशम्य सङ्ख्ये ē̃ किं शस्त्रग्रहसमये विशस्त्र आसीत् ॥ ३।२७ ॥  
+    
+अथ वा सूक्तमिदमभियुक्तैः प्रकृतिर्दुस्त्यजेति । यतः शोकान्धमनसा तेन विमुच्य क्षात्रधर्मकार्कश्यं द्विजातिधर्मसुलभो मार्दवपरिग्रहः कृतः ।
+
+&कर्णः&:  
+राजन्कौरवेश्वर न खल्विदमेवम् ।
+
+&दुर्योधनः&:  
+कथं तर्हि ।
+
+&कर्णः&:  
+एवं किलास्याभिप्रायो यथाश्वत्थामा मया पृथिवीराज्ये ऽभिषेक्तव्य इति । तस्याभावाद्वृद्धस्य मे ब्राह्मणस्य वृथा शस्त्रग्रहणमिति तथा कृतवान् ।
+
+&दुर्योधनः&:  
+*सशिरःकम्पम्**  
+एवमिदम् ।
+
+&कर्णः&:  
+एतदर्थं च कौरवपाण्डवपक्षपातप्रवृत्तमहासङ्ग्रामस्य राजकस्य परस्परक्षयमपेक्षमाणेन तेन प्रधानपुरुषवधोपेक्षा कृता ।
+
+&दुर्योधनः&:  
+उपपन्नमिदम् ।
+
+&कर्णः&:  
+अन्यच्च राजन् द्रुपदेनाप्यस्य बाल्यात्प्रभृत्यभिप्रायवेदिना न स्वराष्ट्रे वासो दत्तः ।
+
+&दुर्योधनः&:  
+साधु अङ्गराज साधु । निपुणमभिहितम् ।
+
+&कर्णः&:  
+न चायं ममैकस्याभिप्रायः । अन्ये ऽभियुक्ता अपि नैवेदमन्यथा मन्यन्ते ।
+
+&दुर्योधनः&:  
+एवमेतत् । कः सन्देहः ।  
+वेर्से_३।२८  
+दत्त्वाभयं सो ऽतिरथो बध्यमानं किरीटिना ।  
+सिन्धुराजमुपेक्षेत नैवं चेत्कथमन्यथा ॥ ३।२८ ॥
+
+&कृपः&:  
+*विलोक्य**  
+वत्स एष दुर्योधनः सूतपुत्रेण सहास्यां न्यग्रोधच्छायायामुपविष्टस्तिष्ठति । तदुपसर्पावः ।  
+    
+*तथा कृत्वा**
+
+&उभौ&:  
+विजयतां कौरवेश्वरः ।
+
+&दुर्योधनः&:  
+*दृष्ट्वा**  
+अये कथं कृपो ऽश्वत्थामा च ।*आसनादवतीर्य कृपं प्रति**  
+गुरो अभिवादये ।*अश्वत्थामानमुद्दिश्य**  
+आचार्यपुत्र  
+वेर्से_३।२९  
+एह्यस्मदर्थहततात परिष्वजस्व $ क्लान्तैरिदं मम निरन्तरमङ्गमङ्गैः &  
+स्पर्शस्तवैष भुजयोः सदृशः पितुस्ते ē̃ शोके ऽपि यो विकृतिमेति तनूरुहेषु ॥ ३।२९ ॥
+
+*आलिङ्ग्य पार्श्व उपवेशयति । अश्वत्थामा बाष्पमुत्सृजति**
+
+&कर्णः&:  
+द्रौणायन अलमत्यर्थमात्मानं शोकानले प्रक्षिप्य ।
+
+&दुर्योधनः&:  
+आचार्यपुत्र को विशेष आवयोरस्मिन्व्यसनमहार्णवे । पश्य ।  
+वेर्से_३।३०  
+तातस्तव प्रणयवान्स पितुः सखा मे $ शस्त्रे यथा तव गुरुः स तथा ममापि &  
+किं तस्य देहनिधने कथयामि दुःखं ē̃ जानीहि तद्गुरुशुचा मनसा त्वमेव ॥ ३।३० ॥
+
+&कृपः&:  
+वत्स यथाह कुरुपतिस्तथैवैतत् ।
+
+&अश्वत्थामा&:  
+राजन्नेवं पक्षपातिनि त्वयि युक्तमेव शोकभारं लघूकर्तुम् । किं तु  
+वेर्से_३।३१  
+मयि जीवति मत्तातः केशग्रहणमवाप्तवान् ।  
+कथमन्ये करिष्यन्ति पुत्रेभ्यः पुत्रिणः स्पृहाम् ॥ ३।३१ ॥
+
+&कर्णः&:  
+द्रौणायन किमत्र क्रियते यदा तेनैव सर्वपरिभवत्राणहेतुना शस्त्रमुत्सृजता तादृशीमवस्थामात्मा नीतः ।
+
+&अश्वत्थामा&:  
+अङ्गराज किमाह भवान्किमत्र क्रियत इति । श्रूयतां यत्क्रियते ।  
+वेर्से_३।३२  
+यो यः शस्त्रं बिभर्ति स्वभुजगुरुमदः पाण्डवीनां चमूनां $ यो यः पाञ्चालगोत्रे शिशुरधिकवया गर्भशय्यां गतो वा &  
+यो यस्तत्कर्मसाक्षी चरति मयि रणे यश्च यश्च प्रतीपः ē̃ क्रोधान्धस्तस्य तस्य स्वयमपि जगतामन्तकस्यान्तको ऽहम् ॥ ३।३२ ॥  
+    
+अपि च भो जामदग्न्यशिष्य कर्ण  
+वेर्से_३।३३  
+देशः सो ऽयमरातिशोणितजलैर्यस्मिन्ह्रदाः पूरिताः $ क्षत्रादेव तथाविधः परिभवस्तातस्य केशग्रहः &  
+तान्येवाहितशस्त्रघस्मरगुरूण्यस्त्राणि भास्वन्ति मे ē̃ यद्रामेण कृतं तदेव कुरुते द्रौणायनः क्रोधनः ॥ ३।३३ ॥
+
+&दुर्योधनः&:  
+आचार्यपुत्र तस्य तथाविधस्यानन्यसाधारणस्य ते वीरभावस्य किमन्यत्सदृशम् ।
+
+&कृपः&:  
+राजन्सुमहान्खलु द्रोणपुत्रेण वोढुमध्यवसितः समरभारः । तदहमेवं मन्ये । भवता कृतपरिकरो ऽयमुच्छेत्तुं लोकत्रयमपि समर्थः किं पुनर्युधिष्ठिरबलम् । अतो ऽभिषिच्यतां सैनापत्ये ।
+
+&दुर्योधनः&:  
+सुष्ठु युज्यमानमभिहितं युष्माभिः । किं तु प्राक्प्रतिपन्नो ऽयमर्थो ऽङ्गराजस्य ।
+
+&कृपः&:  
+राजन्नसदृशपरिभवशोकसागरे निमज्जन्तमेनमङ्गराजस्यार्थे नैवोपेक्षितुं युक्तम् । अस्यापि तदेवारिकुलमनुशासनीयम् । अतः किमस्य पीडा न भविष्यति ।
+
+&अश्वत्थामा&:  
+राजन्कौरवेश्वर किमद्यापि युक्तायुक्तविचारणया ।  
+वेर्से_३।३४  
+प्रयत्नपरिबोधितः स्तुतिभिरद्य शेषे निशा- $ मकेशवमपाण्डवं भुवनमद्य निःसोमकम् &  
+इयं परिसमाप्यते रणकथाद्य दोःशालिना ē̃ व्यपैतु नृपकाननातिगुरुरद्य भारो भुवः ॥ ३।३४ ॥
+
+&कर्णः&:  
+*विहस्य**  
+वक्तुं सुकरमिदं दुष्करमध्यवसातुम् । बहवः कौरवबले ऽस्य कर्मणः शक्ताः ।
+
+&अश्वत्थामा&:  
+अङ्गराज एवमिदम् । बहवः कौरवबले ऽत्र शक्ताः । किं तु दुःखोपहतः शोकावेशवशाद्ब्रवीमि न पुनर्वीरजनाधिक्षेपेण ।
+
+&कर्णः&:  
+मूढ दुःखितस्याश्रुपातः कुपितस्य चायुधद्वितीयस्य सङ्ग्रामावतरणमुचितं नैवंविधाः प्रलापाः ।
+
+&अश्वत्थामा&:  
+*सक्रोधम्**  
+अरे रे राधागर्भभारभूत सूतापसद ममापि नामाश्वत्थाम्नो दुःखितस्याश्रुभिः प्रतिक्रियामुपदिशि न शस्त्रेण । पश्य ।  
+वेर्से_३।३५  
+निर्वीर्यं गुरुशापभाषितवशात्किं मे तवेवायुधं $ सम्प्रत्येव भयाद्विहाय समरं प्राप्तो ऽस्मि किं त्वं यथा &  
+जातो ऽहं स्तुतिवंशकीर्तनविदां किं सारथीनां कुले ē̃ क्षुद्रारातिकृताप्रियं प्रतिकरोम्यस्रेण नास्त्रेण यत् ॥ ३।३५ ॥
+
+&कर्णः&:  
+*सक्रोधम्**  
+अरे रे वाचाट वृथाशस्त्रग्रहणदुर्विदग्ध बटो  
+वेर्से_३।३६  
+निर्वीर्यं वा सवीर्यं वा मया नोत्सृष्टमायुधम् ।  
+यथा पाञ्चालभीतेन पित्रा ते बाहुशालिना ॥ ३।३६ ॥  
+    
+अपि च  
+वेर्से_३।३७  
+सूतो वा सूतपुत्रो वा यो वा को वा भवाम्यहम् ।  
+दैवायत्तं कुले जन्म मदायत्तं तु पौरुषम् ॥ ३।३७ ॥
+
+&अश्वत्थामा&:  
+*सक्रोधम्**  
+अरे रे रथकारकुलकलङ्क राधागर्भभारभूत अरे आयुधानभिज्ञ तातमप्यधिक्षिपसि । अथ वा  
+वेर्से_३।३८  
+स भीरुः शूरो वा प्रथितभुजसारस्त्रिभुवने $ कृतं यत्तेनाजौ प्रतिदिनमियं वेत्ति वसुधा &  
+परित्यक्तं शस्त्रं कथमिति स सत्यव्रतधरः ē̃ पृथासूनुः साक्षी त्वमसि रणभीरो क्व नु तदा ॥ ३।३८ ॥
+
+&कर्णः&:  
+*विहस्य**  
+एवं भीरुरहम् । पुनर्विक्रमैकरसं तव पितरमनुस्मृत्य महान्मे संशयो जातः । अपि च रे मूढ  
+वेर्से_३।३९  
+यदि शस्त्रमुज्झितमशस्त्रपाणयो $ न निवारयन्ति किमरीनुदायुधान् &  
+यदनेन मौलिदलने ऽप्युदासितं ē̃ सुचिरं स्त्रियेव नृपचक्रसन्निधौ ॥ ३।३९ ॥
+
+&अश्वत्थामा&:  
+*सक्रोधं सकम्पं च**  
+दुरात्मन्राजवल्लभ प्रगल्भ सूतापसद असम्बद्धप्रलापिन्  
+वेर्से_३।४०  
+कथमपि न निषिद्धो दुःखिना भीरुणा वा $ द्रुपदतनयपाणिस्तेन पित्रा ममाद्य &  
+तव भुजबलदर्पाध्मायमानस्य वामः ē̃ शिरसि चरण एष न्यस्यते वारयैनम् ॥ ३।४० ॥  
+    
+*इति तथा कर्तुमुत्तिष्ठति**
+
+&कृपदुर्योधनौ&:  
+गुरुपुत्र मर्षय ।*इति निवारयतः**
+
+*अश्वत्थामा चरणप्रहारं नाटयति**
+
+&कर्णः&:  
+*सक्रोधमुत्थाय खड्गमाकृष्य**  
+अरे दुरात्मन्वाचाल ब्रह्मबन्धो आत्मश्लाघ  
+वेर्से_३।४१  
+जात्या काममवध्यो ऽसि चरणं त्विममुद्धृतम् ।  
+अनेन लूनं खड्गेन पतितं वेत्स्यसि क्षितौ ॥ ३।४१ ॥
+
+&अश्वत्थामा&:  
+अरे मूढ किं नाम जात्या काममवध्यो ऽहम् । इयं सा जातिस्त्यक्ता ।*इति यज्ञोपवीतं छिनत्ति । पुनश्च सक्रोधम्**  
+    
+वेर्से_३।४२  
+अद्य मिथ्याप्रतिज्ञो ऽसौ किरीटी क्रियते मया ।  
+शस्त्रं गृहाण वा त्यक्त्वा मौलौ वा रचयाञ्जलिम् ॥ ३।४२ ॥
+
+*उभावपि खड्गमाकृष्यान्यो ऽन्यं प्रहर्तुमुद्यतौ । कृपदुर्योधनौ वारयतः**
+
+&दुर्योधनः&:  
+सखे आचार्यपुत्र शस्त्रग्रहणेनालम् ।
+
+&कृपः&:  
+वत्स सूतपुत्र शस्त्रग्रहणेनालम् ।
+
+&अश्वत्थामा&:  
+मातुल मातुल किं निवारयसि । अयमपि तातनिन्दाप्रगल्भः सूतापसदो धृष्टद्युम्नपक्षपात्येव ।
+
+&कर्णः&:  
+राजन्न खल्वहं निवारयितव्यः ।  
+वेर्से_३।४३  
+उपेक्षितानां मन्दानां धीरसत्त्वैरवज्ञया ।  
+अत्रासितानां क्रोधान्धैर्भवत्येषा विकत्थना ॥ ३।४३ ॥
+
+&अश्वत्थामा&:  
+राजन्मुञ्च मुञ्चैनम् । आसादयतु मद्भुजान्तरनिष्पेषसुलभमसूनामवसादनम् । अन्यच्च राजन् । स्नेहेन कार्येण वा यत्त्वमेनं ताताधिक्षेपकारिणं दुरात्मानं मत्तः परिरक्षितुमिच्छसि तदुभयमपि वृथैव । पश्य ।  
+वेर्से_३।४४  
+पापप्रियस्तव कथं गुणिनः सहायः $ सूतान्वयः शशधरान्वयसम्भवस्य &  
+हन्ता किरीटिनमहं नृप मुञ्च कुर्यां ē̃ क्रोधादकर्णमपृथात्मजमद्य लोकम् ॥ ३।४४ ॥  
+    
+*इति प्रहर्तुमिच्छति**
+
+&कर्णः&:  
+*खड्गमुद्यम्य**  
+अरे वाचाट ब्राह्मणाधम अयं न भवसि । राजन्मुञ्च मुञ्च । न खल्वहं वारयितव्यः ।*हन्तुमिच्छति**
+
+*दुर्योधनकृपौ निवारयतः**
+
+&दुर्योधनः&:  
+कर्ण गुरुपुत्र को ऽयमद्य युवयोर्व्यामोहः ।
+
+&कृपः&:  
+वत्स अन्यदेव प्रस्तुतमन्यत्रावेग इति को ऽयं व्यामोहः । स्वबलव्यसनं चेदमस्मिन्काले राजकुलस्यास्य युष्मत्त एव भवतीति वामः पन्थाः ।
+
+&अश्वत्थामा&:  
+मातुल न लभ्यते ऽस्य कटुप्रलापिनो रथकारकुलकलङ्कस्य दर्पः शातयितुम् ।
+
+&कृपः&:  
+वत्स अकालः खलु स्वबलप्रधानविरोधस्य ।
+
+&अश्वत्थामा&:  
+मातुल यद्येवम्  
+वेर्से_३।४५  
+अयं पापो यावन्न निधनमुपेयादरिशरैः $ परित्यक्तं तावत्प्रियमपि मयास्त्रं रणमुखे &  
+बलानां नाथे ऽस्मिन्परिकुपितभीमार्जुनभये ē̃ समुत्पन्ने राजा प्रियसखबलं वेत्तु समरे ॥ ३।४५ ॥  
+    
+*इति खड्गमुत्सृजति**
+
+&कर्णः&:  
+*विहस्य**  
+कुलक्रमागतमेवैतद्भवादृशां यदस्त्रपरित्यागो नाम ।
+
+&अश्वत्थामा&:  
+ननु रे अपरित्यक्तमपि भवादृशैरायुधं चिरपरित्यक्तमेव निष्फलत्वात् ।
+
+&कर्णः&:  
+अरे मुढ  
+वेर्से_३।४६  
+धृतायुधो यावदहं तावदन्यैः किमायुधैः ।  
+यद्वा न सिद्धमस्त्रेण मम तत्केन सेत्स्यति ॥ ३।४६ ॥
+
+*नेपथ्ये**
+
+आः दुरात्मन्द्रौपदीकेशाम्बराकर्षणमहापातकिन्धार्तराष्ट्रापसद चिरस्य खलु कालस्य मत्सम्मुखमागतो ऽसि । क्षुद्रपशो क्वेदानीं गम्यते । अपि च भो भो राधेयदुर्योधनसौबलप्रभृतयः पाण्डवविद्वेषणश्चापपाणयो मानधनाः शृण्वन्तु भवन्तः ।  
+वेर्से_३।४७  
+स्पृष्टा येन शिरोरुहे नृपशुना पाञ्चालराजात्मजा $ येनास्याः परिधानमप्यपहृतं राज्ञां गुरूणां पुरः &  
+यस्योरःस्थलशोणितासवमहं पातुं प्रतिज्ञातवा- ē̃ न्सो ऽयं मद्भुजपञ्जरे निपतितः संरक्ष्यतां कौरवः ॥ ३।४७ ॥
+
+*सर्व आकर्णयन्ति**
+
+&अश्वत्थामा&:  
+*सोत्प्रासम्**  
+अङ्गराज सेनापते जामदग्न्यशिष्य द्रोणोपहासिन्भुजबलपरिरक्षितसकललोक ।*धृतायुध इति पठित्वा**  
+इदं तदासन्नतरमेव संवृत्तम् । रक्षैनं साम्प्रतं भीमाद्दुःशासनम् ।
+
+&कर्णः&:  
+आः का शक्तिर्वृकोदरस्य मयि जीवति दुःशासनस्य छायामप्याक्रमितुम् । युवराज न भेतव्यं न भेतव्यम् । अयमहमागतो ऽस्मि ।*इति निष्क्रान्तः**
+
+&अश्वत्थामा&:  
+राजन्कौरवनाथ अभीष्मद्रोणं सम्प्रति कौरवबलमालोडयन्तौ भीमार्जुनौ राधेयेनैवंविधेनान्येन वा न शक्येते निवारयितुम् । अतः स्वयमेव भ्रातुः प्रतीकारपरो भव ।
+
+&दुर्योधनः&:  
+आः शक्तिरस्ति दुरात्मनः पवनतनयस्यान्यस्य वा मयि जीवति शस्त्रपाणौ वत्सस्य छायामप्याक्रमितुम् । वत्स न भेतव्यं न भेतव्यम् । कः को ऽत्र भोः । रथमुपनय ।*इति निष्क्रान्तः**
+
+*नेपथ्ये कलकलः**
+
+&अश्वत्थामा&:  
+*अग्रतो विलोक्य**  
+मातुल हा धिक्कष्टम् । एष खलु भ्रातुः प्रतिज्ञाभङ्गभीरुः किरीटी समं दुर्योधनराधेयौ शरवर्षैर्दुर्वारैरभिद्रवति । सर्वथा पीतं दुःशासनशोणितं भीमेन । न खलु विषहे दुर्योधनानुजस्यैनां विपत्तिमवलोकयितुम् । अनृतमनुमतं नाम । मातुल शस्त्रं शस्त्रम् ।  
+वेर्से_३।४८  
+सत्यादप्यनृतं श्रेयो धिक्स्वर्गं नरको ऽस्तु मे ।  
+भीमाद्दुःशासनं त्रातुं त्यक्तमत्यक्तमायुधम् ॥ ३।४८ ॥  
+    
+*इति खड्गं ग्रहीतुमिच्छति**
+
+*नेपथ्ये**
+
+महात्मन्भारद्वाजसूनो न खलु सत्यवचनमनुल्लङ्घितपूर्वमुल्लङ्घयितुमर्हसि ।
+
+&कृपः&:  
+वत्स अशरीरिणी भारती भवन्तमनृतादभिरक्षति ।
+
+&अश्वत्थामा&:  
+कथमियममानुषी वाग्नानुमनुते सङ्ग्रामावतरणं मम । भोः कष्टम् । आः पक्षपातिनो देवा अपि पाण्डवानाम् । सर्वथा पीतं दुःशासनशोणितं भीमेन । भोः कष्टं कष्टम् ।  
+वेर्से_३।४९  
+दुःशासनस्य रुधिरे पीयमाने ऽप्युदासितम् ।  
+दुर्योधनस्य कर्तास्मि किमन्यत्प्रियमाहवे ॥ ३।४९ ॥  
+    
+मातुल राधेयक्रोधवशादनार्यमस्माभिराचरितम् । अतस्त्वमपि तावदस्य राज्ञः पार्श्ववर्ती भव ।
+
+&कृपः&:  
+गच्छाम्यहमत्र प्रतिविधातुम् । भवानपि शिबिरसन्निवेशमेव प्रतिष्ठताम् ।  
+    
+*परिक्रम्य निष्क्रान्तौ**
+
+इति तृतीयो ऽङ्कः ।  
+    
+अच्त्_४  
+चतुर्थो ऽङ्कः ।  
+*ततः प्रविशति प्रहारमूर्च्छितं रथस्थं दुर्योधनमपहरन्सूतः । सूतः ससम्भ्रमं परिक्रामति**  
+    
+*नेपथ्ये**
+
+भो भो बाहुबलावलेपप्रवर्तितमहासमरदोहदाः कौरवपक्षपातपणीकृतप्राणद्रविणसञ्चया नरपतयः संस्तभ्यन्तां संस्तभ्यन्तां निहतदुःशासनपीतावशेषशोणितस्नपितबीभत्सवेषवृकोदरदर्शनभयपरिस्खलत्प्रहरणानि रणात्द्रवन्ति बलानि ।
+
+&सूतः&:  
+*विलोक्य**  
+कथमेष धवलचपलचामरचुम्बितकनककमण्डलुना शिखरावबद्धवैजयन्तीसूचितेन हतगजवाजिनरकलेवरसहस्रसम्मर्दविषमोद्घातकृतकलकलकिङ्किणीजालमालिना रथेन शरवर्षस्तम्भितपरबलपराक्रमप्रसरः प्रद्रुतमात्मबलमाश्वासयन्कृपः किरीटिनाभियुक्तमङ्गराजमनुसरति । हन्त जातमस्मद्बलानामवलम्बनम् ।  
+    
+*नेपथ्ये कलकलानन्तरम्**
+
+भो भोः अस्मद्दर्शनभयस्खलितकार्मुककृपाणतोमरशक्तयः कौरवचमूभटाः पाण्डवपक्षपातिनश्च योधाः न भेतव्यं न भेतव्यम् । अयमहं निहतदुःशासनपीवरोरःस्थलक्षतजासवपानमदोद्धतो रभसगामी स्तोकावशिष्टप्रतिज्ञामहोत्सवः कौरवराजस्य द्यूतनिर्जितो दासः पार्थमध्यमो भीमसेनः सर्वान्भवतः साक्षीकरोमि । श्रूयताम् ।  
+वेर्से_४।१  
+राज्ञो मानधनस्य कार्मुकभृतो दुर्योधनस्याग्रतः $ प्रत्यक्षं कुरुबान्धवस्य मिषतः कर्णस्य शल्यस्य च &  
+पीतं तस्य मयाद्य पाण्डववधूकेशाम्बराकर्षिणः ē̃ कोष्णं जीवत एव तीक्ष्णकरजक्षुण्णादसृग्वक्षसः ॥ ४।१ ॥
+
+&सूतः&:  
+*श्रुत्वा सभयम्**  
+अये आसन्न एव दुरात्मा कौरवराजपुत्रमहावनोत्पातमारुतो मारुतिः । अनुपलब्धसञ्ज्ञश्च तावदत्र महाराजः । भवतु । सुदूरमपहरामि स्यन्दनम् । कदाचिद्दुःशासन इवास्मिन्नप्ययमनार्यो ऽनार्यमाचरिष्यति ।*त्वरिततरं परिक्रम्यावलोक्य च**  
+अये अयमसौ सरसीसरोजविलोलनसुरभिशीतलमातरिश्वसंवाहितसान्द्रकिसलयो न्यग्रोधपादपः । उचिता विश्रामभूरियं समरव्यापारखिन्नस्य वीरजनस्य । अत्र स्थितश्चायाचिततालवृन्तेन हरिचन्दनच्छटाशीतलेनाप्रयत्नसुरभिणा दशापरिणामयोग्येन सरसीसमीरणेनामुना गतक्लमो भविष्यति महाराजः । लूनकेतुश्चायं रथो ऽनिवारित एव प्रवेक्ष्यति च्छायाम् ।*इति प्रवेशं रूपयित्वा**  
+कः को ऽत्र भोः ।*समन्तादवलोक्य**  
+कथं न कश्चिदत्र परिजनः । नूनं तथाविधस्य वृकोदरस्य दर्शनादेवंविधस्य च स्वामिनस्त्रासेन शिबिरसन्निवेशमेव प्रविष्टः । कष्टं भोः कष्टम् ।  
+वेर्से_४।२  
+दत्त्वा द्रोणेन पार्थादभयमपि न संरक्षितः सिन्धुराजः $ क्रूरं दुःशासने ऽस्मिन्हरिण इव कृतं भीमसेनेन कर्म &  
+दुःसाध्यामप्यरीणां लघुमिव समरे पूरयित्वा प्रतिज्ञां ē̃ नाहं मन्ये सकामं कुरुकुलविमुखं दैवमेतावतापि ॥ ४।२ ॥  
+    
+*राजानमवलोक्य**  
+कथमद्यापि न चेतनां लभते महाराजः । भोः कष्टम् ।*निःश्वस्य**  
+    
+वेर्से_४।३  
+मदकलितकरेणुभज्यमाने $ विपिन इव प्रकटैकशालशेषे &  
+हतसकलकुमारके कुले ऽस्मिम्- ē̃ स्त्वमपि विधेरवलोकितः कटाक्षैः ॥ ४।३ ॥  
+    
+ननु भो हतविधे भरतकुलविमुख  
+वेर्से_४।४  
+अक्षतस्य गदापाणेरनारूढस्य संशयम् ।  
+एषापि भीमसेनस्य प्रतिज्ञा पूर्यते त्वया ॥ ४।४ ॥
+
+&दुर्योधनः&:  
+*शनैरुपलब्धसञ्ज्ञः**  
+आः शक्तिरस्ति दुरात्मनो वृकोदरहतकस्य मयि जीवति दुर्योधने प्रतिज्ञां पूरयितुम् । वत्स दुःशासन न भेतव्यं न भेतव्यम् । अयमहमागतो ऽस्मि । ननु सूत प्रापय रथं तमेवोद्देशं यत्र वत्सो मे दुःशासनः ।
+
+&सूतः&:  
+आयुष्मन्नक्षमाः सम्प्रति वाहास्ते रथमुद्वोढुम् ।*अपवार्य**  
+मनोरथं च ।
+
+&दुर्योधनः&:  
+*रथादवतीर्य सगर्वं साकूतं च**  
+कृतं स्यन्दनगमनकालातिपातेन ।
+
+&सूतः&:  
+*सवैलक्ष्यं सकरुणं च**  
+मर्षयतु मर्षयत्वायुष्मान् ।
+
+&दुर्योधनः&:  
+धिक्सूत किं रथेन । केवलमरातिविमर्दसङ्घट्टसञ्चारी दुर्योधनः खल्वहम् । तद्गदामात्रसहायः समरभुवमवतरामि ।
+
+&सूतः&:  
+आयुष्मन्नेवमेतत् । कः सन्देहः ।
+
+&दुर्योधनः&:  
+यद्येवं किमेवं भाषसे । पश्य ।  
+वेर्से_४।५  
+बालस्य मे प्रकृतिदुर्ललितस्य पापः $ पापं व्यवस्यति समक्षमुदायुधो ऽसौ &  
+अस्मिन्निवारयसि किं व्यवसायिनं मां ē̃ क्रोधो न नाम करुणा न च ते ऽस्ति लज्जा ॥ ४।५ ॥
+
+&सूतः&:  
+*सकरुणं पादयोर्निपत्य**  
+एतद्विज्ञापयामि । आयुष्मन्सम्पूर्णप्रतिज्ञेन निवृत्तेन भवितव्यमिदानीं दुरात्मना वृकोदरहतकेन । अत एवं ब्रवीमि ।
+
+&दुर्योधनः&:  
+*सहसा भूमौ पतन्**  
+हा वत्स दुःशासन हा मदाज्ञाविरोधितपाण्डव हा विक्रमैकरस हा मदङ्कदुर्ललित हा अरातिकुलगजघटामृगेन्द्र हा युवराज क्वासि । प्रयच्छ मे प्रतिवचनम् ।*इति निःश्वस्य मोहमुपगतः**
+
+&सूतः&:  
+राजन्समाश्वसिहि समाश्वसिहि ।
+
+&दुर्योधनः&:  
+*सञ्ज्ञां लब्ध्वा । निःश्वस्य**  
+    
+वेर्से_४।६  
+मुक्तो यथेष्टमुपभोगसुखेषु नैव $ त्वं लालितो ऽपि हि मया न वृथाग्रजेन &  
+अस्यास्तु वत्स तव हेतुरहं विपत्ते- ē̃ र्यत्कारितो ऽस्यविनयं न च रक्षितो ऽसि ॥ ४।६ ॥  
+    
+*इति पतति**
+
+&सूतः&:  
+आयुष्मन्समाश्वसिहि समाश्वसिहि ।
+
+&दुर्योधनः&:  
+धिक्सूत किमनुष्ठितं भवता ।  
+वेर्से_४।७  
+रक्षणीयेन सततं बालेनाज्ञानुवर्तिना ।  
+दुःशासनेन भ्रात्राहमुपहारेण रक्षितः ॥ ४।७ ॥
+
+&सूतः&:  
+महाराज मर्मभेदिभिरिषुतोमरशक्तिप्रासवर्षैर्महारथानामपहृतचेतनत्वान्निश्चेष्टः कृतो महाराज इत्यपहृतो मया रथः ।
+
+&दुर्योधनः&:  
+सूत विरूपं कृतवानसि ।  
+वेर्से_४।८  
+तस्यैव पाण्डवपशोरनुजद्विषो मे $ क्षोदैर्गदाशनिकृतैर्न विबोधितो ऽस्मि &  
+तामेव नाधिशयितो रुधिरार्द्रशय्यां ē̃ दौःशासनीं यदहमाशु वृकोदरो वा ॥ ४।८ ॥  
+    
+*निश्वस्य नभो विलोक्य**  
+ननु भो हतविधे कृपाविरहित भरतकुलविमुख  
+वेर्से_४।९  
+अपि नाम भवेन्मृत्युर्न च हन्ता वृकोदरः ।
+
+&सूतः&:  
+शान्तं पापं शान्तं पापम् । महाराज किमिदम् ।
+
+&दुर्योधनः&:  
+वेर्से_४।९  
+घातिताशेषबन्धोर्मे किं राज्येन जयेन वा ॥ ४।९ ॥
+
+*ततः प्रविशति शरप्रहारव्रणबद्धपट्टिकालङ्कृतकायः सुन्दरकः**
+
+&सुन्दरकः&:  
+{प्क्त्_१०२}अज्जा अबि णाम इमस्सिं उद्देसे सारहिदुदीओ दिट्ठो तुम्हेहिं महाराअदुज्जोहणो ण वेत्ति *निरूप्य**  
+कहं ण को बि मन्तेदि । होदु । एदाणं बद्धपरिअराणं पुरिसाणं समूहो दीसै । एत्थ गदुअ पुच्छिस्सं ।*परिक्रम्य विलोक्य च**  
+कहं एदे क्खु सस्सामिणो गाढप्पहारहदस्स घणसण्णाहजालदुब्भेज्जमुहेहिं कङ्कवदणेहिं हिअआदो सल्लाइं उद्धरन्ति । ता ण क्खु एदे जाणन्ति । होदु । अण्णदो विचिणैस्सं ।*अग्रतो ऽवलोक्य किञ्चित्परिक्रम्य**  
+इमे क्खु अबरे पहूददरा सङ्गदा वीरमणुस्सा दीसन्ति । ता एत्थ गदुअ पुच्छिस्सं ।*उपगम्य**  
+हंहो जाणह तुम्हे कस्सिं उद्देसे कुरुणाहो वट्टै त्ति ।*दृष्ट्वा**  
+कहं एदे बि मं पेक्खिअ अहिअदरं रोअन्ति । ता ण हु एदे बि जाणन्ति । हा अदिकरुणं क्खु एत्थ वट्टै । एसा वीरमादा समलविणिहदं पुत्तअं सुणिअ रत्तंसुअणिवसणाए समग्गभूसणाए वहूए सह अणुमरदि ।*सश्लाघम्**  
+साहु वीरमादे साहु । अण्णस्सिं बि जम्मन्तरे अणिहदपुत्तआ हुविस्ससि । होदु । अण्णदो विचिणैस्सं ।*अन्यतो विलोक्य**  
+अअं अबरो बहुप्पहारणिहदकाओ अकिदव्वणप्पडीआरो एव्व जोहसमूहो इमं सुण्णासणं तुलङ्गमं उबालहिअ रोइदि । णूणं एदाणं एत्थ एव्व सामी वाबादिदो । ता ण हु एदे बि जाणन्ति । होदु । अण्णदो गदुअ पुच्छिस्सं ।*सर्वतो विलोक्य**  
+कहं सव्वो एव्व अवत्थाणुरूबं विसणं अणुहवन्तो भाअधेअविमुहदाए पज्जाउलो जणो । ता कं एत्थ पुच्छिस्सं । कं वा उबालहिस्सं । होदु । सअं एव्व एत्थ विचिणैस्सं ।*परिक्रम्य**  
+होदु । देव्वं दाणीं उबालहिस्सं । हंहो देव्व एआदसाणं अक्खोहिणीणं णाहो जेट्ठो भादुसदस्स भत्ता गङ्गेअद्दोणङ्गराअसल्लकिबकिदवम्मस्सत्थामप्पमुहस्स राअचक्कस्स सअलपहुवीमण्डलेक्कणाहो महाराअदुज्जोहणो बि अण्णेसीअदि । अण्णेसीअन्तो बि ण जाणीअदि कस्सिं उद्देसे वट्टै त्ति ।*विचिन्त्य निःश्वस्य च**  
+अह वा किं एत्थ देव्वं उबालहामि । तस्स क्खु एदं णिब्भच्छिअविउरवअणवीअस्स अवहीरिदपिदामहहिदोबदेसङ्कुरस्स सौणिप्पोच्छाहणादिविरूढमूलस्स जदुगेहजूदविससाहिणो सम्भूदचिरआलसम्बद्धवेरालवालस्स पञ्चालीकेसग्गहणकुसुमस्स फलं परिणमदि ।*अन्यतो विलोक्य**  
+जहा एत्थ एसो विविहरअणप्पहासंवलिदसूरकिरणप्पसूदसक्कचाबसहस्ससम्पूरिददसदिसामुहो लूणकेदुवंसो रहो दीसै ता अहं तक्केमि अवस्सं एदिणा महाराअदुज्जोहणस्स विस्सामुद्देसेण होदव्वं । जाव णिरूबेमि ।*उपगम्य दृष्ट्वा निश्वस्य च**  
+कधं एआदसाणं अक्खोहिणीणं णाअको भविअ महाराओ दुज्जोहणो पाइदपुरिसो विअ असलाहणीए भूमिए उपविट्ठो चिट्ठदि । अथ वा तस्स क्खु एदं पञ्चालीकेसग्गहकुसुमस्स फलं परिणमदि ।
+
+स्क्त्छ्_१०२: आर्याः अपि नामास्मिन्देशे सारथिद्वितीयो दृष्टो युष्माभिर्महाराजदुर्योधनो न वेति । कथं न को ऽपि मन्त्रयते । भवतु । एतेषां बद्धपरिकराणां पुरुषाणां समूहो दृश्यते । अत्र गत्वा प्रक्ष्यामि । कथमेते खलु स्वस्वामिनो गाढप्रहारहतस्य घनसन्नाहजालदुर्भेद्यमुखैः कङ्कवदनैर्हृदयाच्छल्यान्युद्धरन्ति । तन्न खल्वेते जानन्ति । भवतु । अन्यतो विचेष्यामि । इमे खल्वपरे प्रभूततराः सङ्गता वीरमनुष्या दृश्यन्ते । तदत्र गत्वा प्रक्ष्यामि । हंहो जानीथ यूयं कस्मिन्नुद्देशे कुरुनाथो वर्तत इति । कथमेते ऽपि मां प्रेक्ष्याधिकतरं रुदन्ति । तन्न खल्वेते ऽपि जानन्ति । हा अतिकरुणं खल्वत्र वर्तते । एषा वीरमाता समरविनिहतं पुत्रकं श्रुत्वा रक्तांशुकनिवसनया समग्रभुषणया वध्वा सहानुम्रियते । साधु वीरमातः साधु । अन्यस्मिन्नपि जन्मान्तरे ऽनिहतपुत्रका भविष्यसि । भवतु । अन्यतो विचेष्यामि । अयमपरो बहुप्रहारनिहतकायो ऽकृतव्रणबन्ध एव योधसमूह इमं शून्यासनं तुरङ्गममुपालभ्य रोदिति । नूनमेतेषामत्रैव स्वामी व्यापादितः । तन्न खल्वेते ऽपि जानन्ति । भवतु । अन्यतो गत्वा प्रक्ष्यामि । कथं सर्व एवावस्थानुरूपं व्यसनमनुभवन्भागधेयविमुखतया पर्याकुलो जनः । तत्कमत्र प्रक्ष्यामि । कं वोपालप्स्ये । भवतु । स्वयमेवात्र विचेष्यामि । भवतु । दैवमिदानीमुपालप्स्ये । हंहो दैव एकादशानामक्षौहिणीनां नाथो ज्येष्ठो भ्रातृशतस्य भर्ता गाङ्गेयद्रोणाङ्गराजशल्यकृपकृतवर्माश्वत्थामप्रमुखस्य राजचक्रस्य सकलपृथ्वीमण्डलैकनाथो महाराजदुर्योधनो ऽप्यन्विष्यते । अन्विष्यमाणो ऽपि न ज्ञायते कस्मिन्नुद्देशे वर्तत इति । अथ वा किमत्र दैवमुपालभे । तस्य खल्विदं  
+निर्भर्त्सितविदुरवचनबीजस्यावधीरितपितामहहितोपदेशाङ्कुरस्य शकुनिप्रोत्साहनादिविरूढमूलस्य जतुगृहद्यूतविषशाखिनः सम्भूतचिरकालसम्बद्धवैरालवालस्य पाञ्चालीकेशग्रहणकुसुमस्य फलं परिणमति । यथात्रैव विविधरत्नप्रभासंवलितसूर्यकिरणप्रसूतशक्रचापसहस्रसम्पूरितदशदिशामुखो लूनकेतवंशो रथो दृश्यते तथाहं तर्कयाम्यवश्यमेतेन महाराजदुर्योधनस्य विश्रामोद्देशेन भवितव्यमिति । यावन्निरूपयामि । कथमेकादशानामक्षौहिणीनां नायको भूत्वा महाराजो दुर्योधनः प्राकृतपुरुष इवाश्लाघनीयायां भूमावुपवष्टस्तिष्ठति । अथ वा तस्य खल्विदं पाञ्चालीकेशग्रहकुसुमस्य फलं परिणमति ।  
+    
+*उपसृत्य सूतं सञ्ज्ञया पृच्छति**
+
+&सूतः&:  
+*दृष्ट्वा**  
+अये कथं सङ्ग्रामात्सुन्दरकः प्राप्तः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१०३}*उपगम्य**  
+जेदु जेदु महाराओ ।
+
+स्क्त्छ्_१०३: जयतु जयतु महाराजः ।
+
+&दुर्योधनः&:  
+*विलोक्य**  
+अये सुन्दरकः । सुन्दरक कच्चित्कुशलमङ्गराजस्य ।
+
+&सुन्दरकः&:  
+{प्क्त्_१०४}देव कुसलं सरीरमेत्तेण ।
+
+स्क्त्छ्_१०४: देव कुशलं शरीरमात्रेण ।
+
+&दुर्योधनः&:  
+*ससम्भ्रमम्**  
+सुन्दरक किं किरीटिनास्य निहता धौरेया हतः सारथिर्भग्नो वा रथः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१०५}देव ण भग्गो रहो । से मणोरहो बि ।
+
+स्क्त्छ्_१०५: देव न भग्नो रथः । अस्य मनोरथो ऽपि ।
+
+&दुर्योधनः&:  
+*सरोषम्**  
+किमविस्पष्टकथितैराकुलमपि पर्याकुलयसि मे हृदयम् । तदशेषतो विस्पष्टं कथ्यताम् ।
+
+&सुन्दरकः&:  
+{प्क्त्_१०६}जं देवो आणबेदि । अए देवस्स मुउडमणिप्पहावेण अबणीदा मे रणप्पहारवेअणा ।*इति साटोपं परिक्रम्य**  
+सुणादु देवो । अत्थि दाणिं कुमालदुस्सासणवह ।*इत्यर्धोक्ते मुखमाच्छाद्य शङ्कां नाटयति**
+
+स्क्त्छ्_१०६: यद्देव आज्ञापयति । अये देवस्य मुकुटमणिप्रभावेणापनीता मे रणप्रहारवेदना । शृणोतु देवः । अस्तीदानीं कुमारदुःशासनवध ।
+
+&सूतः&:  
+सुन्दरक कथय । कथितमेव दैवेन ।
+
+&दुर्योधनः&:  
+कथ्यताम् । श्रुतमस्माभिः ।  
+    
+&सुन्दरकः&:  
+{प्क्त्_१०७}सणादु देवो । अज्ज दाव कुमालदुस्सासणवहामरिसिदेण सामिणा अङ्गराएण कुडिलभिउडीभङ्गभीसणणिडलबट्टेण अविण्णादसन्धाणमोक्खसिलीमुहसङ्घादवरिसिणा अभिजुत्तो सो दुराआरो मज्झमपण्डवो भीमसेणहदओ ।
+
+स्क्त्छ्_१०७: शृणोतु देवः । अद्य तावत्कुमारदुःशासनवधामर्षितेन स्वामिनाङ्गराजेन कुटिलभ्रुकुटीभङ्गभीषणनिटलपट्टेनाविज्ञातसन्धानमोक्षशिलीमुखसङ्घातवर्षिणाभियुक्तः स दुराचारो मध्यमपाण्डवो भीमसेनहतकः ।
+
+&उभौ&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१०८}तदो देव उहअबलमिलन्तदिप्पन्तकरितुरअपदादिसमुब्भूदधूलिणिअरेण पल्लत्थगअघडासङ्घादेण अ वित्थरन्तेण अन्धआरेण अन्धीकिदं उहअबलं । ण हु गगणतलं लक्खीअदि ।
+
+स्क्त्छ्_१०८: ततो देव उभयबलमिलद्दीप्यमानकरितुरगपदातिसमुद्भूतधूलिनिकरेण पर्यस्तगजघटासङ्घातेन च विस्तीर्णमानेनान्धकारेणान्धीकृतमुभयबलम् । न खलु गगनतलं लक्ष्यते ।
+
+&उभौ&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१०९}तदो देव दूराकट्ठिअधणुग्गुणाच्छोडणटङ्कारेण गम्भीरभीसणेण जाणीअदि गज्जिदं पलअजलहरेण त्ति ।
+
+स्क्त्छ्_१०९: ततो देव दूराकृष्टधनुर्गुणाच्छोटनटङ्कारेण गम्भीरभीषणेन ज्ञायते गर्जितं प्रलयजलधरेणेति ।
+
+&दुर्योधनः&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_११०}तदो देव दोण्णं बि ताणं अण्णोण्णसिंहणादगज्जिदपिसुणं विविहपरिमुक्कप्पहरणाहदकवअसङ्गलिदज्जलणविज्जुच्छडाभासुरं गम्भीरत्थणिअचापजलहरं प्पसरन्तसरधारासहस्सवरिसं जादं समरदुद्दिणं ।
+
+स्क्त्छ्_११०: ततो देव द्वयोरपि तयोरन्यो ऽन्यसिंहनादगर्जितपिशुनं विविधपरिमुक्तप्रहरणाहतकवचसङ्गलितज्वलनविद्युच्छटाभासुरं गम्भीरस्तनितचापजलधरं प्रसरच्छरधारासहस्रवर्षि जातं समरदुर्दिनम् ।
+
+&दुर्योधनः&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१११}तदो अ देव एदस्सिं अन्तरे जेट्ठस्स भादुणो पराभवसङ्किणा धणञ्जएण वज्जणिग्घादणिग्घोसविसमरसिदधअअग्गट्ठिदमहावाणरो तुरङ्गमसंवाहणवापिदवासुदेवसङ्खचक्कासिगदालञ्छिदचौब्बाहुदण्डदुद्दंसणो आपूरिअपञ्चजण्णदेअदत्तताररसिदप्पडिरवभरिददसदिसामुहकुहरो धाविदो तं उद्देसं रहवरो ।
+
+स्क्त्छ्_१११: ततश्च देव एतस्मिन्नन्तरे ज्येष्ठस्य भ्रातुः पराभवशङ्किना धनञ्जयेन वज्रनिर्घातनिर्घोषविषमरसितध्वजाग्रस्थितमहावानरस्तुरङ्गमसंवाहनव्यापृतवासुदेवशङ्खचक्रासिगदालाञ्छितचतुर्बाहुदण्डदुर्दर्शन आपूरितपाञ्चजन्यदेवदत्तताररसितप्रतिरवभरितदशदिशामुखकुहरो धावितस्तमुद्देशं रथवरः ।
+
+&दुर्योधनः&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_११२}तदो भीमसेणधनञ्जएहिं अभिजुत्तं पिदरं पेक्खिअ ससम्भमं विअलिअं अवधूणिअ रअणसीसअं आकण्णाकट्ठिदकठिणकोदण्डजीओ दाहिणहत्थुक्खित्तसरपुङ्खविघट्टणतुवराइदसारहिओ तं देसं उबगदो कुमालविससेणो ।
+
+स्क्त्छ्_११२: ततो भीमसेनधनञ्जयाभ्यामभियुक्तं पितरं प्रेक्ष्य ससम्भ्रमं विगलितमवधूय रत्नशीर्षकमाकर्णाकृष्टकठिनकोदण्डजीवः दक्षिणहस्तोत्क्षिप्तशरपुङ्खविघट्टनत्वरितसारथिस्तं देशमुपगतः कुमारवृषसेनः ।
+
+&दुर्योधनः&:  
+*सावष्ठम्भम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_११३}तदो अ देव तेण आअच्छन्तेण एव्व कुमालविससेणेण विदलिदासिलदासामलसिणिद्धपुङ्खेहिं कठिणकङ्कबत्तेहिं किसणवण्णेहिं साणसिलाणिसिदसामलसल्लबन्धेहिं कुसुमिदो विअ तरू मुहुत्तएण सिलीमुहेहिं पच्छादिदो धणञ्जअस्स रहवरो ।
+
+स्क्त्छ्_११३: ततश्च देव तेनागच्छतैव कुमारवृषसेनेन विदलितासिलताश्यामलस्निग्धपुङ्खैः कठिनकङ्कपत्रैः कृष्णवर्णैः शाणशिलानिशितश्यामलशल्यबन्धैः कुसुमित इव तरुर्मुहूर्तेन शिलीमुखैः प्रच्छादितो धनञ्जयस्य रथवरः ।
+
+&उभौ&:  
+*सहर्षम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_११४}तदो देव तिक्खविक्खित्तणिसिदभल्लबाणवरिसिणा धणञ्जएण ईसि विहसिअ भणिदं । अरे रे विससेण पिदुणो बि दाव दे ण जुत्तं मह कुबिदस्स अभिमुहं ठादुं । किं उण भवदो बालस्स । ता गच्छ । अबरेहिं कुमारेहिं सह आओधेहि त्ति । एव्वं वाअं णिसमिअ गुरअणाहिक्खेबेण उद्दीबिअकोबोबरत्तमुहमण्डलविअम्भिअभिउडीभङ्गभीसणेण चाबधारिणा कुमालविससेणेण बि मम्मभेदएहिं परुसविसमेहिं सुदिवहकिदप्पणएहिं णिब्भच्छिदो गण्डीवी बाणेहिं ण उण दुट्ठवअणेहिं ।
+
+स्क्त्छ्_११४: ततो देव तीक्ष्णविक्षिप्तनिशितभल्लबाणवर्षिणा धनञ्जयेनेषद्विहस्य भणितम् । अरे रे वृषसेन पितुरपि तावत्ते न युक्तं मम कुपितस्याभिमुखं स्थातुम् । किं पुनर्भवतो बालस्य । तद्गच्छ । अपरैः कुमारैः सहायुध्यस्वेति । एवं वाचं निशम्य गुरुजनाधिक्षेपेणोद्दीपितकोपोपरक्तमुखमण्डलविजृम्भितभ्रुकुटीभङ्गभीषणेन चापधारिणा कुमारवृषसेनेनापि मर्मभेदकैः परुषविषमैः श्रुतिपथकृतप्रणयैर्निर्भर्त्सितो गाण्डीवी बाणैर्न पुनर्दुष्टवचनैः ।
+
+&दुर्योधनः&:  
+साधु वृषसेन साधु । सुन्दरक ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_११५}तदो देव णिसिदसराभिघादवेअणोपजादमण्णुणा किरीटिणा चण्डगण्डीवजीआसद्दणिज्जिदवज्जणिग्घादघोसेण बाणणिपदणपडिसिद्धदंसणप्पसरेण पत्थुदं सिक्खाबलाणुरूबं किं बि अच्चलिअं ।
+
+स्क्त्छ्_११५: ततो देव निशितशराभिघातवेदनोपजातमन्युना किरीटिना चण्डगाण्डीवजीवाशब्दनिर्जितवज्रनिर्घातघोषेण बाणनिपतनप्रतिषिद्धदर्शनप्रसरेण प्रस्तुतं शिक्षाबलानुरूपं किमप्याश्चर्यम् ।
+
+&दुर्योधनः&:  
+*साकूतम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_११६}तदो अ देव तं तारिसं पेक्खिअ सत्तुणो समरव्वाबारचौरत्तणं अविभाविअतूणीरमुहधणुग्गुणगमणागमणसरसन्धाणमोक्खचडुलकरअलेण कुमालविससेणेण बि सविसेसं पत्थुदं समलकम्म ।
+
+स्क्त्छ्_११६: ततश्च देव तत्तादृशं प्रेक्ष्य शत्रोः समरव्यापारचतुरत्वमविभाविततूणीरमुखधनुर्गुणगमनागमनशरसन्धानमोक्षचटुलकरतलेन कुमारवृषसेनेनापि सविशेषं प्रस्तुतं समरकर्म ।
+
+&दुर्योधनः&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_११७}तदो देव एत्थन्तरे विमुक्कसमरव्वाबारो मुहुत्तविस्समिदवेराणुबन्धो दोणं बि कुरुराअपण्डवबलाणं साहु कुमालविससेण साहु त्ति किदकलअलो वीरलोओ अवलोइदुं पौत्तो ।
+
+स्क्त्छ्_११७: ततो देव अत्रान्तरे विमुक्तसमरव्यापारो मुहूर्तविश्रमितवैरानुबन्धो द्वयोरपि कुरुराजपाण्डवबलयोः साधु कुमारवृषसेन साध्विति कृतकलकलो वीरलोको ऽवलोकयितुं प्रवृत्तः ।
+
+&दुर्योधनः&:  
+*सविस्मयम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_११८}तदो अ देव अवहीरिदसअलधाणुक्कचक्कपरक्कमसालिणो सुदस्स तहाविहेण समलकम्मालम्भेण हरिसरोसकरुणासङ्कडे वट्टमाणस्स सामिणो अङ्गराअस्स णिपडिआ सरपद्धई भीमसेणे बप्फपज्जाउला दिट्ठी कुमालविससेणे ।
+
+स्क्त्छ्_११८: ततश्च देव अवधीरितसकलधानुष्कचक्रपराक्रमशालिनः सुतस्य तथाविधेन समरकर्मारम्भेण हर्षरोषकरुणासङ्कटे वर्तमानस्य स्वामिनो ऽङ्गराजस्य निपतिता शरपद्धतिर्भीमसेने बाष्पपर्याकुला दृष्टिः कुमारवृषसेने ।
+
+&दुर्योधनः&:  
+*सभयम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_११९}तदो अ देव उहअबलप्पौत्तसाहुकारामरिसिदेण सरवरिसप्पज्जलिदेण गण्डीविणा तुरएसु सारहिं पि रहवरे धणुं पि जीआइं पि णलिन्दलञ्छणे सिदादबत्ते बि अ वाबारिदो समं सिलीमुहासारो ।
+
+स्क्त्छ्_११९: ततश्च देव उभयबलप्रवृत्तसाधुकारामर्षितेन शरवर्षप्रज्वलितेन गाण्डीविना तुरगेषु सारथावपि रथवरे धनुष्यपि जीवायामपि नरेन्द्रलाञ्छने सितातपत्रे ऽपि च व्यापारितः समं शिलीमुखासारः ।
+
+&दुर्योधनः&:  
+*सभयम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२०}तदो देव विरहो लूणगुणकोदण्डो परिब्भमणव्वाबारमेत्तप्पडिसिद्धसरसम्पादो मण्डलेहिं विअरिदुं पौत्तो कुमालो ।
+
+स्क्त्छ्_१२०: ततो देव विरथो लूनगुणकोदण्डः परिभ्रमणव्यापारमात्रप्रतिषिद्धशरसम्पातो मण्डलैर्विचरितुं प्रवृत्तः कमारः ।
+
+&दुर्योधनः&:  
+*साशङ्कम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२१}तदो देव सुदरहविद्धंसणामरिसुद्दीबिदेण सामिणा अङ्गराएण अगणिअभीमसेणाभिजोएण परिमुक्को धणञ्जअस्स उबरि सिलीमुहासारो । कुमालो बि परिजणोबणीदं अण्णं रहं आरुहिअ पुणो बि पौत्तो धणञ्जएण सह आओधेदुं ।
+
+स्क्त्छ्_१२१: ततो देव सुतरथविध्वंसनामर्षोद्दीपितेन स्वामिनाङ्गराजेनागणितभीमसेनाभियोगेन परिमुक्तो धनञ्जयस्योपरि शिलीमुखासारः । कुमारो ऽपि परिजनोपनीतमन्यं रथमारुह्य पुनरपि प्रवृत्तो धनञ्जयेन सहायोद्धुम् ।
+
+&उभौ&:  
+साधु वृषसेन साधु । ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२२}तदो देव भणिदं अ कुमालेण रे रे तादाहिक्खेबमुहल मज्झमपण्डव मह सरा तुह सरीरं उज्झिअ अण्णस्सिं ण णिबडन्ति । त्ति भणिअ सरसहस्सेहिं पण्डवसरीरं पच्छादिअ सिंहणादेण गज्जिदुं पौत्तो ।
+
+स्क्त्छ्_१२२: ततो देव भणितं च कुमारेण रे रे ताताधिक्षेपमुखर मध्यमपाण्डव मम शरास्तव शरीरमुज्झित्वान्यस्मिन्न निपतन्ति । इति भणित्वा शरसहस्रैः पाण्डवशरीरं प्रच्छाद्य सिंहनादेन गर्जितुं प्रवृत्तः ।
+
+&दुर्योधनः&:  
+*सविस्मयम्**  
+अहो बालस्य पराक्रमो मुग्धस्वभावो ऽपि । ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२३}तदो अ देव तं सरसम्पादं समवधूणिअ णिसिदसराभिघादजादमण्णुणा किरीटिणा गहिदा रहुच्छङ्गादो कणन्तकणअकिङ्किणीजालझङ्कारविराइणी मेहोबरोहविमुक्कणहत्थलणिम्मला णिसिदसामलसिणिद्धमुही विविहरअणप्पहाभासुरभीसणरमणीअदंसणा सत्ती सोबहासं विमुक्का अ कुमालाहिमुही ।
+
+स्क्त्छ्_१२३: ततश्च देव तं शरसम्पातं समवधूय निशितशराभिघातजातमन्युना किरीटिना गृहीता रथोत्सङ्गात्क्वणत्कनककिङ्किणीजालझङ्कारविराविणी मेघोपरोधविमुक्तनभस्तलनिर्मला निशितश्यामलस्निग्धमुखी विविधरत्नप्रभाभासुरभीषणरमणीयदर्शना शक्तिः सोपहासं विमुक्ता च कुमाराभिमुखी ।
+
+&दुर्योधनः&:  
+*सविषादम्**  
+अहह । ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२४}तदो अ देव पज्जलन्तिं सत्तिं पेक्खिअ विअलिअं अङ्गराअस्स हत्थादो ससरं धणुं हिअआदो वीरसुलहो उच्छाहो णअणादो बाप्फसलिलं वअणादो रसिदं । हसिदं अ धणञ्जएण सिंहणादं विणादिदं विओदलेण दुक्कलं दुक्कलं त्ति आक्कन्दिदं कुरुबलेण ।
+
+स्क्त्छ्_१२४: ततश्च देव प्रज्वलन्तीं शक्तिं प्रेक्ष्य विगलितमङ्गराजस्य हस्तात्सशरं धनुर्हृदयाद्वीरसुलभ उत्साहो नयनाद्बाष्पसलिलं वदनाद्रसितम् । हसितं च धनञ्जयेन सिंहनादं विनादितं वृकोदरेण दुष्करं दुष्करमित्याक्रन्दितं कुरुबलेन ।
+
+&दुर्योधनः&:  
+*सविषादम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२५}तदो देव कुमालविससेणेण आकण्णाकिट्ठणिसिदखुरप्पेहिं चिरं णिज्झाइअ अद्धपहे एव्व भाईरही विअ भअवदा विसमलोअणेण तिधा किदा सत्ती ।
+
+स्क्त्छ्_१२५: ततो देव कुमारवृषसेनेनाकर्णाकृष्टनिशितक्षुरप्रैश्चिरं निध्यायार्धपथ एव भागीरथीव भगवता विषमलोचनेन त्रिधा कृता शक्तिः ।
+
+&दुर्योधनः&:  
+साधु वृषसेन साधु । ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२६}तदो अ देव एदस्सिं अन्तरे किदकलकलमुहरेण वीरलोअसाहुवादेण अन्तरिदो समरतूररवो । सिद्धचालणगणविमुक्ककुसुमप्पकरेण पच्छादिदं समलङ्गणं ।
+
+स्क्त्छ्_१२६: ततश्च देव एतस्मिन्नन्तरे कृतकलकलमुखरेण वीरलोकसाधुवादेनान्तरितः समरतूर्यरवः । सिद्धचारणगणविमुक्तकुसुमप्रकरेण प्रच्छादितं समराङ्गणम् ।
+
+&दुर्योधनः&:  
+अहो बालस्य पराक्रमः । ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२७}तदो अ देव भणिअं सामिणा अङ्गराएण । भो विओदल असमत्तो तुह मह बि समलव्वाबारो । ता अणुमण्ण मं मुहुत्तअं । पेक्खाम दाव वच्छस्स तुह भादुणो अ धणुव्वेदसिक्खाणिउणत्तणं । तुह बि एदं पेक्खणीअं त्ति ।  
+    
+स्क्त्छ्_१२७: ततश्च देव भणितं स्वामिनाङ्गराजेन । भो वृकोदर असमाप्तस्तव ममापि समरव्यापारः । तदनुमन्यस्व मां मुहूर्तम् । प्रेक्षावहे तावद्वत्सस्य तव भ्रातुश्च धनुर्वेदशिक्षानिपुणत्वम् । तवाप्येतत्प्रेक्षणीयमिति ।
+
+&दुर्योधनः&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२८}तदो देव विरदा रणव्वाबारणिब्बन्धादो मुहुत्तअं पसमिदवेरा दुवे बि पेक्खआ जादा भीमसेणङ्गराआ ।
+
+स्क्त्छ्_१२८: ततो देव विरतौ रणव्यापारनिर्बन्धान्मुहूर्तं प्रशमितवैरौ द्वावपि प्रेक्षकौ जातौ भीमसेनाङ्गराजौ ।
+
+&दुर्योधनः&:  
+*साभिप्रायम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१२९}तदो अ देव एदस्सिं अन्तरे सत्तिखण्डणामरिसिदेण गण्डीविणा भणिअं । अरे रे दुज्जोहणप्पमुहा ।*इत्यर्धोक्ते लज्जां नाटयति**
+
+स्क्त्छ्_१२९: ततश्च देव एतस्मिन्नन्तरे शक्तिखण्डनामर्षितेन गाण्डीविना भणितम् । अरे रे दुर्योधनप्रमुखाः ।
+
+&दुर्योधनः&:  
+सुन्दरक कथ्यताम् । परवचनमेतत् ।
+
+&सुन्दरकः&:  
+{प्क्त्_१३०}सुणादु देवो । अरे दुज्जोहणप्पमुहा कुरुबलसेणापहुणआ अरे अविणअणोकण्णधार कण्ण तुम्हेहिं मह परोक्खं बहुहिं महोरहेहिं परिवारिअ एआई मह पुत्तओ अहिमण्णू वाबादिदो । अहं उण तुम्हाणं पेक्खन्ताणं एव्व एदं कुमालविससेणं सुमरिदव्वसेसं करोमि । त्ति भणिअ सगव्वं आप्फालिदं णेण वज्जणिग्घादणिग्घोसभीसणजीआरवं गण्डीवं । सामिणा बि सज्जीकिदं कालपुट्ठं ।
+
+स्क्त्छ्_१३०: शृणोतु देवः । अरे दुर्योधनप्रमुखाः कुरुबलसेनाप्रभवः अरे अविनयनौकर्णधार कर्ण युष्माभिर्मम परोक्षं बहुभिर्महारथैः परिवृत्यैकाकी मम पुत्रको ऽभिमन्युर्व्यापादितः । अहं पुनर्युष्माकं प्रेक्षमाणानामेवैतं कुमारवृषसेनं स्मर्तव्यशेषं करोमि । इति भणित्वा सगर्वमास्फालितमनेन वज्रनिर्घातनिर्घोषभीषणजीवारवं गाण्डीवम् । स्वामिनापि सज्जीकृतं कालपृष्ठम् ।
+
+&दुर्योधनः&:  
+*सावहित्थम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१३१}तदो अ देव पडिसिद्धभीमसेणसमलकम्मालम्भेण गण्डीविणा विरैदा अङ्गराअविससेणरहकूलङ्कसाओ दुवे बाणणईओ । तेहिं बि दुवेहिं अण्णोण्णसिणेहदंसिदसिक्खाविसेसेहिं अहिजुत्तो सो दुराआरो मज्झमपण्डओ ।
+
+स्क्त्छ्_१३१: ततश्च देव प्रतिषिद्धभीमसेनसमरकर्मारम्भेण गाण्डीविना विरचिते अङ्गराजवृषसेनरथकूलङ्कषे द्वे बाणनद्यौ । ताभ्यामपि द्वाभ्यामन्यो ऽन्यस्नेहदर्शितशिक्षाविशेषाभ्यामभियुक्तः स दुराचारो मध्यमपाण्डवः ।
+
+&दुर्योधनः&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१३२}तदो अ देव गण्डीविणा ताररसिदजीआणिग्घोसमेत्तविण्णादबाणवरिसेण तह आअरिदं पत्तिहिं जह ण णहत्थलं ण सामी ण रहो ण धरणी ण कुमालो ण केदुवंसो ण बलाइं ण सारही ण तुलङ्गमा ण दिसाओ ण वीरलोओ अ लक्खीअदि ।
+
+स्क्त्छ्_१३२: ततश्च देव गाण्डीविना ताररसितजीवानिर्घोषमात्रविज्ञातबाणवर्षेण तथाचरितं पत्रिभिर्यथा न नभस्तलं न स्वामी न रथो न धरणी न कुमारो न केतुवंशो न बलानि न सारथिर्न तुरङ्गमा न दिशो न वीरलोकश्च लक्ष्यते ।
+
+&दुर्योधनः&:  
+*सविस्मयम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१३३}तदो अ देव अदिक्कन्ते सरवरिसे खणमेत्तं एव्व सहरिससिंहणादे पण्डवसेण्णे सविसादमुक्कक्कन्दे कोरवबले समुत्थिदो महन्तो कलअलो हा हदो कुमालविससेणो त्ति ।
+
+स्क्त्छ्_१३३: ततश्च देव अतिक्रान्ते शरवर्षे क्षणमात्रमेव सहर्षसिंहनादे पाण्डवसैन्ये सविषादमुक्ताक्रन्दे कौरवबले समुत्थितो महान्कलकलो हा हतः कुमारवृषसेन इति ।
+
+&दुर्योधनः&:  
+*सबाष्परोधम्**  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१३४}तदो देव पेक्खामि कुमालं हदसारहितुलङ्गं लूणादबत्तचाबचामरकेदुवंसं सग्गब्भट्ठं विअ सुलकुमालं एक्केण एव्व हिअअमम्मभेदिणा सिलीमुहेण भिण्णदेहं रहमज्झे पल्लत्थं ।
+
+स्क्त्छ्_१३४: ततो देव प्रेक्षे कुमारं हतसारथितुरङ्गं लूनातपत्रचापचामरकेतुवंशं स्वर्गभ्रष्टमिव सुरकुमारमेकेनैव हृदयमर्मभेदिना शिलीमुखेन भिन्नदेहं रथमध्ये पर्यस्तम् ।
+
+&दुर्योधनः&:  
+*सास्रम्**  
+अहह कुमार वृषसेन । अलमतः परं श्रुत्वा । हा वत्स हा मदङ्कदुर्ललित हा मदाज्ञाकर हा गदायुधप्रियशिष्य हा शौर्यसागर हा राधेयकुलप्ररोह हा प्रियदर्शन हा दुःशासननिर्विशेष हा सर्वगुरुवत्सल प्रयच्छ मे प्रतिवचनम् ।  
+वेर्से_४।१०  
+पर्याप्तनेत्रमचिरोदितचन्द्रकान्त- $ मुद्भिद्यमाननवयौवनरम्यशोभम् &  
+प्राणापहारपरिवर्तितदृष्टि दृष्टं ē̃ कर्णेन तत्कथमिवाननपङ्कजं ते ॥ ४।१० ॥
+
+&सूतः&:  
+आयुष्मन्नलमत्यन्तदुःखावेगेन ।
+
+&दुर्योधनः&:  
+सूत पुण्यवन्तो हि दुःखभाजो भवन्ति । अस्माकं पुनः  
+वेर्से_४।११  
+प्रत्यक्षं हतबन्धूनामेतत्परिभवाग्निना ।  
+हृदयं दह्यते ऽत्यर्थं कुतो दुःखं कुतो व्यथा ॥ ४।११ ॥  
+    
+*इति मोहमुपगतः**
+
+&सूतः&:  
+समाश्वसितु समाश्वसितु महाराजः ।*इति पटान्तेन वीजयति**
+
+&दुर्योधनः&:  
+*लब्धसञ्ज्ञः**  
+भद्र सुन्दरक ततो वयस्येन किं प्रतिपन्नमङ्गराजेन ।
+
+&सुन्दरकः&:  
+{प्क्त्_१३५}तदो अ देव तहाविधस्स पुत्तस्स दंसणेण सङ्गलिदं अस्सुजलं उज्झिअ अणबेक्खिदपरप्पहरणाभिओएण सामिणा अङ्गराएण अभिजुत्तो धणञ्जओ । तं अ सुदवहामरिसुद्दीबिदपरक्कमं विमुक्कजीविदासं तह परक्कमन्तं पेक्खिअ भीमणौलसहदेवपञ्चालप्पमुहेहिं अन्तरिदो धणञ्जअस्स रहवरो ।
+
+स्क्त्छ्_१३५: ततश्च देव तथाविधस्य पुत्रस्य दर्शनेन सङ्गलितमश्रुजलमुज्झित्वानवेक्षितपरप्रहरणाभियोगेन स्वामिनाङ्गराजेनाभियुक्तो धनञ्जयः । तं च सुतवधामर्षोद्दीपितपराक्रमं विमुक्तजीविताशं तथा पराक्रमन्तं प्रेक्ष्य भीमनकुलसहदेवपाञ्चालप्रमुखैरन्तरितो धनञ्जयस्य रथवरः ।
+
+&दुर्योधनः&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१३६}तदो देव सल्लेन भणिदं । अङ्गराअ क्खलिदतुलङ्गमो मथिदचक्कणेमिकूबरो दे रहो । ता ण जुत्तं भीमज्जुणेहिं सह आजुज्जिदुं । त्ति भणिअ णिवत्तिदो रहो ओदारिदो सामी सन्दणादो बहुप्पआरं अ समस्सासिदो ।
+
+स्क्त्छ्_१३६: ततो देव शल्येन भणितम् । अङ्गराज स्खलिततुरङ्गमो मथितचक्रनेमिकूबरस्ते रथः । तन्न युक्तं भीमार्जुनाभ्यां सहायोद्धुम् । इति भणित्वा निर्वर्तितो रथो ऽवतारितः स्वामी स्यन्दनाद्बहुप्रकारं च समाश्वासितः ।
+
+&दुर्योधनः&:  
+ततस्ततः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१३७}तदो अ सामिणा सुइरं विलबिअ परिअणोबणीदं अण्णं रहं पेक्खिअ दीहं णिस्ससिअ मै दिट्ठी विणिक्खित्ता । सुन्दरअ एहि त्ति भणिदं अ । तदो अहं उबगदो सामिसमीबं । तदो अबणीअ सीसट्ठाणादो पट्टिअं सरीरसङ्गलिदेहिं सोणिअबिन्दूहिं लित्तमुहं बाणं कदुअ अवलिहिअ पेसिदो देवस्स सन्देसो ।*इति पट्टकामर्पयति**
+
+स्क्त्छ्_१३७: ततश्च स्वामिना सुचिरं विलप्य परिजनोपनीतमन्यं रथं प्रेक्ष्य दीर्घं निःश्वस्य मयि दृष्टिर्विनिक्षिप्ता । सुन्दरक एहीति भणितं च । ततो ऽहमुपगतः स्वामिसमीपम् । ततो ऽपनीय शीर्षस्थानात्पट्टिकां शरीरसङ्गलितैः शोणितबिन्दुभिर्लिप्तमुखं बाणं कृत्वाभिलिख्य प्रेषितो देवस्य सन्देशः ।
+
+&दुर्योधनः&:  
+*गृहीत्वा वाचयति**  
+स्वस्ति । महाराजदुर्योधनं समराङ्गणात्कर्ण एतदन्तं कण्ठे गाढमालिङ्ग्य विज्ञापयति ।  
+वेर्से_४।१२  
+अस्त्रग्रामविधौ कृती न समरेष्वस्यास्ति तुल्यः पुमा- $ न्भ्रातृभ्यो ऽपि ममाधिको ऽयममुना जेयाः पृथासूनवः &  
+त्वत्सम्भावित इत्यहं न च हतो दुःशासनारिर्मया ē̃ त्वं दुःखप्रतिकारमेहि भुजयोर्वीर्येण बाष्पेण वा ॥ ४।१२ ॥  
+    
+वयस्य कर्ण किमिदं भ्रातृशतवधदुःखितं मामपरेण वाक्शल्येन घट्टयसि । भद्र सुन्दरक अथेदानीं किमारम्भो ऽङ्गराजः ।
+
+&सुन्दरकः&:  
+{प्क्त्_१३८}देव अबणीदसरीरावरणो अत्तवहकिदणिच्चओ पुणो बि पत्थेण सह समलं मग्गेदि ।
+
+स्क्त्छ्_१३८: देव अपनीतशरीरावरण आत्मवधकृतनिश्चयः पुनरपि पार्थेन सह समरं मार्गयते ।
+
+&दुर्योधनः&:  
+*आवेगादासनादुत्तिष्ठन्**  
+सूत रथमुपनय । सुन्दरक त्वमपि मद्वचनात्त्वरिततरं गत्वा वयस्यमङ्गराजं प्रतिबोधय । अलमतिसाहसेन । अभिन्न एवायमावयोः सङ्कल्पः । न खलु भवानेको जीवितपरित्यागाकाङ्क्षी । किं तु  
+वेर्से_४।१३  
+हत्वा पार्थान्सलिलमशिवं बन्धुवर्गाय दत्त्वा $ मुक्त्वा बाष्पं सह कतिपयैर्मन्त्रिभिश्चारिभिश्च &  
+कृत्वान्यो ऽन्यं सुचिरमपुनर्भावि गाढोपगूढं ē̃ सन्त्यक्ष्यावो हततनुमिमां दुःखितौ निर्वृतौ च ॥ ४।१३ ॥  
+    
+अथ च शोकं प्रति मया न किञ्चित्सन्देष्टव्यम् ।  
+वेर्से_४।१४  
+वृषसेनो न ते पुत्रो न मे दुःशासनो ऽनुजः ।  
+त्वां बोधयामि किमहं त्वं मां संस्थापयिष्यसि ॥ ४।१४ ॥
+
+&सुन्दरकः&:  
+{प्क्त्_१३९}जं देवो आणबेदि ।*इति निष्क्रान्तः**
+
+स्क्त्छ्_१३९: यद्देव आज्ञापयति ।
+
+&दुर्योधनः&:  
+तूर्णमेव रथमुपस्थापय ।
+
+&सूतः&:  
+*कर्णं दत्त्वा**  
+देव ह्रेषासंवलितो नेमिध्वनिः श्रूयते । तथा तर्कयामि नूनं परिजनोपनीतो रथः ।
+
+&दुर्योधनः&:  
+सूत गच्छ त्वं सज्जीकुरु ।
+
+&सूतः&:  
+यदाज्ञापयति देवः ।*इति निष्क्रम्य पुनः प्रविशति**
+
+&दुर्योधनः&:  
+*विलोक्य**  
+किमिति नारूढो ऽसि ।
+
+&सूतः&:  
+एष खलु तातो ऽम्बा च सञ्जयाधिष्ठितं रथमारुह्य देवस्य समीपमुपगतौ ।
+
+&दुर्योधनः&:  
+किं नाम तातो ऽम्बा च सम्प्राप्तौ । कष्टमतिबीभत्समाचरितं दैवेन । सूत गच्छ त्वं स्यन्दनं तूर्णमुपहर । अहमपि तातदर्शनं परिहरन्नेकान्ते तिष्ठामि ।
+
+&सूतः&:  
+देव त्वदेकशेषबान्धवावेतौ कथमिव न समाश्वासयसि ।
+
+&दुर्योधनः&:  
+सूत कथमिव समाश्वासयामि विमुखभागधेयः । पश्य ।  
+वेर्से_४।१५  
+अद्यैवावां रणमुपगतौ तातमम्बां च दृष्ट्वा $ घ्रातस्ताभ्यां शिरसि विनतो ऽहं च दुःशासनश्च &  
+तस्मिन्बाले प्रसभमरिणा प्रापिते तामवस्थां ē̃ पार्श्वं पित्रोरपगतघृणः किं नु वक्ष्यामि गत्वा ॥ ४।१५ ॥  
+    
+तथाप्यवश्यं वन्दनीयौ गुरू ।  
+    
+*इति निष्क्रान्तौ**  
+इति चतुर्थो ऽङ्कः ।  
+    
+अच्त्_५  
+पञ्चमो ऽङ्कः ।  
+*ततः प्रविशति रथयानेन गान्धारी सञ्जयो धृतराष्ट्रश्च**
+
+&धृतराष्ट्रः&:  
+वत्स सञ्जय कथय कथय कस्मिन्नुद्देशे कुरुकुलकाननैकप्रवालो वत्सो मे दुर्योधनस्तिष्ठति । कच्चिज्जीवति वा न वा ।
+
+&गान्धारी&:  
+{प्क्त्_१४०}जाद जै सच्चं जीवदि मे वच्छो ता कधेहि कस्सिं देसे वट्टदि ।
+
+स्क्त्छ्_१४०: जात यदि सत्यं जीवति मे वत्सस्तत्कथय कस्मिन्देशे वर्तते ।
+
+&सञ्जयः&:  
+नन्वेष महाराज एक एव न्यग्रोधच्छायायामुपविष्टस्तिष्ठति ।
+
+&गान्धारी&:  
+{प्क्त्_१४१}*सकरुणम्**  
+जाद एआई त्ति भणासि । किं णु क्खु सम्पदं भादुसदं से पासे भविस्सदि ।
+
+स्क्त्छ्_१४१: जात एकाकीति भणसि । किं नु खलु साम्प्रतं भ्रातृशतमस्य पार्श्वे भविष्यति ।
+
+&सञ्जयः&:  
+तात अम्ब अवतरतं स्वैरं रथात् ।  
+    
+*उभाववतरणं नाटयतः**  
+    
+*ततः प्रविशति सव्रीडमुपविष्टो दुर्योधनः**
+
+&सञ्जयः&:  
+*उपसृत्य**  
+विजयतां महाराजः । नन्वेष तातो ऽम्बया सह प्राप्तः । किं न पश्यति महाराजः ।  
+    
+*दुर्योधनो वैलक्ष्यं नाटयति**
+
+&धृतराष्ट्रः&:  
+वेर्से_५।१  
+शल्यानि व्यपनीय कङ्कवदनैरुन्मोचिते कङ्कटे $ बद्धेषु व्रणपट्टकेषु शनकैः कर्णे कृतापाश्रयः &  
+दूरान्निर्जितसान्त्वितान्नरपतीनालोकयंल्लीलया ē̃ सह्या पुत्रक वेदनेति न मया पापेन पृष्टो भवान् ॥ ५।१ ॥
+
+*धृतराष्ट्रो गान्धारी च स्पर्शेनोपेत्यालिङ्गतः**
+
+&गान्धारी&:  
+{प्क्त्_१४२}वच्छ अदिगाढप्पहारवेअणापज्जाउलस्स अम्हेसु सण्णिहिदेसु बि ण पसरदि दे वाणी ।
+
+स्क्त्छ्_१४२: वत्स अतिगाढप्रहारवेदनापर्याकुलस्यास्मासु सन्निहितेष्वपि न प्रसरति ते वाणी ।
+
+&धृतराष्ट्रः&:  
+वत्स दुर्योधन किमकृतपूर्वः सम्प्रति मय्यप्ययमव्याहारः ।
+
+&गान्धारी&:  
+{प्क्त्_१४३}वच्छ जै तुमं बि अम्हे णालबसि ता किं सम्पदं वच्छो दुस्सासणो आलबदु दुम्मरिसणो वा अध अण्णो वा ।*इति रोदिति**
+
+स्क्त्छ्_१४३: वत्स यदि त्वमप्यस्मान्नालपसि तत्किं साम्प्रतं वत्सो दुःशासन आलपतु दुर्मर्षणो वाथान्यो वा ।
+
+&दुर्योधनः&:  
+वेर्से_५।२  
+पापो ऽहमप्रतिकृतानुजनाशदर्शी $ तातस्य बाष्पपयसां तव चाम्ब हेतुः &  
+दुर्जातमत्र विमले भरतान्ववाये ē̃ किं मां सुतक्षयकरं सुत इत्यवैषि ॥ ५।२ ॥
+
+&गान्धारी&:  
+{प्क्त्_१४४}जाद अलं परिदेविदेण । तुमं बि दाव एक्को इमस्स अन्धजुअलस्स मग्गोबदेसओ । ता चिरं जीव । किं मे रज्जेण जएण वा ।
+
+स्क्त्छ्_१४४: जात अलं परिदेवितेन । त्वमपि तावदेको ऽस्यान्धयुगलस्य मार्गोपदेशकः । तच्चिरं जीव । किं मे राज्येन जयेन वा ।
+
+&दुर्योधनः&:  
+वेर्से_५।३  
+मातः किमप्यसदृशं कृपणं वचस्ते $ सुक्षत्रिया क्व भवती क्व च दीनतैषा &  
+निर्वत्सले सुतशतस्य विपत्तिमेतां ē̃ त्वं नानुचिन्तयसि रक्षसि मामयोग्यम् ॥ ५।३ ॥  
+    
+नूनं विचेष्टितमिदं सुतशोकस्य ।
+
+&सञ्जयः&:  
+महाराज किं वायं लोकवादो वितथो न घटस्य कूपपाते रज्जुरपि तत्र प्रक्षेप्तव्येति ।
+
+&दुर्योधनः&:  
+अपुष्कलमिदम् । उपक्रियमाणाभावे किमुपकरणेन ।*इति रोदिति**
+
+&धृतराष्ट्रः&:  
+*दुर्योधनं परिष्वज्य**  
+वत्स समाश्वसिहि समाश्वासय चास्मानिमामतिदीनां मातरं च ।
+
+&दुर्योधनः&:  
+तात दुर्लभः समाश्वास इदानीं युष्माकम् । किं तु  
+वेर्से_५।४  
+कुन्त्या सह युवामद्य मया निहतपुत्रया ।  
+विराजमानौ शोके ऽपि तनयाननुशोचतम् ॥ ५।४ ॥
+
+&गान्धारी&:  
+{प्क्त्_१४५}जाद एदं एव्व सम्पदं पभूदं जं तुमं बि दाव एक्को जीवसि । ता जाद अकालो दे समरस्स । पसीद । एसो दे सीसञ्जली । णिवत्तीअदु समरव्वाबारादो । अपच्छिमं करेहि मे वअणं ।
+
+स्क्त्छ्_१४५: जात एतदेव साम्प्रतं प्रभूतं यत्त्वमपि तावदेको जीवसि । तज्जात अकालस्ते समरस्य । प्रसीद । एष ते शीर्षाञ्जलिः । निवर्त्यतां समरव्यापारात् । अपश्चिमं कुरु मे वचनम् ।
+
+&धृतराष्ट्रः&:  
+वत्स शृणु वचनं तवाम्बाया मम च निहताशेषबन्धुवर्गस्य । पश्य ।  
+वेर्से_५।५  
+दायादा न ययोर्बलेन गणितास्तौ द्रोणभीष्मौ हतौ $ कर्णस्यात्मजमग्रतः शमयतो भीतं जगत्फाल्गुनात् &  
+वत्सानां निधनेन मे त्वयि रिपुः शेषप्रतिज्ञो ऽधुना ē̃ मानं वैरिषु मुञ्च तात पितरावन्धाविमौ पालय ॥ ५।५ ॥
+
+&दुर्योधनः&:  
+समरात्प्रतिनिवृत्य किं मया कर्तव्यम् ।
+
+&गान्धारी&:  
+{प्क्त्_१४६}जाद जं पिदा दे विउरो वा भणादि ।
+
+स्क्त्छ्_१४६: जात यत्पिता ते विदुरो वा भणति ।
+
+&सञ्जयः&:  
+देव एवमिदम् ।
+
+&दुर्योधनः&:  
+सञ्जय अद्याप्युपदेष्टव्यमस्ति ।
+
+&सञ्जयः&:  
+देव यावत्प्राणिति तावदुपदेष्टव्यभूमिर्विजिगीषुः प्रज्ञावताम् ।
+
+&दुर्योधनः&:  
+*सक्रोधम्**  
+शृणुमस्तावद्भवत एव प्रज्ञावतः सम्प्रत्यस्मदनुरूपमुपदेशम् ।
+
+&धृतराष्ट्रः&:  
+वत्स युक्तवादिनि सञ्जये किमत्र क्रोधेन । यदि प्रकृतिमापद्यसे तदहमेव भवन्तं ब्रवीमि । श्रूयताम् ।
+
+&दुर्योधनः&:  
+कथयतु तातः ।
+
+&धृतराष्ट्रः&:  
+वत्स किं विस्तरेण । सन्धत्तां भवानिदानीमपि युधिष्ठिरमीप्सितपणबन्धेन ।
+
+&दुर्योधनः&:  
+तात तनयस्नेहवैक्लव्यादम्बा बालिशत्वात्सञ्जयश्च काममेवं ब्रवीतु । युष्माकमप्येवं व्यामोहः । अथ वा प्रभवति पुत्रनाशजन्मा हृदयज्वरः । अन्यच्च तात अस्खलितभ्रातृशतो ऽहं यदा तदावधीरितवासुदेवसामोपन्यासः । सम्प्रति हि दृष्टपितामहाचार्यानुजराजचक्रविपत्तिः स्वशरीरमात्रस्नेहादुदात्तपुरुषव्रीडावहमसुखावसानं च कथमिव करिष्यति दुर्योधनः सह पाण्डवैः सन्धिम् । अन्यच्च नयवेदिन्सञ्जय  
+वेर्से_५।६  
+हीयमानाः किल रिपोर्नृपाः सन्दधते परान् ।  
+दुःशासने हते ऽहीनाः सानुजाः पाण्डवाः कथम् ॥ ५।६ ॥
+
+&धृतराष्ट्रः&:  
+वत्स एवं गते ऽपि मत्प्रार्थनया न किञ्चिन्न करोति युधिष्ठिरः । अन्यच्च सर्वदैवाप्रकृष्टमात्मानं मन्यते युधिष्ठिरः ।
+
+&दुर्योधनः&:  
+कथमिव ।
+
+&धृतराष्ट्रः&:  
+वत्स श्रूयतां प्रतिज्ञा युधिष्ठिरस्य । नाहमेकस्यापि भ्रातुर्विपत्तौ प्राणान्धारयामीति । बहुच्छलत्वात्सङ्ग्रामस्यानुजनाशमाशङ्कमानो यदैव भवते रोचते तदैवासौ सज्जः सन्धातुम् ।
+
+&सञ्जयः&:  
+एवमिदम् ।
+
+&गान्धारी&:  
+{प्क्त्_१४७}जाद उपपत्तिजुत्तं पडिबज्जस्स पिदुणो वअणं ।
+
+स्क्त्छ्_१४७: जात उपपत्तियुक्तं प्रतिपद्यस्व पितुर्वचनम् ।
+
+&दुर्योधनः&:  
+तात अम्ब सञ्जय  
+वेर्से_५।७  
+एकेनापि विनानुजेन मरणं पार्थः प्रतिज्ञातवा- $ न्भ्रात्ःणां निहते शते ऽभिलषते दुर्योधनो जीवितुम् &  
+तं दुःशासनशोणिताशनमरिं भिन्नं गदाकोटिभि- ē̃ र्भीमं दिक्षु न विक्षिपामि कृपणः सन्धिं विदध्यामहम् ॥ ५।७ ॥
+
+&गान्धारी&:  
+{प्क्त्_१४८}हा जाद दुस्सासण हा मदङ्कदुल्ललित हा जुअराअ अस्सुदपुव्वा क्खु कस्स बि लोए ईदिसी विपत्ती । हा वीरसदप्पसविणि हदगन्धारि दुक्खसदं पसूदासि ण उण सुदसदं ।
+
+स्क्त्छ्_१४८: हा जात दुःशासन हा मदङ्कदुर्ललित हा युवराज अश्रुतपूर्वा खलु कस्यापि लोक ईदृशी विपत्तिः । हा वीरशतप्रसविनि हतगान्धारि दुःखशतं प्रसूतासि न पुनः सुतशतम् ।  
+    
+*सर्वे रुदन्ति**
+
+&सञ्जयः&:  
+*बाष्पमुत्सृज्य**  
+तात अम्ब प्रतिबोधयितुं महाराजमिमां भूमिं युवामागतौ । तदात्मापि तावत्संस्तभ्यताम् ।
+
+&धृतराष्ट्रः&:  
+वत्स दुर्योधन एवं विमुखेषु भागधेयेषु त्वयि चामुञ्चति सहजं मानमरिषु त्वदेकशेषजीवितालम्बनेयं तपस्विनी गान्धारी कमवलम्बतां शरणमहं च ।
+
+&दुर्योधनः&:  
+श्रूयतां यत्प्रतिपत्तुमिदानीं प्राप्तकालम् ।  
+वेर्से_५।८  
+कलितभुवना भुक्तैश्वर्यास्तिरस्कृतविद्विषः $ प्रणतशिरसां राज्ञां चूडासहस्रकृतार्चनाः &  
+अभिमुखमरीन्घ्नन्तः सङ्ख्ये हताः शतात्मजा ē̃ वहतु सगरेणोढां तातो धुरं सहितो ऽम्बया ॥ ५।८ ॥  
+    
+विपर्यये त्वस्याधिपतेरुल्लङ्घितः क्षात्रधर्मः स्यात् ।  
+    
+*नेपथ्ये महान्कलकलः**
+
+&गान्धारी&:  
+{प्क्त्_१४९}*आकर्ण्य सभयम्**  
+जाद कहिं एदं हाहाकारमिस्सं तूररसिदं सुणीअदि ।
+
+स्क्त्छ्_१४९: जात कुत्रैतद्धाहाकारमिश्रं तूर्यरसितं श्रूयते ।
+
+&सञ्जयः&:  
+अम्ब भूमिरियमेवंविधानां भीरुजनत्रासनानां महानिनादानाम् ।
+
+&धृतराष्ट्रः&:  
+वत्स सञ्जय ज्ञायतामतिभैरवः खलु विस्तारी हाहारवः । कारणेनास्य महता भवितव्यम् ।
+
+&दुर्योधनः&:  
+तात प्रसीद । पराङ्मुखं खलु दैवमस्माकम् । यावदपरमपि किञ्चिदत्याहितं न श्रावयति तावदेवाज्ञापय मां सङ्ग्रामावतरणाय ।
+
+&गान्धारी&:  
+{प्क्त्_१५०}जाद मुहुत्तअं दाव मं मन्दभाइणिं समस्सासेहि ।
+
+स्क्त्छ्_१५०: जात मुहूर्तं तावन्मां मन्दभाग्यां समाश्वासय ।
+
+&धृतराष्ट्रः&:  
+वत्स यद्यपि भवान्समराय कृतनिश्चयस्तथापि रहः परप्रतीघातोपायश्चिन्त्यताम् ।
+
+&दुर्योधनः&:  
+वेर्से_५।९  
+प्रत्यक्षं हतबान्धवा मम परे हन्तुं न योग्या रहः $ किं वा तेन कृतेन तैरिव कृतं यन्न प्रकाशं रणे &
+
+&गान्धारी&:  
+{प्क्त्_१५१}जाद एआई तुमं । को दे सहाअत्तणं करिस्सदि ।
+
+स्क्त्छ्_१५१: जात एकाकी त्वम् । कस्ते साहाय्यं करिष्यति ।
+
+&दुर्योधनः&:  
+वेर्से_५।९  
+एको ऽहं भवतीसुतक्षयकरो मातः कियन्तो ऽरयः ē̃ साम्यं केवलमेतु दैवमधुना निष्पाण्डवा मेदिनी ॥ ५।९ ॥
+
+*नेपथ्ये । कलकलानन्तरम्**
+
+भो भो योधाः निवेदयन्तु भवन्तः कौरवेश्वराय । इदं महत्कदनं प्रवृत्तम् । अलमप्रियश्रवणपराङ्मुखतया । यतः कालानुरूपं प्रतिविधातव्यमिदानीम् । तथा हि  
+वेर्से_५।१०  
+त्यक्तप्राजनरश्मिरङ्किततनुः पार्थाङ्कितैर्मार्गणै- $ र्वाहैः स्यन्दनवर्त्मनां परिचयादाकृष्यमाणः शनैः &  
+वार्तामङ्गपतेर्विलोचनजलैरावेदयन्पृच्छतां ē̃ शून्येनैव रथेन याति शिबिरं शल्यः कुरूञ्शल्ययन् ॥ ५।१० ॥
+
+&दुर्योधनः&:  
+*श्रुत्वा साशङ्कम्**  
+आः केनेदमविस्पष्टमशनिपातदारुणमुद्घोषितम् । कः को ऽत्र भोः ।  
+    
+*प्रविश्य सम्भ्रान्तः**
+
+&सूतः&:  
+हा हताः स्मः ।*इत्यात्मानं पातयति**
+
+&दुर्योधनः&:  
+अयि कथय कथय ।
+
+&सूतः&:  
+आयुष्मन्किमन्यत् ।  
+वेर्से_५।११  
+शल्येन यथा शल्येन मूर्च्छितः प्रविशता जनौघो ऽयम् ।  
+शून्यं कर्णस्य रथं मनोरथमिवाधिरूढेन ॥ ५।११ ॥
+
+&दुर्योधनः&:  
+हा वयस्य कर्ण ।*इति मोहमुपगतः**
+
+&गान्धारी&:  
+{प्क्त्_१५२}जाद समस्सस समस्सस ।
+
+स्क्त्छ्_१५२: जात समाश्वसिहि समाश्वसिहि ।
+
+&सञ्जयः&:  
+समाश्वसितु समाश्वसितु देवः ।
+
+&धृतराष्ट्रः&:  
+भोः कष्टं कष्टम् ।  
+वेर्से_५।१२  
+भीष्मे द्रोणे च निहते य आसीदवलम्बनम् ।  
+वत्स्सय मे सुहृच्छूरो राधेयः सो ऽप्ययं हतः ॥ ५।१२ ॥  
+    
+वत्स समाश्वसिहि समाश्वसिहि । ननु भो हतविधे  
+वेर्से_५।१३  
+अन्धो ऽनुभूतशतपुत्रविपत्तिदुःखः $ शोच्यां दशामुपगतः सह भार्ययाहम् &  
+अस्मिन्नशेषितसुहृद्गुरुबन्धुवर्गे ē̃ दुर्योधने ऽपि हि कृतो भवता निराशः ॥ ५।१३ ॥  
+    
+वत्स दुर्योधन समाश्वसिहि समाश्वसिहि । समाश्वासय तपस्विनीं मातरं च ।
+
+&दुर्योधनः&:  
+*लब्धसञ्ज्ञः**  
+    
+वेर्से_५।१४  
+अयि कर्ण कर्णसुखदां प्रयच्छ मे $ गिरमुद्गिरन्निव मुदं मयि स्थिराम् &  
+सततावियुक्तमकृताप्रियं प्रियं ē̃ वृषसेनवत्सल विहाय यासि माम् ॥ ५।१४ ॥  
+    
+*पुनर्मोहमुपगतः**
+
+*सर्वे समाश्वासयन्ति**
+
+&दुर्योधनः&:  
+वेर्से_५।१५  
+मम प्राणाधिके तस्मिन्नङ्गानामधिपे हते ।  
+उच्छ्वसन्नपि लज्जे ऽहमाश्वासे तात का कथा ॥ ५।१५ ॥  
+    
+अपि च  
+वेर्से_५।१६  
+शोचामि शोच्यमपि शत्रुहतं न वत्सं $ दुःशासनं तमधुना न च बन्धुवर्गम् &  
+येनातिदुःश्रवमसाधु कृतं तु कर्णे ē̃ कर्तास्मि तस्य निधनं समरे कुलस्य ॥ ५।१६ ॥
+
+&गान्धारी&:  
+{प्क्त्_१५३}जाद सिढिलेहि दाव खणमेत्तं बप्फमोक्खं ।
+
+स्क्त्छ्_१५३: जात शिथिलय तावत्क्षणमात्रं बाष्पमोक्षम् ।
+
+&धृतराष्ट्रः&:  
+वत्स क्षणमात्रं परिमार्जयाश्रूणि ।
+
+&दुर्योधनः&:  
+वेर्से_५।१७  
+मामुद्दिश्य त्यजन्प्राणान्केनचिन्न निवारितः ।  
+तत्कृते त्यजतो बाष्पं किं मे दीनस्य वार्यते ॥ ५।१७ ॥  
+    
+सूत केनैतदसम्भावनीयमस्मत्कुलान्तकरं कर्म कृतं स्यात् ।
+
+&सूतः&:  
+आयुष्मन्नेवं किल जनः कथयति ।  
+वेर्से_५।१८  
+भूमौ निमग्नचक्रश्चक्रायुधसारथेः शरैस्तस्य ।  
+निहतः किलेन्द्रसूनोरस्मत्सेनाकृतान्तस्य ॥ ५।१८ ॥
+
+&दुर्योधनः&:  
+वेर्से_५।१९  
+कर्णाननेन्दुस्मरणात्क्षुभितः शोकसागरः ।  
+वाडवेनेव शिखिना पीयते क्रोधजेन मे ॥ ५।१९ ॥  
+    
+तात अम्ब प्रसीदतम् ।  
+वेर्से_५।२०  
+ज्वलनः शोकजन्मा मामयं दहति दुःसहः ।  
+समानायां विपत्तौ मे वरं संशयितो रणः ॥ ५।२० ॥
+
+&धृतराष्ट्रः&:  
+*दुर्योधनं परिष्वज्य रुदन्**  
+    
+वेर्से_५।२१  
+भवति तनय सत्यं संशयः साहसेषु $ द्रवति हृदयमेतद्भीममुत्प्रेक्ष्य भीमम् &  
+अनिकृतिनिपुणं ते चेष्टितं मानशौण्ड ē̃ च्छलबहुलमरीणां सङ्गरं हा हतो ऽस्मि ॥ ५।२१ ॥
+
+&गान्धारी&:  
+{प्क्त्_१५४}जाद तेण एव्व सुदसदकदन्तेण विओदलेण समं समलं मग्गेसि ।
+
+स्क्त्छ्_१५४: जात तेनैव सुतशतकृतान्तेन वृकोदरेण समं समरं मार्गयसे ।
+
+&दुर्योधनः&:  
+तिष्ठतु तावद्वृकोदरः ।  
+वेर्से_५।२२  
+पापेन येन हृदयस्थमनोरथो मे $ सर्वाङ्गचन्दनरसो नयनामलेन्दुः &  
+पुत्रस्तवाम्ब तव तात नयैकशिष्यो ē̃ कर्णो हतः सपदि तत्र शराः पतन्तु ॥ ५।२२ ॥  
+    
+सूत अलमिदानीं कालातिपातेन । सज्जं मे रथमुपाहर । भयं चेत्पाण्डवेभ्यस्तिष्ठ । गदामात्रसहाय एव समरभुवमवतरामि ।
+
+&सूतः&:  
+अलमन्यथा सम्भावितेन । अयमहमागत एव ।*इति निष्क्रान्तः**
+
+&धृतराष्ट्रः&:  
+वत्स दुर्योधन यदि स्थिर एवास्मान्दग्धुमयं ते व्यवसायस्तत्सन्निहितेषु वीरेषु सेनापतिः कश्चिदभिषिच्यताम् ।
+
+&दुर्योधनः&:  
+नन्वभिषिक्त एव ।
+
+&गान्धारी&:  
+{प्क्त्_१५५}जाद कदरो उण सो जहिं एदं हदासं ओलम्बिस्सं ।
+
+स्क्त्छ्_१५५: जात कतरः पुनः स यत्रेमां हताशामवलम्बिष्ये ।
+
+&धृतराष्ट्रः&:  
+किं वा शल्य उत वाश्वत्थामा ।  
+    
+&सञ्जयः&:  
+हा कष्टम् ।  
+वेर्से_५।२३  
+गते भीष्मे हते द्रोणे कर्णे च विनिपातिते ।  
+आशा बलवती राजञ्शल्यो जेष्यति पाण्डवान् ॥ ५।२३ ॥
+
+&दुर्योधनः&:  
+किं वा शल्येनोत वाश्वत्थाम्ना ।  
+वेर्से_५।२४  
+कर्णालिङ्गनदायी वा पार्थप्राणहरो ऽपि वा ।  
+अनिवारितसम्पातैरयमात्माश्रुवारिभिः ॥ ५।२४ ॥
+
+*नेपथ्ये कलकलं कृत्वा**
+
+भो भोः कौरवबलप्रधानयोधा अलमस्मानवलोक्य भयादितस्ततो गमनेन । कथयन्तु भवन्तः कस्मिन्नुद्देशे सुयोधनस्तिष्ठति ।  
+    
+*सर्वे ससम्भ्रममाकर्णयन्ति**  
+    
+*प्रविश्य सम्भ्रान्तः**
+
+&सूतः&:  
+आयुष्मन्  
+वेर्से_५।२५  
+प्राप्तावेकरथारूढौ पृच्छन्तौ त्वामितस्ततः ।
+
+&सर्वे&:  
+कश्च कश्च ।
+
+&सूतः&:  
+वेर्से_५।२५  
+स कर्णारिः स च क्रूरो वृककर्मा वृकोदरः ॥ ५।२५ ॥
+
+&गान्धारी&:  
+{प्क्त्_१५६}*सभयम्**  
+जाद किं एत्थ पडिपज्जिदव्वं ।
+
+स्क्त्छ्_१५६: जात किमत्र प्रतिपत्तव्यम् ।
+
+&दुर्योधनः&:  
+ननु सन्निहितैवेयं गदा ।
+
+&गान्धारी&:  
+{प्क्त्_१५७}हा हदम्हि मन्दभाइणी ।
+
+स्क्त्छ्_१५७: हा हतास्मि मन्दभागिनी ।
+
+&दुर्योधनः&:  
+अम्ब अलमिदानीं कार्पण्येन । सञ्जय रथमारोप्य पितरौ शिबिरं प्रतिष्ठस्व । प्राप्तो ऽस्मच्छोकापनोदप्रणयी जनः ।
+
+&धृतराष्ट्रः&:  
+वत्स क्षणमेकं प्रतीक्षस्व यावदनयोर्भावमुपलभे ।
+
+&दुर्योधनः&:  
+तात किमनेनोपलब्धेन ।  
+    
+*तथा प्रविशतो रथारूढौ भीमार्जुनौ**
+
+&भीमः&:  
+भो भोः सुयोधनानुजीविनः किमिति सम्भ्रमादयथायथं चरन्ति भवन्तः । अलमावयोः शङ्कया ।  
+वेर्से_५।२६  
+कर्ता द्यूतच्छलानां जतुमयशरणोद्दीपनः सो ऽतिमानी $ कृष्णाकेशोत्तरीयव्यपनयनमरुत्पाण्डवा यस्य दासाः &  
+राजा दुःशासनादेर्गुरुरनुजशतस्याङ्गराजस्य मित्रं ē̃ क्वास्ते दुर्योधनो ऽसौ कथयत न रुषा द्रष्टुमागतौ स्वः ॥ ५।२६ ॥
+
+&धृतराष्ट्रः&:  
+सञ्जय दारुणः खलूपक्षेपः पापस्य ।
+
+&सञ्जयः&:  
+तात कर्मणा कृतनिःशेषविप्रियाः सम्प्रति वाचा व्यवस्यन्ति ।
+
+&दुर्योधनः&:  
+सूत कथय गत्वोभयोरयं तिष्ठतीति ।
+
+&सूतः&:  
+यदाज्ञापयति देवः ।*तावुपसृत्य**  
+भो वृकोदरार्जुनौ एष महाराजस्तातेनाम्बया च सह न्यग्रोधच्छायायामुपविष्टस्तिष्ठति ।
+
+&अर्जुनः&:  
+आर्य प्रसीद । न युक्तं पुत्रशोकपीडितौ पितरौ पुनरस्मद्दर्शनेनोद्वेजयितुम् । तद्गच्छावः ।
+
+&भीमः&:  
+मूढ अनुल्लङ्घनीयः सदाचारः । न युक्तमनभिवाद्य गुरून्गन्तुम् ।*उपसृत्य**  
+सञ्जय पित्रोर्नमस्कृतिं श्रावय । अथ वा तिष्ठ । स्वयं विश्राव्य नामकर्मणी वन्दनीया गुरवः ।*इति रथादवतरतः**
+
+&अर्जुनः&:  
+*उपगम्य**  
+तात अम्ब  
+वेर्से_५।२७  
+सकलरिपुजयाशा यत्र बद्धा सुतैस्ते $ तृणमिव परिभूतो यस्य गर्वेण लोकः &  
+रणशिरसि निहन्ता तस्य राधासुतस्य ē̃ प्रणमति पितरौ वां मध्यमः पाण्डवो ऽयम् ॥ ५।२७ ॥
+
+&भीमः&:  
+वेर्से_५।२८  
+चूर्णिताशेषकौरव्यः क्षीबो दुःशासनासृजा ।  
+भङ्क्ता सुयोधनस्योर्वोर्भीमो ऽयं शिरसाञ्चति ॥ ५।२८ ॥
+
+&धृतराष्ट्रः&:  
+दुरात्मन्वृकोदर न खल्विदं भवतैव केवलं सपत्नानामपकृतम् । यावत्क्षत्रं तावत्समरविजयिनो जिता हताश्च वीराः । तत्किमेवं विकत्थनाभिरस्मानुद्वेजयसि ।
+
+&भीमः&:  
+तात अलं मन्युना ।  
+वेर्से_५।२९  
+कृष्टा केशेषु कृष्णा तव सदसि पुरः पाण्डवानां नृपैर्यैः $ सर्वे ते क्रोधवह्नौ कृतशलभकुलावज्ञया येन दग्धाः &  
+एतस्माच्छ्रावये ऽहं न खलु भुजबलश्लाघया नापि दर्पा- ē̃ त्पुत्रैः पौत्रैश्च कर्मण्यतिगुरुणि कृते तात साक्षी त्वमेव ॥ ५।२९ ॥
+
+&दुर्योधनः&:  
+अरे रे मरुत्तनय किमेवं वृद्धस्य राज्ञः पुरतो निन्दितव्यमात्मकर्म श्लाघसे । अपि च  
+वेर्से_५।३०  
+कृष्टा केशेषु भार्या तव तव च पशोस्तस्य राज्ञः तयोर्वा $ प्रत्यक्षं भूपतीनां मम भुवनपतेराज्ञया द्यूतदासी &  
+अस्मिन्वैरानुबन्धे वद किमपकृतं तैर्हता ये नरेन्द्रा ē̃ बाह्वोर्वीर्यातिरेकद्रविणगुरुमदं मामजित्वैव दर्पः ॥ ५।३० ॥  
+    
+आः दुरात्मन् । एष न भवसि ।*इति सक्रोधमुत्थाय हन्तुमिच्छति**
+
+*धृतराष्ट्रो धृत्वोपवेशयति । भीमः क्रोधं नाटयति**
+
+&अर्जुनः&:  
+आर्य प्रसीद । किमत्र क्रोधेन ।  
+वेर्से_५।३१  
+अप्रियाणि करोत्येष वाचा शक्तो न कर्मणा ।  
+हतभ्रातृशतो दुःखी प्रलापैरस्य का व्यथा ॥ ५।३१ ॥
+
+&भीमः&:  
+अरे रे भरतकुलकलङ्क  
+वेर्से_५।३२  
+अत्रैव किं न विशसेयमहं भवन्तं $ दुःशासनानुगमनाय कटुप्रलापिन् &  
+विघ्नं गुरू न कुरुतो यदि मद्गदाग्र- ē̃ निर्भिद्यमानरणितास्थनि ते शरीरे ॥ ५।३२ ॥  
+    
+अन्यच्च मूढ  
+वेर्से_५।३३  
+शोकैः स्त्रीवन्नयनसलिलं यत्परित्याजितो ऽसि $ भ्रातुर्वक्षःस्थलविघटने यच्च साक्षीकृतो ऽसि &  
+आसीदेतत्तव कुनृपतेः कारणं जीवितस्य ē̃ क्रुद्धे युष्मत्कुलकमलिनीकुञ्जरे भीमसेने ॥ ५।३३ ॥
+
+&दुर्योधनः&:  
+दुरात्मन्भरतकुलापसद द्यूतदास पाण्डवपशो नाहं भवानिव विकत्थनाप्रगल्भः । किं तु  
+वेर्से_५।३४  
+द्रक्ष्यन्ति न चिरात्सुप्तं बान्धवास्त्वां रणाङ्गणे ।  
+मद्गदाभिन्नवक्षो ऽस्थिवेणिकाभीमभूषणम् ॥ ५।३४ ॥
+
+&भीमः&:  
+*विहस्य**  
+यद्येवं नाश्रद्धेयो भवान् । तथापि प्रत्यासन्नमेव कथयामि ।  
+वेर्से_५।३५  
+पीनाभ्यां मद्भुजाभ्यां भ्रमितगुरुगदाघातसञ्चूर्णितोरोः $ क्रूरस्याधाय पादं तव शिरसि नृणां पश्यतां श्वः प्रभाते &  
+त्वन्मुख्यभ्रातृचक्रोद्दलनगलदसृक्चन्दनेनानखाग्रं ē̃ स्त्यानेनार्द्रेण चाक्तः स्वयमनुभविता भूषणं भीममस्मि ॥ ५।३५ ॥
+
+*नेपथ्ये**
+
+भो भो भीमसेनार्जुनौ एष खलु निहताशेषारातिचक्र आक्रान्तपरशुरामाभिरामयशाः प्रतापतापितदिङ्मण्डलस्थापितस्वजनः श्रीमानजातशत्रुर्देवो युधिष्ठिरः समाज्ञापयति ।
+
+&उभौ&:  
+किमाज्ञापयत्यार्यः ।  
+    
+*पुनर्नेपथ्ये**
+
+वेर्से_५।३६  
+कुर्वन्त्वाप्ता हतानां रणशिरसि जना वह्निसाद्देहभारा- $ नश्रून्मिश्रं कथञ्चिद्ददतु जलममी बान्धवा बान्धवेभ्यः &  
+मार्गन्तां ज्ञातिदेहान्हतनरगहने खण्डितान्गृध्रकङ्कै- ē̃ रस्तं भास्वान्प्रयातः सह रिपुभिरयं संह्रियन्तां बलानि ॥ ५।३६ ॥
+
+&उभौ&:  
+यदाज्ञापयत्यार्यः ।*इति निष्क्रान्तौ**
+
+*नेपथ्ये**
+
+अरे रे गाण्डीवाकर्षणबाहुशालिन्नर्जुनार्जुन क्वेदानीं गम्यते ।  
+वेर्से_५।३७  
+कर्णक्रोधेन युष्मद्विजयि धनुरिदं त्यक्तमेतान्यहानि $ प्रौढं विक्रान्तमासीद्वन इव भवतां शूरशून्ये रणे ऽस्मिन् &  
+स्पर्शं स्मृत्वोत्तमाङ्गे पितुरनवजितन्यस्तहेतेरुपेतः ē̃ कल्पाग्निः पाण्डवानां द्रुपदसुतचमूघस्मरो द्रौणिरस्मि ॥ ५।३७ ॥
+
+&धृतराष्ट्रः&:  
+*आकर्ण्य सहर्षम्**  
+वत्स दुर्योधन द्रोणवधपरिभवोद्दीपितक्रोधपावकः पितुरपि समधिकबलः शिक्षावानमरोपमश्चायमश्वत्थामा प्राप्तः । तत्प्रत्युपगमनेन तावदयं सम्भाव्यतां वीरः ।
+
+&गान्धारी&:  
+{प्क्त्_१५८}जाद पच्चुग्गच्छ एदं महाभाअं ।
+
+स्क्त्छ्_१५८: जात प्रत्युद्गच्छैनं महाभागम् ।
+
+&दुर्योधनः&:  
+तात अम्ब किमनेनाङ्गराजवधाशंसिना वृथायौवनशस्त्रबलभरेण ।
+
+&धृतराष्ट्रः&:  
+वत्स न खल्वस्मिन्काले पराक्रमवतामेवंविधानां वाङ्मात्रेणापि विरागमुत्पादयितुमर्हसि ।  
+    
+*प्रविश्य**
+
+&अश्वत्थामा&:  
+विजयतां कौरवाधिपतिः ।
+
+&दुर्योधनः&:  
+*उत्थाय**  
+गुरुपुत्र इत आस्यताम् ।*इत्युपवेशयति**
+
+&अश्वत्थामा&:  
+राजन्दुर्योधन  
+वेर्से_५।३८  
+कर्णेन कर्णसुभगं बहु यत्तदुक्त्वा $ यत्सङ्गरेषु विहितं विदितं त्वया तत् &  
+द्रौणिस्त्वधिज्यधनुरापतितो ऽभ्यमित्र- ē̃ मेषो ऽधुना त्यज नृप प्रतिकारचिन्ताम् ॥ ५।३८ ॥
+
+&दुर्योधनः&:  
+*साभ्यसूयम्**  
+आचार्यपुत्र  
+वेर्से_५।३९  
+अवसाने ऽङ्गराजस्य योद्धव्यं भवता किल ।  
+ममाप्यन्तं प्रतीक्षस्व कः कर्णः कः सुयोधनः ॥ ५।३९ ॥
+
+&अश्वत्थामा&:  
+*स्वगतम्**  
+कथमद्यापि स एव कर्णपक्षपातो ऽस्मासु च परिभवः ।*प्रकाशम्**  
+राजन्कौरवेश्वर एवं भवतु ।*इति निष्क्रान्तः**
+
+&धृतराष्ट्रः&:  
+वत्स क एष ते व्यामोहो यदस्मिन्नपि काले एवंविधस्य महाभागस्याश्वत्थाम्नो वाक्पारुष्येणापरागमुत्पादयसि ।
+
+&दुर्योधनः&:  
+किमस्याप्रियमनृतं च मयोक्तम् । किं वा नेदं क्रोधस्थानम् । पश्य ।  
+वेर्से_५।४०  
+अकलितमहिमानं क्षत्रियैरात्तचापैः $ समरशिरसि युष्मद्भाग्यदोषाद्विपन्नम् &  
+परिवदति समक्षं मित्रमङ्गाधिराजं ē̃ मम खलु कथयास्मिन्को विशेषो ऽर्जुने वा ॥ ५।४० ॥
+
+&धृतराष्ट्रः&:  
+वत्स तवापि को ऽत्र दोषः । अवसानमिदानीं भरतकुलस्य । सञ्जय किमिदानीं करोमि मन्दभाग्यः ।*विचिन्त्य**  
+भवत्वेवं तावत् । सञ्जय मद्वचनाद्ब्रूहि भारद्वाजमश्वत्थामानम् ।  
+वेर्से_५।४१  
+स्मरति न भवान्पीतं स्तन्यं विभज्य सहामुना $ मम च मृदितं क्षौमं बाल्ये त्वदङ्गविवर्तनैः &  
+अनुजनिधनस्फीताच्छोकादतिप्रणयाच्च य- ē̃ द्वचनविकृतिष्वस्य क्रोधो मुधा क्रियते त्वया ॥ ५।४१ ॥
+
+&सञ्जयः&:  
+यदाज्ञापयति तातः ।*इत्युत्तिष्ठति**
+
+&धृतराष्ट्रः&:  
+अपि चेदमन्यत्त्वया वक्तव्यम् ।  
+वेर्से_५।४२  
+यन्मोचितस्तव पिता वितथेन शस्त्रं $ यत्तादृशः परिभवः स तथाविधो ऽभूत् &  
+एतद्विचिन्त्य बलमात्मनि पौरुषं च ē̃ दुर्योधनोक्तमपहाय विधास्यसीति ॥ ५।४२ ॥
+
+&सञ्जयः&:  
+यदाज्ञापयति तातः ।*इति निष्क्रान्तः**
+
+&दुर्योधनः&:  
+सूत साङ्ग्रामिकं मे रथमुपकल्पय ।
+
+&सूतः&:  
+यदाज्ञापयत्यायुष्मान् ।*इति निष्क्रान्तः**
+
+&धृतराष्ट्रः&:  
+गान्धारि इतो वयं मद्राधिपतेः शल्यस्य शिबिरमेव गच्छावः । वत्स त्वमप्येवं कुरु ।  
+    
+*इति परिक्रम्य निष्क्रान्ताः सर्वे**  
+    
+इति पञ्चमो ऽङ्कः ।  
+    
+अच्त्_६  
+षष्ठो ऽङ्कः ।  
+*ततः प्रविशत्यासनस्थो युधिष्ठिरो द्रौपदी चेटी पुरुषश्च**
+
+&युधिष्ठिरः&:  
+*विचिन्त्य निःश्वस्य च**  
+    
+वेर्से_६।१  
+तीर्णे भीष्ममहोदधौ कथमपि द्रोणानले निर्वृते $ कर्णाशीविषभोगिनि प्रशमिते शल्ये च याते दिवम् &  
+भीमेन प्रियसाहसेन रभसात्स्वल्पावशेषे जये ē̃ सर्वे जीवितसंशयं वयममी वाचा समारोपिताः ॥ ६।१ ॥
+
+&द्रौपदी&:  
+{प्क्त्_१५९}*सबाष्पम्**  
+महाराअ पञ्चालिए त्ति किं ण भणिदं ।
+
+स्क्त्छ्_१५९: महाराज पाञ्चाल्येति किं न भणितम् ।
+
+&यधिष्ठिरः&:  
+कृष्णे ननु मया ।*पुरुषमवलोक्य**  
+बुधक ।
+
+&पुरुषः&:  
+देव आज्ञापय ।
+
+&यधिष्ठिरः&:  
+उच्यतां सहदेवः । क्रुद्धस्य वृकोदरस्यापर्युषितदारुणां प्रतिज्ञामुपलभ्य प्रनष्टस्य मानिनः कौरवराजस्य पदवीमन्वेष्टुमतिनिपुणमतयस्तेषु तेषु स्थानेषु परमार्थाभिज्ञाश्चराः सुसचिवाश्च भक्तिमन्तः पटुपटहरवव्यक्तघोषणाः सुयोधनसञ्चारवेदिनः प्रतिश्रुतधनपूजाप्रत्युपक्रियाश्चरन्तु समन्तात्समन्तपञ्चकम् । अपि च  
+वेर्से_६।२  
+पङ्के वा सैकते वा सुनिभृतपदवीवेदिनो यान्तु दाशाः $ कुञ्जेषु क्षुण्णवीरुन्निचयपरिचया बल्लवाः सञ्चरन्तु &  
+व्याधा व्याघ्राटवीषु स्वपरपदविदो ये च रन्ध्रेष्वभिज्ञा ē̃ ये सिद्धव्यञ्जना वा प्रतिमुनिनिलयं ते च चाराश्चरन्तु ॥ ६।२ ॥
+
+&पुरुषः&:  
+यदाज्ञापयति देवः ।
+
+&युधिष्ठिरः&:  
+तिष्ठ । एवं च वक्तव्यः सहदेवः ।  
+वेर्से_६।३  
+ज्ञेया रहः शङ्कितमालपन्तः $ सुप्ता रुगार्ता मदिराविधेयाः &  
+त्रासो मृगाणां वयसां विरावो ē̃ नृपाङ्कपादप्रतिमाश्च यत्र ॥ ६।३ ॥
+
+&पुरुषः&:  
+यदाज्ञापयति देवः ।*इति निष्क्रम्य पुनः प्रविश्य सहर्षम्**  
+देव पाञ्चालकः प्राप्तः ।
+
+&यधिष्ठिरः&:  
+त्वरितं प्रवेशय ।
+
+&पुरुषः&:  
+*निष्क्रम्य पाञ्चालकेन सह प्रविश्य**  
+एष देवः । उपसर्पतु पाञ्चालकः ।
+
+&पाञ्चालकः&:  
+जयतु जयतु देवः । प्रियमावेदयामि महाराजाय देव्यै च ।
+
+&युधिष्ठिरः&:  
+भद्र पाञ्चालक कच्चिदासादिता तस्य दुरात्मनः कौरवाधमस्य पदवी ।
+
+&पाञ्चालकः&:  
+देव न केवलं पदवी । स एव दुरात्मा देवीकेशाम्बराकर्षणमहापातकप्रधानहेतुरुपलब्धः ।
+
+&युधिष्ठिरः&:  
+साधु । भद्र प्रियमावेदितम् । अथ दर्शनगोचरं गतः ।
+
+&पाञ्चालकः&:  
+देव समरगोचरं पृच्छ ।
+
+&द्रौपदी&:  
+{प्क्त्_१६०}*सभयम्**  
+कहं समरगोअरो वट्टै मे णाहो ।
+
+स्क्त्छ्_१६०: कथं समरगोचरो वर्तते मे नाथः ।
+
+&युधिष्ठिरः&:  
+*साशङ्कम्**  
+सत्यं समरगोचरो मे वत्सः ।
+
+&पाञ्चालकः&:  
+सत्यम् । किमन्यथा वक्ष्यते महाराजाय ।
+
+&युधिष्ठिरः&:  
+वेर्से_६।४  
+त्रस्तं विनापि वषयादुरुविक्रमस्य $ चेतो विवेकपरिमन्थरतां प्रयाति &  
+जानामि चोद्यतगदस्य वृकोदरस्य ē̃ सारं रणेषु भुजयोः परिशङ्कितश्च ॥ ६।४ ॥  
+    
+*द्रौपदीमवलोक्य**  
+अयि सुक्षत्रिये  
+वेर्से_६।५  
+गुरूणां बन्धूनां क्षितिपतिसहस्रस्य च पुरः $ पुराभूदस्माकं नृपसदसि यो ऽयं परिभवः &  
+प्रिये प्रायस्तस्य द्वितयमपि पारं गमयति ē̃ क्षयः प्राणानां नः कुरुपतिपशोर्वाद्य निधनम् ॥ ६।५ ॥  
+    
+अथ वा कृतं सन्देहेन ।  
+वेर्से_६।६  
+नूनं तेनाद्य वीरेण प्रतिज्ञाभङ्गभीरुणा ।  
+बध्यते केशपाशस्ते स चास्याकर्षणक्षमः ॥ ६।६ ॥  
+    
+पाञ्चालक कथय कथय कथमुपलब्धः स दुरात्मा कस्मिन्नुद्देशे किं वाधुना प्रवृत्तमिति ।
+
+&द्रौपदी&:  
+{प्क्त्_१६१}भद्द कहेहि कहेहि ।
+
+स्क्त्छ्_१६१: भद्र कथय कथय ।
+
+&पाञ्चालकः&:  
+शृणोतु देवो देवी च । अस्तीह देवेन हते मद्राधिपतौ शल्ये गान्धारराजकुलशलभे सहदेवशस्त्रानलं प्रविष्टे सेनापतिनिधननिराक्रन्दविरलयोधोज्झितासु समरभूमिषु रिपुबलपराजयोद्धतवल्गितविचित्रपराक्रमासादितविमुखारातिचक्रासु धृष्टद्युम्नाधिष्ठितासु च युष्मत्सेनासु प्रनष्टेषु कृपकृतवर्माश्वत्थामसु तथा दारुणामपर्युषितां प्रतिज्ञामुपलभ्य कुमारवृकोदरस्य न ज्ञायते क्वापि प्रलीनः स दुरात्मा कौरवाधमः ।
+
+&युधिष्ठिरः&:  
+ततस्ततः ।
+
+&द्रौपदी&:  
+{प्क्त्_१६२}अयि परदो कहेहि ।
+
+स्क्त्छ्_१६२: अयि परतः कथय ।
+
+&पाञ्चालकः&:  
+अवधत्तां देवो देवी च । ततश्च भगवता वासुदेवेनाधिष्ठितमेकरथमारूढौ कुमारभीमार्जुनौ समन्तात्समन्तपञ्चकं पर्यटितुमारब्धौ तमनासादितवन्तौ च । अनन्तरं दैवमनुशोचति मादृशे भृत्यवर्गे दीर्घमुष्णं च निश्वसति कुमारे बीभत्सौ जलधरसमयनिशासञ्चारिततडित्प्रकरपिङ्गलैः कटाक्षैरादीपयति गदां वृकोदरे यत्किञ्चनकारितामधिक्षिपति विधेर्भगवति नारायणे कश्चित्संविदितः कुमारस्य मारुतेरुज्झितमांसभारः प्रत्यग्रविशसितमृगलोहितचरणनिवसनस्त्वरमाणो ऽन्तिकमुपेत्य पुरुषः परुषश्वासग्रस्तार्धश्रुतवर्णानुमेयपदया वाचा कथितवान् । कुमार अस्मिन्महतो ऽस्य सरसस्तीरे द्वे पदपद्धती समवतीर्णप्रतिबिम्बे । तयोरेका स्थलमुत्तीर्णा न द्वितीया । परत्र कुमारः प्रमाणमिति । ततः ससम्भ्रमं प्रस्थिताः सर्वे वयं तमेव पुरस्कृत्य । गत्वा च सरस्तीरं परिज्ञायमानसुयोधनपदलाञ्छनां पदवीमासाद्य भगवता वासुदेवेनोक्तम् । भो वीर वृकोदर जानाति किल सुयोधनः सलिलस्तम्भनीं विद्याम् । तन्नूनं तेन त्वद्भयात्सरसीमेनामधिशयितेन भवितव्यम् । एतच्च वचनमुपश्रुत्य रामानुजस्य सकलदिङ्निकुञ्जपूरितातिरिक्तमुद्भ्रान्तसलिलचरशकुन्तकुलं त्रासोद्धतनक्रग्राहमालोड्य सरःसलिलं भैरवं च गर्जित्वा कुमारवृकोदरेणाभिहितम् । अरे रे वृथाप्रख्यापितालीकपौरुषाभिमानिन्पाञ्चालराजतनयाकेशाम्बराकर्षणमहापातकिन्धार्तराष्ट्रापसद  
+वेर्से_६।७  
+जन्मेन्दोरमले कुले व्यपदिशस्यद्यापि धत्से गदां $ मां दुःशासनकोष्णशोणितमधुक्षीबं रिपुं मन्यसे &  
+दर्पान्धो मधुकैटभद्विषि हरावप्युद्धतं चेष्टसे ē̃ त्रासान्मे नृपशो विहाय समरं पङ्के ऽधुना लीयसे ॥ ६।७ ॥  
+    
+अपि च भो मानन्ध  
+वेर्से_६।८  
+पाञ्चाल्या मन्युवह्निः स्फुटमुपशमितप्राय एव प्रसह्य $ व्यासक्तैः केशपाशैर्हतपतिषु मया कौरवान्तःपुरेषु &  
+भ्रातुर्दुःशासनस्य स्रवदसृगुरसः पीयमानं निरीक्ष्य ē̃ क्रोधात्किं भीमसेने विहितमसमये यत्त्वयास्तो ऽभिमानः ॥ ६।८ ॥
+
+&द्रौपदी&:  
+{प्क्त्_१६३}णाह अबणीदो मे मण्णू जै पुणो बि सुलहं दंसणं भविस्सदि ।
+
+स्क्त्छ्_१६३: नाथ अपनीतो मे मन्युर्यदि पुनरपि सुलभं दर्शनं भविष्यति ।
+
+&युधिष्ठिरः&:  
+कृष्णे नामङ्गलानि व्याहर्तुमर्हस्यस्मिन्काले । भद्र ततस्ततः ।
+
+&पाञ्चालकः&:  
+ततश्चैवं भाषमाणेन वृकोदरेणावतीर्य क्रोधोद्धतभ्रमितभीषणगदापाणिना सहसैवोल्लङ्घिततीरमुत्सन्ननलिनीवनमपविद्धमूर्च्छितग्राहमुद्भ्रान्तमत्स्यशकुन्तमतिभैरवारवभ्रमितवारिसञ्चयमायतमपि तत्सरः समन्तादालोडितम् ।
+
+&युधिष्ठिरः&:  
+भद्र तथापि किं नोत्थितः ।
+
+&पाञ्चालकः&:  
+देव कथं नोत्थितः ।  
+वेर्से_६।९  
+त्यक्त्वोत्थितः सरभसं सरसः स मूल- $ मुद्भूतकोपदहनोग्रविषस्फुलिङ्गः &  
+आयस्तभीमभुजमन्दरवेल्लनाभिः ē̃ क्षीरोदधेः सुमथितादिव कालकूटः ॥ ६।९ ॥
+
+&युधिष्ठिरः&:  
+साधु सुक्षत्रिय साधु ।
+
+&द्रौपदी&:  
+{प्क्त्_१६४}पडिबण्णो समरो ण वा ।
+
+स्क्त्छ्_१६४: प्रतिपन्नः समरो न वा ।
+
+&पाञ्चालकः&:  
+उत्थाय च तस्मात्सलिलाशयात्करयुगलोत्तम्भिततोरणीकृतभीमगदः कथयति स्म । अरे रे मारुते किं भयेन प्रलीनं दुर्योधनं मन्यते भवान् । मूढ अनिहतपाण्डुपुत्रः प्रकाशं लज्जमानो विश्रमितुमध्यवसितवानस्मि पातालम् । एवं चोक्ते वासुदेवकिरीटिभ्यां द्वावप्यन्तःसलिलं निषिद्धसमरसमारम्भौ स्थलमुत्तारितौ भीमसुयोधनौ । आसीनश्च कौरवराजः क्षितितले गदां निक्षिप्य विशीर्णरथसहस्रं निहतकुरुशतगजवाजिनरसहस्रकलेवरसम्मर्दसम्पतद्गृध्रकङ्कजम्बूकमुत्सन्नसुयोधमस्मद्वीरमुक्तसिंहनादमपमित्रबान्धवमकौरवं रणस्थानमवलोक्यायतमुष्णं च निःश्वसितवान् । ततश्च वृकोदरेणाभिहितम् । अयि भोः कौरवराज कृतं बन्धुनाशदर्शनमन्युना । मैवं विषादं कृथाः पर्याप्ताः पाण्डवाः समरायाहमसहाय इति ।  
+वेर्से_६।१०  
+पञ्चानां मन्यसे ऽस्माकं यं सुयोधं सुयोधन ।  
+दंशितस्यात्तशस्त्रस्य तेन ते ऽस्तु रणोत्सवः ॥ ६।१० ॥  
+    
+इत्थं च श्रुत्वानसूयान्वितां दृष्टिं कुमारयोर्निक्षिप्योक्तवान्धार्तराष्ट्रः ।  
+वेर्से_६।११  
+कर्णदुःशासनवधात्तुल्यावेव युवां मम ।  
+अप्रियो ऽपि प्रियो योद्धुं त्वमेव प्रियसाहसः ॥ ६।११ ॥  
+    
+इत्युत्थाय परस्परक्रोधाधिक्षेपपरुषवाक्कलहप्रस्तावितघोरसङ्ग्रामौ विचित्रविभ्रमभ्रमितगदापरिभासुरभुजदण्डौ मण्डलैर्विचरितुमारब्धौ भीमदुर्योधनौ । अहं च देवेन चक्रपाणिना देवसकाशमनुप्रेषितः । आह च देवो देवकीनन्दनः । अपर्युषितप्रतिज्ञे च मारुतौ प्रनष्टे कौरवराजे महानासीन्नो विषादः । सम्प्रति पुनर्भीमसेनेनासादिते सुयोधने निष्कण्टकीभूतं भुवनतलं परिकलयतु भवान् । अभ्युदयोचिताश्चानवरतं प्रवर्त्यन्तां मङ्गलसमारम्भाः । कृतं सन्देहेन ।  
+वेर्से_६।१२  
+पूर्यन्तां सलिलेन रत्नकलशा राज्याभिषेकाय ते $ कृष्णात्यन्तचिरोज्झिते च कबरीबन्धे करोतु क्षणम् &  
+रामे शातकुठारभासुरकरे क्षत्रद्रुमोच्छेदिनि ē̃ क्रोधान्धे च वृकोदरे परिपतत्याजौ कुतः संशयः ॥ ६।१२ ॥
+
+&द्रौपदी&:  
+{प्क्त्_१६५}*सबाष्पम्**  
+जं देवो तिहुअणणाहो भणादि तं कहं अण्णहा भविस्सदि ।
+
+स्क्त्छ्_१६५: यद्देवस्त्रिभुवननाथो भणति तत्कथमन्यथा भविष्यति ।
+
+&पाञ्चालकः&:  
+न केवलमियमाशीः । असुरनिषूदनस्यादेशो ऽपि ।
+
+&युधिष्ठिरः&:  
+को हि नाम भगवता सन्दिष्टं विकल्पयति । कः को ऽत्र भोः ।  
+    
+*प्रविश्य**
+
+&कञ्चुकी&:  
+आज्ञापयतु देवः ।
+
+&युधिष्ठिरः&:  
+देवस्य देवकीनन्दनस्य बहुमानाद्वत्सस्य मे विजयमङ्गलाय प्रवर्त्यन्तां तदुचिताः समारम्भाः ।
+
+&कञ्चुकी&:  
+यदाज्ञापयति देवः ।*सोत्साहं परिक्रम्य**  
+भो भोः संविधात्ःणां पुरःसरा यथाप्रधानमन्तर्वेश्मिका दौवारिकाश्च एष खलु भुजबलपरिक्षेपोत्तीर्णकौरवपरिभवसागरस्य निर्व्यूढदुर्वहप्रतिज्ञाभारस्य सुयोधनानुजशतोन्मूलनप्रभञ्जनस्य दुःशासनोरःस्थलविदलननारसिंहस्य दुर्योधनोरुस्तम्भभङ्गविनिश्चितविजयस्य बलिनः प्राभञ्जनेर्वृकोदरस्य स्नेहपक्षपातिना मनसा मङ्गलानि कर्तुमाज्ञापयति देवो युधिष्ठिरः ।*आकाशे**  
+किं ब्रूथ । सर्वतो ऽधिकतरमपि प्रवृत्तं किं नालोकयसीति । साधु पुत्रकाः साधु । अनुक्तहितकारिता हि प्रकाशयति मनोगतां स्वामिभक्तिम् ।
+
+&युधिष्ठिरः&:  
+आर्य जयन्धर ।
+
+&कञ्चुकी&:  
+आज्ञापयतु देवः ।
+
+&युधिष्ठिरः&:  
+गच्छ प्रियख्यापकं पाञ्चालकं पारितोषिकेण परितोषय ।
+
+&कञ्चुकी&:  
+यदाज्ञापयति देवः ।*इति पाञ्चालकेन सह निष्क्रान्तः**
+
+&द्रौपदी&:  
+{प्क्त्_१६६}महाराअ किण्णिमित्तं उण णाहभीमसेणेण सो दुराआरो भणिदो । पञ्चाणं बि अम्हाणं मज्झे जेण दे रोअदि तेण सह दे सङ्गामो होदु त्ति । जै मद्दीसुदाणं एकदरेण सह सङ्गामो तेण पत्थिदो भवे तदो अच्चाहिदं भवे ।
+
+स्क्त्छ्_१६६: महाराज किन्निमित्तं पुनर्नाथभीमसेनेन स दुराचारो भणितः । पञ्चानामप्यस्माकं मध्ये येन ते रोचते तेन सह ते सङ्ग्रामो भवत्विति । यदि माद्रीसुतयोरेकतरेण सह सङ्ग्रामस्तेन प्रार्थितो भवेत्ततो ऽत्याहितं भवेत् ।
+
+&युधिष्ठिरः&:  
+कृष्णे एवं मन्यते जरासन्धघाती । हतसकलसुहृद्बन्धुवीरानुजराजन्यासु कृपकृतवर्माश्वत्थामशेषास्वेकादशस्वक्षौहिणीष्वबान्धवः शरीरमात्रविभवः कदाचिदुत्सृष्टनिजाभिमानो धार्तराष्ट्रः परित्यजेदायुधं तपोवनं वा व्रजेत्सन्धिं वा पितृमुखेन याचेत । एवं सति सुदूरमतिक्रान्तः प्रतिज्ञाभारो भवेत्सकलरिपुजयस्येति । समरं प्रतिपत्तुं पञ्चानामपि पाण्डवानामेकस्यापि नैव क्षमः सुयोधनः । शङ्के चाहं गदायुद्धं वृकोदरस्यैवानेन । अयि सुक्षत्रिये पश्य ।  
+वेर्से_६।१३  
+क्रोधोद्गूर्णगदस्य नास्ति सदृशः सत्यं रणे मारुतेः $ कौरव्ये कृतहस्तता पुनरियं देवे यथा सीरिणि &  
+स्वस्त्यस्तूद्धतधार्तराष्ट्रनलिनीनागाय वत्साय मे ē̃ शङ्के तस्य सुयोधनेन समरं नैवेतरेषामहम् ॥ ६।१३ ॥
+
+*नेपथ्ये**
+
+तृषितो ऽस्मि भोस्तृषितो ऽस्मि । सम्भावयतु कश्चित्सलिलच्छायासम्प्रदानेन माम् ।
+
+&युधिष्ठिरः&:  
+*आकर्ण्य**  
+कः को ऽत्र भोः ।  
+    
+*प्रविश्य**
+
+&कञ्चुकी&:  
+आज्ञापयतु देवः ।
+
+&युधिष्ठिरः&:  
+ज्ञायतां किमेतत् ।
+
+&कञ्चुकी&:  
+यदाज्ञापयति देवः ।*इति निष्क्रम्य पुनः प्रविश्य**  
+देव क्षुन्मानतिथिरुपस्थितः ।
+
+&युधिष्ठिरः&:  
+शीघ्रं प्रवेशय ।
+
+&कञ्चुकी&:  
+यदाज्ञापयति देवः ।*इति निष्क्रान्तः**
+
+*ततः प्रविशति मुनिवेषधारी चार्वाको नाम राक्षसः**
+
+&राक्षसः&:  
+*आत्मगतम्**  
+एषो ऽस्मि चार्वाको नाम राक्षसः । सुयोधनस्य मित्रं पाण्डवान्वञ्चयितुं भ्रमामि ।*प्रकाशम्**  
+तृषितो ऽस्मि । सम्भावयतु मां कश्चिज्जलच्छायाप्रदानेन ।*इति राज्ञः समीपमुपसर्पति**
+
+*सर्व उत्तिष्ठन्ति**
+
+&युधिष्ठिरः&:  
+मुने अभिवादये ।
+
+&राक्षसः&:  
+अकालो ऽयं समुदाचारस्य । जलप्रदानेन सम्भावयतु माम् ।
+
+&युधिष्ठिरः&:  
+मुने इदमासनम् । उपविश्यताम् ।
+
+&राक्षसः&:  
+*उपविश्य**  
+ननु भवतापि क्रियतामासनपरिग्रहः ।
+
+&युधिष्ठिरः&:  
+*उपविश्य**  
+कः को ऽत्र भोः । सलिलमुपनय ।  
+    
+*प्रविश्य गृहीतभृङ्गारः**
+
+&कञ्चुकी&:  
+*उपसृत्य**  
+महाराज शिशिरसुरभिसलिलसम्पूर्णो ऽयं भृङ्गारः पानभाजनं चेदम् ।
+
+&युधिष्ठिरः&:  
+मुने निर्वर्त्यतामुदन्याप्रतिकारः ।
+
+&राक्षसः&:  
+*पादौ प्रक्षल्योपस्पृशन्विचिन्त्य**  
+भोः क्षत्रियस्त्वमिति मन्ये ।
+
+&युधिष्ठिरः&:  
+सम्यग्वेदी भवान् । क्षत्रिय एवास्मि ।
+
+&राक्षसः&:  
+सुलभश्च स्वजनविनाशः सङ्ग्रामेषु प्रतिदिनमतो नादेयं भवद्भ्यो जलादिकम् । भवतु । छाययैवानया सरस्वतीशिशिरतरङ्गस्पृशा मरुता चानेन विगतक्लमो भविष्यामि ।
+
+&द्रौपदी&:  
+{प्क्त्_१६७}बुद्धिमदिए वीएहि महेस्सिं इमिणा तालविन्तेण ।
+
+स्क्त्छ्_१६७: बुद्धिमतिके वीजय महर्षिमनेन तालवृन्तेन ।  
+    
+*चेटी तथा करोति**
+
+&राक्षसः&:  
+भवति अनुचितो ऽयमस्मासु समुदाचारः ।
+
+&युधिष्ठिरः&:  
+मुने कथय कथमेवं भवान्परिश्रान्तः ।
+
+&राक्षसः&:  
+मुनिजनसुलभेन कौतूहलेन तत्रभवतां महाक्षत्रियाणां द्वन्द्वयुद्धमवलोकयितुं पर्यटामि समन्तपञ्चकम् । अद्य तु बलवत्तया शरदातपस्यापर्याप्तमेवावलोक्य गदायुद्धमर्जुनसुयोधनयोरागतो ऽस्मि ।  
+    
+*सर्वे विषादं नाटयन्ति**
+
+&कञ्चुकी&:  
+मुने न खल्वेवम् । भीमसुयोधनयोरिति कथय ।
+
+&राक्षसः&:  
+आः अविदितवृत्तान्त एव कथं मामाक्षिपसि ।
+
+&युधिष्ठिरः&:  
+महर्षे कथय कथय ।
+
+&राक्षसः&:  
+क्षणमात्रं विश्रम्य सर्वं कथयामि भवतो न पुनरस्य वृद्धस्य ।
+
+&युधिष्ठिरः&:  
+कथय किमर्जुनसुयोधनयोरिति ।
+
+&राक्षसः&:  
+ननु पूर्वमेव कथितं मया प्रवृत्तं गदायुद्धमिति ।
+
+&युधिष्ठिरः&:  
+न भीमसुयोधनयोरिति ।
+
+&राक्षसः&:  
+वृत्तं तत् ।  
+    
+*युधिष्ठिरो द्रौपदी च मोहमुपगतौ**
+
+&कञ्चुकी&:  
+*सलिलेनासिच्य**  
+समाश्वसितु देवो देवी च ।
+
+&चेटी&:  
+{प्क्त्_१६८}समस्ससिदु समस्ससिदु देवी ।
+
+स्क्त्छ्_१६८: समाश्वसितु समाश्वसितु देवी ।  
+    
+*उभौ सञ्ज्ञां लभेते**
+
+&युधिष्ठिरः&:  
+किं कथयसि मुने वृत्तं भीमसुयोधनयोर्गदायुद्धमिति ।
+
+&द्रौपदी&:  
+{प्क्त्_१६९}भअवं कहेहि कहेहि किं वुत्तं त्ति ।
+
+स्क्त्छ्_१६९: भगवन्कथय कथय किं वृत्तमिति ।
+
+&राक्षसः&:  
+कञ्चुकिन्कौ पुनरेतौ ।
+
+&कञ्चुकी&:  
+ब्रह्मन्नेष देवो युधिष्ठिर इयमपि पाञ्चालराजतनया ।
+
+&राक्षसः&:  
+आः दारुणमुपक्रान्तं मया नृशंसेन ।
+
+&द्रौपदी&:  
+{प्क्त्_१७०}हा णाह भीमसेण ।*इति मोहमुपगता**
+
+स्क्त्छ्_१७०: हा नाथ भीमसेन ।
+
+&कञ्चुकी&:  
+किं नाम कथितम् ।
+
+&चेटी&:  
+{प्क्त्_१७१}समस्ससिदु समस्ससिदु देवी ।
+
+स्क्त्छ्_१७१: समाश्वसितु समाश्वसितु देवी ।
+
+&युधिष्ठिरः&:  
+*सास्रम्**  
+ब्रह्मन्  
+वेर्से_६।१४  
+पदे सन्दिग्ध एवास्मिन्दुःखमास्ते युधिष्ठिरः ।  
+वत्सस्य निश्चिते तत्त्वे प्राणत्यागादयं सुखी ॥ ६।१४ ॥
+
+&राक्षसः&:  
+*सानन्दमात्मगतम्**  
+अत्रैव मे यत्नः ।*प्रकाशम्**  
+यदि त्ववश्यं कथनीयं तदा सङ्क्षेपतः कथयामि । न युक्तं बन्धुव्यसनं विस्तरेणावेदयितुम् ।
+
+&युधिष्ठिरः&:  
+*अश्रूणि मुञ्चन्**  
+    
+वेर्से_६।१५  
+सर्वथा कथय ब्रह्मन्सङ्क्षेपाद्विस्तरेण वा ।  
+वत्सस्य किमपि श्रोतुमेष दत्तः क्षणो मया ॥ ६।१५ ॥
+
+&राक्षसः&:  
+श्रूयताम् ।  
+वेर्से_६।१६  
+तस्मिन्कौरवभीमयोर्गुरुगदाघोरध्वनौ संयुगे
+
+&द्रौपदी&:  
+{प्क्त्_१७२}*सहसोत्थाय**  
+तदो तदो ।
+
+स्क्त्छ्_१७२: ततस्ततः ।
+
+&राक्षसः&:  
+*स्वगतम्**  
+कथं पुनरनयोर्लब्धसञ्ज्ञतामपनयामि ।  
+वेर्से_६।१६  
+सीरी सत्वरमागतश्चिरमभूत्तस्याग्रतः सङ्गरः ।  
+आलम्ब्य प्रियशिष्यतां तु हलिना सञ्ज्ञा रहस्याहिता $ यामासाद्य कुरूत्तमः प्रतिकृतिं दुःशासनारौ गतः ॥ ६।१६ ॥
+
+&युधिष्ठिरः&:  
+हा वत्स वृकोदर ।*इति मोहमुपगतः**
+
+&द्रौपदी&:  
+{प्क्त्_१७३}हा णाह भीमसेण हा मह परिभवपडिआरपरिच्चत्तजीविअ जडासुरबअहिडिम्बकिम्मीरकीचअजरासन्धणिसूदण सोअन्धिआहरणचाडुआर देहि मे पडिवअणं ।*इति मोहमुपगता**
+
+स्क्त्छ्_१७३: हा नाथ भीमसेन हा मम परिभवप्रतीकारपरित्यक्तजीवित जटासुरबकहिडिम्बकिर्मीरकीचकजरासन्धनिषूदन सौगन्धिकाहरणचाटुकार देहि मे प्रतिवचनम् ।
+
+&कञ्चुकी&:  
+*सास्रम्**  
+हा कुमार भीमसेन धार्तराष्ट्रकुलकमलिनीप्रालेयवर्ष ।*ससम्भ्रमम्**  
+समाश्वसितु महाराजः । भद्रे समाश्वासय स्वामिनीम् । महर्षे त्वमपि तावदाश्वासय महाराजम् ।
+
+&राक्षसः&:  
+*स्वगतम्**  
+आश्वासयामि प्राणान्परित्याजयितुम् ।*प्रकाशम्**  
+भो भीमाग्रज क्षणमेकमाधीयतां समाश्वासः । कथाशेषो ऽस्ति ।
+
+&युधिष्ठिरः&:  
+*समाश्वस्य**  
+महर्षे किमस्ति कथाशेषः ।
+
+&द्रौपदी&:  
+{प्क्त्_१७४}*प्रतिबुध्य सभयम्**  
+भअवं कधेहि कीदिसो कधासेसो त्ति ।
+
+स्क्त्छ्_१७४: भगवन्कथय कीदृशः कथाशेष इति ।
+
+&कञ्चुकी&:  
+कथय कथय ।
+
+&राक्षसः&:  
+ततश्च हते तस्मिन्सुक्षत्रिये वीरसुलभां गतिमुपगते समग्रसङ्गलितं भ्रातृवधशोकजं बाष्पं प्रमृज्य भ्रातृवधशोकादपहाय गाण्डीवं प्रत्यग्रक्षतजच्छटाचर्चितां तामेव गदां भ्रातृहस्तादाकृष्य निवार्यमाणो ऽपि सन्धित्सुना वासुदेवेनागच्छागच्छेति सोपहासं भ्रमितगदाझङ्कारमूर्च्छितगम्भीरवचनध्वनिनाहूयमानः कौरवराजेन तृतीयो ऽनुजस्ते किरीटी योद्धुमारब्धः । अकृतिनस्तस्य गदाघातान्निधनमुत्प्रेक्षमाणेन कामपालेनार्जुनपक्षपाती देवकीसूनुरतिप्रयत्नात्स्वरथमारोप्य द्वारकां नीतः ।
+
+&युधिष्ठिरः&:  
+साधु भो अर्जुन तदैव प्रतिपन्ना वृकोदरपदवी गाण्डीवं परित्यजता । अहं पुनः केनोपायेन प्राणापगममहोत्सवमुत्सहिष्ये ।
+
+&द्रौपदी&:  
+{प्क्त्_१७५}हा णाह भीमसण ण जुत्तं दाणिं दे कणीअसं भादरं असिक्खिदं गदाए दारुणस्स सत्तुणो अहिमुहं गच्छन्तं उबेक्खिदुं ।*मोहमुपगता**
+
+स्क्त्छ्_१७५: हा नाथ भीमसेन न युक्तमिदानीं ते कनीयांसं भ्रातरमशिक्षितं गदायां दारुणस्य शत्रोरभिमुखं गच्छन्तमुपेक्षितुम् ।
+
+&राक्षसः&:  
+ततश्चाहम्
+
+&युधिष्ठिरः&:  
+भवतु मुने किमतः परं श्रुतेन । हा तात भीमसेन कान्तारव्यसनबान्धव हा मच्छरीरस्थितिविच्छेदकातर जतुगृहविपत्समुद्रतरणयानपात्र हा किर्मीरहिडिम्बासुरजरासन्धविजयैकमल्ल हा कीचकसुयोधनानुजकमलिनीकुञ्जर हा द्यूतपणप्रणयिन्हा मदाज्ञासम्पादक हा कौरववनदावानल  
+वेर्से_६।१७  
+निर्लज्जस्य दुरोदरव्यसनिनो वत्स त्वया सा तदा $ भक्त्या मे समदद्विपायुतबलेनाङ्गीकृता दासता &  
+किं नामापकृतं मयाधिकमतस्त्वय्यद्य यद्गम्यते ē̃ त्यक्त्वा नाथ सबान्धवं सपदि मां प्रीतिः क्व ते साधुना ॥ ६।१७ ॥
+
+&द्रौपदी&:  
+{प्क्त्_१७६}*सञ्ज्ञामुपलभ्योत्थाय च**  
+महाराअ किं एदं वट्टै ।
+
+स्क्त्छ्_१७६: महाराज किमेतद्वर्तते ।
+
+&युधिष्ठिरः&:  
+कृष्णे किमन्यत् ।  
+वेर्से_६।१८  
+स कीचकनिषूदनो बकहिडिम्बकिर्मीरहा $ मदान्धमगधाधिपद्विरदसन्धिभेदाशनिः &  
+गदापरिघशोभिना भुजयुगेन तेनान्वितः ē̃ प्रियस्तव ममानुजो ऽर्जुनगुरुर्गतो ऽस्तं किल ॥ ६।१८ ॥
+
+&द्रौपदी&:  
+{प्क्त्_१७७}णाह भीमसेण तुए किल मे केसा संअमिदव्वा । ण जुत्तं वीरस्स खत्तिअस्स पडिण्णादं सिढिलेदुं । ता पडिबालेहि मं जाव उबसप्पामि ।*पुनर्मोहमुपगता**
+
+स्क्त्छ्_१७७: नाथ भीमसेन त्वया किल मे केशाः संयमितव्याः । न युक्तं वीरस्य क्षत्रियस्य प्रतिज्ञातं शिथिलयितुम् । तत्प्रतिपालय मां यावदुपसर्पामि ।
+
+&युधिष्ठिरः&:  
+*आकाशे**  
+अम्ब पृथे श्रुतो ऽयं तव पुत्रस्य समुदाचारः । मामेकमनाथं विलपन्तमुत्सृज्य क्वापि गतः । तात जरासन्धशत्रो किं नाम वैपरीत्यमेतावता कालेनाल्पायुषि त्वयि समालोकितं जनेन । अथ वा मयैव बहूपलब्धम् ।  
+वेर्से_६।१९  
+दत्त्वा मे करदीकृताखिलनृपां यन्मेदिनीं लज्जसे $ द्यूते यच्च पणीकृतो ऽपि हि मया न क्रुध्यसि प्रीयसे &  
+स्थित्यर्थं मम मत्स्यराजभवने प्राप्तो ऽसि यत्सूदतां ē̃ वत्सैतानि विनश्वरस्य सहसा दृष्टानि चिह्नानि ॥ ६।१९ ॥  
+    
+मुने किं कथयसि ।*तस्मिन्कौरवभीमयोरित्यादि पठति**
+
+&राक्षसः&:  
+एवमेतत् ।
+
+&युधिष्ठिरः&:  
+धिगस्मद्भागधेयानि । भगवन्कामपाल कृष्णाग्रज सुभद्राभ्रातः  
+वेर्से_६।२०  
+ज्ञातिप्रीतिर्मनसि न कृता क्षत्रियाणां न धर्मो $ रूढं सख्यं तदपि गणितं नानुजस्यार्जुनेन &  
+तुल्यः कामं भवतु भवतः शिष्ययोः स्नेहबन्धः ē̃ को ऽयं पन्था यदसि विमुखो मन्दभाग्ये मयीत्थम् ॥ ६।२० ॥  
+    
+*द्रौपदीमुपगम्य**  
+अयि पाञ्चालि उत्तिष्ठ । समानदुःखावेवावां भवावः । मूर्च्छया किं मामेवमतिसन्धत्से ।
+
+&द्रौपदी&:  
+{प्क्त्_१७८}*लब्धसञ्ज्ञा**  
+बन्धेदु णाहो दुज्जोहणरुधिलाद्देण हत्थेण दुस्सासणमुक्कं मे केसहत्थं । हञ्जे बुद्धिमदिए तव पच्चक्खं एव्व णाहेण पडिण्णादं ।*कञ्चुकिनमुपेत्य**  
+अज्ज किं सन्दिट्ठं दाव मे देवेण देवईणन्दणेण पुणो बि केसरअणा आरम्भीअदु त्ति । ता उबणेहि मे पुप्फदामाइं । विरएहि दाव कवरिं । करेहि भअवदो णाराअणस्स वअणं । ण हु सो अलीअं सन्दिसदि । अह वा किं मए सन्तत्ताए भणिदं । अचिरगदं अज्जौत्तं अणुगमिस्सं ।*युधिष्ठिरमुपगम्य**  
+महाराअ आदीबअ मे चिदं । तुमं बि खत्तधम्मं अणुवट्टन्तो एव्व णाहस्स जीविअहरस्स अहिमुहो होहि ।
+
+स्क्त्छ्_१७८: बध्नातु नाथो दुर्योधनरुधिरार्द्रेण हस्तेन दुःशासनमुक्तं मे केशहस्तम् । हञ्जे बुद्धिमतिके तव प्रत्यक्षमेव नाथेन प्रतिज्ञातम् । आर्य किं सन्दिष्टं तावन्मे देवेन देवकीनन्दनेन पुनरपि केशरचनारभ्यतामिति । तदुपनय मे पुष्पदामानि । विरचय तावत्कबरीम् । कुरु भगवतो नारायणस्य वचनम् । न खलु सो ऽलीकं सन्दिशति । अथ वा किं मया सन्तप्तया भणितम् । अचिरगतमार्यपुत्रमनुगमिष्यामि । महाराज आदीपय मे चिताम् । त्वमपि क्षत्रधर्ममनुवर्तमान एव नाथस्य जीवितहरस्याभिमुखो भव ।
+
+&युधिष्ठिरः&:  
+युक्तमाह पाञ्चाली । कञ्चुकिन्क्रियतामियं तपस्विनी चितासंविभागेन सह्यवेदना । ममापि सज्जं धनुरुपनय । अलमथ वा धनुषा ।  
+वेर्से_६।२१  
+तस्यैव देहरुधिरोक्षितपाटलाङ्गी- $ मादाय संयति गदामपविध्य चापम् &  
+भ्रातृप्रियेण कृतमद्य यदर्जुनेन ē̃ श्रेयो ममापि हि तदेव कृतं जयेन ॥ ६।२१ ॥
+
+&राक्षसः&:  
+राजन्रिपुजयविमुखं ते यदि चेतस्तदा यत्र तत्र वा प्राणत्यागं कुरु । वृथा तत्र गमनम् ।
+
+&कञ्चुकी&:  
+धिङ्मुने राक्षससदृशं हृदयं भवतः ।
+
+&राक्षसः&:  
+*सभयं स्वगतम्**  
+किं ज्ञातो ऽहमनेन ।*प्रकाशम्**  
+भोः कञ्चुकिन्तयोर्गदया खलु युद्धं प्रवृत्तमर्जुनदुर्योधनयोः । जानामि च तयोर्गदायां भुजसारम् । दुःखितस्य पुनरस्य राजर्षेरपरमनिष्टश्रवणं परिहरन्नेवं ब्रवीमि ।
+
+&युधिष्ठिरः&:  
+*बाष्पं विसृजन्**  
+साधु महर्षे साधु । सुस्निग्धमभिहितम् ।
+
+&कञ्चुकी&:  
+महाराज किं नाम शोकान्धतया देवेन देवकल्पेनापि प्राकृतेनेव त्यजते क्षात्रधर्मः ।
+
+&युधिष्ठिरः&:  
+आर्य जयन्धर  
+वेर्से_६।२२  
+शक्ष्यामि नो परिघपीवरबाहुदण्डौ $ वित्तेशशक्रपुरदर्शितवीर्यसारौ &  
+भीमार्जुनौ क्षितितले प्रविचेष्टमानौ ē̃ द्रष्टुं तयोश्च निधनेन रिपुं कृतार्थम् ॥ ६।२२ ॥  
+    
+अयि पाञ्चालराजतनये मद्दुर्नयप्राप्तशोच्यदशे यथा सन्दीप्यते पावकस्तथा सहितावेव बन्धुजनं सम्भावयावः ।  
+    
+&द्रौपदी&:  
+{प्क्त्_१७९}अज्ज करेहि दारुसञ्चअं । पज्जलीअदु अग्गी । तुवरदि मे हिअअं णाहं पेक्खिदुं ।*सर्वतो दृष्ट्वा**  
+कहं ण को बि महाराअस्स वअणं करेदि । हा णाह भीमसेण तं एव्व एदं राऔलं तुए विरहिदं परिअणो वि सम्पदं परिहरदि ।
+
+स्क्त्छ्_१७९: आर्य कुरु दारुसञ्चयम् । प्रज्वाल्यतामग्निः । त्वरते मे हृदयं नाथं प्रेक्षितुम् । कथं न को ऽपि महाराजस्य वचनं करोति । हा नाथ भीमसेन तदेवेदं राजकुलं त्वया विरहितं परिजनो ऽपि साम्प्रतं परिहरति ।
+
+&राक्षसः&:  
+सदृशमिदं भरतकुलवधूनां पत्युरनुसरणम् ।
+
+&युधिष्ठिरः&:  
+महर्षे न कश्चिच्छृणोति तावदावयोर्वचनम् । तदिन्धनप्रदानेन प्रसादः क्रियताम् ।
+
+&राक्षसः&:  
+मुनिजनविरुद्धमिदम् ।*स्वगतम्**  
+पूर्णो मे मनोरथः । यावदनुपलक्षितः समिन्धयामि वह्निम् ।*प्रकाशम्**  
+राजन्न शक्नुमो वयमिह स्थातुम् ।*इति निष्क्रान्तः**
+
+&युधिष्ठिरः&:  
+कृष्णे न कश्चिदस्मद्वचनं करोति । भवतु । स्वयमेवाहं दारुसञ्चयं कृत्वा चितामादीपयामि ।
+
+&द्रौपदी&:  
+{प्क्त्_१८०}तुवरदु तुवरदु महाराओ ।
+
+स्क्त्छ्_१८०: त्वरतां त्वरतां महाराजः ।  
+    
+*नेपथ्ये कलकलः**
+
+&द्रौपदी&:  
+{प्क्त्_१८१}*सभयमाकर्ण्य**  
+महाराअ कस्स बि एसो बलदप्पिदस्स विसमो सङ्खणिग्घोसो सुणीअदि । अबरं बि अप्पिअं सुणिदुं अत्थि णिब्बन्धो तदो विलम्बीअदि ।
+
+स्क्त्छ्_१८१: महाराज कस्याप्येष बलदर्पितस्य विषमः शङ्खनिर्घोषः श्रूयते । अपरमप्यप्रियं श्रोतुमस्ति निर्बन्धस्ततो विलम्ब्यते ।
+
+&युधिष्ठिरः&:  
+न खलु विलम्ब्यते । उत्तिष्ठ ।*इति सर्वे परिक्रामन्ति**  
+अयि पाञ्चालि अम्बायाः सपत्नीजनस्य च किञ्चित्सन्दिश्य निवर्तय परिजनम् ।
+
+&द्रौपदी&:  
+{प्क्त्_१८२}महाराअ अम्बाए एव्वं सन्दिसिस्सं । जो सो बअहिडिम्बकिम्मीरजडासुरजरासन्धविजअमल्लो दे मज्झमपुत्तो सो मम हदासाए पक्खबादेण परलोअं गदो त्ति ।
+
+स्क्त्छ्_१८२: महाराज अम्बाया एवं सन्देक्ष्यामि । यः स बकहिडिम्बकिर्मीरजटासुरजरासन्धविजयमल्लस्ते मध्यमपुत्रः स मम हताशायाः पक्षपातेन परलोकं गत इति ।
+
+&युधिष्ठिरः&:  
+भद्रे बुद्धिमतिके उच्यतामस्मद्वचनादम्बा ।  
+वेर्से_६।२३  
+येनासि तत्र जतुवेश्मनि दीप्यमाने $ निर्वाहिता सह सुतैर्भुजयोर्बलेन &  
+तस्य प्रियस्य बलिनस्तनयस्य पाप- ē̃ माख्यामि ते ऽम्ब कथयेत्कथमीदृगन्यः ॥ ६।२३ ॥  
+    
+आर्य जयन्धर त्वयापि सहदेवसकाशं गन्तव्यम् । वक्तव्यश्च तत्रभवान्पाण्डुकुलबृहस्पतिर्माद्रेयः कनीयानस्माकम् । सकलकुरुकुलकमलाकरदावानलो युधिष्ठिरः परलोकमभिप्रस्थितः प्रियानुजमप्रतिकूलं सततमाशंसनीयमसम्मूढं व्यसने ऽभ्युदये च धृतिमन्तं भवन्तमविरलमालिङ्ग्य शिरसि चाघ्रायेदं प्रार्थयते ।  
+वेर्से_६।२४  
+मम हि वयसा दूरेणाल्पः श्रुतेन समो भवा- $ न्सहजकृतया बुद्ध्या ज्येष्ठो मनीषितया गुरुः &  
+शिरसि मुकुलौ पाणी कृत्वा भवन्तमतो ऽर्थये ē̃ मयि विरलतां नेयः स्नेहः पितुर्भव वारिदः ॥ ६।२४ ॥  
+    
+अपि च बाल्ये संवर्धितस्य नित्याभिमानिनो ऽस्मत्सदृशहृदयसारस्यापि नकुलस्य ममाज्ञया वचने स्थातव्यम् । तदुच्यतां नकुलः । नानुगन्तव्यास्मत्पदवी । त्वया हि वत्स  
+वेर्से_६।२५  
+विस्मृत्यास्मान्श्रुतिविशदया प्रज्ञया सानुजेन $ पिण्डान्पाण्डोरुदकपृषतानश्रुगर्भान्प्रदातुम् &  
+दायादानामपि तु भवने यादवानां कुले वा ē̃ कान्तारे वा कृतवसतिना रक्षणीयं शरीरम् ॥ ६।२५ ॥  
+    
+गच्छ जयन्धर अस्मच्छरीरस्पृष्टिकया शापितेन भवताकालहीनमिदमवश्यमावेदनीयम् ।
+
+&द्रौपदी&:  
+{प्क्त्_१८३}हला बुद्धिमदिए भणाहि मम वअणेण पिअसहिं सुभद्दं । अज्ज वच्छाए उत्तराए चौत्थो मासो पडिबण्णस्स गब्भस्स । तुमं एव्व एदं कुलपडिट्ठाबअं सावहाणं रक्ख । कदा बि इदो परलोअगदस्स ससुरौलस्स अम्हाणं बि सलिलबिन्दुदो भविस्सदि त्ति ।
+
+स्क्त्छ्_१८३: हला बुद्धिमतिके भण मम वचनेन प्रियसखीं सुभद्राम् । अद्य वत्साया उत्तरायाश्चतुर्थो मासः प्रतिपन्नस्य गर्भस्य । त्वमेवैतं कुलप्रतिष्ठापकं सावधानं रक्ष । कदापीतः परलोकगतस्य श्वशुरकुलस्यास्माकमपि सलिलबिन्दुदो भविष्यतीति ।
+
+&युधिष्ठिरः&:  
+*सास्रम्**  
+भोः कष्टम् ।  
+वेर्से_६।२६  
+शाखारोधस्थगितवसुधामण्डले मण्डिताशे $ पीनस्कन्धे सुसदृशमहामूलपर्यन्तबन्धे &  
+दग्धे दैवात्सुमहति तरौ तस्य सूक्ष्माङ्कुरे ऽस्मि- ē̃ न्नाशाबन्धं कमपि कुरुते छाययार्थी जनो ऽयम् ॥ ६।२६ ॥  
+    
+साधु । इदानीमध्यवसितं करणीयम् ।*कञ्चुकिनमवलोक्य**  
+आर्य जयन्धर स्वशरीरेण शापितो ऽसि तथापि न गम्यते ।
+
+&कञ्चुकी&:  
+*साक्रन्दम्**  
+हा देव पाण्डो तव सुतानामजातशत्रुभीमार्जुननकुलसहदेवानामयं दारुणः परिणामः । हा देवि कुन्ति भोजराजभवनपताके  
+वेर्से_६।२७  
+भ्रातुस्ते तनयेन शौरिगुरुणा श्यालेन गाण्डीविन- $ स्तस्यैवाखिलधार्तराष्ट्रनलिनीव्यालोलने दन्तिनः &  
+आचार्येण वृकोदरस्य हलिनोन्मत्तेन मत्तेन वा ē̃ दग्धं त्वत्सुतकाननं ननु मही यस्याश्रयाच्छीतला ॥ ६।२७ ॥  
+    
+*इति रुदन्निष्क्रान्तः**
+
+&युधिष्ठिरः&:  
+जयन्धर जयन्धर ।  
+    
+*प्रविश्य**
+
+&कञ्चकी&:  
+आज्ञापयतु देवः ।
+
+&युधिष्ठिरः&:  
+वक्तव्यमिति ब्रवीमि । न पुनरेतावन्ति भागधेयानि नः । यदि कदाचिद्विजयी स्याद्वत्सो ऽर्जुनस्तद्वक्तव्यो ऽस्मद्वचनाद्भवता ।  
+वेर्से_६।२८  
+हली हेतुः सत्यं भवति मम वत्सस्य निधने $ तथाप्येष भ्राता सहजसुहृदस्ते मधुरिपोः &  
+अतः क्रोधः कार्यो न खलु यदि च प्राणिषि ततो ē̃ वनं गच्छेर्मा गाः पुनरकरुणां क्षात्रपदवीम् ॥ ६।२८ ॥
+
+&कञ्चुकी&:  
+यदाज्ञापयति देवः ।*इति निष्क्रान्तः**
+
+&युधिष्ठिरः&:  
+*अग्निं दृष्ट्वा सहर्षम्**  
+कृष्णे ननूद्धतशिखाहस्ताहूतास्मद्विधव्यसनिजनः समिद्धो भगवान्हुताशनस्तत्रेन्धनीकरोम्यात्मानम् ।
+
+&द्रौपदी&:  
+{प्क्त्_१८४}पसीददु पसीददु महाराओ मम इमिणा अपच्छिमेण पणएण । अहं दाव अग्गदो पविसामि ।
+
+स्क्त्छ्_१८४: प्रसीदतु प्रसीदतु महाराजो ममानेनापश्चिमेन प्रणयेन । अहं तावदग्रतः प्रविशामि ।
+
+&युधिष्ठिरः&:  
+यद्येवं सहितावेवाभ्युदयमुपभोक्ष्यावहे ।
+
+&चेटी&:  
+{प्क्त्_१८५}हा भअवन्तो लोअबाला परित्ताअह परित्ताअह । एसो क्खु सोमवंसराएसी राअसूअसन्तप्पिदहव्ववाहो खण्डवसन्तप्पिदहुदवहस्स किरीडिणो जेट्ठो भादा सुगिहीदणामहेओ महाराअजुहिट्ठिरो । एसा बि पञ्चालराअतणआ देवी जण्णवेदिमज्झसम्भवा जण्णसेणी । दुवे बि णिक्करुणजलणस्स प्पवेसेण इन्धणीहोन्ति । ता परित्ताअह अज्जा परित्ताअह । कधं ण को बि परित्ताअदि ।*तयोरग्रतः पतित्वा**  
+किं ववसिदं देवीए देवेण अ ।
+
+स्क्त्छ्_१८५: हा भगवन्तो लोकपालाः परित्रायध्वं परित्रायध्वम् । एष खलु सोमवंशराजर्षी राजसूयसन्तर्पितहव्यवाहः खाण्डवसन्तर्पितहुतवहस्य किरीटिनो ज्येष्ठो भ्राता सुगृहीतनामधेयो महाराजयुधिष्ठिरः । एषापि पाञ्चालराजतनया देवी यज्ञवेदिमध्यसम्भवा याज्ञसेनी । द्वावपि निष्करुणज्वलनस्य प्रवेशेनेन्धनीभवतः । तत्परित्रायध्वमार्याः परित्रायध्वम् । कथं न को ऽपि परित्रायते । किं व्यवसितं देव्या देवेन च ।
+
+&युधिष्ठिरः&:  
+अयि बुद्धिमतिके यद्वत्सलेन प्रियानुजेन विना सदृशं तत् । उत्तिष्ठोत्तिष्ठ भद्रे उदकमुपनय ।
+
+&चेटी&:  
+{प्क्त्_१८६}जं देवो आणबेदि ।*इति निष्क्रम्य पुनः प्रविश्य च**  
+जेदु जेदु महाराओ ।
+
+स्क्त्छ्_१८६: यद्देव आज्ञापयति । जयतु जयतु महाराजः ।
+
+&युधिष्ठिरः&:  
+पाञ्चालि त्वमपि तावत्स्वपक्षपातिनो वृकोदरस्य प्रियस्यार्जुनस्योदकक्रियां कुरु ।
+
+&द्रौपदी&:  
+{प्क्त्_१८७}महाराओ एव्व करेदु । अहं पुणो जलणं पविसिस्सं ।
+
+स्क्त्छ्_१८७: महाराज एव करोतु । अहं पुनर्ज्वलनं प्रवेक्ष्यामि ।
+
+&युधिष्ठिरः&:  
+अनतिक्रमणीयं लोकवृत्तम् । भद्रे उदकमुपनय ।  
+    
+*चेटी तथा करोति**
+
+&युधिष्ठिरः&:  
+*पादौ प्रक्षाल्योपस्पृश्य च**  
+एष तावत्सलिलाञ्जलिर्गाङ्गेयाय भीष्माय गुरवे । अयं प्रपितामहाय शान्तनवे । अयमपि पितामहाय विचित्रवीर्याय ।*सास्रम्**  
+तातस्याधुनावसरः । अयमपि तत्रभवते सुगृहीतनाम्ने पित्रे पाण्डवे ।  
+वेर्से_६।२९  
+अद्य प्रभृति वारीदमस्मत्तो दुर्लभं पुनः ।  
+तात माद्र्यम्बया सार्धं मया दत्तं निपीयताम् ॥ ६।२९ ॥  
+    
+वेर्से_६।३०  
+एतज्जलं जलजनीलविलोचनाय $ भीमाय तस्य मम चाप्यविभक्तमस्तु &  
+एकं क्षणं विरम वत्स पिपासितो ऽपि ē̃ पातुं त्वया सह जवादयमागतो ऽस्मि ॥ ६।३० ॥  
+    
+अथ वा सुक्षत्रियाणां गतिमुपगतं वत्समहमुपगतो ऽप्यकृती द्रष्टुम् । वत्स भीमसेन  
+वेर्से_६।३१  
+मया पीतं पीतं तदनु भवताम्बास्तनयुगं $ मदुच्छिष्टैर्वृत्तिं जनयसि रसैर्वत्सलतया &  
+वितानेष्वप्येवं तव मम च सोमे विधिरभू- ē̃ न्निवापाम्भः पूर्वं पिबसि कथमेवं त्वमधुना ॥ ६।३१ ॥  
+    
+कृष्णे त्वमपि देहि सलिलाञ्जलिम् ।
+
+&द्रौपदी&:  
+{प्क्त्_१८८}हञ्जे बुद्धिमदिए उबणेहि मे सलिलं ।
+
+स्क्त्छ्_१८८: हञ्जे बुद्धिमतिके उपनय मे सलिलम् ।  
+    
+*चेटी तथा करोति**
+
+&द्रौपदी&:  
+{प्क्त्_१८९}*उपसृत्य जलाञ्जलिं पूरयित्वा**  
+महाराअ कस्स सलिलं देम्हि ।
+
+स्क्त्छ्_१८९: महाराज कस्मै सलिलं ददामि ।
+
+&युधिष्ठिरः&:  
+वेर्से_६।३२  
+तस्मै देहि जलं कृष्णे सहसा गच्छते दिवम् ।  
+अम्बापि येन गान्धार्या रुदितेन सखी कृता ॥ ६।३२ ॥
+
+&द्रौपदी&:  
+{प्क्त्_१९०}णाह भीमसेण परिअणोबणीदं उदअं सग्गगदस्स दे पादोदअं भोदु ।
+
+स्क्त्छ्_१९०: नाथ भीमसेन परिजनोपनीतमुदकं स्वर्गगतस्य ते पादोदकं भवतु ।
+
+&युधिष्ठिरः&:  
+फाल्गुनाग्रज  
+वेर्से_६।३३  
+असमाप्तप्रतिज्ञे ऽस्तं याते त्वयि महाभुजे ।  
+मुक्तकेश्यैव दत्तस्ते प्रियया सलिलाञ्जलिः ॥ ६।३३ ॥
+
+&द्रौपदी&:  
+{प्क्त्_१९१}उट्ठेहि महाराअ दूरं गच्छदि दे भादा ।
+
+स्क्त्छ्_१९१: उत्तिष्ठ महाराज दूरं गच्छति ते भ्राता ।
+
+&युधिष्ठिरः&:  
+*दक्षिणाक्षिस्पन्दनं सूचयित्वा**  
+पाञ्चालि निमित्तानि मे कथयन्ति सम्भावयिष्यसि वृकोदरमिति ।
+
+&द्रौपदी&:  
+{प्क्त्_१९२}महाराअ सुणिमित्तं भोदु ।
+
+स्क्त्छ्_१९२: महाराज सुनिमित्तं भवतु ।  
+    
+*नेपथ्ये कलकलः**  
+    
+*प्रविश्य सम्भ्रान्तः**
+
+&कञ्चुकी&:  
+परित्रायतां परित्रायतां महाराजः । एष खलु दुरात्मा कौरवापसदः क्षतजाभिषेकपाटलिताम्बरशरीरः समुच्छ्रितदिग्धभीषणगदापाणिरुद्यतकालदण्ड इव कृतान्तो ऽत्रभवतीं पाञ्चालराजतनयामितस्ततः परिमार्गमाण इत एवाभिवर्तते ।
+
+&युधिष्ठिरः&:  
+हा दैव ते निर्णयो जातः । हा गाण्डीवधन्वन् ।*इति मुह्यति**
+
+&द्रौपदी&:  
+{प्क्त्_१९३}हा अज्जौत्त हा मम सअंवरसअङ्गाहदुल्ललिद पिअं भादुअं अणुगदोसि ण उण महाराअं इमं दासजणं अ ।*इति मोहमुपगता**
+
+स्क्त्छ्_१९३: हा आर्यपुत्र हा मम स्वयंवरस्वयङ्ग्राहदुर्ललित प्रियं भ्रातरमनुगतो ऽसि न पुनर्महाराजमिमं दासजनं च ।
+
+&युधिष्ठिरः&:  
+हा वत्स सव्यसाचिन्हा त्रिलोचनाङ्गनिष्पेषमल्ल हा निवातकवचोद्धरणनिष्कण्टकीकृतामरलोक हा बदर्याश्रममुनिद्वितीयतापस हा द्रोणाचार्यप्रियशिष्य हा अस्त्रशिक्षाबलपरितोषितगाङ्गेय हा राधेयकुलकमलिनीप्रालेयवर्ष हा गन्धर्वनिर्वासितदुर्योधन हा पाण्डवकुलकमलिनीराजहम्स  
+वेर्से_६।३४  
+तां वत्सलामनभिवाद्य विनीतमम्बां $ गाढं च मामनुपगुह्य मयाप्यनुक्तः &  
+एतां स्वयंवरवधूं दयितामदृष्ट्वा ē̃ दीर्घप्रवासमयि तात कथं गतो ऽसि ॥ ६।३४ ॥  
+    
+*मोहमुपगतः**
+
+&कञ्चुकी&:  
+भोः कष्टम् । एष दुरात्मा कौरवाधमो यथेष्टमित एवाभिवर्तते । सर्वथा सम्प्रत्ययमेव कालोचितः प्रतीकारः । चितासमीपमुपनयाम्यत्रभवतीं पाञ्चालराजतनयाम् । अहमप्येवमेवानुगच्छामि ।*चेटीं प्रति**  
+भद्रे त्वमपि देव्या भ्रातरं धृष्टद्युम्नं नकुलसहदेवौ वावाप्नुहि । अथ वैवमवस्थिते महाराजे ऽस्तमितयोर्भीमार्जुनयोः कुतो ऽत्र परित्राणाशा ।
+
+&चेटी&:  
+{प्क्त्_१९४}परित्ताअह परित्ताअह अज्जा ।
+
+स्क्त्छ्_१९४: परित्रायध्वं परित्रायध्वमार्याः ।  
+    
+*नेपथ्ये कलकलानन्तरम्**
+
+भो भोः समन्तपञ्चकसञ्चारिणः क्षतजासवमत्तयक्षराक्षसपिशाचभूतवेतालकङ्कगृध्रजम्बुकोलूकवायसभूयिष्ठा विरलयोधपुरुषाः कृतमस्मद्दर्शनत्रासेन । कथयत कस्मिन्नुद्देशे याज्ञसेनी सन्निहितेति । कथयाम्युपलक्षणं तस्याः ।  
+वेर्से_६।३५  
+ऊरू करेण परिघट्टयतः सलीलं $ दुर्योधनस्य पुरतो ऽपहृताम्बरा या &  
+दुःशासनेन कचकर्षणभिन्नमौलिः ē̃ सा द्रौपदी कथयत क्व पुनः प्रदेशे ॥ ६।३५ ॥
+
+&कञ्चुकी&:  
+हा देवि यज्ञवेदिसम्भवे परिभूयसे सम्प्रत्यनाथा कुरुकुलकलङ्केन ।
+
+&युधिष्ठिरः&:  
+*सहसोत्थाय सावष्टम्भम्**  
+पाञ्चालि न भेतव्यं न भेतव्यम् ।*ससम्भ्रमम्**  
+कः को ऽत्र भोः । सनिषङ्गं मे धनुरुपनय । दुरात्मन्दुर्योधनहतक आगच्छागच्छ । अपनयामि ते गदाकौशलसम्भृतं भुजदर्पं शिलीमुखासारेण । अन्यच्च रे कुरुकुलाङ्गार  
+वेर्से_६।३६  
+प्रियमनुजमपश्यंस्तं जरासन्धमल्लं $ कुपितहरकिरातायोधिनं तं च वत्सम् &  
+त्वमिव कठिनचेताः प्राणितुं नास्मि शक्तो ē̃ ननु पुनरपहर्तुं बाणवर्षैस्तवासून् ॥ ६।३६ ॥
+
+*ततः प्रविशति गदापाणिः क्षतजसिक्तसर्वाङ्गो भीमसेनः**
+
+&भीमसेनः&:  
+*उद्धतं परिक्रामन्**  
+भो भोः समन्तपञ्चकसञ्चारिणः सैनिकाः को ऽयमावेगः ।  
+वेर्से_६।३७  
+नाहं रक्षो न भूतो रिपुरुधिरजलप्लाविताङ्गः प्रकामं $ निस्तीर्णोरुप्रतिज्ञाजलनिधिगहनः क्रोधनः क्षत्रियो ऽस्मि &  
+भो भो राजन्यवीराः समरशिखिशिखादग्धशेषाः कृतं व- ē̃ स्त्रासेनानेन लीनैर्हतकरितुरगान्तर्हितैरास्यते यत् ॥ ६।३७ ॥  
+    
+कथयन्तु भवन्तः कस्मिन्नुद्देशे पाञ्चाली तिष्ठति ।
+
+&द्रौपदी&:  
+{प्क्त्_१९५}*लब्धसञ्ज्ञा**  
+परित्ताअदु परित्ताअदु महाराओ ।
+
+स्क्त्छ्_१९५: परित्रायतां परित्रायतां महाराजः ।
+
+&कञ्चुकी&:  
+देवि पाण्डुस्नुषे उत्तिष्ठोत्तिष्ठ । सम्प्रति झटिति चिताप्रवेश एव श्रेयान् ।
+
+&द्रौपदी&:  
+{प्क्त्_१९६}*सहसोत्थाय**  
+कहं ण सम्भावेमि अज्ज बि चिदासमीबं ।
+
+स्क्त्छ्_१९६: कथं न सम्भावयाम्यद्यापि चितासमीपम् ।
+
+&युधिष्ठिरः&:  
+कः को ऽत्र भोः । सनिषङ्गं धनुरुपनय । कथं न कश्चित्परिजनः । भवतु । बाहुयुद्धेनैव दुरात्मानं गाढमालिङ्ग्य ज्वलनमभिपातयामि ।*परिकरं बध्नाति**
+
+&कञ्चुकी&:  
+देवि पाण्डुस्नुषे संयम्यन्तामिदानीं नयनोपरोधिनो दुःशासनावकृष्टा मूर्धजाः । अस्तमिता सम्प्रति प्रतीकाराशा । चितासमीपमेव द्रुततरं सम्भावय ।
+
+&युधिष्ठिरः&:  
+कृष्णे न खल्वनिहते तस्मिन्दुरात्मनि दुर्योधने संहर्तव्याः केशाः ।
+
+&भीमसेनः&:  
+पाञ्चालि न खलु मयि जीवति संहर्तव्या दुःशासनविलुलिता वेणिरात्मपाणिभ्याम् । तिष्ठतु तिष्ठतु । स्वयमेवाहं संहरामि ।  
+    
+*द्रौपदी भयादपसर्पति**
+
+&भीमसेनः&:  
+तिष्ठ तिष्ठ भीरु क्वाधुना गम्यते ।*इति केशेषु ग्रहीतुमिच्छति**
+
+&युधिष्ठिरः&:  
+*वेगाद्भीममालिङ्ग्य**  
+दुरात्मन्भीमार्जुनशत्रो सुयोधनहतक  
+वेर्से_६।३८  
+आशैशवादनुदिनं जनितापराधो $ मत्तो बलेन भुजयोर्हतराजपुत्रः &  
+आसाद्य मे ऽन्तरमिदं भुजपञ्जरस्य ē̃ जीवन्प्रयासि न पदात्पदमद्य पाप ॥ ६।३८ ॥
+
+&भीमसेनः&:  
+अये कथमार्यः सुयोधनशङ्कया क्रोधान्निर्दयं मामालिङ्गति ।
+
+&कञ्चुकी&:  
+*निरूप्य सहर्षम्**  
+महाराज वञ्च्यसे । अयं खल्वायुष्मान्भीमसेनः सुयोधनक्षतजारुणीकृतसकलशरीराम्बरो दुर्लक्षव्यक्तिः । अलमधुना सन्देहेन ।
+
+&चेटी&:  
+{प्क्त्_१९७}*द्रौपदीमालिङ्ग्य**  
+देवि णिवत्तीअदु णिवत्तीअदु । एसो क्खु पूरिदपडिण्णाभारो णाहो दे वेणीसंहारं कादुं तुमं एव्व अण्णेसदि ।
+
+स्क्त्छ्_१९७: देवि निवृत्यतां निवृत्यताम् । एष खलु पूरितप्रतिज्ञाभारो नाथस्ते वेणीसंहारं कर्तुं त्वामेवान्विष्यति ।
+
+&द्रौपदी&:  
+{प्क्त्_१९८}हञ्जे किं मं अलीअवअणेहिं आसासेसि ।
+
+स्क्त्छ्_१९८: हञ्जे किं मामलीकवचनैराश्वासयसि ।
+
+&युधिष्ठिरः&:  
+जयन्धर किं कथयसि । नायमनुजद्वेषी दुर्योधनहतकः ।
+
+&भीमसेनः&:  
+देव अजातशत्रो भीमार्जुनगुरो कुतो ऽद्यापि दुर्योधनहतकः । मया हि तस्य दुरात्मनः पाण्डुकुलपरिभाविनः  
+वेर्से_६।३९  
+भूमौ क्षिप्तं शरीरं निहितमिदमसृक्चन्दनाभं निजाङ्गे $ लक्ष्मीरार्ये निषण्णा चतुरुदधिपयःसीमया सार्धमुर्व्या &  
+भृत्या मित्राणि योधाः कुरुकुलमखिलं दग्धमेतद्रणाग्नौ ē̃ नामैकं यद्ब्रवीषि क्षितिप तदधुना धार्तराष्ट्रस्य शेषम् ॥ ६।३९ ॥
+
+*युधिष्ठिरः स्वैरं मुक्त्वा भीममवलोकयन्नश्रूणि प्रमार्जयति**
+
+&भीमसेनः&:  
+*पादयोः पतित्वा**  
+जयत्वार्यः ।
+
+&युधिष्ठिरः&:  
+वत्स बाष्पजलान्तरितनयनत्वान्न पश्यामि ते मुखचन्द्रम् । तत्कथय कच्चिज्जीवति भवान्समं किरीटिना ।
+
+&भीमसेनः&:  
+निहतसकलरिपुपक्षे त्वयि नराधिपे जीवति भीमो ऽर्जुनश्च ।
+
+&युधिष्ठिरः&:  
+*पुनर्गाढमालिङ्ग्य**  
+    
+वेर्से_६।४०  
+रिपोरास्तां तावन्निधनमिदमाख्याहि शतशः $ प्रियो भ्राता सत्यं त्वमसि मम यो ऽसौ बकरिपुः &
+
+&भीमसेनः&:  
+आर्य सो ऽहम् ।
+
+&युधिष्ठिरः&:  
+वेर्से_६।४०  
+जरासन्धस्योरःसरसि रुधिरासारसलिले ē̃ तटाघातक्रीडाललितमकरः संयति भवान् ॥ ६।४० ॥
+
+&भीमसेनः&:  
+आर्य स एवाहम् । तन्मुञ्चतु मामार्यः क्षणमेकम् ।
+
+&युधिष्ठिरः&:  
+किमपरमवशिष्टम् ।  
+    
+&भीमसेनः&:  
+आर्य सुमहदवशिष्टम् । संयच्छामि तावदनेन सुयोधनशोणितोक्षितेन पाणिना पाञ्चाल्या दुःशासनावकृष्टं केशहस्तम् ।
+
+&युधिष्ठिरः&:  
+सत्वरं गच्छतु भवान् । अनुभवतु तपस्विनी वेणीसंहारमहोत्सवम् ।
+
+&भीमसेनः&:  
+*द्रौपदीमुपसृत्य**  
+देवि पाञ्चालराजतनये दिष्ट्या वर्धसे रिपुकुलक्षयेण । अलमलमेवंविधं मामालोक्य त्रासेन ।  
+वेर्से_६।४०  
+कृष्टा येनासि राज्ञां सदसि नृपशुना तेन दुःशासनेन $ स्त्यानान्येतानि तस्य स्पृश मम करयोः पीतशेषाण्यसृञ्जि &  
+कान्ते राज्ञः कुरूणामपि सरसमिदं मद्गदाचूर्णितोरो- ē̃ रङ्गे ऽङ्गे ऽसृङ्निषक्तं तव परिभवजस्यानलस्योपशान्त्यै ॥ ६।४० ॥  
+    
+बुद्धिमतिके क्व सा सम्प्रति भानुमती योपहसति पाण्डवदारान् । भवति यज्ञवेदिसम्भवे याज्ञसेनि ।
+
+&द्रौपदी&:  
+{प्क्त्_१९९}आणबेदु णाहो ।
+
+स्क्त्छ्_१९९: आज्ञापयतु नाथः ।
+
+&भीमसेनः&:  
+स्मरति भवती यन्मयोक्तम् ।*चञ्चद्भुजेत्यादिसेए स्तन्ज़ १।२१। पूर्वोक्तं पठति**
+
+&द्रौपदी&:  
+{प्क्त्_२००}णाह ण केवलं सुमरामि । अणुहवामि अ णाहस्स पसादेण ।
+
+स्क्त्छ्_२००: नाथ न केवलं स्मरामि । अनुभवामि च नाथस्य प्रसादेन ।
+
+&भीमसेनः&:  
+*वेणीमवधूय**  
+भवति संयम्यतामिदानीं धार्तराष्ट्रकुलकालरात्रिर्दुःशासनविलुलितेयं वेणी ।
+
+&द्रौपदी&:  
+{प्क्त्_२०१}णाह विसुमरिदम्हि एदं वाबारं । णाहस्स पसाएण पुणो बि सिक्खिस्सं ।
+
+स्क्त्छ्_२०१: नाथ विस्मृतास्म्येतं व्यापारम् । नाथस्य प्रसादेन पुनरपि शिक्षिष्ये ।  
+    
+*भीमसेनः वेणीं बध्नाति**  
+    
+*नेपथ्ये**
+
+महासमरानलदग्धशेषाय स्वस्ति भवतु राजन्यकुलाय ।  
+वेर्से_६।४२  
+क्रोधान्धैर्यस्य मोक्षात्क्षतनरपतिभिः पाण्डुपुत्रैः कृतानि $ प्रत्याशं मुक्तकेशान्यतुलभुजबलैः पार्थिवान्तःपुराणि &  
+कृष्णायाः केशपाशः कुपितयमसखो धूमकेतुः कुरूणां ē̃ सो ऽयं बद्धः प्रजानां विरमतु निधनं स्वस्ति राज्ञां कुलेभ्यः ॥ ६।४२ ॥
+
+&युधिष्ठिरः&:  
+देवि एष ते वेणीसंहारो ऽभिनन्द्यते नभस्तलसञ्चारिणा सिद्धजनेन ।  
+    
+*ततः प्रविशतः कृष्णार्जुनौ**
+
+&कृष्णः&:  
+*युधिष्ठिरमुपगम्य**  
+विजयतां निहतसकलारातिमण्डलः सानुजः पाण्डवकुलचन्द्रमा महाराजो युधिष्ठिरः ।
+
+&अर्जुनः&:  
+जयत्वार्यः ।
+
+&युधिष्ठिरः&:  
+*विलोक्य**  
+अये भगवान्पुण्डरीकाक्षो वत्सश्च किरीटी । भगवन्नभिवादये ।*किरीटिनं प्रति**  
+एह्येहि वत्स ।  
+    
+*अर्जुनः प्रणमति**
+
+&युधिष्ठिरः&:  
+*वासुदेवं प्रति**  
+देव कुतस्तस्य विजयादन्यद्यस्य भगवान्पुराणपुरुषो नारायणः स्वयं मङ्गलान्याशास्ते ।  
+वेर्से_६।४३  
+कृतगुरुमहदादिक्षोभसम्भूतमूर्तिं $ गुणिनमुदयनाशस्थानहेतुं प्रजानाम् &  
+अजममरमचिन्त्यं चिन्तयित्वापि न त्वां ē̃ भवति जगति दुःखी किं पुनर्देव दृष्ट्वा ॥ ६।४३ ॥  
+    
+*अर्जुनमालिङ्ग्य**  
+वत्स परिष्वजस्व माम् ।
+
+&कृष्णः&:  
+महाराज युधिष्ठिर  
+वेर्से_६।४४  
+व्यासो ऽयं भगवानमी च मुनयो वाल्मीकिरामादयो $ धृष्टद्युम्नमुखाश्च सैन्यपतयो माद्रीसुताधिष्ठिताः &  
+प्राप्ता मागधमत्स्ययादवकुलैराज्ञाविधेयैः समं ē̃ स्कन्धोत्तम्भिततीर्थवारिकलशा राज्याभिषेकाय ते ॥ ६।४४ ॥  
+    
+अहं पुनर्दुरात्मना चार्वाकेण विप्रकृतं भवन्तमुपलभ्यार्जुनेन सह त्वरिततरमायातः ।
+
+&युधिष्ठिरः&:  
+कथं चार्वाकेण रक्षसा वयमेवं विप्रलब्धाः ।
+
+&भीमसेनः&:  
+*सरोषम्**  
+क्वासौ धार्तराष्ट्रसखा पुण्यजनापसदो येनार्यस्य महांश्चित्तविभ्रमः कृतः ।
+
+&कृष्णः&:  
+निगृहीतः स दुरात्मा नकुलेन । तत्कथय महाराज किमस्मात्परं समीहितं सम्पादयामि ।
+
+&युधिष्ठिरः&:  
+एवं पुण्डरीकाक्ष न किञ्चिन्न ददाति भगवान्प्रसन्नः । अहं तु पुरुषसाधारणया बुद्ध्या सन्तुष्यामि । न खल्वतः परमभ्यर्थयितुं क्षमः । पश्यतु देवः ।  
+वेर्से_६।४५  
+क्रोधान्धैः सकलं हतं रिपुकुलं पञ्चाक्षतास्ते वयं $ पाञ्चाल्या मम दुर्नयोपजनितस्तीर्णो निकारार्णवः &  
+त्वं देवः पुरुषोत्तमः सुकृतिनं मामादृतो भाषसे ē̃ किं नामान्यदतः परं भगवतो याचे प्रसन्नादहम् ॥ ६।४५ ॥  
+    
+तथापि प्रीततरश्चेद्भगवांस्तदिदमस्तु ।  
+वेर्से_६।४६  
+अकृपणमरुक्श्रान्तं जीव्याज्जनः पुरुषायुषं $ भवतु भगवन्भक्तिर्द्वैतं विना पुरुषोत्तमे &  
+दयितभुवनो विद्वद्बन्धुर्गुणेषु विशेषवि- ē̃ त्सततसुकृती भूयाद्भूपः प्रसाधितमण्डलः ॥ ६।४६ ॥  
+    
+अपि च  
+वेर्से_६।४७  
+अवनिमवनिपालाः पान्तु वृष्टिं विधत्तां $ जगति जलधराली शस्यपूर्णास्तु भूमिः &  
+त्वयि मुरनरकारौ भक्तिरद्वैतयोगा- ē̃ द्भवतु मम सुदीर्घं हव्यमश्नन्तु देवाः ॥ ६।४७ ॥
+
+&कृष्णः&:  
+एवमस्तु ।  
+    
+*इति निष्क्रान्ताः सर्वे**  
+    
+इति षष्ठो ऽङ्कः ।  
+    
+समाप्तमिदं वेणीसंहारं नाम नाटकम् ।
+
+इदं च विदग्धस्निग्धवियोगदुर्मनसा विप्रलपितं तेन कविना ।  
+    
+काव्यालापसुभाषितव्यसनिनस्ते राजहंसा गता-  
+स्ता गोष्ठ्यः क्षयमागता गुणलवश्लाघ्यास्तु वाचः सताम् ।  
+सालङ्काररसप्रसन्नमधुराकाराः कवीनां गिरः  
+प्राप्ता नाशमयं तु भूमिवलये जीयात्प्रबन्धो महान् ॥
+

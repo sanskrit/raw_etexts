@@ -1,7 +1,9 @@
----
-title: 'Venkatanatha [Vedantadesika]: Nyayaparisuddhi, Adhyaya 1,2'
++++
+title = "Venkatanatha [Vedantadesika]: Nyayaparisuddhi, Adhyaya 1,2"
 
----
++++
+
+
 ## Intro
   
   
@@ -27,20 +29,69 @@ The text is not proof-read.
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
-  
+    
 न्या। प। प्र। ९ ॥  
 द्वितीयमाह्निकम् ॥  
 तदिहान्यथाख्यातिपक्षे विपर्ययस्य संशयस्य च व्यवच्छेदार्थम् "यथावस्थितव्यवहारानुगुणं ज्ञानम्" इति प्रमाणलक्षणे यथावस्थितादिविशेषणम् ।  
@@ -272,12 +323,9 @@ The text is not proof-read.
 नैवं पूर्वस्य, शब्दजन्यप्रत्यक्षमन्तरेणापि योगजादृष्टजनितसाक्षात्कारात् प्रणिधानविशेषप्रसादितपरमात्मसङ्कल्पाद्वा निःश्रेयससिद्धेरिति ॥  
 प्रत्यक्षं चिदचिन्मयं जगदिदं यस्येत्यनुश्रूयते यश्चानन्यधियामनन्तविभवः प्रत्यक्षतामश्नुते ।  
 यश्चैको युगपत्सदा स्वत इदं विश्वं दरीदृश्यते प्राज्ञं तं प्रतिपन्नमोक्षणविधादक्षं दिदृक्षेमहि ॥  
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु न्यायपरिशुद्धौ प्रत्यक्षाध्याये द्वितीयमाह्निकम्  ॥  
-  
-समाप्तश्च प्रत्यक्षाध्यायः  ॥  
-  
-॥  श्रीमते निगमान्तमहादेशिकाय नमः  ॥  
-  
-  
-  
-  
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु न्यायपरिशुद्धौ प्रत्यक्षाध्याये द्वितीयमाह्निकम् ॥  
+    
+समाप्तश्च प्रत्यक्षाध्यायः ॥  
+    
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
+

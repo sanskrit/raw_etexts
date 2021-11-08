@@ -1,8 +1,15 @@
----
-title: 'Dandin: Dasakumaracarita'
++++
+title = "Dandin: Dasakumaracarita"
 
----
++++
+
+
 ## Intro
+  
+  
+  
+  
+ Dandin: Dasakumaracarita   
   
   
   
@@ -10,1847 +17,3139 @@ title: 'Dandin: Dasakumaracarita'
 Dandin: Dasakumaracarita  
   
   
+Input by members of the Sansknet project  
+(formerly: www.sansknet.org)  
   
   
-DANDIN: DASAKUMARACARITA  
-Ucchvasas 3, 5 & 6  
   
-Text analysis adapted to BHELA conventions:  
+This GRETIL version has been converted from a custom Devanagari encoding.  
+Therefore, word boundaries are usually not marked by blanks.  
   
   
-
+STRUCTURE OF REFERENCES (added):  
+Dkc_n,n.n = Dasakumaracarita_pithika,ucchvasa.paragraph  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-सन्धि मर्केर्स्:  
-(। =स्होर्त् वोwएल्, - =लोन्ग् वोwएल्)  
-  
-इन् wओर्द्-सन्धि:  
-१: । ।  ए।ग्।: वेद+अन्त = वेदा१न्त  
-२: - ।  
-३: । -  
-४: - -  
-  
-इन् सेन्तेन्चे-सन्धि:  
-७: । ।  ए।ग्।: च+अपि = चा७पि  
-८: । -  
-९: - ।  
-०: - -  
-  
-  
-#  
-  
-  
-  
-/ daśa-kumāra-caritam - tṛtīyo1cchvāsaḥ /   
-  
-eṣo 'smi paryaṭann ekadā gato videheṣu |  
-mithilām a-praviśyai7va bahiḥ kva=cin maṭhi kāyā  
-viśramitum etya kayā  api vṛddha-tāpasyā  
-datta-pādyaḥ kṣaṇam alinda-bhūmāv avāsthiṣi |  
-tasyās tu mad-darśanād eva kim apy ābaddha-dhāram  
-aśru prāvartata |  
-' kim etad amba kathaya kāraṇam ' iti pṛṣṭā  
-sa-karuṇam ācaṣṭa - 'jaivātṛka nanu śrūyate patir  
-asyā mithilāyāḥ prahāra-varmā nāmā8sīt |  
-tasya khalu magadha-rājo rāja-hamsaḥ paraṃ mitram  
-āsīt |  
-tayoś ca vallabhe bala-śambalayor iva  
-vasumatī-priyamvade sakhyam a-pratimam adhattām |  
-atha prathama-garbhā1bhinanditāṃ tāṃ ca  
-priya-sakhīṃ didṛkṣuḥ priyamvadā vasumatīṃ saha  
-bhartrā puṣpa-puram agamat |  
-tasminn eva ca samaye mālavena magadha-rājasya mahaj  
-janyam ajani |  
-tatra leśato 'pi dur-lakṣāṃ gatim agaman  
-magadha-rājaḥ |  
-maithile1ndras tu mālave1ndra-prayatna-prāṇitaḥ  
-sva-viṣayaṃ prati nivṛtto jyeṣṭhasya  
-samhāra-varmaṇaḥ sutair vikaṭa-varma-prabhṛtibhir  
-vyāptaṃ rājyam ākarṇya svasrīyāt suhma-pater  
-daṇḍā1vayavam āditsur aṭavī-patham avagāhya  
-lubdhaka-lupta-sarva-svo 'bhūt |  
-tat-sutena ca kanīyasā hasta-vartinā sahai7kākinī  
-vana-cara-śara-varṣa-bhaya-palāyitā vanam agāhiṣi |  
-tatra ca me śārdūla-nakhā1valīḍha-nipatitāyāḥ  
-pāṇi-bhraṣṭaḥ sa bālakaḥ kasya  api  
-kapilā-śavasya kroḍam abhyalīyata |  
-tac-chavā3karṣiṇaś ca vyāghrasya  asūn iṣur  
-iṣv-asana-yantra-muktaḥ kṣaṇād alikṣat |  
-bhilla-dārakaiḥ sa bālo 'pāhāri |  
-sā tv ahaṃ moha-suptā kena  api  
-vṛṣṇi-pāleno7panīya svaṃ kuṭīram āveśya  
-kṛpayo9pakrānta-vraṇā svasthībhūya sva-bhartur anti  
-kam upatiṣṭhāsur a-sahāyatayā yāvad  
-vyākulībhavāmi tāvan mamai7va duhitā saha yūnā kena  
- api tam evo7ddeśam āgamat |  
-sā bhṛśaṃ ruroda |  
-ruditā1nte ca sā sārtha-ghāte sva-hasta-gatasya  
-rāja-putrasya kirāta-bhartṛ-hasta-gamanam ātmanaś ca  
-kena  api vana-careṇa vraṇa-viropaṇam svasthāyāś ca  
-punas teno7payantuṃ cintitā yā  
-nikṛṣṭa-jāti-samsarga-vaiklavyāt  
-pratyākhyāna-pāruṣyam tad a-kṣameṇa ca  amunā  
-vivikte vipine sva-śiraḥ kartano1dyamam anena yūnā  
-yad-ṛcchayā dṛṣṭena tasya dur-ātmano hananam  
-ātmanaś co7payamanam ity akathayat |  
-sa tu pṛṣṭo maithile1ndrasyai7va ko 'pi sevakaḥ  
-kāraṇa-vilambī tan-mārgā1nusārī jātaḥ |  
-saha tena bhartur antikam upasṛtya putra-vṛttā ntena  
-śrotram asya devyāḥ priyamvadāyāś ca   
- adahāva |  
-  
-sa ca rājā diṣṭa-doṣāj jyeṣṭha-putraiś ciraṃ  
-vigṛhya punar a-sahiṣṇutayā  atimātraṃ ciraṃ  
-prayudhya baddhaḥ |  
-devī ca bandhanaṃ gamitā |  
-dagdhā punar aham asminn api vārddhake hata-jīvitam  
-a-pārayantī hātuṃ pravrajyāṃ kila  agrahīṣam |  
-duhitā tu mama hata-jīvitā3kṛṣṭā  
-vikaṭa-varma-mahā-devīṃ kalpa-sundarīṃ kila   
-aśiśriyat |  
-tau ced rāja-putrau nir-upadravāv eva  avardhiṣyetām  
-iyatā kālena tave7māṃ vayo-avasthām asprakṣyetām |  
-tayoś ca sator na dāyādā nare1ndrasya  
-prasahya-kāriṇo bhaveyuḥ ' iti pra-manyur abhiruroda |  
-śrutvā ca tāpasī-giram aham api pravṛddha-bāṣpo  
-nigūḍham abhyadhām -- 'yady evam amba samāśvasihi |  
-nanv asti kaś cin munis tvayā tad-avasthayā  
-putrā1bhyupapādanā1rthaṃ yācitas tena sa labdho  
-vardhitaś ca |  
-vārte9yam atimahatī |  
-kim anayā |  
-so 'ham asmi |  
-śakyaś ca mayā  
-asau vikaṭa-varmā yathā-kathaṃ-cid upaśliṣya  
-vyāpādayitum |  
-anujāḥ punar atibahavaḥ tair api ghaṭante  
-paura-jānapadāḥ |  
-māṃ tu na kaś=cid ihatya īdṛktayā jano jānāti |  
-pitarāv api tāvan māṃ na samvidāte kim ute7tare |  
-tad enam artham upāyena sādhayiṣyāmi ' ity agādiṣam |  
-sā tu vṛddhā sa-ruditaṃ pariṣvajya muhuḥ śirasy  
-upāghrāya prasnuta-stanī sa-gadgadam agadat - 'vatsa  
-ciraṃ jīva |  
-bhadraṃ tava |  
-prasanno 'dya bhagavān vidhiḥ |  
-adyai7va prahāra-varmaṇy adhi videhā jātāḥ yataḥ  
-pralambamāna-pīna-bāhur bhavān apāram etac  
-choka-sāgaram adyo7ttārayituṃ sthitaḥ |  
-aho mahad bhāgadheyaṃ devyāḥ priyamvadāyāḥ ' iti  
-harṣa-nirbharā snāna-bhojanā3dinā mām upācarat |  
-aśiśriyaṃ ca  asmin maṭhai1kadeśe niśi  
-kaṭa-śayyām |  
-acintayaṃ ca - 'vino9padhinā  ayam artho na sādhyaḥ |  
-striyaś co7padhīnām udbhava-kṣetram |  
-ato 'ntaḥ-pura-vṛttāntam asyā avagamya tad-dvāreṇa  
-kiñ=cij jālam ācareyam ' iti cintayaty eva mayi  
-mahā2rṇavo1nmagna-mārtaṇḍa-turaṅgama-śvāsa-rayā1vadhūte9va   
-vyāvartata tri-yāmā |  
-samugra-garbha-vāsa-jaḍīkṛta iva manda-pratāpo  
-divasa-karaḥ prādur āsīt |  
-  
-utthāya  avasāyita-dina-mukha-niyama-vidhis tāṃ me  
-mātaram avādiṣam -- ' amba jālmasya vikaṭa-varmaṇaḥ  
-kac=cid antaḥ-pura-vṛttāntam abhijānāsi ' ity  
-an-avasita-vacanae eva mayi kā=cid aṅganā  
-pratyadṛśyata |  
-tāṃ ca  avekṣya sā me dhātrī  
-harṣā1śru-kuṇṭhita-kaṇṭham ācaṣṭa -- 'putri  
-puṣkarike paśya bhartṛ-dārakam |  
-ayam asāv a-kṛpayā mayā vane parityaktaḥ punar apy  
-evam āgataḥ ' iti |  
-sā tu harṣa-nirbhara-nipīḍitā ciraṃ prarudya bahu  
-vilapya śāntā punaḥ sva-mātrā  
-rājā1ntaḥ-pura-vṛttāntā3khyāne nyayujyata |  
-uktaṃ ca tayā -- 'kumāra kāma-rūpe3śvarasya  
-kalinda-varma-nāmnaḥ kanyā kalpa-sundarī kalāsu rūpe  
-ca  apsaraso 'py atikrāntā patim abhibhūya vartate |  
-tad-eka-vallabhaḥ sa tu bahv-avarodho 'pi vikaṭa-varmā  
-' iti |  
-tām avocam -- ' upasarpai7nāṃ mat-prayuktair  
-gandha-mālyaiḥ |  
-upajanaya ca  a-samāna-doṣa-nindā4dinā sva-bhartari  
-dveṣam |  
-anurūpa-bha rtṛ-gāminīnāṃ ca  
-vāsava-dattā4dīnāṃ varṇanena grāhaya  anuśayam |  
-avarodhā1ntareṣu ca rājño vilasitāni su=gūḍhāny  
-api prayatnena  anviṣya prakāśayantī mānam asyā  
-vardhaya ' iti |  
-punar idam ambām avocam -- ' ittham eva tvayā  apy  
-an=anya-vyāpārayā nṛpā1ṅganā  asāv upasthātavyā |  
-praty-ahaṃ ca yad yat tatra vṛttaṃ tad asmi  
-tvayai9va bodhyaḥ |  
-mad-uktā punar iyam udarka-svāduno 'smat-karmaṇaḥ  
-prasādhanāya cchāye9va  an=apāyinī kalpa-sundarīm  
-anuvartatām ' iti |  
-te ca tam arthaṃ tathai9va  anvatiṣṭhatām |  
-keṣu-cid dineṣu gateṣv ācaṣṭa māṃ mad-ambā --   
-'vatsa mādhavī9va picumandā3śleṣiṇī yathā  asau  
-śocyam ātmānaṃ manyeta tatho9papādya sthāpitā |  
-kiṃ bhūyaḥ kṛtyam ' iti |  
-punar aham abhilikhyā8tmanaḥ pratikṛtim ' iyam amuṣmai  
-neyā |  
-nītāṃ cai7nāṃ nirvarṇya sā niyatam evaṃ vakṣyati  
--- ' nanv asti kaś cid īdṛśā3kāraḥ pumān ' iti |  
-pratibrūhy enām -- ' yadi syāt tataḥ kim ' iti |  
-tasya yad uttaraṃ sā dāsyati tad aham asmi  
-pratibodhanīyaḥ ' iti |  
-sā ' tathā ' iti rāja-kulam upasaṅkramya pratinivṛttā  
-mām ekānte nyavedayat -- 'vatsa darśito 'sau  
-citra-paṭas tasyai matta-kāśinyai |  
-citrīyamāṇā ca  asau ' bhuvanam idaṃ  
-sa-nāthīkṛtaṃ yad deve 'pi kusuma-dhanvani  
-ne8dṛśī vapuḥ-śrīḥ samnidhatte |  
-citram etac citrataram |  
-na ca tam avaimi ya īdṛśam ihatyo nirmimīte |  
-kene7dam ālikhitam ' ity ādṛtavatī vyāhṛtavatī ca |  
-mayā ca smerayo9dīritam -- ' devi sadṛśam  
-ājñāpayasi |  
-bhagavān makara-ketur apy evaṃ sundara iti na śakyam  
-eva sambhāvayitum |  
-atha ca vistīrṇe9yam arṇava-nemiḥ |  
-kvacid īdṛ śam api rūpaṃ daiva-śaktyā sambhavet |  
-atha tu yady evaṃ-rūpo  
-rūpā1nurūpa-śilpa-śīla-vidyā-jñāna-kauśalo yuvā  
-mahā-kulīnaś ca kaś=cit samnihitaḥ syāt sa kiṃ  
-lapsyate ' iti |  
-tayo9ktam -- ' amba kiṃ bravīmi |  
-śarīraṃ dṛdayaṃ jīvitam iti sarvam idam alpam  
-an-arhaṃ ca |  
-tato na kiñ=cil lapsyate |  
-na ced ayaṃ vipralambhas tasya  amuṣya  
-darśanā1nubhavena yathe9daṃ cakṣuś caritā1rthaṃ  
-bhavet tathā  anugrahaḥ kāryaḥ ' iti |  
-bhūyo 'pi mayā dṛḍhatarīkartum upanyastam - ' asti  
-ko 'pi rāja-sūnur nigūḍhaṃ caran |  
-amuṣya vasanto1tsave saha sakhībhir  
-nagaro1pavana-vihāriṇī ratir iva vigrahiṇī  
-yad-ṛcchayā darśana-pathaṃ gatā  asi |  
-gataś ca  asau kāma-śarai1ka-lakṣya tāṃ mām  
-anvavartiṣṭa |  
-mayā ca vām anyo-anyā1nurūpair dur-labhair  
-ākārā3dibhir guṇā1tiśayaiś ca preryamāṇayā  
-tad-racitair eva kusuma-śekhara-srag-anulepanā3dibhiś  
-ciram upāsitā  asi |  
-sādṛśyaṃ ca svam anena svayam eva  abhilikhya  
-tvat-samādhi-gāḍhatva-darśanāya preṣi tam |  
-eṣa ced artho niścitas tasya  amuṣya   
-atimānuṣa-prāṇa-sattva-prajñā-prakarṣasya na  
-kiñ=cid duṣkaraṃ nāma |  
-tam adyai7va darśayeyam |  
-saṅketo deyaḥ ' iti |  
-tayā tu kiñ=cid iva dhyātvā punar abhihitam - ' amba  
-tava nai7tad idānīṃ gopya-tamam |  
-ataḥ kathayāmi |  
-mama tātasya rājñā prahāra-varmaṇā saha mahatī  
-prītir āsīt |  
-mātuś ca me mānavatyāḥ priya-vayasyā devī  
-priyamvadā0sīt |  
-tābhyāṃ punar a-jātā1patyābhyām eva kṛtaḥ samayo  
-abhūt -- ' āvayoḥ putravatyāḥ putrāya duhitṛmatyā  
-duhitā deyā ' iti |  
-tātas tu māṃ jātāṃ pranaṣṭā1patyā  
-priyamvade9ti prārthayamānāya vikaṭa-varmaṇe daivād  
-dattavān |  
-ayaṃ ca niṣṭhuraḥ pitṛ-drohī na   
-atyupasanna-saṃsthānaḥ kāmo1pacāreṣv  
-a-labdha-vaicakṣaṇyaḥ kalāsu kāvya-nāṭakā3diṣu  
-mandā1bhiniveśaḥ śauryo1nmādī dur-vikatthano  
-an-ṛta-vādī ca  a-sthāna-varṣī |  
-na  atirocate me eṣa bhartā viśeṣataś cai7ṣu  
-vāsareṣu |  
-yad ayam udyāne mad-antaraṅga-bhūtāṃ puṣkarikām  
-apy upānta-vartinīm an-ādṛtya mayi  
-baddha-sāpatnya-matsarām an-ātma-jñām  
-ātma-nāṭakīyāṃ ramayantikā nāma   
-apatya-nir=viśeṣaṃ mat-samvardhitāyāś  
-campaka-latāyāḥ svayam avacitābhiḥ su=manobhir alam  
-akārṣīt |  
-mad-upabhukta-mukte citra-kūṭa-garbha-vedikā-gate  
-ratna-talpe tayā saha vyahārṣīt |  
-a-yogyaś ca pumān avajñātuṃ ca pravṛttaḥ |  
-tat kim ity apekṣyate |  
-para-loka-bhayaṃ ca  aihikena duḥkhena  antaritam |  
-a=viṣahyaṃ hi yoṣitām an=aṅga-śara-niṣaṅgī  
-bhūta-cetasām an=iṣṭa-jana-samvāsa-yantraṇā-duḥkham |  
-ato 'munā puruṣeṇa mām adyo7dyāna-mādhavī-gṛhe  
-samāgamaya |  
-tad-vārtā-śravaṇa-mātreṇai7va hi mama  atimātraṃ  
-mano 'nuraktam |  
-asti ca  ayam artha-rāśiḥ |  
-anena amuṣya pade pratiṣṭhāpya tam eva  atyantam  
-upacarya jīviṣyāmi ' iti |  
-mayā  api tad abhyupetya pratyāgatam |  
-ataḥ paraṃ bhartṛ-dārakaḥ pramāṇam ' iti |  
-tatas tasyā eva sakāśād antaḥ-pura-niveśam  
-antar-vamśika-puruṣa-sthānāni pramada-vana-pradeśān  
-api vibhāgena  avagamya  
-asta-giri-kūṭa-pāta-kṣubhita-śoṇita iva  
-śoṇībhavati bhānu-bimbe  
-paścimā1mbudhi-payaḥ-pāta-nirvāpita-pataṅgā1ṅgāra-dhūma-sambhāra   
-iva bharita-nabhasi tamasi vijṛmbhite para-dāra-parāmarśo1nmukhasya  
-mamā8cāryakam iva kartum utthite  
-guru-parigraha-ślāghini grahā1gre-sare kṣapā-kare  
-kalpa-sundarī-vadana-puṇḍarīkeṇe7va  
-mad-darśanā1tirāga-prathamo1panatena smayamānena  
-candra-maṇḍalena sandhukṣamāṇa-tejasi  
-bhuvana-vijigīṣo2dyate deve kusuma-dhanvani  
-yatho2citaṃ śayanīyam abhaje |  
-vyacītaraṃ ca - ' siddha-prāya eva  ayam arthaḥ |  
-kiṃ tu para-kalatra-laṅghanād dharma-pīḍā bhavet |  
-sā  apy artha-kāmayor dvayor upalambhe  
-śāstra-kārair anumatai9ve7ti |  
-guru-jana-bandha-mokṣo1pāya-sandhinā mayā cai7ṣa  
-vyatikramaḥ kṛtas tad api pāpaṃ nirhṛtya kiyatyā   
-api dharma-kalayā māṃ samagrayed iti |  
-api tv etad ākarṇya devo rāja-vāhanaḥ su-hṛdo vā  
-kiṃ nu vakṣyanti ' iti cintā-parā1dhīna eva nidrayā  
-parāmṛśye |  
-adṛśyata ca svapne hasti-vaktro bhagavān |  
-āha sma ca - ' saumya upahāra-varman mā sma te  
-dur-vikalpo bhūt |  
-yatas tvam asi mad-amśaḥ |  
-śaṅkara-jaṭā-bhāra-lālano1citā sura-sarid asau  
-vara-varṇinī |  
-sā ca kadā=cin mad-viloḍanā1=sahiṣṇur mām aśapat -  
-- ' ehi martyatvam ' iti |  
-aśapyata mayā ca - ' yathe9ha bahu-bhogyā tathā  
-prāpya  api mānuṣyakam an=eka-sādhāraṇī bhava ' iti |  
-abhyarthitaś ca  anayā ' eka-pūrvāṃ punas tvām  
-evo7pacarya yāvaj-jīvaṃ rameyam ' iti |  
-tad ayam artho bhavya eva bhavatā nir=āśaṅkyaḥ ' iti |  
-pratibudhya ca prīti-yuktas tad-ahar api  
-priyā-saṅketa-vyatikarā3di-smaraṇena  aham anaiṣam |  
-anye-dyur an-anyathā-vṛttir an-aṅgo mayy  
-eve7ṣu-varṣam avarṣat |  
-aśuṣyac ca jyotiṣmataḥ prabhā-mayaṃ saraḥ |  
-prāsarac ca timira-mayaḥ kardamaḥ |  
-kārdamika-nivasanaś ca dṛḍhatara-parikaraḥ  
-khaḍga-pāṇir upahṛto1paskaraḥ smaran mātṛ-dattāny  
-abhijñānāni rāja-mandira-parikhām ud-ambhasam  
-upātiṣṭham |  
-atho7pa khātaṃ mātṛ-gṛha-dvāre puṣkarikayā  
-prathama-samnidhāpitāṃ veṇu-yaṣṭim ādāya tayā  
-śāyitayā ca parikhāṃ sthāpitayā ca prākāra-bhittim  
-alaṅghayam |  
-adhiruhya pakve1ṣṭaka-citena  
-gopuro1pari-talā1dhirohiṇā sopāna-pathena bhuvam  
-avātaram |  
-avatīrṇaś ca vakula-vīthīm atikramya  
-campakā3vali-vartmanā manāg ivo7pasṛtyo7ttarāhi  
-karuṇaṃ cakra-vāka-mithuna-ravam aśṛṇavam |  
-punar udīcā pāṭali-pathena  
-sparśa-labhya-viśāla-saudha-kuḍyo1dareṇa śara-kṣepam  
-iva gatvā punaḥ prācā  
-piṇḍī-bhāṇḍīra-khaṇḍa-maṇḍito1bhaya-pārśvena  
-saikata-pathena kiñ=cid uttaram atikramya punar  
-avācīṃ cūta-vīthīm agāhiṣi |  
-tataś ca gahanataram udaro1paracita-ratna-vedikaṃ  
-mādhavī-latā-maṇḍapam  
-īṣad-vivṛta-samudgako1nmiṣita-bhāsā dīpa-vartyā  
-nyarūpayam |  
-praviśya cai7ka-pā rśve  
-phulla-puṣpa-nirantara-kuraṇṭa-pota-paṅkti-bhitti-parigataṃ garbha-gṛham  
-avani-patitā1ruṇā1śoka-latā-mayam  
-abhinava-kusuma-koraka-pulaka-lāñchitaṃ  
-pratyagra-pravāla-paṭala-pāṭalaṃ kapāṭam udghāṭya  
-prāvikṣam |  
-tatra cā8sīt sv-āstīrṇaṃ kusuma-śayanam  
-surato1pakaraṇa-vastu-garbhāś ca  
-kamalinī-palāśa-sampuṭāḥ danta-mayas tāla-vṛntaḥ  
-surabhi-salila-bharitaś ca bhṛṅgārakaḥ |  
-samupaviśya muhūrtaṃ viśrāntaḥ parimalam  
-atiśayavantam āghrāsiṣam |  
-aśrauṣaṃ ca manda-mandaṃ pada-śabdam |  
-śrutvai9va saṅketa-gṛhān nirgatya  
-raktā1śoka-skandha-pārśva-vyavahitā1ṅga-yaṣṭiḥ  
-sthito 'smi |  
-sā ca su-bhrūr a=suṣīma-kāmā śanair upetya tatra  
-mām a-dṛṣṭvā balavad avyathiṣṭa |  
-vyasṛjac ca matta-rāja-hamsī9va  
-kaṇṭha-rāga-valgu-gadgadāṃ giram -- ' vyaktam asmi  
-vipralabdhā |  
-na  asty upāyaḥ prāṇitum |  
-ayi hṛdaya kim idam a=kāryaṃ kāryavad adhyasya  
-tad-a=sambhavena kim evam uttāmyasi |  
-bhagavan pañca-bāṇakas tava  aparādhaḥ kṛto mayā  
-yad evaṃ dahasi na ca bhasmīkaroṣi ' iti |  
-atha  aham āvirbhūya vivṛta-dīpa-bhājanaḥ ' bhāmini  
-nanu bahv aparāddhaṃ bhavatyā citta-janmano yad  
-amuṣya jīvita-bhūtā ratir ākṛtyā kadarthitā  
-dhanur-yaṣṭir bhrū-latābhyām bhramara-mālā-mayī  
-jyā nīlā1laka-dyutibhiḥ astrāṇy   
-apāṅga-vīkṣita-vṛṣṭibhiḥ  
-mahā-rajana-dhvaja-paṭā1mśukaṃ  
-danta-cchada-mayūkha-jālaiḥ prathama-suhṛn  
-malaya-mārutaḥ parimala-paṭīyasā niḥśvāsa-pavanena  
-parabhṛta-rutam ati-mañjulaiḥ pralāpaiḥ puṣpa-mayī  
-patākā bhuja-yaṣṭibhyām  
-dig-vijayā3rambha-pūrṇa-kumbha-mithunam  
-uroja-kumbha-yugalena krīḍā-saro nābhi-maṇḍalena  
-samnāhya-rathaḥ śroṇi-maṇḍalena  
-bhava-ratna-toraṇa-sta mbha-yugalam ūru-yugalena  
-līlā-karṇa-kisalayaṃ caraṇa-tala-prabhābhiḥ |  
-ataḥ sthānae eva tvāṃ dunoti mīna-ketuḥ |  
-māṃ punar an=aparādham adhikam āyāsayatī7ty eṣa  
-eva tasya doṣaḥ |  
-tat prasīda sundari jīvaya māṃ jīvanau3ṣadhibhir  
-iva  apāṅgair an=aṅga-bhujaṅga-daṣṭam |  
-' ity āśliṣṭavān |  
-arīramaṃ ca  an=aṅga-rāga-peśala-viśāla-locanām |  
-avasitā1rthāṃ cā8rakta-valite3kṣaṇām  
-īṣat-sveda-rekho2dbheda-jarjarita-kapola-mūlām  
-an=argala-kala-pralāpinīm  
-aruṇa-daśana-kara-ruhā1rpaṇa-vyatikarām  
-atyartha-pariślathā1ṅgīm ārtām iva lakṣayitvā  
-mānasīṃ śārīrīṃ ca dhāraṇāṃ śithilayann  
-ātmānam api tayā samānā1rtham āpādayam |  
-tat-kṣaṇa-vimukta-saṅgatau ratā1vasānikaṃ vidhim  
-anubhavantau cira-paricitāv iva  atigūḍha-viśrambhau  
-kṣaṇam avātiṣṭhāvahi |  
-punar aham uṣṇam āyataṃ ca niḥśvasya  
-kiñ=cid-dīna-dṛṣṭiḥ sa-cakita-prasāritābhyāṃ  
-bhujābhyām enām an=atipīḍaṃ pariṣvajya na   
-ativiśadam acumbiṣam |  
-aśru-mukhī tu sā ' yadi prayāsi nātha prayātam eṣa  
-me jīvitaṃ gaṇaya |  
-naya mām api |  
-na ced asau dāsa-jano niṣ-prayojanaḥ | ' ity añjalim  
-avatamsatām anaiṣīt |  
-avādiṣaṃ ca tām -- ' ayi mugdhe kaḥ sa-cetanaḥ  
-striyam abhikāmayamānāṃ na  abhinandati |  
-yadi mad-anugraha-niścalas tava  abhisandhir ācara   
-a=vicāraṃ mad-upadiṣṭam |  
-ādarśaya rahasi rājñe mat-sādṛśya-garbhaṃ  
-citra-paṭam |  
-ācakṣva ca - ' kim iyam ākṛ tiḥ puruṣa-saundaryasya  
-pāram ārūḍhā na vā ' iti |  
-' bāḍham ārūḍhā ' iti nūnam asau vakṣyati |  
-brūhi bhūyaḥ -- ' yady evam asti kā  api tāpasī  
-deśā1ntara-bhramaṇa-labdha-prāgalbhyā mama ca  
-mātṛ-bhūtā |  
-taye9dam ālekhya-rūpaṃ puraskṛtya  aham uktā -- '  
-so 'sti tādṛśo mantro yena tvam upoṣitā parvaṇi  
-viviktāyāṃ bhūmau puro-hitair huta-mukte saptā1rciṣi  
-naktam ekākinī śataṃ candana-samidhaḥ  
-karpūra-muṣṭīḥ paṭṭa-vastrāṇi ca prabhūtāni  
-hutvā bhaviṣyasy evam-ākṛtiḥ |  
-atha cālayiṣyasi ghaṇṭām |  
-ghaṇṭā-puṭa-kvaṇitā3hūtaś ca bhartā bhavatyai  
-sarva-rahasyam ākhyāya nimīlitā1kṣo yadi tvām  
-āliṅget iyam ākṛ tir amum upasaṅkrāmet |  
-tvaṃ tu bhaviṣyasi yathā purā4kārai9va |  
-yadi bhavatyai bhavat-priyāya cai7vaṃ roceta na ca   
-asmin vidhau visamvādaḥ kāryaḥ ' iti |  
-vapuś ced idaṃ tava  abhimataṃ saha  
-suhṛn-mantribhir anujaiḥ paura-jānapadaiś ca  
-saṃpradhārya teṣām apy anumate karmaṇy abhimukhena  
-stheyam ' iti |  
-sa niyatam abhyupaiṣyati |  
-punar asyām eva pramada-vana-vāṭī-śṛṅgāṭikāyām  
-ātharvaṇikena vidhinā sañjñapita-paśunā  abhihutya  
-mukte hiraṇya-retasi tad-dhūma-śamalena sampraviṣṭena  
-mayā  asminn eva latā-maṇḍape sthātavyam |  
-tvaṃ punaḥ pragāḍhāyāṃ pradoṣa-velāyām  
-ālapiṣyasi karṇe kṛta-narma-smitā vikaṭa-varmāṇam --  
-' dhūrto 'si tvam a=kṛta-jñaś ca |  
-mad-anugraha-labdhena  api rūpeṇa  
-loka-locano1tsavāyamānena mat-sapatnīr abhiramayiṣyasi |  
-na  aham ātma-vināśāya vetālo1tthāpanam ācareyam '  
-iti |  
-śrutve9daṃ tvad-vacaḥ sa yad vadiṣyati tan mahyam  
-ekākiny upāgatya nivedayiṣyasi |  
-tataḥ param aham eva jñāsyāmi |  
-mat-pada-cihnāni co7pavane puṣkarikayā pramārjaya ' iti |  
-sā ' tathā ' iti śāstro1padeśam iva mad-uktam ādṛtya  
- a=tṛpta-surata-rāgai9va kathaṃ=katham apy agād  
-antaḥ-puram |  
-aham api yathā-praveśaṃ nirgatya svam evā8vāsam  
-ayāsiṣam |  
-  
-atha sā matta-kāśinī tathā tam artham anvatiṣṭhat |  
-atiṣṭhac ca tan-mate sa dur-matiḥ |  
-abhramac ca paura-jānapadeṣv iyam adbhutāyamānā  
-vārtā -- ' rājā kila vikaṭa-varmā devī-mantra-balena  
-deva-yogyaṃ vapur āsādayiṣyati |  
-nūnam eṣa vipralambho na  ati-kalyāṇaḥ |  
-kai9va kathā pramādasya |  
-svasminn eva  antaḥ-puro1pavane svā1gra-mahiṣyai9va  
-sampādyaḥ kila  ayam arthaḥ |  
-tathā hi bṛhaspati-pratima-buddhibhir mantribhir apy  
-abhyūhya  anumataḥ |  
-yady evaṃ bhāvi na  anyad ataḥ param asti kiñ=cid  
-adbhutam |  
-a=cintyo hi maṇi-mantrau3ṣadhīnāṃ prabhāvaḥ |  
-' iti prasṛteṣu loka-pravādeṣu prāpte parva-divase  
-pragāḍhāyāṃ prauḍha-tamasi pradoṣa-velāyām  
-antaḥ-puro1dyānād udairayad  
-dhūrjaṭi-kaṇṭha-dhūmro dhūmo1dgamaḥ |  
-kṣīrā3jya-dadhi-tila-gaura-sarṣapa-vasā-māmsa-rudhira  
--āhutīnāṃ ca parimalaḥ pavanā1nusārī diśi diśi  
-prāvātsīt |  
-praśānte ca sahasā dhūmo1dgame tasminn aham aviśam |  
-niśānto1dyānam āgamac ca gaja-gāminī |  
-āliṅgya ca māṃ sa-smitaṃ samabhyadhatta -- ' dhūrta  
-siddhaṃ te samīhitam |  
-avasitaś ca paśur asau |  
-amuṣya pralobhanāya tvad-ādiṣṭayā diśā mayo9ktam   
--- ' kitava na sādhayāmi te saundaryam |  
-evaṃ sundaro hi tvam apsarasām api spṛhaṇīyo  
-bhaviṣyasi kim uta mānuṣīṇām |  
-madhu-kara iva nisarga-capalo yatra kva=cid āsajjati  
-bhavādṛśo nṛ-śamsaḥ ' iti |  
-  
-tena tu me pādayor nipatya  abhihitam -- ' rambho4ru  
-sahasva mat-kṛtāni duś-caritāni |  
-manasā  api na cintayeyam itaḥ param itara-nārīm |  
-tvarasva prastute karmaṇi ' iti |  
-tad aham īdṛśena vaivāhikena nepathyena tvām  
-abhisṛtavatī |  
-prāg api rāgā1gni-sākṣikam an-aṅgena guruṇā  
-dattai9va tubhyam eṣā jāyā |  
-punar apī7maṃ jāta-vedasaṃ sākṣīkṛtya  
-sva-hṛdayena dattā ' iti prapadena caraṇa-pṛṣṭhe  
-niṣpīḍyo7tkṣipta-pāda-pārṣṇir  
-itare1tara-vyatiṣakta-komalā1ṅguli-dalena  
-bhuja-latā-dvayena kandharāṃ mamā8veṣṭya sa-līlam  
-ānanam ānamayya svayam  
-unnamita-mukha-kamalā1-vibhrānta-viśāla-dṛṣṭir  
-a-sakṛd abhyacumbat |  
-  
-athai7nām ' ihai7va kuraṇṭaka-gulma-garbhe tiṣṭha  
-yāvad ahaṃ nirgatya sādhayeyaṃ sādhyaṃ samyak iti  
-visṛjya tām upasṛtya homā1nala-pradeśam  
-aśoka-śākhā2valambinīṃ ghaṇṭām acālayam |  
-akūjac ca sā taṃ janaṃ  
-kṛtānta-dūtī9vā8hvayantī |  
-prāvartiṣi ca  aham a-guru-candana-pramukhāni hotum |  
-āyāsīc ca rājā yatho2ktam deśam |  
-śaṅkā4pannam iva kiñ-cit sa-vismayaṃ vicārya  
-tiṣṭhantam abravam - ' brūhi satyaṃ bhūyo 'pi me  
-bhagavantaṃ citra-bhānum eva sākṣīkṛtya |  
-na ced anena rūpeṇa mat-sapatnīr abhiramayiṣyasi  
-tatas tvayī7daṃ rūpaṃ saṅkrāmayeyam ' iti |  
-sa tadai9va devy eve7yam no7padhiḥ iti   
-sphuṭo1pajāta-sampratyayaḥ prāvartata śapathāya |  
-smitvā punar mayo9ktam - ' kiṃ vā śapathena |  
-kai9va hi mānuṣī māṃ paribhaviṣyati |  
-yady apsarobhiḥ saṅgacchase saṅgacchasva kāmam |  
-kathaya kāni te rahasyāni |  
-tat-kathanā1nte hi tvat-sva-rūpa-bhraṃśaḥ ' iti |  
-so 'bravīt - ' asti baddho mat-pituḥ kanīyān bhrātā  
-prahāra-varmā |  
-taṃ viṣā1nnena vyāpādya a-jīrṇa-doṣaṃ  
-khyāpayeyam iti mantribhiḥ saha  adhyavasitam |  
-anujāya viśāla-varmaṇe daṇḍa-cakraṃ  
-puṇḍra-deśā1bhikramaṇāya ditsitam |  
-paura-vṛddhaś ca pāñcālikaḥ paritrātaś ca  
-sārtha-vāhaḥ khanati-nāmno yavanād vajram ekaṃ  
-vasundharā-mūlyaṃ laghīyasā  argheṇa labhyam iti  
-mamai7kānte amantrayetām |  
-gṛha-patiś ca mama  antaraṅga-bhūto  
-janapada-mahattaraḥ śata-halir alīka-vāda-śīlam  
-avalepavantaṃ duṣṭa-grāmaṇyam ananta-sīraṃ  
-janapada-kopena ghātayeyam iti daṇḍa-dharān  
-uddhāra-karmaṇi mat-prayogān niyoktum abhyupāgamat |  
-ittham idam a-cira-prastutaṃ rahasyam ity ākarṇya tam '  
-iyat tavā8yuḥ |  
-upapadyasva sva-karmo1citāṃ gatim ' iti cchurikayā  
-dvidhā kṛtya kṛtta-mātraṃ tasminn eva  
-pravṛtta-sphīta-sarpiṣi hiraṇya-retasy ajuhavam |  
-abhūc ca  asau bhasmasāt |  
-atha strī-svabhāvād īṣad-vihvalāṃ  
-hṛdaya-vallabhāṃ samāśvāsya hasta-kisalaye  
-avalambya gatvā tad-gṛham anujñayā  asyāḥ sarvāṇy  
-antaḥ-purāṇy āhūya sadya eva sevāṃ dattavān |  
-sa-vismita-vilāsinī-sārtha-madhye kañ-cid vihṛtya  
-kālaṃ visṛṣṭā1varodha-maṇḍalas tām eva  
-samhato3rūm ūrū1papīḍaṃ bhujo1papīḍaṃ  
-co7pagūhya talpe 'bhiramayann alpām iva tāṃ niśām  
-atyanaiṣam |  
-alabhe ca tan-mukhāt tad-rāja-kulasya śīlam |  
-uṣasi snātvā kṛta-maṅgalo mantribhiḥ saha samagacche |  
-tāmś ca  abravam --  ' āryāḥ rūpeṇai7va saha  
-parivṛtto mama svabhāvaḥ |  
-ya eṣa viṣā1nnena hantuṃ cintitaḥ pitā me sa  
-muktvā svam etad rājyaṃ bhūya eva grāhayitavyaḥ |  
-pitṛvad amuṣmin vayaṃ śuśrūṣayai9va vartāmahe |  
-na hy asti pitṛ-vadhāt paraṃ pātakam ' iti |  
-bhrātaraṃ ca viśāla-varmāṇam āhūyo7ktavān -- '  
-vatsa na su-bhikṣāḥ sāmprataṃ puṇḍrāḥ |  
-te duḥkha-moho1pahatās tyaktā3tmāno rāṣṭraṃ  
-naḥ samṛddham abhidraveyuḥ |  
-ato muṣṭi-vadhaḥ sasya-vadho vā yado9tpadyate tadā  
- abhiyāsyasi |  
-na  adya yātrā yuktā ' iti |  
-nagara-vṛddhāv apy alāpiṣam -- ' alpīyasā mūlyena  
-mahā2rhaṃ vajra-vastu mā  astu me labhyaṃ  
-dharma-rakṣāyai tad-anuguṇenai7va mūlyena  adaḥ  
-krīyatām ' iti |  
-śata-haliṃ ca rāṣṭra-mukhyam āhūya ākhyātavān --  
-' yo 'sāv ananta-sīraḥ prahāra-varmaṇaḥ pakṣa iti  
-nināśayiṣitaḥ so 'pi pitari me prakṛti-sthe kim iti  
-nāśyeta tat tvayā  api tasmin samrambho na kāryaḥ '  
-iti |  
-tae ime sarvam ābhijñānikam upalabhya ' sa eva  ayam  
-iti niścinvānā vismayamānāś ca tāṃ mahā-devīṃ  
-ca praśamsanto mantra-balāni co7dghoṣayanto bandhanāt  
-pitarau niṣkrāmayya svaṃ rājyaṃ pratya pādayan |  
-ahaṃ ca tayā me dhātryā sarvam idaṃ mama ceṣṭitaṃ  
-rahasi pitror avagamayya  
-praharṣa-kāṣṭhā2dhirūḍhayos tayoḥ pāda-mūlam  
-abhaje |  
-abhajye ca yauvarājya-lakṣmyā tad-anujñātayā |  
-prasādhitā3tmā deva-pāda-viraha-duḥkha-durbhagān  
-bhogān nirviśan bhūyo 'sya pitṛ-sakhasya  
-simha-varmaṇo lekhyāc caṇḍa-varmaṇaś  
-campā2bhiyogam avagamya ' śatru-vadho mitra-rakṣā  
-co7bhayam api karaṇīyam eva ' ity a-laghunā  
-laghu-samutthānena sainya-cakreṇa  abhyasaram |  
-abhūvaṃ ca bhūmis  
-tvat-pāda-lakṣmī-sākṣāt-kriyā-maho2tsavā3nanda-rāśeḥ ' iti |  
-śrutvai9tad devo rāja-vāhanaḥ sa-smitam avādīt -- '  
-paśyata pāra-talpikam upadhi-yuktam api  
-guru-jana-bandha-vyasana-mukti-hetutayā  
-duṣṭā1-mitra-pramāpaṇā1bhyupāyatayā  
-rājyo1palabdhi-mūlatayā ca puṣkalāv artha-dharmāv  
-apy arīradhat |  
-kiṃ hi buddhimat-prayuktaṃ na  abhyupaiti śobhām '  
-iti |  
-artha-pāla-mukhe nidhāya snigdha-dīrghāṃ dṛṣṭim '  
-ācaṣṭāṃ bhavān ātmīya-caritam ' ity ādideśa |  
-so 'pi baddhā1ñjalir abhidadhe --  
-  
-/ iti śrīdaṇḍinaḥ kṛtau daśa-kumāra-caritae   
-upahāra-varma caritaṃ nāma tṛtīya ucchvāsaḥ /   
-  
-/ pañcama ucchvāsaḥ /  
-  
-so 'pi praṇamya vijñāpayāmāsa - ' deva devasya   
-anveṣaṇāya dikṣu bhramann abhraṃ-kaṣasya  api  
-vindhya-pārśva-rūḍhasya vanaspater adhaḥ pariṇata-pataṅga-bāla-pallavā1vatamsite  
-paścima-dig-aṅganā-mukhe palvalā1mbhasy  
-upaspṛśyo7pāsya sandhyāṃ tamaḥ-samīkṛteṣu  
-nimno1nnateṣu gantum a-kṣamaḥ kṣamā-tale kisalayair  
-uparacayya śayyāṃ śiśayiṣamāṇaḥ śirasi kurvann  
-añjalim ' yā  asmin vanaspatau vasati devatā sai9va me  
-śaraṇam astu śarāru-cakra-cāra-bhīṣaṇāyāṃ  
-śarva-gala-śyāma-śārvarā1ndhakāra-pūrā3dhmāta-gabhīra-gahvarāyām   
-asyāṃ mahā2ṭavyām ekakasya me  
-prasuptasya ' ity upadhāya vāma-bhujam aśayiṣi |  
-tataḥ kṣaṇād eva  avani-durlabhena sparśena  asu  
-khāyiṣata kim āpa gātrāṇi āhlādayiṣate7ndriyāṇi  
-abhyamanāyiṣṭa ca  antar-ātmā viśeṣataś ca  
-hṛṣitās tanū-ruhāḥ paryasphuran me dakṣiṇa-bhujaḥ |  
-' kathaṃ nv idam ' iti manda-mandam unmiṣann upary  
-accha-candrā3tapa-ccheda-kalpaṃ śuklā1mśuka-vitānam  
-aikṣiṣi |  
-vāmato valita-dṛṣṭiḥ samayā saudha-bhittiṃ  
-citrā3staraṇa-śāyinam ati-viśrabdha-prasuptam  
-aṅganā-janam alakṣayam |  
-dakṣiṇato datta-cakṣur āgalita-stanā1mśukām  
-amṛta-phena-paṭala-pāṇḍura-śayana-śāyinīm  
-ādi-varāha-damṣṭrā2mśu-jāla-lagnām  
-amsa-srasta-dugdha-sāgara-dukūlo1ttarīyāṃ  
-bhaya-sādhvasa-mūrchitām iva dharaṇīm  
-aruṇā1dhara-kiraṇa-bāla-kisalaya-lāsya-hetubhir  
-ānanā1ravinda-parimalo1dvāhibhir  
-niḥśvāsa-mātariśvabhir  
-īśvare3kṣaṇa-dahana-dagdhaṃ sphuliṅga-śeṣam  
-an-aṅgam iva sandhukṣayantīm antaḥ-supta-ṣaṭ-padam  
-ambujam iva jāta-nidraṃ sa-rasam  
-āmīlita-locane1ndīvaram ānanaṃ dadhānām  
-airāvata-madā1valepa-lūnā1paviddhām iva  
-nandana-vana-kalpa-vṛkṣa-ratna-vallarīm kām api  
-taruṇīm ālokayam |  
-atarkayaṃ ca - ' kva gatā sā mahā2ṭavī kuta idam  
-ūrdhvā1ṇḍa-kapāla-saṃ puṭo1daro1llekhi  
-śakti-dhvaja-śikhara-śūlo1tsedhaṃ saudham āgatam kva  
-ca tad-araṇya-sthalī-samāstīrṇaṃ pallava-śayanam  
-kutastyaṃ ce7dam indu-gabhasti-sambhāra-bhāsuraṃ  
-hamsa-tūla-dukūla-śayanam |  
-eṣa ca ko nu  
-śīta-raśmi-kiraṇa-rajju-dolā-paribhraṣṭa-mūrchita  
-iva  apsaro-gaṇaḥ svaira-suptaḥ sundarī-janaḥ kā  
-ce7yaṃ devī9va  aravinda-hastā  
-śārada-śaśā1ṅka-maṇḍalā1mala-dukūlo1ttara-cchadam  
-adhiśete śayana-talam |  
-na tāvad eṣā deva-yoṣā yato manda-mandam  
-indu-kiraṇaiḥ samvāhyamānā kamalinī9va saṅkucati |  
-bhagna-vṛnta-cyuta-rasa-bindu-śabalitaṃ  
-pāka-pāṇḍu-cūta-phalam ivo7dbhinna-sveda-rekham  
-ālakṣyate gaṇḍa-sthalam |  
-abhinava-yauvana-vidāha-nirbharo3ṣmaṇi kuca-taṭe  
-vaivarṇyam upaiti varṇakam |  
-vāsasī ca paribhogā1nurūpaṃ dhūsarimāṇam  
-ādarśayataḥ |  
-tad eṣā mānuṣy- eva |  
-diṣṭyā ca  an-ucchiṣṭa-yauvanā yataḥ saukumāryam  
-āgatāḥ samhatā iva  avayavāḥ prasnigdhatamā  api  
-pāṇḍutā2nuviddhe9va deha-cchaviḥ danta-pīḍā2n-abhijñatayā   
-na  ati-viśada-rāgo mukhe vidruma-dyutir adhara-maṇiḥ   
-an-aty-āpūrṇam ārakta-mūlaṃ campaka-kuḍmala-dalam iva kaṭhoraṃ  
-kapola-talam an-aṅga-bāṇa-pāta-muktā3śaṅkaṃ ca  
-viśrabdha-madhuraṃ supyate na cai7tad-vakṣaḥ-sthalaṃ  
-nir-daya-vimarda-vistārita-mukha-stana-yugalam asti ca   
-an-ati krānta-śiṣṭa-maryāda-cetaso mama  asyām  
-āsaktiḥ |  
-āsakty-anurūpaṃ punar āśliṣṭā yadi spaṣṭam  
-ārta-raveṇai7va saha nidrāṃ mokṣyati |  
-atha  ahaṃ na śakṣyāmi ca  an-upaśliṣya śayitum |  
-ato yad bhāvi tad bhavatu |  
-bhāgyam atra parīkṣiṣye |  
-' iti spṛṣṭā1-spṛṣṭam eva kim apy  
-āviddha-rāga-sādhvasaṃ lakṣya-suptaḥ sthito 'smi |  
-sā  api kim apy utkampinā romo1dbhedavatā  
-vāma-pārśvena sukhāyamānena  
-manda-manda-jṛmbhita-kārambha-mantharā1ṅgī  
-tvaṅgad-agra-pakṣmaṇoś cakṣuṣor  
-alasa-tānta-tārakeṇa   
-an-atipakva-nidrā-kaṣāyitā1pāṅga-para-bhāgeṇa  
-yugalene8ṣad unmilantī  
-trāsa-vismaya-harṣa-rāga-śaṅkā-vilāsa-vibhrama-vyavahitāni   
-vrīḍā2ntarāṇi kāni kāny api kāmena   
-adbhutā1nubhāvena  avasthā2ntarāṇi kāryamāṇā  
-parijana-prabodhano1dyatā giraṃ  
-kāmā3vega-para-vaśaṃ hṛdayam aṅgāni ca  
-sādhvasā3yāsa-sambadhyamāna-sveda-pulakāni kathaṃ  
-katham api nigṛhya sa-spṛheṇa  
-madhura-kūṇita-tri-bhāgeṇa manda-manda-pracāritena  
-cakṣuṣā mad-aṅgāni nirvarṇya  
-dūro1tsarpita-pūrva-kāyā  api tasminn eva śayane  
-sa-cakitam aśayiṣṭa |  
-ajaniṣṭa me rāgā3viṣṭa-cetaso 'pi kim api nidrā |  
-punar an-anukūla-sparśa-duḥkhā3yatta-gātraḥ  
-prābudhye |  
-prabuddhasya ca me sai9va mahā2ṭavī tad eva  
-taru-talaṃ sa eva patrā3staro 'bhūt |  
-vibhāvarī ca vyabhāsīt |  
-abhūc ca me manasi   
-- ' kim ayaṃ svapnaḥ kiṃ vipralambho vā kim iyam  
-āsurī daivī vā kā  api māyā |  
-yad bhāvi tad bhavatu |  
-na  aham idaṃ tatvato na  avabudhya mokṣyāmi  
-bhūmi-śayyām |  
-yāvad-āyur atratyāyai devatāyai pratiśayito bhavāmi  
-' iti niścita-matir atiṣṭham |  
-  
-athā8virbhūya kā  api  
-ravi-karā1bhitapta-kuvalaya-dāma-tāntā1ṅga-yaṣṭiḥ  
-kliṣṭa-nivasano1ttarīyā nir-alaktaka-rūkṣa-pāṭalena  
-niḥśvāso3ṣma-jarjarita-tviṣā danta-cchadena  
-vamantī9va virahā1nalam  
-an-avarata-salila-dhārā-visarjanād rudhirā1vaśeṣam  
-iva lohitataraṃ dvitayam akṣṇor udvahantī  
-kula-cāritra-bandhana-pāśa-vibhrameṇai7ka-veṇībhūtena  
-keśa-pāśena nīlā1mśuka-cīra-cūḍikā-parivṛtā  
-pati-vratā-patāke9va sañcarantī kṣāma-kṣāmā  api  
-devatā2nubhāvād an-atikṣīṇa-varṇā1vakāśā  
-sīmantinī praṇipatantaṃ māṃ praharṣo1tkampitena  
-bhuja-latā-dvayeno7tthāpya putra-vat pariṣvajya śirasy  
-upāghrāya vātsalyam iva stana-yugalena stanya-cchalāt  
-prakṣarantī śiśireṇa  aśruṇā niruddha-kaṇṭhī  
-sneha-gadgadaṃ vyāhārṣīt -- ' vatsa yadi vaḥ  
-kathitavatī magadha-rāja-mahiṣī vasumatī mama haste  
-bālam artha-pālaṃ nidhāya kathāṃ ca kāñ-cid  
-ātma-bhartṛ-putra-sakhī-janā1nubaddhāṃ  
-rāja-rāja-pravartitāṃ kṛtvā  antar-dhānam agād  
-ātmajā maṇi-bhadrasye7ti sā  aham asmi vo jananī |  
-pitur vo dharma-pāla-sūnoḥ sumitrā2nujasya  
-kāma-pālasya pāda-mūlān  
-niṣ-kāraṇa-kopa-kaluṣitā3śayā proṣya   
-anuśaya-vidhurā svapne kena  api rakṣo-rūpeṇo7petya  
-śaptā  asmi -- ' caṇḍikāyāṃ tvayi varṣa-mātraṃ  
-vasāmi pravāsa-duḥkhāya ' iti bruvatai9va  aham  
-āviṣṭā prābudhye |  
-gataṃ ca tad varṣaṃ varṣa-sahasra-dīrgham |  
-atītāyāṃ tu yāminyāṃ deva-devasya try-ambakasya  
-śrāvastyām utsava-samājam anubhūya bandhu-janaṃ ca  
-sthāna-sthānebhyaḥ samnipatitam abhisamīkṣya  
-mukta-śāpā patyuḥ pārśvam abhisarāmī7ti  
-prasthitāyām eva mayi tvam atra  abhyupetya ' prapanno  
-asmi śaraṇam ihatyāṃ devatām ' iti prasuptoasi |  
-evaṃ śāpa-duḥkhā3viṣṭayā tu mayā tadā na  
-tatvataḥ paricchinno bhavān |  
-api tu śaraṇā3gatam a-virala-pramādāyām asyāṃ  
-mahā2ṭavyām a-yuktaṃ parityajya gantum iti mayā tvam  
-api svapann eva  asi nītaḥ |  
-pratyāsanne ca tasmin deva-gṛhe punar acintayam -- '  
-katham iha taruṇena  anena saha samājaṃ gamiṣyāmi '  
-iti |  
-atha rājñaḥ śrāvastī4śvarasya yathā2rtha-nāmno  
-dharma-vardhanasya kanyāṃ nava-mālikāṃ  
-gharma-kāla-subhage kanyā-pura-vimāna-harmya-tale  
-viśāla-komalaṃ śayyā-talam adhiśayānāṃ  
-yad-ṛcchayo9palabhya ' diṣṭye9yaṃ suptā  
-parijanaś ca gāḍha-nidraḥ |  
-śetām ayam atra muhūrta-mātraṃ brāhmaṇa-kumāro  
-yāvat kṛta-kṛtyā nivarteya ' iti tvāṃ tatra  
-śāyayitvā tam uddeśam agamam |  
-dṛṣṭvā co7tsava-śriyam nirviśya ca  
-sva-jana-darśana-sukham abhivādya ca tri-bhuvane3śvaram  
-ātmā1līka-pratyākalano1pārūḍha-sādhvasaṃ ca  
-namaskṛtya bhakti-praṇata-hṛdayā bhagavatīm ambikāṃ  
-tayā giri-duhitrā devyā sa-smitam ' ayi bhadre mā  
-bhaiṣīḥ |  
-bhave7dānīṃ bhartṛ-pārśva-gāminī |  
-gatas te śāpaḥ ity anugṛhītā sadya eva  
-pratyāpanna-mahimā pratinivṛtya dṛṣṭvai9va tvāṃ  
-yathāvad abhyajānām - ' kathaṃ mat-suta eva  ayaṃ  
-vatsasya  artha-pālasya prāṇa-bhūtaḥ sakhā pramatir  
-iti |  
-pāpayā mayā  asminn a-jñānād audāsīnyam ācaritam  
-api ca  ayam asyām āsakta-bhāvaḥ |  
-kanyā cai7naṃ kāmayate yuvānam |  
-ubhau ce7mau lakṣya-suptau trapayā sādhvasena vā   
-anyo-anyam ātmānaṃ na vivṛṇvāte |  
-gantavyaṃ ca mayā |  
-kāmā3ghrātayā  apy anayā kanyayā  
-rahasya-rakṣaṇāya na samābhāṣitaḥ sakhī-janaḥ  
-parijano vā |  
-nayāmi tāvat kumāram |  
-punar apī7mam arthaṃ labdha-lakṣo yatho9papannair  
-upāyaiḥ sādhayiṣyati ' iti mat-prabhāva-prasvāpitaṃ  
-bhavantam etad eva patra-śayanam pratyanaiṣam |  
-evam idaṃ vṛttam |  
-eṣā ca  ahaṃ pitus te pāda-mūlaṃ pratyupasarpeyam  
-' iti prāñjaliṃ māṃ bhūyo bhūyaḥ pariṣvajya  
-śirasy upāghrāya kapolayoś cumbitvā sneha-vihvalā  
-gatā0sīt |   
-  
-ahaṃ ca pañca-bāṇa-vaśyaḥ śrāvastīm abhyavartiṣi |  
-mārge ca mahati nigame naigamānāṃ  
-tāmra-cūḍa-yuddha-kolāhalo mahān āsīt |  
-ahaṃ ca tatra samnihitaḥ kiñ-cid asmeṣi |  
-samnidhi-niṣaṇṇas tu me vṛddha-viṭaḥ ko 'pi  
-brāhmaṇaḥ śanaiḥ smita-hetum apṛcchat |  
-abravaṃ ca - ' katham iva nārikela-jāteḥ  
-prācya-vāṭa-kukkuṭasya pratīcya-vāṭaḥ puruṣair  
-a-samīkṣya balākā-jātis tāmra-cūḍo  
-bala-pramāṇā1dhikasyai7va prativisṛṣṭaḥ iti |  
-so 'pi taj-jñaḥ ' kim a-jñair ebhir vyutpāditaiḥ |  
-tūṣṇīm āssva ' ity upahastikāyās tāmbūlaṃ  
-karpūra-sahitam uddhṛtya mahyaṃ datvā citrāḥ kathāḥ  
-kathayan kṣaṇam atiṣṭhat |  
-prāyudhyata ca  ati-samrabdham  
-anuprahāra-pravṛtta-sva-pakṣa-mukta-kaṇṭhīrava-ravaṃ  
-vihaṅgama-dvayam |  
-jitaś ca  asau pratīcya-vāṭa-kukkuṭaḥ |  
-so 'pi viṭa-brāhmaṇaḥ  
-sva-vāṭa-kukkuṭa-vijaya-hṛṣṭo mayi vayo-viruddhaṃ  
-sakhyam upetya tad-ahaḥ sva-gṛhae eva snāna-bhojanā3di  
-kārayitvo9ttare-dyuḥ śrāvastīṃ prati yāntaṃ mām  
-anugamya ' smartavyo 'si saty arthe iti mitravad  
-visṛjya pratyayāsīt |  
-  
-ahaṃ ca gatvā śrāvastīm adhva-śrānto bāhyo1dyāne  
-latā-maṇḍape śayito 'smi |  
-hamsaka-rava-prabodhitaś co7tthāya kām api  
-kvaṇita-nūpura-mukharābhyāṃ caraṇābhyāṃ  
-mad-antikam upasarantīṃ yuvatīm adrākṣam |  
-sā tv āgatya sva-hasta-vartini citra-paṭe likhitaṃ  
-mat-sadṛśaṃ kim api puṃ-rūpaṃ māṃ ca paryāyeṇa  
-nirvarṇayantī sa-vismayaṃ sa-vitarkaṃ sa-harṣaṃ ca  
-kṣaṇam avātiṣṭhata |  
-mayā  api tatra citra-paṭe mat-sādṛśyaṃ paśyatā  
-tad-dṛṣṭi-ceṣṭitam an-ākasmikaṃ manyamānena ' nanu  
-sarva-sādhāraṇo 'yaṃ ramaṇīyaḥ  
-puṇyā3rāma-bhūmi-bhāgaḥ |  
-kim iti cira-sthiti-kleśoanubhūyate |  
-nanū7paveṣṭavyam ' ity abhihitā sā sa-smitam '  
-anugṛhītā  asmi ' iti nyaṣīdat |  
-saṅkathā ca deśa-vārtā2nubaddhā kācanā8vayor  
-abhūt |  
-kathā-samśritā ca sā ' deśā1tithir asi |  
-dṛśyante ca te 'dhva-śrāntānī7va gātrāṇi |  
-yadi na doṣo mad-gṛhe 'dya viśramitum anugrahaḥ  
-kriyatām ' ity aśamsat |  
-ahaṃ ca ' ayi mugdhe nai7ṣa doṣo guṇa eva ' iti  
-tad-anu-mārga-gāmī tad-gṛha-gato rājā1rheṇa  
-snāna-bhojanā3dino9pacaritaḥ sukhaṃ niṣaṇṇo  
-rahasi paryapṛcchye -- ' mahā-bhāga dig-antarāṇi  
-bhramatā kac-cid asti kiñ-cid adbhutaṃ  
-bhavato9palabdham ' iti |  
-mama  abhavan manasi -- ' mahad idam āśā4spadam |  
-eṣā khalu nikhila-parijana-sambādha-samlakṣitāyāḥ  
-sakhī rāja-dārikāyāḥ citra-paṭe ca  asminn api  
-tad-upari-viracita-sita-vitānaṃ harmya-talam tad-gataṃ  
-ca prakāma-vistīrṇaṃ śarad-abhra-paṭala-pāṇḍuraṃ  
-śayanam tad-adhiśāyinī ca nidrā4līḍha-locanā  
-mamai7ve7yaṃ pratikṛtiḥ |  
-ato nūnam an-aṅgena sā  api rāja-kanyā tāvatīṃ  
-bhūmim āropitā yasyām  
-a-sahya-madana-jvara-vyathito1nmāditā satī  
-sakhī-nirbandha-pṛṣṭa-vikriyā-nimittā  
-cāturyeṇai7tad-rūpa-nirmāṇenai7va samartham uttaraṃ  
-dattavatī |  
-rūpa-samvādāc ca samśayānayā  anayā pṛṣṭo  
-bhindyām asyāḥ samśayaṃ yathā2nubhava-kathanena '  
-iti jāta-niścayo 'bravam -- ' bhadre dehi citra-paṭam '  
-iti |  
-sā tv arpitavatī mad-dhaste |  
-punas tam ādāya tām api vyāja-suptām  
-ullasan-madana-rāga-vihvalāṃ vallabhām ekatrai7va   
-abhilikhya ' kā-cid evaṃ-bhūtā yuvatir īdṛśasya  
-pumsaḥ pārśva-śāyiny- araṇyānī-prasuptena  
-mayo9palabdhā |  
-kilai7ṣa svapnaḥ ' ity ālapaṃ ca |  
-hṛṣṭayā tu tayā vistarataḥ pṛṣṭaḥ sarvam eva  
-vṛttāntam akathayam |  
-asau ca sakhyā man-nimittāny avasthā2ntarāṇy  
-avarṇayat |  
-tad ākarṇya ca ' yadi tava sakhyā  
-mad-anugraho1nmukhaṃ mānasam gamaya kāni-cid ahāni |  
-kam api kanyā-pure nir-āśaṅka-nivāsa-karaṇam upāyam  
-āracayyā8gamiṣyāmi ' iti kathañ-cid enām  
-abhyupagamayya gatvā tad eva kharvaṭaṃ vṛddha-viṭena  
-samagaṃsi |  
-  
-so 'pi sa-sambhramaṃ viśramayya tathai9va  
-snāna-bhojanā3di kārayitvā rahasy apṛcchat -- ' ārya  
-kasya hetor a-cireṇai7va pratyāgato 'si | '  
-pratyavādiṣam enam - ' sthānae eva  aham āryeṇa   
-asmi pṛṣṭaḥ |  
-śrūyatām |  
-asti hi śrāvastī nāma nagarī |  
-tasyāḥ patir apara iva dharma-putro dharma-vardhano  
-nāma rājā |  
-tasya duhitā pratyādeśa iva śriyaḥ prāṇā iva  
-kusuma-dhanvanaḥ saukumārya-viḍambita-nava-mālikā  
-vana-mālikā nāma kanyā |  
-sā mayā samāpatti-dṛṣṭā kāma-nārāca-paṅktim iva  
-kaṭākṣa-mālāṃ mama marmaṇi vyakirat |  
-tac-chalyo1ddharaṇa-kṣamaś ca dhanvantari-sadṛśas  
-tvad ṛte ne7taro 'sti vaidya iti pratyāgato 'smi |  
-tat prasīda kañ-cid upāyam ācaritum |  
-ayam ahaṃ parivartita-strī-veṣas te kanyā nāma  
-bhaveyam |  
-anugataś ca mayā tvam upagamya dharmā3sana-gataṃ  
-dharma-vardhanaṃ vakṣyasi -- ' mame7yam ekai9va duhitā |  
-jāta-mātrāyāṃ tv asyāṃ janany asyāḥ saṃsthitā |  
-mātā ca pitā ca bhūtvā  aham eva vyavardhayam |  
-etad-artham eva vidyā-mayaṃ śulkam arjituṃ gato  
-abhūd avanti-nagarīm ujjayinīm asmad-vaivāhya-kulajaḥ  
-ko 'pi vipra-dārakaḥ |  
-tasmai ce7yam anumatā dātum itarasmai na yogyā |  
-taruṇī bhūtā ce7yam |  
-sa ca vilambitaḥ |  
-tena tam ānīya pāṇim asyā grāhayitvā tasmin  
-nyasta-bhāraḥ samnyasiṣye |  
-dur-abhirakṣatayā tu duhit-rṇāṃ mukta-śaiśavānāṃ  
-viśeṣataś ca  a-mātṛkāṇām iha devaṃ  
-mātṛ-pitṛ-sthānīyaṃ prajānām āpanna-śaraṇam  
-āgato 'smi |  
-yadi vṛddhaṃ brāhmaṇam adhītinam a-gatim atithiṃ ca  
-mām anugrāhya-pakṣe gaṇayaty ādi-rāja-carita-dhuryo  
-devaḥ sai9ṣā bhavad-bhuja-cchāyām  
-a-khaṇḍita-cāritrā tāvad adhyāstāṃ yāvad asyāḥ  
-pāṇi-grāhakam ānayeyam ' iti |  
-sa evam ukto niyatam abhimanāyamānaḥ  
-sva-duhitṛ-samnidhau māṃ vāsayiṣyati |  
-gatas tu bhavān āgāmini māsi phālgune  
-phalgunīṣū7ttarāsu bhāvini rājā1ntaḥ-pura-janasya  
-tīrtha-yātro2tsave tīrtha-snānāt prācyāṃ diśi  
-go-rutā1ntaram atikramya vānīra-valaya-madhya-vartini  
-kārttikeya-gṛhe kara-tala-gatena śuklā1mbara-yugalena  
-sthāsyasi |  
-sa khalv aham an-abhiśaṅka evai7tāvantaṃ kālaṃ  
-saha  abhivihṛtya rāja-kanyayā bhūyas tasminn utsave  
-gaṅgā2mbhasi viharan vihāra-vyākule kanyakā-samāje  
-magno1pasṛtas tvad-abhyāsae evo7nmaṅkṣyāmi |  
-punas tvad-upahṛte vāsasī paridhāya   
-apanīta-dārikā-veṣo jāmātā nāma bhūtvā tvām eva  
- anugaccheyam |   
-nṛpā3tmajā tu mām itas-tato 'nviṣya  
-an-āsādayantī ' tayā vinā na bhokṣye ' iti rudaty  
-eva avarodhane sthāsyati |  
-tan-mūle ca mahati kolāhale krandatsu parijaneṣu rudatsu  
-sakhī-janeṣu śocatsu paura-janeṣu  
-kiṅkartavyatā-mūḍhe sā1mātye pārthive tvam  
-āsthānīm etya māṃ sthāpayitvā vakṣyasi - ' deva sa  
-eṣa me jāmātā tava  arhati śrī-bhujā3rādhanam |  
-adhītī caturṣv āmnāyeṣu gṛhītī ṣaṭsv aṅgeṣu  
-ānvīkṣikī-vicakṣaṇaḥ  
-catuḥ-ṣaṣṭi-kalā4gama-prayoga-caturaḥ viśeṣeṇa  
-gaja-ratha-turaṅga-tantra-vit iṣv-asanā1stra-karmaṇi  
-gadā-yuddhe ca nir-upamaḥ purāṇe1tihāsa-kuśalaḥ  
-kartā kāvya-nāṭakā3khyāyikānām vettā  
-so1paniṣado 'rtha-śāstrasya nir-matsaro guṇeṣu  
-viśrambhī su-hṛtsu śakyaḥ samvibhāga-śīlaḥ  
-śruta-dharo gata-smayaś ca |   
-na  asya doṣam aṇīyāṃsam apy upalabhe |  
-na ca guṇeṣv a-vidyamānam |  
-tan mādṛśasya brāhmaṇa-mātrasya na labhya eṣa  
-sambandhī |  
-duhitaram asmai samarpya vārddhako1citam antyam  
-āśramaṃ saṅkrameyam yadi devaḥ sādhu manyate ' iti |  
-sa idam ākarṇya vaivarṇyā3krānta-vaktraḥ param  
-upeto vailakṣyam ārapsyate 'nunetum  
-a-nityatā4di-saṅkīrtanena  atra-bhavantaṃ  
-mantribhiḥ saha |  
-tvaṃ tu teṣām a-datta-śrotro mukta-kaṇṭhaṃ  
-ruditvā cirasya bāṣpa-kuṇṭha-kaṇṭhaḥ kāṣṭhāny  
-āhṛtya  agniṃ sandhukṣya rāja-mandira-dvāre  
-citā2dhirohaṇāyo7pakramiṣyase |  
-sa tāvad eva tvat-pādayor nipatya sā1mātyo  
-nara-patir a-nūnair arthais tvām upacchandya  
-duhitaraṃ mahyaṃ datvā mad-yogyatā-samārādhitaḥ  
-samastam eva rājya-bhāraṃ mayi samarpayiṣyati |  
-so 'yam abhyupāyo 'nuṣṭheyaḥ yadi tubhyaṃ rocate '  
-iti |  
-so 'pi paṭu-viṭānām agra-ṇīr  
-a-sakṛd-abhyasta-kapaṭa-prapañcaḥ pāñcāla-śarmā  
-yatho2ktam abhyadhikaṃ ca nipuṇam upakrāntavān |  
-āsīc ca mama samīhitānām a-hīna-kāla-siddhiḥ |  
-anvabhavaṃ ca madhu-kara iva nava-mālikām  
-ārdra-sumanasam |  
-asya rājñaḥ simha-varmaṇaḥ sāhāyya-dānaṃ  
-su-hṛt-saṅketa-bhūmi-gamanam ity ubhayam apekṣya  
-sarva-bala-sandohena campām imām upagato daivād  
-deva-darśana-sukham anubhavāmi ' iti |  
-śrutvai9tat-pramati-caritaṃ  
-smita-mukulita-mukha-nalinaḥ ' vilāsa-prāyam ūrjitam  
-mṛdu-prāyaṃ ceṣṭitam iṣṭa eṣa mārgaḥ  
-prajñāvatām |  
-athe7dānīm atra bhavān praviśatu iti mitra-guptam  
-aikṣata kṣitī3śa-putraḥ |  
-  
-  
-/ iti śrī daṇḍinaḥ kṛtau daśa-kumāra-carite   
-pramati-caritaṃ nāma pañcama ucchvāsaḥ |  
-/   
-  
-/ ṣaṣṭha ucchvāsaḥ /  
-  
-so 'py ācacakṣe -- ' deva so 'ham api  
-su-hṛt-sādhāraṇa-bhramaṇa-kāraṇaḥ suhmeṣu  
-dāma-liptā3hvayasya nagarasya bāhyo1dyāne mahāntam  
-utsava-samājam ālokayam |  
-tatra kva-cid atimukta-latā-maṇḍape kam=api  
-vīṇā-vādenā8tmānaṃ vinodayantam utkaṇṭhitaṃ  
-yuvānam adrākṣam |  
-aprā kṣaṃ ca -- ' bhadra ko nāma  ayam utsavaḥ kim  
-arthaṃ vā samārabdhaḥ kena vā nimitteno7tsavam  
-an-ādṛtyai7kānte bhavān utkaṇṭhita iva  
-parivādinī-dvitīyas tiṣṭhati ' iti |  
-so 'bhyadhatta - ' saumya suhma-patis tuṅga-dhanvā  
-nāma  an-apatyaḥ prārthitavān amuṣminn āyatane  
-vismṛta-vindhya-vāsa-rāgaṃ vasantyā  
-vindhya-vāsinyāḥ pāda-mūlād apatya-dvayam |  
-anayā ca kila  asmai pratiśayitāya svapne samādiṣṭam  
--- ' samutpatsyate tavai7kaḥ putraḥ janiṣyate cai7kā  
-duhitā |  
-sa tu tasyāḥ pāṇi-grāhakam anujīviṣyati |  
-sā tu saptamād varṣād ārabhyā8pariṇayanāt  
-prati-māsaṃ kṛttikāsu kanduka-nṛtyena  
-guṇavad-bhartṛ-lābhāya māṃ samārādhayatu |  
-yaṃ ca  abhilaṣet sā  amuṣmai deyā |  
-sa co7tsavaḥ kanduko1tsava-nāmā  astu ' iti |  
-tato 'lpīyasā kālena rājñaḥ priya-mahiṣī medinī  
-nāmai7kaṃ putram asūta |  
-samutpannā cai7kā duhitā |  
-sā  adya kanyā kandukāvatī nāma somā3pīḍāṃ  
-devīṃ kanduka-vihāreṇā3rādhayitum āgamiṣyati |  
-tasyās tu sakhī candra-senā nāma dhātreyikā mama  
-priyā0sīt |  
-sā cai7ṣu divaseṣu rāja-putreṇa bhīma-dhanvanā  
-balavad anuruddhā |  
-tad aham utkaṇṭhito  
-manmatha-śara-śalya-duḥkho1dvigna-cetāḥ kalena  
-vīṇā-raveṇā8tmānaṃ kiñ=cid āśvāsayan viviktam  
-adhyāse iti |  
-asminn eva kṣaṇe kim api nūpura-kvaṇitam upātiṣṭhat |  
-āgatā ca kā-cid aṅganā |  
-dṛṣṭvai9va sa enām utphulla-dṛṣṭir  
-utthāyo7pagūhya gāḍham upagūḍha-kaṇṭhaś ca tayā  
-tatrai7vo7pāviśat |  
-aśamsac ca -- ' sai9ṣā me prāṇa-samā yad-viraho  
-dahana iva dahati mām |  
-idaṃ ca me jīvitam apaharatā rāja-putreṇa  
-mṛtyune9va nir-uṣmatāṃ nītaḥ |  
-na ca śakṣyāmi rāja-sūnur ity amuṣmin pāpam  
-ācaritum |  
-ato 'nayā0tmānaṃ su-dṛṣṭaṃ kārayitvā  
-tyakṣyāmi niṣ-pratikriyān prāṇān ' iti |  
-sā tu paryaśru-mukhī samabhyadhāt -- ' mā sma nātha  
-mat-kṛte 'dhyavasyaḥ sāhasam |  
-yas tvam uttamāt sārtha-vāhād artha-dāsād utpadya  
-kośa-dāsa iti gurubhir abhihita-nāmadheyaḥ punar  
-mad-atyāsaṅgād veśa-dāsa iti dviṣadbhiḥ  
-prakhyāpito 'si tasmims tvayy uparate yady ahaṃ  
-jīveyaṃ nṛśamso veśa iti samarthayeyaṃ loka-vādam |  
-ato 'dyai7va naya mām īpsitaṃ deśam ' iti |  
-sa tu mām abhyadhatta -- ' bhadra bhavad-dṛṣṭeṣu  
-rāṣṭreṣu katamat samṛddhaṃ sampanna-sasyaṃ  
-sat-puruṣa-bhūyiṣṭhaṃ ca ' iti |  
-tam aham īṣad-vihasya  abravam -- ' bhadra  
-vistīrṇe9yam arṇavā1mbarā |  
-na paryanto 'sti sthāna-sthāneṣu ramyāṇām  
-janapadānām |  
-api tu na ced iha yuvayoḥ sukha-nivāsa-kāraṇaṃ  
-kam=apy upāyam utpādayituṃ śaknuyāṃ tato 'ham eva  
-bhaveyam adhva-darśī iti |  
-tāvato9dairata raṇitāni maṇi-nūpurāṇām |  
-atha  asau jāta-sambhramā ' prāptai9ve7yaṃ  
-bhartṛ-dārikā kandukāvatī kanduka-krīḍitena devīṃ  
-vindhya-vāsinīm ārādhayitum |  
-a-niṣiddha-darśanā ce7yam asmin kanduko1tsave |  
-sa-phalam astu yuṣmac-cakṣuḥ |  
-āgacchataṃ draṣṭum |  
-aham asyāḥ sakāśa-vartinī bhaveyam ' ity ayāsīt |  
-tām anvayāva cā8vām |  
-mahati ratna-raṅga-pīṭhe sthitāṃ prathamaṃ  
-tāmrau1ṣṭhīm apaśyam |  
-atiṣṭhac ca sā sadya eva mama hṛdaye |  
-na mayā  anyena vā  antarāle dṛṣṭā |  
-citrīyā4viṣṭa-cit taś ca  acintayam -- ' kim iyaṃ  
-lakṣmīḥ |  
-na hi na hi |  
-tasyāḥ kila haste vinyastaṃ kamalam asyās tu hasta  
-eva kamalam |  
-bhukta-pūrvā tu sā purātanena pumsā pūrva-rājaiś ca  
-asyāḥ punar an-avadyam a-yāta-yāmaṃ ca yauvanam ' iti  
-cintayaty eva mayi sā  an-agha-sarva-gātrī  
-vyatyasta-hasta-pallavā1gra-spṛṣṭa-bhūmir  
-ālola-nīla-kuṭilā1lakā sa-vibhramaṃ bhagavatīm  
-abhivandya kandukam a-manda-rāga-rūṣitā1kṣam an-aṅgam  
-ivā8lambata |  
-līlā-śithilaṃ ca bhūmau muktavatī |  
-mando1tthitaṃ ca kiñ=cit-kuñcitā1ṅguṣṭhena  
-prasṛta-komalā1ṅgulinā pāṇi-pallavena samāhatya  
-hasta-pṛṣṭhena co7nnīya caṭula-dṛṣṭi-lāñchitaṃ  
-stabakam iva bhramara-mālā2nuviddham avapatantam  
-ākāśae eva  agrahīt |  
-amuñcac ca |  
-madhya-vilambita-laye druta-laye mṛdu-mṛdu ca praharantī  
-tat-kṣaṇaṃ cūrṇa-padam adarśayat |  
-praśāntaṃ ca taṃ nir-daya-prahārair udapādayat |  
-viparyayeṇa ca prāśamayat |  
-pakṣam ṛjv-āgataṃ ca vāma-dakṣiṇābhyāṃ  
-karābhyāṃ paryāyeṇa  abhighnatī śakuntam  
-ivo7dasthāpayat |  
-dūro1tthitaṃ ca prapatantam āhatya gīta-mārgam  
-āracayat |  
-prati-diśaṃ ca gamayitvā pratyāgamayat |  
-evam an-eka-karaṇa-madhuraṃ viharantī raṅga-gatasya  
-rakta-cetaso janasya prati-kṣaṇam uccā1vacāḥ  
-praśamsā-vācaḥ pratigṛhṇatī  
-tat-kṣaṇā3rūḍha-viśrambhaṃ kośa-dāsam amse  
-avalambya kaṇṭakita-gaṇḍam utphulle3kṣaṇaṃ ca  
-mayy abhimukhībhūya tiṣṭhati  
-tat-prathamā1vatīrṇa-kandarpa-kārita-kaṭākṣa-dṛṣṭis   
-tad-anumārga-vilasita-līlā2ñcita-bhrū-latā  
-śvāsā1nila-vegā3ndolitair danta-cchada-raśmi-jālair  
-līlā-pallavair iva mukha-kamala-parimala-grahaṇa-lolān  
-ālinas tāḍayantī maṇḍala-bhramaṇeṣu kandukasya   
-ati-śīghra-pracāritayā viśantī9va  
-mad-darśana-lajjayā puṣpa-mayaṃ pañjaram  
-pañca-bindu-prasṛteṣu pañca  api pañca-bāṇa-bāṇān  
-yugapad iva  abhipatatas trāsena  avaghaṭṭayantī  
-gomūtrikā-pracāreṣu ghana-darśita-rāga-vibhramā  
-vidyul-latām iva viḍambayantī  
-bhūṣaṇa-maṇi-raṇita-datta-laya-samvādi-pāda-cāram  
-apadeśa-smita-prabhā-niṣikta-bimbā1dharam  
-apasramsita-pratisamāhita-śikhaṇḍa-bhāram  
-samāghaṭṭita-kvaṇita-ratna-mekhalā-guṇam  
-añcito1tthita-pṛthu-nitamba-lambi-vicalad-amśuko1jjvalam  
-ākuñcita-prasṛta-vellita-bhuja-latā2bhihata-lalita-kandukam   
-āvarjita-bāhu-pāśam parivartita-trika-vilagna-lola-kuntalam  
-avagalita-karṇa-pūra-kanaka-patra-prati  
-samādhāna-śīghratā2n-atikramita-prakṛta-krīḍam  
-a-sakṛd-utkṣipyamāṇa-hasta-pāda-bāhyā3bhyantara-bhrānta-kandukam  
-avanamano1nnamana-nairantarya-naṣṭa-dṛṣṭa-madhya-yaṣṭikam   
-avapatano1tpatana-viparyasta-muktā-hāram  
-aṅkurita-gharma-salila-dūṣita-kapola-patra-bhaṅga-śoṣaṇā1dhikṛta-śravaṇa-pallavā1ni  
-lam  
-āgalita-stana-taṭā1mśuka-niyamana-vyāpṛtai1ka-pāṇi-pallavaṃ   
-ca niṣadyo7tthāya nimīlyo7nmīlya sthitvā  
-gatvā cai7va  ati-citraṃ paryakrīḍata rāja-kanyā |  
-abhihatya bhū-talā3kāśayor api krīḍā2ntarāṇi  
-darśanīyāny ekenai7va an-ekene7va kandukena   
-adarśayat |  
-candra-senā4dibhiś ca priya-sakhībhiḥ saha vihṛtya  
-vihṛtā1nte ca  abhivandya devīṃ manasā me  
-sā1nurāgeṇe7va parijanena ca  anugamyamānā  
-kuvalaya-śaram iva kusuma-śarasya mayy apāṅgaṃ  
-samarpayantī sā1padeśam  
-a-sakṛd-āvartyamāna-vadana-candra-maṇḍalatayā  
-sva-hṛdayam iva mat-samīpe preritaṃ pratinivṛttaṃ na  
-ve9ty ālokayantī saha sakhībhiḥ kumārī-puram agamat |  
-  
-ahaṃ ca  an-aṅga-vihvalaḥ sva-veśma gatvā  
-kośa-dāsena yatnavad aty-udāraṃ snāna-bhojanā3dikam  
-anubhāvito 'smi |  
-sāyaṃ co7pasṛtya candra-senā rahasi māṃ praṇipatya  
-patyur amsam amsena praṇaya-peśalam āghaṭṭayanty  
-upādiśat |  
-ācaṣṭa ca hṛṣṭaḥ kośa-dāsaḥ -- ' bhūyāsam evam  
-yāvad-āyur āyatā1kṣi tvat-prasādasya pātram iti |  
-mayā tu sa-smitam abhihitam -- ' sakhe kim etad āśāsyam |  
-asti kiñ=cid añjanam |  
-anayā tad-akta-netrayā rāja-sūnur upasthito vānarīm  
-ivai7nāṃ drakṣyati viraktaś cai7nāṃ punas  
-tyakṣyati ' iti |  
-tayā tu smerayā  asmi kathitaḥ -- ' so 'yam  
-āryeṇā8jñā-karo jano 'tyartham anugṛhītaḥ yad  
-asminn eva janmani mānuṣaṃ vapur apanīya  
-vānarīkariṣyate |  
-tad āstām idam |  
-anyathā  api siddhaṃ naḥ samīhitam |  
-adya khalu kanduko1tsave bhavantam  
-avahasita-mano-bhavā3kāram abhilaṣantī roṣād iva  
-śambara-dviṣā  atimātram āyāsyate rāja-putrī |  
-so 'yam artho vidita-bhāvayā mayā sva-mātre tayā ca  
-tan-mātre mahiṣyā ca manuje1ndrāya nivedayiṣyate |  
-viditā1rthas tu pārthivas tvayā duhituḥ pāṇiṃ  
-grāhayiṣyati |  
-tataś ca tvad-anujīvinā rāja-putreṇa bhavitavyam |  
-eṣa hi devatā-samādiṣṭo vidhiḥ |  
-tvad-āyatte ca rājye na  alam eva tvām atikramya mām  
-avaroddhum bhīma-dhanvā |  
-tat sahatām ayaṃ tri-caturāṇi dināni |  
-' iti mām āmantrya priyaṃ co7pagūhya pratyayāsīt |  
-mama kośa-dāsasya ca tad-uktā1nusāreṇa bahu  
-vikalpayatoḥ kathañ=cid akṣīyata kṣapā |  
-kṣapā2nte ca kṛta-yatho2cita-niyamas tam eva  
-priyā-darśana-subhagam udyāno1ddeśam upagato 'smi |  
-tatrai7va co7pasṛtya rāja-putro nir-abhimānam  
-anukūlābhiḥ kathābhir mām anuvartamāno muhūrtam  
-āsta |  
-nītvā co7pakāryām ātma-samena  
-snāna-bhojana-śayanā3di-vyatikareṇo7pācarat |  
-talpa-gataṃ ca svapnena   
-anubhūyamāna-priyā-darśanā3liṅgana-sukham āyasena  
-nigaḍena  ati-balavad-bahu-puruṣaiḥ  
-pīvara-bhuja-daṇḍo1paruddham abandhayan mām |  
-pratibuddhaṃ ca sahasā samabhyadhāt -- ' ayi dur-mate  
-śrutam ālapitaṃ hatāyāś candra-senāyā  
-jāla-randhra-niḥsṛtaṃ tad-ekā1vabodha-prayuktayā   
-anayā kubjayā |  
-tvaṃ kila  abhilaṣito varākyā kandukavatyā tava kila  
- anujīvinā mayā stheyam tvad-vacaḥ kila   
-an-atikramatā mayā candra-senā kośa-dāsāya dāsyate  
-ity uktvā pārśva-caraṃ puruṣam ekam ālokya   
-akathayat -- ' prakṣipai7naṃ sāgare ' iti |  
-sa tu labdha-rājya iva  ati-hṛṣṭaḥ ' deva yad  
-ājñāpayasi ' iti yathā4diṣṭam akarot |  
-ahaṃ tu nir-ālambano bhujābhyām itas-tataḥ  
-spandamānaḥ kim=api kāṣṭhaṃ daiva-dattam  
-uraso9paśliṣya tāvad aploṣi yāvad apāsarad  
-vāsaraḥ śarvarī ca sarvā |  
-pratyuṣasy adṛśyata kim=api vahitram |  
-amutrā8san yavanāḥ |  
-te mām uddhṛtya rāme1ṣu-nāmne nāvika-nāyakāya  
-kathitavantaḥ -- ' ko 'py ayam āyasa-nigaḍa-baddha  
-eva jale labdhaḥ puruṣaḥ |  
-so 'yam api siñcet sahasraṃ drākṣāṇāṃ  
-kṣaṇenai7kena iti |  
-asminn eva kṣaṇe nai1ka-naukā-parivṛtaḥ ko 'pi  
-madgur abhyadhāvat |  
-abibhayur yavanāḥ |  
-tāvad ati-javā naukāḥ śvāna iva varāham  
-asmat-potaṃ paryarutsata |  
-prāvartata ca samprahāraḥ |  
-parājāyiṣata yavanāḥ |  
-tān aham a-gatīn avasīdataḥ samāśvāsya  alapiṣam --  
-' apanayata me nigaḍa-bandhanam |  
-ayam aham avasādayāmi vaḥ sapatnān ' iti |  
-amī tathā  akurvan |  
-sarvāmś ca tān pratibhaṭān bhalla-varṣiṇā  
-bhīma-ṭaṅkṛtena śārṅgeṇa lava-lavīkṛtā1ṅgān  
-akārṣam |  
-avaplutya hata-vidhvasta-yodham asmat-pota-samsakta-potam  
-amutra nāvika-nāyakam an-abhisaram abhipatya jīva-grāham  
-agrahīṣam |  
-asau cā8sīt sa eva bhīma-dhanvā |  
-taṃ ca  aham avabudhya jāta-vrīḍam abravam -- ' tāta  
-kiṃ dṛṣṭāni kṛtānta-vilasitāni ' iti |  
-te tu sāmyātrikā madīyenai7va śṛṅkhalena tam  
-ati-gāḍhaṃ baddhvā harṣa-kilakilā-ravam akurvan  
-māṃ ca  apy apūjayan |  
-dur-vārā tu sā naur an-anukāla-vāta-nunnā dūram  
-abhipatya kam api dvīpaṃ nibiḍam āśliṣṭavatī |  
-tatra ca svādu pānīyam edhāmsi kanda-mūla-phalāni ca  
-sañjighṛkṣavo gāḍha-pātita-śilā-valayam avātarāma |  
-tatra cā8sīn mahā-śailaḥ |  
-so 'ham -- ' aho ramaṇīyo 'yaṃ  
-parvata-nitamba-bhāgaḥ kāntatare9yaṃ  
-gandha-pāṣāṇavaty upatyakā śiśiram idam  
-indīvarā1ravinda-makaranda-bindu-candrako1ttaraṃ  
-gotra-vāri ramyo 'yam  
-an-eka-varṇa-kusuma-mañjarī-mañjulataras  
-taru-vanā3bhogaḥ ity a-tṛptatarayā dṛśā bahu bahu  
-paśyann a-lakṣitā1dhyārūḍha-kṣoṇī-dhara-śikharaḥ  
-śoṇībhūtam utprabhābhiḥ  
-padma-rāga-sopāna-śilābhiḥ kim api  
-nālīka-parāga-dhūsaraṃ saraḥ samadhyagamam |  
-tatra snātaś ca kāmś=cid amṛta-svādūn  
-bisa-bhaṅgān āsvādya amsa-lagna-kalhāras  
-tāra-vartinā kena  api bhīma-rūpeṇa brahma-rākṣasena  
- abhipatya ' ko 'si kutastyo 'si ' iti nirbhartsayatā  
- abhyadhīye |  
-nir-bhayena ca mayā so 'bhyadhīyata -- ' saumya so  
-aham asmi dvi-janmā |  
-śatru-hastād arṇavam arṇavād yavana-nāvam  
-yavana-nāvaś citra-grāvāṇam enaṃ parvata-pravaraṃ  
-gato yad-ṛcchayā  asmin sarasi viśrāntaḥ |  
-bhadraṃ tava ' iti |  
-so 'brūta -- ' na ced bravīṣi praśnān aśnāmi tvām  
-' iti |  
-mayo9ktam -- ' pṛcchā tāvad bhavatu ' iti |  
-athā8vayor ekayā0ryayā0sīt samlāpaḥ --   
-kiṃ krūraṃ strī-hṛdayaṃ  
-kiṃ gṛhiṇaḥ priya-hitāya dāra-guṇāḥ |  
-kaḥ kāmaḥ saṅkalpaḥ  
-kiṃ duṣ-kara-sādhanaṃ prajñā ||  
-' tatra dhūminī-gominī-nimbavatī-nitambavatyaḥ  
-pramāṇam | ' ity upadiṣṭo mayā so 'brūta -- '  
-kathaya kīdṛśyas tāḥ ' iti |  
-atro7dāharam --   
-  
-' asti tri-garto nāma janapadaḥ |  
-tatrā8san gṛhiṇas trayaḥ sphīta-sāra-dhanāḥ  
-sodaryā dhanaka-dhānyaka-dhanyakā3khyāḥ |  
-teṣu jīvatsu na vavarṣa varṣāṇi dvādaśa  
-daśa-śatā1kṣaḥ |  
-kṣīṇa-sāraṃ sasyam oṣadhyo vandhyāḥ na phalavanto  
-vanaspatayaḥ klībā meghāḥ kṣīṇa-srotasaḥ  
-sravantyaḥ paṅka-śeṣāṇi palvalāni nir-nisyandāny  
-utsa-maṇḍalāni viralībhūtaṃ kanda-mūla-phalam  
-avahīnāḥ kathāḥ galitāḥ kalyāṇo1tsava-kriyāḥ  
-bahulībhūtāni taskara-kulāni anyo-anyam abhakṣayan  
-prajāḥ paryaluṭhann itas-tato balākā-pāṇḍurāṇi  
-nara-śiraḥ-kapālāni paryahiṇḍanta śuṣkāḥ  
-kāka-maṇḍalyaḥ śūnyībhūtāni  
-nagara-grāma-kharvaṭa-puṭa-bhedanā3dīni |  
-tae ete gṛha-patayaḥ sarva-dhānya-nicayam upayujya   
-ajā1vikaṃ gavala-gaṇaṃ gavāṃ yūthaṃ  
-dāsī-dāsa-janam apatyāni jyeṣṭha-madhyama-bhārye ca  
-krameṇa bhakṣayitvā ' kaniṣṭha-bhāryā dhūminī śvo  
-bhakṣaṇīyā ' iti samakalpayan |  
-ayaṃ kaniṣṭho dhanyakaḥ priyāṃ svām attum  
-a-kṣamas tayā saha tasyām eva niśy apāsarat |  
-mārga-klāntāṃ co7dvahan vanaṃ jagāhe |  
-sva-māmsā1sṛg-apa nīta-kṣut-pipāsāṃ tāṃ nayann  
-antare kam api nikṛtta-pāṇi-pāda-karṇa-nāsikam  
-avani-pṛṣṭhe viceṣṭamānaṃ puruṣam adrākṣīt |  
-tam apy ārdrā3śayaḥ skandheno7dvahan  
-kanda-mūla-mṛga-bahule gahano1ddeśe  
-yatna-racita-parṇa-śālaś ciram avasat |  
-amuṃ ca ropita-vraṇam iṅgudī-tailā3dibhir āmiṣeṇa  
-śākenā8tma-nir-viśeṣaṃ pupoṣa |  
-puṣṭaṃ ca tam udrikta-dhātum ekadā mṛgā1nveṣaṇāya  
-ca prayāte dhanyake sā dhūminī riramsayo9pātiṣṭhat |  
-bhartsitā  api tena balātkāram arīramat |  
-nivṛttaṃ ca patim udakā1bhyarthinam ' uddhṛtya kūpāt  
-piba rujati me śiraḥ śiro-rogaḥ ' ity udañcanaṃ  
-sa-rajjuṃ puraś cikṣepa |  
-udañcantaṃ ca taṃ kūpād apaḥ kṣaṇāt pṛṣṭhato  
-gatvā praṇunoda |  
-taṃ ca vikalaṃ skandheno7duhya deśād deśā1ntaraṃ  
-paribhramantī pati-vratā-pratītiṃ lebhe bahu-vidhāś  
-ca pūjāḥ |  
-punar avanti-rājā1nugrahād ati-mahatyā bhūtyā  
-nyavasat |  
-atha  
-pānīyā1rthi-sārtha-jana-samāpatti-dṛṣṭo1ddhṛtam  
-avantiṣu bhramantam āhārā1rthinaṃ bhartāram upalabhya  
-sā dhūminī ' yena me patir vikalīkṛtaḥ sa dur-ātmā  
- ayam ' iti tasya sādhoś citra-vadham a-jñena rājñā  
-samādeśayāṃ cakāra |  
-dhanyakas tu datta-paścād-bandhaḥ vadhya-bhūmiṃ  
-nīyamānaḥ sa-śeṣatvād āyuṣaḥ ' yo mayā vikalī  
-kṛto 'bhimato bhikṣuḥ sa cen me pāpam ācakṣīta  
-yukto me daṇḍaḥ ' ity a-dīnam adhikṛtaṃ jagāda |  
-' ko doṣaḥ ' ity upanīya darśite 'muṣmin sa  
-vikalaḥ paryaśruḥ pāda-patitas tasya sādhos  
-tat-sukṛtam a-satyāś ca tasyās tathā-bhūtaṃ  
-duś-caritam ārya-buddhir ācacakṣe |  
-kupitena rājñā virūpita-mukhī sā duṣkṛta-kāriṇī  
-kṛtā śvabhyaḥ pācikā |  
-kṛtaś ca dhanyakaḥ prasāda-bhūmiḥ |  
-tad bravīmi -- ' strī hṛdayaṃ krūram ' iti |  
-  
-punar anuyukto gominī-vṛttāntam ākhyātavān - ' asti  
-draviḍeṣu kāñcī nāma nagarī |  
-tasyām an-eka-koṭi-sāraḥ śreṣṭhi-putraḥ  
-śakti-kumāro nāmā8sīt |  
-so 'ṣṭādaśa-varṣa-deśī yaś cintām āpede -- ' na  
- asty a-dārāṇām an-anuguṇa-dārāṇāṃ vā sukhaṃ  
-nāma |  
-tat kathaṃ nu guṇavad vindeyaṃ kalatram ' iti |  
-atha para-pratyayā3hṛteṣu dāreṣu yādṛcchikīṃ  
-sampattim an-abhisamīkṣya kārtāntiko nāma bhūtvā  
-vastrā1nta-pinaddha-śāli-prastho bhuvaṃ babhrāma |  
-' lakṣaṇa-jño 'yam ' ity amuṣmai kanyāḥ  
-kanyāvantaḥ pradarśayāṃ babhūvuḥ |  
-yāṃ kāñ=cil lakṣaṇavatīṃ sa-varṇāṃ kanyāṃ  
-dṛṣṭvā sa kila sma bravīti -- ' bhadre śaknoṣi kim  
-anena śāli-prasthena guṇavad annam asmān  
-abhyavahārayitum ' iti |  
-sa hasitā1vadhūto gṛhād gṛhaṃ praviśya  abhramat |  
-ekadā tu śibiṣu kāverī-tīra-pattane saha pitṛbhyām  
-avasita-mahar2ddhim avaśīrṇa-bhavana-sārāṃ  
-dhātryā pradarśyamānāṃ kāñ=cana  
-virala-bhūṣaṇāṃ kumārīṃ dadarśa |  
-asyāṃ samsakta-cakṣuś ca  atarkayat -- ' asyāḥ  
-khalu kanyakāyāḥ sarvae eva  avayavā na   
-ati-sthūlā na  ati-kṛśā na  ati-hrasvā na   
-ati-dīrghā na vikaṭā mṛjāvantaś ca |  
-rakta-talā1ṅgulī  
-yava-matsya-kamala-kalaśā3dy-an-eka-puṇya-lekhā-lāñch  
-itau karau sama-gulpha-sandhī māmsalāv a-śirālau ca   
-aṅghrī jaṅghe ca  anu pūrva-vṛtte pīvaro3ru-graste  
-iva dur-upalakṣye jānunī sakṛd-vibhaktaś catur-asraḥ  
-kakundara-vibhāga-śobhī rathā1ṅgā3kāra-samsthitaś  
-ca nitamba-bhāgaḥ tanu-taram īṣan-nimnaṃ gambhīraṃ  
-nābhi-maṇḍalaṃ vali-trayeṇa ca  alaṃ-kṛtam udaram  
-uro-bhāga-vyāpināv unmagna-cūcukau  
-viśālā3rambha-śobhinau payo-dharau  
-dhana-dhānya-putra-bhūyastva-cihna-lekhā-lāñchita-tale  
-snigdho1dagra-komala-nakha-maṇī  
-ṛjv-anupūrva-vṛtta-tāmrā1ṅgulī-samnatā1msa-deśe  
-saukumāryavatyau nimagna-parva-sandhī ca bāhu-late tanvī  
-kambu-vṛtta-bandhurā ca kandharā  
-vṛtta-madhya-vibhakta-rāgā1dharam  
-a-saṅkṣipta-cāru-cibukam  
-āpūrṇa-kaṭhina-gaṇḍa-maṇḍalam  
-a-saṅgatā1nuvakra-nīla-snigdha-bhrū-latam  
-an-ati-prauḍha-tila-kusuma-sadṛśa-nāsikam  
-asita-dhavala-rakta-tri-bhāga-bhāsura-madhurā1dhīra-  
-sañcāra-mantharā3yate3kṣaṇam  
-indu-śakala-sundara-lalāṭam  
-indra-nīla-śilā4kāra-ramyā1laka-paṅkti-dvi-guṇa-kuṇḍalita-  
-mlāna-nālīka-nāla-lalita-lamba-śravaṇa-pāśa-yugalam   
-ānana-kamalam an-ati-bhaṅguro bahulaḥ  
-paryante 'py a-kapila-rucir āyāma-vān  
-ekai1ka-nisarga-sama-snigdha-nīlo gandha-grāhī ca  
-mūrdhaja-kalāpaḥ |  
-se9yam ākṛtir na vyabhicarati śīlam |  
-āsajjati ca me hṛdayam asyām eva |  
-tat parīkṣyai7nām udvaheyam |  
-a-vimṛśya-kāriṇā hi niyatam an-ekāḥ patanty  
-anuśaya-paramparāḥ ' iti snigdha-dṛṣṭir ācaṣṭa --  
-' bhadre kac=cid asti kauśalaṃ śāli-prasthena  anena  
-sampannam āhāram asmān abhyavahārayitum ' iti |  
-tatas tayā vṛddha-dāsī sā3kūtam ālokitā |  
-tasya hastāt prastha-mātraṃ dhānyam ādāya kva=cid  
-alindo1ddeśe su-sikta-sammṛṣṭe datta-pāda-śaucam  
-upāveśayat |  
-sā kanyā tān gandha-śālīn saṅkṣudya mātrayā  
-viśoṣyā8tape muhur muhuḥ parivartya sthira-samāyāṃ  
-bhūmau nālī-pṛṣṭhena mṛdu-mṛdu ghaṭṭayantī  
-tuṣair a-khaṇḍais taṇḍulān pṛthak   
-cakāra |  
-jagāda ca dhātrīm -- ' mātaḥ ebhis tuṣair arthino  
-bhūṣaṇa-mṛjā-kriyā-kṣamaiḥ svarṇa-kārāḥ |  
-tebhya imān datvā labdhābhiḥ kākiṇībhiḥ  
-sthira-tarāṇy an-aty-ārdrāṇi na  ati-śuṣkāṇi  
-kāṣṭhāni mitaṃ-pacāṃ sthālīm ubhe śarāve  
-cā8hara ' iti |  
-tathā-kṛte tayā tāms taṇḍulān  
-an-ati-nimno1ttāna-vistīrṇa-kukṣau kakubho1lūkhale  
-loha-patra-veṣṭita-mukhena sama-śarīreṇa  
-vibhāvyamāna-madhya-tānavena vyāyatena guruṇā  
-khādireṇa musalena  
-catura-lalito1tkṣepaṇā1vakṣepaṇā3yāsita-bhujam  
-a-sakṛd-aṅgulībhir uddhṛtyo7ddhṛtya  avahatya  
-śūrpa-śodhita-kaṇa-kiṃ śārukāms taṇḍulān  
-a-sakṛd adbhiḥ prakṣālya kvathita-pañca-guṇe jale  
-datta-cullī-pūjā prākṣipat |  
-praślathā1vayaveṣu prasphuratsu taṇḍuleṣu  
-mukulā1vasthām ati-vartamāneṣu saṅkṣipya  analam  
-upahita-mukha-pidhānayā sthālyā  anna-maṇḍam  
-agālayat |  
-darvyā ca  avaghaṭṭya mātrayā parivartya sama-pakveṣu  
-siktheṣu tāṃ sthālīm adho-mukhīm avātiṣṭhipat |  
-indhanāny antaḥ-sārāṇy ambhasā samabhyukṣya  
-praśamitā1gnīni kṛṣṇā1ṅgārīkṛtya tad-arthibhyaḥ  
-prāhiṇot -- ' ebhir labdhāḥ kākiṇīr datvā  
-śākaṃ ghṛtaṃ dadhi tailam āmalakaṃ  
-ciñcā-phalaṃ ca yathā-lābham ānaya ' iti |  
-tathā  anuṣṭhite ca tayā dvi-trān upa-damśān  
-upapādya tad-anna-maṇḍam  
-ārdra-vāluko2pahita-nava-śarāva-gatam ati-mṛdunā  
-tāla-vṛntā1nilena śītalīkṛtya sa-lavaṇa-sambhāraṃ  
-dattā1ṅgāra-dhūpa-vāsaṃ ca sampādya tad apy  
-āmalakaṃ ślakṣṇa-piṣṭam utpala-gandhi kṛtvā  
-dhātrī-mukhena snā nāya tam acodayat |  
-tayā ca snāna-śuddhayā datta-tailā3malakaḥ krameṇa  
-sasnau |  
-snātaḥ sikta-mṛṣṭe kuṭṭime phalakam āruhya  
-pāṇḍu-haritasya tri-bhāga-śeṣa-lūnasya   
-aṅgaṇa-kadalī-palāśasyo7pari śarāva-dvayaṃ dattam  
-ārdram abhimṛśann atiṣṭhat |  
-sā tu tāṃ peyām eva  agre samupāharat |  
-pītvā ca  apanatā1dhva-klamaḥ prahṛṣṭaḥ  
-praklinna-sakala-gātraḥ sthito 'bhūt |  
-tatas tasya śāly-odanasya darvī-dvayaṃ datvā  
-sarpir-mā trāṃ sūpam upa-damśaṃ co7pajahāra |  
-imaṃ ca dadhnā ca tri-jātakā1vacūrṇitena  
-surabhi-śītalābhyāṃ ca kālaśeya-kāñjikābhyāṃ  
-śeṣam annam abhojayat |  
-sa-śeṣae eva  andhasy asāv atṛpyat |  
-ayācata ca pānīyam |  
-atha nava-bhṛṅgāra-sambhṛtam aguru-dhūpa-dhūpitam  
-abhinava-pāṭalī-kusuma-vāsitam  
-utphullo1tpala-grathita-saurabhaṃ vāri  
-nālī-dhārā4tmanā pātayāṃ babhūva |  
-so 'pi mukho1pahita-śarāveṇa  
-hima-śiśira-kaṇa-karālitā1ruṇāyamānā1kṣi-pakṣmā  
-dhārā-ravā1bhinandita-śravaṇaḥ  
-sparśa-sukho1dbhinna-romāñca-karkaśa-kapolaḥ  
-parimala-pravālo1tpīḍa-phulla-ghrāṇa-randhro  
-mādhurya-prakarṣā3varjita-rasane2ndriyas tad  
-acchaṃ pānīyam ā-kaṇṭhaṃ papau |  
-śiraḥ-kampa-saṃjñā-vāritā ca punar  
-apara-karakeṇā8camanam adatta kanyā |  
-vṛddhayā tu tad-ucchiṣṭam apohya harita-gomayo1palipte  
-kuṭṭime svam evo7ttarīya-karpaṭaṃ vyavadhāya  
-kṣaṇam aśeta |  
-parituṣṭaś ca vidhivad upayamya kanyāṃ ninye |  
-nītvai9tad-an-apekṣaḥ kām=api gaṇikām avarodham  
-akarot |  
-tām apy asau priya-sakhīm ivo7pācarat |  
-patiṃ ca daivatam iva mukta-tandrā paryacarat |  
-gṛha-kāryāṇi ca a-hīnam anvatiṣṭhat |  
-parijanaṃ ca dākṣiṇya-nidhir ātmā1dhīnam akarot |  
-tad-guṇa-vaśīkṛtaś ca bhartā sarvam eva kuṭumbaṃ  
-tad-āyattam eva kṛtvā tad-ekā1dhīna-jīvita-śarīras  
-tri-vargaṃ nirviveśa |  
-tad bravīmi --' gṛhiṇaḥ priya-hitāya dāra-guṇāḥ '  
-iti |  
-  
-tatas tena  anuyukto nimbavatī-vṛttam ākhyātavān --  
-' asti saurāṣṭreṣu valabhī nāma nagarī |  
-tasyāṃ gṛha-gupta-nāmno guhyake1ndra-tulya-vibhavasya  
-nāvika-pater duhitā ratnavatī nāma |  
-tāṃ kila madhumatyāḥ samupāgamya bala-bhadro nāma  
-sārtha-vāha-putraḥ paryaṇaiṣīt |  
-tayā  api nava-vadhvā rahasi  
-rabhasa-vighnita-surata-sukho jhaṭiti dveṣam  
-alpe1taraṃ babandha |  
-na tāṃ punar draṣṭum iṣṭavān |  
-tad-gṛhā3gamanam api suhṛd-vākya-śatā1tivartī  
-lajjayā parijahāra |  
-tāṃ ca dur-bhagāṃ tadā-prabhṛty eva ' ne7yaṃ  
-ratnavatī nimbavatī ce7yam iti sva-janaḥ para-janaś ca  
-paribabhūva |  
-gate ca kasmimś=cit kāle sā tv anutapyamānā ' kā me  
-gatiḥ iti vimṛśantī kām api vṛddha-pravrājikāṃ  
-mātṛ-sthānīyāṃ deva-śeṣa-kusumair upasthitām  
-apaśyat |  
-tasyāḥ puro rahasi sa-karuṇaṃ ruroda |  
-tayā  apy udaśru-mukhyā bahu-prakāram anunīya  
-rudita-kāraṇaṃ pṛṣṭā trapamāṇā  api  
-kārya-gauravāt kathañ=cid abravīt -- ' amba kiṃ  
-bravīmi |  
-daurbhāgyaṃ nāma jīvan-maraṇam eva  aṅganānām  
-viśeṣataś ca kula-vadhūnām |  
-tasya  aham asmy udāharaṇabhūtā |  
-mātṛ-pramukho 'pi jñāti-vargo mām avajñayai9va  
-paśyati |  
-tena su-dṛṣṭāṃ māṃ kuru |  
-na cet tyajeyam adyai7va niṣ-prayojanān prāṇān |  
-ā virāmāc ca me rahasyaṃ nā8śrāvyam ' iti  
-pādayoḥ papāta |  
-sai9nām utthāpyo7dbāṣpo9vāca -- ' vatse mā  
-adhyavasyaḥ sāhasam |  
-iyam asmi tvan-nideśa-vartinī |  
-yāvati mamo7payogas tava tāvati bhavāmy  
-an-anyā1dhīnā |  
-yady eva  asi nirviṇṇā tapaś cara tvaṃ  
-mad-adhiṣṭhitā pāralaukikāya kalyāṇāya |  
-nanv ayam udarkaḥ prāktanasya duṣkṛtasya  
-yadanenā8kāreṇe8dṛśena śīlena jātyā  
-cai7vaṃ-bhūtayā samanugatā saty a-kasmād eva  
-bhartṛ-dveṣyatāṃ gatā  asi |  
-yadi kaś=cid asty upāyaḥ pati-droha-prati-kriyāyai  
-darśaya  amum |  
-matir hi te paṭīyasī ' iti |  
-atha  asau kathañ=cit kṣaṇam adho-mukhī dhyātvā  
-dīrgho1ṣṇa-śvāsa-pūrvam avocat -- ' bhagavati patir  
-eva daivataṃ vanitānām viśeṣataś ca kula-jānām |  
-atas tac-chuśrūṣaṇā1bhyupāya-hetu-bhūtaṃ kiñ=cid  
-ācaraṇīyam |  
-asty asmat-prātiveśyo vaṇik |  
-abhijanena vibhavena rājā1ntaraṅga-bhāvena ca  
-sarva-paurān atītya vartate |  
-tasya kanyā kanakavatī nāma mat-samāna-rūpā1vayavā  
-mama  ati-snigdhā sakhī |  
-tayā saha tad-vimāna-harmya-tale tato 'pi  
-dvi-guṇa-maṇḍitā vihariṣyāmi |  
-tvayā tu tan-mātṛ-prārthanaṃ sa-karuṇam abhidhāya  
-mat-patir etad-gṛhaṃ kathañ=canā8neyaḥ |  
-samīpa-gateṣu ca yuṣmāsu krīḍā-mattā nāma  
-kandukaṃ bhramśayeyam |  
-atha tam ādāya tasya haste datvā vakṣyasi -- ' putra  
-tave7yaṃ bhāryā-sakhī nidhi-pati-dattasya  
-sarva-śreṣṭhi-mukhyasya kanyā kanakavatī nāma |  
-tvām iyam an-avastho niṣ-karuṇaś ce7ti  
-ratnavatī-nimittam atyarthaṃ nindati |  
-tad eṣa kanduko vi-pakṣa-dhanaṃ pratyarpaṇīyam '  
-iti |  
-sa tatho9kto niyatam unmukhībhūya tām eva  
-priya-sakhīṃ manyamāno mām baddhā1ñjali  
-yācamānāyai mahyaṃ bhūyas tvat-prārthitaḥ  
-sā1bhilāṣam arpayiṣyati |  
-tena randhreṇo7paśliṣya rāgam ujjvalīkṛtya yathā   
-asau kṛta-saṅketo deśā1ntaram ādāya māṃ gamiṣyati  
-tatho9papādanīyam ' iti |  
-harṣā1bhyupetayā ca  anayā tathai9va sampāditam |  
-athai7tām kanakavatī9ti vṛddha-tāpasī-pralabdho  
-bala-bhadraḥ sa-ratna-sārā3bharaṇām ādāya niśi  
-nī-randhre tamasi prāvasat |  
-sā tu tāpasī vārtām āpādayat -- ' mandena mayā  
-nir-nimittam upekṣitā ratnavatī śvaśurau ca paribhūtau  
-su-hṛdaś ca  ati-vartitāḥ |  
-tad atrai7va samsṛṣṭo jīvituṃ jihremī7ti  
-bala-bhadraḥ pūrve-dyur mām akathayat |  
-nūnam asau tena nītā vyaktiś ca  a-cirād bhaviṣyati  
-iti |  
-tac chrutvā tad-bāndhavās tad-anveṣaṇaṃ prati  
-śithila-yatnās tasthuḥ |  
-ratnavatī tu mārge kāñ=cit paṇya-dāsīṃ saṅgṛhya  
-tayo9hyamāna-pātheyā3dy-upaskarā kheṭaka-puram  
-agamat |  
-amutra ca vyavahāra-kuśalo bala-bhadraḥ svalpenai7va  
-mūlena mahad-dhanam upārjayat |  
-paurā1gra-gaṇyaś cā8sīt |  
-parijanaś ca bhūyān artha-vaśāt samājagāma |  
-tatas tāṃ prathama-dāsīṃ ' na karma karoṣi  
-dṛṣṭaṃ muṣṇāsi a-priyaṃ bravīṣi ' iti paruṣam  
-uktvā bahv atāḍayat |  
-ceṭī tu prasāda-kālo1pakhyāta-rahasyasya  
-vṛttāntai1kadeśam ātta-roṣā nirbibheda |  
-tac chrutvā tu lubdhena daṇḍa-vāhinā  
-paura-vṛddha-samnidhau ' nidhi-pati-dattasya kanyāṃ  
-kanakavatīṃ moṣeṇa  apahṛtya  asmat-pure nivasaty  
-eṣa dur-matir bala-bhadraḥ |  
-tasya sarva-sva-haraṇaṃ bhavadbhir na pratibandhanīyam  
-' iti nitarām abhartsayata |  
-bhītaṃ ca bala-bhadram adhijagāda ratnavatī -- ' na  
-bhetavyam |  
-brūhi -- ne7yaṃ nidhi-pati-datta-kanyā kanakavatī |  
-valabhyām eva gṛha-gupta-duhitā ratnavatī nāme7yaṃ  
-dattā pitṛbhyāṃ mayā ca nyāyo8ḍhā |  
-na cet pratītha praṇidhiṃ prahiṇuta  asyā  
-bandhu-pārśvam ' iti |  
-bala-bhadras tu tatho9ktvā śreṇī-prātibhāvyena  
-tāvad eva  atiṣṭhad yāvat  
-tat-pura-lekhya-labdha-vṛttānto gṛha-guptaḥ  
-kheṭaka-puram āgatya saha jāmātrā duhitaram  
-ati-prītaḥ pratyanaiṣīt |  
-tathā dṛṣṭvā ratnavatī kanakavatī9ti bhāvayatas  
-tasyai7va bhala-bhadrasya  ati-vallabhā jātā |  
-tad bravīmi -- ' kāmo nāma saṅkalpaḥ ' iti |  
-  
-tad-anantaram asau nitambavatī-vṛttāntam aprākṣīt |  
-so 'ham abravam -- ' asti śūra-seneṣu mathurā nāma  
-nagarī |  
-tatra kaś=cit kula-putraḥ kalāsu gaṇikāsu ca   
-ati-raktaḥ mitrā1rthaṃ  
-sva-bhuja-mātra-nirvyūḍhā1n-eka-kalahaḥ  
-kalaha-kaṇṭaka iti karkaśair abhikhyāpitā3khyaḥ  
-pratyavātsīt |  
-sa cai7kadā kasya=cid āgantoś citra-karasya haste  
-citra-paṭaṃ dadarśa |  
-tatra kā=cid ālekhya-gatā yuvatir āloka-mātreṇai7va  
-kalaha-kaṇṭakasya kāmā3turaṃ cetaś cakāra |  
-sa ca tam abravīt -- ' bhadra viruddham ivai7tat  
-pratibhāti |  
-yataḥ kula-jā-dur-labhaṃ vapuḥ ābhijātya-śamsinī ca  
-namratā pāṇḍurā ca mukha-cchaviḥ  
-an-ati-paribhukta-subhagā ca tanuḥ prauḍhatā2nuviddhā  
-ca dṛṣṭiḥ |  
-na cai7ṣā proṣita-bhartṛkā  
-pravāsa-cihnasyai7ka-veṇī-āder a-darśanāt |  
-lakṣma cai7tad-dakṣiṇa-pārśva-varti |  
-tad iyaṃ vṛddhasya kasya=cid vaṇijo na   
-ati-pumstvasya yathā2rha-sambhogā1-lābha-pīḍitā  
-gṛhiṇī tvayā  ati-kauśalād yathā-dṛṣṭam  
-ālikhitā bhavitum arhati ' iti |  
-sa tam abhipraśasya  aśamsat -- ' satyam idam |  
-avanti-puryām ujjayinyām ananta-kīrti-nāmnaḥ  
-sārtha-vāhasya bhāryā yathā2rtha-nāmā nitambavatī  
-nāmai7ṣā saundarya-vismitena mayai9vam ālikhitā ' iti |  
-sa tadai9vo7nmanāyamānas tad-darśanāya  
-parivavrājo7jjayinīm |  
-bhārgavo nāma bhūtvā bhikṣā-nibhena tad-gṛhaṃ  
-praviśya tāṃ dadarśa |  
-dṛṣṭvā ca  aty-ārūḍha-manmatho nirgatya  
-paura-mukhyebhyaḥ śmaśāna-rakṣām ayācata |  
-alabhata ca |  
-tatra labdhaiś ca śavā1vaguṇṭhana-paṭā3dibhiḥ kām  
-apy arhantikāṃ nāma śramaṇikām upāsāñ cakre |  
-tan-mukhena ca nimbavatīm upāmśu mantrayām āsa |  
-sā cai7nāṃ nirbhartsayantī pratyācacakṣe |  
-śramaṇikā-mukhāc ca duṣ-kara-śīla-bhramśāṃ  
-kula-striyam upalabhya rahasi dūtikām aśikṣayat -- '  
-bhūyo 'py upatiṣṭha sārtha-vāha-bhāryām |  
-brūhi co7pahvare samsāra-doṣa-darśanāt samādhim  
-āsthāya mumukṣamāṇo mādṛśo janaḥ  
-kula-vadhūnāṃ śīla-pātane ghaṭatae iti kva ghaṭate |  
-etad api tvam aty-udārayā samṛddhyā rūpeṇa   
-ati-mānuṣeṇa prathamena vayaso9papannāṃ kim itara-nārī-sulabhaṃ   
-cāpalaṃ spṛṣṭaṃ na ve9ti parīkṣā kṛtā |  
-tuṣṭā  asmi tavai7vam a-duṣṭa-bhāvatayā |  
-tvām idānīm utpannā1patyāṃ draṣṭum icchāmi |  
-bhartā tu bhavatyāḥ kena=cid graheṇa adhiṣṭhitaḥ  
-pāṇḍu-roga-dur-balo bhoge ca  a-samarthaḥ sthito  
-abhūt |  
-na ca śakyaṃ tasya vighnam a-prati-kṛtya  apatyam  
-asmāl labdhum |  
-ataḥ prasīda |  
-vṛkṣa-vāṭikām ekākinī praviśya mad-upanītasya  
-kasya=cin mantra-vādinaś channam eva haste caraṇam  
-arpayitvā tad-abhimantritena praṇaya-kupitā nāma  
-bhūtvā bhartāram urasi prahartum arhasi |  
-upary asāv uttama-dhātu-puṣṭim  
-ūrjitā1patyo1tpādana-kṣamām āsādayiṣyati |  
-anuvartiṣyate devīm iva  atra bhavatīm |  
-na  atra śaṅkā kāryā iti |  
-sā tatho9ktā vyaktam abhyupaiṣyati |  
-naktaṃ māṃ vṛkṣa-vāṭikāṃ praveśya tām api  
-praveśayiṣyasi |  
-tāvatai9va tvayā  aham anugṛhīto bhave yam ' iti |  
-sā tathai9vo7papāditavatī |  
-so 'ti-prītas tasyām eva kṣapāyāṃ  
-vṛkṣa-vāṭikāṃ gato nitambavatīṃ  
-nir-granthikā-prayatneno7panītāṃ pāde parāmṛśann  
-iva hema-nūpuram ekam ākṣipya cchurikayo0ru-mūle  
-kiñ=cid ālikhya druta-taram apāsarat |  
-sā tu sāndra-trāsā svam eva dur-nayaṃ garhamāṇā  
-jighāmsantī9va śramaṇikāṃ tad-vraṇaṃ  
-bhavana-dīrghikāyāṃ prakṣālya datvā  
-paṭa-bandhanaṃ sā3mayā1padeśād aparaṃ ca   
-apanīya nūpuraṃ śayana-parā tri-caturāṇi dināny  
-ekānte ninye |  
-sa dhūrtaḥ ' vikreṣye ' iti tena nūpureṇa tam  
-ananta-kīrtim upāsasāda |  
-sa dṛṣṭvā mama gṛhiṇyā evai7ṣa nūpuraḥ katham  
-ayam upalabdhas tvayā ' iti tam a-bruvāṇaṃ nirbandhena  
-papraccha |  
-sa tu ' vaṇig-grāmasya  agre vakṣyāmi ' iti sthito  
-abhūt |  
-punar asau gṛhiṇyai ' sva-nūpura-yugalaṃ preṣaya '  
-iti sandideśa |  
-sā ca sa-lajjaṃ sa-sādhvasaṃ ca ' adya rātrau  
-viśrāma-praviṣṭāyāṃ vṛkṣa-vāṭikāyāṃ  
-prabhraṣṭo mamai7kaḥ praśithila-bandho nūpuraḥ |  
-so 'dya  apy anviṣṭo na dṛṣṭaḥ |  
-sa punar ayaṃ dvitīyaḥ ' ity aparaṃ prā hiṇot |  
-anayā ca vārtayā  amuṃ puraskṛtya sa vaṇig  
-vaṇig-jana-samājam ājagāma |  
-sa ca  anuyukto dhūrtaḥ sa-vinayam āvedayat -- '  
-viditam eva khalu vo yathā  ahaṃ yuṣmad-ājñayā  
-pitṛ-vanam abhi rakṣya tad-upajīvī prativasāmi |  
-lubdhāś ca kadā=cin mad-darśana-bhīravo niśi  
-daheyur api śavānī7ti niśāsv api śmaśānam  
-adhiśaye |  
-apare-dyur dagdhā1-dagdhaṃ mṛtakaṃ citāyāḥ  
-prasabham ākarṣantīṃ śyāmā3kārāṃ nārīm  
-apaśyam |  
-artha-lobhāt tu nigṛhya bhayaṃ sā saṅgṛhītā |  
-śastrikayo0ru-mūle yad-ṛcchayā kiñ=cid ullikhitam |  
-eṣa ca nūpuraś caraṇād ākṣiptaḥ |  
-tāvaty eva druta-gatiḥ sā palāyiṣṭa |  
-so 'yam asyā8gamaḥ |  
-paraṃ bhavantaḥ pramāṇam ' iti |  
-vimarśe ca tasyāḥ śākinī tvam aikamatyena paurāṇām  
-abhimatam āsīt |  
-bhartrā ca parityaktā tasminn eva śmaśāne bahu vilapya  
-pāśeno7dbadhya martu-kāmā tena dhūrtena naktam  
-agṛhyata |  
-anunītā ca -- ' sundari tvad-ākāro1nmāditena mayā  
-tvad-āvarjane bahūn upāyān bhikṣukī-mukheno7panyasya  
-teṣv a-siddheṣu punar ayam upāyo yāvaj-jīvam  
-a-sādhāraṇīkṛtya rantum ācaritaḥ |  
-tat prasīda  an-anya-śaraṇāya   
- asmai dāsa-janāya ' iti muhur muhuś caraṇayor  
-nipatya prayujya sāntva-śatāni tām a-gaty-antarām  
-ātma-vaśyām akarot |  
-tad idam uktam -- ' duṣ-kara-sādhanaṃ prajñā ' iti |  
-  
-sa ce7dam ākarṇya brahma-rākṣaso mām apūpujat |  
-asminn eva kṣaṇe na   
-ati-prauḍha-pumnāga-mukula-sthūlāni muktā-phalāni saha  
-salila-bindubhir ambara-talād apatan |  
-ahaṃ tu ' kiṃ nv idam ' ity uc-cakṣur ālokayan  
-kam=api rākṣasaṃ kāñ=cid aṅganāṃ  
-viceṣṭamāna-gātrām ākarṣantam apaśyam |  
-katham apaharaty a-kāmām api striyam an-ācāro  
-nairṛta iti gagana-gamana-manda-śaktir a-śastraś ca   
-atapye |  
-sa tu mat-sambandhī brahma-rākṣasaḥ ' tiṣṭha tiṣṭha  
-pāpa kva  apaharasi ' iti bhartsayann utthāya  
-rākṣasena sama sṛjyata |  
-tāṃ tu roṣād an-apekṣā2paviddhām  
-amara-vṛkṣa-mañjarīm iva  antarikṣād āpatantīm  
-unmukha-prasārito1bhaya-karaḥ karābhyām agrahīṣam |  
-upagṛhya ca vepamānāṃ sammīlitā1kṣīṃ  
-mad-aṅga-sparśa-sukheno7dbhinna-romāñcāṃ tādṛśīm  
-eva tām an-avatārayann atiṣṭham |  
-tāvat tāv ubhāv api śaila-śṛṅga-bhaṅgaiḥ  
-pādapaiś ca rabhaso1nmūlitair  
-muṣṭi-pāda-prahāraiś ca paras-param akṣapayetām |  
-punar aham ati-mṛduni pulinavati kusuma-lava-lāñchite  
-saras-tīre 'varopya sa-spṛhaṃ nirvarṇayams tāṃ  
-mat-prāṇai1ka-vallabhāṃ rāja-kanyāṃ kandukavatīm  
-alakṣyam |  
-sā hi mayā samāśvāsyamānā tiryaṅ mām abhinirūpya  
-jāta-pratyabhijñā sa-karuṇam arodīt |  
-avādīc ca -- ' nātha tvad-darśanād upoḍha-rāgā  
-tasmin kanduko1tsave punaḥ sakhyā candra-senayā  
-tvat-kathābhir eva samāśvāsitā  asmi |  
-tvaṃ kila samudra-madhye majjitaḥ pāpena mad-bhrātrā  
-bhīma-dhanvanā iti śrutvā sakhī-janaṃ parijanaṃ ca  
-vañcayitvā jīvitaṃ jihāsur ekākinī krīḍā-vanam  
-upāgamam |  
-tatra ca mām acakamata kāma-rūpa eṣa rākṣasā1dhamaḥ |  
-so 'yaṃ mayā bhītayā  avadhūta-prārthanaḥ  
-sphurantīṃ māṃ nigṛhya  abhyadhāvat |  
-atrai7vam avasito 'bhūt |  
-ahaṃ ca daivāt tavai7va jīvita īśasya haste patitā |  
-bhadraṃ tava ' iti |  
-śrutvā ca tayā saha  avaruhya nāvam adhyāroham |  
-muktā ca nauḥ prati-vāta-preritā tām eva  
-dāma-liptāṃ pratyupā tiṣṭhat |  
-avarūḍhāś ca vayam a-śrameṇa |  
-' tanayasya ca tanayāyāś ca nāśād an-anyā1patyas  
-tuṅga-dhanvā suhma-patir niṣ-kalaḥ svayaṃ sa-kalatra  
-eva niṣ-kalaṅka-gaṅgā-rodhasy an-aśaneno7parantuṃ  
-pratiṣṭhate |  
-saha tena martum icchaty an-anya-nātho 'nuraktaḥ  
-paura-vṛddha-lokaḥ | ' ity aśru-mukhīnāṃ prajānām  
-ākrandam aśṛṇuma |  
-atha  aham asmai rājñe yathā-vṛttam ākhyāya  
-tad-apatya-dvayaṃ pratyarpitavān |  
-prītena tena jāmātā kṛto 'smi dāma-lipte3śvareṇa |  
-tat-putro mad-anujīvī jātaḥ |  
-mad-ājñaptena ca  amunā prāṇavad ujjhitā  
-candra-senā kośa-dāsam abhajat |  
-tataś ca simha-varma-sāhāyyā1rtham atrā8gatya  
-bhartus tava darśano1tsava-sukham anubhavāmi ' iti |  
-śrutvā ' citre9yaṃ daiva-gatiḥ |  
-avasareṣu puṣkalaḥ puruṣa-kāraḥ |  
-' ity abhidhāya bhūyaḥ smitā1bhiṣikta-danta-cchado  
-mantra-gupte harṣo1tphullaṃ cakṣuḥ pātayāmāsa devo  
-rāja-vāhanaḥ |  
-sa kila kara-kamalena kiñ=cit-samvṛtā3nano  
-lalita-vallabhā-rabhasa-datta-danta-kṣata-vyasana-vihvalā1dhara-maṇir   
-nir-oṣṭhya-varṇam ātma-caritam ācacakṣe  
---  
-  
-/ iti śrī daṇḍinaḥ kṛtau daśa-kumāra-carite   
-mitra-gupta-caritaṃ nāma ṣaṣṭha ucchvāsaḥ /   
-  
-  
-  
-  
+
+
+      
+दशकुमारचरितम्  
+    
+पूर्वपीठिका  
+    
+प्रथमोच्छ्वासः
+
+स्तर्त् द्क्च् १,१।१:
+
+ब्रह्माण्डच्छत्रदण्डः शतधृतिभवनाम्भोरुहो नालदण्डः  
+क्षोणीनौकूपदण्डः क्षरदमरसरित्पट्टिकाकेतुदण्डः ।  
+ज्योतिश्चक्राक्षदण्डस्त्रिभुवनविजयस्तम्भदण्डो ऽङ्घ्रिदण्डः श्रेयस्त्रैविक्रमस्ते वितरतु विबुधद्वेषिणां कालदण्डः ॥  
+अस्ति समस्तनगरीनिकषायमाणा शश्वदगण्यपण्यविस्तारितमणिगणादिवस्तुजातव्याख्यातरत्नाकरमाहात्म्या मगधदेशशेखरीभूता पुष्पपुरी नाम नगरी ॥ द्क्च्_१,१।१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२:  
+    
+तत्र वीरभटपटलोत्तरङ्गतुरङ्गकुञ्जरमकरभीषणसकलरिपुगणकटकजलनिधि मथनमन्दरायमाणसमुद्दण्डभुजदण्डः, पुरन्दरपुराङ्गणवनविहरणपरायणतरुणगणिकागणजेगीयमानयातिमानया शरदिन्दुकुन्दघनसारनीहारहारमृणालमरालसुरगजनीरक्षीरगिरि शाट्टहासकैलासकाशनीकाशमूर्त्या रचितदिगन्तरालपूर्त्या कीर्त्याभितः सुरभितः स्वर्लोकशिखरोरुरुचिररत्नरत्नाकरवेलामेखलायितधरणीरमणीसौभाग्यभोगभाग्यवान्, अनवरतयागदक्षिणारक्षितशिष्टविशिष्टविद्यासम्भारभासुरभूसुरनिकरः, विरचितारातिसन्तापेन प्रतापेन सतततुलितवियन्मध्यहंसः, राजहंसो नाम घनदर्पकन्दर्पसौन्दर्यसोदर्यहृद्यनिरवद्यरूपो भूपो बभूव ॥ द्क्च्_१,१।२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३:  
+    
+तस्य वसुमती नाम सुमती लीलावतीकुलशेखरमणी रमणी बभूव ॥ द्क्च्_१,१।३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४:  
+    
+रोषरूक्षेण निटिलाक्षेण भस्मीकृतचेतने मकरकेतने तदा भयेनानवद्या वनितेति मत्वा तस्य रोलम्बावली केशजालम्, प्रेमाकरो रजनीकरो विजितारविन्दवदनम्, जयध्वजायमानो मीनो जायायुतो ऽक्षियुगलम्, सकलसैनिकाङ्गवीरो मलयसमीरो निःश्वासः, पथिकहृद्दलनकरवालः प्रवालश्चाधारबिम्बम्, जयशङ्खो बन्धुरा लावण्यधरा कन्धरा, पूर्णकुम्भौ चक्रवाकानुकारौ पयोधरौ;ज्यायमाने मार्दवासमाने बिलसते च बाहूर्, इषदुत्फुल्ललीलावतंसकह्लारकोरकौ गङ्गावर्तसनाभिर्नाभिः, दूरीकृतयोगिमनोरथो जैत्ररथो ऽतिघनं जघनम्, जयस्तम्भभूते सौन्दर्यभूते विघ्नितयतिजनारम्भे रम्भे चोरुयुगम्, आतपत्रसहस्रपत्रं पादद्वयम् अस्त्रभूतानि प्रसूनानि तानीतराण्यङ्गानि च समभूवन्निव ॥ द्क्च्_१,१।४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५:  
+    
+विजितामरपुरे पुष्पपुरे निवसता सानन्तभोगलालिता वसुमती वसुमतीव मगधराजेन यथासुखमन्वभावि ॥ द्क्च्_१,१।५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६:  
+    
+तस्य राज्ञः परमविधेया धर्मपालपद्मोद्भवसितवर्मनामधेया धीरधिषणावधीरितविबुधाचार्यविचार्यकार्यसाहित्याः कुलामात्यास्त्रयो ऽभूवन् ॥ द्क्च्_१,१।६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७:  
+    
+तेषां सितवर्मणः सुमती-सत्यवर्माणौ, धर्मपालस्य सुमन्त्र-सुमित्र-कामपालाः पद्मोद्भवस्य सुश्रुत-रत्नोद्भवाविति तनयाः समभूवन् ॥ द्क्च्_१,१।७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।८:  
+    
+तेषु धर्मशीलः सत्यवर्मा संसारासारतां बुद्ध्वा तीर्थयात्राभिलाषी देशान्तरमगमत् ॥ द्क्च्_१,१।८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।९:  
+    
+विटनटवारनारीपरायणो दुर्विनीतः कामपालो जनकाग्रजन्मनोः शासनमतिक्रम्य भुवं बभ्राम ॥ द्क्च्_१,१।९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।१०:  
+    
+रत्नोद्भवो ऽपि वाणिज्यनिपुणतया पारावारतरणमकरोत् ॥ द्क्च्_१,१।१० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।११:  
+    
+इतरे मन्त्रिसूनवः पुरन्दरपुरातिथिषु पितृषु यथापूर्वमन्वतिष्ठन् ॥ द्क्च्_१,१।११ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।१२:  
+    
+ततः कदाचिन्नानाविधमहदायुधनैपुण्यरचितागण्यजन्यराजन्यमौलिपालिनिहि तनिशितसायको मगधनाथको मालवेश्वरं प्रत्यग्रसङ्ग्रामघस्मरं समुत्कटमानसारं मानसारं प्रति सहेलं न्यक्कृतजलधिनिर्घोषाहङ्कारेण भेरीझङ्कारेण हठिकाकर्णनाक्रान्तभयचण्डिमानं दिग्दन्तावलवलयं विघूर्णन्निजभरनमन्मेदिनीभरेणाक्रान्तभुजगराजमस्तकबलेन चतुरङ्गबलेन संयुतः सङ्ग्रामाभिलाषेण रोषेण महताविष्टो निर्ययौ ॥ द्क्च्_१,१।१२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।१३:  
+    
+मालवनाथो ऽप्यनेकानेकयूथपसनाथो विग्रहः सविग्रह इव साग्रहो ऽभिमुखीभूय भूयो निर्जगाम ॥ द्क्च्_१,१।१३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।१४:  
+    
+तयोरथ रथतुरगखुरक्षुण्णक्षोणीसमुद्भूते करिघटाकटस्रवन्मदधाराधौतमूले नव्यवल्लभवरणागतदिव्यकन्याजनजवनिकापटमण्डप इव वियत्तलव्याकुले धूलीपटले दिविषद्ध्वनि धिक्कृतान्यध्वनिपटहध्वानबधिरिताशेषदिगन्तरालं शस्त्राशस्त्रि हस्ताहस्ति परस्पराभिहतसैन्यं जन्यमजनि ॥ द्क्च्_१,१।१४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।१५:  
+    
+तत्र मगधराजः प्रक्षीणसकलसैन्यमण्डलं मालवराजं जीवग्राहमभिगृह्य कृपालुतया पुनरपि स्वराज्ये प्रतिष्ठापयामास ॥ द्क्च्_१,१।१५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।१६:  
+    
+ततः स रत्नाकरमेखलामिलामनन्यशासनां शासदनपत्यतया नारायणं सकललोकैककारणं निरन्तरमर्चयामास ॥ द्क्च्_१,१।१६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।१७:  
+    
+अथ कदाचित्तदग्रमहिषी "देवि! देवेन कल्पवल्लीफलमाप्नुहिऽ इति प्रभातसमये सुस्वप्नमवलोकितवती ॥ द्क्च्_१,१।१७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।१८:  
+    
+सा तदा दयितमनोरथपुष्पभूतं गर्भमधत्त ॥ द्क्च्_१,१।१८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।१९:  
+    
+राजापि सम्पन्न्यक्कृताखण्डलः सुहृन्नृपमण्डलं समाहूय निजसम्पन्यनोरथानुरूपं देव्याः सीमन्तोत्सवं व्यधत्त ॥ द्क्च्_१,१।१९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२०:  
+    
+एकदा हितैः सुहृन्मन्त्रिपुरोहितैः सभायां सिंहासनासीनो गुणैरहीनो ललाटतटन्यस्ताञ्जलिना द्वारपालेन व्यज्ञापि-"देव! देवसन्दर्शनलालसमानसः को ऽपि देवेन विरच्यार्चनार्हे यतिर्द्वारदेशमध्यास्तेऽइति ॥ द्क्च्_१,१।२० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२१:  
+    
+तदनुज्ञातेन तेन संयमी नृपसमीपमनायि ॥ द्क्च्_१,१।२१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२२:  
+    
+भूपतिरायान्तं तं विलोक्य सम्यग्ज्ञाततदीयगूढचारभावो निखिलमनुचरनिकरं विसृज्य मन्त्रिजनसमेतः प्रणतमेनं मन्दहासमभाषत-"ननु तापस! देशं सापदेशं भ्रमन्भवांस्तत्र तत्र भवदभिज्ञातं कथयतुऽइति ॥ द्क्च्_१,१।२२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२३:  
+    
+तेनाभाषि भूभ्रमणबलिना प्राञ्जलिना-"देव! शिरसि देवस्याज्ञामादायैनं निर्देषं वेषं स्वीकृत्य मालवेन्द्रनगरं प्रविश्य तत्र गूढतरं वर्तमानस्तस्य राज्ञः समस्तमुदन्तजातं विदित्वा प्रत्यागमम् ॥ द्क्च्_१,१।२३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२४:  
+    
+मानी मानसारः स्वसैनिकायुष्मत्तान्तराये सम्पराये भवतः पराजयमनुभूय वैलक्ष्यलक्ष्यहृदयो वीतदयो महाकालनिवासिनं कालीविलासिनमनश्वरं महेश्वरं समाराध्य तपः प्रभावसन्तुष्टादस्मादेकवीरारातिघ्नीं भयदां गदां लब्ध्वात्मानमप्रतिभटं मन्यमानो महाभिभानो भवन्तमभियोक्तुमुद्युङ्क्ते ।  
+ततः परं देव एव प्रमाणम्ऽ इति ॥ द्क्च्_१,१।२४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२५:  
+    
+तदालोच्य निश्चिततत्कृत्यैरमात्यै राजा विज्ञापितो ऽभूत्-देव, निरुपायेन देवसहायेन योद्धुमरातिरायाति ।  
+तस्मादस्माकं युद्धं साम्प्रतमसाम्प्रतम् ।  
+सहसा दुर्गसंश्रयः कार्यःऽइति ॥ द्क्च्_१,१।२५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२६:  
+    
+तैर्बहुधा विज्ञापितो ऽप्यखर्वेण गर्वेण विराजमानो राजा तद्वाक्यमकृत्यमित्यनादृत्य प्रतियोद्धुमना बभूव ॥ द्क्च्_१,१।२६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२७:  
+    
+शितिकण्ठदत्तशक्तिसारो मानसारो योद्धुमनसामग्रीभूय सामग्रीसमेतो ऽक्लेशं मगधदेशं प्रविवेश ॥ द्क्च्_१,१।२७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२८:  
+    
+तदा तदाकर्ण्य मन्त्रिणो भूमहेन्द्रं मगधेन्द्रं कथञ्चिदनुनीयरिपुभिरसाध्ये विन्ध्याटवीमध्ये ऽवरोधान्मूलबलरक्षितान्निवेशयामासुः ॥ द्क्च्_१,१।२८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।२९:  
+    
+राजहंसस्तु प्रशस्तवीतदैन्यसैन्यसमेतस्तीव्रगत्या निर्गत्याधिकरुषं द्विषं रुरोध ॥ द्क्च्_१,१।२९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३०:  
+    
+परस्परबद्धवैरयोरेतयोः शूरयोस्तदा तदालोकनकुतूहलागतगगनचराश्चर्यकारणे रणे वर्तमाने जयाकाङ्क्षी मालवदेशरक्षी विविधायुधस्थैर्यचर्याञ्चितसमरतुलितामरेश्वरस्य मगधेश्वरस्य तस्योपरि पुरा पुरारातिदत्तां गदां प्राहिणोत् ॥ द्क्च्_१,१।३० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३१:  
+    
+निशितशरनिकरशकलीकृतापि सा पशुपतिशासनस्यावन्ध्यतया सूतं निहत्य रथस्थं राजानं मूर्छितमकार्षीत् ॥ द्क्च्_१,१।३१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३२:  
+    
+ततो वीतप्रग्रहा अक्षतविग्रहा वाहा रथमादाय दैवगत्यान्तःपुरशरण्यं महारण्यं प्राविशन् ॥ द्क्च्_१,१।३२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३३:  
+    
+मालवनाथो जयलक्ष्मीसनाथो मगधराज्यं प्राज्यं समाक्रम्य पुष्पपुरमध्यतिष्ठत् ॥ द्क्च्_१,१।३३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३४:  
+    
+तत्र हेतिततिहतिश्रान्ता अमात्या दैवगत्यानुत्क्रान्तजीविता निशान्तवातलब्धसञ्ज्ञाः कथञ्चिदाश्वस्य राजानं समन्तादन्वीक्ष्यानवलोकितवन्तो दैन्यवन्तो देवीमवापुः ॥ द्क्च्_१,१।३४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३५:  
+    
+वसुमती तु तेभ्यो निखिलसैन्यक्षतिं राज्ञो ऽदृश्यत्वं चाकर्ण्योद्विग्ना शोकसागरमग्ना रमणानुगमने मतिं व्यधत्त ॥ द्क्च्_१,१।३५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३६:  
+    
+ऽकल्याणि, भूरमणमरणमनिश्चितम् ।  
+किञ्च दैवज्ञकथितो मथितोद्धतारातिः सार्वभौमो ऽभिरामो भविता सुकुमारः कुमारस्त्वदुदरे वसति ।  
+तस्मादद्य तव मरणमनुचितम्ऽ इति भूषितभाषितैरमात्यपुरोहितैरनुनीयमानया तया क्षणं क्षणहीनया तूष्णीमस्थायि ॥ द्क्च्_१,१।३६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३७:  
+    
+अथार्धरात्रे निद्रानिलीननेत्रे परिजने विजने शोकपारावारमपारमुत्तर्तुमशक्नुवती सेनानिवेशदेशं निःशब्दलेशं शनैरतिक्रम्य यस्मिन् रथस्य संसक्ततया तदानयनपलायनश्रान्ता गन्तुमक्षमाः क्षमापतिरथ्याः पथ्याकुलाः पूर्वमतिष्ठंस्तस्य निकटवटतरोः शाखायां मृतिरेखायामिव क्वचिदुत्तरीयार्द्धेन बन्धनं मृतिसाधनं विरच्य मर्तुकामाभिरामा वाङ्माधुरीविरसीकृतकल-कण्ठ-कण्ठा साश्रुकण्ठा व्यलपत्-"लावण्योपमितपुष्पसायक, भूनायक, भवानेव भाविन्यपि जन्मनि वल्लभो भवतुऽ इति ॥ द्क्च्_१,१।३७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३८:  
+    
+तदाकर्ण्य नीहारकरकिरणनिकरसम्पर्कलब्धावबोधो मागधो ऽगाधरुधिरविक्षरणनष्टचेष्टो देवीवाक्यमेव निश्चिन्वानस्तन्वानः प्रियवचनानि शनैस्तामाह्वयत् ॥ द्क्च्_१,१।३८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।३९:  
+    
+सा ससम्भ्रममागत्यामन्दहृदयानन्दसम्फुल्लवदनारविन्दा तमुपोषिताभ्यामिवानिमिषिताभ्यां लोचनाभ्यां पिबन्ती विकस्वरेण स्वरेण पुरोहितामात्यजनमुच्चैराहूय तेभ्यस्तमदर्शयत् ॥ द्क्च्_१,१।३९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४०:  
+    
+राजा निटिलतटचुम्बितनिजचरणाम्बुजैः प्रशंसितदैवमाहात्म्यैरमात्यैरभाणि-"देव, रथ्यचयः सारथ्यपगमे रथं रभसादरण्यमनयत्ऽइति ॥ द्क्च्_१,१।४० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४१:  
+    
+ऽतत्र निहतसैनिकग्रामे सङ्ग्रामे मालवपतिनाराधितपुरारातिना प्रहितया गदया दयाहीनेन ताडितो मूर्छामागत्यात्र वने निशान्तपवनेन बोधितो ऽभवम्ऽ इति महीपतिरकथयत् ॥ द्क्च्_१,१।४१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४२:  
+    
+ततो विरचितमहेन मन्त्रिनिवहेन विरचितदैवानुकूल्येन कालेन शिविरमानीयापनीताशेषशल्यो विकसित-निजाननारविन्दो राजा सहसा विरोपितव्रणो ऽकारि ॥ द्क्च्_१,१।४२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४३:  
+    
+विरोधिदैवधिक्कृतपुरुषकारो दैन्यव्याप्ताकारो मगधाधिपतिरधिकाधिरमात्यसम्मत्या मृदुभाषितया तया वसुमत्या मत्या कलितया च समबोधि ॥ द्क्च्_१,१।४३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४४:  
+    
+ऽदेव, सकलस्य भूपालकुलस्य मध्ये तेजोवरिष्ठो गरिष्ठो भवानद्य विन्ध्यवनमध्यं निवसतीति जलबुद्बुदसमाना विराजमाना सम्पत्तडिल्लतेव सहसैवोदेति नश्यति च ।  
+तन्निखिलं दैवायत्तमेवावधार्य कार्यम् ॥ द्क्च्_१,१।४४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४५:  
+    
+किञ्च पुरा हरिश्चन्द्ररामचन्द्रमुख्या असङ्ख्या महीन्द्रा ऐश्वर्योपमितमहेन्द्रा दैवतन्त्रं दुःखयन्त्रं सम्यगनुभूय पश्चादनेककालं निजराज्यमकुर्वन् ।  
+तद्वदेव भवान्भविष्यति ।  
+कञ्चन कालं विरचितदैवसमाधिर्विगलिताधिस्तिष्ठतु तावत् इति ॥ द्क्च्_१,१।४५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४६:  
+    
+ततः सकलसैन्यसमन्वितो राजहंसस्तपोविभ्राजमानं वामदेवनामानं तपोधनं निजाभिलाषावाप्तिसाधनं जगाम ॥ द्क्च्_१,१।४६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४७:  
+    
+तं प्रणम्य तेन कृतातिथ्यस्तस्मै कथितकथ्यस्तदाश्रमे दूरीकृतश्रमे कञ्चन कालमुषित्वा निजराज्याभिलाषी मितभाषी सोमकुलावतंसो राजहंसो मुनिमभाषत-"भगवन्, मानसारः प्रबलेन दैवबलेन मां निर्जित्य मद्भोग्यं राज्यमनुभवति ।  
+तद्वदहमप्युग्रं तपो विरच्य तमरातिमुन्मूलयिष्यामि लोकशरण्येन भवत्कारुण्येनेति नियमवन्तं भवन्तं प्राप्नवम्ऽ इति ॥ द्क्च्_१,१।४७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४८:  
+    
+ततस्त्रिकालज्ञस्तपोधनो राजानमवोचत्-सखे! शरीरकार्श्यकारिणा तपसालम् ।  
+वसुमतीगर्भस्थः सकलरिपुकुलमर्दनो राजनन्दनो नूनं सम्भविष्यति, कञ्चन कालं तूष्णीमास्स्वऽइति ॥ द्क्च्_१,१।४८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।४९:  
+    
+गगनचारिण्यापि वाण्या "सत्यमेतत्ऽ इति तदेवावाचि ।  
+राजापि मुनिवाक्य मङ्गीकृत्यातिष्ठत् ॥ द्क्च्_१,१।४९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५०:  
+    
+ततः सम्पूर्णगर्भदिवसा वसुमती सुमुहूर्ते सकललक्षणलक्षितं सुतमसूत ।  
+ब्रह्मवर्चसेन तुलितवेधसं पुरोधसं पुरस्कृत्य कृत्यविन्महीपतिः कुमारं सुकुमारं जातसंस्कारेण बालालङ्कारेण च विराजमानं राजवाहननामानं व्यधत्त ॥ द्क्च्_१,१।५० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५१:  
+    
+तस्मिन्नेव काले सुमतिसुमित्रसुमन्त्रसुश्रुतानां मन्त्रिणां प्रमतिमित्रगुप्तयन्त्रगुप्तविश्रुताख्या महाभिख्याः सूनवो नवोद्यदिन्दुरुचश्चिरायुषः समजायन्त ।  
+राजवाहनो मन्त्रिपुत्रैरात्ममित्रैः सह बालकेलीरनुभवन्नवर्धत ॥ द्क्च्_१,१।५१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५२:  
+    
+अथ कदाचिदेकेन तापसेन रसेन राजलक्षणविराजितं कच्चिन्नयनानन्दकरं सुकुमारं कुमारं राज्ञे समर्प्यावोचि-भूवल्लभ, कुशसमिदानयनाय वनं गतेन मया काचिदशरण्या व्यक्तकार्पण्याश्रु मुञ्चन्ती वनिता विलोकिता ॥ द्क्च्_१,१।५२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५३:  
+    
+निर्जने वने किन्निमित्तं रुद्यते त्वया इति पृष्टा सा करसरोरुहैरश्रु प्रमृज्य सगद्गदं मामवोचत्-मुने, लावण्यजितपुष्पसायके मिथिलानायके कीर्तिव्याप्तसुधर्मणि निजसुहृदो मगधराजस्य सीमन्तिनीसीमन्तमहोत्सवाय पुत्रदारसमन्विते पुष्पपुरमुपेत्य कञ्चन कालमधिवसति समाराधितगिरीशो मालवाधीशो मगधराजं योद्धुमभ्यगात् ॥ द्क्च्_१,१।५३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५४:  
+    
+तत्र प्रख्यातयोरेतयोरसङ्ख्ये सङ्ख्ये वर्तमाने सुहृत्साहाय्यकं कुर्वाणो निजबले सति विदेहे विदेहेश्वरः प्रहारवर्मा जयवता रिपुणाभिगृह्य कारुण्येन पुण्येन विसृष्टो हतावशेषेण शून्येन सैन्येन सह स्वपुरगमनमकरोत् ॥ द्क्च्_१,१।५४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५५:  
+    
+ततो वनमार्गेण दुर्गेण गच्छन्नधिकबलेन शबरबलेन रभसादभिहन्यमानो मूलबलाभिरक्षितावरोधः स महानिरोधः पलायिष्ट ।  
+तदीयार्भकयोर्यमयोर्धात्रीभावेन परिकल्पिताहं मद्दुहितापि तीव्रगतिं भूपतिमनुगन्तुमक्षमे अभूव ।  
+तत्र विवृतवदनः को ऽपि रूपीकोप इव व्याघ्रः शीघ्रं मामाघ्रातुमागतवान् ।  
+भीताहमुदग्रग्राव्णि स्खलन्ती पर्यपतम् ।  
+मदीयपाणिभ्रष्टो बालकः कस्यापि कपिलाशवस्य क्रोडमभ्यलीयत ॥ द्क्च्_१,१।५५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५६:  
+    
+तच्छवाकर्षिणो ऽमर्षिणो व्याघ्रस्य प्राणान्बाणो बाणासनयन्त्रमुक्तो ऽपाहरत् ।  
+लोलालको बालको ऽपि शबरैरादाय कुत्रचिदुपानीयत ।  
+कुमारमपरमुद्वहन्ती मद्दुहिता कुत्र गता न जाने ।  
+साहं मोहं गता केनापि कृपालुना वृष्णिपालेन स्वकुटीरमावेश्य विरोपितव्रणाभवम् ।  
+ततः स्वस्थीभूय क्ष्माभर्तुरन्तिकमुपतिष्ठासुरसहायतया दुहितुरनभिज्ञतया च व्याकुलीभवामि-इत्यभिदधाना "एकाकिन्यपि स्वामिनं गमिष्यामिऽ इति सा तदैव निरगात् ॥ द्क्च्_१,१।५६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५७:  
+    
+अहमपि भवन्मित्रस्य विदेहनाथस्य विपन्निमित्तं विषादमनुभवंस्तदन्वयाङ्कुरं कुमारमन्विष्यंस्तदैकं चण्डिकामन्दिरं सुन्दरं प्रागाम् ॥ द्क्च्_१,१।५७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५८:  
+    
+तत्र सन्ततमेवंविधविजयसिद्धये कुमारं देवतोपहारं करिष्यन्तः किराताः "महारुहशाखावलम्बितमेनमसिलतया वा, सैकततले खनननिक्षिप्तचरणं लक्षीकृत्य शितशरनिकरेण वा, अनेकचरणैः पलायमानं कुक्कुरबालकैर्वा दंशयित्वा संहनिष्यामःऽ इति भाषमाणा मया समभ्यभाषन्त "ननु किरातोत्तमाः, घोरप्रचारे कान्तारे स्खलितपथः स्थविरभूसुरो ऽहं मम पुत्रकं क्वचिच्छायायां निक्षिप्य मार्गान्वेषणाय किञ्चिदन्तरमगच्छम् ॥ द्क्च्_१,१।५८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।५९:  
+    
+स कुत्र गतः, केन वा गृहीतः, परीक्ष्यापि न वीक्ष्यते तन्मुखावलोकनेन विनानेकान्यहान्यतीतानि ।  
+किं करोमि, क्व यामि भवद्भिर्न किमदर्शि इति ॥ द्क्च्_१,१।५९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६०:  
+    
+ऽद्विजोत्तम! कश्चिदत्र तिष्ठति ।  
+किमेष तव नन्दनः सत्यमेव ।  
+तदेनं गृहाणऽ इत्युक्त्वा दैवानुकूल्येन मह्यं तं व्यतरन् ॥ द्क्च्_१,१।६० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६१:  
+    
+तेभ्यो दत्ताशीरहं बालकमङ्गीकृत्य शिशिरोदकादिनोपचारेणाश्वास्य निःशङ्कं भवदङ्कं समानीतवानस्मि ।  
+एनमायुष्मन्तं पितृरूपो भवानभिरक्षतात्ऽइति ॥ द्क्च्_१,१।६१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६२:  
+    
+राजा सुहृदापन्निमित्तं शोकं तन्नन्दनविलोकनसुखेन किञ्चिदधरीकृत्य तमुपहारवर्मनाम्नाहूय राजवाहनमिव पुपोष ॥ द्क्च्_१,१।६२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६३:  
+    
+जनपतिरेकस्मिन् पुण्यदिवसे तीर्थस्नानाय पक्वणनिकटमार्गेण गच्छन्नबलया कयाचिदुपलालितमनुपमशरीरं कुमारं कञ्चिदवलोक्य कुतूहलाकुलस्तामपृच्छत्-"भामिनि! रुचिरमूर्तिः सराजगुणसम्पूर्तिरसावर्भको भवदन्वयसम्भवो न भवति कस्य नयनानन्दः, निमित्तेन केन भवदधीनो जातः कथ्यतां याथातथ्येन त्वयाऽ इति ॥ द्क्च्_१,१।६३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६४:  
+    
+प्रणतया तया शबर्या सलीलमलापि-"राजन्! आत्मपल्लीसमीपे पदव्यां वर्तमानस्य शक्रसमानस्य मिथिलेश्वरस्य सर्वस्वमपहरति शबरसैन्ये मद्दयितेनापहृत्य कुमार एष मह्यमर्पितो व्यवर्धत इति ॥ द्क्च्_१,१।६४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६५:  
+    
+तदवधार्य कार्यज्ञो राजा मुनिकथितं द्वितीयं राजकुमारमेव निश्चित्य सामदानाभ्यां तामनुनीयापहारवर्मेत्याख्याय देव्यै "वर्धयऽ इति समर्पितवान् ॥ द्क्च्_१,१।६५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६६:  
+    
+कदाचिद्वामदेवशिष्यः सोमदेवशर्मा नाम कञ्चिदेकं बालकं राज्ञः पुरो निक्षिप्याभाषत-देव! रामतीर्थे स्नात्वा प्रत्यागच्छता मया काननावनौ वनितया कयापि धार्यमाणमेनमुज्ज्वलाकारं कुमारं विलोक्य सादरमभाणि--"स्थविरे! का त्वम्? एतस्मिन्नटवीमध्ये बालकमुद्वहन्ती किमर्थमायासेन भ्रमसिऽ इति ॥ द्क्च्_१,१।६६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६७:  
+    
+वृद्धयाप्यभाषि-"मुनिवर! कालयवननाम्नि द्वीपे कालगुप्तो नाम धनाढ्यो वैश्यवरः कश्चिदस्ति ।  
+तन्नन्दिनीं नयनानन्दकारिणीं सुवृत्तां नामैतस्माद् द्वीपादागतो मगधनाथमन्त्रिसम्भवो रत्नोद्भवो नाम रमणीयगुणालयो भ्रान्तभूवलयो मनोहारी व्यवहार्युपयम्य सुवस्तुसम्पदा श्वशुरेण सम्मानितो ऽभूत् ।  
+कालक्रमेण नताङ्गी गर्भिणी जाता ॥ द्क्च्_१,१।६७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।६८:  
+    
+ततः सोदरविलोकनकौतूहलेन रत्नोद्भवः कथञ्चिच्छ्वशुरमनुनीय चपललोचनया सह प्रवहणमारुह्य पुष्पपुरमभिप्रतस्थे ।  
+कल्लोलमालिकाभिहतः पोतः समुद्राम्भस्यमज्जत् ॥ द्क्च्_१,१।६८ ॥  
+__________
+
+स्तर्त् द्क्च् १,१।६९:  
+    
+गर्भभरालसां तां ललनां धात्रीभावेन कल्पिताहं कराभ्यामुद्वहन्ती फलकमेकमधिरुह्य दैवगत्या तीरभूमिमगमम् ।  
+सुहृज्जनपरिवृतो रत्नोद्भवस्तत्र निमग्नो वा केनोपायेन तीरमगमद्वा न जानामि ।  
+क्लेशस्य परां काष्ठामधिगता सुवृत्तास्मिन्नटवीमध्ये ऽद्य सुतमसूत ।  
+प्रसववेदनया विचेतना सा प्रच्छायशीतले तरुतले निवसति ।  
+विजने वने स्थातुमशक्यतया जनपदगामिनं मार्गमन्वेष्टुमुद्युक्तया मया विवशायास्तस्याः समीपे बालकं निक्षिप्य गन्तुमनुचितमिति कुमारो ऽप्यनायि इति ॥ द्क्च्_१,१।६९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७०:  
+    
+तस्मिन्नेव क्षणे वन्यो वारणः कश्चिददृश्यत ।  
+तं विलोक्य भीता सा बालकं निपात्य प्राद्रवत् ।  
+अहं समीपलतागुल्मके प्रविश्य परीक्षमाणो ऽतिष्ठम्, निपतितं बालकं पल्लवकवलमिवाददति गजपतौ कण्ठीरवो महाग्रहेण न्यपतत् ।  
+भयाकुलेन दन्तावलेन झटिति वियति समुत्पात्यमानो बालको न्यपतत् ।  
+चिरायुष्मत्तया स चोन्नततरुशाखासमासीनेन वानरेण केनचित्पक्वफलबुद्ध्या परिगृह्य फलेतरतया विततस्कन्धमूले निक्षिप्तो ऽभूत् ।  
+सो ऽपि मर्कटः क्वचिदगात् ॥ द्क्च्_१,१।७० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७१:  
+    
+बालकेन सत्त्वसम्पन्नतया सकलक्लेशसहेनाभावि ।  
+केसरिणा करिणं निहत्य कुत्रचिदगामि ।  
+लतागृहान्निर्गतो ऽहमपि तेजःपुञ्जं बालकं शनैरवनीरुहादवतार्य वनान्तरे वनि तामन्विष्याविलोक्यैनमानीय गुरवे निवेद्य तन्निदेशेन भवन्निकटमानीतवानस्मिऽइति ॥ द्क्च्_१,१।७१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७२:  
+    
+सर्वेषां सुहृदामेकदैवानुकूलदैवाभावेन महदाश्चर्यं विभ्राणो राजा "रत्नोद्भवः कथमभवत्ऽ इति चिन्तयंस्तन्नन्दनं पुष्पोद्भवनामधेयं विधाय तदुदन्तं व्याख्याय सुश्रुताय विषादसन्तोषावनुभवंस्तदनुजतनयं समर्पितवान् ॥ द्क्च्_१,१।७२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७३:  
+    
+अन्येद्युः कञ्चन बालकमुरसि दधती वसुमतीवल्लभमभिगता ।  
+तेन "कुत्रत्यो ऽयम् इति पृष्टा समभाषत-"राजन्! अतीतायां रात्रौ काचन दिव्यवनिता मत्पुरतः कुमारमेनं संस्थाप्य निद्रामुद्रितां मां विबोध्य विनीताब्रवीत्-"देवि! त्वन्मन्त्रिणो धर्मपालनन्दनस्य कामपालस्य वल्लभा यक्षकन्याहं तारावली नाम, नन्दिनी मणिभद्रस्य ।  
+यक्षेश्वरानुमत्या मदात्मजमेतं भवत्तनूजस्याम्भोनिधिवलयवेष्टितक्षोणीमण्डलेश्वरस्य भाविनो विशुद्धयशोनिधे राजवाहनस्य परिचर्याकरणायानीतवत्यस्मि ।  
+त्वमेनं मनोजसन्निभमभिवर्धय, इति विस्मयविकसितनयनया मया सविनयं सत्कृता स्वक्षी यक्षी साप्यदृश्यतामयासीत्ऽ इति ॥ द्क्च्_१,१।७३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७४:  
+    
+कामपालस्य यक्षकन्यासङ्गमे विस्मयमानमानसो राजहंसो रञ्जितमित्रं सुमित्रं मन्त्रिणमाहूय तदीयभ्रातृपुत्रमर्थपालं विधाय तस्मै सर्वं वार्तादिकं व्याख्यायादात् ॥ द्क्च्_१,१।७४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७५:  
+    
+ततः परस्मिन् दिवसे वामदेवान्तेवासी तदाश्रमवासी समाराधितदेवकीर्तिं निर्भर्त्सितमारमूर्तिं कुसुमसुकुमारं कुमारमेकमवगमय्य नरपतिमवादीत् "देव! विलोलालकं बालकं निजोत्सङ्गतले निधाय रुदतीं स्थविरामेकां विलोक्यावोचम् "स्थविरे! का त्वम्, अयमर्भकः कस्य नयनानन्दकरः कान्तारं किमर्थमागता, शोककारणं किम्ऽइति ॥ द्क्च्_१,१।७५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७६:  
+    
+सा करयुगेन वाष्पजलमुन्मृज्य निजशोकशङ्कूत्पाटनक्षममिव मामवलोक्य शोकहेतुमवोचत्-द्विजात्मज! राजहंसमन्त्रिणः सितवर्मणः कनीयानात्मजः सत्यवर्मा तीर्थयात्रामिषेण देशमेनमागच्छत् ।  
+स कस्मिंश्चिदग्रहारे कालीं नाम कस्यचिद् भूसुरस्य नन्दिनीं विवाह्य तस्या अनपत्यतया गौरीं नाम तद्भगिनीं काञ्चनकान्तिं परिणीय तस्यामेकं तनयमलभत ।  
+काली सासूयमेकदा धात्र्या मया सह बालमेनमेकेन मिषेणानीय तटिन्यामेतस्यामक्षिपत् ।  
+करेणैकेन बालमुद्धृत्यापरेण प्लवमाना नदीवेगागतस्य कस्यचित्तरोः शाखामवलम्ब्य तत्र शिशुं निधाय नदीवेगेनोह्यमाना केनचित्तरुलग्नेन कालभोगिनाहमदंशि ।  
+मदवलम्बीभूतो भूरुहो ऽयमस्मिन् देशे तीरमगमत् ।  
+गरलस्योद्दीपनतया मयि मृतायामरण्ये कश्चन शरण्यो नास्तीति मया शोच्यते इति ॥ द्क्च्_१,१।७६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७७:  
+    
+ततो विषमविषज्वालावलीढावयवा सा धरणीतले न्यपतत् ।  
+दयाविष्टहृदयो ऽहं मन्त्रबलेन विषव्यथामपनेतुमक्षमः समीपकुञ्जेष्वौषधिविशेषमन्विष्य प्रत्यागतो व्युत्क्रान्तजीवितां तां व्यलोकयम् ॥ द्क्च्_१,१।७७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७८:  
+    
+तदनु तस्याः पावकसंस्कारं विरच्य शोकाकुलचेताः बालमेनमगतिमादाय सत्यवर्मवृत्तान्तवेलायां तन्निवासाग्रहारनामधेयस्याश्रुततया तदन्वेषणमशक्यमित्यालोच्य भवदमात्यतनयस्य भवानेवाभिरक्षितेति भवन्तमेनमानयम्ऽ इति ॥ द्क्च्_१,१।७८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।७९:  
+    
+तन्निशम्य सत्यवर्मस्थितेः सम्यगनिश्चिततया खिन्नमानसो नरपतिः सुमतये मन्त्रिणे सोमदत्तं नाम तदनुजतनयमर्पितवान् ।  
+सो ऽपि सोदरमागतमिव मन्यमानो विशेषेण पुपोष ॥ द्क्च्_१,१।७९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,१।८०:  
+    
+एवं मिलितेन कुमारमण्डलेन सह बालकेलीरनुभवन्नधिरूढानेकवाहनो राजवाहनो ऽनुक्रमेण चौलोपनयनादिसंस्कारजातमलभत ।  
+ततः सकललिपिज्ञानं निखिलदेशीयभाषापाण्डित्यषडङ्गसहितवेदसमुदायकोविदत्वं काव्यनाटकाख्यानकाख्यायिकेतिहासचित्रकथासहितपुराणगणनैपुण्यं धर्मशब्दज्योतिस्तर्कमीमांसादि समस्तशास्त्रनिकरचातुर्यं कौटिल्यकामन्दकीयादिनीतिपटलकौशलं वीणाद्यशेषवाद्यदाक्ष्यं सङ्गीतसाहित्यहारित्वं मणिमन्त्रौषधादिमायाप्रपञ्चचुञ्चुत्वं मातङ्गतुरङ्गादिवाहनारोहणपाटवं विविधायुधप्रयोगचणत्वं चौर्यदुरोदरादिकपटकलाप्रौढत्वं च तत्तदाचार्येभ्यः सम्यग्लब्ध्वा यौवनेन विलसन्तं कुमारनिकरं निरीक्ष्य महीवल्लभः सः "अहं शत्रुजनदुर्लभःऽ इति परमानन्दममन्दमविन्दत ॥ द्क्च्_१,१।८० ॥
+
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते कुमारोत्पत्तिर्नाम प्रथम उच्छ्वासः  
+    
+__________________________________________________________________________________
+
+द्वितीयोच्छ्वासः  
+    
+__________
+
+स्तर्त् द्क्च् १,२।१:  
+    
+अथैकदा वामदेवः सकलकलाकुशलेन कुसुमसायकसंशयितसौन्दर्येण कल्पित सोदर्येण साहसापहसितकुमारेण सुकुमारेण जयध्वजातपवारणकुलिशाङ्कितकरेण कुमारनिकरेण परिवेष्टितं राजानमानतशिरसं समभिगम्य तेन तां कृतां परिचर्यामङ्गीकृत्य निजचरणकमलयुगलमिलन्मधुकरायमाणकाकपक्षं विदलिष्यमाणविपक्षं कुमारचयं गाढमालिङ्ग्य मितसत्यवाक्येन विहिताशीरभ्यभाषत ॥ द्क्च्_१,२।१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।२:  
+    
+भूवल्लभ, भवदीयमनोरथफलमिव समृद्धलावण्यं तारुण्यं नुतमित्रो भवत्पुत्रो ऽनुभवति ।  
+सहचरसमेतस्य नूनमेतस्य दिग्विजयारम्भसमयः एषः ।  
+तदस्य सकलक्लेशसहस्य राजवाहनस्य दिग्विजयप्रयाणं क्रियताम् इति ॥ द्क्च्_१,२।२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।३:  
+    
+कुमारा माराभिरामा रामाद्यपौरुषा रुषा भस्मीकृतारयो रयोपहसितसमीरणा रणाभियानेन यानेनाभ्युदयाशंसं राजानमकार्षुः ।  
+तत्साचिव्यमितरेषां विधाय समुचितां बुद्धिमुपदिश्य शुभे मुहूर्ते सपरिवारं कुमारं विजयाय विससर्ज ॥ द्क्च्_१,२।३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।४:  
+    
+राजवाहनो मङ्गलसूचकं शुभशकुनं विलोकयन्देशं कञ्चिदतिक्रम्य विन्ध्याटवीमध्यमविशत् ।  
+तत्र हेतिहतिकिणाङ्कं कालायसकर्कशकायं यज्ञोपवीतेनानुमेयविप्रभावं व्यक्तकिरातप्रभावं लोचनपरुषं कमपि पुरुषं ददर्श ॥ द्क्च्_१,२।४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।५:  
+    
+तेन विहितपूजनो राजवाहनो ऽभाषत-"ननु मानव, जनसङ्गरहिते मृगहिते घोरप्रचारे कान्तारे विन्ध्याटवीमध्ये भवानेकाकी किमिति निवसति ।  
+भवदंसोपनीतं यज्ञोपवीतं भूसुरभावं द्योतयति ।  
+हेतिहतिभिः किरातरीतिरनुमीयते ।  
+कथय किमेतत्ऽ इति ॥ द्क्च्_१,२।५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।६:  
+    
+ऽतेजोमयो ऽयं मानुषमात्रपौरुषो नूनं न भवतिऽ इति मत्वा स पुरुषस्तद्वयस्य मुखान्नामजनने विज्ञाय तस्मै निजवृत्तान्तमकथयत्-"राजनन्दन, केचिदस्यामटव्यां वेदादिविद्याभ्यासमपहाय निजकुलाचारं दूरीकृत्य सत्यशौचादिधर्मव्रातं परिहृत्य किल्विषमन्विष्यन्तः पुलिन्दपुरोगमास्तदन्नमुपभुञ्जानाबहवो ब्राह्मणब्रुवा निवसन्ति तेषु कस्यचित्पुत्रो निन्दापात्रचारित्रो मातङ्गोनामाहं सहकिरातबलेन जनपदं प्रविश्य ग्रामेषु धनिनः स्त्रीबालसहितानानीयाटव्यां बन्धने निधाय तेषां सकलधनमपहरन्नुद्धतो वीतदयो व्यचरम् ।  
+कदाचिदेकस्मिन् कान्तारे मदीयसहचरगणेन जिघांस्यमानं भूसुरमेकमवलोक्य दयायत्तचित्तो ऽब्रवम्-"ननु पापाः, न हन्तव्यो ब्राह्मणऽ इति ॥ द्क्च्_१,२।६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।७:  
+    
+ते रोषारुणनयना मां बहुधा निरभर्त्सयन् ।  
+तेषां भाषणपारुष्यमसहिष्णुरहमवनिसुररक्षणाय चिरं प्रयुध्य तैरभिहतो गतजीवितो ऽभवम् ॥ द्क्च्_१,२।७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।८:  
+    
+ततः प्रेतपुरीमुपेत्य तत्र देहधारिभिः पुरुषैः परिवेष्टितं सभामध्ये रत्नखचितसिंहासनासीनं शमनं विलोक्य तस्मै दण्डप्रणाममकरवम् ।  
+सो ऽपि मामवेक्ष्य चित्रगुप्तं नाम निजामात्यमाहूय तमवोचत् "सचिव, नैषो ऽमुष्य मृत्युसमयः ।  
+निन्दितचरितो ऽप्ययं महीसुरनिमित्तं गतजीवितो ऽभूत् ।  
+इतःप्रभृति विगलितकल्मषस्यास्य पुण्यकर्मकरणे रुचिरुदेष्यति ।  
+पापिष्ठैरनुभूयमानमत्र यातनाविशेषं विलोक्य पुनरपि पूर्वशरीरमनेन गम्यताम्ऽ इति ॥ द्क्च्_१,२।८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।९:  
+    
+चित्रगुप्तो ऽपि तत्र तत्र सन्तप्तेष्वायसस्तम्भेषु बध्यमानान्, अत्युष्णीकृते विततशरावे तैले निक्षिप्यमाणान्, लगुडैर्जर्जरीकृतावयवान्, निशितटङ्कैः परितक्ष्यमाणानपि दर्शयित्वा पुण्यबुद्धिमुपदिश्य माममुञ्चत् ।  
+तदेव पूर्वशरीरमहं प्राप्तो महाटवीमध्ये शीतलोपचारं रचयता महीसुरेण परीक्ष्यमाणः शिलायां शयितः क्षणमतिष्ठम् ॥ द्क्च्_१,२।९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।१०:  
+    
+तदनु विदितोदन्तो मदीयवंशबन्धुगणः सहसागत्य मन्दिरमानीय मामपक्रान्तव्रणमकरोत् ।  
+द्विजन्मा कृतज्ञो मह्यमक्षरशिक्षां विधाय विविधागमतन्त्रमाख्याय कल्मषक्षयकारणं सदाचारमुपदिश्य ज्ञानेक्षणगम्यमानस्य शशिखण्डशेखरस्य पूजाविधानमभिधाय पूजां मत्कृतामङ्गीकृत्य निरगात् ॥ द्क्च्_१,२।१० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।११:  
+    
+तदारभ्याहं किरातकृतसंसर्गं बन्धुवर्गमुत्सृज्य सकललोकैकगुरुमिन्दुकलावतंसं चेतसि स्मरन्नस्मिन्कानने दूरीकृतकलङ्को वसामि ।  
+"देव, भवते विज्ञापनीयं रहस्यं किञ्चिदस्ति ।  
+आगम्यताम् इति ॥ द्क्च्_१,२।११ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।१२:  
+    
+स वयस्यगणादपनीय रहसि पुनरेनमभाषत-"राजन्, अतीते निशान्ते गौरीपतिः स्वप्नसन्निहितो निद्रामुद्रितलोचनं विबोध्य प्रसन्नवदनकान्तिः प्रश्रयानतं मामवोचत्-मातङ्ग, दण्डकारण्यान्तरालगामिन्यास्तटिन्यास्तीरभूमौ सिद्धसाध्याराध्यमानस्य स्फटिकलिङ्गस्य पश्चादद्रिपतिकन्यापदपङ्क्तिचिह्नितस्याश्मनः सविधे विधेराननमिव किमपि बिलं विद्यते ।  
+तत्प्रविश्य तत्र निक्षिप्तं ताम्रशासनं शासनं विधातुरिव समादाय विधिं तदुपदिष्टं दिष्टविजयमिव विधाय पाताललोकाधीश्वरेण भवता भवितव्यम् ।  
+भवत्साहाय्यकरो राजकुमारो ऽद्य श्वो वा समागमिष्यतिऽ इति ।  
+तदादेशानुगुणमेव भवदागमनमभूत् ।  
+साधनाभिलाषिणो मम तोषिणो रचय साहाय्यम्ऽ इति ॥ द्क्च्_१,२।१२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।१३:  
+    
+ऽतथाऽ इति राजवाहनः साकं मातङ्गेन नमितोत्तमाङ्गेन विहायार्धरात्रे निद्रापरतन्त्रं मित्रगणं वनान्तरमवाप ।  
+तदनु तदनुचराः कल्येन साकल्ये राजकुमारमनवलोकयन्तो विषण्णहृदयास्तेषु तेषु वनेषु सम्यगन्विष्यानवेक्षमाणा एतदन्वेषणमनीषया देशान्तरं चरिष्णवो ऽतिसहिष्णवो निश्चितपुनःसङ्केतस्थानाः परस्परं वियुज्य ययुः ॥ द्क्च्_१,२।१३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।१४:  
+    
+लोकैकवीरेण कुमारेण रक्ष्यमाणः सन्तुष्टान्तरङ्गो मातङ्गो ऽपि बिलं शशिशेखरकथिताभिज्ञानपरिज्ञातं निःशङ्कं प्रविश्य गृहीतताम्रशासनो रसातलं पथा तेनैवोपेत्य तत्र कस्यचित्पत्तनस्य निकटे केलीकाननकासारस्य विततसारसस्य समीपे नानाविधेनेशशासनविधानोपपादितेन हविषा होमं विरच्य प्रत्यूहपरिहारिणि सविस्मयं विलोकयति राजवाहने समिधाज्यसमुज्ज्वलिते ज्वलने पुण्यगेहं देहं मन्त्रपूर्वकमाहुतीकृत्य तडित्समानकान्तिं दिव्यां तनुमलभत ॥ द्क्च्_१,२।१४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।१५:  
+    
+तदनु मणिमयमण्डनमण्डलमण्डिता सकललोकललनाकुलललामभूता कन्यका काचन विनीतानेकसखीजनानुगम्यमाना कलहंसगत्या शनैरागत्यावनिसुरोत्तमाय मणिमेकमुज्ज्वलाकारमुपायनीकृत्य तेन "का त्वम्ऽ इति पृष्टा सोत्कण्ठा कलकण्ठस्वनेन मन्दं मन्दमुदञ्जलिरभाषत ॥ द्क्च्_१,२।१५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।१६:  
+    
+ऽभूसुरोत्तम, अहमसुरोत्तमनन्दिनी कालिन्दी नाम ।  
+मम पितास्य लोकस्य शासिता महानुभावो निजपराक्रमासहिष्णुना विष्णुना दूरीकृतामरे समरे यमनगरातिथिरकारि ।  
+तद्वियोगशोकसागरमग्नां मामवेक्ष्य को ऽपि कारुणिकः सिद्धतापसो ऽभाषत ॥ द्क्च्_१,२।१६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।१७:  
+    
+ऽबाले, कश्चिद्दिव्यदेहधारी मानवो नवो वल्लभस्तव भूत्वा सकलं रसातलं पालयिष्यतिऽ इति ।  
+तदादेशं निशम्य घनशब्दोन्मुखी चातकी वर्षागमनमिव तवालोकनकाङ्क्षिणी चिरमतिष्ठम् ।  
+मन्मनोरथफलायमानं भवदागमनमवगम्य मद्राज्यावलम्बभूतामात्यानुमत्या मदनकृतसारथ्येन मनसा भवन्तमागच्छम् ।  
+लोकस्यास्य राजलक्ष्मीमङ्गीकृत्य मां तत्सपत्नीं करोतु भवान्ऽ इति ॥ द्क्च्_१,२।१७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।१८:  
+    
+मातङ्गो ऽपि राजवाहनानुमत्या तां तरुणीं परिणीय दिव्याङ्गनालाभेन हृष्टतरो रसातलराज्यमुररीकृत्य परमानन्दमाससाद ॥ द्क्च्_१,२।१८ ॥  
+__________
+
+स्तर्त् द्क्च् १,२।१९:  
+    
+वञ्चयित्वा वयस्यगणं समागतो राजवाहनस्तदवलोकनकौतूहलेन भुवं गमिष्णुः कालिन्दीदत्तं क्षुत्पिपासादिक्लेशनाशनं मणिं साहाय्यकरणसन्तुष्टान्मतङ्गाल्लब्ध्वा कञ्चनाध्वानमनुवर्तमानं तं विसृज्य बिलपथेन तेन निर्ययौ ।  
+तत्र च मित्रगणमवलोक्य भुवं बभ्राम ॥ द्क्च्_१,२।१९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।२०:  
+    
+भ्रमंश्च विशालोपशल्ये कमप्याक्रीडमासाद्य तत्र विशश्रमिषुरान्दोलिकारूढं रमणीसहितमाप्तजनपरिवृतमुद्याने समागतमेकं पुरुषमपश्यत् ।  
+सो ऽपि परमानन्देन पल्लवितचेता विकसितवदनारविन्दः "मम स्वामी सोमकुलावतंसो विशुद्धयशोनिधी राजवाहनः एषः ।  
+महाभाग्यतयाकाण्ड एवास्य पादमूलं गतवानस्मि ।  
+सम्प्रति महान्नयनोत्सवो जातःऽ इति ससम्भ्रममान्दोलिकाया अवतीर्य सरभसपदविन्यासविलासिहर्षोत्कर्षचरितस्त्रिचतुरपदान्युद्गतस्य चरणकमलयुगलं गलदुल्लसन्मल्लिकावलयेन मौलिना पस्पर्श ॥ द्क्च्_१,२।२० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।२१:  
+    
+प्रमोदाश्रुपूर्णो राजा पुलकिताङ्गं तं गाढमालिङ्ग्य "अये सौम्य सोमदत्त!ऽ इति व्याजहार ।  
+ततः कस्यापि पुन्नागभूरुहस्य छायाशीतले तले संविष्टेन मनुजनाथेन सप्रणयमभाणि-"सखे! कालमेतावन्तम्, देशे कस्मिन्, प्रकारेण केनास्थायि भवता, सम्प्रति कुत्र गम्यते, तरुणी केयम्, एष परिजनः सम्पादितः कथम्, कथय इति ॥ द्क्च्_१,२।२१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,२।२२:  
+    
+सो ऽपि मित्रसन्दर्शनव्यतिकरापगतचिन्ताज्वरातिशयो मुकुलितकरकमलः सविनयमात्मीयप्रचारप्रकारमवोचत् ॥ द्क्च्_१,२।२२ ॥
+
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते द्विजोपकृतिर्नाम द्वितीय उच्छ्वासः  
+    
+__________________________________________________________________________________
+
+तृतीयोच्छ्वासः  
+    
+__________
+
+स्तर्त् द्क्च् १,३।१:  
+    
+ऽदेव, भवच्चरणकमलसेवाभिलाषीभूतो ऽहं भ्रमन्नेकस्यां वनावनौ पिपासाकुलो लतापरिवृतं शीतलं नदसलिलं पिबन्नुज्ज्वलाकारं रत्नं तत्रैकमद्राक्षम् ।  
+तदादाय गत्वा कञ्चनाध्वानमम्बरमणेरत्युष्णतया गन्तुमक्षमो वने ऽस्मिन्नेव किमपि देवतायतनं प्रविष्टो दीनाननं बहुतनयसमेतं स्थविरमहीसुरमेकमवलोक्य कुशलमुदितदयो ऽहमपृच्छम् ॥ द्क्च्_१,३।१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।२:  
+    
+कार्पण्यविवर्णवदनो मदाशापूर्णमानसो ऽवोचदग्रजन्मा-"महाभाग सुतानेतान्मातृहीनाननेकैरुपायै रक्षन्निदानीमस्मिन्कुदेशे भैक्ष्यं सम्पाद्य दददेतेभ्यो वसामि शिवालये ऽस्मिन्ऽइति ॥ द्क्च्_१,३।२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।३:  
+    
+ऽभूदेव, एतत्कटकाधिपती राजा कस्य देशस्य, किं नामधेयः, किमत्रागमनकारणमस्यऽ इति पृष्टो ऽभाषत महीसुरः-"सौम्य, मत्तकालो नाम लाटेश्वरो देशस्यास्य पालयितुर्वीरकेतोस्तनयां वामलोचनां नाम तरुणीरत्नमसमानलावण्यां श्रावं श्रावमवधूतदुहितृप्रार्थनस्य तस्य नगरीमरौत्सीत् ।  
+वीरकेतुरपि भीतो महदुपायनमिव तनयां मत्तकालायादात् ।  
+तरुणीलाभहृष्टचेता लाटपतिः "परिणेया निजपुर एवऽ इति निश्चित्य गच्छन्निजदेशं प्रति सम्प्रति मृगयादरेणात्र वने सैन्यावासमकारयत् ॥ द्क्च्_१,३।३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।४:  
+    
+कन्यासारेण नियुक्तो मानपालो नाम वीरकेतुमन्त्री मानधनश्च्तुरङ्गबल समन्वितो ऽन्यत्र रचितशिबिरस्तं निजनाथावमानखिन्नमानसो ऽन्तर्बिभेद इति ॥ द्क्च्_१,३।४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।५:  
+    
+विप्रो ऽसौ बहुतनयो विद्वान्निर्धनः स्थविरश्च दानयोग्य इति तस्मै करुणापूर्णमना रत्नमदाम् ।  
+परमाह्लादविकसिताननो ऽभिहितानेकाशीः कुत्रचिदग्रजन्मा जगाम ।  
+अध्वश्रमखिन्नेन मया तत्र निरवेशि निद्रासुखम् ।  
+तदनु पश्चान्निगडितबाहुयुगलः स भूसुरः कशाघातचिह्नितगात्रो ऽनेकनैस्त्रिंशिकानुयातो ऽभ्येत्य माम् "असौ दस्युःऽ इत्यदर्शयत् ॥ द्क्च्_१,३।५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।६:  
+    
+परित्यक्तभूसुरा राजभटा रत्नावाप्तिप्रकारं मदुक्तमनाकर्ण्य भयरहितं मां गाढं नियम्य रज्जुभिरानीय कारागारम् "एते तव सखायःऽ इति निगडितान्कांश्चिन्निर्दिष्टवन्तो मामपि निगडितचरणयुगलमकार्षुः ।  
+किड्कर्तव्यतामूढेन निराशक्लेशानुभवेनावाचि मया-"ननु पुरुषा वीर्यपरुषाः, निमित्तेन केन निविशथ कारावासदुःखं दुस्तरम् ।  
+यूयं वयस्या इति निर्दिष्टमेतैः, किमिदम् इति ॥ द्क्च्_१,३।६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।७:  
+    
+तथाविधं मामवेक्ष्य भूसुरान्मया श्रुतं लाटपतिवृत्तान्तं व्याख्याय चोरवीराः पुनरवोचन्-"महाभाग! वीरकेतुमन्त्रिणो मानपालस्य किङ्करा वयम् ।  
+तदाज्ञया लाटेश्वरमारणाय रात्रौ सुरङ्गद्वारेण तदगारं प्रविश्य तत्र राजाभावेन विषण्णा बहुधनमाहृत्य महाटवीं प्राविशाम ।  
+अपरेद्युश्च पदान्वेषिणो राजानुचरा बहवो ऽभ्येत्य धृतधनचयानस्मान्परितः परिवृत्य दृढतरं बद्ध्वा निकटमानीय समस्तवस्तुशोधनवेलायामेकस्यानर्घ्यरत्नस्याभावेनास्मद्वधाय माणिक्यादानादस्मान् किलाशृङ्खलयन् इति ॥ द्क्च्_१,३।७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।८:  
+    
+श्रुतरत्नरत्नावलोकस्थानो ऽहम् "इदं तदेव माणिक्यम्ऽ इति निश्चित्य भूदेवदाननिमित्तां दुरवस्थामात्मनो जन्म नामधेयं युष्मदन्वेषणपर्यटनप्रकारं चाभाष्य समयोचितैः संलापैर्मैत्रीमकार्षम् ।  
+ततोर्ऽधरात्रे तेषां मम च शृङ्खलाबन्धनं निर्भिद्य तैरनुगम्यमानो निद्रितस्य द्वाःस्थगणस्यायुधजालमादाय पुररक्षान्पुरतो ऽभिमुखागतान्पटुपराक्रमलीलयाभिद्राव्य मानपालशिबिरं प्राविशम् ।  
+मानपालो निजकिङ्करेभ्यो मम कुलाभिमानवृत्तान्तं तत्कालीनं विक्रमं च निशम्य मामार्चयत् ॥ द्क्च्_१,३।८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।९:  
+    
+परेद्युर्मत्तकालेन प्रेषिताः केचन पुरुषा मानपालमुपेत्य "मन्त्रिन्, मदीयराजमन्दिरे सुरङ्गया बहुधनमपहृत्य चोरवीरा भवदीयं कटकं प्राविशन् तानर्पय ।  
+नो चेन्महाननर्थः भविष्यति इति क्रूरतरं वाक्यमब्रुवन् ।  
+तदाकर्ण्य रोषारुणितनेत्रो मन्त्री लाटपतिः कः, तेन मैत्री का, पुनरस्य वराकस्य सेवया किं लभ्यम् इति तान्निरभर्त्सयत्, ते च मानपालेनोक्तं विप्रलापं मत्तकालाय तथैवाकथयन् ।  
+कुपितो ऽपि लाटपतिर्देर्वीर्यगर्वेणाल्पसैनिकसमेतो योद्धुमभ्यगात् ।  
+पूर्वमेव कृतरणनिश्चयो मानी मानपालः सन्नद्धयोधो युद्धकामो भूत्वा निःशङ्कं निरगात् ।  
+अहमपि सबहुमानं मन्त्रिदत्तानि बहुलतुरङ्गमोपेतं चतुरसारथिं रथं दृढतरं कवचं मदनुरूपं चापं च विविधबाणपूर्णं तूणीरद्वयं रणसमुचितान्यायुधानि गृहीत्वा युद्धसन्नद्धो मदीयबलविश्वासेन रिपूद्धरणोद्युक्तं मन्त्रिणमन्वगाम् ।  
+परस्परमत्सरेण तुमुलसङ्गरकरमुभयसैन्यमतिक्रम्य समुल्लसद्भुजाटोपेन बाणवर्षं तदङ्गे विमुञ्चन्नरातीन् प्राहरम् ॥ द्क्च्_१,३।९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।१०:  
+    
+ततो ऽतिरयतुरङ्गमं मद्रथं तन्निकटं नीत्वा शीघ्रलङ्घनोपेततदीयरथो ऽहमरातेः शिरःकर्तनमकार्षम् ।  
+तस्मिन्पतिते तदवशिष्टसैनिकेषु पलायितेषु नानाविधहयगजादिवस्तुजातमादाय परमानन्दसम्भृतो मन्त्री ममानेकविधां सम्भावनामकार्षीत् ॥ द्क्च्_१,३।१० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।११:  
+    
+मानपालप्रेषितात्तदनुचरादेनमखिलमुदन्तजातमाकर्ण्य सन्तुष्टमना राजाभ्युद्गतो मदीयपराक्रमे विस्मयमानः समहोत्सवममात्यबान्धवानुमत्या शुभदिने निजतनयां मह्यमदात् ।  
+ततो यौवराज्याभिषिक्तो ऽहमनुदिनमाराधितमहीपालचित्तो वामलोचनयानया सह नानाविधं सौख्यमनुभवन्भवद्विरहवेदनाशल्यसुलभवैकल्यहृदयः सिद्धादेशेन सुहृज्जनावलोकनफलं प्रदेशं महाकालनिवासिनः परमेश्वरस्याराधनायाद्य पत्नीसमेतः समागतो ऽस्मि ।  
+भक्तवत्सलस्य गौरीपतेः कारुण्येन त्वत्पदारविन्दसन्दर्शनानन्दसन्दोहो मया लब्धःऽ इति ॥ द्क्च्_१,३।११ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।१२:  
+    
+तन्निशम्याभिनन्दितपराक्रमो राजवाहनस्तन्निरपराधदण्डे दैवमुपालभ्य तस्मै क्रमेणात्मचरितं कथयामास ।  
+तस्मिन्नवसरे पुरतः पुष्पोद्भवं विलोक्य ससम्भ्रमं निजनिटिलतटस्पृष्टचरणाङ्गुलिमुदञ्जलिममुं गाढमालिङ्ग्यानन्दबाष्पसङ्कुलसम्फुल्ललोचनः "सौम्य सोमदत्त, अयं सः पुष्पोद्भवःऽ इति तस्मै तं दर्शयामास ॥ द्क्च्_१,३।१२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,३।१३:  
+    
+तौ च चिरविरहदुःखं विसृज्यान्योन्यालिङ्गनसुखमन्वभूताम् ।  
+ततस्तस्यैव महीरुहस्य छायायामुपविश्य राजा सादरहासमभाषत-"वयस्य, भूसुरकार्यं करिष्णुरहं मित्रगणो विदितार्थः सर्वथान्तरायं करिष्यतीति निद्रितान्भवतः परित्यज्य निरगाम् ।  
+तदनु प्रबुद्धो वयस्यवर्गः किमिति निश्चित्य मदन्वेषणाय कुत्र गतवान् ।  
+भवानेकाकी कुत्र गतःऽ इति ।  
+सो ऽपि ललाटतटचुम्बदञ्जलिपुटः सविनयमलपत् ॥ द्क्च्_१,३।१३ ॥
+
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते सोमदत्तचरितं नाम तृतीय उच्छ्वासः  
+    
+__________________________________________________________________________________
+
+चतुर्थोच्छ्वासः  
+    
+__________
+
+स्तर्त् द्क्च् १,४।१:  
+    
+ऽदेव, महीसुरोपकारायैव देवो गतवानिति निश्चित्यापि देवेन गन्तव्यं देशं निर्णेतु मशक्नुवानो मित्रगणः परस्परं वियुज्य दिक्षु देवमन्वेष्टुमगच्छत् ॥ द्क्च्_१,४।१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।२:  
+    
+अहमपि देवस्यान्वेषणाय महीमटन्कदाचिदम्बरमध्यगतस्याम्बरमणेः किरणमसहिष्णुरेकस्य गिरितटमहीरुहस्य प्रच्छायशीतले तले क्षणमुपाविशम् ।  
+मम पुरोभागे दिनमध्यसङ्कुचितसर्वावयवां कूर्माकृतिं मानुषच्छायां निरीक्ष्योन्मुखो गगनतलान्महारयेण पतन्तं पुरुषं कञ्चिदन्तराल एव दयोपनतहृदयो ऽहमवलम्ब्य शनैरवनितले निक्षिप्य दूरापातवीतसञ्ज्ञं तं शिशिरोपचारेण विबोध्य शोकातिरेकेणोद्गतबाष्पलोचनं तं भृगुपतनकारणमपृच्छम् ॥ द्क्च्_१,४।२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।३:  
+    
+सो ऽपि कररुहैरश्रुकणानपनयन्नभाषत--"सौम्य, मगधाधिनाथामात्यस्य पद्मोद्भवस्यात्मसम्भवो रत्नोद्भवो नामाहम् ।  
+वाणिज्यरूपेण कालयवनद्वीपमुपेत्य कामपि वणिक्कन्यकां परिणीय तया सह प्रत्यागच्छन्नम्बुधौ तीरस्यानतिदूर एव प्रवहणस्य भग्नतया सर्वेषु निमग्नेषु कथङ्कथमपि दैवानुकूल्येन तीरभूमिमभिगम्य निजाङ्गनावियोगदुःखार्णवे प्लवमानः कस्यापि सिद्धतापसस्यादेशादरेण षोडश हायनानि कथञ्चिन्नीत्वा दुःखस्य पारमनवेक्षमाणः गिरिपतनमकार्षम्ऽ इति ॥ द्क्च्_१,४।३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।४:  
+    
+तस्मिन्नेवावसरे किमपि नारीकूजितमश्रावि-"नखलु समुचितमिदं यत्सिद्धादिष्टे पतिततनयमिलने विरहमसहिष्णुर्वैश्वानरं विशसिऽ इति ॥ द्क्च्_१,४।४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।५:  
+    
+तन्निशम्य मनोविदितजनकभावं तमवादिषम्-"तात, भवते विज्ञापनीयानि बहूनि सन्ति ।  
+भवतु ।  
+पश्चादखिलमाख्यातव्यम् ।  
+अधुना नारीकूजितमनुपेक्षणीयं मया ।  
+क्षणमात्रम् भवता स्थीयताम्ऽइति ॥ द्क्च्_१,४।५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।६:  
+    
+तदनु सो ऽहं त्वरया किञ्चिदन्तरमगमम् ।  
+तत्र पुरतो भयङ्करज्वालाकुलहुतभुगवगाहनसाहसिकां मुकुलिताञ्जलिपुटां वनितां काञ्चिदवलोक्य सम्भ्रममनलादपनीय कूजन्त्या वृद्धया सह मत्पितुरभ्यर्णमभिगमय्य स्थविरामवोचम्-"वृद्धे, भवत्यौ कुत्रत्ये ।  
+कान्तारे निमित्तेन केन दुरवस्थानुभूयते ।  
+कथ्यताम्ऽ इति ॥ द्क्च्_१,४।६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।७:  
+    
+सा सगद्गदमवादीत्-"पुत्र, कालयवनद्वीपे कालगुप्तनाम्नो वणिजः कस्यचिदेषा सुता सुवृत्ता नाम रत्नोद्भवेन निजकान्तेनागच्छन्ती जलधौ मग्ने प्रवहणे निजधात्र्या मया सह फलकमेकमवलम्ब्य दैवयोगेन कूलमुपेतासन्नप्रसवसमया कस्याञ्चिदटव्यामात्मजमसूत ।  
+मम तु मन्दभाग्यतया बाले वनमातङ्गेन गृहीते मद्द्वितीया परिभ्रमन्ती "षोडशवर्षानन्तरं भर्तृपुत्रसङ्गमो भविष्यतिऽ इति सिद्धवाक्यविश्वासादेकस्मिन्पुण्याश्रमे तावन्तं समयं नीत्वा शोकमपारं सोढुमक्षमा समुज्ज्वलिते वैश्वानरे शरीरमाहुतीकर्तुमुद्युक्तासीत्ऽ इति ॥ द्क्च्_१,४।७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।८:  
+    
+तदाकर्ण्य निजजननीं ज्ञात्वा तामहं दण्डवत्प्रणम्य तस्यै मदुदन्तमखिलमाख्याय धात्रीभाषणफुल्लवदनं विस्मयविकसिताक्षं जनकमदर्शयम् ।  
+पितरौ तौ साभिज्ञानमन्योन्यं ज्ञात्वा मुदितान्तरात्मानौ विनीतं मामानन्दाश्रुवर्षेणाबिषिच्य गाढमाश्लिष्य शिरस्युपाघ्राय कस्याञ्चिन्महीरुहच्छायायामुपाविशताम् ॥ द्क्च्_१,४।८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।९:  
+    
+ऽकथं निवसति महीवल्लभो राजहंसःऽ इति जनकेन पृष्टो ऽहं तस्य राज्यच्युतिं त्वदीयजननं सकलकुमारावाप्तिं तव दिग्विजयारम्भो भवतः मातङ्गानुयानमस्माकं युष्मदन्वेषणकारणं सकलमभ्यधाम् ।  
+ततस्तौ कस्यचिदाश्रमे मुनेरस्थापयम् ।  
+ततो देवस्यान्वेषणपरायणो ऽहमखिलकार्यनिमित्तं वित्तं निश्चित्य भवदनुग्रहाल्लब्धस्य साधकस्य साहाय्यकरणदक्षं शिष्यगणं निष्पाद्य विन्ध्यवनमध्ये पुरातनपत्तनस्थानान्युपेत्य विविधसूचकानां महीरुहाणामधोनिक्षिप्तान् वसुपूर्णान् कलशान् सिद्धाञ्जनेन ज्ञात्वा रक्षिषु परितः स्थितेषु खननसाधनैरुत्पाट्य दीनारानसङ्ख्यान् राशीकृत्य तत्कालागतमनतिदूरे निवेशितं वणिक्कटकं कञ्चिदभ्येत्य तत्र बलिनो बलीवर्दान् गोणींश्च क्रीत्वान्यद्रव्यमिषेण वसु तद्गोणीसञ्चितं तैरुह्यमानं शनैः कटकमनयम् ॥ द्क्च्_१,४।९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।१०:  
+    
+तदधिकारिणा चन्द्रपालेन केनचिद्वणिक्पुत्रेण विरचितसौहृदो ऽहममुनैव साकमुज्जयिनीमुपाविशम् ।  
+यत्पितरावपि तां पुरीमभिगमय्य सकलगुणनिलयेन बन्धुपालनाम्ना चन्द्रपालजनकेन नीयमानो मालवनाथदर्शनं विधाय तदनुमत्या गूढवसतिमकरवम् ।  
+ततः काननभूमिषु भवन्तमन्वेष्टुमुद्युक्तं मां परममित्रं बन्धुपालो निशम्यावदत्-"सकलं धरणितलमपारमन्वेष्टुमक्षमो भवान्मनोग्लानिं विहाय तूष्णीं तिष्ठतु ।  
+भवन्नायकालोकनकारणं शुभशकुनं निरीक्ष्य कथयिष्यामि, इति ॥ द्क्च्_१,४।१० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।११:  
+    
+तल्लपितामृताश्वासितहृदयो ऽहमनुदिनं तदुपकण्ठवर्ती कदाचिदिन्दुमुखीं नवयौवनालीढावयवां नयनचन्द्रिकां बालचन्द्रिकां नाम तरुणीरत्नं वणिङ्मन्दिरलक्ष्मीं मूर्तामिवावलोक्य तदीयलावण्यावधूतधीरभावो लतान्तबाणबाणलक्ष्यतामयासिषम् ॥ द्क्च्_१,४।११ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।१२:  
+    
+चकितबालकुरङ्गलोचना सापि कुसुमसायकसायकायमानेन कटाक्षवीक्षणेन मामसकृन्निरीक्ष्य मन्दमारुतान्दोलिता लतेवाकम्पत ।  
+मनसाभिमुखैः समाकुञ्चितै रागलज्जान्तरालवर्तिभिः साङ्गवर्तिभिरीक्षणविशेषैर्निजमनोवृत्तिमकथयत् ॥ द्क्च्_१,४।१२ ॥  
+__________
+
+स्तर्त् द्क्च् १,४।१३:  
+    
+चतुरगूढचेष्टाभिरस्या मनो ऽनुरागं सम्यग्ज्ञात्वा सुखसङ्गमोपायमचिन्तयम् ।  
+अन्यदा बन्धुपालः शकुनैर्भवद्गतिं प्रैक्षिष्यमाणः पुरोपान्तविहारवनं मया सहोपेत्य कस्मिंश्चिन्महीरुहे शकुन्तवचनानि शृण्वन्नतिष्ठत् ॥ द्क्च्_१,४।१३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।१४:  
+    
+अहमुत्कलिकाविनोदपरायणो वनान्तरे परिभ्रमन्सरोवरतीरे चिन्ताक्रान्तचित्तां दीनवदनां मन्मनोरथैकभूमिं बालचन्द्रिकां व्यलोकयम् ॥ द्क्च्_१,४।१४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।१५:  
+    
+तस्याः ससम्भ्रमप्रेमलज्जाकौतुकमनोरमं लीलाविलोकनसुखमनुभवन् सुदत्या वदनारविन्दे विषण्णभावं मदनकदनखेदानुभूतं तन्निमित्तं ज्ञास्यंल्लीलया तदुपकण्ठमुपेत्यावोचम्-"सुमुखि, तव मुखारविन्दस्य दैन्यकारणं कथयऽ इति ॥ द्क्च्_१,४।१५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।१६:  
+    
+सा रहस्यसञ्जातविश्रम्भतया विहाय लज्जाभये शनैरभाषत-"सौम्य, मानसारो मालवाधीश्वरो वार्धक्यस्य प्रबलतया निजनन्दनं दर्पसारमुज्जयिन्यामभ्यषिञ्चत् ।  
+स कुमारः सप्तसागरपर्यन्तं महीमण्डलं पालयिष्यन्निजपैतृष्वस्रेया उद्दण्डकर्माणौ चण्डवर्मदारुवर्माणौ धरणीभरणे नियुज्य तपश्चरणाय राजराजगिरिमभ्यगात् ॥ द्क्च्_१,४।१६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।१७:  
+    
+राज्यं सर्वमसपत्नं शासति चण्डवर्मणि दारुवर्मा मातुलाग्रजन्मनोः शासनमतिक्रम्य पारदार्यपरद्रव्यापहरणादिदुष्कर्म कुर्वाणो मन्मथसमानस्य भवतो लावण्यात्तचित्तां मामेकदा विलोक्य कन्यादूषणदोषं दूरीकृत्य बलात्कारेण रन्तुमुद्युङ्क्ते ।  
+तच्चिन्तया दैन्यमगच्छम्ऽ इति॥ द्क्च्_१,४।१७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।१८:  
+    
+तस्या मनोगतम्, रागोद्रेकं मन्मनोरथसिद्ध्यन्तरायं च निशम्य वाष्पपूर्णलोचनां तामाश्वास्य दारुवर्मणो मरणोपायं च विचार्य बल्लभामवोचम् "तरुणि, भवदभिलाषिणं दुष्टहृदयमेनं निहन्तुं मृदुरुपायः कश्चिन् मया चिन्त्यते ।  
+यक्षः कश्चिदधिष्ठाय बालचन्द्रिकां निवसति ।  
+तदाकारसम्पदाशाशृङ्खलितहृदयो यः सम्बन्धयोग्यः साहसिको रतिमन्दिरे तं यक्षं निर्जित्य तया एकसखीसमेतया मृगाक्ष्या संलापामृतसुखमनुभूय कुशली निर्गमिष्यति, तेन चक्रवाकसंशयाकारपयोधरा विवाहनीयेति सिद्धेनैकेनावादीति पुरजनस्य पुरतो भवदीयैः सत्यवाक्यैर्जनैरसकृत् कथनीयम् ।  
+तदनु दारुवर्मा वाक्यानीत्थंविधानि श्रावंश्रावं तूष्णीं यदि भिया स्थास्यति तर्हि वरम्, यदि वा दौर्जन्येन त्वया सङ्गमङ्गीकरिष्यति, तदा स भवदीयैरित्थं वाच्यः ॥ द्क्च्_१,४।१८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।१९:  
+    
+ऽसौम्य, दर्पसारवसुधाधिपामात्यस्य भवतो ऽस्मन्निवासे साहसकरणमनुचितम् ।  
+पौरजनसाक्षिकभवन्मन्दिरमानीतया अनया तोयजाक्ष्या सह क्रीडन्नायुष्मान् यदि भविष्यति तदा परिणीय तरुणीं मनोरथान् निर्विशऽ इति ।  
+सो ऽप्येतदङ्गीकरिष्यति ।  
+त्वं सखीवेषधारिणा मया सह तस्य मन्दिरं गच्छ ।  
+अहमेकान्तनिकेतने मुष्टिजानुपादाघातैस्तं रभसान्निहत्य पुनरपि वयस्यामिषेण भवतीमनुनिःशङ्कं निर्गमिष्यामि ।  
+तदेनमुपायमङ्गीकृत्य विगतसाध्वसलज्जा भवज्जनकजननीसहोदराणां पुरत आवयोः प्रेमातिशयमाख्याय सर्वथास्मत्परिणयकरणे ताननुनयेः ।  
+ते ऽपि वंशसम्पल्लावण्याढ्याय यूने मह्यं त्वां दास्यन्त्येव ।  
+दारुवर्मणो मारणोपायं तेभ्यः कथयित्वा तेषामुत्तरमाख्येयं मह्यम्ऽ इति ॥ द्क्च्_१,४।१९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।२०:  
+    
+सापि किञ्चिदुत्फुल्लसरसिजानना मामब्रवीत्--"सुभग, क्रूरकर्माणं दारुवर्माणं भवानेव हन्तुमर्हति ।  
+तस्मिन् हते सर्वथा युष्मन्मनोरथः फलिष्यति ।  
+एवं क्रियताम् ।  
+भवदुक्तं सर्वमहमपि तथा करिष्येऽ इति मामसकृद्विवृत्तवदना विलोकयन्ती मन्दं मन्दमगारमगात् ।  
+अहमपि बन्धुपालमुपेत्य शकुनज्ञात्तस्मात् त्रिंशद्दिवसानन्तरमेव भवत्सङ्गः सम्भविष्यति इत्यशृणवम् ।  
+तदनु मदनुगम्यमानो बन्धुपालो निजावासं प्रविश्य मामपि निलयाय विससर्ज ॥ द्क्च्_१,४।२० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।२१:  
+    
+मन्मायोपायवागुरापाशलग्नेन दारुवर्मणा रतिमन्दिरे रन्तुं समाहूता बालचन्द्रिका तं गमिष्यन्तीदूतिकां मन्निकटमभिप्रेषितवती ।  
+अहमपि मणिनूपुरमेखलाकङ्कणकटकतटङ्कहारक्षौमकज्जलं वनितायोग्यं मण्डनजातं निपुणतया तत्तत्स्थानेषु निक्षिप्य सम्यगङ्गीकृतमनोज्ञवेशो वल्लभया तया सह तदागारद्वारोपान्तमगच्छम् ॥ द्क्च्_१,४।२१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।२२:  
+    
+द्वाःस्थकथितास्मदागमनेन सादरं विहिताभ्युद्गतिना तेन द्वारोपान्तनिवारिताशेषपरिवारेण मदन्विता बालचन्द्रिका सङ्केतागारमनीयत ।  
+नगरव्याकुलां यक्षकथां परीक्षमाणो नागरिकजनो ऽपि कुतूहलेन दारुवर्मणः प्रतीहारभूमिमगमत् ॥ द्क्च्_१,४।२२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।२३:  
+    
+विवेकशून्यमतिरसौ रागातिरेकेण रत्नखचितहेमपर्यङ्के हंसतूलगर्भशयनमानीय तरुणीम्, तस्यै मह्यं तमिस्रासम्यगनवलोकितपुम्भावाय मनोरमस्त्रीवेशाय च चामीकरमणिमण्डनानि सूक्ष्माणि चित्रवस्त्राणि कस्तूरिकामिलितं हरिचन्दनं कर्पूरसहितं ताम्बूलं सुरभीणि कुसुमानीत्यादिवस्तुजातं समर्प्य मुहूर्तद्वयमात्रं हासवचनैः संलपन्नतिष्ठत् ॥ द्क्च्_१,४।२३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।२४:  
+    
+ततो रागान्धतया सुमुखीकुचग्रहणे मतिं व्यधत्त ।  
+रोषारुणितो ऽहमेनं पर्यङ्कतलान्निःशङ्को निपात्य मुष्टिजानुपादघातैः प्राहरम् ।  
+नियुद्धरभसविकलालङ्कारं पूर्ववन्मेलयित्वा भयकम्पितां नताङ्गीमुपलालयन्मन्दिराङ्गणमुपेतः साध्वसकम्पित इवोच्चैरकूजमहम्--"हा, बालचन्द्रिकाधिष्ठितेन घोराकारेण यक्षेण दारुवर्मा निहन्यते ।  
+सहसा समागच्छत ।  
+पश्यतेमम् इति ॥ द्क्च्_१,४।२४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।२५:  
+    
+तदाकर्ण्य मिलिता जना समुद्यद्वाष्पा हाहानिदानेन दिशो बधिरयन्तः बालचन्द्रिकामधिष्ठितं यक्षं बलवन्तं शृण्वन्नपि दारुवर्मा मदान्धस्तामेवायाचत ।  
+तदसौ स्वकीयेन कर्मणा निहतः ।  
+"किं तस्य विलापेनऽ इति मिथो लपन्तः प्राविशन् ।  
+कोलाहले तस्मिंश्चललोचनया सह नैपुण्येन सहसा निर्गतो निजानुवासमगाम् ॥ द्क्च्_१,४।२५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।२६:  
+    
+ततो गतेषु कतिपयदिनेषु पौरजनसमक्षं सिद्धादेशप्रकारेण विवाह्य तामिन्दुमुखीं पूर्वसङ्कल्पितान् सुरतविशेषान् यथेष्टमन्वभूवम् ।  
+बन्धुपालशकुननिर्दिष्टे दिवसे ऽस्मिन्निर्गत्य पुराद्बहिर्वर्तमानो नेत्रोत्सवकारि भवदवलोकनसुखमनुभवामि इति ॥ द्क्च्_१,४।२६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,४।२७:  
+    
+एवं मित्रवृत्तान्तं निशम्याम्लानमानसो राजवाहनः स्वस्य च सोमदत्तस्य च वृत्तान्तमस्मै निवेद्य सोमदत्तं "महाकालेश्वराराधनानन्तरं भवद्वल्लभां सपरिवारां निजकटकं प्रापय्यागच्छऽ इति नियुज्य पुष्पोद्भवेन सेव्यमानो भूस्वर्गायमानमवन्तिकापुरं विवेश ।  
+तत्र "अयं मम स्वामिकुमारःऽ इति बन्धुपालादये बन्धुजनाय कथयित्वा तेन राजवाहनाय बहुविधां सपर्यां कारयन् सकलकलाकुशलो महीसुरवर इति पुरि प्रकटयन् पुष्पोद्भवो ऽमुष्यराज्ञो मज्जनभोजनादिकमनुदिनं स्वमन्दिरे कारयामास ॥ द्क्च्_१,४।२७ ॥
+
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते पुष्पोद्भवचरितं नाम चतुर्थ उच्छ्वासः  
+    
+__________________________________________________________________________________
+
+पञ्चमोच्छ्वासः  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१:  
+    
+अथ मीनकेतनसेनानायकेन मलयगिरिमहीरुहनिरन्तरावासिभुजङ्गमभुक्तावशिष्टेनेव सूक्ष्मतरेण धृतहरिचन्दनपरिमलभरेणेव मन्दगतिना दक्षिणानिलेन वियोगिहृदयस्थं मन्मथानलमुज्ज्वलयन्, सहकारकिसलयमकरन्दास्वादनरक्तकण्ठानां मधुकरकलकण्ठानां काकलीकलकलेन दिक्चक्रं वाचालयन् मानिनीमानसोत्कलिकामुपनयन् माकन्दसिन्दुवाररक्ताशोककिंशुकतिलकेषु कलिकामुपपादयन्, मदनमहोत्सवाय रसिकमनांसि समुल्लासयन्, वसन्तसमयः समाजगाम ॥ द्क्च्_१,५।१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।२:  
+    
+तस्मिन्नतिरमणीये काले ऽवन्तिसुन्दरी नाम मानसारनन्दिनी प्रियवयस्यया बालचन्द्रिकया सह नगरोपान्तरम्योद्याने विहारोत्कण्ठया पौरसुन्दरीसमवायसमन्विता कस्यचिच्चूतपोतकस्य छायाशीतले सैकततले गन्धकुसुमहरिद्राक्षतचीनाम्बरादिनानाविधेन परिमलद्रव्यनिकरेण मनोभवमर्चयन्ती रेमे ॥ द्क्च्_१,५।२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।३:  
+    
+तत्र रतिप्रतिकृतिमवन्तिसुन्दरीं द्रष्टुकामः काम इव वसन्तसहायः पुष्पोद्भवसमन्वितो राजवाहनस्तदुपवनं प्रविश्य तत्र तत्र मलयमारुतान्दोलितशाखानिरन्तरसमुद्भिन्नकिसलयकुसुमफलसमुल्लसितेषु रसालतरुषु कोकिलकीरालिकुलमधुकराणामालापाञ्श्रावं श्रावं किञ्चिद्विकसदिन्दीवरकह्लारकैरवराजीवराजीकेलिलोल-कलहंस-सारस-कारण्डव-चक्रवाक-चक्रवाल-कलरवव्याकुलविमलशीतलसल् इलललितानि सरांसि दर्शन्दर्शममन्दलीलया ललनासमीपमवाप ॥ द्क्च्_१,५।३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।४:  
+    
+बालचन्द्रिकया ऽनिःशङ्कमित आगम्यताम्ऽ इति हस्तसञ्ज्ञया समाहूतो निजतेजोनिर्जितपुरुहूतो राजवाहनः कृशोदर्या अवन्तिसुन्दर्या अन्तिकं समाजगाम ॥ द्क्च्_१,५।४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।५:  
+    
+या वसन्तसहायेन समुत्सुकतया रते केलीशालभञ्जिकाविधित्सया कञ्चन नारीविशेषं विरच्यात्मनः क्रीडाकासारशारदारविन्दसौन्दर्येण पादद्वयम्, उद्यानवनदीर्घिकामत्तमरालिकागमनरीत्या लीलालसगतिविलासम्, तूणीरलावण्येन जङ्घे, लीलामन्दिरद्वारकदलीलालित्येन मनोज्ञमूरुयुगम्, जैत्ररथचातुर्येण घनं जघनम् किञ्चिद्विकसल्लीलावतंसकह्लारकोरककोटरानुवृत्त्या गङ्गावर्तसनाभिं नाभिम्, सौधारोहणपरिपाट्या वलित्रयम्, मौर्वीमधुकरपङ्क्तिनीलिमलीलया रोमावलिम् पूर्णसुवर्णकलशशोभया कुचद्वन्द्वम्,(लतामण्डपसौकुमार्येण बाहू), जयशङ्खाभिख्यया कण्ठम्, कमनीयकर्णपूरसहकारपल्लवरागेण प्रतिबिम्बीकृतबिम्बं रदनच्छदनं बाणायमानपुष्पलावण्येन शुचि स्मितम्, अग्रदूतिकाकलकण्ठिकाकलालापमाधुर्येण वचनजातम्, सकलसैनिकनायकमलयमारुतसौरभ्येण निःश्वासपवनम् जयध्वजमीनदर्पेण लोचनयुगलम्, चापयष्टिश्रिया भ्रूलते, प्रथमसुहृदसुधाकरस्यापनीतकलङ्कया कान्त्या वदनम्, (लीलामयूरबर्हभङ्ग्या केशपाशम्) च विधाय समस्तमकरन्दकस्तूरिकासम्मितेन मलयजरसेन प्रक्षाल्य कर्पूरपरागेण सम्मृज्य निर्मितेव रराज ॥ द्क्च्_१,५।५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।६:  
+    
+सा मूर्तिमतीव लक्ष्मीर्मालवेशकन्यका स्वेनैवाराध्यमानं सङ्कल्पितवरप्रदानायाविर्भूतं मूर्तिमन्तं मन्मथमिव तमालोक्य मन्दमारुतान्दोलिता लतेव मदनावेशवती चकम्पे ।  
+तदनु क्रीडाविश्रम्भान्निवृत्ता लज्जया कानि कान्यपि भावान्तराणि व्यधत्त ॥ द्क्च्_१,५।६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।७:  
+    
+ललनाजनं सृजता विधात्रा नूनमेषा घुणाक्षरन्यायेन निर्मिता ।  
+नो चेदब्जभूरेवंविधो निर्माणनिपुणो यदि स्यात्तर्हि तत्समानलावण्यामन्यां तरुणीं किं न करोतिऽ इति सविस्मयानुरागं विलोकयतस्तस्य समक्षं स्थातुं लज्जिता सती किञ्चित्सखीजनान्तरितगात्रा तन्नयननाभिमुखैः किञ्चिदाकुञ्चितभ्रूलतैरपाङ्गवीक्षितैरात्मनःकुरङ्गस्यानायमानलावण्यं राजवाहनं विलोकयन्त्यतिष्ठत् ॥ द्क्च्_१,५।७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।८:  
+    
+सो ऽपि तस्यास्तदोत्पादितभावरसानां सामग्र्या लब्धबलस्येव विषमशरस्य शरव्यायमाणमानसो बभूव ॥ द्क्च्_१,५।८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।९:  
+    
+सा मनसीत्थमचिन्तयत्-"अनन्यसाधारणसौन्दर्येणानेन कस्यां पुरि भाग्यवतीनां तरुणीनां लोचनोत्सवः क्रियते ।  
+पुत्ररत्नेनामुना पुरन्ध्रीणां पुत्रवतीनां सीमन्तिनीनां का नाम सीमन्तमौक्तिकीक्रियते ।  
+कास्य देवी ।  
+किमत्रागमनकारणमस्य ।  
+मन्मथो मामपहसितनिजलावण्यमेनं विलोकयन्तीमसूययेवातिमात्रं मथ्नन्निजनाम सान्वयं करोति ।  
+किं करोमि ।  
+कथमयं ज्ञातव्यऽ इति ॥ द्क्च्_१,५।९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१०:  
+    
+ततो बालचन्द्रिका तयोरन्तरङ्गवृत्तिं भावविवेकैर्ज्ञात्वा कान्तासमाजसन्निधौ राजनन्दनोदन्तस्य सम्यगाख्यानमनुचितमिति लोकसाधारणैर्वाक्यैरभाषत-"भर्तृदारिके, अयं सकलकलाप्रवीणो देवतासान्निध्यकरण आहवनिपुणो भूसुरकुमारो मणिमन्त्रौषधिज्ञः परिचर्यार्हे भवत्या पूज्यताम्ऽ इति ॥ द्क्च्_१,५।१० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।११:  
+    
+तदाकर्ण्य निजमनोरथमनुवदन्त्या बालचन्द्रिकया सन्तुष्टान्तरङ्गा तरङ्गावली मन्दानिलेनेव सङ्कल्पजेनाकुलीकृता राजकन्या जितमारं कुमारं समुचितासीनं विधाय सखीहस्तेन शस्तेन गन्धकुसुमाक्षतघनसारताम्बूलादिनानाजातिवस्तुनिचयेन पूजां तस्मै कारयामास ।  
+राजवाहनो ऽप्येवमचिन्तयत्-"नूनमेषा पूर्वजन्मनि मे जाया यज्ञवती ।  
+नो चेदेतस्यामेवंविधो ऽनुरागो मन्मनसि न जायेत ।  
+शापावसानसमये तपोनिधिदत्तं जातिस्मरत्वमावयोः समानमेव ।  
+तथापि कालजनितविशेषसूचकवाक्यैरस्या ज्ञानमुत्पादयिष्यामिऽइति ॥ द्क्च्_१,५।११ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१२:  
+    
+तस्मिन्नेव समये को ऽपि मनोरमो राजहंसः केलीविधित्सया तदुपकण्ठमगमत् ।  
+समुत्सुकया राजकन्यया मरालग्रहणे नियुक्तां बालचन्द्रिकामवलोक्य समुचितो वाक्यावसर इति सम्भाषणनिपुणो राजवाहनः सलीलमलपत्--"सखि, पुरा शाम्बो नाम कश्चिन्महीवल्लभो मनोवल्लभया सह विहारवाञ्छया कमलाकरमवाप्य तत्र कोकनदकदम्बसमीपे निद्राधीनमानसं राजहंसं शनैर्गृहीत्वा बिसगुणेन तस्य चरणयुगलं निगडयित्वा कान्तामुखं सानुरागं विलोकयन्मन्दस्मितविकसितैककपोलमण्डलस्तामभाषत-"इन्दुमुखि, मया बद्धो मरालः शान्तो मुनिवदास्ते ।  
+स्वेच्छयानेन गम्यताम्ऽइति ॥ द्क्च्_१,५।१२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१३:  
+    
+सो ऽपि राजहंसः शाम्बमशपत्-"महीपाल, यदस्मिन्नम्बुजखण्डे ऽनुष्ठानपरायणतया परमानन्देन तिष्ठन्तं नैष्ठिकं मामकारणं राज्यगर्वेणावमानितवानसि तदेतत्पाप्मना रमणीविरहसन्तापमनुभवऽ इति ।  
+विषण्णवदनः शाम्बो जीवितेश्वरीविरहसहिष्णुर्भूमौ दण्डवत्प्रणम्य सविनयमभाषत-"महाभाग, यदज्ञानेनाकरवम् तत्क्षमस्वऽ इति ।  
+स तापसः करुणाकृष्टचेतास्तमवदत्-"राजन् !इह जन्मनि भवतः शापफलाभावो भवतु ।  
+मद्वचनस्यामोघतया भाविनि जनने शरीरान्तरं गतायाः अस्याः सरसिजाक्ष्या रसेन रमणो भूत्वा मुहूर्तद्वयं मच्चरणयुगलबन्धकारितया मासद्वयं शृङ्खलानिगडितचरणो रमणीवियोगविषादमनुभूय पश्चादनेककालं वल्लभया सह राज्यसुखं लभस्वऽइति ॥ द्क्च्_१,५।१३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१४:  
+    
+तदनु जातिस्मरत्वमपि तयोरन्वगृह्णात् ।  
+"तस्मान्मरालबन्धनं न करणीयं त्वयाऽ इति ।  
+सापि भर्तृदारिका तद्वचनाकर्णनाभिज्ञातस्वपुरातनजननवृत्तान्ता नूनमयं मत्प्राणवल्लभःऽ इति मनसि जानती रागपल्लवितमानसा समन्दहासमवोचत्--"सौम्य, पुरा शाम्बो यज्ञवतीसन्देशपरिपालनाय तथाविधं हंसबन्धनमकार्षीत् ।  
+तथाहि लोके पण्डिता अपि दाक्षिण्येनाकार्यं कुर्वन्तिऽ इति ।  
+कन्याकुमारावेवमन्योन्यपुरातनजनननामधेये परिचिते परस्परज्ञानाय साभिज्ञमुक्त्वा मनोजरागपूर्णमानसौ बभूवतुः ॥ द्क्च्_१,५।१४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१५:  
+    
+तस्मिन्नवसरे मालवेन्द्रमहिषी परिजनपरिवृता दुहितृकेलीविलोकनाय तं देशमवाप ।  
+बालचन्द्रिका तु तां दूरतो विलोक्य ससम्भ्रमं रहस्यनिर्भेदभिया हस्तसञ्ज्ञया पुष्पोद्भवसेव्यमानं राजवाहनं वृक्षवाटिकान्तरितगात्रमकरोत् ।  
+सा मानसारमहिषी सखीसमेताया दुहितुर्नानाविधां विहारलीलामनुभवन्ती क्षणं स्थित्वा दुहित्रा समेता निजागारगमनायोद्युक्ता बभूव ।  
+मातरमनुगच्छन्ती अवन्तिसुन्दरी राजहंसकुलतिलक, विहारवाञ्छया केलिवने मदन्तिकमागतं भवन्तमकाण्डे एव विसृज्य मया समुचितमिति जनन्यनुगमनं क्रियते--तदनेन भवन्मनोरागो ऽन्यथा मा भूत्ऽ इति मरालमिव कुमारमुद्दिश्य समुचितालापकलापं वदन्ती पुनः पुनः परिवृत्तदीननयना वदनं विलोकयन्ती निजमन्दिरमगात् ॥ द्क्च्_१,५।१५ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१६:  
+    
+तत्र हृदयवल्लभकथाप्रसङ्गे बालचन्द्रिकाकथिततदन्वयनामधेया मन्मथबाणपतनव्याकुलमानसा विरहवेदनया दिने दिने बहुलपक्षशशिकलेव क्षामक्षामाहारादिसकलं व्यापारं परिहृत्य रहस्यमन्दिरे मलयजरसक्षालितपल्लवकुसुमकल्पिततल्पलतावर्तितनुलता बभूव ॥ द्क्च्_१,५।१६ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१७:  
+    
+तत्र तथाविधावस्थामनुभवन्तीं मन्मथानलसन्तप्तां सुकुमारीं कुमारीं निरीक्ष्य खिन्नो वयस्यगणः काञ्चनकलशसञ्चितानि हरिचन्दनोशीरघनसारमिलितानि तदभिषेककल्पितानि सलिलानि बिसतन्तुमयानि वासांसि च नलिनीदलमयानि तालवृन्तानि च सन्तापहरणानि बहूनि सम्पाद्य तस्याः शरीरमशिशिरयत् ।  
+तदपि शीतलोपचरणं सलिलमिव तप्ततैले तदङ्गदहनमेव समन्तादाविश्चकार ।  
+किङ्कर्तव्यतामूढां विषण्णां बालचन्द्रिकामीषदुन्मीलितेन कटाक्षवीक्षितेन बाष्पकणाकुलेन विरहानलोष्णनिःश्वासग्लपिताधरया नताङ्ग्या शनैः शनैः सगद्गदं व्यलापि-"प्रियसखि !ऽ कामः कुसुमायुधः पञ्चबाण इति नूनमसत्यमुच्यते ।  
+इयमहमयोमयैरसङ्ख्यैरिषुभिरनेन हन्ये ।  
+सखि, चन्द्रमसं वडवानलादतितापकरं मन्ये ।  
+यदस्मिन्नन्तःप्रविशति शुष्यति पारावारः, सति निर्गते तदैव वर्धते ।  
+दोषाकरस्य दुष्कर्म किं वर्ण्यते मया ।  
+यदनेन निजसोदर्याः पद्मालयायाः गेहभूतमपि कमलं विहन्यते ॥ द्क्च्_१,५।१७ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१८:  
+    
+विरहानलसन्तप्तहृदयस्पर्शेन नूनमुष्णीकृतः स्वल्पीभवति मलयानिलः ।  
+नवपल्लवकल्पितं तल्पमिदमनङ्गाग्निशिखापटलमिव सन्तापं तनोस्तनोति ।  
+हरिचन्दनमपि पुरा निजयष्टिसंश्लेषवदुरगरदनलिप्तोल्वणगरलसङ्कलितमिव तापयति शरीरम् ।  
+तस्मादलमलमायासेन शीतलोपचारे ।  
+लावण्यजितमारो राजकुमार एवागदङ्कारो मन्मथज्वरापहरणे ।  
+सो ऽपि लब्धुमशक्यो मया ।  
+किं करोमिऽ इति ॥ द्क्च्_१,५।१८ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।१९:  
+    
+बालचन्द्रिका मनोजज्वरावस्थापरमकाष्ठां गतां कोमलाङ्गीं तां राजवाहनलावण्याधीनमानसामनन्यशरणामवेक्ष्यात्मन्यचिन्तयत्-- "कुमारः सत्वरमानेतव्यो मया ।  
+नो चेदेनां स्मरणीयां गतिं नेष्यति मीनकेतनः ।  
+तत्रोद्याने कुमारयोरन्योन्यावलोकनवेलायामसमसायकः समं मुक्तसायको ऽभूत् ।  
+तस्मात्कुमारानयनं सुकरम्ऽ इति ।  
+ततो ऽवन्तिसुन्दरीरक्षणाय समयोचितकरणीयचतुरं सखीगणं नियुज्य राजकुमारमन्दिरमवाप ।  
+पुष्पबाणबाणतूणीरायमानमानसो ऽनङ्गतप्तावयवसम्पर्कपरिम्लानपल्लवशयनमधिष्ठितो राजवाहनः प्राणेश्वरीमुद्दिश्य सह पुष्पोद्भवेन संलपन्नागतां प्रियवयस्यामालोक्य पादमूलमन्वेषणीया लतेव बालचन्द्रिकागतेति सन्तुष्टमना निटिलतटमण्ङनीभवदम्बुजकोरकाकृतिलसदञ्जलिपुटाम् "इतो निषीदऽ इति निर्दिष्टसमुचितासनासीनामवन्तिसुन्दरीप्रेषितं सकर्पूरं ताम्बूलं विनयेन ददतीं तां कान्तावृत्तान्तमपृच्छत् ।  
+तया सविनयमभाणि-"देव, क्रीडावने भवदवलोकनकालमारभ्य मन्मथमथ्यमाना पुष्पतल्पादिषु तापशमनमलभमाना वामनेनेवोन्नततरुफलमलभ्यं त्वदुरः स्थलालिङ्गनसौख्यं स्मरान्धतया लिप्सुः सा स्वयमेव पत्रिकामालिख्य "वल्लभायैनामर्पयऽ इति मां नियुक्तवतीऽ ।  
+राजकुमारः पत्रिकां तामादाय पपाठ- ॥ द्क्च्_१,५।१९ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।२०:  
+    
+ऽसुभग कुसुमसुकुमारं जगदनवद्यं विलोक्य ते रूपम् ।  
+मम मानसमभिलषति त्वं चित्तं कुरु तथा मृदुलम्ऽ ॥ द्क्च्_१,५।२० ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।२१:  
+    
+इति पठित्वा सादरमभाषत-"सखि, छायावन्मामनुवर्तमानस्य पुष्पोद्भवस्य वल्लभा त्वमेव तस्या मृगीदृशो बहिश्चराः प्राणा इव वर्तसे ।  
+त्वच्चातुर्यमस्यां क्रियालतायामालवालमभूत् ।  
+यत्तवाभीष्टं येन प्रियामनोरथः फलिष्यति तदखिलं करिष्यामि ।  
+नताङ्ग्या मन्मनः काठिन्यमाख्यातम् ।  
+यदा केलिवने कुरङ्गलोचना लोचनपथमवर्तत तदैषापहृतमदीयमानसा सा स्वमन्दिरमगात् ।  
+सा चेतसो माधुर्यकाठिन्ये स्वयमेव जानाति ।  
+दुष्करः कन्यान्तःपुरप्रवेशः ।  
+तदनुरूपमुपायमुपपाद्य श्वः परश्वो वा मताङ्गीं सङ्गमिष्यामि ।  
+मदुदन्तमेवमाख्याय शिरीषकुसुमसुकुमाराया यथा शरीरबाधा न जायेत तथाविधमुपायमाचरऽ इति ॥ द्क्च्_१,५।२१ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।२२:  
+    
+बालचन्द्रिकापि तस्य प्रेमगर्भितं वचनमाकर्ण्य सन्तुष्टा कन्यापुरमगच्छत् ।  
+राजवाहनो ऽपि यत्र हृदयवल्लभावलोकनसुखमलभत तदुद्यानं विरहविनोदाय पुष्पोद्भवसमन्वितो जगाम ।  
+तत्र चकोरलोचनावचितपल्लवकुसुमनिकुरम्बं महीरुहसमूहं शरदिन्दुमुख्या मन्मथसमाराधनस्थानं च नताङ्गीपदपङ्क्तिचिह्नितं शीतलसैकततलं च सुदतीभुक्तमुक्तं माधवीलतामण्डपान्तरपल्लवतल्पं च विलोकयंल्ललनातिलकविलोकनवेलाजनितशेषाणि स्मारंस्मारं मन्दमारुतकम्पितानि नवचूतपल्लवानि मदनाग्निशिखा इव चकितो दर्शन्दर्शं मनोजकर्णेजपानामिव कोकिलकीरमधुकराणां क्वणितानि श्रावं श्रावं मारविकारेण क्वचिदप्यवस्थातुमसहिष्णुः परिबभ्राम ॥ द्क्च्_१,५।२२ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।२३:  
+    
+तस्मिन्नवसरे धरणीसुर एकः सूक्ष्मचित्रनिवसनं स्फुरन्मणिकुण्डलमण्डितो मुण्डितमस्तकमानवसमेतश्चतुरवेशमनोरमो यदृच्छया समागतः समन्ततो ऽभ्युल्लसत्तेजोमण्डलं राजवाहनमाशीर्वादपूर्वकं ददर्श ।  
+राजवाहनः सादरम् को भवान्, कस्यां विद्यायां निपुणःऽ इति तं पप्रच्छ ।  
+स च "विद्येश्वरनामधेयो ऽहमैन्द्रजालिकविद्याकोविदो विविधदेशेषु राजमनोरञ्जनाय भ्रमन्नुज्जयिनीमद्यागतो ऽस्मिऽ इति शशम्स ।  
+पुनरपि राजवाहनं सम्यगालोक्य "अस्यां लीलावनौ पाण्डुरतानिमित्तं किम्ऽ इति साभिप्रायं विहस्यापृच्छत् ।  
+पुष्पोद्भवश्च निजकार्यकरणं तर्कयन्नेनमादरेण बभाषे-"ननु सतां सख्यस्याभाषणपूर्वतया चिरं रुचिरभाषणो भवानस्माकं प्रियवयस्यो जातः ।  
+सुहृदामकथ्यं च किमस्ति? केलिवने ऽस्मिन्वसन्तमहोत्सवायागताया मालवेन्द्रसुताया राजनन्दनस्यास्य चाकस्मिकदर्शने ऽन्योन्यानुरगातिरेकः समजायत ।  
+सततसम्भोगसिद्ध्यपायाभावेनासावीदृशीमवस्थामनुभवति इति ।  
+विद्येश्वरो लज्जाभिरामं राजकुमारमुखमभिवीक्ष्य विरचितमन्दहासो व्याजहार-"देव !भवदनुचरे मयि तिष्ठति तव कार्यमसाध्यं किमस्ति ।  
+अहमिन्द्रजालविद्यया मालवेन्द्रं मोहयन् पौरजनसमक्षमेव तत्तनयापरिणयं रचयित्वा कन्यान्तःपुरप्रवेशं कारयिष्यामीति वृत्तान्त एष राजकन्यकायै सखीमुखेन पूर्वमेव कथयितव्यःऽ इति ।  
+सन्तुष्टमना महीपतिरनिमित्तं मित्रं प्रकटीकृतकृत्रिमक्रियापाटवं विप्रलम्भकृत्रिमप्रेमसहजसौहार्दवेदिनं तं विद्येश्वरं सबहुमानं विससर्ज ॥ द्क्च्_१,५।२३ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।२४:  
+    
+अथ राजवाहनो विद्येश्वरस्य क्रियापाटवेन फलितमिव मनोरथं मन्यमानः पुष्पोद्भवेन सह स्वमन्दिरमुपेत्य सादरं बालचन्द्रिकामुखेन निजवल्लभायै महीसुरक्रियमाणं सङ्गमोपायं वेदयित्वा कौतुकाकृष्टहृदयः "कथमिमां क्षपां क्षपयामिऽ इत्यतिष्ठत् ।  
+परेद्युः प्रभाते विद्येश्वरो रसभावरीतिगतिचतुरस्तादृशेन महता निजपरिजनेन सह राजभवनद्वारान्तिकमुपेत्य दौवारिकनिवेदितनिजवृत्तान्तः सहसोपगम्य सप्रणामम् "ऐन्द्रजालिकः समागतःऽ इति द्वास्थैर्विज्ञापितेन तद्दर्शनकुतूहलाविष्टेन समुत्सुकावरोधसहितेन मालवेन्द्रेण समाहूयमानो विद्येश्वरः कक्षान्तरं प्रविश्य सविनयमाशिषं दत्त्वा तदनुज्ञातः परिजनताड्यमानेषु वाद्येषु नदत्सु गायकीषु मदनकलकोकिलामञ्जुलध्वनिषु, समधिकरागरञ्जितसामाजिकमनोवृत्तिषु पिच्छिकाभ्रमणेषु, सपरिवारं परिवृत्तं भ्रामयन्मुकुलितनयनः क्षणमतिष्ठत् ।  
+तदनु विषमं विषमुल्बणं वमन्तः फणालङ्करणा रत्नराजिनीराजितराजमन्दिराभोगा भोगिनो भयं जनयन्तो निश्चेरुः ।  
+गृध्राश्च बहवस्तुण्डैरहिपतीनादाय दिवि समचरन् ॥ द्क्च्_१,५।२४ ॥  
+    
+__________
+
+स्तर्त् द्क्च् १,५।२५:  
+    
+ततो ऽग्रजन्मा नरसिंहस्य हिरण्यकशिपोर्दैत्येश्वरस्य विदारणमभिनीय महाश्चर्यान्वितं राजानमभाषत-राजन् !अवसानसमये भवता शुभसूचकं द्रष्टुमुचितम् ।  
+ततः कल्याणपरम्परावाप्तये भवदात्मजाकारायास्तरुण्या निखिललक्षणोपेतस्य राजनन्दनस्य विवाहः कार्यःऽ इति ।  
+तदवलोकनकुतूहलेन महीपालेनानुज्ञातः सः सङ्कल्पितार्थसिद्धिसम्भावनसम्फुल्लवदनः सकलमोहजनकमञ्जनं लोचनयोर्निक्षिप्य परितो व्यलोकयत् ।  
+सर्वेषु "तदैन्द्रजालिकमेव कर्मऽ इति साद्भुतं पश्यत्सु रागपल्लवितहृदयेन राजवाहनेन पूर्वसङ्केतसमागतामनेकभूषणभूषिताङ्गीमवन्तिसुन्दरीं वैवाहिकमन्त्रतन्त्रनैपुण्येनाग्निं साक्षीकृत्य संयोजयामास ।  
+क्रियावसाने सति "इन्द्रजालपुरुषाः, सर्वे गच्छन्तु भवन्तःऽ इति द्विजन्मनोच्चैरुच्यमाने सर्वे मायामानवा यथायथमन्तर्भावं गताः ।  
+राजवाहनो ऽपि पूर्वकल्पितेन गूढोपायचातुर्येणेन्द्रजालिकपुरुषवत्कन्यान्तःपुरं विवेश ।  
+मालवेन्द्रो ऽपि तदद्भुतं मन्यमानस्तस्मै वाडवाय प्रचुरतरं धनं दत्त्वा विद्येश्वरम् "इदानीं साधयऽ इति विसृज्य स्वयमन्तर्मन्दिरं जगाम ।  
+ततो ऽवन्तिसुन्दरी प्रियसहचरीवरपरिवारा बल्लभोपेता सुन्दरं मन्दिरं ययौ ।  
+एवं दैवमानुषबलेन मनोरथसाफल्यमुपेतो राजवाहनः सरसमधुरचेष्टाभिः शनैःशनैर्हरिणलोचनाया लज्जामपनयन् सुरतरागमुपनयन् रहो विश्रम्भमुपजनयन् संलापे तदनुलापपीयूषपानलोलश्चित्रचित्रं चित्तहारिणं चतुर्दशभुवनवृत्तान्तं श्रावयामास ॥ द्क्च्_१,५।२५ ॥  
+    
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते ऽवन्तिसुन्दरीपरिणयो नाम पञ्चम उच्छ्वासः  
+    
+इति पूर्वपीठिका
+
+==================================================================================
+
+श्रीः
+
+दशकुमारचरितम् उत्तरपीठीकायाः
+
+स्तर्त् द्क्च् २,१:
+
+प्रथमोच्छ्वासः
+
+श्रुत्वा तु भुवनवृत्तान्तमुत्तमाङ्गना विस्मयविकसिताक्षी सस्मितमिदमभाषत-"दयित, त्वत्प्रसादादद्य मे चरितार्था श्रोत्रवृत्तिः ।  
+अद्य मे मनसि तमो ऽपहस्त्वया दत्तो ज्ञानप्रदीपः ।  
+पक्कमिदानां त्वत्पादपद्मपरिचर्याफलम् ।  
+अस्य च त्वत्प्रसादस्य किमुपकृत्य प्रत्युपकृतवती भवेयम् ।  
+अभवदीयं हि नैव किञ्चिन्मत्सम्बद्धम् ।  
+अथवास्त्येवास्यापिजनस्य क्वचित्प्रभुत्वम् ।  
+अशक्यं हि मादिच्छया विना सरस्वतीमुखग्रहणोच्छेषणीकृतो दशनच्छद एष चुम्बयितुम् ।  
+अम्बुजासनास्तनतटोपभुक्तमुरःस्थलं चेदमालिङ्गयितुम्ऽ इति प्रियोरसि प्रावृडिव नभस्युपास्तीर्णगुरुपयोधरमण्डला प्रौढकन्दलीकुड्मलमिव रूढरागरूषितं चक्षुरुल्लासयन्ती वर्हिवर्हावलीं विडम्बयता कुसुमचन्द्रकशारेण मधुकरकुलव्याकुलेन केशकलापेन स्फुरदरुणकिरणकेसरकरालं कदम्बमुकुलमिव कान्तस्याधरमणिमधीरमाचुचुम्ब ।  
+तदारम्भसफरितया च रागवृत्त्या भूयो ऽप्यावर्ततातिमात्रचित्रोपचारशीफरो रतिप्रबन्धः ।  
+सुरतखेदसुप्तयोस्तु तयोः स्वप्ने बिसगुणनिगडितपादो जरठः कश्चिज्जालपादो ऽदृश्यत ।  
+प्रत्यबुध्येतां चौभौ ।  
+अथ तस्य राजकुमारस्य कमलमूढशशिकिरणरज्जुदामनिगृहीतमिव रजतशृङ्खलोपगूढं चरणयुगलमासीत् ।  
+उपलभ्यैव च "किमेतत्ऽ इत्यतिपरित्रासविह्वला मुक्तकण्ठमाचक्रन्द राजकन्या ।  
+यन च तत्सकलमेव कन्यान्तःपुरमग्निपरीतमिव पिशाचोपहतमिव वेपमानमनिरूप्यमाणतदात्वायतिविभागमगण्यमानरहस्यरक्षासमयमवनितलविप्रविध्यमानगात्रमाक्रन्दविदीर्यमाणकण्ठमश्रुस्रोतो ऽवगुण्ठितकपोलतलमाकुलीबभूव ।  
+तुमुले चास्मिन्समये ऽनियन्त्रितप्रवेशाः "किं किम्ऽ इति सहसोपसृत्य विविशुरन्तर्वंशिकपुरुषाः ।  
+ददृशुश्च तदवस्थं राजकुमारम् ।  
+तदनुभावनिरुद्धनिग्रहेच्छास्तु सद्य एव ते तमर्थं चण्डवर्मणे निवेदयाञ्चक्रुः ।  
+सो ऽपि कोपादागत्य निर्दहन्निव दहनगर्भया दृशा निशाम्योत्पन्नप्रत्यभिज्ञः "कथं स एवाष मदनुजमरणनिमित्तभूतायाः पापाया बालचन्द्रिकायाः पत्युरत्यभिनिविष्टवित्तदर्पस्य वैदेशिकवणिक्पुत्रस्य पुष्पोद्भवस्य मित्रं रूपमत्तः कलाभिमानी नैकविधविपरलम्भोपायपाटवावर्जितमूढपौरजनमिथ्यारोपितवितथदेवतानुभावः कपटधर्मकञ्चुको निगूढपापशीलश्चपलो ब्राह्मणब्रुवः ।  
+कथमिवैनमनुरक्ता मादृशेष्वपि पुरुषसिंहेषु सावमाना पापेयमवन्तिसुन्दरी ।  
+पश्यतु पतिमद्यैव शूलावतंसितमियमनार्यशीला कुलपांसनीऽ इति निर्भर्त्सयन्भीषणभ्रुकुटिदूषतललाटः काल इव काललोहदण्डकर्कशेन बाहुदण्डेनावलम्ब्य हस्ताम्बुजे रेखाम्बुजरथाङ्गलाञ्छने राजपुत्रं सरभसमाचकर्ष ।  
+स तु स्वभावधीरः सर्वपौरुषातिभूमिः सहिष्णुतैकप्रतिक्रियां दैवीमेव तामापदमवधार्य "स्मर तस्या हंसगामिनि, हंसकथायाः ।  
+सहस्व वासु, मासद्वयम्ऽइति प्राणपरित्यागरागिणीं प्राणसमां समाश्वास्यारिवश्यतामयासीत् ।  
+अथ विदितवार्तावार्तौ महादेवीमालवेन्द्रौ जामातरमाकारपक्षपातिनावात्मपरित्यागोपन्यासेनारिणा जिघांस्यमानं ररक्षतुः ।  
+न शेकतुस्तु तमपरभुत्वादुत्तारयितुमापदः ।  
+स किल चण्डशीलश्चण्जवर्मा सर्वमिदमुदन्तजातं राजराजगिरौ तपस्यते दर्पसाराय सन्दिश्य सर्वमेव पुष्पोद्भवकुटुम्बकं सर्वस्वहरणपूर्वकं सद्य एव बन्धने क्षिप्त्वा कृत्वा च राजवाहनं राजकेसरिकिशोरकमिव दारुपञ्जरनिबद्धं मूर्धजजालवलीनचूढामणिप्रभावविक्षिप्तक्षुत्पिपासादिखेदं च तमवधूतदुहितृप्रार्थनस्याङ्गराजस्योद्धरणायाङ्गानभियास्यन्न्यविश्वासान्निनाय ।  
+रुरोध च बलभरदत्तकम्पश्चम्पाम् ।  
+चम्पेश्वरो ऽपि सिंहवर्मा सिम्ह इवासह्यविक्रमः प्राकारं भेदयित्वा महता बलसमुदायेन निर्गत्य स्वप्रहितदूतव्राताहूतानां साहाय्यदानायातिसत्वरमापततां धरापतीनामचिरकालभाविन्यपि सन्निधावदत्तापेक्षःस साक्षादिवावलेपो वपुष्मानक्षमापरीतः प्रतिबलं प्रतिजग्राहः ।  
+जगृहे च महति सम्पराये क्षीणसकलसैन्यमण्डलः प्रचण्डप्रहरणशतभिन्नमर्मा सिंहवर्मा करिणः करिणमवप्लुत्यातिमानुषप्राणबलेन चण्डवर्मणा ।  
+स च तद्दुहितर्यम्बालिकायामबलारत्नसमाख्यातायामतिमात्राभिलाषः प्राणैरेनं न व्ययूयुजत् ।  
+अवपि त्वनीनयदपनीताशेषशल्यमकल्यसन्धो बन्धनम् ।  
+अजीगणच्च गणकसङ्घैः "अद्यैव क्षपावसाने विवाहनीया राजदुहिताऽ इति ।  
+कृतकौतुकमङ्गले च तस्मिन्नेकपिङ्गाचलात्प्रतिनिवृत्त्यैणजङ्घो नाम जङ्घाकरिकः प्रभवतो दर्पसारस्य प्रतिसन्देशमावेदयत्--"अयि मूढ, किमस्ति कन्यान्तःपुरदूषके ऽपि कश्चित्कृपावसारः ।  
+स्थविरः स राजा जराविलुप्तमानावमानचित्तो दुश्चरितदुहितृपक्षपाती यदेव किञ्चित्प्रलपति त्वयापि किं तदनुमत्या स्थातव्यम् ।  
+अविलम्बितमेव तस्य कामोन्मत्तस्य चित्रवधवार्ताप्रेषणेन श्रवणोत्सवो ऽस्माकं विधेयः ।  
+सा च दुष्टकन्या सहानुजेन कीर्तिसारेण निगडितचरणा चारके निरोद्धव्याऽ इति ।  
+तच्चाकर्ण्य "प्रातरेव राजभवनद्वारे स च दुरात्मा कन्यान्तःपुरदूषकः सन्निधापयितव्यः ।  
+चण्डपोतश्च मातङ्गपतिरुपचितकल्पनोपपन्नस्तत्रैव समुपस्थापनीयः ।  
+कृतविवाहकृत्यश्चोत्थायाहमेव तमनार्यशीलं तस्य हस्तिनः कृत्वा क्रीडनकं तदधिरूढ एव गत्वा शत्रसाहाय्यकाय प्रत्यासीदतो राजन्यकस्य सकोशवाहनस्यावग्रहणं करिष्यामिऽ इति पार्श्वचरानवेक्षाञ्चक्रे ।  
+निन्ये चासावहन्यन्यस्मिन्नुन्मिषत्येवोषारोगे राजपुत्रो राजाङ्गणं रक्षिभिः ।  
+उतस्थे च क्षरितगण्डश्चण्डपोतः ।  
+क्षणे च तस्मिन्मुमुचे तदङ्घ्रियुगलं रजतशृङ्खलया ।  
+सा चैनं चन्द्रलेखाच्छविः काचिदप्सरा भूत्वा प्रदक्षिणीकृत्य प्राञ्जलिर्ंव्यजिज्ञपत्--"देव, दीयतामनुग्रहार्द्रं चित्तम् ।  
+अहमस्मि सोमरश्मिसम्भवा सुरतमञ्जरी नाम सुरसुन्दरी ।  
+तस्या मे नभसि नलिनलुब्ध मुग्धकलहंसानुबद्धवक्त्रायास्तन्निवारणक्षोभविच्छिन्नविगलिता हारयष्टिर्यदृच्छया जातु हैमवते मन्दोदके मग्नोन्मग्नस्य महर्षेर्मार्कण्डेयस्य मस्तके मणिकिरणद्विगुणितपलितमपतत् ।  
+पातितश्च कोपितेन को ऽपि तेन मयि शापः--"पापे, भजस्व लोहजातिमजातचैतन्या सतीऽ इति ।  
+स पुनः प्रसाद्यमानस्त्वत्पादपद्मद्वयस्य मासद्वयमात्रं सन्दानतामेत्य निस्तरणीयामिमामापदमपरिक्षीणशक्तित्वं चेन्द्रियाणामकल्पयत् ।  
+अनल्पेन च पाप्मना रजतशृङ्खलीभूतां मामैक्ष्वाकस्य राज्ञो वेगवतः पौत्रः, पुत्रो मानसवेगस्य, वीरशेखरो नाम विद्याधरः शङ्करगिरौ समध्यगमत् ।  
+आत्मसात्कृता च तेनाहमासम् ।  
+अथासौ पितृप्रयुक्तवैरे प्रवर्तमाने विद्याधरचक्रवर्तिनि वत्सराजवंशवर्धने नरवाहनदत्ते विरसाशयस्तदपकारक्षमो ऽयमिति तपस्यता दर्पसारेण सह समसृज्यत ।  
+प्रतिश्रुतं च तेन तस्मै स्वसुरवन्तिसुन्दर्याः प्रदानम् ।  
+अन्यदा तु वियति व्यवदायमानचन्द्रिके मनोरथप्रियतमामवन्तिसुन्दरीं दिदृक्षुरवशेन्द्रियस्तदिन्द्रमन्दिरद्युति कुमारीपुरमुपासरत् ।  
+अन्तरितश्च तिरस्करिण्या विद्यया ।  
+स च तां तदा त्वदङ्कापाश्रयां सुरतखेदसुप्तगात्रीं त्रिभुवनसर्गयात्रासंहारसम्बद्धाभिः कथाभिरमृतस्यन्दिनीभिः प्रत्यानीयमानरागपूरां न्यरूपयत् ।  
+स तु प्रकुपितो ऽपि त्वदनुभावप्रतिबद्धनिप्रहान्तराध्यवसायः समालिङ्ग्येतरेतरमत्यन्तसुखसुप्तयोर्युवयोर्दैवदत्तोत्साहः पाण्डुलोहशृङ्खलात्मना मया पादपद्मयोर्युगलं तव निगडयित्वा सरोषरभसमपासरत् ।  
+अवसितश्च ममाद्य शापः ।  
+तच्च मासद्वयं तव पारतन्त्र्यम् ।  
+प्रसीदेदानीम् ।  
+किं तव करणीयम्ऽ इति प्रणिपतन्ती "वार्तयानया मत्प्राणसमां समाश्वासयऽ इति व्यादिश्य विससर्ज ।  
+तस्मिन्नेव क्षणान्तरे "हतो हतश्चण्डवर्मा सिंहवर्मदुहितुरम्बालिकायाः पाणिस्पर्शरागप्रसारिते बाहुदण्ड एव बलवदलम्ब्य सरभसमाकृष्य केनापि दुष्करकर्मणा तस्करेण नखप्रहारेण राजमन्दिरोद्देशं च शवशतमयमापादयन्नचकितगतिरसौ विहरतिऽ इति वाचः समभवन् ।  
+श्रुत्वा चैतत्तमेव मत्तहस्तिनमुदस्ताधोरणो राजपुत्रो ऽधिरुह्य रंहसोत्तमेन राजभवनमभ्यवर्तत ।  
+स्तम्बेरमरयावधूतपदातिदत्तर्त्मा च प्रविश्य वेश्याभ्यन्तरमदभ्राभ्रनिर्घोषगम्भीरेण स्वरेणाभ्यधात्--"कः स महापुरुषो यैनैतन्मानुषमात्रदुष्करं महत्कर्मानुष्ठितम् ।  
+आगच्छतु ।  
+मया सहेमं मत्तहस्तिनमारोहतु ।  
+अभयं मदुपकण्ठवर्तिनो देवदानवैरपि विगृह्णानस्यऽ इति ।  
+निशम्यैवं स पुमानुपोढहर्षो निर्गत्य कृता ञ्जलिराक्रम्य सञ्ज्ञासङ्कुचितं कुञ्जरगात्रमसक्तमध्यरुक्षत् ।  
+आरोहन्तमेवैनं निर्वर्ण्यहर्षोत्फुल्लदृष्टिः "अये, प्रियसखो ऽयमपहारवर्मैवऽ इति पश्चान्निषीदतो ऽस्य बाहुदण्डयुगलमुभयभुजमूलप्रवेशितमग्रे ऽवलम्ब्य स्वमङ्गमालिङ्गयामास ।  
+स्वयं च पृष्ठतो वलिताभ्यां भुजाभ्यां पर्यवेष्टयत् ।  
+तत्क्षणोपसंहृतालिङ्गनव्यतिकरश्चापहारवर्मा चापचक्रकणपकर्पणप्रासपट्टिशमुसलतोमरादिप्रहरणजातमुपयुञ्जानान् बलावलिप्तान्प्रतिबलवीरान्बहुप्रकारायोधिनः परिक्षिपतः क्षितौ विचिक्षेप ।  
+क्षणेन चाद्राक्षीत्तदपिसैन्यमन्येन समन्ततो ऽभिमुखमभिधावता बलनिकायेन परिक्षिप्तम् ।  
+अनन्तरं च कश्चित्कर्मिकारगौरः कुरुविन्दसवर्णकुन्तलः कमलकोमलपाणिपादः कर्णचुम्बिदुग्धधवलस्निग्धनीललोचनः कटितटनिविष्टरत्ननखः पट्टनिवसनः कृशाकृशोदरोरःस्थलः कृतहस्ततया रिपुकुलमिषुवर्षेणाभिवर्षन्पादाङ्गुष्ठनिष्ठरावघृष्टकर्णमूलेन प्रजविना गजेन सन्निकृष्य पूर्वोपदेशप्रत्ययात् "अयमेव स देवो राजवाहनःऽ ति प्राञ्जलिः प्रणम्यापहारवर्मणि निविष्टदृष्टिराचष्टत्वदादिष्टेन मार्गेण सन्निपातितमेतदङ्गराजसहाय्यदानायोपस्थितं राजकम् ।  
+अरिबलं च विहितविध्वस्तं स्त्रीबालहार्यशस्त्रं वर्तते ।  
+किमन्यत्कृत्यम्ऽ इति ।  
+हृष्टस्तु व्याजहारापहारंवर्मा--"देव, दृष्टिदानेनानुगृह्यतामयमाज्ञाकारः ।  
+सो ऽयमेव ह्यमुना रूपणे धनमित्राख्यया चान्तरितो मन्तव्यः स एवायं निर्गमप्यबन्धनादङ्गराजमपवर्जितं च कोशवाहनमेकीकृत्यास्मद्गृह्येणामुना सह राजन्यकेनैकान्ते सुखोपविष्टमिह देवमुपतिष्ठतु यदि न दोषःऽ इति ।  
+देवो ऽपि "यथा ते रोचतेऽ इति तमाभाष्य गत्वा च तन्निर्दिष्टेन मार्गेण नगराद्वहिरतिमहतो रोहिणद्रुमस्य कस्यचित्क्षौमावदातसैकते गङ्गातरङ्गपवनपातशीतले तले द्विरदादवततर ।  
+प्रथमसमवतीर्णेनापहारवर्मणा च स्वहस्तसत्वरसमीकृते मातङ्ग इव भागीरथीपुलिनमणअडले सुखं निषसाद ।  
+तथा निषण्मं च तमुपहारवर्मार्थपालप्रमतिमित्र्रगुप्तमन्त्रगुप्तविश्रुतैर्मैथिलेन च प्रहारवर्मणा, काशीभर्त्रा च कामपालेन चम्पेश्वरेण सिंहवर्मणा सहोपागतय धनमित्रः प्रणिपपात ।  
+देवो ऽपि हर्षाविद्धमभ्युत्थितः "कथं समस्त एष मित्रगणः समागतः को नामायमभ्युदयःऽ इति कृतयथोचितोपचारान्निर्भरतरं परिरेभे ।  
+काशपितिमैथिलाङ्गराजांश्चसुहृन्निवेदितान्पितृवदपश्यत् ।  
+तैश्च हर्षकम्पितपलितं सरभसोपगूढः परमभिननन्द ।  
+ततः प्रवृत्तासु प्रीतिसङ्कथासु प्रियवयम्यगणानुयुक्तः स्वस्य च सोमदत्तपुष्पोद्भेवयाश्चरितमनुवरण्य सुहृदामपि वृत्तान्तं क्रमेण श्रोतुं कृतप्रस्तावस्तांश्च तदुक्तावन्वयुङ्क्त ।  
+तेषु प्रथमं प्राह स्म किलापहारवर्मा-- ॥ द्क्च्_२,१ ॥  
+    
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते राजवाहनचरित नाम प्रथम उच्छ्वासः
+
+__________________________________________________________________________________ 
+
+स्तर्त् द्क्च् २,२:
+
+द्वितीयोच्छ्वासः
+
+"देव, त्वयि तदावतीर्णे द्विजोपकारायासुरविवरं त्वदन्वेषणप्रसृते च मित्रगण अहमपि महीमटन्नङ्गेषु गङ्गातटे बहिश्चम्पायाः "कश्चिदस्ति तपःप्रभावोत्पन्नदिव्यचक्षुर्मरीचिर्नाम महर्षिःऽ इति ।  
+कुतश्चित्संलपतो जनसमाजादुपलभ्यामुतोबुभुत्सुस्त्वद्गतिं तमुद्देशमगमम् ।  
+न्यशामयं च तस्मिन्नाश्रमे कस्याचिच्चूतपोतकस्य छायायां कमप्युद्विग्नवर्णं तापसम् ।  
+अमुना चातिथिवदुपचरितः क्षणं विश्रान्तः "क्वासौ भगवान्मरचिः, तस्मादहमुपलिप्सुः प्रसङ्गप्रोषितस्य सुहृदो गतिम आश्चर्यज्ञानविभवो हि स महर्षिर्मह्यां विश्रुतःऽ इत्यवादिपम् ।  
+अथासावुष्णमायतं च निःश्वस्याशंसत-"आसीत्तादृशो मुनिरस्मिन्नाश्रमे ।  
+तमेकदा काममञ्जरी नामाङ्गपुरीवतंसस्थानीया बारयुवतिरश्रुबिन्दुतारकितपयोधरा सनिर्वेदमभ्येत्य कीर्णशिखण्डास्तीर्णभूमिरभ्यवन्दिष्ट ।  
+तस्मिन्नेव च क्षणे मातृप्रमुखस्तदाप्तवर्गः सानुक्रोशमनुप्रधावितस्तत्रैवाविच्छिन्नपातमपतत् ।  
+स किल कृपालुस्तं जनमार्द्रया गिराश्वास्यार्तिकारणं तां गणिकामपृच्छत् ।  
+सा तु सव्रीडेव सार्वपादेव सगारैवेव चाव्रवीत् ।  
+"भगवन्! ऐहिकस्य सुखस्याभाजनं जनो ऽयमामुष्मिकाय श्वोवसीयायार्ताभ्युपपत्तिवित्तयोर्भगवत्पादयोर्मूलं शरणमभिप्रपन्नःऽ इति ।  
+तस्यास्तु जनन्युदञ्जलिः परितशारशिखण्डबन्धस्पृष्टमुक्तभूमिरभाषत--"भगवन्, अस्या मे दोषमेषा वो दासी विज्ञापयति ।  
+दोषश्च मम स्वाधिकरारानुष्ठा पनम् ।  
+एष हि गणिकामातुरधिकारो यद्दुहितुर्जन्मनः प्रभृत्येवाङ्गक्रिया, तेजोबलवर्णमेधासंवर्धनेन दोषाग्निधातुसाम्यकृता मितेनाहारेण शरीरपोषणम्, आपञ्चमाद्वर्षात्पितुरप्यनतिदर्शनम्, जन्मदिने पुम्यदिने चोत्सवोत्तरो मङ्गलविधिः, अध्यापनमनङ्गविद्यानां साङ्गानाम्, नृत्यगीतवाद्यनाट्यचित्रास्वाद्यगन्धपुष्पकलासु लिपिज्ञानवचनकौशलादिषु च सम्यग्विनयनम्, शब्दहेतुसमयविद्यासु वार्तामात्रावबोधनम्, आजीवज्ञाने क्रीडाकौशले सजीवनिर्जीवासु च द्यूतकलास्वभ्यन्तरीकरणम्, अभ्यन्तरकलासु वैश्वासिकजनात्प्रयत्नेन प्रयोगग्रहणम्, यात्रोत्सवादिष्वादरप्रसाधितायाः स्फीतपरिबर्हायाः प्रकाशनम्, प्रसङ्गवत्यां सङ्गीतादिप्रियायां पूर्वसङ्गृहीतैर्ग्राह्यवाग्भिः सिद्विलम्भनम्, दिङ्मुखेषु तत्तच्छिल्पवित्तकैर्यशःप्रख्यापनम्, कार्तान्तिकादिभिः कल्याणलक्षणोद्धोषणम्, पीठमर्दविटविदूषकैर्भिक्षुक्यादिभिश्च नागरिकपुरुषसमवायेषु रूपशीलशिल्पसौन्दर्यमाधुर्यप्रस्थावना, युवजनमनोरथलक्ष्यभूतायाः प्रभूततमेन शुल्केनावस्थापनम् स्वतो रागान्धाय तद्भावदर्शनोन्मादिताय वा जातिरूपवयोर्ऽथशक्तिशौचत्यागदाक्षिण्यशिल्पशीलमाधुर्योपपन्नाय स्वतन्त्राय प्रदानम्, अधिकगुणायास्वतन्त्राय प्राज्ञतमायाल्पेनापि बहुव्यपदेशेनार्पणम्, अस्वतन्त्रेण वा गन्धर्वसमागमेन तद्गुरुभ्यः शुल्कापहणम्, अलाभेर्ऽथस्य कामस्वीकृते स्वामिन्यधिकरणे च साधनम्, रक्तस्य दुहित्रैकचारिणीव्रतानुष्ठापनम्, नित्यनैमितिकप्रीतिदायकतया हृतशिष्टानां गम्यधनानां चित्रैरुपायैरपहरणम्, अददता लुब्धप्रायेण च विगृह्यासनम् प्रतिहस्तिप्रोत्साहनेन लुब्धस्य रागिणस्त्यागशक्तिसन्धुक्षणम्, असारस्य वाक्सन्तक्षणैर्लोकोपक्रोशनैर्दुहितृनिरोधनैव्रीडोत्पादनैरन्याभियोगैरवमानैश्चापवाहनम्, अर्थदैरनर्थप्रतिघातिभिश्चानिन्द्यैरिभ्यैरनुबद्धार्थानर्थसंशयान्विचार्य भूयोभूयः संयोजनमिति ।  
+गणिकायाश्च गम्यं प्रति सज्जतैव न सङ्गः ।  
+सत्यामपि प्रीतौ न मातुर्मातृकाया वा शासनातिवृत्तिः ।  
+एवं स्थिते ऽनया प्रजापतिविहितं स्वधर्ममुल्लङ्घ्य क्वचिदागन्तुकं रूपमात्रधने विप्रयूनि स्वेनैव धनव्ययेन रममाणया मासमात्रमत्यवाहि ।  
+गम्यजनश्च भूयानर्थयोग्यः प्रत्याचक्षणयानया प्रकोपितः ।  
+स्वकुटुम्बकं चावसादितम् "एषा कुमतिर्न कल्याणोऽ इति निवारयन्त्यां मयि वनवासाय कोपात् प्रस्थिता ।  
+सा चेदियमहार्यानिश्चया सर्व एष जनो ऽत्रैवानन्यगतिरनशनेन संस्थास्यतेऽ इत्यरोदीत् ।  
+अथ सा वारयुवतिस्तेन तापसेन "भद्रे! ननु दुःखीकरे ऽयं वनवासः ।  
+तस्य फलमपवर्गः स्वर्गो वा ।  
+प्रथमस्तु तयोः प्रकृष्टज्ञानसाध्यः प्रायो दुस्सम्पाद एव, द्वितीयस्तु सर्वमस्यैव सुलभः कुलधर्मानुष्ठायिनः ।  
+तदशक्यारम्भादुपरम्य मातुर्मते वर्तस्वऽ इति सानुकम्पमभिहिता यदिह भगवत्पादमूलमशरणम्, शरणमस्तु ममम कृपणाया हिरण्यरेता देव एव इत्युदमनायत ।  
+स तु मुनिरनुविमृश्य गणिकामातरमवदत्--"सम्प्रति गच्छ गृहान् ।  
+प्रतीक्षम्व कानि चिहिनानि यावदियं सुकुमारा सुखोपभोगसमुचिता सत्यरण्यवासव्यसनेनोद्वेजिता भूयोभूयश्चास्माभिर्विबोध्यमाना प्रकृतावेव स्थाम्यतिऽ इति ।  
+"तथाऽ इति तस्याः प्रतियाते स्वजने सा गणिका तमृषिमलघुभक्तिर्धौतोद्गमनीयवासिनी नात्यादृतशरीरसंस्कारा वनतरुपोतालवालपूरणैर्देवतर्चनकुसुमोच्चयावचयप्रयासैर्नैकविकल्पोपहारकर्मभिः कामशासनार्थे च गन्धमाल्यधूपदीपनृत्यगीतवाद्यादिभिः क्रियाभिरेकन्ते च त्रिवर्गसम्बन्धनीभिः कथाभिरध्यात्मवादैश्चानुरूपैरल्पीयसैव कालेनान्वरञ्जयत् ।  
+एकदा च रहसि रक्तं तमुपलक्ष्य मूढः खलु लोको यत्सह धर्मेणार्थकामावपि गणयतिऽ इति किञ्चिदस्मयत ।  
+"कथय वासु, केनांशेनार्थकामातिशायी धर्मस्तवाभिप्रेतःऽ इति प्रेरिता मरीचिना लज्जामन्थरमारभताभिधातुम्--"इतः किम जनाद्भगवतस्त्रिवर्गबलाबलज्ञानम् ।  
+अथवैतदपि प्रकारान्तरं दासजनानुग्रहस्य ।  
+भवतु, श्रूयताम् ।  
+ननु धर्मादृतेर्ऽथकामयोरनुत्पत्तिरेव ।  
+तदनपेक्ष एव धर्मो निवृत्तिसुखप्रसूतिहेतुरात्मसमाधानमात्रसाध्यश्च ।  
+सोर्ऽथकामवद्बाह्यसाधनेषु नात्यायतते ।  
+तत्त्वदर्शनोपबृंहितश्च यथाकथञ्चिदष्यनुष्ठीयमानभ्यां नार्थकामाभ्यां बाध्यते ।  
+बाधितो ऽपि चाल्पायासप्रतिसमाहितस्तमपि दोषं निर्हृत्य श्रेयसे ऽनल्पाय कल्पते ।  
+तथाहि पितामहसय तिलोत्तमाभिलाषः, भवानीपतेर्मुनिपत्नीसहस्रसन्द्रूषणम्, पद्मनाभस्य षोडशमहस्रान्तःपुरविहारः, प्रजापतेः स्वदुहितर्यपि प्रणयप्रवृत्तिः, शचीपतेरहल्याजारता, शशाङ्कस्य गुरुतल्पगमनम्, अंशुमालिनो वडवालङ्घनम्, अनिलस्य केसरिकलत्रसमागमः, बृहस्पतेरुतथ्यभार्याभिसरणम्, पराशरस्य दाशकन्यादूषणम्, पाराशर्यस्य भ्रातृदारसङ्गतिः, अत्रेर्मृकगीसमागम ति ।  
+अमराणां च तेषु तेषु कार्येष्वासुरविप्रलम्भनानि ज्ञानबलान्न धर्मपीडामावहन्ति ।  
+धर्मपूते च मनसि नभसीव न जातु रजो ऽनुषज्यते ।  
+तन्मन्ये नार्थकामौ धर्मस्य शततमीमपि कलां स्पृशतःऽ इति ।  
+श्रुत्वैतदृषिरुदीर्णरागवृत्तिरभ्यधात्--"अयि विलासिन्, साधु पश्यसि न धर्मस्तत्त्वदर्शिनां विषयोपभोगेनोपरुध्यत इति ।  
+किन्तु जन्मनः प्रभृत्यर्थकामवार्तानभिज्ञा वयम् ।  
+ज्ञेयौ चेमौ किंरूपौ किम्परिवारौ किम्फलौ चऽ इति ।  
+सात्ववादति--"अर्थस्तावदर्जनवर्धनरक्षणात्मकः, कृषिपाशुपाल्यवाणिज्यसन्धिविग्रहादिपरिवारः तीर्थप्रतिपादनफलश्च ।  
+कामस्तु विषयातिसक्तचेतसोः स्त्रीपुंसयोर्निरतिशयसुखम्पर्शविशेषः ।  
+परिवारस्त्वस्य यावदिह रम्यमुज्जवलं च ।  
+फलं पुनः परमाह्लादनम् परम्परविमर्दजन्म, स्मर्यमाणमधुरम्, उदीरिताभिमानमनुत्तमम् लुखमपरोक्षं स्वसंवेद्यमेव ।  
+तस्यैव कृते विशिष्टस्थानवर्तिनः कष्टानि तषांसि, महान्ति दानानि, दारुणानि युद्धानि, भीमानि समुद्रलङ्घनादीनि च नराः समाचरन्तिऽ इति ।  
+निशस्यैतन्नियतिवलान्नु तत्पाटवान्नु स्वबुद्धिमान्द्यान्नु स्वनियममनादृत्य तस्यामसौ प्रासजत् ।  
+सा सुदूरं मूढात्मानं च तं प्रवहणेन नीत्वा पुरमुदारशोभया राजवीथ्या स्वभवनमनैपीत् ।  
+अभूच्च घोषणा "श्वः कामोत्सवःऽ इति ।  
+उत्तरे द्युः स्नातानुलिप्रमारचितमञ्जुमालमारब्धकामिजनवृत्तं निवृत्तस्ववृत्ताभिलाषं क्षणमात्रे गते ऽपि तया विना दूयमानं तमृद्धिमता राजमार्गेणोत्सवसमाजं नीत्वा क्वचिदुपवनोद्देशे युवतिजनशतपरिवृतस्य राज्ञः सन्निधौ स्मितमुखेन तेन "भद्रे, भगवता सह निषीदऽ इत्यादिष्टा सविभ्रमं कृतप्रणामा सस्मितं न्यषीदत् ।  
+तत्र काचिदुत्थाय बद्धाञ्जलिरुत्तमाङ्गना "देव, जितानयाहम्, अस्यै दास्यमद्यप्रभृत्यभ्युपेतं मयाऽ इति प्रभुं प्राणंसीत् ।  
+विस्मयहर्षमूलश्चकोलाहलो लोकस्योदजिहीत ।  
+हृष्टेन च राज्ञा महार्है रत्नालङ्कारेर्महता च परिबर्हेणानुगृह्य विसृष्टा वारमुख्याभिः पौरमुख्यैश्च गणशः प्रशस्यमाना स्वभवनमगत्वैव तमृषिमभाषत--"भगवन्, अयमञ्जलिः, चिरमनुगृहीतो ऽयं दासजनः, स्वार्थ इदानीमनुष्ठेयःऽ इति ।  
+स तु रागादशनिहत इवोद्भाम्याब्रवीत्--"प्रियेऽ किमेतत् ।  
+कुत इदमौदासीन्यम् ।  
+क्व गतस्तव मय्यसाधारणो ऽनुरागःऽ इति ।  
+अथ सा सस्मितमवादीत्--"भगवन्, ययाद्य राजकले मत्तः पराजयो ऽब्युपेतस्तस्याश्च मम च कस्मिंश्चित्सङ्घर्षे "मरीचिमावर्जितवतीव श्लाघसेऽ इति तयास्म्यहमधिक्षिप्ता ।  
+दास्यण्णबन्धेन चास्मिन्नर्थे प्रावर्तिषि ।  
+सिद्धार्था चास्मित्वत्प्रसादात्ऽ इति ।  
+समस्था तथावधूतो दुर्मतिः कृतानुशयः शून्यवनन्यवर्तिष्ट ।  
+यस्तयैवं कृतस्तपस्वी तमेव मां महाभाग, मन्यस्व ।  
+स्वशक्तिनिषिक्तं रागमुद्धृत्य तत्यैव बनधक्या महद्वैराग्यमर्पितम् ।  
+अचिरादेव शक्य आत्मा त्वदर्थसाधनक्षमः कर्तुम् ।  
+अस्यामेव तावद्वसाङ्गपुर्यां चम्पायाम्ऽ इति ।  
+अथ तनमनश्च्युततमःस्पर्शभियेवास्तं रविरगात् ।  
+ऋषिमुक्तश्च रागः सन्ध्यात्वेनास्फुरत् ।  
+तत्कथादत्तवैराग्याणीव कमलवनानि समकुचन् ।  
+अनुमतमुनिशासनस्त्वममुनैव सहोपास्य सन्ध्यामनुरूपाभिः कथाभिस्तमनुशय्य नीतरात्रिः प्रत्युन्मिषत्युदयप्रस्थदावकल्पे कल्पद्रुमकिसलयावधीरिण्यरुणार्चिषि तं नमस्कृत्य नगरायोदचलम् ।  
+अद्रशं च मार्गाभ्याशवर्तिनः कस्यापि क्षपणकविहारस्य बहिर्विविक्ते रक्ताशोकषण्डे निषण्णमस्पृष्टसमाधिमाधिक्षीणमग्रगण्यमनभिरूपाणां कृपणवर्णं कमपि क्षपणकम् ।  
+उरसि चास्य शिथिलितमलनिचयान्मुखान्निपततो ऽश्रुबिन्दूनलक्षयम् ।  
+अप्राक्षं चान्तिकोपविष्टः--"क्व तपः, क्व च रुदितम् ।  
+न चेद्रहस्यमिच्छामि श्रोतुं शोकहेतुम्ऽ इति ।  
+सो ऽब्रूत-"सौम्य, श्रूयताम् ।  
+अहमस्यामेव चम्पायां निधिपालितनाम्नः श्रोष्ठिनो ज्येष्ठसूनुर्वसुपालितो नाम ।  
+वैरूप्यान्मम निरूपक इति प्रसिद्धिरासीत् ।  
+अन्यश्चात्र सुन्दरक इति यथार्थनामाकलागुणैः समृद्धो वसुना नातिपुष्टो ऽभवत् ।  
+तस्य च मम च वपुर्वसुनी निमित्तीकृत्य वैरं वैरोपजीविभिः पौरधूर्तैरुदपाद्यत ।  
+त एव कदाचिदावयोरुत्सवसमाजे स्वयमुत्पादितमन्योन्यावमानमूलमधिक्षेपवचनव्यतिकरमुपशमय्य "न वपुर्वसु वा पुंस्त्वमूलम्, अपि तु प्रकृष्टगणिकाप्रार्थ्ययौवनो हि यः स पुमान् ।  
+अतो युवतिललामभूता काममञ्जरी यं वा कामयते स हरतु सुभगपतकाम्ऽ इति व्यवास्थापयन् ।  
+अभ्युपेत्यावां प्राहिणुव तस्यै दूतान् ।  
+अहमेव किलामुष्याः स्मरोन्मादहेतुरासम् ।  
+आसीनयोश्चावयोर्मामेवापगम्य सा नीलोत्पलमयमिवापाङ्गदामाङ्गे मम मुञ्चन्ती तं जनमपत्रपयाधोमुखं व्यधत्त ।  
+सुभगम्मन्येन च मया स्वधनस्य स्वगृहस्य स्वगणस्य स्वदेहस्य स्वजीवितस्य च सैवेश्वरीकृता ।  
+कृश्चाहमनया मलमल्लकशेषः हृतसर्वस्वतया चापवाहितः प्रपद्य लोकोपहासलक्ष्यतामक्षमश्च सोढुं धिक्वृ-तानि पौरवृद्धानामिह जैनायतने मुनिनैकेनोपदिष्टमोक्षवर्त्मा सुकर एष वेषो वेशनिर्गतानामित्युदीर्णवैराग्यस्तदपि कौषीनमजहाम् ।  
+अथ पुनः प्रकीर्णमलपङ्कः प्रबलकेशलुञ्चनव्यथः प्रकृष्टतमक्षुत्पिपासादिदुःखः स्थानासनशयनभोजनेष्वपि द्विप इव नवग्रहो बलवतीभिर्यन्त्रणाभिरुद्वेजितः प्रत्यवामृशम् ।  
+"अहमस्मि द्विजातिः ।  
+अस्वधर्मो ममैष पाखाण्डिपथावतारः ।  
+श्रुतिस्मृतिविहितेनैव वर्त्मना मम पूर्वजाः प्रावर्तन्त ।  
+मम तु मन्दभाग्यस्य निन्द्यवेषममन्ददुःस्वायतनं हरिहरहिरण्यगर्भादिदेवतापवादक्षश्रवणनैरन्तर्यात्प्रेत्यापि निरयफलम् अफलं विप्रलम्भप्रायमीदृशमिदमधर्मवर्त्म धर्मवत्समाचरणीयमासीत्ऽ इति प्रत्याकलितस्वदुर्नयः पिण्डीषण्डं विविक्तमेतदासाद्य पर्याप्तमश्रुमुञ्चामिऽ इति ।  
+श्रुत्वा चैतदनुकम्पमानो ऽब्रवम्-"भद्र, क्षमस्व ।  
+कञ्चित्कालमत्रैव निवस ।  
+निजेन द्युम्नेनासावेव वेश्या यथा त्वां योजयिष्यति तथा यतिष्ये ।  
+सन्त्युपायास्तादृशाःऽ इत्याश्वास्य तमनुत्थितो ऽहम् ।  
+नगरमाविशन्नेव चोपलभ्य लोकवादाल्लुब्धसमृद्धपूर्णं पुरमित्यर्थानां नश्वरत्वं च प्रदर्श्य प्रकृतिस्थानमून्विधास्यन्कर्मीसुतप्रहिते तथि मतिमकरवम् ।  
+अनुप्रविश्य च द्यूतसभामक्षधूर्तैः समगंसि ।  
+तेषां च पञ्चविंशतिप्रकारासु सर्वासु द्यूताश्रयासु कलासु कौशलमक्षभूमिहस्तादिषु चात्यन्तदुरुपलक्ष्याणि कूटकर्माणि तन्मूलानि सावलेपान्यधिक्षेपवचनानि जीवितनिरपेक्षाणि संरम्भविचेष्टितानि सभिकप्रत्ययव्यवहारान्न्यायबलप्रतापप्रायानङ्गीकृतार्थसाधनक्षमान्बलिषु सान्त्वनानि दुर्बलेषु भर्त्सितानि पक्षरचनानैपुणमुच्चावचानि प्रलोभनानि ग्लहप्रभेदवर्णनानि द्रव्यसंविभागौदार्यमन्तरान्तराश्वीलप्रायान्कलकलानित्येतानि चान्यानि चानुभवन्न तृप्तिमध्यगच्छम् ।  
+अहसं च किञ्चित्प्रमाददत्तशारे क्वचित्कितवे ।  
+प्रतिकितवस्तु निर्दहन्निव क्रोधताम्रया दृशा मामभिवीक्ष्य "शिक्षयसि रे द्यूतवर्त्म हासव्याजेन ।  
+आस्तामयमशिक्षितो वराकः ।  
+त्वयैव तावद्विचक्षणेन देविष्यामिऽ इति द्यूताध्यक्षानुमत्या व्यत्यषजत् ।  
+मया जितश्चासौ षोडशसहस्राणि दीनाराणाम् ।  
+तदर्धं सभिकाय सभ्येभ्यश्च दत्त्वार्धं स्वीकृत्योदतिष्ठम् ।  
+उदतिष्ठंश्च तत्रगतानां हर्षगर्भाः प्रशंसालापाः ।  
+प्रार्थयमानसभिकानुरोधाच्च तदगारे ऽत्युदारमभ्यवहारविधिमकरवम् ।  
+यन्मूलश्च मे दुरोदरावतारः स मे विमर्दको नाम विश्वास्यतरं द्वितीयं हृदयमासीत् ।  
+तन्मुखेन च सारतः कर्मतः शीलतश्च सकलमेव नगरमवधार्य दूर्जटिकण्ठकल्माषकालतमे तमसि नीलनिवसनार्धोरुकपरिहितो बदधतीक्ष्णकौक्षेयकः फणिमुखकाकलीसन्दंशकपुरुषशीर्षकयोगचूर्णयोगवर्तिकामानसूत्रकर्कटकरज्जुदीपभाजनभ्रमरकरण्ढकप्रभृत्यनेकोपकरणयुक्तो गत्वा कस्यचिल्लब्धेश्वरस्य गृहे सन्धिं छित्त्वा पटभाससूक्ष्माच्छिद्रालक्षितान्तर्गृहप्रवृत्तिरव्यथो निजगृहमिवानुप्रविश्य नीवीं सारमहतीमादाय निरगाम् ।  
+नीलनीरदनिकरपीवरतमोनिबिडितायां राजवीथ्यां झटिति शतह्रदासम्पातमिव क्षणमालोकमलक्षयम् ।  
+अथासौ नगरदेवतेव नगरमोषरोषिता निःसम्बाधवेलायां निःसृता सन्निकृष्टा काचिदुन्मिषद्भूषणा युवतिराविरासीत् ।  
+"कासि वासु, क्वयासिऽ इति सदयमुक्ता त्रासगद्गदमगादीत्-"आर्य, पर्युस्यामर्यवर्यः कुबेरदत्तनामा वसति ।  
+आस्म्यहं तस्य कन्या ।  
+मां जातमात्रां धनमित्रनाम्ने ऽत्रत्यायैव कस्मैचिदिभ्यकुमारायान्वजानाद्भार्यां मे पिता ।  
+स पिनरस्मिन्नत्युदारतया पित्रोरन्ते वित्तैर्निजैः क्रीत्वेवार्थिवर्गाद्दारिद्षं दरिद्रति सत्यथोदारक इति च प्रीतलोकाधिरोपितापरश्लाध्यनामनि वरयत्येव तस्मिन्मां तरुणीभूतामधन इत्यदत्त्वार्थपतिनाम्ने कस्मैचिदितरस्मै यथार्थनाम्ने सार्थवाहाय दित्सति मे पिता ।  
+तदमङ्गलमद्य किल प्रभाते भावीति ज्ञात्वा प्रागेव प्रियतमदत्तसङ्केता वञ्चितस्वजना निर्गत्य बाल्याभ्यस्तेन वर्त्मना मन्मथाभिसरातदगारमभिसराभि तन्मां मुञ्च ।  
+गृहाणैतद्भाण्डम्ऽ इत्युन्मुच्य मह्यमर्पितवती ।  
+दयमानश्चाहमब्रवम्--"एहि साध्वि, त्वां नयेयं त्वत्प्रियावसथम्ऽ इति त्रिचतुराणि पदान्युदचलम् ।  
+आपतच्च दीपिकालोकपरिलुप्यमानतिमिरभारं यष्टिकृपाणपाणि नागारिकबलमनल्पम् ।  
+दृष्ट्वैव प्रवेपमानां कन्यकामवदम्--"भेद्रे, मा भैषीः ।  
+अस्त्ययमसिद्वितीयो मे बाहुः अपि तु मृदुरयमुपायस्त्वदपेक्षया चिन्तितः ।  
+शये ऽहं भावितविषवेगविक्रियः ।  
+त्वयाप्यमी वाच्याः "निशि वयमिमां पुरी प्रविष्टाः ।  
+दष्टश्च ममैष नायको दर्वीकरेणामुष्मिन्सभागृहकोणे ।  
+यदि वः कश्चिन्मन्त्रवित् कृपालुः स एनमुज्जीवयन्मम प्राणानाहरेदनाथायाःऽ इति ।  
+सापि बाला गत्यन्तराभावाद्भयगद्गदस्वरा बाप्यदुर्दिनाक्षी बद्धवेपथुः कथङ्कथमपि गत्वा मदुक्तमन्वतिष्ठन्, अशयिति चादं भावितविषविक्रियः तेषु कश्चन्निरेन्द्राभिमानी मां निर्ण्यं मुद्रातन्तत्रमन्त्रध्यानादिभिश्चोपक्रम्याकृतार्थः "गत एवायं कालदष्टः ।  
+तथा हि स्तब्धश्यावमङ्गम्, रुद्धा दृष्टिः, शान्त एवोप्मा ।  
+शुचालं वासु, श्वो ऽग्निसात्करिष्यामः ।  
+को ऽतिवर्तते दैवम्ऽ इति सहेतरैः प्रायात् ।  
+उत्थितश्चाहमुदारकाय तां नीत्वाब्रवम्--"अहमस्मि को ऽपि तस्करः ।  
+त्वद्गतेनैव चेतसा सहायभूतेन त्वामिमामभिसरन्तीमन्तरोपलभ्य कृपया त्वत्समीपमनैषम् ।  
+भूषणमिदमस्याःऽ इत्यंशुपटलपाटितध्वान्तजालं तदप्यर्पितवान् ।  
+उदारकस्तु तदादाय सलज्जं च सहर्षं च ससम्भ्रमं च मामभाषत-"आर्य, त्वयेवेयमस्यां निशि प्रिया मे दत्ता ।  
+वाक्पुनर्ममापहृता ।  
+तथा हि न जाने वक्तुं त्वत्कर्मैतदद्भुतमिति ।  
+न ते स्वशीलमद्भुतवत्प्रतिभाति ।  
+नैवमन्येनापि कृतपूर्वमिति प्रतिनियतैव वस्तुशक्तिः ।  
+न हि त्वय्यन्यदीया लोभादयः ।  
+त्वयाद्य साधुतोन्मीलितेति तत्प्रायस्त्वत्पूर्वावदानेभ्यो न रोचते ।  
+त्वयामुना सुकृतेन क्रीतो ऽयं दासजन इत्यसारमतिगरीयसा क्रीणासीति स ते प्रज्ञाधिक्षेपः ।  
+प्रियादानस्य प्रतिदानमिदं शरीरमिति तदलाभे निधनोन्मुखमिदमपि त्वयैव दत्तम् ।  
+अथवैतावदत्र प्राप्तरूपम् ।  
+अद्यप्रभृति भरतव्यो ऽयं दासजनःऽ इति मम पादयोरपत् ।  
+अत्थाप्य चैनमुरसोपश्लिष्याभाषिषि-"भद्र, काद्य ते प्रतिपत्तिःऽ इति ।  
+सो ऽभ्यधत्त--"न शक्नोमि चैनामत्र पित्रोरनभ्यनुज्ञयोपयम्य जीवितुम् ।  
+अतो ऽस्यामेव यामिन्यां देशमिमं जिहासामिऽ को वाहम्, यथा त्वमाज्ञपयसिऽ इति ।  
+अथ मयोक्तम्-"अस्त्येतत् ।  
+स्वदेशो देशान्तरमिति नेयं गणना विदग्धस्य पुरुषस्य ।  
+किन्तु बालेयमनल्पसौकुमार्या ।  
+कष्टाः प्रत्यवपायभूयिष्ठाश्च कान्तारपथाः ।  
+शैथिल्यमिव किञ्चित्प्रज्ञासत्त्वयोरनर्थेनेदृशेन देशत्यागेन सम्भव्यते ।  
+तत्सहानया सुखमिहैव वास्तव्यम् ।  
+एहि नयावैनां स्वमेवावासम्ऽ इति ।  
+अविचारानुमतेन तेन सद्य एवैनां तद्गृहमुपनीय तयैवापसर्पभूतया तत्र मृद्भाण्डावशेषमचोरयाव ।  
+ततो निष्पत्य क्वचिन्मुषितकं निधाय समुच्चलन्तौ नागरिकसम्पाते मार्गपार्श्वशायिनं कञ्चिन्मत्तवारयणमुपरिपुरुषमाकृष्याध्यारोहाव ।  
+ग्रैवेयप्रोतपादयुगलेन च मयोत्थाप्यमान एव पातिताधोरणपृथुलोरःस्थलपरिणतः पुरीतल्लतापरीदन्तकाण्डः स रक्षिकबलमक्षिणोत् ।  
+अध्वंसयाव चामुनैवार्थपतिभवनम् ।  
+अपवाह्य च क्वचन जीर्णोद्याने शाखाग्राहिकया चावातराव ।  
+स्वगृहगतौ च स्नातौ शयनमध्यीशश्रियाव ।  
+तावदेवोदगादुदधेरुदयाचलेन्द्रपद्मरागशृङ्गकल्पं कल्पद्रुमहेमपल्लवापीडपाटलं पतङ्गमण्डलम् ।  
+उत्थाय च धौतवक्त्रौ प्रगेतनानि मङ्गलान्यनुष्ठायास्मत्कर्मतुमुलं पुरमनुविचरन्तावशृणुव वरवधूगृहेषु कोलाहलम् ।  
+अथार्थैरर्थपतिः कुबेरदत्तमाश्वास्य कुलपालिकाविवाहं मासावधिकमकल्पयत् ।  
+उपह्वरे पुनरित्यशिक्षयं धनमित्रम्--"उपतिष्ठ सखे, एकान्त एव चर्मरत्नभस्त्रिकामिमां पुरस्कृत्याङ्गराजम् ।  
+आचक्ष्व च जानात्येव देवो नैककोटिसारस्य वसुमित्रस्य मां धनभि नामैकपुत्रम् ।  
+सो ऽहं मूलहरत्वमेत्यार्थिवर्गादस्म्यवज्ञातः ।  
+मदर्थमेव संवर्धितायां कुलपालिकायां मद्दारिद्षदोषात्पुनः कुबेरदत्तेन दुहितर्यर्थपतये दित्सितायामुद्वेगादुज्झितुमसूनुपनगरभवं जरद्वनमवगाह्य कण्ठन्यस्तशस्त्रिकः केनापि जटाधरेण निवार्यैवमुक्तः-"किं ते साहसस्य मूलम्ऽ इति ।  
+मयोक्तम्--"अवज्ञासोदर्यं दारिद्षम्ऽ इति ।  
+स पुनरेवं कृपालुरन्वग्रहीत्--"तात्, मूढो ऽसि ।  
+नान्यत्पापिष्ठतममात्मत्यागात् ।  
+आत्मानमात्मनानवसाद्यैवोद्धरन्ति सन्तः ।  
+सन्त्युपाया धनार्जनस्य बहवः नैको ऽपि च्छिन्नकण्ठप्रतिसन्धानबूर्वस्य प्राणलाभस्य ।  
+किमनेन ।  
+सो ऽस्म्यहं मन्त्रसिद्धः ।  
+साधितेयं लक्षग्राहिणी चर्मरत्नभस्त्रिका ।  
+चिरमहमस्याः प्रसादात्कामरूपेषु कामप्रदः प्रजानामवात्सम् ।  
+मत्सरिण्यां जरसि भूमिस्वर्गमत्रोद्देशे प्रवेक्ष्यन्नागतः ।  
+तामिमां प्रतिगृहाण ।  
+मदन्यत्र चेयं वणिग्भ्यो वारमुख्याभ्यो वा दुग्धे इति हि तद्गता प्रतीतिः ।  
+किन्तु यत्सकाशादन्यायापहृतं तत्तस्मै प्रत्यर्पणीयम् ।  
+न्यायार्जितं तु देवब्राह्मणेभ्यस्त्याज्यम् ।  
+अथेयं देवतेव शुचौ देशे निवेश्यार्च्यमाना प्रातः प्रातः सुवर्णपूर्णव दृश्यते ।  
+इयं च रत्नभूता चर्मभस्त्रिका देवायानिवेद्य नोपजीव्येत्यानीता ।  
+परन्तु देवः प्रमाणम्ऽ इति ।  
+राजा च नियतमेवं वक्ष्यति--"भेद्र, प्रीतो ऽस्मि ।  
+गच्छ ।  
+यथेष्टमिमामुपभुङ्क्ष्वऽ इति ।  
+भूयश्च ब्रूहि-"यथा न कश्चिदेनां मुष्णाति तथानुगृह्यताम्ऽ इति ।  
+तदप्यवश्यमसावभ्युपैष्यति ।  
+ततः स्वगृहमेत्य यथोक्तमर्थत्यागं कृत्वा दिने दिने वरिवस्यमानां स्तेयलब्धैरर्थैर्नक्तमापूर्य प्राह्णे लोकाय दर्शयिष्यसि ।  
+ततः कुबेरदत्तस्तृणायमत्वार्थपतिमर्थलुब्धः कन्यकया स्वयमेव त्वामुप्सतास्याति ।  
+अथ कुपितोर्ऽथपतिर्व्यवहर्तुमर्थगर्वादभियोक्ष्यते ।  
+तं च भूयश्चित्रैरुपायैः कौपीनावशेषं करिष्यावः ।  
+स्वकं चौर्यमनेनैवाभ्युपायेन सुप्रच्छन्नं भविष्यतिऽ इति ।  
+हृष्टश्च धनमित्रो यथोक्तमन्वतिष्ठत् ।  
+तदहरेव मन्नियोगाद्विमर्दकोर्ऽथपतिसेवाभियुक्तस्तस्योदारके वैरमभ्यवर्धयत् ।  
+अथलुब्धश्च कुबेरदत्तो निवृत्त्यार्थपतेर्धनमित्रायैव तनयां सानुनयं प्रादित्सत ।  
+प्रत्यबध्नाच्चार्थपतिः ।  
+एष्वेव दिवसेषु काममञ्जर्याः स्वसा यवीयसी रागमञ्जरी नाम पञ्चवीरगोष्ठे सङ्गीतकमनुष्ठास्यतीति सान्द्रादरः समागमननागरजनः ।  
+स चाहं सह सख्याधनमित्रेण तत्र सन्न्यधिषि ।  
+प्रवृत्तनृत्यायां च तस्यां द्वितीयं रङ्गपीठं ममाभून्मनः ।  
+तद्दृष्टिविभ्रमोत्पलवनसच्चापाश्रयश्च पञ्चशरो भावरसानां सामग्र्यात्समुदितबल इव मामतिमात्रमव्यथयत् ।  
+अथासौ नगरदेवतेव नगरमोषरोषिता लीलाकटाक्षमालाशृङ्खलाभिर्नीलोत्पलपलाशश्यामलाभिर्मामबध्नात् ।  
+नृत्योत्थिता च सा सिद्धिलाभशोभिनी-"किं विलासात्, किमभिलाषात्, किमकस्मादेव वा, न जाने,-असकृत्मां सखीभिरप्यनुपलक्षितेनापाङ्गप्रेक्षितेन सविभ्रमारेचितभ्रूलतमभिर्वाक्ष्य, सापदेसं च किञ्चिदाविष्कृतदशनचन्द्रिकं स्मित्वा, लोकलोचनमानसानुयाता प्रातिष्ठत ।  
+सो ऽहं स्वगृहमेत्य दुर्निवारयोत्कण्ठया दूरीकृताहारस्पृहः शिरःशूलस्पर्शनमपदिशन्विविक्ते तल्पे मुक्तैरवयवैरशयिषि ।  
+अतिनिष्णातश्च मदनतन्त्रे मामभ्युपेत्य धनमित्रो रहस्यकथयत्-"सखे, सैव धन्या गणिकादारिका, यामेवं भन्मनो ऽबिनिविशते ।  
+तस्याश्च मया सुलक्षिता भाववृत्तिः ।  
+तामप्यचिरादयुग्मशरः शरशयने शाययिष्यति ।  
+स्थानाबिनिवेशिनोश्च वामयत्नसाध्यः समागमः ।  
+किन्तु सा किल वारकन्यका गणिकास्वधर्मप्रतीपगामिना भद्रोदारेणाशयेन समगिरत-"गुणशुल्काहम्, न धनशुल्का ।  
+न च पाणिग्रहणादृते ऽन्यभोग्यं यौवनम्ऽ इति ।  
+तच्च मुहुः प्रतिषिध्याकृतार्था तद्भगिनी काममञ्जरीमाता च माधवसेना राजानमश्रुकण्ठ्यौ व्यजिज्ञपताम्-"देव, युष्मद्दासी रागमञ्जरो रूपानुरूपशीलशिल्पकौशला पूरयिष्यति मनोरथानित्यासीदस्माकमतिमहत्याशा साद्य मूलच्छिन्ना ।  
+यदियमतिक्रम्य स्वकुलधर्ममर्थनिरपेक्षा गुणेभ्य एवं स्वं यौवनं विचिक्रीषते कुलस्त्रीवृत्तमेवाच्युतमनुतिष्ठासति ।  
+सा चेदियं देवपादाज्ञयापि तावत्प्रकृतिमापद्येत तदा पेशलं भवेत्ऽ इति ।  
+राज्ञा च तदनुरोधात्तथानुशिष्टा सत्यप्यनाश्रवैव सा यदासीत्, तदास्याः स्वसा माता च रुदितनिर्बन्धेन राज्ञे समगिरताम्-"यदि कश्चिद्भुजङ्गो ऽस्मदिच्छया विनैनां बालां विप्रलभ्य नाशयिष्यति स तस्करवद्वध्यःऽ इति ।  
+तदेवं स्थिते धनादृतेन तत्स्वतनो ऽनुमन्यते ।  
+न तु धनदायासावभ्युपगच्छतीति विचिन्त्यो ऽत्राभ्युपायःऽ इति ।  
+अथ मोयक्तम्-"किमत्र चिन्त्यम् ।  
+गुणैस्तामावर्ज्य गूढं धनैस्तत्स्वजनं तोषयावःऽ इति ।  
+ततश्च काञ्चित्काममञ्जर्याः प्रधानदूतीं धर्मरक्षितां नाम शाक्यभिक्षुकीं चीवरपिण्डदानादिनोपसङ्गृह्य तन्मुखेन तया बन्धक्या पणबन्धमकरवम्--"अजिनरत्नमुदारकान्मुषित्वा मया तुभ्यं देयम्, यदि प्रतिदानं रागमञ्जरीऽ इति ।  
+सो ऽहंसम्प्रतिपन्नायां च तस्यां तथा तदर्थं सम्पाद्यमद्गुणोन्मादिताया रागमञ्जर्याः करकिसलयमग्रहीषम् ।  
+यस्यां च निशि चर्मरत्नस्तेयवादस्तस्याः प्रारम्भे कार्यान्तरापदेशेनाहूतेषु शृण्वत्स्वेव नागरमुख्येषु मत्प्रणिधिर्विमर्दकोर्ऽथपतिगृह्यो नामभूत्वा धनमित्रमुल्लङ्घ्य बह्वर्तयत् ।  
+उक्तं च धनमित्रेण-"भेद्र, कस्तवार्थो यत्परस्य हेतोर्मामाक्रोशसि ।  
+न स्मरामि स्वल्पमपि तवापकारं मत्कृतम्ऽ इति ।  
+स भूयो ऽपि तर्जयन्निवाब्रवीत्--"स एष धनगर्वो नाम, यत्परस्य भार्यां शुल्कक्रीतां पुनस्तत्पितरौ द्रव्येण विलोभ्य स्वीचिकीर्षसि ।  
+ब्रवीषि च-"कस्तवापकारो मत्कृतःऽ इति, ननु प्रतीतमेवैतत् "सार्थवाहस्यार्थपतेर्विमर्दको बहिश्चराः प्राणाःऽ इति ।  
+सो ऽहं तत्कृते प्राणानपि परित्यजामि ।  
+ब्रह्महत्यामपि न परिहरामि ।  
+"ममैकरात्रजागरप्रतीकारस्तवैष चर्मरत्नाहङ्कारदाहज्वरःऽ इति ।  
+तथा ब्रुवाणश्च पौरमुख्यैः सामर्षं निषिध्यापवाहितो ऽभूत् ।  
+इयं च वार्ता कृत्रिमार्तिना धनमित्रेण चर्मरत्ननाशमादावेवोपक्षिप्य पार्थिवाय निवेदिता ।  
+स चार्थपतिमाहूयोपह्वरे पृष्टवान् "अङ्ग, किमस्ति कश्चिद्विमर्दको नामात्रभवतःऽ इति ।  
+तेन च मूढात्मना "अस्ति देव, परं मित्रम्ऽ ।  
+कश्च तेनार्थःऽ इति कथिते राज्ञोक्तम्-"अपि शक्नोषि तमाह्वातुम्ऽ इति ।  
+"बाढमस्मि शक्तःऽ इति निर्गत्य स्वगृहे वेशवाटे द्यूतसभायामापणे च निपुणमन्विष्यन्नोपलब्धवान् ।  
+कथं वोपलभ्येत स वराकः ।  
+स खलु विमर्दको मद्ग्राहितत्वदभिज्ञानचिह्नो मन्नियोगात्त्वदन्वेषणायोज्जयिनीं तदहरेव प्रातिष्ठत ।  
+अर्थपतिस्तु तमदृष्ट्वा तत्कृतमपराधमात्मसम्बद्धं मत्वा मोहाद्भयाद्वा प्रत्याख्याय पुनर्धनमित्रेण विभाविते कुपितेन राज्ञा निगृह्य निगडबन्धनमनीयत ।  
+तेष्वेव दिवसेषु विधिना कल्पोक्तेन चर्मरत्नं दोग्धुकामा काममञ्जरी पूर्वदुग्धं क्षणणीभूतं विरूपकं रहस्युपसृत्य ततो ऽपहृतं सर्वमर्थजातं तस्मै प्रत्यर्प्य सप्रश्रयं च बह्वनुनीय प्रत्यागमत् ।  
+सो ऽपि कथञ्चिन्निर्ग्रन्थिकग्रहान्मोचितात्मा मदनुशिष्टो हृष्टतमः स्वधर्ममेव प्रत्यपद्यत ।  
+काममञ्जर्यपि कतिपयैरेवाहोभिरश्मन्तकशेषमजिनरत्नदोहाशया स्वमभ्युदयमकरोत् ।  
+अथ मत्प्रयुक्तो धनमित्रः पार्थिवं भिथो व्यज्ञापयत्-"देव, येयं गणिका काममञ्जरी लोभोत्कर्षाल्लोभमञ्जरीति लोकावक्रोशपात्रमासीत्, साद्य मुसलोऌखलान्यपि निरपेक्षं त्यजति ।  
+तन्मन्ये मच्चर्मरत्नालाभं हेतुम् ।  
+तस्य खलु कल्पस्तादृशः ।  
+वणिग्भ्यो वारमुख्याभ्यश्च दुग्धे नान्येभ्य इति हि तद्गता प्रतीतिः ।  
+अतो ऽमुष्यामस्ति मे शङ्काऽ इति ।  
+सा सद्य एव राज्ञा सह जनन्या समाहूयत ।  
+व्यथितवर्णेनेव मयोपह्वरे कथितम्-"नूनमार्ये, सर्वस्वत्यागादतिप्रकाशादाशङ्कनीयचर्मरत्नलाभा ।  
+तदनुयोगायाङ्गराजेन समाहूयसे ।  
+भूयोभूयश्च निर्बद्धया त्वया नियतमस्मि तदागतित्वेनाहमपदेश्यः ।  
+ततश्च मे भावी चित्रवधः ।  
+मृते च मयि न जीविष्यत्येव ते भगिनी ।  
+त्वं च निःस्वीभूता ।  
+चमरत्नं च धनमित्रमेव प्रतिभजिष्यति ।  
+तदियमापत्समन्ततो ऽनर्थानुबन्धिनी ।  
+तत्किमत्र प्रतिविधेयम्ऽ इति ।  
+तया तज्जनन्या चाश्रूणि विसृज्योक्तम्-"अस्त्येवैतदस्मद्वालिश्यान्निर्भिन्नप्रायं रहस्यम् ।  
+राज्ञश्च निर्बन्धाद्द्विश्त्रिश्चतुर्निह्नुत्यापि नियतमागतिरपदेश्यैव चोरितस्य त्वयि ।  
+त्वयि त्वपदिष्टे सर्वमस्मत्कुटुम्बमवसीदेत् ।  
+अर्थपतौ च तदपयशो रूढम् ।  
+अङ्गपुरप्रसिद्धं च तस्य कीनाशस्यास्माभिः सङ्गतम् ।  
+अमुनैव तदस्मभ्यं दत्तमित्यपदिश्य वरमात्मा गोपायितुम्ऽ इति मामभ्युपगमय्य राजकुलमगमताम् ।  
+राज्ञानुयुक्ते च "नैष न्यायो वेशकुलसय यद्दातुरपदेशः ।  
+न ह्यर्थैर्न्यायार्जितैरेव पुरुषा वेशमुपतिष्ठन्तिऽइत्यसकृततिप्रणुद्य कर्णनासाच्छेदोपक्षेपभीषिताभ्यां दग्धबन्धकीभ्यां स एव तपस्वी तस्करत्वेनार्थपतिरग्राह्यत ।  
+कुपितेन च राज्ञा तस्य प्राणेषूद्यतो दण्डः ।  
+प्राञ्जलिना धनमित्रेणैव प्रत्यषिध्यत-"आर्य, मौर्यदत्त एष वरो वणिजाम् रिदृशेष्वपराधेष्वसुभिरवियोगः ।  
+यदि कुपितो ऽसि हृतसर्वस्वो निर्वासनीयः पाप एषःऽ इति ।  
+तन्मूला च धनमित्रस्य कीर्तिरप्रथत ।  
+अप्रीयत च भर्ता ।  
+पटच्चरच्छेदशेषोर्ऽथपतिरर्थमत्तः सर्वपौरजनसमक्षं निरवास्यत ।  
+तस्यैव द्रव्याणां तु केनचिदवयवेन सा वराकी काममञ्जरी चर्मरत्नमृगतृष्णिकापविद्धसर्वस्वा सानुकम्पं धनमित्राभिनोदितेन भूपेनान्वगृह्यत ।  
+धनमित्रश्चाहनि गुणिनि कुलपालिकामुपायंस्त ।  
+तदेवं सिद्धसङ्कल्पो रागमञ्जरीगृहं हेमरत्नपूर्णमकरवम् ।  
+अस्मिंश्च पुरे लुब्धसमृद्धवर्गस्तथा मुषितो यथा कपालपाणिः स्वैरेव धनैर्मद्विश्राणितैः समृद्धीकृतस्यार्थवर्गस्य गृहेषु भिक्षार्थमभ्रमत् ।  
+न ह्यलमतिनिपुणो ऽपि पुरुषो नियतिलिखितां लेखामतिक्रमितुम् ।  
+यतो ऽहमेकदा रागमञ्जर्याः पमास्वादमास्वादं मदेनास्पृश्ये ।  
+शीलं हि मदोन्मादयोरमार्गेणाप्युचितकर्मस्वेव प्रवर्तनम् ।  
+यदहमुपोढमदः "नगरमिदमेकयैव शर्वर्या निर्धनीकृत्य त्वद्भवनं पूरयेयम्ऽ इति प्रव्यथितप्रियतमाप्रणामाञ्जलिशपथशतातिवर्ती मत्तवारण इव रभसच्छिन्नशृङ्खलः कयापि धात्र्या शृगालिकाङ्ख्ययानुगम्यमानो नातिपरिकरो ऽसिद्धितीयो रंहसा परेणोदचलम् ।  
+अभिपततो ऽपि नागरिकपुरुषानशङ्कमेव विगृह्य तस्कर इति तैरभिहन्यमानो ऽपि नातिकुपितः क्रीडन्निव मदावसन्नहस्तपतितेन निस्त्रिंशेन द्वित्रानेव हत्वावघूर्णमानताम्रदृष्टिरपतम् ।  
+अनन्तरमार्तरवान्विसृजन्ती शृगालिका ममाभ्याशमागमत् ।  
+अबध्ये चाहमरिभिः ।  
+आपदा तु मदापहारिण्या सद्य एव बोधितस्तत्क्षणोपजातया प्रतिभया व्यचीचरम्-"अहो, ममेयं मोहमूला महत्यापदापतिता ।  
+प्रसृततरं च सख्यं मया सह धनमित्रस्य, मत्परिग्रहत्वं च रागमञ्जर्याः ।  
+मदेन सा च तौ प्रोर्णुतौ श्वो नियतं निग्रहिष्येते ।  
+तदियमिह प्रतिपत्तिर्ययानुष्ठीयमानया मन्नियोगतस्तौ परित्रास्येते ।  
+मां च कदाचिदनर्थादितस्तारयिष्यतिऽ इति कमप्युपायमात्मनैव निर्णीय शृगालिकामर्गादिषम्-"अपेहि जरतिके, या तामर्थलुब्धां दग्धगणिकां राजमञ्जरिकामजिनरत्नमत्तेन शत्रुणा मे मित्रचछद्मना धनमित्रेण सङ्गमितवती, सा हतासि ।  
+तस्य पापस्य चर्मरत्नमोषाद्दुहितुश्च ते साराभरणापहारादहमद्य निःशल्यमुत्सृजेयं जीवितम्ऽ इति ।  
+सा पुनरुद्धटितज्ञा परमधूर्ता साश्रुगद्गदमुदञ्जलिस्तान् पुरुषान्सप्रणाममासादितवती सामपूर्वं मम पुरस्तादयाचत-"भद्रकाः, प्रतीक्ष्यतां कञ्चित्कालं यावदस्मादस्मदीयं सर्वं मुषितमर्थजातमवगच्छेयम्ऽ इति ।  
+तथेति तैः प्रतिपन्ने पुनर्मत्समीपमासाद्य "सौम्य, क्षमस्वास्य दासीजनस्यैकमपराधम् ।  
+अस्तु स कामं त्वत्कलत्राभिमर्शी वैरास्पदं धनमित्रः ।  
+स्मरंस्तु चिरकृतां ते परिचर्यामनुग्रहीतुमर्हसि दासीं रागमञ्जरीम् ।  
+आकल्पसारो हि रूपाजीवाजनः ।  
+तद्ब्रूहि क्व निहितमस्यां भूषणम्ऽ इति पादयोरपतत् ।  
+ततो दयमान इवाहमव्रवम्-"भवतु, मृत्युहस्तवर्तिनः किं ममामुप्या वैरानुबन्धेनऽ इति तद्व्रुवन्निव कर्ण एवैनामशिक्षयम्-"एवमेवं प्रतिपत्तव्यम्ऽ इति ।  
+सा तु प्रतिपन्नार्थेव जीव चिरम्, प्रसीदन्तु ते देवताः, देवो ऽप्यङ्गराजः पौरुषप्रीतो मोचयतु त्वाम्, एते ऽपि भद्रमुखास्तव दयन्ताम्, इति क्षणादपासरत् ।  
+आनीये चाहमारक्षकनायकस्य शासनाच्चारकम् ।  
+अथोत्तरेद्युरागत्य दृप्ततरः सुभगमानी सुन्दरम्मन्यः पितुरत्ययादचिराधिष्ठताधिकारस्तारुण्यमदादनतिपक्वः कान्तको नाम नागारेकः किञ्चिदिव भर्त्सयित्वा मां समभ्यधत्त--"न चेद्धनमित्रस्याजिनरत्नं प्रतिप्रयच्छसि, न चेद्वा नागरिकेभ्यश्चोरितकानि परत्यर्पयसि, द्रक्ष्यसि पारमष्टादशानां कारणानामन्ते च मृत्युमुखम्ऽ इति मया तु स्मयमानेनाभिहितम्--"सौम्य, यद्यपि दद्यामाजन्मनो मुपितं धनं न त्वर्थपतिदारापहारिणः शत्रोर्मे मित्रमुखरय धननित्रस्य चर्मरत्नप्रत्याशां पूरयेयम् ।  
+अदत्त्वैव तदयुतमपि यातनानामनुभवेयम् ।  
+इयं नेसाथीयसी सन्धाऽ इति ।  
+तेनैव क्रमेण वर्तमाने सान्त्नतर्जनप्राये प्रतिदिनमनुयोगव्यतिकरे ऽनुगुणान्नपानलाभात्कतिपयैरेवहोभिर्विरोपि तत्रणः प्रकृतिस्थो ऽहमासम् ।  
+अथ कदाचिदच्युताम्बरपीतातपत्विपि क्षयिणि वासरे हृष्टवर्णा शृगालिकोज्ज्वलेन वेषेणोपसृत्य दूरस्थानुचरा मामुपश्लिष्याव्रवीत्--"आर्य, दिष्ट्या वधस ।  
+फलिता तव सुनीतिः ।  
+यथा त्वयादश्ये तथा धनमित्रमेत्यात्रवम्-- आर्य तवैवमापन्नः सुहृदित्युवाच-"अहमद्य वेशसंसर्गसुलभात्पानदोषाद्वद्धः ।  
+त्वया पुनरविशङ्कमद्यैव राजा विज्ञापनीयः--"देव, देवप्रसादादेव पुरापि तदजिनरत्नमर्थपतिमुषितमासादितम् ।  
+अथ तु भर्ता रागमञ्जर्याः कश्चिदक्षधूर्तः कलासु कवित्वेषु लोकवार्तासु चातिवैचक्षण्यान्मया समसृज्यत तत्सम्बन्धाच्च वस्त्राभरणप्रेषणादिना तद्भार्यां प्रतिदिनमन्ववर्ते ।  
+तदसावशङ्किष्ट निकृष्टाशयः कितवः ।  
+तेन च कुपितेन हृतं तच्चर्मरत्नमामरणसमुद्गकश्च तस्याः ।  
+स तु भूयः स्तेयाय भ्रमन्नगृह्यत नागरिकपुरुषैः ।  
+आपन्नैन चामुनानुसृत्य रुदत्यै रागमञ्जरीपरिचारिकायै पूर्वप्रणयानुवर्तिना तद्भाण्जनिधानोद्देशः कथितः ।  
+ममापि चर्मरत्नमुपायोपक्रान्तो यदि प्रयच्छेदह देव पादः प्रसादः कार्यः इति ।  
+तथा निवेदितश्च नरपतिरसुभिर्मामवियोज्योपच्छन्दनैरेव संवं ते दापयितुं प्रयतिष्यते तन्नः पथ्यम्ऽ इति ।  
+श्रुत्वैव च त्वदनुभावप्रत्ययादनतित्रस्नुना तेन तत्तथैव सम्पादितम् ।  
+अथाहं त्वदभिज्ञानप्रत्यायिताया रागमञ्जर्याः सकाशाद्यर्थष्सितानि वसूनि लभमाना राजदुहितुरम्बालिकाया धात्रीं माङ्गलिकां त्वदादिष्टेन मार्गेणान्वरञ्जयम् ।  
+तामेव च सङ्क्रमीकृत्य रागमञ्जर्याश्चाम्बालिकायाः सख्यं परमवीवृधम् ।  
+अहरङश्च नवनवानि प्राभृतान्युपहरन्ती कथाश्चित्राश्चित्तहारिणीः कथयन्ती तस्याः परं प्रसादपात्रमासम् ।  
+एकदा च हर्म्यगतायास्तस्याः स्थानस्थितमपि कर्णकुवलयं स्रस्तमिति समादधत्ती प्रमत्तेव प्रच्याव्य पुनरुत्क्षिष्य भूमेस्तेनोपकन्यापुरं कारणेन केनापि भवनाङ्गणं प्रविष्टस्य कान्तकस्योपरि प्रवृत्तिकुहरपारावतत्रासनापदेशात्प्रहसन्ती प्राह्र्षम् ।  
+सो ऽपि ते धन्यम्मन्यः किञ्चिदुन्मुखः स्मयमानो मत्कर्मप्रहासितायाराजदुहितार्विलासप्रायमाकारमात्माभिलाषमूलमिव यथा सङ्कल्पयेत्तथा मयापि सञ्ज्ञयैव किमपि चतुरमाचेष्टितम् ।  
+आकृष्टधन्वना च मनसिजेन विद्धः सन्दिग्धफलेन पत्रिणातिमुग्धः कथङ्कथमप्यपासरत् ।  
+सायं च राजकन्याङ्गुलीयकमुद्रितां वासताम्बूलपट्टांशुकयुगलभूषणावयवगर्भां च वङ्गेरिकां कयाचिद्वालिकया ग्राहयित्वा रागमञ्जर्या इति नीत्वा कान्तकस्यागारमगाम् ।  
+अगाधे च रागसागरे मग्नो नावमिव मामुपलभ्य परमहृष्यत् अवस्थान्तराणि च राजदुहितुः सुदारुणानि व्यावर्णयन्त्या मया स दुर्मतिः सुदूरमुदमाद्यत ।  
+तत्प्रार्थिता चाहं त्वत्प्रियाप्रहितमिति ममैव मुखताम्बूलोच्छिष्टानुलेपनं निर्माल्यं मलिनांशुकं चान्येद्युरुपाहरम् ।  
+तदीयानि च राजकन्यार्थमित्युपादाय च्छन्नमेवापोढानि ।  
+इत्थं च सन्धुक्षितमन्मथाग्निः स एवैकान्ते मयोपमन्त्रितो ऽभूत्--"आर्य, लक्षणान्येव तवाविसंवादीनि ।  
+तथा हि मत्प्रातिवेश्यः कश्चित्कार्तान्तिकः "कान्तकस्य च त्वामियं राजकन्यका कामयते ।  
+तदेकापत्यश्च राजा तया त्वां समागतमुपलभ्य कुपितो ऽपि दुहितुर्मरणभयान्नोच्छेत्स्यति ।  
+प्रत्युत प्रापयिष्यत्येव यौवराज्यम् ।  
+इत्थं चायमर्थोर्ऽथानुबन्धी ।  
+किमिति तात्, नाराध्यते ।  
+यदि कुमारीपुरप्रवेशाभ्युपायं नावबुध्यसे ।  
+ननु बन्धनागारभित्तेव्यमित्रयमन्तरालमारमप्राकारस्य केनचित्तु हस्तवतैकागारिकेण तावतीं सुरङ्गां कारयित्वा प्रविष्टस्योपवनं तवोपरिष्टादस्मदायत्तैव रक्षा ।  
+"रक्ततरो हि तस्याः परिजनो न रहस्यं भेत्स्यतिऽ इति ।  
+सो ऽव्रवीत्--"साधु भेद्र, दर्शितम् ।  
+अस्ति कश्चित्तस्करः खननकर्मणि सगरसुतानामिवान्यतमः स चेल्लब्धः क्षणेनैतत्कर्म साधयिष्यतिऽ इति ।  
+"कतमो ऽसौ, किमिति लभ्यते इति मयोक्त "येन तद्धनमित्रस्य चर्मरत्नं मुषितम्ऽ इति त्वामेव निरदिक्षत् ।  
+यद्येवमेहि, त्वयास्मिन्कर्मणि साधित चित्रैरुपायैस्त्वामहं मोचयिष्यामीति शपथपूर्वं तेनाभिसन्दाय सिद्धेर्ऽथे भूयो ऽपि निगडियित्वा "यो ऽसौ चारेः स सर्वथोपक्रान्तः न तु धार्ष्ट्यभूमिः प्रकृष्टवैरस्तदजिनरत्नं दर्शयिष्यतिऽ इति राज्ञे विज्ञाप्य "चित्रमेनं हनिप्यसि, तथा च सत्यर्थः सिद्ध्यति, रहस्यं च न स्रवतिऽ इति मयोक्ते सो ऽतिहृष्टः प्रतिपद्य मानेव त्वदुपप्रलोभने नियुज्य बरिरवस्थितः प्राप्तमितः परं चिन्त्यताम्ऽ इति प्रीतेन च मयोक्तम्, "मदुक्तमल्पम्, त्वन्नय एवात्र भूयान् आनयैनम्ऽ इति ।  
+अथानीतेनामुनामन्मोचनाय शपथः कृतः, अहं च रहस्यानिर्भेदाय विनिगजीकृतश्च स्नानभोजनविलोपनान्यनुभूय नित्यान्धकाराद्भित्तिकोणादारभ्योरगास्येन सुरङ्गामकरत्रम् ।  
+अचिन्तयं चैम्-"हन्तुमनसैवामुना मन्मोचनाय शपथः कृतः तदेनं हत्वापि नासत्यवाददोषेण स्पृश्येऽ इति ।  
+निष्पततश्च मे निगजनाय प्रसार्यमाणपाणेस्तस्य पादेनोरसि निहत्य पतितसय तस्यैवासिधेन्वा शिरो न्यकृन्तम् ।  
+अकथयं च शृगालिकाम्-"भण भद्रे, कथम्भूतःकन्यापुरसन्निवेशः? महानयं प्रयासो मा वृथैव भूत् ।  
+अमुत्र किञ्चिच्चोरयित्वा निवर्तिष्येऽ इति ।  
+तदुपदर्शितविभागे चावगाह्य कन्यान्तःपुरं प्रज्वलत्सु मणिप्रदीपेषु नैकक्रीडाखेदसुप्रस्य परजनस्य मध्ये महितमहार्घरत्नप्रत्युप्तसिंहाकारदन्तपादे हंसतूलगर्भशय्योपधानशालिनि कुसुमविच्छुरितपर्यन्ते पर्यङ्कगले दक्षिणपादपार्प्ण्यधोभागानुवलितेतरचरणाग्रपृष्टम् रिषद्विवृत्तमधुरगुलफसन्धि, परस्पराश्लिष्टजङ्घाकाण्डम्, आकुञ्चितकोमलोभयजानुकिञ्चिद्वेल्लितोरुदण्डयुगलम्, अधिनितम्बस्रस्तमुक्तैकभुजलताग्रपेशलम्, अपाश्रयान्तनिमिताकुञ्चितेतरभुजलतोत्तानतलकरकिसलयम्, आमुग्नश्रोणिमण्डलम्, अतिश्लिष्टचीनांशुकान्तरीयम्, अनतिवलिततनुतरोदरम्, अतनुतरनिःश्वासारम्भकम्पमानकठोरकुचकुङ्मलम्, अतिरश्चीनबन्धुरशिरोधरोद्देशदृश्यामाननिष्टप्ततपनीयसूत्रपर्यस्तपद्मरागरुचकम्, अर्धलक्ष्याधरकर्णपाशनिभृतकुण्डलम्, उपरिपरावृत्तश्रवणपाशरत्नकर्णिकाकिरणमञ्जरीपिञ्जरितविषयव्याविद्धाशिथिलशिखण्डबन्धम्, आत्मप्रभापटलदुर्लक्ष्यपाटलोत्तराधरविवरम्, गण्डस्थलीसङ्क्रान्तहस्तपल्लवदर्शितकर्णावतंसकृत्यम्, उपरिकपोलादर्शतलनिषक्तचित्रवितानपत्रजातजनितविशेषकक्रियम्, आमीलितलोचनेन्दीवरम्, अविभ्रान्तभ्रूपताकम्, उद्भिद्यमानश्रमजलपुलकभिन्नशिथिलचन्दनतिलकम्, आननेन्दुसम्मुखालकलतं च विश्रब्धप्रसुप्तामतिधवलोत्तरच्छदनिमग्नप्रयैकपार्श्वतया चिरविलसनखेदनिश्चलां शरदम्भोधरोत्सङ्गशायिनीमिव सौदामिनीं राजकन्यामपश्यम् ।  
+दृष्ट्वै स्फुरदनङ्गरागश्चकितश्चोरयितवयनिस्पृहस्तयैव तावच्छोर्यमाणहृदयः किङ्कर्तव्यतामूढः क्षणमतिष्ठम् ।  
+अतर्कयं च-"न चेदिमां वामलोचनामाप्नुयां न मृष्यति मां जीवितु वसन्तबन्धुः असङ्केतितपरामृष्टा चेयमतिबाला व्यक्तमार्तस्वरेण निहन्यान्मे मनोरथम् ।  
+ततो ऽहमेवाहन्येय ।  
+तदियमत्र प्रतिपत्तिःऽ इति ।  
+नागदन्तलग्ननिर्यासकल्कवर्णितं फलकमादाय मणिसमुद्गकाद्वर्णवर्तिकामुद्धृत्य तां तथाशयानां तस्याश्च मामावद्धञ्जालिं चरणलग्नमालिखमार्यां चैताम्- "त्वामयमाबद्धाञ्जलि दासजनस्तमिममर्थमर्थयते ।  
+स्वपिहि मया सह सुरतव्यतिकरखिन्नेव मा मैवम्ऽ ॥  
+हेमकरण्डकाच्चवासताम्बूलवीटिकां कपूरस्फुटिकां पारिजातकं चोपयुज्यालक्तकपाटलेन तद्रसेन सुधाभितौ चक्रवाकमिथुनं निरष्ठीवम् ।  
+अङ्गुलीयकविनिमयं च कृत्वा कथङ्कथमपि निरगाम् ।  
+सुरङ्गया च प्रत्येत्य बन्धागारं तत्र बद्धस्य नागरिकवरस्य सिंहघोषनाम्नस्तेष्वेव दिनेषु मित्रत्वेनोपचरितस्य "एवं मया हतस्तपस्वी कान्तकः, तत्त्वया प्रतिभिद्य रहस्यं लब्धव्यो मोक्षःऽ इत्युपदिश्य सह शृगालिकया निरक्रामिषम् ।  
+नृपतिपथे च समागत्य रक्षिकपुरुषैरगृह्ये ।  
+अचिन्तयं च-"अलमस्मि जवेनापसर्तुमनामृष्ट एवैभिः ।  
+एषा पुनर्वराकी गृह्येत ।  
+तदिदमत्र प्राप्तरूपम्ऽ इति तानेव चपलमभिपत्य स्वपृष्ठसमर्पितकूर्परः पराङ्मुखः स्थित्वा "भद्राः, यद्यहमस्मि तस्करः बध्नीत माम् ।  
+युष्माकमयमधिकारः, न पुनरस्या वर्षियस्याःऽ इत्यवादिषम् ।  
+सा तु तावतैवोन्नीतमदभिप्राया तान्सप्रणाममभ्येत्य "भद्रमुखाः, ममैष पुत्रो वायुग्रस्तश्चिरं चिकित्सितः ।  
+पूर्वेद्यः प्रसन्नकल्पः प्रकृतिश्थ एव जातः ।  
+जातास्थया मया बन्धनान्निष्क्रमय्य स्नापितो ऽनुलेपितश्चपरिधाप्यनिष्प्रवाणियुगलमभ्यवहार्य परमान्नमौशीरे ऽद्यकामचारः कृतो ऽभूत् ।  
+अथ निशीथे भूय एव वायुनिघ्नः "निहत्य कान्तकं नृपतिदुहित्रा रमेयऽ इति रंहसा परेण राजपथमभ्यपतत् ।  
+निरूप्य चाहं पुत्रमेवङ्गतमस्यां वेलायामनुधावामि ।  
+तत्प्रसीदत ।  
+बद्ध्वैनं मह्यमर्पयतऽ इति यावदसौक्रन्दति तावदहं "स्थविरे, केन देवो मातरिश्वा बद्धपूर्वः ।  
+किमेते काकाःशौङ्गेयस्य मे निग्रहीतारः ।  
+शान्तं पापम्ऽ इत्यभ्यधावम् ।  
+असावप्यमीभिः "त्वमेवोन्मत्ता यानुन्मत्त इत्युन्मत्तं मुक्तदवती ।  
+कस्तमिदानीं बध्नातिऽ इति निन्दिता कदर्थिता रुदत्येवमामन्वधावत् ।  
+गत्वा च रागमञ्जरीगृहं चिरविरहखेदविह्वलामिमां बहुविधं समाश्वास्य तं निशाशेषमनयम् ।  
+प्रत्यूषे पुनरुदारकेण च समगच्छे ।  
+अथ भगवन्तं मरीचिं वेशकृच्छुदुत्थाय पुनः प्रतितप्ततपःप्रभावप्रत्यापन्नादिव्यचक्षुषमुपसङ्गम्य तेनास्म्येवम्भूतत्वद्दर्शनमवगमितः ।  
+सिंहघोषश्च कान्तकापचारं निर्भिद्य ततपदे प्रसन्नेन राज्ञा प्रतिष्ठापितः तेनैव चारकसुरङ्गापथेन कन्यापुरप्रवेशं भूयो ऽपि मे समपादयत् ।  
+समगंसि चाहं शृगालिकामुखनिःसृतवार्तानुरक्तया राजदुहित्रा ।  
+तष्वेवे दिवसेषु चण्डवर्मा सिंहवर्मावधूतदुहितृप्रार्थनः कुपितो ऽभियुज्य पुरमवारुणत् ।  
+अमर्षणश्चाङ्गराजो यावदरिः पारग्रामिकं विधिमाचिकीर्षति तावत्स्वयमेव प्राकारं निर्भिद्य प्रत्यासन्नानपि सहायानप्रतीक्षमाणो निर्गत्याभ्यधिकबलेन विद्विषा महति सम्पराये भिन्नवर्मा सिंहवर्मा बलादगृह्यत ।  
+अम्बालिका च बलवदभिगृह्य चण्डवर्मणा हठात्परिणेतुमात्मभवनमनीयत् ।  
+कौतुकं च स किल क्षपावसाने विवाह इत्यबध्नात् ।  
+अहं च धनमित्रगृहे तद्विवाहायैव पिनद्धमङ्गलप्रतिसरस्तमेवमवोचम्-"सखे, समापतितमेवाङ्गराजाभिसरं राजमण्डलम् ।  
+सुगूढमेव सम्भूय पौरवृद्धैस्तदुपावर्तय ।  
+उपावृत्तश्च कृत्तशिरसमेव शुत्रुं द्रक्ष्यसिऽ इति ।  
+"तथाऽ इति तेनाभ्युपगते गतायुषो ऽमुष्य भवनमुत्सवाकुलमुपसमाधीयमानपरिणयोपकरणमिस्ततः प्रवेशनिर्गमप्रवृत्तलोकसम्बाधमलक्ष्यशस्त्रिकः सह प्रविश्य मङ्गलपाठकैरम्बलिकापाणिपल्लवमग्नौ साक्षिण्याथर्वणेन विधिनार्प्यमाणमादित्समानस्यायामिनं बाहुदुण्डमाकृष्य च्छुरिकयोरसि प्राहर्षम् ।  
+स्फुरतश्च कतिपयानन्यानपि यमविषयमगमयम् ।  
+हतविध्वस्तदं च तद्गृहमन् विचरन्वेपमानमधुरगात्रीं विशाललोचनामभिनिशाम्य तदालिङ्गनसुखमनुबुभूषुस्तामादाय गर्भगृहमविक्षम् ।  
+अस्मिन्नेव क्षणे तवास्मि नवाम्बुवाहस्तनितगम्भीरेण स्वरेणानुगृहीतःऽ इति ।  
+श्रुत्वा च स्मित्वा च देवो ऽपि रजवाहनः "कथमसि कार्कस्येन कर्णीसुतमप्यतिक्रान्तःऽ इत्यभिधाय पुनरवेक्ष्योपहारवर्माणम् आचक्ष्व, तवेदानीमवसरःऽ इत्यभाषत ।  
+सो ऽपि सस्मितं प्रणस्यारभताभिधातुम् ॥ द्क्च्_२,२ ॥  
+    
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते ऽपहारवर्मचरितं नाम द्वितीय उच्छ्वासः  
+ __________________________________________________________________________________
+
+स्तर्त् द्क्च् २,३:
+
+तृतीयोच्छ्वासः  
+    
+एषो ऽस्मि पर्यटन्नेकदा गतो विदेहेषु ।  
+मितिलामप्रविश्यैव बहिः क्वचिन्मठिकायां विश्रमितुमेत्य कयापि वृद्धतापस्या दत्तपाद्यः क्षणमलिन्दभूमाववास्थिषि ।  
+तस्यास्तु मद्दर्शनादेव किमप्याबद्धधारमश्रु प्रावर्तत ।  
+"किमेतदम्ब, कथय कारणम्ऽ इति पृष्टा सकरुणमाचष्ट--"जैवातृक, ननु श्रूयते पातिरस्या मिथिलायाः प्राहरवर्मा नामासीत् ।  
+तस्य खलु मगधराजो राजहंसः परं मित्रमासीत् ।  
+तयोश्च वल्लभे बलशम्बलयोरिव वसुमतीप्रियंवदे सख्यमप्रतिममधत्ताम् ।  
+अथ प्रथमगर्बाभिनन्दितां तां च प्रियसखीं दिदृक्षुः प्रियंवदा वसुमतीं सह भर्त्रा पुष्पपुरमगमत् ।  
+तस्मिन्नेव च समये मालवेन मगधराजस्य महज्जन्यमजनि ।  
+तत्र लेशतो ऽपि दुर्लक्ष्यां गतिमगमन्मगधराजः, मैथिलेन्द्रस्तु मालवेन्द्रप्रयत्नप्राणितः स्वविषयं प्रतिनिवृत्तो ज्येष्ठस्य संहारवर्मणः सुतैर्विकटवर्मप्रभृतिभिर्व्याप्तं राज्यमाकर्ण्य स्वस्रीयात्सुह्यपतेर्दण्डावयवमादित्सुरटवीपदमवगाह्यलुब्धकलुप्तसर्वस्वो ऽभूत् ।  
+तत्सुतेन च कनीयसा हस्तवर्तिना सहैकाकिना वनचरशरवर्षभयपलायिता वनमगाहिषि ।  
+तत्र च मे शार्दूलनखावलीझनिपतितायाः पाणिभ्रष्टः स बालकः कस्यापि कपिलाशवस्य क्रोडमभ्यलीयत ।  
+तच्छवाकर्षिणश्च व्याघ्रस्यासूनिषुरिष्वसनयन्त्रमुक्तः क्षणादलिक्षत् ।  
+भिल्लदारकैःस बालो ऽपाहारि ।  
+सात्वहं मोहसुप्ता केनापि वृष्णिपालेनोपनीय स्वं कुटीरमावेश्यकृपयोपक्रान्तव्रणा स्वस्थीभूय स्वभर्तुरन्तिकमुपतिष्ठासुरसहायतया यावद्व्याकुलीभवामि तावन्ममैव दुहीता सह यूना केनापि तमेवोद्देशमागमत् ।  
+सा भृशं रूरोद ।  
+रुदितान्ते च सा सार्थघाते स्वहस्तगतस्य राजपुत्रस्य किरातभर्तृहस्तगमनम्, आत्मनश्च केनापि वनचरेण व्रणविरोपणम्, स्वस्थायाश्च पुनस्तेनोपयन्तुं चिन्तिताया निकृष्टजातिसंसर्गवैक्लव्यात्प्रत्याख्यानपारुष्यम्, तदक्षणेण चामुना विविक्ते विपिने स्वशिरः- कर्तनोद्यमम्, अनेन यूना यदृच्छया दृष्टेन तस्य दुरात्मनो हननम्, आत्मनश्चोपयमनमित्यकथयत् ।  
+स तु पृष्टो मैथिलेन्द्रस्यैव को ऽपि सेवकः कारणविलम्बी तन्मार्गानुसारि जातः ।  
+सह तेन भर्तुरन्तिकमुपसृत्य पुत्रवृत्तान्तेन श्रोत्रमस्य देव्याः प्रियंवदायाश्चादहाव ।  
+स च राजा दिष्टदोषाज्ज्येष्ठपुत्रैश्चिरं विगृह्य पुनरसहिष्णुतयातिमात्रं चिरं प्रयुध्य बद्धः ।  
+देवी च बन्धनं गमिता ।  
+दग्धा पुनरहमस्मिन्नपिवार्धके हतजीवितमपारयन्ती हातुं प्रव्रज्यां किलाग्रहीपम् ।  
+दुहीता तु मम हतजीविताकृष्टा विकटवर्ममहादेवी कल्पसुन्दरी किलाशिश्रियत् ।  
+तौ चेद्राजपुत्रौनिरुपद्रवावेवावर्धिष्येताम्, इयता कालेन तवेमां वयोवस्थामम्प्रक्ष्येताम् ।  
+तयोश्च सतोर्न दायादा नरेन्द्रस्य प्रसह्यकारिणो भवेयुःऽ इति प्रमन्युरभिरुरोद ।  
+श्रुत्वा च तापसीगिरमहमपि प्रवृद्धवाप्पो निगृढमभ्यधाम्-"यद्येवमम्ब, समाश्वसिहि ।  
+नन्वन्ति कश्चिन्मुनिस्त्वया तदवस्थया पुत्राभ्युपपादनार्थं याचितस्तेन स लब्धो वर्धतश्च ।  
+वार्तेयमतिमहती ।  
+किमनया ।  
+सो ऽहमस्मि ।  
+शक्यश्च मयासौ विकटवर्मा यताकथञ्चिदुपश्लिष्य व्यापादयितुम् ।  
+अनुजाः पुनरतिबहवः, तैरपि घटन्ते पौरजानपदाः ।  
+मां तु न कश्चिदिहत्यर्ः इदृक्तया जनो जानाति ।  
+पितरावपि तावन्मां न संविदाते, किमुतेतरे तमेनमर्थमुपायेन साधयिष्यामिऽ इत्यगादिपम् ।  
+सा तु हर्षनिर्भरनिपीडिता चिरं प्ररुद्य बहुं विलप्य शान्ता पुनः स्वमात्रा राजान्तःपुरवृत्तान्ताख्याने न्ययुज्यत ।  
+उक्तं च तया-"कुमार,कामरूपेश्वरस्य कलिन्दवर्मनाम्नः कन्या कल्पसुन्दरी कलासु रूपे चाप्सरसो ऽपयतिक्रान्ता पतिमभिभूय वर्तते ।  
+तदेकवल्लभः, स तु बह्ववरोधो ऽपि विकटवर्माऽ इति ।  
+तामवोचम्-"उपसर्पैनां मत्प्रयुक्तैर्गन्धमाल्यैः ।  
+उपजनयचासमानदोषनिन्दादिना स्वभर्तरि द्वेषम् ।  
+अनुरूपभर्तृगामिनीनां च वासवदत्तादीनां वर्णनेन ग्राहयानुशयम् ।  
+अवरोधनान्तरेषु च राज्ञो विलसितानि सुगूढान्यपि प्रयत्नेनान्विप्य प्रकाशयन्ती मानसस्या वर्धयऽ इति ।  
+पुनरिदमम्बामवोचम्-"इत्थमेव त्वयाप्यनन्यव्यापारया नृपाङ्गनासावुपस्थातव्या ।  
+प्रत्यहं च यद्यत्र वृत्तं तदस्मि त्वयैव बोध्यः, मदुक्ता पुनरियमुदर्कस्वादुनो ऽस्मत्कर्मणः प्रसाधनाय च्छायेवानयायिनी कल्पसुन्दरीमनुवर्तताम्ऽ इति ।  
+तेन च तमर्थं तथैवान्वतिष्ठताम् ।  
+केषुचिद्दिनेषु गतेष्वाचष्ट मां मदम्बा "वत्स, माधवीव पिचुमन्दाश्लेषिणी यथासौ शोच्यमात्मानं मन्येत तथोपपाद्य स्थापिता ।  
+किं भूयः कृत्यम्ऽ इति ।  
+पुनरहमभिलिख्यात्मनः प्रतिकृतम् "इत्यममुष्यै नेया ।  
+नीतां चैनां निर्वर्ण्य सा नियतमेवं वक्ष्यति ।  
+"नन्वस्ति कश्चिदीदृशाकारः पुमान्ऽ इति ।  
+प्रतिब्रूह्येनाम्-"यदि स्यात्ततः किम्ऽ इति ।  
+तस्य यदुत्तरं सा दास्यति "तदहमस्मि प्रतिबोधनीयःऽ इति ।  
+सा "तथा इति राजकुलमुपसङ्क्रम्य प्रतिनिवृत्ता मामेकान्ते न्यवेदयत्-"वत्स, दर्शितो ऽसौ चित्रपटस्तस्यै मत्तकाशिन्यै ।  
+चित्रीयमाणा चासौ भुवनमिदं सनाथीकृतं यद्देवे ऽपि कुसुमधन्वनि नेदृशी वपुःश्रीः सन्निधत्ते ।  
+चित्रमेतच्चित्रतरम् ।  
+न च तमवैमि यर् इदृशमिदमिहत्यो निर्मिमीते ।  
+केनेदमालिखितम्, इत्यादृतवती व्याहृतवती च ।  
+मया च स्मेरयोदीरितम्-"देवि, सदृशमाज्ञापयसि ।  
+भगवान्मकरकेतुरप्येवंसुन्दरं इति न शक्यमेव सम्भवायितुम् ।  
+अथ च विस्तीर्णेयमर्णवनेमिः ।  
+क्वचिदीदृशमपि रूपं दैवशक्त्या सम्भवेत् ।  
+अथ तु यद्येवंरूपो रूपानुरूपशिल्पशीलविदयाज्ञानकौशलो युवा महाकुलीनश्च कश्चित्सन्निहितः स्यात्, स किं लप्स्यतेऽ इति ।  
+तयोक्तम्-"अम्ब, किं ब्रवीमि ।  
+शरीरं हृदयं जीवितमिति सर्वमिदमल्पमनर्हं च ।  
+ततो न किञ्चिल्लप्स्यते न चेदयं विप्रलम्भस्तस्यामुप्य दर्शनानुभवेन यथेदं चक्षुश्चरितार्थं भवेत्तथानुग्रहः कार्यःऽ इति ।  
+भूयो ऽपि मया दृढतरीकर्तुमुपन्यस्तम्-"अस्ति को ऽपि राजसूनुर्निगूढं चरन् ।  
+अमुप्य वसन्तोत्सवे सहसखीभिर्नगरोपवनविहारिणीरतिरिव विग्रहिणी यदृच्छया दर्शनपथं गतासि ।  
+गतश्चासौ कामशरैकलक्ष्यतां मामन्ववर्तिष्ट ।  
+मया च वामन्योन्यानुरूपैरन्यदुर्लभैराकारादिभिर्गुणातिशयैश्च प्रेर्यमाणया तद्रचितैरेव कुसुमशेखरस्रगनुलेपनादिभिश्चिरमुपासितासि ।  
+सादृश्यं च स्वमनेन स्वयमेवाभिलिख्य त्वत्समाधिगाढत्वदर्शनाय प्रेषितम् ।  
+एष चेदर्थो निश्चितस्तस्यामुप्यातिमानुषप्राणसत्तवप्रज्ञाप्रकर्षस्य न किञ्चिद्दुष्करं नाम ।  
+तमद्यैव दर्शयेयम् ।  
+सङ्केतो देयःऽ इति ।  
+तया तदु किञ्चिदिव ध्यात्वा पुनरभिहितम्--"अम्ब, तव नैतदिदानीं गोप्यतम् ।  
+अतः कथयामि ।  
+मम तातस्य राज्ञ प्रहारवर्मणा सह महती प्रीतिरासीत् ।  
+मातुश्च मे मानवत्याः प्रियवयस्या देवी प्रियंवदासीत् ।  
+ताभ्यां पुनरजातापत्याभ्यामेवकृतः समयो ऽभूत्--"आवयोः पुत्रमत्याः पुतराय दुहितृमत्या दुहिता देयाऽ इति ।  
+तातस्तु मां जातां प्रनष्टापत्या प्रियंवदेति प्रार्थयमानाय विकटवर्मणे दैवाद्दत्तवान् ।  
+अयं च निष्ठुरः पितृद्रोही नाप्युपपन्नसंस्थानः कामोपचारेष्वलब्धवैचक्षण्यः कलासु काव्यनाटकादिषु मन्दाभिनिवेशः सौर्योन्मादी दुर्विकत्थनो ऽनृतवादी चास्थानवर्पी ।  
+नातिरोचते म एष भर्ता विशेषतश्चैषु वासरेषु यदयमुद्याने मदन्तरङ्गभूतां पुष्करिकामप्युपान्तवर्तिनीमनादृत्य मयि बद्धसापत्न्यमतसरामनात्मज्ञामात्मनाटकीयां रमयन्तिकां नामापत्यनिर्विशेषं मत्संवर्धितायाश्चम्पकलतायां स्वयमवचिताभिः सुमनोभिरलमकार्षित् ।  
+मदुपभुक्तमुक्ते चित्रकूटगर्भवेदिकागते रत्नतस्य तया सह व्यहार्षित् ।  
+अयोग्यश्च पुमानवज्ञातं च प्रवृत्तः ।  
+तत्किमित्यपेक्ष्यते परलोकभयं चैहिकेन दुःखेनान्तरितम् ।  
+अविषह्यं हि योषितामनङ्गशरनिषङ्गीभूतचेतसामनिष्टजनसंवासयन्त्रणादुःखम् ।  
+अतो ऽमुना पुरुषेण ममाद्योद्यानमाधवीगृहे समागमय ।  
+तद्वार्थाश्रवणमात्रेणैव हि ममातिमात्रं मनो ऽनुरक्तम् ।  
+अस्ति चायमर्थराशिः ।  
+अनेनामुप्य पदे प्रतिष्ठाप्य तमेवात्यन्तमुपचर्य जीविष्यामिऽ इति ।  
+मयापि तदभ्युपेत्य प्रत्यागतम् ।  
+अतः परं भर्तृदारकः प्रमाणम्ऽ इति ।  
+ततस्तस्या एव सकाशादन्तःपुरनिवेशमन्तर्वंशिकपुरुषस्थान् प्रमदवनप्रदेशानपि विभागेनावगम्य, अस्तगिरिकूटपातक्षुभितशोणित इव शोणीभवति भानुबिम्बे, पश्चिमाम्बुधिषयःपातनिर्वापितपतङ्गाङ्गारधूमसम्भार इव भरितनभसितमसि विजृम्भते, परदारपरामर्शोन्मुखस्य ममाचार्यकमिव कर्तुमुत्थिते गुरुपरिग्रहश्लाघिनि ग्रहाग्रेसरे क्षपाकरे, कल्पसुन्दरीवदनपुण्डरीकेणेव मद्दर्शनातिरागप्रथमोपनतेन स्मयमानेन चन्द्रमण्डलेन सन्धुक्ष्यमाणतेजसि भुवनविजिगीषोद्यते देवे कुसुमधन्वनि, यतोचितं शयनीयमभजे ।  
+व्यचीचरं च-"सिद्धप्राय एवायमर्थः ।  
+किन्तु परकलत्रलङ्घानाद्धर्मपीडा भवेत्, साप्यर्थकामयोर्द्वयोरुपलम्भेशास्त्रकारैरनुमतैवेति ।  
+गुरुजनबन्धमोक्षोपायसन्धिना मया चैप व्यतिक्रमः कृतः, तदपि पापं निर्हृत्य कियत्यापि धर्मकलया मां समग्रयेदिति ।  
+अपि त्वेतदाकर्ण्य देवो राजवाहनः सुहृदो वा किं नु वक्ष्यन्तिऽ इति चिन्तापराधीन एव निद्रया परामृश्ये ।  
+अदृस्यत च स्वप्नो हस्तिवक्रो भगवान् ।  
+आहस्म च-"सौम्य उपहारवर्मन्, मा स्म ते दुर्विकल्पो भूत् ।  
+यतस्त्वमसि मदंशः ।  
+शङ्करजटाभारलालनोचिता सुरसरिदसौ वरवर्णिनी ।  
+सा च कदाचिन्मद्विलोडनासहिष्णुर्मामशपत्-"एहि मर्त्यत्वम्ऽ इति ।  
+अशप्यत मया च-"यथेह बहुभोग्या तथा प्राप्यापि मानुप्यकमनेकसाधारणी भवऽ इति ।  
+अब्यर्थितश्चानया "एकपूर्वा पुनस्त्वामेवोपचर्य यावज्जीवं रमेयम्ऽ इति ।  
+तदयमर्थो भव्य एव भवता निराशङ्क्यःऽ इति ।  
+प्रतिबुध्य च प्रीतियुक्तस्तदहरपि प्रियासङ्केतव्यतिकरादिस्मरणेनाहमनैषम् ।  
+अन्येद्युरनन्यथावृत्तिरनङ्गो मय्येवेषुवर्षमवर्षत् ।  
+अशुष्यच्च ज्योतिष्मतः प्रभामयं सरः ।  
+प्रासरच्च तिमिरमयः कर्दमः ।  
+कार्दमिकनिवसनश्च दृझतरपरिकरः खङ्गपाणिरुपहृतप्रकृतोपस्करः ।  
+स्मरन्मातृदत्तान्यभिज्ञानानि राजमन्दिरपरिखामुदम्भसमुपातिष्ठम् ।  
+अथोपखातं मातृगृहद्वारे पुष्करिकया प्रथमसन्निधापितां वेमुयष्टिमादाय तया शायितया च परिखाम्, स्थापितया च प्राकारभित्तिमलङ्घयम् ।  
+अधिरुह्य पक्वेष्टकचितेन गोपुरोपरितलाधिरोहेण सोपानपथेन भुवमवातरम् ।  
+अवतीर्णश्च बकुलवीथीमतिक्रम्य चम्पकावलिवर्त्मना मनागिवोपसृत्योत्तराहि करुणं चक्रवाकमिथुनरवमशृणवम् ।  
+पुनरुदीचा पाटलिपथेन स्पर्शलभ्यविशालसौधकुड्योदरेण शरक्षेपमिव गत्वा पुनः प्राचा पिण्डीभाण्डीरषण्डमण्डितोभयपार्श्वेन सैकतपथेन किञ्चिदुन्त्तरमतिक्रम्य पुनरवाचीं चूतवीथीमगाहिषि ।  
+ततश्च गहनतरमुदरोपचितरत्नवेदिकं माधवीलतामण्डपमीषद्विवृतसमुद्गकोन्मिषितभासा दीपवर्त्या न्यरूपयम् ।  
+प्रविश्य चैकपार्श्वे फुल्लपुष्पनिरन्तरकुरण्टपोतपङ्क्तिभित्तिपरिगतं गर्भगृहम्, अवनिपतितारुणाशोकलतामयमभिनवकुसुमकोरकपुलकलाञ्छितं प्रत्यग्रप्रवालपटलपाटलं कपाटमुद्धाट्य प्राविक्षम्, तत्र चासीत्स्वास्तीर्णं कुसुमशयनम्, सुरतोपकरणवस्तुगर्भाश्चभृङ्गारकः ।  
+समुपविश्य मुहूर्तं विश्रान्तः परिमलमतिशयवन्तमाघ्रासिषम् ।  
+अश्रौषं च मन्दमन्दं पदशब्दम् ।  
+श्रुत्वैव सङ्केतगृहान्निर्गत्य रक्ताशोकस्कन्धपार्श्वव्यवहिताङ्गयष्टिः स्थितो ऽस्मि ।  
+सा च सुभ्रूः सुषीमकामा शनैरुपेत्य तत्र मामदृष्ट्वा बलवदव्यथिष्ट ।  
+व्यसृजच्च मत्तराजहंसवि कण्ठरागवल्गुगद्गदां गिरम्-"व्यक्तमस्मि विप्रलब्धा ।  
+नास्त्युपायः प्राणितुम् ।  
+अयि हृदय, किमिदमकार्यं कार्यवदध्यवसाय तदसम्भवेन किमेवमुत्ताम्यसि ।  
+भगवन्पञ्चबाण, कस्तवापराधः कृतो मया यदेवं दहसि, न च भस्मीकरोषिऽ इति ।  
+अथाहमाविर्भूय विवृतदीपभाजनः "भामिनि, ननु बह्वपराद्धं भवत्या चित्तजन्मनो यदमुष्य जीवितभूता रतिराकृत्या कदर्थिता, धनुर्यष्टिर्भ्रूलताभ्याम्, भ्रमरमालामयी ज्या नीलालकद्युतिभिः, अस्त्राण्यपाङ्गवीक्षितवृष्टिभिः, महारजनरञ्जितध्वजपटांशुकं दन्तच्छदमयूखजालैः, प्रथमसुहृन्मलयमारुतः परिमलपटीयसा निःश्वासपवनेन, परभृतो ऽतिमञ्जुलैः प्रलापैः, पुष्पमयी पताका भुजयष्टिभ्याम्, दिग्विजयारम्भपूर्णकुम्भमिथुनमुरोजकुम्भयुगलेन, क्रीजासरो नाबिमम्डलेन, सन्नाह्यरथः श्रोणिमण्डलेन, भवनरत्नतोरणस्तम्भयुगलमूरुयुगलेन, लीलाकर्णकिसलयं चरणतलप्रभाभिः ।  
+अतः स्थान एव त्वां दुनोति मीनकेतुः ।  
+मां पुनरनपराधमधिकमायासयतीत्येष एव तस्य दोषः ।  
+तत्प्रसीद सुन्दरि, जीवय मां जीवनौषधिभिरवापाङ्गैरनङ्गभुजङ्गदष्टम्ऽ इत्याश्लिष्टवान् ।  
+अरीरमं चानङ्गरागपेशलविशाललोचनाम् ।  
+अवसितार्थां चारक्तवलितेक्षणामीषत्स्वेदरेखोद्भेदजर्जरितकपोलमूलामनर्गलकलकलप्रलापिनीमकरुणदशनकररुहार्पणव्यतिकरामत्यर्थपरिश्लथाङ्गीमार्तामिव लक्षयित्वा मानसीं शारीरीं च धारणां शिथिलयन्नात्मानमपि तया समानार्थमापादयम् ।  
+तत्क्षणविमुक्तसङ्गतौ रतावसानकं विधिमनुभवन्तौ चिरपरिचिताविवातिरूढविश्रम्भौ क्षणमवातिष्ठावहि ।  
+पुनरहमुष्णमायतं च निःश्वस्य किञ्चिद्दीन दृष्टिः सचकितप्रसारिताभ्यां भुजाभ्यामेनामनतिपीडं परिष्वज्य नातिविशदमचुम्बिषम् ।  
+अश्रुमुखी तु सा "यदि प्रायासि नाथ, प्रयातमेव मे जीवितं गणय ।  
+नय मामपि ।  
+न चेदसौ दासजनो निष्प्रयोजनःऽ इत्यञ्जलिमवतंसतामनैषीत् ।  
+अवादिषं च ताम्--"अयि मुग्धे, कः सचेतनः स्त्रियमभिकामयमानां नाभिनन्दति ।  
+यदि मदनुग्रहनिश्चलस्तवाभिसन्धिराचराविचारं मदुपदिष्टम् ।  
+आदर्शय रहसि राज्ञे मत्सादृश्यगर्भं चित्रपटम् ।  
+आचक्ष्व च किमियमाकृतिः पुरुषसौन्दर्यस्य पारमारूढा न वाऽ इति ।  
+"बाढमारूढाऽ इति नूनमसौ वक्ष्यति ।  
+ब्रूहि भूयः--"यद्येवम्, अस्ति कापि तापसी देशान्तरभ्रमणलब्धप्रागल्भ्या मम च मातृभूताऽ ।  
+तयेदमालेख्यरूपं पुरस्कृत्याहमुक्ता-"सो ऽस्ति तादृशो मन्त्रो येन त्वमुपोषिता पर्वणि विविक्तायां भूमौ पुरोहितैर्हुतमुक्ते सप्तार्चिषि नक्तमेकाकिनी शतं चन्दनसमिधः, शतमगुरुसमिधः कर्पूरमुष्ठिः पट्टवस्त्राणि च प्रभूतानि हुत्वा भविष्यस्येवमाकृतिः ।  
+अथ चालयिष्यसि घण्टाम् ।  
+घण्टापुटक्वणिताहूतश्च भर्ता भवत्यै सर्वरहस्यमाख्याय निमीलिताक्षो यदि त्वामालिङ्गेत्, इयमाकृतिरमुमुपसङ्क्रामेत् ।  
+त्वं तु भविष्यसि यथापुराकारैव यदि भवत्यै भवत्प्रियाय चैवं रोचेत, न चास्मिन्विधौ विसंवादः कायःऽ इति ।  
+"वपुश्चोदिदं तवाभिमतं सह सुहृन्मन्त्रिभिरनुजैः पौरजानपदैश्च सम्प्रधार्य तेषामप्यनुमते कर्मण्यभिमुखेन स्तेयम्ऽ इति ।  
+स नियतमभ्युपैष्यति ।  
+पुनरस्यामेव प्रमदवनवाटीशृङ्गाटिकायामाथर्वणिकेन विधिना सञ्ज्ञपितपशुनाभिहुत्य मुक्ते हिरण्यरेतसि धूमपटेन सम्प्रविष्टेन मयास्मिन्नेव लतामण्डपे स्थातव्यम् ।  
+त्वं पुनः प्रगाढायां प्रदोषवेलायामालपिष्यसि कर्णे कृतनर्मस्मिता विकटवर्माणम्--"धूर्तो ऽसि त्वमकृतज्ञश्च ।  
+मदनुग्रहलब्धेनापि रूपेण लोकलोचनोत्सवायमानेन मत्सपत्नीरभिरमयिष्यसि ।  
+नाहमात्मविनाशाय वेतालोत्थापनमाचरेयम्ऽ इति ।  
+श्रुत्वेदं त्वद्वचः स यद्वदिष्यति तन्मह्यमेकाकिन्युपागत्य निवेदयिष्यसि ततः परमहमेव ज्ञास्यामि ।  
+मत्पदचिह्नानि चोपवने पुष्करिकया प्रमार्जयऽ इति ।  
+सा "तथाऽ इति शास्त्रोपदेशमिव मदुक्तमादृत्यातृप्तसुरतरागैव कथङ्कथमप्यगादन्तःपुरम् ।  
+अहमपि यथाप्रवेशं निर्गत्य स्वमेवावासमयासिपम् ।  
+अथ सा मत्तकाशिनी तथा तमर्थमन्वतिष्ठत् ।  
+अतिष्ठच्च तन्मते स दुर्मतिः ।  
+अभ्रमच्च पौरजानपदेष्वियमद्भुतायमाना वार्ता-"राजा किल विकटवर्मा देवीमन्त्रबलेन देवयोग्यं वपुरासादयिष्यति ।  
+नूनमेष विप्रलम्भो नातिकल्याण) ।  
+कैव कथा प्रमादस्य ।  
+स्वस्मिन्नेवान्तःपुरोपवने स्वाग्रमहिष्यैव सम्पाद्यः किलायमर्थः ।  
+तथाहि बृहस्पतिप्रतिमबुद्धिभिर्मन्त्रिभिरप्यभ्यूह्यानुमतः ।  
+यद्येवं भावि नान्यदतः परमस्ति किञ्चिदद्भुतम् ।  
+अचिन्त्यो हि मणिमन्त्रौपधीनां प्रभावः इति प्रसृतेषु लोकप्रवादेषु प्राप्ते पर्वदिवसे, प्रगाढायां प्रौढतमसि प्रदोषवेलायामन्तःपुरोद्यानादुदैरयद्धूर्जटिकण्ठधूम्रो धूमोद्गमः ।  
+क्षीराज्यदधितिलगौरसर्पपवसामांसरुधिराहुतीनां च परिमलः पवनानुसारी दिशिदिशि प्रावात्सीत् ।  
+प्रशान्ते च सहसा धूमोद्गमे तस्मिन्नहमविशम् ।  
+निशान्तोद्यानमगाच्च गजगामिनी ।  
+आलिङ्ग्य च मां सस्मितं समभ्यधत्त--"धूर्त, सिद्धं ते समीहेतम् ।  
+अवसितश्च पशुरसौ ।  
+अमुष्य प्रलोभनाय त्वदादिष्टया दिशा मयोक्तम्-"कितव, न साधयामि ते सौन्दर्यम् ।  
+एवं सुन्दरो हि त्वमप्सरसामपि स्पृहणीयो भविष्यसि, किमुत मानुषीणाम् ।  
+मधुकर इव निसर्गचपलो यत्र क्वचिदसज्जति भवादृशो नृशंसःऽ इति ।  
+तेन तु मे पादयोर्निपत्याभिहितम्-"रम्भोरु, सहस्व मत्कृतानि दुश्चरितानि ।  
+मनसापि न चिन्तयेयमितःपरमितरनारम् ।  
+त्वरस्व प्रस्तुते कर्मणिऽ इति ।  
+तदहमीदृशेनवैवाहिकेननेपथ्येन त्वामभिसृतवती ।  
+प्रागपि रागाग्निसाक्षिकमनङ्गेन गुणरूपा दत्तैव तुभ्यमेषा जाया ।  
+पुनरपीमं जातवेदसं साक्षीकृत्य स्वहृदयेन दत्ता इति प्रपदेन चरणपृष्ठे निष्पीड्योत्क्षिप्तपादपार्प्णिरितरेतरव्यतिषक्तकोमलाङ्गुलिदलेन भुजलताद्वयेन कन्धरां ममावेष्ट्य सलीलमाननमानमय्य स्वयमुन्नमितमुखकमला विभ्रान्तविशालदृष्टिरसकृदभ्यचुम्बत् ।  
+अथैनाम् "इहैव कुरण्टकगुल्मगर्भे तिष्ठ यावदहं निर्गत्य साधयेयं साध्यं सम्यक्ऽ इति विसृज्य तामुपसृत्य होमानलप्रदेशमशोकशाखावलम्बिनीं घण्टामचालयम् ।  
+अकूजचच सा तं जनं कृतान्तदृतीवाह्वयन्ती ।  
+प्रावर्तिषि चाहमगुरुचन्दनप्रमुखानि होतुम् ।  
+आयासीच्च राजा यथोक्तं देशम् ।  
+शङ्कापन्नमिव किञ्चित्सविस्मयं विचार्य तिष्ठन्तमब्रवम्--"ब्रूहि सत्यं भूयो ऽपि मे भगवन्तं चित्रभानुमेव साक्षीकृत्य ।  
+न चेदनेन रूपेण मत्सपत्नीरभिरमयिष्यसि, ततस्त्वयीदं रूपं सङ्क्रामयेयम्ऽ इति ।  
+स तदैव "देव्यैवेयम्, नोपधिःऽ इति स्फुटोपजातसम्प्रत्ययः प्रावर्तत शपथाय ।  
+स्मित्वा पुनर्मयोक्तम्--"किं वा शपथेन ।  
+कैव हि मानुपी मां परिभविष्यति ।  
+यद्यप्सरोभिः सङ्गच्छसे, सङ्गच्छस्व कामम् ।  
+कथय कानि ते रहस्यानि ।  
+तत्कथनान्ते हि त्वत्स्वरूपभ्रंशःऽ इति ।  
+सो ऽब्रवीत्--"अस्ति बद्धो मत्पितुः कनीयान्भ्राता प्रहारवर्मा ।  
+तं विषान्नेन व्यापाद्याजीर्णदोषं ख्यापयेयमिति मन्त्रिभिः सहा ध्यवसितम् ।  
+अनुजाय विशालवर्मणे दण्डचक्रं पुण्ड्रदेशाभिक्रमणाय दित्सितम् ।  
+पौरवृद्धश्च पाञ्चालिकः परित्रातश्च सार्थवाहः स्वनतिनाम्नो यवनाद्वज्रमेकं वसुन्धरामूल्यं लधीयसार्धेण लभ्यमिति ममैकान्ते ऽमन्त्रयेताम् ।  
+गृहपतिश्च ममान्तरङ्गभूतो जनपदमहत्तरः शतहलिरलीकवादशीलमवलेपवन्तं दुष्टग्रामण्यमनन्तसीरं जनपदकोपेन घातयेयमिति दण्डधरानुद्धारकर्मणि मत्प्रयोगान्नियोक्तुमभ्युपागमत् ।  
+इत्थमिदमचिरप्रस्तुतं रहस्यम्ऽ ।  
+इत्याकर्ण्य-तम् "इयत्तवायुः ।  
+उपपद्यस्व स्वकर्मोचितां गतिम्ऽ इति च्छुरिकया द्विधाकृत्य कृत्तमात्रं तस्मिन्नेव प्रवृत्तस्फीतसर्पिषि हिरण्यरेतस्यजूहवम् ।  
+अभूच्चासौ भस्मसात् ।  
+अथ स्त्रीस्वभावादीषद्विह्वलां हृदयवल्लभां समाश्वास्य हस्तकिसलये ऽवलम्ब्य गत्वा तद्गृहमनुज्ञयास्याः सर्वाण्यन्तःपुराण्याहूय सद्य एव सेवां दत्तवान् ।  
+सविस्मितविलासिनीसार्थमध्ये कञ्चिद्विहृत्य कालं विसृष्टावरोधमण्डलस्तामेव संहतोरूमूरूपपीडं भुजोपपीडं चोपगुह्य तल्पे ऽभिरमयन्नल्पामिव तां निशामत्यनैषम् ।  
+अलभे च तन्मुखात्तद्राजकुलस्य शीलम् ।  
+उषसि स्नात्वा कृतमङ्गलो मन्त्रिभिः सह समगच्छे ।  
+तांश्चाब्रवम्--"आर्याः, रूपेणैव सह परिवृत्तौ मम स्वभावः ।  
+य एव विषान्नेन हन्तु चिन्तितः पता मे स मुक्त्वा स्वमेतद्राज्यं भूय एव ग्राहयितव्यः ।  
+पितृवदमुष्मिन्वयं शुश्रूषयैव वर्तामहे ।  
+न ह्यस्ति पितृवधात्परं पातकम्ऽ इति ।  
+भ्रातरं च विशालवर्माणमाहूयोक्तवान्--"वत्स, न सुभिक्षाः साम्प्रतं पुण्ड्राः ते दुःखमोहोपहतास्त्यक्तात्मानो राष्ट्रं नो न समृद्धमभिद्रवेयुः ।  
+अतो मुष्टिवधः सस्यवधो वा यदोत्पद्यते तदाभियास्यसि, नाद्य यात्रा युक्ताऽ इति ।  
+नगरवृद्धावप्यवलापिषम्--"अल्पीयसा मूल्येन महार्हं वस्तु मास्तु मे लभ्यं धर्मरक्षायै, तदनुगुणेनैव मूल्येनादः क्रीयताम्ऽ इति ।  
+शतहलिं च राष्ट्रमुख्यमाहूयाख्यातवान्--"यो ऽसावनन्तसीरः प्रहारवर्मणः पक्ष इति निनाशयिषितः, सो ऽपि पितरि मे प्रकृतिस्थि किमिति नाश्येत, तत्त्वयापि तस्मिन्संरम्भो न कार्यःऽ इति ।  
+त इमे सर्वमाभिज्ञानिकमुपलभ्य "स एवायम्ऽ इति निश्चिन्वाना विस्मयमानाश्च मां महादेवीं च प्रशंसन्तो मन्त्रबलानि चोद्धोपयन्तो बन्धनात्पितरौ निष्क्रामय्य स्वं राज्यं प्रत्यपादयन् ।  
+अहं च तया मे धात्र्या सर्वमिदं ममाचेष्टितं रहसि पित्रोरवगमय्य प्रहर्षकाष्ठाधिरूढयोस्तयोः पादमूलमभजे ।  
+अभज्ये च यौवराज्यलक्ष्म्या तदनुज्ञातया ।  
+प्रसाधितात्मा देवपादविरहृदुःखदुर्भगान्भोगान्निर्विशन्भूयो ऽस्य पितृसखस्य सिंहवर्मणो लेख्याच्चण्डवर्मणश्चम्पाभियोगमवगम्य "शत्रुवधो मित्ररक्षा चोभयमपि करणीयमेवऽ इत्यलघुना लघुसमुत्थानेन सैन्यचक्रेणाभ्यसरम् ।  
+अभवं च भूमित्स्वत्पादलक्ष्मीसाक्षात्क्रियामहोत्सवानन्दराशेःऽ इति ।  
+श्रुत्वैतद्देवो राजवाहनः सन्मितमवादीत्--"पश्यत पारतल्पिकमुपधियुक्तमपि गुरुजनून्धव्यसनमुक्तिहेतुतया दुष्टामित्रप्रमापणाभ्युपायतया राज्योपलब्धिमूलतया च पुष्कलावर्थधर्मावप्यरीरधत् ।  
+किं हि बुद्धिमत्प्रयुक्तं नाभ्युपैति शोभाम्ऽ इति ।  
+अर्थपालमुखे निधाय स्निग्धदीर्घां दृष्टिम् "आचष्टां भवानात्मीयचरितम्ऽ इत्यादिदेश ।  
+सो ऽपि बद्धाञ्जलिरभिदधे ॥ द्क्च्_२,३ ॥  
+    
+इति श्रीदण्डिनः कतौ दशकुमारचरिते उपहारवर्मचरितं नाम तृतीय उच्छ्वासः  
+    
+__________________________________________________________________________________
+
+स्तर्त् द्क्च् २,४:
+
+चतुर्थोच्छ्वासः  
+    
+देव, सो ऽहमप्योभिरेव सुहृद्भिरेककर्मोर्मिमालिनेमिभूमिवलयं परिभ्रमन्नुपासरं कदाचित्काशीपुरीं वाराणसीम् ।  
+उपस्पृश्य मणिभङ्गनिर्मलाम्भसि मणिकर्णिकायामविमुक्तेश्वरं भगवन्तमन्धकमथनमभिप्रणम्य प्रदक्षिणं परिभ्रमन्पुरुषमेकमायामवन्तमायसपरि घपीवराभ्यां भुजाभ्यामाबध्वमानपरिकरमविरतरुदितोच्छूनताम्रदृष्टिमद्राक्षम् ।  
+अतर्कयं च-"कर्कशो ऽयं पुरुषः कार्पण्यमिव वर्षपि क्षीणतारं चक्षुः, आरम्भश्च साहसानुवादी, नूनमसौ प्राणनिःस्पृहः किमपि कृच्छ्रं प्रियजनव्यसनमूलं प्रतिपत्स्यते ।  
+तत्पृच्छेयमेनम् ।  
+अस्ति चेन्ममापि को ऽपि साहाय्यदानावकाशस्तमेनमभ्युपेत्येत्यपृच्छम्-"भद्र, सन्नाहो ऽयं साहसमवगमयति ।  
+न चेद्गोप्यमिच्छामि श्रोतुं शोकहेतुम्ऽ इति ।  
+स मां सबहुमानं निर्वर्ण्य "को दोषः, श्रूयताम्ऽ इति ।  
+क्वचित्करवीरतले मया सह निषण्णः कथामकारषित्-"महाभाग, सो ऽहमस्मि पूर्वेषु कामचरः पूर्णभद्रो नाम गृहपतिपुत्रः ।  
+प्रयत्नसंवर्धितो ऽपि पित्रा दैवच्छन्दानुवर्ती चौर्यवृत्तिरासम् ।  
+अथास्यां काशीपुर्यामर्यवर्यस्य कस्यचिद्गृहे चोरयित्वा रूपाभिग्राहितो बद्धः ।  
+वध्ये च मयि मत्तहस्ती मृत्युविजयो नाम हिंसाविहारी राजगोपुरोपरितलाधिरूढस्य पश्यतः कामपालनाम्न उत्तमामात्यस्य शासनाज्जनकण्ठरवद्विगुणितघण्टारवो मण्डलितहस्तकाण्डं समभ्यधावत् ।  
+अभिपत्य च मया निभयन निर्भर्त्सितः परिणमन्दारुखण्डसुषिरानुप्रविष्टोभयभुजदण्डघटितप्रतिमानो भीतवन्न्यवर्तिष्ट ।  
+भूयश्च नेत्रा जातसंरम्भेण निकामदारुणैर्वागङ्कुशपादपातैरभिमुखीकृतः ।  
+मयापि द्विगुणाबद्धमन्युना निर्भर्त्स्याभिहतो निवृत्यापाद्रवत् ।  
+अथ मयोपेत्य सरभसमाक्रुष्टो रुष्टश्च यन्ता "हन्त, मृतो ऽसि कुञ्जरापसदऽ इति निशितेन वारणेन वारणं मुहुर्मुहुरभिघ्नन्निर्याणभागे कथमपि मदभिमुखमकरोत् ।  
+अथावोच्यम्--"अपसरतु द्विककीट एषः ।  
+अन्यः कश्चिन्मातङ्गफतिरानीयताम् ।  
+येनाहं मुहूर्तं विहृत्य गच्छामि गन्तव्यां गतिम्ऽ इति ।  
+दृष्टैव स मां रुष्टमुद्गर्जन्तमुत्क्रान्तयन्तृनिष्ठुराज्ञः पलायिष्ट ।  
+मन्त्रिणा पुनरहमाहूयाभ्यधायिषि--"भद्र, मृत्युरेवैष मृत्युविजयो नाम हिंसाविहारी ।  
+सो ऽयमपि तावत्त्वयैवम्भूतः कृतः ।  
+तद्विरम् कर्मणो ऽस्मान्मलीमसात्किमलमसि प्रतिपद्यास्मानार्यवृत्त्या वर्तितुम्ऽ इति ।  
+"यथाज्ञापितो ऽस्मिऽ इति विज्ञापितो ऽयं मया मित्रवन्मय्यवर्तिष्ट ।  
+पृष्टश्च मयैकदा रहसि जातविश्रम्भेणाभाषत स्वचरितम्--"आसीत्कुसुमपुरे राज्ञो रिपुञ्जयस्य मन्त्री धर्मपालो नाम विश्रुतधीः श्रुतऋषिः ।  
+अमुष्य पुत्रः सुमित्रो नाम पित्रैव समः प्रज्ञागुणेषु ।  
+तस्यास्मि द्वैमातुरः कनीयन्भ्राताहम् ।  
+वेशेषु विलसन्तं मामसौ विनयरुचिरवारयत् ।  
+अवार्यदुर्नयश्चाहमपसृत्य दिङ्मुखेषु भ्रमन्यदृच्छयास्यां वारणस्यां प्रमदवने मदनदमनाराधनाय निर्गत्य सहसखीभिः कन्दुकेनानुक्रीडमानां काशीभर्तुश्चण्डसिंहस्य कन्यां कान्तिमतीं नाम चकमे ।  
+कथमपि समगच्छे च ।  
+अथ छन्नं च विहरता कुमारीपुरे सा मयासीदापन्नसत्त्वा ।  
+कञ्चित्सुतं च प्रसूतवती ।  
+मृतजात इति सो ऽपविद्धो रहस्यनिर्भेदभयात्परिजनेन क्रीडाशैले ।  
+शबर्या च स्मशानाभयाशं नीतः ।  
+तयैव निवर्तमानया निशीथे राज्यविध्यमारक्षिकपुरुषैरभिगृहम्य तर्जितया दण्डपारुप्यभीतया निर्भिन्नप्रायं रहस्यम् ।  
+राजज्ञया निशीथे ऽहमाक्रीजनगिरिदरीगृहे विश्रब्धप्रसुप्तस्तयोपदरशितो यथोपपन्नरज्जुबद्धः श्मशानमुपनीय मातङ्गोद्यतेन कृपाणेन प्राजिहीर्ष्ये नियतिबलाल्लूनबन्धस्तमसिमाच्छिद्यान्त्यजं तमन्यांश्च कांश्चित्प्रहृत्यापासरम् ।  
+अशरण्श्च भ्रमन्नटव्यामेकदाश्रुमुख्या कयापि दिव्याकारया सपरिचारया कन्ययोपास्थायिपि ।  
+सा मामञ्जलिकिसलयोत्तंसितेन मुखविलोलकुन्तलेन मूर्ध्ना प्रणम्य मया सह वनवटद्रुमस्य कस्यापि महतः प्रच्छायशीतले तले निषण्णा, "कासि वासु, कुतो ऽस्यागता, कस्य हेतोरस्य मे प्रसीदसिऽ इति साभिलाषमाभाषिता मया वाङ्मयं मधुवर्षमवर्षत्-"आर्य, नाथस्य यक्षाणां मणिभद्रस्यास्मि दुहिता तारावली नाम ।  
+साहं कदाचिदगस्त्यपत्नीं लोपामुद्रां नमस्कृत्यापावर्तमाना मलयगिरेः परेतावासे वाराणस्याः कमपि दारकं रुदन्तमद्राक्षम् ।  
+आदाय चैनं तीव्रस्नेहान्ममपित्रोः सन्निधिमनैषम् ।  
+अनैपीच्च मे पिता देवस्यालकेश्वरस्यास्थानीम् ।  
+अथाहमाहूयाज्ञप्ता हरसखेन, "बाले बाले ऽस्मिन्कीदृशस्ते भावःऽ इति ।  
+"औरस इवास्मिन्वत्से वत्सलताऽ इति मया विज्ञापितः "सत्यमाह वराकीऽ इति तन्मूलामतिमहतीं कथामकरोत् ।  
+तत्रैतावन्मयावगतम् "त्वं किल शौनकः शूद्रकः कामपालश्चाभिन्नः ।  
+बन्धुमती विनयवती कान्तिमती चाभिन्ना ।  
+वेदिमत्यार्यदासी सोमदेवी वैकैव ।  
+हंसावली शूरसेना सुलोचना चानन्या ।  
+नन्दिनी रङ्गपताकेन्द्रसेना चापृथग्भूता ।  
+या किल शौनकावस्थायामग्निसाक्षिकमात्मसात्कृता गोपकन्या सैव किलार्यदासी पुनश्चाद्य तारावलीत्यभूवम् ।  
+बालश्च किलशूद्रकावस्थे त्वय्यार्यदास्यवस्थायां मय्युदभूत् ।  
+अवर्ध्यत च विनयवत्या स्नेहवासनया ।  
+स तु तस्यां कान्तिमत्यवस्थायामद्योदभूत् ।  
+एवमनेकमृत्युमुखपरिभ्रष्टं दैवान्मयोपलब्धं तमेकपिङ्गादेशाद्वने तपस्यतो राजहंसस्य देव्यै वसुमत्यै तत्सुतस्य भाविचक्रवर्तिनो राजवाहनस्य परिचर्यार्थं समर्प्य गुरुभिरभ्यनुज्ञाता कृतान्तयोगात्कृतान्तमुखभ्रष्टस्य ते पादपद्मशुश्रूषार्थमागतास्मिऽ इति ।  
+श्रुत्वा तामनेकजन्मरमणीमसकृदाश्लिष्य हर्षाश्रुमुखो मुहुर्मुहुः सान्त्वयित्वा तत्प्रभावदर्शिते महति मन्दिरे ऽहर्निशं भूमिदुर्लभान्भोगानन्वभूवम् ।  
+द्वित्राणि दनान्यतिक्रम्य मत्तकाशिनीं तामवादिषम्-"प्रिये, प्रत्यपकृत्य मत्प्राणद्गोहिणश्चण्डसिंहस्य वैरनिर्यातनसुखमनुबुभूषामिऽ इति तया सस्मितमभिहितम्-"एहि कान्त, कान्तिमतीदर्शनाय नयामि त्वाम्ऽ इति ।  
+स्थितेर्ऽधरात्रे राज्ञो वासगृहनीये ।  
+ततस्तच्छिरोभागवर्तिनीमादायासियष्टिं प्रबोध्यैनं प्रस्फुरन्तमब्रवम्--"अहमस्मि भवज्जामाता ।  
+भवदनुमत्या विना तव कन्याभिमर्शी ।  
+तमपराधमनुवृत्त्या प्रमार्ष्टुमागतःऽ इति ।  
+सो ऽतिभीतोमामभिप्रणम्याह-"अहमेव मूढो ऽपराद्धः यस्तव दुहितृसंसर्गानुग्राहिणो ग्रहग्रस्त इवोत्क्रान्तसीमा भवदधीनम्ऽ इत्यवादीत् ।  
+अथापरेद्युः प्रकृतिण्डलं सन्निपात्य विधिवदात्मजायाः पाणिमग्राहयत् ।  
+अश्रावयच्च तनयवार्तां तारावली कान्तिमत्यै, सोमदेवीसुलोचनेन्द्रसेनाभ्यश्च पूर्वजातिवृत्तान्तम् ।  
+इत्थमहं मन्त्रिपदापदेशं यौवराज्यमनुभवन्विहरामि विलासिनीभिःऽ इति ।  
+स एवं मादृशे ऽपि जन्तौ परिचर्यानुबन्धी बन्धुरेकः सर्वभूतानामलसकेन स्वर्गते श्वशुरे, ज्यायसि जन्तौ परिचर्यानुबन्धी बन्धुरेकः सर्वभूतानामलसकेन स्वर्गते श्वशुरे, ज्यायसि च श्याले चण्डघोषनाम्नि स्त्रीष्वतिप्रसङ्गात्प्रागेव क्षयक्षीणायुषि, पञ्चवर्षदेशीयं सिहघोषनामानं पैशुन्यवादिनां दुर्मन्त्रिणः कतिचिदासन्नन्तरङ्गभूताः ।  
+तैः किलासावित्थमग्राह्यत-"प्रसङ्यैव स्वसा तवामुना भुजङ्गेन सङ्गृहीता ।  
+पुनः प्रसुप्ते राजनि प्राहर्तुमद्युतासिरासीत् ।  
+तेनास्मै तल्क्षणप्रवृद्धेन भीत्यानुनीय दत्ता कन्या ।  
+तं च देवज्येष्ठं चण्डघोषं विषेण हत्वा बालो ऽयमसमर्थ इति त्वमद्यापि प्रकृतिविश्रम्भणायोपेक्षितः ।  
+क्षिणोति च पुरा स कृतघ्नो भवन्तम् ।  
+तमेवान्तकपुरमभिगमयितुं यतस्वऽ इति ।  
+स तथा दूषितो ऽपि यक्षिणीभयान्नामुष्मिन्पापमाचरितुमशकत् ।  
+एषु किल दिवसेष्वयथापूर्वमाकृतौ कान्तिमत्याः समुपलक्ष्य राजमहिषी सुलक्षणा नाम सप्रणयमपृच्छत्-"देवि, नाहमायथातथ्येन विप्रलम्भनीया ।  
+कथय तथ्यं केनेदमयथापूर्वमाननारविन्दे तवैषु वासरेषुऽ इति ।  
+सा त्ववदीत्-"भद्रे, स्मरसि किमद्याप्यायथातथ्येन किञ्चिन्मयोक्तपूर्वम् ।  
+सखी मे तारावली सपत्नी च किमपि कलुषिताशया रहसि भर्त्रा मद्गोत्रापदिष्टा प्रणयमप्युपेक्ष्य प्रणम्यमानाप्यस्मभिरुपोढमत्सरा प्रावसत् ।  
+अवसीदति च नः पतिः ।  
+अतो मे दौर्मनत्यम्ऽ इति ।  
+तत्प्रायेणैकान्ते सुलक्षणया कान्ताय कथितम् ।  
+"अथासौ निर्भयो ऽद्य प्रियतमाविरहपाण्डुभिरवयैर्घैर्यस्तम्भिताश्रुपर्याकुलेन चक्षुषोष्मश्वासशोषिताभिरिवानतिपेशलाभिर्वाग्भिर्वियोगं दर्शयन्तम्, कथमपि राजकुले कार्याणि कारयन्तम्, पूर्वसङ्केतितैः पुरुषैरभिग्राह्याबन्धयत् ।  
+तस्य किल स्थाने स्थाने दोषानुद्धोष्य तथोद्धरणीये चक्षुषी यथा तन्मूलमेवास्य मरणं भवेत्ऽ इति ।  
+अतो ऽत्रैकान्ते यथेष्टमश्रु मुक्त्वा तस्य साधोः पुरः प्राणान्मोक्तुकामो बध्नामि परिकरम्ऽ इति ।  
+मयापि तत्पितृव्यसनमाकर्ण्य पर्यश्रुणा सो ऽभिहितः-"सौम्य, किं तव गोपायित्वा ।  
+यस्तस्य सुतो यक्षकन्यया देवस्य राजवाहनस्य पादशुश्रूषार्थं देव्या वसुमत्या हस्तन्यासः कृतः सो ऽहमस्मि ।  
+शक्ष्यामि सहस्रमपि सुभटानामुदायुधानां हत्वा पितरं मोचयितुम् ।  
+अपि तु सङ्कुले यदि कश्चित्पातयेत्तदङ्गे शस्त्रिकां सर्व एव मे यत्नो भस्मानि हुतमिव भवेत्ऽ इति ।  
+अनवसितवचन एव मयि महानाशीविषः प्राकाररन्ध्रेणोदैरयच्छिरः ।  
+तमहं मन्त्रौषधबलेनाभिगृह्य पूर्णभद्रमब्रवम्-"भद्र, सिद्धं नः समीहितम् ।  
+अनेन तातमलक्ष्यमाणः सङ्कुले यदृच्छया पतितेन नाम दंशयित्वा तथा विषं स्तम्भवेवं यथा मृत इत्युदास्येत ।  
+त्वया तु मुक्तसाध्वसेन माता मे बोधयितव्या-" या यक्ष्या वने देव्या वसुमत्या हस्तार्पितो युष्मत्सूनुः सो ऽनुप्राप्तः पितुरवस्थां मदुपलभ्य बुद्धिबलादित्थामाचरिष्यति ।  
+त्वया तु मुक्तत्रासया राज्ञे प्रेषणीयम्-"एष खलु क्षात्रधर्मो यद्बन्धुरबन्धुर्वा दुष्टः स निरपेक्षं निर्ग्राह्य इति ।  
+स्त्रीधर्मश्चैष यददुष्टस्य दुष्टस्य वा भर्तुर्गतिर्गन्तव्येति ।  
+तदहममुनैव सह चिताग्निमारोक्ष्यामि ।  
+युवतिजनानुकूलः पश्चिमो विधिरनुज्ञातव्यःऽ इति ।  
+स एव निवेदितो नियतमनुज्ञास्यति ।  
+ततः स्वमेवागारमानीय काण्डपटीपरिक्षिप्ते विविक्तोद्देर्शे दर्भसस्तरणमधिशाय्य स्वयं कृतानुमरणमण्डनया त्वया च तत्र सन्निधेयम् ।  
+अहं च बाह्यकक्षागतस्त्वया प्रवेशयिष्ये ।  
+ततः पितरमुज्जीव्य तदभिरुचितेनाभ्युपायेन चेष्टिष्यामहेऽ इति ।  
+स "तथाऽ इति हृष्टतरस्तूर्णमगमत् ।  
+अहं तु घोषणस्थाने चिञ्चावृक्षं घनतरविपुलशाखमारुह्य गूढतनुरतिष्ठम् ।  
+आरूढश्च लोको यथायथमुच्चैस्थानानि ।  
+उच्चावचप्रलापाः प्रस्तुताः ।  
+तावन्मे पितरं तस्करमिव पश्चाद्बद्धभुजमुद्धुरध्वनि महाजनानुयातमानीय मदभ्याश एव स्थापयित्वा मातङ्गस्त्रिरघोषयत्-"एष मन्त्री कामपालो राज्यलोभद्भर्तारं चण्डसिंहम्, युवराजं चण्डघोषं च विषान्नेनोपांशु हत्वा पुनर्देवो ऽपि सिंहघोषः पूर्णयौवन इत्यमुष्मिन्पापमाचरिष्यन्विश्वासाद्रहस्यभूमौ पुनरमात्यं शिवनागमाहूय स्थूणमङ्गारवर्षं च राजवधायोपजप्य तैः स्वामिभक्त्या विवृतगुह्यो राज्यकामुकस्यास्य ब्राह्मणस्यान्धतमसप्रवेशो न्याय्य इति प्राङ्विवाकवाक्यादक्ष्युद्धरणाय नीयते ।  
+पुनरन्यो ऽपि यदि स्यादन्यायवृत्तिस्तमष्येवमेव यथार्हेण दण्डेन योजयिष्यति देवःऽ इति ।  
+श्रुत्वैतद्भद्धकलकले महाजने पितुरङ्गे प्रदीप्तशिरसमाशीविषं व्यक्षिपम् ।  
+अहं च भीतो नामावप्लुत्य तत्रैव जनादनुलीनः क्रुद्ध्वयालदष्टस्य तातस्य विहितजीवरक्षो विषक्षणादस्तम्भयम् ।  
+अपतच्चैष भूमौ मृतकल्पः ।  
+प्रालपं च "सत्यमिदं राजावमानिनं दैवो दण्ड एव स्पृशतीति ।  
+यदयमक्षिभ्यां विनावनिपेन चिकीर्षितः, प्राणैरेव वियोजितो विधिनाऽ इति ।  
+मदुक्तं च केचिदन्वमन्यन्त, अपरे पुनर्निनिन्दुः ।  
+दर्वीकरस्तु तमपि चण्डालं दष्ट्वा रूढत्रासद्रुतलोकदत्तमार्गः प्राद्रवत् ।  
+अथ मदम्बा पूर्णभद्रबोधितार्था तादृशे ऽपि व्यसने नातिविह्वला कुलपरिजनानुयाता पद्भ्यामेव धीरमागत्य मत्पितुरुत्तमाङ्गमुत्सङ्गेन धारयन्त्यासित्वा राज्ञे समादिशत्-"एष मे पतिस्तवापकर्ता न वेति दैवमेव जानाति ।  
+न मे ऽनयास्ति चिन्तया फलम् ।  
+अस्य तु पाणिग्राहकस्य गतिमननुप्रपद्यमाना भवत्कुलं कलङ्कयेयम्ऽ अतो ऽनुमन्तुमर्हसि भर्त्रा सह चिताधिरोहणाय माम्ऽ इति ।  
+श्रुत्वा चैतत्प्रीतियुक्तः समादिक्षत्क्षितीश्वरः-"क्रियतां कुलोचितः संस्कारः ।  
+उत्सवो त्तरं च पश्चिमं विधिसंस्कारमनुभवतु मे भगिनीपतिःऽ इति चण्डाले तु मत्प्रतिषिद्धसकलमन्त्रवादिप्रयासे संस्थिते "कामपालो ऽपि कालदष्ट एवऽ इति स्वभवनोपनयनममुष्य स्वमाहात्म्यप्रकाशनाय महीपतिरन्वमंस्त ।  
+आनीतश्च पिता मे विविक्तायां भूमौ दर्भशय्यामधिशाय्य स्थितो ऽभूत् ।  
+अथ मदम्बा मरणमण्डनमनुष्ठाय सकरुणं सखीरामन्त्र्य, मुहुरभिप्राणम्य भव नदेवता यत्ननिवारितपरिजनाक्रन्दिता पितुर्मे शयनस्थानमेकाकिनी प्राविक्षत् ।  
+तत्र च पूर्वमेव पूर्णभद्रोपस्थापितेन च मया वैनतेयतां गतेन निर्विषीकृतं भर्तारमैक्षत ।  
+हृष्टतमा पत्युः पादयोः पर्यश्रुमुखी प्रणिपत्य मां च मुहुर्मुहुः प्रस्नुतस्तनी परिष्वज्य सहर्षबाष्पगद्गदमगदत्-"पुत्र, यो ऽसि जातमात्रः पापया मया परित्यक्तः, स किमर्थमेवं मामतिनिर्घृणामनुगृह्णासि ।  
+अथवैपनिरपराध एव ते जगयिता ।  
+युक्तमस्य प्रत्यानयनमन्तकाननात् ।  
+क्रूरा खलु तारावली या त्वासुपलभ्यापि तत्त्वतः कुबेरादसमर्प्य मह्यमर्पितवती देव्यै वसुमत्यै सैव वा सदृशकारिणी ।  
+नहि तादृशाद्भाग्यराशेर्विना मादृशो जनो ऽल्पपुण्यस्तवर्हति कलप्रलापामृतानि कर्णाभ्यां पातुम् ।  
+एहि, परिष्वजस्वऽ इति भूयोभूयः शिरसि जिघ्रन्यङ्कमारोपयन्ती, तारावलीं गर्हयन्त्यालिङ्गयन्त्यश्रुभिरभिषिञ्चती चोत्कम्पिताङ्गयष्टिरन्यादृशीव क्षणमजनिष्ट ।  
+जनयितापिमे नरकादिव स्वर्गम्, तादृशादव्यसनात्तथाबूतमभ्युदयमारूढः पूर्णभद्रेण विस्तरेण यथाव-त्तान्तमावेदितो भगवतो मघवतो ऽपि भाग्यवन्तमात्मानमजीगणत् ।  
+मनगिव च मत्सम्बन्धमाख्याय हर्पविस्मितात्मनोः पित्रोरकथयम्-"आज्ञापयतं काद्य नः प्रितपत्तिःऽ इति ।  
+पिता मे प्राब्रवीत्-"वत्स, गृहमेवेदमस्मदीयमतिविशालप्राकारबलयमक्षय्यानुधस्थानम् ।  
+अलङ्घ्यतमा च गुप्तिः ।  
+उपकृताश्चमयातिबहवः सन्ति सामन्ताः ।  
+प्रकृतयश्च भूयस्यो न मे व्यसनमनुरुध्यन्ते ।  
+सुभटानां चानेकसहस्रमस्त्येव समुहृत्पुत्रदारम् ।  
+अतो ऽत्रैव कतपयान्यहानि स्थित्वा बाह्यभ्यन्तरङ्गान्कोपानुत्पादयिष्यामः ।  
+कुपितांशञ्च सङ्गृह्य प्रोत्साह्यास्य प्रकृत्यमित्रानुत्थाप्य सहजांश्च द्विषः, दुर्दान्तमेनमुच्छेत्स्यामःऽ इति ।  
+"को दोषः, तथास्तुऽ इति तातस्य मतमन्वमंसि ।  
+तथास्मासु प्रतिविधाय तिष्ठत्सु राजापि विज्ञापितोदन्तो जातानुतापः पारप्रामिकान्प्रयोगान्प्रायः प्रायुङ्क ।  
+ते चास्माभिः प्रत्यहमहन्यन्त ।  
+अस्मिन्नेवावकाश पूर्णभद्रमुखाच्च राज्ञः शय्यास्थानमवगस्य तदैव स्वोदवसितभित्तिकोणादारभ्योरगास्येन सुरङ्गामकार्षम् ।  
+गता च सा भूमिस्वर्गकल्पमनल्पकन्यकाजनं कमप्युद्देशम् ।  
+अव्यथिष्ट च दृष्टैव स मां नारीजनः ।  
+तत्र काचिदिन्दुकलेव स्वलावण्येन रसातलान्धकारान्नह्नुवाना विग्रहिणीव देवी विश्वम्भराःहरगृहिणीवासुरविजयायावतीर्णा, पातालमागता गृहिणीव भगवतः कुसुमधन्वनः गतलक्ष्मीरिवानेकदुर्नृपदर्शनपरिहाराय महीविवरं प्रविष्टा, निष्टप्तकनकपुत्रिकेवावदातकान्तिः कन्यका, चन्दनलतेव मलयमारुतेन, मद्दर्शनेनोद्रकम्पत्र ।  
+तथा भूते च तस्मिन्नङ्गनासमाजे, कुसुमितेव काशयष्टिः, पाण्डुशिरसिज्ञा न्यविगकाचिच्चरणयोर्मे निपत्य त्रासदीनमब्रूत-"दीयतामभयदानमस्मा अनन्यशरणाय स्त्रीजनाय ।  
+किमसि देवकुमारो दनुजयुद्धतृष्णया रसातलंविविक्षुः ।  
+आज्ञापयको ऽसि ।  
+कस्य हेतोरागतो ऽसिऽ इति ।  
+सातु मया प्रत्यवादि--"सुदत्यः, मास्म भवत्यो भैषुः ।  
+अहमस्मि द्विजातिवृषात्कामपालाद्देव्यां कान्तिमत्यामुत्पन्नोर्ऽथ पालो नाम ।  
+सत्यर्थे निजगृहान्नृपगृहं सुरङ्गयोपसरसन्निहान्तरे वो दृष्टवान् ।  
+कथयत क स्थ यूयम् ।  
+कथमिह निवसथऽ इति ।  
+सोदञ्जलिरुदीरितवती-"भर्तृदारक, भाग्यवत्यो वयम्, यास्त्वामेभिरेव चक्षुर्भिरनघमद्राक्ष्म ।  
+श्रूयताम् ।  
+यस्तवमातामहश्चणअडसिहः, तेनास्यां देव्यां लीलावतयां चण्डघोषः कान्तिमतीत्यपत्यद्वयमुदपादि ।  
+चण्डघोपस्तु युवराजो ऽत्यासङ्गादङ्गनासु राजयक्ष्मणा सुरक्षयमगादन्तर्वर्त्न्यां देव्यामाचारवत्याम् ।  
+अमुया चेयं मणिकर्णिका नाम कन्या प्रसृता ।  
+अथ प्रसववेदनया मुक्तजीविताचारवती पत्युरन्तिकमगमत् ।  
+अथ देवश्चण्डसिहो मामाहूयोपह्वरे समाज्ञापयत्-"ऋद्धिमति, कन्यकेयं कल्याणलक्षणा ।  
+तामिमां मालवेन्द्रनन्दनाय दर्षसाराय विधिवद्वर्धयित्वा दित्सामि ।  
+बिभेमि च कान्तिमतीबृत्तान्तादारभ्य कन्यकानां प्रकाशावस्थापनात् ।  
+अत इयमरातिवयसनाय कारिते महति भूमिगृहे कृत्रिमशैलगर्भोत्कीर्णनानामणअडपप्रेक्षागृहे प्रचुरपरिबर्हया भवत्या संवर्ध्यताम् ।  
+अस्त्यतिर भोग्यवस्तु वर्पशतेनाप्यक्षय्यम्ऽ इति ।  
+स तथोक्त्वा निजवासगृहस्य द्व्यङ्गुलभित्तावर्धपादं किष्कुविष्कम्भमुद्धृत्य तेनैव द्वारेण त्थानाभिदमस्मानवीविशत् ।  
+इह च नो वसन्तीनां द्वादशसमाः समत्ययुः ।  
+इयं च वत्सा तरुणीबूता ।  
+न चाद्यापि स्मरति राजा ।  
+काममियं पितामहेन दर्पसाराय सङ्कगल्पिता ।  
+त्वदम्बया कान्तिमत्या चेयं गर्भस्थैव द्यृतजिता स्वमात्रातवैव जायात्वेन समकल्प्यत ।  
+"तदत्र प्राप्तरूपं चिन्त्यतां कुमारेणैवऽ इति ।  
+तां पुनरवोचम्-"अद्यैव राजगृहे किमपि कार्यं साधयित्वा प्रतिनिवृत्तो युष्मासु यथार्हं प्रतिपत्स्येऽ इति ।  
+तेनैव दीपदर्शितबिलपथेन गत्वा स्थितेर्ऽधरात्रे तदर्धपादं प्रत्युद्धृत्य वासगृहं प्रविष्टो विस्रब्धसुप्तं सिहघोषं जीवग्राहमग्रहीषम् ।  
+आकृष्य च तमहिमिवाहिशत्रुः स्फुरन्तममुनैव भित्तिरन्ध्रपथेन स्त्रैणसन्निधिमनैषम् ।  
+आनीय च स्वभवनमायसनिगडसन्दितचरणयुगलमवनामितमलिनवनमश्रुबहुलरक्तचक्षुषमेकान्ते जनयित्रोरदर्शयम् ।  
+अकथयं च बिलकथाम् ।  
+अथ पितरौ प्रहृष्टतरौ तं निकृष्टाशयं निशम्य बन्धने नियम्य तस्या दारिकाया यथार्हेण कर्मणा मां पाणिमग्राहयेताम् ।  
+अनाथकं च तद्राज्यमस्मदायत्तमेव जातम् ।  
+प्रकृतिकोपभयात्तु मन्मात्रा मुमुक्षितो ऽपि न मुक्त एव सिंहघोषः ।  
+तथास्थिताश्च वयमङ्गराजः सिंहवर्मा देवपादानां भक्तिमान्कृतकर्मा चेत्यमित्राभियुक्तमेनमभ्यसराम ।  
+अभूवं च भवत्पादपङ्कजरजो ऽनुग्राह्याः स चेदानीं भवच्चरणप्रणामप्रायश्चित्तमनुतिष्ठतु सर्वदुश्चरितक्षालनमनार्यः सिंहघोषःऽ इत्यर्थपालः प्राञ्जलिः प्रणनाम ।  
+देवो ऽपि राजवाहनः "बहु पराक्रान्तम् ।  
+बहूपयुक्ता च बुद्धिः, मुक्तबन्धस्ते श्वशुरः पश्यतु माम्ऽ इत्यभिधाय भूयः प्रमतिमेव पश्यन्प्रीतिस्मेरः "प्रस्तूयतां तावदात्मीयं चरितम्ऽ इत्याज्ञापयत् ॥ द्क्च्_२,४ ॥  
+    
+इति श्रीदण्डिनः कृतौ दशकुमारचरितेर्ऽथपालचरितं नाम चतुर्थ उच्छ्वासः  
+    
+__________________________________________________________________________________
+
+स्तर्त् द्क्च् २,५:
+
+पञ्चमोच्छ्वासः  
+    
+सो ऽपि प्रणम्य विज्ञापयामास-"देव देवस्यान्वेषणायदिक्षु भ्रमन्नभ्रङ्कपस्यापि विन्ध्यपार्श्वरूढस्य वनस्पतेरधः, परिणतपतङ्गबालपल्लवावतंसिते पश्चिमदिगङ्गनामुखे पल्वलाम्भस्युपस्पुपस्पृश्योपासय सन्ध्याम्, तमःसमीकृतेषु निम्नोन्नतेषुगन्तुमक्षमः क्षमातले किसलयैरुपरचय्य शय्यां शिशयिषमाणः, शिरसि कुर्वन्नञ्जलिम्, "यस्मिन्वनस्पतौ वसति देवता सैव म शरणमस्तु शरारुचक्रचारभीषणायां शर्वगलश्यामशार्वरान्धकारपूराध्मातगभीरगह्वरायामस्यां महाटव्यामेककस्य प्रसुप्तस्यऽ इत्युपधाय वामभुजमशयिषि ।  
+ततः क्षणादेवावनिदुर्लभेन स्पर्शेनासुखायिषत किमपि गात्राणि, आह्लादयिषतेन्द्रियाणि, अभ्यमनायिष्ट चान्तरात्मा, विशेषतश्च हृषितास्तनूरुहाः, पर्यस्फुरन्मे दक्षिणभुजः ।  
+"कथन्न्विदम्ऽ इति मन्दमन्दमुन्मिषन्नुपर्यच्छचन्द्रातपच्छेदकल्पं शुक्लांशुकवितानमैक्षिषि ।  
+वामतश्चलितदृष्टिः समया सौधभित्तिं चित्रास्तरयणशायिनमतिविश्रब्धप्रसुपतमङ्गनाजनमलक्षयम् ।  
+दक्षिणतो दत्तचक्षुरागलितस्तनांशुकाम्, अमृतफेनपटलपाण्डुरशयनशायिनीम्, आदिवराहदंष्ट्रांशुजाललग्नाम्, अंसस्रस्तदुग्धसागरदुकूलोत्तरीयाम्, भयसाध्वसमूर्च्छितामिव धरणिम्, अरुणाधरकिरणबालकिसलयलास्यहेतुभिराननारविन्दपरिमलोद्वाहिभि र्निःश्वासमातरिश्वभिरीश्वरेक्षणदहनदग्धं स्फुलिङ्गशेषमनङ्गमिव सन्धुक्षयन्तीम्, अन्तःसुप्तषटूपदमम्बुजमिव जातिनिद्रमामीलितलोचनेन्दीवरमाननं दधानाम्, ऐरावतमदावलेपलूनापविद्धामिव नन्दनवनकल्पवृक्षरत्नवल्लरीं कामपि तरुणीमालोकयम् ।  
+अतर्कयं च--"क गता सा महाटवी, कुत इदमूर्ध्वाण्डसम्पुटोल्लेखि शक्तिध्वजशिखरशूलोत्सेधं सौधमागतम्, क्व च तदरण्यस्थलीसमास्तीर्णं पल्लवशयनम्, कुतस्त्यं चेदमिन्दुगभस्तिसम्भारभासुरं हंसतूलदुकूलशयनम्, एष च को नु शीतरश्मिकिरणरज्जुदोलापरिभ्रष्टमूर्च्छित इवाप्सरोगणः स्वैरसुप्तः सुन्दरीजनः, का चेयं देवीवारविन्दहस्ता शारदशशाङ्कमण्डलामलदुकलोत्तरच्छदमधिशेते शयनतलम् ।  
+न तावदेषा देवयोषा, यतो मन्दमन्दमिन्दुकिरणैः संवाह्यमाना कमलिनीव सङ्कुचति ।  
+भग्नवृन्तच्युतरसबिन्दुशबलितं पाकपाण्डु चूतफलमिवोद्भिन्नस्वेदरेखं गण्डस्थलमालक्ष्यते, अभिनवयौवनविदाहनिर्भरोष्मणि कुचतटे वैवर्ण्यमुपैति वणकम् ।  
+वाससी च परीभोगानुरूपं धूसरिमाणमदर्शयतः, तदेषा मानुष्येव ।  
+दिष्ट्या चानुच्छिष्टयौवना, यतः सौकुमार्यमागताः सन्तो ऽपि संहता इवावयवाः, प्रस्निग्धतमापि पाण्डुतानुवद्धेव देहच्छविः, स्मरपीडानभिज्ञतया नातिविशदरागो मुखे, विद्रुमद्युतिरधरमणिछः अनत्यापूर्णमारक्तमूलं चम्पककुङ्मलदलमिव कठोरं कपोलतलम्, अनङ्गबाणपातमुक्ताशङ्कं च विस्रब्धमधुरं सुप्यते, न चैतद्वक्षःस्थलं निर्दयविमर्दविस्तारितमुखस्तनयुगलम्, अस्ति चानतिक्रान्तशिष्टमर्यादचेतसो ममास्यामासक्तिः ।  
+आसत्त्यनुरूपं पुनराश्लिष्टा यदि, स्पष्टमार्तरवेणैव सह निद्रां मोक्ष्यति ।  
+अथाहं न शक्ष्यामि चानुपश्लिष्य शयितुम् ।  
+अतो यद्भावि तद्भवतु ।  
+"भाग्यमत्र परीक्षिष्येऽ इति स्पष्टास्पृष्टमेव किमप्याविद्धरागसाध्वत्तंलक्षसुप्तः स्थितो ऽस्मि ।  
+साप किमष्युत्कम्पिना रोमोद्बेदवता वामपार्श्वेन सुखायमानेन मन्दमन्दजृम्भिकारम्भमन्थराङ्गी, त्वङ्गदग्रपक्ष्मणोश्चक्षुषोरलसतान्ततारकेणानतिपक्वनिद्राकषाय् इतापाङ्गपरभागेन युगलेनेषदुन्मिषन्ती, त्रासविस्मयहर्षरागशङ्काविलासविभ्रमव्यवहितानि व्रीडान्तराणि कानि कान्यपि कामेनाद्भुतानुभावेनावस्थान्तराणि कार्यमाणा, परिजनप्रबोधनोद्यतां गिरं कामावेगपरवशं हृदयमङ्गानि च साध्वसायाससम्बध्यमानस्वेदपुलकानि कथङ्कथमपि निगृह्य, सस्पृहेण मधुरकूणितत्रिभागेन मन्दमन्दप्रचारितेन चक्षुषा मदङ्गानि निर्वर्ण्य, दूरोत्सर्पितपूर्वकायापि तस्मिन्नेव शयने सचकितमशयिष्ट ।  
+अजनिष्ट मे रागाविष्टचेतसो ऽपि किमपि निद्रा ।  
+पुनरननुकूलस्पर्शदुःखायत्तगात्रः प्राबुध्ये ।  
+प्रबुद्धस्य च सवे मे महाटवी, तदेव तरुतलम्, स एव पत्रास्तरः ममाभूत् ।  
+विभावरी च व्ययासीत् ।  
+अभूच्च मे मनसि किमयं स्वप्नः किं विप्रलम्भो वा, किमियमासुरी दैवी वा कापि माया ।  
+यद्भावि तद्भवतु ।  
+नाहमिदं तत्त्वतो नावबुध्यमोक्ष्यामि भूमिशय्याम् ।  
+यावदायुरत्रत्यायै देवतायै प्रतिशयितो भवामिऽ इति निश्चितमतिरतिष्ठम् ।  
+अथाविर्भूय कापि रविकराभितप्तकुवलयदामतान्ताङ्गयष्टिः, क्लिष्टनिवसनोत्तरीया, निरलक्तकरूक्षपाटलेन निःश्वासोष्मजर्जरितत्विषा दन्तच्छदेन वमन्तीव कपिलधूमधूम्रं विरहानलम्, अनवरतसलिलधाराविसर्जनाद्रुधिरावशेषमिव लोहिततरं द्वितयमक्ष्णोरुद्वहन्ती, कुलचारित्रबन्धनपाशविभ्रमेणैकवेणीभूतेन केशपाशेन, नीलांशुकचीरचूडिकापरिवृता पतिव्रतापताकेव सञ्चरन्ती, क्षामक्षामापि देवतानुभावादनतिक्षीणवर्मआवकाशा सीमन्तिनी, प्रणिपतन्तं मां प्रहर्षेत्कम्पितेन भुजलताद्वयेनोत्थाप्य पुत्रवत्परिष्वज्य शिरस्युपघ्राय वात्सल्यमिव स्तनयुगलेन स्तन्यच्छलात्प्रक्षरन्ती, शिशिरेणाश्रुणा निरुद्वकण्ठी स्नेहगद्गदं व्याहार्षीत्--"वत्स, यदि वः कथितवती मगधराजमहिषी वसुमती मम हस्ते वालमर्थपालं निधाय कथां च काञ्चिदात्मभर्तृपुत्रसखीजनानुबद्धां राजराजप्रवर्तितां कृत्वान्तर्धानमगादात्मजा मण्भद्रस्येतिऽ साहमस्मि वो जननी ।  
+पितुर्वो धर्मपालसूनोः सुमन्त्रानुजस्य कामपालस्य पादमूलान्निष्कारणकोपकलुषिताशया प्रोष्यानुशयविधुरा स्वप्ने केनापि रक्षोरुपेणोपेत्य शप्तास्मि--"चण्डिकायां त्वयिवर्षमात्रं वसामि प्रवासदुःखायऽ इति व्रुवतैवाहमाविष्टा प्राबुध्ये ।  
+गतं च तद्वर्षं वर्षसहस्रदीर्घम् ।  
+अतीतायां तु यामिन्यां देवदेवस्य त्र्यम्बकस्य श्रावस्त्यामुत्सवसमाजमनुभूय बन्धुजनं च स्थानस्थानेभ्यः सन्निपातितमभिसमीक्ष्य मुक्तशापापत्युः पार्श्वमभिसरामीति प्रस्थितायामेव मयि, त्वमत्राभ्युपेत्य "प्रतिपन्नो ऽस्मिशरणमिहत्यां देवताम्ऽ इति प्रसुप्तो ऽसि ।  
+एवं शापदुःखाविष्टया तु मया तदा न तत्त्वतः परिच्छिन्नो भवान् अपि तु शरणागतस्त्वविरलप्रमादायामस्यां महाटव्यामयुक्तं परित्यज्य गन्तुमिति मया त्वमपि स्वपन्नेवासि नीतः ।  
+प्रत्यासन्ने च तस्मिन्देवगृहे पुनरचिन्तयम्--"कथमिह तरुणेनानेन सह समाजं गमिष्यामिऽ इति ।  
+अथ राज्ञः श्रावस्तीश्वरस्य यथार्थनाम्नो धर्मवर्धनस्य कन्यां नवमालिकां घर्मकालसुभगे कन्यापुरविमानहर्म्यतले विशालकोमलतलं शय्यातलमधिशयानां यदृच्छयोपलभ्य "दिष्ट्येयं सुप्ता, परिजनश्च गाढनिद्रः ।  
+शेतामयमत्र मुहूर्तमात्रं ब्राह्मणकुमारो यावत्कृतकृत्या निवर्तेयऽ इति त्वां तत्र शाययित्वा तमुद्देशमगमम् ।  
+दृष्ट्वा चोत्सवश्रियम्, निर्विश्य च स्वजनदर्शनसुखमभिवाद्य च त्रिभुवनेश्वरमात्मालीकपरत्याकलनोपारूढसाध्वसं च नमस्कृत्य भक्तिप्रणतहृदयां भगवतीम्बिकाम्, तया गिरिदुहित्रा देव्या सस्मितम् अयि भद्रे, मा भैषीः ।  
+भवेदानीं भर्तृषार्श्वगामिनी ।  
+गतस्ते शापःऽ इत्यनुगृहीता सद्य एव प्रत्यापन्नमहिमा प्रतिनिवृत्त्य दृष्ट्वैव त्वां यथावदभ्यजानाम्--"कथं मत्सुत एवायं वत्सस्यार्थपालस्य प्राणभूतः सखा प्रमतिरिति पापया मयास्मिन्नज्ञानादौदासीन्यमाचरितम् ।  
+अपि चायमस्यामासक्तभावः ।  
+कन्या चैनं कामयते ।  
+युवानम् ।  
+उभौ चेमौ लक्षसुप्तौ त्रपया साध्वसेन वान्योन्यमात्मानं न विवृण्वाते ।  
+गन्तव्यं च मया ।  
+कामाघ्रातयाप्यनया कन्यया रहस्यरक्षणाय न समाभाषितः सखीजनः परिजनो वा ।  
+नयामि तावत्कुमारम् ।  
+पुनरपीममर्थं लब्धलक्षो यथोपपन्नैरुपायैः साधयिष्यतिऽ इति मत्प्रभावप्रस्वापितं भवन्तमेतदेव पत्रशयनं प्रत्यनैषम् ।  
+एवमिदं वृत्तम् ।  
+"एषा चाहं पितुस्ते पादमूलं प्रत्युपसर्पेयम्ऽ इति प्राञ्जलिं मां भूयोभूयः परिष्वज्य शिरस्युपाघ्राय कपोलयोश्चुम्बित्वा स्नेहविह्वलागतासीत् ।  
+अहं च पञ्चबाणवश्यः श्रावस्तीमभ्यवर्तिषि ।  
+मार्गे च महति निगमे नैगमानां ताम्रचूडनुद्धकोलाहलो महानासीत् ।  
+अहं च तत्र सन्निहितः किञ्चिदस्मेषि ।  
+सन्निधिनिषण्णस्तु मे वृद्धविटः को ऽपि ब्राह्मणछ शनकैः स्मतहतेमपृच्छत् ।  
+अव्रवं च-"कथमिव नारिकेलजातेः प्राच्यवाटकुक्कुटस्य प्रतीच्यवाटः पुरुषैरसमक्ष्यि बलाकाजातिस्ताम्रचूडो बलप्रमाणाधिकस्यैवं प्रतिविसृष्टःऽ इति ।  
+सो ऽपि तज्ज्ञः"किमज्ञैरेभिर्व्युत्पादितैः ।  
+तूष्णीमास्स्वऽइत्युपहस्तिकायास्ताम्बूलं कर्पूरसहितमुद्धृत्य मह्यं दत्त्वा चित्राः कथा कथयन्क्षणमतिष्ठत् ।  
+प्रायुध्यत चातिसंरब्धमनुप्रहारप्रवृत्तस्वपक्षमुक्तकण्ठीरवरवं विहङ्गमद्वयम् ।  
+जितश्चासौ प्रतीच्यवाटकुक्कुटः ।  
+सो ऽपि विटः स्ववाटकुक्कुटविजयहृष्टः, मयि वयोविरुद्धं सख्यमुपेत्य तदहरेव स्वगृहे स्नानभोजनादि कारयित्वोत्तरेद्युः क्षावस्तीं प्रति यान्तं मामनुगम्य "स्मर्तव्यो ऽस्मि सत्यर्थेऽ इति मित्रवद्विसृज्य प्रत्ययासीत् ।  
+अहं च गत्वा श्रावस्तीमध्वश्रान्तो बाह्मोद्याने लतामण्डपे शयितो ऽस्मि ।  
+हंसरवप्रबोधितश्चोत्थाय कामपि क्वणितनूपुरमुखराभ्यां चरणाभ्यां मदन्तिकमुपसन्तीं युवतीमद्राक्षम् ।  
+सा त्वागत्य स्वहस्तवर्तिनि चित्रपटे लिखितं मत्सदृशं कमपि पुंरूपं मां च पर्यायेण निर्वर्णयन्ती सविस्मयं सवितर्कं सहर्षं च क्षणमवातिष्ठत् ।  
+मयापि तत्र चित्रपटे मत्सादृश्यं पश्यता तद्दृष्टिचेष्टितमनाकस्मिकं मन्यमानेन "ननु सर्वसाधारणो ऽयंरमणीयः पुण्यारामभूमिभागः ।  
+किमिति चिरस्थितिक्लेशो ऽनुभूयते ।  
+ननूपवेष्टव्यम्ऽ इत्यभिहिता सा सस्मितम् "अनुगृहीतास्मिऽ इति न्यपीदत् ।  
+सङ्कथा च देशवार्तानुविद्धा काचनावयोरभूत् ।  
+कथासंश्रिता च सा "देशातिथिरसि ।  
+दृश्यन्ते च ते ऽध्वश्रान्तानीव गात्राणि ।  
+यदि न दोषो मद्गृहे ऽद्य विश्रमितुमनुग्रहः क्रियताम्ऽ इत्यसंसत् ।  
+अहं च "अयि मुग्धे, नैष दोषः, गुण एवऽ इति तदनुमार्गगामी तद्गृहगतो राजार्हेण स्नानभोजनादिनोपचरितः, सुखं निषण्णो रहसि पर्यपृच्छ्ये-महाभाग, दिगन्तराणि भ्रमता कच्चिदस्ति किञ्चिदद्भुतं भवतोपलब्धम्ऽ इति ।  
+ममाभवन्मनसि "महदिदमाशास्पदम् ।  
+एषा खलु निखिलपरिजनसम्बाधसंलक्षितायाः सखी राजदारिकायाः ।  
+चित्रपटे चास्मिन्नपि तदुपरि विरचितसितवितानं हर्म्यतलम्, तद्गतं च प्रकामविस्तीर्णं शरदभ्रपटलपाण्डुरं शयनम्, तदधिशायिनी च निद्रालीढलोचना ममैवेयं प्रतिकृतिः अतो नूनमनङ्गेन सापि राजकन्या तावतीं भूमिमारोपिता ।  
+यस्यामसह्यमदनज्वरव्यथितोन्मादिता सती सखीनर्बन्धपृष्टविक्रियानिमित्ता चातुर्येणैतद्रूपनिर्माणेनैव समर्थमुत्तरं दत्तवती ।  
+रूपसंवादाच्च संशयादनया पृष्टो भिन्द्यामस्याः संशयं यथानुभवकथनेनऽ इति जातनिश्चयो ऽब्रवम्-"भद्रे, देहि चित्रपटम्ऽ इति ।  
+सा त्वर्पितवती मद्धस्ते ।  
+पुनस्तमादाय तामपि व्याजसुप्तामुल्लसन्मदनरागविह्वलां वल्लभां तत्रैवाभिलिख्य "काचिदेवम्भूता युवतिरीदृशस्य पुंसः पार्श्वशायिन्यरण्यानीप्रसुप्तेन मयोपलब्धा ।  
+किलैष स्वप्नःऽ इत्यालपं च ।  
+हृष्टया तु तया विस्तरतः पृष्टः सर्वमेव वृत्तान्तमकथयम् ।  
+असौ च सख्या मन्निमित्तान्यवस्थान्तराण्यवर्णयत् ।  
+तदाकर्ण्य च यदि तत्र सख्या मदनुग्रहोन्मुखं मानसम् ।  
+गमय कानिचिदहानि ।  
+कमपि कन्यापुरे निराशङ्कनिवासकरणमुपायमारचय्यागमिष्यामिऽ इति कथञ्चिदेनामभ्युपगमय्य गत्वा तदेव खर्वटं वृद्धविटेन समगंसि ।  
+ससम्भ्रमं सो ऽपि विश्रमय्य तथैव स्नानभोजनादि कारयित्वा रहस्यपृच्छम्-"आर्य, कस्य हेतोरचिरेणैवप्रत्यागतो ऽसिऽ ।  
+प्रत्यवादिषमेनम्-"स्थान एवाहमार्येणास्मि पृष्टः ।  
+श्रूयताम् ।  
+अस्ति हि श्रावस्तीनाम नगरी ।  
+तस्याः पतिरपर इव धर्मपुत्रो धर्मवर्धनो नाम राजा ।  
+तस्य दुहिता, प्रत्यादेश इव श्रियः, प्राणा इव कुसुमधन्वनः सौकुमार्याविडम्बितनवमालिका, नवमालिका नाम कन्यका ।  
+सा मया समापत्तिदृष्टा कामनाराचपङ्क्तिमिव कटाक्षमालां मम मर्मणि व्यकिरत् ।  
+तच्छल्योद्धरणाक्षमश्च धन्वन्तरिसदृशस्त्वदृते नेतरो ऽस्ति वैद्य इति प्रत्यागतो ऽस्मि ।  
+तत्प्रसीद कञ्चिदुपायमाचरितुम् ।  
+अयमहं परिवर्तितस्त्रीवेषस्ते कन्या नाम भवेयम् ।  
+अनुगतश्च मया त्वमुपगम्य धर्मासनगतं धर्मवर्धनं वक्ष्यसि--"ममेयमेकैव दुहिता ।  
+जातमात्रायां त्वस्यां जनन्यस्याः संस्थिता ।  
+माता च पिता च भूत्वाहमेव व्यवर्धयम् ।  
+एतदर्थमेव विद्यामयं शुल्कमर्जितुं गतो ऽबूदवन्तिनगरीमज्जयिनीमस्मद्वैवाह्यकुलजः को ऽपि विप्रदारकः ।  
+तस्मै चेयमनुमता दातुमितरस्मै न योग्या ।  
+तरुणीभूता चेयम् ।  
+स च विलम्बितः ।  
+तेन तमानीय पाणिमस्या ग्राहयित्वा तस्मिन् न्यस्तभारः सन्न्यसिष्ये ।  
+दुरभिरक्षतया तु दुहितॄणां मुक्तशैशवानाम्, विशेषतश्चामातृकाणाम्, इह देवं मातृपितृस्थानीयं प्रजानामापन्नशरणमागतो ऽस्मि ।  
+यदि वृद्धं ब्राह्मणमधीतिनमगतिमतिथिं च मामनुग्राह्यपक्षे गणयत्यादिराजचरितधुयो देवः, सैषा भवद्भुजतरुच्छायामखण्डितचारित्रा तावदध्यास्तां यावदस्याः पाणिग्राहकमानयेयम्ऽ इति ।  
+स एवमुक्तो नियतमभिमनायमानः स्वदुहितृसन्निधौ मां वासयिष्यति ।  
+गतस्तु भवानागामिनि मासि फाल्गुने फल्गुनीषूत्तरासु राजान्तःपुरजनस्य तीर्थयात्रोत्सवो भविष्यति ।  
+तीर्थस्थानात्प्राच्यां दिशिगोरुतान्तरमतिक्रम्य, वानीरवलयमध्यवर्तिनि कार्त्तिकेयगृहे करतलगतेन शुक्लाम्बरयुगलेन स्थास्यसि ।  
+स खल्वहमनभिशङ्क एवैतावन्तं कालं सहाभिविहृत्य राजकन्यया भूयस्तस्मिन्नुत्सवे गङ्गाम्भसि विहरन्विहारव्याकुले कन्यकासमाजेमग्नोपसृतस्त्वदभ्याश एवोन्मङ्क्ष्यामि ।  
+पिनस्त्वदुपहृते वाससी परिधायापनीतदारिकावेषो जामाता नाम भूत्वा त्वामेवानुगच्छेयम् ।  
+नृपात्मजा तु मामितस्ततो ऽन्विष्यानासादयन्ती "तया विना न भोक्ष्येऽ इति रुदन्त्येवावरोधने स्थास्यति ।  
+तन्मूले च महति कोलाहले, क्रन्दत्सु परिजनेषु, रुदत्सु सखीजनेषु, शोचत्सु पौरजनेषु, किङ्कर्तव्यतामूढे सामात्ये पार्थिवे, त्वमास्थानीमेत्य मां स्थापयित्वा वक्ष्यसि-"देव, स एष मे जामाता तवार्हति श्रीभुजाराधनम् ।  
+अधीति चतुर्ष्वाम्नायेषु, गृहीती षट्स्वङ्गेषु, आन्वीक्षिकीविचक्षणः, चतुःषष्टिकलागमप्रयोगचतुरः, विशेषेण गजरथतुरङ्गतन्त्रवित्, इष्वसनास्त्रकर्मणि गदायुद्धे च निरूपमः, पुराणेतिहासकुशलः, कर्ता काव्यनाटकाख्यायिकानाम्, वेत्ता सोपनिषदोर्ऽथशास्त्रस्य, निर्मत्सरो गुणेषु, विश्रम्भी सुहृत्सु, शक्लः, संविभागशीलः, श्रुतधरः, गतस्मयश्च ।  
+नास्य दोषमणीयांसमप्युपलभे ।  
+न च गुणेष्वविद्यमानम् ।  
+तन्मादृशस्य ब्राह्मणमात्रस्य न लभ्य एव सम्बन्धी ।  
+दुहितरमस्मै समर्प्य बार्धकोचितमन्त्यमाश्रमं सङ्क्रमेयम्, यदि देवः साधु मन्यतेऽ इति ।  
+स इदमाकर्ण्य वैवर्ण्याक्रान्तवक्रः परमुपेतो वैलक्ष्यमारप्स्यते ऽनुनेतुमनित्यतादिसङ्कीर्तनेनैत्रभवन्तं मन्त्रिभिः सह ।  
+त्वं तु तेषामदत्तश्रोत्रो मुक्तकण्ठं रुदित्वा चिरस्य बाप्पाकुण्ठकण्ठः काष्ठान्याहृत्याग्निं सन्धुक्ष्य राजमन्दिरद्वारे चिताधिरोहणायोपक्रमिष्यसे ।  
+स तावदेव त्वत्पादयोर्निपत्य सामात्यो नरपतिरनूनैर्थैस्त्वामुपच्छन्द्य दुहितरं मह्यं दत्त्वा मद्योग्यतासमाराधितः समस्तमेव राज्यभारं मयि समर्पयिष्यति ।  
+सो ऽयमभ्युपायो ऽनुष्ठेयो यदि तुभ्यं रोचतेऽ इति ।  
+सो ऽपि पटुर्विटानामग्रणीरसकृदभ्यस्तकपटप्रपञ्चः पाञ्चालशर्मा यथोक्तमभ्यधिकं च निपुणमुपक्रान्तवान् ।  
+आसीच्च मम समीहितानामहीनकालसिद्धिः ।  
+अन्वभवं च मधुकर इव नवमालिकामार्द्रसुमनसम् ।  
+अस्य राज्ञः सिंहवर्मणः साहाय्यदानं सुहृत्सङ्केतभूमिगमनमित्युभयमपेक्ष्य सर्वबलसन्दोहेन चम्पामिमामुपगतो दैवाद्देवदर्शनसुखमनुभवामिऽ इति ।  
+श्रुत्वैततप्रमतिचरितं स्मितमुकुलितमुखनलिनः विलासप्रायमूर्जितम्, मृदुप्रायं चेष्टितम्, इष्ट एष मार्गः प्रज्ञावताम् ।  
+"अथेदानीमत्रभवान्प्रविशतुऽ इति मित्रगुप्तमैक्षत क्षितीशपुत्रः ॥ द्क्च्_२,५ ॥  
+    
+इति श्रीदण्डिनः कृतौ दशकुमारचरितं नाम पञ्चम उच्छ्वासः
+
+__________________________________________________________________________________
+
+स्तर्त् द्क्च् २,६:
+
+षष्ठोच्छ्वासः  
+    
+सो ऽप्याचचक्षे-देव, सो ऽहमपि सुहृत्साधारणभ्रमणकारणः सुह्मेषु दामलिप्ताह्वयस्य नगरस्य बाह्मोद्याने महान्तमुत्सवसमाजमालोकयम् ।  
+तत्र क्वचिदतिमुक्तकलतामण्डपे कमपि वीणावादेनात्मानं विनोदयन्तमुत्कण्ठितं युवानमद्राक्षम् ।  
+अप्राक्षं च-"भद्र, को नामायमुत्सवः, किमर्थं वा समारब्धः, "केन वा निमित्तेनोत्सवमनादृत्यैकान्ते भवानुत्कण्ठित इव परिवादिनीद्वितीयस्तिष्ठतिऽ इति ।  
+सो ऽभ्यधत्त-"सौम्य, सुह्यपतिस्तुङ्गधन्वनामानपत्यः पार्थितवानमुष्मिन्नायतने विस्मृतविन्ध्यवासरागं वसन्त्या विन्ध्यवासिन्याः पादमूलादपत्यद्वयम्ऽ ।  
+अनया च किलास्मै प्रतिशयिताय स्वप्ने समादिष्टम्-"समुत्पत्स्यते तवैकः पुत्रः, जनिष्यते चैका दुहिता ।  
+स तु तस्याः पाणिग्राहकमनुजीविष्यति ।  
+सा तु सप्तमाद्वर्षादरभ्यापरिणयनात्प्रतिमासं कृत्तिकासु कन्दुकनृत्येन गुणवद्भर्तृलाभाय मां समाराधयतु ।  
+यं चाभिलषेत्सामुष्मै देया ।  
+स चोत्सवः कन्दुकोत्सवनामास्तुऽ इति ।  
+ततो ऽल्पीयसा कालेन राज्ञः प्रियमहिषी मेदिनी नामैकं पुत्रमसूत ।  
+समुत्पन्ना चैका दुहिता ।  
+साद्य नाम कन्या कन्दुकावती सोमापीडां देवीं कन्दुकविहारेणाराधयिष्यति ।  
+तस्यास्तु सखी चन्द्रसेना नाम धात्रेयिका मम प्रियासीत् ।  
+सा चैषु दिवसेषु राजपुत्रेण भीमधन्वना बलवदनुरुद्धा ।  
+तदहमुत्कण्ठितो मन्मथशरशल्यदुः खोद्विग्नचेताः कलेन वीणारवेमात्मानं किञ्चिदाश्वासयन्विविक्तमध्यासेऽ इति ।  
+अस्मिन्नेव च क्षणे किमपि नूपुरक्वणितमुपातिष्ठत् ।  
+आगता च काचिदङ्गना दृष्टैव स एनामुत्फुल्लदृष्टिरुत्थायोपगूढकण्ठश्च तया तत्रैवोपाविशत् ।  
+अशंसच्च-"सैषा मे प्राणसमा, यद्विरहो दहन इव दहति माम् ।  
+इदं च मे जीवितमपहरता राजपुत्रेण मृत्युनेव निरुष्मतां नीतः ।  
+न च शक्ष्यामि राजसूनुरित्यमुष्मिन् पापमाचरितुम् ।  
+अतो ऽनयात्मानं सुदृष्टं कारयित्वा त्यक्ष्यामि निष्प्रतिक्रियान् प्राणान्ऽ इति ।  
+सा तु पर्यश्रुमुखी समभ्यधात्-"मा स्म नाथ, मत्कृते ऽध्यवस्यः साहसम् ।  
+यस्त्वमुत्तमात्सार्थवाहादर्थदासादुत्पद्य कोशदास इति गुरुभिरभिहितनामधेयः पुनर्मदत्यासङ्गाद्वेशदास इति द्विषद्भिः प्रख्यापितो ऽसु, तस्मिंस्त्वय्युपरते यद्यहं जीवेयं नृशंसो वेश इति समर्थयेयं लोकवादम् ।  
+अतो ऽद्यैव नय मामीप्सितं देशम्ऽ इति ।  
+स तु मामभ्यधत्त-"भद्र, भवद्दृष्टेषु राष्ट्रेषु कतमत्समृद्धं सम्पन्नसस्यं सत्पुरुषभूयिष्टं चऽ इति ।  
+तमहमीषद्विहस्याब्रवम्-"भद्र, विस्तीर्णेयमर्णवाम्बरा ।  
+न पर्यन्तो ऽस्ति स्थानस्थानेषु रम्याणां जनपदानाम् ।  
+अपितु न चेहिदे युवयोः सुखनिवासकारणं कमष्युपायमुत्पादयितुं शक्नुयाम् ।  
+ततो ऽहमेव भवेयमध्वदर्शी ।  
+तावतोदैरत रणितानि मणिनूपुराणाम् ।  
+अथासौ जातसम्भ्रमा "प्राप्तैवेयं भर्तृदारिका कन्दुकावती कन्दुकक्रीडितेन देवीं विन्ध्यवासिनीमाराधयितुम् ।  
+अनिषिद्धदर्शना चेयमस्मिन्कन्दुकोत्सवे ।  
+सफलमस्तु युष्मच्चक्षुः ।  
+आगच्छतं द्रष्टुम् ।  
+अहमस्याः सकाशवर्तिनी भवेयम्ऽ इत्ययासीत् ।  
+तामन्वयाव चावाम् ।  
+महति रत्नरङ्गपीठे स्थितां प्रथमं ताम्रोष्ठीमपश्यम् ।  
+अतिष्ठच्च सा सद्य एव मम हृदये ।  
+न मयान्येन वान्तराले दृष्टा ।  
+चित्रीयाविष्ठचित्तश्चाचिन्तयम्-"किमियं लक्ष्मीः ।  
+नहि नहि ।  
+तस्याः किल हस्ते विन्यस्तं कमलम्, अस्यास्तु हस्त एव कमलम् ।  
+अभुक्तपूर्वा चासौ पुरातनेन पुंसा पूर्वराजैश्च, अस्याः पुनरनवद्यमयातयामं च यौवनम्ऽ इति चिन्तयत्येव मयि, सानघसर्वगात्री व्यत्यस्तहस्तपल्लवाग्रस्पृष्टभूमिरालोलनीलकुटिलालका सविभ्रमं भगवतीमभिवन्द्य कन्दुकममन्दरागरूषिताक्षमनङ्गमिवालम्बत ।  
+लीलाशिथिलं च भूमौ मुक्तवती ।  
+मन्दोत्थितं च किञ्चित्कुञ्चिताङ्गुष्ठेन प्रसृतकोमलाङ्गुलिना पाणिपल्लवेन समाहतय हस्तपृष्टेन चोन्नीय, चटुलदृष्टिलाञ्छतं स्तबकमिव भ्रमरमालानुविद्धमवपतन्तमाकाश एवाग्रहीत् ।  
+अमुञ्चच्च ।  
+मध्यविलम्बितद्रुतलये मृदुमुदु च प्रहरन्ती तत्क्षणं चूर्णपदमदर्शयत् ।  
+प्रशान्तं च तं निर्दयप्रहारैरुदपातयत् ।  
+विपर्ययेण च प्राशमयत् ।  
+पक्षमृज्वागतं च वामदक्षिणाभ्यां कराभ्यां पर्यायेणाभिघ्नती शकुन्तमिवोदस्थापयत् ।  
+दूरोत्थितं च प्रपतन्तमाहृत्य गीतमार्गमारचयत् ।  
+प्रतिदिशं च गमयित्वा प्रत्यागमयत् ।  
+एवमनेककरणमधुरं विहरन्ती रङ्गगतस्य रक्तचेतसो जनस्य प्रतिक्षणमुच्चावचाः प्रशंसावाचः प्रतिगृह्णती, प्रतिक्षणारूढविभ्रमं कोशदासमंसे ऽवलम्ब्य कण्टकितगण्डमुत्फुल्लेक्षणं च मय्यभिमुखीभूय तिष्ठति तत्प्रथमावतीर्णकन्दर्पकारितकटाक्षदृष्टिस्तदनुमार्गविलसितलीलाञ्चितभ्रूलता, श्वासानिलवेगान्दोलितैर्दन्तच्छदरश्मिजालैर्लीलापल्लवैरिव मुखकमलपरिमलग्रहणलोलानलिनस्ताडयन्ती, मण्डलभ्रमणेषु कन्दुकस्यातिशीघ्रप्रचारतया विशन्तीव मद्दर्शनलज्जया पुष्पमय पञ्जरम्, पञ्चबिन्दुप्रसृतेषु पञ्चापि पञ्चबाणबाणआन्युगपदिवाभिपततस्त्रासेनावघट्टयन्ती, गोमूत्रिकाप्रचारषु घनदर्शितरागविभ्रमा विद्युल्लतामिव विडम्बयन्ती, भूषणमणिरणितदत्तलसंवादिपादचारम्, अपदेशस्मितप्रभानिषिक्तबिम्बाधरम्, अंसस्रंसितप्रतिसमाहितशिखण्ढभारम्, समाघट्टितक्वणितरत्नमेखलागुणम्, अञ्चितोत्थितपृथुनितम्बविलम्बितविचलदंशुकोज्ज्वलम्, आकुञ्चितप्रसृतवेल्लितभुजलताभिहतललितकन्दुकम्, आवर्जितबाहुपाशम्, उपरिपरिवर्तितत्रिकविलग्नलोलकुन्तलम्, अवगलितकर्णपूरकनकपत्रप्रतिसमाधानशीघ्रतानतिक्रमितप्रकृतक्रीडनम्, असकृदुत्क्षिष्यमाणहस्तपादबाह्माभ्यन्तरभ्रान्तकन्दुकम्, अवनमनोन्नमननैरन्तर्यनष्टदृष्टमध्ययष्टिकम्, अवपतनोत्पतननिर्व्यवस्थमुक्ताहारम्, अङ्कुरितघर्मसलिलदूषितकपोलपत्रभङ्गशोषणाधिकृतश्रवणपल्लवानिलम्, आगलितस्तनतटांशुकनियमनव्यापृतैकपाणिपल्लवं च निषद्योत्थाय निमील्योन्मील्य स्थित्वा गत्वा चैवातिचित्रं पर्यक्रीडत राजकन्या ।  
+अभिहत्य भूतलाकाशयोरपि क्रीजान्तराणि दर्शनीयान्येकेनैव वानेकेनैव कन्दुकेनादर्शयत् ।  
+चन्द्रसेनादिभिश्च प्रियसखीभिः सह विहृत्य विहृतान्ते चाभिवन्द्य देवीं मनसा मे सानुरागेणेव परिजनेनानुगम्यमाना, कुवलयशरमिव कुसुमशरस्य मय्यपाङ्गं समर्पयन्ती, सापदेशमसकृदार्त्यमानवदनचन्द्रमण्डलतया स्वहृदयमिव मत्समीपे प्रेरितं प्रतिनिवृत्तं न वेत्यालोकयन्ती, सह सखीभिः कुमारीपुरमगमत् ।  
+अहं चानङ्गविह्वलः स्ववेश्म गत्वा कोशदासेन यत्नवदत्युदारं स्नानभोजनादिकमनुभावितो ऽस्मि ।  
+सायं चोपसृत्य चन्द्रसेना रहसि मां प्रणिपत्य पत्युरंसमंसेन प्रणयपेशलमाघट्टयन्त्युपाविशत् ।  
+आचष्ट च हृष्टः कोशदासः-"भूयासमेवं यावदायुरायताक्षि, त्वत्प्रसादस्य पात्रम्ऽ इति ।  
+मया तु सस्मितमभिहितम्--"सखे, किमेतदाशास्यम् ।  
+अस्ति किञ्चिदञ्जनम् ।  
+अनया तदक्तनेत्रया राजसूनुरुपस्थितो वानरीमिवैनां द्रक्ष्यति, विरुक्तश्चैनां पुनस्त्यक्ष्यतिऽ इति ।  
+तया तु स्मेरयास्मि कथितः-"सो ऽयमार्येणाज्ञाकरो जनो ऽत्यर्थमनुगृहीतः, यदस्मिन्मन्नेव जन्मनि मानुषं वपुरपनीय वानरीकरिष्यते ।  
+तदास्तामिदम् ।  
+अन्यथापि सिद्धं नः समीहितम् ।  
+अद्य खलु कन्दुकोत्सवे भवन्तमपहसितमनोभवाकारमभिलषन्ती रोषादिव शम्बरद्विषातिमात्रमायास्यते राजपुत्री ।  
+सो ऽयमर्थो विदितभावया मया स्वमात्रे तया च तन्मात्रे, महिष्या च मनुजेन्द्राय, निवेदयिष्यते ।  
+विदितार्थस्तु पार्थिवस्त्वया दुहितुः पाणिं ग्राहयिष्यति ।  
+ततश्च त्वदनुजीविना राजपुत्रेण भवितव्यम् ।  
+एष हि देवतासमादिष्टो विधिः ।  
+त्वदायत्ते च राज्ये नालमेव त्वामतिक्रम्य मामवरोद्धुं भीमधन्वा ।  
+तत्सहतामयं त्रिचतुराणि दिनानिऽ इति मामामन्त्र्य प्रियं चोपगूह्य प्रत्ययासीत् ।  
+मम च कोशदासस्य च तदुक्तानुसारेण बहुविकल्पयतोः कथञ्चिदक्षीयत क्षपा ।  
+क्षपान्ते च कृतयथोचितनियमस्तमेव प्रियादर्शनसुभगमुद्यानोद्देशमुपागतो ऽस्मि ।  
+तत्रैव चोपसृत्य राजपुत्रो निरभिमानमनुकूलाभिः कथाभिर्मामनुवर्तमानो मुहूर्तमास्त ।  
+नीत्वा चोपकार्यामात्मसमेन स्नानबोजनशयनादिव्यतिकरेणोपाचरम् ।  
+तल्पगतं च स्वप्नेनानुभूयमानप्रियादर्शनालिङ्गनसुखमायसेन निगडेनातिबलवद्बहुपुरुषैः पीवरभुजदण्डोपरुद्धमबन्धयन्माम् ।  
+प्रतिबुद्धं च सहसा समभ्यधात्--"अयि दुर्मते, श्रुतमालपितं हतायाश्चन्द्रसेनाया जालरन्ध्रनिःसृतं तच्चेष्टावबोधप्रयुक्तयानया कुब्जया त्वं किलाभिलषितो वराक्या कन्दुकावत्या तव किलानुजीविना मया स्थधेयम्, त्वद्वचः किलानतिक्रमता मया चन्द्रसेना कोशदासाय दास्यतेऽ इत्युक्त्वा पार्श्वचरं पुरुषमेकमालोक्याकथयत्--"प्रक्षिपैनं सागरेऽ इति ।  
+स तु लब्धराज्य इवातिहृष्टः "देव, यदाज्ञापयसिऽ इति यथादिष्टमकरोत् ।  
+अहं तु निरालम्बनो भुजाभ्यामितस्ततः स्पन्दमानः किमपि काष्टं दैवदत्तमुरसोपश्लिष्य तावदप्लोषि, यावदपासरद्वासरः शर्वरी च सर्वा ।  
+प्रत्युषस्यदृस्यत किमपि वहित्रम् ।  
+अमुत्रासन्यवनाः ते मामुद्धृत्य रामेषुनाम्रे नाविकानायकाय कथितवन्तः-"को ऽष्ययमायसनिगलबद्ध एव जले लब्धः पुरुषः ।  
+सो ऽयमपि सिञ्चेत्सहसरं द्राक्षाणां क्षणेनैकेनऽ इति ।  
+अस्मिन्नेव क्षणे नैकनौकापरिवृतः को ऽपि मद्गुरभ्यधावत् ।  
+अभिभयुर्यवनाः ।  
+तावदतिजवानौकाः श्वान इव वराहमस्मत्पोतं पर्यरुत्सत ।  
+प्रावर्तत सम्प्रहारः ।  
+पराजयिषत यवनाः ।  
+तानहमगतीनवसीदतः समाश्वास्यालपिषम्-"अपनयत मे निगलबन्धनम् ।  
+अयमहमवसादयामि वः सपत्नान्ऽ इति ।  
+अमी तथाकुर्वन् सर्वांश्च तान्प्रतिभटान्भल्लवर्षिणा भीमटङ्कृतेन शार्ङ्गेण लवलवीकृताङ्गानकार्षम् ।  
+अवप्लुत्य हतविध्वस्तयोधमस्मत्पोतसंसक्तपोतममुत्र नाविकनायकमनभिसरमभिपत्य जीवग्राहमग्रहीषम् ।  
+असौ चासीत्स एव भीमधन्वा ।  
+तं चाहमवबुध्य जातव्रीडमब्रवम्-"तात, किं दृष्टानि कृतान्तविलसितानिऽ इति ।  
+ते तु सांयात्रिका मदीयेनैव शृङ्खलेन तमतिगाढं बद्ध्वा हर्षिकलकिलारवमकुर्वन्मां चापूजयन् ।  
+दुर्वारा तु सा नौरननुकूलवातनुन्ना दूरमभिपत्य कमपि द्वीपं निबिढमाश्लिष्टवती ।  
+तत्र च स्वादु पानीयमेधांसि कन्दमूलफलानि सञ्जिघृक्षवो गाढपातितशिलावलयमबातराम ।  
+तत्र चसीन्महाशैलः ।  
+सो ऽहम् "अहो रमणीयो ऽयं पर्वतनितम्बभागः, कान्ततरेयं गन्धपाषाणवत्युपत्यका, शिशिरमिदमिन्दीवरारविन्दमकरन्दबिन्दुचन्द्रकोत्तरं गोत्रवारि, रम्यो ऽयमनेकवर्णकुसुममञ्जरीभरस्तरुवनाभोगःऽ इत्यतृप्ततरया दृशा बहुबहु पश्यन्नलक्षिताध्यारूढक्षोणीधरशिखरः शोणीभूतमुत्प्रभाभिः पद्मरागसोपानशिलाभिः किमपि नालीकपरागधूसरं सरः समध्यगाम् ।  
+स्नातश्च कांश्चिदमृतस्वादून्बिसभङ्गानास्वाद्य, अंसलग्नकह्लारस्तीरवर्तिना केनापि भीमरूपेण ब्रह्माराक्षसेनाभिपत्य "को ऽसि, कुतस्त्यो ऽसिऽ इति निर्भर्त्सयताभ्यधीये ।  
+निर्भयेन च मया सो ऽब्यधीयत-"सौम्य, सो ऽहमस्मि द्विजन्मा ।  
+शुत्रहस्तादर्णवम्, अर्णवाद्यवननावम्, यवननावश्चित्रग्रावाणमेनं पर्वतप्रवरं गतः, यदृच्छयास्मिन्सरसि विश्रान्तः, भद्रं तवऽ इति ।  
+सो ऽब्रूत-"न चेद्ब्रवीषि प्रश्नान्, अश्नामित्वाम्ऽ इति ।  
+मयोक्तम्-"पृच्छ तावत् ।  
+भवतुऽ इति ।  
+अथावयोरेकयार्ययासीत्संलाप:- "किं क्रूरं स्त्रीहृदयं किं गृहिणः प्रियहिताय दारगुणाः ।  
+कः कामः सङ्कल्पः किं दुष्करसाधनं प्रज्ञा ॥  
+तत्र धूमिनीगोमिनीनिम्बवतीनितम्बवत्यः प्रामाणम्ऽ इत्युपदिष्टो मया सो ऽब्रूत-"कथय, कीदृश्यस्ताःऽ इति ।  
+अत्रोदाहरणम्-"अस्ति त्रिगर्तो नाम जनपदः ।  
+तत्रासन्गृहिणस्त्रयःऽ स्फीतसारधनाः सोदर्या धनकधान्यकधन्यकाख्याः ।  
+तेषु जीवत्सु न ववर्ष वर्षाणि द्वादश दशशताक्षः, क्षीणसारं सस्यम्, ओषध्यो बन्ध्याः, न फलवन्तो वनस्पतयः, क्लीवा मेधाः क्षीणस्रोतसः स्रवन्त्यः, पङ्कशेषाणि पल्वलानि, निर्निस्यन्दान्युत्समण्डलानि, विरलीभूतं कन्दमूलफलम्, अवहीनाः कथाः, गलिताः कल्याणोत्सवक्रियाः, बहुलीभूतानि तस्करकुलानि, अन्योन्यमभक्षयन्प्रजाः, पर्यलुठन्नितस्ततो बलाकापाण्डुराणि नरशिरःकपालानि, पर्यहिण्डन्त शुष्काः काकमण्डल्यः, शून्यीभूतानि नगरग्रामखर्वटपुटभेदनादीनि ।  
+त एते गृहपतयः सर्वधान्यनिचयमुपयुज्याजाविकटं गवलगणं गवां वृथं दासीदासजनमपत्यानि ज्येष्ठमध्यमभार्ये च क्रमेण भयित्वा "कनिष्ठभार्या धूमिना श्वो भक्षणीयाऽ इति समकल्पयन् ।  
+अथ कनिष्ठो धन्यकः प्रियां स्वामत्तुमक्षमस्तया सह तस्यामेव निश्यपासरत् ।  
+मार्गक्लान्तां चोद्वहन्वनं जगाहे ।  
+स्वमांसासृगपनीतक्षुत्पिपासां तां नयन्नन्तरे कमपि निकृत्तपाणिपादकर्णनासिकमवनिपृष्टे विचेष्टमानं पुरुषमद्राक्षीत् ।  
+तमप्यार्द्राशयः स्कन्धेनोद्वहन्कन्दमूलमृगबहुले गहनोद्देशे यत्नरचितपर्णशालश्चिरमवसत् ।  
+अमुं च रोपितव्रणमिगुदीतैलादिभिरामिषेण शाकेनात्मनिर्विशेषं पुपोष ।  
+पुष्टं च तमुद्रिक्तधातुमेकदामृगान्वेषणाय च प्रयाते धन्यके सा धूमिनी रिरंसयोपातिष्ठत ।  
+भर्त्सितापि तेन बलात्कारमरीरमत् ।  
+निवृत्तं च पतिमुदकाभ्यर्थिनम् "उद्धृत्य कूपात्पिब, रुजाति मे शिरः शिरोरोगःऽ इत्युदञ्चनं सरज्जुं पुरश्चिक्षेप ।  
+उदञ्चयन्तं च तं कूपादपः, क्षणात्पृष्ठतो गत्वा प्रणुनोद ।  
+तं च विकलं स्कन्धेनोदुह्य देशाद्देशान्तरं परिभ्रमन्ती पतिव्रताप्रतीतिं लेभे, बहुविधाश्च पूजाः ।  
+पुनरवन्तिराजानुग्रहादतिमहत्या भूत्या न्यवसत् ।  
+अथ पानीयार्थिसार्थजनसमापत्तिदृष्टोद्धृतमवन्तिषु भ्रमन्तमाहारार्थिनं भर्तारमुपलभ्य सा धूमिनी येन मे पतिर्विकलीकृतः स दुरात्मायम्ऽ इति तस्य साधोश्चित्रवधमज्ञेन राज्ञा समादेशयाञ्चकार ।  
+धन्यकस्तु दत्तपश्चाद्बन्दो बध्यभूमिं नीयमानः सशेषत्वादायुषः "यो मया विकलीकृतो ऽभिमतो भिक्षुः, स चेन्मे पापमाचक्षीत, युक्तो मे दण्डऽ इत्यदीनमधिकृतं जगाद ।  
+"को दोषःऽ इत्युपनीय दर्शिते ऽमुष्मिन्स विकलः पर्यश्रुः पादपतितस्ततस्य सादोस्तत्सुकृतमसत्याश्च तस्यास्तथाभूतं दुश्चरितमार्यबुद्धिराचचक्षे ।  
+कुपितेन राज्ञा विरूपितमुखी सा दुष्कृतकारिमी कृता श्वभ्यः पाचिका ।  
+कृतश्च धन्यकः प्रसादभूमिः तद्ब्रवीमि-"स्त्रीहृदयं क्रूरम्ऽ इति ।  
+पिनरनुयुक्तो गोमिनीवृत्तान्तमाख्यातवान्-"अस्ति द्रविडेषु काञ्चो नामनगरी ।  
+तस्यामनेककोटिसारः श्रेष्ठिपुत्रः शक्तिकुमारो नामासीत् ।  
+सो ऽष्टादशवर्षदेशीयश्चिन्तामापेदे-"नास्त्यदाराणामनुगुणदाराणां वा सुखं नाम ।  
+तत्कथं नु गुणवद्विन्देयं कलत्रम्ऽ ति ।  
+अथ वरप्रत्ययाहृतेषु दारेषु यादृच्छिकीं सम्पत्तिमनभिसमीक्ष्य कार्तान्तिको नाम भूत्वा वस्त्रान्तपिनद्धशालिप्रस्थो भुवं बभ्राम ।  
+"लक्षणज्ञो ऽयम्ऽ इत्यमुष्मै कन्याः कन्यावन्तः प्रदर्शयाम्बभूवुः ।  
+यां काचिल्लक्षणवतीं सवर्णां कन्यां दृष्ट्वा स किल स्म ब्रवीति-"भद्रे, शक्नोपि किमनेन शालिप्रस्थेन गुणवदन्नमस्मानभ्यवहारयितुम्ऽ इति ।  
+स हसितावधूतो गृहाद्गृहं प्रविश्याभ्रमत् ।  
+एकदा तु शिबिषु पट्टने सह पितृब्यामवसितमहर्धिमवशीर्णभवनसारां धात्र्या प्रदर्श्यमानां काचन विरलभूषणां कुमारीं ददर्श ।  
+अस्यां संसक्तचक्षुश्चातर्कयत्-"अस्याः खलु कन्यकायाः सर्व एवावयवा नातिस्थूला नातिकृशा नातिह्रस्वा नातिदीर्घा न विकटा मृजावन्तश्च ।  
+रक्ततलाङ्गुलीयवमत्स्यकमलकलशाद्यनेकपुण्यलेखालाञ्छितौ करौ, समगुल्फसन्धी मांसलावशिरालौ चाङ्घ्री, जङ्घे चानुपूर्ववृत्ते, पीवरोरुग्रस्ते इव दुरुपलक्ष्ये जानुनी, सकृद्विभक्तश्चतुरस्रः ककुन्दरविभागशोभी रथाङ्गाकारसंस्थितश्च नितम्बभागः तनुतरमीषन्निम्नं गम्बीरं नाभिमण्डलम्, वलित्रयेण चालङ्कृतमुदरम्, उरोभागव्यापिनावुन्मग्नचूचुकौ विशालारम्भशोभिनौ पयोधरौ, धनधान्यपुत्रभूयस्त्वचिह्नलेखालाञ्छिततले स्निग्धोदग्रकोमलनखमणी ऋज्वनुपूर्ववृत्तताम्राङ्गुली सन्न्नतांसदेशेसौकुमार्यवत्यौ निमग्नपर्वसन्धी च बाहुलते, तन्वी कम्बुवृत्तबन्धुरा च कन्धरा, वृत्तमध्यविभक्तरागाधरम्, असङ्क्षिप्तचारुचिबुकम्, आपूर्णकठिनगण्डमण्डलम्, सङ्गतानुवक्रनीलस्निग्धभ्रूलतम्, अनतिप्रौढतिलकुसुमसदृशनासिकम्, अत्यसितधवलरक्तत्रिभागभासुरमधुराधीरसञ्चारमन्थरायतेक्षणम्, इन्दुशकलसुन्दरललाटम्, इन्द्रनीलशिलाकाररम्यालकपङ्क्ति द्विगुणकुण्डलितम्लाननालीकनालललितलम्बश्रवणपाशयुगलमाननकमलम्, अनतिभङ्गुरो बहुलः पर्यन्ते ऽप्यकपिलरुचिरायामवानेकैकनिसर्गसमस्निग्धनीलो गन्धग्राही च मूर्धजकलापः ।  
+सेयमाकृतिर्न व्यबिचरति शीलम् ।  
+आसज्जति च मे हृदयमस्यामेव ।  
+तत्परीक्ष्यैनामुद्वहेयम् ।  
+अविमृश्यकारिणां हि नियतमनेकाः पतन्त्यनुशयपरम्पराःऽ इति स्निग्धदृष्टिराचष्ट-"भद्रे, कच्चिदस्ति कौशलं शालिप्रस्थेनानेन सम्पन्नमाहारमस्मानभ्यबहारयितुम्ऽ इति ।  
+ततस्तया वृद्धदासी साकूतमालोकिता ।  
+तस्य हस्तात्प्रस्थमात्रं धान्यमादाय क्वचिदलिन्दोद्देशे सुसिक्तसम्मृष्टे दत्तपादशौचमुपावेशयत् ।  
+साकन्या तान् गन्धशालीन्सङ्क्षुद्य मात्रया विशोष्यातपे मुहुर्मुहुः परिवर्त्य स्थिरसमाया भूमौ नालीपृष्टेन मृदुमृदु घट्टयन्ती तुषैरखण्डैस्तण्डुलान्पृथक्चकार ।  
+जगाद च धात्रीम्-"मातः, एभिस्तुषैरर्थिनो भूषणमृजाक्रियाक्षमैः स्वर्णकाराः ।  
+जगाद च धात्रीम्-"मातः, एभिस्तुषैरर्थिनो भूषणमृजाक्रियाक्षमैः स्वर्णकाराः ।  
+तेभ्य इमान्दत्त्वा लब्धाभिः काकिणीभिः स्थिरतराण्यनत्यार्द्राणि नातिशुष्काणि काष्ठानि मितम्पचां स्थालीमुभे शरावे चाहरऽ इति ।  
+तथाकृते तया तांस्तण्डुलाननतिनिम्नोत्तानविस्तीर्णकुक्षौ ककुभोलूखले लोहपत्रवेष्टितमुखेन समशरीरेण विभाव्यमानमध्यतानवेन व्यायतेन गुरुणा खादिरेण मुसलेन चतुरललितक्षेपपणोत्क्षेपणायासितभुजमसकृदङ्गुलीभिरुद्धृत्योद्धृत्यावहत्य शूर्पशोधितकणकिंशारुकांस्तण्डुलानसकृदद्भिः प्रक्षाल्य क्वथितपञ्चगुणे जले दत्तचुल्लीपूजा प्राक्षिपत् ।  
+प्रश्लथावयवेषु प्रस्फुरत्सु तण्डुलेषु मुकुलावस्थामतिवरतमानेषु सङ्क्षिप्यानलमुपहितमुखपिधानया स्थाल्यान्नमण्डमगालयत् ।  
+दर्व्या चावघट्य मात्रया परिवर्त्य समपक्वेषु सिक्थेषु तां स्थालीमधोमुखीमवातिष्ठिपत् ।  
+इन्धनान्यन्तःसाराण्यम्भसा समभ्युक्ष्य प्रशमिताग्नीनि कृष्णाङ्गारीकृत्य तदर्थिभ्यः प्राहिणोत् ।  
+"एभिर्लब्धाः काकिणीर्दत्त्वा शाकं धृतं दधि तैलमामकलं चिञ्चाफलं च यथालाभमानयऽ इति ।  
+तथानुष्ठिते च तया द्वित्रानुपदंशानुपपाद्य तदन्नमण्डमार्द्र वालुकोपहितनवशरावगतमिति मृदुना तालवृन्तानिलेन शीतलीकृत्य सलवणसम्भारं दत्ताङ्गारधूपवासं च सम्पाद्य, तदप्यामलकं श्लक्ष्णपिष्टमुत्पलगन्धि कृत्वा धात्रीमुखेन स्नानाय तमचोदयत् ।  
+तया च स्नानशुद्धया दत्ततैलामलकः क्रमेण सस्नौ ।  
+स्नातः सिक्तमृष्टे कुट्टिमे फलकमारुह्य पाण्डुहरतस्य त्रिभागशेषलूनस्याङ्गणकदलीपलाशस्योपरि दत्तशरावद्वयमार्द्रमभिमृशन्नतिष्ठत् ।  
+सा तु तां पेयामेवाग्रे समुपाहरत् ।  
+पीत्वा चापनीताध्वक्लमः प्रहृष्टः प्रक्लिन्नसकलगात्रः स्थितो ऽभूत् ।  
+ततस्तस्य शाल्योदनस्य दर्वीद्वयं दत्त्वा सर्पिर्मात्रां सूपमुपदंशं चोपजहार ।  
+इमं च दध्ना च त्रिजातकावचूर्णितेन सुरभिशीतलाभ्यां च कालशेयकाञ्जिकाभ्यां शेषमन्नमभोजयत् ।  
+सशेष एवान्धस्यसावतृष्यत् ।  
+अयाचत च पानीयम् ।  
+अथ नवभृङ्गारसम्भृतमगुरुधूपधूपितमभिनवपाटलाकुसुमवसितमुत्फुल्लोत्पलग्रथितसौरभं वारि नालीधारात्मना पातयाम्बभूव ।  
+सो ऽपि मुखोपहितशरावेण हिमशिशिरकणकरालितारुणायमानाक्षिपक्ष्मा धारारवाभिनन्दितश्रवणः स्पर्शसुखोद्भिन्नरोमाञ्चकर्कशकपोलः प्रवालोत्पीडपरिमलफुल्लघ्राणारन्ध्रो माधुर्यप्रकर्षावर्जितरसनेन्द्रियस्तदच्छं पानीयमाकण्ठं पपौ ।  
+शिरःकम्पसञ्ज्ञावारिता च पुनरपरकरकेणाचमनमदत्त कन्या ।  
+वृद्धया तु तदुच्छिष्टमपोह्य हरितगोमयोपलिप्ते कुट्टिमे स्वमेवोत्तरीयकर्पटं व्यवधाय क्षणमशेत ।  
+परितुष्टश्च विधिवदुपयम्य कन्यां निन्ये ।  
+नीत्वैतदनपेक्षः कामपि गणिकामवरोधमकरोत् ।  
+तामपयसौ प्रियसखीमिवोपाचरत् ।  
+पतिं च दैवतमिव मुक्ततनद्रा पर्यचरत् ।  
+गृहकार्याणि चाहीनमन्वतिष्ठत् ।  
+परिजनं च दाक्षिण्यनिधिरात्माधीनमकरोत् ।  
+तद्गुणवशीकृतश्च भर्ता सर्वमेव कुटुम्बं तदायत्तमेव कृत्वा तदेकाधीनजीवितशरीरस्त्रिवर्गं निर्ववेश ।  
+तद्ब्रवीमि-"गृहिणः प्रियहिताय दारगुणाःऽ इति ।  
+ततस्तेनानुयुक्तो निम्बवतवृत्तमाख्यातवान्-"अस्ति सौराष्ट्रेषु वलभी नाम नगरी ।  
+तस्यां गुहगुप्तनाम्नो गुह्यकेन्द्रतुल्यविभवस्य नाविकपतेर्दुहिता रतनवती नाम ।  
+तां किल मधुमत्याः समुपागम्य बलभद्रो नाम सार्थवाहपुत्रः पर्यणैषीत् ।  
+तयापि नववध्वा रहसि रभसविघ्नितसुरतसुखो झटिति द्वेषमल्पेतरं बबन्ध ।  
+न तां पुनर्द्रष्टुमिष्टवान् ।  
+तद्गृहागमनमपि सुहृद्वाक्यशतातिवर्ती लज्जया परिजहार ।  
+तां च दुर्भगां तदाप्रभृत्येव "नेयं रत्नवती, निम्बवती चेयम्ऽ इति स्वजनः परिजनश्च परिबभूव ।  
+गते च कस्मिंश्चित्कालान्तरे सा त्वनुतप्यमाना "का मे गतिःऽ इति विमृशन्ती कामपि वृद्धप्रव्राजिकां मातृस्थानीयां देवशेषकुसुमैरुपस्थितामपश्यत् ।  
+तस्याः पुरो रहसि सकरुणं रुरोद ।  
+तयाप्यश्रुमुख्या बहुप्रकारमनुनीय रुदितकारणं पृष्टा त्रपमाणापि कार्यगौरवात्कथंविव्रवीत्-"अम्ब, किं ब्रवीमि दौर्भाग्यं नाम जीवन्मरणमेवाङ्गनानाम्, विशेषतश्च कुलवधूनाम् ।  
+तस्याहमस्म्युदाहरणभूता ।  
+मातृप्रमुखो ऽपि ज्ञातिवर्गो मामवज्ञयैव पश्यति ।  
+तेन सुदृष्टां मां कुरु ।  
+न चेत्त्यजेयमद्यैव निष्प्रयोजनान्प्राणान् ।  
+आविरामाच्च मे रहस्यं नाश्राव्यम्ऽ इति पादयोः पपात ।  
+सैनामुत्थाप्योद्वाष्पोवाच-"वत्से, माध्यवस्य साहसम् ।  
+इयमस्मि त्वन्निदेशवर्तिनी ।  
+यावति मयोपयोगस्तावति भवाम्यनन्याधीना ।  
+यद्येवासि निर्विण्णा तपश्चर त्वं मदधिष्ठिता पाललौकिकाय कल्याणाय ।  
+नन्वयमुदर्कः प्राक्तनस्य दुष्कृतस्य, यदनेनाकारेणेदृशेन शीलेन जात्या चैवम्भूतया समनुगता सती अस्मादेव भर्तृद्वेष्यतां गतासि ।  
+यदि कश्चिदस्त्युपायः पतद्रोहप्रतिक्रियायै दर्शयामुम्, मतिर्हि ते पटीयसीऽ इति ।  
+अथासौ कथञ्चित्क्षणमधोमुखी ध्यात्वा दीर्घोष्णश्वासपूर्वमवोचत्-"भगवति, पतिरेकदैवतं वनितानाम्, विशेषतः कुलजानाम् ।  
+अतस्तच्छुश्रूषणाभ्युपायहेतुभूतं किञ्चिदाचरणीयम् ।  
+अस्त्यस्मत्प्रातिवेश्यो वणिगभिजनेन विभवेन राजान्तरङ्गभावेन च सर्वपौरानतीत्य वर्तते ।  
+तस्य कन्या कनकवती नाम मत्समानरूपावयवया ममातिस्निग्धा सखी ।  
+तया सह तद्विमानहर्म्यतले ततो ऽपि द्विगुणमण्डिता विहरिष्यामि ।  
+त्वया तु तन्मातृप्रार्थनं सकरुणमभिधाय मत्पतिरेतद्गृहं कथञ्चनावेयः ।  
+समीपगतेषु च युष्मासु क्रीडामत्ता नाम कन्दुकं भ्रंशयेयम् ।  
+अथ तमादाय तस्य हस्ते दत्त्वा वक्ष्यसि-"पुत्र, तवेयं भार्यासखी निधिपतिदत्तस्य सर्वश्रेष्ठिमुख्यस्य कन्या कनकवती नाम ।  
+त्वामियमनवस्थो निष्करुणश्चेति रत्नवतीनिमित्तमत्यर्थं निन्दति ।  
+तदेष कन्दुको विपक्षधनं प्रत्यर्पणीयम्ऽ इति ।  
+स तथोक्तो नियतमुन्मुखीभूय तामेव प्रियसखीं मन्यमानो मां बद्धाञ्जलि याचमानायै मह्यं भूयस्त्वत्प्रार्थितः साभिलाषमर्पयिष्यति ।  
+"तेन रन्ध्रेणोपश्लिष्य रागमुज्ज्वलीकृत्य यथासा कृतसङ्केतो देशान्तरमादाय मां गमिष्यति तथोपपादनीयम्ऽ इति ।  
+हर्षाभ्युतेपया चानया तथैव सम्पादितम् ।  
+अथैतां कनकवतीति वृद्धतापसीविप्रलब्धो बलभद्रः सरत्नसाराभरणामादाय निशि नीरन्ध्रे तमसि प्रावसत् ।  
+सा तु तापसी वार्तामापादयत्-"मन्देन मया निर्निमित्तमुपेक्षिता रत्नवती, श्वशुरौ च परिभूतौ, सुहृदश्चातिवर्तिताः ।  
+तदत्रैव संसृष्टो जिवितुं जिह्नेमीति बलभद्रः पूर्वेद्युर्मामकथयत् ।  
+नूनमसौ तेन नीता व्यक्तिश्चाचिराद्भविष्यतिऽ इति ।  
+तच्छ्रुत्वा तद्बान्धवास्तदन्वेषणां प्रति शिथिलयत्नास्तस्थुः ।  
+रत्नवती तु मार्गे काञ्चित्पण्यदासीं सङ्गृह्य तयोह्यमानपाथेयाद्युपस्करा खटकपुरमगमत् ।  
+अमुत्र च व्यवहारकुशलो बलभद्रः स्वल्पेनैव मूलेन महद्वनमुपार्जयत् ।  
+पौराग्रगण्यश्चासीत् ।  
+परिजनश्च भूयानर्थवशात्समाजगाम ।  
+ततस्तां प्रथमदासीम् "न कर्म करोषि, दृष्टं मुष्णासि, अप्रियं ब्रवीषिऽ इति परुषमुक्त्वा बह्वताडयत् ।  
+चेटी तु प्रसादकालोपाख्यातरहस्यस्य वृत्तान्तैकदेशमात्तरोषा निर्बिभेद ।  
+तच्छुत्वा लुब्धेन तु दण्डवाहिना पौरवृद्धसन्निधौ निधिपतिदत्तस्य कन्यां कनकवतीं मोषेणापहृत्यास्मत्पुरे निवसत्येष दुर्मतिर्बलभद्रः ।  
+तस्य सर्वस्वहरणं न भवद्भिः प्रतिबन्धनीयम्ऽ इति नितरामभर्त्स्यत ।  
+भीतं च बलभद्रमभिजगाद रत्नवती-"न भेतव्यम् ।  
+ब्रूहि, नेयं निधिपतिदत्तकन्या कनकवती ।  
+बलभ्यामेव गृहगुपतदुहिता रत्नवती नामेयं दत्ता पितृभ्यां मया च न्यायोढा ।  
+न चेत्प्रतीथ प्रणिधिं प्रहिणुतास्या बन्धुपार्शवम्ऽ इति ।  
+बलभद्रस्तु तथोक्त्वा श्रेणीप्रातिभाव्येन तावदवातिष्ठत यावत्तत्पुरवृद्धलेख्यलब्धवृत्तान्तो गृहगुप्तः खेटकपुरमागत्य सह जामात्रा दुहितरमतिप्रीतः प्रत्यनैषीत् ।  
+तथा दृष्ट्वा रत्नवतीं कनकवतीति भावयतस्तस्यैव बलभद्रस्यातिवल्लभा जाता ।  
+तद्व्रवीमि-"कामो नाम सङ्कल्पःऽ इति ।  
+तदनन्तरमसौ नितम्बवतवृत्तान्तमप्राक्षीत् ।  
+सो ऽहमब्रवम्-"अस्ति शूरसेनेषु मथुरा नाम नगरी ।  
+तत्र कश्चित्कुलपुत्रः कलासु गणिकासु चातिरक्तः मित्रार्थं स्वभुजमात्रनिर्व्यूढानेककलहः, कलहकण्टक इति कर्कशैरभिख्यापिताख्यः प्रत्यवात्सीत् ।  
+स चैकदा कस्यचिदागन्तोश्चित्रकरस्य हस्ते चित्रपटं ददर्श ।  
+तत्र काचिदलेख्यगता युवतिरालोकमात्रेणैव कलहकण्ठकस्य कामातुरं चेतश्चकार ।  
+स च तमब्रवीत्-"भद्र, विरुद्धमिवैतत्प्रतिभाति यतः कुलजादुर्लभं वपुः, आभिजात्यशंसिनी च नम्रता, पाणअडुरा च मुखच्छविः, अनतिपरिभुक्तसुभगा च तनुः, प्रौढतानुविद्धा च दृष्टिः ।  
+न चैषा प्रोषितभर्तृका, प्रवासचिह्नस्य वेण्यादेरदर्शनात् ।  
+लक्ष्म चैतद्दक्षिणपार्श्ववर्ति ।  
+तदियं वृद्धस्य कस्यचिद्वणिजो नातिपुंस्त्वस्य यथार्हसम्भोगालाभपीडिता गृहिणी त्वयातिकौशलाद्यथादृष्टमालिखिता भवितुमर्हतिऽ इति ।  
+स तमभिप्रशस्याशंसत्-"सत्यमिदम् ।  
+अवन्तिपुर्यामुज्जयिन्यामनन्तकीर्तिनाम्नः सार्थवाहस्य भार्या यथार्थनामा नितम्बवती नामैषा सौन्दर्यविस्मितेन मयैवमालिखिताऽ इति ।  
+स तदैवोन्मनायमानसतदर्शनाय परिवव्राजोज्जयिनीम् ।  
+भार्गवो नाम भूत्वा भिक्षानिभेन तद्गृहं प्रविश्य तां ददर्श ।  
+दृष्ट्वा चात्यारूढमन्मथो निर्गत्य पौरमुख्येभ्येः श्मशानरक्षामयाचत ।  
+अलभत च ।  
+तत्र लब्धैश्च शवावगुण्ठनपटादिभिः कामप्यर्हन्तिकां नाम श्रमणिकामुपासाञ्चक्रे ।  
+तन्मुखेन च नितम्बवतीमुपांशु मन्त्रयामास ।  
+सा चैनां निर्भर्त्सयन्ती प्रत्याचचक्षे ।  
+श्रमणिकामुखाच्च दुष्करशीलभ्रंशां कुलस्त्रियमुपलभ्य रहसि दूतिकामशिक्षयत्-"भूयो ऽप्युपतिष्ठ सार्वाहभार्याम् ।  
+ब्रूहि चोपह्वरे संसारदोषदर्शनात्समाधिमास्थाय मुमुक्षमाणो मादृशो जनः कुलवधूनां शीलपातने घटत इति क्व घटते ।  
+एतदपि त्वामष्युदारया समृद्ध्या रूपेणातिमानुषेण प्रथमेन वयसोपपन्नां किमितरनारीसुलभं चापल स्पृष्टं न वेति परीक्षा कृता ।  
+तुष्टास्मि तथैवमदुष्टभावतया ।  
+त्वामिदानीमुत्पन्नापत्यां द्रष्टुमिच्छामि ।  
+भर्ता तु भवत्याः केनचिद्ग्रहेणाधिष्ठितः पाण्डुरोगदुर्बलो भोगे चासमर्थः स्थितो ऽभूत् ।  
+न च शक्यं तस्य विघ्नमप्रतिकृत्यापत्यमस्माल्लब्धुम् ।  
+अतः प्रसीद ।  
+वृक्षवाटिकामेकाकिनी प्रविश्य मदुपनीतस्य कस्याचिन्मन्त्रवादिनश्छन्नमेव हस्ते चरणमर्पयित्वा तदभिमन्त्रितेन प्रणयुकुपिता नाम भूत्वा भर्तारमुरसि प्रहर्तुमर्हसि ।  
+उपर्यसावुत्तमधातुपुष्टिमूर्जितापत्योत्पादनक्षमामासादयिष्यति ।  
+अनुवर्तिष्यते देवीमिवात्र भवतीम् ।  
+नात्र शङ्का कार्याऽ इति ।  
+सा तथोक्ता व्यक्तमभ्युपैष्यति नक्तं मां वृक्षवाटिकां प्रवेश्य तामपि प्रवेशयिष्यसि तावतैव त्वयाहमनुगृहीतो भवेयम्ऽ इति ।  
+सा तथैवोपग्राहितवती ।  
+सो ऽतिप्रीतस्तस्यामेव क्षपायां वृक्षवाटिकायां गतो नितम्बवतीं निर्ग्रन्थिकाप्रयत्नेनोपनीतां पाद परामृशन्निव हेमनूपुरमेकमाक्षिप्य छुरिकयोरुमूले किञ्चिदालिख्य द्रुततरमपासरत् ।  
+सा तु सान्द्रत्रासा स्वमेव दुर्णयं गर्हमाणा जिधांसन्तीव श्रमणिकां तद्व्रणं भवनदीर्घिकायां प्रक्षाल्य दत्त्वा पटबन्धनमामयापदेशादपरं चापनीय नूपुरं शयनपरा त्रिचतुराणि दिनान्येकान्ते निन्ये ।  
+स धूर्तः "निक्रेष्येऽ इति तेन नूपुरेण तमनन्तकीर्तिमुपाससद ।  
+स दृष्ट्वा " मम गृहिण्या एवैष नूपुरः, कथमयमुपलब्धस्त्वयाऽ इति तमब्रुवाणं निर्बन्धेन पप्रच्छ ।  
+स तु "वणिग्ग्रमस्याग्रे वक्ष्यामिऽ इति स्थितो ऽभूत् ।  
+पुनरसौ गृहिण्यै "स्वनूपुरयुगलं प्रेषयऽ इति सन्दिदेश ।  
+स च सलज्जं ससाध्वसं चाद्य रात्रौ विश्रामप्रविष्टायां वृक्षवाटिकायां प्रभ्रष्टो ममैकः प्रशिथिलबन्धो नूपुरः ।  
+सो ऽद्याप्यन्विष्टो न दृष्टः स पुनरयं द्वितीय इत्यपरं प्राहिणोत् ।  
+अनया च वार्तयामुं पुरस्कृत्य स वणिक् वणिग्जनसमाजमाजगाम ।  
+स चानुयुक्तो धूर्तः सविनयमावेदयत्--"विदितमेव खलु वः, यथाहं युष्मदाज्ञया पितृवनमभिरक्ष्य तदुपजीवी प्रतिवसामि ।  
+लुब्धाश्च कदाचिन्मद्दर्शनभीरवो निशि दहेयुरपि शवानीति निशास्वपिश्मशानमधिशये ।  
+अपरेद्युर्दग्धादग्धं मृतकं चितायाः प्रसभमाकर्षन्ती श्यामाकारां नारीमपश्यम् ।  
+अर्थलोभात्तु निगृह्य साध्वसं सा गृहीता शस्त्रिकयोरुमूले यदृच्छया किञ्चिदुल्लिखितम् ।  
+एव च नूपुरश्चरणादाक्षिप्तः ।  
+तावत्येव द्रुतगतिः सा पलायिष्ट ।  
+सो ऽयमस्यागमः ।  
+परं भवन्तः प्रमाणम्ऽ इति ।  
+विमर्शेन च तस्याः शाकिनीत्वमैकमत्येन पौराणामभिमतमासीत् ।  
+भर्त्रा च परित्यक्ता तस्मिन्नेव श्मशाने बहु विलप्य पाशेनोद्बध्य कर्तुकामा तेन धूर्तेन नक्तमगृह्यत ।  
+अनुनीता च सुन्दरि, त्वदाकारोन्मादितेन मया त्वदावर्जने बहूनुपायान्भिक्षुकीमुखेनोपन्यस्य तेष्वसिद्धेषु पुनरयमुपायो यावज्जीवमसाधारणीकृत्य रन्तुमाचरितः ।  
+तत्प्रसीदानन्यशरणायास्मै दासजनायऽ इति मुहुर्मुहुश्चरणयोर्निपत्य, प्रयुज्य सान्त्वशतानि, तामगत्यन्तरामात्मवश्यामकरोत् ।  
+तदिदमुक्तम्-"दुष्करसाधनं प्रज्ञाऽ इति ।  
+इदमाकर्ण्य ब्रह्मराक्षसो मामपूपुजत् ।  
+अस्मन्नेव क्षणे नातिप्रौढपुन्नागमुकुलस्थूलानि मुक्ताफलानि सह सलिलबिन्दुभिरम्बरतलादपतन् ।  
+अहं तु "किं न्विदम्ऽ इत्युच्चक्षुरालोकयन्कमपि राक्षसं काञ्चिदङ्गनां विचेष्टमानगात्रीमाकर्षन्तमपश्यम् ।  
+कथमपहरत्यकामामपि स्त्रियमनाचारो नैरृतः इति गगनगमनमन्दशक्तिरशस्त्रश्चातप्ये ।  
+स तु मत्सम्बन्धी ब्रह्माराक्षसः "तिष्ठ तिष्ठ पाप, क्वापहरसिऽ इति भर्त्सयन्नुत्थाय राक्षसेन समसृज्यत ।  
+तां तु रोषादनपेक्षापविद्धाममरवृक्षमञ्जरीमिवान्तरिक्षादापतन्तीमुन्मुखप्रसारितोभयकरः कराभ्यामग्रहषिम् ।  
+उपगृह्य च वेषमानां सम्मीलिताक्षीं मदङ्गस्पर्शसुखोनोद्भिन्नरोमाञ्चां तादृशीमेव तामनवतरयन्नतिष्ठम् ।  
+तावत्तावुभावपि शैलशृङ्गभङ्गैः पादपैश्च रभसोन्मूलितैर्मुष्टिपादप्रहारैश्च परस्परमक्षपयेताम् ।  
+पुनरहमतिमृदुनि पुलिनवति कुसुमलवलाञ्छिते सरस्तीरे ऽवरोप्य सस्पृहं निर्वर्णयंस्तां मत्प्राणैकवल्लभां राजकन्यां कन्दुकावतीमलक्षयम् ।  
+सा हि मया समाश्वास्यमाना तिर्यङ्मामभिनिरूप्य जातप्रत्यभिज्ञा सकरुमरोदीत् ।  
+अवादीच्च-"नाथ, त्वद्दर्शनादुषोढरागा तस्मिन्कन्दुकोत्सवे पुनःसख्या चन्द्रसेनाय त्वत्कथाभिरेव समाश्वासितास्मि ।  
+त्वं किल समुद्रमध्ये मज्जितः पापेन मद्भात्रा भीमधन्वनाऽ इति श्रुत्वा सखीजनं परिजनं च वञ्चयित्वा जीवितं जिहासुरेकाकिनी क्रीडावनमुपागमम् ।  
+तत्र च मामचकमत कामरूप एष राक्षसाधम ।  
+सो ऽयं मया भीतयावधूतप्रार्थनः स्फुरन्तीं मां निगृह्याभ्यधावत् ।  
+अत्रैवमवसितो ऽभूत् ।  
+"अहं च दैवात्तवैव जीवितेशस्य हस्ते पतिता ।  
+भद्रं तवऽ इति ।  
+श्रुत्वा च तया सहावरुह्य, नावमध्यारोहम् ।  
+मुक्ता च नौः प्रतिवातप्रेरिता तामेव दामलिप्तां प्रत्युपातिष्ठत् ।  
+अवरूढाश्च वयमश्रमेण "तनयस्य च तनयायाश्च नाशादनन्यापत्यस्तुङ्गधन्वा सुह्यपतिर्निष्कलः स्वयं सकलत्र एव निष्कलङ्कगङ्गारोधस्यनशनेनोपरन्तु प्रतिष्ठते ।  
+सह तेन मर्तुमिच्छत्यनन्यनाथो ऽनुरक्तः पौरवृद्धलोकःऽ इत्यश्रुमुखीनां प्रजानामाक्रन्दमशृणुम् ।  
+अथाहमस्मै राज्ञे यथावृत्तमाख्याय तदपत्यद्वयं प्रत्यर्पितवान् ।  
+प्रीतेन तेन जामाता कृतो ऽस्मि दामालिप्तेश्वरेण ।  
+तत्पुत्रो मदनुजीवा जातः ।  
+मदाज्ञप्तेन चामुना प्राणवदुज्झिता चन्द्रसेना कोशदासमभजत् ।  
+ततश्च सिंहवर्मसाहाय्यार्थमत्रागत्यं भर्तुरतव दर्शनोत्सवसुखमनुभवामिऽ इति ।  
+श्रुत्वा "चित्रेयं दैवगतिः ।  
+अवसरेषु पुष्कलः पुरुषकार-ऽ इत्यभिधाय भूयः स्मिताभिषिक्तदन्तच्छदो मन्त्रगुप्ते हर्षोत्फुल्लं चक्षुः पातयामास देवो राजवाहनः स किल करकमलेन किञ्चित्संवृताननो ललितवल्लभारभसदत्तदन्तक्षतव्यसनविह्वलधरमणिर्निरोष्ठ्यवर्णमात्मचरितमाचचक्षे ॥ द्क्च्_२,६ ॥  
+    
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते मित्रगुप्तचरितं नाम षष्ठ उच्छ्वासः  
+    
+__________________________________________________________________________________
+
+स्तर्त् द्क्च् २,७:
+
+सप्तमोच्छ्वासः  
+    
+राजाधिराजनन्दन, नगरन्ध्रगतस्य ते गतिं ज्ञास्यन्नहं च गतः कदाचित्कलिङ्गोन ।  
+कलिङ्गनगरस्य नात्यासन्नसंस्थितजनदाहस्थानसंसक्तस्य कस्यचित्कान्तारधरणिजस्यास्तीर्णसरसकिसलयसंस्तरे तले निपद्य निद्रालीढदृष्टिरशयिषि ।  
+गलति च कालरात्रिशिखण्डजालकालान्धकारे, चलितरक्षिसि क्षरितनीहारे निजनिलयनिलीननिः शेषजने नितान्तशीते निशीथे घनतरसालशाखान्तरालनिर्ह्रादिनि नेत्रनिंसिनीं निद्रां निगृह्णत्, कर्णदेशं गतं "कथं खलेनानेन दग्धसिद्धेन रिंरसाकाले निदेशं दित्सता जन एष रागेणानर्गलेनार्दित इत्थं खलीकृतः ।  
+क्रियेताम्याणकनरेन्द्रस्य केनचिदनन्तशक्तिना सिद्ध्यन्तरायऽ इति किङ्करस्य किङ्कर्याश्चातिकारतरं रटितम् ।  
+तदाकर्ण्य "क एष सिद्धः, किं चानेन किङ्करेण करिष्यतेऽ इति दिदृक्षाक्रान्तहृदयः किङ्करगतया दिशा किञ्चिदन्तरं गतस्तरलतरनरास्थिशकलरचितालङ्काराक्रान्तकायम्, दहनदग्धकाष्ठनिष्ठाङ्गाररजःकृताङ्गरागम्, तडिल्लताकारजटाधरम्, हिरण्यरेतस्यरण्यचक्रान्धकारराक्षसे क्षणगृहीतनानेन्धनग्रासचञ्चदर्चिषि दक्षिणेतरेण करेण तिलसिद्धार्थकादीन्निरन्तरचटचटायितानाकिरन्तं कञ्चिदद्राक्षम् ।  
+तस्याग्रे स कृताञ्जलिः किङ्करः "किं करणीयम्, दीयतां निदेशःऽ इत्यतिष्ठत् ।  
+आदिष्टश्चायं तेनातिनिकृष्टाशयेन-"गच्छ, कलिङ्गराजस्य कर्दनस्य कन्यां कनकलेखां कन्यागृहादिहानयऽ इति ।  
+स च तथाकार्षित् ।  
+ततश्चैनां त्रासेनालधीयसास्रजर्जरेण च कण्ठेन रणरणिकागृहीतेन च हृदयेन "हा तात, हा जननिऽ ति क्रन्दन्तीं कीर्णग्लानशेखरस्रजि शीर्णनहने शिरसिजानां सञ्चये निगृह्यासिना शिलाशितेन शिरश्चिकर्तिषयाचेष्टत ।  
+झटिति चाच्छिद्य तस्य हस्तात्तां शस्त्रिकां तया निकृत्य तस्य तच्छिरः सजटाजालम्, निकटस्थस्य कस्यचिज्जीर्णसालस्य स्कन्धरन्ध्रेन्यदधाम् ।  
+तन्निध्याय हृष्टतरः स राक्षसः क्षीणाधिरकथयत्-"आर्य, कदर्यस्यास्य कदर्थनान्न कदाचिन्निद्रायाति नेत्रे ।  
+तर्जयति त्रासयति च अकृत्ये चाज्ञां ददाति ।  
+तदत्र कल्याणराशिना साधीयः कृतम् ।  
+यदेष नरकाकः कारणानां नारकिणां रसज्ञानाय नीतः शीतेतरदीधितिदेहजस्य नगरम्, तदत्र दयानिधेरनन्ततेजसस्ते ऽयं जनः काञ्चिदाज्ञां चिकीर्षति ।  
+आदिश, अलं कालहरणेनऽ इत्यनंसीत् ।  
+आदिशं च तम्-"सखे, सैषा सज्जनाचरिता सरणिः, यदणीयसिकारणे ऽनणीयानादरः सन्दृश्यते ।  
+न चेदिदं नेच्छसि सेयं सन्नताङ्गयष्टिरक्लेशार्हासत्यनेनाकृत्यकारिणात्यर्थं क्लेशिता, तन्नयैनां निजनिलयम् ।  
+नान्यदितः किञ्चिदस्ति चित्ताराधनं नःऽ इति ।  
+अथ तदाकर्ण्य कर्णशेखरनिलीननीलनीरजायितां धीरतलतारकां दृशं तिर्यक्किञ्चिदञ्चितां सञ्चारयन्ती, सलिलचरकेतनशरासनानतां चिल्लिकालतां ललाटरङ्गस्थलीनर्तकीं लीलालसं लालयन्ती, कण्टकितरक्तगण्डलखा, रागलज्जान्तरालचारिणी, चरणाग्रेण तिरश्चीननखार्चिश्चन्द्रिकेण धरणितलं साचीकृताननसरसिजं लिखन्ती, दन्तच्छदकिसलयलङ्घिना हर्षास्रसलिलधाराशीकरकणजालक्लेदितस्य स्तनतटचन्दनस्यार्द्रतां निरस्यतास्यान्तरालनिः-सृतेन तनीयसानिलेन हृदयलक्ष्यदलनदक्षिणरतिसहचरशरस्यदायितेन तरङ्गितदशनचन्द्रिकाणि कानिचिदेतान्यक्षराणि कलकण्ठीकलान्यसृजत्-"आर्य, केन कारणेनैनं दासजनं कालहस्तादाच्छिद्यानन्तरं रागानिलचालितरणरणिकातरङ्गिण्यनङ्गसागरे किरसि ।  
+यथा ते चरणसरसिजरजःकणिका तथाहं चिन्तनीया ।  
+यद्यस्ति दया ते ऽत्रजने, अनन्यसाधारणः करणीयः स एव चरणाराधनक्रियायाम् ।  
+यदि च कन्यागाराध्यासनेरहस्यक्षरणादनर्थ आशङ्क्येत, नैतदस्ति ।  
+रक्ततरा हि नस्तत्रसख्यश्चेट्यश्च ।  
+यता न कश्चिदेतज्ज्ञास्यति तथा यतिष्यन्तेऽ इति ।  
+स चाहं देहजेनाकर्णाकृष्टसायकासनेन चेतस्यतिनिर्दयं ताडितस्तत्कटाक्षकालायसनिगडगाढसंयतः किङ्करानननिहितदृष्टिरगादिषम्-"यथेयं रथचरणजघना कथयति तथा चेन्नाचरेयम्, नयेत नक्रकतेनः क्षणेनैकेनाकीर्तनीयां दशाम् ।  
+जनं चैनं सह नयानया कन्यया कन्यागृहं हरिणनयनयाऽ इति ।  
+नीतश्चाहं निशाचरेण शारदजलधरजालकान्ति कन्यकानिकेतनम्ष तत्र च काञ्चित्कालकलां चन्द्राननानिदेशाच्चन्द्रशालैकदेशे तद्दर्शनचलितधृतिरतिष्ठम् ।  
+सा च स्वच्छन्दं शयानाः करतलालससङ्घटनापनीतनिद्राः काश्चिदधिगतार्थाः सखीरकार्षीत् ।  
+अथागत्य ताश्चरणनिहितशिरसः क्षरदस्रकरालितेक्षणा निजशेखरकेसराग्रसंलग्नपट्चरणगणरणितसंशयितकलग् इरः शनैरकथयन्-"आर्य, यदत्यादित्यतेजसस्त एषा तयनलक्ष्यतां गता, ततः कृतान्तेन गृहीता ।  
+दत्ता चेयं चित्तजेन गरीयसा साक्षीकृत्य रागानलम् ।  
+तदनेनाश्चर्यरत्नेन नलिनाक्षस्य ते रत्नशैलशिलातलस्थिरं रागतरलेनालङ्क्रियातां हृदयम् ।  
+अस्याश्चरितार्थं स्तनतटं गाढालिङ्ङ्गनैः सदृशतरस्य सहचरस्य चऽ इति ।  
+ततः सखीजनेनातिदक्षिणेन दृढतरीकृतस्नेहनिगलस्तया सन्नताङ्ग्या सङ्गत्यारंसि ।  
+अथ कदाचिदायासितजायारहितचेतसि, लालसालिलङ्घनग्लानघनकेसरे, राजदरण्यस्थलीललाटालीलायिततिलके, ललितानङ्गराजाङ्गीकृतनिर्निद्रकर्णिकारकाञ्चनच्छत्रे, दक्षिणदहनसारथिरयाहृतसहकारचञ्चरीककलिके, कालाण्डजकण्ठरागरक्तरक्ताधरारतिरणाग्रसन्नाहशीलिनि, शालिनकन्यकान्तःकरणसङ्क्रान्तरागलङ्घितलज्जे, दर्दुरगिरितटचन्दनाश्लेषशीतलानिलाचार्यदत्तनानालतानृत्यलीले काले, कलिङ्गराजः सहाङ्गनाजनेन सह च तनयया सकलेन च नगरजनेन दश त्रीणि च दिनादि दिनकरकिरणजाललङ्घनीये, रणदलिसङ्घलङ्घितनतलताग्रकिसलयालीढसैकततटे, तरलतरङ्गशीकरासारसङ्गशीतले सागरतीरकानने क्रीजारसजातासक्तिससीत् ।  
+अथ सन्ततगीतसङ्गीतसङ्गताङ्गनासहस्रशृङ्गारहलानिरर्गलानङ्गसङ्घर्षहर्षितश्च रागतृष्णैकतन्त्रस्तत्र रन्ध्र आन्ध्रनाथन जयसिंहेनसलिलतरणसाधनानीतेनानेनानेकसङ्ख्येनानीकेन द्रागागत्यागृह्यत सकलत्रः सा द्यानीयत त्रासतरलाक्षी दयिता नः सह सखीजनेन कनकलेखा ।  
+तदाहं दाहेनानङ्गदहनजनितेनान्तरिताहारचिन्तश्चिन्तयन्दयितां गलितगात्रकान्तिरित्यतर्कयम्-"गता सा कलिङ्गराजतनया जनयित्रा जनयित्र्या च सहारिहस्तम् ।  
+निरस्तधैर्यस्तां स राजा नियतं सञ्जिघृक्षेत् ।  
+तदसहा च सा सती गररसादिना सद्यः सन्तिष्ठेत ।  
+तस्यां च तादृशीं दशां गतायां जनस्यास्यानन्यजेन हन्येत शरीरधारणा ।  
+सा का स्याद्गतिःऽ इति ।  
+अत्रान्तर आन्ध्रनगरादागच्छन्नग्रजः कश्चिदैक्ष्यत ।  
+तेन चेयं कथा कथिता-"यथा किल जयसिंहेनानेकनिकारदततसङ्घर्षणजिघांसितः स कर्दनः कनकलेखादर्शनैधितेन रागेणारक्ष्यत ।  
+सा च दारिका यक्षेण केनचिदधिष्ठिता न तिष्ठत्यग्रे नरान्तरस्य ।  
+आयस्यति च नरेन्द्रसार्थसङ्ग्रहणेन तन्निराकरिष्यन्नरेन्द्रो न चास्ति सिद्धिःऽ इति ।  
+तेन चाहं दर्शताशः शङ्करनृत्यरङ्गदेशजातस्य जरत्सालस्यत्कन्धरन्द्रान्तर्जटाजालं निष्कृष्य तेन जटिलतां गतः कन्थाचीरसञ्चयान्तरितसकलगात्रः कांश्चिच्छिष्यानग्रहीषम् ।  
+तांश्चनानाश्चर्यक्रियातिसंहिताज्जनादाकृष्टान्नचेलादित्यागान्नित्यहृष्टानकाष्रम् ।  
+अयासिषं च दिनैः कैश्चिदान्ध्रनगरम् ।  
+तस्य नात्यासन्ने सलिलराशिसदृशस्य कलहंसगणदलितनलिनदलसंहतिगलिताकिञ्जल्कशकलशारस्य सारसश्रेणिशेखरसय सरसस्तीरकानने कृतानिकेतनः स्थितः शिष्यजनकथितचित्रचेष्टाकृष्टसकलनागरजनाभिसन्धानदक्षः सन्दिशिदिशीत्यकीर्त्ये जनेन-"य एष जरदरण्यस्थलीसरस्तीरे स्थण्डिलशायी यतिस्तस्य किल सकलानि सरहस्यानि सषडङ्गानि च छन्दांसिरसनाग्रे सन्निहिताति, अन्यानि च शास्त्राणि, येन यानि न ज्ञायन्ते स तेषां तत्सकाशादर्थनिर्णयं करिष्यति ।  
+असत्येन नास्यास्यं संसृज्यते ।  
+सशरीरश्चैष दयाराशिः ।  
+एतत्सङ्ग्रहेणाद्य चिरं चरितार्था दीक्षा ।  
+तच्चरणरजः कणैः कैश्चनशिरसि कीर्णैरनेकस्यानेक आतङ्कश्चिरं चिकित्सकैरसंहार्यः संहृतः तदङ्घिक्षालनसलिलसेकैर्निष्कलङ्कशिरसां नश्यन्ति क्षणेनैकेनाखिलनरेन्द्रयन्त्रलङ्घिनश्चण्डतारा ग्रहाः ।  
+न तस्य शक्यं शक्तेरियत्ताज्ञानम् ।  
+न चास्याहङ्कारकणिकाऽ इति ।  
+सा चेयं कथानेकजनास्यसञ्चारिणी तस्य कनकलेखाधिष्ठानधनदाज्ञाकरनिराक्रियाक्रियातिसक्तचेतः क्षत्र्रियस्याकर्षणायाशकत् स चाहरहरागत्यादरेणातिगरीयसार्चयन्नर्थैश्च शिष्यान्सङ्गृह्णन्निधिगतक्षणः कदाचित्काङ्क्षितार्थसाधनाय शनरैयाचिष्ट ।  
+ध्यानधीरः स्थानदर्शितज्ञानसन्निधिश्चैनं निरीक्ष्य निचाय्याकथयम्-"तात् स्थान एष हि यत्नः ।  
+तस्य हि कन्यारत्नस्य सकलकल्याणलक्षणैकराशेराधिगतिः क्षीरसागररशनालङ्कृताया गङ्गादिनदीसहस्रहारयाष्टिराजिताया धराङ्गनाया एवासादनाय साधनम् ।  
+न च स यक्षस्तदधिष्ठायी केनचिन्नरेन्द्रेण तस्या लीलाञ्चितनीलनीरजदर्शनाया दर्शनं सहते, तदत्र सह्यतां त्रीण्यहानि, यैरहं यतिष्येर्ऽथस्यास्य साधनायऽ इति ।  
+तथादिष्टे च हृष्टे क्षितीशे गते निशि निशि निर्निशाकरार्चिषि नीरन्ध्रान्धकारकणनिकरनिगीर्णदशदिशि निद्रानिगडितनिखिलजनदृशि निर्गतय जलतलनिलीनगाहनीयं नीरन्ध्रं कृच्छ्राच्छिद्रीकृतान्तरालं तदेकतः सरस्तटं तीर्थासन्निकृष्टं केनचित्खननसाधनेनाकार्षम् ।  
+घनशिलेष्टकाच्छन्नच्छिद्राननं तत्तीरदेशं जनैरशङ्कनीयं निश्चित्य, दिनादिस्ना ननिर्णिक्तगात्रश्च नक्षत्रसन्तानहारयष्ट्यग्रग्रथितरत्नम् ।  
+क्षणदान्धकारगन्धहस्तिदारणैककेसारिणम्, कनकशैलशृङ्गरङ्गलास्यलीलानटम्, गगनसागरघनतरङ्गराजिलङ्घनैकनक्रम्, कार्याकार्यसाक्षिणम्, सहस्रार्चिषं सहस्राक्षदिगङ्गनाङ्गरागरागायितकिरणजालम्, रक्तनीरजाञ्जलिनाराध्य निजनिकेतनं न्यशिश्रियम् ।  
+याते च दिनत्रये, अस्तगिरिशिखरगैरिकतटसाधारणच्छये ।  
+अचलराजकन्यकाकदर्थनयान्तरिक्षाख्येन शङ्करशरीरेण संसृष्टायाः सन्ध्याङ्गनायाः रक्तचन्दनचर्चितैकस्तनकलशदर्शनीये दिनाधिनाथे, जनाधिनाथः स आगत्य जनस्यास्य धरणिन्यस्तचरणनखकिरणच्छादितकिरीटः कृताञ्जलिरतिष्ठत् ।  
+आदिष्टश्च-"दिष्ट्या दृष्टेष्टसिद्धिः ।  
+इह जगति हि न निरीहं देहिनं श्रियः संश्रयन्ते ।  
+श्रेयांसि च सकलान्यनलसानां हस्ते नित्यसान्निध्यानि ।  
+यतस्ते साधीयसा सच्चरितेनानाकलितकलङ्केनार्चितेनात्यादररचितेनाकृष्टचेतसा जनेनानेन सरस्तथा संस्कृतम्, यथेह ते ऽद्य सिद्धिः स्यात् ।  
+तदेतस्यां निसि गलादर्दायां गाहनीयम् ।  
+गाहनानन्तरं च सलिलतले सततगतीनन्तःसञ्चारिणः सन्निगृह्य यथाशक्ति शय्याकार्या ।  
+ततश्च तटस्खलितजलस्थगितजलजखण्ढचलितदण्डकण्टकाग्रदलितदेहराजहंसत्रासजर्जररसितसन्दत्तकर्णस्य जनस्य क्षणादाकर्णनीयं जनिष्यते जलसङ्घातस्य किञ्चिदारटितम् ।  
+शान्ते च तत्र सलिलरटिते क्लिन्नगात्रः किञ्चिदारक्तदृष्टिर्येनाकारेण निर्यास्यति निचाय्य तं निखिलजननेत्रानन्दकारिणं न यक्षः शक्ष्यत्यग्रतः स्थितये ।  
+स्थिरतरनिहितस्नेहशृङ्खलानिगडितं च कन्यकाहृदयं क्षणेनैकेनासहनीयदर्शनान्तरायं स्यात् ।  
+अस्याश्च धराङ्गनाया नात्यादृतनिराकृतारिचक्रं चक्रं करतलगतं चिन्तनीयं न तत्र संशयः ।  
+तच्चेदिच्छस्यनेकशास्त्रज्ञानधीरधिषणैरधिकृतैरितरैश्च हितैषिगणैराकलय्य जालिकशतं चानाय्य, अन्तरङ्गनरशतैर्यथेष्टदृष्टान्तरालं सरः क्रियेत, रक्षा च तीरात्र्रिंशद्दण्डान्तराले सैनिकजनेन सादरं रचनीया ।  
+कस्तत्र तज्जानाति यच्छिद्रेणारयश्चिकीर्षन्तिऽ इति ।  
+तत्त्वस्य हृदयहारि जातम्, तदधिकृतैश्च तत्र कृत्ये रन्ध्रदर्शनासहेरिच्छां च राज्ञा कन्यकातिरागजनितां नितान्तनिश्चलां निश्चित्यार्थ एष न निषिद्धः ।  
+तथास्थितश्च तदासादनदृढतराशयश्च स आख्यायत-"राजन्, अत्र ते जनान्ते चिरं स्थितम्, न चैकत्र चिरस्थानं नः शस्तम् ।  
+कृतकृत्यश्चेह न द्रष्टासि ।  
+यस्य ते राष्ट्रे ग्रासाद्यासादितं तस्य ते किञ्चिदनाचर्य कार्यं गतिरार्यगर्ह्याऽ इति ।  
+तत्रैतच्चिरस्थानस्य कारणम् ।  
+तच्चाद्य सिद्धम् ।  
+गच्छ गृहान् ।  
+यथार्हजलेन हृद्यगन्धेन स्नातः सितस्रगङ्गरागः शक्तिसदृशेन दानेनाराधितधरणितलतैतिलगणस्तिलस्नेहसिक्तयष्ट्यग्रग्रथितवर्तिकाग्निशिखासहस्रग्रस्तनैशान्धकारराशिरागत्यार्थसिद्धये यतेथाःऽ इति ।  
+स किल कृतज्ञतां दर्शयन्-"असिद्धिरेषा सिद्धिः, यदसन्निधिरिहार्याणाम् ।  
+कष्टा चेयं निःसङ्गता, या निरागसं दासजनं त्याजयति ।  
+न च निषेधनीया गरीयसां गिरःऽ इति स्नानाय गृहानयासीत् ।  
+अहं च निर्गत्य निर्जने निशीथे सरस्तीररन्ध्रनिलीनः सन्नीषच्छिद्रदत्तकर्णः स्थितः ।  
+स्थिते चार्धरात्रे कृतयथादिष्टक्रियः स्थानस्थानरचितरक्षः स राजा जालिकजनानानीय निराकृतान्तःशल्यं शङ्काहीनः सरःसलिलं सलीलगतिरगाहत ।  
+गतं च कीर्णकेशं संहतकर्णनासं सरसस्तलं हास्तिनं नक्रलीलया नीरातिनिलीनतया तं तथा शयानं कन्धरायां कन्यता व्यग्रहीषम् ।  
+खरतरकालदण्डघट्टनातिचण्डैश्च करचरणघातैर्निर्दयदत्तनिग्रहः क्षणेनैकेनाजहात्स चेष्टाम् ।  
+ततश्चा कृष्य तच्छरीरं छिद्रे निधाय नीरान्निरयासिषम् ।  
+सङ्गतानां च सैनिकानां तदत्यचित्रीयताकारान्तरग्रहणम् ।  
+गजस्कन्धगतः सितच्छत्रादिसकलराजचिह्नराजितश्चण्डतरदण्डिदण्डताडनत्रस्तजनदत्तान्तरालया राजवीथ्या यातस्तां निशां रसनयननिरस्तनिद्रारतिरनैषम् ।  
+नीते च जनाक्षिलक्ष्यतां लाक्षारसदिग्धधिग्गजशिरःसदृक्षे शक्रदिगङ्गनारत्नादर्शेर्ऽकचक्रे कृतकरणीयः किरणजालकरालरत्नराजिराजितराजार्हासनाध्यासी यथासदृशाचारदर्शिनः शङ्कायन्त्रिताङ्गान्सन्निधिनिषादिनः सहायानगाहिषम्-"दृश्यतां शक्तिरार्षी, यत्तस्य यतेरजेयरयेन्द्रियाणां संस्कारेण नीरजसा नीरजसान्निध्यशालिनि सहर्षालिनि सरसि सरसिजदलसन्निकाशच्छायस्याधिकतरदर्शनयिन्याकारान्तरस्य सिद्धिरासीत् ।  
+अद्य सकलनास्तिकानां जायेत लज्जानतं शिरः ।  
+तदिदानीं चन्द्रशेखरनरकशासनसरसिजासनादीनां त्रिदशेशानां स्थानान्यादररचितनृत्यगीताराधनानि क्रियन्ताम् ।  
+ह्नियन्तां च गृहादितः क्लेशनिरसनसहान्यर्थिसार्थैर्धनानिऽ इति ।  
+आश्चर्यरसीतिरेकहृष्टदृष्टयस्ते जय जगदीश, जयेन सातिशयं दश दिशः स्थगयन्निजेन यशसादिराजयशांसिऽ इत्यसकृदाशास्यारचयन्यथादिष्टाः क्रियाः ।  
+स चाहं दयितायाः सखीं हृदयस्थानीयां शशाङ्कसेनां कन्यकां कदाचित्कार्यान्तरागतां रहस्याचक्षि-"कच्चिदयं जनः कदाचिदासीद्दृष्टःऽ इति ।  
+अथ सा हर्षकाष्ठां गतेन हृदयेनेषदालक्ष्य दशनदीधितिलतां लीलालसं लासयन्ती, ललिताञ्चितकरशाखान्तरितदन्तच्छदकिसलया, हर्षजलक्लेदजर्जरनिरञ्जनेक्षणा, रचिताञ्जलिः "नितरां जाने यदि न स्यादैन्द्रजालिकस्य जालं किञ्चिदेतादृशम् ।  
+कथं चैतत् ।  
+कथय, इति स्नेहनिर्यन्त्रणं शनैरगादीत् ।  
+अहं चास्यै कार्त्स्न्येनाख्याय, तदाननसङ्क्रान्तेन सन्देशेन सञ्जनय्यसहचर्या निरतिशयं हृदयाह्लादम्, ततश्चैतया दयितया निरर्गलीकृतातिसत्कृतकलिङ्गनाथन्यायदत्तया सङ्गत्यान्ध्रकलिङ्गराजराज्यशासी तस्यास्यारिणा लिलङ्खयिषितस्याङ्गराजस्य साहाय्यकायालघीयसा साधनेनागत्यात्र ते सखिजनसङ्गतस्य यादृच्छिकदर्शनानन्दराशिलङ्घितचेता जातःऽ इति ।  
+तस्य तत्कौशलं स्मितज्योत्स्नाभिषिक्तदन्तच्छदः सह सुहृद्भिरभिनन्द्य "चित्रमिदं महामुनेर्वृत्तम् ।  
+अत्रैव खलु फलितमतिकष्टं तपः तिष्ठतु तावन्नर्म ।  
+हर्षप्रकर्षस्पृशोः प्रज्ञासत्त्वयोर्दृष्टमिह स्वरूपम्ऽ इत्यभिधाय, पुनः "अवतरतु भवान्ऽ इति बहुश्रुते विश्रुते विकचराजीवसदृशं दृशं चिक्षेप देवो राजवाहनः ॥ द्क्च्_२,७ ॥  
+    
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते मन्त्रगुप्तचरितं नाम सप्तम उच्छ्वासः  
+    
+__________________________________________________________________________________
+
+स्तर्त् द्क्च् २,८:
+
+अष्टमोच्छ्वासः  
+    
+अथ सो ऽप्याचचक्षे-"देव, मयापि परिभ्रमता विन्ध्याटव्यां को ऽपि कुमारः क्षुधा तृषा च क्लिश्यन्नक्लेशार्हः क्वचित्कूपाभ्याशे ऽष्टवर्षदेशीयो दृष्टः ।  
+स च त्रासगद्गदमगदत्-"महाभाग, क्लिष्टस्य मे क्रियतामार्य, साहाय्यकम् ।  
+अस्य मे प्राणापहारिणीं पिपासां प्रतिकर्तुमुदकमुदञ्चन्निह कूपे को ऽपि निष्कलो ममैकशरणभूतः पतितः ।  
+तमलमस्मि नाहमुद्धर्तुम्, ।  
+इति अथाहमभ्येत्य व्रतत्या कयापि वृद्धमुत्तार्य, तं च बालं वंशनालीमुकोद्धृताभिरद्भिः फलैश्च पञ्चपैः शरक्षेपोच्छ्रितस्य लकुचवृक्षस्य शिखरात्पाषाणपातितैः प्रात्यानीतप्राणवृत्तिमापाद्य, तरुतलनिषण्णस्तं जरन्तमब्रवम्-"तात, क एष बालः, को वा भवानन्, कथं चेयमापदापन्नाऽ इति ।  
+सो ऽश्रुगद्गदमगदत्-"श्रूयतां महाभाग विदर्भो नाम जनपदः तस्मिन्भोजवंशभूषणम्, अंशावतार इव धर्मस्य, अतिसत्त्वः, सत्यवादी, वदान्यः, विनीतः, निनेता प्रजानाम्, रञ्जितभृत्यः, कीर्तिमान्, उदग्रः, बुद्धिमूर्तिभ्यामुत्थानशीलः, शास्त्रप्रमाणकः, शक्यभव्यकल्पारम्भी, सम्भावयिता बुदान् प्रभावयिता सेवकान्, उद्भावयिता बन्धून्, न्यग्भावयिता शत्रून्, असम्बद्धप्रलापेष्वदत्तकर्णः, कदाचिदप्यवितृष्णो गुणेषु, अतिनदीष्णः कलासु, नेदिष्टो धर्मार्थसंहितासु, स्वल्पे ऽपि सुकृते सुतरां प्रत्युपकर्ता, प्रत्यवेक्षिता कोशवाहनयोः, यत्नेन परीक्षिता सर्वाध्यक्षाणाम्, षाड्गुण्योपयोगनिपुणः मनुमार्गेण प्रणेता चातुर्वर्ण्यस्य, पुण्यश्लोकः, पुण्यवर्मा नामासीत् ।  
+स पुण्यैः कर्मभिः प्राण्य पुरुषायुषम्, पुनरपुण्येन प्राजानामगण्यतामरेषु ।  
+तदनन्तरमनन्तवर्मा नाम तदायतिरवनिमध्यतिष्ठत् ।  
+स सर्वगुणैः समृद्धो ऽपि दैवाद्दण्ढनीत्यां नात्यादृतो ऽभूत् ।  
+तमेकदा रहसि वसुरक्षितो नाम मन्त्रिवृद्धः पितुरस्य बहुमतः प्रगल्भवागभाषत-"तात, सर्वैवात्मसम्पदभिजनात्प्रभृत्यन्यूनैवात्रभवति लक्ष्यते ।  
+बुद्धिश्च निसर्गपट्वी, कलासु नृत्यगीतादिषु चित्रेषु च काव्यविस्तरेषु प्राप्तविस्तरा तवेतरेभ्यः प्रतिविशिष्यते ।  
+तथाप्यसावप्रतिपद्यात्मसंस्कारमर्थशास्त्रेषु, अनग्निसंशोधितेन हेमजातिर्नातिभाति बुद्धिः ।  
+बुद्धिहीनो हि भूभृदत्युच्छ्रितो ऽपि परैरध्यारुह्यमाणमात्मानं न चेतयते ।  
+न च शक्तः साध्यं साधनं वा विभ्ज्य वर्तितुम् ।  
+अयथावृत्तश्च कर्मसु प्रतिहन्यमानः स्वैः परैश्च परिभूयते ।  
+न चावज्ञातस्याज्ञा प्रभवति प्रजानां योगक्षेमाराधनाय ।  
+अतिक्रान्तशासनाश्च प्रजा यत्किञ्चनवादिन्यो यताकथञ्चिद्वर्तिन्यः सर्वाः स्थितीः सङ्किरेयुः निर्मर्यादश्च लोको लोकादितो ऽमुतश्च स्वामिनमात्मानं च भ्रंशयेत ।  
+आगमदीपदृष्टेन खल्वध्वना सुखेन वर्तते लोकयात्रा ।  
+दिव्यं हि चक्षुर्भूतभवद्भविष्यत्सु व्यवहितविप्रकृष्टादिषु च विषयेषु शास्त्रं नामाप्रतिहतवृत्ति ।  
+तेन हीनः सतोरप्यायतविशालयोर्लोचनयोरन्ध एव जन्तुरर्थदर्शनेष्वसामर्थ्यात्ऽ अतो विहाय बाह्मविद्यास्वभिषङ्गमागमय दण्डनीतिं कुलविद्याम् ।  
+तदर्थानुष्ठानन चावर्जितशक्तिसिद्धिरस्खलितशासनः शाधि चिरमुदधिमेखलामुर्वीम् इति ।  
+एतदाकर्ण्य स्थान एव गुरुभिरनुशिष्ठम् ।  
+तथा क्रियतेऽ इत्यन्तःपुरमविशत् ।  
+तां च वार्तां पार्थिवेन प्रमदासन्निधौ प्रसङ्गेनोदीरितामुपनिशम्य समीपोपविष्टश्चित्तानुवृत्तिकुशलः प्रसादवित्तो गीतनृत्यवाद्यादिष्वबाह्मो बाह्मनारीपरायणः पटुरयन्त्रितमुखो बहुभङ्गिविशारदः परमर्मान्वेषणपरः परिहासयिता परिवादरुचिः पैशुन्यपण्ढितः सचिवमण्डलादप्युत्कोचहारी सकलदुर्नयोपाध्यायः कामतन्त्रकर्णधारः कुमारसेवको विहारभद्रो नाम स्मितपूर्वं व्यज्ञपयत्-"देव, दैवानुग्रहेण यदि कश्चिद्भाजनं भवति विभूतेः, तमकस्मादुच्चावचैरुपप्रलोभनैः कदर्थयन्तः स्वार्थं साधयन्ति शिरः, बद्ध्वा द--भिः, अजिनेनाच्छाद्य, नवनीतेनोपलिप्य, अनशनं च शाययित्वा, सर्वस्वं स्वीकरिष्यन्ति ।  
+तेभ्यो ऽपि घोरतराः पाषण्ढिनः पुत्रदारशरीरजीवितान्यपि मोचयन्ति ।  
+यदि कश्चित्पटुजातीयो नास्यै मृगतृष्णिकायै हस्तगतं त्यक्तुमिच्छेत् ।  
+तमन्ये परिवार्याहुः--"एकामपि काकिणीं कार्षापणलक्षमापादयेम, शस्त्रादृते सर्वशत्रुन् घातयेम्, एकशरीरिणमपि मर्त्यं चक्रवर्तिनं विदधीमहि, यद्यस्मदुद्दिष्टेन मार्गेणाचर्यतेऽ इति ।  
+स पुनरिमान्प्रत्याह-"को ऽसौ मार्गःऽ इति ।  
+पुनरिमे ब्रुवते-"ननु चतस्रो राजविद्यास्त्रयी वार्तान्वीक्षिकी दण्डनीतिरिति ।  
+तासु तिस्रस्त्रयीवार्तान्वीक्षिक्यो महत्यो मन्दफलाश्च, तास्तावदासताम् ।  
+अधीष्व तावदृण्डनीतिम् ।  
+इयमिदानीमाचार्यविष्णुगुप्तेन मौर्यार्थे षडूभिः श्लोकसहस्रैः सङ्क्षिप्ता ।  
+सैवेयमधीत्य सम्यगनुष्ठीयमाना यथोक्तकर्मक्षमाऽ इति ।  
+स "तथाऽ इत्यधीते ।  
+शृणोति च ।  
+तत्रैव जरां गच्छति ।  
+तत्तु किल शास्त्रं शास्त्रान्तरानुबन्धि ।  
+सर्वमेव वाङ्मयमविदित्वा न तत्त्वतो ऽधिगंस्यते ।  
+भवतु कालेन बहुनाल्पेन वा तदर्थाधिगतिः ।  
+अधिगतशास्त्रेण चादावेव पुत्रदारमपि न विश्वास्यम् ।  
+आत्मकृक्षेरपि कृते तण्डुलैरियद्भिरियानोदनः सम्पद्यते ।  
+इयत ओदनस्य पाकायेतावदिन्धनं पर्याप्तमिति मानोन्मानपूर्वकं देयम् ।  
+उत्थितेन च राज्ञा क्षालिताक्षालिते मुखे मुष्टिमर्धमुष्टिं वाभ्यन्तरीकृत्य कृत्स्नमायव्ययजातमह्नः प्रथमे ऽष्टमे वा भागे श्रोतव्यम् ।  
+शृण्वत एवास्य द्विगुणमपहरन्ति ते ऽध्यक्षधूर्ताश्चत्वारिंशतं चाक्योपदिष्टानाहरणोपायान्सहस्रधात्मबुद्ध्यैव ते विकल्पयितारः ।  
+द्वितीये ऽन्योन्यं विवदमानानां जनानामाक्रोशाद्दह्यमानकर्णः कष्टं जीवतिः तत्रारि प्राड्विवाकादयः स्वेच्छया जयपरौजया विदधानाः पापेनाकीर्त्या च भर्तारमात्मनश्चार्थैर्योजयन्ति ।  
+तृतीये स्नातुं च लभते ।  
+भुक्तस्य यावदन्धःपरिणआमस्तावदस्य विषभयं न शाम्यत्येव ।  
+चतुर्थे हिरण्यप्रतिहाय हस्तं प्रसारयन्नेवोत्तिष्ठति ।  
+पञ्चमे मन्त्रचिन्तया महान्तमायासमनुभवति ।  
+तत्रापि मन्त्रिणो मध्यस्था इवान्योन्यं मिथः सम्भूय दोषगुणौ दूतचारहवाक्यानि शक्याशक्यतां देशकालकार्यावस्थाश्च स्वेच्छया विपरिवर्तयन्तः, स्वपरिमित्रमण्डलान्युपजीवन्ति ।  
+बाह्माभ्यन्तरांश्च कोपान् गूढमुत्पाद्य प्रकाशं प्रशमयन्त इव स्वामिनमवशमवगृह्णन्ति ।  
+षष्ठे स्वैरविहारो मन्त्रो वा सेव्यः ॥  
+सो ऽस्यैतावान्स्वैरविहारकालो यस्य तिस्रस्त्रिपादोत्तरा नाडीकाः ।  
+सप्तमे चतुरङ्गबलप्रत्यवेक्षणप्रयासः ।  
+अष्टमे ऽस्य सेनापतिसखस्य विक्रमचिन्ताक्लेशः ।  
+पुनरुपास्यैव सन्ध्याम्, प्रथमे रात्रिभागे गूढपुरुषा द्रष्टव्याः ।  
+तन्मुखेन चातिनृशंसाः शस्त्राग्निरसप्रणिधयो ऽनुष्ठेयाः ।  
+द्वितीये भोजनानन्तरं श्रोत्रिय इव स्वाध्यायमारभेत ।  
+तृतीये तूर्यघोषेण संविष्टश्चतुर्थपञ्चमौ शयीत किल ।  
+कथमिवास्याजस्रचिन्तायासविह्वलमनसो वराकस्य निद्रासुखमुपनमेत् ।  
+पुनः षष्ठे शास्त्रचिन्ताकार्यचिन्तारम्भः ।  
+सप्तमे तु मन्त्रग्रहो दूताभिप्रेषणानि च ।  
+दूताश्च नामोभयत्र प्रियाख्यानलब्धानर्थान्वीतशुल्कबाधवर्त्मनि वाणिज्यया वर्धयन्तः, कार्यमविद्यामानमपि लेशेनोत्पाद्यानवरतं भ्रमन्ति ।  
+अष्टमे पुरोहितादयो ऽभ्येतद्यैनमाहुः-"अद्य दृष्टो दुःस्वप्नः ।  
+दुःस्था ग्रहाः शकुनानि चाशुभानि ।  
+शान्तयः क्रियन्ताम् ।  
+सर्वमस्तु सौवर्णमेव होमसाधनम् ।  
+एवं सति कर्म गुणवद्भवति ।  
+ब्रह्मकल्पा इमे ब्राह्माणाः ।  
+कृतमेभिः स्वस्त्ययनं कल्याणतरं भवति ।  
+ते चामी कष्टद्र्या बह्वपत्या यज्वानो वीर्यवन्तश्चाद्याप्यप्राप्तप्रतिग्रहाः ।  
+दत्तं चैभ्यः स्वर्ग्यमायुष्यमरिष्टनाशनं च भवतिऽ इति बहु बहु दापयित्वा तन्मुखेन स्वयमुपांशु भक्षयन्ति ।  
+तदेवमहर्निशमविहितसुखलेशमायासबहुलमविरलकदर्थनं च नयतो ऽनयज्ञस्यास्तां चक्रवार्तिता स्वमण्डलमात्रमपि दुरारक्ष्यं भवेत् ।  
+शास्त्रज्ञसमाज्ञातो हि यद्ददाति, यन्मानयति, यत्प्रियं ब्रवीति, तत्सर्वमतिसन्धातुमित्यविश्वासः ।  
+अविश्वासता हि जन्मभूमिरलक्ष्म्याः ।  
+यावता च नयेन विना न लोकयात्रा स लोक एव सिद्धः नात्र शास्त्रेणार्थः स्तनन्धयो ऽपि हि तैस्तैरुपायैः स्तनपानं जनन्या लिप्सते तदपास्यातियन्त्रणामनुभूयन्तां यथेष्टमिन्द्रियसुखानि ।  
+यऽप्युपदिशन्ति "एवमिन्द्रियाणि जेतव्यानि, एवमरिषड्वर्गस्त्याज्यः, सामादिरुपायवर्गः स्वेषु परेषु चाजस्रं प्रयोज्यः, सन्धिविग्रहचिन्तयैव नेयः कालः, स्वल्पो ऽपि सुखस्यावकाशो न देयःऽ इति, तैरप्येभिर्मन्त्रिबकैर्युष्मत्त्श्चौर्यार्जितं धनं दासीगृहेष्वेव भुज्यते ।  
+के चैते वराकाः ।  
+ये ऽपि मन्त्रकर्कशास्तन्त्रकर्तारः शुक्राङ्गिरसविशालाक्षबाहुदन्तिपुत्रपराशरप्रभृतयस्तैः-किमरिषड्वर्गो जितः, कृतं वा तैः शास्त्रानुष्ठानम् ।  
+तैरपि हि प्रारब्धेषु कार्येषु दृष्टे सिद्ध्यसिद्धी ।  
+पठन्तश्चापठद्भिरतिसन्धीयमाना बहवः ।  
+नन्विदमुपपन्नं देवस्य, यदुत सर्वलोकस्य वन्द्या जातिः, अयातयामं वयः, दर्शनीयं वपुः, अपरिमाणा विभूतिः ।  
+तत्सर्वं सर्वाविश्वासहेतुना सुखोपभोगप्रतिबन्धिना बहुमार्गविकल्पनात्सर्वकार्येष्वमुक्तसंशयेन तन्त्रावापेन मा कृथा वृक्षा ।  
+सन्ति हि ते दन्तिनां दशसहस्राणि, हयानां लक्षत्रयम्, अनन्तं च पादातम् ।  
+अपि च पूर्णान्येव हैमरत्नैः कोशगृहाणि ।  
+सर्वश्चैष जीवलोकः समग्रमपि युगसहस्रं भुञ्जानो न ते कोष्ठागाराणि रेचयिष्यति ।  
+किमिदमपर्याप्तं यदन्यायार्जितायासः क्रियते ।  
+जीवितं हि नाम जन्मवतां चतुःपञ्चान्यहानि ।  
+तत्रापि भोगयोग्यमल्पाल्पं वयः-खण्डम् ।  
+अपण्डिताः पुनरर्जयन्त एव ध्वंसन्ते ।  
+नार्जितस्य वस्तुनो लवमप्यास्वादयितुमीहन्ते ।  
+किं बहुना राज्यभारं भारक्षमेष्वन्तरङ्गेषु भक्तिमत्सु समर्प्य, अप्सरःप्रतिरूपाभिरन्तःपुरिकाभी रममाणो गीतसङ्गीतपानगोष्ठीश्च यथर्तु बध्नन्यथार्हं कुरु शरीरलाभम्ऽ इति पञ्चाङ्गीस्पृष्टभूमिरञ्जलिचुम्बितचूडश्चिरमशेत ।  
+प्राहसीच्च प्रीतिफुल्ललोचनो ऽन्तःपुरप्रमदाजनः ।  
+जननाथश्च सस्मितम् "उत्तिष्ठ, ननु हितोपदेशाद्गुरवो भवन्तः ।  
+किमिति गुरुत्वविपरीतमनुष्ठितम्ऽ इति तमुत्थाप्य क्रीडीनिर्भरमतिष्ठत् ।  
+अथैषु दिनेषु भूयोभूयः प्रस्तुतेर्ऽथे प्रेर्यमाणो मन्त्रिवृद्धेन, वचसाभ्युपेप्य मनसैवाचित्तज्ञ इत्यवज्ञातवान् ।  
+अथैवं मन्त्रिणो मनस्यभूत्--"अहो मे मोहाद्बालिश्यम् ।  
+अरुचितेर्ऽथे चोदयन्नर्थीवाक्षिगतो ऽहमस्य हास्यो जातः ।  
+स्पष्टमस्य चेष्टानामायथापूर्व्यम् ।  
+तथा हि ।  
+न मां स्निग्धं पश्यति, न स्मितपूर्वं भाषते, न रहस्यानि विवृणोति, न हस्ते स्पृशति, न व्यसनेष्वनुकम्पते, नोत्सवेष्वनुगृह्णाति, न विलोभनवस्तु प्रेषयति, न मत्सुकृतानि प्रगणयति, न मे ग-हवार्तां पृच्छति, न मत्पक्षान्प्रत्यवेक्षते, न मामासन्नकार्येष्वभ्यन्तरीकरोति, न मामन्तःपुरं प्रवेशयति ।  
+अपि च मामनर्हेषु कर्मसु नियुङ्क्ते, मदासनमन्यैरवष्टभ्यमानमनुजानाति, मद्वैरिषु विश्रम्भं दर्शयति, मदुक्तस्योत्तरं न ददाति, मत्समानदोषान्विगर्हति, मर्मणि मामुपहसति, स्वमतमपि मया वर्ण्यमानं प्रतिक्षिपति, महार्हाणि वस्तूनि मत्प्रहितानि नाभिनन्दति, नयज्ञानां स्खलितानि मत्समक्षं मूर्खैरुद्धोषयति, सत्यमाहचाणक्यः-"चित्तज्ञानानुवर्तिनो ऽनर्था अप प्रियाः स्युः ।  
+दक्षिणा अप तद्भावबहिष्कृता द्वेष्या भवेयुःऽ इति ।  
+तथापि का गतिः ।  
+अविनीतो ऽपि न परित्याज्यः पितृपितामहानुयातैरस्मादृशैरयमधिपतिः ।  
+अपरित्यजन्तो ऽपि कमुपकारमश्रूयमाणवाचः कुर्मः ।  
+सर्वथा नयज्ञस्य वसन्तभानोरश्मकेन्द्रस्य हस्ते राज्यमिदं पतितम् ।  
+अपि नामापदो भाविन्यः प्रकृतिस्थमेनमापादयेयुः ।  
+अनर्थेषु सुलभव्यलीकेषु क्वचिदुत्पन्नो ऽपि द्वेषः सद्वृत्तमस्मैरोचयेत् ।  
+भवतु भविता तावदनर्थः ।  
+स्तम्भितपिशुनजिह्वो यथाकथञ्चिदभ्रष्टपदस्तिष्ठेयम्ऽ इति ।  
+एवं गते मन्त्रिणि, राजनि च कामवृत्ते, चन्द्रपालितो नामाश्वकेन्द्रामात्यस्येन्द्रपालितस्य सूनुः, असद्वृत्तः पितृनिर्वासितो नाम भूत्वा, बहुभिश्चारणगणैर्बह्वीभिरनल्पकौशलाभिः शिल्पकारिणीभिरनेकच्छन्नकिङ्करैश्च परिवृतो ऽब्येत्य विविधाभिः क्रीडाभिर्विहारभद्रमात्मसादकरोत् ।  
+अमुना चैव सङ्क्रमेण राजन्यास्पदमलभत ।  
+लब्धरन्ध्रश्च स यद्यद्वय्यसनमारभते तत्तथेत्यवर्णयत्--"देव, यथा मृगया ह्यौपकारिकी न तथान्यत् ।  
+अत्र हि व्यायामोत्कर्षादापत्सूपकर्ता दीर्घाध्वलङ्घनक्षमो जङ्घाजवः, कफापचयादारोग्यैकमूलमाशयाग्निदीप्तिः, मेदोपकर्षादङ्गानां स्थैर्यकार्कश्यातिलाघवादीनि, शीतोष्णवातवर्षक्षुत्पिपासासहत्वम्, सत्त्वानामवस्थान्तरेषु चित्तचेष्टितज्ञानम्, हरिणगवलगवयादिवधेन सस्यलोपप्रतिक्रिया, वृकव्याघ्नादिघातेन स्थलपथशल्यशोधनम्, शैलाटवीप्रदेशानां विविधकर्मक्षमाणामालोचनम्, आटविकवर्गविश्रम्भणम्, उत्साहशक्तिसन्धुक्षणेन प्रत्यनीकवित्रासनमिति बहुतमा गुणाः ।  
+द्यूते ऽपि द्रव्यराशेस्तृणवत्त्यागादनुपमानमाशयौदार्यम्, जयपराजयानवस्थानाद्धर्षविवादयोरविवेयत्वम्, पौरुषैकनिमित्तस्यामर्षस्य वृद्धिः, अक्षहस्तभूम्यादिगोचराणामत्यन्तदुरुपलक्ष्याणां कूटकर्मणामुपलक्षणादनन्तबुद्धिनैपुण्यम्, एकविषयोपसंहाराच्चित्तस्यातिचित्रमैकाग्र्यम्, अध्यवसायसहचरेषु साहसेष्वतिरतिः, अतिकर्कशपुरुषप्रतिसंसर्गादनन्यधर्षणीयता, मानावधारणम्, अकृपणं च शरीरयापनमिति ।  
+उत्तमाङ्गनोपभोगे ऽप्यरह्थधर्मयोः सफलीकरणम्, फुष्कलः पुरुषाभिमानः भावज्ञानकौशलम्, अलोभक्लिष्टमाचेष्टितम्, अखिलासु कलासु वैचक्षण्यम्, अलब्धोपलब्धिलब्धानुरक्षणरक्षितोपभोगभुक्तानुसन्धानरुष्टानुनयादि ष्वजस्रमभ्युपायरचनया बुद्धिवाचोः पाटवम्, उत्कृष्टशरीरसंस्कारात्सुभगवेषतया लोकसम्भावनीयता, परं सुहृत्प्रियत्वम्, गरीयसी परिजनव्यपेक्षा, स्मितपूर्वाभिभाषित्वम्, उद्रिक्तसत्त्वता, दाक्षिण्यानुवर्तनम् ।  
+अपत्योत्पादनेनोभयलोकश्रेयस्करत्वमिति ।  
+पाने ऽपि नानाविधरागभङ्गपटीयसामासवानामासेवनात्स्पृहणीयवयोव्यवस्थापनम्, अहङ्कारप्रकर्षादशेषदुः-खतिरस्करणम्, अङ्गजरागदीपनादङ्गनोपभोगशक्तिसन्धुक्षणम्, अपराधप्रमार्जनान्मनःशल्योन्मार्जनम्, अङ्गजरागदीपनादङ्गनोपभोगशक्तिसन्धुक्षणम्, अपराधप्रमार्जनान्मनःशल्योन्मार्जनम्, अश्राव्यशंसिभिरनर्गलप्रलापैर्विश्वासोपबृंहणम्, मत्सराननुबन्धादानन्दैकतानता, शब्दादीनामिन्द्रियार्थानां सातत्येनानुभवः, संविभागशीलतया सुहृद्वर्गसंवर्गणम्, अनुपमानमङ्गलावण्यम्, अनुत्तराणि विलसितानिम्, भयार्तिहरणाच्च साङ्ग्रमिकत्वमिति ।  
+वाक्पारुष्यं दण्डो दारुणो दूषणानि चार्थानामेव यथावकाशमौपकारिकाणि ।  
+नहि मुनिरिव नरपतिरुपशमरतिरभिभवितुमरिकुलमलम्, अबलम्बितुं च लोकतन्त्रम्ऽ इति ।  
+असावपि गुरुपदेशमिवात्यादरेण तस्य मतमन्ववर्तत ।  
+तच्छीलानुसारिण्यश्च प्रकृतयो विशृङ्खलमसेवन्त व्यसनानि ।  
+सर्वश्च समानदोषतया न कस्यचिच्छिद्रान्वेषणायायतिष्ट ।  
+समानभर्तृप्रकृतयस्तन्त्राध्यक्षाः स्वानि कर्मफलान्यभक्षयन् ।  
+ततः क्रमादायद्वाराणि व्यशीर्यन्त ।  
+व्ययमुखानि विटविधेयतया विभोरहरहर्व्यवर्धन्त ।  
+सामन्तपौरजानपदमुख्याश्च समानशीलतयोपारूढविश्रम्भेण राज्ञा सजानयः पानगोष्ठीष्वभ्यन्तरीकृताः स्वंस्वमाचारमत्याचारिषुः ।  
+तदङ्गानासु चानेकापदेशपूर्वमपाचरन्नरेन्द्रः ।  
+तदन्तःपुरेषु चामी भिन्नवृत्तेषु मन्द्रत्रासा बहुसुखैरवर्तन्त ।  
+सर्वश्च कुलाङ्गनाजनः सुलभभङ्गिभाषणरतो भग्नचारित्रयन्त्रणस्तृणायापि न गणयित्वा भर्तॄन्धातृणमन्त्रणान्यशृणोत् ।  
+तन्मूलाश्च कलहाः सामर्षाणामुदभवन् ।  
+अहन्यन्त दुर्बला बलिभिः ।  
+अपहृतानि धनवतां धनानि तस्करादिभिः ।  
+अपहृतपरिभूतयः प्रहताश्च पातकपथाः ।  
+हतबान्धवा हृतवित्ता बधबन्धातुराश्च मुक्तकण्ठमाक्रोशन्नश्रुकण्ठ्यः प्रजाः ।  
+दण्डश्चायथाप्रणीतो भयक्रोधावजनयत् ।  
+कृशकुटुम्बेषु लोभः पदमधत्तः विमानिताश्च तेजस्विनो ऽमानेनादह्यन्त ।  
+तेषु तेषु चाकृत्येषु प्रासरन्परोषजापाः ।  
+तदा च मृगयुवेषमृगबाहुल्यवर्णनेनाद्रिद्रोणीरनपसारमार्गाः सुष्कतृणवंशगुल्माः प्रवेश्य द्वारतो ऽग्निविसर्गैः, व्याघ्रादिवधे प्रोत्साह्य तन्मुखपातनैः, इष्टकूपतृष्णोत्पादनेनातिदूरहारितानां प्राणहारिभिः क्षुत्पिपासाभिवर्धनैः, तृणगुल्मगूढतटप्रदरपातहेतुभिर्विषममार्गप्रधावनैः, विषमुखीभिः क्षुरिकाभिश्चरणकण्टकोद्धरणैः विष्वग्विसरविच्छिन्नानुयातृतयैकाकीकृतानां यथेष्टघातनैः, मृगदेहापराद्धैर्नामेषुमोक्षणैः, सपणबन्धमधिरुह्याद्रिशृङ्गाणि दुरधिरोहाण्यनन्यलक्ष्यैः प्रभ्रंशनैः, आटविकच्छद्मना विपिनेषु विरलसैनिकानां प्रतिरोधनैः, अक्षद्यूतपक्षियुद्धयात्रोत्सवादिसङ्कुलेषु बलबदनुप्रवेशनैः, इतरेषां हिंसोत्पादनैः, गूढोत्पादितव्यलीकेभ्यो ऽप्रियाणि प्रकाशं लब्ध्वा साक्षिषु तद्विख्याप्याकीर्तिगुप्तिहेतुभिः पराक्रमैः, परकलत्रेषु सुहृत्तेवनाभियोज्य जारान्भर्तॄनुमयं वा प्रहृत्य तत्साहसोपन्यासैः, योग्यनारीहारितानां सङ्केतेषु प्रागुपनिलीय पश्चादभिदुत्याकीर्तनीयैः प्रमापणैः, उपप्रलोभ्य बिलप्रवेशेषु निधानखननेषु मन्त्रसाधनेषु च विघ्नव्याजसाध्यैर्व्यापादनैः, मत्तगजाधिरोहणाय प्रेय प्रत्यपायनिवर्तनैः, व्यालहस्तिनं कोषयित्वा लक्ष्यीकृतमुक्यमण्डलेष्वपक्रमणैः, योग्याङ्गनाभिरहर्निशमभिरमय्य राजयक्ष्मोत्पादनैः, वस्त्राभरणमाल्याङ्गरागादिषु रसविधानकौशलैः, चिकित्सामुखेनामयोपबर्हणैरन्यैश्चाभ्युपायेरश्मकेन्द्रप्रयुक्तास्तीक्ष्णरसदादयः प्रक्षपितप्रवीरमनन्तवर्मकटकं जर्जरमकुर्वन् ।  
+अथ वसन्तभानुर्भानुवर्माणं नाम वानवास्यं प्रोत्साह्यानन्तवर्मणा व्यग्राहयत् ।  
+तत्परामृष्टराष्ट्रपर्यन्तश्चानन्तवर्मा तमभियोक्तुं बलसमुत्थानमकरोत् ।  
+सर्वसामन्तेभ्यश्चाश्मकेन्द्रः प्रागुपेत्यास्य प्रियतरो ऽभूत् ।  
+अपरे ऽपि सामान्ताः ससगंसत ।  
+गत्वा चाभ्यर्णे नर्मदारोधसि न्यविशन ।  
+तस्मिंश्चावसरे महासामन्तस्य कुन्तलपतेरवन्तिदेवस्यात्मनाटकीयां क्ष्मातलोर्वशीं नाम चन्द्रपालितादिभिरतिप्रशस्तनृत्यकौशलामाहूयान्तवर्मा नृत्यमद्राक्षीत् ।  
+आतिरक्तश्च भुक्तवानिमां मधुमत्ताम् ।  
+अश्मकेन्द्रस्तु कुन्तलपतिमेकान्ते समभ्यधत्त-"प्रमत्त एष राजा कलत्राणि नः परामृशति ।  
+कियत्यवज्ञा सोढव्या ।  
+मम शतमस्ति हस्तिनाम्, पञ्चशतानि च ते ।  
+तदावां सम्बूय मुरलेशं वीरसेनमृचीकेशमेकवीरं कोङ्कणपतिं कुमारगुप्तं सासिक्यनाथं च नागपालमुपजपाव ।  
+ते चावश्यमस्याविनयमसहमाना अस्मन्मतेनैवोपावर्तेरन् ।  
+अयं च वानवास्यः प्रियं मे मित्रम् ।  
+अमुनैनं दुर्विनीतमग्रतो व्यतिपक्तं पृष्टतः प्राहरेम ।  
+कोशवाहनं च विभज्य गृह्णीमःऽ इति ।  
+हृष्टेन चामुनाभ्युपेते, विंशतिं वशरांशुकानाम्, पञ्चविंशतिं काञ्जनकुङ्कुमपलानाम्, प्राभृतीकृत्याप्तमुखेन तैः सामन्तैः सम्मन्त्र्य तानपि स्वमतावस्थापयत् ।  
+उत्तरेद्युस्तेषां सामन्तानां वानवास्यस्य च अनन्तवर्मा नयद्वेषादामिपत्वमगमत् ।  
+वसन्तभानुश्च तत्कोशवाहनमवशीर्णमात्माधिष्टितमेव कृत्वा यथाप्रयासं यथाबलं च विभज्य गृह्णीत ।  
+युष्मदनुज्ञया येनकेनचिदंशेनाहं तुष्यामिऽ इति शाठ्यात्सर्वानुवर्त्ती, तेनैवामिषेण निमित्तीकृतेनोत्पादितकलहः सर्वसामन्तानध्वंसयत् ।  
+तदीयं च सर्वस्वं स्वयमेवाग्रसत् ।  
+वानवाम्यं केनचिदंशेनानुगृह्य प्रत्यावृत्य सर्वमनन्तवर्मराज्यमात्मसादकरोत् ।  
+अस्मिंश्चान्तेर मन्त्रिवृद्धो वसुरक्षितः कैश्चिन्मौलैः सम्भूय बालमेनं भास्करवर्माणम्, अस्यैव ज्यायसीं बगिनीं त्रयोदशवर्षां मञ्जुवादिनीम्, अनयोश्च मातरं महादेवीं वसुन्धरामादायापसर्पन्नापदो ऽस्या भावितया दाहज्वरेण देहमजहात् ।  
+अस्मादृशैर्मित्रैस्तु नीत्वा माहिष्मतीं भर्तृद्वैमातुराय भ्रात्रे मित्रवर्मणे सापत्या देवी दर्शिताभूत् ।  
+तां चार्यामनार्यो ऽसावन्यथाभ्यमन्यत ।  
+निर्भर्त्सितश्च तया "सुतमियमखण्डचारित्रा राज्यर्हिं चिकीर्षतिऽ इति नैर्घृण्यात्तमेनं बालमजिघांसीत् ।  
+इदं तु ज्ञात्वा देव्याहमाज्ञप्तः-"तात, नालीजङ्गः, जीवतानेनार्भकेण यत्र क्वचिदवधाय जीव ।  
+जीवेयं चेदहमप्येनमनुसरिष्यामि ।  
+ज्ञापय मां क्षेमप्रवृत्तः व्यगाहिषि ।  
+पादचारिणं चैनमाश्वासयितुं घोषे क्वचिदहानि कानिचिद्विश्रमय्य, तत्रापि राजपुरुषसम्पातभीतो दुरध्वमपासरम् ।  
+तत्रास्य दारुणपिपासापीडितस्य वारि दातुकामः कूपे ऽस्मिन्नपभ्रश्य पतितस्त्वयैवमनुगृहीतः ।  
+स्वमेवास्यातः शरणमेधि विशरणस्य राजसूनोःऽ इत्यञ्जलिमबध्नात् ।  
+"किमीया जात्यास्य माताऽ इत्यनुयुक्ते मयामुनोक्तम्-"इत्यञ्जलिमबध्नात् ।  
+"किमीया जात्यास्य माताऽ इत्यनुयुक्ते मयामुनोक्तम्-"पाटलिपुत्रस्य वणिजो वैश्रवणस्य दुहितरि सागरदत्तायां कोसलेन्द्रात्कुसुमधन्वनो ऽस्य माता जाताऽ इति ।  
+"यद्येवमेतन्मातुर्मत्पितुश्चैको मातामहःऽ इति सस्नेहं तमहं सस्वजे ।  
+वृद्धेनोक्तम्-"सिन्धुदत्तपुत्राणां कतमस्ते पिताऽ इति ।  
+"सुश्रुतःऽ इत्युक्ते सो ऽत्यहृष्यत् ।  
+अहं तु "तपनयावलिप्तमश्मकनयेनैवोन्मूल्य बालमेनं पित्र्ये पदे प्रतिष्ठापयेयम्ऽ इति प्रतिज्ञाय कथमस्यैनां क्षुधं क्षपयेयम्ऽ इत्यचिन्तयम् ।  
+तावदापतितौ च कस्यापि व्याधस्य त्रीनिपूनतीत्य द्वौ मृगौ स च व्याधः ।  
+तस्य हस्तादवशिष्टमिषुद्वयं कोदण्डं चाक्षिष्यावधिषम् ।  
+एकश्च सपत्राकृतो ऽन्यश्च निष्पत्राकृतो ऽपतत् ।  
+तं चैकं मृगं दत्त्वा मृगयवे, अन्यस्यापलोमत्वचः क्लोमापाह्ये, निष्कुलाकृत्य विकृत्योर्वङ्घ्रिग्रीवादीनि शूलाकृत्य दावाङ्गारषुष तप्तेनामिषेण तयोरात्मनश्च क्षुधमतार्षम् ।  
+एतस्मिन्कर्मणि मत्सौष्ठवेनातिहृष्टं किरातमस्मि पृष्टवान्-"अपि जानासि माहिष्मतीवृत्तान्तम्ऽ इति ।  
+असावाचष्ट-" तत्र व्याघ्रत्वचो दृतश्चि विक्रीयादैवागतः किं न जानामि ।  
+प्रचण्डवर्मा नाम चण्डवर्मानुजो मित्रवर्मदुहितरं मञ्जुवादिनीं विलिप्सुरभ्येतीति तेनोत्सवोत्तरा पुरीऽ इति ।  
+अथ कर्णे जीर्णमब्रवम्-"धूर्तो मित्रवर्मा दुहितरि सम्यक्प्रतिपत्त्या मातरं विश्वास्य तन्मुखेन प्रत्याकृष्य बालकं जिघांसति ।  
+तत्प्रतिगत्यं कुशलमस्य मद्वार्ता च देव्यै रहो निवेद्य पुनः कुमारः शार्दूलभक्षित इति प्रकाशमाक्रोशनं कार्यम् ।  
+स दुर्मतिरन्तःप्रीतो बहिर्दुःखं दर्शयन्देवीमनुनेष्यति ।  
+पुनस्तया त्वन्मुखेन स वाच्यः-"यदपेक्षया त्वन्मतमत्यक्रमिषं सो ऽपि बालः पापेन मे परलोकमगात् ।  
+अद्य तु त्वदादेशकारिण्येवाहम्ऽ इति ।  
+स तयोक्तः प्रीतिं प्रतिपद्याभिपत्स्यति ।  
+पुनरनेन वत्सनाभनाम्ना महाविषेण सन्नीय तोयं तत्र मालां मज्जयित्वा तया स वक्षसि मुखे च हन्तव्यः ।  
+"स एवायमसिप्रहारः पापीयसस्तव भवतु यद्यस्मि पतिव्रताऽ ।  
+पुनरनेनागदेन सङ्गमिते ऽम्भसि तां मालां मज्जयित्वा स्वदुहित्रे देया ।  
+मृते तु तस्मिंस्तस्यां च निर्विकारायां सत्याम्, सतीत्येवैनां प्रकृतयो ऽनुवर्तिष्यन्ते ।  
+पुनः प्रचण्डवर्मणे सन्देश्यम्-"अनायकमिदं राज्यम् ।  
+अनेनैव सह वालिकेयं स्वीकर्तव्याऽ इति ।  
+तावदावां कापालिकवेपच्छन्नौ देव्यैव दीयमानभिक्षौ पुरो वहिरुपश्मशानं वत्स्यावः ।  
+पुनरार्यप्रायान्पौरवृद्धानाप्तांश्च मन्त्रिवृद्धानेकान्ते ब्रवीतु देवी-"स्वप्ने ऽद्य मे देव्या विन्ध्यवासिन्या कृतः प्रसादः ।  
+अद्य चतुर्थे ऽहनि प्रचण्डवर्मा मरिष्यति ।  
+पञ्चमे ऽहनि रेवातटवर्तिनि मद्भवने परीक्ष्य वैजन्यम्, जनेषु निर्गतेषु कपाटमुद्धाट्य त्वत्सुतेन सह को ऽपि द्विजकुमारो निर्यास्यति ।  
+स राज्यमिदमनुपाल्य बालं ते प्रतिष्ठापयिष्यति ।  
+स खलु बालो मया व्याघ्रीरूपया तिरस्कृत्य स्थापितः ।  
+सा चेयं वत्सा मञ्जुवादिनी तस्य द्विजातिदारकस्य दारत्वेनैव कल्पिताऽ इति ।  
+तदेतदतिरहस्यं युष्मास्वेव गुप्तं तिष्ठतु यावदेतदुपपत्स्यतेऽ इति ।  
+स साम्प्रतमतिप्रीतः प्रयातोर्ऽथश्चयायं यथाचिन्तितमनुष्ठितो ऽभूत् ।  
+प्रतिदिशं च लोकवादः प्रासर्पत्-"अहो माहात्म्यं पतिव्रतानाम् ।  
+असिप्रहार एव हि स मालाप्रहारस्तस्मै जातः ।  
+न शक्यमुपधियुक्तमेतत्कर्मेति वक्तुम् ।  
+यतस्तदेव दत्तं दाम दुहित्रे स्तनमण्डनमेव तस्यै जातं न मृत्युः ।  
+यो ऽस्याः पतिव्रतायाः शासनमतिवर्तते स भस्मैव भवेत्ऽ इति ।  
+अथ महाव्रतिवेषेण मां च पुत्रं च भिक्षायै प्रविष्टौ दृष्ट्वा प्रस्नुतस्तनी प्रत्युत्थाय हर्षाकुलमब्रवीत्-"भगवन्, अयमञ्जलिः अनाथो ऽयं जनो ऽनुगृह्यताम् ।  
+असति ममैकः स्वप्नः स किं सत्यो न वाऽ ति ।  
+मयोक्तम्-"फलमस्याद्यैव द्रक्ष्यसिऽ इति ।  
+"यद्येवं बहु भागधेयमस्या वो दास्याः ।  
+स खल्वस्याः सानाथ्यशंसी स्वप्नःऽ इति मद्दर्शनरागबद्धसाध्वसां मञ्जुवादिनीं प्रणमय्य, भूयो ऽपि सा हर्षगर्भमब्रूत-"तच्चेन्मिथ्या सो ऽयं युष्मदीयो बालकपाली श्वो मया निरोद्धव्यःऽ इति ।  
+मयापि सस्मितं मञ्जुवादिनीरागलीनदृष्टिलीढधैर्येण "एवमस्तुऽ इति लब्धभैक्षः, नालीजङ्घमाकार्य निर्गम्य ततश्च तं चानुयान्तं शनैरपृच्छम्-"क्वासावल्यायुः प्रथितः प्रचण्डवर्माऽ इति ।  
+सो ऽब्रूत-"राज्यमिदं ममेत्यपास्तशङ्को राजास्थानमण्डप एव तिष्ठत्युपास्यमानः कुशीलवैःऽ इति ।  
+"यद्येवमुद्याने तिष्ठऽ इति तं जरन्तमादिश्य तत्प्रकारैकपार्श्वैक्वचिच्छून्यमठिकायां मात्राः समवतार्य, तद्रक्षणनियुक्तराजपुत्रः, कृतकुशीलववेषलीलः प्रचण्डवर्माणमेत्यान्वरञ्जयम् ।  
+अनुरञ्जितातपे तु समये, जनसमाजज्ञानोपयोगीनि संहृत्य नृत्यगीतनानारुदितादिहस्तचङ्क्रमणमूर्ध्वपादालातपादपीठवृश्चिकमकरलङ्घनादीनि मस्त्योद्वर्तनादीनि च करणानि, पुनरादायादायासन्नवर्तिनां क्षुरिकाः ताभिरुपाहितवर्ष्मा चित्रदुष्कराणि करणानि श्येनपातोत्क्रोशपातादीनि दर्शयन्, विंशतिचापान्तरालावस्थितस्य प्रचण्डवर्मणश्छुरिकयैकया प्रत्युरसं प्रहृत्य, "जीव्याद्वर्षसहस्रं वसन्तभानुःऽ इत्यभिगर्जन्, मद्गात्रमरुकर्तुमुद्यतासेः कस्यापि चारभटस्य पीवरांसबाहुशिखरमाक्रम्य, तावतैव तं विचेताकुर्वन्, साकुलं च लोकमुच्चक्षूकुर्वन्, द्विपुरुषोच्छ्रितं प्राकारमत्यलङ्घयम् ।  
+अवप्लुत्य चोपवने "मदनुपातिनामेष पन्था दृश्यतेऽ इति ब्रुवाण एव नालीजङ्घसमीकृतसैकतस्पृष्टपादन्यासया तमालवीथ्या चानुप्राकारं प्रचा प्रतिप्रधावितः; पुनरवाचोच्चितेष्टकचितत्वादलक्ष्यपातेन प्रद्रुत्य, लङ्घितप्राकारवप्रखातवलयः, तस्यां शन्यमठिकायां तूर्णमेव प्रविश्य, प्रतिमुक्तपूर्ववेषः सह कुमारेण मत्कर्मतुमुलराजद्वारदुःखलब्धवर्तमा श्मशानोद्देशमभ्यगाम् ।  
+प्रागेव तस्मिन्दुर्गागृहे प्रातिमाधिष्ठान एव मया कृतं भग्रपार्श्वस्थैर्यस्थूलप्रस्तरस्थगितबाह्मद्वारं बिलम् ।  
+अथ गलति मध्यरात्रे वर्षवरोपनीतमहार्हरत्नभूषणपट्टनिवसनौ तद्बिलमावां प्रविश्य तूष्णीमतिष्ठाव ।  
+देवी तु पूर्वेद्युरेव यथार्हमग्निसंस्कारं मालवाय दत्त्वा प्रचण्डवर्मणे चण्डवर्मणे च तामवस्थामश्मकेन्द्रोपधिकृतामेव सन्दिश्य, उत्तरेद्युः प्रत्युषस्येव पूर्वसङ्केतितपौरामात्यसामन्तवृद्धैः सहाभ्यत्य भगवतीमर्चयित्वा समर्चनप्रत्यक्षं परीक्षितकुक्षिवैजन्यं तद्भवनं पिधाय दत्तदृष्टिः सह जनेन स्थित्वा, पटीयांसं पटहशब्दमकारयत् ।  
+अणुतररन्ध्रप्रविष्टेन तेन नादेनाहं दत्तसञ्ज्ञः शिरसैवोत्क्षिप्य सप्रतिमं लोहपादपीठमंसलपुरुषप्रयत्नदुश्चलमुभयकरविधृतमेकपाश्व्रमेकतो निवेश्य निरगमम् ।  
+निरगमयं च कुमारम् ।  
+अथ यथापूर्वमर्चयित्वा दुर्गामुद्धाटितकपाटः प्रत्यक्षीभूय प्रत्ययहृष्टदृष्टि ।  
+स्पष्टरोमाञ्चमुद्यताञ्जलिरूढविस्मयं च प्रणिपतन्तीः प्रकृतीरभ्यधाम्-"इत्थं देवी विन्ध्यवासिनी मन्मुखेन युष्मानाज्ञापयति-मया सकृषया शार्दूलरूपैण तिरस्कृत्याद्य वो दत्तमेनमद्यप्रभृति मत्पुत्रतया मन्दमातृपक्ष इति परिगृह्णन्तु भवन्तः ।  
+अपि च दुर्घटकूटकोटिघटनापाटवप्रकटशाठ्यनिष्ठुराश्मकघटघट्टनात्मानं मां मन्यध्वमस्य रक्षितारम् ।  
+रक्षानिर्वेशश्चास्य स्वसेयं सुभ्रूरभ्यनुज्ञाता मह्यमार्ययाऽ इति ।  
+श्रुत्वैतत् "अहो भाग्यवान्भोजवंशः, यस्य त्वमार्यादत्तो नाथःऽ इत्यप्रीयन्त प्रकृतयः ।  
+सा तु वाचामगोचरां हर्षावस्थामस्पृशन्मे श्वश्रूः ।  
+तदहरेव च यथावदग्राहयन्मञ्जुवादिनीपाणिपल्लवम् ।  
+प्रपन्नायां च यामिन्यां सम्यगेव बिलप्रत्यपूरयम् ।  
+अलब्धरन्ध्रश्च लोको नष्टमुष्टिचिन्तादिकथनैरभ्युपायान्तरप्रयुक्तैर्द्विव्यांशतामेव मम समर्थयमानः, मदाज्ञां नात्यवर्तत ।  
+राजपुत्रस्यार्यापुत्र इति प्रभावहेतुः प्रसिद्धिरासीत् ।  
+तं च गुणवत्यहनि भद्राकृतमुपनाय्य पुरोहितेन पाठयन्नीतिं राजकार्याण्यन्वतिष्ठम् ।  
+अचिन्तयं च-"राज्यं नाम शक्तित्रयायत्तम, शक्तयश्च मन्त्रप्रभावोत्साहाः परस्परानुगृहीताः कृत्येषु क्रमन्ते ।  
+मन्त्रेण हि विनिश्चयोर्ऽथानाम्, प्रभावेण प्रारम्भः, उत्साहेन निर्वहणम् ।  
+अतः पञ्चाङ्गमन्त्रमूलः, द्विरूपप्रभावस्कन्धः, चतुर्गणोत्साहविटपः, द्विसप्ततिप्रकृतिपत्रः, षड्गुणकिसलयः, शक्तिसिद्धिपुष्पफलश्च, नयवनस्पतिर्नेतुरुपकरोति ।  
+स चायमनेकाधिकरणत्वादसहायेन दुरुपजीव्यः ।  
+यस्त्वयमार्यकेतुर्नाम मित्रवर्ममन्त्री स कोसलाभिजनत्वात्कुमारमातृपक्षो मन्त्रिगुणैश्च युक्तः तन्मतिमवमत्यैव ध्वस्तो मित्रवर्मा, स चेल्लब्धः पेशलम्ऽ इति ।  
+अथ नालीजङ्घं रहस्यशिक्षयम्-"तात, आर्यमार्यकेतुमेकान्ते ब्रूहि-"को मायापुरुषो य इमां राज्यलक्ष्मीमनुभवति, स चायमस्मद्बालो भुजङ्गेनामुना परिगृहीतः ।  
+किमुद्गीर्येत ग्रस्येत वाऽ इति ।  
+स यद्वदिष्यति "तदस्मि बोध्यःऽ इति ।  
+सो ऽन्यदैवं मामावेदयत्-"मुहुरुपास्य प्राभृतैः प्रवर्त्य चित्राः कथाः, संवाह्य पाणिपादम्, अति विस्रम्भदत्तक्षणं तमप्राक्षं त्वदुपदिष्टेन नयेन ।  
+साप्येवमकथयत्-"भद्र, मैवं वादीः ।  
+अबिजनस्य शुद्धिदर्शनम्, असाधारणं बुद्धिनैपुणम्, अतिमानुषं प्राणबलम्, अपरिमाणमौदार्यम्, अत्याश्चर्यमस्त्रकौशलम्, अनल्पं शिल्पज्ञानम्, अनुग्रहार्द्रं चेतः, तेजश्चाप्यविषह्यमभ्यमित्रीणम् ।  
+इत्यस्मिन्नेव सन्निपातिनो गुणाः ये ऽन्यत्रैकैकशो ऽपि दुर्लभाः ।  
+द्विषतामेष चिरबिल्वद्रुमः, प्रह्वाणां तु चन्दनतरुः, तमुद्धृत्य नीतिज्ञम्मन्यमश्मकमिमं च राजपुत्रं पित्र्ये पदे प्रतिष्ठितमेव विद्धि ।  
+नात्र संशयः कार्यःऽ इति ।  
+तच्चापि श्रुत्वा भूयोभूयश्चोपदाभिर्विशोध्य तं मे मतिसहायमकरवम् ।  
+तत्सखश्च सत्यशौचयुक्तानमात्यान्विविधव्यञ्जनांश्च गूढपुरुषानुदपादयम् ।  
+तेभ्यश्चोपलभ्य लुब्धसमृद्धमत्युत्सिक्तमविधेयप्रायं च प्रकृतिमण्डलमलुब्धतामभिख्यापयन्, धार्मिकत्वमुद्भावयन, नास्तिकान्कदर्थयन्, कण्टकान्विशोधयन्, अमित्रोपधीनपघ्नन्, चातुर्वर्ण्यं च स्वधर्मकर्मसु स्थापयन्, अभिसमाहरेयमर्थानर्थमूला हि दण्डविशिष्टकर्मारम्भा न चान्यदस्ति पापिष्ठं तत्र दौर्बल्यात्, इत्याकलय्य योगानन्वतिष्ठम् ।  
+व्यचिन्तयं च--सर्वो ऽप्यतिशूरः सेवकवर्गो मयि तथानुरक्तो यथाज्ञया जीवितमपि तृणाय मन्यते ।  
+राज्यद्वितयसैन्यसामग्र्या च नाहमश्मकेशाद्वसन्तभानोर्न्यूनो नीत्याविष्टश्च ।  
+अतो वसन्तभानु पराजित्य विदर्भाधिपतेरनन्तवर्मणस्तनयं भास्करवर्माणं पित्र्ये पदे स्थापयितुमलमस्मि ।  
+अयं च राजसूनुर्भवान्या पुत्रत्वेन परिकस्पितः ।  
+अहं चास्य साहाय्ये नियुक्त इति सर्वत्र किंवदन्ती सञ्जातास्ति ।  
+अद्यापि चैतन्मत्कपटकृत्यं न केनापि विदितम्, ।  
+अत्रस्थाश्चास्मिन्भास्करवर्मणि राजतनये "अयमस्मत्स्वामिनो ऽनन्तवर्मणः पुत्रो भवान्याः प्रसादादेतद्राज्यमवाप्स्यतिऽ इति बद्धाशा वर्तन्ते ।  
+अश्मकेशसैन्यं च राजसूनोर्भवानीसाहाय्यं विदित्वा "दव्याः शक्तेः पुरो न बलवती मानवी शक्तिःऽ इत्यस्माभिर्विग्रहे चलचित्तमिवोपलक्ष्यते ।  
+अत्रत्याश्च मौलाः प्रकृतयः प्रथममेव राजसुताभ्युदयाभिलाषिण्य इदानीं च पुनर्मया दानमानाद्यावजर्नन विश्वासिता विशेषेण राजपुत्रमेवाभिकाङ्क्षन्ति ।  
+अश्मकेन्द्रान्तरङ्गाश्च भृत्या मदीयैर्विश्वास्यतमैः पुरुषैः प्रभूतां प्रीतिमुत्पाद्य मदाज्ञया रहसीत्युपजप्ताः--"यूयमस्मन्मित्राणि, अतो ऽस्माकं शुभोदर्कं वचो वाच्यमव ।  
+अत्र भवान्या राजसूनोःसाहाय्यकाय विश्रुतं विश्रुतं मां नियुज्य तद्धस्तेनाश्मकेन्द्रस्य वसन्तभानोस्तत्पक्षेस्थित्वा ये चानेन सह योस्त्यन्ति तेषामप्यन्तकातिथिभवनं विहितम् ।  
+यावदश्मकेन्द्रेण स जन्यवृत्तिर्न जातस्तावदेनमनन्तवर्मतनयं भास्करवर्माणमनुसरिष्यथ ।  
+स वीतभयो भूयसीं प्रवृत्तमासाद्य सपरिजनः सुखन निवत्स्यति न चेद्भवानीत्रिशूलवश्यो भविष्यति ।  
+भवान्या च ममेत्याज्ञप्तमस्ति यदेकवरं सर्वेषां कथय ।  
+अतो मया युष्माभिः संहमैत्रीमवबुध्य सर्वेभ्यो गदितम्ऽ इत्याकर्ण्य ते ऽश्मकेन्द्रान्तरङ्गभृत्या राजसूनोर्भवानीवरं विदित्वा पूर्वमेव भिन्नमनस आसन् ।  
+विशेषतश्च मदीयमिति वचनं श्रुत्वा ते सर्वे ऽपि मद्वशे समभवन् ।  
+एन सर्वमपि वृत्तान्तभवबुध्याश्मकेशेन व्यचिन्ति--"यद्राजसूनोर्मौलाः प्रजास्ताः सर्वा अप्येनमेव प्रभुमभिलषन्ति ।  
+मदीयश्च बाह्म आभ्यन्तरो भृत्यवर्गो भिन्मना इब लक्ष्यते ।  
+एवं यद्यहं क्षमामवलम्ब्य गृह एव स्थास्यामि तत उत्पन्नोपजापं स्वराज्यमपि परित्रातु न शक्ष्यामि ।  
+अतो यावता भिन्नचित्तेन मदवबोधकं प्रकटयन्ता मद्बलेन सह मिथोवचनं न सञ्जातं तावतैव तेन साकं विग्रहं रचयामि इत्येवं विहिते सो ऽवश्यं मदग्रे न क्षणमवस्थास्यतेऽ इति निश्चित्यान्यायेन परराज्यक्रमणपापप्रेरितः ससैन्यो मृत्युमुखमिवास्मत्सैन्यमभ्ययात् ।  
+तमभ्यायान्तं विदित्वा राजपुत्रः पुरो ऽभवत् ।  
+अतो ऽश्मकेन्द्रमेव तुरगाधिरूढो यान्तमभ्यसरम् ।  
+तावत् सर्वा एव तत्सेना "यदयमेतावतो ऽपरिमितस्यास्मत्सैन्यस्योपर्येक एवाभ्यागच्छति तत्र भवानीवर एवासाधारणं कारणं नान्यत्ऽ इति निश्चित्यालेख्यालिखिता इवावस्थिताः ।  
+ततो मयाभिगम्य सङ्गराय समाहूतो वसन्तभानुः समेत्य मामसिप्रहारेण दृढमभ्यहन् ।  
+अहं च शिक्षाविशेषविफलिततदसिप्रहारः प्रतिप्रहारेण तं प्रहृत्यावकृत्तमश्मकेन्द्रशिरो ऽवनौ विनिपात्य तत्सैनिकानवदम्--"अतः परमपि ये युयुत्सवो भवन्ति ते समेत्य मया युध्यन्ताम् ।  
+न चेद्राजतनयचरणप्रणामं विधाय तदीयाः सन्तः स्वस्ववृत्त्युपभोगपूर्वकं निजान्निजानधिकारान्निःशङ्कं परिपालयन्तः सुखेनावतिष्ठन्तुऽ इति ।  
+मद्वचनश्रवणानन्तरं सर्वे ऽप्यश्मकेन्द्रसेवकाः खखवाहनात्सहसावतीर्य राजसूनुमानस्य तद्वशवर्तिनः समभवन् ।  
+ततो ऽहं तदश्मकेन्द्रराज्यं राजसूनुसाद्विधाय तद्रक्षणार्थं मौलान्त्वानधिकारिणो नियुज्यात्मीभूतेनाश्मकेन्द्रसैन्येन च साकं विदर्भानभ्येत्य राजधान्यां तं राजतनयं भास्करवर्माणमभिषिच्य पित्र्ये पदे न्यवेशयम् ।  
+एकदा च मात्रा वसुन्धरया सहावस्थितं तं राजानं वप्यजिज्ञपम्--"मयैकस्य कार्यस्यारम्भश्चिकीर्षितो ऽस्ति ।  
+स यावन्न सिद्ध्यति तानवन्मया न कुत्राप्येकत्रावस्थातुं शक्यम् ।  
+अत इयं मद्भार्या त्वद्भगिनी मञ्जुवादिनी कियन्त्यहानि युष्मदन्तिकमेव तिष्ठतु ।  
+अहं च यावदिष्टजनोपलम्भं कियन्तमप्यनेहसं भुवं विभ्रम्यं तमासाद्य पुनरत्र समेष्यामिऽ इत्याकर्ण्य मात्रानुमतेन राज्ञाहमगादि-"यदेतदस्माकमेतदराज्योपलम्भलक्षणस्यैतावतोभ्युदयस्यासाधारणो हेतुर्भवानेव ।  
+भवन्तं विना क्षणमप्यस्माभिरियं राज्यधूर्न निर्वाह्या ।  
+अतः किमेवं वक्ति भवान्ऽ इत्याकर्ण्य मया प्रत्यवादि-"युष्माभिरयं चिन्तालवो ऽपि न चित्ते चिन्तनीयः ।  
+युष्मद्गृहे यः सचिवरत्नमार्यकेतुरस्ति सर् इदृग्विधानामनेकेषां राज्यानां धुरमुद्वोढुं शक्तः ।  
+ततस्तं तत्र नियुज्याहं गमिष्यामिऽ इत्यादिवचनसन्दोहैः प्रलोभितो ऽपि सजननीको नृपो ऽनेकैराग्रहैर्मां कियन्तमपि कालं प्रयाणोपक्रमात् न्यवर्तयत् ।  
+उत्कलाधिपतेः प्रचण्डवर्मणो राज्यं मह्यं प्रादान् ।  
+अहं च तद्राज्यमात्मसात्कृत्वा राजानमामन्त्र्य यावत्त्वदन्वेषणाय प्रयाणोपक्रमं करोमि तावदेवाङ्गनाथेन सिंहवर्मणा स्वसाहाय्यायाकारितो ऽत्र समागतः पूर्वपुण्यपरिपाकात्स्वामिना समगंसिऽ इति ॥  
+इति श्रदण्डिनः कृतौ दशकुमारचरिते विश्रुतचरितं नामाष्टम उच्छ्वासः ॥ ८। ॥ अथ कथोपसंहारः ।  
+ततस्ते तत्र सङ्गता अपहारवर्मोपहारवर्मार्थपालप्रमतिमित्रगुप्तमन्त्रगुप्तविश्रुताः कुमाराः पाटलिपुरे यौवराज्यमुपभुञ्जानं समाकारणे पूर्वकृतसङ्केतं वामलोचनया भार्यया सह कुमारं सोमदत्तं सेवकैरानाय्य सराजवाहनाः सम्भूयावस्थिता मिथः सप्रमोदसंवलिताः कथा यावद्विदधति तावत्पुष्पपुराद्राज्ञो राजहंसस्याज्ञापत्रमादाय समागता राजपुरुषाः प्रणम्य राजवाहनं व्यजिज्ञपन्-"स्वामिन्, एतज्जनकस्य राजहंसस्याज्ञापत्र गृह्यताम्ऽ इत्याकर्ण्य समुत्थाय भूयोभूयः सादरं प्रणम्य सदसि तदाज्ञापत्रमग्रहीत् ।  
+शिरसि चाधाय तत उत्तार्योत्कील्य राजा राजवाहनः सर्वेषां शृण्वतामेवावाचयत्-"स्वस्ति श्रीः पुष्पपुरराजधान्याः श्रीराजहंसभूपतिश्चम्पानगरीमधिवसतो राजवाहनप्रमुखान् कुमारानाशास्याज्ञापत्रं प्रेषयति ।  
+यथा यूयमितो मामामन्त्र्य प्रणम्य प्रस्थिताः पथि कस्मिंश्चिद्वनोद्देश उपशिवालयं स्कन्धावारमवस्थाप्य स्थिताः ।  
+तत्र राजवाहनं शिवपूजार्थन्निशि शिवालये स्थितं प्रातरनुपलभ्यावशिष्टाः सर्वे ऽपि कुमाराः "सहैव राजवाहनेन राजहंसं प्रणंस्यामो न चेत्प्राणांस्त्यक्ष्यामःऽ इति प्रतिज्ञाय सैन्यं परावर्त्य राजवाहनमन्वेष्टं पृथक्प्रस्थिताः ।  
+एतं भवद्वृत्तान्तं ततप्रत्यावृत्तानां सैनिकानां मुखादाकर्ण्यासह्यदुःखोदन्वति मग्नमनसावुभावहं युष्मज्जननी च "वामदेवाश्रमं गत्वैतद्वृत्तान्तं तद्विदितं विधाय प्राणपरित्यायं कुर्वःऽ इति निश्चित्य तदाश्रममुपगतौ तं मुनिं प्रणम्य यावत्स्थितौ तावदेव तेन त्रिकालवेदिना मुनिना विदितमेवास्मन्मनीषितम् ।  
+निश्चयमवबुध्य प्रावाचि-"राजन्, प्रथममेवैतत्सर्वं युष्मन्मनीषितं विज्ञानबलादज्ञायि ।  
+यदत त्वत्कुमारा राजवाहननिमित्ते कियन्तमनेहसमापदमासाद्य भाग्योदयादसाधारणेन विक्रमेण विहितदिग्विजयाः प्रभूतानि राज्यान्युपलभ्य षोढशाब्दान्ते विजयिनं राजवाहनं पुरस्कृत्य प्रत्येत्य तव वसुमत्याश्च पादानभिवाद्य भवदाज्ञाविधायिनो भविष्यन्ति ।  
+अतस्तन्निमित्तं किमपि साहसं न विधेयम्ऽ इति ।  
+तदाकर्ण्य तत्प्रत्ययाद्धैर्यमवलम्ब्याद्यप्रभृत्यहं देवी च प्राणमधारयाव ।  
+इदानीमासन्नवर्तिन्यवधौ वामदेवाश्रमे गत्वा विज्ञप्तिः कृता-"स्वामिन्, त्वदुक्तावधिः पूर्णप्रायो भवति तत्प्रवृत्तिस्त्वयाद्यापि विज्ञायतेऽ इति ।  
+श्रुत्वा मुनिरवदत्-"राजन्, राजवाहनप्रमुखाः सर्वे ऽपि कुमारा अनेकान्दुर्जयाञ्शत्रून्विजित्य दिग्विजयं विधाय भूवलयं वशीकृत्य चम्पायामेकत्र स्थिताः ।  
+तवाज्ञापत्रमादाय तदानयनाय प्रेष्यन्तां शीघ्रमेव सेवकाःऽ इति मुनिवचनमाकर्ण्य भवदाकारणायाज्ञापत्रं प्रेषितमस्ति ।  
+अतःपरं चेत्क्षणमपि यूयं विलम्बं विधास्यथ ततो मां वसुमतीं च मातरं कथावशेषावेव श्रोष्यथेति ज्ञात्वा पानीयमपि पथि भूत्वा पेयम्ऽ इति ।  
+एवं पितुराज्ञापत्रं मूर्ध्नि विधृत्य गच्छेमेति निश्चयं चक्रुः ।  
+अथ वशीकृतराज्यरक्षापर्याप्रानि सैन्यानि समर्थतरान्पुरुषानाप्तान्स्थाने स्थाने नियुज्य कियता सैन्यैन मार्गरक्षां विधाय पूर्ववरिणं मालवेशं मानसार पराजत्य तदपि राज्यं वशीकृत्य पुष्पपुरे राज्ञो राजहंसस्य देव्या वसुमत्याश्च पादान्नमस्यामः ।  
+एवं निश्चित्य स्वस्वभार्यासंयुताः परिमितेन सैन्यन मालवेशं प्रति प्रस्थिताः ।  
+प्राप्य चोज्जयिनीं तदैव सहायभूतैस्तैः कुमारैः परिमितेन राजवाहनेनातिबलवानपि मालवेशो मानसारः क्षणेन पराजिग्ये निहतश्च ।  
+ततस्तद्दहितरमवन्तिसुन्दरीं समादाय चण्जवर्मणा तन्मन्त्रिणा पूर्वं कारागृहे रक्षितं पुष्पोद्भवं कुमारं सकुटुम्बं तत उन्मोचितं सह नीत्वा मालवेन्द्रराज्यं वशीकृत्य तद्रक्षणाय कांश्चित्सैन्यसाहितान्मान्त्रिणो नित्युज्यावशिष्टपरिमितसैन्यसहितास्ते कुमाराः पुष्पपुरं समेत्य राजवाहनं पुरस्कृत्य तस्य राजहंसस्य मातुर्वसुमत्याश्च चरणानभिवन्दितवन्तः ।  
+तौ च पुत्रसमागमं प्राप्य परमानन्दमधिगतौ ।  
+ततो राज्ञो वसुमत्याश्च देव्याः ।  
+समक्षं वामदेवो राजवाहनप्रमुखानां दशानामपि कुमाराणामभिलाषं विज्ञाय तानाज्ञापयत्--भवन्तः सर्वे ऽप्येकवारं गत्वा स्वानि स्वानि राज्यानि न्यायेन परिपालयन्तु ।  
+पुनर्यदेच्छा भवति तदा पित्रोश्चरणाभिवन्दनायागन्तव्यम्ऽ इति ।  
+ततस्ते सर्वे ऽपि कुमारास्तन्मुनिवचनं शिरम्याधाया तं प्रणम्य पितरौ च, गत्वा दिग्विजयं विधाय प्रत्यागमनान्तं स्वस्ववृत्तं पृथक्पृथड्मुनिसमक्षं न्यवेदयन् ।  
+पितरौ च कुमाराणां निजपराक्रमावबोधकान्यतिदुर्घटानि चरितान्याकर्ण्य परमानन्दमाप्नुताम् ।  
+ततो राजा मुनिं सविनयं व्यजिज्ञपत्--"भगवत्, तव प्रसादादग्माभिर्मनुजमनोरथाधिकमवाङ्मनरसगोचरं सुखमधिगतम् ।  
+अतःपरं मम स्वाभिचरणसन्निधौ वानप्रस्थाश्रममौ त्यात्मसाधनमेव विधातुमुचितम् ।  
+अतः पुष्पपुरराझ्ये मानसारराज्ये चराजबाहनमभिषिच्यावशिष्टानिराज्यानि नवभ्यः कुमारेभ्यो यथोचितं सम्प्रदाय ते कुमारा राजवाहनाज्ञाबिधायिनस्तदेकमत्या वर्तमानाश्चतुरुदधिमेखलां वसुन्धरां समुद्धृत्य कण्टकानुपभुञ्जन्ति तथा विधेयं स्वामिना इति ।  
+तेषां तत्पितुर्वानग्रस्थाश्रमप्रहणोपक्रमनिषेधे भूयांसमाग्रहं विलोक्य मुनिस्तानबदत्-"भोः कुमारकाः, अयं युष्मज्जनक एतद्वयःसमुचिते पथि वर्मानः कायक्लेशं विनव मदाश्रमस्थो वानप्रश्थाश्रमाश्रयणं सर्वथा भवद्धर्नि निवारणीयः ।  
+अत्र स्थितस्त्वयं भङ्गवद्भक्तिमुपलप्स्यते ।  
+भवन्तश्च पितृसन्निधौ न सुखमवाप्स्थन्तिऽ इति महर्षेराज्ञामधिगम्य ते पितुर्वानप्रस्थाश्रमाधिगमप्रतिषेधाग्रहमत्यजन् ।  
+राजवाहनं पुष्पपुरे ऽवस्थाप्य तदनुज्ञया सर्वे ऽपि परिजनाः स्वानि स्वानि राज्यानि प्रतिपाल्य स्वेच्छया पित्रो समीप गतागतमकुर्वन् ।  
+एवमवस्थितास्ते राजवाहनप्रमुखाः सर्वे ऽपि कुमारा राजवाहनाज्ञया सर्वमपि वसुधावलयं न्यायेन परिपालयन्तः परस्परमैकमत्येन वर्तमानाः पुरन्दरप्रभृतिभिरप्यतिदुर्लभानि राज्यसुखान्यन्वभूवन् ॥ द्क्च्_२,८ ॥  
+    
+इति श्रीदण्डिनः कृतौ दशकुमारचरिते कथोपसंहारः
+
+इति श्रीमहामहोपाध्यायकविकुलसार्वभौमनिखिलविद्याकुमुदिनीशर्वरीश्वरसरस्वतीनिःश्वसितकषिदण्डिपण्डितविरचितं दशकुमारचरितं सम्पूर्णम्
+

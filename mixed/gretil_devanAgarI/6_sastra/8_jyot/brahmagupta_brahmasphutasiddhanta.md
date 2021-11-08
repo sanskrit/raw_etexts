@@ -1,7 +1,9 @@
----
-title: 'Brahmagupta: Brahmasphutasiddhanta'
++++
+title = "Brahmagupta: Brahmasphutasiddhanta"
 
----
++++
+
+
 ## Intro
   
   
@@ -29,1039 +31,982 @@ The Brahmasphutasiddhanta consists of 24 chapters, but this digitalized version 
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
+
 नोततिओन् (लोचल् रुलेस्)  
-[द्: x > य्] इन्दिचतेस् थत् द्विवेदिन्, थे एदितोर्, सुग्गेस्त्स् थे रेअदिन्ग्, य्, इन्स्तेअद् ओड़् x।  
+[द्: x > य्] इन्दिचतेस् थत् द्विवेदिन्, थे एदितोर्, सुग्गेस्त्स् थे रेअदिन्ग्, य्, इन्स्तेअद् ओफ़् x।  
 इन् छप्तेर् १८:  
 [च्ब्।न्] इन्दिचतेस् थत् थे स्तन्ज़ इस् गिवेन् थे नुम्बेर्, न्, इन् चोलेब्रोओकेऽस् त्रन्स्लतिओन्।  
 [च्ब्।@] इन्दिचतेस् थत् थे स्तन्ज़ दोएस् नोत् एxइस्त् इन् चोलेब्रोओकेऽस् त्रन्स्लतिओन्।  
 ओथेर्wइसे, थे स्तन्ज़ नुम्बेर् चोइन्चिदेस् wइथ् चोलेब्रोओकेऽस् ओने।  
-(चोलेब्रोओकेऽस् त्रन्स्लतिओन् इस् अवैलब्ले ड़ोर् छप्तेर्स् १२ अन्द् १८ ओन्ल्य्।  इन् छप्तेर् १२, अल्ल् थे स्तन्ज़ नुम्बेर्स् गिवेन् ब्य् द्विवेदिन् चोइन्चिदे wइथ् चोलेब्रोओकेऽस् ।)  
-अस् छप्तेर् २०, ओन् चोम्बिनत्रिच्स् चोन्चेर्निन्ग् सन्स्क्रित् प्रोसोद्य्, हस् नोत् बेएन् देचिफेरेद् येत्, थे तेxत् ओड़् थत् छप्तेर् इस् लेड़्त् एxअच्त्ल्य् अस् इत् इस् इन् द्विवेदिन्ऽस् एदितिओन् wइथोउत् देचोम्पोसितिओन् ओड़् चोम्पोउन्द्स् अन्द् सन्धि।  
-  
-  
-  
-  
+(चोलेब्रोओकेऽस् त्रन्स्लतिओन् इस् अवैलब्ले फ़ोर् छप्तेर्स् १२ अन्द् १८ ओन्ल्य्। इन् छप्तेर् १२, अल्ल् थे स्तन्ज़ नुम्बेर्स् गिवेन् ब्य् द्विवेदिन् चोइन्चिदे wइथ् चोलेब्रोओकेऽस् ।)  
+अस् छप्तेर् २०, ओन् चोम्बिनत्रिच्स् चोन्चेर्निन्ग् सन्स्क्रित् प्रोसोद्य्, हस् नोत् बेएन् देचिफेरेद् येत्, थे तेxत् ओफ़् थत् छप्तेर् इस् लेफ़्त् एxअच्त्ल्य् अस् इत् इस् इन् द्विवेदिन्ऽस् एदितिओन् wइथोउत् देचोम्पोसितिओन् ओफ़् चोम्पोउन्द्स् अन्द् सन्धि।
+
 [अथ गणित-अध्यायस्]  
-  
+    
 [परिकर्म-विंशतिस्]  
-  
+    
 ब्स्स्_१२।१अ। परिकर्म-%विंशतिम् यस् सङ्कलित-आद्याम् पृथक् विजानाति।  
-  
+    
 ब्स्स्_१२।१च्। %अष्टौ च व्यवहारान् छाया-अन्तान् भवति गणकस् सस्॥  
-  
+    
 ब्स्स्_१२।२अ। विपरीत-छेद-गुणास् राश्योस् छेद-अंशकास् सम-छेदास्।  
-  
+    
 ब्स्स्_१२।२च्। सङ्कलिते अंशास् योज्यास् व्यवकलिते अंश-अन्तरम् कार्यम्॥  
-  
+    
 ब्स्स्_१२।३अ। रूपाणि छेद-गुणानि अंश-युतानि %द्वयोस् बहूनाम् वा।  
-  
+    
 ब्स्स्_१२।३च्। प्रत्युत्पन्नस् भवति छेद-वधेन उद्धृतस् अंश-वधस्॥  
-  
+    
 ब्स्स्_१२।४अ। परिवर्त्य भाग-हार-छेद-अंशौ छेद-सङ्गुण-छेदस्। [द्: परिवर्त्त्य  
-  
+    
 ब्स्स्_१२।४च्। अंशस् अंश-गुणस् भाज्यस्य भाग-हारस् सवर्णितयोस्॥  
-  
+    
 ब्स्स्_१२।५अ। संवर्णित--अंश-वर्गस् छेद-कृति-विभाजितस् भवति वर्गस्।  
-  
+    
 ब्स्स्_१२।५च्। संवर्णित-अंश-मूलम् छेद-पदेन उद्धृतम् मूलम्॥  
-  
+    
 ब्स्स्_१२।६अ। स्थाप्यस् अन्त्य-घनस् अन्त्य-कृतिस् %त्रि-गुण-उत्तर-सङ्गुणा च तद्-%प्रथमात्।  
-  
+    
 ब्स्स्_१२।६च्। उत्तर-कृतिस् अन्त्य-गुणा %त्रि-गुणा च उत्तर-घनस् च घनस्॥  
-  
+    
 ब्स्स्_१२।७अ। छेदस् घनात् %द्वितीयात् घन-मूल-कृतिस् %त्रि-सङ्गुणा आप्त-कृतिस्।  
-  
+    
 ब्स्स्_१२।७च्। शोध्या %त्रि-पूर्व-गुणिता %प्रथमात् घनतस् घनस् मूलम्॥  
-  
+    
 ब्स्स्_१२।८अ। सदृश-छेद-अंश-युतिस् छेद-विभक्ता फलम् %प्रथम-जातौ।  
-  
+    
 ब्स्स्_१२।८च्। अंशैस् अंशास् गुणितास् छेदैस् छेदास् %द्वितीयायाम्॥  
-  
+    
 ब्स्स्_१२।९अ। ऊर्ध्व-अंशास् छेद-गुणास् %तृतीय-जातौ %द्वयोस् %प्रथम-परयोस्।  
-  
+    
 ब्स्स्_१२।९च्। छेदैस् छेदास् गुणितास् स्व-अंश-युत-ऊनैस् उपरि-ग-अंशास्॥  
-  
+    
 ब्स्स्_१२।१०अ। त्रैराशिके प्रमाणम् फलम् इच्चा आदि-अन्तयोस् सदृश-राशी।  
-  
+    
 ब्स्स्_१२।१०च्। इच्छा फलेन गुणिता प्रमाण-भक्ता फलम् भवति॥  
-  
+    
 ब्स्स्_१२।११अ। व्यस्त-त्रैराशिक-फलम् इच्छा-भक्तस् प्रमाण-फल-घातस्।  
-  
+    
 ब्स्स्_१२।११च्। त्रैराशिक-आदिषु फलम् विषमेषु %एकादश-अन्तेषु॥  
-  
+    
 ब्स्स्_१२।१२अ। फल-सङ्क्रमणम् उभय-तस् बहु-राशि-वधस् अल्प-वध-हृतस् ज्ञेयम्।  
-  
+    
 ब्स्स्_१२।१२च्। सकलेषु एवम् भिन्नेषु उभय-तस् छेद-सङ्क्रमणम्॥  
-  
+    
 ब्स्स्_१२।१३अ। प्राक् मूल्य-व्यत्यासस् भाण्डप्रतिभाण्डके अन्यत् उक्त-समम्।  
-  
-ब्स्स्_१२।१३च्। परिकर्माणि %अष्टानाम् व्यवहाराणाम् अभिहितानि॥  
-  
-  
-  
-[मिश्रक-व्यवहारस्]  
-  
-  
-  
+    
+ब्स्स्_१२।१३च्। परिकर्माणि %अष्टानाम् व्यवहाराणाम् अभिहितानि॥
+
+[मिश्रक-व्यवहारस्]
+
 ब्स्स्_१२।१४अ। काल-गुणितम् प्रमाणम् फल-भक्तम् वि-%एक-गुण-हतम् कालस्।  
-  
+    
 ब्स्स्_१२।१४च्। स्व-फल-युत-#रूप-भक्तम् मूल-फल-ऐक्यम् भवति मूलम्॥  
-  
+    
 ब्स्स्_१२।१५अ। काल-प्रमाण-घातस् पर-काल-हृतस् द्विधा आद्य-मिश्र-वधात्।  
-  
+    
 ब्स्स्_१२।१५च्। अन्य-%अर्ध-कृति-युतात् पदम् अन्य-%अर्ध-ऊनम् प्रमाण-फलम्॥  
-  
-ब्स्स्_१२।१६अ। प्रक्षेप-योग-हृतया लब्ध्या प्रक्षेपकास्  गुणास् लाभास्।  
-  
-ब्स्स्_१२।१६च्। ऊन-अधिक-उत्तरास् तद्-युत-ऊनया स्व-फलम् ऊन-युतम्॥  
-  
-  
-  
-[श्रेढी-व्यवहारस्]  
-  
-  
-  
+    
+ब्स्स्_१२।१६अ। प्रक्षेप-योग-हृतया लब्ध्या प्रक्षेपकास् गुणास् लाभास्।  
+    
+ब्स्स्_१२।१६च्। ऊन-अधिक-उत्तरास् तद्-युत-ऊनया स्व-फलम् ऊन-युतम्॥
+
+[श्रेढी-व्यवहारस्]
+
 ब्स्स्_१२।१७अ। पदम् %एक-हीनम् उत्तर-गुणितम् संयुक्तम् आदिना अन्त्य-धनम्।  
-  
+    
 ब्स्स्_१२।१७च्। आदि-युत-अन्त्य-धन-%अर्धम् मध्य-धनम् पद-गुणम् गणितम्॥  
-  
+    
 ब्स्स्_१२।१८अ। उत्तर-हीन-%द्वि-गुण-आदि-शेष-वर्गम् धन-उत्तर-%अष्ट-वधे।  
-  
+    
 ब्स्स्_१२।१८च्। प्रक्षिप्य पदम् शेष-ऊनम् %द्वि-गुण-उत्तर-हृतम् गच्छस्॥  
-  
+    
 ब्स्स्_१२।१९अ। %एक-उत्तरम् %एक-आद्यम् यदि इष्ट-गच्छस्य भवति सङ्कलितम्।  
-  
+    
 ब्स्स्_१२।१९च्। तत् %द्वि-युत-गच्छ-गुणितम् %त्रि-हृतम् सङ्कलित-सङ्कलितम्॥  
-  
+    
 ब्स्स्_१२।२०अ। %द्वि-गुण-पद-स-%एक-गुणितम् तत् %त्रि-हृतम् भवति वर्ग-सङ्कलितम्।  
-  
-ब्स्स्_१२।२०च्। घन-सङ्कलितम् तद्-कृतिस् एषाम् सम-गोलकैस् चितयस्॥  
-  
-  
-  
-[क्षेत्र-व्यवहारस्]  
-  
-  
-  
+    
+ब्स्स्_१२।२०च्। घन-सङ्कलितम् तद्-कृतिस् एषाम् सम-गोलकैस् चितयस्॥
+
+[क्षेत्र-व्यवहारस्]
+
 ब्स्स्_१२।२१अ। स्थूल-फलम् %त्रि-%चतुर्-भुज-बाहु-प्रतिबाहु-योग-#दल-घातस्।  
-  
+    
 ब्स्स्_१२।२१च्। भुज-योग-%अर्ध-%चतुष्टय-भुज-ऊन-घातात् पदम् सूक्ष्मम्॥  
-  
-ब्स्स्_१२।२२अ। भुज-कृति-अन्तर-भू-हृत-हीन-युता भूस् %द्वि-भाजिता आवाधे। [द्: -कृत्यन्त्यन्तर-  
-  
+    
+ब्स्स्_१२।२२अ। भुज-कृति-अन्तर-भू-हृत-हीन-युता भूस् %द्वि-भाजिता आवाधे। [द्: -कृत्यन्त्यन्तर-<-कृति-अन्तर-]  
+    
 ब्स्स्_१२।२२च्। स्व-आवाधा-वर्ग-ऊनात् भुज-वर्गात् मूलम् अवलम्बस्॥  
-  
+    
 ब्स्स्_१२।२३अ। अविषम-%चतुर्-अस्र-भुज--प्रतिभुज-वधयोस् युतेस् पदम् कर्णस्।  
-  
+    
 ब्स्स्_१२।२३च्। कर्ण-कृतिस् भू-मुख-युति-#दल-वर्ग-ऊना पदम् लम्बस्॥  
-  
+    
 ब्स्स्_१२।२४अ। कर्ण-कृतेस् कोटि-कृतिम् विशोध्य मूलम् भुजस् भुजस्य कृतिम्।  
-  
-ब्स्स्_१२।२४च्। प्रोह्य पदम् कोटिस् कोटि-बाहु-कृति-युति-पदम् कर्णस्॥ [द्: वाहु < bāhu]  
-  
-BSS_12.25a/ karṇa-yutau ūrdhva-adhara-khaṇḍe karṇa-avalamba-yoge vā/  
-  
-BSS_12.25c/ sva-āvādhe sva-yuti-hṛte dvidhā pṛthak karṇa-lamba-guṇe//  
-  
-BSS_12.26a/ aviṣama-pārśva-bhuja-guṇas karṇas %dvi-guṇa-avalambaka-vibhaktas/  
-  
-BSS_12.26c/ hṛdayam viṣamasya bhuja-pratibhuja-kṛti-yoga-mūla-%ardham//  
-  
-BSS_12.27a/ %tri-bhujasya vadhas bhujayos %dvi-guṇita-lamba-uddhṛtas hṛdaya-rajjus/  
-  
-BSS_12.27c/ sā %dvi-guṇā %tri-%catur-bhuja-koṇa-spṛk vṛtta-viṣkambhas//  
-  
-BSS_12.28a/ karṇa-āśrita-bhuja-ghāta-aikyam ubhayathā anyonya-bhājitam guṇayet/  
-  
-BSS_12.28c/ yogena bhuja-pratibhuja-vadhayos karṇau pade viṣame//  
-  
-BSS_12.29a/ viṣama-%catur-asra-madhye viṣama-%tri-bhuja-%dvayam prakalpya pṛthak/  
-  
-BSS_12.29c/ karṇa-%dvayena pūrva-vat āvādhe lambakau ca pṛthak//  
-  
-BSS_12.30a/ viṣama-bhuja-antar-%tri-bhuje prakalpya karṇau bhujau tad-āvādhe/  
-  
-BSS_12.30c/ pṛthak ūrdhva-adhara-khaṇḍe karṇa-yutau karṇayos adhare//  
-  
-BSS_12.31a/ %tri-bhje bhujau tu bhūmis tad-lambas lambaka-adharam khaṇḍam/  
-  
-BSS_12.31c/ ūrdhvam avalamba-khaṇḍam lambaka-yoga-%ardham adhara-ūnam//  
-  
-BSS_12.32a/ karṇa-avalambaka-yutau khaṇḍe karṇa-avalambakayos adhare/  
-  
-BSS_12.32c/ anupātena tad-ūne ūrdhve sūcyām sa-pāṭāyām//  
-  
-BSS_12.33a/ kṛti-yutis asadṛśa-rāśyos bāhus ghātas %dvi-saṅguṇas lambas/  
-  
-BSS_12.33c/ kṛti-antaram asadṛśayos %dvi-guṇam %dvi-sama-%tri-bhuja-bhūmis//  
-  
-BSS_12.34a/ iṣṭa-%dvayena bhaktas dvidhā iṣṭa-vargas phala-iṣṭa-yoga-%ardhe/  
-  
-BSS_12.34c/ viṣama-%tri-bhujasya bhujau iṣṭa-ūna-phala-%ardha-yogas bhūs//  
-  
-BSS_12.35a/ iṣṭasya bhujasya kṛtis bhaktā ūnā iṣṭena tad-#dalam koṭis/  
-  
-BSS_12.35c/ āyata-%catur-asrasya kṣetrasya iṣṭa-adhikā karṇas//  
-  
-BSS_12.36a/ āyata-karṇas bāhū bhuja-kṛtis iṣṭena bhājitā iṣṭa-ūnā/  
-  
-BSS_12.36c/ %dvi-hṛtā koṭi-adhikā bhūs mukham ūnā %dvi-sama-%catur-asre//  
-  
-BSS_12.37a/ karṇa-kṛtis %tri-sama-hbujās %trayas %caturthas viśodhya koṭi-kṛtim/  
-  
-BSS_12.37c/ bāhu-kṛtes %tri-guṇāyās yadi adhikas bhūs mukham hīnas//  
-  
-BSS_12.38a/ jātya-%dvaya-koṭi-bhujās para-karṇa-guṇās bhujās %catur-viṣame/  
-  
-BSS_12.38c/ adhikas bhūs mukha-hīnas bāhu-%dvitayam bhujau anyau//  
-  
-BSS_12.39a/ iṣṭa-guṇa-kāra-guṇitas giri-ucchrāyas pura-antaram anaṣṭam/  
-  
-BSS_12.39c/ %dvi-yuta-guṇa-kāra-bhājitam utpātas anyasya sama-gatyos//  
-  
-BSS_12.40a/ vyāsa-vyāsa-%ardha-kṛtī paridhi-phale vyāvahārike %tri-guṇe/  
-  
-BSS_12.40c/ tad-vargābhyām %daśabhis saṅguṇitābhyām pade sūkṣme//  
-  
-BSS_12.41a/ vṛtte śara-ūna-guṇitāt vyāsāt %catur-āhatāt padam jīvā/  
-  
-BSS_12.41c/ jyā-vargas %catur-āhata-śara-bhaktas śara-yutas vyāsas//  
-  
-BSS_12.42a/ jyā-vyāsa-kṛti-viśeṣāt mūla-vyāsa-antara-%ardham iṣus alpas/  
-  
-BSS_12.42c/ vyāsau grāsa-ūna-guṇau grāsa-ūna-aikya-uddhṛtau bāṇau//  
-  
-BSS_12.43a/ iṣṭa-śara-%dvaya-bhakte jyā-%ardha-kṛtī śara-yute phale vyāsau/  
-  
-BSS_12.43c/ śarayos phalayos aikyam grāsas grāsa-ūnam aikyam tat//  
-  
-  
-  
-[khāta-vyavahāras]  
-  
-  
-  
-BSS_12.44a/ kṣetra-phalam vedha-guṇam sama-khāta-phalam hṛtam %tribhis sūcyās/  
-BSS_12.44c/ mukha-tala-tulya-bhuja-aikyāni %eka-agra-hṛtāni sama-rajjus//  
-  
-BSS_12.45a/ mukha-tala-yuti-#dala-gaṇitam vedha-guṇam vyāvahārikam gaṇitam/  
-  
-BSS_12.45c/ mukha-tala-gaṇita-aikya-%ardham vedha-guṇam syāt gaṇitam autram//  
-  
-BSS_12.46a/ autra-gaṇitāt viśodhya vyavahāra-phalam bhajet %tribhis śeṣam/  
-  
-BSS_12.46c/ labdham vyavahāra-phale prakṣipya bhavati phalam sūkṣmam//  
-  
-  
-  
-[citi-vyavahāras]  
-  
-  
-  
-BSS_12.47a/ ākṛti-phalam auccya-āhatam agra-tala-aikya-%ardham auccya-dairghya-guṇam/  
-  
-BSS_12.47c/ ghana-gaṇitam iṣṭakā-ghana-phalena hṛtam iṣṭakā-gaṇitam//  
-  
-  
-  
-[krākacika-vyavahāras]  
-  
-  
-  
-BSS_12.48a/ vistāra-āyāma-aṅgula-ghātas mārga-āhatas %dvi-#veda-hṛtas/  
-  
-BSS_12.48c/ kiṣku-aṅgulāni labdham tat %ṣaṇṇavatis bhavati karma//  
-  
-BSS_12.49a/ śākā-ādiṣu śālmalyām %śata-%dvayam bījake %śatam %viṃśam/  
-  
-BSS_12.49c/ śāla-sarala-ādiṣu %śatam atha avi-dāruṣu %catuḥṣaṣṭis/  
-  
-  
-  
-[rāśi-vyavahāras]  
-  
-  
-  
-BSS_12.50a/ %navamas śūkiṣu %daśamas sthūleṣu %ekādaśas bhavati aṇuṣu/  
-  
-BSS_12.50c/ paridhes vedhas paridhes %ṣaṣ-aṃśa-varga-āhatas gaṇitam//  
-  
-BSS_12.51a/ %dvi-%catur-sa-%tri-aṃśa-guṇas bhitti-antar-vāhya-koṇa-gas paridhis/  
-  
-BSS_12.51c/ prāk-vat kṛtvā gaṇitam tad-gaṇitam sva-guṇa-kāra-hṛtam//  
-  
-  
-  
-[chāyā-vyavahāras]  
-  
-  
-  
-BSS_12.52a/ chāyā-nara-sa-%eka-hṛtam dyu-#dalam prāk-aparayos dyu-gata-śeṣam/  
-  
-BSS_12.52c/ dina-gata-śeṣa-aṃśa-hṛtam dyu-#dalam chāyā-nara-vi-%ekam//  
-  
-BSS_12.53a/ dīpa-tala-śaṅku-talayos antaram iṣṭa-pramāṇa-śaṅku-guṇam/  
-  
-BSS_12.53c/ dīpa-śikha-auccyāt śaṅkum viśodhya śeṣa-uddhṛtam chāyā//  
-  
-BSS_12.54a/ chāyā-agra-antara-guṇitā chāyā chāyā-antareṇa bhaktā bhūs/  
-  
-BSS_12.54c/ bhūs śaṅku-guṇā chāyā-vibhājitā dīpa-śikhayā auccyam//  
-  
-  
-  
-[pratyutpanna-ādayas]  
-  
-  
-  
-BSS_12.55a/ guṇa-kāra-khaṇḍa-tulyas guṇyas go-mūtrikā-kṛtas guṇitas/  
-  
-BSS_12.55c/ sahitas pratyutpannas guṇa-kāraka-bheda-tulyas vā//  
-  
-BSS_12.56a/ guṇyas rāśis guṇa-kāra-rāśinā iṣṭa-adhika-ūnakena guṇas/  
-  
-BSS_12.56c/ guṇya-iṣṭa-vadha-ūna-yutas guṇake abhyadhika-ūnake kāryas//  
-  
-BSS_12.57a/ chedena iṣṭa-yuta-ūnena āptam bhājyāt anaṣṭam iṣṭa-guṇam/  
-  
-BSS_12.57c/ prakṛti-stha-cheda-hṛtam labdhyā yuta-hīnakam anaṣṭam//  
-  
-BSS_12.58a/ guṇyas cheda-phala-vadhas guṇaka-hṛtas guṇya-bhājitas guṇakas/  
-  
-BSS_12.58c/ cheda-uddhṛtas phalam guṇya-guṇa-vadhas phala-hṛtas chedas//  
-  
-BSS_12.59a/ guṇya-guṇa-kārayos cheda-labdhayos yadi %dvayos %dvayos nāśas/  
-  
-BSS_12.59c/ teṣām dṛśyau vyastau kṛtvā tad-sthānayos ca iṣṭau//  
-  
-BSS_12.60a/ guṇyam guṇa-kāram vā guṇayet chedena bhāga-hārasya/  
-  
-BSS_12.60c/ guṇya-guṇa-kāra-rāśyos cheda-guṇas bhāga-hāras ca//  
-BSS_12.61a/ acchedasya chedam #rūpam kṛtvā anyat ukta-vat sarvam/  
-  
-BSS_12.61c/ apavartyau cheda-guṇau tulyena iṣṭena guṇyau vā//[D: avaparttyau < apavartyau]  
-  
-BSS_12.62a/ sva-vikala-%ṣaṣṭi-aṃśa-guṇas sakalas %triṃśa-uddhṛtas vikala-vargas/  
-  
-BSS_12.62c/ prakṣepyas sakala-kṛtau varga-ghanau %dvi-%tri-tulya-vadhau//  
-  
-BSS_12.63a/ rāśes ūnam %dvi-guṇam bahutara-guṇam ūna-kṛti-yutam vargas/  
-  
-BSS_12.63c/ rāśes iṣṭa-yuta-ūnāt vadhas kṛtis vā iṣṭa-kṛti-yuktas//  
-  
-BSS_12.64a/ iṣṭa-alpa-rāśi-vargau yukta-ūnau itara-vikala-vargābhyām/  
-  
-BSS_12.64c/ %dvi-guṇa-itara-rāśibhyām bhaktau tena adhika-ūnābhyām//  
-  
-BSS_12.65a/ sthāna-antareṣu labdham yena samam phala-yuta-ūnaka-chedas/  
-  
-BSS_12.65c/ dalitas kṛti-yoga-antara-padam itaras vā phala-yuta-ūnas//  
-  
-BSS_12.66a/ dik-mātram etat anyat jyā-utpattau kuṭṭake ca kathayiṣye/  
-  
-BSS_12.66c/ saṅkalita-ādiṣu āryās %ṣaṭṣaṣṭis %dvādaśas adhyāyas//  
-  
-BSS_12.66p/ iti śrī-brāhma-sphuṭa-siddhānte %dvādaśas adhyāyas//12//  
-  
-  
-  
-[atha kuṭṭaka-adhyāyas]  
-  
-  
-  
-BSS_18.1a/ prāyeṇa yatas praśnās kuṭṭākārāt ṛte na śakyante/  
-  
-BSS_18.1c/ jñātum vakṣyāmi tatas kuṭṭākāram saha praśnais//  
-  
-BSS_18.2a/ kuṭṭaka-#kha-ṛṇa-dhana-avyakta-madhya-haraṇa-%eka-varṇa-bhāvitakais/  
-  
-BSS_18.2c/ ācāryas tantra-vidām jñātais varga-prakṛtyā ca//  
-  
-  
-  
-[kuṭṭakam]  
-  
-  
-  
-BSS_18.3a/ adhika-agra-bhāga-hārāt ūna-agra-cheda-bhājitāt śeṣam/  
-  
-BSS_18.3c/ yat tat paraspara-hṛtam labdham adhas adhas pṛthak sthāpyam//  
-  
-BSS_18.4a/ śeṣam tathā iṣṭa-guṇitam yathā agrayos antareṇa saṃyuktam/  
-  
-BSS_18.4c/ śudhyati guṇakas sthāpyas labdham ca antyāt upāntya-guṇas//  
-  
-BSS_18.5a/ sva-ūrdhvas antya-yutas agra-antas hīna-agra-cheda-bhājitas śeṣam/  
-  
-BSS_18.5c/ adhika-agra-cheda-hatam adhika-agra-yutam bhavati agram//  
-  
-BSS_18.6a/ cheda-vadhasya %dvi-yugam cheda-vadhas yuga-gatam %dvayos agram/  
-  
-BSS_18.6c/ kuṭṭākāreṇa evam %tri-ādi-graha-yuga-gata-ānayanam//  
-  
-BSS_18.7a/ bha-gaṇa-ādi-śeṣam agram cheda-hṛtam #kham ca dina-ja-śeṣa-hṛtam/  
-  
-BSS_18.7c/ anayos agram bha-gaṇa-ādi-dina-ja-śeṣa-uddhṛtam dyu-gaṇas// [Cb.8]  
-  
-BSS_18.8a/ dina-ja-bha-gaṇa-ādi-śeṣam yena guṇam maṇḍala-ādi śeṣakayos/  
-  
-BSS_18.8c/ sa-dṛśa-cheda-uddhṛtayos tad-ghātam ahar-gaṇa-ādyam atas// [Cb.10]  
-  
-BSS_18.9a/ hṛtayos parasparam yat cheṣam guṇa-kāra-bhāga-hārakayos/  
-  
-BSS_18.9c/ tena hṛtau nis-chedau tau eva parasparam hṛtayos// [Cb.11]  
-  
-BSS_18.10a/ labdham adhas adhas sthāpyam tathā iṣṭa-guṇa-kāra-saṅguṇam śeṣam/  
-  
-BSS_18.10c/ śudhyati yathā %eka-hīnam guṇakas sthāpyas phalam ca antyāt// [Cb.12]  
-  
-BSS_18.11a/ agra-antam upāntyena sva-ūrdhvas guṇitas antya-saṃyutas bhaktam/  
-  
-BSS_18.11c/ nis-śeṣa-bhāga-hāreṇa evam sthira-kuṭṭakas śeṣam// [Cb.13]  
-  
-BSS_18.12a/ iṣṭa-bha-gaṇa-ādi-śeṣāt sva-kuṭṭaka-guṇāt sva-bhāga-hāra-guṇāt/  
-  
-BSS_18.12c/ śeṣam dyu-gaṇas gata-nis-apavarta-guṇa-bhāga-hāra-yutas// [Cb.15; ḍ: -apavartta- < -apavarta-]  
-  
-BSS_18.13a/ evam sameṣu viṣameṣu ṛṇam dhanam dhanam ṛṇam yat uktam tat/  
-  
-BSS_18.13c/ ṛṇa-dhanayos vyastatvam guṇya-prakṣepayos kāryam// [Cb.16]  
-  
-BSS_18.14a/ guṇakas chedas chedas guṇakas dhanam ṛṇam ṛṇam dhanam kāryam/  
-  
-BSS_18.14c/ vargam padam padam kṛtis antyāt viparītam ādyam tat// [Cb.17]  
-  
-BSS_18.15a/ yas jānāti yuga-ādi graha-yuga-yātais pṛthak pṛthak kathitais/  
-  
-BSS_18.15c/ %dvi-%tri-%catur-prabhṛtīnām kuṭṭākāram sas jānāti// [Cb.7]  
-  
-BSS_18.16a/ bha-gaṇa-ādyam iṣṭa-śeṣam kadā indu-divase raves guru-dine vā/  
-  
-BSS_18.16c/ jña-dine rāśīn kathayati kuṭṭākāram sas jānāti// [Cb.19]  
-  
-BSS_18.17a/ jña-dine yat aṃśa-śeṣam vikalā-śeṣam kadā tat indu-dine/  
-  
-BSS_18.17c/ bhānos atha vā śaśinas yas kathayati kuṭṭaka-jñas sas// [Cb.20]  
-  
-BSS_18.18a/ tithi-māna-dineṣu iṣṭās ye arka-ādyās te punar kadā teṣu/  
-  
-BSS_18.18c/ iṣṭa-graha-vāreṣu yas kathayati kuṭṭaka-jñas sas// [Cb.21]  
-  
-BSS_18.19a/ iṣṭa-bha-gaṇa-ādi-śeṣāt dyu-gaṇas tat kuṭṭakena saṃyuktas/  
-  
-BSS_18.19c/ tad-cheda-dinais tāvat dina-vāras yāvat iṣṭas syāt// [Cb.22]  
-  
-BSS_18.20a/ yas rāśi-ādīn dṛṣṭvā madhyasya iṣṭasya katahyati dyu-gaṇam/  
-  
-BSS_18.20c/ %dvi-ādi-graha-saṃyogāt graha-antarāt vā sas kuṭṭa-jñas// [Cb.23]  
-  
-BSS_18.21a/ nis-cheda-bhāga-hārāt rāśi-ādi-kalā-ādinā hatāt bhaktāt/  
-  
-BSS_18.21c/ bha-gaṇa-kalābhis labdham maṇḍala-śeṣam dina-gaṇas asmāt// [Cb.24]  
-  
-BSS_18.22a/ evam rāśi-aṃśa-kalā-vikalā-śeṣāt ahar-gaṇas prāk-vat/  
-  
-BSS_18.22c/ naṣṭa-stheṣu iṣṭān tān kṛtvā bhaktvā ukta-vat śeṣam// [Cb.25]  
-  
-BSS_18.23a/ rāśi-aṃśa-kalā-vikalā-śeṣāt kathitāt abhīṣṭatas naṣṭān/  
-  
-BSS_18.23c/ yas sādhayati uparitanān sa-madhyamān kuṭṭaka-jñas sas// [Cb.26]  
-  
-BSS_18.24a/ yena guṇas śeṣa-yutas chedas śudhyati hṛtas sva-guṇakena/  
-  
-BSS_18.24c/ tad-bhuktam śeṣam phalam evam śeṣāt graha-dyu-gaṇau// [Cb.27]  
-  
-BSS_18.25a/ jānāti yas yuga-gatam kathitāt adhimāsa-śeṣakāt iṣṭāt/  
-  
-BSS_18.25c/ avama-avaśeṣatas vā tad-yogāt vā sas kuṭṭa-jñas// [Cb.28]  
-BSS_18.26a/ iṣṭeṣu māna-divaseṣu adhimāsa-nyūna-rātra-śeṣe vā/  
-  
-BSS_18.26c/ bhūyas te yas kathayati pṛthak pṛthak vā sas kuṭṭa-jñas// [Cb.@]  
-  
-BSS_18.27a/ aṃśaka-śeṣāt %tri-ūnāt %sapta-hṛtāt mūlam ūnam %aṣṭābhis/  
-  
-BSS_18.27c/ %navabhis guṇam sa-#rūpam kadā %śatam budha-dine savitus// [Cb.18]  
-  
-BSS_18.28a/ %tri-ūna-adhimāsa-śeṣāt mūlam %dvi-adhikam vibhājitam %ṣaḍbhis/  
-  
-BSS_18.28c/ %dvi-ūnam vargitam adhikam %navabhis %navatis kadā bhavati// [Cb.29]  
-  
-BSS_18.29a/ avama-avaśeṣa-vargas vi-%ekas %viṃśati-vibhājitas %dvi-adhikas/  
-  
-BSS_18.29c/ %aṣṭa-guṇas %daśa-bhaktas %dvi-yutas %aṣṭādaśa kadā bhavati// [Cb.30]  
-  
-  
-  
-[dhana-ṛṇa-śūnyam]  
-  
-  
-  
-BSS_18.30a/ dhanayos dhanam ṛṇam ṛṇayos dhana-ṛṇayos antaram sama-aikyam #kham/  
-  
-BSS_18.30c/ ṛṇam aikyam ca dhanam ṛṇa-dhana-#śūnyayos #śūnyayos #śūnyam// [Cb.31]  
-  
-BSS_18.31a/ ūnam adhikāt viśodhyam dhanam dhanāt ṛṇam ṛṇāt adhikam ūnāt/  
-  
-BSS_18.31c/ vyastam tad-antaram syāt ṛṇam dhanam dhanam ṛṇam bhavati// [Cb.32]  
-  
-BSS_18.32a/ #śūnya-vihīnam ṛṇam ṛṇam dhanam dhanam bhavati #śūnyam #ākāśam/  
-  
-BSS_18.32c/ śodhyam yadā dhanam ṛṇāt ṛṇam dhanāt vā tadā kṣepyam// [Cb.33]  
-  
-BSS_18.33a/ ṛṇam ṛṇa-dhanayos ghātas dhanam ṛṇayos dhana-vadhas dhanam bhavati/  
-  
-BSS_18.33c/ #śūnya-ṛṇayos #kha-dhanayos #kha-#śūnyayos vā vadhas #śūnyam// [Cb.34]  
-  
-BSS_18.34a/ dhana-bhaktam dhanam ṛṇa-hṛtam ṛṇam dhanam bhavati #kham #kha-bhaktam #kham/  
-  
-BSS_18.34c/ bhaktam ṛṇena dhanam ṛṇam dhanena hṛtam ṛṇam ṛṇam bhavati// [Cb.34]  
-  
-BSS_18.35a/ #kha-uddhṛtam ṛṇam dhanam vā tad-chedam #kham ṛṇa-dhana-vibhaktam vā/  
-  
-BSS_18.35c/ ṛṇa-dhanayos vargas svam #kham #khasya padam kṛtis yat tat// [Cb.36]  
-  
-  
-  
-[saṅkramaṇam]  
-  
-  
-  
-BSS_18.36a/ yogas antara-yuta-hīnas %dvi-hṛtas saṅkramaṇam antara-vibhaktam vā/  
-  
-BSS_18.36c/ varga-antaram antara-yuta-hīnam %dvi-hṛtam viṣama-karma// [Cb.37]  
-  
-  
-  
-[karaṇī]  
-  
-  
-  
-BSS_18.37a/ karaṇī lambas tad-kṛtis iṣṭa-hṛtā iṣṭa-ūna-saṃyutā alpā bhūs/  
-  
-BSS_18.37c/ adhikas %dvi-hṛtas bāhus saṃkṣepyas yad-vadhas vargas// [Cb.38; ḍ: saṃkṣeppas]  
-  
-BSS_18.38a/ iṣṭa-uddhṛta-karaṇī-pada-yuti-kṛtis iṣṭa-guṇitā antara-kṛtis vā/  
-  
-BSS_18.38c/ guṇyas tiryak adhas adhas guṇaka-samas tad-guṇas sahitas// [Cb.39]  
-  
-BSS_18.39a/ sva-iṣṭa-ṛṇa-cheda-guṇau bhājya-chedau pṛthak yujau asakṛt/  
-  
-BSS_18.39c/ cheda-%eka-gata-hṛtas vā bhājyas vargas sama-%dvi-vadhas// [Cb.40]  
-  
-BSS_18.40a/ iṣṭa-karaṇī-ūnāyās rūpa-kṛtes pada-yuta-ūna-rūpa-%ardhe/  
-  
-BSS_18.40c/ %prathamam rūpāṇi anyat tatas dvitīyam karaṇī asakṛt// [Cb.41]  
-  
-BSS_18.41a/ avyakta-varga-ghana-varga-varga-%pañca-gata-%ṣaṣ-gata-ādīnām/  
-  
-BSS_18.41c/ tulyānām saṅkalita-vyavakalite pṛthak atulyānām// [Cb.42]  
-  
-BSS_18.42a/ sadṛśa-%dvi-vadhas vargas %tri-ādi-vadhas tad-gatas anya-jāti-vadhas/  
-  
-BSS_18.42c/ anyonya-varṇa-ghātas bhāvitakas pūrva-vat śeṣam// [Cb.43]  
-  
-  
-  
-[eka-varṇa-samī-karaṇam]  
-  
-  
-  
-BSS_18.43a/ avyakta-antara-bhaktam vyastam rūpa-antaram same avyaktas/  
-  
-BSS_18.43c/ varga-avyaktās śodhyās yasmāt rūpāṇi tad-adhastāt// [Cb.44]  
-  
-BSS_18.44a/ varga-%catur-guṇitānām rūpāṇām madhya-varga-sahitānām/  
-  
-BSS_18.44c/ mūlam nadhyena ūnam varga-%dvi-guṇa-uddhṛtam madhyas// [Cb.48]  
-  
-BSS_18.45a/ varga-āhata-rūpāṇām avyakta-%ardha-kṛti-saṃyutānām yat/  
-  
-BSS_18.45c/ padam avyakta-%ardha-ūnam tat varga-vibhaktam avyaktas// [Cb.50]  
-  
-BSS_18.46a/ sa-%ekāt aṃśaka-śeṣāt %dvādaśa-bhāgas %catur-guṇas %aṣṭa-yutas/  
-  
-BSS_18.46c/ sa-%eka-aṃśa-śeṣa-tulyas yadā tadā ahar-gaṇam kathaya// [Cb.45]  
-  
-BSS_18.47a/ %dvi-ūnam adhika-māsa-śeṣam %tri-hṛtam %sapta-adhikam %dvi-saṅguṇitam/  
-  
-BSS_18.47c/ adhimāsa-śeṣa-tulyam yadā tadā yuga-gatam kathaya// [Cb.46]  
-  
-BSS_18.48a/ vi-%ekam avama-avaśeṣam %ṣaṣ-uddhṛtam %tri-yutam avama-śeṣasya/  
-  
-BSS_18.48c/ %pañca-vibhaktasya samam yadā tadā yuga-gatam kathaya// [Cb.47]  
-  
-BSS_18.49a/ maṇḍala-śeṣāt %dvi-ūnāt mūlam vi-%ekam %daśa-āhatam %dvi-yutam/  
-  
-BSS_18.49c/ maṇḍala-śeṣam vi-%ekam bhānos jña-dine kadā bhavati//  
-  
-BSS_18.50a/ adhimāsa-śeṣa-#pādāt %tri-ūnāt vargas adhimāsa-śeṣa-samas/  
-  
-BSS_18.50c/ avama-avaśeṣatas vā avama-śeṣa-samas kadā bhavati// [Cb.51]  
-  
-  
-  
-[aneka-varṇa-samī-karaṇam]  
-  
-  
-  
-BSS_18.51a/ ādyāt varṇāt anyān varṇān prohya ādya-mānam āḍya-hṛtam/  
-  
-BSS_18.51c/ sadṛśa-chedau asakṛt %dvau vyastau kuṭṭakas bahuṣu// [Cb.52]  
-  
-BSS_18.52a/ gata-bhagaṇa-yutāt dyu-gaṇāt tad-śeṣa-yutāt tad-aikya-saṃyuktāt/  
-  
-BSS_18.52c/ tad-yogāt dyu-gaṇam vā yas kathayati kuṭṭaka-jñas sas// [Cb.53]  
-  
-BSS_18.53a/ gata-bhagaṇa-ūnāt dyu-gaṇāt tad-śeṣa-ūnāt tad-aikya-hīnāt vā/  
-  
-BSS_18.53c/ tad-vivarāt dyu-gaṇam vā yas kathayati kuṭṭaka-jñas sas// [Cb.54]  
-  
-BSS_18.54a/ rāśi-ādyais tad-śeṣais ca evam bhukta-adhimāsa-dina-hīnais/  
-  
-BSS_18.54c/ tad-śeṣais ca yuga-gatam yas kathayati kuṭṭaka-jñas sas// [Cb.55]  
-  
-BSS_18.55a/ aṃśaka-śeṣeṇa yutāt liptā-śeṣāt tad-antarāt atha vā/  
-  
-BSS_18.55c/ bhānos jña-dine dyu-gaṇam yas kathayati kuṭṭaka-jñas sas// [Cb.56]  
-  
-BSS_18.56a/ aṃśaka-śeṣam %tri-yutam liptā-śeṣam kadā raves jña-dine/  
-  
-BSS_18.56c/ %ṣaṭ %sapta %aṣṭau %nava vā kurvan ā vatsarāt gaṇakas// [Cb.57]  
-  
-BSS_18.57a/ aṃśa-samam aṃśa-śeṣam kalā-samam vā kalā-śeṣam/  
-  
-BSS_18.57c/ divasa-karasya iṣṭa-dine kurvan ā vatsarāt gaṇakas// [Cb.58]  
-  
-BSS_18.58a/ avama-avaśeṣam avamais adhimāsaka-śeṣam adhimāsais/  
-  
-BSS_18.58c/ iṣṭa-yuta-ūnam tulyam kurvan ā vatsarāt gaṇakas// [Cb.59]  
-  
-BSS_18.59a/ nis-cheda-bhāga-hāras bhānos %saptati-guṇas aṃśa-śeṣa-ūnas/  
-  
-BSS_18.59c/ śudhyati %ayuta-vibhaktas kurvan ā vatsarāt gaṇakas// [Cb.60]  
-  
-  
-  
-[bhāvitakam]  
-  
-  
-  
-BSS_18.60a/ bhāvitaka-rūpa-guṇanā sa-avyakta-vadhā iṣṭa-bhājitā iṣṭa-āptyos/  
-  
-BSS_18.60c/ alpe adhikas adhike alpas kṣepyas bhāvita-hṛtau vyastam// [Cb.61]  
-  
-BSS_18.61a/ bhānos rāśi-aṃśa-vadhāt %tri-%catur-guṇitān viśodhya rāśi-aṃśān/  
-  
-BSS_18.61c/ %navatim dṛṣṭvā sūryam kurvan ā vatsarāt gaṇakas// [Cb.62]  
-  
-BSS_18.62a/ bhāvitake yad-ghātas vinaṣṭa-varṇena tad-pramāṇāni/  
-  
-BSS_18.62c/ kṛtvā iṣṭāni tad-āhata-varṇa-aikyam bhavati rūpāṇi// [Cb.66]  
-  
-BSS_18.63a/ varṇa-pramāṇa-bhāvita-ghātas bhavati iṣṭa-varṇa-saṅkhyā evam/  
-  
-BSS_18.63c/ sidhyati vinā api bhāvita-sama-karaṇāt kim kṛtam tat atas// [Cb.64]  
-  
-  
-  
-[varga-prakṛtis]  
-  
-  
-  
-BSS_18.64a/ mūlam dvidhā iṣṭa-vargāt guṇaka-guṇāt iṣṭa-yuta-vihīnāt ca/  
-  
-BSS_18.64c/ ādya-vadhas guṇaka-guṇas saha antya-ghātena kṛtam antyam// [Cb.65]  
-  
-BSS_18.65a/ vajra-vadha-aikyam %prathamam prakṣepas kṣepa-vadha-tulyas/  
-  
-BSS_18.65c/ prakṣepa-śodhaka-hṛte mūle prakṣepake #rūpe// [Cb.66]  
-  
-BSS_18.66a/ #rūpa-prakṣepa-pade pṛthak iṣṭa-kṣepya-śodhya-mūlābhyām/  
-  
-BSS_18.66c/ kṛtvā antya-ādya-pade ye prakṣepe śodhane vā iṣṭe// [Cb.68]  
-  
-BSS_18.67a/ %catur-adhike antya-pada-kṛtis %tri-ūnā dalitā antya-pada-guṇā antya-padam/  
-  
-BSS_18.67c/ antya-pada-kṛtis vi-%ekā %dvi-hṛtā ādya-pada-āhatā ādya-padam// [Cb.69]  
-  
-BSS_18.68a/ %catur-ūne antya-pada-kṛtī %tri-%eka-yute vadha-#dalam pṛthak vi-%ekam/  
-  
-BSS_18.68c/ vi-%eka-āḍya-āhatam antyam pada-vadha-guṇam ādyam āntya-padam// [Cb.71]  
-  
-BSS_18.69a/ varge guṇake kṣepas kena cit uddhṛta-yuta-ūnitas dalitas/  
-  
-BSS_18.69c/ %prathamas antya-mūlam anyas guṇa-kāra-pada-uddhṛtas %prathamas// [Cb.73]  
-  
-BSS_18.70a/ varga-chinne guṇake %prathamam tad-mūla-bhājitam bhavati/  
-  
-BSS_18.70c/ varga-chinne kṣepe tad-pada-guṇite tadā mūle// [Cb.75]  
-  
-BSS_18.71a/ guṇaka-yutis %aṣṭa-guṇitā guṇaka-antara-varga-bhājitā rāśis/  
-  
-BSS_18.71c/ guṇakau %tri-guṇau vyasta-adhikau hṛtau antareṇa pade// [Cb.78]  
-  
-BSS_18.72a/ vargas anya-kṛti-yuta-ūnas tad-saṃyoga-antara-%ardha-kṛti-bhaktas/  
-  
-BSS_18.72c/ tad-guṇitau yuti-viyutau vargau ghāte ca #rūpa-yute// [Cb.72]  
-BSS_18.73a/ yais ūnas yais ca yutas rūpais vargas tad-aikyam iṣṭa-hṛtam/  
-  
-BSS_18.73c/ iṣṭa-ūnam tad-#dala-kṛtis ūnā abhyadhikā bhavati rāśis// [Cb.84]  
-BSS_18.74a/ yābhyām kṛtis adhika-ūnas tad-antaram hṛta-yuta-ūnam iṣṭena/  
-  
-BSS_18.74c/ tad-#dala-kṛtis adhika-ūnā adhikayos adhika-ūnayos rāśis// [Cb.82]  
-  
-  
-  
-[udāharaṇāni]  
-  
-  
-  
-BSS_18.75a/ rāśi-kalā-śeṣa-kṛtim %dvinavati-guṇitām %tryaśīti-guṇitām vā/  
-  
-BSS_18.75c/ sa-%ekā jña-dine vargam kurvan ā vatsarāt gaṇakas// [Cb.67]  
-  
-BSS_18.76a/ sūrya-viliptā-śeṣam %pañcabhis ūna-āhatam tathā %daśabhis/  
-  
-BSS_18.76c/ varge bṛhaspati-dine kurvan ā vatsarāt gaṇakas// [Cb.86]  
-  
-BSS_18.77a/ bha-gaṇa-ādi-śeṣa-vargam %tribhis guṇam saṃyutam %śatais %navabhis/  
-  
-BSS_18.77c/ kṛtim %aṣṭa-%śata-ūnam vā kurvan ā vatsarāt gaṇakas// [Cb.70]  
-  
-BSS_18.78a/ bha-gaṇa-ādi-śeṣa-vargam %catur-guṇam %pañcaṣaṣṭi-saṃyuktam/  
-  
-BSS_18.78c/ %ṣaṣṭi-ūnam vā vargam kurvan ā vatsarāt gaṇakas// [Cb.74]  
-  
-BSS_18.79a/ iṣṭa-bhagaṇa-ādi-śeṣam %dvinavati-ūnam %tryaśīti-saṃguṇitam/  
-  
-BSS_18.79c/ #rūpeṇa yutam vargam kurvan ā vatsarāt gaṇakas// [Cb.87]  
-  
-BSS_18.80a/ adhimāsa-śeṣa-vargam %trayodaśa-guṇam %tribhis %śatais yuktam/  
-  
-BSS_18.80c/ %tri-ghana-ūnam vā vargam  kurvan ā vatsarāt gaṇakas// [Cb.72]  
-  
-BSS_18.81a/ indu-viliptā-śeṣam %saptadaśa-guṇam %trayodaśa-guṇam ca api/  
-  
-BSS_18.81c/ pṛthak %eka-yutam vargam  kurvan ā vatsarāt gaṇakas// [Cb.79]  
-  
-BSS_18.82a/ avama-avaśeṣa-vargam %dvādaśa-guṇitam %śatena saṃyuktam/  
-  
-BSS_18.82c/ %tribhis ūnam vā vargam  kurvan ā vatsarāt gaṇakas// [Cb.76]  
-  
-BSS_18.83a/ jña-dine arka-kalā-śeṣam guru-dina-vikalā-avaśeṣa-yukta-ūnam/  
-  
-BSS_18.83c/ vargam vadham ca sa-%ekam  kurvan ā vatsarāt gaṇakas// [Cb.81]  
-  
-BSS_18.84a/ vikalā-śeṣam sahitam %trinavatyā %saptaṣaṣṭi-hīnam ca/  
-  
-BSS_18.84c/ bhānos jña-dine vargam  kurvan ā vatsarāt gaṇakas// [Cb.85]  
-  
-BSS_18.85a/ jña-dine arka-kalā-śeṣam %dvādaśabhis saṃyutam %triṣaṣṭyā ca/  
-  
-BSS_18.85c/ %ṣaṣṭyā %aṣṭabhis ca ūnam  kurvan ā vatsarāt gaṇakas// [Cb.83]  
-  
-BSS_18.86a/ indu-viliptā-śeṣāt ravi-liptā-śeṣam aṃśa-śeṣam vā/  
-  
-BSS_18.86c/ atha vā madhyamam iṣṭam  kurvan ā vatsarāt gaṇakas// [Cb.88]  
-  
-BSS_18.87a/ jīva-viliptā-śeṣāt ku-jam indum bhauma-liptikā-śeṣāt/  
-  
-BSS_18.87c/ ravim indu-bhāga-śeṣāt  kurvan ā vatsarāt gaṇakas// [Cb.89]  
-  
-BSS_18.88a/ iṣṭa-graha-iṣṭa-śeṣāt dyu-gaṇas gata-nis-apavarta-saṃguṇitais/ [D: -apavartta- < -apavarta-]  
-  
-BSS_18.88c/ cheda-dinais adhikas asmāt anya-graha-śeṣam iṣṭas vā// [Cb.90]  
-  
-BSS_18.89a/ nis-cheda-bhāga-hārau grahayos viparītau grahayos dyu-gaṇāt/  
-  
-BSS_18.89c/ yasmāt tad-nis-chedena uddhṛtayos labdha-saṃguṇitau// [D: uddhatayos < uddhṛtayos, Cb.89]  
-  
-BSS_18.90a/ nis-cheda-bhāga-hārau viparītau tad-yutāt punar tasmāt/  
-  
-BSS_18.90c/ śeṣe dyu-gaṇāt evam %tri-ādīnām prāk-vat iṣṭa-dine// [Cb.91]  
-  
-BSS_18.91a/ dyu-gaṇam avama-avaśeṣāt ravi-candrau madhyamau sphuṭau atha vā/  
-  
-BSS_18.91c/ evam tithim graham vā kurvan ā vatsarāt gaṇakas// [Cb.92]  
-  
-BSS_18.92a/ %eka-dinam avama-śeṣam yad-guṇam %eka-ravi-candra-bha-gaṇa-ūnam/  
-  
-BSS_18.92c/ śudhyati bhū-dina-bhaktam vi-%ekam cāndrais tad-uktis iyam// [Cb.93]  
-  
-BSS_18.93a/ #iṣu-#śara-#kṛta-%aṣṭa-3digbhis 108455 saṅguṇitāt avama-śeṣakāt bhaktāt/  
-  
-BSS_18.93c/ #rūpa-%aṣṭa-#veda-#rasa-#śūnya-#śara-#guṇais 3506481 dina-gaṇas śeṣam// [Cb.94]  
-  
-BSS_18.94a/ #jina-#rasa-#go-#abdhi-#rada-3249624-guṇāt #śaśi-#vasu-#kṛta-#rasa-#kha-#bhūta-#rāma-3506481-hṛtāt/  
-  
-BSS_18.94c/ iṣṭa-avama-śeṣāt yat śeṣam ravi-bha-gaṇa-śeṣam tat// [Cb.95]  
-  
-BSS_18.95a/ #go-#aga-#indu-#kha-#īśa-110179-guṇitāt bhaktāt #nakha-#pakṣa-#yama-#rasa-#iṣu-#guṇais 3562220/  
-  
-BSS_18.95c/ śeṣam avama-avaśeṣāt tithayas avama-śeṣakāt vikalam// [Cb.96]  
-  
-BSS_18.96a/ bhāga-kalā-vikalā-aikyam dṛṣṭvā vikalā-antaram ca ke śeṣe/  
-  
-BSS_18.96c/ aikyam dvidhā antara-adhika-hīnam ca %dvi-bhājitam śeṣe// [Cb.97]  
-  
-BSS_18.97a/ tad-varga-antaram ādye tad-antaram ca anatara-uddhṛta-yuta-ūnam/  
-  
-BSS_18.97c/ varga-antaram vibhaktam %dvābhyām śeṣe tatas dyu-gaṇas// [Cb. 98]  
-  
-BSS_18.98a/ [kṛti-saṃyogāt %dvi-guṇāt yuti-vargam prohya śeṣa-mūlam yat/  
-  
-BSS_18.98c/ tena yuta-ūnas yogas dalitas śeṣe pṛthak abhīṣṭe// Cb.99]  
-  
-BSS_18.99a/ śeṣa-vadhāt %dvi-kṛti-guṇāt śeṣa-antara-varga-saṃyutāt mūlam/  
-  
-BSS_18.99c/ śeṣa-antara-ūna-yuktam dalitam śeṣe pṛthak abhīṣṭe// [Cb.100]  
-  
-BSS_18.100a/ hṛdi-ghātram amī praśnās praśnān anyān %sahasra-śas kuryāt/ [D: hṛdi-ghātram > हृद्-मात्रम्]  
-  
+    
+ब्स्स्_१२।२४च्। प्रोह्य पदम् कोटिस् कोटि-बाहु-कृति-युति-पदम् कर्णस्॥ [द्: वाहु < बाहु]  
+    
+ब्स्स्_१२।२५अ। कर्ण-युतौ ऊर्ध्व-अधर-खण्डे कर्ण-अवलम्ब-योगे वा।  
+    
+ब्स्स्_१२।२५च्। स्व-आवाधे स्व-युति-हृते द्विधा पृथक् कर्ण-लम्ब-गुणे॥  
+    
+ब्स्स्_१२।२६अ। अविषम-पार्श्व-भुज-गुणस् कर्णस् %द्वि-गुण-अवलम्बक-विभक्तस्।  
+    
+ब्स्स्_१२।२६च्। हृदयम् विषमस्य भुज-प्रतिभुज-कृति-योग-मूल-%अर्धम्॥  
+    
+ब्स्स्_१२।२७अ। %त्रि-भुजस्य वधस् भुजयोस् %द्वि-गुणित-लम्ब-उद्धृतस् हृदय-रज्जुस्।  
+    
+ब्स्स्_१२।२७च्। सा %द्वि-गुणा %त्रि-%चतुर्-भुज-कोण-स्पृक् वृत्त-विष्कम्भस्॥  
+    
+ब्स्स्_१२।२८अ। कर्ण-आश्रित-भुज-घात-ऐक्यम् उभयथा अन्योन्य-भाजितम् गुणयेत्।  
+    
+ब्स्स्_१२।२८च्। योगेन भुज-प्रतिभुज-वधयोस् कर्णौ पदे विषमे॥  
+    
+ब्स्स्_१२।२९अ। विषम-%चतुर्-अस्र-मध्ये विषम-%त्रि-भुज-%द्वयम् प्रकल्प्य पृथक्।  
+    
+ब्स्स्_१२।२९च्। कर्ण-%द्वयेन पूर्व-वत् आवाधे लम्बकौ च पृथक्॥  
+    
+ब्स्स्_१२।३०अ। विषम-भुज-अन्तर्-%त्रि-भुजे प्रकल्प्य कर्णौ भुजौ तद्-आवाधे।  
+    
+ब्स्स्_१२।३०च्। पृथक् ऊर्ध्व-अधर-खण्डे कर्ण-युतौ कर्णयोस् अधरे॥  
+    
+ब्स्स्_१२।३१अ। %त्रि-भ्जे भुजौ तु भूमिस् तद्-लम्बस् लम्बक-अधरम् खण्डम्।  
+    
+ब्स्स्_१२।३१च्। ऊर्ध्वम् अवलम्ब-खण्डम् लम्बक-योग-%अर्धम् अधर-ऊनम्॥  
+    
+ब्स्स्_१२।३२अ। कर्ण-अवलम्बक-युतौ खण्डे कर्ण-अवलम्बकयोस् अधरे।  
+    
+ब्स्स्_१२।३२च्। अनुपातेन तद्-ऊने ऊर्ध्वे सूच्याम् स-पाटायाम्॥  
+    
+ब्स्स्_१२।३३अ। कृति-युतिस् असदृश-राश्योस् बाहुस् घातस् %द्वि-सङ्गुणस् लम्बस्।  
+    
+ब्स्स्_१२।३३च्। कृति-अन्तरम् असदृशयोस् %द्वि-गुणम् %द्वि-सम-%त्रि-भुज-भूमिस्॥  
+    
+ब्स्स्_१२।३४अ। इष्ट-%द्वयेन भक्तस् द्विधा इष्ट-वर्गस् फल-इष्ट-योग-%अर्धे।  
+    
+ब्स्स्_१२।३४च्। विषम-%त्रि-भुजस्य भुजौ इष्ट-ऊन-फल-%अर्ध-योगस् भूस्॥  
+    
+ब्स्स्_१२।३५अ। इष्टस्य भुजस्य कृतिस् भक्ता ऊना इष्टेन तद्-#दलम् कोटिस्।  
+    
+ब्स्स्_१२।३५च्। आयत-%चतुर्-अस्रस्य क्षेत्रस्य इष्ट-अधिका कर्णस्॥  
+    
+ब्स्स्_१२।३६अ। आयत-कर्णस् बाहू भुज-कृतिस् इष्टेन भाजिता इष्ट-ऊना।  
+    
+ब्स्स्_१२।३६च्। %द्वि-हृता कोटि-अधिका भूस् मुखम् ऊना %द्वि-सम-%चतुर्-अस्रे॥  
+    
+ब्स्स्_१२।३७अ। कर्ण-कृतिस् %त्रि-सम-ह्बुजास् %त्रयस् %चतुर्थस् विशोध्य कोटि-कृतिम्।  
+    
+ब्स्स्_१२।३७च्। बाहु-कृतेस् %त्रि-गुणायास् यदि अधिकस् भूस् मुखम् हीनस्॥  
+    
+ब्स्स्_१२।३८अ। जात्य-%द्वय-कोटि-भुजास् पर-कर्ण-गुणास् भुजास् %चतुर्-विषमे।  
+    
+ब्स्स्_१२।३८च्। अधिकस् भूस् मुख-हीनस् बाहु-%द्वितयम् भुजौ अन्यौ॥  
+    
+ब्स्स्_१२।३९अ। इष्ट-गुण-कार-गुणितस् गिरि-उच्छ्रायस् पुर-अन्तरम् अनष्टम्।  
+    
+ब्स्स्_१२।३९च्। %द्वि-युत-गुण-कार-भाजितम् उत्पातस् अन्यस्य सम-गत्योस्॥  
+    
+ब्स्स्_१२।४०अ। व्यास-व्यास-%अर्ध-कृती परिधि-फले व्यावहारिके %त्रि-गुणे।  
+    
+ब्स्स्_१२।४०च्। तद्-वर्गाभ्याम् %दशभिस् सङ्गुणिताभ्याम् पदे सूक्ष्मे॥  
+    
+ब्स्स्_१२।४१अ। वृत्ते शर-ऊन-गुणितात् व्यासात् %चतुर्-आहतात् पदम् जीवा।  
+    
+ब्स्स्_१२।४१च्। ज्या-वर्गस् %चतुर्-आहत-शर-भक्तस् शर-युतस् व्यासस्॥  
+    
+ब्स्स्_१२।४२अ। ज्या-व्यास-कृति-विशेषात् मूल-व्यास-अन्तर-%अर्धम् इषुस् अल्पस्।  
+    
+ब्स्स्_१२।४२च्। व्यासौ ग्रास-ऊन-गुणौ ग्रास-ऊन-ऐक्य-उद्धृतौ बाणौ॥  
+    
+ब्स्स्_१२।४३अ। इष्ट-शर-%द्वय-भक्ते ज्या-%अर्ध-कृती शर-युते फले व्यासौ।  
+    
+ब्स्स्_१२।४३च्। शरयोस् फलयोस् ऐक्यम् ग्रासस् ग्रास-ऊनम् ऐक्यम् तत्॥
+
+[खात-व्यवहारस्]
+
+ब्स्स्_१२।४४अ। क्षेत्र-फलम् वेध-गुणम् सम-खात-फलम् हृतम् %त्रिभिस् सूच्यास्।  
+ब्स्स्_१२।४४च्। मुख-तल-तुल्य-भुज-ऐक्यानि %एक-अग्र-हृतानि सम-रज्जुस्॥  
+    
+ब्स्स्_१२।४५अ। मुख-तल-युति-#दल-गणितम् वेध-गुणम् व्यावहारिकम् गणितम्।  
+    
+ब्स्स्_१२।४५च्। मुख-तल-गणित-ऐक्य-%अर्धम् वेध-गुणम् स्यात् गणितम् औत्रम्॥  
+    
+ब्स्स्_१२।४६अ। औत्र-गणितात् विशोध्य व्यवहार-फलम् भजेत् %त्रिभिस् शेषम्।  
+    
+ब्स्स्_१२।४६च्। लब्धम् व्यवहार-फले प्रक्षिप्य भवति फलम् सूक्ष्मम्॥
+
+[चिति-व्यवहारस्]
+
+ब्स्स्_१२।४७अ। आकृति-फलम् औच्च्य-आहतम् अग्र-तल-ऐक्य-%अर्धम् औच्च्य-दैर्घ्य-गुणम्।  
+    
+ब्स्स्_१२।४७च्। घन-गणितम् इष्टका-घन-फलेन हृतम् इष्टका-गणितम्॥
+
+[क्राकचिक-व्यवहारस्]
+
+ब्स्स्_१२।४८अ। विस्तार-आयाम-अङ्गुल-घातस् मार्ग-आहतस् %द्वि-#वेद-हृतस्।  
+    
+ब्स्स्_१२।४८च्। किष्कु-अङ्गुलानि लब्धम् तत् %षण्णवतिस् भवति कर्म॥  
+    
+ब्स्स्_१२।४९अ। शाका-आदिषु शाल्मल्याम् %शत-%द्वयम् बीजके %शतम् %विंशम्।  
+    
+ब्स्स्_१२।४९च्। शाल-सरल-आदिषु %शतम् अथ अवि-दारुषु %चतुःषष्टिस्।
+
+[राशि-व्यवहारस्]
+
+ब्स्स्_१२।५०अ। %नवमस् शूकिषु %दशमस् स्थूलेषु %एकादशस् भवति अणुषु।  
+    
+ब्स्स्_१२।५०च्। परिधेस् वेधस् परिधेस् %षष्-अंश-वर्ग-आहतस् गणितम्॥  
+    
+ब्स्स्_१२।५१अ। %द्वि-%चतुर्-स-%त्रि-अंश-गुणस् भित्ति-अन्तर्-वाह्य-कोण-गस् परिधिस्।  
+    
+ब्स्स्_१२।५१च्। प्राक्-वत् कृत्वा गणितम् तद्-गणितम् स्व-गुण-कार-हृतम्॥
+
+[छाया-व्यवहारस्]
+
+ब्स्स्_१२।५२अ। छाया-नर-स-%एक-हृतम् द्यु-#दलम् प्राक्-अपरयोस् द्यु-गत-शेषम्।  
+    
+ब्स्स्_१२।५२च्। दिन-गत-शेष-अंश-हृतम् द्यु-#दलम् छाया-नर-वि-%एकम्॥  
+    
+ब्स्स्_१२।५३अ। दीप-तल-शङ्कु-तलयोस् अन्तरम् इष्ट-प्रमाण-शङ्कु-गुणम्।  
+    
+ब्स्स्_१२।५३च्। दीप-शिख-औच्च्यात् शङ्कुम् विशोध्य शेष-उद्धृतम् छाया॥  
+    
+ब्स्स्_१२।५४अ। छाया-अग्र-अन्तर-गुणिता छाया छाया-अन्तरेण भक्ता भूस्।  
+    
+ब्स्स्_१२।५४च्। भूस् शङ्कु-गुणा छाया-विभाजिता दीप-शिखया औच्च्यम्॥
+
+[प्रत्युत्पन्न-आदयस्]
+
+ब्स्स्_१२।५५अ। गुण-कार-खण्ड-तुल्यस् गुण्यस् गो-मूत्रिका-कृतस् गुणितस्।  
+    
+ब्स्स्_१२।५५च्। सहितस् प्रत्युत्पन्नस् गुण-कारक-भेद-तुल्यस् वा॥  
+    
+ब्स्स्_१२।५६अ। गुण्यस् राशिस् गुण-कार-राशिना इष्ट-अधिक-ऊनकेन गुणस्।  
+    
+ब्स्स्_१२।५६च्। गुण्य-इष्ट-वध-ऊन-युतस् गुणके अभ्यधिक-ऊनके कार्यस्॥  
+    
+ब्स्स्_१२।५७अ। छेदेन इष्ट-युत-ऊनेन आप्तम् भाज्यात् अनष्टम् इष्ट-गुणम्।  
+    
+ब्स्स्_१२।५७च्। प्रकृति-स्थ-छेद-हृतम् लब्ध्या युत-हीनकम् अनष्टम्॥  
+    
+ब्स्स्_१२।५८अ। गुण्यस् छेद-फल-वधस् गुणक-हृतस् गुण्य-भाजितस् गुणकस्।  
+    
+ब्स्स्_१२।५८च्। छेद-उद्धृतस् फलम् गुण्य-गुण-वधस् फल-हृतस् छेदस्॥  
+    
+ब्स्स्_१२।५९अ। गुण्य-गुण-कारयोस् छेद-लब्धयोस् यदि %द्वयोस् %द्वयोस् नाशस्।  
+    
+ब्स्स्_१२।५९च्। तेषाम् दृश्यौ व्यस्तौ कृत्वा तद्-स्थानयोस् च इष्टौ॥  
+    
+ब्स्स्_१२।६०अ। गुण्यम् गुण-कारम् वा गुणयेत् छेदेन भाग-हारस्य।  
+    
+ब्स्स्_१२।६०च्। गुण्य-गुण-कार-राश्योस् छेद-गुणस् भाग-हारस् च॥  
+ब्स्स्_१२।६१अ। अच्छेदस्य छेदम् #रूपम् कृत्वा अन्यत् उक्त-वत् सर्वम्।  
+    
+ब्स्स्_१२।६१च्। अपवर्त्यौ छेद-गुणौ तुल्येन इष्टेन गुण्यौ वा॥[द्: अवपर्त्त्यौ < अपवर्त्यौ]  
+    
+ब्स्स्_१२।६२अ। स्व-विकल-%षष्टि-अंश-गुणस् सकलस् %त्रिंश-उद्धृतस् विकल-वर्गस्।  
+    
+ब्स्स्_१२।६२च्। प्रक्षेप्यस् सकल-कृतौ वर्ग-घनौ %द्वि-%त्रि-तुल्य-वधौ॥  
+    
+ब्स्स्_१२।६३अ। राशेस् ऊनम् %द्वि-गुणम् बहुतर-गुणम् ऊन-कृति-युतम् वर्गस्।  
+    
+ब्स्स्_१२।६३च्। राशेस् इष्ट-युत-ऊनात् वधस् कृतिस् वा इष्ट-कृति-युक्तस्॥  
+    
+ब्स्स्_१२।६४अ। इष्ट-अल्प-राशि-वर्गौ युक्त-ऊनौ इतर-विकल-वर्गाभ्याम्।  
+    
+ब्स्स्_१२।६४च्। %द्वि-गुण-इतर-राशिभ्याम् भक्तौ तेन अधिक-ऊनाभ्याम्॥  
+    
+ब्स्स्_१२।६५अ। स्थान-अन्तरेषु लब्धम् येन समम् फल-युत-ऊनक-छेदस्।  
+    
+ब्स्स्_१२।६५च्। दलितस् कृति-योग-अन्तर-पदम् इतरस् वा फल-युत-ऊनस्॥  
+    
+ब्स्स्_१२।६६अ। दिक्-मात्रम् एतत् अन्यत् ज्या-उत्पत्तौ कुट्टके च कथयिष्ये।  
+    
+ब्स्स्_१२।६६च्। सङ्कलित-आदिषु आर्यास् %षट्षष्टिस् %द्वादशस् अध्यायस्॥  
+    
+ब्स्स्_१२।६६प्। इति श्री-ब्राह्म-स्फुट-सिद्धान्ते %द्वादशस् अध्यायस्॥१२॥
+
+[अथ कुट्टक-अध्यायस्]
+
+ब्स्स्_१८।१अ। प्रायेण यतस् प्रश्नास् कुट्टाकारात् ऋते न शक्यन्ते।  
+    
+ब्स्स्_१८।१च्। ज्ञातुम् वक्ष्यामि ततस् कुट्टाकारम् सह प्रश्नैस्॥  
+    
+ब्स्स्_१८।२अ। कुट्टक-#ख-ऋण-धन-अव्यक्त-मध्य-हरण-%एक-वर्ण-भावितकैस्।  
+    
+ब्स्स्_१८।२च्। आचार्यस् तन्त्र-विदाम् ज्ञातैस् वर्ग-प्रकृत्या च॥
+
+[कुट्टकम्]
+
+ब्स्स्_१८।३अ। अधिक-अग्र-भाग-हारात् ऊन-अग्र-छेद-भाजितात् शेषम्।  
+    
+ब्स्स्_१८।३च्। यत् तत् परस्पर-हृतम् लब्धम् अधस् अधस् पृथक् स्थाप्यम्॥  
+    
+ब्स्स्_१८।४अ। शेषम् तथा इष्ट-गुणितम् यथा अग्रयोस् अन्तरेण संयुक्तम्।  
+    
+ब्स्स्_१८।४च्। शुध्यति गुणकस् स्थाप्यस् लब्धम् च अन्त्यात् उपान्त्य-गुणस्॥  
+    
+ब्स्स्_१८।५अ। स्व-ऊर्ध्वस् अन्त्य-युतस् अग्र-अन्तस् हीन-अग्र-छेद-भाजितस् शेषम्।  
+    
+ब्स्स्_१८।५च्। अधिक-अग्र-छेद-हतम् अधिक-अग्र-युतम् भवति अग्रम्॥  
+    
+ब्स्स्_१८।६अ। छेद-वधस्य %द्वि-युगम् छेद-वधस् युग-गतम् %द्वयोस् अग्रम्।  
+    
+ब्स्स्_१८।६च्। कुट्टाकारेण एवम् %त्रि-आदि-ग्रह-युग-गत-आनयनम्॥  
+    
+ब्स्स्_१८।७अ। भ-गण-आदि-शेषम् अग्रम् छेद-हृतम् #खम् च दिन-ज-शेष-हृतम्।  
+    
+ब्स्स्_१८।७च्। अनयोस् अग्रम् भ-गण-आदि-दिन-ज-शेष-उद्धृतम् द्यु-गणस्॥ [च्ब्।८]  
+    
+ब्स्स्_१८।८अ। दिन-ज-भ-गण-आदि-शेषम् येन गुणम् मण्डल-आदि शेषकयोस्।  
+    
+ब्स्स्_१८।८च्। स-दृश-छेद-उद्धृतयोस् तद्-घातम् अहर्-गण-आद्यम् अतस्॥ [च्ब्।१०]  
+    
+ब्स्स्_१८।९अ। हृतयोस् परस्परम् यत् छेषम् गुण-कार-भाग-हारकयोस्।  
+    
+ब्स्स्_१८।९च्। तेन हृतौ निस्-छेदौ तौ एव परस्परम् हृतयोस्॥ [च्ब्।११]  
+    
+ब्स्स्_१८।१०अ। लब्धम् अधस् अधस् स्थाप्यम् तथा इष्ट-गुण-कार-सङ्गुणम् शेषम्।  
+    
+ब्स्स्_१८।१०च्। शुध्यति यथा %एक-हीनम् गुणकस् स्थाप्यस् फलम् च अन्त्यात्॥ [च्ब्।१२]  
+    
+ब्स्स्_१८।११अ। अग्र-अन्तम् उपान्त्येन स्व-ऊर्ध्वस् गुणितस् अन्त्य-संयुतस् भक्तम्।  
+    
+ब्स्स्_१८।११च्। निस्-शेष-भाग-हारेण एवम् स्थिर-कुट्टकस् शेषम्॥ [च्ब्।१३]  
+    
+ब्स्स्_१८।१२अ। इष्ट-भ-गण-आदि-शेषात् स्व-कुट्टक-गुणात् स्व-भाग-हार-गुणात्।  
+    
+ब्स्स्_१८।१२च्। शेषम् द्यु-गणस् गत-निस्-अपवर्त-गुण-भाग-हार-युतस्॥ [च्ब्।१५; ड्: -अपवर्त्त- < -अपवर्त-]  
+    
+ब्स्स्_१८।१३अ। एवम् समेषु विषमेषु ऋणम् धनम् धनम् ऋणम् यत् उक्तम् तत्।  
+    
+ब्स्स्_१८।१३च्। ऋण-धनयोस् व्यस्तत्वम् गुण्य-प्रक्षेपयोस् कार्यम्॥ [च्ब्।१६]  
+    
+ब्स्स्_१८।१४अ। गुणकस् छेदस् छेदस् गुणकस् धनम् ऋणम् ऋणम् धनम् कार्यम्।  
+    
+ब्स्स्_१८।१४च्। वर्गम् पदम् पदम् कृतिस् अन्त्यात् विपरीतम् आद्यम् तत्॥ [च्ब्।१७]  
+    
+ब्स्स्_१८।१५अ। यस् जानाति युग-आदि ग्रह-युग-यातैस् पृथक् पृथक् कथितैस्।  
+    
+ब्स्स्_१८।१५च्। %द्वि-%त्रि-%चतुर्-प्रभृतीनाम् कुट्टाकारम् सस् जानाति॥ [च्ब्।७]  
+    
+ब्स्स्_१८।१६अ। भ-गण-आद्यम् इष्ट-शेषम् कदा इन्दु-दिवसे रवेस् गुरु-दिने वा।  
+    
+ब्स्स्_१८।१६च्। ज्ञ-दिने राशीन् कथयति कुट्टाकारम् सस् जानाति॥ [च्ब्।१९]  
+    
+ब्स्स्_१८।१७अ। ज्ञ-दिने यत् अंश-शेषम् विकला-शेषम् कदा तत् इन्दु-दिने।  
+    
+ब्स्स्_१८।१७च्। भानोस् अथ वा शशिनस् यस् कथयति कुट्टक-ज्ञस् सस्॥ [च्ब्।२०]  
+    
+ब्स्स्_१८।१८अ। तिथि-मान-दिनेषु इष्टास् ये अर्क-आद्यास् ते पुनर् कदा तेषु।  
+    
+ब्स्स्_१८।१८च्। इष्ट-ग्रह-वारेषु यस् कथयति कुट्टक-ज्ञस् सस्॥ [च्ब्।२१]  
+    
+ब्स्स्_१८।१९अ। इष्ट-भ-गण-आदि-शेषात् द्यु-गणस् तत् कुट्टकेन संयुक्तस्।  
+    
+ब्स्स्_१८।१९च्। तद्-छेद-दिनैस् तावत् दिन-वारस् यावत् इष्टस् स्यात्॥ [च्ब्।२२]  
+    
+ब्स्स्_१८।२०अ। यस् राशि-आदीन् दृष्ट्वा मध्यस्य इष्टस्य कतह्यति द्यु-गणम्।  
+    
+ब्स्स्_१८।२०च्। %द्वि-आदि-ग्रह-संयोगात् ग्रह-अन्तरात् वा सस् कुट्ट-ज्ञस्॥ [च्ब्।२३]  
+    
+ब्स्स्_१८।२१अ। निस्-छेद-भाग-हारात् राशि-आदि-कला-आदिना हतात् भक्तात्।  
+    
+ब्स्स्_१८।२१च्। भ-गण-कलाभिस् लब्धम् मण्डल-शेषम् दिन-गणस् अस्मात्॥ [च्ब्।२४]  
+    
+ब्स्स्_१८।२२अ। एवम् राशि-अंश-कला-विकला-शेषात् अहर्-गणस् प्राक्-वत्।  
+    
+ब्स्स्_१८।२२च्। नष्ट-स्थेषु इष्टान् तान् कृत्वा भक्त्वा उक्त-वत् शेषम्॥ [च्ब्।२५]  
+    
+ब्स्स्_१८।२३अ। राशि-अंश-कला-विकला-शेषात् कथितात् अभीष्टतस् नष्टान्।  
+    
+ब्स्स्_१८।२३च्। यस् साधयति उपरितनान् स-मध्यमान् कुट्टक-ज्ञस् सस्॥ [च्ब्।२६]  
+    
+ब्स्स्_१८।२४अ। येन गुणस् शेष-युतस् छेदस् शुध्यति हृतस् स्व-गुणकेन।  
+    
+ब्स्स्_१८।२४च्। तद्-भुक्तम् शेषम् फलम् एवम् शेषात् ग्रह-द्यु-गणौ॥ [च्ब्।२७]  
+    
+ब्स्स्_१८।२५अ। जानाति यस् युग-गतम् कथितात् अधिमास-शेषकात् इष्टात्।  
+    
+ब्स्स्_१८।२५च्। अवम-अवशेषतस् वा तद्-योगात् वा सस् कुट्ट-ज्ञस्॥ [च्ब्।२८]  
+ब्स्स्_१८।२६अ। इष्टेषु मान-दिवसेषु अधिमास-न्यून-रात्र-शेषे वा।  
+    
+ब्स्स्_१८।२६च्। भूयस् ते यस् कथयति पृथक् पृथक् वा सस् कुट्ट-ज्ञस्॥ [च्ब्।@]  
+    
+ब्स्स्_१८।२७अ। अंशक-शेषात् %त्रि-ऊनात् %सप्त-हृतात् मूलम् ऊनम् %अष्टाभिस्।  
+    
+ब्स्स्_१८।२७च्। %नवभिस् गुणम् स-#रूपम् कदा %शतम् बुध-दिने सवितुस्॥ [च्ब्।१८]  
+    
+ब्स्स्_१८।२८अ। %त्रि-ऊन-अधिमास-शेषात् मूलम् %द्वि-अधिकम् विभाजितम् %षड्भिस्।  
+    
+ब्स्स्_१८।२८च्। %द्वि-ऊनम् वर्गितम् अधिकम् %नवभिस् %नवतिस् कदा भवति॥ [च्ब्।२९]  
+    
+ब्स्स्_१८।२९अ। अवम-अवशेष-वर्गस् वि-%एकस् %विंशति-विभाजितस् %द्वि-अधिकस्।  
+    
+ब्स्स्_१८।२९च्। %अष्ट-गुणस् %दश-भक्तस् %द्वि-युतस् %अष्टादश कदा भवति॥ [च्ब्।३०]
+
+[धन-ऋण-शून्यम्]
+
+ब्स्स्_१८।३०अ। धनयोस् धनम् ऋणम् ऋणयोस् धन-ऋणयोस् अन्तरम् सम-ऐक्यम् #खम्।  
+    
+ब्स्स्_१८।३०च्। ऋणम् ऐक्यम् च धनम् ऋण-धन-#शून्ययोस् #शून्ययोस् #शून्यम्॥ [च्ब्।३१]  
+    
+ब्स्स्_१८।३१अ। ऊनम् अधिकात् विशोध्यम् धनम् धनात् ऋणम् ऋणात् अधिकम् ऊनात्।  
+    
+ब्स्स्_१८।३१च्। व्यस्तम् तद्-अन्तरम् स्यात् ऋणम् धनम् धनम् ऋणम् भवति॥ [च्ब्।३२]  
+    
+ब्स्स्_१८।३२अ। #शून्य-विहीनम् ऋणम् ऋणम् धनम् धनम् भवति #शून्यम् #आकाशम्।  
+    
+ब्स्स्_१८।३२च्। शोध्यम् यदा धनम् ऋणात् ऋणम् धनात् वा तदा क्षेप्यम्॥ [च्ब्।३३]  
+    
+ब्स्स्_१८।३३अ। ऋणम् ऋण-धनयोस् घातस् धनम् ऋणयोस् धन-वधस् धनम् भवति।  
+    
+ब्स्स्_१८।३३च्। #शून्य-ऋणयोस् #ख-धनयोस् #ख-#शून्ययोस् वा वधस् #शून्यम्॥ [च्ब्।३४]  
+    
+ब्स्स्_१८।३४अ। धन-भक्तम् धनम् ऋण-हृतम् ऋणम् धनम् भवति #खम् #ख-भक्तम् #खम्।  
+    
+ब्स्स्_१८।३४च्। भक्तम् ऋणेन धनम् ऋणम् धनेन हृतम् ऋणम् ऋणम् भवति॥ [च्ब्।३४]  
+    
+ब्स्स्_१८।३५अ। #ख-उद्धृतम् ऋणम् धनम् वा तद्-छेदम् #खम् ऋण-धन-विभक्तम् वा।  
+    
+ब्स्स्_१८।३५च्। ऋण-धनयोस् वर्गस् स्वम् #खम् #खस्य पदम् कृतिस् यत् तत्॥ [च्ब्।३६]
+
+[सङ्क्रमणम्]
+
+ब्स्स्_१८।३६अ। योगस् अन्तर-युत-हीनस् %द्वि-हृतस् सङ्क्रमणम् अन्तर-विभक्तम् वा।  
+    
+ब्स्स्_१८।३६च्। वर्ग-अन्तरम् अन्तर-युत-हीनम् %द्वि-हृतम् विषम-कर्म॥ [च्ब्।३७]
+
+[करणी]
+
+ब्स्स्_१८।३७अ। करणी लम्बस् तद्-कृतिस् इष्ट-हृता इष्ट-ऊन-संयुता अल्पा भूस्।  
+    
+ब्स्स्_१८।३७च्। अधिकस् %द्वि-हृतस् बाहुस् सङ्क्षेप्यस् यद्-वधस् वर्गस्॥ [च्ब्।३८; ड्: सङ्क्षेप्पस्]  
+    
+ब्स्स्_१८।३८अ। इष्ट-उद्धृत-करणी-पद-युति-कृतिस् इष्ट-गुणिता अन्तर-कृतिस् वा।  
+    
+ब्स्स्_१८।३८च्। गुण्यस् तिर्यक् अधस् अधस् गुणक-समस् तद्-गुणस् सहितस्॥ [च्ब्।३९]  
+    
+ब्स्स्_१८।३९अ। स्व-इष्ट-ऋण-छेद-गुणौ भाज्य-छेदौ पृथक् युजौ असकृत्।  
+    
+ब्स्स्_१८।३९च्। छेद-%एक-गत-हृतस् वा भाज्यस् वर्गस् सम-%द्वि-वधस्॥ [च्ब्।४०]  
+    
+ब्स्स्_१८।४०अ। इष्ट-करणी-ऊनायास् रूप-कृतेस् पद-युत-ऊन-रूप-%अर्धे।  
+    
+ब्स्स्_१८।४०च्। %प्रथमम् रूपाणि अन्यत् ततस् द्वितीयम् करणी असकृत्॥ [च्ब्।४१]  
+    
+ब्स्स्_१८।४१अ। अव्यक्त-वर्ग-घन-वर्ग-वर्ग-%पञ्च-गत-%षष्-गत-आदीनाम्।  
+    
+ब्स्स्_१८।४१च्। तुल्यानाम् सङ्कलित-व्यवकलिते पृथक् अतुल्यानाम्॥ [च्ब्।४२]  
+    
+ब्स्स्_१८।४२अ। सदृश-%द्वि-वधस् वर्गस् %त्रि-आदि-वधस् तद्-गतस् अन्य-जाति-वधस्।  
+    
+ब्स्स्_१८।४२च्। अन्योन्य-वर्ण-घातस् भावितकस् पूर्व-वत् शेषम्॥ [च्ब्।४३]
+
+[एक-वर्ण-समी-करणम्]
+
+ब्स्स्_१८।४३अ। अव्यक्त-अन्तर-भक्तम् व्यस्तम् रूप-अन्तरम् समे अव्यक्तस्।  
+    
+ब्स्स्_१८।४३च्। वर्ग-अव्यक्तास् शोध्यास् यस्मात् रूपाणि तद्-अधस्तात्॥ [च्ब्।४४]  
+    
+ब्स्स्_१८।४४अ। वर्ग-%चतुर्-गुणितानाम् रूपाणाम् मध्य-वर्ग-सहितानाम्।  
+    
+ब्स्स्_१८।४४च्। मूलम् नध्येन ऊनम् वर्ग-%द्वि-गुण-उद्धृतम् मध्यस्॥ [च्ब्।४८]  
+    
+ब्स्स्_१८।४५अ। वर्ग-आहत-रूपाणाम् अव्यक्त-%अर्ध-कृति-संयुतानाम् यत्।  
+    
+ब्स्स्_१८।४५च्। पदम् अव्यक्त-%अर्ध-ऊनम् तत् वर्ग-विभक्तम् अव्यक्तस्॥ [च्ब्।५०]  
+    
+ब्स्स्_१८।४६अ। स-%एकात् अंशक-शेषात् %द्वादश-भागस् %चतुर्-गुणस् %अष्ट-युतस्।  
+    
+ब्स्स्_१८।४६च्। स-%एक-अंश-शेष-तुल्यस् यदा तदा अहर्-गणम् कथय॥ [च्ब्।४५]  
+    
+ब्स्स्_१८।४७अ। %द्वि-ऊनम् अधिक-मास-शेषम् %त्रि-हृतम् %सप्त-अधिकम् %द्वि-सङ्गुणितम्।  
+    
+ब्स्स्_१८।४७च्। अधिमास-शेष-तुल्यम् यदा तदा युग-गतम् कथय॥ [च्ब्।४६]  
+    
+ब्स्स्_१८।४८अ। वि-%एकम् अवम-अवशेषम् %षष्-उद्धृतम् %त्रि-युतम् अवम-शेषस्य।  
+    
+ब्स्स्_१८।४८च्। %पञ्च-विभक्तस्य समम् यदा तदा युग-गतम् कथय॥ [च्ब्।४७]  
+    
+ब्स्स्_१८।४९अ। मण्डल-शेषात् %द्वि-ऊनात् मूलम् वि-%एकम् %दश-आहतम् %द्वि-युतम्।  
+    
+ब्स्स्_१८।४९च्। मण्डल-शेषम् वि-%एकम् भानोस् ज्ञ-दिने कदा भवति॥  
+    
+ब्स्स्_१८।५०अ। अधिमास-शेष-#पादात् %त्रि-ऊनात् वर्गस् अधिमास-शेष-समस्।  
+    
+ब्स्स्_१८।५०च्। अवम-अवशेषतस् वा अवम-शेष-समस् कदा भवति॥ [च्ब्।५१]
+
+[अनेक-वर्ण-समी-करणम्]
+
+ब्स्स्_१८।५१अ। आद्यात् वर्णात् अन्यान् वर्णान् प्रोह्य आद्य-मानम् आड्य-हृतम्।  
+    
+ब्स्स्_१८।५१च्। सदृश-छेदौ असकृत् %द्वौ व्यस्तौ कुट्टकस् बहुषु॥ [च्ब्।५२]  
+    
+ब्स्स्_१८।५२अ। गत-भगण-युतात् द्यु-गणात् तद्-शेष-युतात् तद्-ऐक्य-संयुक्तात्।  
+    
+ब्स्स्_१८।५२च्। तद्-योगात् द्यु-गणम् वा यस् कथयति कुट्टक-ज्ञस् सस्॥ [च्ब्।५३]  
+    
+ब्स्स्_१८।५३अ। गत-भगण-ऊनात् द्यु-गणात् तद्-शेष-ऊनात् तद्-ऐक्य-हीनात् वा।  
+    
+ब्स्स्_१८।५३च्। तद्-विवरात् द्यु-गणम् वा यस् कथयति कुट्टक-ज्ञस् सस्॥ [च्ब्।५४]  
+    
+ब्स्स्_१८।५४अ। राशि-आद्यैस् तद्-शेषैस् च एवम् भुक्त-अधिमास-दिन-हीनैस्।  
+    
+ब्स्स्_१८।५४च्। तद्-शेषैस् च युग-गतम् यस् कथयति कुट्टक-ज्ञस् सस्॥ [च्ब्।५५]  
+    
+ब्स्स्_१८।५५अ। अंशक-शेषेण युतात् लिप्ता-शेषात् तद्-अन्तरात् अथ वा।  
+    
+ब्स्स्_१८।५५च्। भानोस् ज्ञ-दिने द्यु-गणम् यस् कथयति कुट्टक-ज्ञस् सस्॥ [च्ब्।५६]  
+    
+ब्स्स्_१८।५६अ। अंशक-शेषम् %त्रि-युतम् लिप्ता-शेषम् कदा रवेस् ज्ञ-दिने।  
+    
+ब्स्स्_१८।५६च्। %षट् %सप्त %अष्टौ %नव वा कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।५७]  
+    
+ब्स्स्_१८।५७अ। अंश-समम् अंश-शेषम् कला-समम् वा कला-शेषम्।  
+    
+ब्स्स्_१८।५७च्। दिवस-करस्य इष्ट-दिने कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।५८]  
+    
+ब्स्स्_१८।५८अ। अवम-अवशेषम् अवमैस् अधिमासक-शेषम् अधिमासैस्।  
+    
+ब्स्स्_१८।५८च्। इष्ट-युत-ऊनम् तुल्यम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।५९]  
+    
+ब्स्स्_१८।५९अ। निस्-छेद-भाग-हारस् भानोस् %सप्तति-गुणस् अंश-शेष-ऊनस्।  
+    
+ब्स्स्_१८।५९च्। शुध्यति %अयुत-विभक्तस् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।६०]
+
+[भावितकम्]
+
+ब्स्स्_१८।६०अ। भावितक-रूप-गुणना स-अव्यक्त-वधा इष्ट-भाजिता इष्ट-आप्त्योस्।  
+    
+ब्स्स्_१८।६०च्। अल्पे अधिकस् अधिके अल्पस् क्षेप्यस् भावित-हृतौ व्यस्तम्॥ [च्ब्।६१]  
+    
+ब्स्स्_१८।६१अ। भानोस् राशि-अंश-वधात् %त्रि-%चतुर्-गुणितान् विशोध्य राशि-अंशान्।  
+    
+ब्स्स्_१८।६१च्। %नवतिम् दृष्ट्वा सूर्यम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।६२]  
+    
+ब्स्स्_१८।६२अ। भावितके यद्-घातस् विनष्ट-वर्णेन तद्-प्रमाणानि।  
+    
+ब्स्स्_१८।६२च्। कृत्वा इष्टानि तद्-आहत-वर्ण-ऐक्यम् भवति रूपाणि॥ [च्ब्।६६]  
+    
+ब्स्स्_१८।६३अ। वर्ण-प्रमाण-भावित-घातस् भवति इष्ट-वर्ण-सङ्ख्या एवम्।  
+    
+ब्स्स्_१८।६३च्। सिध्यति विना अपि भावित-सम-करणात् किम् कृतम् तत् अतस्॥ [च्ब्।६४]
+
+[वर्ग-प्रकृतिस्]
+
+ब्स्स्_१८।६४अ। मूलम् द्विधा इष्ट-वर्गात् गुणक-गुणात् इष्ट-युत-विहीनात् च।  
+    
+ब्स्स्_१८।६४च्। आद्य-वधस् गुणक-गुणस् सह अन्त्य-घातेन कृतम् अन्त्यम्॥ [च्ब्।६५]  
+    
+ब्स्स्_१८।६५अ। वज्र-वध-ऐक्यम् %प्रथमम् प्रक्षेपस् क्षेप-वध-तुल्यस्।  
+    
+ब्स्स्_१८।६५च्। प्रक्षेप-शोधक-हृते मूले प्रक्षेपके #रूपे॥ [च्ब्।६६]  
+    
+ब्स्स्_१८।६६अ। #रूप-प्रक्षेप-पदे पृथक् इष्ट-क्षेप्य-शोध्य-मूलाभ्याम्।  
+    
+ब्स्स्_१८।६६च्। कृत्वा अन्त्य-आद्य-पदे ये प्रक्षेपे शोधने वा इष्टे॥ [च्ब्।६८]  
+    
+ब्स्स्_१८।६७अ। %चतुर्-अधिके अन्त्य-पद-कृतिस् %त्रि-ऊना दलिता अन्त्य-पद-गुणा अन्त्य-पदम्।  
+    
+ब्स्स्_१८।६७च्। अन्त्य-पद-कृतिस् वि-%एका %द्वि-हृता आद्य-पद-आहता आद्य-पदम्॥ [च्ब्।६९]  
+    
+ब्स्स्_१८।६८अ। %चतुर्-ऊने अन्त्य-पद-कृती %त्रि-%एक-युते वध-#दलम् पृथक् वि-%एकम्।  
+    
+ब्स्स्_१८।६८च्। वि-%एक-आड्य-आहतम् अन्त्यम् पद-वध-गुणम् आद्यम् आन्त्य-पदम्॥ [च्ब्।७१]  
+    
+ब्स्स्_१८।६९अ। वर्गे गुणके क्षेपस् केन चित् उद्धृत-युत-ऊनितस् दलितस्।  
+    
+ब्स्स्_१८।६९च्। %प्रथमस् अन्त्य-मूलम् अन्यस् गुण-कार-पद-उद्धृतस् %प्रथमस्॥ [च्ब्।७३]  
+    
+ब्स्स्_१८।७०अ। वर्ग-छिन्ने गुणके %प्रथमम् तद्-मूल-भाजितम् भवति।  
+    
+ब्स्स्_१८।७०च्। वर्ग-छिन्ने क्षेपे तद्-पद-गुणिते तदा मूले॥ [च्ब्।७५]  
+    
+ब्स्स्_१८।७१अ। गुणक-युतिस् %अष्ट-गुणिता गुणक-अन्तर-वर्ग-भाजिता राशिस्।  
+    
+ब्स्स्_१८।७१च्। गुणकौ %त्रि-गुणौ व्यस्त-अधिकौ हृतौ अन्तरेण पदे॥ [च्ब्।७८]  
+    
+ब्स्स्_१८।७२अ। वर्गस् अन्य-कृति-युत-ऊनस् तद्-संयोग-अन्तर-%अर्ध-कृति-भक्तस्।  
+    
+ब्स्स्_१८।७२च्। तद्-गुणितौ युति-वियुतौ वर्गौ घाते च #रूप-युते॥ [च्ब्।७२]  
+ब्स्स्_१८।७३अ। यैस् ऊनस् यैस् च युतस् रूपैस् वर्गस् तद्-ऐक्यम् इष्ट-हृतम्।  
+    
+ब्स्स्_१८।७३च्। इष्ट-ऊनम् तद्-#दल-कृतिस् ऊना अभ्यधिका भवति राशिस्॥ [च्ब्।८४]  
+ब्स्स्_१८।७४अ। याभ्याम् कृतिस् अधिक-ऊनस् तद्-अन्तरम् हृत-युत-ऊनम् इष्टेन।  
+    
+ब्स्स्_१८।७४च्। तद्-#दल-कृतिस् अधिक-ऊना अधिकयोस् अधिक-ऊनयोस् राशिस्॥ [च्ब्।८२]
+
+[उदाहरणानि]
+
+ब्स्स्_१८।७५अ। राशि-कला-शेष-कृतिम् %द्विनवति-गुणिताम् %त्र्यशीति-गुणिताम् वा।  
+    
+ब्स्स्_१८।७५च्। स-%एका ज्ञ-दिने वर्गम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।६७]  
+    
+ब्स्स्_१८।७६अ। सूर्य-विलिप्ता-शेषम् %पञ्चभिस् ऊन-आहतम् तथा %दशभिस्।  
+    
+ब्स्स्_१८।७६च्। वर्गे बृहस्पति-दिने कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।८६]  
+    
+ब्स्स्_१८।७७अ। भ-गण-आदि-शेष-वर्गम् %त्रिभिस् गुणम् संयुतम् %शतैस् %नवभिस्।  
+    
+ब्स्स्_१८।७७च्। कृतिम् %अष्ट-%शत-ऊनम् वा कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।७०]  
+    
+ब्स्स्_१८।७८अ। भ-गण-आदि-शेष-वर्गम् %चतुर्-गुणम् %पञ्चषष्टि-संयुक्तम्।  
+    
+ब्स्स्_१८।७८च्। %षष्टि-ऊनम् वा वर्गम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।७४]  
+    
+ब्स्स्_१८।७९अ। इष्ट-भगण-आदि-शेषम् %द्विनवति-ऊनम् %त्र्यशीति-सङ्गुणितम्।  
+    
+ब्स्स्_१८।७९च्। #रूपेण युतम् वर्गम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।८७]  
+    
+ब्स्स्_१८।८०अ। अधिमास-शेष-वर्गम् %त्रयोदश-गुणम् %त्रिभिस् %शतैस् युक्तम्।  
+    
+ब्स्स्_१८।८०च्। %त्रि-घन-ऊनम् वा वर्गम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।७२]  
+    
+ब्स्स्_१८।८१अ। इन्दु-विलिप्ता-शेषम् %सप्तदश-गुणम् %त्रयोदश-गुणम् च अपि।  
+    
+ब्स्स्_१८।८१च्। पृथक् %एक-युतम् वर्गम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।७९]  
+    
+ब्स्स्_१८।८२अ। अवम-अवशेष-वर्गम् %द्वादश-गुणितम् %शतेन संयुक्तम्।  
+    
+ब्स्स्_१८।८२च्। %त्रिभिस् ऊनम् वा वर्गम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।७६]  
+    
+ब्स्स्_१८।८३अ। ज्ञ-दिने अर्क-कला-शेषम् गुरु-दिन-विकला-अवशेष-युक्त-ऊनम्।  
+    
+ब्स्स्_१८।८३च्। वर्गम् वधम् च स-%एकम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।८१]  
+    
+ब्स्स्_१८।८४अ। विकला-शेषम् सहितम् %त्रिनवत्या %सप्तषष्टि-हीनम् च।  
+    
+ब्स्स्_१८।८४च्। भानोस् ज्ञ-दिने वर्गम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।८५]  
+    
+ब्स्स्_१८।८५अ। ज्ञ-दिने अर्क-कला-शेषम् %द्वादशभिस् संयुतम् %त्रिषष्ट्या च।  
+    
+ब्स्स्_१८।८५च्। %षष्ट्या %अष्टभिस् च ऊनम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।८३]  
+    
+ब्स्स्_१८।८६अ। इन्दु-विलिप्ता-शेषात् रवि-लिप्ता-शेषम् अंश-शेषम् वा।  
+    
+ब्स्स्_१८।८६च्। अथ वा मध्यमम् इष्टम् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।८८]  
+    
+ब्स्स्_१८।८७अ। जीव-विलिप्ता-शेषात् कु-जम् इन्दुम् भौम-लिप्तिका-शेषात्।  
+    
+ब्स्स्_१८।८७च्। रविम् इन्दु-भाग-शेषात् कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।८९]  
+    
+ब्स्स्_१८।८८अ। इष्ट-ग्रह-इष्ट-शेषात् द्यु-गणस् गत-निस्-अपवर्त-सङ्गुणितैस्। [द्: -अपवर्त्त- < -अपवर्त-]  
+    
+ब्स्स्_१८।८८च्। छेद-दिनैस् अधिकस् अस्मात् अन्य-ग्रह-शेषम् इष्टस् वा॥ [च्ब्।९०]  
+    
+ब्स्स्_१८।८९अ। निस्-छेद-भाग-हारौ ग्रहयोस् विपरीतौ ग्रहयोस् द्यु-गणात्।  
+    
+ब्स्स्_१८।८९च्। यस्मात् तद्-निस्-छेदेन उद्धृतयोस् लब्ध-सङ्गुणितौ॥ [द्: उद्धतयोस् < उद्धृतयोस्, च्ब्।८९]  
+    
+ब्स्स्_१८।९०अ। निस्-छेद-भाग-हारौ विपरीतौ तद्-युतात् पुनर् तस्मात्।  
+    
+ब्स्स्_१८।९०च्। शेषे द्यु-गणात् एवम् %त्रि-आदीनाम् प्राक्-वत् इष्ट-दिने॥ [च्ब्।९१]  
+    
+ब्स्स्_१८।९१अ। द्यु-गणम् अवम-अवशेषात् रवि-चन्द्रौ मध्यमौ स्फुटौ अथ वा।  
+    
+ब्स्स्_१८।९१च्। एवम् तिथिम् ग्रहम् वा कुर्वन् आ वत्सरात् गणकस्॥ [च्ब्।९२]  
+    
+ब्स्स्_१८।९२अ। %एक-दिनम् अवम-शेषम् यद्-गुणम् %एक-रवि-चन्द्र-भ-गण-ऊनम्।  
+    
+ब्स्स्_१८।९२च्। शुध्यति भू-दिन-भक्तम् वि-%एकम् चान्द्रैस् तद्-उक्तिस् इयम्॥ [च्ब्।९३]  
+    
+ब्स्स्_१८।९३अ। #इषु-#शर-#कृत-%अष्ट-३दिग्भिस् १०८४५५ सङ्गुणितात् अवम-शेषकात् भक्तात्।  
+    
+ब्स्स्_१८।९३च्। #रूप-%अष्ट-#वेद-#रस-#शून्य-#शर-#गुणैस् ३५०६४८१ दिन-गणस् शेषम्॥ [च्ब्।९४]  
+    
+ब्स्स्_१८।९४अ। #जिन-#रस-#गो-#अब्धि-#रद-३२४९६२४-गुणात् #शशि-#वसु-#कृत-#रस-#ख-#भूत-#राम-३५०६४८१-हृतात्।  
+    
+ब्स्स्_१८।९४च्। इष्ट-अवम-शेषात् यत् शेषम् रवि-भ-गण-शेषम् तत्॥ [च्ब्।९५]  
+    
+ब्स्स्_१८।९५अ। #गो-#अग-#इन्दु-#ख-#ईश-११०१७९-गुणितात् भक्तात् #नख-#पक्ष-#यम-#रस-#इषु-#गुणैस् ३५६२२२०।  
+    
+ब्स्स्_१८।९५च्। शेषम् अवम-अवशेषात् तिथयस् अवम-शेषकात् विकलम्॥ [च्ब्।९६]  
+    
+ब्स्स्_१८।९६अ। भाग-कला-विकला-ऐक्यम् दृष्ट्वा विकला-अन्तरम् च के शेषे।  
+    
+ब्स्स्_१८।९६च्। ऐक्यम् द्विधा अन्तर-अधिक-हीनम् च %द्वि-भाजितम् शेषे॥ [च्ब्।९७]  
+    
+ब्स्स्_१८।९७अ। तद्-वर्ग-अन्तरम् आद्ये तद्-अन्तरम् च अनतर-उद्धृत-युत-ऊनम्।  
+    
+ब्स्स्_१८।९७च्। वर्ग-अन्तरम् विभक्तम् %द्वाभ्याम् शेषे ततस् द्यु-गणस्॥ [च्ब्। ९८]  
+    
+ब्स्स्_१८।९८अ। [कृति-संयोगात् %द्वि-गुणात् युति-वर्गम् प्रोह्य शेष-मूलम् यत्।  
+    
+ब्स्स्_१८।९८च्। तेन युत-ऊनस् योगस् दलितस् शेषे पृथक् अभीष्टे॥ च्ब्।९९]  
+    
+ब्स्स्_१८।९९अ। शेष-वधात् %द्वि-कृति-गुणात् शेष-अन्तर-वर्ग-संयुतात् मूलम्।  
+    
+ब्स्स्_१८।९९च्। शेष-अन्तर-ऊन-युक्तम् दलितम् शेषे पृथक् अभीष्टे॥ [च्ब्।१००]  
+    
+ब्स्स्_१८।१००अ। हृदि-घात्रम् अमी प्रश्नास् प्रश्नान् अन्यान् %सहस्र-शस् कुर्यात्। [द्: हृदि-घात्रम् > हृद्-मात्रम्]  
+    
 ब्स्स्_१८।१००च्। अन्यैस् दत्तान् प्रश्नान् उक्त्या एवम् साधयेत् करणैस्॥ [च्ब्।१०१]  
-  
+    
 ब्स्स्_१८।१०१अ। जन-संसदि दैव-विदाम् तेजस् नाशयति भानुस् इव भानाम्।  
-  
+    
 ब्स्स्_१८।१०१च्। कुट्टाकार-प्रश्नैस् पथितैस् अपि किम् पुनर् %शत-शस्॥ [च्ब्।१०२, ड्: शत-शस् > सूत्रैस्]  
-  
+    
 ब्स्स्_१८।१०२अ। प्रति-सूत्रम् अमी प्रश्नास् पथितास् स-उद्देशकेषु सूत्रेषु।  
-  
+    
 ब्स्स्_१८।१०२च्। आर्या-%त्रि-अधिक-%शतेन च कुट्टस् च %अष्टादशस् अध्यायस्॥ [च्ब्।१०३]  
-  
-ब्स्स्_१८।१०२प्। इति श्री-ब्राह्मस्फुटसिद्धान्ते कुट्टक-अध्यायस् %अष्टादशस्॥  
-  
-  
-  
-[शङ्कु-छाया-आदि-ज्ञानम्]  
-  
-  
-  
-[प्रश्नास्]  
-  
-  
-  
+    
+ब्स्स्_१८।१०२प्। इति श्री-ब्राह्मस्फुटसिद्धान्ते कुट्टक-अध्यायस् %अष्टादशस्॥
+
+[शङ्कु-छाया-आदि-ज्ञानम्]
+
+[प्रश्नास्]
+
 ब्स्स्_१९।१अ। दृष्ट्वा दिन-%अर्ध-घटिका यस् अर्क-ज्ञस् अक्ष-अंशकान् विजानाति।  
-  
+    
 ब्स्स्_१९।१च्। उदय-अन्तर-घटिकाभिस् ज्ञातात् ज्ञेयम् सस् तन्त्र-ज्ञस्॥  
-  
+    
 ब्स्स्_१९।२अ। अस्त-अन्तर-घटिकाभिस् यस् ज्ञातात् ज्ञेयम् आनयति तस्त्मात्।  
-  
+    
 ब्स्स्_१९।२च्। मध्य-गतिम् युग-भ-गणान् आनयति ततस् सस् तन्त्र-ज्ञस्॥  
-  
+    
 ब्स्स्_१९।३अ। आनयति यस् तमस्-रवि-शश-अङ्क-मानानि दीपक-शिख-औच्च्यात्।  
-  
+    
 ब्स्स्_१९।३च्। शङ्कु-तल-अन्तर-भूमि-ज्ञाने छायाम् सस् तन्त्र-ज्ञस्॥  
-  
+    
 ब्स्स्_१९।४अ। इष्ट-गृह-औच्च्य-ज्ञस् यस् तद्-अन्तर-ज्ञस् निरीक्ष्यते तु जले।  
-  
+    
 ब्स्स्_१९।४च्। गृह-भित्ति-अग्रम् दर्शयति दर्पणे वा सस् तन्त्र-ज्ञस्॥  
-  
+    
 ब्स्स्_१९।५अ। छाया-%द्वितीय-भा-अग्र-अन्तर-विज्ञानेन वेत्ति दीप-औच्यम्।  
-  
-ब्स्स्_१९।५च्। शङ्कु-छाया-ज्ञस् वा भूमेस् छायाम् सस् तन्त्र-ज्ञस्॥ [द्: शङ्क- < śaṅku-]  
-  
-BSS_19.6a/ dṛṣṭvā gṛha-tala-antara-jālabhos dṛṣṭvā agram gṛhasya bhūmi-jñas/ [D: dṛṣṭvā gṛha-tala-antara-jālabhos > गृह-पुरुष-अन्तर-सलिले यस्]  
-  
+    
+ब्स्स्_१९।५च्। शङ्कु-छाया-ज्ञस् वा भूमेस् छायाम् सस् तन्त्र-ज्ञस्॥ [द्: शङ्क- < शङ्कु-]  
+    
+ब्स्स्_१९।६अ। दृष्ट्वा गृह-तल-अन्तर-जालभोस् दृष्ट्वा अग्रम् गृहस्य भूमि-ज्ञस्। [द्: दृष्ट्वा गृह-तल-अन्तर-जालभोस् > गृह-पुरुष-अन्तर-सलिले यस्]  
+    
 ब्स्स्_१९।६च्। वेत्ति गृह-औच्च्यम् दृष्ट्वा तैल-स्थम् वा सस् तन्त्र-ज्ञस्॥  
-  
+    
 ब्स्स्_१९।७अ। वीक्ष्य गृह-अग्रम् सलिले प्रसार्य सलिलम् पुनर् स्व-भू-ज्ञाने।  
-  
+    
 ब्स्स्_१९।७च्। आनयति जलात् भूमिम् गृहस्य वा औच्च्यम् सस् तन्त्र-ज्ञस्॥  
-  
+    
 ब्स्स्_१९।८अ। ज्ञातैस् छाया-पुरुषैस् विज्ञाते तोय-कुड्ययोस् विवरे।  
-  
-ब्स्स्_१९।८च्। कुड्ये अर्क-तेजसस् यस् वेत्ति आरूढिम् सस् तन्त्र-ज्ञस्॥  
-  
-  
-  
-[उत्तराणि]  
-  
-  
-  
+    
+ब्स्स्_१९।८च्। कुड्ये अर्क-तेजसस् यस् वेत्ति आरूढिम् सस् तन्त्र-ज्ञस्॥
+
+[उत्तराणि]
+
 ब्स्स्_१९।९अ। इष्ट-दिवस-%अर्ध-घटिका घटिका-%पञ्चदश-अन्तर-प्राणास्।  
-  
+    
 ब्स्स्_१९।९च्। तद्-दिवस-चर-प्राणास् तैस् अक्षम् साधयेत् प्राक्-वत्॥  
-  
+    
 ब्स्स्_१९।१०अ। ज्ञात-ज्ञेय-ग्रहयोस् उदय-अन्तर-नाडिकाभिस् अधिक-ऊनस्।  
-  
+    
 ब्स्स्_१९।१०च्। उदयैस् ज्ञातस् ज्ञातात् ज्ञेयस् प्राक्-अपरयोस् ज्ञेयस्॥  
-  
+    
 ब्स्स्_१९।११अ। ज्ञातस् स-भ-%अर्धस् उदयैस् अस्त-अन्तर-नाडिकाभिस् अधिक-ऊनस्।  
-  
+    
 ब्स्स्_१९।११च्। ज्ञातात् पूर्व-अपरयोस् ज्ञेयस् भ-%अर्ध-ऊनके ज्ञेयस्॥  
-  
+    
 ब्स्स्_१९।१२अ। ज्ञातम् कृत्वा मध्यम् भूयस् अन्य-दिने तद्-अन्तरम् भुक्तिस्।  
-  
+    
 ब्स्स्_१९।१२च्। त्रैराशिकेन भुक्त्या कल्प-ग्रह-मण्डल-आनयनम्॥  
-  
+    
 ब्स्स्_१९।१३अ। स्थिति-%अर्धात् विपरीतम् तमस्-प्रमाणम् स्फुटम् ग्रहणे।  
-  
+    
 ब्स्स्_१९।१३च्। मान-उदयात् रवि-इन्द्वोस् घटिका-अवयवेन भ-उदय-तस्॥  
-  
+    
 ब्स्स्_१९।१४अ। दीप-तल-शङ्कु-तलयोस् अन्तरम् इष्ट-प्रमाण-शङ्कु-गुणम्।  
-  
+    
 ब्स्स्_१९।१४च्। दीप-शिख-औच्च्यात् शङ्कुम् विशोध्य शेष-उद्धृतम् छाया॥  
-  
+    
 ब्स्स्_१९।१५अ। शङ्कु-अन्तरेण गुणिता छाया छाया-अन्तरेण भक्ता भूस् ।  
-  
+    
 ब्स्स्_१९।१५च्। स-छाया शङ्कु-गुणा दीप-औच्च्यम् छायया भक्ता॥  
-  
+    
 ब्स्स्_१९।१६अ। ज्ञात्वा शङ्कु-छायाम् अनुपातात् साधयेत् समुच्छ्रायान्।  
-  
+    
 ब्स्स्_१९।१६च्। गृह-चैत्य-तरु-नगानाम् औच्च्यम् विज्ञाय वा छायाम्॥  
-  
+    
 ब्स्स्_१९।१७अ। युत-दृष्टि-गृह-औच्च्य-हृता हि अन्तर-भूमिस् दृक्-औच्च्य-सङ्गुणिता॥  
-  
+    
 ब्स्स्_१९।१७च्। फल-भूस् न्यस्ते तोये प्रति-रूप-अग्रम् गृहस्य नरात्॥  
-  
+    
 ब्स्स्_१९।१८अ। गृह-पुरुष-अन्तर-सलिले वीक्ष्य गृह-अग्रम् दृक्-औच्च्य-सङ्गुणितम्।  
-  
+    
 ब्स्स्_१९।१८च्। गृह-तोय-अन्तरम् औच्च्यम् गृहस्य नृ-जल-अन्तरेण हृतम्॥  
-  
+    
 ब्स्स्_१९।१९अ। %प्रथम-%द्वितीय-नृ-जल-अन्तर-अन्तरेण उद्धृता जल-अपसृतिस्।  
-  
+    
 ब्स्स्_१९।१९च्। दृष्टि-औच्च्य-गुणा उच्छ्रायस् तोयात् नृ-जल-अन्तर-गुणा भूस्॥  
-  
+    
 ब्स्स्_१९।२०अ। छाया-पुरुष-छिन्नम् जल-कुड्य-अन्तरम् अवाप्तम् आरूढिस्।  
-  
-ब्स्स्_१९।२०च्। अध्यायस् %विंशति-आर्याणाम् %एकोनविंशस् अयम्॥  
-  
-  
-  
-[छन्दस्-चिति-उत्तरम्]  
-  
-  
-  
+    
+ब्स्स्_१९।२०च्। अध्यायस् %विंशति-आर्याणाम् %एकोनविंशस् अयम्॥
+
+[छन्दस्-चिति-उत्तरम्]
+
 ब्स्स्_२०।१अ। ऋग्वर्गः पर्यायः समूहयोगावयुक्षु युग्मेषु।  
-  
+    
 ब्स्स्_२०।१च्। सोयाः प्राग्वत्प्राप्तादाश्चतुष्ककाः शेषयुक्त्योन्त्यः॥  
-  
+    
 ब्स्स्_२०।२अ। एकादियुतविहीनावाद्यन्तौ तद्विपर्ययौ यावत्।  
-  
+    
 ब्स्स्_२०।२च्। वर्गादिषु विषमयुजां क्रमोत्क्रमाद्वर्धयेत्पादान्॥  
-  
+    
 ब्स्स्_२०।३अ। एकैकेन द्व्याद्व्याः सोप्पप्पधिकेषु तत्प्रतिष्ठेषु।  
-  
+    
 ब्स्स्_२०।३च्। वर्गादिरभीष्टान्तः प्रस्तारो भवति यवमध्यः॥  
-  
+    
 ब्स्स्_२०।४अ। सूनोन्त्यो द्विपदाग्रं त्रिपदाद्यानामधः पृथक् सङ्ख्या।  
-  
+    
 ब्स्स्_२०।४च्। तच्छोध्यो व्येकः पृथग्न्ताद्रूपमूर्ध्वयुतम्॥  
-  
+    
 ब्स्स्_२०।५अ। यावत् पादाव्येकागच्छाद्वर्णेष्वथैकवृद्धेषु।  
-  
+    
 ब्स्स्_२०।५च्। रूपाद्युतघाते वर्गाद्यानां परा सङ्ख्या॥  
-  
+    
 ब्स्स्_२०।६अ। रूपाधिकपादार्धेविषमेषूर्ध्वः समेषु पादार्धे।  
-  
+    
 ब्स्स्_२०।६च्। अर्धाद्विगुणाव्येकांयुलान्यधस्तस्य सर्वेषाम्॥  
-  
+    
 ब्स्स्_२०।७अ। माध्यैस् तथार्धहीनैः क्रमपादैर् व्यस्ततुल्यपादाद्यः।  
-  
+    
 ब्स्स्_२०।७च्। विषमेरव्येकं मध्ये प्रोह्याद्यान्यतः कुर्यात्॥  
-  
+    
 ब्स्स्_२०।८अ। सैकक्रमतुल्याद्यैर् न्यासोऽभ्यधिको विशोधितश् चाधः।  
-  
+    
 ब्स्स्_२०।८च्। सङ्ख्यैक्यं तादृक् यादृक् प्रथमस् त्रिरहितो नष्टे॥  
-  
+    
 ब्स्स्_२०।९अ। माध्यैः कृतैश् च दलितैः समसङ्ख्यायां क्रमोत्क्रमात् क्षेप्पम्।  
-  
+    
 ब्स्स्_२०।९च्। विषमायां व्येकायां दलम् क्रमाद् उत्त्क्रमात् सैकम्॥  
-  
+    
 ब्स्स्_२०।१०अ। समसङ्ख्यायां सोपानक्रमोत्क्रमाभ्यां तथैव विषमाभ्याम्।  
-  
+    
 ब्स्स्_२०।१०च्। कल्प्या पचिते दृष्टे प्रथमः शेषाक्षराण्यन्ते॥  
-  
+    
 ब्स्स्_२०।११अ। समदलसमविषमाणां सङ्ख्यापादार्धसर्वकल्पवधः।  
-  
+    
 ब्स्स्_२०।११च्। स्वाद्यवधोऽन्यैः पादैः स्वपरस्य प्राग्वधः सैकैः॥  
-  
+    
 ब्स्स्_२०।१२अ। आद्यादनन्तरोऽधः कल्प्पोऽन्यतुल्यमाद्यः प्राक्।  
-  
+    
 ब्स्स्_२०।१२च्। न्यासो वर्गोऽन्योनः प्रस्तारोऽर्धसमविषमाणाम्॥  
-  
+    
 ब्स्स्_२०।१३अ। नष्टेन्त्यात् स्वाधस्थोनकल्पघातोऽर्धतुल्यविषमाणाम्।  
-  
+    
 ब्स्स्_२०।१३च्। व्येकः पृथक् स्ववर्गोद्धृतः फलं तुल्यकल्यानाम्॥  
-  
+    
 ब्स्स्_२०।१४अ। उद्दिष्टे कल्पहृतेऽतीतैः प्रथमः फले सरूपे ऽन्यः।  
-  
+    
 ब्स्स्_२०।१४च्। असकृद्वर्गांशयुते सैके वार्धसमविषमाणाम्॥  
-  
+    
 ब्स्स्_२०।१५अ। कपेषु पृथक् गुरुलघुसङ्ख्यैकादिभाजिता प्राग्वत्।  
-  
+    
 ब्स्स्_२०।१५च्। विषमेष्वाद्यलघूनो लघुभिर् मेरुः समादीनाम्॥  
-  
+    
 ब्स्स्_२०।१६अ। एकद्वितयोः परतो द्विसङ्गुणोऽनन्तराद्विरूपोऽधः।  
-  
+    
 ब्स्स्_२०।१६च्। वर्गधराद्योनोदलसमविषमाणां ध्वजो लघुभिः॥  
-  
+    
 ब्स्स्_२०।१७अ। लघुसङ्ख्या पददलिता परतोऽधोऽधश् च शुध्यति हृता यैः।  
-  
+    
 ब्स्स्_२०।१७च्। द्विगुणान्तैः शुद्धैर् वर्गपरैर् मन्दरो लघुभिः॥  
-  
+    
 ब्स्स्_२०।१८अ। कृत्वाधोऽधः कल्प्यान्येकाद्येकोत्तरानधस्तेषाम्।  
-  
+    
 ब्स्स्_२०।१८च्। स्वात् परतोऽन्यैक्यम् अधः प्रस्ताराद् उक्तवद् इहाद्यैः॥  
-  
+    
 ब्स्स्_२०।१९अ। गुरुषष्ट्येकानिघटीद्विगुणान्येकाङ्गुलानि सङ्ख्या स्यात्।  
-  
+    
 ब्स्स्_२०।१९च्। द्राविंशतिर् आर्याणां छन्दश्चित्युत्तरोऽध्यायः॥  
-  
-ब्स्स्_२०।१९प्। इति श्री-ब्राह्मस्फुट-सिद्धान्ते छन्दश्चित्युत्तराध्यायो विंशतितमः॥  
-  
-  
-  
-[ज्या-प्रकरणम्]  
-  
-  
-  
+    
+ब्स्स्_२०।१९प्। इति श्री-ब्राह्मस्फुट-सिद्धान्ते छन्दश्चित्युत्तराध्यायो विंशतितमः॥
+
+[ज्या-प्रकरणम्]
+
 ब्स्स्_२१।१७अ। राशि-%अष्ट-अंशेषु अङ्कान् पद-सन्धिभ्यस् क्रम-उत्क्रमात् कृत्वा।  
-  
+    
 ब्स्स्_२१।१७च्। बध्नीयात् सूत्राणि %द्वयोस् %द्वयोस् ज्यास् तद्-%अर्धानि॥  
-  
+    
 ब्स्स्_२१।१८अ। ज्या-%अर्धानि ज्या-%अर्धानाम् ज्या-खण्डानि अन्तराणि।  
-  
+    
 ब्स्स्_२१।१८च्। व्यस्तानि अन्त्यात् अथ वा इषुस् उत्क्रम-ज्या धनुस् ताभ्याम्॥  
-  
+    
 ब्स्स्_२१।१९अ। %एक-%द्वि-%त्रि-गुणायास् व्यास-%अर्ध-कृतेस् पृथक् %चतुर्थेभ्यस्।  
-  
+    
 ब्स्स्_२१।१९च्। मूलानि %अष्ट-%द्वादश-%षोडश-खण्डानि अतस् अन्यानि॥  
-  
+    
 ब्स्स्_२१।२०अ। तुल्य-क्रम-उत्क्रम-ज्या-सम-खण्डक-वर्ग-युति-%चतुर्-भागम्।  
-  
+    
 ब्स्स्_२१।२०च्। प्रोह्य अनष्टम् व्यास-%अर्ध-वर्गतस् तद्-पदे %प्रथमम्॥  
-  
+    
 ब्स्स्_२१।२१अ। तद्-#दल-खण्डानि तद्-ऊन-#जिन-समानि %द्वितीयम् उत्पत्तौ।  
-  
+    
 ब्स्स्_२१।२१च्। #कृत-#यमल-%एक-#दिश्-#ईश-#इषु-%सप्त-#रस-#गुण-%नव-आदीनाम्॥  
-  
+    
 ब्स्स्_२१।२२अ। एवम् जीवा-खण्डानि अल्पानि बहूनि वा आद्य-खण्डानि।  
-  
+    
 ब्स्स्_२१।२२च्। ज्या-%अर्धानि वृत्त-परिधेस् %षष्ठ-%चतुर्थ-%त्रि-भागानाम्॥  
-  
+    
 ब्स्स्_२१।२३अ। उत्क्रम-सम-खण्ड-गुणात् व्यासात् अथ वा %चतुर्थ-भागात् यत्।  
-  
-ब्स्स्_२१।२३च्। कृत्वा उक्त-खण्डकानि ज्या-%अर्ध-आनयनम् न लघु अस्मात्॥  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+    
+ब्स्स्_२१।२३च्। कृत्वा उक्त-खण्डकानि ज्या-%अर्ध-आनयनम् न लघु अस्मात्॥
+

@@ -1,15 +1,87 @@
----
-title: Bhagavata-Purana 5
++++
+title = "Bhagavata-Purana 5"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Bhagavata-Purana 5  
-
+  
+  
+  
+  
+  
+  
 Bhagavata-Purana 5  
 Input by ...  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
+
 
 भ्प्_०५।०१।००१।० राजोवाच  
 भ्प्_०५।०१।००१।१ प्रियव्रतो भागवताअत्मारामः कथं मुने  
@@ -170,7 +242,7 @@ Input by ...
 भ्प्_०५।०४।०११।१ कविर् हविर् अन्तरिक्षः प्रबुद्धः पिप्पलायनः  
 भ्प्_०५।०४।०११।२ आविर्होत्रो ऽथ द्रुमिलश् चमसः करभाजनः  
 भ्प्_०५।०४।०१२।१ इति भागवत-धर्म-दर्शना नव महा-भागवतास् तेषां सुचरितं भगवन्-महिमोपबृंहितं वसुदेव-नारद-संवादम् उपशमायनम् उपरिष्टाद् वर्णयिष्यामः  
-भ्प्_०५।०४।०१३।१ यवीयांस एकाशीतिर् जायन्तेयाः पितुर् आदेशकरा महा-शालीना महा-श्रोत्रिया यज्ञ-शीलाः कर्म-विशुद्धा ब्राह्मणा बभूवुः  
+भ्प्_०५।०४।०१३।१ यवीयाम्स एकाशीतिर् जायन्तेयाः पितुर् आदेशकरा महा-शालीना महा-श्रोत्रिया यज्ञ-शीलाः कर्म-विशुद्धा ब्राह्मणा बभूवुः  
 भ्प्_०५।०४।०१४।१ भगवान् ऋषभ-सञ्ज्ञ आत्म-तन्त्रः स्वयं नित्य-निवृत्तानर्थ-परम्परः केवलानन्दानुभव ईश्वर एव विपरीतवत् कर्माण्य् आरभमाणः कालेनानुगतं धर्मम् आचरणेनोपशिक्षयन्न् अतद्-विदां सम उपशान्तो मैत्रः कारुणिको धर्मार्थ-यशः-प्रजानन्दामृतावरोधेन गृहेषु लोकं नियमयत्  
 भ्प्_०५।०४।०१५।१ यद् यच् छीर्षण्याचरितं तत् तद् अनुवर्तते लोकः  
 भ्प्_०५।०४।०१६।१ यद्यपि स्व-विदितं सकल-धर्मं ब्राह्मं गुह्यं ब्राह्मणैर् दर्शित-मार्गेण सामादिभिर् उपायैर् जनताम् अनुशशास  
@@ -987,5 +1059,5 @@ Input by ...
 भ्प्_०५।२६।०३९।१ भू-द्वीप-वर्ष-सरिद्-अद्रि-नभः-समुद्र-   
 भ्प्_०५।२६।०३९।२ पाताल-दिङ्-नरक-भागण-लोक-संस्था  
 भ्प्_०५।२६।०३९।३ गीता मया तव नृपाद्भुतम् ईश्वरस्य  
-भ्प्_०५।२६।०३९।४ स्थूलं वपुः सकल-जीव-निकाय-धाम  
+भ्प्_०५।२६।०३९।४ स्थूलं वपुः सकल-जीव-निकाय-धाम
 

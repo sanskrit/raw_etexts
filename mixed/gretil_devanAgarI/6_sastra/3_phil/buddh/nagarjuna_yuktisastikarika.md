@@ -1,7 +1,9 @@
----
-title: 'Nagarjuna: Yuktisastikarika'
++++
+title = "Nagarjuna: Yuktisastikarika"
 
----
++++
+
+
 ## Intro
   
   
@@ -35,21 +37,73 @@ Therefore, many word boundaries are not marked by blanks.
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
+
+
 अथ युक्तिषष्टिकारिका नाम  
 मञ्जुश्रिकुमारभुताय नमः  
-  
+    
 नमस्तस्मै मुनीन्द्राय प्रतीत्योपाददेशिने ।  
 येनानेना विधानेन निषिद्धावुदयव्ययौ ॥   
-  
+    
 भावाभावव्यतिक्रान्ता मतिर्येषामनाश्रिता ।  
 तैर्गम्भीरो निरलम्बः प्रत्ययार्थः प्रतीयते ॥ युक्ति_१  
 सर्वदोषाकरस्तावदभावो विनिवारितः ।  
@@ -170,16 +224,13 @@ Therefore, many word boundaries are not marked by blanks.
 क्लेशसर्पेर्मथितो ऽपि तीणो ऽखिन्नो भवाम्बुद्धेः ॥ युक्ति_५९  
 शास्त्रेणानेन जनानाम् पुन्यम् ज्ञानम् च सन्चितम् ।  
 पुन्यज्ञानक्रियोद्भूतम् द्वावाप्तोतु परम् तथा ॥ युक्ति_६०  
-  
+    
 इति युक्तिषष्टिकारिका समाप्ता ।  
-  
+    
 आर्यनागार्जुनमुखनिः सतम्, शास्त्रमिदं  
-  
+    
 भारतीयपण्डित मुदितश्रिपण्डिताच्छुर्तम्  
 च भोटवासिना पात्छव प्रान्तीय सुर्यकीर्तिर्नाम  
 भोटपण्डितेन लिखितं भोटभाषायमिति ॥   
-शुभमस्तु ।  
-  
-  
-  
-  
+शुभमस्तु ।
+

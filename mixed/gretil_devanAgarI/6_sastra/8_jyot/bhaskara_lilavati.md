@@ -1,15 +1,24 @@
----
-title: 'Bhaskara: Lilavati'
++++
+title = "Bhaskara: Lilavati"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Bhaskara: Lilavati  
-
+  
+  
+  
+  
 Bhaskara: Lilavati   
   
 Input by T. Hayashi (20 April 1993)  
-
+  
+  
 This digitalized version of the Lilavati is based on the following two editions:  
 1) Lilavati, ed with Ganesa's Buddhivilasini and Mahidhara's Lilavativivarana by V.G. Apate.  Anandasrama Sanskrit Series 107.  Poona 1937.  This edition is denoted by 'ApaTe.'  
 2) Lilavati, ed with Sankara's Kriyakramakari by K.V.Sarma.  Hoshiarpur 1975.  This edition is denoted by 'zarma.'  
@@ -23,1689 +32,1750 @@ The first and the second halves of a stanza for mathematical rules are sometimes
 The numbers given to the stanzas by Colebrooke in his English translation is different from ours.  They are noted as [Cb-].  
   
 The symbol @ indicates a verb.  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
 
-[परिभाषा]  
+
+[परिभाषा]
 
 लिल्_१अ। प्रीतिम् भक्त-जनस्य यस् @जनयते विघ्नम् विनिघ्नन् स्मृतस् तम् वृन्दारक-वृन्द-वन्दित-पदम् @नत्वा मतङ्ग-आननम्।  
-  
+    
 लिल्_१च्। पाटीम् सत्-गणितस्य @वच्मि चतुर-प्रीति-प्रदाम् प्रस्फुटाम् सङ्क्षिप्त-अक्षर-कोमल-अमल-पदैस् लालित्य-लीलावतीम्॥[शार्दूलविक्रीडित]  
-  
+    
 लिल्_२अ। वराटकानाम् %दशक-%द्वयम् २० यद् सा काकिणी तास् च पणस् %चतस्रस्।  
-  
+    
 लिल्_२च्। ते %षोडश द्रम्मस् इह अवगम्यस् द्रम्मैस् तथा %षोडशभिस् च निष्कस्॥[उपजाति]  
-  
+    
 लिल्_३अ। तुल्या यवाभ्याम् कथिता अत्र गुञ्जा वल्लस् %त्रि-गुञ्जस् धरणम् च ते %अष्टौ।  
-  
+    
 लिल्_३च्। गद्याणकस् तद्-%द्वयम् #इन्द्र-१४-तुल्यैस् वल्लैस् तथा %एकस् घटकस् प्रदिष्टस्॥[इन्द्रवज्रा]  
-  
+    
 लिल्_४अ। %दश-%अर्ध-गुञ्जम् @प्रवदन्ति माषम् माष-आह्वयैस् %षोडशभिस् च कर्षम्।  
-  
+    
 लिल्_४च्। कर्षैस् %चतुर्भिस् च पलम् तुला-ज्ञाः कर्षम् सुवर्णस्य सुवर्ण-सञ्ज्ञम्॥[उपजाति]  
-  
-लिल्_५अ। यव-उदरैस् अङ्गुलम् %अष्ट-सङ्ख्यैस् हस्तस् अङ्गुलैस् %षष्-गुणितैस् %चतुर्भिस्।[आपटे: अगुङ्लम् < aṅgulam]  
-  
-Lil_5c/ hastais %caturbhis @bhavati iha daṇḍas krośas %sahasra-%dvitayena teṣām//[upajāti]  
-  
-Lil_6a/ @syāt yojanam krośa-%catuṣṭayena tathā karāṇām %daśakena vaṃśas/  
-  
-Lil_6c/ nivartanam %viṃśati-vaṃśa-saṃkhyais kṣetram %caturbhis ca bhujais nibaddham//[upajāti]  
-  
-Lil_7a/ hasta-unmitais vistṛti-dairghya-piṇḍais yat %dvādaśa-asram ghana-hasta-saṃjñam/  
-  
-Lil_7c/ dhānya-ādike yat ghana-hasta-mānam śāstra-uditā māgadha-khārikā sā//[indravajrā]  
-  
-Lil_8a/ droṇas tu khāryās khalu %ṣoḍaśa-aṃśas @syāt āḍhakas droṇa-%caturtha-bhāgas/  
-  
-Lil_8c/ prasthas %caturtha-aṃśas iha āḍhakasya prastha-#aṅghris ādyais kuḍavas pradiṣṭas//[indravajrā]  
-  
-Lil_8ex.a/ #pāda-ūna-gadyāṇaka-tulya-ṭaṅkais %dvi-%sapta-tulyais kathitas atra seras/  
-  
-Lil_8ex.c/ maṇa-abhidhānam #kha-#yugais ca serais dhānya-ādi-taulyeṣu turuṣka-saṃjñā//[upajāti]  
-  
-Lil_8p1/ śeṣā kāla-ādi-paribhāṣā lokatas prasiddhā jñeyā/ iti paribhāṣā//    
+    
+लिल्_५अ। यव-उदरैस् अङ्गुलम् %अष्ट-सङ्ख्यैस् हस्तस् अङ्गुलैस् %षष्-गुणितैस् %चतुर्भिस्।[आपटे: अगुङ्लम् < अङ्गुलम्]  
+    
+लिल्_५च्। हस्तैस् %चतुर्भिस् @भवति इह दण्डस् क्रोशस् %सहस्र-%द्वितयेन तेषाम्॥[उपजाति]  
+    
+लिल्_६अ। @स्यात् योजनम् क्रोश-%चतुष्टयेन तथा कराणाम् %दशकेन वंशस्।  
+    
+लिल्_६च्। निवर्तनम् %विंशति-वंश-सङ्ख्यैस् क्षेत्रम् %चतुर्भिस् च भुजैस् निबद्धम्॥[उपजाति]  
+    
+लिल्_७अ। हस्त-उन्मितैस् विस्तृति-दैर्घ्य-पिण्डैस् यत् %द्वादश-अस्रम् घन-हस्त-सञ्ज्ञम्।  
+    
+लिल्_७च्। धान्य-आदिके यत् घन-हस्त-मानम् शास्त्र-उदिता मागध-खारिका सा॥[इन्द्रवज्रा]  
+    
+लिल्_८अ। द्रोणस् तु खार्यास् खलु %षोडश-अंशस् @स्यात् आढकस् द्रोण-%चतुर्थ-भागस्।  
+    
+लिल्_८च्। प्रस्थस् %चतुर्थ-अंशस् इह आढकस्य प्रस्थ-#अङ्घ्रिस् आद्यैस् कुडवस् प्रदिष्टस्॥[इन्द्रवज्रा]  
+    
+लिल्_८एx।अ। #पाद-ऊन-गद्याणक-तुल्य-टङ्कैस् %द्वि-%सप्त-तुल्यैस् कथितस् अत्र सेरस्।  
+    
+लिल्_८एx।च्। मण-अभिधानम् #ख-#युगैस् च सेरैस् धान्य-आदि-तौल्येषु तुरुष्क-सञ्ज्ञा॥[उपजाति]  
+    
+लिल्_८प्१। शेषा काल-आदि-परिभाषा लोकतस् प्रसिद्धा ज्ञेया। इति परिभाषा॥  
 
-[parikarma-aṣṭaka]  
+[परिकर्म-अष्टक]
 
-Lil_8p2/ atha saṃkhyā-sthāna-nirṇayas/  
-  
-Lil_9a/ līlā-gala-lulat-lola-kāla-vyāla-vilāsine/  
-  
-Lil_9c/ gaṇeśāya namas nīla-kamala-amala-kāntaye//[śloka]  
-  
-Lil_10a/ %eka-%daśa-%śata-%sahasra-%ayuta-%lakṣa-%prayuta-%koṭayas kramaśas/  
-  
-Lil_10c/ %arbudam %abjam %kharva-%nikharva-%mahāpadma-%śaṅkavas tasmāt//[gīti]  
-  
-Lil_11a/ %jaladhis ca %antyam %madhyam %parārdham iti %daśa-guṇa-uttarās saṃjñās/  
-  
-Lil_11c/ saṃkhyāyās sthānānām vyavahāra-artham kṛtās pūrvais//[āryā]  
-  
-Lil_11p/ iti saṃkhyā-sthāna-nirṇayas//  atha saṃkalita-vyavakalite/ atha saṃkalita-vyavakalitayos karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_12/ kāryas kramāt utkramatas atha vā aṅka-yogas yathā-sthānakam antaram vā/[indravajrā-ab; cd=14a]  
-  
-Lil_12p/ atra uddeśakas/  
-  
-Lil_13a/ aye bāle līlāvati mati-mati @brūhi sahitān %dvi-%pañca-%dvātriṃśat-%trinavati-%śata-%aṣṭādaśa %daśa/  
-  
-Lil_13c/ %śata-upetān etān %ayuta-viyutān ca api @vada me yadi vyakte yukti-vyavakalana-mārge @asi kuśalā//[śikhariṇī]  
-  
-Lil_13p/ nyāsas/ 2/ 5/ 32/ 193/ 18/ 10/ 100/ saṃyojanāt jātam/ 360/ %ayutāt 10000 śodhite jātam 9640/  iti saṃkalita-vyavakalite//  atha guṇana-prakāras/ guṇane karaṇa-sūtram sa-%ardha-vṛtta-%dvayam/  
-  
-Lil_14a/ guṇya-antyam aṅkam guṇakena @hanyāt utsāritena evam upāntima-ādīn//[indravajrā-cd; ab=12]  
-  
-Lil_14c/ guṇyas tu adhas adhas guṇa-khaṇḍa-tulyas tais khaṇḍakais saṃguṇitas yutas vā/  
-  
-Lil_15a/ bhaktas guṇas @śudhyati yena tena labdhyā ca guṇyas guṇitas phalam vā//[indravajrā]  
-  
-Lil_15c/ dvidhā @bhavet rūpa-vibhāgas evam sthānais pṛthak vā guṇitas sametas/  
-  
-Lil_16/ iṣṭa-ūna-yuktena guṇena nighnas abhīṣṭa-ghna-guṇya-anvita-varjitas vā//[upajāti]  
-  
-Lil_16p/ atra uddeśakas/  
-  
-Lil_17a/ bāle bāla-kuraṅga-lola-nayane līlāvati @procyatām %pañca-%tri-%eka-mitās #divākara-guṇās aṅkās kati @syus yadi/  
-  
-Lil_17c/ rūpa-sthāna-vibhāga-khaṇḍa-guṇane kalpā @asi kalyāṇini chinnās tena guṇena te ca guṇitās jātās kati @syus @vada//[śārdūlavikrīḍita]  
-  
-Lil_17p/ nyāsas/ guṇyas 135/ guṇakas 12/ guṇya-antyam aṅkam guṇakena @hanyāt iti kṛte jātam 1620//  atha vā guṇa-rūpa-vibhāge kṛte khaṇḍe 4/ 8/ ābhyām pṛthak guṇye guṇite yute ca jātam tat eva 1620//  atha vā guṇakas %tribhis bhaktas labdham 4/ ebhis %tribhis ca guṇye guṇite jātam tat eva 1620//  atha vā sthāna-vibhāge kṛte khaṇḍe 1/ 2/ ābhyām pṛthak guṇye  
-guṇite yathā-sthāna-yute ca jātam tat eva 1620//  atha vā %dvi-ūnena guṇakena 10 %dvābhyām 2 ca pṛthak guṇye guṇite yute ca jātam tat eva 1620//  atha vā %aṣṭa-yutena guṇakena 20 guṇye guṇite %aṣṭa-guṇita-guṇya-hīne ca jātam tat eva 1620//  iti guṇana-prakāras//  atha bhāga-hāras/ bhāga-hāre karaṇa-sūtram vṛttam/  
-  
-Lil_18a/ bhājyāt haras @śudhyati yad-guṇas @syāt antyāt phalam tat khalu bhāga-hāre/  
-  
-Lil_18c/ samena kena api @apavartya hāra-bhājyau @bhajet vā sati saṃbhave tu//[upajāti]  
-  
-Lil_18p/ atra pūrva-udāharaṇe guṇita-aṅkānām sva-guṇa-chedānām bhāga-hāra-artham nyāsas/ bhājyas 1620/ bhājakas 12/ bhajanāt labdhas guṇyas 135//  atha vā bhājya-hārau %tribhis apavartitau 540_4/ %caturbhis vā 405_3/ sva-sva-hāreṇa hṛte phale tat eva 135//  iti bhāga-hāras//  atha vargas/ varge karaṇa-sūtram vṛtta-%dvayam/  
-  
-Lil_19a/ sama-%dvi-ghātas kṛtis @ucyate atha sthāpyas antya-vargas %dvi-guṇa-antya-nighnas/  
-  
-Lil_19c/ sva-sva-upariṣṭāt ca tathā apare aṅkās @tyaktvā antyam @utsārya punar ca rāśim//[upajāti]  
-  
-Lil_20a/ khaṇḍa-%dvayasya abhihatis 5dvi-nighnī tad-khaṇḍa-varga-aikya-yutā kṛtis vā/  
-  
-Lil_20c/ iṣṭa-ūna-yuj-rāśi-vadhas kṛtis @syāt iṣṭasya vargeṇa samanvitas vā//[indravajrā]  
-  
-Lil_20p/ atra uddeśakas/  
-  
-Lil_21a/ sakhe %navānām ca %caturdaśānām @brūhi %tri-hīnasya %śata-%trayasya/  
-  
-Lil_21c/ %pañca-uttarasya api %ayutasya vargam @jānāsi ced varga-vidhāna-mārgam//[upajāti]  
-  
-Lil_21p/ nyāsas 9/ 14/ 297/ 10005/ eṣām yathā-ukta-karaṇena jātās vargās 81/ 196/ 88209/ 100100025//  atha vā %navānām khaṇḍe 4/ 5/ anayos āhatis 20/ %dvi-ghnī 40/ tad-khaṇḍa-varga-aikyena 41 yutā jātā sā eva kṛtis 81// atha vā %caturdaśānām khaṇḍe 6/ 8/ anayos āhatis 48/ %dvi-ghnī 96/ tad-khaṇḍa-vargau 36/ 64/ anayos aikyena 100 yutā jātā sā eva kṛtis  
-196// atha vā khaṇḍe 4/ 10/ tathā api sā eva kṛtis 196//  atha vā rāśis 297/ ayam %tribhis ūnas pṛthak yutas ca 294/ 300/ anayos ghātas 88200 %tri-varga-9-yutas jātas vargas sas eva 88209// evam sarvatra/ iti vargas//  atha varga-mūlam/ varga-mūle karaṇa-sūtram vṛttam/  
-  
-Lil_22a/ @tyaktvā antyāt viṣamāt kṛtim @%dvi-guṇayet mūlam same tad-hṛte @tyaktvā labdha-kṛtim tad-ādya-viṣamāt labdham %dvi-nighnam @nyaset/  
-  
-Lil_22c/ paṅktyām paṅkti-hṛte same anya-viṣamāt @tyaktvā āpta-vargam phalam paṅktyām tat %dvi-guṇam @nyaset iti muhus paṅktes #dalam @syāt padam//[śārdūlavikrīḍita]  
-  
-Lil_22p/ atra uddeśakas/  
-  
-Lil_23a/ mūlam %caturṇām ca tathā %navānām pūrvam kṛtānām ca sakhe kṛtīnām/  
-  
-Lil_23c/ pṛthak pṛthak varga-padāni @viddhi buddhes vivṛddhis yadi te atra jātā//[upajāti]  
-  
-Lil_23p/ nyāsas 4/ 9/ 81/ 196/ 88209/ 100100025/ labdhāni krameṇa mūlāni 2/ 3/ 9/ 14/ 297/ 10005// iti varga-mūlam//  atha ghanas/ ghane karaṇa-sūtram vṛtta-%trayam/  
-  
-Lil_24a/ sama-%tri-ghātas ca ghanas pradiṣṭas sthāpyas ghanas antyasya tatas antya-vargas/  
-  
-Lil_24c/ ādi-%tri-nighnas tatas ādi-vargas %tri-antya-āhatas atha ādi-ghanas ca sarve//[upajāti]  
-  
-Lil_25a/ sthāna-antaratvena yutās ghanas @syāt @prakalpya tad-khaṇḍa-#yugam tatas antyam/  
-  
-Lil_25c/ evam muhus varga-ghana-prasiddhau ādya-aṅkatas vā vidhis eṣas kāryas//[upajāti]  
-  
-Lil_26a/ khaṇḍābhyām vā āhatas rāśis %tri-ghnas khaṇḍa-ghana-aikya-yuk/  
-  
-Lil_26c/ varga-mūla-ghanas sva-ghnas varga-rāśes ghanas @bhavet//[śloka]  
-  
-Lil_26p/ atra uddeśakas/  
-  
-Lil_27a/ nava-ghanam %tri-ghanasya ghanam tathā @kathaya %pañca-ghanasya ghanam ca me/  
-  
-Lil_27c/ ghana-padam ca tatas api ghanāt sakhe yadi ghane @asti ghanā bhavatas matis//[drutavilambita]  
-  
-Lil_27p/ nyāsas 9/ 27/ 125/ jātās krameṇa ghanās 729/ 19683/ 1953125//  atha vā rāśis 9/ asya khaṇḍe 4/ 5/ ābhyām hatas rāśis 180/ %tri-ghnas 540/ khaṇḍa-ghana-aikyena 189 yutas jātas ghanas 729//  atha vā rāśis 27/ asya khaṇḍe 20/ 7/ ābhyām hatas %tri-ghnas ca 11340/ khaṇḍa-ghana-aikyena 8343 yutas jātas ghanas 19683//  atha vā rāśis 4/ asya mūlam 2/ asya  
-ghanas 8/ ayam sva-ghnas jātas %carurṇām ghanas 64//  atha vā rāśis 9/ asya mūlam 3/ asya ghanas 27/ asya vargas jātas %navānām ghanas 729/ yas eva varga-rāśi-ghanas sas eva varga-mūla-ghana-vargas//  iti ghanas//  atha ghana-mūle karaṇa-sūtram vṛtta-%dvayam/  
-  
-Lil_28a/ ādyam ghana-sthānam atha aghane %dve punar tathā antyāt ghanatas @viśodhya/  
-  
-Lil_28c/ ghanam pṛthak-stham padam asya @kṛtvā %tri-ghnyā tad-ādyam @vibhajet phalam tu//[upajāti]  
-  
-Lil_29a/ paṅktyām @nyaset tad-kṛtim antya-nighnīm %tri-ghnīm @tyajet tad-%prathamāt phalasya/  
-  
-Lil_29c/ ghanam tad-ādyāt ghana-mūlam evam paṅktis @bhavet evam atas punar ca//[upajāti]  
-  
-Lil_29p1/ atra pūrva-ghanānām mūla-artham nyāsas 729/ 19683/ 1953125/ krameṇa labdhāni mūlāni 9/ 27/ 125//  iti ghana-mūlam//  iti parikarma-%aṣṭakam//    
+लिल्_८प्२। अथ सङ्ख्या-स्थान-निर्णयस्।  
+    
+लिल्_९अ। लीला-गल-लुलत्-लोल-काल-व्याल-विलासिने।  
+    
+लिल्_९च्। गणेशाय नमस् नील-कमल-अमल-कान्तये॥[श्लोक]  
+    
+लिल्_१०अ। %एक-%दश-%शत-%सहस्र-%अयुत-%लक्ष-%प्रयुत-%कोटयस् क्रमशस्।  
+    
+लिल्_१०च्। %अर्बुदम् %अब्जम् %खर्व-%निखर्व-%महापद्म-%शङ्कवस् तस्मात्॥[गीति]  
+    
+लिल्_११अ। %जलधिस् च %अन्त्यम् %मध्यम् %परार्धम् इति %दश-गुण-उत्तरास् सञ्ज्ञास्।  
+    
+लिल्_११च्। सङ्ख्यायास् स्थानानाम् व्यवहार-अर्थम् कृतास् पूर्वैस्॥[आर्या]  
+    
+लिल्_११प्। इति सङ्ख्या-स्थान-निर्णयस्॥ अथ सङ्कलित-व्यवकलिते। अथ सङ्कलित-व्यवकलितयोस् करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_१२। कार्यस् क्रमात् उत्क्रमतस् अथ वा अङ्क-योगस् यथा-स्थानकम् अन्तरम् वा।[इन्द्रवज्रा-अब्; च्द्=१४अ]  
+    
+लिल्_१२प्। अत्र उद्देशकस्।  
+    
+लिल्_१३अ। अये बाले लीलावति मति-मति @ब्रूहि सहितान् %द्वि-%पञ्च-%द्वात्रिंशत्-%त्रिनवति-%शत-%अष्टादश %दश।  
+    
+लिल्_१३च्। %शत-उपेतान् एतान् %अयुत-वियुतान् च अपि @वद मे यदि व्यक्ते युक्ति-व्यवकलन-मार्गे @असि कुशला॥[शिखरिणी]  
+    
+लिल्_१३प्। न्यासस्। २। ५। ३२। १९३। १८। १०। १००। संयोजनात् जातम्। ३६०। %अयुतात् १०००० शोधिते जातम् ९६४०। इति सङ्कलित-व्यवकलिते॥ अथ गुणन-प्रकारस्। गुणने करण-सूत्रम् स-%अर्ध-वृत्त-%द्वयम्।  
+    
+लिल्_१४अ। गुण्य-अन्त्यम् अङ्कम् गुणकेन @हन्यात् उत्सारितेन एवम् उपान्तिम-आदीन्॥[इन्द्रवज्रा-च्द्; अब्=१२]  
+    
+लिल्_१४च्। गुण्यस् तु अधस् अधस् गुण-खण्ड-तुल्यस् तैस् खण्डकैस् सङ्गुणितस् युतस् वा।  
+    
+लिल्_१५अ। भक्तस् गुणस् @शुध्यति येन तेन लब्ध्या च गुण्यस् गुणितस् फलम् वा॥[इन्द्रवज्रा]  
+    
+लिल्_१५च्। द्विधा @भवेत् रूप-विभागस् एवम् स्थानैस् पृथक् वा गुणितस् समेतस्।  
+    
+लिल्_१६। इष्ट-ऊन-युक्तेन गुणेन निघ्नस् अभीष्ट-घ्न-गुण्य-अन्वित-वर्जितस् वा॥[उपजाति]  
+    
+लिल्_१६प्। अत्र उद्देशकस्।  
+    
+लिल्_१७अ। बाले बाल-कुरङ्ग-लोल-नयने लीलावति @प्रोच्यताम् %पञ्च-%त्रि-%एक-मितास् #दिवाकर-गुणास् अङ्कास् कति @स्युस् यदि।  
+    
+लिल्_१७च्। रूप-स्थान-विभाग-खण्ड-गुणने कल्पा @असि कल्याणिनि छिन्नास् तेन गुणेन ते च गुणितास् जातास् कति @स्युस् @वद॥[शार्दूलविक्रीडित]  
+    
+लिल्_१७प्। न्यासस्। गुण्यस् १३५। गुणकस् १२। गुण्य-अन्त्यम् अङ्कम् गुणकेन @हन्यात् इति कृते जातम् १६२०॥ अथ वा गुण-रूप-विभागे कृते खण्डे ४। ८। आभ्याम् पृथक् गुण्ये गुणिते युते च जातम् तत् एव १६२०॥ अथ वा गुणकस् %त्रिभिस् भक्तस् लब्धम् ४। एभिस् %त्रिभिस् च गुण्ये गुणिते जातम् तत् एव १६२०॥ अथ वा स्थान-विभागे कृते खण्डे १। २। आभ्याम् पृथक् गुण्ये  
+गुणिते यथा-स्थान-युते च जातम् तत् एव १६२०॥ अथ वा %द्वि-ऊनेन गुणकेन १० %द्वाभ्याम् २ च पृथक् गुण्ये गुणिते युते च जातम् तत् एव १६२०॥ अथ वा %अष्ट-युतेन गुणकेन २० गुण्ये गुणिते %अष्ट-गुणित-गुण्य-हीने च जातम् तत् एव १६२०॥ इति गुणन-प्रकारस्॥ अथ भाग-हारस्। भाग-हारे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१८अ। भाज्यात् हरस् @शुध्यति यद्-गुणस् @स्यात् अन्त्यात् फलम् तत् खलु भाग-हारे।  
+    
+लिल्_१८च्। समेन केन अपि @अपवर्त्य हार-भाज्यौ @भजेत् वा सति सम्भवे तु॥[उपजाति]  
+    
+लिल्_१८प्। अत्र पूर्व-उदाहरणे गुणित-अङ्कानाम् स्व-गुण-छेदानाम् भाग-हार-अर्थम् न्यासस्। भाज्यस् १६२०। भाजकस् १२। भजनात् लब्धस् गुण्यस् १३५॥ अथ वा भाज्य-हारौ %त्रिभिस् अपवर्तितौ ५४०_४। %चतुर्भिस् वा ४०५_३। स्व-स्व-हारेण हृते फले तत् एव १३५॥ इति भाग-हारस्॥ अथ वर्गस्। वर्गे करण-सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_१९अ। सम-%द्वि-घातस् कृतिस् @उच्यते अथ स्थाप्यस् अन्त्य-वर्गस् %द्वि-गुण-अन्त्य-निघ्नस्।  
+    
+लिल्_१९च्। स्व-स्व-उपरिष्टात् च तथा अपरे अङ्कास् @त्यक्त्वा अन्त्यम् @उत्सार्य पुनर् च राशिम्॥[उपजाति]  
+    
+लिल्_२०अ। खण्ड-%द्वयस्य अभिहतिस् ५द्वि-निघ्नी तद्-खण्ड-वर्ग-ऐक्य-युता कृतिस् वा।  
+    
+लिल्_२०च्। इष्ट-ऊन-युज्-राशि-वधस् कृतिस् @स्यात् इष्टस्य वर्गेण समन्वितस् वा॥[इन्द्रवज्रा]  
+    
+लिल्_२०प्। अत्र उद्देशकस्।  
+    
+लिल्_२१अ। सखे %नवानाम् च %चतुर्दशानाम् @ब्रूहि %त्रि-हीनस्य %शत-%त्रयस्य।  
+    
+लिल्_२१च्। %पञ्च-उत्तरस्य अपि %अयुतस्य वर्गम् @जानासि चेद् वर्ग-विधान-मार्गम्॥[उपजाति]  
+    
+लिल्_२१प्। न्यासस् ९। १४। २९७। १०००५। एषाम् यथा-उक्त-करणेन जातास् वर्गास् ८१। १९६। ८८२०९। १००१०००२५॥ अथ वा %नवानाम् खण्डे ४। ५। अनयोस् आहतिस् २०। %द्वि-घ्नी ४०। तद्-खण्ड-वर्ग-ऐक्येन ४१ युता जाता सा एव कृतिस् ८१॥ अथ वा %चतुर्दशानाम् खण्डे ६। ८। अनयोस् आहतिस् ४८। %द्वि-घ्नी ९६। तद्-खण्ड-वर्गौ ३६। ६४। अनयोस् ऐक्येन १०० युता जाता सा एव कृतिस्  
+१९६॥ अथ वा खण्डे ४। १०। तथा अपि सा एव कृतिस् १९६॥ अथ वा राशिस् २९७। अयम् %त्रिभिस् ऊनस् पृथक् युतस् च २९४। ३००। अनयोस् घातस् ८८२०० %त्रि-वर्ग-९-युतस् जातस् वर्गस् सस् एव ८८२०९॥ एवम् सर्वत्र। इति वर्गस्॥ अथ वर्ग-मूलम्। वर्ग-मूले करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२२अ। @त्यक्त्वा अन्त्यात् विषमात् कृतिम् @%द्वि-गुणयेत् मूलम् समे तद्-हृते @त्यक्त्वा लब्ध-कृतिम् तद्-आद्य-विषमात् लब्धम् %द्वि-निघ्नम् @न्यसेत्।  
+    
+लिल्_२२च्। पङ्क्त्याम् पङ्क्ति-हृते समे अन्य-विषमात् @त्यक्त्वा आप्त-वर्गम् फलम् पङ्क्त्याम् तत् %द्वि-गुणम् @न्यसेत् इति मुहुस् पङ्क्तेस् #दलम् @स्यात् पदम्॥[शार्दूलविक्रीडित]  
+    
+लिल्_२२प्। अत्र उद्देशकस्।  
+    
+लिल्_२३अ। मूलम् %चतुर्णाम् च तथा %नवानाम् पूर्वम् कृतानाम् च सखे कृतीनाम्।  
+    
+लिल्_२३च्। पृथक् पृथक् वर्ग-पदानि @विद्धि बुद्धेस् विवृद्धिस् यदि ते अत्र जाता॥[उपजाति]  
+    
+लिल्_२३प्। न्यासस् ४। ९। ८१। १९६। ८८२०९। १००१०००२५। लब्धानि क्रमेण मूलानि २। ३। ९। १४। २९७। १०००५॥ इति वर्ग-मूलम्॥ अथ घनस्। घने करण-सूत्रम् वृत्त-%त्रयम्।  
+    
+लिल्_२४अ। सम-%त्रि-घातस् च घनस् प्रदिष्टस् स्थाप्यस् घनस् अन्त्यस्य ततस् अन्त्य-वर्गस्।  
+    
+लिल्_२४च्। आदि-%त्रि-निघ्नस् ततस् आदि-वर्गस् %त्रि-अन्त्य-आहतस् अथ आदि-घनस् च सर्वे॥[उपजाति]  
+    
+लिल्_२५अ। स्थान-अन्तरत्वेन युतास् घनस् @स्यात् @प्रकल्प्य तद्-खण्ड-#युगम् ततस् अन्त्यम्।  
+    
+लिल्_२५च्। एवम् मुहुस् वर्ग-घन-प्रसिद्धौ आद्य-अङ्कतस् वा विधिस् एषस् कार्यस्॥[उपजाति]  
+    
+लिल्_२६अ। खण्डाभ्याम् वा आहतस् राशिस् %त्रि-घ्नस् खण्ड-घन-ऐक्य-युक्।  
+    
+लिल्_२६च्। वर्ग-मूल-घनस् स्व-घ्नस् वर्ग-राशेस् घनस् @भवेत्॥[श्लोक]  
+    
+लिल्_२६प्। अत्र उद्देशकस्।  
+    
+लिल्_२७अ। नव-घनम् %त्रि-घनस्य घनम् तथा @कथय %पञ्च-घनस्य घनम् च मे।  
+    
+लिल्_२७च्। घन-पदम् च ततस् अपि घनात् सखे यदि घने @अस्ति घना भवतस् मतिस्॥[द्रुतविलम्बित]  
+    
+लिल्_२७प्। न्यासस् ९। २७। १२५। जातास् क्रमेण घनास् ७२९। १९६८३। १९५३१२५॥ अथ वा राशिस् ९। अस्य खण्डे ४। ५। आभ्याम् हतस् राशिस् १८०। %त्रि-घ्नस् ५४०। खण्ड-घन-ऐक्येन १८९ युतस् जातस् घनस् ७२९॥ अथ वा राशिस् २७। अस्य खण्डे २०। ७। आभ्याम् हतस् %त्रि-घ्नस् च ११३४०। खण्ड-घन-ऐक्येन ८३४३ युतस् जातस् घनस् १९६८३॥ अथ वा राशिस् ४। अस्य मूलम् २। अस्य  
+घनस् ८। अयम् स्व-घ्नस् जातस् %चरुर्णाम् घनस् ६४॥ अथ वा राशिस् ९। अस्य मूलम् ३। अस्य घनस् २७। अस्य वर्गस् जातस् %नवानाम् घनस् ७२९। यस् एव वर्ग-राशि-घनस् सस् एव वर्ग-मूल-घन-वर्गस्॥ इति घनस्॥ अथ घन-मूले करण-सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_२८अ। आद्यम् घन-स्थानम् अथ अघने %द्वे पुनर् तथा अन्त्यात् घनतस् @विशोध्य।  
+    
+लिल्_२८च्। घनम् पृथक्-स्थम् पदम् अस्य @कृत्वा %त्रि-घ्न्या तद्-आद्यम् @विभजेत् फलम् तु॥[उपजाति]  
+    
+लिल्_२९अ। पङ्क्त्याम् @न्यसेत् तद्-कृतिम् अन्त्य-निघ्नीम् %त्रि-घ्नीम् @त्यजेत् तद्-%प्रथमात् फलस्य।  
+    
+लिल्_२९च्। घनम् तद्-आद्यात् घन-मूलम् एवम् पङ्क्तिस् @भवेत् एवम् अतस् पुनर् च॥[उपजाति]  
+    
+लिल्_२९प्१। अत्र पूर्व-घनानाम् मूल-अर्थम् न्यासस् ७२९। १९६८३। १९५३१२५। क्रमेण लब्धानि मूलानि ९। २७। १२५॥ इति घन-मूलम्॥ इति परिकर्म-%अष्टकम्॥  
 
-[bhinna-parikarma-aṣṭaka]  
+[भिन्न-परिकर्म-अष्टक]
 
-Lil_29p2/ atha bhinna-parikarma-%aṣṭakam// atha aṃśa-savarṇanam/ tatra bhāga-jātau karaṇa-sūtram vṛttam/  
-  
-Lil_30a/ anyonya-hāra-abhihatau hara-aṃśau rāśyos sama-cheda-vidhānam evam/  
-  
-Lil_30c/ mithas harābhyām apavartitābhyām yat vā hara-aṃśau sudhiyā atra guṇyau//[upajāti]  
-  
-Lil_30p/ atra uddeśakas/  
-  
-Lil_31a/ rūpa-%trayam %pañca-lavas %tri-bhāgas yoga-artham etān @vada tulya-hārān/  
-  
-Lil_31c/ %triṣaṣṭi-bhāgas ca %caturdaśa-aṃśas sama-chidau mitra viyojana-artham// [upajāti]  
-  
-Lil_31p/ nyāsas/ 3_1/ 1_5/ 1_3/ jātās sama-chedās 45_15/ 3_15/ 5_15/ yoge jātam 53_15//  atha %dvitīya-udāharaṇe nyāsas 1_63/ 1_14/ %sapta-apavartitābhyām hārābhyām 9/ 2 saṃguṇitau vā jātau sama-chedau 2_126/ 9_126/ viyoge jātam 7_126/ %sapta-apavartite ca jātam 1_18//  iti bhāga-jātis//  atha prabhāga-jātau karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_32/ lavās lava-ghnās ca harās hara-ghnās bhāga-prabhāgeṣu savarṇanam @syāt/ [upajāti-ab; cd=34a]  
-  
-Lil_32p/ atra uddeśakas/  
-  
-Lil_33a/ dramma-%ardha-%tri-lava-%dvayasya sumate #pāda-%trayam yat @bhavet tat %pañca-aṃśaka-%ṣoḍaśa-aṃśa-#caraṇas saṃprārthitena arthine/  
-  
-Lil_33c/ dattas yena varāṭakās kati kadaryeṇa arpitās tena me @brūhi tvam yadi @vetsi vatsa gaṇite jātim prabhāga-abhidhām// [śārdūlavikrīḍita]  
-  
-Lil_33p/ nyāsas/ 1_1/ 1_2/ 2_3/ 3_4/ 1_5/ 1_16/ 1_4/ savarṇite jātam 6_7680/ %ṣaḍbhis apavartite jātam/ 1_1280/ evam dattas varāṭakas//  iti prabhāga-jātis//  atha bhāga-anubandha-bhāga-apavāhayos karaṇa-sūtram sa-%ardham vṛttam/  
-  
-Lil_34a/ cheda-ghna-rūpeṣu lavās dhana-ṛṇam %ekasya bhāgās adhika-ūnakās ced// [upajāti-cd; ab=32]  
-  
-Lil_34c/ sva-aṃśa-adhika-ūnas khalu yatra tatra bhāga-anubandhe ca lava-apavāhe/  
-  
-Lil_34e/ tala-stha-hāreṇa haram @nihanyāt sva-aṃśa-adhika-ūnena tu tena bhāgān// [upajāti]  
-  
-Lil_34p/ atra uddeśakas/  
-  
-Lil_35a/ sa-#aṅghri %dvayam %trayam vi-#aṅghri kīdṛś @brūhi savarṇitam/  
-  
-Lil_35c/ @jānāsi aṃśa-anubandham ced tathā bhāga-apavāhanam//  
-  
-Lil_35p/ nyāsas 2_1_4/ 3_-1_4/ savarṇite jātam 9_4/ 11_4//  atra uddeśakas/  
-  
-Lil_36a/ #aṅghris sva-%tri-aṃśa-yuktas sas nija-#dala-yutas kīdṛśas kīdṛśau %dvau %tri-aṃśau sva-%aṣṭa-aṃśa-hīnau tad-anu ca rahitau tau %tribhis %sapta-bhāgais/  
-  
-Lil_36c/ %ardham sva-%aṣṭa-aṃśa-hīnam %navabhis atha yutam %saptama-aṃśais svakīyais kīdṛś @syāt @brūhi @vetsi tvam iha yadi sakhe aṃśa-anubandha-apavāhau// [sragdharā]  
-  
-Lil_36p/ nyāsas/ {btabular} 1_4 & 2_3 & 1_2 \\ 1_3 & -1_8 & -1_8 \\ 1_2 & -3_7 & 9_7 {etabular} savarṇite jātam/ 1_2/ 1_3/ 1_1//  iti jāti-%catuṣṭayam//  atha bhinna-saṃkalita-vyavakalitayos karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_37/ yogas antaram tulya-hara-aṃśakānām kalpyas haras #rūpam ahāra-rāśes// [indravajrā-ab; cd=39]  
-  
-Lil_37p/ atra uddeśakas/  
-  
-Lil_38a/ %pañca-aṃa-#pāda-%tri-lava-%ardha-%ṣaṣṭhān %ekī-kṛtān @brūhi sakhe mama etān/  
-  
-Lil_38c/ ebhis ca bhāgais atha varjitānām kim @syāt %trayāṇām @kathaya āśu śeṣam// [indravajrā]  
-  
-Lil_38p/ nyāsas 1_5/ 1_4/ 1_3/ 1_2/ 1_6/ aikye jātam 29_20//  atha etais varjitānām %trayāṇām śeṣam 31_20//  iti bhinna-saṃkalita-vyavakalite//  atha bhinna-guṇane karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_39/ aṃśa-āhatis cheda-vadhena bhaktā labdham vibhinne guṇane phalam @syāt//[indravajrā-cd; ab=37]  
-  
-Lil_39p/ atra uddeśakas/  
-  
-Lil_40a/ sa-%tri-aṃśa-rūpa-%dvitayena nighnam sa-%saptama-aṃśa-%dvitayam @bhavet kim/  
-  
-Lil_40c/ %ardham %tri-bhāgena hatam ca @viddhi dakṣas @asi bhinne guṇanā-vidhau ced// [upajāti]  
-  
-Lil_40p/ nyāsas 2_1_3/ 2_1_7/ savarṇite jātam 7_3/ 15_7/ guṇite ca jātam 5_1//  nyāsas 1_2/ 1_3/ guṇite jātam 1_6//  iti bhinna-guṇanam//  atha bhinna-bhāga-hāre karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_41/ chedam lavam ca @parivartya harasya śeṣas kāryas atha bhāga-haraṇe guṇanā-vidhis ca// [vasantatilakā-ab; cd=43]  
-  
-Lil_41p/ atra uddeśakas/  
-  
-Lil_42a/ sa-%tri-aṃśa-rūpa-%dvitayena %pañca %tri-aṃśena %ṣaṣṭham @vada me @vibhajya/  
-  
-Lil_42c/ darbhīya-garbha-agra-su-tīkṣṇa-buddhis ced @asti te bhinna-hṛtau samarthā// [indravajrā]  
-  
-Lil_42p/ nyāsas 2_1_3/ 5_1/ 1_3/ 1_6/ yathā-ukta-karaṇena jātam 15_7/ 1_2//  iti bhinna-bhāga-hāras//  atha bhinna-varga-ādau karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_43/ varge kṛtī ghana-vidhau tu ghanau vidheyau hāra-aṃśayos atha pade ca pada-prasiddhyai// [vasantatilakā-cd; ab=41]  
-  
-Lil_43p/ atra uddeśakas/  
-  
-Lil_44a/ sa-%ardha-%trayāṇām @kathaya āśu vargam vargāt tatas varga-padam ca mitra/  
-  
-Lil_44c/ ghanam ca mūlam ca ghanāt tatas api @jānāsi ced varga-ghanau vibhinnau// [upajāti]  
-  
-Lil_44p1/ nyāsas 3_1_2/ cheda-ghna-rūpe kṛte jātam 7_2/ asya vargas 49_4/ atas mūlam 7_2/ ghanas 343_8/ asya mūlam 7_2//  iti bhinna-parikarma-%aṣṭakam//    
+लिल्_२९प्२। अथ भिन्न-परिकर्म-%अष्टकम्॥ अथ अंश-सवर्णनम्। तत्र भाग-जातौ करण-सूत्रम् वृत्तम्।  
+    
+लिल्_३०अ। अन्योन्य-हार-अभिहतौ हर-अंशौ राश्योस् सम-छेद-विधानम् एवम्।  
+    
+लिल्_३०च्। मिथस् हराभ्याम् अपवर्तिताभ्याम् यत् वा हर-अंशौ सुधिया अत्र गुण्यौ॥[उपजाति]  
+    
+लिल्_३०प्। अत्र उद्देशकस्।  
+    
+लिल्_३१अ। रूप-%त्रयम् %पञ्च-लवस् %त्रि-भागस् योग-अर्थम् एतान् @वद तुल्य-हारान्।  
+    
+लिल्_३१च्। %त्रिषष्टि-भागस् च %चतुर्दश-अंशस् सम-छिदौ मित्र वियोजन-अर्थम्॥ [उपजाति]  
+    
+लिल्_३१प्। न्यासस्। ३_१। १_५। १_३। जातास् सम-छेदास् ४५_१५। ३_१५। ५_१५। योगे जातम् ५३_१५॥ अथ %द्वितीय-उदाहरणे न्यासस् १_६३। १_१४। %सप्त-अपवर्तिताभ्याम् हाराभ्याम् ९। २ सङ्गुणितौ वा जातौ सम-छेदौ २_१२६। ९_१२६। वियोगे जातम् ७_१२६। %सप्त-अपवर्तिते च जातम् १_१८॥ इति भाग-जातिस्॥ अथ प्रभाग-जातौ करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_३२। लवास् लव-घ्नास् च हरास् हर-घ्नास् भाग-प्रभागेषु सवर्णनम् @स्यात्। [उपजाति-अब्; च्द्=३४अ]  
+    
+लिल्_३२प्। अत्र उद्देशकस्।  
+    
+लिल्_३३अ। द्रम्म-%अर्ध-%त्रि-लव-%द्वयस्य सुमते #पाद-%त्रयम् यत् @भवेत् तत् %पञ्च-अंशक-%षोडश-अंश-#चरणस् सम्प्रार्थितेन अर्थिने।  
+    
+लिल्_३३च्। दत्तस् येन वराटकास् कति कदर्येण अर्पितास् तेन मे @ब्रूहि त्वम् यदि @वेत्सि वत्स गणिते जातिम् प्रभाग-अभिधाम्॥ [शार्दूलविक्रीडित]  
+    
+लिल्_३३प्। न्यासस्। १_१। १_२। २_३। ३_४। १_५। १_१६। १_४। सवर्णिते जातम् ६_७६८०। %षड्भिस् अपवर्तिते जातम्। १_१२८०। एवम् दत्तस् वराटकस्॥ इति प्रभाग-जातिस्॥ अथ भाग-अनुबन्ध-भाग-अपवाहयोस् करण-सूत्रम् स-%अर्धम् वृत्तम्।  
+    
+लिल्_३४अ। छेद-घ्न-रूपेषु लवास् धन-ऋणम् %एकस्य भागास् अधिक-ऊनकास् चेद्॥ [उपजाति-च्द्; अब्=३२]  
+    
+लिल्_३४च्। स्व-अंश-अधिक-ऊनस् खलु यत्र तत्र भाग-अनुबन्धे च लव-अपवाहे।  
+    
+लिल्_३४ए। तल-स्थ-हारेण हरम् @निहन्यात् स्व-अंश-अधिक-ऊनेन तु तेन भागान्॥ [उपजाति]  
+    
+लिल्_३४प्। अत्र उद्देशकस्।  
+    
+लिल्_३५अ। स-#अङ्घ्रि %द्वयम् %त्रयम् वि-#अङ्घ्रि कीदृश् @ब्रूहि सवर्णितम्।  
+    
+लिल्_३५च्। @जानासि अंश-अनुबन्धम् चेद् तथा भाग-अपवाहनम्॥  
+    
+लिल्_३५प्। न्यासस् २_१_४। ३_-१_४। सवर्णिते जातम् ९_४। ११_४॥ अत्र उद्देशकस्।  
+    
+लिल्_३६अ। #अङ्घ्रिस् स्व-%त्रि-अंश-युक्तस् सस् निज-#दल-युतस् कीदृशस् कीदृशौ %द्वौ %त्रि-अंशौ स्व-%अष्ट-अंश-हीनौ तद्-अनु च रहितौ तौ %त्रिभिस् %सप्त-भागैस्।  
+    
+लिल्_३६च्। %अर्धम् स्व-%अष्ट-अंश-हीनम् %नवभिस् अथ युतम् %सप्तम-अंशैस् स्वकीयैस् कीदृश् @स्यात् @ब्रूहि @वेत्सि त्वम् इह यदि सखे अंश-अनुबन्ध-अपवाहौ॥ [स्रग्धरा]  
+    
+लिल्_३६प्। न्यासस्। {ब्तबुलर्} १_४ & २_३ & १_२ \\ १_३ & -१_८ & -१_८ \\ १_२ & -३_७ & ९_७ {एतबुलर्} सवर्णिते जातम्। १_२। १_३। १_१॥ इति जाति-%चतुष्टयम्॥ अथ भिन्न-सङ्कलित-व्यवकलितयोस् करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_३७। योगस् अन्तरम् तुल्य-हर-अंशकानाम् कल्प्यस् हरस् #रूपम् अहार-राशेस्॥ [इन्द्रवज्रा-अब्; च्द्=३९]  
+    
+लिल्_३७प्। अत्र उद्देशकस्।  
+    
+लिल्_३८अ। %पञ्च-अंअ-#पाद-%त्रि-लव-%अर्ध-%षष्ठान् %एकी-कृतान् @ब्रूहि सखे मम एतान्।  
+    
+लिल्_३८च्। एभिस् च भागैस् अथ वर्जितानाम् किम् @स्यात् %त्रयाणाम् @कथय आशु शेषम्॥ [इन्द्रवज्रा]  
+    
+लिल्_३८प्। न्यासस् १_५। १_४। १_३। १_२। १_६। ऐक्ये जातम् २९_२०॥ अथ एतैस् वर्जितानाम् %त्रयाणाम् शेषम् ३१_२०॥ इति भिन्न-सङ्कलित-व्यवकलिते॥ अथ भिन्न-गुणने करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_३९। अंश-आहतिस् छेद-वधेन भक्ता लब्धम् विभिन्ने गुणने फलम् @स्यात्॥[इन्द्रवज्रा-च्द्; अब्=३७]  
+    
+लिल्_३९प्। अत्र उद्देशकस्।  
+    
+लिल्_४०अ। स-%त्रि-अंश-रूप-%द्वितयेन निघ्नम् स-%सप्तम-अंश-%द्वितयम् @भवेत् किम्।  
+    
+लिल्_४०च्। %अर्धम् %त्रि-भागेन हतम् च @विद्धि दक्षस् @असि भिन्ने गुणना-विधौ चेद्॥ [उपजाति]  
+    
+लिल्_४०प्। न्यासस् २_१_३। २_१_७। सवर्णिते जातम् ७_३। १५_७। गुणिते च जातम् ५_१॥ न्यासस् १_२। १_३। गुणिते जातम् १_६॥ इति भिन्न-गुणनम्॥ अथ भिन्न-भाग-हारे करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_४१। छेदम् लवम् च @परिवर्त्य हरस्य शेषस् कार्यस् अथ भाग-हरणे गुणना-विधिस् च॥ [वसन्ततिलका-अब्; च्द्=४३]  
+    
+लिल्_४१प्। अत्र उद्देशकस्।  
+    
+लिल्_४२अ। स-%त्रि-अंश-रूप-%द्वितयेन %पञ्च %त्रि-अंशेन %षष्ठम् @वद मे @विभज्य।  
+    
+लिल्_४२च्। दर्भीय-गर्भ-अग्र-सु-तीक्ष्ण-बुद्धिस् चेद् @अस्ति ते भिन्न-हृतौ समर्था॥ [इन्द्रवज्रा]  
+    
+लिल्_४२प्। न्यासस् २_१_३। ५_१। १_३। १_६। यथा-उक्त-करणेन जातम् १५_७। १_२॥ इति भिन्न-भाग-हारस्॥ अथ भिन्न-वर्ग-आदौ करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_४३। वर्गे कृती घन-विधौ तु घनौ विधेयौ हार-अंशयोस् अथ पदे च पद-प्रसिद्ध्यै॥ [वसन्ततिलका-च्द्; अब्=४१]  
+    
+लिल्_४३प्। अत्र उद्देशकस्।  
+    
+लिल्_४४अ। स-%अर्ध-%त्रयाणाम् @कथय आशु वर्गम् वर्गात् ततस् वर्ग-पदम् च मित्र।  
+    
+लिल्_४४च्। घनम् च मूलम् च घनात् ततस् अपि @जानासि चेद् वर्ग-घनौ विभिन्नौ॥ [उपजाति]  
+    
+लिल्_४४प्१। न्यासस् ३_१_२। छेद-घ्न-रूपे कृते जातम् ७_२। अस्य वर्गस् ४९_४। अतस् मूलम् ७_२। घनस् ३४३_८। अस्य मूलम् ७_२॥ इति भिन्न-परिकर्म-%अष्टकम्॥  
 
-[śūnya-parikarma-aṣṭaka]  
+[शून्य-परिकर्म-अष्टक]
 
-Lil_44p2/ atha #śūnya-parikarmasu karaṇa-sūtram āryā-%dvayam/  
-  
-Lil_45a/ yoge #kham kṣepa-samam varga-ādau #kham #kha-bhājitas rāśis/  
-  
-Lil_45c/ #kha-haras @syāt #kha-guṇas #kham #kha-guṇas cintyas ca śeṣa-vidhau// [āryā]  
-  
-Lil_46a/ #śūnye guṇake jāte #kham hāras ced punar tadā rāśis/  
-  
-Lil_46c/ avikṛtas eva jñeyas tathā eva #khena ūnitas ca yutas// [āryā]  
-  
-Lil_46p/ atra uddeśakas/  
-  
-Lil_47a/ #kham %pañca-yuk @bhavati kim @vada khasya vargam mūlam ghanam ghana-padam #kha-guṇās ca %pañca/  
-  
-Lil_47c/ #khena uddhṛtās %daśa ca kas %kha-guṇas nija-%ardha-yuktas %tribhis ca guṇitas sva-hatas %triṣaṣṭis// [vasantatilakā]  
-  
-Lil_47p1/ nyāsas 0/ etat %pañca-yutam jātam 5/ #khasya vargas 0/ mūlam 0/ ghanam 0/ ghana-mūlam 0//  nyāsas 5/ ete #khena guṇitās jātās 0//  nyāsas 10/ ete #kha-bhaktās 10_0//  ajñātas rāśis tasya guṇas 0/ sva-%ardham kṣepas 1_2/ guṇas 3/ haras 0/ dṛśyam 63/ tatas vakṣyamāṇena viloma-vidhinā iṣṭa-karmaṇā vā labdhas rāśis 14//  asya gaṇitasya graha-gaṇite  
-mahān upayogas//  iti śūnya-parikarma-%aṣṭakam//    
+लिल्_४४प्२। अथ #शून्य-परिकर्मसु करण-सूत्रम् आर्या-%द्वयम्।  
+    
+लिल्_४५अ। योगे #खम् क्षेप-समम् वर्ग-आदौ #खम् #ख-भाजितस् राशिस्।  
+    
+लिल्_४५च्। #ख-हरस् @स्यात् #ख-गुणस् #खम् #ख-गुणस् चिन्त्यस् च शेष-विधौ॥ [आर्या]  
+    
+लिल्_४६अ। #शून्ये गुणके जाते #खम् हारस् चेद् पुनर् तदा राशिस्।  
+    
+लिल्_४६च्। अविकृतस् एव ज्ञेयस् तथा एव #खेन ऊनितस् च युतस्॥ [आर्या]  
+    
+लिल्_४६प्। अत्र उद्देशकस्।  
+    
+लिल्_४७अ। #खम् %पञ्च-युक् @भवति किम् @वद खस्य वर्गम् मूलम् घनम् घन-पदम् #ख-गुणास् च %पञ्च।  
+    
+लिल्_४७च्। #खेन उद्धृतास् %दश च कस् %ख-गुणस् निज-%अर्ध-युक्तस् %त्रिभिस् च गुणितस् स्व-हतस् %त्रिषष्टिस्॥ [वसन्ततिलका]  
+    
+लिल्_४७प्१। न्यासस् ०। एतत् %पञ्च-युतम् जातम् ५। #खस्य वर्गस् ०। मूलम् ०। घनम् ०। घन-मूलम् ०॥ न्यासस् ५। एते #खेन गुणितास् जातास् ०॥ न्यासस् १०। एते #ख-भक्तास् १०_०॥ अज्ञातस् राशिस् तस्य गुणस् ०। स्व-%अर्धम् क्षेपस् १_२। गुणस् ३। हरस् ०। दृश्यम् ६३। ततस् वक्ष्यमाणेन विलोम-विधिना इष्ट-कर्मणा वा लब्धस् राशिस् १४॥ अस्य गणितस्य ग्रह-गणिते  
+महान् उपयोगस्॥ इति शून्य-परिकर्म-%अष्टकम्॥  
 
-[prakīrṇaka]  
+[प्रकीर्णक]
 
-Lil_47p2/atha vyasta-vidhau karaṇa-sūtram vṛtta-%dvayam/  
-  
-Lil_48a/ chedam guṇam guṇam chedam vargam mūlam padam kṛtim/  
-  
-Lil_48c/ ṛṇam svam svam ṛṇam @kuryāt dṛśye rāśi-prasiddhaye// [śloka]  
-  
-Lil_49a/ atha sva-aṃśa-adhika-ūne tu lava-āḍhya-ūnas haras haras/  
-  
-Lil_49c/ aṃśas tu avikṛtas tatra vilome śeṣam ukta-vat// [śloka]  
-  
-Lil_49p/ atra uddeśakas/  
-  
-Lil_50a/ yas %tri-ghnas %tribhis anvitas sva-#caraṇais bhaktas tatas %saptabhis sva-%tri-aṃśena vivarjitas sva-guṇitas hīnas %dvipañcāśatā/  
-  
-Lil_50c/ tad-mūle %aṣṭa-yute hṛte ca %daśabhis jātam %dvayam @brūhi tam rāśim @vetsi hi cañcala-akṣi vimalām bāle viloma-kriyām// [śārdūlavikrīḍita]  
-  
-Lil_50p/ nyāsas guṇas 3/ kṣepas 3_4/ bhājakas 7/ ṛṇam 1_3/ vargas/ ṛṇam 52/ mūlam/ kṣepas 8/ haras 10/ dṛśyam 2/ yathā-ukta-karaṇena jātas rāśis 28//  iti vyasta-vidhis//  atha iṣṭa-karmasu dṛśya-jāti-śeṣa-jāti-viśleṣa-jāti-ādau karaṇa-sūtram vṛttam/  
-  
-Lil_51a/ uddeśaka-ālāpa-vat iṣṭa-rāśis kṣuṇṇas hṛtas aṃśais rahitas yutas vā/  
-Lil_51c/ iṣṭa-āhatam dṛṣṭam anena bhaktam rāśis @bhavet proktam iti iṣṭa-karma// [indravajrā]  
-  
-Lil_51p/ udāharaṇam/  
-  
-Lil_52a/ %pañca-ghnas sva-%tri-bhāga-ūnas %daśa-bhaktas samanvitas/  
-  
-Lil_52c/ rāśi-%tri-aṃśa-%ardha-pādais @syāt kas rāśis %dvi-ūna-%saptatis// [śloka]  
-  
-Lil_52p/ nyāsas/ guṇas 5/ sva-aṃśa-ṛṇam -1_3/ [āpaṭe: 0_1_3] ūnas 1_3/ bhāga-hāras 10/ rāśi-aṃśakās kṣepās 1_3/ 1_2/ 1_4/ dṛśyam 68/ atra kila iṣṭa-rāśis 3/ %pañca-ghnas 15/ sva-%tri-bhāga-ūnas 10/ %daśa-bhaktas 1/ atra kalpita-rāśes 3 %tri-aṃśa-%ardha-#pādais 3_3/ 3_2/ 3_4/ etais samanvitas jātas 17_4/ anena dṛṣṭam 68/ iṣṭa-āhatam bhaktam jātas rāśis 48//   
-evam yatra udāharaṇe rāśis kena-cit guṇitas bhaktas vā rāśi-aṃśena rahitas yutas vā dṛṣṭas tatra iṣṭam rāśim @prakalpya tasmin uddeśaka-ālāpa-vat karmaṇi kṛte yat @niṣpadyate tena @bhajet dṛṣṭam iṣṭa-guṇam phalam rāśis @syāt//  atha dṛśya-jāti-udāharaṇam/  
-  
-Lil_53a/ amala-kamala-rāśes %tri-aṃśa-%pañca-aṃśa-%ṣaṣṭhais %tri-nayana-hari-sūryās yena %turyeṇa ca āryā/  
-  
-Lil_53c/ guru-padam atha %ṣaḍbhis pūjitam śeṣa-padmais sakala-kamala-saṃkhyām kṣipram @ākhyāhi tasya// [mālinī]  
-  
-Lil_53p/ nyāsas 1_3/ 1_5/ 1_6/ 1_4/ dṛśyam 6/ atra iṣṭam #rūpam 1 rāśim @prakalpya prāk-vat jātas rāśis 120//  atha śeṣa-jāti-udāharaṇam/  
-  
-Lil_54a/ sva-%ardham @prādāt prayāge %nava-lava-#yugalam yas avaśeṣāt ca kāśyām śeṣa-#aṅghrim śulka-hetos pathi %daśama-lavān %ṣaṭ ca śeṣāt gayāyām/  
-  
-Lil_54c/ śiṣṭās niṣka-%triṣaṣṭis nija-gṛham anayā tīrtha-pānthas prayātas tasya dravya-pramāṇam @vada yadi bhavatā śeṣa-jātis śrutā @asti// [sragdharā]  
-  
-Lil_54p/ nyāsas 1_1/ 1_2/ 2_9/ 1_4/ 6_10/ dṛśyam 63/ atra #rūpam 1 rāśim @prakalpya bhāgān śeṣān śeṣāt @apāsya atha vā bhāga-apavāha-vidhinā savarṇite jātam 7_60/ anena dṛṣṭe 63 iṣṭa-guṇite bhakte jātam dravya-pramāṇam 540//  idam viloma-sūtreṇa api @sidhyati//  atha viśleṣa-jāti-udāharaṇam/  
-  
-Lil_55a/ %pañca-aṃśas ali-kulāt kadambam @agamat %tri-aṃśas śilīndhram tayos viśleṣas %tri-guṇas mṛga-akṣi kuṭajam dolāyamānas aparas/  
-  
-Lil_55c/ kānte ketaka-mālatī-parimala-prāpta-%eka-kāla-priyā-dūta-āhūtas itas tatas @bhramati khe bhṛṅgas ali-saṃkhyām @vada// [śārdūlavikrīḍita]  
-  
-Lil_55p/ nyāsas 1_5/ 1_3/ 2_5/ dṛśyam 1/ jātam ali-kula-mānam 15// evam anyatra api//  iti iṣṭa-karma//  atha saṃkramaṇe karaṇa-sūtram vṛtta-ardham/  
-  
-Lil_56/ yogas antareṇa ūna-yutas ardhitas tau rāśī smṛtau saṃkramaṇa-ākhyam etat// [indravajrā-ab; cd=58]  
-  
-Lil_56p/ atra uddeśakas/  
-  
-Lil_57a/ yayos yogas %śatam sa-%ekam viyogas %pañcaviṃśatis/  
-  
-Lil_57c/ tau rāśī @vada me vatsa @vetsi saṃkramaṇam yadi// [śloka]  
-  
-Lil_57p/ nyāsas/ yogas 101/ antaram 25/ jātau rāśī 38/ 63//  varga-saṃkramaṇe karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_58/ varga-antaram rāśi-viyoga-bhaktam yogas tatas prokta-vat eva rāśī// [indravajrā-cd; ab=56]  
-  
-Lil_58p/ uddeśakas/  
-  
-Lil_59a/ rāśyos yayos viyogas %aṣṭau tad-kṛtyos ca %catuḥśatī/  
-  
-Lil_59c/ vivaram @brūhi tau rāśī śīghram gaṇita-kovida// [śloka]  
-  
-Lil_59p/ nyāsas/ rāśi-antaram 8/ kṛti-antaram 400/ jātau rāśī 21/ 29//  iti viṣama-karma//  atha kiṃcit varga-karma @procyate/  
-  
-Lil_60a/ iṣṭa-kṛtis %aṣṭa-guṇitā vi-%ekā dalitā vibhājitā iṣṭena/  
-  
-Lil_60c/ %ekas @syāt asya kṛtis dalitā sa-%ekā aparas rāśis//  
-  
-Lil_61a/ #rūpam %dvi-guṇa-iṣṭa-hṛtam sa-iṣṭam %prathamas atha vā aparas #rūpam/  
-  
-Lil_61c/ kṛti-yuti-viyutī vi-%eke vargau @syātām yayos rāśyos//  
-  
-Lil_61p/ uddeśakas/  
-  
-Lil_62a/ rāśyos yayos kṛti-viyoga-yutī nis-%eke mūla-prade @pravada tau mama mitra yatra/  
-  
-Lil_62c/ @kliśyanti bīja-gaṇite paṭavas api mūḍhās %ṣoḍhā-ukta-bīja-gaṇitam paribhāvayantas//  
-  
-Lil_62p/ atra %prathama-ānayane kalpitam iṣṭam 1_2/ asya kṛtis 1_4/ %aṣṭa-guṇitā 2/ iyam vi-%ekā 1/ dalitā 1_2/ iṣṭena 1_2 hṛtas jātas %prathamas rāśis 1//  asya kṛtis 1/ dalitā 1_2/ sa-%ekā 3_2/ ayam aparas rāśis/ evam etau rāśī 1_1/ 3_2//  evam %ekena iṣṭena jātau rāśī 7_2/ 57_8//  %dvikena 31_4/ 993_32//  atha %dvitīya-prakāreṇa iṣṭam 1/ anena %dvi-guṇena  
-2 %rūpam 1 bhaktam 1_2/ iṣṭena sahitam jātas %prathamas rāśis 3_2/ %dvitīyas #rūpam 1/ evam rāśī 3_2/ 1_1//  evam %dvikena iṣṭena 9_4/ 1_1//  %trikeṇa 19_6/ 1_1// %tri-aṃśena 11_6/ 1-1//  atha vā sūtram/  
-  
-Lil_63a/ iṣṭasya varga-vargas ghanas ca tau %aṣṭa-saṃguṇau %prathamas/  
-  
-Lil_63c/ sa-%ekas rāśī @syātām  evam vyakte atha vā avyakte//  
-  
-Lil_63p/ iṣṭam 1_2/ asya varga-vargas 1_16/ %aṣṭa-ghnas 1_2/ sa-%ekas jātas %prathamas rāśis 3-2/ punar iṣṭam 1_2/ asya ghanas 1_8/ %aṣṭa-guṇas jātas %dvitīyas rāśis 1_1/ evam jātau rāśī 3_2/ 1_1//  atha %ekena iṣṭena 9/ 8//  %dvikena 129/ 64//  %trikeṇa 649/ 216//  evam sarveṣu api prakāreṣu iṣṭa-vaśāt ānantyam//  
-  
-Lil_64a/ pāṭī-sūtra-upamam bījam gūḍham iti @avabhāsate/  
-  
-Lil_64c/ na @asti gūḍham amūḍhānām na eva %ṣoḍhā iti anekadhā//  
-  
-Lil_64e/ @asti trairāśikam pāṭī bījam ca vimalā matis/  
-  
-Lil_64g/ kim ajñātam su-buddhīnām atas manda-artham @ucyate//  
-  
-Lil_64p/ iti varga-karma//  atha mūla-guṇake karṇa-sūtram vṛtta-%dvayam/  
-  
-Lil_65a/ guṇa-ghna-mūla-ūna-yutasya rāśes dṛṣṭasya yuktasya guṇa-%ardha-kṛtyā/  
-  
-Lil_65c/ mūlam guṇa-%ardhena yutam vihīnam vargī-kṛtam praṣṭur abhīṣṭa-rāśis//  
-  
-Lil_66a/ yadā lavais ca ūna-yutas sas rāśis %ekena bhāga-ūna-yutena @bhaktvā/  
-  
-Lil_66c/ dṛśyam tathā mūla-guṇam ca tābhyām sādhyas tatas prokta-vat eva rāśis//  
-  
-Lil_66p/ yas rāśis sva-mūlena kena cit guṇitena ūnas dṛṣṭas tasya mūla-guṇa-%ardha-kṛtyā yuktasya yat padam tat guṇa-%ardhena yuktam kāryam/ yadi guṇa-ghna-mūla-yutas dṛṣṭas tarhi hīnam kāryam/ tasya vargas rāśis @syāt//  mūla-ūne dṛṣṭe tāvat udāharaṇam/  
-  
-Lil_67a/ bāle marāla-kula-mūla-dalāni %sapta tīre vilāsa-bhara-manthara-gāṇi @apaśyam/  
-  
-Lil_67c/ kurvat ca keli-kalaham kalahaṃsa-#yugmam śeṣam jale @vada marāla-kula-pramāṇam//  
-  
-Lil_67p/ nyāsas/ mūla-guṇakas 7_2/ dṛśyam 2/ dṛṣṭasya asya 2 guṇa-%ardha-kṛtyā 49_16 yuktasya 81_16 mūlam 9_4/ guṇa-%ardhena 7_4 yutam 4/ vargī-kṛtam jātam haṃsa-kula-mānam 16//  atha mūla-yute dṛṣṭe tāvat udāharaṇam/  
-  
-Lil_68a/ sva-padais %navabhis yuktas @syāt %catvāriṃśatā adhikam/  
-  
-Lil_68c/ %śata-%dvādaśakam vidvan kas sas rāśis @nigadyatām//  
-  
-Lil_68p/ nyāsas/ mūla-guṇakas 9/ dṛśyam 1240/ ukta-prakāreṇa jātas rāśis 961//  udāharaṇam/  
-  
-Lil_69a/ yātam haṃsa-kulasya mūla-%daśakam megha-āgame mānasam @proḍḍīya sthala-padminī-vanam @agāt %aṣṭa-aṃśakas ambhas-taṭāt/  
-  
-Lil_69c/ bāle bāla-mṛṇāla-śālini jale keli-kriyā-lālasam dṛṣṭam haṃsa-#yuga-%trayam ca sakalām yūthasya saṃkhyām @vada//  
-  
-Lil_69p/ nyāsas/ mūla-guṇakas 10/ bhāgas 1_8/ dṛśyam 6/ yadā lavais ca ūna-yutas iti atra %ekena 1 bhāga-ūnena 7_8 dṛśya-mūla-guṇau @bhaktvā jātam dṛśyam 48_7/ mūla-guṇakas 80_7/ ābhyām abhīṣṭam guṇa-ghna-mūla-ūna-yutasya iti-ādi-vidhinā jātam haṃsa-kula-mānam 144//  udāharaṇam/  
-  
-Lil_70a/ pārthas karṇa-vadhāya mārgaṇa-gaṇam kruddhas raṇe @saṃdadhe tasya ardhena @nivārya tad-śara-gaṇam mūlais %caturbhis hayān/  
-  
-Lil_70c/ śalyam %ṣaḍbhis atha iṣubhis %tribhis api chatram dhvajam kārmukam @ciccheda asya śiras śareṇa kati te yān arjunas @saṃdadhe//  
-  
-Lil_70p/ nyāsas/ mūla-guṇakas 4/ bhāgas 1_2/ dṛśyam 10/ yadā lavais ca ūna-yutas iti-ādinā jātam bāṇa-mānam 100//  api ca/  
-  
-Lil_71a/ ali-kula-#dala-mūlam mālatīm yātam %aṣṭau nikhila-%navama-bhāgās cālinī bhṛṅgam %ekam/  
-  
-Lil_71c/ niśi parimala-lubdham padma-madhye niruddham @pratiraṇati raṇantam @brūhi kānte ali-saṃkhyām//  
-  
-Lil_71p/ atra kila rāśi-%nava-aṃśa-%aṣṭakam rāśi-ardha-mūlam ca rāśes ṛṇam rūpa-%dvayam dṛśyam/ etat ṛṇam dṛśyam ca ardhitam rāśi-%ardhasya @bhavati iti//  tathā nyāsas/ mūla-guṇakas -1_2/ bhāgas -8_9/ atra prāk-vat labdham rāśi-dalam 36/ etat dvi-guṇitam ali-kula-mānam 72//  bhāga-mūla-yute dṛṣṭe udāharaṇam/  
-  
-Lil_72a/ yas rāśis %aṣṭādaśabhis sva-mūlais rāśi-%tri-bhāgena samanvitas ca/  
-  
-Lil_72c/ jātam %śata-%dvādaśakam tam āśu @jānīhi pāṭyām paṭutā @asti te ced//  
-  
-Lil_72p/ nyāsas/ mūla-guṇakas 18/ bhāgas 1_3/ dṛśyam 1200/ atra %ekena bhāga-yutena 4_3 mūla-guṇam dṛśyam ca @bhaktvā prāk-vat jātas rāśis 576//  iti guṇa-karma//  atha trairāśike karaṇa-sūtram vṛttam/  
-  
-Lil_73a/ pramāṇam icchā ca samāna-jātī ādi-antayos tad-phalam anya-jāti/  
-  
-Lil_73c/ madhye tat icchā-hatam ādya-hṛt @syāt icchā-phalam vyasta-vidhis vilome//  
-  
-Lil_73p/ udāharaṇam/  
-  
-Lil_74a/ kuṅkumasya sa-#dalam pala-%dvayam niṣka-%saptama-lavais %tribhis yadi/  
-  
-Lil_74c/ @prāpyate sapadi me vaṇij-vara @brūhi niṣka-%navakena tat kiyat//  
-  
-Lil_74p/ nyāsas 3_7/ 5_2/ 9_1/ labdhāni kuṅkuma-palāni 52/ karṣau 2//  api ca/  
-  
-Lil_75a/ prakṛṣṭa-karpūra-pala-%triṣaṣṭyā ced @labhyate niṣka-%catuṣka-yuktam/  
-  
-Lil_75c/ %śatam tadā %dvādaśabhis sa-#pādais palais kim @ācakṣva sakhe @vicintya//  
-  
-Lil_75p/ nyāsas 63/ 104/ 49_4/ labdhās niṣkās 20/ drammās 3/ paṇās 8/ kākiṇyas 3/ varāṭakās 11/ varāṭaka-bhāgās ca 1_9//  api ca/  
-  
-Lil_76a/ dramma-%dvayena sa-%aṣṭa-aṃśā śāli-taṇḍula-khārikā/  
-  
-Lil_76c/ labhyā ced paṇa-%saptatyā tat kim sapadi @kathyatām//  
-  
-Lil_76p/ atra pramāṇasya sajātīya-karaṇa-artham dramma-%dvayasya paṇī-kṛtasya nyāsas 32/ 9_8/ 70/ labdhe khāryau 2/ droṇās 7/ āḍhakas 1/ prasthau 2//  atha vyasta-trairāśike karaṇa-sūtram/  
-  
-Lil_77a/ icchā-vṛddhau phale hrāsas hrāse vṛddhis ca @jāyate/  
-  
-Lil_77c/ vyastam trairāśikam tatra jñeyam gaṇita-kovidais//  
-  
-Lil_77p/ yatra icchā-vṛddhau phale hrāsas hrāse vā phala-vṛddhis tatra vyasta-trairāśikam/  tat yathā/  
-  
-Lil_78a/ jīvānām vayasas maulye taulye varṇasya haimane/  
-  
-Lil_78c/ bhāga-hāre ca rāśīnām vyastam trairāśikam @bhavet//  
-  
-Lil_78p/ jīva-vayas-mūlye udāharaṇam/  
-  
-Lil_79a/ @prāpnoti ced %ṣoḍaśa-vatsarā strī %dvātriṃśatam %viṃśati-vatsarā kim/  
-  
-Lil_79c/ %dvi-dhūs-vahas niṣka-%catuṣkam ukṣā @prāpnoti dhūs-%ṣaṭka-vahas tadā kim//  
-  
-Lil_79p/ nyāsas 16/ 32/ 20/ labdham niṣkās 25_3_5//  %dvitīya-nyāsas 2/ 4/ 6/ labdham niṣkās 1_1_3//  varṇīya-suvarṇa-taulye udāharaṇam/  
-  
-Lil_80a/ %daśa-varṇam suvarṇam ced gadyāṇakam @avāpyate/  
-  
-Lil_80c/ niṣkeṇa #tithi-varṇam tu tadā @vada kiyad-mitam//  
-  
-Lil_80p/ nyāsas 10/ 1/ 15/ labdham 2_3//  rāśi-bhāga-haraṇe udāharaṇam/  
-  
-Lil_81a/ %sapta-āḍhakena mānena rāśau sasyasya māpite/  
-  
-Lil_81c/ yadi māna-%śatam jātam tadā %pañca-āḍhakena kim//  
-  
-Lil_81p/ nyāsas 7/ 100/ 5/ labdham 140//  iti vyastam trairāśikam//  atha %pañca-rāśika-ādau karaṇa-sūtram vṛttam/  
-  
-Lil_82a/ %pañca-%sapta-%nava-rāśika-ādike anyonya-pakṣa-nayanam phala-chidām/  
-  
-Lil_82c/ @saṃvidhāya bahu-rāśi-je vadhe su-alpa-rāśi-vadha-bhājite phalam//  
-  
-Lil_82p/ atra uddeśakas/  
-  
-Lil_83a/ māse %śatasya yadi %pañca kalā-antaram @syāt varṣe gate @bhavati kim @vada %ṣoḍaśānām/  
-  
-Lil_83c/ kālam tathā @kathaya mūla-kalā-antarābhyām mūlam dhanam gaṇaka kāla-phale @viditvā//  
-  
-Lil_83p/ nyāsas {btabular} 1 & 12 \\ 100 & 16 \\ 5 & * {etabular} labdham kalā-antaram 9_3_5//  atha kāla-jñāna-artham nyāsas {btabular} 1 &* \\ 100 & 16\ \ 5 & 48_5 {etabular} labdhās māsās 12//  mūla-dhana-artham nyāsas {btabular} 1 & 12 \\ 100 & * \\ 5 & 48_5 {etabular} labdham mūla-dhanam 16//  
-  
-Lil_84a/ sa-%tri-aṃśa-māsena %śatasya ced @syāt kalā-antaram %pañca sa-%pañcama-aṃśās/  
-  
-Lil_84c/ māsais %tribhis %pañca-lava-adhikais tat sa-%ardha-%dviṣaṣṭes phalam @ucyatām kim//  
-  
-Lil_84p/ nyāsas {btabular} 4_3 & 16_5 \\ 100 & 125_2 \\ 26_5 & * {etabular} labdham kalā-antaram 7_4_5//  atha %sapta-rāśika-udāharaṇam/  
-  
-Lil_85a/ vistāre %tri-karās kara-%aṣṭaka-mitās dairghye vicitrās ca ced rūpais utkaṭa-paṭṭa-sūtra-paṭikās %aṣṭau @labhante %śatam/  
-  
-Lil_85c/ dairghye sa-%ardha-kara-%trayā apara-paṭī hasta-%ardha-vistāriṇī tādṛk kim @labhate drutam @vada vaṇik vāṇijyakam @vetsi ced//  
-  
-Lil_85p/ nyāsas {btabular} 3 & 1_2 \\ 8 & 7_2 \\ 8 & 1 \\ 100 & * {etabular}  labdham niṣkās 0/ drammās 14/ paṇās 9/ kākiṇī 1/ varāṭakās 6/ [āpaṭe: varaṭakās] varāṭaka-bhāgau 2_3//  atha %nava-rāśika-udāharaṇam/  
-  
-Lil_86a/ piṇḍe ye #arka-mita-aṅgulās kila %catur-varga-aṅgulās vistṛtau paṭṭās dīrghatayā %caturdaśa-karās %triṃśat @labhante %śatam/  
-  
-Lil_86c/ etās vistṛti-piṇḍa-dairghya-mitayas yeṣām %catur-varjitās paṭṭās te @vada me %caturdaśa sakhe maulyam @labhante kiyat//  
-  
-Lil_86p/ nyāsas {btabular} 12 & 8 \\ 16 & 12 \\ 14 & 10 \\ 30 & 14 \\ 100 & * {etabular} labdham mūlyam niṣkās 16_2_3//  atha %ekādaśa-rāśika-udāharaṇam/  
-  
-Lil_87a/ paṭṭās ye %prathama-udita-pramitayas gavyūti-mātre sthitās teṣām ānayanāya ced śakaṭinām dramma-%aṣṭakam bhāṭakam/  
-  
-Lil_87c/ anye ye tad-anantaram nigaditās  mānais %catur-varjitās teṣām kā @bhavati iti bhāṭaka-mitis gavyūti-%ṣaṭke @vada//  
-  
-Lil_87p/ nyāsas {btabular} 12 & 8 \\ 16 & 12 \\ 14 & 10 \\ 30 & 14 \\ 1 & 6 \\ 8 & * {etabular} labdhās bhāṭaka-drammās 8//  atha bhāṇḍa-pratibhāṇḍake karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_88/ tathā eva bhāṇḍa-pratibhāṇḍake api viparyayas tatra sadā hi mūlye//  
-  
-Lil_88p/ udāharaṇam/  
-  
-Lil_89a/ drammeṇa @labhyate iha āmra-%śata-%trayam ced %triṃśat-paṇena vipaṇau vara-dāḍimāni/  
-  
-Lil_89c/ āmrais @vada āśu %daśabhis kati dāḍimāni labhyāni tad-vinimayena @bhavanti mitra//  
-  
-Lil_89p1/ nyāsas {btabular} 16 & 1 \\ 300 & 30 \\ 10 & * {etabular} labdhāni dāḍimāni 16//  iti gaṇita-pāṭyām līlāvatyām prakīrṇakāni//    
+लिल्_४७प्२।अथ व्यस्त-विधौ करण-सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_४८अ। छेदम् गुणम् गुणम् छेदम् वर्गम् मूलम् पदम् कृतिम्।  
+    
+लिल्_४८च्। ऋणम् स्वम् स्वम् ऋणम् @कुर्यात् दृश्ये राशि-प्रसिद्धये॥ [श्लोक]  
+    
+लिल्_४९अ। अथ स्व-अंश-अधिक-ऊने तु लव-आढ्य-ऊनस् हरस् हरस्।  
+    
+लिल्_४९च्। अंशस् तु अविकृतस् तत्र विलोमे शेषम् उक्त-वत्॥ [श्लोक]  
+    
+लिल्_४९प्। अत्र उद्देशकस्।  
+    
+लिल्_५०अ। यस् %त्रि-घ्नस् %त्रिभिस् अन्वितस् स्व-#चरणैस् भक्तस् ततस् %सप्तभिस् स्व-%त्रि-अंशेन विवर्जितस् स्व-गुणितस् हीनस् %द्विपञ्चाशता।  
+    
+लिल्_५०च्। तद्-मूले %अष्ट-युते हृते च %दशभिस् जातम् %द्वयम् @ब्रूहि तम् राशिम् @वेत्सि हि चञ्चल-अक्षि विमलाम् बाले विलोम-क्रियाम्॥ [शार्दूलविक्रीडित]  
+    
+लिल्_५०प्। न्यासस् गुणस् ३। क्षेपस् ३_४। भाजकस् ७। ऋणम् १_३। वर्गस्। ऋणम् ५२। मूलम्। क्षेपस् ८। हरस् १०। दृश्यम् २। यथा-उक्त-करणेन जातस् राशिस् २८॥ इति व्यस्त-विधिस्॥ अथ इष्ट-कर्मसु दृश्य-जाति-शेष-जाति-विश्लेष-जाति-आदौ करण-सूत्रम् वृत्तम्।  
+    
+लिल्_५१अ। उद्देशक-आलाप-वत् इष्ट-राशिस् क्षुण्णस् हृतस् अंशैस् रहितस् युतस् वा।  
+लिल्_५१च्। इष्ट-आहतम् दृष्टम् अनेन भक्तम् राशिस् @भवेत् प्रोक्तम् इति इष्ट-कर्म॥ [इन्द्रवज्रा]  
+    
+लिल्_५१प्। उदाहरणम्।  
+    
+लिल्_५२अ। %पञ्च-घ्नस् स्व-%त्रि-भाग-ऊनस् %दश-भक्तस् समन्वितस्।  
+    
+लिल्_५२च्। राशि-%त्रि-अंश-%अर्ध-पादैस् @स्यात् कस् राशिस् %द्वि-ऊन-%सप्ततिस्॥ [श्लोक]  
+    
+लिल्_५२प्। न्यासस्। गुणस् ५। स्व-अंश-ऋणम् -१_३। [आपटे: ०_१_३] ऊनस् १_३। भाग-हारस् १०। राशि-अंशकास् क्षेपास् १_३। १_२। १_४। दृश्यम् ६८। अत्र किल इष्ट-राशिस् ३। %पञ्च-घ्नस् १५। स्व-%त्रि-भाग-ऊनस् १०। %दश-भक्तस् १। अत्र कल्पित-राशेस् ३ %त्रि-अंश-%अर्ध-#पादैस् ३_३। ३_२। ३_४। एतैस् समन्वितस् जातस् १७_४। अनेन दृष्टम् ६८। इष्ट-आहतम् भक्तम् जातस् राशिस् ४८॥   
+एवम् यत्र उदाहरणे राशिस् केन-चित् गुणितस् भक्तस् वा राशि-अंशेन रहितस् युतस् वा दृष्टस् तत्र इष्टम् राशिम् @प्रकल्प्य तस्मिन् उद्देशक-आलाप-वत् कर्मणि कृते यत् @निष्पद्यते तेन @भजेत् दृष्टम् इष्ट-गुणम् फलम् राशिस् @स्यात्॥ अथ दृश्य-जाति-उदाहरणम्।  
+    
+लिल्_५३अ। अमल-कमल-राशेस् %त्रि-अंश-%पञ्च-अंश-%षष्ठैस् %त्रि-नयन-हरि-सूर्यास् येन %तुर्येण च आर्या।  
+    
+लिल्_५३च्। गुरु-पदम् अथ %षड्भिस् पूजितम् शेष-पद्मैस् सकल-कमल-सङ्ख्याम् क्षिप्रम् @आख्याहि तस्य॥ [मालिनी]  
+    
+लिल्_५३प्। न्यासस् १_३। १_५। १_६। १_४। दृश्यम् ६। अत्र इष्टम् #रूपम् १ राशिम् @प्रकल्प्य प्राक्-वत् जातस् राशिस् १२०॥ अथ शेष-जाति-उदाहरणम्।  
+    
+लिल्_५४अ। स्व-%अर्धम् @प्रादात् प्रयागे %नव-लव-#युगलम् यस् अवशेषात् च काश्याम् शेष-#अङ्घ्रिम् शुल्क-हेतोस् पथि %दशम-लवान् %षट् च शेषात् गयायाम्।  
+    
+लिल्_५४च्। शिष्टास् निष्क-%त्रिषष्टिस् निज-गृहम् अनया तीर्थ-पान्थस् प्रयातस् तस्य द्रव्य-प्रमाणम् @वद यदि भवता शेष-जातिस् श्रुता @अस्ति॥ [स्रग्धरा]  
+    
+लिल्_५४प्। न्यासस् १_१। १_२। २_९। १_४। ६_१०। दृश्यम् ६३। अत्र #रूपम् १ राशिम् @प्रकल्प्य भागान् शेषान् शेषात् @अपास्य अथ वा भाग-अपवाह-विधिना सवर्णिते जातम् ७_६०। अनेन दृष्टे ६३ इष्ट-गुणिते भक्ते जातम् द्रव्य-प्रमाणम् ५४०॥ इदम् विलोम-सूत्रेण अपि @सिध्यति॥ अथ विश्लेष-जाति-उदाहरणम्।  
+    
+लिल्_५५अ। %पञ्च-अंशस् अलि-कुलात् कदम्बम् @अगमत् %त्रि-अंशस् शिलीन्ध्रम् तयोस् विश्लेषस् %त्रि-गुणस् मृग-अक्षि कुटजम् दोलायमानस् अपरस्।  
+    
+लिल्_५५च्। कान्ते केतक-मालती-परिमल-प्राप्त-%एक-काल-प्रिया-दूत-आहूतस् इतस् ततस् @भ्रमति खे भृङ्गस् अलि-सङ्ख्याम् @वद॥ [शार्दूलविक्रीडित]  
+    
+लिल्_५५प्। न्यासस् १_५। १_३। २_५। दृश्यम् १। जातम् अलि-कुल-मानम् १५॥ एवम् अन्यत्र अपि॥ इति इष्ट-कर्म॥ अथ सङ्क्रमणे करण-सूत्रम् वृत्त-अर्धम्।  
+    
+लिल्_५६। योगस् अन्तरेण ऊन-युतस् अर्धितस् तौ राशी स्मृतौ सङ्क्रमण-आख्यम् एतत्॥ [इन्द्रवज्रा-अब्; च्द्=५८]  
+    
+लिल्_५६प्। अत्र उद्देशकस्।  
+    
+लिल्_५७अ। ययोस् योगस् %शतम् स-%एकम् वियोगस् %पञ्चविंशतिस्।  
+    
+लिल्_५७च्। तौ राशी @वद मे वत्स @वेत्सि सङ्क्रमणम् यदि॥ [श्लोक]  
+    
+लिल्_५७प्। न्यासस्। योगस् १०१। अन्तरम् २५। जातौ राशी ३८। ६३॥ वर्ग-सङ्क्रमणे करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_५८। वर्ग-अन्तरम् राशि-वियोग-भक्तम् योगस् ततस् प्रोक्त-वत् एव राशी॥ [इन्द्रवज्रा-च्द्; अब्=५६]  
+    
+लिल्_५८प्। उद्देशकस्।  
+    
+लिल्_५९अ। राश्योस् ययोस् वियोगस् %अष्टौ तद्-कृत्योस् च %चतुःशती।  
+    
+लिल्_५९च्। विवरम् @ब्रूहि तौ राशी शीघ्रम् गणित-कोविद॥ [श्लोक]  
+    
+लिल्_५९प्। न्यासस्। राशि-अन्तरम् ८। कृति-अन्तरम् ४००। जातौ राशी २१। २९॥ इति विषम-कर्म॥ अथ किञ्चित् वर्ग-कर्म @प्रोच्यते।  
+    
+लिल्_६०अ। इष्ट-कृतिस् %अष्ट-गुणिता वि-%एका दलिता विभाजिता इष्टेन।  
+    
+लिल्_६०च्। %एकस् @स्यात् अस्य कृतिस् दलिता स-%एका अपरस् राशिस्॥  
+    
+लिल्_६१अ। #रूपम् %द्वि-गुण-इष्ट-हृतम् स-इष्टम् %प्रथमस् अथ वा अपरस् #रूपम्।  
+    
+लिल्_६१च्। कृति-युति-वियुती वि-%एके वर्गौ @स्याताम् ययोस् राश्योस्॥  
+    
+लिल्_६१प्। उद्देशकस्।  
+    
+लिल्_६२अ। राश्योस् ययोस् कृति-वियोग-युती निस्-%एके मूल-प्रदे @प्रवद तौ मम मित्र यत्र।  
+    
+लिल्_६२च्। @क्लिश्यन्ति बीज-गणिते पटवस् अपि मूढास् %षोढा-उक्त-बीज-गणितम् परिभावयन्तस्॥  
+    
+लिल्_६२प्। अत्र %प्रथम-आनयने कल्पितम् इष्टम् १_२। अस्य कृतिस् १_४। %अष्ट-गुणिता २। इयम् वि-%एका १। दलिता १_२। इष्टेन १_२ हृतस् जातस् %प्रथमस् राशिस् १॥ अस्य कृतिस् १। दलिता १_२। स-%एका ३_२। अयम् अपरस् राशिस्। एवम् एतौ राशी १_१। ३_२॥ एवम् %एकेन इष्टेन जातौ राशी ७_२। ५७_८॥ %द्विकेन ३१_४। ९९३_३२॥ अथ %द्वितीय-प्रकारेण इष्टम् १। अनेन %द्वि-गुणेन  
+२ %रूपम् १ भक्तम् १_२। इष्टेन सहितम् जातस् %प्रथमस् राशिस् ३_२। %द्वितीयस् #रूपम् १। एवम् राशी ३_२। १_१॥ एवम् %द्विकेन इष्टेन ९_४। १_१॥ %त्रिकेण १९_६। १_१॥ %त्रि-अंशेन ११_६। १-१॥ अथ वा सूत्रम्।  
+    
+लिल्_६३अ। इष्टस्य वर्ग-वर्गस् घनस् च तौ %अष्ट-सङ्गुणौ %प्रथमस्।  
+    
+लिल्_६३च्। स-%एकस् राशी @स्याताम् एवम् व्यक्ते अथ वा अव्यक्ते॥  
+    
+लिल्_६३प्। इष्टम् १_२। अस्य वर्ग-वर्गस् १_१६। %अष्ट-घ्नस् १_२। स-%एकस् जातस् %प्रथमस् राशिस् ३-२। पुनर् इष्टम् १_२। अस्य घनस् १_८। %अष्ट-गुणस् जातस् %द्वितीयस् राशिस् १_१। एवम् जातौ राशी ३_२। १_१॥ अथ %एकेन इष्टेन ९। ८॥ %द्विकेन १२९। ६४॥ %त्रिकेण ६४९। २१६॥ एवम् सर्वेषु अपि प्रकारेषु इष्ट-वशात् आनन्त्यम्॥  
+    
+लिल्_६४अ। पाटी-सूत्र-उपमम् बीजम् गूढम् इति @अवभासते।  
+    
+लिल्_६४च्। न @अस्ति गूढम् अमूढानाम् न एव %षोढा इति अनेकधा॥  
+    
+लिल्_६४ए। @अस्ति त्रैराशिकम् पाटी बीजम् च विमला मतिस्।  
+    
+लिल्_६४ग्। किम् अज्ञातम् सु-बुद्धीनाम् अतस् मन्द-अर्थम् @उच्यते॥  
+    
+लिल्_६४प्। इति वर्ग-कर्म॥ अथ मूल-गुणके कर्ण-सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_६५अ। गुण-घ्न-मूल-ऊन-युतस्य राशेस् दृष्टस्य युक्तस्य गुण-%अर्ध-कृत्या।  
+    
+लिल्_६५च्। मूलम् गुण-%अर्धेन युतम् विहीनम् वर्गी-कृतम् प्रष्टुर् अभीष्ट-राशिस्॥  
+    
+लिल्_६६अ। यदा लवैस् च ऊन-युतस् सस् राशिस् %एकेन भाग-ऊन-युतेन @भक्त्वा।  
+    
+लिल्_६६च्। दृश्यम् तथा मूल-गुणम् च ताभ्याम् साध्यस् ततस् प्रोक्त-वत् एव राशिस्॥  
+    
+लिल्_६६प्। यस् राशिस् स्व-मूलेन केन चित् गुणितेन ऊनस् दृष्टस् तस्य मूल-गुण-%अर्ध-कृत्या युक्तस्य यत् पदम् तत् गुण-%अर्धेन युक्तम् कार्यम्। यदि गुण-घ्न-मूल-युतस् दृष्टस् तर्हि हीनम् कार्यम्। तस्य वर्गस् राशिस् @स्यात्॥ मूल-ऊने दृष्टे तावत् उदाहरणम्।  
+    
+लिल्_६७अ। बाले मराल-कुल-मूल-दलानि %सप्त तीरे विलास-भर-मन्थर-गाणि @अपश्यम्।  
+    
+लिल्_६७च्। कुर्वत् च केलि-कलहम् कलहंस-#युग्मम् शेषम् जले @वद मराल-कुल-प्रमाणम्॥  
+    
+लिल्_६७प्। न्यासस्। मूल-गुणकस् ७_२। दृश्यम् २। दृष्टस्य अस्य २ गुण-%अर्ध-कृत्या ४९_१६ युक्तस्य ८१_१६ मूलम् ९_४। गुण-%अर्धेन ७_४ युतम् ४। वर्गी-कृतम् जातम् हंस-कुल-मानम् १६॥ अथ मूल-युते दृष्टे तावत् उदाहरणम्।  
+    
+लिल्_६८अ। स्व-पदैस् %नवभिस् युक्तस् @स्यात् %चत्वारिंशता अधिकम्।  
+    
+लिल्_६८च्। %शत-%द्वादशकम् विद्वन् कस् सस् राशिस् @निगद्यताम्॥  
+    
+लिल्_६८प्। न्यासस्। मूल-गुणकस् ९। दृश्यम् १२४०। उक्त-प्रकारेण जातस् राशिस् ९६१॥ उदाहरणम्।  
+    
+लिल्_६९अ। यातम् हंस-कुलस्य मूल-%दशकम् मेघ-आगमे मानसम् @प्रोड्डीय स्थल-पद्मिनी-वनम् @अगात् %अष्ट-अंशकस् अम्भस्-तटात्।  
+    
+लिल्_६९च्। बाले बाल-मृणाल-शालिनि जले केलि-क्रिया-लालसम् दृष्टम् हंस-#युग-%त्रयम् च सकलाम् यूथस्य सङ्ख्याम् @वद॥  
+    
+लिल्_६९प्। न्यासस्। मूल-गुणकस् १०। भागस् १_८। दृश्यम् ६। यदा लवैस् च ऊन-युतस् इति अत्र %एकेन १ भाग-ऊनेन ७_८ दृश्य-मूल-गुणौ @भक्त्वा जातम् दृश्यम् ४८_७। मूल-गुणकस् ८०_७। आभ्याम् अभीष्टम् गुण-घ्न-मूल-ऊन-युतस्य इति-आदि-विधिना जातम् हंस-कुल-मानम् १४४॥ उदाहरणम्।  
+    
+लिल्_७०अ। पार्थस् कर्ण-वधाय मार्गण-गणम् क्रुद्धस् रणे @सन्दधे तस्य अर्धेन @निवार्य तद्-शर-गणम् मूलैस् %चतुर्भिस् हयान्।  
+    
+लिल्_७०च्। शल्यम् %षड्भिस् अथ इषुभिस् %त्रिभिस् अपि छत्रम् ध्वजम् कार्मुकम् @चिच्छेद अस्य शिरस् शरेण कति ते यान् अर्जुनस् @सन्दधे॥  
+    
+लिल्_७०प्। न्यासस्। मूल-गुणकस् ४। भागस् १_२। दृश्यम् १०। यदा लवैस् च ऊन-युतस् इति-आदिना जातम् बाण-मानम् १००॥ अपि च।  
+    
+लिल्_७१अ। अलि-कुल-#दल-मूलम् मालतीम् यातम् %अष्टौ निखिल-%नवम-भागास् चालिनी भृङ्गम् %एकम्।  
+    
+लिल्_७१च्। निशि परिमल-लुब्धम् पद्म-मध्ये निरुद्धम् @प्रतिरणति रणन्तम् @ब्रूहि कान्ते अलि-सङ्ख्याम्॥  
+    
+लिल्_७१प्। अत्र किल राशि-%नव-अंश-%अष्टकम् राशि-अर्ध-मूलम् च राशेस् ऋणम् रूप-%द्वयम् दृश्यम्। एतत् ऋणम् दृश्यम् च अर्धितम् राशि-%अर्धस्य @भवति इति॥ तथा न्यासस्। मूल-गुणकस् -१_२। भागस् -८_९। अत्र प्राक्-वत् लब्धम् राशि-दलम् ३६। एतत् द्वि-गुणितम् अलि-कुल-मानम् ७२॥ भाग-मूल-युते दृष्टे उदाहरणम्।  
+    
+लिल्_७२अ। यस् राशिस् %अष्टादशभिस् स्व-मूलैस् राशि-%त्रि-भागेन समन्वितस् च।  
+    
+लिल्_७२च्। जातम् %शत-%द्वादशकम् तम् आशु @जानीहि पाट्याम् पटुता @अस्ति ते चेद्॥  
+    
+लिल्_७२प्। न्यासस्। मूल-गुणकस् १८। भागस् १_३। दृश्यम् १२००। अत्र %एकेन भाग-युतेन ४_३ मूल-गुणम् दृश्यम् च @भक्त्वा प्राक्-वत् जातस् राशिस् ५७६॥ इति गुण-कर्म॥ अथ त्रैराशिके करण-सूत्रम् वृत्तम्।  
+    
+लिल्_७३अ। प्रमाणम् इच्छा च समान-जाती आदि-अन्तयोस् तद्-फलम् अन्य-जाति।  
+    
+लिल्_७३च्। मध्ये तत् इच्छा-हतम् आद्य-हृत् @स्यात् इच्छा-फलम् व्यस्त-विधिस् विलोमे॥  
+    
+लिल्_७३प्। उदाहरणम्।  
+    
+लिल्_७४अ। कुङ्कुमस्य स-#दलम् पल-%द्वयम् निष्क-%सप्तम-लवैस् %त्रिभिस् यदि।  
+    
+लिल्_७४च्। @प्राप्यते सपदि मे वणिज्-वर @ब्रूहि निष्क-%नवकेन तत् कियत्॥  
+    
+लिल्_७४प्। न्यासस् ३_७। ५_२। ९_१। लब्धानि कुङ्कुम-पलानि ५२। कर्षौ २॥ अपि च।  
+    
+लिल्_७५अ। प्रकृष्ट-कर्पूर-पल-%त्रिषष्ट्या चेद् @लभ्यते निष्क-%चतुष्क-युक्तम्।  
+    
+लिल्_७५च्। %शतम् तदा %द्वादशभिस् स-#पादैस् पलैस् किम् @आचक्ष्व सखे @विचिन्त्य॥  
+    
+लिल्_७५प्। न्यासस् ६३। १०४। ४९_४। लब्धास् निष्कास् २०। द्रम्मास् ३। पणास् ८। काकिण्यस् ३। वराटकास् ११। वराटक-भागास् च १_९॥ अपि च।  
+    
+लिल्_७६अ। द्रम्म-%द्वयेन स-%अष्ट-अंशा शालि-तण्डुल-खारिका।  
+    
+लिल्_७६च्। लभ्या चेद् पण-%सप्तत्या तत् किम् सपदि @कथ्यताम्॥  
+    
+लिल्_७६प्। अत्र प्रमाणस्य सजातीय-करण-अर्थम् द्रम्म-%द्वयस्य पणी-कृतस्य न्यासस् ३२। ९_८। ७०। लब्धे खार्यौ २। द्रोणास् ७। आढकस् १। प्रस्थौ २॥ अथ व्यस्त-त्रैराशिके करण-सूत्रम्।  
+    
+लिल्_७७अ। इच्छा-वृद्धौ फले ह्रासस् ह्रासे वृद्धिस् च @जायते।  
+    
+लिल्_७७च्। व्यस्तम् त्रैराशिकम् तत्र ज्ञेयम् गणित-कोविदैस्॥  
+    
+लिल्_७७प्। यत्र इच्छा-वृद्धौ फले ह्रासस् ह्रासे वा फल-वृद्धिस् तत्र व्यस्त-त्रैराशिकम्। तत् यथा।  
+    
+लिल्_७८अ। जीवानाम् वयसस् मौल्ये तौल्ये वर्णस्य हैमने।  
+    
+लिल्_७८च्। भाग-हारे च राशीनाम् व्यस्तम् त्रैराशिकम् @भवेत्॥  
+    
+लिल्_७८प्। जीव-वयस्-मूल्ये उदाहरणम्।  
+    
+लिल्_७९अ। @प्राप्नोति चेद् %षोडश-वत्सरा स्त्री %द्वात्रिंशतम् %विंशति-वत्सरा किम्।  
+    
+लिल्_७९च्। %द्वि-धूस्-वहस् निष्क-%चतुष्कम् उक्षा @प्राप्नोति धूस्-%षट्क-वहस् तदा किम्॥  
+    
+लिल्_७९प्। न्यासस् १६। ३२। २०। लब्धम् निष्कास् २५_३_५॥ %द्वितीय-न्यासस् २। ४। ६। लब्धम् निष्कास् १_१_३॥ वर्णीय-सुवर्ण-तौल्ये उदाहरणम्।  
+    
+लिल्_८०अ। %दश-वर्णम् सुवर्णम् चेद् गद्याणकम् @अवाप्यते।  
+    
+लिल्_८०च्। निष्केण #तिथि-वर्णम् तु तदा @वद कियद्-मितम्॥  
+    
+लिल्_८०प्। न्यासस् १०। १। १५। लब्धम् २_३॥ राशि-भाग-हरणे उदाहरणम्।  
+    
+लिल्_८१अ। %सप्त-आढकेन मानेन राशौ सस्यस्य मापिते।  
+    
+लिल्_८१च्। यदि मान-%शतम् जातम् तदा %पञ्च-आढकेन किम्॥  
+    
+लिल्_८१प्। न्यासस् ७। १००। ५। लब्धम् १४०॥ इति व्यस्तम् त्रैराशिकम्॥ अथ %पञ्च-राशिक-आदौ करण-सूत्रम् वृत्तम्।  
+    
+लिल्_८२अ। %पञ्च-%सप्त-%नव-राशिक-आदिके अन्योन्य-पक्ष-नयनम् फल-छिदाम्।  
+    
+लिल्_८२च्। @संविधाय बहु-राशि-जे वधे सु-अल्प-राशि-वध-भाजिते फलम्॥  
+    
+लिल्_८२प्। अत्र उद्देशकस्।  
+    
+लिल्_८३अ। मासे %शतस्य यदि %पञ्च कला-अन्तरम् @स्यात् वर्षे गते @भवति किम् @वद %षोडशानाम्।  
+    
+लिल्_८३च्। कालम् तथा @कथय मूल-कला-अन्तराभ्याम् मूलम् धनम् गणक काल-फले @विदित्वा॥  
+    
+लिल्_८३प्। न्यासस् {ब्तबुलर्} १ & १२ \\ १०० & १६ \\ ५ & * {एतबुलर्} लब्धम् कला-अन्तरम् ९_३_५॥ अथ काल-ज्ञान-अर्थम् न्यासस् {ब्तबुलर्} १ &* \\ १०० & १६\ \ ५ & ४८_५ {एतबुलर्} लब्धास् मासास् १२॥ मूल-धन-अर्थम् न्यासस् {ब्तबुलर्} १ & १२ \\ १०० & * \\ ५ & ४८_५ {एतबुलर्} लब्धम् मूल-धनम् १६॥  
+    
+लिल्_८४अ। स-%त्रि-अंश-मासेन %शतस्य चेद् @स्यात् कला-अन्तरम् %पञ्च स-%पञ्चम-अंशास्।  
+    
+लिल्_८४च्। मासैस् %त्रिभिस् %पञ्च-लव-अधिकैस् तत् स-%अर्ध-%द्विषष्टेस् फलम् @उच्यताम् किम्॥  
+    
+लिल्_८४प्। न्यासस् {ब्तबुलर्} ४_३ & १६_५ \\ १०० & १२५_२ \\ २६_५ & * {एतबुलर्} लब्धम् कला-अन्तरम् ७_४_५॥ अथ %सप्त-राशिक-उदाहरणम्।  
+    
+लिल्_८५अ। विस्तारे %त्रि-करास् कर-%अष्टक-मितास् दैर्घ्ये विचित्रास् च चेद् रूपैस् उत्कट-पट्ट-सूत्र-पटिकास् %अष्टौ @लभन्ते %शतम्।  
+    
+लिल्_८५च्। दैर्घ्ये स-%अर्ध-कर-%त्रया अपर-पटी हस्त-%अर्ध-विस्तारिणी तादृक् किम् @लभते द्रुतम् @वद वणिक् वाणिज्यकम् @वेत्सि चेद्॥  
+    
+लिल्_८५प्। न्यासस् {ब्तबुलर्} ३ & १_२ \\ ८ & ७_२ \\ ८ & १ \\ १०० & * {एतबुलर्} लब्धम् निष्कास् ०। द्रम्मास् १४। पणास् ९। काकिणी १। वराटकास् ६। [आपटे: वरटकास्] वराटक-भागौ २_३॥ अथ %नव-राशिक-उदाहरणम्।  
+    
+लिल्_८६अ। पिण्डे ये #अर्क-मित-अङ्गुलास् किल %चतुर्-वर्ग-अङ्गुलास् विस्तृतौ पट्टास् दीर्घतया %चतुर्दश-करास् %त्रिंशत् @लभन्ते %शतम्।  
+    
+लिल्_८६च्। एतास् विस्तृति-पिण्ड-दैर्घ्य-मितयस् येषाम् %चतुर्-वर्जितास् पट्टास् ते @वद मे %चतुर्दश सखे मौल्यम् @लभन्ते कियत्॥  
+    
+लिल्_८६प्। न्यासस् {ब्तबुलर्} १२ & ८ \\ १६ & १२ \\ १४ & १० \\ ३० & १४ \\ १०० & * {एतबुलर्} लब्धम् मूल्यम् निष्कास् १६_२_३॥ अथ %एकादश-राशिक-उदाहरणम्।  
+    
+लिल्_८७अ। पट्टास् ये %प्रथम-उदित-प्रमितयस् गव्यूति-मात्रे स्थितास् तेषाम् आनयनाय चेद् शकटिनाम् द्रम्म-%अष्टकम् भाटकम्।  
+    
+लिल्_८७च्। अन्ये ये तद्-अनन्तरम् निगदितास् मानैस् %चतुर्-वर्जितास् तेषाम् का @भवति इति भाटक-मितिस् गव्यूति-%षट्के @वद॥  
+    
+लिल्_८७प्। न्यासस् {ब्तबुलर्} १२ & ८ \\ १६ & १२ \\ १४ & १० \\ ३० & १४ \\ १ & ६ \\ ८ & * {एतबुलर्} लब्धास् भाटक-द्रम्मास् ८॥ अथ भाण्ड-प्रतिभाण्डके करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_८८। तथा एव भाण्ड-प्रतिभाण्डके अपि विपर्ययस् तत्र सदा हि मूल्ये॥  
+    
+लिल्_८८प्। उदाहरणम्।  
+    
+लिल्_८९अ। द्रम्मेण @लभ्यते इह आम्र-%शत-%त्रयम् चेद् %त्रिंशत्-पणेन विपणौ वर-दाडिमानि।  
+    
+लिल्_८९च्। आम्रैस् @वद आशु %दशभिस् कति दाडिमानि लभ्यानि तद्-विनिमयेन @भवन्ति मित्र॥  
+    
+लिल्_८९प्१। न्यासस् {ब्तबुलर्} १६ & १ \\ ३०० & ३० \\ १० & * {एतबुलर्} लब्धानि दाडिमानि १६॥ इति गणित-पाट्याम् लीलावत्याम् प्रकीर्णकानि॥  
 
-[miśraka-vyavahāra]  
+[मिश्रक-व्यवहार]
 
-Lil_89p2/ atha miśraka-vyavahāre karaṇa-sūtram sa-%ardha-vṛttam/  
-  
-Lil_90a/ pramāṇa-kālena hatam pramāṇam vimiśra-kālena hatam phalam ca/  
-  
-Lil_90c/ sva-yoga-bhakte ca pṛthak-sthite te miśra-āhate mūla-kalā-antare @stas/  [āpaṭe: prathak- < pṛthak-]  
-  
-Lil_90e/ yat vā iṣṭa-karma-ākhya-vidhes tu mūlam miśrāt cyutam tat ca kalā-antaram @syāt//  
-  
-Lil_90p/ uddeśakas/  
-  
-Lil_91a/ %pañcakena %śatena abde mūlam svam sakala-antaram/  
-  
-Lil_91c/ sahasram ced pṛthak tatra @vada mūla-kalā-antare//  
-  
-Lil_91p/ nyāsas {btabular} 1 & 12 \\ 100 & 1000 \\ 5 & * {etabular}  labdhe krameṇa mūla-kalā-antare 625/ 375//  atha vā iṣṭa-karmaṇā kalpitam iṣṭam #rūpam 1/ uddeśaka-ālāpavat iṣṭa-rāśis iti-ādi-karaṇena #rūpasya varṣe kalā-antaram 3_5/ etad-yutena #rūpeṇa 8_5 dṛṣṭe 1000 #rūpa-guṇe bhakte labdham mūla-dhanam 625/ etat miśrāt cyutam kalā-antaram 375//   
-miśra-antare karaṇa-sūtram vṛttam/  
-  
-Lil_92a/ atha pramāṇais guṇitās sva-kālās vyatīta-kāla-ghna-phala-uddhṛtās te/  
-  
-Lil_92c/ sva-yoga-bhaktās ca vimiśra-nighnās prayukta-khaṇḍāni pṛthak @bhavanti//  
-  
-Lil_92p/ uddeśakas/  
-  
-Lil_93a/ yat %pañcaka-%trika-%catuṣka-%śatena dattam khaṇḍais %tribhis gaṇaka niṣka-%śatam %ṣaṣ-ūnam/  
-  
-Lil_93c/ māseṣu %sapta-%daśa-%pañcasu tulyam āptam khaṇḍa-%traye api hi phalam @vada khaṇḍa-saṃkhyām//  
-  
-Lil_93p/ nyāsas {btabular} 1 & 7 & 1 & 10 & 1 & 5 \\ 100 & * & 100 & * & 100 * \\ 5 & * & 3 & * & 4 & * {etabular} miśra-dhanam 94/ sva-yogas 235_21/ [āpaṭe: sva-yogas 235_21/ miśra-dhanam 94/] labdhāni yathā-kramam khaṇḍāni 24/ 28/ 42/ %pañca-rāśi-vidhinā labdham sama-kalā-antaram 8_2_5//  atha miśra-antare karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_94a/ prakṣepakās miśra-hatās vibhaktās prakṣepa-yogeṇa pṛthak phalāni//  
-  
-Lil_94p/ atra uddeśakas/  
-  
-Lil_95a/ %pañcāśat %eka-sahitā gaṇaka %aṣṭaṣaṣṭis %pañca-ūnitā %navatis ādi-dhanāni yeṣām/  
-  
-Lil_95c/ prāptā vimiśrita-dhanais %triśatī %tribhis tais vāṇijyatas @vada @vibhajya dhanāni teṣām//  
-  
-Lil_95p/ nyāsas 51/ 68/ 85/ miśra-dhanam 300/ jātāni dhanāni 75/ 100/ 125/ etāni ādi-dhanais ūnāni lābhās 24/ 32/ 40//  atha vā miśra-dhanam 300/ ādi-dhana-aikyena 204 ūnam sarva-lābha-yogas 96/ asmin prakṣepa-guṇite prakṣepa-yoga-bhakte lābhās @bhavanti 24/ 32/ 40//  vāpī-ādi-pūraṇe karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_96/ @bhajet chidas aṃśais atha tais vimiśrais #rūpam @bhajet @syāt paripūrti-kālas//  
-  
-Lil_96p/ udāharaṇam/  
-  
-Lil_97a/ ye nirjharās dina-dina-%ardha-%tṛtīya-%ṣaṣṭhais @saṃpūrayanti hi pṛthak pṛthak eva muktās/  
-  
-Lil_97c/ vāpīm yadā yugapad eva sakhe vimuktās te kena vāsara-lavena tadā @vada āśu//  
-  
-Lil_97p/ nyāsas 1_1/ 1_2/ 1_3/ 1_6/ labdhas vāpī-pūraṇa-kālas dina-aṃśas 1_12//  kraya-vikraye karaṇa-sūtram vṛttam/  
-  
-Lil_98a/ paṇyais sva-mūlyāni @bhajet sva-bhāgais @hatvā tad-aikyena @bhajet ca tāni/  
-  
-Lil_98c/ bhāgān ca miśreṇa dhanena @hatvā mūlyāni paṇyāni yathā-kramam @syus// [āpaṭe: krama < kramam]  
-  
-Lil_98p/ uddeśakas/  
-  
-Lil_99a/ sa-%ardham taṇḍula-mānaka-%trayam aho drammeṇa māna-%aṣṭakam mudgānām ca yadi %trayodaśa-mitās etās vaṇik kākiṇīs/  
-  
-Lil_99c/ @ādāya @arpaya taṇḍula-aṃśa-#yugalam mudga-%eka-bhāga-anvitam kṣipram kṣipra-bhujas @vrajema hi yatas sa-arthas agratas @yāsyati//  
-  
-Lil_99p/ nyāsas/ mūlye 1/ 1/ paṇye 7_2/ 8_1/ sva-bhāgau 2_1/ 1_1/ miśra-dhanam 13_64/ atra mūlye sva-bhāga-guṇite paṇyābhyām bhakte jāte 4_7/ 1_8/ anayos yogena 39_56/ ete 4_7/ 1_8 bhāgau ca 1_2/ 1_1/ miśra-dhanena 13_64/ @saṃguṇya bhakte jāte taṇḍula-muḍga-mūlye 1_6/ 7_192/ tathā taṇḍula-mudga-māne bhāgau  7_12/ 7_24/ atra taṇḍula-mūlye paṇau 2 kākiṇyau  
-2 varāṭakās 13/ varāṭaka-bhāgas ca 1_3/ mudga-mūlye [āpaṭe: mūdga- < mudga-] kākiṇyau 2/ varāṭakās 6/ varāṭaka-bhāgau ca 2_3//  udāharaṇam/  
-  
-Lil_100a/ karpūrasya varasya niṣka-#yugalena %ekam palam @prāpyate vaiśyā-nandana candanasya ca palam dramma-%aṣṭa-bhāgena ced/  
-  
-Lil_100c/ %aṣṭa-aṃśena tathā agaros pala-#dalam niṣkeṇa me @dehi tān bhāgais %ekaka-%ṣoḍaśa-%aṣṭaka-mitais dhūpam @cikīrṣāmi aham//  
-  
-Lil_100p/ nyāsas/ mūlyāni drammās 32_1/ 1_8/ 1_8/ paṇyāni 1_1/ 1_1/ 1_2/ bhāgās 1_1/ 16_1/ 8_1/ miśra-dhanam drammās 16/ labdhāni karpūra-ādīnām mūlyāni 2_9/ 8_9/ 8_9/ tathā teṣām paṇyāni 4_9/ 64_9/ 32_9//  ratna-miśre karaṇa-sūtram vṛttam/  
-  
-Lil_101a/ nara-ghna-dāna-ūnita-ratna-śeṣais iṣṭe hṛte @syus khalu mūlya-saṃkhyās/  
-  
-Lil_101c/ śeṣais hṛte śeṣa-vadhe pṛthak-sthais abhinna-mūlyāni atha vā @bhavanti//  
-  
-Lil_101p/ atra uddeśakas/  
-  
-Lil_102a/ māṇikya-%aṣṭakam indranīla-%daśakam muktāphalānām %śatam sad-vajrāṇi ca %pañca ratna-vaṇijām yeṣām %caturṇām dhanam/  
-  
-Lil_102c/ saṅga-sneha-vaśena te nija-dhanāt @dattvā %ekam %ekam mithas jātās tulya-dhanās pṛthak @vada sakhe tad-ratna-mūlyāni me//  
-  
-Lil_102p/ nyāsas mā 8/ nī 10/ mu 100/ va 5/ dānam 1/ narās 4/ nara-guṇita-dānena 4 ratna-saṃkhyāsu ūnitāsu śeṣāṇi mā 4/ nī 6/ mu 96/ va 1/ etais iṣṭa-rāśau bhakte ratna-mūlyāni @syus iti//  tāni ca yathā-katham-cit iṣṭe kalpite abhinnāni/ atas atra iṣṭam tathā sudhiyā @kalpyate yathā abhinnāni iti/ tathā iṣṭam kalpitam 96/ atas jātāni mūlyāni 24/ 16/ 1/  
-96/ sama-dhanam 233/ atha vā śeṣāṇām vadhe 2304 pṛthak śeṣais bhakte jātāni abhinnāni 596/ 384/ 24/ 2304/ janānām %caturṇām tulya-dhanam 5592/ teṣām ete drammās @saṃbhāvyante//  atha suvarṇa-gaṇite karaṇa-sūtram/  
-  
-Lil_103a/ suvarṇa-varṇa-āhati-yoga-rāśau svarṇa-aikya-bhakte kanaka-aikya-varṇas/  
-  
-Lil_103c/ varṇas @bhavet śodhita-hema-bhakte varṇa-uddhṛte śodhita-hema-saṃkhyā//  
-  
-Lil_103p/ udāharaṇāni/  
-  
-Lil_104a/ #viśva-#arka-#rudra-%daśa-varṇa-suvarṇa-māṣās #diś-#veda-#locana-#yuga-pramitās krameṇa/  
-  
-Lil_104c/ āvartiteṣu @vada teṣu suvarṇa-varṇas tūrṇam suvarṇa-gaṇita-jña vaṇik @bhavet kas//  
-  
-Lil_105a/ te śodhane yadi ca %viṃśatis ukta-māṣās @syus %ṣoḍaśa āśu @vada varṇa-mitis tadā kā/  
-  
-Lil_105c/ ced śodhitam @bhavati %ṣoḍaśa-varṇa-hema te %viṃśatis kati @bhavanti tadā tu māṣās//  
-  
-Lil_105p/ nyāsas {btabular} 13 & 12 & 11 & 10 \\ 10 & 4 & 2 & 4 {etabular} jātā āvartite suvarṇa-varṇa-mitis 12/ ete eva yadi śodhitās santas %ṣoḍaśa māṣās @bhavanti tadā varṇās 15/ yadi te ca %ṣoḍaśa varṇās tadā %pañcadaśa māṣās @bhavanti 15//  atha varṇa-jñānāya karaṇa-sūtram vṛttam/  
-  
-Lil_106a/ svarṇa-aikya-nighnāt yuti-jāta-varṇāt suvarṇa-tad-varṇa-vadha-aikya-hīnāt/  
-  
-Lil_106c/ ajñāta-varṇa-agni-ja-saṃkhyayā āptam ajñāta-varṇasya @bhavet pramāṇam//  
-  
-Lil_106p/ udāharaṇam/  
-  
-Lil_107a/ %daśa-#īśa-varṇās #vasu-#netra-māṣās ajñāta-varṇasya ṣaṭ etad-aikye/  
-  
-Lil_107c/ jātam sakhe %dvādaśakam suvarṇam ajñāta-varṇasya @vada pramāṇam//  
-  
-Lil_107p/ nyāsas/ {btabular} 10 & 11 & 0 \\ 8 & 2 & 6 {etabular} labdha-jñāta-varṇa-mānam 15//  atha suvarṇa-jñānāya karaṇa-sūtram vṛttam/  
-  
-Lil_108a/ svarṇa-aikya-nighnas yuti-jāta-varṇas svarṇa-ghna-varṇa-aikya-viyojitas ca/  
-  
-Lil_108c/ ahema-varṇa-agni-ja-yoga-varṇa-viśleṣa-bhaktas avidita-agni-jam @syāt//  
-  
-Lil_108p/ udāharaṇam/  
-  
-Lil_109a/ %daśa-#indra-varṇās #guṇa-#candra-māṣās kiṃcit tathā %ṣoḍaśakasya teṣām/  
-  
-Lil_109c/ jātam yutau %dvādaśakam suvarṇam kati iha te %ṣoḍaśa-varṇa-māṣās//  
-  
-Lil_109p/ nyāsas {btabular} 10 & 14 & 16 \\ 3 & 1 & 0 {etabular} labdham māṣa-mānam 1//  atha suvarṇa-jñānāya anyat karaṇa-sūtram vṛttam/  
-  
-Lil_110a/ sādhyena ūnas analpa-varṇas vidheyas sādhyas varṇas svalpa-varṇa-ūnitas ca/  
-  
-Lil_110c/ iṣṭa-kṣuṇṇe śeṣake svarṇa-māne @syātām svalpa-analpayos varṇayos te//  
-  
-Lil_110p/ udāharaṇam/  
-  
-Lil_111a/ hāṭaka-guṭike %ṣoḍaśa-%daśa-varṇe tad-yutau sakhe jātam/  
-  
-Lil_111c/ %dvādaśa-varṇa-suvarṇam @brūhi tayos svarṇa-māne me//  
-Lil_111p/ nyāsas 16/ 10/ sādhyas varṇas 12/ kalpitam iṣṭam 1/ labdhe suvarṇa-māne {btabular} 16 & 10 \\ 2 & 4 {etabular} atha vā %dvikena iṣṭena {btabular} 16 & 10 \\ 4 & 8 {etabular} %ardha-guṇitena vā {btabular} 16 & 10 \\ 1 & 2 {etabular} evam bahudhā//  atha chandas-citi-ādau karaṇa-sūtram śloka-%trayam/  
-  
-Lil_112a/ %eka-ādi-eka-uttarās aṅkās vyastās bhājyās krama-sthitais/  
-  
-Lil_112c/ paras pūrveṇa saṃguṇyas tad-paras tena  tena ca//  
-  
-Lil_113a/ %eka-%dvi-%tri-ādi-bhedās @syus idam sādhāraṇam smṛtam/  
-Lil_113c/ chandas-citi-uttare chandasi upayogas asya tad-vidām//  
-  
-Lil_114a/ mūṣā-vahana-bheda-ādau khaṇḍa-merau ca śilpake/  
-  
-Lil_114c/ vaidyake rasa-bhedīye tat na uktam vistṛtes bhayāt//  
-  
-Lil_114p/ tatra chandas-citi-uttare kiṃcit udāharaṇam/  
-  
-Lil_115a/ prastāre mitra gāyatryās @syus pāde vyaktayas kati/  
-  
-Lil_115c/ %eka-ādi-guravas ca āśu kati kati @ucyatām pṛthak//  
-  
-Lil_115p/ iha hi %ṣaṣ-akṣaras gāyatrī-caraṇas/ atas %ṣaṣ-antānām %eka-ādi-%eka-uttara-aṅkānām vyastānām krama-sthānām ca nyāsas {btabular} 6 & 5 & 4 & 3 & 2 & 1 \\ 1 & 2 & 3 & 4 & 5 & 6 {etabular} yathā-ukta-karaṇena labdhās %eka-guru-vyaktayas 6/ %dvi-guravas 15/ %tri-guravas 20/ %catur-guravas 15/ %pañca-guravas 6/ %ṣaṣ-gurus 1/ atha %ekas sarva-laghus  
-1/ evam āsām aikyam pāda-vyakti-mitis 64//  evam %catur-caraṇa-akṣara-saṃkhyakān yathā-uktam @vinyasya %eka-ādi-guru-bhedān @ānīya tān sa-%ekān @%ekī-kṛtya jātās gāyatrī-vṛtta-vyakti-saṃkhyās 16777216//  evam ukthā-ādi-utkṛti-paryantam chandasām vyakti-mitis jñātavyā//  udāharaṇam śilpe/  
-  
-Lil_116a/ %eka-%dvi-%tri-ādi-mūṣā-vahana-mitim aho @brūhi me bhūmi-bhartus harmye ramye %aṣṭa-mūṣe catura-viracite ślakṣṇa-śālā-viśāle/  
-  
-Lil_116c/ %eka-%dvi-%tri-ādi-yuktās madhura-kaṭu-kaṣāya-āmlaka-kṣāra-tiktais ekasmin %ṣaṣ-rasais @syus gaṇaka kati @vada vyañjane vyakti-bhedās//  
-  
-Lil_116p1/ mūṣā-nyāsas {btabular} 8 & 7 & 6 & 5 & 4 & 3 & 2 & 1 \\ 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 {etabular} labdhās %eka-%dvi-%tri-ādi-mūṣā-vahana-saṃkhyās {btabular} 8 & 28 & 56 & 70 & 56 & 28 & 8 & 1 \\ 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 {etabular} evam %aṣṭa-mūṣe rāja-gṛhe mūṣā-vahana-bhedās 255//  atha %dvitīya-udāharaṇam/ nyāsas {btabular} 6 & 5 & 4 & 3  
-& 2 & 1 \\ 1 & 2 & 3 & 4 & 5 & 6 {etabular} labdhās %eka-ādi-rasa-saṃyogena pṛthak vyaktayas/ {btabular} 6 & 15 & 20 & 15 & 6 & 1 \\ 1 & 2 & 3 & 4 & 5 & 6 {etabular} etāsām aikyam sarva-bhedās 63//  iti miśra-vyavahāras samāptas//    
+लिल्_८९प्२। अथ मिश्रक-व्यवहारे करण-सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_९०अ। प्रमाण-कालेन हतम् प्रमाणम् विमिश्र-कालेन हतम् फलम् च।  
+    
+लिल्_९०च्। स्व-योग-भक्ते च पृथक्-स्थिते ते मिश्र-आहते मूल-कला-अन्तरे @स्तस्। [आपटे: प्रथक्- < पृथक्-]  
+    
+लिल्_९०ए। यत् वा इष्ट-कर्म-आख्य-विधेस् तु मूलम् मिश्रात् च्युतम् तत् च कला-अन्तरम् @स्यात्॥  
+    
+लिल्_९०प्। उद्देशकस्।  
+    
+लिल्_९१अ। %पञ्चकेन %शतेन अब्दे मूलम् स्वम् सकल-अन्तरम्।  
+    
+लिल्_९१च्। सहस्रम् चेद् पृथक् तत्र @वद मूल-कला-अन्तरे॥  
+    
+लिल्_९१प्। न्यासस् {ब्तबुलर्} १ & १२ \\ १०० & १००० \\ ५ & * {एतबुलर्} लब्धे क्रमेण मूल-कला-अन्तरे ६२५। ३७५॥ अथ वा इष्ट-कर्मणा कल्पितम् इष्टम् #रूपम् १। उद्देशक-आलापवत् इष्ट-राशिस् इति-आदि-करणेन #रूपस्य वर्षे कला-अन्तरम् ३_५। एतद्-युतेन #रूपेण ८_५ दृष्टे १००० #रूप-गुणे भक्ते लब्धम् मूल-धनम् ६२५। एतत् मिश्रात् च्युतम् कला-अन्तरम् ३७५॥   
+मिश्र-अन्तरे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_९२अ। अथ प्रमाणैस् गुणितास् स्व-कालास् व्यतीत-काल-घ्न-फल-उद्धृतास् ते।  
+    
+लिल्_९२च्। स्व-योग-भक्तास् च विमिश्र-निघ्नास् प्रयुक्त-खण्डानि पृथक् @भवन्ति॥  
+    
+लिल्_९२प्। उद्देशकस्।  
+    
+लिल्_९३अ। यत् %पञ्चक-%त्रिक-%चतुष्क-%शतेन दत्तम् खण्डैस् %त्रिभिस् गणक निष्क-%शतम् %षष्-ऊनम्।  
+    
+लिल्_९३च्। मासेषु %सप्त-%दश-%पञ्चसु तुल्यम् आप्तम् खण्ड-%त्रये अपि हि फलम् @वद खण्ड-सङ्ख्याम्॥  
+    
+लिल्_९३प्। न्यासस् {ब्तबुलर्} १ & ७ & १ & १० & १ & ५ \\ १०० & * & १०० & * & १०० * \\ ५ & * & ३ & * & ४ & * {एतबुलर्} मिश्र-धनम् ९४। स्व-योगस् २३५_२१। [आपटे: स्व-योगस् २३५_२१। मिश्र-धनम् ९४।] लब्धानि यथा-क्रमम् खण्डानि २४। २८। ४२। %पञ्च-राशि-विधिना लब्धम् सम-कला-अन्तरम् ८_२_५॥ अथ मिश्र-अन्तरे करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_९४अ। प्रक्षेपकास् मिश्र-हतास् विभक्तास् प्रक्षेप-योगेण पृथक् फलानि॥  
+    
+लिल्_९४प्। अत्र उद्देशकस्।  
+    
+लिल्_९५अ। %पञ्चाशत् %एक-सहिता गणक %अष्टषष्टिस् %पञ्च-ऊनिता %नवतिस् आदि-धनानि येषाम्।  
+    
+लिल्_९५च्। प्राप्ता विमिश्रित-धनैस् %त्रिशती %त्रिभिस् तैस् वाणिज्यतस् @वद @विभज्य धनानि तेषाम्॥  
+    
+लिल्_९५प्। न्यासस् ५१। ६८। ८५। मिश्र-धनम् ३००। जातानि धनानि ७५। १००। १२५। एतानि आदि-धनैस् ऊनानि लाभास् २४। ३२। ४०॥ अथ वा मिश्र-धनम् ३००। आदि-धन-ऐक्येन २०४ ऊनम् सर्व-लाभ-योगस् ९६। अस्मिन् प्रक्षेप-गुणिते प्रक्षेप-योग-भक्ते लाभास् @भवन्ति २४। ३२। ४०॥ वापी-आदि-पूरणे करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_९६। @भजेत् छिदस् अंशैस् अथ तैस् विमिश्रैस् #रूपम् @भजेत् @स्यात् परिपूर्ति-कालस्॥  
+    
+लिल्_९६प्। उदाहरणम्।  
+    
+लिल्_९७अ। ये निर्झरास् दिन-दिन-%अर्ध-%तृतीय-%षष्ठैस् @सम्पूरयन्ति हि पृथक् पृथक् एव मुक्तास्।  
+    
+लिल्_९७च्। वापीम् यदा युगपद् एव सखे विमुक्तास् ते केन वासर-लवेन तदा @वद आशु॥  
+    
+लिल्_९७प्। न्यासस् १_१। १_२। १_३। १_६। लब्धस् वापी-पूरण-कालस् दिन-अंशस् १_१२॥ क्रय-विक्रये करण-सूत्रम् वृत्तम्।  
+    
+लिल्_९८अ। पण्यैस् स्व-मूल्यानि @भजेत् स्व-भागैस् @हत्वा तद्-ऐक्येन @भजेत् च तानि।  
+    
+लिल्_९८च्। भागान् च मिश्रेण धनेन @हत्वा मूल्यानि पण्यानि यथा-क्रमम् @स्युस्॥ [आपटे: क्रम < क्रमम्]  
+    
+लिल्_९८प्। उद्देशकस्।  
+    
+लिल्_९९अ। स-%अर्धम् तण्डुल-मानक-%त्रयम् अहो द्रम्मेण मान-%अष्टकम् मुद्गानाम् च यदि %त्रयोदश-मितास् एतास् वणिक् काकिणीस्।  
+    
+लिल्_९९च्। @आदाय @अर्पय तण्डुल-अंश-#युगलम् मुद्ग-%एक-भाग-अन्वितम् क्षिप्रम् क्षिप्र-भुजस् @व्रजेम हि यतस् स-अर्थस् अग्रतस् @यास्यति॥  
+    
+लिल्_९९प्। न्यासस्। मूल्ये १। १। पण्ये ७_२। ८_१। स्व-भागौ २_१। १_१। मिश्र-धनम् १३_६४। अत्र मूल्ये स्व-भाग-गुणिते पण्याभ्याम् भक्ते जाते ४_७। १_८। अनयोस् योगेन ३९_५६। एते ४_७। १_८ भागौ च १_२। १_१। मिश्र-धनेन १३_६४। @सङ्गुण्य भक्ते जाते तण्डुल-मुड्ग-मूल्ये १_६। ७_१९२। तथा तण्डुल-मुद्ग-माने भागौ ७_१२। ७_२४। अत्र तण्डुल-मूल्ये पणौ २ काकिण्यौ  
+२ वराटकास् १३। वराटक-भागस् च १_३। मुद्ग-मूल्ये [आपटे: मूद्ग- < मुद्ग-] काकिण्यौ २। वराटकास् ६। वराटक-भागौ च २_३॥ उदाहरणम्।  
+    
+लिल्_१००अ। कर्पूरस्य वरस्य निष्क-#युगलेन %एकम् पलम् @प्राप्यते वैश्या-नन्दन चन्दनस्य च पलम् द्रम्म-%अष्ट-भागेन चेद्।  
+    
+लिल्_१००च्। %अष्ट-अंशेन तथा अगरोस् पल-#दलम् निष्केण मे @देहि तान् भागैस् %एकक-%षोडश-%अष्टक-मितैस् धूपम् @चिकीर्षामि अहम्॥  
+    
+लिल्_१००प्। न्यासस्। मूल्यानि द्रम्मास् ३२_१। १_८। १_८। पण्यानि १_१। १_१। १_२। भागास् १_१। १६_१। ८_१। मिश्र-धनम् द्रम्मास् १६। लब्धानि कर्पूर-आदीनाम् मूल्यानि २_९। ८_९। ८_९। तथा तेषाम् पण्यानि ४_९। ६४_९। ३२_९॥ रत्न-मिश्रे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१०१अ। नर-घ्न-दान-ऊनित-रत्न-शेषैस् इष्टे हृते @स्युस् खलु मूल्य-सङ्ख्यास्।  
+    
+लिल्_१०१च्। शेषैस् हृते शेष-वधे पृथक्-स्थैस् अभिन्न-मूल्यानि अथ वा @भवन्ति॥  
+    
+लिल्_१०१प्। अत्र उद्देशकस्।  
+    
+लिल्_१०२अ। माणिक्य-%अष्टकम् इन्द्रनील-%दशकम् मुक्ताफलानाम् %शतम् सद्-वज्राणि च %पञ्च रत्न-वणिजाम् येषाम् %चतुर्णाम् धनम्।  
+    
+लिल्_१०२च्। सङ्ग-स्नेह-वशेन ते निज-धनात् @दत्त्वा %एकम् %एकम् मिथस् जातास् तुल्य-धनास् पृथक् @वद सखे तद्-रत्न-मूल्यानि मे॥  
+    
+लिल्_१०२प्। न्यासस् मा ८। नी १०। मु १००। व ५। दानम् १। नरास् ४। नर-गुणित-दानेन ४ रत्न-सङ्ख्यासु ऊनितासु शेषाणि मा ४। नी ६। मु ९६। व १। एतैस् इष्ट-राशौ भक्ते रत्न-मूल्यानि @स्युस् इति॥ तानि च यथा-कथम्-चित् इष्टे कल्पिते अभिन्नानि। अतस् अत्र इष्टम् तथा सुधिया @कल्प्यते यथा अभिन्नानि इति। तथा इष्टम् कल्पितम् ९६। अतस् जातानि मूल्यानि २४। १६। १।  
+९६। सम-धनम् २३३। अथ वा शेषाणाम् वधे २३०४ पृथक् शेषैस् भक्ते जातानि अभिन्नानि ५९६। ३८४। २४। २३०४। जनानाम् %चतुर्णाम् तुल्य-धनम् ५५९२। तेषाम् एते द्रम्मास् @सम्भाव्यन्ते॥ अथ सुवर्ण-गणिते करण-सूत्रम्।  
+    
+लिल्_१०३अ। सुवर्ण-वर्ण-आहति-योग-राशौ स्वर्ण-ऐक्य-भक्ते कनक-ऐक्य-वर्णस्।  
+    
+लिल्_१०३च्। वर्णस् @भवेत् शोधित-हेम-भक्ते वर्ण-उद्धृते शोधित-हेम-सङ्ख्या॥  
+    
+लिल्_१०३प्। उदाहरणानि।  
+    
+लिल्_१०४अ। #विश्व-#अर्क-#रुद्र-%दश-वर्ण-सुवर्ण-माषास् #दिश्-#वेद-#लोचन-#युग-प्रमितास् क्रमेण।  
+    
+लिल्_१०४च्। आवर्तितेषु @वद तेषु सुवर्ण-वर्णस् तूर्णम् सुवर्ण-गणित-ज्ञ वणिक् @भवेत् कस्॥  
+    
+लिल्_१०५अ। ते शोधने यदि च %विंशतिस् उक्त-माषास् @स्युस् %षोडश आशु @वद वर्ण-मितिस् तदा का।  
+    
+लिल्_१०५च्। चेद् शोधितम् @भवति %षोडश-वर्ण-हेम ते %विंशतिस् कति @भवन्ति तदा तु माषास्॥  
+    
+लिल्_१०५प्। न्यासस् {ब्तबुलर्} १३ & १२ & ११ & १० \\ १० & ४ & २ & ४ {एतबुलर्} जाता आवर्तिते सुवर्ण-वर्ण-मितिस् १२। एते एव यदि शोधितास् सन्तस् %षोडश माषास् @भवन्ति तदा वर्णास् १५। यदि ते च %षोडश वर्णास् तदा %पञ्चदश माषास् @भवन्ति १५॥ अथ वर्ण-ज्ञानाय करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१०६अ। स्वर्ण-ऐक्य-निघ्नात् युति-जात-वर्णात् सुवर्ण-तद्-वर्ण-वध-ऐक्य-हीनात्।  
+    
+लिल्_१०६च्। अज्ञात-वर्ण-अग्नि-ज-सङ्ख्यया आप्तम् अज्ञात-वर्णस्य @भवेत् प्रमाणम्॥  
+    
+लिल्_१०६प्। उदाहरणम्।  
+    
+लिल्_१०७अ। %दश-#ईश-वर्णास् #वसु-#नेत्र-माषास् अज्ञात-वर्णस्य षट् एतद्-ऐक्ये।  
+    
+लिल्_१०७च्। जातम् सखे %द्वादशकम् सुवर्णम् अज्ञात-वर्णस्य @वद प्रमाणम्॥  
+    
+लिल्_१०७प्। न्यासस्। {ब्तबुलर्} १० & ११ & ० \\ ८ & २ & ६ {एतबुलर्} लब्ध-ज्ञात-वर्ण-मानम् १५॥ अथ सुवर्ण-ज्ञानाय करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१०८अ। स्वर्ण-ऐक्य-निघ्नस् युति-जात-वर्णस् स्वर्ण-घ्न-वर्ण-ऐक्य-वियोजितस् च।  
+    
+लिल्_१०८च्। अहेम-वर्ण-अग्नि-ज-योग-वर्ण-विश्लेष-भक्तस् अविदित-अग्नि-जम् @स्यात्॥  
+    
+लिल्_१०८प्। उदाहरणम्।  
+    
+लिल्_१०९अ। %दश-#इन्द्र-वर्णास् #गुण-#चन्द्र-माषास् किञ्चित् तथा %षोडशकस्य तेषाम्।  
+    
+लिल्_१०९च्। जातम् युतौ %द्वादशकम् सुवर्णम् कति इह ते %षोडश-वर्ण-माषास्॥  
+    
+लिल्_१०९प्। न्यासस् {ब्तबुलर्} १० & १४ & १६ \\ ३ & १ & ० {एतबुलर्} लब्धम् माष-मानम् १॥ अथ सुवर्ण-ज्ञानाय अन्यत् करण-सूत्रम् वृत्तम्।  
+    
+लिल्_११०अ। साध्येन ऊनस् अनल्प-वर्णस् विधेयस् साध्यस् वर्णस् स्वल्प-वर्ण-ऊनितस् च।  
+    
+लिल्_११०च्। इष्ट-क्षुण्णे शेषके स्वर्ण-माने @स्याताम् स्वल्प-अनल्पयोस् वर्णयोस् ते॥  
+    
+लिल्_११०प्। उदाहरणम्।  
+    
+लिल्_१११अ। हाटक-गुटिके %षोडश-%दश-वर्णे तद्-युतौ सखे जातम्।  
+    
+लिल्_१११च्। %द्वादश-वर्ण-सुवर्णम् @ब्रूहि तयोस् स्वर्ण-माने मे॥  
+लिल्_१११प्। न्यासस् १६। १०। साध्यस् वर्णस् १२। कल्पितम् इष्टम् १। लब्धे सुवर्ण-माने {ब्तबुलर्} १६ & १० \\ २ & ४ {एतबुलर्} अथ वा %द्विकेन इष्टेन {ब्तबुलर्} १६ & १० \\ ४ & ८ {एतबुलर्} %अर्ध-गुणितेन वा {ब्तबुलर्} १६ & १० \\ १ & २ {एतबुलर्} एवम् बहुधा॥ अथ छन्दस्-चिति-आदौ करण-सूत्रम् श्लोक-%त्रयम्।  
+    
+लिल्_११२अ। %एक-आदि-एक-उत्तरास् अङ्कास् व्यस्तास् भाज्यास् क्रम-स्थितैस्।  
+    
+लिल्_११२च्। परस् पूर्वेण सङ्गुण्यस् तद्-परस् तेन तेन च॥  
+    
+लिल्_११३अ। %एक-%द्वि-%त्रि-आदि-भेदास् @स्युस् इदम् साधारणम् स्मृतम्।  
+लिल्_११३च्। छन्दस्-चिति-उत्तरे छन्दसि उपयोगस् अस्य तद्-विदाम्॥  
+    
+लिल्_११४अ। मूषा-वहन-भेद-आदौ खण्ड-मेरौ च शिल्पके।  
+    
+लिल्_११४च्। वैद्यके रस-भेदीये तत् न उक्तम् विस्तृतेस् भयात्॥  
+    
+लिल्_११४प्। तत्र छन्दस्-चिति-उत्तरे किञ्चित् उदाहरणम्।  
+    
+लिल्_११५अ। प्रस्तारे मित्र गायत्र्यास् @स्युस् पादे व्यक्तयस् कति।  
+    
+लिल्_११५च्। %एक-आदि-गुरवस् च आशु कति कति @उच्यताम् पृथक्॥  
+    
+लिल्_११५प्। इह हि %षष्-अक्षरस् गायत्री-चरणस्। अतस् %षष्-अन्तानाम् %एक-आदि-%एक-उत्तर-अङ्कानाम् व्यस्तानाम् क्रम-स्थानाम् च न्यासस् {ब्तबुलर्} ६ & ५ & ४ & ३ & २ & १ \\ १ & २ & ३ & ४ & ५ & ६ {एतबुलर्} यथा-उक्त-करणेन लब्धास् %एक-गुरु-व्यक्तयस् ६। %द्वि-गुरवस् १५। %त्रि-गुरवस् २०। %चतुर्-गुरवस् १५। %पञ्च-गुरवस् ६। %षष्-गुरुस् १। अथ %एकस् सर्व-लघुस्  
+१। एवम् आसाम् ऐक्यम् पाद-व्यक्ति-मितिस् ६४॥ एवम् %चतुर्-चरण-अक्षर-सङ्ख्यकान् यथा-उक्तम् @विन्यस्य %एक-आदि-गुरु-भेदान् @आनीय तान् स-%एकान् @%एकी-कृत्य जातास् गायत्री-वृत्त-व्यक्ति-सङ्ख्यास् १६७७७२१६॥ एवम् उक्था-आदि-उत्कृति-पर्यन्तम् छन्दसाम् व्यक्ति-मितिस् ज्ञातव्या॥ उदाहरणम् शिल्पे।  
+    
+लिल्_११६अ। %एक-%द्वि-%त्रि-आदि-मूषा-वहन-मितिम् अहो @ब्रूहि मे भूमि-भर्तुस् हर्म्ये रम्ये %अष्ट-मूषे चतुर-विरचिते श्लक्ष्ण-शाला-विशाले।  
+    
+लिल्_११६च्। %एक-%द्वि-%त्रि-आदि-युक्तास् मधुर-कटु-कषाय-आम्लक-क्षार-तिक्तैस् एकस्मिन् %षष्-रसैस् @स्युस् गणक कति @वद व्यञ्जने व्यक्ति-भेदास्॥  
+    
+लिल्_११६प्१। मूषा-न्यासस् {ब्तबुलर्} ८ & ७ & ६ & ५ & ४ & ३ & २ & १ \\ १ & २ & ३ & ४ & ५ & ६ & ७ & ८ {एतबुलर्} लब्धास् %एक-%द्वि-%त्रि-आदि-मूषा-वहन-सङ्ख्यास् {ब्तबुलर्} ८ & २८ & ५६ & ७० & ५६ & २८ & ८ & १ \\ १ & २ & ३ & ४ & ५ & ६ & ७ & ८ {एतबुलर्} एवम् %अष्ट-मूषे राज-गृहे मूषा-वहन-भेदास् २५५॥ अथ %द्वितीय-उदाहरणम्। न्यासस् {ब्तबुलर्} ६ & ५ & ४ & ३  
+& २ & १ \\ १ & २ & ३ & ४ & ५ & ६ {एतबुलर्} लब्धास् %एक-आदि-रस-संयोगेन पृथक् व्यक्तयस्। {ब्तबुलर्} ६ & १५ & २० & १५ & ६ & १ \\ १ & २ & ३ & ४ & ५ & ६ {एतबुलर्} एतासाम् ऐक्यम् सर्व-भेदास् ६३॥ इति मिश्र-व्यवहारस् समाप्तस्॥  
 
-[śreḍhī-vyavahāra]  
+[श्रेढी-व्यवहार]
 
-Lil_116p2/ atha śreḍhī-vyavahāras//  tatra saṃkalita-aikye karaṇa-sūtram vṛttam/  
-  
-Lil_117a/ sa-%eka-pada-ghna-pada-%ardham atha %eka-ādi-aṅka-yutis kila saṃkalita-ākhyā/  
-  
-Lil_117c/ sā %dvi-yutena padena vinighnī @syāt %tri-hṛtā khalu saṃkalita-aikyam//  
-  
-Lil_117p/ udāharaṇam/  
-  
-Lil_118a/ %eka-ādīnām %nava-antānām pṛthak saṃkalitāni me/  
-  
-Lil_118c/ teṣām saṃkalita-aikyāni @pracakṣva gaṇaka drutam//  
-  
-Lil_118p/ nyāsas {btabular} * & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\ saṃkalitāni & 1 & 3 & 6 & 10 & 15 & 21 & 28 & 36 & 45 \\ eṣām aikyāni & 1 & 4 & 10 & 20 & 35 & 56 & 84 & 120 & 165 {etabular}  kṛti-ādi-yoge karaṇa-sūtram vṛttam/  
-  
-Lil_119a/ %dvi-ghna-padam #ku-yutam %tri-vibhaktam saṃkalitena hatam kṛti-yogas/  
-  
-Lil_119c/ saṃkalitasya kṛtes samam %eka-ādi-aṅka-ghana-aikyam udāhṛtam ādyais//  
-  
-Lil_119p/ udāharaṇam/  
-  
-Lil_120a/ teṣām eva ca varga-aikyam ghana-aikyam ca @vada drutam/  
-  
-Lil_120c/ kṛti-saṃkalanā-mārge kuśalā yadi te matis//  
-  
-Lil_120p/ nyāsas {btabular} * & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\ varga-aikyam & 1 & 5 & 14 & 30 & 55 & 91 & 140 & 204 & 285 \\ ghana-aikyam & 1 & 9 & 36 & 100 & 225 & 441 & 784 & 1296 & 2025 {etabular}  yathā-uttara-caye antya-ādi-dhana-jñānāya karaṇa-sūtram vṛttam/  
-  
-Lil_121a/ vi-%eka-pada-ghna-cayas mukha-yuk @syāt antya-dhanam mukha-yuk dalitam tat/  
-  
-Lil_121c/ madhya-dhanam pada-saṃguṇitam tat sarva-dhanam gaṇitam ca tat uktam//  
-  
-Lil_121p/ udāharaṇam/  
-  
-Lil_122a/ ādye dine dramma-%catuṣṭayam yas @dattvā dvijebhyas anu-dinam pravṛttas/  
-  
-Lil_122c/ dātum sakhe %pañca-cayena pakṣe drammās @vada drāk kati tena dattās//  
-  
-Lil_122p/ nyāsas/ ā 4/ ca 5/ ga 15/ madhya-dhanam 39/ antya-dhanam 74/ sarva-dhanam 575//  udāharaṇa-antaram/  
-  
-Lil_123a/ ādis %sapta cayas %pañca gacchas %aṣṭau yatra tatra me/  
-  
-Lil_123c/ madhya-antya-dhana-saṃkhye ke @vada sarva-dhanam ca kim//  
-  
-Lil_123p/ nyāsas/ ā 7/ ca 5/ ga 8/ madhya-dhanam 49_2/ antya-dhanam 42/ sarva-dhanam 196//  sama-dine gacche madhya-dina-abhāvāt madhyāt prāk-apara-dina-dhanayos yoga-%ardham madhya-dina-dhanam @bhavitum @arhati iti pratītis utpādyā//  mukha-jñānāya karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_124/ gaccha-hṛte gaṇite vadanam @syāt vi-%eka-pada-ghna-caya-%ardha-vihīne//  
-  
-Lil_124p/ udāharaṇam/  
-  
-Lil_125a/ %pañca-adhikam %śatam śreḍhī-phalam %sapta padam kila/  
-  
-Lil_125c/ cayam %trayam vayam @vidmas vadanam @vada nandana//  
-  
-Lil_125p/ nyāsas/ ā 0/ ca 3/ ga 7/ dha 105/ ādi-dhanam 6/ antya-dhanam 24/ madhya-dhanam 15//  caya-jñānāya karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_126/ gaccha-hṛtam dhanam ādi-vihīnam vi-%eka-pada-%ardha-hṛtam ca cayas @syāt//  
-  
-Lil_126p/ udāharaṇam/  
-  
-Lil_127a/ %prathamam @agamat ahnā yojane yas jana-īśas tad-anu nanu kayā asau @brūhi yātas adhva-vṛddhyā/  
-  
-Lil_127c/ ari-kari-haraṇa-artham yojanānām %aśītyā ripu-nagaram avāptas %sapta-rātreṇa dhīman//  
-  
-Lil_127p/ nyāsas/ ā 2/ ca 0/ ga 7/ dha 80/ labdham uttaram 22_7/ antya-dhanam 146_7/ madhya-dhanam 80_7//  gaccha-jñānāya karaṇa-sūtram vṛttam/  
-  
-Lil_128a/ śreḍhī-phalāt uttara-#locana-ghnāt caya-%ardha-vaktra-antara-varga-yuktāt/  
-  
-Lil_128c/ mūlam mukha-ūnam caya-#khaṇḍa-yuktam caya-uddhṛtam gaccham @udāharanti//  
-  
-Lil_128p/ udāharaṇam/  
-  
-Lil_129a/ dramma-%trayam yas %prathame ahni @dattvā @dātum pravṛttas %dvi-cayena tena/  
-  
-Lil_129c/ %śata-%trayam %ṣaṣṭi-adhikam dvijebhyas dattam kiyadbhis divasais @vada āśu//  
-  
-Lil_129p/ nyāsas/ ā 3/ ca 2/ ga 0/ dha 360/ antya-dhanam 37/ madhya-dhanam 20/ labdhas gacchas 18//  atha %dvi-guṇa-uttara-ādi-phala-ānayane karaṇa-sūtram sa-%ardhā āryā/  
-  
-Lil_130a/ viṣame gacche vi-%eke guṇakas sthāpyas same ardhite vargas/  
-  
-Lil_130c/ gaccha-kṣaya-antam antyāt vyastam guṇa-varga-jam phalam yat tat/  
-  
-Lil_130e/ vi-%ekam vi-%eka-guṇa-uddhṛtam ādi-guṇam @syāt guṇa-uttare gaṇitam//  
-  
-Lil_130p/ udāharaṇam/  
-  
-Lil_131a/ pūrvam varāṭaka-yugam yena %dvi-guṇa-uttaram pratijñātam/  
-  
-Lil_131c/ prati-aham arthi-janāya sas māse niṣkān @dadāti kati//  
-  
-Lil_131p/ nyāsas/ ādis 2/ cayas guṇas 2/ gacchas 30/ labdhās varāṭakās 2147483646/ niṣka-varāṭakābhis bhaktās jātās niṣkās 104857/ drammās 9/ paṇās 9/ kākiṇyau 2/ varāṭakās 6//  udāharaṇam/  
-  
-Lil_132a/ ādis %dvikam sakhe vṛddhis prati-aham %tri-guṇa-uttarā/  
-  
-Lil_132c/ gacchas %sapta-dinam yatra gaṇitam tatra kim @vada//  
-  
-Lil_132p/ nyāsas/ ādis 2/ cayas guṇas 3/ gacchas 7/ labdham gaṇitam 2186//  sama-ādi-vṛtta-jñānāya karaṇa-sūtram sa-%ardhā āryā/  
-  
-Lil_133a/ pāda-akṣara-mita-gacche guṇa-varga-phalam caye %dvi-guṇe/  
-  
-Lil_133c/ sama-vṛttānām saṃkhyā tad-vargas varga-vargas ca/  
-  
-Lil_133e/ sva-sva-pada-ūnau @syātām %ardha-samānām ca viṣamāṇām//  
-  
-Lil_133p/ udāharaṇam/  
-  
-Lil_134a/ samānām %ardha-tulyānām viṣamāṇām pṛthak pṛthak/  
-  
-Lil_134c/ vṛttānām @vada me saṃkhyām anuṣṭubh-chandasi drutam//  
-  
-Lil_134p1/ nyāsas/ uttaras %dvi-guṇas 2/ gacchas 8/ labdhās sama-vṛttānām saṃkhyās 256/ tathā %ardha-samānām ca 65280/ viṣamāṇām ca 4294901760//  iti śreḍhī-vyavahāras samāptas//    
+लिल्_११६प्२। अथ श्रेढी-व्यवहारस्॥ तत्र सङ्कलित-ऐक्ये करण-सूत्रम् वृत्तम्।  
+    
+लिल्_११७अ। स-%एक-पद-घ्न-पद-%अर्धम् अथ %एक-आदि-अङ्क-युतिस् किल सङ्कलित-आख्या।  
+    
+लिल्_११७च्। सा %द्वि-युतेन पदेन विनिघ्नी @स्यात् %त्रि-हृता खलु सङ्कलित-ऐक्यम्॥  
+    
+लिल्_११७प्। उदाहरणम्।  
+    
+लिल्_११८अ। %एक-आदीनाम् %नव-अन्तानाम् पृथक् सङ्कलितानि मे।  
+    
+लिल्_११८च्। तेषाम् सङ्कलित-ऐक्यानि @प्रचक्ष्व गणक द्रुतम्॥  
+    
+लिल्_११८प्। न्यासस् {ब्तबुलर्} * & १ & २ & ३ & ४ & ५ & ६ & ७ & ८ & ९ \\ सङ्कलितानि & १ & ३ & ६ & १० & १५ & २१ & २८ & ३६ & ४५ \\ एषाम् ऐक्यानि & १ & ४ & १० & २० & ३५ & ५६ & ८४ & १२० & १६५ {एतबुलर्} कृति-आदि-योगे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_११९अ। %द्वि-घ्न-पदम् #कु-युतम् %त्रि-विभक्तम् सङ्कलितेन हतम् कृति-योगस्।  
+    
+लिल्_११९च्। सङ्कलितस्य कृतेस् समम् %एक-आदि-अङ्क-घन-ऐक्यम् उदाहृतम् आद्यैस्॥  
+    
+लिल्_११९प्। उदाहरणम्।  
+    
+लिल्_१२०अ। तेषाम् एव च वर्ग-ऐक्यम् घन-ऐक्यम् च @वद द्रुतम्।  
+    
+लिल्_१२०च्। कृति-सङ्कलना-मार्गे कुशला यदि ते मतिस्॥  
+    
+लिल्_१२०प्। न्यासस् {ब्तबुलर्} * & १ & २ & ३ & ४ & ५ & ६ & ७ & ८ & ९ \\ वर्ग-ऐक्यम् & १ & ५ & १४ & ३० & ५५ & ९१ & १४० & २०४ & २८५ \\ घन-ऐक्यम् & १ & ९ & ३६ & १०० & २२५ & ४४१ & ७८४ & १२९६ & २०२५ {एतबुलर्} यथा-उत्तर-चये अन्त्य-आदि-धन-ज्ञानाय करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१२१अ। वि-%एक-पद-घ्न-चयस् मुख-युक् @स्यात् अन्त्य-धनम् मुख-युक् दलितम् तत्।  
+    
+लिल्_१२१च्। मध्य-धनम् पद-सङ्गुणितम् तत् सर्व-धनम् गणितम् च तत् उक्तम्॥  
+    
+लिल्_१२१प्। उदाहरणम्।  
+    
+लिल्_१२२अ। आद्ये दिने द्रम्म-%चतुष्टयम् यस् @दत्त्वा द्विजेभ्यस् अनु-दिनम् प्रवृत्तस्।  
+    
+लिल्_१२२च्। दातुम् सखे %पञ्च-चयेन पक्षे द्रम्मास् @वद द्राक् कति तेन दत्तास्॥  
+    
+लिल्_१२२प्। न्यासस्। आ ४। च ५। ग १५। मध्य-धनम् ३९। अन्त्य-धनम् ७४। सर्व-धनम् ५७५॥ उदाहरण-अन्तरम्।  
+    
+लिल्_१२३अ। आदिस् %सप्त चयस् %पञ्च गच्छस् %अष्टौ यत्र तत्र मे।  
+    
+लिल्_१२३च्। मध्य-अन्त्य-धन-सङ्ख्ये के @वद सर्व-धनम् च किम्॥  
+    
+लिल्_१२३प्। न्यासस्। आ ७। च ५। ग ८। मध्य-धनम् ४९_२। अन्त्य-धनम् ४२। सर्व-धनम् १९६॥ सम-दिने गच्छे मध्य-दिन-अभावात् मध्यात् प्राक्-अपर-दिन-धनयोस् योग-%अर्धम् मध्य-दिन-धनम् @भवितुम् @अर्हति इति प्रतीतिस् उत्पाद्या॥ मुख-ज्ञानाय करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_१२४। गच्छ-हृते गणिते वदनम् @स्यात् वि-%एक-पद-घ्न-चय-%अर्ध-विहीने॥  
+    
+लिल्_१२४प्। उदाहरणम्।  
+    
+लिल्_१२५अ। %पञ्च-अधिकम् %शतम् श्रेढी-फलम् %सप्त पदम् किल।  
+    
+लिल्_१२५च्। चयम् %त्रयम् वयम् @विद्मस् वदनम् @वद नन्दन॥  
+    
+लिल्_१२५प्। न्यासस्। आ ०। च ३। ग ७। ध १०५। आदि-धनम् ६। अन्त्य-धनम् २४। मध्य-धनम् १५॥ चय-ज्ञानाय करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_१२६। गच्छ-हृतम् धनम् आदि-विहीनम् वि-%एक-पद-%अर्ध-हृतम् च चयस् @स्यात्॥  
+    
+लिल्_१२६प्। उदाहरणम्।  
+    
+लिल्_१२७अ। %प्रथमम् @अगमत् अह्ना योजने यस् जन-ईशस् तद्-अनु ननु कया असौ @ब्रूहि यातस् अध्व-वृद्ध्या।  
+    
+लिल्_१२७च्। अरि-करि-हरण-अर्थम् योजनानाम् %अशीत्या रिपु-नगरम् अवाप्तस् %सप्त-रात्रेण धीमन्॥  
+    
+लिल्_१२७प्। न्यासस्। आ २। च ०। ग ७। ध ८०। लब्धम् उत्तरम् २२_७। अन्त्य-धनम् १४६_७। मध्य-धनम् ८०_७॥ गच्छ-ज्ञानाय करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१२८अ। श्रेढी-फलात् उत्तर-#लोचन-घ्नात् चय-%अर्ध-वक्त्र-अन्तर-वर्ग-युक्तात्।  
+    
+लिल्_१२८च्। मूलम् मुख-ऊनम् चय-#खण्ड-युक्तम् चय-उद्धृतम् गच्छम् @उदाहरन्ति॥  
+    
+लिल्_१२८प्। उदाहरणम्।  
+    
+लिल्_१२९अ। द्रम्म-%त्रयम् यस् %प्रथमे अह्नि @दत्त्वा @दातुम् प्रवृत्तस् %द्वि-चयेन तेन।  
+    
+लिल्_१२९च्। %शत-%त्रयम् %षष्टि-अधिकम् द्विजेभ्यस् दत्तम् कियद्भिस् दिवसैस् @वद आशु॥  
+    
+लिल्_१२९प्। न्यासस्। आ ३। च २। ग ०। ध ३६०। अन्त्य-धनम् ३७। मध्य-धनम् २०। लब्धस् गच्छस् १८॥ अथ %द्वि-गुण-उत्तर-आदि-फल-आनयने करण-सूत्रम् स-%अर्धा आर्या।  
+    
+लिल्_१३०अ। विषमे गच्छे वि-%एके गुणकस् स्थाप्यस् समे अर्धिते वर्गस्।  
+    
+लिल्_१३०च्। गच्छ-क्षय-अन्तम् अन्त्यात् व्यस्तम् गुण-वर्ग-जम् फलम् यत् तत्।  
+    
+लिल्_१३०ए। वि-%एकम् वि-%एक-गुण-उद्धृतम् आदि-गुणम् @स्यात् गुण-उत्तरे गणितम्॥  
+    
+लिल्_१३०प्। उदाहरणम्।  
+    
+लिल्_१३१अ। पूर्वम् वराटक-युगम् येन %द्वि-गुण-उत्तरम् प्रतिज्ञातम्।  
+    
+लिल्_१३१च्। प्रति-अहम् अर्थि-जनाय सस् मासे निष्कान् @ददाति कति॥  
+    
+लिल्_१३१प्। न्यासस्। आदिस् २। चयस् गुणस् २। गच्छस् ३०। लब्धास् वराटकास् २१४७४८३६४६। निष्क-वराटकाभिस् भक्तास् जातास् निष्कास् १०४८५७। द्रम्मास् ९। पणास् ९। काकिण्यौ २। वराटकास् ६॥ उदाहरणम्।  
+    
+लिल्_१३२अ। आदिस् %द्विकम् सखे वृद्धिस् प्रति-अहम् %त्रि-गुण-उत्तरा।  
+    
+लिल्_१३२च्। गच्छस् %सप्त-दिनम् यत्र गणितम् तत्र किम् @वद॥  
+    
+लिल्_१३२प्। न्यासस्। आदिस् २। चयस् गुणस् ३। गच्छस् ७। लब्धम् गणितम् २१८६॥ सम-आदि-वृत्त-ज्ञानाय करण-सूत्रम् स-%अर्धा आर्या।  
+    
+लिल्_१३३अ। पाद-अक्षर-मित-गच्छे गुण-वर्ग-फलम् चये %द्वि-गुणे।  
+    
+लिल्_१३३च्। सम-वृत्तानाम् सङ्ख्या तद्-वर्गस् वर्ग-वर्गस् च।  
+    
+लिल्_१३३ए। स्व-स्व-पद-ऊनौ @स्याताम् %अर्ध-समानाम् च विषमाणाम्॥  
+    
+लिल्_१३३प्। उदाहरणम्।  
+    
+लिल्_१३४अ। समानाम् %अर्ध-तुल्यानाम् विषमाणाम् पृथक् पृथक्।  
+    
+लिल्_१३४च्। वृत्तानाम् @वद मे सङ्ख्याम् अनुष्टुभ्-छन्दसि द्रुतम्॥  
+    
+लिल्_१३४प्१। न्यासस्। उत्तरस् %द्वि-गुणस् २। गच्छस् ८। लब्धास् सम-वृत्तानाम् सङ्ख्यास् २५६। तथा %अर्ध-समानाम् च ६५२८०। विषमाणाम् च ४२९४९०१७६०॥ इति श्रेढी-व्यवहारस् समाप्तस्॥  
 
-[End of part one in āpaṭe]  
+[एन्द् ओफ़् पर्त् ओने इन् आपटे]
 
-[kṣetra-vyavahāra]  
+[क्षेत्र-व्यवहार]
 
-Lil_134p2/ atha kṣetra-vyavahāras/ tatra bhuja-koṭi-karṇānām anyatamābhyām anyatama-ānayanāya karaṇa-sūtram vṛtta-%dvayam/  
-  
-Lil_135a/ iṣṭas bāhus yas @syāt tad-spardhinyām diśi itaras bāhus/  
-  
-Lil_135c/ %tri-asre %catur-asre vā sā koṭis kīrtitā tad-jñais//  
-  
-Lil_136a/ tad-kṛtyos yoga-padam karṇas dos-karṇa-vargayos vivarāt/  
-  
-Lil_136c/ mūlam koṭis koṭi-śruti-kṛtyos antarāt padam bāhus//  
-  
-Lil_136p/ udāharaṇam/  
-  
-Lil_137a/ koṭis %catuṣṭayam yatra dos %trayam tatra kā śrutis/  
-  
-Lil_137c/ koṭi-dos-karṇatas koṭi-śrutibhyām ca bhujam @vada//  
-  
-Lil_137p/ nyāsas/ [fig.1] koṭis 4/ bhujas 3/ bhuja-vargas 9/ koṭi-vargas 16/ etayos yogāt 25/ mūlam 5/ karṇas jātas//  atha karṇa-bhujābhyām koṭi-ānayanam/ nyāsas/ karṇas 5/ bhujas 3/ anayos varga-antaram 16/ etad-mūlam koṭis 4//  atha koṭi-karṇābhyām bhuja-ānayanam/ nyāsas/ koṭis 4/ karṇas 5/ anayos varga-antaram 9/ etad-mūlam bhujas 3//  atha prakāra-antareṇa  
-tad-jñānāya karaṇa-sūtram sa-%ardha-vṛttam/  
-  
-Lil_138a/ rāśyos antara-vargeṇa %dvi-ghne ghāte yute tayos/  
-  
-Lil_138c/ varga-yogas @bhavet evam tayos yoga-antara-āhatis/  
-  
-Lil_138e/ varga-antaram @bhavet evam jñeyam sarvatra dhīmatā//  
-  
-Lil_138p/ koṭis %catuṣṭayam iti pūrva-ukta-udāharaṇe nyāsas/ koṭis 4/ bhujas 3/ anayos ghāte 12/ %dvi-ghne 24/ antara-vargeṇa 1 yute varga-yogas 25/ asya mūlam karṇas 5// atha karṇa-bhujābhyām koṭi-ānayanam/ nyāsas/ karṇas 5/ bhujas 3/ anayos yogas 8/ punar etayos antareṇa 2 hatas varga-antaram 16/ asya mūlam koṭis 4//  atha bhuja-jñānam/ nyāsas/ koṭis  
-4/ karṇas 5/ evam jātas bhujas 3//  udāharaṇam/  
-  
-Lil_139a/ sa-#aṅghri-%traya-mitas bāhus yatra koṭis ca tāvatī/  
-  
-Lil_139c/ tatra karṇa-pramāṇam kim gaṇaka @brūhi me drutam//  
-  
-Lil_139p/ nyāsas/ [fig.2] bhujas 13_4/ koṭis 13_4/ anayos vargayos yogas 169_8/ asya mūla-abhāvāt karaṇī-gatas eva ayam karṇas/ asya āsanna-mūla-jñāna-artham upāyas/  
-  
-Lil_140a/ vargeṇa mahatā iṣṭena hatāt cheda-aṃśayos vadhāt/  
-  
-Lil_140c/ padam guṇa-pada-kṣuṇṇa-chid-bhaktam nikaṭam @bhavet//  
-  
-Lil_140p/ iyam karṇa-karaṇī 169_8/ asyās cheda-aṃśa-ghātas 1352/ %ayuta-ghnas 13520000 asya āsanna-mūlam 3677/ idam guṇa-mūla-100-guṇita-chedena 800 bhaktam labdham āsanna-padam 4_477_800/ ayam karṇas/ evam sarvatra//  atha %tri-asra-jātye karaṇa-sūtram vṛtta-%dvayam/  
-  
-Lil_141a/ iṣṭas bhujas asmāt %dvi-guṇa-iṣṭa-nighnāt iṣṭasya kṛtyā %eka-viyuktayā āptam/  
-  
-Lil_141c/ koṭis pṛthak sā iṣṭa-guṇā bhuja-ūnā karṇas @bhavet %tri-asram idam tu jātyam//  
-  
-Lil_142a/ iṣṭas bhujas tad-kṛtis iṣṭa-bhaktā %dvis sthāpitā iṣṭa-ūna-yutā ardhitā vā/  
-  
-Lil_142c/ tau koṭi-karṇau iti koṭitas vā bāhu-śrutī vā akaraṇī-gate @stas//  
-  
-Lil_142p/ udāharaṇam/  
-  
-Lil_143a/ bhuje %dvādaśake yau yau koṭi-karṇau anekadhā/  
-  
-Lil_143c/ prakārābhyām @vada kṣipram tau tau akaraṇī-gatau//  
-  
-Lil_143p/ nyāsas/ iṣṭas bhujas 12/ iṣṭam 2 anena %dvi-guṇena 4 guṇitas bhujas 48/ iṣṭa-2-kṛtyā 4 %eka-ūnayā 3 bhaktas labdhā koṭis 16/ iyam iṣṭa-guṇā 32 bhuja-ūnā 12 jātas karṇas 20//  %trikeṇa iṣṭena vā koṭis 9/ karṇas 15//  %pañcakena vā koṭis 5/ karṇas 13 iti-ādi//  atha %dvitīya-prakāreṇa/ nyāsas/ iṣṭas bhujas 12/ asya kṛtis 144/ iṣṭena 2 bhaktā labdham  
-72/ iṣṭena 2 ūna-70-yutau 74 ardhitau jātau koṭi-karṇau 35/ 37//  %catuṣṭayena vā koṭis 16/ karṇas 20//  %ṣaṭkena vā koṭis 9/ karṇas 15//  atha iṣṭa-karṇāt koṭi-bhuja-ānayane karaṇa-sūtram vṛttam/  
-  
-Lil_144a/ iṣṭena nighnāt %dvi-guṇāt ca karṇāt iṣṭasya kṛtyā %eka-yujā yat āptam/  
-  
-Lil_144c/ koṭis @bhavet sā pṛthak iṣṭa-nighnī tad-karṇayos antaram atra bāhus//  
-  
-Lil_144p/ udāharaṇam/  
-  
-Lil_145a/ %pañcāśīti-mite karṇe yau yau akaraṇī-gatau/  
-  
-Lil_145c/ @syātām koṭi-bhujau tau tau @vada kovida satvaram//  
-  
-Lil_145p/ nyāsas/ karṇas 85/ ayam %dvi-guṇas 170/ %dvikena iṣṭena hatas 340/ iṣṭa-2-kṛtyā 4 sa-%ekayā 5 bhakte jātā koṭis 68/ iyam iṣṭa-guṇā 136/ karṇa-85-ūnitā jātas bhujas 51//  %catuṣkeṇa iṣṭena vā/ koṭis 40 bhujas 75//  punar prakāra-antareṇa tad-karaṇa-sūtram vṛttam/  
-  
-Lil_146a/ iṣṭa-vargeṇa sa-%ekena %dvi-ghnas karṇas atha vā hatas/  
-  
-Lil_146c/ phala-ūnas śravaṇas koṭis phalam iṣṭa-guṇam bhujas//  
-  
-Lil_146p/ pūrva-udāharaṇe nyāsas/ karṇas 85/ atra %dvikena iṣṭena jātau kila koṭi-bhujau 51/ 68/ %catuṣkeṇa vā koṭis 75/ bhujas 40/ atra dos-koṭyos nāma-bhedas eva kevalam na sva-rūpa-bhedas//  atha iṣṭābhyām bhuja-koṭi-karṇa-ānayane karaṇa-sūtram vṛttam/  
-  
-Lil_147a/ iṣṭayos āhatis %dvi-ghnī koṭis varga-antaram bhujas/  
-  
-Lil_147c/ kṛti-yogas tayos eva karṇas ca akaraṇī-gatas//  
-  
-Lil_147p/ udāharaṇam/  
-  
-Lil_148a/ yais yais %tri-asram @bhavet jātyam koṭi-dos-śravaṇais sakhe/  
-  
-Lil_148c/ %trīn api aviditān etān kṣipram @brūhi vicakṣaṇa//  
-  
-Lil_148p/ nyāsas/ atra iṣṭe 2/ 1/ ābhyām koṭi-bhuja-karṇās 4/ 3/ 5//  atha vā iṣṭe 2/ 3/ ābhyām koṭi-bhuja-karṇās 12/ 5/ 13//  atha vā 2/ 4/ ābhyām koṭi-bhuja-karṇās 16/ 12/ 20//  evam anyatra anekadhā//  karṇa-koṭi-yutau bhuje ca jñāte pṛthak-karaṇa-sūtram vṛttam/  
-  
-Lil_149a/ vaṃśa-agra-mūla-antara-bhūmi-vargas vaṃśa-uddhṛtas tena pṛthak yuta-ūnau/ [āpaṭe: -uddhṛtes   
-  
-Lil_149c/ vaṃśau tad-ardhe @bhavatas krameṇa vaṃśasya khaṇḍe śruti-koṭi-rūpe//  
-  
-Lil_149p/ udāharaṇam/  
-  
-Lil_150a/ yadi sama-bhuvi veṇus %dvi-%tri-pāṇi-pramāṇas gaṇaka pavana-vegāt %eka-deśe sas bhagnas/  
-  
-Lil_150c/ bhuvi nṛpa-mita-hasteṣu aṅga lagnam tad-agram @kathaya katiṣu mūlāt eṣas bhagnas kareṣu//  
-  
-Lil_150p/ nyāsas/ vaṃśa-agra-mūla-antara-bhūmis 16/ vaṃśas 32/ koṭi-karṇa-yutis 32/ bhujas 16/ jāte ūrdhva-adhas-khaṇḍe 20/ 12//  bāhu-karṇa-yoge dṛṣṭe koṭyām ca jñātāyām pṛthak-karaṇa-sūtram vṛttam/  
-  
-Lil_151a/ stambhasya vargas ahi-bila-antareṇa bhaktas phalam vyāla-bila-antarālāt/  
-  
-Lil_151c/ śodhyam tad-%ardha-pramitais karais @syāt bila-agratas vyāla-kalāpi-yogas//  
-  
-Lil_151p/ udāharaṇam/  
-  
-Lil_152a/ @asti stambha-tale bilam tad-upari krīḍā-śikhaṇḍī sthitas/  
-  
-Lil_152b/ stambhe hasta-%nava-ucchrite %tri-guṇite stambha-pramāṇa-antare/  
-  
-Lil_152c/ dṛṣṭvā ahim bilam āvrajantam @apatat tiryak sas tasya upari/  
-  
-Lil_152d/ kṣipram @brūhi tayos bilāt kati-karais sāmyena gatyos yutis//  
-  
-Lil_152p/ nyāsas/ stambhas 9/ ahi-bila-antaram 27/ jātās bila-yutyos madhye hastās 12//  koṭi-karṇa-antare bhuje ca dṛṣṭe pṛthak-karaṇa-sūtram vṛttam/  
-  
-Lil_153a/ bhujāt vargitāt koṭi-karṇa-antara-āptam dvidhā koṭi-karṇa-antareṇa ūna-yuktam/  
-  
-Lil_153c/ tad-%ardhe kramāt koṭi-karṇau bhavetām idam dhīmatā @āvedya sarvatra yojyam//  
-  
-Lil_154a/ sakhe padma-tad-majjana-sthāna-madhyam bhujas koṭi-karṇa-antaram padma-dṛśyam/  
-  
-Lil_154c/ nalas koṭis etad-mitam @syāt yat ambhas @vada evam @samānīya pānīya-mānam//  
-  
-Lil_154p/ udāharaṇam/  
-  
-Lil_155a/ cakra-krauñca-ākulita-salile kva api dṛṣṭam taḍāge toyāt ūrdhvam kamala-kalikā-agram vitasti-pramāṇam/  
-  
-Lil_155c/ mandam mandam calitam anilena āhatam hasta-#yugme tasmin magnam gaṇaka @kathaya kṣipram ambhas-pramāṇam//  
-  
-Lil_155p/ nyāsas/ koṭi-karṇa-antaram 1_2/ bhujas 2/ labdham jala-gāmbhīryam 15_4/ iyam koṭis 15_4/ iyam eva koṭis kalikā-māna-yutā jātas karṇas 17_4//  koṭi-%eka-deśena yute karṇe bhuje ca dṛṣṭe koṭi-karṇa-jñānāya karaṇa-sūtram vṛttam/  
-  
-Lil_156a/ %dvi-nighna-tāla-ucchriti-saṃyutam yat saras-antaram tena vibhājitāyās/  
-  
-Lil_156c/ tāla-ucchrites tāla-saras-antara-ghnyās uḍḍīna-mānam khalu @labhyate tat// [āpaṭe: khala < khalu]   
-  
-Lil_156p/ udāharaṇam/  
-  
-Lil_157a/ vṛkṣāt hasta-%śata-ucchrayāt %śata-#yuge vāpīm kapis kas api @agāt @uttīrya atha paras drutam śruti-pathena @uḍḍīya kimcit drumāt/  
-  
-Lil_157c/ jātā evam samatā tayos yadi gatau uḍḍīna-mānam kiyat vidvan ced su-pariśramas @asti gaṇite kṣipram tat @ācakṣva me//  
-  
-Lil_157p/ nyāsas/ vṛkṣa-vāpī-antaram 200/ vṛkṣa-ucchrāyas 100/ kabdham uḍḍīna-mānam 50/ koṭis 150/ karṇas 250/ bhujas 200//  bhuja-koṭyos yoge karṇe ca jñāte pṛthak-karaṇa-sūtram vṛttam/  
-  
-Lil_158a/ karṇasya vargāt %dvi-guṇāt viśodhyas dos-koṭi-yogas sva-guṇas asya mūlam/  
-  
-Lil_158c/ yogas dvidhā mūla-vihīna-yuktas @syātām tad-%ardhe bhuja-koṭi-māne//  
-  
-Lil_158p/ udāharaṇam/  
-  
-Lil_159a/ %daśa %sapta-adhikas karṇas %tri-adhikā %viṃśatis sakhe/  
-  
-Lil_159c/ bhuja-koṭi-yutis yatra tatra te me pṛthak @vada//  
-  
-Lil_159p/ nyāsas/ karṇas 17/ dos-koṭi-yogas 23/ jāte bhuja-koṭī 8/ 15//  udāharaṇam/  
-  
-Lil_160a/ dos-koṭyos antaram #śailās karṇas yatra %trayodaśa/  
-  
-Lil_160c/ bhuja-koṭī pṛthak tatra @vada āśu gaṇaka-uttama//  
-  
-Lil_160p/ nyāsas/ karṇas 13/ bhuja-koṭi-antaram 7/ labdhe bhuja-koṭī 5/ 12//  lamba-avabādhā-jñānāya karaṇa-sūtram vṛttam/  
-  
-Lil_161a/ anyonya-mūla-agra-ga-sūtra-yogāt veṇvos vadhe yoga-hṛte avalambas/  
-  
-Lil_161c/ vaṃśau sva-yogena hṛtau abhīṣṭa-bhū-ghnau ca lamba-ubhayatas ku-khaṇḍe//  
-  
-Lil_161p/ udāharaṇam/  
-  
-Lil_162a/ %pañcadaśa-%daśa-kara-ucchraya-veṇvos ajñāta-madhya-bhūmikayos/  
-  
-Lil_162c/ itaretara-mūla-agra-ga-sūtra-yutes lamba-mānam @ācakṣva//  
-  
-Lil_162p/ nyāsas/ vaṃśau 15/ 10 jātas lambas 6/ vaṃśa-antara-bhūs 5/ atas jāte bhū-khaṇḍe 3/2/ atha vā bhūs 10 khaṇḍe 6/4 vā bhūs 15/ khaṇḍe 9/6 vā bhūs 20 khaṇḍe 12/8//  evam sarvatra lambas sas eva/ yadi atra bhūmi-tulye bhuje vaṃśas koṭis tadā bhū-khaṇḍena kim iti trairāśikena sarvatra pratītis//  atha akṣetra-lakṣaṇa-sūtram/  
-  
-Lil_163a/ dhṛṣṭa-uddiṣṭam ṛju-bhuja-kṣetram yatra %eka-bāhutas su-alpā/  
-  
-Lil_163c/ tad-itara-bhuja-yutis atha vā tulyā jñeyam tat akṣetram// [āpaṭe: -yatis < -yutis]  
-  
-Lil_163p/ udāharaṇam/  
-  
-Lil_164a/ %catur-asre %tri-%ṣaṣ-%dvi-#arkās bhujās %tri-asre %tri-%ṣaṣ-%navās/  
-  
-Lil_164c/ uddiṣṭās yatra dhṛṣṭena tat akṣetram @vinirdiśet// [āpaṭe: dhaṣṭena < dhṛṣṭena]  
-  
-Lil_164p/ ete anupapanne kṣetre/ bhuja-pramāṇās ṛju-śalākās bhuja-sthāneṣu @vinyasya anupapattis darśanīyā// [āpaṭe: anapapattis < anupapattis]  ābādhā-ādi-jñānāya karaṇa-sūtram āryā-%dvayam/  
-  
-Lil_165a/ %tri-bhuje bhujayos yogas tad-antara-guṇas bhuvā hṛtas labdhyā/  
-  
-Lil_165c/ %dvis-sthā bhūs ūna-yutā dalitā ābādhe tayos @syātām//  
-  
-Lil_166a/ sva-ābādhā-bhuja-kṛtyos antara-mūlam @prajāyate lambas/  
-  
-Lil_166c/ lamba-guṇam bhūmi-%ardham spaṣṭam %tri-bhuje phalam @bhavati//  
-  
-Lil_166p/ udāharaṇam/  
-  
-Lil_167a/ kṣetre mahī manu-mitā %tri-bhuje bhujau tu yatra %trayodaśa-#tithi-pramitau ca yasya/  
-  
-Lil_167c/ tatra avalambakam atho @kathaya avabādhe kṣipram tathā ca sama-koṣṭha-mitim phala-ākhyam//  
-  
-Lil_167p/ nyāsas/ bhūs 14/ bhujau 13/15/ labdhe ābādhe 5/9/ lambaś ca 12/ kṣetra-phalam ca 84//  ṛṇa-ābādhā-udāharaṇam/  
-  
-Lil_168a/ %daśa-%saptadaśa-pramau hbujau %tri-bhuje yatra %nava-pramā mahī/  
-  
-Lil_168c/ abadhe @vada lambakam tathā gaṇitam gāṇitika āśu tatra me//  
-  
-Lil_168p/ nyāsas/ bhujau 10/17/ bhūmis 9/ atra %tri-bhuje bhujayos yogas iti-ādinā labdham 21/ anena bhūs ūnā na @syāt/ asmāt eva bhūs apanītā śeṣa-%ardham ṛṇa-gatā ābādhā diś-vaiparītyena iti arthas/ tathā jāte ābādhe 6/15/ atra ubhayatra api jātas lambas 8/ phalam 36//  %catur-bhuja-%tri-bhujayos aspaṣṭa-phala-ānayane karaṇa-sūtram vṛttam/  
-  
-Lil_169a/  sarva-dos-yuti-#dalam %catur-sthitam bāhubhis virahitam ca tad-vadhāt/  
-  
-Lil_169c/ mūlam asphuṭa-phalam %catur-bhuje spaṣṭam evam uditam %tri-bāhuke//  
-  
-Lil_169p/ udāharaṇam/  
-  
-Lil_170a/ bhūmis %caturdaśa-mitā mukham #aṅka-saṃkhyam bāhū %trayodaśa-#divākara-saṃmitau ca/  
-  
-Lil_170c/ lambas api yatra #ravi-saṃkhyakas eva tatra kṣetre phalam @kathaya tat kathitam yat ādyais//  
-  
-Lil_170p/ nyāsas/ bhūmis 14/ mukham 9/ bāhū 13/ 12/ lambas 12/ ukta-vat karaṇena jātam kṣetra-phalam karaṇī 19800/ asyās padam kiṃcid-nyūnam %ekacatvāriṃśacchatam 141/ idam atra kṣetre na vāstavam phalam kiṃtu lambena nighnam ku-mukha-aikya-#khaṇḍam iti vakṣyamāṇa-karaṇena vāstavam phalam 138//  atra %tri-bhujasya pūrva-udāhṛtasya nyāsas/ bhūmis 14/ bhujau  
-13/ 15/ anena api prakāreṇa %tri-bāhuke tat eva vāstavam phalam 84/ atra %catur-bhujasya aspaṣṭam uditam//  atha sthūlatva-nirūpaṇa-artham sūtram sa-%ardha-vṛttam/  
-  
-Lil_171a/ %catur-bhujasya aniyatau hi karṇau katham tatas asmin niyatam phalam @syāt/  
-  
-Lil_171c/ prasādhitau tad-śravaṇau yat ādyais sva-kalpitau tau itaratra na @stas/  
-  
-Lil_171e/ teṣu eva bāhuṣu aparau ca karṇau anekadhā kṣetra-phalam tatas ca//  
-Lil_171p1/ %catur-bhuje hi %eka-antara-koṇau @ākramya antar-praveśyamānau bhujau tad-saṃsaktam sva-karṇam @saṃkocayatas/ itarau tu bahis-prasarantau sva-karṇam @vardhayatas/ atas uktam teṣu eva bāhuṣu aparau ca karṇau iti//  
-  
-Lil_171ex.a/ lambayos karṇayos vā %ekam @anirdiśya aparam katham/  
-  
-Lil_171ex.c/ @pṛcchati aniyatatve api niyatam ca api tad-phalam//  
-  
-Lil_171ex.e/ sas pṛcchakas piśācas vā vaktā vā nitarām tatas/  
-  
-Lil_171ex.g/ yas na @vetti %catur-bāhu-kṣetrasya aniyatām sthitim// [no numbers are given to these two śloka stanśas in āpaṭe.]  
-  
-Lil_171p2/ sama-catur-bhuja-āyatayos phala-ānayane karaṇa-sūtram sa-ardha-śloka-dvayam/  
-  
-Lil_172a/ iṣṭā śrutis tulya-%catur-bhujasya kalpyā atha tad-varga-vivarjitā yā/  
-  
-Lil_172c/ %catur-guṇā bāhu-kṛtis tadīyam mūlam %dvitīya-śravaṇa-pramāṇam//  
-  
-Lil_173a/ atulya-karṇa-abhihatis %dvi-bhaktā phalam sphuṭam tulya-%catur-bhuje @syāt/  
-  
-Lil_173c/ sama-śrutau tulya-%catur-bhuje ca tathā āyate tad-bhuja-koṭi-ghātas/  
-  
-Lil_173e/ %catur-bhuje anyatra samāna-lambe lambena nighnam ku-mukha-aikya-#khaṇḍam//  
-  
-Lil_173p/ atra uddeśakas/  
-  
-Lil_174a/ kṣetrasya %pañca-kṛti-tulya-%catur-bhujasya karṇau tatas ca gaṇitam gaṇaka @pracakṣva/   
-  
-Lil_174c/ tulya-śrutes ca khalu  tasya tathā āyatasya yad-vistṛtis #rasa-mitā %aṣṭa-mitam ca dairghyam//  
-  
-Lil_174p/ %prathama-udāharaṇe nyāsas [fig.3]/ bhujās 25/ 25/ 25/ 25/ atra %triṃśat-30-mitām %ekām śrutim @prakalpya yathā-ukta-prakāreṇa jātā anyā śrutis 40/  phalam ca 600//  atha vā/ nyāsas [fig.4]/ %caturdaśa-14-mitām %ekām śrutim @prakalpya ukta-vat-karaṇena jātā anyā śrutis 48/  phalam ca 336//  %dvitīya-udāharaṇe nyāsas [fig.5]/ tad-kṛtyos yoga-padam  
-karṇa iti jātā karaṇī-gatā śrutis ubhayatra tulyā eva 1250/ gaṇitam ca 625//  atha āyatasya nyāsas/ vistṛtis 6/ dairghyam 8/ [fig.6] asya gaṇitam 48//  udāharaṇam/  
-  
-Lil_175a/ kṣetrasya yasya vadanam #madanāri-tulyam viśvaṃbharā %dvi-guṇitena mukhena tulyā/  
-  
-Lil_175c/ bāhū %trayodaśa-#nakha-pramitau ca lambas #sūrya-unmitas ca gaṇitam @vada tatra kim @syāt//  
-  
-Lil_175p/ nyāsas/ vadanam 11/ viśvaṃbharā 22/ bāhū 13/ 20/ lambas 12/ [fig.7] atra sarva-dos-yuti-#dalam iti-ādinā sthūla-phalam 250/ vāstavam tu lambena nighnam ku-mukha-aikya-#khaṇḍam iti jātam phalam 198/ kṣetrasya khaṇḍa-%trayam @kṛtvā phalāni pṛthak @ānīya aikyam @kṛtvā asya phala-upapattis darśanīyā/ khaṇḍa-%traya-darśanam/ [fig.8a][fig.8b][fig.8c]   
-nyāsas/ %prathamasya bhuja-koṭi-karṇās 5/ 12/ 13/ %dvitīyasya āyatasya vistṛtis 6/ dairghyam 12/ %tṛtīyasya bhuja-koṭi-karṇās 16/ 12/ 20/ atra %tri-bhujayos kṣetrayos bhuja-koṭi-ghāta-%ardham phalam/ āyate %catur-asre kṣetre tad-bhuja-koṭi-ghātas phalam / yathā %prathama-kṣetre phalam 30/ %dvitīye 72/ %tṛtīye 96/ eṣām aikyam sarva-kṣetre phalam 198//  atha  
-anyat udāharaṇam/  
-  
-Lil_176a/ %pañcāśat %eka-sahitā vadanam yadīyam bhūs %pañcasaptati-mitā pramitas %aṣṭaṣaṣṭyā/  
-  
-Lil_176c/ savyas bhujas %dvi-guṇa-%viṃśati-saṃmitas anyas tasmin phalam śravaṇa-lamba-mitī @pracakṣva//  
-  
-Lil_176p/ nyāsas/ vadanam 51/ bhūmis 75/ bhujau 68/ 40// [fig.9]  atra phala-avalamba-śrutīnām sūtram vṛtta-%ardham/  
-  
-Lil_177/ jñāte avalambe śravaṇas śrutau tu lambas phalam @syāt niyatam tu tatra//  
-  
-Lil_177p/ karṇasya aniyatatvāt lambas api aniyatas iti arthas//  lamba-jñānāya karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_178/ %catur-bhuja-antar-%tri-bhuje avalambas prāk-vat bhujau karṇa-bhujau mahī bhūs//  
-  
-Lil_178p/ atra lamba-jñāna-artham savya-bhuja-agrāt dakṣiṇa-bhuja-mūla-gāmī iṣṭa-karṇas %saptasaptati-mitas kalpitas tena %catur-bhuja-antar-%tri-bhujam kalpitam tatra asau karṇa %ekas bhujas 77/ %dvitīyas tu savya-bhujas 68/ bhūs sā eva 75/ atra prāk-vat labdhas lambas 308_5//  lambe jñāte karṇa-jñāna-artham sūtram vṛttam/  
-  
-Lil_179a/ yat lamba-lamba-āśrita-bāhu-varga-viśleṣa-mūlam kathitā avabādhā/  
-  
-Lil_179c/ tad-ūna-bhū-varga-samanvitasya yat lamba-vargasya padam sas karṇas//  
-  
-Lil_179p/ [fig.10] atra savya-bhuja-agrāt lambas kila kalpitas 308_5/ atas jātā ābādhā 144_5 tad-ūna-bhū-varga-samanvitasya iti-ādinā jātas karṇas 77// %dvitīya-karṇa-jñāna-artham sūtram vṛtta-%dvayam/  
-  
-Lil_180a/ iṣṭas atra karṇas %prathamam prakalpyas %tri-asre tu karṇa-ubhayatas sthite ye/  
-  
-Lil_180c/ karṇam tayos kṣmām itarau ca bāhū @prakalpya lamba-avabadhe ca sādhye//  
-  
-Lil_181a/ ābādhayos %eka-kakubh-sthayos yat @syāt antaram tat kṛti-saṃyutasya/  
-  
-Lil_181c/ lamba-aikya-vargasya padam %dvitīyas karṇas @bhavet sarva-%catur-bhujeṣu//  
-  
-Lil_181p/ nyāsas/ tatra %catur-bhuje savya-bhuja-agrāt dakṣiṇa-bhuja-mūla-gāminas karṇasya mānam kalpitam 77/ tad-karṇa-rekhā-avacchinnasya kṣetrasya madhye karṇa-rekhā-ubhayatas ye %tri-asre utpanne tayos karṇam bhūmim tad-itarau ca bhujau @prakalpya prāk-vat lambas ābādhā ca sādhitā/ tad-darśanam [fig.11]  lambas 60/ %dvitīya-lambas 24/ ābādhayos 45/  
-32/ %eka-kakubh-sthayos antarasya 13/ kṛtes 169 lamba-aikya-84-kṛtes 7056 ca yogas 7225/ tasya padam %dvitīya-karṇa-pramāṇam 85// [fig.12]  atra iṣṭa-karṇa-kalpane viśeṣa-ukti-sūtram sa-%ardha-vṛttam/  
-  
-Lil_182a/ karṇa-āśrita-su-alpa-bhuja-aikyam urvīm @prakalpya tad-śeṣa-bhujau ca bāhū/  
-  
-Lil_182c/ sādhyas avalambas atha tathā anya-karṇas sva-urvyās katham-cit śravaṇas na dīrghas/  
-  
-Lil_182e/ tad-anya-lambāt na laghus tathā idam @jñātvā iṣṭa-karṇas sudhiyā prakalpyas//  
-  
-Lil_182p/ %catur-bhuje hi %eka-antara-koṇau @ākramya saṃkocyamānam %tri-bhujatvam @yāti/ tatra %eka-koṇe lagna-laghu-bhujayos aikyam bhūmim itarau bhujau ca @prakalpya tad-lambāt ūnas saṃkocyamānas karṇas katham-cit api na @syāt tad-itaras bhūmes adhikas na @syāt evam ubhayathā api etat anuktam api buddhi-matā @jñāyate//  viṣama-%catur-bhuja-phala-ānayanāya  
-karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_183/ %tri-asre tu karṇa-ubhayatas sthite ye tayos phala-aikyam phalam atra nūnam//  
-  
-Lil_183p/ anantara-ukta-kṣetra-antar-%tri-asrayos phale 924/ 2310 [/] anayos aikyam 3234 tasya phalam//  samāna-lambasya ābādhā-ādi-jñānāya karaṇa-sūtram vṛtta-%dvayam/  
-  
-Lil_184a/ samāna-lambasya %catur-bhujasya mukha-ūna-bhūmim @parikalpya bhūmim/  
-Lil_184c/ bhujau bhujau %tri-asra-vat eva sādhye tasya abadhe lamba-mitis tatas ca//  
-  
-Lil_185a/ ābādhayā ūnā %catur-asra-bhūmis tad-lamba-varga-aikya-padam śrutis @syāt/  
-  
-Lil_185c/ samāna-lambe laghu-dos-ku-yogāt mukha-anya-dos-saṃyutis alpikā @syāt//  
-  
-Lil_185p/ udāharaṇam/  
-  
-Lil_186a/ %dvipañcāśat-mita-vi-%eka-%catvāriṃśat-mitau bhujau/  
-  
-Lil_186c/ mukham tu %pañcaviṃśatyā tulyam %ṣaṣṭyā mahī kila//  
-  
-Lil_187a/ atulya-lambakam kṣetram idam pūrvais udāhṛtam/  
-  
-Lil_187c/ %ṣaṭpañcāśat %triṣaṣṭis ca niyate karṇayos mitī/  
-  
-Lil_187e/ karṇau tatra aparau @brūhi sama-lambam ca tad-śrutī//  
-  
-Lil_187p/ nyāsas/ [fig.13] atra bṛhat-karṇam %triṣaṣṭi-mitam @prakalpya jñātas [ed.jātas] prāk-vat anya-karṇas 56//  atha %ṣaṭpañcāśat-sthāne %dvātriṃśat-mitam karṇam 32 @prakalpya prāk-vat sādhyamāne karṇe nyāsas/ [fig.14] jātam karaṇī-khaṇḍa-%dvayam 621/ 2700/ anayos mūlayos 24_23_25/ 51_24_25/ aikyam %dvitīyas karṇas 76_22_25//  atha tat eva kṣetram  
-ced sama-lambam[/] [fig.15] mukha-ūna-bhūmim @prakalpya bhūmim iti jñāna-artham %tri-asram kalpitam/ nyāsas/ [fig.16] atra ābādhe jāte 3_5/ 172_5/ lambas ca karaṇī-gatas jātas 38016_25[/] āsanna-mūla-karaṇena jātas 38_622_625/ ayam tatra %catur-bhuje sama-lambas[/] laghu-ābādhā-ūnita-bhūmes sama-lambasya ca varga-yogas 5049[/] ayam karṇa-vargas/ evam bṛhat-ābādhātas  
-%dvitīya-karṇa-vargas 2176/ anayos āsanna-mūla-karaṇena jātau karṇau 71_1_20[/] 46_13_20[/] evam %catur-asre teṣu eva bāhuṣu anyau karṇau bahudhā @bhavatas//  evam aniyatatve api niyatau eva karṇau ānītau brahmagupta-ādyais tad-ānayanam yathā/   
-  
-Lil_188a/ karṇa-āśrita-bhuja-ghāta-aikyam ubhayathā anyonya-bhājitam @guṇayet/  
-  
-Lil_188c/ yogena bhuja-pratibhuja-vadhayos karṇau pade viṣame//  
-  
-Lil_188p/ nyāsas/ karṇa-āśrita-bhuja-ghāta-ity %eka-vāram anayos 25/ 39 ghātas 975/ tathā 52/ 60 anayos ghātas 3120/ ghātayos %dvayos aikyam 4095/ tathā %dvtīya-vāram 25/ 52/ anayos ghāte jātam 1300/ tathā %dvitīya-vāram 39/ 60/ anayos ghāte jātam 2340/ [tathā 25/ 52 anayos ghāte jātam 1300/] ghātayos %dvayos aikyam 3640/ bhuja-pratibhujayos 52/ 39 ghātas  
-2028/ paścāt 25/ 60 anayos vadhas 1500/ tayos aikyam 3528/ anena aikyena 3640 guṇitam jātam pūrva-aikyam 12841920/ %prathama-karṇa-āśrita-bhuja-ghāta-aikyena 4095 bhaktam labdham 3136/ asya mūlam 56 %eka-karṇas/ tathā %dvitīya-karṇa-artham %prathama-karṇa-āśrita-bhuja-ghāta-aikyam 4095 bhuja-pratibhuja-vadha-yoga-3528-guṇitam jātam 14447160/  
-anya-karṇa-āśrita-ghāta-aikyena 3640 bhaktam labdham 3969/ asya mūlam 63 %dvitīyas karṇas//  asmin viṣaye kṣetra-karṇa-sādhanam/ asya karṇa-ānayanasya prakriyā-gauravam laghu-prakriyā-darśana-dvāreṇa āha/  
-  
-Lil_189a/ abhīṣṭa-jātya-%dvaya-bāhu-koṭayas parasparam karṇa-hatās bhujās iti/  
-  
-Lil_189c/ %catur-bhujam yat viṣamam prakalpitam śrutī tu tatra %tri-bhuja-%dvayāt tatas//  
-  
-Lil_190a/ bāhvos vadhas koṭi-vadhena yuk @syāt ekā śrutis koṭi-bhujā-vadha-aikyam/  
-  
-Lil_190c/ anyā laghau sati api sādhane asmin pūrvais kṛtam yat guru tat na @vidmas//  
-  
-Lil_190p/ jātya-kṣetra-%dvayam/ nyāsas [fig.17][/] etayos itaretara-karṇa-hatās bhujās koṭayas itareta-karṇa-hatās koṭayas bhujās iti kṛte jātam 25/ 60/ 52/ 39/ teṣām mahatī bhūs laghu mukham itarau bāhū iti @prakalpya kṣetra-darśanam/ [fig. lost] imau karṇau mahatā āyāsena ānītau 63/ 56/ asya eva jātya-%dvayasya uttara-uttara-bhuja-koṭyos ghātau jātau  
-36/ 20/ anayos aikyam %ekas karṇas 56/ bāhvos 3/ 5/ koṭyos ca 4/ 12/ ghātau 15/ 48/ anayos aikyam anyas karṇas 63/ evam śrutī @syātām/ evam sukhena @jñāyate//  atha yadi pārśva-bhuja-mukhayos vyatyayam @kṛtvā nyastam kṣetram/ nyāsas/ [fig.18] tadā jātya-%dvaya-karṇayos vadhas 65 %dvitīya-karṇas//  atha sūcī-kṣetra-udāharaṇam/ [fig.19]  
-  
-Lil_191a/ kṣetre yatra %śata-%trayam 300 kṣiti-mitis #tattva-#indu-125-tulyam mukham/  
-  
-Lil_191b/ bāhū #kha-#utkṛtibhis 260 #śara-#atidhṛtibhis 195 tulyau ca tatra śrutī/  
-  
-Lil_191c/ %ekā #kha-%aṣṭa-#yamais 280 samā #tithi-#guṇais 315 anyā atha tad-lambakau[/]  
-  
-Lil_191d/ tulyau #go-#dhṛtibhis 189 tathā #jina-#yamais 224 yogāt śravas-lambayos//  
-  
-Lil_192a/ tad-khaṇḍe @kathaya adhare śravaṇayos yogāt ca lamba-abadhe[/]  
-  
-Lil_192b/ tad-sūcī nija-mārga-vṛddha-bhujayos yogāt yathā @syāt tatas/  
-  
-Lil_192c/ sa-ābādham @vada lambakam ca bhujayos sūcyās pramāṇe ca ke[/]  
-  
-Lil_192d/ sarvam gāṇitika @pracakṣva nitarām kṣetre atra dakṣas @asi ced//  
-  
-Lil_192p/ atha saṃdhi-ādi-ānayanāya karaṇa-sūtram vṛtta-%dvayam/  
-  
-Lil_193a/ lamba-tad-āśrita-bāhvos madhyam saṃdhi-ākhyam asya lambasya/  
-  
-Lil_193c/ saṃdhi-ūnā bhūs pīṭham sādhyam yasya adharam khaṇḍam//  
-  
-Lil_194a/ saṃdhis dviṣṭhas para-lamba-śravaṇa-hatas parasya pīṭhena/  
-  
-Lil_194c/ bhaktas lamba-śrutyos yogāt @syātām adhas-khaṇḍe//  
-  
-Lil_194p/ lambas 189/ tad-āśrita-bhujas 195/ anayos madhye yat lamba-lamba-āśrita-bāhu-varga-iti-ādinā āgatā ābādhā saṃdhi-saṃjñā 48/ tad-ūnita-bhūs iti %dvitīyā ābādhā sā pīṭha-saṃjñā 252/ evam %dvitīya-lambas 224/ tad-āśrita-bhujas 260[/] pūrva-vat saṃdhis 132/ pīṭham 168//  atha ādya-lambasya 189 adhas-khaṇḍam sādhyam/ asya saṃdhis 48/ %dvi-sthas 48/  
-para-lambena 224/ śravaṇena ca 280/ pṛthak guṇitas 10752/ 13440/ parasya pīṭhena 168 bhaktas labdham lamba-adhas-khaṇḍam 64/ śravaṇa-adhas-khaṇḍam ca 80/ evam %dvitīya-lambasya 224/ saṃdhis 132/ para-lambena 189/ karṇena ca 315/ pṛthak guṇitas parasya pīṭhena 252 bhaktas labdham lamba-adhas-khaṇḍam 99/ śravaṇa-adhas-khaṇḍam ca 165//  atha karṇayos yogāt  
-adhas-lamba-jñāna-artham sūtram vṛttam/  
-  
-Lil_195a/ lambau bhū-ghnau nija-nija-pīṭha-vibhaktau ca vaṃśau @stas/  
-  
-Lil_195c/ tābhyām prāk-vat śrutyos yogāt lambas ku-khaṇḍe ca//  
-  
-Lil_195p/ lambau 189/ 224/ bhū-300-ghnau jātau 56700/ 67200/ sva-sva-pīṭhābhyām 252/ 168 bhaktau/ evam atra labdhau vaṃśau 225/ 400/ ābhyām anyonya-mūla-agra-ga-sūtra-yogāt iti-ādi-karaṇena labdhas karṇa-yogāt adhas-lambas 144/ bhū-khaṇḍe ca 108/ 192//  atha sūcī-ābādhā-lamba-bhuja-jñāna-artham sūtram vṛtta-%trayam/  
-  
-Lil_196a/ lamba-hṛtas nija-saṃdhis para-lamba-guṇas sama-āhvayas jñeyas/  
-  
-Lil_196c/ sama-para-saṃdhyos aikyam hāras tena uddhṛtau tau ca//  
-  
-Lil_197a/ sama-para-saṃdhī bhū-ghnau sūcī-ābādhe pṛthak @syātām/  
-  
-Lil_197c/ hāra-hṛtas para-lambas sūcī-lambas @bhavet bhū-ghnas//  
-  
-Lil_198a/ sūcī-lamba-ghna-bhujau nija-nija-lamba-uddhṛtau bhujau sūcyās/  
-  
-Lil_198c/ evam kṣetra-kṣodas prājñais trairāśikāt @kriyate//  
-  
-Lil_198p/ atra kila ayam lambas 224/ asya saṃdhis 132/ ayam para-lambena 189 guṇitas 224 anena bhaktas jātas sama-āhvayas 891_8/ asya para-saṃdhes ca 48/ yogas hāras 1275_8/ anena bhū-ghnas 300 samas 267300_8 para-saṃdhis ca 14400_1/ bhaktas jāte sūcī-ābādhe 3564_17/ 1536_17/ evam %dvitīya-sama-āhvayas 512_9/ %dvitīyas hāras 1700_9/ anena bhū-ghnas svīyas  
-samas 153600_9/ para-saṃdhis ca 39600_1/ bhaktas jāte sūcī-ābādhe 1536_17/ 3564_17/ [āpaṭe: jāta < jāte] para-lambas 224/ bhūmi-300-guṇas hāreṇa 1700_9 bhaktas jātas sūcī-lambas 6048_17/ sūcī-lambena bhujau 195/ 260 guṇitau sva-sva-lambābhyām 189/ 224 yathā-kramam bhaktau jātau sva-mārga-vṛddhau sūcī-bhujau 6240_17[/] 7020_17/ evam atra sarvatra  
-bhāga-hāra-rāśi-pramāṇam/ guṇya-guṇakau tu yathā-yogyam phala-icche @prakalpya sudhiyā trairāśikam ūhyam//  atha vṛtta-kṣetre karaṇa-sūtram vṛttam/  
-  
-Lil_199a/ vyāse #bha-#nanda-#agni-3927-hate vibhakte #kha-#bāṇa-#sūryais 1250 paridhis sas sūkṣmas/ [śarma: susūkṣmas < sas sūkṣmas]  
-  
-Lil_199c/ %dvāviṃśati-22-ghne vihṛte atha #śailais 7 sthūlas atha vā @syāt vyavahāra-yogyas//  
-  
-Lil_199p/ udāharaṇam/  
-  
-Lil_200a/ viṣkambha-mānam kila %sapta 7 yatra tatra pramāṇam paridhes @pracakṣva/  
-  
-Lil_200c/ %dvāviṃśatis 22 yad-paridhi-pramāṇam tad-vyāsa-saṃkhyām ca sakhe @vicintya//  
-  
-Lil_200p/ nyāsas/ vyāsa-mānam 7/ labdham paridhi-mānam 21_1239_1250/ [fig.20] sthūlas vā paridhis labdhas 22//  atha vā paridhi-tas vyāsa-ānayanāya nyāsas/ [paridhi-mānam 22/] guṇa-hāra-viparyayeṇa vyāsa-mānam sūkṣmam 7_11_3927[/] sthūlam vā 7//  vṛtta-golayos phala-ānayane karaṇa-sūtram vṛttam/  
-  
-Lil_201a/ vṛtta-kṣetre paridhi-guṇita-vyāsa-pādas phalam yat kṣuṇṇam vedais upari paritas kandukasya iva jālam/ [āpaṭe: -kṣetra < -kṣetre]   
-  
-Lil_201c/ golasya evam tat api ca phalam pṛṣṭha-jam vyāsa-nighnam %ṣaḍbhis bhaktam @bhavati niyatam gola-garbhe ghana-ākhyam//  
-  
-Lil_201p/ udāharaṇam/  
-  
-Lil_202a/ yad-vyāsas #turagais mitas kila phalam kṣetre same tatra kim vyāsas %sapta-mitas ca yasya sumate golasya tasya api kim/  
-  
-Lil_202c/ pṛṣṭhe kanduka-jāla-saṃnibha-phalam golasya tasya api kim madhye @brūhi ghanam phalam ca vimalām ced @vetsi līlāvatīm//  
-  
-Lil_202p/ vṛtta-kṣetra-phala-darśanāya nyāsas/ [fig.22] vyāsas 7/ paridhis 21_1239_1250/ [āpaṭe: 1250 < 1239] kṣetra-phalam 38_2423_5000/ gola-pṛṣṭha-phala-darśanāya nyāsas/ [fig.23] vyāsas 7/ gola-pṛṣṭha-phalam 153_1173_1250/ gola-antar-gata-ghana-phala-darśanāya nyāsas/ [fig.24] vyāsas 7/ golasya antar-gatam ghana-phalam 179_1487_2500//  atha prakāra-antareṇa  
-tad-phala-ānayane karaṇa-sūtram sa-%ardha-vṛttam/  
-  
-Lil_203a/vyāsasya varge #bha-%nava-#agni-nighne sūkṣmam phalam %pañca-%sahasra-bhakte/  
-  
-Lil_203c/ #rudra-āhate #śakra-hṛte atha vā @syāt sthūlam phalam tat vyavahāra-yogyam//  
-  
-Lil_203e/ ghanī-kṛta-vyāsa-#dalam nija-%ekaviṃśa-aṃśa-yuk gola-ghanam phalam @syāt//  
-  
-Lil_203p/ śara-jīva-ānayanāya karaṇa-sūtram sa-%ardha-vṛttam/  
-  
-Lil_204a/ jyā-vyāsa-yoga-antara-ghāta-mūlam vyāsas tad-ūnas dalitas śaras @syāt/  
-  
-Lil_204c/ vyāsāt śara-ūnāt śara-saṃguṇāt ca mūlam %dvi-nighnam @bhavati iha jīvā/  
-  
-Lil_204e/ jīvā-%ardha-varge śara-bhakta-yukte vyāsa-pramāṇam @pravadanti vṛtte//  
-  
-Lil_204p/ udāharaṇam/  
-  
-Lil_205a/ %daśa-vistṛti-vṛtta-antar yatra jyā %ṣaṣ-mitā sakhe/  
-  
-Lil_205c/ tatra iṣum @vada bāṇāt jyām jyā-bāṇābhyām ca vistṛtim//  
-  
-Lil_205p/ nyāsas/ [fig.25] vyāsas 10/ jyā 6/ yogas 16/ antaram 4/ ghātas 64/ mūlam 8/ etad-ūnas vyāsas 2/ dalitas 1/ jātas śaras 1/ vyāsāt 10/ śara-ūnāt 9/ śara-1-saṃguṇāt 9/ mūlam 3 %dvi-nighnam jātā jīvā 6//  evam jñātābhyām jyā-bāṇābhyām vyāsa-ānayanam yathā/ jīvā-%ardha-3-varge 9 śara-1-bhakte 9/ śara-1-yukte jātas vyāsas 10//  atha  
-vṛtta-antar-%tri-asra-ādi-%nava-asra-anta-kṣetrāṇām bhuja-māna-ānayanāya karaṇa-sūtram vṛtta-%trayam/  
-  
-Lil_206a/ %tri-%dvi-#aṅka-#agni-#nabhas-#candrais 103923 %tri-#bāṇa-%aṣṭa-#yuga-%aṣṭabhis 84853/ [śarma: %dvi-%dvi- < tri-dvi-]  
-  
-Lil_206c/ #veda-#agni-#bāṇa-#kha-#aśvais 70534 ca #kha-#kha-#abhra-#abhra-#rasais 60000 kramāt//  
-  
-Lil_207a/ #bāṇa-#iṣu-#nakha-#bāṇais 52055 ca %dvi-%dvi-#nanda-#iṣu-#sāgarais 45922/ [śarma: #śaila-#ṛtu- < bāṇa-iṣu-]  
-  
-Lil_207c/ #ku-#rāma-%daśa-#vedais 41031 ca vṛtta-vyāse samāhate// [śarma: %tri-#veda- < ku-rāma-]  
-  
-Lil_208a/ #kha-#kha-#kha-#abhra-#arka-120000-saṃbhakte @labhyante kramaśas bhujās/  
-  
-Lil_208c/ vṛtta-antar-%tri-asra-pūrvāṇām %nava-asra-antam pṛthak pṛthak// [śarma: vṛtta-tad- < vṛtta-antar-, nava-antānām < nava-asra-antam]  
-  
-Lil_208p/ udāharaṇam/  
-  
-Lil_209a/ %sahasra-%dvitaya-vyāsam yat vṛttam tasya madhyatas/  
-  
-Lil_209c/ sama-%tri-asra-ādikānām me bhujān @vada pṛthak pṛthak//  
-  
-Lil_209p/ atha vṛtta-antar-%tri-bhuje bhuja-māna-ānayanāya nyāsas/ [fig.26] vyāsas 2000/ %tri-%dvi-#aṅka-#agni-#nabhas-#candrais 103923 guṇitas 207846000 %kha-%kha-%kha-%abhra-%arkais 120000 bhakte labdham %tri-asre bhuja-mānam 1732_1_20//  vṛtta-antar-%catur-bhuje bhuja-māna-ānayanāya nyāsas/ [fig.27] vyāsas 2000/ %tri-#bāṇa-%aṣṭa-#yuga-%aṣṭabhis 84853  
-guṇitas 169706000 #kha-#kha-#kha-#abhra-#arkais 120000 bhakte labdham %catur-asre bhuja-mānam 1414_13_60//  vṛtta-antar-%pañca-bhuje bhuja-māna-ānayanāya nyāsas/ [fig.28] vyāsas 2000/ #veda-#agni-#bāṇa-#kha-#aśvais 70534 guṇitas 141068000 #kha-#kha-#kha-#abhra-#arkais 120000 bhakte labdham %pañca-asre bhuja-mānam 1175_17_30//  vṛtta-antar-%ṣaṣ-bhuje  
-bhuja-māna-ānayanāya nyāsas/ [fig.29] vyāsas 2000/ #kha-#kha-#abhra-#abhra-#rasais 60000 guṇitas 120000000 #kha-#kha-#kha-#abhra-#arkais 120000 bhaktas labdham %ṣaṣ-asre bhuja-mānam 1000//  vṛtta-antar-%sapta-bhuje bhuja-māna-ānayanāya nyāsas/ [fig. 30] vyāsas 2000/ #bāṇa-#iṣu-#nakha-#bāṇais 52055 guṇitas 104110000 #kha-#kha-#kha-#abhra-#arkais 120000 bhakte  
-labdham #sapta-asre bhuja-mānam 867_7_12//  vṛtta-antar-%aṣṭa-bhuje bhuja-māna-ānayanāya nyāsas/ [fig.30a, lost] vyāsas 2000/ %dvi-%dvi-#nanda-#iṣu-sāgarais 45922 guṇitas 91844000 #kha-#kha-#kha-#abhra-#arkais 120000 bhakte labdham #aṣṭa-asre bhuja-mānam 765_11_30//  vṛtta-antar-%nava-bhuje bhuja-māna-ānayanāya nyāsas/ [fig.31] vyāsas 2000/ #ku-#rāma-%daśa-#vedais  
-41031 guṇitas 82062000 #kha-#kha-#kha-#abhra-#arkais 120000 bhaktas labdham %nava-asre bhuja-mānam 683_17_20//  evam iṣṭa-vyāsa-ādibhyas anyās api jīvās @sidhyanti iti tās tu gole jyā-utpattau @vakṣye//  atha sthūla-jīvā-jñāna-artham laghu-kriyayā karaṇa-sūtram vṛttam/  
-  
-Lil_210a/ cāpa-ūna-nighna-paridhis %prathama-āhvayas @syāt %pañca-āhatas paridhi-varga-%caturtha-bhāgas/  
-  
-Lil_210c/ ādya-ūnitena khalu tena @bhajet %catur-ghna-vyāsa-āhatam %prathamam āptam iha jyakā @syāt//  
-  
-Lil_210p/ udāharaṇam/  
-  
-Lil_211a/ %aṣṭādaśa-aṃśena vṛtes  samānam %eka-ādi-nighnena ca yatra cāpam/  
-  
-Lil_211c/ pṛthak pṛthak tatra @vada āśu jīvām #kha-#arkais mitam vyāsa-#dalam ca yatra//  
-  
-Lil_211p/ nyāsas/ [fig.32] vyāsas 240/ atra kila aṅka-lāghavāya %viṃśates sa-%ardha-#arka-%śata-aṃśa-militas sūkṣma-paridhis 754/ asya %aṣṭādaśa-aṃśas 42/ atra api aṅka-lāghavāya %dvayos %aṣṭādaśa-aṃśa-yutas gṛhītas/ anena pṛthak pṛthak %eka-ādi-guṇitena tulye dhanuṣi kalpite jyās sādhyās//  atha vā atra sukha-artham paridhes %aṣṭādaśa-aṃśena paridhim dhanūṃṣi  
-ca @apavartya jyās sādhyās tathā api tās eva @bhavanti/ apavartite nyāsas/ paridhis 18/ cāpāni ca 1/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ 9/ yathā-ukta-karaṇena labdhās jīvās 42/ 82/ 120/ 154/ 184/ 208/ 226/ 236/ 240//  atha cāpa-ānayanāya karaṇa-sūtram vṛttam/  
-  
-Lil_212a/ vyāsa-#abdhi-ghāta-yuta-maurvikayā vibhaktas jīvā-#aṅghri-%pañca-guṇitas paridhes tu vargas/  
-  
-Lil_212c/ labdha-ūnitāt paridhi-varga-%caturtha-bhāgāt āpte pade vṛti-#dalāt patite dhanus @syāt//  
-  
-Lil_212p/ udāharaṇam/  
-  
-Lil_213a/ viditās iha ye guṇās tatas @vada teṣām adhunā  dhanus-mitīs/ [śarma: svatas < tatas, atha me < adhunā, -mitim < -mitīs]  
-  
-Lil_213c/ yadi te @asti dhanus-guṇa-kriyā-gaṇite gāṇitika atinaipuṇam// [śarma: atinaipuṇī]  
-  
-Lil_213p1/ nyāsas/ jyās 42/ 82/ 120/ 154/ 184/ 208/ 226/ 236/ 240[/] sas eva apavartita-paridhis 18/ jīvā-#aṅghriṇā 21_2 %pañcabhis 5 ca paridhes 18 vargas 324 guṇitas 17010/ vyāsa-240-#abdhi-4-ghāta-960-yuta-maurvikayā 1002 anayā vibhaktas labdhas 17/ atra aṅka-lāghavāya %caturviṃśates %dvi-adhika-%sahasra-aṃśa-yutas gṛhītas/ anena ūnitāt  
-paridhi-18-varga-324-%caturtha-81-bhāgāt 64 pade prāpte 8 vṛti-18-#dalāt 9 patite 1 jātam dhanus/ evam jātāni dhanūṃṣi 1/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ 9[/] etāni paridhi-%aṣṭādaśa-aṃśena guṇitāni @syus//  iti bhāskara-ācārya-viracitāyām līlāvatyām kṣetra-vyavahāras samāptas//  
+लिल्_१३४प्२। अथ क्षेत्र-व्यवहारस्। तत्र भुज-कोटि-कर्णानाम् अन्यतमाभ्याम् अन्यतम-आनयनाय करण-सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_१३५अ। इष्टस् बाहुस् यस् @स्यात् तद्-स्पर्धिन्याम् दिशि इतरस् बाहुस्।  
+    
+लिल्_१३५च्। %त्रि-अस्रे %चतुर्-अस्रे वा सा कोटिस् कीर्तिता तद्-ज्ञैस्॥  
+    
+लिल्_१३६अ। तद्-कृत्योस् योग-पदम् कर्णस् दोस्-कर्ण-वर्गयोस् विवरात्।  
+    
+लिल्_१३६च्। मूलम् कोटिस् कोटि-श्रुति-कृत्योस् अन्तरात् पदम् बाहुस्॥  
+    
+लिल्_१३६प्। उदाहरणम्।  
+    
+लिल्_१३७अ। कोटिस् %चतुष्टयम् यत्र दोस् %त्रयम् तत्र का श्रुतिस्।  
+    
+लिल्_१३७च्। कोटि-दोस्-कर्णतस् कोटि-श्रुतिभ्याम् च भुजम् @वद॥  
+    
+लिल्_१३७प्। न्यासस्। [फ़िग्।१] कोटिस् ४। भुजस् ३। भुज-वर्गस् ९। कोटि-वर्गस् १६। एतयोस् योगात् २५। मूलम् ५। कर्णस् जातस्॥ अथ कर्ण-भुजाभ्याम् कोटि-आनयनम्। न्यासस्। कर्णस् ५। भुजस् ३। अनयोस् वर्ग-अन्तरम् १६। एतद्-मूलम् कोटिस् ४॥ अथ कोटि-कर्णाभ्याम् भुज-आनयनम्। न्यासस्। कोटिस् ४। कर्णस् ५। अनयोस् वर्ग-अन्तरम् ९। एतद्-मूलम् भुजस् ३॥ अथ प्रकार-अन्तरेण  
+तद्-ज्ञानाय करण-सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_१३८अ। राश्योस् अन्तर-वर्गेण %द्वि-घ्ने घाते युते तयोस्।  
+    
+लिल्_१३८च्। वर्ग-योगस् @भवेत् एवम् तयोस् योग-अन्तर-आहतिस्।  
+    
+लिल्_१३८ए। वर्ग-अन्तरम् @भवेत् एवम् ज्ञेयम् सर्वत्र धीमता॥  
+    
+लिल्_१३८प्। कोटिस् %चतुष्टयम् इति पूर्व-उक्त-उदाहरणे न्यासस्। कोटिस् ४। भुजस् ३। अनयोस् घाते १२। %द्वि-घ्ने २४। अन्तर-वर्गेण १ युते वर्ग-योगस् २५। अस्य मूलम् कर्णस् ५॥ अथ कर्ण-भुजाभ्याम् कोटि-आनयनम्। न्यासस्। कर्णस् ५। भुजस् ३। अनयोस् योगस् ८। पुनर् एतयोस् अन्तरेण २ हतस् वर्ग-अन्तरम् १६। अस्य मूलम् कोटिस् ४॥ अथ भुज-ज्ञानम्। न्यासस्। कोटिस्  
+४। कर्णस् ५। एवम् जातस् भुजस् ३॥ उदाहरणम्।  
+    
+लिल्_१३९अ। स-#अङ्घ्रि-%त्रय-मितस् बाहुस् यत्र कोटिस् च तावती।  
+    
+लिल्_१३९च्। तत्र कर्ण-प्रमाणम् किम् गणक @ब्रूहि मे द्रुतम्॥  
+    
+लिल्_१३९प्। न्यासस्। [फ़िग्।२] भुजस् १३_४। कोटिस् १३_४। अनयोस् वर्गयोस् योगस् १६९_८। अस्य मूल-अभावात् करणी-गतस् एव अयम् कर्णस्। अस्य आसन्न-मूल-ज्ञान-अर्थम् उपायस्।  
+    
+लिल्_१४०अ। वर्गेण महता इष्टेन हतात् छेद-अंशयोस् वधात्।  
+    
+लिल्_१४०च्। पदम् गुण-पद-क्षुण्ण-छिद्-भक्तम् निकटम् @भवेत्॥  
+    
+लिल्_१४०प्। इयम् कर्ण-करणी १६९_८। अस्यास् छेद-अंश-घातस् १३५२। %अयुत-घ्नस् १३५२०००० अस्य आसन्न-मूलम् ३६७७। इदम् गुण-मूल-१००-गुणित-छेदेन ८०० भक्तम् लब्धम् आसन्न-पदम् ४_४७७_८००। अयम् कर्णस्। एवम् सर्वत्र॥ अथ %त्रि-अस्र-जात्ये करण-सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_१४१अ। इष्टस् भुजस् अस्मात् %द्वि-गुण-इष्ट-निघ्नात् इष्टस्य कृत्या %एक-वियुक्तया आप्तम्।  
+    
+लिल्_१४१च्। कोटिस् पृथक् सा इष्ट-गुणा भुज-ऊना कर्णस् @भवेत् %त्रि-अस्रम् इदम् तु जात्यम्॥  
+    
+लिल्_१४२अ। इष्टस् भुजस् तद्-कृतिस् इष्ट-भक्ता %द्विस् स्थापिता इष्ट-ऊन-युता अर्धिता वा।  
+    
+लिल्_१४२च्। तौ कोटि-कर्णौ इति कोटितस् वा बाहु-श्रुती वा अकरणी-गते @स्तस्॥  
+    
+लिल्_१४२प्। उदाहरणम्।  
+    
+लिल्_१४३अ। भुजे %द्वादशके यौ यौ कोटि-कर्णौ अनेकधा।  
+    
+लिल्_१४३च्। प्रकाराभ्याम् @वद क्षिप्रम् तौ तौ अकरणी-गतौ॥  
+    
+लिल्_१४३प्। न्यासस्। इष्टस् भुजस् १२। इष्टम् २ अनेन %द्वि-गुणेन ४ गुणितस् भुजस् ४८। इष्ट-२-कृत्या ४ %एक-ऊनया ३ भक्तस् लब्धा कोटिस् १६। इयम् इष्ट-गुणा ३२ भुज-ऊना १२ जातस् कर्णस् २०॥ %त्रिकेण इष्टेन वा कोटिस् ९। कर्णस् १५॥ %पञ्चकेन वा कोटिस् ५। कर्णस् १३ इति-आदि॥ अथ %द्वितीय-प्रकारेण। न्यासस्। इष्टस् भुजस् १२। अस्य कृतिस् १४४। इष्टेन २ भक्ता लब्धम्  
+७२। इष्टेन २ ऊन-७०-युतौ ७४ अर्धितौ जातौ कोटि-कर्णौ ३५। ३७॥ %चतुष्टयेन वा कोटिस् १६। कर्णस् २०॥ %षट्केन वा कोटिस् ९। कर्णस् १५॥ अथ इष्ट-कर्णात् कोटि-भुज-आनयने करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१४४अ। इष्टेन निघ्नात् %द्वि-गुणात् च कर्णात् इष्टस्य कृत्या %एक-युजा यत् आप्तम्।  
+    
+लिल्_१४४च्। कोटिस् @भवेत् सा पृथक् इष्ट-निघ्नी तद्-कर्णयोस् अन्तरम् अत्र बाहुस्॥  
+    
+लिल्_१४४प्। उदाहरणम्।  
+    
+लिल्_१४५अ। %पञ्चाशीति-मिते कर्णे यौ यौ अकरणी-गतौ।  
+    
+लिल्_१४५च्। @स्याताम् कोटि-भुजौ तौ तौ @वद कोविद सत्वरम्॥  
+    
+लिल्_१४५प्। न्यासस्। कर्णस् ८५। अयम् %द्वि-गुणस् १७०। %द्विकेन इष्टेन हतस् ३४०। इष्ट-२-कृत्या ४ स-%एकया ५ भक्ते जाता कोटिस् ६८। इयम् इष्ट-गुणा १३६। कर्ण-८५-ऊनिता जातस् भुजस् ५१॥ %चतुष्केण इष्टेन वा। कोटिस् ४० भुजस् ७५॥ पुनर् प्रकार-अन्तरेण तद्-करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१४६अ। इष्ट-वर्गेण स-%एकेन %द्वि-घ्नस् कर्णस् अथ वा हतस्।  
+    
+लिल्_१४६च्। फल-ऊनस् श्रवणस् कोटिस् फलम् इष्ट-गुणम् भुजस्॥  
+    
+लिल्_१४६प्। पूर्व-उदाहरणे न्यासस्। कर्णस् ८५। अत्र %द्विकेन इष्टेन जातौ किल कोटि-भुजौ ५१। ६८। %चतुष्केण वा कोटिस् ७५। भुजस् ४०। अत्र दोस्-कोट्योस् नाम-भेदस् एव केवलम् न स्व-रूप-भेदस्॥ अथ इष्टाभ्याम् भुज-कोटि-कर्ण-आनयने करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१४७अ। इष्टयोस् आहतिस् %द्वि-घ्नी कोटिस् वर्ग-अन्तरम् भुजस्।  
+    
+लिल्_१४७च्। कृति-योगस् तयोस् एव कर्णस् च अकरणी-गतस्॥  
+    
+लिल्_१४७प्। उदाहरणम्।  
+    
+लिल्_१४८अ। यैस् यैस् %त्रि-अस्रम् @भवेत् जात्यम् कोटि-दोस्-श्रवणैस् सखे।  
+    
+लिल्_१४८च्। %त्रीन् अपि अविदितान् एतान् क्षिप्रम् @ब्रूहि विचक्षण॥  
+    
+लिल्_१४८प्। न्यासस्। अत्र इष्टे २। १। आभ्याम् कोटि-भुज-कर्णास् ४। ३। ५॥ अथ वा इष्टे २। ३। आभ्याम् कोटि-भुज-कर्णास् १२। ५। १३॥ अथ वा २। ४। आभ्याम् कोटि-भुज-कर्णास् १६। १२। २०॥ एवम् अन्यत्र अनेकधा॥ कर्ण-कोटि-युतौ भुजे च ज्ञाते पृथक्-करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१४९अ। वंश-अग्र-मूल-अन्तर-भूमि-वर्गस् वंश-उद्धृतस् तेन पृथक् युत-ऊनौ। [आपटे: -उद्धृतेस् <-उद्धृतस्]  
+    
+लिल्_१४९च्। वंशौ तद्-अर्धे @भवतस् क्रमेण वंशस्य खण्डे श्रुति-कोटि-रूपे॥  
+    
+लिल्_१४९प्। उदाहरणम्।  
+    
+लिल्_१५०अ। यदि सम-भुवि वेणुस् %द्वि-%त्रि-पाणि-प्रमाणस् गणक पवन-वेगात् %एक-देशे सस् भग्नस्।  
+    
+लिल्_१५०च्। भुवि नृप-मित-हस्तेषु अङ्ग लग्नम् तद्-अग्रम् @कथय कतिषु मूलात् एषस् भग्नस् करेषु॥  
+    
+लिल्_१५०प्। न्यासस्। वंश-अग्र-मूल-अन्तर-भूमिस् १६। वंशस् ३२। कोटि-कर्ण-युतिस् ३२। भुजस् १६। जाते ऊर्ध्व-अधस्-खण्डे २०। १२॥ बाहु-कर्ण-योगे दृष्टे कोट्याम् च ज्ञातायाम् पृथक्-करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१५१अ। स्तम्भस्य वर्गस् अहि-बिल-अन्तरेण भक्तस् फलम् व्याल-बिल-अन्तरालात्।  
+    
+लिल्_१५१च्। शोध्यम् तद्-%अर्ध-प्रमितैस् करैस् @स्यात् बिल-अग्रतस् व्याल-कलापि-योगस्॥  
+    
+लिल्_१५१प्। उदाहरणम्।  
+    
+लिल्_१५२अ। @अस्ति स्तम्भ-तले बिलम् तद्-उपरि क्रीडा-शिखण्डी स्थितस्।  
+    
+लिल्_१५२ब्। स्तम्भे हस्त-%नव-उच्छ्रिते %त्रि-गुणिते स्तम्भ-प्रमाण-अन्तरे।  
+    
+लिल्_१५२च्। दृष्ट्वा अहिम् बिलम् आव्रजन्तम् @अपतत् तिर्यक् सस् तस्य उपरि।  
+    
+लिल्_१५२द्। क्षिप्रम् @ब्रूहि तयोस् बिलात् कति-करैस् साम्येन गत्योस् युतिस्॥  
+    
+लिल्_१५२प्। न्यासस्। स्तम्भस् ९। अहि-बिल-अन्तरम् २७। जातास् बिल-युत्योस् मध्ये हस्तास् १२॥ कोटि-कर्ण-अन्तरे भुजे च दृष्टे पृथक्-करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१५३अ। भुजात् वर्गितात् कोटि-कर्ण-अन्तर-आप्तम् द्विधा कोटि-कर्ण-अन्तरेण ऊन-युक्तम्।  
+    
+लिल्_१५३च्। तद्-%अर्धे क्रमात् कोटि-कर्णौ भवेताम् इदम् धीमता @आवेद्य सर्वत्र योज्यम्॥  
+    
+लिल्_१५४अ। सखे पद्म-तद्-मज्जन-स्थान-मध्यम् भुजस् कोटि-कर्ण-अन्तरम् पद्म-दृश्यम्।  
+    
+लिल्_१५४च्। नलस् कोटिस् एतद्-मितम् @स्यात् यत् अम्भस् @वद एवम् @समानीय पानीय-मानम्॥  
+    
+लिल्_१५४प्। उदाहरणम्।  
+    
+लिल्_१५५अ। चक्र-क्रौञ्च-आकुलित-सलिले क्व अपि दृष्टम् तडागे तोयात् ऊर्ध्वम् कमल-कलिका-अग्रम् वितस्ति-प्रमाणम्।  
+    
+लिल्_१५५च्। मन्दम् मन्दम् चलितम् अनिलेन आहतम् हस्त-#युग्मे तस्मिन् मग्नम् गणक @कथय क्षिप्रम् अम्भस्-प्रमाणम्॥  
+    
+लिल्_१५५प्। न्यासस्। कोटि-कर्ण-अन्तरम् १_२। भुजस् २। लब्धम् जल-गाम्भीर्यम् १५_४। इयम् कोटिस् १५_४। इयम् एव कोटिस् कलिका-मान-युता जातस् कर्णस् १७_४॥ कोटि-%एक-देशेन युते कर्णे भुजे च दृष्टे कोटि-कर्ण-ज्ञानाय करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१५६अ। %द्वि-निघ्न-ताल-उच्छ्रिति-संयुतम् यत् सरस्-अन्तरम् तेन विभाजितायास्।  
+    
+लिल्_१५६च्। ताल-उच्छ्रितेस् ताल-सरस्-अन्तर-घ्न्यास् उड्डीन-मानम् खलु @लभ्यते तत्॥ [आपटे: खल < खलु]   
+    
+लिल्_१५६प्। उदाहरणम्।  
+    
+लिल्_१५७अ। वृक्षात् हस्त-%शत-उच्छ्रयात् %शत-#युगे वापीम् कपिस् कस् अपि @अगात् @उत्तीर्य अथ परस् द्रुतम् श्रुति-पथेन @उड्डीय किम्चित् द्रुमात्।  
+    
+लिल्_१५७च्। जाता एवम् समता तयोस् यदि गतौ उड्डीन-मानम् कियत् विद्वन् चेद् सु-परिश्रमस् @अस्ति गणिते क्षिप्रम् तत् @आचक्ष्व मे॥  
+    
+लिल्_१५७प्। न्यासस्। वृक्ष-वापी-अन्तरम् २००। वृक्ष-उच्छ्रायस् १००। कब्धम् उड्डीन-मानम् ५०। कोटिस् १५०। कर्णस् २५०। भुजस् २००॥ भुज-कोट्योस् योगे कर्णे च ज्ञाते पृथक्-करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१५८अ। कर्णस्य वर्गात् %द्वि-गुणात् विशोध्यस् दोस्-कोटि-योगस् स्व-गुणस् अस्य मूलम्।  
+    
+लिल्_१५८च्। योगस् द्विधा मूल-विहीन-युक्तस् @स्याताम् तद्-%अर्धे भुज-कोटि-माने॥  
+    
+लिल्_१५८प्। उदाहरणम्।  
+    
+लिल्_१५९अ। %दश %सप्त-अधिकस् कर्णस् %त्रि-अधिका %विंशतिस् सखे।  
+    
+लिल्_१५९च्। भुज-कोटि-युतिस् यत्र तत्र ते मे पृथक् @वद॥  
+    
+लिल्_१५९प्। न्यासस्। कर्णस् १७। दोस्-कोटि-योगस् २३। जाते भुज-कोटी ८। १५॥ उदाहरणम्।  
+    
+लिल्_१६०अ। दोस्-कोट्योस् अन्तरम् #शैलास् कर्णस् यत्र %त्रयोदश।  
+    
+लिल्_१६०च्। भुज-कोटी पृथक् तत्र @वद आशु गणक-उत्तम॥  
+    
+लिल्_१६०प्। न्यासस्। कर्णस् १३। भुज-कोटि-अन्तरम् ७। लब्धे भुज-कोटी ५। १२॥ लम्ब-अवबाधा-ज्ञानाय करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१६१अ। अन्योन्य-मूल-अग्र-ग-सूत्र-योगात् वेण्वोस् वधे योग-हृते अवलम्बस्।  
+    
+लिल्_१६१च्। वंशौ स्व-योगेन हृतौ अभीष्ट-भू-घ्नौ च लम्ब-उभयतस् कु-खण्डे॥  
+    
+लिल्_१६१प्। उदाहरणम्।  
+    
+लिल्_१६२अ। %पञ्चदश-%दश-कर-उच्छ्रय-वेण्वोस् अज्ञात-मध्य-भूमिकयोस्।  
+    
+लिल्_१६२च्। इतरेतर-मूल-अग्र-ग-सूत्र-युतेस् लम्ब-मानम् @आचक्ष्व॥  
+    
+लिल्_१६२प्। न्यासस्। वंशौ १५। १० जातस् लम्बस् ६। वंश-अन्तर-भूस् ५। अतस् जाते भू-खण्डे ३।२। अथ वा भूस् १० खण्डे ६।४ वा भूस् १५। खण्डे ९।६ वा भूस् २० खण्डे १२।८॥ एवम् सर्वत्र लम्बस् सस् एव। यदि अत्र भूमि-तुल्ये भुजे वंशस् कोटिस् तदा भू-खण्डेन किम् इति त्रैराशिकेन सर्वत्र प्रतीतिस्॥ अथ अक्षेत्र-लक्षण-सूत्रम्।  
+    
+लिल्_१६३अ। धृष्ट-उद्दिष्टम् ऋजु-भुज-क्षेत्रम् यत्र %एक-बाहुतस् सु-अल्पा।  
+    
+लिल्_१६३च्। तद्-इतर-भुज-युतिस् अथ वा तुल्या ज्ञेयम् तत् अक्षेत्रम्॥ [आपटे: -यतिस् < -युतिस्]  
+    
+लिल्_१६३प्। उदाहरणम्।  
+    
+लिल्_१६४अ। %चतुर्-अस्रे %त्रि-%षष्-%द्वि-#अर्कास् भुजास् %त्रि-अस्रे %त्रि-%षष्-%नवास्।  
+    
+लिल्_१६४च्। उद्दिष्टास् यत्र धृष्टेन तत् अक्षेत्रम् @विनिर्दिशेत्॥ [आपटे: धष्टेन < धृष्टेन]  
+    
+लिल्_१६४प्। एते अनुपपन्ने क्षेत्रे। भुज-प्रमाणास् ऋजु-शलाकास् भुज-स्थानेषु @विन्यस्य अनुपपत्तिस् दर्शनीया॥ [आपटे: अनपपत्तिस् < अनुपपत्तिस्] आबाधा-आदि-ज्ञानाय करण-सूत्रम् आर्या-%द्वयम्।  
+    
+लिल्_१६५अ। %त्रि-भुजे भुजयोस् योगस् तद्-अन्तर-गुणस् भुवा हृतस् लब्ध्या।  
+    
+लिल्_१६५च्। %द्विस्-स्था भूस् ऊन-युता दलिता आबाधे तयोस् @स्याताम्॥  
+    
+लिल्_१६६अ। स्व-आबाधा-भुज-कृत्योस् अन्तर-मूलम् @प्रजायते लम्बस्।  
+    
+लिल्_१६६च्। लम्ब-गुणम् भूमि-%अर्धम् स्पष्टम् %त्रि-भुजे फलम् @भवति॥  
+    
+लिल्_१६६प्। उदाहरणम्।  
+    
+लिल्_१६७अ। क्षेत्रे मही मनु-मिता %त्रि-भुजे भुजौ तु यत्र %त्रयोदश-#तिथि-प्रमितौ च यस्य।  
+    
+लिल्_१६७च्। तत्र अवलम्बकम् अथो @कथय अवबाधे क्षिप्रम् तथा च सम-कोष्ठ-मितिम् फल-आख्यम्॥  
+    
+लिल्_१६७प्। न्यासस्। भूस् १४। भुजौ १३।१५। लब्धे आबाधे ५।९। लम्बश् च १२। क्षेत्र-फलम् च ८४॥ ऋण-आबाधा-उदाहरणम्।  
+    
+लिल्_१६८अ। %दश-%सप्तदश-प्रमौ ह्बुजौ %त्रि-भुजे यत्र %नव-प्रमा मही।  
+    
+लिल्_१६८च्। अबधे @वद लम्बकम् तथा गणितम् गाणितिक आशु तत्र मे॥  
+    
+लिल्_१६८प्। न्यासस्। भुजौ १०।१७। भूमिस् ९। अत्र %त्रि-भुजे भुजयोस् योगस् इति-आदिना लब्धम् २१। अनेन भूस् ऊना न @स्यात्। अस्मात् एव भूस् अपनीता शेष-%अर्धम् ऋण-गता आबाधा दिश्-वैपरीत्येन इति अर्थस्। तथा जाते आबाधे ६।१५। अत्र उभयत्र अपि जातस् लम्बस् ८। फलम् ३६॥ %चतुर्-भुज-%त्रि-भुजयोस् अस्पष्ट-फल-आनयने करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१६९अ। सर्व-दोस्-युति-#दलम् %चतुर्-स्थितम् बाहुभिस् विरहितम् च तद्-वधात्।  
+    
+लिल्_१६९च्। मूलम् अस्फुट-फलम् %चतुर्-भुजे स्पष्टम् एवम् उदितम् %त्रि-बाहुके॥  
+    
+लिल्_१६९प्। उदाहरणम्।  
+    
+लिल्_१७०अ। भूमिस् %चतुर्दश-मिता मुखम् #अङ्क-सङ्ख्यम् बाहू %त्रयोदश-#दिवाकर-सम्मितौ च।  
+    
+लिल्_१७०च्। लम्बस् अपि यत्र #रवि-सङ्ख्यकस् एव तत्र क्षेत्रे फलम् @कथय तत् कथितम् यत् आद्यैस्॥  
+    
+लिल्_१७०प्। न्यासस्। भूमिस् १४। मुखम् ९। बाहू १३। १२। लम्बस् १२। उक्त-वत् करणेन जातम् क्षेत्र-फलम् करणी १९८००। अस्यास् पदम् किञ्चिद्-न्यूनम् %एकचत्वारिंशच्छतम् १४१। इदम् अत्र क्षेत्रे न वास्तवम् फलम् किन्तु लम्बेन निघ्नम् कु-मुख-ऐक्य-#खण्डम् इति वक्ष्यमाण-करणेन वास्तवम् फलम् १३८॥ अत्र %त्रि-भुजस्य पूर्व-उदाहृतस्य न्यासस्। भूमिस् १४। भुजौ  
+१३। १५। अनेन अपि प्रकारेण %त्रि-बाहुके तत् एव वास्तवम् फलम् ८४। अत्र %चतुर्-भुजस्य अस्पष्टम् उदितम्॥ अथ स्थूलत्व-निरूपण-अर्थम् सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_१७१अ। %चतुर्-भुजस्य अनियतौ हि कर्णौ कथम् ततस् अस्मिन् नियतम् फलम् @स्यात्।  
+    
+लिल्_१७१च्। प्रसाधितौ तद्-श्रवणौ यत् आद्यैस् स्व-कल्पितौ तौ इतरत्र न @स्तस्।  
+    
+लिल्_१७१ए। तेषु एव बाहुषु अपरौ च कर्णौ अनेकधा क्षेत्र-फलम् ततस् च॥  
+लिल्_१७१प्१। %चतुर्-भुजे हि %एक-अन्तर-कोणौ @आक्रम्य अन्तर्-प्रवेश्यमानौ भुजौ तद्-संसक्तम् स्व-कर्णम् @सङ्कोचयतस्। इतरौ तु बहिस्-प्रसरन्तौ स्व-कर्णम् @वर्धयतस्। अतस् उक्तम् तेषु एव बाहुषु अपरौ च कर्णौ इति॥  
+    
+लिल्_१७१एx।अ। लम्बयोस् कर्णयोस् वा %एकम् @अनिर्दिश्य अपरम् कथम्।  
+    
+लिल्_१७१एx।च्। @पृच्छति अनियतत्वे अपि नियतम् च अपि तद्-फलम्॥  
+    
+लिल्_१७१एx।ए। सस् पृच्छकस् पिशाचस् वा वक्ता वा नितराम् ततस्।  
+    
+लिल्_१७१एx।ग्। यस् न @वेत्ति %चतुर्-बाहु-क्षेत्रस्य अनियताम् स्थितिम्॥ [नो नुम्बेर्स् अरे गिवेन् तो थेसे त्wओ श्लोक स्तन्शस् इन् आपटे।]  
+    
+लिल्_१७१प्२। सम-चतुर्-भुज-आयतयोस् फल-आनयने करण-सूत्रम् स-अर्ध-श्लोक-द्वयम्।  
+    
+लिल्_१७२अ। इष्टा श्रुतिस् तुल्य-%चतुर्-भुजस्य कल्प्या अथ तद्-वर्ग-विवर्जिता या।  
+    
+लिल्_१७२च्। %चतुर्-गुणा बाहु-कृतिस् तदीयम् मूलम् %द्वितीय-श्रवण-प्रमाणम्॥  
+    
+लिल्_१७३अ। अतुल्य-कर्ण-अभिहतिस् %द्वि-भक्ता फलम् स्फुटम् तुल्य-%चतुर्-भुजे @स्यात्।  
+    
+लिल्_१७३च्। सम-श्रुतौ तुल्य-%चतुर्-भुजे च तथा आयते तद्-भुज-कोटि-घातस्।  
+    
+लिल्_१७३ए। %चतुर्-भुजे अन्यत्र समान-लम्बे लम्बेन निघ्नम् कु-मुख-ऐक्य-#खण्डम्॥  
+    
+लिल्_१७३प्। अत्र उद्देशकस्।  
+    
+लिल्_१७४अ। क्षेत्रस्य %पञ्च-कृति-तुल्य-%चतुर्-भुजस्य कर्णौ ततस् च गणितम् गणक @प्रचक्ष्व।   
+    
+लिल्_१७४च्। तुल्य-श्रुतेस् च खलु तस्य तथा आयतस्य यद्-विस्तृतिस् #रस-मिता %अष्ट-मितम् च दैर्घ्यम्॥  
+    
+लिल्_१७४प्। %प्रथम-उदाहरणे न्यासस् [फ़िग्।३]। भुजास् २५। २५। २५। २५। अत्र %त्रिंशत्-३०-मिताम् %एकाम् श्रुतिम् @प्रकल्प्य यथा-उक्त-प्रकारेण जाता अन्या श्रुतिस् ४०। फलम् च ६००॥ अथ वा। न्यासस् [फ़िग्।४]। %चतुर्दश-१४-मिताम् %एकाम् श्रुतिम् @प्रकल्प्य उक्त-वत्-करणेन जाता अन्या श्रुतिस् ४८। फलम् च ३३६॥ %द्वितीय-उदाहरणे न्यासस् [फ़िग्।५]। तद्-कृत्योस् योग-पदम्  
+कर्ण इति जाता करणी-गता श्रुतिस् उभयत्र तुल्या एव १२५०। गणितम् च ६२५॥ अथ आयतस्य न्यासस्। विस्तृतिस् ६। दैर्घ्यम् ८। [फ़िग्।६] अस्य गणितम् ४८॥ उदाहरणम्।  
+    
+लिल्_१७५अ। क्षेत्रस्य यस्य वदनम् #मदनारि-तुल्यम् विश्वम्भरा %द्वि-गुणितेन मुखेन तुल्या।  
+    
+लिल्_१७५च्। बाहू %त्रयोदश-#नख-प्रमितौ च लम्बस् #सूर्य-उन्मितस् च गणितम् @वद तत्र किम् @स्यात्॥  
+    
+लिल्_१७५प्। न्यासस्। वदनम् ११। विश्वम्भरा २२। बाहू १३। २०। लम्बस् १२। [फ़िग्।७] अत्र सर्व-दोस्-युति-#दलम् इति-आदिना स्थूल-फलम् २५०। वास्तवम् तु लम्बेन निघ्नम् कु-मुख-ऐक्य-#खण्डम् इति जातम् फलम् १९८। क्षेत्रस्य खण्ड-%त्रयम् @कृत्वा फलानि पृथक् @आनीय ऐक्यम् @कृत्वा अस्य फल-उपपत्तिस् दर्शनीया। खण्ड-%त्रय-दर्शनम्। [फ़िग्।८अ][फ़िग्।८ब्][फ़िग्।८च्]   
+न्यासस्। %प्रथमस्य भुज-कोटि-कर्णास् ५। १२। १३। %द्वितीयस्य आयतस्य विस्तृतिस् ६। दैर्घ्यम् १२। %तृतीयस्य भुज-कोटि-कर्णास् १६। १२। २०। अत्र %त्रि-भुजयोस् क्षेत्रयोस् भुज-कोटि-घात-%अर्धम् फलम्। आयते %चतुर्-अस्रे क्षेत्रे तद्-भुज-कोटि-घातस् फलम् । यथा %प्रथम-क्षेत्रे फलम् ३०। %द्वितीये ७२। %तृतीये ९६। एषाम् ऐक्यम् सर्व-क्षेत्रे फलम् १९८॥ अथ  
+अन्यत् उदाहरणम्।  
+    
+लिल्_१७६अ। %पञ्चाशत् %एक-सहिता वदनम् यदीयम् भूस् %पञ्चसप्तति-मिता प्रमितस् %अष्टषष्ट्या।  
+    
+लिल्_१७६च्। सव्यस् भुजस् %द्वि-गुण-%विंशति-सम्मितस् अन्यस् तस्मिन् फलम् श्रवण-लम्ब-मिती @प्रचक्ष्व॥  
+    
+लिल्_१७६प्। न्यासस्। वदनम् ५१। भूमिस् ७५। भुजौ ६८। ४०॥ [फ़िग्।९] अत्र फल-अवलम्ब-श्रुतीनाम् सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_१७७। ज्ञाते अवलम्बे श्रवणस् श्रुतौ तु लम्बस् फलम् @स्यात् नियतम् तु तत्र॥  
+    
+लिल्_१७७प्। कर्णस्य अनियतत्वात् लम्बस् अपि अनियतस् इति अर्थस्॥ लम्ब-ज्ञानाय करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_१७८। %चतुर्-भुज-अन्तर्-%त्रि-भुजे अवलम्बस् प्राक्-वत् भुजौ कर्ण-भुजौ मही भूस्॥  
+    
+लिल्_१७८प्। अत्र लम्ब-ज्ञान-अर्थम् सव्य-भुज-अग्रात् दक्षिण-भुज-मूल-गामी इष्ट-कर्णस् %सप्तसप्तति-मितस् कल्पितस् तेन %चतुर्-भुज-अन्तर्-%त्रि-भुजम् कल्पितम् तत्र असौ कर्ण %एकस् भुजस् ७७। %द्वितीयस् तु सव्य-भुजस् ६८। भूस् सा एव ७५। अत्र प्राक्-वत् लब्धस् लम्बस् ३०८_५॥ लम्बे ज्ञाते कर्ण-ज्ञान-अर्थम् सूत्रम् वृत्तम्।  
+    
+लिल्_१७९अ। यत् लम्ब-लम्ब-आश्रित-बाहु-वर्ग-विश्लेष-मूलम् कथिता अवबाधा।  
+    
+लिल्_१७९च्। तद्-ऊन-भू-वर्ग-समन्वितस्य यत् लम्ब-वर्गस्य पदम् सस् कर्णस्॥  
+    
+लिल्_१७९प्। [फ़िग्।१०] अत्र सव्य-भुज-अग्रात् लम्बस् किल कल्पितस् ३०८_५। अतस् जाता आबाधा १४४_५ तद्-ऊन-भू-वर्ग-समन्वितस्य इति-आदिना जातस् कर्णस् ७७॥ %द्वितीय-कर्ण-ज्ञान-अर्थम् सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_१८०अ। इष्टस् अत्र कर्णस् %प्रथमम् प्रकल्प्यस् %त्रि-अस्रे तु कर्ण-उभयतस् स्थिते ये।  
+    
+लिल्_१८०च्। कर्णम् तयोस् क्ष्माम् इतरौ च बाहू @प्रकल्प्य लम्ब-अवबधे च साध्ये॥  
+    
+लिल्_१८१अ। आबाधयोस् %एक-ककुभ्-स्थयोस् यत् @स्यात् अन्तरम् तत् कृति-संयुतस्य।  
+    
+लिल्_१८१च्। लम्ब-ऐक्य-वर्गस्य पदम् %द्वितीयस् कर्णस् @भवेत् सर्व-%चतुर्-भुजेषु॥  
+    
+लिल्_१८१प्। न्यासस्। तत्र %चतुर्-भुजे सव्य-भुज-अग्रात् दक्षिण-भुज-मूल-गामिनस् कर्णस्य मानम् कल्पितम् ७७। तद्-कर्ण-रेखा-अवच्छिन्नस्य क्षेत्रस्य मध्ये कर्ण-रेखा-उभयतस् ये %त्रि-अस्रे उत्पन्ने तयोस् कर्णम् भूमिम् तद्-इतरौ च भुजौ @प्रकल्प्य प्राक्-वत् लम्बस् आबाधा च साधिता। तद्-दर्शनम् [फ़िग्।११] लम्बस् ६०। %द्वितीय-लम्बस् २४। आबाधयोस् ४५।  
+३२। %एक-ककुभ्-स्थयोस् अन्तरस्य १३। कृतेस् १६९ लम्ब-ऐक्य-८४-कृतेस् ७०५६ च योगस् ७२२५। तस्य पदम् %द्वितीय-कर्ण-प्रमाणम् ८५॥ [फ़िग्।१२] अत्र इष्ट-कर्ण-कल्पने विशेष-उक्ति-सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_१८२अ। कर्ण-आश्रित-सु-अल्प-भुज-ऐक्यम् उर्वीम् @प्रकल्प्य तद्-शेष-भुजौ च बाहू।  
+    
+लिल्_१८२च्। साध्यस् अवलम्बस् अथ तथा अन्य-कर्णस् स्व-उर्व्यास् कथम्-चित् श्रवणस् न दीर्घस्।  
+    
+लिल्_१८२ए। तद्-अन्य-लम्बात् न लघुस् तथा इदम् @ज्ञात्वा इष्ट-कर्णस् सुधिया प्रकल्प्यस्॥  
+    
+लिल्_१८२प्। %चतुर्-भुजे हि %एक-अन्तर-कोणौ @आक्रम्य सङ्कोच्यमानम् %त्रि-भुजत्वम् @याति। तत्र %एक-कोणे लग्न-लघु-भुजयोस् ऐक्यम् भूमिम् इतरौ भुजौ च @प्रकल्प्य तद्-लम्बात् ऊनस् सङ्कोच्यमानस् कर्णस् कथम्-चित् अपि न @स्यात् तद्-इतरस् भूमेस् अधिकस् न @स्यात् एवम् उभयथा अपि एतत् अनुक्तम् अपि बुद्धि-मता @ज्ञायते॥ विषम-%चतुर्-भुज-फल-आनयनाय  
+करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_१८३। %त्रि-अस्रे तु कर्ण-उभयतस् स्थिते ये तयोस् फल-ऐक्यम् फलम् अत्र नूनम्॥  
+    
+लिल्_१८३प्। अनन्तर-उक्त-क्षेत्र-अन्तर्-%त्रि-अस्रयोस् फले ९२४। २३१० [।] अनयोस् ऐक्यम् ३२३४ तस्य फलम्॥ समान-लम्बस्य आबाधा-आदि-ज्ञानाय करण-सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_१८४अ। समान-लम्बस्य %चतुर्-भुजस्य मुख-ऊन-भूमिम् @परिकल्प्य भूमिम्।  
+लिल्_१८४च्। भुजौ भुजौ %त्रि-अस्र-वत् एव साध्ये तस्य अबधे लम्ब-मितिस् ततस् च॥  
+    
+लिल्_१८५अ। आबाधया ऊना %चतुर्-अस्र-भूमिस् तद्-लम्ब-वर्ग-ऐक्य-पदम् श्रुतिस् @स्यात्।  
+    
+लिल्_१८५च्। समान-लम्बे लघु-दोस्-कु-योगात् मुख-अन्य-दोस्-संयुतिस् अल्पिका @स्यात्॥  
+    
+लिल्_१८५प्। उदाहरणम्।  
+    
+लिल्_१८६अ। %द्विपञ्चाशत्-मित-वि-%एक-%चत्वारिंशत्-मितौ भुजौ।  
+    
+लिल्_१८६च्। मुखम् तु %पञ्चविंशत्या तुल्यम् %षष्ट्या मही किल॥  
+    
+लिल्_१८७अ। अतुल्य-लम्बकम् क्षेत्रम् इदम् पूर्वैस् उदाहृतम्।  
+    
+लिल्_१८७च्। %षट्पञ्चाशत् %त्रिषष्टिस् च नियते कर्णयोस् मिती।  
+    
+लिल्_१८७ए। कर्णौ तत्र अपरौ @ब्रूहि सम-लम्बम् च तद्-श्रुती॥  
+    
+लिल्_१८७प्। न्यासस्। [फ़िग्।१३] अत्र बृहत्-कर्णम् %त्रिषष्टि-मितम् @प्रकल्प्य ज्ञातस् [एद्।जातस्] प्राक्-वत् अन्य-कर्णस् ५६॥ अथ %षट्पञ्चाशत्-स्थाने %द्वात्रिंशत्-मितम् कर्णम् ३२ @प्रकल्प्य प्राक्-वत् साध्यमाने कर्णे न्यासस्। [फ़िग्।१४] जातम् करणी-खण्ड-%द्वयम् ६२१। २७००। अनयोस् मूलयोस् २४_२३_२५। ५१_२४_२५। ऐक्यम् %द्वितीयस् कर्णस् ७६_२२_२५॥ अथ तत् एव क्षेत्रम्  
+चेद् सम-लम्बम्[।] [फ़िग्।१५] मुख-ऊन-भूमिम् @प्रकल्प्य भूमिम् इति ज्ञान-अर्थम् %त्रि-अस्रम् कल्पितम्। न्यासस्। [फ़िग्।१६] अत्र आबाधे जाते ३_५। १७२_५। लम्बस् च करणी-गतस् जातस् ३८०१६_२५[।] आसन्न-मूल-करणेन जातस् ३८_६२२_६२५। अयम् तत्र %चतुर्-भुजे सम-लम्बस्[।] लघु-आबाधा-ऊनित-भूमेस् सम-लम्बस्य च वर्ग-योगस् ५०४९[।] अयम् कर्ण-वर्गस्। एवम् बृहत्-आबाधातस्  
+%द्वितीय-कर्ण-वर्गस् २१७६। अनयोस् आसन्न-मूल-करणेन जातौ कर्णौ ७१_१_२०[।] ४६_१३_२०[।] एवम् %चतुर्-अस्रे तेषु एव बाहुषु अन्यौ कर्णौ बहुधा @भवतस्॥ एवम् अनियतत्वे अपि नियतौ एव कर्णौ आनीतौ ब्रह्मगुप्त-आद्यैस् तद्-आनयनम् यथा।   
+    
+लिल्_१८८अ। कर्ण-आश्रित-भुज-घात-ऐक्यम् उभयथा अन्योन्य-भाजितम् @गुणयेत्।  
+    
+लिल्_१८८च्। योगेन भुज-प्रतिभुज-वधयोस् कर्णौ पदे विषमे॥  
+    
+लिल्_१८८प्। न्यासस्। कर्ण-आश्रित-भुज-घात-इत्य् %एक-वारम् अनयोस् २५। ३९ घातस् ९७५। तथा ५२। ६० अनयोस् घातस् ३१२०। घातयोस् %द्वयोस् ऐक्यम् ४०९५। तथा %द्व्तीय-वारम् २५। ५२। अनयोस् घाते जातम् १३००। तथा %द्वितीय-वारम् ३९। ६०। अनयोस् घाते जातम् २३४०। [तथा २५। ५२ अनयोस् घाते जातम् १३००।] घातयोस् %द्वयोस् ऐक्यम् ३६४०। भुज-प्रतिभुजयोस् ५२। ३९ घातस्  
+२०२८। पश्चात् २५। ६० अनयोस् वधस् १५००। तयोस् ऐक्यम् ३५२८। अनेन ऐक्येन ३६४० गुणितम् जातम् पूर्व-ऐक्यम् १२८४१९२०। %प्रथम-कर्ण-आश्रित-भुज-घात-ऐक्येन ४०९५ भक्तम् लब्धम् ३१३६। अस्य मूलम् ५६ %एक-कर्णस्। तथा %द्वितीय-कर्ण-अर्थम् %प्रथम-कर्ण-आश्रित-भुज-घात-ऐक्यम् ४०९५ भुज-प्रतिभुज-वध-योग-३५२८-गुणितम् जातम् १४४४७१६०।  
+अन्य-कर्ण-आश्रित-घात-ऐक्येन ३६४० भक्तम् लब्धम् ३९६९। अस्य मूलम् ६३ %द्वितीयस् कर्णस्॥ अस्मिन् विषये क्षेत्र-कर्ण-साधनम्। अस्य कर्ण-आनयनस्य प्रक्रिया-गौरवम् लघु-प्रक्रिया-दर्शन-द्वारेण आह।  
+    
+लिल्_१८९अ। अभीष्ट-जात्य-%द्वय-बाहु-कोटयस् परस्परम् कर्ण-हतास् भुजास् इति।  
+    
+लिल्_१८९च्। %चतुर्-भुजम् यत् विषमम् प्रकल्पितम् श्रुती तु तत्र %त्रि-भुज-%द्वयात् ततस्॥  
+    
+लिल्_१९०अ। बाह्वोस् वधस् कोटि-वधेन युक् @स्यात् एका श्रुतिस् कोटि-भुजा-वध-ऐक्यम्।  
+    
+लिल्_१९०च्। अन्या लघौ सति अपि साधने अस्मिन् पूर्वैस् कृतम् यत् गुरु तत् न @विद्मस्॥  
+    
+लिल्_१९०प्। जात्य-क्षेत्र-%द्वयम्। न्यासस् [फ़िग्।१७][।] एतयोस् इतरेतर-कर्ण-हतास् भुजास् कोटयस् इतरेत-कर्ण-हतास् कोटयस् भुजास् इति कृते जातम् २५। ६०। ५२। ३९। तेषाम् महती भूस् लघु मुखम् इतरौ बाहू इति @प्रकल्प्य क्षेत्र-दर्शनम्। [फ़िग्। लोस्त्] इमौ कर्णौ महता आयासेन आनीतौ ६३। ५६। अस्य एव जात्य-%द्वयस्य उत्तर-उत्तर-भुज-कोट्योस् घातौ जातौ  
+३६। २०। अनयोस् ऐक्यम् %एकस् कर्णस् ५६। बाह्वोस् ३। ५। कोट्योस् च ४। १२। घातौ १५। ४८। अनयोस् ऐक्यम् अन्यस् कर्णस् ६३। एवम् श्रुती @स्याताम्। एवम् सुखेन @ज्ञायते॥ अथ यदि पार्श्व-भुज-मुखयोस् व्यत्ययम् @कृत्वा न्यस्तम् क्षेत्रम्। न्यासस्। [फ़िग्।१८] तदा जात्य-%द्वय-कर्णयोस् वधस् ६५ %द्वितीय-कर्णस्॥ अथ सूची-क्षेत्र-उदाहरणम्। [फ़िग्।१९]  
+    
+लिल्_१९१अ। क्षेत्रे यत्र %शत-%त्रयम् ३०० क्षिति-मितिस् #तत्त्व-#इन्दु-१२५-तुल्यम् मुखम्।  
+    
+लिल्_१९१ब्। बाहू #ख-#उत्कृतिभिस् २६० #शर-#अतिधृतिभिस् १९५ तुल्यौ च तत्र श्रुती।  
+    
+लिल्_१९१च्। %एका #ख-%अष्ट-#यमैस् २८० समा #तिथि-#गुणैस् ३१५ अन्या अथ तद्-लम्बकौ[।]  
+    
+लिल्_१९१द्। तुल्यौ #गो-#धृतिभिस् १८९ तथा #जिन-#यमैस् २२४ योगात् श्रवस्-लम्बयोस्॥  
+    
+लिल्_१९२अ। तद्-खण्डे @कथय अधरे श्रवणयोस् योगात् च लम्ब-अबधे[।]  
+    
+लिल्_१९२ब्। तद्-सूची निज-मार्ग-वृद्ध-भुजयोस् योगात् यथा @स्यात् ततस्।  
+    
+लिल्_१९२च्। स-आबाधम् @वद लम्बकम् च भुजयोस् सूच्यास् प्रमाणे च के[।]  
+    
+लिल्_१९२द्। सर्वम् गाणितिक @प्रचक्ष्व नितराम् क्षेत्रे अत्र दक्षस् @असि चेद्॥  
+    
+लिल्_१९२प्। अथ सन्धि-आदि-आनयनाय करण-सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_१९३अ। लम्ब-तद्-आश्रित-बाह्वोस् मध्यम् सन्धि-आख्यम् अस्य लम्बस्य।  
+    
+लिल्_१९३च्। सन्धि-ऊना भूस् पीठम् साध्यम् यस्य अधरम् खण्डम्॥  
+    
+लिल्_१९४अ। सन्धिस् द्विष्ठस् पर-लम्ब-श्रवण-हतस् परस्य पीठेन।  
+    
+लिल्_१९४च्। भक्तस् लम्ब-श्रुत्योस् योगात् @स्याताम् अधस्-खण्डे॥  
+    
+लिल्_१९४प्। लम्बस् १८९। तद्-आश्रित-भुजस् १९५। अनयोस् मध्ये यत् लम्ब-लम्ब-आश्रित-बाहु-वर्ग-इति-आदिना आगता आबाधा सन्धि-सञ्ज्ञा ४८। तद्-ऊनित-भूस् इति %द्वितीया आबाधा सा पीठ-सञ्ज्ञा २५२। एवम् %द्वितीय-लम्बस् २२४। तद्-आश्रित-भुजस् २६०[।] पूर्व-वत् सन्धिस् १३२। पीठम् १६८॥ अथ आद्य-लम्बस्य १८९ अधस्-खण्डम् साध्यम्। अस्य सन्धिस् ४८। %द्वि-स्थस् ४८।  
+पर-लम्बेन २२४। श्रवणेन च २८०। पृथक् गुणितस् १०७५२। १३४४०। परस्य पीठेन १६८ भक्तस् लब्धम् लम्ब-अधस्-खण्डम् ६४। श्रवण-अधस्-खण्डम् च ८०। एवम् %द्वितीय-लम्बस्य २२४। सन्धिस् १३२। पर-लम्बेन १८९। कर्णेन च ३१५। पृथक् गुणितस् परस्य पीठेन २५२ भक्तस् लब्धम् लम्ब-अधस्-खण्डम् ९९। श्रवण-अधस्-खण्डम् च १६५॥ अथ कर्णयोस् योगात्  
+अधस्-लम्ब-ज्ञान-अर्थम् सूत्रम् वृत्तम्।  
+    
+लिल्_१९५अ। लम्बौ भू-घ्नौ निज-निज-पीठ-विभक्तौ च वंशौ @स्तस्।  
+    
+लिल्_१९५च्। ताभ्याम् प्राक्-वत् श्रुत्योस् योगात् लम्बस् कु-खण्डे च॥  
+    
+लिल्_१९५प्। लम्बौ १८९। २२४। भू-३००-घ्नौ जातौ ५६७००। ६७२००। स्व-स्व-पीठाभ्याम् २५२। १६८ भक्तौ। एवम् अत्र लब्धौ वंशौ २२५। ४००। आभ्याम् अन्योन्य-मूल-अग्र-ग-सूत्र-योगात् इति-आदि-करणेन लब्धस् कर्ण-योगात् अधस्-लम्बस् १४४। भू-खण्डे च १०८। १९२॥ अथ सूची-आबाधा-लम्ब-भुज-ज्ञान-अर्थम् सूत्रम् वृत्त-%त्रयम्।  
+    
+लिल्_१९६अ। लम्ब-हृतस् निज-सन्धिस् पर-लम्ब-गुणस् सम-आह्वयस् ज्ञेयस्।  
+    
+लिल्_१९६च्। सम-पर-सन्ध्योस् ऐक्यम् हारस् तेन उद्धृतौ तौ च॥  
+    
+लिल्_१९७अ। सम-पर-सन्धी भू-घ्नौ सूची-आबाधे पृथक् @स्याताम्।  
+    
+लिल्_१९७च्। हार-हृतस् पर-लम्बस् सूची-लम्बस् @भवेत् भू-घ्नस्॥  
+    
+लिल्_१९८अ। सूची-लम्ब-घ्न-भुजौ निज-निज-लम्ब-उद्धृतौ भुजौ सूच्यास्।  
+    
+लिल्_१९८च्। एवम् क्षेत्र-क्षोदस् प्राज्ञैस् त्रैराशिकात् @क्रियते॥  
+    
+लिल्_१९८प्। अत्र किल अयम् लम्बस् २२४। अस्य सन्धिस् १३२। अयम् पर-लम्बेन १८९ गुणितस् २२४ अनेन भक्तस् जातस् सम-आह्वयस् ८९१_८। अस्य पर-सन्धेस् च ४८। योगस् हारस् १२७५_८। अनेन भू-घ्नस् ३०० समस् २६७३००_८ पर-सन्धिस् च १४४००_१। भक्तस् जाते सूची-आबाधे ३५६४_१७। १५३६_१७। एवम् %द्वितीय-सम-आह्वयस् ५१२_९। %द्वितीयस् हारस् १७००_९। अनेन भू-घ्नस् स्वीयस्  
+समस् १५३६००_९। पर-सन्धिस् च ३९६००_१। भक्तस् जाते सूची-आबाधे १५३६_१७। ३५६४_१७। [आपटे: जात < जाते] पर-लम्बस् २२४। भूमि-३००-गुणस् हारेण १७००_९ भक्तस् जातस् सूची-लम्बस् ६०४८_१७। सूची-लम्बेन भुजौ १९५। २६० गुणितौ स्व-स्व-लम्बाभ्याम् १८९। २२४ यथा-क्रमम् भक्तौ जातौ स्व-मार्ग-वृद्धौ सूची-भुजौ ६२४०_१७[।] ७०२०_१७। एवम् अत्र सर्वत्र  
+भाग-हार-राशि-प्रमाणम्। गुण्य-गुणकौ तु यथा-योग्यम् फल-इच्छे @प्रकल्प्य सुधिया त्रैराशिकम् ऊह्यम्॥ अथ वृत्त-क्षेत्रे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_१९९अ। व्यासे #भ-#नन्द-#अग्नि-३९२७-हते विभक्ते #ख-#बाण-#सूर्यैस् १२५० परिधिस् सस् सूक्ष्मस्। [शर्म: सुसूक्ष्मस् < सस् सूक्ष्मस्]  
+    
+लिल्_१९९च्। %द्वाविंशति-२२-घ्ने विहृते अथ #शैलैस् ७ स्थूलस् अथ वा @स्यात् व्यवहार-योग्यस्॥  
+    
+लिल्_१९९प्। उदाहरणम्।  
+    
+लिल्_२००अ। विष्कम्भ-मानम् किल %सप्त ७ यत्र तत्र प्रमाणम् परिधेस् @प्रचक्ष्व।  
+    
+लिल्_२००च्। %द्वाविंशतिस् २२ यद्-परिधि-प्रमाणम् तद्-व्यास-सङ्ख्याम् च सखे @विचिन्त्य॥  
+    
+लिल्_२००प्। न्यासस्। व्यास-मानम् ७। लब्धम् परिधि-मानम् २१_१२३९_१२५०। [फ़िग्।२०] स्थूलस् वा परिधिस् लब्धस् २२॥ अथ वा परिधि-तस् व्यास-आनयनाय न्यासस्। [परिधि-मानम् २२।] गुण-हार-विपर्ययेण व्यास-मानम् सूक्ष्मम् ७_११_३९२७[।] स्थूलम् वा ७॥ वृत्त-गोलयोस् फल-आनयने करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२०१अ। वृत्त-क्षेत्रे परिधि-गुणित-व्यास-पादस् फलम् यत् क्षुण्णम् वेदैस् उपरि परितस् कन्दुकस्य इव जालम्। [आपटे: -क्षेत्र < -क्षेत्रे]   
+    
+लिल्_२०१च्। गोलस्य एवम् तत् अपि च फलम् पृष्ठ-जम् व्यास-निघ्नम् %षड्भिस् भक्तम् @भवति नियतम् गोल-गर्भे घन-आख्यम्॥  
+    
+लिल्_२०१प्। उदाहरणम्।  
+    
+लिल्_२०२अ। यद्-व्यासस् #तुरगैस् मितस् किल फलम् क्षेत्रे समे तत्र किम् व्यासस् %सप्त-मितस् च यस्य सुमते गोलस्य तस्य अपि किम्।  
+    
+लिल्_२०२च्। पृष्ठे कन्दुक-जाल-सन्निभ-फलम् गोलस्य तस्य अपि किम् मध्ये @ब्रूहि घनम् फलम् च विमलाम् चेद् @वेत्सि लीलावतीम्॥  
+    
+लिल्_२०२प्। वृत्त-क्षेत्र-फल-दर्शनाय न्यासस्। [फ़िग्।२२] व्यासस् ७। परिधिस् २१_१२३९_१२५०। [आपटे: १२५० < १२३९] क्षेत्र-फलम् ३८_२४२३_५०००। गोल-पृष्ठ-फल-दर्शनाय न्यासस्। [फ़िग्।२३] व्यासस् ७। गोल-पृष्ठ-फलम् १५३_११७३_१२५०। गोल-अन्तर्-गत-घन-फल-दर्शनाय न्यासस्। [फ़िग्।२४] व्यासस् ७। गोलस्य अन्तर्-गतम् घन-फलम् १७९_१४८७_२५००॥ अथ प्रकार-अन्तरेण  
+तद्-फल-आनयने करण-सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_२०३अ।व्यासस्य वर्गे #भ-%नव-#अग्नि-निघ्ने सूक्ष्मम् फलम् %पञ्च-%सहस्र-भक्ते।  
+    
+लिल्_२०३च्। #रुद्र-आहते #शक्र-हृते अथ वा @स्यात् स्थूलम् फलम् तत् व्यवहार-योग्यम्॥  
+    
+लिल्_२०३ए। घनी-कृत-व्यास-#दलम् निज-%एकविंश-अंश-युक् गोल-घनम् फलम् @स्यात्॥  
+    
+लिल्_२०३प्। शर-जीव-आनयनाय करण-सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_२०४अ। ज्या-व्यास-योग-अन्तर-घात-मूलम् व्यासस् तद्-ऊनस् दलितस् शरस् @स्यात्।  
+    
+लिल्_२०४च्। व्यासात् शर-ऊनात् शर-सङ्गुणात् च मूलम् %द्वि-निघ्नम् @भवति इह जीवा।  
+    
+लिल्_२०४ए। जीवा-%अर्ध-वर्गे शर-भक्त-युक्ते व्यास-प्रमाणम् @प्रवदन्ति वृत्ते॥  
+    
+लिल्_२०४प्। उदाहरणम्।  
+    
+लिल्_२०५अ। %दश-विस्तृति-वृत्त-अन्तर् यत्र ज्या %षष्-मिता सखे।  
+    
+लिल्_२०५च्। तत्र इषुम् @वद बाणात् ज्याम् ज्या-बाणाभ्याम् च विस्तृतिम्॥  
+    
+लिल्_२०५प्। न्यासस्। [फ़िग्।२५] व्यासस् १०। ज्या ६। योगस् १६। अन्तरम् ४। घातस् ६४। मूलम् ८। एतद्-ऊनस् व्यासस् २। दलितस् १। जातस् शरस् १। व्यासात् १०। शर-ऊनात् ९। शर-१-सङ्गुणात् ९। मूलम् ३ %द्वि-निघ्नम् जाता जीवा ६॥ एवम् ज्ञाताभ्याम् ज्या-बाणाभ्याम् व्यास-आनयनम् यथा। जीवा-%अर्ध-३-वर्गे ९ शर-१-भक्ते ९। शर-१-युक्ते जातस् व्यासस् १०॥ अथ  
+वृत्त-अन्तर्-%त्रि-अस्र-आदि-%नव-अस्र-अन्त-क्षेत्राणाम् भुज-मान-आनयनाय करण-सूत्रम् वृत्त-%त्रयम्।  
+    
+लिल्_२०६अ। %त्रि-%द्वि-#अङ्क-#अग्नि-#नभस्-#चन्द्रैस् १०३९२३ %त्रि-#बाण-%अष्ट-#युग-%अष्टभिस् ८४८५३। [शर्म: %द्वि-%द्वि- < त्रि-द्वि-]  
+    
+लिल्_२०६च्। #वेद-#अग्नि-#बाण-#ख-#अश्वैस् ७०५३४ च #ख-#ख-#अभ्र-#अभ्र-#रसैस् ६०००० क्रमात्॥  
+    
+लिल्_२०७अ। #बाण-#इषु-#नख-#बाणैस् ५२०५५ च %द्वि-%द्वि-#नन्द-#इषु-#सागरैस् ४५९२२। [शर्म: #शैल-#ऋतु- < बाण-इषु-]  
+    
+लिल्_२०७च्। #कु-#राम-%दश-#वेदैस् ४१०३१ च वृत्त-व्यासे समाहते॥ [शर्म: %त्रि-#वेद- < कु-राम-]  
+    
+लिल्_२०८अ। #ख-#ख-#ख-#अभ्र-#अर्क-१२००००-सम्भक्ते @लभ्यन्ते क्रमशस् भुजास्।  
+    
+लिल्_२०८च्। वृत्त-अन्तर्-%त्रि-अस्र-पूर्वाणाम् %नव-अस्र-अन्तम् पृथक् पृथक्॥ [शर्म: वृत्त-तद्- < वृत्त-अन्तर्-, नव-अन्तानाम् < नव-अस्र-अन्तम्]  
+    
+लिल्_२०८प्। उदाहरणम्।  
+    
+लिल्_२०९अ। %सहस्र-%द्वितय-व्यासम् यत् वृत्तम् तस्य मध्यतस्।  
+    
+लिल्_२०९च्। सम-%त्रि-अस्र-आदिकानाम् मे भुजान् @वद पृथक् पृथक्॥  
+    
+लिल्_२०९प्। अथ वृत्त-अन्तर्-%त्रि-भुजे भुज-मान-आनयनाय न्यासस्। [फ़िग्।२६] व्यासस् २०००। %त्रि-%द्वि-#अङ्क-#अग्नि-#नभस्-#चन्द्रैस् १०३९२३ गुणितस् २०७८४६००० %ख-%ख-%ख-%अभ्र-%अर्कैस् १२०००० भक्ते लब्धम् %त्रि-अस्रे भुज-मानम् १७३२_१_२०॥ वृत्त-अन्तर्-%चतुर्-भुजे भुज-मान-आनयनाय न्यासस्। [फ़िग्।२७] व्यासस् २०००। %त्रि-#बाण-%अष्ट-#युग-%अष्टभिस् ८४८५३  
+गुणितस् १६९७०६००० #ख-#ख-#ख-#अभ्र-#अर्कैस् १२०००० भक्ते लब्धम् %चतुर्-अस्रे भुज-मानम् १४१४_१३_६०॥ वृत्त-अन्तर्-%पञ्च-भुजे भुज-मान-आनयनाय न्यासस्। [फ़िग्।२८] व्यासस् २०००। #वेद-#अग्नि-#बाण-#ख-#अश्वैस् ७०५३४ गुणितस् १४१०६८००० #ख-#ख-#ख-#अभ्र-#अर्कैस् १२०००० भक्ते लब्धम् %पञ्च-अस्रे भुज-मानम् ११७५_१७_३०॥ वृत्त-अन्तर्-%षष्-भुजे  
+भुज-मान-आनयनाय न्यासस्। [फ़िग्।२९] व्यासस् २०००। #ख-#ख-#अभ्र-#अभ्र-#रसैस् ६०००० गुणितस् १२००००००० #ख-#ख-#ख-#अभ्र-#अर्कैस् १२०००० भक्तस् लब्धम् %षष्-अस्रे भुज-मानम् १०००॥ वृत्त-अन्तर्-%सप्त-भुजे भुज-मान-आनयनाय न्यासस्। [फ़िग्। ३०] व्यासस् २०००। #बाण-#इषु-#नख-#बाणैस् ५२०५५ गुणितस् १०४११०००० #ख-#ख-#ख-#अभ्र-#अर्कैस् १२०००० भक्ते  
+लब्धम् #सप्त-अस्रे भुज-मानम् ८६७_७_१२॥ वृत्त-अन्तर्-%अष्ट-भुजे भुज-मान-आनयनाय न्यासस्। [फ़िग्।३०अ, लोस्त्] व्यासस् २०००। %द्वि-%द्वि-#नन्द-#इषु-सागरैस् ४५९२२ गुणितस् ९१८४४००० #ख-#ख-#ख-#अभ्र-#अर्कैस् १२०००० भक्ते लब्धम् #अष्ट-अस्रे भुज-मानम् ७६५_११_३०॥ वृत्त-अन्तर्-%नव-भुजे भुज-मान-आनयनाय न्यासस्। [फ़िग्।३१] व्यासस् २०००। #कु-#राम-%दश-#वेदैस्  
+४१०३१ गुणितस् ८२०६२००० #ख-#ख-#ख-#अभ्र-#अर्कैस् १२०००० भक्तस् लब्धम् %नव-अस्रे भुज-मानम् ६८३_१७_२०॥ एवम् इष्ट-व्यास-आदिभ्यस् अन्यास् अपि जीवास् @सिध्यन्ति इति तास् तु गोले ज्या-उत्पत्तौ @वक्ष्ये॥ अथ स्थूल-जीवा-ज्ञान-अर्थम् लघु-क्रियया करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२१०अ। चाप-ऊन-निघ्न-परिधिस् %प्रथम-आह्वयस् @स्यात् %पञ्च-आहतस् परिधि-वर्ग-%चतुर्थ-भागस्।  
+    
+लिल्_२१०च्। आद्य-ऊनितेन खलु तेन @भजेत् %चतुर्-घ्न-व्यास-आहतम् %प्रथमम् आप्तम् इह ज्यका @स्यात्॥  
+    
+लिल्_२१०प्। उदाहरणम्।  
+    
+लिल्_२११अ। %अष्टादश-अंशेन वृतेस् समानम् %एक-आदि-निघ्नेन च यत्र चापम्।  
+    
+लिल्_२११च्। पृथक् पृथक् तत्र @वद आशु जीवाम् #ख-#अर्कैस् मितम् व्यास-#दलम् च यत्र॥  
+    
+लिल्_२११प्। न्यासस्। [फ़िग्।३२] व्यासस् २४०। अत्र किल अङ्क-लाघवाय %विंशतेस् स-%अर्ध-#अर्क-%शत-अंश-मिलितस् सूक्ष्म-परिधिस् ७५४। अस्य %अष्टादश-अंशस् ४२। अत्र अपि अङ्क-लाघवाय %द्वयोस् %अष्टादश-अंश-युतस् गृहीतस्। अनेन पृथक् पृथक् %एक-आदि-गुणितेन तुल्ये धनुषि कल्पिते ज्यास् साध्यास्॥ अथ वा अत्र सुख-अर्थम् परिधेस् %अष्टादश-अंशेन परिधिम् धनूंषि  
+च @अपवर्त्य ज्यास् साध्यास् तथा अपि तास् एव @भवन्ति। अपवर्तिते न्यासस्। परिधिस् १८। चापानि च १। २। ३। ४। ५। ६। ७। ८। ९। यथा-उक्त-करणेन लब्धास् जीवास् ४२। ८२। १२०। १५४। १८४। २०८। २२६। २३६। २४०॥ अथ चाप-आनयनाय करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२१२अ। व्यास-#अब्धि-घात-युत-मौर्विकया विभक्तस् जीवा-#अङ्घ्रि-%पञ्च-गुणितस् परिधेस् तु वर्गस्।  
+    
+लिल्_२१२च्। लब्ध-ऊनितात् परिधि-वर्ग-%चतुर्थ-भागात् आप्ते पदे वृति-#दलात् पतिते धनुस् @स्यात्॥  
+    
+लिल्_२१२प्। उदाहरणम्।  
+    
+लिल्_२१३अ। विदितास् इह ये गुणास् ततस् @वद तेषाम् अधुना धनुस्-मितीस्। [शर्म: स्वतस् < ततस्, अथ मे < अधुना, -मितिम् < -मितीस्]  
+    
+लिल्_२१३च्। यदि ते @अस्ति धनुस्-गुण-क्रिया-गणिते गाणितिक अतिनैपुणम्॥ [शर्म: अतिनैपुणी]  
+    
+लिल्_२१३प्१। न्यासस्। ज्यास् ४२। ८२। १२०। १५४। १८४। २०८। २२६। २३६। २४०[।] सस् एव अपवर्तित-परिधिस् १८। जीवा-#अङ्घ्रिणा २१_२ %पञ्चभिस् ५ च परिधेस् १८ वर्गस् ३२४ गुणितस् १७०१०। व्यास-२४०-#अब्धि-४-घात-९६०-युत-मौर्विकया १००२ अनया विभक्तस् लब्धस् १७। अत्र अङ्क-लाघवाय %चतुर्विंशतेस् %द्वि-अधिक-%सहस्र-अंश-युतस् गृहीतस्। अनेन ऊनितात्  
+परिधि-१८-वर्ग-३२४-%चतुर्थ-८१-भागात् ६४ पदे प्राप्ते ८ वृति-१८-#दलात् ९ पतिते १ जातम् धनुस्। एवम् जातानि धनूंषि १। २। ३। ४। ५। ६। ७। ८। ९[।] एतानि परिधि-%अष्टादश-अंशेन गुणितानि @स्युस्॥ इति भास्कर-आचार्य-विरचितायाम् लीलावत्याम् क्षेत्र-व्यवहारस् समाप्तस्॥
 
-[khāta-vyavahāra]  
+[खात-व्यवहार]
 
-Lil_213p2/ atha khāta-vyavahāras/ karaṇa-sūtram sa-%ardhā āryā/  
-  
-Lil_214a/ @gaṇayitvā vistāram bahuṣu sthāneṣu tad-yutis bhājyā/  
-  
-Lil_214c/ sthānaka-mityā sama-mitis evam dairghyam ca vedhe ca//  
-  
-Lil_214e/ kṣetra-phalam vedha-guṇam khāte ghana-hasta-saṃkhyā @syāt// [śarma: ghāte < khāte]  
-  
-Lil_214p/ udāharaṇam/  
-  
-Lil_215a/ bhuja-vakratayā dairghyam %daśa-#īśa-#arka-karais mitam/  
-  
-Lil_215c/ %triṣu sthāneṣu %ṣaṣ-%pañca-%sapta-hastā ca vistṛtis// [śarma: -hastā atra < -hastā ca]  
-  
-Lil_216a/ yasya khātasya vedhas api %dvi-%catur-%tri-karas sakhe/ [śarma: -tri-mitas < -tri-karas]  
-  
-Lil_216c/ tatra khāte kiyantas @syus ghana-hastās @pracakṣva me//  
-  
-Lil_216p/ nyāsas/ [fig.33] atra sama-miti-karaṇena vistāre hastās 6/ dairghye 11 vedhe ca 3/ tathā kṛte kṣetra-darśanam/ nyāsas/ [fig.34] yathā-ukta-karaṇena labdhā ghana-hasta-saṃkhyā 198// [āpaṭe: -raṇena < -karaṇena] khāta-antare karaṇa-sūtram sa-ardha-vṛttam/  
-  
-Lil_217a/ mukha-ja-tala-ja-tad-yuti-ja-kṣetra-phala-aikyam hṛtam %ṣaḍbhis/  
-  
-Lil_217c/ kṣetra-phalam samam evam vedha-hatam ghana-phalam spaṣṭam// [śarma: -guṇam < -hatam]  
-  
-Lil_217e/ sama-khāta-phala-%tri-aṃśas sūcī-khāte phalam @bhavati//  
-  
-Lil_217p/ udāharaṇam/  
-  
-Lil_218a/ mukhe %daśa-%dvādaśa-hasta-tulyam vistāra-dairghyam  tu tale tad-%ardham/ [śarma: -tulye < -tulyam, -dairghye < -dairghyam]  
-  
-Lil_218c/ yasyās sakhe %sapta-karas ca vedhas kā khāta-saṃkhyā @vada tatra vāpyām//  
-  
-Lil_218p/ nyāsas/ [fig.35] mukha-jam kṣetra-phalam 120/ tala-jam 30/ tad-yuti-jam 270/ eṣām aikyam 420/ %ṣaḍbhis 6 hṛtam jātam sama-phalam 70 vedha-7-hatam jātam khāta-phalam ghana-hastās 490//  %dvitīya-udāharaṇam/  
-  
-Lil_219a/ khāte atha #tigmakara-tulya-%catur-bhuje ca kim @syāt phalam %nava-mitas kila yatra vedhas/ [śarma: khalu < kila]  
-Lil_219c/ vṛtte tathā eva %daśa-vistṛti-%pañca-vedhe sūcī-phalam @vada tayos ca pṛthak pṛthak me//  
-  
-Lil_219p1/ nyāsas/ [fig.36] bhujas 12/ vedhas 9/ jātam yathā-ukta-karaṇena khāta-phalam ghana-hastās 1296/ sūcī-phalam 432//  vṛtta-khāta-darśanāya nyāsas/ [fig.37] vyāsas 10/ vedhas 5/ atra sūkṣma-paridhis 3927_125/ sūkṣma-kṣetra-phalam 3927_50/ vedha-guṇam jātam khāta-phalam 3927_10/ sūkṣma-sūcī-phalam 1309_10/ yat vā sthūla-khāta-phalam 2750_7/ sūcī-phalam  
-sthūlam 2750_21//  iti khāta-vyavahāras samāptas//    
+लिल्_२१३प्२। अथ खात-व्यवहारस्। करण-सूत्रम् स-%अर्धा आर्या।  
+    
+लिल्_२१४अ। @गणयित्वा विस्तारम् बहुषु स्थानेषु तद्-युतिस् भाज्या।  
+    
+लिल्_२१४च्। स्थानक-मित्या सम-मितिस् एवम् दैर्घ्यम् च वेधे च॥  
+    
+लिल्_२१४ए। क्षेत्र-फलम् वेध-गुणम् खाते घन-हस्त-सङ्ख्या @स्यात्॥ [शर्म: घाते < खाते]  
+    
+लिल्_२१४प्। उदाहरणम्।  
+    
+लिल्_२१५अ। भुज-वक्रतया दैर्घ्यम् %दश-#ईश-#अर्क-करैस् मितम्।  
+    
+लिल्_२१५च्। %त्रिषु स्थानेषु %षष्-%पञ्च-%सप्त-हस्ता च विस्तृतिस्॥ [शर्म: -हस्ता अत्र < -हस्ता च]  
+    
+लिल्_२१६अ। यस्य खातस्य वेधस् अपि %द्वि-%चतुर्-%त्रि-करस् सखे। [शर्म: -त्रि-मितस् < -त्रि-करस्]  
+    
+लिल्_२१६च्। तत्र खाते कियन्तस् @स्युस् घन-हस्तास् @प्रचक्ष्व मे॥  
+    
+लिल्_२१६प्। न्यासस्। [फ़िग्।३३] अत्र सम-मिति-करणेन विस्तारे हस्तास् ६। दैर्घ्ये ११ वेधे च ३। तथा कृते क्षेत्र-दर्शनम्। न्यासस्। [फ़िग्।३४] यथा-उक्त-करणेन लब्धा घन-हस्त-सङ्ख्या १९८॥ [आपटे: -रणेन < -करणेन] खात-अन्तरे करण-सूत्रम् स-अर्ध-वृत्तम्।  
+    
+लिल्_२१७अ। मुख-ज-तल-ज-तद्-युति-ज-क्षेत्र-फल-ऐक्यम् हृतम् %षड्भिस्।  
+    
+लिल्_२१७च्। क्षेत्र-फलम् समम् एवम् वेध-हतम् घन-फलम् स्पष्टम्॥ [शर्म: -गुणम् < -हतम्]  
+    
+लिल्_२१७ए। सम-खात-फल-%त्रि-अंशस् सूची-खाते फलम् @भवति॥  
+    
+लिल्_२१७प्। उदाहरणम्।  
+    
+लिल्_२१८अ। मुखे %दश-%द्वादश-हस्त-तुल्यम् विस्तार-दैर्घ्यम् तु तले तद्-%अर्धम्। [शर्म: -तुल्ये < -तुल्यम्, -दैर्घ्ये < -दैर्घ्यम्]  
+    
+लिल्_२१८च्। यस्यास् सखे %सप्त-करस् च वेधस् का खात-सङ्ख्या @वद तत्र वाप्याम्॥  
+    
+लिल्_२१८प्। न्यासस्। [फ़िग्।३५] मुख-जम् क्षेत्र-फलम् १२०। तल-जम् ३०। तद्-युति-जम् २७०। एषाम् ऐक्यम् ४२०। %षड्भिस् ६ हृतम् जातम् सम-फलम् ७० वेध-७-हतम् जातम् खात-फलम् घन-हस्तास् ४९०॥ %द्वितीय-उदाहरणम्।  
+    
+लिल्_२१९अ। खाते अथ #तिग्मकर-तुल्य-%चतुर्-भुजे च किम् @स्यात् फलम् %नव-मितस् किल यत्र वेधस्। [शर्म: खलु < किल]  
+लिल्_२१९च्। वृत्ते तथा एव %दश-विस्तृति-%पञ्च-वेधे सूची-फलम् @वद तयोस् च पृथक् पृथक् मे॥  
+    
+लिल्_२१९प्१। न्यासस्। [फ़िग्।३६] भुजस् १२। वेधस् ९। जातम् यथा-उक्त-करणेन खात-फलम् घन-हस्तास् १२९६। सूची-फलम् ४३२॥ वृत्त-खात-दर्शनाय न्यासस्। [फ़िग्।३७] व्यासस् १०। वेधस् ५। अत्र सूक्ष्म-परिधिस् ३९२७_१२५। सूक्ष्म-क्षेत्र-फलम् ३९२७_५०। वेध-गुणम् जातम् खात-फलम् ३९२७_१०। सूक्ष्म-सूची-फलम् १३०९_१०। यत् वा स्थूल-खात-फलम् २७५०_७। सूची-फलम्  
+स्थूलम् २७५०_२१॥ इति खात-व्यवहारस् समाप्तस्॥  
 
-[citi-vyavahāra]  
+[चिति-व्यवहार]
 
-Lil_219p1/ citau karaṇa-sūtram sa-%ardha-vṛttam/  
-  
-Lil_220a/ ucchrayeṇa guṇitam cites kila kṣetra-saṃbhava-phalam ghanam @bhavet/ [śarma: api < kila]  
-  
-Lil_220c/ iṣṭakā-ghana-hṛte ghane cites iṣṭakā-parimitis ca @labhyate// [śarma: tu < ca]  
-  
-Lil_220e/ iṣṭakā-ucchraya-hṛt-ucchritis cites @syus starās ca dṛṣadām cites api//   
-  
-Lil_220p/ udāharaṇam/  
-  
-Lil_221a/ %aṣṭādaśa-aṅgulam dairghyam vistāras %dvādaśa-aṅgulas/  
-  
-Lil_221c/ ucchritis %tri-aṅgulā yāsām iṣṭakās tās citau kila//  
-  
-Lil_222a/ yad-vistṛtis %pañca-karā %aṣṭa-hastam dairghyam ca yasyām %tri-kara-ucchritis ca/ [śarma: yasyās < yasyām]  
-  
-Lil_222c/ tasyām citau kim phalam iṣṭakānām saṃkhyā ca kā @brūhi kati starās ca// [śarma: kim < kā]  
-  
-Lil_222p1/ nyāsas/ [fig.38] iṣṭakā-citis/ iṣṭakāyās ghana-hasta-mānam 3_64/ cites kṣetra-phalam 40/ ucchrayeṇa guṇitam cites ghana-phalam 120/ labdhā iṣṭakā-saṃkhyā 2560/ stara-saṃkhyā 24/ evam pāṣāṇa-citau api//  iti citi-vyavahāras//    
+लिल्_२१९प्१। चितौ करण-सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_२२०अ। उच्छ्रयेण गुणितम् चितेस् किल क्षेत्र-सम्भव-फलम् घनम् @भवेत्। [शर्म: अपि < किल]  
+    
+लिल्_२२०च्। इष्टका-घन-हृते घने चितेस् इष्टका-परिमितिस् च @लभ्यते॥ [शर्म: तु < च]  
+    
+लिल्_२२०ए। इष्टका-उच्छ्रय-हृत्-उच्छ्रितिस् चितेस् @स्युस् स्तरास् च दृषदाम् चितेस् अपि॥   
+    
+लिल्_२२०प्। उदाहरणम्।  
+    
+लिल्_२२१अ। %अष्टादश-अङ्गुलम् दैर्घ्यम् विस्तारस् %द्वादश-अङ्गुलस्।  
+    
+लिल्_२२१च्। उच्छ्रितिस् %त्रि-अङ्गुला यासाम् इष्टकास् तास् चितौ किल॥  
+    
+लिल्_२२२अ। यद्-विस्तृतिस् %पञ्च-करा %अष्ट-हस्तम् दैर्घ्यम् च यस्याम् %त्रि-कर-उच्छ्रितिस् च। [शर्म: यस्यास् < यस्याम्]  
+    
+लिल्_२२२च्। तस्याम् चितौ किम् फलम् इष्टकानाम् सङ्ख्या च का @ब्रूहि कति स्तरास् च॥ [शर्म: किम् < का]  
+    
+लिल्_२२२प्१। न्यासस्। [फ़िग्।३८] इष्टका-चितिस्। इष्टकायास् घन-हस्त-मानम् ३_६४। चितेस् क्षेत्र-फलम् ४०। उच्छ्रयेण गुणितम् चितेस् घन-फलम् १२०। लब्धा इष्टका-सङ्ख्या २५६०। स्तर-सङ्ख्या २४। एवम् पाषाण-चितौ अपि॥ इति चिति-व्यवहारस्॥  
 
-[krakaca-vyavahāra]  
+[क्रकच-व्यवहार]
 
-Lil_222p2/ atha krakaca-vyavahāre karaṇa-sūtram vṛttam/  
-  
-Lil_223a/ piṇḍa-yoga-#dalam agra-mūlayos dairghya-saṃguṇitam aṅgula-ātmakam/  
-  
-Lil_223c/ dāru-dāraṇa-pathais samāhatam %ṣaṣ-#svara-#iṣu-vihṛtam kara-ātmakam// [āpaṭe: ṣaṣ-stareṣu vihṛtam]   
-  
-Lil_223p/ udāharaṇam/  
-  
-Lil_224a/ mūle #nakha-aṅgula-mitas atha #nṛpa-aṅgulas agre piṇḍas %śata-aṅgula-mitam kila yasya dairghyam/  
-  
-Lil_224c/ tad-dāru-dāraṇa-patheṣu %caturṣu kim @syāt hasta-ātmakam @vada sakhe gaṇitam drutam me//  
-  
-Lil_224p/ nyāsas/ [fig.39] piṇḍa-yoga-#dalam 18[/] dairghyeṇa 100 saṃguṇitam 1800/ dāru-dāraṇa-pathais 4 guṇitam 7200/ %ṣaṣ-#svara-#iṣu-576-vihṛtam jātam kara-ātmakam gaṇitam 25_2//  krakaca-antare karaṇa-sūtram sa-%ardha-vṛttam/  
-  
-Lil_225a/ @chidyate tu yadi tiryak ukta-vat piṇḍa-vistṛti-hates phalam tadā/ [śarma:-hṛtes < -hates]   
-  
-Lil_225c/ iṣṭakā-citi-dṛṣad-citi-khāta-krākaca-vyavahṛtau khalu mūlyam/  
-  
-Lil_225e/ karma-kāra-jana-saṃpratipattyā tad-mṛdutva-kaṭhinatva-vaśena//  
-  
-Lil_225p/ udāharaṇam/  
-  
-Lil_226a/ yad-vistṛtis #danta-mitā aṅgulāni piṇḍas tathā %ṣoḍaśa yatra kāṣṭhe/  
-  
-Lil_226c/ chedeṣu tiryak %navasu @pracakṣva kim @syāt phalam tatra kara-ātmakam me//  
-  
-Lil_226p1/ nyāsas/ [fig.40] vistāras 32/ piṇḍas 16/ piṇḍa-vistṛti-hatis 512/ dāru-dāraṇa-mārga-9-ghnī 4608/ %ṣaṣ-#svara-#iṣu-576-vihṛtā jātam phalam hastās 8//  iti krakaca-vyavahāras//    
+लिल्_२२२प्२। अथ क्रकच-व्यवहारे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२२३अ। पिण्ड-योग-#दलम् अग्र-मूलयोस् दैर्घ्य-सङ्गुणितम् अङ्गुल-आत्मकम्।  
+    
+लिल्_२२३च्। दारु-दारण-पथैस् समाहतम् %षष्-#स्वर-#इषु-विहृतम् कर-आत्मकम्॥ [आपटे: षष्-स्तरेषु विहृतम्]   
+    
+लिल्_२२३प्। उदाहरणम्।  
+    
+लिल्_२२४अ। मूले #नख-अङ्गुल-मितस् अथ #नृप-अङ्गुलस् अग्रे पिण्डस् %शत-अङ्गुल-मितम् किल यस्य दैर्घ्यम्।  
+    
+लिल्_२२४च्। तद्-दारु-दारण-पथेषु %चतुर्षु किम् @स्यात् हस्त-आत्मकम् @वद सखे गणितम् द्रुतम् मे॥  
+    
+लिल्_२२४प्। न्यासस्। [फ़िग्।३९] पिण्ड-योग-#दलम् १८[।] दैर्घ्येण १०० सङ्गुणितम् १८००। दारु-दारण-पथैस् ४ गुणितम् ७२००। %षष्-#स्वर-#इषु-५७६-विहृतम् जातम् कर-आत्मकम् गणितम् २५_२॥ क्रकच-अन्तरे करण-सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_२२५अ। @छिद्यते तु यदि तिर्यक् उक्त-वत् पिण्ड-विस्तृति-हतेस् फलम् तदा। [शर्म:-हृतेस् < -हतेस्]   
+    
+लिल्_२२५च्। इष्टका-चिति-दृषद्-चिति-खात-क्राकच-व्यवहृतौ खलु मूल्यम्।  
+    
+लिल्_२२५ए। कर्म-कार-जन-सम्प्रतिपत्त्या तद्-मृदुत्व-कठिनत्व-वशेन॥  
+    
+लिल्_२२५प्। उदाहरणम्।  
+    
+लिल्_२२६अ। यद्-विस्तृतिस् #दन्त-मिता अङ्गुलानि पिण्डस् तथा %षोडश यत्र काष्ठे।  
+    
+लिल्_२२६च्। छेदेषु तिर्यक् %नवसु @प्रचक्ष्व किम् @स्यात् फलम् तत्र कर-आत्मकम् मे॥  
+    
+लिल्_२२६प्१। न्यासस्। [फ़िग्।४०] विस्तारस् ३२। पिण्डस् १६। पिण्ड-विस्तृति-हतिस् ५१२। दारु-दारण-मार्ग-९-घ्नी ४६०८। %षष्-#स्वर-#इषु-५७६-विहृता जातम् फलम् हस्तास् ८॥ इति क्रकच-व्यवहारस्॥  
 
-[rāśi-vyavahāra]  
+[राशि-व्यवहार]
 
-Lil_226p1/ atha rāśi-vyavahāre karaṇa-sūtram vṛttam/  
-  
-Lil_227a/ anaṇuṣu %daśama-aṃśas aṇuṣu atha %ekādaśa-aṃśas paridhi-%navama-bhāgas śūki-dhānyeṣu vedhas/ [śarma: śūka- < śūki-]  
-  
-Lil_227c/ @bhavati paridhi-%ṣaṣṭhe vargite vedha-nighne ghana-gaṇita-karās @syus māgadhās tās ca khāryas//  
-  
-Lil_227p/ udāharaṇam/  
-  
-Lil_228a/ sama-bhuvi kila rāśis yas sthitas sthūla-dhānya-paridhi-parimitis @syāt hasta-%ṣaṣṭis yadīyā/ [śarma:-dhānyas < -dhānya-, vai < syāt]  
-  
-Lil_228c/ @pravada gaṇaka khāryas kim-mitās @santi tasmin atha pṛthak aṇu-dhānyais śūka-dhānyais ca śīghram// [śarma: aṇu-dhānye śūki-dhānye ca]  
-  
-Lil_228p/ atha sthūla-dhānya-rāśi-māna-avabodhanāya nyāsas/ [fig.41] paridhis 60/ vedhas 6/ paridhes %ṣaṣṭha-aṃśas 10/ vargitas 100/ vedha-6-nighnas/ labdhās khāryas 600//  atha aṇu-dhānya-rāśi-māna-ānayanāya nyāsas/ [fig.42] paridhis 60/ vedhas 60_11/ jātam phalam 545_5_11//  atha śūka-dhānya-rāśi-māna-ānayanāya nyāsas/ [fig.43] paridhis 60/ vedhas 20_3/  
-khāryas 666_2_3//  atha bhitti-antar-bāhya-koṇa-saṃlagna-rāśi-pramāṇa-ānayana-karaṇa-sūtram vṛttam/  
-  
-Lil_229a/ %dvi-#veda-sa-%tri-bhāga-%eka-nighnāt tu paridhes phalam/  
-  
-Lil_229c/ bhitti-antar-bāhya-koṇa-stha-rāśes sva-guṇa-bhājitam// [śarma: -antar-koṇa-bāhya-stha-]  
-  
-Lil_229p/ udāharaṇam/  
-  
-Lil_230a/ paridhis bhitti-lagnasya rāśes %triṃśat-karas kila/  
-  
-Lil_230c/ antar-koṇa-sthitasya api #tithi-tulya-karas sakhe//  
-  
-Lil_231a/ bahir-koṇa-sthitasya api %pañca-ghna-%nava-saṃmitas/  
-  
-Lil_231c/ teṣām @ācakṣva me kṣipram ghana-hastān pṛthak pṛthak//  
-  
-Lil_231p1/ atra api sthūla-ādi-dhānyānām rāśi-māna-avabodhanāya spaṣṭam kṣetra-%trayam/ tatra ādau anaṇu-dhānya-rāśi-māna-bodhakam kṣetram/ nyāsas/ [fig.44] atra ādyasya paridhis 30 %dvi-nighnas 60/ anyas 15 %catur-ghnas 60/ aparas 45 sa-%tri-bhāga-%eka-4_3-nighnas 60/ eṣām vedhas 6 ebhyas phalam tulyam etāvantyas eva khāryas 600/ etat sva-sva-guṇena bhaktam  
-jātam pṛthak pṛthak phalam 300/ 150/ 450//  atha aṇu-dhānya-rāśi-māna-ānayanāya nyāsas/ [fig.45] pūrva-vat kṣetra-%trayāṇām sva-guṇa-guṇita-paridhis 60/ vedhas 60_11/ phalāni 272_8_11/ 136_4_1/ 409_1_11// atha śūki-dhānya-rāśi-māna-ānayanāya nyāsas/ [fig.46] atra api pūrva-vat kṣetra-%trayāṇām sva-guṇa-guṇitas paridhis 60/ vedhas 20_3/ phalāni 333_1_3/  
-166_2_3/ 500//  iti rāśi-vyavahāras samāptas//    
+लिल्_२२६प्१। अथ राशि-व्यवहारे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२२७अ। अनणुषु %दशम-अंशस् अणुषु अथ %एकादश-अंशस् परिधि-%नवम-भागस् शूकि-धान्येषु वेधस्। [शर्म: शूक- < शूकि-]  
+    
+लिल्_२२७च्। @भवति परिधि-%षष्ठे वर्गिते वेध-निघ्ने घन-गणित-करास् @स्युस् मागधास् तास् च खार्यस्॥  
+    
+लिल्_२२७प्। उदाहरणम्।  
+    
+लिल्_२२८अ। सम-भुवि किल राशिस् यस् स्थितस् स्थूल-धान्य-परिधि-परिमितिस् @स्यात् हस्त-%षष्टिस् यदीया। [शर्म:-धान्यस् < -धान्य-, वै < स्यात्]  
+    
+लिल्_२२८च्। @प्रवद गणक खार्यस् किम्-मितास् @सन्ति तस्मिन् अथ पृथक् अणु-धान्यैस् शूक-धान्यैस् च शीघ्रम्॥ [शर्म: अणु-धान्ये शूकि-धान्ये च]  
+    
+लिल्_२२८प्। अथ स्थूल-धान्य-राशि-मान-अवबोधनाय न्यासस्। [फ़िग्।४१] परिधिस् ६०। वेधस् ६। परिधेस् %षष्ठ-अंशस् १०। वर्गितस् १००। वेध-६-निघ्नस्। लब्धास् खार्यस् ६००॥ अथ अणु-धान्य-राशि-मान-आनयनाय न्यासस्। [फ़िग्।४२] परिधिस् ६०। वेधस् ६०_११। जातम् फलम् ५४५_५_११॥ अथ शूक-धान्य-राशि-मान-आनयनाय न्यासस्। [फ़िग्।४३] परिधिस् ६०। वेधस् २०_३।  
+खार्यस् ६६६_२_३॥ अथ भित्ति-अन्तर्-बाह्य-कोण-संलग्न-राशि-प्रमाण-आनयन-करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२२९अ। %द्वि-#वेद-स-%त्रि-भाग-%एक-निघ्नात् तु परिधेस् फलम्।  
+    
+लिल्_२२९च्। भित्ति-अन्तर्-बाह्य-कोण-स्थ-राशेस् स्व-गुण-भाजितम्॥ [शर्म: -अन्तर्-कोण-बाह्य-स्थ-]  
+    
+लिल्_२२९प्। उदाहरणम्।  
+    
+लिल्_२३०अ। परिधिस् भित्ति-लग्नस्य राशेस् %त्रिंशत्-करस् किल।  
+    
+लिल्_२३०च्। अन्तर्-कोण-स्थितस्य अपि #तिथि-तुल्य-करस् सखे॥  
+    
+लिल्_२३१अ। बहिर्-कोण-स्थितस्य अपि %पञ्च-घ्न-%नव-सम्मितस्।  
+    
+लिल्_२३१च्। तेषाम् @आचक्ष्व मे क्षिप्रम् घन-हस्तान् पृथक् पृथक्॥  
+    
+लिल्_२३१प्१। अत्र अपि स्थूल-आदि-धान्यानाम् राशि-मान-अवबोधनाय स्पष्टम् क्षेत्र-%त्रयम्। तत्र आदौ अनणु-धान्य-राशि-मान-बोधकम् क्षेत्रम्। न्यासस्। [फ़िग्।४४] अत्र आद्यस्य परिधिस् ३० %द्वि-निघ्नस् ६०। अन्यस् १५ %चतुर्-घ्नस् ६०। अपरस् ४५ स-%त्रि-भाग-%एक-४_३-निघ्नस् ६०। एषाम् वेधस् ६ एभ्यस् फलम् तुल्यम् एतावन्त्यस् एव खार्यस् ६००। एतत् स्व-स्व-गुणेन भक्तम्  
+जातम् पृथक् पृथक् फलम् ३००। १५०। ४५०॥ अथ अणु-धान्य-राशि-मान-आनयनाय न्यासस्। [फ़िग्।४५] पूर्व-वत् क्षेत्र-%त्रयाणाम् स्व-गुण-गुणित-परिधिस् ६०। वेधस् ६०_११। फलानि २७२_८_११। १३६_४_१। ४०९_१_११॥ अथ शूकि-धान्य-राशि-मान-आनयनाय न्यासस्। [फ़िग्।४६] अत्र अपि पूर्व-वत् क्षेत्र-%त्रयाणाम् स्व-गुण-गुणितस् परिधिस् ६०। वेधस् २०_३। फलानि ३३३_१_३।  
+१६६_२_३। ५००॥ इति राशि-व्यवहारस् समाप्तस्॥  
 
-[chāyā-vyavahāra]  
+[छाया-व्यवहार]
 
-Lil_231p2/ atha chāyā-vyavahāre karaṇa-sūtram vṛttam/  
-  
-Lil_232a/ chāyayos karṇayos antare ye tayos varga-viśleṣa-bhaktās #rasa-#adri-#iṣavas/  
-  
-Lil_232c/ sa-%eka-labdhes pada-ghnam tu karṇa-antaram bhā-antareṇa ūna-yuktam #dale @stas prabhe// [śarma: stambha-bhe < stas prabhe]  
-  
-Lil_232p/ udāharaṇam/  
-  
-Lil_233a/ #nanda-#candrais mitam chāyayos antaram karṇayos antaram #viśva-tulyam yayos/  
-  
-Lil_233c/ te prabhe @vakti yas yuktimān @vetti asau vyaktam avyakta-yuktam hi @manye akhilam// [śarma: yukti-mārgeṇa me < yuktimān vetti asau, avyaktam uktam < avyakta-yuktam]  
-  
-Lil_233p/ chāyā-antaram 19/ karṇa-antaram 13/ anayos varga-antareṇa 192 bhaktās #rasa-#adri-#iṣavas 576 labdham 3/ sa-%ekasya asya 4 mūlam 2/ anena karṇa-antaram 13 guṇitam 26 %dvi-stham 26/ 26 bhā-antareṇa 19 ūna-yute 7/ 45/ tad-%ardhe labdhe chāye 7_2/ 45_2/ tad-kṛtyos yoga-padam iti-ādinā jātau karṇau 25_2/ 51_2[//]  chāyā-antare karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_234a/ śaṅkus pradīpa-tala-śaṅku-tala-antara-ghnas chāyā @bhavet vi-nara-dīpa-śikha-auccya-bhaktas// [śarma: -aucca-]  
-  
-Lil_234p/ udāharaṇam/  
-  
-Lil_235a/ śaṅku-pradīpa-antara-bhūs %tri-hastā dīpa-ucchritis sa-%ardha-kara-%trayā ced/  
-  
-Lil_235c/ śaṅkos tadā #arka-aṅgula-saṃmitasya tasya prabhā @syāt kiyatī @vada āśu//  
-  
-Lil_235p/ nyāsas/ [fig.48] śaṅkus 1_2/ pradīpa-śaṅku-tala-antaram 3/ anayos ghātas 3_2/ vi-nara-dīpa-śikha-aucyena 3 bhaktas labdhāni chāyā-aṅgulāni 12//  atha dīpa-ucchriti-ānayanāya karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_236/ chāyā-hṛte tu nara-dīpa-tala-antara-ghne śaṅkau @bhavet nara-yute khalu dīpaka-aucyam// [śarma: -uddhṛte < hṛte, -auccam < -aucyam]  
-  
-Lil_236p/ udāharaṇam/  
-  
-Lil_237a/ pradīpa-śaṅku-antara-bhūs %tri-hastā chāyā-aṅgulais %ṣoḍaśabhis samā ced/  
-  
-Lil_237c/ dīpa-ucchritis @syāt kiyatī @vada āśu pradīpa-śaṅku-antaram @ucyatām me// [śarma: tathā ābhyām < vada āśu]  
-  
-Lil_237p/ nyāsas/ [fig.49] śaṅkus 12/ chāyā-aṅgulāni 16/ śaṅku-pradīpa-antara-hastās 3/ labdham dīpaka-auccyam hastās 11_4//  pradīpa-śaṅku-antara-bhū-māna-ānayanāya karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_238/ vi-śaṅku-dīpa-ucchraya-saṃguṇā bhā śaṅku-uddhṛtā dīpa-nara-antaram @syāt//  
-  
-Lil_238p/ udāharaṇam/ pūrva-uktas eva dīpa-ucchrāyas 11_4/ [śarma: pūrva-uktam eva/] śaṅku-aṅgulāni 12 chāyā 16/ labdhās śaṅku-pradīpa-antara-hastās 3//  chāyā-pradīpa-antara-dīpa-auccya-ānayanāya karaṇa-sūtram sa-%ardha-vṛttam/  
-  
-Lil_239a/ chāyā-agrayos antara-saṃguṇā bhā chāyā-pramāṇa-antara-hṛt @bhavet bhūs/  
-  
-Lil_239c/ bhū-śaṅku-ghātas prabhayā vibhaktas @prajāyate dīpa-śikha-auccyam evam/  
-  
-Lil_239e/ trairāśikena eva yat etat uktam vyāptam sva-bhedais hariṇā iva viśvam//  
-  
-Lil_239p/ udāharaṇam/  
-  
-Lil_240a/ śaṅkos bhā #arka-mita-aṅgulasya su-mate dṛṣṭā kila %aṣṭa-aṅgulā chāyā-agra-abhimukhe kara-%dvaya-mite nyastasya deśe punar/  
-  
-Lil_240c/ tasya eva #arka-mita-aṅgulā yadi tadā chāyā-pradīpa-antaram dīpa-auccyam ca kiyat @vada vyavahṛtim chāyā-abhidhām @vetsi cet//  
-  
-Lil_240p/ nyāsas/ [fig.50] atra chāyā-agrayos antaram aṅgula-ātmakam 52/ chāye ca 8/ 12/ anayos ādyā 8/ iyam anena 52 guṇitā 416 chāyā-pramāṇa-antareṇa 4 bhaktā labdham bhū-mānam 104/ idam %prathama-chāyā-agra-dīpa-talayos antaram iti arthas/ evam %dvitīya-chāyā-agra-bhū-mānam 156/ bhū-śaṅku-ghātas prabhayā vibhaktas iti jātam ubhaya-tas api dīpa-auccyam  
-samam eva hastās 6_1_2/ evam iti atra chāyā-vyavahāre trairāśika-kalpanayā ānayanam @vartate tat yathā/ %prathama-chāyātas 8 %dvitīya-chāyā 12 yāvatā adhikā tāvatā chāyā-avayavena yadi chāyā-agra-antara-tulyā bhūs @labhyate tadā %prathama-chāyayā kim iti/ evam pṛthak pṛthak chāyā-pradīpa-tala-antara-pramāṇam @labhyate/ tatas %dvitīyam trairāśikam/ yadi  
-chāyā-tulye bhuje śaṅkus koṭis tadā bhū-tulye bhuje kim iti/ labdham dīpaka-auccyam ubhayatas api tulyam eva/ evam pañcarāśika-ādikam akhilam trairāśika-kalpanayā eva siddham/ yathā bhagavatā śrī-nārāyaṇena janana-maraṇa-kleśa-apahāriṇā nikhila-jagat-janana-%eka-bījena sakala-bhuvana-bhāvanena giri-sarit-sura-nara-asura-ādibhis sva-bhedais idam jagat vyāptam  
-tathā idam akhilam gaṇita-jātam trairāśikena vyāptam//  yadi evam tad-bahubhis kim iti āśaṅkyā āha/  
-  
-Lil_241a/ yat kiṃcit guṇa-bhāga-hāra-vidhinā bīje atra vā @gaṇyate tat trairāśikam eva nirmala-dhiyām eva avagamyam vidām/ [śarma: avagamyā bhidā]  
-  
-Lil_241c/ etat yat bahudhā asmad-ādi-jaḍa-dhī-dhī-vṛddhi-buddhyā budhais tad-bhedān su-gamān @vidhāya racitam prājñais prakīrṇa-ādikam// [śarma: -buddhi-pravṛddhyai < -vṛddhi-buddhyā, -bheda-anugamān < -bhedān sugamān]  
-  
-Lil_241p1/ iti śrī-bhāskara-ācārya-viracitāyām līlāvatyām chāyā-adhikāras samāptim @agāt//    
+लिल्_२३१प्२। अथ छाया-व्यवहारे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२३२अ। छाययोस् कर्णयोस् अन्तरे ये तयोस् वर्ग-विश्लेष-भक्तास् #रस-#अद्रि-#इषवस्।  
+    
+लिल्_२३२च्। स-%एक-लब्धेस् पद-घ्नम् तु कर्ण-अन्तरम् भा-अन्तरेण ऊन-युक्तम् #दले @स्तस् प्रभे॥ [शर्म: स्तम्भ-भे < स्तस् प्रभे]  
+    
+लिल्_२३२प्। उदाहरणम्।  
+    
+लिल्_२३३अ। #नन्द-#चन्द्रैस् मितम् छाययोस् अन्तरम् कर्णयोस् अन्तरम् #विश्व-तुल्यम् ययोस्।  
+    
+लिल्_२३३च्। ते प्रभे @वक्ति यस् युक्तिमान् @वेत्ति असौ व्यक्तम् अव्यक्त-युक्तम् हि @मन्ये अखिलम्॥ [शर्म: युक्ति-मार्गेण मे < युक्तिमान् वेत्ति असौ, अव्यक्तम् उक्तम् < अव्यक्त-युक्तम्]  
+    
+लिल्_२३३प्। छाया-अन्तरम् १९। कर्ण-अन्तरम् १३। अनयोस् वर्ग-अन्तरेण १९२ भक्तास् #रस-#अद्रि-#इषवस् ५७६ लब्धम् ३। स-%एकस्य अस्य ४ मूलम् २। अनेन कर्ण-अन्तरम् १३ गुणितम् २६ %द्वि-स्थम् २६। २६ भा-अन्तरेण १९ ऊन-युते ७। ४५। तद्-%अर्धे लब्धे छाये ७_२। ४५_२। तद्-कृत्योस् योग-पदम् इति-आदिना जातौ कर्णौ २५_२। ५१_२[॥] छाया-अन्तरे करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_२३४अ। शङ्कुस् प्रदीप-तल-शङ्कु-तल-अन्तर-घ्नस् छाया @भवेत् वि-नर-दीप-शिख-औच्च्य-भक्तस्॥ [शर्म: -औच्च-]  
+    
+लिल्_२३४प्। उदाहरणम्।  
+    
+लिल्_२३५अ। शङ्कु-प्रदीप-अन्तर-भूस् %त्रि-हस्ता दीप-उच्छ्रितिस् स-%अर्ध-कर-%त्रया चेद्।  
+    
+लिल्_२३५च्। शङ्कोस् तदा #अर्क-अङ्गुल-सम्मितस्य तस्य प्रभा @स्यात् कियती @वद आशु॥  
+    
+लिल्_२३५प्। न्यासस्। [फ़िग्।४८] शङ्कुस् १_२। प्रदीप-शङ्कु-तल-अन्तरम् ३। अनयोस् घातस् ३_२। वि-नर-दीप-शिख-औच्येन ३ भक्तस् लब्धानि छाया-अङ्गुलानि १२॥ अथ दीप-उच्छ्रिति-आनयनाय करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_२३६। छाया-हृते तु नर-दीप-तल-अन्तर-घ्ने शङ्कौ @भवेत् नर-युते खलु दीपक-औच्यम्॥ [शर्म: -उद्धृते < हृते, -औच्चम् < -औच्यम्]  
+    
+लिल्_२३६प्। उदाहरणम्।  
+    
+लिल्_२३७अ। प्रदीप-शङ्कु-अन्तर-भूस् %त्रि-हस्ता छाया-अङ्गुलैस् %षोडशभिस् समा चेद्।  
+    
+लिल्_२३७च्। दीप-उच्छ्रितिस् @स्यात् कियती @वद आशु प्रदीप-शङ्कु-अन्तरम् @उच्यताम् मे॥ [शर्म: तथा आभ्याम् < वद आशु]  
+    
+लिल्_२३७प्। न्यासस्। [फ़िग्।४९] शङ्कुस् १२। छाया-अङ्गुलानि १६। शङ्कु-प्रदीप-अन्तर-हस्तास् ३। लब्धम् दीपक-औच्च्यम् हस्तास् ११_४॥ प्रदीप-शङ्कु-अन्तर-भू-मान-आनयनाय करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_२३८। वि-शङ्कु-दीप-उच्छ्रय-सङ्गुणा भा शङ्कु-उद्धृता दीप-नर-अन्तरम् @स्यात्॥  
+    
+लिल्_२३८प्। उदाहरणम्। पूर्व-उक्तस् एव दीप-उच्छ्रायस् ११_४। [शर्म: पूर्व-उक्तम् एव।] शङ्कु-अङ्गुलानि १२ छाया १६। लब्धास् शङ्कु-प्रदीप-अन्तर-हस्तास् ३॥ छाया-प्रदीप-अन्तर-दीप-औच्च्य-आनयनाय करण-सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_२३९अ। छाया-अग्रयोस् अन्तर-सङ्गुणा भा छाया-प्रमाण-अन्तर-हृत् @भवेत् भूस्।  
+    
+लिल्_२३९च्। भू-शङ्कु-घातस् प्रभया विभक्तस् @प्रजायते दीप-शिख-औच्च्यम् एवम्।  
+    
+लिल्_२३९ए। त्रैराशिकेन एव यत् एतत् उक्तम् व्याप्तम् स्व-भेदैस् हरिणा इव विश्वम्॥  
+    
+लिल्_२३९प्। उदाहरणम्।  
+    
+लिल्_२४०अ। शङ्कोस् भा #अर्क-मित-अङ्गुलस्य सु-मते दृष्टा किल %अष्ट-अङ्गुला छाया-अग्र-अभिमुखे कर-%द्वय-मिते न्यस्तस्य देशे पुनर्।  
+    
+लिल्_२४०च्। तस्य एव #अर्क-मित-अङ्गुला यदि तदा छाया-प्रदीप-अन्तरम् दीप-औच्च्यम् च कियत् @वद व्यवहृतिम् छाया-अभिधाम् @वेत्सि चेत्॥  
+    
+लिल्_२४०प्। न्यासस्। [फ़िग्।५०] अत्र छाया-अग्रयोस् अन्तरम् अङ्गुल-आत्मकम् ५२। छाये च ८। १२। अनयोस् आद्या ८। इयम् अनेन ५२ गुणिता ४१६ छाया-प्रमाण-अन्तरेण ४ भक्ता लब्धम् भू-मानम् १०४। इदम् %प्रथम-छाया-अग्र-दीप-तलयोस् अन्तरम् इति अर्थस्। एवम् %द्वितीय-छाया-अग्र-भू-मानम् १५६। भू-शङ्कु-घातस् प्रभया विभक्तस् इति जातम् उभय-तस् अपि दीप-औच्च्यम्  
+समम् एव हस्तास् ६_१_२। एवम् इति अत्र छाया-व्यवहारे त्रैराशिक-कल्पनया आनयनम् @वर्तते तत् यथा। %प्रथम-छायातस् ८ %द्वितीय-छाया १२ यावता अधिका तावता छाया-अवयवेन यदि छाया-अग्र-अन्तर-तुल्या भूस् @लभ्यते तदा %प्रथम-छायया किम् इति। एवम् पृथक् पृथक् छाया-प्रदीप-तल-अन्तर-प्रमाणम् @लभ्यते। ततस् %द्वितीयम् त्रैराशिकम्। यदि  
+छाया-तुल्ये भुजे शङ्कुस् कोटिस् तदा भू-तुल्ये भुजे किम् इति। लब्धम् दीपक-औच्च्यम् उभयतस् अपि तुल्यम् एव। एवम् पञ्चराशिक-आदिकम् अखिलम् त्रैराशिक-कल्पनया एव सिद्धम्। यथा भगवता श्री-नारायणेन जनन-मरण-क्लेश-अपहारिणा निखिल-जगत्-जनन-%एक-बीजेन सकल-भुवन-भावनेन गिरि-सरित्-सुर-नर-असुर-आदिभिस् स्व-भेदैस् इदम् जगत् व्याप्तम्  
+तथा इदम् अखिलम् गणित-जातम् त्रैराशिकेन व्याप्तम्॥ यदि एवम् तद्-बहुभिस् किम् इति आशङ्क्या आह।  
+    
+लिल्_२४१अ। यत् किञ्चित् गुण-भाग-हार-विधिना बीजे अत्र वा @गण्यते तत् त्रैराशिकम् एव निर्मल-धियाम् एव अवगम्यम् विदाम्। [शर्म: अवगम्या भिदा]  
+    
+लिल्_२४१च्। एतत् यत् बहुधा अस्मद्-आदि-जड-धी-धी-वृद्धि-बुद्ध्या बुधैस् तद्-भेदान् सु-गमान् @विधाय रचितम् प्राज्ञैस् प्रकीर्ण-आदिकम्॥ [शर्म: -बुद्धि-प्रवृद्ध्यै < -वृद्धि-बुद्ध्या, -भेद-अनुगमान् < -भेदान् सुगमान्]  
+    
+लिल्_२४१प्१। इति श्री-भास्कर-आचार्य-विरचितायाम् लीलावत्याम् छाया-अधिकारस् समाप्तिम् @अगात्॥  
 
-[kuṭṭaka]  
+[कुट्टक]
 
-Lil_241p2/ atha kuṭṭake karaṇa-sūtram vṛtta-%pañcakam/  
-  
-Lil_242a/ bhājyas hāras kṣepakas ca apavartyas kena api ādau saṃbhave kuṭṭaka-%artham/  
-  
-Lil_242c/ yena chinnau bhājya-hārau na tena kṣepas ca etat duṣṭam uddiṣṭam eva//  
-  
-Lil_243a/ parasparam bhājitayos yayos yas śeṣas tayos @syāt apavartanam sas/  
-  
-Lil_243c/ tena apavartena vibhājitau yau tau bhājya-hārau dṛḍha-saṃjñitau @stas//  
-  
-Lil_244a/ mithas @bhajet tau dṛḍha-bhājya-hārau yāvat vibhājye @bhavati iha #rūpam/  
-  
-Lil_244c/ phalāni adhas adhas tad-adhas niveśyas kṣepas tatas śūnyam upāntimena//  
-  
-Lil_245a/ sva-ūrdhve hate antyena yute tad-antyam @tyajet muhus @syāt iti rāśi-#yugmam/  
-  
-Lil_245c/ ūrdhvas vibhājyena dṛḍhena taṣṭas phalam guṇas @syāt adharas hareṇa//  
-  
-Lil_246a/ evam tadā eva atra yadā samās tās @syus labdhayas ced viṣamās tadānīm/  
-  
-Lil_246c/ yathā āgatau labdhi-guṇau viśodhyau sva-takṣaṇāt śeṣa-mitau tu tau @stas//  
-  
-Lil_246p/ udāharaṇam/  
-  
-Lil_247a/ %ekaviṃśati-yutam %śata-%dvayam yad-guṇam gaṇaka %pañcaṣaṣṭi-yuk/  
-  
-Lil_247c/ %pañca-varjita-%śata-%dvaya-uddhṛtam śuddhim @eti guṇakam @vada āśu tam//  
-  
-Lil_247p/ nyāsas/ bhājyas 221/ hāras 195/ kṣepas 65/ atra paraspara-bhājitayos bhājya-221-bhājakayos 195 śeṣam 13/ anena bhājya-hāra-kṣepās apavartitās jātas bhājyas 17/ [āpaṭe: apavarttitās] hāras 15/ kṣepas 5/ anayos dṛḍha-bhājya-hārayos paraspara-bhaktayos labdhāni adhas adhas tad-adhas kṣepas tad-adhas #śūnyam niveśyam iti nyaste jātā vallī {btabular}  
-1 \\ 7 \\ 5 \\ 0 {etabular} upāntimena sva-ūrdhve hate iti-ādi-karaṇena jātam rāśi-%dvayam {btabular} 40 \\ 35 {etabular} etau dṛḍha-bhājya-hārābhyām {btabular} 17 \\ 15 {etabular} taṣṭau labdhi-guṇau jātau 6/ 5/ iṣṭa-āhata-sva-sva-hareṇa yukte iti vakṣyamāṇa-vidhinā etau iṣṭa-guṇita-sva-takṣaṇa-yuktau vā labdhi-guṇau 23/ 20/ %dvikena iṣṭena vā 40/ 35/  
-iti-ādi//  kuṭṭaka-antare karana-sūtram vṛttam/  
-  
-Lil_248a/ @bhavati kuṭṭa-vidher yuti-bhājyayos samapavartitayos api vā guṇas/  
-  
-Lil_248c/ @bhavati yas yuti-bhājakayos punar sas ca @bhavet apavartana-saṃguṇas//  
-  
-Lil_248p/ udāharaṇam/  
-  
-Lil_249a/ %śatam hatam yena yutam %navatyā vivarjitam vā vihṛtam %triṣaṣṭyā/  
-  
-Lil_249c/ nis-agrakam @syāt @vada me guṇam tam spaṣṭam paṭīyān yadi kuṭṭake @asi//  
-  
-Lil_249p/ nyāsas/ bhājyas 100/ hāras 63/ kṣepas 90/ jātā pūrva-vat labdhi-kṣepāṇām vallī {btabular} 1 \\ 1 \\ 1 \\ 2 \\ 2 \\ 1 \\ 90 \\ 0 {etabular} upāntimena sva-ūrdhve hate antyena yute iti-ādi-karaṇena jātam rāśi-%dvayam {btabular} 2430 \\ 1530 {etabular} jātau pūrva-vat labdhi-guṇau 30/ 18/ atha vā bhājya-kṣepau %daśabhis @apavartya bhājyas 10/ kṣepas  
-9/ paraspara-bhajanāt labdhāni phalāni kṣepam #śūnyam ca adhas adhas @niveśya jātā vallī {btabular} 0 \\ 6 \\ 3 \\ 9 \\ 0 {etabular} pūrva-vat labdhas guṇas 45/ atra labdhis na grāhyā/ yatas labdhayas viṣamās jātās/ atas guṇe 45 sva-takṣaṇāt asmāt 63 viśodhite jātas guṇas sas eva 18/ guṇa-ghna-bhājye kṣepa-90-yute hara-63-taṣṭe labdhis ca 30// atha vā hāra-kṣepau  
-63/ 90/ %navabhis apavartitau jātau hāra-kṣepau 7/ 10/ atra labdhi-kṣepāṇām vallī {btabular} 14 \\ 3 \\ 10 \\ 0 {etabular} labdhas guṇas 2/ kṣepa-hāra-apavartana-9-guṇitas jātas sas eva guṇas 18/ bhājya-100-bhājaka-63-kṣepebhyas 90 labdhis ca 30//  atha vā bhājya-kṣepau punar hāra-kṣepau ca apavartitau jātau bhājya-hārau 10/ 7/ kṣepas 1/ atra pūrva-vat  
-jātā vallī {btabular} 1 \\ 2 \\ 1 \\ 0 {etabular} guṇas ca 2/ hāra-kṣepa-apavartanena guṇitas jātas sas eva guṇas 18/ pūrva-vat labdhis ca 30/ iṣṭa-āhata-sva-sva-hareṇa yukte iti-ādinā atha vā guṇa-labdhī 81/ 130/ iti-ādi//  kuṭṭaka-antare karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_250/ yoga-je takṣaṇāt śuddhe guṇa-āptī @stas viyoga-je//  
-  
-Lil_250p/ atra pūrva-udāharaṇe %navati-kṣepe yau labdhi-guṇau jātau 30/ 18/ etau sva-takṣaṇābhyām ābhyām 100/ 63 śodhitau ye śeṣake tad-mitau labdhi-ṅuṇau %navati-śodhite jñātavyau 70/ 45/ etayos api iṣṭa-āhata-sva-sva-takṣaṇam kṣepas iti labdhi-guṇau 170/ 108/ atha vā 270/ 171 iti-ādi//  %dvitīya-udāharaṇam/  
-  
-Lil_251a/ yad-guṇā gaṇaka %ṣaṣṭis anvitā varjitā ca %daśabhis %ṣaṣ-uttarais/  
-  
-Lil_251c/ @syāt %trayodaśa-hṛtā nis-agrakā tat guṇam @kathaya me pṛthak pṛthak//  
-  
-Lil_251p/ nyāsas/ bhājyas 60 hāras 13 kṣepas 16/ prāk-vat jātā vallī {btabular} 4 \\ 1 \\ 1 \\ 1 \\ 1 \\ 16 \\ 0 {etabular} tathā jāte guṇa-āptī 2/ 8/ atra api labdhayas viṣamās/ atas guṇa-āptī sva-takṣaṇābhyām 13/ 60 śodhite jāte 11/ 52/ evam %ṣoḍaśa-kṣepe etau eva labdhi-guṇau 52/ 11/ [āpaṭe: etās < etau] sva-sva-harābhyām śodhitau jātau %ṣoḍaśa-viśuddhau  
-2/ 8//  kuṭṭaka-antare karaṇa-sūtram sa-%ardha-vṛttam/  
-  
-Lil_252a/ guṇa-labdhyos samam grāhyam dhī-matā takṣaṇe phalam/  
-  
-Lil_252c/ hara-taṣṭe dhana-kṣepe guṇa-labdhī tu pūrva-vat/  
-  
-Lil_252e/ kṣepa-takṣaṇa-lābha-āḍhyā labdhis śuddhau tu varjitā//  
-  
-Lil_252p/ udāharaṇam/  
-  
-Lil_253a/ yena saṃguṇitās %pañca %trayoviṃśati-saṃyutās/  
-  
-Lil_253c/ varjitās vā %tribhis bhaktās nis-agrās @syus sa kas guṇas//  
-  
-Lil_253p/ nyāsas/ bhājyas 5/ hāras 3/ kṣepas 23/ atra vallī {btabular} 46 \\ 23 {etabular} pūrva-vat jātam rāśi-%dvayam {btabular} 14 \\ 3 \\ 10 \\ 0 {etabular} etau bhājya-hārābhyām taṣṭau/ atra adhas-rāśau 23 %tribhis taṣṭe %sapta @labhyante/ ūrdhva-rāśau 46 %pañcabhis taṣṭe %nava @labhyante/ tatra %nava na grāhyās/ guṇa-labdhyos samam grāhyam dhī-matā  
-takṣaṇe phalam iti/ atas %sapta eva grāhyās/ evam jāte guṇa-āptī 2/ 11/ kṣepa-je takṣaṇāt śuddhe iti %trayoviṃśati-śuddhau jātā viparīta-śodhanāt avaśiṣṭā labdhis 6/ [āpaṭe: -śuddhas < -śuddhau] śuddhau jāte 1/ 6/ iṣṭa-āhata-sva-sva-hareṇa yukte iti vakṣyamāṇa-vidhinā dhana-ṛṇayos antaram eva yogas iti bīja-uktyā ca/ iṣṭa-guṇita-sva-hāra-kṣepaṇena yathā  
-dhana-labdhis @syāt iti tathā kṛte jāte guṇa-āptī 7/ 4/ evam sarvatra//  atha vā hara-taṣṭe dhana-kṣepe iti/ nyāsas/ bhājyas 5/ hāras 3/ kṣepas 2/ pūrva-vat jāte guṇa-āptī 2/ 4 ete sva-sva-hārābhyām śodhite viśuddhi-je jāte 1/ 1/ kṣepa-takṣaṇa-lābha-āḍhyā labdhis iti jātau kṣepa-jau labdhi-guṇau 11/ 2/ śuddhau tu varjitā iti śuddhi-jau @bhavatas/ kintu  
-atra śuddhā na @bhavati tasmāt viparīta-śodhanena ṛṇa-labdhis 6/ guṇas 1/ dhana-labdhi-artham %dvi-guṇe sva-hāre kṣipte sati jāte 7/ 4//  kuṭṭaka-antare karaṇa-sūtram vṛttam/  
-  
-Lil_254a/ kṣepa-abhāvas atha vā kṣepas śuddhas hara-uddhṛtas/  
-  
-Lil_254c/ jñeyas #śūnyam guṇas tatra kṣepas hāra-hṛtas phalam//  
-  
-Lil_254p/ udāharaṇam/  
-  
-Lil_255a/ yena %pañca-guṇitās #kha-saṃyutās %pañcaṣaṣṭi-sahitās ca te atha vā/  
-  
-Lil_255c/ @syus %trayodaśa-hṛtās nis-agrakās tam guṇam gaṇaka kīrtaya āśu me//  
-  
-Lil_255p/ nyāsas/ bhājyas 5/ hāras 13/ kṣepas 0/ jñeyas #śūnyam guṇas tatra kṣepas hāra-hṛtas phalam iti/ kṣepa-abhāve guṇa-āptī 0/ 0 iṣṭa-āhatā iti/ atha vā 13/ 5/ vā 26/ 10//  nyāsas/ bhājyas 5/ hāras 13/ kṣepas 65/ kṣepas śuddhas hara-uddhṛtas/ jñeyas #śūnyam guṇas tatra kṣepas hāra-hṛtas phalam iti jāte guṇa-āptī 0/ 5/ vā 13/ 10/ atha vā 26/ 15/ iti-ādi//   
-atha sarvatra kuṭṭake guṇa-labdhyos anekadhā-darśana-artham karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_256/ iṣṭa-āhata-sva-sva-hareṇa yukte te vā @bhavetām bahudhā guṇa-āptī//  
-  
-Lil_256p/ asya udāharaṇāni darśitāni pūrvam iti/ atha sthira-kuṭṭake karaṇa-sūtram vṛttam/  
-  
-Lil_257a/ kṣepe tu #rūpe yadi vā viśuddhe @syātām kramāt ye guṇa-kāra-labdhī/  
-  
-Lil_257c/ abhīpsita-kṣepa-viśuddhi-nighne sva-hāra-taṣṭe @bhavatas tayos te//  
-  
-Lil_257p/ %prathama-udāharaṇe dṛḍha-bhājya-hārayos #rūpa-kṣepayos nyāsas/ bhājyas 17 hāras 15 kṣepas 1/ atra guṇa-āptī 7/ 8 ete tu iṣṭa-kṣepeṇa %pañcakena guṇite sva-hāra-taṣṭe ca jāte 5/ 6//  atha #rūpa-śuddhau guṇa-āptī 7/ 8 takṣaṇāt śuddhau jātau labdhi-gunau 9/ 8/ ete %pañca-guṇe sva-hāra-taṣṭe ca jāte 10/ 11 evam sarvatra//  asya graha-gaṇite upayogas  
-tad-artham kim cit @ucyate/  
-  
-Lil_258a/ kalpyā atha śuddhis vikalā-avaśeṣas %ṣaṣṭis ca bhājyas ku-dināni hāras/  
-  
-Lil_258c/ tad-jam phalam @syus vikalā guṇas tu liptā-agram asmāt ca kalā lava-agram/  
-  
-Lil_258e/ evam tad-ūrdhvam ca tathā adhimāsa-avama-agrakābhyām divasās ravi-indvos//  
-  
-Lil_258p/ grahasya vikalā-avaśeṣāt graha-ahargaṇayos ānayanam tat yathā/ tatra %ṣaṣṭis bhājyas/ ku-dināni hāras vikalā-avaśeṣam śuddhis iti @prakalpya sādhye guṇa-āptī/ tatra labdhis vikalās @syus/ guṇas tu kalā-avaśeṣam//  evam kalā-avaśeṣam śuddhis tatra %ṣaṣṭis bhājyas ku-dināni hāras labdhis kalā guṇas bhāga-śeṣam//  bhāga-śeṣam śuddhis/ %triṃśat bhājyas  
-ku-dināni hāras phalam bhāgās/ [āpaṭe: bhāgā < bhāgās] guṇas rāśi-śeṣam//  evam rāśi-śeṣam śuddhis %dvādaśa bhājyas ku-dināni hāras phalam gata-rāśayas guṇas bha-gaṇa-śeṣam//  kalpa-bha-gaṇas bhājyas ku-dināni hāras bha-gaṇa-śeṣam śuddhis phalam gata-bha-gaṇas guṇas ahar-gaṇas @syāt iti//  asya udāharaṇāni %tri-praśna-adhyāye//  evam kalpa-adhimāsās bhājyas  
-ravi-dināni hāras adhimāsa-śeṣam śuddhis/ phalam gata-adhimāsās guṇas gata-ravi-divasās//  evam kalpa-avamāni bhājyas candra-divasās hāras/ avama-śeṣam śuddhis/ phalam gata-avamāni guṇas gata-cāndra-divasās iti//  saṃśliṣṭa-kuṭṭake karaṇa-sūtram vṛttam/  
-  
-Lil_259a/ %ekas haras ced guṇakau vibhinnau tadā guṇa-aikyam @parikalpya bhājyam/  
-  
-Lil_259c/ agra-aikyam agram kṛtas ukta-vat yas saṃśliṣṭa-saṃjñas sphuṭa-kuṭṭakas asau//  
-  
-Lil_259p/ udāharaṇam/  
-  
-Lil_260a/ kas %pañca-nighnas vihṛtas %triṣaṣṭyā %sapta avaśeṣas atha sas eva rāśis/  
-  
-Lil_260c/ %daśa-āhatas @syāt vihṛtas %triṣaṣṭyā %caturdaśa agras @vada rāśim enam//  
-  
-Lil_260p1/ atra guṇa-aikyam bhājyas/ agra-aikyam śuddhis iti/ nyāsas/ bhājyas 15 hāras 63 śudhis 21/ pūrva-vat jātas śuddhas guṇas 14//  iti līlāvatyām kuṭṭaka-adhyāyas//    
+लिल्_२४१प्२। अथ कुट्टके करण-सूत्रम् वृत्त-%पञ्चकम्।  
+    
+लिल्_२४२अ। भाज्यस् हारस् क्षेपकस् च अपवर्त्यस् केन अपि आदौ सम्भवे कुट्टक-%अर्थम्।  
+    
+लिल्_२४२च्। येन छिन्नौ भाज्य-हारौ न तेन क्षेपस् च एतत् दुष्टम् उद्दिष्टम् एव॥  
+    
+लिल्_२४३अ। परस्परम् भाजितयोस् ययोस् यस् शेषस् तयोस् @स्यात् अपवर्तनम् सस्।  
+    
+लिल्_२४३च्। तेन अपवर्तेन विभाजितौ यौ तौ भाज्य-हारौ दृढ-सञ्ज्ञितौ @स्तस्॥  
+    
+लिल्_२४४अ। मिथस् @भजेत् तौ दृढ-भाज्य-हारौ यावत् विभाज्ये @भवति इह #रूपम्।  
+    
+लिल्_२४४च्। फलानि अधस् अधस् तद्-अधस् निवेश्यस् क्षेपस् ततस् शून्यम् उपान्तिमेन॥  
+    
+लिल्_२४५अ। स्व-ऊर्ध्वे हते अन्त्येन युते तद्-अन्त्यम् @त्यजेत् मुहुस् @स्यात् इति राशि-#युग्मम्।  
+    
+लिल्_२४५च्। ऊर्ध्वस् विभाज्येन दृढेन तष्टस् फलम् गुणस् @स्यात् अधरस् हरेण॥  
+    
+लिल्_२४६अ। एवम् तदा एव अत्र यदा समास् तास् @स्युस् लब्धयस् चेद् विषमास् तदानीम्।  
+    
+लिल्_२४६च्। यथा आगतौ लब्धि-गुणौ विशोध्यौ स्व-तक्षणात् शेष-मितौ तु तौ @स्तस्॥  
+    
+लिल्_२४६प्। उदाहरणम्।  
+    
+लिल्_२४७अ। %एकविंशति-युतम् %शत-%द्वयम् यद्-गुणम् गणक %पञ्चषष्टि-युक्।  
+    
+लिल्_२४७च्। %पञ्च-वर्जित-%शत-%द्वय-उद्धृतम् शुद्धिम् @एति गुणकम् @वद आशु तम्॥  
+    
+लिल्_२४७प्। न्यासस्। भाज्यस् २२१। हारस् १९५। क्षेपस् ६५। अत्र परस्पर-भाजितयोस् भाज्य-२२१-भाजकयोस् १९५ शेषम् १३। अनेन भाज्य-हार-क्षेपास् अपवर्तितास् जातस् भाज्यस् १७। [आपटे: अपवर्त्तितास्] हारस् १५। क्षेपस् ५। अनयोस् दृढ-भाज्य-हारयोस् परस्पर-भक्तयोस् लब्धानि अधस् अधस् तद्-अधस् क्षेपस् तद्-अधस् #शून्यम् निवेश्यम् इति न्यस्ते जाता वल्ली {ब्तबुलर्}  
+१ \\ ७ \\ ५ \\ ० {एतबुलर्} उपान्तिमेन स्व-ऊर्ध्वे हते इति-आदि-करणेन जातम् राशि-%द्वयम् {ब्तबुलर्} ४० \\ ३५ {एतबुलर्} एतौ दृढ-भाज्य-हाराभ्याम् {ब्तबुलर्} १७ \\ १५ {एतबुलर्} तष्टौ लब्धि-गुणौ जातौ ६। ५। इष्ट-आहत-स्व-स्व-हरेण युक्ते इति वक्ष्यमाण-विधिना एतौ इष्ट-गुणित-स्व-तक्षण-युक्तौ वा लब्धि-गुणौ २३। २०। %द्विकेन इष्टेन वा ४०। ३५।  
+इति-आदि॥ कुट्टक-अन्तरे करन-सूत्रम् वृत्तम्।  
+    
+लिल्_२४८अ। @भवति कुट्ट-विधेर् युति-भाज्ययोस् समपवर्तितयोस् अपि वा गुणस्।  
+    
+लिल्_२४८च्। @भवति यस् युति-भाजकयोस् पुनर् सस् च @भवेत् अपवर्तन-सङ्गुणस्॥  
+    
+लिल्_२४८प्। उदाहरणम्।  
+    
+लिल्_२४९अ। %शतम् हतम् येन युतम् %नवत्या विवर्जितम् वा विहृतम् %त्रिषष्ट्या।  
+    
+लिल्_२४९च्। निस्-अग्रकम् @स्यात् @वद मे गुणम् तम् स्पष्टम् पटीयान् यदि कुट्टके @असि॥  
+    
+लिल्_२४९प्। न्यासस्। भाज्यस् १००। हारस् ६३। क्षेपस् ९०। जाता पूर्व-वत् लब्धि-क्षेपाणाम् वल्ली {ब्तबुलर्} १ \\ १ \\ १ \\ २ \\ २ \\ १ \\ ९० \\ ० {एतबुलर्} उपान्तिमेन स्व-ऊर्ध्वे हते अन्त्येन युते इति-आदि-करणेन जातम् राशि-%द्वयम् {ब्तबुलर्} २४३० \\ १५३० {एतबुलर्} जातौ पूर्व-वत् लब्धि-गुणौ ३०। १८। अथ वा भाज्य-क्षेपौ %दशभिस् @अपवर्त्य भाज्यस् १०। क्षेपस्  
+९। परस्पर-भजनात् लब्धानि फलानि क्षेपम् #शून्यम् च अधस् अधस् @निवेश्य जाता वल्ली {ब्तबुलर्} ० \\ ६ \\ ३ \\ ९ \\ ० {एतबुलर्} पूर्व-वत् लब्धस् गुणस् ४५। अत्र लब्धिस् न ग्राह्या। यतस् लब्धयस् विषमास् जातास्। अतस् गुणे ४५ स्व-तक्षणात् अस्मात् ६३ विशोधिते जातस् गुणस् सस् एव १८। गुण-घ्न-भाज्ये क्षेप-९०-युते हर-६३-तष्टे लब्धिस् च ३०॥ अथ वा हार-क्षेपौ  
+६३। ९०। %नवभिस् अपवर्तितौ जातौ हार-क्षेपौ ७। १०। अत्र लब्धि-क्षेपाणाम् वल्ली {ब्तबुलर्} १४ \\ ३ \\ १० \\ ० {एतबुलर्} लब्धस् गुणस् २। क्षेप-हार-अपवर्तन-९-गुणितस् जातस् सस् एव गुणस् १८। भाज्य-१००-भाजक-६३-क्षेपेभ्यस् ९० लब्धिस् च ३०॥ अथ वा भाज्य-क्षेपौ पुनर् हार-क्षेपौ च अपवर्तितौ जातौ भाज्य-हारौ १०। ७। क्षेपस् १। अत्र पूर्व-वत्  
+जाता वल्ली {ब्तबुलर्} १ \\ २ \\ १ \\ ० {एतबुलर्} गुणस् च २। हार-क्षेप-अपवर्तनेन गुणितस् जातस् सस् एव गुणस् १८। पूर्व-वत् लब्धिस् च ३०। इष्ट-आहत-स्व-स्व-हरेण युक्ते इति-आदिना अथ वा गुण-लब्धी ८१। १३०। इति-आदि॥ कुट्टक-अन्तरे करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_२५०। योग-जे तक्षणात् शुद्धे गुण-आप्ती @स्तस् वियोग-जे॥  
+    
+लिल्_२५०प्। अत्र पूर्व-उदाहरणे %नवति-क्षेपे यौ लब्धि-गुणौ जातौ ३०। १८। एतौ स्व-तक्षणाभ्याम् आभ्याम् १००। ६३ शोधितौ ये शेषके तद्-मितौ लब्धि-ङुणौ %नवति-शोधिते ज्ञातव्यौ ७०। ४५। एतयोस् अपि इष्ट-आहत-स्व-स्व-तक्षणम् क्षेपस् इति लब्धि-गुणौ १७०। १०८। अथ वा २७०। १७१ इति-आदि॥ %द्वितीय-उदाहरणम्।  
+    
+लिल्_२५१अ। यद्-गुणा गणक %षष्टिस् अन्विता वर्जिता च %दशभिस् %षष्-उत्तरैस्।  
+    
+लिल्_२५१च्। @स्यात् %त्रयोदश-हृता निस्-अग्रका तत् गुणम् @कथय मे पृथक् पृथक्॥  
+    
+लिल्_२५१प्। न्यासस्। भाज्यस् ६० हारस् १३ क्षेपस् १६। प्राक्-वत् जाता वल्ली {ब्तबुलर्} ४ \\ १ \\ १ \\ १ \\ १ \\ १६ \\ ० {एतबुलर्} तथा जाते गुण-आप्ती २। ८। अत्र अपि लब्धयस् विषमास्। अतस् गुण-आप्ती स्व-तक्षणाभ्याम् १३। ६० शोधिते जाते ११। ५२। एवम् %षोडश-क्षेपे एतौ एव लब्धि-गुणौ ५२। ११। [आपटे: एतास् < एतौ] स्व-स्व-हराभ्याम् शोधितौ जातौ %षोडश-विशुद्धौ  
+२। ८॥ कुट्टक-अन्तरे करण-सूत्रम् स-%अर्ध-वृत्तम्।  
+    
+लिल्_२५२अ। गुण-लब्ध्योस् समम् ग्राह्यम् धी-मता तक्षणे फलम्।  
+    
+लिल्_२५२च्। हर-तष्टे धन-क्षेपे गुण-लब्धी तु पूर्व-वत्।  
+    
+लिल्_२५२ए। क्षेप-तक्षण-लाभ-आढ्या लब्धिस् शुद्धौ तु वर्जिता॥  
+    
+लिल्_२५२प्। उदाहरणम्।  
+    
+लिल्_२५३अ। येन सङ्गुणितास् %पञ्च %त्रयोविंशति-संयुतास्।  
+    
+लिल्_२५३च्। वर्जितास् वा %त्रिभिस् भक्तास् निस्-अग्रास् @स्युस् स कस् गुणस्॥  
+    
+लिल्_२५३प्। न्यासस्। भाज्यस् ५। हारस् ३। क्षेपस् २३। अत्र वल्ली {ब्तबुलर्} ४६ \\ २३ {एतबुलर्} पूर्व-वत् जातम् राशि-%द्वयम् {ब्तबुलर्} १४ \\ ३ \\ १० \\ ० {एतबुलर्} एतौ भाज्य-हाराभ्याम् तष्टौ। अत्र अधस्-राशौ २३ %त्रिभिस् तष्टे %सप्त @लभ्यन्ते। ऊर्ध्व-राशौ ४६ %पञ्चभिस् तष्टे %नव @लभ्यन्ते। तत्र %नव न ग्राह्यास्। गुण-लब्ध्योस् समम् ग्राह्यम् धी-मता  
+तक्षणे फलम् इति। अतस् %सप्त एव ग्राह्यास्। एवम् जाते गुण-आप्ती २। ११। क्षेप-जे तक्षणात् शुद्धे इति %त्रयोविंशति-शुद्धौ जाता विपरीत-शोधनात् अवशिष्टा लब्धिस् ६। [आपटे: -शुद्धस् < -शुद्धौ] शुद्धौ जाते १। ६। इष्ट-आहत-स्व-स्व-हरेण युक्ते इति वक्ष्यमाण-विधिना धन-ऋणयोस् अन्तरम् एव योगस् इति बीज-उक्त्या च। इष्ट-गुणित-स्व-हार-क्षेपणेन यथा  
+धन-लब्धिस् @स्यात् इति तथा कृते जाते गुण-आप्ती ७। ४। एवम् सर्वत्र॥ अथ वा हर-तष्टे धन-क्षेपे इति। न्यासस्। भाज्यस् ५। हारस् ३। क्षेपस् २। पूर्व-वत् जाते गुण-आप्ती २। ४ एते स्व-स्व-हाराभ्याम् शोधिते विशुद्धि-जे जाते १। १। क्षेप-तक्षण-लाभ-आढ्या लब्धिस् इति जातौ क्षेप-जौ लब्धि-गुणौ ११। २। शुद्धौ तु वर्जिता इति शुद्धि-जौ @भवतस्। किन्तु  
+अत्र शुद्धा न @भवति तस्मात् विपरीत-शोधनेन ऋण-लब्धिस् ६। गुणस् १। धन-लब्धि-अर्थम् %द्वि-गुणे स्व-हारे क्षिप्ते सति जाते ७। ४॥ कुट्टक-अन्तरे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२५४अ। क्षेप-अभावस् अथ वा क्षेपस् शुद्धस् हर-उद्धृतस्।  
+    
+लिल्_२५४च्। ज्ञेयस् #शून्यम् गुणस् तत्र क्षेपस् हार-हृतस् फलम्॥  
+    
+लिल्_२५४प्। उदाहरणम्।  
+    
+लिल्_२५५अ। येन %पञ्च-गुणितास् #ख-संयुतास् %पञ्चषष्टि-सहितास् च ते अथ वा।  
+    
+लिल्_२५५च्। @स्युस् %त्रयोदश-हृतास् निस्-अग्रकास् तम् गुणम् गणक कीर्तय आशु मे॥  
+    
+लिल्_२५५प्। न्यासस्। भाज्यस् ५। हारस् १३। क्षेपस् ०। ज्ञेयस् #शून्यम् गुणस् तत्र क्षेपस् हार-हृतस् फलम् इति। क्षेप-अभावे गुण-आप्ती ०। ० इष्ट-आहता इति। अथ वा १३। ५। वा २६। १०॥ न्यासस्। भाज्यस् ५। हारस् १३। क्षेपस् ६५। क्षेपस् शुद्धस् हर-उद्धृतस्। ज्ञेयस् #शून्यम् गुणस् तत्र क्षेपस् हार-हृतस् फलम् इति जाते गुण-आप्ती ०। ५। वा १३। १०। अथ वा २६। १५। इति-आदि॥   
+अथ सर्वत्र कुट्टके गुण-लब्ध्योस् अनेकधा-दर्शन-अर्थम् करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_२५६। इष्ट-आहत-स्व-स्व-हरेण युक्ते ते वा @भवेताम् बहुधा गुण-आप्ती॥  
+    
+लिल्_२५६प्। अस्य उदाहरणानि दर्शितानि पूर्वम् इति। अथ स्थिर-कुट्टके करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२५७अ। क्षेपे तु #रूपे यदि वा विशुद्धे @स्याताम् क्रमात् ये गुण-कार-लब्धी।  
+    
+लिल्_२५७च्। अभीप्सित-क्षेप-विशुद्धि-निघ्ने स्व-हार-तष्टे @भवतस् तयोस् ते॥  
+    
+लिल्_२५७प्। %प्रथम-उदाहरणे दृढ-भाज्य-हारयोस् #रूप-क्षेपयोस् न्यासस्। भाज्यस् १७ हारस् १५ क्षेपस् १। अत्र गुण-आप्ती ७। ८ एते तु इष्ट-क्षेपेण %पञ्चकेन गुणिते स्व-हार-तष्टे च जाते ५। ६॥ अथ #रूप-शुद्धौ गुण-आप्ती ७। ८ तक्षणात् शुद्धौ जातौ लब्धि-गुनौ ९। ८। एते %पञ्च-गुणे स्व-हार-तष्टे च जाते १०। ११ एवम् सर्वत्र॥ अस्य ग्रह-गणिते उपयोगस्  
+तद्-अर्थम् किम् चित् @उच्यते।  
+    
+लिल्_२५८अ। कल्प्या अथ शुद्धिस् विकला-अवशेषस् %षष्टिस् च भाज्यस् कु-दिनानि हारस्।  
+    
+लिल्_२५८च्। तद्-जम् फलम् @स्युस् विकला गुणस् तु लिप्ता-अग्रम् अस्मात् च कला लव-अग्रम्।  
+    
+लिल्_२५८ए। एवम् तद्-ऊर्ध्वम् च तथा अधिमास-अवम-अग्रकाभ्याम् दिवसास् रवि-इन्द्वोस्॥  
+    
+लिल्_२५८प्। ग्रहस्य विकला-अवशेषात् ग्रह-अहर्गणयोस् आनयनम् तत् यथा। तत्र %षष्टिस् भाज्यस्। कु-दिनानि हारस् विकला-अवशेषम् शुद्धिस् इति @प्रकल्प्य साध्ये गुण-आप्ती। तत्र लब्धिस् विकलास् @स्युस्। गुणस् तु कला-अवशेषम्॥ एवम् कला-अवशेषम् शुद्धिस् तत्र %षष्टिस् भाज्यस् कु-दिनानि हारस् लब्धिस् कला गुणस् भाग-शेषम्॥ भाग-शेषम् शुद्धिस्। %त्रिंशत् भाज्यस्  
+कु-दिनानि हारस् फलम् भागास्। [आपटे: भागा < भागास्] गुणस् राशि-शेषम्॥ एवम् राशि-शेषम् शुद्धिस् %द्वादश भाज्यस् कु-दिनानि हारस् फलम् गत-राशयस् गुणस् भ-गण-शेषम्॥ कल्प-भ-गणस् भाज्यस् कु-दिनानि हारस् भ-गण-शेषम् शुद्धिस् फलम् गत-भ-गणस् गुणस् अहर्-गणस् @स्यात् इति॥ अस्य उदाहरणानि %त्रि-प्रश्न-अध्याये॥ एवम् कल्प-अधिमासास् भाज्यस्  
+रवि-दिनानि हारस् अधिमास-शेषम् शुद्धिस्। फलम् गत-अधिमासास् गुणस् गत-रवि-दिवसास्॥ एवम् कल्प-अवमानि भाज्यस् चन्द्र-दिवसास् हारस्। अवम-शेषम् शुद्धिस्। फलम् गत-अवमानि गुणस् गत-चान्द्र-दिवसास् इति॥ संश्लिष्ट-कुट्टके करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२५९अ। %एकस् हरस् चेद् गुणकौ विभिन्नौ तदा गुण-ऐक्यम् @परिकल्प्य भाज्यम्।  
+    
+लिल्_२५९च्। अग्र-ऐक्यम् अग्रम् कृतस् उक्त-वत् यस् संश्लिष्ट-सञ्ज्ञस् स्फुट-कुट्टकस् असौ॥  
+    
+लिल्_२५९प्। उदाहरणम्।  
+    
+लिल्_२६०अ। कस् %पञ्च-निघ्नस् विहृतस् %त्रिषष्ट्या %सप्त अवशेषस् अथ सस् एव राशिस्।  
+    
+लिल्_२६०च्। %दश-आहतस् @स्यात् विहृतस् %त्रिषष्ट्या %चतुर्दश अग्रस् @वद राशिम् एनम्॥  
+    
+लिल्_२६०प्१। अत्र गुण-ऐक्यम् भाज्यस्। अग्र-ऐक्यम् शुद्धिस् इति। न्यासस्। भाज्यस् १५ हारस् ६३ शुधिस् २१। पूर्व-वत् जातस् शुद्धस् गुणस् १४॥ इति लीलावत्याम् कुट्टक-अध्यायस्॥  
 
-[aṅka-pāśa]  
+[अङ्क-पाश]
 
-Lil_260p2/ atha aṅka-pāśas/ atha gaṇita-pāśe nirdiṣṭa-aṅkais saṃkhyāyās vibhede karaṇa-sūtram vṛttam/  
-  
-Lil_261a/ sthāna-antam %eka-ādi-caya-aṅka-ghātas saṃkhyā-vibhedās niyatais @syus aṅkais/  
-  
-Lil_261c/ bhaktas aṅka-mityā aṅka-samāsa-nighnas sthāneṣu yuktas miti-saṃyutis @syāt//  
-  
-Lil_261p/ atra uddeśakas/  
-  
-Lil_262a/ %dvika-%aṣṭakābhyām %tri-%nava-%aṣṭakais vā nirantaram %dvi-ādi-%nava-avasānais/  
-  
-Lil_262c/ saṃkhyā-vibhedās kati @saṃbhavanti tad-saṃkhyaka-aikyāni pṛthak @vada āśu//  
-  
-Lil_262p/ nyāsas/ 2/ 8/ atra sthāne 2 sthāna-antam %eka-ādi-caya-aṅkayos 1/ 2 ghātas 2 evam jātau saṃkhyā-bhedau 2/ atha sas eva ghātas aṅka-samāsa-10-nighnas 20 aṅka-mityā anayā 2 bhaktas 10 sthāna-%dvaye yuktas jātam saṃkhyā-aikyam 110//  %dvitīya-udāharaṇe nyāsas/ 3/ 9/ 8/ atra %eka-ādi-caya-aṅkānām 1/ 2/ 3 ghātas 6 etāvantas saṃkhyā-bhedās/ atha sas  
-eva ghātas 6/ aṅka-samāsa-20-āhatas 120 aṅka-mityā 3 bhaktas 40/ sthāna-%traye yuktas jātam saṃkhyā-aikyam 4440//  %tṛtīya-udāharaṇe nyāsas/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ 9/ evam atra saṃkhyā-bhedās %catvāriṃśat %sahasrāṇi %śata-%trayam %viṃśatis ca 40320/ samkhyā-aikyam ca %caturviṃśati-%nikharvāṇi %triṣaṣṭi-%padmāni n%avanavati-%koṭayas %navanavati-%lakṣāṇi  
-%pañcasaptati-%sahasrāṇi %śata-%trayam %ṣaṣṭis ca 2463999975360//  udāharaṇam/  
-  
-Lil_263a/ pāśa-aṅkuśa-ahi-ḍamarūka-kapāla-śūlais khaṭvā-aṅga-śakti-śara-cāpa-yutais @bhavanti/  
-  
-Lil_263c/ anyonya-hasta-kalitais kati mūrti-bhedās śaṃbhos hares iva gadā-ari-saras-ja-śaṅkhais//  
-  
-Lil_263p/ nyāsas/ sthānāni 10/ jātās mūrti-bhedās 3628800/ evam hares ca 24//  viśeṣa-karaṇa-sūtram vṛttam/  
-  
-Lil_264a/ yāvat-sthāneṣu tulya-aṅkās tad-bhedais tu pṛthak kṛtais/  
-  
-Lil_264c/ prāk-bhedās vihṛtās bhedās tad-saṃkhyā-aikyam ca pūrva-vat//  
-  
-Lil_264p/ atra uddeśakas/  
-  
-Lil_265a/ %dvi-%dvi-%eka-#bhū-parimitais kati saṃkhyakās @syus tāsām yutis ca gaṇaka āśu mama @pracakṣva/  
-  
-Lil_265c/ #ambhodhi-#kumbhi-#śara-#bhūta-#śarais tathā aṅkais ced aṅka-pāśam iti yukti-viśāradas @asi//  
-  
-Lil_265p/ nyāsas/ 2/ 2/ 1/ 1/ atra prāk-vat bhedās 24/ yāvat-sthāneṣu tulya-aṅkās iti atra %prathamam tāvat sthāna-%dvaye tulyau/ prāk-vat sthāna-%dvayāt jātau bhedau 2/ punar atra api sthāna-%dvaye tulyau/ tatra api evam bhedau 2/ bhedābhyām prāk-bhedās 24 bhaktās jātās bhedās 6/ tat yathā 2211/ 2121/ 2112/ 1212/ 1221/ 1122/ pūrva-vat saṃkhyā-aikyam ca  
-9999//  %dvitīya-udāharaṇe nyāsas/ 4/ 8/ 5/ 5/ 5/ atra api pūrva-vat bhedās 120/ sthāna-%traya-uttha-bhedais 6 bhaktās jātās 20/ tat yathā 48555/ 84555/ 54855/ 58455/ 55485/ 55845/ 55548/ 55584/ 45855/ 45585/ 45558/ 85455/ 85545/ 85554/ 54585/ 58545/ 55458/ 55854/ 54558/ 58554/ evam viṃśatis/ atha saṃkhyā-aikyam ca 1199988//  aniyata-aṅkais atulyais ca  
-vibhede karaṇa-sūtram vṛtta-%ardham/  
-  
-Lil_266/ sthāna-antam %eka-apacita-antima-aṅka-ghātas asama-aṅkais ca miti-prabhedās// [āpaṭe: -antimaṅka- < -antima-aṅka-]  
-  
-Lil_266p/ udāharaṇam/  
-  
-Lil_267a/ sthāna-%ṣaṭka-sthitais aṅkais anyonyam #khena varjitais/  
-  
-Lil_267c/ kati saṃkhyā-vibhedās @syus yadi @vetsi @nigadyatām//  
-  
-Lil_267p/ nyāsas 9/ 8/ 7/ 6/ 5/ 4/ eṣām ghāte jātās saṃkhyā-bhedās 60480//  anyat karaṇa-sūtram vṛtta-%dvayam/  
-  
-Lil_268a/ nis-%ekam aṅka-aikyam idam nis-%eka-sthāna-antam %eka-apacitam vibhaktam/  
-  
-Lil_268c/ #rūpa-ādibhis tad-nihatais samās @syus saṃkhyā-vibhedās niyate aṅka-yoge//  
-  
-Lil_269a/ %nava-anvita-sthānaka-saṃkhyakāyās ūne aṅka-yoge kathitam tu vedyam/  
-  
-l 269c/ saṃkṣiptam uktam pṛthutā-bhayena na antas @asti yasmāt gaṇita-arṇavasya//  
-  
-Lil_269p/ udāharaṇam/  
-  
-Lil_270a/ %pañca-sthāna-sthitais aṅkais yad-yad-yogas %trayodaśa/  
-  
-Lil_270c/ kati-bhedā @bhavet saṃkhyā yadi @vetsi @nigadyatām//  
-  
-Lil_270p/ atra aṅka-aikyam 13/ nis-%ekam 12 etat nis-%eka-sthāna-antam %eka-apacitam %eka-ādibhis ca bhaktam jātam 12_1/ 11_2/ 10_3/ 9_4/ eṣām ghātais samās jātās saṃkhyā-bhedās 495//  
-  
-Lil_271a/ na guṇas na haras na kṛtis na ghanas pṛṣṭas tathā api duṣṭānām/  
-  
-Lil_271c/ garvita-gaṇaka-baṭūnām @syāt pātas avaśyam aṅka-pāśe asmin//  
-  
-Lil_271p/ iti līlāvatyām aṅka-pāśas/  
+लिल्_२६०प्२। अथ अङ्क-पाशस्। अथ गणित-पाशे निर्दिष्ट-अङ्कैस् सङ्ख्यायास् विभेदे करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२६१अ। स्थान-अन्तम् %एक-आदि-चय-अङ्क-घातस् सङ्ख्या-विभेदास् नियतैस् @स्युस् अङ्कैस्।  
+    
+लिल्_२६१च्। भक्तस् अङ्क-मित्या अङ्क-समास-निघ्नस् स्थानेषु युक्तस् मिति-संयुतिस् @स्यात्॥  
+    
+लिल्_२६१प्। अत्र उद्देशकस्।  
+    
+लिल्_२६२अ। %द्विक-%अष्टकाभ्याम् %त्रि-%नव-%अष्टकैस् वा निरन्तरम् %द्वि-आदि-%नव-अवसानैस्।  
+    
+लिल्_२६२च्। सङ्ख्या-विभेदास् कति @सम्भवन्ति तद्-सङ्ख्यक-ऐक्यानि पृथक् @वद आशु॥  
+    
+लिल्_२६२प्। न्यासस्। २। ८। अत्र स्थाने २ स्थान-अन्तम् %एक-आदि-चय-अङ्कयोस् १। २ घातस् २ एवम् जातौ सङ्ख्या-भेदौ २। अथ सस् एव घातस् अङ्क-समास-१०-निघ्नस् २० अङ्क-मित्या अनया २ भक्तस् १० स्थान-%द्वये युक्तस् जातम् सङ्ख्या-ऐक्यम् ११०॥ %द्वितीय-उदाहरणे न्यासस्। ३। ९। ८। अत्र %एक-आदि-चय-अङ्कानाम् १। २। ३ घातस् ६ एतावन्तस् सङ्ख्या-भेदास्। अथ सस्  
+एव घातस् ६। अङ्क-समास-२०-आहतस् १२० अङ्क-मित्या ३ भक्तस् ४०। स्थान-%त्रये युक्तस् जातम् सङ्ख्या-ऐक्यम् ४४४०॥ %तृतीय-उदाहरणे न्यासस्। २। ३। ४। ५। ६। ७। ८। ९। एवम् अत्र सङ्ख्या-भेदास् %चत्वारिंशत् %सहस्राणि %शत-%त्रयम् %विंशतिस् च ४०३२०। सम्ख्या-ऐक्यम् च %चतुर्विंशति-%निखर्वाणि %त्रिषष्टि-%पद्मानि न्%अवनवति-%कोटयस् %नवनवति-%लक्षाणि  
+%पञ्चसप्तति-%सहस्राणि %शत-%त्रयम् %षष्टिस् च २४६३९९९९७५३६०॥ उदाहरणम्।  
+    
+लिल्_२६३अ। पाश-अङ्कुश-अहि-डमरूक-कपाल-शूलैस् खट्वा-अङ्ग-शक्ति-शर-चाप-युतैस् @भवन्ति।  
+    
+लिल्_२६३च्। अन्योन्य-हस्त-कलितैस् कति मूर्ति-भेदास् शम्भोस् हरेस् इव गदा-अरि-सरस्-ज-शङ्खैस्॥  
+    
+लिल्_२६३प्। न्यासस्। स्थानानि १०। जातास् मूर्ति-भेदास् ३६२८८००। एवम् हरेस् च २४॥ विशेष-करण-सूत्रम् वृत्तम्।  
+    
+लिल्_२६४अ। यावत्-स्थानेषु तुल्य-अङ्कास् तद्-भेदैस् तु पृथक् कृतैस्।  
+    
+लिल्_२६४च्। प्राक्-भेदास् विहृतास् भेदास् तद्-सङ्ख्या-ऐक्यम् च पूर्व-वत्॥  
+    
+लिल्_२६४प्। अत्र उद्देशकस्।  
+    
+लिल्_२६५अ। %द्वि-%द्वि-%एक-#भू-परिमितैस् कति सङ्ख्यकास् @स्युस् तासाम् युतिस् च गणक आशु मम @प्रचक्ष्व।  
+    
+लिल्_२६५च्। #अम्भोधि-#कुम्भि-#शर-#भूत-#शरैस् तथा अङ्कैस् चेद् अङ्क-पाशम् इति युक्ति-विशारदस् @असि॥  
+    
+लिल्_२६५प्। न्यासस्। २। २। १। १। अत्र प्राक्-वत् भेदास् २४। यावत्-स्थानेषु तुल्य-अङ्कास् इति अत्र %प्रथमम् तावत् स्थान-%द्वये तुल्यौ। प्राक्-वत् स्थान-%द्वयात् जातौ भेदौ २। पुनर् अत्र अपि स्थान-%द्वये तुल्यौ। तत्र अपि एवम् भेदौ २। भेदाभ्याम् प्राक्-भेदास् २४ भक्तास् जातास् भेदास् ६। तत् यथा २२११। २१२१। २११२। १२१२। १२२१। ११२२। पूर्व-वत् सङ्ख्या-ऐक्यम् च  
+९९९९॥ %द्वितीय-उदाहरणे न्यासस्। ४। ८। ५। ५। ५। अत्र अपि पूर्व-वत् भेदास् १२०। स्थान-%त्रय-उत्थ-भेदैस् ६ भक्तास् जातास् २०। तत् यथा ४८५५५। ८४५५५। ५४८५५। ५८४५५। ५५४८५। ५५८४५। ५५५४८। ५५५८४। ४५८५५। ४५५८५। ४५५५८। ८५४५५। ८५५४५। ८५५५४। ५४५८५। ५८५४५। ५५४५८। ५५८५४। ५४५५८। ५८५५४। एवम् विंशतिस्। अथ सङ्ख्या-ऐक्यम् च ११९९९८८॥ अनियत-अङ्कैस् अतुल्यैस् च  
+विभेदे करण-सूत्रम् वृत्त-%अर्धम्।  
+    
+लिल्_२६६। स्थान-अन्तम् %एक-अपचित-अन्तिम-अङ्क-घातस् असम-अङ्कैस् च मिति-प्रभेदास्॥ [आपटे: -अन्तिमङ्क- < -अन्तिम-अङ्क-]  
+    
+लिल्_२६६प्। उदाहरणम्।  
+    
+लिल्_२६७अ। स्थान-%षट्क-स्थितैस् अङ्कैस् अन्योन्यम् #खेन वर्जितैस्।  
+    
+लिल्_२६७च्। कति सङ्ख्या-विभेदास् @स्युस् यदि @वेत्सि @निगद्यताम्॥  
+    
+लिल्_२६७प्। न्यासस् ९। ८। ७। ६। ५। ४। एषाम् घाते जातास् सङ्ख्या-भेदास् ६०४८०॥ अन्यत् करण-सूत्रम् वृत्त-%द्वयम्।  
+    
+लिल्_२६८अ। निस्-%एकम् अङ्क-ऐक्यम् इदम् निस्-%एक-स्थान-अन्तम् %एक-अपचितम् विभक्तम्।  
+    
+लिल्_२६८च्। #रूप-आदिभिस् तद्-निहतैस् समास् @स्युस् सङ्ख्या-विभेदास् नियते अङ्क-योगे॥  
+    
+लिल्_२६९अ। %नव-अन्वित-स्थानक-सङ्ख्यकायास् ऊने अङ्क-योगे कथितम् तु वेद्यम्।  
+    
+ल् २६९च्। सङ्क्षिप्तम् उक्तम् पृथुता-भयेन न अन्तस् @अस्ति यस्मात् गणित-अर्णवस्य॥  
+    
+लिल्_२६९प्। उदाहरणम्।  
+    
+लिल्_२७०अ। %पञ्च-स्थान-स्थितैस् अङ्कैस् यद्-यद्-योगस् %त्रयोदश।  
+    
+लिल्_२७०च्। कति-भेदा @भवेत् सङ्ख्या यदि @वेत्सि @निगद्यताम्॥  
+    
+लिल्_२७०प्। अत्र अङ्क-ऐक्यम् १३। निस्-%एकम् १२ एतत् निस्-%एक-स्थान-अन्तम् %एक-अपचितम् %एक-आदिभिस् च भक्तम् जातम् १२_१। ११_२। १०_३। ९_४। एषाम् घातैस् समास् जातास् सङ्ख्या-भेदास् ४९५॥  
+    
+लिल्_२७१अ। न गुणस् न हरस् न कृतिस् न घनस् पृष्टस् तथा अपि दुष्टानाम्।  
+    
+लिल्_२७१च्। गर्वित-गणक-बटूनाम् @स्यात् पातस् अवश्यम् अङ्क-पाशे अस्मिन्॥  
+    
+लिल्_२७१प्। इति लीलावत्याम् अङ्क-पाशस्।
 
-[grantha-samāpti]  
+[ग्रन्थ-समाप्ति]
 
-Lil_272a/ yeṣām su-jāti-guṇa-varga-vibhūṣita-aṅgī śuddhā akhila-vyavahṛtis khalu kaṇṭha-saktā/  
-  
-Lil_272c/ līlāvatī iha sa-rasa-uktim udāharantī teṣām sadā eva sukha-saṃpad @upaiti vṛddhim//  
-  
-Lil_272p/ iti śrī-bhāskara-ācārya-viracite siddhānta-śiromaṇau līlāvatī-saṃjñas pāṭī-adhyāyas saṃpūrṇas//  
+लिल्_२७२अ। येषाम् सु-जाति-गुण-वर्ग-विभूषित-अङ्गी शुद्धा अखिल-व्यवहृतिस् खलु कण्ठ-सक्ता।  
+    
+लिल्_२७२च्। लीलावती इह स-रस-उक्तिम् उदाहरन्ती तेषाम् सदा एव सुख-सम्पद् @उपैति वृद्धिम्॥  
+    
+लिल्_२७२प्। इति श्री-भास्कर-आचार्य-विरचिते सिद्धान्त-शिरोमणौ लीलावती-सञ्ज्ञस् पाटी-अध्यायस् सम्पूर्णस्॥
 
-[End of part two in Apate]  
-  
-============== [End of the Lilavati] ================  
+[एन्द् ओफ़् पर्त् त्wओ इन् अपते]  
+    
+============== [एन्द् ओफ़् थे लिलवति] ================
 

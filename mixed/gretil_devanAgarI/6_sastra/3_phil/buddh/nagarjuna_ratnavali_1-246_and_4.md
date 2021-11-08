@@ -1,7 +1,9 @@
----
-title: 'Nagarjuna: Ratnavali (1-2.46, and 4)'
++++
+title = "Nagarjuna: Ratnavali (1-2.46, and 4)"
 
----
++++
+
+
 ## Intro
   
   
@@ -34,23 +36,73 @@ Vaidya nn = pagination of P.L. Vaidya's edition
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-रत्नावली । (न्र)  
-  
-  
+
+
+रत्नावली । (न्र)
+
 (वैद्य २९६)  
-  
+    
 । नमो रत्नत्रयाय ॥  
-  
+    
 सर्वदोषविनिर्मुक्तं गुणैः सर्वैरलङ्कृतम् ।  
 प्रणम्य सर्वज्ञमहं सर्वसत्त्वैकबान्धवम् ॥ न्र_१।१ ॥  
 धर्ममेकान्तकल्याणं राज[न् ध]र्मोदयाय ते ।  
@@ -210,7 +262,7 @@ Vaidya nn = pagination of P.L. Vaidya's edition
 अस्तिनास्त्यव्यतिक्रान्ता भीता नश्यन्त्यमेधसः ॥ न्र_१।७६ ॥  
 ते नष्टा नाशयन्त्यन्यानभयस्थानभीरवः ।  
 तथा कुरु यथा राजान् नष्टैर्न विप्रणाश्यसे ॥ न्र_१।७७ ॥  
-  
+    
 २  
 कदली पाटिता यद्वन्निःशेषावयवैः सह ।  
 न किञ्चित्पुरुषस्तद्वत्पाटितः सह धातुभिः ॥ न्र_२।१ ॥  
@@ -307,13 +359,11 @@ Vaidya nn = pagination of P.L. Vaidya's edition
 यद्येकस्मिन् समाश्वासः किमेकस्मिन्न ते भयम् ॥ न्र_२।४५ ॥  
 मद्यात्परिभवो लोके कार्यहानिर्धनक्षयः ।  
 आकार्यकरणं मोहात्[मद्यं त्यज ततः सदा] ॥ न्र_२।४६ ॥  
-  
+    
 ॥।   
-  
-(सन्स्क्रित् तेxत् ओड़् २।४७-९५ अन्द् ३ लोस्त्!)  
-  
-  
-  
+    
+(सन्स्क्रित् तेxत् ओफ़् २।४७-९५ अन्द् ३ लोस्त्!)
+
 ४  
 अधर्ममन्वाय्यमपि प्रायो राजानुजीविभिः ।  
 आचरन् स्तूयते तस्मात् कृच्छ्राद्वेत्ति क्षमाक्षमम् ॥ न्र_४।१ ॥  
@@ -521,8 +571,6 @@ Vaidya nn = pagination of P.L. Vaidya's edition
 धर्म उक्तः कृपागर्भः स सात्मीक्रियतां दृढम् ॥ न्र_४।९९ ॥  
 अथ लोकस्य वैधर्म्याद्राज्यं धर्मेण दुष्करम् ।  
 ततो धर्मयशोर्थं ते प्रव्रज्याधिगमः क्षमः ॥ न्र_४।१०० ॥  
-  
-रत्नावल्यां राजवृत्तोपदेशो नाम चतुर्थः परिच्छेदः ॥   
-  
-  
-  
+    
+रत्नावल्यां राजवृत्तोपदेशो नाम चतुर्थः परिच्छेदः ॥ 
+

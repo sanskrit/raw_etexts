@@ -1,7 +1,9 @@
----
-title: Sabhikasaugatasasanapravrajyavratacaranaparivarta
++++
+title = "Sabhikasaugatasasanapravrajyavratacaranaparivarta"
 
----
++++
+
+
 ## Intro
   
   
@@ -38,19 +40,69 @@ rv for rvv
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-सभिकसौगतशासनप्रव्रज्याव्रतचरणपरिवर्त  
-  
-  
+
+
+सभिकसौगतशासनप्रव्रज्याव्रतचरणपरिवर्त
+
 (सम् ४ओब्४: अद्दितिओनल् वेर्सेस्)  
 अथाशोको महाराजः श्रोतुं सुभाषितं पुनः ।  
 उपगुप्तं यतिं नत्वा साञ्जलिर् एवम् अब्रवीत् ॥ स्व्प्_*१* ॥  
@@ -58,7 +110,7 @@ rv for rvv
 मुनीन्द्रस्यानुभावत्वं तत् समादेष्टुम् अर्हति ॥ स्व्प्_*२* ॥  
 इति सम्प्रार्थितं राज्ञा श्रुत्वा सो ऽर्हन् यतिः सुधीः ।  
 तं नरेन्द्रं समामन्त्र्य सम्पश्यन्न् एवम् आदिशत् ॥ स्व्प्_*३* ॥  
-  
+    
 (सम् ४०ब्६; ब्क च् ९९ब्४; ब्क त् ७१ब्८)  
 अथ शृणु समाधाय यथा मे गुरुणोदितं ।  
 तथाहं सम्प्रवक्ष्यामि तव पुण्यप्रवृद्धये ॥ स्व्प्_१ ॥  
@@ -510,10 +562,10 @@ rv for rvv
 बोधिचर्याव्रतं धृत्वा समाचरत् समाहितः ।  
 ततः समाधिशुद्धात्मा परिशुद्धत्रिमण्डलः ।  
 ब्रह्मचारी महाभिज्ञो बभूव सौगतो यतिः ॥ स्व्प्_२१९ ॥  
-  
+    
 इति श्रीभद्रकल्पावदाने अशोकोपगुप्तसम्भाषणे सभिकसौगतशासनप्रव्रज्याव्रतचारणपरिवर्तो नाम चतुर्दशो ऽध्यायः ॥  
-  
-(सम् ४७अ३ड़्ड़्।: अद्दितिओनल् वेर्सेस्):  
+    
+(सम् ४७अ३फ़्फ़्।: अद्दितिओनल् वेर्सेस्):  
 एतद् दृष्ट्वा समाकर्ण्य सर्वे लोकाधिपा अपि ।  
 तद् व्रतम् अनुमोदन्तः सञ्चेरिरे ऽभिनन्दिताः ॥ स्व्प्_*२१९* ॥  
 इति मे गुरुणादिष्टं श्रुतं मया तथोच्यते ।  
@@ -522,9 +574,6 @@ rv for rvv
 बोधिसत्वा महाभिज्ञाः भवेयुर् बोधिलाभिनः ॥ स्व्प्_*२२१* ॥  
 इति शास्त्रार्हतादिष्टं श्रुत्वा ऽशोको नृपो मुदा ।  
 तथेत्य् अभ्यनुमोदित्वा प्राभ्यनन्दत् सपार्षदः ॥ स्व्प्_*२२२* ॥  
-  
-इति सभिकसौगतशासनप्रव्रज्याव्रतचरणपरिवर्तो नाम नवमो ऽध्यायः समाप्तः ॥  
-  
-  
-  
-  
+    
+इति सभिकसौगतशासनप्रव्रज्याव्रतचरणपरिवर्तो नाम नवमो ऽध्यायः समाप्तः ॥
+

@@ -1,7 +1,9 @@
----
-title: Namaskaraikavimsatistotra
++++
+title = "Namaskaraikavimsatistotra"
 
----
++++
+
+
 ## Intro
   
   
@@ -24,17 +26,69 @@ Input by Klaus Wille.
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
+
+
 एकविंशतिस्तोत्र  
-  
+    
 नमस् तारे तुरे वीरे क्षणद्युतिनिभेक्षणे ।  
 त्रैलोक्यनाथवक्त्राब्जविकसत्केसरोद्भवे ॥ नेव्स्_१  
 नमस् शान्तसरच्चन्द्रसम्पूर्णपटलानने ।  
@@ -76,9 +130,8 @@ Input by Klaus Wille.
 नमश् चन्द्रार्कसम्पूर्ण नयनद्युतिस्वभास्वरे ।  
 तार द्विरुक्तोत्तारे विषमज्वलनाशिनि ॥ नेव्स्_२०  
 नमस् त्रितलविन्यासे शिवशक्तिसमन्विते ।  
-ग्रहवेतालयक्षाद्यनाशनि प्रवरे तुरे ॥ नेव्स्_२१  
-  
-  
+ग्रहवेतालयक्षाद्यनाशनि प्रवरे तुरे ॥ नेव्स्_२१
+
 मन्त्रमूलम् इदं स्तोत्रं नमस्कारैकविंशति ।  
 यः पठेत् प्रायशो धीमान् देव्या भक्तिसमन्वितः ॥ १  
 सो ऽयं वा प्रातर् उत्थाय स्मरेत् सर्वाभयप्रदं ।  
@@ -91,9 +144,6 @@ Input by Klaus Wille.
 स्थावरं वाथ जङ्गमं साड् इदं पीडम् एव च ॥ ५  
 परमार्तिविनाशनं द्वित्रिसप्ताभिवर्तिनाम् ।  
 धनकामो लभेद् धनं न विघ्नैः प्रतिहन्यते ॥ ६  
-  
-इति श्रीसंयक्सम्बुद्धवैरोचनभाषितं भगवत्यार्यतारदेव्या नमस्कारैकविंशतिस्तोत्रं सम्पूर्णं समाप्तं ॥ शुभम् ॥  
-  
-  
-  
-  
+    
+इति श्रीसंयक्सम्बुद्धवैरोचनभाषितं भगवत्यार्यतारदेव्या नमस्कारैकविंशतिस्तोत्रं सम्पूर्णं समाप्तं ॥ शुभम् ॥
+

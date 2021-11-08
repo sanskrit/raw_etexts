@@ -1,7 +1,9 @@
----
-title: 'Asvaghosa (attrib.): Vajrasuci'
++++
+title = "Asvaghosa (attrib.): Vajrasuci"
 
----
++++
+
+
 ## Intro
   
   
@@ -27,17 +29,69 @@ Sastra section, text no. 20
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
+
+
 वज्रसूची (व्स्)  
-  
+    
 जगद्गुरुं मञ्जुघोषं नत्वा वाक्कायचेतसा ।  
 अश्वघोषो वज्रसूचीं सूत्रयामि यथामतम् ॥ व्स्_१ ॥  
 वेदाः प्रमाणं स्मृतयः प्रमाणं धर्मार्थयुक्तं वचनं प्रमाणम् ।  
@@ -147,8 +201,6 @@ Sastra section, text no. 20
 कायेन मनसा वाचा ब्रह्म सम्पद्यते तदा ॥ व्स्_५२ ॥  
 अस्माभिरुक्तं यदिदं द्विजानां मोहं निहन्तुं हतबुद्धिङ्कानाम् ।  
 गृह्मन्तु सन्तो यदि युक्तमेतन्मुञ्चन्त्वथायुक्तमिदं यदि स्यात् ॥ व्स्_५३ ॥  
-  
-कृतिरियं सिद्धाचार्याश्वघोषपादानामिति वज्रसूची समाप्तेति शुभम् ॥   
-  
-  
-  
+    
+कृतिरियं सिद्धाचार्याश्वघोषपादानामिति वज्रसूची समाप्तेति शुभम् ॥ 
+

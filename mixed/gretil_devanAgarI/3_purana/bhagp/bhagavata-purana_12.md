@@ -1,15 +1,87 @@
----
-title: Bhagavata-Purana 12
++++
+title = "Bhagavata-Purana 12"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Bhagavata-Purana 12  
-
+  
+  
+  
+  
+  
+  
 Bhagavata-Purana 12  
 Input by ...  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
+
 
 भ्प्_१२।०१।००१।० श्री-शुक उवाच  
 भ्प्_१२।०१।००१।१ यो ऽन्त्यः पुरञ्जयो नाम भविष्यो बारहद्रथः  
@@ -499,7 +571,7 @@ Input by ...
 भ्प्_१२।०६।०३७।३ हृद्य् आकाशाद् अभून् नादो वृत्ति-रोधाद् विभाव्यते  
 भ्प्_१२।०६।०३८।१ यद्-उपासनया ब्रह्मन् योगिनो मलम् आत्मनः  
 भ्प्_१२।०६।०३८।३ द्रव्य-क्रिया-कारकाख्यं धूत्वा यान्त्य् अपुनर्-भवम्  
-भ्प्_१२।०६।०३९।१ ततो ऽभूत् त्रि-वृद् ॐकारो यो ऽव्यक्त-प्रभवः स्व-राट्  
+भ्प्_१२।०६।०३९।१ ततो ऽभूत् त्रि-वृद् ओङ्कारो यो ऽव्यक्त-प्रभवः स्व-राट्  
 भ्प्_१२।०६।०३९।३ यत् तल् लिङ्गं भगवतो ब्रह्मणः परमात्मनः  
 भ्प्_१२।०६।०४०।१ शृणोति य इमं स्फोटं सुप्त-श्रोत्रे च शून्य-दृक्  
 भ्प्_१२।०६।०४०।३ येन वाग् व्यज्यते यस्य व्यक्तिर् आकाश आत्मनः  
@@ -510,7 +582,7 @@ Input by ...
 भ्प्_१२।०६।०४३।१ ततो ऽक्षर-समाम्नायम् असृजद् भगवान् अजः  
 भ्प्_१२।०६।०४३।३ अन्तस्थोष्म-स्वर-स्पर्श- ह्रस्व-दीर्घादि-लक्षणम्  
 भ्प्_१२।०६।०४४।१ तेनासौ चतुरो वेदांश् चतुर्भिर् वदनैर् विभुः  
-भ्प्_१२।०६।०४४।३ स-व्याहृतिकान् स्ॐकारांश् चातुर्-होत्र-विवक्षया  
+भ्प्_१२।०६।०४४।३ स-व्याहृतिकान् सोङ्कारांश् चातुर्-होत्र-विवक्षया  
 भ्प्_१२।०६।०४५।१ पुत्रान् अध्यापयत् तांस् तु ब्रह्मर्षीन् ब्रह्म-कोविदान्  
 भ्प्_१२।०६।०४५।३ ते तु धर्मोपदेष्टारः स्व-पुत्रेभ्यः समादिशन्  
 भ्प्_१२।०६।०४६।१ ते परम्परया प्राप्तास् तत्-तच्-छिष्यैर् धृत-व्रतैः  
@@ -1253,5 +1325,5 @@ Input by ...
 भ्प्_१२।१३।०२२।१ भवे भवे यथा भक्तिः पादयोस् तव जायते  
 भ्प्_१२।१३।०२२।३ तथा कुरुष्व देवेश नाथस् त्वं नो यतः प्रभो  
 भ्प्_१२।१३।०२३।१ नाम-सङ्कीर्तनं यस्य सर्व-पाप प्रणाशनम्  
-भ्प्_१२।१३।०२३।३ प्रणामो दुःख-शमनस् तं नमामि हरिं परम्  
+भ्प्_१२।१३।०२३।३ प्रणामो दुःख-शमनस् तं नमामि हरिं परम्
 

@@ -1,18 +1,90 @@
----
-title: 'Ksemendra: Sumagadhavadana'
++++
+title = "Ksemendra: Sumagadhavadana"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Ksemendra: Sumagadhavadana  
-
+  
+  
+  
+  
+  
 Ksemendra: Bodhisattvavadanakalpalata, no. 93: Sumagadhavadana  
 based on the edition by P.L. Vaidya, Ksemendra's Avadanakalpalata, vol. II.  
 Darbhanga: Mithila Institute 1959 (Buddhist Sanskrit Texts, 23), pp. 526-534 (Avadāna 93)  
-
+  
+  
 Input by Klaus Wille, Göttingen  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
+
 
 श्लाघ्या जयन्ति जिनभक्तिविशेषभाजां श्रद्धासुधाप्रसरनिर्झरशीकरास् ते ।  
 निश्चेतनो ऽप्य् उचितचेतनताम् इवैति यः पूज्यपूजनविधौ कुसुमादिवर्गः ॥ कव्क्_९३।१ ॥  
@@ -246,6 +318,6 @@ Input by Klaus Wille, Göttingen
 सूनुश् चेद् अगुणस् तद् एव विफलं तत् किं न सर्वं कुलम् ।  
 सा कन्या किल जायते गुणवती पुण्यप्रभावाद् यया  
 संसारोरुसरित्पतौ कुलयुगम् नाव् एव सन्तार्यते ॥ कव्क्_९३।१११ ॥  
-  
-इति क्षेमेन्द्रविरचितायां बोधिसत्त्वावदानकल्पलतायां सुमागधावदानं त्रिनवतितमः पल्लवह्।  
+    
+इति क्षेमेन्द्रविरचितायां बोधिसत्त्वावदानकल्पलतायां सुमागधावदानं त्रिनवतितमः पल्लवह्।
 

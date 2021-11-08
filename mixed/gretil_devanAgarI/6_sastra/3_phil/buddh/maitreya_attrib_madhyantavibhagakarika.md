@@ -1,7 +1,9 @@
----
-title: 'Maitreya (attrib.): Madhyantavibhagakarika'
++++
+title = "Maitreya (attrib.): Madhyantavibhagakarika"
 
----
++++
+
+
 ## Intro
   
   
@@ -32,21 +34,71 @@ Therefore, many word boundaries are not marked by blanks.
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-आर्यमैत्रेयप्रणीता मध्यान्तविभागकारिका (म्व्क्)  
-  
-  
+
+
+आर्यमैत्रेयप्रणीता मध्यान्तविभागकारिका (म्व्क्)
+
 लक्षणपरिच्छेदः प्रथमः  
-  
+    
 लक्षणं ह्यावृतिस्तत्त्वं प्रतिपक्षस्य भावना ।  
 तत्रावस्था फलप्राप्तिर्यानानुत्तर्यमेव च ॥ म्व्क्_१।१ ॥  
 अभूतपरिकल्पो ऽस्ति द्वयं तत्र न विद्यते ।  
@@ -93,12 +145,11 @@ Therefore, many word boundaries are not marked by blanks.
 विशुद्धा चेद्भवेन्नासौ व्यायामो निष्फलो भवेत् ॥ म्व्क्_१।२२ ॥  
 न क्लिष्टा नापि व ऽआक्लिष्टा शुद्धाशुद्धा न चैव सा ।  
 प्रभास्वरत्वाच्चित्तस्य क्लेशस्यागन्तुकत्वतः ॥ म्व्क्_१।२३ ॥  
-  
-॥ इति लक्षणपरिच्छेदः प्रथमः ॥  
-  
-  
+    
+॥ इति लक्षणपरिच्छेदः प्रथमः ॥
+
 आवरणपरिच्छेदो द्वितीयः  
-  
+    
 व्यापि प्रादेशिकोद्रिक्तसमादानविवर्जनम् ।  
 द्वयावरणमाख्यातं नवधा क्लेशलक्षणम् ॥ म्व्क्_२।१ ॥  
 संयोजनान्यावरणमुद्वेगसमुपेक्षयोः ।  
@@ -133,13 +184,11 @@ Therefore, many word boundaries are not marked by blanks.
 दशभूमिविपक्षेण प्रतिपक्षास्तु भूमयः ॥ म्व्क्_२।१६ ॥  
 क्लेशावरणमाख्यातं ज्ञेयावरणमेव च ।  
 सर्वाण्यावरणानीह यत्क्षयान्मुक्तिरिष्यते ॥ म्व्क्_२।१७ ॥  
-  
-॥ इत्यावरणपरिच्छेदो द्वितीयः ॥  
-  
-  
-तत्त्वपरिच्छेदस्तृतीयः  
-  
-  
+    
+॥ इत्यावरणपरिच्छेदो द्वितीयः ॥
+
+तत्त्वपरिच्छेदस्तृतीयः
+
 मूललक्षणतत्त्वमविपर्यासलक्षणम् ।  
 फलहेतुमयं तत्त्वं सूक्ष्मौदारिकमेव च ॥ म्व्क्_३।१ ॥  
 प्रसिद्धं शुद्धिविषयं सङ्ग्राह्यं भेदलक्षणम् ।  
@@ -185,12 +234,11 @@ Therefore, many word boundaries are not marked by blanks.
 गुणदोषाविकल्पेन ज्ञानेन परतः स्वयम् ।  
 निर्याणादपरं ज्ञेयं सप्रज्ञप्तिसहेतुकात् ॥ म्व्क्_३।२२ ॥  
 निमित्तात् प्रशमात् सार्थात् पश्चिमं समुदाहृतम् ॥  
-  
-॥ इति तत्त्वपरिच्छेदस्तृतीयः ॥  
-  
-  
+    
+॥ इति तत्त्वपरिच्छेदस्तृतीयः ॥
+
 प्रतिपक्षभावनावस्थाफलपरिच्छेदश्चतुर्थः  
-  
+    
 दौष्ठुल्यात् तर्षहेतुत्वाद् वस्तुत्वादविमोहतः ।  
 चतुस्सत्यावताराय स्मृत्युपस्थानभावना ॥ म्व्क्_४।१ ॥  
 परिज्ञाते विपक्षे च प्रतिपक्षे च सर्वथा ।  
@@ -228,12 +276,11 @@ Therefore, many word boundaries are not marked by blanks.
 उत्तरोत्तरमाद्यञ्च तदभ्यासत् समाप्तितः ।  
 आनुकूल्याद् विपक्षाच्च विसंयोगाद् विशेषतः ॥ म्व्क्_४।१८ ॥  
 उत्तरानुत्तरत्वाच्च फलमन्यत् समासतः ।  
-  
-॥ इति प्रतिपक्षभावनादिपरिच्छेदश्चतुर्थः ॥  
-  
-  
+    
+॥ इति प्रतिपक्षभावनादिपरिच्छेदश्चतुर्थः ॥
+
 ५ यानानुत्तर्यपरिच्छेदः पञ्चमः  
-  
+    
 आनुत्तर्यम्प्रपत्तौ हि पुनरालम्बने मतम् ।  
 समुदागम उद्दिष्टं प्रतिपत्तिस्तु षड् विधा ॥ म्व्क्_५।१ ॥  
 परमाथ मनस्कारे अनुधर्मे ऽन्तवर्जने ।  
@@ -296,12 +343,8 @@ Therefore, many word boundaries are not marked by blanks.
 निरावरणता तस्याप्रश्रब्धिसमुदागमः ॥ म्व्क्_५।३० ॥  
 शास्त्रं मध्यविभागं हि गूढसारार्थमेव च ।  
 महार्थञ्चैव सर्वार्थं सर्वानर्थप्रणोदनम् ॥ म्व्क्_५।३१ ॥  
-  
+    
 ॥ इति यानानुत्तर्य परिच्छेदः पञ्चमः ॥  
-  
-समाप्ता मध्यान्तविभागकारिकाः  
-  
-  
-  
-  
-  
+    
+समाप्ता मध्यान्तविभागकारिकाः
+

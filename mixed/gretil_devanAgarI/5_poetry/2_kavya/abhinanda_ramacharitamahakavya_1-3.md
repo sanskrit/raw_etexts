@@ -1,47 +1,36 @@
----
-title: 'Abhinanda: Ramacaritamahakavya, 1-3'
++++
+title = "Abhinanda: Ramacaritamahakavya, 1-3"
 
----
++++
+
+
 ## Intro
   
 Abhinanda: Ramacaritamahakavya, 1-3  
-
   
-
   
-Abhinanda:
-  
+Abhinanda:  
 Ramacaritamahakavya, 1-3 (to be continued)  
-
   
-Based on the edition by K.S. Ramaswami Sastri Siromani:
-  
-Ramacarita of Abhinanda. Baroda: Oriental Institute, 1930. 
-  
+Based on the edition by K.S. Ramaswami Sastri Siromani:  
+Ramacarita of Abhinanda. Baroda: Oriental Institute, 1930.   
 Gaekwad's Oriental Series No. XLVI.  
   
-
   
-Input by Harunaga Isaacson  
-
-  
-ANALYTIC TEXT VERSION (BHELA conventions)  
+E-text prepared by Harunaga Isaacson  
   
   
+TEXT IN PAUSA (sentence Sandhi resolved)  
   
-
   
-THIS TEXT FILE IS FOR REFERENCE PURPOSES ONLY!   
   
+  
+THIS TEXT FILE IS FOR REFERENCE PURPOSES ONLY!     
 COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.   
-
   
-Text converted to Unicode (UTF-8).
-  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration 
-  
-set to UTF-8.)
-  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration   
+set to UTF-8.)  
   
   
   
@@ -81,1698 +70,1009 @@ n underbar   ṉ
 k underbar   ḵ    
 t underbar   ṯ    
   
-
   
-
   
-Unless indicated otherwise, accents have been dropped in order 
-  
+Unless indicated otherwise, accents have been dropped in order   
 to facilitate word search.  
-
   
-For a comprehensive list of GRETIL encodings and formats see:
+For a comprehensive list of GRETIL encodings and formats see:  
+www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdiac.pdf  
+and  
+www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdias.pdf  
   
-www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdiac.pdf
   
-and
   
-www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdias.pdf
   
   
   
   
   
+prathamas+sargas+  
   
-
+atha mālyavatas+prasthe kākutsthasya viyoginaḥ  &  
+durnivārāśrusaṃvegas+jagāma jaladāgamaḥ  // Rc_1.1 //  
   
-ANALYTIC VERSION according to BHELA conventions:  
-
+śaśāma vṛṣṭis+meghānām+utsaṅge tasya bhūbhṛtaḥ  &  
+virarāma na rāmasya dhārāsantatis+aśruṇaḥ  // Rc_1.2 //  
   
-Sandhi markers:
+itas+tatas+pariṇatim+bheje barhiṇakūjitam  &  
+hā priye rājaputri+iti na rāmaparidevitam  // Rc_1.3 //  
   
-(. =short vowel, - =long vowel)  
-
+kā+api+abhikhyā virajasos+sūryācandramasos+abhūt  &  
+dāśarathyos+tathā+eva+āsīt+ayogopahatā ruciḥ  // Rc_1.4 //  
   
-in word-sandhi:
+nirmalendu nabhas+reje vikacābjam+babhau saraḥ  &  
+param+paryaśruvadanau mamlaturbhrātarāvubhau  // Rc_1.5 //  
   
-1: . .  e.g.: veda+anta = vedā1nta
+smartavyakalikājālam+jajñe kuṭajakānanam  &  
+āsīt+tathā+eva tu manas+rāmasya+utkalikākulam  // Rc_1.6 //  
   
-2: - .
+prapede punar+udbhedas+śucinā kacchaketakaiḥ  &  
+upakriyāyās+sadṛśam+na+ārebhe ravisūnunā  // Rc_1.7 //  
   
-3: . -
+ākṛṣṭamālatīgandhas+siṣeve rāghavam+marut  &  
+ānītamaithilīvārtas+tam+ārtam+na tu mārutiḥ  // Rc_1.8 //  
   
-4: - -  
-
+rāmāya pūrāpagamavyaktoddeśās+cakāśire  &  
+āste+asmāsu na sītā+iti śaṃsantyas+iva nimnagāḥ  // Rc_1.9 //  
   
-in sentence-sandhi:
+yadārdravirahas+rāmas+prāpitas+prāṇasaṃśayam  &  
+nūnam+tena+anutāpena jagmus+jaladarājayaḥ  // Rc_1.10 //  
   
-7: . .  e.g.: ca+api = cā7pi
+dyaus+muktameghāvaraṇā savitarkonmukham+muhuḥ  &  
+yayāce sārasarutais+vicāram+iva rāghavam  // Rc_1.11 //  
   
-8: . -
+diśas+dadṛśire tena stenam+tam+parimārgatā  &  
+mārgadānāparādhinyas+gatās+dūram+bhayāt+iva  // Rc_1.12 //  
   
-9: - .
+tasya+ākṛtiviśeṣasya viśeṣāt+kaṣṭam+īdṛśam  &  
+kacchās+kāśacchalāt+ūhus+iti+iva palitāgamam  // Rc_1.13 //  
   
-0: - -  
+paśyantyās+iva kaṣṭām+tām+avasthām+maithilīpateḥ  &  
+śuṣkapaṅkacayavyājāt+vidadre hṛdayam+bhuvaḥ  // Rc_1.14 //  
   
+vṛṣṭivicchedajātena tānavena+asamāptinā  &  
+prapedire jaladharās+tasya sabrahmacāritām  // Rc_1.15 //  
   
+yayau virahasaṃvartas+padminīrājahaṃsayoḥ  &  
+apāraduḥkhārṇavayos+na sītārāmabhadrayoḥ  // Rc_1.16 //  
   
-
+śāntanirjharajhātkāradhārās+śikhariṇas+babhuḥ  &  
+rāmasya viśadālāpaśuśrūṣānibhṛtās+iva  // Rc_1.17 //  
   
-prathamaḥ sargaḥ  
-
+tasya cakrus+camatkāram+vyatītasamayās+api  &  
+smitābhamukulodbhedās+kadambavanarājayaḥ  // Rc_1.18 //  
   
-atha mālyavataḥ prasthe kākutsthasya viyoginaḥ  &
-  
-durnivārāśrusaṃvego jagāma jaladāgamaḥ  // Rc_1.1 //  
-
-  
-śaśāma vṛṣṭir meghānām utsaṅge tasya bhūbhṛtaḥ  &
-  
-virarāma na rāmasya dhārāsantatir aśruṇaḥ  // Rc_1.2 //  
-
-  
-itas tataḥ pariṇatiṃ bheje barhiṇakūjitam  &
-  
-hā priye rājaputrī7ti na rāmaparidevitam  // Rc_1.3 //  
-
-  
-kā9py abhikhyā virajasoḥ sūryācandramasor abhūt  &
-  
-dāśarathyos tathai9vā8sīd ayogopahatā ruciḥ  // Rc_1.4 //  
-
-  
-nirmalendu nabho reje vikacābjaṃ babhau saraḥ  &
-  
-paraṃ paryaśruvadanau mamlaturbhrātarāvubhau  // Rc_1.5 //  
-
-  
-smartavyakalikājālaṃ jajñe kuṭajakānanam  &
-  
-āsīt tathai9va tu mano rāmasyo7tkalikākulam  // Rc_1.6 //  
-
-  
-prapede punar udbhedaḥ śucinā kacchaketakaiḥ  &
-  
-upakriyāyāḥ sadṛśaṃ nā8rebhe ravisūnunā  // Rc_1.7 //  
-
-  
-ākṛṣṭamālatīgandhaḥ siṣeve rāghavaṃ marut  &
-  
-ānītamaithilīvārtas tam ārtaṃ na tu mārutiḥ  // Rc_1.8 //  
-
-  
-rāmāya pūrāpagamavyaktoddeśāś cakāśire  &
-  
-āste 'smāsu na sīte9ti śaṃsantya iva nimnagāḥ  // Rc_1.9 //  
-
-  
-yadārdraviraho rāmaḥ prāpitaḥ prāṇasaṃśayam  &
-  
-nūnaṃ tenā7nutāpena jagmur jaladarājayaḥ  // Rc_1.10 //  
-
-  
-dyaur muktameghāvaraṇā savitarkonmukhaṃ muhuḥ  &
-  
-yayāce sārasarutair vicāram iva rāghavam  // Rc_1.11 //  
-
-  
-diśo dadṛśire tena stenaṃ taṃ parimārgatā  &
-  
-mārgadānāparādhinyo gatā dūraṃ bhayād iva  // Rc_1.12 //  
-
-  
-tasyā8kṛtiviśeṣasya viśeṣāt kaṣṭam īdṛśam  &
-  
-kacchāḥ kāśacchalād ūhur itī7va palitāgamam  // Rc_1.13 //  
-
-  
-paśyantyā iva kaṣṭāṃ tām avasthāṃ maithilīpateḥ  &
-  
-śuṣkapaṅkacayavyājād vidadre hṛdayaṃ bhuvaḥ  // Rc_1.14 //  
-
-  
-vṛṣṭivicchedajātena tānavenā7samāptinā  &
-  
-prapedire jaladharās tasya sabrahmacāritām  // Rc_1.15 //  
-
-  
-yayau virahasaṃvartaḥ padminīrājahaṃsayoḥ  &
-  
-apāraduḥkhārṇavayor na sītārāmabhadrayoḥ  // Rc_1.16 //  
-
-  
-śāntanirjharajhātkāradhārāḥ śikhariṇo babhuḥ  &
-  
-rāmasya viśadālāpaśuśrūṣānibhṛtā iva  // Rc_1.17 //  
-
-  
-tasya cakruś camatkāraṃ vyatītasamayā api  &
-  
-smitābhamukulodbhedāḥ kadambavanarājayaḥ  // Rc_1.18 //  
-
-  
-adṛśyanta puras tena khelāḥ khañjanapaṅktayaḥ  &
-  
+adṛśyanta puras+tena khelās+khañjanapaṅktayaḥ  &  
 asmaryanta ca niśvasya priyānayanavibhramāḥ  // Rc_1.19 //  
-
   
-abravīd atha kālajñas tatkālapratipattaye  &
+abravīt+atha kālajñas+tatkālapratipattaye  &  
+praṇamya lakṣmaṇas+rāmam+rāmāvirahaniḥsaham  // Rc_1.20 //  
   
-praṇamya lakṣmaṇo rāmaṃ rāmāvirahaniḥsaham  // Rc_1.20 //  
-
+jātam+vibhātam+amalam+paśya prāvṛṇṇiśā gatā  &  
+utsāhakamalasya+ayam+vikāsāvasaras+tava  // Rc_1.21 //  
   
-jātaṃ vibhātam amalaṃ paśya prāvṛṇṇiśā gatā  &
+ucchrayam+tīrataravas+raves+ūrjam+abhīṣavaḥ  &  
+madam+gopatayas+gṛhṇanti+abhiyogam+jigīṣavaḥ  // Rc_1.22 //  
   
-utsāhakamalasyā7yaṃ vikāsāvasaras tava  // Rc_1.21 //  
-
+prasīda dīyatām+karṇas+kūjadbhis+kurarais+amī  &  
+prārthayanti+iva saṃcāram+taṭās+kardamadurgatāḥ  // Rc_1.23 //  
   
-ucchrayaṃ tīrataravo raver ūrjam abhīṣavaḥ  &
+bhuvi bhāsvadabhīṣūṇām+tvadiṣūṇām+ca śatruṣu  &  
+ayam+sampatitum+kālas+sa duṣkālas+ativāhitaḥ  // Rc_1.24 //  
   
-madaṃ gopatayo gṛhṇanty abhiyogaṃ jigīṣavaḥ  // Rc_1.22 //  
-
+sudūronnataparyantās+tīryante saṃkramais+iva  &  
+analpagādhās+saritas+tarubhis+pūrapātitaiḥ  // Rc_1.25 //  
   
-prasīda dīyatāṃ karṇaḥ kūjadbhiḥ kurarair amī  &
+āviṣkṛtaviśuddhibhyām+nadyas+sumahilās+iva  &  
+kulābhyām+iva kūlābhyām+āpatsu+api cakāsati  // Rc_1.26 //  
   
-prārthayantī7va saṃcāraṃ taṭāḥ kardamadurgatāḥ  // Rc_1.23 //  
-
+jalajānām+sumanasām+vayasām+jalasevinām  &  
+asya pratijalādhāram+sāmagryam+avalokyate  // Rc_1.27 //  
   
-bhuvi bhāsvadabhīṣūṇāṃ tvadiṣūṇāṃ ca śatruṣu  &
+yuyutsārabhasotkhātasaritkhātakarodhasaḥ  &  
+kukudmantas+madakalās+kalayanti jaganti+adhaḥ  // Rc_1.28 //  
   
-ayaṃ sampatituṃ kālaḥ sa duṣkālo 'tivāhitaḥ  // Rc_1.24 //  
-
+viśveśa kuru viśvāsam+āvartante na te ghanāḥ  &  
+amī śyāmalayanti+āśās+śukās+śālivanonmukhāḥ  // Rc_1.29 //  
   
-sudūronnataparyantās tīryante saṃkramair iva  &
+mṛgās+samprati śāleyam+sampannam+sampatanti+amī  &  
+sāketam+adhitiṣṭhantam+arthinas+tvām+iva+unmukhāḥ  // Rc_1.30 //  
   
-analpagādhāḥ saritas tarubhiḥ pūrapātitaiḥ  // Rc_1.25 //  
-
+kāryadik+gṛhyatām+kā+api kim+ārya sthīyate vṛthā  &  
+evam+eva+ayam+asmākam+iṣṭas+api kim+upaiṣyati  // Rc_1.31 //  
   
-āviṣkṛtaviśuddhibhyāṃ nadyaḥ sumahilā iva  &
+vijayāya bhavāsīnas+mayi+arpitavapurbharaḥ  &  
+mūrcchānuvalanavyastas+prastaras+tyajyatām+ayam  // Rc_1.32 //  
   
-kulābhyām iva kūlābhyām āpatsv api cakāsati  // Rc_1.26 //  
-
+pratīṣṭopatyakāsāladalāgrajalabindavaḥ  &  
+sāryantām+kṣaṇam+uddhūya sthagitāṃsataṭās+jaṭāḥ  // Rc_1.33 //  
   
-jalajānāṃ sumanasāṃ vayasāṃ jalasevinām  &
+muhūrtam+kriyatām+ārya kapolavirahī karaḥ  &  
+vyuṣitas+valkalagranthis+aṃsāt+unmocyatām+ayam  // Rc_1.34 //  
   
-asya pratijalādhāraṃ sāmagryam avalokyate  // Rc_1.27 //  
-
+itas+vitatya dīyantām+iṣavas+klinnayantraṇāḥ  &  
+nirmuktārdrajaraccailam+ādattām+āyatam+dhanuḥ  // Rc_1.35 //  
   
-yuyutsārabhasotkhātasaritkhātakarodhasaḥ  &
+itas+avatīryatām+prāsthāt+asvāsthyam+idam+ujjhyatām  &  
+jahi+iṣubhis+daśagrīvam+daśadigvedhaśodhitaiḥ  // Rc_1.36 //  
   
-kukudmanto madakalāḥ kalayanti jaganty adhaḥ  // Rc_1.28 //  
-
+ṛjus+ādīyatām+panthās+kāryakanthā garīyasī  &  
+utsāryatām+idam+dūram+tamas+kiṃkāryatāmayam  // Rc_1.37 //  
   
-viśveśa kuru viśvāsam āvartante na te ghanāḥ  &
+āryāyās+śivam+eva+asti śatrus+nihatas+eva te  &  
+alam+dattvā+avasādāya trailokyaśaraṇam+vapuḥ  // Rc_1.38 //  
   
-amī śyāmalayanty āśāḥ śukāḥ śālivanonmukhāḥ  // Rc_1.29 //  
-
+rākṣasāpaśadas+kas+asau tvayi sajyaśarāsane  &  
+anena te+avasādena dūram+āropitas+punaḥ  // Rc_1.39 //  
   
-mṛgāḥ samprati śāleyaṃ sampannaṃ sampatanty amī  &
+aśruvegais+pramīlābhis+vilāpais+akhilas+sa te  &  
+āmṛṣṭadehayātrasya māsas+prauṣṭhapadas+gataḥ  // Rc_1.40 //  
   
-sāketam adhitiṣṭhantam arthinas tvām ivo7nmukhāḥ  // Rc_1.30 //  
-
+kriyatām+adhunā+utsāhas+cintyatām+nidhanam+dviṣaḥ  &  
+kas+svabāhusahāyānām+mahatām+ātmanigrahaḥ  // Rc_1.41 //  
   
-kāryadig gṛhyatāṃ kā9pi kim ārya sthīyate vṛthā  &
+bhadram+bhādrapadacchedacchinnābhrājinarajjave  &  
+tubhyam+puruṣanāgāya nirvighnatarase+adhunā  // Rc_1.42 //  
   
-evam evā7yam asmākam iṣṭo 'pi kim upaiṣyati  // Rc_1.31 //  
-
+prasīda kuru bhūyas+api dehayātrām+yathā tathā  &  
+anullaṅghitavijñaptis+lakṣmaṇas+avarajeṣu te  // Rc_1.43 //  
   
-vijayāya bhavāsīno mayy arpitavapurbharaḥ  &
+agādham+dhairyam+āryasya triṣu lokeṣu gīyate  &  
+janamātrocitas+kas+ayam+ākalpakaparigrahaḥ  // Rc_1.44 //  
   
-mūrcchānuvalanavyastaḥ prastaras tyajyatām ayam  // Rc_1.32 //  
-
+aropaśamitodagrajāmadagnyāgnitejasaḥ  &  
+pratīcchati śarāsāram+tava+ārya ruṣitasya kaḥ  // Rc_1.45 //  
   
-pratīṣṭopatyakāsāladalāgrajalabindavaḥ  &
+svakṛtyabhārasannyāsī yāvat+ittham+viṣīdasi  &  
+tāvat+antakadaṃṣṭrāṇām+arātis+atithis+na te  // Rc_1.46 //  
   
-sāryantāṃ kṣaṇam uddhūya sthagitāṃsataṭā jaṭāḥ  // Rc_1.33 //  
-
+ātatāyī sa vijñātas+jīvati+āryā+iti ca śrutam  &  
+prāptas+yātrāsahas+kālas+kālakṣepasya kas+guṇaḥ  // Rc_1.47 //  
   
-muhūrtaṃ kriyatām ārya kapolavirahī karaḥ  &
+na jñāyate param+vyaktam+ares+māyāvinas+padam  &  
+tanmārgaṇam+ca suhṛdā sugrīveṇa pratiśrutam  // Rc_1.48 //  
   
-vyuṣito valkalagranthir aṃsād unmocyatām ayam  // Rc_1.34 //  
-
+diṅmukhāhūtavikhyātakapiyūthas+kapīśvaraḥ  &  
+kṣaṇāt+nūnam+asau+āryapādamūle patiṣyati  // Rc_1.49 //  
   
-ito vitatya dīyantām iṣavaḥ klinnayantraṇāḥ  &
+śālipiṅgamahīpṛṣṭhaspardhayā+iva bhaviṣyati  &  
+raṃhasviharisaṃghātasampātakapilam+nabhaḥ  // Rc_1.50 //  
   
-nirmuktārdrajaraccailam ādattām āyataṃ dhanuḥ  // Rc_1.35 //  
-
+teṣām+āroṣarucirais+acirāt+mukhamaṇḍalaiḥ  &  
+drakṣyate taruṇādityaśatacchannam+iva+ambaram  // Rc_1.51 //  
   
-ito 'vatīryatāṃ prāsthād asvāsthyam idam ujjhyatām  &
+aho dīptis+aho kāntis+aho śīlam+aho balam  &  
+aho śaktis+aho bhaktis+aho prajñā hanūmataḥ  // Rc_1.52 //  
   
-jahī7ṣubhir daśagrīvaṃ daśadigvedhaśodhitaiḥ  // Rc_1.36 //  
-
+pragalbhena+apramattena tena+abhyantaramantriṇā  &  
+nūnam+asmatkṛte svaptum+sugrīvāya na dīyate  // Rc_1.53 //  
   
-ṛjur ādīyatāṃ panthāḥ kāryakanthā garīyasī  &
+sa ca pratyupakārāya tvarayati+enam+ādṛtaḥ  &  
+dhruvam+buddhivayovṛddhas+sacivas+jāmbavān+api  // Rc_1.54 //  
   
-utsāryatām idaṃ dūraṃ tamaḥ kiṃkāryatāmayam  // Rc_1.37 //  
-
+tat+evam+hetunā kena vānarendras+vilambate  &  
+na+asau kṛtaghnasya bhavet+guṇavadbhṛtyasaṃgrahaḥ  // Rc_1.55 //  
   
-āryāyāḥ śivam evā7sti śatrur nihata eva te  &
+āgantavyam+dhruvam+tena mārgitā+āryā pravṛttinā  &  
+prapannaparakṛtyānām+atyuṣṇas+hi samudyamaḥ  // Rc_1.56 //  
   
-alaṃ dattvā9vasādāya trailokyaśaraṇaṃ vapuḥ  // Rc_1.38 //  
-
+tvatprasādāptasambhogasukhasaṃmīlitena vā  &  
+na tena+amūs+dadṛśire diśas+proṣitakālikāḥ  // Rc_1.57 //  
   
-rākṣasāpaśadaḥ ko 'sau tvayi sajyaśarāsane  &
+kiyacciram+punar+asau tasya na śrutim+eṣyati  &  
+krīḍātaṭākahaṃsānām+ninādas+madamūrchitaḥ  // Rc_1.58 //  
   
-anena te 'vasādena dūram āropitaḥ punaḥ  // Rc_1.39 //  
-
+uktais+kim+atha bhūyobhis+adya śvas+vā+āgamiṣyati  &  
+paryutsukitakiṣkindhas+satyasandhas+harīśvaraḥ  // Rc_1.59 //  
   
-aśruvegaiḥ pramīlābhir vilāpair akhilaḥ sa te  &
+vyatireke+api yat+kāryam+tadapyārya pradhāryatām  &  
+gṛhyatām+kāryasiddhis+nas+tadvilambatiraskṛtā  // Rc_1.60 //  
   
-āmṛṣṭadehayātrasya māsaḥ prauṣṭhapado gataḥ  // Rc_1.40 //  
-
+yas+tathā+upakṛtas+pūrvam+āryeṇa+āryākṛte+adhunā  &  
+sa śītalas+syāt+athavā paracittāni vetti kaḥ  // Rc_1.61 //  
   
-kriyatām adhuno9tsāhaś cintyatāṃ nidhanaṃ dviṣaḥ  &
+sa pratiśrutam+artham+nas+sphītas+vismṛtavān+iva  &  
+gatvā+āśu smāryatām+ārya kāryataptasya kā kṣamā  // Rc_1.62 //  
   
-kaḥ svabāhusahāyānāṃ mahatām ātmanigrahaḥ  // Rc_1.41 //  
-
+tam+aham+bodhayiṣyāmi daṇḍagarbhābhis+uktibhiḥ  &  
+sāma saṃmīlayati+eva sukhasaktān+pramādinaḥ  // Rc_1.63 //  
   
-bhadraṃ bhādrapadacchedacchinnābhrājinarajjave  &
+prasīda jīyatām+mohas+kas+aham+iti+avadhīyatām  &  
+drutam+uttīrṇas+eva+āste vyasanābdhis+kiyān+ayam  // Rc_1.64 //  
   
-tubhyaṃ puruṣanāgāya nirvighnatarase 'dhunā  // Rc_1.42 //  
-
+sūnṛtais+iti saumitres+prītas+pīyūṣavarṣibhiḥ  &  
+tam+antarvedanāvegam+jigāya+iva raghūdvahaḥ  // Rc_1.65 //  
   
-prasīda kuru bhūyo 'pi dehayātrāṃ yathā tathā  &
+unmīlayāmāsa dṛśau diśas+kiṃcit+alokata  &  
+unnanāma ca talpāntāt+mocayan+pakṣmalās+jaṭāḥ  // Rc_1.66 //  
   
-anullaṅghitavijñaptir lakṣmaṇo 'varajeṣu te  // Rc_1.43 //  
-
+satvaraprahvasaumitricīrotsāritareṇuni  &  
+śucini kvacit+āsanne niṣasāda śilātale  // Rc_1.67 //  
   
-agādhaṃ dhairyam āryasya triṣu lokeṣu gīyate  &
+upaviṣṭas+tadā rāmas+na reje sītayā vinā  &  
+dhvajas+nirvaijayantīkas+paurandaras+iva+ucchritaḥ  // Rc_1.68 //  
   
-janamātrocitaḥ ko 'yam ākalpakaparigrahaḥ  // Rc_1.44 //  
-
-  
-aropaśamitodagrajāmadagnyāgnitejasaḥ  &
-  
-pratīcchati śarāsāraṃ tavā8rya ruṣitasya kaḥ  // Rc_1.45 //  
-
-  
-svakṛtyabhārasannyāsī yāvad itthaṃ viṣīdasi  &
-  
-tāvad antakadaṃṣṭrāṇām arātir atithir na te  // Rc_1.46 //  
-
-  
-ātatāyī sa vijñāto jīvaty ārye9ti ca śrutam  &
-  
-prāpto yātrāsahaḥ kālaḥ kālakṣepasya ko guṇaḥ  // Rc_1.47 //  
-
-  
-na jñāyate paraṃ vyaktam arer māyāvinaḥ padam  &
-  
-tanmārgaṇaṃ ca suhṛdā sugrīveṇa pratiśrutam  // Rc_1.48 //  
-
-  
-diṅmukhāhūtavikhyātakapiyūthaḥ kapīśvaraḥ  &
-  
-kṣaṇān nūnam asav āryapādamūle patiṣyati  // Rc_1.49 //  
-
-  
-śālipiṅgamahīpṛṣṭhaspardhaye9va bhaviṣyati  &
-  
-raṃhasviharisaṃghātasampātakapilaṃ nabhaḥ  // Rc_1.50 //  
-
-  
-teṣām āroṣarucirair acirān mukhamaṇḍalaiḥ  &
-  
-drakṣyate taruṇādityaśatacchannam ivā7mbaram  // Rc_1.51 //  
-
-  
-aho dīptir aho kāntir aho śīlam aho balam  &
-  
-aho śaktir aho bhaktir aho prajñā hanūmataḥ  // Rc_1.52 //  
-
-  
-pragalbhenā7pramattena tenā7bhyantaramantriṇā  &
-  
-nūnam asmatkṛte svaptuṃ sugrīvāya na dīyate  // Rc_1.53 //  
-
-  
-sa ca pratyupakārāya tvarayaty enam ādṛtaḥ  &
-  
-dhruvaṃ buddhivayovṛddhaḥ sacivo jāmbavān api  // Rc_1.54 //  
-
-  
-tad evaṃ hetunā kena vānarendro vilambate  &
-  
-nā7sau kṛtaghnasya bhaved guṇavadbhṛtyasaṃgrahaḥ  // Rc_1.55 //  
-
-  
-āgantavyaṃ dhruvaṃ tena mārgitā0ryā pravṛttinā  &
-  
-prapannaparakṛtyānām atyuṣṇo hi samudyamaḥ  // Rc_1.56 //  
-
-  
-tvatprasādāptasambhogasukhasaṃmīlitena vā  &
-  
-na tenā7mūr dadṛśire diśaḥ proṣitakālikāḥ  // Rc_1.57 //  
-
-  
-kiyacciraṃ punar asau tasya na śrutim eṣyati  &
-  
-krīḍātaṭākahaṃsānāṃ ninādo madamūrchitaḥ  // Rc_1.58 //  
-
-  
-uktaiḥ kim atha bhūyobhir adya śvo vā0gamiṣyati  &
-  
-paryutsukitakiṣkindhaḥ satyasandho harīśvaraḥ  // Rc_1.59 //  
-
-  
-vyatireke 'pi yat kāryaṃ tadapyārya pradhāryatām  &
-  
-gṛhyatāṃ kāryasiddhir nas tadvilambatiraskṛtā  // Rc_1.60 //  
-
-  
-yas tatho9pakṛtaḥ pūrvam āryeṇā8ryākṛte 'dhunā  &
-  
-sa śītalaḥ syād athavā paracittāni vetti kaḥ  // Rc_1.61 //  
-
-  
-sa pratiśrutam arthaṃ naḥ sphīto vismṛtavān iva  &
-  
-gatvā0śu smāryatām ārya kāryataptasya kā kṣamā  // Rc_1.62 //  
-
-  
-tam ahaṃ bodhayiṣyāmi daṇḍagarbhābhir uktibhiḥ  &
-  
-sāma saṃmīlayaty eva sukhasaktān pramādinaḥ  // Rc_1.63 //  
-
-  
-prasīda jīyatāṃ mohaḥ ko 'ham ity avadhīyatām  &
-  
-drutam uttīrṇa evā8ste vyasanābdhiḥ kiyān ayam  // Rc_1.64 //  
-
-  
-sūnṛtair iti saumitreḥ prītaḥ pīyūṣavarṣibhiḥ  &
-  
-tam antarvedanāvegaṃ jigāye7va raghūdvahaḥ  // Rc_1.65 //  
-
-  
-unmīlayāmāsa dṛśau diśaḥ kiṃcid alokata  &
-  
-unnanāma ca talpāntān mocayan pakṣmalā jaṭāḥ  // Rc_1.66 //  
-
-  
-satvaraprahvasaumitricīrotsāritareṇuni  &
-  
-śucini kvacid āsanne niṣasāda śilātale  // Rc_1.67 //  
-
-  
-upaviṣṭas tadā rāmo na reje sītayā vinā  &
-  
-dhvajo nirvaijayantīkaḥ paurandara ivo7cchritaḥ  // Rc_1.68 //  
-
-  
-anūpaviṣṭam anujaṃ danujārim ivā7drijit  &
-  
+anūpaviṣṭam+anujam+danujārim+iva+adrijit  &  
 pratyabhāṣata vātsalyagadgadāni padāni saḥ  // Rc_1.69 //  
-
   
-ehy ehi priyasaṃlāpa hlādayā0liṅgitena mām  &
+ehi+ehi priyasaṃlāpa hlādayā+āliṅgitena mām  &  
+ruddham+ruddham+upaiti+aśru tvām+api+īkṣe na lakṣmaṇa  // Rc_1.70 //  
   
-ruddhaṃ ruddham upaity aśru tvām apī8kṣe na lakṣmaṇa  // Rc_1.70 //  
-
+hā vatsa bhavatas+api+iyam+avasthā+aṅgeṣu vartate  &  
+dhriyatām+rāmahatakas+kleśayan+ekabāndhavam  // Rc_1.71 //  
   
-hā vatsa bhavato 'pī7yam avasthā9ṅgeṣu vartate  &
+na+asti vatsa cikitsā+asya vyādhes+vidhurajanmanaḥ  &  
+yasya yāpanayā kṣīṇam+idam+te sāntvanāmṛtam  // Rc_1.72 //  
   
-dhriyatāṃ rāmahatakaḥ kleśayann ekabāndhavam  // Rc_1.71 //  
-
+naikadurvāraghorādhighaṭṭanācalitās+api  &  
+tava+āśvāsanayā vatsa na gacchanti mama+asavaḥ  // Rc_1.73 //  
   
-nā7sti vatsa cikitsā9sya vyādher vidhurajanmanaḥ  &
+pitus+nas+priyamitrasya lūnapakṣasya maddviṣā  &  
+saṃsmaran+na+utsahe vatsa marmacchedam+jaṭāyuṣaḥ  // Rc_1.74 //  
   
-yasya yāpanayā kṣīṇam idaṃ te sāntvanāmṛtam  // Rc_1.72 //  
-
+tātasya tātamitrasya vatsavatsalayos+tayoḥ  &  
+aham+eva gatas+pāpas+nidhanāya nimittatām  // Rc_1.75 //  
+priyāpahārajas+śāmyet+samyak+unmūlite ripau  &  
+manyus+dehāvadhis+ayam+tātamitravipattibhūḥ  // Rc_1.76 //  
   
-naikadurvāraghorādhighaṭṭanācalitā api  &
+nabhastalāt+khagapatau patati cchinnapakṣatau  &  
+kas+aparas+tām+mama suhṛt+mā bhaiṣīs+iti+abhāṣata  // Rc_1.77 //  
   
-tavā8śvāsanayā vatsa na gacchanti mamā7savaḥ  // Rc_1.73 //  
-
+syāt+vatsa rāmahatakāt+klības+kas+puruṣas+aparaḥ  &  
+ekapatnīm+anugatām+arātes+yas+na rakṣati  // Rc_1.78 //  
   
-pitur naḥ priyamitrasya lūnapakṣasya maddviṣā  &
+tayā teṣu tapasvinyā sīdatos+āvayos+api  &  
+daṇḍakāraṇyakaṣṭeṣu mukham+na vidhurīkṛtam  // Rc_1.79 //  
   
-saṃsmaran no7tsahe vatsa marmacchedaṃ jaṭāyuṣaḥ  // Rc_1.74 //  
-
+videharājasya sutā snuṣā daśarathasya sā  &  
+hatarāmasya jāyā+iti bhramati sma vane vane  // Rc_1.80 //  
   
-tātasya tātamitrasya vatsavatsalayos tayoḥ  &
+svam+api+apuṣṇatā kāyam+api jāyām+arakṣatā  &  
+mayā samas+śrutas+kas+api jātas+klības+raghos+kule  // Rc_1.81 //  
   
-aham eva gataḥ pāpo nidhanāya nimittatām  // Rc_1.75 //  
-
+tvam+kevalam+na subhrātā tathā vilapatā muhuḥ  &  
+tiryañcas+api mayā+amuṣmin+vane lakṣmaṇa roditāḥ  // Rc_1.82 //  
   
-priyāpahārajaḥ śāmyet samyag unmūlite ripau  &
+dikṣu sannaddhameghāsu mama ghorādhisākṣiṇām  &  
+avahan+nirjharanibhān+nagānām+aśrunimnagāḥ  // Rc_1.83 //  
   
-manyur dehāvadhir ayaṃ tātamitravipattibhūḥ  // Rc_1.76 //  
-
+ārāt+ākarṇitasnigdhanavābdaninadais+api  &  
+matkāruṇyāt+araṇye+api na+anṛtyata kalāpibhiḥ  // Rc_1.84 //  
   
-nabhastalāt khagapatau patati cchinnapakṣatau  &
+satyam+eṣyati sugrīvas+satyam+jīvati jānakī  &  
+tvadvacas+na viparyeti bhrātar+brūhi punas+punaḥ  // Rc_1.85 //  
   
-ko 'paras tāṃ mama suhṛn mā bhaiṣīr ity abhāṣata  // Rc_1.77 //  
-
+tvadvākyaśīkarais+ebhis+niruddhabahirudgamaḥ  &  
+mama+antar+leḍhi marmāṇi sītāvirahamurmuraḥ  // Rc_1.86 //  
   
-syād vatsa rāmahatakāt klībaḥ kaḥ puruṣo 'paraḥ  &
+tasmāt+api dahati+uccair+ayam+mām+aparas+śikhī  &  
+yat+vanaukasi nirvaire muktas+vālini mārgaṇaḥ  // Rc_1.87 //  
   
-ekapatnīm anugatām arāter yo na rakṣati  // Rc_1.78 //  
-
+gurvī punas+ca lajjā+iyam+uttamarṇais+iva+adhunā  &  
+mārgitavyas+yat+asmābhis+plavagās+pratyupakriyām  // Rc_1.88 //  
   
-tayā teṣu tapasvinyā sīdator āvayor api  &
+na+asti pratyupakārāśā tatra nas+capale kapau  &  
+yena+atilaghunā+uttuṅgas+laṅghitas+satyapādapaḥ  // Rc_1.89 //  
   
-daṇḍakāraṇyakaṣṭeṣu mukhaṃ na vidhurīkṛtam  // Rc_1.79 //  
-
+uttiṣṭha vatsa gacchāvas+sādhayāmas+anyatas+adhunā  &  
+navaiśvaryasukhavyagras+sugrīvas+nāgam+iṣyati  // Rc_1.90 //  
   
-videharājasya sutā snuṣā daśarathasya sā  &
+tapasvī ramatām+evam+cirāt+dārais+samāgataḥ  &  
+sa pīḍyamānas+praṇayāt+virasas+kim+kariṣyati  // Rc_1.91 //  
   
-hatarāmasya jāye9ti bhramati sma vane vane  // Rc_1.80 //  
-
+kim+ca vatsa daśāsāmyāt+jātās+smas+suhṛdas+purā  &  
+tasya+adhunā tu vistīrṇavibhavāndhasya ke vayam  // Rc_1.92 //  
   
-svam apy apuṣṇatā kāyam api jāyām arakṣatā  &
+gṛhītasādhuvartmā+api sadyas+samprāpya sampadam  &  
+patati skhalitas+atīva pramattas+prahate pathi  // Rc_1.93 //  
   
-mayā samaḥ śrutaḥ ko 'pi jātaḥ klībo raghoḥ kule  // Rc_1.81 //  
-
+sa vatsa viralas+jantus+vipatkālapratiśrutam  &  
+sadyas+sampanmadas+yasya na vilumpati cetasi  // Rc_1.94 //  
   
-tvaṃ kevalaṃ na subhrātā tathā vilapatā muhuḥ  &
+astu sādhus+asādhus+vā na vicāryas+sa me+adhunā  &  
+vatsa na+utsahate cetas+tatra dogdhum+upakriyām  // Rc_1.95 //  
   
-tiryañco 'pi mayā9muṣmin vane lakṣmaṇa roditāḥ  // Rc_1.82 //  
-
+asau+anāgatas+śreyān+āgacchan+vatsa vāryatām  &  
+praveśayanti suhṛdam+na dhīrās+svārthasaṃkaṭe  // Rc_1.96 //  
   
-dikṣu sannaddhameghāsu mama ghorādhisākṣiṇām  &
+kartavyā+upakṛtis+sadbhis+yatra tatra vipadgate  &  
+avimṛśya kṛtas+asmābhis+sa punas+kṛpaṇas+paṇaḥ  // Rc_1.97 //  
   
-avahan nirjharanibhān nagānām aśrunimnagāḥ  // Rc_1.83 //  
-
+kim+kṣiptam+acalaprāntāt+antaḥsuptaśivāśatam  &  
+nirdeśapuruṣeṇa+iva kaṅkālam+dundubhes+mayā  // Rc_1.98 //  
   
-ārād ākarṇitasnigdhanavābdaninadair api  &
+kasya+arthasya kṛte viddhās+sapta sālās+tapasvinaḥ  &  
+sa mā pratyetu vaidheyas+kim+na sādhitam+anyataḥ  // Rc_1.99 //  
   
-matkāruṇyād araṇye 'pi nā7nṛtyata kalāpibhiḥ  // Rc_1.84 //  
-
+akṣātram+kṣatriyayuvā kas+nu rāmas+iva kṣipet  &  
+viśikham+vālini vyagre sugrīvasya paśos+kṛte  // Rc_1.100 //  
   
-satyam eṣyati sugrīvaḥ satyaṃ jīvati jānakī  &
+na parityajyate mārgas+tāvat+nirvācyakardamaḥ  &  
+yāvat+pihitakaṣṭāya kāryāya+ātmā na dīyate  // Rc_1.101 //  
   
-tvadvaco na viparyeti bhrātar brūhi punaḥ punaḥ  // Rc_1.85 //  
-
+iṣvā+ekayā mayā viddhas+bāliśena valīmukhaḥ  &  
+anuddhārās+śarās+tena ropitās+mayi vāṅmayāḥ  // Rc_1.102 //  
   
-tvadvākyaśīkarair ebhir niruddhabahirudgamaḥ  &
+anavāptavipatpāras+smariṣyāmi kiyanti vā  &  
+vatsa kālocitam+śādhi na rāmas+kiṃcit+īkṣate  // Rc_1.103 //  
   
-mamā7ntar leḍhi marmāṇi sītāvirahamurmuraḥ  // Rc_1.86 //  
-
+avalambasva mām+bhrātas+sītāsmaraṇanissaham  &  
+dūram+punas+prabhavatā manas+mohena lupyate  // Rc_1.104 //  
   
-tasmād api dahaty uccair ayaṃ mām aparaḥ śikhī  &
+sanāthobhayapārśvasya tvayā vatsa tayā ca me  &  
+vaneṣu ca satas+kaṣṭam+ajaniṣṭa na kiṃcana  // Rc_1.105 //  
   
-yad vanaukasi nirvaire mukto vālini mārgaṇaḥ  // Rc_1.87 //  
-
+hā bhīru hā priyatame hā madvirahakātare  &  
+kva+asi+iti+ardhoktinissaṃjñas+jagāma sa mahītalam  // Rc_1.106 //  
   
-gurvī punaś ca lajje9yam uttamarṇair ivā7dhunā  &
+mātas+kaikeyi tuṣṭā+asi bhuṅkṣva rājyam+akaṇṭakam  &  
+vadan+iti+apatat+tasya lakṣmaṇas+caraṇābjayoḥ  // Rc_1.107 //  
   
-mārgitavyo yad asmābhiḥ plavagāḥ pratyupakriyām  // Rc_1.88 //  
-
+tatas+tau sāśrunayanau mṛgais+vidhuravīkṣitau  &  
+nipetatus+divas+iva bhraṣṭau vidhuravī kṣitau  // Rc_1.108 //  
   
-nā7sti pratyupakārāśā tatra naś capale kapau  &
+iti nipatitayos+tayos+dvayos+daśarathanandanayos+mahītale  &  
+daśabhis+api digaṅganāmukhais+adhṛtivaśāt+iva tatyaje ruciḥ  // Rc_1.109 //  
   
-yenā7tilaghuno9ttuṅgo laṅghitaḥ satyapādapaḥ  // Rc_1.89 //  
-
+ete nikāmarasikasya jayanti pādās+śrīhāravarṣayuvarājamahītalendoḥ  &  
+yais+dvādaśārkakiraṇotkaradurnivāras+sṛṣṭas+abhinandakumudasya mahāvikāsaḥ  // Rc_1.110 //  
   
-uttiṣṭha vatsa gacchāvaḥ sādhayāmo 'nyato 'dhunā  &
+iti+abhinandakṛtau rāmacarite mahākāvye prathamas+sargas+samāptaḥ  ||  
   
-navaiśvaryasukhavyagraḥ sugrīvo nāgam iṣyati  // Rc_1.90 //  
-
-  
-tapasvī ramatām evaṃ cirād dāraiḥ samāgataḥ  &
-  
-sa pīḍyamānaḥ praṇayād virasaḥ kiṃ kariṣyati  // Rc_1.91 //  
-
-  
-kiṃ ca vatsa daśāsāmyāj jātāḥ smaḥ suhṛdaḥ purā  &
-  
-tasyā7dhunā tu vistīrṇavibhavāndhasya ke vayam  // Rc_1.92 //  
-
-  
-gṛhītasādhuvartmā9pi sadyaḥ samprāpya sampadam  &
-  
-patati skhalito 'tīva pramattaḥ prahate pathi  // Rc_1.93 //  
-
-  
-sa vatsa viralo jantur vipatkālapratiśrutam  &
-  
-sadyaḥ sampanmado yasya na vilumpati cetasi  // Rc_1.94 //  
-
-  
-astu sādhur asādhur vā na vicāryaḥ sa me 'dhunā  &
-  
-vatsa no7tsahate cetas tatra dogdhum upakriyām  // Rc_1.95 //  
-
-  
-asāv anāgataḥ śreyān āgacchan vatsa vāryatām  &
-  
-praveśayanti suhṛdaṃ na dhīrāḥ svārthasaṃkaṭe  // Rc_1.96 //  
-
-  
-kartavyo9pakṛtiḥ sadbhir yatra tatra vipadgate  &
-  
-avimṛśya kṛto 'smābhiḥ sa punaḥ kṛpaṇaḥ paṇaḥ  // Rc_1.97 //  
-
-  
-kiṃ kṣiptam acalaprāntād antaḥsuptaśivāśatam  &
-  
-nirdeśapuruṣeṇe7va kaṅkālaṃ dundubher mayā  // Rc_1.98 //  
-
-  
-kasyā7rthasya kṛte viddhāḥ sapta sālās tapasvinaḥ  &
-  
-sa mā pratyetu vaidheyaḥ kiṃ na sādhitam anyataḥ  // Rc_1.99 //  
-
-  
-akṣātraṃ kṣatriyayuvā ko nu rāma iva kṣipet  &
-  
-viśikhaṃ vālini vyagre sugrīvasya paśoḥ kṛte  // Rc_1.100 //  
-
-  
-na parityajyate mārgas tāvan nirvācyakardamaḥ  &
-  
-yāvat pihitakaṣṭāya kāryāyā8tmā na dīyate  // Rc_1.101 //  
-
-  
-iṣvai9kayā mayā viddho bāliśena valīmukhaḥ  &
-  
-anuddhārāḥ śarās tena ropitā mayi vāṅmayāḥ  // Rc_1.102 //  
-
-  
-anavāptavipatpāraḥ smariṣyāmi kiyanti vā  &
-  
-vatsa kālocitaṃ śādhi na rāmaḥ kiṃcid īkṣate  // Rc_1.103 //  
-
-  
-avalambasva māṃ bhrātaḥ sītāsmaraṇanissaham  &
-  
-dūraṃ punaḥ prabhavatā mano mohena lupyate  // Rc_1.104 //  
-
-  
-sanāthobhayapārśvasya tvayā vatsa tayā ca me  &
-  
-vaneṣu ca sataḥ kaṣṭam ajaniṣṭa na kiṃcana  // Rc_1.105 //  
-
-  
-hā bhīru hā priyatame hā madvirahakātare  &
-  
-kvā7sī7ty ardhoktinissaṃjño jagāma sa mahītalam  // Rc_1.106 //  
-
-  
-mātaḥ kaikeyi tuṣṭā9si bhuṅkṣva rājyam akaṇṭakam  &
-  
-vadann ity apatat tasya lakṣmaṇaś caraṇābjayoḥ  // Rc_1.107 //  
-
-  
-tatas tau sāśrunayanau mṛgair vidhuravīkṣitau  &
-  
-nipetatur diva iva bhraṣṭau vidhuravī kṣitau  // Rc_1.108 //  
-
-  
-iti nipatitayos tayor dvayor daśarathanandanayor mahītale  &
-  
-daśabhir api digaṅganāmukhair adhṛtivaśād iva tatyaje ruciḥ  // Rc_1.109 //  
-
-  
-ete nikāmarasikasya jayanti pādāḥ śrīhāravarṣayuvarājamahītalendoḥ  &
-  
-yair dvādaśārkakiraṇotkaradurnivāraḥ sṛṣṭo 'bhinandakumudasya mahāvikāsaḥ  // Rc_1.110 //  
-
-  
-ity abhinandakṛtau rāmacarite mahākāvye prathamaḥ sargaḥ samāptaḥ  |/  
-  
-
   
 ***********************************************************************  
-
   
-dvitīyaḥ sargaḥ  
-
+dvitīyas+sargas+  
   
-tām anīkṣitacarīm adhīratām ātmano 'tha viniyamya lakṣmaṇaḥ  &
+tām+anīkṣitacarīm+adhīratām+ātmanas+atha viniyamya lakṣmaṇaḥ  &  
+sāntvanārtham+iti vācam+abravīt+tīvramanyurayamūḍham+agrajam  // Rc_2.1 //  
   
-sāntvanārtham iti vācam abravīt tīvramanyurayamūḍham agrajam  // Rc_2.1 //  
-
+kāryam+ārya pariśiṣṭam+ucyatām+mucyatām+idam+ayogajam+tamaḥ  &  
+rājatu+udyamadivākarodayasmeram+āśu mukhapaṅkajam+tava  // Rc_2.2 //  
   
-kāryam ārya pariśiṣṭam ucyatāṃ mucyatām idam ayogajaṃ tamaḥ  &
+āsitum+samayas+eṣa na+āvayos+moham+ittham+avalambitum+na ca  &  
+utsahasva nanu hṛṣyatām+cirādiṣu+adhīnam+adhunā+abhikāṅkṣitam  // Rc_2.3 //  
   
-rājatū7dyamadivākarodayasmeram āśu mukhapaṅkajaṃ tava  // Rc_2.2 //  
-
+kevalam+phalabhujas+na tasya nas+taskarasya nilaye+asti niścayaḥ  &  
+abhyupaitu ravinandanas+kṣaṇāt+andhakāram+idam+api+apaiṣyati  // Rc_2.4 //  
   
-āsituṃ samaya eṣa nā8vayor moham ittham avalambituṃ na ca  &
+aurasān+api sutān+arīn+iva ghnanti kāraṇavaśāt+mahībhujaḥ  &  
+nigrahāt+anujavidviṣas+kapes+kim+pṛthagjanas+iva+anutapyase  // Rc_2.5 //  
   
-utsahasva nanu hṛṣyatāṃ cirādiṣv adhīnam adhunā9bhikāṅkṣitam  // Rc_2.3 //  
-
+krīḍatām+mṛgavaneṣu dhanvinām+jīvakoṭikadane+api kā kṣatiḥ  &  
+khidyase kim+aniśam+prayojanāt+ekavānaravadhas+kutas+kṛtaḥ  // Rc_2.6 //  
   
-kevalaṃ phalabhujo na tasya nas taskarasya nilaye 'sti niścayaḥ  &
+tasya ca pravayasas+jaṭāyuṣas+svargiṇas+kim+adhunā+anuśocyate  &  
+yena jarjarakalevaravyayāt+krītam+indukiraṇojjvalam+yaśaḥ  // Rc_2.7 //  
   
-abhyupaitu ravinandanaḥ kṣaṇād andhakāram idam apy apaiṣyati  // Rc_2.4 //  
-
+etat+ekam+ativāhyatām+ahas+śvas+na sa plavagarāṭ+pratīkṣyate  &  
+tat+prasīda paritas+vicīyatā+ātmanā+eva sanagārṇavā+avaniḥ  // Rc_2.8 //  
   
-aurasān api sutān arīn iva ghnanti kāraṇavaśān mahībhujaḥ  &
+tat+kabandhaśabarīhanūmatām+āvayos+ajani saṅgatam+yathā  &  
+iṣṭaśaṃsi vanaśailapānthayos+kim+tathā+anyat+api na+āpatet+punaḥ  // Rc_2.9 //  
   
-nigrahād anujavidviṣaḥ kapeḥ kiṃ pṛthagjana ivā7nutapyase  // Rc_2.5 //  
-
+yatra yatra tava siddhis+agratas+kas+kariṣyati na te samīhitam  &  
+ujjvale kṛtavidām+na kevalam+tena vartmani durātmanā sthitam  // Rc_2.10 //  
   
-krīḍatāṃ mṛgavaneṣu dhanvināṃ jīvakoṭikadane 'pi kā kṣatiḥ  &
+sambhavati+abhimaras+pure+athavā tasya tīvram+ayaśas+kim+ucyate  &  
+duḥkham+utkhanati kaṇṭakāvalīs+aṅgasandhiṣu navas+kila+īśvaraḥ  // Rc_2.11 //  
   
-khidyase kim aniśaṃ prayojanād ekavānaravadhaḥ kutaḥ kṛtaḥ  // Rc_2.6 //  
-
+samprati prathamam+ārya gṛhyatām+tatpravṛttim+upalabdhum+udyamaḥ  &  
+marṣaṇīyaparilambadūṣaṇas+sas+adhunā+api+akapaṭas+ghaṭate cet  // Rc_2.12 //  
   
-tasya ca pravayaso jaṭāyuṣaḥ svargiṇaḥ kim adhunā9nuśocyate  &
+muñca moham+avatīryatām+itas+sevyatām+iyam+anāvilā nadī  &  
+eṣa gacchati javāt+japāruṇas+vāruṇīm+aruṇasārathis+diśam  // Rc_2.13 //  
   
-yena jarjarakalevaravyayāt krītam indukiraṇojjvalaṃ yaśaḥ  // Rc_2.7 //  
-
+unmimīla raghunandanas+cirāt+tat+niśamya vacanam+camatkṛtaḥ  &  
+api+ayogavidhurās+na śerate saṃmukhīnavidhayas+tathāvidhāḥ  // Rc_2.14 //  
   
-etad ekam ativāhyatām ahaḥ śvo na sa plavagarāṭpratīkṣyate  &
+muktamoham+avalokya lakṣmaṇas+tam+mṛgāṅkam+iva meghanirgatam  &  
+ādade+atha śaśikāntabhūdharasyandabinduśiśirām+sarasvatīm  // Rc_2.15 //  
   
-tat prasīda parito vicīyatā0tmanai9va sanagārṇavā9vaniḥ  // Rc_2.8 //  
-
+eṣa paśya patitas+nabhastalāt+astaśailagahaneṣu naśyati  &  
+sandhyayā caramadikpragalbhayā bhagnasāndrakarapañjaras+khagaḥ  // Rc_2.16 //  
   
-tat kabandhaśabarīhanūmatām āvayor ajani saṅgataṃ yathā  &
+śakyam+arcitum+anuccapāṇibhis+pāśapāṇinagarīnivāsibhiḥ  &  
+sānurodhas+iva dūrabandhuras+bandhujīvakusumāruṇas+raviḥ  // Rc_2.17 //  
   
-iṣṭaśaṃsi vanaśailapānthayoḥ kiṃ tathā9nyad api nā8patet punaḥ  // Rc_2.9 //  
-
+eṣa muktakarapāṭavas+ravis+nāṭayati+anuguṇatvam+appatau  &  
+āpadi prakṛtis+ujjhitā varam+na+āśrayasya visadṛk+viceṣṭitam  // Rc_2.18 //  
   
-yatra yatra tava siddhir agrataḥ kaḥ kariṣyati na te samīhitam  &
+bimbamūlarucirās+raves+amī recayanti gaganam+gabhastayaḥ  &  
+pūrayanti ca mahīm+mahīruhām+āyatās+pratiśarīrayaṣṭayaḥ  // Rc_2.19 //  
   
-ujjvale kṛtavidāṃ na kevalaṃ tena vartmani durātmanā sthitam  // Rc_2.10 //  
-
+agratas+śikharaśākhisaṃhates+chāyayā+upacitayā+apasāritaḥ  &  
+pṛṣṭhatas+atinibhṛtam+mahībhṛtām+ātapas+kaṭakam+āśu na+ujjhati  // Rc_2.20 //  
   
-sambhavaty abhimaraḥ pure 'thavā tasya tīvram ayaśaḥ kim ucyate  &
+svīkaroti śanakais+anokahacchāyam+adriśikharasthalīs+api  &  
+hīyate nijavapuṣi+api kramāt+ātapasya mamatā tapasvinaḥ  // Rc_2.21 //  
   
-duḥkham utkhanati kaṇṭakāvalīr aṅgasandhiṣu navaḥ kile8śvaraḥ  // Rc_2.11 //  
-
+appates+diśi viceṣṭate ravis+vyākulās+śakunayas+svananti+amī  &  
+dhvāntadṛṣṭiviṣadarśanāt+dine durnivāranidhane nimīlati  // Rc_2.22 //  
   
-samprati prathamam ārya gṛhyatāṃ tatpravṛttim upalabdhum udyamaḥ  &
+kīryate kṛtaravais+khagavrajais+eṣa tallataṭacaityapādapaḥ  &  
+sāyam+adhvanikaṭe nirargalas+sajjanālayas+iva pravāsibhiḥ  // Rc_2.23 //  
   
-marṣaṇīyaparilambadūṣaṇaḥ so 'dhunā9py akapaṭo ghaṭate cet  // Rc_2.12 //  
-
+yānti khinnajanasevyatām+amī saumya sormiśucivālukācayāḥ  &  
+prāntasuptakalahaṃsapaṅktayas+svairanīramarutas+nadītaṭāḥ  // Rc_2.24 //  
   
-muñca moham avatīryatām itaḥ sevyatām iyam anāvilā nadī  &
+dhik+taṭāntavasatīn+sitacchadān+paśyatas+kamalaṣaṇḍavaiśasam  &  
+staumi tam+divasam+ārya kevalam+yas+astam+eti samam+abjabandhunā  // Rc_2.25 //  
   
-eṣa gacchati javāj japāruṇo vāruṇīm aruṇasārathir diśam  // Rc_2.13 //  
-
+dantamūlanihitaikasallakīpallavas+alasavilokitānugaḥ  &  
+eṣa muktagirikandaras+śanais+vāri vāraṇapatis+pratiṣṭhate  // Rc_2.26 //  
   
-unmimīla raghunandanaś cirāt tan niśamya vacanaṃ camatkṛtaḥ  &
+śīlayanti kariṇas+svavāsitāvāri sairibhasamūharecitam  &  
+mālatīvanavikāsavāsitās+vānti palvalataṭāntavāyavaḥ  // Rc_2.27 //  
   
-apy ayogavidhurā na śerate saṃmukhīnavidhayas tathāvidhāḥ  // Rc_2.14 //  
-
+saṃtyajanti masṛṇam+saraḥsarittallamūlasalilāni sairibhāḥ  &  
+sambhajanti sahasā bhayadrutais+īkṣitās+kurarasārasairibhāḥ  // Rc_2.28 //  
   
-muktamoham avalokya lakṣmaṇas taṃ mṛgāṅkam iva meghanirgatam  &
+saṃmukhīnaghanapatrabandhanāt+paśya paṅkajavanāt+anāratam  &  
+pītakośamakarandasaṃcayās+saṃcaranti madhupās+kumudvatīm  // Rc_2.29 //  
   
-ādade 'tha śaśikāntabhūdharasyandabinduśiśirāṃ sarasvatīm  // Rc_2.15 //  
-
+na+upanītamukhamudram+ambujam+muktamudram+atha na+eva kairavam  &  
+etadīkṣitaparasparam+punas+patriyugmam+apanidravaiśasam  // Rc_2.30 //  
   
-eṣa paśya patito nabhastalād astaśailagahaneṣu naśyati  &
+rodhasas+pulinam+abjinīm+tatas+tām+atītya bhajate kumudvatīm  &  
+tatra taptas+iva gāhate payas+sāyam+ārdravirahas+vihaṅgamaḥ  // Rc_2.31 //  
   
-sandhyayā caramadikpragalbhayā bhagnasāndrakarapañjaraḥ khagaḥ  // Rc_2.16 //  
-
+svīkṛtam+na nalinais+nimīlitam+na sphuṭam+kumudakuḍmalasmitam  &  
+etadīkṣitaparasparam+param+mūḍham+ambhasi vihaṅgamadvayam  // Rc_2.32 //  
   
-śakyam arcitum anuccapāṇibhiḥ pāśapāṇinagarīnivāsibhiḥ  &
+jarjaram+tyajati vāsaraplavam+na prasārayati mantharān+karān  &  
+eti+adṛṣṭam+avalambya kevalam+vyomavārinidhiśeṣam+aṃśumān  // Rc_2.33 //  
   
-sānurodha iva dūrabandhuro bandhujīvakusumāruṇo raviḥ  // Rc_2.17 //  
-
+śrāvitāgamam+iva dvijāravais+dhvāntam+oṃ+iti jagat+pratīcchati  &  
+trātum+ūṣmarahitas+kṣamas+adhunā na svamaṇḍalam+api prabhākaraḥ  // Rc_2.34 //  
   
-eṣa muktakarapāṭavo ravir nāṭayaty anuguṇatvam appatau  &
+dṛśyatām+udayati sma yādṛśas+tādṛśas+taraṇis+astam+īyate  &  
+utsavavyasanayos+prabhus+vidhis+vikriyāsu mahatām+anīśvaraḥ  // Rc_2.35 //  
   
-āpadi prakṛtir ujjhitā varaṃ nā8śrayasya visadṛg viceṣṭitam  // Rc_2.18 //  
-
-  
-bimbamūlarucirā raver amī recayanti gaganaṃ gabhastayaḥ  &
-  
-pūrayanti ca mahīṃ mahīruhām āyatāḥ pratiśarīrayaṣṭayaḥ  // Rc_2.19 //  
-
-  
-agrataḥ śikharaśākhisaṃhateś chāyayo9pacitayā9pasāritaḥ  &
-  
-pṛṣṭhato 'tinibhṛtaṃ mahībhṛtām ātapaḥ kaṭakam āśu no7jjhati  // Rc_2.20 //  
-
-  
-svīkaroti śanakair anokahacchāyam adriśikharasthalīr api  &
-  
-hīyate nijavapuṣy api kramād ātapasya mamatā tapasvinaḥ  // Rc_2.21 //  
-
-  
-appater diśi viceṣṭate ravir vyākulāḥ śakunayaḥ svananty amī  &
-  
-dhvāntadṛṣṭiviṣadarśanād dine durnivāranidhane nimīlati  // Rc_2.22 //  
-
-  
-kīryate kṛtaravaiḥ khagavrajair eṣa tallataṭacaityapādapaḥ  &
-  
-sāyam adhvanikaṭe nirargalaḥ sajjanālaya iva pravāsibhiḥ  // Rc_2.23 //  
-
-  
-yānti khinnajanasevyatām amī saumya sormiśucivālukācayāḥ  &
-  
-prāntasuptakalahaṃsapaṅktayaḥ svairanīramaruto nadītaṭāḥ  // Rc_2.24 //  
-
-  
-dhik taṭāntavasatīn sitacchadān paśyataḥ kamalaṣaṇḍavaiśasam  &
-  
-staumi taṃ divasam ārya kevalaṃ yo 'stam eti samam abjabandhunā  // Rc_2.25 //  
-
-  
-dantamūlanihitaikasallakīpallavo 'lasavilokitānugaḥ  &
-  
-eṣa muktagirikandaraḥ śanair vāri vāraṇapatiḥ pratiṣṭhate  // Rc_2.26 //  
-
-  
-śīlayanti kariṇaḥ svavāsitāvāri sairibhasamūharecitam  &
-  
-mālatīvanavikāsavāsitā vānti palvalataṭāntavāyavaḥ  // Rc_2.27 //  
-
-  
-saṃtyajanti masṛṇaṃ saraḥsarittallamūlasalilāni sairibhāḥ  &
-  
-sambhajanti sahasā bhayadrutair īkṣitāḥ kurarasārasairibhāḥ  // Rc_2.28 //  
-
-  
-saṃmukhīnaghanapatrabandhanāt paśya paṅkajavanād anāratam  &
-  
-pītakośamakarandasaṃcayāḥ saṃcaranti madhupāḥ kumudvatīm  // Rc_2.29 //  
-
-  
-no7panītamukhamudram ambujaṃ muktamudram atha nai7va kairavam  &
-  
-etadīkṣitaparasparaṃ punaḥ patriyugmam apanidravaiśasam  // Rc_2.30 //  
-
-  
-rodhasaḥ pulinam abjinīṃ tatas tām atītya bhajate kumudvatīm  &
-  
-tatra tapta iva gāhate payaḥ sāyam ārdraviraho vihaṅgamaḥ  // Rc_2.31 //  
-
-  
-svīkṛtaṃ na nalinair nimīlitaṃ na sphuṭaṃ kumudakuḍmalasmitam  &
-  
-etadīkṣitaparasparaṃ paraṃ mūḍham ambhasi vihaṅgamadvayam  // Rc_2.32 //  
-
-  
-jarjaraṃ tyajati vāsaraplavaṃ na prasārayati mantharān karān  &
-  
-ety adṛṣṭam avalambya kevalaṃ vyomavārinidhiśeṣam aṃśumān  // Rc_2.33 //  
-
-  
-śrāvitāgamam iva dvijāravair dhvāntam oṃ iti jagat pratīcchati  &
-  
-trātum ūṣmarahitaḥ kṣamo 'dhunā na svamaṇḍalam api prabhākaraḥ  // Rc_2.34 //  
-
-  
-dṛśyatām udayati sma yādṛśas tādṛśas taraṇir astam īyate  &
-  
-utsavavyasanayoḥ prabhur vidhir vikriyāsu mahatām anīśvaraḥ  // Rc_2.35 //  
-
-  
-sphītam abjakulam īkṣyatām itas tallam ullasitahaṃsasārasam  &
-  
+sphītam+abjakulam+īkṣyatām+itas+tallam+ullasitahaṃsasārasam  &  
 niścalācchaparimaṇḍalodakaprāntamantharamṛṇālakaṇṭakam  // Rc_2.36 //  
-
   
-śīlayanty acalamekhalāsv amī śītalāsu ruravo nirudyamāḥ  &
+śīlayanti+acalamekhalāsu+amī śītalāsu ruravas+nirudyamāḥ  &  
+pūrvaśaṣpakabalānuvartinas+stokacañcalamukhās+sukhāsikām  // Rc_2.37 //  
+dīdhitīs+paricitās+parityajati+abjinīs+api ca na+anurudhyate  &  
+sandhyayā varuṇadigvadhūm+anuprāpitas+kam+api rāgam+aṃśumān  // Rc_2.38 //  
   
-pūrvaśaṣpakabalānuvartinaḥ stokacañcalamukhāḥ sukhāsikām  // Rc_2.37 //  
-
+dyaus+ravīndurahitā+api nirmalā bhūs+avṛkṣasalilā+api śītalā  &  
+antarālam+avalambya śobhate vāsarakṣaṇadayos+kṣaṇam+jagat  // Rc_2.39 //  
   
-dīdhitīḥ paricitāḥ parityajaty abjinīr api ca nā7nurudhyate  &
+nirjharas+ayam+iyam+āpagā saras+palvalam+ca vimalam+vibhāti+adaḥ  &  
+yatra cittam+iha paryupāsyatām+tatra tatrabhavatī pitṛprasūḥ  // Rc_2.40 //  
   
-sandhyayā varuṇadigvadhūm anuprāpitaḥ kam api rāgam aṃśumān  // Rc_2.38 //  
-
+iti+ubhau vyavahitāntaravyathau tau samāpya samayocitam+vidhim  &  
+satkṛtim+dadhatus+ānane mithas+prārthanām+kim+api rāmalakṣmaṇau  // Rc_2.41 //  
   
-dyaū ravīndurahitā9pi nirmalā bhūr avṛkṣasalilā9pi śītalā  &
+yatra vāti na kumudvatīmarut+kaumudī bata na yatra vīkṣyate  &  
+tam+nirūpitasamantam+añjasā bhejatus+parisaram+raghūdvahau  // Rc_2.42 //  
   
-antarālam avalambya śobhate vāsarakṣaṇadayoḥ kṣaṇaṃ jagat  // Rc_2.39 //  
-
+dṛṣṭipāṇitalappātaśodhitām+uddhṛtasthagitakaṇṭakāvaṭām  &  
+astṛṇāt+navatṛṇena medinām+rāmabhadraśayanāya lakṣmaṇaḥ  // Rc_2.43 //  
   
-nirjharo 'yam iyam āpagā saraḥ palvalaṃ ca vimalaṃ vibhāty adaḥ  &
+nirṇineja sahasā suṣupsatas+pādapadmayugam+agrajanmanaḥ  &  
+svāṃśukoddhṛtajalam+karābjayos+kauśalāt+ca samavāhayat+punaḥ  // Rc_2.44 //  
   
-yatra cittam iha paryupāsyatāṃ tatra tatrabhavatī pitṛprasūḥ  // Rc_2.40 //  
-
+adhvajarjaritarājalakṣaṇam+lakṣmaṇas+caraṇam+agrajanmanaḥ  &  
+āmamarśa ciram+aśru vartayan+kevalopakaraṇena pāṇinā  // Rc_2.45 //  
   
-ity ubhau vyavahitāntaravyathau tau samāpya samayocitaṃ vidhim  &
+svairam+agrakarajais+vivṛtya ca vyākulām+samanayat+jaṭāṭavīm  &  
+aṅgadeśam+anayat+vidhūya ca srastarātisṛtam+añcalam+tvacaḥ  // Rc_2.46 //  
   
-satkṛtiṃ dadhatur ānane mithaḥ prārthanāṃ kim api rāmalakṣmaṇau  // Rc_2.41 //  
-
+pārśvayos+upadadhe maheṣudhī ādade śirasi pūjitam+dhanuḥ  &  
+unmamārja dhutasaṃhṛtena ca svāñcalena punaruktam+āstaram  // Rc_2.47 //  
   
-yatra vāti na kumudvatīmarut kaumudī bata na yatra vīkṣyate  &
+iti+ajasram+anujātasevayā jīyamānavanavāsayātanaḥ  &  
+svaptukāmas+iva sālasendriyas+saṃviveśa raghunandanas+kṣaṇam  // Rc_2.48 //  
   
-taṃ nirūpitasamantam añjasā bhejatuḥ parisaraṃ raghūdvahau  // Rc_2.42 //  
-
+mīlitonmiṣitalocanas+śanais+jāgarūkam+avalokya sas+anujam  &  
+uccavāmakarapaṅkajodaranyastamaulis+avadat+mitam+vacaḥ  // Rc_2.49 //  
   
-dṛṣṭipāṇitalappātaśodhitām uddhṛtasthagitakaṇṭakāvaṭām  &
+gaccha vatsa śayanīyam+ātmanas+kliśyase kṛśataras+kiyat+ciram  &  
+nidrayā viśadatām+vraja kṣaṇam+na kṣamas+pratiniśīthajāgaraḥ  // Rc_2.50 //  
   
-astṛṇān navatṛṇena medināṃ rāmabhadraśayanāya lakṣmaṇaḥ  // Rc_2.43 //
+prātar+asti bahu kṛtyam+āvayos+bhrātar+ātmani kim+asi+atatparaḥ  &  
+cintyatām+uṣasi tasya saṃgatis+śītalasya kapicakravartinaḥ  // Rc_2.51 //  
   
-nirṇineja sahasā suṣupsataḥ pādapadmayugam agrajanmanaḥ  &
+āspadādhigamagarvitas+astu vā+api+astu vā+anuditabhūtivikriyaḥ  &  
+āvayos+samayabaddhayos+punas+niścayārtham+adhigamyas+eva saḥ  // Rc_2.52 //  
   
-svāṃśukoddhṛtajalaṃ karābjayoḥ kauśalāc ca samavāhayat punaḥ  // Rc_2.44 //  
-
+tat+vibhātu rajanī sukhena te yāsyatas+plavagarājamandiram  &  
+pakṣayos+yat+anurūpamuktayos+tat+tadā+eva ca samarthayiṣyate  // Rc_2.53 //  
   
-adhvajarjaritarājalakṣaṇaṃ lakṣmaṇaś caraṇam agrajanmanaḥ  &
+ūcivān+iti babhūva nirvacās+kuḍmalīkṛtavilocanotpalaḥ  &  
+adhyaśeta caraṇāmbujāntikam+tasya joṣam+anaghas+jaghanyajaḥ  // Rc_2.54 //  
   
-āmamarśa ciram aśru vartayan kevalopakaraṇena pāṇinā  // Rc_2.45 //  
-
+tatra tatra ca śayānayos+cirāt+vīrayos+vigatasādhvasās+iva  &  
+uddhatais+dadus+ulūkahuṃkṛtais+andhakārajayaghoṣaṇām+drumāḥ  // Rc_2.55 //  
   
-svairam agrakarajair vivṛtya ca vyākulāṃ samanayaj jaṭāṭavīm  &
+vyātatoḍudaśanā+api mucyase na tvam+arkacirasaṃstutā+adhunā  &  
+iti+ariṣṭaripukūjitais+tamas+dyām+bruvāṇam+iva dūram+udyayau  // Rc_2.56 //  
   
-aṅgadeśam anayad vidhūya ca srastarātisṛtam añcalaṃ tvacaḥ  // Rc_2.46 //  
-
+kevalam+śakunayas+na nīḍagās+śākhinas+api śayitās+samantataḥ  &  
+jajñire timirataskarāvalīlupyamānavibhavās+ca bhūbhṛtaḥ  // Rc_2.57 //  
   
-pārśvayor upadadhe maheṣudhī ādade śirasi pūjitaṃ dhanuḥ  &
+na sthalī na pulinam+na sindhavas+na+acalās+na taravas+cakāśire  &  
+dūṣitadvitayavādam+udbabhau+ekam+eva timiram+vibhūtimat  // Rc_2.58 //  
   
-unmamārja dhutasaṃhṛtena ca svāñcalena punaruktam āstaram  // Rc_2.47 //  
-
+tatra mugdhapṛṣatas+tamoghane pārśvagām+api mṛgīm+ahārayat  &  
+prāpa kokayuvatis+yadṛcchayā patyus+ādhitaralasya saṃgamam  // Rc_2.59 //  
   
-ity ajasram anujātasevayā jīyamānavanavāsayātanaḥ  &
+vṛddham+aṅkam+anayat+śiśubhramāt+cumbati sma dayitā+iti yūthapam  &  
+svīyam+api+uditasaṃśayas+śanais+aṅgam+aṅgam+amṛśat+valīmukhaḥ  // Rc_2.60 //  
   
-svaptukāma iva sālasendriyaḥ saṃviveśa raghunandanaḥ kṣaṇam  // Rc_2.48 //  
-
+sarvatas+parigatā+iva parvatais+ācitā+iva tarubhis+nirantaram  &  
+āplutā+iva salilais+itas+tatas+śakyate sma cirasaṃstutā+api bhūḥ  // Rc_2.61 //  
   
-mīlitonmiṣitalocanaḥ śanair jāgarūkam avalokya so 'nujam  &
+dikṣu dakṣam+avanau+anākulam+khe+atikhelam+aṭavīṣu bhīṣaṇam  &  
+mattam+adriṣu darīṣu durjayam+prādurāsa viṣame samam+tamaḥ  // Rc_2.62 //  
   
-uccavāmakarapaṅkajodaranyastamaulir avadan mitaṃ vacaḥ  // Rc_2.49 //  
-
+bhejus+aikyam+iva tulyavaiśasās+sāyam+eva malinais+mukhais+diśaḥ  &  
+gṛhyamāṇaśikharā tamaścayais+dyaus+papāta vasudhāsakhītale  // Rc_2.63 //  
   
-gaccha vatsa śayanīyam ātmanaḥ kliśyase kṛśataraḥ kiyac ciram  &
+pratyabhāt+na puratas+na pṛṣṭhatas+pārśvayos+ca viśadam+na kiṃcana  &  
+vyānaśe bhuvanam+añjanācalaprasthapaṅktinibiḍam+niśātamaḥ  // Rc_2.64 //  
   
-nidrayā viśadatāṃ vraja kṣaṇaṃ na kṣamaḥ pratiniśīthajāgaraḥ  // Rc_2.50 //  
-
+na dvitīyam+anubhūyate sma vastu+antikāt+api tamas+tiraskṛtam  &  
+kevalātmaviṣayam+tadā+abhavat+jñānam+ulbaparivāsinām+iva  // Rc_2.65 //  
   
-prātar asti bahu kṛtyam āvayor bhrātar ātmani kim asy atatparaḥ  &
+dūramiśritaparasparāṅgakais+api+ayogajanitajvarais+iva  &  
+durlabhānanavilokanāmṛtais+dūyate sma mithunais+mithas+bhṛśam  // Rc_2.66 //  
   
-cintyatām uṣasi tasya saṃgatiḥ śītalasya kapicakravartinaḥ  // Rc_2.51 //  
-
+sas+atiśītahimaśīkaras+marut+nūnam+ulmukacayān+avākirat  &  
+yat+cukūja bhṛśam+ārtikāhalam+cakravākayuvatis+tapasvinī  // Rc_2.67 //  
   
-āspadādhigamagarvito 'stu vā9py astu vā9nuditabhūtivikriyaḥ  &
+uccacāra na vanasthalīṣu+asau marmaras+patitapatranisvanaḥ  &  
+na+avirāsa karikṛṣṭasallakībhaṅgayonis+asakṛt+caṭatkṛtiḥ  // Rc_2.68 //  
   
-āvayoḥ samayabaddhayoḥ puno niścayārtham adhigamya eva saḥ  // Rc_2.52 //  
-
+tasthus+āsthitamanuṣyamūrtayas+yāmikās+iva vidūratas+adrayaḥ  &  
+prahvabālaviṭapāgrapāṇayas+tau parītya taravas+siṣevire  // Rc_2.69 //  
   
-tad vibhātu rajanī sukhena te yāsyataḥ plavagarājamandiram  &
+drāk+nidāgham+anudadrajas+adhunāt+viślathām+bṛhatikām+asārayat  &  
+pratyapadyata vanānilas+tayos+ekasannihitayāmikavratam  // Rc_2.70 //  
   
-pakṣayor yad anurūpamuktayos tat tadai9va ca samarthayiṣyate  // Rc_2.53 //  
-
+sānujasya tamasi pramīlatas+tasya bhāvimamatāhṛtās+iva  &  
+ujjvalāyataviṣāṇasūcitās+cakrire parikaram+mataṅgajāḥ  // Rc_2.71 //  
   
-ūcivān iti babhūva nirvacāḥ kuḍmalīkṛtavilocanotpalaḥ  &
+dīpakṛtyam+akarot+upāntike niṣprakamparuciroṣadhīgaṇaḥ  &  
+tenus+adrivanamadhyasuptayos+maṅgalāni vanadevatās+tayoḥ  // Rc_2.72 //  
   
-adhyaśeta caraṇāmbujāntikaṃ tasya joṣam anagho jaghanyajaḥ  // Rc_2.54 //  
-
+ehi jānaki bhujāntaram+kharas+prastaras+ayam+asi kim+parāṅmukhī  &  
+matkapolam+upadhāya supyatām+aprasaktis+iyatī kadā nu te  // Rc_2.73 //  
   
-tatra tatra ca śayānayoś cirād vīrayor vigatasādhvasā iva  &
+kṣiptam+aṃśukam+idam+mayā+urasi prīyatām+tava nirānandas+stanaḥ  &  
+nīvinodini kare kuru kṣamām+āyatākṣi nudasi+iva kim+punaḥ  // Rc_2.74 //  
   
-uddhatair dadur ulūkahuṃkṛtair andhakārajayaghoṣaṇāṃ drumāḥ  // Rc_2.55 //  
-
+suptavākyam+iti maithilīpates+maithilīvirahadūyamānayā  &  
+diksakhīnivahavāritāsrayā śuśruve vasudhayā+upasannayā  // Rc_2.75 //  
   
-vyātatoḍudaśanā9pi mucyase na tvam arkacirasaṃstutā9dhunā  &
+mat+bibheti virahī raghūdvahas+mat+vinā ca na jagat+pramodate  &  
+tat+karomi kim+iti+iva cintayan+na+ujjagāma sahasā niśākaraḥ  // Rc_2.76 //  
   
-ity ariṣṭaripukūjitais tamo dyāṃ bruvāṇam iva dūram udyayau  // Rc_2.56 //  
-
+na sma bhāti kim+api sphuṭam+puras+kiṃcit+īritakareṇa kevalam  &  
+dṛśyate sma divi dūravartinā tarjyamānam+iva kenacit+tamaḥ  // Rc_2.77 //  
   
-kevalaṃ śakunayo na nīḍagāḥ śākhino 'pi śayitāḥ samantataḥ  &
+jāyate sma ghanamālatīguṇaśreṇigarbhakabarīmanoharam  &  
+meghavāhanadigaṅganāmukhe mugdhacandrakarakarburam+tamaḥ  // Rc_2.78 //  
   
-jajñire timirataskarāvalīlupyamānavibhavāś ca bhūbhṛtaḥ  // Rc_2.57 //  
-
+sānurāgam+upagūḍham+agrimais+aṃśubhis+śaśabhṛtas+davīyasaḥ  &  
+unnanāma namucidviṣas+diśi srastastaṃtamasabhāram+ambaram  // Rc_2.79 //  
   
-na sthalī na pulinaṃ na sindhavo nā7calā na taravaś cakāśire  &
+ujjvalāgrakiraṇapraveśakaproktasatvarasamāgamas+api san  &  
+prekṣyate sma janitotsukas+cirāt+vyomaraṅgamukhasaṃmukhas+śaśī  // Rc_2.80 //  
   
-dūṣitadvitayavādam udbabhāv ekam eva timiraṃ vibhūtimat  // Rc_2.58 //  
-
+audayena śaśinas+gabhastinā bhinnaśeṣatimiram+vyarājata  &  
+mṛjyamānam+iva śakradiṅmukham+kuṅkumena mṛganābhoyogin  // Rc_2.81 //  
   
-tatra mugdhapṛṣatas tamoghane pārśvagām api mṛgīm ahārayat  &
+tam+babhāra na vidhus+navodayam+kim+tu kuṅkumavilepanāruṇam  &  
+ekam+utsukavaśāt+payodharam+vyācakāra haridigvilāsinī  // Rc_2.82 //  
   
-prāpa kokayuvatir yadṛcchayā patyur ādhitaralasya saṃgamam  // Rc_2.59 //  
-
+āttajaitranijapuṣpadhanvanas+manmathasya bhuvanāni jeṣyataḥ  &  
+unnanāma puratas+śaśicchalāt+pūrṇarukmakalaśas+payonidheḥ  // Rc_2.83 //  
   
-vṛddham aṅkam anayac chiśubhramāc cumbati sma dayite9ti yūthapam  &
+dik+sarāgamukhasannidhāpitasphītacandracaṣakā śatakratoḥ  &  
+kṣībabhāvam+iva bibhratī babhau viślathācchatimirāṃśukoccayā  // Rc_2.84 //  
   
-svīyam apy uditasaṃśayaḥ śanair aṅgam aṅgam amṛśad valīmukhaḥ  // Rc_2.60 //  
-
+nandayan+bhuvanam+unmukham+cirāt+mandayan+smaraviruddham+udyamam  &  
+krandayan+virahiṇas+vihaṅgamān+sāndrayan+pramadam+indus+udyayau  // Rc_2.85 //  
   
-sarvataḥ parigate9va parvatair ācite9va tarubhir nirantaram  &
+locanālinivahaikapaṅkajam+cittahaṃsaśayanīyasaikatam  &  
+ujjagāma ratikelimandiram+yāminīyuvatijīvitam+śaśī  // Rc_2.86 //  
   
-āplute9va salilair itas tataḥ śakyate sma cirasaṃstutā9pi bhūḥ  // Rc_2.61 //  
-
+āliliṅga rajanīm+ahāsayat+bidyamānamukulām+kumudvatīm  &  
+agrahīt+uḍuvadhūkarān+karais+dyām+prasādam+anayat+samam+śasśī  // Rc_2.87 //  
   
-dikṣu dakṣam avanāv anākulaṃ khe 'tikhelam aṭavīṣu bhīṣaṇam  &
+ādade viyat+alāñchanavratam+lāñchanam+nijam+agūhat+aṃśubhiḥ  &  
+prāhiṇot+apasṛtāsu kaumudīm+dikṣu dakṣatanayāparigrahī  // Rc_2.88 //  
   
-mattam adriṣu darīṣu durjayaṃ prādurāsa viṣame samaṃ tamaḥ  // Rc_2.62 //  
-
+vyāpya dūram+atha nirmalam+viyat+vītapaṅkam+iva paṅkajākaram  &  
+rejus+agrakiraṇās+kṣapāpates+pūtakokanadakandakomalāḥ  // Rc_2.89 //  
   
-bhejur aikyam iva tulyavaiśasāḥ sāyam eva malinair mukhair diśaḥ  &
+khe kakupsu bhuvi ca kṣapāpates+petus+ūḍhanicayās+marīcayaḥ  &  
+yatra tatra kuharāṇi kānicit+kampamānam+aviśat+niśātamaḥ  // Rc_2.90 //  
   
-gṛhyamāṇaśikharā tamaścayair dyauḥ papāta vasudhāsakhītale  // Rc_2.63 //  
-
+kṣiptam+indurucibhis+vyalambata tryambakasya śikhinas+ca diṅmukhe  &  
+tatra nunnam+anubandhaniḥsaham+kāndiśīkam+iva niṣṭhitam+tamaḥ  // Rc_2.91 //  
   
-pratyabhān na purato na pṛṣṭhataḥ pārśvayoś ca viśadaṃ na kiṃcana  &
+kandarāṇi ca mahāmahībhṛtām+koṭarāṇi ca jaranmahīruhām  &  
+adhyuvāsa kamalodarāṇi ca dhvāntam+adhvagavadhūmukhāni ca  // Rc_2.92 //  
   
-vyānaśe bhuvanam añjanācalaprasthapaṅktinibiḍaṃ niśātamaḥ  // Rc_2.64 //  
-
+svīcakāra karakoṭilālanālambitoḍutatimekhalām+divam  &  
+rāgabhaṅgam+atisaṃstavāt+gatām+devarājadiśam+indus+atyajat  // Rc_2.93 //  
   
-na dvitīyam anubhūyate sma vastv antikād api tamas tiraskṛtam  &
+ātatāna gaganāṅgaṇādhikais+medinīm+amṛtavarṣibhis+vidhuḥ  &  
+viprayuktajanadhūmaketubhis+ketakāgraśucibhis+marīcibhiḥ  // Rc_2.94 //  
   
-kevalātmaviṣayaṃ tadā9bhavaj jñānam ulbaparivāsinām iva  // Rc_2.65 //  
-
+saṃkucadbhis+abhirāmatādhike sādhu candramasi puṣkarais+kṛtam  &  
+udyatā jayini kāminīmukhe tena sāhasam+anuṣṭhitam+punaḥ  // Rc_2.95 //  
   
-dūramiśritaparasparāṅgakair apy ayogajanitajvarair iva  &
+uccakhāna ruṣam+uccamaṇḍalas+khaṇḍanām+agamayat+viṣahyatām  &  
+mānapaṅkam+apanīya kāminīs+kāntahastam+anayat+niśāpatiḥ  // Rc_2.96 //  
   
-durlabhānanavilokanāmṛtair dūyate sma mithunair mitho bhṛśam  // Rc_2.66 //  
-
+vyaktavartmabilavāhinīvanagrāmagulmagahanādribhedayā  &  
+saumyatādhikaviśeṣayā+ajani jyotsnayā divasaniḥspṛhas+janaḥ  // Rc_2.97 //  
   
-so 'tiśītahimaśīkaro marun nūnam ulmukacayān avākirat  &
+pīyate sma kumudam+na locanais+candrikā tapati rohitacchadam  &  
+prādurāsa param+utpiban+alis+saurabham+niravalambam+ambuni  // Rc_2.98 //  
   
-yac cukūja bhṛśam ārtikāhalaṃ cakravākayuvatis tapasvinī  // Rc_2.67 //  
-
+ekikā+iva nijavṛndamadhyagā+api+uccukūja sabhayā sitacchadī  &  
+dantamūlam+asakṛt+ca saṃśayāt+āmamarśa kariṇas+kareṇukā  // Rc_2.99 //  
   
-uccacāra na vanasthalīṣv asau marmaraḥ patitapatranisvanaḥ  &
+ketakīṣu kadalīṣu vālukāsu+aśmasu sphuṭitakairave+ambhasi  &  
+lambhitā+iva laharīparamparām+ullalāsa śaśikāntivāhinī  // Rc_2.100 //  
   
-nā7virāsa karikṛṣṭasallakībhaṅgayonir asakṛc caṭatkṛtiḥ  // Rc_2.68 //  
-
+prāptasūkṣmaghanapallavāntarais+citritās+śaśikarais+itas+tataḥ  &  
+bibhrati sma tarumūlaśāyinas+śambarās+pṛṣatayūthavibhramam  // Rc_2.101 //  
   
-tasthur āsthitamanuṣyamūrtayo yāmikā iva vidūrato 'drayaḥ  &
+kṛcchralabdhanagaśṛṅgasandhayas+dattamanmathajayābhisandhayaḥ  &  
+maithilītaravadhūdurāsadam+rāghavāṅkam+aviśat+śaśitviṣaḥ  // Rc_2.102 //  
   
-prahvabālaviṭapāgrapāṇayas tau parītya taravaḥ siṣevire  // Rc_2.69 //  
-
+jāgarṣi kāśmari niṣīdasi kovidāra kutra+asi vatsa kṛtamāla tamāla paśya  &  
+kim+vartate raghupates+iti satvarābhis+uktam+drumaugham+avalokya vanasthalībhiḥ  // Rc_2.103 //  
   
-drāṅ nidāgham anudadrajo 'dhunād viślathāṃ bṛhatikām asārayat  &
+anyonyadūrapariṣaktaviśālasāndraśākhāśatais+tarubhis+antarayāṃbabhūve  &  
+udbhūtaghoravirahajvaralaṅghitasya candrātapas+sa khalu dāśarathes+apathyaḥ  // Rc_2.104 //  
   
-pratyapadyata vanānilas tayor ekasannihitayāmikavratam  // Rc_2.70 //  
-
+kumudavanam+ahetu tyaktanidram+tadā+āsīt+gaganam+uḍuvitānais+dhik+vṛthā+eva praphullam  &  
+ajani jagat+adhīśasya+agṛhītes+tadānīm+vidhus+api vidhavastrīyauvanodbhedaśocyaḥ  // Rc_2.105 //  
   
-sānujasya tamasi pramīlatas tasya bhāvimamatāhṛtā iva  &
+śvasiti janakaputrī satvaras+bhānuputras+kapipatis+upasannam+suprabhātam+tava+iti  &  
+jagus+iva raghunāthāya+ardhabuddhās+svanantas+madhuram+apararātre patriṇas+ke+api ke+api  // Rc_2.106 //  
   
-ujjvalāyataviṣāṇasūcitāś cakrire parikaraṃ mataṅgajāḥ  // Rc_2.71 //  
-
+iti+abhinandakṛtau rāmacarite mahākāvye sandhyātamaścandrodayavarṇanas+nāma dvitīyas+sargas+samāptaḥ  ||  
   
-dīpakṛtyam akarod upāntike niṣprakamparuciroṣadhīgaṇaḥ  &
+kavīnām+kim+dattais+nṛpapaśubhis+anyais+avasare param+pṛthvīpālas+kṣaṇam+api sa karṇas+vitaratu  &  
+anāttam+tattvajñais+api suvipulārthavyayabhiyā pratiṣṭhām+yena+uccais+jagati gamitam+rāmacaritam  //  
   
-tenur adrivanamadhyasuptayor maṅgalāni vanadevatās tayoḥ  // Rc_2.72 //  
-
+% NB \msC\ reads here (instead of this verse?)  
+pālānvayāmbujavanaikavirocanāya tasmai namas+astu yuvarājanareśvarāya  &  
+koṭipradānaghaṭitojjvalakīrtimūrtis+yena+amaratvapadavīm+gamitas+abhinandaḥ  //  
   
-ehi jānaki bhujāntaraṃ kharaḥ prastaro 'yam asi kiṃ parāṅmukhī  &
-  
-matkapolam upadhāya supyatām aprasaktir iyatī kadā nu te  // Rc_2.73 //  
-
-  
-kṣiptam aṃśukam idaṃ mayo9rasi prīyatāṃ tava nirānandaḥ stanaḥ  &
-  
-nīvinodini kare kuru kṣamām āyatākṣi nudasī7va kiṃ punaḥ  // Rc_2.74 //  
-
-  
-suptavākyam iti maithilīpater maithilīvirahadūyamānayā  &
-  
-diksakhīnivahavāritāsrayā śuśruve vasudhayo9pasannayā  // Rc_2.75 //  
-
-  
-mad bibheti virahī raghūdvaho mad vinā ca na jagat pramodate  &
-  
-tat karomi kim itī7va cintayan no7jjagāma sahasā niśākaraḥ  // Rc_2.76 //  
-
-  
-na sma bhāti kim api sphuṭaṃ puraḥ kiṃcid īritakareṇa kevalam  &
-  
-dṛśyate sma divi dūravartinā tarjyamānam iva kenacit tamaḥ  // Rc_2.77 //  
-
-  
-jāyate sma ghanamālatīguṇaśreṇigarbhakabarīmanoharam  &
-  
-meghavāhanadigaṅganāmukhe mugdhacandrakarakarburaṃ tamaḥ  // Rc_2.78 //  
-
-  
-sānurāgam upagūḍham agrimair aṃśubhiḥ śaśabhṛto davīyasaḥ  &
-  
-unnanāma namucidviṣo diśi srastastaṃtamasabhāram ambaram  // Rc_2.79 //  
-
-  
-ujjvalāgrakiraṇapraveśakaproktasatvarasamāgamo 'pi san  &
-  
-prekṣyate sma janitotsukaś cirād vyomaraṅgamukhasaṃmukhaḥ śaśī  // Rc_2.80 //  
-
-  
-audayena śaśino gabhastinā bhinnaśeṣatimiraṃ vyarājata  &
-  
-mṛjyamānam iva śakradiṅmukhaṃ kuṅkumena mṛganābhoyogin  // Rc_2.81 //  
-
-  
-taṃ babhāra na vidhur navodayaṃ kiṃ tu kuṅkumavilepanāruṇam  &
-  
-ekam utsukavaśāt payodharaṃ vyācakāra haridigvilāsinī  // Rc_2.82 //  
-
-  
-āttajaitranijapuṣpadhanvano manmathasya bhuvanāni jeṣyataḥ  &
-  
-unnanāma purataḥ śaśicchalāt pūrṇarukmakalaśaḥ payonidheḥ  // Rc_2.83 //  
-
-  
-diksarāgamukhasannidhāpitasphītacandracaṣakā śatakratoḥ  &
-  
-kṣībabhāvam iva bibhratī babhau viślathācchatimirāṃśukoccayā  // Rc_2.84 //  
-
-  
-nandayan bhuvanam unmukhaṃ cirān mandayan smaraviruddham udyamam  &
-  
-krandayan virahiṇo vihaṅgamān sāndrayan pramadam indur udyayau  // Rc_2.85 //  
-
-  
-locanālinivahaikapaṅkajaṃ cittahaṃsaśayanīyasaikatam  &
-  
-ujjagāma ratikelimandiraṃ yāminīyuvatijīvitaṃ śaśī  // Rc_2.86 //  
-
-  
-āliliṅga rajanīm ahāsayad bidyamānamukulāṃ kumudvatīm  &
-  
-agrahīd uḍuvadhūkarān karair dyāṃ prasādam anayat samaṃ śasśī  // Rc_2.87 //  
-
-  
-ādade viyad alāñchanavrataṃ lāñchanaṃ nijam agūhad aṃśubhiḥ  &
-  
-prāhiṇod apasṛtāsu kaumudīṃ dikṣu dakṣatanayāparigrahī  // Rc_2.88 //  
-
-  
-vyāpya dūram atha nirmalaṃ viyad vītapaṅkam iva paṅkajākaram  &
-  
-rejur agrakiraṇāḥ kṣapāpateḥ pūtakokanadakandakomalāḥ  // Rc_2.89 //  
-
-  
-khe kakupsu bhuvi ca kṣapāpateḥ petur ūḍhanicayā marīcayaḥ  &
-  
-yatra tatra kuharāṇi kānicit kampamānam aviśan niśātamaḥ  // Rc_2.90 //  
-
-  
-kṣiptam indurucibhir vyalambata tryambakasya śikhinaś ca diṅmukhe  &
-  
-tatra nunnam anubandhaniḥsahaṃ kāndiśīkam iva niṣṭhitaṃ tamaḥ  // Rc_2.91 //  
-
-  
-kandarāṇi ca mahāmahībhṛtāṃ koṭarāṇi ca jaranmahīruhām  &
-  
-adhyuvāsa kamalodarāṇi ca dhvāntam adhvagavadhūmukhāni ca  // Rc_2.92 //  
-
-  
-svīcakāra karakoṭilālanālambitoḍutatimekhalāṃ divam  &
-  
-rāgabhaṅgam atisaṃstavād gatāṃ devarājadiśam indur atyajat  // Rc_2.93 //  
-
-  
-ātatāna gaganāṅgaṇādhikair medinīm amṛtavarṣibhir vidhuḥ  &
-  
-viprayuktajanadhūmaketubhiḥ ketakāgraśucibhir marīcibhiḥ  // Rc_2.94 //  
-
-  
-saṃkucadbhir abhirāmatādhike sādhu candramasi puṣkaraiḥ kṛtam  &
-  
-udyatā jayini kāminīmukhe tena sāhasam anuṣṭhitaṃ punaḥ  // Rc_2.95 //  
-
-  
-uccakhāna ruṣam uccamaṇḍalaḥ khaṇḍanām agamayad viṣahyatām  &
-  
-mānapaṅkam apanīya kāminīḥ kāntahastam anayan niśāpatiḥ  // Rc_2.96 //  
-
-  
-vyaktavartmabilavāhinīvanagrāmagulmagahanādribhedayā  &
-  
-saumyatādhikaviśeṣayā9jani jyotsnayā divasaniḥspṛho janaḥ  // Rc_2.97 //  
-
-  
-pīyate sma kumudaṃ na locanaiś candrikā tapati rohitacchadam  &
-  
-prādurāsa param utpibann aliḥ saurabhaṃ niravalambam ambuni  // Rc_2.98 //  
-
-  
-ekike9va nijavṛndamadhyagā9py uccukūja sabhayā sitacchadī  &
-  
-dantamūlam asakṛc ca saṃśayād āmamarśa kariṇaḥ kareṇukā  // Rc_2.99 //  
-
-  
-ketakīṣu kadalīṣu vālukāsv aśmasu sphuṭitakairave 'mbhasi  &
-  
-lambhite9va laharīparamparām ullalāsa śaśikāntivāhinī  // Rc_2.100 //  
-
-  
-prāptasūkṣmaghanapallavāntaraiś citritāḥ śaśikarair itas tataḥ  &
-  
-bibhrati sma tarumūlaśāyinaḥ śambarāḥ pṛṣatayūthavibhramam  // Rc_2.101 //  
-
-  
-kṛcchralabdhanagaśṛṅgasandhayo dattamanmathajayābhisandhayaḥ  &
-  
-maithilītaravadhūdurāsadaṃ rāghavāṅkam aviśac chaśitviṣaḥ  // Rc_2.102 //  
-
-  
-jāgarṣi kāśmari niṣīdasi kovidāra kutrā7si vatsa kṛtamāla tamāla paśya  &
-  
-kiṃ vartate raghupater iti satvarābhir uktaṃ drumaugham avalokya vanasthalībhiḥ  // Rc_2.103 //  
-
-  
-anyonyadūrapariṣaktaviśālasāndraśākhāśatais tarubhir antarayāṃbabhūve  &
-  
-udbhūtaghoravirahajvaralaṅghitasya candrātapaḥ sa khalu dāśarather apathyaḥ  // Rc_2.104 //  
-
-  
-kumudavanam ahetu tyaktanidraṃ tadā0sīd gaganam uḍuvitānair dhig vṛthai9va praphullam  &
-  
-ajani jagad adhīśasyā7gṛhītes tadānīṃ vidhur api vidhavastrīyauvanodbhedaśocyaḥ  // Rc_2.105 //  
-
-  
-śvasiti janakaputrī satvaro bhānuputraḥ kapipatir upasannaṃ suprabhātaṃ tave7ti  &
-  
-jagur iva raghunāthāyā7rdhabuddhāḥ svananto madhuram apararātre patriṇaḥ ke 'pi ke 'pi  // Rc_2.106 //  
-
-  
-ity abhinandakṛtau rāmacarite mahākāvye sandhyātamaścandrodayavarṇano nāma dvitīyaḥ sargaḥ samāptaḥ  //  
-
-  
-kavīnāṃ kiṃ dattair nṛpapaśubhir anyair avasare paraṃ pṛthvīpālaḥ kṣaṇam api sa karṇo vitaratu  &
-  
-anāttaṃ tattvajñair api suvipulārthavyayabhiyā pratiṣṭhāṃ yeno7ccair jagati gamitaṃ rāmacaritam  //  
-
-  
-% NB \msC\ reads here (instead of this verse?)
-  
-pālānvayāmbujavanaikavirocanāya tasmai namo 'stu yuvarājanareśvarāya  &
-  
-koṭipradānaghaṭitojjvalakīrtimūrtir yenā7maratvapadavīṃ gamito 'bhinandaḥ  //  
-  
-
   
 ***********************************************************************  
   
-
   
-tṛtīyaḥ sargaḥ  
-
+tṛtīyas+sargas+  
   
-atha prabuddhaḥ prathamaṃ vibuddham āsīnam ādāya tadaṅghriyugmam  &
+atha prabuddhas+prathamam+vibuddham+āsīnam+ādāya tadaṅghriyugmam  &  
+prakāmanidrābhigamābhirāmas+rāmas+sumitrāsutam+iti+uvāca  // Rc_3.1 //  
   
-prakāmanidrābhigamābhirāmo rāmaḥ sumitrāsutam ity uvāca  // Rc_3.1 //  
-
+kim+ittham+eva kṣapitas+niśīthas+kaccit+muhūrārdham+asi prasuptaḥ  &  
+asmin+prasādāvasare dhiyām+ca pratiṣṭhitas+cetasi kas+tava+arthaḥ  // Rc_3.2 //  
   
-kim ittham eva kṣapito niśīthaḥ kaccin muhūrārdham asi prasuptaḥ  &
+vanaukasas+tasya naveśvarasya bhāvāvabodhāya punar+vimṛśya  &  
+yat+prāptakālam+tat+udāhara+āśu prasthānakālas+ayam+atipraśastaḥ  // Rc_3.3 //  
   
-asmin prasādāvasare dhiyāṃ ca pratiṣṭhitaś cetasi kas tavā7rthaḥ  // Rc_3.2 //  
-
+svakāryalābhastimitas+kapis+cet+na kaścit+arthas+anusṛtena tena  &  
+ripau+upetam+varam+arthibhāvāt+vikārasaṃdehasahe na mitre  // Rc_3.4 //  
   
-vanaukasas tasya naveśvarasya bhāvāvabodhāya punar vimṛśya  &
+kāryāntarāśārahitena tena vyaktam+khalena+adya vayam+nirastāḥ  &  
+dattas+pradīrghāgrahaṇābhidhānas+yena+ayam+ārāt+api nas+ardhacandraḥ  // Rc_3.5 //  
   
-yat prāptakālaṃ tad udāharā8śu prasthānakālo 'yam atipraśastaḥ  // Rc_3.3 //
+ruddhas+tapasvī sa katham+na kaiścit+mohāndhakūpe nipatan+madāndhaḥ  &  
+kim+deśakās+te+api hanūmadādyās+sadyas+padam+prāpya samam+vipannāḥ  // Rc_3.6 //  
   
-svakāryalābhastimitaḥ kapiś cen na kaścid artho 'nusṛtena tena  &
+riṣṭam+na dṛṣṭam+pavamānasūnos+na ca+agnisūnos+na ca vālisūnoḥ  &  
+sarve+api kiṃkāraṇam+ekadā+eva pramītakalpās+kapidārakās+te  // Rc_3.7 //  
   
-ripaū7petaṃ varam arthibhāvād vikārasaṃdehasahe na mitre  // Rc_3.4 //  
-
+sa durnivāras+haris+adya śetām+āsvāditaiśvaryamadhus+madena  &  
+katham+punar+jāgarakāle+eva suptās+tadāptās+iti me vitarkaḥ  // Rc_3.8 //  
   
-kāryāntarāśārahitena tena vyaktaṃ khalenā7dya vayaṃ nirastāḥ  &
+devāt+prasūtena himetarāṃśos+ūrjasvalais+tais+sakhibhis+vṛtena  &  
+udāradehadyutinā+asmadarthe niranvayam+tena tamas+prapannam  // Rc_3.9 //  
   
-dattaḥ pradīrghāgrahaṇābhidhāno yenā7yam ārād api no 'rdhacandraḥ  // Rc_3.5 //  
-
+aho mahat+mohajam+andhakāram+yena+adya madhyesabham+uddhureṇa  &  
+utsārya tān+mantrimaṇipradīpān+plavaṅgarājas+prasabham+gṛhītaḥ  // Rc_3.10 //  
   
-ruddhas tapasvī sa kathaṃ na kaiścin mohāndhakūpe nipatan madāndhaḥ  &
+lobhasya mohasya manobhavasya madasya ca+atiprasaras+na ruddhaḥ  &  
+ruddhas+param+pūrṇamanorathena tena+adya nas+pratyupakāravegaḥ  // Rc_3.11 //  
   
-kiṃ deśakās te 'pi hanūmadādyāḥ sadyaḥ padaṃ prāpya samaṃ vipannāḥ  // Rc_3.6 //  
-
+samrāṭpadasthasya padāt+apetās+samprītaye samprati mā sma bhūmaḥ  &  
+dṛṣṭāstrasārās+api tasya bhīros+kim+bhītaye vatsa vayam+na bhūtāḥ  // Rc_3.12 //  
   
-riṣṭaṃ na dṛṣṭaṃ pavamānasūnor na cā7gnisūnor na ca vālisūnoḥ  &
+sthāne nirastas+sudhiyā+agrajena sa tena māyāmasṛṇas+durātmā  &  
+mayā madāndhena punar+vṛthā+eva kroṣṭā mṛgendrasya pade+abhiṣiktaḥ  // Rc_3.13 //  
   
-sarve 'pi kiṃkāraṇam ekadai9va pramītakalpāḥ kapidārakās te  // Rc_3.7 //  
-
+nirveśaniryātanaśāṭhyanidrām+nīceṣu daṇḍas+paruṣas+nihanti  &  
+tathā+api dākṣiṇyavilambitavyam+idam+dhanus+tam+prati māmakīnam  // Rc_3.14 //  
   
-sa durnivāro harir adya śetām āsvāditaiśvaryamadhur madena  &
+yāvat+na viśrāmyati vegajanmā dikṣu dhvanis+vālibhidas+śarasya  &  
+tāvat+punas+taṅkas+iha trilokyām+ākrāntakiṣkindham+upakrameta  // Rc_3.15 //  
   
-kathaṃ punar jāgarakāla eva suptās tadāptā iti me vitarkaḥ  // Rc_3.8 //  
-
+asmāsu na+āvedayati sma garvāt+kurvīta śeṣārivadham+bhujābhyām  &  
+vidhāya saurājyam+asau+upeyāt+iti+arthitā paśyati na pramāṇam  // Rc_3.16 //  
   
-devāt prasūtena himetarāṃśor ūrjasvalais taiḥ sakhibhir vṛtena  &
+tat+eṣa me nirmalasargasargas+ṣaḍvargaruddhas+ripuvat+sa heyaḥ  &  
+na+asau niṣiddhas+tava yānapakṣas+mayā bata prāk+asamāhitena  // Rc_3.17 //  
   
-udāradehadyutinā9smadarthe niranvayaṃ tena tamaḥ prapannam  // Rc_3.9 //  
-
+asaṃśayam+sa pratihārapālīsasambhramāveditasannikarṣam  &  
+tvām+prati+asūyām+hṛdayena dhāsyati+upasthitāntaḥpuraviprayogaḥ  // Rc_3.18 //  
   
-aho mahan mohajam andhakāraṃ yenā7dya madhyesabham uddhureṇa  &
-  
-utsārya tān mantrimaṇipradīpān plavaṅgarājaḥ prasabhaṃ gṛhītaḥ  // Rc_3.10 //  
-
-  
-lobhasya mohasya manobhavasya madasya cā7tiprasaro na ruddhaḥ  &
-  
-ruddhaḥ paraṃ pūrṇamanorathena tenā7dya naḥ pratyupakāravegaḥ  // Rc_3.11 //  
-
-  
-samrāṭpadasthasya padād apetāḥ samprītaye samprati mā sma bhūmaḥ  &
-  
-dṛṣṭāstrasārā api tasya bhīroḥ kiṃ bhītaye vatsa vayaṃ na bhūtāḥ  // Rc_3.12 //  
-
-  
-sthāne nirastaḥ sudhiyā9grajena sa tena māyāmasṛṇo durātmā  &
-  
-mayā madāndhena punar vṛthai9va kroṣṭā mṛgendrasya pade 'bhiṣiktaḥ  // Rc_3.13 //
-  
-nirveśaniryātanaśāṭhyanidrāṃ nīceṣu daṇḍaḥ paruṣo nihanti  &
-  
-tathā9pi dākṣiṇyavilambitavyam idaṃ dhanus taṃ prati māmakīnam  // Rc_3.14 //  
-
-  
-yāvan na viśrāmyati vegajanmā dikṣu dhvanir vālibhidaḥ śarasya  &
-  
-tāvat punas taṅka iha trilokyām ākrāntakiṣkindham upakrameta  // Rc_3.15 //  
-
-  
-asmāsu nā8vedayati sma garvāt kurvīta śeṣārivadhaṃ bhujābhyām  &
-  
-vidhāya saurājyam asaū7peyād ity arthitā paśyati na pramāṇam  // Rc_3.16 //  
-
-  
-tad eṣa me nirmalasargasargaḥ ṣaḍvargaruddho ripuvat sa heyaḥ  &
-  
-nā7sau niṣiddhas tava yānapakṣo mayā bata prāg asamāhitena  // Rc_3.17 //  
-
-  
-asaṃśayaṃ sa pratihārapālīsasambhramāveditasannikarṣam  &
-  
-tvāṃ praty asūyāṃ hṛdayena dhāsyaty upasthitāntaḥpuraviprayogaḥ  // Rc_3.18 //  
-
-  
-tadvaktram ārkes taruṇārkatāmraṃ tvatprītivākyair akṛtapramodam  &
-  
+tadvaktram+ārkes+taruṇārkatāmram+tvatprītivākyais+akṛtapramodam  &  
 bhaviṣyati pratyupakārabhāranirvāhacintāgamasāndhakāram  // Rc_3.19 //  
-
   
-smariṣyati tvāṃ na sa bodhyamāno 'py ālokayiṣyaty athavā na pṛṣṭaḥ  &
+smariṣyati tvām+na sa bodhyamānas+api+ālokayiṣyati+athavā na pṛṣṭaḥ  &  
+pratyeṣi kāntājanamadhyavartī sa cintayā+asmadgatayā+adhunā+āste  // Rc_3.20 //  
   
-pratyeṣi kāntājanamadhyavartī sa cintayā9smadgatayā9dhunā0ste  // Rc_3.20 //  
-
+āvām+yadā+eva+adritaṭe niviṣṭau sa kālikām+vīkṣya purīm+praviṣṭaḥ  &  
+āmṛṣṭam+āsīt+capalena tena sauhārdam+asmadviṣayam+tadā+eva  // Rc_3.21 //  
   
-āvāṃ yadai9vā7dritaṭe niviṣṭau sa kālikāṃ vīkṣya purīṃ praviṣṭaḥ  &
+ahaḥsu+amīṣu kṣaṇas+eva na+āsīt+āsīt+na saṃdeśaharas+anurūpaḥ  &  
+ityādi sa vyaktam+alīkam+eva tvatprītyupālambhapadeṣu vaktā  // Rc_3.22 //  
   
-āmṛṣṭam āsīc capalena tena sauhārdam asmadviṣayaṃ tadai9va  // Rc_3.21 //  
-
+kṛtāvahelas+praṇayaprasannam+niruttaras+satvarakāryavādam  &  
+prekṣiṣyate roṣalavānuraktam+valīmukhas+śuṣkamukhas+mukham+te  // Rc_3.23 //  
   
-ahaḥsv amīṣu kṣaṇa eva nā8sīd āsīn na saṃdeśaharo 'nurūpaḥ  &
+tasya+āgamāt+yas+sahasā bhaviṣyati+arthasya tasya+abhavanam+mama+astu  &  
+bādhiṣyate vālivadhātiriktas+tadveśmayātrānuśayas+sadā nau  // Rc_3.24 //  
   
-ityādi sa vyaktam alīkam eva tvatprītyupālambhapadeṣu vaktā  // Rc_3.22 //  
-
+sa prāktanas+nūnam+anarthabhājā nītas+talam+tena hitaiṣivargaḥ  &  
+utthāpitais+dūram+asau+idānīm+divāniśam+dīvyati durvidagdhaiḥ  // Rc_3.25 //  
   
-kṛtāvahelaḥ praṇayaprasannaṃ niruttaraḥ satvarakāryavādam  &
+akṣās+mṛgākṣyas+mṛgayā madhūni prekṣās+ca tasya+adya haranti kālam  &  
+na prāpnuvanti kṣaṇam+āptavācas+sadādṛtās+cāraṇacāṭuvādāḥ  // Rc_3.26 //  
   
-prekṣiṣyate roṣalavānuraktaṃ valīmukhaḥ śuṣkamukho mukhaṃ te  // Rc_3.23 //  
-
+vadanti bhītās+sacivās+na kiṃcit+kim+cintayā+asmadgatayā viṭānām  &  
+svayam+na samprati+anusaṃdadhāti pūrvāparam+kāmaparas+sa rājā  // Rc_3.27 //  
   
-tasyā8gamād yaḥ sahasā bhaviṣyaty arthasya tasyā7bhavanaṃ mamā7stu  &
+na sūrayas+na sthavirās+na dhīrās+puraḥsthitās+prāśnikatām+prayānti  &  
+saṃtiṣṭhate saṃsadi saṃśayānas+pṛṣṭhopaviṣṭāsu vilāsinīṣu  // Rc_3.28 //  
   
-bādhiṣyate vālivadhātiriktas tadveśmayātrānuśayaḥ sadā nau  // Rc_3.24 //  
-
+itthaṃgate tatra gatasya kena manyus+tava+udīrṇarayas+nivāryaḥ  &  
+vicāyamāṇas+na guṇāya nas+syāt+asau kapīnām+kadanānubandhaḥ  // Rc_3.29 //  
   
-sa prāktano nūnam anarthabhājā nītas talaṃ tena hitaiṣivargaḥ  &
+prapannaśāṭhyasya haṭhopanāmāt+āneṣyamāṇasya guṇam+na vīkṣe  &  
+tathāvidhās+hi dviṣatām+stavena kaṣanti karṇau param+antikasthāḥ  // Rc_3.30 //  
   
-utthāpitair dūram asāv idānīṃ divāniśaṃ dīvyati durvidagdhaiḥ  // Rc_3.25 //  
-
+spṛṣ.as+na cet+vikriyayā kayā+api na+upasthitas+kāryavaśāt+idānīm  &  
+etu svayam+na kriyate vṛthā+eva sa tvadbalātkāraniruddhaśobhaḥ  // Rc_3.31 //  
   
-akṣā mṛgākṣyo mṛgayā madhūni prekṣāś ca tasyā7dya haranti kālam  &
+yathā+āvayos+tātajaṭāyuṣā+uktam+uktam+kabandhena yathā ca tena  &  
+tathā+upayāsyati+acirāt+avaśyam+āhūtacakras+haricakravartī  // Rc_3.32 //  
   
-na prāpnuvanti kṣaṇam āptavācaḥ sadādṛtāś cāraṇacāṭuvādāḥ  // Rc_3.26 //  
-
+yat+satyam+ādityasamudbhavatvāt+udbhūtim+eṣyanti guṇās+tadīyāḥ  &  
+tulāgrasampātavilambadoṣe tasmin+visaṃvādam+aham+na śaṅke  // Rc_3.33 //  
   
-vadanti bhītāḥ sacivā na kiṃcit kiṃ cintayā9smadgatayā viṭānām  &
+viropataptasya videśavāsāt+ājagmuṣas+tasya nijādhivāsam  &  
+iyanti+ahāni+utsukabandhuvargasaṃvargaṇavyagratayā+eva yānti  // Rc_3.34 //  
   
-svayaṃ na sampraty anusaṃdadhāti pūrvāparaṃ kāmaparaḥ sa rājā  // Rc_3.27 //  
-
+sa nūnam+āyāsyati vānarendras+saṃdeśakārpaṇyam+asaṃmatam+me  &  
+sarvasvabhūtam+visṛjanti vatsa kāryātipāte+api na dhairyam+āryāḥ  // Rc_3.35 //  
   
-na sūrayo na sthavirā na dhīrāḥ puraḥsthitāḥ prāśnikatāṃ prayānti  &
+vyatītavighnas+suhṛdarthanighnas+na śītalas+sthāsyati kim+gatena  &  
+sa tvaryamāṇas+tvaramāṇas+eva dhairyasya nas+pāram+avāpsyati+iva  // Rc_3.36 //  
   
-saṃtiṣṭhate saṃsadi saṃśayānaḥ pṛṣṭhopaviṣṭāsu vilāsinīṣu  // Rc_3.28 //  
-
+dhik+astu mām+tam+prati vipratīpam+āśaṅkitam+tat+bahu yena yat+vā  &  
+svakāryadolāsu janas+alpabhāgyas+prāk+niścinoti vyatirekam+eva  // Rc_3.37 //  
   
-itthaṃgate tatra gatasya kena manyus tavo7dīrṇarayo nivāryaḥ  &
+ittham+na mām+pratyupapattim+eti tatra+ādyapakṣadvitaye+api yātrā  &  
+varam+visoḍhāni kiyanti+api+iha saṅkhyātakālābhyadhikāni+ahāni  // Rc_3.38 //  
   
-vicāyamāṇo na guṇāya naḥ syād asau kapīnāṃ kadanānubandhaḥ  // Rc_3.29 //  
-
+svālocitam+vaktu bhavān+idānīm+iti+anuṣṭheyam+asaṃśayam+yat  &  
+bālyāt+prabhṛti+eva tava+uttarā dhīs+na pūrvapakṣe+abhiniveśam+eti  // Rc_3.39 //  
   
-prapannaśāṭhyasya haṭhopanāmād āneṣyamāṇasya guṇaṃ na vīkṣe  &
+iti prasannām+giram+agrajasya śrutvā cirāt+vītaviṣādapaṅkaḥ  &  
+mukhaśriyā+eva+ujjvalayā+abhinandan+idam+sumitrātanayas+jagāda  // Rc_3.40 //  
   
-tathāvidhā hi dviṣatāṃ stavena kaṣanti karṇau param antikasthāḥ  // Rc_3.30 //  
-
+samarthitam+sādhu samastam+eva kṛtī kapis+kim+bahunā+uditena  &  
+pravyaktam+api+etat+adoṣadṛṣṭyā gṛhītam+āryeṇa na yat+tadāgaḥ  // Rc_3.41 //  
   
-spṛṣ.o na ced vikriyayā kayā9pi no7pasthitaḥ kāryavaśād idānīm  &
+tasya+ūrjitena+atiraves+avadyam+na+eva+īkṣate+antaḥkaraṇam+mama+api  &  
+ayam+punas+tena kutas+na jānāmi+atikramas+kālakṛtas+na dṛṣṭaḥ  // Rc_3.42 //  
   
-etu svayaṃ na kriyate vṛthai9va sa tvadbalātkāraniruddhaśobhaḥ  // Rc_3.31 //  
-
+visarjitā vā punarāgamāya samāpatanti+adya na te nalādyāḥ  &  
+samāharatiudyatavittavarṣas+varṣāntarebhyas+pravarān+harīn+vā  // Rc_3.43 //  
   
-yathā0vayos tātajaṭāyuṣo9ktam uktaṃ kabandhena yathā ca tena  &
+aṣṭādaśadvīpakapīndramaulis+maulān+asau vālivadhapralīnān  &  
+naikābhyupāyopahitān+idānīm+uta pratīcchati+atisatkriyābhiḥ  // Rc_3.44 //  
   
-tatho9payāsyaty acirād avaśyam āhūtacakro haricakravartī  // Rc_3.32 //  
-
+aprāptasaṃtoṣam+asaṃvibhaktasambhuktasarvasvam+anuplaveṣu  &  
+atha+ādiśati+arpitasārakośas+prakāmapātheyaparigrahāya  // Rc_3.45 //  
   
-yat satyam ādityasamudbhavatvād udbhūtim eṣyanti guṇās tadīyāḥ  &
+atho sa bhītāturabālavṛddhān+vṛddhopasevī sanibham+niyuṅkte  &  
+yathāyatham+sadmani padmasaṃkhyāsametaśākhāmṛgayūthanāthaḥ  // Rc_3.46 //  
   
-tulāgrasampātavilambadoṣe tasmin visaṃvādam ahaṃ na śaṅke  // Rc_3.33 //  
-
+tat+ittham+utthānasamākulatvāt+na tvaryamāṇas+api sa dūṣaṇāya  &  
+āryeṇa tatra+api+asamāgatasya chāyācyutis+kā+eva nirūpitā me  // Rc_3.47 //  
   
-viropataptasya videśavāsād ājagmuṣas tasya nijādhivāsam  &
+jñeyas+asti nas+pūrvam+ares+udantas+tatas+tadantāya vidheyam+asti  &  
+iti+ākulatvāt+mama tāvat+ārya kāryopataptis+kṣamate na dhairyam  // Rc_3.48 //  
   
-iyanty ahāny utsukabandhuvargasaṃvargaṇavyagratayai9va yānti  // Rc_3.34 //  
-
-  
-sa nūnam āyāsyati vānarendraḥ saṃdeśakārpaṇyam asaṃmataṃ me  &
-  
-sarvasvabhūtaṃ visṛjanti vatsa kāryātipāte 'pi na dhairyam āryāḥ  // Rc_3.35 //  
-
-  
-vyatītavighnaḥ suhṛdarthanighno na śītalaḥ sthāsyati kiṃ gatena  &
-  
-sa tvaryamāṇas tvaramāṇa eva dhairyasya naḥ pāram avāpsyatī7va  // Rc_3.36 //  
-
-  
-dhig astu māṃ taṃ prati vipratīpam āśaṅkitaṃ tad bahu yena yad vā  &
-  
-svakāryadolāsu jano 'lpabhāgyaḥ prāṅ niścinoti vyatirekam eva  // Rc_3.37 //  
-
-  
-itthaṃ na māṃ pratyupapattim eti tatrā8dyapakṣadvitaye 'pi yātrā  &
-  
-varaṃ visoḍhāni kiyanty apī7ha saṅkhyātakālābhyadhikāny ahāni  // Rc_3.38 //  
-
-  
-svālocitaṃ vaktu bhavān idānīm ity anuṣṭheyam asaṃśayaṃ yat  &
-  
-bālyāt prabhṛty eva tavo7ttarā dhīr na pūrvapakṣe 'bhiniveśam eti  // Rc_3.39 //  
-
-  
-iti prasannāṃ giram agrajasya śrutvā cirād vītaviṣādapaṅkaḥ  &
-  
-mukhaśriyai9vo7jjvalayā9bhinandann idaṃ sumitrātanayo jagāda  // Rc_3.40 //  
-
-  
-samarthitaṃ sādhu samastam eva kṛtī kapiḥ kiṃ bahuno9ditena  &
-  
-pravyaktam apy etad adoṣadṛṣṭyā gṛhītam āryeṇa na yat tadāgaḥ  // Rc_3.41 //  
-
-  
-tasyo8rjitenā7tiraver avadyaṃ nai7ve8kṣate 'ntaḥkaraṇaṃ mamā7pi  &
-  
-ayaṃ punas tena kuto na jānāmy atikramaḥ kālakṛto na dṛṣṭaḥ  // Rc_3.42 //  
-
-  
-visarjitā vā punarāgamāya samāpatanty adya na te nalādyāḥ  &
-  
-samāharatiudyatavittavarṣo varṣāntarebhyaḥ pravarān harīn vā  // Rc_3.43 //  
-
-  
-aṣṭādaśadvīpakapīndramaulir maulān asau vālivadhapralīnān  &
-  
-naikābhyupāyopahitān idānīm uta pratīcchaty atisatkriyābhiḥ  // Rc_3.44 //  
-
-  
-aprāptasaṃtoṣam asaṃvibhaktasambhuktasarvasvam anuplaveṣu  &
-  
-athā8diśaty arpitasārakośaḥ prakāmapātheyaparigrahāya  // Rc_3.45 //  
-
-  
-atho sa bhītāturabālavṛddhān vṛddhopasevī sanibhaṃ niyuṅkte  &
-  
-yathāyathaṃ sadmani padmasaṃkhyāsametaśākhāmṛgayūthanāthaḥ  // Rc_3.46 //  
-
-  
-tad ittham utthānasamākulatvān na tvaryamāṇo 'pi sa dūṣaṇāya  &
-  
-āryeṇa tatrā7py asamāgatasya chāyācyutiḥ kai9va nirūpitā me  // Rc_3.47 //  
-
-  
-jñeyo 'sti naḥ pūrvam arer udantas tatas tadantāya vidheyam asti  &
-  
-ity ākulatvān mama tāvad ārya kāryopataptiḥ kṣamate na dhairyam  // Rc_3.48 //  
-
-  
-anarthibhāvād upacāravādād ākāragupteś ca parībhavanti  &
-  
+anarthibhāvāt+upacāravādāt+ākāraguptes+ca parībhavanti  &  
 yathātathārthapratipādanena prayānti mitrāṇi nirantaratvam  // Rc_3.49 //  
+  
+mithas+prasādaskhalanāt+upādhes+upaiti sakhyam+khalayos+khilatvam  &  
+gṛhṇāti satpūruṣayos+na doṣam+audāryasaṃvādakṛtā tu maitrī  // Rc_3.50 //  
+  
+niryantraṇam+yatra na vartitavyam+na moditavyam+praṇayātivāde  &  
+viśaṅkitānyonyabhayam+vidūrāt+namaskriyām+arhati sauhṛdam+tat  // Rc_3.51 //  
+  
+visrabdham+ājñāpaya kim+karomi katham+ghaṭena plavagādhirājaḥ  &  
+yat+kiṃcit+ādiśya nibhena kim+mām+niṣedhasi kleśam+iva+īkṣamāṇaḥ  // Rc_3.52 //  
+  
+sthitas+asmi tāvat+dinam+etat+eṣyati+anyedyus+ājñām+tava na pratīkṣe  &  
+āryas+anurodhāt+na yunakti yatra tatra+aham+ambāniyamāt+svatantraḥ  // Rc_3.53 //  
+  
+tat+eṣa niṣkramya tathā karomi tatpūrvasaṅgas+plavagas+yathā+āśu  &  
+tam+vairisaṃhāramahopakāram+āryāya niryātayitum+yatena  // Rc_3.54 //  
+  
+dhik+tam+dhanuṣpāṇim+anuplavam+mām+mudhā manaḥparyuṣitāvalepam  &  
+anvīkṣate yasya mama+avasādāt+āryas+sahāyāntaram+antarajñaḥ  // Rc_3.55 //  
+  
+dhik+śātatām+sannataparvatām+dhik+dhik+pātavegam+ca mama+āśugānām  &  
+alakṣitoddeśam+api dviṣantam+nihatya na+āyānti hi yat+kṣaṇena  // Rc_3.56 //  
+  
+kharādirakṣaḥkadaneṣu dīrgham+amī parijñātarasās+kim+anyat  &  
+asṛgbhujām+bhoktum+asṛk+tvarantām+bhūyas+api bhūcandra tava+ardhacandrāḥ  // Rc_3.57 //  
+  
+ātāṭakāsaṃjñapanāt+prapannas+tvayā+eṣa varṇāśramarakṣaṇāya  &  
+samāpyatām+śeṣanibarhaṇena kṣapācarāṇām+nidhanādhikāraḥ  // Rc_3.58 //  
+  
+uddhṛtya ghorāyudhavṛndavṛṣṭim+anuṣṭhitām+oghaśaravyayena  &  
+sa rākṣasebhyas+ambaragocarebhyas+trātas+tvayā+ekena makhas+maharṣeḥ  // Rc_3.59 //  
+  
+tam+kālakalpam+kiyatā śrameṇa tathā+avadhīs+mārgarudham+virādham  &  
+āsan+muhūrtās+kati ca ghnatas+te sainyam+janasthānapates+svarasya  // Rc_3.60 //  
+  
+āsīt+kṣuraprasya kiyān+vilambas+krūreṣu teṣu triśiraḥśiraḥsu  &  
+kati+iṣavas+dūṣaṇadehayātrānivāraṇārtham+ca raṇe visṛṣṭāḥ  // Rc_3.61 //  
+  
+kasya+avalambāt+akarot+parāsum+mārīcam+uccāvacamāyam+āryaḥ  &  
+jñātā ca dik+saṃjñapitas+tvayā+eva kṣapācarāṇām+adhipas+ca sas+api  // Rc_3.62 //  
+  
+iti+aprapañcoditakāraṇāni mithas+tayos+tathyaguṇagrahāṇi  &  
+nedus+stuvānās+iva sūnṛtāni khagās+kulāyeṣu kṛtaikamatyāḥ  // Rc_3.63 //  
+  
+āropya sandhyām+diśi vajrapāṇes+paryasya candram+kakubhi pratīcyām  &  
+utsaṅgitoḍuprakarā khagānām+ādāya nidrām+rajanī jagāma  // Rc_3.64 //  
+  
+kavis+ca jīvas+ca sutas+ca bhūmes+sa dakṣiṇāśātilakas+munis+ca  &  
+āsannasūryāṃśubhayadrutasya kṣaṇam+rarakṣus+bhagaṇasya pṛṣṭham  // Rc_3.65 //  
+  
+dik+darśayāmāsa mukham+sarāgam+na yāvat+aindrī gaṇikā+iva mattā  &  
+tāvat+dvijeśas+aṅkam+iyāya sindhos+sandhyāsurāśīkarasekaśaṅkī  // Rc_3.66 //  
+  
+visarjitoḍus+kṣaṇam+indus+āsīt+āsīt+upānteṣu+api na+andhakāram  &  
+bhṛśam+diśi+indrasya rarāja sandhyā sindūriṇī+iva graharājamudrā  // Rc_3.67 //  
+  
+uccetum+uccais+uḍukuḍmalāni vyākurvatī rāgam+atipragāḍham  &  
+śākhām+iva+ālambya diśam+maghonas+sandhyā viyat+bhūruham+āruroha  // Rc_3.68 //  
+  
+śeṣoḍupuṣpastabakoccayāya saṃjātarāgātiśayā+iva sandhyā  &  
+api+uccakais+pūrvamahīdhramūrdhni sthitvā viyadbhūruham+āruroha  // Rc_3.69 //  
+(tat+eva+idam)  
+  
+visṛjya pāṇḍucchadanaughatulyam+tārāgaṇam+vyomatarus+tadānīm  &  
+babhāra sandhyārucimañjarīṇām+jālāni bālādharakomalāni  // Rc_3.70 //  
+  
+utsāritā+iva+abhrakareṇukumbhāt+jambhāriyugyādhikṛtais+marudbhiḥ  &  
+tatāna sandhyā+iti samullasantī nabhoṅgaṇam+raṅgavikāradhūliḥ  // Rc_3.71 //  
+  
+saṃvittayas+tattvavigāhaśubhrās+sāṃsārike rāge+iva+adhirūḍhe  &  
+śanais+śanais+mlānarucas+mamajjus+tārās+prasarpati+aruṇe cireṇa  // Rc_3.72 //  
+  
+kais+śikṣitās+vartayitum+tadā+āsīt+unmīlitam+tūlikayā+iva citram  &  
+taraṅgavat+tuṅgaśaradghanālīvisaṃsthule vyomani bālasandhyā  // Rc_3.73 //  
+  
+pratyuptamātram+diśi devabhartus+abhyaktakhaṇḍābhrataraṅgamālam  &  
+babhau visarpati+ayasi+iva tailam+nabhastale bālapataṅgatejaḥ  // Rc_3.74 //  
+  
+prasattinirvyūḍhasudhāmayūkham+kham+uṣṇaraśmau+api raktim+ūhe  &  
+bharam+pratīcchanti mahodayānām+pātrāṇi paryāyavaśaṃvadāni  // Rc_3.75 //  
+  
+tāpiñchakalpas+kakubhi pratīcyām+ācchādayāmāsa mṛgas+mṛgāṅkam  &  
+dūrādhirūḍham+janam+āpadi+iva prakāśamānas+atiśayāt+avarṇaḥ  // Rc_3.76 //  
+  
+pradīptasandhyāgni nadaddvijaugham+niraṃśukadhvastaparāṅmukhendu  &  
+viyadviluptoḍukulam+tadā+abhūt+cakrāntarākrāntapuropameyam  // Rc_3.77 //  
+  
+mithas+kṛtālokamahotsavānām+kṛtāravas+sārasadampatīnām  &  
+na bālabhānos+kiraṇāt+abhaiṣīt+nadīṣu nīhāramayas+andhakāraḥ  // Rc_3.78 //  
+  
+tatāra saṃtīrya himāndhakāram+tatā rasantī saritas+khagālī  &  
+raktāravindasya rajobhis+ārdrais+aktā ravim+vāriṇi vīkṣamāṇā  // Rc_3.79 //  
+  
+smaravyayaklāntavalatpulindīsarvāṅgasaṃvāhakalāvidagdhaḥ  &  
+vilambya kośeṣu kuśeśayānām+sasāra kāsārataraṅgavātaḥ  // Rc_3.80 //  
+  
+atītya śaityam+taṭavālukānām+koṣṇāsu sasnus+munayas+nadīṣu  &  
+apām+apūryanta ca nairjharīṇām+kuṭās+girigrāmakuṭumbinībhiḥ  // Rc_3.81 //  
+  
+jātaprakāśāsu bahiḥsthalīṣu prakāmacārotsavajāgarūkaḥ  &  
+ibhas+bhuvi praskhaladagrahastas+sasmāra śayyodarakuñjaśayyām  // Rc_3.82 //  
+  
+sametya jṛmbhānupadam+svayūthyais+mithas+kṣaṇam+līḍhatuṣāralepāḥ  &  
+pratasthire digvalayam+vilokya yathāyatham+kacchabhuvas+kuraṅgāḥ  // Rc_3.83 //  
+  
+adṛśyata+ārāt+taralais+sthalīṣu vanecarāṇām+pṛtanā kuraṅgaiḥ  &  
+papau raves+saṃjvalitograbhāsam+bhujaṅgam+aughas+śritanākurandhraiḥ  // Rc_3.84 //  
+  
+sthalam+kuraṅgīnayanais+anidrais+unmuktamudrais+jalajais+jalam+ca  &  
+vilolatārais+taraladvirephais+uvāha bhedam+na mithas+tadānīm  // Rc_3.85 //  
+  
+jṛmbhābharāt+dūravisaṃgatānām+mudrāvilambena dalāvalīnām  &  
+nirviśya niḥśeṣam+alis+parāgam+agāt+abaddhas+kumudākarebhyaḥ  // Rc_3.86 //  
+  
+viveśa gartam+gatam+uttamohis+uccais+padam+santatam+uttamas+hi  &  
+āsīt+mahas+sampadi tuṅgatāyām+nabhas+na kaiścit+gaditum+gatāyām  // Rc_3.87 //  
+  
+naiḥsaṅgyam+ālambyata kairaveṣu yais+śāntimadbhis+śanakais+raveṣu  &  
+saujanyam+ambhojagṛhe sametais+cirāt+dvirephais+jagṛhe same taiḥ  // Rc_3.88 //  
+  
+reje+aravindais+aravindabandhos+saṃdarśane darśitaharṣavegaiḥ  &  
+vidhos+viṣehe virahas+kathaṃcit+nidrāvalambāt+kumudākareṇa  // Rc_3.89 //  
+  
+ūhe jalais+āhitakoparāgas+kṣobhāt+alnīnām+nalinīparāgaḥ  &  
+vyasarjayat+dyām+vivṛtāparāgas+śaśī cirāt+adhyuṣitāparāgaḥ  // Rc_3.90 //  
+  
+yathā viluptoḍukadambakāyām+bālārkapādais+divi dīpyate sma  &  
+tathā+eva suptākhilakairavāyām+raktāravindais+abhitas+sarasyām  // Rc_3.91 //  
+  
+mukhena bhāti sma sahasrapatram+mitrodayālokavikasvareṇa  &  
+mañjusvanānām+alimārgaṇānām+svayaṃgrahāya+eav vimudrakośam  // Rc_3.92 //  
+  
+ślathena kecit+viviśus+mukhena talena kecit+dalasaṃhatīnām  &  
+madhūtsukānām+madhupavrajānām+abjeṣu na dvāraviniścayas+abhūt  // Rc_3.93 //  
+  
+luloṭha dhūlīṣu papau madhūni pakṣmāṇi līḍhāni punar+lileha  &  
+āgantave stokam+api dvirephas+sthitas+dadau na+antaram+abjamadhye  // Rc_3.94 //  
+  
+bheje vinidrām+nalinīm+na kūlān+na śīlayāmāsa navārkabhāsam  &  
+priyām+pratīyāya tathā+eva mūḍhām+khagas+svabodhāgamasābhyasūyaḥ  // Rc_3.95 //  
+  
+bahūn+asau patrarathas+tapasvī cakāra cāṭūn+upakaṇṭhalīnaḥ  &  
+dṛśam+pramīlāpagamāt+kaṣāyām+unmīlayāmāsa cireṇa cakrī  // Rc_3.96 //  
+  
+pāram+tuṣārakṣaṇasāndhakāram+api smarārtitvaritas+pavitrī  &  
+śrutapriyāhnvānaravas+pratasthe sīmantayan+abjavanam+vinidram  // Rc_3.97 //  
+  
+jagāma bhañjanKamalāni kokas+kokīpariṣvaṅgamanorathotkaḥ  &  
+sā+api+utsukā tatkṣaṇam+ājagāma vilokayantī vanam+utpalānām  // Rc_3.98 //  
+  
+kurvāṇayos+sarasi padmavanāvanaddhe bhinnādhvanos+vitatham+eva gatāgatāni  &  
+saṃvādidikpatitayos+patatos+kathaṃcit+dvandvam+cirāt+ghaṭitam+ardhapathe babhūva  // Rc_3.99 //  
+  
+vyasmaryatām+ṛtamarīcikarābhitāpas+prātas+patatrimithunais+tapanam+vilokya  &  
+jātyā+eva śītalam+atha+uṣṇam+alam+na kiṃcit+citrā gatis+jagati jantudaśāvaśena  // Rc_3.100 //  
+  
+kartavyanirṇayavirūḍhamanaḥprasādaśaṃsismitena mukhacandramasā virājan  &  
+rāmas+prabhātapavanāhitavīcikampām+pampām+iyāya sarasīm+saha lakṣmaṇena  // Rc_3.101 //  
+  
+pārśvasthāvarajasasambhramopanītapratyagrasphuṭitavilohitāravindaḥ  &  
+susnātas+kṛtavidhis+añjasā+upatasthe kākutsthas+kanakarasāvadātam+arkam  // Rc_3.102 //  
+  
+tau dīrgham+vidhivat+upāsya pūrvasandhyām+pūṣṇīṣatprakaṭitaraśmibarbarīke  &  
+āsātām+rahitamahīruhopakaṇṭhau+udvellastimitajaṭāvanau vanānte  // Rc_3.103 //  
+  
+iti+abhinandakavikṛtau rāmacarite mahākāvye mantraviniścayapūrvakaprātaḥssandhyāvarṇanas+nāma tṛtīyas+sargas+samāptaḥ  ||  
+  
+  
+  
+  
+  
 
-  
-mithaḥ prasādaskhalanād upādher upaiti sakhyaṃ khalayoḥ khilatvam  &
-  
-gṛhṇāti satpūruṣayor na doṣam audāryasaṃvādakṛtā tu maitrī  // Rc_3.50 //  
-
-  
-niryantraṇaṃ yatra na vartitavyaṃ na moditavyaṃ praṇayātivāde  &
-  
-viśaṅkitānyonyabhayaṃ vidūrān namaskriyām arhati sauhṛdaṃ tat  // Rc_3.51 //  
-
-  
-visrabdham ājñāpaya kiṃ karomi kathaṃ ghaṭena plavagādhirājaḥ  &
-  
-yat kiṃcid ādiśya nibhena kiṃ māṃ niṣedhasi kleśam ive8kṣamāṇaḥ  // Rc_3.52 //  
-
-  
-sthito 'smi tāvad dinam etad eṣyaty anyedyur ājñāṃ tava na pratīkṣe  &
-  
-āryo 'nurodhān na yunakti yatra tatrā7ham ambāniyamāt svatantraḥ  // Rc_3.53 //  
-
-  
-tad eṣa niṣkramya tathā karomi tatpūrvasaṅgaḥ plavago yathā0śu  &
-  
-taṃ vairisaṃhāramahopakāram āryāya niryātayituṃ yatena  // Rc_3.54 //  
-
-  
-dhik taṃ dhanuṣpāṇim anuplavaṃ māṃ mudhā manaḥparyuṣitāvalepam  &
-  
-anvīkṣate yasya mamā7vasādād āryaḥ sahāyāntaram antarajñaḥ  // Rc_3.55 //  
-
-  
-dhikśātatāṃ sannataparvatāṃ dhig dhik pātavegaṃ ca mamā8śugānām  &
-  
-alakṣitoddeśam api dviṣantaṃ nihatya nā8yānti hi yat kṣaṇena  // Rc_3.56 //  
-
-  
-kharādirakṣaḥkadaneṣu dīrgham amī parijñātarasāḥ kim anyat  &
-  
-asṛgbhujāṃ bhoktum asṛk tvarantāṃ bhūyo 'pi bhūcandra tavā7rdhacandrāḥ  // Rc_3.57 //  
-
-  
-ātāṭakāsaṃjñapanāt prapannas tvayai9ṣa varṇāśramarakṣaṇāya  &
-  
-samāpyatāṃ śeṣanibarhaṇena kṣapācarāṇāṃ nidhanādhikāraḥ  // Rc_3.58 //  
-
-  
-uddhṛtya ghorāyudhavṛndavṛṣṭim anuṣṭhitām oghaśaravyayena  &
-  
-sa rākṣasebhyo 'mbaragocarebhyas trātas tvayai9kena makho maharṣeḥ  // Rc_3.59 //  
-
-  
-taṃ kālakalpaṃ kiyatā śrameṇa tathā9vadhīr mārgarudhaṃ virādham  &
-  
-āsan muhūrtāḥ kati ca ghnatas te sainyaṃ janasthānapateḥ svarasya  // Rc_3.60 //  
-
-  
-āsīt kṣuraprasya kiyān vilambaḥ krūreṣu teṣu triśiraḥśiraḥsu  &
-  
-katī7ṣavo dūṣaṇadehayātrānivāraṇārthaṃ ca raṇe visṛṣṭāḥ  // Rc_3.61 //  
-
-  
-kasyā7valambād akarot parāsuṃ mārīcam uccāvacamāyam āryaḥ  &
-  
-jñātā ca diksaṃjñapitas tvayai9va kṣapācarāṇām adhipaś ca so 'pi  // Rc_3.62 //  
-
-  
-ity aprapañcoditakāraṇāni mithas tayos tathyaguṇagrahāṇi  &
-  
-neduḥ stuvānā iva sūnṛtāni khagāḥ kulāyeṣu kṛtaikamatyāḥ  // Rc_3.63 //  
-
-  
-āropya sandhyāṃ diśi vajrapāṇeḥ paryasya candraṃ kakubhi pratīcyām  &
-  
-utsaṅgitoḍuprakarā khagānām ādāya nidrāṃ rajanī jagāma  // Rc_3.64 //  
-
-  
-kaviś ca jīvaś ca sutaś ca bhūmeḥ sa dakṣiṇāśātilako muniś ca  &
-  
-āsannasūryāṃśubhayadrutasya kṣaṇaṃ rarakṣur bhagaṇasya pṛṣṭham  // Rc_3.65 //  
-
-  
-dig darśayāmāsa mukhaṃ sarāgaṃ na yāvad aindrī gaṇike9va mattā  &
-  
-tāvad dvijeśo 'ṅkam iyāya sindhoḥ sandhyāsurāśīkarasekaśaṅkī  // Rc_3.66 //  
-
-  
-visarjitoḍuḥ kṣaṇam indur āsīd āsīd upānteṣv api nā7ndhakāram  &
-  
-bhṛśaṃ diśī7ndrasya rarāja sandhyā sindūriṇī9va graharājamudrā  // Rc_3.67 //  
-
-  
-uccetum uccair uḍukuḍmalāni vyākurvatī rāgam atipragāḍham  &
-  
-śākhām ivā8lambya diśaṃ maghonaḥ sandhyā viyad bhūruham āruroha  // Rc_3.68 //  
-
-  
-śeṣoḍupuṣpastabakoccayāya saṃjātarāgātiśaye9va sandhyā  &
-  
-apy uccakaiḥ pūrvamahīdhramūrdhni sthitvā viyadbhūruham āruroha  // Rc_3.69 //
-  
-(tad eve7dam)  
-
-  
-visṛjya pāṇḍucchadanaughatulyaṃ tārāgaṇaṃ vyomatarus tadānīm  &
-  
-babhāra sandhyārucimañjarīṇāṃ jālāni bālādharakomalāni  // Rc_3.70 //  
-
-  
-utsārite9vā7bhrakareṇukumbhāj jambhāriyugyādhikṛtair marudbhiḥ  &
-  
-tatāna sandhye9ti samullasantī nabhoṅgaṇaṃ raṅgavikāradhūliḥ  // Rc_3.71 //  
-
-  
-saṃvittayas tattvavigāhaśubhrāḥ sāṃsārike rāga ivā7dhirūḍhe  &
-  
-śanaiḥ śanair mlānaruco mamajjus tārāḥ prasarpaty aruṇe cireṇa  // Rc_3.72 //  
-
-  
-kaiḥ śikṣitā vartayituṃ tadā0sīd unmīlitaṃ tūlikaye9va citram  &
-  
-taraṅgavat tuṅgaśaradghanālīvisaṃsthule vyomani bālasandhyā  // Rc_3.73 //  
-
-  
-pratyuptamātraṃ diśi devabhartur abhyaktakhaṇḍābhrataraṅgamālam  &
-  
-babhau visarpaty ayasī7va tailaṃ nabhastale bālapataṅgatejaḥ  // Rc_3.74 //  
-
-  
-prasattinirvyūḍhasudhāmayūkhaṃ kham uṣṇaraśmāv api raktim ūhe  &
-  
-bharaṃ pratīcchanti mahodayānāṃ pātrāṇi paryāyavaśaṃvadāni  // Rc_3.75 //  
-
-  
-tāpiñchakalpaḥ kakubhi pratīcyām ācchādayāmāsa mṛgo mṛgāṅkam  &
-  
-dūrādhirūḍhaṃ janam āpadī7va prakāśamāno 'tiśayād avarṇaḥ  // Rc_3.76 //  
-
-  
-pradīptasandhyāgni nadaddvijaughaṃ niraṃśukadhvastaparāṅmukhendu  &
-  
-viyadviluptoḍukulaṃ tadā9bhūc cakrāntarākrāntapuropameyam  // Rc_3.77 //  
-
-  
-mithaḥ kṛtālokamahotsavānāṃ kṛtāravaḥ sārasadampatīnām  &
-  
-na bālabhānoḥ kiraṇād abhaiṣīn nadīṣu nīhāramayo 'ndhakāraḥ  // Rc_3.78 //  
-
-  
-tatāra saṃtīrya himāndhakāraṃ tatā rasantī saritaḥ khagālī  &
-  
-raktāravindasya rajobhir ārdrair aktā raviṃ vāriṇi vīkṣamāṇā  // Rc_3.79 //  
-
-  
-smaravyayaklāntavalatpulindīsarvāṅgasaṃvāhakalāvidagdhaḥ  &
-  
-vilambya kośeṣu kuśeśayānāṃ sasāra kāsārataraṅgavātaḥ  // Rc_3.80 //  
-
-  
-atītya śaityaṃ taṭavālukānāṃ koṣṇāsu sasnur munayo nadīṣu  &
-  
-apām apūryanta ca nairjharīṇāṃ kuṭā girigrāmakuṭumbinībhiḥ  // Rc_3.81 //  
-
-  
-jātaprakāśāsu bahiḥsthalīṣu prakāmacārotsavajāgarūkaḥ  &
-  
-ibho bhuvi praskhaladagrahastaḥ sasmāra śayyodarakuñjaśayyām  // Rc_3.82 //  
-
-  
-sametya jṛmbhānupadaṃ svayūthyair mithaḥ kṣaṇaṃ līḍhatuṣāralepāḥ  &
-  
-pratasthire digvalayaṃ vilokya yathāyathaṃ kacchabhuvaḥ kuraṅgāḥ  // Rc_3.83 //  
-
-  
-adṛśyatā8rāt taralaiḥ sthalīṣu vanecarāṇāṃ pṛtanā kuraṅgaiḥ  &
-  
-papau raveḥ saṃjvalitograbhāsaṃ bhujaṅgam aughaḥ śritanākurandhraiḥ  // Rc_3.84 //  
-
-  
-sthalaṃ kuraṅgīnayanair anidrair unmuktamudrair jalajair jalaṃ ca  &
-  
-vilolatārais taraladvirephair uvāha bhedaṃ na mithas tadānīm  // Rc_3.85 //  
-
-  
-jṛmbhābharād dūravisaṃgatānāṃ mudrāvilambena dalāvalīnām  &
-  
-nirviśya niḥśeṣam aliḥ parāgam agād abaddhaḥ kumudākarebhyaḥ  // Rc_3.86 //  
-
-  
-viveśa gartaṃ gatam uttamohir uccaiḥ padaṃ santatam uttamo hi  &
-  
-āsīn mahaḥ sampadi tuṅgatāyāṃ nabho na kaiścid gadituṃ gatāyām  // Rc_3.87 //  
-
-  
-naiḥsaṅgyam ālambyata kairaveṣu yaiḥ śāntimadbhiḥ śanakaī raveṣu  &
-  
-saujanyam ambhojagṛhe sametaiś cirād dvirephair jagṛhe same taiḥ  // Rc_3.88 //  
-
-  
-reje 'ravindair aravindabandhoḥ saṃdarśane darśitaharṣavegaiḥ  &
-  
-vidhor viṣehe virahaḥ kathaṃcin nidrāvalambāt kumudākareṇa  // Rc_3.89 //  
-
-  
-ūhe jalair āhitakoparāgaḥ kṣobhād alnīnāṃ nalinīparāgaḥ  &
-  
-vyasarjayad dyāṃ vivṛtāparāgaḥ śaśī cirād adhyuṣitāparāgaḥ  // Rc_3.90 //  
-
-  
-yathā viluptoḍukadambakāyāṃ bālārkapādair divi dīpyate sma  &
-  
-tathai9va suptākhilakairavāyāṃ raktāravindair abhitaḥ sarasyām  // Rc_3.91 //  
-
-  
-mukhena bhāti sma sahasrapatraṃ mitrodayālokavikasvareṇa  &
-  
-mañjusvanānām alimārgaṇānāṃ svayaṃgrahāyai7av vimudrakośam  // Rc_3.92 //  
-
-  
-ślathena kecid viviśur mukhena talena kecid dalasaṃhatīnām  &
-  
-madhūtsukānāṃ madhupavrajānām abjeṣu na dvāraviniścayo 'bhūt  // Rc_3.93 //  
-
-  
-luloṭha dhūlīṣu papau madhūni pakṣmāṇi līḍhāni punar lileha  &
-  
-āgantave stokam api dvirephaḥ sthito dadau nā7ntaram abjamadhye  // Rc_3.94 //  
-
-  
-bheje vinidrāṃ nalinīṃ na kūlān na śīlayāmāsa navārkabhāsam  &
-  
-priyāṃ pratīyāya tathai9va mūḍhāṃ khagaḥ svabodhāgamasābhyasūyaḥ  // Rc_3.95 //  
-
-  
-bahūn asau patrarathas tapasvī cakāra cāṭūn upakaṇṭhalīnaḥ  &
-  
-dṛśaṃ pramīlāpagamāt kaṣāyām unmīlayāmāsa cireṇa cakrī  // Rc_3.96 //  
-
-  
-pāraṃ tuṣārakṣaṇasāndhakāram api smarārtitvaritaḥ pavitrī  &
-  
-śrutapriyāhnvānaravaḥ pratasthe sīmantayann abjavanaṃ vinidram  // Rc_3.97 //  
-
-  
-jagāma bhañjanKamalāni kokaḥ kokīpariṣvaṅgamanorathotkaḥ  &
-  
-sā9py utsukā tatkṣaṇam ājagāma vilokayantī vanam utpalānām  // Rc_3.98 //  
-
-  
-kurvāṇayoḥ sarasi padmavanāvanaddhe bhinnādhvanor vitatham eva gatāgatāni  &
-  
-saṃvādidikpatitayoḥ patatoḥ kathaṃcid dvandvaṃ cirād ghaṭitam ardhapathe babhūva  // Rc_3.99 //  
-
-  
-vyasmaryatām ṛtamarīcikarābhitāpaḥ prātaḥ patatrimithunais tapanaṃ vilokya  &
-  
-jātyai9va śītalam atho7ṣṇam alaṃ na kiṃcic citrā gatir jagati jantudaśāvaśena  // Rc_3.100 //  
-
-  
-kartavyanirṇayavirūḍhamanaḥprasādaśaṃsismitena mukhacandramasā virājan  &
-  
-rāmaḥ prabhātapavanāhitavīcikampāṃ pampām iyāya sarasīṃ saha lakṣmaṇena  // Rc_3.101 //  
-
-  
-pārśvasthāvarajasasambhramopanītapratyagrasphuṭitavilohitāravindaḥ  &
-  
-susnātaḥ kṛtavidhir añjaso9patasthe kākutsthaḥ kanakarasāvadātam arkam  // Rc_3.102 //  
-
-  
-tau dīrghaṃ vidhivad upāsya pūrvasandhyāṃ pūṣṇīṣatprakaṭitaraśmibarbarīke  &
-  
-āsātāṃ rahitamahīruhopakaṇṭhaū7dvellastimitajaṭāvanau vanānte  // Rc_3.103 //  
-
-  
-ity abhinandakavikṛtau rāmacarite mahākāvye mantraviniścayapūrvakaprātaḥssandhyāvarṇano nāma tṛtīyaḥ sargaḥ samāptaḥ  |/  
-  
-  
-  
-  
-  
 
 ## पाठः

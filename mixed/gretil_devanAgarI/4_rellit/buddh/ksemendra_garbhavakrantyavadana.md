@@ -1,7 +1,9 @@
----
-title: 'Ksemendra: Garbhavakrantyavadana'
++++
+title = "Ksemendra: Garbhavakrantyavadana"
 
----
++++
+
+
 ## Intro
   
   
@@ -21,15 +23,67 @@ Input by Klaus Wille (Göttingen, Germany)
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
+
+
 चम्पोपान्ते विमलनलिनीतीरपर्यन्तवसी  
 शास्ता पूर्वं सकलभुवनानुग्रहाय प्रवृत्तह् ।  
 पृष्टः स्पर्शावगतिरुचिना (?) भिक्षुणानन्दनाम्ना  
@@ -75,7 +129,7 @@ Input by Klaus Wille (Göttingen, Germany)
 हासेनेव स्फुरितरुचिना निर्भरव्याप्तकायः ॥ कव्क्_१०।११ ॥  
 सो ऽथ प्राप्ते लिपिपरिचये हेलया दत्तहस्ते  
 संसारे ऽस्मिन्न् अविचलितया बन्धलेख्यक्रियासु ।  
-जन्मावर्तं निजं इव लिखन् दीर्घं ॐकारम् आदौ  
+जन्मावर्तं निजं इव लिखन् दीर्घं ओङ्कारम् आदौ  
 वर्गे वर्गे वितरति मतिं भोगसर्गे निविष्टः ॥ कव्क्_१०।१२ ॥  
 प्राप्तप्रज्ञः कथम् अपि गलद्बालभावप्रमोहः  
 कामौत्सुक्यात् पुनर् अपि परे यौवने नष्टसञ्ज्ञः ।  
@@ -131,9 +185,6 @@ Input by Klaus Wille (Göttingen, Germany)
 सानागामिफलाप्तये विमलधीस् तस्मात् समाधीयतां ॥ कव्क्_१०।२५ ॥  
 इति भीमभवाम्भोधिसन्तारणकृतव्रतः ।  
 समादिदेश भगवान् सत्त्वानां कुशलाप्तये ॥ कव्क्_१०।२६ ॥  
-  
-। इति क्षेमेन्द्रविरचितायां बोधिसत्त्वावदानकल्पलतायां गर्भावक्रान्तिनिर्देशो नाम दशमः पल्लवः ।  
-  
-  
-  
-  
+    
+। इति क्षेमेन्द्रविरचितायां बोधिसत्त्वावदानकल्पलतायां गर्भावक्रान्तिनिर्देशो नाम दशमः पल्लवः ।
+

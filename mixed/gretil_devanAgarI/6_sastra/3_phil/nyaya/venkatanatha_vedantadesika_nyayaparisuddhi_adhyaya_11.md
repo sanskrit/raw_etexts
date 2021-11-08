@@ -1,7 +1,9 @@
----
-title: 'Venkatanatha [Vedantadesika]: Nyayaparisuddhi, Adhyaya 1,1'
++++
+title = "Venkatanatha [Vedantadesika]: Nyayaparisuddhi, Adhyaya 1,1"
 
----
++++
+
+
 ## Intro
   
   
@@ -27,17 +29,67 @@ The text is not proof-read.
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
+
 न्या। प। प्र। १ पत्युः संयमिनां प्रणम्य चरणौ तत्पादकोटीरयोः सम्बन्धेन समिध्यमानविभवान् धन्यांस्तथान्यान् गुरून् ।  
 शुद्धं संश्रितबादरायणतनोर्नारायणस्योक्तिभः श्रीमान् वेङ्कटनायकः स्थितिपदं निर्माति नीतेः शुभम् ॥  
 विद्यास्थानेषु धर्म्येषु गण्यते न्यायविस्तरः ।  
@@ -80,7 +132,7 @@ The text is not proof-read.
 ७ सामान्यतो वा प्रमाविषयः प्रमेयम् ।  
 ८ आगन्तुकधर्माश्रयो द्रवयम् ।  
 ९ अतथाभूतमद्रव्यम् ।  
-१० द्रव्यं द्वेधा जडमजडमिति  ।  
+१० द्रव्यं द्वेधा जडमजडमिति ।  
 ११ जडं च द्वेधा प्रकृतिः काल इति ।  
 १२ अजडं च तथा प्रत्यक् परागिति ।  
 १३ प्रत्यगपि द्विविधं जीवर् इश्वर इति ।  
@@ -210,7 +262,7 @@ The text is not proof-read.
 न च शक्या नरशिरःपावित्र्याद्यनुमाक्षतिः ॥  
 विहायागममक्षाद्यैर्द्विधा तत्रापि विप्लवः ।  
 श्रुत्यां ह्यनधिकारित्वात्तदन्यत्राव्यवस्थितेः ॥  
-धर्मक्षोभामुमाभङ्गे कथं शूद्रादयः क्षमाः  ।  
+धर्मक्षोभामुमाभङ्गे कथं शूद्रादयः क्षमाः ।  
 अथ त्रैवर्णिकैरुक्ते त्वन्यो विश्वसितीत्यपि ॥  
 स्वयं न्यायविचारे ऽस्य फलत्यनधिकारिताम् ।  
 प्रत्यक्षानुमयोर्यत्र नित्यं वेदानपेखता ॥  
@@ -289,7 +341,7 @@ The text is not proof-read.
 वयं तु ब्रूमः--- यथावस्थितव्यवहारानुगुणं ज्ञानं प्रमेति ।  
 यथार्थख्यातिमख्यातिमन्यथाख्यातिमेव वा ।  
 इच्छद्भिर्न विमन्तव्यमिदं लोकानुसारतः ॥  
-स्मृतिमात्राम्प्रमाणत्वं न युक्तमिति वक्ष्यते  ।  
+स्मृतिमात्राम्प्रमाणत्वं न युक्तमिति वक्ष्यते ।  
 अबाधितस्मृतेर्लोके प्रमाणत्वपरिग्रहात् ॥  
 बुद्धागमादित्यागे च न हेतुः स्मृतिमूलता ॥  
 विशुद्धस्मृतिमूले ऽपि मानवादौ प्रसङ्गतः ॥  
@@ -354,10 +406,7 @@ The text is not proof-read.
 न्या। प। प्र। ८ ॥  
 निगमनम् ॥  
 ततश्चात्रान्यथाधीर्वा तद्धेतुमतिरेव वा ।  
-भ्रान्तिर्वस्तुविरूपस्य व्यवहारस्य कारणम्  ॥  
-  
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु न्यायपरिशुद्धौ प्रत्यक्षाध्याये प्रथममाह्निकम्  ॥  
-  
-  
-  
-  
+भ्रान्तिर्वस्तुविरूपस्य व्यवहारस्य कारणम् ॥  
+    
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु न्यायपरिशुद्धौ प्रत्यक्षाध्याये प्रथममाह्निकम् ॥
+

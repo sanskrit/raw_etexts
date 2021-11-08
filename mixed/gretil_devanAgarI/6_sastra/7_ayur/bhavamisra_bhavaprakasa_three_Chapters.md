@@ -1,20 +1,91 @@
----
-title: 'Bhavamisra: Bhavaprakasa (three chapters)'
++++
+title = "Bhavamisra: Bhavaprakasa (three chapters)"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Bhavamisra: Bhavaprakasa (three chapters)  
-
+  
+  
+  
+  
 Bhavamisra: Bhavaprakasa (three chapters; to be continued)  
 Benares City: Jaya Krishna Das Hari Das Gupta, 1947  
-
+  
+  
 Input by Oliver Hellwig  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
 
-भावमिश्र: भावप्रकाशः  
 
+भावमिश्र: भावप्रकाशः  
+    
 भावप्रकाश, वर्गप्रकरण, हरीतक्यादिवर्ग  
 दक्षं प्रजापतिं वस्थम् अश्विनौ वाक्यम् ऊचतुः ।  
 कुतो हरीतकी जाता तस्यास्तु कति जातयः ॥ १  
@@ -545,7 +616,7 @@ Input by Oliver Hellwig
 भुक्तं सहस्रवेधि स्याद्रसाम्लं शुक्लमित्यपि ।  
 चुक्रमत्यम्लमुष्णं च दीपनं पाचनं परम् ॥ २६२  
 शूलगुल्मविबन्धामवातश्लेष्महरं सरम् ।  
-वमितृष्णास्यवैरस्यहृत्पीडावह्निमान्द्यहृत् ॥ २६३  
+वमितृष्णास्यवैरस्यहृत्पीडावह्निमान्द्यहृत् ॥ २६३
 
 भावप्रकाश, वर्गप्रकरण, कर्पूरादिवर्ग  
 पुंसि क्लीबे च कर्पूरः सिताभ्रो हिमवालुकः ।  
@@ -811,7 +882,7 @@ Input by Oliver Hellwig
 कृच्छ्राश्मवाततृष्णास्रकुष्ठकण्डूज्वरापहा ॥ १३०  
 प्रपौण्डरीकं पौण्डर्यं चक्षुष्यं पौण्डरीयकम् ।  
 पौण्डर्यं मधुरं तिक्तं कषायं शुक्रलं हिमम् ।  
-चक्षुष्यं मधुरं पाके वर्ण्यं पित्तकफप्रणुत् ॥ १३१  
+चक्षुष्यं मधुरं पाके वर्ण्यं पित्तकफप्रणुत् ॥ १३१
 
 भावप्रकाश, वर्गप्रकरण, गुडूच्यादिवर्ग  
 अथ लङ्केश्वरो मानी रावणो राक्षसाधिपः ।  
@@ -921,5 +992,5 @@ Input by Oliver Hellwig
 काकमुद्गा च सा प्रोक्ता तथा मार्जारगन्धिका ।  
 मुद्गपर्णी हिमा रूक्षा तिक्ता स्वादुश्च शुक्रला ॥ ५३  
 चक्षुष्या क्षतशोथघ्नी ग्राहिणी ज्वरदाहनुत् ।  
-दोषत्रयहरी लघ्वी ग्रहण्यर्शोऽतिसारजित् ॥ ५४  
+दोषत्रयहरी लघ्वी ग्रहण्यर्शोऽतिसारजित् ॥ ५४
 

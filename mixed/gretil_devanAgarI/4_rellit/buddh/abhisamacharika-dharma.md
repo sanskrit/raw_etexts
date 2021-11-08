@@ -1,7 +1,9 @@
----
-title: Abhisamacarika-Dharma
++++
+title = "Abhisamacarika-Dharma"
 
----
++++
+
+
 ## Intro
   
   
@@ -24,4102 +26,4142 @@ THE INSTITUTE FOR COMPREHENSIVE STUDIES OF BUDDHISM
 TAISHO UNIVERSITY  
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
+
+
 एxप्लनतोर्य् रेमर्क्स्  
-      थे प्रेसेन्त् तेxत् इस् एदितेद् तो ड़चिलितते wओर्द्-सेअर्छेस्। थे तेxत् इस् बसेद् ओन् थे मनुस्च्रिप्त् ओड़् थे त्रन्स्लितेरतिओन् ओड़् थे अभिसमचरिक-धर्म ओड़् थे महसग्घिक-लोकोत्तरवदिन्स्। ग्रम्मतिचल् एर्रोर्स् अन्द् थे लिके हवे बेएन् लेड़्त् उन्चोर्रेच्तेद्, बुत् प्रेड़ेर्रेद् रेअदिन्ग्स् अरे ओच्चसिओनल्ल्य् गिवेन् ड़ोर् चोन्स्पिचुओउस् स्च्रिबल् एर्रोर्स्।  
-      थे स्य्म्बोल्स् अन्द् एदितोरिअल् ड़ेअतुरेस् अरे अस् ड़ोल्लोwस्:  
-(१)  थे लेत्तेर्स् बेत्wएएन् ( ) इन्दिचते थत् थेय् स्होउल्द् बे सुप्प्लिएद्।  
-(२)  थे लेत्तेर्स् wहिछ् सेएम् तो बे wरोन्ग्ल्य् wरित्तेन् अरे उन्देर्लिनेद्।  इम्मेदिअतेल्य् अड़्तेर् थेम् सुग्गेस्तिओन् इस् सुप्प्लिएद् बेत्wएएन् ( )।   
-(३)  लेत्तेर्स् इन् ब्लुए अन्द् उन्देर्लिनेद् अरे तो बे ओमित्तेद्। नो सुग्गेस्तिओन् इस् सुप्प्लिएद् अड़्तेर् थेम्। थिस् अप्प्लिएस् तो थे ओमिस्सिओन् ओड़् थे विरम।  
-(४)  थे लेत्तेर्स् बेत्wएएन् [ ] इन्दिचते थत् थेय् अरे ओब्स्चुरे।  
-(५)  अन् इल्लेगिब्ले छरच्तेर् (अक्Xअरस्) इस् इन्दिचतेद् ब्य् ओने "+"।  
-(६)  स्य्म्बोल्स् wहिछ् सेएम् तो इन्दिचते विरम अरे सुब्स्तितुतेद् ब्य् चोम्म (" , ")।  
-(७)  स्य्म्बोल्स् wहिछ् सेएम् तो बे सिद्धम्, एत्च्।, अरे सुब्स्तितुतेद् ब्य् " * "।  
-(८)  चन्चेल्लतिओन्स् इन् थे म्स्। अरे नोत् इन्दिचतेद्।  
-(९)  ज्। रेड़ेर्स् तो थे जिननन्द एदितिओन्।  
-(१०) चोम्पोउन्द्स् इन् wहिछ् हिअतुस् अप्पेअर्स् अरे ह्य्फेनेद्।  
-  
-  
-#  
-  
-  
-  
-  
-(I.p.43)  
-Abhisamācārikadharma  
-  
-I.1       Ms.1b1       (J.1.1);       Ch.499a22   
-              * namo buddhāya // abhisamācārikāṇām ādiḥ /  
-     bhagavān śrāvastyām viharati śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā saṃghasya dāni poṣadho āyuṣmāṃ nandano  
-saṃghasthaviro upanandano dvitīyasthaviro dāyakadānapatī pṛcchanti /  
-ārya kiṃ samagro bhikṣusaṃgho āhaṃsu no dīrghāyu / ko dāni  
-nāgacchati / bhikṣū āhaṃsu saṃghasthaviro nāgacchati / te dāni  
-ojjhā(1b2)yanti / paśyatha bhaṇe vayan tāva karmmāntān cchoraya  
-āgacchāma / samagrasya saṃghasya pādāna vandiṣyāma / deyadharmmañ  
-ca pratiṣṭhāpayiṣyāma / saṃghasthaviro nāgacchati / so dāni paścād  
-āgatvā saṃkṣiptena catvāri pārājikān dharmmān uddeśiyāṇa no ca  
-dakṣiṇām ādiśati / na parikathāṃ karoti / utthiya gato / navakā bhikṣū  
-pṛcchanti / āyuṣmān nāgato saṃghasthaviro bhikṣū āhaṃsu / āgato (1b3) ca  
-gato ca / te pi navakā bhikṣū āhaṃsu / naiva saṃghastha(J.2)virasya āgatiḥ  
-prajñāyate na gatiḥ / etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu /  
-bhagavān āha / śabdāpayatha nandanaṃ so dāni śabdāpito / bhagavān  
-āha / satyaṃ nandana evaṃ nāma saṃghasya poṣadho ti / tad eva sarvvaṃ  
-bhagavān vistareṇa pratyārocayati navakā bhikṣū ojjhāyanti / naiva  
-saṃghasthavirasyā(1b4)gatir nna gatiḥ / prajñāyate ti / āha / āma bhagavan /  
-     bhagavān āha / tena hi evaṃ saṃghasthavireṇa poṣadhe pratipadyitavyaṃ /  
-kin ti dāni saṃghasthavireṇa poṣadhe pratipadyitavyaṃ / yad aho saṃghasya  
-poṣadho bhavati / tad aho saṃghasthavireṇa jānitavyaṃ / kim adya saṃghasya  
-poṣadho cāturddaśiko pāñcadaśiko sandhipoṣadho bhaviṣyatīti kiṃ  
-pūrvvaṃ bhaktaṃ / kiṃ paścā(1b5)dbhaktaṃ, / kettika pauruṣāhi cchāyāhi  
-kahim bhaviṣyati / prahāṇaśālāyām vā upasthānaśālāyām vā /  
-agniśālāyām vā / maṇḍalamāḍe vā / yasmin pradeśe yaṃ divasaṃ  
-saṃghasya poṣadho bhavati / saṃghasthavireṇa pañcasūtrāṇi vistareṇa  
-svādhyāyitavyāni / yāvantamasato (I.p.44) catvāri pārājikā gāthāś ca  
-siṣṭakam abhīkṣṇaśrutikāyā yadi dāni na(nā)gato saṃ(1b6)gho bhavati  
-saṃghasthavireṇa yahiṃ bhaviṣyati tahiṃ ārocayitavyaṃ, / āyuṣman adya  
-saṃghasya poṣadho cāturddaśiko vā pāñcadaśiko vā sandhipoṣadho vā /  
-amukahiṃ bhaviṣyati / prahāṇaśālāyām vā / upasthānaśālāyām vā /  
-maṇḍalamāḍe vā purebhaktam vā paścādbhaktam vā / ati(bhi)kramantu  
-āyuṣmanto nāpi dāni ārocitaṃ mayā ti / yatrolaggikāya āsitavyaṃ /   
-     (J.3) atha khalu prati(1b7)kṛtyeva poṣadhasthānaṃ gantavyaṃ siñcāpayitavyo  
-sanmārjayitavyo gomayakārṣī dātavyā / āsanaprajñapti karttavyā /  
-vibhavo bhavati śalākā gandhodakena dhovitavyāyo puṣpehi okiritavyāyo  
-saṃghasthavireṇa jānitavyaṃ ko śalākāṃ cārayiṣyati / ko praticchiṣyati / ko  
-prātimokṣasūtraṃ uddiśiṣyati / ko dakṣiṇāṃ ādiśiṣyati / ko parikathāṃ  
-kariṣyati / yo prati(2a1)balo bhavati / so adhyeṣitavyo ayaṃ sānaṃ śalākāṃ  
-cāreṣi / tvaṃ śalākāṃ praticchesi / tvaṃ prātimokṣasūtram uddiśeṣi tvaṃ  
-bhāṣesi tvaṃ parikathāṃ karesi / tvaṃ dakṣiṇāṃ ādiśesi / tena  
-yathādhyeṣṭena śalākā cārayitavyā / dvitīyena pratīcchitavyā / nāpi  
-kṣamati śalākāṃ cārayantena anirmmādiya hastāṃ śalākāṃ cārayituṃ /  
-nāpi kṣamati / oguṇṭhikāyakṛtena upānahā(2a2)rūḍhena vā śalākāṃ  
-cārayanta(tu)ṃ / atha khalu hastāṃ nirmmādiya oguṇṭhikāṃ apaniya  
-upānahāṃ omuñciya ekāṃsakṛtena śalākā cārayitavyā / śalākāṃ pi dāni  
-gṛhṇantena na cāpi kṣamati / oguṇṭhikākṛtena vā upānahārūḍhena vā  
-śalākāṃ gṛhṇituṃ, / atha khalu ekāṃśakṛtena hastān nirmmādiya  
-oguṇṭhikāṃ apaniya upānahāṃ omuñciya śalākāṃ gṛhṇitavyā / yaṃ kālaṃ  
-(2a3) śalākā cāritā bhavanti bhikṣū gaṇitā bhavanti / sāmagrī ārocitā  
-bhavati / dāyakadānapati paripṛcchitavyā / kim vasiṣyatha atha  
-gamiṣyatha / (J.4) yadi tāvāhaṃsu gacchāma tato deyadharmmaṃ  
-pratiṣṭhāpayitavyaṃ / deyadharmmam anumodāpayitavyaṃ / dhārmmyā  
-kathayā saṃdarśayitavyāḥ / samādāpayitavyāḥ / samuttejayitavyāḥ /  
-saṃpraharṣayitavyāḥ / (2a4) udyojayitavyāḥ // atha dāni āhaṃsu vasiṣyāma  
-nti(tti) vaktavyaṃ / gacchatha tāva bāhyato āmuhūrttaṃ, āgametha  
-bhikṣusaṃgho (I.p.45) tāva poṣadhaṃ kariṣyati / yaṃ kālaṃ dāyakadānapati  
-nirddhāvitā bhavanti / tato sūtroddeśakena jānitavyaṃ, /   
-     yadi tāva nātyā(ti)śītam bhavati / nātyāti-uṣṇaṃ na dūradūre vihārakā  
-bhavanti bhikṣū vā na jarādurbbalā na vyā(2a5)dhidurbbalā vā bhavanti /  
-na vā siṃhabhayam vā vyāghrabhayam vā caurabhayam vā bhikṣū vā  
-sukhopaviṣṭā bhavanti / yadi tāva vistareṇa prātimokṣasūtraṃ śrotukāmā  
-bhavanti vistareṇa prātimokṣasūtraṃ uddiśitavyaṃ / atha dāni atisi(sī)tam  
-vā (ati)uṣṇam vā bhavati / bhikṣū vā jarādurbbalā vā vyādhidurbbalā vā  
-bhavanti / siṃhabhayam vā vyāghrabhayam vā caurabhayam vā bhikṣū  
-(2a6) ca na vistareṇa prātimokṣasūtraṃ śrotukāmā bhavanti / saṃkṣiptena  
-catvāri pārājikāṃ dharmmāṃ uddiśiyānaṃ śiṣṭakaṃ abhīkṣṇaśrutikāye  
-gāthāye ca tato yathāsukhaṃ karttavyaṃ /   
-     atha dāni sarvvarātrikā bhavati / tato adhyeṣitavyaṃ / tvaṃ bhāṣayesīti //  
-yathādhyeṣṭehi bhāṣamāṇaṃ sarvvarātriṃ dharmmavṛṣṭiye  
-vītināmiyānaṃ dāyakadānapati (J.5) dharmyā kathayā saṃdarśayitavyā  
-samādā(2a7)payitavyā samuttejayitavyā saṃpraharṣayitavyā udyojayitavyā  
-yathāsukhaṃ karttavyaṃ / abhipramodantu āyuṣmanto / evaṃ  
-saṃghasthavireṇa poṣadhe pratipadyitavyaṃ / na pratipadyati /  
-abhisamācārikā(ṃ) dharmmāṃ atikramati //*//  
-     I.2 Ms.2a7       (J. 5.5);       Ch.499c2  
-     bhagavān śrāvastyām viharati / śastā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā saṃghasya dāni poṣadho āyuṣmāṃ nandano (2b1)  
-saṃghasthaviro upanandano dvitīyasthaviro saṃghasthaviro āgato bhikṣu  
-āgatā dvitīyasthaviro nāgacchati / dāyakadānapati dāni deyadharmmāṇi  
-ādāya pratipālenti / samaya(gra)ṃ ca bhikṣusaṃgham vandiṣyāmaḥ /  
-deyadharmmañ ca pratiṣṭhāpayiṣyāmo ti // te dāni pṛcchanti / ārya  
-samagro bhikṣusaṃgho a(ā)haṃsu nohetaṃ dīrghāyu ko khalu nāgacchati /  
-āhaṃsu dvitīyasthaviro nāga-ccha(2b2)ti / te dāni ojjhāyanti vayaṃ ye(va)  
-tāva karmmāntā cchoriya āgatāgacchāma samagrasya saṃghasya pādāṃ  
-vandiṣyāmaḥ / deyadharmmañ (I.p.46) ca pratiṣṭhāpayiṣyāmaḥ /  
-dvitīyasthaviro pi nāgacchati / te dāni muhū-rttamātraṃ pratipāliya āsitvā  
-deyadharmmaṃ pratiṣṭhāpayitvā gatāḥ / so dāni ativikāle āgato  
-saṃghasthaviro ojjhāyati / asmākaṃ bhagavān daṇḍakarmman dadāti  
-dvitīyasthavira(2b3)sya monti(tti)kā / etaṃ prakaraṇaṃ bhikṣū bhagavato  
-ārocayanti / bhagavān āha // śabdāpayatha upanandanaṃ so dāni  
-śabdāpito / bhagavān āha // satyaṃ upanandana (J.6) evaṃ dāni saṃghasya  
-poṣadho ti / tad eva sarvvaṃ bhagavāṃ vistareṇa pratyārocayati / yāva  
-saṃghasthaviro pi ojjhāyati / asmākaṃ bhagavāṃ daṇḍakarmman deti /  
-dvitīyasthavirasya monti(tti)kā (2b4) āha / āma bhagavan   
-     bhagavān āha / tena hi evaṃ dvitīyasthavireṇa poṣadhe pratipadyitavyaṃ /  
-kin ti dāni dvitīyasthavireṇa poṣadhe pratipadyitavyaṃ / yad aho dāni  
-saṃghasya poṣadho bhavati / saṃghasthaviro na pratibalo bhavati /  
-dvitīyasthavireṇa jānitavyaṃ / kiṃ adya saṃghasya poṣadho caturddaśiko vā  
-pāñcadaśiko vā sandhipoṣadho vā kiṃ rā(2b5)tripoṣadho bhaviṣyati  
-divāpoṣadho purebhakti bhaviṣyati / paścādbhaktaṃ / kahiṃ bhaviṣyati /  
-upasthānaśālāyām vā prahāṇaśālāyām vā maṇḍalamāḍe vā /  
-ucchedanake vā niṣadyāya vā tti yahim bhavati / tahiṃ ārocayitavyaṃ /  
-āyuṣman adya saṃghasya poṣadho cāturddaśiko vā pāñcadaśiko vā /   
-     atha dāni saṃghasthaviro na pratibalo bhava(2b6)ti / dvitīyasthavireṇa  
-prakṛtyeva poṣadhasthānaṃ siñcāpayitavyaṃ / sanmārjayitavyaṃ /  
-gomayakārṣī dātavyā āsanaprajñaptiḥ karttavyā vibhavo bhavati śalākā  
-gandhodakena dhovayitavyā/yo puṣpehi okiritavyāyo saṃghasthaviro na  
-pratibalo bhavati / dvitīyasthavireṇa jānitavyaṃ ko śalākāṃ cārayiṣyati / ko  
-śalākāṃ praticchiṣyati / ko prātimokṣasūtram uddiśiṣya(2b7)ti / ko  
-bhāṣiṣyati / ko dakṣiṇāṃ ādiśiṣyati / ko parikathāṃ kariṣyati / yo pratibalo  
-bhaviṣyati / so adhyeṣitavyo / tvaṃ śalākāṃ cārayiṣyasi / tvaṃ praticcheṣyasi  
-yāva tvaṃ parikathāṃ kārayasīti / tato śalākāṃ cārantena na (J.7) kṣamati  
-oguṇṭhikākṛtena vā upānahārūḍhena vā hastehi vā anirmmāditehi  
-śalākāṃ cārayituṃ / atha khalu hastān nirmmādiyānaṃ upānahāṃ  
-omuñciya (3a1) ekāṃsakṛtena śalākā cārayitavyā śalākāṃ pi  
-praticchantena na kṣamati oguṇṭhikākṛtena vā upānahārūḍhena vā  
-(I.p.47) hastehi vā anirmmāditehi śalākāṃ praticchituṃ / atha khalu hastān  
-nirmmādiyāṇa upānahāṃ omuñciyāṇa ekāṃsakṛtena śalākā  
-praticchitavyā / yadā śalākā cāritā bhavanti bhikṣū gaṇitā bhavanti  
-sāmagrī ārocitā bhavati / tato dāyakadānapatī pṛcchi(3a2)tavyāḥ kim  
-vasiṣyatha uta gamiṣyatha yadi tāva jalpanti / gacchāma tato  
-deyadharmmaṃ pratiṣṭhāpayitavyā deyadharmmo anumodāpayitavyo  
-parikathā karttavyā dhārmyā kathayā saṃdarśiya samādāpiya samuttejiya  
-sampraharṣayitvā udyojayitavyā / atha dāni jalpanti vasiṣyāma nti(tti)  
-vaktavyaṃ / muhūrttan tāva bāhyato āgametha saṃgho tāva poṣadhaṃ  
-kariṣyati / yadā kāle dāyakadānapati (3a3) nirddhāvitā bhavanti tato  
-sūtroddeśakena jānitavyaṃ /   
-     yadi tāva atisītam vā ati-uṣṇam vā bhavati / bhikṣū vā jarādurbbalā vā  
-vyādhidurbbalā vā bhavanti dūradūre vā pariveṇā bhavanti siṃhabhayam  
-vā vyāghrabhayam vā corabhayam vā bhavati / bhikṣū vā na vistareṇa  
-śrotukāmā bhavanti / saṃkṣiptena (J.8) catvāri pārājikā uddiśitavyaṃ /  
-śiṣṭakaṃ abhīkṣṇaśrutikāye gā(3a4)thāyo ca / tato yathāsukhaṃ  
-karttavyaṃ / atha dāni nātyātiśītaṃ na cātyāti-uṣṇaṃ na dūradūre  
-pariveṇā bhavanti / bhikṣū ca sukhopaviṣṭā bhavanti vistareṇa śrotukāmā  
-tato vistareṇa prātimokṣasūtraṃ ussārayitavyaṃ / tato yathāsukhaṅ  
-karttavyaṃ /  
-     atha dāni sarvvarātrikā bhavati / saṃghasthaviro na pratibalo bhavati  
-dvitīyasthavireṇa adhyeṣitavyaṃ / tva(3a5)yā bhāṣitavyaṃ tvayā bhāṣitavyaṃ  
-yathādhyeṣṭehi bhāṣaṇāya sarvvarātriṃ dharmmavṛṣṭiye vītināmiya /  
-(yā)na dāyakadānapati dhārmmya(yā) kathayā sandarśiya samādāpiya  
-samuttejiya saṃpraharṣayitvā udyojayitavyā / tato yathāsukhaṃ karttavyaṃ /  
-abhipramodayaṃtu āyuṣmanto abhipramodayaṃtu āyuṣmanto apramādena  
-saṃpādayitavyaṃ / evaṃ dvitīyasthavi(3a6)reṇa poṣadhe pratipadyitavyaṃ / na  
-pratipadyeti abhisamācārikāṃ dharmmān atikramati // *//  
-  
-     (I.p.48) I.3       Ms.3a6       (J. 8.14);      Ch.499c14  
-     bhagavān śrāvastyāṃ viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā saṃghasya dāni poṣadho āyuṣmān nandano  
-saṃghasthaviro upanandano dvitīyasthaviro āgato bhikṣū osarantikāye na  
-āgacchanti dāyakadānapati pṛcchanti ārya samagro bhikṣusaṃgho bhikṣū  
-āhaṃ,(3a7)su / nohīdaṃ dīrghāyu ko khu nāgacchati / bhikṣū āhaṃsu /  
-(J.9) ete hi bhikṣū osarantikāye na āgacchanti / te dāni ojjhāyanti / vayaṃ  
-yeca(va) karmmāntāṃ cchoriya cchoriya āgatā āgacchāma / samagrasya  
-pādāṃ vandiṣyāma / deyadharmmañ ca pratiṣṭhāpayiṣyāmaḥ / ime pi  
-āryamiśrā osaratikāye nāgacchanti / saṃghasthaviro ca dvitīyasthaviro ca  
-odhyāyanti / asmākaṃ bhagavāṃ daṇḍakarmman deti / eṣāṃ, (3b1)  
-monti(tti)ko bhikṣū etā(ta)m prakaraṇaṃ ārocayanti bhagavān āha /  
-śabdāpayatha bhikṣūna te dāni śabdāpitāḥ / bhagavān āha / satyaṃ  
-bhikṣavo evaṃ dāni saṃghasya poṣadho ti / tad eva sarvvaṃ bhagavān  
-vistareṇa pratyārocayati / yāva saṃghasthaviro ca dvitīyasthaviro ca  
-odhyāyanti / asmākaṃ bhagavān daṇḍakarmman deti / imeṣāṃ monti(tti)kā  
-āhaṃsuḥ / āma bhagavan   
-     bhagavān āha / tena hi sarvvehi evaṃ (3b2) poṣadhe pratipadyitavyaṃ / kin  
-ti dāni / evaṃ sarvvehi poṣadhe pratipadyitavyaṃ / sarvvehi jānitavyaṃ / kiṃ  
-khalv adya pakṣasya pratipadā dvitīyā yāvat pañcadaśī yadi dāni koci  
-pṛcchati / bhante katamādya na dāni vaktavyaṃ / katamā puna hi yo  
-bhūṣīti / avaśyaṃ vaṃsavidalikāhi vā nalavidalikāhi vā likhitvā sūtreṇa  
-ābra(bu)ṇitvā dvārakoṣṭhake vā prāsāde vā kalpiyakuṭikāyāṃ vā  
-bandhitavyaṃ (3b3) kīlakāni khanetvā dvāre (J.10) sthā(ta)vyaṃ / yo dāni  
-bhavati māsacāriko vā pakṣacāriko tena ekam ekaṃ saṃsārayitavyaṃ  
-devasikaṃ yathājñāpeta katim ādya sarvvehi jānitavyaṃ / eṣo dāni  
-saṃghasya poṣadho bhavati / saṃghasthaviro na pratibalo bhavati /  
-dvitīyasthaviro na pratibalo bhavati / yo tatra pratibalo bhavati tena  
-jānitavyaṃ / kiṃ adya saṃghasya (3b4) poṣadho cāturddaśiko vā  
-pāñcadaśiko vā sandhipoṣadho vā divārātrau vā (I.p.49) poṣadhe  
-purobhaktaṃ vā paścādbhaktam vā kati pauruṣāhi cchāyāhi kahiṃ  
-bhaviṣyati / prahāṇaśālāyām vā upasthānaśālāyām vā maṇḍalamāḍe vā  
-occhedake caṃkrame vā niṣadyāya nti(tti) yahiṃ bhavati tahiṃ  
-ārocayitavyaṃ / abhikramantu āyuṣmanto ti nāyaṃ (kṣamati) ārocitaṃ  
-ma(3b5)yā ti pā(ya)trollaggikāye āsituṃ /   
-     atha khalu yadi tāva saṃghasthaviro na prati(balo) bhavati / dvitīyasthaviro  
-na pratibalo bhavati / yo tatra pratibalo bhavati / tena prakṛtyeva  
-poṣadhasthānaṃ gantavyaṃ poṣadhasthānaṃ siñcitavyaṃ / sanmārjitavyaṃ /  
-gomayakārṣī dātavyā āsanaprajñaptiḥ karttavyā / vibhavo bhavati śalākā  
-gandhodakena dhovitavyā / puṣpe(3b6)hi okiritavyā / saṃghasthaviro na  
-pratibalo bhavati / dvitīyasthaviro na pratibalo bhavati / yo tatra pratibalo  
-bhavati / tena jānitavyaṃ / ko śalākāṃ cārayiṣyati / ko śalākāṃ  
-praticchiṣyati / ko prātimokṣasūtram uddiśiṣyati / ko dakṣiṇāṃ  
-ādiśiṣyati / ko parikathāṃ kariṣyati / yadi tāvat pratibalo bhavati ātmanā  
-sarvvaṃ karttavyaṃ / atha dāni na pratibalo bhavati / yo tatra prati(3b7)balo  
-bhavati / so adhyeṣitavyo tvaṃ śalākāṃ (J.11) cārayesi tvaṃ śalākāṃ  
-praticchesi tvaṃ prātimokṣaṃ uddiśesi tvaṃ bhāṣesi tvaṃ dakṣiṇāṃ ādiśeṣi  
-tvaṃ parikathāṃ kārayesi / śalākāṃ pi ca cārayantena na kṣamati /  
-anirmmāditakehi hastehi upānahārūḍhena oguṇṭhi(kākṛ)tena vā śalākāṃ  
-cārayituṃ /   
-     atha khalu hastāṃ nirmmādiya upānahāṃ omuñciya ekāṃśakṛtena śalākā  
-cārayitavyā (4a1) śalākāṃ pi dāni praticchantena na kṣamati /  
-anirmmāditakehi hastehi upānahārūḍhena vā oguṇṭhikākṛtena vā  
-śalākāṃ praticchituṃ // atha khalu hastāṃ nirmmādiyāṇa upānahāṃ  
-muñciya ekaṃśakṛtena śalākā praticchitavyā / yaṃ kālaṃ śalākā cāritā  
-bhavanti / bhikṣū gaṇitā bhavanti / sāmagrī ārocitā bhavati /  
-dāyakadānapati pṛcchitavyāḥ ḥ / kim vaśiṣyatha atha (4a2) gacchatha / yadi  
-tāva jalpanti / gacchāma nti(tti) deyadharmma pratiṣṭhāpayitavyo /  
-deyadharmmam anumodāpayitavyo / dhārmyā kathayā saṃdarśiya  
-samādāpiya samuttejiya saṃpraharṣayitvā udyojayitavyā /   
-     (I.p.50) athedāniṃ jalpanti vasiṣyāma nti(tti) / vaktavyaṃ / bāhyato tāva  
-yūyaṃ muhūrttam āgametha saṃgho tāva poṣadhaṃ kariṣyati / yaṃ kālaṃ  
-dāyakadānapati nirddhāvitā bhavanti / tato sūtroddeśa(4a3)kena  
-jānitavyaṃ / yadi tāva nātiśītaṃ bhavati nātyūṣṇam vā corabhayam vā na  
-bhavati siṃhabhayaṃ vā vyāghrabhayaṃ vā na (J.12) bhavati / na dūradūre  
-vā pariveṇā bhavanti bhikṣū vā na jarādurbbalā vā vyādhidurbbalā  
-bhavanti / sukhopaviṣṭā bhavanti vistareṇa śrotukāmā bhavanti / tato  
-vistareṇa prātimokṣasūtraṃ uddiśitavyaṃ / atha dāni sarvvarātrikā bhavati /  
-bhāṣaṇakā (4a4) adhyeṣitavyāḥ / tvayā bhāṣitavyaṃ tvayā bhāṣitavyan ti //  
-yathādhyeṣṭehi / bhāṣiyāṇaṃ sarvvarātri dharmmavṛṣṭiyer  
-vvītināmiyāna dāyakadānapati dharmyā kathayā saṃdarśayitavyā yāva  
-udyojayitavyā / tato yathāsukhaṃ karttavyaṃ / abhipramodatu āyuṣmanto  
-apramādena saṃpādayitavyaṃ / evaṃ sarvvehi poṣadhe pratipadyitavyaṃ na  
-pratipadyanti vinayātikramam ā(4a5)sādayanti //*//  
-  
-     I.4       Ms.4a5       (J.12.11);       Ch.499c28   
-     bhagavān śrāvastyām viharati śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā saṃghasya dāni bāhirakaṃ bhaktaṃ āyuṣmān  
-nandano saṃghasthaviro dvitīyasthaviro upanandano āgato bhikṣū āgatāḥ /  
-saṃghasthaviro nāgacchāti / odano śītalo bhavati / sūpo śītalo bhavati /  
-ghṛtaṃ thīyati māṃsaṃ thīyati vyañjanāni śītalī(4a6)bhavanti /  
-dāyakadānapati pṛcchanti / ārya kiṃ samagro bhikṣusaṃgho āhaṃsu  
-nohedaṃ dīrghāyu ko khu nāgacchati / āhaṃsu saṃghasthaviro nāgacchati /  
-te dāni ojjhāyanti / vayaṃ yeca(va) tāva karmmāntāṃ cchoriya  
-āgatāgacchāgacchāma samagraṃ bhikṣusaṃghaṃ pariviśiṣyāmaḥ /  
-saṃghasthaviro pi nāgacchati / (J.13) so dāni paścād āgacchiyāṇa  
-bhuṃjiyāṇa saṃkṣiptena dakṣiṇām ādiśiya na parikathāṃ (4a7) karoti /  
-nāpi dāyakadānapatiṃ dharmyā kathayā (I.p.51) saṃdarśayati  
-samādāpayati / samuttejayati / saṃpraharṣayati / utthihi(ya) gato navakā  
-bhikṣū pṛcchanti / āgato saṃghasthaviro āhaṃsu āgato ca gato ca te dāni  
-odhyāyati naiva saṃghasthavirasya āgatir (na) ggatiḥ prajñāyati / etaṃ  
-prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu / bhagavān aha / śabdāpayatha  
-nandanaṃ / so (4b1) dāni śabdāvito bhagavān āha / satyaṃ nandana evan  
-nāma saṃghasya bāhirakaṃ bhaktaṃ (nandano) saṃghasthaviro upanandano  
-dvitīyasthaviro ti tad eva sarvvaṃ bhagavān vistareṇa pratyārocayati / yāva  
-navakā bhikṣū odhyāyanti / yāva saṃghasthavirasyāgatir nna gati  
-prajñāyate / āha / āma bhagavan   
-     bhagavān āha / tena hi saṃghasthavireṇa evaṃ bhaktāgre pratipadyitavyaṃ /  
-kin ti dāni saṃghasthavire(4b2)ṇa evaṃ bhaktāgre pratipadyitavyaṃ /  
-saṃghasthavireṇa jānitavyaṃ / kasyādya bhaktaṃ ubhayato sāṃghikaṃ  
-sarvvaṃ sāṃghikaṃ pariveṇikaṃ / pāṭiyabhaktaṃ grāme vihāre eṣo dāni  
-koci saṃghaṃ bhaktena śuvetanāya nimantreti / na dāni saṃghasthavireṇa  
-gatāgatasya adhivāsayitavyaṃ / atha khalu saṃghasthavireṇa jānitavyaṃ ko  
-yaṃ nimantreti / āgantuko gamiko gṛhastho pravrajito strī puruṣo  
-dā(4b3)rako dārikā pṛcchitavyaṃ / kin nāmako si (J.14) kiṅ gotrako si / kiṃ  
-karmmikā te mātāpitarau katamaṃ deśaṃ gṛhaṃ katamāyāṃ rathyāyāṃ  
-kuto mukhaṃ gṛhasya vā sākāraṃ soddeśaṃ pṛcchiyāṇaṃ tato  
-dhivāsayitavyaṃ / nāpi dāni adhivāsita(ṃ) mayeti / yatrollagnāye āsitavyaṃ /  
-  
-     atha khalu prakṛtyeva māsacāriko pakṣacāriko vā preṣayitavyo gaccha  
-jānā(4b4)hi kiṃ sajjiyatīti / anekāya tahi jātakaṃ bhaveyaṃ mṛtakam vā  
-bhaveya sandhi vā cchinno agnidāho vā rājakulāto vā upadravo ḍhossā vā  
-viṭā vā vātaputro vā viheṭhanābhiprāyā nimantrayeṃsu tena gacchiya  
-pṛcchitavyaṃ / koci imaṃhi itthannāmo nāma upāsako yadi tāva āhaṃsu  
-nāsti asmākaṃ koci evaṃ nāma upāsako vaktavyaṃ [bhi]kṣu(4b5)saṃgho tena  
-nimantrito kiṃ sidhyati vā pacyati vā / yadi tāva āhaṃsu kasya bhaktaṃ  
-kasya sidhyati kasya pacyatīti jānitavyaṃ / vipralabdho bhikṣusaṃgho ti  
-(I.p.52) āgacchiya yadi tāva anugraho bhavati anugraho sādhayitavyo /  
-anugraho na bhavati bhaktāni bhavanti / bhaktāni uddiśitavyāni / bhaktāni  
-na bhavanti raṇaraṇā(ya) gaṇḍi āhaṇiya vaktavyaṃ / āyu(4b6)ṣman  
-vipralabdho bhikṣusaṃgho svakasvakāṃ vṛttiṃ paryeṣatha / sarvvehi  
-paṭipāṭikāya piṇḍāya praviśitavyaṃ / atha dāni te jalpanti / bhante etaṃ  
-sidhyati praviśati(tu) bhikṣusaṃgho ti tato raṇaraṇāya gaṇḍī āhaṇiya yadi  
-tāva hemanto bhavati anukālaṃ (J.15) praviśitavyaṃ / mā kālo  
-tikrayi(mi)ṣyatīti / atha dāni grīṣmo kālo bhavati śītalakasaṃgena  
-anukālyaṃ praviśitavyaṃ //   
-     atha (4b7) dāni varṣārātro kālo bhavati devāntarāyena anukālyaṃ  
-praviśitavyaṃ / mā kālo atikramiṣyatīti / yadi tāva (na) saṃjña(jja)m  
-bhavati / mahanto ca kālo bhavati kahiñci ca gantukāmo bhavati / kasyacita  
-bhikṣusya jalpitavyaṃ / amukaṃ kulaṃ upasaṃkramiṣyatha yadā sajjaṃ  
-bhaveya / tato mā paṭisaresi / na dāni tena āmantritaṃ mayā ti  
-bhadrapālakṛtyehi haṇṭhitavyaṃ / atha khalu prati(5a1)kṛtyeva āgantavyaṃ  
-praviśatehi jānitavyaṃ / kathaṃ āsanā prajñaptāḥ / atidakṣiṇam anuvāmāṃ  
-kadāci maṅgalakaraṇīye atidakṣiṇaṃ prajñaptaṃ bhavati / tathā yeva  
-upaveṣṭavyaṃ / atha dāni pretakaraṇīye anuvāmaṃ prajñaptaṃ bhavati /  
-tathā yeva upaveṣṭavyaṃ nāpi dāni kṣamati / praviśantehi bhaṇḍaṃ  
-laṃghaṃtehi kāṃsabhājanaṃ laṃghaṃtehi dārakadārikāṃ laṃghaṃtehi  
-gantuṃ / atha khalu bhaṇḍaṃ pa(5a2)rivarjantehi kāṃsabhājanaṃ  
-parivarjantehi dārakadārikāṃsa parivarjantehi praviśitavyaṃ / nāpi dāni  
-kṣamati gatāgatasya upaviśanta(tu)ṃ / atha khalu hastena āsanaṃ  
-pratyavekṣitavyaṃ / anaikāyo tatra garbharūpāṇi sopāyitakāni bhaveṃsuḥ /  
-kāṃsabhājanāni vā thapitakāni bhaveṃsuḥ / atha khalu hastena  
-parāṃmṛśiyāṇa jānitavyaṃ / oheṣya(yya)kānāṃ (J.16) glānakānāṃ  
-pratikṛtye(5a3)va dāpitavyaṃ / atha dāni so manuṣyo anācīrṇṇadāno vā  
-bhavati / tittino vā bhavati na dāni adhyupekṣitavyaṃ / vaktavyaṃ dīrghāyu  
-avaśyan teṣāṃ dātavyaṃ piṇḍapātaṃ (I.p.53) / atha dāni dāyakadānapati  
-jalpanti paṭipāṭikāya gṛhnatha nti(tti) hemanto ca kālo bhavati vaktavyaṃ  
-nahi nti(tti) / bhagavatā anekaparyāyeṇa glāno paritto kim vā ambhehi  
-vihāraśū(5a4)nyaṃ śakyaṃ karttuṃ ti laghu kālo atikramati / detha yūyan ti  
-atha dāni grīṣmo vā varṣā vā rātro vā kālo bhavati cirehi kālo  
-atikramati / paṭipāṭikāya gṛhnitavyaṃ / tato saṃghasthavireṇa jānitavyaṃ /  
-kiṃ ārabhya deti tathā yeca(va) nimantraṇāpetavyaṃ bhojanaṃ dīyati  
-mahanto piṇḍo parigṛhīto bhavati / saṃghasthavireṇa vaktavyaṃ / sarvveṣāṃ  
-etta(5a5)ka-ettakaṃ bhaviṣyati / āha / nahi āryasya etaṃ evaṃ dīyati  
-vaktavyaṃ / tathā dehi / yathā sarvveṣāṃ samaṃ bhavati / atha dān āha  
-bhaviṣyatīti pratīcchitavyaṃ / atha dāni so thokinā arthiko bhavati  
-vaktavyaṃ mama thokaṃ dehi heṣṭhā bahuṃ evaṃ // pe // sūpasya ghṛtasya  
-māṃsasya olaṃkānāṃ dadhisya tato nāpi kṣamati saṃghasthavireṇa labdho  
-piṇḍo (5a6) dvāraṃ paśyiya lapyala(p)yāye bhuṃjiyāṇa utthihiya gantuṃ /   
-     atha khalu odanasampattir vvā āgamaṃtena bhuṃjitavyaṃ /  
-vyañjanasampattir vvā āgamaṃtena bhuñjitavyaṃ na bhuñjitvā hastaṃ  
-nikṣipiya āsitavyaṃ / mā heva otrapeṃsu / atha khalu anujānetavyaṃ / yadā  
-navakāḥ santarpitā bhavanti / upagrāyanti pānīyaṃ vā pibanti / hastām vā  
-ukkaḍhḍhiya āsanti / na dāni saṃghasthavireṇa bhuñja(5a7)ntakenaiva  
-utthāya āsanāto gantavyaṃ / labdho piṇḍo dvāraṃ paśyiya / atha khalu  
-saṃghasthavireṇa āgametavyaṃ / dīrghodakaṃ dāpetavyaṃ / parikathā  
-karttavyā / dakṣiṇā ādisitavyā / jānitavyaṃ / kim ālambanaṃ bhaktaṃ  
-jātakaṃ mṛtakam vā ce(ve)vāhikam vā gṛhapraveśakam vā āgantukasya  
-gamikasya gṛhasthasya pravrajitasyeti /   
-     yadi tāva jāna(ta)kaṃbhavati / nāyaṃ dakṣiṇā ādi(śi)ta(5b1)vyā /  
-              ayaṃ kumāro śivapathikāya cchandito   
-              aṅguṣṭhasnehena yāpaye saptarātraṃ   
-              śunakhā śṛgālā ca naṃ laṃghayantu /   
-(I.p.54)       kākā ca akṣimalaṃ harantā  
-(J.18)       nāyaṃ evaṃ dakṣiṇā ādiśitavyā /   
-  
-     atha khalu dakṣiṇā ādiśitavyā /  
-              ayaṃ kumāro śaraṇaṃ upetu   
-              buddhaṃ vipaśyiñ ca śikhi(ñ) ca viśvabhuṃ  
-              krakucchanda konākamuniñ ca kāśyapaṃ   
-              mahāyaśaṃ śākyamuniñ ca gautamaṃ /   
-              etehi buddhehi maharddhikehi   
-              (5b2)ye devatā santi abhiprasannā   
-              tā naṃ rakṣaṃtu tā ca naṃ pālayantu  
-              yathā naṃ icchati mātā yathā naṃ icchati pitā  
-              ato śreyataro bhotu kumāro kulavarddhano /   
-     evaṃ dakṣiṇā ādiśitavyā /   
-  
-     atha dāni mṛtakaṃ bhavati / nāyaṃ kṣamati / evaṃ dakṣiṇā ādiśituṃ       
-adya te sudivasaṃ sumahābalaṃ   
-              bhadrakākṣaṇa muhūrttaṃ prasthitā  
-              adya te suvihite suvihitehi /   
-              dakṣiṇā agrabhājanaga(5b3)gatā virocati /  
-     (J.19) nāyaṃ evaṃ dakṣiṇā ādiśitavyā /  
-  
-     atha khalu dakṣiṇā ādiśitavyā /  
-              sarvvasatvā mariṣyanti maraṇāntaṃ hi jīvitaṃ /   
-              yathākarmma gamiṣyanti puṇyapāpaphalopagāḥ //   
-              nirayaṃ pāpakarmmāṇo kṛtapuṇyā ca svarggatiṃ /   
-              apare mārggam bhāvayitvā parinirvvānti anāśravā iti //   
-  
-     (I.p.55) evaṃ dakṣiṇā ādiśitavyā //  
-  
-     atha dāni vedā(vā)hikaṃ bhavati / nā(5b4)yaṃ dakṣiṇā ādiśitavyā /  
-              nagnā nadī anodikā nagnaṃ rāṣṭraṃ arājakaṃ /  
-              istrī pi vidhavā nagnā sacesyā daśa bhrātaro   
-     (J.20) nāyaṃ evaṃ dakṣiṇā ādiśitavyā /  
-  
-     atha khalu dakṣiṇā ādiśitavyā /  
-              istri pi peśalā bhavatu śrāddhā bhavatu pativratānugā   
-              śīlavatī yo(tyā)gasampannā samyagdṛṣṭi ca yā iha /  
-              puruṣo pi peśalā bhavatu śrāddho bhavatu vratā(5b5)nugo /  
-              śīlavāṃ tyāgasampanno samyagdṛṣṭi ca yo iha //  
-              ubhau śraddhāya sampannā ubhau śīlo(le)hi saṃvṛtā /   
-              ubhau puṇyāni kṛtvāna samaśīlavratā ubhau //  
-              vidhinā devalokas tu modantu kāmakāmino /   
-              tām eva bhāryāṃ careyā yo asyā sīlehi saṃvṛtā //  
-              asatiṃ parivarjeyā mārggaṃ pratibhayaṃ yathā /   
-     evaṃ dakṣiṇā ādiśitavyā //  
-  
-     atha dā(5b6)ni gharapraveśanikaṃ bhavati / nāyaṃ dakṣiṇā ādiśitavyā /  
-              (J.21) ādīptasmiṃ āgare yo niharati bhaṇḍakaṃ taṃ   
-              khu tasya svakaṃ bhavati / na khalu yo tatra dahyati /  
-              evam ādīpite loke mṛtyunā ca jarayā ca  
-              yo nīharati / dānena dinnaṃ taṃ āhuti hutaṃ /  
-     nāyaṃ evaṃ dakṣiṇā ādiśitavyā //  
-  
-     atha khalu dakṣiṇā ādiśitavyā   
-              vibhaktabhāgaṃ ruciraṃ manoramaṃ   
-     (I.p.56)       praśastam ārye[h]i navaṃ nive(5b7)śanaṃ /  
-              praviśya vṛddhiye varāye bhūrīye   
-              śirīye lakṣmīparigraheṇa ca /  
-              imasmi āgāre nivasantu devatāḥ /   
-              mahābhiṣaṅka na ca anukampikā  
-              yaṃ vibhavadhanadhānyena sambhavo   
-              bhūr ime ca sā yasmiṃ pradeśe   
-              medhāvī vā saṃkalpeti paṇḍito   
-              śīlavātantra(n tatra) bhojeyā saṃyatāṃ brahmacāriṇo /   
-              (J.22) yā tatra devatā asyā tāsāṃ dakṣiṇām ādiśehi /  
-              tāye vastumālānāṃ cirarātrāya ka(6a1)lpate //  
-              bhojanāvastupālā satkṛtā pratimānitā /  
-              grāme vā yadi vāraṇye nimne vā yadi vā sthale   
-              divā vā yadi vā rātrau devā rakṣantu dāyakān //  
-              devānukampito poṣo sadā bhadrāṇi paśyati //   
-     evaṃ dakṣiṇā ādiśitavyā /  
-  
-     atha dāni gamikaṃ bhaktaṃ bhavati / nāyaṃ dakṣinā ādiśitavyā /  
-              sarvvā diśāsu bhayā samākulā   
-              sa-uttarā sapurastimā [dakṣi]ṇā paścimā ca   
-              sa(6a2)sarvvo ca loko saṃkulajāto   
-              mā pramajji jinaśāsane //  
-     nāyaṃ evaṃ dakṣiṇā ādiśitavyā //  
-  
-     atha khalu diśā sauvastikā dakṣiṇā vistareṇa dakṣiṇā ādiśitavyā /   
-     yathā pātrapratisaṃyukte evaṃ dakṣiṇā ādiśitavyā /  
-     atha dāni pravrajitasya bhavati / nāyaṃ dakṣiṇā ādiśitavyā   
-                   (J.23)putram vā paśum vā ārabhya dhanadhānyapriyāṇi vā  
-     (I.p.57) devabhāvaṃ vā manuṣyam vā pañcadho (6a3) manasi prīyanti /  
-     na evaṃ dakṣiṇā ādiśitavyā //  
-  
-     atha khalu dakṣiṇā ādiśitavyā /  
-              suduṣkaraṃ pravrajitasya dānaṃ pātreṇa bhaikṣaṃ abhisāharitvā /   
-              kulāt kulaṃ cariya piṇḍapātaṃ kruddhaprasannānāṃ mukhaṃ   
-              udīkṣiyaṃ //  
-              so yaṃ śreṣṭhāyatane pratiṣṭhito pātrasaṃhṛto lābho prītiṃ janehi  
-              suvihitā tathā hi dinnaṃ imaṃ dānan ti /  
-     evaṃ dakṣiṇāṃ / (6a4) ādiśiya gantavyaṃ /  
-     evaṃ saṃghasthavireṇa bhaktāgre pratipadyitavyaṃ / na pratipadyati //  
-abhisamācārikāṃ dharmmān atikramati // * //  
-  
-     I.5       Ms.6a4       (J.23.12);       Ch.499c28   
-     bhagavān śrāvastyām viharati / śāstā devānāñ ca manuṣyāṇāñ ca /  
-vistareṇa nidānaṃ kṛtvā saṃghasya dāni bāhirakaṃ bhaktaṃ / āyuṣmān  
-nandano saṃghasthaviro upanandano dvitīyasthaviro saṃghasthaviro  
-āga(6a5)to dvitīyasthaviro nāgacchati / dāyakadānapati pṛcchanti / ārya kiṃ  
-samagro bhikṣusaṃgho bhikṣū āhaṃsu / noheti dīrghāyu ko dāni  
-nāgacchati (J.24) āhaṃsu dvitīyasthaviro nāgacchati / te dāni odhyāyanti /  
-paśyatha bhaṇe vayaṃ yeva bhā(tā)va karmmāntāṃ cchoriya āgacchāma  
-samagraṃ bhikṣusaṃghaṃ pariviśiṣyāma / āryamiśrāṇāñ ca pādāṃ  
-vandiṣyāmaḥ (6a6) dvitīyasthaviro nāgacchati / saṃghasthaviro pi  
-odhyāyati / asmākaṃ bhagavāṃ daṇḍakarmman deti / dvitīyasthavirasya  
-munti(tti)kā // etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu / bhagavān  
-āha / śabdāpayatha upanandanaṃ so dāni śabdāpito bhagavān āha / satyaṃ  
-upanandana evaṃ nāma saṃghasya bāhirakaṃ bhaktaṃ nandano  
-saṃghasthaviro tvaṃ dvitīyasthaviro saṃghasthaviro āgato bhi(6a7)kṣū  
-āgatāḥ / tvaṃ nāgacchasi / dāyakadānapati pṛcchati / ārya kiṃ samagro  
-bhikṣusaṃgho bhikṣū āhaṃsu / nahi ko khalu nāgacchati dvitīyasthaviro  
-nāgacchati / te dāni odhyāyanti / vayaṃ (I.p.58) yeva tāva karmmāntaṃ /  
-cchoriya āgatā gacchāmaḥ / samagraṃ bhikṣusaṃghaṃ pariviśiṣyāmaḥ /  
-āryamiśrāṇāṃ ca pādāṃ vandiṣyāmaḥ / dvitīyasthaviro nāgacchati /  
-saṃghasthaviro pi odhyāyati / a(6b1)smākaṃ bhagavān daṇḍakarmma deti /  
-dvitīyasthavirasya muttikā / āha / āma bhagavan   
-     bhagavān āha / tena hi evaṃ dvitīyasthavireṇa bhaktāgre  
-pratipadyitavyaṃ / kin ti dāni dvitīyasthavireṇa bhaktāgre pratipadyitavyaṃ /  
-eṣo dāni koci bhikṣusaṃghaṃ bhaktena nimantrayati / saṃghasthaviro (J.25)  
-na pratibalo bhavati / dvitīyasthavireṇa jānitavyaṃ / ko nimantreti /  
-bhikṣubhikṣunī upāsakopāsikā āga(6b2)ntuko gamiko vāṇijako  
-sārthavāho kin nāmako kiṃ jātiko kiṃ karmmikā se mātāpitarau  
-katamasmin deśe gṛhaṃ katamāyāṃ rathyāyāṃ kuto mukhaṃ gṛhasya  
-dvāraṃ / sākāraṃ soddeśaṃ pṛcchiya tato dhivāsayitavyaṃ / nāyaṃ  
-adhivāsitaṃ mayeti / yatrollagnāye āsitavyaṃ /   
-     yadi tāva saṃghasthaviro na pratibalo bhavati dvitīyasthavireṇa  
-aparejjukāye ca māsacā(6b3)riko vā pakṣacāriko / preṣayitavyo vaktavyaṃ  
-gaccha jānāhi / asuke deśe asukāyāṃ rathyāyāṃ itthaṃnāmo nāma  
-upāsako tena bhikṣusaṃgho nimantrito jānāhi kiṃ sidhyati kiṃ pacyati /  
-tena pravisiyāṇaṃ tahiṃ pṛcchitavyaṃ / ārogyaṃ dīrghāyu koci imaṃhi  
-itthaṃnāmo nāma upāsako āha bhante kiṃ kariṣyasi / vaktavyaṃ / tena  
-bhikṣusaṃ,(6b4)gho bhaktena nimantrito kiṃ sidhyati vā kiṃ pacyati vā ti /  
-yadi tāvad āha / bhante kisya upāsako kahiṃ upāsako ti nāmāsmākaṃ koci  
-upāsako na sidhyati / na pacyati tti jānitavyaṃ vipralabdho bhikṣusaṃgho ti /  
-āgacchiyāṇaṃ yadi tāva anugraho bhavati / anugraho sādhitavyo anugraho  
-na bhavati / bhaktakāni bhavanti / bhaktakā uddiśitavyāni / (6b5) (J.26)  
-bhaktakāni na bhavanti / raṇaraṇāya gaṇḍiṃ āhaṇiyāṇaṃ ārocitavyaṃ  
-vaktavyaṃ / āyuṣma(n)to vipralabdho bhikṣusaṃgho svakasvakāṃ vṛttiṃ  
-paryeṣatheti / sarvvehi paṭipāṭikāya piṇḍāya caritavyaṃ / atha dāni āha  
-bhante etaṃ sidhyati etaṃ pacyati / praviśantu āryamiśrāḥ raṇaraṇāya  
-gaṇḍiṃ āhaṇiyāṇaṃ praviśitavyaṃ, /   
-     (I.p.59) yadi tāva hemantakālo bhava(6b6)ti anukallatarakam  
-praviśitavyam / ba(la)huṃ kālo atikramati / atha dāni grīṣmakālo bhavati /  
-uṣṇasantāpena anukarṇṇa(lla)tarakaṃ, praviśitavyaṃ / atha dāni  
-varṣārātrakālo bhavati / devāntareṇa praviśitavyaṃ, / tato nāpi kṣamati  
-bhaṇḍaṃ laṃghaṃyantehi praviśituṃ / atha khalu bhaṇḍaṃ parivarjayantehi /  
-yāva dārakadārikāṃ parivarjayantehi / praviśitavyaṃ tato na kṣamati /  
-gatāgatasya (6b7) upaviśituṃ, / anekāye tahiṃ āsanehi dārakadārikā vā  
-sovāpitā bhaveṃsu / atha khalu hastehi pratyavekṣiyāṇaṃ anantarikāṇāṃ  
-āsanāni varjayantehi // upaviśitavyaṃ / yadi tāva hemantakālo bhavati /  
-laghu kālo atikramati / oheyyaglānakānāṃ piṇḍapāto dāpayitavyo / atha  
-dāni dāyakadānapati jalpanti / bhante paṭipāṭikāya gṛhnatha nti(tti) /  
-vaktavyaṃ / nahi / bhagava(7a1)tānekaparyāyeṇa glāno parītto kim  
-asmābhiḥ vihārako śūnyako karttavyo / laghu kālo ti(J.27)kramati / detha  
-yūyaṃ ti atha grīṣmakālo varṣārātro vā bhavati / cireṇa kālo atikramati /  
-oheyyaglānakānāṃ paṭipāṭikāye piṇḍapāto gṛhnitavyo / saṃghasthaviro na  
-pratibalo bhavati / dvitīyasthaviro pratibalo bhavati na kṣamati /  
-dvitīyasthavireṇa hantahantāye bhuñjiyāṇaṃ labdho pi(7a2)ṇḍo dvāraṃ  
-paśyiya utthiya gantuṃ /   
-     atha dāni saṃghasthaviro na pratibalo bhavati dvitīyasthaviro pratibalo  
-bhavati / dvitīyasthavireṇa odanasampatti āgamayantena bhuñjitavyaṃ /  
-vyañjanasampattim vā / āgamayantena bhuñjitavyaṃ / yaṃ kālaṃ navakā  
-bhikṣū u(pa)grāyanti vā pānīyam vā pibanti hastāni okaḍhiya āsanti tato  
-yadi tāva saṃghasthaviro na pratibalo bhavati / dvitīyasthavireṇa  
-jānita(7a3)vyaṃ kimāraṃbaṇaṃ / eva(ta)ṃ bhaktaṃ jātakaṃ mṛtakaṃ  
-vevāhikaṃ gharapraveśakaṃ āgantukasya gamikasya gṛhasthasya  
-pravrajitasyeti / yathā bhavati / tathā dakṣiṇā ādiśitavyā / yathā  
-prathamake śikṣāpade evaṃ dvitīyasthavireṇa bhaktāgre  
-pratipadi(dyi)tavyaṃ / tathā yeca(va) dakṣiṇā ādiśitavyā / yā(yo) tato  
-āgantavyaṃ / evaṃ dvitī-yasthavireṇa bhaktāgre pratipadyitavyaṃ, / (7a4) na  
-pratipadyati / abhisamācārikān dharmmān atikramati // * //  
-  
-(I.p.60)   
-     I.6       Ms.7a4            (J.28.1);       Ch.501c4   
-     (J.28) bhagavān śrāvastyām viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā saṃghasya dāni bāhirakaṃ bhaktaṃ / āyuṣman  
-nandano saṃghasthaviro āyuṣmān upanandano dvitīyasthaviro  
-saṃghasthaviro āgato dvitīyasthaviro āgato bhikṣū osarantikāye  
-āgacchanti / dāyakadā(7a5)napati pṛcchanti / ārya kiṃ samagro  
-bhikṣusaṃgho bhikṣu āhaṃsu / nohetaṃ dīrghāyu ko dāni nāgacchati  
-bhikṣū āhaṃsu / osarantikāye āgacchanti / te dāni odhyāyanti / vayam eva  
-tāva karmmāntāṃ cchoraya āgatā gacchāmaḥ samagraṃ bhikṣusaṃghaṃ  
-pariviśiṣyāmaḥ / āryamiśrāṇāṃ ca pādāṃ vandiṣyāma nti(tti) / ime pi  
-āryamiśrā osarantikāye āgacchanti / saṃghastha(7a6)viro ca dvitīyasthaviro  
-ca odhyāyanti / asmākaṃ bhagavān daṇḍakarmman deti // imeṣāṃ  
-muktikā / etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu / bhagavān āha //  
-śabdāpayatha bhikṣūn / te dāni śabdāpitāḥ / bhagavān āha // satyaṃ  
-bhikṣavo evaṃ nāma saṃghasthavirasya bāhirakaṃ bhaktaṃ nandano  
-saṃghasthaviro upanandano dvitīyasthaviro āgato yūyaṃ osarantikāye  
-āgacchatha dāyaka(7a7)dānapati pṛcchanti / ārya kiṃ samagro bhikṣusaṃgho  
-nti(tti) / bhikṣū āhaṃsu nohīdaṃ dīrghāyu ko dāni na(nā)gacchati bhikṣū  
-osarantikāye āgacchanti / te dāni odhyāyanti vayam eva tāva karmmāntā  
-cchoriya āgatā gacchāma / samagraṃ bhikṣusaṃghaṃ pariviśiṣyāma nti(tti) /  
-āryamiśrāṇāñ ca pādam vandiṣyāma nti(tti) / ime pi āryamiśrā (J.29)  
-osarantikāye āgacchanti / saṃghasthaviro ca / dvitīyasthaviro ca  
-odhyā(7b1)yanti / asmākaṃ bhagavān daṇḍakarmman deti / imeṣāṃ  
-mottikā āhaṃsu / āma bhagavan   
-     bhagavān āha / tena hi sarvvehi evaṃ bhaktāgre pratipadyitavyaṃ / kin ti  
-dāni evaṃ sarvvehi bhaktāgre pratipadyitavyaṃ / eṣo dāni koci saṃghaṃ  
-bhakta(ktena) nimantreti / saṃghasthaviro na pratibalo bhavati  
-dvitīyasthaviro na pratibalo bhavati / yo tatra pratibalo bhavati / tena  
-jānitavyaṃ / ko yaṃ ni(7b2)mantreti bhikṣubhikṣuṇī upāsaka-upāsikā  
-gṛhastho pravrajito vāṇijako sārthavāho āgantuko gamiko nāpi kṣamati /  
-gatāgatasya adhivāsituṃ // atha khalu pṛcchitavyaṃ / kin nāmako si kiṃ  
-gotrako si kiṃ karmmikā te (I.p.61) mātāpitarau / katame deśe gṛhaṃ kuto  
-mukhaṃ katamāye rathyāye kuto mukhaṃ gṛhasya dvaraṃ sākāraṃ  
-soddeśaṃ pṛcchiyāṇaṃ / tato dhivāsayitavyaṃ nāpi dā(7b3)ni kṣamati /  
-adhivāsitaṃ mayeti / tatrollagikāye āsituṃ /  
-     atha khalu yadi tāva saṃghasthaviro na pratibalo bhavati / dvitīyasthaviro  
-na pratibalo bhavati yo pratibalas tena prakṛtyeva māsacāriko vā  
-pakṣacāriko vā preṣayitavyo / anekāye tahiṃ jātakaṃ mṛtakam vā bhaveya  
-rājabhayaṃ vā corabhayam vā ḍhossabhayam vā vātaputrabhayam vā  
-viheṭhanā(7b4)bhiprāyā nimantrayeṃsu // tena gacchiyāṇa tahiṃ gṛhaṃ  
-pṛcchitavyaṃ / koci ima(ṃ)hi evannāmako upāsako dānapatī vā vāṇijakā  
-(J.30) vā ti kim vā etat ti vaktavyaṃ bhikṣusaṃgho tena bhaktena nimantrito  
-yadi tāva āhaṃsu nāsti koci imaṃhi evaṃnāmako kiḥsa upāsako / kasya  
-bhaktaṃ kathaṃ bhaktaṃ ti jānitavyaṃ / vipralabdho bhikṣusaṃgho tti tato  
-āgacchiya yadi tāva (7b5) anugraho bhavati sādhayitavyo anugraho na  
-bhavati / bhaktakāni bhavanti bhaktakāni uddiśitavyāni / atha dāni  
-bhaktakāni na bhavanti / raṇaraṇāya gaṇḍiṃ āhaṇiya yāva sarvvehi  
-paṭipāṭikāye pātrāṇi gṛhniya praviśitavyaṃ piṇḍapātaṃ / atha dāni te  
-jalpanti bhante eva(ta)ṃ sidhyati / etaṃ pacyati / yāvat pātrāṇi gṛhniya  
-praviśitavyaṃ / yadi tāva hemantakālo bhavati / a(7b6)nukarṇṇa(lla)ṃ  
-praviśitavyaṃ / laghuṃ kālo atikrāmati //  
-     atha dāni grīṣmakālo bhavati anukālaṃ uṣṇaṃśaṃkena praviśitavyaṃ /  
-varṣārātro bhavati devāntareṇa anukarṇṇa(lla)aṃ praviśitavyaṃ / tato na  
-kṣamati / bhaṇḍam vā laṃghayatena praviśituṃ bhājanam vā  
-laṃghayantehi / praviśituṃ dārakadārikā laṃghayantehi praviśituṃ / atha  
-khalu bhaṇḍaṃ pariharantehi dārakadārikāṃ pariharantehi praviśitavyaṃ  
-ta(7b7)to nāpi kṣamati / praviṣṭehi gatāgatasya upaviśituṃ / anekāye tahiṃ  
-āsanehi garbharūpā sovāpitāni bhaveṃsu // bhājanakāni vā thapitakāni  
-bhaveṃsuḥ / atha khalu hastena pratyavekṣiyāṇa ānantariyāṇāṃ āsanāni  
-varjayantehi / yathāvṛddhikāye upaviśitavyaṃ /   
-     tato yadi tāva hemantakālo bhavati / (J.31) laghu kālo atikramati / (I.p.62)  
-oheyyaglānakānāṃ piṇḍapā[to] ++[pa]yitavyo / a(8a1)tha dāni  
-dāyakadānapati jalpanti / bhante oheyyaglānakānāṃ paṭipāṭikāyo  
-piṇḍapātaṃ gṛhnatheti vaktavyaṃ / nahīti / laghu kālo atikramati /  
-bhagavatā ca anekaparyāyeṇa glāṇo parindito kiṃ ambhehi śakyam  
-vihārako śūnyako kartun ti / atha dāni grīṣmo vā varṣārātro vā kālo  
-bhavati / na lahuṃ kālo atikramati / oheyyaglānakānāṃ paṭipāṭikāye  
-piṇḍapāto [gṛhnitavyo] na kṣamati la(8a2)bdhālabdhaṃ hantahantāye  
-bhuñjiya labdho piṇḍo dvāraṃ paśyiya utthiya gantuṃ / atha khalu yadi tāva  
-saṃghasthaviro na pratibalo bhavati dvitīyasthaviro na pratibalo bhavati / yo  
-tatra pratibalo bhavati / tena odanasaṃpattī vā āgametavyaṃ  
-vyañjanasampattī vā āgamaṃtena bhuñjitavyaṃ / tena dakṣiṇā ādiśitavyā /  
-jānitavyaṃ kim ālambanaṃ / etaṃ bhaktaṃ jātakaṃ mṛtakaṃ [vevā]hikaṃ vā  
-gharapra(8a3)veśikaṃ vā āgantukasya gamikasya gṛhasthasya pravrajitasyeti /  
-     tato yadi tāva jātakaṃ bhavati nāyaṃ dakṣiṇā ādiśitavyā /  
-              (J.32) (ayaṃ) kumāro si/vapasi(thi)kā(ya) ccho(ccha)(ndi)to   
-              aṅguṣṭhasneha(he)na yāpayati / saptarātraṃ   
-              śunakhā śṛgā(lā) ce(ca) naṃ laṃghayantaṃ /  
-              kāko ca se akṣimalaṃ harantaṃ ti   
-     nāyaṃ evaṃ dakṣiṇā ādiśitavyā /  
-  
-     atha khalu dakṣiṇā ādiśitavyā /  
-              ayaṃ kumāro śaraṇaṃ upetu (8a4)   
-              buddhaṃ vipaśyiñ ca śikhiñ ca viśvabhuva /  
-              krakucchando ca kanakamuniñ ca kāśyapaṃ   
-              mahāmuniṃ śākyamuniṃ ca gotamaṃ //  
-              etehi buddhehi maharddhikehi   
-              ye devatā santi abhiprasannāḥ /  
-     (I.p.63)       tā naṃ rakṣantu (tā ca naṃ pālayantu)   
-              yathā icchati se mātā / yathā icchati se mā(pi)tā   
-              ato śreyataro bhavaṃtu kumāro kulavarddhano   
-     (J.33) evaṃ dakṣiṇā ādiśitavyā /   
-     tathā yeva dakṣiṇāyo vistareṇa karttavyāyo yathā (8a5) saṃghasthavirasya  
-bhaktāgre evaṃ sarvvehi bhaktāgre pratipadyitavyaṃ / na pratipadyaṃti //  
-asi(bhisa)mācārikāṃ dharmmāṃ atikrāmati // * //  
-  
-     I.7       Ms.8a5       (J. 33.5);       Ch.501c14   
-     bhagavān śrāvastyāṃ viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā / te dāni āyuṣmanto nandanopanandanā  
-ṣaḍvarggikāś ca upasaṃpādenti / te dāni upasaṃpādiya na ovadanti / na  
-anuśāsanti / te dāni indra(8a6)gavā viya varddhayanti / śivacchagalā  
-dhipa(viya) varcati(ddhayanti) / anākalpasampannāḥ /  
-anīryāpathasampannāḥ / na jānanti / katham upādhyāye  
-pratipadyitavyaṃ, / katham ācārye pratipadyitavyaṃ / kathaṃ vṛddhatarake  
-pratipadyitavyaṃ / kathaṃ saṃghamadhye pratipadyitavyaṃ / kathaṃ grāme  
-pratipattavyaṃ / kathaṃ āraṇye pratipattavyaṃ / kathaṃ nivāsayitavyaṃ /  
-kathaṃ prāvaritavyaṃ / kathaṃ saṃghāṭīpātracīvaradhāraṇe  
-pratipadyitavyaṃ // (8a7) etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu  
-bhagavān āha / śabdāpayatha nandanopanandanāṃ / ṣaḍvarggikāṃś ca / te  
-dāni śabdāpitā / bhagavān āha // evaṃ nāma yūyaṃ upasaṃpādetha /  
-upasaṃpādiya na ovadatha na anuśāsayatha nti(tti) / tad evaṃ sarvvaṃ  
-bhagavān vistareṇa pratyārocayati / yāva (J.34) kathaṃ  
-saṃghāṭīpātracīvaradhāraṇe pratipadyitavyaṃ / āhaṃsu / āma bhagavan   
-     bhagavān āha / evaṃ (8b1) dāṇi yūyaṃ upasaṃpādiya naivovadatha  
-nānuśāsatha tena hi evaṃ upādhyāyena śrā(sār)ddhavihāresmiṃ  
-pratipadyitavyaṃ / kin ti dāni upādhyāyena śra(sār)ddhevihāresmiṃ  
-pratipadyitavyaṃ / upādhyāyena tāva śrā(sār)ddhevihāriṃ  
-upasaṃpādetukenaiva ubhayato vinayo grāhayitavyo ubhayato vinayaṃ na  
-pārayati ekato vinayo (I.p.64) grāhayitavyo / ekato vinayaṃ na pārayati /  
-pañcasūtrāṇi vista(8b2)reṇa grāhayitavyo pañcasūtrāṇi na pārayati catvāri  
-dhā(vā) trīṇi duve ekaṃ sūtraṃ vistareṇa grāhayitavyo / ekaṃ sūtraṃ na  
-pāreti triṃśato pi grāhayitavyo / śiṣṭakaṃ abhīkṣṇa(śruti)kāyo gāthāyo ca  
-triṃśato pi na pāreti dve aniyatāṃ grāhayitavyo / śiṣṭakaṃ  
-abhīkṣṇaśrutikāyo gāthāyo ca dve aniyatā na pārenti / antamasato catvāri  
-pārājikāṃ grāhayitavyo śiṣṭakaṃ abhīkṣṇaṃśrutikāyo gā(8b3)thāyo ca  
-śekhayitavyo / anuśāsayitavyo kālyaṃ madhyantikaṃ sāyaṃ sāyaṃ  
-abhidharmmeṇa vā abhivinayena vā abhidharmmo nāma navavidho  
-sūtrānto sūtraṃ geyaṃ vyākaraṇaṃ gāthā udānaṃ itivṛttakaṃ jātakaṃ  
-vaipulyādbhutādharmmā / abhivinayo nāma prātimokṣo  
-saṃkṣiptavistaraprabhedena / atha dāni na pratibalo bhavati / uddiśituṃ, /  
-āpattikauśalyaṃ śi(8b4)kṣitavyo / sūtrakauśalyaṃ skandhakauśalyaṃ  
-āyatana(J.35)kauśalyaṃ pratītyasamutpādakauśalyaṃ /  
-sthānāsthānakauśalyaṃ ācāraṃ śekhayitavyo / anācārato cā(vā)rayitavyo /  
-atha dāni ovadati / so eva tasya ovādo evaṃ svādhyāyati / araṇye vasati /  
-prahāṇe upaviśati / so evāsya ovādo upādhyāyo śra(sār)ddhevihāri  
-upasaṃpādiya na ova(8b5)dati / na anuśāsati / na uddiśati / na  
-svādhyāyati / na araṇye vasati / na prahāṇe upaviśati / antamasato  
-vaktavyo / apramādena saṃpādehīti / na ovadati vinayāti(kra)maṃ  
-āsādayati / evam upādhyāyena śra(sār)ddhevihārismiṃ pratipadyitavyaṃ /  
-na pratipadyati / abhisamācārikān dharmmān atikramati // * //  
-     I.8       Ms.8b5       (J.35. 9);       Ch.502a2   
-     bhagavān śrāvastyām viharati / śāstā devā(8b6)nāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā te dāni bhikṣū upasaṃpādenti / te dāni  
-upasaṃpāditāḥ / upādhyāyasya na allimya(yya)ṃti / te dāni bhikṣū  
-odhyāyanti / asmākaṃ bhagavān daṇḍakarmman deti / imeṣāṃ muktikā /  
-kathaṃ ambhehi ovavaditavyāḥ / anuśāsitavyāḥ / ye ime asmākaṃ na  
-ava(naiva a)llīyaṃti / na pratyālīyaṃti / etaṃ prakaraṇaṃ bhikṣū bhagavato  
-āroca[yeṃsu /]   
-     bhagavān āha / te(8b7)na hi evaṃ sārddhevihāriṇā upādhyāye  
-pratipadyitavyaṃ // kin ti dāni evaṃ sārddhevihāriṇā upādhyāye  
-pratipadyitavyaṃ / sāve(rddhe)vihāriṇā nā(tā)va kalyata eva (J.36)  
-utthaṃtena upādhyāyasya (I.p.65) vihārasya dvāraṃ ākoṭayitavyaṃ yaṃ  
-kālaṃ abhyanujñā dinnā bhavati / tato dvāraṃ sukhākaṃ apaduriyāṇa tato  
-prathamaṃ dakṣiṇo pādo praveśitavyo paścā vāmo praveśaya vanditvā  
-sukhaśayitaṃ / pṛcchitavyo u(9a1)ddiśitvā pratipṛcchitvā  
-khe(ṭa)kaṭa(ṭā)hako nikkālayitavyo prasrāvakumbhikā nikkālayitavyā  
-pīṭhikā prajñapayitavyā / hemantakālo bhavati mandamukhi  
-prajvālayitavyā / mukhodakaṃ dāpayitavyaṃ / dantakāṣṭhaṃ dhoviya  
-upanāmayitavyaṃ / su(mu)khodakam āsiñcitavyaṃ / hastāṃ nirmmādiya  
-hastanirmmādanaṃ dātavyaṃ / peyā ukkaḍhitavyā / peyā peyiṃtā  
-pe(ya)pātraṃ śodhitavyaṃ / śo[dhitvā] bha[ktu]ddeśāto (9a2) bhaktakaṃ  
-grahetavyaṃ / bhaktavisarggo karttavyo pātraṃ nirmmāpayitavyaṃ / pātraṃ  
-pratiśāmayitavyaṃ /  
-     gocaraṃ praviśantasya grāmapraveśanikāni cīvarāṇi upanāmayitavyāni /  
-vihāracaraṇakāni cīvarāṇi pratiśāmayitavyāni / ātmano cīvarakaṃ  
-gṛhniya pṛṣṭhato nugantavyaṃ / nāpi dāni khurākhuraṃ / atha khalu  
-nātyāsanne (J.37) nātidūre tena dāni gocarāto nirggatasya upādhyāyasya  
-cīvarāṇi praspho(9a3)ṭiya sāhariya pratisāmayitavyāni / ātmano skandhe  
-dapi(yi)ya śīrṣaṃ onāmiya purato gantavyaṃ / vihāraṃ āgacchiyāṇa  
-pīṭhikā prajñapayitavyā grāmapraveśanikāni cīvarāṇi ekānte  
-sthapetavyāni / vihāracaraṇakāni cīvarāṇi upanāmayitavyāni / pādodakaṃ  
-upanāmayitavyaṃ / pādataṭṭhakaṃ upanāmayitavyaṃ / pādā  
-dhopayitavyā / uṣṇaṃ bhavati snāpetavyo (9a4) śītaṃ bhavati /  
-mandamukhī prajvālayitavyā /  
-     yadi piṇḍacāro aṇṭhito bhavati / upanāmayitavyo / nānānāvarṇṇitaṃ  
-bhavati pṛcchitavyo suvihita kuto idaṃ labdhaṃ asukāto veśikakulāto vaḍaṃ  
-vidhavāye sthūlakumārīye paṇḍakasya asukāye bhikṣuṇīye  
-uśśakiyapariśaṅkiyāṇi kulāni vyapadiśati / vāretavyo vaktavyo mā tahiṃ  
-gaccha / atha dān āha / asu(9a5)kesmi kule buddhavacanaṃ jalpitaṃ / tato  
-labdhaṃ / vaktavyaṃ kārehi dhūmaṃ mā ca puno āmiṣacakṣu deśesi hastān  
-nirmmādiya (I.p.66) hastanirmmādanaṃ dātavyaṃ / piṇḍapāto ukkaḍhitavyo  
-piṇḍapāta upanāmayitavyo bhuñjantasya pānīyaṃ cāritavyaṃ / vījanavāto  
-dātavyo bhaktavisarggo va(ka)rttavyo bhuktāviśya pātraṃ apakarṣitavyaṃ /  
-apakkā ca bhājanaṃ bhaktopadhānaṃ śa(9a6)yyāsanaṃ (J.38)  
-pratiśāmetavyaṃ / cīvarāṇi pātraṃ śodhetavyaṃ / pātraṃ pratisāmetavyaṃ /  
-vihārako siñcitavyo sanmārjitavyo kālena kālaṃ gomayakārṣī dātavyā /  
-śayyāśanaṃ prasphoṭayitavyaṃ / cīvarāṇi dhovetavyāni / siñcitavyāni /  
-raṃjitavyāni pātraṃ dahitavyaṃ / rañjitavyaṃ / divāvihāraṃ gacchantasya  
-pīṭhikā nayitavyā niṣīdanaṃ nayitavyaṃ / pustako nayitavyo kuṇḍikā  
-nayitavyā / udde(9a7)śaṃ gṛhniya ekamante svādhyāyatena āsitavyaṃ / atha  
-dāni divāvihāraṃ gantukāmo bhavati āpṛcchiā(ya) gantavyaṃ / yadi dāni  
-tahiṃ kenaci saha svādhyāyatukāmo bhavati / āpṛcchitavyaṃ / vaktavyaṃ /  
-karomi amukena saha svādhyāyan ti / tena dāni jānitavyaṃ / yadi so  
-bhavati śaithaliko vā bāhuliko vā / āvaḍḍhako vā asikṣākāmo  
-vaktavyaṃ / māśrayo utpadyeyā / atha dāni bhadrako bhava(9b1)ti /  
-guṇavāṃ śikṣākāmo vaktavyaṃ  / karohi divāvihārato āgacchantasya  
-pīṭhikā ānayitavyā / niṣīdanaṃ ānayitavyaṃ / pra(pu)stako ānayitavyo /  
-kuṇḍikā ānayitavyā / āgatasya samānasya hastanirmādanaṃ dātavyaṃ  
-puṣpāṇi dātavyāni cetipa(ya)ṃ ca(va)ndantasya pṛṣṭhato nugantavyaṃ /  
-pīṭhikā prajñapayitavyā / hemantakālo bhavati / mandamukhī  
-prajvālayitavyā / pādā dhovayitavyā / pādā mrakṣetavyo / śayyā  
-prajñāpayita/(9b2)vyā / yadi mahājaniko bhavati / antamasato hastena  
-samavadhānaṃ dhātavyaṃ / dīpo prajvālayitavyo / kheṭakaṭāhakaṃ (J.39)  
-upanāmayitavyaṃ / prasrāvakumbham upanāmayitavyaṃ / sukhaṃ  
-pratikramāpayitavyaṃ / uddiśitvā vā paripṛcchitvā vā yadi vihāro  
-prāpuṇati / āpṛcchitavyaṃ / amukaṃ vihāraṃ gṛhnāmi / atha dāni  
-dvitīyena saha prāpuṇati vihāraṃ upādhyāyena jānitavyaṃ / yadi so bhavati  
-śaithiliko (9b3) vā bāhuliko vā a(ā)vaḍḍhako vā (a)śikṣākāmo  
-vaktavyaṃ / mā gṛhna (I.p.67) mā saṃsarggadoṣo bhaviṣyatīti /   
-     atha dāni bhavati / bhadrako guṇavān śikṣākāmo vaktavyo gṛhna yāvan  
-na utthāpīyati sā eva me āpṛcchanikā atha dāni utthāpīyati pa(ya)ttikāṃ  
-vārāṃ āpṛcchitavyaṃ / yadi dāni tahiṃ kenacit saha svādhyāyatukāmo  
-bhavati / āpṛcchitavyaṃ / karomi amukena sārddhaṃ svādhyā(9b4)yaṃ /  
-upādhyāyena jānitavyaṃ / evaṃ śra(sār)ddhevihāriṇā upādhyāye  
-pratipadyitavyaṃ / na pratipadyate(ti) / abhisamācārikān dharmmān  
-atikrāmati // * //  
-  
-     I.9       Ms.9b4       (J.39.13);       Ch.502b13  
-     bhagavān śrāvastyām viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā te dāni āyuṣmanto nand(an)opanandano  
-ṣaḍvarggikā ca niśrayaṃ dapi(yi)ya naiva antevāsi ovadanti / na  
-anuśāsanti / te dāni indragavā viya (9b5) varddhanti śivacchagalā viya  
-varddhanti / anākalpasampannāḥ anīryāpathasaṃpannāḥ / na jānanti  
-katham upādhyāye pratipadyitavyaṃ / kathaṃ ācārye pratipadyitavyaṃ /  
-kathaṃ vṛddhatarakeṣu pratipadyitavyaṃ / (J.40) kathaṃ saṃghamadhye  
-pratipadyitavyaṃ / kathaṃ grāme pratipadyitavyaṃ, / kathaṃ araṇye  
-pratipadyitavyaṃ / kathaṃ nivāsayitavyaṃ / kathaṃ prāvaritavyaṃ / kathaṃ  
-saṃghāṭīpātracīvaradhāraṇe pratipadyitavyaṃ // (9b6) etaṃ prakaraṇaṃ  
-bhikṣū bhagavato ārocayeṃsu / bhagavān āha // śabdāpayatha  
-nand(an)opanandanāṃ ṣaḍvarggikānāṃ ca te dāni śabdāpitā /   
-     bhagavān āha / satyaṃ bhikṣavo nand(an)opanandanā ṣaḍvarggikāś ca  
-evan nāma yūyaṃ niśrayaṃ detha niśrayaṃ dadiyāṇa antevāsikāṃ na  
-ovadatha nānuśāsatha tad eva sarvvaṃ bhagavān vistareṇa pratyārocayati /  
-yāva kathaṃ saṃghāṭīpātracīvaradhāraṇe pratipadyitavyaṃ / āhaṃ(9b7)su /  
-āma bhagavan bhagavān āha / evaṃ ca yūyaṃ niśrayaṃ dadiyaṃ  
-antevāsikāṃ naiva ovadatha nānuśāsatha / tena hi evaṃ ācāryeṇa  
-antevāsikasmiṃ pratipadyitavyaṃ / kin ti dāni ācāryeṇa antevāsikasmiṃ  
-pratipadyitavyaṃ / ācāryeṇa tāva niśrayaṃ dentena antevāsi ubhayato  
-vinayaṃ grāhayitavyo / ubhayato pi vinayaṃ na pāreti / ekato vinayato  
-grāhayitavyo / ekato vinayaṃ (I.p.68) na pāre(10a1)ti pañcasūtrāṇi vistareṇa  
-grāhayitavyo / pañcasūtrāṇi na pāreti catvāri trīṇi dve ekaṃ sūtraṃ  
-vistareṇa grāhayitavyo / ekaṃ sūtraṃ na pāreti / dvānavatīto grāhayitavyo  
-dvānavatīto na śaknoti triṃśatito grāhayitavyo śiṣṭakaṃ  
-abhīkṣṇaśrutikāyo gāthāyo ca triṃśatito na pāreti dve aniyatāṃ  
-grāhayitavyo śiṣṭakaṃ abhīkṣṇaśrutikāye gāthāyo ca / dve aniyatā na  
-pāreti / anta(10a2)masato catvāri pārājikāṃ grāhayitavyo śiṣṭakaṃ  
-abhīkṣṇaśrutikāye gāthāyo va(ca) śekhayitavyo / dhātukauśalyaṃ (J.41)  
-skandhakauśalyaṃ āyatanakauśalyaṃ pratītyasamutpādakauśalyaṃ ācāraṃ  
-śekhayitavyo / anācārato dhā(vā)rayitavyo / eṣo ācāryo niśrayaṃ dadiya  
-antevāsi naiva ovadati / nānuśāsati / vinayātikramam āsādayati / evam  
-ācāryeṇa antevāsismiṃ pratipa(10a3)dyitavyaṃ / na pratipadyati /  
-abhisamācārikān dharmmān ātikramati // * //  
-  
-     I.10 Ms.10a3       (J.41:6);       Ch.502b16  
-     bhagavān śrāvastyām viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā te dāni bhikṣū niśrayan deṃti te antevāsikā  
-ācārikasya niśrayaṃ gṛhniya naiva allīyanti / na pratyallīyanti te dāni  
-bhikṣū odhyāyanti / asmākaṃ bhagavā(n) daṇḍakarmman deti / imeṣāṃ  
-muktikā yā (10a4) dāni asmākaṃ (naiva) allīyanti na pratyalīyanti / kathaṃ  
-ime ambhehi ovaditavyāḥ / anuśāsitavyāḥ / etaṃ prakaraṇaṃ bhikṣū  
-bhagavato ārocayeṃsu / bhagavān āha / śabdāpayatha bhikṣūna te dāni  
-śabdāpitāḥ /   
-     bhagavān āha / tena hi evaṃ antevāsinā ācārye pratipadyitavyaṃ /  
-antevāsinā tāva kalpa(ya)to yeva utthatta(nta)kena evaṃ ācāryasya vihārasya  
-dvā(10a5)raṃ ākoṭayitavyaṃ / yaṃ kālaṃ abhyanujñā dinnā bhavati /  
-dvāraṃ sukhākaṃ apaduriyāṇaṃ prathamaṃ dakṣiṇo pādo praveśayitavyo /  
-paścād vāmaṃ pādaṃ praveśayāṇa ācāryasya sukharātri   
-  
-     (I.p.69) pṛcchitavyā / kheṭakaṭāhaṃ (J.42) niṣkāśayitavyāṃ(vyaṃ / ) yāvat  
-pādodakaṃ dāpayitavyaṃ / pādodakaṃ upanāmayitavyaṃ / pādataṭṭhakaṃ  
-upanāmayitavyaṃ / pādā dhovayitavyā / pādā mra(10a6)kṣayitavyā /  
-kheṭakaṭāhakaṃ praveśayitavyaṃ / prasrāvakumbhikā praveśayitavyā /  
-dīpako prajvālayitavyo / śayyā prajñapayitavyā / evaṃ aparaṃ divasaṃ  
-prasrāvakumbhikā niṣkāśayitavyā / tad eva sarvvaṃ navakaparicaryā  
-karttavyā / vistareṇa yathā śra(sār)ddhevihārisya yāva dīpaṃ ādīpiya  
-śayyāṃ prajñapiya sukhaṃ pratikrāmayitavyo / evaṃ antevāsinā ācārye  
-pratipadyita(10a7)vyaṃ / na pratipadyati abhisamācārikān dharmmān  
-atikramati // * //  
-  
-     uddānaṃ //  
-              evaṃ saṃghasthavireṇa poṣadhe pratipadyitavyaṃ, /  
-              evaṃ dvitīyasthavireṇa poṣadhe pratipadyitavyaṃ /  
-              evaṃ sarvvehi poṣadhe pratipadyitavyaṃ /  
-              evaṃ saṃghasthavireṇa bhaktāgre pratipadyitavyaṃ /  
-              evaṃ dvitīyasthavireṇa bhaktāgre pratipadyitavyaṃ /  
-              evaṃ sarvvehi bhaktāgre pratipadyitavyaṃ /  
-              evaṃ upādhyāye(10b1)na śra(sār)ddhevihārismiṃ pratipadyitavyaṃ /   
-              (J.43) evaṃ śra(sār)ddhevihāriṇā upādhyāye pratipadyitavyaṃ /  
-              evaṃ ācāryeṇa antevāsismiṃ pratipadyitavyaṃ /  
-              evaṃ antevāsinā ācārye pratipadyitavyaṃ // * //  
-  
-     (I.p.70) II.1      Ms.10b1      (J. 44.1);       Ch.502b25  
-     bhagavān śrāvastyām viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā pañcārthavaśāṃ saṃpaśyamānās tathāgatā  
-arhantaḥ samyaksambuddhāḥ / pañcāhikāṃ vihā(10b2)racārikām  
-anucaṃkramanti / anuvicaranti / katamāṃ pañca kaccim me śrāvakāḥ na  
-karmmārāmā na karmmaratāḥ / na karmmārāmatānuyogam anuyuktā  
-viharanti / na bhāṣyārāmāḥ na bhāṣyaratāḥ / na bhāṣyārāmatānuyogam  
-anuyuktā viharanti / na nidrārāmāḥ na nidrāratāḥ / na  
-nidrārāmatānuyogam anuyuktā viharanti / glānakānāñ ca bhikṣūṇāṃ  
-anukampārthaṃ ye te (10b3) śrāddhāḥ kulaputrāḥ (tathāgatam evoddiśya)  
-śraddhayād āgārād anagārikāṃ pravrajitāḥ / te ca tathāgataṃ dṛṣṭvā  
-atīva udārāṇi prītiprāmodyāni pratilabhiṣyanti / imā(ṃ pa)ñcārthavaśāna  
-saṃpaśyamānās tathāgatā arhantaḥ samyaksaṃbuddhāḥ paṃcāhikāṃ  
-vihāracārikām anucaṃkramanti / anuvicaranti / adrākṣīd bhagavāṃ  
-pañcāhikāṃ vihāracārikām anucaṃkramanto anuvi(10b4)caranto śayyāsanaṃ  
-ujjhitaprakīrṇṇaṃ utpādakaṃ (J.45) u(du)tthitakaṃ vātātapena vināśiyantaṃ  
-varṣeṇa ovarṣiyantaṃ prāṇakehi khajjantaṃ pakṣihi ohayiyantaṃ  
-omayilamayilaṃ pāṭitavipāṭitaṃ / ātape dinnaṃ bhagavāṃ jānanto yyeva  
-bhikṣūṃ pṛcchati kasyemaṃ bhikṣavo śayyāsanaṃ ujjhitaprakīrṇṇaṃ  
-peyālaṃ // yāva omayilamayilaṃ pāṭitavipāṭitaṃ / ātape dinnaṃ āhaṃsu /  
-etaṃ (10b5) bhagavaṃ sāṃghikaṃ /   
-     bhagavān āha / evaṃ ca yūyaṃ apratyāstaraṇakā śayyāsanaṃ  
-paribhuṃjatha / tena hi evaṃ śayyāsane pratipadyitavyaṃ / kin ti dāni (evaṃ)  
-śayyāsane pratipadyitavyaṃ / na dāni kṣamati sāṃghikaṃ śayyāsanaṃ  
-adhyupekṣituṃ / utpādakam vā u(du)tthitakam vā prāṇakehi vā khajjantaṃ  
-varṣeṇa (vā) ovarṣaparyantam vātātapena vā vināśiyantaṃ pakṣīhi  
-thā(vā) oh(ay)iyantaṃ / atha khalu yadi tā(10b6)va ujjhitaprakīrṇṇaṃ  
-bhavati / sāharitvā ekānte sthāpayitavyaṃ / utpādakaṃ bhavati / sam(aṃ  
-(I.p.71) th)āpetavyaṃ / varṣeṇa ovarṣīyati vātātapena cā(vā) vināśīyati /  
-cchanne praviśayitavyaṃ / prāṇakehi khādyati / pakṣīhi ohapi(yi)yante  
-prasphoṭiyāna cchanne praveśayitavyaṃ / na dāni vihāro adhyupekṣitavyo /  
-oddirṇṇako praluggako acaukṣo vā apratisaṃskṛto vā // atha khalu yadi  
-tāva tṛṇacchadano bhavati / tṛ(10b7)ṇapūlako dātavyo / apakkacchadano  
-bhavati / apakkā dātavyā / (J.46) kabhallacchadano bhavati kabhallikā  
-dātavyā / sudhāmṛttikācchadano bhavati mṛtpiṇḍo dātavyo / varṣāya  
-ovṛṣṭo bhavati vikha(cikkha)llikā opūre(ta)vyā vaṃghorikā dātavyā  
-gomayaśāṭo dātavyo na dāni kṣamati / sāṃghikaṃ śayyāsanaṃ evam eva  
-paribhuñjitaṃ(tuṃ) / apratyāstaraṇaṃ vā tṛṇaṃ vā tṛṇaṃ vā antarākṛtvā  
-leṅkaṭakaṃ vā atha khalu pra(11a1)tyāstaraṇaṃ karttavyaṃ / nāpi kṣamati  
-kalpaṃ karttuṃ / paṭikām vā loḍḍhakam vā pratyāstaraṇaṃ karttuṃ / atha  
-khalu dviguṇitā nāma karttavyā viśiṣṭā mañcāto vā yadi tāva  
-kambalasya bhavati / ekapuṭaṃ vā dvipuṭam vā karttavyaṃ / atha dāni  
-karpāsasya bhavati dvipuṭā vā tripuṭā vā karttavyo samantena sūtreṇa  
-śiviyāṇaṃ / tato madhyeṇa dīrghasūtrāṇi dātavyāni tato na kṣamati /  
-śayyāsanaṃ omayilomayilaṃ vā pāṭitavipāṭitam vā adhyu(11a2)pekṣituṃ /  
-atha khalu kālena kālaṃ bodhi(dhovi)tavyaṃ / kālena kālaṃ śiṃcitavyaṃ /  
-kālena kālaṃ ātape dātavyaṃ / na kṣamati sāṃghikena śayyāsanena  
-prāvṛtena bhaktāgre vā tarpaṇāgre vā sāmāyikam vā upaviśituṃ / na  
-kṣamati śayyāsanaṃ sāṃghikaṃ prāvariyaṃ dīrghaca(ṃ)kramaṃ  
-caṃkramituṃ // atha dāni bhikṣuḥ śirāviddhako vā bhavati virecanapītako  
-vā glānako vā bhavati vastrapuggalikaṃ antarīkaraṇaṃ dadi(11a3)ya  
-caṃkramati / anāpattiḥ / nāpi kṣamati sāṃghikaṃ śayyāsanaṃ  
-paudgalikaparibhogena paribhuñjituṃ / atha khalu sāṃghikaṃ śayyāsanaṃ  
-prajñapayitavyaṃ / (J.47) pratyāstaraṇaṃ dadiya tato paribhuñjitavyaṃ / atha  
-dāni sāṃghikaṃ śayanāsanaṃ mahantaṃ bhavati / uparito bhuṃjitavyaṃ  
-(I.p.72) yathā nāśaṃ na gacche / atha dāni hemantakālo bhavati sāṃghikaṃ  
-śayyāsanaṃ prāvariya śayati / (11a4) antarīkaraṇa(ṃ) dātavyaṃ / na deti  
-vinayātikramam āsādayati / evaṃ śayyāsanaṃ(ne) pratipadyitavyaṃ / na  
-pratipadyati / abhisamācārikān dharmmān atikramati // * //  
-  
-     II.2       Ms. 11a4       (J.47.6);       Ch.502c13  
-     bhagavān śrāvastyām viharati śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā te dāni bhikṣū upagacchanikā(yāṃ) kāle vihāran  
-na pratisaṃskarenti / pañcārthavaśāṃ saṃpaśyamānāṃs tathāgatā  
-arha(11a5)ntaḥ samyaksaṃbuddhāḥ pañcāhikāṃ vihāracārikām  
-anucaṃkramanti / anuvicaranti / katamāṃ pañca / kacci me śrāvakāḥ na  
-karmmārāmāḥ na karmmaratāḥ / na karmmārāmatā-anutyā(yo)gam  
-anuyuktā viharanti na bhāṣyārāmāḥ / na bhāṣyaratāḥ na  
-bhāṣyārāmatānuyogam anuyuktā viharanti / na nidrārāmāḥ na  
-nidrāratāḥ na nidrārāmatānuyogam anuyuktā viharanti /  
-glānakā(11a6)nāñ ca bhikṣūṇām anukampārthaṃ ye ca te śrāddhāḥ  
-kulaputrāḥ tathāgatam evoddiśya āgārād anagārikāṃ pravrajitāḥ / te ca  
-tathāgataṃ dṛṣṭvā atiri(tī)vodārāṇi prītiprāmodyāni pratilabhiṣyanti /  
-imāṃ pañca arthavaśāṃ saṃpaśyamānās tathāgatā arhantaḥ  
-samyaksambuddhāḥ pañcāhikāṃ vihāracārikāṃ anucaṃkramanti /  
-anuvicaranti / (J.48) adrākṣīd bhagavāṃ pañcāhikāṃ vihāracārikāṃ  
-anucaṃkramanto anuvi(11a7)caranto vihārakān ondri(ddri)nnakāṃ  
-praluggakāṃ acokṣāṃ apratisaṃskṛtāṃ śayyāsanaṃ ujjhitaprakīrṇṇe(rṇṇaṃ)  
-omayilemayilaṃ pāṭitavipāṭitaṃ mañcām pīṭhā(ṃ) ondri(ddri)ṇṇakāṃ  
-paluggakāṃ ucchi(dutthi)takāṃ vātātapena opūriyaṃtāṃ prāṇakehi  
-khajjantāṃ varye(ṣe)ṇa ovaryi(ṣi)yantāṃ kākaśakuntehi ohayiyantāṃ  
-bhagavān jānanto pṛcchati / kasyeme bhikṣavo vihārakā odriṇṇakā  
-paluggakā acaukṣā apratisaṃskṛtā śayyāsa(11b1)naṃ ujjhitaprakīrṇṇaṃ  
-omayilomayilaṃ pāṭitavipāṭitaṃ mañcā pīṭhā (I.p.73) ondri(ddri)ṇṇakā  
-paluggakāṃ u(du)tthitakāṃ vātātapena opūriyantāṃ prāṇakehi khajjantāṃ  
-varṣeṇa ovarṣiyantāṃ kākaśakuntehi ohayiyantāṃ bhikṣū āhaṃsu // imaṃ  
-bhagavan saṃghasya ye dharmmā(varṣā)ṃ upagacchiṣyanti / te  
-pratisaṃskariṣyanti /   
-     bhagavān āha / tena hi evaṃ varṣopanāyike śayyāsane pratipadyitavyaṃ /  
-kin ti dāni evaṃ varṣopanāmi(yi)ke śayyāsane pra(11b2)tipadyitavyaṃ / eṣā  
-dāni saṃghasya varṣopanāmi(yi)kā bhavati / prakṛtyaiva tāva  
-dāyakadānapati pratisaritavyā / tato vihārakā pratisaṃskarttavyāḥ / ye  
-vihārakā uddiṇṇakā paluggakā bhavanti / acokṣā vā apratisaṃskṛtā vā  
-bhavanti / (J.49) yadi tāva sudhācchadano bhavati / sudhāpiṇḍo dātavyo /  
-iṣṭakācchadano bhavati / iṣṭakā dātavyā / apakkācchadano bhavati /  
-apakkā dātavyā / kabhalla(11b3)cchadano bhavati / kabhallikā dātavyā /  
-tṛṇacchadano bhavati / tṛṇapūlako dātavyā / mañcā vā pīṭhā vā  
-ondri(ddri)ṇṇakā paluggakāṃ bhavanti / muṃjā karttitavyā / balbajā  
-karttitavyā mañcā dhra(bu)ṇitavyā uppādakā bhavanti sayeccha(maṃ  
-ttha)payitavyā / dutthapitā bhavanti / sutthapitā karttavyā / vātātapena  
-ota(pū)riyanti / kākaśakuntehi vā ohapi(yi)yanti / cchanne sthapitavyā /  
-evaṃ śayyāsanaṃ (11b4) bhavati / omayilamayilaṃ pāṭitavipāṭitaṃ dhoviya  
-sīvitavyaṃ / mṛttikāpiṇḍo dāpayitavyo / mūṣika-ucchi(kki)rā vā yāca(va)  
-vaṃghorikā pūretavyā / yaṃ tahiṃ pariveṇe bhavaṃti / bhaṇḍaṃ niyatakaṃ  
-sarvvaṃ samudānitavyaṃ /  
-     pañcehi aṅgehi samanvāgato bhikṣuḥ śayyāsanaprajñāpaka saṃmutīye  
-saṃmanyitavyo / katamehi pañcahi / yo na cchandāye na do(11b5)ṣāye na  
-mohāye na bhayāye prajñaptaṃ ca jānāti / imehi pañcahi / peyālaṃ, //  
-     (J.50) ka(r)mmaṃ kṛtvā yāva te dāni samantena āṣāḍhamāsaṃ śayyāsanaṃ  
-grāhetavyaṃ / vihārā pariveṇā agniśālā bhaktaśālā / upasthānaśālā /  
-dvārakoṣṭhako varccakuṭī udupāno jantāko caṃkramā vṛkṣamūlā  
-vihārakā (I.p.74) grāhayitavyā / asuke vihāre ettakā mañca(11b6)kā  
-pīṭhakā vā ettakaṃ āstaraṇaṃ ettakaṃ prāvaraṇaṃ tato likhitavyaṃ /  
-bhurjake phalake vā paṭṭikāyām vā / yadi tāva āraṇyakaṃ śayyāsanaṃ  
-bhavati / dūre dūro(re) pariveṇā bhava(ṃ)ti / trayodaśīyaṃ vā  
-cāturddaśīyaṃ vā tena śayyāsanoddeśo karttavyo / atha dāni grāmāntikaṃ  
-śayyāsanaṃ bhavati / āsanne āsanne pariveṇā bhavanti / cāturddaśīyam vā  
-pāñcadaśīyam vā śayyāsano(11b7)ddeśo karttavyo / taṃ likhitaṃ  
-saṃghasthavirasya allīpitavyaṃ / vaktavyaṃ / āyuṣman amuke vihārake  
-ettakā mañcā ettakā pīṭhāḥ / ettakaṃ āstaraṇaṃ ettakaṃ prāvaraṇaṃ  
-katamo tava vihārako rucyati / yo saṃghasthavirasya vihārako rucyati so  
-dātavyo / atha dāni saṃghasthaviro jalpati / vihāraṃ yūyaṃ (J.51) uddiśatha  
-varṣāvāsikaṃ samaṃ kariṣyāma nti(tti) / yaṃ saṃghasthaviro jalpati / tathā  
-karttavyaṃ, / (12a1) tato vihārakā uddiśitavyāḥ / vṛddhāntato prabhṛti  
-yāva avarya(ṣa)kaparyantaṃ na kṣamati / śrāmaṇerāṇāṃ vihāra(rā)  
-uddiśituṃ / atha dāni teṣāṃ upādhyāyācāryā jalpanti / uddiśatha yūyaṃ  
-eteṣāṃ vayaṃ pratisaṃskariṣyāma nti(tti) / tato śrāmaṇerakāṇāṃ pi  
-vihārakā uddiśitavyā / atha dāni bahuṃ bhavati / tato dvitīyakālikā  
-uddiśitavyā / atha dāni tahi(ṃ) koci bhavati / āṭakkarasiṃhanādiko (12a2)  
-paryāpto grīṣme śayyāsanaṃ uddiśitavyaṃ / guptyarthaṃ paribhogārthaṃ  
-utthiṣyaṃ utthāpayiṣyaṃ ko vihārako ti / vaktavyo na eṣo bhava kiñcita  
-bhogārthaṃ vadiṣanti ma pratisaṃskāraṇārthaṃ eṣo caṃ uddiśīyati / atha  
-dāni stokā vihārakā bhavanti / dviṇṇāṃ trayāṇāṃ (vā) janānāṃ eko  
-vihārako uddiśitavyo / atha dāni evaṃ pi stokā bhavanti / caturṇṇāṃ  
-pañcānām vā janānāṃ eko vihā(12a3)rako uddiśitavyo / atha dāni  
-ekavastukaṃ bhavati / bhikṣū ca bahu(hū) bhavaṃti / vṛddhānāñ ca mañcā  
-prajñāpayitavyāḥ / navakānāṃ pīṭhāḥ prajñāpayitavyāḥ / atha dāni evaṃ  
-pi stokaṃ bhavati / vṛddhānāṃ pīṭhāḥ prajñāpayitavyāḥ / navakānāṃ  
-saṃstaraṇā (J.52) (I.p.75) prajñāpayitavyāḥ / atha dāni evaṃ pi stokaṃ  
-bhavati / (atha dāni) alpo(lpā)vakāśo bhavati / vṛddhehi saṃstaraṇe  
-pratipa(12a4)dyitavyaṃ / navakehi paryana(ṅke) vītināmayitavyaṃ / atha  
-dāni evaṃ pi alpāvakāśo bhavati / vṛddhehi cchanne praviśitavyaṃ /  
-navakehi vṛkṣamūlehi caṃkramehi niṣadyāhi abhyavakāśe  
-vītināmayitavyaṃ / hemante śayyāsanaṃ uddiśitavyaṃ, / guptyarthaṃ  
-paribhogārthaṃ utthiṣyaṃ utthāpayiṣyaṃ varṣāsu śayyāsanaṃ uddiśitavyaṃ /  
-guptyarthaṃ paribhogārthaṃ utthā(12a5)syaṃ utthāpayitavyaṃ / nāpi kṣamati  
-śayyāsanaṃ adhyupekṣituṃ omayilomayilaṃ pāṭitavipāṭitaṃ mañcā vā  
-pīṭhā vā oddriṇṇakā vā paluggakā vā adhyupekṣituṃ / atha khalu  
-kālena kālaṃ śayyāsanaṃ sīvitavyaṃ / bodhi(dhovi)tavyaṃ / kālena kālaṃ  
-muñjā karttitavyā / balbajā karttitavyā / tato mañcā ca pīṭhā ca  
-bra(bu)ṇitavyā / evaṃ varṣopanāmi(yi)ke śayyāsane pratipa(12a6)dyitavyaṃ /  
-na pratipadyati / abhisamācārikān dharmmān atikramati // * //  
-  
-     II.3       Ms.12a6       (J.52.15);       Ch.503a24  
-     bhagavān śrāvastyām viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā yāva adrākṣīd bhagavāṃ pañcāhikāṃ  
-vihāracārikām anucaṃkramanto (J.53) anuvicaranto vihārakāṃ oddriṇṇakāṃ  
-paluggakāṃ ullāya gṛhītakāṃ acokṣāṃ apratisaṃskṛtāṃ udakasya pūrāṃ  
-udakabhramām aśodhi(ta)kāṃ dvārāhi (12a7) dvīpikāhi khajjanto mañcāṃ  
-pīṭhāṃ ondri(ddri)ṇṇakāṇāṃ paluggakāṃ u(du)tthitakāṃ varṣeṇa  
-(o)varṣiyantāṃ prāṇakehi khajjantāṃ bhagavāna jānanto pṛcchati / kiṃ  
-imaṃ bhikṣavo vihārakā ullaggakā ollāye gṛhītakāḥ / acaukṣā  
-apratisaṃskṛtā udakasya pūrāṃ udakabhramā aśodhitakā dvā(re)  
-dvīpikāhi khajjantā mañcā pīṭhā ondri(ddri)ṇṇakāṃ paluggakāṃ  
-utpādakāṃ u(du)tthitakāṃ varṣeṇa o(12b1)varṣiyantāṃ prāṇakehi  
-khajjantā(ṃ) bhikṣū āhaṃsuḥ / ye bhagavān (I.p.76) arṣāṃ vasiṣyanti te  
-pratisaṃskariṣyanti /  
-     bhagavān āha / tena hi evaṃ varṣopagatehi śayyāsane pratipadyitavyaṃ /  
-kin ti dāni evaṃ varṣopagatehi śayyāsane pratipadyitavyaṃ / ete dāni  
-bhikṣavo varṣopagatā bhavanti / tena hi vihārakā pratyavekṣitavyā / yadi  
-tāva ondri(ddri)ṇṇakā vā paluggakā vā bhavanti / yāvat mūṣikokkārā vā  
-cikkhallikā vā pra(12b2)tisaṃskārayitavyā / yadi tāva vihārako  
-sudhācchadano bhavati (sudhāpiṇḍo dātavyo) / iṣṭakācchadano bhavati /  
-iṣṭakā dātavyā / (J.54) apakvacchadano bhavati / apakvā dātavyā /  
-kabhallacchadano bhavati (kabhallikā dātavyā / tṛṇacchadano bhavati) /  
-tṛṇapūlako dātavyo / urṇṇā(llā)ye gṛhītako bhavati / piṇḍaṃ śāṭiya  
-mṛttikāye limpitavyo / mūṣa-ukkārā vilikhkhi(cikkhali)kā pūretavyā /  
-yadi tāva uppeḍanako vihārako bhavati / śakkāroṭena vā pūretavyā  
-u(a)pa(12b3)kvapāṃsukena vā / atha dāni uppaṃsulo bhavati / gomayakārṣī  
-dātavyā / udakabhramā vā / praṇālibhramā vā paripūritā bhavanti  
-śodhayitavyāḥ / muṇḍaharmmiyā pratisaṃskarttavyā / śayyāsanaṃ  
-omayilomayilaṃ bhavati / pāṭitavipāṭitaṃ dhovayitavyaṃ / rañjetavyaṃ /  
-mañcā vā pīṭhā vā bhagnakā bhavanti / chinnagaṇṭhikā karttavyā /  
-ondri(ddri)ṇṇakā vā paluggakā bhavanti / mu(12b4)ñjā karttitavyā / mañcā  
-bra(bu)ṇitavyā / pīṭhikā bra(bu)ṇitavyā / uppādakā bhavanti samaṃ  
-thāpeyitavyā / u(du)tthitakā bhavanti / sutthitā thapetavyā / vātātapena  
-opūriyanti / naivāte thapitavyāḥ / varṣeṇa ovarṣiyanti / cchanne  
-thapitavyā / prāṇakehi khajjanti cchandiyāṇaṃ pratipādikehi thapayitavyā /  
-nāpi kṣamati / śayyāsanaṃ adhyupekṣituṃ / omayilomayilaṃ vā  
-pāṭitavi(12b5)pāṭitaṃ vā // atha khalu kālena kālaṃ dhovitavyaṃ /  
-sīvayitavyaṃ / rañjiya(jayi)tavyaṃ / mañcā vā pīṭhā vā uppādakā  
-bhavanti / samāṃ thapitavyāḥ / dutthitā bhavanti / susthitā thapitavyāḥ /  
-ondri(ddri)ṇṇakā bhavanti / palugnakā vā muñjā karttitavyā / balbajā  
-karttitavyā / (J.55) mañcā buṇitavyāḥ / (I.p.77) pīṭhā buṇitavyāḥ /  
-pādakā u(du)tthitakā bhavanti / suthapitā karttavyāḥ / vihārakā kālena  
-(12b6) kālaṃ siñcitavyāḥ / saṃmārjitavyāḥ / gomayakārṣī dātavyāḥ /  
-udakabhramāḥ pranāḍikābhramā vā kālena kālaṃ śodhitavyāḥ / pañcāhe  
-pañcāhe śayyāsanaṃ pratyotāpetavyaṃ / mañcā vā pīṭhā vā anyāyataḥ  
-karttavyaṃ / vihāro omasvediko bhavati / mañco bhitti(to) mocetvā  
-pratipādikā dātavyāḥ / yathā prāṇakehi na khādyeyā santānikā  
-śāṭitavyo / anvarddhamāsaṃ gomayaśā(12b7)ṭo dātavyo / yadi tāva vihāro  
-ośa karoti odako dātavyo / atha dāni usvedako bhavati śuddhena gomayena  
-mardditavyaṃ / vihāro usvedako bhavati / na dāni tahiṃ kṣamati /  
-hastaśaucaṃ vā karttuṃ pādaśaucaṃ vā mukham vā dhoyi(vi)tuṃ / pādam  
-vā nirmmādayituṃ / nāpi dāni kṣamati / vihāro pitthitvā sthapituṃ / atha  
-khalu kālena kālaṃ apāvuritavyo yathā vātaṃ labheyyā (na) dhūpetavyo  
-ku(13a1)ṣṭhena bhurjena vā saktuhi vā evaṃ varṣopagatakehi (J.56)  
-śayyāsane pratipadyitavyaṃ / na pratipadyati // abhisamācārikān  
-dharmmān atikramati // * //  
-  
-     II.4       Ms.13a1       (J. 56.3);       Ch.503b10  
-     bhagavān śrāvastyāṃ viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā aparaṃ dāni āraṇyakaṃ śayyāsanaṃ himadoṣeṇa  
-cittaṃ na vasati / te dāni āraṇyakā vihāraṃ bāhiraṃ ghaṭṭiyaṃ kāriyāṇa  
-grāmantikaṃ śayyāsanaṃ okastāḥ so dāni vi(13a2)hārako vanadavena  
-āgacchiyāṇa dagdho / etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu   
-     bhagavān āha / tena hi evaṃ varṣavustehi śayyāsane pratipadyitavyaṃ / kin  
-ti dāni evaṃ varṣavustehi śayyāsane pratipadyitavyaṃ / etaṃ dāni āraṇyakaṃ  
-śayyāsanaṃ himadoṣeṇa ri(ci)ttaṃ na vasati / na kṣamati / āraṇyakehi  
-aśabdakarṇṇikāye grāmāntikaṃ / śayyāsanaṃ okkasituṃ / atha khalu  
-ucchā(13a3)hetavyā / tahi(ṃ) eko vā dvau vā trayo vā yāvatakā (I.p.78)  
-ucchahanti / yo pratibalo vastuṃ yadi utsahanti / teṣāṃ āhāreṇa  
-upastambhaṃ karttavyaṃ / yathā na vihanyeṃsu / atha dāni udvahanti /  
-āha / kiṃ vayaṃ parityaktāḥ / kissa (J.57) vayaṃ vasāmaḥ / yaṃ tahiṃ  
-śayyāsanaṃ bhavati kocavako vā ullīyo vā caturasrakā vā kumbhīyo vā  
-kaṭa(ṭā)hakāni vā sarvvaṃ grāmāntikaṃ, (13a4) śayyāsanaṃ otāretavyaṃ /  
-mañcā pīṭhā ullapitvā sthāpayitavyā / mañcā bhittiyo mocetvā  
-pratipādakā dātavyā / yathā prāṇakehi dīpikāhi vā na khajjeyā / nāpi  
-dāni kṣamati so vihāro adhyupekṣituṃ / ondri(ddri)ṇṇako vā paluggako vā  
-acaukṣo vā apratisaṃskṛto vā / atha khalu yadi tāva tṛṇacchadano vā  
-bhavati tṛṇapulako dātavyo / yāva go(13a5)mayaśāṭo dātavyo /  
-paribhāṇḍaṃ karttavyaṃ / śvetavarṇṇā dātavyaṃ // samantena vihārasya  
-tāva pratikṛtyeva agniharaṇī karttavyā / bhṛtakehi ca karmmakarehi ca  
-vihārasya catuḥpārśve kakṣaṃ jātakaṃ bhavati so lavāpayitavyo / yaṃ kālaṃ  
-śuṣkaṃ bhavati / niṣprāṇakaṃ tato gninā dahāpayitavyo vihārako  
-siñcitavyo / sammārjitavyo / gomayakārṣī (13a6) dātavyā / yaṃ sārāsāraṃ  
-śayyāsanaṃ amilā vā astaraṇikāṃ vā kocakā vā makucakā (vā)  
-guḍuguḍukā vā makucakā vā te grāmāntikaṃ śayyāsanaṃ nāpayitavyāḥ /  
-mañcāḥ pratipādakehi sthāpayitavyā bhittito yu(mu)ktāḥ / maṃcasya upari  
-pīṭhā sthāpayitavyā / pīṭhasya upari yaṃ tatra śayyāsanaṃ  
-omayilomayilaṃ pāṭita(J.58)vipāṭitaṃ pīṭhasya upari sthāpayitavyaṃ  
-cīvaravaṃśe sthāpayitavyaṃ, (13a7) bhittito muktaṃ / yadi tāva vihāro  
-uppiḍanako bhavati / na kṣamati / lenāni bandhituṃ / atha khalu muktakā  
-karttavyā / atha dāni uppaṃsulakā vihārakā bāhiraghaṭṭimā karttavyāḥ /  
-sarvvehi ni(r)dhāvitavyā ekena abhyantaraghaṭṭimaṃ vihārakāṃ kariya  
-rejjūye vā kaḍevarikā /ya(ye) vā otaritavyaṃ / otariya rajjūye vā kaḍevariyā  
-vā abhyantare kṣipitavyā / bāhyena vā acchitavyā / ye (13b1) tatra bhavanti  
-gopālakā vā paśupālakā vā teṣāṃ so vihāro anuparinditavyo te  
-vaktavyāḥ / dīrghāyu gacchāma tāva yaṃ grāmāntikaṃ śeyyāsanaṃ eṣo  
-tumhākaṃ vihārako anuparindito bhavatu / evaṃ anuparindiyāṇa gantavyaṃ  
-(I.p.79) / atha dāni grāmāntikaṃ śeyyāsanaṃ bhavati / evaṃ hy eva sarvvaṃ  
-pratisaṃskāro karttavyāḥ / yāva śvetavarṇṇā dātavyā / etāni mahantāni  
-vastūni bhavanti / yathā (13b2) agniśālā vā upasthānaśālā vā yadi tāva  
-sasvāmikaṃ bhavati / tena pratisaṃskāroye(pe)tavyā / uddiṣṭako nāśo yo  
-sya bhavati / tena pratisaṃskarttavyā / atha dāni naiva sasvāmiko bhavati /  
-nāpi uddiṣṭako sarvvasaṃghena pratisaṃskarttavyo / sāmagrīye saṃviditvā  
-tahiṃ ekam eko (J.59) vā śamo dātavyo / dve vā dve vā trayo vā trayo vā  
-yathā sarvvapratisaṃskāro gacche tathā (13b3) dātavyaṃ / mañcā vā pīṭhā  
-vā ullaggakā bhavanti / ayacchitavyā / ayaṃ cchantiyo karttavyāḥ / unniyo  
-vā biśio vā caturasrakā vā omayilomayilā bhavanti / pāṭitavipāṭitā  
-dhovitva sivitavyā / pratyaggalāni dātavyāni / bhaṇḍaṃ niyatakaṃ bhavati /  
-samudānetavyaṃ / grāmāntikaṃ śeyyāsanaṃ udakadoṣeṇa ri(ci)ttaṃ na  
-saṃvasati na kṣamati tehi a(13b4)śabdakarṇṇikāye āraṇyakaṃ śeyyāsanaṃ  
-gantuṃ / atha khalu pratikṛtyeva tāva yaṃ tatra sārāsāraṃ bhāṇḍam  
-astaraṇaṃ vā prāvaraṇaṃ vā upaskaro vā śraddhāprasannehi upāsakakulehi  
-sthāpayitavyaṃ / vihārako saṃmārjayitavyo / gomayakārṣī dātavyā /  
-maṃcā pratipādakehi sthātavyā bhittito muktaṃ / mañcasya upari pīṭhaṃ  
-sthāpayitavyaṃ / pīṭhasyopari yaṃ ta(13b5)tra jarjara bisi vā jarjara  
-caturaśrako vā taṃ sthāpayitavyaṃ / yadi tāva uppīḍanako vihāro bhavati /  
-tato lenāni muktāni sthāpetavyāni / atha dāni uppatsu(msu)lako vihā(ro)  
-bhavati lenāni bāhiraghaṭṭimāni karttavyāni sarvve bhikṣūhi  
-ni(r)dhāvantehi / ekena vihārako atya(bhya)nta(ra)ghaṭṭimo karttavyo /  
-prativeśikulāto niśreṇiyāviya tato o(13b6)taritavyo / (J.60) ye tatra  
-prativeśikā bhavanti / teṣām anuparinditavyaṃ / dīrghāyu eṣo vihārako  
-tumhāṇaṃ anuparindito bhavatu / (I.p.80) gacchāma vayaṃ araṇyakāni  
-śeyyāsanāni evaṃ parindiya gantavyaṃ / evaṃ varṣavustehi śeyyāsane  
-pratipadyitavyaṃ / na pratipadyati / abhisamācārikān dharmmān  
-atikramati // * //  
-  
-     II.5      Ms.13b6       (J. 60.5);       Ch.503c1  
-     bhagavān śrāvastyāṃ viharati śāstā devānāñ ca manuṣyāṇāñ ca  
-vista(13b7)reṇa nidānaṃ kṛtvā pañcārthavaśāṃ vistareṇa kṛtvā yāvad  
-adrākṣīd bhagavāṃ pañcāhikāṃ vihāracārikāṃ anucaṃkramanto  
-anuvicaranto vihārakāṃ odd(r)iṇṇakāṃ praluggakāṃ acaukṣāṃ  
-apratisaṃskṛtāṃ śeyyāsanaṃ ujjhitaprakīrṇṇaṃ omayilomayila(ṃ)  
-pāṭitavipāṭitaṃ mañcā ca pīṭhā ca / uddriṇṇakā praluggakā uppādakā  
-u(du)tthitakā varṣeṇa ovarṣiyantāṃ prāṇakehi khajjantāṃ bhagavān (14a1)  
-jānanto bhikṣūṃ pṛcchati / kim idaṃ bhikṣavo vihārakā oddriṇṇakā  
-paluggakā acaukṣā apratisaṃskṛtāḥ śeyyāsanaṃ ujjhitaprakīrṇṇaṃ  
-omayilomayilaṃ pāṭitavipāṭitaṃ mañcā ca pīṭhā ca oddriṇṇakā  
-paluggakā uppādakā u(du)tthitakā varṣeṇa ovarṣayantā prāṇakehi  
-khājjantā te dāni āhaṃsu vayaṃ bhagavan āgantukā ye nevāsikā te  
-saṃskariṣyanti /   
-     bhagavān āha // tena hi eta(va)ṃ āgantukehi śe(14a2; J.61)yyāsane  
-pratipadyitavyaṃ / kin ti dāni evaṃ āgantukehi śeyyāsane pratipadyitavyaṃ /  
-etā dāni bhikṣū āgantukā bhavanti vihārako uddiṣṭako bhavati / mañcaṃ  
-pīṭhaṃ pi caturasrakaṃ kurccaṃ bi(ṃ)bohanaṃ uddiṣṭaṃ bhavati nāpi  
-kṣamati / gatāgatasya vihārake bhaṇḍaṃ praveśituṃ / atha khalu yadi tāva  
-andhakārako vihārako bhavati / pradīpo jvālayitavyo tṛṇolkā vā kaṇḍolkā  
-vā pra(14a3)jvālayitavyā / praviśiya cīvaraṃca(vaṃ)śo tāca(va)  
-pratyavekṣitavyo / anekāye prāṇakehi khāditako bhavati / yadi tāva  
-prāṇakehi khāyitako bhavati bhagnakā vā taṃ apaniya anyo kīlako  
-ākoṭayitavyo (I.p.81) pātrapraveśikā sthāpayitavyā / mañcakaś ca  
-pratyavekṣitavyaḥ / yadi tāva vibhagnako vā cchinnako vā bhavati  
-cchinnakaṇṭhi karttavyā / oddriṇṇako (14a4) vā paluggako vā bhavati  
-muṃjā karttitavyā balbajā karttitavyā / mañcā bra(bu)ṇitavyā pīṭhā  
-bra(bu)ṇitavyā / vihārako śodhayitavyo / sammārjayitavyo / mūṣa-ukkirā  
-vā bhavati ākoṭayitavyā / gomayakārṣī dātavyā / mañcako pratipādake  
-sthāpayitavyo āstaraṇaṃ prajñapiya pratikramitavyaṃ / yadi sarvvarātro  
-gacchati pratisaṃskāra(J.62)yantasya sarvvarātrī  
-pratisaṃska(skā)rayi(14a5)tavyaṃ / evaṃ āgantukehi śeyyāsane  
-pratipadyitavyaṃ / na pratipadyati / abhisamācārikān dharmmān  
-atikramati // * //  
-  
-     II.6       Ms.14a5       (J.62.4);       Ch.503c16  
-     bhagavān śrāvastyāṃ viharati śastā devānāñ ca manuṣyāṇāñ ca vistareṇa  
-nidānaṃ kṛtvā pañcārthavaśāṃ vistareṇa kṛtvā yāvad adrākṣīd bhagavāṃ  
-pañcāhikāṃ vihāracārikām anucaṃkramanto anuviracanto vihārakāṃ  
-oddriṇṇakāṃ paluggakāṃ a(14a6)caukṣāṃ apratisaṃskṛtāṃ śeyyāsanaṃ  
-omayilemayilaṃ pāṭitavipāṭitaṃ / mañcā pīṭhā oddriṇṇakāṃ  
-paluggakāṃ / uppādakāṃ u(du)tthitakāṃ varṣeṇa ovarṣiyantāṃ prāṇakehi  
-khajjantāṃ bha(ga)vān jānanto pṛcchati / kiṃ ime bhikṣavo vihārakā  
-oddriṇṇakā paluggakā acaukṣā apratisaṃskṛtā śayyāsanaṃ omayilemayilaṃ  
-pāṭitavipāṭitaṃ mañcā pīṭhā oddriṇṇakā paluggakā uppādakā  
-u(du)tthi(14a7)takā varṣeṇa ovarṣayantā prāṇakehi khajjantā bhikṣū  
-āhaṃsu / vayaṃ bhagavan nevāsikā ye āgantukā te pratisaṃskariṣyanti /  
-     bhagavān āha / tena hi evaṃ nevāsikehi śeyyāsane pratipadyitavyaṃ / kin ti  
-dāni evaṃ nevāsikehi śayyāsane pratipadyitavyaṃ / nāyaṃ tāva kṣamati /  
-naivāsikehi ye vihārakā oddriṇṇakā paluggakā acaukṣā apratisaṃskṛtā te  
-āgantukānāṃ (14b1) sthāpayituṃ / yadi āgantukānāṃ mātu atyāyikaṃ  
-bhaviṣyanti / tato naṃ pratisaṃskariṣyantīti // atha khalu (J.63) ye vihārakā  
-navakā ca supratisaṃskṛtā ca te āgantukānāṃ sthāpayitavyā / nāpi  
-kṣamati (I.p.82) śeyyāsanaṃ omayilomayilaṃ pāṭitavipāṭitaṃ āgantukānāṃ  
-sthāpayituṃ / yadi āgantukānāṃ mātu atyāyikaṃ bhaviṣyati tato  
-dhoviṣyanti / rañjiṣyanti / sīviṣyanti / atha khalu yaṃ (14b2) śeyyāsanaṃ  
-navakaṃ sudhotaṃ ca suraktaṃ ca taṃ āgantukānāṃ sthāpayitavyaṃ / nāpi  
-kṣamati ye mañcā vā pīṭhā vā prala(lu)ggakā vā oddriṇṇakā vā te  
-āgantukānāṃ sthāpayituṃ / yadi āgantukānāṃ mātu atyāya(yi)kaṃ  
-bhaviṣyati / tato buṇiṣyanti / atha khalu ye mañcā vā pīṭhā vā navā ca  
-sārā ca sa(su)dhotā ca te āgantukānāṃ sthāpayitavyā nāpi kṣamati /  
-adhyupekṣituṃ / atha khalu vi(14b3)hārakāṇāṃ kālena kālaṃ  
-khaṇḍaphuṭṭaṃ pratisaṃskarttavyaṃ / śeyyāsanaṃ dhovitavyaṃ / sivitavyaṃ /  
-rañjitavyaṃ / mañcā vā pīṭhā vā bhagnā vā bhavanti cchinnagaṇṭhikā  
-karttavyā / oddriṇṇakā vā paluggakā vā bhavanti / muñjā karttitavyā /  
-balbajā karttitavyā mañcā bra(bu)ṇitavyā pīṭhā vraṇitavyā / mañcā vā  
-pīṭhā vā uppādakā bhavanti / samaṃ sthāpayitavyā / u(du)tthāpitakā  
-(14b4) bhavanti / susthitā karttavyā / (J.64) vātātapena te(o)pūriyanti /  
-nivāte sthāpayitavyā / kākaśakunna(nta)kehi ohayiyanti channe  
-sthāpayitavyāḥ / varṣeṇa te(o)varṣiyanti nirovarṣe sthāpayitavyā /  
-prāṇakehi khajjanti cchinnagaṇḍi(ṇṭhi)yakā kariya pratipādakehi  
-sthāpayitavyā / evaṃ nevāsikehi śayyāsane pratipadyitavyaṃ / na  
-pratipadyati / abhisamācārikān dharmmān atikrama(14b5)ti // * //  
-  
-     II.7       Ms.14b5       (J. 64.6);       Ch.503c25  
-     bhagavān śrāvastyāṃ viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā yāvad adrākṣīd bhagavān pañcāhikāṃ  
-vihāracārikām anucaṃkramanto anuvicaranto vihārakāṃ oddriṇṇakāṃ  
-paluggakāṃ anabhi(prati)saṃskṛtāṃ ullāpe(ye) gṛhītakāṃ śeyyāsanaṃ  
-omayilamayilaṃ pāṭitavipāṭitaṃ mañcā ca pīṭhā ca oddriṇṇakāṃ  
-paluggakāṃ uppādakāṃ (14b6) u(du)tthitakāṃ vātātapena opūriyantāṃ  
-kākaśakunne(nte)hi oharṣi(yi)yantāṃ varṣeṇa ovarṣiyantāṃ prāṇakehi  
-khajjantāṃ bhagavāna jānanto yeca(va) bhikṣūṃ pṛcchati / kiṃ ete bhikṣavo  
-vihārakā oddriṇṇakā paluggakā śeyyāsanaṃ (I.p.83) omayilamayilaṃ  
-pāṭitavipāṭitaṃ mañcā pīṭhā ca oddriṇṇakā paluggakā uppādakā  
-u(du)tthitakā vātātapena opūriyantā kākaśakunne(nte)hi ohayiyantāṃ  
-varṣeṇa (o)varṣiyaṃtā prā(14b7)prāṇa(J.65)kehi khajjantā / bhikṣū āhaṃsu /  
-ye bhagavaṃ āgantukā ca nevāsikā ca te pratisaṃskariṣyanti / vayaṃ  
-itvāravāsino   
-     bhagavān āha / tena hi evaṃ sarvvehi śeyyāsane pratipadyitavyaṃ / kin ti  
-dāni evaṃ hi sarvvehi śeyyāsane pratipadyitavyaṃ / ete dāni vihārakā  
-bhavanti / oddriṇṇakā paluggakā acaukṣā apratisaṃskṛtakā tato raṇaraṇāye  
-gaṇḍiṃ āhaṇiya sarvvasaṃghena sannipati(15a1)tavyaṃ / atha dāni kaścid  
-āha / ahan dharmmakathiko ahaṃ vinayadharo aham āraṇyako piṇḍacāriko  
-pāṃsukuliko ya eto(te) droṇī śramaṇakā te pratisaṃskariṣyantīti // te  
-vināyātikramam āsādayanti /  
-     atha khalu sarvvehi sannipatitavyaṃ / anyehi tāva mṛttikā mardditavyā /  
-anyehi khāṇukā viśālikā vā piṇḍakā vā paripūriya dātavyā / anyehi  
-pariharitavyaṃ / anyehi lippitavyaṃ / a(15a2)nyehi majjitavyaṃ / anyehi  
-udakaṃ pariharitavyaṃ / atha dāni bahuṃ lippitavyaṃ bhavati / bhikṣū ca  
-śāṭhyena karenti / kiṃ karttavyaṃ mitakaṃ dātavyaṃ / iman tava khaṇḍaṃ  
-imaṃ tava khaṇḍan ti / imaṃ tvayā pratisaṃskārayitavyaṃ / ete vihārakā  
-ullāpe(ye) gṛhītakā bhavanti apratisaṃskṛtā vā uppaṃsulā vā  
-sarvvasaṃghasya gaṇḍim ākoṭayitvā anyehi tāvad yā bhitti ollāye  
-gṛhītakāyo tāyo śā(15a3)ṭayitavyāyo anyehi mṛttikā marddetavyā /  
-anyehi udakaḥ pariharitavyaḥ / anye(hi) mṛttikā pariharttavyā / anyo lepo  
-dātavyaḥ / (J.66) anyaiḥ sa(ṃ)mārjitavyaṃ / vihārakā uppeḍanakā bhavanti /  
-śarkarāṭakā vā āpakapāṃsuko vā pariharitavyo ākoṭayitavyo / atha dāni  
-upaṃsulakā vihārakā bhavanti / anyair ggomaya pariharttavyaḥ /  
-anyai(15a4)r udakaṃ pariharttavyaḥ / anyai(ye)hi adhvāpayitavyaṃ / anyehi  
-gomayakārṣī dātavyā / nāpi dāni (I.p.84) adhyupekṣitavyaṃ / śeyyāsanaṃ  
-oṇṇiyo vā kocavako vā prākā(vā)rā vā bisiyo vā caturasrako vā  
-bimbohanakā vā cilimilikā vā omayilamayilā vā pāṭitavipāṭitavipāṭitā  
-vā acaukṣā vā apratisaṃskṛtā vā / atha khalu kālena kālaṃ / a(15a5)nyehi  
-oṣā gālayitavyo / anyehi udakaṃ pariharttavyaṃ / anyehi kṣāraṃ  
-ānayitavyaṃ / anyehi vodha(dhova)yitavyaṃ, / anyehi pīḍitavyaṃ / anyehi  
-visayitavyaṃ / anyehi pariharttavyaṃ / mañcā vā pīṭhā vā oḍḍiṇṇakā vā  
-paluggakā vā paluggakā vā bhavanti / sarvvehi muñjā vā balbajā vā  
-karttitavyā / mañcā vā vātavyā pīṭhā vātavyā bisī sīvayitavyā /  
-caturasrā dāpa(15a6)yitavyā // naṃgalāni utthāpayitavyāni / ete mañcā vā  
-pīṭhā vā bhagnakā vā bhavanti / yo yaṃ paśyati (J.67) tena yyeva gaṇṭhī  
-karttavyā / upādakā bhavanti / yo ye(va) paśyati tena yeva samaṃ  
-sthāpayitavyaṃ / dutthitakā bhavanti / susthitakā karttavyā / vātātapena vā  
-opūriyanti / yo yeva paśyati tena yyeva nivāte sthāpayitavyā /  
-kākaśakuntehi vā ohayiyanti / yo yyeva paśyati / tena yyeva (15a7) channe  
-sthāpayitavyā / varṣeṇa ovarṣayanti / yo yeva paśyati tena yyeva nirovarṣe  
-sthāpayitavyā / prāṇakehi khajja(n)ti / yo yeva paśyati / tena yyeva  
-cchinnagaṇṭhikā kariyāṇa pratipādakehi sthāpayitavyā / evaṃ sarvvehi  
-śayyāsane pratipadyitavyaṃ / na pratipadyati / abhisamācārikān dharmmān  
-atikramati // * //  
-  
-     II.8       Ms.15a7       (J. 67.9);       Ch.504a14  
-     bhagavān śrāvastyāṃ virahati śāstā devānāñ ca manuṣyāṇāñ ca  
-vista(15b1)reṇa nidānaṃ kṛtvā te dāni bhikṣū prakīrṇṇakasya ucchvāsaṃ  
-karonti / jano dāni odhyāyati / paśyatha bhaṇe śramaṇakā yathā uṣṭrā  
-vā goṇā vā garddabhā vā cchagalakā vā evam ime śramaṇā  
-prakīrṇṇakasya uśvāsaṃ karenti / naṣṭaṃ bhraṣṭaṃ kuto eṣāṃ  
-śrāmaṇyaṃ / etaṃ prakaraṇaṃ bhikṣūhi śrutaṃ bhikṣū bhagavato  
-ārocayeṃsu / bhagavān āha / satyaṃ bhikṣavo jano odhyāyati āma  
-bhagava(va)(15b2)n   
-(I.p.85)       bhagavān āha / tena hi varccakuṭī nāma karttavyā /  
-varccakuṭīṃ dāni bhikṣuṇā kārāpayamāṇena nāpi kṣamati (J.68)  
-vihārasya purastimena vā uttā(tta)reṇa vā kārāpayituṃ / atha khalu  
-dakṣiṇena vā paścimena vā kārāpayitavyā / vātapathaṃ muktvā  
-mallakatalā khaḍā khaṇitavyā / prapātaniśritaṃ vā yadi vā khāniyā  
-udakāntikā bhavati / prathamaṃ kalpiyakāreṇa oha(15b3)yiyāpetavyā / atha  
-dāni prapātaniśritā vā urṇṇāvaccagharaṃ vovatti gacchati / antarā(ṃ)  
-kāṣṭhaṃ dātavyaṃ / yathā tahiṃ, / prathamaṃ niya(pa)teya parimalaṃ vā  
-caturasraṃ vā nivitavyā / iṣṭakāhi vā upalair vvā cchādayitavyā / yāni  
-sārāṇi ca dṛḍhāni ca sthūlā(ni) ca kāṣṭhāni tāny adhastā dātavyāni /  
-tatra kāṣṭhehi vā phalakehi vā ohāṭayitavyā / upari iṣṭ(ak)āhi mṛttikāya  
-(15b4) cchādayitavyāni / tac ca mukhāni karttavyāni hastām vā āyāmena  
-nimuṣṭakam vā hastam vistāreṇa tatra kaṇṭhavāriṇi karttavyā /  
-kakṣamātrī vā galamātrī vā vaṃśe(na) vā nalena vā naṃgalehi vā  
-phalakair vvā tathā karttavyā yathā upaviṣṭā anyonyaṃ na paśyanti /  
-śīrṣī(ṣā)n tatropari cchādetavyaṃ kuḍḍa(ṃ) utthapiyāṇaṃ valabhī  
-kārayitavyā / ākāśatalaṃ vā liṃpitavyā mṛtti(15b5)kāya vā sudhāya vā  
-tṛṇacchannā vā karttavyā / aparasmin pārśve varccakuṭīkā karttavyā /  
-tahiṃ sthāpetavyā kāṣṭhakuṇḍāni vā mṛttikākuṇḍāni vā udaka  
-pūrayitavyāni / tahiṃ (J.69) sthāpetavyaṃ karīṣo mṛttikā vā ūṣo vā tato  
-jānitavyaṃ / yadi tāva sā khāni/mā varccakuṭī bhavati / tato  
-varccakumbhikā bāhirodivā karttavyā / yathā taṃ udakaṃ anye na  
-gacchati / atha (15b6) dāni prapātanisritā bhavati / varcakuṭī kiñ cāpi  
-tahi(ṃ) yyeva udakaṃ patati / anāpattiḥ / varccakumbhikāye purato  
-kalpiyakaraki sthāpayitavyā udakasya pūrṇṇatāni tāni kuṇḍakāni vā  
-kaṭāhakāni vā nāpi kṣamati / adhyupekṣituṃ / saprāṇakāni vā  
-adhotakāni vā / atha khalu uddiśitavyaṃ / navakānte vā paṭipāṭṭikāya  
-vā yasya vā prāpuṇati / tena tāni kuṇḍanikāni kālena kālaṃ, (15b7)  
-pūrayitavyāni / kālena kālaṃ dhovayitavyā(ni) / kālena kālaṃ ātape  
-śoṣayitavyāni / atha (I.p.86) tāni kāṣṭhamayāni bhavanti / na kṣamati /  
-ātape na śoṣayituṃ, / mā phuṭṭiṃsu tti / śoṣayitvā cchātā(yā)yāṃ  
-sthāpayitavyāni / yaṃ kālaṃ pariśuṣkāni bhavanti / tato pūretavyāni /  
-varccakuṭīye purato kuṭī vā śālā vā karttavyā / tatra cīvaravaṃśā vā  
-cīvarabisi vā dīrgha(J.70)nāgadanta vā karttavyāḥ / ya(16a1)tra bhikṣū  
-kalpikāni cīvarakāṇi vinikṣipiya varccakuṭī praviśanti nāpi dāni  
-draviḍena viya praśrāvakaraṇaṃ gṛhnitvā varccakumbhi(ṭi)kā(ṃ)  
-gantavyaṃ / atha dāni varccakumbhikāṃ saprāṇakā bhavati / na dāni  
-(kṣamati) vaktuṃ, / āyuṣmanto saprāṇakā varccakuṭi(mbhi)kā / atha khalu  
-tṛṇam vā tūlikā vā upari sthāpetavyā / yathājñāye saprāṇakety  
-abhijñānaṃ / udakakṛtyaṃ karentena na dāni jjhallajjhaleye udakaṃ  
-cetavyaṃ / atha kha(16a2)lu mātā yeva cetavyaṃ / riktakāṃ  
-varccakumbhikāṃ paśyati / na tadā adhyupekṣitavyaṃ / yasya oheyyako  
-bhavati / tasya āvi(ci)kṣitavyaṃ / svayaṃ vā pūrayitavyaṃ / antamasato  
-kumbhikāyaṃ / ekasya (yattakaṃ) paryāstaṃ bhaveyā tattakaṃ dātavyaṃ /  
-atha dāni glāno bhavati / ārṣavyādhikaṃ vā praskandikaṃ vā  
-lekṣa(ṅka)ṭākhaṃḍehi vā bhastrāyanaṃkehi vā sukumārehi dayitavyaṃ, //  
-* // eṣaivārthotpattiḥ /  
-     bhagavā(16a3)n śrāvastyāṃ viharati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā apareṇa dāni bhikṣuṇā vaṃśaśalākāhi  
-vraṇamukhaṃ potthi(cchi)taṃ tasya dāni kṣataṃ sarudhiraṃ kṛtaṃ / etaṃ  
-prakaraṇaṃ (J.71) bhikṣū bhagavataḥ / ārocayeṃsuḥ / bhagavān āha /  
-śabdāvatha bhikṣuṃ so dāni śabdāpito / bhagavān āha / evaṃ ca tvaṃ  
-vaṃśaśalākāhi vraṇamukhaṃ pe(po)cchesi tena hi na kṣa(16a4)mati  
-vaṃśaśalākāhi kaṇḍavidalikai(ke)na vā nalakāṣṭhena vā / kaṭhallena vā  
-asthikhaṇḍena vā vraṇamukhaṃ pocchituṃ, / atha khalu avalekhanaṃ nāma  
-karttavyaṃ / olikā vā sthāpayitavyā / mṛttikāmayā varttikā karttavyā / yā  
-khānimā varccakuṭī bhavati / nāpi kṣamati bhikṣuṇā vraṇamukhaṃ  
-pocchayatā tāyo varttikāyo vā kulikāyo vā varccakuṭīye prakṣipituṃ, /  
-(16a5) atha khalu ekamante (I.p.87) kūṭakaṃ karttavyaṃ / tāyo devasikaṃ  
-cchorayitavyāyo vā dahiya bhūyo vā dahiya bhūyo vā thapayitavyāyo / atha  
-dāni bhikṣu paśyati / ko imāyo dahiṣyatīti / ta(tā)yo cchoriya anyāyo  
-sthāpayitavyāyo / atha dāni prapātaniśritā bhavanti / kiṃcāpi tahiṃ  
-apalekhām vā prakṣipati / saṃkaraṃ vā anāpattiḥ / varcca(ṃ) karaṃtena  
-ta(16a6)thā karttavyaṃ, / yathā uccārapraśrāvakheṭasiṃghāṇakaṃ sarvvaṃ  
-tahiṃ nigacche / atha dāni anyo caukṣīkṛtaṃ bhavati / ohāṇam vā / kheṭaṃ  
-vā / siṃhāṇakam vā varcce vā tahi(ṃ) nikṣiptaṃ bhavati / uccikāye tahiṃ  
-sarvvaṃ prakṣipitavyaṃ / nāpi dāni kṣamati / akṛtvā udakakṛtyaṃ  
-sāṃghikaṃ śeyyāsanaṃ paribhuñjituṃ // * // eṣā evārthotpattiḥ //  
-     bhagavān śrāvastyāṃ viharati / śāstā devānāñ ca manuṣyāṇāṃ (16a7)  
-ca / vistareṇa nidānaṃ kṛtvā aparo dāni bhikṣuḥ / (J.72) uśvāsena uddīpito  
-nivasanaṃ oguhiya varccakuṭiṃ praviśati / tahiṃ ca aparo bhikṣuḥ  
-pūrvvapraviṣṭo so dān āha / mā me āyuṣmaṃ ohayesi / etaṃ prakaraṇaṃ  
-bhikṣuḥ / bhagavato ārocayeṃsuḥ / bhagavān āha / tena hi evaṃ varcce  
-pratipadyitavyaṃ / kin ti dāni evaṃ varcce pratipadyitavyaṃ / nāyaṃ tāva  
-kṣamati / bhikṣuṇā kṣamayituṃ, (16b1) yāva uśvāsena utpīḍito tti // atha  
-khalu samudācāramātrakeṇaiva varccakuṭiṃ gantavyā / atha dāni  
-bhikṣuḥ / uśvāsena sahasā uppaḍi(to) bhavati na kṣamati nivāsanaṃ  
-oguhiya aśabdakarṇṇikāye varcakuṭī praviśituṃ / atha khalu acchaṭikāṃ  
-kara(n)tena praviśitavyaṃ / yadi tātava(va ta)hi(ṃ) koci pūrvvapraviṣṭo  
-bhavati tena pratyacchaṭikā karttavyā / iminā āgamayitavyaṃ / tāva yāva  
-utthita iti / atha dāni (16b2) uppīḍito bhavati / acchaṭikāṃ karantena  
-allīpitavyaṃ / iminā ca parāṅmukhena bhavitavyaṃ / tasya cāvakāśo  
-dātavyaḥ / tena ca parāṅmukhena u(pa)viśitavyaṃ / antaraṃ dātavyaḥ /  
-nāpi dāni dūrato yeca(va) nivāsa(na)ṃ oguhiya upaveṣṭavyaṃ / (J.73) atha  
-khalu samanantaraṃ upaviśitavyaṃ ca nivasanaṃ niguhitavyaṃ ca nāpi dāni  
-kṣamati varcakuṭīyaṃ upaviṣṭena dhyānāntaragatena vā  
-middhāntaragatena vā u(16b3)ddeśaṃ vā (I.p.88) svādhyāyam vā  
-manasikarentena āsituṃ / atha khalu samudācāraṃ kariya utthiya cchatti  
-ma(ga)ntavyaṃ / nāpi kṣamati / sāṃghikena śeyyāsanena prāvṛtena  
-varccakuṭī praviśituṃ / nāpi kṣamati / kalpikehi cīvarehi prāvṛtehi  
-varccakuṭīṃ praviśituṃ / atha khalu sthāpayitvā praveṣṭavyaṃ nāpi dāni  
-kṣamati / dantakāṣṭhaṃ khādantena varccakuṭīṃ pra(16b4)veṣṭuṃ /  
-ekānte nikṣipitvā praveṣṭavyaṃ / nāpi kṣamati / oguṇṭhitaśīrṣeṇa vā  
-ohayitahastena na vā varccakuṭīṃ praveṣṭuṃ / atha khalu ekāṃsīkṛtena  
-praveṣṭavyaṃ / eṣo bhikṣuḥ purime vā paścime vā prahāṇī(ṇe) upaviṣṭo  
-samudācārakṛto bhavati / prahāṇasya āmantriyāṇa cchatti varccakuṭīyaṃ  
-gantavyaṃ / atha dāni bhikṣū utpīḍito bhavati nāpi kṣamati / (16b5) yathā  
-uṣṭreṇa vā goṇena vā garddabhena vā ūrūyo (o)haṃya(yaṃ)tena gacchituṃ, /  
-atha khalu saṃghārāmasya ekahiṃ ante upaviśitavyaṃ / atha dāni bhikṣuṇā  
-dṛṣṭo bhavati / nāpi kṣamati vaktuṃ, / ko vā eṣo kathaṃ vā eṣo mā veḍḍo  
-bhaveya tti / tena uśvāsaṃ karaṃtena mallakena vā koḍitena vā  
-cchorayitavyaṃ / cchoriyāṇaṃ so pṛthivīpradeśo gomaye(16b6)na  
-udvarttitavyaṃ / tato yadi tāva vibhavo bhavati / tailakārṣī vā (J.74)  
-gandhakārṣī vā dātavyaṃ / atha dāni vibhavo na bhavati / antamasato  
-gomayakārṣī dātavyāḥ / eṣo bhikṣuḥ / cetiyaṃ vandito uśvāsakṛto  
-bhavati / samudācāramātrakenaiva nirddhāvitavyaṃ / atha dāni sahasā  
-utpīḍito bhavati / tadā na kṣamati / uṣṭreṇa vā goṇena vā ūrūyo  
-ohayantena gantuṃ, / atha (16b7) khalu ekamante nivāsa(na)ṃ o(gu)hiya  
-upaviśitavyaṃ / atha dāni bhikṣūhi dṛṣṭo bhavati tadā na kṣamati vaktuṃ /  
-ko vā eṣo kathaṃ vā eṣo mā ce(ve)ḍḍo bhaveya nti(tti) / tenāpi dāni  
-uśvāsaṃ kariya mallakena vā koḍillena vā kaṭhallena vā cchoḍiyāṇa so  
-pṛthivīpradeśo gomayena udvarttayitavyo / yadi tāva āhatyā pṛthivī  
-bhavati / uttatthapitavyā / kṛtakarmmā pṛthivī bhavati udakena  
-dhovita(17a1)vyaṃ / yadi tāva vibhavo bhavati cetiyaghare tailakārṣī vā  
-dātavyā / atha dāni na vibhavo bhavati / antamasato taṃhi pṛthivīpradeśe  
-gandhakārṣī vā dātavyā / atha dāni āraṇyakaṃ śeyyāsanaṃ bhavati /  
-durlabho gandho antamasato tailakārṣī dātavyā / ete (I.p.89) dve bhikṣū  
-ve(ce)tiyaṃ vandanti yaṃ paśyanti tatra śunakhena vā śṛgālena vā uśvāsaṃ  
-kṛtakaṃ yo navako bhavati / te(17a2)na cchoritavyaṃ / atha dāni navatarako  
-śaithiliko bāhuliko bhavati / vṛddhatareṇa cchoritavyaṃ / (J.75) ete dve  
-bhikṣū gocaraṃ praviśanti prakṛtyeva tāva cchaḍḍayitavyaṃ, / atha dāni  
-bhikṣūḥ praviṣṭo samāno samudācāraṃ kṛto bhavati / kiṃ karttavyaṃ  
-grāmāntikaṃ śeyyāsanaṃ gantavyaṃ / pratikramaṇam vāgantavyaṃ / nāpi  
-kṣamati / bhikṣuṇī-upāśraye gatāgatasya varccakuṭiṃ praviśituṃ / anekāye  
-(17a3) bhikṣuṇikā upaviṣṭā bhaveya / atha khalu pṛcchitavyaṃ / bhagini kiṃ  
-riktā vā varccakuṭī neti nāpi kṣamati / taruṇikā pṛcchituṃ / mā veṇṇā  
-bhaveya nti(tti) / atha khalu vṛddhā pṛcchitavyā / yadi tāvad āha / ārya  
-riktā varccakuṭīti / kanakena vā dakānakena vā udakaṃ gṛhṇiya  
-praviśitavyaṃ / uśvāsaṃ kariya udakakṛtyaṃ kariya gantavyaṃ, / atha dāni  
-evaṃ pi na bhavati nī(17a4)lamañcaṃ gantavyaṃ / nāpi dāni kṣamati /  
-strīṇāṃ niga(nīla)maṃca(ṃ) gantuṃ / atha khalu yo puruṣāṇāṃ nīlamaṃco  
-tahiṃ gantavyaṃ nīlamañco na bhavati / utsṛṣṭagṛhaṃ gantavyaṃ /  
-pṛcchitavyaṃ rikto ukkharo ti na dāni taruṇikā strī pṛcchitavyā / mā  
-a'prahāsaṃ deyā mahantikā pṛcchitavyā / yadi tāvad āha / ṛkto  
-udakadakānakā ādāya praveṣṭavyaṃ / evaṃ pi na bhavati /  
-śūnya(17a5)gharaṃ vā jambālam vā bhavati / tahiṃ gantavyaṃ / na dāni  
-tahiṃ gantavyaṃ / na dāni tahiṃ atini(ḥ)śabdaprave(de)śe upaveṣṭavyaṃ /  
-mā (J.76) uggaṃkito bhaveyaṃ channaprave(de)śe upaveṣṭavyaṃ / atha dāni  
-evaṃ pi na bhavati / utkṣiptarathyāyāṃ kuḍyaṃ pṛṣṭhato kṛtvā uśvāso  
-karttavyo / yo sau dvitīyo sahāyo bhavati / tena purato parāṅmukhena  
-sthātavyaṃ / ete bhikṣu sārthena sā(17a6)rddham adhvānaṃ gacchaṃti /  
-bhikṣu uśvāsito bhavati nāpi kṣamati / ya(pa)tthesmiṃ uśvāsaṃ karttuṃ, /  
-mā (jano) odhyāyeṃsu ken imaṃ (I.p.90) ya(pa)tthesmi(ṃ) antrāṇi  
-vikīrṇṇāni / atha khalu ekatamaṃ jjhaṭam vā vṛkṣaṃ vā pṛṣṭhato  
-kariyāṇa upaviśitavyaṃ / nāpi dāni anuvātaṃ karttavyaṃ / mā  
-sarvvasārthaṃ gandhena vyāvaheyyā apavātaṃ karttavyaṃ / sārthe  
-nisṛṣṭasmiṃ samudācāro bhavati / ekānte upaviśiya kartta(17a7)vyaṃ / nāpi  
-dāni apratisaṃviditena utha(cca)ttitavyaṃ, / mā coro vā ocorako vā nti(tti)  
-hanyeyā nāpi dāni anuvātaṃ karttavyaṃ / yā(mā) sarvvasārtho gandhena  
-vā(vyā)vaheyā apavātaṃ karttavyaṃ, / nāpi dāni kṣamati / pratikṛtyeva  
-nivāsanaṃ (J.77) oguhiya gacchituṃ, / atha khalu nivāsanaṃ oguhitavyaṃ ca  
-upaviśitavyañ ca na kṣamati nivāsanaṃ oguhiya vāmena hastena aṅgajātaṃ  
-gṛ(17b1)hniya draviḍena yathā udakasamīpa(pe) gantuṃ / atha khalu  
-utthihitavyaṃ ca nivāsanaṃ osaritavyaṃ / nāvāye gacchantasya samudācāro  
-bhavati yadi varcakuṭī bhavati / tahi(ṃ) karttavyaṃ kāṣṭhakaṃ antarā  
-karttavyā / yathā tahiṃ prathamaṃ nipateyā evaṃ na bhavati / antamasato  
-svakā aṅguli upathapitavyā / varccakuṭī na bhavati / kaṭā(he)na vā  
-mallikena vā ujjhitavyaṃ stūpābhigṛhe vā saṃghābhigṛhe vā pa(17b2)śyati /  
-ujjhitavyaṃ / atha dāni dve caṃkramante / vṛddhatarako navatarako ca  
-navakena ujjhitavyaṃ / atha dāni so bhavati śaithiliko vā bāhuliko vā  
-āvaḍḍhako vā aśikṣākāmo (vā) tadā svayaṃ ujjhitavyaṃ / eṣo hi bhikṣuḥ /  
-dīrghakena khāyitako bhavati / vaidyo jalpati bhatte(nte) mahāvikaṭāṃ  
-pāyetha nti(tti) kiṃ karttavyaṃ / yadi tāva ātmano uccāro bhavati / so eva  
-tasya pratigraho (J.78) atha (17b3) dāni parakerako uccāro bhavati /  
-pratigrahāpayitavyo / udakena accāviya ghanena narttakena parisrāviya tasya  
-bhikṣusya sumanāphullāni na śakye dadiyāṇaṃ vaktavyaṃ / āyuṣmana  
-imasya bhaiṣajyasya gandho yādṛśo uccārasya mā khalu te amanāya(pa)ṃ  
-bhaviṣyati pibāhi yadi śe jīvitukāmo evaṃ sarvvehi sarvve(varcce)  
-pratipadyitavyaṃ / na pratipadyati / abhi(17b4)samācārikān dharmmān  
-atikramati // * //  
-  
-     (I.p.91)   
-     II.9       Ms. 17b4       (J. 78.7);       Ch.504c18  
-     bhagavān śrāvastyām viharati śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā te dāni bhikṣuḥ prakīrṇṇakaṃ praśvāsaṃ karonti  
-jano dāni odhyāyanti / paśyatha bhaṇe (ime) śramaṇakā / yathā uṣṭrā vā  
-goṇā vā gardabhā vā cchagalakā vā eva(m i)me śramaṇakā prakīrṇṇakaṃ  
-praśvāsaṃ karonti / naṣṭaṃ bhraṣṭaṃ ku(17b5)to vā / imeṣāṃ śrāmaṇyaṃ  
-etaṃ prakaraṇaṃ bhikṣūhi śrutaṃ / bhikṣū bhagavato ārocayeṃsu /   
-     bhagavān āha / satyaṃ bhikṣavo jano odhyāyati / tena hi praśvāsakuṭī  
-nāma karttavyā / praśvāsakuṭīpi(ye) dāni bhikṣuṇā kāra(pa)yantena na  
-kṣamati vī(vi)hārasya uttareṇa (vā) pūrvveṇa (vā) kārāpayituṃ / atha  
-khalu dakṣiṇena vā paścimena vā kārāpayitavyā vātapatha(ṃ) muktvā  
-(17b6) udakabhramaṇasya vā ta(u)pari karttavyā / upalasya vā iṣṭakāya vā  
-upari mallatalakā khannāṃ khanitavyā / madhye cchidrakaṃ karttavyaṃ /  
-(J.79) udakabhramaṇasya upari thapetavyā suvā(dhā)ya samaṃtena  
-lipitavyā / yadi samantena setuḥ karttavyo yathā patako yeva praśvāsako  
-bāhyena nirggacchati / dhoviya tailena mrakṣayitavyā / navakāntena vā  
-uddiṣṭakena vā paṭipāṭikāyena vā yasya (17b7) vā prāpuṇeti // * // eṣā  
-evārthotpattiḥ //  
-     bhagavān śrāvastyām viharati śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā aparo dāni bhikṣuḥ prahāṇaṃ upaviṣṭako  
-prāśvāsena uṣpī(ppī)ḍito praśvāsakuṭīṃ gacchiyāṇaṃ nivāsanaṃ  
-o(gu)hiyāṇaṃ praśvāsaṃ kariṣyanti / tahiṃ ca bhikṣuḥ pūrvvapraviṣṭo  
-praśvāsaṃ karoti / so jalpati / mā khalu me āyuṣman omutrapa(ya)si tti /  
-etaṃ (18a1) prakaraṇaṃ bhikṣūhi śrutaṃ bhikṣū bhagavato ārocayeṃsu /   
-     bhagavān āha / tena hi evaṃ praśvāse pratipadyitavyaṃ / evaṃ tāva na  
-kṣamati bhikṣuṇā āgamayituṃ / yāva praśvāsena pra(u)pīḍito bhavati /  
-atha khalu samudācāramātrakenaiva praśvāsakuṭīṃ gantavyaṃ / nāpi  
-dāni kṣamati aśabdakarṇṇikāye praśvāsakuṭīṃ praviśituṃ // atha khalu  
-acchaṭikāṃ karantena praśvāsakuṭiṃ praviśitavyaṃ / ya(18a2)di tahiṃ koci  
-pūrvvapraviṣṭo (I.p.92) tena pratyacchaṭikā karttavyā iminā tāva  
-āgamayitavyaṃ / yāva praśvāso kṛto atha dāni so bhikṣuḥ / uppīḍiyatī  
-yeva acchaṭikāṃ karantena allīpitavyaṃ / (J.80) iminā avakāśo dātavyo tato  
-ubhayo(ye)hi praśvāso karttavyo / nāpi dāni kṣamati / oguṇṭhitaśīrṣeṇa  
-vā ohitahaste(na) vā dantakāṣṭhaṃ khādantena (vā) upaveṣṭa(ṣṭu)ṃ / atha  
-khalu ekāṃsakṛtena ekā(18a3)nte dantakāṣṭhaṃ sthāpayitvā  
-upaveṣṭavyaṃ / nāpi dāni tahiṃ dhyānāntareṇa vā svādhyāyam vā  
-karentena aśubhasamāpattim vā samāpannena āsitavyaṃ / atha khalu  
-prasrāvaṃ kṛtvā cchatti utthitavyaṃ / eṣo dāni bhikṣuḥ prahāṇa  
-upaviṣṭako praśvāsakṛto bhavati / utthiyāṇaṃ praśvāsakuṭīṃ gantavyā /  
-atha dāni praśvāsena uppīḍito bhavati / na kṣamati / yathā uṣṭ[re]ṇa vā  
-(18a4) goṇena vā gardabhena vā ūrūyo omūtriyantena gantuṃ, / atha khalu  
-ekatamaṃte upaviśiya praśvāso karttavyo / atha dāni kenaci bhikṣuṇā  
-dṛṣṭo nāpi dāni kṣamati vaktuṃ / ko vā eṣo katham vā eṣo mā veḍḍe  
-bhaveya nti(tti) / tenāpi dāni praśvāsaṃ kariyāṇa so pṛthivīpradeśo yadi  
-tāvad āhatya /(tyā) pṛthivī bhavati / kāṣṭhena vā kaṭhallena vā  
-uttatthiyā(18a5)ṇaṃ cchorayitavyo atha dāni kṛtaṃkarmmā pṛthivī bhavati /  
-dhovayitavyā / tato tailakārṣī vā gandhakārṣī vā (J.81) dātavyā / atha  
-dāni nāsti vibhavo antamasato gomayakārṣī dātavyā / atha dāni  
-praśvāsakuṭī na bhavati / ekasmi(ṃ) koṇe sarvvasaṃghasya  
-praśvāsapaṭe(ghaṭo) sthāpayitavyo tasyopari cchidramallakā dātavyaṃ //  
-mā aprakṛtikā ghaṭasya vā bāhyena [pra]śvā(18a6)saṃ choreyā ti / tatra  
-tatraṃ(kunta)ko alābuotumbako vā thapayitavyo tahiṃ praśvāsaṃ kariyāṇa  
-ghaṭake prakṣipitavyaṃ / na dāni tahi(ṃ) kṣamati / uccāro vā  
-kheṭasiṃghāṇako vā prakṣipituṃ / so dāni ujjhitavyo / navakāntena  
-kāyasya vā oheyyako bhavati / nāpi dāni kṣamati / atyā(bhyā)game  
-pradeśe ujjhituṃ sarvvasaṃghasya mā gandhena vyāvaheyyā / atha dāni  
-dvibhūmako bhavati / dvitīyāyāṃ (18a7) bhūmiyaṃ tathā yeva ghaṭako  
-sthāpayitavyo / tṛbhūmiko bhavati / tṛtīyāyāṃ bhūmau tathā yyeva  
-sthāpayitavyaṃ / tahiṃ praśvāsaṃ (I.p.93) karitavyaṃ / karṇṇikaṃ yaṃ kālaṃ  
-prahāṇasya yathāsukhaṃ kṛtaṃ bhavati / taṃ kālaṃ praśvāsaghaṭikā  
-nikkāla(J.82)yitavyā / kenāyaṃ nikkālayitavyo / navakāntena vā  
-paṭipāṭipāṭikāya vā yasya vā prāpuṇati / tato pi na kṣamati / so tahiṃ  
-cchorayituṃ / yahiṃ deve va(18b1)rṣintasya stūpavigrahaṃ vā saṃghavigrahaṃ  
-vā gacchati / atha khalu tahiṃ cchorayitavyaṃ / yahiṃ deve varṣantena anye  
-na gacchati nāpi kṣamati / praśvāsaghaṭaṃ abhinikuñje pradeśe  
-sthāpayituṃ / mā anye bhikṣū na paśyeṃsu / nāpi kṣamati / atiprākaṭe  
-pradeśe sthāpayituṃ / mā naṃ ḍhossā vā viḍā vā vātaputrā vā  
-bhuṃjeṃsu / atha khalu pracchannaprākaṭe sthāpayitavyaṃ / vikāle  
-praviśiyāṇaṃ tahiṃ yyeva (18b2) sthāne sthāpayitavyo / ghaṭasyopari  
-cchidramallakaṃ sthāpayitavyaṃ / cchidramallakasyopari kuntako vā  
-alābutumbuko vā thapayitavyo / atha dāni saṃghe praśvāsaghaṭo na  
-bhavati / paudgalikapaudgalikāni praśvāsaghaṭikāni sthāpayitavyāni /  
-ghaṭikā vā kārakā vā alābutumbukā vā kalpa(ya)to eva praśvāsaṃ  
-ekamante visarjiya praśvāsabhaṇḍakaṃ / vodhi(dhovi)ya pratigupte (18b3)  
-pradeśe ātape sthāpayitavyaṃ / tato vikāle bhūyo praveśitavyo / kuta(nta)ko  
-bhavati / evaṃ yyeva karttavyaṃ tucchakaṃ bhavati kalpa(ya)to yeca(va)  
-ujjhitvā cchannā(nne) sthavitavyaṃ / mā phuṭṭeṃsu śiktena uccinitvā  
-sthāpayitavyaṃ / mallakaṃ bhavati / ekānte ujjhitvā dhovitvā ātape  
-sthāpayitavyaṃ / sāyaṃ praveśentena kunta vā tumbakā vā śikṣe(kte)(na)  
-(J.83) uccinitvā mañcakasthāne ullapitavyaṃ / oru(18b4)hantena mallakaṃ  
-ghaṭikā vā mañcakasya ca oruhantena susthapitā karttavyā bhājanaṃ na  
-bhavati / varṣā udakaṃ ca bhavati / na dāni tathā prasrāvo va(ka)rttavyo /  
-yathā cetiyābhigṛhaṃ upari ghaṃśvato gaccheyā ekāntake karttavyaṃ /  
-agniśālāyāṃ vā upasthānaśālāyāṃ vā upaviṣṭasya samudācāro bhavati /  
-cchatti niṣkramitavyaṃ / atha dāni uppilito bhavati akaṃ,(18b5)thāyene viya  
-mūtreṇa siñcantena na gantavyaṃ / atha khalu ekāntena kṛtvā ujjhitavyaṃ  
-(I.p.94) / tailakārṣī dātavyā / antamasato gomayakārṣī dātavyā / eṣo  
-bhikṣu cetiyaṃ vandanto praśvāsakṛto bhavati / samu(dā)cāramātrakeṇa  
-eva gantavyaṃ / atha dāni bhikṣu suṣṭhu uppīlito bhavati nāpi kṣamati /  
-yathā uṣṭreṇa vā goṇena vā urūyo omūtrantena gantuṃ, / atha (18b6)  
-khalu ekamantena praśvāso karttavyo / atha dāni koci bhikṣu paśyati /  
-nāyaṃ vaktavyo ko eṣo kim vā katham vā etaṃ ti mā veḍḍo bhaveya  
-nti(tti) / tenāpi praśvāsaṃ kariyāṇa yadi tāva āhatyā pṛthivī bhavati /  
-kāṣṭhena vā kaṭhallena vā uttacchi(tthi)ya cchorayitavyaṃ / (J.84) atha  
-dāni kṛtakarmmā pṛthivī bhavati dhovitavyā / sarvvatra cetiyaṃgṛhe  
-gandhakārṣī vā tailakārṣī vā dātavyā / atha dāni vibhavo na (18b7)  
-bhavati / antamasato tahiṃ pṛthivīpradeśe tailakārṣī vā gandhakārṣī vā  
-dātavyā / atha dāni āraṇyakaṃ śeyyāsanaṃ bhavati durllabho gandho  
-antamasato tailakārṣī dātavyā / eṣo bhikṣuḥ gocaraṃ pravisati / prakṛtyeva  
-tāva praśvāsaṃ kariya praviśitavyaṃ / atha dāni bhikṣuḥ gocaraṃ praviṣṭaḥ  
-praśvāsakṛto bhavati / nāpi kṣamati / abhyāgame pradeśe praśvāsaṃ  
-karttuṃ, / atha kha(19a1)lu yā u(t)kṣiptarathyā bhavati tuṇḍarathyā tahiṅ  
-gantavyaṃ / kuṇḍa(ṃ) agrato kariyāṇa praśvāso karttavyo yo se dvitīyo  
-sahāyo bhavati / tena pṛṣṭhato sthātavyaṃ / parāṅmukhena eṣo bhikṣuḥ  
-sārthena samānam adhvānaṃ gacchati / praśvāsakṛto bhavati / nāpi  
-kṣamati / panthesmiṃ praśvāsaṃ karttuṃ / mā jano odhyāye kena ime  
-panthe praśvāso kṛto rudhiraṃ viya cchandituṃ / atha khalu ekānte  
-praśvāso karttavyo / (19a2) panthāto ussariya ekānte karttavyaṃ / nāpi dāni  
-kṣamati / anuvātaṃ karttuṃ, / mā sārtho gandhena vyāvaheyyā / apavātaṃ  
-karttavyaṃ / atha dāni sārthe sanniviṣṭe samudā(cā)ro bhavati / ekānte  
-uccattiya karttavyaṃ / (J.85) na dāni apratisaṃviditena uccattitavyaṃ / mā  
-coro vā ocorako veti hanyeyā / atha khalu saṃviditena uccattitavyaṃ / nāpi  
-dāni anuvarttita(vātaṃ kartta)vyaṃ / apavātaṃ karttavyaṃ / nāvāre(ye) (19a3)  
-gacchantasya samudā(cā)ro bhavati / yadi varccakuṭī bhavati tahiṃ  
-karttavyaṃ // atha dāni varccakuṭī na bhavati bhājane kṛtvā ujjhitavyaṃ //  
-(I.p.95) atha dāni glāno bhavati bhikṣuḥ pāṇḍurogeṇa vaidyo jalpati /  
-bhañjentaṃ pratimūtraṃ pibanāya dethe tti kiṃ karttavyaṃ yadi tāva  
-ātmanako praśvāso bhavati / purimapaścimakaṃ ca varjayitvā madhyamaṃ  
-gṛhnitavyo / evam tasya pratigrahaḥ / (19a4) atha dāni anyātakaṃ bhavati  
-purimapaścimakañ ca varjyaṃ kṛtvā gṛhnitavyaṃ / tataḥ paścāt  
-pratigrāhayitavyaṃ / tasya glānasya sumanāphullaṃ na (śa)kke dadiyāṇaṃ  
-vaktavyaṃ / imaṃ khalu buddhaprajñaptaṃ bhaiṣajyaṃ piba yadi jīvitukāmo  
-si / evaṃ praśvāse pratipadyitavyaṃ / na pratipadyati // abhisamācārikān  
-dharmmān atikramanti // * //  
-  
-     II.10       Ms.19a4       (J.85.14);       Ch.505a23  
-     bhagavān śrāvastyāṃ viha(19a5)rati / śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa nidānaṃ kṛtvā / apareṇa dāni bhikṣuṇā sāṃghikāyaṃ (J.86)  
-bhūmau āmrapotako ropitako so dāni taṃ unneti va(r)ddheti ghaṭasiktako  
-ekaputrako viya apareṇa bhikṣuṇā āgacchiya uppāḍiya dantakāṣṭaṃ  
-khāyitaṃ so dāni tena dṛṣṭo // so dān āha / āyuṣman evaṃ ca dāni tvaṃ  
-mama ā(19a6)mrapotako ghaṭasiktako ekaputrakaṃ viya saṃvarddhitavyaṃ /  
-uppāḍiya dantakāṣṭhaṃ khādasi / etaṃ prakaraṇaṃ bhikṣūhi śrutaṃ  
-bhikṣū bhagavato ārocayeṃsu / bhagavān āha / śabdāpayatha taṃ bhikṣuṃ /  
-so dāni śabdāpito bhagavān āha / satyaṃ bhikṣu evaṃ nāma apareṇa  
-bhikṣuṇā sāṃghikāyāṃ bhūmau āmrapotako ropito so dāni tena unnīto  
-varddhito ghaṭasiktako ekaputra(19a7)ko viya tvayā so age(āga)cchiya  
-uppāḍiya bhaṃjiya dantakāṣṭhaṃ khāditaṃ / āha / āma bhagavaṃ  
-bhagavān āha // evaṃ nāma tvaṃ puṣpopagataṃ vṛkṣaṃ uppāḍiya  
-dantakāṣṭhaṃ khādasi / tena hi na kṣamati / dantakāṣṭhaṃ // * // eṣā  
-evārthotpattiḥ //  
-     bhagavān śrāvastyāṃ viharati śāstā devānāñ ca manuṣyāṇāñ ca  
-vistareṇa (I.p.96) nidānaṃ kṛtvā bhagavān mahatīye bālākinīye  
-bhikṣuparyā(ṣā)ye dharmman deśaya(19b1)ti / te dāni bhikṣū  
-dantakāṣṭhaṃ na khādantā ekānte niṣaṇṇā āsanti pravātagandhikena  
-mukhena paśyanti / mā sabrahmacāriṃ gandhena (J.87) vyāvahiṣyāmaḥ /  
-bhagavān jānanto yeva pṛcchati kiṃ ete bhikṣavo bhikṣū ekānte āsanti /  
-kalahitakā viya manye / bhikṣū āhaṃsu / bhagavatā dantakāṣṭhaṃ  
-pratikṣiptaṃ / tato ete bhikṣavo ekānte āsanti / pravātagandhikena  
-mukhena paśyanti mā sabrahmacā(19b2)rī gandhena vyāvahiṣyāmaḥ /  
-bhagavān āha / tena hi anujānāmi dantakāṣṭhaṃ prāmāṇikaṃ mahāntaṃ  
-ṣoḍaśāṅgulaṃ, // * // eṣaivārthotpattiḥ //  
-     bhagavān śrāvastyāṃ viharati / te dāni āyuṣmanto nandanopanandanā  
-savallarikāni dantakāṣṭhāni khādanti jano dāni odhyāyanti paśyatha  
-bhaṇe śramaṇakāḥ / yathā kumārakā vā dharmmiṣṭhā vā akṣadarśā vā  
-gaṇa(kā) vā mahāmatrā vā / evam ime śra(19b3)maṇakāḥ savallarikāni  
-dantakāṣṭhāni khādanti / naṣṭaṃ bhraṣṭaṃ kuto imeṣāṃ śrāmaṇyaṃ etaṃ  
-prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu / bhagavān āha śabdāpayatha  
-nandanopanandanāṃ te dāni śabdāpitā / bhagavān āha / satyaṃ bhikṣavo  
-nandanopanandanā evaṃ nāma yūyaṃ savallarikāni dantakāṣṭhāni  
-khādatha / jano dāni odhyāyati paśyatha bhaṇe śramaṇakā yathā (19b4)  
-kumārakā vā dharmmiṣṭhā vā gaṇakā vā rājaputrā vā ime  
-śramaṇakāḥ savallarikāni dantakāṣṭhāni khādanti / naṣṭaṃ bhraṣṭaṃ  
-kuto imeṣāṃ śrāmaṇyaṃ āhaṃsu / āma bhagavan bhagavān āha / evaṃ ca  
-dāni yūyaṃ apramāṇāni dantakāṣṭhāni khādatha / tena hi pramāṇikaṃ  
-dantakāṣṭhaṃ khādayitavyaṃ / dantakāṣṭhāni nāma triṇi jyeṣṭhaṃ  
-madhyamaṃ kanīyasaṃ / jyeṣṭhaṃ (J.88) nāma ṣoḍaśāṅgu(19b5)lāni  
-madhyamaṃ dvādaśāṅgulāni kanīyasam aṣṭāṅgulāni // * //   
-     bhagavān śrāvastyām viharati vistareṇa nidānaṃ kṛtvā aparo dāni bhikṣu  
-dantakāṣṭhaṃ khādati / tena dāni khādantena dantakāṣṭhaṃ  
-tho(nira)vaśeṣaṃ kṛtaṃ / tena dāni bhagavān dṛṣṭo bhagavato gauraveṇa  
-sarvvam abhyavahṛtaṃ / tasya dāni aphāṃsu / etaṃ prakaraṇaṃ bhikṣū  
-bhagavato ārocayeṃ(19b6)su / bhagavān āha / evaṃ ca yūyaṃ sarvvaṃ, (I.p.97)  
-niravaśeṣaṃ dantakāṣṭhaṃ khādatha tena hi śeṣāś catvāri aṅgulāni  
-dantakāṣṭhasya varjyaṃ karttavyaṃ / atha dāni bhikṣū āraṇyake śeyyāsane  
-prativasanti / kalpiyakāro durllabho bhavati kiṃ karttavyaṃ / jyeṣṭhakāni  
-dantakāṣṭhāni kārāpayitavyāni / tato bhikṣuṇā dantakāṣṭaṃ khādiya  
-ku(r)ccakaṃ śastrakena cchinditavyaṃ / dhoviyāṇaṃ thapayitavyo / aparaṃ  
-(19b7) divasaṃ evam eva khādiya evaṃ tāva khādayitavyaṃ yāva  
-dantakāṣṭhasya catvāri aṅgulāni avaśiṣṭāni tato cchoritavyaṃ / so eṣo  
-bhikṣuḥ niravaśeṣaṃ dantakāṣṭhaṃ khādati vinayātikrama(ṃ) āsādayati /  
-dantakāṣṭhaṃ pi nāma khādantena na kṣamati / stūpavigrahe vā  
-saṃghavigrahe vā dantakāṣṭhaṃ khādinta(tu)ṃ / atha dāni bhikṣuḥ glāno  
-bhavati śirāviddhako vā virecanapītako vā ghṛta(20a1)pītako vā kiñcāpi  
-saṃghavigrahe dantakāṣṭhaṃ khādati / anāpattiḥ / nāpi dāni kṣamati /  
-dantakāṣṭhaṃ (J.89) khādantena kheṭaṃ diśodiśaṃ cchorayituṃ / ku(r)ccako  
-vā dicchaddiya diśodiśaṃ cchorayituṃ / atha khalu kaṭa(ṭā)hake vā  
-mallake vā koṭiyāṃ vā āviddhapuṭikāyām vā kheṭaṃ cchorayitavyo  
-vāmena ca hastena ku(r)ccako gṛhṇitavyaḥ / paścāta ekamantena  
-cchorayitavyaḥ / dantakāṣṭhaṃ pi dāni khādantena nāpi kṣamati /  
-upasthānaśā(20a2)lāyām vā agniśālāyām vā bhaktaśālāyām vā  
-kalpiyaśālāyām vā kalpikakuṭikāyām vā saṃghamadhye (vā)  
-upādhyāyācāryāṇām vā agrato vṛddhatarakānām vā bhikṣūṇāṃ agrato  
-dantakāṣṭhaṃ khādituṃ / nāpi kṣamati mātṛgrāmasya agrato  
-dantakāṣṭhaṃ khādituṃ, / nāpi kṣamati / cetiyaṃ vandantena  
-oguṇṭhitaśīrṣeṇa vā ohitahastena vā tha(ce)tiyāti(bhi)gṛhe vā prāsāde vā  
-khā(20a3)dituṃ / ekāṃśīkṛtena ekānte khāditavyaṃ / nāpi kṣamati /  
-dantakāṣṭhaṃ khādiya madhyena pāṭiyāna jihvāṃ nilehituṃ kāmabhoginā  
-yathā / atha dāni bhikṣu jihvāṃ nilehitukāmo bhavati / kurccakena  
-āmarjayitavyā / nāpi kṣamati vibhūṣaṇābhiprāyeṇa dantakāṣṭhaṃ  
-khādituṃ // atha khalu durggandhaprahāṇārthaṃ dantakāṣṭhaṃ  
-khāditavyaṃ / atha dā(20a4)ni dantakāṣṭhaṃ na (I.p.68) bhavati / aṅgāreṇa  
-vā / apakkaladdunā vā dantā odya(gha)(r)sayitavyāḥ / (J.90) antamasato  
-aṃguli dantakāṣṭhaṃ khāditavyaṃ / sa eṣo bhikṣuḥ sarvveṇa sarvvaṃ  
-dantakāṣṭhaṃ na khādati vinayātikramam āsādayati / eṣo bhikṣu  
-ve(ce)tiyaṃ vandati / paśyati dantapoṇaṃ cchorayitavyo / atha dāni dve janā  
-bhavanti / yo navako bhavati / tena (20a5) uddhṛtavyā / atha dāni navako  
-śaithiliko bāhuliko bhavati vṛddhatareṇa uddhṛtavyo / evaṃ dantakāṣṭhe  
-pratipadyitavyaṃ / na pratipadyati / abhisamācārikān dharmmān  
-atikramati // * //  
-              uddānaṃ   
-              evaṃ śeyyāsane pratipadyitavyaṃ /  
-              evaṃ varṣopanāyiko(ke) śeyyāsane pratipadyitavyaṃ /  
-              evaṃ varṣopagatehi śeyyāsane pratipadyitavyaṃ /  
-              evaṃ (20a6) varṣavustehi śeyyāsane pratipadyitavyaṃ /  
-              evaṃ āgantukehi śeyyāsane pratipadyitavyaṃ /  
-              evaṃ naivāsikehi śeyyāsane pratipadyitavyaṃ /  
-              evaṃ hi sarvvehi śeyyāsane pratipadyitavyaṃ /  
-              evaṃ varce pratipadyitavyaṃ /  
-              evaṃ praśvāse pratipadyitavyaṃ /  
-              evaṃ dantakāṣṭhe pratipadyitavyan ti// * //   
-// dvitīyo varggaḥ // * //   
-  
-  
-     (I.p.99) III.1      Ms.20a6      (J.91.1);      Ch.505c1  
-     bhagavān śrāvastyāṃ viharati / vistareṇa nidānaṃ kṛtvā  
-pañcā(20a7)rthavaśān sampaśyamānās tathāgatā arhantaḥ  
-samyaksambuddhā / pañcāhikāṃ vihāracārikām anucaṃkramanty  
-anuvicaranti / katamāṃ pañca / kacci me śrāvakāḥ / na karmmārāmāḥ /  
-na karmmaratāḥ / na karmmārāmatānuyogam anuyuktā viharanti  
-vistareṇa yāvad adrākṣīd bhagavāṃ pañcāhikāṃ vihāracārikām  
-anucaṃkramanto anuvicaranto anyataraṃ bhikṣu bhūmau astariya cīvaraṃ  
-(20b1) sīvantaṃ bhagavāṃ jānanto pṛcchanti kim idaṃ bhikṣuḥ / āha /  
-bhagavan idaṃ cīvaraṃ sivayāmi /   
-     bhagavān āha / evan taṃ tvaṃ bhūmīya astarīya cīvaraṃ sivayasi / tena hi  
-kaṭhinaṃ nāma karttavyaṃ / kaṭhinaṃ tāva bhikṣuṇā kārāpayamāṇena  
-dvādaśahastāṃ āyāmato karttavyo / aṣṭahastāṃ vistāreṇa vaṃśānāṃ vā  
-nalānām vā na(ṃ)galānāṃ vā kāṇḍānām vā carukānām vā rohiṣāṇām  
-vā sūtrikāya vā rejjukāya vā (20b2) ghaṇa buṇitavyaṃ / yaṃ kālaṃ bhikṣuḥ  
-cīvaraṃ sīvitukāmo bhavati / upasthānaśālāyāṃ vā agniśālāyāṃ vā  
-prāsāde vā prahāṇake kaṭhinaṃ prajñāpayitvā cīvaraṃ sīvitavyaṃ /  
-kaṭhinaṃ astariyāṇaṃ pādāṃ (J.92) dhoviyāṇaṃ kaṭhinasmiṃ  
-pallaṃkenopaviśiyāṇaṃ taṃ cīvaraṃ sīvitavyaṃ / atha dāni aparo pi koci  
-sīvayi(tu)kāmo bhavati tenāpi pādāṃ dhovayitvā kaṭhinasmiṃ  
-pallaṃkenopaviśiya cīvaraṃ, (20b3) sīvayitavyaṃ / atha dāni niṣaṇṇo  
-bāhirakāṃ pādāṃ kṛtvā mū(sū)traṃ valento āsati anāpattiḥ / atha dāni  
-bhikṣuḥ pādānaṃ(ni) dhovayitukāmo bhavati / na kṣamati / adhotakehi  
-pādakehi kaṭhinaṃ okramituṃ / atha khalu bāhyena kaṭhinasmi pādāni  
-thapi/yāṇaṃ cīvaraṃ sīvayitavyaṃ / yaṃ kālaṃ cīvaraṃ sīvitaṃ bhavati /  
-kaṭhinaṃ savva(nva)ṭiyāṇaṃ bhittīye dve kīlakāni khaniya rajjue (20b4)  
-bandhiya tahiṃ ukkavayitavyaṃ / yadi aparo pi koci sīvayitukāmo bhavati /  
-tenāpi kaṭhinaṃ astarīya cīvarakaṃ yeca(va) tathā sīvayitavyaṃ / nāpi  
-kṣamati kaṭhinasya raṅge vā śodhayituṃ gomayaṃ vā cīvarakāni vā  
-śodhayituṃ / atha khalu cīvarakaṃ sīvayitavyaṃ / nāpi kṣamati / kaṭhinaṃ  
-adhyupekṣituṃ (I.p.100) / ullaggakaṃ vā paluggakaṃ vātātapena  
-vināsiyantaṃ varṣeṇa vā ova(20b5)rṣayantaṃ pakṣīhi vā ohayi(pi)yantāṃ /  
-(J.93) atha khalu kālena kālaṃ bandhitavyaṃ kālena kālaṃ  
-pratisaṃskarttavyo / atha dāni kaṭhinaṃ na bhavati / mañcasya vā upari  
-cīvaraṃ pīṭhasya vā upari cīvarakaṃ kariyāṇaṃ sīvitavyaṃ / atha dāni  
-evaṃ na bhavati / prahāṇaśālāyām vā / upasthānaśālāyām vā  
-maṇḍalamāḍe vā pradeśakaṃ gomayena upalimpiya cīvarakaṃ sīvitavyaṃ /  
-antamasa(20b6)to jānukānāṃ pi upari cīvarakaṃ thaviya sīvayitavyaṃ / evaṃ  
-kaṭhine pratipadyitavyaṃ / na pratipadyati // abhisamācārikān dharmmān  
-atikrāmati // * //  
-  
-     III.2      Ms.20b6      (J.93.8);       Ch.505c11  
-     bhagavān śrāvastyāṃ viharati / aparo dāni bhikṣuḥ prahāṇakaṃ  
-upaviṣṭo / so dāni yathāsukhaṃ kṛte vihārakaṃ apaduriya praviśati  
-śītalakaṃ ca tena ākrāntaṃ tasya bhavati dīrghako mayā ākrānto tasya  
-dāni tena nivare(ra)ṇena sarvva(20b7)rātriṃ cittaṃ na samādhānaṃ gacchati /  
-etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu //   
-     bhagavān āha / tena hi cakkalī nāma karttavyā / cakkalī tāvad  
-bhikṣuṇā kārāpayamāṇena kārāpayitavyā / vaṃśānām vā naḍānām vā  
-naṅgalānām vā kaṇḍānām vā rejjukāye vā mū(sū)trakāye vā ghaṇā  
-buṇitavyā tathā karttavyā / yathā dīrghako na saṃsakkati / vihārasya  
-dvārasmiṃ upari trayo kīlakāni āṭapitavyā (21a1) tahiṃ cakkalī  
-bandhitavyā / osāriyāṇaṃ heṣṭhe dve kīlakānāṃ pīḍiyāṇa tahiṃ (J.94)  
-bandhitavyaṃ / yaṃ kālaṃ bhikṣuḥ prahāṇaṃ otaranti tato dvāraṃ  
-muñcitavyaṃ / nivāpiyāṇa cakkalī osāriyāṇaṃ kīlakehi bandhiyāṇa tato  
-osāritavyaṃ / yaṃ kālaṃ prahāṇasya yathāsukhaṃ kṛtaṃ bhavati / tato  
-vihāraṃ gacchiyāṇaṃ cakkalī utkṣipitavyā // nāpi dāni sahasā anekāyo  
-mā tarhi dīrghako praviṣṭo bhavepa(21a2)ya nti(tti) / atha khalu  
-khaṭakhaṭāpayitavyo kāṣṭhena vā kaṭhallena vā tato paścāc cakkalī  
-utkṣipitavyā / praviśiyāṇaṃ cakkalī osārayitavyā / dvāraṃ bandhitavyaṃ /  
-tato pratikramitavyaṃ paścimaṃ prahāṇaṃ otaritavyaṃ / dvāraṃ (I.p.101)  
-apaduccaritavyaṃ cakkalī utkṣipiyāṇaṃ dvāraṃ pivi(dhi)yāṇaṃ cakkalī  
-osāriyāṇaṃ prahāṇaṃ otaritavyaṃ / prahāṇato yaṃ kālaṃ utthito bhavati /  
-vihāraṃ gacchiyāṇaṃ yadi (21a3) (tā)va prabhātaṃ bhavati / cakkalī  
-utkṣipiyāṇaṃ upari bandhitavyā // dvāraṃ apaduriya tato praviśitavyaṃ /  
-evaṃ devasikaṃ na dāni kṣamati divasata osarayitvā thapayituṃ / nāpi  
-kṣamati sā cakkalī adhyupekṣituṃ / ullaggikā vā paluggikā vā /  
-prāṇakehi (J.95) vā khajjanti / atha khalu kālena kālaṃ bandhitavyā /  
-kālena kālaṃ pratisaṃskarttavyā / evaṃ cakka(21a4)līye pratipadyitavyaṃ / na  
-pratipadyeti // abhisamācārikān dharmmān atikramati // * //  
-  
-     III.3      Ms.21a4      (J.95.4);      Ch.505c17  
-     bhagavān śrāvastyāṃ viharati vistareṇa nidānaṃ kṛtvā pañcārthavasāṃ  
-saṃpaśyamānā yāva vistareṇa kṛtvā yāvad adrākṣīd bhagavān  
-pañcāhikāṃ vihāracārikām anucaṃkramanto vihārāṃ oddriṇṇakāṃ  
-palluggakāṃ ullāpe(ye) gṛhītakāṃ acaukṣāṃ apratisaṃskṛtāṃ /  
-     bha(21a5)gavān jānanto yeva pṛcchati / kiṃ ke(i)me bhikṣu vihārakā  
-oddriṇṇakā paluggakā ollāye gṛhītakā acaukṣā apratisaṃskṛtā tena hi  
-evaṃ vihāre pratipadyitavyaṃ / vihārā nāma trīṇi jyeṣṭhako madhyamako  
-kanīyasako jyeṣṭhako nāma vihārako bhūmi bhavati /  
-māṣakāna(la)vallā(rṇṇā) ulloko bhavati / prapāṇḍarā bhitti bhavati /  
-kṛtakarmmā evaṃ jye(21a6)ṣṭhako kin ti madhyamako kin ti dāni  
-madhyamako madhyamako nāma vihārako bhavati / māṣakālavarṇṇā  
-bhitti bhavati kṛtakarmmā / na ca bhavati / ullāpo prapāṇḍaro evaṃ  
-madhyamako / kin ti dāni kanīyasako bhūmi bhavati / māṣakālavarṇṇā  
-nāpi bhavati / ullāpo prapāṇḍaro nāhaiva bhitti kṛtaparikarmmā evaṃ  
-kanīyasako / yo dāni jyeṣṭhako bhavati vihāro nāyaṃ kṣamati / tahiṃ  
-maṃcā (21a7) vā pīṭhā vā praviśituṃ / atha (J.96) khalu (I.p.102) catvāri  
-pratipādakā karttavyā / mā bhūmī khanīyaṃ ti praveśiyāṇaṃ tato tahiṃ  
-pratipādakānāṃ / upari thapetavyo / atha dāni pratipādako na bhavati /  
-leṅkaṭakehi pādā bandhitavyā / pīṭhaṃ praveśeti / pīṭhasyāpi evaṃ  
-yyeva āsandakaṃ tṛpādakaṃ vā praveśeti / tasyāpi leṅkaṭakehi pādakā  
-bandhitavyā / nāpi tahiṃ kṣamati / mandamukhī prajvā(21b1)layituṃ /  
-dīpako vā praveśayituṃ / atha dāni bhikṣuḥ śeyyāṃ prajñapayitukāmo  
-bhavati / kiñ cāpi dīpakaṃ praveśeti / anāpattiḥ / śeyyāṃ  
-prajñapayantenaiva cchi(ccha)tti nikkālayitavyā nāpi kṣamati / tahiṃ pādāṃ  
-dhovituṃ hastāṃ dhovituṃ mukhaṃ dhovituṃ nāpi kṣamati tahiṃ caṃkrama  
-caṃkramituṃ // pattholiṃ dhunantena / atha dāni bhikṣu glāno bhavati kiñ  
-cāpi ṣaṭapañca gatāṃgatāṃ deti anāpa(21b2)ttiḥ / nāpi dāni kṣamati /  
-ekenāntena / atha khalu samantena caṃkramitavyaṃ / na yaṃ boli  
-ḍa(u)dvāpayantena / na kṣamati tahiṃ bhaktakṛtyaṃ pure(J.97)bhaktikaṃ vā  
-karttuṃ pātraṃ vā nirmmādayituṃ / atha dāni madhya(ma)ko bhavati /  
-madhyamake pi eṣo eva paryāyo ananyo adhikṛto / atha dāni kanīyasako  
-vihārako bhavati / kiñ cāpi bhikṣuḥ vinā pratipādakehi mañcakaṃ thapeti /  
-anāpattiḥ / (21b3) pīṭhakam vā pīṭhikām vā tṛpādakam vā vinā  
-pratipādakehi thapetti anāpattiḥ / mandamukhīm vā prajvāleti /  
-anāpattiḥ / dīpaṃ vā praveśeti / anāpattiḥ / glāno vā aglāno vā  
-anāpattiḥ / kiṃ cāpi caṃkramati / anāpattiḥ / jānitavyaṃ / yadi tāva  
-upeḍanako so vihārako bhavati / nāpi tahiṃ kṣamati / pādāṃ dhovituṃ  
-hastām vā nirmmādayituṃ / (21b4) atha dāni upaṃsulako bhavati / kiñ cāpi  
-bhikṣuḥ pādām vā dhovati mukham vā dhovati / hastam vā  
-nirmmādayati / rajonigrahaṃ kāheti tti anāpattiḥ / bhaktakṛtyam vā  
-purobhaktikam vā karoti / pātram vā nirmmādayati / anāpattiḥ / nāpi  
-kṣamati vihārako adhyupekṣituṃ / oddriṇṇako vā paluggako vā ollāye  
-gṛhītako vā acokṣo vā (21b5) adhyupekṣituṃ / atha dāni oddriṇṇako  
-bhavati / tṛṇacchadano bhavati tṛṇapulako dātavyo (I.p.103)  
-mṛttikācchadano bhavati / mṛttikāpiṇḍo dātavyo / iṣṭakācchadano  
-bhavati / iṣṭakā dātavyā / apakkacchadano (J.98) bhavati / apakkā  
-dātavyā / kabhallakācchadano bhavati / kabhallakā dātavyā /  
-phalakacchadano bhavati / phalakaṃ dātavyaṃ / sudhā(21b6)cchadano  
-bhavati / sudhāpiṇḍo dātavyo / kālena kālaṃ śodhayitavyo / saṃtānikā  
-sātayitavyā / mūṣika-ukkiro vā koṭayitavyo / ukūlanikūlo bhavati / samo  
-karttavyo / cikkhalikā pūretavyā / vaṃghorikā dātavyā / ullāpe(ye)  
-gṛhītako bhavati / śāṭiyāṇaṃ liptopalipto ghaṣṭamaṣṭo karttavyo /  
-uppeḍanako bhavati / pāṃsukena vā śarkaroṭena vā  
-pra(21b7)tyāstaritavyo / upāṃsulako vihārako bhavati / kālena kālaṃ  
-siñcitavyo / saṃmārjitavyo / gomayakārṣī dātavyā / śa(ṃ)tānikā  
-śāṭayitavyā / evaṃ vihāre pratipadyitavyaṃ / na pratipadyati /  
-abhisamācārikān dharmmān atikramati // * //  
-  
-     III.4      Ms.21b7      (J.97.3);       Ch.505c29  
-     bhagavān śrāvastyām viharati / pañcārthavaṃśā(śāṃ) vistareṇa kṛtvā  
-yāva adrākṣīd bhagavān pañcāhikāṃ vihāracārikām anucaṃkramanto  
-(22a1) anuvicaranto vihārakā(nā)ṃ pakka-kheṭena vā pakka-siṃghāṇakena  
-bhittīyo vināsitāyo siṃghāṇakavarttīhi lambantehi /  
-     bhagavāna jānanto yeva pṛcchati / kiṃ imāyo bhikṣave vihārakānāṃ  
-bhittiyo pakka-kheṭena pakkasiṃghāṇakena varttīhi lamba(J.99)ntīhi / tena  
-hi evaṃ kheṭe pratipadyitavyaṃ / kin ti dāni evaṃ kheṭe pratipadyitavyaṃ  
-nāyaṃ kṣamati / bhikṣuṇā kṛtakarmmāyāṃ vā akṛ(22a2)takarmmāyāṃ vā  
-bhittīyaṃ kheṭam vā siṃghāṇakam vā cchorayituṃ // atha khalu  
-kheṭakaṭāhaṃ karttavyaṃ / kapālaṃ vā mallam vā kuṇḍikam vā  
-dakānakam vā liptopaliptaṃ kariya vālikāye vā pāṣāṇasya vā  
-patthaliddrakānāṃ vā pūrayitavyaṃ / tato tahiṃ kheṭe(ṭo) karttavyo / nāpi  
-kṣamati kheṭakaṭāhakaṃ adhyupekṣituṃ / mā sapramāṇako bhaveya / atha  
-khalu kālena kālaṃ ccho(22a3)riya anyasya pūrayitavyaṃ / ātape vā dātavyo  
-yo(so) bhūyo praveśayitavyo / atha dāni (I.p.104) kheṭakaṭāhakaṃ bhavati  
-mallakaṃ vā koṭikam vā āviddhapuṭikā vā thapetavyā tahiṃ kheṭo  
-karttavyo / kālena kālaṃ visarjayitavyo // atha dāni evaṃ pi na bhavati /  
-kṛtakarmmā bhūmi bhavati na kṣamati / bhūmīye cchorayituṃ / atha khalu  
-ekasya upānahāye (22a4) tale cchorayitavyaṃ dvitīyena marddayitavyaṃ /  
-atha dāni uppaṃsulo vihāro bhavati / bhūmīye cchoriya pādena  
-mardditavyo / eṣo bhikṣuḥ divāvihāraṃgato caṃkramati / śleṣmiko bhikṣu  
-bhavati / ito ca cchoriyanto caṃkramati vinayātikramam āsādayati / atha  
-khalu cchoriyāṇa pādena marditavyaṃ / caṃkramaśīrṣe vā āviddhapuṭikā  
-vā (J.100) vālikā(22a5)ye vā kūṭimallakaṃ vā thapetavyaṃ, / tahiṃ kheṭo  
-cchorayitavyo / yaṃ kālaṃ gacchati / tato ekatamaṃte cchorayitavyo / prahāṇe  
-āsantasya kheṭa bādhati / opānahapuṭe kṛtvā bhūmiṃye marditavyaṃ, //  
-atha dāni bhūmyastāro bhavati bhājane karttavyaṃ / kuntake vā alābuke  
-vā vaṃśattholikāyāṃ vā / atha dāni ucchado bhavati / kheṭam vā  
-siṃghāṇakaṃ, (22a6) vā utthitvā ekānte kṛtvā punaḥ / upaveṣṭavyaṃ /  
-upādhyāyācāryāṇāṃ vā mūle kheṭaṃ vyāvahati / ekānte karttavyaṃ / eṣo  
-dāni bhikṣusya gocaraṃ praviśantasya athā(dhvā)namārggagatasya vā  
-kheṭe āgacchati cchoriya pādena marditavyo / amardiya gacchati  
-vinayātikramam āsādayati / atha dāni kṣudro kheṭe upāṃsulo ca bhūmī  
-bhavati / cchorantako yyeva paryā[dānaṃ] gaccha(22a7)ti / kiṃ cāpi na  
-marddati / anāpattiḥ / eṣo bhikṣuḥ stūpaṃ vandati stūpābhigṛhe vā kheṭaṃ  
-cchoritakaṃ kena ci aprakṛtijño na pādena marditavyo / atha dāni dve janā  
-bhavaṃti / yo navako bhavati / tena mardditavyaṃ / atha dāni navakataro  
-śaithiliko bāhuliko vā bhavati / vṛddhatarakena marditavyaṃ / evaṃ kheṭe  
-pratipadyitavyaṃ, / na pratipadyati // abhisamācārikān dharmmān  
-ati(22b1)kramati // * //  
-  
-     III.5      Ms.22b1       (J.101.1);      Ch.506a17  
-     (J.101) bhagavān śrāvastyāṃ viharati vistareṇa nidānaṃ kṛtvā apareṇa  
-dāni bhikṣuṇā muṇḍe vātapāṇe pātraṃ sthavitaṃ tan dāni  
-vātamaṇḍalikāye (I.p.105) āgacchiyāṇaṃ bhūmīyaṃ pātito bhinno  
-kapālānāṃ rāśiṃ kṛtvā yavāgūye gaṇḍī ākoṭitā so dāni hastāṃ  
-nirmmādiya vihārakaṃ praviṣṭo paśyati / kapālikānāṃ rāśiṃ etaṃ  
-prakaraṇaṃ yo(so) bhikṣuḥ bhagavato āroca(22b2)ye /   
-     bhagavān āha / evaṃ ca tvaṃ muṇḍavātapāne pātraṃ thapesi tena hi evaṃ  
-pātre pratipadyitavyaṃ / kin ti dāni evaṃ pātre pratipadyitavyaṃ / bhikṣuṇā  
-tāva kalyato yeca(va) nivāsiya prāvariya pātracīvaram ādāya gocaraṃ  
-praviśitavyaṃ / gocarāto nirddhāviya āhāraṃ karīya pātraṃ  
-nirmmādayitavyaṃ / nāpi kṣamati / karkaśena vā cūrṇṇena karkaśena vā  
-gomayena nirmmādayituṃ // atha (22b3) khalu mūlarasena vā patrarasena  
-vā puṣparasena vā nirvvālikena vā gomayena nirmmādayitavyaṃ nāpi  
-kṣamati vilvasya vā pakvasya kapitthasya pakvasya nālikerasya heṣṭhe  
-nirmmādayituṃ, / mā pakvena vā vilvena pakvena vā kapitthena pakvena  
-vā nālikereṇa bhaṃjeya nti(tti) / nāpi kṣamati dariniśritena vā pātraṃ  
-nirmmādayituṃ / mā patitaṃ bhañjaya nti(tti) (22b4) atha khalu karṣadhāne  
-vā vālikādhāne vā dūrvvāsādvale vā nirmmādayitavyaṃ / nāpi kṣamati  
-sthitakena pātraṃ nirmmādayituṃ // nāpi kṣamati (J.102) bhūmīye  
-ghasantena // atha khalu upaviṣṭe(ṣṭa)kena nirmmādayitavyaṃ /  
-adhvāvayantena nāpi / kṣamati / sthitakena adhvāpayituṃ // atha khalu  
-upaviṣṭena adhvāpayitavyaṃ / pratisāmayantena nāpi kṣamati /  
-jaṃghā(22b5)pathe vā sthāpayituṃ / kapāṭo(ṭe) vā muṇḍavātāyane vā /  
-atha khalu pātra praveśikāyāṃ prakṣipiya sthapetavyaṃ / nāpi kṣamati  
-sthitakena prakṣipituṃ // atha khalu upaviṣṭakena prakṣipitavyaṃ /  
-pātraprasevikānāgadantake vā kīlake vā ukkaciya thapetavyā / atha dāni  
-ujjuko kīlako bhavati / duve trayo vā aveḍhakā dātavyāḥ / atha dāni  
-nāgadantako (22b6) bhavati / kiñ cāpi evam eva thapeti / anāpattiḥ //  
-pātraprasevikā na bhavati pātrapīṭhake thapetavyaṃ / atha dāni  
-pātrapīṭhakaṃ na bhavati / kāṣṭham vā iṣṭakam vā upalam vā  
-nirāmiṣaṃ nirmmādiya tasya upari sthapetavyaṃ / atha dāni evaṃ pi na  
-bhavati / antamasato pṛthivīpradeśaṃ (I.p.106) pi gomayena upalimpiya  
-thapetavyaṃ / gṛhnantena nāpi kṣamati / ekahastena duve trayo vā pātrāṇi  
-gṛhnituṃ, / a(22b7)tha khalu paramaṃ trayo pātrāṇi gṛhnitavyāni /  
-ekahastena dve gṛhnitavyāḥ / apareṇa dāni ekaṃ / atha dāni  
-pratyandhakārako vihārako bhavati / na kṣamati / pātreṇa pātraṃ  
-mārggituṃ // atha khalu hastena mārggitavyaṃ / atha dāni bhikṣuḥ  
-upādhyāyasya cā(vā)cāryasya vā pātram allīpayati nāpi kṣamati /  
-upādhyāyasya vā ācāryasya vā pātraṃ vāmena (J.103) hastena  
-allīpayituṃ, / atha khalu (23a1) upādhyāyasya vā ācāryasya vā dakṣiṇena  
-hastena pātraṃ allīpayitavyaṃ / nāpi kṣamati / gṛhītaṃ na gṛhīta nti(tti) /  
-tato muñcitavyaṃ / okaḍḍhantena sugṛhītaṃ karttavyaṃ / nirmmādayantena  
-prathamaṃ upādhyāyasya vā ācāryasya vā pātraṃ nirmmādayitavyaṃ /  
-paścād ātmano śoṣayantena prathamaṃ upādhyāyasya vā ācāryyasya vā  
-śoṣayitavyaṃ / paścād ātmano pratisāmayantena prathamaṃ  
-upā(23a2)pādhyāyasya vā ācāryasya vā pratisāmayitavyaṃ / paścād  
-ātmano pravesikā karttavyā / dupuṭā tṛpuṭā prasevikāyāṃ  
-prakṣipiyantena kalāvīyaṃ dāḍīyaṃ / aṃsibaddhakaṃ prakṣipitvā  
-samavasthāya upaviṣṭakena utsaṅgasya upari prakṣipitavyaṃ / mañcasya vā  
-pīṭhasya vā upari prakṣipitavyaṃ / ullayantena kīrṇṇa(la)kaṃ hastena  
-pratyavekṣitvā mañcasya vā pīṭhasya vā upari jālavātāya(23a3)ne vā  
-pātramelake vā yathā na ghaṭṭeṃsu nāpi kṣamati / pātraṃ adhyupekṣituṃ  
-phalakena vā khajjantaṃ khaṇḍaṃ vā cchidram vā / atha khalu kālena  
-kālaṃ dahitavyaṃ / pacitavyaṃ / rañjitavyaṃ / na dāni kṣamati / pātreṇa  
-aprayataṃ gṛhnituṃ / uccāro vā prasrāvo vā kheṭaṃ vā siṃghāṇakaṃ vā  
-vighaso vā saṃkāro vā anyam vā aprayattaṃ grahetuṃ, / nāpi dāni  
-kṣamati / pātre(23a4)ṇa keṣāṃ (J.104) otārayitum vā pādaṃ vā mukhaṃ vā  
-dhovituṃ / jentākam vā praveśituṃ / udakakṛtyaṃ vā karttuṃ, / yathā  
-akṣismiṃ evaṃ pātre pratipadyitavyaṃ / na pratipadyati / abhisamācārikān  
-dharmmān atikrāmati // * //  
-  
-(I.p.107)   
-     III.6       Ms.23a4       (J.104.4);       Ch.506b13  
-     bhagavān śrāvastyāṃ viharati / te na dāni āyuṣmato ṣaḍvarggikāḥ /  
-ekatyaṃ yavāgūṃ nindanti / ekatyaṃ prasaṃsanti / yo tāva tpa(pe)laṃvā  
-bhavati / (23a5) jalpanti / he he he nāyaṃ kiñca(ci)d yāgu gaṅgā ayaṃ  
-sarayū ajiravatī mahī mahāmahī tti nicuḍabuntikāye imaṃhi taṇḍulā  
-mārggitavyā // atha dāni khakkhaṭa bhavati jalpati / he he he nāyaṃ kiñci  
-yavāgū lecchaṃ ayaṃ peyyā ayaṃ peyyā ayaṃ kaṭṭārikā cchejjā ayaṃ te  
-dāni bhikṣū utkṣiptā bhavanti / jihmā(hvā) veḍḍhā niṣpratibhānāḥ / etaṃ  
-prakaraṇaṃ bhi(23a6)kṣū bhagavato ārocayeṃsu / bhagavān āha /  
-śabdāpayatha ṣaḍvarggikāṃ te dāni śabdāpitāḥ / etad eva pṛcchiyanti /  
-āha / āma bhagavan   
-     bhagavān āha / tena hi evaṃ yavāgūye pratipadyitavyaṃ / kin ti dāni evaṃ  
-yavāgūye pratipadyitavyaṃ / eṣo dāni yavāgūye samayo ārocito bhavati /  
-tato jānitavyaṃ / kim ayaṃ yavāgū ubhayato sāṃghikāparyā(ṣā)ye  
-pariveṇikā nimantritikā(23a7)yāṃ / yadi tāva ubhayato sāṃghikā bhavati  
-sarvvehi (J.105) gantavyaṃ / pārthikā bhavati / tāye paryā(ṣā)ye gantavyaṃ  
-pariveṇikā bhavati / tehi pariveṇikehi gantavyaṃ nimantritakā vā bhavanti /  
-tehi nimantritakehi gantavyaṃ / pratikṛtyeva tāva bhikṣuṇā dantakāṣṭhaṃ  
-khādayitavyā(vyaṃ /) mukhaṃ dhoviya hastāṃ nirmmādiya pātraṃ gṛhniya  
-upaviśitavyaṃ / nāpi kṣamati yavāgū upānahārūḍhena vā praticchituṃ /  
-(23b1) oguṇṭhikākṛtena vā samaṃtaprāvṛtena vā praticchituṃ / atha khalu  
-upānahā nikhosiya ekāṃśakṛtena yavāgū praticchitavyā / atha dāni  
-daṇḍakarmma pratidinnaṃ bhavati / pā(r)ṣṇivabrā(ddhrā) omuñcitavyā  
-dvitīyakālikasya lābhagrāhaṃ adhyeṣitvā gantavyaṃ / atha dāni  
-upaviṣṭakānāṃ (paṭi)pāṭikāye (I.p.108) dīyati / yathā vṛddhikāye  
-gṛhnitavyaṃ / yadi tāva tanukā bhavati / na vaktavyaṃ / he he he gaṅgā  
-āyaṃ sarvvaṃ yā(23b2)va mahī candrabhāgā ayaṃ / atha dāni atighanā  
-bhavati na vaktavyaṃ / nāyaṃ yavāgū odano ayaṃ daṇḍāsani bhejjā ayaṃ /  
-atha khalu yādṛśī dīyati tādṛśī praticchitā dāyakavaśo (J.106) na  
-pratigrāhakavaśo // atha dāni bhikṣuḥ / jarādurbbalo vā vyādhidurbbalo  
-vā bhavati / atiśītam vā ati-uṣṇam vā bhikṣu naiva dantakāṣṭhaṃ  
-khādati / na mukhaṃ dhovati / na hastā nirmmādayati / ānanta(23b3)ryasya  
-yā pātraṃ dātavyaṃ / vaktavyaṃ āyuṣman imaṃ mama yavāgūye  
-pratyaṃśaṃ gṛhna / yaṃ kālaṃ praticchitā bhavati / tato paribhuñjitavyā / ete  
-vilambakā yavāgūḥ nindanti vā prasaṃsanti vā vinayātikramaṃ  
-āsādayanti / evaṃ yavāgūye pratipadyitavyaṃ / na pratipadyati //  
-abhisamācārikān dharmmān atikramati // * //  
-  
-     III.7       Ms.23b3       (J.106.8);      Ch.506b28  
-     bhagavān śrāvastyāṃ viharati vistareṇa nidā(23b4)naṃ kṛtvā aparo dāni  
-bhikṣuḥ yogācāro vaidehake parvvate niṣaṇṇo cittaṃ samādhayiṣyāmīti /  
-aparo dāni bhikṣuḥ / āgacchiya tasya purato sthito tasya dāni tena  
-nīva(ra)ṇena cittaṃ samādhānaṃ na gacchati etaṃ prakaraṇaṃ so  
-yogava(gācā)ro bhagavato ārocaye bhagavān āha / śabdāpayatha taṃ  
-bhikṣuṃ so dāni śabdāpito / bhagavān āha / satyaṃ bhikṣu (23b5) evaṃ  
-nāma aparo yogācāro vaidehake parvvate niṣaṇṇo cittaṃ samādhayiṣyan ti /  
-tvaṃ dāni tasya purato āgacchiya sthito tasya dāni tena nīvaraṇena cittaṃ  
-samādhānaṃ na gacchati / āha / āma bhagavana   
-     bhagavān āha / duṣkṛtaṃ te bhikṣu eva(ṃ) ca tvaṃ yogācārasya bhikṣusya  
-purato tiṣṭhasi tena hi evaṃ sthātavyaṃ / kin ti dāni evaṃ sthātavyaṃ /  
-nāyaṃ tāva kṣamati (J.107) bhi(23b6)kṣuṇā yogācārasya bhikṣusya purato  
-tiṣṭhituṃ nāpi kṣamati veśikā samantakena vā tiṣṭhituṃ /  
-vadhabandhanāgāraśālāsāmantena vā tiṣṭhituṃ / nāyaṃ kṣamati /  
-atigupte vā atiprākaṭe vā pradeśe tiṣṭhituṃ / atha khalu cchannaprākaṭe  
-pradeśe sthātavyaṃ / na (I.p.109) kṣamati stūpaṃ vā pṛṣṭhato kṛtvā  
-tiṣṭhituṃ, / saṃghaṃ vā upādhyāyācāryam vā vṛddhatarakaṃ vā pṛṣṭhato  
-kṛtvā tiṣṭhituṃ / upānahārūḍhena (23b7) vā tiṣṭhantu khaṃbhakṛtena vā  
-oguṇṭhitaśīrṣeṇa vā ovāhitahastena vā nāpi kṣamati saṃghamadhye mā  
-tiṣṭha ti ukto tiṣṭhituṃ / upādhyāyācāryehi vā uktena samānena mā  
-tiṣṭheti tiṣṭhati vinayātikramam āsādayati / atha dāni glāno bhavati / kiñ  
-cāpi opānahāruḍho oguṇṭhitaśīrṣo vā ohitahasto vā tiṣṭhati / anāpattiḥ /  
-evaṃ sthātavyaṃ na tiṣṭhati // abhisamācārikān dharmmān  
-atikrā(24a1)mati // * //  
-  
-     III.8       Ms.24a1      (J.107.13);       Ch.506c16  
-     bhagavān rājagṛhe viharati śāstā devānāñ ca manuṣyāṇāñ ca vistareṇa  
-nidānaṃ kṛtvā aparo dāni bhikṣuḥ / yogācāro vaidehake parvvate niṣaṇṇo  
-cittaṃ samādhayiṣyāmīti / aparo dāni bhikṣuḥ / āgatvā tasya purato  
-tālapādukāhi ābaddhāhi dīrghacaṃkramaṃ caṃkramati / ṭapya ṭaṭapya  
-ṭapya ṭaṭapya nti(tti) tasya (J.108) dāni tena śabdena cittaṃ na  
-samādhānaṃ gacchati / etaṃ praka(24a2)raṇaṃ so yogācāro bhagavato  
-ārocaye / bhagavān āha / satyaṃ bhikṣu evaṃ nāmā aparo yogācāro  
-vaidehake parvvate niṣaṇṇo cittaṃ samādhayiṣyāmīti / tad evaṃ sarvvaṃ  
-bhagavān vistareṇa pratyārocayati / yāva tasya dāni tena śabdena cittaṃ na  
-samava(mā)dhānaṃ gacchati / āha / āma bhagavan   
-     bhagavān āha / duṣkṛtaṃ te bhikṣuḥ / evaṃ ca tvaṃ yogācārasya  
-bhikṣusya purato caṃkramasi / tena hi (24a3) evaṃ caṃkramitavyaṃ / kin ti  
-dāni evaṃ ca(ṃ)kramitavyaṃ / nāyan tāva kṣamati bhikṣuṇā yogācārasya  
-bhikṣusya purato caṃkramituṃ / nāpi kṣamati stūpam vā pṛṣṭhato kṛtvā  
-caṃkramituṃ / saṃghaṃ vā pṛṣṭhato kṛtvā caṃkramituṃ /  
-upādhyāyācāryam vā pṛṣṭhato kṛtvā caṃkramituṃ / eṣo dāni bhikṣuḥ /  
-upādhyāyena vā ācāryeṇa vā sārddhaṃ caṃkramati / upādhyāyasya vā  
-ācāryasya ati(24a4)rekaṃ caṃkramituṃ nāpi kṣamati / samaṃ  
-caṃkramayituṃ / atha khalu dve trayo vā padā (I.p.110) nihinakena  
-caṃkramitavyaṃ / saṃghamadhye vā caṃkramati / mā caṃkramāhīti uktena  
-na caṃkramitavyaṃ / atha dāni glāno ghṛtaṃ vā pītaṃ / virecanaṃ vā pītaṃ  
-kiñ cāpi caṃkramati / tan na kṣamati / purato samaṃ vā gantuṃ ohayitvā  
-gantavyaṃ / anuvarivarttantena tadā na kṣamati /  
-u(24a5)pādhyāyācāryāṇāṃ vā pṛṣṭhato kṛtvā parivarttita(tu)ṃ / atha  
-khalu abhidakṣiṇaṃ agrato karentena anuparivarttitavyaṃ / nāpi kṣamati  
-vesikāsāmantakena caṃkramituṃ / nāpi kṣamati dyutikaraśālāsāmantakena  
-caṃkramituṃ, / vadhabandhanāgārasāmantena caṃkramituṃ / (J.109) nāpi  
-kṣamati atiprākaṭe vā pradeśe caṃkramituṃ / atha khalu cchannaprākaṭe  
-pradeśe (24a6) caṃkramitavyaṃ / evaṃ caṃkrame pratipadyitavyaṃ / na  
-pratipadyati / abhisamācārikān dharmmān atikramati //*//  
-  
-     III.9       Ms.24a6       (J.109.4);      Ch.507a4  
-     bhagavān śrāvastyām viharati te dāni āyuṣmanto ṣaḍvarggikāḥ /  
-uṣṭ(r)aparyaṃkena prahāṇaṃ upaviṃśa(śaṃ)ti / anantarikānāṃ jānukehi  
-vyāvahanti / etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu / bhagavān  
-āha / śabdāpayatha ṣaḍvarggikān te dāni śabdāpitāḥ / bhaga(24a7)vān  
-āha / satyaṃ bhikṣavo ṣaḍvarggikā evaṃ nāma yūyaṃ uṣṭraparyaṅkena  
-prahāṇe niṣīdatha / anantarikānāṃ jāta(nu)kehi vyāvahatha āhaṃsu / āma  
-bhagavana bhagavān āha / duṣkṛtaṃ bhikṣavo ṣaḍvarggikāḥ / evaṃ ca  
-yūyaṃ uṣṭraparyaṅkena prahāṇe niṣīdatha / tena hi (na) kṣamati /  
-uṣṭraparyaṅkena prahāṇe niṣīdituṃ / bhagavān / tān bhikṣūn  
-āmantrayati / evaṃ bhikṣavo niṣīdatha / yathā nāga(24b1)himavatāḥ / ekaṃ  
-nāgaṃ dve nāgā anuparidhā(vā)rya niṣīdanti / dve nāgā catvāri nāgā  
-anuparivārya niṣīdanti catvāri aṣṭa aṣṭa ṣoḍaśa ṣoḍaśa (dvātriṃśad)  
-dvātriṃśac catuṣaṣṭi nāgā anupa(ri)vārya niṣīdanti / (J.110) athottareṇa  
-yathānubhāvaṃ na kṣamati / uṣṭraparyaṅkena niṣīdituṃ, / bhikṣuṇāpi  
-tāva svasti(ka)paryaṅkena prahāṇe niṣīditavyaṃ / atha dāni (I.p.111)  
-bhikṣu paryaṅkena niṣaṇṇo bhavati śrānto bha(24b2)vati / garbhāni  
-āmilāyanti / nāpi kṣamati / ubhayāni sandhī maṭamaṭāye prasārituṃ /  
-atha khalu eko pādo sukhākaṃ prasārayitavyo taṃ amuhūrtte viśrāmiya  
-sanmiñjiya dvitīyo pādo sukhākaṃ prasārayitavyo / utthipitvā vā ekānte  
-caṃkramitavyaṃ / na kṣamati / oguṇṭhitaśīrṣeṇa prahāṇe upaveṣṭuṃ / atha  
-dāni jarādurbbalo vā vyādhidurbbalo vā bhavati / śīrṣam vā (24b3)  
-duḥkhati / arddhaśīrṣasya pithetavyaṃ / eko ca karṇṇo / atha dāni ekānte  
-bhavati ucchedake vā vṛkṣamūlake vā vihāre vā pratisaṃlīnako kiñ cāpi  
-oguṇṭhitaśīrṣo niṣīdati / anāpattiḥ / amūhūrttakaṃ viśramiya bhūyo  
-svastikaparyaṅkena niṣīditavyaṃ // atha dāni bhikṣu na pāreti /  
-svastikaparyaṅkena niṣīdituṃ / [arddhaparyaṅkena] (24b4) niṣīditavyaṃ /  
-atha dāni arddhaparyaṅkenāpi na pāreti niṣīdituṃ, / ubhau pādau osāriya  
-susaṃvṛtena niṣīditavyaṃ / tathā karttavyaṃ / yathānantaryaṃ jānukehi na  
-vyāvahati / na kṣamati / stūpaṃ pṛṣṭhato karīya niṣīdituṃ / saṃgham vā  
-pṛṣṭhato karīya niṣīdituṃ, / upādhyāyācāryāṇāṃ vā pṛṣṭhato kariya  
-niṣīdituṃ / vṛddha[tarakaṃ vā pṛ]ṣṭa(ṣṭha)to (24b5) karīya niṣīdituṃ /  
-nāpi kṣamati saṃghamadhye mā niṣīda nti(tti) / uktena samānena (J.111)  
-niṣīdituṃ / nāpi kṣamati / upādhyāyācāryehi mā niṣīda nti(tti) / uktena  
-niṣīdituṃ nāpi kṣamati vesikāsāmāntena dyutikaraśālāsāmantakena  
-niṣīdituṃ / vadhabandhanāgāraśālāsāmantakena niṣīdituṃ, / atibhuṃḍe  
-vā pradeśe niṣīdituṃ / atha khalu cchannaprā(24b6)kaṭe pradeśe  
-niṣīditavyaṃ, / evaṃ niṣadye pratipadyitavyaṃ / na pratipadyati /  
-abhisamācārikān dharmmān atikrāmati // * //  
-  
-     III.10       Ms.24b6       (J.111.7);       Ch.507a15  
-     bhagavān śrāvastyāṃ viharati te dāni āyuṣmanto ṣaḍvarggikāḥ /  
-omuddhakāpi śeyyāṃ kalpenti / uttānakāpi śeyyā kalpenti / vāmenāpi  
-pārśvena śeyyāṃ kalpenti / etaṃ prakaraṇaṃ bhikṣūhi śrutaṃ / bhikṣū  
-bhagavato ārocayeṃsu / bhagavān āha / (24b7) śabdāpayatha  
-ṣaḍvarggikāṃ / te dāni śabdāpitā / bhagavān āha / satyaṃ bhikṣavo  
-ṣaḍvarggikāḥ / evaṃ nāma yūyaṃ omuddhakāpi (I.p.112) śeyyāṃ kalpetha /  
-vāmenāpi pārśvena śayyāṃ kalpetha / āhaṃsu / āma / bhagavaṃ   
-     bhagavān āha / duṣkṛtaṃ vo bhikṣavo ṣaḍvarggikāḥ / tena hi na  
-kṣamati / uttānakena śeyyāṃ kalpituṃ / na kṣamati / omuddhakena śeyyāṃ  
-kalpayituṃ / na kṣamati / vāme(25a1)na vā pārśvena śeyyāṃ kalpayituṃ /  
-bhagavān dāni bhikṣūn āmantrayati / (J.112) omuddhakā bhikṣavo pretā  
-śeyyāṃ kalpayanti / uttānakā bhikṣavo āsurā śeyyāṃ kalpayanti / vāmena  
-pārśvena kāmopabhoginaḥ / śeyyāṃ kalpayati / evaṃ bhikṣavo śeyyāṃ  
-kalpetha / yathā siṃho mṛgarāja siṃho bhikṣavo mṛgarājā dakṣiṇena  
-pārśvena śeyyāṃ kalpayati / pādena pādaṃ ādhāya dantena da(25a2)ntaṃ  
-ādhāya jihvāgraṃ tālukāgre pratiṣṭhāpayitvā / aṅgulaṃ anukāyaṃ  
-āyacchihitvā dakṣiṇāṃ bāhaṃ śirasy upanidhāya vāmaṃ bāhām anukāyaṃ  
-prasārayitvā so pi pratibodhanāṃ(nan)/tena purimaṃ kāyaṃ abhyunnāmeti /  
-pṛṣṭhimaṃ kāyaṃ abhivilokayati / sa cet paśyati / gātrāṇām anyathātvaṃ  
-tena bhavati / anāttamano ca paśyati / gātrāṇām anyathātvaṃ tena bhavati  
-citte ā[ttamano] a(25a3)bhiraddho bhikṣuṇāpi tāva śeyyāṃ prajñapeṃtena  
-abhidakṣiṇāṃ prajñapayitavyā / ya(ta)thā karttavyā yathā saṃpa(ya)tako  
-yeva dakṣiṇena pārśvena śayyāṃ kalpeti / na kṣamati / vāmena śayyāṃ  
-prajñapetuṃ / dakṣiṇaśayyā prajñapetavyā / cīvaravaṃśasya heṣṭhato  
-rātrīye purimaṃ yāmaṃ uddeśaprayuktena svādhyāyaprayuktena sthānena  
-(J.113) caṃkrameṇa vītināmayi(25a4)tavyā rātrīye madhyame yāme  
-dakṣiṇena pārśvena siṃhaśeyyā kalpayitavyā / pādena pādam ādhāya  
-jihvāgraṃ tālukāgre pratiṣṭhāpayitvā dakṣiṇāṃ bāhāṃ śirasy upanidhāya  
-vāmāṃ bāhāṃ anukāyaṃ prasāritvā utthānasaṃjñī manasikākārentena  
-nāpi dāni parivarttakaṃ yāvat sūryodgamanāt tato śayitavyaṃ / rātrīye  
-paścime yāme paryaṅkena vīti(25a5)nāmayitavyaṃ / uddeśaprayuktena  
-sthānacaṃkramānuyuktena vā / atha dāni bhikṣuḥ / duḥkhaśāyī bhavati  
-pāraśyena pāraśyaṃ pallaṭṭanto (I.p.113) śayiti anāpattiḥ / jarādurbbalo  
-vā vyādhidurbbalo vā bhavati / dakṣiṇe pārśve gaṇḍaṃ vā piṭakaṃ vā /  
-bhavati / kiñ cāpi vāmena pārśvena śayati anāpattiḥ / na kṣamati / stūpaṃ  
-vā pādato kṛtvā / śayyāṃ kalpayituṃ / saṃghaṃ, (25a6) vā pādato kṛtvā  
-śeyyāṃ kalpayituṃ / vṛddhatarakaṃ vā pādato kṛtvā upādhyāyācāryaṃ vā  
-pādato kṛtvā śeyyāṃ kalpayituṃ, / eva(ṃ) śayyāṃ pratipadyitavyaṃ / na  
-pratipadyati / abhisamācārikān dharmmān atikrāmati //*//  
-     udānaṃ  
-              evaṃ kaṭhine pratipadyitavyaṃ /  
-              evaṃ cakkalīye pratipadyitavyaṃ /  
-              evaṃ vihāre pratipadyitavyaṃ /  
-              evaṃ kheṭe pratipadyitavyaṃ /   
-              (J.114) evaṃ pātre pratipadyitavyaṃ /  
-              evaṃ yavāgūye (25a7) pratipadyitavyaṃ /  
-              evaṃ sthātavyaṃ /  
-              evaṃ caṃkramitavyaṃ /  
-              evaṃ niṣīditavyaṃ /  
-              evaṃ śeyyā kalpayitavyaṃ // * //  
-  
-  
-(I.p.114)   
-     IV.1-2      Ms.25a7       (J.115.1);       Ch.507b4  
-     bhagavān śrāvastyāṃ viharati vistareṇa nidānaṃ kṛtvā te dāni āyuṣmanto  
-ṣaḍvarggikāḥ / dvāraṃ bandhiyāṇaṃ vihārasya paścā vastuke kākavāhaṃ  
-bhaṃjantaṃ / āsanti / āgantukānāṃ bhikṣūṇāṃ gaṇo āgato dvāraṃ yāvanti  
-na labhanti te dāni okkhandiyāṇaṃ praviṣṭāḥ / tehi dāṇi (25b1)  
-āyuṣmantehi ṣaḍvarggikehi āgantukā dṛṣṭāḥ pṛcchanti / āyuṣmaṃ kuto  
-vā praviṣṭāḥ / āhaṃsuḥ / okkhandiyāṇaṃ praviṣṭāḥ / te dāni āhaṃsu /  
-āyuṣman evaṃ ca yūyaṃ okkhandiyāṇaṃ vihāraṃ praviśatha / te pi dāni  
-āgantukā āhaṃsu / evaṃ ca yūyaṃ dvāraṃ bandhiyāṇaṃ vihārasya paścād  
-vastukasya kākavāhaṃ bhañjantā āsatha te dāni vivaditāḥ / bhagavato  
-mūlaṃ gatāḥ /   
-     bhagavān āha / nā(25b2)yaṃ tāva kṣamati / te(ne)vāsikehi vihārasya  
-dvāraṃ bandhiyāṇaṃ vihārasya paścād vastukasya kākavāhaṃ  
-bhaṃjamānehi āsituṃ / nāpi kṣamati / āgantukehi vihāraṃ okkhandiyāṇaṃ  
-praviśituṃ / tena hi evaṃ āgantukehi pratipadyitavyaṃ / evaṃ ni(ne)vāsikehi  
-pratipadyitavyaṃ / kin ti dāni evaṃ āgantukehi pratipadyitavyaṃ / ete dāni  
-bhikṣu āgantukā āgacchanti / sarvvehi pāḍipa(ya)kkapāḍiyakakāni  
-a(25b3)pāvuraṇāni upasthāpayitavyāni / ekasyāpi apāvuraṇi na bhavati /  
-sarvve vinayātikramaṃ āsādayaṃti / ekasyāpi apāvuraṇi bhavati /  
-sarvveṣām anāpattiḥ /   
-     atha dāni koci glāno bhavati / na dāni ujjhitvā gantavyaṃ / atha khalu  
-anupāletavyo / pātracīvaraṃ ālambitavyaṃ / nāpi dāni pātra(J.116)cīvaraṃ  
-gṛhnitvā adarśanena gantavyaṃ / atha khalu a(25b4)vidūreṇa gantavyaṃ /  
-mā dāni adarśanena parijāne hṛtaṃ / hṛtaṃ me pātracīvaram iti  
-gacchantasya karttavyaṃ / yadi dāni ośyā bhavati taruṇabhikṣūhi agrato  
-gantavyaṃ / ośyā prativāhantehi / atha dāni vyāḍabhayaṃ vā corabhayaṃ  
-vā bhavati / vṛddhaṃ bālaṃ madhye kṛtvā gantavyaṃ / atha dāni corā  
-saprasādā bhavanti / vṛddhehi (I.p.115) agrato gantavyaṃ / yathā paśyitvā  
-prasā(25b5)dena avivarjitā gaccheṃsu / yadi dāni grāmasya nagarasya vā  
-madhyena gantavyaṃ / bhavati / na dāni kṣamati nagarave(ce)tiyāni  
-abhidakṣiṇi karenti(te)hi vā gantuṃ / apavāmivā(kā) karentehi vā atha  
-khalu ujja(jju)kena mā(r)gakena gantavyaṃ / nyāye vāsopagatā bhavanti /  
-taruṇā bhikṣu duve vā trayo vā praveśayitavyā / agrato gacchatha  
-saṃghasya phāsuvi[hāra]ṃ upa(25b6)dahatha pādatailena guḍapānīyena  
-pratiśrayeṇa purebhaktikena tehi dāni prāvariya gaṇṭhipāsakaṃ obandhiya  
-āmantriya praveṣṭavyaṃ / pravisiya yācitvā saṃghasya  
-yathāsukhaparibhogaṃ niḥsārepetavyaṃ / pādatailaṃ vekālikaṃ  
-purebhaktikaṃ bhaikṣitavyaṃ / āvi(ci)kṣitavyaṃ labdho pratiśrayo tehi dāni  
-yadi tahiṃ ogho vā (J.117) bhavati / nadī taḍāgaṃ vā puṣkiriṇī vā  
-udupāno vā tahiṃ pādā(25b7)n prakṣāletvā prāvaretvā anyonyaṃ  
-āmandha(ntra)yitvā praveṣṭavyaṃ / atha dāni guḍapānīyaṃ bhavati / tahiṃ  
-yeva vekālikaṃ kariya praveṣṭavyaṃ / mā paśyeṃsu samāmapayi ime  
-pravrajitā karonti / atha dāni ubhaṃḍito bhavati saṃvibhajitvā  
-praveṣṭavyaṃ / nisṛṣṭagṛhaṃ bhavati anāmantriya praviśati anāpattiḥ / na  
-dāni labhyā anyena gantuṃ / racchācchiddrakā bhavati / anāpattiḥ /  
-grāmantikaṃ śeyyāsanaṃ, (26a1) bhavati / tahiṃ gantavyaṃ / atha dāni  
-āraṇyakaśeyyāsanaṃ bhavati / tahiṅ gantavyaṃ / saṃghārāmaṃ praviśantehi  
-puṣkiriṇīyaṃ vā taḍāge vā oghe vā pādāṃ dhovitvā praveṣṭavyaṃ / atha  
-dāni ubbhaṃḍito saṃvibhajitvā praveṣṭavyaṃ cetiyāṇaṃ pradakṣiṇī  
-karentehi upānahā omuñcitvā kāṣṭhakena gṛhnitvā praveṣṭavyaṃ / nāpi  
-dāni uccaśabdamahāśabdehi praveṣṭavyaṃ / nāpi nevāsikāṃ  
-ullaya(pa)nte(26a2)hi hū ha he adyāpi taṃ tad evettha vasatha ghuṇa  
-viddhātave nand(an)opanandanā yūyaṃ nāgarājāno ihaiva yūyaṃ jātā  
-ihaiva mariṣyatha jātā te śṛgālā ye tumbhāṇaṃ māṃsāni khādiṣyanti /  
-nāpi dāni nevāsikena ullapitavyaṃ / hū ha he caṇḍamuktaṃ pañcavarṣikaṃ  
-pravṛttaṃ yathāpāṭito nāpi dāni vaktavyaṃ ko itthaṃ kati varṣo utthiha  
-nāpi dāni (J.118) vaktavyaṃ / ko bhaktakā nātithikā kasya śuve  
-bhaktata(26a3)rpaṇaṃ purobhaktikaṃ vā (I.p.116) nāpi dāni nevāsikehi  
-dvāraṃ bandhitvā kākavāhāṃ bhajantehi āsitavyaṃ /   
-     atha dāni paścād vastuke mṛttikākarmmaṃ karonti / ye tāpe(ye)  
-ārthāpe(ye) bhavanti / ārāmikā śrāmaṇero vā yasya oheyyako so vaktavyo  
-dvāraṃ rakṣanto āsā(sa /) atha dāni apadurako vihāro bhavati /  
-praviśitavyaṃ / atha dāni ghaṭṭitako bhavati / apāvura(26a4)ṇena  
-apaduriyāṇaṃ praviśitavyaṃ / saṃghārāmaṃ pradakṣiṇī karentehi  
-āgantavyaṃ / yatra bhikṣūṇāṃ āsanaprajñaptir bhavati / tahiṃ navakaṃ  
-tasmiṃ cīvarabisiyan thaviyāṇaṃ kuṇḍikāṃ vā upānahau vā thaviyāṇa  
-nevāsikā pṛcchitavyāḥ / āyuṣmaṃ pādadhovanikā kahiṃ kalpiyakarakī  
-kahiṃ akalpi(ya)karakī kahi(ṃ) yadi tāva āvi(ci)kṣanti pādadhovanikāyāṃ  
-pādāṃ (26a5) dhoviyāṇaṃ akalpiyakarakīto hastā nirmmādiyāṇa  
-kalpiyakarakīto prakṣāliya tato cetiyaṃ vanditavyaṃ cetiyaṃ vandiyāṇaṃ  
-yatra nevāsikā bhavanti tatra gantavyaṃ allīyāṇaṃ nāpi kṣamati / vaktuṃ  
-vandāmī tti / atha khalu vaktavyaṃ / āyuṣman vandiṣyan ti nevāsikehi  
-varṣāgraṃ pṛcchitavyaṃ / kati varṣo āyuṣmana yadi (J.119) tāva āgantuko  
-vṛddhatarako bha(26a6)vati / nevāsikena utthiya pādā vanditavyā / āsanaṃ  
-dātavyaṃ / atha dāni nevāsiko vṛddhatarako bhavati / ārogyāpiya evaṃ  
-kariyāṇaṃ āsanaṃ dātavyaṃ / yaṃ kālaṃ viśrānto bhavati pṛcchitavyaṃ /  
-āyuṣman asti etāvati varṣasya vihārako prāpuṇati / yadi tāva jalpati  
-prāpuṇati tti vihārako gṛhnitavyo mañca pīṭhaṃ bisi caturasrako kuccaṃ  
-bi(ṃ)bohanaṃ gṛhnitavyaṃ / nāpi (26a7) dāni kṣamati / tri(te)hi āgantukehi  
-nevāsikāṃ kutsiya haṃbhiya āyuṣmann adyāpi yūyaṃ iha vasatha he he  
-śiṣṭā vaṣṭā yūyaṃ jānāte ye śṛgālā ye yuṣmākaṃ māṃsāni  
-khādiṣyanti / atha khalu saṃpraharṣayitavyā vaktavyā āyuṣman śobhanaṃ  
-kriyati saṃghārāmo kelāpīyati / dhūmo kriyati / kulāni praśādīyanti /  
-avikālako pādāṃ dhoviya mrakṣiya dīpaṃ ādīpi(26b1)ya śeyyāṃ  
-prajñapiya pratikramitavyaṃ nāpi dāni kṣamati / aparejjukāto kalyato  
-utthihantakenaiva (I.p.117) bhaktaśālaṃ praviśituṃ / āyuṣman kiṃ sidhyati  
-kiṃ pacyati kiṃ bhaktakānāṃ sthitikā / atha khalu kalyato yeva utthiya  
-nivāsiya prāvariya hastān nirmmādiya pātraṃ gṛhniya praviśitavyaṃ / atha  
-dāni tahiṃ vihārake anugraho bhavati vihārakaṃ vā bhakta bhavati /  
-nevāsikehi vaktavyaṃ / ā(26b2)yuṣmana mā piṇḍāya praviśatha / iha yyeva  
-bhuṃjiṣyatha / atha (J.120) dāni bhavati / āgantukānāṃ piṇḍakānāṃ  
-piṇḍabhaktāni uddiśitavyāni / atha dāni bhaktakāni uddiśitavyāni / atha  
-dāni bhaktakāni na bhavanti nevāsikehi vaktavyaṃ āyuṣmaṃ āgametha  
-sahitakā piṇḍāye praviśiṣyāmaḥ / tato sahitakehi praviśitavyaṃ / atha dāni  
-āgantukā bhikṣū vihāra āgatā bhavanti / nāyaṃ (26b3) kṣamati /  
-nevāsikehi vaktuṃ o ha he nāvā pañcavarṣikaḍaṃyadukkaṃ  
-śramaṇamātāprajātā tti / atha khalu āgantukānāṃ ehi svāgataṃ  
-kartta(vya)ṃ, / etu āyuṣmanto svāgatam āyuṣmanto anurāgatam  
-āyuṣmanto mā śrāntā mā klāntā pādāṃ prakkā(kṣā)letha / hastāṃ  
-nirmmādetha pānīyaṃ pibatha viśramatha nti(tti) / yadi tāva purebhakte  
-āma(ga)tā bhavanti purebha(26b4)ktikena cchandayitavyāḥ / deśakāle  
-āgatā bhavanti / bhaktakṛtyena ccha(nda)ṣi(yi)tavyāḥ / vikāle āgatā  
-bhavanti vikālikena cchandayitavyāḥ / vikārako uddiśitavyo / mañca  
-pīṭhaṃ bisī catu(ra)śrakaṃ kuccakaṃ bimbohanaṃ (J.121) uddiśitavyaṃ /  
-pādamrakṣaṇena cchandayitavyā / atha aparejjukāto yadi tāva bāhirakaṃ  
-bhaktaṃ bhavati / anugraho vā bhavati (26b5) vaktavyaṃ / āyuṣmaṃ mā  
-piṇḍāye praviśatha / iha yyeva bhuṃjiṣyatha / atha dāni bhaktakā na  
-bhavanti / āgantukāṃ piṇḍabhaktakāni uddiśitavyāni / atha dāni  
-piṇḍacāriko bhavati / yaṃ kālaṃ / āgantukā piṇḍāthe(ye) va(ca)riya vihāraṃ  
-āgatā bhavanti / tato yadi nevāsikānāṃ vyañjanāni bhavanti / khajjakāni  
-bhavanti / tato yadi snehako vā (26b6) bhavanti / tehi āgantukānāṃ  
-samvibhāgo karttavyo / atha dāni evaṃ pi na bhavati / antamasato yadi tahiṃ  
-kiñci piṇḍacārikaṃ praṇītatarakaṃ bhavati / āgantukānāṃ sāraṇīyaṃ  
-karttavyaṃ / (I.p.118) nevāsikehi sarvvam ārocayitavyaṃ / vaktavyaṃ /  
-āyuṣmanto amukaṃ kulaṃ mā praviśatha / pātranikubjanaṃ samutīkṛtaṃ,  
-amutra śunakhā caṇḍāḥ / amukaṃ a[śrā]ddhaku(26b7)laṃ yā kriyā  
-ārocayitavyā /   
-     atha dāni / āraṇyakaṃ śeyyāsanaṃ bhavati / na kṣamati / tehi  
-ni(ne)vāsikāhi dvāraṃ ca bandha(dhi)ya vihārasya paścā vastuke  
-kākavāhāṃ bhañjantehi āsituṃ / atha dāni siṃhabhayaṃ vā bhavaṃti  
-vyāghrabhayaṃ vā corabhayaṃ vā (J.122) bhikṣū ca paliguddhakā bhavanti /  
-cchāyanikā vā lepanikā vā karenti kiṃ vā(cā)pi dvāraṃ ghaṭenti  
-anāpattiḥ / sarvve yeva goca(27a1)raṃ praviśanti / kiñ cāpi ghaṭṭenti  
-anāpattiḥ / eko vā rakṣapālo dātavyo vaktavyaṃ / āyuṣma(ṃ) dvāraṃ  
-bandhiya dvārakoṣṭhakasya upari āsāhi yadi keci āgantukā āgaccheṃsu /  
-tato dvāraṃ dadesi / tena upari dvārakoṣṭhasya āsitavyaṃ / yadi tāva keci  
-āgantukā āgacchenti / teṣāṃ dvāraṃ dātavyaṃ / yaṃ kālaṃ te nevāsikā  
-niddhāvitā bhavanti nāpi kṣā(kṣa)mati tehi nevāsi(27a2)kehi vaktuṃ /  
-āyuṣmaṃ eṣā nāvā mucyati eṣo sādhvo(rtho) prayāto gacchantu  
-āyuṣmanto gataṃ mārggasya śreyo / atha khalu samāśvāsitavyaṃ / vasantu  
-āyuṣmanto ramaṃtu āyuṣmanto yadi tāva stūpikena vā kāryeṇa āgatā  
-bhavanti / stūpikaṃ kārṣa(ya)(ṃ) pariprāpayitavyaṃ / sāṃghikena kāryeṇa  
-āgatā bhavanti / sāṃghikaṃ kāryaṃ pariprāpayitavyaṃ / yaṃ kālaṃ  
-pariprāptakāryaṃ bha(27a3)vati / yadi koci sārthā(rtho) prayāto bhavati te  
-bhikṣu vāṇijakasya sārthavāhasya parinditavyā vaktavyaṃ / upāsaka  
-dānapati ime bhikṣavo tvayā sārddhaṃ gamiṣyanti / ime bhikṣu tava  
-parininditā bhavantu teṣāṃ gacchamano(mānā)nāṃ pathyadanena vaikalyaṃ  
-karttavyaṃ / evaṃ hi (J.123) āgantukehi pratipadyitavyaṃ na pratipadyanti /  
-ābhisamācārikān dharmmān atikrāmaṃti // * //  
-  
-(I.p.119)   
-     IV.3-4       Ms.27a3       (J.123.3);       Ch.510b3  
-     bhagavā(27a4)n śrāvastyāṃ viharati / aparo dāni bhikṣuḥ / āgantuko  
-āgato tasya dāni aparo bhikṣuḥ / vṛddhatarako parijñātako bhavati / so ca  
-apareṇa bhikṣuṇā sārddhaṃ vācovācikāṃ karoti / so dāni āgantuko  
-allīyatasya nevāsikasya pādāṃ vandanti / so dāni anya vijñāna samaṃmī na  
-samanvāharati / na taṃ pratisaṃmodati so dāni apratisaṃmodiya ga(27a5)to te  
-dāni aparakālena ubhaye samāgatā so dāni sthaviro pṛcchati / āyuṣmaṃ  
-kecciro ti / āgatasya āhāre cacciro evacciro ca so āha āyuṣman evacciro  
-tava āgatasya na ca me pādavandako upasaṃkramasi / so dān āha / vanditā  
-mayā tava pādā tvaṃ ca mama na pratisaṃmodesi / so dān āha / kadā vā  
-kim vā / so dān āha / amukaṃ diva(27a6)saṃ tvaṃ amukena bhikṣuṇā  
-sārddhaṃ vācaṃ(co)vāciṃ karoṣi / tadā tava mayā pādā vanditā so dāni  
-āha āyuṣman vācovāciṃ karentasya pādāṃ vandasi / so dāni āha / evaṃ ca  
-yaṃ tvaṃ mama pādāṃ vandintasya na pratisaṃmodesi / te dāni vivaditāḥ /  
-bhagavato mūlaṃ gatāḥ /   
-     bhagavān āha / nāyaṃ tāva kṣamati / āgantukena nevāsi(J.124)kasya  
-vācovāciṃ karentasya pādāṃ vandituṃ / nāpi kṣamati pādehi  
-va(27a7)ndiyamāṇehi na pratisaṃmodituṃ / tena hi evaṃ pādā vanditavyāḥ /  
-evaṃ pratisaṃmoditavyaṃ / kin ti dāni evaṃ pādā vanditavyā / evaṃ  
-pratisaṃmoditavyaṃ / eṣo dāni bhikṣu āgantuko āgato bhavati / tasya koci  
-bhikṣu parijñātako bhavati / so ca apareṇa bhikṣuṇā sārddham vācovāciṃ  
-karoti / nāpi kṣamati tasya taṃ velaṃ pādāṃ vandituṃ uśvāsa(ccāra)m vā  
-upaviṣṭo bhavati na kṣamati / taṃ velaṃ pādāṃ (27b1) vandituṃ / evaṃ  
-praśvāsa(srāva)ṃ karentasya dantakāṣṭhaṃ khādantasya snāyati vā  
-ekanivasano vā bhavati / bhaktakṛtyaṃ karoti / purebhaktikam vā karoti /  
-dvibhūmikam vā ukkasa(ma)ti tvaritaṃ vā ati(bhi)kramati na kṣamati taṃ  
-velaṃ tasya pādāṃ vandituṃ, / na kṣamati mṛttikākarmma karentasya //  
-pe // pātrapākaṃ dadantasya cīvaraṃ dhovantasya rajanikā paṭhantasya  
-cīvarāṇi sīvantasya (I.p.120) raṃjenta(27b2)sya cca(ce)llaparikarmmam vā  
-karentasya pādāṃ dhovantasya hastā nirmmādantasya cetiyaṃ vandantasya  
-pātraṃ nirmmādentasya dhūpam vā pibantasya akṣiṇi vā añjantasya  
-pustakaṃ vācantasya pustakaṃ likhantasya varccakuṭīṃ gacchantasya  
-nagnasya vā (J.125) ekanivasanakena vā / atha khalu yaṃ kālaṃ  
-samavasthāye niṣaṇṇo bhavati taṃ velaṃ alīyāṇaṃ śīrṣeṇa pādāṃ  
-vanditavyā / karkaṭagrā(27b3)hikāye vanditavyā / andhakāre vā uddeśaṃ  
-dentasya uddiśantasya vā nivāsantasya vā cīvaraṃ prāvarantasya tvaritaṃ  
-vā gacchantasya na kṣamati / oguṇṭhitakāyena na kṣamati / ohitahastena  
-na kṣamati / upānahārūḍhena sāmīcīkarentena na kṣamati / jānukena vā  
-jaṃghāhi vā vandituṃ / atha khalu pādā vanditavyā / pādāṃ  
-va(27b4)ndantena jānitavyaṃ / yadi kasyaci vraṇā bhavati / gaṇḍo vā piṭako  
-vā na dāni sahasā uppīḍitavyaṃ / atha khalu tathā vanditavyaṃ / yathā na  
-duḥkhāpiye pādehi vandayantehi / na dāni meṇḍhena viya āsitavyaṃ  
-pādehi vandayaṃtehi / atha khalu pratisaṃmodayitavyaṃ / svāgatam  
-āyuṣmanto anurāgatam āyuṣmanto māsi śrānto mā(27b5)si klānto pādāṃ  
-prakṣālehi hastāṃ nirmmādehi viśramāhi yadi tāva purebhakte āgato  
-bhavati / purobhaktikena cchandayitavyo / deśakāle āgato bhavati /  
-bhaktakṛtyena ccha(nda)yitavyo vikāle āgato bhavati / vekālikena  
-cchandayitavyo / yadi tāvad vastukāmo bhavati / pātracīvaraṃ  
-pratisāmayitavyaṃ vihārako uddiśitavyo (27b6) atha dāni gantukāmo  
-bhavati / āha / anyatra gamiṣyan ti / vaktavyaṃ / gacchāhi tti evaṃ pādā  
-vanditavyā / evaṃ pratisaṃmoditavyaṃ na pratipadyati // ābhisamācārikān  
-dharmmān atikrāmati // * //  
-  
-     IV.5       Ms.27b6       (J.126.1);       Ch.510b28  
-     (J.126) bhagavān śrāvastyāṃ viharati vistareṇa nidānaṃ kṛtvā te dāni  
-āyuṣmanto ṣaḍvarggikāḥ / gṛhi-ālāpena ālāpenti ambe atte bhāva bhaṭṭa  
-tāta haṃgho he he ho (27b7) kiṃ, bhaṇasīti / etaṃ prakaraṇaṃ bhikṣū  
-bhagavato (I.p.121) ārocayeṃsu / bhagavān āha / śabdāpayatha  
-ṣaḍvarggikāṃ te dāni śabdāvitāḥ / bhagavān āha / satyaṃ bhikṣava  
-ṣaḍvarggikāḥ / evaṃ nāma yūyaṃ gṛhī-ālo(lā)pena ālāpayatha /  
-āmba(ambe) atte bhāva bhaṭṭa tāta ahaṃgho he he ho kiṃ bhaṇasi tti /  
-āhaṃsu / āma bhagavan   
-     bhagavān āha / evaṃ yūyaṃ gṛhi-ālāpena ālapetha / te(28a1)na hi na  
-kṣamati gṛhi-ālāpena ālapituṃ tena hi pratisaṃmoditavyaṃ / āyuṣmān dāni  
-upālī kālajño velajño samayajño bhagavantam upasaṃkramiya pṛcchati /  
-kathaṃ bhagavaṃ navakehi bhikṣūhi sthavirā bhikṣū ālapitavyā / bhagavān  
-āha / ālape(ye) ti vā bhante ti vā āyuṣmante ti sthaviro dāni bhagavantaṃ  
-pṛcchati kathaṃ bhagavāṃ sthavirehi bhikṣūhi navakā bhikṣū (28a2) (J.127)  
-ālapitavyā / bhagavān āha / nāmena vā gotreṇa vā / varṣāgreṇa vā eṣo  
-dāni bhikṣusya upādhyāyo vā ācāryo vā śabdāpayati / nāyaṃ kṣamati /  
-gṛhi-ālapena ālapituṃ / haṃgho he he tti / atha khalu nāmena vā gotreṇa  
-vā śabdāpayitavyo / tenāpi na kṣamati / gṛhi-ālapena vyāharttuṃ, / hā kiṃ  
-bhaṇasīti / atha khalu vaktavyaṃ vandāmi upādhyāyaṃ vā / (28a3)  
-ācāryam vā kiṃ āṇapehi tti / kiṃ karemi tti / vṛddhatarako śabdāpayati /  
-nāyaṃ kṣamati hā nti(tti) pravyāharituṃ / atha khalu vaktavyaṃ / ārye vā  
-bhante vā āyuṣman ti vā kiṃ a(ā)ṇapesī nti(tti) kiṃ karemi / eṣo bhikṣu  
-mātaraṃ pitaraṃ vā bhaginīm vā śabdāpayitukāmo bhavati nāyaṃ kṣamati  
-śabdāpayituṃ / ambe tti vā atte ti vā bhaṭṭe ti vā / atha kha(28a4)lu  
-sālohite ti vā śabdāpayitavyāḥ / atha dāni bhikṣusya pitā vā bhaginī vā  
-śabdāpayati / nāyaṃ kṣamati hā kiṃ bhaṇasi tti pravyāharttuṃ / atha khalu  
-vaktavyaṃ / sālohite kiṃ āṇapesi kiṃ karemi / eṣo bhikṣuḥ / upāsakāṃ, vā  
-dānapatīnā(nī)ṃ vā vihārasvāminīṃ vā śabdāpitukāmo bhavati / nāpi  
-kṣamati / ambe ti vā atte ti vā bhaṭṭe (28a5) ti vā / atha khalu upāsake tti  
-vā dānapatti ti (J.128) vā vihārasvāmini ti vā śabdāpayitavyaṃ / bhikṣū  
-vā upāsakam vā dānapatim vā śabdāpayitukāmo (I.p.122) bhavati / nāpi  
-kṣamati bhāve tti vā bhaṭṭe ti vā / āyuṣmaṃ tti vā / atha khalu dānapatti  
-ti(ti tti) vā bhikṣū vā tehi śabdāpayati / nāyaṃ kṣamati / hā kiṃ bhaṇasi ti  
-vyāharttuṃ, / atha khalu vaktavyaṃ / sā(28a6)lohita kiṃ āṇapesi / kiṃ karomi  
-tti / te ete(na) gṛhi-ālāpena ālapanti vā / pravyāharanti vā /  
-vinayātikramaṃ āsādayati / strī vā puruṣo vā mahanto bhavati / na dāni  
-mātāpitṛkaṃṭhena ālapitavyā mahallako mahallaketi vā vaktavyā / atha  
-dāni koci pṛcchati / ko te upādhyāyo ko te ācāryo vā na dāni vaktavyaṃ /  
-asuko ācāryo asuko (28a7) upādhyāyo / atha khalu vaktavyaṃ / arthahetor  
-nnāmaṃ gṛhnāmi / asuko me upādhyāyo asuko me ācāryo ālapitavyaṃ, /  
-evaṃ pravyāharttavyā(vyaṃ /) na pratipadyati / ābhisamācārikān  
-dharmmān atikrāmati // * //  
-  
-     IV.6       Ms.28a7       (J.128.14);      Ch.510c19  
-     bhagavān śrāvastyāṃ viharati / vistareṇa nidānaṃ kṛtvā kṣatriyaparṣā  
-dāni sannipatitā kāryāṇi kariṣyāma nti(tti) te dāni āyuṣmanto  
-nandanopananda(28b1)nā āgacchiya teṣāṃ madhye niṣaṇṇāḥ / te dāni / tehi  
-niṣaṇṇehi na pārenti kāryāṇi karttuṃ odhyāyanti / paśyatha bhaṇe vayaṃ  
-yeva sannipatitā karmmāṇi kariṣyāma nti(tti) / ime pi śramaṇakā  
-āgacchiya madhye niṣaṇṇāḥ / naṣṭaṃ bhraṣṭaṃ kuto imeṣāṃ śrāmaṇyaṃ  
-bhikṣūhi śrutaṃ / (J.129) bhikṣū bhagavato ārocayeṃsu / bhagavān āha /  
-śabdāpayatha nandanopanandanāṃ te dāni śabdāpitā / bhagavān āha /  
-satyaṃ bhi(28b2)kṣavo nandanopanandanā / evan nāma kṣatriyaparyā(ṣā)ye  
-sannipatitā kāryāṇi kariṣyāma nti(tti) / yūyaṃ dāni gacchiya / teṣāṃ  
-madhye niṣaṇṇā te dāni tumbhehi niṣaṇṇehi na pārenti kāryāṇi karttuṃ, /  
-te dāni odhyāyanti / paśyatha bhaṇe vayaṃ yeva tāva niṣaṇṇā kāryāṇi  
-kāraya nti(tti) / ime pi śramaṇakā gacchiyāṇaṃ madhye niṣaṇṇā naṣṭaṃ  
-bhraṣṭaṃ kuto imeṣāṃ śrāmaṇyaṃ āhaṃsu / āma / (28b3) bhagavan   
-     (I.p.123) bhagavān āha / tena hi evaṃ kṣatriyaparyā(ṣā)ye kiñci kāryaṃ  
-bhavati / na kṣamati gatāgatasya / upasaṃkramituṃ / atha khalu ye tahiṃ  
-vṛddhatarakā kṣatriyā bhavanti / te tāva allipitavyā vaktavyaṃ / dīrghāyu  
-kṣatriyaparyā(ṣā)ye imaṃ ca kāryaṃ allīyāmi tti / yadi tāva te jalpanti  
-bhante mā allīpatha nti(tti) na kṣamati allīpituṃ, / atha (28b4) dāni  
-jalpanti / allīpatha nti(tti) / allīpitavyaṃ / nāpi kṣamati / cchatreṇa  
-dhāryante upānahāṃhi vā obaddhāhi kṣatriyaparyā(ṣā)yam  
-upasaṃkramituṃ / atha khalu ekānte cchatraṃ nikṣipiya upānahāyo muṃciya  
-(J.130) tato allīpitavyaṃ / nāpi dāni darśanopacāre nikṣipitavyaṃ / atha  
-khalu pratikṛtyeva nikṣipitavyaṃ / darśanapathe upasaṃkrami(28b5)tvā na  
-dāni vaktavyaṃ / sukham bhavanto sukhaṃ mārṣa atha khalu ārogyāpiya  
-yādṛśaṃ āsanaṃ dīyati / tādṛśe āsane upaviśitavyaṃ nāpi kṣamati / āsane  
-kṣipā(yā)dharmmam āpadyituṃ / nāpi kṣamati / te nindituṃ / ye kṣatriyā  
-kuśalā bhavanti prāg eva te nairayikā bhavantīti / atha khalu vaktavyaṃ /  
-kṣatriyā nāma yūyaṃ agro varṇṇo jyeṣṭho varṇṇo (28b6) dvihi kulehi  
-tathāgatā arhantaḥ samyaksambuddhāḥ / utpadyanti / kṣatriyakule vā  
-brāhmaṇakule vā / duve cakrāṇi dharmmacakraṃ balacakraṃ ca / tavāhaṃ  
-hitopasaṃhāreṇa rakṣāvaraṇaguptiye sukhaṃ ca paya(phā)sukhañ ca  
-viharāmi / kāryaṅ kṛtvā utthāyāsanāto gantavyaṃ / evaṃ kṣatriyaparṣā  
-upasaṃkramitavyā na pratipadyati / ābhisamācārikān dharmmān  
-atikrāmati // * //   
-  
-     IV.7       Ms.28b7       (J.130.13);      Ch.511a4  
-     (28b7) bhagavān śrāvastyāṃ viharati vistareṇa nidānaṃ kṛtvā  
-brāhmaṇaparyā(ṣā) dāni sannipatitā kāryāṇi kariṣyāmo ti / te dāni  
-āyuṣmanto nandanopanandanā āgacchiyāṇaṃ madhye niṣaṇṇā te dāni tehi  
-niṣaṇṇehi na pārenti / kāryāṇi karttuṃ, / te dāni odhyāyanti / vayaṃ  
-yeca(va) tāva niṣaṇṇā kāryāṇi kariṣyāma nti(tti) / ime pi śramaṇakā  
-āgacchiyāṇaṃ madhye niṣa(29a1)(J.131)ṇṇā naṣṭaṃ bhraṣṭaṃ kuto imeṣāṃ  
-śrāmaṇyaṃ / etaṃ (I.p.124) prakaraṇaṃ bhikṣūhi śrutaṃ / bhikṣū bhagavato  
-ārocayeṃsu / bhagavān āha / śabdāpayatha nandanopanandāṃ te dāni  
-śabdāpitā / bhagavān āha / satyaṃ bhikṣavo nandanopanandanā / evaṃ  
-nāma brāhmaṇaparṣā sannipatitā kāryāṇi kariṣyāma nti(tti) / yūyaṃ dāni  
-teṣāṃ gacchiyāṇaṃ madhye niṣaṇṇā te dāni tumbhehi niṣaṇṇehi na  
-pāre(29a2)nti kāryāṇi karttuṃ, / te dāni odhyāyanti / paśyatha bhaṇe vayaṃ  
-yeva tāva niṣaṇṇā kāryāṇi kariṣyāmo ti / ime pi śramaṇakā āgacchiyāṇa  
-madhye niṣaṇṇakā / naṣṭaṃ bhraṣṭaṃ kuto imeṣāṃ śrāmaṇyaṃ / āhaṃsu /  
-āma / bhagavana   
-     bhagavān āha / samyag bhikṣavo jano odhyāyanti tena hi evaṃ  
-brāhmaṇaparṣā upasaṃkramitavyā / kin ti dāni brāhmaṇaparṣā  
-upasaṃkramitavyā // etaṃ dāni bhikṣusya kiṃ(29a3)ci brāhmaṇaparṣāyāṃ  
-kāryaṃ bhavati / nāyaṃ kṣamati / gatāgatasya brāhmaṇaparṣām  
-upasaṃkramituṃ / atha khalu ye tahiṃ brāhmaṇamahattarakā bhavanti / te  
-pratikṛtyeva upasaṃkramitavyā / dīrghāyu asti me kiñcid  
-brāhmaṇaparṣāyāṃ kāryaṃ allīyāma nti(tti) / yadi tāva jalpanti / bhante  
-mā allīyatha nti(tti) / na kṣamati / allīpituṃ / atha dāni jalpanti allīpatha  
-nti(tti) tato allīpi(29a4)tavyaṃ / nāpi dāni kṣamati / cchatreṇa vā  
-dhāryantena upānahāhi ābaddhāhi brāhmaṇaparṣā āllīpituṃ / atha  
-kha(lu) cchatropānahāṃ ekamante sthapiya brāhmaṇaparṣāyām  
-upasaṃkramitavyaṃ / nāpi dāni darśaṇopacāre nikṣipitavyaṃ / atha khalu  
-pratikṛtyeva (J.132) nikṣipitavyaṃ / darśanapathe upasaṃkramitvā na dāni  
-vaktavyaṃ / sukhaṃ bhavanto sukhaṃ mā(29a5)rṣa atha khalu  
-ārogyāpayi(piya) tvā(yā)dṛśaṃ āsanaṃ labhyati tādṛśe āsane  
-upaviśitavyaṃ / nāyaṃ kṣamati / āsane kṣīyādharmmam āpadyituṃ / atha  
-khalu tā(yā)dṛśaṃ āsanaṃ dīyati / tādṛśe upaviśitavyaṃ / nāpi kṣamati te  
-nindituṃ / māṇavakasya mānahatasya ihaloke bhūtasya kukkuṭo śūkaro  
-śvāno śṛgālo pañcamo mūṣa(29a6)ko nirayo ṣaṣṭho nti(tti) / atha khalu  
-vaktavyaṃ / brāhmaṇa nāma yūyaṃ agro varṇṇo jyeṣṭho varṇṇo śreṣṭho  
-varṇṇo dvihi kulehi tathāgatā arhantaḥ samyaksambuddhāḥ / loke  
-utpadyanti / kṣatriyakule vā brāhmaṇakule (I.p.125) vā evaṃ kāryaṃ kariya  
-gantavyaṃ / evaṃ brāhmaṇaparṣāye pratipadyitavyaṃ / na pratipadyati /  
-ābhisamācārikān dharmmān atikrāmati // * //  
-  
-     IV.8       Ms.29a6       (J.132.12);       Ch.511a16  
-     bhagavān śrāvastyām vi(29a7)harati gṛhapatiparṣā dāni sannipatitā /  
-kāryāṇi kariṣyāma nti(tti) / āyuṣmanto nandanopanandanā āgacchiya  
-teṣāṃ madhye niṣaṇṇā / te dāni tehi niṣaṇṇehi na pārenti kāryāṇi  
-karttuṃ / te dāni odhyāyanti / pasyatha bhaṇe vayaṃ ye(va) tāva sannipatitā  
-kāryāṇi kariṣyāma nti(tti) / ime pi śramaṇakā madhye āgacchiyāṇaṃ  
-niṣaṇṇāḥ / naṣṭaṃ bhraṣṭaṃ kuto imeṣāṃ śrāmaṇyaṃ / etaṃ (29b1)  
-prakaraṇaṃ bhikṣūhi śrutaṃ bhikū bhagavato ārocayeṃsu / bhagavān āha /  
-śabdāpayatha nandanopanandā(da)nāṃ / te dāni śabdāpitāḥ / bhagavān  
-āha / satyaṃ bhikṣavo nandanopanandā(da)nāṃ / evaṃ nāma gṛhapatiparṣā  
-sannipatitā kāryāṇi kariṣyā(J.133)ma nti(tti) / etad eva sarvvaṃ bhagavāṃ  
-vistareṇa pratyārocayati / yāvat paśyatha bhaṇe vayaṃ yeva tāva sannipatitā  
-karmmāṇi kara(ri)ṣyāma (29b2) nti(tti) / ime pi śramaṇakā āgacchiya  
-madhye niṣaṇṇā naṣṭaṃ bhraṣṭaṃ / kuto imeṣāṃ śrāmaṇyaṃ āhaṃsu /  
-āma bhagavan   
-     bhagavān āha / tena hi evaṃ gṛhapatiparṣā upasaṃkramitavyā / kin ti  
-dāni gṛhapatiparṣā upasaṃkramitavyā / etaṃ dāni bhikṣusya  
-gṛhapatiparṣāyāṃ kiñcit kāryam bhavati / na kṣamati / gatāgatasya  
-āllīpituṃ / atha khalu ye tatra gṛhapatimahattarakāḥ bhavanti / (29b3) te  
-prakṛtyeva te(tā)(va) pratisaritavyā / vaktavyaṃ / dīrghāyu asti kiñci  
-gṛhapatiparṣāyāṃ kāryaṃ / allīyāma mā āllīyāmo nti(tti) / yadi tāva  
-jalpanti / bhante mā āllīpatha nti(tti) / na kṣamati āllīpituṃ / atha dāni  
-jalpati / āllīpatha nti(tti) / allīpitavyam / nāpi kṣamati cchatreṇa  
-dhāryantena upānahāhi ābaddhāhi gṛhapatiparṣā upasaṃkramituṃ / atha  
-khalu ekata(29b4)mante cchatropānahāṃ nikṣipiya gṛhapatiparṣā  
-upasaṃkramitavyā / nāpi darśanopacāre nikṣipitavyaṃ / atha khalu  
-prakṛtyeva nikṣipitavyaṃ / darśanapathe upasaṃkramitvā na (I.p.126) dāni  
-vaktavyaṃ / sukhaṃ bhavanto sukhaṃ mārṣa / atha khalu ārogyāpiya  
-yādṛśaṃ āsanaṃ labhyate tādṛśe āsane upaviśitavyaṃ / (J.134) nāpi dāni  
-kṣamati / kutsitum vā pansitum vā gṛ(29b5)hapatikā nāma yūyaṃ  
-tulākūṭamānakūṭehi divasaṃ lokaṃ muṣaṃtā āsatha / atha khalu  
-vaktavyaṃ, /   
-              sāgarā ca anagārā ca ubhe anyonyaniśritā   
-              ārāgayanti / saddharmmaṃ samyaksambuddhaṃ deśitaṃ //  
-              sāgārāṣṭraṃ nagārāṇāṃ saṃprayacchanti dakṣiṇāṃ /  
-              anāgārā pragṛhnanti / pratisaṃyamya vinodanā /  
-              amiṣacakraṃ niśrāya dharmmacakraṃ pravarttatīti //  
-     uktaṃ cedaṃ bhaga(va)tā (29b6) bahukarā bhikṣavo brāhmaṇagṛhapatayo /  
-yaṃ vo pratyupasthitā /  
-cīvarapiṇḍapātaśeyyāsanaglānapratyayabhaiṣajyapariṣkārehi tehi yūyaṃ  
-niśrāya tathāgate brahmacaryaṃ carathā mahato oghasya niḥsaraṇārthaṃ  
-sarvve iti pravṛttakā karttavyā / evaṃ kāryaṃ kariya gantavyaṃ / evaṃ  
-gṛhapatiyathā(parṣā) upasaṃkramitavyā na pratipadyati / ābhisamācārikān  
-dharmmān atikrāmati // * //  
-  
-     IV.9       Ms.29b6       (J.135.1);       Ch.511a25  
-     (J.135) bhagavān śrāvastyāṃ vi(29b7)harati tīrthikaparyā(ṣā) dāni  
-sannipatitā kāryāṇi kariṣyāma nti(tti) / te dāni āyuṣmanto  
-nandanopanandanā teṣāṃ gacchiyāṇaṃ madhye niṣaṇṇāḥ / te dāni tehi  
-niṣaṇṇehi na pārenti kāryāṇi karttuṃ, / te dāni odhyāyanti / paśyatha  
-bhaṇe ca(va)yaṃ yevaṃ tāva sannipatitā kāryāṇi kariṣyāmo ti / ime pi  
-śramaṇakā āgacchiya madhye niṣaṇṇā / naṣṭaṃ bhraṣṭaṃ kuto imeṣāṃ  
-śrāmaṇyaṃ / (30a1) etaṃ prakaraṇaṃ bhikṣūhi śrutaṃ / bhikṣū bhagavato  
-ārocayeṃsu / bhagavān āha / śabdāpayatha nandanopanandanāṃ / te dāni  
-śabdāpitā / bhagavān āha / satyaṃ bhikṣavo nandanopanadanā evaṃ  
-nāma / tīrthikaparṣā sannipatitā (I.p.127) kāryāṇi kariṣyāmo nti(tti) /  
-yūyaṃ dāṇi gacchiyāṇa teṣāṃ madhye niṣaṇṇā / tad eva sarvvaṃ bhagavāṃ  
-vistareṇa pratyārocayati / naṣṭaṃ bhraṣṭaṃ kuto imeṣāṃ (30a2) śrāmaṇyaṃ  
-āhaṃsu / āma bhagavan   
-     bhagavān āha / tena hi evaṃ tīrthikaparṣā upasaṃkramitavyā / etaṃ dāni  
-bhikṣusya kiṃci tīrthikaparṣāye kāryam bhavati / nāyaṃ kṣamati /  
-bhikṣuṇā gatāgātasya tīrthikaparṣā upasaṃkramituṃ / atha khalu  
-pratikṛtyeva tāva vṛddhatarakā pratisaritavyā / vaktavyaṃ āyuṣmaṃ asti me  
-kiñci tīrthikaparṣāye kāryaṃ āllīpāma mā āllī[yā]motha nti(tti) / yadi  
-(30a3) tāva jalpanti / mā āllī(J.136)patha nti(tti) / na kṣamati allīpituṃ /  
-atha dāni jalpanti / allīpatha nti(tti) / upasaṃkramitavyaṃ / yāva na dāni  
-kṣamati / āsane kṣipā(yā)dharmmam āpadyituṃ, / atha khalu yādṛśaṃ  
-(āsanaṃ) labhyate / tādṛśo upaviśitavyaṃ / nāpi kṣamati / kutsitum vā  
-paṃsitum vā aśrāddhā tīrthikāḥ / ahrīkā tīrthikāḥ / anotrāpino  
-tīrthikāḥ / mithyādṛ(30a4)ṣṭikā tīrthikāḥ / kusidā hīnāvīryā  
-tīrthikāḥ / duḥprajñā tīrthikāḥ / atha khalu evaṃ vaktavyaṃ /  
-sarvvāśrāmiṇānopavāde kadāci traividyaprāptāḥ bahuśrutā yasya  
-praśaṃsā tam anupraśaṃśe teṣāṃ guṇam eva vadena doṣanti / vaktavyaṃ /  
-duṣkaraṃ gṛhiliṅgāparityāgo duṣkaraṃ vastisaṃyamo duṣkaram araṇyavāso  
-evaṃ kāryaṃ kariya gantavyaṃ / evaṃ, (30a5) tīrthikaparṣā  
-upasaṃkramitavyā na pratipadyati / ābhisamācārikān dharmmān  
-atikrāmati // * //  
-  
-     IV.10       Ms.30a5       (J.136.12);      Ch.511b3  
-     bhagavān śrāvastyām viharati / etaṃ dāni bhikṣusya āryaparyā(ṣā)ye  
-kāryam bhavati / nāyaṃ kṣamati / gatāgatasya vṛddhāntam ukkasituṃ /  
-atha khalu prakṛtyeva tāva upādhyāyo vā ācāryo vā āmantrayitavyo  
-vaktavyaṃ / upādhyāyācāryā saṃghasya ma(30a6)dhyaṃ me kiñcit kāryaṃ  
-(J.137) āllīyāmi / mā allīyāmi tti / upādhyāyena vā ācāryeṇa vā  
-jānitavyaṃ / yadi tāva so bhavati / usreṇako vā pravarddhako vā  
-anarthaka(ku)śalo vā / (I.p.128) abhinīhārakuśalo vā kalahakārako vā  
-bhaṇḍanakārako vā bhāṣyakārako vā / adhikaraṇiko vā vaktavyaṃ / mā  
-allīyāhi tti / atha dāni so bhavati / bhadrako guṇavān / anuddhato  
-śikṣā(30a7)kāmo anukūlo anunnaḍo acapalo pṛcchitavyo kiṃ kāryaṃ, /  
-āha / asukam vā asukam vā tena jānitavyaṃ / yadi tāva tasya dugraho vā  
-vaktavyaṃ / mā allīya atha dāni tasya saṃgraho bhavati vaktavyaṃ / āllīya  
-nti(tti) / allīpitavyaṃ / allīya vṛddhāntāto prabhṛti sarvveṣāṃ praṇāmo  
-karttavyā / yā vṛddhatarakā yāvad vṛddhāntaṃ ukkasiyāṇaṃ  
-saṃghasthaviro pṛcchitavyo / a(30b1)sukaṃ me kāryaṃ jalpāmi tti /  
-saṃghasthavireṇa jānitavyaṃ / yadi tāva tasya dugraho bhavati / so ca bhikṣu  
-bhavati / kalahakārako bhaṇḍanakārako bhāṣyakāro adhikaraṇiko vā  
-vaktavyaṃ / mā jalpāhi tti kasya tvaṃ bhikṣūṇāṃ samagrāṇāṃ sahitānāṃ  
-saṃmodamānānāṃ avivadamānānāṃ ekoddeśakānāṃ kṣīrodakībhūtānāṃ  
-śāstuḥ śāsanaṃ dīpayamānānāṃ sukhañ ca phāsu(30b2)ñ ca viharantānāṃ  
-kalahajāto bhaṇḍanajāto vigrahavivādāpanno viharanto saṃghe karkaśāni  
-adhikaraṇāni (J.138) utpādayasi mā jalpāhi tti / atha dāni tasya sugraho  
-bhavati / so ca bhikṣu bhavati / bhadrako guṇavān śikṣākāmo anuddhato  
-anunnaḍo acapalo amukharo apragalbho aprakīrṇṇavāco saṃghasthavireṇa  
-vaktavyaṃ / āyuṣman jalpatha yathādharmmaṃ, (30b3) yathāvinayaṃ  
-yathāśāstuḥ / śāsanaṃ ti tena kāryaṃ saṃghamadhye ārocayitavyaṃ /  
-saṃghena tat kāryaṃ dharmmeṇa vinayena śāstuḥ śāsanena  
-vyupasamayitavyaṃ / vyupaśāntaṃ kariya so bhikṣu pṛcchitavyo āyuṣman  
-kiṃ vyupaśāntaṃ etaṃ kāryaṃ yadi tāva āha / vyupaśāntaṃ vaktavyaṃ /  
-āyuṣman sarvve tvaṃ etaṃ kāryaṃ samagreṇa saṃghena saṃvyupaśāntaṃ  
-(30b4) punaḥ karmmāya utkhoṭayasi puno cāsmi parṣa upasaṃkramesi /  
-saṃgho te uttari upaparīkṣiṣyatīti / yathāsukhaṃ kariya gantavyaṃ evaṃ  
-āryaparṣā upasaṃkramitavyā na pratipadyati / ābhisamācārikān  
-dharmmān atikrāmati // * //  
-  
-(I.p.129)      uddānaṃ //  
-              evaṃ āgantukehi pratipadyitavyaṃ /  
-              evaṃ nevāsikehi pratipadyitavyaṃ /  
-              evaṃ pādā vanditavyā /  
-              evaṃ (30b5) sammoditavyaṃ /  
-              evaṃ ālapitavyaṃ /  
-              evaṃ pravyāharttavyaṃ /  
-              (J.139) evaṃ kṣatriyaparṣā upasaṃkramitavyā /  
-              evaṃ brāhmaṇaparṣā upasaṃkramitavyā /  
-              evaṃ gṛhapatiparṣā upasaṃkramitavyā /  
-              evaṃ tīrthikaparṣā upasaṃkramitavyā /  
-              evaṃ āryaparṣā upasaṃkramitavyā //  
-     caturtho varggaḥ //  
-  
-  
-     (II.p.5)  
-     V.1-2      Ms. 30b5      (J.140.1);      Ch. 509c26  
-     bhagavān samyaksambuddho yad arthaṃ samudāgato tam artham  
-abhisambhāvayitvā śrāvastyām vi(30b6)harati vistareṇa nidānaṃ kṛtvā  
-yāva āraṇyakaṃ tāva śeyyāsanaṃ grāmāntikañ ca ekabhaktatarppaṇañ ca  
-grāmāntike śeyyāsane āraṇyakānāñ ca grāmāntikānāñ ca anugraho  
-sādhīyati / tehi dāni grāmāntikehi pratikṛtyeva gaṇḍiṃ āhaniyāṇaṃ  
-sthitāḥ / te dāni āraṇyakā deśakāle grāmāntikaṃ śeyyāsanaṃ āgatā  
-āhaṃsu / āyuṣmaṃ deśakālo āhanatha gaṇḍiṃ te (30b7) dāni grāmāntikā  
-āhaṃsu / āhatā-y-iyaṃ gaṇḍī bhukta(ṃ) pi amhehi te dāni āhaṃsu /  
-āyuṣman / evaṃ yūyaṃ atyanukālye gaṇḍīṃ āhaniya bhuñjatha / te dāni  
-grāmāntikā āhaṃsu / evaṃ ca yūyaṃ ati-uvahne āgacchatha / te dāni  
-āraṇyakehi aparejjukāto kalyato yevā(va) utthihiya bhaktakāni sarvvāṇi  
-u(t)kṣiptāni / te dāni grāmāntikā deśakālasmin / kulāni  
-upasaṃkrama(31a1)nti / āhaṃsu / upāsike detha / bhaktāni ukkahitāni  
-bhaktāni kena āhaṃsu / āraṇyakehi te dāni teṣāṃ āraṇyakānāṃ āhaṃsu /  
-āyuṣman kin dāni (J.141) yuṣmābhiḥ sarvvāṇi bhaktakāni utkṣiptāni / te  
-dāni āhaṃsuḥ / tathā tumhehiṃ pratikṛtyeva gaṇḍi āhaniyāṇaṃ bhuñjatha /  
-te dāni vivaditāḥ / bhagavato mūlaṃ gatāḥ /   
-     bhagavān āha / nāyaṃ tāva kṣamati pratikṛtyeva gaṇḍīṃ āhaniyāṇaṃ  
-bhuñji(31a2)tuṃ / nāpi kṣamati / aparehi kalyato yeva sarvvāṇi bhaktāni  
-utkṣipituṃ, / tena hi / evaṃ āraṇyake vihāre pratipadyitavyaṃ / evaṃ  
-grāmāntike vihāre pratipadyitavyaṃ / kin ti dāni evaṃ āraṇyake vihāre  
-(II.p.6) pratipadyitavyaṃ / evaṃ grāma(mā)(nti)ke vihāre pratipadyitavyaṃ /  
-etaṃ dāni grāmāntikaṃ ca śeyyāsanaṃ āraṇyakañ ca śeyyāsanaṃ ca  
-ekabhaktatarppaṇaṃ bhavati / tato yadi tāva grāmāntike śe(31a3)yyāsane  
-bhaktam pacyati / na dāni kṣamati / grāmāntikehi pratikṛtyeca(va) gaṇḍīṃ  
-āhaniyāṇaṃ cetiyaṃ vandiyāṇaṃ bhuñjituṃ / atha khalu grāmāntikehi duve  
-śā(thā)līyo ādrāhayitavyā / yā ekā grāmāntikānāṃ / ekā āraṇyakānāṃ  
-grāmāntikānāṃ thālī tahiṃ / taṇḍulā prakṣipitavyāḥ / yā āraṇyakānāṃ  
-thālī yadi tāva āraṇyakā āgatā bhavanti / tahiṃ, (31a4) taṇḍulā  
-prakṣipitavyāḥ / atha dāni nāgacchanti / nāpi kṣamati tahiṃ taṇḍulāni  
-prakṣipituṃ / atha khalu kaḍhantī thapitavyā / ekena bhikṣuṇā vihārakaṃ  
-ukkasiya nidhyāyi(pi)tavyaṃ / yadi tāva (J.142) āraṇyakā āgacchanti /  
-vaktavyaṃ / āyuṣman ete āraṇyakā āgacchanti prakṣipatha taṇḍulāni / atha  
-dāni kālaparyantaṃ nāgacchanti grāmāntikehi gaṇḍīṃ āhani(31a5)yāṇaṃ  
-bhuñjitavyaṃ / āraṇyakānāṃ sthālī otāriyāṇaṃ vodhi(dhovi)yāṇaṃ sthāne  
-sthaṃpayitavyā / anekāye āraṇyakānāṃ co(ra)bhayaṃ vā bhaveya  
-udakabhayaṃ vā siṃhabhayaṃ vā / vyāghrabhayaṃ vā yathāpi te  
-nāgacchanti / yadi koci upāsako saṃghaṃ bhaktena nimantrayati / āha /  
-āryo (rye) āraṇyakānāṃ pi ārocetha nti(tti) / tehi dāni grāmāntikehi  
-āraṇyakānāṃ / (31a6) pi ārocitavyaṃ / āyuṣmaṃ śuve bhaktaṃ vā  
-purebhaktikaṃ vā yavāgūpānaṃ vā bhaviṣyati / mā piṇḍakena  
-vihariṣyatha / karṇṇa(lla)to yyeva āgacchatha / tehi pi dāni āraṇyakehi na  
-vighnayitavyaṃ / yadi arthikā bhaviṣyanti pratipālayiṣyantīti / atha khalu  
-kālena kālaṃ (II.p.7) gantavyaṃ / yadi na sajjaṃ bhavati / na dāni  
-bhaktāgraṃ avaṣṭabhayitavyo āsayitavyaṃ / atha khalu ve(ce)tiyaṃ vanditvā  
-ekānte (31a7) svādhyāyo karttavyo / dharmmam vā cintayantehi āsitavyaṃ  
-eṣo dāni koci grāmāntikāṃ bhaktena nimantreti / vaktavyaṃ /  
-āraṇyakānāṃ pi nimantrehi nti(tti) / atha dāni āha / nāsti mama tahiṃ  
-śraddhā nāpi prasādo tti vaktavyaṃ / vayaṃ pi na praticchāme (mo)  
-nti(tti) / atha dāni āraṇyakānāṃ pi nimantreti bhaktaṃ sajjayitavyaṃ / (J.143)  
-pānīyaṃ pariśrāvayitavyaṃ / āsanaprajñapti karttavyā / dānapati āgato  
-bhavati / (31b1) āraṇyakā ca nāgacchanti / dānapatī āha bhante āhanetha  
-gaṇḍiṃ kālo pi tāva adyāpi bhavati vaktavyaṃ / prāgo tāva adyāpi  
-āraṇyakā pi tāva nāgacchanti / atha dāni dānapatī āha bhante āhanetha  
-tumhe a(ā)raṇyakā pi eṣyantīti kiṃ karttavyaṃ / gaṇḍī tāva vistareṇa  
-āhaniyāṇaṃ ve(ce)ti/yo vistareṇa vanditavyo / cetiyaṃ vistareṇa vandiyāṇaṃ  
-yadi tāva āraṇyakā āga(31b2)tā bhavanti / tato bhuṃjitavyaṃ / atha dāni  
-āraṇyakā nāgatā bhavanti / anantarikānāṃ āsanāni varja(ya)ntehi  
-āsitavyaṃ / pariveśāvakena pṛcchitavyaṃ / ko āraṇyakānāṃ lābhagrāho  
-yadi tāvaj jalpanti / ahaṃ pi ahaṃ pi tti vaktavyaṃ / āraṇyakānāṃ  
-piṇḍapātaṃ ukkaḍḍhatha tehi āraṇyakānāṃ piṇḍapāto ukkaḍḍhayitavyo /  
-ukkaḍḍhiyāṇāṃ sāṃghikaṃ kalpiyakuṭīyaṃ sthāpa(31b3)yitavyo / yadi tāvat  
-sakāle āgacchanti / bhuñjanāya dātavyo / atha dāni vikāle āgacchanti / na  
-vāgacchanti / aparejjukāto śrāmaṇerāṇāṃ dātavyaṃ / nāpi dāni (II.p.8)  
-kṣamati / āraṇyakehi yatra pu(u)llu(lla)gikāye āsituṃ / atha khalu kālena  
-kālaṃ grāmāntikaṃ śeyyāsanaṃ gantavyaṃ / āgacchiya pādāṃ dhoviya  
-hastāṃ nirmmādiya ceti/yo vistare(31b4)ṇa vanditavyo / yadi (J.144) tāva  
-anukalyo adyāpi tāva bhavati / tatraiva sthānacaṃkramaniṣadyāyogam  
-anuyuktena viharitavyaṃ / uddeśaprayuktehi vā manasikāraprayuktehi vā /  
-atha dāni deśakālo bhavati / saṃghārāmaṃ pravisiyāṇaṃ grāmāntikaṃ  
-bhikṣuṃ pratisaṃmodiyāṇaṃ svakasvakehi āsanehi upaviśitavyaṃ / gaṇḍī  
-āhatāyaṃ vandi(31b5)ya cetiyaṃ nāpi dāni āraṇyakehi grāmāntikā  
-kutsetavyā bahukṛtyā bahukaraṇīyā jihvāgre yūyaṃ rasāgrāṇi paryeṣatha /  
-atha khalu saṃrādhayitavyā / vaktavyaṃ āyuṣman sobhanaṃ kriyati  
-bahukarā yūyaṃ bhāraṃ vahatha / dharmmadeśanāṃ karetha / saṃghārāmo  
-kelāpīyati / dhūmo kriyati kulāni prasādīyantīti / evaṃ  
-saṃrādhayitavyāḥ / atha (31b6) dāni āraṇyake śeyyāsane grāmāntikānāṃ  
-ca āraṇyakānāñ ca bhaktaṃ sajjīyati / nāpi dāni kṣamati / āraṇyakehi pi  
-pratikṛtyeva gaṇḍiṃ āhaniyāṇaṃ cetiyaṃ vandiya bhuñjituṃ / atha khalu  
-duve sthālīyo a(ā)drāhayitavyāyo / ekā āraṇyakānāṃ ekā  
-grāmāntikānāṃ yā āraṇyakānāṃ sthālī tahiṃ taṇḍulā prakṣipitavyāḥ /  
-yā grāmāntiṃkānāṃ sthālī yadi tāva grāmāntikā (31b7) āgatā bhavanti /  
-tahiṃ pi taṇḍulā prakṣipitavyāḥ / atha dāni grāmāntikā nāgacchanti / na  
-kṣamati tahiṃ taṇḍulāṃ prakṣipituṃ / jānitavyaṃ / anekāye  
-grāmāntikānāṃ grāmo paro vā bhave corā vā patitā bhaveṃsuḥ / yathā  
-nāgacchantīti / (II.p.9) ekena bhikṣuṇā vihāraṃ ukkasiyāṇaṃ  
-nivyā(dhyā)(pa)yantena āsitavyaṃ / kiṃ grāmāntikā (J.145) āgacchanti / na  
-hi tti / yadi tāva āgacchanti teṣāṃ pi (32a1) taṇḍulā prakṣipitavyā / atha  
-dāni nāgacchanti / deśakāle gaṇḍiṃ āhaniya cetiyaṃ vandiya bhuñjitavyaṃ  
-grāmāntikā(nāṃ) thālī-y-otāriya thā(lī) toyaliptāṃ kariya thapitavyāḥ /  
-eṣo dāni koci āraṇyakānāṃ bhaktenopanimantrayati vaktavyaṃ /  
-grāmāntikānām api nimantrehīti / atha dāni āhaṃsuḥ / nāsti mama  
-taṃhiṃ śraddhā nāsti prasādo vaktavyaṃ vayaṃ pi na praticchāmo nti(tti) /  
-atha dāni (32a2) grāmāntikānām api nimaṃtreti bhaktaṃ sajjayitavyaṃ /  
-āsanaprajñaptiḥ karttavyā / pānīyaṃ pariśrāvayitavyaṃ / puṣpaṃ  
-sajjayitavyaṃ / gandho sajjayitavyo / yadi tāva grāmāntikā nāgacchanti /  
-dānapatir āgato bhavati / āha / bhante / āhaṇatha gaṇḍiṃ anukālyo va tāva  
-adyāpi bhavati / vaktavyaṃ / prāgo tāva adyāpi grāmāntikā ca bhikṣavo  
-nāgacchanti / atha dāni āha / āhaṇatha (32a3) tumhe grāmāntikā pi  
-eṣyantīti / kiṃ karttavyaṃ / gaṇḍī tāva vistareṇa āha/niyāṇaṃ ve(ce)tiyo  
-vistareṇa vanditavyo / ve(ce)ti(yaṃ) vistareṇa vandiyāṇaṃ yadi tāva  
-grāmāntikā āgatā bhavanti bhuñjitavyaṃ / atha dāni grāmāntikā  
-nāgacchanti / āsanāni (J.146) vaṃjāya(rjayaṃ)tehi upaviśitavyaṃ /  
-parithapa(veṣa)kena vaktavyaṃ / ko grāmāntikānāṃ bhikṣūṇāṃ  
-lābhagrāhī yadi tāva ā(32a4)haṃsu / ahaṃ pi ahaṃ pi tti vaktavyaṃ /  
-grāmāntikānāṃ bhikṣūṇāṃ piṇḍapātaṃ parigṛhnatha nti(tti) / atha dāni  
-teṣāṃ na koci lābhagrāhako bhavati / pariveṣakena sarvveṣāṃ ekasthāne  
-piṇḍapātaṃ ukkaḍḍhiyāṇāṃ sāṃghikāyaṃ kalpiyakuṭīyaṃ (II.p.10)  
-thapitavyo / yadi tāva kāle āgacchanti bhuñjanāye dātavyaṃ / atha dāni  
-vikāle āgatā bhavanti / na vā āgacchanti / aparejju(32a5)kāto  
-śrāmaṇerāṇāṃ vā ārāmikānām vā dātavyo nāpi dāni kṣamati  
-grāmāntikehi yatrollagnāye āsituṃ, // atha khalu kālena kālaṃ āraṇyakaṃ  
-śeyyāsanaṃ ukkasitavyaṃ pādāṃ prakṣāliya hastāṃ nirmmādiya stūpaṃ  
-vistareṇa vanditavyaṃ / yadi tāva anukālyo bhavati / ārāmehi vṛkṣamūlehi  
-caṃkramehi niṣadyāhi sthānacaṃkramaniṣadyānu(32a6)yogam anuyuktehi  
-vītināmayitavyā / uddeśaprayuktehi vā manasikāraprayuktehi vā atha  
-dāni deśakālo bhavati vihāraṃ praviśiyāṇāṃ āraṇyakāṃ bhikṣūṃ  
-pratisaṃmodiyāṇaṃ svakasvakehi āsanehi upaviśitavyaṃ / gaṇḍīyaṃ  
-āhatāyaṃ stūpaṃ vandiyāṇaṃ bhuṃjiyāṇaṃ gantavyaṃ / nāpi dāni  
-grāmāntikehi āraṇyakā kutsetavyā / paṃsetavyā / (J.147) śūnyāgāramātā  
-yūyaṃ prajñā(32a7)vaitakṣi(ṃski)yā śṛgālā pi āraṇye vasanti divasaṃ yūyaṃ  
-varṣāṇi piṇḍentā āsatha / atha khalu vaktavyā durāvāsakāni āraṇyakāni  
-śeyyāsanāni prāptāni viviktāni vigatajanapadāni manuṣyarahaśayyakāni  
-pratisaṃlayanasāropyāni duṣkaraṃ prati(vi)vekena durabhiramaṃ ekaṃ paraṃ  
-rātri vinayamāno mānasaṃ ādhyātmaṃ veti / āyuṣmana śobhanaṃ kriyati  
-āraṇyakaṃ śeyyā(32b1)sanaṃ kelāpīyati / uktaṃ cedaṃ bhagavatā  
-yāvakīyaṃ ca bhikṣavo āraṇyakāni śeyyāsanāni adhyāvasiṣyatha / tāva  
-vṛddhī yeva pratikāṃkṣitavyā / kuśalehi dharmmehi no parihāṇi na ca vo  
-māraḥ / pāpīyāṃ avatāram adhigamiṣyati / saddharmmasya  
-antarddhānāya sa(ṃ)mohāya nti(tti) / evaṃ saṃrāvi(dhi)ya gantavyaṃ / evaṃ  
-āraṇyakehi pratipadyitavyaṃ / na pratipadyati (II.p.11) / ābhisamācārikān  
-dharmmān atikrā(32b2)mati // * //  
-  
-     V.3-4      Ms. 32b2      (J.147.13);      Ch. 508b22  
-     bhagavān śrāvastyām viharati / tena dāni kālena tena samayena  
-āyuṣmanto nandanopanandanā pānīyaṃ pratijāgaranti / te dāni bhikṣū  
-tato yyeva mukhaṃ tato yyeva hastāṃ nirmmādiyanti / pātrapariśrāvaṇāni  
-dhovanti / te dāni kalyato yeva nandanopanandanā utthiyāṇa hastāṃ  
-nirmmādiya pānīyaṃ pariśrāviya (J.148) pānīyamaṇḍapaṃ parighaṭṭiya  
-tāyitamudritaṃ kariya gocaraṃ (32b3) praviṣṭāḥ / āgantukā bhikṣū  
-āgatāḥ / pānīyaṃ mārggenti / na labhanti / te dāni odhyāyanti kin dāni  
-ayaṃ pānīyamaṇḍapo tāyitamudrito thapito etaṃ prakaraṇaṃ bhikṣūhi  
-śrutaṃ / bhikṣū bhagavato ārocayeṃsu / bhagavān āha / śabdāpayatha  
-nandanopanandanāṃ / te dāni śabdāpitāḥ / bhagavān āha / satyaṃ  
-bhikṣavo nand(an)opanandanā // pe // yāva āgantukā(32b4)nāṃ bhikṣūṇāṃ  
-gaṇo āgato pānīyaṃ mārgganti / na labhanti / te dāni odhyāyanti kin dāni  
-ayaṃ pānīyamaṇḍapo tāyitamudrito kariya thapito āhaṃsuḥ / āma  
-bhagavan  
-     bhagavān āha / tena hi evaṃ pānīye pratipadyitavyaṃ / evaṃ  
-pādadhovanīye pratipadyitavyaṃ / kin ti dāni evaṃ pānīye  
-pratipadyitavyaṃ / evaṃ pādadhovanīye pratipadyitavyaṃ / nāyaṃ kṣamati  
-(32b5) pānīyaṃ pariśrāviya pānīyamaṇḍapaṃ ghaṭṭiya tāpi(yi)ya mudritaṃ  
-kariya anyena gantuṃ / atha khalu pānīyavāriko tāva uddiśitavyo /  
-navakānte paṭipa(pā)ṭikāya vā yasya vā prāpuṇati / eko vā dvayo vā  
-trayo vā yattakā vā abhisaṃbhuṇanti / tehi kalyata eva utthiya hastāṃ  
-nirmmādiya (II.p.12) pānīyaṃ pariśrāviya golakā vā maṇikā vā uṣṭ(r)ikā  
-(32b6) vā thaganakā vā āraṃjarā vā ghaṭṭā vā karakīyo vā appihāṇā  
-karttavyā / śīla(śilā)mayā vā mṛttikāmayā vā kāṣṭhamayā vā acchehi  
-vā celaṣa(pa)ṭṭehi vā bandhitavyā / yo subhāvitā kariya thapetavyā /  
-yathā pānīyaṃ caukṣaṃ bhaveya / na dāni (J.149) kukkuṭapāśakena  
-bandhitvā sthāpetavyaṃ / tehi bhājanehi prakṣipitavyā pāṭalāgulikā vā  
-campakagulikā vā śarkarā vā sarvvaṅ ka(32b7)rttavyaṃ / yathā sugandhā  
-bhaveṃsu / tato yadi tāva anyaṃ pibanāye pānīyaṃ bhavati / anyaṃ  
-pādadhovanīyaṃ pariśrāvitavyaṃ / parivodha(dhova)nīyena pānīyena  
-śirikuṇḍikā pūrayitavyā / ākalpiyakarkkarī pūrayitavyā / pādadhovanikā  
-pūrayitavyā / varccakumbhikā pūrayitavyā / bhikṣūṇāṃ hastodakasya  
-pātrodakasya pāribhogikasya kumbhikā ca karakā ca pūrayitavyā /  
-go(33a1)gotrasthāpa(sthapā)nīyaṃ bhavati / yathā pāṭaliputre śoṇapānīyaṃ  
-rājagṛhe tayota(poda)ṃ vārāṇasyāṃ buddhavicīrṇṇā nāma puṣkiriṇī  
-campāyāṃ gaṃgāpānīya(ṃ) śrāvastyāṃ pe(po)taleyaṃ śākete  
-dharapānīyaṃ / mathurāyāṃ yamunā na kṣamati tato pānīyāto  
-kalpiyakarakī vā akalpiyakarakī vā varccakumbhikā vā pūrayituṃ /  
-hastodakapādodakaṃ vā pānīyaṃ dātuṃ / atha khalu tato pibanāye (33a2)  
-dātavyaṃ / atha dāni śrāddho bhikṣur bhavati / tato eva śrīkuṇḍikāṃ  
-pūreti anāpattiḥ / bhikṣusya cakṣu duḥkhanti vaidyo āha / bhante (II.p.13)  
-gotrasthena pānīyena akṣiṇi dhovāhi tti labhyā dāni pātrapūraṃ vā eṣo  
-dāni (J.150) dhovanikāṃ vā rajanikām vā kareti / tasya udakena kāryam  
-bhavati / pānīyadhā(vā)rikāṃ yācati icchāmi pānīyaṃ dīyamānan ti na  
-kṣamati / gotrasthaṃ udakaṃ dātuṃ / atha (33a3) khalu pāridhovanīyaṃ  
-udakaṃ dātavyaṃ / bhaktāgreṇa pānīyaṃ vā(cā)rentena hastāṃ  
-sunirmmāditāṃ kṛtvā bhājanaṃ sunirmmāditaṃ kṛtvā caukṣaṃ pānīyaṃ  
-vā(cā)retavyaṃ / pānīyaṃ gṛhnantena gharttitavyaṃ / yathā ekahasto  
-nirāmiṣo bhavati / atha dāni sahasākāreṇa sāmiṣīkṛto bhavati /  
-prakṣālayitvā ya(pa)traśākhāya vā pātraṃ vā oṭṭhāci(33a4)kkaṇaṃ  
-bhavati nirmmādayitvā pātavyaṃ / na dāni atibahu(ṃ) oṣṭha  
-prakṣipitavyā / keśā vā ālihitum vā niḍālam vā / atha khalu oṣṭha  
-pramārjitvā agroṣṭhehi yā(pā)tavyaṃ / tato yyeva stokaṃ varjayitavyaṃ /  
-tenaiva antena prakṣālayantena ujjhitavyaṃ / pānīyaṃ vā(cā)rentena  
-upalakṣayitavyaṃ / yadi koci atibahuṃ oṣṭhaṃ vā volayati keśā vā  
-ālayaṃ(33a5)ti nilāṭe vā apanetavyaṃ taṃ bhājanaṃ ekānte sthapitvā tṛṇaṃ  
-vā kulikaṃ vā upari dātavyā / abhijñānaṃ / yathājñāye akalpiyan ti / puno  
-vā nirmmādayitavyaṃ / paścādbhaktaṃ pānīyaṃ cārentena hastāṃ  
-sunirmmāditā kariya // pe // yāva ekinā hastena pānīyaṃ parigṛhnitavyaṃ /  
-apareṇa pānīyaghaṭikāṃ paṭicchantena cīvara(rā)ṃtarikāya vā  
-pātrāntarikāye (33a6) vā gṛhnitavyaṃ / yāva tenaiva antarakena  
-ujjhitavyaṃ / jentāke cārentena oṣṭhā (II.p.14) pānīyacārikāye pātraṃ  
-bandhitavyaṃ / pibantena oṣṭhā patraśākhāye nirmmādayitvā  
-agroṣṭhakehi pātavyaṃ // pe // taṃ yyeva (J.151) karttavyaṃ prahāṇe  
-cārentena yadi bhūmyāstaro bhavati bhājanāni patraśākhāhi  
-sthapitavyāni / omhāya vā vālikāya vā bhājanehi vā thapitavyaṃ / yadi  
-aṣṭa(33a7)bhāga caturbhāgaṃ ca niṣaṇṇakā bhavanti / ekena  
-madhyamavā(cā)rake sthitakena vā(cā)retavyaṃ / apareṇa praṇetavyaṃ / atha  
-dāni paṭipāṭikāye dūre dūraṃ prahāṇasya upaviṣṭā bhavanti / ekena  
-cāretavyaṃ // pe // labhyā dāni pāridhovanikāto mukhaṃ vā dhovituṃ /  
-hastaṃ vā nirmmādayituṃ, / pātrapariśrāvaṇaṃ vā dhovituṃ / na dāni  
-kṣamati / jhallajhallāye ujjhituṃ / mātrāye (33b1) upanāmetavyaṃ / na dāni  
-kṣamati / pāridhovaniyāto snāpi(yi)tuṃ vā cīvaram vā dhovituṃ / rañjanaṃ  
-vā kaḍhituṃ / atha dāni bhikṣū cīvarakarmma karoṃti / udakañ ca āvilaṃ  
-bhavati / bhājanaṃ ca atiriktaṃ ti le(/ la)bhyā dāni pāpicakadharmmīya  
-yācituṃ / āha / āyuṣman dehi bhūyo ānīya dāsyāmi tti / kiñ cāpi deti  
-anāpattiḥ / taṃ pi dāni / gṛhniya ānīya kālena kālaṃ dātavyaṃ / atha  
-dā(33b2)ni āsaṃnodako saṃghārāmo bhavati / kiñ cāpi tato yeva pibati tato  
-yeva pāridhovanīyaṃ karoti / tato yeva hastāṃ dhovati raṅgam vā karoti /  
-(J.152) anāpattiḥ / evaṃ pānīye pratipadyitavyaṃ / na pratipadyati /  
-ābhisamācārikān dharmmān atikrāmati // * //  
-  
-     V. 5-6      Ms. 33b2      (J.152.3);      Ch. 507c21  
-     bhagavān śrāvastyām viharati / te dāni āyuṣmanto (II.p.15)  
-nandanopanandanā ṣaḍvarggikā ca pādadhoṃvanikāyāṃ jha(33b3)llajhallāṃ  
-pādāṃ dhoviyāṇaṃ sarvvaṃ udakaṃ sthā(ccho)riya pādadhovanikāṃ  
-omuddhikāṃ kariya ā(r)drapādakaṃ upanāhāhi prakṣipiya naiva  
-karddamaṃ pariharanti na pāṃsu karddamaṃ marddantā pāṃsu marddentā  
-dīrghacaṃkramaṃ caṃkramanti / bhikṣu āgacchanti pādadhovanāya / te  
-dāni āhaṃsuḥ / mātrāye yūyam āyuṣmanto pādāṃ dhovatha / udake pi  
-khalu [mātr]ā (33b4) uktā bhagavatā tathaiva sarvvehi bāhirakehi  
-jīvitapariṣkārehi te dāni bhikṣu paśyanti / tāṃ pādadhovanikāṃ ṛktāṃ te  
-dāni odhyāyanti / kiṃ dāni ayaṃ pādadhovanikā omuddhikṛtā etaṃ  
-prakaraṇaṃ bhikṣū bhagavato ārocayeṃsuḥ / bhagavān āha /  
-śabdāpayatha / nandanopanandanāṃ ṣaḍvarggikāṃ ca / te dāni śabdāpitā /  
-bhagavān āha / satyaṃ bhikṣa(33b5)vo nandanopanandanā ṣaḍvarggikā ca  
-evaṃ nāma evaṃ nāma yūyaṃ pādadhovanikāyāṃ gacchiya jhallajhallāye  
-pādāṃ dhoviya udakaṃ cchoriya pādadhovanikāṃ omuddhikāṃ kariya  
-ārdrapādāṃ upānahāsu prakṣipiya naiva pāṃsu pariharatha na karddamaṃ  
-karddamaṃ marddantā pāṃsu marddantā dīrghacaṃkramaṃ caṃkramatha  
-bhikṣū āgacchanti / pādadhovanikāye pādāṃ dho (33b6)vanāye yūyaṃ  
-jalpatha mātrāye āyuṣmanto pādāṃ dhovatha udake pi khalu bhagavatā  
-(J.153) mātrā uktā / tathaiva sarvvehi jīvitapariṣkārehi te dāni bhikṣu  
-paśyanti pādadhovanikāṃ omuddhikāṃ kṛtāṃ āhaṃsu / āma bhagavan   
-     bhagavān āha / duṣkṛtaṃ vo nandano nandanopanandanā ṣaḍvarggikā  
-ca / tena hi evaṃ pādā dhovitavyā / evaṃ (II.p.16) dhovitapādehi  
-pratipadyitavyaṃ kin ti (33b7) dāni / evaṃ pādā dhovitavyā / kin ti dāni  
-dhovitapādehi pratipadyitavyaṃ / bhagavān dāni bhikṣūn āmantrayati /  
-evaṃ bhikṣavo pādāṃ dhovatha / yathā śāriputro sthaviro   
-     ekam idaṃ bhikṣavo samayaṃ śāriputro sthaviro vaiśālyām viharati /  
-mahāvane kūṭāgāraśālāyāṃ sthaviro dāni kālasyaiva nivāsayitvā  
-pātracīvaram ādāya vaiśālīn nagarīṃ piṇḍāya praviṣṭo  
-prāsā(34a1)dikena atikrāntena pratikrāntena ālokitavilokitena  
-sanmiñjitaprasāritena saṃghāṭīpātracīvaradhāraṇena antarggatehi  
-indriyehi abahirggatena manasena sthitena dharmmatāvasthaprāptena smṛto  
-saṃprajāno mārgo viya kāritakāraṇo veśālīṃ nagarīṃ piṇḍāya carati /  
-sthaviro dāni apareṇa brāhmaṇena dṛṣṭo tasya brāhmaṇasya bhavati / ime  
-iti (34a2) kitikāya putrāḥ / śramaṇakāḥ grāmānte iryāpathaṃ paṭhayanti  
-nirddhāvitā ca bhavanti vikopenti / so dāni praduṣṭacitto sthavirasya  
-pṛṣṭhimena pṛṣṭhimaṃ anubaddho yatra yeva ayaṃ śramaṇako īryāpathaṃ  
-vikopayiṣyati / tatraiva śe (śīrṣe) khaṭakaṃ dāsyāmi / sthaviro dāni  
-grāmāraṇyasamena (J.154) īryāpathena samanvāgato vaiśālīṃ piṇḍāya  
-caritvā nirddhāvito vihāraṃ āgato sthavi(34a3)ro dāni vihārakesmin pātraṃ  
-nikṣipiya hastāṃ prakṣāliya saṃghāṭīṃ prasphoṭiya sāhariya abhyantareṇa  
-dviguṇikāṃ kariya cīvaravaṃśe sthapayitvā pānīyasya dakānakaṃ pūrīya  
-pīṭhakā prajñāpiya pādataddha(ṭṭha)kaṃ upanāmayitvā upānahikāyo  
-upanāmiya (II.p.17) upānahāyo( po)cchanno upanāmiya pādāṃ dhovati /  
-sthaviro dāni dakṣiṇena hastena udakaṃ ā(34a4)siñcati / vāmena hastena  
-pādāṃ dhovati / sthavireṇa dāni vāmā jaṃghā dhovitā dakṣiṇā jaṃghā  
-dhovitā vāmo pādo dhovito dakṣiṇo pādo dhovito  
-upānahāyo(po)cchatu(nna)kaṃ gṛhniya upānahā saṃpuṭaṃ kariya ekasya  
-upānaho(hā)vaddhro yo(po)cchito dvitīyasya upānahāvaddhro pocchito  
-ekasya upānahātalaṃ yo(po)cchitaṃ dvitīyasya upānahā(34a5) talaṃ  
-pocchitaṃ / upānahikāyo nikṣipiya dakānakāto vāmāye kalācīye udakaṃ  
-āvarjayitvā dakṣiṇena hastena upānahāyo(po)cchanakaṃ dhoviya  
-niṣpīḍitvā ātape śoṣayetaṃ kalācīya udakaṃ āvarjiya hastā dhotā hastāṃ  
-(J.155) dhoviya dakānakaṃ dhoviya pānīyāvaśeṣaṃ cchoriya ātape śoṣitaṃ  
-so dāni brāhmaṇo [ta]sya (34a6) ācāragocaraṃ paśyiya tuṣṭo so dāni  
-prasannacitto āha / yathāpi imaṃ bhavatā śāriputreṇa dakānakaṃ /  
-upacīrṇṇaṃ yo pi so brāhmaṇānāṃ uṣṇodakakarako so pi na evaṃ śucī  
-labhyā khalu ito pānīyaṃ pātuṃ / sthavireṇa dāni tasya brāhmaṇasya  
-prasannacittasya catvāry āryasatyāni pradarśitāni duḥkham āryasatyaṃ  
-duḥkhasamudayam āryasatyaṃ duḥkhani(34a7)rodham āryasatyaṃ  
-duḥkhanirodhagāminī pratipadam āryasatyaṃ / tena dāni brāhmaṇena  
-tatraiva sthāne sthitena śrotāpattiphalaṃ sākṣātkṛtaṃ bhikṣū dāni  
-bhagavantam āhaṃsu / yasya bhagavān katham ayaṃ brāhmaṇa  
-sthavirasyācāragocareṇa tuṣṭo bhagavān āha / na etarhi evam anyadāpi  
-eṣo etasya ācāragocareṇa tuṣṭo nyadāpi bhagavan anyadāpi (34b1)  
-bhikṣavo bhūtapūrvvam bhikṣavo atītam adhvānaṃ etahiṃ ca nagaraṃ  
-(II.p.18) vārāṇasī kāśijanapado / tatra dāni agrakuliko āḍhyo mahādhano  
-mahābhogo prabhūtadhanadhānyakośakoṣṭhāgāro  
-prabhūtajātarūparajatavittopakaraṇo prabhūtahastyaśva-ajagaveḍako  
-prabhūtadāsīdāsa(J.156)karmmakarapauruṣeyo / tasya dāni eko putro  
-acirajāto so (34b2) dāni mātāpitṛbhir unnīyati varddhīyati / yaṃ kālaṃ  
-saptavarṣo ṣṭavarṣo vā so dāni mātāpitṝṇāṃ pūrvvotthāyī  
-paścānnipātī priyavādī mana-apavādī / kiṃkarapariśrāvako tasya dāni  
-śreṣṭhikasya kulaputrakā gṛhaṃ ocaranti / tasya gṛha(ṃ) guptañ ca  
-surakṣitañ ca na pārenti otāraṃ vindanāya / kadāci dāni so śreṣṭhi  
-aparehiṃ jñātisāle nimantritako gato va(34b3)rṣārātrikaṃ taṃ dāra(ka)ṃ  
-rakṣapālaṃ thapiyāṇaṃ putra dvāraṃ ghaṭṭiyāṇaṃ rakṣamāṇo āsesi / so  
-dāni dārako śreṣṭhinā saparivāreṇa gatena gṛhasya dvāraṃ ghaṭṭiyāṇaṃ  
-rakṣamāṇo āsati tehi dāni kulaputrakehi otāro labdho / te dāni taṃ gṛhaṃ  
-okkhandiyāṇaṃ praviṣṭā te dāni ulkāyo ca dīpikāyo ca prajvāliyāṇaṃ  
-mārgganti / so eko dā(34b4)rako dṛṣṭo te dāni pṛcchanti / dāraka kahiṃ  
-tumhāṇaṃ hiraṇyaṃ vā suvarṇṇaṃ vā / so dān āha / ahaṃ pi na jānāmi /  
-etaṃ gṛhaṃ śūnyakaṃ mārggiya mārggiya yaṃ labhatha taṃ gṛhnatha tehi  
-dāni mārggiya mārggiya prabhūtaṃ hiraṇyasuvarṇṇaṃ gṛhasya  
-madhyamāgāre mahāntaṃ kūṭaṃ kṛtaṃ yo teṣāṃ corasenāpatiḥ / so  
-gṛhasya (J.157) madhyāgāre upaviṣṭaḥ / so dāna(ni) co(34b5)rasenāpatiḥ  
-pipāsitaḥ / tasya dārakasyāha / haṃgho dāraka pipāsito smi / icchāmi  
-pānīyaṃ pātuṃ so dāni dārako caukṣasamudācāro bhājanaṃ gṛhniya  
-parimārjiya hastāṃ sudhā(dho)tāṃ kṛtvā bhājanaṃ sudhotaṃ kṛtvā  
-udakasya pūriya (II.p.19) yatra dīpā dīpyanti tatra allīno so dāni  
-supratyavekṣitaṃ kariya corasenāpatisya allīno senā(34b6)pati pibāhi tti  
-tenāpi dāni corasenāpatinā tasya dārakasya pānīyaṃ dentasya sarvvam  
-upalakṣitaṃ / so dāni pṛcchati haṃgho dāraka kasya kṛtena tvaṃ atra  
-dīpamūlaṃ allīnosi so dāni āha / senāpati pānīyaṃ pratyavekṣituṃ, / mā  
-atra pānīyasmiṃ tṛṇo vā bhave prāṇako vā tena senāpatisya aphāsu  
-bhaveya / so dāni senāpati tasya ācāragocareṇa tuṣṭo (34b7) tasya bhavati  
-senāpatisya mā tāva mā tāva asmākaṃ tāva eṣo vadhakānāṃ  
-pratyarthikānāṃ pratyamitrāṇāṃ arthakāmo hitakāmo ko punarvvādo yo  
-etasya mātāpitā vā jñātikā vā tehi eṣo kathaṃ amaitracitto bhaviṣyati yadi  
-vayam imasya dārakasya evaṃ dharmmiṣṭhasya imaṃ hiraṇyasuvarṇṇaṃ  
-harāma praticorehi pi muṣyema grahaṇaṃ pi gacchema / rājakule pi  
-vadhyema / so dāni (35a1) corasenāpati pānīyaṃ pibiya tāṃ sarvvāṃ corāṃ  
-śabdāpiya pṛcchati / ko bhaṇe ko ahaṃ yuṣmākaṃ te dāni āhaṃsu /  
-senāpati āha / bhavanto ahaṃ imasya dārakasya evaṃ ca evaṃ ca  
-ācāragocareṇa tuṣṭo yadi vayaṃ etasya dharmmiṣṭasya etaṃ hiraṇyaṃ (J.158)  
-suvarṇṇaṃ harema praticorehi vā vayaṃ muṣyema grahaṇaṃ pi gacchema /  
-rājakule pi vadhyema / yadi yuṣmākaṃ anukūlaṃ (35a2) bhave muñcema  
-vayaṃ etaṃ etasya hiraṇyasuvarṇṇaṃ anyaṃ vayaṃ corayiṣyāmaḥ / te dāni  
-āhaṃsuḥ / yathā senāpatikasya rucyati / so dāni dārakasyāha / haṃgho  
-dārakā imaṃ vayaṃ tava sarvvaṃ hiraṇyaṃ suvarṇṇaṃ demi te dāni corā  
-nirddhāpitāḥ / tena dārakena dvārāṇi sarvvāṇi ghaṭitāni devatā gāthāṃ  
-bhāṣate /  
-     (II.p.20) ācāraguṇasampannāḥ / ye bhavanti tu mānavāḥ /   
-     (35a3) labhanti vipulāṃ arthāṃ yathā pānīyadāyakaḥ /  
-     ācāraṃ śikṣitaṃ śreyo anācāraṃ na śikṣitaṃ /  
-     corehi gṛhīto saṃto mukto ācārakāraṇāt //  
-     ghātyā bhavanty aghātyācāraṃ śikṣiyāṇaṃ vinayaṃ ca   
-     sthāneṣu ca aiśvaryaṃ labhanti ācāraguṇayuktāḥ //  
-     vadhyā bhavanty avadhyā ācāraṃ śikṣiyāṇaṃ vinayaṃ ca /  
-     tasmān nareṇa satataṃ ācāraguṇena bhavi(35a4)tavyaṃ /  
-     raudrā lohitapāṇī caurā tuṣyanti tāḍṛśā santā /  
-     ācāreṇa anāryā āryā jātāvakrāntāḥ //  
-     (J.159) bhagavān etasmin vastuni dharmmapadaṃ bhāṣate /   
-     na brāhmaṇasya prahareya nāsya muṃceya brāhmaṇo /   
-     dhig brāhmaṇasya hantāraṃ taṃ pi dhik yo sya muṃcati //  
-     bhagavān āha / syād vo bhikṣavo evam asyādanyo sau tena kālena tena  
-samayena ++(35a5) bhavati agrakulikasya putro naitad evaṃ draṣṭavyaṃ /  
-eṣo śāriputro sthaviro anyo so corasenāpati eṣo brāhmaṇo tadāpi etasya  
-eṣo ācāragocareṇa tuṣṭo etarhi pi eṣo sthavirasya ācāragocareṇa tuṣṭo /  
-eṣo dāni bhikṣu yadā grāmāto nirggato bhavati / tato grāmapraveśikaṃ  
-cīvaraṃ prasphoṭitvā atyantapari(35a6)karmmaṃ sāharitvā sthapetavyaṃ /  
-ārāmacaraṇakaṃ prāvaritvā āsanaṃ prajñapetavyaṃ pādopavā(dhā)nakaṃ  
-udakadānaṃ pi ca uṣṭhapayitvā celakhaṇḍena rajo prasphoṭitavyo  
-dakānakaṃ kalācīyaṃ a(ā)varjetvā colakaṃ dhovitvā niṣpiḍitvā upānahā  
-(II.p.21) nirmmādayitavyā // pe // yāva colakaṃ niṣpiḍitvā thapetavyo / mā  
-prāṇakā jāyeṃsu (J.160) nīlikāya vā bhaveṃsu / bhikṣuṇāpi tāva (35a7)  
-pādāṃ dhovantena dakṣiṇa(ṇena) hastena udakaṃ āsiṃcitavyaṃ / vāmena  
-hastena pādāṃ dhovitavyā vāmā tāva jaṃghā dhovitavyā dakṣiṇā tāva  
-jaṃghā dhovitavyā / vāmo pādo dhovayitavyo dakṣiṇo pādo dhovayitavyo /  
-upānahāyo prasphoṭitvā saṃpuṭīkṛtvā ekasyopānahāye vaddhro  
-pocchitavyo aparasya vaddhro pocchitavyo / ekasya upānahāye talaṃ (35b1)  
-pocchitavyaṃ / dvitīyasya upānahāye talaṃ pocchitavyaṃ kuṇḍikāto vā  
-karakato vā kalācīye udakaṃ āvarjiya upānahāpocchanakaṃ dhovitavyaṃ /  
-pīḍiya ātape śoṣayitavyaṃ / kalācīye udakaṃ āvarjiya hastā dhovitavyā na  
-kṣamati upānahāhi ārdrapādena praveśayituṃ atha khalu yaṃ kālaṃ  
-adhvātā bhavanti / tato praveśayitavyo / atha khalu dāni (35b2)  
-sarvvasaṃghasya pādadhovanikā bhavati / na kṣamati bhikṣuṇā  
-jhallajhallāye pādāṃ dhovituṃ udakaṃ cchorayi(riya) omuddhikāṃ  
-pādadhovanikāṃ karttuṃ / atha khalu acchaṭikāṃ karentena  
-pādadhovanikāyāṃ praviśitavyaṃ / yadi tāva koci bhikṣuḥ pūrvvapraviṣṭo  
-bhavati / āgamitavyaṃ / yāva tehi / dhovitā pādā nti(tti) atha dāni  
-khaṇui(khāṇu)kāpādadhovanikā bhavati / trīṇi vācāyo  
-jalpayita(35b3)vyo(vyā)/yo ko vṛddhatarako vṛddho(ddhe) nti(tti) / yadi tāva  
-koci vṛddhatarako bhavati / antaraṃ dātavyaṃ / yaṃ kālaṃ tena pādā  
-dhovitā bhavati / upaviśitavyaṃ / atha dāni koci vṛddhatarako na bhavati /  
-evaṃ pi upaviśitavyaṃ / tato yadi tāva dakṣiṇānte pādadhovanikā (J.161)  
-bhavaṃti / dakṣiṇena (II.p.22) ante(haste)na udakaṃ āsiñcitavyaṃ / vāmena  
-hastena pādā dhovitavyā / (35b4) vāmā tāva jaṃghā dhovitavyā /  
-dakṣiṇena(ṇā) jaṃghā dhovitavyā / vāmo pādo dhovitavyo / dakṣiṇo pādo  
-dhovitavyo / atha dāni vāmānte pādadhovanikā bhavati / vāmena hastena  
-udakaṃ āsiñcitavyaṃ / dakṣiṇena hastena pādā dhovitavyā / nāpi dāni  
-kṣamati tenaiva hastena udakaṃ āsiñcituṃ / atha dāni dve janā bhavanti /  
-ekena ā(35b5)siñcitavyaṃ / ekena dhovitavyaṃ / dakṣiṇā tāva jaṃghā  
-dhovitavyā / vāmā jaṃghā dhovitavyā / dakṣiṇo pādo dhovitavyo / vāmo  
-pādo dhovitavyo upānahāyo saṃghā(pu)ṭīkariya ekasya upānahāye vadhro  
-pocchitavyo / dvitīyasya vadhrako pocchitavyo / ekasya upānahāye talaṃ  
-pocchitavyaṃ / dvitīyasya upānahāye talaṃ pocchita(35b6)vyaṃ / yadi tahiṃ  
-koci bhikṣu bhavati navatarako so vaktavyo udakaṃ āsiñcihi nti(tti) /  
-upānahāpocchanno dhoviya pīḍiya tatraiva sthapitavyaṃ / hastān  
-nirmmādiyāṇaṃ athā(dhvā)tāyāṃ upānahāyāṃ prakṣipitavyaṃ / nāpi  
-kṣamati / pādadhovanikāyāṃ oguṇṭhitaśīrṣeṇa ohitahastena vā /  
-pādadhovanikāyā upaviśituṃ / atha khalu ekāṃsī(J.162)kṛtena  
-upaviśitavyaṃ / nāpi dāni (35b7) kṣamati pādadhovanikāyāṃ  
-uddeśaprayuktena vā manasikāraprayuktena vā middhāntaragatena vā  
-nirodhasamāpattiṃ cintantena āsituṃ / atha khalu pādehi dhovitehi utthiya  
-gantavyaṃ / dhūlī parivarjantena gantavyaṃ / nāpi dāni kṣamati pādehi  
-dhovitehi dīrghacaṃkramaṃ caṃkramituṃ / atha dāni bhikṣuḥ svādhyāyaṃ  
-karoti / pādehi dhovitehi caṃkramanti bhūyo dho(36a1)vitavyā / atha dāni  
-hemantakālo bhavati bhikṣuḥ paśyati ko bhūyo dhoviṣyatīti / antamasato  
-leṅkaṭakhaṇḍena (II.p.23) vāmahastena vā āmarjiya praviśitavyaṃ / evaṃ  
-pādā dhovitavyā / evaṃ dhovitapādehi pratipadyitavyaṃ / na pratipadyati /  
-ābhisamācārikān dharmmān atikrāmati // * //  
-  
-     V. 7-8      Ms. 36a1      (J.162.11);      Ch. 508c24  
-     bhagavān rājagṛhe viharati / vistareṇa nidānaṃ kṛtvā jīvako  
-kaumārabhṛtyo bha(36a2)gavantaṃ yācati / anujānātu bhagavān  
-śrāvakānāṃ jentākaṃ vātapittaśleṣmakānāṃ paya(phā)su bhaviṣyati /  
-bhagavān āha / tena hi anujānāmi / eṣā evārthotpattiḥ // * //  
-     bhagavān śrāvastyāṃ viharati / saṃghasya dāni jentāko te dāni  
-āyuṣmanto ṣaḍvarggikāḥ / pratikṛtyeva gacchiya jentākaṃ prajvālīya  
-dvāraṃ ghaṭṭiya svedattā āsanti / āgatā bhikṣū dvāraṃ yāva(ca)nti (36a3)  
-āyuṣmanto detha dvāraṃ / te dāni āhaṃsu / āgametuṃ(ṃtu) / āyuṣmanto na  
-tāva (J.163) jentāko tatto bhavati / yaṃ kālaṃ bhikṣu sannipatitāḥ / taṃ  
-kālaṃ sarvvaṃ tailaṃ upayojiya sarvvaṃ cūrṇṇaṃ upayojiya sarvvaṃ udakaṃ  
-cchoriya sarvvaṃ, kāṣṭhaṃ agnau prakṣipiya jentākaṃ apaduriya  
-nirddhāvitāḥ / āhaṃsuḥ / praviśantu āyaṣmanto jentāko tapto (36a4) te  
-dāni bhikṣu śītapraṣṭavyena spṛṣṭāḥ / tvaritatvaritaṃ praviṣṭā te dāni  
-yaṃ kālaṃ tehi āyuṣmantehi ṣaḍvarggikehi dvāraṃ āghaṭṭiya  
-bāhiravitaṇḍitaṃ kṛtaṃ / te dāni tailaṃ mārgganti na labhanti cūrṇṇaṃ  
-mārgganti na labhanti / uṣṇena ca dhūmena ca saṃtāpitāḥ / udakaṃ na  
-labhanti / te dāni dvāraṃ āgacchanti / yāva bāhiravitaṇḍitaṃ kṛtaṃ / te  
-dāni āhaṃsuḥ / (36a5) āyuṣman ṣaḍvarggikāḥ / osaratha dvāraṃ (II.p.24)  
-dhūmena ca uṣṇena ca marāma / te dāni hasanti ca vilekṣanti ca / te dāni  
-āhaṃsuḥ / svedantu āyuṣmanto utpātagaṇḍapiṭakānāṃ  
-vātapittaśleṣmikānāṃ phāsu bhaviṣyati / te dāni yaṃ kālaṃ dhūmena ca  
-uṣṇena ca suṣṭhu saṃtāpitāḥ / taṃ velaṃ jentākasya dvāraṃ muktaṃ te  
-dāni uṣṇena ca santāpitāḥ / bāhyato pi (36a6) udakaṃ mārgganti na  
-labhanti te dāni āhaṃsu stokastokaṃ āyuṣmana mātrāye upanetha udake pi  
-mātrajñatā uktā bhagavatā etaṃ prakaraṇaṃ bhikṣū bhagavato  
-ārocayeṃsuḥ / bhagavān āha / śabdāpayatha ṣaḍvarggikāṃ / te dāni  
-śabdāpitāḥ / bhagavān āha / satyaṃ bhikṣavo ṣaḍvarggikāḥ / evan nāma  
-saṃghasya jentāko tta(tti) / tad eva sarvvaṃ bhagavān vi(J.164)stareṇa  
-pratyāro(36a7)cayati / yāva ete dāni bhikṣū uṣṇena ca dhūmena ca  
-santāpitā nirddhāvitā bāhyato pi udakaṃ mārggayanti / na labhanti /  
-yūyaṃ dāni āhaṃsu stokaṃstokaṃ āyuṣman mātrāye upanetha udake pi  
-mātrajñatā uktā bhagavatā / āhaṃsu / āma bhagavan bhagavān āha /  
-duṣkṛtaṃ vo bhikṣavo ṣaḍvarggikāḥ / nā(a)haṃ bhikṣavo ṣaḍvarggikāḥ /  
-anekaparyāyeṇa metraṃ kāyakarmma vadāmi (36b1) sabrahmacāriṣu  
-dhruvaṃ pratyupasthāpayitavyaṃ / āvi caiva raho ca maitraṃ vācākarmmaṃ  
-maitraṃ manokarmmaṃ sabrahmacāriṣu dhruvaṃ pratyupasthāpayitavyaṃ /  
-āvi caiva raho ca tatra nāma yūyaṃ idam evaṃrūpaṃ pāpakarmmam  
-akuśalan dharmmam adhyācariṣyatha / tena hi evaṃ snāne  
-pratipadyitavyaṃ / evaṃ jentāke pratipadyitavyaṃ kin ti dāni evaṃ snāne  
-pratipadyitavyaṃ / evaṃ (36b2) jentāke pratipadyitavyaṃ / jentākaṃ karentena  
-vaṭṭito vā karttavyo caturasro vā vidiśaṃ dvāraṃ karttavyaṃ /  
-vātapānīyaṃ vīthī karttavyā / atya(bhya)ntare viśālā bāhirato (II.p.25)  
-saṃdyi(kṣi)ptā / ekāye vātadhā(pā)nīye vīthīye dvauvikā bhavati dvitīyā  
-karttavyā bhūmi astaritavyā upalehi vā pakṣiṭṭikāya vā  
-sudhāmṛttikālepo vā karttavyo / udviddhavīthī karttavyā / bh(r)aṣṭikā  
-(36b3; J.165) karttavyā / yena dvārāheṣṭhato viśālāhi upari saṃkṣiptā  
-udvedho nirghu(mu)ṣṭikā trayo hastā karttavyā vistāreṇa ni(r)muṣṭikā vā  
-bhūmito ardhahasta-upastha(sthū)latarikā karttavyā / ulkabhramo  
-karttavyo / yena bhraṣṭikā samantena karttavyaṃ kapāṭaṃ karttavyaṃ / yadi  
-tāva bhraṣṭikā dakṣiṇato bhavati / vāmato kapāṭaṃ karttavyaṃ / atha vā  
-na(vā)mato bhraṣṭi(36b4)kā bhavati / dakṣiṇato kapāṭaṃ karttavyaṃ / na  
-dāni kṣamati / sūcikabandhimaṃ karttuṃ, / ghaṭikā bandhimaṃ karttavyaṃ /  
-nāpi dāni kṣamati tadā karttavyaṃ / yathā sukhena tapyati / atha khalu  
-tathā karttavyaṃ / yathā ya(ye)va phalamātreṇa lagga bāhirato cīvarakuṭī  
-karttavyā / nāgadantakavīthī karttavyā yatāyetārthāyaiva bhavati  
-jentākavārikā vā ārāmikā vā (36b5) tehi jentāke santānikā  
-śāṭayitavyā / siñcitvā sammārjayitavyo / kāṣṭhaṃ se(sa)jjetavyaṃ / bhaṇḍā  
-sajjayitavyā / ghaṭā vā sajjetavyā / kuṇḍā jentāke pīṭhikā vā śuktikāyo  
-vā dhovitavyā / kāṣṭhaṃ bhraṣṭikāyāṃ ājuhi(J.166)tavyaṃ gaṇḍī  
-ākoṭetavyā / agnir dātavyo udakaṃ āharttavyaṃ / te dāni agni datvā  
-paścād gaṇḍī ākoṭetavyo agnir dātavyo / (36b6) udakaṃ āharttavyaṃ / na  
-dāni agniṃ datvā paścād gaṇḍī ākoṭetavyā / atha khalu gaṇḍi ākoṭetvā  
-agnir dātavyo / mā evam eva kāṣṭhaṃ dahyeya jentākasya gaṇḍī (II.p.26)  
-ākoṭitāje jānitavyā / kiṃ eṣo jentāko sarvvasāṃghiko pāriveṇiko  
-yathāyo(parṣāye /) yadi tāva paryā(rṣā)ye bhavati / ye tahiṃ paryā(rṣā)ye  
-tahiṃ gantavyaṃ / atha dāni pariveṇiko bhavati / ye tasmiṃ pariveṇikā saṃti  
-tehi ga(36b7)ntavyaṃ / atha dāni sarvvasāṃghiko bhavati tathā evaṃ  
-snāyantena cīvarakaṃ sāharitvā ekasthāne sthavitavyaṃ loḍhikena vā  
-paṭikāya vā cīvaraṃca(vaṃ)śe vā thapetavyo jentākapīṭhe vā praviśatena  
-na dāni kṣamati / [b]āhā bhrāmayantena praviśituṃ / atha khalu ekena  
-hastena agrato praticchāditvā praveṣṭavyaṃ / eko niṣkrāmati / eko  
-praviśati / yo praviśati / tenāntaraṃ dāta(37a1)vyaṃ / na dāni āsa(J.167)nāni  
-vā bhājanāni vā vṛddhatarakaṃ vā bhikṣuṃ laṃghayantena gantavyaṃ /  
-saṃprajānanena gantavyaṃ / yadi dāni upādhyāyo vā ācāryo vā  
-praviṣṭako bhavati / na dāni bāhirato vikrośitavyaṃ / snāyāmi ācārya  
-snāyāmi upādhyāya nti(tti) atha khalu cīvarakāni sthāpitvā praviśitvā  
-tasya tāva parikarmma karttavyaṃ / atha dāni anyasyāpi karttukāmo  
-bhavati / āpṛcchitvā kartta(37a2)vyaṃ / atha dāni so prakṛtyeva bhaṇito  
-bhavati / asukasya vā asukasya vā parikarmma kuryesi tti / kiñ cāpi  
-anāpṛcchitvā kareti / anāpattiḥ / yadi tāva agni bahalako bhavati / navakehi  
-agrato sthātavyaṃ / agni prativāhentehi / atha dāni agnir mmando bhavati /  
-vṛddhehi agrato sthātavyaṃ / parikarmma karentehi na dāni svedena vā  
-malena vā usphoṣetavyo / uṣāntake(37a3)na snānena vā pratipannena vā  
-(II.p.27) parikarmma karttavyaṃ / antevāsikehi vā sārvve(rddhe)vihārikehi  
-vā parikarmma karentena na dāni apūrvvacarimaṃ ubhayabāhā  
-prasāretavyā / atha khalu hastena agrato praticchādayitavyaṃ / apareṇa  
-parikarmma kārayitavyaṃ / atha dāni bhikṣuḥ prahāṇiko bhavati / na dāni  
-kṣamati / tehi agni(ṃ) prajuhitvā udakaṃ praviśiṣitvā (37a4) udakatamaṃ  
-bandhitvā dvāraṃ pihitvā śālaṃ bandhitvā prahāṇaṃ āsituṃ, /  
-prasvedaṃtehi na dāni kṣamati tailena śoṣayituṃ / atha khalu minīya  
-dātavyaṃ / caṣakena vā karaṇḍikāya vā hastasaṃjñāya vā bhājanakena vā  
-(J.168) dātavyaṃ / nāpi dāni kṣamati / cūrṇṇaṃ rāśīya upanetuṃ / minīya  
-dātavyaṃ / mānabhaṇḍe vā bhājanena vā hastasaṃjñāya vā piṇḍi(37a5)kam  
-vā paṭṭiya dātavyaṃ / atha dāni dānapati āhaṃsuḥ / yāvad arthaṃ  
-bhadantā upanetuṃ(ṃtu) / evaṃ pi kṛtvā mātrāye / upanetavyaṃ / jentākaṃ  
-praviśantena udakasya pratyayo jānitavyo / kathaṃ dīyati / yadi tāva  
-mitakaṃ dīyati / uṣṇodakaṃ ghaṭena vā kuṇḍena vā tena tathā yeva  
-grahetavyaṃ / atha dāni prakṛtyeva āhaṃsuḥ / yā(yo) pratibalo (37a6) bhavati  
-udakaṃ upasthāpetuṃ / so praviśatu / yo pratibalo bhavati / udakaṃ  
-upasthāpetuṃ tena praveṣṭavyaṃ / atha dāni antevāsiko (vā)  
-sārvva(rddhe)vihāriko vā āhaṃsu / upādhyāyācāryā praviśatha vayam  
-udakam upasthāpayiṣyāmi tti // praveṣṭavyaṃ evaṃ pi kṛtvā mātrāye  
-upanetavyaṃ / upāsakā vā karmmakarā (vā) ārāmikā vā āhaṃsu /  
-praviśantu āryami(37a7)śrāḥ vayaṃ udakaṃ dāsyāmaḥ / praveṣṭavyaṃ  
-mātrāye upanetavyaṃ / atha dāni ogho vā puṣkiriṇī vā taḍāgo vā bhavati  
-kiñ cāpi yāvad arthaṃ upanenti / anāpattiḥ / na kṣamati / abhyavakāśe  
-nagnasya nagnena parikarmma (II.p.28) karttuṃ / atha dāni udakasya  
-praticchannaṃ bhavati nābhimātraṃ vā udakaṃ anāpattiḥ / atha dāni  
-jānumātraṃ udakaṃ bhavati / upaviṣṭena (37b1) karttavyaṃ / yathā  
-nābhipraticchannā bhaveya na kṣamati ātmano (J.169) cīvarāṇi gṛhnitvā  
-parasya cīvarehi samākulīkṛtvā sthāpetuṃ / atha khalu yathāsthāne  
-sthāpayitvā gantavyaṃ / etaṃ dāni jentākasya ārocitaṃ bhavati / jānitavyaṃ /  
-kim ayaṃ jentāko ekato sāṃghiko parṣāyaṃ pariveṇiko nimantritakānāṃ ti  
-yathā bhavati tathā gantavyaṃ / yadi tāva ekato sāṃghiko bhavati / (37b2)  
-sarvvaṃsaṃghena gantavyaṃ / atha dāni parṣāye bhavati / tehi gantavyaṃ /  
-pariveṇiko bhavati / pariveṇikena gantavyaṃ / nimantritakānāṃ bhavati /  
-nimant(r)itakehi gantavyaṃ / atha dāni ārocīyati / bhante yasyāsti tailaṃ ca  
-cūrṇṇaṃ ca tato āgacchantu nti(tti) / tato yasyāsti tailaṃ ca cūrṇṇaṃ ca tehi  
-gantavyaṃ / atha dāni bhikṣu jarādurbbalā vā vyādhidurbbalā vā  
-bhavanti / tasya (37b3) sarvve(sārddhe)vihārikā bhavanti antevāsikā vā tehi  
-vaktavyaṃ / upādhyāyācāryā āgacchāhi snāhi vayaṃ tailaṃ vāsyāma / yadi  
-snāyitukāmo bhavati gantavyaṃ / atha dāni na snāyitukāmo bhavati /  
-vaktavyaṃ su(sa)gotrīmātā gacchatha yūyaṃ nāhaṃ snāpayiṣyāmi / atha  
-dāni jentāko sāṃghiko bhavati dāyakadānapatī vā denti gaṇḍī  
-āhani(37b4)tavyā / ārocayitavyaṃ āyuṣman tailaṃ bhaviṣyati / cūrṇṇaṃ  
-bhaviṣyati / udakaṃ bhaviṣyati / (s)nāyaṃtu āyuṣmanto (J.170)  
-yentākavārikā adhyeṣitavyāḥ / tehi jentāko prajvalitavyo  
-jentākapīṭhakāni praveśayitavyāni / tailam praveśayitavyaṃ / cūrṇṇaṃ  
-praveśayitavyaṃ,/ śuktiyo praveśa(II.p.29)yitavyo / udakaṃ tāpayitavyaṃ /  
-yadi tāva alpaṃ (37b5) tailaṃ cūrṇṇaṃ bhavati / mitakaṃ dātavyaṃ / tailaṃ  
-ma(sa)ṃcayitavyaṃ / udakaṃ bhāvayitavyaṃ / atha dāni bahuṃ bhavati /  
-saṃghasaṃvyavahārako vādā(ṃ) nayati vā jalpati visvastā bhadantā  
-snāyantu nti(tti) / evaṃ pi kariya tailamātrā jānitavyā navakehi bhikṣūhi  
-sthavirāṇāṃ bhikṣūṇāṃ kāyaparicaryā karttavyā / nāpi dāni kṣamati /  
-navakehi bhikṣūhi uccahantehi snā(37b6)yituṃ / atha khalu anyonyasya  
-sagauravehi snāyitavyaṃ / sapratiśehi snāyitavyaṃ / nāpi kṣamati /  
-uccaśabdamahāśabdehi snāyituṃ / atha khalu alpaśabdehi alpanirghoṣehi  
-jentāke snāyitavyaṃ / atha dāni praśno sthāpīyati / kiñ cāpi praghuṣṭena  
-svareṇa praśnā visarjenti / anāpattiḥ / yaṃ kālaṃ bhikṣū snātā bhavanti  
-jentākavārikena tailaṃ śeṣaṃ bhavati / praveśayita(37b7)vyaḥ / cūrṇṇaṃ  
-śeṣaṃ bhavati praveśayitavyaṃ / jentākapīṭhikāni dhoviya  
-praveśayitavyāni / śuktiyo dhoviya praveśayitavyāyo yaṃ kāṣṭhaṃ śeṣaṃ  
-bhavati yathāsthāne sthāpetavyaṃ / atha dāni koci paścāt praviśati /  
-āgacchantu āyuṣmanto vayam etaṃ praveśayiśyāma nti(tti) / gantavyaṃ tehi  
-praveśayitavyaṃ / mā ādīnavam utpādaye jentākaṃ siñciya sanmārjiya  
-nā(a)ṃgārā(38a1)ni cāpiya jentākaṃ bāhiraghaṭitaṃ kariya gantavyaṃ / evaṃ  
-jentāke pratipadyitavyaṃ / evaṃ (J.171) snāne pratipadyitavyaṃ na  
-pratipadyati // ābhisamācārikān dharmmān atikrāmati // * //  
-  
-     V. 9      Ms. 38a1      (J.171.3);      Ch. 509b14  
-     bhagavān śrāvastyām viharati / pañcārthavaśāṃ vistareṇa nidānaṃ kṛtvā  
-yāva adrākṣīd bhagavāṃ pañcāhikāṃ (II.p.30) vihāracārikāṃm  
-anucaṃkramanto anuvicaranto vihārakehi bhaṇḍaṃ ujjhitāvakīrṇṇe (38a2)  
-tiṣṭhati sthālīyo pīṭharikā adhotakā anupaliptā nakūlamūṣikehi  
-ālupyamānā odanamānikāyo hastā kākaśakuntehi nikkhoḍiyantā droṇīyo  
-udvāyo pariyo bhaktapīṭhikā māṇikaṃ caṃgeriyo śuṣyāyo paṭalakāṃ /  
-bhagavāṃ jānanto yeva pṛcchati / kim iyaṃ bhikṣavo bhāṇḍaṃ  
-ujjhitaprakīrṇṇaṃ tiṣṭhati /   
-     tena hi evaṃ bhaṇḍe pratipadyitavyaṃ / (38a3) kin ti dāni evaṃ bhaṇḍe  
-pratipadyitavyaṃ / etaṃ dāni saṃghasya anugraho bhavati nityapavanā vā  
-uddiśitavyā / māsavāriko vā daśāhavāriko vā tatra uddiśitavyo /  
-paṃcāhavāriko vā tena saṃghasya anugraho sādhayitavyo bhikṣusaṃgho  
-pariveśāpayitavyo / yaṃ kālaṃ bhikṣusaṃghena bhuktaṃ bhavati yaṃ tatra  
-bhaṇḍaṃ bhavati lo(38a4)hikā (J.172) vā kaṭāhakā vā sthālī vā piṭharikā  
-vā māsavārikehi vā pakṣavārikehi vā kalpiyakāraṃ śabdāviya  
-liptopaliptaṃ kariya omuddhikā sthapitavyā / sūryādi(bhi)mukhaṃ yaṃ  
-kālaṃ śuṣkā bhavanti / kalpiyakuṭiṃ praveśiya sthāpayitavyāni /  
-yathāsthānaṃ yaṃ tatra bhavati / dugdhaghaṭā vā dadhighaṭā vā  
-vyañjanagolakā vā te sudhotāṃ (38a5) suprakṣālitāṃ kārāpayiya ātape  
-sthāpayitavyāḥ / yaṃ kālaṃ śuṣkā bhavati tato kalpiyakuṭiṃ praveśiya  
-sthāpayitavyāḥ / yaṃ tatra bhavati śatapotanako vā tāmrapātrā vā  
-lohapātrā (II.p.31) vā kaṭacchukā vā taddukā vā caṣakā vā palīnakā vā  
-palīnakā vā nirmmāditā kārāpiya kalpiyakuṭiṃ praveśiya yathāsthāne  
-praveśayitavyāni / etā bhavanti (38a6) māṇikā vā khāṇukā vā durvvā vā  
-kaṇḍahastā vā karkkaṭakā vā prasphoṭiya sudhotāṃ suprakṣālitāṃ kariya  
-ātape śoṣayitavyā / yaṃ kālaṃ śuṣkā bhavanti / tato kīlakehi ollayitvā  
-sthapitavyā yathā na khajjeya / ukkasiya sthapetavyā ete khajjakacaṃgerīyo  
-vanaphalacaṅgerīyo harītakīcaṅgerīyo vā prasphoḍiya suprakṣālitāṃ  
-kariya ekamante sthapetavyāḥ / ete bhavanti / (38a7) vastrābharaṇakā vā  
-pariśrāvaṇā vā caturasrakā vā sāharitvā kīṇa(la)kehi ollayitvā  
-sthapayitavyā / yathā (J.173) na (kha)dyeṃsu / etā bhaiṣajyapiṣaṇikā śilā na  
-dāni kārya(ṃ) kṛtvā yathā yeva pratiliptikā sthapetavyā / atha khalu  
-sudhovitvā yathāsthāne sthāpayitavyā / nāpi dāni kalpikakuṭī  
-adhyupekṣitavyā / oddriṇṇakā vā prala(lu)ggikā vā acaukṣā vā /  
-apratisaṃskṛtā vā / atha kha(38b1)lu kālena kālaṃ yadi tāva tṛṇacchannā  
-bhavati tṛṇapulako dātavyo / gomayakārṣī dātavyā / abhīkṣṇaṃ  
-sanmārjayitavyaṃ / atha dāni tṛṇapraveśikā bhavanti / ekānte  
-sthaṣe(pe)tavyaṃ / evaṃ yat kiñcit saṃghasya bhāṇḍaṃ yo yatra abhiyukto  
-bhavati / tena taṃ pratisāmetavyaṃ / ete bhavanti raṅgagolakā vā  
-raṅgaghaṭakā vā raṅgakuṇḍakā vā raṅgakaṭa(ṭā)hakā vā  
-māṣavārikasya vā / (38b2) pakṣa(vārika)sya vā ādhīnaṃ bhavati / eṣo  
-bhikṣu dhovanikā vā karttukāmo bhavati / māsavāriko vā pakṣavāriko  
-vā yācitavyo / atha dāni dve janā (II.p.32) yāṃca(caṃ)ratīti tena  
-vṛddhatarakasya jñātavyaṃ atha dāniṃ vṛddhatarakasya cirakālo bhavati  
-navatarakasya itvarakālikaṃ bhavati / navatarakasya dātavyaṃ / atha dāni  
-ubhayeṣāṃ itvarakālikaṃ vṛddhatarakasya dātavyaṃ ubhaye(38b3)ṣāṃ  
-cirakālikaṃ bhavati / vṛddha(J.174)tarakasya dātavyaṃ / tena dhovanikā vā  
-rajanikā vā kariya na kṣamati tathā yyeva upamakṣitaṃ vā raṃgarakṣitaṃ  
-vā adhotakam vā anupaliptakam vā dayituṃ na kṣamati / atha khalu  
-sudhotaṃ suprakṣālitaṃ suliptaṃ suśuṣkaṃ kariyāṇaṃ cīvararajūṃ na dāni  
-cīvaraṃ raṃjetvā na tathā yeva vitanikā ujjhitvā gantavyaṃ / atha  
-kha(38b4)lu sāharitvā yathāsthāne sthāpayitavyaṃ / vaḍḍhakibhaṇḍaṃ  
-bhavati / nāsite vā dāni yā vā viśālikā vā sūtrātha olambiko dhovitvā  
-ekānte sthāpetavyā / takṣāṇaṃ bhāṇḍaṃ bhavati / kuṭhāro vā vāsīyo vā  
-viharaṇako vā nikhādanako vā aṭṭilā vā ekānte sthapetavyā / etā  
-bhavanti vāsīyo vā kuddālakā vā niśreṇiyo vā (38b5) na dāni tathā  
-yeca(va) mṛttikā praliptikā sthapetavyā / atha khalu bodhi(dhovi)satvā  
-yathāsthāne sthāpayitavyo / tac cevaṃ cāturddiśaṃ sāṃghikaṃ  
-ma(bhā)ṇḍakaṃ rikta paribhogaṃ na dāni kāryaṃ kṛtvā vihāre gopitvā  
-sthāpetavyaṃ / purokṛtyaṃ sukhaṃ bhaviṣyati / atha khalu yasyaivaṃ (J.175)  
-kāryam bhavati / tasyaivan dātavyaṃ / evaṃ bhāṇḍe pratipadyitavyaṃ /  
-(38b6) na pratipadyati // ābhisamācārikān dharmmān atikrāmati // * //  
-  
-     V.10      Ms. 38b6      (J.175.3);      Ch. 509c9  
-     bhagavān śrāvastyāṃ viharati vistareṇa nidānaṃ kṛtvā (II.p.33) aparehiṃ  
-vihārake saṃbahulā bhikṣū pratisaṃkramati / so dāni vihārako uppeḍanako  
-aparo ca bhikṣuḥ / virātre uśvāsa(ccāra)kārako vā praśvāsa(srāva)kārako  
-vā nirddhāvito bhavati / sa cīvaraṃ cīvaraṃvaṃśāto hū(kū)ṣiyāṇaṃ patito /  
-e(38b7)vaṃ bhūmīye patito taṃ dāni ekena ākrāntaṃ dvitīyena ākrāntaṃ  
-tṛtīyenākrāntaṃ sarvvaṃ karddamehi anupraviṣṭaṃ cīvarakoṇako avaśiṣṭo  
-so dāni aparejjukāto kalyata eva nivāsiya prāvariya cīvarakaṃ mārggati na  
-labhati / tena dāni mārggantena so cīvarakoṇako dṛṣṭo taṃ dāni tahiṃ  
-cīvarakarṇṇake gṛhniya acchiyaṃ caṭanti saṃca(rvvaṃ) phāṭitaṃ / e(39a1)taṃ  
-prakaraṇaṃ bhikṣū bhagavato ārocayeṃsuḥ / bhagavān āha / śabdāpayatha  
-taṃ bhikṣuṃ / so dāni śabdāpito / bhagavān āha / evaṃ ca tvaṃ bhikṣuḥ  
-cīvarakaṃ cīvarakoṇake gṛhniya acchosi ca caṭanti sarvvaṃ phāṭitaṃ tena  
-hi evaṃ cīvare pratipadyitavyaṃ / kin ti dāni evaṃ cīvare pratipadyitavyaṃ /  
-ete dāni saṃbahulā saṃbahulā bhikṣūḥ / ekahi vihārake pratikramanti /  
-yadi / (39a2) tāva so uppeḍanako vihārako (J.176) bhavati / nāpi kṣamati  
-bhikṣūhi muktakaṃ cīvaraṃ sthapayituṃ / atha khalu cīvarakāni  
-sasāharitāni kāriya antaramukha duguṇāntaraṃ kariya cīvaravaṃśe  
-sthapetavyāni tato paṭṭikāye vā loḍhakena vā rejjukāye vā  
-bandhitavyāni / upādhyāyasya (vā) ācāryasya vā cīvaraṃ sāharitvā  
-abhyantara parikarmma dviguṇante / (39a3) agrato karttavyo / antarapīḍito  
-na dāni upādhyāyasya vā ācāryasya (vā) cīvarehi ātmano cīvaraṃ (II.p.34)  
-veḍhayitavyaṃ / atha khalu ātmano cīvarehi upādhyāyācāryāṇāṃ cīvarā  
-veḍhayitavyāḥ / evaṃ sarvvehi bandhiya thapetavyāni / atha dāni bhikṣu  
-virātrakāle uśvāsa(ccāra)kāro vā praśvāsa(srāva)kāro vā nirddhāvati /  
-cīvaravaṃśakāto / (39a4) cīvarāṇi muṃciya ekaṃ dvitīyaṃ vā tṛtīyam vā  
-lka(kū)ṣiyāṇāṃ bhūmīyaṃ patitaṃ / ekena (ā)krāntaṃ dvitīyena ākrāntaṃ  
-tatraiva sarvvaṃ bhūmīye anupraviṣṭo bhavati / aparejjukāto bhikṣū  
-kalyato yeva nivāsiya prāvariya cīvarakāṇi mārggati so mārgganto na  
-paśyati / tasya cīvarakasya koṇakaṃ nāpi kṣamati / tahiṃ  
-cīvarakoṇa(39a5)ke gṛhniya dranti acchituṃ / mā cīvarakoṇako bhavatu /  
-mā cīvarako ti / atha khalu tato koṇakāto prabhṛti sukhākaṃ  
-mocayitavyaṃ / cīvarakaṃ dhoviya vihārakoṇako (tha)payitavyo taṃ  
-cīvarakaṃ yaṃ kālaṃ śuṣkaṃ bhavati tato paribhuñjayitavyaṃ / atha dāni  
-bhikṣuḥ / upādhyāyasya vā ācāryasya vā cīvarāṇi upari sthāpayita(39a6;  
-J.177)vyāni / atha dāni so uppaṃsulako vihārako bhavati / nāpi kṣamati  
-upādhyāyasya vā ācāryasya vā cīvarakāni upari sthāpayituṃ, / ātmano  
-cīvarakāni heṣṭhe sthapayitu(ṃ) / atha khalu upādhyāyasya vā ācāryasya  
-vā heṣṭhe sthapayitavyāni / ātmano cīvarāṇi upari sthāpayitavyāni / nāpi  
-kṣamati grīṣmakā bhavati rajo vātarajo vā ukkani(39a7)kā cīvaraṃ  
-vināśeti nedāni upādhyāyācāryāṇāṃ cīvarakehi ātmano cīvarā  
-veḍhayitavyā / atha khalu ātmano cīvarehi upādhyāyācāryāṇāṃ cīvarā  
-veḍhitavyā / na dāni kṣamati / vihāro adhyupekṣituṃ / (II.p.35) uppaṃsulo  
-vā acaukṣo vā / atha khalu kālena kālaṃ siñcitvā sanmārjitavyaṃ /  
-gomayakārṣī dātavyā / vaṃghorikā dātavyā / na kṣa(39b1)mati /  
-cīvareṇāprasannaṃ gṛhnituṃ / kheṭakaṭāham vā uccārakaṭāhakam vā  
-prasrāvakumbhakaṃ vā saṃkāraṃ vā ujjhituṃ / upānahā gṛhnituṃ /  
-gomayāni vā uccinituṃ / na kṣamati / cīvaraṃ adhyupekṣituṃ / cikkanaṃ vā  
-apratisaṃskṛtaṃ vā omayilamayilam vā pāṭitavipāṭitam vā / atha khalu  
-kālena kālaṃ dhovitavyaṃ / raṃjitavyaṃ / sīvitavyaṃ / yathā cchavi evaṃ  
-cīvare pratipadyi(39b2)tavyaṃ / na pratipadyati // ābhisamācārikān  
-dharmmān atikrāmati // * //  
-  
-     (J.178) uddānaṃ //  
-              evam araṇye pratipadyitavyaṃ /  
-              evaṃ grāmāntike pratipadyitavyaṃ /  
-              evaṃ jā(pā)nīye pratipadyitavyaṃ /  
-              evaṃ paridhovaniye pratipadyitavyaṃ /  
-              evaṃ pādā dhovitavyā /  
-              evaṃ pādadhovanike pratipadyitavyaṃ /  
-              evaṃ snāne pratipadyitavyaṃ /  
-              evaṃ jentāke pratipadyitavyaṃ /  
-              evaṃ bhaṇḍe pratipadyitavyaṃ /  
-              evaṃ cīva(39b3)re pratipadyitavyaṃ // * //  
-     // pañcamo varggaḥ // * //  
-  
-     (Yoshiyasu YOṇEZāWā / ḥidetoshi YOśḥīZāWā)  
-  
-  
-(II.p.36)   
-     VI. 1       Ms.39b3       (J.179.1);       Ch.511b16   
-     bhagavān śrāvastyāṃ viharati / te dāni āyuṣmanto ṣaḍvarggikā kalyata  
-eva vihāracaraṇakāni nivāsanāni nikṣipiyāṇaṃ nagnaprāvṛtā  
-grāmapraveśanikāni nivasanāni mārgganti / gocarāto nirddhāvitā  
-grāmapraveśanikāni nivāsanāni nikṣipiyāṇaṃ nagnaprāvṛtā  
-vihāracaraṇakāni nivāsa(39b4)kā(nā)ni mārgganti / ete(taṃ) prakaraṇaṃ  
-bhikṣūhi śrutaṃ bhikṣū bhagavato ārocayeṃsu / bhagavān āha /  
-śabdāpayatha ṣaḍvarggikāṃ te dāni śabdāpitāḥ / bhagavān āha / satyaṃ  
-bhikṣavo ṣaḍvarggikāḥ / evaṃ nāma yūyaṃ kalyata eva utthiya  
-vihāracaraṇakāni cīvarakāni nikṣipitvā nagnaprāvṛtāḥ /  
-grāmapraveśanikā(ni) nivasanāni mārggatha gocarāto (39b5)  
-nirddhāvitāḥ / grāmapraveśanikāni nivāsanāni nikṣipitvā  
-nagnaprāvṛtāḥ / vihāracara(ṇa)kāni nirvāsanāni mārggatha / āhaṃsu  
-āma / bhagavan   
-     bhagavān āha / tena hi evaṃ nivāsitavyaṃ / kin ti dāni evaṃ  
-nivāsayitavyaṃ / bhikṣuṇā tāva kalyata evotthitvā gocaraṃ (J.180)  
-praviśaṃtena na kṣamati / grāmapraveśanikaṃ nivāsanaṃ anupahastaṃ  
-kṛ(39b6)tvā vihāracaraṇakaṃ nivasanaṃ nikṣipituṃ / atha khalu prakṛtyeva  
-tāva grāmapraveśanakaṃ upahastaṃ karttavyaṃ / tato grāmapraveśanaṃ ca  
-nivāsanaṃ āvellayitavyaṃ vihāracaraṇakaṃ nivāsanaṃ uccetalayitavyaṃ /  
-kāyabandhanaṃ bandhayitvā cīvaravāṇi pravāritvā gocaraṃ praviśitavyaṃ /  
-gocarāto nirddhāvitena nāpi kṣamati (II.p.37) vihāracaraṇaṃ nivāsanaṃ /  
-anupaha(39b7)staṃ kariyāṇaṃ grāmapraveśanakaṃ nivāsanaṃ nikṣipituṃ /  
-atha khalu prakṛtyeva tāva vihāracaraṇakaṃ nivasanaṃ upahastaṃ  
-karttavyaṃ / tato vihāracaraṇakaṃ nivāsanaṃ āvellayitavyaṃ /  
-grāmapraveśanakaṃ ca nivāsanaṃ uccelayitavyaṃ / te bhikṣū uddhārakaṃ  
-karttukāmā bhavanti / upalepanaṃ vā saṃmārjanaṃ vā bhavati /  
-snānaśāṭakaṃ vā leṅkaṭakhaṇḍakam vā nivāsi(40a1)ya snātukāmo  
-bhavati / nāpi kṣamati nivāsanaṃ nikṣipitvā snānaśāṭakaṃ vā  
-leṅkaṭakhaṇḍakaṃ nivāsayituṃ / atha khalu nivāsanaṃ uccellayitu(tavya)ṃ /  
-snānaśāṭikā vā leṅkaṭakhaṇḍakaṃ āveḍhayitavyaṃ nivāsanaṃ  
-uccellayitavyaṃ nāpi kṣamati snānena samānena nivāsanaṃ nivāsayitvā  
-kāmabhoginā yathā uparimeṇa nivāsanasya snānaśāṭikāṃ utkṣipituṃ  
-nāpi kṣamati / he(40a2)ṣṭhena snānaśāṭikām vā leṅkaṭakhaṇḍakam vā  
-osārayituṃ / calanakaṃ yathā / atha khalu nivāsanaṃ (J.181) occellayitavyaṃ /  
-snānaśāṭakaṃ vā leṅkaṭakhaṇḍakaṃ vā uccellayitavyaṃ / eṣo bhikṣu  
-vikāle pratikramati / nāpi kṣamati nivāsanaṃ nikṣipitvā nagnaprāvṛtena  
-rātrīprāvaraṇa nivāsinaṃ mārggituṃ / atha khalu pratikṛtyeva tāva  
-rātrīprāvaraṇakaṃ nivāsanaṃ upa(40a3)hastīkarttavyaṃ / tato nivāsanaṃ  
-uccellayitavyaṃ / rātriprāvaraṇaṃ nivāsanaṃ ca āvellayitavyaṃ / evaṃ  
-nivāsane pratipadyitavyaṃ / na pratipadyati // ābhisamācārikān dharmmān  
-atikrāmati // * //  
-  
-     VI. 2       Ms.40a3       (J.181.7);       Ch. 511b27  
-     bhagavān śrāvastyām viharati / te dāni āyuṣmanto ṣaḍvarggikā gocarāye  
-prasthitā vihāracaraṇakāni cīvarakā(ni) (II.p.38) nikṣipiya  
-eka(40a4)nivasanā grāmapraveśanikāni cīvarakāni mārgganti / gocarāto  
-nirddhāvitā grāmapraveśanakāni cīvarāṇi nikṣipitvā ekanivāsanakā  
-vihāracaraṇakāni cīvarakāni mārgganti / etaṃ prakaraṇaṃ bhikṣūhi  
-śrutaṃ / bhikṣū bhagavato ārocayeṃsu / bhagavān āha / śabdāpayatha  
-ṣaḍvarggikān / te dāni śabdāpitāḥ (40a5) bhagavān āha / satyaṃ bhikṣavo  
-ṣaḍvarggikāḥ / evan nāma yūyaṃ kalyato yeva gocarāya prasthitā /  
-vihāracaraṇakāni cīvarāṇi nikṣipiya ekanivasanā grāmapraveśanakāni  
-cīvarāṇi mārggatha / gocarāto nirddhāvitā / grāmapraveśanikāni  
-cīvarāṇi nikṣipitvā ekanivasanakā vihāracīvarakāni mārggatha / āhaṃsu  
-ā(40a6)ma bhagavan   
-     (J.182) bhagavān āha / tena hi evaṃ prāvaritavyaṃ / kin ti dāni evaṃ  
-prāvaritavyaṃ / eṣo dāni bhikṣuḥ / kalyato yeva gocarāye prasthito bhavati /  
-nāpi kṣamati vihāracaraṇakāni cīvarakāṇi nikṣipiya ekanivasanakena  
-grāmapraveśanikāni cīvarāṇi mārggituṃ / atha khalu pratikṛtyeva tāva  
-grāmapraveśanakaṃ cīvaraṃ upahastaṃ karttavyaṃ prāvarantena  
-grāmaṃ(40a7)praveśanakaṃ cīvaraṃ āccellayitavyaṃ vihāracaraṇakaṃ  
-cīvaraṃ uccellayitavyaṃ / gocarāto nirggatena nāpi kṣamati /  
-grāmapraveśanakaṃ cīvaraṃ nikṣipitvā ekanivasanakena vihāracaraṇakaṃ  
-cīvaraṃ mārggita(tu)ṃ / atha khalu prakṛte(tye)va tāva vihāracaraṇakaṃ  
-cīvaraṃ upahastīkarttavyaṃ / prāvaramāṇena vihāracaraṇakaṃ cīvarakaṃ  
-āccellayitavyaṃ / grāmaprave(40b1)śanakaṃ cīvaraṃ uccellayitavyaṃ / evaṃ  
-ārāmacaraṇakaṃ vā āccellayitavyaṃ / vihāracaraṇakaṃ vā (II.p.39)  
-uccellayitavyaṃ / prasphoṭayitvā sāharitvā ekānte sthapayitavyaṃ / etan  
-dāni saṃghasya uṭṭhānakāni bhavanti / cchādanikā vā lepanikā vā  
-sammārjanako vā bhikṣu cīvarakāṇāṃ dayārthaṃ / anyaṃ  
-leṅkaṭakhaṇḍaṃ prāvaritukāmo bhavati nāpi kṣamati / cīvarakaṃ  
-nikṣipiyāṇaṃ ekanivasana(40b2)kena leṅkaṭakhaṇḍaṃ mārggituṃ / atha  
-khalu prakṛtyeva tāva upahastīkarttavyaṃ ekaṃ ca āvellayitavyaṃ dvitīyaṃ  
-uccellayitavyaṃ / evaṃ prāvaritavyaṃ / na pratipadyati / ābhisamācārikān  
-dharmmān atikrāmati // * //  
-  
-     VI. 3       Ms.40b2       (J.183.1);       Ch. 511c7  
-     (J.183) bhagavān śrāvastyām viharati / te dāni āyuṣmanto  
-nandanopanandanā gocaraṃ praviśantā cīvaraṃ kaṃḍhaṃtā praviśanti /  
-kaṇṭakaśākhāhi lagnaṃ bhavati / dranti acchanti / jhāḍe vā  
-vṛ(40b3)kṣaśākhāyām vā lagnaṃ dranti kaḍhanti / naiva dhūliṃ  
-pariharanti / na kardamaṃ pariharanti / saṃbādharathyāhi  
-sudhāpāṇḍulepanā bhinti(tti)yo ghasantā gacchanti tān api dāni  
-cīvarakāni / omaïlamaïlāṇi pāṭitavipāṭitāni kriyanti teṣān dāni  
-sārddhevihārikā ca antevāsikā ca odhyāyanti / vayaṃ yeca(va) tāva  
-cīvarakāni dhoventā siventā raṃjentā talavilayaṃ gacchāmaḥ (40b4) ime pi  
-na jānanti / katham antaraghare praviśantehi cīvarehi pratipadyitavyaṃ /  
-etaṃ prakaraṇaṃ bhikṣūhi śrutaṃ, / bhikṣū bhagavato ārocayeṃsu /  
-bhagavān āha / śabdāpayatha nandanopanandanāḥ(ṃ,) / te dāni  
-śabdāpitāḥ / bhagavān āha / satyaṃ bhikṣavo nandanopanandanā (II.p.40)  
-evaṃ nāma yūyaṃ antaraṃ gharaṃ praviśantā cīvarakāni kaḍḍhantā /  
-gacchatha ta(40b5)d eva sarvvaṃ bhagavān vistareṇa pratyārocayati /  
-yuṣmākaṃ sarvve(sārddhe)vihārikā antevāsikā odhyāyanti // vayaṃ yeva  
-tāva cīvarakāni dhovaṃtā sīvantā rañjentā talavilayaṃ (J.184) gacchāmaḥ /  
-ime pi na jānanti / kathaṃ antaragharaṃ praviśantehi cīvarake  
-pratipadyitavyaṃ / āhaṃsu / āma bhagavan   
-     bhagavān āha / tena hi evaṃ antaragharaṃ praviśa(40b6)ntena cīvare  
-pratipadyitavyaṃ / kin ti dāni evaṃ antaragharaṃ praviśantena cīvare  
-pratipadyitavyaṃ / nāyaṃ tāva kṣamati bhikṣuṇā antaragharaṃ praviśantena  
-cīvaraṃ kaḍḍhantena praviśituṃ yahiṃ lagnaṃ tahi lagnaṃ yahiṃ pāṭitaṃ  
-tahiṃ pāṭitaṃ / atha khalu yadi tāva grīṣmakālo bhavati / dūre ca grāmo  
-bhavati / sīrṣe vā skandhe vā cīvaraṃ kṛtvā gantavyaṃ / yadā  
-grāmamūlaga(40b7)to bhavati / yadi tahiṃ ogho vā taḍāgam vā bhavati  
-puṣkiriṇī vā tahiṃ pādāṃ prakṣālitvā cīvaraṃ prāvaritvā gaṇṭhipārśvaṃ  
-ābandhitvā praviśitavyaṃ / atha dāni udakaṃ na bhavati / patraśākhāya vā  
-tṛṇakehi vā pādā jaṃghā prasphoṭitvā prāvaritvā praveṣṭavyaṃ / atha  
-dāni hemanto bhavati / prāvaritvā gantavyaṃ / parimaṇḍalaṃ cīvaraṃ  
-prāvaritvā antaragharaṃ praviśita(41a1)vyaṃ / parivarjitvā / bhrānto vā  
-aśvo bhrānto vā hasti bhrānto vā ratho-aśva vaṭavā cā(vā) ohara  
-pāra(parā)yuktaṃ kaṇṭakaśākhā parivarjantena sudhāpāṇḍula(le)panāyo  
-parivarjantena praviśitavyaṃ / atha dāni bhikṣusya (II.p.41) yatnaṃ  
-karentasya cīvaraṃ dhūlīye pūritaṃ bhavati / prasphoṭayitavyaṃ /  
-karddamena vā vināśitavyaṃ bhavati / dhovitavyaṃ / kaṇṭakaśākhāyāṃ vā  
-lagnaṃ bhavati / (J.185) na dāni mā cīva(41a2)raṃ mā kaṇṭakaśākhā  
-nti(tti) / udranti acchitavyaṃ / atha khalu stokastokaṃ mocayitavyaṃ /  
-suvā(dhā)pāṇḍulepanā bhittī bhavati varjayitavyā / atha dāni  
-śambāva(dha)rathyā bhavati / susaṃvṛtena paśyillakena atikrāmitavyaṃ /  
-evaṃ antaragharaṃ praviśantena cīvare pratipadyitavyaṃ / na pratipadyati //  
-ābhisamācārikān dharmmān atikrāmati //* //  
-     VI. 4       Ms.41a2       (J.185.6);       Ch. 512a1  
-     bhagavān śrāvastyām viharati vistareṇa ni(41a3)dānaṃ kṛtvā te dāni  
-āyuṣmanto nandanopanandanā antaragharaṃ praviṣṭā samānā mañcā  
-caryāṇaṃ ca mā(sā)pāśrayā ca dārakadārikehi pādehi  
-mardditaparimardditā / dhūlīya karddamena makṣitaparimakṣitā tehi  
-prajñaptehi upaviṃśa(śaṃ)ti / cīvarāṇi vināśayanti / sudhāpāṇḍulepanāyo  
-bhittīyo ghasaṃtā upaviṃśa(śaṃ)ti teṣāṃ sarvve(sārddhe)vihāri(41a4)kā  
-antevāsikā odhyāyanti / (J.186) vayaṃ yeva tāva cīvarāṇi dhoventā sīventā  
-rañjentā talavilayaṃ gacchāmaḥ / ime pi na jānanti kathaṃ antaragharaṃ  
-praviṣṭehi cīvarehi pratipadyitavyaṃ / eva(ta)ṃ prakaraṇaṃ bhikṣūhi śrutaṃ  
-bhikṣū bhagavato ārocayeṃsu / bhagavān āha / śabdāpayatha  
-nandanopanandanāṃ / te dāni śabdāpitā / bhagavān āha / sa(41a5)tyaṃ  
-bhikṣavo nandanopanandanā evaṃ nāma yūyaṃ antaragharaṃ praviṣṭā  
-samānā dārakadārikāhi mañcañ ca / pīṭhañ ca trepaśyakā ca pādehi  
-marditavimarditā / dhūlīye kardamehi vināśitakehi prajñaptehi (II.p.42)  
-niṣīdatha sudhāpāṇḍulepanāhi bhittīhi ghasaṃtā praviśatha cīvarāṇi  
-vināśayanti yuṣmākaṃ sārddhevihārikā antevāsikā odhyāya(41a6)nti /  
-paśyatha bhaṇe vayaṃ yeva cīvarakāni dhovantā sīvantā rañjentā  
-talavilayaṃ gacchāmaḥ / ime na jānanti / kathaṃ antaragharaṃ praviṣṭehi  
-cīvarehi pratipadyitavyaṃ / āhaṃsu / āma bhagavan   
-     bhagavān āha / tena hi-y-evaṃ antaragharaṃ praviṣṭehi cīvare  
-pratipadyitavyaṃ / kin ti dāni evaṃ antaragharaṃ praviṣṭehi cīvare  
-pratipadyitavyaṃ / eṣo dāni bhikṣuḥ / antaragha(41a7)raṃ praviṣṭo āsanena  
-nimantrīyati / āsanaṃ jānitavyaṃ / yadi tāva āsanaṃ bhavati dhūlīye vā  
-mrakṣitaṃ karddamena vā vināsitakaṃ / omaïlamaïlaṃ vā prajñaptakaṃ  
-bhavati / na kṣamati tahiṃ upaviśituṃ / yadi tāva bhikṣusya  
-visrambha(J.187)kulaṃ bhavati / vaktavyaṃ / bhaginīyo āsanaṃ prajñapetha  
-mā cīvarakāni vinaśiṣyan ti / yaṃ kālaṃ tahiṃ prajñaptaṃ bhavati / āmilā  
-vā astari(41b1)kā vā kocako vā kalantarako paṭa vā tato niṣīditavyā /  
-atha dāni aśrāddhakulaṃ bhavati / bhikṣusya vā avisrambhakulaṃ bhavati  
-tato ca stūpikaṃ vā sāṃghikaṃ vā kāryaṃ adhīnaṃ bhavati / nāpi kṣamati /  
-tathā yeva niṣīdituṃ / atha khalu leṅkaṭakhaṇḍena rajoharaṇakena vā /  
-prasphoṭiya kasaṃ(ṃsa)kalikāṃ prajñapiya upaviśitavyaṃ / atha dāni evaṃ pi  
-na bhavati / anta(41b2)masato hastenāpi prasphoṭiya āmarjiya  
-upaviśitavyaṃ / nāpi kṣamati / antaraghare praviṣṭena sudhāpāṇḍuṃlepanā  
-bhittīya (gha)sa(ṃ)tena atikramituṃ / na kṣamati / sāpāśrayaṃ vā  
-opāśrayam vā omayilomayilaṃ vā (II.p.43) paṇḍaraṃ vipāṇḍaraṃ  
-apāśrayituṃ / atha dāni bhikṣuḥ / jarādurbbalo vā vyādhidurbbalo vā  
-bhavati / vaktavyaṃ bhaginī prajñapehi kuḍḍasmiṃ yahiṃ  
-apāśra(41b3)yitavyaṃ / yaṃ kālaṃ tahiṃ biṃbohanaṃ vā amilā vā astarikā  
-vā kocako vā śāṭako vā prajñapto bhavati / tato apāśrayitavyaṃ / atha  
-dāni aśrāddhakulaṃ bhavati / na vā bhikṣusya viśrambhakulaṃ bhavati /  
-antamasato saṃkacchikā pi skandhe datvā apāśrayitavyaṃ / na kṣamati /  
-(J.188) antaragharaṃ praviṣṭena cīvarakena pratīcchituṃ / sarppikhajjakaṃ  
-(41b4) vā tailakhajjakaṃ vā ukkhinakā vā taṇḍulā praticchituṃ /  
-klinnakāni vā puṣpāṇi praticchituṃ / kṣudrapākāni vā phalāni  
-praticchituṃ / vikṣuṇṇam vā pātraṃ gṛhnituṃ / cikkannā vā hastān  
-nirmādituṃ / mālyam vā klinnakaṃ cikkanā vā oṣṭhāni nirmādayituṃ /  
-labhyā dāni cīvarāntarikāya khakkhaṭāni phalāni gṛhnituṃ / badarāṇi vā  
-kolakāni vā āmalakā(41b5)ni vā hārītakī vā taṇḍulāni vā anokṣīṇakā  
-vā mālyam vā āklinnakaṃ śimbaṭīyo vā atha dāni bhikṣusya yatnaṃ  
-karentasya cīvaraka karddamena vā nāsitaṃ bhavati dhovitavyaṃ / dhūlīye  
-vā otaritaṃ bhavati / prasphoṭayitavyaṃ / pāṭitaṃ vā vipāṭitaṃ bhavati  
-sīvitavyaṃ / evaṃ antaraghare praviṣṭena cīvare pratipadyitavyaṃ / na  
-pratipadyati // ābhi(41b6)samācārikān dharmmān atikrāmati //*//  
-  
-     VI. 5-6       Ms.41b6       (J.188.13);       Ch. 512a2  
-     bhagavān śrāvastyām viharati / āyuṣmato nandanasya upanandano nāma  
-bhrātā so dāni tasya sārvve(rddhe)vihārikasyāha (II.p.44) / ehi āyuṣmaṃ  
-grāmaṃ praviśyāmaḥ / ahaṃ ca tatra kiñcid eva akalpīyaṃ  
-adhyācariṣyāmi / (J.189) mā kasyaci ācikṣesi / ahaṃ khalu te pitṝyako  
-bhavāmi / so dāni āha / pi(tṝ)yako bhavāhi / mātulako bhavāhi / (41b7)  
-yadi tvaṃ tatra kiṃci akalpiyaṃ / adhyācariṣyasi / ācakṣiṣyāmi / ahaṃ so  
-dān āha / ācikṣiṣyasi āha / ācikṣiṣyaṃ / so dāni āha / āgacchāhaṃ tava  
-śeṣayiṣyaṃ / te dāni mahāntāni kulāny upasaṃkramanti nimantrīyanti /  
-ārya bhaktakṛtyaṃ karetha purebhaktikaṃ karetha khajjakaṃ khādatha  
-vanaphalaṃ bhakṣatha / yathā pratibhānakaṃ karetha so dāni na kahiṃci  
-adhivāsayati / (42a1) paśyati mā imasya dātavyaṃ bhaviṣyatīti yaṃ kālaṃ  
-paśyati naiva eṣo pratibalo piṇḍāya aṇṭhituṃ / na ca pratibalo jetavanaṃ  
-saṃbhāvayituṃ ti / tato āha / āyuṣmana gaccha tvaṃ na me tvayā  
-sārvva(rddha)ṃ phāsu bhavati kathāya vā niṣadyāya vā ekasyaiva mama  
-phāsu bhavati / so dāni śuṣkena mukhena (J.190) pāṇḍarehi oṣṭhehi  
-tvaritatvaritaṃ nirddhāvati / kālaṃ nidhyāyamāno so (42a2) dāni tato yeva  
-anuparivarttiya mahātmehi kulehi ipsitānnāti(ni) bhuktā tasyaiva anupadam  
-eva nirddhāvito ye dāni bhikṣū jetavanasyārāmadvārakoṣṭhakasamīpe  
-sthāna caṃkramasthānaniṣadyāyogam anuyuktā viharanti / te dāni taṃ  
-paśyanti / upaśuṣkena mukhena pāṇḍarehi oṣṭhehi tvaritatvaritaṃ  
-nirddhāvitaṃ kālaṃ nidhyāyantaṃ teṣāṃ bhavati / yathā ayaṃ /  
-u(42a3)paśuṣkena mukhena pāṇḍarehi oṣṭhehi tvaritatvaritaṃ nirddhāvati /  
-kālaṃ nidhyāyamāno bhavitavyam ayaṃ vipralabdho / te dāni taṃ  
-uccagghanti āyuṣman snigdho khalu te su(mu)khavarṇṇo pilipilāyanti /  
-oṣṭhā suṣṭhu khalu (II.p.45) nirddhāpīyati / yathāpi dāni  
-nagarakulopakena pitṝyakena sārddhaṃ praviṣṭasya ipsitānnāni bhojanāni  
-bhu(42a4)ktāvisyā so dāni āha / āyuṣman kuto me ipsitānnāni bhojanāni  
-bhuktāni evaṃ ca evaṃ cāsmi vipralabdho etaṃ prakaraṇaṃ bhikṣū  
-bhagavato ārocayeṃsu / bhagavān āha / śabdāpayatha upanandanaṃ so dāni  
-śabdāpito bhagavān āha / satyaṃ upanandana evaṃ nāma tvaṃ nandanasya  
-sārvve(rddhe)vihāriṃ jalpasi / ehi āyuṣman (42a5) grāmaṃ praviśiṣyāmaḥ /  
-ahaṃ ca tatra kiñci akalpiyaṃ adhyācariṣyāmi // mā khalu kasyaci  
-a(ā)cikṣiṣyasi / ahaṃ khalu te pitṛyako bhavāmi / tad eva (J.191) sarvvaṃ  
-bhagavān vistareṇa pratyārocayati / yāva so dāni āha / āyuṣman kuto me  
-ipsitānnāni bhojanāni bhuktāni evaṃ ca evaṃ cāsmi vipralabdho āha / āma  
-bhagavan /   
-     bhaga(42a6)vān āha / duṣkṛtaṃ te upanandana tena hi evaṃ pureśramaṇena  
-pratipadyitavyaṃ / evaṃ paścācchramaṇena pratipadyitavyaṃ / kin ti dāni  
-evaṃ pureśramaṇena pratipadyitavyaṃ / evaṃ paścācchramaṇena  
-pratipadyitavyaṃ / nāyaṃ tāva kṣamati / bhikṣuṇā paścācchramaṇo  
-praveśituṃ yo na pratibalo tasya ca ātmano ca vṛttiṃ saṃvibhajituṃ / atha  
-khalu yo pratibalo tasya ca (42a7) ātmano ca vṛttiṃ saṃvibhajituṃ / tena  
-paścācchramaṇo praveśayitavyo / eṣo dāni bhikṣu upādhyāyasya vā  
-ācāryasya vā paścācchramaṇo gacchati / nāpi kṣamati tena dūraṃ  
-pṛṣṭhato gantuṃ / nāpi kṣamati / khureṇa khuraṃ hanantena / atha khalu  
-nātyātidūraṃ nātyāsannaṃ gantavyaṃ / tenāpi dāni pureśramaṇena nāpi  
-kṣamati / ghāḍena yathā oḍḍitāye grī(42b1)vāye gantuṃ / atha khalu  
-yugamātraṃ nidhyāyantena gantavyaṃ / anekāye bhrānto vā hasti  
-āgaccheya bhrānto vā aśvo bhrānto vā ratho caṇḍo vā śvāno caṇḍo vā  
-goṇo (II.p.46) āgaccheya nti(tti) / yadi tāva dakṣiṇenāntenāgacchati /  
-vāmenāntena uccanti(tti)tavyaṃ / vāmenāntenāgacchati / dakṣiṇenāntena  
-uccattitavyaṃ / atha dāni duścakṣuko bhavati / jarādurbbalo vā  
-vyādhidurbbalo vā / (42b2) paścācchramaṇena vaktavyaṃ / upādhyāyo vā  
-ācāryo vā vāmahastikam vā dakṣiṇahastikaṃ vā uccatta nti(tti) / atha dāni  
-na paśyati hastena gṛhniyāṇaṃ ekato vā ekato vā uccattayitavyo / eṣo ca  
-dāni bhikṣusya sārddhevihārī vā ante(J.192)vāsī vā paścācchrava(ma)ṇaṃ  
-praveśenti / yadi tāva pratibalo bhavati tasya ātmano ca vṛttiṃ  
-saṃvibhajayituṃ / praveśayitavyo / atha dā(42b3)ni na pratibalo bhavati /  
-praveśito ca tena bhavati / paścācchramaṇo kālena kālaṃ visarjayitavyo /  
-tathā karttavyaṃ yathā pratibalo bhavati piṇḍapātam vā aṇṭhituṃ /  
-vihārakaṃ vā gantuṃ /  
-     atha dāni bhikṣuḥ śirāṃ vindā(ddhā)payitukāmo bhavati / bāhuśirāṃ  
-vāṅgulyaśirāṃ vā nilāṭiṃ vā yadi tāva pratibalo bhavati /  
-paścācchramaṇasya (42b4) ātmano ci(vi)ttaṃ saṃvibhajitu(ṃ) vaktavyaṃ / āsa  
-tvaṃ sahitakāṃ bhuṃjiya nirddhāviṣyāmaḥ / yaṃ kālaṃ śirāviddhā  
-bhavati / ubhayehi bhuñjiya nirddhāvitavyaṃ / atha dāni na pratibalo  
-bhavati / kālena kālaṃ visarjayitavyo / vaktavyaṃ suvihita gantavyaṃ /  
-āgamiṣyaṃ ahaṃ, / yena vā tena sārddhaṃ tenāpi dāni piṇḍacārikaṃ vā  
-aṇṭhiyāṇa vihāraṃ (42b5) vā gacchiya āhāraṃ kṛtvā / nāpi dāni kṣamati /  
-dinnā mama ānantikā ti / adarśanena priyaṃ karttuṃ, / atha khalu bhuktaṃ  
-na bhuktan ti / anyasya haste pātraṃ datvā tahiṃ gantavyaṃ / yadi tāva na  
-viddhā śirā (II.p.47) bhavati glānasya anu(J.193)kālyaṃ āhāraṃ datvā  
-sahitakehi nirddhāvitavyā / atha dāni dūragocaro saṃghārāmo bhavati  
-bhikṣusya ātmano (42b6) āhāraparyeṣṭiṃ paryetha(ṣa)māṇasya vikālo  
-bhavati / evaṃ pi kariya gantavyaṃ / yadi tāva so śirāviddho eva  
-nirddhāvati / ayaṃ praviṣṭo bhavati / rathyāntaraṃ vā paśyati / tato yyeva  
-nivarttayitavyaṃ / nagaradvāre paśyati nagaradvārato nivarttitavyaṃ / panthe  
-paśyati / panthāto nivarttitavyaṃ / yato eva paśyati / tato eva nivarttitavyaṃ /  
-atha dāni koci vandati vaktavyaṃ / (42b7) amuko vandati / atha dāni  
-nimantreti upalakṣitavyaṃ / paścācchramaṇena yato nirggato bhavati / tato  
-ārocayitavyaṃ / amukena upādhyāyo nimantrito amukena vā antaraghare  
-bhuṃjati / pureśramaṇo na pratibalo bhavati dakṣiṇām ādiśituṃ, / āhaṃsu /  
-ādiśa dakṣiṇāṃ na dāni paścācchramaṇena vaktavyaṃ / yathā yeva  
-agrāsanaṃ agrodakaṃ agrapiṇḍa(43a1)pātaṃ paribhuñjasi tathā yeva  
-dakṣiṇām ādiśāhi / atha khalu ādiśitavyaṃ paścācchramaṇena / evaṃ  
-pureśramaṇena pratipadyitavyaṃ / evaṃ paścācchramaṇena  
-pratipadyitavyaṃ / na pratipadyati // ābhisamācārikān dharmmān  
-atikrāmati // * //  
-  
-     VI. 7-8       Ms.43a1       (J.193.16);       Ch. 512a19  
-     bhagavān śrāvastyāṃ viharati / apareṇa dāni bhikṣuṇā bhikṣu adhyeṣṭā  
-āyuṣman icchāmi piṇḍapātaṃ nikkāliyamā(43a2)naṃ so dāni āha / ānehi  
-pātraṃ so dāni bhikṣu piṇḍapātasya kṛtena praviṣṭo ayaṃ pi deśakālaṃ  
-dantakāṣṭhaṃ gṛhītvā ārāmacārikāṃ caṃcūryati / (J.194) so dāni bhikṣu  
-piṇḍapātaṃ gṛhnitha / āgato / yāva paśyati so vihārakaṃ ghaṭṭitakaṃ, so  
-dāni muhūrttakaṃ āgamiyāṇaṃ yadā nāgacchati (II.p.48) vihārakasya  
-dvāramūle piṇḍapātakaṃ thapiya gato taṃ dāni ā(43a3)ha apareṇa  
-āgacchiyāṇaṃ utkṣiptaṃ so dāni bhikṣuḥ / vihāram āgatvā āgameti /  
-idānīṃ pi eṣyati muhūrttaṃ pi eṣyati yāva akālībhūtaṃ te dāni  
-ka(ga)tyāha(ya)ṃ kālasya ubhaye samāgatā so dāni tasya jalpati /  
-a(ā)yuṣman sādhu taṃ pātrakaṃ pi labhema / so dāni āha / āyuṣman kasya  
-pātraṃ kuto pātraṃ so dāni ā(43a4)ha / āyuṣman na tvaṃ māyā adhyeṣṭo  
-icchāmi piṇḍapātaṃ nikkāliyamānaṃ / so dāni āha / āyuṣman yadā so  
-mayā piṇḍapātako vihārasya purato nikṣipto / so dāni āha / āyuṣman  
-evaṃ ca tvaṃ śūnyake vihārake pātraṃ nikṣipiya gacchasi / so dāni āha /  
-āyuṣman etaṃ ca tvaṃ mama piṇḍapātanīhāra(43a5)kaṃ adhyeṣitvā  
-adarśanena priyaṃ karesi / te dāni vivaditā / bhagavato mūlaṃ gatāḥ /   
-     bhagavān āha / nāyaṃ tāva kṣamati nīhārikapiṇḍapātena  
-piṇḍapātanīhārakaṃ adhyeṣitvā adarśanena priyaṃ karttuṃ, / nāpi  
-kṣamati / piṇḍapātanīhārakena piṇḍapātam ānayitvā śūnyake vihārake  
-osariya gantuṃ / tena hi evaṃ (43a6) piṇḍapāte(ta)nīhārakena  
-pratipadyitavyaṃ / evaṃ nīhārapiṇḍapātakena pratipadyitavyaṃ / (J.195) etaṃ  
-dāni sarvvasaṃghasya antaraghare nimantraṇam bhavati / bhikṣu  
-jarādurbbalo vā vyādhidurbbalo vā bhavati / na pratibalo gantuṃ /  
-piṇḍapātanīhārako adhyeṣitavyo / vaktavyam āyuṣman icchāmi  
-piṇḍapātaṃ nikkāliyantaṃ ti vaktavyaṃ / āyuṣman mā kha(43a7)lu  
-adarśanaṃ gamiṣyasi / tena adhyeṣṭena samānena duve pātrāṇy ādāya  
-praviśitavyaṃ / yadi tāva hemantakālo bhavati / laghukālo atikramati /  
-dāyakadānapatī vaktavyāḥ / detha glānasya piṇḍapātaṃ / yadi tāva  
-dāyakadānapati jalpanti / bhante paṭipāṭikāya gṛhnatha vaktavyaṃ /  
-dīrghāyu bhagavatā / (II.p.49) anekaparyāyeṇa glāno pari(43b1)di(ndi)to  
-lahuṃ ca kālo atikrāmati / yadi tāva denti dve piṇḍapātakā gṛhnitavyā  
-ātmano ca tasya ca śiktaḍḍitakaṃ kṛtvā vihārakaṃ āgantavyaṃ // atha dāni  
-grīṣmo vā varṣārātro vā kālo bhavati cireṇa kālo atikramati /  
-paṭipāṭikāya gṛhnitavyaṃ / śiktaḍḍitakaṃ kṛtvā vihārakaṃ gantavyaṃ /  
-yadi tāvad yāvadarthaṃ bhaktaṃ dīyati / prakṛtyeva ātmano bhaktato tasya  
-pātraṃ pūretavyaṃ / (43b2) anubhāgo ātmano gṛhnitavyo / atha dāni so  
-dāni patitittiṇo bhavati / yattakaṃ dīyati tattakaṃ gṛhnitavyaṃ / na dāni  
-apratyagraṃ gṛhnitavyaṃ / ekānte yūya(ṣa)ṃ sākavyañjanaṃ vā gṛhnitavyaṃ /  
-nāpi dāni adhotakehi hastehi aprayatehi gṛhnitavyaṃ / atha khalu (J.196)  
-prakṣālitvā nirmmādayitvā gṛhnitavyaṃ / atha khalu prakṣālitvā  
-nirmmādayitvā gṛhnitavyaṃ /  yadi uppakkaṭo kālo bhava(43b3)ti / na dāni  
-tena bhuñjantena āsitavyaṃ / atha khalu ubhaye piṇḍapātā niharttavyā /  
-tena gacchantena kālo nidhyāpayitavyo yadi jānanti / śakyaṃ sakālena  
-saṃbhāvayituṃ / gantavyaṃ gacchitvā tasya upanāmetavyaṃ / atha paśyati  
-upakkhaṭo kālo antāntiko na śakyaṃ sakāle saṃbhāvayituṃ / mā dāni  
-ubhaye cchinnabhaktā bhaviṣyāma tena (43b4) paribhuñjitavyaṃ / nāpi  
-kṣamati nīhārapiṇḍapātenāpi adhyeṣṭo mayā piṇḍapātanīhārako ti  
-adarśanena priyaṃ, karttuṃ / atha khalu prakṛtyeva tāva dantakāṣṭhaṃ  
-khādayitavyaṃ / hastā nirmmādayitavyā / pānīyaṃ parisrāvayitavyaṃ /  
-kuṇḍikāṃ paripūriyāṇaṃ vihārasya prahāṇake dve āsanāni prajñapiya  
-(II.p.50) adhiṣṭhānāṃ pratigrāhāpiya āsitavyaṃ / yaṃ kālaṃ (43b5) āgato  
-bhavati upaviśiyāṇaṃ sahitakehi bhuṃjitavyaṃ / atha dāni so jalpati /  
-āyuṣman bhuṃja tvaṃ bhuktaṃ mayeti cchandayitavyo vaktavyo ūnakaṃ  
-pūrehi yaṃ te rucyati taṃ khādehi yadi tāva ākāṃkṣati / upaviśiyāṇaṃ yaṃ  
-rucyati taṃ khāditavyaṃ / atha dāni na kāṃkṣitavyaṃ / āyuṣman bhuṃja  
-tvaṃ nāhaṃ bhuṃjiṣyaṃ /  
-     atha dāni dūragocaro saṃghārāmo (43b6) bhavati / piṇḍapātanīhārako ca  
-cireṇa āgacchati kālo ca stokāvaśeṣo bhavati (J.197) nīhārakapiṇḍapātena  
-hastā nirmmādiyāṇaṃ pānīyasya kuṇḍikāṃ pūriyāṇaṃ panthe  
-pratyudgacchitavyaṃ / yatra yeva taṃ paśyati / tatra yeva panthāto  
-uccattiyāṇaṃ sahitakehi bhuñjitavyaṃ / atha dāni nīhārakapiṇḍapāto na  
-pratyudgacchati kālo ca atikramati piṇḍapātanīhārakena  
-tvaritatvarita(43b7)m āgantavyaṃ / atha dāni dūre saṃghārāmo bhavati  
-piṇḍapātanīhārakena yatraiva pānīyaṃ paśyati / tatraiva bhuṃjitavyaṃ /  
-mā dāni vayaṃ ubhayeva bhaktacchedaṃ kariṣyāma evaṃ  
-piṇḍapātahārakena pratipadyitavyaṃ / evaṃ nīhārapiṇḍapātena  
-pratipadyitavyaṃ / na pratipadyati // ābhisamācārikān dharmmān  
-atikrāmati // * //  
-  
-     VI.9       Ms.43b7       (J.197.9);       Ch. 512b1  
-     bhagavān śrāvastyāṃ viharati / te dāni bhikṣū piṇḍāya ca(44a1)ramāṇo  
-antaraghare yāva uṭṭhāṇāto nirghoṭenti / jano dāni odhyāyanti /  
-paśyatha bhaṇe śramaṇakāḥ / yāva uṭṭhāṇāto nirghoṭenti / naṣṭaṃ  
-bhraṣṭaṃ kuto imeṣāṃ śrāmaṇyaṃ etaṃ prakaraṇaṃ bhikṣū bhagavato  
-ārocayeṃsu /   
-     (II.p.51) bhagavān āha / samyag bhikṣavo jano odhyāyati / tena hi evaṃ  
-piṇḍāye caritavyaṃ / kin ti dāni evaṃ piṇḍāye caritavyaṃ / nāyaṃ tāva  
-kṣamati piṇḍacārikena yā(44a2)va uṭṭhānāto nirghoṭayituṃ / nāpi  
-adarśanapathe sthātuṃ, / atha khalu udeśe sthātavyaṃ /  
-darśanaśravaṇapathe nedāni vaktavyaṃ / piṇḍapātaṃ mahāpuṇye dehi /  
-atha khalu tūṣṇīkena uddeśe sthātavyaṃ / na dāni ito vā ito vā  
-nidhyāyantena āsitavyaṃ / mā paśyeṃsu / corā vā ocorakā (J.198)  
-bhavanti / atha khalu ṣaḍāyatanaṃ manasikarentena sthāta(44a3)vyaṃ /  
-cakṣur anityā yāva mano anityan ti sthātavyaṃ / eṣa strī dhānyaṃ ohananti  
-yadi tāva kaṇḍikāpūrakam ukkaḍḍhiya occarakaṃ praviśati jānitavyaṃ /  
-dāsyati eṣā ti / atha dāni parivarttiyāṇaṃ bhūyo nidhyāyati jānitavyaṃ / na  
-eṣā dāsyati gantavyaṃ / eṣā strī dhārāṃ vā pīṣayati / tilam vā / mudgam  
-vā kalāyām vā dalenti yadi (44a4) tāva śilāpūrakāṃ piṣiyāṇaṃ occarakaṃ  
-praviśati jānitavyaṃ / eṣā dāsyati / atha dāni parivarttiya nidhyāyati /  
-jānitavyaṃ / eṣā na dāsyatīti / eṣā strī karpāsaṃ kartteti yadi tāvantuka  
-nikṣipiyāṇaṃ uttheti / jānitavyaṃ / dāhiti eṣā nti(tti) / atha dāni bhūyo  
-prasārayati jānitavyaṃ / na dāhiti eṣā nti(tti) / eṣā strī upaviṣṭikā  
-ā(44a5)sati / bhikṣūna paśyiyāṇaṃ uttheti jānitavyaṃ / dāsyati eṣā nti(tti) /  
-atha dāni utthiyāṇaṃ bhūyo upaviśati jānitavyaṃ / na eṣā dāsyati / eṣā  
-strī bhikṣuṃ paśyiyāṇaṃ occarakaṃ praviśati jānitavyaṃ / dāsyati eṣā  
-nti(tti) / atha dāni riktā nirddhāvati / jānitavyaṃ / eṣā na dāsyati  
-gantavyaṃ / eṣā strī kāṃsabhājanaṃ mārjati bhikṣu paśyi(44a6)yāṇaṃ  
-(II.p.52) hastāṃ dhovati / jānitavyaṃ dāsyati eṣā tti / atha dāni ābharaṇāni  
-vā ucchāreti jānitavyaṃ / na eṣā dāsyatīti / mahātmanāṃ manuṣyāṇāṃ  
-gṛhā bhavanti / tahiṃ kuṇḍā ujjhitaprakīrṇṇā bhavanti / śāṭakā vā  
-paṭakā vā hārā vā arddhahārā vā hiraṇyaṃ vā suvarṇṇam vā na dāni  
-tahiṃ aśabdakarṇṇikāye nirggantavyaṃ / atha khalu prati(J.199)saṃviditena  
-nirggantavyaṃ / (44a7) evaṃ yaṃ yaṃ kārmmaṃ cchindiyāṇaṃ occarakaṃ  
-praviśati dātukāmā bhavati / na tena gantavyaṃ / evaṃ piṇḍāya caritavyaṃ /  
-na pratipadyati // ābhisamācārikān dharmmān atikrāmati // * //  
-  
-     VI.10       Ms.44a7      (J.199.4);       Ch. 512b26  
-     bhagavān śrāvastyām viharati vistareṇa nidānaṃ kṛtvā te dāni  
-niśrayakaraṇīyā piṇḍāya caranti / teṣāṃ upādhyāyācāryā snehaṃ  
-sthapenti / khajjakhaṇḍakāni thapenti / paśyanti yaṃ kālam ā(44b1)gatā  
-bhavanti / tato teṣāṃ saṃvibhajiṣyāmaḥ / te pi dāni bāhyena bāhyaṃ  
-pratikramanti / te dāni teṣāṃ upādhyāyācāryā odhyāyanti vayaṃ yyeva  
-tāva imeṣāṃ kṛtena snehaṃ thapemaḥ / khajjakakhaṇḍakāni sthapemaḥ /  
-jānāma vayaṃ yaṃ kālaṃ āgatā bhaviṣyanti / tato saṃvibhajiṣyāmaḥ / ime  
-pi bāhyena bāhyaṃ pratikramanti / etaṃ prakaraṇaṃ bhikṣūhi śrutaṃ  
-bhikṣū bhagavato ārocayeṃsu /   
-     bhaga(44b2)vān āha / tena hi evaṃ piṇḍacārikena pratipadyitavyaṃ / kin ti  
-dāni evaṃ piṇḍacārikena pratipadyitavyaṃ / eṣo dāni bhikṣu  
-niśrayakaraṇīyo bhavati / nāpi dāni kṣamati piṇḍāya cariyāṇaṃ bāhyena  
-bāhyaṃ pratikramituṃ, / nāpi upādhyāyācāryāṇāṃ vā bhuṃjantānāṃ  
-nedāni uṣṭhihitvā āsitavyaṃ / imehi śaknoma / piṇḍacārikehi mukhe  
-kavalaṃ prakṣipituṃ / atha khalu darśa(44b3)nopavicāre āsitavyaṃ / atha  
-(II.p.53) khalu piṇḍacāraṃ aṇṭhiyāṇaṃ upādhyāyasya vā ācāryasya vā  
-allīpayi(J.200)tavyaṃ / yadi tāva labdhaṃ bhavati upādhyāyena vā ācāryeṇa  
-vā saṃgraho karttavyo / śaktukā stokā bhavanti / śaktukā dātavyā / sneho  
-dātavyo / khajjakhaṇḍakāni saṃvibhāgo karttavyo / atha dāni  
-upādhyāyasya vā ācāryasya vā pi(44b4)ṇḍapātako bhavati / ayaṃ ca  
-piṇḍāya caritvā āgato bhavati / sahitakehi paribhuñjitavyaṃ / lūham ca  
-praṇītaṃ ca ekañ ca aparaṃ ca / atha dāni so praṇītabhojanasya mahārhasya  
-pūraṃ pātraṃ gṛhniyāṇaṃ āgacchati / āha / upādhyāyācārya paribhuṃjāhi  
-nti(tti) / suvihita kuto imaṃ ti pṛcchitavyo / yadi tāva āha /  
-upādhyāyācārya asukā(44b5)ye ceṭikāye dinnaṃ / asukāye caṇḍavidhavāye  
-dinnaṃ / asukena paṇḍakena dinnaṃ, / asukāye sthūlakumārīye dinnaṃ /  
-asukāye pāpabhikṣuṇīye dinnaṃ / asukāyo pāpaśrāmaṇerīye dinnaṃ /  
-vaktavyaṃ suvihita apratigrāhyo eṣo jano mā bhūyo eteṣāṃ tena  
-pratigṛhnīhasi / atha dāni āha / upādhyāyācārya / asu(44b6)kasya(kāye)  
-me vāṇijasya sārthavāhasya parikathā kṛtā / buddhavacanaṃ jalpitaṃ / tena  
-me eṣo prasannena āhārako dinno vaktavyaṃ suvihita karohi dhūmaṃ mā  
-ca punaḥ / āmiṣacakṣuḥ / atha dāni āha / (J.201) upādhyāyācārya  
-bhuñjāhi / yadi tāva paribhuñjitavyaṃ / atha dāni na kāṃkṣati vaktavyaṃ  
-suvihita paribhu(ṃ)jāhi tvaṃ nāhaṃ paribhuñjiṣyan ti / yaṃ kālaṃ  
-upādhyāyena vā ā(44b7)cāryeṇa vā anujñā dinnā bhavati / tato  
-paribhuñjitavyaṃ / yadi koci nimantreti / yadi arthiko bhavati  
-praticchitavyaṃ / atha dāni piṇḍacāraṃ aṇṭhitvā tato eva nadīkule vā  
-udupānakule vā puṣkiriṇīkule vā āhāraṃ kṛtvā pātraṃ nirmmādayitvā  
-āgacchati / anāpattiḥ / evaṃ piṇḍacārikena pratipadyitavyaṃ / na  
-pratipadyati (II.p.54) / ābhisamācārikān dharmmān atikrāma(45a1)ti // * //  
-  
-     uddānaṃ   
-              evaṃ nivāsitavyaṃ /  
-              evaṃ prāvaritavyaṃ /  
-              (evaṃ antaragaraṃ praviśantena cīvare pratipadyitavyaṃ)  
-              evaṃ antaraghare praviṣṭena cīvare pratipadyitavyaṃ /  
-              evaṃ pureśramaṇena pratipadyitavyaṃ /  
-              evaṃ paścācchramaṇena pratipadyitavyaṃ /(J.202)  
-              evaṃ piṇḍapātahārakena pratipadyitavyaṃ /  
-              evaṃ nīhārapiṇḍapātena pratipadyitavyaṃ /  
-              evaṃ piṇḍāya caritavyaṃ /  
-              evaṃ piṇḍacārikena pratipadyitavyaṃ //  
-  
-     ṣaṣṭho varggaḥ // * //  
-  
-     (Yasuo ṃāṭśūṇāṃī)  
-  
-  
-VII. 1       Ms.45a1       (J.203.1);       Ch.512c11  
-     (II.p.55) bhagavān śrāvatyāṃ vi(45a2)harati vistarena nidānaṃ kṛtvā te  
-dāni bhikṣū andhakāre prahāṇe upaviṃśa(śaṃ)ti / ukkhalantā  
-prakkhalantā etaṃ prakaraṇaṃ / yāva bhagavān āha / tena hi dīpo nāma  
-karttavyo / āyuṣmanto nandanopanandanā dīpavārikā te dāni prahāṇāto  
-utthitā capeṭikāye dīpaṃ nirvvāpenti / cīvarakoṇenāpi nirvvāpenti /  
-yogācārā bhikṣū gandhena vyāvahanti / eva(ta)ṃprakaraṇaṃ bhikṣū  
-bhagavato (45a3) ārocayeṃṣu /   
-     bhagavān āha / tena hi evaṃ dīpe pratipadyitavyaṃ / kin ti dāni evaṃ  
-pradīpe pratipadyitavyaṃ / eṣo dāni saṃghārāmo purimaṃ paścimaṃ  
-prahāṇaṃ pratijāgrīyati / dīpacā(vā)rikā uddiśitavyā / eko vā dvayo vā  
-yattakāvā abhisaṃbhuṇanti navakāntena vā paṭipāṭikāye vā yasya vā  
-prāpuṇati / tehi prakṛtyeva tāva dīpa(45a4)varttikāyo varttitavyāyo  
-dīpakoṭikāni sajjayitavyāni tailaṃ sajjayitavyaṃ / agni pratijāgṛtavyo /  
-tuṣeṇa vā karṣeṇa vā gomayapiṇḍikā vā paṭipaṭikāye sthapetavyā /  
-yathānupūrvveṇa gaccheya bhaktaśālāyāṃ vā paṭipāṭikāye sthapetavyā  
-(J.204) dīpavārikena dīpam ādīpentena prathamānam eva bhagavato  
-śarīraku(45a5)ṭikāyāṃ dīpo ādīpitavyo yadā cetiyaṃ vanditaṃ bhavati /  
-tato niṣkāsiya sthapetavyo mā ādīnavaṃ utpādayeṣyā yaṃ kālaṃ  
-prahāṇasya jarjaro āhato bhavati / yadi tāva so dvibhūmikā saṃghārāmo  
-bhavati / prathamaṃ tāva sopānamaggulīyedīpako jālayitavyo / catuhi  
-prāsādasya koṇe koṇe dīpako pra(45a6)jvālayitavyaḥ / varccakuṭīyaṃ  
-dīpako prajvālayitavyo / paścāt prahāṇaśālāyāṃ (II.p.56) dīpako  
-prajvālayitavyo / yaṃ kālaṃ bhikṣusaṃgho prahāṇe upaviṣṭo bhavati / tato  
-dīpavārikena dīpako vārayitavyo / mā tarhi koci pracalāyatīti / yadi tāva  
-koci pracalāyati acchaṭikaṃ kariya utthāpayitavyo vaktavyaṃ āyuṣmana tava  
-dīpo prāpuṇatīti / tena (45a7)sa cārayitavyoiminā upaviśitavyaṃ / atha  
-dāni bhikṣusya upādhyāyo vā ācāryo pracalāyati / na kṣamati / so  
-'dhyupekṣituṃ / atha khalu so pi acchaṭikāye upasthapetavyo vaktavyaṃ /  
-upādhyāyācārya tatra dīpo prāpuṇatīti / āsa tvaṃ ā(a)haṃ cārayiṣyan ti /  
-tena cārayitavyo / (J.205) atha dāni bhikṣu śrāddhako bhavati / āha /  
-suviditaāsa tvaṃ / ahaṃ,(45b1) cārayiṣyan ti / dātavyo / nāpi kṣamati / tena  
-upārambhaṇābhiprāyeṇa dīpo cārayituṃ / tehidīpacā(vā)riko(ke)hina  
-kṣamati / aghāto vā pravedayitum / atha khalu cittam utpādayitavyaṃ  
-vinīvaraṇaṃ nau karenti tti yaṃ kālaṃ prahāṇasya yathāsukhaṃ kṛtaṃ  
-bhavati / tato prahāṇaśālāto dīpako ukkaḍhitavyo / nāpi kṣamati /  
-capeṭikātha(ye) vā mukhavātena vā cīvarako(45b2)ṇena vā dīpaṃ  
-nirvvāpayanta(tu)ṃ / atha khalu tulikāye nisnehiya dīpavartti okaḍḍhiya  
-kulikātaile nirvvāpayitavyaṃ / atha dāni navakā bhikṣū prahāṇaśālāyāṃ  
-pratikramanti / na kṣamati prahāṇaśālāyāṃ dīpaṃ nirvvāpayitavyaṃ / atha  
-khalu bahi prāsādakoṇehi dīpakā nirvvāpayitavyā / sopānamaggulīyaṃ  
-prāsādakuṭīyaṃ dīpako nirvvāpayitavyo vibhavo (45b3) bhavati / (II.p.57)  
-sarvvarātriṃ varccakuṭīyañ ca prasrāvakuṭīyaṃ dīpako prajvālayitavyo /  
-atha dāni vibhavo na bhavati / yadā bhikṣū pratikrāntā bhavaṃti / tato  
-varccakuṭīyaṃ dīpo nirvvāpayitavyo / varccakuṭīyaṃ nirvvāpayitvā  
-racchādīpo (J.206) nirvvāpayitavyo racchāyāṃ nirvvāpayitvā sopānaśīrṣe  
-nirvvāpayitavyāḥ / sopānaśīrṣe nirvvā(45b4)payitvā prahāṇaro(śā)lāyāṃ  
-dīpo nirvvāpayitavyo / na dāni sahasākārasya apratisaṃviditvā  
-nirvvāpetavyā / atha khalu āyuṣmanto prajñapetha śayyāyo dīpaṃ  
-gopayiṣyan ti / tato hastena tāva ovārayitavyo / tato vaktavyaṃ / mā  
-āyuṣman eṣo nirvvāpayiṣya ti / na dāni kṣamati / mukhavātena vā  
-cīvarakoṇena vā capeṭi(45b5)kāya vā nirvvāpayituṃ / yadi dīpavartti /  
-dagdhikā bhavati / palikhāṭir vvā okaḍḍhitavyo nirvvāpito bhavati / agni  
-gopayitavyo / tuṣehi vā karṣehi vā buṣena vā buṣikāyavā / yaṃ kālaṃ  
-paścime yāme prahāṇasya jharjjharo āhato bhavati / tato dīpavārikehi  
-sopānamaggulīyaṃ tāva dīpo prajvālayitavyo / nāpi kṣamati  
-prahā(45b6)ṇaśālāyāṃ sahasā dīpakaṃ praveśayituṃ / mā navakā bhikṣu  
-sahasā viprakaṭa(m) utthihaṃsna(su) nti(tti) / atha khalu vaktavyaṃ /  
-āyuṣmantaṃ dīpo praveśīyatīti / dīpo praveśayati nti(tti) / yaṃ kālaṃ  
-prahāṇasya yathāsukhaṃ kṛtaṃ bhavati / prahāṇaśālāyān tāva prathamaṃ  
-dīpako nirvvāpayitavyo / atha dāni natāva nirbhāti na kṣamati  
-nirvvāpayituṃ / yaṃ kālaṃ vibhātaṃ bhavati (J.207) / ākā(45b7)śaṃ kṛtaṃ  
-bhavati / tato varccakuṭīye prasrāvakuṭīye ca dīpako (II.p.58)  
-nirvvāpayitavyo / tailaṃ śeṣaṃ bhavati / sāhariyāṇaṃ ghaṭikāyāṃ nā(vā)  
-bhājane vā sthāpayitavyaṃ / dīpakoṭikāyo ekasthāne sthāpayitavyā /  
-dīpavarttīyo niṣpeḍiyāṇaṃ ekaṃ hi koṇake sthāpetavyā / yo evaṃ  
-devaśikaṃ dīpo jvālayitavyo / evaṃ dīpe pratipadyitavyaṃ / na  
-pratipadyati // (46a1) ābhisamācārikān dharmmān atikrāmati // * //  
-  
-     VII.2       Ms.46a1       (J.207.7);       Ch.513a5  
-     bhagavān śrāvastyāṃ viharati / te dāni bhikṣuḥ prahāṇe pracalāyaṃti /  
-etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu / bhagavān āha / tena hi  
-yaṣṭī nāma cārayitavyā / yaṣṭīyaṃ tāva bhikṣuṇā kārāpayamāṇena  
-aṣṭahastāyāmena karttavyā / muṣṭimātrī sthūlatvena ubhayehiṃ antehi  
-lohakena bandhitavyā / navakāntena vā paṭipāṭikā(46a2)ya vā yasya vā  
-punaḥ prāpuṇati eṣā evārthotpattiḥ // * //   
-     bhagavān śrāvastyāṃ viharati / te dāni āyuṣmanto ṣaḍvarggikāḥ / yaṣṭī  
-cārentāyo yeca(va) bhikṣu pracalāyati / taṃ yeva kṣiprāye yaṣṭīye ure vā  
-āhanati pāde vā a(ā)hanati te dāni bhikṣu vihaṭhiyantā ārāvaṃ muñcati/  
-āyuṣmaṃ hato smi hato smīti / etaṃ prakaraṇaṃ bhikṣū bhagavato  
-ārocayeṃsu / (J.208) bhagavān āha (46a3) tena hi evaṃ yaṣṭīye  
-pratipadyitavyaṃ / kin ti dāni evaṃ yaṣṭīye pratipadyitavyaṃ / yaṣṭī  
-kārayantena karttavyaṃ / vaṃśasya vā nalasya vā naṃglasya vā rohiṣasya vā  
-daśa-aṣṭahastāṃ dīrghatvena ubhayato agre yottakhaṇḍehi veḍhayitavyā /  
-navakāntato cāretavyā yaṣṭi dāni cārentena na dāni oguṇṭhitaśīrṣeṇa vā  
-cāretavyā (II.p.59) ohita(46a4)hastena vā upānahārūḍhena vā yaṣṭi  
-cāretavyā / atha khalu ekāṃsīkṛtena cārayitavyā nāyaṃ tāva kṣamati  
-bhikṣuṇā yaṣṭiṃ cārentena kṣiprāye yaṣṭīye āhanituṃ / nāpi kṣamati  
-viheṭhanābhiprāyeṇa yaṣṭī cārayituṃ / atha khalu maitracittena  
-yaṣṭā(ṣṭī) cārayitavyā / vṛddhāntato navakāntaṃ / ete dāni bhikṣuḥ  
-pracalāyanti nāpi kṣamati a(46a5)dhyupekṣituṃ, / nāpi kṣamati kṣiprāye  
-yaṣṭīye āhanituṃ / rajag[v]asma viya / atha khalu pārśve sthitvā trikkhatto  
-purato yaṣṭi kārayitavyā / yadi na budhyati / acchaṭikā karttavyā / yadi  
-vāmena sthitako bhavati / dakṣiṇena jānukehi saṃghaṭṭetavyo / yadi  
-dakṣiṇato sthito bhavati / vāmajānukena tena cchanti(tti) /  
-pratyupasthitavyaṃ / ghaṭi(46a6)tavyā utthāpiyāṇaṃ vaktavyaṃ āyuṣman  
-tava yaṣṭi prāpuṇati / cārehi tena cāretavyaṃ / iminā upaviśitavyaṃ / na  
-dāni kśamati / oguṇṭhitaśīrṣeṇa vā // pe // yāva atha khalu (J.209)  
-ekāṃsīkṛtena cīvaraṃ kṛtvā gṛhnitavyaṃ / tena cāretavyaṃ / atha dāni bahu  
-pracālayanti / na dāni te sarvve valīvandā viya utthapetavyā / yo tatra  
-navakataro bhavati / tasya yaṣṭī dātavyā / (46a7) atha dāni bhikṣu  
-upādhyāyācāryā pracalāyanti na kṣamati adhyupekṣituṃ, / atha khalu  
-acchaṭikāye utthāpiyāṇaṃ vaktavyaṃ upādhyāyācārya tava yaṣṭī  
-prāpuṇati tena dharmmagauraveṇa pratyutthāya gṛhītavyaṃ na kṣamati  
-yaṣṭī tasya dātuṃ / atha khalu vaktavyaṃ / āsa tvaṃ / ahaṃ cārayiṣya  
-te(ti) / na yeva yaṣṭī cāretavyaṃ / na dāni tena otāraprekṣiṇā cāretavyā /  
-atha kha(46b1)lu ṣaḍāya(ta)na manasikarentena (II.p.60) cāretavyā yadi koci  
-pracālayati tasya dātavyā / te pi dāni tahiṃ na āghāto bandhitavyo / atha  
-khalu cintetavyaṃ / bahukaro eṣo asmākaṃ ci(vi)nīvaraṇaṃ karoti / tena  
-tāva cāretavyā / atha dāni śraddhako bhikṣur bhavati / āha / sagotrīmātā  
-āsa tvaṃ / ahaṃ cārayiṣyāmi / dātavyā evaṃ tāva cāretavyaṃ / yāva  
-prahāṇasya yathāsukhaṃ kṛ(46b2)taṃ bhavati nāpi kṣamati tehi bhikṣūhi  
-yaṣṭī cāre(J.210)ntehi cittaṃ pradūṣita(tu)ṃ / atha khalu cittam  
-utpādayitavyaṃ / vinivaraṇaṃ me karentīti / evaṃ yaṣṭīyaṃ  
-pratipadyitavyaṃ / na pratipadyati // ābhisamācārikān dharmmān  
-atikrāmati // * //   
-  
-     VII.3       Ms.46b2.       (J.210.4);       Ch.513a24  
-     bhagavān śrāvastyām viharati / vistareṇa nidānaṃ kṛtvā te dāni  
-bhikṣuṃ(kṣū)prahāṇasmiṃ yaṣṭiṃ cārayantāśītena kilammati / etaṃ  
-prakaraṇaṃ bhikṣū bhagava(46b3)to ārocayeṃsu / bhagavān āha / tena hi  
-geṇḍukaṃ nāma karttavyo / geṇḍukaṃ dāni bhikṣuṇā kārāpayamāṇena  
-kārāpayitavyo / tṛṇānām vā palālānām vā leṅka(ṭa)kakhaṇḍakānām vā  
-sūtrasya vā ulāya vā bāhyenapaṇena nattakena veṣṭayitvā sūtrakena  
-veṣṭayitavyo / nāpi kṣamati / khakkhaṭaṃ karttuṃ nāpi kṣamati /  
-ati[śithilaṃ /] atha khalu (46b4) tādṛśo karttavyo / yo bhūmīyaṃ āpiṭito  
-yugamātraṃ uppaṭatiso cārayitavyo / navakāntena vā paṭipāṭikāya vā  
-yasya vā puna prāpuṇati / eṣā evārthotpattiḥ // * //  
-     (J.211) bhagavān śrāvastyām viharati / te dāni āyuṣmanto ṣaḍvarggikāḥ /  
-geṇḍukaṃ cārayaṃtā iṣṭakhaṇḍaṃ leṅka(II.p.61)ṭakakhaṇḍena veṣṭayitvā  
-cārenti / yo yeva pracālayati / taṃ, (46b5) yevakṣipreṇa geṇḍukena urasi vā  
-tāṇḍeti / pārśvasmi vā āhananti / te dāni bhikṣū viheṭhayamānā ārāvaṃ  
-muñcanti / āyuṣmana hato smi hato smi / etaṃ prakaraṇaṃ bhikṣū  
-bhagavato ārocayeṃsu / nāpi kṣamati / āghātacittena vā duṣṭacittena vā  
-geṇḍukāṃ cārayituṃ, / atha khalu maitracittena hitacittena geṇḍuko  
-caritavyo / nāpi (46b6) kṣamati / geṇḍukaṃ cārayantasya cittaṃ  
-pradūṣayituṃ / atha khalu cittaṃ pragopayitavyaṃ / vinīvaraṇaṃ so karenti  
-tti / eṣo dāni bhikṣuḥ pracālayati / na kṣamati kṣipreṇa geṇḍukena  
-āhanituṃ / atha khalu bhūyo geṇḍukam āsthapayitvā acchaṭikāye  
-utthāpayitavyo / vaktavyaṃ āyuṣmān tava geṇḍukoprāpuṇati / utthehi  
-cārehi nti(tti) / imena cārayitavyo imena (J.212) upa(46b7)viśitavyaṃ / atha  
-dāni bhikṣusya / upādhyāyo vā ācāryo vā pracālayati / na kṣamati / so pi  
-adhyupekṣituṃ / atha khalu trayo vā vārā geṇḍukāṃ purato  
-abhāmayitvācchaṭikāye utthāpayitavyo / vaktavyaṃ upādhyāyācārya tava  
-geṇḍuko prāpuṇati / tenāpi dāni dharmmagauraveṇa pratyutthāya puṇoti /  
-niṣīditavyaṃ / na dāni tena otāraprekṣiṇā āsitavyaṃ / atha kha(47a1)lu  
-ṣaḍāyatanaṃ manasikarentena āsitavyaṃ / atha dāni āha / āśa tumaṃ ahaṃ  
-cārayiṣyan ti / tena yeca(va) cārayitavyo / atha dāni śrāddhako bhikṣur  
-bhavati / āha sagotrīmātā āsa tvaṃ ahaṃ cārayiṣyan ti / dātavyaṃ / evaṃ  
-tāva cārayitavyo / yāva (II.p.62) prahāṇasya yathāsukhaṃ kṛtaṃ bhavati / na  
-kṣamati so geṇḍuko adhyupekṣituṃ / pāṭitavipāṭitā / atha khalu kālena  
-kālaṃ siñcayitavyo / kā(47a2)lena [kālaṃ prakṣālitavyo / evaṃ geṇḍuke]  
-[pratipa]dyitavyaṃ / na pratipadyati / ābhisamācārikān dharmmān  
-atikrāmti // * //  
-  
-     VII.4       Ms.47a2       (J.212.14);       Ch. 513b17  
-     bhagavān śrāvastyām viharati vistareṇa nidānaṃ kṛtvā te dāni  
-āyuṣmanto ṣaḍvarggikāḥ prahāṇa āgatā samānā skandhāto niṣīdanaṃ /  
-(J.213) otāriyāṇaṃ koṇe koṇe gṛhītvā vaṭa-vaṭa nti(tti) / prasphoṭayitvā  
-prajñapayitvā niṣadanti / ya(ṃ) kālaṃ prahāṇasya yathā(47a3)sukhaṃ kṛtaṃ  
-[bhavati] / tato niṣīdanaṃ koṇe koṇe gṛhītvā vaḍa-vaḍā nti(tti) prasphoṭiya  
-sāharitvā skandhe kṛtvā gacchanti / yogācārāṃ bhikṣuṃ śabdena  
-vyāhara(vaha)nti / etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu /   
-     bhagavān āha / tena hi evaṃ niṣīdane pratipadyitavyaṃ / kin ti dāni evaṃ  
-niṣīdane pratipadyitavyaṃ / nāyaṃ tāva kṣamati / bhikṣuṇā prahāṇaṃ  
-(47a4) okastena niṣīdanaṃ [koṇe koṇe] gṛhītvā vaḍa-vaḍā nti(tti) /  
-prasphoṭayituṃ / atha khalu vihārake vā bāhyato vā niṣīdana  
-prasphoṭayāṇaṃ dviguṇaṃ kṛtvā prahāṇaṃ okasitavyaṃ / ātmano  
-pratisandhismi sukhākaṃ niṣīdanakaṃ pīṭhake prajñapayitavyaṃ / tathā  
-karttavyaṃ yathā ānantarikaṃ na vyāvahati / nāpi kṣamati yathāsukhe kṛte  
-utthiya niṣīdanaṃ (47a5) koṇe koṇe gṛhītvā caṭa-caṭa nti(tti)  
-praphoṭayituṃ / atha khalu sukhākaṃ utthitvā dviguṇīkṛtvā (II.p.63)  
-skandhe kṛtvā ca gantavyaṃ / atha dāni bhikṣuḥ paśyati dvitīye prahāṇe /  
-avītakaṃ bhaviṣyatīti / rātriñ ca śayyāsanaṃ (J.214) yathāprajñaptakaṃ  
-āsati nāpi kṣamati niṣīdanaṃ yathāprajñaptakaṃ kṛtvā gantuṃ / atha khalu  
-yathākhalu prajñaptakaṃ dviguṇīkṛtvā tato gantavyaṃ (47a6) dvitīyasya  
-prahāṇasya jarjare āgate otaritavyaṃ / nāpi kṣamati prahāṇaṃ okastena  
-niṣīdanaṃ koṇe koṇe gṛhītvā vaḍa-vaḍā nti(tti) / prasphoṭayituṃ / atha  
-khalu yathā sāhaṭasya niṣīdanasya dvitīyo anto udveliya prajñapayitavyo /  
-tato niṣīditavyaṃ / nāpi kṣamati / prahāṇasya yathāsukhe kṛte  
-niṣīdanakaṃ koṇe koṇe gṛhītvā vaḍa-vaḍā nti(tti) / prasphoṭayituṃ, / atha  
-(47a7) khalu saṃprajānaṃ sāharitvā skandhaṃ kṛtvā gantavyaṃ / nāpi  
-kṣamati / niṣīdanaṃ adhyupekṣituṃ / omayilomayilaṃ pāṭitavipāṭitaṃ /  
-atha khalu kālena kālaṃ dhovitavyaṃ / kālena kālaṃ siṃcitavyaṃ / evaṃ  
-niṣīdane pratipadyitavyaṃ / na pratipadyati // ābhisamācārikān dharmmān  
-atikrāmati // * //  
-  
-     VII.5       Ms.47a7       (J.214.12);       Ch. 513b8  
-     bhagavān śrāvastyāṃ viharati / te dāni āyuṣmanto ṣaḍvarggikāḥ /  
-prahāṇa o(ka)sta(47b1)kāḥ / samānā āsanehi upaviśiyāṇaṃ upānahā  
-nikkhāsiya eka pi ekena hastena pārṣṇikāvaddhrakasmi gṛhītvā dvitīyaṃ  
-(J.215) dvitīyena hastena pārṣṇikāvaddhrakaṃ gṛhītvā caṭa-caṭa nti(tti)  
-prasphoṭanti yogācārāṃ bhikṣūṃ śabdena vyāvahanti / etaṃ prakaraṇaṃ  
-bhikṣū bhagavato ārocayeṃsu /   
-     bhagavān āha / tena hi evaṃ upānahāye pratipadyitavyaṃ / kin ti dāni  
-evaṃ upānahāye pra(47b2)tipadyitavyaṃ / nāyaṃ (II.p.64) tāva kṣamati  
-bhikṣuṇā prahāṇa upaviṣṭena upānahā nikkhosiyaekam pi ekena hastena  
-pārṣṇivaddhrake gṛhniya dvitīyaṃ dvitīyena hastena pārṣṇivaddhrake  
-gṛhniya caṭa-caṭa nti(tti) prasphoṭayituṃ / atha khalu bhikṣuṇā  
-pratikṛtyeva tāva pādadhovanikāye upānahāyo pocchiya prahāṇasya jarjare  
-otaritavyaṃ / yadi tāva prahāṇaśālāyāṃ bhūmyastāro kṛtako bhavati /  
-(47b3) na kṣamati sopānahena pādena prahāṇaṃ upaviśituṃ / atha khalu  
-upānahikāyo dvāramūle nikkhāsiya praviśitvā vṛddhānte añjaliṃ kṛtvā  
-yathāvṛddhikāye upaviśitavyaṃ / atha dāni bhikṣu paśyati / anekāyo  
-upānahikāyo mūṣikena vā khajjeṃsu / bhikṣū vā jānanto vā ajānanto vā  
-gṛhītvā gaccheyanti kiṃ karttavyaṃ saṃpuṭikariyāṇaṃ vāmakena  
-ha(47b4)stena gṛhniya nikuṭitakena osārayitvā saṃprajānaṃ gṛhniyāṇaṃ  
-gantavyaṃ / pratisandhismi tathā yeva saṃpuṭikṛtikāyo āsanasya heṣṭhe  
-sthapitavyāyo sthapitvā prahāṇam upaviśitavyaṃ / yaṃ kālaṃ prahāṇasya  
-yathāsukhaṃ kṛ(taṃ) bhavati / bhikṣuṇā upasthapitvā upānahāyo tathā  
-yeva saṃpuṭīkṛtikāyo (J.216) gṛhītvā nikuṭitakena vāmābāhāṃ osāriya  
-saṃprajānaṃ nirddhā(47b5)vitavyaṃ / atha dāni akṛto bhūmi-astāro bhavati  
-sa-upānahena prahāṇaśālāṃ praviśitavyaṃ / vṛddhānte upānahāyo  
-pārṣṇivaddh(r)ake osāriya praṇāmaṃ karttavyaṃ / abhinikuṭitakena  
-prāñjalīkṛtena gantavyaṃ / yāvat pratisandhiniṣīdanaṃ prajñapayitvā  
-upānahāyo nikkhāsitvā paryaṃkena niṣīditavyaṃ / prahāṇasya yathāsukhe  
-kṛte āgamayitavyaṃ / bhikṣuṇā (47b6) yāva vṛddhatarakā nirddhāvitā  
-paścād utthayitvā upānahāyo ābandhiya gantavyaṃ / atha dāni (II.p.65)  
-vṛddhatarakā āsanti / bhikṣū ca āgantukāmo bhavati / upānahāyo  
-ābandhiya navakānte saṃprajānaṃ gantavyaṃ, / nāpi kṣamati saṃghamadhye  
-bhaktāgre taparpaṇāgre vā samīcīyaṃ vā sa-upānahena niṣīdituṃ / nāpi  
-kṣamati / upādhyāyasya vā ācāryasya vā agrato sa-upānahena niṣīdituṃ /  
-atha kha(47b7)lu upānahikāyo nikkhāsiyāṇaṃ praṇāmaṃ kṛtvā  
-upaviśitavyaṃ / atha dāni bhikṣu glāno bhavati kiñ cāpi sa-upānaho  
-upādhyāyasya vā ācāryasya vā mūle upaviśati / anāpattiḥ / nāpi kṣamati  
-bhikṣuṇā pādāṃ dhovantena upānahāyo vaḍa-vaḍa nti(tti) prasphoṭayituṃ /  
-atha dāni bhikṣuḥ / adhvānam āgato bhavati / upānahāyo ca pāṃsunā  
-opūritā bhavanti / nadīkūle vā puṣkiriṇīkūle vā (48a1; J.217) pādaṃ  
-dhoviya prasphoṭeti / anāpattiḥ / ta pi dāni na kṣamati / vṛddhatarakasya  
-vā anuvātaṃ prasphoṭayitavyaṃ / nāpi kṣamati upanahā adhyupekṣituṃ /  
-odriṇṇakā vā paluggakā vā / atha khalu kālena kālaṃ ghaṭayitavyaṃ /  
-kālena kālaṃ pratyagralakā dātavyāḥ / evaṃ upānahāye pratipadyitavyaṃ /  
-na pratipadyati // ābhisamācārikān dharmmān atikramati // * //   
-  
-     VII.6      Ms.48a1      (J. 217.6);       Ch. 513b25  
-     bhagavān śrāvastyāṃ viha(48a2)rati / te dāni āyuṣmanto ṣaḍvarggikāḥ  
-prahāṇaṃ upaviṣṭāḥ / auddhatyābhiprāyā muktehi pārśvehi / khala-khala  
-nti(tti) kāsanti / yogācārāṃ bhikṣuṃ śabdena vyāvahanti / etaṃ prakaraṇaṃ  
-bhikṣū bhagavato ārocayeṃsuḥ /   
-     (II.p.66) bhagavān āha / tena hi evaṃ kāsitavyaṃ / kin ti dāni evaṃ  
-kāsitavyaṃ / nāyaṃ kṣamati bhikṣuṇā prahāṇam upaviṣṭena  
-auddhatyābhiprāyeṇa muktehi pārśvehi khulu-khulu nti(tti) kāsituṃ, / atha  
-(48a3) dāni bhikṣusya kāso āgacchati / hastena grīvā parimarditavyā / atha  
-dāni na pāreti vinodayituṃ saṃprajānakaṃ kāsayitavyaṃ / atha dāni bhūyo  
-bhūyo kāśo (J.218) āgacchati / bāhirato nirddhāpiya kāsitavyaṃ /  
-prahāṇasya vā āmantriya gantavyaṃ / nāpi kṣamati bhaktāgre vā  
-tarpaṇāgre vā sāmāyikāye vā auddhatyābhiprāyeṇa muktehi pārśvehi /  
-kha-kha-kha (48a4) nti(tti) kāsituṃ / atha dāni bhikṣusya kāsikā āgacchati /  
-saṃprajānaṃ kāsitavyaṃ / atha dāni bhūyo bhūyo ukkāsikā āgacchati /  
-antariko vaktavyo / āyuṣman mama tāva piṇḍapātaṃ ukkaḍḍheti(si) /  
-tathā(to) gantavyaṃ / nāpi kṣamati dharmmaśravaṇikena upaviṣṭe  
-auddhatyābhiprāyeṇa muktehi pārśvehi kha nti(tti) kāśituṃ / atha dāni  
-bhikṣusya kāso āgato bhavati / (48a5) grīvā marditavyā / atha dāni na  
-pāreti vinodayituṃ, / saṃprajānaṃ kāsitavyaṃ / atha dāni puno puno  
-kāsāvīyati / dharmmaśravaṇasya āmantriya gantavyaṃ / nāpi kṣamati /  
-upādhyāyasya vā ācāryasya vā agrato vṛddhatarakānāṃ vā  
-auddhatyābhiprāyeṇa muktehi pārśvehi kha-kha-kha nti(tti) kāsituṃ / atha  
-dāni bhikṣusya ukkāsikā āgacchati / saṃprajānaṃ kāsitavyaṃ (48a6)  
-ekatamaṃte āgacchiya kāsitavyaṃ / evaṃ kāse pratipadyitavyaṃ / na  
-pratipadyati // ābhisamācārikān dharmmān atikramati // * //  
-  
-     VII.7      Ms.48a6      (J. 218.16);       Ch. 513c3  
-     bhagavān śrāvastyāṃ viharati / te dāni āyuṣmanto (II.p.67) ṣaḍvarggikāḥ  
-prahāṇaṃ upaviṣṭāḥ / auddhatyābhiprāyāḥ kulikāye nakkaṃ vijjhanti /  
-sūtrakaṃ pi vaṭṭiyāṇaṃ nakke prakṣipanti / te dāni sarvveṇa kaṇṭhena  
-hacchīyanti / te (J.219) dāni yogācārāṃ bhikṣūṃ śabdena vyāvahanti / etaṃ  
-praka(48a7)raṇaṃ bhikṣū bhagavato ārocayeṃsu /   
-     bhagavān āha / tena hi evaṃ kṣipitavyaṃ / kin ti dāni evaṃ  
-kṣa(kṣi)pitavyaṃ / nāyaṃ tāva kṣamati / bhikṣuṇā prahāṇaṃ upaviṣṭena  
-auddhatyābhiprāyeṇa tulikāya vā nakkaṃ vijjhituṃ / sūtraṃ vaṭṭiya  
-nakkasmin prakṣipituṃ, / nāpi kṣamati / sarvveṇa kaṇṭhena hā nti(tti)  
-kṣipituṃ // atha dāni bhikṣusya anābhogena kṣīvikā āgacchati  
-vinodayitavyaṃ / nirālaṃ parimarditavyaṃ / nakkā vā (48b1)  
-parimarditavyā / atha dāni na pāreti vinodayituṃ / saṃprajānaṃ  
-kṣīvayitavyaṃ / yathā anantarikasya na vyāvaheyyā / kheṭena vā  
-siṃghāṇakena vā / atha dāni puno puno kṣīvikā āgacchati prahāṇasya  
-āmantriya gantavyaṃ / nāyaṃ tāva kṣamati bhikṣuṇā bhaktāgre vā  
-tarpaṇāgre vā upaviṣṭena auddhatyā(bhi)prāyeṇa sarvveṇa kaṇṭhe(na)  
-kṣīvituṃ / atha dāni bhikṣusya kṣīvikā āgacchati / vinodayitavyā /  
-a(48b2)tha dāni na pāreti vinodayituṃ / saṃprajānaṃ kṣīvitavyaṃ / yathā  
-ānantarikasya na vyāvaheyyā / kheṭenā(na vā) siṃhāṇakena vā / atha  
-dāni bhikṣusya puno (J.220) puno kṣīvikā āgacchati / ānantarikasya  
-vaktavyaṃ / āyuṣmaṃ mama piṇḍapātam ukkaḍḍhesi tato gantavyaṃ / nāpi  
-kṣamati / dharmmaśravaṇe (II.p.68) sarvveṇa kaṇṭhena kṣīvituṃ, / atha  
-dāni bhikṣusya kṣīvikā āgacchati vinodayitavyaṃ / atha dāni (48b3) na  
-pāreti vinodayituṃ / saṃprajānaṃ kṣīvitavyaṃ / atha dāni bhikṣusya puno  
-puno kṣivikā āgacchati / dharmmaśravaṇasya āmantriya gantavyaṃ, / nāpi  
-kṣamati sāmāyikāyām vā / upādhyāyācāryāṇām vṛddhatarakānāṃ vā  
-agrato auddhatyābhiprāyeṇa sarvveṇa kaṇṭhena kṣīvituṃ / atha dāni  
-bhikṣusya kṣīvikā āgacchati vinodayitavyaṃ / atha dāni na pāreti  
-vi(48b4)nodayituṃ / ekamate gacchiya kṣīvitavyaṃ / yadi tāva koci kṣīvati /  
-na dāni vaktavyaṃ / jīva ti / atha khalu yadi vṛddhatarako bhavati /  
-vaktavyaṃ / vandāmi tti / atha dāni navako kṣīvati / āroceti vaktavyaṃ /  
-evaṃ kṣivitavyaṃ / na pratipadyati // ābhisamācārikān dharmmān  
-atikrāmati // * //  
-  
-     VII.8      Ms.48b4      (J. 220.13);       Ch. 513c20  
-     bhagavān śrāvastyām viharati / te dāni āyuṣmanto ṣaḍvarggikāḥ  
-prahāṇam u(48b5)paviṣṭāḥ samānā śarkarāyaṃ pi śa(ka)likāyaṃ pi aṅgaṃ  
-kharakaca-kharakaca ṃti(tti) ka[ṇḍū]yanti / yogācā(rā)n bhikṣūn śabdena  
-vyāvahanti / etaṃ prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu / (J. 221)  
-     bhagavān āha / tena hi evaṃ sa(ka)ṃdūṣitavyaṃ / kin ti dāni evaṃ  
-(kaṃ)dūṣitavyaṃ / na kṣamati bhikṣuṇā prahāṇa upaviṣṭena  
-auddhatyābhiprāyeṇa śarkarāye vā aṅgaṃ kharakaca-(II.p.69) kharakaca  
-nti(tti) kaṇḍūyituṃ / a(48b6)tha ca dāni bhikṣu prahāṇaṃ upaviṣṭako  
-khajjati / aṅguṣṭhodareṇa vā hastatalena vā sukhākaṃ / uccaṭṭayitavyaṃ /  
-atha dāni bhūyo bhūyo khajjati khajjanako bhavati prahāṇasyāmantriya  
-gantavyaṃ / nāpi kṣamati / bhikṣuṇā bhaktāgre vā / tarpaṇāgre vā  
-samāvāpi(yi)kānāṃ vā auddhatyābhiprāyeṇa saṃkalikāya vā śarkkarakāya  
-vā kharakaca-kharakaca nti(tti) kaṇḍūyituṃ / atha dāni bhikṣu bhaktāgre  
-vā tarpa(48b7)ṇāgre vā upaviṣṭako bhavati / koci [ṣo] pradeśo khajjati /  
-hastāvase kalpiyā bhavanti / kiñ cāpi bhikṣuḥ kulikāya vā kāṣṭhaga[te]na  
-vā sakalikāya vā kaṇḍūyati / anāpattiḥ / taṃ pi tathā dāni kaṇḍūyitavyaṃ /  
-yathā ānantaryakaṃ śabdena (na) vyāvahati / atha dāni bhikṣuḥ  
-sa(kha)jjanako bhavati / puno puno kaṇḍūyati / ānantarikasya pātraṃ  
-dātavyaṃ / āyuṣman mama piṇḍapātaṃ ukkaḍhesi / ta(49a1)to gantavyaṃ /  
-na kṣamati / upādhyāyācāryāṇāṃ vṛddhatarakāṇāṃ vā agrato  
-auddhatyābhiprāyeṇa aṅgaṃ kharakaca-kharakaca nti(tti) (J.222)  
-kaṇḍūyituṃ / nāpi kṣamati osariya indriyāṇi vuktanti kaṇḍūyituṃ / atha  
-dāni bhikṣusya koci pradeśo khajjati / aṅguṣṭhodā(da)reṇa vā hastatalena  
-vā parimardditavyaṃ / atha dāni (na) pāreti vinodayituṃ / punaḥ punaḥ  
-khanati / ekatamaṃte gacchiya kaṇḍūyitavyaṃ / evaṃ kaṇḍūye (49a2)  
-pratipadyitavyaṃ / na pratipadyati // ābhisamācārikān dharmmān  
-atikrāmati // * //   
-  
-     (II.p.70) VII.9      Ms.49a2      (J. 222.6);       Ch. 513c11  
-     bhagavān śrāvastyāṃ viharati / te dāni āyuṣmanto ṣaḍvarggikāḥ  
-prahāṇam upaviṣṭāḥ / auddhatyābhiprāyā jaṃbhayanti / aṅgāni  
-bhañjayanti / paṭa-paṭāva phoḍenti / amaḍaṃ maḍamaḍaṃ yathā sīhā vā  
-vyāghrā vā / evaṃ jaṃbhayanti / yogācārāṃ bhikṣūn śabdena vyāvahanti /  
-etaṃ prakaraṇaṃ bhikṣū bhagavato ā(49a3)rocayeṃsu /   
-     bhagavān āha / tena hi evaṃ jambhayitavyaṃ / kin ti dāni evaṃ  
-jambhayitavyaṃ / nāyaṃ tāva kṣamati bhikṣuṇā prahāṇam upaviṣṭena  
-auddhatyābhiprāyeṇa osaritvā indriyāṇi maṭamaṭa aṅgā(ni) bhañjantena  
-yathā sīhena vā vyāghreṇa vā unnadantena evaṃ bhañjayitavyaṃ / atha  
-dāni bhikṣusya prahāṇam upaviṣṭasya vijṛmbhikā āgacchati / na dāni  
-aṃgāni ṭaṭṭa-ṭaṭṭa nti(tti) (49a4) phoṭantena (J.223) mukhaṃ vivaritvā  
-jambhayitavyaṃ / vinodetavyā nilalāṭam vā parimarditavyaṃ / nāsā vā  
-parimarditavyā atha dāni na pāreti vinodayituṃ / saṃprajānaṃ mukhaṃ  
-pithitvā jambhayitavyaṃ / tathā karttavyaṃ yathānantarikaṃ śabdena na  
-vyāvahati / atha dāni bhikṣusya vijṛmbhikā puno puno āgacchati  
-nirddhāviya vijṛmbhitavyaṃ / prahāṇasya vā āmantriya gantavyaṃ, / (49a5)  
-nāpi kṣamati prahāṇam upaviṣṭakena maṭa-maṭāya aṅgāni bhañjituṃ, /  
-atha dāni bhikṣusya aṅgāni duḥkhāyanti / ekā tāva bāhā sukhākaṃ  
-prasārayitavyā yaṃ kālaṃ viśrānto bhavati / (II.p.71) tāṃ sanmiñjiya  
-dvitīyā sukhākaṃ prasārayitavyā / eko pādo sukhākaṃ prasārayitavyo /  
-taṃ sanmiñjiya dvitīyo sukhākaṃ prasārayitavyo / na kṣamati bhikṣuṇā  
-bhaktāgre vā ta(49a6)rpaṇāgre vā sāmāyikaṃ vā dharmmaśravaṇe vā  
-aṅgāni bha(ṃ)jantena vijṛmbhayituṃ / atha dāni bhikṣusya vijṛmbhikā  
-āgacchati / yadi cīvaracīrṇṇa(koṇa)kena mukhaṃ pidhiya sukhākaṃ  
-vijṛmbhitavyaṃ / atha dāni bhikṣusya vijṛmbhikā puno puno āgacchati /  
-yadi tāva bhaktāgre vā upaviṣṭako bhavati / anantarikasya pātraṃ datvā  
-gantavyaṃ / dharmmaśravaṇena vā upaviṣṭako bhavati /  
-dharmmaśravaṇasya āmantri(49a7)ya gantavyaṃ / nāpi kṣamati bhikṣuṇā  
-gocaraṃ vā praviśantena antaragharaṃ (J.224) (vā) praviṣṭena  
-maṭa-maṭāye aṅgāni bha(ṃ)jantena vijṛmbhituṃ / atha dāni bhikṣusya  
-bhūyo bhūyo vijṛmbhikā āgacchati cīvarakoṇena mukhaṃ pidhiya  
-saṃprajānena vijṛm[bhāyi]tavyaṃ / atha dāni bhikṣusya antaraghare vā  
-upaviṣṭasya puno puno vijṛmbhikā āgacchati / utthiya gantavyaṃ / na  
-kṣamati / upādhyāyācāryāṇāṃ vṛddhatarakānāṃ, (49b1) vā agrato  
-maṭa-maṭāye aṃgāni bhaṃjantena vijṛmbhituṃ / atha dāni bhikṣusya  
-vijṛmbhikā āgacchati / ekamataṃ gatvā evaṃ vijṛmbhitavyaṃ / na  
-pratipadyati // ābhisamācārikān dharmmān atikrāmati // * //  
-  
-     VII.10      Ms.49b1      (J. 224.9);       Ch. 513c26  
-     bhagavān samyaksambuddho yadarthaṃ samudāgato tadartham  
-abhisambhāvayitvā śrāvastyāṃ viharati śāstā devānāñ ca manuṣyāṇāñ ca  
-satkṛto gurukṛto mānitaḥ pū(49b2)jitaḥ / (II.p.72) apacāyito  
-lābhāgrayaśograprāpto lābhī  
-cīvarapiṇḍapātaśayyāsanaglānapratyayabhaiṣajyapariṣkārāṇāṃ tat[ra] ca  
-anupaliptaḥ padmam iva jalena puṇyabhāgiyāṃ satvāṃ puṇyehi  
-niveśayamāno phalabhāgiyān satvāṃ phalehi pratiṣṭhāpayamāno  
-vāsanābhāgīyān satvāna vāsanāyām avasthāpayamāṇo amṛtam  
-analpakena devamanuṣyāṃ saṃvibhajanto prāṇikoṭī (J.225)  
-ni(49b3)yutaśatasahasrāṇi amṛtam anuprāpayanto  
-anavarāgrajātijarāmaraṇasaṃsārakāntāranarakavidurggān mahāprapātato  
-abhyuddharitvā kṣeme same śive sthale abhaye nirvvāṇe  
-pratiṣṭhāpayamāno āvarjayitvā  
-aṅga-magadha-mallī-varji-kāsi-kośala-kuru-pañcala-ceti-vatsa-matsa-śūrase  
-na-śivi-daśārṇṇa-aśvaki-avanti jñāne dṛṣṭaparākra(49b4)mo svayaṃbhū  
-divyehi vihārehi brāhmehi vihārehi āryehi vihārehi āniṃjyehi vihārehi  
-sātatyehi vihārehi buddho buddhavihārehi jino jinavihārehi / jānako  
-jānakavihārehi sarvvajño sarvvajñavihārehi cetovaśiparamapāramiprāptā  
-punar bbuddhā bhagavanto yehi yehi vihārehi ākāṃkṣanti tehi tehi  
-vihārehi viharanti /   
-     te dā(49b5)ni āyuṣmanto ṣaḍvarggikāḥ / auddhatyābhiprāyeṇa  
-śvetamayena saktukāṃ kulmāsāṃ ca mardiyāṇaṃ ātape śoṣayanti / yaṃ  
-kālaṃ śuṣkā bhavanti / tato śvetamayena yeva khādanti / bilvāni  
-khādanti / svātakopanatāni phalāni khādanti / kalāpā(yaṃ vā)  
-satilapallavaṃ khādanti / yaṃ kālaṃ prahāṇasya jarjaro āhato bhavati / tato  
-prahāṇaśālāṃ gacchiya caturddiśaṃ (49b6) niṣīdanti / yaṃ kālaṃ  
-bhikṣusaṃgho upaviṣṭo bhavati / eko tāva pūtivātakarmmaṃ karoti aparo  
-gacchanti / aparo ḍhara- (II.p.73)ḍha(ra) nti(tti) / (J.226) aparo āha / sādhv  
-āyuṣmaṃ kiṃ etaṃ samvatsarikaṃ pratikarmmaṃ aṣṭaśatenāpi kho vātaṃ na  
-iccheyyā aho manojño śabdo anukūlaṃ karoti / ānantarikānāṃ  
-paddamuṣṭikāṃ jighrāpenti / āha / jighrāyuṣman aho mṛṣṭo gandho aho  
-sobhano ga(49b7)ndho yogācārān bhikṣūn śabdena vyāvahanti / etaṃ  
-prakaraṇaṃ bhikṣū bhagavato ārocayeṃsu / (J.226.19) bhagavān āha /  
-śabdāpayatha ṣaḍvarggikān // * // yāvad āma bhagavan   
-     bhagavān āha / tena hi evaṃ vātakarmme pratipadyitavyaṃ / kin ti dāni  
-evaṃ vātakarmme pratipadyita(vya)ṃ / nāyaṃ kṣamati / (J.226.19) bhikṣuṇā  
-auddhatyābhi(J.227)prāyeṇa śvetamayena kulmāṣān vā śaktukān vā  
-mardiyāṇaṃ ātape śoṣayitvā śveta(50a1)mayena yeva khādituṃ / nāpi  
-kṣamati / bilvāni vā madanaphalāni vā tatkālakāni phalāni khādituṃ /  
-kalāyaṃ vā satilapallavaṃ vā // atha dāni bhikṣu piṇḍacāram  
-aṇṭhantoparapratibaddhāye jīvikāye śvetamayena kulmāṣān vā  
-śaktumardditakān labhati / vātakopakāni vā phalāni / kiñ cāpi khādeti /  
-anāpattiḥ / na kṣamati prahāṇam upaviṣṭena auddhatyābhiprāyeṇa vā  
-ḍhara-ḍha(50a2)rāye vāna(ta)karmma karttuḥ(ṃ,) / atha dāni bhikṣusya  
-prahāṇaśālāyām upaviṣṭasya vātakarmma āgaccati / na dāni osaritvā  
-indriyāni karttavyaṃ / atha dāni ārśavyādhiko bhavati / saṃprajāna ekaṃ  
-phiccakaṃ utkṣipiyāṇaṃ hastena vivaritvā vātakarmma (II.p.74) karttavyaṃ /  
-tathā karttavyaṃ yathā ananta(ri)kaṃ śabdena na vyāvahati / taṃ pi dāni na  
-kṣamati / yena vṛddhatarako tena piccakam u(50a3)tkṣipituṃ / atha khalu  
-yena navakatarako tena phiccakam utkṣipitavyaṃ / atha dāni vṛddhatarako  
-ca navakatarako ca ekasthāne ḍhukkakaṃ bhavati / nāyaṃ kṣamati  
-saṃghanavakena yena saṃghasthaviro tena phiccakaṃ utkṣipituṃ, / kiñ cāpi  
-yena vṛddhatarako tena phiccakaṃ utkṣipati / anāpattiḥ / (J.227.16) atha  
-dāni bhikṣu na pāreti saṃprajāna vātakarmma (50a4) karttuṃ, /  
-nirddhāviyāṇaṃ vātakarmma karttavyaṃ / atha dāni bhikṣusya puno puno  
-vātakarmma āgacchati / prahāṇasya āmant(r)iya gantavyaṃ / nāpi kṣamati  
-bhaktāgre (J.228) vā tarpaṇāgre vā auddhatyābhiprāyeṇa vātakarmma  
-karttuṃ, / atha khalu eka pi(phi)ccakaṃ utkṣipiya vātakarmma karttavyaṃ /  
-atha dāni bhikṣusya vātakarmma puno āgacchati anantarikasya pātraṃ  
-(50a5) datvā gantavyaṃ / nāpi kṣamati / dharmmaśravaṇe vā  
-sāmāyikāyām vā auddhatyābhiprāyeṇa vā phara-pharasya(rāya)  
-vātakarmma karttuṃ, / atha khalu ekaṃ phiccakaṃ utkṣipitvā vātakarmma  
-karttavyaḥ(ṃ) / atha dāni bhikṣusya (J.226.8) puno puno vātakarmma  
-āgacchati / (II.p.75) dharmmaśravaṇasya āmantriya gantavyaṃ / nāpi  
-kṣamati / upādhyāyaṃ vā ācāryam vā āmantrayitvā gantuṃ / nāpi (50a6)  
-kṣamati antaragharaṃ niṣaṇṇena auddhatyābhiprāyeṇa phara-pharāya  
-vātakarmma karttuṃ, / atha khalu ekaṃ phiccakaṃ u(t)kṣipitvā saṃprajānan  
-vātakarmma karttavyaṃ / atha dāni bhikṣusya puno puno vātakarmma  
-āgacchati / ekamantaṃ āgacchiya karttavyaṃ / nāpi kṣamati / upādhyāyasya  
-vā ācāryasya vā vṛddhatarakasya vā agrato auddhatyābhiprāyeṇa  
-pharapharāya vātakarmma karttuṃ, / atha (50a7) dāni bhikṣusya  
-vātakarmma āgacchati / ekamantaṃ gacchiya karttavyaṃ / nāpi dāni  
-kṣamati / anuvātaṃ karttuṃ, / mā gandhena vyāvaheyyā / apavātaṃ  
-karttavyaṃ / vātapathaṃ muñcitvā / (J.226.18) atha dāni bhikṣusya  
-sārddhe(rthe)na sārddhaṃ gacchantasya samudācāro bhavati / na dāni  
-sārthena agrato sthitvā vātakarmma karttavyaṃ / (J.228.6) atha dāni  
-ārśavyādhiko bhavati / hastena vivaritvā mārggato udvarttitvā saṃprajānaṃ  
-ka(50b1)rttavyaṃ / yathā sārthaṃ gandhena na vyāvaheyyā / vātapathaṃ  
-mocayitvā karttavyaṃ / evaṃ vātakarmme pratipadyitavyaṃ / na  
-pratipadyati // * // ābhisamācārikān dharmmān atikramati // * //  
-  
-     uddānaṃ   
-     (evaṃ) pradīpe pratipadyitavyaṃ /  
-     (evaṃ yaṣṭīyaṃ prātipadyitavyaṃ /)   
-  
-     (II.p.76) evaṃ geṇḍuke pratipadyitavyaṃ /  
-     evaṃ niṣīdane pratipadyitavyaṃ /  
-     evam upādhyā(nahā)ye pratipadyitavyaṃ /  
-     evaṃ kāsitavyaṃ /  
-     evaṃ kṣīvitavyaṃ / (J.229)  
-     evaṃ kaṇḍūyitavyaṃ /  
-     evaṃ jaṃbhāvayitavyaṃ / (50b2)  
-     evaṃ vātakarmma pratipadyitavyaṃ /   
-  
-     (J.230) antaroddānaṃ   
-     saṃghasthaviro ca śayyāsana kaṭhina āgantukā ca āraṇyakā nevāsikā ca  
-pradīpo ca saptavarggāḥ prakāśitāḥ // * //  
-  
-              ābhisamācārikāḥ samāptāḥ // * //  
-  
-     āryamahāsāṃghikānāṃ lokottaravādināṃ madhyuddeśa-pāṭhakānāṃ  
-pāṭheneti // * //  
-  
-     ye dharmmā hetuprabhavā   
-                   hetun teṣān tathāgato hy avadat /   
-     teṣāñ ca (50b3) yo nirodha   
-                   evamvādī mahāśramaṇaḥ  
-  
-  
-  
-  
+      थे प्रेसेन्त् तेxत् इस् एदितेद् तो फ़चिलितते wओर्द्-सेअर्छेस्। थे तेxत् इस् बसेद् ओन् थे मनुस्च्रिप्त् ओफ़् थे त्रन्स्लितेरतिओन् ओफ़् थे अभिसमचरिक-धर्म ओफ़् थे महसग्घिक-लोकोत्तरवदिन्स्। ग्रम्मतिचल् एर्रोर्स् अन्द् थे लिके हवे बेएन् लेफ़्त् उन्चोर्रेच्तेद्, बुत् प्रेफ़ेर्रेद् रेअदिन्ग्स् अरे ओच्चसिओनल्ल्य् गिवेन् फ़ोर् चोन्स्पिचुओउस् स्च्रिबल् एर्रोर्स्।  
+      थे स्य्म्बोल्स् अन्द् एदितोरिअल् फ़ेअतुरेस् अरे अस् फ़ोल्लोwस्:  
+(१) थे लेत्तेर्स् बेत्wएएन् ( ) इन्दिचते थत् थेय् स्होउल्द् बे सुप्प्लिएद्।  
+(२) थे लेत्तेर्स् wहिछ् सेएम् तो बे wरोन्ग्ल्य् wरित्तेन् अरे उन्देर्लिनेद्। इम्मेदिअतेल्य् अफ़्तेर् थेम् सुग्गेस्तिओन् इस् सुप्प्लिएद् बेत्wएएन् ( )।   
+(३) लेत्तेर्स् इन् ब्लुए अन्द् उन्देर्लिनेद् अरे तो बे ओमित्तेद्। नो सुग्गेस्तिओन् इस् सुप्प्लिएद् अफ़्तेर् थेम्। थिस् अप्प्लिएस् तो थे ओमिस्सिओन् ओफ़् थे विरम।  
+(४) थे लेत्तेर्स् बेत्wएएन् [ ] इन्दिचते थत् थेय् अरे ओब्स्चुरे।  
+(५) अन् इल्लेगिब्ले छरच्तेर् (अक्Xअरस्) इस् इन्दिचतेद् ब्य् ओने "+"।  
+(६) स्य्म्बोल्स् wहिछ् सेएम् तो इन्दिचते विरम अरे सुब्स्तितुतेद् ब्य् चोम्म (" , ")।  
+(७) स्य्म्बोल्स् wहिछ् सेएम् तो बे सिद्धम्, एत्च्।, अरे सुब्स्तितुतेद् ब्य् " * "।  
+(८) चन्चेल्लतिओन्स् इन् थे म्स्। अरे नोत् इन्दिचतेद्।  
+(९) ज्। रेफ़ेर्स् तो थे जिननन्द एदितिओन्।  
+(१०) चोम्पोउन्द्स् इन् wहिछ् हिअतुस् अप्पेअर्स् अरे ह्य्फेनेद्।
+
+###
+
+(इ।प्।४३)  
+अभिसमाचारिकधर्म  
+    
+इ।१ म्स्।१ब्१ (ज्।१।१); छ्।४९९अ२२   
+              * नमो बुद्धाय ॥ अभिसमाचारिकाणाम् आदिः ।  
+     भगवान् श्रावस्त्याम् विहरति शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा सङ्घस्य दानि पोषधो आयुष्मां नन्दनो  
+सङ्घस्थविरो उपनन्दनो द्वितीयस्थविरो दायकदानपती पृच्छन्ति ।  
+आर्य किं समग्रो भिक्षुसङ्घो आहंसु नो दीर्घायु । को दानि  
+नागच्छति । भिक्षू आहंसु सङ्घस्थविरो नागच्छति । ते दानि  
+ओज्झा(१ब्२)यन्ति । पश्यथ भणे वयन् ताव कर्म्मान्तान् च्छोरय  
+आगच्छाम । समग्रस्य सङ्घस्य पादान वन्दिष्याम । देयधर्म्मञ्  
+च प्रतिष्ठापयिष्याम । सङ्घस्थविरो नागच्छति । सो दानि पश्चाद्  
+आगत्वा सङ्क्षिप्तेन चत्वारि पाराजिकान् धर्म्मान् उद्देशियाण नो च  
+दक्षिणाम् आदिशति । न परिकथां करोति । उत्थिय गतो । नवका भिक्षू  
+पृच्छन्ति । आयुष्मान् नागतो सङ्घस्थविरो भिक्षू आहंसु । आगतो (१ब्३) च  
+गतो च । ते पि नवका भिक्षू आहंसु । नैव सङ्घस्थ(ज्।२)विरस्य आगतिः  
+प्रज्ञायते न गतिः । एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु ।  
+भगवान् आह । शब्दापयथ नन्दनं सो दानि शब्दापितो । भगवान्  
+आह । सत्यं नन्दन एवं नाम सङ्घस्य पोषधो ति । तद् एव सर्व्वं  
+भगवान् विस्तरेण प्रत्यारोचयति नवका भिक्षू ओज्झायन्ति । नैव  
+सङ्घस्थविरस्या(१ब्४)गतिर् न्न गतिः । प्रज्ञायते ति । आह । आम भगवन् ।  
+     भगवान् आह । तेन हि एवं सङ्घस्थविरेण पोषधे प्रतिपद्यितव्यं ।  
+किन् ति दानि सङ्घस्थविरेण पोषधे प्रतिपद्यितव्यं । यद् अहो सङ्घस्य  
+पोषधो भवति । तद् अहो सङ्घस्थविरेण जानितव्यं । किम् अद्य सङ्घस्य  
+पोषधो चातुर्द्दशिको पाञ्चदशिको सन्धिपोषधो भविष्यतीति किं  
+पूर्व्वं भक्तं । किं पश्चा(१ब्५)द्भक्तम्, । केत्तिक पौरुषाहि च्छायाहि  
+कहिम् भविष्यति । प्रहाणशालायाम् वा उपस्थानशालायाम् वा ।  
+अग्निशालायाम् वा । मण्डलमाडे वा । यस्मिन् प्रदेशे यं दिवसं  
+सङ्घस्य पोषधो भवति । सङ्घस्थविरेण पञ्चसूत्राणि विस्तरेण  
+स्वाध्यायितव्यानि । यावन्तमसतो (इ।प्।४४) चत्वारि पाराजिका गाथाश् च  
+सिष्टकम् अभीक्ष्णश्रुतिकाया यदि दानि न(ना)गतो सं(१ब्६)घो भवति  
+सङ्घस्थविरेण यहिं भविष्यति तहिं आरोचयितव्यम्, । आयुष्मन् अद्य  
+सङ्घस्य पोषधो चातुर्द्दशिको वा पाञ्चदशिको वा सन्धिपोषधो वा ।  
+अमुकहिं भविष्यति । प्रहाणशालायाम् वा । उपस्थानशालायाम् वा ।  
+मण्डलमाडे वा पुरेभक्तम् वा पश्चाद्भक्तम् वा । अति(भि)क्रमन्तु  
+आयुष्मन्तो नापि दानि आरोचितं मया ति । यत्रोलग्गिकाय आसितव्यं ।   
+     (ज्।३) अथ खलु प्रति(१ब्७)कृत्येव पोषधस्थानं गन्तव्यं सिञ्चापयितव्यो  
+सन्मार्जयितव्यो गोमयकार्षी दातव्या । आसनप्रज्ञप्ति कर्त्तव्या ।  
+विभवो भवति शलाका गन्धोदकेन धोवितव्यायो पुष्पेहि ओकिरितव्यायो  
+सङ्घस्थविरेण जानितव्यं को शलाकां चारयिष्यति । को प्रतिच्छिष्यति । को  
+प्रातिमोक्षसूत्रं उद्दिशिष्यति । को दक्षिणां आदिशिष्यति । को परिकथां  
+करिष्यति । यो प्रति(२अ१)बलो भवति । सो अध्येषितव्यो अयं सानं शलाकां  
+चारेषि । त्वं शलाकां प्रतिच्छेसि । त्वं प्रातिमोक्षसूत्रम् उद्दिशेषि त्वं  
+भाषेसि त्वं परिकथां करेसि । त्वं दक्षिणां आदिशेसि । तेन  
+यथाध्येष्टेन शलाका चारयितव्या । द्वितीयेन प्रतीच्छितव्या । नापि  
+क्षमति शलाकां चारयन्तेन अनिर्म्मादिय हस्तां शलाकां चारयितुं ।  
+नापि क्षमति । ओगुण्ठिकायकृतेन उपानहा(२अ२)रूढेन वा शलाकां  
+चारयन्त(तु)ं । अथ खलु हस्तां निर्म्मादिय ओगुण्ठिकां अपनिय  
+उपानहां ओमुञ्चिय एकांसकृतेन शलाका चारयितव्या । शलाकां पि दानि  
+गृह्णन्तेन न चापि क्षमति । ओगुण्ठिकाकृतेन वा उपानहारूढेन वा  
+शलाकां गृह्णितुम्, । अथ खलु एकांशकृतेन हस्तान् निर्म्मादिय  
+ओगुण्ठिकां अपनिय उपानहां ओमुञ्चिय शलाकां गृह्णितव्या । यं कालं  
+(२अ३) शलाका चारिता भवन्ति भिक्षू गणिता भवन्ति । सामग्री आरोचिता  
+भवति । दायकदानपति परिपृच्छितव्या । किम् वसिष्यथ अथ  
+गमिष्यथ । (ज्।४) यदि तावाहंसु गच्छाम ततो देयधर्म्मं  
+प्रतिष्ठापयितव्यं । देयधर्म्मम् अनुमोदापयितव्यं । धार्म्म्या  
+कथया सन्दर्शयितव्याः । समादापयितव्याः । समुत्तेजयितव्याः ।  
+सम्प्रहर्षयितव्याः । (२अ४) उद्योजयितव्याः ॥ अथ दानि आहंसु वसिष्याम  
+न्ति(त्ति) वक्तव्यं । गच्छथ ताव बाह्यतो आमुहूर्त्तम्, आगमेथ  
+भिक्षुसङ्घो (इ।प्।४५) ताव पोषधं करिष्यति । यं कालं दायकदानपति  
+निर्द्धाविता भवन्ति । ततो सूत्रोद्देशकेन जानितव्यम्, ।   
+     यदि ताव नात्या(ति)शीतम् भवति । नात्याति-उष्णं न दूरदूरे विहारका  
+भवन्ति भिक्षू वा न जरादुर्ब्बला न व्या(२अ५)धिदुर्ब्बला वा भवन्ति ।  
+न वा सिंहभयम् वा व्याघ्रभयम् वा चौरभयम् वा भिक्षू वा  
+सुखोपविष्टा भवन्ति । यदि ताव विस्तरेण प्रातिमोक्षसूत्रं श्रोतुकामा  
+भवन्ति विस्तरेण प्रातिमोक्षसूत्रं उद्दिशितव्यं । अथ दानि अतिसि(सी)तम्  
+वा (अति)उष्णम् वा भवति । भिक्षू वा जरादुर्ब्बला वा व्याधिदुर्ब्बला वा  
+भवन्ति । सिंहभयम् वा व्याघ्रभयम् वा चौरभयम् वा भिक्षू  
+(२अ६) च न विस्तरेण प्रातिमोक्षसूत्रं श्रोतुकामा भवन्ति । सङ्क्षिप्तेन  
+चत्वारि पाराजिकां धर्म्मां उद्दिशियानं शिष्टकं अभीक्ष्णश्रुतिकाये  
+गाथाये च ततो यथासुखं कर्त्तव्यं ।   
+     अथ दानि सर्व्वरात्रिका भवति । ततो अध्येषितव्यं । त्वं भाषयेसीति ॥  
+यथाध्येष्टेहि भाषमाणं सर्व्वरात्रिं धर्म्मवृष्टिये  
+वीतिनामियानं दायकदानपति (ज्।५) धर्म्या कथया सन्दर्शयितव्या  
+समादा(२अ७)पयितव्या समुत्तेजयितव्या सम्प्रहर्षयितव्या उद्योजयितव्या  
+यथासुखं कर्त्तव्यं । अभिप्रमोदन्तु आयुष्मन्तो । एवं  
+सङ्घस्थविरेण पोषधे प्रतिपद्यितव्यं । न प्रतिपद्यति ।  
+अभिसमाचारिका(म्) धर्म्मां अतिक्रमति ॥*॥  
+     इ।२ म्स्।२अ७ (ज्। ५।५); छ्।४९९च्२  
+     भगवान् श्रावस्त्याम् विहरति । शस्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा सङ्घस्य दानि पोषधो आयुष्मां नन्दनो (२ब्१)  
+सङ्घस्थविरो उपनन्दनो द्वितीयस्थविरो सङ्घस्थविरो आगतो भिक्षु  
+आगता द्वितीयस्थविरो नागच्छति । दायकदानपति दानि देयधर्म्माणि  
+आदाय प्रतिपालेन्ति । समय(ग्र)ं च भिक्षुसङ्घम् वन्दिष्यामः ।  
+देयधर्म्मञ् च प्रतिष्ठापयिष्यामो ति ॥ ते दानि पृच्छन्ति । आर्य  
+समग्रो भिक्षुसङ्घो अ(आ)हंसु नोहेतं दीर्घायु को खलु नागच्छति ।  
+आहंसु द्वितीयस्थविरो नाग-च्छ(२ब्२)ति । ते दानि ओज्झायन्ति वयं ये(व)  
+ताव कर्म्मान्ता च्छोरिय आगतागच्छाम समग्रस्य सङ्घस्य पादां  
+वन्दिष्यामः । देयधर्म्मञ् (इ।प्।४६) च प्रतिष्ठापयिष्यामः ।  
+द्वितीयस्थविरो पि नागच्छति । ते दानि मुहू-र्त्तमात्रं प्रतिपालिय आसित्वा  
+देयधर्म्मं प्रतिष्ठापयित्वा गताः । सो दानि अतिविकाले आगतो  
+सङ्घस्थविरो ओज्झायति । अस्माकं भगवान् दण्डकर्म्मन् ददाति  
+द्वितीयस्थविर(२ब्३)स्य मोन्ति(त्ति)का । एतं प्रकरणं भिक्षू भगवतो  
+आरोचयन्ति । भगवान् आह ॥ शब्दापयथ उपनन्दनं सो दानि  
+शब्दापितो । भगवान् आह ॥ सत्यं उपनन्दन (ज्।६) एवं दानि सङ्घस्य  
+पोषधो ति । तद् एव सर्व्वं भगवां विस्तरेण प्रत्यारोचयति । याव  
+सङ्घस्थविरो पि ओज्झायति । अस्माकं भगवां दण्डकर्म्मन् देति ।  
+द्वितीयस्थविरस्य मोन्ति(त्ति)का (२ब्४) आह । आम भगवन्   
+     भगवान् आह । तेन हि एवं द्वितीयस्थविरेण पोषधे प्रतिपद्यितव्यं ।  
+किन् ति दानि द्वितीयस्थविरेण पोषधे प्रतिपद्यितव्यं । यद् अहो दानि  
+सङ्घस्य पोषधो भवति । सङ्घस्थविरो न प्रतिबलो भवति ।  
+द्वितीयस्थविरेण जानितव्यं । किं अद्य सङ्घस्य पोषधो चतुर्द्दशिको वा  
+पाञ्चदशिको वा सन्धिपोषधो वा किं रा(२ब्५)त्रिपोषधो भविष्यति  
+दिवापोषधो पुरेभक्ति भविष्यति । पश्चाद्भक्तं । कहिं भविष्यति ।  
+उपस्थानशालायाम् वा प्रहाणशालायाम् वा मण्डलमाडे वा ।  
+उच्छेदनके वा निषद्याय वा त्ति यहिम् भवति । तहिं आरोचयितव्यं ।  
+आयुष्मन् अद्य सङ्घस्य पोषधो चातुर्द्दशिको वा पाञ्चदशिको वा ।   
+     अथ दानि सङ्घस्थविरो न प्रतिबलो भव(२ब्६)ति । द्वितीयस्थविरेण  
+प्रकृत्येव पोषधस्थानं सिञ्चापयितव्यं । सन्मार्जयितव्यं ।  
+गोमयकार्षी दातव्या आसनप्रज्ञप्तिः कर्त्तव्या विभवो भवति शलाका  
+गन्धोदकेन धोवयितव्या।यो पुष्पेहि ओकिरितव्यायो सङ्घस्थविरो न  
+प्रतिबलो भवति । द्वितीयस्थविरेण जानितव्यं को शलाकां चारयिष्यति । को  
+शलाकां प्रतिच्छिष्यति । को प्रातिमोक्षसूत्रम् उद्दिशिष्य(२ब्७)ति । को  
+भाषिष्यति । को दक्षिणां आदिशिष्यति । को परिकथां करिष्यति । यो प्रतिबलो  
+भविष्यति । सो अध्येषितव्यो । त्वं शलाकां चारयिष्यसि । त्वं प्रतिच्छेष्यसि  
+याव त्वं परिकथां कारयसीति । ततो शलाकां चारन्तेन न (ज्।७) क्षमति  
+ओगुण्ठिकाकृतेन वा उपानहारूढेन वा हस्तेहि वा अनिर्म्मादितेहि  
+शलाकां चारयितुं । अथ खलु हस्तान् निर्म्मादियानं उपानहां  
+ओमुञ्चिय (३अ१) एकांसकृतेन शलाका चारयितव्या शलाकां पि  
+प्रतिच्छन्तेन न क्षमति ओगुण्ठिकाकृतेन वा उपानहारूढेन वा  
+(इ।प्।४७) हस्तेहि वा अनिर्म्मादितेहि शलाकां प्रतिच्छितुं । अथ खलु हस्तान्  
+निर्म्मादियाण उपानहां ओमुञ्चियाण एकांसकृतेन शलाका  
+प्रतिच्छितव्या । यदा शलाका चारिता भवन्ति भिक्षू गणिता भवन्ति  
+सामग्री आरोचिता भवति । ततो दायकदानपती पृच्छि(३अ२)तव्याः किम्  
+वसिष्यथ उत गमिष्यथ यदि ताव जल्पन्ति । गच्छाम ततो  
+देयधर्म्मं प्रतिष्ठापयितव्या देयधर्म्मो अनुमोदापयितव्यो  
+परिकथा कर्त्तव्या धार्म्या कथया सन्दर्शिय समादापिय समुत्तेजिय  
+सम्प्रहर्षयित्वा उद्योजयितव्या । अथ दानि जल्पन्ति वसिष्याम न्ति(त्ति)  
+वक्तव्यं । मुहूर्त्तन् ताव बाह्यतो आगमेथ सङ्घो ताव पोषधं  
+करिष्यति । यदा काले दायकदानपति (३अ३) निर्द्धाविता भवन्ति ततो  
+सूत्रोद्देशकेन जानितव्यं ।   
+     यदि ताव अतिसीतम् वा अति-उष्णम् वा भवति । भिक्षू वा जरादुर्ब्बला वा  
+व्याधिदुर्ब्बला वा भवन्ति दूरदूरे वा परिवेणा भवन्ति सिंहभयम्  
+वा व्याघ्रभयम् वा चोरभयम् वा भवति । भिक्षू वा न विस्तरेण  
+श्रोतुकामा भवन्ति । सङ्क्षिप्तेन (ज्।८) चत्वारि पाराजिका उद्दिशितव्यं ।  
+शिष्टकं अभीक्ष्णश्रुतिकाये गा(३अ४)थायो च । ततो यथासुखं  
+कर्त्तव्यं । अथ दानि नात्यातिशीतं न चात्याति-उष्णं न दूरदूरे  
+परिवेणा भवन्ति । भिक्षू च सुखोपविष्टा भवन्ति विस्तरेण श्रोतुकामा  
+ततो विस्तरेण प्रातिमोक्षसूत्रं उस्सारयितव्यं । ततो यथासुखङ्  
+कर्त्तव्यं ।  
+     अथ दानि सर्व्वरात्रिका भवति । सङ्घस्थविरो न प्रतिबलो भवति  
+द्वितीयस्थविरेण अध्येषितव्यं । त्व(३अ५)या भाषितव्यं त्वया भाषितव्यं  
+यथाध्येष्टेहि भाषणाय सर्व्वरात्रिं धर्म्मवृष्टिये वीतिनामिय ।  
+(या)न दायकदानपति धार्म्म्य(या) कथया सन्दर्शिय समादापिय  
+समुत्तेजिय सम्प्रहर्षयित्वा उद्योजयितव्या । ततो यथासुखं कर्त्तव्यं ।  
+अभिप्रमोदयन्तु आयुष्मन्तो अभिप्रमोदयन्तु आयुष्मन्तो अप्रमादेन  
+सम्पादयितव्यं । एवं द्वितीयस्थवि(३अ६)रेण पोषधे प्रतिपद्यितव्यं । न  
+प्रतिपद्येति अभिसमाचारिकां धर्म्मान् अतिक्रमति ॥ *॥  
+    
+     (इ।प्।४८) इ।३ म्स्।३अ६ (ज्। ८।१४); छ्।४९९च्१४  
+     भगवान् श्रावस्त्यां विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा सङ्घस्य दानि पोषधो आयुष्मान् नन्दनो  
+सङ्घस्थविरो उपनन्दनो द्वितीयस्थविरो आगतो भिक्षू ओसरन्तिकाये न  
+आगच्छन्ति दायकदानपति पृच्छन्ति आर्य समग्रो भिक्षुसङ्घो भिक्षू  
+आहं,(३अ७)सु । नोहीदं दीर्घायु को खु नागच्छति । भिक्षू आहंसु ।  
+(ज्।९) एते हि भिक्षू ओसरन्तिकाये न आगच्छन्ति । ते दानि ओज्झायन्ति । वयं  
+येच(व) कर्म्मान्तां च्छोरिय च्छोरिय आगता आगच्छाम । समग्रस्य  
+पादां वन्दिष्याम । देयधर्म्मञ् च प्रतिष्ठापयिष्यामः । इमे पि  
+आर्यमिश्रा ओसरतिकाये नागच्छन्ति । सङ्घस्थविरो च द्वितीयस्थविरो च  
+ओध्यायन्ति । अस्माकं भगवां दण्डकर्म्मन् देति । एषाम्, (३ब्१)  
+मोन्ति(त्ति)को भिक्षू एता(त)म् प्रकरणं आरोचयन्ति भगवान् आह ।  
+शब्दापयथ भिक्षून ते दानि शब्दापिताः । भगवान् आह । सत्यं  
+भिक्षवो एवं दानि सङ्घस्य पोषधो ति । तद् एव सर्व्वं भगवान्  
+विस्तरेण प्रत्यारोचयति । याव सङ्घस्थविरो च द्वितीयस्थविरो च  
+ओध्यायन्ति । अस्माकं भगवान् दण्डकर्म्मन् देति । इमेषां मोन्ति(त्ति)का  
+आहंसुः । आम भगवन्   
+     भगवान् आह । तेन हि सर्व्वेहि एवं (३ब्२) पोषधे प्रतिपद्यितव्यं । किन्  
+ति दानि । एवं सर्व्वेहि पोषधे प्रतिपद्यितव्यं । सर्व्वेहि जानितव्यं । किं  
+खल्व् अद्य पक्षस्य प्रतिपदा द्वितीया यावत् पञ्चदशी यदि दानि कोचि  
+पृच्छति । भन्ते कतमाद्य न दानि वक्तव्यं । कतमा पुन हि यो  
+भूषीति । अवश्यं वंसविदलिकाहि वा नलविदलिकाहि वा लिखित्वा सूत्रेण  
+आब्र(बु)णित्वा द्वारकोष्ठके वा प्रासादे वा कल्पियकुटिकायां वा  
+बन्धितव्यं (३ब्३) कीलकानि खनेत्वा द्वारे (ज्।१०) स्था(त)व्यं । यो दानि  
+भवति मासचारिको वा पक्षचारिको तेन एकम् एकं संसारयितव्यं  
+देवसिकं यथाज्ञापेत कतिम् आद्य सर्व्वेहि जानितव्यं । एषो दानि  
+सङ्घस्य पोषधो भवति । सङ्घस्थविरो न प्रतिबलो भवति ।  
+द्वितीयस्थविरो न प्रतिबलो भवति । यो तत्र प्रतिबलो भवति तेन  
+जानितव्यं । किं अद्य सङ्घस्य (३ब्४) पोषधो चातुर्द्दशिको वा  
+पाञ्चदशिको वा सन्धिपोषधो वा दिवारात्रौ वा (इ।प्।४९) पोषधे  
+पुरोभक्तं वा पश्चाद्भक्तम् वा कति पौरुषाहि च्छायाहि कहिं  
+भविष्यति । प्रहाणशालायाम् वा उपस्थानशालायाम् वा मण्डलमाडे वा  
+ओच्छेदके चङ्क्रमे वा निषद्याय न्ति(त्ति) यहिं भवति तहिं  
+आरोचयितव्यं । अभिक्रमन्तु आयुष्मन्तो ति नायं (क्षमति) आरोचितं  
+म(३ब्५)या ति पा(य)त्रोल्लग्गिकाये आसितुं ।   
+     अथ खलु यदि ताव सङ्घस्थविरो न प्रति(बलो) भवति । द्वितीयस्थविरो  
+न प्रतिबलो भवति । यो तत्र प्रतिबलो भवति । तेन प्रकृत्येव  
+पोषधस्थानं गन्तव्यं पोषधस्थानं सिञ्चितव्यं । सन्मार्जितव्यं ।  
+गोमयकार्षी दातव्या आसनप्रज्ञप्तिः कर्त्तव्या । विभवो भवति शलाका  
+गन्धोदकेन धोवितव्या । पुष्पे(३ब्६)हि ओकिरितव्या । सङ्घस्थविरो न  
+प्रतिबलो भवति । द्वितीयस्थविरो न प्रतिबलो भवति । यो तत्र प्रतिबलो  
+भवति । तेन जानितव्यं । को शलाकां चारयिष्यति । को शलाकां  
+प्रतिच्छिष्यति । को प्रातिमोक्षसूत्रम् उद्दिशिष्यति । को दक्षिणां  
+आदिशिष्यति । को परिकथां करिष्यति । यदि तावत् प्रतिबलो भवति आत्मना  
+सर्व्वं कर्त्तव्यं । अथ दानि न प्रतिबलो भवति । यो तत्र प्रति(३ब्७)बलो  
+भवति । सो अध्येषितव्यो त्वं शलाकां (ज्।११) चारयेसि त्वं शलाकां  
+प्रतिच्छेसि त्वं प्रातिमोक्षं उद्दिशेसि त्वं भाषेसि त्वं दक्षिणां आदिशेषि  
+त्वं परिकथां कारयेसि । शलाकां पि च चारयन्तेन न क्षमति ।  
+अनिर्म्मादितकेहि हस्तेहि उपानहारूढेन ओगुण्ठि(काकृ)तेन वा शलाकां  
+चारयितुं ।   
+     अथ खलु हस्तां निर्म्मादिय उपानहां ओमुञ्चिय एकांशकृतेन शलाका  
+चारयितव्या (४अ१) शलाकां पि दानि प्रतिच्छन्तेन न क्षमति ।  
+अनिर्म्मादितकेहि हस्तेहि उपानहारूढेन वा ओगुण्ठिकाकृतेन वा  
+शलाकां प्रतिच्छितुं ॥ अथ खलु हस्तां निर्म्मादियाण उपानहां  
+मुञ्चिय एकंशकृतेन शलाका प्रतिच्छितव्या । यं कालं शलाका चारिता  
+भवन्ति । भिक्षू गणिता भवन्ति । सामग्री आरोचिता भवति ।  
+दायकदानपति पृच्छितव्याः ः । किम् वशिष्यथ अथ (४अ२) गच्छथ । यदि  
+ताव जल्पन्ति । गच्छाम न्ति(त्ति) देयधर्म्म प्रतिष्ठापयितव्यो ।  
+देयधर्म्मम् अनुमोदापयितव्यो । धार्म्या कथया सन्दर्शिय  
+समादापिय समुत्तेजिय सम्प्रहर्षयित्वा उद्योजयितव्या ।   
+     (इ।प्।५०) अथेदानिं जल्पन्ति वसिष्याम न्ति(त्ति) । वक्तव्यं । बाह्यतो ताव  
+यूयं मुहूर्त्तम् आगमेथ सङ्घो ताव पोषधं करिष्यति । यं कालं  
+दायकदानपति निर्द्धाविता भवन्ति । ततो सूत्रोद्देश(४अ३)केन  
+जानितव्यं । यदि ताव नातिशीतं भवति नात्यूष्णम् वा चोरभयम् वा न  
+भवति सिंहभयं वा व्याघ्रभयं वा न (ज्।१२) भवति । न दूरदूरे  
+वा परिवेणा भवन्ति भिक्षू वा न जरादुर्ब्बला वा व्याधिदुर्ब्बला  
+भवन्ति । सुखोपविष्टा भवन्ति विस्तरेण श्रोतुकामा भवन्ति । ततो  
+विस्तरेण प्रातिमोक्षसूत्रं उद्दिशितव्यं । अथ दानि सर्व्वरात्रिका भवति ।  
+भाषणका (४अ४) अध्येषितव्याः । त्वया भाषितव्यं त्वया भाषितव्यन् ति ॥  
+यथाध्येष्टेहि । भाषियाणं सर्व्वरात्रि धर्म्मवृष्टियेर्  
+व्वीतिनामियान दायकदानपति धर्म्या कथया सन्दर्शयितव्या याव  
+उद्योजयितव्या । ततो यथासुखं कर्त्तव्यं । अभिप्रमोदतु आयुष्मन्तो  
+अप्रमादेन सम्पादयितव्यं । एवं सर्व्वेहि पोषधे प्रतिपद्यितव्यं न  
+प्रतिपद्यन्ति विनयातिक्रमम् आ(४अ५)सादयन्ति ॥*॥  
+    
+     इ।४ म्स्।४अ५ (ज्।१२।११); छ्।४९९च्२८   
+     भगवान् श्रावस्त्याम् विहरति शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा सङ्घस्य दानि बाहिरकं भक्तं आयुष्मान्  
+नन्दनो सङ्घस्थविरो द्वितीयस्थविरो उपनन्दनो आगतो भिक्षू आगताः ।  
+सङ्घस्थविरो नागच्छाति । ओदनो शीतलो भवति । सूपो शीतलो भवति ।  
+घृतं थीयति मांसं थीयति व्यञ्जनानि शीतली(४अ६)भवन्ति ।  
+दायकदानपति पृच्छन्ति । आर्य किं समग्रो भिक्षुसङ्घो आहंसु  
+नोहेदं दीर्घायु को खु नागच्छति । आहंसु सङ्घस्थविरो नागच्छति ।  
+ते दानि ओज्झायन्ति । वयं येच(व) ताव कर्म्मान्तां च्छोरिय  
+आगतागच्छागच्छाम समग्रं भिक्षुसङ्घं परिविशिष्यामः ।  
+सङ्घस्थविरो पि नागच्छति । (ज्।१३) सो दानि पश्चाद् आगच्छियाण  
+भुञ्जियाण सङ्क्षिप्तेन दक्षिणाम् आदिशिय न परिकथां (४अ७) करोति ।  
+नापि दायकदानपतिं धर्म्या कथया (इ।प्।५१) सन्दर्शयति  
+समादापयति । समुत्तेजयति । सम्प्रहर्षयति । उत्थिहि(य) गतो नवका  
+भिक्षू पृच्छन्ति । आगतो सङ्घस्थविरो आहंसु आगतो च गतो च ते दानि  
+ओध्यायति नैव सङ्घस्थविरस्य आगतिर् (न) ग्गतिः प्रज्ञायति । एतं  
+प्रकरणं भिक्षू भगवतो आरोचयेंसु । भगवान् अह । शब्दापयथ  
+नन्दनं । सो (४ब्१) दानि शब्दावितो भगवान् आह । सत्यं नन्दन एवन्  
+नाम सङ्घस्य बाहिरकं भक्तं (नन्दनो) सङ्घस्थविरो उपनन्दनो  
+द्वितीयस्थविरो ति तद् एव सर्व्वं भगवान् विस्तरेण प्रत्यारोचयति । याव  
+नवका भिक्षू ओध्यायन्ति । याव सङ्घस्थविरस्यागतिर् न्न गति  
+प्रज्ञायते । आह । आम भगवन्   
+     भगवान् आह । तेन हि सङ्घस्थविरेण एवं भक्ताग्रे प्रतिपद्यितव्यं ।  
+किन् ति दानि सङ्घस्थविरे(४ब्२)ण एवं भक्ताग्रे प्रतिपद्यितव्यं ।  
+सङ्घस्थविरेण जानितव्यं । कस्याद्य भक्तं उभयतो साङ्घिकं  
+सर्व्वं साङ्घिकं परिवेणिकं । पाटियभक्तं ग्रामे विहारे एषो दानि  
+कोचि सङ्घं भक्तेन शुवेतनाय निमन्त्रेति । न दानि सङ्घस्थविरेण  
+गतागतस्य अधिवासयितव्यं । अथ खलु सङ्घस्थविरेण जानितव्यं को  
+यं निमन्त्रेति । आगन्तुको गमिको गृहस्थो प्रव्रजितो स्त्री पुरुषो  
+दा(४ब्३)रको दारिका पृच्छितव्यं । किन् नामको सि (ज्।१४) किङ् गोत्रको सि । किं  
+कर्म्मिका ते मातापितरौ कतमं देशं गृहं कतमायां रथ्यायां  
+कुतो मुखं गृहस्य वा साकारं सोद्देशं पृच्छियाणं ततो  
+धिवासयितव्यं । नापि दानि अधिवासित(म्) मयेति । यत्रोल्लग्नाये आसितव्यं ।  
+    
+     अथ खलु प्रकृत्येव मासचारिको पक्षचारिको वा प्रेषयितव्यो गच्छ  
+जाना(४ब्४)हि किं सज्जियतीति । अनेकाय तहि जातकं भवेयं मृतकम् वा  
+भवेय सन्धि वा च्छिन्नो अग्निदाहो वा राजकुलातो वा उपद्रवो ढोस्सा वा  
+विटा वा वातपुत्रो वा विहेठनाभिप्राया निमन्त्रयेंसु तेन गच्छिय  
+पृच्छितव्यं । कोचि इमंहि इत्थन्नामो नाम उपासको यदि ताव आहंसु  
+नास्ति अस्माकं कोचि एवं नाम उपासको वक्तव्यं [भि]क्षु(४ब्५)सङ्घो तेन  
+निमन्त्रितो किं सिध्यति वा पच्यति वा । यदि ताव आहंसु कस्य भक्तं  
+कस्य सिध्यति कस्य पच्यतीति जानितव्यं । विप्रलब्धो भिक्षुसङ्घो ति  
+(इ।प्।५२) आगच्छिय यदि ताव अनुग्रहो भवति अनुग्रहो साधयितव्यो ।  
+अनुग्रहो न भवति भक्तानि भवन्ति । भक्तानि उद्दिशितव्यानि । भक्तानि  
+न भवन्ति रणरणा(य) गण्डि आहणिय वक्तव्यं । आयु(४ब्६)ष्मन्  
+विप्रलब्धो भिक्षुसङ्घो स्वकस्वकां वृत्तिं पर्येषथ । सर्व्वेहि  
+पटिपाटिकाय पिण्डाय प्रविशितव्यं । अथ दानि ते जल्पन्ति । भन्ते एतं  
+सिध्यति प्रविशति(तु) भिक्षुसङ्घो ति ततो रणरणाय गण्डी आहणिय यदि  
+ताव हेमन्तो भवति अनुकालं (ज्।१५) प्रविशितव्यं । मा कालो  
+तिक्रयि(मि)ष्यतीति । अथ दानि ग्रीष्मो कालो भवति शीतलकसङ्गेन  
+अनुकाल्यं प्रविशितव्यं ॥   
+     अथ (४ब्७) दानि वर्षारात्रो कालो भवति देवान्तरायेन अनुकाल्यं  
+प्रविशितव्यं । मा कालो अतिक्रमिष्यतीति । यदि ताव (न) सञ्ज्ञ(ज्ज)म्  
+भवति । महन्तो च कालो भवति कहिञ्चि च गन्तुकामो भवति । कस्यचित  
+भिक्षुस्य जल्पितव्यं । अमुकं कुलं उपसङ्क्रमिष्यथ यदा सज्जं  
+भवेय । ततो मा पटिसरेसि । न दानि तेन आमन्त्रितं मया ति  
+भद्रपालकृत्येहि हण्ठितव्यं । अथ खलु प्रति(५अ१)कृत्येव आगन्तव्यं  
+प्रविशतेहि जानितव्यं । कथं आसना प्रज्ञप्ताः । अतिदक्षिणम् अनुवामां  
+कदाचि मङ्गलकरणीये अतिदक्षिणं प्रज्ञप्तं भवति । तथा येव  
+उपवेष्टव्यं । अथ दानि प्रेतकरणीये अनुवामं प्रज्ञप्तं भवति ।  
+तथा येव उपवेष्टव्यं नापि दानि क्षमति । प्रविशन्तेहि भण्डं  
+लङ्घन्तेहि कांसभाजनं लङ्घन्तेहि दारकदारिकां लङ्घन्तेहि  
+गन्तुं । अथ खलु भण्डं प(५अ२)रिवर्जन्तेहि कांसभाजनं  
+परिवर्जन्तेहि दारकदारिकाम्स परिवर्जन्तेहि प्रविशितव्यं । नापि दानि  
+क्षमति गतागतस्य उपविशन्त(तु)ं । अथ खलु हस्तेन आसनं  
+प्रत्यवेक्षितव्यं । अनैकायो तत्र गर्भरूपाणि सोपायितकानि भवेंसुः ।  
+कांसभाजनानि वा थपितकानि भवेंसुः । अथ खलु हस्तेन  
+पराम्मृशियाण जानितव्यं । ओहेष्य(य्य)कानां (ज्।१६) ग्लानकानां  
+प्रतिकृत्ये(५अ३)व दापितव्यं । अथ दानि सो मनुष्यो अनाचीर्ण्णदानो वा  
+भवति । तित्तिनो वा भवति न दानि अध्युपेक्षितव्यं । वक्तव्यं दीर्घायु  
+अवश्यन् तेषां दातव्यं पिण्डपातं (इ।प्।५३) । अथ दानि दायकदानपति  
+जल्पन्ति पटिपाटिकाय गृह्नथ न्ति(त्ति) हेमन्तो च कालो भवति वक्तव्यं  
+नहि न्ति(त्ति) । भगवता अनेकपर्यायेण ग्लानो परित्तो किम् वा अम्भेहि  
+विहारशू(५अ४)न्यं शक्यं कर्त्तुं ति लघु कालो अतिक्रमति । देथ यूयन् ति  
+अथ दानि ग्रीष्मो वा वर्षा वा रात्रो वा कालो भवति चिरेहि कालो  
+अतिक्रमति । पटिपाटिकाय गृह्नितव्यं । ततो सङ्घस्थविरेण जानितव्यं ।  
+किं आरभ्य देति तथा येच(व) निमन्त्रणापेतव्यं भोजनं दीयति  
+महन्तो पिण्डो परिगृहीतो भवति । सङ्घस्थविरेण वक्तव्यं । सर्व्वेषां  
+एत्त(५अ५)क-एत्तकं भविष्यति । आह । नहि आर्यस्य एतं एवं दीयति  
+वक्तव्यं । तथा देहि । यथा सर्व्वेषां समं भवति । अथ दान् आह  
+भविष्यतीति प्रतीच्छितव्यं । अथ दानि सो थोकिना अर्थिको भवति  
+वक्तव्यं मम थोकं देहि हेष्ठा बहुं एवं ॥ पे ॥ सूपस्य घृतस्य  
+मांसस्य ओलङ्कानां दधिस्य ततो नापि क्षमति सङ्घस्थविरेण लब्धो  
+पिण्डो (५अ६) द्वारं पश्यिय लप्यल(प्)याये भुञ्जियाण उत्थिहिय गन्तुं ।   
+     अथ खलु ओदनसम्पत्तिर् व्वा आगमन्तेन भुञ्जितव्यं ।  
+व्यञ्जनसम्पत्तिर् व्वा आगमन्तेन भुञ्जितव्यं न भुञ्जित्वा हस्तं  
+निक्षिपिय आसितव्यं । मा हेव ओत्रपेंसु । अथ खलु अनुजानेतव्यं । यदा  
+नवकाः सन्तर्पिता भवन्ति । उपग्रायन्ति पानीयं वा पिबन्ति । हस्ताम् वा  
+उक्कढ्ढिय आसन्ति । न दानि सङ्घस्थविरेण भुञ्ज(५अ७)न्तकेनैव  
+उत्थाय आसनातो गन्तव्यं । लब्धो पिण्डो द्वारं पश्यिय । अथ खलु  
+सङ्घस्थविरेण आगमेतव्यं । दीर्घोदकं दापेतव्यं । परिकथा  
+कर्त्तव्या । दक्षिणा आदिसितव्या । जानितव्यं । किम् आलम्बनं भक्तं  
+जातकं मृतकम् वा चे(वे)वाहिकम् वा गृहप्रवेशकम् वा आगन्तुकस्य  
+गमिकस्य गृहस्थस्य प्रव्रजितस्येति ।   
+     यदि ताव जान(त)कम्भवति । नायं दक्षिणा आदि(शि)त(५ब्१)व्या ।  
+              अयं कुमारो शिवपथिकाय च्छन्दितो   
+              अङ्गुष्ठस्नेहेन यापये सप्तरात्रं   
+              शुनखा शृगाला च नं लङ्घयन्तु ।   
+(इ।प्।५४) काका च अक्षिमलं हरन्ता  
+(ज्।१८) नायं एवं दक्षिणा आदिशितव्या ।   
+    
+     अथ खलु दक्षिणा आदिशितव्या ।  
+              अयं कुमारो शरणं उपेतु   
+              बुद्धं विपश्यिञ् च शिखि(ञ्) च विश्वभुं  
+              क्रकुच्छन्द कोनाकमुनिञ् च काश्यपं   
+              महायशं शाक्यमुनिञ् च गौतमं ।   
+              एतेहि बुद्धेहि महर्द्धिकेहि   
+              (५ब्२)ये देवता सन्ति अभिप्रसन्ना   
+              ता नं रक्षन्तु ता च नं पालयन्तु  
+              यथा नं इच्छति माता यथा नं इच्छति पिता  
+              अतो श्रेयतरो भोतु कुमारो कुलवर्द्धनो ।   
+     एवं दक्षिणा आदिशितव्या ।   
+    
+     अथ दानि मृतकं भवति । नायं क्षमति । एवं दक्षिणा आदिशितुं       
+अद्य ते सुदिवसं सुमहाबलं   
+              भद्रकाक्षण मुहूर्त्तं प्रस्थिता  
+              अद्य ते सुविहिते सुविहितेहि ।   
+              दक्षिणा अग्रभाजनग(५ब्३)गता विरोचति ।  
+     (ज्।१९) नायं एवं दक्षिणा आदिशितव्या ।  
+    
+     अथ खलु दक्षिणा आदिशितव्या ।  
+              सर्व्वसत्वा मरिष्यन्ति मरणान्तं हि जीवितं ।   
+              यथाकर्म्म गमिष्यन्ति पुण्यपापफलोपगाः ॥   
+              निरयं पापकर्म्माणो कृतपुण्या च स्वर्ग्गतिं ।   
+              अपरे मार्ग्गम् भावयित्वा परिनिर्व्वान्ति अनाश्रवा इति ॥   
+    
+     (इ।प्।५५) एवं दक्षिणा आदिशितव्या ॥  
+    
+     अथ दानि वेदा(वा)हिकं भवति । ना(५ब्४)यं दक्षिणा आदिशितव्या ।  
+              नग्ना नदी अनोदिका नग्नं राष्ट्रं अराजकं ।  
+              इस्त्री पि विधवा नग्ना सचेस्या दश भ्रातरो   
+     (ज्।२०) नायं एवं दक्षिणा आदिशितव्या ।  
+    
+     अथ खलु दक्षिणा आदिशितव्या ।  
+              इस्त्रि पि पेशला भवतु श्राद्धा भवतु पतिव्रतानुगा   
+              शीलवती यो(त्या)गसम्पन्ना सम्यग्दृष्टि च या इह ।  
+              पुरुषो पि पेशला भवतु श्राद्धो भवतु व्रता(५ब्५)नुगो ।  
+              शीलवां त्यागसम्पन्नो सम्यग्दृष्टि च यो इह ॥  
+              उभौ श्रद्धाय सम्पन्ना उभौ शीलो(ले)हि संवृता ।   
+              उभौ पुण्यानि कृत्वान समशीलव्रता उभौ ॥  
+              विधिना देवलोकस् तु मोदन्तु कामकामिनो ।   
+              ताम् एव भार्यां चरेया यो अस्या सीलेहि संवृता ॥  
+              असतिं परिवर्जेया मार्ग्गं प्रतिभयं यथा ।   
+     एवं दक्षिणा आदिशितव्या ॥  
+    
+     अथ दा(५ब्६)नि घरप्रवेशनिकं भवति । नायं दक्षिणा आदिशितव्या ।  
+              (ज्।२१) आदीप्तस्मिं आगरे यो निहरति भण्डकं तं   
+              खु तस्य स्वकं भवति । न खलु यो तत्र दह्यति ।  
+              एवम् आदीपिते लोके मृत्युना च जरया च  
+              यो नीहरति । दानेन दिन्नं तं आहुति हुतं ।  
+     नायं एवं दक्षिणा आदिशितव्या ॥  
+    
+     अथ खलु दक्षिणा आदिशितव्या   
+              विभक्तभागं रुचिरं मनोरमं   
+     (इ।प्।५६) प्रशस्तम् आर्ये[ह्]इ नवं निवे(५ब्७)शनं ।  
+              प्रविश्य वृद्धिये वराये भूरीये   
+              शिरीये लक्ष्मीपरिग्रहेण च ।  
+              इमस्मि आगारे निवसन्तु देवताः ।   
+              महाभिषङ्क न च अनुकम्पिका  
+              यं विभवधनधान्येन सम्भवो   
+              भूर् इमे च सा यस्मिं प्रदेशे   
+              मेधावी वा सङ्कल्पेति पण्डितो   
+              शीलवातन्त्र(न् तत्र) भोजेया संयतां ब्रह्मचारिणो ।   
+              (ज्।२२) या तत्र देवता अस्या तासां दक्षिणाम् आदिशेहि ।  
+              ताये वस्तुमालानां चिररात्राय क(६अ१)ल्पते ॥  
+              भोजनावस्तुपाला सत्कृता प्रतिमानिता ।  
+              ग्रामे वा यदि वारण्ये निम्ने वा यदि वा स्थले   
+              दिवा वा यदि वा रात्रौ देवा रक्षन्तु दायकान् ॥  
+              देवानुकम्पितो पोषो सदा भद्राणि पश्यति ॥   
+     एवं दक्षिणा आदिशितव्या ।  
+    
+     अथ दानि गमिकं भक्तं भवति । नायं दक्षिना आदिशितव्या ।  
+              सर्व्वा दिशासु भया समाकुला   
+              स-उत्तरा सपुरस्तिमा [दक्षि]णा पश्चिमा च   
+              स(६अ२)सर्व्वो च लोको सङ्कुलजातो   
+              मा प्रमज्जि जिनशासने ॥  
+     नायं एवं दक्षिणा आदिशितव्या ॥  
+    
+     अथ खलु दिशा सौवस्तिका दक्षिणा विस्तरेण दक्षिणा आदिशितव्या ।   
+     यथा पात्रप्रतिसंयुक्ते एवं दक्षिणा आदिशितव्या ।  
+     अथ दानि प्रव्रजितस्य भवति । नायं दक्षिणा आदिशितव्या   
+                   (ज्।२३)पुत्रम् वा पशुम् वा आरभ्य धनधान्यप्रियाणि वा  
+     (इ।प्।५७) देवभावं वा मनुष्यम् वा पञ्चधो (६अ३) मनसि प्रीयन्ति ।  
+     न एवं दक्षिणा आदिशितव्या ॥  
+    
+     अथ खलु दक्षिणा आदिशितव्या ।  
+              सुदुष्करं प्रव्रजितस्य दानं पात्रेण भैक्षं अभिसाहरित्वा ।   
+              कुलात् कुलं चरिय पिण्डपातं क्रुद्धप्रसन्नानां मुखं   
+              उदीक्षियं ॥  
+              सो यं श्रेष्ठायतने प्रतिष्ठितो पात्रसंहृतो लाभो प्रीतिं जनेहि  
+              सुविहिता तथा हि दिन्नं इमं दानन् ति ।  
+     एवं दक्षिणां । (६अ४) आदिशिय गन्तव्यं ।  
+     एवं सङ्घस्थविरेण भक्ताग्रे प्रतिपद्यितव्यं । न प्रतिपद्यति ॥  
+अभिसमाचारिकां धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+     इ।५ म्स्।६अ४ (ज्।२३।१२); छ्।४९९च्२८   
+     भगवान् श्रावस्त्याम् विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च ।  
+विस्तरेण निदानं कृत्वा सङ्घस्य दानि बाहिरकं भक्तं । आयुष्मान्  
+नन्दनो सङ्घस्थविरो उपनन्दनो द्वितीयस्थविरो सङ्घस्थविरो  
+आग(६अ५)तो द्वितीयस्थविरो नागच्छति । दायकदानपति पृच्छन्ति । आर्य किं  
+समग्रो भिक्षुसङ्घो भिक्षू आहंसु । नोहेति दीर्घायु को दानि  
+नागच्छति (ज्।२४) आहंसु द्वितीयस्थविरो नागच्छति । ते दानि ओध्यायन्ति ।  
+पश्यथ भणे वयं येव भा(ता)व कर्म्मान्तां च्छोरिय आगच्छाम  
+समग्रं भिक्षुसङ्घं परिविशिष्याम । आर्यमिश्राणाञ् च पादां  
+वन्दिष्यामः (६अ६) द्वितीयस्थविरो नागच्छति । सङ्घस्थविरो पि  
+ओध्यायति । अस्माकं भगवां दण्डकर्म्मन् देति । द्वितीयस्थविरस्य  
+मुन्ति(त्ति)का ॥ एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु । भगवान्  
+आह । शब्दापयथ उपनन्दनं सो दानि शब्दापितो भगवान् आह । सत्यं  
+उपनन्दन एवं नाम सङ्घस्य बाहिरकं भक्तं नन्दनो  
+सङ्घस्थविरो त्वं द्वितीयस्थविरो सङ्घस्थविरो आगतो भि(६अ७)क्षू  
+आगताः । त्वं नागच्छसि । दायकदानपति पृच्छति । आर्य किं समग्रो  
+भिक्षुसङ्घो भिक्षू आहंसु । नहि को खलु नागच्छति द्वितीयस्थविरो  
+नागच्छति । ते दानि ओध्यायन्ति । वयं (इ।प्।५८) येव ताव कर्म्मान्तं ।  
+च्छोरिय आगता गच्छामः । समग्रं भिक्षुसङ्घं परिविशिष्यामः ।  
+आर्यमिश्राणां च पादां वन्दिष्यामः । द्वितीयस्थविरो नागच्छति ।  
+सङ्घस्थविरो पि ओध्यायति । अ(६ब्१)स्माकं भगवान् दण्डकर्म्म देति ।  
+द्वितीयस्थविरस्य मुत्तिका । आह । आम भगवन्   
+     भगवान् आह । तेन हि एवं द्वितीयस्थविरेण भक्ताग्रे  
+प्रतिपद्यितव्यं । किन् ति दानि द्वितीयस्थविरेण भक्ताग्रे प्रतिपद्यितव्यं ।  
+एषो दानि कोचि भिक्षुसङ्घं भक्तेन निमन्त्रयति । सङ्घस्थविरो (ज्।२५)  
+न प्रतिबलो भवति । द्वितीयस्थविरेण जानितव्यं । को निमन्त्रेति ।  
+भिक्षुभिक्षुनी उपासकोपासिका आग(६ब्२)न्तुको गमिको वाणिजको  
+सार्थवाहो किन् नामको किं जातिको किं कर्म्मिका से मातापितरौ  
+कतमस्मिन् देशे गृहं कतमायां रथ्यायां कुतो मुखं गृहस्य  
+द्वारं । साकारं सोद्देशं पृच्छिय ततो धिवासयितव्यं । नायं  
+अधिवासितं मयेति । यत्रोल्लग्नाये आसितव्यं ।   
+     यदि ताव सङ्घस्थविरो न प्रतिबलो भवति द्वितीयस्थविरेण  
+अपरेज्जुकाये च मासचा(६ब्३)रिको वा पक्षचारिको । प्रेषयितव्यो वक्तव्यं  
+गच्छ जानाहि । असुके देशे असुकायां रथ्यायां इत्थन्नामो नाम  
+उपासको तेन भिक्षुसङ्घो निमन्त्रितो जानाहि किं सिध्यति किं पच्यति ।  
+तेन प्रविसियाणं तहिं पृच्छितव्यं । आरोग्यं दीर्घायु कोचि इमंहि  
+इत्थन्नामो नाम उपासको आह भन्ते किं करिष्यसि । वक्तव्यं । तेन  
+भिक्षुसं,(६ब्४)घो भक्तेन निमन्त्रितो किं सिध्यति वा किं पच्यति वा ति ।  
+यदि तावद् आह । भन्ते किस्य उपासको कहिं उपासको ति नामास्माकं कोचि  
+उपासको न सिध्यति । न पच्यति त्ति जानितव्यं विप्रलब्धो भिक्षुसङ्घो ति ।  
+आगच्छियाणं यदि ताव अनुग्रहो भवति । अनुग्रहो साधितव्यो अनुग्रहो  
+न भवति । भक्तकानि भवन्ति । भक्तका उद्दिशितव्यानि । (६ब्५) (ज्।२६)  
+भक्तकानि न भवन्ति । रणरणाय गण्डिं आहणियाणं आरोचितव्यं  
+वक्तव्यं । आयुष्म(न्)तो विप्रलब्धो भिक्षुसङ्घो स्वकस्वकां वृत्तिं  
+पर्येषथेति । सर्व्वेहि पटिपाटिकाय पिण्डाय चरितव्यं । अथ दानि आह  
+भन्ते एतं सिध्यति एतं पच्यति । प्रविशन्तु आर्यमिश्राः रणरणाय  
+गण्डिं आहणियाणं प्रविशितव्यम्, ।   
+     (इ।प्।५९) यदि ताव हेमन्तकालो भव(६ब्६)ति अनुकल्लतरकम्  
+प्रविशितव्यम् । ब(ल)हुं कालो अतिक्रमति । अथ दानि ग्रीष्मकालो भवति ।  
+उष्णसन्तापेन अनुकर्ण्ण(ल्ल)तरकम्, प्रविशितव्यं । अथ दानि  
+वर्षारात्रकालो भवति । देवान्तरेण प्रविशितव्यम्, । ततो नापि क्षमति  
+भण्डं लङ्घंयन्तेहि प्रविशितुं । अथ खलु भण्डं परिवर्जयन्तेहि ।  
+याव दारकदारिकां परिवर्जयन्तेहि । प्रविशितव्यं ततो न क्षमति ।  
+गतागतस्य (६ब्७) उपविशितुम्, । अनेकाये तहिं आसनेहि दारकदारिका वा  
+सोवापिता भवेंसु । अथ खलु हस्तेहि प्रत्यवेक्षियाणं अनन्तरिकाणां  
+आसनानि वर्जयन्तेहि ॥ उपविशितव्यं । यदि ताव हेमन्तकालो भवति ।  
+लघु कालो अतिक्रमति । ओहेय्यग्लानकानां पिण्डपातो दापयितव्यो । अथ  
+दानि दायकदानपति जल्पन्ति । भन्ते पटिपाटिकाय गृह्नथ न्ति(त्ति) ।  
+वक्तव्यं । नहि । भगव(७अ१)तानेकपर्यायेण ग्लानो परीत्तो किम्  
+अस्माभिः विहारको शून्यको कर्त्तव्यो । लघु कालो ति(ज्।२७)क्रमति । देथ  
+यूयं ति अथ ग्रीष्मकालो वर्षारात्रो वा भवति । चिरेण कालो अतिक्रमति ।  
+ओहेय्यग्लानकानां पटिपाटिकाये पिण्डपातो गृह्नितव्यो । सङ्घस्थविरो न  
+प्रतिबलो भवति । द्वितीयस्थविरो प्रतिबलो भवति न क्षमति ।  
+द्वितीयस्थविरेण हन्तहन्ताये भुञ्जियाणं लब्धो पि(७अ२)ण्डो द्वारं  
+पश्यिय उत्थिय गन्तुं ।   
+     अथ दानि सङ्घस्थविरो न प्रतिबलो भवति द्वितीयस्थविरो प्रतिबलो  
+भवति । द्वितीयस्थविरेण ओदनसम्पत्ति आगमयन्तेन भुञ्जितव्यं ।  
+व्यञ्जनसम्पत्तिम् वा । आगमयन्तेन भुञ्जितव्यं । यं कालं नवका  
+भिक्षू उ(प)ग्रायन्ति वा पानीयम् वा पिबन्ति हस्तानि ओकढिय आसन्ति ततो  
+यदि ताव सङ्घस्थविरो न प्रतिबलो भवति । द्वितीयस्थविरेण  
+जानित(७अ३)व्यं किमारम्बणं । एव(त)ं भक्तं जातकं मृतकं  
+वेवाहिकं घरप्रवेशकं आगन्तुकस्य गमिकस्य गृहस्थस्य  
+प्रव्रजितस्येति । यथा भवति । तथा दक्षिणा आदिशितव्या । यथा  
+प्रथमके शिक्षापदे एवं द्वितीयस्थविरेण भक्ताग्रे  
+प्रतिपदि(द्यि)तव्यं । तथा येच(व) दक्षिणा आदिशितव्या । या(यो) ततो  
+आगन्तव्यं । एवं द्विती-यस्थविरेण भक्ताग्रे प्रतिपद्यितव्यम्, । (७अ४) न  
+प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+(इ।प्।६०)   
+     इ।६ म्स्।७अ४ (ज्।२८।१); छ्।५०१च्४   
+     (ज्।२८) भगवान् श्रावस्त्याम् विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा सङ्घस्य दानि बाहिरकं भक्तं । आयुष्मन्  
+नन्दनो सङ्घस्थविरो आयुष्मान् उपनन्दनो द्वितीयस्थविरो  
+सङ्घस्थविरो आगतो द्वितीयस्थविरो आगतो भिक्षू ओसरन्तिकाये  
+आगच्छन्ति । दायकदा(७अ५)नपति पृच्छन्ति । आर्य किं समग्रो  
+भिक्षुसङ्घो भिक्षु आहंसु । नोहेतं दीर्घायु को दानि नागच्छति  
+भिक्षू आहंसु । ओसरन्तिकाये आगच्छन्ति । ते दानि ओध्यायन्ति । वयम् एव  
+ताव कर्म्मान्तां च्छोरय आगता गच्छामः समग्रं भिक्षुसङ्घं  
+परिविशिष्यामः । आर्यमिश्राणां च पादां वन्दिष्याम न्ति(त्ति) । इमे पि  
+आर्यमिश्रा ओसरन्तिकाये आगच्छन्ति । सङ्घस्थ(७अ६)विरो च द्वितीयस्थविरो  
+च ओध्यायन्ति । अस्माकं भगवान् दण्डकर्म्मन् देति ॥ इमेषां  
+मुक्तिका । एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु । भगवान् आह ॥  
+शब्दापयथ भिक्षून् । ते दानि शब्दापिताः । भगवान् आह ॥ सत्यं  
+भिक्षवो एवं नाम सङ्घस्थविरस्य बाहिरकं भक्तं नन्दनो  
+सङ्घस्थविरो उपनन्दनो द्वितीयस्थविरो आगतो यूयं ओसरन्तिकाये  
+आगच्छथ दायक(७अ७)दानपति पृच्छन्ति । आर्य किं समग्रो भिक्षुसङ्घो  
+न्ति(त्ति) । भिक्षू आहंसु नोहीदं दीर्घायु को दानि न(ना)गच्छति भिक्षू  
+ओसरन्तिकाये आगच्छन्ति । ते दानि ओध्यायन्ति वयम् एव ताव कर्म्मान्ता  
+च्छोरिय आगता गच्छाम । समग्रं भिक्षुसङ्घं परिविशिष्याम न्ति(त्ति) ।  
+आर्यमिश्राणाञ् च पादम् वन्दिष्याम न्ति(त्ति) । इमे पि आर्यमिश्रा (ज्।२९)  
+ओसरन्तिकाये आगच्छन्ति । सङ्घस्थविरो च । द्वितीयस्थविरो च  
+ओध्या(७ब्१)यन्ति । अस्माकं भगवान् दण्डकर्म्मन् देति । इमेषां  
+मोत्तिका आहंसु । आम भगवन्   
+     भगवान् आह । तेन हि सर्व्वेहि एवं भक्ताग्रे प्रतिपद्यितव्यं । किन् ति  
+दानि एवं सर्व्वेहि भक्ताग्रे प्रतिपद्यितव्यं । एषो दानि कोचि सङ्घं  
+भक्त(क्तेन) निमन्त्रेति । सङ्घस्थविरो न प्रतिबलो भवति  
+द्वितीयस्थविरो न प्रतिबलो भवति । यो तत्र प्रतिबलो भवति । तेन  
+जानितव्यं । को यं नि(७ब्२)मन्त्रेति भिक्षुभिक्षुणी उपासक-उपासिका  
+गृहस्थो प्रव्रजितो वाणिजको सार्थवाहो आगन्तुको गमिको नापि क्षमति ।  
+गतागतस्य अधिवासितुं ॥ अथ खलु पृच्छितव्यं । किन् नामको सि किं  
+गोत्रको सि किं कर्म्मिका ते (इ।प्।६१) मातापितरौ । कतमे देशे गृहं कुतो  
+मुखं कतमाये रथ्याये कुतो मुखं गृहस्य द्वरं साकारं  
+सोद्देशं पृच्छियाणं । ततो धिवासयितव्यं नापि दा(७ब्३)नि क्षमति ।  
+अधिवासितं मयेति । तत्रोल्लगिकाये आसितुं ।  
+     अथ खलु यदि ताव सङ्घस्थविरो न प्रतिबलो भवति । द्वितीयस्थविरो  
+न प्रतिबलो भवति यो प्रतिबलस् तेन प्रकृत्येव मासचारिको वा  
+पक्षचारिको वा प्रेषयितव्यो । अनेकाये तहिं जातकं मृतकम् वा भवेय  
+राजभयं वा चोरभयम् वा ढोस्सभयम् वा वातपुत्रभयम् वा  
+विहेठना(७ब्४)भिप्राया निमन्त्रयेंसु ॥ तेन गच्छियाण तहिं गृहं  
+पृच्छितव्यं । कोचि इम(ं)हि एवन्नामको उपासको दानपती वा वाणिजका  
+(ज्।३०) वा ति किम् वा एतत् ति वक्तव्यं भिक्षुसङ्घो तेन भक्तेन निमन्त्रितो  
+यदि ताव आहंसु नास्ति कोचि इमंहि एवन्नामको किःस उपासको । कस्य  
+भक्तं कथं भक्तं ति जानितव्यं । विप्रलब्धो भिक्षुसङ्घो त्ति ततो  
+आगच्छिय यदि ताव (७ब्५) अनुग्रहो भवति साधयितव्यो अनुग्रहो न  
+भवति । भक्तकानि भवन्ति भक्तकानि उद्दिशितव्यानि । अथ दानि  
+भक्तकानि न भवन्ति । रणरणाय गण्डिं आहणिय याव सर्व्वेहि  
+पटिपाटिकाये पात्राणि गृह्निय प्रविशितव्यं पिण्डपातं । अथ दानि ते  
+जल्पन्ति भन्ते एव(त)ं सिध्यति । एतं पच्यति । यावत् पात्राणि गृह्निय  
+प्रविशितव्यं । यदि ताव हेमन्तकालो भवति । अ(७ब्६)नुकर्ण्ण(ल्ल)ं  
+प्रविशितव्यं । लघुं कालो अतिक्रामति ॥  
+     अथ दानि ग्रीष्मकालो भवति अनुकालं उष्णंशङ्केन प्रविशितव्यं ।  
+वर्षारात्रो भवति देवान्तरेण अनुकर्ण्ण(ल्ल)अं प्रविशितव्यं । ततो न  
+क्षमति । भण्डम् वा लङ्घयतेन प्रविशितुं भाजनम् वा  
+लङ्घयन्तेहि । प्रविशितुं दारकदारिका लङ्घयन्तेहि प्रविशितुं । अथ  
+खलु भण्डं परिहरन्तेहि दारकदारिकां परिहरन्तेहि प्रविशितव्यं  
+त(७ब्७)तो नापि क्षमति । प्रविष्टेहि गतागतस्य उपविशितुं । अनेकाये तहिं  
+आसनेहि गर्भरूपा सोवापितानि भवेंसु ॥ भाजनकानि वा थपितकानि  
+भवेंसुः । अथ खलु हस्तेन प्रत्यवेक्षियाण आनन्तरियाणां आसनानि  
+वर्जयन्तेहि । यथावृद्धिकाये उपविशितव्यं ।   
+     ततो यदि ताव हेमन्तकालो भवति । (ज्।३१) लघु कालो अतिक्रमति । (इ।प्।६२)  
+ओहेय्यग्लानकानां पिण्डपा[तो] ++[प]यितव्यो । अ(८अ१)थ दानि  
+दायकदानपति जल्पन्ति । भन्ते ओहेय्यग्लानकानां पटिपाटिकायो  
+पिण्डपातं गृह्नथेति वक्तव्यं । नहीति । लघु कालो अतिक्रमति ।  
+भगवता च अनेकपर्यायेण ग्लाणो परिन्दितो किं अम्भेहि शक्यम्  
+विहारको शून्यको कर्तुन् ति । अथ दानि ग्रीष्मो वा वर्षारात्रो वा कालो  
+भवति । न लहुं कालो अतिक्रमति । ओहेय्यग्लानकानां पटिपाटिकाये  
+पिण्डपातो [गृह्नितव्यो] न क्षमति ल(८अ२)ब्धालब्धं हन्तहन्ताये  
+भुञ्जिय लब्धो पिण्डो द्वारं पश्यिय उत्थिय गन्तुं । अथ खलु यदि ताव  
+सङ्घस्थविरो न प्रतिबलो भवति द्वितीयस्थविरो न प्रतिबलो भवति । यो  
+तत्र प्रतिबलो भवति । तेन ओदनसम्पत्ती वा आगमेतव्यं  
+व्यञ्जनसम्पत्ती वा आगमन्तेन भुञ्जितव्यं । तेन दक्षिणा आदिशितव्या ।  
+जानितव्यं किम् आलम्बनं । एतं भक्तं जातकं मृतकं [वेवा]हिकं वा  
+घरप्र(८अ३)वेशिकं वा आगन्तुकस्य गमिकस्य गृहस्थस्य प्रव्रजितस्येति ।  
+     ततो यदि ताव जातकं भवति नायं दक्षिणा आदिशितव्या ।  
+              (ज्।३२) (अयम्) कुमारो सि।वपसि(थि)का(य) च्छो(च्छ)(न्दि)तो   
+              अङ्गुष्ठस्नेह(हे)न यापयति । सप्तरात्रं   
+              शुनखा शृगा(ला) चे(च) नं लङ्घयन्तं ।  
+              काको च से अक्षिमलं हरन्तं ति   
+     नायं एवं दक्षिणा आदिशितव्या ।  
+    
+     अथ खलु दक्षिणा आदिशितव्या ।  
+              अयं कुमारो शरणं उपेतु (८अ४)   
+              बुद्धं विपश्यिञ् च शिखिञ् च विश्वभुव ।  
+              क्रकुच्छन्दो च कनकमुनिञ् च काश्यपं   
+              महामुनिं शाक्यमुनिं च गोतमं ॥  
+              एतेहि बुद्धेहि महर्द्धिकेहि   
+              ये देवता सन्ति अभिप्रसन्नाः ।  
+     (इ।प्।६३) ता नं रक्षन्तु (ता च नं पालयन्तु)   
+              यथा इच्छति से माता । यथा इच्छति से मा(पि)ता   
+              अतो श्रेयतरो भवन्तु कुमारो कुलवर्द्धनो   
+     (ज्।३३) एवं दक्षिणा आदिशितव्या ।   
+     तथा येव दक्षिणायो विस्तरेण कर्त्तव्यायो यथा (८अ५) सङ्घस्थविरस्य  
+भक्ताग्रे एवं सर्व्वेहि भक्ताग्रे प्रतिपद्यितव्यं । न प्रतिपद्यन्ति ॥  
+असि(भिस)माचारिकां धर्म्मां अतिक्रामति ॥ * ॥  
+    
+     इ।७ म्स्।८अ५ (ज्। ३३।५); छ्।५०१च्१४   
+     भगवान् श्रावस्त्यां विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा । ते दानि आयुष्मन्तो नन्दनोपनन्दना  
+षड्वर्ग्गिकाश् च उपसम्पादेन्ति । ते दानि उपसम्पादिय न ओवदन्ति । न  
+अनुशासन्ति । ते दानि इन्द्र(८अ६)गवा विय वर्द्धयन्ति । शिवच्छगला  
+धिप(विय) वर्चति(द्धयन्ति) । अनाकल्पसम्पन्नाः ।  
+अनीर्यापथसम्पन्नाः । न जानन्ति । कथम् उपाध्याये  
+प्रतिपद्यितव्यम्, । कथम् आचार्ये प्रतिपद्यितव्यं । कथं वृद्धतरके  
+प्रतिपद्यितव्यं । कथं सङ्घमध्ये प्रतिपद्यितव्यं । कथं ग्रामे  
+प्रतिपत्तव्यं । कथं आरण्ये प्रतिपत्तव्यं । कथं निवासयितव्यं ।  
+कथं प्रावरितव्यं । कथं सङ्घाटीपात्रचीवरधारणे  
+प्रतिपद्यितव्यं ॥ (८अ७) एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु  
+भगवान् आह । शब्दापयथ नन्दनोपनन्दनां । षड्वर्ग्गिकांश् च । ते  
+दानि शब्दापिता । भगवान् आह ॥ एवं नाम यूयं उपसम्पादेथ ।  
+उपसम्पादिय न ओवदथ न अनुशासयथ न्ति(त्ति) । तद् एवं सर्व्वं  
+भगवान् विस्तरेण प्रत्यारोचयति । याव (ज्।३४) कथं  
+सङ्घाटीपात्रचीवरधारणे प्रतिपद्यितव्यं । आहंसु । आम भगवन्   
+     भगवान् आह । एवं (८ब्१) दाणि यूयं उपसम्पादिय नैवोवदथ  
+नानुशासथ तेन हि एवं उपाध्यायेन श्रा(सार्)द्धविहारेस्मिं  
+प्रतिपद्यितव्यं । किन् ति दानि उपाध्यायेन श्र(सार्)द्धेविहारेस्मिं  
+प्रतिपद्यितव्यं । उपाध्यायेन ताव श्रा(सार्)द्धेविहारिं  
+उपसम्पादेतुकेनैव उभयतो विनयो ग्राहयितव्यो उभयतो विनयं न  
+पारयति एकतो विनयो (इ।प्।६४) ग्राहयितव्यो । एकतो विनयं न पारयति ।  
+पञ्चसूत्राणि विस्त(८ब्२)रेण ग्राहयितव्यो पञ्चसूत्राणि न पारयति चत्वारि  
+धा(वा) त्रीणि दुवे एकं सूत्रं विस्तरेण ग्राहयितव्यो । एकं सूत्रं न  
+पारेति त्रिंशतो पि ग्राहयितव्यो । शिष्टकं अभीक्ष्ण(श्रुति)कायो गाथायो च  
+त्रिंशतो पि न पारेति द्वे अनियतां ग्राहयितव्यो । शिष्टकं  
+अभीक्ष्णश्रुतिकायो गाथायो च द्वे अनियता न पारेन्ति । अन्तमसतो चत्वारि  
+पाराजिकां ग्राहयितव्यो शिष्टकं अभीक्ष्णंश्रुतिकायो गा(८ब्३)थायो च  
+शेखयितव्यो । अनुशासयितव्यो काल्यं मध्यन्तिकं सायं सायं  
+अभिधर्म्मेण वा अभिविनयेन वा अभिधर्म्मो नाम नवविधो  
+सूत्रान्तो सूत्रं गेयं व्याकरणं गाथा उदानं इतिवृत्तकं जातकं  
+वैपुल्याद्भुताधर्म्मा । अभिविनयो नाम प्रातिमोक्षो  
+सङ्क्षिप्तविस्तरप्रभेदेन । अथ दानि न प्रतिबलो भवति । उद्दिशितुम्, ।  
+आपत्तिकौशल्यं शि(८ब्४)क्षितव्यो । सूत्रकौशल्यं स्कन्धकौशल्यं  
+आयतन(ज्।३५)कौशल्यं प्रतीत्यसमुत्पादकौशल्यं ।  
+स्थानास्थानकौशल्यं आचारं शेखयितव्यो । अनाचारतो चा(वा)रयितव्यो ।  
+अथ दानि ओवदति । सो एव तस्य ओवादो एवं स्वाध्यायति । अरण्ये वसति ।  
+प्रहाणे उपविशति । सो एवास्य ओवादो उपाध्यायो श्र(सार्)द्धेविहारि  
+उपसम्पादिय न ओव(८ब्५)दति । न अनुशासति । न उद्दिशति । न  
+स्वाध्यायति । न अरण्ये वसति । न प्रहाणे उपविशति । अन्तमसतो  
+वक्तव्यो । अप्रमादेन सम्पादेहीति । न ओवदति विनयाति(क्र)मं  
+आसादयति । एवम् उपाध्यायेन श्र(सार्)द्धेविहारिस्मिं प्रतिपद्यितव्यं ।  
+न प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥  
+     इ।८ म्स्।८ब्५ (ज्।३५। ९); छ्।५०२अ२   
+     भगवान् श्रावस्त्याम् विहरति । शास्ता देवा(८ब्६)नाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा ते दानि भिक्षू उपसम्पादेन्ति । ते दानि  
+उपसम्पादिताः । उपाध्यायस्य न अल्लिम्य(य्य)न्ति । ते दानि भिक्षू  
+ओध्यायन्ति । अस्माकं भगवान् दण्डकर्म्मन् देति । इमेषां मुक्तिका ।  
+कथं अम्भेहि ओववदितव्याः । अनुशासितव्याः । ये इमे अस्माकं न  
+अव(नैव अ)ल्लीयन्ति । न प्रत्यालीयन्ति । एतं प्रकरणं भिक्षू भगवतो  
+आरोच[येंसु ।]   
+     भगवान् आह । ते(८ब्७)न हि एवं सार्द्धेविहारिणा उपाध्याये  
+प्रतिपद्यितव्यं ॥ किन् ति दानि एवं सार्द्धेविहारिणा उपाध्याये  
+प्रतिपद्यितव्यं । सावे(र्द्धे)विहारिणा ना(ता)व कल्यत एव (ज्।३६)  
+उत्थन्तेन उपाध्यायस्य (इ।प्।६५) विहारस्य द्वारं आकोटयितव्यं यं  
+कालं अभ्यनुज्ञा दिन्ना भवति । ततो द्वारं सुखाकं अपदुरियाण ततो  
+प्रथमं दक्षिणो पादो प्रवेशितव्यो पश्चा वामो प्रवेशय वन्दित्वा  
+सुखशयितं । पृच्छितव्यो उ(९अ१)द्दिशित्वा प्रतिपृच्छित्वा  
+खे(ट)कट(टा)हको निक्कालयितव्यो प्रस्रावकुम्भिका निक्कालयितव्या  
+पीठिका प्रज्ञपयितव्या । हेमन्तकालो भवति मन्दमुखि  
+प्रज्वालयितव्या । मुखोदकं दापयितव्यं । दन्तकाष्ठं धोविय  
+उपनामयितव्यं । सु(मु)खोदकम् आसिञ्चितव्यं । हस्तां निर्म्मादिय  
+हस्तनिर्म्मादनं दातव्यं । पेया उक्कढितव्या । पेया पेयिन्ता  
+पे(य)पात्रं शोधितव्यं । शो[धित्वा] भ[क्तु]द्देशातो (९अ२) भक्तकं  
+ग्रहेतव्यं । भक्तविसर्ग्गो कर्त्तव्यो पात्रं निर्म्मापयितव्यं । पात्रं  
+प्रतिशामयितव्यं ।  
+     गोचरं प्रविशन्तस्य ग्रामप्रवेशनिकानि चीवराणि उपनामयितव्यानि ।  
+विहारचरणकानि चीवराणि प्रतिशामयितव्यानि । आत्मनो चीवरकं  
+गृह्निय पृष्ठतो नुगन्तव्यं । नापि दानि खुराखुरं । अथ खलु  
+नात्यासन्ने (ज्।३७) नातिदूरे तेन दानि गोचरातो निर्ग्गतस्य उपाध्यायस्य  
+चीवराणि प्रस्फो(९अ३)टिय साहरिय प्रतिसामयितव्यानि । आत्मनो स्कन्धे  
+दपि(यि)य शीर्षं ओनामिय पुरतो गन्तव्यं । विहारं आगच्छियाण  
+पीठिका प्रज्ञपयितव्या ग्रामप्रवेशनिकानि चीवराणि एकान्ते  
+स्थपेतव्यानि । विहारचरणकानि चीवराणि उपनामयितव्यानि । पादोदकं  
+उपनामयितव्यं । पादतट्ठकं उपनामयितव्यं । पादा  
+धोपयितव्या । उष्णं भवति स्नापेतव्यो (९अ४) शीतं भवति ।  
+मन्दमुखी प्रज्वालयितव्या ।  
+     यदि पिण्डचारो अण्ठितो भवति । उपनामयितव्यो । नानानावर्ण्णितं  
+भवति पृच्छितव्यो सुविहित कुतो इदं लब्धं असुकातो वेशिककुलातो वडं  
+विधवाये स्थूलकुमारीये पण्डकस्य असुकाये भिक्षुणीये  
+उश्शकियपरिशङ्कियाणि कुलानि व्यपदिशति । वारेतव्यो वक्तव्यो मा तहिं  
+गच्छ । अथ दान् आह । असु(९अ५)केस्मि कुले बुद्धवचनं जल्पितं । ततो  
+लब्धं । वक्तव्यं कारेहि धूमं मा च पुनो आमिषचक्षु देशेसि हस्तान्  
+निर्म्मादिय (इ।प्।६६) हस्तनिर्म्मादनं दातव्यं । पिण्डपातो उक्कढितव्यो  
+पिण्डपात उपनामयितव्यो भुञ्जन्तस्य पानीयं चारितव्यं । वीजनवातो  
+दातव्यो भक्तविसर्ग्गो व(क)र्त्तव्यो भुक्ताविश्य पात्रं अपकर्षितव्यं ।  
+अपक्का च भाजनं भक्तोपधानं श(९अ६)य्यासनं (ज्।३८)  
+प्रतिशामेतव्यं । चीवराणि पात्रं शोधेतव्यं । पात्रं प्रतिसामेतव्यं ।  
+विहारको सिञ्चितव्यो सन्मार्जितव्यो कालेन कालं गोमयकार्षी दातव्या ।  
+शय्याशनं प्रस्फोटयितव्यं । चीवराणि धोवेतव्यानि । सिञ्चितव्यानि ।  
+रञ्जितव्यानि पात्रं दहितव्यं । रञ्जितव्यं । दिवाविहारं गच्छन्तस्य  
+पीठिका नयितव्या निषीदनं नयितव्यं । पुस्तको नयितव्यो कुण्डिका  
+नयितव्या । उद्दे(९अ७)शं गृह्निय एकमन्ते स्वाध्यायतेन आसितव्यं । अथ  
+दानि दिवाविहारं गन्तुकामो भवति आपृच्छिआ(य) गन्तव्यं । यदि दानि  
+तहिं केनचि सह स्वाध्यायतुकामो भवति । आपृच्छितव्यं । वक्तव्यं ।  
+करोमि अमुकेन सह स्वाध्यायन् ति । तेन दानि जानितव्यं । यदि सो  
+भवति शैथलिको वा बाहुलिको वा । आवड्ढको वा असिक्षाकामो  
+वक्तव्यं । माश्रयो उत्पद्येया । अथ दानि भद्रको भव(९ब्१)ति ।  
+गुणवां शिक्षाकामो वक्तव्यं । करोहि दिवाविहारतो आगच्छन्तस्य  
+पीठिका आनयितव्या । निषीदनं आनयितव्यं । प्र(पु)स्तको आनयितव्यो ।  
+कुण्डिका आनयितव्या । आगतस्य समानस्य हस्तनिर्मादनं दातव्यं  
+पुष्पाणि दातव्यानि चेतिप(य)ं च(व)न्दन्तस्य पृष्ठतो नुगन्तव्यं ।  
+पीठिका प्रज्ञपयितव्या । हेमन्तकालो भवति । मन्दमुखी  
+प्रज्वालयितव्या । पादा धोवयितव्या । पादा म्रक्षेतव्यो । शय्या  
+प्रज्ञापयित।(९ब्२)व्या । यदि महाजनिको भवति । अन्तमसतो हस्तेन  
+समवधानं धातव्यं । दीपो प्रज्वालयितव्यो । खेटकटाहकं (ज्।३९)  
+उपनामयितव्यं । प्रस्रावकुम्भम् उपनामयितव्यं । सुखं  
+प्रतिक्रमापयितव्यं । उद्दिशित्वा वा परिपृच्छित्वा वा यदि विहारो  
+प्रापुणति । आपृच्छितव्यं । अमुकं विहारं गृह्नामि । अथ दानि  
+द्वितीयेन सह प्रापुणति विहारं उपाध्यायेन जानितव्यं । यदि सो भवति  
+शैथिलिको (९ब्३) वा बाहुलिको वा अ(आ)वड्ढको वा (अ)शिक्षाकामो  
+वक्तव्यं । मा गृह्न (इ।प्।६७) मा संसर्ग्गदोषो भविष्यतीति ।   
+     अथ दानि भवति । भद्रको गुणवान् शिक्षाकामो वक्तव्यो गृह्न यावन्  
+न उत्थापीयति सा एव मे आपृच्छनिका अथ दानि उत्थापीयति प(य)त्तिकां  
+वारां आपृच्छितव्यं । यदि दानि तहिं केनचित् सह स्वाध्यायतुकामो  
+भवति । आपृच्छितव्यं । करोमि अमुकेन सार्द्धं स्वाध्या(९ब्४)यं ।  
+उपाध्यायेन जानितव्यं । एवं श्र(सार्)द्धेविहारिणा उपाध्याये  
+प्रतिपद्यितव्यं । न प्रतिपद्यते(ति) । अभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥  
+    
+     इ।९ म्स्।९ब्४ (ज्।३९।१३); छ्।५०२ब्१३  
+     भगवान् श्रावस्त्याम् विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा ते दानि आयुष्मन्तो नन्द्(अन्)ओपनन्दनो  
+षड्वर्ग्गिका च निश्रयं दपि(यि)य नैव अन्तेवासि ओवदन्ति । न  
+अनुशासन्ति । ते दानि इन्द्रगवा विय (९ब्५) वर्द्धन्ति शिवच्छगला विय  
+वर्द्धन्ति । अनाकल्पसम्पन्नाः अनीर्यापथसम्पन्नाः । न जानन्ति  
+कथम् उपाध्याये प्रतिपद्यितव्यं । कथं आचार्ये प्रतिपद्यितव्यं ।  
+कथं वृद्धतरकेषु प्रतिपद्यितव्यं । (ज्।४०) कथं सङ्घमध्ये  
+प्रतिपद्यितव्यं । कथं ग्रामे प्रतिपद्यितव्यम्, । कथं अरण्ये  
+प्रतिपद्यितव्यं । कथं निवासयितव्यं । कथं प्रावरितव्यं । कथं  
+सङ्घाटीपात्रचीवरधारणे प्रतिपद्यितव्यं ॥ (९ब्६) एतं प्रकरणं  
+भिक्षू भगवतो आरोचयेंसु । भगवान् आह ॥ शब्दापयथ  
+नन्द्(अन्)ओपनन्दनां षड्वर्ग्गिकानां च ते दानि शब्दापिता ।   
+     भगवान् आह । सत्यं भिक्षवो नन्द्(अन्)ओपनन्दना षड्वर्ग्गिकाश् च  
+एवन् नाम यूयं निश्रयं देथ निश्रयं ददियाण अन्तेवासिकां न  
+ओवदथ नानुशासथ तद् एव सर्व्वं भगवान् विस्तरेण प्रत्यारोचयति ।  
+याव कथं सङ्घाटीपात्रचीवरधारणे प्रतिपद्यितव्यं । आहं(९ब्७)सु ।  
+आम भगवन् भगवान् आह । एवं च यूयं निश्रयं ददियं  
+अन्तेवासिकां नैव ओवदथ नानुशासथ । तेन हि एवं आचार्येण  
+अन्तेवासिकस्मिं प्रतिपद्यितव्यं । किन् ति दानि आचार्येण अन्तेवासिकस्मिं  
+प्रतिपद्यितव्यं । आचार्येण ताव निश्रयं देन्तेन अन्तेवासि उभयतो  
+विनयं ग्राहयितव्यो । उभयतो पि विनयं न पारेति । एकतो विनयतो  
+ग्राहयितव्यो । एकतो विनयं (इ।प्।६८) न पारे(१०अ१)ति पञ्चसूत्राणि विस्तरेण  
+ग्राहयितव्यो । पञ्चसूत्राणि न पारेति चत्वारि त्रीणि द्वे एकं सूत्रं  
+विस्तरेण ग्राहयितव्यो । एकं सूत्रं न पारेति । द्वानवतीतो ग्राहयितव्यो  
+द्वानवतीतो न शक्नोति त्रिंशतितो ग्राहयितव्यो शिष्टकं  
+अभीक्ष्णश्रुतिकायो गाथायो च त्रिंशतितो न पारेति द्वे अनियतां  
+ग्राहयितव्यो शिष्टकं अभीक्ष्णश्रुतिकाये गाथायो च । द्वे अनियता न  
+पारेति । अन्त(१०अ२)मसतो चत्वारि पाराजिकां ग्राहयितव्यो शिष्टकं  
+अभीक्ष्णश्रुतिकाये गाथायो व(च) शेखयितव्यो । धातुकौशल्यं (ज्।४१)  
+स्कन्धकौशल्यं आयतनकौशल्यं प्रतीत्यसमुत्पादकौशल्यं आचारं  
+शेखयितव्यो । अनाचारतो धा(वा)रयितव्यो । एषो आचार्यो निश्रयं ददिय  
+अन्तेवासि नैव ओवदति । नानुशासति । विनयातिक्रमम् आसादयति । एवम्  
+आचार्येण अन्तेवासिस्मिं प्रतिप(१०अ३)द्यितव्यं । न प्रतिपद्यति ।  
+अभिसमाचारिकान् धर्म्मान् आतिक्रमति ॥ * ॥  
+    
+     इ।१० म्स्।१०अ३ (ज्।४१:६); छ्।५०२ब्१६  
+     भगवान् श्रावस्त्याम् विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा ते दानि भिक्षू निश्रयन् देन्ति ते अन्तेवासिका  
+आचारिकस्य निश्रयं गृह्निय नैव अल्लीयन्ति । न प्रत्यल्लीयन्ति ते दानि  
+भिक्षू ओध्यायन्ति । अस्माकं भगवा(न्) दण्डकर्म्मन् देति । इमेषां  
+मुक्तिका या (१०अ४) दानि अस्माकं (नैव) अल्लीयन्ति न प्रत्यलीयन्ति । कथं  
+इमे अम्भेहि ओवदितव्याः । अनुशासितव्याः । एतं प्रकरणं भिक्षू  
+भगवतो आरोचयेंसु । भगवान् आह । शब्दापयथ भिक्षून ते दानि  
+शब्दापिताः ।   
+     भगवान् आह । तेन हि एवं अन्तेवासिना आचार्ये प्रतिपद्यितव्यं ।  
+अन्तेवासिना ताव कल्प(य)तो येव उत्थत्त(न्त)केन एवं आचार्यस्य विहारस्य  
+द्वा(१०अ५)रं आकोटयितव्यं । यं कालं अभ्यनुज्ञा दिन्ना भवति ।  
+द्वारं सुखाकं अपदुरियाणं प्रथमं दक्षिणो पादो प्रवेशयितव्यो ।  
+पश्चाद् वामं पादं प्रवेशयाण आचार्यस्य सुखरात्रि   
+    
+     (इ।प्।६९) पृच्छितव्या । खेटकटाहं (ज्।४२) निष्काशयितव्यां(व्यं । ) यावत्  
+पादोदकं दापयितव्यं । पादोदकं उपनामयितव्यं । पादतट्ठकं  
+उपनामयितव्यं । पादा धोवयितव्या । पादा म्र(१०अ६)क्षयितव्या ।  
+खेटकटाहकं प्रवेशयितव्यं । प्रस्रावकुम्भिका प्रवेशयितव्या ।  
+दीपको प्रज्वालयितव्यो । शय्या प्रज्ञपयितव्या । एवं अपरं दिवसं  
+प्रस्रावकुम्भिका निष्काशयितव्या । तद् एव सर्व्वं नवकपरिचर्या  
+कर्त्तव्या । विस्तरेण यथा श्र(सार्)द्धेविहारिस्य याव दीपं आदीपिय  
+शय्यां प्रज्ञपिय सुखं प्रतिक्रामयितव्यो । एवं अन्तेवासिना आचार्ये  
+प्रतिपद्यित(१०अ७)व्यं । न प्रतिपद्यति अभिसमाचारिकान् धर्म्मान्  
+अतिक्रमति ॥ * ॥  
+    
+     उद्दानं ॥  
+              एवं सङ्घस्थविरेण पोषधे प्रतिपद्यितव्यम्, ।  
+              एवं द्वितीयस्थविरेण पोषधे प्रतिपद्यितव्यं ।  
+              एवं सर्व्वेहि पोषधे प्रतिपद्यितव्यं ।  
+              एवं सङ्घस्थविरेण भक्ताग्रे प्रतिपद्यितव्यं ।  
+              एवं द्वितीयस्थविरेण भक्ताग्रे प्रतिपद्यितव्यं ।  
+              एवं सर्व्वेहि भक्ताग्रे प्रतिपद्यितव्यं ।  
+              एवं उपाध्याये(१०ब्१)न श्र(सार्)द्धेविहारिस्मिं प्रतिपद्यितव्यं ।   
+              (ज्।४३) एवं श्र(सार्)द्धेविहारिणा उपाध्याये प्रतिपद्यितव्यं ।  
+              एवं आचार्येण अन्तेवासिस्मिं प्रतिपद्यितव्यं ।  
+              एवं अन्तेवासिना आचार्ये प्रतिपद्यितव्यं ॥ * ॥  
+    
+     (इ।प्।७०) इइ।१ म्स्।१०ब्१ (ज्। ४४।१); छ्।५०२ब्२५  
+     भगवान् श्रावस्त्याम् विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा पञ्चार्थवशां सम्पश्यमानास् तथागता  
+अर्हन्तः सम्यक्सम्बुद्धाः । पञ्चाहिकां विहा(१०ब्२)रचारिकाम्  
+अनुचङ्क्रमन्ति । अनुविचरन्ति । कतमां पञ्च कच्चिम् मे श्रावकाः न  
+कर्म्मारामा न कर्म्मरताः । न कर्म्मारामतानुयोगम् अनुयुक्ता  
+विहरन्ति । न भाष्यारामाः न भाष्यरताः । न भाष्यारामतानुयोगम्  
+अनुयुक्ता विहरन्ति । न निद्रारामाः न निद्रारताः । न  
+निद्रारामतानुयोगम् अनुयुक्ता विहरन्ति । ग्लानकानाञ् च भिक्षूणां  
+अनुकम्पार्थं ये ते (१०ब्३) श्राद्धाः कुलपुत्राः (तथागतम् एवोद्दिश्य)  
+श्रद्धयाद् आगाराद् अनगारिकां प्रव्रजिताः । ते च तथागतं दृष्ट्वा  
+अतीव उदाराणि प्रीतिप्रामोद्यानि प्रतिलभिष्यन्ति । इमा(ं प)ञ्चार्थवशान  
+सम्पश्यमानास् तथागता अर्हन्तः सम्यक्सम्बुद्धाः पञ्चाहिकां  
+विहारचारिकाम् अनुचङ्क्रमन्ति । अनुविचरन्ति । अद्राक्षीद् भगवां  
+पञ्चाहिकां विहारचारिकाम् अनुचङ्क्रमन्तो अनुवि(१०ब्४)चरन्तो शय्यासनं  
+उज्झितप्रकीर्ण्णं उत्पादकं (ज्।४५) उ(दु)त्थितकं वातातपेन विनाशियन्तं  
+वर्षेण ओवर्षियन्तं प्राणकेहि खज्जन्तं पक्षिहि ओहयियन्तं  
+ओमयिलमयिलं पाटितविपाटितं । आतपे दिन्नं भगवां जानन्तो य्येव  
+भिक्षूं पृच्छति कस्येमं भिक्षवो शय्यासनं उज्झितप्रकीर्ण्णं  
+पेयालं ॥ याव ओमयिलमयिलं पाटितविपाटितं । आतपे दिन्नं आहंसु ।  
+एतं (१०ब्५) भगवं साङ्घिकं ।   
+     भगवान् आह । एवं च यूयं अप्रत्यास्तरणका शय्यासनं  
+परिभुञ्जथ । तेन हि एवं शय्यासने प्रतिपद्यितव्यं । किन् ति दानि (एवम्)  
+शय्यासने प्रतिपद्यितव्यं । न दानि क्षमति साङ्घिकं शय्यासनं  
+अध्युपेक्षितुं । उत्पादकम् वा उ(दु)त्थितकम् वा प्राणकेहि वा खज्जन्तं  
+वर्षेण (वा) ओवर्षपर्यन्तम् वातातपेन वा विनाशियन्तं पक्षीहि  
+था(वा) ओह्(अय्)इयन्तं । अथ खलु यदि ता(१०ब्६)व उज्झितप्रकीर्ण्णं  
+भवति । साहरित्वा एकान्ते स्थापयितव्यं । उत्पादकं भवति । सम्(अं  
+(इ।प्।७१) थ्)आपेतव्यं । वर्षेण ओवर्षीयति वातातपेन चा(वा) विनाशीयति ।  
+च्छन्ने प्रविशयितव्यं । प्राणकेहि खाद्यति । पक्षीहि ओहपि(यि)यन्ते  
+प्रस्फोटियान च्छन्ने प्रवेशयितव्यं । न दानि विहारो अध्युपेक्षितव्यो ।  
+ओद्दिर्ण्णको प्रलुग्गको अचौक्षो वा अप्रतिसंस्कृतो वा ॥ अथ खलु यदि  
+ताव तृणच्छदनो भवति । तृ(१०ब्७)णपूलको दातव्यो । अपक्कच्छदनो  
+भवति । अपक्का दातव्या । (ज्।४६) कभल्लच्छदनो भवति कभल्लिका  
+दातव्या । सुधामृत्तिकाच्छदनो भवति मृत्पिण्डो दातव्यो । वर्षाय  
+ओवृष्टो भवति विख(चिक्ख)ल्लिका ओपूरे(त)व्या वङ्घोरिका दातव्या  
+गोमयशाटो दातव्यो न दानि क्षमति । साङ्घिकं शय्यासनं एवम् एव  
+परिभुञ्जितं(तुम्) । अप्रत्यास्तरणं वा तृणं वा तृणं वा अन्तराकृत्वा  
+लेङ्कटकं वा अथ खलु प्र(११अ१)त्यास्तरणं कर्त्तव्यं । नापि क्षमति  
+कल्पं कर्त्तुं । पटिकाम् वा लोड्ढकम् वा प्रत्यास्तरणं कर्त्तुं । अथ  
+खलु द्विगुणिता नाम कर्त्तव्या विशिष्टा मञ्चातो वा यदि ताव  
+कम्बलस्य भवति । एकपुटं वा द्विपुटम् वा कर्त्तव्यं । अथ दानि  
+कर्पासस्य भवति द्विपुटा वा त्रिपुटा वा कर्त्तव्यो समन्तेन सूत्रेण  
+शिवियाणं । ततो मध्येण दीर्घसूत्राणि दातव्यानि ततो न क्षमति ।  
+शय्यासनं ओमयिलोमयिलं वा पाटितविपाटितम् वा अध्यु(११अ२)पेक्षितुं ।  
+अथ खलु कालेन कालं बोधि(धोवि)तव्यं । कालेन कालं शिञ्चितव्यं ।  
+कालेन कालं आतपे दातव्यं । न क्षमति साङ्घिकेन शय्यासनेन  
+प्रावृतेन भक्ताग्रे वा तर्पणाग्रे वा सामायिकम् वा उपविशितुं । न  
+क्षमति शय्यासनं साङ्घिकं प्रावरियं दीर्घच(ं)क्रमं  
+चङ्क्रमितुं ॥ अथ दानि भिक्षुः शिराविद्धको वा भवति विरेचनपीतको  
+वा ग्लानको वा भवति वस्त्रपुग्गलिकं अन्तरीकरणं ददि(११अ३)य  
+चङ्क्रमति । अनापत्तिः । नापि क्षमति साङ्घिकं शय्यासनं  
+पौद्गलिकपरिभोगेन परिभुञ्जितुं । अथ खलु साङ्घिकं शय्यासनं  
+प्रज्ञपयितव्यं । (ज्।४७) प्रत्यास्तरणं ददिय ततो परिभुञ्जितव्यं । अथ  
+दानि साङ्घिकं शयनासनं महन्तं भवति । उपरितो भुञ्जितव्यं  
+(इ।प्।७२) यथा नाशं न गच्छे । अथ दानि हेमन्तकालो भवति साङ्घिकं  
+शय्यासनं प्रावरिय शयति । (११अ४) अन्तरीकरण(म्) दातव्यं । न देति  
+विनयातिक्रमम् आसादयति । एवं शय्यासनं(ने) प्रतिपद्यितव्यं । न  
+प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+     इइ।२ म्स्। ११अ४ (ज्।४७।६); छ्।५०२च्१३  
+     भगवान् श्रावस्त्याम् विहरति शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा ते दानि भिक्षू उपगच्छनिका(याम्) काले विहारन्  
+न प्रतिसंस्करेन्ति । पञ्चार्थवशां सम्पश्यमानांस् तथागता  
+अर्ह(११अ५)न्तः सम्यक्सम्बुद्धाः पञ्चाहिकां विहारचारिकाम्  
+अनुचङ्क्रमन्ति । अनुविचरन्ति । कतमां पञ्च । कच्चि मे श्रावकाः न  
+कर्म्मारामाः न कर्म्मरताः । न कर्म्मारामता-अनुत्या(यो)गम्  
+अनुयुक्ता विहरन्ति न भाष्यारामाः । न भाष्यरताः न  
+भाष्यारामतानुयोगम् अनुयुक्ता विहरन्ति । न निद्रारामाः न  
+निद्रारताः न निद्रारामतानुयोगम् अनुयुक्ता विहरन्ति ।  
+ग्लानका(११अ६)नाञ् च भिक्षूणाम् अनुकम्पार्थं ये च ते श्राद्धाः  
+कुलपुत्राः तथागतम् एवोद्दिश्य आगाराद् अनगारिकां प्रव्रजिताः । ते च  
+तथागतं दृष्ट्वा अतिरि(ती)वोदाराणि प्रीतिप्रामोद्यानि प्रतिलभिष्यन्ति ।  
+इमां पञ्च अर्थवशां सम्पश्यमानास् तथागता अर्हन्तः  
+सम्यक्सम्बुद्धाः पञ्चाहिकां विहारचारिकां अनुचङ्क्रमन्ति ।  
+अनुविचरन्ति । (ज्।४८) अद्राक्षीद् भगवां पञ्चाहिकां विहारचारिकां  
+अनुचङ्क्रमन्तो अनुवि(११अ७)चरन्तो विहारकान् ओन्द्रि(द्द्रि)न्नकां  
+प्रलुग्गकां अचोक्षां अप्रतिसंस्कृतां शय्यासनं उज्झितप्रकीर्ण्णे(र्ण्णम्)  
+ओमयिलेमयिलं पाटितविपाटितं मञ्चाम् पीठा(म्) ओन्द्रि(द्द्रि)ण्णकां  
+पलुग्गकां उच्छि(दुत्थि)तकां वातातपेन ओपूरियन्तां प्राणकेहि  
+खज्जन्तां वर्ये(षे)ण ओवर्यि(षि)यन्तां काकशकुन्तेहि ओहयियन्तां  
+भगवान् जानन्तो पृच्छति । कस्येमे भिक्षवो विहारका ओद्रिण्णका  
+पलुग्गका अचौक्षा अप्रतिसंस्कृता शय्यास(११ब्१)नं उज्झितप्रकीर्ण्णं  
+ओमयिलोमयिलं पाटितविपाटितं मञ्चा पीठा (इ।प्।७३) ओन्द्रि(द्द्रि)ण्णका  
+पलुग्गकां उ(दु)त्थितकां वातातपेन ओपूरियन्तां प्राणकेहि खज्जन्तां  
+वर्षेण ओवर्षियन्तां काकशकुन्तेहि ओहयियन्तां भिक्षू आहंसु ॥ इमं  
+भगवन् सङ्घस्य ये धर्म्मा(वर्षा)ं उपगच्छिष्यन्ति । ते  
+प्रतिसंस्करिष्यन्ति ।   
+     भगवान् आह । तेन हि एवं वर्षोपनायिके शय्यासने प्रतिपद्यितव्यं ।  
+किन् ति दानि एवं वर्षोपनामि(यि)के शय्यासने प्र(११ब्२)तिपद्यितव्यं । एषा  
+दानि सङ्घस्य वर्षोपनामि(यि)का भवति । प्रकृत्यैव ताव  
+दायकदानपति प्रतिसरितव्या । ततो विहारका प्रतिसंस्कर्त्तव्याः । ये  
+विहारका उद्दिण्णका पलुग्गका भवन्ति । अचोक्षा वा अप्रतिसंस्कृता वा  
+भवन्ति । (ज्।४९) यदि ताव सुधाच्छदनो भवति । सुधापिण्डो दातव्यो ।  
+इष्टकाच्छदनो भवति । इष्टका दातव्या । अपक्काच्छदनो भवति ।  
+अपक्का दातव्या । कभल्ल(११ब्३)च्छदनो भवति । कभल्लिका दातव्या ।  
+तृणच्छदनो भवति । तृणपूलको दातव्या । मञ्चा वा पीठा वा  
+ओन्द्रि(द्द्रि)ण्णका पलुग्गकां भवन्ति । मुञ्जा कर्त्तितव्या । बल्बजा  
+कर्त्तितव्या मञ्चा ध्र(बु)णितव्या उप्पादका भवन्ति सयेच्छ(मं  
+त्थ)पयितव्या । दुत्थपिता भवन्ति । सुत्थपिता कर्त्तव्या । वातातपेन  
+ओत(पू)रियन्ति । काकशकुन्तेहि वा ओहपि(यि)यन्ति । च्छन्ने स्थपितव्या ।  
+एवं शय्यासनं (११ब्४) भवति । ओमयिलमयिलं पाटितविपाटितं धोविय  
+सीवितव्यं । मृत्तिकापिण्डो दापयितव्यो । मूषिक-उच्छि(क्कि)रा वा याच(व)  
+वङ्घोरिका पूरेतव्या । यं तहिं परिवेणे भवन्ति । भण्डं नियतकं  
+सर्व्वं समुदानितव्यं ।  
+     पञ्चेहि अङ्गेहि समन्वागतो भिक्षुः शय्यासनप्रज्ञापक सम्मुतीये  
+सम्मन्यितव्यो । कतमेहि पञ्चहि । यो न च्छन्दाये न दो(११ब्५)षाये न  
+मोहाये न भयाये प्रज्ञप्तं च जानाति । इमेहि पञ्चहि । पेयालम्, ॥  
+     (ज्।५०) क(र्)म्मं कृत्वा याव ते दानि समन्तेन आषाढमासं शय्यासनं  
+ग्राहेतव्यं । विहारा परिवेणा अग्निशाला भक्तशाला । उपस्थानशाला ।  
+द्वारकोष्ठको वर्च्चकुटी उदुपानो जन्ताको चङ्क्रमा वृक्षमूला  
+विहारका (इ।प्।७४) ग्राहयितव्या । असुके विहारे एत्तका मञ्च(११ब्६)का  
+पीठका वा एत्तकं आस्तरणं एत्तकं प्रावरणं ततो लिखितव्यं ।  
+भुर्जके फलके वा पट्टिकायाम् वा । यदि ताव आरण्यकं शय्यासनं  
+भवति । दूरे दूरो(रे) परिवेणा भव(ं)ति । त्रयोदशीयं वा  
+चातुर्द्दशीयं वा तेन शय्यासनोद्देशो कर्त्तव्यो । अथ दानि ग्रामान्तिकं  
+शय्यासनं भवति । आसन्ने आसन्ने परिवेणा भवन्ति । चातुर्द्दशीयम् वा  
+पाञ्चदशीयम् वा शय्यासनो(११ब्७)द्देशो कर्त्तव्यो । तं लिखितं  
+सङ्घस्थविरस्य अल्लीपितव्यं । वक्तव्यं । आयुष्मन् अमुके विहारके  
+एत्तका मञ्चा एत्तका पीठाः । एत्तकं आस्तरणं एत्तकं प्रावरणं  
+कतमो तव विहारको रुच्यति । यो सङ्घस्थविरस्य विहारको रुच्यति सो  
+दातव्यो । अथ दानि सङ्घस्थविरो जल्पति । विहारं यूयं (ज्।५१) उद्दिशथ  
+वर्षावासिकं समं करिष्याम न्ति(त्ति) । यं सङ्घस्थविरो जल्पति । तथा  
+कर्त्तव्यम्, । (१२अ१) ततो विहारका उद्दिशितव्याः । वृद्धान्ततो प्रभृति  
+याव अवर्य(ष)कपर्यन्तं न क्षमति । श्रामणेराणां विहार(रा)  
+उद्दिशितुं । अथ दानि तेषां उपाध्यायाचार्या जल्पन्ति । उद्दिशथ यूयं  
+एतेषां वयं प्रतिसंस्करिष्याम न्ति(त्ति) । ततो श्रामणेरकाणां पि  
+विहारका उद्दिशितव्या । अथ दानि बहुं भवति । ततो द्वितीयकालिका  
+उद्दिशितव्या । अथ दानि तहि(म्) कोचि भवति । आटक्करसिंहनादिको (१२अ२)  
+पर्याप्तो ग्रीष्मे शय्यासनं उद्दिशितव्यं । गुप्त्यर्थं परिभोगार्थं  
+उत्थिष्यं उत्थापयिष्यं को विहारको ति । वक्तव्यो न एषो भव किञ्चित  
+भोगार्थं वदिषन्ति म प्रतिसंस्कारणार्थं एषो चं उद्दिशीयति । अथ  
+दानि स्तोका विहारका भवन्ति । द्विण्णां त्रयाणां (वा) जनानां एको  
+विहारको उद्दिशितव्यो । अथ दानि एवं पि स्तोका भवन्ति । चतुर्ण्णां  
+पञ्चानाम् वा जनानां एको विहा(१२अ३)रको उद्दिशितव्यो । अथ दानि  
+एकवस्तुकं भवति । भिक्षू च बहु(हू) भवन्ति । वृद्धानाञ् च मञ्चा  
+प्रज्ञापयितव्याः । नवकानां पीठाः प्रज्ञापयितव्याः । अथ दानि एवं  
+पि स्तोकं भवति । वृद्धानां पीठाः प्रज्ञापयितव्याः । नवकानां  
+संस्तरणा (ज्।५२) (इ।प्।७५) प्रज्ञापयितव्याः । अथ दानि एवं पि स्तोकं  
+भवति । (अथ दानि) अल्पो(ल्पा)वकाशो भवति । वृद्धेहि संस्तरणे  
+प्रतिप(१२अ४)द्यितव्यं । नवकेहि पर्यन(ङ्के) वीतिनामयितव्यं । अथ  
+दानि एवं पि अल्पावकाशो भवति । वृद्धेहि च्छन्ने प्रविशितव्यं ।  
+नवकेहि वृक्षमूलेहि चङ्क्रमेहि निषद्याहि अभ्यवकाशे  
+वीतिनामयितव्यं । हेमन्ते शय्यासनं उद्दिशितव्यम्, । गुप्त्यर्थं  
+परिभोगार्थं उत्थिष्यं उत्थापयिष्यं वर्षासु शय्यासनं उद्दिशितव्यं ।  
+गुप्त्यर्थं परिभोगार्थं उत्था(१२अ५)स्यं उत्थापयितव्यं । नापि क्षमति  
+शय्यासनं अध्युपेक्षितुं ओमयिलोमयिलं पाटितविपाटितं मञ्चा वा  
+पीठा वा ओद्द्रिण्णका वा पलुग्गका वा अध्युपेक्षितुं । अथ खलु  
+कालेन कालं शय्यासनं सीवितव्यं । बोधि(धोवि)तव्यं । कालेन कालं  
+मुञ्जा कर्त्तितव्या । बल्बजा कर्त्तितव्या । ततो मञ्चा च पीठा च  
+ब्र(बु)णितव्या । एवं वर्षोपनामि(यि)के शय्यासने प्रतिप(१२अ६)द्यितव्यं ।  
+न प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+     इइ।३ म्स्।१२अ६ (ज्।५२।१५); छ्।५०३अ२४  
+     भगवान् श्रावस्त्याम् विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा याव अद्राक्षीद् भगवां पञ्चाहिकां  
+विहारचारिकाम् अनुचङ्क्रमन्तो (ज्।५३) अनुविचरन्तो विहारकां ओद्द्रिण्णकां  
+पलुग्गकां उल्लाय गृहीतकां अचोक्षां अप्रतिसंस्कृतां उदकस्य पूरां  
+उदकभ्रमाम् अशोधि(त)कां द्वाराहि (१२अ७) द्वीपिकाहि खज्जन्तो मञ्चां  
+पीठां ओन्द्रि(द्द्रि)ण्णकाणां पलुग्गकां उ(दु)त्थितकां वर्षेण  
+(ओ)वर्षियन्तां प्राणकेहि खज्जन्तां भगवान जानन्तो पृच्छति । किं  
+इमं भिक्षवो विहारका उल्लग्गका ओल्लाये गृहीतकाः । अचौक्षा  
+अप्रतिसंस्कृता उदकस्य पूरां उदकभ्रमा अशोधितका द्वा(रे)  
+द्वीपिकाहि खज्जन्ता मञ्चा पीठा ओन्द्रि(द्द्रि)ण्णकां पलुग्गकां  
+उत्पादकां उ(दु)त्थितकां वर्षेण ओ(१२ब्१)वर्षियन्तां प्राणकेहि  
+खज्जन्ता(म्) भिक्षू आहंसुः । ये भगवान् (इ।प्।७६) अर्षां वसिष्यन्ति ते  
+प्रतिसंस्करिष्यन्ति ।  
+     भगवान् आह । तेन हि एवं वर्षोपगतेहि शय्यासने प्रतिपद्यितव्यं ।  
+किन् ति दानि एवं वर्षोपगतेहि शय्यासने प्रतिपद्यितव्यं । एते दानि  
+भिक्षवो वर्षोपगता भवन्ति । तेन हि विहारका प्रत्यवेक्षितव्या । यदि  
+ताव ओन्द्रि(द्द्रि)ण्णका वा पलुग्गका वा भवन्ति । यावत् मूषिकोक्कारा वा  
+चिक्खल्लिका वा प्र(१२ब्२)तिसंस्कारयितव्या । यदि ताव विहारको  
+सुधाच्छदनो भवति (सुधापिण्डो दातव्यो) । इष्टकाच्छदनो भवति ।  
+इष्टका दातव्या । (ज्।५४) अपक्वच्छदनो भवति । अपक्वा दातव्या ।  
+कभल्लच्छदनो भवति (कभल्लिका दातव्या । तृणच्छदनो भवति) ।  
+तृणपूलको दातव्यो । उर्ण्णा(ल्ला)ये गृहीतको भवति । पिण्डं शाटिय  
+मृत्तिकाये लिम्पितव्यो । मूष-उक्कारा विलिख्खि(चिक्खलि)का पूरेतव्या ।  
+यदि ताव उप्पेडनको विहारको भवति । शक्कारोटेन वा पूरेतव्या  
+उ(अ)प(१२ब्३)क्वपांसुकेन वा । अथ दानि उप्पंसुलो भवति । गोमयकार्षी  
+दातव्या । उदकभ्रमा वा । प्रणालिभ्रमा वा परिपूरिता भवन्ति  
+शोधयितव्याः । मुण्डहर्म्मिया प्रतिसंस्कर्त्तव्या । शय्यासनं  
+ओमयिलोमयिलं भवति । पाटितविपाटितं धोवयितव्यं । रञ्जेतव्यं ।  
+मञ्चा वा पीठा वा भग्नका भवन्ति । छिन्नगण्ठिका कर्त्तव्या ।  
+ओन्द्रि(द्द्रि)ण्णका वा पलुग्गका भवन्ति । मु(१२ब्४)ञ्जा कर्त्तितव्या । मञ्चा  
+ब्र(बु)णितव्या । पीठिका ब्र(बु)णितव्या । उप्पादका भवन्ति समं  
+थापेयितव्या । उ(दु)त्थितका भवन्ति । सुत्थिता थपेतव्या । वातातपेन  
+ओपूरियन्ति । नैवाते थपितव्याः । वर्षेण ओवर्षियन्ति । च्छन्ने  
+थपितव्या । प्राणकेहि खज्जन्ति च्छन्दियाणं प्रतिपादिकेहि थपयितव्या ।  
+नापि क्षमति । शय्यासनं अध्युपेक्षितुं । ओमयिलोमयिलं वा  
+पाटितवि(१२ब्५)पाटितं वा ॥ अथ खलु कालेन कालं धोवितव्यं ।  
+सीवयितव्यं । रञ्जिय(जयि)तव्यं । मञ्चा वा पीठा वा उप्पादका  
+भवन्ति । समां थपितव्याः । दुत्थिता भवन्ति । सुस्थिता थपितव्याः ।  
+ओन्द्रि(द्द्रि)ण्णका भवन्ति । पलुग्नका वा मुञ्जा कर्त्तितव्या । बल्बजा  
+कर्त्तितव्या । (ज्।५५) मञ्चा बुणितव्याः । (इ।प्।७७) पीठा बुणितव्याः ।  
+पादका उ(दु)त्थितका भवन्ति । सुथपिता कर्त्तव्याः । विहारका कालेन  
+(१२ब्६) कालं सिञ्चितव्याः । सम्मार्जितव्याः । गोमयकार्षी दातव्याः ।  
+उदकभ्रमाः प्रनाडिकाभ्रमा वा कालेन कालं शोधितव्याः । पञ्चाहे  
+पञ्चाहे शय्यासनं प्रत्योतापेतव्यं । मञ्चा वा पीठा वा अन्यायतः  
+कर्त्तव्यं । विहारो ओमस्वेदिको भवति । मञ्चो भित्ति(तो) मोचेत्वा  
+प्रतिपादिका दातव्याः । यथा प्राणकेहि न खाद्येया सन्तानिका  
+शाटितव्यो । अन्वर्द्धमासं गोमयशा(१२ब्७)टो दातव्यो । यदि ताव विहारो  
+ओश करोति ओदको दातव्यो । अथ दानि उस्वेदको भवति शुद्धेन गोमयेन  
+मर्द्दितव्यं । विहारो उस्वेदको भवति । न दानि तहिं क्षमति ।  
+हस्तशौचं वा कर्त्तुं पादशौचं वा मुखम् वा धोयि(वि)तुं । पादम्  
+वा निर्म्मादयितुं । नापि दानि क्षमति । विहारो पित्थित्वा स्थपितुं । अथ  
+खलु कालेन कालं अपावुरितव्यो यथा वातं लभेय्या (न) धूपेतव्यो  
+कु(१३अ१)ष्ठेन भुर्जेन वा सक्तुहि वा एवं वर्षोपगतकेहि (ज्।५६)  
+शय्यासने प्रतिपद्यितव्यं । न प्रतिपद्यति ॥ अभिसमाचारिकान्  
+धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+     इइ।४ म्स्।१३अ१ (ज्। ५६।३); छ्।५०३ब्१०  
+     भगवान् श्रावस्त्यां विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा अपरं दानि आरण्यकं शय्यासनं हिमदोषेण  
+चित्तं न वसति । ते दानि आरण्यका विहारं बाहिरं घट्टियं कारियाण  
+ग्रामन्तिकं शय्यासनं ओकस्ताः सो दानि वि(१३अ२)हारको वनदवेन  
+आगच्छियाण दग्धो । एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु   
+     भगवान् आह । तेन हि एवं वर्षवुस्तेहि शय्यासने प्रतिपद्यितव्यं । किन्  
+ति दानि एवं वर्षवुस्तेहि शय्यासने प्रतिपद्यितव्यं । एतं दानि आरण्यकं  
+शय्यासनं हिमदोषेण रि(चि)त्तं न वसति । न क्षमति । आरण्यकेहि  
+अशब्दकर्ण्णिकाये ग्रामान्तिकं । शय्यासनं ओक्कसितुं । अथ खलु  
+उच्छा(१३अ३)हेतव्या । तहि(म्) एको वा द्वौ वा त्रयो वा यावतका (इ।प्।७८)  
+उच्छहन्ति । यो प्रतिबलो वस्तुं यदि उत्सहन्ति । तेषां आहारेण  
+उपस्तम्भं कर्त्तव्यं । यथा न विहन्येंसु । अथ दानि उद्वहन्ति ।  
+आह । किं वयं परित्यक्ताः । किस्स (ज्।५७) वयं वसामः । यं तहिं  
+शय्यासनं भवति कोचवको वा उल्लीयो वा चतुरस्रका वा कुम्भीयो वा  
+कट(टा)हकानि वा सर्व्वं ग्रामान्तिकम्, (१३अ४) शय्यासनं ओतारेतव्यं ।  
+मञ्चा पीठा उल्लपित्वा स्थापयितव्या । मञ्चा भित्तियो मोचेत्वा  
+प्रतिपादका दातव्या । यथा प्राणकेहि दीपिकाहि वा न खज्जेया । नापि  
+दानि क्षमति सो विहारो अध्युपेक्षितुं । ओन्द्रि(द्द्रि)ण्णको वा पलुग्गको वा  
+अचौक्षो वा अप्रतिसंस्कृतो वा । अथ खलु यदि ताव तृणच्छदनो वा  
+भवति तृणपुलको दातव्यो । याव गो(१३अ५)मयशाटो दातव्यो ।  
+परिभाण्डं कर्त्तव्यं । श्वेतवर्ण्णा दातव्यं ॥ समन्तेन विहारस्य  
+ताव प्रतिकृत्येव अग्निहरणी कर्त्तव्या । भृतकेहि च कर्म्मकरेहि च  
+विहारस्य चतुःपार्श्वे कक्षं जातकं भवति सो लवापयितव्यो । यं कालं  
+शुष्कं भवति । निष्प्राणकं ततो ग्निना दहापयितव्यो विहारको  
+सिञ्चितव्यो । सम्मार्जितव्यो । गोमयकार्षी (१३अ६) दातव्या । यं सारासारं  
+शय्यासनं अमिला वा अस्तरणिकां वा कोचका वा मकुचका (वा)  
+गुडुगुडुका वा मकुचका वा ते ग्रामान्तिकं शय्यासनं नापयितव्याः ।  
+मञ्चाः प्रतिपादकेहि स्थापयितव्या भित्तितो यु(मु)क्ताः । मञ्चस्य उपरि  
+पीठा स्थापयितव्या । पीठस्य उपरि यं तत्र शय्यासनं  
+ओमयिलोमयिलं पाटित(ज्।५८)विपाटितं पीठस्य उपरि स्थापयितव्यं  
+चीवरवंशे स्थापयितव्यम्, (१३अ७) भित्तितो मुक्तं । यदि ताव विहारो  
+उप्पिडनको भवति । न क्षमति । लेनानि बन्धितुं । अथ खलु मुक्तका  
+कर्त्तव्या । अथ दानि उप्पंसुलका विहारका बाहिरघट्टिमा कर्त्तव्याः ।  
+सर्व्वेहि नि(र्)धावितव्या एकेन अभ्यन्तरघट्टिमं विहारकां करिय  
+रेज्जूये वा कडेवरिका ।य(ये) वा ओतरितव्यं । ओतरिय रज्जूये वा कडेवरिया  
+वा अभ्यन्तरे क्षिपितव्या । बाह्येन वा अच्छितव्या । ये (१३ब्१) तत्र भवन्ति  
+गोपालका वा पशुपालका वा तेषां सो विहारो अनुपरिन्दितव्यो ते  
+वक्तव्याः । दीर्घायु गच्छाम ताव यं ग्रामान्तिकं शेय्यासनं एषो  
+तुम्हाकं विहारको अनुपरिन्दितो भवतु । एवं अनुपरिन्दियाण गन्तव्यं  
+(इ।प्।७९) । अथ दानि ग्रामान्तिकं शेय्यासनं भवति । एवं ह्य् एव सर्व्वं  
+प्रतिसंस्कारो कर्त्तव्याः । याव श्वेतवर्ण्णा दातव्या । एतानि महन्तानि  
+वस्तूनि भवन्ति । यथा (१३ब्२) अग्निशाला वा उपस्थानशाला वा यदि ताव  
+सस्वामिकं भवति । तेन प्रतिसंस्कारोये(पे)तव्या । उद्दिष्टको नाशो यो  
+स्य भवति । तेन प्रतिसंस्कर्त्तव्या । अथ दानि नैव सस्वामिको भवति ।  
+नापि उद्दिष्टको सर्व्वसङ्घेन प्रतिसंस्कर्त्तव्यो । सामग्रीये संविदित्वा  
+तहिं एकम् एको (ज्।५९) वा शमो दातव्यो । द्वे वा द्वे वा त्रयो वा त्रयो वा  
+यथा सर्व्वप्रतिसंस्कारो गच्छे तथा (१३ब्३) दातव्यं । मञ्चा वा पीठा  
+वा उल्लग्गका भवन्ति । अयच्छितव्या । अयं च्छन्तियो कर्त्तव्याः । उन्नियो  
+वा बिशिओ वा चतुरस्रका वा ओमयिलोमयिला भवन्ति । पाटितविपाटिता  
+धोवित्व सिवितव्या । प्रत्यग्गलानि दातव्यानि । भण्डं नियतकं भवति ।  
+समुदानेतव्यं । ग्रामान्तिकं शेय्यासनं उदकदोषेण रि(चि)त्तं न  
+संवसति न क्षमति तेहि अ(१३ब्४)शब्दकर्ण्णिकाये आरण्यकं शेय्यासनं  
+गन्तुं । अथ खलु प्रतिकृत्येव ताव यं तत्र सारासारं भाण्डम्  
+अस्तरणं वा प्रावरणं वा उपस्करो वा श्रद्धाप्रसन्नेहि उपासककुलेहि  
+स्थापयितव्यं । विहारको सम्मार्जयितव्यो । गोमयकार्षी दातव्या ।  
+मञ्चा प्रतिपादकेहि स्थातव्या भित्तितो मुक्तं । मञ्चस्य उपरि पीठं  
+स्थापयितव्यं । पीठस्योपरि यं त(१३ब्५)त्र जर्जर बिसि वा जर्जर  
+चतुरश्रको वा तं स्थापयितव्यं । यदि ताव उप्पीडनको विहारो भवति ।  
+ततो लेनानि मुक्तानि स्थापेतव्यानि । अथ दानि उप्पत्सु(म्सु)लको विहा(रो)  
+भवति लेनानि बाहिरघट्टिमानि कर्त्तव्यानि सर्व्वे भिक्षूहि  
+नि(र्)धावन्तेहि । एकेन विहारको अत्य(भ्य)न्त(र)घट्टिमो कर्त्तव्यो ।  
+प्रतिवेशिकुलातो निश्रेणियाविय ततो ओ(१३ब्६)तरितव्यो । (ज्।६०) ये तत्र  
+प्रतिवेशिका भवन्ति । तेषाम् अनुपरिन्दितव्यं । दीर्घायु एषो विहारको  
+तुम्हाणं अनुपरिन्दितो भवतु । (इ।प्।८०) गच्छाम वयं अरण्यकानि  
+शेय्यासनानि एवं परिन्दिय गन्तव्यं । एवं वर्षवुस्तेहि शेय्यासने  
+प्रतिपद्यितव्यं । न प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान्  
+अतिक्रमति ॥ * ॥  
+    
+     इइ।५ म्स्।१३ब्६ (ज्। ६०।५); छ्।५०३च्१  
+     भगवान् श्रावस्त्यां विहरति शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्त(१३ब्७)रेण निदानं कृत्वा पञ्चार्थवशां विस्तरेण कृत्वा यावद्  
+अद्राक्षीद् भगवां पञ्चाहिकां विहारचारिकां अनुचङ्क्रमन्तो  
+अनुविचरन्तो विहारकां ओद्द्(र्)इण्णकां प्रलुग्गकां अचौक्षां  
+अप्रतिसंस्कृतां शेय्यासनं उज्झितप्रकीर्ण्णं ओमयिलोमयिल(म्)  
+पाटितविपाटितं मञ्चा च पीठा च । उद्द्रिण्णका प्रलुग्गका उप्पादका  
+उ(दु)त्थितका वर्षेण ओवर्षियन्तां प्राणकेहि खज्जन्तां भगवान् (१४अ१)  
+जानन्तो भिक्षूं पृच्छति । किम् इदं भिक्षवो विहारका ओद्द्रिण्णका  
+पलुग्गका अचौक्षा अप्रतिसंस्कृताः शेय्यासनं उज्झितप्रकीर्ण्णं  
+ओमयिलोमयिलं पाटितविपाटितं मञ्चा च पीठा च ओद्द्रिण्णका  
+पलुग्गका उप्पादका उ(दु)त्थितका वर्षेण ओवर्षयन्ता प्राणकेहि  
+खाज्जन्ता ते दानि आहंसु वयं भगवन् आगन्तुका ये नेवासिका ते  
+संस्करिष्यन्ति ।   
+     भगवान् आह ॥ तेन हि एत(व)ं आगन्तुकेहि शे(१४अ२; ज्।६१)य्यासने  
+प्रतिपद्यितव्यं । किन् ति दानि एवं आगन्तुकेहि शेय्यासने प्रतिपद्यितव्यं ।  
+एता दानि भिक्षू आगन्तुका भवन्ति विहारको उद्दिष्टको भवति । मञ्चं  
+पीठं पि चतुरस्रकं कुर्च्चं बि(ं)बोहनं उद्दिष्टं भवति नापि  
+क्षमति । गतागतस्य विहारके भण्डं प्रवेशितुं । अथ खलु यदि ताव  
+अन्धकारको विहारको भवति । प्रदीपो ज्वालयितव्यो तृणोल्का वा कण्डोल्का  
+वा प्र(१४अ३)ज्वालयितव्या । प्रविशिय चीवरञ्च(वं)शो ताच(व)  
+प्रत्यवेक्षितव्यो । अनेकाये प्राणकेहि खादितको भवति । यदि ताव  
+प्राणकेहि खायितको भवति भग्नका वा तं अपनिय अन्यो कीलको  
+आकोटयितव्यो (इ।प्।८१) पात्रप्रवेशिका स्थापयितव्या । मञ्चकश् च  
+प्रत्यवेक्षितव्यः । यदि ताव विभग्नको वा च्छिन्नको वा भवति  
+च्छिन्नकण्ठि कर्त्तव्या । ओद्द्रिण्णको (१४अ४) वा पलुग्गको वा भवति  
+मुञ्जा कर्त्तितव्या बल्बजा कर्त्तितव्या । मञ्चा ब्र(बु)णितव्या पीठा  
+ब्र(बु)णितव्या । विहारको शोधयितव्यो । सम्मार्जयितव्यो । मूष-उक्किरा  
+वा भवति आकोटयितव्या । गोमयकार्षी दातव्या । मञ्चको प्रतिपादके  
+स्थापयितव्यो आस्तरणं प्रज्ञपिय प्रतिक्रमितव्यं । यदि सर्व्वरात्रो  
+गच्छति प्रतिसंस्कार(ज्।६२)यन्तस्य सर्व्वरात्री  
+प्रतिसंस्क(स्का)रयि(१४अ५)तव्यं । एवं आगन्तुकेहि शेय्यासने  
+प्रतिपद्यितव्यं । न प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान्  
+अतिक्रमति ॥ * ॥  
+    
+     इइ।६ म्स्।१४अ५ (ज्।६२।४); छ्।५०३च्१६  
+     भगवान् श्रावस्त्यां विहरति शस्ता देवानाञ् च मनुष्याणाञ् च विस्तरेण  
+निदानं कृत्वा पञ्चार्थवशां विस्तरेण कृत्वा यावद् अद्राक्षीद् भगवां  
+पञ्चाहिकां विहारचारिकाम् अनुचङ्क्रमन्तो अनुविरचन्तो विहारकां  
+ओद्द्रिण्णकां पलुग्गकां अ(१४अ६)चौक्षां अप्रतिसंस्कृतां शेय्यासनं  
+ओमयिलेमयिलं पाटितविपाटितं । मञ्चा पीठा ओद्द्रिण्णकां  
+पलुग्गकां । उप्पादकां उ(दु)त्थितकां वर्षेण ओवर्षियन्तां प्राणकेहि  
+खज्जन्तां भ(ग)वान् जानन्तो पृच्छति । किं इमे भिक्षवो विहारका  
+ओद्द्रिण्णका पलुग्गका अचौक्षा अप्रतिसंस्कृता शय्यासनं ओमयिलेमयिलं  
+पाटितविपाटितं मञ्चा पीठा ओद्द्रिण्णका पलुग्गका उप्पादका  
+उ(दु)त्थि(१४अ७)तका वर्षेण ओवर्षयन्ता प्राणकेहि खज्जन्ता भिक्षू  
+आहंसु । वयं भगवन् नेवासिका ये आगन्तुका ते प्रतिसंस्करिष्यन्ति ।  
+     भगवान् आह । तेन हि एवं नेवासिकेहि शेय्यासने प्रतिपद्यितव्यं । किन् ति  
+दानि एवं नेवासिकेहि शय्यासने प्रतिपद्यितव्यं । नायं ताव क्षमति ।  
+नैवासिकेहि ये विहारका ओद्द्रिण्णका पलुग्गका अचौक्षा अप्रतिसंस्कृता ते  
+आगन्तुकानां (१४ब्१) स्थापयितुं । यदि आगन्तुकानां मातु अत्यायिकं  
+भविष्यन्ति । ततो नं प्रतिसंस्करिष्यन्तीति ॥ अथ खलु (ज्।६३) ये विहारका  
+नवका च सुप्रतिसंस्कृता च ते आगन्तुकानां स्थापयितव्या । नापि  
+क्षमति (इ।प्।८२) शेय्यासनं ओमयिलोमयिलं पाटितविपाटितं आगन्तुकानां  
+स्थापयितुं । यदि आगन्तुकानां मातु अत्यायिकं भविष्यति ततो  
+धोविष्यन्ति । रञ्जिष्यन्ति । सीविष्यन्ति । अथ खलु यं (१४ब्२) शेय्यासनं  
+नवकं सुधोतं च सुरक्तं च तं आगन्तुकानां स्थापयितव्यं । नापि  
+क्षमति ये मञ्चा वा पीठा वा प्रल(लु)ग्गका वा ओद्द्रिण्णका वा ते  
+आगन्तुकानां स्थापयितुं । यदि आगन्तुकानां मातु अत्याय(यि)कं  
+भविष्यति । ततो बुणिष्यन्ति । अथ खलु ये मञ्चा वा पीठा वा नवा च  
+सारा च स(सु)धोता च ते आगन्तुकानां स्थापयितव्या नापि क्षमति ।  
+अध्युपेक्षितुं । अथ खलु वि(१४ब्३)हारकाणां कालेन कालं  
+खण्डफुट्टं प्रतिसंस्कर्त्तव्यं । शेय्यासनं धोवितव्यं । सिवितव्यं ।  
+रञ्जितव्यं । मञ्चा वा पीठा वा भग्ना वा भवन्ति च्छिन्नगण्ठिका  
+कर्त्तव्या । ओद्द्रिण्णका वा पलुग्गका वा भवन्ति । मुञ्जा कर्त्तितव्या ।  
+बल्बजा कर्त्तितव्या मञ्चा ब्र(बु)णितव्या पीठा व्रणितव्या । मञ्चा वा  
+पीठा वा उप्पादका भवन्ति । समं स्थापयितव्या । उ(दु)त्थापितका  
+(१४ब्४) भवन्ति । सुस्थिता कर्त्तव्या । (ज्।६४) वातातपेन ते(ओ)पूरियन्ति ।  
+निवाते स्थापयितव्या । काकशकुन्न(न्त)केहि ओहयियन्ति छन्ने  
+स्थापयितव्याः । वर्षेण ते(ओ)वर्षियन्ति निरोवर्षे स्थापयितव्या ।  
+प्राणकेहि खज्जन्ति च्छिन्नगण्डि(ण्ठि)यका करिय प्रतिपादकेहि  
+स्थापयितव्या । एवं नेवासिकेहि शय्यासने प्रतिपद्यितव्यं । न  
+प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान् अतिक्रम(१४ब्५)ति ॥ * ॥  
+    
+     इइ।७ म्स्।१४ब्५ (ज्। ६४।६); छ्।५०३च्२५  
+     भगवान् श्रावस्त्यां विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा यावद् अद्राक्षीद् भगवान् पञ्चाहिकां  
+विहारचारिकाम् अनुचङ्क्रमन्तो अनुविचरन्तो विहारकां ओद्द्रिण्णकां  
+पलुग्गकां अनभि(प्रति)संस्कृतां उल्लापे(ये) गृहीतकां शेय्यासनं  
+ओमयिलमयिलं पाटितविपाटितं मञ्चा च पीठा च ओद्द्रिण्णकां  
+पलुग्गकां उप्पादकां (१४ब्६) उ(दु)त्थितकां वातातपेन ओपूरियन्तां  
+काकशकुन्ने(न्ते)हि ओहर्षि(यि)यन्तां वर्षेण ओवर्षियन्तां प्राणकेहि  
+खज्जन्तां भगवान जानन्तो येच(व) भिक्षूं पृच्छति । किं एते भिक्षवो  
+विहारका ओद्द्रिण्णका पलुग्गका शेय्यासनं (इ।प्।८३) ओमयिलमयिलं  
+पाटितविपाटितं मञ्चा पीठा च ओद्द्रिण्णका पलुग्गका उप्पादका  
+उ(दु)त्थितका वातातपेन ओपूरियन्ता काकशकुन्ने(न्ते)हि ओहयियन्तां  
+वर्षेण (ओ)वर्षियन्ता प्रा(१४ब्७)प्राण(ज्।६५)केहि खज्जन्ता । भिक्षू आहंसु ।  
+ये भगवं आगन्तुका च नेवासिका च ते प्रतिसंस्करिष्यन्ति । वयं  
+इत्वारवासिनो   
+     भगवान् आह । तेन हि एवं सर्व्वेहि शेय्यासने प्रतिपद्यितव्यं । किन् ति  
+दानि एवं हि सर्व्वेहि शेय्यासने प्रतिपद्यितव्यं । एते दानि विहारका  
+भवन्ति । ओद्द्रिण्णका पलुग्गका अचौक्षा अप्रतिसंस्कृतका ततो रणरणाये  
+गण्डिं आहणिय सर्व्वसङ्घेन सन्निपति(१५अ१)तव्यं । अथ दानि कश्चिद्  
+आह । अहन् धर्म्मकथिको अहं विनयधरो अहम् आरण्यको पिण्डचारिको  
+पांसुकुलिको य एतो(ते) द्रोणी श्रमणका ते प्रतिसंस्करिष्यन्तीति ॥ ते  
+विनायातिक्रमम् आसादयन्ति ।  
+     अथ खलु सर्व्वेहि सन्निपतितव्यं । अन्येहि ताव मृत्तिका मर्द्दितव्या ।  
+अन्येहि खाणुका विशालिका वा पिण्डका वा परिपूरिय दातव्या । अन्येहि  
+परिहरितव्यं । अन्येहि लिप्पितव्यं । अ(१५अ२)न्येहि मज्जितव्यं । अन्येहि  
+उदकं परिहरितव्यं । अथ दानि बहुं लिप्पितव्यं भवति । भिक्षू च  
+शाठ्येन करेन्ति । किं कर्त्तव्यं मितकं दातव्यं । इमन् तव खण्डं  
+इमं तव खण्डन् ति । इमं त्वया प्रतिसंस्कारयितव्यं । एते विहारका  
+उल्लापे(ये) गृहीतका भवन्ति अप्रतिसंस्कृता वा उप्पंसुला वा  
+सर्व्वसङ्घस्य गण्डिम् आकोटयित्वा अन्येहि तावद् या भित्ति ओल्लाये  
+गृहीतकायो तायो शा(१५अ३)टयितव्यायो अन्येहि मृत्तिका मर्द्देतव्या ।  
+अन्येहि उदकः परिहरितव्यः । अन्ये(हि) मृत्तिका परिहर्त्तव्या । अन्यो लेपो  
+दातव्यः । (ज्।६६) अन्यैः स(ं)मार्जितव्यं । विहारका उप्पेडनका भवन्ति ।  
+शर्कराटका वा आपकपांसुको वा परिहरितव्यो आकोटयितव्यो । अथ दानि  
+उपंसुलका विहारका भवन्ति । अन्यैर् ग्गोमय परिहर्त्तव्यः ।  
+अन्यै(१५अ४)र् उदकं परिहर्त्तव्यः । अन्यै(ये)हि अध्वापयितव्यं । अन्येहि  
+गोमयकार्षी दातव्या । नापि दानि (इ।प्।८४) अध्युपेक्षितव्यं । शेय्यासनं  
+ओण्णियो वा कोचवको वा प्राका(वा)रा वा बिसियो वा चतुरस्रको वा  
+बिम्बोहनका वा चिलिमिलिका वा ओमयिलमयिला वा पाटितविपाटितविपाटिता  
+वा अचौक्षा वा अप्रतिसंस्कृता वा । अथ खलु कालेन कालं । अ(१५अ५)न्येहि  
+ओषा गालयितव्यो । अन्येहि उदकं परिहर्त्तव्यं । अन्येहि क्षारं  
+आनयितव्यं । अन्येहि वोध(धोव)यितव्यम्, । अन्येहि पीडितव्यं । अन्येहि  
+विसयितव्यं । अन्येहि परिहर्त्तव्यं । मञ्चा वा पीठा वा ओड्डिण्णका वा  
+पलुग्गका वा पलुग्गका वा भवन्ति । सर्व्वेहि मुञ्जा वा बल्बजा वा  
+कर्त्तितव्या । मञ्चा वा वातव्या पीठा वातव्या बिसी सीवयितव्या ।  
+चतुरस्रा दाप(१५अ६)यितव्या ॥ नङ्गलानि उत्थापयितव्यानि । एते मञ्चा वा  
+पीठा वा भग्नका वा भवन्ति । यो यं पश्यति (ज्।६७) तेन य्येव गण्ठी  
+कर्त्तव्या । उपादका भवन्ति । यो ये(व) पश्यति तेन येव समं  
+स्थापयितव्यं । दुत्थितका भवन्ति । सुस्थितका कर्त्तव्या । वातातपेन वा  
+ओपूरियन्ति । यो येव पश्यति तेन य्येव निवाते स्थापयितव्या ।  
+काकशकुन्तेहि वा ओहयियन्ति । यो य्येव पश्यति । तेन य्येव (१५अ७) छन्ने  
+स्थापयितव्या । वर्षेण ओवर्षयन्ति । यो येव पश्यति तेन य्येव निरोवर्षे  
+स्थापयितव्या । प्राणकेहि खज्ज(न्)ति । यो येव पश्यति । तेन य्येव  
+च्छिन्नगण्ठिका करियाण प्रतिपादकेहि स्थापयितव्या । एवं सर्व्वेहि  
+शय्यासने प्रतिपद्यितव्यं । न प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान्  
+अतिक्रमति ॥ * ॥  
+    
+     इइ।८ म्स्।१५अ७ (ज्। ६७।९); छ्।५०४अ१४  
+     भगवान् श्रावस्त्यां विरहति शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्त(१५ब्१)रेण निदानं कृत्वा ते दानि भिक्षू प्रकीर्ण्णकस्य उच्छ्वासं  
+करोन्ति । जनो दानि ओध्यायति । पश्यथ भणे श्रमणका यथा उष्ट्रा  
+वा गोणा वा गर्द्दभा वा च्छगलका वा एवम् इमे श्रमणा  
+प्रकीर्ण्णकस्य उश्वासं करेन्ति । नष्टं भ्रष्टं कुतो एषां  
+श्रामण्यं । एतं प्रकरणं भिक्षूहि श्रुतं भिक्षू भगवतो  
+आरोचयेंसु । भगवान् आह । सत्यं भिक्षवो जनो ओध्यायति आम  
+भगव(व)(१५ब्२)न्   
+(इ।प्।८५) भगवान् आह । तेन हि वर्च्चकुटी नाम कर्त्तव्या ।  
+वर्च्चकुटीं दानि भिक्षुणा कारापयमाणेन नापि क्षमति (ज्।६८)  
+विहारस्य पुरस्तिमेन वा उत्ता(त्त)रेण वा कारापयितुं । अथ खलु  
+दक्षिणेन वा पश्चिमेन वा कारापयितव्या । वातपथं मुक्त्वा  
+मल्लकतला खडा खणितव्या । प्रपातनिश्रितं वा यदि वा खानिया  
+उदकान्तिका भवति । प्रथमं कल्पियकारेण ओह(१५ब्३)यियापेतव्या । अथ  
+दानि प्रपातनिश्रिता वा उर्ण्णावच्चघरं वोवत्ति गच्छति । अन्तरा(म्)  
+काष्ठं दातव्यं । यथा तहिम्, । प्रथमं निय(प)तेय परिमलं वा  
+चतुरस्रं वा निवितव्या । इष्टकाहि वा उपलैर् व्वा च्छादयितव्या । यानि  
+साराणि च दृढानि च स्थूला(नि) च काष्ठानि तान्य् अधस्ता दातव्यानि ।  
+तत्र काष्ठेहि वा फलकेहि वा ओहाटयितव्या । उपरि इष्ट्(अक्)आहि मृत्तिकाय  
+(१५ब्४) च्छादयितव्यानि । तच् च मुखानि कर्त्तव्यानि हस्ताम् वा आयामेन  
+निमुष्टकम् वा हस्तम् विस्तारेण तत्र कण्ठवारिणि कर्त्तव्या ।  
+कक्षमात्री वा गलमात्री वा वंशे(न) वा नलेन वा नङ्गलेहि वा  
+फलकैर् व्वा तथा कर्त्तव्या यथा उपविष्टा अन्योन्यं न पश्यन्ति ।  
+शीर्षी(षा)न् तत्रोपरि च्छादेतव्यं कुड्ड(म्) उत्थपियाणं वलभी  
+कारयितव्या । आकाशतलं वा लिम्पितव्या मृत्ति(१५ब्५)काय वा सुधाय वा  
+तृणच्छन्ना वा कर्त्तव्या । अपरस्मिन् पार्श्वे वर्च्चकुटीका कर्त्तव्या ।  
+तहिं स्थापेतव्या काष्ठकुण्डानि वा मृत्तिकाकुण्डानि वा उदक  
+पूरयितव्यानि । तहिं (ज्।६९) स्थापेतव्यं करीषो मृत्तिका वा ऊषो वा ततो  
+जानितव्यं । यदि ताव सा खानि।मा वर्च्चकुटी भवति । ततो  
+वर्च्चकुम्भिका बाहिरोदिवा कर्त्तव्या । यथा तं उदकं अन्ये न  
+गच्छति । अथ (१५ब्६) दानि प्रपातनिस्रिता भवति । वर्चकुटी किञ् चापि  
+तहि(म्) य्येव उदकं पतति । अनापत्तिः । वर्च्चकुम्भिकाये पुरतो  
+कल्पियकरकि स्थापयितव्या उदकस्य पूर्ण्णतानि तानि कुण्डकानि वा  
+कटाहकानि वा नापि क्षमति । अध्युपेक्षितुं । सप्राणकानि वा  
+अधोतकानि वा । अथ खलु उद्दिशितव्यं । नवकान्ते वा पटिपाट्टिकाय  
+वा यस्य वा प्रापुणति । तेन तानि कुण्डनिकानि कालेन कालम्, (१५ब्७)  
+पूरयितव्यानि । कालेन कालं धोवयितव्या(नि) । कालेन कालं आतपे  
+शोषयितव्यानि । अथ (इ।प्।८६) तानि काष्ठमयानि भवन्ति । न क्षमति ।  
+आतपे न शोषयितुम्, । मा फुट्टिंसु त्ति । शोषयित्वा च्छाता(या)यां  
+स्थापयितव्यानि । यं कालं परिशुष्कानि भवन्ति । ततो पूरेतव्यानि ।  
+वर्च्चकुटीये पुरतो कुटी वा शाला वा कर्त्तव्या । तत्र चीवरवंशा वा  
+चीवरबिसि वा दीर्घ(ज्।७०)नागदन्त वा कर्त्तव्याः । य(१६अ१)त्र भिक्षू  
+कल्पिकानि चीवरकाणि विनिक्षिपिय वर्च्चकुटी प्रविशन्ति नापि दानि  
+द्रविडेन विय प्रश्रावकरणं गृह्नित्वा वर्च्चकुम्भि(टि)का(म्)  
+गन्तव्यं । अथ दानि वर्च्चकुम्भिकां सप्राणका भवति । न दानि  
+(क्षमति) वक्तुम्, । आयुष्मन्तो सप्राणका वर्च्चकुटि(म्भि)का । अथ खलु  
+तृणम् वा तूलिका वा उपरि स्थापेतव्या । यथाज्ञाये सप्राणकेत्य्  
+अभिज्ञानं । उदककृत्यं करेन्तेन न दानि ज्झल्लज्झलेये उदकं  
+चेतव्यं । अथ ख(१६अ२)लु माता येव चेतव्यं । रिक्तकां  
+वर्च्चकुम्भिकां पश्यति । न तदा अध्युपेक्षितव्यं । यस्य ओहेय्यको  
+भवति । तस्य आवि(चि)क्षितव्यं । स्वयं वा पूरयितव्यं । अन्तमसतो  
+कुम्भिकायं । एकस्य (यत्तकम्) पर्यास्तं भवेया तत्तकं दातव्यं ।  
+अथ दानि ग्लानो भवति । आर्षव्याधिकं वा प्रस्कन्दिकं वा  
+लेक्ष(ङ्क)टाखण्डेहि वा भस्त्रायनङ्केहि वा सुकुमारेहि दयितव्यम्, ॥  
+* ॥ एषैवार्थोत्पत्तिः ।  
+     भगवा(१६अ३)न् श्रावस्त्यां विहरति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा अपरेण दानि भिक्षुणा वंशशलाकाहि  
+व्रणमुखं पोत्थि(च्छि)तं तस्य दानि क्षतं सरुधिरं कृतं । एतं  
+प्रकरणं (ज्।७१) भिक्षू भगवतः । आरोचयेंसुः । भगवान् आह ।  
+शब्दावथ भिक्षुं सो दानि शब्दापितो । भगवान् आह । एवं च त्वं  
+वंशशलाकाहि व्रणमुखं पे(पो)च्छेसि तेन हि न क्ष(१६अ४)मति  
+वंशशलाकाहि कण्डविदलिकै(के)न वा नलकाष्ठेन वा । कठल्लेन वा  
+अस्थिखण्डेन वा व्रणमुखं पोच्छितुम्, । अथ खलु अवलेखनं नाम  
+कर्त्तव्यं । ओलिका वा स्थापयितव्या । मृत्तिकामया वर्त्तिका कर्त्तव्या । या  
+खानिमा वर्च्चकुटी भवति । नापि क्षमति भिक्षुणा व्रणमुखं  
+पोच्छयता तायो वर्त्तिकायो वा कुलिकायो वा वर्च्चकुटीये प्रक्षिपितुम्, ।  
+(१६अ५) अथ खलु एकमन्ते (इ।प्।८७) कूटकं कर्त्तव्यं । तायो देवसिकं  
+च्छोरयितव्यायो वा दहिय भूयो वा दहिय भूयो वा थपयितव्यायो । अथ  
+दानि भिक्षु पश्यति । को इमायो दहिष्यतीति । त(ता)यो च्छोरिय अन्यायो  
+स्थापयितव्यायो । अथ दानि प्रपातनिश्रिता भवन्ति । किञ्चापि तहिं  
+अपलेखाम् वा प्रक्षिपति । सङ्करं वा अनापत्तिः । वर्च्च(म्) करन्तेन  
+त(१६अ६)था कर्त्तव्यम्, । यथा उच्चारप्रश्रावखेटसिङ्घाणकं सर्व्वं  
+तहिं निगच्छे । अथ दानि अन्यो चौक्षीकृतं भवति । ओहाणम् वा । खेटं  
+वा । सिंहाणकम् वा वर्च्चे वा तहि(म्) निक्षिप्तं भवति । उच्चिकाये तहिं  
+सर्व्वं प्रक्षिपितव्यं । नापि दानि क्षमति । अकृत्वा उदककृत्यं  
+साङ्घिकं शेय्यासनं परिभुञ्जितुं ॥ * ॥ एषा एवार्थोत्पत्तिः ॥  
+     भगवान् श्रावस्त्यां विहरति । शास्ता देवानाञ् च मनुष्याणां (१६अ७)  
+च । विस्तरेण निदानं कृत्वा अपरो दानि भिक्षुः । (ज्।७२) उश्वासेन उद्दीपितो  
+निवसनं ओगुहिय वर्च्चकुटिं प्रविशति । तहिं च अपरो भिक्षुः  
+पूर्व्वप्रविष्टो सो दान् आह । मा मे आयुष्मं ओहयेसि । एतं प्रकरणं  
+भिक्षुः । भगवतो आरोचयेंसुः । भगवान् आह । तेन हि एवं वर्च्चे  
+प्रतिपद्यितव्यं । किन् ति दानि एवं वर्च्चे प्रतिपद्यितव्यं । नायं ताव  
+क्षमति । भिक्षुणा क्षमयितुम्, (१६ब्१) याव उश्वासेन उत्पीडितो त्ति ॥ अथ  
+खलु समुदाचारमात्रकेणैव वर्च्चकुटिं गन्तव्या । अथ दानि  
+भिक्षुः । उश्वासेन सहसा उप्पडि(तो) भवति न क्षमति निवासनं  
+ओगुहिय अशब्दकर्ण्णिकाये वर्चकुटी प्रविशितुं । अथ खलु अच्छटिकां  
+कर(न्)तेन प्रविशितव्यं । यदि तातव(व त)हि(म्) कोचि पूर्व्वप्रविष्टो  
+भवति तेन प्रत्यच्छटिका कर्त्तव्या । इमिना आगमयितव्यं । ताव याव  
+उत्थित इति । अथ दानि (१६ब्२) उप्पीडितो भवति । अच्छटिकां करन्तेन  
+अल्लीपितव्यं । इमिना च पराङ्मुखेन भवितव्यं । तस्य चावकाशो  
+दातव्यः । तेन च पराङ्मुखेन उ(प)विशितव्यं । अन्तरं दातव्यः ।  
+नापि दानि दूरतो येच(व) निवास(न)ं ओगुहिय उपवेष्टव्यं । (ज्।७३) अथ  
+खलु समनन्तरं उपविशितव्यं च निवसनं निगुहितव्यं च नापि दानि  
+क्षमति वर्चकुटीयं उपविष्टेन ध्यानान्तरगतेन वा  
+मिद्धान्तरगतेन वा उ(१६ब्३)द्देशं वा (इ।प्।८८) स्वाध्यायम् वा  
+मनसिकरेन्तेन आसितुं । अथ खलु समुदाचारं करिय उत्थिय च्छत्ति  
+म(ग)न्तव्यं । नापि क्षमति । साङ्घिकेन शेय्यासनेन प्रावृतेन  
+वर्च्चकुटी प्रविशितुं । नापि क्षमति । कल्पिकेहि चीवरेहि प्रावृतेहि  
+वर्च्चकुटीं प्रविशितुं । अथ खलु स्थापयित्वा प्रवेष्टव्यं नापि दानि  
+क्षमति । दन्तकाष्ठं खादन्तेन वर्च्चकुटीं प्र(१६ब्४)वेष्टुं ।  
+एकान्ते निक्षिपित्वा प्रवेष्टव्यं । नापि क्षमति । ओगुण्ठितशीर्षेण वा  
+ओहयितहस्तेन न वा वर्च्चकुटीं प्रवेष्टुं । अथ खलु एकांसीकृतेन  
+प्रवेष्टव्यं । एषो भिक्षुः पुरिमे वा पश्चिमे वा प्रहाणी(णे) उपविष्टो  
+समुदाचारकृतो भवति । प्रहाणस्य आमन्त्रियाण च्छत्ति वर्च्चकुटीयं  
+गन्तव्यं । अथ दानि भिक्षू उत्पीडितो भवति नापि क्षमति । (१६ब्५) यथा  
+उष्ट्रेण वा गोणेन वा गर्द्दभेन वा ऊरूयो (ओ)हंय(यं)तेन गच्छितुम्, ।  
+अथ खलु सङ्घारामस्य एकहिं अन्ते उपविशितव्यं । अथ दानि भिक्षुणा  
+दृष्टो भवति । नापि क्षमति वक्तुम्, । को वा एषो कथं वा एषो मा वेड्डो  
+भवेय त्ति । तेन उश्वासं करन्तेन मल्लकेन वा कोडितेन वा  
+च्छोरयितव्यं । च्छोरियाणं सो पृथिवीप्रदेशो गोमये(१६ब्६)न  
+उद्वर्त्तितव्यं । ततो यदि ताव विभवो भवति । तैलकार्षी वा (ज्।७४)  
+गन्धकार्षी वा दातव्यं । अथ दानि विभवो न भवति । अन्तमसतो  
+गोमयकार्षी दातव्याः । एषो भिक्षुः । चेतियं वन्दितो उश्वासकृतो  
+भवति । समुदाचारमात्रकेनैव निर्द्धावितव्यं । अथ दानि सहसा  
+उत्पीडितो भवति । तदा न क्षमति । उष्ट्रेण वा गोणेन वा ऊरूयो  
+ओहयन्तेन गन्तुम्, । अथ (१६ब्७) खलु एकमन्ते निवास(न)ं ओ(गु)हिय  
+उपविशितव्यं । अथ दानि भिक्षूहि दृष्टो भवति तदा न क्षमति वक्तुं ।  
+को वा एषो कथं वा एषो मा चे(वे)ड्डो भवेय न्ति(त्ति) । तेनापि दानि  
+उश्वासं करिय मल्लकेन वा कोडिल्लेन वा कठल्लेन वा च्छोडियाण सो  
+पृथिवीप्रदेशो गोमयेन उद्वर्त्तयितव्यो । यदि ताव आहत्या पृथिवी  
+भवति । उत्तत्थपितव्या । कृतकर्म्मा पृथिवी भवति उदकेन  
+धोवित(१७अ१)व्यं । यदि ताव विभवो भवति चेतियघरे तैलकार्षी वा  
+दातव्या । अथ दानि न विभवो भवति । अन्तमसतो तंहि पृथिवीप्रदेशे  
+गन्धकार्षी वा दातव्या । अथ दानि आरण्यकं शेय्यासनं भवति ।  
+दुर्लभो गन्धो अन्तमसतो तैलकार्षी दातव्या । एते (इ।प्।८९) द्वे भिक्षू  
+वे(चे)तियं वन्दन्ति यं पश्यन्ति तत्र शुनखेन वा शृगालेन वा उश्वासं  
+कृतकं यो नवको भवति । ते(१७अ२)न च्छोरितव्यं । अथ दानि नवतरको  
+शैथिलिको बाहुलिको भवति । वृद्धतरेण च्छोरितव्यं । (ज्।७५) एते द्वे  
+भिक्षू गोचरं प्रविशन्ति प्रकृत्येव ताव च्छड्डयितव्यम्, । अथ दानि  
+भिक्षूः प्रविष्टो समानो समुदाचारं कृतो भवति । किं कर्त्तव्यं  
+ग्रामान्तिकं शेय्यासनं गन्तव्यं । प्रतिक्रमणम् वागन्तव्यं । नापि  
+क्षमति । भिक्षुणी-उपाश्रये गतागतस्य वर्च्चकुटिं प्रविशितुं । अनेकाये  
+(१७अ३) भिक्षुणिका उपविष्टा भवेय । अथ खलु पृच्छितव्यं । भगिनि किं  
+रिक्ता वा वर्च्चकुटी नेति नापि क्षमति । तरुणिका पृच्छितुं । मा वेण्णा  
+भवेय न्ति(त्ति) । अथ खलु वृद्धा पृच्छितव्या । यदि तावद् आह । आर्य  
+रिक्ता वर्च्चकुटीति । कनकेन वा दकानकेन वा उदकं गृह्णिय  
+प्रविशितव्यं । उश्वासं करिय उदककृत्यं करिय गन्तव्यम्, । अथ दानि  
+एवं पि न भवति नी(१७अ४)लमञ्चं गन्तव्यं । नापि दानि क्षमति ।  
+स्त्रीणां निग(नील)मञ्च(म्) गन्तुं । अथ खलु यो पुरुषाणां नीलमञ्चो  
+तहिं गन्तव्यं नीलमञ्चो न भवति । उत्सृष्टगृहं गन्तव्यं ।  
+पृच्छितव्यं रिक्तो उक्खरो ति न दानि तरुणिका स्त्री पृच्छितव्या । मा  
+अऽप्रहासं देया महन्तिका पृच्छितव्या । यदि तावद् आह । ऋक्तो  
+उदकदकानका आदाय प्रवेष्टव्यं । एवं पि न भवति ।  
+शून्य(१७अ५)घरं वा जम्बालम् वा भवति । तहिं गन्तव्यं । न दानि  
+तहिं गन्तव्यं । न दानि तहिं अतिनि(ः)शब्दप्रवे(दे)शे उपवेष्टव्यं ।  
+मा (ज्।७६) उग्गङ्कितो भवेयं छन्नप्रवे(दे)शे उपवेष्टव्यं । अथ दानि  
+एवं पि न भवति । उत्क्षिप्तरथ्यायां कुड्यं पृष्ठतो कृत्वा उश्वासो  
+कर्त्तव्यो । यो सौ द्वितीयो सहायो भवति । तेन पुरतो पराङ्मुखेन  
+स्थातव्यं । एते भिक्षु सार्थेन सा(१७अ६)र्द्धम् अध्वानं गच्छन्ति ।  
+भिक्षु उश्वासितो भवति नापि क्षमति । य(प)त्थेस्मिं उश्वासं कर्त्तुम्, ।  
+मा (जनो) ओध्यायेंसु केन् इमं (इ।प्।९०) य(प)त्थेस्मि(म्) अन्त्राणि  
+विकीर्ण्णानि । अथ खलु एकतमं ज्झटम् वा वृक्षं वा पृष्ठतो  
+करियाण उपविशितव्यं । नापि दानि अनुवातं कर्त्तव्यं । मा  
+सर्व्वसार्थं गन्धेन व्यावहेय्या अपवातं कर्त्तव्यं । सार्थे  
+निसृष्टस्मिं समुदाचारो भवति । एकान्ते उपविशिय कर्त्त(१७अ७)व्यं । नापि  
+दानि अप्रतिसंविदितेन उथ(च्च)त्तितव्यम्, । मा चोरो वा ओचोरको वा न्ति(त्ति)  
+हन्येया नापि दानि अनुवातं कर्त्तव्यं । या(मा) सर्व्वसार्थो गन्धेन  
+वा(व्या)वहेया अपवातं कर्त्तव्यम्, । नापि दानि क्षमति । प्रतिकृत्येव  
+निवासनं (ज्।७७) ओगुहिय गच्छितुम्, । अथ खलु निवासनं ओगुहितव्यं च  
+उपविशितव्यञ् च न क्षमति निवासनं ओगुहिय वामेन हस्तेन अङ्गजातं  
+गृ(१७ब्१)ह्निय द्रविडेन यथा उदकसमीप(पे) गन्तुं । अथ खलु  
+उत्थिहितव्यं च निवासनं ओसरितव्यं । नावाये गच्छन्तस्य समुदाचारो  
+भवति यदि वर्चकुटी भवति । तहि(म्) कर्त्तव्यं काष्ठकं अन्तरा  
+कर्त्तव्या । यथा तहिं प्रथमं निपतेया एवं न भवति । अन्तमसतो  
+स्वका अङ्गुलि उपथपितव्या । वर्च्चकुटी न भवति । कटा(हे)न वा  
+मल्लिकेन वा उज्झितव्यं स्तूपाभिगृहे वा सङ्घाभिगृहे वा प(१७ब्२)श्यति ।  
+उज्झितव्यं । अथ दानि द्वे चङ्क्रमन्ते । वृद्धतरको नवतरको च  
+नवकेन उज्झितव्यं । अथ दानि सो भवति शैथिलिको वा बाहुलिको वा  
+आवड्ढको वा अशिक्षाकामो (वा) तदा स्वयं उज्झितव्यं । एषो हि भिक्षुः ।  
+दीर्घकेन खायितको भवति । वैद्यो जल्पति भत्ते(न्ते) महाविकटां  
+पायेथ न्ति(त्ति) किं कर्त्तव्यं । यदि ताव आत्मनो उच्चारो भवति । सो एव  
+तस्य प्रतिग्रहो (ज्।७८) अथ (१७ब्३) दानि परकेरको उच्चारो भवति ।  
+प्रतिग्रहापयितव्यो । उदकेन अच्चाविय घनेन नर्त्तकेन परिस्राविय तस्य  
+भिक्षुस्य सुमनाफुल्लानि न शक्ये ददियाणं वक्तव्यं । आयुष्मन  
+इमस्य भैषज्यस्य गन्धो यादृशो उच्चारस्य मा खलु ते अमनाय(प)ं  
+भविष्यति पिबाहि यदि शे जीवितुकामो एवं सर्व्वेहि सर्व्वे(वर्च्चे)  
+प्रतिपद्यितव्यं । न प्रतिपद्यति । अभि(१७ब्४)समाचारिकान् धर्म्मान्  
+अतिक्रमति ॥ * ॥  
+    
+     (इ।प्।९१)   
+     इइ।९ म्स्। १७ब्४ (ज्। ७८।७); छ्।५०४च्१८  
+     भगवान् श्रावस्त्याम् विहरति शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा ते दानि भिक्षुः प्रकीर्ण्णकं प्रश्वासं करोन्ति  
+जनो दानि ओध्यायन्ति । पश्यथ भणे (इमे) श्रमणका । यथा उष्ट्रा वा  
+गोणा वा गर्दभा वा च्छगलका वा एव(म् इ)मे श्रमणका प्रकीर्ण्णकं  
+प्रश्वासं करोन्ति । नष्टं भ्रष्टं कु(१७ब्५)तो वा । इमेषां श्रामण्यं  
+एतं प्रकरणं भिक्षूहि श्रुतं । भिक्षू भगवतो आरोचयेंसु ।   
+     भगवान् आह । सत्यं भिक्षवो जनो ओध्यायति । तेन हि प्रश्वासकुटी  
+नाम कर्त्तव्या । प्रश्वासकुटीपि(ये) दानि भिक्षुणा कार(प)यन्तेन न  
+क्षमति वी(वि)हारस्य उत्तरेण (वा) पूर्व्वेण (वा) कारापयितुं । अथ  
+खलु दक्षिणेन वा पश्चिमेन वा कारापयितव्या वातपथ(म्) मुक्त्वा  
+(१७ब्६) उदकभ्रमणस्य वा त(उ)परि कर्त्तव्या । उपलस्य वा इष्टकाय वा  
+उपरि मल्लतलका खन्नां खनितव्या । मध्ये च्छिद्रकं कर्त्तव्यं ।  
+(ज्।७९) उदकभ्रमणस्य उपरि थपेतव्या सुवा(धा)य समन्तेन  
+लिपितव्या । यदि समन्तेन सेतुः कर्त्तव्यो यथा पतको येव प्रश्वासको  
+बाह्येन निर्ग्गच्छति । धोविय तैलेन म्रक्षयितव्या । नवकान्तेन वा  
+उद्दिष्टकेन वा पटिपाटिकायेन वा यस्य (१७ब्७) वा प्रापुणेति ॥ * ॥ एषा  
+एवार्थोत्पत्तिः ॥  
+     भगवान् श्रावस्त्याम् विहरति शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा अपरो दानि भिक्षुः प्रहाणं उपविष्टको  
+प्राश्वासेन उष्पी(प्पी)डितो प्रश्वासकुटीं गच्छियाणं निवासनं  
+ओ(गु)हियाणं प्रश्वासं करिष्यन्ति । तहिं च भिक्षुः पूर्व्वप्रविष्टो  
+प्रश्वासं करोति । सो जल्पति । मा खलु मे आयुष्मन् ओमुत्रप(य)सि त्ति ।  
+एतं (१८अ१) प्रकरणं भिक्षूहि श्रुतं भिक्षू भगवतो आरोचयेंसु ।   
+     भगवान् आह । तेन हि एवं प्रश्वासे प्रतिपद्यितव्यं । एवं ताव न  
+क्षमति भिक्षुणा आगमयितुं । याव प्रश्वासेन प्र(उ)पीडितो भवति ।  
+अथ खलु समुदाचारमात्रकेनैव प्रश्वासकुटीं गन्तव्यं । नापि  
+दानि क्षमति अशब्दकर्ण्णिकाये प्रश्वासकुटीं प्रविशितुं ॥ अथ खलु  
+अच्छटिकां करन्तेन प्रश्वासकुटिं प्रविशितव्यं । य(१८अ२)दि तहिं कोचि  
+पूर्व्वप्रविष्टो (इ।प्।९२) तेन प्रत्यच्छटिका कर्त्तव्या इमिना ताव  
+आगमयितव्यं । याव प्रश्वासो कृतो अथ दानि सो भिक्षुः । उप्पीडियती  
+येव अच्छटिकां करन्तेन अल्लीपितव्यं । (ज्।८०) इमिना अवकाशो दातव्यो ततो  
+उभयो(ये)हि प्रश्वासो कर्त्तव्यो । नापि दानि क्षमति । ओगुण्ठितशीर्षेण  
+वा ओहितहस्ते(न) वा दन्तकाष्ठं खादन्तेन (वा) उपवेष्ट(ष्टु)ं । अथ  
+खलु एकांसकृतेन एका(१८अ३)न्ते दन्तकाष्ठं स्थापयित्वा  
+उपवेष्टव्यं । नापि दानि तहिं ध्यानान्तरेण वा स्वाध्यायम् वा  
+करेन्तेन अशुभसमापत्तिम् वा समापन्नेन आसितव्यं । अथ खलु  
+प्रस्रावं कृत्वा च्छत्ति उत्थितव्यं । एषो दानि भिक्षुः प्रहाण  
+उपविष्टको प्रश्वासकृतो भवति । उत्थियाणं प्रश्वासकुटीं गन्तव्या ।  
+अथ दानि प्रश्वासेन उप्पीडितो भवति । न क्षमति । यथा उष्ट्[रे]ण वा  
+(१८अ४) गोणेन वा गर्दभेन वा ऊरूयो ओमूत्रियन्तेन गन्तुम्, । अथ खलु  
+एकतमन्ते उपविशिय प्रश्वासो कर्त्तव्यो । अथ दानि केनचि भिक्षुणा  
+दृष्टो नापि दानि क्षमति वक्तुं । को वा एषो कथम् वा एषो मा वेड्डे  
+भवेय न्ति(त्ति) । तेनापि दानि प्रश्वासं करियाण सो पृथिवीप्रदेशो यदि  
+तावद् आहत्य ।(त्या) पृथिवी भवति । काष्ठेन वा कठल्लेन वा  
+उत्तत्थिया(१८अ५)णं च्छोरयितव्यो अथ दानि कृतङ्कर्म्मा पृथिवी भवति ।  
+धोवयितव्या । ततो तैलकार्षी वा गन्धकार्षी वा (ज्।८१) दातव्या । अथ  
+दानि नास्ति विभवो अन्तमसतो गोमयकार्षी दातव्या । अथ दानि  
+प्रश्वासकुटी न भवति । एकस्मि(म्) कोणे सर्व्वसङ्घस्य  
+प्रश्वासपटे(घटो) स्थापयितव्यो तस्योपरि च्छिद्रमल्लका दातव्यं ॥  
+मा अप्रकृतिका घटस्य वा बाह्येन [प्र]श्वा(१८अ६)सं छोरेया ति । तत्र  
+तत्रं(कुन्त)को अलाबुओतुम्बको वा थपयितव्यो तहिं प्रश्वासं करियाण  
+घटके प्रक्षिपितव्यं । न दानि तहि(म्) क्षमति । उच्चारो वा  
+खेटसिङ्घाणको वा प्रक्षिपितुं । सो दानि उज्झितव्यो । नवकान्तेन  
+कायस्य वा ओहेय्यको भवति । नापि दानि क्षमति । अत्या(भ्या)गमे  
+प्रदेशे उज्झितुं सर्व्वसङ्घस्य मा गन्धेन व्यावहेय्या । अथ दानि  
+द्विभूमको भवति । द्वितीयायां (१८अ७) भूमियं तथा येव घटको  
+स्थापयितव्यो । तृभूमिको भवति । तृतीयायां भूमौ तथा य्येव  
+स्थापयितव्यं । तहिं प्रश्वासं (इ।प्।९३) करितव्यं । कर्ण्णिकं यं कालं  
+प्रहाणस्य यथासुखं कृतं भवति । तं कालं प्रश्वासघटिका  
+निक्काल(ज्।८२)यितव्या । केनायं निक्कालयितव्यो । नवकान्तेन वा  
+पटिपाटिपाटिकाय वा यस्य वा प्रापुणति । ततो पि न क्षमति । सो तहिं  
+च्छोरयितुं । यहिं देवे व(१८ब्१)र्षिन्तस्य स्तूपविग्रहं वा सङ्घविग्रहं  
+वा गच्छति । अथ खलु तहिं च्छोरयितव्यं । यहिं देवे वर्षन्तेन अन्ये  
+न गच्छति नापि क्षमति । प्रश्वासघटं अभिनिकुञ्जे प्रदेशे  
+स्थापयितुं । मा अन्ये भिक्षू न पश्येंसु । नापि क्षमति । अतिप्राकटे  
+प्रदेशे स्थापयितुं । मा नं ढोस्सा वा विडा वा वातपुत्रा वा  
+भुञ्जेंसु । अथ खलु प्रच्छन्नप्राकटे स्थापयितव्यं । विकाले  
+प्रविशियाणं तहिं य्येव (१८ब्२) स्थाने स्थापयितव्यो । घटस्योपरि  
+च्छिद्रमल्लकं स्थापयितव्यं । च्छिद्रमल्लकस्योपरि कुन्तको वा  
+अलाबुतुम्बुको वा थपयितव्यो । अथ दानि सङ्घे प्रश्वासघटो न  
+भवति । पौद्गलिकपौद्गलिकानि प्रश्वासघटिकानि स्थापयितव्यानि ।  
+घटिका वा कारका वा अलाबुतुम्बुका वा कल्प(य)तो एव प्रश्वासं  
+एकमन्ते विसर्जिय प्रश्वासभण्डकं । वोधि(धोवि)य प्रतिगुप्ते (१८ब्३)  
+प्रदेशे आतपे स्थापयितव्यं । ततो विकाले भूयो प्रवेशितव्यो । कुत(न्त)को  
+भवति । एवं य्येव कर्त्तव्यं तुच्छकं भवति कल्प(य)तो येच(व)  
+उज्झित्वा च्छन्ना(न्ने) स्थवितव्यं । मा फुट्टेंसु शिक्तेन उच्चिनित्वा  
+स्थापयितव्यं । मल्लकं भवति । एकान्ते उज्झित्वा धोवित्वा आतपे  
+स्थापयितव्यं । सायं प्रवेशेन्तेन कुन्त वा तुम्बका वा शिक्षे(क्ते)(न)  
+(ज्।८३) उच्चिनित्वा मञ्चकस्थाने उल्लपितव्यं । ओरु(१८ब्४)हन्तेन मल्लकं  
+घटिका वा मञ्चकस्य च ओरुहन्तेन सुस्थपिता कर्त्तव्या भाजनं न  
+भवति । वर्षा उदकं च भवति । न दानि तथा प्रस्रावो व(क)र्त्तव्यो ।  
+यथा चेतियाभिगृहं उपरि घंश्वतो गच्छेया एकान्तके कर्त्तव्यं ।  
+अग्निशालायां वा उपस्थानशालायां वा उपविष्टस्य समुदाचारो भवति ।  
+च्छत्ति निष्क्रमितव्यं । अथ दानि उप्पिलितो भवति अकं,(१८ब्५)थायेने विय  
+मूत्रेण सिञ्चन्तेन न गन्तव्यं । अथ खलु एकान्तेन कृत्वा उज्झितव्यं  
+(इ।प्।९४) । तैलकार्षी दातव्या । अन्तमसतो गोमयकार्षी दातव्या । एषो  
+भिक्षु चेतियं वन्दन्तो प्रश्वासकृतो भवति । समु(दा)चारमात्रकेण  
+एव गन्तव्यं । अथ दानि भिक्षु सुष्ठु उप्पीलितो भवति नापि क्षमति ।  
+यथा उष्ट्रेण वा गोणेन वा उरूयो ओमूत्रन्तेन गन्तुम्, । अथ (१८ब्६)  
+खलु एकमन्तेन प्रश्वासो कर्त्तव्यो । अथ दानि कोचि भिक्षु पश्यति ।  
+नायं वक्तव्यो को एषो किम् वा कथम् वा एतं ति मा वेड्डो भवेय  
+न्ति(त्ति) । तेनापि प्रश्वासं करियाण यदि ताव आहत्या पृथिवी भवति ।  
+काष्ठेन वा कठल्लेन वा उत्तच्छि(त्थि)य च्छोरयितव्यं । (ज्।८४) अथ  
+दानि कृतकर्म्मा पृथिवी भवति धोवितव्या । सर्व्वत्र चेतियङ्गृहे  
+गन्धकार्षी वा तैलकार्षी वा दातव्या । अथ दानि विभवो न (१८ब्७)  
+भवति । अन्तमसतो तहिं पृथिवीप्रदेशे तैलकार्षी वा गन्धकार्षी वा  
+दातव्या । अथ दानि आरण्यकं शेय्यासनं भवति दुर्ल्लभो गन्धो  
+अन्तमसतो तैलकार्षी दातव्या । एषो भिक्षुः गोचरं प्रविसति । प्रकृत्येव  
+ताव प्रश्वासं करिय प्रविशितव्यं । अथ दानि भिक्षुः गोचरं प्रविष्टः  
+प्रश्वासकृतो भवति । नापि क्षमति । अभ्यागमे प्रदेशे प्रश्वासं  
+कर्त्तुम्, । अथ ख(१९अ१)लु या उ(त्)क्षिप्तरथ्या भवति तुण्डरथ्या तहिङ्  
+गन्तव्यं । कुण्ड(म्) अग्रतो करियाण प्रश्वासो कर्त्तव्यो यो से द्वितीयो  
+सहायो भवति । तेन पृष्ठतो स्थातव्यं । पराङ्मुखेन एषो भिक्षुः  
+सार्थेन समानम् अध्वानं गच्छति । प्रश्वासकृतो भवति । नापि  
+क्षमति । पन्थेस्मिं प्रश्वासं कर्त्तुं । मा जनो ओध्याये केन इमे  
+पन्थे प्रश्वासो कृतो रुधिरं विय च्छन्दितुं । अथ खलु एकान्ते  
+प्रश्वासो कर्त्तव्यो । (१९अ२) पन्थातो उस्सरिय एकान्ते कर्त्तव्यं । नापि दानि  
+क्षमति । अनुवातं कर्त्तुम्, । मा सार्थो गन्धेन व्यावहेय्या । अपवातं  
+कर्त्तव्यं । अथ दानि सार्थे सन्निविष्टे समुदा(चा)रो भवति । एकान्ते  
+उच्चत्तिय कर्त्तव्यं । (ज्।८५) न दानि अप्रतिसंविदितेन उच्चत्तितव्यं । मा  
+चोरो वा ओचोरको वेति हन्येया । अथ खलु संविदितेन उच्चत्तितव्यं । नापि  
+दानि अनुवर्त्तित(वातं कर्त्त)व्यं । अपवातं कर्त्तव्यं । नावारे(ये) (१९अ३)  
+गच्छन्तस्य समुदा(चा)रो भवति । यदि वर्च्चकुटी भवति तहिं  
+कर्त्तव्यं ॥ अथ दानि वर्च्चकुटी न भवति भाजने कृत्वा उज्झितव्यं ॥  
+(इ।प्।९५) अथ दानि ग्लानो भवति भिक्षुः पाण्डुरोगेण वैद्यो जल्पति ।  
+भञ्जेन्तं प्रतिमूत्रं पिबनाय देथे त्ति किं कर्त्तव्यं यदि ताव  
+आत्मनको प्रश्वासो भवति । पुरिमपश्चिमकं च वर्जयित्वा मध्यमं  
+गृह्नितव्यो । एवम् तस्य प्रतिग्रहः । (१९अ४) अथ दानि अन्यातकं भवति  
+पुरिमपश्चिमकञ् च वर्ज्यं कृत्वा गृह्नितव्यं । ततः पश्चात्  
+प्रतिग्राहयितव्यं । तस्य ग्लानस्य सुमनाफुल्लं न (श)क्के ददियाणं  
+वक्तव्यं । इमं खलु बुद्धप्रज्ञप्तं भैषज्यं पिब यदि जीवितुकामो  
+सि । एवं प्रश्वासे प्रतिपद्यितव्यं । न प्रतिपद्यति ॥ अभिसमाचारिकान्  
+धर्म्मान् अतिक्रमन्ति ॥ * ॥  
+    
+     इइ।१० म्स्।१९अ४ (ज्।८५।१४); छ्।५०५अ२३  
+     भगवान् श्रावस्त्यां विह(१९अ५)रति । शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण निदानं कृत्वा । अपरेण दानि भिक्षुणा साङ्घिकायं (ज्।८६)  
+भूमौ आम्रपोतको रोपितको सो दानि तं उन्नेति व(र्)द्धेति घटसिक्तको  
+एकपुत्रको विय अपरेण भिक्षुणा आगच्छिय उप्पाडिय दन्तकाष्टं  
+खायितं सो दानि तेन दृष्टो ॥ सो दान् आह । आयुष्मन् एवं च दानि त्वं  
+मम आ(१९अ६)म्रपोतको घटसिक्तको एकपुत्रकं विय संवर्द्धितव्यं ।  
+उप्पाडिय दन्तकाष्ठं खादसि । एतं प्रकरणं भिक्षूहि श्रुतं  
+भिक्षू भगवतो आरोचयेंसु । भगवान् आह । शब्दापयथ तं भिक्षुं ।  
+सो दानि शब्दापितो भगवान् आह । सत्यं भिक्षु एवं नाम अपरेण  
+भिक्षुणा साङ्घिकायां भूमौ आम्रपोतको रोपितो सो दानि तेन उन्नीतो  
+वर्द्धितो घटसिक्तको एकपुत्र(१९अ७)को विय त्वया सो अगे(आग)च्छिय  
+उप्पाडिय भञ्जिय दन्तकाष्ठं खादितं । आह । आम भगवं  
+भगवान् आह ॥ एवं नाम त्वं पुष्पोपगतं वृक्षं उप्पाडिय  
+दन्तकाष्ठं खादसि । तेन हि न क्षमति । दन्तकाष्ठं ॥ * ॥ एषा  
+एवार्थोत्पत्तिः ॥  
+     भगवान् श्रावस्त्यां विहरति शास्ता देवानाञ् च मनुष्याणाञ् च  
+विस्तरेण (इ।प्।९६) निदानं कृत्वा भगवान् महतीये बालाकिनीये  
+भिक्षुपर्या(षा)ये धर्म्मन् देशय(१९ब्१)ति । ते दानि भिक्षू  
+दन्तकाष्ठं न खादन्ता एकान्ते निषण्णा आसन्ति प्रवातगन्धिकेन  
+मुखेन पश्यन्ति । मा सब्रह्मचारिं गन्धेन (ज्।८७) व्यावहिष्यामः ।  
+भगवान् जानन्तो येव पृच्छति किं एते भिक्षवो भिक्षू एकान्ते आसन्ति ।  
+कलहितका विय मन्ये । भिक्षू आहंसु । भगवता दन्तकाष्ठं  
+प्रतिक्षिप्तं । ततो एते भिक्षवो एकान्ते आसन्ति । प्रवातगन्धिकेन  
+मुखेन पश्यन्ति मा सब्रह्मचा(१९ब्२)री गन्धेन व्यावहिष्यामः ।  
+भगवान् आह । तेन हि अनुजानामि दन्तकाष्ठं प्रामाणिकं महान्तं  
+षोडशाङ्गुलम्, ॥ * ॥ एषैवार्थोत्पत्तिः ॥  
+     भगवान् श्रावस्त्यां विहरति । ते दानि आयुष्मन्तो नन्दनोपनन्दना  
+सवल्लरिकानि दन्तकाष्ठानि खादन्ति जनो दानि ओध्यायन्ति पश्यथ  
+भणे श्रमणकाः । यथा कुमारका वा धर्म्मिष्ठा वा अक्षदर्शा वा  
+गण(का) वा महामत्रा वा । एवम् इमे श्र(१९ब्३)मणकाः सवल्लरिकानि  
+दन्तकाष्ठानि खादन्ति । नष्टं भ्रष्टं कुतो इमेषां श्रामण्यं एतं  
+प्रकरणं भिक्षू भगवतो आरोचयेंसु । भगवान् आह शब्दापयथ  
+नन्दनोपनन्दनां ते दानि शब्दापिता । भगवान् आह । सत्यं भिक्षवो  
+नन्दनोपनन्दना एवं नाम यूयं सवल्लरिकानि दन्तकाष्ठानि  
+खादथ । जनो दानि ओध्यायति पश्यथ भणे श्रमणका यथा (१९ब्४)  
+कुमारका वा धर्म्मिष्ठा वा गणका वा राजपुत्रा वा इमे  
+श्रमणकाः सवल्लरिकानि दन्तकाष्ठानि खादन्ति । नष्टं भ्रष्टं  
+कुतो इमेषां श्रामण्यं आहंसु । आम भगवन् भगवान् आह । एवं च  
+दानि यूयं अप्रमाणानि दन्तकाष्ठानि खादथ । तेन हि प्रमाणिकं  
+दन्तकाष्ठं खादयितव्यं । दन्तकाष्ठानि नाम त्रिणि ज्येष्ठं  
+मध्यमं कनीयसं । ज्येष्ठं (ज्।८८) नाम षोडशाङ्गु(१९ब्५)लानि  
+मध्यमं द्वादशाङ्गुलानि कनीयसम् अष्टाङ्गुलानि ॥ * ॥   
+     भगवान् श्रावस्त्याम् विहरति विस्तरेण निदानं कृत्वा अपरो दानि भिक्षु  
+दन्तकाष्ठं खादति । तेन दानि खादन्तेन दन्तकाष्ठं  
+थो(निर)वशेषं कृतं । तेन दानि भगवान् दृष्टो भगवतो गौरवेण  
+सर्व्वम् अभ्यवहृतं । तस्य दानि अफांसु । एतं प्रकरणं भिक्षू  
+भगवतो आरोचयें(१९ब्६)सु । भगवान् आह । एवं च यूयं सर्व्वम्, (इ।प्।९७)  
+निरवशेषं दन्तकाष्ठं खादथ तेन हि शेषाश् चत्वारि अङ्गुलानि  
+दन्तकाष्ठस्य वर्ज्यं कर्त्तव्यं । अथ दानि भिक्षू आरण्यके शेय्यासने  
+प्रतिवसन्ति । कल्पियकारो दुर्ल्लभो भवति किं कर्त्तव्यं । ज्येष्ठकानि  
+दन्तकाष्ठानि कारापयितव्यानि । ततो भिक्षुणा दन्तकाष्टं खादिय  
+कु(र्)च्चकं शस्त्रकेन च्छिन्दितव्यं । धोवियाणं थपयितव्यो । अपरं  
+(१९ब्७) दिवसं एवम् एव खादिय एवं ताव खादयितव्यं याव  
+दन्तकाष्ठस्य चत्वारि अङ्गुलानि अवशिष्टानि ततो च्छोरितव्यं । सो एषो  
+भिक्षुः निरवशेषं दन्तकाष्ठं खादति विनयातिक्रम(म्) आसादयति ।  
+दन्तकाष्ठं पि नाम खादन्तेन न क्षमति । स्तूपविग्रहे वा  
+सङ्घविग्रहे वा दन्तकाष्ठं खादिन्त(तु)ं । अथ दानि भिक्षुः ग्लानो  
+भवति शिराविद्धको वा विरेचनपीतको वा घृत(२०अ१)पीतको वा किञ्चापि  
+सङ्घविग्रहे दन्तकाष्ठं खादति । अनापत्तिः । नापि दानि क्षमति ।  
+दन्तकाष्ठं (ज्।८९) खादन्तेन खेटं दिशोदिशं च्छोरयितुं । कु(र्)च्चको  
+वा दिच्छद्दिय दिशोदिशं च्छोरयितुं । अथ खलु कट(टा)हके वा  
+मल्लके वा कोटियां वा आविद्धपुटिकायाम् वा खेटं च्छोरयितव्यो  
+वामेन च हस्तेन कु(र्)च्चको गृह्णितव्यः । पश्चात एकमन्तेन  
+च्छोरयितव्यः । दन्तकाष्ठं पि दानि खादन्तेन नापि क्षमति ।  
+उपस्थानशा(२०अ२)लायाम् वा अग्निशालायाम् वा भक्तशालायाम् वा  
+कल्पियशालायाम् वा कल्पिककुटिकायाम् वा सङ्घमध्ये (वा)  
+उपाध्यायाचार्याणाम् वा अग्रतो वृद्धतरकानाम् वा भिक्षूणां अग्रतो  
+दन्तकाष्ठं खादितुं । नापि क्षमति मातृग्रामस्य अग्रतो  
+दन्तकाष्ठं खादितुम्, । नापि क्षमति । चेतियं वन्दन्तेन  
+ओगुण्ठितशीर्षेण वा ओहितहस्तेन वा थ(चे)तियाति(भि)गृहे वा प्रासादे वा  
+खा(२०अ३)दितुं । एकांशीकृतेन एकान्ते खादितव्यं । नापि क्षमति ।  
+दन्तकाष्ठं खादिय मध्येन पाटियान जिह्वां निलेहितुं कामभोगिना  
+यथा । अथ दानि भिक्षु जिह्वां निलेहितुकामो भवति । कुर्च्चकेन  
+आमर्जयितव्या । नापि क्षमति विभूषणाभिप्रायेण दन्तकाष्ठं  
+खादितुं ॥ अथ खलु दुर्ग्गन्धप्रहाणार्थं दन्तकाष्ठं  
+खादितव्यं । अथ दा(२०अ४)नि दन्तकाष्ठं न (इ।प्।६८) भवति । अङ्गारेण  
+वा । अपक्कलद्दुना वा दन्ता ओद्य(घ)(र्)सयितव्याः । (ज्।९०) अन्तमसतो  
+अङ्गुलि दन्तकाष्ठं खादितव्यं । स एषो भिक्षुः सर्व्वेण सर्व्वं  
+दन्तकाष्ठं न खादति विनयातिक्रमम् आसादयति । एषो भिक्षु  
+वे(चे)तियं वन्दति । पश्यति दन्तपोणं च्छोरयितव्यो । अथ दानि द्वे जना  
+भवन्ति । यो नवको भवति । तेन (२०अ५) उद्धृतव्या । अथ दानि नवको  
+शैथिलिको बाहुलिको भवति वृद्धतरेण उद्धृतव्यो । एवं दन्तकाष्ठे  
+प्रतिपद्यितव्यं । न प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान्  
+अतिक्रमति ॥ * ॥  
+              उद्दानं   
+              एवं शेय्यासने प्रतिपद्यितव्यं ।  
+              एवं वर्षोपनायिको(के) शेय्यासने प्रतिपद्यितव्यं ।  
+              एवं वर्षोपगतेहि शेय्यासने प्रतिपद्यितव्यं ।  
+              एवं (२०अ६) वर्षवुस्तेहि शेय्यासने प्रतिपद्यितव्यं ।  
+              एवं आगन्तुकेहि शेय्यासने प्रतिपद्यितव्यं ।  
+              एवं नैवासिकेहि शेय्यासने प्रतिपद्यितव्यं ।  
+              एवं हि सर्व्वेहि शेय्यासने प्रतिपद्यितव्यं ।  
+              एवं वर्चे प्रतिपद्यितव्यं ।  
+              एवं प्रश्वासे प्रतिपद्यितव्यं ।  
+              एवं दन्तकाष्ठे प्रतिपद्यितव्यन् ति॥ * ॥   
+॥ द्वितीयो वर्ग्गः ॥ * ॥ 
+
+     (इ।प्।९९) इइइ।१ म्स्।२०अ६ (ज्।९१।१); छ्।५०५च्१  
+     भगवान् श्रावस्त्यां विहरति । विस्तरेण निदानं कृत्वा  
+पञ्चा(२०अ७)र्थवशान् सम्पश्यमानास् तथागता अर्हन्तः  
+सम्यक्सम्बुद्धा । पञ्चाहिकां विहारचारिकाम् अनुचङ्क्रमन्त्य्  
+अनुविचरन्ति । कतमां पञ्च । कच्चि मे श्रावकाः । न कर्म्मारामाः ।  
+न कर्म्मरताः । न कर्म्मारामतानुयोगम् अनुयुक्ता विहरन्ति  
+विस्तरेण यावद् अद्राक्षीद् भगवां पञ्चाहिकां विहारचारिकाम्  
+अनुचङ्क्रमन्तो अनुविचरन्तो अन्यतरं भिक्षु भूमौ अस्तरिय चीवरं  
+(२०ब्१) सीवन्तं भगवां जानन्तो पृच्छन्ति किम् इदं भिक्षुः । आह ।  
+भगवन् इदं चीवरं सिवयामि ।   
+     भगवान् आह । एवन् तं त्वं भूमीय अस्तरीय चीवरं सिवयसि । तेन हि  
+कठिनं नाम कर्त्तव्यं । कठिनं ताव भिक्षुणा कारापयमाणेन  
+द्वादशहस्तां आयामतो कर्त्तव्यो । अष्टहस्तां विस्तारेण वंशानां वा  
+नलानाम् वा न(ं)गलानां वा काण्डानाम् वा चरुकानाम् वा रोहिषाणाम्  
+वा सूत्रिकाय वा रेज्जुकाय वा (२०ब्२) घण बुणितव्यं । यं कालं भिक्षुः  
+चीवरं सीवितुकामो भवति । उपस्थानशालायां वा अग्निशालायां वा  
+प्रासादे वा प्रहाणके कठिनं प्रज्ञापयित्वा चीवरं सीवितव्यं ।  
+कठिनं अस्तरियाणं पादां (ज्।९२) धोवियाणं कठिनस्मिं  
+पल्लङ्केनोपविशियाणं तं चीवरं सीवितव्यं । अथ दानि अपरो पि कोचि  
+सीवयि(तु)कामो भवति तेनापि पादां धोवयित्वा कठिनस्मिं  
+पल्लङ्केनोपविशिय चीवरम्, (२०ब्३) सीवयितव्यं । अथ दानि निषण्णो  
+बाहिरकां पादां कृत्वा मू(सू)त्रं वलेन्तो आसति अनापत्तिः । अथ दानि  
+भिक्षुः पादानं(नि) धोवयितुकामो भवति । न क्षमति । अधोतकेहि  
+पादकेहि कठिनं ओक्रमितुं । अथ खलु बाह्येन कठिनस्मि पादानि  
+थपि।याणं चीवरं सीवयितव्यं । यं कालं चीवरं सीवितं भवति ।  
+कठिनं सव्व(न्व)टियाणं भित्तीये द्वे कीलकानि खनिय रज्जुए (२०ब्४)  
+बन्धिय तहिं उक्कवयितव्यं । यदि अपरो पि कोचि सीवयितुकामो भवति ।  
+तेनापि कठिनं अस्तरीय चीवरकं येच(व) तथा सीवयितव्यं । नापि  
+क्षमति कठिनस्य रङ्गे वा शोधयितुं गोमयं वा चीवरकानि वा  
+शोधयितुं । अथ खलु चीवरकं सीवयितव्यं । नापि क्षमति । कठिनं  
+अध्युपेक्षितुं (इ।प्।१००) । उल्लग्गकं वा पलुग्गकं वातातपेन  
+विनासियन्तं वर्षेण वा ओव(२०ब्५)र्षयन्तं पक्षीहि वा ओहयि(पि)यन्तां ।  
+(ज्।९३) अथ खलु कालेन कालं बन्धितव्यं कालेन कालं  
+प्रतिसंस्कर्त्तव्यो । अथ दानि कठिनं न भवति । मञ्चस्य वा उपरि  
+चीवरं पीठस्य वा उपरि चीवरकं करियाणं सीवितव्यं । अथ दानि  
+एवं न भवति । प्रहाणशालायाम् वा । उपस्थानशालायाम् वा  
+मण्डलमाडे वा प्रदेशकं गोमयेन उपलिम्पिय चीवरकं सीवितव्यं ।  
+अन्तमस(२०ब्६)तो जानुकानां पि उपरि चीवरकं थविय सीवयितव्यं । एवं  
+कठिने प्रतिपद्यितव्यं । न प्रतिपद्यति ॥ अभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥  
+    
+     इइइ।२ म्स्।२०ब्६ (ज्।९३।८); छ्।५०५च्११  
+     भगवान् श्रावस्त्यां विहरति । अपरो दानि भिक्षुः प्रहाणकं  
+उपविष्टो । सो दानि यथासुखं कृते विहारकं अपदुरिय प्रविशति  
+शीतलकं च तेन आक्रान्तं तस्य भवति दीर्घको मया आक्रान्तो तस्य  
+दानि तेन निवरे(र)णेन सर्व्व(२०ब्७)रात्रिं चित्तं न समाधानं गच्छति ।  
+एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु ॥   
+     भगवान् आह । तेन हि चक्कली नाम कर्त्तव्या । चक्कली तावद्  
+भिक्षुणा कारापयमाणेन कारापयितव्या । वंशानाम् वा नडानाम् वा  
+नङ्गलानाम् वा कण्डानाम् वा रेज्जुकाये वा मू(सू)त्रकाये वा घणा  
+बुणितव्या तथा कर्त्तव्या । यथा दीर्घको न संसक्कति । विहारस्य  
+द्वारस्मिं उपरि त्रयो कीलकानि आटपितव्या (२१अ१) तहिं चक्कली  
+बन्धितव्या । ओसारियाणं हेष्ठे द्वे कीलकानां पीडियाण तहिं (ज्।९४)  
+बन्धितव्यं । यं कालं भिक्षुः प्रहाणं ओतरन्ति ततो द्वारं  
+मुञ्चितव्यं । निवापियाण चक्कली ओसारियाणं कीलकेहि बन्धियाण ततो  
+ओसारितव्यं । यं कालं प्रहाणस्य यथासुखं कृतं भवति । ततो  
+विहारं गच्छियाणं चक्कली उत्क्षिपितव्या ॥ नापि दानि सहसा अनेकायो  
+मा तर्हि दीर्घको प्रविष्टो भवेप(२१अ२)य न्ति(त्ति) । अथ खलु  
+खटखटापयितव्यो काष्ठेन वा कठल्लेन वा ततो पश्चाच् चक्कली  
+उत्क्षिपितव्या । प्रविशियाणं चक्कली ओसारयितव्या । द्वारं बन्धितव्यं ।  
+ततो प्रतिक्रमितव्यं पश्चिमं प्रहाणं ओतरितव्यं । द्वारं (इ।प्।१०१)  
+अपदुच्चरितव्यं चक्कली उत्क्षिपियाणं द्वारं पिवि(धि)याणं चक्कली  
+ओसारियाणं प्रहाणं ओतरितव्यं । प्रहाणतो यं कालं उत्थितो भवति ।  
+विहारं गच्छियाणं यदि (२१अ३) (ता)व प्रभातं भवति । चक्कली  
+उत्क्षिपियाणं उपरि बन्धितव्या ॥ द्वारं अपदुरिय ततो प्रविशितव्यं ।  
+एवं देवसिकं न दानि क्षमति दिवसत ओसरयित्वा थपयितुं । नापि  
+क्षमति सा चक्कली अध्युपेक्षितुं । उल्लग्गिका वा पलुग्गिका वा ।  
+प्राणकेहि (ज्।९५) वा खज्जन्ति । अथ खलु कालेन कालं बन्धितव्या ।  
+कालेन कालं प्रतिसंस्कर्त्तव्या । एवं चक्क(२१अ४)लीये प्रतिपद्यितव्यं । न  
+प्रतिपद्येति ॥ अभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+     इइइ।३ म्स्।२१अ४ (ज्।९५।४); छ्।५०५च्१७  
+     भगवान् श्रावस्त्यां विहरति विस्तरेण निदानं कृत्वा पञ्चार्थवसां  
+सम्पश्यमाना याव विस्तरेण कृत्वा यावद् अद्राक्षीद् भगवान्  
+पञ्चाहिकां विहारचारिकाम् अनुचङ्क्रमन्तो विहारां ओद्द्रिण्णकां  
+पल्लुग्गकां उल्लापे(ये) गृहीतकां अचौक्षां अप्रतिसंस्कृतां ।  
+     भ(२१अ५)गवान् जानन्तो येव पृच्छति । किं के(इ)मे भिक्षु विहारका  
+ओद्द्रिण्णका पलुग्गका ओल्लाये गृहीतका अचौक्षा अप्रतिसंस्कृता तेन हि  
+एवं विहारे प्रतिपद्यितव्यं । विहारा नाम त्रीणि ज्येष्ठको मध्यमको  
+कनीयसको ज्येष्ठको नाम विहारको भूमि भवति ।  
+माषकान(ल)वल्ला(र्ण्णा) उल्लोको भवति । प्रपाण्डरा भित्ति भवति ।  
+कृतकर्म्मा एवं ज्ये(२१अ६)ष्ठको किन् ति मध्यमको किन् ति दानि  
+मध्यमको मध्यमको नाम विहारको भवति । माषकालवर्ण्णा  
+भित्ति भवति कृतकर्म्मा । न च भवति । उल्लापो प्रपाण्डरो एवं  
+मध्यमको । किन् ति दानि कनीयसको भूमि भवति । माषकालवर्ण्णा  
+नापि भवति । उल्लापो प्रपाण्डरो नाहैव भित्ति कृतपरिकर्म्मा एवं  
+कनीयसको । यो दानि ज्येष्ठको भवति विहारो नायं क्षमति । तहिं  
+मञ्चा (२१अ७) वा पीठा वा प्रविशितुं । अथ (ज्।९६) खलु (इ।प्।१०२) चत्वारि  
+प्रतिपादका कर्त्तव्या । मा भूमी खनीयं ति प्रवेशियाणं ततो तहिं  
+प्रतिपादकानां । उपरि थपेतव्यो । अथ दानि प्रतिपादको न भवति ।  
+लेङ्कटकेहि पादा बन्धितव्या । पीठं प्रवेशेति । पीठस्यापि एवं  
+य्येव आसन्दकं तृपादकं वा प्रवेशेति । तस्यापि लेङ्कटकेहि पादका  
+बन्धितव्या । नापि तहिं क्षमति । मन्दमुखी प्रज्वा(२१ब्१)लयितुं ।  
+दीपको वा प्रवेशयितुं । अथ दानि भिक्षुः शेय्यां प्रज्ञपयितुकामो  
+भवति । किञ् चापि दीपकं प्रवेशेति । अनापत्तिः । शेय्यां  
+प्रज्ञपयन्तेनैव च्छि(च्छ)त्ति निक्कालयितव्या नापि क्षमति । तहिं पादां  
+धोवितुं हस्तां धोवितुं मुखं धोवितुं नापि क्षमति तहिं चङ्क्रम  
+चङ्क्रमितुं ॥ पत्थोलिं धुनन्तेन । अथ दानि भिक्षु ग्लानो भवति किञ्  
+चापि षटपञ्च गताङ्गतां देति अनाप(२१ब्२)त्तिः । नापि दानि क्षमति ।  
+एकेनान्तेन । अथ खलु समन्तेन चङ्क्रमितव्यं । न यं बोलि  
+ड(उ)द्वापयन्तेन । न क्षमति तहिं भक्तकृत्यं पुरे(ज्।९७)भक्तिकं वा  
+कर्त्तुं पात्रं वा निर्म्मादयितुं । अथ दानि मध्य(म)को भवति ।  
+मध्यमके पि एषो एव पर्यायो अनन्यो अधिकृतो । अथ दानि कनीयसको  
+विहारको भवति । किञ् चापि भिक्षुः विना प्रतिपादकेहि मञ्चकं थपेति ।  
+अनापत्तिः । (२१ब्३) पीठकम् वा पीठिकाम् वा तृपादकम् वा विना  
+प्रतिपादकेहि थपेत्ति अनापत्तिः । मन्दमुखीम् वा प्रज्वालेति ।  
+अनापत्तिः । दीपं वा प्रवेशेति । अनापत्तिः । ग्लानो वा अग्लानो वा  
+अनापत्तिः । किं चापि चङ्क्रमति । अनापत्तिः । जानितव्यं । यदि ताव  
+उपेडनको सो विहारको भवति । नापि तहिं क्षमति । पादां धोवितुं  
+हस्ताम् वा निर्म्मादयितुं । (२१ब्४) अथ दानि उपंसुलको भवति । किञ् चापि  
+भिक्षुः पादाम् वा धोवति मुखम् वा धोवति । हस्तम् वा  
+निर्म्मादयति । रजोनिग्रहं काहेति त्ति अनापत्तिः । भक्तकृत्यम् वा  
+पुरोभक्तिकम् वा करोति । पात्रम् वा निर्म्मादयति । अनापत्तिः । नापि  
+क्षमति विहारको अध्युपेक्षितुं । ओद्द्रिण्णको वा पलुग्गको वा ओल्लाये  
+गृहीतको वा अचोक्षो वा (२१ब्५) अध्युपेक्षितुं । अथ दानि ओद्द्रिण्णको  
+भवति । तृणच्छदनो भवति तृणपुलको दातव्यो (इ।प्।१०३)  
+मृत्तिकाच्छदनो भवति । मृत्तिकापिण्डो दातव्यो । इष्टकाच्छदनो  
+भवति । इष्टका दातव्या । अपक्कच्छदनो (ज्।९८) भवति । अपक्का  
+दातव्या । कभल्लकाच्छदनो भवति । कभल्लका दातव्या ।  
+फलकच्छदनो भवति । फलकं दातव्यं । सुधा(२१ब्६)च्छदनो  
+भवति । सुधापिण्डो दातव्यो । कालेन कालं शोधयितव्यो । सन्तानिका  
+सातयितव्या । मूषिक-उक्किरो वा कोटयितव्यो । उकूलनिकूलो भवति । समो  
+कर्त्तव्यो । चिक्खलिका पूरेतव्या । वङ्घोरिका दातव्या । उल्लापे(ये)  
+गृहीतको भवति । शाटियाणं लिप्तोपलिप्तो घष्टमष्टो कर्त्तव्यो ।  
+उप्पेडनको भवति । पांसुकेन वा शर्करोटेन वा  
+प्र(२१ब्७)त्यास्तरितव्यो । उपांसुलको विहारको भवति । कालेन कालं  
+सिञ्चितव्यो । सम्मार्जितव्यो । गोमयकार्षी दातव्या । श(ं)तानिका  
+शाटयितव्या । एवं विहारे प्रतिपद्यितव्यं । न प्रतिपद्यति ।  
+अभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+     इइइ।४ म्स्।२१ब्७ (ज्।९७।३); छ्।५०५च्२९  
+     भगवान् श्रावस्त्याम् विहरति । पञ्चार्थवंशा(शाम्) विस्तरेण कृत्वा  
+याव अद्राक्षीद् भगवान् पञ्चाहिकां विहारचारिकाम् अनुचङ्क्रमन्तो  
+(२२अ१) अनुविचरन्तो विहारका(ना)ं पक्क-खेटेन वा पक्क-सिङ्घाणकेन  
+भित्तीयो विनासितायो सिङ्घाणकवर्त्तीहि लम्बन्तेहि ।  
+     भगवान जानन्तो येव पृच्छति । किं इमायो भिक्षवे विहारकानां  
+भित्तियो पक्क-खेटेन पक्कसिङ्घाणकेन वर्त्तीहि लम्ब(ज्।९९)न्तीहि । तेन  
+हि एवं खेटे प्रतिपद्यितव्यं । किन् ति दानि एवं खेटे प्रतिपद्यितव्यं  
+नायं क्षमति । भिक्षुणा कृतकर्म्मायां वा अकृ(२२अ२)तकर्म्मायां वा  
+भित्तीयं खेटम् वा सिङ्घाणकम् वा च्छोरयितुं ॥ अथ खलु  
+खेटकटाहं कर्त्तव्यं । कपालं वा मल्लम् वा कुण्डिकम् वा  
+दकानकम् वा लिप्तोपलिप्तं करिय वालिकाये वा पाषाणस्य वा  
+पत्थलिद्द्रकानां वा पूरयितव्यं । ततो तहिं खेटे(टो) कर्त्तव्यो । नापि  
+क्षमति खेटकटाहकं अध्युपेक्षितुं । मा सप्रमाणको भवेय । अथ  
+खलु कालेन कालं च्छो(२२अ३)रिय अन्यस्य पूरयितव्यं । आतपे वा दातव्यो  
+यो(सो) भूयो प्रवेशयितव्यो । अथ दानि (इ।प्।१०४) खेटकटाहकं भवति  
+मल्लकं वा कोटिकम् वा आविद्धपुटिका वा थपेतव्या तहिं खेटो  
+कर्त्तव्यो । कालेन कालं विसर्जयितव्यो ॥ अथ दानि एवं पि न भवति ।  
+कृतकर्म्मा भूमि भवति न क्षमति । भूमीये च्छोरयितुं । अथ खलु  
+एकस्य उपानहाये (२२अ४) तले च्छोरयितव्यं द्वितीयेन मर्द्दयितव्यं ।  
+अथ दानि उप्पंसुलो विहारो भवति । भूमीये च्छोरिय पादेन  
+मर्द्दितव्यो । एषो भिक्षुः दिवाविहारङ्गतो चङ्क्रमति । श्लेष्मिको भिक्षु  
+भवति । इतो च च्छोरियन्तो चङ्क्रमति विनयातिक्रमम् आसादयति । अथ  
+खलु च्छोरियाण पादेन मर्दितव्यं । चङ्क्रमशीर्षे वा आविद्धपुटिका  
+वा (ज्।१००) वालिका(२२अ५)ये वा कूटिमल्लकं वा थपेतव्यम्, । तहिं खेटो  
+च्छोरयितव्यो । यं कालं गच्छति । ततो एकतमन्ते च्छोरयितव्यो । प्रहाणे  
+आसन्तस्य खेट बाधति । ओपानहपुटे कृत्वा भूमिंये मर्दितव्यम्, ॥  
+अथ दानि भूम्यस्तारो भवति भाजने कर्त्तव्यं । कुन्तके वा अलाबुके  
+वा वंशत्थोलिकायां वा । अथ दानि उच्छदो भवति । खेटम् वा  
+सिङ्घाणकम्, (२२अ६) वा उत्थित्वा एकान्ते कृत्वा पुनः । उपवेष्टव्यं ।  
+उपाध्यायाचार्याणां वा मूले खेटं व्यावहति । एकान्ते कर्त्तव्यं । एषो  
+दानि भिक्षुस्य गोचरं प्रविशन्तस्य अथा(ध्वा)नमार्ग्गगतस्य वा  
+खेटे आगच्छति च्छोरिय पादेन मर्दितव्यो । अमर्दिय गच्छति  
+विनयातिक्रमम् आसादयति । अथ दानि क्षुद्रो खेटे उपांसुलो च भूमी  
+भवति । च्छोरन्तको य्येव पर्या[दानम्] गच्छ(२२अ७)ति । किं चापि न  
+मर्द्दति । अनापत्तिः । एषो भिक्षुः स्तूपं वन्दति स्तूपाभिगृहे वा खेटं  
+च्छोरितकं केन चि अप्रकृतिज्ञो न पादेन मर्दितव्यो । अथ दानि द्वे जना  
+भवन्ति । यो नवको भवति । तेन मर्द्दितव्यं । अथ दानि नवकतरो  
+शैथिलिको बाहुलिको वा भवति । वृद्धतरकेन मर्दितव्यं । एवं खेटे  
+प्रतिपद्यितव्यम्, । न प्रतिपद्यति ॥ अभिसमाचारिकान् धर्म्मान्  
+अति(२२ब्१)क्रमति ॥ * ॥  
+    
+     इइइ।५ म्स्।२२ब्१ (ज्।१०१।१); छ्।५०६अ१७  
+     (ज्।१०१) भगवान् श्रावस्त्यां विहरति विस्तरेण निदानं कृत्वा अपरेण  
+दानि भिक्षुणा मुण्डे वातपाणे पात्रं स्थवितं तन् दानि  
+वातमण्डलिकाये (इ।प्।१०५) आगच्छियाणं भूमीयं पातितो भिन्नो  
+कपालानां राशिं कृत्वा यवागूये गण्डी आकोटिता सो दानि हस्तां  
+निर्म्मादिय विहारकं प्रविष्टो पश्यति । कपालिकानां राशिं एतं  
+प्रकरणं यो(सो) भिक्षुः भगवतो आरोच(२२ब्२)ये ।   
+     भगवान् आह । एवं च त्वं मुण्डवातपाने पात्रं थपेसि तेन हि एवं  
+पात्रे प्रतिपद्यितव्यं । किन् ति दानि एवं पात्रे प्रतिपद्यितव्यं । भिक्षुणा  
+ताव कल्यतो येच(व) निवासिय प्रावरिय पात्रचीवरम् आदाय गोचरं  
+प्रविशितव्यं । गोचरातो निर्द्धाविय आहारं करीय पात्रं  
+निर्म्मादयितव्यं । नापि क्षमति । कर्कशेन वा चूर्ण्णेन कर्कशेन वा  
+गोमयेन निर्म्मादयितुं ॥ अथ (२२ब्३) खलु मूलरसेन वा पत्ररसेन  
+वा पुष्परसेन वा निर्व्वालिकेन वा गोमयेन निर्म्मादयितव्यं नापि  
+क्षमति विल्वस्य वा पक्वस्य कपित्थस्य पक्वस्य नालिकेरस्य हेष्ठे  
+निर्म्मादयितुम्, । मा पक्वेन वा विल्वेन पक्वेन वा कपित्थेन पक्वेन  
+वा नालिकेरेण भञ्जेय न्ति(त्ति) । नापि क्षमति दरिनिश्रितेन वा पात्रं  
+निर्म्मादयितुं । मा पतितं भञ्जय न्ति(त्ति) (२२ब्४) अथ खलु कर्षधाने  
+वा वालिकाधाने वा दूर्व्वासाद्वले वा निर्म्मादयितव्यं । नापि क्षमति  
+स्थितकेन पात्रं निर्म्मादयितुं ॥ नापि क्षमति (ज्।१०२) भूमीये  
+घसन्तेन ॥ अथ खलु उपविष्टे(ष्ट)केन निर्म्मादयितव्यं ।  
+अध्वावयन्तेन नापि । क्षमति । स्थितकेन अध्वापयितुं ॥ अथ खलु  
+उपविष्टेन अध्वापयितव्यं । प्रतिसामयन्तेन नापि क्षमति ।  
+जङ्घा(२२ब्५)पथे वा स्थापयितुं । कपाटो(टे) वा मुण्डवातायने वा ।  
+अथ खलु पात्र प्रवेशिकायां प्रक्षिपिय स्थपेतव्यं । नापि क्षमति  
+स्थितकेन प्रक्षिपितुं ॥ अथ खलु उपविष्टकेन प्रक्षिपितव्यं ।  
+पात्रप्रसेविकानागदन्तके वा कीलके वा उक्कचिय थपेतव्या । अथ दानि  
+उज्जुको कीलको भवति । दुवे त्रयो वा अवेढका दातव्याः । अथ दानि  
+नागदन्तको (२२ब्६) भवति । किञ् चापि एवम् एव थपेति । अनापत्तिः ॥  
+पात्रप्रसेविका न भवति पात्रपीठके थपेतव्यं । अथ दानि  
+पात्रपीठकं न भवति । काष्ठम् वा इष्टकम् वा उपलम् वा  
+निरामिषं निर्म्मादिय तस्य उपरि स्थपेतव्यं । अथ दानि एवं पि न  
+भवति । अन्तमसतो पृथिवीप्रदेशं (इ।प्।१०६) पि गोमयेन उपलिम्पिय  
+थपेतव्यं । गृह्नन्तेन नापि क्षमति । एकहस्तेन दुवे त्रयो वा पात्राणि  
+गृह्नितुम्, । अ(२२ब्७)थ खलु परमं त्रयो पात्राणि गृह्नितव्यानि ।  
+एकहस्तेन द्वे गृह्नितव्याः । अपरेण दानि एकं । अथ दानि  
+प्रत्यन्धकारको विहारको भवति । न क्षमति । पात्रेण पात्रं  
+मार्ग्गितुं ॥ अथ खलु हस्तेन मार्ग्गितव्यं । अथ दानि भिक्षुः  
+उपाध्यायस्य चा(वा)चार्यस्य वा पात्रम् अल्लीपयति नापि क्षमति ।  
+उपाध्यायस्य वा आचार्यस्य वा पात्रं वामेन (ज्।१०३) हस्तेन  
+अल्लीपयितुम्, । अथ खलु (२३अ१) उपाध्यायस्य वा आचार्यस्य वा दक्षिणेन  
+हस्तेन पात्रं अल्लीपयितव्यं । नापि क्षमति । गृहीतं न गृहीत न्ति(त्ति) ।  
+ततो मुञ्चितव्यं । ओकड्ढन्तेन सुगृहीतं कर्त्तव्यं । निर्म्मादयन्तेन  
+प्रथमं उपाध्यायस्य वा आचार्यस्य वा पात्रं निर्म्मादयितव्यं ।  
+पश्चाद् आत्मनो शोषयन्तेन प्रथमं उपाध्यायस्य वा आचार्य्यस्य वा  
+शोषयितव्यं । पश्चाद् आत्मनो प्रतिसामयन्तेन प्रथमं  
+उपा(२३अ२)पाध्यायस्य वा आचार्यस्य वा प्रतिसामयितव्यं । पश्चाद्  
+आत्मनो प्रवेसिका कर्त्तव्या । दुपुटा तृपुटा प्रसेविकायां  
+प्रक्षिपियन्तेन कलावीयं दाडीयं । अंसिबद्धकं प्रक्षिपित्वा  
+समवस्थाय उपविष्टकेन उत्सङ्गस्य उपरि प्रक्षिपितव्यं । मञ्चस्य वा  
+पीठस्य वा उपरि प्रक्षिपितव्यं । उल्लयन्तेन कीर्ण्ण(ल)कं हस्तेन  
+प्रत्यवेक्षित्वा मञ्चस्य वा पीठस्य वा उपरि जालवाताय(२३अ३)ने वा  
+पात्रमेलके वा यथा न घट्टेंसु नापि क्षमति । पात्रं अध्युपेक्षितुं  
+फलकेन वा खज्जन्तं खण्डं वा च्छिद्रम् वा । अथ खलु कालेन  
+कालं दहितव्यं । पचितव्यं । रञ्जितव्यं । न दानि क्षमति । पात्रेण  
+अप्रयतं गृह्नितुं । उच्चारो वा प्रस्रावो वा खेटं वा सिङ्घाणकं वा  
+विघसो वा सङ्कारो वा अन्यम् वा अप्रयत्तं ग्रहेतुम्, । नापि दानि  
+क्षमति । पात्रे(२३अ४)ण केषां (ज्।१०४) ओतारयितुम् वा पादं वा मुखं वा  
+धोवितुं । जेन्ताकम् वा प्रवेशितुं । उदककृत्यं वा कर्त्तुम्, । यथा  
+अक्षिस्मिं एवं पात्रे प्रतिपद्यितव्यं । न प्रतिपद्यति । अभिसमाचारिकान्  
+धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+(इ।प्।१०७)   
+     इइइ।६ म्स्।२३अ४ (ज्।१०४।४); छ्।५०६ब्१३  
+     भगवान् श्रावस्त्यां विहरति । ते न दानि आयुष्मतो षड्वर्ग्गिकाः ।  
+एकत्यं यवागूं निन्दन्ति । एकत्यं प्रसंसन्ति । यो ताव त्प(पे)लंवा  
+भवति । (२३अ५) जल्पन्ति । हे हे हे नायं किञ्च(चि)द् यागु गङ्गा अयं  
+सरयू अजिरवती मही महामही त्ति निचुडबुन्तिकाये इमंहि तण्डुला  
+मार्ग्गितव्या ॥ अथ दानि खक्खट भवति जल्पति । हे हे हे नायं किञ्चि  
+यवागू लेच्छं अयं पेय्या अयं पेय्या अयं कट्टारिका च्छेज्जा अयं ते  
+दानि भिक्षू उत्क्षिप्ता भवन्ति । जिह्मा(ह्वा) वेड्ढा निष्प्रतिभानाः । एतं  
+प्रकरणं भि(२३अ६)क्षू भगवतो आरोचयेंसु । भगवान् आह ।  
+शब्दापयथ षड्वर्ग्गिकां ते दानि शब्दापिताः । एतद् एव पृच्छियन्ति ।  
+आह । आम भगवन्   
+     भगवान् आह । तेन हि एवं यवागूये प्रतिपद्यितव्यं । किन् ति दानि एवं  
+यवागूये प्रतिपद्यितव्यं । एषो दानि यवागूये समयो आरोचितो भवति ।  
+ततो जानितव्यं । किम् अयं यवागू उभयतो साङ्घिकापर्या(षा)ये  
+परिवेणिका निमन्त्रितिका(२३अ७)यां । यदि ताव उभयतो साङ्घिका भवति  
+सर्व्वेहि (ज्।१०५) गन्तव्यं । पार्थिका भवति । ताये पर्या(षा)ये गन्तव्यं  
+परिवेणिका भवति । तेहि परिवेणिकेहि गन्तव्यं निमन्त्रितका वा भवन्ति ।  
+तेहि निमन्त्रितकेहि गन्तव्यं । प्रतिकृत्येव ताव भिक्षुणा दन्तकाष्ठं  
+खादयितव्या(व्यं ।) मुखं धोविय हस्तां निर्म्मादिय पात्रं गृह्निय  
+उपविशितव्यं । नापि क्षमति यवागू उपानहारूढेन वा प्रतिच्छितुं ।  
+(२३ब्१) ओगुण्ठिकाकृतेन वा समन्तप्रावृतेन वा प्रतिच्छितुं । अथ खलु  
+उपानहा निखोसिय एकांशकृतेन यवागू प्रतिच्छितव्या । अथ दानि  
+दण्डकर्म्म प्रतिदिन्नं भवति । पा(र्)ष्णिवब्रा(द्ध्रा) ओमुञ्चितव्या  
+द्वितीयकालिकस्य लाभग्राहं अध्येषित्वा गन्तव्यं । अथ दानि  
+उपविष्टकानां (पटि)पाटिकाये (इ।प्।१०८) दीयति । यथा वृद्धिकाये  
+गृह्नितव्यं । यदि ताव तनुका भवति । न वक्तव्यं । हे हे हे गङ्गा  
+आयं सर्व्वं या(२३ब्२)व मही चन्द्रभागा अयं । अथ दानि अतिघना  
+भवति न वक्तव्यं । नायं यवागू ओदनो अयं दण्डासनि भेज्जा अयं ।  
+अथ खलु यादृशी दीयति तादृशी प्रतिच्छिता दायकवशो (ज्।१०६) न  
+प्रतिग्राहकवशो ॥ अथ दानि भिक्षुः । जरादुर्ब्बलो वा व्याधिदुर्ब्बलो  
+वा भवति । अतिशीतम् वा अति-उष्णम् वा भिक्षु नैव दन्तकाष्ठं  
+खादति । न मुखं धोवति । न हस्ता निर्म्मादयति । आनन्त(२३ब्३)र्यस्य  
+या पात्रं दातव्यं । वक्तव्यं आयुष्मन् इमं मम यवागूये  
+प्रत्यंशं गृह्न । यं कालं प्रतिच्छिता भवति । ततो परिभुञ्जितव्या । एते  
+विलम्बका यवागूः निन्दन्ति वा प्रसंसन्ति वा विनयातिक्रमं  
+आसादयन्ति । एवं यवागूये प्रतिपद्यितव्यं । न प्रतिपद्यति ॥  
+अभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+     इइइ।७ म्स्।२३ब्३ (ज्।१०६।८); छ्।५०६ब्२८  
+     भगवान् श्रावस्त्यां विहरति विस्तरेण निदा(२३ब्४)नं कृत्वा अपरो दानि  
+भिक्षुः योगाचारो वैदेहके पर्व्वते निषण्णो चित्तं समाधयिष्यामीति ।  
+अपरो दानि भिक्षुः । आगच्छिय तस्य पुरतो स्थितो तस्य दानि तेन  
+नीव(र)णेन चित्तं समाधानं न गच्छति एतं प्रकरणं सो  
+योगव(गाचा)रो भगवतो आरोचये भगवान् आह । शब्दापयथ तं  
+भिक्षुं सो दानि शब्दापितो । भगवान् आह । सत्यं भिक्षु (२३ब्५) एवं  
+नाम अपरो योगाचारो वैदेहके पर्व्वते निषण्णो चित्तं समाधयिष्यन् ति ।  
+त्वं दानि तस्य पुरतो आगच्छिय स्थितो तस्य दानि तेन नीवरणेन चित्तं  
+समाधानं न गच्छति । आह । आम भगवन   
+     भगवान् आह । दुष्कृतं ते भिक्षु एव(म्) च त्वं योगाचारस्य भिक्षुस्य  
+पुरतो तिष्ठसि तेन हि एवं स्थातव्यं । किन् ति दानि एवं स्थातव्यं ।  
+नायं ताव क्षमति (ज्।१०७) भि(२३ब्६)क्षुणा योगाचारस्य भिक्षुस्य पुरतो  
+तिष्ठितुं नापि क्षमति वेशिका समन्तकेन वा तिष्ठितुं ।  
+वधबन्धनागारशालासामन्तेन वा तिष्ठितुं । नायं क्षमति ।  
+अतिगुप्ते वा अतिप्राकटे वा प्रदेशे तिष्ठितुं । अथ खलु च्छन्नप्राकटे  
+प्रदेशे स्थातव्यं । न (इ।प्।१०९) क्षमति स्तूपं वा पृष्ठतो कृत्वा  
+तिष्ठितुम्, । सङ्घं वा उपाध्यायाचार्यम् वा वृद्धतरकं वा पृष्ठतो  
+कृत्वा तिष्ठितुं । उपानहारूढेन (२३ब्७) वा तिष्ठन्तु खम्भकृतेन वा  
+ओगुण्ठितशीर्षेण वा ओवाहितहस्तेन वा नापि क्षमति सङ्घमध्ये मा  
+तिष्ठ ति उक्तो तिष्ठितुं । उपाध्यायाचार्येहि वा उक्तेन समानेन मा  
+तिष्ठेति तिष्ठति विनयातिक्रमम् आसादयति । अथ दानि ग्लानो भवति । किञ्  
+चापि ओपानहारुढो ओगुण्ठितशीर्षो वा ओहितहस्तो वा तिष्ठति । अनापत्तिः ।  
+एवं स्थातव्यं न तिष्ठति ॥ अभिसमाचारिकान् धर्म्मान्  
+अतिक्रा(२४अ१)मति ॥ * ॥  
+    
+     इइइ।८ म्स्।२४अ१ (ज्।१०७।१३); छ्।५०६च्१६  
+     भगवान् राजगृहे विहरति शास्ता देवानाञ् च मनुष्याणाञ् च विस्तरेण  
+निदानं कृत्वा अपरो दानि भिक्षुः । योगाचारो वैदेहके पर्व्वते निषण्णो  
+चित्तं समाधयिष्यामीति । अपरो दानि भिक्षुः । आगत्वा तस्य पुरतो  
+तालपादुकाहि आबद्धाहि दीर्घचङ्क्रमं चङ्क्रमति । टप्य टटप्य  
+टप्य टटप्य न्ति(त्ति) तस्य (ज्।१०८) दानि तेन शब्देन चित्तं न  
+समाधानं गच्छति । एतं प्रक(२४अ२)रणं सो योगाचारो भगवतो  
+आरोचये । भगवान् आह । सत्यं भिक्षु एवं नामा अपरो योगाचारो  
+वैदेहके पर्व्वते निषण्णो चित्तं समाधयिष्यामीति । तद् एवं सर्व्वं  
+भगवान् विस्तरेण प्रत्यारोचयति । याव तस्य दानि तेन शब्देन चित्तं न  
+समव(मा)धानं गच्छति । आह । आम भगवन्   
+     भगवान् आह । दुष्कृतं ते भिक्षुः । एवं च त्वं योगाचारस्य  
+भिक्षुस्य पुरतो चङ्क्रमसि । तेन हि (२४अ३) एवं चङ्क्रमितव्यं । किन् ति  
+दानि एवं च(ं)क्रमितव्यं । नायन् ताव क्षमति भिक्षुणा योगाचारस्य  
+भिक्षुस्य पुरतो चङ्क्रमितुं । नापि क्षमति स्तूपम् वा पृष्ठतो कृत्वा  
+चङ्क्रमितुं । सङ्घं वा पृष्ठतो कृत्वा चङ्क्रमितुं ।  
+उपाध्यायाचार्यम् वा पृष्ठतो कृत्वा चङ्क्रमितुं । एषो दानि भिक्षुः ।  
+उपाध्यायेन वा आचार्येण वा सार्द्धं चङ्क्रमति । उपाध्यायस्य वा  
+आचार्यस्य अति(२४अ४)रेकं चङ्क्रमितुं नापि क्षमति । समं  
+चङ्क्रमयितुं । अथ खलु द्वे त्रयो वा पदा (इ।प्।११०) निहिनकेन  
+चङ्क्रमितव्यं । सङ्घमध्ये वा चङ्क्रमति । मा चङ्क्रमाहीति उक्तेन  
+न चङ्क्रमितव्यं । अथ दानि ग्लानो घृतं वा पीतं । विरेचनं वा पीतं  
+किञ् चापि चङ्क्रमति । तन् न क्षमति । पुरतो समं वा गन्तुं ओहयित्वा  
+गन्तव्यं । अनुवरिवर्त्तन्तेन तदा न क्षमति ।  
+उ(२४अ५)पाध्यायाचार्याणां वा पृष्ठतो कृत्वा परिवर्त्तित(तु)ं । अथ  
+खलु अभिदक्षिणं अग्रतो करेन्तेन अनुपरिवर्त्तितव्यं । नापि क्षमति  
+वेसिकासामन्तकेन चङ्क्रमितुं । नापि क्षमति द्युतिकरशालासामन्तकेन  
+चङ्क्रमितुम्, । वधबन्धनागारसामन्तेन चङ्क्रमितुं । (ज्।१०९) नापि  
+क्षमति अतिप्राकटे वा प्रदेशे चङ्क्रमितुं । अथ खलु च्छन्नप्राकटे  
+प्रदेशे (२४अ६) चङ्क्रमितव्यं । एवं चङ्क्रमे प्रतिपद्यितव्यं । न  
+प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥*॥  
+    
+     इइइ।९ म्स्।२४अ६ (ज्।१०९।४); छ्।५०७अ४  
+     भगवान् श्रावस्त्याम् विहरति ते दानि आयुष्मन्तो षड्वर्ग्गिकाः ।  
+उष्ट्(र्)अपर्यङ्केन प्रहाणं उपविंश(शं)ति । अनन्तरिकानां जानुकेहि  
+व्यावहन्ति । एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु । भगवान्  
+आह । शब्दापयथ षड्वर्ग्गिकान् ते दानि शब्दापिताः । भग(२४अ७)वान्  
+आह । सत्यं भिक्षवो षड्वर्ग्गिका एवं नाम यूयं उष्ट्रपर्यङ्केन  
+प्रहाणे निषीदथ । अनन्तरिकानां जात(नु)केहि व्यावहथ आहंसु । आम  
+भगवन भगवान् आह । दुष्कृतं भिक्षवो षड्वर्ग्गिकाः । एवं च  
+यूयं उष्ट्रपर्यङ्केन प्रहाणे निषीदथ । तेन हि (न) क्षमति ।  
+उष्ट्रपर्यङ्केन प्रहाणे निषीदितुं । भगवान् । तान् भिक्षून्  
+आमन्त्रयति । एवं भिक्षवो निषीदथ । यथा नाग(२४ब्१)हिमवताः । एकं  
+नागं द्वे नागा अनुपरिधा(वा)र्य निषीदन्ति । द्वे नागा चत्वारि नागा  
+अनुपरिवार्य निषीदन्ति चत्वारि अष्ट अष्ट षोडश षोडश (द्वात्रिंशद्)  
+द्वात्रिंशच् चतुषष्टि नागा अनुप(रि)वार्य निषीदन्ति । (ज्।११०) अथोत्तरेण  
+यथानुभावं न क्षमति । उष्ट्रपर्यङ्केन निषीदितुम्, । भिक्षुणापि  
+ताव स्वस्ति(क)पर्यङ्केन प्रहाणे निषीदितव्यं । अथ दानि (इ।प्।१११)  
+भिक्षु पर्यङ्केन निषण्णो भवति श्रान्तो भ(२४ब्२)वति । गर्भानि  
+आमिलायन्ति । नापि क्षमति । उभयानि सन्धी मटमटाये प्रसारितुं ।  
+अथ खलु एको पादो सुखाकं प्रसारयितव्यो तं अमुहूर्त्ते विश्रामिय  
+सन्मिञ्जिय द्वितीयो पादो सुखाकं प्रसारयितव्यो । उत्थिपित्वा वा एकान्ते  
+चङ्क्रमितव्यं । न क्षमति । ओगुण्ठितशीर्षेण प्रहाणे उपवेष्टुं । अथ  
+दानि जरादुर्ब्बलो वा व्याधिदुर्ब्बलो वा भवति । शीर्षम् वा (२४ब्३)  
+दुःखति । अर्द्धशीर्षस्य पिथेतव्यं । एको च कर्ण्णो । अथ दानि एकान्ते  
+भवति उच्छेदके वा वृक्षमूलके वा विहारे वा प्रतिसंलीनको किञ् चापि  
+ओगुण्ठितशीर्षो निषीदति । अनापत्तिः । अमूहूर्त्तकं विश्रमिय भूयो  
+स्वस्तिकपर्यङ्केन निषीदितव्यं ॥ अथ दानि भिक्षु न पारेति ।  
+स्वस्तिकपर्यङ्केन निषीदितुं । [अर्द्धपर्यङ्केन] (२४ब्४) निषीदितव्यं ।  
+अथ दानि अर्द्धपर्यङ्केनापि न पारेति निषीदितुम्, । उभौ पादौ ओसारिय  
+सुसंवृतेन निषीदितव्यं । तथा कर्त्तव्यं । यथानन्तर्यं जानुकेहि न  
+व्यावहति । न क्षमति । स्तूपं पृष्ठतो करीय निषीदितुं । सङ्घम् वा  
+पृष्ठतो करीय निषीदितुम्, । उपाध्यायाचार्याणां वा पृष्ठतो करिय  
+निषीदितुं । वृद्ध[तरकं वा पृ]ष्ट(ष्ठ)तो (२४ब्५) करीय निषीदितुं ।  
+नापि क्षमति सङ्घमध्ये मा निषीद न्ति(त्ति) । उक्तेन समानेन (ज्।१११)  
+निषीदितुं । नापि क्षमति । उपाध्यायाचार्येहि मा निषीद न्ति(त्ति) । उक्तेन  
+निषीदितुं नापि क्षमति वेसिकासामान्तेन द्युतिकरशालासामन्तकेन  
+निषीदितुं । वधबन्धनागारशालासामन्तकेन निषीदितुम्, । अतिभुण्डे  
+वा प्रदेशे निषीदितुं । अथ खलु च्छन्नप्रा(२४ब्६)कटे प्रदेशे  
+निषीदितव्यम्, । एवं निषद्ये प्रतिपद्यितव्यं । न प्रतिपद्यति ।  
+अभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     इइइ।१० म्स्।२४ब्६ (ज्।१११।७); छ्।५०७अ१५  
+     भगवान् श्रावस्त्यां विहरति ते दानि आयुष्मन्तो षड्वर्ग्गिकाः ।  
+ओमुद्धकापि शेय्यां कल्पेन्ति । उत्तानकापि शेय्या कल्पेन्ति । वामेनापि  
+पार्श्वेन शेय्यां कल्पेन्ति । एतं प्रकरणं भिक्षूहि श्रुतं । भिक्षू  
+भगवतो आरोचयेंसु । भगवान् आह । (२४ब्७) शब्दापयथ  
+षड्वर्ग्गिकां । ते दानि शब्दापिता । भगवान् आह । सत्यं भिक्षवो  
+षड्वर्ग्गिकाः । एवं नाम यूयं ओमुद्धकापि (इ।प्।११२) शेय्यां कल्पेथ ।  
+वामेनापि पार्श्वेन शय्यां कल्पेथ । आहंसु । आम । भगवं   
+     भगवान् आह । दुष्कृतं वो भिक्षवो षड्वर्ग्गिकाः । तेन हि न  
+क्षमति । उत्तानकेन शेय्यां कल्पितुं । न क्षमति । ओमुद्धकेन शेय्यां  
+कल्पयितुं । न क्षमति । वामे(२५अ१)न वा पार्श्वेन शेय्यां कल्पयितुं ।  
+भगवान् दानि भिक्षून् आमन्त्रयति । (ज्।११२) ओमुद्धका भिक्षवो प्रेता  
+शेय्यां कल्पयन्ति । उत्तानका भिक्षवो आसुरा शेय्यां कल्पयन्ति । वामेन  
+पार्श्वेन कामोपभोगिनः । शेय्यां कल्पयति । एवं भिक्षवो शेय्यां  
+कल्पेथ । यथा सिंहो मृगराज सिंहो भिक्षवो मृगराजा दक्षिणेन  
+पार्श्वेन शेय्यां कल्पयति । पादेन पादं आधाय दन्तेन द(२५अ२)न्तं  
+आधाय जिह्वाग्रं तालुकाग्रे प्रतिष्ठापयित्वा । अङ्गुलं अनुकायं  
+आयच्छिहित्वा दक्षिणां बाहं शिरस्य् उपनिधाय वामं बाहाम् अनुकायं  
+प्रसारयित्वा सो पि प्रतिबोधनां(नन्)।तेन पुरिमं कायं अभ्युन्नामेति ।  
+पृष्ठिमं कायं अभिविलोकयति । स चेत् पश्यति । गात्राणाम् अन्यथात्वं  
+तेन भवति । अनात्तमनो च पश्यति । गात्राणाम् अन्यथात्वं तेन भवति  
+चित्ते आ[त्तमनो] अ(२५अ३)भिरद्धो भिक्षुणापि ताव शेय्यां प्रज्ञपेन्तेन  
+अभिदक्षिणां प्रज्ञपयितव्या । य(त)था कर्त्तव्या यथा सम्प(य)तको  
+येव दक्षिणेन पार्श्वेन शय्यां कल्पेति । न क्षमति । वामेन शय्यां  
+प्रज्ञपेतुं । दक्षिणशय्या प्रज्ञपेतव्या । चीवरवंशस्य हेष्ठतो  
+रात्रीये पुरिमं यामं उद्देशप्रयुक्तेन स्वाध्यायप्रयुक्तेन स्थानेन  
+(ज्।११३) चङ्क्रमेण वीतिनामयि(२५अ४)तव्या रात्रीये मध्यमे यामे  
+दक्षिणेन पार्श्वेन सिंहशेय्या कल्पयितव्या । पादेन पादम् आधाय  
+जिह्वाग्रं तालुकाग्रे प्रतिष्ठापयित्वा दक्षिणां बाहां शिरस्य् उपनिधाय  
+वामां बाहां अनुकायं प्रसारित्वा उत्थानसञ्ज्ञी मनसिकाकारेन्तेन  
+नापि दानि परिवर्त्तकं यावत् सूर्योद्गमनात् ततो शयितव्यं । रात्रीये  
+पश्चिमे यामे पर्यङ्केन वीति(२५अ५)नामयितव्यं । उद्देशप्रयुक्तेन  
+स्थानचङ्क्रमानुयुक्तेन वा । अथ दानि भिक्षुः । दुःखशायी भवति  
+पारश्येन पारश्यं पल्लट्टन्तो (इ।प्।११३) शयिति अनापत्तिः । जरादुर्ब्बलो  
+वा व्याधिदुर्ब्बलो वा भवति । दक्षिणे पार्श्वे गण्डं वा पिटकं वा ।  
+भवति । किञ् चापि वामेन पार्श्वेन शयति अनापत्तिः । न क्षमति । स्तूपं  
+वा पादतो कृत्वा । शय्यां कल्पयितुं । सङ्घम्, (२५अ६) वा पादतो कृत्वा  
+शेय्यां कल्पयितुं । वृद्धतरकं वा पादतो कृत्वा उपाध्यायाचार्यं वा  
+पादतो कृत्वा शेय्यां कल्पयितुम्, । एव(म्) शय्यां प्रतिपद्यितव्यं । न  
+प्रतिपद्यति । अभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥*॥  
+     उदानं  
+              एवं कठिने प्रतिपद्यितव्यं ।  
+              एवं चक्कलीये प्रतिपद्यितव्यं ।  
+              एवं विहारे प्रतिपद्यितव्यं ।  
+              एवं खेटे प्रतिपद्यितव्यं ।   
+              (ज्।११४) एवं पात्रे प्रतिपद्यितव्यं ।  
+              एवं यवागूये (२५अ७) प्रतिपद्यितव्यं ।  
+              एवं स्थातव्यं ।  
+              एवं चङ्क्रमितव्यं ।  
+              एवं निषीदितव्यं ।  
+              एवं शेय्या कल्पयितव्यं ॥ * ॥
+
+(इ।प्।११४)   
+     इव्।१-२ म्स्।२५अ७ (ज्।११५।१); छ्।५०७ब्४  
+     भगवान् श्रावस्त्यां विहरति विस्तरेण निदानं कृत्वा ते दानि आयुष्मन्तो  
+षड्वर्ग्गिकाः । द्वारं बन्धियाणं विहारस्य पश्चा वस्तुके काकवाहं  
+भञ्जन्तं । आसन्ति । आगन्तुकानां भिक्षूणां गणो आगतो द्वारं यावन्ति  
+न लभन्ति ते दानि ओक्खन्दियाणं प्रविष्टाः । तेहि दाणि (२५ब्१)  
+आयुष्मन्तेहि षड्वर्ग्गिकेहि आगन्तुका दृष्टाः पृच्छन्ति । आयुष्मं कुतो  
+वा प्रविष्टाः । आहंसुः । ओक्खन्दियाणं प्रविष्टाः । ते दानि आहंसु ।  
+आयुष्मन् एवं च यूयं ओक्खन्दियाणं विहारं प्रविशथ । ते पि दानि  
+आगन्तुका आहंसु । एवं च यूयं द्वारं बन्धियाणं विहारस्य पश्चाद्  
+वस्तुकस्य काकवाहं भञ्जन्ता आसथ ते दानि विवदिताः । भगवतो  
+मूलं गताः ।   
+     भगवान् आह । ना(२५ब्२)यं ताव क्षमति । ते(ने)वासिकेहि विहारस्य  
+द्वारं बन्धियाणं विहारस्य पश्चाद् वस्तुकस्य काकवाहं  
+भञ्जमानेहि आसितुं । नापि क्षमति । आगन्तुकेहि विहारं ओक्खन्दियाणं  
+प्रविशितुं । तेन हि एवं आगन्तुकेहि प्रतिपद्यितव्यं । एवं नि(ने)वासिकेहि  
+प्रतिपद्यितव्यं । किन् ति दानि एवं आगन्तुकेहि प्रतिपद्यितव्यं । एते दानि  
+भिक्षु आगन्तुका आगच्छन्ति । सर्व्वेहि पाडिप(य)क्कपाडियककानि  
+अ(२५ब्३)पावुरणानि उपस्थापयितव्यानि । एकस्यापि अपावुरणि न भवति ।  
+सर्व्वे विनयातिक्रमं आसादयन्ति । एकस्यापि अपावुरणि भवति ।  
+सर्व्वेषाम् अनापत्तिः ।   
+     अथ दानि कोचि ग्लानो भवति । न दानि उज्झित्वा गन्तव्यं । अथ खलु  
+अनुपालेतव्यो । पात्रचीवरं आलम्बितव्यं । नापि दानि पात्र(ज्।११६)चीवरं  
+गृह्नित्वा अदर्शनेन गन्तव्यं । अथ खलु अ(२५ब्४)विदूरेण गन्तव्यं ।  
+मा दानि अदर्शनेन परिजाने हृतं । हृतं मे पात्रचीवरम् इति  
+गच्छन्तस्य कर्त्तव्यं । यदि दानि ओश्या भवति तरुणभिक्षूहि अग्रतो  
+गन्तव्यं । ओश्या प्रतिवाहन्तेहि । अथ दानि व्याडभयं वा चोरभयं  
+वा भवति । वृद्धं बालं मध्ये कृत्वा गन्तव्यं । अथ दानि चोरा  
+सप्रसादा भवन्ति । वृद्धेहि (इ।प्।११५) अग्रतो गन्तव्यं । यथा पश्यित्वा  
+प्रसा(२५ब्५)देन अविवर्जिता गच्छेंसु । यदि दानि ग्रामस्य नगरस्य वा  
+मध्येन गन्तव्यं । भवति । न दानि क्षमति नगरवे(चे)तियानि  
+अभिदक्षिणि करेन्ति(ते)हि वा गन्तुं । अपवामिवा(का) करेन्तेहि वा अथ  
+खलु उज्ज(ज्जु)केन मा(र्)गकेन गन्तव्यं । न्याये वासोपगता भवन्ति ।  
+तरुणा भिक्षु दुवे वा त्रयो वा प्रवेशयितव्या । अग्रतो गच्छथ  
+सङ्घस्य फासुवि[हार]ं उप(२५ब्६)दहथ पादतैलेन गुडपानीयेन  
+प्रतिश्रयेण पुरेभक्तिकेन तेहि दानि प्रावरिय गण्ठिपासकं ओबन्धिय  
+आमन्त्रिय प्रवेष्टव्यं । प्रविसिय याचित्वा सङ्घस्य  
+यथासुखपरिभोगं निःसारेपेतव्यं । पादतैलं वेकालिकं  
+पुरेभक्तिकं भैक्षितव्यं । आवि(चि)क्षितव्यं लब्धो प्रतिश्रयो तेहि दानि  
+यदि तहिं ओघो वा (ज्।११७) भवति । नदी तडागं वा पुष्किरिणी वा  
+उदुपानो वा तहिं पादा(२५ब्७)न् प्रक्षालेत्वा प्रावरेत्वा अन्योन्यं  
+आमन्ध(न्त्र)यित्वा प्रवेष्टव्यं । अथ दानि गुडपानीयं भवति । तहिं  
+येव वेकालिकं करिय प्रवेष्टव्यं । मा पश्येंसु समामपयि इमे  
+प्रव्रजिता करोन्ति । अथ दानि उभण्डितो भवति संविभजित्वा  
+प्रवेष्टव्यं । निसृष्टगृहं भवति अनामन्त्रिय प्रविशति अनापत्तिः । न  
+दानि लभ्या अन्येन गन्तुं । रच्छाच्छिद्द्रका भवति । अनापत्तिः ।  
+ग्रामन्तिकं शेय्यासनम्, (२६अ१) भवति । तहिं गन्तव्यं । अथ दानि  
+आरण्यकशेय्यासनं भवति । तहिङ् गन्तव्यं । सङ्घारामं प्रविशन्तेहि  
+पुष्किरिणीयं वा तडागे वा ओघे वा पादां धोवित्वा प्रवेष्टव्यं । अथ  
+दानि उब्भण्डितो संविभजित्वा प्रवेष्टव्यं चेतियाणं प्रदक्षिणी  
+करेन्तेहि उपानहा ओमुञ्चित्वा काष्ठकेन गृह्नित्वा प्रवेष्टव्यं । नापि  
+दानि उच्चशब्दमहाशब्देहि प्रवेष्टव्यं । नापि नेवासिकां  
+उल्लय(प)न्ते(२६अ२)हि हू ह हे अद्यापि तं तद् एवेत्थ वसथ घुण  
+विद्धातवे नन्द्(अन्)ओपनन्दना यूयं नागराजानो इहैव यूयं जाता  
+इहैव मरिष्यथ जाता ते शृगाला ये तुम्भाणं मांसानि खादिष्यन्ति ।  
+नापि दानि नेवासिकेन उल्लपितव्यं । हू ह हे चण्डमुक्तं पञ्चवर्षिकं  
+प्रवृत्तं यथापाटितो नापि दानि वक्तव्यं को इत्थं कति वर्षो उत्थिह  
+नापि दानि (ज्।११८) वक्तव्यं । को भक्तका नातिथिका कस्य शुवे  
+भक्तत(२६अ३)र्पणं पुरोभक्तिकं वा (इ।प्।११६) नापि दानि नेवासिकेहि  
+द्वारं बन्धित्वा काकवाहां भजन्तेहि आसितव्यं ।   
+     अथ दानि पश्चाद् वस्तुके मृत्तिकाकर्म्मं करोन्ति । ये तापे(ये)  
+आर्थापे(ये) भवन्ति । आरामिका श्रामणेरो वा यस्य ओहेय्यको सो वक्तव्यो  
+द्वारं रक्षन्तो आसा(स ।) अथ दानि अपदुरको विहारो भवति ।  
+प्रविशितव्यं । अथ दानि घट्टितको भवति । अपावुर(२६अ४)णेन  
+अपदुरियाणं प्रविशितव्यं । सङ्घारामं प्रदक्षिणी करेन्तेहि  
+आगन्तव्यं । यत्र भिक्षूणां आसनप्रज्ञप्तिर् भवति । तहिं नवकं  
+तस्मिं चीवरबिसियन् थवियाणं कुण्डिकां वा उपानहौ वा थवियाण  
+नेवासिका पृच्छितव्याः । आयुष्मं पादधोवनिका कहिं कल्पियकरकी  
+कहिं अकल्पि(य)करकी कहि(म्) यदि ताव आवि(चि)क्षन्ति पादधोवनिकायां  
+पादां (२६अ५) धोवियाणं अकल्पियकरकीतो हस्ता निर्म्मादियाण  
+कल्पियकरकीतो प्रक्षालिय ततो चेतियं वन्दितव्यं चेतियं वन्दियाणं  
+यत्र नेवासिका भवन्ति तत्र गन्तव्यं अल्लीयाणं नापि क्षमति । वक्तुं  
+वन्दामी त्ति । अथ खलु वक्तव्यं । आयुष्मन् वन्दिष्यन् ति नेवासिकेहि  
+वर्षाग्रं पृच्छितव्यं । कति वर्षो आयुष्मन यदि (ज्।११९) ताव आगन्तुको  
+वृद्धतरको भ(२६अ६)वति । नेवासिकेन उत्थिय पादा वन्दितव्या । आसनं  
+दातव्यं । अथ दानि नेवासिको वृद्धतरको भवति । आरोग्यापिय एवं  
+करियाणं आसनं दातव्यं । यं कालं विश्रान्तो भवति पृच्छितव्यं ।  
+आयुष्मन् अस्ति एतावति वर्षस्य विहारको प्रापुणति । यदि ताव जल्पति  
+प्रापुणति त्ति विहारको गृह्नितव्यो मञ्च पीठं बिसि चतुरस्रको कुच्चं  
+बि(ं)बोहनं गृह्नितव्यं । नापि (२६अ७) दानि क्षमति । त्रि(ते)हि आगन्तुकेहि  
+नेवासिकां कुत्सिय हम्भिय आयुष्मन्न् अद्यापि यूयं इह वसथ हे हे  
+शिष्टा वष्टा यूयं जानाते ये शृगाला ये युष्माकं मांसानि  
+खादिष्यन्ति । अथ खलु सम्प्रहर्षयितव्या वक्तव्या आयुष्मन् शोभनं  
+क्रियति सङ्घारामो केलापीयति । धूमो क्रियति । कुलानि प्रशादीयन्ति ।  
+अविकालको पादां धोविय म्रक्षिय दीपं आदीपि(२६ब्१)य शेय्यां  
+प्रज्ञपिय प्रतिक्रमितव्यं नापि दानि क्षमति । अपरेज्जुकातो कल्यतो  
+उत्थिहन्तकेनैव (इ।प्।११७) भक्तशालं प्रविशितुं । आयुष्मन् किं सिध्यति  
+किं पच्यति किं भक्तकानां स्थितिका । अथ खलु कल्यतो येव उत्थिय  
+निवासिय प्रावरिय हस्तान् निर्म्मादिय पात्रं गृह्निय प्रविशितव्यं । अथ  
+दानि तहिं विहारके अनुग्रहो भवति विहारकं वा भक्त भवति ।  
+नेवासिकेहि वक्तव्यं । आ(२६ब्२)युष्मन मा पिण्डाय प्रविशथ । इह य्येव  
+भुञ्जिष्यथ । अथ (ज्।१२०) दानि भवति । आगन्तुकानां पिण्डकानां  
+पिण्डभक्तानि उद्दिशितव्यानि । अथ दानि भक्तकानि उद्दिशितव्यानि । अथ  
+दानि भक्तकानि न भवन्ति नेवासिकेहि वक्तव्यं आयुष्मं आगमेथ  
+सहितका पिण्डाये प्रविशिष्यामः । ततो सहितकेहि प्रविशितव्यं । अथ दानि  
+आगन्तुका भिक्षू विहार आगता भवन्ति । नायं (२६ब्३) क्षमति ।  
+नेवासिकेहि वक्तुं ओ ह हे नावा पञ्चवर्षिकडंयदुक्कं  
+श्रमणमाताप्रजाता त्ति । अथ खलु आगन्तुकानां एहि स्वागतं  
+कर्त्त(व्य)म्, । एतु आयुष्मन्तो स्वागतम् आयुष्मन्तो अनुरागतम्  
+आयुष्मन्तो मा श्रान्ता मा क्लान्ता पादां प्रक्का(क्षा)लेथ । हस्तां  
+निर्म्मादेथ पानीयं पिबथ विश्रमथ न्ति(त्ति) । यदि ताव पुरेभक्ते  
+आम(ग)ता भवन्ति पुरेभ(२६ब्४)क्तिकेन च्छन्दयितव्याः । देशकाले  
+आगता भवन्ति । भक्तकृत्येन च्छ(न्द)षि(यि)तव्याः । विकाले आगता  
+भवन्ति विकालिकेन च्छन्दयितव्याः । विकारको उद्दिशितव्यो । मञ्च  
+पीठं बिसी चतु(र)श्रकं कुच्चकं बिम्बोहनं (ज्।१२१) उद्दिशितव्यं ।  
+पादम्रक्षणेन च्छन्दयितव्या । अथ अपरेज्जुकातो यदि ताव बाहिरकं  
+भक्तं भवति । अनुग्रहो वा भवति (२६ब्५) वक्तव्यं । आयुष्मं मा  
+पिण्डाये प्रविशथ । इह य्येव भुञ्जिष्यथ । अथ दानि भक्तका न  
+भवन्ति । आगन्तुकां पिण्डभक्तकानि उद्दिशितव्यानि । अथ दानि  
+पिण्डचारिको भवति । यं कालं । आगन्तुका पिण्डाथे(ये) व(च)रिय विहारं  
+आगता भवन्ति । ततो यदि नेवासिकानां व्यञ्जनानि भवन्ति । खज्जकानि  
+भवन्ति । ततो यदि स्नेहको वा (२६ब्६) भवन्ति । तेहि आगन्तुकानां  
+सम्विभागो कर्त्तव्यो । अथ दानि एवं पि न भवति । अन्तमसतो यदि तहिं  
+किञ्चि पिण्डचारिकं प्रणीततरकं भवति । आगन्तुकानां सारणीयं  
+कर्त्तव्यं । (इ।प्।११८) नेवासिकेहि सर्व्वम् आरोचयितव्यं । वक्तव्यं ।  
+आयुष्मन्तो अमुकं कुलं मा प्रविशथ । पात्रनिकुब्जनं समुतीकृतम्,  
+अमुत्र शुनखा चण्डाः । अमुकं अ[श्रा]द्धकु(२६ब्७)लं या क्रिया  
+आरोचयितव्या ।   
+     अथ दानि । आरण्यकं शेय्यासनं भवति । न क्षमति । तेहि  
+नि(ने)वासिकाहि द्वारं च बन्ध(धि)य विहारस्य पश्चा वस्तुके  
+काकवाहां भञ्जन्तेहि आसितुं । अथ दानि सिंहभयं वा भवन्ति  
+व्याघ्रभयं वा चोरभयं वा (ज्।१२२) भिक्षू च पलिगुद्धका भवन्ति ।  
+च्छायनिका वा लेपनिका वा करेन्ति किं वा(चा)पि द्वारं घटेन्ति  
+अनापत्तिः । सर्व्वे येव गोच(२७अ१)रं प्रविशन्ति । किञ् चापि घट्टेन्ति  
+अनापत्तिः । एको वा रक्षपालो दातव्यो वक्तव्यं । आयुष्म(म्) द्वारं  
+बन्धिय द्वारकोष्ठकस्य उपरि आसाहि यदि केचि आगन्तुका आगच्छेंसु ।  
+ततो द्वारं ददेसि । तेन उपरि द्वारकोष्ठस्य आसितव्यं । यदि ताव केचि  
+आगन्तुका आगच्छेन्ति । तेषां द्वारं दातव्यं । यं कालं ते नेवासिका  
+निद्धाविता भवन्ति नापि क्षा(क्ष)मति तेहि नेवासि(२७अ२)केहि वक्तुं ।  
+आयुष्मं एषा नावा मुच्यति एषो साध्वो(र्थो) प्रयातो गच्छन्तु  
+आयुष्मन्तो गतं मार्ग्गस्य श्रेयो । अथ खलु समाश्वासितव्यं । वसन्तु  
+आयुष्मन्तो रमन्तु आयुष्मन्तो यदि ताव स्तूपिकेन वा कार्येण आगता  
+भवन्ति । स्तूपिकं कार्ष(य)(म्) परिप्रापयितव्यं । साङ्घिकेन कार्येण  
+आगता भवन्ति । साङ्घिकं कार्यं परिप्रापयितव्यं । यं कालं  
+परिप्राप्तकार्यं भ(२७अ३)वति । यदि कोचि सार्था(र्थो) प्रयातो भवति ते  
+भिक्षु वाणिजकस्य सार्थवाहस्य परिन्दितव्या वक्तव्यं । उपासक  
+दानपति इमे भिक्षवो त्वया सार्द्धं गमिष्यन्ति । इमे भिक्षु तव  
+परिनिन्दिता भवन्तु तेषां गच्छमनो(माना)नां पथ्यदनेन वैकल्यं  
+कर्त्तव्यं । एवं हि (ज्।१२३) आगन्तुकेहि प्रतिपद्यितव्यं न प्रतिपद्यन्ति ।  
+आभिसमाचारिकान् धर्म्मान् अतिक्रामन्ति ॥ * ॥  
+    
+(इ।प्।११९)   
+     इव्।३-४ म्स्।२७अ३ (ज्।१२३।३); छ्।५१०ब्३  
+     भगवा(२७अ४)न् श्रावस्त्यां विहरति । अपरो दानि भिक्षुः । आगन्तुको  
+आगतो तस्य दानि अपरो भिक्षुः । वृद्धतरको परिज्ञातको भवति । सो च  
+अपरेण भिक्षुणा सार्द्धं वाचोवाचिकां करोति । सो दानि आगन्तुको  
+अल्लीयतस्य नेवासिकस्य पादां वन्दन्ति । सो दानि अन्य विज्ञान समम्मी न  
+समन्वाहरति । न तं प्रतिसम्मोदति सो दानि अप्रतिसम्मोदिय ग(२७अ५)तो ते  
+दानि अपरकालेन उभये समागता सो दानि स्थविरो पृच्छति । आयुष्मं  
+केच्चिरो ति । आगतस्य आहारे चच्चिरो एवच्चिरो च सो आह आयुष्मन् एवच्चिरो  
+तव आगतस्य न च मे पादवन्दको उपसङ्क्रमसि । सो दान् आह । वन्दिता  
+मया तव पादा त्वं च मम न प्रतिसम्मोदेसि । सो दान् आह । कदा वा  
+किम् वा । सो दान् आह । अमुकं दिव(२७अ६)सं त्वं अमुकेन भिक्षुणा  
+सार्द्धं वाचं(चो)वाचिं करोषि । तदा तव मया पादा वन्दिता सो दानि  
+आह आयुष्मन् वाचोवाचिं करेन्तस्य पादां वन्दसि । सो दानि आह । एवं च  
+यं त्वं मम पादां वन्दिन्तस्य न प्रतिसम्मोदेसि । ते दानि विवदिताः ।  
+भगवतो मूलं गताः ।   
+     भगवान् आह । नायं ताव क्षमति । आगन्तुकेन नेवासि(ज्।१२४)कस्य  
+वाचोवाचिं करेन्तस्य पादां वन्दितुं । नापि क्षमति पादेहि  
+व(२७अ७)न्दियमाणेहि न प्रतिसम्मोदितुं । तेन हि एवं पादा वन्दितव्याः ।  
+एवं प्रतिसम्मोदितव्यं । किन् ति दानि एवं पादा वन्दितव्या । एवं  
+प्रतिसम्मोदितव्यं । एषो दानि भिक्षु आगन्तुको आगतो भवति । तस्य कोचि  
+भिक्षु परिज्ञातको भवति । सो च अपरेण भिक्षुणा सार्द्धम् वाचोवाचिं  
+करोति । नापि क्षमति तस्य तं वेलं पादां वन्दितुं उश्वास(च्चार)म् वा  
+उपविष्टो भवति न क्षमति । तं वेलं पादां (२७ब्१) वन्दितुं । एवं  
+प्रश्वास(स्राव)ं करेन्तस्य दन्तकाष्ठं खादन्तस्य स्नायति वा  
+एकनिवसनो वा भवति । भक्तकृत्यं करोति । पुरेभक्तिकम् वा करोति ।  
+द्विभूमिकम् वा उक्कस(म)ति त्वरितं वा अति(भि)क्रमति न क्षमति तं  
+वेलं तस्य पादां वन्दितुम्, । न क्षमति मृत्तिकाकर्म्म करेन्तस्य ॥  
+पे ॥ पात्रपाकं ददन्तस्य चीवरं धोवन्तस्य रजनिका पठन्तस्य  
+चीवराणि सीवन्तस्य (इ।प्।१२०) रञ्जेन्त(२७ब्२)स्य च्च(चे)ल्लपरिकर्म्मम् वा  
+करेन्तस्य पादां धोवन्तस्य हस्ता निर्म्मादन्तस्य चेतियं वन्दन्तस्य  
+पात्रं निर्म्मादेन्तस्य धूपम् वा पिबन्तस्य अक्षिणि वा अञ्जन्तस्य  
+पुस्तकं वाचन्तस्य पुस्तकं लिखन्तस्य वर्च्चकुटीं गच्छन्तस्य  
+नग्नस्य वा (ज्।१२५) एकनिवसनकेन वा । अथ खलु यं कालं  
+समवस्थाये निषण्णो भवति तं वेलं अलीयाणं शीर्षेण पादां  
+वन्दितव्या । कर्कटग्रा(२७ब्३)हिकाये वन्दितव्या । अन्धकारे वा उद्देशं  
+देन्तस्य उद्दिशन्तस्य वा निवासन्तस्य वा चीवरं प्रावरन्तस्य त्वरितं  
+वा गच्छन्तस्य न क्षमति । ओगुण्ठितकायेन न क्षमति । ओहितहस्तेन  
+न क्षमति । उपानहारूढेन सामीचीकरेन्तेन न क्षमति । जानुकेन वा  
+जङ्घाहि वा वन्दितुं । अथ खलु पादा वन्दितव्या । पादां  
+व(२७ब्४)न्दन्तेन जानितव्यं । यदि कस्यचि व्रणा भवति । गण्डो वा पिटको  
+वा न दानि सहसा उप्पीडितव्यं । अथ खलु तथा वन्दितव्यं । यथा न  
+दुःखापिये पादेहि वन्दयन्तेहि । न दानि मेण्ढेन विय आसितव्यं  
+पादेहि वन्दयन्तेहि । अथ खलु प्रतिसम्मोदयितव्यं । स्वागतम्  
+आयुष्मन्तो अनुरागतम् आयुष्मन्तो मासि श्रान्तो मा(२७ब्५)सि क्लान्तो पादां  
+प्रक्षालेहि हस्तां निर्म्मादेहि विश्रमाहि यदि ताव पुरेभक्ते आगतो  
+भवति । पुरोभक्तिकेन च्छन्दयितव्यो । देशकाले आगतो भवति ।  
+भक्तकृत्येन च्छ(न्द)यितव्यो विकाले आगतो भवति । वेकालिकेन  
+च्छन्दयितव्यो । यदि तावद् वस्तुकामो भवति । पात्रचीवरं  
+प्रतिसामयितव्यं विहारको उद्दिशितव्यो (२७ब्६) अथ दानि गन्तुकामो  
+भवति । आह । अन्यत्र गमिष्यन् ति । वक्तव्यं । गच्छाहि त्ति एवं पादा  
+वन्दितव्या । एवं प्रतिसम्मोदितव्यं न प्रतिपद्यति ॥ आभिसमाचारिकान्  
+धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     इव्।५ म्स्।२७ब्६ (ज्।१२६।१); छ्।५१०ब्२८  
+     (ज्।१२६) भगवान् श्रावस्त्यां विहरति विस्तरेण निदानं कृत्वा ते दानि  
+आयुष्मन्तो षड्वर्ग्गिकाः । गृहि-आलापेन आलापेन्ति अम्बे अत्ते भाव भट्ट  
+तात हङ्घो हे हे हो (२७ब्७) किम्, भणसीति । एतं प्रकरणं भिक्षू  
+भगवतो (इ।प्।१२१) आरोचयेंसु । भगवान् आह । शब्दापयथ  
+षड्वर्ग्गिकां ते दानि शब्दाविताः । भगवान् आह । सत्यं भिक्षव  
+षड्वर्ग्गिकाः । एवं नाम यूयं गृही-आलो(ला)पेन आलापयथ ।  
+आम्ब(अम्बे) अत्ते भाव भट्ट तात अहङ्घो हे हे हो किं भणसि त्ति ।  
+आहंसु । आम भगवन्   
+     भगवान् आह । एवं यूयं गृहि-आलापेन आलपेथ । ते(२८अ१)न हि न  
+क्षमति गृहि-आलापेन आलपितुं तेन हि प्रतिसम्मोदितव्यं । आयुष्मान् दानि  
+उपाली कालज्ञो वेलज्ञो समयज्ञो भगवन्तम् उपसङ्क्रमिय पृच्छति ।  
+कथं भगवं नवकेहि भिक्षूहि स्थविरा भिक्षू आलपितव्या । भगवान्  
+आह । आलपे(ये) ति वा भन्ते ति वा आयुष्मन्ते ति स्थविरो दानि भगवन्तं  
+पृच्छति कथं भगवां स्थविरेहि भिक्षूहि नवका भिक्षू (२८अ२) (ज्।१२७)  
+आलपितव्या । भगवान् आह । नामेन वा गोत्रेण वा । वर्षाग्रेण वा एषो  
+दानि भिक्षुस्य उपाध्यायो वा आचार्यो वा शब्दापयति । नायं क्षमति ।  
+गृहि-आलपेन आलपितुं । हङ्घो हे हे त्ति । अथ खलु नामेन वा गोत्रेण  
+वा शब्दापयितव्यो । तेनापि न क्षमति । गृहि-आलपेन व्याहर्त्तुम्, । हा किं  
+भणसीति । अथ खलु वक्तव्यं वन्दामि उपाध्यायं वा । (२८अ३)  
+आचार्यम् वा किं आणपेहि त्ति । किं करेमि त्ति । वृद्धतरको शब्दापयति ।  
+नायं क्षमति हा न्ति(त्ति) प्रव्याहरितुं । अथ खलु वक्तव्यं । आर्ये वा  
+भन्ते वा आयुष्मन् ति वा किं अ(आ)णपेसी न्ति(त्ति) किं करेमि । एषो भिक्षु  
+मातरं पितरं वा भगिनीम् वा शब्दापयितुकामो भवति नायं क्षमति  
+शब्दापयितुं । अम्बे त्ति वा अत्ते ति वा भट्टे ति वा । अथ ख(२८अ४)लु  
+सालोहिते ति वा शब्दापयितव्याः । अथ दानि भिक्षुस्य पिता वा भगिनी वा  
+शब्दापयति । नायं क्षमति हा किं भणसि त्ति प्रव्याहर्त्तुं । अथ खलु  
+वक्तव्यं । सालोहिते किं आणपेसि किं करेमि । एषो भिक्षुः । उपासकाम्, वा  
+दानपतीना(नी)ं वा विहारस्वामिनीं वा शब्दापितुकामो भवति । नापि  
+क्षमति । अम्बे ति वा अत्ते ति वा भट्टे (२८अ५) ति वा । अथ खलु उपासके त्ति  
+वा दानपत्ति ति (ज्।१२८) वा विहारस्वामिनि ति वा शब्दापयितव्यं । भिक्षू  
+वा उपासकम् वा दानपतिम् वा शब्दापयितुकामो (इ।प्।१२२) भवति । नापि  
+क्षमति भावे त्ति वा भट्टे ति वा । आयुष्मं त्ति वा । अथ खलु दानपत्ति  
+ति(ति त्ति) वा भिक्षू वा तेहि शब्दापयति । नायं क्षमति । हा किं भणसि ति  
+व्याहर्त्तुम्, । अथ खलु वक्तव्यं । सा(२८अ६)लोहित किं आणपेसि । किं करोमि  
+त्ति । ते एते(न) गृहि-आलापेन आलपन्ति वा । प्रव्याहरन्ति वा ।  
+विनयातिक्रमं आसादयति । स्त्री वा पुरुषो वा महन्तो भवति । न दानि  
+मातापितृकण्ठेन आलपितव्या महल्लको महल्लकेति वा वक्तव्या । अथ  
+दानि कोचि पृच्छति । को ते उपाध्यायो को ते आचार्यो वा न दानि वक्तव्यं ।  
+असुको आचार्यो असुको (२८अ७) उपाध्यायो । अथ खलु वक्तव्यं । अर्थहेतोर्  
+न्नामं गृह्नामि । असुको मे उपाध्यायो असुको मे आचार्यो आलपितव्यम्, ।  
+एवं प्रव्याहर्त्तव्या(व्यं ।) न प्रतिपद्यति । आभिसमाचारिकान्  
+धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     इव्।६ म्स्।२८अ७ (ज्।१२८।१४); छ्।५१०च्१९  
+     भगवान् श्रावस्त्यां विहरति । विस्तरेण निदानं कृत्वा क्षत्रियपर्षा  
+दानि सन्निपतिता कार्याणि करिष्याम न्ति(त्ति) ते दानि आयुष्मन्तो  
+नन्दनोपनन्द(२८ब्१)ना आगच्छिय तेषां मध्ये निषण्णाः । ते दानि । तेहि  
+निषण्णेहि न पारेन्ति कार्याणि कर्त्तुं ओध्यायन्ति । पश्यथ भणे वयं  
+येव सन्निपतिता कर्म्माणि करिष्याम न्ति(त्ति) । इमे पि श्रमणका  
+आगच्छिय मध्ये निषण्णाः । नष्टं भ्रष्टं कुतो इमेषां श्रामण्यं  
+भिक्षूहि श्रुतं । (ज्।१२९) भिक्षू भगवतो आरोचयेंसु । भगवान् आह ।  
+शब्दापयथ नन्दनोपनन्दनां ते दानि शब्दापिता । भगवान् आह ।  
+सत्यं भि(२८ब्२)क्षवो नन्दनोपनन्दना । एवन् नाम क्षत्रियपर्या(षा)ये  
+सन्निपतिता कार्याणि करिष्याम न्ति(त्ति) । यूयं दानि गच्छिय । तेषां  
+मध्ये निषण्णा ते दानि तुम्भेहि निषण्णेहि न पारेन्ति कार्याणि कर्त्तुम्, ।  
+ते दानि ओध्यायन्ति । पश्यथ भणे वयं येव ताव निषण्णा कार्याणि  
+कारय न्ति(त्ति) । इमे पि श्रमणका गच्छियाणं मध्ये निषण्णा नष्टं  
+भ्रष्टं कुतो इमेषां श्रामण्यं आहंसु । आम । (२८ब्३) भगवन्   
+     (इ।प्।१२३) भगवान् आह । तेन हि एवं क्षत्रियपर्या(षा)ये किञ्चि कार्यं  
+भवति । न क्षमति गतागतस्य । उपसङ्क्रमितुं । अथ खलु ये तहिं  
+वृद्धतरका क्षत्रिया भवन्ति । ते ताव अल्लिपितव्या वक्तव्यं । दीर्घायु  
+क्षत्रियपर्या(षा)ये इमं च कार्यं अल्लीयामि त्ति । यदि ताव ते जल्पन्ति  
+भन्ते मा अल्लीपथ न्ति(त्ति) न क्षमति अल्लीपितुम्, । अथ (२८ब्४) दानि  
+जल्पन्ति । अल्लीपथ न्ति(त्ति) । अल्लीपितव्यं । नापि क्षमति । च्छत्रेण  
+धार्यन्ते उपानहांहि वा ओबद्धाहि क्षत्रियपर्या(षा)यम्  
+उपसङ्क्रमितुं । अथ खलु एकान्ते च्छत्रं निक्षिपिय उपानहायो मुञ्चिय  
+(ज्।१३०) ततो अल्लीपितव्यं । नापि दानि दर्शनोपचारे निक्षिपितव्यं । अथ  
+खलु प्रतिकृत्येव निक्षिपितव्यं । दर्शनपथे उपसङ्क्रमि(२८ब्५)त्वा न  
+दानि वक्तव्यं । सुखम् भवन्तो सुखं मार्ष अथ खलु आरोग्यापिय  
+यादृशं आसनं दीयति । तादृशे आसने उपविशितव्यं नापि क्षमति । आसने  
+क्षिपा(या)धर्म्मम् आपद्यितुं । नापि क्षमति । ते निन्दितुं । ये क्षत्रिया  
+कुशला भवन्ति प्राग् एव ते नैरयिका भवन्तीति । अथ खलु वक्तव्यं ।  
+क्षत्रिया नाम यूयं अग्रो वर्ण्णो ज्येष्ठो वर्ण्णो (२८ब्६) द्विहि कुलेहि  
+तथागता अर्हन्तः सम्यक्सम्बुद्धाः । उत्पद्यन्ति । क्षत्रियकुले वा  
+ब्राह्मणकुले वा । दुवे चक्राणि धर्म्मचक्रं बलचक्रं च । तवाहं  
+हितोपसंहारेण रक्षावरणगुप्तिये सुखं च पय(फा)सुखञ् च  
+विहरामि । कार्यङ् कृत्वा उत्थायासनातो गन्तव्यं । एवं क्षत्रियपर्षा  
+उपसङ्क्रमितव्या न प्रतिपद्यति । आभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥   
+    
+     इव्।७ म्स्।२८ब्७ (ज्।१३०।१३); छ्।५११अ४  
+     (२८ब्७) भगवान् श्रावस्त्यां विहरति विस्तरेण निदानं कृत्वा  
+ब्राह्मणपर्या(षा) दानि सन्निपतिता कार्याणि करिष्यामो ति । ते दानि  
+आयुष्मन्तो नन्दनोपनन्दना आगच्छियाणं मध्ये निषण्णा ते दानि तेहि  
+निषण्णेहि न पारेन्ति । कार्याणि कर्त्तुम्, । ते दानि ओध्यायन्ति । वयं  
+येच(व) ताव निषण्णा कार्याणि करिष्याम न्ति(त्ति) । इमे पि श्रमणका  
+आगच्छियाणं मध्ये निष(२९अ१)(ज्।१३१)ण्णा नष्टं भ्रष्टं कुतो इमेषां  
+श्रामण्यं । एतं (इ।प्।१२४) प्रकरणं भिक्षूहि श्रुतं । भिक्षू भगवतो  
+आरोचयेंसु । भगवान् आह । शब्दापयथ नन्दनोपनन्दां ते दानि  
+शब्दापिता । भगवान् आह । सत्यं भिक्षवो नन्दनोपनन्दना । एवं  
+नाम ब्राह्मणपर्षा सन्निपतिता कार्याणि करिष्याम न्ति(त्ति) । यूयं दानि  
+तेषां गच्छियाणं मध्ये निषण्णा ते दानि तुम्भेहि निषण्णेहि न  
+पारे(२९अ२)न्ति कार्याणि कर्त्तुम्, । ते दानि ओध्यायन्ति । पश्यथ भणे वयं  
+येव ताव निषण्णा कार्याणि करिष्यामो ति । इमे पि श्रमणका आगच्छियाण  
+मध्ये निषण्णका । नष्टं भ्रष्टं कुतो इमेषां श्रामण्यं । आहंसु ।  
+आम । भगवन   
+     भगवान् आह । सम्यग् भिक्षवो जनो ओध्यायन्ति तेन हि एवं  
+ब्राह्मणपर्षा उपसङ्क्रमितव्या । किन् ति दानि ब्राह्मणपर्षा  
+उपसङ्क्रमितव्या ॥ एतं दानि भिक्षुस्य किं(२९अ३)चि ब्राह्मणपर्षायां  
+कार्यं भवति । नायं क्षमति । गतागतस्य ब्राह्मणपर्षाम्  
+उपसङ्क्रमितुं । अथ खलु ये तहिं ब्राह्मणमहत्तरका भवन्ति । ते  
+प्रतिकृत्येव उपसङ्क्रमितव्या । दीर्घायु अस्ति मे किञ्चिद्  
+ब्राह्मणपर्षायां कार्यं अल्लीयाम न्ति(त्ति) । यदि ताव जल्पन्ति । भन्ते  
+मा अल्लीयथ न्ति(त्ति) । न क्षमति । अल्लीपितुं । अथ दानि जल्पन्ति अल्लीपथ  
+न्ति(त्ति) ततो अल्लीपि(२९अ४)तव्यं । नापि दानि क्षमति । च्छत्रेण वा  
+धार्यन्तेन उपानहाहि आबद्धाहि ब्राह्मणपर्षा आल्लीपितुं । अथ  
+ख(लु) च्छत्रोपानहां एकमन्ते स्थपिय ब्राह्मणपर्षायाम्  
+उपसङ्क्रमितव्यं । नापि दानि दर्शणोपचारे निक्षिपितव्यं । अथ खलु  
+प्रतिकृत्येव (ज्।१३२) निक्षिपितव्यं । दर्शनपथे उपसङ्क्रमित्वा न दानि  
+वक्तव्यं । सुखं भवन्तो सुखं मा(२९अ५)र्ष अथ खलु  
+आरोग्यापयि(पिय) त्वा(या)दृशं आसनं लभ्यति तादृशे आसने  
+उपविशितव्यं । नायं क्षमति । आसने क्षीयाधर्म्मम् आपद्यितुं । अथ  
+खलु ता(या)दृशं आसनं दीयति । तादृशे उपविशितव्यं । नापि क्षमति ते  
+निन्दितुं । माणवकस्य मानहतस्य इहलोके भूतस्य कुक्कुटो शूकरो  
+श्वानो शृगालो पञ्चमो मूष(२९अ६)को निरयो षष्ठो न्ति(त्ति) । अथ खलु  
+वक्तव्यं । ब्राह्मण नाम यूयं अग्रो वर्ण्णो ज्येष्ठो वर्ण्णो श्रेष्ठो  
+वर्ण्णो द्विहि कुलेहि तथागता अर्हन्तः सम्यक्सम्बुद्धाः । लोके  
+उत्पद्यन्ति । क्षत्रियकुले वा ब्राह्मणकुले (इ।प्।१२५) वा एवं कार्यं करिय  
+गन्तव्यं । एवं ब्राह्मणपर्षाये प्रतिपद्यितव्यं । न प्रतिपद्यति ।  
+आभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     इव्।८ म्स्।२९अ६ (ज्।१३२।१२); छ्।५११अ१६  
+     भगवान् श्रावस्त्याम् वि(२९अ७)हरति गृहपतिपर्षा दानि सन्निपतिता ।  
+कार्याणि करिष्याम न्ति(त्ति) । आयुष्मन्तो नन्दनोपनन्दना आगच्छिय  
+तेषां मध्ये निषण्णा । ते दानि तेहि निषण्णेहि न पारेन्ति कार्याणि  
+कर्त्तुं । ते दानि ओध्यायन्ति । पस्यथ भणे वयं ये(व) ताव सन्निपतिता  
+कार्याणि करिष्याम न्ति(त्ति) । इमे पि श्रमणका मध्ये आगच्छियाणं  
+निषण्णाः । नष्टं भ्रष्टं कुतो इमेषां श्रामण्यं । एतं (२९ब्१)  
+प्रकरणं भिक्षूहि श्रुतं भिकू भगवतो आरोचयेंसु । भगवान् आह ।  
+शब्दापयथ नन्दनोपनन्दा(द)नां । ते दानि शब्दापिताः । भगवान्  
+आह । सत्यं भिक्षवो नन्दनोपनन्दा(द)नां । एवं नाम गृहपतिपर्षा  
+सन्निपतिता कार्याणि करिष्या(ज्।१३३)म न्ति(त्ति) । एतद् एव सर्व्वं भगवां  
+विस्तरेण प्रत्यारोचयति । यावत् पश्यथ भणे वयं येव ताव सन्निपतिता  
+कर्म्माणि कर(रि)ष्याम (२९ब्२) न्ति(त्ति) । इमे पि श्रमणका आगच्छिय  
+मध्ये निषण्णा नष्टं भ्रष्टं । कुतो इमेषां श्रामण्यं आहंसु ।  
+आम भगवन्   
+     भगवान् आह । तेन हि एवं गृहपतिपर्षा उपसङ्क्रमितव्या । किन् ति  
+दानि गृहपतिपर्षा उपसङ्क्रमितव्या । एतं दानि भिक्षुस्य  
+गृहपतिपर्षायां किञ्चित् कार्यम् भवति । न क्षमति । गतागतस्य  
+आल्लीपितुं । अथ खलु ये तत्र गृहपतिमहत्तरकाः भवन्ति । (२९ब्३) ते  
+प्रकृत्येव ते(ता)(व) प्रतिसरितव्या । वक्तव्यं । दीर्घायु अस्ति किञ्चि  
+गृहपतिपर्षायां कार्यं । अल्लीयाम मा आल्लीयामो न्ति(त्ति) । यदि ताव  
+जल्पन्ति । भन्ते मा आल्लीपथ न्ति(त्ति) । न क्षमति आल्लीपितुं । अथ दानि  
+जल्पति । आल्लीपथ न्ति(त्ति) । अल्लीपितव्यम् । नापि क्षमति च्छत्रेण  
+धार्यन्तेन उपानहाहि आबद्धाहि गृहपतिपर्षा उपसङ्क्रमितुं । अथ  
+खलु एकत(२९ब्४)मन्ते च्छत्रोपानहां निक्षिपिय गृहपतिपर्षा  
+उपसङ्क्रमितव्या । नापि दर्शनोपचारे निक्षिपितव्यं । अथ खलु  
+प्रकृत्येव निक्षिपितव्यं । दर्शनपथे उपसङ्क्रमित्वा न (इ।प्।१२६) दानि  
+वक्तव्यं । सुखं भवन्तो सुखं मार्ष । अथ खलु आरोग्यापिय  
+यादृशं आसनं लभ्यते तादृशे आसने उपविशितव्यं । (ज्।१३४) नापि दानि  
+क्षमति । कुत्सितुम् वा पन्सितुम् वा गृ(२९ब्५)हपतिका नाम यूयं  
+तुलाकूटमानकूटेहि दिवसं लोकं मुषन्ता आसथ । अथ खलु  
+वक्तव्यम्, ।   
+              सागरा च अनगारा च उभे अन्योन्यनिश्रिता   
+              आरागयन्ति । सद्धर्म्मं सम्यक्सम्बुद्धं देशितं ॥  
+              सागाराष्ट्रं नगाराणां सम्प्रयच्छन्ति दक्षिणां ।  
+              अनागारा प्रगृह्नन्ति । प्रतिसंयम्य विनोदना ।  
+              अमिषचक्रं निश्राय धर्म्मचक्रं प्रवर्त्ततीति ॥  
+     उक्तं चेदं भग(व)ता (२९ब्६) बहुकरा भिक्षवो ब्राह्मणगृहपतयो ।  
+यं वो प्रत्युपस्थिता ।  
+चीवरपिण्डपातशेय्यासनग्लानप्रत्ययभैषज्यपरिष्कारेहि तेहि यूयं  
+निश्राय तथागते ब्रह्मचर्यं चरथा महतो ओघस्य निःसरणार्थं  
+सर्व्वे इति प्रवृत्तका कर्त्तव्या । एवं कार्यं करिय गन्तव्यं । एवं  
+गृहपतियथा(पर्षा) उपसङ्क्रमितव्या न प्रतिपद्यति । आभिसमाचारिकान्  
+धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     इव्।९ म्स्।२९ब्६ (ज्।१३५।१); छ्।५११अ२५  
+     (ज्।१३५) भगवान् श्रावस्त्यां वि(२९ब्७)हरति तीर्थिकपर्या(षा) दानि  
+सन्निपतिता कार्याणि करिष्याम न्ति(त्ति) । ते दानि आयुष्मन्तो  
+नन्दनोपनन्दना तेषां गच्छियाणं मध्ये निषण्णाः । ते दानि तेहि  
+निषण्णेहि न पारेन्ति कार्याणि कर्त्तुम्, । ते दानि ओध्यायन्ति । पश्यथ  
+भणे च(व)यं येवं ताव सन्निपतिता कार्याणि करिष्यामो ति । इमे पि  
+श्रमणका आगच्छिय मध्ये निषण्णा । नष्टं भ्रष्टं कुतो इमेषां  
+श्रामण्यं । (३०अ१) एतं प्रकरणं भिक्षूहि श्रुतं । भिक्षू भगवतो  
+आरोचयेंसु । भगवान् आह । शब्दापयथ नन्दनोपनन्दनां । ते दानि  
+शब्दापिता । भगवान् आह । सत्यं भिक्षवो नन्दनोपनदना एवं  
+नाम । तीर्थिकपर्षा सन्निपतिता (इ।प्।१२७) कार्याणि करिष्यामो न्ति(त्ति) ।  
+यूयं दाणि गच्छियाण तेषां मध्ये निषण्णा । तद् एव सर्व्वं भगवां  
+विस्तरेण प्रत्यारोचयति । नष्टं भ्रष्टं कुतो इमेषां (३०अ२) श्रामण्यं  
+आहंसु । आम भगवन्   
+     भगवान् आह । तेन हि एवं तीर्थिकपर्षा उपसङ्क्रमितव्या । एतं दानि  
+भिक्षुस्य किञ्चि तीर्थिकपर्षाये कार्यम् भवति । नायं क्षमति ।  
+भिक्षुणा गतागातस्य तीर्थिकपर्षा उपसङ्क्रमितुं । अथ खलु  
+प्रतिकृत्येव ताव वृद्धतरका प्रतिसरितव्या । वक्तव्यं आयुष्मं अस्ति मे  
+किञ्चि तीर्थिकपर्षाये कार्यं आल्लीपाम मा आल्ली[या]मोथ न्ति(त्ति) । यदि  
+(३०अ३) ताव जल्पन्ति । मा आल्ली(ज्।१३६)पथ न्ति(त्ति) । न क्षमति अल्लीपितुं ।  
+अथ दानि जल्पन्ति । अल्लीपथ न्ति(त्ति) । उपसङ्क्रमितव्यं । याव न दानि  
+क्षमति । आसने क्षिपा(या)धर्म्मम् आपद्यितुम्, । अथ खलु यादृशं  
+(आसनम्) लभ्यते । तादृशो उपविशितव्यं । नापि क्षमति । कुत्सितुम् वा  
+पंसितुम् वा अश्राद्धा तीर्थिकाः । अह्रीका तीर्थिकाः । अनोत्रापिनो  
+तीर्थिकाः । मिथ्यादृ(३०अ४)ष्टिका तीर्थिकाः । कुसिदा हीनावीर्या  
+तीर्थिकाः । दुःप्रज्ञा तीर्थिकाः । अथ खलु एवं वक्तव्यं ।  
+सर्व्वाश्रामिणानोपवादे कदाचि त्रैविद्यप्राप्ताः बहुश्रुता यस्य  
+प्रशंसा तम् अनुप्रशंशे तेषां गुणम् एव वदेन दोषन्ति । वक्तव्यं ।  
+दुष्करं गृहिलिङ्गापरित्यागो दुष्करं वस्तिसंयमो दुष्करम् अरण्यवासो  
+एवं कार्यं करिय गन्तव्यं । एवम्, (३०अ५) तीर्थिकपर्षा  
+उपसङ्क्रमितव्या न प्रतिपद्यति । आभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥  
+    
+     इव्।१० म्स्।३०अ५ (ज्।१३६।१२); छ्।५११ब्३  
+     भगवान् श्रावस्त्याम् विहरति । एतं दानि भिक्षुस्य आर्यपर्या(षा)ये  
+कार्यम् भवति । नायं क्षमति । गतागतस्य वृद्धान्तम् उक्कसितुं ।  
+अथ खलु प्रकृत्येव ताव उपाध्यायो वा आचार्यो वा आमन्त्रयितव्यो  
+वक्तव्यं । उपाध्यायाचार्या सङ्घस्य म(३०अ६)ध्यं मे किञ्चित् कार्यं  
+(ज्।१३७) आल्लीयामि । मा अल्लीयामि त्ति । उपाध्यायेन वा आचार्येण वा  
+जानितव्यं । यदि ताव सो भवति । उस्रेणको वा प्रवर्द्धको वा  
+अनर्थक(कु)शलो वा । (इ।प्।१२८) अभिनीहारकुशलो वा कलहकारको वा  
+भण्डनकारको वा भाष्यकारको वा । अधिकरणिको वा वक्तव्यं । मा  
+अल्लीयाहि त्ति । अथ दानि सो भवति । भद्रको गुणवान् । अनुद्धतो  
+शिक्षा(३०अ७)कामो अनुकूलो अनुन्नडो अचपलो पृच्छितव्यो किं कार्यम्, ।  
+आह । असुकम् वा असुकम् वा तेन जानितव्यं । यदि ताव तस्य दुग्रहो वा  
+वक्तव्यं । मा अल्लीय अथ दानि तस्य सङ्ग्रहो भवति वक्तव्यं । आल्लीय  
+न्ति(त्ति) । अल्लीपितव्यं । अल्लीय वृद्धान्तातो प्रभृति सर्व्वेषां प्रणामो  
+कर्त्तव्या । या वृद्धतरका यावद् वृद्धान्तं उक्कसियाणं  
+सङ्घस्थविरो पृच्छितव्यो । अ(३०ब्१)सुकं मे कार्यं जल्पामि त्ति ।  
+सङ्घस्थविरेण जानितव्यं । यदि ताव तस्य दुग्रहो भवति । सो च भिक्षु  
+भवति । कलहकारको भण्डनकारको भाष्यकारो अधिकरणिको वा  
+वक्तव्यं । मा जल्पाहि त्ति कस्य त्वं भिक्षूणां समग्राणां सहितानां  
+सम्मोदमानानां अविवदमानानां एकोद्देशकानां क्षीरोदकीभूतानां  
+शास्तुः शासनं दीपयमानानां सुखञ् च फासु(३०ब्२)ञ् च विहरन्तानां  
+कलहजातो भण्डनजातो विग्रहविवादापन्नो विहरन्तो सङ्घे कर्कशानि  
+अधिकरणानि (ज्।१३८) उत्पादयसि मा जल्पाहि त्ति । अथ दानि तस्य सुग्रहो  
+भवति । सो च भिक्षु भवति । भद्रको गुणवान् शिक्षाकामो अनुद्धतो  
+अनुन्नडो अचपलो अमुखरो अप्रगल्भो अप्रकीर्ण्णवाचो सङ्घस्थविरेण  
+वक्तव्यं । आयुष्मन् जल्पथ यथाधर्म्मम्, (३०ब्३) यथाविनयं  
+यथाशास्तुः । शासनं ति तेन कार्यं सङ्घमध्ये आरोचयितव्यं ।  
+सङ्घेन तत् कार्यं धर्म्मेण विनयेन शास्तुः शासनेन  
+व्युपसमयितव्यं । व्युपशान्तं करिय सो भिक्षु पृच्छितव्यो आयुष्मन्  
+किं व्युपशान्तं एतं कार्यं यदि ताव आह । व्युपशान्तं वक्तव्यं ।  
+आयुष्मन् सर्व्वे त्वं एतं कार्यं समग्रेण सङ्घेन संव्युपशान्तं  
+(३०ब्४) पुनः कर्म्माय उत्खोटयसि पुनो चास्मि पर्ष उपसङ्क्रमेसि ।  
+सङ्घो ते उत्तरि उपपरीक्षिष्यतीति । यथासुखं करिय गन्तव्यं एवं  
+आर्यपर्षा उपसङ्क्रमितव्या न प्रतिपद्यति । आभिसमाचारिकान्  
+धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+(इ।प्।१२९) उद्दानं ॥  
+              एवं आगन्तुकेहि प्रतिपद्यितव्यं ।  
+              एवं नेवासिकेहि प्रतिपद्यितव्यं ।  
+              एवं पादा वन्दितव्या ।  
+              एवं (३०ब्५) सम्मोदितव्यं ।  
+              एवं आलपितव्यं ।  
+              एवं प्रव्याहर्त्तव्यं ।  
+              (ज्।१३९) एवं क्षत्रियपर्षा उपसङ्क्रमितव्या ।  
+              एवं ब्राह्मणपर्षा उपसङ्क्रमितव्या ।  
+              एवं गृहपतिपर्षा उपसङ्क्रमितव्या ।  
+              एवं तीर्थिकपर्षा उपसङ्क्रमितव्या ।  
+              एवं आर्यपर्षा उपसङ्क्रमितव्या ॥  
+     चतुर्थो वर्ग्गः ॥
+
+     (इइ।प्।५)  
+     व्।१-२ म्स्। ३०ब्५ (ज्।१४०।१); छ्। ५०९च्२६  
+     भगवान् सम्यक्सम्बुद्धो यद् अर्थं समुदागतो तम् अर्थम्  
+अभिसम्भावयित्वा श्रावस्त्याम् वि(३०ब्६)हरति विस्तरेण निदानं कृत्वा  
+याव आरण्यकं ताव शेय्यासनं ग्रामान्तिकञ् च एकभक्ततर्प्पणञ् च  
+ग्रामान्तिके शेय्यासने आरण्यकानाञ् च ग्रामान्तिकानाञ् च अनुग्रहो  
+साधीयति । तेहि दानि ग्रामान्तिकेहि प्रतिकृत्येव गण्डिं आहनियाणं  
+स्थिताः । ते दानि आरण्यका देशकाले ग्रामान्तिकं शेय्यासनं आगता  
+आहंसु । आयुष्मं देशकालो आहनथ गण्डिं ते (३०ब्७) दानि ग्रामान्तिका  
+आहंसु । आहता-य्-इयं गण्डी भुक्त(म्) पि अम्हेहि ते दानि आहंसु ।  
+आयुष्मन् । एवं यूयं अत्यनुकाल्ये गण्डीं आहनिय भुञ्जथ । ते दानि  
+ग्रामान्तिका आहंसु । एवं च यूयं अति-उवह्ने आगच्छथ । ते दानि  
+आरण्यकेहि अपरेज्जुकातो कल्यतो येवा(व) उत्थिहिय भक्तकानि सर्व्वाणि  
+उ(त्)क्षिप्तानि । ते दानि ग्रामान्तिका देशकालस्मिन् । कुलानि  
+उपसङ्क्रम(३१अ१)न्ति । आहंसु । उपासिके देथ । भक्तानि उक्कहितानि  
+भक्तानि केन आहंसु । आरण्यकेहि ते दानि तेषां आरण्यकानां आहंसु ।  
+आयुष्मन् किन् दानि (ज्।१४१) युष्माभिः सर्व्वाणि भक्तकानि उत्क्षिप्तानि । ते  
+दानि आहंसुः । तथा तुम्हेहिं प्रतिकृत्येव गण्डि आहनियाणं भुञ्जथ ।  
+ते दानि विवदिताः । भगवतो मूलं गताः ।   
+     भगवान् आह । नायं ताव क्षमति प्रतिकृत्येव गण्डीं आहनियाणं  
+भुञ्जि(३१अ२)तुं । नापि क्षमति । अपरेहि कल्यतो येव सर्व्वाणि भक्तानि  
+उत्क्षिपितुम्, । तेन हि । एवं आरण्यके विहारे प्रतिपद्यितव्यं । एवं  
+ग्रामान्तिके विहारे प्रतिपद्यितव्यं । किन् ति दानि एवं आरण्यके विहारे  
+(इइ।प्।६) प्रतिपद्यितव्यं । एवं ग्राम(मा)(न्ति)के विहारे प्रतिपद्यितव्यं ।  
+एतं दानि ग्रामान्तिकं च शेय्यासनं आरण्यकञ् च शेय्यासनं च  
+एकभक्ततर्प्पणं भवति । ततो यदि ताव ग्रामान्तिके शे(३१अ३)य्यासने  
+भक्तम् पच्यति । न दानि क्षमति । ग्रामान्तिकेहि प्रतिकृत्येच(व) गण्डीं  
+आहनियाणं चेतियं वन्दियाणं भुञ्जितुं । अथ खलु ग्रामान्तिकेहि दुवे  
+शा(था)लीयो आद्राहयितव्या । या एका ग्रामान्तिकानां । एका आरण्यकानां  
+ग्रामान्तिकानां थाली तहिं । तण्डुला प्रक्षिपितव्याः । या आरण्यकानां  
+थाली यदि ताव आरण्यका आगता भवन्ति । तहिम्, (३१अ४) तण्डुला  
+प्रक्षिपितव्याः । अथ दानि नागच्छन्ति । नापि क्षमति तहिं तण्डुलानि  
+प्रक्षिपितुं । अथ खलु कढन्ती थपितव्या । एकेन भिक्षुणा विहारकं  
+उक्कसिय निध्यायि(पि)तव्यं । यदि ताव (ज्।१४२) आरण्यका आगच्छन्ति ।  
+वक्तव्यं । आयुष्मन् एते आरण्यका आगच्छन्ति प्रक्षिपथ तण्डुलानि । अथ  
+दानि कालपर्यन्तं नागच्छन्ति ग्रामान्तिकेहि गण्डीं आहनि(३१अ५)याणं  
+भुञ्जितव्यं । आरण्यकानां स्थाली ओतारियाणं वोधि(धोवि)याणं स्थाने  
+स्थम्पयितव्या । अनेकाये आरण्यकानां चो(र)भयं वा भवेय  
+उदकभयं वा सिंहभयं वा । व्याघ्रभयं वा यथापि ते  
+नागच्छन्ति । यदि कोचि उपासको सङ्घं भक्तेन निमन्त्रयति । आह ।  
+आर्यो (र्ये) आरण्यकानां पि आरोचेथ न्ति(त्ति) । तेहि दानि ग्रामान्तिकेहि  
+आरण्यकानां । (३१अ६) पि आरोचितव्यं । आयुष्मं शुवे भक्तं वा  
+पुरेभक्तिकं वा यवागूपानं वा भविष्यति । मा पिण्डकेन  
+विहरिष्यथ । कर्ण्ण(ल्ल)तो य्येव आगच्छथ । तेहि पि दानि आरण्यकेहि न  
+विघ्नयितव्यं । यदि अर्थिका भविष्यन्ति प्रतिपालयिष्यन्तीति । अथ खलु  
+कालेन कालं (इइ।प्।७) गन्तव्यं । यदि न सज्जं भवति । न दानि  
+भक्ताग्रं अवष्टभयितव्यो आसयितव्यं । अथ खलु वे(चे)तियं वन्दित्वा  
+एकान्ते (३१अ७) स्वाध्यायो कर्त्तव्यो । धर्म्मम् वा चिन्तयन्तेहि आसितव्यं  
+एषो दानि कोचि ग्रामान्तिकां भक्तेन निमन्त्रेति । वक्तव्यं ।  
+आरण्यकानां पि निमन्त्रेहि न्ति(त्ति) । अथ दानि आह । नास्ति मम तहिं  
+श्रद्धा नापि प्रसादो त्ति वक्तव्यं । वयं पि न प्रतिच्छामे (मो)  
+न्ति(त्ति) । अथ दानि आरण्यकानां पि निमन्त्रेति भक्तं सज्जयितव्यं । (ज्।१४३)  
+पानीयं परिश्रावयितव्यं । आसनप्रज्ञप्ति कर्त्तव्या । दानपति आगतो  
+भवति । (३१ब्१) आरण्यका च नागच्छन्ति । दानपती आह भन्ते आहनेथ  
+गण्डिं कालो पि ताव अद्यापि भवति वक्तव्यं । प्रागो ताव अद्यापि  
+आरण्यका पि ताव नागच्छन्ति । अथ दानि दानपती आह भन्ते आहनेथ  
+तुम्हे अ(आ)रण्यका पि एष्यन्तीति किं कर्त्तव्यं । गण्डी ताव विस्तरेण  
+आहनियाणं वे(चे)ति।यो विस्तरेण वन्दितव्यो । चेतियं विस्तरेण वन्दियाणं  
+यदि ताव आरण्यका आग(३१ब्२)ता भवन्ति । ततो भुञ्जितव्यं । अथ दानि  
+आरण्यका नागता भवन्ति । अनन्तरिकानां आसनानि वर्ज(य)न्तेहि  
+आसितव्यं । परिवेशावकेन पृच्छितव्यं । को आरण्यकानां लाभग्राहो  
+यदि तावज् जल्पन्ति । अहं पि अहं पि त्ति वक्तव्यं । आरण्यकानां  
+पिण्डपातं उक्कड्ढथ तेहि आरण्यकानां पिण्डपातो उक्कड्ढयितव्यो ।  
+उक्कड्ढियाणां साङ्घिकं कल्पियकुटीयं स्थाप(३१ब्३)यितव्यो । यदि तावत्  
+सकाले आगच्छन्ति । भुञ्जनाय दातव्यो । अथ दानि विकाले आगच्छन्ति । न  
+वागच्छन्ति । अपरेज्जुकातो श्रामणेराणां दातव्यं । नापि दानि (इइ।प्।८)  
+क्षमति । आरण्यकेहि यत्र पु(उ)ल्लु(ल्ल)गिकाये आसितुं । अथ खलु कालेन  
+कालं ग्रामान्तिकं शेय्यासनं गन्तव्यं । आगच्छिय पादां धोविय  
+हस्तां निर्म्मादिय चेति।यो विस्तरे(३१ब्४)ण वन्दितव्यो । यदि (ज्।१४४) ताव  
+अनुकल्यो अद्यापि ताव भवति । तत्रैव स्थानचङ्क्रमनिषद्यायोगम्  
+अनुयुक्तेन विहरितव्यं । उद्देशप्रयुक्तेहि वा मनसिकारप्रयुक्तेहि वा ।  
+अथ दानि देशकालो भवति । सङ्घारामं प्रविसियाणं ग्रामान्तिकं  
+भिक्षुं प्रतिसम्मोदियाणं स्वकस्वकेहि आसनेहि उपविशितव्यं । गण्डी  
+आहतायं वन्दि(३१ब्५)य चेतियं नापि दानि आरण्यकेहि ग्रामान्तिका  
+कुत्सेतव्या बहुकृत्या बहुकरणीया जिह्वाग्रे यूयं रसाग्राणि पर्येषथ ।  
+अथ खलु संराधयितव्या । वक्तव्यं आयुष्मन् सोभनं क्रियति  
+बहुकरा यूयं भारं वहथ । धर्म्मदेशनां करेथ । सङ्घारामो  
+केलापीयति । धूमो क्रियति कुलानि प्रसादीयन्तीति । एवं  
+संराधयितव्याः । अथ (३१ब्६) दानि आरण्यके शेय्यासने ग्रामान्तिकानां  
+च आरण्यकानाञ् च भक्तं सज्जीयति । नापि दानि क्षमति । आरण्यकेहि पि  
+प्रतिकृत्येव गण्डिं आहनियाणं चेतियं वन्दिय भुञ्जितुं । अथ खलु  
+दुवे स्थालीयो अ(आ)द्राहयितव्यायो । एका आरण्यकानां एका  
+ग्रामान्तिकानां या आरण्यकानां स्थाली तहिं तण्डुला प्रक्षिपितव्याः ।  
+या ग्रामान्तिङ्कानां स्थाली यदि ताव ग्रामान्तिका (३१ब्७) आगता भवन्ति ।  
+तहिं पि तण्डुला प्रक्षिपितव्याः । अथ दानि ग्रामान्तिका नागच्छन्ति । न  
+क्षमति तहिं तण्डुलां प्रक्षिपितुं । जानितव्यं । अनेकाये  
+ग्रामान्तिकानां ग्रामो परो वा भवे चोरा वा पतिता भवेंसुः । यथा  
+नागच्छन्तीति । (इइ।प्।९) एकेन भिक्षुणा विहारं उक्कसियाणं  
+निव्या(ध्या)(प)यन्तेन आसितव्यं । किं ग्रामान्तिका (ज्।१४५) आगच्छन्ति । न  
+हि त्ति । यदि ताव आगच्छन्ति तेषां पि (३२अ१) तण्डुला प्रक्षिपितव्या । अथ  
+दानि नागच्छन्ति । देशकाले गण्डिं आहनिय चेतियं वन्दिय भुञ्जितव्यं  
+ग्रामान्तिका(नाम्) थाली-य्-ओतारिय था(ली) तोयलिप्तां करिय थपितव्याः ।  
+एषो दानि कोचि आरण्यकानां भक्तेनोपनिमन्त्रयति वक्तव्यं ।  
+ग्रामान्तिकानाम् अपि निमन्त्रेहीति । अथ दानि आहंसुः । नास्ति मम  
+तंहिं श्रद्धा नास्ति प्रसादो वक्तव्यं वयं पि न प्रतिच्छामो न्ति(त्ति) ।  
+अथ दानि (३२अ२) ग्रामान्तिकानाम् अपि निमन्त्रेति भक्तं सज्जयितव्यं ।  
+आसनप्रज्ञप्तिः कर्त्तव्या । पानीयं परिश्रावयितव्यं । पुष्पं  
+सज्जयितव्यं । गन्धो सज्जयितव्यो । यदि ताव ग्रामान्तिका नागच्छन्ति ।  
+दानपतिर् आगतो भवति । आह । भन्ते । आहणथ गण्डिं अनुकाल्यो व ताव  
+अद्यापि भवति । वक्तव्यं । प्रागो ताव अद्यापि ग्रामान्तिका च भिक्षवो  
+नागच्छन्ति । अथ दानि आह । आहणथ (३२अ३) तुम्हे ग्रामान्तिका पि  
+एष्यन्तीति । किं कर्त्तव्यं । गण्डी ताव विस्तरेण आह।नियाणं वे(चे)तियो  
+विस्तरेण वन्दितव्यो । वे(चे)ति(यम्) विस्तरेण वन्दियाणं यदि ताव  
+ग्रामान्तिका आगता भवन्ति भुञ्जितव्यं । अथ दानि ग्रामान्तिका  
+नागच्छन्ति । आसनानि (ज्।१४६) वञ्जाय(र्जयं)तेहि उपविशितव्यं ।  
+परिथप(वेष)केन वक्तव्यं । को ग्रामान्तिकानां भिक्षूणां  
+लाभग्राही यदि ताव आ(३२अ४)हंसु । अहं पि अहं पि त्ति वक्तव्यं ।  
+ग्रामान्तिकानां भिक्षूणां पिण्डपातं परिगृह्नथ न्ति(त्ति) । अथ दानि  
+तेषां न कोचि लाभग्राहको भवति । परिवेषकेन सर्व्वेषां एकस्थाने  
+पिण्डपातं उक्कड्ढियाणां साङ्घिकायं कल्पियकुटीयं (इइ।प्।१०)  
+थपितव्यो । यदि ताव काले आगच्छन्ति भुञ्जनाये दातव्यं । अथ दानि  
+विकाले आगता भवन्ति । न वा आगच्छन्ति । अपरेज्जु(३२अ५)कातो  
+श्रामणेराणां वा आरामिकानाम् वा दातव्यो नापि दानि क्षमति  
+ग्रामान्तिकेहि यत्रोल्लग्नाये आसितुम्, ॥ अथ खलु कालेन कालं आरण्यकं  
+शेय्यासनं उक्कसितव्यं पादां प्रक्षालिय हस्तां निर्म्मादिय स्तूपं  
+विस्तरेण वन्दितव्यं । यदि ताव अनुकाल्यो भवति । आरामेहि वृक्षमूलेहि  
+चङ्क्रमेहि निषद्याहि स्थानचङ्क्रमनिषद्यानु(३२अ६)योगम् अनुयुक्तेहि  
+वीतिनामयितव्या । उद्देशप्रयुक्तेहि वा मनसिकारप्रयुक्तेहि वा अथ  
+दानि देशकालो भवति विहारं प्रविशियाणां आरण्यकां भिक्षूं  
+प्रतिसम्मोदियाणं स्वकस्वकेहि आसनेहि उपविशितव्यं । गण्डीयं  
+आहतायं स्तूपं वन्दियाणं भुञ्जियाणं गन्तव्यं । नापि दानि  
+ग्रामान्तिकेहि आरण्यका कुत्सेतव्या । पंसेतव्या । (ज्।१४७) शून्यागारमाता  
+यूयं प्रज्ञा(३२अ७)वैतक्षि(ंस्कि)या शृगाला पि आरण्ये वसन्ति दिवसं यूयं  
+वर्षाणि पिण्डेन्ता आसथ । अथ खलु वक्तव्या दुरावासकानि आरण्यकानि  
+शेय्यासनानि प्राप्तानि विविक्तानि विगतजनपदानि मनुष्यरहशय्यकानि  
+प्रतिसंलयनसारोप्यानि दुष्करं प्रति(वि)वेकेन दुरभिरमं एकं परं  
+रात्रि विनयमानो मानसं आध्यात्मं वेति । आयुष्मन शोभनं क्रियति  
+आरण्यकं शेय्या(३२ब्१)सनं केलापीयति । उक्तं चेदं भगवता  
+यावकीयं च भिक्षवो आरण्यकानि शेय्यासनानि अध्यावसिष्यथ । ताव  
+वृद्धी येव प्रतिकाङ्क्षितव्या । कुशलेहि धर्म्मेहि नो परिहाणि न च वो  
+मारः । पापीयां अवतारम् अधिगमिष्यति । सद्धर्म्मस्य  
+अन्तर्द्धानाय स(ं)मोहाय न्ति(त्ति) । एवं संरावि(धि)य गन्तव्यं । एवं  
+आरण्यकेहि प्रतिपद्यितव्यं । न प्रतिपद्यति (इइ।प्।११) । आभिसमाचारिकान्  
+धर्म्मान् अतिक्रा(३२ब्२)मति ॥ * ॥  
+    
+     व्।३-४ म्स्। ३२ब्२ (ज्।१४७।१३); छ्। ५०८ब्२२  
+     भगवान् श्रावस्त्याम् विहरति । तेन दानि कालेन तेन समयेन  
+आयुष्मन्तो नन्दनोपनन्दना पानीयं प्रतिजागरन्ति । ते दानि भिक्षू  
+ततो य्येव मुखं ततो य्येव हस्तां निर्म्मादियन्ति । पात्रपरिश्रावणानि  
+धोवन्ति । ते दानि कल्यतो येव नन्दनोपनन्दना उत्थियाण हस्तां  
+निर्म्मादिय पानीयं परिश्राविय (ज्।१४८) पानीयमण्डपं परिघट्टिय  
+तायितमुद्रितं करिय गोचरं (३२ब्३) प्रविष्टाः । आगन्तुका भिक्षू  
+आगताः । पानीयं मार्ग्गेन्ति । न लभन्ति । ते दानि ओध्यायन्ति किन् दानि  
+अयं पानीयमण्डपो तायितमुद्रितो थपितो एतं प्रकरणं भिक्षूहि  
+श्रुतं । भिक्षू भगवतो आरोचयेंसु । भगवान् आह । शब्दापयथ  
+नन्दनोपनन्दनां । ते दानि शब्दापिताः । भगवान् आह । सत्यं  
+भिक्षवो नन्द्(अन्)ओपनन्दना ॥ पे ॥ याव आगन्तुका(३२ब्४)नां भिक्षूणां  
+गणो आगतो पानीयं मार्ग्गन्ति । न लभन्ति । ते दानि ओध्यायन्ति किन् दानि  
+अयं पानीयमण्डपो तायितमुद्रितो करिय थपितो आहंसुः । आम  
+भगवन्  
+     भगवान् आह । तेन हि एवं पानीये प्रतिपद्यितव्यं । एवं  
+पादधोवनीये प्रतिपद्यितव्यं । किन् ति दानि एवं पानीये  
+प्रतिपद्यितव्यं । एवं पादधोवनीये प्रतिपद्यितव्यं । नायं क्षमति  
+(३२ब्५) पानीयं परिश्राविय पानीयमण्डपं घट्टिय तापि(यि)य मुद्रितं  
+करिय अन्येन गन्तुं । अथ खलु पानीयवारिको ताव उद्दिशितव्यो ।  
+नवकान्ते पटिप(पा)टिकाय वा यस्य वा प्रापुणति । एको वा द्वयो वा  
+त्रयो वा यत्तका वा अभिसम्भुणन्ति । तेहि कल्यत एव उत्थिय हस्तां  
+निर्म्मादिय (इइ।प्।१२) पानीयं परिश्राविय गोलका वा मणिका वा उष्ट्(र्)इका  
+(३२ब्६) वा थगनका वा आरञ्जरा वा घट्टा वा करकीयो वा अप्पिहाणा  
+कर्त्तव्या । शील(शिला)मया वा मृत्तिकामया वा काष्ठमया वा अच्छेहि  
+वा चेलष(प)ट्टेहि वा बन्धितव्या । यो सुभाविता करिय थपेतव्या ।  
+यथा पानीयं चौक्षं भवेय । न दानि (ज्।१४९) कुक्कुटपाशकेन  
+बन्धित्वा स्थापेतव्यं । तेहि भाजनेहि प्रक्षिपितव्या पाटलागुलिका वा  
+चम्पकगुलिका वा शर्करा वा सर्व्वङ् क(३२ब्७)र्त्तव्यं । यथा सुगन्धा  
+भवेंसु । ततो यदि ताव अन्यं पिबनाये पानीयं भवति । अन्यं  
+पादधोवनीयं परिश्रावितव्यं । परिवोध(धोव)नीयेन पानीयेन  
+शिरिकुण्डिका पूरयितव्या । आकल्पियकर्क्करी पूरयितव्या । पादधोवनिका  
+पूरयितव्या । वर्च्चकुम्भिका पूरयितव्या । भिक्षूणां हस्तोदकस्य  
+पात्रोदकस्य पारिभोगिकस्य कुम्भिका च करका च पूरयितव्या ।  
+गो(३३अ१)गोत्रस्थाप(स्थपा)नीयं भवति । यथा पाटलिपुत्रे शोणपानीयं  
+राजगृहे तयोत(पोद)ं वाराणस्यां बुद्धविचीर्ण्णा नाम पुष्किरिणी  
+चम्पायां गङ्गापानीय(म्) श्रावस्त्यां पे(पो)तलेयं शाकेते  
+धरपानीयं । मथुरायां यमुना न क्षमति ततो पानीयातो  
+कल्पियकरकी वा अकल्पियकरकी वा वर्च्चकुम्भिका वा पूरयितुं ।  
+हस्तोदकपादोदकं वा पानीयं दातुं । अथ खलु ततो पिबनाये (३३अ२)  
+दातव्यं । अथ दानि श्राद्धो भिक्षुर् भवति । ततो एव श्रीकुण्डिकां  
+पूरेति अनापत्तिः । भिक्षुस्य चक्षु दुःखन्ति वैद्यो आह । भन्ते (इइ।प्।१३)  
+गोत्रस्थेन पानीयेन अक्षिणि धोवाहि त्ति लभ्या दानि पात्रपूरं वा एषो  
+दानि (ज्।१५०) धोवनिकां वा रजनिकाम् वा करेति । तस्य उदकेन कार्यम्  
+भवति । पानीयधा(वा)रिकां याचति इच्छामि पानीयं दीयमानन् ति न  
+क्षमति । गोत्रस्थं उदकं दातुं । अथ (३३अ३) खलु पारिधोवनीयं  
+उदकं दातव्यं । भक्ताग्रेण पानीयं वा(चा)रेन्तेन हस्तां  
+सुनिर्म्मादितां कृत्वा भाजनं सुनिर्म्मादितं कृत्वा चौक्षं पानीयं  
+वा(चा)रेतव्यं । पानीयं गृह्नन्तेन घर्त्तितव्यं । यथा एकहस्तो  
+निरामिषो भवति । अथ दानि सहसाकारेण सामिषीकृतो भवति ।  
+प्रक्षालयित्वा य(प)त्रशाखाय वा पात्रं वा ओट्ठाचि(३३अ४)क्कणं  
+भवति निर्म्मादयित्वा पातव्यं । न दानि अतिबहु(म्) ओष्ठ  
+प्रक्षिपितव्या । केशा वा आलिहितुम् वा निडालम् वा । अथ खलु ओष्ठ  
+प्रमार्जित्वा अग्रोष्ठेहि या(पा)तव्यं । ततो य्येव स्तोकं वर्जयितव्यं ।  
+तेनैव अन्तेन प्रक्षालयन्तेन उज्झितव्यं । पानीयं वा(चा)रेन्तेन  
+उपलक्षयितव्यं । यदि कोचि अतिबहुं ओष्ठं वा वोलयति केशा वा  
+आलयं(३३अ५)ति निलाटे वा अपनेतव्यं तं भाजनं एकान्ते स्थपित्वा तृणं  
+वा कुलिकं वा उपरि दातव्या । अभिज्ञानं । यथाज्ञाये अकल्पियन् ति । पुनो  
+वा निर्म्मादयितव्यं । पश्चाद्भक्तं पानीयं चारेन्तेन हस्तां  
+सुनिर्म्मादिता करिय ॥ पे ॥ याव एकिना हस्तेन पानीयं परिगृह्नितव्यं ।  
+अपरेण पानीयघटिकां पटिच्छन्तेन चीवर(रा)न्तरिकाय वा  
+पात्रान्तरिकाये (३३अ६) वा गृह्नितव्यं । याव तेनैव अन्तरकेन  
+उज्झितव्यं । जेन्ताके चारेन्तेन ओष्ठा (इइ।प्।१४) पानीयचारिकाये पात्रं  
+बन्धितव्यं । पिबन्तेन ओष्ठा पत्रशाखाये निर्म्मादयित्वा  
+अग्रोष्ठकेहि पातव्यं ॥ पे ॥ तं य्येव (ज्।१५१) कर्त्तव्यं प्रहाणे  
+चारेन्तेन यदि भूम्यास्तरो भवति भाजनानि पत्रशाखाहि  
+स्थपितव्यानि । ओम्हाय वा वालिकाय वा भाजनेहि वा थपितव्यं । यदि  
+अष्ट(३३अ७)भाग चतुर्भागं च निषण्णका भवन्ति । एकेन  
+मध्यमवा(चा)रके स्थितकेन वा(चा)रेतव्यं । अपरेण प्रणेतव्यं । अथ  
+दानि पटिपाटिकाये दूरे दूरं प्रहाणस्य उपविष्टा भवन्ति । एकेन  
+चारेतव्यं ॥ पे ॥ लभ्या दानि पारिधोवनिकातो मुखं वा धोवितुं ।  
+हस्तं वा निर्म्मादयितुम्, । पात्रपरिश्रावणं वा धोवितुं । न दानि  
+क्षमति । झल्लझल्लाये उज्झितुं । मात्राये (३३ब्१) उपनामेतव्यं । न दानि  
+क्षमति । पारिधोवनियातो स्नापि(यि)तुं वा चीवरम् वा धोवितुं । रञ्जनं  
+वा कढितुं । अथ दानि भिक्षू चीवरकर्म्म करोन्ति । उदकञ् च आविलं  
+भवति । भाजनं च अतिरिक्तं ति ले(। ल)भ्या दानि पापिचकधर्म्मीय  
+याचितुं । आह । आयुष्मन् देहि भूयो आनीय दास्यामि त्ति । किञ् चापि देति  
+अनापत्तिः । तं पि दानि । गृह्निय आनीय कालेन कालं दातव्यं । अथ  
+दा(३३ब्२)नि आसन्नोदको सङ्घारामो भवति । किञ् चापि ततो येव पिबति ततो  
+येव पारिधोवनीयं करोति । ततो येव हस्तां धोवति रङ्गम् वा करोति ।  
+(ज्।१५२) अनापत्तिः । एवं पानीये प्रतिपद्यितव्यं । न प्रतिपद्यति ।  
+आभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     व्। ५-६ म्स्। ३३ब्२ (ज्।१५२।३); छ्। ५०७च्२१  
+     भगवान् श्रावस्त्याम् विहरति । ते दानि आयुष्मन्तो (इइ।प्।१५)  
+नन्दनोपनन्दना षड्वर्ग्गिका च पादधोंवनिकायां झ(३३ब्३)ल्लझल्लां  
+पादां धोवियाणं सर्व्वं उदकं स्था(च्छो)रिय पादधोवनिकां  
+ओमुद्धिकां करिय आ(र्)द्रपादकं उपनाहाहि प्रक्षिपिय नैव  
+कर्द्दमं परिहरन्ति न पांसु कर्द्दमं मर्द्दन्ता पांसु मर्द्देन्ता  
+दीर्घचङ्क्रमं चङ्क्रमन्ति । भिक्षु आगच्छन्ति पादधोवनाय । ते  
+दानि आहंसुः । मात्राये यूयम् आयुष्मन्तो पादां धोवथ । उदके पि  
+खलु [मात्र्]आ (३३ब्४) उक्ता भगवता तथैव सर्व्वेहि बाहिरकेहि  
+जीवितपरिष्कारेहि ते दानि भिक्षु पश्यन्ति । तां पादधोवनिकां ऋक्तां ते  
+दानि ओध्यायन्ति । किं दानि अयं पादधोवनिका ओमुद्धिकृता एतं  
+प्रकरणं भिक्षू भगवतो आरोचयेंसुः । भगवान् आह ।  
+शब्दापयथ । नन्दनोपनन्दनां षड्वर्ग्गिकां च । ते दानि शब्दापिता ।  
+भगवान् आह । सत्यं भिक्ष(३३ब्५)वो नन्दनोपनन्दना षड्वर्ग्गिका च  
+एवं नाम एवं नाम यूयं पादधोवनिकायां गच्छिय झल्लझल्लाये  
+पादां धोविय उदकं च्छोरिय पादधोवनिकां ओमुद्धिकां करिय  
+आर्द्रपादां उपानहासु प्रक्षिपिय नैव पांसु परिहरथ न कर्द्दमं  
+कर्द्दमं मर्द्दन्ता पांसु मर्द्दन्ता दीर्घचङ्क्रमं चङ्क्रमथ  
+भिक्षू आगच्छन्ति । पादधोवनिकाये पादां धो (३३ब्६)वनाये यूयं  
+जल्पथ मात्राये आयुष्मन्तो पादां धोवथ उदके पि खलु भगवता  
+(ज्।१५३) मात्रा उक्ता । तथैव सर्व्वेहि जीवितपरिष्कारेहि ते दानि भिक्षु  
+पश्यन्ति पादधोवनिकां ओमुद्धिकां कृतां आहंसु । आम भगवन्   
+     भगवान् आह । दुष्कृतं वो नन्दनो नन्दनोपनन्दना षड्वर्ग्गिका  
+च । तेन हि एवं पादा धोवितव्या । एवं (इइ।प्।१६) धोवितपादेहि  
+प्रतिपद्यितव्यं किन् ति (३३ब्७) दानि । एवं पादा धोवितव्या । किन् ति दानि  
+धोवितपादेहि प्रतिपद्यितव्यं । भगवान् दानि भिक्षून् आमन्त्रयति ।  
+एवं भिक्षवो पादां धोवथ । यथा शारिपुत्रो स्थविरो   
+     एकम् इदं भिक्षवो समयं शारिपुत्रो स्थविरो वैशाल्याम् विहरति ।  
+महावने कूटागारशालायां स्थविरो दानि कालस्यैव निवासयित्वा  
+पात्रचीवरम् आदाय वैशालीन् नगरीं पिण्डाय प्रविष्टो  
+प्रासा(३४अ१)दिकेन अतिक्रान्तेन प्रतिक्रान्तेन आलोकितविलोकितेन  
+सन्मिञ्जितप्रसारितेन सङ्घाटीपात्रचीवरधारणेन अन्तर्ग्गतेहि  
+इन्द्रियेहि अबहिर्ग्गतेन मनसेन स्थितेन धर्म्मतावस्थप्राप्तेन स्मृतो  
+सम्प्रजानो मार्गो विय कारितकारणो वेशालीं नगरीं पिण्डाय चरति ।  
+स्थविरो दानि अपरेण ब्राह्मणेन दृष्टो तस्य ब्राह्मणस्य भवति । इमे  
+इति (३४अ२) कितिकाय पुत्राः । श्रमणकाः ग्रामान्ते इर्यापथं पठयन्ति  
+निर्द्धाविता च भवन्ति विकोपेन्ति । सो दानि प्रदुष्टचित्तो स्थविरस्य  
+पृष्ठिमेन पृष्ठिमं अनुबद्धो यत्र येव अयं श्रमणको ईर्यापथं  
+विकोपयिष्यति । तत्रैव शे (शीर्षे) खटकं दास्यामि । स्थविरो दानि  
+ग्रामारण्यसमेन (ज्।१५४) ईर्यापथेन समन्वागतो वैशालीं पिण्डाय  
+चरित्वा निर्द्धावितो विहारं आगतो स्थवि(३४अ३)रो दानि विहारकेस्मिन् पात्रं  
+निक्षिपिय हस्तां प्रक्षालिय सङ्घाटीं प्रस्फोटिय साहरिय अभ्यन्तरेण  
+द्विगुणिकां करिय चीवरवंशे स्थपयित्वा पानीयस्य दकानकं पूरीय  
+पीठका प्रज्ञापिय पादतद्ध(ट्ठ)कं उपनामयित्वा उपानहिकायो  
+उपनामिय (इइ।प्।१७) उपानहायो( पो)च्छन्नो उपनामिय पादां धोवति ।  
+स्थविरो दानि दक्षिणेन हस्तेन उदकं आ(३४अ४)सिञ्चति । वामेन हस्तेन  
+पादां धोवति । स्थविरेण दानि वामा जङ्घा धोविता दक्षिणा जङ्घा  
+धोविता वामो पादो धोवितो दक्षिणो पादो धोवितो  
+उपानहायो(पो)च्छतु(न्न)कं गृह्निय उपानहा सम्पुटं करिय एकस्य  
+उपानहो(हा)वद्ध्रो यो(पो)च्छितो द्वितीयस्य उपानहावद्ध्रो पोच्छितो  
+एकस्य उपानहातलं यो(पो)च्छितं द्वितीयस्य उपानहा(३४अ५) तलं  
+पोच्छितं । उपानहिकायो निक्षिपिय दकानकातो वामाये कलाचीये उदकं  
+आवर्जयित्वा दक्षिणेन हस्तेन उपानहायो(पो)च्छनकं धोविय  
+निष्पीडित्वा आतपे शोषयेतं कलाचीय उदकं आवर्जिय हस्ता धोता हस्तां  
+(ज्।१५५) धोविय दकानकं धोविय पानीयावशेषं च्छोरिय आतपे शोषितं  
+सो दानि ब्राह्मणो [त]स्य (३४अ६) आचारगोचरं पश्यिय तुष्टो सो दानि  
+प्रसन्नचित्तो आह । यथापि इमं भवता शारिपुत्रेण दकानकं ।  
+उपचीर्ण्णं यो पि सो ब्राह्मणानां उष्णोदककरको सो पि न एवं शुची  
+लभ्या खलु इतो पानीयं पातुं । स्थविरेण दानि तस्य ब्राह्मणस्य  
+प्रसन्नचित्तस्य चत्वार्य् आर्यसत्यानि प्रदर्शितानि दुःखम् आर्यसत्यं  
+दुःखसमुदयम् आर्यसत्यं दुःखनि(३४अ७)रोधम् आर्यसत्यं  
+दुःखनिरोधगामिनी प्रतिपदम् आर्यसत्यं । तेन दानि ब्राह्मणेन  
+तत्रैव स्थाने स्थितेन श्रोतापत्तिफलं साक्षात्कृतं भिक्षू दानि  
+भगवन्तम् आहंसु । यस्य भगवान् कथम् अयं ब्राह्मण  
+स्थविरस्याचारगोचरेण तुष्टो भगवान् आह । न एतर्हि एवम् अन्यदापि  
+एषो एतस्य आचारगोचरेण तुष्टो न्यदापि भगवन् अन्यदापि (३४ब्१)  
+भिक्षवो भूतपूर्व्वम् भिक्षवो अतीतम् अध्वानं एतहिं च नगरं  
+(इइ।प्।१८) वाराणसी काशिजनपदो । तत्र दानि अग्रकुलिको आढ्यो महाधनो  
+महाभोगो प्रभूतधनधान्यकोशकोष्ठागारो  
+प्रभूतजातरूपरजतवित्तोपकरणो प्रभूतहस्त्यश्व-अजगवेडको  
+प्रभूतदासीदास(ज्।१५६)कर्म्मकरपौरुषेयो । तस्य दानि एको पुत्रो  
+अचिरजातो सो (३४ब्२) दानि मातापितृभिर् उन्नीयति वर्द्धीयति । यं कालं  
+सप्तवर्षो ष्टवर्षो वा सो दानि मातापितॄणां पूर्व्वोत्थायी  
+पश्चान्निपाती प्रियवादी मन-अपवादी । किङ्करपरिश्रावको तस्य दानि  
+श्रेष्ठिकस्य कुलपुत्रका गृहं ओचरन्ति । तस्य गृह(म्) गुप्तञ् च  
+सुरक्षितञ् च न पारेन्ति ओतारं विन्दनाय । कदाचि दानि सो श्रेष्ठि  
+अपरेहिं ज्ञातिसाले निमन्त्रितको गतो व(३४ब्३)र्षारात्रिकं तं दार(क)ं  
+रक्षपालं थपियाणं पुत्र द्वारं घट्टियाणं रक्षमाणो आसेसि । सो  
+दानि दारको श्रेष्ठिना सपरिवारेण गतेन गृहस्य द्वारं घट्टियाणं  
+रक्षमाणो आसति तेहि दानि कुलपुत्रकेहि ओतारो लब्धो । ते दानि तं गृहं  
+ओक्खन्दियाणं प्रविष्टा ते दानि उल्कायो च दीपिकायो च प्रज्वालियाणं  
+मार्ग्गन्ति । सो एको दा(३४ब्४)रको दृष्टो ते दानि पृच्छन्ति । दारक कहिं  
+तुम्हाणं हिरण्यं वा सुवर्ण्णं वा । सो दान् आह । अहं पि न जानामि ।  
+एतं गृहं शून्यकं मार्ग्गिय मार्ग्गिय यं लभथ तं गृह्नथ तेहि  
+दानि मार्ग्गिय मार्ग्गिय प्रभूतं हिरण्यसुवर्ण्णं गृहस्य  
+मध्यमागारे महान्तं कूटं कृतं यो तेषां चोरसेनापतिः । सो  
+गृहस्य (ज्।१५७) मध्यागारे उपविष्टः । सो दान(नि) चो(३४ब्५)रसेनापतिः  
+पिपासितः । तस्य दारकस्याह । हङ्घो दारक पिपासितो स्मि । इच्छामि  
+पानीयं पातुं सो दानि दारको चौक्षसमुदाचारो भाजनं गृह्निय  
+परिमार्जिय हस्तां सुधा(धो)तां कृत्वा भाजनं सुधोतं कृत्वा  
+उदकस्य पूरिय (इइ।प्।१९) यत्र दीपा दीप्यन्ति तत्र अल्लीनो सो दानि  
+सुप्रत्यवेक्षितं करिय चोरसेनापतिस्य अल्लीनो सेना(३४ब्६)पति पिबाहि त्ति  
+तेनापि दानि चोरसेनापतिना तस्य दारकस्य पानीयं देन्तस्य सर्व्वम्  
+उपलक्षितं । सो दानि पृच्छति हङ्घो दारक कस्य कृतेन त्वं अत्र  
+दीपमूलं अल्लीनोसि सो दानि आह । सेनापति पानीयं प्रत्यवेक्षितुम्, । मा  
+अत्र पानीयस्मिं तृणो वा भवे प्राणको वा तेन सेनापतिस्य अफासु  
+भवेय । सो दानि सेनापति तस्य आचारगोचरेण तुष्टो (३४ब्७) तस्य भवति  
+सेनापतिस्य मा ताव मा ताव अस्माकं ताव एषो वधकानां  
+प्रत्यर्थिकानां प्रत्यमित्राणां अर्थकामो हितकामो को पुनर्व्वादो यो  
+एतस्य मातापिता वा ज्ञातिका वा तेहि एषो कथं अमैत्रचित्तो भविष्यति यदि  
+वयम् इमस्य दारकस्य एवं धर्म्मिष्ठस्य इमं हिरण्यसुवर्ण्णं  
+हराम प्रतिचोरेहि पि मुष्येम ग्रहणं पि गच्छेम । राजकुले पि  
+वध्येम । सो दानि (३५अ१) चोरसेनापति पानीयं पिबिय तां सर्व्वां चोरां  
+शब्दापिय पृच्छति । को भणे को अहं युष्माकं ते दानि आहंसु ।  
+सेनापति आह । भवन्तो अहं इमस्य दारकस्य एवं च एवं च  
+आचारगोचरेण तुष्टो यदि वयं एतस्य धर्म्मिष्टस्य एतं हिरण्यं (ज्।१५८)  
+सुवर्ण्णं हरेम प्रतिचोरेहि वा वयं मुष्येम ग्रहणं पि गच्छेम ।  
+राजकुले पि वध्येम । यदि युष्माकं अनुकूलं (३५अ२) भवे मुञ्चेम  
+वयं एतं एतस्य हिरण्यसुवर्ण्णं अन्यं वयं चोरयिष्यामः । ते दानि  
+आहंसुः । यथा सेनापतिकस्य रुच्यति । सो दानि दारकस्याह । हङ्घो  
+दारका इमं वयं तव सर्व्वं हिरण्यं सुवर्ण्णं देमि ते दानि चोरा  
+निर्द्धापिताः । तेन दारकेन द्वाराणि सर्व्वाणि घटितानि देवता गाथां  
+भाषते ।  
+     (इइ।प्।२०) आचारगुणसम्पन्नाः । ये भवन्ति तु मानवाः ।   
+     (३५अ३) लभन्ति विपुलां अर्थां यथा पानीयदायकः ।  
+     आचारं शिक्षितं श्रेयो अनाचारं न शिक्षितं ।  
+     चोरेहि गृहीतो सन्तो मुक्तो आचारकारणात् ॥  
+     घात्या भवन्त्य् अघात्याचारं शिक्षियाणं विनयं च   
+     स्थानेषु च ऐश्वर्यं लभन्ति आचारगुणयुक्ताः ॥  
+     वध्या भवन्त्य् अवध्या आचारं शिक्षियाणं विनयं च ।  
+     तस्मान् नरेण सततं आचारगुणेन भवि(३५अ४)तव्यं ।  
+     रौद्रा लोहितपाणी चौरा तुष्यन्ति ताडृशा सन्ता ।  
+     आचारेण अनार्या आर्या जातावक्रान्ताः ॥  
+     (ज्।१५९) भगवान् एतस्मिन् वस्तुनि धर्म्मपदं भाषते ।   
+     न ब्राह्मणस्य प्रहरेय नास्य मुञ्चेय ब्राह्मणो ।   
+     धिग् ब्राह्मणस्य हन्तारं तं पि धिक् यो स्य मुञ्चति ॥  
+     भगवान् आह । स्याद् वो भिक्षवो एवम् अस्यादन्यो सौ तेन कालेन तेन  
+समयेन ++(३५अ५) भवति अग्रकुलिकस्य पुत्रो नैतद् एवं द्रष्टव्यं ।  
+एषो शारिपुत्रो स्थविरो अन्यो सो चोरसेनापति एषो ब्राह्मणो तदापि एतस्य  
+एषो आचारगोचरेण तुष्टो एतर्हि पि एषो स्थविरस्य आचारगोचरेण तुष्टो ।  
+एषो दानि भिक्षु यदा ग्रामातो निर्ग्गतो भवति । ततो ग्रामप्रवेशिकं  
+चीवरं प्रस्फोटित्वा अत्यन्तपरि(३५अ६)कर्म्मं साहरित्वा स्थपेतव्यं ।  
+आरामचरणकं प्रावरित्वा आसनं प्रज्ञपेतव्यं पादोपवा(धा)नकं  
+उदकदानं पि च उष्ठपयित्वा चेलखण्डेन रजो प्रस्फोटितव्यो  
+दकानकं कलाचीयं अ(आ)वर्जेत्वा चोलकं धोवित्वा निष्पिडित्वा उपानहा  
+(इइ।प्।२१) निर्म्मादयितव्या ॥ पे ॥ याव चोलकं निष्पिडित्वा थपेतव्यो । मा  
+प्राणका जायेंसु (ज्।१६०) नीलिकाय वा भवेंसु । भिक्षुणापि ताव (३५अ७)  
+पादां धोवन्तेन दक्षिण(णेन) हस्तेन उदकं आसिञ्चितव्यं । वामेन  
+हस्तेन पादां धोवितव्या वामा ताव जङ्घा धोवितव्या दक्षिणा ताव  
+जङ्घा धोवितव्या । वामो पादो धोवयितव्यो दक्षिणो पादो धोवयितव्यो ।  
+उपानहायो प्रस्फोटित्वा सम्पुटीकृत्वा एकस्योपानहाये वद्ध्रो  
+पोच्छितव्यो अपरस्य वद्ध्रो पोच्छितव्यो । एकस्य उपानहाये तलं (३५ब्१)  
+पोच्छितव्यं । द्वितीयस्य उपानहाये तलं पोच्छितव्यं कुण्डिकातो वा  
+करकतो वा कलाचीये उदकं आवर्जिय उपानहापोच्छनकं धोवितव्यं ।  
+पीडिय आतपे शोषयितव्यं । कलाचीये उदकं आवर्जिय हस्ता धोवितव्या न  
+क्षमति उपानहाहि आर्द्रपादेन प्रवेशयितुं अथ खलु यं कालं  
+अध्वाता भवन्ति । ततो प्रवेशयितव्यो । अथ खलु दानि (३५ब्२)  
+सर्व्वसङ्घस्य पादधोवनिका भवति । न क्षमति भिक्षुणा  
+झल्लझल्लाये पादां धोवितुं उदकं च्छोरयि(रिय) ओमुद्धिकां  
+पादधोवनिकां कर्त्तुं । अथ खलु अच्छटिकां करेन्तेन  
+पादधोवनिकायां प्रविशितव्यं । यदि ताव कोचि भिक्षुः पूर्व्वप्रविष्टो  
+भवति । आगमितव्यं । याव तेहि । धोविता पादा न्ति(त्ति) अथ दानि  
+खणुइ(खाणु)कापादधोवनिका भवति । त्रीणि वाचायो  
+जल्पयित(३५ब्३)व्यो(व्या)।यो को वृद्धतरको वृद्धो(द्धे) न्ति(त्ति) । यदि ताव  
+कोचि वृद्धतरको भवति । अन्तरं दातव्यं । यं कालं तेन पादा  
+धोविता भवति । उपविशितव्यं । अथ दानि कोचि वृद्धतरको न भवति ।  
+एवं पि उपविशितव्यं । ततो यदि ताव दक्षिणान्ते पादधोवनिका (ज्।१६१)  
+भवन्ति । दक्षिणेन (इइ।प्।२२) अन्ते(हस्ते)न उदकं आसिञ्चितव्यं । वामेन  
+हस्तेन पादा धोवितव्या । (३५ब्४) वामा ताव जङ्घा धोवितव्या ।  
+दक्षिणेन(णा) जङ्घा धोवितव्या । वामो पादो धोवितव्यो । दक्षिणो पादो  
+धोवितव्यो । अथ दानि वामान्ते पादधोवनिका भवति । वामेन हस्तेन  
+उदकं आसिञ्चितव्यं । दक्षिणेन हस्तेन पादा धोवितव्या । नापि दानि  
+क्षमति तेनैव हस्तेन उदकं आसिञ्चितुं । अथ दानि द्वे जना भवन्ति ।  
+एकेन आ(३५ब्५)सिञ्चितव्यं । एकेन धोवितव्यं । दक्षिणा ताव जङ्घा  
+धोवितव्या । वामा जङ्घा धोवितव्या । दक्षिणो पादो धोवितव्यो । वामो  
+पादो धोवितव्यो उपानहायो सङ्घा(पु)टीकरिय एकस्य उपानहाये वध्रो  
+पोच्छितव्यो । द्वितीयस्य वध्रको पोच्छितव्यो । एकस्य उपानहाये तलं  
+पोच्छितव्यं । द्वितीयस्य उपानहाये तलं पोच्छित(३५ब्६)व्यं । यदि तहिं  
+कोचि भिक्षु भवति नवतरको सो वक्तव्यो उदकं आसिञ्चिहि न्ति(त्ति) ।  
+उपानहापोच्छन्नो धोविय पीडिय तत्रैव स्थपितव्यं । हस्तान्  
+निर्म्मादियाणं अथा(ध्वा)तायां उपानहायां प्रक्षिपितव्यं । नापि  
+क्षमति । पादधोवनिकायां ओगुण्ठितशीर्षेण ओहितहस्तेन वा ।  
+पादधोवनिकाया उपविशितुं । अथ खलु एकांसी(ज्।१६२)कृतेन  
+उपविशितव्यं । नापि दानि (३५ब्७) क्षमति पादधोवनिकायां  
+उद्देशप्रयुक्तेन वा मनसिकारप्रयुक्तेन वा मिद्धान्तरगतेन वा  
+निरोधसमापत्तिं चिन्तन्तेन आसितुं । अथ खलु पादेहि धोवितेहि उत्थिय  
+गन्तव्यं । धूली परिवर्जन्तेन गन्तव्यं । नापि दानि क्षमति पादेहि  
+धोवितेहि दीर्घचङ्क्रमं चङ्क्रमितुं । अथ दानि भिक्षुः स्वाध्यायं  
+करोति । पादेहि धोवितेहि चङ्क्रमन्ति भूयो धो(३६अ१)वितव्या । अथ दानि  
+हेमन्तकालो भवति भिक्षुः पश्यति को भूयो धोविष्यतीति । अन्तमसतो  
+लेङ्कटखण्डेन (इइ।प्।२३) वामहस्तेन वा आमर्जिय प्रविशितव्यं । एवं  
+पादा धोवितव्या । एवं धोवितपादेहि प्रतिपद्यितव्यं । न प्रतिपद्यति ।  
+आभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     व्। ७-८ म्स्। ३६अ१ (ज्।१६२।११); छ्। ५०८च्२४  
+     भगवान् राजगृहे विहरति । विस्तरेण निदानं कृत्वा जीवको  
+कौमारभृत्यो भ(३६अ२)गवन्तं याचति । अनुजानातु भगवान्  
+श्रावकानां जेन्ताकं वातपित्तश्लेष्मकानां पय(फा)सु भविष्यति ।  
+भगवान् आह । तेन हि अनुजानामि । एषा एवार्थोत्पत्तिः ॥ * ॥  
+     भगवान् श्रावस्त्यां विहरति । सङ्घस्य दानि जेन्ताको ते दानि  
+आयुष्मन्तो षड्वर्ग्गिकाः । प्रतिकृत्येव गच्छिय जेन्ताकं प्रज्वालीय  
+द्वारं घट्टिय स्वेदत्ता आसन्ति । आगता भिक्षू द्वारं याव(च)न्ति (३६अ३)  
+आयुष्मन्तो देथ द्वारं । ते दानि आहंसु । आगमेतुं(न्तु) । आयुष्मन्तो न  
+ताव (ज्।१६३) जेन्ताको तत्तो भवति । यं कालं भिक्षु सन्निपतिताः । तं  
+कालं सर्व्वं तैलं उपयोजिय सर्व्वं चूर्ण्णं उपयोजिय सर्व्वं उदकं  
+च्छोरिय सर्व्वम्, काष्ठं अग्नौ प्रक्षिपिय जेन्ताकं अपदुरिय  
+निर्द्धाविताः । आहंसुः । प्रविशन्तु आयष्मन्तो जेन्ताको तप्तो (३६अ४) ते  
+दानि भिक्षु शीतप्रष्टव्येन स्पृष्टाः । त्वरितत्वरितं प्रविष्टा ते दानि  
+यं कालं तेहि आयुष्मन्तेहि षड्वर्ग्गिकेहि द्वारं आघट्टिय  
+बाहिरवितण्डितं कृतं । ते दानि तैलं मार्ग्गन्ति न लभन्ति चूर्ण्णं  
+मार्ग्गन्ति न लभन्ति । उष्णेन च धूमेन च सन्तापिताः । उदकं न  
+लभन्ति । ते दानि द्वारं आगच्छन्ति । याव बाहिरवितण्डितं कृतं । ते  
+दानि आहंसुः । (३६अ५) आयुष्मन् षड्वर्ग्गिकाः । ओसरथ द्वारं (इइ।प्।२४)  
+धूमेन च उष्णेन च मराम । ते दानि हसन्ति च विलेक्षन्ति च । ते दानि  
+आहंसुः । स्वेदन्तु आयुष्मन्तो उत्पातगण्डपिटकानां  
+वातपित्तश्लेष्मिकानां फासु भविष्यति । ते दानि यं कालं धूमेन च  
+उष्णेन च सुष्ठु सन्तापिताः । तं वेलं जेन्ताकस्य द्वारं मुक्तं ते  
+दानि उष्णेन च सन्तापिताः । बाह्यतो पि (३६अ६) उदकं मार्ग्गन्ति न  
+लभन्ति ते दानि आहंसु स्तोकस्तोकं आयुष्मन मात्राये उपनेथ उदके पि  
+मात्रज्ञता उक्ता भगवता एतं प्रकरणं भिक्षू भगवतो  
+आरोचयेंसुः । भगवान् आह । शब्दापयथ षड्वर्ग्गिकां । ते दानि  
+शब्दापिताः । भगवान् आह । सत्यं भिक्षवो षड्वर्ग्गिकाः । एवन् नाम  
+सङ्घस्य जेन्ताको त्त(त्ति) । तद् एव सर्व्वं भगवान् वि(ज्।१६४)स्तरेण  
+प्रत्यारो(३६अ७)चयति । याव एते दानि भिक्षू उष्णेन च धूमेन च  
+सन्तापिता निर्द्धाविता बाह्यतो पि उदकं मार्ग्गयन्ति । न लभन्ति ।  
+यूयं दानि आहंसु स्तोकंस्तोकं आयुष्मन् मात्राये उपनेथ उदके पि  
+मात्रज्ञता उक्ता भगवता । आहंसु । आम भगवन् भगवान् आह ।  
+दुष्कृतं वो भिक्षवो षड्वर्ग्गिकाः । ना(अ)हं भिक्षवो षड्वर्ग्गिकाः ।  
+अनेकपर्यायेण मेत्रं कायकर्म्म वदामि (३६ब्१) सब्रह्मचारिषु  
+ध्रुवं प्रत्युपस्थापयितव्यं । आवि चैव रहो च मैत्रं वाचाकर्म्मं  
+मैत्रं मनोकर्म्मं सब्रह्मचारिषु ध्रुवं प्रत्युपस्थापयितव्यं ।  
+आवि चैव रहो च तत्र नाम यूयं इदम् एवंरूपं पापकर्म्मम्  
+अकुशलन् धर्म्मम् अध्याचरिष्यथ । तेन हि एवं स्नाने  
+प्रतिपद्यितव्यं । एवं जेन्ताके प्रतिपद्यितव्यं किन् ति दानि एवं स्नाने  
+प्रतिपद्यितव्यं । एवं (३६ब्२) जेन्ताके प्रतिपद्यितव्यं । जेन्ताकं करेन्तेन  
+वट्टितो वा कर्त्तव्यो चतुरस्रो वा विदिशं द्वारं कर्त्तव्यं ।  
+वातपानीयं वीथी कर्त्तव्या । अत्य(भ्य)न्तरे विशाला बाहिरतो (इइ।प्।२५)  
+सन्द्यि(क्षि)प्ता । एकाये वातधा(पा)नीये वीथीये द्वौविका भवति द्वितीया  
+कर्त्तव्या भूमि अस्तरितव्या उपलेहि वा पक्षिट्टिकाय वा  
+सुधामृत्तिकालेपो वा कर्त्तव्यो । उद्विद्धवीथी कर्त्तव्या । भ्(र्)अष्टिका  
+(३६ब्३; ज्।१६५) कर्त्तव्या । येन द्वाराहेष्ठतो विशालाहि उपरि सङ्क्षिप्ता  
+उद्वेधो निर्घु(मु)ष्टिका त्रयो हस्ता कर्त्तव्या विस्तारेण नि(र्)मुष्टिका वा  
+भूमितो अर्धहस्त-उपस्थ(स्थू)लतरिका कर्त्तव्या । उल्कभ्रमो  
+कर्त्तव्यो । येन भ्रष्टिका समन्तेन कर्त्तव्यं कपाटं कर्त्तव्यं । यदि  
+ताव भ्रष्टिका दक्षिणतो भवति । वामतो कपाटं कर्त्तव्यं । अथ वा  
+न(वा)मतो भ्रष्टि(३६ब्४)का भवति । दक्षिणतो कपाटं कर्त्तव्यं । न  
+दानि क्षमति । सूचिकबन्धिमं कर्त्तुम्, । घटिका बन्धिमं कर्त्तव्यं ।  
+नापि दानि क्षमति तदा कर्त्तव्यं । यथा सुखेन तप्यति । अथ खलु  
+तथा कर्त्तव्यं । यथा य(ये)व फलमात्रेण लग्ग बाहिरतो चीवरकुटी  
+कर्त्तव्या । नागदन्तकवीथी कर्त्तव्या यतायेतार्थायैव भवति  
+जेन्ताकवारिका वा आरामिका वा (३६ब्५) तेहि जेन्ताके सन्तानिका  
+शाटयितव्या । सिञ्चित्वा सम्मार्जयितव्यो । काष्ठं से(स)ज्जेतव्यं । भण्डा  
+सज्जयितव्या । घटा वा सज्जेतव्या । कुण्डा जेन्ताके पीठिका वा शुक्तिकायो  
+वा धोवितव्या । काष्ठं भ्रष्टिकायां आजुहि(ज्।१६६)तव्यं गण्डी  
+आकोटेतव्या । अग्निर् दातव्यो उदकं आहर्त्तव्यं । ते दानि अग्नि दत्वा  
+पश्चाद् गण्डी आकोटेतव्यो अग्निर् दातव्यो । (३६ब्६) उदकं आहर्त्तव्यं । न  
+दानि अग्निं दत्वा पश्चाद् गण्डी आकोटेतव्या । अथ खलु गण्डि आकोटेत्वा  
+अग्निर् दातव्यो । मा एवम् एव काष्ठं दह्येय जेन्ताकस्य गण्डी (इइ।प्।२६)  
+आकोटिताजे जानितव्या । किं एषो जेन्ताको सर्व्वसाङ्घिको पारिवेणिको  
+यथायो(पर्षाये ।) यदि ताव पर्या(र्षा)ये भवति । ये तहिं पर्या(र्षा)ये  
+तहिं गन्तव्यं । अथ दानि परिवेणिको भवति । ये तस्मिं परिवेणिका सन्ति  
+तेहि ग(३६ब्७)न्तव्यं । अथ दानि सर्व्वसाङ्घिको भवति तथा एवं  
+स्नायन्तेन चीवरकं साहरित्वा एकस्थाने स्थवितव्यं लोढिकेन वा  
+पटिकाय वा चीवरञ्च(वं)शे वा थपेतव्यो जेन्ताकपीठे वा प्रविशतेन  
+न दानि क्षमति । [ब्]आहा भ्रामयन्तेन प्रविशितुं । अथ खलु एकेन  
+हस्तेन अग्रतो प्रतिच्छादित्वा प्रवेष्टव्यं । एको निष्क्रामति । एको  
+प्रविशति । यो प्रविशति । तेनान्तरं दात(३७अ१)व्यं । न दानि आस(ज्।१६७)नानि  
+वा भाजनानि वा वृद्धतरकं वा भिक्षुं लङ्घयन्तेन गन्तव्यं ।  
+सम्प्रजाननेन गन्तव्यं । यदि दानि उपाध्यायो वा आचार्यो वा  
+प्रविष्टको भवति । न दानि बाहिरतो विक्रोशितव्यं । स्नायामि आचार्य  
+स्नायामि उपाध्याय न्ति(त्ति) अथ खलु चीवरकानि स्थापित्वा प्रविशित्वा  
+तस्य ताव परिकर्म्म कर्त्तव्यं । अथ दानि अन्यस्यापि कर्त्तुकामो  
+भवति । आपृच्छित्वा कर्त्त(३७अ२)व्यं । अथ दानि सो प्रकृत्येव भणितो  
+भवति । असुकस्य वा असुकस्य वा परिकर्म्म कुर्येसि त्ति । किञ् चापि  
+अनापृच्छित्वा करेति । अनापत्तिः । यदि ताव अग्नि बहलको भवति । नवकेहि  
+अग्रतो स्थातव्यं । अग्नि प्रतिवाहेन्तेहि । अथ दानि अग्निर् म्मन्दो भवति ।  
+वृद्धेहि अग्रतो स्थातव्यं । परिकर्म्म करेन्तेहि न दानि स्वेदेन वा  
+मलेन वा उस्फोषेतव्यो । उषान्तके(३७अ३)न स्नानेन वा प्रतिपन्नेन वा  
+(इइ।प्।२७) परिकर्म्म कर्त्तव्यं । अन्तेवासिकेहि वा सार्व्वे(र्द्धे)विहारिकेहि  
+वा परिकर्म्म करेन्तेन न दानि अपूर्व्वचरिमं उभयबाहा  
+प्रसारेतव्या । अथ खलु हस्तेन अग्रतो प्रतिच्छादयितव्यं । अपरेण  
+परिकर्म्म कारयितव्यं । अथ दानि भिक्षुः प्रहाणिको भवति । न दानि  
+क्षमति । तेहि अग्नि(म्) प्रजुहित्वा उदकं प्रविशिषित्वा (३७अ४) उदकतमं  
+बन्धित्वा द्वारं पिहित्वा शालं बन्धित्वा प्रहाणं आसितुम्, ।  
+प्रस्वेदन्तेहि न दानि क्षमति तैलेन शोषयितुं । अथ खलु मिनीय  
+दातव्यं । चषकेन वा करण्डिकाय वा हस्तसञ्ज्ञाय वा भाजनकेन वा  
+(ज्।१६८) दातव्यं । नापि दानि क्षमति । चूर्ण्णं राशीय उपनेतुं । मिनीय  
+दातव्यं । मानभण्डे वा भाजनेन वा हस्तसञ्ज्ञाय वा पिण्डि(३७अ५)कम्  
+वा पट्टिय दातव्यं । अथ दानि दानपति आहंसुः । यावद् अर्थं  
+भदन्ता उपनेतुं(न्तु) । एवं पि कृत्वा मात्राये । उपनेतव्यं । जेन्ताकं  
+प्रविशन्तेन उदकस्य प्रत्ययो जानितव्यो । कथं दीयति । यदि ताव  
+मितकं दीयति । उष्णोदकं घटेन वा कुण्डेन वा तेन तथा येव  
+ग्रहेतव्यं । अथ दानि प्रकृत्येव आहंसुः । या(यो) प्रतिबलो (३७अ६) भवति  
+उदकं उपस्थापेतुं । सो प्रविशतु । यो प्रतिबलो भवति । उदकं  
+उपस्थापेतुं तेन प्रवेष्टव्यं । अथ दानि अन्तेवासिको (वा)  
+सार्व्व(र्द्धे)विहारिको वा आहंसु । उपाध्यायाचार्या प्रविशथ वयम्  
+उदकम् उपस्थापयिष्यामि त्ति ॥ प्रवेष्टव्यं एवं पि कृत्वा मात्राये  
+उपनेतव्यं । उपासका वा कर्म्मकरा (वा) आरामिका वा आहंसु ।  
+प्रविशन्तु आर्यमि(३७अ७)श्राः वयं उदकं दास्यामः । प्रवेष्टव्यं  
+मात्राये उपनेतव्यं । अथ दानि ओघो वा पुष्किरिणी वा तडागो वा भवति  
+किञ् चापि यावद् अर्थं उपनेन्ति । अनापत्तिः । न क्षमति । अभ्यवकाशे  
+नग्नस्य नग्नेन परिकर्म्म (इइ।प्।२८) कर्त्तुं । अथ दानि उदकस्य  
+प्रतिच्छन्नं भवति नाभिमात्रं वा उदकं अनापत्तिः । अथ दानि  
+जानुमात्रं उदकं भवति । उपविष्टेन (३७ब्१) कर्त्तव्यं । यथा  
+नाभिप्रतिच्छन्ना भवेय न क्षमति आत्मनो (ज्।१६९) चीवराणि गृह्नित्वा  
+परस्य चीवरेहि समाकुलीकृत्वा स्थापेतुं । अथ खलु यथास्थाने  
+स्थापयित्वा गन्तव्यं । एतं दानि जेन्ताकस्य आरोचितं भवति । जानितव्यं ।  
+किम् अयं जेन्ताको एकतो साङ्घिको पर्षायं परिवेणिको निमन्त्रितकानां ति  
+यथा भवति तथा गन्तव्यं । यदि ताव एकतो साङ्घिको भवति । (३७ब्२)  
+सर्व्वंसङ्घेन गन्तव्यं । अथ दानि पर्षाये भवति । तेहि गन्तव्यं ।  
+परिवेणिको भवति । परिवेणिकेन गन्तव्यं । निमन्त्रितकानां भवति ।  
+निमन्त्(र्)इतकेहि गन्तव्यं । अथ दानि आरोचीयति । भन्ते यस्यास्ति तैलं च  
+चूर्ण्णं च ततो आगच्छन्तु न्ति(त्ति) । ततो यस्यास्ति तैलं च चूर्ण्णं च तेहि  
+गन्तव्यं । अथ दानि भिक्षु जरादुर्ब्बला वा व्याधिदुर्ब्बला वा  
+भवन्ति । तस्य (३७ब्३) सर्व्वे(सार्द्धे)विहारिका भवन्ति अन्तेवासिका वा तेहि  
+वक्तव्यं । उपाध्यायाचार्या आगच्छाहि स्नाहि वयं तैलं वास्याम । यदि  
+स्नायितुकामो भवति गन्तव्यं । अथ दानि न स्नायितुकामो भवति ।  
+वक्तव्यं सु(स)गोत्रीमाता गच्छथ यूयं नाहं स्नापयिष्यामि । अथ  
+दानि जेन्ताको साङ्घिको भवति दायकदानपती वा देन्ति गण्डी  
+आहनि(३७ब्४)तव्या । आरोचयितव्यं आयुष्मन् तैलं भविष्यति । चूर्ण्णं  
+भविष्यति । उदकं भविष्यति । (स्)नायन्तु आयुष्मन्तो (ज्।१७०)  
+येन्ताकवारिका अध्येषितव्याः । तेहि जेन्ताको प्रज्वलितव्यो  
+जेन्ताकपीठकानि प्रवेशयितव्यानि । तैलम् प्रवेशयितव्यं । चूर्ण्णं  
+प्रवेशयितव्यं,। शुक्तियो प्रवेश(इइ।प्।२९)यितव्यो । उदकं तापयितव्यं ।  
+यदि ताव अल्पं (३७ब्५) तैलं चूर्ण्णं भवति । मितकं दातव्यं । तैलं  
+म(स)ञ्चयितव्यं । उदकं भावयितव्यं । अथ दानि बहुं भवति ।  
+सङ्घसंव्यवहारको वादा(म्) नयति वा जल्पति विस्वस्ता भदन्ता  
+स्नायन्तु न्ति(त्ति) । एवं पि करिय तैलमात्रा जानितव्या नवकेहि भिक्षूहि  
+स्थविराणां भिक्षूणां कायपरिचर्या कर्त्तव्या । नापि दानि क्षमति ।  
+नवकेहि भिक्षूहि उच्चहन्तेहि स्ना(३७ब्६)यितुं । अथ खलु अन्योन्यस्य  
+सगौरवेहि स्नायितव्यं । सप्रतिशेहि स्नायितव्यं । नापि क्षमति ।  
+उच्चशब्दमहाशब्देहि स्नायितुं । अथ खलु अल्पशब्देहि अल्पनिर्घोषेहि  
+जेन्ताके स्नायितव्यं । अथ दानि प्रश्नो स्थापीयति । किञ् चापि प्रघुष्टेन  
+स्वरेण प्रश्ना विसर्जेन्ति । अनापत्तिः । यं कालं भिक्षू स्नाता भवन्ति  
+जेन्ताकवारिकेन तैलं शेषं भवति । प्रवेशयित(३७ब्७)व्यः । चूर्ण्णं  
+शेषं भवति प्रवेशयितव्यं । जेन्ताकपीठिकानि धोविय  
+प्रवेशयितव्यानि । शुक्तियो धोविय प्रवेशयितव्यायो यं काष्ठं शेषं  
+भवति यथास्थाने स्थापेतव्यं । अथ दानि कोचि पश्चात् प्रविशति ।  
+आगच्छन्तु आयुष्मन्तो वयम् एतं प्रवेशयिश्याम न्ति(त्ति) । गन्तव्यं तेहि  
+प्रवेशयितव्यं । मा आदीनवम् उत्पादये जेन्ताकं सिञ्चिय सन्मार्जिय  
+ना(अ)ङ्गारा(३८अ१)नि चापिय जेन्ताकं बाहिरघटितं करिय गन्तव्यं । एवं  
+जेन्ताके प्रतिपद्यितव्यं । एवं (ज्।१७१) स्नाने प्रतिपद्यितव्यं न  
+प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     व्। ९ म्स्। ३८अ१ (ज्।१७१।३); छ्। ५०९ब्१४  
+     भगवान् श्रावस्त्याम् विहरति । पञ्चार्थवशां विस्तरेण निदानं कृत्वा  
+याव अद्राक्षीद् भगवां पञ्चाहिकां (इइ।प्।३०) विहारचारिकाम्म्  
+अनुचङ्क्रमन्तो अनुविचरन्तो विहारकेहि भण्डं उज्झितावकीर्ण्णे (३८अ२)  
+तिष्ठति स्थालीयो पीठरिका अधोतका अनुपलिप्ता नकूलमूषिकेहि  
+आलुप्यमाना ओदनमानिकायो हस्ता काकशकुन्तेहि निक्खोडियन्ता द्रोणीयो  
+उद्वायो परियो भक्तपीठिका माणिकं चङ्गेरियो शुष्यायो पटलकां ।  
+भगवां जानन्तो येव पृच्छति । किम् इयं भिक्षवो भाण्डं  
+उज्झितप्रकीर्ण्णं तिष्ठति ।   
+     तेन हि एवं भण्डे प्रतिपद्यितव्यं । (३८अ३) किन् ति दानि एवं भण्डे  
+प्रतिपद्यितव्यं । एतं दानि सङ्घस्य अनुग्रहो भवति नित्यपवना वा  
+उद्दिशितव्या । मासवारिको वा दशाहवारिको वा तत्र उद्दिशितव्यो ।  
+पञ्चाहवारिको वा तेन सङ्घस्य अनुग्रहो साधयितव्यो भिक्षुसङ्घो  
+परिवेशापयितव्यो । यं कालं भिक्षुसङ्घेन भुक्तं भवति यं तत्र  
+भण्डं भवति लो(३८अ४)हिका (ज्।१७२) वा कटाहका वा स्थाली वा पिठरिका  
+वा मासवारिकेहि वा पक्षवारिकेहि वा कल्पियकारं शब्दाविय  
+लिप्तोपलिप्तं करिय ओमुद्धिका स्थपितव्या । सूर्यादि(भि)मुखं यं  
+कालं शुष्का भवन्ति । कल्पियकुटिं प्रवेशिय स्थापयितव्यानि ।  
+यथास्थानं यं तत्र भवति । दुग्धघटा वा दधिघटा वा  
+व्यञ्जनगोलका वा ते सुधोतां (३८अ५) सुप्रक्षालितां कारापयिय आतपे  
+स्थापयितव्याः । यं कालं शुष्का भवति ततो कल्पियकुटिं प्रवेशिय  
+स्थापयितव्याः । यं तत्र भवति शतपोतनको वा ताम्रपात्रा वा  
+लोहपात्रा (इइ।प्।३१) वा कटच्छुका वा तद्दुका वा चषका वा पलीनका वा  
+पलीनका वा निर्म्मादिता कारापिय कल्पियकुटिं प्रवेशिय यथास्थाने  
+प्रवेशयितव्यानि । एता भवन्ति (३८अ६) माणिका वा खाणुका वा दुर्व्वा वा  
+कण्डहस्ता वा कर्क्कटका वा प्रस्फोटिय सुधोतां सुप्रक्षालितां करिय  
+आतपे शोषयितव्या । यं कालं शुष्का भवन्ति । ततो कीलकेहि ओल्लयित्वा  
+स्थपितव्या यथा न खज्जेय । उक्कसिय स्थपेतव्या एते खज्जकचङ्गेरीयो  
+वनफलचङ्गेरीयो हरीतकीचङ्गेरीयो वा प्रस्फोडिय सुप्रक्षालितां  
+करिय एकमन्ते स्थपेतव्याः । एते भवन्ति । (३८अ७) वस्त्राभरणका वा  
+परिश्रावणा वा चतुरस्रका वा साहरित्वा कीण(ल)केहि ओल्लयित्वा  
+स्थपयितव्या । यथा (ज्।१७३) न (ख)द्येंसु । एता भैषज्यपिषणिका शिला न  
+दानि कार्य(म्) कृत्वा यथा येव प्रतिलिप्तिका स्थपेतव्या । अथ खलु  
+सुधोवित्वा यथास्थाने स्थापयितव्या । नापि दानि कल्पिककुटी  
+अध्युपेक्षितव्या । ओद्द्रिण्णका वा प्रल(लु)ग्गिका वा अचौक्षा वा ।  
+अप्रतिसंस्कृता वा । अथ ख(३८ब्१)लु कालेन कालं यदि ताव तृणच्छन्ना  
+भवति तृणपुलको दातव्यो । गोमयकार्षी दातव्या । अभीक्ष्णं  
+सन्मार्जयितव्यं । अथ दानि तृणप्रवेशिका भवन्ति । एकान्ते  
+स्थषे(पे)तव्यं । एवं यत् किञ्चित् सङ्घस्य भाण्डं यो यत्र अभियुक्तो  
+भवति । तेन तं प्रतिसामेतव्यं । एते भवन्ति रङ्गगोलका वा  
+रङ्गघटका वा रङ्गकुण्डका वा रङ्गकट(टा)हका वा  
+माषवारिकस्य वा । (३८ब्२) पक्ष(वारिक)स्य वा आधीनं भवति । एषो  
+भिक्षु धोवनिका वा कर्त्तुकामो भवति । मासवारिको वा पक्षवारिको  
+वा याचितव्यो । अथ दानि द्वे जना (इइ।प्।३२) याञ्च(चं)रतीति तेन  
+वृद्धतरकस्य ज्ञातव्यं अथ दानिं वृद्धतरकस्य चिरकालो भवति  
+नवतरकस्य इत्वरकालिकं भवति । नवतरकस्य दातव्यं । अथ दानि  
+उभयेषां इत्वरकालिकं वृद्धतरकस्य दातव्यं उभये(३८ब्३)षां  
+चिरकालिकं भवति । वृद्ध(ज्।१७४)तरकस्य दातव्यं । तेन धोवनिका वा  
+रजनिका वा करिय न क्षमति तथा य्येव उपमक्षितं वा रङ्गरक्षितं  
+वा अधोतकम् वा अनुपलिप्तकम् वा दयितुं न क्षमति । अथ खलु  
+सुधोतं सुप्रक्षालितं सुलिप्तं सुशुष्कं करियाणं चीवररजूं न दानि  
+चीवरं रञ्जेत्वा न तथा येव वितनिका उज्झित्वा गन्तव्यं । अथ  
+ख(३८ब्४)लु साहरित्वा यथास्थाने स्थापयितव्यं । वड्ढकिभण्डं  
+भवति । नासिते वा दानि या वा विशालिका वा सूत्राथ ओलम्बिको धोवित्वा  
+एकान्ते स्थापेतव्या । तक्षाणं भाण्डं भवति । कुठारो वा वासीयो वा  
+विहरणको वा निखादनको वा अट्टिला वा एकान्ते स्थपेतव्या । एता  
+भवन्ति वासीयो वा कुद्दालका वा निश्रेणियो वा (३८ब्५) न दानि तथा  
+येच(व) मृत्तिका प्रलिप्तिका स्थपेतव्या । अथ खलु बोधि(धोवि)सत्वा  
+यथास्थाने स्थापयितव्यो । तच् चेवं चातुर्द्दिशं साङ्घिकं  
+म(भा)ण्डकं रिक्त परिभोगं न दानि कार्यं कृत्वा विहारे गोपित्वा  
+स्थापेतव्यं । पुरोकृत्यं सुखं भविष्यति । अथ खलु यस्यैवं (ज्।१७५)  
+कार्यम् भवति । तस्यैवन् दातव्यं । एवं भाण्डे प्रतिपद्यितव्यं ।  
+(३८ब्६) न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     व्।१० म्स्। ३८ब्६ (ज्।१७५।३); छ्। ५०९च्९  
+     भगवान् श्रावस्त्यां विहरति विस्तरेण निदानं कृत्वा (इइ।प्।३३) अपरेहिं  
+विहारके सम्बहुला भिक्षू प्रतिसङ्क्रमति । सो दानि विहारको उप्पेडनको  
+अपरो च भिक्षुः । विरात्रे उश्वास(च्चार)कारको वा प्रश्वास(स्राव)कारको  
+वा निर्द्धावितो भवति । स चीवरं चीवरंवंशातो हू(कू)षियाणं पतितो ।  
+ए(३८ब्७)वं भूमीये पतितो तं दानि एकेन आक्रान्तं द्वितीयेन आक्रान्तं  
+तृतीयेनाक्रान्तं सर्व्वं कर्द्दमेहि अनुप्रविष्टं चीवरकोणको अवशिष्टो  
+सो दानि अपरेज्जुकातो कल्यत एव निवासिय प्रावरिय चीवरकं मार्ग्गति न  
+लभति । तेन दानि मार्ग्गन्तेन सो चीवरकोणको दृष्टो तं दानि तहिं  
+चीवरकर्ण्णके गृह्निय अच्छियं चटन्ति सञ्च(र्व्वम्) फाटितं । ए(३९अ१)तं  
+प्रकरणं भिक्षू भगवतो आरोचयेंसुः । भगवान् आह । शब्दापयथ  
+तं भिक्षुं । सो दानि शब्दापितो । भगवान् आह । एवं च त्वं भिक्षुः  
+चीवरकं चीवरकोणके गृह्निय अच्छोसि च चटन्ति सर्व्वं फाटितं तेन  
+हि एवं चीवरे प्रतिपद्यितव्यं । किन् ति दानि एवं चीवरे प्रतिपद्यितव्यं ।  
+एते दानि सम्बहुला सम्बहुला भिक्षूः । एकहि विहारके प्रतिक्रमन्ति ।  
+यदि । (३९अ२) ताव सो उप्पेडनको विहारको (ज्।१७६) भवति । नापि क्षमति  
+भिक्षूहि मुक्तकं चीवरं स्थपयितुं । अथ खलु चीवरकानि  
+ससाहरितानि कारिय अन्तरमुख दुगुणान्तरं करिय चीवरवंशे  
+स्थपेतव्यानि ततो पट्टिकाये वा लोढकेन वा रेज्जुकाये वा  
+बन्धितव्यानि । उपाध्यायस्य (वा) आचार्यस्य वा चीवरं साहरित्वा  
+अभ्यन्तर परिकर्म्म द्विगुणन्ते । (३९अ३) अग्रतो कर्त्तव्यो । अन्तरपीडितो  
+न दानि उपाध्यायस्य वा आचार्यस्य (वा) चीवरेहि आत्मनो चीवरं (इइ।प्।३४)  
+वेढयितव्यं । अथ खलु आत्मनो चीवरेहि उपाध्यायाचार्याणां चीवरा  
+वेढयितव्याः । एवं सर्व्वेहि बन्धिय थपेतव्यानि । अथ दानि भिक्षु  
+विरात्रकाले उश्वास(च्चार)कारो वा प्रश्वास(स्राव)कारो वा निर्द्धावति ।  
+चीवरवंशकातो । (३९अ४) चीवराणि मुञ्चिय एकं द्वितीयं वा तृतीयम् वा  
+ल्क(कू)षियाणां भूमीयं पतितं । एकेन (आ)क्रान्तं द्वितीयेन आक्रान्तं  
+तत्रैव सर्व्वं भूमीये अनुप्रविष्टो भवति । अपरेज्जुकातो भिक्षू  
+कल्यतो येव निवासिय प्रावरिय चीवरकाणि मार्ग्गति सो मार्ग्गन्तो न  
+पश्यति । तस्य चीवरकस्य कोणकं नापि क्षमति । तहिं  
+चीवरकोण(३९अ५)के गृह्निय द्रन्ति अच्छितुं । मा चीवरकोणको भवतु ।  
+मा चीवरको ति । अथ खलु ततो कोणकातो प्रभृति सुखाकं  
+मोचयितव्यं । चीवरकं धोविय विहारकोणको (थ)पयितव्यो तं  
+चीवरकं यं कालं शुष्कं भवति ततो परिभुञ्जयितव्यं । अथ दानि  
+भिक्षुः । उपाध्यायस्य वा आचार्यस्य वा चीवराणि उपरि स्थापयित(३९अ६;  
+ज्।१७७)व्यानि । अथ दानि सो उप्पंसुलको विहारको भवति । नापि क्षमति  
+उपाध्यायस्य वा आचार्यस्य वा चीवरकानि उपरि स्थापयितुम्, । आत्मनो  
+चीवरकानि हेष्ठे स्थपयितु(म्) । अथ खलु उपाध्यायस्य वा आचार्यस्य  
+वा हेष्ठे स्थपयितव्यानि । आत्मनो चीवराणि उपरि स्थापयितव्यानि । नापि  
+क्षमति ग्रीष्मका भवति रजो वातरजो वा उक्कनि(३९अ७)का चीवरं  
+विनाशेति नेदानि उपाध्यायाचार्याणां चीवरकेहि आत्मनो चीवरा  
+वेढयितव्या । अथ खलु आत्मनो चीवरेहि उपाध्यायाचार्याणां चीवरा  
+वेढितव्या । न दानि क्षमति । विहारो अध्युपेक्षितुं । (इइ।प्।३५) उप्पंसुलो  
+वा अचौक्षो वा । अथ खलु कालेन कालं सिञ्चित्वा सन्मार्जितव्यं ।  
+गोमयकार्षी दातव्या । वङ्घोरिका दातव्या । न क्ष(३९ब्१)मति ।  
+चीवरेणाप्रसन्नं गृह्नितुं । खेटकटाहम् वा उच्चारकटाहकम् वा  
+प्रस्रावकुम्भकं वा सङ्कारं वा उज्झितुं । उपानहा गृह्नितुं ।  
+गोमयानि वा उच्चिनितुं । न क्षमति । चीवरं अध्युपेक्षितुं । चिक्कनं वा  
+अप्रतिसंस्कृतं वा ओमयिलमयिलम् वा पाटितविपाटितम् वा । अथ खलु  
+कालेन कालं धोवितव्यं । रञ्जितव्यं । सीवितव्यं । यथा च्छवि एवं  
+चीवरे प्रतिपद्यि(३९ब्२)तव्यं । न प्रतिपद्यति ॥ आभिसमाचारिकान्  
+धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     (ज्।१७८) उद्दानं ॥  
+              एवम् अरण्ये प्रतिपद्यितव्यं ।  
+              एवं ग्रामान्तिके प्रतिपद्यितव्यं ।  
+              एवं जा(पा)नीये प्रतिपद्यितव्यं ।  
+              एवं परिधोवनिये प्रतिपद्यितव्यं ।  
+              एवं पादा धोवितव्या ।  
+              एवं पादधोवनिके प्रतिपद्यितव्यं ।  
+              एवं स्नाने प्रतिपद्यितव्यं ।  
+              एवं जेन्ताके प्रतिपद्यितव्यं ।  
+              एवं भण्डे प्रतिपद्यितव्यं ।  
+              एवं चीव(३९ब्३)रे प्रतिपद्यितव्यं ॥ * ॥  
+     ॥ पञ्चमो वर्ग्गः ॥ * ॥  
+    
+     (योस्हियसु योणेज़ाWआ । ःइदेतोस्हि योश्ःईज़ाWआ)
+
+(इइ।प्।३६)   
+     वि। १ म्स्।३९ब्३ (ज्।१७९।१); छ्।५११ब्१६   
+     भगवान् श्रावस्त्यां विहरति । ते दानि आयुष्मन्तो षड्वर्ग्गिका कल्यत  
+एव विहारचरणकानि निवासनानि निक्षिपियाणं नग्नप्रावृता  
+ग्रामप्रवेशनिकानि निवसनानि मार्ग्गन्ति । गोचरातो निर्द्धाविता  
+ग्रामप्रवेशनिकानि निवासनानि निक्षिपियाणं नग्नप्रावृता  
+विहारचरणकानि निवास(३९ब्४)का(ना)नि मार्ग्गन्ति । एते(तम्) प्रकरणं  
+भिक्षूहि श्रुतं भिक्षू भगवतो आरोचयेंसु । भगवान् आह ।  
+शब्दापयथ षड्वर्ग्गिकां ते दानि शब्दापिताः । भगवान् आह । सत्यं  
+भिक्षवो षड्वर्ग्गिकाः । एवं नाम यूयं कल्यत एव उत्थिय  
+विहारचरणकानि चीवरकानि निक्षिपित्वा नग्नप्रावृताः ।  
+ग्रामप्रवेशनिका(नि) निवसनानि मार्ग्गथ गोचरातो (३९ब्५)  
+निर्द्धाविताः । ग्रामप्रवेशनिकानि निवासनानि निक्षिपित्वा  
+नग्नप्रावृताः । विहारचर(ण)कानि निर्वासनानि मार्ग्गथ । आहंसु  
+आम । भगवन्   
+     भगवान् आह । तेन हि एवं निवासितव्यं । किन् ति दानि एवं  
+निवासयितव्यं । भिक्षुणा ताव कल्यत एवोत्थित्वा गोचरं (ज्।१८०)  
+प्रविशन्तेन न क्षमति । ग्रामप्रवेशनिकं निवासनं अनुपहस्तं  
+कृ(३९ब्६)त्वा विहारचरणकं निवसनं निक्षिपितुं । अथ खलु प्रकृत्येव  
+ताव ग्रामप्रवेशनकं उपहस्तं कर्त्तव्यं । ततो ग्रामप्रवेशनं च  
+निवासनं आवेल्लयितव्यं विहारचरणकं निवासनं उच्चेतलयितव्यं ।  
+कायबन्धनं बन्धयित्वा चीवरवाणि प्रवारित्वा गोचरं प्रविशितव्यं ।  
+गोचरातो निर्द्धावितेन नापि क्षमति (इइ।प्।३७) विहारचरणं निवासनं ।  
+अनुपह(३९ब्७)स्तं करियाणं ग्रामप्रवेशनकं निवासनं निक्षिपितुं ।  
+अथ खलु प्रकृत्येव ताव विहारचरणकं निवसनं उपहस्तं  
+कर्त्तव्यं । ततो विहारचरणकं निवासनं आवेल्लयितव्यं ।  
+ग्रामप्रवेशनकं च निवासनं उच्चेलयितव्यं । ते भिक्षू उद्धारकं  
+कर्त्तुकामा भवन्ति । उपलेपनं वा सम्मार्जनं वा भवति ।  
+स्नानशाटकं वा लेङ्कटखण्डकम् वा निवासि(४०अ१)य स्नातुकामो  
+भवति । नापि क्षमति निवासनं निक्षिपित्वा स्नानशाटकं वा  
+लेङ्कटखण्डकं निवासयितुं । अथ खलु निवासनं उच्चेल्लयितु(तव्य)ं ।  
+स्नानशाटिका वा लेङ्कटखण्डकं आवेढयितव्यं निवासनं  
+उच्चेल्लयितव्यं नापि क्षमति स्नानेन समानेन निवासनं निवासयित्वा  
+कामभोगिना यथा उपरिमेण निवासनस्य स्नानशाटिकां उत्क्षिपितुं  
+नापि क्षमति । हे(४०अ२)ष्ठेन स्नानशाटिकाम् वा लेङ्कटखण्डकम् वा  
+ओसारयितुं । चलनकं यथा । अथ खलु निवासनं (ज्।१८१) ओच्चेल्लयितव्यं ।  
+स्नानशाटकं वा लेङ्कटखण्डकं वा उच्चेल्लयितव्यं । एषो भिक्षु  
+विकाले प्रतिक्रमति । नापि क्षमति निवासनं निक्षिपित्वा नग्नप्रावृतेन  
+रात्रीप्रावरण निवासिनं मार्ग्गितुं । अथ खलु प्रतिकृत्येव ताव  
+रात्रीप्रावरणकं निवासनं उप(४०अ३)हस्तीकर्त्तव्यं । ततो निवासनं  
+उच्चेल्लयितव्यं । रात्रिप्रावरणं निवासनं च आवेल्लयितव्यं । एवं  
+निवासने प्रतिपद्यितव्यं । न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥  
+    
+     वि। २ म्स्।४०अ३ (ज्।१८१।७); छ्। ५११ब्२७  
+     भगवान् श्रावस्त्याम् विहरति । ते दानि आयुष्मन्तो षड्वर्ग्गिका गोचराये  
+प्रस्थिता विहारचरणकानि चीवरका(नि) (इइ।प्।३८) निक्षिपिय  
+एक(४०अ४)निवसना ग्रामप्रवेशनिकानि चीवरकानि मार्ग्गन्ति । गोचरातो  
+निर्द्धाविता ग्रामप्रवेशनकानि चीवराणि निक्षिपित्वा एकनिवासनका  
+विहारचरणकानि चीवरकानि मार्ग्गन्ति । एतं प्रकरणं भिक्षूहि  
+श्रुतं । भिक्षू भगवतो आरोचयेंसु । भगवान् आह । शब्दापयथ  
+षड्वर्ग्गिकान् । ते दानि शब्दापिताः (४०अ५) भगवान् आह । सत्यं भिक्षवो  
+षड्वर्ग्गिकाः । एवन् नाम यूयं कल्यतो येव गोचराय प्रस्थिता ।  
+विहारचरणकानि चीवराणि निक्षिपिय एकनिवसना ग्रामप्रवेशनकानि  
+चीवराणि मार्ग्गथ । गोचरातो निर्द्धाविता । ग्रामप्रवेशनिकानि  
+चीवराणि निक्षिपित्वा एकनिवसनका विहारचीवरकानि मार्ग्गथ । आहंसु  
+आ(४०अ६)म भगवन्   
+     (ज्।१८२) भगवान् आह । तेन हि एवं प्रावरितव्यं । किन् ति दानि एवं  
+प्रावरितव्यं । एषो दानि भिक्षुः । कल्यतो येव गोचराये प्रस्थितो भवति ।  
+नापि क्षमति विहारचरणकानि चीवरकाणि निक्षिपिय एकनिवसनकेन  
+ग्रामप्रवेशनिकानि चीवराणि मार्ग्गितुं । अथ खलु प्रतिकृत्येव ताव  
+ग्रामप्रवेशनकं चीवरं उपहस्तं कर्त्तव्यं प्रावरन्तेन  
+ग्रामं(४०अ७)प्रवेशनकं चीवरं आच्चेल्लयितव्यं विहारचरणकं  
+चीवरं उच्चेल्लयितव्यं । गोचरातो निर्ग्गतेन नापि क्षमति ।  
+ग्रामप्रवेशनकं चीवरं निक्षिपित्वा एकनिवसनकेन विहारचरणकं  
+चीवरं मार्ग्गित(तु)ं । अथ खलु प्रकृते(त्ये)व ताव विहारचरणकं  
+चीवरं उपहस्तीकर्त्तव्यं । प्रावरमाणेन विहारचरणकं चीवरकं  
+आच्चेल्लयितव्यं । ग्रामप्रवे(४०ब्१)शनकं चीवरं उच्चेल्लयितव्यं । एवं  
+आरामचरणकं वा आच्चेल्लयितव्यं । विहारचरणकं वा (इइ।प्।३९)  
+उच्चेल्लयितव्यं । प्रस्फोटयित्वा साहरित्वा एकान्ते स्थपयितव्यं । एतन्  
+दानि सङ्घस्य उट्ठानकानि भवन्ति । च्छादनिका वा लेपनिका वा  
+सम्मार्जनको वा भिक्षु चीवरकाणां दयार्थं । अन्यं  
+लेङ्कटखण्डं प्रावरितुकामो भवति नापि क्षमति । चीवरकं  
+निक्षिपियाणं एकनिवसन(४०ब्२)केन लेङ्कटखण्डं मार्ग्गितुं । अथ  
+खलु प्रकृत्येव ताव उपहस्तीकर्त्तव्यं एकं च आवेल्लयितव्यं द्वितीयं  
+उच्चेल्लयितव्यं । एवं प्रावरितव्यं । न प्रतिपद्यति । आभिसमाचारिकान्  
+धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     वि। ३ म्स्।४०ब्२ (ज्।१८३।१); छ्। ५११च्७  
+     (ज्।१८३) भगवान् श्रावस्त्याम् विहरति । ते दानि आयुष्मन्तो  
+नन्दनोपनन्दना गोचरं प्रविशन्ता चीवरं कण्ढन्ता प्रविशन्ति ।  
+कण्टकशाखाहि लग्नं भवति । द्रन्ति अच्छन्ति । झाडे वा  
+वृ(४०ब्३)क्षशाखायाम् वा लग्नं द्रन्ति कढन्ति । नैव धूलिं  
+परिहरन्ति । न कर्दमं परिहरन्ति । सम्बाधरथ्याहि  
+सुधापाण्डुलेपना भिन्ति(त्ति)यो घसन्ता गच्छन्ति तान् अपि दानि  
+चीवरकानि । ओमïलमïलाणि पाटितविपाटितानि क्रियन्ति तेषान् दानि  
+सार्द्धेविहारिका च अन्तेवासिका च ओध्यायन्ति । वयं येच(व) ताव  
+चीवरकानि धोवेन्ता सिवेन्ता रञ्जेन्ता तलविलयं गच्छामः (४०ब्४) इमे पि  
+न जानन्ति । कथम् अन्तरघरे प्रविशन्तेहि चीवरेहि प्रतिपद्यितव्यं ।  
+एतं प्रकरणं भिक्षूहि श्रुतम्, । भिक्षू भगवतो आरोचयेंसु ।  
+भगवान् आह । शब्दापयथ नन्दनोपनन्दनाः(ं,) । ते दानि  
+शब्दापिताः । भगवान् आह । सत्यं भिक्षवो नन्दनोपनन्दना (इइ।प्।४०)  
+एवं नाम यूयं अन्तरं घरं प्रविशन्ता चीवरकानि कड्ढन्ता ।  
+गच्छथ त(४०ब्५)द् एव सर्व्वं भगवान् विस्तरेण प्रत्यारोचयति ।  
+युष्माकं सर्व्वे(सार्द्धे)विहारिका अन्तेवासिका ओध्यायन्ति ॥ वयं येव  
+ताव चीवरकानि धोवन्ता सीवन्ता रञ्जेन्ता तलविलयं (ज्।१८४) गच्छामः ।  
+इमे पि न जानन्ति । कथं अन्तरघरं प्रविशन्तेहि चीवरके  
+प्रतिपद्यितव्यं । आहंसु । आम भगवन्   
+     भगवान् आह । तेन हि एवं अन्तरघरं प्रविश(४०ब्६)न्तेन चीवरे  
+प्रतिपद्यितव्यं । किन् ति दानि एवं अन्तरघरं प्रविशन्तेन चीवरे  
+प्रतिपद्यितव्यं । नायं ताव क्षमति भिक्षुणा अन्तरघरं प्रविशन्तेन  
+चीवरं कड्ढन्तेन प्रविशितुं यहिं लग्नं तहि लग्नं यहिं पाटितं  
+तहिं पाटितं । अथ खलु यदि ताव ग्रीष्मकालो भवति । दूरे च ग्रामो  
+भवति । सीर्षे वा स्कन्धे वा चीवरं कृत्वा गन्तव्यं । यदा  
+ग्राममूलग(४०ब्७)तो भवति । यदि तहिं ओघो वा तडागम् वा भवति  
+पुष्किरिणी वा तहिं पादां प्रक्षालित्वा चीवरं प्रावरित्वा गण्ठिपार्श्वं  
+आबन्धित्वा प्रविशितव्यं । अथ दानि उदकं न भवति । पत्रशाखाय वा  
+तृणकेहि वा पादा जङ्घा प्रस्फोटित्वा प्रावरित्वा प्रवेष्टव्यं । अथ  
+दानि हेमन्तो भवति । प्रावरित्वा गन्तव्यं । परिमण्डलं चीवरं  
+प्रावरित्वा अन्तरघरं प्रविशित(४१अ१)व्यं । परिवर्जित्वा । भ्रान्तो वा  
+अश्वो भ्रान्तो वा हस्ति भ्रान्तो वा रथो-अश्व वटवा चा(वा) ओहर  
+पार(परा)युक्तं कण्टकशाखा परिवर्जन्तेन सुधापाण्डुल(ले)पनायो  
+परिवर्जन्तेन प्रविशितव्यं । अथ दानि भिक्षुस्य (इइ।प्।४१) यत्नं  
+करेन्तस्य चीवरं धूलीये पूरितं भवति । प्रस्फोटयितव्यं ।  
+कर्द्दमेन वा विनाशितव्यं भवति । धोवितव्यं । कण्टकशाखायां वा  
+लग्नं भवति । (ज्।१८५) न दानि मा चीव(४१अ२)रं मा कण्टकशाखा  
+न्ति(त्ति) । उद्रन्ति अच्छितव्यं । अथ खलु स्तोकस्तोकं मोचयितव्यं ।  
+सुवा(धा)पाण्डुलेपना भित्ती भवति वर्जयितव्या । अथ दानि  
+शम्बाव(ध)रथ्या भवति । सुसंवृतेन पश्यिल्लकेन अतिक्रामितव्यं ।  
+एवं अन्तरघरं प्रविशन्तेन चीवरे प्रतिपद्यितव्यं । न प्रतिपद्यति ॥  
+आभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥* ॥  
+     वि। ४ म्स्।४१अ२ (ज्।१८५।६); छ्। ५१२अ१  
+     भगवान् श्रावस्त्याम् विहरति विस्तरेण नि(४१अ३)दानं कृत्वा ते दानि  
+आयुष्मन्तो नन्दनोपनन्दना अन्तरघरं प्रविष्टा समाना मञ्चा  
+चर्याणं च मा(सा)पाश्रया च दारकदारिकेहि पादेहि  
+मर्द्दितपरिमर्द्दिता । धूलीय कर्द्दमेन मक्षितपरिमक्षिता तेहि  
+प्रज्ञप्तेहि उपविंश(शं)ति । चीवराणि विनाशयन्ति । सुधापाण्डुलेपनायो  
+भित्तीयो घसन्ता उपविंश(शं)ति तेषां सर्व्वे(सार्द्धे)विहारि(४१अ४)का  
+अन्तेवासिका ओध्यायन्ति । (ज्।१८६) वयं येव ताव चीवराणि धोवेन्ता सीवेन्ता  
+रञ्जेन्ता तलविलयं गच्छामः । इमे पि न जानन्ति कथं अन्तरघरं  
+प्रविष्टेहि चीवरेहि प्रतिपद्यितव्यं । एव(त)ं प्रकरणं भिक्षूहि श्रुतं  
+भिक्षू भगवतो आरोचयेंसु । भगवान् आह । शब्दापयथ  
+नन्दनोपनन्दनां । ते दानि शब्दापिता । भगवान् आह । स(४१अ५)त्यं  
+भिक्षवो नन्दनोपनन्दना एवं नाम यूयं अन्तरघरं प्रविष्टा  
+समाना दारकदारिकाहि मञ्चञ् च । पीठञ् च त्रेपश्यका च पादेहि  
+मर्दितविमर्दिता । धूलीये कर्दमेहि विनाशितकेहि प्रज्ञप्तेहि (इइ।प्।४२)  
+निषीदथ सुधापाण्डुलेपनाहि भित्तीहि घसन्ता प्रविशथ चीवराणि  
+विनाशयन्ति युष्माकं सार्द्धेविहारिका अन्तेवासिका ओध्याय(४१अ६)न्ति ।  
+पश्यथ भणे वयं येव चीवरकानि धोवन्ता सीवन्ता रञ्जेन्ता  
+तलविलयं गच्छामः । इमे न जानन्ति । कथं अन्तरघरं प्रविष्टेहि  
+चीवरेहि प्रतिपद्यितव्यं । आहंसु । आम भगवन्   
+     भगवान् आह । तेन हि-य्-एवं अन्तरघरं प्रविष्टेहि चीवरे  
+प्रतिपद्यितव्यं । किन् ति दानि एवं अन्तरघरं प्रविष्टेहि चीवरे  
+प्रतिपद्यितव्यं । एषो दानि भिक्षुः । अन्तरघ(४१अ७)रं प्रविष्टो आसनेन  
+निमन्त्रीयति । आसनं जानितव्यं । यदि ताव आसनं भवति धूलीये वा  
+म्रक्षितं कर्द्दमेन वा विनासितकं । ओमïलमïलं वा प्रज्ञप्तकं  
+भवति । न क्षमति तहिं उपविशितुं । यदि ताव भिक्षुस्य  
+विस्रम्भ(ज्।१८७)कुलं भवति । वक्तव्यं । भगिनीयो आसनं प्रज्ञपेथ  
+मा चीवरकानि विनशिष्यन् ति । यं कालं तहिं प्रज्ञप्तं भवति । आमिला  
+वा अस्तरि(४१ब्१)का वा कोचको वा कलन्तरको पट वा ततो निषीदितव्या ।  
+अथ दानि अश्राद्धकुलं भवति । भिक्षुस्य वा अविस्रम्भकुलं भवति  
+ततो च स्तूपिकं वा साङ्घिकं वा कार्यं अधीनं भवति । नापि क्षमति ।  
+तथा येव निषीदितुं । अथ खलु लेङ्कटखण्डेन रजोहरणकेन वा ।  
+प्रस्फोटिय कसं(ंस)कलिकां प्रज्ञपिय उपविशितव्यं । अथ दानि एवं पि  
+न भवति । अन्त(४१ब्२)मसतो हस्तेनापि प्रस्फोटिय आमर्जिय  
+उपविशितव्यं । नापि क्षमति । अन्तरघरे प्रविष्टेन सुधापाण्डुंलेपना  
+भित्तीय (घ)स(ं)तेन अतिक्रमितुं । न क्षमति । सापाश्रयं वा  
+ओपाश्रयम् वा ओमयिलोमयिलं वा (इइ।प्।४३) पण्डरं विपाण्डरं  
+अपाश्रयितुं । अथ दानि भिक्षुः । जरादुर्ब्बलो वा व्याधिदुर्ब्बलो वा  
+भवति । वक्तव्यं भगिनी प्रज्ञपेहि कुड्डस्मिं यहिं  
+अपाश्र(४१ब्३)यितव्यं । यं कालं तहिं बिम्बोहनं वा अमिला वा अस्तरिका  
+वा कोचको वा शाटको वा प्रज्ञप्तो भवति । ततो अपाश्रयितव्यं । अथ  
+दानि अश्राद्धकुलं भवति । न वा भिक्षुस्य विश्रम्भकुलं भवति ।  
+अन्तमसतो सङ्कच्छिका पि स्कन्धे दत्वा अपाश्रयितव्यं । न क्षमति ।  
+(ज्।१८८) अन्तरघरं प्रविष्टेन चीवरकेन प्रतीच्छितुं । सर्प्पिखज्जकं  
+(४१ब्४) वा तैलखज्जकं वा उक्खिनका वा तण्डुला प्रतिच्छितुं ।  
+क्लिन्नकानि वा पुष्पाणि प्रतिच्छितुं । क्षुद्रपाकानि वा फलानि  
+प्रतिच्छितुं । विक्षुण्णम् वा पात्रं गृह्नितुं । चिक्कन्ना वा हस्तान्  
+निर्मादितुं । माल्यम् वा क्लिन्नकं चिक्कना वा ओष्ठानि निर्मादयितुं ।  
+लभ्या दानि चीवरान्तरिकाय खक्खटानि फलानि गृह्नितुं । बदराणि वा  
+कोलकानि वा आमलका(४१ब्५)नि वा हारीतकी वा तण्डुलानि वा अनोक्षीणका  
+वा माल्यम् वा आक्लिन्नकं शिम्बटीयो वा अथ दानि भिक्षुस्य यत्नं  
+करेन्तस्य चीवरक कर्द्दमेन वा नासितं भवति धोवितव्यं । धूलीये  
+वा ओतरितं भवति । प्रस्फोटयितव्यं । पाटितं वा विपाटितं भवति  
+सीवितव्यं । एवं अन्तरघरे प्रविष्टेन चीवरे प्रतिपद्यितव्यं । न  
+प्रतिपद्यति ॥ आभि(४१ब्६)समाचारिकान् धर्म्मान् अतिक्रामति ॥*॥  
+    
+     वि। ५-६ म्स्।४१ब्६ (ज्।१८८।१३); छ्। ५१२अ२  
+     भगवान् श्रावस्त्याम् विहरति । आयुष्मतो नन्दनस्य उपनन्दनो नाम  
+भ्राता सो दानि तस्य सार्व्वे(र्द्धे)विहारिकस्याह (इइ।प्।४४) । एहि आयुष्मं  
+ग्रामं प्रविश्यामः । अहं च तत्र किञ्चिद् एव अकल्पीयं  
+अध्याचरिष्यामि । (ज्।१८९) मा कस्यचि आचिक्षेसि । अहं खलु ते पितॄयको  
+भवामि । सो दानि आह । पि(तॄ)यको भवाहि । मातुलको भवाहि । (४१ब्७)  
+यदि त्वं तत्र किञ्चि अकल्पियं । अध्याचरिष्यसि । आचक्षिष्यामि । अहं सो  
+दान् आह । आचिक्षिष्यसि आह । आचिक्षिष्यं । सो दानि आह । आगच्छाहं तव  
+शेषयिष्यं । ते दानि महान्तानि कुलान्य् उपसङ्क्रमन्ति निमन्त्रीयन्ति ।  
+आर्य भक्तकृत्यं करेथ पुरेभक्तिकं करेथ खज्जकं खादथ  
+वनफलं भक्षथ । यथा प्रतिभानकं करेथ सो दानि न कहिञ्चि  
+अधिवासयति । (४२अ१) पश्यति मा इमस्य दातव्यं भविष्यतीति यं कालं  
+पश्यति नैव एषो प्रतिबलो पिण्डाय अण्ठितुं । न च प्रतिबलो जेतवनं  
+सम्भावयितुं ति । ततो आह । आयुष्मन गच्छ त्वं न मे त्वया  
+सार्व्व(र्द्ध)ं फासु भवति कथाय वा निषद्याय वा एकस्यैव मम  
+फासु भवति । सो दानि शुष्केन मुखेन (ज्।१९०) पाण्डरेहि ओष्ठेहि  
+त्वरितत्वरितं निर्द्धावति । कालं निध्यायमानो सो (४२अ२) दानि ततो येव  
+अनुपरिवर्त्तिय महात्मेहि कुलेहि इप्सितान्नाति(नि) भुक्ता तस्यैव अनुपदम्  
+एव निर्द्धावितो ये दानि भिक्षू जेतवनस्यारामद्वारकोष्ठकसमीपे  
+स्थान चङ्क्रमस्थाननिषद्यायोगम् अनुयुक्ता विहरन्ति । ते दानि तं  
+पश्यन्ति । उपशुष्केन मुखेन पाण्डरेहि ओष्ठेहि त्वरितत्वरितं  
+निर्द्धावितं कालं निध्यायन्तं तेषां भवति । यथा अयं ।  
+उ(४२अ३)पशुष्केन मुखेन पाण्डरेहि ओष्ठेहि त्वरितत्वरितं निर्द्धावति ।  
+कालं निध्यायमानो भवितव्यम् अयं विप्रलब्धो । ते दानि तं  
+उच्चग्घन्ति आयुष्मन् स्निग्धो खलु ते सु(मु)खवर्ण्णो पिलिपिलायन्ति ।  
+ओष्ठा सुष्ठु खलु (इइ।प्।४५) निर्द्धापीयति । यथापि दानि  
+नगरकुलोपकेन पितॄयकेन सार्द्धं प्रविष्टस्य इप्सितान्नानि भोजनानि  
+भु(४२अ४)क्ताविस्या सो दानि आह । आयुष्मन् कुतो मे इप्सितान्नानि भोजनानि  
+भुक्तानि एवं च एवं चास्मि विप्रलब्धो एतं प्रकरणं भिक्षू  
+भगवतो आरोचयेंसु । भगवान् आह । शब्दापयथ उपनन्दनं सो दानि  
+शब्दापितो भगवान् आह । सत्यं उपनन्दन एवं नाम त्वं नन्दनस्य  
+सार्व्वे(र्द्धे)विहारिं जल्पसि । एहि आयुष्मन् (४२अ५) ग्रामं प्रविशिष्यामः ।  
+अहं च तत्र किञ्चि अकल्पियं अध्याचरिष्यामि ॥ मा खलु कस्यचि  
+अ(आ)चिक्षिष्यसि । अहं खलु ते पितृयको भवामि । तद् एव (ज्।१९१) सर्व्वं  
+भगवान् विस्तरेण प्रत्यारोचयति । याव सो दानि आह । आयुष्मन् कुतो मे  
+इप्सितान्नानि भोजनानि भुक्तानि एवं च एवं चास्मि विप्रलब्धो आह । आम  
+भगवन् ।   
+     भग(४२अ६)वान् आह । दुष्कृतं ते उपनन्दन तेन हि एवं पुरेश्रमणेन  
+प्रतिपद्यितव्यं । एवं पश्चाच्छ्रमणेन प्रतिपद्यितव्यं । किन् ति दानि  
+एवं पुरेश्रमणेन प्रतिपद्यितव्यं । एवं पश्चाच्छ्रमणेन  
+प्रतिपद्यितव्यं । नायं ताव क्षमति । भिक्षुणा पश्चाच्छ्रमणो  
+प्रवेशितुं यो न प्रतिबलो तस्य च आत्मनो च वृत्तिं संविभजितुं । अथ  
+खलु यो प्रतिबलो तस्य च (४२अ७) आत्मनो च वृत्तिं संविभजितुं । तेन  
+पश्चाच्छ्रमणो प्रवेशयितव्यो । एषो दानि भिक्षु उपाध्यायस्य वा  
+आचार्यस्य वा पश्चाच्छ्रमणो गच्छति । नापि क्षमति तेन दूरं  
+पृष्ठतो गन्तुं । नापि क्षमति । खुरेण खुरं हनन्तेन । अथ खलु  
+नात्यातिदूरं नात्यासन्नं गन्तव्यं । तेनापि दानि पुरेश्रमणेन नापि  
+क्षमति । घाडेन यथा ओड्डिताये ग्री(४२ब्१)वाये गन्तुं । अथ खलु  
+युगमात्रं निध्यायन्तेन गन्तव्यं । अनेकाये भ्रान्तो वा हस्ति  
+आगच्छेय भ्रान्तो वा अश्वो भ्रान्तो वा रथो चण्डो वा श्वानो चण्डो वा  
+गोणो (इइ।प्।४६) आगच्छेय न्ति(त्ति) । यदि ताव दक्षिणेनान्तेनागच्छति ।  
+वामेनान्तेन उच्चन्ति(त्ति)तव्यं । वामेनान्तेनागच्छति । दक्षिणेनान्तेन  
+उच्चत्तितव्यं । अथ दानि दुश्चक्षुको भवति । जरादुर्ब्बलो वा  
+व्याधिदुर्ब्बलो वा । (४२ब्२) पश्चाच्छ्रमणेन वक्तव्यं । उपाध्यायो वा  
+आचार्यो वा वामहस्तिकम् वा दक्षिणहस्तिकं वा उच्चत्त न्ति(त्ति) । अथ दानि  
+न पश्यति हस्तेन गृह्नियाणं एकतो वा एकतो वा उच्चत्तयितव्यो । एषो च  
+दानि भिक्षुस्य सार्द्धेविहारी वा अन्ते(ज्।१९२)वासी वा पश्चाच्छ्रव(म)णं  
+प्रवेशेन्ति । यदि ताव प्रतिबलो भवति तस्य आत्मनो च वृत्तिं  
+संविभजयितुं । प्रवेशयितव्यो । अथ दा(४२ब्३)नि न प्रतिबलो भवति ।  
+प्रवेशितो च तेन भवति । पश्चाच्छ्रमणो कालेन कालं विसर्जयितव्यो ।  
+तथा कर्त्तव्यं यथा प्रतिबलो भवति पिण्डपातम् वा अण्ठितुं ।  
+विहारकं वा गन्तुं ।  
+     अथ दानि भिक्षुः शिरां विन्दा(द्धा)पयितुकामो भवति । बाहुशिरां  
+वाङ्गुल्यशिरां वा निलाटिं वा यदि ताव प्रतिबलो भवति ।  
+पश्चाच्छ्रमणस्य (४२ब्४) आत्मनो चि(वि)त्तं संविभजितु(म्) वक्तव्यं । आस  
+त्वं सहितकां भुञ्जिय निर्द्धाविष्यामः । यं कालं शिराविद्धा  
+भवति । उभयेहि भुञ्जिय निर्द्धावितव्यं । अथ दानि न प्रतिबलो  
+भवति । कालेन कालं विसर्जयितव्यो । वक्तव्यं सुविहित गन्तव्यं ।  
+आगमिष्यं अहम्, । येन वा तेन सार्द्धं तेनापि दानि पिण्डचारिकं वा  
+अण्ठियाण विहारं (४२ब्५) वा गच्छिय आहारं कृत्वा । नापि दानि क्षमति ।  
+दिन्ना मम आनन्तिका ति । अदर्शनेन प्रियं कर्त्तुम्, । अथ खलु भुक्तं  
+न भुक्तन् ति । अन्यस्य हस्ते पात्रं दत्वा तहिं गन्तव्यं । यदि ताव न  
+विद्धा शिरा (इइ।प्।४७) भवति ग्लानस्य अनु(ज्।१९३)काल्यं आहारं दत्वा  
+सहितकेहि निर्द्धावितव्या । अथ दानि दूरगोचरो सङ्घारामो भवति  
+भिक्षुस्य आत्मनो (४२ब्६) आहारपर्येष्टिं पर्येथ(ष)माणस्य विकालो  
+भवति । एवं पि करिय गन्तव्यं । यदि ताव सो शिराविद्धो एव  
+निर्द्धावति । अयं प्रविष्टो भवति । रथ्यान्तरं वा पश्यति । ततो य्येव  
+निवर्त्तयितव्यं । नगरद्वारे पश्यति नगरद्वारतो निवर्त्तितव्यं । पन्थे  
+पश्यति । पन्थातो निवर्त्तितव्यं । यतो एव पश्यति । ततो एव निवर्त्तितव्यं ।  
+अथ दानि कोचि वन्दति वक्तव्यं । (४२ब्७) अमुको वन्दति । अथ दानि  
+निमन्त्रेति उपलक्षितव्यं । पश्चाच्छ्रमणेन यतो निर्ग्गतो भवति । ततो  
+आरोचयितव्यं । अमुकेन उपाध्यायो निमन्त्रितो अमुकेन वा अन्तरघरे  
+भुञ्जति । पुरेश्रमणो न प्रतिबलो भवति दक्षिणाम् आदिशितुम्, । आहंसु ।  
+आदिश दक्षिणां न दानि पश्चाच्छ्रमणेन वक्तव्यं । यथा येव  
+अग्रासनं अग्रोदकं अग्रपिण्ड(४३अ१)पातं परिभुञ्जसि तथा येव  
+दक्षिणाम् आदिशाहि । अथ खलु आदिशितव्यं पश्चाच्छ्रमणेन । एवं  
+पुरेश्रमणेन प्रतिपद्यितव्यं । एवं पश्चाच्छ्रमणेन  
+प्रतिपद्यितव्यं । न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥  
+    
+     वि। ७-८ म्स्।४३अ१ (ज्।१९३।१६); छ्। ५१२अ१९  
+     भगवान् श्रावस्त्यां विहरति । अपरेण दानि भिक्षुणा भिक्षु अध्येष्टा  
+आयुष्मन् इच्छामि पिण्डपातं निक्कालियमा(४३अ२)नं सो दानि आह । आनेहि  
+पात्रं सो दानि भिक्षु पिण्डपातस्य कृतेन प्रविष्टो अयं पि देशकालं  
+दन्तकाष्ठं गृहीत्वा आरामचारिकां चञ्चूर्यति । (ज्।१९४) सो दानि भिक्षु  
+पिण्डपातं गृह्निथ । आगतो । याव पश्यति सो विहारकं घट्टितकम्, सो  
+दानि मुहूर्त्तकं आगमियाणं यदा नागच्छति (इइ।प्।४८) विहारकस्य  
+द्वारमूले पिण्डपातकं थपिय गतो तं दानि आ(४३अ३)ह अपरेण  
+आगच्छियाणं उत्क्षिप्तं सो दानि भिक्षुः । विहारम् आगत्वा आगमेति ।  
+इदानीं पि एष्यति मुहूर्त्तं पि एष्यति याव अकालीभूतं ते दानि  
+क(ग)त्याह(य)ं कालस्य उभये समागता सो दानि तस्य जल्पति ।  
+अ(आ)युष्मन् साधु तं पात्रकं पि लभेम । सो दानि आह । आयुष्मन् कस्य  
+पात्रं कुतो पात्रं सो दानि आ(४३अ४)ह । आयुष्मन् न त्वं माया अध्येष्टो  
+इच्छामि पिण्डपातं निक्कालियमानं । सो दानि आह । आयुष्मन् यदा सो  
+मया पिण्डपातको विहारस्य पुरतो निक्षिप्तो । सो दानि आह । आयुष्मन्  
+एवं च त्वं शून्यके विहारके पात्रं निक्षिपिय गच्छसि । सो दानि आह ।  
+आयुष्मन् एतं च त्वं मम पिण्डपातनीहार(४३अ५)कं अध्येषित्वा  
+अदर्शनेन प्रियं करेसि । ते दानि विवदिता । भगवतो मूलं गताः ।   
+     भगवान् आह । नायं ताव क्षमति नीहारिकपिण्डपातेन  
+पिण्डपातनीहारकं अध्येषित्वा अदर्शनेन प्रियं कर्त्तुम्, । नापि  
+क्षमति । पिण्डपातनीहारकेन पिण्डपातम् आनयित्वा शून्यके विहारके  
+ओसरिय गन्तुं । तेन हि एवं (४३अ६) पिण्डपाते(त)नीहारकेन  
+प्रतिपद्यितव्यं । एवं नीहारपिण्डपातकेन प्रतिपद्यितव्यं । (ज्।१९५) एतं  
+दानि सर्व्वसङ्घस्य अन्तरघरे निमन्त्रणम् भवति । भिक्षु  
+जरादुर्ब्बलो वा व्याधिदुर्ब्बलो वा भवति । न प्रतिबलो गन्तुं ।  
+पिण्डपातनीहारको अध्येषितव्यो । वक्तव्यम् आयुष्मन् इच्छामि  
+पिण्डपातं निक्कालियन्तं ति वक्तव्यं । आयुष्मन् मा ख(४३अ७)लु  
+अदर्शनं गमिष्यसि । तेन अध्येष्टेन समानेन दुवे पात्राण्य् आदाय  
+प्रविशितव्यं । यदि ताव हेमन्तकालो भवति । लघुकालो अतिक्रमति ।  
+दायकदानपती वक्तव्याः । देथ ग्लानस्य पिण्डपातं । यदि ताव  
+दायकदानपति जल्पन्ति । भन्ते पटिपाटिकाय गृह्नथ वक्तव्यं ।  
+दीर्घायु भगवता । (इइ।प्।४९) अनेकपर्यायेण ग्लानो परि(४३ब्१)दि(न्दि)तो  
+लहुं च कालो अतिक्रामति । यदि ताव देन्ति द्वे पिण्डपातका गृह्नितव्या  
+आत्मनो च तस्य च शिक्तड्डितकं कृत्वा विहारकं आगन्तव्यं ॥ अथ दानि  
+ग्रीष्मो वा वर्षारात्रो वा कालो भवति चिरेण कालो अतिक्रमति ।  
+पटिपाटिकाय गृह्नितव्यं । शिक्तड्डितकं कृत्वा विहारकं गन्तव्यं ।  
+यदि तावद् यावदर्थं भक्तं दीयति । प्रकृत्येव आत्मनो भक्ततो तस्य  
+पात्रं पूरेतव्यं । (४३ब्२) अनुभागो आत्मनो गृह्नितव्यो । अथ दानि सो  
+दानि पतितित्तिणो भवति । यत्तकं दीयति तत्तकं गृह्नितव्यं । न दानि  
+अप्रत्यग्रं गृह्नितव्यं । एकान्ते यूय(ष)ं साकव्यञ्जनं वा गृह्नितव्यं ।  
+नापि दानि अधोतकेहि हस्तेहि अप्रयतेहि गृह्नितव्यं । अथ खलु (ज्।१९६)  
+प्रक्षालित्वा निर्म्मादयित्वा गृह्नितव्यं । अथ खलु प्रक्षालित्वा  
+निर्म्मादयित्वा गृह्नितव्यं । यदि उप्पक्कटो कालो भव(४३ब्३)ति । न दानि  
+तेन भुञ्जन्तेन आसितव्यं । अथ खलु उभये पिण्डपाता निहर्त्तव्या ।  
+तेन गच्छन्तेन कालो निध्यापयितव्यो यदि जानन्ति । शक्यं सकालेन  
+सम्भावयितुं । गन्तव्यं गच्छित्वा तस्य उपनामेतव्यं । अथ पश्यति  
+उपक्खटो कालो अन्तान्तिको न शक्यं सकाले सम्भावयितुं । मा दानि  
+उभये च्छिन्नभक्ता भविष्याम तेन (४३ब्४) परिभुञ्जितव्यं । नापि  
+क्षमति नीहारपिण्डपातेनापि अध्येष्टो मया पिण्डपातनीहारको ति  
+अदर्शनेन प्रियम्, कर्त्तुं । अथ खलु प्रकृत्येव ताव दन्तकाष्ठं  
+खादयितव्यं । हस्ता निर्म्मादयितव्या । पानीयं परिस्रावयितव्यं ।  
+कुण्डिकां परिपूरियाणं विहारस्य प्रहाणके द्वे आसनानि प्रज्ञपिय  
+(इइ।प्।५०) अधिष्ठानां प्रतिग्राहापिय आसितव्यं । यं कालं (४३ब्५) आगतो  
+भवति उपविशियाणं सहितकेहि भुञ्जितव्यं । अथ दानि सो जल्पति ।  
+आयुष्मन् भुम्ज त्वं भुक्तं मयेति च्छन्दयितव्यो वक्तव्यो ऊनकं  
+पूरेहि यं ते रुच्यति तं खादेहि यदि ताव आकाङ्क्षति । उपविशियाणं यं  
+रुच्यति तं खादितव्यं । अथ दानि न काङ्क्षितव्यं । आयुष्मन् भुम्ज  
+त्वं नाहं भुञ्जिष्यं ।  
+     अथ दानि दूरगोचरो सङ्घारामो (४३ब्६) भवति । पिण्डपातनीहारको च  
+चिरेण आगच्छति कालो च स्तोकावशेषो भवति (ज्।१९७) नीहारकपिण्डपातेन  
+हस्ता निर्म्मादियाणं पानीयस्य कुण्डिकां पूरियाणं पन्थे  
+प्रत्युद्गच्छितव्यं । यत्र येव तं पश्यति । तत्र येव पन्थातो  
+उच्चत्तियाणं सहितकेहि भुञ्जितव्यं । अथ दानि नीहारकपिण्डपातो न  
+प्रत्युद्गच्छति कालो च अतिक्रमति पिण्डपातनीहारकेन  
+त्वरितत्वरित(४३ब्७)म् आगन्तव्यं । अथ दानि दूरे सङ्घारामो भवति  
+पिण्डपातनीहारकेन यत्रैव पानीयं पश्यति । तत्रैव भुञ्जितव्यं ।  
+मा दानि वयं उभयेव भक्तच्छेदं करिष्याम एवं  
+पिण्डपातहारकेन प्रतिपद्यितव्यं । एवं नीहारपिण्डपातेन  
+प्रतिपद्यितव्यं । न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥  
+    
+     वि।९ म्स्।४३ब्७ (ज्।१९७।९); छ्। ५१२ब्१  
+     भगवान् श्रावस्त्यां विहरति । ते दानि भिक्षू पिण्डाय च(४४अ१)रमाणो  
+अन्तरघरे याव उट्ठाणातो निर्घोटेन्ति । जनो दानि ओध्यायन्ति ।  
+पश्यथ भणे श्रमणकाः । याव उट्ठाणातो निर्घोटेन्ति । नष्टं  
+भ्रष्टं कुतो इमेषां श्रामण्यं एतं प्रकरणं भिक्षू भगवतो  
+आरोचयेंसु ।   
+     (इइ।प्।५१) भगवान् आह । सम्यग् भिक्षवो जनो ओध्यायति । तेन हि एवं  
+पिण्डाये चरितव्यं । किन् ति दानि एवं पिण्डाये चरितव्यं । नायं ताव  
+क्षमति पिण्डचारिकेन या(४४अ२)व उट्ठानातो निर्घोटयितुं । नापि  
+अदर्शनपथे स्थातुम्, । अथ खलु उदेशे स्थातव्यं ।  
+दर्शनश्रवणपथे नेदानि वक्तव्यं । पिण्डपातं महापुण्ये देहि ।  
+अथ खलु तूष्णीकेन उद्देशे स्थातव्यं । न दानि इतो वा इतो वा  
+निध्यायन्तेन आसितव्यं । मा पश्येंसु । चोरा वा ओचोरका (ज्।१९८)  
+भवन्ति । अथ खलु षडायतनं मनसिकरेन्तेन स्थात(४४अ३)व्यं ।  
+चक्षुर् अनित्या याव मनो अनित्यन् ति स्थातव्यं । एष स्त्री धान्यं ओहनन्ति  
+यदि ताव कण्डिकापूरकम् उक्कड्ढिय ओच्चरकं प्रविशति जानितव्यं ।  
+दास्यति एषा ति । अथ दानि परिवर्त्तियाणं भूयो निध्यायति जानितव्यं । न  
+एषा दास्यति गन्तव्यं । एषा स्त्री धारां वा पीषयति । तिलम् वा । मुद्गम्  
+वा कलायाम् वा दलेन्ति यदि (४४अ४) ताव शिलापूरकां पिषियाणं ओच्चरकं  
+प्रविशति जानितव्यं । एषा दास्यति । अथ दानि परिवर्त्तिय निध्यायति ।  
+जानितव्यं । एषा न दास्यतीति । एषा स्त्री कर्पासं कर्त्तेति यदि तावन्तुक  
+निक्षिपियाणं उत्थेति । जानितव्यं । दाहिति एषा न्ति(त्ति) । अथ दानि भूयो  
+प्रसारयति जानितव्यं । न दाहिति एषा न्ति(त्ति) । एषा स्त्री उपविष्टिका  
+आ(४४अ५)सति । भिक्षून पश्यियाणं उत्थेति जानितव्यं । दास्यति एषा न्ति(त्ति) ।  
+अथ दानि उत्थियाणं भूयो उपविशति जानितव्यं । न एषा दास्यति । एषा  
+स्त्री भिक्षुं पश्यियाणं ओच्चरकं प्रविशति जानितव्यं । दास्यति एषा  
+न्ति(त्ति) । अथ दानि रिक्ता निर्द्धावति । जानितव्यं । एषा न दास्यति  
+गन्तव्यं । एषा स्त्री कांसभाजनं मार्जति भिक्षु पश्यि(४४अ६)याणं  
+(इइ।प्।५२) हस्तां धोवति । जानितव्यं दास्यति एषा त्ति । अथ दानि आभरणानि  
+वा उच्छारेति जानितव्यं । न एषा दास्यतीति । महात्मनां मनुष्याणां  
+गृहा भवन्ति । तहिं कुण्डा उज्झितप्रकीर्ण्णा भवन्ति । शाटका वा  
+पटका वा हारा वा अर्द्धहारा वा हिरण्यं वा सुवर्ण्णम् वा न दानि  
+तहिं अशब्दकर्ण्णिकाये निर्ग्गन्तव्यं । अथ खलु प्रति(ज्।१९९)संविदितेन  
+निर्ग्गन्तव्यं । (४४अ७) एवं यं यं कार्म्मं च्छिन्दियाणं ओच्चरकं  
+प्रविशति दातुकामा भवति । न तेन गन्तव्यं । एवं पिण्डाय चरितव्यं ।  
+न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     वि।१० म्स्।४४अ७ (ज्।१९९।४); छ्। ५१२ब्२६  
+     भगवान् श्रावस्त्याम् विहरति विस्तरेण निदानं कृत्वा ते दानि  
+निश्रयकरणीया पिण्डाय चरन्ति । तेषां उपाध्यायाचार्या स्नेहं  
+स्थपेन्ति । खज्जखण्डकानि थपेन्ति । पश्यन्ति यं कालम् आ(४४ब्१)गता  
+भवन्ति । ततो तेषां संविभजिष्यामः । ते पि दानि बाह्येन बाह्यं  
+प्रतिक्रमन्ति । ते दानि तेषां उपाध्यायाचार्या ओध्यायन्ति वयं य्येव  
+ताव इमेषां कृतेन स्नेहं थपेमः । खज्जकखण्डकानि स्थपेमः ।  
+जानाम वयं यं कालं आगता भविष्यन्ति । ततो संविभजिष्यामः । इमे  
+पि बाह्येन बाह्यं प्रतिक्रमन्ति । एतं प्रकरणं भिक्षूहि श्रुतं  
+भिक्षू भगवतो आरोचयेंसु ।   
+     भग(४४ब्२)वान् आह । तेन हि एवं पिण्डचारिकेन प्रतिपद्यितव्यं । किन् ति  
+दानि एवं पिण्डचारिकेन प्रतिपद्यितव्यं । एषो दानि भिक्षु  
+निश्रयकरणीयो भवति । नापि दानि क्षमति पिण्डाय चरियाणं बाह्येन  
+बाह्यं प्रतिक्रमितुम्, । नापि उपाध्यायाचार्याणां वा भुञ्जन्तानां  
+नेदानि उष्ठिहित्वा आसितव्यं । इमेहि शक्नोम । पिण्डचारिकेहि मुखे  
+कवलं प्रक्षिपितुं । अथ खलु दर्श(४४ब्३)नोपविचारे आसितव्यं । अथ  
+(इइ।प्।५३) खलु पिण्डचारं अण्ठियाणं उपाध्यायस्य वा आचार्यस्य वा  
+अल्लीपयि(ज्।२००)तव्यं । यदि ताव लब्धं भवति उपाध्यायेन वा आचार्येण  
+वा सङ्ग्रहो कर्त्तव्यो । शक्तुका स्तोका भवन्ति । शक्तुका दातव्या । स्नेहो  
+दातव्यो । खज्जखण्डकानि संविभागो कर्त्तव्यो । अथ दानि  
+उपाध्यायस्य वा आचार्यस्य वा पि(४४ब्४)ण्डपातको भवति । अयं च  
+पिण्डाय चरित्वा आगतो भवति । सहितकेहि परिभुञ्जितव्यं । लूहम् च  
+प्रणीतं च एकञ् च अपरं च । अथ दानि सो प्रणीतभोजनस्य महार्हस्य  
+पूरं पात्रं गृह्नियाणं आगच्छति । आह । उपाध्यायाचार्य परिभुञ्जाहि  
+न्ति(त्ति) । सुविहित कुतो इमं ति पृच्छितव्यो । यदि ताव आह ।  
+उपाध्यायाचार्य असुका(४४ब्५)ये चेटिकाये दिन्नं । असुकाये चण्डविधवाये  
+दिन्नं । असुकेन पण्डकेन दिन्नम्, । असुकाये स्थूलकुमारीये दिन्नं ।  
+असुकाये पापभिक्षुणीये दिन्नं । असुकायो पापश्रामणेरीये दिन्नं ।  
+वक्तव्यं सुविहित अप्रतिग्राह्यो एषो जनो मा भूयो एतेषां तेन  
+प्रतिगृह्नीहसि । अथ दानि आह । उपाध्यायाचार्य । असु(४४ब्६)कस्य(काये)  
+मे वाणिजस्य सार्थवाहस्य परिकथा कृता । बुद्धवचनं जल्पितं । तेन  
+मे एषो प्रसन्नेन आहारको दिन्नो वक्तव्यं सुविहित करोहि धूमं मा  
+च पुनः । आमिषचक्षुः । अथ दानि आह । (ज्।२०१) उपाध्यायाचार्य  
+भुञ्जाहि । यदि ताव परिभुञ्जितव्यं । अथ दानि न काङ्क्षति वक्तव्यं  
+सुविहित परिभु(ं)जाहि त्वं नाहं परिभुञ्जिष्यन् ति । यं कालं  
+उपाध्यायेन वा आ(४४ब्७)चार्येण वा अनुज्ञा दिन्ना भवति । ततो  
+परिभुञ्जितव्यं । यदि कोचि निमन्त्रेति । यदि अर्थिको भवति  
+प्रतिच्छितव्यं । अथ दानि पिण्डचारं अण्ठित्वा ततो एव नदीकुले वा  
+उदुपानकुले वा पुष्किरिणीकुले वा आहारं कृत्वा पात्रं निर्म्मादयित्वा  
+आगच्छति । अनापत्तिः । एवं पिण्डचारिकेन प्रतिपद्यितव्यं । न  
+प्रतिपद्यति (इइ।प्।५४) । आभिसमाचारिकान् धर्म्मान् अतिक्राम(४५अ१)ति ॥ * ॥  
+    
+     उद्दानं   
+              एवं निवासितव्यं ।  
+              एवं प्रावरितव्यं ।  
+              (एवं अन्तरगरं प्रविशन्तेन चीवरे प्रतिपद्यितव्यम्)  
+              एवं अन्तरघरे प्रविष्टेन चीवरे प्रतिपद्यितव्यं ।  
+              एवं पुरेश्रमणेन प्रतिपद्यितव्यं ।  
+              एवं पश्चाच्छ्रमणेन प्रतिपद्यितव्यं ।(ज्।२०२)  
+              एवं पिण्डपातहारकेन प्रतिपद्यितव्यं ।  
+              एवं नीहारपिण्डपातेन प्रतिपद्यितव्यं ।  
+              एवं पिण्डाय चरितव्यं ।  
+              एवं पिण्डचारिकेन प्रतिपद्यितव्यं ॥  
+    
+     षष्ठो वर्ग्गः ॥ * ॥  
+    
+     (यसुओ ंआट्शूणांई)
+
+विइ। १ म्स्।४५अ१ (ज्।२०३।१); छ्।५१२च्११  
+     (इइ।प्।५५) भगवान् श्रावत्यां वि(४५अ२)हरति विस्तरेन निदानं कृत्वा ते  
+दानि भिक्षू अन्धकारे प्रहाणे उपविंश(शं)ति । उक्खलन्ता  
+प्रक्खलन्ता एतं प्रकरणं । याव भगवान् आह । तेन हि दीपो नाम  
+कर्त्तव्यो । आयुष्मन्तो नन्दनोपनन्दना दीपवारिका ते दानि प्रहाणातो  
+उत्थिता चपेटिकाये दीपं निर्व्वापेन्ति । चीवरकोणेनापि निर्व्वापेन्ति ।  
+योगाचारा भिक्षू गन्धेन व्यावहन्ति । एव(त)म्प्रकरणं भिक्षू  
+भगवतो (४५अ३) आरोचयेंषु ।   
+     भगवान् आह । तेन हि एवं दीपे प्रतिपद्यितव्यं । किन् ति दानि एवं  
+प्रदीपे प्रतिपद्यितव्यं । एषो दानि सङ्घारामो पुरिमं पश्चिमं  
+प्रहाणं प्रतिजाग्रीयति । दीपचा(वा)रिका उद्दिशितव्या । एको वा द्वयो वा  
+यत्तकावा अभिसम्भुणन्ति नवकान्तेन वा पटिपाटिकाये वा यस्य वा  
+प्रापुणति । तेहि प्रकृत्येव ताव दीप(४५अ४)वर्त्तिकायो वर्त्तितव्यायो  
+दीपकोटिकानि सज्जयितव्यानि तैलं सज्जयितव्यं । अग्नि प्रतिजागृतव्यो ।  
+तुषेण वा कर्षेण वा गोमयपिण्डिका वा पटिपटिकाये स्थपेतव्या ।  
+यथानुपूर्व्वेण गच्छेय भक्तशालायां वा पटिपाटिकाये स्थपेतव्या  
+(ज्।२०४) दीपवारिकेन दीपम् आदीपेन्तेन प्रथमानम् एव भगवतो  
+शरीरकु(४५अ५)टिकायां दीपो आदीपितव्यो यदा चेतियं वन्दितं भवति ।  
+ततो निष्कासिय स्थपेतव्यो मा आदीनवं उत्पादयेष्या यं कालं  
+प्रहाणस्य जर्जरो आहतो भवति । यदि ताव सो द्विभूमिका सङ्घारामो  
+भवति । प्रथमं ताव सोपानमग्गुलीयेदीपको जालयितव्यो । चतुहि  
+प्रासादस्य कोणे कोणे दीपको प्र(४५अ६)ज्वालयितव्यः । वर्च्चकुटीयं  
+दीपको प्रज्वालयितव्यो । पश्चात् प्रहाणशालायां (इइ।प्।५६) दीपको  
+प्रज्वालयितव्यो । यं कालं भिक्षुसङ्घो प्रहाणे उपविष्टो भवति । ततो  
+दीपवारिकेन दीपको वारयितव्यो । मा तर्हि कोचि प्रचलायतीति । यदि ताव  
+कोचि प्रचलायति अच्छटिकं करिय उत्थापयितव्यो वक्तव्यं आयुष्मन तव  
+दीपो प्रापुणतीति । तेन (४५अ७)स चारयितव्योइमिना उपविशितव्यं । अथ  
+दानि भिक्षुस्य उपाध्यायो वा आचार्यो प्रचलायति । न क्षमति । सो  
+ऽध्युपेक्षितुं । अथ खलु सो पि अच्छटिकाये उपस्थपेतव्यो वक्तव्यं ।  
+उपाध्यायाचार्य तत्र दीपो प्रापुणतीति । आस त्वं आ(अ)हं चारयिष्यन् ति ।  
+तेन चारयितव्यो । (ज्।२०५) अथ दानि भिक्षु श्राद्धको भवति । आह ।  
+सुविदितआस त्वं । अहं,(४५ब्१) चारयिष्यन् ति । दातव्यो । नापि क्षमति । तेन  
+उपारम्भणाभिप्रायेण दीपो चारयितुं । तेहिदीपचा(वा)रिको(के)हिन  
+क्षमति । अघातो वा प्रवेदयितुम् । अथ खलु चित्तम् उत्पादयितव्यं  
+विनीवरणं नौ करेन्ति त्ति यं कालं प्रहाणस्य यथासुखं कृतं  
+भवति । ततो प्रहाणशालातो दीपको उक्कढितव्यो । नापि क्षमति ।  
+चपेटिकाथ(ये) वा मुखवातेन वा चीवरको(४५ब्२)णेन वा दीपं  
+निर्व्वापयन्त(तु)ं । अथ खलु तुलिकाये निस्नेहिय दीपवर्त्ति ओकड्ढिय  
+कुलिकातैले निर्व्वापयितव्यं । अथ दानि नवका भिक्षू प्रहाणशालायां  
+प्रतिक्रमन्ति । न क्षमति प्रहाणशालायां दीपं निर्व्वापयितव्यं । अथ  
+खलु बहि प्रासादकोणेहि दीपका निर्व्वापयितव्या । सोपानमग्गुलीयं  
+प्रासादकुटीयं दीपको निर्व्वापयितव्यो विभवो (४५ब्३) भवति । (इइ।प्।५७)  
+सर्व्वरात्रिं वर्च्चकुटीयञ् च प्रस्रावकुटीयं दीपको प्रज्वालयितव्यो ।  
+अथ दानि विभवो न भवति । यदा भिक्षू प्रतिक्रान्ता भवन्ति । ततो  
+वर्च्चकुटीयं दीपो निर्व्वापयितव्यो । वर्च्चकुटीयं निर्व्वापयित्वा  
+रच्छादीपो (ज्।२०६) निर्व्वापयितव्यो रच्छायां निर्व्वापयित्वा सोपानशीर्षे  
+निर्व्वापयितव्याः । सोपानशीर्षे निर्व्वा(४५ब्४)पयित्वा प्रहाणरो(शा)लायां  
+दीपो निर्व्वापयितव्यो । न दानि सहसाकारस्य अप्रतिसंविदित्वा  
+निर्व्वापेतव्या । अथ खलु आयुष्मन्तो प्रज्ञपेथ शय्यायो दीपं  
+गोपयिष्यन् ति । ततो हस्तेन ताव ओवारयितव्यो । ततो वक्तव्यं । मा  
+आयुष्मन् एषो निर्व्वापयिष्य ति । न दानि क्षमति । मुखवातेन वा  
+चीवरकोणेन वा चपेटि(४५ब्५)काय वा निर्व्वापयितुं । यदि दीपवर्त्ति ।  
+दग्धिका भवति । पलिखाटिर् व्वा ओकड्ढितव्यो निर्व्वापितो भवति । अग्नि  
+गोपयितव्यो । तुषेहि वा कर्षेहि वा बुषेन वा बुषिकायवा । यं कालं  
+पश्चिमे यामे प्रहाणस्य झर्ज्झरो आहतो भवति । ततो दीपवारिकेहि  
+सोपानमग्गुलीयं ताव दीपो प्रज्वालयितव्यो । नापि क्षमति  
+प्रहा(४५ब्६)णशालायां सहसा दीपकं प्रवेशयितुं । मा नवका भिक्षु  
+सहसा विप्रकट(म्) उत्थिहंस्न(सु) न्ति(त्ति) । अथ खलु वक्तव्यं ।  
+आयुष्मन्तं दीपो प्रवेशीयतीति । दीपो प्रवेशयति न्ति(त्ति) । यं कालं  
+प्रहाणस्य यथासुखं कृतं भवति । प्रहाणशालायान् ताव प्रथमं  
+दीपको निर्व्वापयितव्यो । अथ दानि नताव निर्भाति न क्षमति  
+निर्व्वापयितुं । यं कालं विभातं भवति (ज्।२०७) । आका(४५ब्७)शं कृतं  
+भवति । ततो वर्च्चकुटीये प्रस्रावकुटीये च दीपको (इइ।प्।५८)  
+निर्व्वापयितव्यो । तैलं शेषं भवति । साहरियाणं घटिकायां ना(वा)  
+भाजने वा स्थापयितव्यं । दीपकोटिकायो एकस्थाने स्थापयितव्या ।  
+दीपवर्त्तीयो निष्पेडियाणं एकं हि कोणके स्थापेतव्या । यो एवं  
+देवशिकं दीपो ज्वालयितव्यो । एवं दीपे प्रतिपद्यितव्यं । न  
+प्रतिपद्यति ॥ (४६अ१) आभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     विइ।२ म्स्।४६अ१ (ज्।२०७।७); छ्।५१३अ५  
+     भगवान् श्रावस्त्यां विहरति । ते दानि भिक्षुः प्रहाणे प्रचलायन्ति ।  
+एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु । भगवान् आह । तेन हि  
+यष्टी नाम चारयितव्या । यष्टीयं ताव भिक्षुणा कारापयमाणेन  
+अष्टहस्तायामेन कर्त्तव्या । मुष्टिमात्री स्थूलत्वेन उभयेहिं अन्तेहि  
+लोहकेन बन्धितव्या । नवकान्तेन वा पटिपाटिका(४६अ२)य वा यस्य वा  
+पुनः प्रापुणति एषा एवार्थोत्पत्तिः ॥ * ॥   
+     भगवान् श्रावस्त्यां विहरति । ते दानि आयुष्मन्तो षड्वर्ग्गिकाः । यष्टी  
+चारेन्तायो येच(व) भिक्षु प्रचलायति । तं येव क्षिप्राये यष्टीये उरे वा  
+आहनति पादे वा अ(आ)हनति ते दानि भिक्षु विहठियन्ता आरावं मुञ्चति।  
+आयुष्मं हतो स्मि हतो स्मीति । एतं प्रकरणं भिक्षू भगवतो  
+आरोचयेंसु । (ज्।२०८) भगवान् आह (४६अ३) तेन हि एवं यष्टीये  
+प्रतिपद्यितव्यं । किन् ति दानि एवं यष्टीये प्रतिपद्यितव्यं । यष्टी  
+कारयन्तेन कर्त्तव्यं । वंशस्य वा नलस्य वा नङ्ग्लस्य वा रोहिषस्य वा  
+दश-अष्टहस्तां दीर्घत्वेन उभयतो अग्रे योत्तखण्डेहि वेढयितव्या ।  
+नवकान्ततो चारेतव्या यष्टि दानि चारेन्तेन न दानि ओगुण्ठितशीर्षेण वा  
+चारेतव्या (इइ।प्।५९) ओहित(४६अ४)हस्तेन वा उपानहारूढेन वा यष्टि  
+चारेतव्या । अथ खलु एकांसीकृतेन चारयितव्या नायं ताव क्षमति  
+भिक्षुणा यष्टिं चारेन्तेन क्षिप्राये यष्टीये आहनितुं । नापि क्षमति  
+विहेठनाभिप्रायेण यष्टी चारयितुं । अथ खलु मैत्रचित्तेन  
+यष्टा(ष्टी) चारयितव्या । वृद्धान्ततो नवकान्तं । एते दानि भिक्षुः  
+प्रचलायन्ति नापि क्षमति अ(४६अ५)ध्युपेक्षितुम्, । नापि क्षमति क्षिप्राये  
+यष्टीये आहनितुं । रजग्[व्]अस्म विय । अथ खलु पार्श्वे स्थित्वा त्रिक्खत्तो  
+पुरतो यष्टि कारयितव्या । यदि न बुध्यति । अच्छटिका कर्त्तव्या । यदि  
+वामेन स्थितको भवति । दक्षिणेन जानुकेहि सङ्घट्टेतव्यो । यदि  
+दक्षिणतो स्थितो भवति । वामजानुकेन तेन च्छन्ति(त्ति) ।  
+प्रत्युपस्थितव्यं । घटि(४६अ६)तव्या उत्थापियाणं वक्तव्यं आयुष्मन्  
+तव यष्टि प्रापुणति । चारेहि तेन चारेतव्यं । इमिना उपविशितव्यं । न  
+दानि क्शमति । ओगुण्ठितशीर्षेण वा ॥ पे ॥ याव अथ खलु (ज्।२०९)  
+एकांसीकृतेन चीवरं कृत्वा गृह्नितव्यं । तेन चारेतव्यं । अथ दानि बहु  
+प्रचालयन्ति । न दानि ते सर्व्वे वलीवन्दा विय उत्थपेतव्या । यो तत्र  
+नवकतरो भवति । तस्य यष्टी दातव्या । (४६अ७) अथ दानि भिक्षु  
+उपाध्यायाचार्या प्रचलायन्ति न क्षमति अध्युपेक्षितुम्, । अथ खलु  
+अच्छटिकाये उत्थापियाणं वक्तव्यं उपाध्यायाचार्य तव यष्टी  
+प्रापुणति तेन धर्म्मगौरवेण प्रत्युत्थाय गृहीतव्यं न क्षमति  
+यष्टी तस्य दातुं । अथ खलु वक्तव्यं । आस त्वं । अहं चारयिष्य  
+ते(ति) । न येव यष्टी चारेतव्यं । न दानि तेन ओतारप्रेक्षिणा चारेतव्या ।  
+अथ ख(४६ब्१)लु षडाय(त)न मनसिकरेन्तेन (इइ।प्।६०) चारेतव्या यदि कोचि  
+प्रचालयति तस्य दातव्या । ते पि दानि तहिं न आघातो बन्धितव्यो । अथ  
+खलु चिन्तेतव्यं । बहुकरो एषो अस्माकं चि(वि)नीवरणं करोति । तेन  
+ताव चारेतव्या । अथ दानि श्रद्धको भिक्षुर् भवति । आह । सगोत्रीमाता  
+आस त्वं । अहं चारयिष्यामि । दातव्या एवं ताव चारेतव्यं । याव  
+प्रहाणस्य यथासुखं कृ(४६ब्२)तं भवति नापि क्षमति तेहि भिक्षूहि  
+यष्टी चारे(ज्।२१०)न्तेहि चित्तं प्रदूषित(तु)ं । अथ खलु चित्तम्  
+उत्पादयितव्यं । विनिवरणं मे करेन्तीति । एवं यष्टीयं  
+प्रतिपद्यितव्यं । न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥   
+    
+     विइ।३ म्स्।४६ब्२। (ज्।२१०।४); छ्।५१३अ२४  
+     भगवान् श्रावस्त्याम् विहरति । विस्तरेण निदानं कृत्वा ते दानि  
+भिक्षुं(क्षू)प्रहाणस्मिं यष्टिं चारयन्ताशीतेन किलम्मति । एतं  
+प्रकरणं भिक्षू भगव(४६ब्३)तो आरोचयेंसु । भगवान् आह । तेन हि  
+गेण्डुकं नाम कर्त्तव्यो । गेण्डुकं दानि भिक्षुणा कारापयमाणेन  
+कारापयितव्यो । तृणानाम् वा पलालानाम् वा लेङ्क(ट)कखण्डकानाम् वा  
+सूत्रस्य वा उलाय वा बाह्येनपणेन नत्तकेन वेष्टयित्वा सूत्रकेन  
+वेष्टयितव्यो । नापि क्षमति । खक्खटं कर्त्तुं नापि क्षमति ।  
+अति[शिथिलं ।] अथ खलु (४६ब्४) तादृशो कर्त्तव्यो । यो भूमीयं आपिटितो  
+युगमात्रं उप्पटतिसो चारयितव्यो । नवकान्तेन वा पटिपाटिकाय वा  
+यस्य वा पुन प्रापुणति । एषा एवार्थोत्पत्तिः ॥ * ॥  
+     (ज्।२११) भगवान् श्रावस्त्याम् विहरति । ते दानि आयुष्मन्तो षड्वर्ग्गिकाः ।  
+गेण्डुकं चारयन्ता इष्टखण्डं लेङ्क(इइ।प्।६१)टकखण्डेन वेष्टयित्वा  
+चारेन्ति । यो येव प्रचालयति । तम्, (४६ब्५) येवक्षिप्रेण गेण्डुकेन उरसि वा  
+ताण्डेति । पार्श्वस्मि वा आहनन्ति । ते दानि भिक्षू विहेठयमाना आरावं  
+मुञ्चन्ति । आयुष्मन हतो स्मि हतो स्मि । एतं प्रकरणं भिक्षू  
+भगवतो आरोचयेंसु । नापि क्षमति । आघातचित्तेन वा दुष्टचित्तेन वा  
+गेण्डुकां चारयितुम्, । अथ खलु मैत्रचित्तेन हितचित्तेन गेण्डुको  
+चरितव्यो । नापि (४६ब्६) क्षमति । गेण्डुकं चारयन्तस्य चित्तं  
+प्रदूषयितुं । अथ खलु चित्तं प्रगोपयितव्यं । विनीवरणं सो करेन्ति  
+त्ति । एषो दानि भिक्षुः प्रचालयति । न क्षमति क्षिप्रेण गेण्डुकेन  
+आहनितुं । अथ खलु भूयो गेण्डुकम् आस्थपयित्वा अच्छटिकाये  
+उत्थापयितव्यो । वक्तव्यं आयुष्मान् तव गेण्डुकोप्रापुणति । उत्थेहि  
+चारेहि न्ति(त्ति) । इमेन चारयितव्यो इमेन (ज्।२१२) उप(४६ब्७)विशितव्यं । अथ  
+दानि भिक्षुस्य । उपाध्यायो वा आचार्यो वा प्रचालयति । न क्षमति । सो पि  
+अध्युपेक्षितुं । अथ खलु त्रयो वा वारा गेण्डुकां पुरतो  
+अभामयित्वाच्छटिकाये उत्थापयितव्यो । वक्तव्यं उपाध्यायाचार्य तव  
+गेण्डुको प्रापुणति । तेनापि दानि धर्म्मगौरवेण प्रत्युत्थाय पुणोति ।  
+निषीदितव्यं । न दानि तेन ओतारप्रेक्षिणा आसितव्यं । अथ ख(४७अ१)लु  
+षडायतनं मनसिकरेन्तेन आसितव्यं । अथ दानि आह । आश तुमं अहं  
+चारयिष्यन् ति । तेन येच(व) चारयितव्यो । अथ दानि श्राद्धको भिक्षुर्  
+भवति । आह सगोत्रीमाता आस त्वं अहं चारयिष्यन् ति । दातव्यं । एवं  
+ताव चारयितव्यो । याव (इइ।प्।६२) प्रहाणस्य यथासुखं कृतं भवति । न  
+क्षमति सो गेण्डुको अध्युपेक्षितुं । पाटितविपाटिता । अथ खलु कालेन  
+कालं सिञ्चयितव्यो । का(४७अ२)लेन [कालं प्रक्षालितव्यो । एवं गेण्डुके]  
+[प्रतिप]द्यितव्यं । न प्रतिपद्यति । आभिसमाचारिकान् धर्म्मान्  
+अतिक्राम्ति ॥ * ॥  
+    
+     विइ।४ म्स्।४७अ२ (ज्।२१२।१४); छ्। ५१३ब्१७  
+     भगवान् श्रावस्त्याम् विहरति विस्तरेण निदानं कृत्वा ते दानि  
+आयुष्मन्तो षड्वर्ग्गिकाः प्रहाण आगता समाना स्कन्धातो निषीदनं ।  
+(ज्।२१३) ओतारियाणं कोणे कोणे गृहीत्वा वट-वट न्ति(त्ति) । प्रस्फोटयित्वा  
+प्रज्ञपयित्वा निषदन्ति । य(म्) कालं प्रहाणस्य यथा(४७अ३)सुखं कृतं  
+[भवति] । ततो निषीदनं कोणे कोणे गृहीत्वा वड-वडा न्ति(त्ति) प्रस्फोटिय  
+साहरित्वा स्कन्धे कृत्वा गच्छन्ति । योगाचारां भिक्षुं शब्देन  
+व्याहर(वह)न्ति । एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु ।   
+     भगवान् आह । तेन हि एवं निषीदने प्रतिपद्यितव्यं । किन् ति दानि एवं  
+निषीदने प्रतिपद्यितव्यं । नायं ताव क्षमति । भिक्षुणा प्रहाणं  
+(४७अ४) ओकस्तेन निषीदनं [कोणे कोणे] गृहीत्वा वड-वडा न्ति(त्ति) ।  
+प्रस्फोटयितुं । अथ खलु विहारके वा बाह्यतो वा निषीदन  
+प्रस्फोटयाणं द्विगुणं कृत्वा प्रहाणं ओकसितव्यं । आत्मनो  
+प्रतिसन्धिस्मि सुखाकं निषीदनकं पीठके प्रज्ञपयितव्यं । तथा  
+कर्त्तव्यं यथा आनन्तरिकं न व्यावहति । नापि क्षमति यथासुखे कृते  
+उत्थिय निषीदनं (४७अ५) कोणे कोणे गृहीत्वा चट-चट न्ति(त्ति)  
+प्रफोटयितुं । अथ खलु सुखाकं उत्थित्वा द्विगुणीकृत्वा (इइ।प्।६३)  
+स्कन्धे कृत्वा च गन्तव्यं । अथ दानि भिक्षुः पश्यति द्वितीये प्रहाणे ।  
+अवीतकं भविष्यतीति । रात्रिञ् च शय्यासनं (ज्।२१४) यथाप्रज्ञप्तकं  
+आसति नापि क्षमति निषीदनं यथाप्रज्ञप्तकं कृत्वा गन्तुं । अथ खलु  
+यथाखलु प्रज्ञप्तकं द्विगुणीकृत्वा ततो गन्तव्यं (४७अ६) द्वितीयस्य  
+प्रहाणस्य जर्जरे आगते ओतरितव्यं । नापि क्षमति प्रहाणं ओकस्तेन  
+निषीदनं कोणे कोणे गृहीत्वा वड-वडा न्ति(त्ति) । प्रस्फोटयितुं । अथ  
+खलु यथा साहटस्य निषीदनस्य द्वितीयो अन्तो उद्वेलिय प्रज्ञपयितव्यो ।  
+ततो निषीदितव्यं । नापि क्षमति । प्रहाणस्य यथासुखे कृते  
+निषीदनकं कोणे कोणे गृहीत्वा वड-वडा न्ति(त्ति) । प्रस्फोटयितुम्, । अथ  
+(४७अ७) खलु सम्प्रजानं साहरित्वा स्कन्धं कृत्वा गन्तव्यं । नापि  
+क्षमति । निषीदनं अध्युपेक्षितुं । ओमयिलोमयिलं पाटितविपाटितं ।  
+अथ खलु कालेन कालं धोवितव्यं । कालेन कालं सिञ्चितव्यं । एवं  
+निषीदने प्रतिपद्यितव्यं । न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥  
+    
+     विइ।५ म्स्।४७अ७ (ज्।२१४।१२); छ्। ५१३ब्८  
+     भगवान् श्रावस्त्यां विहरति । ते दानि आयुष्मन्तो षड्वर्ग्गिकाः ।  
+प्रहाण ओ(क)स्त(४७ब्१)काः । समाना आसनेहि उपविशियाणं उपानहा  
+निक्खासिय एक पि एकेन हस्तेन पार्ष्णिकावद्ध्रकस्मि गृहीत्वा द्वितीयं  
+(ज्।२१५) द्वितीयेन हस्तेन पार्ष्णिकावद्ध्रकं गृहीत्वा चट-चट न्ति(त्ति)  
+प्रस्फोटन्ति योगाचारां भिक्षूं शब्देन व्यावहन्ति । एतं प्रकरणं  
+भिक्षू भगवतो आरोचयेंसु ।   
+     भगवान् आह । तेन हि एवं उपानहाये प्रतिपद्यितव्यं । किन् ति दानि  
+एवं उपानहाये प्र(४७ब्२)तिपद्यितव्यं । नायं (इइ।प्।६४) ताव क्षमति  
+भिक्षुणा प्रहाण उपविष्टेन उपानहा निक्खोसियएकम् पि एकेन हस्तेन  
+पार्ष्णिवद्ध्रके गृह्निय द्वितीयं द्वितीयेन हस्तेन पार्ष्णिवद्ध्रके  
+गृह्निय चट-चट न्ति(त्ति) प्रस्फोटयितुं । अथ खलु भिक्षुणा  
+प्रतिकृत्येव ताव पादधोवनिकाये उपानहायो पोच्छिय प्रहाणस्य जर्जरे  
+ओतरितव्यं । यदि ताव प्रहाणशालायां भूम्यस्तारो कृतको भवति ।  
+(४७ब्३) न क्षमति सोपानहेन पादेन प्रहाणं उपविशितुं । अथ खलु  
+उपानहिकायो द्वारमूले निक्खासिय प्रविशित्वा वृद्धान्ते अञ्जलिं कृत्वा  
+यथावृद्धिकाये उपविशितव्यं । अथ दानि भिक्षु पश्यति । अनेकायो  
+उपानहिकायो मूषिकेन वा खज्जेंसु । भिक्षू वा जानन्तो वा अजानन्तो वा  
+गृहीत्वा गच्छेयन्ति किं कर्त्तव्यं सम्पुटिकरियाणं वामकेन  
+ह(४७ब्४)स्तेन गृह्निय निकुटितकेन ओसारयित्वा सम्प्रजानं गृह्नियाणं  
+गन्तव्यं । प्रतिसन्धिस्मि तथा येव सम्पुटिकृतिकायो आसनस्य हेष्ठे  
+स्थपितव्यायो स्थपित्वा प्रहाणम् उपविशितव्यं । यं कालं प्रहाणस्य  
+यथासुखं कृ(तम्) भवति । भिक्षुणा उपस्थपित्वा उपानहायो तथा  
+येव सम्पुटीकृतिकायो (ज्।२१६) गृहीत्वा निकुटितकेन वामाबाहां ओसारिय  
+सम्प्रजानं निर्द्धा(४७ब्५)वितव्यं । अथ दानि अकृतो भूमि-अस्तारो भवति  
+स-उपानहेन प्रहाणशालां प्रविशितव्यं । वृद्धान्ते उपानहायो  
+पार्ष्णिवद्ध्(र्)अके ओसारिय प्रणामं कर्त्तव्यं । अभिनिकुटितकेन  
+प्राञ्जलीकृतेन गन्तव्यं । यावत् प्रतिसन्धिनिषीदनं प्रज्ञपयित्वा  
+उपानहायो निक्खासित्वा पर्यङ्केन निषीदितव्यं । प्रहाणस्य यथासुखे  
+कृते आगमयितव्यं । भिक्षुणा (४७ब्६) याव वृद्धतरका निर्द्धाविता  
+पश्चाद् उत्थयित्वा उपानहायो आबन्धिय गन्तव्यं । अथ दानि (इइ।प्।६५)  
+वृद्धतरका आसन्ति । भिक्षू च आगन्तुकामो भवति । उपानहायो  
+आबन्धिय नवकान्ते सम्प्रजानं गन्तव्यम्, । नापि क्षमति सङ्घमध्ये  
+भक्ताग्रे तपर्पणाग्रे वा समीचीयं वा स-उपानहेन निषीदितुं । नापि  
+क्षमति । उपाध्यायस्य वा आचार्यस्य वा अग्रतो स-उपानहेन निषीदितुं ।  
+अथ ख(४७ब्७)लु उपानहिकायो निक्खासियाणं प्रणामं कृत्वा  
+उपविशितव्यं । अथ दानि भिक्षु ग्लानो भवति किञ् चापि स-उपानहो  
+उपाध्यायस्य वा आचार्यस्य वा मूले उपविशति । अनापत्तिः । नापि क्षमति  
+भिक्षुणा पादां धोवन्तेन उपानहायो वड-वड न्ति(त्ति) प्रस्फोटयितुं ।  
+अथ दानि भिक्षुः । अध्वानम् आगतो भवति । उपानहायो च पांसुना  
+ओपूरिता भवन्ति । नदीकूले वा पुष्किरिणीकूले वा (४८अ१; ज्।२१७) पादं  
+धोविय प्रस्फोटेति । अनापत्तिः । त पि दानि न क्षमति । वृद्धतरकस्य  
+वा अनुवातं प्रस्फोटयितव्यं । नापि क्षमति उपनहा अध्युपेक्षितुं ।  
+ओद्रिण्णका वा पलुग्गका वा । अथ खलु कालेन कालं घटयितव्यं ।  
+कालेन कालं प्रत्यग्रलका दातव्याः । एवं उपानहाये प्रतिपद्यितव्यं ।  
+न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥   
+    
+     विइ।६ म्स्।४८अ१ (ज्। २१७।६); छ्। ५१३ब्२५  
+     भगवान् श्रावस्त्यां विह(४८अ२)रति । ते दानि आयुष्मन्तो षड्वर्ग्गिकाः  
+प्रहाणं उपविष्टाः । औद्धत्याभिप्राया मुक्तेहि पार्श्वेहि । खल-खल  
+न्ति(त्ति) कासन्ति । योगाचारां भिक्षुं शब्देन व्यावहन्ति । एतं प्रकरणं  
+भिक्षू भगवतो आरोचयेंसुः ।   
+     (इइ।प्।६६) भगवान् आह । तेन हि एवं कासितव्यं । किन् ति दानि एवं  
+कासितव्यं । नायं क्षमति भिक्षुणा प्रहाणम् उपविष्टेन  
+औद्धत्याभिप्रायेण मुक्तेहि पार्श्वेहि खुलु-खुलु न्ति(त्ति) कासितुम्, । अथ  
+(४८अ३) दानि भिक्षुस्य कासो आगच्छति । हस्तेन ग्रीवा परिमर्दितव्या । अथ  
+दानि न पारेति विनोदयितुं सम्प्रजानकं कासयितव्यं । अथ दानि भूयो  
+भूयो काशो (ज्।२१८) आगच्छति । बाहिरतो निर्द्धापिय कासितव्यं ।  
+प्रहाणस्य वा आमन्त्रिय गन्तव्यं । नापि क्षमति भक्ताग्रे वा  
+तर्पणाग्रे वा सामायिकाये वा औद्धत्याभिप्रायेण मुक्तेहि पार्श्वेहि ।  
+ख-ख-ख (४८अ४) न्ति(त्ति) कासितुं । अथ दानि भिक्षुस्य कासिका आगच्छति ।  
+सम्प्रजानं कासितव्यं । अथ दानि भूयो भूयो उक्कासिका आगच्छति ।  
+अन्तरिको वक्तव्यो । आयुष्मन् मम ताव पिण्डपातं उक्कड्ढेति(सि) ।  
+तथा(तो) गन्तव्यं । नापि क्षमति धर्म्मश्रवणिकेन उपविष्टे  
+औद्धत्याभिप्रायेण मुक्तेहि पार्श्वेहि ख न्ति(त्ति) काशितुं । अथ दानि  
+भिक्षुस्य कासो आगतो भवति । (४८अ५) ग्रीवा मर्दितव्या । अथ दानि न  
+पारेति विनोदयितुम्, । सम्प्रजानं कासितव्यं । अथ दानि पुनो पुनो  
+कासावीयति । धर्म्मश्रवणस्य आमन्त्रिय गन्तव्यं । नापि क्षमति ।  
+उपाध्यायस्य वा आचार्यस्य वा अग्रतो वृद्धतरकानां वा  
+औद्धत्याभिप्रायेण मुक्तेहि पार्श्वेहि ख-ख-ख न्ति(त्ति) कासितुं । अथ  
+दानि भिक्षुस्य उक्कासिका आगच्छति । सम्प्रजानं कासितव्यं (४८अ६)  
+एकतमन्ते आगच्छिय कासितव्यं । एवं कासे प्रतिपद्यितव्यं । न  
+प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+     विइ।७ म्स्।४८अ६ (ज्। २१८।१६); छ्। ५१३च्३  
+     भगवान् श्रावस्त्यां विहरति । ते दानि आयुष्मन्तो (इइ।प्।६७) षड्वर्ग्गिकाः  
+प्रहाणं उपविष्टाः । औद्धत्याभिप्रायाः कुलिकाये नक्कं विज्झन्ति ।  
+सूत्रकं पि वट्टियाणं नक्के प्रक्षिपन्ति । ते दानि सर्व्वेण कण्ठेन  
+हच्छीयन्ति । ते (ज्।२१९) दानि योगाचारां भिक्षूं शब्देन व्यावहन्ति । एतं  
+प्रक(४८अ७)रणं भिक्षू भगवतो आरोचयेंसु ।   
+     भगवान् आह । तेन हि एवं क्षिपितव्यं । किन् ति दानि एवं  
+क्ष(क्षि)पितव्यं । नायं ताव क्षमति । भिक्षुणा प्रहाणं उपविष्टेन  
+औद्धत्याभिप्रायेण तुलिकाय वा नक्कं विज्झितुं । सूत्रं वट्टिय  
+नक्कस्मिन् प्रक्षिपितुम्, । नापि क्षमति । सर्व्वेण कण्ठेन हा न्ति(त्ति)  
+क्षिपितुं ॥ अथ दानि भिक्षुस्य अनाभोगेन क्षीविका आगच्छति  
+विनोदयितव्यं । निरालं परिमर्दितव्यं । नक्का वा (४८ब्१)  
+परिमर्दितव्या । अथ दानि न पारेति विनोदयितुं । सम्प्रजानं  
+क्षीवयितव्यं । यथा अनन्तरिकस्य न व्यावहेय्या । खेटेन वा  
+सिङ्घाणकेन वा । अथ दानि पुनो पुनो क्षीविका आगच्छति प्रहाणस्य  
+आमन्त्रिय गन्तव्यं । नायं ताव क्षमति भिक्षुणा भक्ताग्रे वा  
+तर्पणाग्रे वा उपविष्टेन औद्धत्या(भि)प्रायेण सर्व्वेण कण्ठे(न)  
+क्षीवितुं । अथ दानि भिक्षुस्य क्षीविका आगच्छति । विनोदयितव्या ।  
+अ(४८ब्२)थ दानि न पारेति विनोदयितुं । सम्प्रजानं क्षीवितव्यं । यथा  
+आनन्तरिकस्य न व्यावहेय्या । खेटेना(न वा) सिंहाणकेन वा । अथ  
+दानि भिक्षुस्य पुनो (ज्।२२०) पुनो क्षीविका आगच्छति । आनन्तरिकस्य  
+वक्तव्यं । आयुष्मं मम पिण्डपातम् उक्कड्ढेसि ततो गन्तव्यं । नापि  
+क्षमति । धर्म्मश्रवणे (इइ।प्।६८) सर्व्वेण कण्ठेन क्षीवितुम्, । अथ  
+दानि भिक्षुस्य क्षीविका आगच्छति विनोदयितव्यं । अथ दानि (४८ब्३) न  
+पारेति विनोदयितुं । सम्प्रजानं क्षीवितव्यं । अथ दानि भिक्षुस्य पुनो  
+पुनो क्षिविका आगच्छति । धर्म्मश्रवणस्य आमन्त्रिय गन्तव्यम्, । नापि  
+क्षमति सामायिकायाम् वा । उपाध्यायाचार्याणाम् वृद्धतरकानां वा  
+अग्रतो औद्धत्याभिप्रायेण सर्व्वेण कण्ठेन क्षीवितुं । अथ दानि  
+भिक्षुस्य क्षीविका आगच्छति विनोदयितव्यं । अथ दानि न पारेति  
+वि(४८ब्४)नोदयितुं । एकमते गच्छिय क्षीवितव्यं । यदि ताव कोचि क्षीवति ।  
+न दानि वक्तव्यं । जीव ति । अथ खलु यदि वृद्धतरको भवति ।  
+वक्तव्यं । वन्दामि त्ति । अथ दानि नवको क्षीवति । आरोचेति वक्तव्यं ।  
+एवं क्षिवितव्यं । न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥  
+    
+     विइ।८ म्स्।४८ब्४ (ज्। २२०।१३); छ्। ५१३च्२०  
+     भगवान् श्रावस्त्याम् विहरति । ते दानि आयुष्मन्तो षड्वर्ग्गिकाः  
+प्रहाणम् उ(४८ब्५)पविष्टाः समाना शर्करायं पि श(क)लिकायं पि अङ्गं  
+खरकच-खरकच न्ति(त्ति) क[ण्डू]यन्ति । योगाचा(रा)न् भिक्षून् शब्देन  
+व्यावहन्ति । एतं प्रकरणं भिक्षू भगवतो आरोचयेंसु । (ज्। २२१)  
+     भगवान् आह । तेन हि एवं स(क)न्दूषितव्यं । किन् ति दानि एवं  
+(कं)दूषितव्यं । न क्षमति भिक्षुणा प्रहाण उपविष्टेन  
+औद्धत्याभिप्रायेण शर्कराये वा अङ्गं खरकच-(इइ।प्।६९) खरकच  
+न्ति(त्ति) कण्डूयितुं । अ(४८ब्६)थ च दानि भिक्षु प्रहाणं उपविष्टको  
+खज्जति । अङ्गुष्ठोदरेण वा हस्ततलेन वा सुखाकं । उच्चट्टयितव्यं ।  
+अथ दानि भूयो भूयो खज्जति खज्जनको भवति प्रहाणस्यामन्त्रिय  
+गन्तव्यं । नापि क्षमति । भिक्षुणा भक्ताग्रे वा । तर्पणाग्रे वा  
+समावापि(यि)कानां वा औद्धत्याभिप्रायेण सङ्कलिकाय वा शर्क्करकाय  
+वा खरकच-खरकच न्ति(त्ति) कण्डूयितुं । अथ दानि भिक्षु भक्ताग्रे  
+वा तर्प(४८ब्७)णाग्रे वा उपविष्टको भवति । कोचि [षो] प्रदेशो खज्जति ।  
+हस्तावसे कल्पिया भवन्ति । किञ् चापि भिक्षुः कुलिकाय वा काष्ठग[ते]न  
+वा सकलिकाय वा कण्डूयति । अनापत्तिः । तं पि तथा दानि कण्डूयितव्यं ।  
+यथा आनन्तर्यकं शब्देन (न) व्यावहति । अथ दानि भिक्षुः  
+स(ख)ज्जनको भवति । पुनो पुनो कण्डूयति । आनन्तरिकस्य पात्रं  
+दातव्यं । आयुष्मन् मम पिण्डपातं उक्कढेसि । त(४९अ१)तो गन्तव्यं ।  
+न क्षमति । उपाध्यायाचार्याणां वृद्धतरकाणां वा अग्रतो  
+औद्धत्याभिप्रायेण अङ्गं खरकच-खरकच न्ति(त्ति) (ज्।२२२)  
+कण्डूयितुं । नापि क्षमति ओसरिय इन्द्रियाणि वुक्तन्ति कण्डूयितुं । अथ  
+दानि भिक्षुस्य कोचि प्रदेशो खज्जति । अङ्गुष्ठोदा(द)रेण वा हस्ततलेन  
+वा परिमर्द्दितव्यं । अथ दानि (न) पारेति विनोदयितुं । पुनः पुनः  
+खनति । एकतमन्ते गच्छिय कण्डूयितव्यं । एवं कण्डूये (४९अ२)  
+प्रतिपद्यितव्यं । न प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान्  
+अतिक्रामति ॥ * ॥   
+    
+     (इइ।प्।७०) विइ।९ म्स्।४९अ२ (ज्। २२२।६); छ्। ५१३च्११  
+     भगवान् श्रावस्त्यां विहरति । ते दानि आयुष्मन्तो षड्वर्ग्गिकाः  
+प्रहाणम् उपविष्टाः । औद्धत्याभिप्राया जम्भयन्ति । अङ्गानि  
+भञ्जयन्ति । पट-पटाव फोडेन्ति । अमडं मडमडं यथा सीहा वा  
+व्याघ्रा वा । एवं जम्भयन्ति । योगाचारां भिक्षून् शब्देन व्यावहन्ति ।  
+एतं प्रकरणं भिक्षू भगवतो आ(४९अ३)रोचयेंसु ।   
+     भगवान् आह । तेन हि एवं जम्भयितव्यं । किन् ति दानि एवं  
+जम्भयितव्यं । नायं ताव क्षमति भिक्षुणा प्रहाणम् उपविष्टेन  
+औद्धत्याभिप्रायेण ओसरित्वा इन्द्रियाणि मटमट अङ्गा(नि) भञ्जन्तेन  
+यथा सीहेन वा व्याघ्रेण वा उन्नदन्तेन एवं भञ्जयितव्यं । अथ  
+दानि भिक्षुस्य प्रहाणम् उपविष्टस्य विजृम्भिका आगच्छति । न दानि  
+अङ्गानि टट्ट-टट्ट न्ति(त्ति) (४९अ४) फोटन्तेन (ज्।२२३) मुखं विवरित्वा  
+जम्भयितव्यं । विनोदेतव्या निललाटम् वा परिमर्दितव्यं । नासा वा  
+परिमर्दितव्या अथ दानि न पारेति विनोदयितुं । सम्प्रजानं मुखं  
+पिथित्वा जम्भयितव्यं । तथा कर्त्तव्यं यथानन्तरिकं शब्देन न  
+व्यावहति । अथ दानि भिक्षुस्य विजृम्भिका पुनो पुनो आगच्छति  
+निर्द्धाविय विजृम्भितव्यं । प्रहाणस्य वा आमन्त्रिय गन्तव्यम्, । (४९अ५)  
+नापि क्षमति प्रहाणम् उपविष्टकेन मट-मटाय अङ्गानि भञ्जितुम्, ।  
+अथ दानि भिक्षुस्य अङ्गानि दुःखायन्ति । एका ताव बाहा सुखाकं  
+प्रसारयितव्या यं कालं विश्रान्तो भवति । (इइ।प्।७१) तां सन्मिञ्जिय  
+द्वितीया सुखाकं प्रसारयितव्या । एको पादो सुखाकं प्रसारयितव्यो ।  
+तं सन्मिञ्जिय द्वितीयो सुखाकं प्रसारयितव्यो । न क्षमति भिक्षुणा  
+भक्ताग्रे वा त(४९अ६)र्पणाग्रे वा सामायिकं वा धर्म्मश्रवणे वा  
+अङ्गानि भ(ं)जन्तेन विजृम्भयितुं । अथ दानि भिक्षुस्य विजृम्भिका  
+आगच्छति । यदि चीवरचीर्ण्ण(कोण)केन मुखं पिधिय सुखाकं  
+विजृम्भितव्यं । अथ दानि भिक्षुस्य विजृम्भिका पुनो पुनो आगच्छति ।  
+यदि ताव भक्ताग्रे वा उपविष्टको भवति । अनन्तरिकस्य पात्रं दत्वा  
+गन्तव्यं । धर्म्मश्रवणेन वा उपविष्टको भवति ।  
+धर्म्मश्रवणस्य आमन्त्रि(४९अ७)य गन्तव्यं । नापि क्षमति भिक्षुणा  
+गोचरं वा प्रविशन्तेन अन्तरघरं (ज्।२२४) (वा) प्रविष्टेन  
+मट-मटाये अङ्गानि भ(ं)जन्तेन विजृम्भितुं । अथ दानि भिक्षुस्य  
+भूयो भूयो विजृम्भिका आगच्छति चीवरकोणेन मुखं पिधिय  
+सम्प्रजानेन विजृम्[भायि]तव्यं । अथ दानि भिक्षुस्य अन्तरघरे वा  
+उपविष्टस्य पुनो पुनो विजृम्भिका आगच्छति । उत्थिय गन्तव्यं । न  
+क्षमति । उपाध्यायाचार्याणां वृद्धतरकानाम्, (४९ब्१) वा अग्रतो  
+मट-मटाये अङ्गानि भञ्जन्तेन विजृम्भितुं । अथ दानि भिक्षुस्य  
+विजृम्भिका आगच्छति । एकमतं गत्वा एवं विजृम्भितव्यं । न  
+प्रतिपद्यति ॥ आभिसमाचारिकान् धर्म्मान् अतिक्रामति ॥ * ॥  
+    
+     विइ।१० म्स्।४९ब्१ (ज्। २२४।९); छ्। ५१३च्२६  
+     भगवान् सम्यक्सम्बुद्धो यदर्थं समुदागतो तदर्थम्  
+अभिसम्भावयित्वा श्रावस्त्यां विहरति शास्ता देवानाञ् च मनुष्याणाञ् च  
+सत्कृतो गुरुकृतो मानितः पू(४९ब्२)जितः । (इइ।प्।७२) अपचायितो  
+लाभाग्रयशोग्रप्राप्तो लाभी  
+चीवरपिण्डपातशय्यासनग्लानप्रत्ययभैषज्यपरिष्काराणां तत्[र] च  
+अनुपलिप्तः पद्मम् इव जलेन पुण्यभागियां सत्वां पुण्येहि  
+निवेशयमानो फलभागियान् सत्वां फलेहि प्रतिष्ठापयमानो  
+वासनाभागीयान् सत्वान वासनायाम् अवस्थापयमाणो अमृतम्  
+अनल्पकेन देवमनुष्यां संविभजन्तो प्राणिकोटी (ज्।२२५)  
+नि(४९ब्३)युतशतसहस्राणि अमृतम् अनुप्रापयन्तो  
+अनवराग्रजातिजरामरणसंसारकान्तारनरकविदुर्ग्गान् महाप्रपाततो  
+अभ्युद्धरित्वा क्षेमे समे शिवे स्थले अभये निर्व्वाणे  
+प्रतिष्ठापयमानो आवर्जयित्वा  
+अङ्ग-मगध-मल्ली-वर्जि-कासि-कोशल-कुरु-पञ्चल-चेति-वत्स-मत्स-शूरसे  
+न-शिवि-दशार्ण्ण-अश्वकि-अवन्ति ज्ञाने दृष्टपराक्र(४९ब्४)मो स्वयम्भू  
+दिव्येहि विहारेहि ब्राह्मेहि विहारेहि आर्येहि विहारेहि आनिञ्ज्येहि विहारेहि  
+सातत्येहि विहारेहि बुद्धो बुद्धविहारेहि जिनो जिनविहारेहि । जानको  
+जानकविहारेहि सर्व्वज्ञो सर्व्वज्ञविहारेहि चेतोवशिपरमपारमिप्राप्ता  
+पुनर् ब्बुद्धा भगवन्तो येहि येहि विहारेहि आकाङ्क्षन्ति तेहि तेहि  
+विहारेहि विहरन्ति ।   
+     ते दा(४९ब्५)नि आयुष्मन्तो षड्वर्ग्गिकाः । औद्धत्याभिप्रायेण  
+श्वेतमयेन सक्तुकां कुल्मासां च मर्दियाणं आतपे शोषयन्ति । यं  
+कालं शुष्का भवन्ति । ततो श्वेतमयेन येव खादन्ति । बिल्वानि  
+खादन्ति । स्वातकोपनतानि फलानि खादन्ति । कलापा(यं वा)  
+सतिलपल्लवं खादन्ति । यं कालं प्रहाणस्य जर्जरो आहतो भवति । ततो  
+प्रहाणशालां गच्छिय चतुर्द्दिशं (४९ब्६) निषीदन्ति । यं कालं  
+भिक्षुसङ्घो उपविष्टो भवति । एको ताव पूतिवातकर्म्मं करोति अपरो  
+गच्छन्ति । अपरो ढर- (इइ।प्।७३)ढ(र) न्ति(त्ति) । (ज्।२२६) अपरो आह । साध्व्  
+आयुष्मं किं एतं सम्वत्सरिकं प्रतिकर्म्मं अष्टशतेनापि खो वातं न  
+इच्छेय्या अहो मनोज्ञो शब्दो अनुकूलं करोति । आनन्तरिकानां  
+पद्दमुष्टिकां जिघ्रापेन्ति । आह । जिघ्रायुष्मन् अहो मृष्टो गन्धो अहो  
+सोभनो ग(४९ब्७)न्धो योगाचारान् भिक्षून् शब्देन व्यावहन्ति । एतं  
+प्रकरणं भिक्षू भगवतो आरोचयेंसु । (ज्।२२६।१९) भगवान् आह ।  
+शब्दापयथ षड्वर्ग्गिकान् ॥ * ॥ यावद् आम भगवन्   
+     भगवान् आह । तेन हि एवं वातकर्म्मे प्रतिपद्यितव्यं । किन् ति दानि  
+एवं वातकर्म्मे प्रतिपद्यित(व्य)ं । नायं क्षमति । (ज्।२२६।१९) भिक्षुणा  
+औद्धत्याभि(ज्।२२७)प्रायेण श्वेतमयेन कुल्माषान् वा शक्तुकान् वा  
+मर्दियाणं आतपे शोषयित्वा श्वेत(५०अ१)मयेन येव खादितुं । नापि  
+क्षमति । बिल्वानि वा मदनफलानि वा तत्कालकानि फलानि खादितुं ।  
+कलायं वा सतिलपल्लवं वा ॥ अथ दानि भिक्षु पिण्डचारम्  
+अण्ठन्तोपरप्रतिबद्धाये जीविकाये श्वेतमयेन कुल्माषान् वा  
+शक्तुमर्द्दितकान् लभति । वातकोपकानि वा फलानि । किञ् चापि खादेति ।  
+अनापत्तिः । न क्षमति प्रहाणम् उपविष्टेन औद्धत्याभिप्रायेण वा  
+ढर-ढ(५०अ२)राये वान(त)कर्म्म कर्त्तुः(ं,) । अथ दानि भिक्षुस्य  
+प्रहाणशालायाम् उपविष्टस्य वातकर्म्म आगच्चति । न दानि ओसरित्वा  
+इन्द्रियानि कर्त्तव्यं । अथ दानि आर्शव्याधिको भवति । सम्प्रजान एकं  
+फिच्चकं उत्क्षिपियाणं हस्तेन विवरित्वा वातकर्म्म (इइ।प्।७४) कर्त्तव्यं ।  
+तथा कर्त्तव्यं यथा अनन्त(रि)कं शब्देन न व्यावहति । तं पि दानि न  
+क्षमति । येन वृद्धतरको तेन पिच्चकम् उ(५०अ३)त्क्षिपितुं । अथ खलु  
+येन नवकतरको तेन फिच्चकम् उत्क्षिपितव्यं । अथ दानि वृद्धतरको  
+च नवकतरको च एकस्थाने ढुक्ककं भवति । नायं क्षमति  
+सङ्घनवकेन येन सङ्घस्थविरो तेन फिच्चकं उत्क्षिपितुम्, । किञ् चापि  
+येन वृद्धतरको तेन फिच्चकं उत्क्षिपति । अनापत्तिः । (ज्।२२७।१६) अथ  
+दानि भिक्षु न पारेति सम्प्रजान वातकर्म्म (५०अ४) कर्त्तुम्, ।  
+निर्द्धावियाणं वातकर्म्म कर्त्तव्यं । अथ दानि भिक्षुस्य पुनो पुनो  
+वातकर्म्म आगच्छति । प्रहाणस्य आमन्त्(र्)इय गन्तव्यं । नापि क्षमति  
+भक्ताग्रे (ज्।२२८) वा तर्पणाग्रे वा औद्धत्याभिप्रायेण वातकर्म्म  
+कर्त्तुम्, । अथ खलु एक पि(फि)च्चकं उत्क्षिपिय वातकर्म्म कर्त्तव्यं ।  
+अथ दानि भिक्षुस्य वातकर्म्म पुनो आगच्छति अनन्तरिकस्य पात्रं  
+(५०अ५) दत्वा गन्तव्यं । नापि क्षमति । धर्म्मश्रवणे वा  
+सामायिकायाम् वा औद्धत्याभिप्रायेण वा फर-फरस्य(राय)  
+वातकर्म्म कर्त्तुम्, । अथ खलु एकं फिच्चकं उत्क्षिपित्वा वातकर्म्म  
+कर्त्तव्यः(म्) । अथ दानि भिक्षुस्य (ज्।२२६।८) पुनो पुनो वातकर्म्म  
+आगच्छति । (इइ।प्।७५) धर्म्मश्रवणस्य आमन्त्रिय गन्तव्यं । नापि  
+क्षमति । उपाध्यायं वा आचार्यम् वा आमन्त्रयित्वा गन्तुं । नापि (५०अ६)  
+क्षमति अन्तरघरं निषण्णेन औद्धत्याभिप्रायेण फर-फराय  
+वातकर्म्म कर्त्तुम्, । अथ खलु एकं फिच्चकं उ(त्)क्षिपित्वा सम्प्रजानन्  
+वातकर्म्म कर्त्तव्यं । अथ दानि भिक्षुस्य पुनो पुनो वातकर्म्म  
+आगच्छति । एकमन्तं आगच्छिय कर्त्तव्यं । नापि क्षमति । उपाध्यायस्य  
+वा आचार्यस्य वा वृद्धतरकस्य वा अग्रतो औद्धत्याभिप्रायेण  
+फरफराय वातकर्म्म कर्त्तुम्, । अथ (५०अ७) दानि भिक्षुस्य  
+वातकर्म्म आगच्छति । एकमन्तं गच्छिय कर्त्तव्यं । नापि दानि  
+क्षमति । अनुवातं कर्त्तुम्, । मा गन्धेन व्यावहेय्या । अपवातं  
+कर्त्तव्यं । वातपथं मुञ्चित्वा । (ज्।२२६।१८) अथ दानि भिक्षुस्य  
+सार्द्धे(र्थे)न सार्द्धं गच्छन्तस्य समुदाचारो भवति । न दानि  
+सार्थेन अग्रतो स्थित्वा वातकर्म्म कर्त्तव्यं । (ज्।२२८।६) अथ दानि  
+आर्शव्याधिको भवति । हस्तेन विवरित्वा मार्ग्गतो उद्वर्त्तित्वा सम्प्रजानं  
+क(५०ब्१)र्त्तव्यं । यथा सार्थं गन्धेन न व्यावहेय्या । वातपथं  
+मोचयित्वा कर्त्तव्यं । एवं वातकर्म्मे प्रतिपद्यितव्यं । न  
+प्रतिपद्यति ॥ * ॥ आभिसमाचारिकान् धर्म्मान् अतिक्रमति ॥ * ॥  
+    
+     उद्दानं   
+     (एवम्) प्रदीपे प्रतिपद्यितव्यं ।  
+     (एवं यष्टीयं प्रातिपद्यितव्यं ।)   
+    
+     (इइ।प्।७६) एवं गेण्डुके प्रतिपद्यितव्यं ।  
+     एवं निषीदने प्रतिपद्यितव्यं ।  
+     एवम् उपाध्या(नहा)ये प्रतिपद्यितव्यं ।  
+     एवं कासितव्यं ।  
+     एवं क्षीवितव्यं । (ज्।२२९)  
+     एवं कण्डूयितव्यं ।  
+     एवं जम्भावयितव्यं । (५०ब्२)  
+     एवं वातकर्म्म प्रतिपद्यितव्यं ।   
+    
+     (ज्।२३०) अन्तरोद्दानं   
+     सङ्घस्थविरो च शय्यासन कठिन आगन्तुका च आरण्यका नेवासिका च  
+प्रदीपो च सप्तवर्ग्गाः प्रकाशिताः ॥ * ॥  
+    
+              आभिसमाचारिकाः समाप्ताः ॥ * ॥  
+    
+     आर्यमहासाङ्घिकानां लोकोत्तरवादिनां मध्युद्देश-पाठकानां  
+पाठेनेति ॥ * ॥  
+    
+     ये धर्म्मा हेतुप्रभवा   
+                   हेतुन् तेषान् तथागतो ह्य् अवदत् ।   
+     तेषाञ् च (५०ब्३) यो निरोध   
+                   एवम्वादी महाश्रमणः
+

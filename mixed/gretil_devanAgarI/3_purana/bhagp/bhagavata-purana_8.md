@@ -1,15 +1,87 @@
----
-title: Bhagavata-Purana 8
++++
+title = "Bhagavata-Purana 8"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Bhagavata-Purana 8  
-
+  
+  
+  
+  
+  
+  
 Bhagavata-Purana 8  
 Input by ...  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
+
 
 भ्प्_०८।०१।००१।० श्रीराजोवाच  
 भ्प्_०८।०१।००१।१ स्वायम्भुवस्येह गुरो वंशो ऽयं विस्तराच् छ्रुतः  
@@ -1608,7 +1680,7 @@ Input by ...
 भ्प्_०८।१९।०४०।३ एवं नष्टानृतः सद्य आत्मा शुष्येन् न संशयः  
 भ्प्_०८।१९।०४१।१ पराग् रिक्तमपूर्णं वा अक्षरं यत् तदोमिति  
 भ्प्_०८।१९।०४१।३ यत् किञ्चिदोमिति ब्रूयात् तेन रिच्येत वै पुमान्  
-भ्प्_०८।१९।०४१।५ भिक्षवे सर्वम्ॐ कुर्वन् नालं कामेन चात्मने  
+भ्प्_०८।१९।०४१।५ भिक्षवे सर्वमों कुर्वन् नालं कामेन चात्मने  
 भ्प्_०८।१९।०४२।१ अथैतत् पूर्णमभ्यात्मं यच् च नेत्य् अनृतं वचः  
 भ्प्_०८।१९।०४२।३ सर्वं नेत्य् अनृतं ब्रूयात् स दुष्कीर्तिः श्वसन् मृतः  
 भ्प्_०८।१९।०४३।१ स्त्रीषु नर्मविवाहे च वृत्त्यर्थे प्राणसङ्कटे  
@@ -2045,5 +2117,5 @@ Input by ...
 भ्प्_०८।२४।०६१।१ प्रलयपयसि धातुः सुप्तशक्तेर्मुखेभ्यः  
 भ्प्_०८।२४।०६१।२ श्रुतिगणमपनीतं प्रत्युपादत्त हत्वा  
 भ्प्_०८।२४।०६१।३ दितिजमकथयद्यो ब्रह्म सत्यव्रतानां  
-भ्प्_०८।२४।०६१।४ तमहमखिलहेतुं जिह्ममीनं नतो ऽस्मि  
+भ्प्_०८।२४।०६१।४ तमहमखिलहेतुं जिह्ममीनं नतो ऽस्मि
 

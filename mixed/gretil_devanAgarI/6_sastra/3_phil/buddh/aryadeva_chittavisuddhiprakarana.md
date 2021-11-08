@@ -1,7 +1,9 @@
----
-title: 'Aryadeva: Cittavisuddhiprakarana'
++++
+title = "Aryadeva: Cittavisuddhiprakarana"
 
----
++++
+
+
 ## Intro
   
   
@@ -32,18 +34,69 @@ Therefore, many word boundaries are not marked by blanks.
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-चित्तविशुद्धिप्रकरण (च्व्प्)  
-  
-  
+
+
+चित्तविशुद्धिप्रकरण (च्व्प्)
+
 [अनादिनिधनं शान्तं भावाभावविवर्जितम् ।  
 निर्विकल्पं निरालम्बमनवस्थितमद्वयम् ॥ च्व्प्_१ ॥  
 अदृष्टान्तमनाख्यानमचिन्त्यमनिदर्शनम् ।  
@@ -313,8 +366,6 @@ Therefore, many word boundaries are not marked by blanks.
 जगद्दुःखविनाशायसुखोपायं स विन्दति ॥ च्व्प्_१३३ ॥  
 चित्तविशुद्धिमाधाययन्मयोपार्जितं सुखम् ।  
 चित्तविशुद्धिमाधाय तेनास्तुसुखितो जनः ॥ च्व्प्_१३४ ॥  
-  
-॥ कृतिरियमार्यदेवपादानामिति ॥  
-  
-  
-  
+    
+॥ कृतिरियमार्यदेवपादानामिति ॥
+

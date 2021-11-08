@@ -1,15 +1,87 @@
----
-title: Bhagavata-Purana 1
++++
+title = "Bhagavata-Purana 1"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Bhagavata-Purana 1  
-
+  
+  
+  
+  
+  
+  
 Bhagavata-Purana 1  
 Input by ...  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
+
 
 भ्प्_०१।०१।००१।१ जन्माद्यस्य यतो ऽन्वयादितरतश्चार्थेष्वभिज्ञः स्वराट्  
 भ्प्_०१।०१।००१।२ तेने ब्रह्म हृदा य आदिकवये मुह्यन्ति यत् सूरयः  
@@ -878,7 +950,7 @@ Input by ...
 भ्प्_०१।११।००१।१ आनर्तान् स उपव्रज्य स्वृद्धाञ् जनपदान् स्वकान्  
 भ्प्_०१।११।००१।३ दध्मौ दरवरं तेषां विषादं शमयन्न् इव  
 भ्प्_०१।११।००२।१ स उच्चकाशे धवलोदरो दरो ऽप्युरुक्रमस्याधरशोणशोणिमा  
-भ्प्_०१।११।००२।३ दाध्मायमानः करकञ्जसम्पुटे यथाब्जखण्डे कलहंस उत्स्वनः  
+भ्प्_०१।११।००२।३ दाध्मायमानः करकञ्जसम्पुटे यथाब्जखण्डे कलहम्स उत्स्वनः  
 भ्प्_०१।११।००३।१ तम् उपश्रुत्य निनदं जगद्भयभयावहम्  
 भ्प्_०१।११।००३।३ प्रत्युद्ययुः प्रजाः सर्वा भर्तृदर्शनलालसाः  
 भ्प्_०१।११।००४।१ तत्रोपनीतबलयो रवेर्दीपम् इवादृताः  
@@ -1740,5 +1812,5 @@ Input by ...
 भ्प्_०१।१९।०३९।३ न लक्ष्यते ह्यवस्थानम् अपि गोदोहनं क्वचित्  
 भ्प्_०१।१९।०४०।० सूत उवाच  
 भ्प्_०१।१९।०४०।१ एवम् आभाषितः पृष्टः स राज्ञा श्लक्ष्णया गिरा  
-भ्प्_०१।१९।०४०।३ प्रत्यभाषत धर्मज्ञो भगवान् बादरायणिः  
+भ्प्_०१।१९।०४०।३ प्रत्यभाषत धर्मज्ञो भगवान् बादरायणिः
 

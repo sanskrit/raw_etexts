@@ -1,7 +1,9 @@
----
-title: 'Dipamkara [=Dipankara]: Satyadvayavataranama'
++++
+title = "Dipamkara [=Dipankara]: Satyadvayavataranama"
 
----
++++
+
+
 ## Intro
   
   
@@ -28,20 +30,71 @@ Sastra section, text no. 24
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
+
 सत्यद्वयावतारनाम (स्द)  
-  
+    
 ॥ नमो महाकारुणिकाय ॥  
-  
+    
 द्वे सत्ये समुपाश्रित्य बुद्धानां धर्मदेशना ।  
 लोकसंवृतिसत्यं च सत्यं च परमार्थतः ॥ स्द_१ ॥  
 संवृत्तिर्मन्यते द्वेधा मिथ्या च तथता तथा ।  
@@ -102,10 +155,8 @@ Sastra section, text no. 24
 गृह्णातु सम्यक् सुपरीक्षणेन न श्रद्धया नैव च गौरवेण ॥ स्द_२९ ॥  
 सौवर्णराजेन गुरोःफलेन सम्प्रेषितो देवमतिर्हि भिक्षुः ।  
 तस्याग्रहात् सत्यद्वयावतारो युक्त्या सुधीभिस्त्विह वीक्षणीयः ॥ स्द_३० ॥  
-  
+    
 आचार्यदीपङ्करश्रीज्ञानविरचितः सत्यद्वयावतारः समाप्तः ।  
-  
-तेनैव पण्डितेन अनुवादकेन वीर्यसिंहेन चानूद्य संशोध्य च निर्णीतः ।  
-  
-  
-  
+    
+तेनैव पण्डितेन अनुवादकेन वीर्यसिंहेन चानूद्य संशोध्य च निर्णीतः ।
+

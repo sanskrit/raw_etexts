@@ -1,7 +1,9 @@
----
-title: Bijanighantu
++++
+title = "Bijanighantu"
 
----
++++
+
+
 ## Intro
   
   
@@ -21,16 +23,67 @@ Input by Oliver Hellwig
   
   
   
-
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
+
 अथ वक्ष्ये मन्त्रकोशं यद् उक्तं भूतडामरे ।  
 क्रमाद् बीजविधानं च श्रुत्यर्थज्ञानसम्भवम् ॥ १  
 श्रीशिव उवाच ।  
@@ -48,7 +101,7 @@ Input by Oliver Hellwig
 नादबिन्दुसमायुक्तां समादायोग्रभैरवीम् ।  
 भौतिकं वाग्भवं बीजं विद्धि सारस्वतं प्रिये ऐ ॥ ९  
 प्रलयाग्निर् महाज्वालः ख्यातश् चास्त्रमनुः प्रिये फट् ॥ १०  
-क्रोधीशरक्तभीमाक्ष्यो ऽङ्कुशो ऽयं नादबिन्दुमान् क्र्ॐ ॥ ११  
+क्रोधीशरक्तभीमाक्ष्यो ऽङ्कुशो ऽयं नादबिन्दुमान् क्रों ॥ ११  
 द्विठः शिरो वह्निजाया स्वाहा ज्वलनवल्लभा स्वाहा ॥ १२  
 क्रोधीशो बलभिद् धूम्रभैरवीनादबिन्दुभिः ।  
 त्रिमूर्तिर् मन्मथः कामः बीजं त्रैलोक्यमोहनम् क्लीं ॥ १३  
@@ -177,8 +230,5 @@ Input by Oliver Hellwig
 भवस्थित्यवसानेषु विज्ञातव्यं यथोत्तरम् ॥ ८५  
 आदिदेवेन निर्दिष्टं जम्बुद्वीपे कलौ युगे ।  
 मन्त्रकोशम् इदं भूतयक्षडामरतन्त्रयोः ॥ ८६  
-मर्त्यानाम् उपकाराय त्रिषु लोकेषु दुर्लभम् ॥ ८७  
-  
-  
-  
-  
+मर्त्यानाम् उपकाराय त्रिषु लोकेषु दुर्लभम् ॥ ८७
+

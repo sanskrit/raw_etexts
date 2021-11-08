@@ -1,15 +1,87 @@
----
-title: Bhagavata-Purana 6
++++
+title = "Bhagavata-Purana 6"
 
----
++++
+
+
 ## Intro
-
+  
+  
+  
+  
 Bhagavata-Purana 6  
-
+  
+  
+  
+  
+  
+  
 Bhagavata-Purana 6  
 Input by ...  
+  
+  
+  
+  
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
+  
+Text converted to Unicode (UTF-8).  
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
+set to UTF-8.)  
+  
+  
+  
+description:multibyte sequence:  
+long a  ā     
+long A  Ā     
+long i  ī     
+long I  Ī     
+long u  ū     
+long U  Ū     
+vocalic r  ṛ    
+vocalic R  Ṛ    
+long vocalic r  ṝ    
+vocalic l  ḷ    
+vocalic L  Ḷ    
+long vocalic l  ḹ    
+velar n  ṅ    
+velar N  Ṅ    
+palatal n  ñ     
+palatal N  Ñ     
+retroflex t  ṭ    
+retroflex T  Ṭ    
+retroflex d  ḍ    
+retroflex D  Ḍ    
+retroflex n  ṇ    
+retroflex N  Ṇ    
+palatal s  ś     
+palatal S  Ś     
+retroflex s  ṣ    
+retroflex S  Ṣ    
+anusvara  ṃ    
+visarga  ḥ    
+long e  ē     
+long o  ō     
+l underbar  ḻ    
+r underbar  ṟ    
+n underbar  ṉ    
+k underbar  ḵ    
+t underbar  ṯ    
+  
+  
+  
+Unless indicated otherwise, accents have been dropped in order   
+to facilitate word search.  
+  
+For a comprehensive list of GRETIL encodings and formats see:  
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
+and  
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
+  
+For further information see:
 
 ## पाठः
+
 
 भ्प्_०६।०१।००१।० श्रीपरीक्षिदुवाच  
 भ्प्_०६।०१।००१।१ निवृत्तिमार्गः कथित आदौ भगवता यथा  
@@ -573,7 +645,7 @@ Input by ...
 भ्प्_०६।०६।००७।२ विश्वेदेवास्तु विश्वाया अप्रजांस्तान् प्रचक्षते  
 भ्प्_०६।०६।००८।१ साध्योगणश्च साध्याया अर्थसिद्धिस्तु तत्सुतः  
 भ्प्_०६।०६।००८।२ मरुत्वांश्च जयन्तश्च मरुत्वत्या बभूवतुः  
-भ्प्_०६।०६।००९।१ जयन्तो वासुदेवांश उपेन्द्र इति यं विदुः  
+भ्प्_०६।०६।००९।१ जयन्तो वासुदेवाम्श उपेन्द्र इति यं विदुः  
 भ्प्_०६।०६।००९।२ मौहूर्तिका देवगणा मुहूर्तायाश्च जज्ञिरे  
 भ्प्_०६।०६।०१०।१ ये वै फलं प्रयच्छन्ति भूतानां स्वस्वकालजम्  
 भ्प्_०६।०६।०१०।२ सङ्कल्पायास्तु सङ्कल्पः कामः सङ्कल्पजः स्मृतः  
@@ -752,11 +824,11 @@ Input by ...
 भ्प्_०६।०८।००४।२ कृतस्वाङ्गकरन्यासो मन्त्राभ्यां वाग्यतः शुचिः  
 भ्प्_०६।०८।००५।१ नारायणपरं वर्म सन्नह्येद्भय आगते  
 भ्प्_०६।०८।००५।२ पादयोर्जानुनोरूर्वोरुदरे हृद्य् अथोरसि  
-भ्प्_०६।०८।००६।१ मुखे शिरस्य् आनुपूर्व्याद्ॐकारादीनि विन्यसेत्  
+भ्प्_०६।०८।००६।१ मुखे शिरस्य् आनुपूर्व्यादोङ्कारादीनि विन्यसेत्  
 भ्प्_०६।०८।००६।२ ॐ नमो नारायणायेति विपर्ययमथापि वा  
 भ्प्_०६।०८।००७।१ करन्यासं ततः कुर्याद्द्वादशाक्षरविद्यया  
 भ्प्_०६।०८।००७।२ प्रणवादियकारान्तमङ्गुल्यङ्गुष्ठपर्वसु  
-भ्प्_०६।०८।००८।१ न्यसेद्धृदय ॐकारं विकारमनु मूर्धनि  
+भ्प्_०६।०८।००८।१ न्यसेद्धृदय ओङ्कारं विकारमनु मूर्धनि  
 भ्प्_०६।०८।००८।२ षकारं तु भ्रुवोर्मध्ये णकारं शिखया न्यसेत्  
 भ्प्_०६।०८।००९।१ वेकारं नेत्रयोर्युञ्ज्यान् नकारं सर्वसन्धिषु  
 भ्प्_०६।०८।००९।२ मकारमस्त्रमुद्दिश्य मन्त्रमूर्तिर्भवेद्बुधः  
@@ -1844,5 +1916,5 @@ Input by ...
 भ्प्_०६।१९।०२७।१ विन्देद्विरूपा विरुजा विमुच्यते य आमयावीन्द्रियकल्यदेहम्  
 भ्प्_०६।१९।०२७।२ एतत् पठन्नभ्युदये च कर्मण्य् अनन्ततृप्तिः पितृदेवतानाम्  
 भ्प्_०६।१९।०२८।१ तुष्टाः प्रयच्छन्ति समस्तकामान् होमावसाने हुतभुक् श्रीहरिश्च  
-भ्प्_०६।१९।०२८।२ राजन् महन् मरुतां जन्म पुण्यं दितेर्व्रतं चाभिहितं महत् ते  
+भ्प्_०६।१९।०२८।२ राजन् महन् मरुतां जन्म पुण्यं दितेर्व्रतं चाभिहितं महत् ते
 
