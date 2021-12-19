@@ -1,6 +1,5 @@
 ---
-title: CUMULATIVE EXCERPTS of Sanskrit portions from Javano-Balinese texts, plain
-  text
+title: CUMULATIVE EXCERPTS of Sanskrit portions from Javano-Balinese texts, plain text
 
 ---
 ## Intro

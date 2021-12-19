@@ -7017,7 +7017,6 @@ madhusūdanaḥ - pūrvādhyāyānte te brahma tad viduḥ kṛtsnam adhyātma�
   
 tava mama ca samatvāt kathaṃ tvaṃ māṃ pṛcchasīti śaṅkām apanudan sarva-puruṣebhya uttamasya sarvajñasya tava na kiṃcid ajñeyam iti saṃbodhanena sūcayati he puruṣottameti | adhibhūtaṃ ca kiṃ proktaṃ pṛthivyādibhūtam adhikṛtya yat kiṃcit kāryam adhibhūta-padena vivakṣitaṃ kiṃ vā samastam eva kārya-jātam | ca-kāraḥ sarveṣāṃ praśnānāṃ samuccayārthaḥ | adhidaivaṃ kim ucyate devatā-viṣayam anudhyānaṃ vā sarvadaivateṣv ādiyta-maṇḍalādiṣv anusyūtaṃ caitanyaṃ vā ||1||  
   
-viśvanāthaḥ ---   
   
 pārtha-praśnottaraṃ yogaṃ miśrāṃ bhaktiṃ prasaṅgataḥ |  
 śuddhāṃ ca bhaktiṃ provāca dve gatī api cāsṭame ||  
@@ -7635,7 +7634,6 @@ idaṃ prāg bahudhoktam agre ca vakṣyamāṇam adhunocyamānaṃ jñānaṃ �
   
 kīdṛśaṃ jñānaṃ guhyatamaṃ gopanīyatamam atirahasyatvāt | yato vijñāna-sahitaṃ brahmānubhava-paryantam | īdṛśam atirahasyam apy ahaṃ śiṣya-guṇādhikyād vakṣyāmi tubhyam anasūyave | asūyā guṇeṣu doṣa-dṛṣṭis tad-āviṣkaraṇādi-phalā | sarvadāyam ātmaiśvarya-khyāpanenātmānaṃ praśaṃsati mat-purastād ity evaṃ rūpā tad-rahitāya | anenārjuava-saṃyamāv api śiṣya-guṇau vyākhyātau | punaḥ kīdṛśaṃ jñānaṃ yaj jñātvā prāpya mokṣyase sadya eva saṃsāra-bandhanād aśubhāt sarva-duḥkha-hetoḥ ||1||  
   
-viśvanāthaḥ ---  
   
 ārādhyatve prabhor dāsair aiśvaryaṃ yad apekṣitam |  
 tat śuddha-bhakter utkarṣaś cocyate navame sphuṭam ||  
@@ -10210,7 +10208,6 @@ iti sākāraṃ vastu | ubhayoś ca bhagavad-upadeśayor adhikāri-bhedenaiva vy
 evaṃ mat-karma-kṛd [Gītā 11.55] ity-ādy-anantarokta-prakāreṇa satata-yuktā nairantaryeṇa bhagavat-karmādau sāvadhānatayā pravṛttā bhaktāḥ sākāra-vastv-eka-śaraṇāḥ santas tvām evaṃ-vidhaṃ sākāraṃ ye paryupāsate satataṃ cintayanti | ye cāpi sarvato viraktās tyakta-sarva-karmāṇo 'kṣaraṃ na kṣaraty aśnute vety akṣaram etad vai tad akṣaraṃ gārgi brāhmaṇā abhivadanty asthūlam anaṇv ahrasvam adīrgham [BAU 3.8.9] ity ādi-śruti-pratiṣiddha-sarvopādhi nirguṇaṃ brahma | ataevāvyaktaṃ sarva-karaṇāgocaraṃ nirākāraṃ tvāṃ paryupāsate teṣām ubhayeṣāṃ madhye ke yoga-vittamāḥ atiśayena  
 yoga-vidaḥ | yogaṃ samādhiṃ vindanti vidantīti vā yoga-vida ubhaye 'pi | teṣāṃ madhye ke śreṣṭhā yoginaḥ keṣāṃ jñānaṃ mayānusaraṇīyam ity arthaḥ ||1||  
   
-viśvanāthaḥ ---  
 dvādaśe sarva-bhaktānāṃ jñānibhyaḥ śraiṣṭhyam ucyate |  
 bhakteṣv api praśasyante ye 'dveṣādi-guṇānvitāḥ ||  
   

@@ -1,7 +1,8 @@
-+++  
-title = "हरविजयचम्पूः"  
-unicode_script = "devanagari"  
-+++  
++++
+title = "हरविजयचम्पूः"
+unicode_script = "devanagari"
+
++++
 
 ## परिचयः  
 

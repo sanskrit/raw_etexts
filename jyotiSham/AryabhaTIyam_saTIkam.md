@@ -1,4 +1,4 @@
-﻿+++
++++
 title = "आर्यभटीयम् भास्करभाष्यसहितम्"
 unicode_script = "devanagari"
 +++
