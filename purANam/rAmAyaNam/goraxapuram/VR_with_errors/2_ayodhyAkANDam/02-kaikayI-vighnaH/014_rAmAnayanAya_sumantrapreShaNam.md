@@ -5,7 +5,7 @@ title_english = "014 The night passes"
 +++
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-014-Ramyanayanaya_Sumanthra_Preshanam.mp3"></div>
 
-पुत्र शोक अर्दितम् पापा विसम्ज्ञम् पतितम् भुवि ।  
+पुत्र शोक अर्दितम् पापा विसञ्ज्ञम् पतितम् भुवि ।  
 विवेष्टमानम् उदीक्ष्य सा ऐक्ष्वाकम् इदम् अब्रवीत् ॥ २-१४-१  
 पापम् क्ऱ्त्वा इव किम् इदम् मम संश्रुत्य संश्रवम् ।  
 शेषे क्षिति तले सन्नः स्थित्याम् स्थातुम् त्वम् अर्हसि ॥ २-१४-२  

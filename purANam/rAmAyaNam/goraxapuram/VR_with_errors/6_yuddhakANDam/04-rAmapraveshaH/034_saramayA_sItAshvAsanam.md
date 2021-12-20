@@ -5,7 +5,7 @@ title_english = "034 Sarama consoles Seetha"
 +++
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-034-Sarama_consoles_Seetha_0.mp3"></div>
 
-अथ ताम् जात सम्तापाम् तेन वाक्येन मोदिताम् ।  
+अथ ताम् जात सन्तापाम् तेन वाक्येन मोदिताम् ।  
 सरमा ह्लादयाम् आस महीं दग्धामिवाम्भसा ॥ ६-३४-१  
 ततस् तस्या हितम् सख्याश् चिकीर्षन्ती सखी वचः ।  
 उवाच काले कालज्ना स्मित पूर्व अभिभाषिणी ॥ ६-३४-२  

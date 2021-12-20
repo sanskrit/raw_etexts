@@ -6,7 +6,7 @@ title_english = "042 Dasaratha feels dejected"
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-042-Dashratha_Vilapaha.mp3"></div>
 
 यावत् तु निर्यतः तस्य रजो रूपम् अदृश्यत ।  
-न एव इक्ष्वाकु वरः तावत् सम्जहार आत्म चक्षुषी ॥ २-४२-१  
+न एव इक्ष्वाकु वरः तावत् सञ्जहार आत्म चक्षुषी ॥ २-४२-१  
 यावद् राजा प्रियम् पुत्रम् पश्यति अत्यन्त धार्मिकम् ।  
 तावद् व्यवर्धत इव अस्य धरण्याम् पुत्र दर्शने ॥ २-४२-२  
 न पश्यति रजो अपि अस्य यदा रामस्य भूमिपः ।  

@@ -6,7 +6,7 @@ title_english = "084 Guha welcomes Bharata with drink of honey and meat"
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-084-Guha_Bharatha_Samvadaha.mp3"></div>
 
 ततः निविष्टाम् ध्वजिनीम् गन्गाम् अन्वाश्रिताम् नदीम् ।  
-निषाद राजो दृष्ट्वा एव ज्ञातीन् सम्त्वरितः अब्रवीत् ॥ २-८४-१  
+निषाद राजो दृष्ट्वा एव ज्ञातीन् सन्त्वरितः अब्रवीत् ॥ २-८४-१  
 महती इयम् अतः सेना सागर आभा प्रदृश्यते ।  
 न अस्य अन्तम् अवगच्चामि मनसा अपि विचिन्तयन् ॥ २-८४-२  
 यथा तु खलु दुर्भद्धिर्भरतः स्वयमागतः ।  
