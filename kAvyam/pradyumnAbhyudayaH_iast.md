@@ -895,21 +895,21 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       āgamyatām |
       (praviśya)
       naṭī ― ayya ! iahmi | 10
-      sūtradhāraḥ ― ārye ! samādiṣṭo’smi sakalakalākuśalasya candrakulamaṅgala­
-      pradīpasya samastasāmantaśekharīkriyamāṇaśāsanasya vividhaśākhāva­
-      lambanadharmatarumūlakandasya praṇayijanacintāmaṇeḥ kolambapura­
+      sūtradhāraḥ ― ārye ! samādiṣṭo’smi sakalakalākuśalasya candrakulamaṅgala-
+      pradīpasya samastasāmantaśekharīkriyamāṇaśāsanasya vividhaśākhāva-
+      lambanadharmatarumūlakandasya praṇayijanacintāmaṇeḥ kolambapura-
       9 TSS Śāstrī gloss: maṇisthūṇāyām amāntaṃ mahattvāt tadantarāsitum apārayantaṃ tato bahir
       nissarantam iti yāvat.
       10 ārya ! iyam asmi |
       
       
       
-      pradyumnābhyudayam
-      pariṣ­kārasya devasya ravivarmaṇaḥ pādapadmopajīvinyā rājapariṣadā,
-      yathā ‘adya sakalabhuvanasargasthitisaṃhārakāraṇasya kṣīrārṇava­
-      kanyakā­stanakalaśakāśmīrabālātaparañjitabhujāntaramaṇiśilātalas
+
+      pariṣ-kārasya devasya ravivarmaṇaḥ pādapadmopajīvinyā rājapariṣadā,
+      yathā ‘adya sakalabhuvanasargasthitisaṃhārakāraṇasya kṣīrārṇava-
+      kanyakā-stanakalaśakāśmīrabālātaparañjitabhujāntaramaṇiśilātalas
       ya nirantaravijṛmbhamāṇadehaprabhāpaṭalaśaivālitadakṣiṇavārirāśeḥ
-      paryaṅka­bhujaṅgapuṅgavaphaṇāmāṇikyamarīcisandhyānubandhabandhura­
+      paryaṅka-bhujaṅgapuṅgavaphaṇāmāṇikyamarīcisandhyānubandhabandhura-
       vadanacandramasaḥ keraladeśasukṛtapariṇateḥ yādavanṛpakuladaivatasya
       bhagavataḥ śrīpadmanābhasya yātrotsave kimapi rūpakam abhinavam
       abhinayatā vayaṃ vinodanīyāḥ’ iti |
@@ -918,10 +918,10 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       sūtradhāraḥ ― ārye! mā maivaṃ vādīḥ |
       ananyabhāvām āsthānīṃ tais tair āvarjayan guṇaiḥ |
       priyeṇa saṃyojayituṃ naṭaḥ kaścit pragalbhate || 3 ||
-      naṭī — evvaṃ edaṃ ayya ! bhavārisassa kassa vi evva eārisammi kajje paabbha­
+      naṭī — evvaṃ edaṃ ayya ! bhavārisassa kassa vi evva eārisammi kajje paabbha-
       ttaṇam | tā kassa uṇa kaïṇo kidī paoaṇijjā | 12
       sūtradhāraḥ ― (smṛtim abhinīya saharṣam) asti kila saṅgītaśāstrapāradṛśvanā
-      nikhilaguṇaratnarohaṇagiriṇā kavijanamayūrakālameghena sāhityaṃ­
+      nikhilaguṇaratnarohaṇagiriṇā kavijanamayūrakālameghena sāhityaṃ-
       vidyāvicakṣaṇena dakṣiṇabhojarājena mahārājaparameśvareṇa
       saṃgrāmadhīrāparanāmadheyena śrīravivarmadevena viracitaṃ
       pradyumnābhyudayaṃ nāma nāṭakam | tat prayuñjānāḥ sāmājikān
@@ -979,7 +979,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       nāradaḥ — pradyumnakaustubharatnākara ! alam amunā bhavato nivāraṇena |
       aśaktir eva māṃ bhavadguṇakīrtanaprasaṅgān nivārayati | tathā hi —
       padmāsanaḥ sṛjati kṛṣṇa ! bhavān prapañcaṃ
@@ -1005,8 +1005,8 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       pitāmahaḥ putravatāṃ mahātman !
       dhuri pratiṣṭhāṃ labhate tvayaiva || 12 ||
       tad uparamyatām | kim āgamanakāraṇam 20 |
-      nāradaḥ — prathamaṃ tāvan mahābhāga ! vasudevavitanyamānāśvamedhamaho­
-      ts­avadhurandharasya bhavato darśanam |
+      nāradaḥ — prathamaṃ tāvan mahābhāga ! vasudevavitanyamānāśvamedhamaho-
+      ts-avadhurandharasya bhavato darśanam |
       17 TSS MS2 var [taṭī]dāraṇe
       18 TSS Śāstrī gloss: talinālpā
       19 “Zufällig gibt es im Sanskrit ein Wort vaipañcika in der Bedeutung ‘Lautenspieler’, gebildet
@@ -1022,7 +1022,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       nāradaḥ — dānavakuladalanadīkṣita 21 ! tad etad āvedyate |
       kṛṣṇaḥ — bhagavan ! avahito’smi |
       nāradaḥ — adya kila kaścid akhaṇḍabhujaśauṇḍīryakuṇṭhitākhaṇḍalavajro
-      vajraṇābhanāmā dānavapatiḥ kanakagirikaṭakacirakālata­ptata­paḥpra­
+      vajraṇābhanāmā dānavapatiḥ kanakagirikaṭakacirakālata-ptata-paḥpra-
       karṣasantoṣitasya bhagavataḥ pitāmahasya sakāśād amarāvadhyatām
       anumatim antareṇākhilair 22 api duṣpraveśaṃ sarvaratnamayaṃ
       vajrapuraṃ nāma nagaraṃ sakalasaṅkalpasiddhiñ ca labdhvā
@@ -1055,7 +1055,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       sambhogārtijuṣām amuṣya nagare trastaś caran mārutaḥ
       svedāmbuvyapanodam eva kurute śuddhāntavāmabhruvām |
       ullāsaśriyam eva padmasarasām utpādayaty aṃśumān
@@ -1082,10 +1082,10 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       kṛṣṇaḥ — na khalu tasya paramarṣer vacanam anyathā bhaviṣyati |
       nāradaḥ — sā ca samprati navayauvanodayaviśeṣaramaṇīyā tacchandānuvartinā
       pitrā svayaṃvare sthāpitā satī tadartham āgatam ātmano’nanurūpatayā
-      sarvam api yuvajanam avajānāti | amuṣmin punar vajrapuragate sakala­
-      lokātiśāyisaundaryasampadi pradyumne kariṣyaty eva sā bhāva­bandham |
+      sarvam api yuvajanam avajānāti | amuṣmin punar vajrapuragate sakala-
+      lokātiśāyisaundaryasampadi pradyumne kariṣyaty eva sā bhāva-bandham |
       kṛṣṇaḥ — tad api bhavatu |
-      nāradaḥ — dvāravatīnāyaka ! adhunā vajraṇābhavadhāya bhavataḥ samu­
+      nāradaḥ — dvāravatīnāyaka ! adhunā vajraṇābhavadhāya bhavataḥ samu-
       dyogamahotsavena devapariṣadaṃ paritoṣayitum anujñā mama dīyatām |
       24 Verbatim from source Harivaṃśa App. I 29F lines 83–84.
       
@@ -1097,10 +1097,10 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       śrūyate vāg iyaṃ yena madhurā mahatīpate ! |
       guṇabaddhaṃ manas tasya nānyataś calituṃ kṣamam || 19 ||
       nāradaḥ — eṣa sādhayāmi | (iti niṣkrāntaḥ |)
-      kṛṣṇaḥ — (savimarśam) vajraṇābhabhujaparighapālitaṃ sarvaduṣ­praveśaṃ
-      vajrapuraṃ kathaṃ praveṣṭavyam | (smaraṇa­nāṭi­ta­kena) vidyate kila
-      tātasyāsminn aśvamedhe nāṭyaprayoganaipuṇapari­toṣitamaharṣi­sahadattavivi
-      dhavaralabdhavaibhavo bhadranāmā naṭaḥ | sa khalu pra­siddhākāśagamanaḥ
+      kṛṣṇaḥ — (savimarśam) vajraṇābhabhujaparighapālitaṃ sarvaduṣ-praveśaṃ
+      vajrapuraṃ kathaṃ praveṣṭavyam | (smaraṇa-nāṭi-ta-kena) vidyate kila
+      tātasyāsminn aśvamedhe nāṭyaprayoganaipuṇapari-toṣitamaharṣi-sahadattavivi
+      dhavaralabdhavaibhavo bhadranāmā naṭaḥ | sa khalu pra-siddhākāśagamanaḥ
       sarvatrāpratihatapraveśaś ca | tanmukhenaiva sarvaṃ sādhanīyam |
       (nepathyābhimukham avalokya) kaḥ ko’tra bhoḥ |
       (praviśya)
@@ -1128,7 +1128,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       bhadranaṭaḥ — deva ! kas tarhi bhavataḥ kopāgner indhanībhavitum icchati |
       kṛṣṇaḥ — pitāmahavaradānamattena vajraṇābhanāmnā dānavena tribhuvanam
       idam ākramyate | samprati tad vyāpādanāya gadasāmbasahitaṃ vatsaṃ
@@ -1137,7 +1137,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       tejasvine kumārāya pradyumnāya jagatpate ! |
       katham asmai sa tiṣṭheta dānavendras tamomayaḥ || 22 ||
       kṛṣṇaḥ — vidhātṛsaṅkalpanirmitaṃ tasya vajrapuraṃ nāma nagaraṃ tacchandam
-      antareṇa kenāpi praveṣṭum aśakyam | vatsasya punas tatpraveśas tvan­
+      antareṇa kenāpi praveṣṭum aśakyam | vatsasya punas tatpraveśas tvan-
       mukha eva bhavitā |
       bhadranaṭaḥ — deva ! asya bhavatprasādasya katham ahaṃ pātraṃ bhaviṣyāmi |
       kṛṣṇaḥ — karṇe evam iva |
@@ -1151,7 +1151,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       barhair mandirabarhiṇaś ca vitataiḥ pracchādayanti priyāḥ || 23 ||
       kṛṣṇaḥ — (ūrdhvam avalokya) aye kathaṃ madhyāhnaḥ sampravṛttaḥ | tad aham
       idānīṃ vajraṇābhavijayāya vatsasya prasthānamaṅgalāni saṃvidhātum
-      abhyantaram eva praviśāmi | bhadraṇata ! tvam api samīhitasiddhaye pra­
+      abhyantaram eva praviśāmi | bhadraṇata ! tvam api samīhitasiddhaye pra-
       vartasva |
       bhadranaṭaḥ — yad ājñāpayati devaḥ |
       yaṃ draṣṭum eva hṛdayair yamino yatante
@@ -1177,11 +1177,11 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       āacchaï | 28
       (praviśya)
       parabhṛtikā — (saharṣam) devīe sahatthasaṃvaïḍḍhiassa ujjāṇaraaṇaṇāmaheassa
-      sahaārasāhiṇo paḍhamappasūṇuggamamahosavaṃ viṇṇavantī pasāda­
+      sahaārasāhiṇo paḍhamappasūṇuggamamahosavaṃ viṇṇavantī pasāda-
       pattaṃ homi | (agrato nirvarṇya) devīe hiaaṇivvisesā kahaṃ kalāvadī
       ahivaṭṭaï | ṇaṃ aṇālavia gantuṃ ṇa juttaṃ | tā uvasappāmi | (upasṛtya) halā !
       kalāvadi ! kudo āacchasi | 29
-      kalāvatī — sahi ! parahudie ! devīe ādeseṇa bhaṭṭidāriāe pahāvadīe saṅgīda­
+      kalāvatī — sahi ! parahudie ! devīe ādeseṇa bhaṭṭidāriāe pahāvadīe saṅgīda-
       sikkhākosalaṃ ayyabhaddaṇaḍamuhādo suṇia āacchāmi | 30
       parabhṛtikā — tesu gīdasārappamuhesu kusīlavavaresu ciṭṭhantesu pahāvadiṃ
       saṅgīdaṃ sikkhāveduṃ bhaṭṭiṇā kitti ahiṇavāado eso ṇiutto | 31
@@ -1192,8 +1192,8 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       khalu svayaṃvarāgataṃ sakalam api yuvajanam avadhīrayati | (sāśaṃsam) (yadi) anayānurūp-
       aguṇaḥ ko’pi yuvā labhyeta, tadā prajāpater nirmāṇakauśalaṃ saphalaṃ bhavet | (puro’valok-
       ya) katham eṣā pramadavanapālikā parabhṛtikā ita evāgacchati |
-      29 (saharṣam) devyā svahastasaṃvardhitasyodyānaratnanāmadheyasya sahakāraśākhinaḥ pra­
-      thama­prasūnodgamamahotsavaṃ vijñāpayantī prasādapātraṃ bhavāmi | (agrato nirvarṇya)
+      29 (saharṣam) devyā svahastasaṃvardhitasyodyānaratnanāmadheyasya sahakāraśākhinaḥ pra-
+      thama-prasūnodgamamahotsavaṃ vijñāpayantī prasādapātraṃ bhavāmi | (agrato nirvarṇya)
       devyā hṛdayanirviśeṣā kathaṃ kalāvaty abhivartate | enām anālapya gantuṃ na yuktam | tad
       upasarpāmi | (upasṛtya) sakhi ! kalāvati ! kuta āgacchasi |
       30 sakhi ! parabhṛtike ! devyā ādeśena bhartṛdārikāyāḥ prabhāvatyāḥ saṅgītaśikṣākauśalam āry-
@@ -1202,8 +1202,8 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       kim ity abhinavāgata eṣa niyuktaḥ |
       
       
-      pradyumnābhyudayam
-      kalāvatī — halā ! kiṃ savve bhaddaṇaḍo honti | aaṃ khu muṇijaṇadiṇṇa­bahu­viha­
+
+      kalāvatī — halā ! kiṃ savve bhaddaṇaḍo honti | aaṃ khu muṇijaṇadiṇṇa-bahu-viha-
       varajaṇidamāhappo savvatha vi appaḍihadasañcāro ahilāsu vi kalāsu paraṃ
       viṇṇāṇaṃ sampatto a | 32
       parabhṛtikā — kahaṃ esa mahāṇubhāvo ettha samāado | 33
@@ -1214,8 +1214,8 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       tado | 35
       kalāvatī — tado esa selūsavaro sacchandeṇa dīvādo dīvantaraṃ āhiṇḍanto jādu
       sāhāṇaaraṃ sampatto rāmāaṇakahāṇubandhiṇāḍaappaoaparitosidehiṃ
-      tattha ṇivasantehiṃ dāṇavehiṃ viṇṇavio ciraālakudūhaliṇā bhaṭṭiṇā sa­
-      pariaṇo vajjapuraṃ āṇīa savisesavihidasakkāro tassa ādeseṇa bhaṭṭi­dāriaṃ
+      tattha ṇivasantehiṃ dāṇavehiṃ viṇṇavio ciraālakudūhaliṇā bhaṭṭiṇā sa-
+      pariaṇo vajjapuraṃ āṇīa savisesavihidasakkāro tassa ādeseṇa bhaṭṭi-dāriaṃ
       saṅgīaṃ sikkhāvei | 36
       parabhṛtikā — (saślāgham) halā ! sahāvaramaṇijjāe pahāvadīe kalāhioo ṇāma
       hemalaṭṭhīe dahaṇasakkāro, maṇisalāāe sāṇasamulleho, campaamālāe
@@ -1253,9 +1253,9 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       patthidā ajja kiṃ teṇa viṇā āadāsi | 41
       kalahaṃsikā ― piasahi ! vihmaarasakkhittahiaāe vihmaridaṃ tassa hakkāraṇam | 42
       prabhāvatī — sahi ! vihmaassa kiṃ kālaṇaṃ | 43
-      kalahaṃsikā ― tassa ṇaṭṭāariassa ghare kiṃ vi adiṭṭhapuvvarūvasohaṃ purisa­
+      kalahaṃsikā ― tassa ṇaṭṭāariassa ghare kiṃ vi adiṭṭhapuvvarūvasohaṃ purisa-
       ppaḍicchandaaṃ diṭṭham | 44
-      prabhāvatī — sahi ! tihuvaṇadullahaṃ khu taṃ, jeṇa tumaṃ vi evvaṃ vihma­
+      prabhāvatī — sahi ! tihuvaṇadullahaṃ khu taṃ, jeṇa tumaṃ vi evvaṃ vihma-
       akkhittahiaā saṃvuttā | 45
       kalahaṃsikā ― ṇiradisaasunderaguṇavāsabhavaṇaṃ taṃ kassa hiaaṃ ṇa
       vihmāvei |
@@ -1287,7 +1287,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       adṛṣṭapūrvam aśrutapūrvaṃ caitādṛśaṃ rūpam |
       
       
-      pradyumnābhyudayam
+
       kalahaṃsikā ― kiṃ tuha sahī atthāṇe vihmidā hoi | 52
       prabhāvatī ― sahi ! idaṃ kassa ṇāma mahābhāassa paḍirūvaṃ bhave | 53
       kalahaṃsikā ― edaṃ bhaavado maaṇassa ṇūṇaṃ paḍibimbaṃ hojja | 54
@@ -1301,7 +1301,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       ālihidavvā | 59
       kalahaṃsikā ― jadi evvaṃ, idaṃ tassa evva kalākusalassa ayyabhaddaṇaḍassa
       viṇṇāṇaṃ ti cintemi | 60
-      prabhāvatī ― halā ! teṇa vi ettha santo evva ko’vi ālihido, aha vā buddhivi­hava­
+      prabhāvatī ― halā ! teṇa vi ettha santo evva ko’vi ālihido, aha vā buddhivi-hava-
       ṇimmio | 61
       kalahaṃsikā ― piasahi ! esa saṇṇiveso kassa hiaassa paḍihādi | tā kahiṃ vi atthi
       evva | vicittaṃ khu paāvaïṇo ṇimmāṇaṃ | 62
@@ -1357,10 +1357,10 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       prahiṇoti | adṛṣṭacara eva prabhāvatyāḥ prajñāprakarṣaḥ |
       sakṛd api mayopadiṣṭaḥ śikṣāvasare kriyākramas tasyāḥ |
       pātraviśeṣaspṛhayā prāyaḥ saṅkrāmati kṣaṇenaiva || 2 ||
-      (savimarśam ātmagatam) aniṣṭhitaprāyaś ca mayā svāmino vasu­deva­
-      na­nd­anasya niyogaḥ | praveśitas tāvan mayā parigṛhītaśailūṣabhūmiko
-      gadasāmbasahitaḥ saparijanaḥ kumāraḥ pradyumnaḥ | vaśīkṛtaś ca pra­
-      yo­gadarśanena sapaurajano dānavarājaḥ | tanniyuktaś ca saṅgītavidyāṃ
+      (savimarśam ātmagatam) aniṣṭhitaprāyaś ca mayā svāmino vasu-deva-
+      na-nd-anasya niyogaḥ | praveśitas tāvan mayā parigṛhītaśailūṣabhūmiko
+      gadasāmbasahitaḥ saparijanaḥ kumāraḥ pradyumnaḥ | vaśīkṛtaś ca pra-
+      yo-gadarśanena sapaurajano dānavarājaḥ | tanniyuktaś ca saṅgītavidyāṃ
       śikṣayan prabhāvatyā visrambhapātram abhavam | prāptaś cāyam avasaraḥ
       pradyumnaguṇakīrtanasya | mayā cedānīṃ —
       tathā tathā guṇā vācyāḥ pradyumnasya mahātmanaḥ |
@@ -1385,14 +1385,14 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       70 ita ita āryaḥ | (bhadranaṭaḥ praveśaṃ nāṭayati)
       
       
-      pradyumnābhyudayam
+
       kalahaṃsikā ― (dṛṣṭvā sasambhramam) aaṃ ayyabhaddaṇaḍo parāvaḍido evva |
       tā idaṃ ittavaḍaṃ pacchādemi | (tathā karoti) 71
       bhadranaṭaḥ — (agrato nirvarṇya) iyam atra dānavarājaputrī kalahaṃsikayā
       saha kimapi mantrayamāṇā tiṣṭhati | yāvad upasarāmi | (upasṛtya) bhadre !
       prabhāvati ! bhavatu te manorathasiddhiḥ |
       kalahaṃsikā ― ayyasya pasādeṇa sijjhaï evva piasahīe savvo maṇoraho | 72
-      prabhāvatī ― (sapraśrayam) idaṃ āsaṇaṃ | uvavisadu ayyo | (bhadranaṭa upa­
+      prabhāvatī ― (sapraśrayam) idaṃ āsaṇaṃ | uvavisadu ayyo | (bhadranaṭa upa-
       viśati) (pratīhārīm ālokya) madaṇie ! attaṇo ṇioaṃ aṇuciṭṭha | 73
       pratīhārī — jaṃ bhaṭṭidāriā āṇavedi | (niṣkrāntā) 74
       bhadranaṭaḥ —
@@ -1444,7 +1444,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       abhyarthitaḥ suragaṇair avanīm upetaḥ |
       vaṃśe mahīyasi yador vihitāvatāraḥ
       saṃkrīḍate śamitaśatrukulo mukundaḥ || 10 ||
-      prabhāvatī ― ‘bhaavaṃ sirīvallaho vasudevaṇandaṇo bhavia duvāravaïṃ ahi­
+      prabhāvatī ― ‘bhaavaṃ sirīvallaho vasudevaṇandaṇo bhavia duvāravaïṃ ahi-
       ciṭṭhaï’ tti sudaṃ mae tādasamīvavaṭṭiṇīe mahesiṇo ṇāradassa muhādo | 83
       kalahaṃsikā ― tado tado | 84
       79 kiṃ sa deva uta dānavaḥ athavā mānuṣaḥ |
@@ -1452,12 +1452,12 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       suśroṇi dānaveṣu ca dānavaḥ | mānuṣeṣv api dharmātmā mānuṣaḥ sa mahābalaḥ ||
       81 kaṃ punar lokaṃ so’laṅkaroti |
       82 tasya mahābhāgasya prabhavaṃ nāmadheyaṃ ca kathayatu bhavān |
-      83 ‘bhagavān śrīvallabho vasudevanandano bhūtvā dvāravatīm adhitiṣṭati’ iti śrutaṃ mayā tāta­
+      83 ‘bhagavān śrīvallabho vasudevanandano bhūtvā dvāravatīm adhitiṣṭati’ iti śrutaṃ mayā tāta-
       samīpavartinyā maharṣeḥ nāradasya mukhāt |
       84 tatas tataḥ |
       
       
-      pradyumnābhyudayam
+
       bhadranaṭaḥ —
       samastam antarbhuvanaṃ dadhānāt
       tasmād udāraḥ sumanobhinandyaḥ |
@@ -1499,7 +1499,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       39
       prabhāvatī ― (janāntikam) halā ! kalahaṃsie ! kiṃ imiṇā paḍicchandaeṇa so
       sariso tti ayyabhaddaṇaḍaṃ puccha | 91
-      kalahaṃsikā ― taha | (prakāśam) ayya ! imaṃ paḍirūvaṃ ṇaṃ tassa kiṃ uva­
+      kalahaṃsikā ― taha | (prakāśam) ayya ! imaṃ paḍirūvaṃ ṇaṃ tassa kiṃ uva-
       māṇam | (iti citrapaṭaṃ darśayati) 92
       bhadranaṭaḥ — (saharṣam ātmagatam) diṣṭyā yathācintitam eva saṃvṛttam |
       (prakāśam) tasyaiva kumārasya pratikṛtir iyam |
@@ -1541,7 +1541,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       101 (saprārthanam) sakhi ! atrāpratihataṃ tasya mahāmuner vacanaṃ bhavatu |
       
       
-      pradyumnābhyudayam
+
       kalahaṃsikā ― kiṃ edaṃ patthaṇijjaṃ | (prakāśam) ayya ! savvāāraramaṇijjassa
       tassa dūradesaṇivāso ahmāṇaṃ hiaaṃ dūmei | 102
       bhadranaṭaḥ — yadi tasya darśane kutūhalaṃ, tat katipayair eva divasair mama
@@ -1555,7 +1555,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       prabhāvatī ― madaṇie ! ṇaṃ avilambiaṃ pavesaa | 108
       pratīhārī — jaṃ bhaṭṭidāriā āṇavedi | (niṣkrāntā) 109
       (praviśya)
-      kāñcukīyaḥ — jayatu bhavatī | bhadre ! udyānaratnanāmnaḥ putrīkṛtasya bāla­
+      kāñcukīyaḥ — jayatu bhavatī | bhadre ! udyānaratnanāmnaḥ putrīkṛtasya bāla-
       sahakārasya prathamakusumodayamahotsavam anubhavituṃ devī tvāṃ
       pratipālayantī tiṣṭhati |
       kalahaṃsikā ― jāva ahme devīsaāsaṃ gacchahma | 110
@@ -1587,8 +1587,8 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       dṛṣṭvā ca tatpratikṛtiṃ danujendraputrī |
       kāmena kāmapi daśām anubhāvyamānā
       yāvat samāpayati sā hṛdayasthitaṃ me || 1 ||
-      āveditaś ca mayā gaganapathasañcāriṇā bhagavataḥ kṛṣṇasya vajrapura­
-      vṛttāntaḥ | kiñca so'pi kumāraḥ pradyumnaḥ prabhāvatyāḥ saundaryādi­
+      āveditaś ca mayā gaganapathasañcāriṇā bhagavataḥ kṛṣṇasya vajrapura-
+      vṛttāntaḥ | kiñca so'pi kumāraḥ pradyumnaḥ prabhāvatyāḥ saundaryādi-
       guṇasampadam ātmaviṣayam anurāgātiśayaṃ ca manmukhena śrutvā
       samprati taddarśanam evābhivāñchati | (savimarśam) tad aham idānīṃ
       kenopāyena tāṃ kumārasya dṛṣṭipathaṃ neṣyāmi | (sasmaraṇam)
@@ -1606,7 +1606,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       bhadranaṭaḥ — (apasṛtya) ayi ! kalahaṃsike ! api kuśalaṃ tava priyasakhyāḥ |
       kalahaṃsikā ― jaï paraṃ ayyassa pasādo hojja | 113
       bhadranaṭaḥ — kiṃ nirviṇṇeva kathayasi |
-      kalahaṃsikā ― ayya ! mahanto mama ṇivvedo, jaṃ tassa pajjuṇṇassa paḍirūva­
+      kalahaṃsikā ― ayya ! mahanto mama ṇivvedo, jaṃ tassa pajjuṇṇassa paḍirūva-
       daṃsaṇādo ārahia vammahaparāhīṇahiaā kaṃ vi dasāvisesaṃ aṇubhavaï |
       jaha —
       maggaṃ ujjhaï dahiṇassa vaülāmoāvahaṃ vāuṇo
@@ -1617,12 +1617,12 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       113 yadi paramāryasya prasādo bhavet |
       
       
-      pradyumnābhyudayam
+
       avi a —
       phaṃseṇa va accuṇhā maṇammi kāmaggiṇo jalantassa |
       aharapavālakisalaaṃ imāe pavvāaanti ṇīsāsā || 3 || 114
       bhadranaṭaḥ — yujyata eva prabhāvatyāḥ pradyumne bhāvabandhaḥ |
-      kalahaṃsikā ― ettha ṇavaraṃ ayyassa pakkhavādo evva pajjuṇṇa­daṃ­saṇū­
+      kalahaṃsikā ― ettha ṇavaraṃ ayyassa pakkhavādo evva pajjuṇṇa-daṃ-saṇū-
       suahiaāe piasahīe maaṇasañjarassa sisirovaāro | 115
       bhadranaṭaḥ — ayi ! kalahaṃsike ! maivaṃ nirviṇṇā bhava |
       candraṃ pradoṣa iva sarvajanābhinandyaṃ
@@ -1677,7 +1677,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       yadbāhvor anucintya vikramavidhiṃ dikpāladantāvalāḥ || 6 ||
       vajraṇābhaḥ — bhoś cāraṇapate ! ucyatāṃ saparijano bhadranaṭaḥ ‘prastūyatāṃ
       prayoga’ iti |
-      prabhāvatī ― (apavārya) halā ! kalahaṃsie ! dāṇiṃ ahmāṇaṃ maṇora­hasiddhi­
+      prabhāvatī ― (apavārya) halā ! kalahaṃsie ! dāṇiṃ ahmāṇaṃ maṇora-hasiddhi-
       kālaṇaṃ ayyabhaddaṇaḍo dakkhissadi | 118
       kalahaṃsikā ― piasahi ! aïreṇa vva imassa pakkhavādeṇa tuha maṇoraho vi
       diṭṭhivahaṃ oarissadi | 119
@@ -1693,7 +1693,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       120 All text and stage directions constituting the actual garbhāṅka or nested play are italicized.
       
       
-      pradyumnābhyudayam
+
       haṃsaḥ ― deva ! prastutaṃ, yad iyaṃ dvādaśapadā nāndī pravartitā |
       sūtradhāraḥ — tatrabhavataḥ kamalayonijanmano devarṣer nāradasya
       kṛtiṃ rambhābhisaraṇaṃ 121 nāma prekṣaṇakaṃ prayokṣye |
@@ -1703,10 +1703,10 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       sūtradhāraḥ —
       deva ! danujādhipa ! tvāṃ tribhuvanalakṣmīr iva svayaṃ rāgāt |
       abhirūpam abhisṛtavatī nalakūbaram atra nāṭake rambhā || 8 ||
-      kalahaṃsikā ― (apavārya sākūtasmitam) piasahi ! eso evva maggo maaṇa­
+      kalahaṃsikā ― (apavārya sākūtasmitam) piasahi ! eso evva maggo maaṇa-
       paravasāṇaṃ itthiāṇaṃ | 122
       (prabhāvatī adhomukhī smayate)
-      sūtradhāraḥ — (samantād avalokya) aho samucitakāritā bhagavataḥ sahasra­
+      sūtradhāraḥ — (samantād avalokya) aho samucitakāritā bhagavataḥ sahasra-
       bhānoḥ | yataḥ —
       sāyantanāsthānam adhiṣṭhite’dya
       didṛkṣayā prekṣaṇakasya deve |
@@ -1761,7 +1761,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       ātmānaṃ nirvāpaya |
       
       
-      pradyumnābhyudayam
+
       nalakūbaraḥ ― mūrkha ! na sādhu bhaṇitam |
       yadito viyogatapte dehe candrātapaṃ dīptam |
       aviṣahyapātam ārdre kalayāmy adhunā kṣate kṣāram || 15 ||
@@ -1770,7 +1770,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       tavāvasthāsūcanocitam abhineyavastu diṣṭyā samāpatitam |
       nalakūbaraḥ ― bhadra 127 ! na khalu diṣṭyā, kintu bhavato buddhivaibhavena |
       vidūṣakaḥ ― vaassa ! mama uṇa bahmaṇīviuttassa kahaṃ suhāa hodi candimā | 128
-      nalakūbaraḥ ― (sasmitam) iha hi ko nāma bhavān iva dhīraḥ | mama hṛdaya­
+      nalakūbaraḥ ― (sasmitam) iha hi ko nāma bhavān iva dhīraḥ | mama hṛdaya-
       jīvātuḥ kena cirāyate rambhā |
       vidūṣakaḥ ― suraloādo imaṃ kelāsasiharaṃ āvaḍantī sā tuha vallahā keṇa vi
       pisāeṇa vā rakkhaseṇa vā antarā gahidatti takkemi | 129
@@ -1780,7 +1780,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       ṇāha ! parittāāhi parittāāhi | 130
       vajraṇābhaḥ ― (ākarṇya sasambhramaṃ saroṣañ ca) ka eṣa mayi tiṣṭhati
       vajraṇābhe parābhidravaṃ karoti dhanurdharaḥ |
-      haṃsaḥ ― mahārāja ! nāṭakam idam | alam atra saṃrambheṇa | iyaṃ hi nala­
+      haṃsaḥ ― mahārāja ! nāṭakam idam | alam atra saṃrambheṇa | iyaṃ hi nala-
       kūbaram abhisarantī rambhā madhyemārgaṃ rāvaṇenābhibhūyamānā
       svavallabhaṃ śaraṇam ākrandati | tvayi śāsitari ko nāma bhayāvakāśaḥ
       prajānām | samprati hi —
@@ -1814,7 +1814,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       paritrātavyā bhavatī |
       rambhā ― ṇāha ! imādo rakkhasavaïṇo dasakaṇṭhādo | 133
       nalakūbaraḥ ― priye ! tava kim aparāddham anena rāvaṇahatakena |
-      rambhā ― ṇāha ! ettha tuha saāsaṃ āacchantiṃ eso duṭṭharakkhaso maṃ abhi­
+      rambhā ― ṇāha ! ettha tuha saāsaṃ āacchantiṃ eso duṭṭharakkhaso maṃ abhi-
       ddavaï | 134
       vajraṇābhaḥ ― hahaha! durātmano daśamukhasya viṣayacāpalam |
       vidūṣakaḥ ― sudaṃ evva kelāsovasalle parikappiaseṇāṇiveso ṇivasaï rāvaṇo tti | 135
@@ -1843,7 +1843,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       parāṅmukho gacchati |
       
       
-      pradyumnābhyudayam
+
       nalakūbaraḥ ― na khalv anabhimukhe’smiṃś cāpasyādhikāraḥ, asti punaḥ
       parakalatradūṣake’muṣmin śāpasya | (śāpodakaṃ gṛhītvā) ayi bhoḥ !
       rākṣasādhama !
@@ -1886,13 +1886,13 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       saṃsthāya bhūmau danujādhipo naḥ
       kāmopabhogyāṃ śriyam ātanotu || 22 ||
       (iti rambhāvidūṣakābhyāṃ saha nalakūbaro niṣkrāntaḥ)
-      haṃsaḥ ― (ātmagatam) śāntaṃ pāpaṃ śāntaṃ pāpaṃ pratihatam amaṅgala­
+      haṃsaḥ ― (ātmagatam) śāntaṃ pāpaṃ śāntaṃ pāpaṃ pratihatam amaṅgala-
       vacanaṃ, ‘sabandhavāḥ kuśalinaḥ krīḍantu devāḥ | vajraṇābhaś ca mṛto
-      bhūtvā svavibhūtiṃ 141 pradyumnopabhogyāṃ karotv’ ity amaṅgalārtha­
+      bhūtvā svavibhūtiṃ 141 pradyumnopabhogyāṃ karotv’ ity amaṅgalārtha-
       vyañjakam asya śailūṣāpaśadasya vacanam | sarvathā kuśalaṃ bhavatu
       devasya |
       vajraṇābhaḥ ― aho āsecanakam asya bhadranaṭasya prayogacāturyam |
-      prabhāvatī ― (janāntikam) halā ! kalahaṃsie ! kahaṃ so mahābhāo mae samā­
+      prabhāvatī ― (janāntikam) halā ! kalahaṃsie ! kahaṃ so mahābhāo mae samā-
       sādidavvo | 142
       kalahaṃsikā ― (sasmitam) piasahi ! rambhāmaggaṃ aṇusaradu hodī | 143
       prabhāvatī ― halā ! adīsanto jaṇo kahaṃ ahisaridavvo | 144
@@ -1921,7 +1921,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       ity āryabhadranaṭasya vacanam |
       
       
-      pradyumnābhyudayam
+
       atha caturtho’ṅkaḥ |
       (tataḥ praviśati kāñcukīyaḥ)
       kāñcukīyaḥ ― (sanirvedam)
@@ -1961,7 +1961,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       anyādṛśīṃ vapuṣi kāntim asau bibharti || 5 ||
       tad iyam idānīṃ madanabāṇalakṣmībhūteti tarkayāmi | dhanyaḥ sa khalu
       yuvā, yam iyam avadhīritasamastataruṇasamājena hṛdayenānavarataṃ
-      dhārayati | (sāśaṃsam) api nāma vidhirasyā manorathaphalaṃ sam­pādayet |
+      dhārayati | (sāśaṃsam) api nāma vidhirasyā manorathaphalaṃ sam-pādayet |
       atha vā tattādṛśaśīlaguṇaśālinyāḥ prabhāvatyāḥ ko nāma manoratho
       durlabhaḥ syāt | yāvad asyāḥ samavasthām āvedayituṃ devyāḥ sakāśaṃ
       gacchāmi | (niṣkrāntaḥ)
@@ -1973,7 +1973,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       prabhāvatī ― halā ! kalahaṃsie ! ayyabhaddaṇaḍappasādaladdheṇa imassa
       paccakkhamaaṇassa daṃsaṇamahūsaveṇa evva so maaṇūsavo saṃvutto | 147
       kalahaṃsikā ― sāhu bhaṇiaṃ piasahīe | 148
-      prabhāvatī ― halā ! ṇa savvo savvattha kusalo, jaṃ saalakalāviaḍḍheṇa ayya­
+      prabhāvatī ― halā ! ṇa savvo savvattha kusalo, jaṃ saalakalāviaḍḍheṇa ayya-
       bhaddaṇaḍeṇa vi taṃ mahābhāaṃ jaharūvaṃ ālihiduṃ ṇa pāridaṃ | 149
       kalahaṃsikā ― āma piasahi ! āma, savvassa vi ākidī ālekkhammi abbhahiasohā
       lakkhijjaï, imassa uṇa vivarīdā diṭṭhā | 150
@@ -1995,7 +1995,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       153 kīdṛṣaḥ |
       
       
-      pradyumnābhyudayam
+
       kalahaṃsikā ― jāriso tassiṃ piasahīe | 154
       prabhāvatī ― maṇoraheṇa kiṃ ṇāma ṇa sambhāvijjaï | 155
       kalahaṃsikā ― ṇaṃ ahaṃ jahadiṭṭhaṃ evva bhaṇāmi |
@@ -2004,8 +2004,8 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       prabhāvatī ― halā ! tāriseṇa maaṇūsaveṇa kassa ṇāma hiaaṃ ṇa vihmāvijjaï | 157
       kalahaṃsikā ― piasahi ! saaṃ evva pekkhadu hodī | taïā khu so pajjuṇṇo
       vihmaarasaṇipphandapahmarāīhiṃ kudūhalavasataralamandharatāraehiṃ
-      paharisaharullasantakuḍilabhūmaālaehiṃ iaāṇurāapisuṇe­hiṃ kaḍakkha­
-      vikkhevehiṃ kuvalaïdadisāhoo ṇirantaruggaa­pulaa­paribhūsi­dasaalasarīro
+      paharisaharullasantakuḍilabhūmaālaehiṃ iaāṇurāapisuṇe-hiṃ kaḍakkha-
+      vikkhevehiṃ kuvalaïdadisāhoo ṇirantaruggaa-pulaa-paribhūsi-dasaalasarīro
       ṭhāvido kiṃ maaṇūsaveṇa aha mama vaaṇena | 158
       prabhāvatī ― ṇaṃ sahāvasiddhā tassa te vilāsā | 159
       kalahaṃsikā ― piasahi ! taïā tuha vi sāhāviā evva | 160
@@ -2048,7 +2048,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       prabhāvatī ― (svagatam) hiaa ! dāṇiṃ tue samassasidavvaṃ | (prakāśam) halā !
       kalahaṃsie ! kiṃ tassa mahābhāassa puṇo daṃsaṇamahūsavo laddho
       bhave |169
-      kalahaṃsikā ― piasahi ! aïrā evva taṃ dakkhissahma, ‘jado ettha kamaliṇī­
+      kalahaṃsikā ― piasahi ! aïrā evva taṃ dakkhissahma, ‘jado ettha kamaliṇī-
       tīraladāmaṇḍavammi pajjuṇṇaṃ āṇaïssaṃ’ ti ayyabhaddaṇaḍeṇa me
       kahiaṃ | 170
       prabhāvatī ― (saprārthanam ātmagatam) avi ṇāma maha hiaasañjīvaṇaṃ so
@@ -2075,7 +2075,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       bhavet |
       
       
-      pradyumnābhyudayam
+
       pradyumnaḥ ― tadānīm api mamaiveti kathanīyam |
       bāhyodyāne saha parijanais tatra saṅkrīḍamānā
       dṛṣṭā madhye danujasudṛśām utsavavyāpṛtānām |
@@ -2114,7 +2114,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       pariṣvaktuṃ śakyaṃ 172 pramadavanaparyantapavanaḥ || 13 ||
       (praveśaṃ nāṭayataḥ)
       bhadranaṭaḥ — (puro nirdiśya) iyam atra vajraṇābhanandinī kalahaṃsikayā
-      kimapi mantrayamāṇā tiṣṭhati | yāvad ihaiva sthitvānayor visrambha­
+      kimapi mantrayamāṇā tiṣṭhati | yāvad ihaiva sthitvānayor visrambha-
       jalpitāny ākarṇayāvaḥ |
       pradyumnaḥ ―tarhi latāntarhitau bhavāvaḥ |
       bhadranaṭaḥ — (sasmitam) aho kumārasya madanapāravaśyam —
@@ -2143,7 +2143,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       kusumāyudhena likhitaṃ sadā taṃ paśyāmi cittaphalake || 16 ||
       
       
-      pradyumnābhyudayam
+
       bhadranaṭaḥ — nanu pradyumnaikatānateti vaktavyam |
       pradyumnaḥ ―pakṣapāta eva mayi bhavantam evaṃ vyavahārayati | tad adyaiva
       jñāsyati bhavān |
@@ -2153,7 +2153,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       asambhāvanaiva me nidānaṃ saṃśayasya |
       prabhāvatī ― halā ! ajja maaṇasaraṇisaṅgībhūdahiaā attāṇaṃ pi ṇa pāremi
       dhāredaṃ | 177
-      kalahaṃsikā ― piasahi ! khaṇamettaṃ paḍivāledu hodī | ahmāsu ekkantapakkha­
+      kalahaṃsikā ― piasahi ! khaṇamettaṃ paḍivāledu hodī | ahmāsu ekkantapakkha-
       paḍido ayyabhaddaṇaḍo taṃ mahābhāaṃ pajjuṇṇaṃ ettha uvaṇīa dāṇiṃ
       evva tuha maṇorahaṃ pūraïssadi | 178
       pradyumnaḥ ―anena kalahaṃsikāvacanena saṃśayān nivartitāsmi | (agrato
@@ -2194,7 +2194,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       prakṛtyā śītalo vāyur nānāpuṣparajovahaḥ |
       dāvānalasadṛkṣo māṃ dahatīty adbhutāntaraṃ || 22 ||
       (iti dīrgham uṣṇaṃ ca niśvasya mūrcchāṃ nāṭayati)
-      kalahaṃsikā ― haddhi haddhi aïbhūmiṃ gado se maaṇasandāvo | halā ! sama­
+      kalahaṃsikā ― haddhi haddhi aïbhūmiṃ gado se maaṇasandāvo | halā ! sama-
       ssasihi samassasihi | (iti nāṭyena śiśiropacāraṃ karoti) 182
       bhadranaṭaḥ — (sasaṃbhramam) kumāra ! kiṃ vilambase ! sapadi samāśvāsaya
       tāvad imām ātmasandarśanena | adya khalv amuṣyāḥ —
@@ -2216,7 +2216,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       184 (sakhedam) ko’tra pratīkāro bhavet |
       
       
-      pradyumnābhyudayam
+
       prabhāvatī ― ṇatthi me hadāsāe aṇṇo maraṇādo, jaṃ dāṇiṃ tassiṃ dullahammi
       jaṇe ukkaṇṭhiahiaaṃ maṃ pañcehiṃ vi sarehiṃ maaṇo paharaï | 185
       pradyumnaḥ ―(tiraskaraṇīm apanīya sahasopasṛtya)
@@ -2293,7 +2293,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       athakim | kiñca śrūyante purāṇeṣu gāndharvavivāhapariṇītā bahvyaḥ kanyakāḥ |
       
       
-      pradyumnābhyudayam
+
       prabhāvatī ― (svagatam) ammahe dāṇiṃ amuasāaraṇimaggaṃ via mama hiaaṃ
       kaṃ pi dasaṃ aṇubhavaï | 196
       kalahaṃsikā ― vaassa ! dāṇiṃ via savvadā tue ṇīsāmaṇṇaṃ esā bahumaṇṇijjaü | 197
@@ -2309,7 +2309,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       paricaryaikaparas te savidhe tanvaṅgi ! tiṣṭhati jano’yam |
       stanabhāravahanakhinnaṃ katham iha gamanena khedayasi madhyam || 32 ||
       (iti balād enāṃ nivartayati)
-      prabhāvatī ― ayya ! viaḍḍhamahilājaṇasamuidehiṃ vaaṇehiṃ kitti muddha­
+      prabhāvatī ― ayya ! viaḍḍhamahilājaṇasamuidehiṃ vaaṇehiṃ kitti muddha-
       sahāvaṃ maṃ paāresi | muñca dāva | ahaṃ khu piasahiṃ aṇusarissaṃ | 200
       pradyumnaḥ ― (sānunayam)
       tāvat tiṣṭhatu bhavatī sādhvasam apahāya tanvaṅgi ! |
@@ -2359,7 +2359,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       cukibhyāṃ saha duḥkhena niṣkrāntā)
       
       
-      pradyumnābhyudayam
+
       atha pañcamo’ṅkaḥ |
       (tataḥ praviśati bhadranaṭaḥ)
       bhadranaṭaḥ — (savimarśam) prāyeṇa kāryādhīnaṃ ramyatvam aramyatvaṃ ca
@@ -2428,7 +2428,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       6364
-      pradyumnābhyudayam
+
       kṛṣṇaḥ — tarhi mahāmune ! vatsasya sakāśam avilambitam eva gacchāvaḥ |
       tatpūrvaṃ kṣayam avalokya sainikānāṃ
       sannahyed danujapatiḥ krudhā sa yoddhum |
@@ -2448,7 +2448,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       viśvaṃ mānuṣaśabdaśūnyam adhunā kartuṃ sa uttiṣṭhate
       devo vajrapureśvaras trijagatīsampatpriyambhāvukaḥ || 10 ||
       nāradaḥ — (nepathyābhimukham avalokya puro nirdiśan) yathācintitam eva
-      sam­­upasthitaṃ, yad ayam idānīm ahamahamikayā sam­upasthitair
+      sam--upasthitaṃ, yad ayam idānīm ahamahamikayā sam-upasthitair
       ālokaśabdamukharamukhaiḥ 205 senāpatibhir udghuṣyamāṇanijānubhāvaḥ
       krodhānalarūkṣaiḥ kaṭākṣavikṣepair nirdahann iva nikhilam api
       jīvalokaṃ karatalakalitavividhāyudhamarīcimañjarībhir ākālikīm
@@ -2478,7 +2478,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       samīravaśacañcaladhvajapaṭāñcalaiḥ syandanaiḥ |
       raṇādbhutadidṛkṣayā sapadi vatsadaityendrayor
       nabhastalam itas tato nibiḍayanti vaimānikāḥ || 13 ||
-      nāradaḥ — (nirūpya) katham upakrāntam eva yoddhuṃ kumāra­vajraṇābhābhyām |
+      nāradaḥ — (nirūpya) katham upakrāntam eva yoddhuṃ kumāra-vajraṇābhābhyām |
       adya hi —
       kalpāpāyabhayākulāṃ vidadhato ye bhūrbhuvaḥsvastrayīṃ
       mucyante prasabhāvakṛṣṭadhanuṣā patyā suradveṣiṇām |
@@ -2489,13 +2489,13 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       vakṣastaṭe vajrapureśvarasya |
       vatsena vaiphalyam amī prayānti
       kṣiptāḥ śarā mūrkha ivopadeśāḥ || 15 ||
-      nāradaḥ — (saharṣaṃ) bhoḥ kaṃsaniṣūdana ! paśya sakalalokātiśāyi bhuja­
+      nāradaḥ — (saharṣaṃ) bhoḥ kaṃsaniṣūdana ! paśya sakalalokātiśāyi bhuja-
       vīrāyitaṃ bhavadātmajasya —
       207 TSS MS3 var [śa]ṅke sa ve[dayitum]
       208 TSS Śāstri gloss: vamantya āvir bhavantyaḥ kṛśānukaṇikā yebhyas tāḥ
       
       
-      pradyumnābhyudayam
+
       kuṇṭhībhūtasurāsurāstravibhave gotrācalādhityakā-
       vyūḍhe dānavarājavakṣasi jagallakṣmīvihārāṅgaṇe |
       etena prahitāḥ parābhavam amī svopajñam ātanvate
@@ -2520,7 +2520,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       kim etad adbhutaṃ kṛṣṇa ! gadasya dhṛtiśālinaḥ |
       yaduvaṃśabhuvāṃ rājñām īdṛśī kālayodhitā || 19 ||
       kṛṣṇaḥ — (sāvegam) bhagavan ! vatsayor vajraṇābhasunābhābhyāṃ
-      dvandvayuddhe pravṛtte hanta sāmbam abhidravanti samarārabhaṭī­
+      dvandvayuddhe pravṛtte hanta sāmbam abhidravanti samarārabhaṭī-
       samudbhaṭāstridaśaripusenābhaṭāḥ |
       nāradaḥ — (nirvarṇya sollāsam) alam āvegena | paśya paśya —
       209 TSS MS1,2 var [pra]tyanta[rībhavāmi]
@@ -2548,7 +2548,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       citrā vṛtraripor dṛśāṃ daśaśatī tṛptiṃ parām eṣyati’ || 22 ||
       iti | (saślāgham) adya me cirakālatṛṣitayoś cakṣuṣor iva śravaṇayor api
       pāraṇā kṛtā kumāreṇa |
-      kṛṣṇaḥ — (paritaḥ paśyan) maharṣe ! nūnam idānīṃ divyāstrasamprahāra­
+      kṛṣṇaḥ — (paritaḥ paśyan) maharṣe ! nūnam idānīṃ divyāstrasamprahāra-
       prasaktena dānavarājena tāmasam astraṃ prayuktam | yataḥ —
       rāhugrastām avasthāṃ janayad adhipater vāsarāṇām akāṇḍe
       kurvad vīrābhisāratvaritasuravadhūsvairasañcārasaukhyam |
@@ -2560,7 +2560,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       ca padair api | praharanti yatas tasmād aṣṭapraharaṇā dvipāḥ’ iti |
       
       
-      pradyumnābhyudayam
+
       nāradaḥ — (samantād avalokya saharṣam) kumāreṇa punaḥ kṛtapratikṛtakovidena
       prayuktaḥ pāvakadaivato bāṇaḥ |
       itaḥ prahitacakṣuṣā yadukuleśa ! bhāvyaṃ tvayā
@@ -2629,7 +2629,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       214 TSS MS3 var [sa]mpramukta[m iva]
       
       
-      pradyumnābhyudayam
+
       āpataty ahaha dānavādhipe
       dṛṣṭibhiḥ saha divaukasām idam || 33 ||
       kṛṣṇaḥ — (saharṣādbhutam) devarṣe ! siddham idānīm asmadabhilaṣitaṃ, yad
@@ -2645,7 +2645,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       dṛṣṭyoḥ prītiṃ vitanvat patati diviṣadāṃ drāk sunābhasya śīrṣam || 35 ||
       kṛṣṇaḥ — (vilokya saharṣasmitam) nanu samucitam eva jyeṣṭhapathānuvartanam
       anujasya |
-      nāradaḥ — (anyato darśayan) paśya sainikā api svāmigataṃ mārgam anu­gacchanti |
+      nāradaḥ — (anyato darśayan) paśya sainikā api svāmigataṃ mārgam anu-gacchanti |
       tathā hi —
       acalena daityapatinā prahiteyaṃ vāhinī mahatī |
       raṇajaladhimadhyadīpte saṃkṣīṇā bhavati sāmbabaḍavāgnau || 36 ||
@@ -2653,7 +2653,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       sānuplavasya vajraṇābhasya jetāraṃ gadasāmbasahāyaṃ vatsam avalokayan
       kṛtakṛtyam ātmānam avagacchāmi |
       nāradaḥ — nanv adya sarve’pi lokāḥ kṛtakṛtyāḥ | (paritaḥ paśyan saharṣa-
-      ­­bahumānam)
+      --bahumānam)
       samaragatakumāronmuktaghorāstradhārā-
       dalitavibudhaśatror darśanād vajrapuryāḥ |
       aham iha śarajātaiḥ kṛṣṇa ! rāmātmanas te
@@ -2685,18 +2685,18 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       sāmbaḥ — tad vayam api tvaritam eva pratyudgacchāmaḥ |
       (iti sarve upasṛtya nāṭyena kṛṣṇam abhivādayante)
       kṛṣṇaḥ — (sarvān utthāpya pariṣvajya ca saharṣabahumānam) diṣṭyā sāmpratam
-      akṣataśarīrān vijayino vatsān avalokayāmi | vatsāḥ ! eṣa devarṣir nārado’­
+      akṣataśarīrān vijayino vatsān avalokayāmi | vatsāḥ ! eṣa devarṣir nārado’-
       bhivādyatām |
       (sarve tathā kurvanti)
-      nāradaḥ — vajraṇābhamahārṇavabāḍavānala ! pradyumna ! sunābha­kalabha­
-      kaṇṭhī­rava ! gada ! danujarājasainyavipinadāvadahana ! sāmba ! yūyam
+      nāradaḥ — vajraṇābhamahārṇavabāḍavānala ! pradyumna ! sunābha-kalabha-
+      kaṇṭhī-rava ! gada ! danujarājasainyavipinadāvadahana ! sāmba ! yūyam
       āyuṣmanto bhūyāsta |
       (praviśya paṭākṣepeṇa)
       215 TSS Śāstrī gloss: śeṣām iva nirmālyadānam iva
       
       
       7172
-      pradyumnābhyudayam
+
       bhadranaṭaḥ — (sapraṇāmam) deva ! diṣṭyā vardhase |
       pradyumnagadasāmbānāṃ prāsūyanta sutān priyāḥ |
       prabhāvatīcandravatīguṇavatyaḥ kulodvahān || 41 ||
@@ -2723,7 +2723,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       uttoraṇām upahṛtāgurudhūpavāsām |
       dvārvedimadhyagatamaṅgaladīpamālā-
       ramyāṃ vilokayatu dānavarājadhānīm || 44 ||
-      kṛṣṇaḥ — (vilokya saharṣam) tarhi tvaritam atra sakalam apy abhiṣe­kopakar­aṇa­
+      kṛṣṇaḥ — (vilokya saharṣam) tarhi tvaritam atra sakalam apy abhiṣe-kopakar-aṇa-
       jātam ānīyatām |
       bhadranaṭaḥ — yad ājñāpayati devaḥ | (iti niṣkramya praviśya ca) deva ! sarvam
       idam ihopanītam |
@@ -2748,7 +2748,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       prāyaḥ kandalitaś ca dharmaviṭapī prāptābhiṣekaśriyā
       pradyumnena tad adya yādavapate ! sarvaṃ hi naḥ sādhitam || 46 ||
       kṛṣṇaḥ — (pradyumnam avalokya) vatsa ! kiṃ te bhūyaḥ priyam upaharāmi |
-      pradyumnaḥ ― tāta ! kim ataḥ param api priyam asti | adya hi bhavatprasāda­
+      pradyumnaḥ ― tāta ! kim ataḥ param api priyam asti | adya hi bhavatprasāda-
       mātreṇa mayāpi —
       samiti nihatas tais tair daityādhipaḥ saha bāndhavaiḥ
       prahitavibhavaṃ 217 rājyaṃ prāptaṃ tadīyam aśeṣataḥ |
@@ -2805,7 +2805,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Stage Manager — (walking about and looking backstage) My Lady! Come here
       please!
       (enters)
@@ -2887,7 +2887,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       6
       In every mango tree, the splendour of the battle-drum is fashioned by the
       cries of cuckoos;
@@ -2964,7 +2964,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Nārada — You have spoken the truth, Sir, since:
       11
       All the four Vedas fail to praise
@@ -3048,7 +3048,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       whom serpent maidens ever keep from darkness, with the light from the
       gems in their hoods —
       how can that Vajraṇābha, who is here the husband of the Lakṣmī of the three
@@ -3128,7 +3128,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       (enters)
       Portress — (with a bow) May you propser, your Highness!
       Kṛṣṇa — Vijayavatī! Please summon Bhadranaṭa.
@@ -3202,7 +3202,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Act Two
       (enter Servant-girl)
       Servant-girl — I have been commanded by the queen: ‘O servant Kālāvatī!
@@ -3279,7 +3279,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       1
       Like the image of Ratipati, 239
       outshining a full moon;
@@ -3359,7 +3359,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       4
       The outer gate is fashioned from staffs of the bones and tusks of the celestial
       elephants;
@@ -3436,7 +3436,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Prabhāvatī — Is he a god, a demon or a human being?
       Bhadranaṭa —
       8
@@ -3516,7 +3516,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Bhadranaṭa — How can I describe what he is “like”? For he is one
       13
       in whom the entire class of possible objects to which things are compared
@@ -3596,7 +3596,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Act Three
       (enter Bhadranaṭa)
       Bhadranaṭa ― (happily)
@@ -3674,7 +3674,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Kalahaṃsikā ― Well, I have been sent to find out whether my friend’s father has
       gone to the performance tent to see the play. The king has in fact set out to
       the performance tent ― I am on my way to go tell this to my friend.
@@ -3757,7 +3757,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Sūtradhāra ― Your most honoured majesty! I shall perform the play called
       Rambhābhisaraṇa, a composition of the lotus-born divine seer Nārada. And
       so may the king ― the pearl gem in the lineage of Kāśyapa, himself so well-
@@ -3832,7 +3832,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Prabhāvatī ― (aside) Friend! Blessed indeed is that woman desired by such a lover
       as this!
       Kalahaṃsikā ― Friend! That young man is blessed as well, who meets his lover in
@@ -3913,7 +3913,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Rambhā ― Lord! Help! Help! (she falls at his feet)
       Nalakūbara ― (making her stand up, in haste) Timid Lady! When Nalakūbara is
       here, from what need you be protected?
@@ -3988,7 +3988,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       
-      pradyumnābhyudayam
+
       Haṃsa ― (to himself) Tsk! Heaven forbid and protect us from this inauspicious
       speech! ‘May the prosperous ones, with their associates, play happily —
       these are the gods! And may Vajraṇābha die and make over his sovereign
@@ -4046,7 +4046,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       
       
       109110
-      pradyumnābhyudayam
+
       Act Four
       (enter a chamberlain)
       Chamberlain (fed up) —
@@ -4118,7 +4118,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       Pradyumna.
       
       
-      pradyumnābhyudayam
+
       Prabhāvatī — Friend! But not everything was exactly perfect, since even Master
       Bhadra, who is a master of all the arts, could fully capture in his drawing a
       man of such beauty.
@@ -4196,7 +4196,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       273 Ātmayoni, a name of the creator-god Brahmā.
       
       
-      pradyumnābhyudayam
+
       Bhadranaṭa — Boy! Your eye completely attained its object when you, dressed in
       the guise of Nalakūbara in the performance tent, beheld for a long time that
       one who is dear to your heart, and moreover the two of you experienced a
@@ -4272,7 +4272,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       convention of eavesdropping. Pradyumna acts shame” (Warder 2004: 888).
       
       
-      pradyumnābhyudayam
+
       Pradyumna — (enacting shame, looking joyfully before him)
       15
       She, whose body is emaciated by Madana
@@ -4351,7 +4351,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       Pradyumna’s meeting with Prabhāvatī.
       
       
-      pradyumnābhyudayam
+
       Prabhāvatī — Friend! This is my moment, the time to live has come:
       20
       It is the moment bright with white lotuses that are brought to life
@@ -4423,7 +4423,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       upon Pradyumna, and beholds him only in her heart or imagination.
       
       
-      pradyumnābhyudayam
+
       Bhadranaṭa — (jokingly) Aha, lovely one! Direct your anger rather to your own
       body, my lady!
       26
@@ -4494,7 +4494,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       carrying the burden of your breasts?
       
       
-      pradyumnābhyudayam
+
       (he turns her about by force) 287
       Prabhāvatī — Sir! Why do you deceive me, who am by nature so simple, with
       words that are fit for a clever woman? 288 Just let me go. I am going after my
@@ -4550,7 +4550,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       (nir +√viś) into (also, taking delight in) the pleasure of kissing Prabhāvatī.
       
       
-      pradyumnābhyudayam
+
       Act Five
       (enter Bhadranaṭa)
       Bhadranaṭa — (thoughtfully) The pleasantness and unpleasantness of the season is
@@ -4622,7 +4622,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       Kṛṣṇa — (anxiously) And?
       
       
-      pradyumnābhyudayam
+
       Nārada — Then:
       5
       Comforting with rapturous words his highly affectionate beloved,
@@ -4696,7 +4696,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       luminosity. His defeat of the demon king is naturally coordinated with the dawning of day.
       
       
-      pradyumnābhyudayam
+
       cutting glances, harsh with the fire of his rage, while his own authority is
       proclaimed by army generals whose mouths are resonant with flattering
       words, and who have approached with arrogant boasting.
@@ -4766,7 +4766,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       297 Kṛṣṇa’s father Vasudeva is also known as Ānakadundubhi.
       
       
-      pradyumnābhyudayam
+
       17
       Superior in might and in the power of his arm, this younger hero
       is named Sunābha, the brother of the demon master by whom the world is
@@ -4842,7 +4842,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       by Vajraṇābha.
       
       
-      pradyumnābhyudayam
+
       23
       Unexpectedly creating a state of eclipse of that overlord of days, the sun,
       and causing happiness for the Apsarases who may now roam at will,
@@ -4915,7 +4915,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       Nārada — (despairingly)
       
       
-      pradyumnābhyudayam
+
       30
       Barely visible because of the halos of light and splendrous burning,
       thrumming with the fierce sound of bells like the rumbling of thunderclouds
@@ -4988,7 +4988,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       around, with joy and reverence):
       
       
-      pradyumnābhyudayam
+
       37
       Beholding Vajrapurī, where the enemy of the gods has been destroyed
       by the flow of frightful weapons cast by the lad in battle,
@@ -5055,7 +5055,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       prosper!
       
       
-      pradyumnābhyudayam
+
       Kṛṣṇa —
       42
       In the full bloom of young adulthood, knowers of weapons, fully
@@ -5128,7 +5128,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       What more need we say? Everything we had desired has been achieved!
       
       
-      pradyumnābhyudayam
+
       (the concluding benedictory verse) And so let this be just so:
       48
       As oceans do with their hundreds of gems, may good men spread joy with
@@ -5559,8 +5559,8 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
 1952. Pradyumnābhyudayamu: Ravivarmabhūpāla viracitamu. Macilīpaṭnaṃ:
       Kōṭa Yajñarāmaśarma.
       Pradyumnacarita of Mahāsena. Jaina, Rameśacandra, ed. 2006. Ācārya mahāsena
-      vira­cita pradyumnacarita (saṃskṛta mahākāvya). New Delhi: Bhāratīya
-      Jñā­na­pīṭha.
+      vira-cita pradyumnacarita (saṃskṛta mahākāvya). New Delhi: Bhāratīya
+      Jñā-na-pīṭha.
       Priyadarśikā of Harṣa. Suru, N.G. 1928. Śrīharṣadevaviracitā Nāṭikā Priyadarśikā.
       Poona: V.G. Paranjpe for N.G. Suru.
       Rāmāyaṇa of Vālmīki [Critical Edition]. Shah, Umakant Premanand, ed. 1975. The
@@ -5586,7 +5586,7 @@ krit Series (anantaśayanasaṃskṛtagranthāvalī, hereafter TSS) — until hi
       Ahmedabad: Kalikālasarvajña Śrīhemacandrācārya Navama Janmaśābdī Smṛti
       Śikṣaṇa-Saṃskāranidhi. Originally published 1936, ed. Puṇyavijaya Muni, Ah-
       medabad: Kalikālasarvajña Janmaśābdī Smṛti Śākṣaṇ Saṃskāranidhi.
-      Uttararāmacarita of Bhavabhūti. Belvalkar, S.K., ed. 1921. Mahākaviśrī­
+      Uttararāmacarita of Bhavabhūti. Belvalkar, S.K., ed. 1921. Mahākaviśrī-
       bhavabhūtipraṇītam Uttararāmacaritam: Mūlamātram. Poona: Oriental Book
       Agency (Poona Oriental Series no. 30).
       Vāmana Purāṇa. Bimali, O.N. and and K.L. Joshi, eds. 2005. Vāmana Purāṇa: Sans-
