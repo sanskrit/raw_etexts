@@ -159,3 +159,19 @@
 [submodule "mixed/shreevatsa-latex-books"]
 	path = mixed/shreevatsa-latex-books
 	url = https://github.com/shreevatsa/latex-book-sources.git
+[submodule "vedaH/Rg/vishvAsa.github.io/content"]
+	path = vedaH/Rg/vishvAsa.github.io/content
+	url = https://github.com/vishvAsa/vedAH_Rk
+	branch = content
+[submodule "vedaH/Rg/vishvAsa.github.io/static"]
+	path = vedaH/Rg/vishvAsa.github.io/static
+	url = https://github.com/vishvAsa/vedAH_Rk
+	branch = static_files
+[submodule "vedaH/yajur/vishvAsa.github.io/static"]
+	path = vedaH/yajur/vishvAsa.github.io/static
+	url = https://github.com/vishvAsa/vedAH_yajuH
+	branch = static_files
+[submodule "vedaH/yajur/vishvAsa.github.io/content"]
+	path = vedaH/yajur/vishvAsa.github.io/content
+	url = https://github.com/vishvAsa/vedAH_yajuH
+	branch = content
