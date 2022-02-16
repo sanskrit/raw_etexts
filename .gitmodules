@@ -175,3 +175,7 @@
 	path = vedaH/yajur/vishvAsa.github.io/content
 	url = https://github.com/vishvAsa/vedAH_yajuH
 	branch = content
+[submodule "kAvyam/mishram/vishvAsa.github.io_static"]
+	path = kAvyam/mishram/vishvAsa.github.io_static
+	url = https://github.com/vishvAsa/kAvyam.git
+	branch = static_files
