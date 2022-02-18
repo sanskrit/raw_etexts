@@ -180,5 +180,7 @@
 	url = https://github.com/vishvAsa/kAvyam.git
 	branch = static_files
 [submodule "kAvyam/padyam/subhAShitam/db_toml_md__sa"]
-	path = kAvyam/padyam/subhAShitam/db_toml_md__sa
+	path = kAvyam/padyam/subhAShitam/db_toml_md__sa__padya
 	url = https://github.com/subhAShita/db_toml_md__sa.git
+[submodule "kAvyam/padyam/subhAShitam/db_toml_md__sa__padya"]
+	url = https://github.com/subhAShita/db_toml_md__sa__padya.git
