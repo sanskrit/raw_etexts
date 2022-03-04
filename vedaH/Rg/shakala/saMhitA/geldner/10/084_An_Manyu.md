@@ -14,13 +14,3 @@ title = "084 An Manyu"
 
 
 
-
-
-
-
-Zehnter Liederkreis
-Der große Nachtrag
-
-
-II        Die Einzellieder        10,85 - 10,191
-

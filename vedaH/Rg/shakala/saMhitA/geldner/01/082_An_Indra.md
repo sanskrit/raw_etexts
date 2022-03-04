@@ -14,4 +14,3 @@ title = "081 An Indra"
 8.	Berausche dich bei dem ausgepreßten Soma, o Held, zur Kraft, zur Freigebigkeit, denn wir kennen dich als den Güterreichen! Wir haben dir unsere Wünsche ausgeschüttet; nun sei unser Helfer.
 9.	Diese Leute hier bringen für dich, Indra, allen begehrenswerten Besitz zur Blüte. Du durchschaust ja die Habe der Kargen - hoch und niedrig. Deren Habe bring uns her!
 
-
