@@ -794,7 +794,9 @@ We thus recommend that – for a genuine study of the system – Candrānanda an
 
 81  One interesting exception is the Italian translation of Arena, 1982 \(VSa\); but he only translates the sūtras; while for Candrānanda’s commentary, he provides his own summary and commentary. 
 
-22 * Introduction to Indian philosophy and Vaiśeṣika* **1.2 MSS on VSc82**
+22 * Introduction to Indian philosophy and Vaiśeṣika* 
+
+### 1.2 MSS on VSc82
 
 When Jambūvijayaji published the edition of 1961, he used only 2 MSS. 83 He probably did not know that each of those 2 MSS had a further copy – preserved in Pune \(the MSS library of Bhandarkar Institute\) and another MS that has a copy preserved at Ujjain. Thus, there are 5 extant MSS on VSc, classified into 2 groups: those of a Jaina Devanagari Script and those of Śāradā script. Here, I only wish to list the MSS that have been used and already described by Jambūvijayaji \(J , Ś 
 
