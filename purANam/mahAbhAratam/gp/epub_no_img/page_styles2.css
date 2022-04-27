@@ -1,0 +1,13 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "NotoSansDevanagari Bold";
+    font-weight: bold;
+    src: url(2/OEBPS/font_52394.ttf)
+    }
+@font-face {
+    font-family: "NotoSansDevanagari Regular";
+    src: url(2/OEBPS/font_52396.ttf)
+    }
