@@ -1,0 +1,3231 @@
+{
+  "calibre": {
+    "display": "block",
+    "fontSize": "1em",
+    "lineHeight": "1.2",
+    "textAlign": "center",
+    "margin": "0 5pt",
+    "padding": "0"
+  },
+  "calibre1": {
+    "display": "block"
+  },
+  "calibre2": {
+    "lineHeight": "1.2"
+  },
+  "calibre3": {
+    "display": "block",
+    "fontSize": "1em",
+    "textAlign": "center",
+    "margin": "0 5pt",
+    "padding": "0"
+  },
+  "class": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.500334em",
+    "marginTop": "0.057731em",
+    "textAlign": "right"
+  },
+  "class_1": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "textAlign": "center"
+  },
+  "class_2": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.3em",
+    "textAlign": "center"
+  },
+  "class_3": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "2em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "17.708%",
+    "marginRight": "17.708%",
+    "marginTop": "0.375em",
+    "textAlign": "center"
+  },
+  "class_4": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "textAlign": "center"
+  },
+  "class_5": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.5em",
+    "textAlign": "center"
+  },
+  "class_6": {
+    "display": "block",
+    "textAlign": "center",
+    "margin": "6.25em 26.25% 0.625em"
+  },
+  "class_7": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "100%"
+  },
+  "class_8": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "33.25%",
+    "marginRight": "26.25%"
+  },
+  "class_9": {
+    "display": "block",
+    "textAlign": "center",
+    "margin": "0.625em 26.25%"
+  },
+  "class_10": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "paddingTop": "5.7em"
+  },
+  "class_11": {
+    "display": "block",
+    "textAlign": "center"
+  },
+  "class_12": {
+    "height": "auto",
+    "width": "100%"
+  },
+  "class_13": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "19.6874em"
+  },
+  "class_14": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.625em"
+  },
+  "class_15": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "27.6563em"
+  },
+  "class_16": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "0.625%",
+    "marginTop": "0.625em"
+  },
+  "class_17": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.125em"
+  },
+  "class_18": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.125em"
+  },
+  "class_19": {
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "lineHeight": "1.2"
+  },
+  "class_20": {
+    "color": "blue",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "lineHeight": "1.2"
+  },
+  "class_21": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginTop": "0.2em",
+    "textAlign": "center"
+  },
+  "class_22": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.375em",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_23": {
+    "borderBottomStyle": "solid",
+    "borderBottomWidth": "4px",
+    "borderLeftStyle": "solid",
+    "borderLeftWidth": "1px",
+    "borderRightStyle": "solid",
+    "borderRightWidth": "4px",
+    "borderTopStyle": "solid",
+    "borderTopWidth": "1px",
+    "fontWeight": "800",
+    "lineHeight": "1.2",
+    "padding": "8px"
+  },
+  "class_24": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "textAlign": "justify",
+    "textIndent": "5.313%"
+  },
+  "class_25": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginTop": "0.5em",
+    "textAlign": "right"
+  },
+  "class_26": {
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.33333em",
+    "fontWeight": "800",
+    "lineHeight": "1.2"
+  },
+  "class_27": {
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.88889em",
+    "fontWeight": "800",
+    "lineHeight": "1.2"
+  },
+  "class_28": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginTop": "0.2em",
+    "textAlign": "center"
+  },
+  "class_29": {
+    "display": "block",
+    "marginTop": "0.125em",
+    "textAlign": "center"
+  },
+  "class_30": {
+    "WebkitHyphens": "none",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "100%"
+  },
+  "class_31": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.5em",
+    "textAlign": "center"
+  },
+  "class_32": {
+    "color": "blue",
+    "fontWeight": "800",
+    "lineHeight": "1.2"
+  },
+  "class_33": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "textAlign": "justify"
+  },
+  "class_34": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.200134em",
+    "marginTop": "0.200134em",
+    "textAlign": "center"
+  },
+  "class_35": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "8.75%",
+    "textAlign": "justify",
+    "textIndent": "-4.062%"
+  },
+  "class_36": {
+    "color": "blue"
+  },
+  "class_37": {
+    "marginRight": "0.6em"
+  },
+  "class_38": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "8.75%",
+    "textAlign": "justify",
+    "textIndent": "-5.312%"
+  },
+  "class_39": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "9.063%",
+    "textAlign": "justify",
+    "textIndent": "-6.562%"
+  },
+  "class_40": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.200134em",
+    "textAlign": "center"
+  },
+  "class_41": {
+    "display": "block",
+    "marginBottom": "0.625em",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_42": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "19.336%"
+  },
+  "class_43": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "textAlign": "center"
+  },
+  "class_44": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.200134em",
+    "marginTop": "0.615796em",
+    "textAlign": "center"
+  },
+  "class_45": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.125em",
+    "textAlign": "center"
+  },
+  "class_46": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.200134em",
+    "marginTop": "0.200134em",
+    "textAlign": "center"
+  },
+  "class_47": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "textAlign": "center"
+  },
+  "class_48": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "2em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "8.958%",
+    "marginRight": "8.958%",
+    "marginTop": "0.25em",
+    "textAlign": "center"
+  },
+  "class_49": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "2em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "9.375%",
+    "marginRight": "9.375%",
+    "marginTop": "0.5em",
+    "textAlign": "center"
+  },
+  "class_50": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_51": {
+    "borderBottomStyle": "solid",
+    "borderBottomWidth": "1px",
+    "borderLeftStyle": "solid",
+    "borderLeftWidth": "1px",
+    "borderRightStyle": "solid",
+    "borderRightWidth": "1px",
+    "borderTopStyle": "solid",
+    "borderTopWidth": "1px",
+    "fontWeight": "800",
+    "lineHeight": "1.2",
+    "padding": "6px"
+  },
+  "class_52": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_53": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.625em",
+    "marginTop": "0.865385em",
+    "textAlign": "center"
+  },
+  "class_54": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "5.313%",
+    "textAlign": "justify"
+  },
+  "class_55": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "textAlign": "justify",
+    "textIndent": "5.313%"
+  },
+  "class_56": {
+    "color": "blue",
+    "fontSize": "0.75em",
+    "lineHeight": "1.7144",
+    "verticalAlign": "super"
+  },
+  "class_57": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "10%",
+    "textAlign": "justify"
+  },
+  "class_58": {
+    "height": "1.3125em",
+    "verticalAlign": "middle",
+    "width": "0.6875em"
+  },
+  "class_59": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "marginBottom": "0.3em",
+    "marginTop": "0.3em",
+    "textAlign": "center"
+  },
+  "class_60": {
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800"
+  },
+  "class_61": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "84.375%"
+  },
+  "class_62": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.75em",
+    "marginTop": "0.75em",
+    "textAlign": "center"
+  },
+  "class_63": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "84.57%"
+  },
+  "class_64": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "84.766%"
+  },
+  "class_65": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "84.961%"
+  },
+  "class_66": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "11.563%",
+    "marginRight": "6.25%",
+    "textAlign": "justify"
+  },
+  "class_67": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "16.25%",
+    "marginRight": "6.25%",
+    "textAlign": "justify"
+  },
+  "class_68": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "justify",
+    "textIndent": "5.313%"
+  },
+  "class_69": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "textAlign": "center",
+    "margin": "0.3em 6.25%"
+  },
+  "class_70": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.5em",
+    "textAlign": "center"
+  },
+  "class_71": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "center"
+  },
+  "class_72": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "center"
+  },
+  "class_73": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.25em",
+    "textAlign": "center"
+  },
+  "class_74": {
+    "display": "block",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.8125em",
+    "textAlign": "center"
+  },
+  "class_75": {
+    "WebkitHyphens": "none",
+    "color": "gray",
+    "display": "block",
+    "height": "2px",
+    "hyphens": "none",
+    "margin": "0.5em 6.25%",
+    "borderTop": "black solid 1px",
+    "borderRight": "currentColor inset 1px",
+    "borderBottom": "currentColor inset 1px",
+    "borderLeft": "currentColor inset 1px"
+  },
+  "class_76": {
+    "WebkitHyphens": "none",
+    "display": "oeb-page-foot",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "justify",
+    "textIndent": "2.812%"
+  },
+  "class_77": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginLeft": "11.594%",
+    "marginRight": "6.25%"
+  },
+  "class_78": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "justify",
+    "textIndent": "2.812%"
+  },
+  "class_79": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "right"
+  },
+  "class_80": {
+    "color": "blue",
+    "fontSize": "1em",
+    "lineHeight": "1.2",
+    "verticalAlign": "super"
+  },
+  "class_81": {
+    "display": "block",
+    "fontSize": "0.75em"
+  },
+  "class_82": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "justify",
+    "textIndent": "2.812%"
+  },
+  "class_83": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "11.594%",
+    "marginRight": "6.25%"
+  },
+  "class_84": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "center"
+  },
+  "class_85": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.865385em",
+    "textAlign": "center"
+  },
+  "class_86": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "marginBottom": "0.3em",
+    "marginTop": "0.65em",
+    "textAlign": "center"
+  },
+  "class_87": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.5em",
+    "textAlign": "center"
+  },
+  "class_88": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "textAlign": "center"
+  },
+  "class_89": {
+    "display": "block",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_90": {
+    "WebkitHyphens": "none",
+    "color": "gray",
+    "display": "block",
+    "height": "2px",
+    "hyphens": "none",
+    "margin": "0.5em auto",
+    "borderTop": "black solid 1px",
+    "borderRight": "currentColor inset 1px",
+    "borderBottom": "currentColor inset 1px",
+    "borderLeft": "currentColor inset 1px"
+  },
+  "class_91": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "textAlign": "justify",
+    "textIndent": "2.812%"
+  },
+  "class_92": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "textAlign": "center"
+  },
+  "class_93": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.346154em",
+    "textAlign": "center"
+  },
+  "class_94": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "93.945%"
+  },
+  "class_95": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_96": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.865385em",
+    "textAlign": "center"
+  },
+  "class_97": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "textAlign": "center",
+    "margin": "0.65em 6.25% 0.3em"
+  },
+  "class_98": {
+    "display": "block",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_99": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "justify",
+    "textIndent": "4.219%"
+  },
+  "class_100": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.25em",
+    "textAlign": "center"
+  },
+  "class_101": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "93.359%"
+  },
+  "class_102": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "marginBottom": "0.3em",
+    "textAlign": "center"
+  },
+  "class_103": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "94.336%"
+  },
+  "class_104": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "textAlign": "center"
+  },
+  "class_105": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "center"
+  },
+  "class_106": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.346154em",
+    "textAlign": "center"
+  },
+  "class_107": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "5.313%",
+    "textAlign": "justify"
+  },
+  "class_108": {
+    "color": "blue",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "lineHeight": "1.7144",
+    "verticalAlign": "super"
+  },
+  "class_109": {
+    "WebkitHyphens": "none",
+    "display": "oeb-page-foot",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "textAlign": "justify",
+    "textIndent": "2.812%"
+  },
+  "class_110": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "95.508%"
+  },
+  "class_111": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "50.586%"
+  },
+  "class_112": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "52.344%"
+  },
+  "class_113": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "marginBottom": "0.3em",
+    "marginTop": "0.5em",
+    "textAlign": "center"
+  },
+  "class_114": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "94.531%"
+  },
+  "class_115": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.75em",
+    "textAlign": "center"
+  },
+  "class_116": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "55.078%"
+  },
+  "class_117": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "57.227%"
+  },
+  "class_118": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "54.492%"
+  },
+  "class_119": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "55.273%"
+  },
+  "class_120": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "95.703%"
+  },
+  "class_121": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "52.93%"
+  },
+  "class_122": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "right"
+  },
+  "class_123": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "57.813%"
+  },
+  "class_124": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "textAlign": "center"
+  },
+  "class_125": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "94.727%"
+  },
+  "class_126": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "54.883%"
+  },
+  "class_127": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "57.031%"
+  },
+  "class_128": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "56.641%"
+  },
+  "class_129": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "52.734%"
+  },
+  "class_130": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "51.953%"
+  },
+  "class_131": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "54.688%"
+  },
+  "class_132": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.346154em",
+    "textAlign": "center"
+  },
+  "class_133": {
+    "fontWeight": "800",
+    "lineHeight": "1.2"
+  },
+  "class_134": {
+    "color": "blue",
+    "fontSize": "0.52941em",
+    "fontWeight": "800",
+    "verticalAlign": "super"
+  },
+  "class_135": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "55.859%"
+  },
+  "class_136": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "51.758%"
+  },
+  "class_137": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "56.25%"
+  },
+  "class_138": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "56.055%"
+  },
+  "class_139": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "95.117%"
+  },
+  "class_140": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "89.844%"
+  },
+  "class_141": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.526315em",
+    "textAlign": "center"
+  },
+  "class_142": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "textAlign": "justify",
+    "textIndent": "5.313%"
+  },
+  "class_143": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "58.008%"
+  },
+  "class_144": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "58.203%"
+  },
+  "class_145": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "57.617%"
+  },
+  "class_146": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "95.313%"
+  },
+  "class_147": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "68.945%"
+  },
+  "class_148": {
+    "display": "block",
+    "marginBottom": "0.625em",
+    "textAlign": "center"
+  },
+  "class_149": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "textAlign": "center"
+  },
+  "class_150": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "textAlign": "justify",
+    "textIndent": "4.219%"
+  },
+  "class_151": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.480769em",
+    "textAlign": "center"
+  },
+  "class_152": {
+    "display": "block",
+    "marginBottom": "0.625em",
+    "marginTop": "0.8125em",
+    "textAlign": "center"
+  },
+  "class_153": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "56.836%"
+  },
+  "class_154": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "54.102%"
+  },
+  "class_155": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2"
+  },
+  "class_156": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "87.695%"
+  },
+  "class_157": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "55.664%"
+  },
+  "class_158": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "53.711%"
+  },
+  "class_159": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "textAlign": "center"
+  },
+  "class_160": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "marginBottom": "0.3em",
+    "marginTop": "0.315em",
+    "textAlign": "center"
+  },
+  "class_161": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.3002em",
+    "textAlign": "center"
+  },
+  "class_162": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "65.234%"
+  },
+  "class_163": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "57.422%"
+  },
+  "class_164": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "38.281%"
+  },
+  "class_165": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "43.555%"
+  },
+  "class_166": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "42.578%"
+  },
+  "class_167": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "51.563%"
+  },
+  "class_168": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "38.672%"
+  },
+  "class_169": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "63.672%"
+  },
+  "class_170": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "54.297%"
+  },
+  "class_171": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "53.516%"
+  },
+  "class_172": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "56.445%"
+  },
+  "class_173": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "49.414%"
+  },
+  "class_174": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "45.703%"
+  },
+  "class_175": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "94.141%"
+  },
+  "class_176": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "43.164%"
+  },
+  "class_177": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "53.906%"
+  },
+  "class_178": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "52.148%"
+  },
+  "class_179": {
+    "display": "block",
+    "marginTop": "0.8125em",
+    "textAlign": "center"
+  },
+  "class_180": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.375em",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_181": {
+    "fontSize": "1em",
+    "lineHeight": "1.2"
+  },
+  "class_182": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "14.063%",
+    "textAlign": "justify"
+  },
+  "class_183": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "17.188%",
+    "textAlign": "justify"
+  },
+  "class_184": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontStyle": "italic",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginTop": "0.5em",
+    "textAlign": "right"
+  },
+  "class_185": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.500334em",
+    "marginTop": "0.144326em",
+    "textAlign": "right"
+  },
+  "class_186": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "paddingTop": "5em"
+  },
+  "class_187": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "11.25em"
+  },
+  "class_188": {
+    "borderBottomStyle": "solid",
+    "borderBottomWidth": "4px",
+    "borderLeftStyle": "solid",
+    "borderLeftWidth": "1px",
+    "borderRightStyle": "solid",
+    "borderRightWidth": "3px",
+    "borderTopStyle": "solid",
+    "borderTopWidth": "1px",
+    "color": "blue",
+    "fontWeight": "800",
+    "lineHeight": "1.2",
+    "padding": "8px"
+  },
+  "class_189": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "17.383%"
+  },
+  "class_190": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.125em",
+    "textAlign": "center"
+  },
+  "class_191": {
+    "borderBottomStyle": "solid",
+    "borderBottomWidth": "4px",
+    "borderLeftStyle": "solid",
+    "borderLeftWidth": "1px",
+    "borderRightStyle": "solid",
+    "borderRightWidth": "3px",
+    "borderTopStyle": "solid",
+    "borderTopWidth": "1px",
+    "fontWeight": "800",
+    "lineHeight": "1.2",
+    "padding": "8px"
+  },
+  "class_192": {
+    "borderBottomStyle": "solid",
+    "borderBottomWidth": "1px",
+    "borderLeftStyle": "solid",
+    "borderLeftWidth": "1px",
+    "borderRightStyle": "solid",
+    "borderRightWidth": "1px",
+    "borderTopStyle": "solid",
+    "borderTopWidth": "1px",
+    "fontWeight": "800",
+    "lineHeight": "1.2",
+    "marginBottom": "0.500334em",
+    "padding": "5px"
+  },
+  "class_193": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginTop": "1.13016em",
+    "textAlign": "center"
+  },
+  "class_194": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "2em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "17.708%",
+    "marginRight": "17.708%",
+    "marginTop": "0.25em",
+    "textAlign": "center"
+  },
+  "class_195": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "2em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "18.125%",
+    "marginRight": "18.125%",
+    "marginTop": "0.5em",
+    "textAlign": "center"
+  },
+  "class_196": {
+    "borderBottomStyle": "solid",
+    "borderBottomWidth": "4px",
+    "borderLeftStyle": "solid",
+    "borderLeftWidth": "4px",
+    "borderRightStyle": "solid",
+    "borderRightWidth": "1px",
+    "borderTopStyle": "solid",
+    "borderTopWidth": "1px",
+    "fontWeight": "800",
+    "lineHeight": "1.2",
+    "padding": "8px"
+  },
+  "class_197": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "53.125%"
+  },
+  "class_198": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "84.18%"
+  },
+  "class_199": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "59.375%"
+  },
+  "class_200": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "60.547%"
+  },
+  "class_201": {
+    "height": "1.45833em",
+    "verticalAlign": "middle",
+    "width": "0.763889em"
+  },
+  "class_202": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "61.133%"
+  },
+  "class_203": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "60.938%"
+  },
+  "class_204": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "53.32%"
+  },
+  "class_205": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "50%"
+  },
+  "class_206": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "50.391%"
+  },
+  "class_207": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "50.977%"
+  },
+  "class_208": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "52.539%"
+  },
+  "class_209": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "49.805%"
+  },
+  "class_210": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "51.367%"
+  },
+  "class_211": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "50.195%"
+  },
+  "class_212": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "50.781%"
+  },
+  "class_213": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "49.219%"
+  },
+  "class_214": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "49.023%"
+  },
+  "class_215": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "51.172%"
+  },
+  "class_216": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "46.68%"
+  },
+  "class_217": {
+    "display": "block",
+    "textAlign": "center",
+    "margin": "0.625em 6.25%"
+  },
+  "class_218": {
+    "fontSize": "1em",
+    "lineHeight": "1.2",
+    "verticalAlign": "super"
+  },
+  "class_219": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "16.25%",
+    "marginRight": "6.25%",
+    "textAlign": "justify"
+  },
+  "class_220": {
+    "display": "block",
+    "fontSize": "0.75em",
+    "marginLeft": "11.594%",
+    "marginRight": "6.25%"
+  },
+  "class_221": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "textAlign": "center",
+    "margin": "0.5em 6.25% 0.3em"
+  },
+  "class_222": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "11.594%",
+    "marginRight": "6.25%"
+  },
+  "class_223": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "48.633%"
+  },
+  "class_224": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "60.352%"
+  },
+  "class_225": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "59.766%"
+  },
+  "class_226": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "59.961%"
+  },
+  "class_227": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "58.594%"
+  },
+  "class_228": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "59.18%"
+  },
+  "class_229": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "46.875%"
+  },
+  "class_230": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "59.57%"
+  },
+  "class_231": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "58.984%"
+  },
+  "class_232": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "58.789%"
+  },
+  "class_233": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "58.398%"
+  },
+  "class_234": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "55.469%"
+  },
+  "class_235": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "60.156%"
+  },
+  "class_236": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.625em",
+    "marginTop": "0.346154em",
+    "textAlign": "center"
+  },
+  "class_237": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "60.742%"
+  },
+  "class_238": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "48.828%"
+  },
+  "class_239": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_240": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.25em",
+    "textAlign": "center"
+  },
+  "class_241": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "2em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "textAlign": "center",
+    "margin": "0.25em 17.708% 0.375em"
+  },
+  "class_242": {
+    "borderBottomStyle": "solid",
+    "borderBottomWidth": "1px",
+    "borderLeftStyle": "solid",
+    "borderLeftWidth": "1px",
+    "borderRightStyle": "solid",
+    "borderRightWidth": "1px",
+    "borderTopStyle": "solid",
+    "borderTopWidth": "1px",
+    "fontWeight": "800",
+    "lineHeight": "1.2",
+    "padding": "8px"
+  },
+  "class_243": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "10%",
+    "textAlign": "justify"
+  },
+  "class_244": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "11.563%",
+    "marginRight": "6.25%",
+    "textAlign": "justify"
+  },
+  "class_245": {
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "lineHeight": "1.7144",
+    "verticalAlign": "super"
+  },
+  "class_246": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginLeft": "11.875%",
+    "marginRight": "6.25%",
+    "textIndent": "-2.812%"
+  },
+  "class_247": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "11.875%",
+    "marginRight": "6.25%",
+    "textIndent": "-2.812%"
+  },
+  "class_248": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "48.438%"
+  },
+  "class_249": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "2.5em",
+    "textAlign": "center"
+  },
+  "class_250": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.875em",
+    "textAlign": "center"
+  },
+  "class_251": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginTop": "0.6em",
+    "textAlign": "justify",
+    "textIndent": "5.313%"
+  },
+  "class_252": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "10%",
+    "marginTop": "0.7em",
+    "textAlign": "justify"
+  },
+  "class_253": {
+    "color": "blue",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800"
+  },
+  "class_254": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.375em",
+    "textAlign": "center"
+  },
+  "class_255": {
+    "height": "1.25em",
+    "verticalAlign": "middle",
+    "width": "0.75em"
+  },
+  "class_256": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "44.727%"
+  },
+  "class_257": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "83.594%"
+  },
+  "class_258": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "14.018%",
+    "textAlign": "justify"
+  },
+  "class_259": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginBottom": "0.5em",
+    "marginLeft": "14.018%",
+    "textAlign": "justify"
+  },
+  "class_260": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "81.055%"
+  },
+  "class_261": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "80.859%"
+  },
+  "class_262": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "83.203%"
+  },
+  "class_263": {
+    "fontStyle": "italic"
+  },
+  "class_264": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "47.852%"
+  },
+  "class_265": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "90.039%"
+  },
+  "class_266": {
+    "color": "blue",
+    "fontSize": "0.85em",
+    "verticalAlign": "super"
+  },
+  "class_267": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "90.43%"
+  },
+  "class_268": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "46.484%"
+  },
+  "class_269": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "90.625%"
+  },
+  "class_270": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.625em",
+    "marginTop": "0.346154em",
+    "textAlign": "center"
+  },
+  "class_271": {
+    "fontStyle": "italic",
+    "lineHeight": "1.2"
+  },
+  "class_272": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "88.281%"
+  },
+  "class_273": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "91.016%"
+  },
+  "class_274": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "textAlign": "justify"
+  },
+  "class_275": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginBottom": "0.3em",
+    "marginTop": "0.3em",
+    "textAlign": "center"
+  },
+  "class_276": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "90.82%"
+  },
+  "class_277": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "textAlign": "justify"
+  },
+  "class_278": {
+    "display": "block",
+    "marginTop": "0.875em",
+    "textAlign": "center"
+  },
+  "class_279": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginTop": "0.200134em",
+    "textAlign": "center"
+  },
+  "class_280": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "2em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "17.708%",
+    "marginRight": "17.708%",
+    "marginTop": "0.25em",
+    "textAlign": "center"
+  },
+  "class_281": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.321428em",
+    "textAlign": "center"
+  },
+  "class_282": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.269231em",
+    "textAlign": "center"
+  },
+  "class_283": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "1em",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.5em",
+    "textAlign": "center"
+  },
+  "class_284": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.321428em",
+    "textAlign": "center"
+  },
+  "class_285": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.625em",
+    "marginTop": "0.269231em",
+    "textAlign": "center"
+  },
+  "class_286": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "justify"
+  },
+  "class_287": {
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "lineHeight": "1.2"
+  },
+  "class_288": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.75em",
+    "textAlign": "center"
+  },
+  "class_289": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "textAlign": "right",
+    "margin": "0.555556em 6.25%"
+  },
+  "class_290": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "justify",
+    "textIndent": "4.219%"
+  },
+  "class_291": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "marginTop": "0.25em",
+    "textAlign": "center"
+  },
+  "class_292": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "textAlign": "center",
+    "margin": "0.269231em 6.25% 0.625em"
+  },
+  "class_293": {
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontStyle": "italic",
+    "fontWeight": "800"
+  },
+  "class_294": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginLeft": "5.344%"
+  },
+  "class_295": {
+    "WebkitHyphens": "none",
+    "display": "oeb-page-foot",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "marginLeft": "11.875%",
+    "marginRight": "6.25%",
+    "textIndent": "-2.812%"
+  },
+  "class_296": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginLeft": "11.594%",
+    "marginRight": "6.25%"
+  },
+  "class_297": {
+    "display": "block",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "center"
+  },
+  "class_298": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "textAlign": "center",
+    "margin": "0.75em 6.25%"
+  },
+  "class_299": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "textAlign": "right"
+  },
+  "class_300": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "90.234%"
+  },
+  "class_301": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.75em",
+    "marginTop": "0.75em",
+    "textAlign": "center"
+  },
+  "class_302": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "center"
+  },
+  "class_303": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "0.75em",
+    "hyphens": "none",
+    "textAlign": "right",
+    "margin": "0.5em 6.25% 0.555556em"
+  },
+  "class_304": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginBottom": "0.5em",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "center"
+  },
+  "class_305": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "91.406%"
+  },
+  "class_306": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontSize": "1em",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.5em",
+    "textAlign": "center"
+  },
+  "class_307": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.700466em",
+    "textAlign": "center",
+    "textIndent": "1.422%"
+  },
+  "class_308": {
+    "display": "block",
+    "marginTop": "1.625em",
+    "textAlign": "center"
+  },
+  "class_309": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "marginBottom": "0.3em",
+    "marginTop": "0.8em",
+    "textAlign": "center"
+  },
+  "class_310": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "5.313%",
+    "marginTop": "0.7em",
+    "textAlign": "justify"
+  },
+  "class_311": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "textAlign": "center",
+    "textIndent": "0.984%"
+  },
+  "class_312": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.875em",
+    "marginTop": "5em",
+    "textAlign": "center"
+  },
+  "class_313": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "14.063%",
+    "textAlign": "justify"
+  },
+  "class_314": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "marginLeft": "17.188%",
+    "textAlign": "justify"
+  },
+  "class_315": {
+    "WebkitHyphens": "none",
+    "borderLeftStyle": "double",
+    "borderLeftWidth": "7px",
+    "borderRightStyle": "double",
+    "borderRightWidth": "7px",
+    "display": "block",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "1.25em",
+    "padding": "0.375em 0.938%"
+  },
+  "class_316": {
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "lineHeight": "1.2",
+    "marginBottom": "0.2em",
+    "textAlign": "center"
+  },
+  "class_317": {
+    "display": "block",
+    "lineHeight": "normal",
+    "marginLeft": "17.8045%",
+    "textAlign": "justify"
+  },
+  "class_318": {
+    "display": "block",
+    "lineHeight": "normal",
+    "marginLeft": "21.7607%",
+    "textAlign": "justify"
+  },
+  "class_319": {
+    "display": "block",
+    "lineHeight": "normal",
+    "marginTop": "0.6em",
+    "textAlign": "justify",
+    "textIndent": "6.72635%"
+  },
+  "class_320": {
+    "display": "block",
+    "lineHeight": "1.2",
+    "marginBottom": "0.625em",
+    "marginTop": "0.625em",
+    "textAlign": "center"
+  },
+  "class_321": {
+    "height": "auto",
+    "lineHeight": "1.2",
+    "width": "29.084%"
+  },
+  "class_322": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "2em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "8.958%",
+    "marginRight": "8.958%",
+    "marginTop": "0.25em",
+    "textAlign": "center"
+  },
+  "class_323": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "65.039%"
+  },
+  "class_324": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "64.648%"
+  },
+  "class_325": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "66.797%"
+  },
+  "class_326": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "64.844%"
+  },
+  "class_327": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "93.555%"
+  },
+  "class_328": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "65.625%"
+  },
+  "class_329": {
+    "display": "block",
+    "fontSize": "0.75em",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%"
+  },
+  "class_330": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "64.063%"
+  },
+  "class_331": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "67.188%"
+  },
+  "class_332": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "66.211%"
+  },
+  "class_333": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "64.453%"
+  },
+  "class_334": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "66.406%"
+  },
+  "class_335": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "66.992%"
+  },
+  "class_336": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "61.328%"
+  },
+  "class_337": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "63.867%"
+  },
+  "class_338": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "63.086%"
+  },
+  "class_339": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "93.75%"
+  },
+  "class_340": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "61.719%"
+  },
+  "class_341": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "1.25em",
+    "marginTop": "1.25em",
+    "textAlign": "center"
+  },
+  "class_342": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.1em",
+    "marginTop": "0.3em",
+    "textAlign": "center"
+  },
+  "class_343": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "2em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "17.708%",
+    "marginRight": "17.708%",
+    "textAlign": "center"
+  },
+  "class_344": {
+    "display": "block",
+    "textAlign": "center",
+    "margin": "7.5em 26.25% 0.625em"
+  },
+  "class_345": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "paddingTop": "6em"
+  },
+  "class_346": {
+    "display": "block",
+    "marginBottom": "0.375em",
+    "marginTop": "0.125em",
+    "textAlign": "center"
+  },
+  "class_347": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.200134em",
+    "marginTop": "0.415662em",
+    "textAlign": "center"
+  },
+  "class_348": {
+    "WebkitHyphens": "none",
+    "borderBottomStyle": "double",
+    "borderBottomWidth": "8px",
+    "borderLeftStyle": "double",
+    "borderLeftWidth": "8px",
+    "borderRightStyle": "double",
+    "borderRightWidth": "8px",
+    "borderTopStyle": "double",
+    "borderTopWidth": "8px",
+    "display": "block",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "6.25em",
+    "padding": "0.28125em 0.703%"
+  },
+  "class_349": {
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "lineHeight": "1.2",
+    "textAlign": "center"
+  },
+  "class_350": {
+    "display": "block",
+    "lineHeight": "normal",
+    "marginLeft": "5.49274%",
+    "textAlign": "justify"
+  },
+  "class_351": {
+    "display": "block",
+    "lineHeight": "normal",
+    "marginLeft": "10.3394%",
+    "textAlign": "justify"
+  },
+  "class_352": {
+    "display": "block",
+    "lineHeight": "normal",
+    "textAlign": "justify",
+    "textIndent": "5.49274%"
+  },
+  "class_353": {
+    "height": "auto",
+    "lineHeight": "1.2",
+    "width": "22.959%"
+  },
+  "class_354": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginTop": "0.376722em",
+    "textAlign": "center"
+  },
+  "class_355": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.375em",
+    "textAlign": "center"
+  },
+  "class_356": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "86.328%"
+  },
+  "class_357": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "86.133%"
+  },
+  "class_358": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "85.938%"
+  },
+  "class_359": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "91.211%"
+  },
+  "class_360": {
+    "color": "blue",
+    "fontSize": "0.75em",
+    "fontStyle": "italic",
+    "lineHeight": "1.7144",
+    "verticalAlign": "super"
+  },
+  "class_361": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "94.922%"
+  },
+  "class_362": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "71.484%"
+  },
+  "class_363": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "62.5%"
+  },
+  "class_364": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.500334em",
+    "textAlign": "center"
+  },
+  "class_365": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "bold",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.25em",
+    "marginTop": "0.375em",
+    "textAlign": "center"
+  },
+  "class_366": {
+    "display": "block",
+    "textAlign": "center",
+    "margin": "5em 26.25% 0.625em"
+  },
+  "class_367": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "paddingTop": "4.5em"
+  },
+  "class_368": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "3.438%"
+  },
+  "class_369": {
+    "display": "block",
+    "lineHeight": "normal",
+    "marginLeft": "9.06155%",
+    "textAlign": "justify",
+    "textIndent": "-4.20737%"
+  },
+  "class_370": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "4.688%"
+  },
+  "class_371": {
+    "display": "block",
+    "lineHeight": "normal",
+    "marginLeft": "9.18029%",
+    "textAlign": "justify",
+    "textIndent": "-5.57368%"
+  },
+  "class_372": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "85.156%"
+  },
+  "class_373": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "48.047%"
+  },
+  "class_374": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "0.75em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "textAlign": "justify",
+    "textIndent": "4.781%"
+  },
+  "class_375": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "48.242%"
+  },
+  "class_376": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "hyphens": "none",
+    "lineHeight": "1.2"
+  },
+  "class_377": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "49.609%"
+  },
+  "class_378": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "marginBottom": "0.3em",
+    "marginTop": "0.3em",
+    "textAlign": "center"
+  },
+  "class_379": {
+    "display": "block",
+    "marginTop": "1.25em",
+    "textAlign": "center"
+  },
+  "class_380": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "87.891%"
+  },
+  "class_381": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "81.641%"
+  },
+  "class_382": {
+    "WebkitHyphens": "none",
+    "height": "auto",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "width": "89.648%"
+  },
+  "class_383": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "center"
+  },
+  "class_384": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontStyle": "italic",
+    "hyphens": "none",
+    "textAlign": "center",
+    "margin": "0.315em 6.25% 0.3em"
+  },
+  "class_385": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginLeft": "6.25%",
+    "marginRight": "6.25%",
+    "textAlign": "center"
+  },
+  "class_386": {
+    "display": "block",
+    "fontSize": "0.75em",
+    "marginLeft": "11.875%",
+    "marginRight": "6.25%"
+  },
+  "class_387": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.3002em",
+    "textAlign": "center"
+  },
+  "class_388": {
+    "WebkitHyphens": "none",
+    "color": "gray",
+    "display": "block",
+    "height": "2px",
+    "hyphens": "none",
+    "margin": "0.9em auto 0.5em",
+    "borderTop": "black solid 1px",
+    "borderRight": "currentColor inset 1px",
+    "borderBottom": "currentColor inset 1px",
+    "borderLeft": "currentColor inset 1px"
+  },
+  "class_389": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.41667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginTop": "0.490385em",
+    "textAlign": "center"
+  },
+  "class_390": {
+    "WebkitHyphens": "none",
+    "display": "block",
+    "fontFamily": "\"NotoSansDevanagari Bold\"",
+    "fontSize": "1.66667em",
+    "fontWeight": "800",
+    "hyphens": "none",
+    "lineHeight": "1.2",
+    "marginBottom": "0.25em",
+    "marginTop": "0.25em",
+    "textAlign": "center"
+  },
+  "class_391": {
+    "display": "block",
+    "marginBottom": "0.625em",
+    "marginTop": "0.6375em",
+    "textAlign": "center"
+  }
+}
