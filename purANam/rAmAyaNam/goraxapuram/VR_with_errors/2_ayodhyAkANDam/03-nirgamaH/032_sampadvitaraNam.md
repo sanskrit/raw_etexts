@@ -1,5 +1,5 @@
 +++
-title = "०३२ लक्ष्मणाय नमनम्"
+title = "०३२ सम्पद्वितरणम्"
 title_english = "032 Rama distributes his wealth to Rishis"
 
 +++
