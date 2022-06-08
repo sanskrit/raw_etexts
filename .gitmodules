@@ -184,3 +184,11 @@
 	url = https://github.com/subhAShita/db_toml_md__sa.git
 [submodule "kAvyam/padyam/subhAShitam/db_toml_md__sa__padya"]
 	url = https://github.com/subhAShita/db_toml_md__sa__padya.git
+[submodule "vedaH/sAma/vedaH/sAma/vishvAsa.github.io/static"]
+	path = vedaH/sAma/vishvAsa.github.io/static
+	url = https://github.com/vishvAsa/vedAH_sAma.git
+	branch = static_files
+[submodule "vedaH/sAma/vishvAsa.github.io/content"]
+	path = vedaH/sAma/vishvAsa.github.io/content
+	url = https://github.com/vishvAsa/vedAH_sAma.git
+	branch = content
