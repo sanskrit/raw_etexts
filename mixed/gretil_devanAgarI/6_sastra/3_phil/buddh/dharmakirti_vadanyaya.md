@@ -80,63 +80,61 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 For further information see:
 
-## पाठः
+explanatory remarks
 
+a number of five figures at the left side indicates the location of the key word  
+in the basic texts. in the case of the sv, the hb and the vn, the first three figures  
+indicate the page number, and the last two indicate the line number (for example,  
+sv16026=sv 160,26; hb02314=hb 23,14; vn06110=vn 61,10). in the case of the  
+pv and the nb, the second figure indicates the chapter number and the last three  
+figures indicate the karika or sutra number (for example, pv02232=pv, the  
+pramanasiddhi-chapter v.232; nb03015=nb, the pararthanumana-chapter sutra 15.  
+in the case of the sp, the last two figures indicate the karika number (for example,  
+sp00015=sp, v.15).
 
-एxप्लनतोर्य् रेमर्क्स्  
-    
-     अ नुम्बेर् ओफ़् फ़िवे फ़िगुरेस् अत् थे लेफ़्त् सिदे इन्दिचतेस् थे लोचतिओन् ओफ़् थे केय् wओर्द्  
-इन् थे बसिच् तेxत्स्। इन् थे चसे ओफ़् थे स्व्, थे ह्ब् अन्द् थे व्न्, थे फ़िर्स्त् थ्रेए फ़िगुरेस्  
-इन्दिचते थे पगे नुम्बेर्, अन्द् थे लस्त् त्wओ इन्दिचते थे लिने नुम्बेर् (फ़ोर् एxअम्प्ले,  
-स्व्१६०२६=स्व् १६०,२६; ह्ब्०२३१४=ह्ब् २३,१४; व्न्०६११०=व्न् ६१,१०)। इन् थे चसे ओफ़् थे  
-प्व् अन्द् थे न्ब्, थे सेचोन्द् फ़िगुरे इन्दिचतेस् थे छप्तेर् नुम्बेर् अन्द् थे लस्त् थ्रेए  
-फ़िगुरेस् इन्दिचते थे करिक ओर् सुत्र नुम्बेर् (फ़ोर् एxअम्प्ले, प्व्०२२३२=प्व्, थे  
-प्रमनसिद्धि-छप्तेर् व्।२३२; न्ब्०३०१५=न्ब्, थे परर्थनुमन-छप्तेर् सुत्र १५।  
-इन् थे चसे ओफ़् थे स्प्, थे लस्त् त्wओ फ़िगुरेस् इन्दिचते थे करिक नुम्बेर् (फ़ोर् एxअम्प्ले,  
-स्प्०००१५=स्प्, व्।१५)।
+3. in this database, sentences are artificially divided into word-units, although they  
+   involve a phonetic fusion or union in the basic texts. further, compound words are  
+   divided into their shortest constitutive elements (we use a hyphen to indicate that  
+   hyphenated elements originally form a compound word) with the following  
+   exceptions:
 
-३। इन् थिस् दतबसे, सेन्तेन्चेस् अरे अर्तिफ़िचिअल्ल्य् दिविदेद् इन्तो wओर्द्-उनित्स्, अल्थोउघ् थेय्  
-इन्वोल्वे अ फोनेतिच् फ़ुसिओन् ओर् उनिओन् इन् थे बसिच् तेxत्स्। फ़ुर्थेर्, चोम्पोउन्द् wओर्द्स् अरे  
-दिविदेद् इन्तो थेइर् स्होर्तेस्त् चोन्स्तितुतिवे एलेमेन्त्स् (wए उसे अ ह्य्फेन् तो इन्दिचते थत्  
-ह्य्फेनतेद् एलेमेन्त्स् ओरिगिनल्ल्य् फ़ोर्म् अ चोम्पोउन्द् wओर्द्) wइथ् थे फ़ोल्लोwइन्ग्  
-एxचेप्तिओन्स्:   
-    
-३।१। थे प्रेफ़िxएस् अ-, दुर्-, निह्- रेमैन् उन्दिविदेद्, इर्रेस्पेच्तिवे ओफ़् अत्तछ्मेन्त् तो  
-wओर्द्स् ओर् चोम्पोउन्द् wओर्द्स्।   
-    
-३।२। सुफ़्फ़िxएस् मकिन्ग् अन् अद्वेर्ब्, फ़ोर् एxअम्प्ले -वत्, -वस, अरे दिविदेद्। बुत् सुफ़्फ़िxएस्  
-मकिन्ग् अ पोस्सेस्सिवे अद्जेच्तिवे, फ़ोर् एxअम्प्ले -वत्, -मत्, रेमैन् उन्दिविदेद्, अन्द् तेर्म्स्  
-सुछ् अस् अ नुमेरल्+ -ध।-विध।-प्रकर रेमैन् अल्सो उन्दिविदेद्।   
-    
-३।३। चोम्पोउन्द् wओर्द्स् wइथ् थे सुफ़्फ़िxएस् -त।-त्व ओर् -भव।-भुत फ़ुन्दमेन्तल्ल्य्  
-रेमैन् उन्दिविदेद्। फ़ोर् एxअम्प्ले: कर्यकरनभव।-भुत।-त।  
-    
-३।४। चोम्पोउन्द् wओर्द्स् wइथ् एवम्-, तत्-, तथ-, पर-, यथ-, सु-, स्व- इन् थे  
-wओर्धेअद् फ़ुन्दमेन्तल्ल्य् रेमैन् उन्दिविदेद्। फ़ोर् एxअम्प्ले: एवञ्जतिय, तदुत्पत्ति,  
-तथक्र्त, परतन्त्र, यथर्थ, यथस्वम्, सुज्ननत्व, स्वभव।  
-    
-३।५। सोमे चोम्पोउन्द् wओर्द्स् wहिछ् अरे रेगर्देद् अस् तेर्मिनोलोग्य् रेमैन् अल्सो  
-उन्दिविदेद्। फ़ोर् एxअम्प्ले: अग्निहोत्र, अयोगव्यवच्छेद, अर्थपत्ति, पदर्थ,  
-परमर्थ, प्रसज्यप्रतिसेध, विरुद्धव्यभिचरिन्, समनन्तरप्रत्यय,  
-सन्तनपरिनम, समन्यलक्सन, स्वभवप्रतिबन्ध।
+3.1. the prefixes a-, dur-, nih- remain undivided, irrespective of attachment to  
+words or compound words.
 
-४। थोसे तेर्म्स् wहोसे wओर्धेअद् इस् सुब्जेच्त् तो थे सन्धि रुलेस् (फ़ोर् एxअम्प्ले, -द्  
-धेतु-) अरे चितेद् इन् थेइर् ओरिगिनल् फ़ोर्म् (फ़ोर् एxअम्प्ले, -द् *हेतु-) फ़ोर् थे सके ओफ़्  
-उसिन्ग् थिस् दतबसे तो मके अन् क्Wइच् इन्देx।   
-    
-१। औगुस्त्। १९९७ । त्सुकुब  
-मोतोइ ओनो  
-    
-नोते:  
-     थिस् दतबसे इस् क़ुइते अ तेन्ततिवे ओने, अन्द् इ मुस्त् अद्मित् थत् थेरे अरे अ लोत् ओफ़्  
-एर्रोर्स् अन्द् देफ़ेच्त्स् इन् थिस् वेर्सिओन्। इ wओउल्द् अप्प्रेचिअते इत् वेर्य् मुछ् इफ़् थे उसेर् wओउल्द्  
-पोइन्त् ओउत् अन्य् एर्रोर्स् इन् थिस् वेर्सिओन् सो थत् wए चन् मके अ बेत्तेर् नेw वेर्सिओन् इन् थे  
-फ़ुतुरे।  
-    
-     ए-मैल्: ओनो@लोगोस्।त्सुकुब।अच्।ज्प्  
-    
+3.2. suffixes making an adverb, for example -vat, -vasa, are divided. but suffixes  
+making a possessive adjective, for example -vat, -mat, remain undivided, and terms  
+such as a numeral+ -dha.-vidha.-prakara remain also undivided.
+
+3.3. compound words with the suffixes -ta.-tva or -bhava.-bhuta fundamentally  
+remain undivided. for example: karyakaranabhava.-bhuta.-ta.
+
+3.4. compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in the  
+wordhead fundamentally remain undivided. for example: evañjatiya, tadutpatti,  
+tathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava.
+
+3.5. some compound words which are regarded as terminology remain also  
+undivided. for example: agnihotra, ayogavyavaccheda, arthapatti, padartha,  
+paramartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya,  
+santanaparinama, samanyalaksana, svabhavapratibandha.
+
+4. those terms whose wordhead is subject to the sandhi rules (for example, -d  
+   dhetu-) are cited in their original form (for example, -d *hetu-) for the sake of  
+   using this database to make an kWic index.
+
+1. august. 1997 . tsukuba  
+   motoi ono
+
+note:  
+this database is quite a tentative one, and i must admit that there are a lot of  
+errors and defects in this version. i would appreciate it very much if the user would  
+point out any errors in this version so that we can make a better new version in the  
+future.
+
+     e-mail: ono@logos.tsukuba.ac.jp   
 *************************************************************************
 
+
+## पाठः
 ००१०१ नमः समन्तभद्राय।  
 ००१०२ न्यायवादिनम् अपि वादेषु असद्-व्यवस्था-उपन्यासैः शठा    
 ००१०३ निगृह्णन्ति, तन्-निषेध-अर्थम् इदम् आरभ्यते।   
