@@ -1,0 +1,103 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\PassOptionsToPackage{hyphens}{url} % url is loaded by hyperref
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\date{}
+
+\begin{document}
+
+{Published by}
+
+{Prof. A. G. Jumde}
+
+{Hon. Dy. Director, Bhaskaracharya Pratishthan}
+
+{106/6 Erandawane}
+
+{Poona 411004}
+
+{(c) Publisher}
+
+{Price Rs.}
+
+{Date of Publication 20th May 1980}
+
+{Printed by }
+
+{Y. G. Joshi}
+
+{Anand Mudranalaya}
+
+{1523 Sadashiv,}
+
+{Poona 411030}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+{Addendum}
+
+{On page 23 after line 7 add-}
+
+{इष्टवर्गहतः क्षेपः क्षेपः स्यादिष्टभाजिते । }
+
+{मृले ते स्तोऽथ वा क्षेपः क्षुण्णः क्षुण्णे तदा पदे ।। ७२ ।। }
+
+{If the augment be divided by the square of a desired number to get a
+new augment, x and y if divided by the same number to give new (roots)
+x}{1}{ and y}{1}{. In the same way if new 'b}{1}{` is obtained by
+multiplying the 'b' by the square of any number, we get new x}{1}{ and
+y}{1}{ by multiplying x and y by the same number.\\
+}
+
+\end{document}

@@ -1,0 +1,95 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\PassOptionsToPackage{hyphens}{url} % url is loaded by hyperref
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\date{}
+
+\begin{document}
+
+{Publisher's Foreword}{\\
+}
+
+{It gives us a great pleasure in introducing Bhaskaracharya
+Pratishthana's maiden publication to lovers of Mathematics all over the
+world.}
+
+{Bhaskaracharya Pratishthana has completed four years of its sincere
+service to the cause of Mathematics and development of research facility
+in Mathematics. For last four years Pratishthana has dedicated itself to
+the task of searching talented students in Mathematics and making them
+available all possible facilities in undertaking research in
+Mathematics. Our founder Director Professor Dr. Shreeram Abhyankar has
+been staying in India for last two years and in his presence he has
+activated many-folded developmental programme to see his undertaking
+through. The ship is sailing slowly but firmly towards the shores of its
+goal fighting against unfavourable winds and waves.}
+
+{We are proud to mention that Bhaskaracharya Pratishthana is the only
+private body in India which has held two summer programmes on an all
+India basis without any aid from external agencies. Students from all
+corners of India had participated in these programmes. Professors from
+India and abroad came to Poona to deliver lectures and seminars in these
+summer programmes. The students and teachers participating in this
+activity were provided with lodging and boarding facilities by
+Bhaskaracharya Pratishthana.}
+
+{During last two years the library of Bhaskaracharya Pratishthana has
+been enriched with the addition of useful and rare books, journals and
+research papers.}
+
+{Bhaskaracharya Pratishthana has recently sought the possession of a
+piece of land released by Competent Authority, Pune Agglomeration Area.
+I take this opportunity to thank Shri. Ajit}
+
+\end{document}

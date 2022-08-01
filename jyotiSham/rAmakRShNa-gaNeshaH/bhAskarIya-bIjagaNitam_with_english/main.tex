@@ -1,0 +1,3486 @@
+\documentclass[]{article}
+\usepackage[text={4.65in,7.45in}, centering, includefoot]{geometry}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\usepackage{afterpage}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{longtable}
+\usepackage{rotating} %to ratate a table horizontally
+\usepackage{xcolor}   %for color links
+\usepackage{hyperref}   % Package for hyperlinks
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=blue,
+    urlcolor=black
+}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{sanskrit}
+\newfontfamily\sanskritfont[Script=Devanagari]{Shobhika}
+\newfontfamily\s[Script=Devanagari, Scale=0.87]{Shobhika}
+\usepackage{fontspec}
+\usepackage{fontspec,realscripts}
+\usepackage{footnote}
+\usepackage{amsmath}
+\usepackage{wasysym} %for astronomical symbols. This should be placed after ams packages.
+\usepackage{array}
+
+\date{}
+
+\XeTeXgenerateactualtext=1
+
+\begin{document}
+\thispagestyle{empty}
+\Large
+
+\begin{center}
+\textbf{	
+\Huge	BHĀSKARĀCHĀRYA'S}\\
+\vspace{15pt}
+\textbf{\Huge BĪJAGAṆITA}\\
+\vspace{15pt}
+\textbf{\huge AND IT'S}\\
+\vspace{20pt}
+\textbf{\Huge TRANSLATION}\\
+\vspace{100pt}
+\textbf{PROF. S. K. ABHYANKAR}\\
+\vspace{220pt}
+\textbf{BHASKARACHARYA PRATISHTHANA}\\
+\textbf{PUNE, INDIA}\\
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\Large
+{\textbf{To:} }
+\vspace{10pt}
+\begin{center}
+\textbf{	
+	BHASKARACHARYA PRATISHTHANA}\\
+
+\vspace{20pt}	
+\textbf{	An educational}\\
+\vspace{10pt}	
+\textbf{	\&} \\
+\vspace{10pt}	
+\textbf{	research institute of repute }\\
+	
+	\vspace{30pt}
+\textbf{\textit{	Our hearty greetings \& best wishes}}\\
+	\vspace{20pt}
+	
+\end{center}
+\begin{figure}[h!]
+\centering
+\includegraphics{Capture}
+\end{figure}
+\textbf{From:}\\
+\vspace{10pt}
+\begin{center}
+\textbf{\Huge	Vidya Sahakari Bank}\\
+\vspace{20pt}
+	
+\textbf{\Huge	Ltd., Pune}\\
+	\vspace{30pt}
+\textbf{\textit{A Bank with soft corner for education}}\\
+	
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\begin{center}
+\textbf{\huge Bhāskarāchārya's Bījagaṇita}\\
+	\vspace{10pt}
+\textbf{\huge and}\\
+	\vspace{10pt}
+	\textbf{\huge Its English Translation}\\
+	\vspace{180pt}
+	Translated by\\
+	\textbf{\large Prof. S. K. Abhyankar}\\
+		\vspace{180pt}
+	\textbf{\large Bhāskarāchārya Pratishthana, Poona}
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\large
+{Published by}
+
+{Prof. A. G. Jumde}
+
+{Hon. Dy. Director, Bhaskaracharya Pratishthan}
+
+{106/6 Erandawane}
+
+{Poona 411004}
+
+{India}
+
+\textbf{\Huge . . .}
+
+{\textcopyright \,Publisher}
+
+\textbf{\Huge . . .}
+
+{Price Rs.}
+
+\textbf{\Huge . . .}
+
+{Date of Publication 20th May 1980}
+
+\textbf{\Huge . . .}
+
+{Printed by }
+
+{Y. G. Joshi}
+
+{Anand Mudranalaya}
+
+{1523 Sadashiv,}
+
+{Poona 411030}
+
+\begin{center}\rule{1\linewidth}{1.75pt}\end{center}
+\vspace{10pt}
+\begin{center}
+    
+
+\textbf{Addendum}
+
+{On page 23 after line 7 add \textendash}
+\end{center}
+
+\begin{quote}
+
+{\s{
+\quad\textbf{{\color{purple}इष्टवर्गहतः क्षेपः क्षेपः स्यादिष्टभाजिते~। }}
+
+\quad\textbf{{\color{purple}मूले ते स्तोऽथवा क्षेपः क्षुण्णः क्षुण्णे तदा पदे~॥~७२~॥} }}
+}
+\end{quote}
+
+If the augment be divided by the square of a desired number to get a
+new augment, $x$ and $y$ if divided by the same number to give new (roots)
+$x_{1}$ and $y_{1}$. In the same way if new '$b_{1}$' is obtained by
+multiplying the '$b$' by the square of any number, we get new $x_{1}$ and
+$y_{1}$ by multiplying $x$ and $y$ by the same number.
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+
+\large
+\textbf{Translator's Preface}
+\vspace{2mm}
+
+If we look to the history of Algebra the supreme algebraist of the twelfth century cannot fail to attract our attention. He is Bhāskarāchārya born in India in A. D. 1114. Although he is well known for his \textit{Līlāvatī}, the introductory chapter of his book on astronomy written in 1150, his best work is in \textit{Bījagaṇita} i.e. Algebra. \textit{Līlāvatī} and this \textit{Bījagaṇita} were used for some seven hundred years. The special merits of the book and the author can be known through the nine stanzas given at the end (p. 52). Any teacher of mathematics will rejoice to see in these the unstinted love that the author had for the subject.
+
+He says
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}उपदेशलवं शास्त्रं कुरुते धीमतो यतः~। }}
+
+\textbf{{\color{purple}तत्तु प्राष्यैव विस्तारं स्वयमेवोपगच्छति~॥~७~॥}}
+
+\textbf{{\color{purple}जले तैलं खले गुह्यं पात्रे दानं मनागपि~। }}
+
+\textbf{{\color{purple}प्राज्ञे शास्त्रं स्वयं याति विस्तारं वस्तुशक्तितः~॥~८~॥} }}}
+\end{quote}
+
+Whatever particle an intelligent man receives from his teacher that
+well received knowledge spreads itself extensively. A drop of oil put in
+water, a secret deposited in the ears of a villain or a gift bestowed on
+a deserving person spreads. In like manner knowledge spreads in an
+intelligent mind by the force of its merits.
+
+Hence the author desires that this science should be given to a
+deserving pupil.
+
+The book is not available in original and so here is presented along
+with the original stanzas in Sanskrit a lucid rendering in English. Word
+by word translation of a verse is neither simple nor useful and so this
+is not an attempt for translation as such but a useful rendering. To
+help the reader's grasp an appendix on numerical terms and a glossary of
+technical terms is added at the end.
+
+\begin{flushright}
+\textbf{S. K. Abhyankar}
+\end{flushright}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\large
+{\textbf{\large Publisher's Foreword}}
+\vspace{4mm}
+
+It gives us a great pleasure in introducing Bhaskaracharya
+Prati-shthana's maiden publication to lovers of Mathematics all over the
+world.
+
+Bhaskaracharya Pratishthana has completed four years of its sincere
+service to the cause of Mathematics and development of research facility
+in Mathematics. For last four years Pratishthana has dedicated itself to
+the task of searching talented students in Mathematics and making them
+available all possible facilities in undertaking research in
+Mathematics. Our founder Director Professor Dr. Shreeram Abhyankar has
+been staying in India for last two years and in his presence he has
+activated many-folded developmental programme to see his undertaking
+through. The ship is sailing slowly but firmly towards the shores of its
+goal fighting against unfavourable winds and waves.
+
+We are proud to mention that Bhaskaracharya Pratishthana is the only
+private body in India which has held two summer programmes on an all
+India basis without any aid from external agencies. Students from all
+corners of India had participated in these programmes. Professors from
+India and abroad came to Poona to deliver lectures and seminars in these
+summer programmes. The students and teachers participating in this
+activity were provided with lodging and boarding facilities by
+Bhaskaracharya Pratishth-ana.
+
+During last two years the library of Bhaskaracharya Pratishth-ana has been enriched with the addition of useful and rare books, journals and research papers.
+
+Bhaskaracharya Pratishthana has recently sought the possession of a
+piece of land released by Competent Authority, Pune Agglomeration Area. I take this opportunity to thank Shri. Ajit 
+\afterpage{\fancyhead[CE,CO]{\ldots \thepage \ldots}}
+\cfoot{}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{page}{5}
+
+\noindent Nimbalkar, Collector, Pune, Mrs. Leena Mehendale, Additional Collector
+and Competent Authority and many of our well-wishers who have rendered
+all possible help in getting this land. We are confident that
+Bhaskaracharya Pratishthana will be able to provide better research
+facilities on a permanent basis in near future.
+
+During last two years Bhaskaracharya Pratishthana has published two
+souvenirs. The second anniversary souvenir published in October 1978
+contains a research paper of Professor Shreeram Abhyankar in Hindi. The
+foundations of research in Mathematics lie in the rare works of Indian
+mathematicians viz. Aryabhatta, Varahamihir Brahmagupta and
+Bhaskaracharya. Through this publication Bhaskaracharya Pratishthana is
+making available this treasure of knowledge to the readers. Professor S.
+K. Abhyankar has translated original work in Sanskrit into English. This
+is an humble effort to acquaint the common reader with the origin of
+Algebra and we hope that these efforts will be acknowledged.
+
+We express over heartfelt gratitude to Shri M. S. Alias Baburaoji
+Parkhe, our honourable member for making available paper for bringing
+out this book.
+
+We also thank Shri. Y. G. Joshi and his colleagues of Anand Mudranalaya
+for elegant printing of this book. Directors of Shri. Sharada Sahakari
+Bank Ltd. and Vidya Sahakari Bank Ltd, have rendered active support to
+our work by placing their precious insertions in this book. We thank
+them. 
+\vspace{10pt}
+\begin{center}
+	\begin{flushright}
+		\textbf{A. G. Jumde\;\;\;}\\
+		Hon. Dy. Director\\
+		
+	\end{flushright}
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\large
+\begin{center}
+    \textbf{CONTENTS}\\
+\end{center}
+
+\normalsize
+\begin{tabular}{llr}
+ & & Page\\
+
+& \hyperref[invo]{INVOCATION AND INTRODUCTION} & 7\\
+
+1 & \hyperref[dha]{{\s{धनर्णषड्विधम्~। }}} &\\
+
+ & The SIX RULES for positive and negative numbers & 7 \\
+
+2 & \hyperref[shu]{{\s{शून्यषड्विधम्~। }}}  & \\
+
+& SIX RULES for ZERO & 9 \\
+
+3 & \hyperref[var]{{\s{वर्णषड्विधम्~। }}} & \\ 
+
+& SIX RULES for ALGEBRAIC NUMBERS & 10 \\
+
+4 & \hyperref[kar]{{\s{करणीषड्विधम्~। }}} & \\
+
+& SIX LAWS for SURDS & 13 \\
+
+5 & \hyperref[kut]{{\s{कुट्टकविवरणम्~।}}} & \\
+
+& EQUATION of the form $ax + c = by$ & 17 \\
+
+6 & \hyperref[varga]{{\s{वर्गप्रकृतिः~। }}} & \\
+
+& EQUATION of the form $ax^{2} + b = y^{2}$ & 22 \\
+
+7 & \hyperref[eka]{{\s{एकवर्णसमीकरणम्~। }}} & \\
+
+& EQUATION with one unknown & 26 \\
+
+8 & \hyperref[madh]{{\s{मध्यमाहरणम्~। }}} & \\
+
+& A device to solve a QUADRATIC EQUATION & 33\\
+
+9 & \hyperref[an]{{\s{अनेकवर्णसमीकरणम्~। }}} & \\
+
+& EQUATIONS involving more than one unknown & 38 \\
+
+10 & \hyperref[aneka]{{\s{अनेक वर्णसमीकरणान्तर्गतं मध्यमाहरणम्~।}}} & \\
+
+& Device for solving EQUATIONS with more than & \\
+
+ & one unknown & 42 \\
+
+11 & \hyperref[bha]{{\s{भावितम्~।}}} & \\
+
+& EQUATIONS involving product of unknowns & 50\\
+
+& \hyperref[gra]{{\s{ग्रंथसमाप्तिः~। }}} & \\
+
+& EPILOGUE & 52 \\
+
+& \hyperref[app]{APPENDIX some words denoting numbers} & 54 \\
+
+& \hyperref[glo]{GLOSSARY of TECHNICAL TERMS} & 55 \\
+
+\end{tabular}
+\vspace{5pt}
+\begin{center}
+    \textbf{\Huge . . .}
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\large
+\begin{center}
+\textbf{\Large Bhāskarāchārya's~Bījagaṇita~and~its~Translation}
+\vspace{0.01mm}
+
+\phantomsection \label{invo}
+\textbf{Invocation and Introduction}
+\end{center}
+
+\vspace{4pt}
+\begin{quote}  
+{\s{\textbf{{\color{purple}उत्पादकं यत् प्रवदन्ति बुद्धेरधिष्ठितं सत् पुरुषेण सांख्याः~। }}
+
+\textbf{{\color{purple}व्यक्तस्य कृत्स्नस्य तदेकबीजमव्यक्तमीशं गणितं च वन्दे~॥~१~॥}}}}  
+\end{quote}
+
+I bow with reverence to that unmanifested which the wise (and
+mathematicians) regard as the substratum of the \textit{Being} and the source
+of intelligence. It is the root cause of this entire world. I bow to the
+unmanifested i. e. to God and Mathematics (which has similar
+attributes).
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}पूर्वं प्रोक्तं व्यक्तमव्यक्तबीजं }}
+
+\textbf{{\color{purple}प्रायः प्रश्नो नो विनाव्यक्तयुक्त्या~।} }
+
+\textbf{{\color{purple}ज्ञातुं शक्या मन्दधीभिर्नितान्तं }}
+
+\textbf{{\color{purple}यस्मात् तस्माद्वच्मि बीजक्रियां च~॥~२~॥}}}
+}  \end{quote}
+
+Previously \,has \,been \,given \,arithmetic \,of \,which \,the \,basis \,if algebra.
+Ordinarily problems cannot be solved without the use of unknowns. As
+this is the case with those with limited intelligence, I now give the
+process of algebra.
+
+\vspace{20pt}
+\begin{center}
+\begin{Large}
+\phantomsection \label{dha}
+{\s{
+\textbf{१ धनर्णषड्विधम्~। }
+}}
+\end{Large}
+\end{center}
+\vspace{5pt}
+
+The six rules for positive and negative numbers.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}योगे युतिः स्यात् क्षययोः स्वयोर्वा धनर्णयोरन्तरमेव योगः~॥~३~॥} }}
+}  \end{quote}
+
+Two numbers which may be both positive or both negative can be added by
+combining them.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}रूपत्रयं रूपचतुष्टयं च क्षयं धनं वा सहितं वदाशु~। }}
+
+\textbf{{\color{red}स्वर्णं क्षयः स्वं च पृथक् पृथङ्मे धनर्णयोः संकलनामवैषि~॥~४~॥}}}
+}  \end{quote}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{page}{8}
+\large
+
+If you know how to add positive and negative numbers given the sum of (1) minus 3 and minus 4 (2) plus 3 and plus 4 (3) plus 3 and minus 4 (4) minus 3 and plus 4 separately.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}अत्र रूपाणामव्यक्तानां चाद्याक्षराणि उपलक्षणार्थं लेख्यानि~। }}
+
+\textbf{{\color{purple}तथा यान्यूणगतानि तानि ऊर्ध्वबिन्दूनि चेति~॥~५~॥} }}
+}  \end{quote}
+
+Here numbers and unknowns are symbolized by letters of the alphabet.
+And negative numbers are shown by a dot on them. 
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}एवं भिन्नेष्वपीति~॥~६~॥} }}
+}  \end{quote}
+
+Fractions are added in a similar way.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}संशोध्यमानं स्वमृणत्वमेति स्वत्वं क्षयस्तद्युतिरूक्तवच्च~॥~७~॥} }}
+}  \end{quote}
+
+The number to be subtracted if positive is made negative and if
+negative is made positive and then added as per rule.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}त्रयाद्द्वयं स्वात्स्वमृणादृणं च व्यस्तं च संशोध्य वदाशु शेषम्~॥~८~॥} }}
+}  \end{quote}
+
+Subtract (1) $+$2 from $+$3 (2) $\dot{2}$ {from $\dot{3}$ (3) $\dot{2}$ {from $+$3 (4) $+$2
+from} $\dot{3}$ and give the remainders quickly.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}स्वयोरस्वयोः स्वं वधः स्वर्णघाते क्षयः~॥~९~॥} }}
+}  \end{quote}
+
+Product of two positive quantities or of two negative quantities is
+positive. The product of positive and negative quantities is negative.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}धनं धनेनर्णमृणेन निघ्नं द्वयं त्रयेण स्वमृणेन किं स्यात्~॥~१०~॥} }}
+}  \end{quote}
+
+What is the product of (1) $+$2 and $+$3 (2) $-$2 and $-$3 (3) $+$2 and $-$3\,?
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}भागहारेऽपि चैवं निरुक्तम्~॥~११~॥} }}
+}  \end{quote}
+
+Similar rule applies to division.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}रूपाष्टकं रूपचतुष्टयेन धनं धनेनर्णमृणेन भक्तम्~। }}
+
+\textbf{{\color{red}ऋणं धनेन स्वमृणेन किं स्याद्द्रुतं वदेदं यदि बोबुधीषि~॥~१२~॥}}}
+}  \end{quote}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+Give the quotients when (1) $+$8 is divided by $+$4 (2) $-$8 is divided by
+$-$4 (3) $-$8 is divided by $+$4 and (4) $+$8 is divided by $-$4.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}कृतिः स्वर्णयोः स्वं स्वमूले धनर्णे~। }}
+
+\textbf{{\color{purple}न मूलं क्षयस्यास्ति तस्याकृतित्वात्~॥~१३~॥} }}
+}  \end{quote}
+
+The square of a positive or negative number is positive. The square
+root of a positive number is positive or negative. Negative number has
+no square root as it cannot be a square.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}धनस्य रूपत्रितयस्य वर्गं क्षयस्य च ब्रूहि सखे ममाशु~॥~१४~॥}}}
+}  \end{quote}
+
+Give me quickly the square of $+$3 and $-$3.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}धनात्मकानामधनात्मकानां मूलं नवानां च पृथग्वदाशु~॥~१५~॥} }}
+}  \end{quote}
+
+Give the square root of $+$9 and $-$9 separately.
+
+\vspace{20pt}
+\begin{center}
+\begin{Large}
+\phantomsection \label{shu}
+{\s{
+\textbf{२ शून्यषड्विधम्~। }
+}}
+\end{Large}
+\end{center}
+\vspace{10pt}
+{Six rules for zero.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}खयोगे वियोगे धनर्णं तथैव च्युतं शून्यतस्तद्विपर्यासमेति~॥~१६~॥} }}
+}  \end{quote}
+
+If zero is added to or subtracted from any number, that number remains
+as it is; its positivity or negativity remains the same. But if from
+zero something is removed, its sign changes. 
+
+\begin{quote}  {\s{
+\textbf{{\color{red}रूपत्रयं स्वं क्षयगं च खं च~। }}
+
+\textbf{{\color{red}किं स्यात् खयुक्तं वद खच्युतं च~॥~१७~॥} }}
+}  \end{quote}
+
+If zero is added to (1) $+$3 (2) $-$3 or (3) zero, what are the respective
+sums\,? And if from zero (1) $+$3 (2) $-$3 or (3) zero is subtracted what will
+be the remainder in each case\,?
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}वधादौ वियत् खस्य खं खेन घाते~। }}
+
+\textbf{{\color{purple}खहारो भवेत् खेन भक्तश्च राशिः~॥~१८~॥} }}
+}  \end{quote}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+If zero is multiplied by any number or divided by any number, the
+product is zero. If any number is divided by zero the result is a
+quantity with zero divisor (\textit{khahāra}).
+
+\begin{quote}  {\s{
+\textbf{{\color{red}द्विघ्नं त्रिहृत्खं खहृतं त्रयं च शून्यस्य वर्गं वद मे पदं च~॥~१९~॥} }}
+}  \end{quote}
+
+Give the results when (1) zero is multiplied by 2 (2) zero is divided
+by 3 (3) 3 is divided by zero (4) zero is squared. And give the square
+root of zero.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}अस्मिन् विकारः खहरेण राशावपि प्रविष्टेष्वपि निःसृतेषु~। }}
+
+\textbf{{\color{purple}बहुष्वपि स्याल्लयसृष्टिकालेऽनन्तेऽच्युते भूतगणेषु यद्वत्~॥~२०~॥} }}
+}  \end{quote}
+
+Just as at the time of delusion all beings enter the endless changeless
+and at the time of creation emerge from the infinite God and by these
+acts the infinite remains unaffected in the same way to this quantity
+with zero divisor if we add or from this if we remove large quantities,
+there cannot be any change in it.
+\vspace{20pt}
+\begin{center}
+\begin{Large}
+\phantomsection \label{var}
+{\s{
+\textbf{३ वर्णषड्विधम्~।} 
+}}
+\end{Large}
+\end{center}
+\vspace{10pt}
+{Six rules for algebraic numbers.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}यावत्तावत्कालको नीलकोऽन्यो }}
+
+\textbf{{\color{purple}वर्णः पीतो लोहितश्चैतदाद्याः~। }}
+
+\textbf{{\color{purple}अव्यक्तानां कल्पिता मानसंज्ञा-}}
+
+\textbf{{\color{purple}स्तत्संख्यानं कर्तुमाचार्यवर्यैः~॥~२१~॥} }}
+}  \end{quote}
+
+{In order to carry out calculations with unknowns, the mathematicians of
+old have thought of using the symbols {\s{या, नी, पी, लो }} and other letters.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}योगोऽन्तरं तेषु समानजात्योर्विभिन्नजात्योश्च पृथक् स्थितिश्च~॥~२२~॥}}}
+}  \end{quote}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+{Addition and subtraction are carried out with like terms and unlike
+terms are kept separately,}
+
+\begin{quote}  {\s{
+
+\textbf{{\color{red}स्वमव्यक्तमेकं सखे सैकरूपं धनाव्यक्तयुग्मं विरूपाष्टकं च~। }}
+
+\textbf{{\color{red}युतौ पक्षयोरेतयोः किं धनर्णे विपर्यस्य चैक्ये भवेत् किं वदाशु~॥~२३~॥}}}
+}  \end{quote}
+
+{What is the result when $1x + 1$ and $2x - 8$ are added together\,? If in
+these the positive signs are changed to negatives what will be the sum
+then\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}धनाव्यक्तवर्गत्रयं सत्रिरूपं क्षयायुक्तयुग्मेन युक्तं च किं स्यात्~॥~२४~॥}}}
+}  \end{quote}
+
+{What will be the sum of $3x^3 + 3$ and $-2x$\,? }
+
+\begin{quote}  {\s{
+\textbf{{\color{red}धनाव्यक्तयुग्माद् ऋणाव्यक्तषट्कं स्वरूपाष्टकं प्रोज्झ्य शेषं वदाशु~॥~२५~॥} }}  }
+\end{quote}
+\vspace{-4mm}
+
+{If from $2x$ we subtract $-6x + 8$ what will be left\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}स्याद्रूपवर्णाभिहतौ तु वर्णौ व्दित्र्यादिकानां समजातिकानाम्~॥ }}
+
+\textbf{{\color{purple}वधे तु तद्वर्गघनादयः स्युस्तद्भावितं चासमजातिघाते~। }}
+
+\textbf{{\color{purple}भागादिकं रूपवदेव शेषं व्यक्ते यदुक्तं गणिते तदत्र~॥~२६~॥} }}
+}  \end{quote}
+
+{The product of an arithmetical number with an unknown is an unknown
+number. The product of two like numbers is its square, the product of
+three like numbers is its cube and so on. The product of unlike
+variables is called {\s{भावित.}}
+
+{The rule for division in algebra is same as given in arithmetic.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}गुण्यः पृथग्गुणकखण्डसमो निवेश्य- }}
+
+\textbf{{\color{purple}स्तैः खण्डकैः क्रमहतः सहितो यथोक्त्या~। }}
+
+\textbf{{\color{purple}अव्यक्तवर्गकरणीगुणनासु चिन्त्यो }}
+
+\textbf{{\color{purple}व्यक्तोक्तखण्डगुणनाविधिरेवमत्र~॥~२७~॥} }}
+}  \end{quote}
+
+{Having separated the terms of the multiplier the multiplicand is to be
+placed with each term. Each term of the multiplier multiplies the
+multi-}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent {plicand separately. All these partial products are then added. This
+method is to be applied to algebraic number, its square and surd. Here
+the method is quite like the partial product method in arithmetic.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यावत्तावत्पञ्चकं व्येकरूपं यावत्तावद्भिस्त्रिभिः सद्विरूपैः~। }}
+
+\textbf{{\color{red}संगुण्य द्राग्ब्रूहि गुण्यं गुणं वा व्यस्तं स्वर्णं कल्पयित्वा च}}
+
+\hfill \textbf{{\color{red}विद्वन्~॥~२८~॥}}}
+}  \end{quote}
+
+{Multiply $5x- 1$ by $3x + 2$ and give the product. Changing the signs of
+one of these expressions form the product.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}भाज्याच्छेदः शुध्यति प्रच्युतः सन् स्वेषु स्वेषु स्थानकेषु क्रमेण~। }}
+
+\textbf{{\color{purple}यैर्यैर्वर्णैः संगुणो यैश्च रूपैर्भागाहारे लब्धयस्ताः स्युरत्र~॥~२९~॥} }}
+}  \end{quote}
+
+{From the dividend places are removed one by one after subtracting the
+products of the divisor with appropriate terms. When nothing is left the
+sum of those terms is the full quotient.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}रूपैः षड्भिर्वर्जितानां चतुर्णामव्यक्तानां ब्रूहि वर्गं सखे मे~॥~३०~॥}}}
+}  \end{quote}
+
+{Please give me the square of $4x- 6.$}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}कृतिभ्य आदाय पदानि तेषां द्वयोर्द्वयोश्चाभिहतिं द्विनिघ्नीम्~। }}
+
+\textbf{{\color{purple}शेषात् त्यजेद्रूपपदं गृहीत्वा चेत्सन्ति रूपाणि तथैव शेषम्~॥~३१~॥} }}
+}  \end{quote}
+
+{To find the square root of an expression, we take some square terms
+from that and find their roots. Taking these roots in pairs we form
+their product and remove twice the product and square terms from the
+expression. This is to be done till all terms are removed. If there is
+an absolute term we expect its square root in the final result.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यावत्तावत्कालकनीलवर्णास्त्रिपञ्चसप्तधनम्~। }}
+
+\textbf{{\color{red}द्वित्रैकमितैः क्षयगैः सहिता रहिताः कति स्युस्तैः~॥~३२~॥} }}
+}  \end{quote}
+
+{To $\,3x + 5x +7z$\, if $\,-2x-3y-1z$\, is added what is the sum\,? From $\,3x + 5y +7z$\, if $\,-2x-3y-1z$\, is removed what is the remainder\,?}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यावत्तावत्त्रयमृणमृणं कालकौ नीलकः स्वं }}
+
+\textbf{{\color{red}रूपेणाढ्या द्विगुणितमितैस्तैस्तु तैरेव निघ्नाः~। }}
+
+\textbf{{\color{red}किं स्यात्तेषां गुणनजफलं गुण्यभक्तं च किं स्याद् }}
+
+\textbf{{\color{red}गुण्यस्याथ प्रकथय कृतिं मूलमस्याः कृतेश्च~॥~३३~॥} }}
+}  \end{quote}
+
+{If the expression $-3x-2y+z+1$ is multiplied by its double, what is the
+product\,? If this product is divided by the original expression what will
+be the quotient\,? Also find the square of the original expression and
+work out the process of extracting the root of the square.}
+
+\vspace{20pt}
+\begin{center}
+\begin{Large}
+\phantomsection \label{kar}
+{\s{
+\textbf{४ करणीषड्विधम्~।}\\ 
+}}
+Six laws for surds.
+\end{Large}
+\end{center}
+\vspace{10pt}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}योगं करण्योर्महतीं प्रकल्प्य घातस्य मूलं द्विगुणं लघुं च~। }}
+
+\textbf{{\color{purple}योगान्तरे रूपवदेतयोस्ते वर्गेण वर्गं गुणयेद्भजेच्च~॥~}}
+
+\textbf{{\color{purple}लघ्व्या हतायास्तु पदं महत्या सैकं निरेकं स्वहतं लघुघ्नम्~। }}
+
+\textbf{{\color{purple}योगान्तरे स्तः क्रमशस्तयोर्वा पृथक्स्थितिः स्याद्यदि नास्ति मूलम्~॥~३४~॥} }}
+}  \end{quote}
+\vspace{-4mm}
+
+{The sum of two numbers under the root sign denoted by M. Twice the
+square root of their product is denoted by L. The sum and difference of
+the two surds are respectively $\sqrt{{M+L}}$ and $\sqrt{M-L}$}. If a surd is to be multiplied or divided by a given number, multiply or
+divide the number under the radical sign by the square of the given
+number.
+
+{Another method for adding and subtracting two given surds: Let the
+greater surd be }$\sqrt{G}$ and the smaller surd be }$\sqrt{S}$. Extract the
+square root of G\,$\div$\,S. To the square root add $+1$ and $-1$ separately.
+Squaring the two results and multiplying them by S we get the sum and
+difference 
+}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent {of the two given surds. If the square root does not exist, the surds
+should be kept separately.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}द्विकाष्टमित्योस्त्रिभसंख्ययोश्च योगान्तरे ब्रूहि सखे करण्योः~। }}
+
+\textbf{{\color{red}त्रिसप्तमित्योश्च चिरं विचिन्त्य चेत् षड्विधं वेत्सि सखे करण्याः~॥~३५~॥} }}}  
+\end{quote}
+
+{Give the sum and difference of the pair of surds (1) $\sqrt{2}$ and $\sqrt{8}$
+(2) $\sqrt{3}$ and $\sqrt{27}$. After due thought give the sum and difference of
+$\sqrt{3}$ and $\sqrt{7}$.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}द्वित्र्यष्टसंख्यागुणकः करण्योर्गुण्यस्त्रिसंख्या च सपञ्चरूपा~। }}
+
+\textbf{{\color{red}वधं प्रचक्ष्वाशु विपञ्चरूपे गुणेऽथवा त्र्यर्कमिते करण्यौ~॥~३६~॥} }}
+}  \end{quote}
+
+{Find the product of $\sqrt{2} + \sqrt{3} + \sqrt{8}$ and $\sqrt{3 + 5}$. Also give
+the product of $\sqrt{3 + 5}$ and $\sqrt{3} + \sqrt{12-5}$.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}क्षयो भवेच्च क्षयरूपवर्गश्चेत्साध्यतेऽसौ करणीत्वहेतोः~। }}
+
+\textbf{{\color{purple}ऋणात्मिकायाश्च तथा करण्या मूलं क्षयो रूपविधानहेतोः~॥~३७~॥} }}
+}  \end{quote}
+
+{If for converting a negative number to a surd the negative number is
+squared, the sign of the surd must be kept negative. In like manner if a
+negative surd is changed to an integer after finding the square root,
+the integer must bear the negative sign,}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}धनर्णताव्यत्ययमीप्सितायाश्छेदे करण्या असकृद्विधाय~। }}
+
+\textbf{{\color{purple}तादृक्छिदा भाज्यहरौ निहन्याद् एकैव यावत् करणी हरे स्यात्~॥~}}
+
+\textbf{{\color{purple}भाज्यास्तया भाज्यगताः करण्यो लब्धाः करण्यो यदि योगजाः स्युः~। }}
+\vspace{-4mm}
+
+\textbf{{\color{purple}विश्लेषसूत्रेण पृथक् च कार्या यथा तथा प्रष्ट्रुरभीप्सिताः स्युः~॥~३८~॥} }}
+}  \end{quote}
+
+{To simplify the denominator, we should change the sign of one surd in
+that and multiply both numerator and denominator by the expression thus
+obtained. This should be repeated till only one surd is left in the
+denominator. Dividing the numerator by this surd if the surds so
+obtained can be analyzed into more surds that should be done by the rule
+given in the next stanza. In this way desired surds can be had.}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}वर्गेण\,योगकरणी\,विहृता\,विशुध्येत्खण्डानि\,तत्कृतिपदस्य\,यथेप्सितानि~। }}
+
+\textbf{{\color{purple}कृत्वा तदीयकृतयः खलु पूर्वलब्ध्या क्षुण्णा भवन्ति पृथगेवमिमाः}}
+
+\hfill \textbf{{\color{purple}करण्यः~॥~३९~॥} }}
+}  \end{quote}
+
+{To analyze a surd divide the number by a square number. The root of the
+square can be split into parts as one desires. After squaring the parts
+we get separate surds.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}द्विकत्रिपञ्चप्रमिताः करण्यस्तासां कृतिं द्वित्रिकसंख्ययोश्च~। }}
+
+\textbf{{\color{red}षट्पञ्चकद्वित्रिकसंमितानां पृथक्पृथङ्मे कथयाशु विद्वन्~॥~}}
+
+\textbf{{\color{red}अष्टादशाष्टद्विकसंमितानां कृती कृतीनां च सखे पदानि~॥~४०~॥} }}
+}  \end{quote}
+
+{Give the squares of \hfill (1) $\sqrt{2} + \sqrt{3} +\sqrt{5}$ \hfill (2) $\sqrt{2} + \sqrt{3}$\\
+(3) $\sqrt{6} + \sqrt{5} + \sqrt{2} + \sqrt{3}$ ~and (4) $\sqrt{18} + \sqrt{8} +\sqrt{2}$ ~separately and find the square roots of the results.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}वर्गे करण्या यदि वा करण्योस्तुल्यानि रूपाण्यथवा बहूनाम्~। }}
+
+\textbf{{\color{purple}विशोधयेद्रूपकृतेः पदेन शेषस्य रूपाणि युतोनितानि~॥~}}
+
+\textbf{{\color{purple}पृथक् तदर्धे करणीद्वयं स्यान्मूलेऽथ बह्वी करणी तयोर्या~। }}
+
+\textbf{{\color{purple}रूपाणि तान्येवमतोऽपि भूयः शेषाः करण्यो यदि सन्ति वर्गे~॥~४१~॥} }}
+}  \end{quote}
+
+{In a square there may be one or more than one surd. Squaring the
+integral term we should subtract numbers equivalent to one or more
+surds. The remainder should give a square root. This square root should
+be added to and subtracted from the integral term. Putting them
+separately and dividing by 2 we get two surds. If any surds are left in
+the square, fixing one of the two surds, the process should be
+repeated.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}ऋणात्मिका चेत् करणी कृतौ स्याद्धनात्मिका तां परिकल्प्य साध्ये~। }}
+
+\textbf{{\color{purple}मूले करण्यावनयोरभीष्टा क्षयात्मिकैका सुधियावगम्या~॥~४२~॥} }}
+}  \end{quote}
+
+{If in the square there be a negative surd, regarding it to be positive
+the square root should be found. Out of the surds in the answer one may
+be taken as negative.\\
+}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{red}त्रिसप्तमित्योर्वद मे करण्योर्विश्लेषवर्गं कृतितः पदं च~। }}
+
+\textbf{{\color{red}द्विकत्रिपञ्चप्रमिताः करण्यः स्वस्वर्णगा व्यस्तधनर्णगा वा~। }}
+
+\textbf{{\color{red}तासां कृतिं ब्रूहि कृतेः पदं च चेत् षड्विधं वेत्सि सखे करण्याः~॥~४३~॥}}}
+}  \end{quote}
+
+{Find the square of the difference between $\sqrt{3}$ \,and $\sqrt{7}$ \,and from
+the square find the root. Give the squares of (1) $\sqrt{2} + \sqrt{3} -
+\sqrt{5}$ ~and (2) $- \sqrt{2} - \sqrt{3} + \sqrt{5}$ ~and find the roots of the
+squares.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}एकादिसंकलितमितकरणीखण्डानि वर्गराशौ स्युः~। }}
+
+\textbf{{\color{purple}वर्गे करणीत्रितये करणीद्वितयस्य तुल्यरूपाणि~। }}
+
+\textbf{{\color{purple}करणीषट्के तिसृणां दशसु चतसृणां तिथिषु पञ्चानाम्~। }}
+
+\textbf{{\color{purple}रूपकृतेः प्रोज्झ्य पदं ग्राह्यं चेदन्यथा न सत् क्वापि~। }}
+
+\textbf{{\color{purple}उत्पत्स्यमानयैवं मूलकरण्याल्पया चतुर्गुणया~। }}
+
+\textbf{{\color{purple}यासामपवर्तः स्याद्रूपकृतेस्ता विशोध्याः स्युः~॥ }}
+
+\textbf{{\color{purple}अपवर्ते या लब्धा मूलकरण्यो भवन्ति ताश्चापि~। }}
+
+\textbf{{\color{purple}शेषविधिना न यदि ता भवन्ति मूलं तदा तदसत्~॥~४४~॥} }}
+}  \end{quote}
+
+{In the expression for a square there are one or more surds combined.
+One should know that if the expression has three surds we have to
+subtract from the square of the integral number a number equivalent to
+two surds. If it has six surds, we have to remove from that a number
+equivalent to three; if it has ten then we have to remove a number
+equivalent to four and if it has fifteen then the number will be
+equivalent to five. If after removal the remainder cannot be possibly a
+perfect square then the example is not proper.}
+
+{Verification. In the square root take smallest surd. Find the number
+four times the equivalent of this surd. This must divide the equivalent
+numbers which have been removed from the square of the integral number.
+And the quotients must}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent be equivalent to the surds in the final result. Otherwise the given
+example is wrong.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}वर्गे यत्र करण्यो दन्तैः सिद्धैर्गजैर्मिता विद्वन्~। }}
+
+\textbf{{\color{red}रूपैर्दशभिरूपेताः किं मूलं ब्रूहि तस्य स्यात्~॥~४५~॥} }}
+}  \end{quote}
+
+$10 + \sqrt{32} + \sqrt{24} + \sqrt{8}$ \,is the square of an expression
+involving surds. Find its square root.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}वर्गे यत्र करण्यास्तिथिविश्वहुताशनैश्चतुर्गणितैः~। }}
+
+\textbf{{\color{red}तुल्या दशरूपाढ्याः किं मूलं ब्रूहि तस्य स्यात्~॥~४६~॥} }}
+}  \end{quote}
+
+$10 + \sqrt{60} + \sqrt{52} + \sqrt{12}$ \,is the square of an expression. Find
+its square root.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}अष्टौ षट् पञ्चाशत् षष्टिः करणीत्रयं कृतौ यत्र~। }}
+
+\textbf{{\color{red}रूपैर्दशभिरूपेतं किं मूलं ब्रूहि तस्य स्यात्~॥~४७~॥} }}
+}  \end{quote}
+
+{Give the square root of\, $10 + \sqrt{8} + \sqrt{56} + \sqrt{60}$.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}चतुर्गुणाः सूर्यतिथीषु रूद्रनागर्तवो यत्र कृतौ करण्यः~। }}
+
+\textbf{{\color{red}सविश्वरूपा वद तत्पदं ते यद्यस्ति बीजे पटुताभिमानः~॥~४८~॥} }}
+}  \end{quote}
+
+{Please give the square root of\\
+$13 + \sqrt{48} + \sqrt{60} + \sqrt{20} + \sqrt{44} + \sqrt{32} + \sqrt{24}$.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}चत्वारिंशदशीतिद्विशतीतुल्याः करण्यश्चेत्~। }}
+
+\textbf{{\color{red}सप्तदशरूपयुक्तास्तत्र कृतौ किं पदं ब्रूहि~॥~४९~॥}}}
+}  \end{quote}
+
+{Please give the square root of \,$17 + \sqrt{40} + \sqrt{80} + \sqrt{200}$ }
+\vspace{8mm}
+
+\begin{center}
+\begin{Large}
+\phantomsection \label{kut}
+{\s{
+\textbf{५ कुट्टकविवरणम्~। }
+}}
+\end{Large}
+\end{center}
+\vspace{2mm}
+
+{Equation of the from $ax + c = by$.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}भाज्यो हारः क्षेपकश्चापवर्त्यः केनाप्यादौ संभवे कुट्टकार्थम्~। }}
+
+\textbf{{\color{purple}येन च्छिन्नौ भाज्यहारौ न तेन क्षेपश्चैतद्दुष्टमुद्दिष्टमेव~॥~५०~॥} }}
+}  \end{quote}
+
+{Here '$a$' is dividend, '$b$' is divisor, '$c$' is remainder. To solve a
+{\s{कुट्टक }} (pulveriser) first of all we should ask if $a, b, c$ have a common
+divisor. In that case let us remove the common divisor and}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent {simplify the equation. If the H.C.F. and $a$ and $b$ does not divide '$c$'
+then the example is improper.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}परस्परं भाजितयोर्ययोर्यः शेषस्तयोः स्यादपवर्तनं सः~। }}
+
+\textbf{{\color{purple}तेनापवर्तेन विभाजितौ यौ तौ भाज्यहारौ दृढसंज्ञकौ स्तः~॥ }}
+
+\textbf{{\color{purple}मिथौ भजेत्तौ दृढभाज्यहारौ यावद्विभाज्ये भवतीह रूपम्~। }}
+
+\textbf{{\color{purple}फलान्यधोऽधस्तदधो निवेश्यः क्षेपस्तथान्ते खमुपान्तिमेन~। }}
+
+\textbf{{\color{purple}स्वोर्ध्वे हतेऽन्त्येन युते तदन्त्यं त्यजन्मुहुः स्यादिति राशियुग्मम्~। }}
+
+\textbf{{\color{purple}ऊर्ध्वो विभाज्येन दृढेन तष्टः फलं गुणः स्यादपरो हरेण~॥~५१~॥} }}
+}  \end{quote}
+
+{By the continued division method of finding the H.C.F. we find the
+common divisor of $a$ and $b$ if any. Having removed the common factors of $a$
+and $b$ if any our $a$ and $b$ are now \textit{pucca} for the process. Now we carry the
+continued division method with {\s{दृढभाज्य}} and {\s{दृढहार}} i.e. $a, b$ till we
+arrive at remainder 1. The quotients are placed one below the other in
+succession, in a vertical column and below them {\s{क्षेप}} i.e. $c$ and zero
+at the end. Rule for the process is: the penultimate number is to
+multiply the number (quotient) over it and to this product the ultimate
+number is added and the sum is put above i.e. in the row of the
+multiplicand. The last number is discarded. Continuing this process we
+arrive at two numbers at the top rows. Dividing the upper number by $a$ we
+get the remainder as the value of $y$ {\s{(लब्धि)}}. And dividing the other
+number by $b$ we get the remainder as the value of $x$ {\s{(गुण)}}.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}एवं तदेवात्र यदा समास्ताः स्युर्लब्धयश्चेद्विषमास्तदानीम्~। }}
+
+\textbf{{\color{purple}यथागतौ लब्धिगुणौ विशोध्यौ स्वतक्षणाच्छेषमितो तु तौ स्तः~॥~५२~॥} }}
+}  \end{quote}
+\vspace{-4mm}
+
+{When the number of quotients is even the process gives {\s{गुण}} and {\s{लब्धि}}
+correctly. But when the number is odd, values obtained must be
+subtracted from $b$ and $a$ respectively to get the correct values.}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}भवति कुट्टविधेर्युतिभाज्ययोः समपवर्तितयोरपि वा गुणः~। }}
+
+\textbf{{\color{purple}भवति यो युतिभाजकयोः पुनः स च भवेदपवर्तनसंगुणः~॥~५३~॥} }}
+}  \end{quote}
+
+{If we divide $c$ and $a$ by a common factor and then adopt the {\s{कुट्टक}}
+process we get correct value for $x$ but not for $ y $. To get the value for
+$y$ for the original equation, the value got by the process should be
+multiplied by the common factor.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}योगजे तक्षणाच्छुद्धे गुणाप्ती स्तो वियोगजे~। }}
+
+\textbf{{\color{purple}धनभाज्योद्भवे तद्वद्भवेताम् ऋणभाज्यजे~॥~५४~॥} }}
+}  \end{quote}
+
+{The values of $x$ and $y$ obtained when $c$ is positive must be subtracted
+from $b$ and $a$ respectively for the case when $c$ is negative. In the same
+way the values of $x$ and $y$ when $a$ is positive must be subtracted from $b$
+and $a$ for the case when $a$ is negative. }
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}गुणलब्ध्योः समं ग्राह्यं धीमता तक्षणे फलम्~॥~५५~॥} }}
+}  \end{quote}
+
+{In making selection of proper pair $(x, y)$ the intelligent person
+will take care to see that the values correspond with each other.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}हरतष्टे धनक्षेपे गुणलब्धी तु पूर्ववत्~। }}
+
+\textbf{{\color{purple}क्षेपतक्षणलाभाढ्या लब्धिः शुद्धौ तु वर्जिता~॥~५६~॥} }}
+}  \end{quote}
+
+{When $c>b$ divide $c$ by $b$ and take the remainder as new $c$ and
+calculate $(x, y)$ as before. Value of $x$ will be correct. To get the
+correct value of $y$, to its calculated value add the quotient obtained
+when $b$ divides $c$. If $c$ is negative this quotient should be subtracted
+from the calculated value.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}अथवा भागहारेण तष्टयोः क्षेपभाज्ययोः~। }}
+
+\textbf{{\color{purple}गुणः प्राग्वत् ततो लब्धिर्भाज्याद्धतयुतोद्धृतात्~॥~५७~॥} }}
+}  \end{quote}
+
+{Alternative method: Divide $a$ by $b$ and $c$ by $b$ and take the respective
+remainders for new $a$ and new $c$. Calculate {\s{गुण}} and {\s{लब्धि}} by the process.
+{\s{गुण}} }
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent will be correct. Putting this value in the original equation we get the
+value for {\s{लब्धि}} i.e. $y.$
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}क्षेपाभावोऽथवा यत्र क्षेपः शुध्येद्धरोद्धृतः~। }}
+
+\textbf{{\color{purple}ज्ञेयः शून्यं गुणस्तत्र क्षेपो हरहृतः फलम्~॥~५८~॥} }}
+}  \end{quote}
+
+When \,the \,remainder \,is \,zero \,or \,where \,it \,is divisible by the divisor, $x$
+will be zero. And the quotient obtained by dividing the remainder by the
+divisor will be the value of $y$.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}इष्टाहतस्वस्वहरेण युक्ते ते वा भवेतां बहुधा गुणाप्ती~॥~५९~॥} }}
+}  \end{quote}
+
+{If we multiply the divisor and the dividend by any number and add the
+respective products to the values of $y$ and $x$ already obtained we get
+infinite values for $(y, x).$}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}एकविंशतियुतं शतद्वयं यद्गुणं गणक पञ्चषष्टियुक्। }}
+
+\textbf{{\color{red}पञ्चवर्जितशतद्वयोद्धृतं शुद्धिमेति गुणकं वदाशु तम्~॥~६०~॥} }}
+}  \end{quote}
+
+{Find an integral number such that when it is multiplied by 221 and
+increased by 65 the result is divisible by 195 without a remainder.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}शतं हतं येन युतं नवत्या विवर्जितं वा विहृतं त्रिषष्ट्या~। }}
+
+\textbf{{\color{red}निरग्रकं स्याद् वद मे गुणं तं स्पष्टं पटीयान् यदि कुट्टकेऽसि~॥~६१~॥} }}
+}  \end{quote}
+
+{Find that number which multiplied by 100 and increased by 90 is
+divisible by 63 without a remainder.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यद् गुणाक्षयगषष्टिरन्विता वर्जिता च यदि वा त्रिभिस्ततः~। }}
+
+\textbf{{\color{red}स्यात् त्रयोदशहृता निरग्रका तं गुणं गणक मे पृथग् वद~॥~६२~॥} }}
+}  \end{quote}
+
+{What is that number which multiplied by $-60$ and increased by 3 or
+decreased by 3 divisible by 13 without a remainder\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}अष्टादश गुणाः केन दशाढ्या वा दशोनिताः~। }}
+
+\textbf{{\color{red}शुद्धं भागं प्रयच्छन्ति क्षयगैकादशोद्धृताः~॥~६३~॥} }}
+}  \end{quote}
+
+{What is that number which multiplied by 18 and increased by 10 or
+decreased by 10 is divisible by $-11$ without a remainder\,?}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{red}येन संगुणिताः पञ्च त्रयोविंशतिसंयुताः~। }}
+
+\textbf{{\color{red}वर्जिता वा त्रिभिर्भक्ता निरग्राः स्युः स को गुणः~॥~६४~॥} }}
+}  \end{quote}
+
+{What is that number which multiplied by 5 and increased or decreased by
+23, is divisible by 3 without a remainder\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}येन पञ्च गुणिताः खसंयुताः पञ्चषष्टिसहिताश्च तेऽथवा~। }}
+
+\textbf{{\color{red}स्युस्त्रयोदश हृता निरग्रकास्तं गुणं गणक कीर्तयाशु मे~॥~६५~॥} }}
+}  \end{quote}
+
+{What is that number which multiplied by 5 and increased by zero is
+divisible by 13 without a remainder and which multiplied by 5 and
+increased by 65 is divisible by 13 without a remainder\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}क्षेपं विशुद्धिं परिकल्प्य रूपं पृथक्तयोर्ये गुणकारलब्धी~।} }
+
+\textbf{{\color{purple}अभीप्सितक्षेपविशुद्धिनिघ्ने स्वहारतष्टे भवतस्तयोस्ते~॥~६६~॥} }}
+}  \end{quote}
+
+{In the given {\s{कुट्टक}} taking $c = \pm$ find $x$ and $y$. By the desired value of
+$c$ {\s{(क्षेप)}} multiply the $x$ and $y$ obtained. Divide the results by $a$ and $b$
+respectively. The remainders are the true values of $x$ and $y$.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}कल्प्याथ शुद्धिर्विकलावशेषं षष्टिश्च भाज्यः कुदिनानि हारः~। }}
+
+\textbf{{\color{purple}तज्जं फलं स्युर्विकलागुणस्तु लिप्ताग्रमस्माच्च कलालवाग्रम्~। }}
+
+\textbf{{\color{purple}एवं तदूर्ध्वं च तथाधिमासावमाग्रकाभ्यो दिवसा रवीन्द्वोः~॥~६७~॥} }}
+}  \end{quote}
+
+{We take 60 as dividend, $c$, a negative number indicating residual
+\textit{vikala}, and divisor indicating the days in a {\s{युग}}. The $x$ that we get is
+residual \textit{kala} and $y$ is \textit{vikala} for the planet. From this we find \textit{kala},
+residual degree and so on.}
+
+{In the same manner from {\s{अधिमास}} and {\s{अवमाग्रक}} we get total lunar and
+solar days that have elapsed.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}एको हरश्चेद् गुणकौ विभिन्नौ तदा गुणैक्यं परिकल्प्य भाज्यम्~। }}
+
+\textbf{{\color{purple}अग्रैक्यमग्रं कृत उक्तवद्यः संश्लिष्टसंज्ञः स्फुटकुट्टकोऽसौ~॥~६८~॥} }}
+}  \end{quote}
+
+{In two pulverisers if the divisor is common, we should add the two
+values of $a$ and take the }
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent sum as dividend; adding the two values of $c$ we take the sum with a
+negative sign as the remainder. What we get is called mixed; pulveriser.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}कः पञ्चनिघ्नो विहृतस्त्रिषष्ट्या सप्तावशेषोऽथ स एव राशिः~। }}
+
+\textbf{{\color{red}दशाहतः स्याद् विहृतस्त्रिषष्ट्या चतुर्दशाग्रो वद राशिमेनम्~॥~६९~॥} }}
+}  \end{quote}
+
+{What is that number which multiplied by 5 and divided by 63 gives 7 as
+remainder and when multiplied by 10 and divided by 63 gives 14 as
+remainder\,?}
+
+\vspace{20pt}
+\begin{center}
+\begin{Large}
+\phantomsection \label{varga}
+{\s{
+\textbf{६ वर्गप्रकृतिः }
+}}
+\end{Large}
+\end{center}
+\vspace{5pt}
+
+{Equation of the form $ax^{2} + b = y^{2}$}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}इष्टं ह्रस्वं तस्य वर्गः प्रकृत्या क्षुण्णौ युक्तो वर्जिता वा स येन~। }}
+
+\textbf{{\color{purple}मूलं दद्यात् क्षेपकं तं धनर्णं मूलं तच्च ज्येष्ठमूलं वदन्ति~॥~७०~॥}}}
+}  \end{quote}
+
+{What is desired is $x$, the first variable. By multiplying the square of
+the desired by {\s{प्रकृति}} and adding or subtracting something we get a
+square number whose root is the second variable. The augment $b$ may be
+positive or negative. }
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}ह्रस्वज्येष्ठक्षेपकान् न्यस्य तेषां तानन्यान्वाधो निवेश्य क्रमेण~। }}
+
+\textbf{{\color{purple}साध्यान्येभ्यो भावनाभिर्बहूनि मूलान्येषां भावना प्रोच्यतेऽतः~॥~७१~॥ }}
+\vspace{-4mm}
+
+\textbf{{\color{purple}वज्राभ्यासौ ज्येष्ठलघ्वोस्तदैक्यं ह्रस्वं लघ्वोराहतिश्च प्रकृत्या~। }}
+
+\textbf{{\color{purple}क्षुण्णा ज्येष्ठाभ्यासयुग्ज्येष्ठमूलं तत्राभ्यासः क्षेपयोः क्षेपकः स्यात्~॥} }
+
+\textbf{{\color{purple}ह्रस्वं वज्राभ्यासयोरन्तरं वा लघ्वोर्घातो यः प्रकृत्या विनिघ्नः~। }}
+
+\textbf{{\color{purple}घातो यश्च ज्येष्ठयोस्तद्वियोगो ज्येष्ठं क्षेपोऽत्रापि च क्षेपघातः~॥~७२~॥} }}
+}  \end{quote}
+
+{Put down $x, y, b$ in this order. Below them write the same or other
+{\s{ह्रस्व, ज्येष्ठ}} and {\s{क्षेपक}} satisfying a similar equation with the same
+{\s{प्रकृति}}, $a$. From these by a process called {\s{भावना}} we can have many values
+for $x, y$. This is why the process is called \textit{bhāvanā} (generator). By
+cross-multiplying and }
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent adding two products of $x$ and $y$ we get a new {\s{ह्रस्व}}. By multiplying the product of two first variables with {\s{प्रकृति}} and adding to it the product of the second variables we get new $y$. Product of two augments (i.e. {\s{क्षेप}}) gives new value for $b$.
+
+Another method. Take $x_{1}y_{2} - x_{2}y_{1}$ as new $x; \,ax_{1}x_{2} - y_{1}y_{2}$ as new $y$ and $b_{1}b_{2}$ as new $b$.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}इष्टवर्गप्रकृत्योर्यद्विवरं तेन वा भजेत् }}
+
+\textbf{{\color{purple}द्विघ्नमिष्टं कनिष्ठं तत्पदं स्यादेकसंयुतौ~। }}
+
+\textbf{{\color{purple}ततो ज्येष्ठमिहानन्त्यं भावनातस्तथेष्टतः~॥~७३~॥}}}  }
+\end{quote}
+
+If the absolute number is 1, then $\dfrac{2x}{a-x^{2}}$ may be taken as new $x$ and from that new $y$ can be obtained. From these values we can get infinite values for the triad $(x, y, b)$ by the application of \textit{bhāvanā} process and {\s{इष्ट}} as given in stanzas 71 and 72.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}को वर्गोऽष्टहतः सैकः कृतिः स्याद्गणकोच्यताम्~। }}
+
+\textbf{{\color{red}एकादशगुणाः को वा वर्गः सैकः कृतिः सखे~॥~७४~॥}} }
+}  \end{quote}
+
+{Give the rational solutions for}
+
+(1) $8x^{2} + 1 = y^{2}$ and (2) $11x^{2} + 1 = y^{2}$
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}ह्रस्वज्येष्ठपदक्षेपान् भाज्यप्रक्षेपभाजकान्~। }}
+
+\textbf{{\color{purple}कृत्वा कल्प्यो गुणस्तत्र तथा प्रकृतितश्च्युते~।} }
+
+\textbf{{\color{purple}गुणवर्गे प्रकृत्योनेऽथवाल्पं शेषकं यथा~। }}
+
+\textbf{{\color{purple}तत्तु क्षेपहृतं क्षेपो व्यस्तः प्रकृतितश्च्युते~। }}
+
+\textbf{{\color{purple}गुणलब्धिः पदं ह्रस्वं ततो ज्येष्ठमतोऽसकृत्~।} }
+
+\textbf{{\color{purple}त्यक्त्वा पूर्वपदक्षेपांश्चक्रवालम् इदं जगुः~।} }
+
+\textbf{{\color{purple}चतुर्द्व्येकयुतावेवमभिन्ने भवतः पदे~। }}
+
+\textbf{{\color{purple}चतुर्द्विक्षेपमूलाभ्यां रूपक्षेपार्थभावना~॥~७५~॥} }}
+}  \end{quote}
+
+For a given \textit{prakṛti} $a$, let us assume $x, y$ and $b$ satisfying, $ax^{2} + b =y^{2}$. We now have \textit{kuṭṭaka} where these $x, y, b$ are respectively dividend, aug-
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent ment and divisor. We get {\s{गुण}} and {\s{लब्धि}} by the process of \textit{kuṭṭaka}. The square of this {\s{गुण}} should be subtracted from the given \textit{prakṛti} or this \textit{prakṛti} should be subtracted from the square of the \textit{guna} so that the difference may be small. This difference divided by the augment $b$ gives new value of $b$. If the square has been subtracted from \textit{prakṛti}, sign must be changed for the new augment. The quotient obtained by \textit{kuṭṭaka} will be new $x$. From the new values of $x$ and $b$ we should get the new value of $y$. This method of getting new values for $x, y$ and $b$ from the previous ones is known as {\s{चक्रवाल}} or cyclic.
+
+In this way for any augment 4, 2 or 1 we get integral values for the variables. From augments 4 or 2 we can come to augment 1 with the help of \textit{bhāvanā} process or other methods.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}का\,सप्तषष्टिगुणिता\,कृतिरेकयुक्ता\,का\,चैकषष्टिनिहता\,च\,सखे\,सरूपा\,। }}
+
+\textbf{{\color{red}स्यान् मूलदा यदि कृतिप्रकृतिर्नितान्तं त्वच्चेतसि प्रवद तात}}
+
+\hfill \textbf{{\color{red}ततालतावत्~॥~७६~॥} }}
+}  \end{quote}
+\vspace{-2mm}
+
+{Give the rational solutions of\\
+\indent (1) $67 x^{2} + 1 = y^{2}$ and (2) $61x^{2} + 1$ $= y^{2}$}.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}रूपशुद्धौ खिलोद्दिष्टं वर्गयोगो गुणो न चेत्~॥~७७~॥} }}
+}  \end{quote}
+
+{The augment being minus one, if the coefficient is not the sum of two
+squares solution is not possible.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}अखिले कृतिमूलाभ्यां द्विधा रूपं विभाजितम्~।} }
+
+\textbf{{\color{purple}द्विधा ह्रस्वपदं ज्येष्ठं ततो रूपविशोधने~। }}
+
+\textbf{{\color{purple}पूर्ववद् वा प्रसाध्येते पदे रूपविशोधने~॥~७८~॥}} }
+}  \end{quote}
+
+{We should take the roots of the two squares which form the coefficient.
+Dividing 1 by these roots we shall get two separate values for $x$. From
+these we can find corresponding values for $y$.}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+{Otherwise, \,such \,examples \,can \,be \,solved \,by \,methods \,given before.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}त्रयोदशगुणो वर्गो निरेकः कः कृतिर्भवेत्~।}}
+
+\textbf{{\color{red}को वाष्टगुणितो वर्गो निरेको मूलदो वद~॥~७९~॥} }}
+}  \end{quote}
+
+{Solve the equations ~(1) $13x^{2} - 1 = y^{2}$ ~(2) $8x^{2} - 1 =y^{2}$}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}को वर्गः षड्गुणस्त्र्याढ्यो द्वादशाढ्योऽथवा कृतिः~। }}
+
+\textbf{{\color{red}युतो वा पञ्चसप्तत्या त्रिशत्या वा कृतिर्भवेत्~॥~८०~॥}} }
+}  \end{quote}
+
+{In $6x^{2}$ when we add 3, 12, 75 or 300 we get a square each time. Find the values of $x$ in each case.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}स्वबुद्ध्यैव पदे ज्ञेये बहुक्षेपविशोधने~। }}
+
+\textbf{{\color{purple}तयोर्भावनयानन्त्यं रूपक्षेपपदोत्थया~॥~८१~॥} }}
+}  \end{quote}
+
+{Whatever be the augment, first of all we should find the two roots by our own efforts. From these we can get by {\s{भावना}} process any number of
+solutions.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}वर्गच्छिन्ने गुणे ह्रस्वं तत्पदेन विभाजयेत्~॥~८२~॥} }}
+}  \end{quote}
+
+{If we divide the multiplier $a$ by the square of any number and then find $x$ and $y$ we should divide the $x$ obtained by the root of the square
+number. }
+
+\begin{quote}  {\s{
+\textbf{{\color{red}द्वात्रिंशद्गुणितो वर्गः कः सैको मूलदो वद~॥~८३~॥} }}
+}  \end{quote}
+
+$32x^{2 } + 1$ is a perfect square, find the value of $x$.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}इष्टभक्तो द्विधा क्षेप इष्टेनाढ्यो दलीकृतः~। }}
+
+\textbf{{\color{purple}गुणमूलहृतश्चाद्यो ह्रस्वज्येष्ठे क्रमात् पदे~॥~८४~॥}} }
+}  \end{quote}
+
+{If the coefficient is a perfect square divide the augment by any number
+and write the quotient at two places. From one subtract that number and
+to the other add that number, Divide the two results by double the
+square root of the coefficient and we got $x$ and $y$ respectively.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}का कृतिर्नवभिः क्षुण्णा द्विपञ्चाशद्युता कृतिः~। }}
+
+\textbf{{\color{red}को वा चतुर्गुणो वर्गस्त्रयस्त्रिंशद्युता कृतिः~॥~८५~॥} }}
+}  \end{quote}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+{Find the values of x satisfying the equations ~(1) $9x^{2} + 52 = y^{2}$ (2) $4x^{2} + 33 =y^{2}$}.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}त्रयोदशगुणो वर्गः कस्त्रयोदशवर्जितः~। }}
+
+\textbf{{\color{red}त्रयोदशयुतो वा स्याद्वर्ग एव निगद्यताम्~॥~८६~॥} }}
+}  \end{quote}
+
+{Find the values of $x$ satisfying the equations (1) $13x^{2} -13 =y^{2}$ (2) $13x^{2} + 13 =y^{2}.$}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}ऋणगैः पञ्चभिः क्षुण्णः को वर्गः सैकविंशतिः~। }}
+
+\textbf{{\color{red}वर्गः स्याद्वद चेद्वेत्सि क्षयगप्रकृतौ विधिम्~॥~८७~॥} }}
+}  \end{quote}
+
+{If you can deal with equations with negative coefficient, find the
+values of $x$ from $-5x^{2} + 21 =y^{2}$}.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}उक्तं बीजोपयोगीदं संक्षिप्तं गणितं किल~। }}
+
+\textbf{{\color{purple}अतो बीजं प्रवक्ष्यामि गणकानन्दकारकम्~॥~८८~॥} }}
+}  \end{quote}
+
+{We have given in short, methods of calculation useful in algebra. Now
+we shall give \textit{Bījagaṇita} that will give joy to the mathematician.}
+
+\vspace{15pt}
+\begin{center}
+\begin{Large}
+\phantomsection \label{eka}
+{\s{
+\textbf{७ एकवर्णसमीकरणम्~। }
+}}
+\end{Large}
+\end{center}
+\vspace{5pt}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}यावत्तावत्कल्प्यमव्यक्तराशेर्मानं तस्मिन्कुर्वतोद्दिष्टमेव~। }}
+
+\textbf{{\color{purple}तुल्यौ पक्षौ साधनीयौ प्रयत्नात्त्यक्त्वा क्षिप्त्वा वापि
+संगुण्य भक्त्वा~॥} }
+
+\textbf{{\color{purple}एकाव्यक्तं शोधयेदन्यपक्षाद्रुपाण्यन्यस्येतरस्माच्च पक्षात्~। }}
+
+\textbf{{\color{purple}शेषाव्यक्ते नोद्धरेद्रूपशेषं व्यक्तं मानं जायते व्यक्तराशेः~॥ }}
+
+\textbf{{\color{purple}अव्यक्तानां द्व्यादिकानामपीह यावत्तावद्द्व्यादिनिघ्नं हृतं वा~। }}
+
+\textbf{{\color{purple}युक्तोनं वा कल्पयेदात्मबुद्ध्या मानं क्वापि व्यक्तमेवं विदित्वा~॥~८९~॥} }}
+}  \end{quote}
+
+{First of all we assume $x$ for the value of the unknown quantity.
+According to the question in order to equate two sides, we have to add
+to or subtract from some quantity or to multiply or divide. When the
+sides are equated we should get the unknown to one side and take the
+absolute numbers to the other side. Dividing the absolute number by the
+coefficient of the unknown, the }
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent {value of the unknown becomes known.}
+
+{If the number of unknowns is two or more assume one unknown to be $x$.
+Multiplying $x$ by 2 or any other number or dividing it by something or
+adding to that or subtracting from that some number one should assume
+suitable values for the other unknowns.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}एकस्य रुपत्रिशती षडश्वा अश्वा दशान्यस्य तु तुल्यमौल्याः~। }}
+
+\textbf{{\color{red}ऋणं तथा रूपशतं च यस्य तौ तुल्यवित्तौ च किमश्वमौल्यम्~॥~९०~॥}}}
+}  \end{quote}
+
+One man has 300 rupees and 6 horses and another man has 10 horses and
+a debt of rupees 100. If they are equally rich and the price of each
+horse be the same, tell me the price of one horse.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यदाद्यवित्तस्य दलं द्वियुक्तं तत्तुल्यवित्तो यदि वा द्वितीयः~। }}
+
+\textbf{{\color{red}आद्यो धनेन त्रिगुणोऽन्यतो वा पृथक् पृथङ् मे वद वाजिमौल्यम्~॥~९१~॥} }}}  \end{quote}
+
+(1) If two rupees are added to half the wealth of the first man, he is
+equal in wealth with the second man. (2) Three times the wealth of the
+second man is equal to the wealth of the first man. Tell me the price of
+one horse in each case separately.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}माणिक्यामलनीलमौक्तिकमितिः पञ्चाष्ट सप्त क्रमा- }}
+
+\textbf{{\color{red}देकस्यान्यतरस्य सप्त नव षट् तद्रत्नसंख्या सखे~। }}
+
+\textbf{{\color{red}रूपाणां नवतिर्द्विषष्टिरनयोस्तौ तुल्यवित्तौ तथा }}
+
+\textbf{{\color{red}बीजज्ञ प्रतिरत्नजानि सुमते मौल्यानि शीघ्रं वद~॥~९२~॥} }}
+}  \end{quote}
+
+{One man has 5 rubies, 8 sapphires, 7 pearls and 90 rupees. Second man
+has 7 rubies, 9 sapphires, 6 pearls and 62 rupees. They are equally rich.
+Find the price of each jewel.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}एको ब्रवीति मम देहि शतं धनेन}}
+
+\textbf{{\color{red}त्वत्तो भवामि हि सखे द्विगुणस्तततोन्यः~। }}
+
+\textbf{{\color{red}ब्रूते दशार्पयसि चेन्मम षड्गुणोऽहं}}
+\vspace{-1mm}
+
+\textbf{{\color{red}त्वत्तस्तयोर्वद धने मम किं प्रमाणे~॥~९३~॥} }}
+}  \end{quote}
+
+{One man says to the other, ``If you will give me 100 rupees, I shall be
+twice yourself in wealth."\\
+}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent {The other man says, ``If you give me 10 rupees, I shall be six times
+yourself." Tell me the wealth of each of them.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}माणिक्याष्टकमिन्द्रनीलदशकं मुक्ताफलानां शतं }}
+
+\textbf{{\color{red}यत्ते कर्णविभूषणे समधनं क्रीतं त्वदर्थे मया~। }}
+
+\textbf{{\color{red}तद्रत्नत्रयमौल्यसंयुतिमितिस्त्र्यूनं शतार्धं प्रिये }}
+
+\textbf{{\color{red}मौल्यं ब्रूहि पृथग्यदीह गणिते कल्पासि कल्याणिनि~॥~९४~॥} }}
+}  \end{quote}
+
+{A man says to his wife, ``Do you know that I have purchased 8 rubies,
+10 sapphires and 100 pearls for your earrings. Each time I paid the same
+amount. The price of a set of three jewels i.e. one ruby, one sapphire
+and one pearl is 47 rupees. Calculate and tell me the price of each
+jewel separately."}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}पञ्चांशोऽलिकुलात्कदम्बमगमत्त्र्यंशः शिलीन्ध्रं तयो- }}
+
+\textbf{{\color{red}र्विश्लेषस्त्रिगुणो मृगाक्षि कुटजं दोलायमानोऽपरः~। }}
+
+\textbf{{\color{red}कान्ते केतकमालतीपरिमलप्राप्तैककालीप्रिया- }}
+
+\textbf{{\color{red}द्दूताहूत इतस्ततो भ्रमति खे भृङ्गोऽलिसंख्यां वद~॥~९५~॥} }}
+}  \end{quote}
+
+{A man says to his wife, ``There was a cluster of bees. One fifth went
+to \textit{kadamba}, one third went to mushroom, thrice the difference of these
+two numbers went to \textit{kuṭaja}. And the remaining one is wandering to and fro
+being in doubt as to which of the two \textit{ketaka} or \textit{mālatī} has sent
+invitation to him through its fragrance. Tell me the total number of
+bees."}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}पञ्चकशतदत्तधनात्फलस्य वर्गं विशोध्य परिशिष्टम्~। }}
+
+\textbf{{\color{red}दत्तं दशकशतेन तुल्यः कालः फलं च तयोः~॥~९६~॥} }}
+}  \end{quote}
+
+{A sum was lent out at 5 per cent per month. Subtracting the square of
+the interest for some period from the sum, the remainder was lent out at
+10 p.c.p.m. To produce the same interest as before, time required was
+the same. Find the }
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent sums.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}एकशतदत्तधनात्फलस्य वर्गं विशोध्य परिशिष्टम्~। }}
+
+\textbf{{\color{red}पञ्चकशतेन दत्तं तुल्यः कालः फलं च तयोः~॥~९७~॥} }}
+}  \end{quote}
+
+{A sum was lent out at 1 p.c.p.m. subtracting the square of the
+interest for some period from the sum the remainder was lent out at 5 p.c.p.m. To produce the same interest as before, time was the same. Find
+the sum.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}माणिक्याष्टकमिन्द्रनीलदशकं मुक्ताफलानां शतं }}
+
+\textbf{{\color{red}सद्वज्राणि च पञ्च रत्नवणिजां येषां चतुर्णां धनम्~। }}
+
+\textbf{{\color{red}संगस्नेहवशेन ते निजधनाद्दत्त्वैकमेकं मिथो }}
+
+\textbf{{\color{red}जातास्तुल्यधनाः पृथग्वद सखे तद्रत्नमौल्यानि मे~॥~९८~॥} }}
+}  \end{quote}
+
+{There were four jewel merchants. First had 8 rubies, second had 10
+sapphires, third had 100 pearls and fourth had 5 diamonds. Because of
+friendly love each gave one jewel to others and they became equal in
+wealth. Tell me the price of each jewel separately.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}पञ्चकशतेन दत्तं मूलं सकलान्तरं गते वर्षे~। }}
+
+\textbf{{\color{red}द्विगुणं षोडशहीनं लब्धं किं मूलमाचक्ष्व~॥~९९~॥} }}
+}  \end{quote}
+
+{A sum was lent out at 5 p.c.p.m. for a year. The sum added to the
+interest is less than twice the sum by 16. Tell me the sum.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यत्पञ्चकद्विकचतुष्कशतेन दत्तं खण्डैस्त्रिभिर्नवतियुक् त्रिशती धनं तत्~।}}
+\vspace{-4mm}
+
+\textbf{{\color{red}मासेषु सप्तदशपञ्चसु तुल्यमाप्तं खण्डत्रयेऽपि सकलं वद}}
+
+\hfill \textbf{{\color{red}खण्डसंख्याम्~॥~१००~॥} }}
+}  \end{quote}
+
+{Rupees 390 were divided into three parts and they were lent out at 5, 2
+and 4 p.c.p.m. After 7, 10 and 5 months respectively the amounts were
+equal. Tell me the sums in three parts.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}पुरप्रवेशे दशदो द्विसंगुणं विधाय शेषं दशभुक् च निर्गमे~। }}
+
+\textbf{{\color{red}ददौ दशैवं नगरत्रयेऽभवत्त्रिनिघ्नमाद्यं वद तत्कियद्धनम्~॥~१०१~॥} }}
+}  \end{quote}
+
+{A merchant started with a sum. Entering a  }
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent {city he paid Rs.\,10 as custom. After trading his amount became double.
+From that he spent Rs.\,10 on dinner and left the city after paying Rs.\,10 as custom. He went to other city. The same was the case in second and
+third cities. After coming back his amount had trebled. What was the
+sum\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}सार्धं तन्दुलमानकत्रयमहो द्रम्मेण मानाष्टकं }}
+
+\textbf{{\color{red}मुद्गानां च यदि त्रयोदशमिता एता वणिक्काकिणीः~। }}
+
+\textbf{{\color{red}आदायार्पय तन्दुलांशयुगुलं मुद्गैकभागान्वितं }}
+
+\textbf{{\color{red}क्षिप्रं क्षिप्रभुजो व्रजेम हि युतः सार्थोऽग्रतो यास्यति~॥~१०२~॥} }}
+}  \end{quote}
+
+{A grocer says ``Sir, rice is
+3$\frac{1}{2}$
+seers for 1 \textit{dramma} and \textit{mung} is 8 seers for 1 \textit{dramma}." The customer said,
+``Please have these 13 \textit{kākiṇīs} and give me one part \textit{mung} and two parts
+rice quickly. After meals we must depart very soon, for my
+co-travellers have gone ahead.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}स्वार्धपञ्चांशनवमैर्युक्ताः के स्युः समास्त्रयः~। }}
+
+\textbf{{\color{red}अन्यांशद्वयहीना ये षष्टिशेषाश्च तान्वद~॥~१०३~॥} }}
+}  \end{quote}
+
+{Three numbers are such that when their respective $\frac{1}{2}$, $\frac{1}{5}$ and $\frac{1}{9}$ are
+added the sums are equal. But when from each of them those parts of
+other two are subtracted each of the remainders is 60. Tell me the
+numbers.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}त्रयोदश तथा पञ्च करण्यौ भजयोर्मिती~। }}
+
+\textbf{{\color{red}भूरज्ञातात्र चत्वारः फलं भूमिं वदाशु मे~॥~१०४~॥} }}
+}  \end{quote}
+
+{Two sides of a triangle are $\sqrt{13}$ and $\sqrt{5}$. If its area is 4, what
+is the third side\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}दशपञ्चकरण्यन्तरमेको बाहुः परश्च षट् करणी~। }}
+
+\textbf{{\color{red}भूरष्टादश करणी रूपोना लम्बमाचक्ष्व~॥~१०५~॥} }}
+}  \end{quote}
+
+{One side of a triangle is $\sqrt{10} - \sqrt{5}$ and second side is $\sqrt{6}$.
+The base is $\sqrt{18} - 1$. Tell me the length of the height.}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{red}असमानसमच्छेदान् राशींस्तांश्चतुरो वद~। }}
+
+\textbf{{\color{red}यदैकं यद्घनैक्यं वा येषां वर्गैक्यसंमितम्~॥~१०६~॥} }}
+}  \end{quote}
+
+(1) Four numbers are proportional to 1:2:3:4. Give those numbers if
+their sum is equal to the sum of their squares. (2) If four numbers are
+proportional to 1:2:3:4, and the sum of their squares is equal to
+the sum of their cubes, find them.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}त्र्यस्रक्षेत्रस्य यस्य स्यात्फलं कर्णेन संमितम्~। }}
+
+\textbf{{\color{red}दोःकोटिश्रुतिघातेन समं यस्य च तद्वद~॥~१०७~॥} }}
+}  \end{quote}
+
+{Which right angled triangle is that whose area is equal to its
+hypotenuse\,?}
+
+{Give the sides of the right angled triangle whose area is equal to the
+product of the three sides.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}युतौ वर्गोऽन्तरे वर्गो ययोर्घाते घनो भवेत्~। }}
+
+\textbf{{\color{red}तौ राशी शीघ्रमाचक्ष्व दक्षोऽसि गणिते यदि~॥~१०८~॥} }}
+}  \end{quote}
+
+{Find two numbers whose sum is a square number and difference also a
+square and whose product is a cube. }
+
+\begin{quote}  {\s{
+\textbf{{\color{red}घनैक्यं जायते वर्गो वर्गैक्यं च ययोर्घनः~। }}
+
+\textbf{{\color{red}तौ चेद्वेत्सि तदाहं त्वां मन्ये बीजविदां वरम्~॥~१०९~॥} }}
+}  \end{quote}
+
+{Give two numbers such that the sum of their cubes is a square and the
+sum of their squares is a cube.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यत्र त्र्यस्रे क्षेत्रे धात्री मनुसंमिता सखे बाहू~। }}
+
+\textbf{{\color{red}एकः पञ्चदशान्यस्त्रयोदश वदावलम्बकं तत्र~॥~११०~॥} }}
+}  \end{quote}
+
+{The base of a triangle is 14 and the sides are 15 and 13. Find its
+height.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यदि समभुवि वेणुर्द्वित्रिपाणिप्रमाणो }}
+
+\textbf{{\color{red}गणक पवनवेगादेकदेशे स भग्नः~। }}
+
+\textbf{{\color{red}भुवि नृपमितहस्तेष्वङ्ग लग्नं तदग्रम् }}
+
+\textbf{{\color{red}कथय कतिषु मूलादेष भग्नः करेषु~॥~१११~॥}}}
+}  \end{quote}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+{On a plane ground a bamboo of 32 \textit{hands} is standing. Due to force of the
+wind it cracked at one place. Its end touched the ground at a distance
+of 16 \textit{hands} from the bottom of the bamboo. Tell me at how many \textit{hands}
+from the bottom the bamboo got cracked.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}चक्रक्रौंचाकुलितसलिले क्वापि दृष्टं तडागे }}
+
+\textbf{{\color{red}तोयादूर्ध्वं कमलकलिकाग्रं वितस्तिप्रमाणम्~।} }
+
+\textbf{{\color{red}मन्दं मन्दं चलितमनिलेनाहतं हस्तयुग्मे }}
+
+\textbf{{\color{red}तस्मिन्मग्नं गणक कथय क्षिप्रमम्बुप्रमाणम्~॥~११२~॥} }}
+}  \end{quote}
+
+{In a pond whose water was visited by herons and geese, the end of a
+lotus bud was seen at a height of one \textit{vitasti} from the water level.
+Gradually it moved because of the wind and dipped into the water at a
+distance of two \textit{hands}. Please tell me the depth of water in the pond.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}वृक्षाद्धस्तशतोच्छ्रयाच्छतयुगं वापीं कपिः कोऽप्यगा- }}
+
+\textbf{{\color{red}दुत्तीर्याथ परो द्रुतं श्रुतिपथात्प्रोड्डीय किंचिद्द्रुमात्~। }}
+
+\textbf{{\color{red}जातैवं समता तयोर्यदि गतावुड्डीयमानं कियद् }}
+
+\textbf{{\color{red}विद्वंश्चेत्सुपरिश्रमोऽस्ति गणिते क्षिप्रं तदाचक्ष्व मे~॥~११३~॥} }}
+}  \end{quote}
+
+{Two monkeys were perching on a tree 100 \textit{hands} in height. One of them
+climbed down the tree and went to a well situated at a distance of 200
+\textit{hands}. The other quickly flew upwards a little and came to the same well
+by a straight path. If both of them had traversed equal distances, find
+to what height the second monkey flew upwards.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}पञ्चदशदशकरोच्छ्रायवेण्वोरज्ञातमध्यभूमिकयोः~। }}
+
+\textbf{{\color{red}इतरेतरमूलाग्रगसूत्रयुतेर्लम्बमानमाचक्ष्व~॥~११४~॥} }}
+}  \end{quote}
+
+{There are two bamboos of height 15 \textit{hands} and 10 \textit{hands}. The distance
+between them is unknown. Two strings join the top of each bamboo to the
+bottom of the other. Find the height of the point}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+\noindent where the two strings meet.
+ 
+\vspace{20pt}
+\begin{center}
+\begin{Large}
+\phantomsection \label{madh}
+{\s{
+\textbf{८ मध्यमाहरणम्~।} 
+}}
+\end{Large}
+\end{center}
+\vspace{10pt}
+
+{A device to solve a quadratic equations. }
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}अव्यक्तवर्गादि यदावशेषं पक्षौ तदेष्टेन निहत्य किंचित्~। }}
+
+\textbf{{\color{purple}क्षेप्यं तयोर्येन पदप्रदः स्यादव्यक्तपक्षस्य पदेन भूयः~॥ }}
+
+\textbf{{\color{purple}व्यक्तस्य पक्षस्य समक्रियैवमव्यक्तमानं खलु लभ्यते तत्~। }}
+
+\textbf{{\color{purple}न निर्वहश्चेद्घनवर्गवर्गेष्वेवं तदा ज्ञेयमिदं स्वबुद्ध्या~॥ }}
+
+\textbf{{\color{purple}अव्यक्तमूलर्णगरूपतोऽल्पं व्यक्तस्य पक्षस्य पदं यदि स्यात्~। }}
+
+\textbf{{\color{purple}ऋणं धनं तच्च विधाय साध्यमव्यक्तमानं द्विविधं क्वचित्तत्~॥~११५~॥} }}
+}  \end{quote}
+
+{Taking the quadratic and first degree term on one side we are to
+multiply both sides by some number and add some number in order to
+complete the square. After that square roots are equated and the value
+of the unknown is obtained.}
+
+{If the third power and the fourth power of the unknown is present this
+device does not work. We have in that case, to adopt some artifice of
+our own.}
+
+{In a quadratic equation if the number in the square root of the unknown
+side be negative and smaller than the number in the square root of the
+other side, then we should assume \textit{plus} and \textit{minus} for that and get two
+values for the unknown. In some questions both values are admissible.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}'चतुराहतवर्गसमै रूपैः पक्षद्वयं गुणयेत्~। }}
+
+\textbf{{\color{purple}पूर्वाव्यक्तस्य कृतेः समरूपाणि क्षिपेत्तयोरेव' इति~॥~११६~॥} }}
+}  \end{quote}
+
+{Multiply both sides by four times the coefficient of the square of the
+unknown. Add to both sides the square of the coefficient of the
+unknown.\\
+}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+This is the device. [ It is known as Shrīdhara's method. ]
+
+\begin{quote}  {\s{
+\textbf{{\color{red}अलिकुलदलमूलं मालतीं यातमष्टौ }}
+
+\textbf{{\color{red}निखिलनवमभागाश्चालिनी भृङ्गमेकम्~। }}
+
+\textbf{{\color{red}निशि परिमललुब्धं पद्ममध्ये निरुद्धं }}
+
+\textbf{{\color{red}प्रतिरणति रणन्तं ब्रूहि कान्तेऽलिसंख्याम्~॥~११७~॥} }}
+}  \end{quote}
+
+From a cluster of black bees square root of half the number and $\frac{8}{9}$th
+of the cluster went to \textit{mālatī} flower. And due to the fragrance one bee
+was bound in the lotus at night. And the female bee kept out, is calling
+him. Find the number in the cluster.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}पार्थः कर्णवधाय मार्गणगणं कृद्धो रणे संदधे }}
+
+\textbf{{\color{red}तस्यार्धेन निवार्य तच्छरगणं मूलैश्चतुर्भिर्हयान्~। }}
+
+\textbf{{\color{red}शल्यं षड्भिरथेषुभिस्त्रिभिरपि च्छत्रं ध्वजं कार्मुकं }}
+
+\textbf{{\color{red}चिच्छेदास्य शिरः शरेण कति ते यानर्जुनः संदधे~॥~११८~॥} }}
+}  \end{quote}
+
+Arjuna in anger used some arrows to kill Karṇa. With half the number he
+repelled Karṇa's arrows. He killed his horses with arrows equal to four
+times the square root. With six he killed Shalya and with three he
+destroyed the umbrella, flag and bow. He beheaded Karṇa with one arrow.
+Find how many arrows were used by Arjuna.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}व्येकस्य गच्छस्य दलं किलादिरादेर्दलं तत्प्रचयः फलं च~। }}
+
+\textbf{{\color{purple}चयादिगच्छाभिहतिः स्वसप्तभागाधिका ब्रूहि चयादिगच्छान्~॥~११९~॥} }}
+}  \end{quote}
+
+{Subtracting 1 from the number of terms and dividing by 2 we get the first term of an A.P. Half the first term is equal to the common difference. Product of number of the terms, first term and common difference added to its seventh part gives the sum of the series. Give the common difference, first term and the number of terms.}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{red}कः खेन विहृतो राशिः कोट्या युक्तोऽथवोनितः~। }}
+
+\textbf{{\color{red}वर्गितः स्वपदेनाढ्यः खगुणो नवतिर्भवेत्~॥~१२०~॥} }}
+}  \end{quote}
+
+What is \,that \,number \,which \,when \,divided by \,zero and \,then
+increased or
+decreased by ten millions, then squared and increased by its square root
+and multiplied by zero becomes 90\,? [Commentators say this gives the
+equation $x^{2} + x =90.$]
+
+\begin{quote}  {\s{
+\textbf{{\color{red}कः स्वार्धसहितो राशिः खगुणो वर्गितो युतः~। }}
+
+\textbf{{\color{red}स्वपदाभ्यां खभक्तश्च जातः पञ्चदशोच्यताम्~॥~१२१~॥} }}
+}  \end{quote}
+
+What is that number to which its half is added, then multiplied by
+zero, squared and then united with double the square root and divided by
+zero gives 15\,?
+
+[ They say this gives $9x^2 + 12x = 60$.]
+
+\begin{quote}  {\s{
+\textbf{{\color{red}राशिर्द्वादशनिघ्नो राशिघनाढ्यश्च कः समो यस्य~। }}
+
+\textbf{{\color{red}राशिकृतिः षड्गुणिता पञ्चत्रिंशद्युता विद्वन्~॥~१२२~॥} }}
+}  \end{quote}
+
+{Solve the equation $12x + x^{3} = 6x^{2} + 35.$}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}को राशिर्द्विशतीक्षुण्णो राशिवर्गयुतो हतः~। }}
+
+\textbf{{\color{red}द्वाभ्यां तेनोनितो राशिवर्गवर्गोऽयुतं भवेत्~। }}
+
+\textbf{{\color{red}रूपोनं वद तं राशिं वेत्सि बीजक्रियां यदि~॥~१२३~॥}} }
+}  \end{quote}
+
+{Solve $x^{4} - 2 (200x + x^{2}) = 10000 -1$}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}वनान्तराले प्लवगाष्टभागः संवर्गितो वल्गति जातरागः~। }}
+
+\textbf{{\color{red}ब्रूत्कारनादप्रतिनादहृष्टा दृष्टा गिरौ द्वादश ते कियन्तः~॥~१२४~॥} }}
+}  \end{quote}
+
+{Out of a herd of monkeys in a forest, a number equal to the square root
+of $\frac{1}{8}$th of them were sportively galloping. Cheered by the reverberation
+of their sounds remaining 12 went to a hillock. How many were they\,? }
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यूथात् पञ्चांशकस्त्र्यूनो वर्गितो गह्वरं गतः~। }}
+
+\textbf{{\color{red}दृष्टः शाखामृगः शाखामारूढो वद ते कति~॥}}
+
+\textbf{{\color{red}कर्णस्य त्रिलवेनोना द्वादशाङ्गुलशंकुभा~। }}
+
+\textbf{{\color{red}चतुर्दशाङ्गुला जाता गणक ब्रूहि तां द्रुतम्~॥~१२५~॥} }}
+}  \end{quote}
+
+{There was a troupe of monkeys, out of that 
+}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent number, $\left(\dfrac{\textrm{number}}{5} - 3\right)^2$went to a cave and remaining 1 climbed a tree.
+What was the number in the troupe\,?
+
+{What is the length of the shadow of \textit{gnomon} of 12 \textit{fingers} height, if
+after subtracting from that length $\frac{1}{3}$ of the shadow hypotenuse, 14
+\textit{fingers} are left\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}चत्वारो राशयः के ते मूलदा ये द्विसंयुताः~। }}
+
+\textbf{{\color{red}द्वयोर्द्वयोर्यथासन्नघाताश्चाष्टादशान्विताः~॥}}
+
+\textbf{{\color{red}मूलदाः सर्वमूलैक्यादेकादशयुतात्पदम्~। }}
+
+\textbf{{\color{red}त्रयोदश सखे जातं बीजज्ञ वद तान्मम~॥~१२६~॥}}}
+}  \end{quote}
+
+{Four \;numbers \;are \;such \;that \;if \;2 \;is \;added \;to \;each \;they become squares.
+If we form their products by taking two numbers from consecutive pairs
+and increase them by 18, the three become squares. If we add all the 7
+square roots and add 11 we get 13 as the square root of the sum. Please
+give me those four numbers.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}राशिक्षेपाद्वधक्षेपो यद्गुणस्तत्पदोत्तरम्~। }}
+
+\textbf{{\color{purple}अव्यक्तराशयः कल्प्या वर्गिताः क्षेपवर्जिताः~॥~१२७~॥} }}
+}  \end{quote}
+
+[ In the above example 18 is called augment for product and 2 is augment for number ].
+
+Divide the augment for product by the augment for number and get the square root of the quotient. This is the common difference of some four numbers. Taking these as $y$, $y + 3$, $y + 6$ and $y + 9$, from their squares we subtract 2 and get the four unknowns.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}क्षेत्रे तिथिनखैस्तुल्ये दोःकोटी तत्र का श्रुतिः~। }}
+
+\textbf{{\color{red}उपपत्तिश्च रूढस्य गणितस्यास्य कथ्यताम्~॥~१२८~॥} }}
+}  \end{quote}
+
+To find the hypotenuse of a right angled triangle when the two sides
+are 15 and 20 is a 
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+\noindent famous theorem. Give the proof of this.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}दोःकोट्यन्तरवर्गेण द्विघ्नो घातः समन्वितः~। }}
+
+\textbf{{\color{purple}वर्गयोगसमः स स्याद्द्वयोरव्यक्तयोर्यथा~॥~१२९~॥}} }
+}  \end{quote}
+
+{\s{
+(दोः $-$ कोटी)$^{2} \,+$ २ दोः $\times$ कोटी $=$ दोः$^{2} \,+$ कोटी$^{2}$
+}}
+
+{is like the theorem for two unknowns.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}भुजात्त्र्यूनात्पदं व्येकं कोटिकर्णान्तरं सखे~। }}
+
+\textbf{{\color{red}यत्र तत्र वद क्षेत्रे दोःकोटिश्रवणान्मम~॥~१३०~॥}}}
+}  \end{quote}
+
+Find the three sides of a right angled triangle, given that
+
+hypotenuse $-$ vertical side = $\sqrt{base} -$ 3 $-$ 1.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}वर्गयोगस्य यद्राश्योर्युतिवर्गस्य चान्तरम्~। }}
+
+\textbf{{\color{purple}द्विघ्नघातसमानं स्याद्वयोरव्यक्तयोर्यथा~॥} }
+
+\textbf{{\color{purple}चतुर्गुणस्य घातस्य युतिवर्गस्य चान्तरम्~। }}
+
+\textbf{{\color{purple}राश्यन्तरकृतेस्तुल्यं द्वयोरव्यक्तयोर्यथा~॥~१३१~॥} }}
+}  \end{quote}
+
+\hspace{6mm} $( x + y )^{2} - (x^{2} +y^{2}) = 2xy$}
+
+{and $( x + y )^{2} - 4xy = (x - y)^{2}$}
+
+{These rules for two unknowns are applicable for two numbers.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}चत्वारिंशद्युतिर्येषां दोःकोटिश्रवसां वद~।}}
+
+\textbf{{\color{red}भुजकोटिवधो येषु शतं विंशतिसंयुतम्~॥~१३२~॥} }}
+}  \end{quote}
+
+{Sum of three sides of a right angled triangle is 40 and product of two
+sides which contain the right angle is 120. Please give all the three
+sides.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}योगो दोःकोटिकर्णानां षट्पञ्चाशद्वधस्तथा~। }}
+
+\textbf{{\color{red}षट्शती सप्तभिः क्षुण्णा येषां तान्मे पृथग्वद~॥~१३३~॥} }}
+}  \end{quote}
+
+{Sum of three sides of a right angled triangle is 56, product of the
+three sides is 7 $\times$ 600. Find all the three sides separately.\\
+}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{center}
+\vspace{4pt}
+\begin{Large}
+\phantomsection \label{an}
+{\s{
+\textbf{९ अनेकवर्णसमीकरणम्~। } 
+}}
+\end{Large}
+\end{center}
+\vspace{10pt}
+{Equations involving more than one unknown.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}आद्यं वर्णं शोधयेदन्यपक्षादन्यान् रूपाण्यन्यतश्चाद्यभक्ते~। }}
+
+\textbf{{\color{purple}पक्षेऽन्यस्मिन्नाद्यवर्णोन्मितिः स्याद्वर्णस्यैकस्योन्मितीनां बहुत्वे~॥}}
+
+\textbf{{\color{purple}समीकृतच्छेदगमे तु ताभ्यस्तदन्यवर्णोन्मितयः प्रसाध्याः~। }}
+
+\textbf{{\color{purple}अन्त्योन्मितौ कुट्टविधेर्गुणाप्ती ते भाज्यतद्भाजकवर्णमाने~॥} }
+
+\textbf{{\color{purple}अन्येऽपि भाज्ये यदि सन्ति वर्णास्तन्मानमिष्टं परिकल्प्य साध्ये~। }}
+
+\textbf{{\color{purple}विलोमकोत्थापनतोऽन्यवर्णमानानि भिन्नं यदि मानमेवम्~। }}
+
+\textbf{{\color{purple}भूयः कार्यः कुट्टकोऽत्रान्त्यवर्णं तेनोत्थाप्योत्थापयेद्व्यस्तमाद्यात्~॥~१३४~॥}}}}
+\end{quote}
+
+We should get all terms containing first unknown to one side and take terms containing other unknowns and absolute number to the other side. Dividing by the coefficient of the first unknown we get its value. This is called '\textit{unmiti}' (value). If we get more than one \textit{unmiti} for one unknown, by equating them we get the values of other unknowns. If in the last \textit{unmiti} we have an unknown, by \textit{kuṭṭaka} we should get the value of that unknown. The values of unknowns which multiply the dividend and the divisor in a \textit{kuṭṭaka} are the {\s{गुण}} and {\s{लब्धि}} obtained as the solution of the \textit{kuṭṭaka}. If in the last \textit{unmiti} we have more than one unknown, putting any desired values for those, the \textit{kuṭṭaka} should be solved. The values of the other unknowns can be got by substitution and inverse process. But if the values are fractional \textit{kuṭṭaka} should be solved again. By substitution and backward process we should get the values of $x$ and other unknowns.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}माणिक्यामलनीलमौक्तिकमितिः पञ्चाष्ट सप्त क्रमा- }}
+
+\textbf{{\color{red}देकस्यान्यतरस्य सप्त नव षट् तद्रत्नसंख्या सखे~।}}
+}}  \end{quote}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{red}रूपाणां नवतिर्द्विषष्टिरनयोस्तौ तुल्यवित्तौ तथा }}
+
+\textbf{{\color{red}बीजज्ञ प्रतिरत्नजानि सुमते मौल्यानि शीघ्रं वद~॥~१३५~॥} }}
+}  \end{quote}
+
+{One man has 5 rubies, 8 sapphires, 7 pearls and 90 rupees. Other man has
+7 rubies, 9 sapphires, 6 pearls and 62 rupees. They were equally rich.
+Find the price of each jewel.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}एको ब्रवीति मम देहि शतं धनेन }}
+
+\textbf{{\color{red}त्वत्तो भवामि हि सखे द्विगुणस्ततोऽन्यः~। }}
+
+\textbf{{\color{red}ब्रूते दशार्पयसि चेन्मम षड्गुणोऽहं }}
+
+\textbf{{\color{red}त्वत्तस्तयोर्वद धने मम किं प्रमाणे~॥~१३६~॥}}}
+}  \end{quote}
+
+{One man says to the other, ``Please give me Rs.\,100, then my wealth
+will be twice your wealth." The other says, ``If you will give me Rs.\,10,
+my wealth will be six times your wealth." Find each man's wealth.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}अश्वाः पञ्चगुणाङ्गमङ्गलमिता येषां चतुर्णां धना- }}
+
+\textbf{{\color{red}न्युष्ट्राश्च द्विमुनिश्रुतिक्षितिमिता अष्टद्विभूपावकाः~। }}
+
+\textbf{{\color{red}तेषामश्वतरा वृषा मुनिमहीनेत्रेन्दुसंख्याः क्रमात्}}
+
+\textbf{{\color{red}सर्वे तुल्यधनाश्च ते वद सपद्यश्वादि मौल्यानि मे~॥~१३७~॥} }}
+}  \end{quote}
+
+{There were four persons. One had 5 horses, 2 camels, 8 mules and 7
+oxen. Second had 3 horses, 7 camels, 2 mules and 1 ox. Third had 6
+horses, 4 camels, 1 mule and 2 oxen. Fourth had 8 horses, 1 camel, 3
+mules and 1 ox. All of them became equal in wealth after selling them at
+the same rate. Find the price of horse etc.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}त्रिभिः पारावताः पञ्च पञ्चभिः सप्त सारसाः~। }}
+
+\textbf{{\color{red}सप्तभिर्नव हंसाश्च नवभिर्बर्हिणस्त्रयः~॥}}
+
+\textbf{{\color{red}द्रम्मैरवाप्यते द्रम्मशतेन शतमानय~। }}
+
+\textbf{{\color{red}एषां पारावतादीनां विनोदार्थं महीपतेः~॥~१३८~॥} }}
+}  \end{quote}
+
+{For 3 \textit{drammas} one can get 5 pigeons, for 5 \textit{drammas} 7 cranes, for 7
+\textit{drammas} 9 geese and for 9 \textit{drammas} 3 peacocks. Please buy for the king
+100 }
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent pigeons etc for 100 \textit{drammas}.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}षड्भक्तः पञ्चाग्रः पञ्चविभक्तो भवेच्चतुष्काग्रः~। }}
+
+\textbf{{\color{red}चतुरुद्धृतस्त्रिकाग्रो द्व्यग्रस्त्रिसमुद्धृतः कः स्यात्~॥~१३९~॥} }}
+}  \end{quote}
+
+{What \,is \,that \,number \,which \,when \,divided \,by \,6 \,leaves \,5 \,as remainder when
+divided by 5 leaves 4, when divided by 4 leaves 3 and when divided by 3
+leaves 2 as remainder\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}स्युः पञ्चसप्तनवभिः क्षुण्णेषु हृतेषु केषु विंशत्या~। }}
+
+\textbf{{\color{red}रूपोत्तराणि शेषाण्यवाप्तयश्चापि शेषसमाः~॥~१४०~॥} }}
+}  \end{quote}
+
+{Find three numbers such that when they are multiplied respectively by
+5, 7, 9 and then divided by 20 the quotients will differ by 1 and the
+remainders are equal to the quotients. }
+
+\begin{quote}  {\s{
+\textbf{{\color{red}एकाग्रो द्विहृतः कः स्याद्द्विकाग्रस्त्रिसमुद्धृतः~। }}
+
+\textbf{{\color{red}त्रिकाग्रः पञ्चभिर्भक्तस्तद्वदेव हि लब्धयः~॥~१४१~॥} }}
+}  \end{quote}
+
+{A number divided by 2 leaves 1 as remainder divided by 3 leaves 2 and
+divided by 5 leaves 3 as remainder. The three quotients when divided by
+2, 3, 5 respectively leave remainders 1, 2, 3. Which is that number\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}कौ राशी वद पञ्चषट्कविहृतावेकद्विकाग्रौ ययो- }}
+
+\textbf{{\color{red}र्द्व्यग्रं त्र्युद्धृतमन्तरं नवहृता पञ्चाग्रका स्याद्युतिः~। }}
+
+\textbf{{\color{red}घातः सप्तहृतः षडग्र इति तौ षट्काष्टकाभ्यां विना }}
+
+\textbf{{\color{red}विद्वन् कुट्टकवेदिकुञ्जरघटासंघट्टसिंहोऽसि चेत्~॥~१४२~॥} }}
+}  \end{quote}
+
+There are two numbers. When they are divided by 5 and 6 respectively
+they leave 1 and 2 as remainders. By dividing the difference of the
+numbers by 3 we get 2 as the remainder. When the sum of the numbers is
+divided by 9 we get 5 as the remainder; when the product of the numbers
+is divided by 7 we get 6 as the remainder. What are those numbers other
+than 6 and 8\,?
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{red}नवभिः सप्तभिः क्षुण्णः को राशिस्त्रिंशता हृतः~। }}
+
+\textbf{{\color{red}यदग्रैक्यं फलैक्याढ्यं भवेत्षड्विंशतेर्मितम्~॥~१४३~॥} }}
+}  \end{quote}
+
+{What is that number which multiplied by 9 and 7 separately and divided
+by 30 give such quotients and remainders that the sum of these four is
+26\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}कस्त्रिसप्तनवक्षुण्णो राशिस्त्रिंशद्विभाजितः~। }}
+
+\textbf{{\color{red}यदग्रैक्यमपि त्रिंशद्धृतमेकादशाग्रकम्~॥~१४४~॥} }}
+}  \end{quote}
+
+{What is that number which multiplied by 3, 7 and 9 separately and
+divided by 30 give such remainders that the sum of the three remainders
+on being divided by 30 leave 11 as the remainder\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}कस्त्रयोविंशतिक्षुण्णः षष्ट्याशीत्या हृतः पृथक्~।}}
+
+\textbf{{\color{red}यदग्रैक्यं शतं दृष्टं कुट्टकज्ञ वदाशु तम्~॥~१४५~॥} }}
+}  \end{quote}
+
+{What is that number which multiplied by 23 divided by 60 and 80
+separately give remainders whose sum is 100\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}अत्राधिकस्य वर्णस्य भाज्यस्थस्येप्सिता मितिः~। }}
+
+\textbf{{\color{purple}भागलब्धस्य नो कल्प्या क्रिया व्यभिचरेत्तथा~॥~१४६~॥} }}
+}  \end{quote}
+
+{The \,variable \,multiplying \,dividend \,and \,that \,multiplying \,the divisor in a \textit{kuṭṭaka} is known as \textit{guṇa} and \textit{labdhi}. These $x$ and $y$ are expressed in terms of additional variable say $t$. This $t$ cannot be given values at random. }
+
+\begin{quote}  {\s{
+\textbf{{\color{red}कः पञ्चगुणितो राशिस्त्रयोदशविभाजितः~। }}
+
+\textbf{{\color{red}यल्लब्धं राशिना युक्तं त्रिंशज्जातं वदाशु तम्~॥~१४७~॥}}}
+}  \end{quote}
+
+{Find a number such that when it is multiplied by 5 and then divided by
+13, the quotient added to the number gives 30 as the sum.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}षडष्टशतकाः क्रीत्वा समार्घेन फलानि ये~। }}
+
+\textbf{{\color{red}विक्रीय च पुनः शेषमेकैकं पञ्चभिः पणैः~॥} }
+
+\textbf{{\color{red}जाताः समपणास्तेषां कः क्रयो विक्रयश्च कः~॥~१४८~॥}}}
+}  \end{quote}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+There were three fruiterers. They had with them 6, 8 and 100 \textit{paṇas}.
+With these they bought fruit at the same rate. They sold some, all at
+one rate. Remaining they sold at the rate of 5 \textit{paṇas} for one. After the transaction the three
+had equal \textit{paṇas}. Find the rate of purchase and the rate of selling.
+
+\vspace{20pt}
+\begin{center}
+\begin{Large}
+\phantomsection \label{aneka}
+{\s{
+\textbf{१० अनेकवर्णसमीकरणान्तर्गतं मध्यमाहरणम्~। } 
+}}
+\end{Large}
+\end{center}
+\vspace{5pt}
+
+{Device for solving equations with more than one unknown.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}'वर्गाद्यं चेत्तुल्यशुद्धौ कृतायां पक्षस्यैकस्योक्तवद्वर्गमूलम्'~। }}
+
+\textbf{{\color{purple}वर्गप्रकृत्या परपक्षमूलं तयोः समीकारविधिः पुनश्च~। }}
+
+\textbf{{\color{purple}वर्गप्रकृत्या विषयो न चेत्स्यात्तदान्यवर्णस्य कृतेः समं तम्~। }}
+
+\textbf{{\color{purple}कृत्वापरं पक्षमथान्यमानं कृतिप्रकृत्याद्यमितिस्तथा च~। }}
+
+\textbf{{\color{purple}वर्गप्रकृत्या विषयो यथास्यात्तथा सुधीभिर्बहुधा विचिन्त्यम्~॥~१४९~॥} }}
+}  \end{quote}
+
+{If the equation contains the square of the unknown, by the device given
+before we can find the square root of one side. The square root of the
+other side can be found by the method of stanza 70. And then we should
+equate the two sides. If the other side does not come under that method,
+it can be assumed equal to $z^{2}$ and then we can get proper value to
+make it a perfect square. In short if the second side does not yield to {\s{वर्गप्रकृति}} method one should think over as to how that can be done.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}बीजं मतिर्विविधवर्णसहायिनी हि मन्दावबोधविधये विबुधैर्निजाद्यैः~। }}
+
+\textbf{{\color{purple}विस्तारिता गणकतामरसांशुमद्भिर्या सैव बीजगणिताह्वयतामुपेता~॥~१५०~॥} }}}  \end{quote}
+
+{Our predecessors, intelligent mathematicians have spread the thought
+that different letters of alphabet are useful and this they have done
+in}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent order that common man should acquire knowledge. That thought got the name \textit{Bījagaṇita}.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}एकस्य पक्षस्य पदे गृहीते द्वितीयपक्षे यदि रूपयुक्तः~। }}
+
+\textbf{{\color{purple}अव्यक्तवर्गोऽत्र कृतिप्रकृत्या साध्ये तदा ज्येष्ठकनिष्ठमूले~॥} }
+
+\textbf{{\color{purple}ज्येष्ठं तयोः प्रथमपक्षपदेन तुल्यं कृत्वोक्तवत्प्रथमवर्णमितिः प्रसाध्या~। }}
+\vspace{-4mm}
+
+\textbf{{\color{purple}ह्रस्वं भवेत्प्रकृतिवर्णमितिः सुधीभिरेवं कृतिप्रकृतिरत्र नियोजनीया~॥~१५१~॥}}}
+}  \end{quote}
+
+{If it is possible to have the square root of one side and the other
+side has an absolute term and the square of an unknown, by the method of
+{\s{वर्गप्रकृति}} we should have {\s{ज्येष्ठ}} and {\s{कनिष्ठ}} (stanza 70). Equating the
+square root of the first side with {\s{ज्येष्ठ}} we can get the value of $x.$
+And the {\s{ह्रस्व}} should be taken as the value of the coefficient of {\s{प्रकृति}}. This is how stanza 70 can be used.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}को राशिर्द्विगुणो राशिवर्गैः षड्भिः समन्वितः~। }}
+
+\textbf{{\color{red}मूलदो जायते बीजगीणतज्ञ वदाशु तम्~॥~१५२~॥} }}
+}  \end{quote}
+
+{What is that number whose double added to six times its square is an
+exact square\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}राशियोगकृतिर्मिश्रा राश्योर्योगघनेन च~। }}
+
+\textbf{{\color{red}द्विघ्नस्य घनयोगस्य सा तुल्या गणकोच्यताम्~॥~१५३~॥} }}
+}  \end{quote}
+
+{Two numbers are such that the square of their sum added to the cube of
+their sum is equal to twice the sum of their cubes. Give those two
+numbers.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}द्वितीयपक्षे सति संभवे तु कृत्यापवर्त्यात्र पदे प्रसाध्ये~। }}
+
+\textbf{{\color{purple}ज्येष्ठं कनिष्ठेन तथा निहन्याच्चेद्वर्गवर्गेण कृतोऽपवर्तः~॥}}
+
+\textbf{{\color{purple}कनिष्ठवर्गेण तदा निहन्याज्ज्येष्ठं ततः पूर्ववदेव शेषम्~॥~१५४~॥} }}
+}  \end{quote}
+
+If it is possible to find the square root of the second side, we may
+divide by the square of $x$. By {\s{वर्गप्रकृति}} we can get {\s{ज्येष्ठ}} and {\s{कनिष्ठ.}}
+Product of these two can be called new {\s{ज्येष्ठ}}. If we divide by $x^{4}$
+and then get {\s{ज्येष्ठ, कनिष्ठ}} we may assume the product of 
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent {\s{ज्येष्ठ}} with
+the square of {\s{कनिष्ठ}} as new {\s{ज्येष्ठ.}} The process should be
+completed as before.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यस्य वर्गकृतिः पञ्चगुणा वर्गशतोनिता~। }}
+
+\textbf{{\color{red}मूलदा जायते राशिं गणितज्ञ वदाशु तम्~॥~१५५~॥} }}
+}  \end{quote}
+
+Find the value of $x$ from $5x^{4} - 100x^{2} = y^{2}$.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}कयोः स्यादन्तरे वर्गो वर्गयोगो ययोर्घनः~। }}
+
+\textbf{{\color{red}तौ राशी कथयाभिन्नौ बहुधा बीजवित्तम~॥~१५६~॥}} }
+}  \end{quote}
+
+$x - y$ is a perfect square and $x^{3} + y^{3}$ is a cube. Please give
+several integral values of $(x, y)$.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}साव्यक्तरूपो यदि वर्णवर्गस्तदान्यवर्णस्य कृतेः समं तम्~। }}
+
+\textbf{{\color{purple}कृत्वा पदं तस्य तदन्यपक्षे वर्गप्रकृत्योक्तवदेव मूले~॥}}
+
+\textbf{{\color{purple}कनिष्ठमाद्येन पदेन तुल्यं ज्येष्ठं द्वितीयेन समं विदध्यात्~॥~१५७~॥}}}
+}  \end{quote}
+
+{If it is possible to find the square root of one side and the second
+side contains unknown, that side may be assumed to be square of some
+unknown. The square root of the first side should be found and the
+square root of the other side should be found by the process of
+{\s{वर्गप्रकृति}}. That will be {\s{ज्येष्ठ मूल}}, the {\s{कनिष्ठ मूल}} may be equated
+with the square root first found. From this we can get the value of $x$,
+after getting the value of second unknown.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}त्रिकादिद्व्युत्तरश्रेढ्यां गच्छे क्वापि च यत्फलम्~। }}
+
+\textbf{{\color{red}तदेव त्रिगुणं कस्मिन्नन्यगच्छे भवेद्वद~॥~१५८~॥} }}
+}  \end{quote}
+
+{The first term of an $A. P.$ is 3 and the common difference is 2. Three
+times the sum of $x$ terms is equal to the sum of $y$ terms. Find $(x, y)$.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}सरूपके वर्णकृती तु यत्र तत्रेच्छयैकां प्रकृतिं प्रकल्प्य~। }}
+
+\textbf{{\color{purple}शेषं ततः क्षेपकमुक्तवच्च मूले विदध्यादसकृत्समत्वे~॥~१५९~॥} }}
+}  \end{quote}
+
+Where on the other side we have squares of two unknowns and arithmetical \,number, \,we \,should \,regard \,the \,co-efficient \,of \,one unknown as {\s{प्रकृति}} and the rest as augment and get the roots by the
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent process of {\s{वर्गप्रकृति}}. After that two sides should be equated.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}तौ राशी वद यत्कृत्योः सप्ताष्टगुणयोर्युतिः~। }}
+
+\textbf{{\color{red}मूलदा स्याद्वियोगस्तु मूलदो रूपसंयुतः~॥~१६०~॥} }}
+}  \end{quote}
+
+{Find two numbers such that when they are separately multiplied by 7 and
+8 and then the products are added we get a perfect square; and when 1 is
+added to the difference of the products, it is a perfect square.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}घनवर्गयुतिवर्गो ययो राश्योः प्रजायते~। }}
+
+\textbf{{\color{red}समासोऽपि ययोर्वर्गस्तौ राशी शीघ्रमानय~॥~१६१~॥} }}
+}  \end{quote}
+
+{Find two numbers such that the cube of one added to the square of the
+other gives a perfect square; and the sum of the two also gives a square
+number.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}सभाविते वर्णकृती तु यत्र तन्मूलमादाय तु शेषकस्य~। }}
+
+\textbf{{\color{purple}इष्टोद्धृतस्येष्टविवर्जितस्य दलेन तुल्यं हि तदेव कार्यम्~॥~१६२~॥} }}
+}  \end{quote}
+
+{If in the other side of an equation there are squares of two unknowns
+with their product, we should extract a square root and the remainder
+may be divided by a desired number and then decreased by that number.
+After the difference is halved it may be equated with the square root.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}ययोर्वर्गयुतिर्घातयुता मूलप्रदा भवेत्~। }}
+
+\textbf{{\color{red}तन्मूलगुणितो योगः सरूपश्चाशु तौ वद~॥~१६३~॥} }}
+}  \end{quote}
+
+{Find two numbers such that the sum of their squares added to their
+product is a square number; and the square root multiplied by the sum of
+the numbers increased by 1 is perfect square.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यत्स्यात्साल्पवधार्धतो घनपदं यद्वर्गयोगात्पदं }}
+
+\textbf{{\color{red}ये योगान्तरयोर्द्विकाभ्यधिकयोर्वर्गान्तरात्साष्टकात्~।}}
+}}  \end{quote}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यच्चैतत्पदपञ्चकं च मिलितं स्याद्वर्गमूलप्रदं }}
+
+\textbf{{\color{red}तौ राशी कथयाशु निश्चलमते षट्काष्टकाभ्यां विना~॥~१६४~॥} }}
+}  \end{quote}
+
+{We have two different numbers. To their product we add the smaller
+number and find the cube root of half the sum. We find the square root
+of the sum of their squares. We find the square root of their sum
+increased by 2. Then we find the square root of the difference of the
+squares of those numbers increased by 8. It is observed that the sum of these 5 roots is a perfect square. Find the two numbers other than 6 and 8.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}एवं सहस्रधा गूढा मूढानां कल्पना यतः~। }}
+
+\textbf{{\color{purple}क्रियया कल्पनोपायस्तदर्थमथ कथ्यते~॥~१६५~॥}}}}  \end{quote}
+
+In this way we can form an idea in several ways. But for common man
+that is difficult. Therefore, the device to the thought is being given here.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}सरूपमव्यक्तमरूपकं वा वियोगमूलं प्रथमं प्रकल्प्यम्~। }}
+
+\textbf{{\color{purple}योगान्तरक्षेपकभाजिताद्यद्वर्गान्तरक्षेपकतः पदं स्यात्~॥}}
+
+\textbf{{\color{purple}तेनाधिकं तत्तु वियोगमूलं स्याद्योगमूलं तु तयोस्तु वर्गौ~। }}
+
+\textbf{{\color{purple}स्वक्षेपकोनौ हि वियोगयोगौ स्यातां ततः संक्रमणेन राशी~॥~१६६~॥} }}
+}  \end{quote}
+
+First of all we can think of a new unknown with a number or without a number as the square root of the difference of two unknowns increased by an augment ({\s{कल्पित वियोगमूल}}). After that we divide the augment corresponding to the difference of squares of the \,given \,unknowns \,by \,the \,augment \,of \,difference \,of \,these unknowns and find the square root of the quotient. When that root is added to the root of {\s{वियोगमूल}} as assumed before we get the {\s{योगमूल}}. After that the {\s{योगमूल}} and {\s{वियोगमूल}} are squared
+and from them the respective augments are
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent subtracted and we get {\s{योग}} and {\s{वियोग}} respectively. After that by {\s{संक्रमण}}
+we can get the unknowns.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}राश्योर्योगवियोगकौ त्रिसहितौ वर्गौ भवेतां तयो- }}
+
+\textbf{{\color{red}र्वर्गैक्यं चतुरूनितं रवियुतं वर्गान्तरं स्यात् कृतिः~। }}
+
+\textbf{{\color{red}साल्पं घातदलं घनः पदयुतिस्तेषां द्वियुक्ता कृति- }}
+
+\textbf{{\color{red}स्तौ राशी वद कोमलामलमते षट् सप्त हित्वा परौ~॥~१६७~॥} }}
+}  \end{quote}
+
+{There \,are \,two \,numbers \,such \,that \,their \,sum \,or \,difference increased \,by 3 \,are \,perfect \,squares. The \,sum of \,their \,squares decreased by 4 is a
+square. The difference of their squares increased by 12 is a square. If
+half their product is increased by the smaller number we get a cube.
+Again the sum of the 5 roots increased by 2 is a square. Tell me the two
+numbers other than 6 and 7.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}राश्योर्ययोः कृतिवियुती चैकेन संयुतौ वर्गौ~। }}
+
+\textbf{{\color{red}रहिते वा तौ राशी गणयित्वा कथय यदि वेत्सि~॥~१६८~॥} }}
+}  \end{quote}
+
+{Please give me two numbers such that when (1) We add 1 to the sum of
+their squares and to the difference of the squares the results in each
+case is a square number. (2) We subtract 1 from the sum of their squares
+and from the difference of their squares the result is a square number.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}यत्राव्यक्तं सरूपं हि तत्र तन्मानमानयेत्~। }}
+
+\textbf{{\color{purple}सरूपस्यान्यवर्णस्य कृत्वा कृत्यादिना समम्~॥} }
+
+\textbf{{\color{purple}राशिं तेन समुत्थाप्य कुर्यात्भूयोऽपरां क्रियाम्~। }}
+
+\textbf{{\color{purple}सरूपेणान्यवर्णेन कृत्वा पूर्वपदं समम्~॥~१६९~॥} }}
+}  \end{quote}
+
+If on one side there is unknown added to a number and the other side is
+the square of an expression, we can assume that as the square of a third
+unknown. Squaring and doing any process we should find the value of the
+unknown. Substituting that value we should do another process. Giving a
+numerical value to the third unknown,
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\noindent from the original equation we may get the value of $x$.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यस्त्रिपञ्चगुणो राशिः पृथक् सैकः कृतिर्भवेत्~। }}
+
+\textbf{{\color{red}वद तं बीजमध्येऽसि मध्यमाहरणे पटुः~॥~१७०~॥} }}
+}  \end{quote}
+
+{Find the number which multiplied by 3 and 5 separately and increased by
+1 is a square.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}को राशिस्त्रिभिरभ्यस्तः सरूपो जायते घनः~। }}
+
+\textbf{{\color{red}घनमूलं कृतीभूतं त्र्यभ्यस्तं कृतिरेकयुक्~॥~१७१~॥} }}
+}  \end{quote}
+
+{What is that number which multiplied by 3 and increased by 1 is a cube
+and thrice the square of the cube root increased by 1 is a square\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}वर्गान्तरं कयो राश्योः पृथग्द्वित्रिगुणं त्रियुक्~। }}
+
+\textbf{{\color{red}वर्गौ स्यातां वद क्षिप्रं षट्कपञ्चकयोरिव~॥~१७२~॥} }}
+}  \end{quote}
+
+{Find two numbers such that when the difference of their squares is
+separately multiplied by 2 and 3 and increased by 3, we get square
+numbers. The numbers required are like 6 and 5 but diffe-rent from them.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}क्वचिदादेः क्वचिन्मध्यात्क्वचिदन्त्यात्क्रिया बुधैः~। }}
+
+\textbf{{\color{purple}आरभ्यते यथा लघ्वी निर्वहेच्च यथा तथा~॥~१७३~॥} }}
+}  \end{quote}
+
+{Some times we should start from beginning, sometimes from the middle
+and sometimes from the end. The process leading to the solution should
+be short.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}वर्गादेर्यो हरस्तेन गुणितं यदि जायते~। }}
+
+\textbf{{\color{purple}अव्यक्तं तत्र तन्मानमभिन्नं स्याद्यथा तथा~। }}
+
+\textbf{{\color{purple}कल्प्योऽन्यवर्णवर्गादिस्तुल्यं शेषं यथोक्तवत्~॥~१७४~॥}} }
+}  \end{quote}
+
+{When \,we \,multiply \,by \,the \,coefficient \,of \,the \,square \,we \,should assume
+square of some unknown and the remaining process should be as given
+before so that the value of $x$ will be integral.\\
+}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{red}को वर्गश्चतुरूनः सन्सप्तभक्तो विशुध्यति~। }}
+
+\textbf{{\color{red}त्रिंशदूनोऽथवा कस्तं यदि वेत्सि वद द्रुतं~॥~१७५~॥} }}
+}  \end{quote}
+
+(1) Find a square which when decreased by 4 will be a multiple of 7.
+(2) Find a square from which when 30 is subtracted it will be divisible
+by 7 without a remainder.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}हरभक्ता यस्य कृतिः शुध्यति सोऽपि द्विरूपपदगुणितः~। }}
+
+\textbf{{\color{purple}तेनाहतोऽन्यवर्णो रुपपदेनान्वितः कल्प्यः~॥~१७६~॥} }
+
+\textbf{{\color{purple}न यदि पदं रूपाणां क्षिपेद्धरं तेषु हारतष्टेषु~। }}
+
+\textbf{{\color{purple}तावद्यावद्वर्गो भवति न चेदेवमपि खिलं तर्हि~॥~१७७~॥} }
+
+\textbf{{\color{purple}हत्वा क्षिप्त्वा च पदं यत्राद्यस्येह भवति तत्रापि~। }}
+
+\textbf{{\color{purple}आलापित एव हरो रूपाणि तु शोधनानि सिद्धानि~॥~१७८~॥} }}
+}  \end{quote}
+
+[ We are discussing square \textit{kuṭṭaka} like $x^{3} = by + c.$ ] If $c$ is a perfect square, we assume $y = bz^{2} + 2\sqrt{c}.z$ and derive $x = bz + \sqrt{c}$. Obviously $b^{2}$ is divisible by $b$ and $2b\sqrt{c}$ is also divisible by $b$.
+
+If $c$ is not a perfect square we should divide $c$ by $b$ and get the
+remainder. To this remainder we should add some multiple of $b$ to make it
+a perfect square. If this is not possible then the example is improper.
+
+Where by multiplying adding etc. we are able to find the square root of
+the first side we should take $b$ as given, the remainder should be
+decided by the process.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}षड्भिरूनो घनः कस्य पञ्चभक्तो विशुध्यति~। }}
+
+\textbf{{\color{red}तं वदास्ति तवालं चेदभ्यासो घनकुट्टके~॥~१७९~॥} }}
+}  \end{quote}
+
+${x}^{3} - 6$ is divisible by 5 without a remainder. If you know how to
+solve a cubic \textit{kuṭṭaka}, find the value of $x$.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यद्वर्गः पञ्चभिः क्षुण्णस्त्रियुक्तः षोडशोद्धृतः~। }}
+
+\textbf{{\color{red}शुद्धिमेति समाचक्ष्व दक्षोऽसि गणिते यदि~॥~१८०~॥}}}
+}  \end{quote}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+{Find $x$ where $5x^3 + 3$ is divisible by 16 without any remainder.}
+
+\vspace{10pt}
+\begin{center}
+\begin{Large}
+\phantomsection \label{bha}
+{\s{
+\textbf{११ भावितम्~। } 
+}}
+\end{Large}
+\end{center}
+
+{Equations involving product of unknowns.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}मुक्त्वेष्टवर्णं सुधिया परेषां कल्प्यानि मानानि यथेप्सितानि~। }}
+
+\textbf{{\color{purple}तथा भवेद्भावितभङ्ग एवं स्यादाद्यबीजक्रिययेष्टसिद्धिः~॥~१८१~॥} }}
+}  \end{quote}
+
+{Leaving one desired unknown we should take values for other unknowns
+according to our choice. The product being thus dest-royed we shall get
+the value of $x$ by the process of algebra.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}चतुस्त्रिगुणयो राश्योः संयुतिर्द्वियुता तयोः~। }}
+
+\textbf{{\color{red}राशिघातेन तुल्या स्यात् तौ राशी वेत्सि चेद्वद~॥~१८२~॥} }}
+}  \end{quote}
+
+{Solve for $(x, y)$ : $4x + 3y +2 =xy$.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}चत्वारो राशयः के ते यद्योगो नखसंगुणः~। }}
+
+\textbf{{\color{red}सर्वराशिहतेस्तुल्यो भावितज्ञ निगद्यताम्~॥~१८३~॥} }}
+}  \end{quote}
+
+{Solve: 20 $(x + y + z + t)$ = $x\,y\,z\,t$}.
+
+\begin{quote}  {\s{
+\textbf{{\color{red}यौ राशी किल या च निहतिर्यौ राशिवर्गौ तथा }}
+
+\textbf{{\color{red}तेषामैक्यपदं सराशियुगुलं जातं त्रयोविंशतिः~। }}
+
+\textbf{{\color{red}पञ्चाशत् त्रियुताथवा वद कियत्तद्राशियुग्मं पृथक् }}
+
+\textbf{{\color{red}कृत्वाभिन्नमवेहि वत्स गणकः कस्त्वत्समोऽस्ति क्षितौ~॥~१८४~॥} }}
+}  \end{quote}
+
+{Give solutions in integers:}
+\vspace{2mm}
+
+\quad{(1) $\sqrt{x + y + xy + x^{2} + y^{2}} + x + y = 23$}
+\vspace{2mm}
+
+\quad{(2) $\sqrt{x + y + xy + x^{2} + y^{2}} + x + y = 53$}
+\vspace{1mm}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}भावितं पक्षतोऽभीष्टात्त्यक्त्वा वर्णौ सरूपकौ }}
+
+\textbf{{\color{purple}अन्यतो भाविताङ्केन ततः पक्षौ विभज्य च~॥}}
+
+\textbf{{\color{purple}वर्णाङ्काहतिरूपैक्यं भक्त्वेष्टेनेष्टतत्फले~। }}
+
+\textbf{{\color{purple}एताभ्यां संयुतावूनौ कर्तव्यौ स्वेच्छया च तौ~। }}
+
+\textbf{{\color{purple}वर्णाङ्कौ वर्णयोर्माने ज्ञातव्ये ते विपर्ययात्~॥~१८५~॥}}}
+
+}  \end{quote}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+{Getting the product $xy$ on one side, we shall have ~$ax + by + c$ on the other
+side. And we should divide both sides by the coefficient of the product
+if any. In the product of $a$ and $b$ we add $c$. The sum should be divided by
+any number. To this number and the quotient we should add and subtract
+$a, b$ separately. In this way we get a set of values ($x, y$).}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}द्विगुणेन कयो राश्योर्घातेन सदृशं भवेत्~। }}
+
+\textbf{{\color{red}दशेन्द्राहतराशैक्यं द्व्यूनषष्टिविवर्जितम्~॥~१८६~॥} }}
+}  \end{quote}
+
+{Solve $2xy$ = $10x +14y -58$.}
+
+\begin{quote}  {\s{
+\textbf{{\color{red}त्रिपञ्चगुणराशिभ्यां युक्तो राश्योर्वधः कयोः~। }}
+
+\textbf{{\color{red}द्विषष्टिप्रमितो जातस्तौ राशी वेत्सि चेद्वद~॥~१८७~॥}}}
+}  \end{quote}
+
+{Solve $3x+5y+xy$ = $62$.}
+
+\begin{center}
+    \textbf{\Huge . . .}
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\large
+\begin{center}
+\begin{Large}
+\phantomsection \label{gra}
+{\s{
+\textbf{ग्रंथसमाप्तिः~।}\\
+}}
+\end{Large}
+\vspace{2mm}
+
+\textbf{EPILOGUE}
+\end{center}
+\vspace{10pt}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}आसीन्महेश्वर इति प्रथितः पृथिव्या- }}
+
+\textbf{{\color{purple}माचार्यवर्यपदवीं विदुषां प्रयातः~। }}
+
+\textbf{{\color{purple}लब्ध्वावबोधकलिकां तत एव चक्रे }}
+
+\textbf{{\color{purple}तज्जेन बीजगणितं लघुभास्करेण~॥~१~॥} }
+}}  \end{quote}
+
+There was a renowned professor Maheshwara by name. He held the highest
+honour in the academic field. His son Bhāskara who got the spark of
+knowledge from his father, is said to have compiled this concise
+\textit{Bījagaṇita.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}ब्रह्माह्वयश्रीधरपद्मनाभबीजानि यस्मादतिविस्तृतानि~। }}
+
+\textbf{{\color{purple}आदाय तत्सारमकारि नूनं सद्युक्तियुक्तं लघु शिष्यतुष्ट्यै~॥~२~॥} }}
+}  \end{quote}
+
+{Before him were books on \textit{Bījagaṇita} by Brahmagupta, Shrī-dhara
+and Padmanābha. They are stupendous. So for the satisfaction of pupils, by
+taking good points from those, this concise book has been compiled
+containing some nice devices. }
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}अत्रानुष्टुप्सहस्रं हि ससूत्रोद्देशके मितिः~॥~३~॥} }}
+}  \end{quote}
+
+{Here \;are \;one \;thousand \;of \;\textit{anushtup} \;measure. They \;include formulas and
+examples.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}क्वचित्सूत्रार्थविषयं व्याप्तिं दर्शयितुं क्वचित्~। }}
+
+\textbf{{\color{purple}क्वचिच्च कल्पनाभेदं क्वचिद्युक्तिमुदाहृतम्~॥ }}
+
+\textbf{{\color{purple}क्वचित्सूत्रार्थविषयं दर्शयितुमुदाहृतम्~॥~४~॥} }}
+}  \end{quote}
+
+{Here and there we find subject and scope of the formula; sometimes we get
+variety in thought and often devices.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}न हि उदाहरणान्तोऽस्ति स्तोकमुक्तमिदं यतः~॥~५~॥} }}
+}  \end{quote}
+
+{Examples have no end, hence this is given in few words.}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}दुस्तरः स्तोकबुद्धीनां शास्त्रविस्तारवारिधिः~। }}
+
+\textbf{{\color{purple}अथवा शास्त्रविस्तृत्या किं कार्यं सुधियामपि~॥~६~॥} }}
+}  \end{quote}
+
+{The expanse in science is like the vast ocean and difficult to cross
+for ordinary intellect. On the other hand what is the nece-ssity of
+details for an intelligent person\,?}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}उपदेशलवं शास्त्रं कुरुते धीमतो यतः~। }}
+
+\textbf{{\color{purple}तत्तु प्राप्यैव विस्तारं स्वयमेवोपगच्छति~॥~७~॥}}}}
+\end{quote}
+
+{Whatever particle an intelligent man receives from his teacher, that
+well received knowledge spreads itself extensively.}
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}जले तैलं खले गुह्यं पात्रे दानं मनागपि~। }}
+
+\textbf{{\color{purple}प्राज्ञे शास्त्रं स्वयं याति विस्तारं वस्तुशक्तितः~॥~८~॥} }}
+}  \end{quote}
+
+A drop of oil put in water, a secret deposited in the ears of a villain
+or a gift bestowed on a deserving person spreads. In like manner
+knowledge spreads in an intelligent mind by the force of its merits.
+
+\begin{quote}  {\s{
+\textbf{{\color{purple}गणक भणिति रम्यं बाललीलावगम्यं }}
+
+\textbf{{\color{purple}सकलगणितसारं सोपपत्तिप्रकारं~।}}
+
+\textbf{{\color{purple}इति बहुगुणयुक्तं सर्वदोषैर्विमुक्तं }}
+
+\textbf{{\color{purple}पठ पठ मतिवृद्ध्यै लघ्विदं प्रौढसिद्ध्यै~॥~९~॥} }}
+}  \end{quote}
+
+Oh pupil of mathematics, this is pleasing, easy for beginners. It is
+the essence of all mathematics and deals with basic laws. It has many
+merits and is free from faults. I say, read this small book to sharpen
+your intellect and you are sure to rise.
+
+\begin{center}
+    \textbf{\Huge . . .}
+\end{center}
+\vspace{10pt}
+
+Thus ends Bhāskara's \textit{Bījagaṇita} and its version in English.
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+\phantomsection \label{app}
+\begin{center}
+\textbf{Appendix}\\
+\vspace{2mm}
+
+Some words denoting numbers\\
+\end{center}
+
+\normalsize
+{\s{
+\begin{tabular}{lr|lr}
+     & Page & & Page \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 1 एक, इन्दु, क्षिति, मही, रूप
+ & 13 & 40 
+ चत्वारिंशत् 
+ & 17 \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2 
+ 	द्वि, नेत्र
+  & 12 & 47 
+ = 50 $-$ 3 त्र्यूनं शतार्धं 
+ & 28\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+3 
+ 	त्रि, पावक, हुताशन
+  & 17 & 50 
+  पञ्चाशत् 
+ & 26 \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+4 
+ 	चतुर्, श्रुति
+  & 23 & 52 
+ द्विपञ्चाशत् 
+ & 26\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+5 
+ 	पञ्च
+  & 12 & 53 
+ 	 = 50 $+$ 3 पञ्चाशत् त्रियुत 
+  & 50\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+6 
+ 	षट्, ऋतु
+  & 12 & 56 
+  षट्-पञ्चाशत् 
+ & 37\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+7 
+ 	सप्त
+  & 14 & 58 
+  = 60 $-$ 2 द्व्यूनषष्टि 
+ & 51\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+8 
+ 	अष्ट, गज, नाग
+  & 17 & 60 
+ षष्टि 
+ & 21\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+9
+ 	नव 
+  & 9 & 61 
+ 	 एकषष्टि 
+  & 24\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+10 
+  दश 
+ & 17 & 62 
+ द्विषष्टि 
+ & 51\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+11 
+एकादश, रुद्र
+ & 17 & 63 
+ त्रिषष्टि 
+ & 22\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+12 
+द्वादश, अर्क, रवि, सूर्य 
+ & 14 & 65 
+ पञ्चषष्टि 
+ & 20\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+13 
+त्रयोदश, विश्व 
+ & 17 & 67 
+ सप्तषष्टि 
+ & 24\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+14 
+चतुर्दश 
+ & 22 & 70 
+ सप्तति 
+ & 25\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+15 
+पञ्चदश, तिथि 
+ & 17 & 75 
+ पञ्चसप्तति 
+ & 25\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+16 
+षोडश, नृप 
+ & 49 & 80 
+ अशीति 
+ & 17\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+17 
+सप्तदश 
+ & 17 & 90 
+ नवति 
+ & 20\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+18
+अष्टादश 
+ & 15 & 100 
+ शत 
+ & 20\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+19
+एकोनविंशति
+ &  & 
+195 = 200 $-$ 5 पञ्चवर्जितशतद्वय 
+ & 20\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+20 
+विंशति, नख
+ & 37, 50 & 
+200 द्विशती 
+ & 35\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+21 
+एकविंशति 
+ & 26 & 221
+ एकविंशतियुतं शतद्वयं 
+ & 20 \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+23 
+त्रयोविंशति 
+ & 41 & 300
+ त्रिशती 
+ & 25\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+24 
+सिद्ध 
+ & 17 & 600  षट्शती 
+ & 37 \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+26 
+	षड्विंशति 
+ & 41 & 10000 
+अयुत 
+ & 35 \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+27 
+ भ 
+ & 14 & Twice 
+द्विगुण, द्विघ्न,
+ & \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+30 
+	त्रिंशत् 
+ & 41 & Thrice 
+त्रिगुण 
+ & 13\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+32
+	द्वात्रिंशत्, दन्त, द्वित्रि 
+ & 17 & Twenty Times 
+नखसंगुण
+ & \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+33
+	त्रयस्त्रिंशत् 
+ & 26 & Half 
+दल 
+ & 34\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+35
+	पञ्चत्रिंशत् 
+ & 35 &  0
+शून्य, ख, वियत्
+ & 9\\
+  
+\end{tabular}
+}}
+
+\begin{center}
+    \textbf{\Huge . . .}
+\end{center}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+\phantomsection \label{glo}
+\begin{center}
+\textbf{Glossary of Technical Terms}\\
+\end{center}
+\vspace{4mm}
+
+\small
+{\s{
+\begin{tabular}{lr|lr}
+	&Page&&Page\\
+अग्र, अग्रक excess, remainder & 20& आप्ति quotient & 20\\
+
+अङ्क coefficient &50&आहत multiplied &33\\
+
+अधनात्मक minus, negative & 9 & इष्ट, ईप्सित desired &20\\
+
+अधर lower अधस् below & 18 & उत्तर common difference &44\\
+
+अधिमास intercalary month &21&उत्थापन substitution &38\\
+
+अधोधः lower and lower & 18 & उद्दिष्ट example & 17\\
+
+अनन्त endless अन्त end & 10& उन्मिति value &38\\
+
+अन्तर difference & 7& उद्धृत divided &20\\
+
+अपवर्त abrader &18 &उपलक्षण designation, mark & 8\\
+
+अपवर्तन taking away &19&उपान्तिम penultimate &18\\
+
+अपवर्त्य fit to be divided &17&ऊन minus ऊनित decreased &35\\
+
+अभिन्न integer &50&ऊनगत, ऋण, ऋणात्मिका negative &8\\
+
+अभिरूपेत && ऐक्यपद square root of sum &50\\
+
+अभिहत multiplied&& कर a measure of length&\\ 
+अभिहति product,&&\quad equal to two वितस्ति & 31\\
+
+\quad multiplication &34 & करणी surd, number under\\
+अभीप्सित, अभीष्ट desired &&\quad root sign &13\\
+
+\quad wished&21& कर्ण hypotenuse &31\\
+
+अभ्यस्त multiplied&&कला minute of arc &21\\
+अभ्यास multiplication &22&काकिणी a coin in use &30\\
+
+अवम omitted &21&कुट्ट, कुट्टक pulveriser & 17\\
+
+अवमाग्रक residue of अवम &21&कृति square &9\\
+
+अवलम्बक height, perpendicular &31&कोटि crore, The vertical side&\\
+अवशिष्ट, अवशेष remainder &21&\quad of a right angled&\\
+अव्यक्त unknown, algebra & 7 &\quad triangle &37\\
+
+अंश degree & &सय, क्षयग, क्षयात्मिका negative &20\\
+
+असमजाति unlike &11&क्षिप् to add &33\\
+
+अस्व negative, minus & 8 &क्षुण्ण multiplied& 35\\
+
+आढ्य increased &13 &क्षेप, क्षेपक augment& 22\\
+	
+आदि first term & 34 & खण्ड, खण्डक part & \hspace{-5mm} 11, 15, 29\\
+\end{tabular}
+}}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\normalsize
+{\s{
+\begin{tabular}{lr|lr}
+&Page&& Page\\
+
+खण्डगुणन multiplication by&& धन, धनात्मक positive& 9\\
+\quad distribution &11 &धात्री base of a triangle &31\\
+खहर, खहार with zero divisor & 10& निघ्न multiplied by & 21\\
+गच्छ number of terms &34& निरग्र, निरग्रक without&\\
+गणित mathematics,&&\quad remainder& 21\\
+\quad arithmetic& 11& निरेक decreased by one &13\\
+गुण, गुणक, गुणकार multiplier& 18 &निहति product& 50\\
+गुणनजफल product& 13& निहत्य after multiplying &33\\
+गुण्य multiplicand & 13& पक्ष side पक्षद्वय both sides &33\\
+घन cube &&पञ्चांशक one fifth &35\\
+घनपद घनमूल cube root&11 &पद square root, root&\\
+घात product& 31 &पदप्रद perfect square &33\\
+चक्रवाल circle, cyclic &23 &प्रकृति coefficient of $x^{2}$&22\\
+चतुर्गुण, चतुराहत four times &33& प्रच्युत, प्रोज्झ्य subtracted& 12\\
+चय common difference& 34& फल area, interest, quotient,&\\
+च्छिन्न divided च्युत removed& 17& \quad result of calculation& 18\\
+छेद denominator, divisor & 12 &बीज basis, origin& 7\\
+ज्येष्ठ, ज्येष्ठमूल second&& बीजक्रिया process of algebra &50\\
+\quad variable &22& बीजगणित algebra &42\\
+तक्षण cutting,& 18& भक्त divided &49\\
+तष्ट divided तुल्य equal &18, 50& भागहार division, divisor &8\\
+त्र्यस्र right angled triangle &31& भाजक divisor &19\\
+त्र्यून decreased by three&35& भाज्य dividend &12\\
+दुष्ट defective, improper,& & भावना generator &22\\
+\quad wrong& 17& भावित product of dissimilar&\\
+दृढ firm, \textit{puccā} &18& \quad unknowns &11\\
+दृढ भाज्य dividend in its &18& भावितज्ञ expert in solving&\\
+\quad lowest terms&& \quad \textit{bhāvita} &50\\
+दृढहार divisor in its lowest&&भिन्न fraction &8\\
+\quad terms &18& भुज see दोः & 37\\
+दोः arm, horizontal side in&& भू base& 30\\
+\quad a right angled triangle & 37& महती sum of two numbers&\\
+द्रम्म a coin in use &30& under radical sign &13\\
+द्विविध of two kinds&& &
+\end{tabular}
+}}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\normalsize
+
+{\s{
+\begin{tabular}{lr|lr}
+&Page&&Page\\
+
+मध्यमाहरण a device to  &&विभिन्न जाति dissimilar, unlike &10\\
+\quad remove middle term &&वियोग, विवर difference &\\
+\quad in a quadratic & 33& \quad subtraction &23\\
+
+मान value &38&वियोगमूल square root of the& \\
+
+मूल square root &9&difference of two unknowns  &\\
+
+युक्त accompanied &49&\quad increased by an  & \\
+
+युगुल, युग्म pair &11, 32&\quad augment&46\\
+
+युत united &50&विलोम reverse process &38\\
+
+युति, योग addition, sum &7&विवर्जित decreased, left &20\\
+
+रहित decreased &47&विशोध्य fit for subtraction &18\\
+
+राशि quantity &51&विश्लेषसूत्र rule to analyze &14\\
+
+रूप number, one &13&विषम odd &18\\
+
+लघु twice the product of & &विहृत divided &15\\
+
+\quad two surds; small & 13 & व्यक्त, व्यक्तगणित arithmetic &7\\
+
+लघुघ्नम् multiplied by \textit{laghu} & 13 &व्यस्त opposite &8\\
+
+लब्धि quotient &19&शंकु gnomon &35\\
+
+लम्ब, लम्बक perpendicular &31&शेष, शेषक remainder, residue &18\\
+
+वज्र diamond &29&शुध्यति divided without a &\\
+
+वज्राभ्यास cross product &22&\quad remainder &20\\
+
+वध multiplication, product& 11&शोध्य see विशोध्य &18\\
+
+वर्ग square &11&श्रुति hypotenuse &36\\
+
+वर्गांतर difference of squares&&सकलान्तर amount &29\\
+
+वर्जित subtracted &19&संकलन addition &8\\
+
+वर्ण algebraic number &10&संक्रमण addition, subtraction&\\
+
+विकला second of arc &21&\quad and division by two &46\\
+
+विकलावशेष residue of \textit{vikalā} &21&सम even, similar &18\\
+
+वितस्ति a measure for length &&समजातिक, समानजाति like &11\\
+\quad equal to half \textit{kar}, twelve &&समास, संयुति sum &45\\
+\quad \textit{angulas} &32&सहस्रधा in several ways &46\\
+
+विनिघ्न multiplied &&सहित increased&\\ 
+
+विपर्यय not definite &50&सांख्य relating to number &7\\
+
+विपर्यास change of sign& 9&सूत्र rule &14\\
+
+विभज्य after dividing &50&सैक increased by one &13\\
+
+\end{tabular}
+}}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\normalsize
+
+{\s{
+\begin{tabular}{lr|lr}
+&Page&&Page\\
+संशोध्य after subtraction &8&हत multiplied, product& 51\\
+
+संशोध्यमान that which is to be &&हर, हार divisor &9\\
+\quad subtracted &8&हस्त a measure nearly &\\
+
+स्फुट कुट्टक &21&\quad eighteen inches, see कर &32\\
+
+स्व positive, own &8&हृत divided &20\\
+
+स्वतक्षण own divisor &18&हृस्व first root &22\\
+
+हंस goose swan &39&&\\
+\end{tabular}
+}}
+
+\begin{center}
+    \textbf{\Huge . . .}
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\large
+\begin{center}
+   \textbf{ERRATA}
+\end{center}
+
+\normalsize
+\vspace{10pt}
+{\s{
+\begin{tabular}{cccr|cccr}
+page& line &for& read & page& line &for& read \\
+
+10 &15& ड& ड्&31& 2& कं &क्यं\\
+
+11 &10& यु& व्य&34 &1 &shv& shr\\
+
+14 & 14 &म& मू&&4&भृं &भृ\\
+
+&24& ष्ट& ष्टु&39& 10& व &र्व\\
+
+15& 2 &क्ष &क्षु&43 &29 &x& x.\\
+
+19 &30& f& t&46 &7 &sum &sum or \\
+
+20 & 9& ब\ldots{}.णाप्ती &बहुधा गुणाप्ती &&&&difference\\
+
+22 &12 &-हस्वं& ह्रस्वं; at all&&27& nugment & augment\\
+ &&&other places &50& 17 &च &च राशि\\
+ &&&also &54& 3 &Pag 7 &Page\\
+
+29 &19& म& मू&56 &30& दो; &दोः\\
+
+30 &24& भृ& भु &&&&\\
+\end{tabular}
+}}
+
+\begin{center}
+    \textbf{\Huge . . .}
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\begin{center}
+    
+
+\textbf{\Large Bhaskarachraya's Bijaganita}
+\vspace{4mm}
+
+\textbf{\Large and }
+\vspace{4mm}
+
+\textbf{\Large its Marathi Translation}
+
+\vspace{10pt}
+\begin{figure}[h!]
+    \centering
+    \includegraphics{Capture1}
+\end{figure}
+\vspace{10pt}
+
+\textbf{\Large by Prof. S. K. Abhyankar}
+
+\vspace{60pt}
+\textbf{\textit{\large Available at}}
+\vspace{30pt}
+
+\textbf{\Large BHASKARACHARYA PRATISHTHANA}
+\vspace{2mm}
+
+\textbf{\large 106/6, Erandavane,}
+\vspace{2mm}
+
+\textbf{\large Pune 411004}
+\vspace{2mm}
+
+\textbf{\large INDIA}
+
+\vspace{30pt}
+\begin{figure}[h!]
+    \centering
+    \includegraphics{Capture1}
+\end{figure}
+\vspace{20pt}
+
+\textbf{\large Price : Rs. 5.}
+\end{center}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\large
+\begin{center}
+\textbf{\Large Shree Sharada Sahakari Bank Ltd.}\\
+\vspace{10pt}
+\textbf{\Large Pune-Satara Road, Pune 411009}\\
+\vspace{10pt}
+\begin{multicols}{2}
+\textbf{\large Regd. on 9-2-1978}\\ \textbf{\large Telephone No. 470947}
+\end{multicols}
+\end{center}
+
+\vspace{12pt}
+The only popular bank in the Co-operative banking field in Pune.
+(INDIA)
+
+\vspace{8pt}
+The only Bank which is blessed by all in a short period. The only Bank
+ready to help all the people from all the sectors to improve economic
+conditions.
+
+\vspace{20pt}
+\begin{center}
+\begin{tabular}{lcl}
+\vspace{2mm}
+
+Working Capital &\ldots. \ldots.& above 60 lacs.\\
+\vspace{2mm}
+
+Members &\ldots. \ldots.& above 2,000.\\
+\vspace{2mm}
+
+Deposits &\ldots. \ldots.& above 54 lacs.\\
+\vspace{2mm}
+
+Depositors &\ldots. \ldots.& above 3,500\\
+\vspace{2mm}
+
+Advances &\ldots. \ldots.& above 38 lacs.\\
+\end{tabular}
+\vspace{20pt}
+
+
+VARIOUS ATTRACTIVE DEPOSIT SCHEMES
+
+\vspace{20pt}
+Deposit with us and rely on us for timely monetary help.
+\end{center}
+
+\end{document}
