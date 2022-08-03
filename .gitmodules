@@ -192,3 +192,6 @@
 	path = vedaH/sAma/vishvAsa.github.io/content
 	url = https://github.com/vishvAsa/vedAH_sAma.git
 	branch = content
+[submodule "mixed/ambuda-gretil"]
+	path = mixed/ambuda-gretil
+	url = https://github.com/ambuda-project/gretil.git
