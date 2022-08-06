@@ -13,6 +13,10 @@ A repository containing important raw texts (some non-proofread). Processed (eg:
 - Initialize submodules if needed: `git submodule update --init --recursive --depth 1`
 - Update submodules if needed: `git submodule foreach "(git checkout master; git pull --depth 1)&"`
 
+### Generating a catalog
+- On linux: `./make_catalog.sh`
+
+
 ## Contribution
 - Fork this repo and send pull requests.
 - Raise issues.
@@ -27,6 +31,3 @@ Allowed formats in the order of decreasing preference: md (possibly with frontma
 - When they are being proofread, they will be renamed: xyz_proofreading_.md or txt.
 - When fully proofread, they will be: xyz.md or xyz.txt
 
-## Generating a catalog
-- On linux: `./make_catalog.sh`
-- Replace `\n[\d.]+(.txt|.md)?\n` with ``.
