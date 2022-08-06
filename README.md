@@ -27,3 +27,6 @@ Allowed formats in the order of decreasing preference: md (possibly with frontma
 - When they are being proofread, they will be renamed: xyz_proofreading_.md or txt.
 - When fully proofread, they will be: xyz.md or xyz.txt
 
+## Generating a catalog
+- On linux: `./make_catalog.sh`
+- Replace `\n[\d.]+(.txt|.md)?\n` with ``.
