@@ -195,3 +195,6 @@
 [submodule "mixed/ambuda-gretil"]
 	path = mixed/ambuda-gretil
 	url = https://github.com/ambuda-project/gretil.git
+[submodule "vyAkaraNam/ashtadhyayi-com-data-edit"]
+	path = vyAkaraNam/ashtadhyayi-com-data-edit
+	url = https://github.com/ashtadhyayi-com/data-edit.git
