@@ -130,7 +130,7 @@ neva māṃse na pīvasi
 neva kasmiṃś canāyatam |  
 ava jarāyu padyatām ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -268,7 +268,7 @@ yadi gāṃ yadi pūruṣam |
 sīsena vidhyāmas tvā  
 yathā no 'so avīrahā ||  
 
-anuvāka 2 ||
+
 
 ### 011
 
@@ -408,7 +408,7 @@ kaśyapasya gayasya ca |
 antaḥkośam iva jāmayo  
 api nahyāmi te bhagam ||  
 
-anuvāka 3 ||
+
 
 ### 016
 
@@ -540,7 +540,7 @@ yo na indrābhidāsati |
 devās taṃ sarve dhūrvantu  
 brahma varma mamāntaram ||  
 
-anuvāka 4 ||
+
 
 ### 021
 
@@ -677,7 +677,7 @@ yā agniṃ garbhaṃ dadhire suvarṇāḥ
 ghṛtaścutaḥ śucayo yāḥ pāvakās  
 tā na āpaḥ śaṃ syonā bhavantu ||  
 
-anuvāka 5 ||
+
 
 ### 026
 
@@ -828,7 +828,7 @@ kāmo dātā kāmaḥ pratigrahītā
 kāmaḥ samudram ā viveśa |  
 kāmena tvā prati gṛhṇāmi kāmaitat te ||  
 
-anuvāka 6 ||
+
 
 ### 031
 
@@ -931,7 +931,7 @@ somāya vasuvide svāhā ||
 pūṣṇe jñātivide svāhā ||  
 indrāya sahīyase svāhā ||  
 
-anuvāka 7 ||
+
 
 ### 036
 
@@ -1072,7 +1072,7 @@ mamaiva puruṣā bhuvan
 mamedaṃ sarvam ātmanvad  
 ejat prāṇad vaśe mama ||  
 
-anuvāka 8 ||
+
 
 ### 041
 
@@ -1203,7 +1203,7 @@ yatoyataḥ surabhe saṃbabhūvitha |
 sa no mā hiṃsīr namo astu tubhyaṃ  
 śīrṣaktyā yakṣmād iha pārayā naḥ || +++(Bhatt. -yasmād)+++  
 
-anuvāka 9 ||
+
 
 ### 046
 
@@ -1347,7 +1347,7 @@ sa u tvehā nayāt punaḥ |
 mano hi brahmāṇo vidur  
 viśvakarmā manīṣiṇaḥ ||  
 
-anuvāka 10 ||
+
 
 ### 051
 
@@ -1485,7 +1485,7 @@ jaghanaṃ madhuman mama |
 mām it kila tvaṃ vāvanaḥ  
 śākhāṃ madhumatīm iva ||  
 
-anuvāka 11 ||
+
 
 ### 056
 
@@ -1609,7 +1609,7 @@ na tavehāpi kiṃ cana |
 māṃ caiva paśyann āyaty  
 amuṃ ca divi sūryam ||  
 
-anuvāka 12 ||
+
 
 ### 061
 
@@ -1749,7 +1749,7 @@ anyānyasyā upāvata |
 sadhrīcīḥ savratā bhūtvā  
 asyāvata vīryam || +++(see Griffiths 2004, 59)+++  
 
-anuvāka 13 ||
+
 
 ### 066
 
@@ -1890,7 +1890,7 @@ parauparāv ārpito aṅgeaṅge |
 vi te cṛtyantāṃ vicṛto hi santi  
 bhrūṇaghni pūṣan duritāni mṛṣṭā || +++(Bhatt. muṣṭāḥ)+++  
 
-anuvāka 14 ||
+
 
 ### 071
 
@@ -2023,7 +2023,7 @@ ghane vṛtrāṇāṃ saṃgathe vasūnām |
 ihaivaidhi grāmapatir janāṣāḍ  
 viśvair devair gupito rakṣamāṇaḥ ||  
 
-anuvāka 15 ||
+
 
 ### 076
 
@@ -2159,7 +2159,7 @@ vātaḥ prāṇaḥ sūryaś cakṣur divas payaḥ |
 suparṇas tvābhy ava paśyād āyuṣe varcase  
 'yam annasyānnapatir astu vīraḥ ||  
 
-anuvāka 16 ||
+
 
 ### 081
 
@@ -2310,7 +2310,7 @@ marudyutāya kṛṇmasi |
 imāṃ hy asmā oṣadhim +++(Bhatt. imā)+++  
 ā harāmy arundhatīm ||  
 
-anuvāka 17 ||
+
 
 ### 086
 
@@ -2461,7 +2461,7 @@ parā yakṣmaṃ suvāmasi ||
 parā te ajñātaṃ yakṣmam  
 adharāñcaṃ suvāmasi ||  
 
-anuvāka 18 ||
+
 
 ### 091
 
@@ -2593,7 +2593,7 @@ tapase vā mahase vāvasṛṣṭā |
 somas tvām asmad yāvayatu vidvān  
 avantu naḥ pitaro devahūtiṣu ||  
 
-anuvāka 19 ||
+
 
 ### 096
 
@@ -2729,7 +2729,7 @@ mātaraṃ pratinandati |
 evāsmān prati nandatu  
 yāṃ vayaṃ kāmayāmahe ||  
 
-anuvāka 20 ||
+
 
 ### 101
 
@@ -2899,7 +2899,7 @@ iṣam ūrjaṃ na ābhṛtya-
 sarasvati tvam asmāsu  
 rāyaspoṣaṃ ni yaccha ||  
 
-anuvāka 21 ||
+
 
 ### 107
 
@@ -3078,7 +3078,7 @@ rayiṃ dhārayataṃ mayi ||
 tasmin yo badhyate bandhe  
 sa me astv anyakṣakaḥ ||  
 
-anuvāka 22 ||
+
 
 ## 2
 
@@ -3260,7 +3260,7 @@ tāṃs te vṛścāmi brahmaṇā |
 yamasya gaccha sādanam  
 agnidūto araṃkṛtaḥ ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -3422,7 +3422,7 @@ adhi jīvapurā agāt |
 śataṃ ca yasya vīrudhaḥ  
 sahasram uta bheṣajā ||  
 
-anuvāka 2 ||
+
 
 ### 011
 
@@ -3583,7 +3583,7 @@ ya oṣadhīṣu paśuṣv apsv antaḥ |
 ye asmākaṃ tanvaṃ sthāma cakrira  
 indras tān hantu mahatā vadhena ||  
 
-anuvāka 3 ||
+
 
 ### 016
 
@@ -3742,7 +3742,7 @@ amṛtasyeva vā asi |
 arundhati tvaṃ sarvam  
 abhi jīvam adhā idam ||  
 
-anuvāka 4 ||
+
 
 ### 021
 
@@ -3928,7 +3928,7 @@ vāhāśvā niṣaṅgiṇaḥ |
 jayanto 'bhi pretāmitrān  
 sākam indreṇa medinā ||  
 
-anuvāka 5 ||
+
 
 ### 026
 
@@ -4088,7 +4088,7 @@ sajātaśaṃsād uta jāmiśaṃsāt |
 anādiṣṭam anyakṛtaṃ yad enas  
 tvaṃ nas tasmāj jātavedo mumugdhi ||  
 
-anuvāka 6 ||
+
 
 ### 031
 
@@ -4259,7 +4259,7 @@ mahyaṃ devī sarasvatī |
 mahyaṃ tvā madhyaṃ bhūmyā  
 ubhāv antau sam asyatām ||  
 
-anuvāka 7 ||
+
 
 ### 036
 
@@ -4431,7 +4431,7 @@ ayaṃ vatsa ṛtāvarīḥ |
 ihettham eta śakvarīr  
 yatremam̐ veśayāmasi ||  
 
-anuvāka 8 ||
+
 
 ### 041
 
@@ -4516,7 +4516,7 @@ tejo 'si tejo mayi dhehi svāhā ||
 saho 'si saho mayi dhehi svāhā ||  
 balam asi balaṃ mayi dhehi svāhā ||  
 
-anuvāka 9 ||
+
 
 ### 046
 
@@ -4619,7 +4619,7 @@ bṛhaspatiṃ vayaṃ trātāraṃ havāmahe
 ya imaṃ trāyātā asmād yakṣmād asmād āmayataḥ |  
 juṣāṇo bṛhaspatir ājyasya trātā trāyatāṃ svāhā ||  
 
-anuvāka 10 ||
+
 
 ### 051
 
@@ -4750,7 +4750,7 @@ samityā ululākṛtāḥ |
 aśvatthamitraṃ puruṣaṃ  
 ye vācā pṛtanyān ||  
 
-anuvāka 11 ||
+
 
 ### 056
 
@@ -4962,7 +4962,7 @@ devāḥ sadhasthā vida lokam etam |
 iṣṭāpūrtam anu saṃ krāma vidvān  
 yatra te dattaṃ bahudhā vibandhuṣu ||  
 
-anuvāka 12 ||
+
 
 ### 061
 
@@ -5128,7 +5128,7 @@ tasmā u tvaṃ haviṣā bhāgadhā asaḥ |
 śataṃ hemantān damayā sapatnān  
 viśas tvā sarvā anu guṅgavo bhavantu ||  
 
-anuvāka 13 ||
+
 
 ### 066
 
@@ -5261,7 +5261,7 @@ pātu no duritād avadyāt ||
 yuyuta parṇinaṃ śaram  
 utāparṇaṃ riśādasaḥ ||  
 
-anuvāka 14 ||
+
 
 ### 071
 
@@ -5429,7 +5429,7 @@ tā mānavartayo 'navartiṃ kṛṇvantu ||
 devā anavartayas te 'mṛtenānavartayaḥ |  
 te mānavartayo 'navartiṃ kṛṇvantu ||  
 
-anuvāka 15 ||
+
 
 ### 076
 
@@ -5590,7 +5590,7 @@ agnir vātaḥ pavamāno bhiṣajyatu |
 grāhyāḥ pāśān nirṛtyāḥ pāśān mṛtyoḥ pāśād  
 vāk tvā devī punar dadātu ||  
 
-anuvāka 16 ||
+
 
 ### 081
 
@@ -5716,7 +5716,7 @@ brahmaṇaspater u śatam |
 martāt pāśān no vi ṣya  
 śatāt pāśebhyo vayaṃ tvām ||  
 
-anuvāka 17 ||
+
 
 ### 086
 
@@ -5906,7 +5906,7 @@ yasya stha tam atta
 yo vaḥ prāhait tam atta  
 svā māṃsāny atta ||  
 
-anuvāka 18 ||
+
 
 ## 3
 
@@ -6130,7 +6130,7 @@ asmān abhy aity ojasā spardhamānā |
 tāṃ guhata tamasāpavratena  
 yathaiṣām anyo anyaṃ na jānāt ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -6334,7 +6334,7 @@ bhāme bhūn māmakaṃ jagat |
 yo no dveṣṭi taṃ gaccha  
 yaṃ dviṣmas taṃ jahi ||  
 
-anuvāka 2 ||
+
 
 ### 011
 
@@ -6563,7 +6563,7 @@ ubhāvantau sam agrabham |
 divaś ca pṛthivyāś ca  
 viṣadūṣaṇam ud bhare ||  
 
-anuvāka 3 ||
+
 
 ### 016
 paidvo 'si pṛtanāyuḥ svāhā ||  
@@ -6740,7 +6740,7 @@ rayiṃ no dhehi subhage suvīram ||
 ā tvā pariśrutaḥ kumbha  
 ā dadhnaḥ kalaśy ayat ||  
 
-anuvāka 4 ||
+
 
 ### 021
 
@@ -6992,7 +6992,7 @@ vratena yena gaus tena vaiśvadevaḥ |
 yo asmān dveṣṭi yaṃ vayaṃ dviṣmas  
 tasya prāṇān saṃ bṛhat tasya prāṇān vi vṛha ||  
 
-anuvāka 5 ||
+
 
 ### 026
 
@@ -7183,7 +7183,7 @@ navāratnīn avamāya-
 duṣvapnyaṃ sarvaṃ durbhūtaṃ +++(Bhatt. duḥṣvapnyaṃ)+++  
 dviṣate nir diśāmasi ||  
 
-anuvāka 6 ||
+
 
 ### 031
 
@@ -7418,7 +7418,7 @@ abhayaṃ jñātād abhayaṃ puro naḥ |
 abhayaṃ naktam abhayaṃ divā naḥ  
 sarvā āśā mama mitraṃ bhavantu ||  
 
-anuvāka 7 ||
+
 
 ### 036
 
@@ -7657,7 +7657,7 @@ asthād viśvam idaṃ jagat |
 asthād avahṛdevāt  
 tiṣṭhāt kāmo ayaṃ tava ||  
 
-anuvāka 8 ||
+
 
 ## 4
 
@@ -7930,7 +7930,7 @@ vi te śvayantu nāḍyaḥ | +++(Bhatt. ghnā yantu)+++
 atandro aśvapā iva  
 nāva glāyo 'dhi muṣkayoḥ ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -8168,7 +8168,7 @@ yad vā sūyavase tṛṇe |
 abhyañjanasya yad varcas  
 tena mānajmi varcasā ||  
 
-anuvāka 2 ||
+
 
 ### 011
 
@@ -8398,7 +8398,7 @@ saṃ te dhātā dadhātu tanvo viriṣṭam |
 rathaḥ sucakraḥ supavir yathaiti  
 sukhaḥ sunābhiḥ prati tiṣṭha evam ||  
 
-anuvāka 3 ||
+
 
 ### 016
 
@@ -8627,7 +8627,7 @@ anyāḥ parājighāṃsan |
 mām anu pra te manaś  
 chāyā yantam ivānv ayat || +++(Bhatt. yantum)+++  
 
-anuvāka 4 ||
+
 
 ### 021
 
@@ -8866,7 +8866,7 @@ taṃ te badhnāmy āyuṣe varcasa
 ojase ca balāya ca  
 kārśanas tvābhi rakṣatu ||  
 
-anuvāka 5 ||
+
 
 ### 026
 
@@ -9073,7 +9073,7 @@ sarvābhyo digbhya īśānena rājñādhyakṣeṇa |
 yaśā bhūyāsaṃ yaśasaṃ mā kṛṇuta  
 cārum annādaṃ parā dviṣantaṃ śṛṇīta ||  
 
-anuvāka 6 ||
+
 
 ### 031
 
@@ -9296,7 +9296,7 @@ mārutaṃ śardhaḥ pṛtanāsūgram |
 staumi maruto nāthito johavīmi  
 te no muñcantv aṃhasaḥ ||  
 
-anuvāka 7 ||
+
 
 ### 036
 
@@ -9519,7 +9519,7 @@ sarvasya vidvān adhvaryuḥ
 vāto vatsebhyaḥ kaśyapaḥ  
 śivaḥ śivaṃ tapatu sūryaḥ ||  
 
-anuvāka 8 ||
+
 
 ## 5
 
@@ -9794,7 +9794,7 @@ samā vaśā sā saṃvatsaraṃ garbhaṃ dadhe
 semaṃ pāhi tasyai te vidheyaṃ  
 tasyai te namas tasmai te svāhā ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -10109,7 +10109,7 @@ mādayābhi mādaya-
 -ahir ivainān pra ropaya-  
 -anyo 'nyasya moc chiṣan ||  
 
-anuvāka 2 ||
+
 
 ### 011
 
@@ -10375,7 +10375,7 @@ krimayaḥ kikṛśāś ca ye |
 teṣāṃ śirāṃsy asinā chinadmy  
 athāsāṃ vatsān āyuṣā medasā saṃ sṛjāmi ||  
 
-anuvāka 3 ||
+
 
 ### 016
 
@@ -10637,7 +10637,7 @@ mūlam ākhur dhiyeṣitaḥ |
 atho vṛkṣasya phalgu yad  
 ghuṇā adantu mā yavam ||  
 
-anuvāka 4 ||
+
 
 ### 021
 
@@ -10899,7 +10899,7 @@ sahasreṇābhi rakṣa mā |
 indras te vīrudhāṃ pata  
 ugra ojmānam ā dadhau ||  
 
-anuvāka 5 ||
+
 
 ### 026
 
@@ -11173,7 +11173,7 @@ hastābhyām ā rabhāmahe |
 yathāsad bahudhānyam  
 ayakṣmaṃ bahupūruṣam ||  
 
-anuvāka 6 ||
+
 
 ### 031
 
@@ -11484,7 +11484,7 @@ sapta saṃnamo
 sakāmān adhvanaḥ kṛṇu  
 saṃjñānam astu vo dhane ||  
 
-anuvāka 7 ||
+
 
 ### 036
 
@@ -11747,7 +11747,7 @@ akṣitaṃ vyacyamānaṃ salilasya pṛṣṭhe |
 ūrjaṃ duhānam anapasphurantam  
 upāsīya sukṛtāṃ yatra lokaḥ ||  
 
-anuvāka 8 ||
+
 
 ## 6
 
@@ -12058,7 +12058,7 @@ na bibhīto na riṣyataḥ |
 evā me prāṇa mā bibher  
 evā me 'pāna mā riṣaḥ ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -12352,7 +12352,7 @@ puṃsāṃ vrātena saha puṣṭyā gauḥ |
 ūrjaṃ dadhānā ghṛtam id duhānā  
 sahasrapoṣāya me astu dātre ||  
 
-anuvāka 2 ||
+
 
 ### 011
 brahma jajñānam ity ekā ||  
@@ -12729,7 +12729,7 @@ stutā dadhatu no rayim (…) ||
 gṛṇanti vipra te dhiyaḥ |  
 marudbhir agna ā gahi ||  
 
-anuvāka 3 ||
+
 
 ### 018
 
@@ -13085,7 +13085,7 @@ yathā mṛtāś ca jīvāś ca-
 evemau dampatī stām  
 asmiṃl loke vyokasau ||  
 
-anuvāka 4 ||
+
 
 ## 7
 
@@ -13430,7 +13430,7 @@ dviṣatas tapano maṇiḥ |
 śatruñjayaḥ sapatnahā  
 dviṣantam apa bādhatām ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -13749,7 +13749,7 @@ sadandir yaś ca hāyanaḥ |
 takmānaṃ viśvadhāvīrya-  
 -adharāñcaṃ parā suva ||  
 
-anuvāka 2 ||
+
 
 ### 011
 
@@ -14051,7 +14051,7 @@ yajñasya paprir amṛtā svargā |
 ā na etu dakṣiṇā viśvarūpā-  
 -ahiṃsantīṃ prati gṛhṇīma enām ||  
 
-anuvāka 3 ||
+
 
 ### 016
 
@@ -14288,7 +14288,7 @@ vātāya śatruhaṇe svāhā ||
 mātariśvane śatruhaṇe svāhā ||  
 pavamānāya śatruhaṇe svāhā ||  
 
-anuvāka 4 ||
+
 
 ## 8
 
@@ -14605,7 +14605,7 @@ daśa ca me śataṃ ca
 ṛtajāta ṛtāvari  
 madhu tvā madhulā karat ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -14971,7 +14971,7 @@ patiṃ devo bṛhaspatiḥ |
 patiṃ ta indraś cāgniś ca  
 patiṃ dhātā dadhātu te ||  
 
-anuvāka 2 ||
+
 
 ### 011
 
@@ -15334,7 +15334,7 @@ brāhmaṇasyānnasīcchann avāyati |
 ubhe enaṃ dyāvāpṛthivī saṃ tapatām  
 athaitv agatasya panthām ||  
 
-anuvāka 3 ||
+
 
 ### 016
 
@@ -15663,7 +15663,7 @@ taṃ vy ubjāmi brahmaṇā
 tasya me dattam aśvinā  
 dattaṃ me puṣkarasrajā ||  
 
-anuvāka 4 ||
+
 
 ## 9
 
@@ -16030,7 +16030,7 @@ nābhyā āsīd antarikṣaṃ +++(Bhatt. nābhyāṃ)+++
 padbhyāṃ bhūmir diśaḥ śrotrāṅ  
 tathā lokām̐ akalpayan ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -16450,7 +16450,7 @@ tām u puṣkara ā dadhuḥ |
 asyāḥ pṛthivyā devyāś cakṣur  
 ākāśyam asi viṣadūṣaṇam ||  
 
-anuvāka 2 ||
+
 
 ### 012
 
@@ -16973,7 +16973,7 @@ pāṅktaṃ chandaḥ prajāpatiṃ saṃvatsaram |
 tad āpnoti cāva ca rundhe  
 dvādaśyā rātryā dvādaśyā samidhā ||  
 
-anuvāka 3 ||
+
 
 ### 021
 
@@ -17588,7 +17588,7 @@ dūra-ājānaṃ svarayanto arciṣā | +++(Bhatt. svādhyandura ājānaṃ)+++
 yathā na svapāt katamac canāhar  
 aiva gacchān mamādhyā ||  
 
-anuvāka 4 ||
+
 
 ## 10
 
@@ -17943,7 +17943,7 @@ vīro vīrāya badhyate |
 sa naḥ sanīṃ madhumatīṃ kṛṇotu  
 rayiṃ ca naḥ sarvavīraṃ ni yacchāt ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -18552,7 +18552,7 @@ ta imāṃ senāṃ rakṣantu |
 anuṣṭhātāro anu tiṣṭhata  
 sarve vīrā bhavantu me ||  
 
-anuvāka 2 ||
+
 
 ## 11
 
@@ -19506,7 +19506,7 @@ yo vā etāsām apāṃ himavantam ūdhaḥ somaṃ vatsaṃ parameṣṭhinam a
 parameṣṭhī bhavati gacchati parameṣṭhitām  
 adhipatir bhavati svānāṃ cānyeṣāṃ ca ya evaṃ veda ||  
 
-anuvāka 1 ||
+
 
 ## 12
 
@@ -20087,7 +20087,7 @@ pāṇḍam ulbaṃ nābhir uṣṇīṣam asyāḥ |
 ā jarasaṃ dhayatu mātaraṃ vaśī  
 brahmabhiḥ kl̥ptaḥ sa hy asya bandhuḥ ||  
 
-anuvāka 1 ||
+
 
 ### 012
 
@@ -20728,7 +20728,7 @@ parjanyo vidyutā saha |
 tato hiraṇyayo bindus  
 tato darbho ajāyata ||  
 
-anuvāka 2 ||
+
 
 ## 13
 
@@ -20927,7 +20927,7 @@ solbo vy adhūnuta |
 krandenāśvasya vājino  
 'hanyantāhayaḥ pṛthak ||  
 
-anuvāka 1 ||
+
 
 ### 005
 
@@ -21136,7 +21136,7 @@ prajāpatiḥ sasṛje kapāle vijihīthāṃ mā mā saṃ tāptaṃ mahānta�
 so 'jāyata tasya jātasya dyāvāpṛthivī pārśve āstāṃ samudrau kukṣī sūryācandramāsāv akṣī virāṭ śiraḥ |  
 tasmāj jātāt sarve pāpmāno vijante sarve asmāt pāpmāno vijante ya evaṃ veda ||  
 
-anuvāka 2 ||
+
 
 ## 14
 
@@ -21658,7 +21658,7 @@ sarvān rātry anāgasaḥ |
 uṣā no ahna ā bhajād  
 ahas tubhyaṃ vibhāvari ||  
 
-anuvāka 3 ||
+
 
 ## 15
 
@@ -21896,7 +21896,7 @@ prāṇāyāpānāyāyuṣe |
 varcasa ojase tejase  
 svastaye subhūtaye svāhā ||  
 
-anuvāka 1 ||
+
 
 ### 005
 
@@ -22136,7 +22136,7 @@ trir ekādaśā viśve vaiśvānarā
 mahi mahānto na mārabhadhvam |  
 idaṃ śakeyaṃ yad idaṃ kṛṇomi svāhā ||  
 
-anuvāka 2 ||
+
 
 ### 010
 
@@ -22462,7 +22462,7 @@ bhūtānām uta yas patiḥ |
 bhūtāni sarvā brūmas  
 te no muñcantv aṃhasaḥ ||  
 
-anuvāka 3 ||
+
 
 ### 015
 
@@ -22734,7 +22734,7 @@ yā nadīr iti catasraḥ || +++(PS 7.13.11-14 are repeated with a different ref
 #### 12
 (…) || +++(PS 7.13.14 is repeated with a different refrain (= 15.18.10ef))+++  
 
-anuvāka 4 ||
+
 
 ### 020
 
@@ -22990,7 +22990,7 @@ mā na indra yavaṃ vadhīḥ ||
 yāḥ samudrād uccaranty  
 utsebhyo yā nadībhyaḥ |  
 atyantaḥ sarpo vaidyuto  
-'śaniṃ yāvayād itaḥ || anuvāka 5 |  
+'śaniṃ yāvayād itaḥ || 
 
 ## 16
 
@@ -23298,7 +23298,7 @@ yā nāṣṭrātijīvyā |
 muñcantu tasmāt tvā devā  
 agner vaiśvānarād adhi ||  
 
-anuvāka 1 ||
+
 
 ### 006
 
@@ -23647,7 +23647,7 @@ prati cakṣva vi cakṣva-
 rakṣobhyo vadham asyatam  
 aśaniṃ yātumadbhyaḥ ||  
 
-anuvāka 2 ||
+
 
 ### 012
 
@@ -23990,7 +23990,7 @@ viṣe viṣam aprāg api |
 agnir aher nir adhāg viṣaṃ somo nir aṇayīt | +++(Bhatt. aṇait)+++  
 daṃṣṭāram anv agād viṣam ahir amṛta || +++(Bhatt. daṃṣṭrāramanagād)+++  
 
-anuvāka 3 ||
+
 
 ### 018
 
@@ -24308,7 +24308,7 @@ na mad anyo bhaviṣyasi | +++(Bhatt. vadanyo)+++
 apāṃ garbham iva jīvase  
 prāṇa badhnāmi tvā mayi ||  
 
-anuvāka 4 ||
+
 
 ### 024
 
@@ -24596,7 +24596,7 @@ aparājitaḥ somapā abhayaṅkaro vṛṣā |
 sa tvā rakṣatu sarvadā  
 divā naktaṃ ca viśvataḥ ||  
 
-anuvāka 5 ||
+
 
 ### 029
 
@@ -24896,7 +24896,7 @@ tasmāt prācīnopavītas tiṣṭhet
 prajāpate 'nu mā budhyasveti |  
 anv enaṃ prajāpatir anu prajā budhyante ya evaṃ veda ||  
 
-anuvāka 6 ||
+
 
 ### 035
 
@@ -25280,7 +25280,7 @@ svāhā devebhyaḥ svāhyebhya
 svāhā devebhyaḥ svāhyebhyo  
 diśodiśaḥ śālāyā namo mahimne ||  
 
-anuvāka 7 ||
+
 
 ### 042
 
@@ -25616,7 +25616,7 @@ māteva putraṃ piteva sūnum
 ayaṃ te asmi taṃ mā mumugdhi grāhyā  
 bandhebhyo vimadan nayemam ||  
 
-anuvāka 8 ||
+
 
 ### 049
 
@@ -26152,7 +26152,7 @@ na ca prāṇaṃ ruṇaddhy atha sarvasvaṃ jīyate || +++(Bhatt. aca)+++
 na ca sarvasvaṃ jīyate 'thainam āhāpratiṣṭhāno 'nāyatano mariṣyasīti |  
 apratiṣṭhāna evānāyatano mriyate ya evaṃ viduṣa upadraṣṭā bhavati ||  
 
-anuvāka 9 ||
+
 
 ### 059
 
@@ -26526,7 +26526,7 @@ kīrtiṃ bhūtiṃ ni yacchatu
 tejasā mā sam ukṣatu  
 yaśasā sam anaktu mām ||  
 
-anuvāka 10 ||
+
 
 ### 066
 
@@ -26807,7 +26807,7 @@ apo vasānā divam ut patanti |
 tā āvavṛtrant sadanād ṛtasya-  
 -ād id ghṛtena pṛthivīṃ vy ūduḥ ||+++(Bhatt. aduḥ)+++  
 
-anuvāka 11 ||
+
 
 ### 070
 
@@ -27150,7 +27150,7 @@ hṛdayasya ca yo viduḥ |
 udyan sūrya ādityo  
 'ṅgarogam anīnaśat ||  
 
-anuvāka 12 ||
+
 
 ### 076
 
@@ -27492,7 +27492,7 @@ durgandhīṃl lohitāsyān |
 tvayā praṇuttāḥ kravyādo  
 viṣvañco yantu nirhatāḥ ||  
 
-anuvāka 13 ||
+
 
 ### 082
 
@@ -27889,7 +27889,7 @@ sarve devā anu prāviśan |
 prajāpatir yam ābharac  
 charīraṃ bahudhā hitam ||  
 
-anuvāka 14 ||
+
 
 ### 089
 
@@ -28233,7 +28233,7 @@ dyauḥ pṛṣṭhaṃ diśaḥ pārśve |
 sūryācandramasāv akṣyāv +++(Bhatt. akṣāv)+++  
 ṛtavo dantāḥ pavamānaḥ prāṇo aṅgiraso rūpam ||  
 
-anuvāka 15 ||
+
 
 ### 097
 
@@ -28664,7 +28664,7 @@ sapta rakṣanti sadam apramādam |
 saptāpaḥ svapato lokam īyus  
 tatra jāgṛto asvapnajau satrasadau ca devau ||  
 
-anuvāka 16 ||
+
 
 ### 104
 
@@ -29065,7 +29065,7 @@ vaśāṃ manuṣyā uta |
 vaśedaṃ sarvam abhavad  
 yāvat sūryo vipaśyati ||  
 
-anuvāka 17 ||
+
 
 ### 111
 yo vā ekaṃ brahmānuṣṭhyā vidyāt sa vā adya mahad vadet ||  
@@ -29574,7 +29574,7 @@ yat prāśiṣyan paścāt prāñcam abhimṛśati |
 śarma caivāsmai varma ca bhavati  
 jayaty odanam odanaloko bhavati ya evaṃ veda ||  
 
-anuvāka 18 ||
+
 
 ### 127
 
@@ -29978,7 +29978,7 @@ yat pratyāhanti viṣaṃ pratyāhanti
 na ca pratyāhanti viṣam anu prasicyate |  
 viṣam asyāpriyaṃ bhrātṛvyaṃ hanti ya evaṃ veda ||  
 
-anuvāka 19 ||
+
 
 ### 136
 
@@ -30545,7 +30545,7 @@ teja ā dhīyatāṃ mayi |
 prāṇāpānau mā mā hāsiṣṭaṃ  
 sarvam āyur aśīya ||  
 
-anuvāka 21 ||
+
 
 ### 150
 brahma jajñānam ity ekā ||  
@@ -30904,7 +30904,7 @@ annaṃ reto lohitam udaraṃ tāni kalpan | +++(Bhatt. kalpam)+++
 brahmacārī salilasya pṛṣṭhe  
 tapo 'tiṣṭhat tapyamānaḥ samudre ||  
 
-anuvāka 22 ||
+
 
 ## 17
 
@@ -31308,7 +31308,7 @@ aditiḥ kāmadughā viśvarūpā |
 yat ta ūnaṃ tat ta ā pūrayāti  
 prajāpatiḥ prajābhiḥ saṃvidānaḥ ||  
 
-anuvāka 1 ||
+
 
 ### 007
 
@@ -31585,7 +31585,7 @@ asti vai tat paro divaḥ |
 lokā vai tasmin saṃprotā  
 yasminn otāḥ prajā imāḥ ||  
 
-anuvāka 2 ||
+
 
 ### 012
 
@@ -31862,7 +31862,7 @@ vijavrāṃ labruvaṃ lavum |
 arāyīṃ vācamejayāṃ  
 nāśayāmaḥ sadānvāḥ ||  
 
-anuvāka 3 ||
+
 
 ### 016
 
@@ -32192,7 +32192,7 @@ amā ca pacate vaśām |
 devān sabrāhmaṇān ṛtvā  
 jihmo lokān nir ṛcchati ||  
 
-anuvāka 4 ||
+
 
 ### 021
 
@@ -32471,7 +32471,7 @@ deva parameṣṭhin vaha duṣvapnyaṃ parā vaha duṣvapnyam |
 ahorātre vahataṃ duṣvapnyaṃ parā vahataṃ duṣvapnyam |  
 amuṣmā āmuṣyāyaṇāyāmuṣyāḥ putrāya ||  
 
-anuvāka 5 ||
+
 
 ### 027
 
@@ -32827,7 +32827,7 @@ ye 'sya pādāḥ sā pratiṣṭhā |
 prati tiṣṭhati prajayā paśubhir gṛhair dhanena  
 ya evaṃ vidvān anaḍuho vrataṃ bibharti ||  
 
-anuvāka 6 ||
+
 
 ### 044
 
@@ -33182,7 +33182,7 @@ apāṃ rasair oṣadhīnāṃ ghṛtasya |
 imān pātṝṃr amṛtenā sam aṅdhi  
 sthirā vīrāḥ saṃmanaso bhavantu ||  
 
-anuvāka 7 ||
+
 
 ### 050
 
@@ -33939,7 +33939,7 @@ brahmāntato madhyato brahma sarvataḥ |
 anāvyādhāṃ devapurāṃ prapadya  
 śivā syonā patiloke vi rāja ||  
 
-anuvāka 1 ||
+
 
 ### 007
 
@@ -34424,7 +34424,7 @@ syonā patye gṛhebhyaḥ |
 syonāsyai sarvasyai viśe  
 syonā puṣṭāyaiṣāṃ bhava ||  
 
-anuvāka 2 ||
+
 
 ### 015
 
@@ -34732,7 +34732,7 @@ yam indro brahmaṇaspatiḥ |
 brahmeddhāv agnī ījāte  
 rohitasya svarvidaḥ ||  
 
-anuvāka 3 ||
+
 
 ### 020
 
@@ -35122,7 +35122,7 @@ antarikṣaṃ pary eko babhūva |
 divam eṣāṃ dadate yo vidhartā  
 sarvā diśo rakṣaty eka eṣām ||  
 
-anuvāka 4 ||
+
 
 ### 027
 
@@ -35376,7 +35376,7 @@ prajāpateś ca vai sa parameṣṭhinaś ca pituś ca pitāmahasya ca priyaṃ 
 prajāpataye ca vai sa parameṣṭhine ca pitre ca pitāmahāya cā vṛścate  
 ya evaṃ vidvāṃsaṃ vrātyam upavadati ||  
 
-anuvāka 5 ||
+
 
 ### 033
 
@@ -35609,7 +35609,7 @@ yad asya dakṣiṇam akṣi tad asāv ādityo yat savyaṃ tad asau candramā�
 ditiś cāditiś ca śīrṣakapāle saṃvatsaraḥ śiro 'horātre nāsike |  
 rātryā parāṅ ahnā pratyaṅ namo vrātyāya ||  
 
-anuvāka 6 ||
+
 
 ### 044
 
@@ -35693,7 +35693,7 @@ varco asi varco mayi dhehi ||
 mitrāvaruṇā me prāṇāpānāv  
 agnir me dakṣaṃ dadhātu ||  
 
-anuvāka 7 ||
+
 
 ### 049
 
@@ -35897,7 +35897,7 @@ tad agnir āha tad u soma āha pūṣā mā dhāt sukṛtasya loke |
 aganma svar aganma saṃ sūryasya jyotiṣāganma |  
 vasyobhūyāya vasumān yajño vasu vaṃsīya vasumān bhūyāsam ||  
 
-anuvāka 8 ||
+
 
 ### 054
 
@@ -36091,7 +36091,7 @@ vyucchantīr uṣasaḥ parvatā dhruvā |
 udyan sūryo nudatāṃ mṛtyupāśān  
 sahasraṃ prāṇā mayi te ramantām ||  
 
-anuvāka 9 ||
+
 
 ### 057
 
@@ -36440,7 +36440,7 @@ dyumantaḥ sam idhīmahi |
 dyumān dyumata ā vaha  
 pitṝn haviṣe attave ||  
 
-anuvāka 10 ||
+
 
 ### 063
 
@@ -36813,7 +36813,7 @@ gātāsum enaṃ tam upa śeṣa ehi |
 hastagrābhasya dadhiṣos tavedaṃ  
 patyur janitvam abhi saṃ babhūvitha ||  
 
-anuvāka 11 ||
+
 
 ### 069
 
@@ -37215,7 +37215,7 @@ jīvā jyotir aśīmahi ||
 #### 13
 ye te pūrva ity ekā || +++(PS 8.19.5 is repeated)+++  
 
-anuvāka 12 ||
+
 
 ### 076
 
@@ -37624,7 +37624,7 @@ na vo hiraṇyanemayaḥ
 padaṃ vindanti vidyuto  
 vittaṃ me asya rodasī ||  
 
-anuvāka 13 ||
+
 
 ## 19
 
@@ -37977,7 +37977,7 @@ uta tvaṃ tiṣṭha madhyame |
 kaṇiṣṭhikā ca tiṣṭhāti +++(Bhatt. tiṣṭhāt)+++  
 tiṣṭhād id dhamanir mahī ||  
 
-anuvāka 1 ||
+
 
 ### 005
 
@@ -38340,7 +38340,7 @@ vīrudhāṃ balavattamaḥ |
 kuṣṭhehi takmanāśana  
 takmānaṃ nāśayann itaḥ ||  
 
-anuvāka 2 ||
+
 
 ### 009
 
@@ -38690,7 +38690,7 @@ prācyāṃ diśi tvam indrādhirājā- +++(Bhatt. indrādhi rājodīcyāṃ)+++
 yatra yanti śrotyās taj jitaṃ te  
 dakṣiṇato vṛṣabho 'si havyaḥ ||  
 
-anuvāka 3 ||
+
 
 ### 013
 
@@ -39101,7 +39101,7 @@ deva saṃsphāna sahasrāpoṣasyeśiṣe |
 tasya no dhehi tasya te bhakṣīmahi  
 tasya te bhaktivāṃso bhūyāsma svāhā ||  
 
-anuvāka 4 ||
+
 
 ### 017
 
@@ -39496,7 +39496,7 @@ rurohāti jahāti mām |
 etām indrasya jāyā  
 validhānīm akṛṇvata ||  
 
-anuvāka 5 ||
+
 
 ### 021
 
@@ -39906,7 +39906,7 @@ prathamajaṃ jyotir agre |
 tan naḥ saniṃ madhumatīṃ kṛṇotu  
 rayiṃ ca naḥ sarvavīraṃ ni yacchāt ||  
 
-anuvāka 6 ||
+
 
 ### 025
 
@@ -40273,7 +40273,7 @@ yas te yakṣmo majjasu paruḥsu yo gudāsu
 taṃ tvad yakṣmam adhi nāśayāmaḥ  
 so 'nyasmiṃ chrayātai praviṣṭaḥ ||  
 
-anuvāka 7 ||
+
 
 ### 029
 
@@ -40676,7 +40676,7 @@ cakṣuṣmac cittam astu me
 cakṣuś cakṣuṣmad astu me  
 cakṣur ā dhehi me 'kṣyoḥ ||  
 
-anuvāka 8 ||
+
 
 ### 033
 
@@ -41067,7 +41067,7 @@ yadi tvā rakṣo agrabhīt |
 tasmā apaplavaṃ havir  
 manasā juhomi te ||  
 
-anuvāka 9 ||
+
 
 ### 037
 
@@ -41459,7 +41459,7 @@ yena prajāḥ kaśyapaḥ paryagṛhnāt |
 ya odanaḥ pacyate vaiśvadevaḥ  
 sa no yame akṣito bhāgo astu ||  
 
-anuvāka 10 ||
+
 
 ### 041
 
@@ -41882,7 +41882,7 @@ yadi cittyā manyunā yat sapatnaḥ | +++(Bhatt. stāyadicityo (⟨ dyadacitty�
 agniṣ ṭān pāśān pra mumoktu devo  
 yāvayatu śapathām̐ varuṇo dhṛtavrataḥ ||  
 
-anuvāka 11 ||
+
 
 ### 045
 
@@ -42248,7 +42248,7 @@ tasya doham aśīya || +++(Bhatt. tasyād, cf. VSM 38.28b tásya dóham aśīmah
 arkāsadhasthau kavimātariśvānau yamāṅgirasaḥ |  
 yaśasvinaṃ mā devā yaśasaḥ kṛṇuta svāhā ||  
 
-anuvāka 12 ||
+
 
 ### 049
 
@@ -42645,7 +42645,7 @@ urvā matsyo madhūdakaṃ
 tasya pāsy atyayam  
 anāsrāvam arogaṇam ||  
 
-anuvāka 13 ||
+
 
 ### 053
 
@@ -42998,7 +42998,7 @@ pra bhavāsi paśubhiś ca vīraiḥ |
 indrāgnī tvā sayujā sakhāyau  
 viśvebhir devair anu saṃ dadetām ||  
 
-anuvāka 14 ||
+
 
 ## 20
 
@@ -43334,7 +43334,7 @@ saṃ vo manāṃsi jānatām |
 mitro vaḥ sarvāḥ saṃ sṛjān  
 mayi saṃjñānam astu vaḥ ||  
 
-anuvāka 1 ||
+
 
 ### 007
 
@@ -43660,7 +43660,7 @@ sahasrastutām abhi yantu devīḥ |
 viṣṇupatni tubhyaṃ rātā havīṃṣi  
 patiṃ devi rādhasā codayasva ||  
 
-anuvāka 2 ||
+
 
 ### 012
 
@@ -43970,7 +43970,7 @@ mayi dyumnaṃ mayi tviṣiḥ |
 ahaṃ te varca ā dade  
 ahaṃ bhūyāsam uttamaḥ ||  
 
-anuvāka 3 ||
+
 
 ### 018
 
@@ -44367,7 +44367,7 @@ tāṃ satyoktiṃ brūmaḥ ||
 sā vāmenāṅkasā nyetya |  
 imāṃ gāṃ vānayatu svāhā ||  
 
-anuvāka 4 ||
+
 
 ### 025
 
@@ -44726,7 +44726,7 @@ sarvān keśān vṛhāmi te |
 ayaspātram iva te śiro  
 yathāsat samaraṃ samam ||  
 
-anuvāka 5 ||
+
 
 ### 031
 
@@ -45057,7 +45057,7 @@ na prātar adhigamyate |
 sarvaṃ tad astu naḥ śivaṃ  
 nahi tad dṛśyate divā ||  
 
-anuvāka 6 ||
+
 
 ### 037
 
@@ -45435,7 +45435,7 @@ hiraṇyavantam aṅkinam |
 tenāham anyeṣāṃ striya +++(Bhatt. striya (⟨ śriyaḥ))+++  
 ā lumpāmi mamed asan ||  
 
-anuvāka 7 ||
+
 
 ### 043
 
@@ -45819,7 +45819,7 @@ jigyuṣām iva dundubhiḥ |
 kapiñjala pradakṣiṇaṃ  
 śatapatrābhi no vada ||  
 
-anuvāka 8 ||
+
 
 ### 051
 
@@ -46256,7 +46256,7 @@ ayuto me prāṇo ayuto me 'pāno ayuto 'haṃ sarvaḥ ||
 +++(PSK 20.53.11bc)+++tasminn etat suhutam astu prāśitaṃ  
 tan mā mā hiṃsīḥ parame vyoman ||  
 
-anuvāka 9 ||
+
 
 ### 058
 
@@ -46731,4 +46731,4 @@ apsarasāṃ samavānayat |
 tenāham amuṃ mayi vānayāmy  
 ā mṛtyor ā parāvataḥ ||  
 
-anuvāka 10 ||
+
