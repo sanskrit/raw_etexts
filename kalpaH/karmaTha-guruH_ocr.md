@@ -4,6 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
+Source: [TW](https://archive.org/details/karmaTha-guru/page/n15/mode/1up)
 
 कर्मठगुरुः
 पं. अजित कुमालिवारी

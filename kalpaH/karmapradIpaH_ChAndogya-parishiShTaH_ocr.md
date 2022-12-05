@@ -1,3 +1,6 @@
+
+Source: [TW](https://archive.org/details/karma-pradIpaH)
+
 प्रथमप्रपाठके प्रथमः खण्डः ।
 ॐ नमः सामवेदाय ।
 श्रीगणेशाय नमः।
