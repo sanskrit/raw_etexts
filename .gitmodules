@@ -198,3 +198,23 @@
 [submodule "vyAkaraNam/ashtadhyayi-com-data-edit"]
 	path = vyAkaraNam/ashtadhyayi-com-data-edit
 	url = https://github.com/ashtadhyayi-com/data-edit.git
+[submodule "AgamAH/vaiShNavaH/vishvAsa.github.io_content"]
+	path = AgamAH/vaiShNavaH/vishvAsa.github.io_content
+	url = https://github.com/vishvAsa/AgamaH_vaiShNavaH.git
+	branch = content
+[submodule "AgamAH/shaivam/vishvAsa.github.io_content"]
+	path = AgamAH/shaivam/vishvAsa.github.io_content
+	url = https://github.com/vishvAsa/AgamaH_shaivaH.git
+	branch = content
+[submodule "AgamAH/brAhmaH/vishvAsa.github.io_content"]
+	path = AgamAH/brAhmaH/vishvAsa.github.io_content
+	url = https://github.com/vishvAsa/AgamaH_brAhmaH.git
+	branch = content
+[submodule "AgamAH/brAhmaH/vishvAsa.github.io_static"]
+	path = AgamAH/brAhmaH/vishvAsa.github.io_static
+	url = https://github.com/vishvAsa/AgamaH_brAhmaH.git
+	branch = static_files
+[submodule "AgamAH/shaivam/vishvAsa.github.io_static"]
+	path = AgamAH/shaivam/vishvAsa.github.io_static
+	url = https://github.com/vishvAsa/AgamaH_shaivaH.git
+	branch = static_files
