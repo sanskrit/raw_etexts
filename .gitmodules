@@ -218,3 +218,11 @@
 	path = AgamAH/shaivam/vishvAsa.github.io_static
 	url = https://github.com/vishvAsa/AgamaH_shaivaH.git
 	branch = static_files
+[submodule "purANam/vaiShNavam/vishvAsa.github.io_static"]
+	path = purANam/vaiShNavam/vishvAsa.github.io_static
+	url = https://github.com/vishvAsa/purANam_vaiShNavam.git
+	branch = static_files
+[submodule "purANam/vaiShNavam/vishvAsa.github.io_content"]
+	path = purANam/vaiShNavam/vishvAsa.github.io_content
+	url = https://github.com/vishvAsa/purANam_vaiShNavam.git
+	branch = content
