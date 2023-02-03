@@ -22,6 +22,7 @@
 	path = catalogs/wellcome-collection-tei
 	url = https://github.com/wellcomecollection/wellcome-collection-tei.git
 	update = merge
+	branch = main
 [submodule "mixed/dcs"]
 	path = mixed/dcs
 	url = https://github.com/OliverHellwig/sanskrit.git
@@ -127,6 +128,7 @@
 [submodule "mixed/dhaval_sanskritworld_texts"]
 	path = mixed/dhaval_sanskritworld_texts
 	url = https://github.com/drdhaval2785/sanskritworld_texts.git
+	branch = main
 [submodule "kalpaH/devaH_vishvAsa"]
 	url = https://github.com/vishvAsa/devaH.git
 [submodule "purANam/mishram/vishvAsa.github.io_static_files"]
@@ -145,6 +147,7 @@
 [submodule "mixed/sarit-raw"]
 	path = mixed/sarit-raw
 	url = https://github.com/sarit/raw-ocr-data.git
+	branch = main
 [submodule "kalpaH/AgamaH/vishvAsa_kalpAntaram_static"]
 	path = kalpaH/vishvAsa_kalpAntaram_static
 	url = https://github.com/vishvAsa/kalpAntaram.git
@@ -159,6 +162,7 @@
 [submodule "mixed/shreevatsa-latex-books"]
 	path = mixed/shreevatsa-latex-books
 	url = https://github.com/shreevatsa/latex-book-sources.git
+	branch = main
 [submodule "vedaH/Rg/vishvAsa.github.io/content"]
 	path = vedaH/Rg/vishvAsa.github.io/content
 	url = https://github.com/vishvAsa/vedAH_Rk
@@ -195,9 +199,11 @@
 [submodule "mixed/ambuda-gretil"]
 	path = mixed/ambuda-gretil
 	url = https://github.com/ambuda-project/gretil.git
+	branch = main
 [submodule "vyAkaraNam/ashtadhyayi-com-data-edit"]
 	path = vyAkaraNam/ashtadhyayi-com-data-edit
 	url = https://github.com/ashtadhyayi-com/data-edit.git
+	branch = main
 [submodule "AgamAH/vaiShNavaH/vishvAsa.github.io_content"]
 	path = AgamAH/vaiShNavaH/vishvAsa.github.io_content
 	url = https://github.com/vishvAsa/AgamaH_vaiShNavaH.git
