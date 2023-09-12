@@ -14,9 +14,13 @@
 	path = mixed/sarit
 	url = https://github.com/sarit/SARIT-corpus.git
 	update = merge
-[submodule "mixed/gretil"]
-	path = mixed/gretil
+[submodule "mixed/gretil_wujastyk"]
+	path = mixed/gretil_wujastyk
 	url = https://github.com/wujastyk/GRETIL-mirror.git
+	update = merge
+[submodule "mixed/gretil-skt"]
+	path = mixed/gretil-skt
+	url = https://github.com/sanskrit/GRETIL-mirror.git
 	update = merge
 [submodule "catalogs/wellcome-collection-tei"]
 	path = catalogs/wellcome-collection-tei
