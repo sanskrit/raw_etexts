@@ -122,7 +122,7 @@
 	url = https://github.com/sanskrit/mattUru-shrauta-book.git
 	branch = content
 [submodule "kalpaH/AgamaH/vishvAsa.github.io"]
-	path = AgamAH/vishvAsa.github.io
+	path = mixed/vishvAsa/AgamaH/content
 	url = https://github.com/vishvAsa/AgamaH.git
 	branch = content
 [submodule "kalpaH/AgamaH/kalpAntaram.github.io"]
@@ -160,7 +160,7 @@
 	path = mixed/BuddhaNexus_segmented-sanskrit
 	url = https://github.com/BuddhaNexus/segmented-sanskrit/
 [submodule "AgamAH/vishvAsa.github.io_static"]
-	path = AgamAH/vishvAsa.github.io_static
+	path = mixed/vishvAsa/AgamaH/static
 	url = https://github.com/vishvAsa/AgamaH.git
 	branch = static_files
 [submodule "mixed/shreevatsa-latex-books"]
@@ -209,30 +209,30 @@
 	url = https://github.com/ashtadhyayi-com/data-edit.git
 	branch = main
 [submodule "AgamAH/vaiShNavaH/vishvAsa.github.io_content"]
-	path = AgamAH/vaiShNavaH/vishvAsa.github.io_content
+	path = mixed/vishvAsa/AgamaH/vaiShNavam/content
 	url = https://github.com/vishvAsa/AgamaH_vaiShNavaH.git
 	branch = content
 [submodule "AgamAH/shaivam/vishvAsa.github.io_content"]
-	path = AgamAH/shaivam/vishvAsa.github.io_content
+	path = mixed/vishvAsa/AgamaH/shaivam/vishvAsa.github.io_content
 	url = https://github.com/vishvAsa/AgamaH_shaivaH.git
 	branch = content
 [submodule "AgamAH/brAhmaH/vishvAsa.github.io_content"]
-	path = AgamAH/brAhmaH/vishvAsa.github.io_content
+	path = mixed/vishvAsa/AgamaH/brAhmaH/vishvAsa.github.io_content
 	url = https://github.com/vishvAsa/AgamaH_brAhmaH.git
 	branch = content
 [submodule "AgamAH/brAhmaH/vishvAsa.github.io_static"]
-	path = AgamAH/brAhmaH/vishvAsa.github.io_static
+	path = mixed/vishvAsa/AgamaH/brAhmaH/vishvAsa.github.io_static
 	url = https://github.com/vishvAsa/AgamaH_brAhmaH.git
 	branch = static_files
 [submodule "AgamAH/shaivam/vishvAsa.github.io_static"]
-	path = AgamAH/shaivam/vishvAsa.github.io_static
+	path = mixed/vishvAsa/AgamaH/shaivam/vishvAsa.github.io_static
 	url = https://github.com/vishvAsa/AgamaH_shaivaH.git
 	branch = static_files
 [submodule "purANam/vaiShNavam/vishvAsa.github.io_static"]
-	path = purANam/vaiShNavam/vishvAsa.github.io_static
+	path = mixed/vishvAsa/purANam/vaiShNavam/static
 	url = https://github.com/vishvAsa/purANam_vaiShNavam.git
 	branch = static_files
 [submodule "purANam/vaiShNavam/vishvAsa.github.io_content"]
-	path = purANam/vaiShNavam/vishvAsa.github.io_content
+	path = mixed/vishvAsa/purANam/vaiShNavam/content
 	url = https://github.com/vishvAsa/purANam_vaiShNavam.git
 	branch = content
