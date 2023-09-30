@@ -96,7 +96,7 @@
 	update = merge
 	branch = content
 [submodule "vyAkaraNam/vvasuki.github.io"]
-	path = mixed/vishvAsa/sanskrit/vyAkaranam/content
+	path = mixed/vishvAsa/sanskrit/content
 	url = https://github.com/vishvAsa/sanskrit.git
 	update = merge
 	branch = content
