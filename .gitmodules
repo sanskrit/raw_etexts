@@ -242,3 +242,7 @@
 	path = mixed/vishvAsa/purANam/vaiShNavam/static
 	url = https://github.com/vishvAsa/purANam_vaiShNavam.git
 	branch = static_files
+[submodule "mixed/vishvAsa/purANam/vaiShNavam/rAmAyaNam"]
+	path = mixed/vishvAsa/purANam/vaiShNavam/rAmAyaNam
+	url = https://github.com/vishvAsa/rAmAyaNam.git
+	branch = content
