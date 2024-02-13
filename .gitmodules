@@ -117,10 +117,6 @@
 	path = mixed/vishvAsa/vedAH/static
 	url = https://github.com/vishvAsa/vedAH.git
 	branch = static_files
-[submodule "kalpaH/shrautam/mattUru-shrauta-book.github.io"]
-	path = kalpaH/shrautam/mattUru-shrauta-book.github.io
-	url = https://github.com/sanskrit/mattUru-shrauta-book.git
-	branch = content
 [submodule "kalpaH/AgamaH/vishvAsa.github.io"]
 	path = mixed/vishvAsa/AgamaH/content
 	url = https://github.com/vishvAsa/AgamaH.git
