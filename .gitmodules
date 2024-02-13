@@ -18,6 +18,7 @@
 	path = mixed/gretil_wujastyk
 	url = https://github.com/wujastyk/GRETIL-mirror.git
 	update = merge
+	branch = main
 [submodule "mixed/gretil-skt"]
 	path = mixed/gretil-skt
 	url = https://github.com/sanskrit/GRETIL-mirror.git
