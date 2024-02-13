@@ -11,7 +11,8 @@ A repository containing important raw texts (some non-proofread). Processed (eg:
 ## Usage
 - Clone this repo: `git clone https://github.com/sanskrit/raw_etexts.git --recursive --shallow-submodules`
 - Initialize submodules if needed: `git submodule update --init --recursive --depth 1`
-- Update submodules if needed: `git submodule foreach "(git checkout master; git pull --depth 1)&"`
+- Update submodules if needed:  
+  `git submodule foreach -q 'git checkout -b $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master)'` (also without the `-b` option, if all submodules are not covered. Also consider adding the `--recursive` option.)
 
 ### Generating a catalog
 - On linux: `./make_catalog.sh`
