@@ -251,3 +251,7 @@
 	path = mixed/vishvAsa/purANam/vaiShNavam/mahAbhAratam/content
 	url = https://github.com/vishvAsa/mahAbhAratam.git
 	branch = content
+[submodule "mixed/vishvAsa/AgamaH/vaiShNavam/static"]
+	path = mixed/vishvAsa/AgamaH/vaiShNavam/static
+	url = https://github.com/vishvAsa/AgamaH_vaiShNavaH.git
+	branch = static_files
