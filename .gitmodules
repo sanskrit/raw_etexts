@@ -113,7 +113,7 @@
 	branch = content
 [submodule "mixed/vv_ebook_pub"]
 	path = mixed/vv_ebook_pub
-	url = https://github.com/sanskrit-coders/book-pub.git
+	url = https://github.com/vishvAsa/book-pub.git
 [submodule "vedaH/mishram/vvasuki.github.io_static"]
 	path = mixed/vishvAsa/vedAH/static
 	url = https://github.com/vishvAsa/vedAH.git
