@@ -1,0 +1,1828 @@
+@450
+##These verses are not to be found in these fragments. But there is another quotation 
+in page 173 of the same:-##
+yathoktaM zatake | alAtacakranirmmANasvapnamAyAmbucandrakai: |
+dhUmikAnta:pratisRtkA marIcyabhrai: samo bhava: |
+##In a note the editor, M. Louis de la Vallee Poussin, says that this is the 25th
+verse of the 13th chapter. This agrees with the last verse of the 13th chapter of 
+our fragments.
+There is another quotation in page 199:-##
+yathoktamAryyadevena | yastavAtmA mamAnAtmA tenAtmA niyamAnna sa: |
+nanvanityeSu bhAveSu kalpanA nAma jAyate ||
+##The editor in a note says this is from Sataka X.3. This agrees with the 3rd 
+verse of the 10th chapter in our fragments.
+Another quotation is in page 220 :-##
+yathoktamAryyadevapAdai: | yathA bIjasya dRSTo’nto nacAdistasya vidyate |
+tathA kAraNavaikalyAt janmano’pi na sambhava: ||
+##The editor says this is from Sataka VIII. 25. This is the last verse of the 8th 
+chapter in our fragments. 
+The fact that Catuhsatika is called sataka both by Candra kirti and M. Poussin
+led me to think that the sata sastras registered by Nanjio under the name of Arya-
+deva may perhaps be the same work as Catuhsatika. Acting under this impression 
+I obtained from my friend Professor Takakusu of Tokio, a copy of the Sata Sastra 
+with the commentary of Vasubandhu or Vasu. My young friend and pupil Dr.
+Kimora read the work for me and pronounced it to be a different work. He says it 
+has 20 chapters of five Sutras each, making a total of a hundred sutras, but that ten 
+chapters, being of no use to China, were not translated into their language. Dr. 
+Kimora’s description of the work does not tally with that of Nanjio, who says that it 
+has eight chapters only. There is another work entitled Satasuttra by Aryadeva 
+registered by Nanjio. But it is only the Vaipulya version of the former. 
+The following table will show the distribution of verses in the various chapters of 
+the Catuhsatika and their number in each in the fragments published :-
+Chapter. Total number of verses in each chapter. Number of verses. Number of verses in the fragments.
+I. 25. 1 to 25. 19, 21, 22, 25 = 4.
+II. 25. 26 to 50. 32 to 37 = 6.
+III. 25. 51 to 75. 73 to 75 = 3.
+IV. 25. 76 to 100. 76, 77, 89 to 92, 98 to 100 = 9.
+V. 25. 101 to 125. 101 = 1.
+VI. 25. 126 to 150. 0 = 0.
+VII. 23. 151 to 173. 159. to 169 = 11.
+VIII. 24. 174 to 197. 175 to 186 192 to 197 = 18.
+IX. 25. 198 to 222. 198 to 204, 222 = 8.
+X. 25. 223 to 247. 223 to 226, 233 to 238 = 10.
+XI. 14. 248 to 261. 253 to 259 = 7.
+
+
+@451
+Chapter. Total number of verses in each chapter. Number of verses. Number of verses in fragments.
+XII, 14. 262 to 275. 265 to 272 = 8.
+XIII. 25. 276 to 300. 288 to 300 = 13.
+XIV. 25. 301 to 325. 301 to 21 = 21.
+XV. 25. 326 to 350. 343 to 50. = 8.
+XVI. 25. 351 to 375. 351,352. = 2.
+=129.
+Manjunatha and thwanimmathappa, the joint Indian and Tibetan translators of 
+the text of Catuhsatika, say that this work was composed in the Sinhalese country 
+on the other side of the great sea. It also says that the country of the composition 
+of the work is now, at the time of the translation, under the possession of the Mus-
+salmans. Nanjio says that Arya Deva was a native of South India (not Ceylon as in 
+Eitel) and a disciple of Nagarjuna. There is a life of Arya Deva in five leaves transla-
+ted by Kumarajiva into Chinese between A.D. 401 and 409. Aryadeva is also called
+Nilanettra, on account of his having two spots, as large as the eyes, on the cheeks. It 
+is also said by Nanjio that his real name was Candra Kirti. I think that the later 
+writers confounded the author with the commentator.
+Chandra Kirti, the commentator, was an opponent of Candragomi, who lived 
+between 630-940, viz., during Yuan Chauang’s stay in Eastern India. He quotes in 
+his commentary on Madhyamakakarika from Tathagataguhyaka, one of the 9 dharma 
+of the Nepalese and a work of the Tantrika Sahajia sect. His commentary was trans-
+lated into Tibetan by the Indian Pandit Bamse Ratna-vajra and Lama Thwanimma-
+Thappa. Like the text the commentary has no Chinese translation.##
+@452
+##MEMOIRS 
+OF THE 
+ASIATIC SOCIETY OF BENGAL
+VOL. III, No. 8. pp. 449-514.
+CATUHSATIKA BY ARYA DEVA.
+EDITED BY 
+MAHAMAHOPADHYAYA HARAPRASAD SHASTRI, M.A. F.A.S.B., C.I.E.
+[DD]
+CALCUTTA:
+PRINTED AT THE BAPTIST MISSION PRESS, AND PUBLISHD BY
+THE ASIATIC SOCIETY , 1, PARK STREET
+1914. 
+price Rs. 2; or 2nd 10th
+26-10-14
+##PREFACE.##
+The following fragments of Aryadeva’s Catuhsatika with their commentary by
+Candra Kirti are published from 23 old palm leaves written on in Newari character  
+of the 11th century. I had great difficulty in arranging the leaves, as the old leaf-
+marks have been obliterated in all the leaves except one. That one leaf is marked 
+15. The last owner of the manuscript marked the other leaves from 16 to 38, leaf 
+29th belonging to a work on grammar. He has done his work so badly that his 
+36th leaf contains the colophon of the first chapter, while the 15th leaf, which has
+the original leaf-mark, contains that of the third chapter. It was after a careful com-
+parison with the Tibetan translation in collaboration with my esteemed friend Dr.
+Satisa Candra Vidyabhusana that I could put the leaves in their proper order.
+A comparison with the Tibetan translation revealed the fact that the original 
+Catuhsatika contained three hundred and seventy-five verses in the Anustup metre, 
+which with sixteen long colophons, would count to a copyist, 400 Slokas. Hence the 
+name Catuhsatika. These three hundred and seventy-five verses are divided into 
+sixteen chapters, the majority of which contain 25 verses each. In a few only the 
+number of the verses is less than 25.
+From a comparison with the Tibetan translation the commentary appears to have 
+been written by Candra Kirti. The commentary is written in beautiful prose, en-
+livened in the first 8 chapters with pretty stories and anecdotes taken both from life 
+and literature; and in the last 8 chapters, with philosophical speculations both
+Buddhistic and Brahmanical. The only author quoted by name in these fragments 
+of the commentary is Buddha palita, whom the commenator calls Acarya. Candra
+Kirti is well known by his commentary on the Madhyamaka Karikas of Nagarjuna,
+and also by his work entitled Madyamakavatara which is known in Tibetan version 
+only.
+The author Aryadeva is said to have been a pupil of Nigarjuna, and as such,
+must. have flourished about the end of 2nd centrury A.D. One of his treatises in San-
+skrit entitled Caritra-visuddhi-prakarana was discovered by me in 1897 at Katmandu,
+and published in the Asiatic Society’s Journal for that year; and Catuhsatika is a 
+discovery of another work in Sanskrit by Aryadeva. The work is often quoted 
+under the name of Sataka in Candrakirti’s commentary on the Madhyamaka Karikas 
+of Nagarjuna. For instance, in Bibl. Budh. Edition of the same work, p. 71, we 
+read:-##
+yathoktaM zatake:- sarvva eva ghaTo dRSTo rUpe dRSTe hi jAyate |
+brUyAt kastattvavinnAma ghaTa: pratyakSa ityapi ||
+etemaiva vicAreNa sugandhi madhuraM mRdu |
+pratiSedhayitavyAni sarvvAnyuttamabuddhinA || ##Ch. XIII. I. 2.##
+@453
+##Catuhsatika by Arya Deva.
+Edited by MAHAMAHOPADHYAYA HARAPRASAD SHASTRI, M.A., F.A.S.B., C.I.E.##
+catu:zatikA ##by## Aryyadeva |
+.....sahacAriNau || 19.
+yasya hi bhavato’nyasya vA iSTairyoga: priyastasya taireva viyoga: kathamapriya: | nanu yatraiva santAme 
+yogastatraivAvazyambhAvI viyogo’pIti yogaviyogau cobhAvapi dRzyete sahacAriNau | tasmAdyogArthinA viyoga 
++ + + 
+[2] rAdhanaM kRtaM | zrIrmesyAditi tena varo labdho yathAsya gRhaM praviSTasya zrIrgRhaM praviSTA tadanu-
+lagnA ca kAlakarNI, sa zriyaM pRcchati sma, kaiSA, Aha kAlakarNIti | sa Aha | na punarsmayAsyArthe varo 
+labdha: | sA prAha | yatrAhaM tatraiSA avazyamiti | evaM yatra saMyoga: + + + + +
+[3] khaM evaM sarvvasaMyogasukhaM viyogadu:khAnuSaktamevaM yasya vaD+izAmiSabhakSaNamiSTaM tasyAvazyaM vaD+iza-
+vedhoddharaNamapIti | atrAha, yadyapyante viyogo niyatastathApyAdau saMprayogamahatvAt nAsau gaNyata iti ||
+atikrAntasya nAstyAdiranto nAgatasya vA kena te + + + + +
+[4] prayogaprabhAvita: | anAgatasyApyavidyAvata evAntAbhAve’sAvapi aprAptatvAt tadAtmaka: | tadatrA-
+navarAgrajAtisaMsAramahArNavapatitasya pratikSaNaM vinazvaratvAt | saMsAra + + + rthena ya: saMyoga: sa kSaNika: |
+tadevamatItAnAgatasaMgRhIto viprayo + + + + +
+[5] syAtisUkSmatvAt saMyogadarzane sati viyogadarzinA sadaiva saMvegavatA bhAvyaM | anyabhAryyApaharaNa-
+vivAdavat | kazcit puruSo dezAntaraM gatastasya proSitasya bhAryyA’nyena + + + + + + + masamIpa-
+sthena zrutaM zrutvA ca viTagRhaM gatvA tatkAlakRtena + + + + 
+[6] tAtkAlikaviyogena tantraM zodhitaM | atrAha | yadyapi mahAn viyogastathApi RtusampadA-
+kSiptacittatvAt nAsau cintyata iti | ucyate 
+zatruvat yAnti te kAlA niyamena kSaNAdaya: |
+sarvvathA tena te rAga: zatrubhUteSu teSu mA ||21.
+iha khalu yasmAt tava jIvitaM kSaNala + + + + 
+@454
+[7] mahAriSu teSu kAleSu bhavato rAgo mA bhavatviti | mitramukhenAvasthitAri(mi)parijJAtRvat 
+tatparijJAnakuzalena bhavitavyamapramAdacAriNA | bRddhadAsIdu:khAnubandhanatat | yathA bRddhadAsyA: kSa + + + + 
+paribhavadoSAcca svA + + + +
+[8] ziramabhilaSati | evamitareNe + | [nacAsya] kutazcit sukhamasti | tadevamenAM saMskAradharmmatA 
+mabhita: sthitAmapi cAnucintayatA saMvignamAnasena yuktamanurUpamAcarituma | kiM puna: + + + + + [36 ka]
+@455
+te |
+viprayogabhayAdgehAnna nirgacchami [durmmate] |
+[vivicya] nAma karttavyaM kuryyAddaNDena ko buddha: ||22. 
+iha bandhujanaviprayoga: kaSTa iti tadbhayAt gehAnna nirgacchami durmmate | tadapi yadA tadA ca 
+mRtyuvazAt niyama + + + 
+[2] deyaM karaM kRtsnammahat du:khamanubhUya pazcAddadati grAmINA, nAnyathA, evamavazyatyaktavyaM bandhujanaM
+mRtyunA tyAjyaMte'buddhA nAtmanA tyajanti | acAha yadyavazyaM bandhuvargastyAjyastathApi sutamutpAdyaM [pUrNa] + + + 
+dvAhe tasmAdgRhabhAramutsRjyeta vA tathatA] parisamAptaM kRtvA nirgami + + + +
+[3] va mayA vanaM gantavyaM kintu karttavyazeSaM kiJcidasti tatkRtvA yAsyAmIti tadetat yat kriyate.
+yadarthaM ca kriyate tadubhayaM kRtvApi yadi puna: parityAjyameva tena tarhi kRtena ko guNa ityakarttavyamevaitat |
+tasmAnna tadapekSayA kAlakSepo yukta iti |
+kRtyAkRtyavicAra + + + 
+[4] ti tamAmraphalaM gRhItaM so’nyena pRSTa: kimanena kariSyasIti | sa Aha | prakSAlya parityakSyA-
+mIti | evaM yadi viSayA: parityAjyA: kiM tai: paryyanviSTai: yathAhi kazcit sArthiko gamana + + pASANaM 
+nirghaSayitumArabdha: sa pRSTa: kiM karoSIti tadeva nidarzayati sma + + + +
+[5] jJeyAni | yadyapyarthato vanagamanaM pradhAnaM tathA pyAtmAtmIyasaMgavatosmAdbhayamutpadyata iti | ucyate |
+niyamAdvidyate yasya marttyo’hamiti bhAvanA |
+tasya saGgaparityAgAt mRtyorapi [bhayaM ku] ta: ||24.
+iha yasya kasyacit prAjJasyAgamAnusAreNa maraNadharmmAhamiti bhAvanA ni + + + 
+[6] tAvadbhayaM nAsti | kuta eva vanagamanAt putraviyogAt vA bhayaM bhaviSyatIti | ato maraNAnu-
+smRtibhAvanAyAmeva yoga: karaNIya: | nirviSIkaraNAGgulIyakarabandhanavat | saviSAnnaparityAgavacca | yathAhi
+nirviSIkaraNAGgulIyakaM kare vadhyate | tathA vidvadbhi: klezA + + + +
+[7] gena ni:zreyamamiti |
+AcAryyAryyadevIye bodhisattvayogAcAre catu:zatake nityaviparyyAsaprahANopAya-
+sandarzanaM prathamaM prakaraNaM samAptam ||1||
+uktastAvat prathamena prakaraNenAnityanityamiti viparyyAsasya prahANopAya: | + + + + +
+[8] sati zarIre adhyAtmasamutthAni caturuttarANi catvAri vyAdhizatAnyutpadyante dhAtuvaiSamya 
+nimittAni vAhyajAni ca loSTadaNDazatruzItoSNadaMzamazakazarIsRpAdisaMsparzanimittAni | tasmAdaneka 
+du:khodayahetu + + + + + [36]
+@456
+tathA du:khasya pAtraM bhavati | api vA sukhena bhAvayitumazakyatvAt tadviparIta + + + + + +
+gamyate tathAhi ||
+zarIraM sucireNApi sukhasya svaM na jAyate |
+pareNAbhibhavo nAma, svabhAvasya na yujyate ||32.
+sucireNApi kAlena testai: sukhopabhoganimittai rviSayairUpacaryyamANamapi sukhasya svaM zarIraM na 
+jAyate du:khasvabhAvatvAt | yathA nAma kaThinasvabhAvAnAM trapusIsarajatasuvarNAdInAM yadyapyagnisaMyogAddravatvaM 
+bhavati | tathApi teSAM dravatvaM svaM naiva bhavati, kaThinasvabhA[2]vattvAt | tathA zarIrasya du:khasvabhAvatvAt |
+anAtmIyena sukhena sucireNApi na zakyamAtmIyatvaM karttumiti du:khameva zarIram || kokilapotavat, yathA
+kokilapota: kAkena sambarddhita: kokilasyaiva bhavati na kAkasyevaM na sukhasya zarIraM | bhavati cAtra |
+du:khAtmakaM zarIraM, sukhasya kiM svIkaroSi mohAndha |
+nahi jAtu kRSNalohaM sucirAdapi hematAM yAtIti ||
+syAdetat, sadapi du:khaM nAsaMviditamanarthAyatanam | tathAhyeke jAtyA prabhRtyAmaraNA[3]ntA ekAnta-
+sukhino dRzyante | agrasattvAzca mahati pade nivezitAsyAstadvyAsaGgAnna sambedayante | tatkathaM du:khAtmakaM 
+zarIramiti | ucyate ||
+agryANAM mAnasaM du:khamitareSAM zarIrajam |
+du:khadvayena lokoyamahanyahani hanyate ||33.
+dvibidhaM khalu du:khaM zArIraM mAnasaJca | tatra ya ete sarvvasukhopakaraNasampannA: ayyA: agra-
+kulInA mahAbhogAsteSAM sthUlecchAnAM mahata: padasyAbhIpsitasya durApatvAt IrSyAbAhuleyneSTalo [4] bhajaM 
+mAnasaM du:khamanapAyi teSAM | ye punareva nIcakulInA azana-zayana-zaraNa-vasanaviprahINA adhamattvAtte 
+zArIreNa du:khena hatA eveti kuta: kasyacit sukhAvakAza ityevam sarvva evAyaM loko du:khadvayenAha-
+nyahani hanyate | tasmAdatra na kazcit svabhAvena sukhI vidyate | adhikRtahastyAropitadarzanamanyupari-
+toSaNavat || kenacidrAjJA hastini durddAnte kazcidAropito vAhayeti | tena ca sa hastI samyak 
+preri[5]tastato rAjJA parituSTena sammAnita: | tasya puruSasya sammAnaM dRSTvA hastyadhikRta: puruSa: du:khI 
+sambRtta: | tato’sya bhayAdaurmmanasyamutpannam | dvitIyazca hInapuruSastena rAjJA tasmin hastinyAropito 
+vAhayeti | tena na zakita: | sa rAjJA zArIreNa du:khena yojita: | adhikRtasya ca paritoSa 
+utpanna: | tatraikasya mAnasaM du:khamabhUt dvitIyasya zarIraM | tadvat mahatAmavamAnAnmAnasaM du:khamutpadyate 
+hInAnA[6]ntu tAD+anAcchArIram | bhavati cAtra | du:khadvayena lokaM vihanyamAnaM svabhAvadu:khArttaM dRSTvA 
+kastaM vrUyAt sukhIti karuNAtmaka: puruSa iti | atrAha | yadyapi du:khadvayaM vidyate | tathApi tanmahatA 
+sukhenAbhibhUtaM na jJAyate iti | ucyate | kuta: sukhasya mahattvaM du:khavidheyasya kalpanAkhyasyApi dharmmasya 
+pratibaddhavRttitvAt | tathAhi ||
+@457
+kalpanAyA: sukhaM vazyaM vazyAddu:khasya kalpanA |
+atosti kiJcit sarvvatra na du:khAdva[7]lavattaram ||34.
+yadA khalvayaM puruSa evaM kalpayate dAtAhamIzvarohamiSTAnindriyArthAnupabhuJje’hamiti | tadAsyaivaM 
+parikalpayato mAnasaM sukhamutpadyate | sukhasamarpiNAmapi paratastadapAyamAzaGkamAnAnAM bhogavicchitti-
+kalpanayA punastanmAnasaM du:khaM nivarttata ityevaM sukhasyotpAdanirodhayo: kalpanAvidheyatvAt kalpanAyA:
+sukhaM vazyaM bhavati | du:khantu naivam | nahyasti kAcit kalpanA yA du:khasyopaghAtAsAmarthya[8]muparundhyA-
+dityata: sukhavanna du:khaM kalpanAvazyam || yattu khalvidaM dRSTaviSayasaMbhogasukhaM yA ca sukhodayAnukUlA kalpanA, 
+tadbhayamapi du:khamupajAtamupahanti | tathAhIndriyArthamupabhuJjAnopyayamanyatamena du:khenAbhibhUta: saha kalpnayA
+tatsarvvaM sukhamapahAya du:khameva pratisambinte na sukhaM || tadevaM sukhakalpanAyA du:khavidheyatvAt du:khameva 
+balavattaraM na sukham | sapatnIputramatkAradu:khitAvat | sapa[32 ka]tnIdvayasyaikA mRtaputrA dvitIyA saputrA |
+tatra yA mRtaputrA sA taM sapatnIputraM satkriyamANaM dRSTvAtIva zocati sma | mA pRSTA kasmAt mRtamabhISTaM 
+zocamIti | mA prAha nAhaM taM zocAmi api tu etamahaM sapatnIputrI jIvatIti | sA pareNa samayena 
+sapatnIputre glAne grAmAntaraM gatA | katipayairahobhistaM grAmaM upazliSTA: mRtakazca tasmAt nihriyate | tathaivaM 
+kalpitam | sa eva sapatnIputro mRta iti | evaJcAsyA: parikalpyAtIva saumanasyaM jAtam | vRzcikena 
+cA[2]GgAvayave daSTA | tadasyA: kalpanAvazena saumanasyaM jAtaM viSadu:khenAbhibhUtam | ato na du:khAdvalavattaraM 
+kiJcit kvacidasti | Aha cAtra |
+viparyyAsAdyato jAtam sukhaM tasmAt sudurlabham |
+du:khanta bhUtaniryyAtantasmAttadvalavattaram ||
+atrAha | yadyapi sukhaM durllabham tathApi zarIrasyApID+AkaratvAt tadAtmIyam vahvapi du:khaM
+pID+AkarAvAt parameva bhavati iti | ucyate |
+kAlo yathA yathA yAti du:khavRddhistathA tathA |
+tasmAt kaDevarasyAsya paravaddR[3]zyate sukhaM ||35.
+yasya khalu zarIrakAlo yathA yathA varddhate vAla-kaumAra-yauvana-sthAvireSu tathA tathA du:khasyA-
+tivRddhirdRSTA na sukhasya | yasmAccaivam vivarddhamAnasya zarIrasya pRSThata: pRSThata: sukhamapasarpati, tasmAdasya 
+zarIrasya du:khamevAtmIyaM dRzyate sukhantu parabhUtamiti | dIrghAdhvagavat | yathA dIrghAdhvagasya 
+dine dine tIvrataraM zramadu:khaM pathyadanaparikSayadu:khaM ca bhavati evaM sarvvakAlaM pRthakjanA yathA[4]yathA 
+ciraM jIvanti tathA tathA jarAdu:khamanuprApnuvanti maraNasya cAbhyAsIbhavanti | Aha cAtra |
+snehAdivAsya du:khaM purata: purata: prayAti yannityam |
+tyajati ca sukhaM zarIraM paravat tasmAtparaM bhavati ||
+atrAha | yadyapyasya zarIrasya du:khaM svabhAva: tathApi sukhahetupratIkAro yasmAdvidyate tasmAnnAtma-
+zarIrAdudvega: kAryya iti || ucyate |
+@458
+vyAdhayo’nye ca dRzyante yAvanto du:khahetava: | [5]
+tAvanto na tu dRzyante narANAM sukhahetava: ||36.
+iha zarIrasya du:khahetavo yAvanto dRzyante, adhyAtmasamutthitA dhAtuvaiSamyahetukA vyAdhaya: anye ca 
+vAhyA: zItAdinimittA aniSTasaMsparzA: | tAvantodhyAtmavAhyahetukA: sukhahetavo asya zarIrasya naiva dRzyante |
+yasya cAlpA: sukhahetavo’neke ca du:khahetava: zarIrasya tasmAt sukhahetusadbhAvAt du:khAnnodvega: karaNIya[6]
+iti | tanna | rAjaduhitR-svayaMvaraprArthanAvat | vaizravaNaduhitRharaNamAndhAtRvat ca | ye rAjaduhitaraM svayaMvarAM 
+prArthayante te du:khena saMyujyante | ekasyaiva hi sA sukhahetu rbhavati na sarvveSAm | vahavazca prArthayante na 
+cAsAdayanti tato du:khino bhavanti | tathA sattvAnAM vahavo du:khahetavo’lpAstu sukhahetava: | tathA vaizravaNa-
+duhitRharaNe mAndhAtRvat anekadu:khahetavo bhavantyubhayo[7]rvalavattvAt na tu tathA sukhahetava: | Aha cAtra ||
+sukhamudavindupratimaM du:khantu samudravArisaGkAzam |
+kAye matvA vidvAMstatra sukhaM manyate nu katham ||
+atrAha | yadi sukhaM nAma na syAt nAsya vRddhirdRzyeta | yasmAcca sukhasya dRzyate vRddhistasmAt 
+sukhamastIti | ucyate |
+sukhasya varddhamAnasya yathA dRSTo viparyyaya: |
+du:khasya varddhamAnasya tathA nAsti viparyyaya: ||37.
+sukhasya hi yathA yathA vRddhirbhavati | tathA tathA tasya varddha[8]mAnasya viparyyayo dRSTa: | yadi 
+ca svabhAvena sukhaM syAt na ta + + + + + + + STha: syAt sukhasya tu varddhamAnasya tathA viparyyayo’sti na 
+du:khasya | tathAhi || sukhamabhivarddhamAnaM kAlaprakarSeNAvagItaM alparasamAjAyate | du:khaM punarabhivarddhamAna-
+madhika[ta]ramantApakarkazaM sutarAM zarIraM cetazcopahanti | tadevaM vRddhau viparyyayAbhAvAt du:khasvabhAvaM zarIraM 
+na sukha[M] svabhAvato’sti | mAndhAtRpatanava[t] [32]
+@459
+{1 [##Leaf 15 of the MS.##]}kasyacidrAjJo naimittikenAveditaM varSaM patiSyati yastenAmbhasA kRtyaM kariSyati sa unmAdaM gamiSya-
+tIti | atha rAjJA svArthaM kUpazchAditastacca varSaM patitaM tatsa(sva ?)janastenAmbhasA kRtyaM kRtvonmatto’pi sanneka-
+prakRtitvAt AtmAnamevaM svasthaM manyate rAjAnamunmattaM | tato rAjJA tadarthamupalabhya tadevAmbha upayuktaM mA 
+mAmunmatta iti parikalpyAvahaseyurvinAzayeyurvvA iti | evaM yadyeka eva mUcI syAt sa kuSThIva varjyeta yadA tu 
+sarvva eva mUtriNastadA kutrai[2]SAmazucisaMjJA bhaviSyati | kvacicca deze sarvvo jano galagaNDAbhibhUta: parama-
+virUpa: tatra cAnyo darzanIyo gata: sa tai: parivarjyate paramavirUpo’Ggavikala iti | Aha cAtra |
+yadi nirddoSa: syAlloka: sarvvo’pi tatra rajyeta |
+doSastu vidyate yasmAttasmAt santastamujjhanti ||
+atrAha yo nAma yuvA bhUtvA sarvvopakaraNasampannaM yuvatijanaM tuSTyA nopabhuMkte sa jIvaloke parama-
+vaJcito bhavati | tathA hi surabhigandhAmoda[3]samvAsAdasya tadazaucamapanudyate | tatra zuciM sevamAnA-
+nAmadoSa iti | ucyate |
+pratinAsikayA tuSTi: syAddhInAGgasya kasyacit |
+rAgo’zucipratIkAre puSpAdAviSyate tathA ||73.
+yathA kazcidapanItanAsiko vahan kRtrimAM nAsikAM sakalAGgamAtmAnaM manyate tuSTiJca gacchati |
+sa hi bAlajAtIyatayA yayaiva svakAyapratinasikayA lajjitavyaM tayaiva tuSTiM janayati | tathai[4]va kAmeSu 
+prakRtyA lolajAtIyasya bAlajanasya mohAdazucipratIkAreSu surabhikusumagandhAlaGkArAdiSvazarIrasvabhAveSva-
+pyata: sarAgo bhavati | pratividhAnena zucimAtmAnaM paraJca manyate | na hi kusumAdaya: samudvahanto’pi 
+sthAyinaM gandhAtizayamalamenaM lazunamiva vAsayitum | ghRtaliptaviD+AlanAsikAsvAdanavat | suvarNanAmikA-
+darzanatuSTivacca | yathA viD+Alasya ghRtena nAsikAM mra[5]kSayitvA rUkSmAnnapiNDI dIyate, sa tAM snehayuktAmmanyate |
+yathA ca nAsikAviyukta: pratinAsikAM sovarNIM kArayitvA tAM dRSTvA tuSTimutpAdayati | evaM puSpAdibhirazuci-
+pratIkAraM kRtvA kAye rAgamutpAdayanti | Aha cAtra |
+vraNo’yamasya kAyasya gandhamAlyAMzukAdiSu |
+vraNalepanabhUteSu mohAt saMrajyate jana: ||
+atrAha [6] asti rAgasya kAraNaM puSpAdayo, yadi ca na syAt kAraNaM, na tai: kAyeSu jano 
+rajyeteti | ucyate |
+zuci nAma na tadyuktaM vairAgyaM yatra jAyate |
+na ca so’sti kvacidbhAvo niyamAdrAgakAraNam ||74.
+svabhAvena khalu zuci nAma vastu na kiJcidasti | tatra tAvad yadanupahatadarzanA: prakSaritAmedhya 
+vIjadarzanaM kAyamIkSamANA virajyante | tasmAttadvairAgyakAraNatvAt purISapuJjavat zarIraM zucitvenAnupapannaM 
+@460
+puSpAdayopi mi[7]yamAdrAgakAraNatvenAnupapannAstatrApi vairAgyasya madbhAvAt | tathAhi kAmavairAgyalAbhinAM 
+teSvapi vairAgyamupajAyate | api khalu svabhAvena na hi kiJcinnAmAsti yanniyamena rAgakAraNaM syAt, 
+tathAhi puSpAdInAmapi zucisaMjJitAnAM paryyuSitAnAmanyathAbhAvAt prAtikUlyamutpadyate | yadi teSAM 
+svabhAvena zucitvaM syAt nAnyathAbhAva: syAt | tasmAnna teSu svabhAvena zucitvamasti | yadi ca niyamAt 
+puSpAdayo bhA[8]vA rAgasya kAraNaM syustatra sarvve’pi sarvvadApi rAgaM janayeyurna caitadevamiti | na puSpA-
+dayo rAgasya kAraNaM yujyante | ekasyeSTAniSTaduhitRdarzanavat | kazcid vaNigabhijAtAyAM duhitari pravAsaM
+gata: sa kAlAntareNAgata: | sA cAsya duhitA prAptayauvanA tasyAdhiSThAnasya vahirudyAne kanyAbhi: saha
+krID+ati sma | tasya tAM dRSTvA tIvro rAga utpanno yadA tu zrutaM duhitA tavaiSeti tadA virakta: [15 ka]
+evaM na sa kazcidbhAvosti yo niyamena rAgAya bhavati | yatra ca vairAgyamutpadyate tadazucirava-
+gantavyam | Aha cAtra 
+tatraiva rajyate yasmAt tatraiva ca virajyati |
+tasmAnniyamata: siddhaM na rAgasyAsti kAraNam |
+tadevamazuci zarIraM yathA du:khamanityaM ca tadvihitaM pUrvvaM pratipAdayiSyati anAtmatvaM, ta ete 
+catvAro viparyyAsA: idaM na cintyate kimete catvAro viparyyAsA: ekasmin padArthe sambhavantyAhosvit 
+neti | ucyate |
+anityamazubhaM du:khama[2]nAtmeti catuSTayam |
+ekasminneva sarvvANi sambhavanti samAsata: ||75.
+yat khalu saMskRtaM pratItyasamutpannaM tadanityaM kSaNikatvAt | yaccAnityaM tadazubhamudvegakaratvAt |
+yaccAzubhaM taddu:khaM pID+AkaratvAt | du:khaJca yattadanAtmakamasvatantratvAt tadevamekasminneva svabhAve samAsata: 
+catvAro viparyyAmA: sambhavanti | na caitat saMvidyamAnamapi vAlerviparyyastai: paricchidyate | parikalpyate tu 
+tadviparItatvaM bhAvAnAm | tadarha[3]ti prAjJa: yathAsthitamanityatvAdikaM bhAvAnAmadhItya nai:svAbhAvyAdhigame 
+ceta: samutsAhayitum | pizAcIsvabhAvadarzanabhItavat | kasyacit pizAcI patnIrUpeNa vyavasthitA sa tAM 
+patnIvadupacarati | yadA tu tena tasyA: du:khotpAdanena vIbhatsatayA avidheyatayA anAtyantikatvena
+svabhAvo dRSTastadA bhIto naiSA mama patnI pizAcyeSeti | tadA tasyAM virajyati | evaM saMskRtasvabhAvavadarzanA 
+virajyanti [4] prAjJA: | AhacAtra |
+yat saMskRtaM na tannityaM yadanityaM na tacchubham |
+na sukhaM tat yadazubhaM yaddu:khaM tadanAtmakam ||
+catvAro viparyyAsA ekasminneva saMskRte saMbhavanti yatastasmAt sarvve klezA avastukA iti 
+azucicintAnAma tRtIyaM prakaraNam |
+@461
+atrAha | uktastrayANAM viparyyAsANAM prahANopAya: | caturthasya viparyyAsasyedAnImucyatAM prahANopAya 
+iti | ucyate |
+ahaM mameti [5] vA darpa: sata: kasya bhavedbhave |
+yasmAt sarvve’pi sAmAnyA viSayA: sarvvadehinAm ||76.
+ahaMkAramamakArau khalvapi rAjanyAdhikyena varttete iti | tayo: pratiSedhena bhUyasA rAjaivAnuzAmyate |
+tatrAhaGkAra Atmana utkarSavizeSaparikalpanAdupajAyate ahaM prabhuriti | mamakArastu svIkRtArthavazitva-
+kalpanAyAmupajAyate | mameme viSayA iti | darpo dRptatA [6] garvvo mada ityartha: | bhava: saMsAra: karmmakleza-
+parAyattasya janmamaraNaparamparayA gatipaJcakaparyyaTanaM | tatra varttamAnasya kasya nAma viduSo ‘haMkAramamakArAbhyAM 
+darpa utpadyate | yadi hi kasyacit kvacit asAdhAraNamIzatvaM syAt tadA yujyetAsya tadAlambano darpo’hamevaiSAM 
+viSayANAM svAmI mamaiva caite viSayA iti vazitvadarzanAt | na caitat saMsAraparyyApannasya vAlasya sambha[7]
+vati | tathAhi sarvvasatvasAdhAraNakarmmanirjjAtA: sarvve rUpAdayo viSayA: tadeSu sarvvasatvasAdhAraNaparibhogeSu 
+sAdhAraNa-taru-SaNDa-muNDapAdiSviva na yukto’haMkAramamakAraparigrahAddarpa: | rAjanaTavat | yathA rAjanaTo 
+muhUrttena naTo muhUrttena rAjA muhUrttenAmAtyo muhUrttena brAhmaNo gRhapatirdAsazca bhavati | tathA rAjA-
+navasthita: | paJcagatiraGganATanAt | bhavati cAtra |
+aizvaryyabhogasampadvA ya[8]smAt puNyena labhyate |
+tasmAt karmmAtmake loke na darpo yujyate sata: ||
+atrAha | yasmAt sarvvArambho rAjanyadhikRta: tasmAdadhikAranimittastasya darpo yujyate iti | ucyate |
+gaNadAsasya te darpa: SaD+bhAgena bhRtasya ka: |
+jAyate’dhikRte kAryyamAyattaM yatra tatra vA || 77.
+samudbhUtAdattAdAne’pi prAthamakalpike loke kSetraparirakSArthaM pratibala: puruSo mahAjanena dhAnya-
+SaD+bhAgavetanena bhRta: | kathannA [15]
+@462
+{[##1 Leaf 16 of the MS.##]}ntraM tadAgninA sarvvasthAnAni dagdhAni | tatra bahUni prANisahasrANi ghAtitAni tasya tena 
+rAjJAnumoditam | tadevaM yatra mauDhyaM tatra dayA na vidyate | yatra dayA nAsti tatra kuta: puNyAvApti: |
+rAjJAM caiva sarvvamasti | ata eSAM gopAyatAmapi dharmmo na saMbhavati | Aha ca |
+ahiMsA mUlaM dharmmasya yasmAdAhU: kRpAtmakA: |
+tasmAnna vidyate dharmmo nirddaye tu narAdhipe |
+atrAha | RSipraNItena hyatra dharmmeNa hiMsAM kurvvato’pi rAjJo nAstyadharmma iti | ucya[2]te |
+RSINAM ceSTitaM sarvvaM kurvvIta na vicakSaNa: |
+hInamadhyaviziSTatvaM yasmAtteSvapi vidyate | 89.
+RSINAmiha kAyavAGmanasAM viceSTitaM sarvvameva paNDitena na karttavyam | yasmAt RSiSvapi 
+hInamadhyaviziSTatvaM vidyate | tatra yasya zAstre hiMsA kAraNavazAt dharmmo bhavati sa hIna: | yasya syAnna syAt 
+iti saMzaya: sa madhya: | yasya tvadharmsya eva hiMseti sa viziSTa: | tasmAt sarvveSAM RSINAM zAstramapramANam |
+tatra yadiSTamRSipraNItena hye[3]va dharmmeNa hiMsAM kurvvato’pi rAjJo nAstyadharmma iti tanna | vizvAmitravaziSTha-
+jAmadagnyavat | vizvAmitravaziSThajAmadagnyAnAM cauryyAbhakSyabhakSaNAgamyagamanaprANAtipAtazravaNAt, tatra vizvA-
+mitrasya cauryyamabhakSyabhakSaNaM ca zrUyate zvapacebhya: kila zvamAMsamapajihIrSuNoktam |
+na te zakyaM tattuM jIvatA karmma pApaM prAyazcittaM hyetadasmadvizeSAt |
+mRtazcAhaM tarttuM pApametanna zakta: tasmAhyetat bhakSayiSye zvamAMsaM || [4]
+vaziSTho’kSamAlAyAM caNDAlyA[M] akSipratipanna: zrUyate | tata: kila putrA AjAtA iti | jAma-
+dagnyenApi vatsApaharaNakopAt kArttavIryyasyArjjunasya vAhusahasraM pAtitaM, evaM hyAha |
+dAntasya kSamiNo’pi durjjanajanai staistairvylIkavraNai: 
+sAmarSaM kriyate balAdapi munervyutkrAntadhairyyaM mana: |
+gorvatsApanayena dohasamaye hambhAravaistatkRtaM 
+yadrAmasya sunirmmalasya parazordhArAM praviSTA nRpA: ||
+[5] tathA tenaiva mAtrA saMcoditena tri:saptakRtva: pRthivI ni:kSatriyA kRtA | evaM ca kila tasya 
+matroktam |
+RjunA mRdunA tapasvinA zatazo mAnyatamena cAhave |
+na jagasya vinAzakAraNaM na parairekamapi vyapekSitam ||
+apakAramayena karmmaNA na narastuSTimupaiti zaktimAn |
+adhikAM kuru vIra yAtanAM dviSatAM mUlamazeSamuddhara || iti ||
+@463
+tatastasya dhanurninAdazabda: zrUyate |
+prAkArazRGgANyativartta[6]mAno 
+gRhANi bhindanniva pArthivANAm |
+sa jAmadagnyasya dhanurninAdo 
+jagrAha kezeSviva kArttavIryyam ||
+Aha cAtra, na tat pramANaM karttavyaM zAstramAtmArthapaNDitai: |
+yasyArthaM puruSA: kRtvA brajeyurdurgatiM dhruvam ||
+zAstrArthaM hi pramANIkRtya sphItAM vasumatIM samyak paripAlitavanto yasmAt purAtanA rAjAna-
+stammAdapi zAstraM pramANam | ucyate |
+putravat pAlito loka: purata: pArthivai: [7] zubhai: |
+mRgAraNyIkRta: so’dya kalidharmmasamAzritai: || 90.
+kaliyugAtpUrvvotpannai: pArthivaizcakavarttyAdibhi: zubhairyuktaparIkSakai: dharmmAnukUlaM zAstraM pramANI-
+kRtyAdharmmAnukUlaM parivarjjya dazakuzalakarmmapratiSThitai: priyaikaputrakavat jagatpremAnugatai: pAlito loka: |
+sAmprataM tu kaliyugotpannai: pArthivai: svacittadaurAtmyaparAyattairarthamAtratRSNAparairadharmmAnukUlaM zAstraM pramANIkRtya
+dharmmAnukUlamutsRjya ta[8]thAyaM loko ni:karuNairUdvAmito yathA mRgAraNyIkRta ityato’pi nAdharmmayuktaM zAstraM 
+pramANamiti | aparisaMjAtekSumlecchapID+anavat | yo hi dasyurmohAdaparisaMjAtabhikSuM pIDayati so’narthameva 
+karoti nArthaM, tadvat rAjA cet pAlanIyAn na pAlayati, na tasyaihikArtho na pAratrika: | apuNyakaraNAt |
+Aha ca |
+svarASTrapararASTreSu na vibhAgakRto’tra yat |
+prajA bhavanti sukhina: tacchAstraM saMskRtaM budhai[16 ka]: ||
+atrAha | rAjJa: khalviha zatrUMzchidreSu praharato nAstyadharmma: zAstradRSTitvAditi |
+ucyate | chidraprahAriNa: pApaM yadi rAjJo na vidyate |
+anyeSAmapi caurANAM tat prAgeva na vidyate | 91.
+yadi khalu zatrUnanyAn vA chidreSu praharato rAjJa: pApaM na vidyate | nanu rAjataskarAdanyeSAmapi
+caurANAM dhanArakSakANAM kiMcit chidraM prApya paradhanamapaharatAM chidraprahAritvAt prathamaM pApena na bhavitavyam |
+chidraprahAritvena teSAM jyeSThabhUtatvAt | pazcAd rAjJo [3] na caitadevamiSTamityato yadiSTaM rAjJa: chidreSu 
+praharata: pApaM nAstIti tanna | ajitasenarAjaputravat | kenacit kila rAjJA amAtya: prokto yadA me 
+maraNaM bhavati tadA asudbhrAtaramajitasenaM rAjakumAramabhiSekSyasIti | tatastenAmAtyena tasmin rAjani mRte 
+chidraprahAriNA sa rAjakumAro ghAtita: | AtmanA ca tadrAjyaM avaSTabdhaM | tasyAtIvAkIrtti rloke pratiSThitA 
+pApAcAra iti | paraca cApuNyam | tadvat rAjJAM chidraprahA[3]riNAM kathamakIrtti: pApaJca na bhaviSya-
+tIti | Aha cAtra |
+@464
+yat kRSNaM karmma kRtaM na tasya saMjAyate phalaM zuklam |
+nahi pUtivRkSabIjAccampakavIjAGguro bhavati ||
+atrAha | rAjJo raNamukhe zatrUn jitvA mahAn paritoSo bhavati svazauryyavikramArjjitAM ca dhana-
+sampadamanupazyata: | athAsya raNe mRtyurbhavati, tadA dhruvamasyAtmana: parityAgAt svargagAmitvamiti | ucyate |
+sarvvasvasya parityAgo ma[4]dyAdiSu na pUjita: |
+Atmanopi parityAga: kiM manye pUjito raNe || 92.
+iha dyUtamadyavezyAGganAsu viSadaM sarvvasvamapi parityajanta: puNyabhAjo na bhavanti | vyasanAnupadatvAt 
+tattyAgasya na sajjanamanAMsi ArAdhayanni | evaM AtmabhAvaparityAgo raNe na pUjyate | tasyApuNyAya-
+tanatvAt | kathaM hi nAma yuddhe sasaMrambhamabhivAdhata: kRpAviparyyAsAt parasminniSThurAzayasya vinipAtanAya 
+parazirasi vini[5]viSTadRSTe: samudyatAyudhasya pareNa vinipAtitasya svargagamanaM sambhAvayituM yujyate | tatra 
+yadiSTaM raNamukhe dhruvaM mRtasya svargagamanamiti tanna | AbhIrIzvazurazarIradAnavat | kAcidAbhIrI 
+bharttari proSite zvazuramatIvAvamanyate sma | atha ma vRddhAbhIra: tasminnAgate putre tamarthamAveditavAn | evaM 
+cAha, yadi te patnI punarapyasmAsvavamAnaM kariSyati na te gRhe vatsyAmIti | ma ca na strIbhIru: pi[6]-
+tRbhaktazcAta: tAM paribhASyAha | sa[#] cet tvaM pitaramavamanyase, na te mama gRhe vAsosti | du:karamapyasya 
+kuru durddeyaJcAsmai prayaccheti, tathA tathaiva pratijJAtam | atha mA puna: proSite bharttari cakitacakitA 
+pareNAdareNa zvazurasya zuzrUSAM cakAra | snAnAnulepanamAlyadAnAnnabhojanapAnAdinA praNItena divasa-
+mupasthAya rAtrAvuSNodakenAsya pAdau dhAvayitvA tailena mrakSayitvA vastrANyava[7]mucya nirvvasanA duSTayogA-
+hitena krameNa zayanamAroDhumArabdhA | vRddhAbhIra Aha | pApe kimidamArabdhamiti | AbhIryyAha |
+bharttrAhamuktA duSkaramapi tvayAsya kAryyaM | durddeyamapi deyamiti na cAsmAdduSkarataramasti durddeyAcca durddeya-
+miti | vRddhAbhIro’bravIt | eSa upAyo hIto nirgamanAya tuSTA bhava | na punariha gRhe sthAsyAmIti
+uktvA nirgata: | sa cAsya putra Agata: | pitaramapazyan patnIM pRcchati | sAvocat | svAmin na mama 
+ki[8]Jcit parihINaM pareNAdareNa sa mayA Rtusukhena snAnAnulepanabhojanAdinopacarita iti sarvvaM 
+nivedayati | tatastena svAminA nirbhartsya gRhAnni:kAmitA | pitA ca prasAdya svabhavanaM pravezita: | yathAsyA 
+AbhIryyA duSTabhAvAyA: zarIrapradAnaM na pUjitam | evaM rAjJAM duSTacetasAM raNe jIvitaparityAgo na pUjita: |
+loke ca duSTatvAt madyAdiSu sarvvasvaparityAgo na pUjita iti | Aha ca |
+raNe mRtasya gamanaM merUpR [16]
+@465
+{1[##Leaf 17 of the MS.##]}rmmaNA |
+vipropi karmmaNA zUdra: kena manye na jAyate | 98.
+yadi hi idAnIM akSatriyo’pi kSatriyakarmma kurvvan kSatriyo bhavati | zUdro’pi hi nAma brAhmaNa-
+karmma kurvvan brAhmaNo bhaviSyati pratigRhNannadhIyAnazca; tathApyanyopyanyadIya karmma mamAcaran sa eva syAt |
+tatra yadiSTaM karmmaNA kSatriyo bhaviSyatIti | tanna | naupAragamanavat | yathA nau: pAraM gacchatyAgacchati |
+tatra nadyA: ubhayakUlasthitau vruvAte nau: pAraM gatA nau: pAraMgateti | na ca kiM[2]cit siddhaM pAramasti |
+sa evAsiddha: brAhmaNa: kSatriyo vA | yadi zUdra: karmmaNA kSatriyo bhavatyevaM vipro’pi karmmaNA zUdro 
+bhaviSyati | Aha ca |
+sadya: patati mAMsena lAkSayA lavaNena ca |
+tryaheNa zUdro bhavati yo vipra: kSIravikrayI ||
+ityAdi | Aha cAtra |
+karmmaNA yadi varNA: syurjAtistatra na kAraNam |
+na ca dvAbhyAM bhavantyete jAti: prAgdUSitA yata: ||
+atrAha | rAjyaizvaryyeNa hi mahatA mahato janasya za[3]knotyaizvaryyasaMvibhAgaM karttuM kAlena yata: tasmAt 
+mahataizvaryyameSTavyaM rAjJeti ucyate |
+pApasyaizvaryyavadrAjan saMvibhAgo na vidyate |
+vidvAnnAma parasyArthe ka: kuryyAdAyatIvadhaM || 99.
+satyaM rAjJA mahadaizvaryyaM mahatA kAlenopArjjitaM ; zakyaM mahAjanasya sambibhaktuM tattu na vinA mahAjana-
+pID+ayA zakyaM niSpAdayituM avazyaM ca mahAjanapID+ayA mahatA pApena bhavitavyaM, yathA[4]caizvaryyaM saMvibhajyate 
+naivaM tannimittamavadyamupacitaM sambibhaktuM pAryyate kevalamekAkinaiva taddu:khamanubhavitavyam | tatko’yamapaNDita:
+parasmai alpopakArArthaM sambibhakSyAmIti analpAnarthapradAnadakSamasAdhAraNamavadyamupacinvannAyatyA vadhamAtmana: 
+kuryyAttadidaM hriya: sthAnaM na madasya | mahiSopaghAtavat | zUnikadArakavacca | yathA mahiSa: sva[5]parArthaM 
+ekena hanyate bahubhi: paribhujyate | ghAtakasyaiva pApam | tathA rAjA rAjyaheto: pApaM karmma karoti, bahavazca 
+paribhuMjate | tathAca zUnikadArako’dharmmabhayAnna mArayati | sa ca svajanenocyate mAraya tvaM yastatrAdharmmo 
+bhaviSyati sa sarvveSAmasmAkaM samatayA bhaviSyatIti | tenopAyenoktaM mahatI me zirabhi vedanA tAM bhAjayatheti |
+ta Ucurnna zakyata iti | sa prAha | tat kathamapAyavedanA[6]samatayA bhaviSyatIti | Aha cAtra |
+anityamiha loke yat paratra ca sukhAvaham |
+tat karttavyaM manuSyeNa paratra sukhamicchatA ||
+@466
+atrAha | rAjJa: khalviha mahatyaizvaryye avazyameva mahatA mAnena bhavitavyamiti ucyate |
+dRSTva samAn viziSTAMzca parAM^zchaktisamanvitAn |
+aizvaryyajanito mAna: satAM hRdi na tiSThati || 100.
+parata utkarSamAtmana: pazyato mAna: syAt | sa cAnavasthita: parApekSa eveti na vidvAMso [7] 
+manyante | tasmAdapahAya mAnaM jagate hitamAdhitsunA gurava iva svAmina iva pare nAvamantavyA: | tadevaM kurvvANA:
+syureva te bhAjanaM sampadAM, jagadArAdhanapravRttatvAt vAsulapatnIvat | vAsulabrAhmaNasya patnI kathayati sma 
+na matsadRzI strI kAcit strIrUpeNa pRthivyAM saMvidyate na ca tvaM mAmanurUpeNa vastrAlaGkAreNArccayasIti |
+sA tenopAyena rUdranAmno rAjJo’nta:puraM pravezitA | tasyAstatra paricArikAM dRSTvA rUpamado na[8]STa: zrImeva 
+rAjapatnIm | tathA rAjJA’tmana: mamAn viziSTAMzca dRSTvA madaM cAhaGkAraJca yuktaM tyaktum | Aha cAtra |
+dIne rAjani tAvat mAno rAjJo na yujyate karttum |
+tulye zreSThe ca nRpe kuto’vakAzosti mAnasya ||
+ahaGkAraviparyyAsaprahANopAyannAma caturthaM prakaraNam |
+atrAha kuta: punarime zubhASitaratnAzayA yathAsthitalaukikArthatatvapratipAdakA vairAgyahetavo labhyante |
+ucyate, buddhebhyo [17 ka] bhagavadbhya: | kIdRzA: khalu buddhA bhagavanta: mahAkaruNAvezAt sarvvathAnindyAcintyA-
+zeSajagadarthasampAdanaparA: |
+tathAhi | na ceSTA kila buddhAnAM asti kAcidakAraNA |
+ni:zvAso’pi hitAyaiva prANinAM saMpravarttate ||101.
+buddhA bhagavanta: sarvvajagadanugrahAzayakSiptakarmmanirmmitatvAt “yathApratyayaM phalamiti” jagaddhitAdhAno-
+dayadakSAbhi: samIhAbhi: sakalaM jagadanugRhNanti | nahi sAsti kAcit kAyaparispandalakSaNA ceSTA yA 
+sattvopakArAnupayoginI[2]ti, AstAM jJAnapUrvvikA tAvacceSTA yo’pyayaM prerakacetanAvizeSAkSepanirapekSa:
+svaramavAhI janmana: pramRtyAmaraNAdaharnizamanuvarttate nizvAsa: so’pi nAmaiSAM pravarttate janmabhRtAM hitAyaiva |
+tathAhyeSAM buddhAnAM bhagavatAM nizvAsA vinirgatyopari narakabhAjanAnAM mahAnta: kAlameghA vipariNamante, 
+kajjalAJjanarAzaya iva nArakajanamanoharA: saMcchAditAzeSanarkabhAjanamaNDalA: paTumadhuranirantara svani
+[3]tairAhlAdayanto nArakAn svaccha-svAdu-zItonmaktavAryoghanirnivArayanto nArakAgnim tatpratyayamapetadu:khAnAM 
+nArakANAM kasyAnubhAvAdidamupanatamasmAkamiti mImAMsAparigatahRdayANAM, mana:prasAdAyatanatAthAgatA-
+cintyarUpakAyasandarzanenAvarjjitacittasattAnAM buddhe bhagavati abhiprasAdAnvayakSayitAzeSAkuzalakarmmarAzInAM 
+tadanvyameva ca samAkSiptamokSabhAgIyAnAM atyantopakArA[4]nni:zvAsopi hitAthaiva prANinAM saMpravartate | eva-
+manvatrApi yojyaM | tadevaM matimAnavamitasaMsAradoSa: tatkSayodyukta: sarvvathA yathopavarNitasubhASitaratnAdhAre 
+tribhuvanagurau buddhe bhagavati prasAdapura:naramarhati mano nivezayitum | pArAzarakulabhikSuvat | kazcit bhikSu: 
+pArAzarakula gata: | sa yantrAcAryyagRhaM praviSTastena nimantrito mama gRhe tvayA varSA karaNIyA | ahaM 
+@467
+piNDapAtaM[5]dAsyAmIti | tena tatheva kRtaM  | tasya ca prAsAdasyAdhastAt bahUni yantrakAryyakaraNe patrANi santi |
+tatastena sa bhikSu: prAsAde sthApito’tra tvaM yathecchasi tathA tiSTheti | sa tasmai nirgatAya cIvaramUlyaM dattvA 
+bhRtakavetanaM dadAti sma | bhikSurAha | na te mayA kiJcit karmma kRtaM kasmAt vetanaM grahISyAmIti |
+dAnapatirAha | na tvaM muhUrttamapyakarmmaka iha gRhe kenacidIryyApathena sthita: | patrA[6]Ni cAsya darzayati, 
+lAbhaM ca tatkRtaM | yathA tasya bhikSo rna kazcidIryyApatho’sti yo’sya nopakArAya bhavet tadyantravAhanena |
+evaM bhagavato buddhasya na kAcit kAyavAGmanazceSTAsti yAlpA vA anarthA vA syAt | Aha ca |
+zarIravAco manasAM pravRtti: svArthA munernAsti na cApyanarthA |
+mahAkRpAviSTavizuddhabuddhe: parodayAyaiva puna: pravRtti: ||
+taM copAsInA: sarvvavyasanAnyati[7]varttante | yAvanmaraNabhayamiti | tathAhi |
+yathA, sarvvasya lokasya mRtyuzabdo bhayaGkara: |
+priyajIvitaviyogakArakatvAt |
+tathAyaM sarvvavicchabdo mRtyorapi bhayaGkara: |
+yata: tadvizeSasImAnamativarttante tAthAgatasya vartmana: samyaganuSThAtArastathAnuSThAnaM vIjAni ca 
+kuzalamUlAni tathAgatanAmadheyazravaNAdAdhIyante | yathA coktaM bhagavatA ye mama nAmadheyaM zroSyanti 
+sarvve te trayANAM yAnAnAM [8] anyatamena yAnena parinirvvAsyantIti | bandhanamokSabandhanAdhikRtajvaravat |
+kazcidbandhanAdhikRta: puruSo rAjakulena sthApito yasya sarvvabandhanamAyattam | rAjJA ca putre jAte  sarvvabandhana-
+mokSo ghoSitastena ca zabdena sarvvaloko harSita: | makSaivaiko bandhanAdhikRto bhIto jvaritazca taM bandhanamokSa-
+zabdaM zrutvA | evaM tathAgata utpanne sarvvaloka: prIto varjjayitvA mArama | Aha cAntaza: buddha 
+ityeva ghoSo [17]
+@468
+gItAni cakAra | yathAsya rAjJa: snehaviparyyayAnavasthAnAcconmAda: tadvat pRthakjanAnAM | vidvAnsastasmAt 
+snehaviparyyAmAt cittAnavasthAnAdanucintayantyunmAdam | tathAhyeSAM yatraiva viSaye tIvrAbhiSvaGgastatraivAtIva-
+parityAgo dRzyate, tat ko bhavasthannavrUyAdunmatta iti | Aha cAtra |
+umAdAt karmmaivAnarthaM kurute narasya nonmAda: |
+na hyunmAdazcitraM karoti puruSaM yathA karmma ||
+tadevaM sUnAsthAnasamacAdunmAdasthAnatvAcca paNDitai: pariva[2]rjjanIyo bhava:, sa ca sarvvakarmmapravRtti-
+nirodhena parivarjjayitavya: | asti cAsya bhavasya parivarjjanopAya: sarvvakarmmakSaya:, sa kathaM bhavatIti 
+tadupAyAvedanAya Aha |
+hIyamAnAM rujaM dRSTvA gamanAdau viparyaye |
+sarvvakarmmakSaye tena karoti matimAn matim ||159.
+yathA gamanAdijanitA ruja: caMkramaNAdiparivarjjaneSu pUrvvAvedhaparikSayAt anupUrvvaM kSIyante, tathA 
+sarvveNa sarvvaruja: sarvvakarmmopacchedaistata: sa[3]kalocchedamanvayamAna: kuzala: sarvvakarmmakSayAyAyaM yatate, tathA 
+anyo’pi yatamAnastAM jAtiM lapsyata ityAsthAtavyo yatna: sarvvakarmmakSayalabhye sarvvavedayitRtvanirodharUpeNa 
+matimatA nirvvANe, dIrghAdhvagavat | yathA dIrghAdhvago yathA yathA gacchati tathA tathA du:khIbhavati viSayasya 
+zramadu:khena pathyadanaparikSayadu:khena ca, tathA bAlA: saMsArAdhvani varttamAnA Azrayadu:khena zubhaka[4]rmmapari-
+kSayadu:khena ca bAdhyante | athavA dIrghAdhvago gamanadu:khena pID+ita: sthAnamArabhate tato’sya gamanadu:khaM pari-
+varttate, sthAnadu:khamapi niSadyayA, niSadyAdu:khamapi niSadyayA, yadi punarniSadyAdu:khaparisvinnastattyAgA-
+danyadIryyApathAntaraM nArabhate tadAsyeryyApathikadu:khanivRttiratyantaM sambhAvyeta | evaM sarvvakarmmakSaye’pi vAcyam |
+tadevaM sarvvakarmma[5]kSaya: sarvvadu:khanivRttikAraNamiti sarvvakarmmakSaye matimatA mati: kAryyeti | Aha cAtra |
+yathA sukhaM caitamikaM zreSThaM kAyasukhAdapi |
+tathA karmmakSayasukhaM klezakSayasukhAdiha ||
+itazca yukta: saMsAratyAgo dhImatAM bhayakAraNatvAt, tathA hi |
+yadaikasyApi kAryyasya dRzyate nAdikAraNam |
+tadA kasya bhayanna syAt dRSTvaikasyApi vistaram ||160.
+iha ekasyApi tAvat kAryya[6]sya bhautikasya, vAtikasya vA paittikasya vA pUrvvaMpAramparyyeNa parIkSa-
+mANasya AdikAraNaM yadA na dRzyate anAdimattvAt jagatpravRtterevamevaikasyApi kAryyasyAnantyaM savistaraM dRSTvA 
+tadA kasyeha puruSasyAdhigatabhayasya jagatpravRttidarzane bhayaM na syAt | yuktantvasyAparimitaprabandhagaDanadu:saJcara-
+tarAyAM saMsArATavyAM nityamevodvijituM, ta[7]danurUpaM ca yoniza: pradhAnaM bhAvayitum | ghaTavat | yathA hi 
+ghaTe’nekapratyayA mRtpiNDadaNDacakrasUtrodakapuruSaprayatnAdayo dRzyante ghaTakaraNe tAvat prAgevAnyeSAM gurutarANA-
+marthAnAM niSpAdane | Aha cAtra |
+@469
+kAlasyAnantatvAdAdizca  na vidyate yato jagata: |
+tasmAjjantordu:khaM pUrvvAM koTiM samAjJAtum ||
+api ca | yadayamabhilaSan tRSNayA parispandate, tasya yadi niyoga[8]ta: siddhi: syAt yuktaM 
+spandituM tasya ca |
+siddhi: sarvvasya kAryyasya niyamena na jAyate |
+niyamena kRtasyAnta: kiM tadarthaM vihanyase ||161.
+iha hi sarvvasyaiva kAryyasya prArabdhasya niyamena siddhirbhavati vA na vA | siddhasya tu sarvvasyaiva 
+kAryyasya niyamAdavazyameva vinAzo bhavati | tatra yasya kRtasya sucirAdapyavazyameva niyamato vinAza: kiM 
+tadarthamayaM bAlo vihanyata iti | [20ka] ato’badhUya jAlinIM taducchedAya yatitavyam | kumbhakArapAka-
+vat | yathA kumbhakArapAke siddhiranaikAntikI niSpannAnAJca kumbhakArabhAjanAnAM niyamato vinAzastathA 
+sarvveSAM laukikAnAM kAryyANAM siddhiranaikAntikI | Aha cAtra |
+sarvveSAM bhAvAnAM kRtakatvAnnAsti niyamata: siddhi: |
+tasmAdbhAvyasteSAM niyamenaiva dhruvo nAza: ||
+yathA ca kAyasya dhruvo vinAza: | tathA karmmaNo’pIti pratipAdayannAha |
+yatnata: kriyate [2] karmma kRtaM nazyatyayatnata: |
+virAgo’sti na te kazcidevaM satyapi karmmaNi ||162.
+iha khalu mahatA yatnena bahUbhi: sAdhanopAyai: karmma kriyate tattu mahatA prayatnena bahubhirapi sAdhanai: 
+kRtamayatnAdeva kAthavadvinazyati | tadevamatimahatpuruSakAradhanamapArthakamiti karmmaNi kathaM nAma na syAdvairAgya-
+mbiduSa: | tatpuna: punastatkarmmAcaraNAdvirAgAbhAvo jaD+atAmeva vedayate, tatkriyatAM vairAgyAva[3]sara: | na hi 
+niSThurA vRttirupakurvvati zobhate | parvvatazilAropaNavat | yathA parvvatamUrddhani zilA yatnenAropyate ayatnena 
+patati tathA sarvvalaukikya: pravRttaya: | Aha cAtra |
+hetupratyayasAmagryA karmma saMskriyate yata: |
+tasmA[t ya]tkriyate yatnAttad vaikalyAcca nazyatIti ||
+atrAha yadyapyaprayatnAt kAyaM nazyati tathApi sukhahetutvAnna tatra vairAgyaM bhavatIti | ucya[4]te ||
+atItasya sukhaM nAsti nApyaprAptasya vidyate |
+varttamAno’pi yAtyeva zramo’yaM kasya nAma te || 163. 
+atItasya tAvat vijJAnasya sukhaM nAsti niruddhatvAt anAgatasyApi sukhaM nAsti asaMprAptatvAt,
+varttamAnasyApi sukhaM nAsti sthityabhAvAt | tadevamamati sukhe tenAnugrahAbhAvAt sukhasambhogalAlasasya yo’yaM 
+sukhahetukarmmopArjjanazramo bhavata: sa kasya [5] kRte bhavatu, viphala eva sarvvathA sukhahetUpArjjanaparizramo-
+pA[yA]yAma ityabhiprAya: | nadItIragRhakaraNavat | kenacinnadItIre gRhaM kRtaM sa ca pradeza: sphuTita: |
+@470
+tato’nyadanutIrameva kRtaM so’pi sphuTita evamanavasthA jAtA, evaM tasya gRhakarttu: mahAMzca zramo, na ca zrama-
+phalAvApti: | tathA sarvvalaukikya: pravRttaya: | Aha cAtra |
+cittakSaNacapalagate: [6] kasyArthe saJcinoSi karmmANi |
+kAlatraye’pi yasmAt parIkSa[ya]mANaM sukhaM nAsti ||
+atrAha | yadyapyevaM tathApi svargasukhArthamavazyameva kuzalaM karmma karttavyamiti | ucyate |
+svarggo nirayatulyo’pi viduSAM syAdbhayaGkara: |
+sarvvathA durlabhasteSAM bhavo yo na bhayaGkara: ||164. 
+tatra vividhasaMklezAya dvAratvAt tIvrataraviSayasambhUtaklezAgnimandIpitatvAt [7] mohabhUyastvAt ca 
+svargamapi nirayavadbhayaGkaratvAt parivarjjayanti vidvAMsa: | tatazca yeSAmanavagItasukhasambhogaramaNIyA svargasampada 
+tayA na janayantyAsthAM teSAM tadanyatra bhave zmazAnabhUmAviva kuto rati:  | apizabdazcAtra bhinnakrama: svarga-
+zabdAnantaraM draSTavya: | tiSThatu tAvadanyo bhava: svargo’pi viduSAM nirayatulya iti vyAkhyeyaM | bAlabandhana-
+mokSaNavat | tadyathA bAlo nAma rAjA babhUva [8] krUraprakRtirUpastIkSNazAsana: | tasya bandhanAgAre ya: 
+pravezyate sa karacaraNagrIvAsu paJcabhirvvandhanairgAD+hambadhyate | sa yadA na kadAcidapAyena kaJcin mocayati tadA 
+rakSApuruSANAmAjJApayati | ayaM sarvvabandhanebhyo moktavya: kintu yenaikeneryyApathenecchati yAvadAyu: sthAsyate |
+tena sugupte sthApayitavya iti | “eSa deveti” rAjJa AjJAM zirabhi kRtvA nUnaM kurvvanti | tatra yo [20] 
+{1 ##Leaf 18 of the MS.##} bAlarAjabandhanAnmukto bhavati tasya bandhanena tulyaM mokSaNamapi bhayaGkarameva du:khavizeSAttathAnyeSAmapi mahAtmanAM 
+narakatulyasteSAM ko’nyo’sti bhavastadviziSTo yo na bhayaGkara: syAt | yathA bali: sarvvalokAdhipatyaM dattvA 
+baddha: | kimayamanyaddatvA mukto dRzyate | tathA yeSAM svargo’pi du:khahetutvAt nirayasamasteSAM konyo bhavA-
+ntarosti yo na bhayaGkara: syAt | api ca | yathA khalu paNDitA: saMsAradoSapratyavekSAnipuNA du:khAgni-
+jvAlAparigatamekAntadu:khaM saMsAraM yathAvadIkSante tathA khalu 
+saMsAradu:khaM jAnIyAt yadi bAlopi sarvvaza: |
+gacchedatyantato nAzaM saha [2] cittena tatkSaNam ||165.
+yaddu:khamAkArayanta AryyA: saMsArAdudvijante tadyadi pRthagjana: zaknuyAdadhyakSayituM tadA tatkSaNa-
+mevAsya zatadhA vizIryyeta hRdayamanavabodhAttvayamabhiramate saMsAre | kRtajJatAmahAkaruNAbhyAM tu sattvopa-
+kArAbhiprAyadhairyyAvaSTabdhaM saMsAradu:khamAryyANAm na tathodvegakAraNamiti na teSAmatyanto nAza: zakya: sambhAva-
+yitum |
+pRthagjanastu satkAyadRSTyanugamA[3]t pratipakSabhAvanAvaikalpyAt paramANuzo niyataM vizIryyeta yadi
+sarvvathA saMsAradu:khaM jAnIyAt | yakSAbhyAhatavat bAlanAyakavacca | kazcidyakSeNAbhyArhata:, ma ca yakSastena na 
+dRSTa:, tasyaitadabhavat | adRSTe tAvat tasmin yakSe IdRk du:khamutpannam yadi dRSTa: syAt tato me tuSamuSTivat 
+kAyo vizIrNa: syAditi | yathA ca bAlanAyaka AdhipatyalobhAt jI[4]vita....gRhNAti evaM 
+@471
+yadi bAlo’pi saMsAradu:khamadhigacchet tadbhayAt sarvvabhavaparityAgAdatyantato nAzaM gacchenmokSamityartha: |
+Aha cAtra |
+yathA buddhA vijAnanti phalaM pApasya yAdRzam |
+tathA bAlo vijAnIyAt sa bhavet tatkSaNaM jina: ||
+api ca saMsAre kriyAsu sAmarthyavata: samIhamAnasya sukhaM syAt | sa ca nirupyamANa: |
+amAnI durlla[5]bha: zakto mAnI nAsti ghRNAnvita: |
+ukta: sudurllabhastena jyotirjyoti:parAyaNa: ||166.
+zaktasyaiva kriyAsu puruSakAreNopAttasukhavedanAya viSayopArjjanAt upAttaparirakSaNAccAvazyameva
+puruSasya mAna upajAyate | mAnatazcAyamAtmAnaM vizeSata: parikalpayannadhikamamahamAnastadupajighAMsayA nirddayo 
+bhavati nirddayasya cAsyApAyaparyyavasAna[6]tayA + + + + sampado yato’sya sukhAnubhava: sambhAvyeta | ata eva 
+bhagavatA jyotirjyoti:parAyaNa: pudgalo durlabha: ityuktaM kulabhogaizyaryyajJAnamAnena niyatamadha:patanAt |
+jAmadagnyavat | yathA jAmadagnyena zaktena mAnitvAt tri:saptakRtva: pRthivI ni:kSatriyA kRtA nairghRNyAdatidurlabho
+yacchakto’mAnI syAt mAnI ca ghRNAnvita: syAt | yata evam[7]to’vocadbhagavAn durllabho jyotirjyoti:parAyaNa
+iti | yadyevaM mAnina: pApAcaraNAdapAyaniSThA iti garhitA viparyyeNa brahmamAnina: svargasukhasAdhanadharmmA-
+caraNAt prazasyAstatazca tairekAntena garhita: saMsAra ityucyate | dharmme’pi vaiparItyAdayukta: saGgastathA hi |
+nivRttiviSayasyeha viSaya: kila labhyate |
+kenApi hetunA dharmmo viparIto’pi sa smRta: || 167.
+ya: kila[8]viSayeSvanAsyastAn viSayAn parityajati brahmacaryyAbhyupagamAt, tasyeha cyutasya Izvarakule 
+svargeSupapanna: tena loke nAGgIkRtazceti nAcAbhinivezo jyAyAn, titAD+ayiSumeSavat | yathA meSastAD+ayitu-
+micchan dUrato’pyanivRtta: yathA viSayArthI nivRttaviSaya: | evaM tAvaddharmmo viparItatvAt tyAjya: | yadapi 
+taddharmmaphalamaizvaryyaM tadapi vazitvAbhAvAdvividhavyasanasthAnatvAcca, nA[18 ka]syeyaM viduSA | tathA hi |
+puNyasya phalamaizvaryyaM tacca rakSyaM sadAnyata: |
+kathaM nAma tadAtmIyaM yadrakSyaM sarvvadAnyata: || 168.
+pUrvvakRtasya hi karmmaNa: phalamaizvaryyaM taccAtmIyasaMjJitaM tacceha sadaiva saMrakSyate pratyarthibhyo, yadi tadA-
+tmanInaM syAnnaiva pratyarthibhyo rakSaNIyaM syAt | yacca parairAcchedyatvAt satatamAdhIyamAnarakSAvidhAnaM kathaM tadA-
+tmIyamiti zakyaM vaktum | tadayaM rakSAvidhAnanirantara: paramanirvRta: kadA nAma viSayarasamAsvAdayet | tasmA-
+tphalamapyasya nAn[2]grahAya paryyAptam | guruvat | yathA guru: nityamevAnuvandyo nityaM cApramattena bhavitavyaM gurau |
+tathaizvaryyaM puNyabalanirjAtaM tacca rAjAdibhyo nityameva rakSyam | yacca sarvvadA rakSyaM kathaM tadAtmIyaM bhavati |
+anavasthitatvAcca laukikasya dharmmasya tatrAsthA na jyAyasI | tathAhi 
+yA yA lokasthitistAMtAM dharmma: samanuvarttate |
+dharmmAdapi tato loko balavAniva dRzyate ||169.
+@472
+loko hi yAM yAM sthitiM vyavasthApayati dezakulagotrAcAravyavasthayA kanyAdAnodvahanAdikaM tAM tAM [3] 
+dharmma: samanuvarttate | tasyAstasyA sthite rdharmma iti prasiddhigamanAt | na caiSa svabhAvavyavasthitasya nyAyo yujyate,
+yaddezakAlabhedayoranyathAtvAdanyathA syAt | tato nAtrAtyantAdaro yukta: | duhitRvivAhavat | kenacit puruSeNa 
+yavaneSu gatena yavana: kazcidagniM prajvAlya tasmAdagnervidyayA zabdaM nizcArayan dRSTo duhitA kalpate bhAryyA bhavata 
+iti | sa ca puruSotyantarAgacarito duhitA ca tasya svadeze rUpa[4]yauvanavatI tiSThati | tatastena puruSeNa tasya 
+yavanasya sakAzAt sA vidyA mahatA prayatnena dravyapradAnena cArthitA | svadezaM ca gatvA svAM duhitaraM bhAryyAM 
+karttukAmo’gnimicchati tamarthaM vAcayituM | tenAgninoktaM anyathAsya dezasthitiriti | evaM dharmmAdapi loko
+balavAniti | atrAha | abhilaSitaviSayasamutpAdamantareNa sukhavedanAnubhavo nAsti | sa ca viSayotpAda: 
+kRtapuNyAnAmeva yasmAt sambhava[5]ti | tasmAt viSayArthinA karttavya eva dharmma iti | ucyate |
+viSayazca zubheneSTo viSaya: sa ca kutsita: |
+zreyAn yasya parityAgo niSpannenApi tena kim ||
+yoyamiheSTapaJcakAyaguNAtmako viSayo rUpazabdagandharasaspraSTavyasaMjJita: | sa zubhena karmmaNA labhyate |
+sa eva sattvAnAM mokSakAmAnAM kutsito’sedhyaliptagAtra iva zvA, yasya ca zreyAn parityAgo’narthamUlatvAt 
+anityAzucya[6]nAtmakatvenAnirvRtikaratvAt rAgAdiklezotpAdakatvena pramAdasyAnatvAJca niSpannenApi tena na 
+kiMcit prayojanamiti vyartha eva viSayaphaladharmmopArjjanazrama iti tyajyatAmadharmma iva dharmme’pi saGga iti |
+kambojabhaikSacaraNavat | kazcit bhikSu: kambojeSu janapadeSu bhikSAM yata:, sa kenacidukta: zabdena kAryyArthaM 
+sA tAvadatra kiJcidvakSyasi piNDapAtaM carannavahAsyo bhaviSyasi | eSAsmin vi[7]Saye maryyAdA | tena 
+RjunA zraddhadhAnatayA tathA kRtam | tatastena janakAyena vijJAto’smatsparddhinA yantrametat tena puruSeNa 
+kRtvA asmAkamanupreSitamityaho’syonmeSanimeSAdi puruSavadupapAditameva sarvvaM. pratyaGgAni varNayAmAsa |
+tatastairapi tAdrakSANyeva yantrANi kRtvA preSitAni tasya puruSasya | tatastena puruSeNoktam | tasya bhikSo rvvAca-
+midAnIM bhASasva tatsannirodhAditi | tena tathAkRtamArogyAdi-vAgnizcAritA | tataste visma[8]yApannA 
+evamUcu: | azakyametadasmAkamanena raJjitA vayamiti | sa zaTha: bhikSupratirUpa: svarUpaparijJAnAt kutsita
+eva bhavati tadvadetaditi | atrAha | yadyapi viSayasya kutsitatvAt viSayasAdhano dharmmo niSprayojana-
+stathApi AjJArasAsvAdasukhagurUNi rAjyAnIti tadarthaM rAjJAdhipatyeSu pravartitavyamiti | ucyate | naiva hi 
+sarvveSAmAjJayA kAryyaM sambhavati | tatazca |
+kAryyaM nAstyanupAyasya tasya dharmmo nirarthaka: |
+yasya hi samIhitArthasaMmiddhiranyathA na sambhavati ma [18]
+@473 
+{1 [##Leaf 21 of the MS.##]}cidrAjJa: putro’tIva priya: sa kadAcidvyutthita: sa tena rAjJA saMgrAme nirjjitya gRhIta: | tasya ca rAjJa: 
+taddoSadarzitvAt tasmAt sneho vigata: | evaM doSajJe sarvvatra rAgo na tiSThatIti na kevalaM sarvvadoSa-
+darzitvAcciraM nAsti rAga: | etazca tatprahANaM na sambhAvyate rAgavatsvabhAvatvAt | tathA pratipAdayannAha |
+tatraiva rajyate kazcit kazcit tatraiva duSyati |
+kazcit muhyati tatraiva tasmAt kAyo nirarthaka: ||175.
+raJjanIyavastvAyattodayo hi rAgastacca raJjanIyaM[2]vastu svarUpAsiddham | yadeva hyekasya raJjanIyaM 
+tadevAparasya dveSaNIyaM vopalabhyate | yadi ca raJjanIyaM vastu svarUpata: syAt | tat sarvvadA sarvvasya ca tathaiva 
+syAt | natveSa niyamo dRSTa: | tathAhi | yatraiko rajyate, tatraivAparo duSyati | tatraivAparo muhyati | tasmAdviSaya-
+kAma: svarUpAsiddhatvAt zUnya: | na caivaM raJjanIyavastuzUnyatAbhAvanA-tatparasya yogino rAgaprahANaM na sambhAvyata 
+iti vidyataeva rAgaprahANam | [3] mAtRpatnIdAsIvat | kasyacit puruSasya patnIdvayaM tatraikA mAtrA saha 
+tiSThati | dvitIyA tu vinA mAtrA | tatra yadAsau mAtA duhitaraM pazyati tadA tuSTA bhavati | tAmeva dRSTvA 
+sapatnI du:khitA bhavati | dAsI tu dRSTvodAsInA bhavatIti | nAsti rAgAdInAM Alambanasya svarUpasiddhi: |
+evaM tAvadAlambanAsiddhyA rAgAdyasiddhiM pratipAdya hetvasiddhyApi rAgAdyasiddhiM pratipAdayitukA[4]ma Aha |
+vinA kalpanayAstitvaM rAgAdInAM na vidyate |
+bhUtArtha: kalpanA ceti ko grahISyati buddhimAn ||176.
+saMkalpaprabhavo rAgo dveSo mohazca kathyate itivacanAt |
+viSayeSu ayoniza: kalpanA rAgAdisiddhikAraNam | tatazca yeSAM satyAmeva kalpanAyAM astitvaM 
+dhruvam | teSAM rajjukuNDalake parikalpitasarpavat svarUpAsiddhiravasIyate | yastu svarUpasiddhiM rAgAdInAM [5]
+abhyupaiti, niyataM tena kalpanApekSyajanmatvaM svarUpasiddhiviruddhaM nAbhyupetavyam || yadi hyasau bhUto’rtha: kimarthaM 
+tadastitve kalpanApekSyate | athApekSyate kathamasau bhUtArtha: | ityevaM sopapattikAgamAllokAvabhAsitacitta-
+santAnatvAnna vidvAMsa: svarUpasiddhasya kalpanAjanitatvamaGgIkurvvanti | jaD+Astu yathAkathaJcit viparyyAsAt 
+pravarttate dhyAyizira:kapAla[6]vat | kazcidvyAthI cittavibhramamanuprApta: kapAlaM mama zirasi lagnamiti |
+tasya kenacit anyat kapAlaM pAtitaM etat tava zirasa: patitamiti | sa ca tathetyavagamya svastho jAta: |
+kalpanAvigamAt | atrAha | vidyata eva rAgAdInAM svabhAvo bandhanatvAt | tathAhi strI puruSa-
+viSayeNa rAgeNa puruSeNa saha vaddhA, nAtikramati puruSam | puruSazca strIviSayeNa rA[7]geNa, striyA saha 
+vaddho na parityajati striyamiti | ucyate |
+kasyacit kenacit sArddhaM bandho nAma na vidyate |
+yathaiva hi rAga: kalpanApekSyajanmatvAt svabhAvAsiddha: tadvat strIpuruSayorapi svarUpAsiddhatvAt 
+kasyacidarthasya kenacidarthena saha nAsti svabhAvato bandha iti | na bandhakAraNatvAt rAga: svarUpata: 
+midhyati | athApyavadhUyetthaM vicAraM pareNa saha parasya bandha: parikalpyate | e[8]vamapi 
+@474
+pareNa saha baddhasya viprayogo na yujyate ||177.
+yadi hi parasya svarUpato bandhanakAraNatvaM syAt tadA svarUpasyAnyathAbhAvAbhAvAt muktyabhAva 
+eva syAt | viprayogo vimokSo vimuktirityanarthAntaram | asti ca muktiriti nAsti svarUpato 
+bandhanakAraNatvaM parasya | asati bandhanakAraNe kuto bandha iti svabhAvazUnyA eva rAgAdaya: svabhAvazUnyatAdarzanAt 
+prahIyanta iti zakyamAsthAtum | kRSNAvadAtavalIvarddasaMyo[21 ka]janabat | yathA na kRSNo balIvarddo’vadAtasya 
+mayojanAya, nApyavadAta: kRSNasyApi tu yugarandhraM tathA nendriyANi viSayANAM nApi viSayA indriyANA-
+mapi tu yotra’cchandarAgastadbandhanamiti | yadyevaM vicArAt klezA nivarttante tat kimityajitaklezA: prAyo 
+dRzyante | gambhIradharmmAdhimuktivirahAt | tathAhi ||
+asmin dharmme’lpapuNyasya sandeho’pi na jAyate |
+bhava: sandehamAtreNa jAyate jarjjarIkRta: ||178.
+anAdisaMsArAbhyastaviparyyAsamandarzanohyavi[2]dvAn prativimbopameSu padArtheSvidaMsatyAbhiniviSTa: svabhAva-
+zUnyatopadezaM prapAtamiva manyate | zUnyavimuktihetukuzalavirahitacittasantAnatvAt tathAvidhasya hi matasyAsmin
+zUnyatAdharmme kimevaM naivamiti sandeho’pi na jAyate’nyatra viparItanizcayAt | tatazca muktihetuviparyyastatvAt 
+kuto’sya mokSa: | yadi tvayaM kenApi hetunA zUnyatAdharmma upadizyamAne saMzayamutpAdayet kimathaM dharmma 
+evaM naivami[3]ti: niyatamasyAnenApi sandehamAtreNa jarjjara eva saMsAro jAyate | sa hi yadaivamityavalambate 
+sosyAGga: krameNa klezataskarocchedAya sampadyate | yadvA saMzayito nizcayenArthI sopapattikAgamavalAt 
+samyagdarzano nizcita: klezakSayAya saMsArocchedaM kariSyatIti | sandehakAle’pi jarjjara evAsya saMsAro lakSyate 
+tadbhedAnukUlAvasthAvasthitatvAt | rAkSasIgR[4]hItavAlAhakAzvarAjaparimokSitavat | yathA bhagnavAhana: svArthavAho 
+rAkSasIgRhIta: pratitvenopakSaryyagANastadA dakSiNasyA dizo nivAryyamANo na kadAcitvayA dakSiNA dik 
+gantavyeti | sa sandihyamAna: kasmAdeSA mAM vArayatIti gatastatra vAlAhakamazvarAjamAgamya tasyA: rAkSasyA: 
+nirmukta: samudrapAraJca saMprApta: | yadi cAsya sandeho nAbhaviSyat na tasyA [5] rAkSasyA viyukto’bhaviSyat, 
+na ca samudrapAraM prApto’bhaviSyat | yazcAyaM svabhAvazUnyatAlakSaNo dharmmo yasmin sandeho’pi bhavasya jarjjaratvAya 
+saMvarttate, tasya bhagavatA prathamakSAntikSaNamupAdAya yAvat mokSaptAvadaparihAnirvRddhizcopavarNitA natvevaM 
+laukikAnAM dharmmANAm | te hi vipAkakSayAdapi kSIyante pratyayavaikalyAdapi na pravarttante | na hi 
+prajJApArami[6]tA’nadhiSThitA dAnAdaya: samarthA: jAtyandhA iva sarvvajJatAnagaramanuprAptumityuvAca 
+zAstA | tadevaM ||
+AtmA hyAdyasya dharmmasya vRddhimevoktavAn muni: |
+tatra bhaktirna yasyAsti suvyaktaM buddhimAn na sa: || 179.
+yo hyatyantopakAriNi dharmme vRddhiprakarSavati notpAdayati bhaktiM, sa kSemasthAne bhayadarzitvAt mUD+hatA-
+sevAtmano jaD+a: prakaTayati | taditthaM mUD+hatA mAbhUnmameti [7] vidvadbhi: svabhAvazUnyatAdarzane bhaktirAstheyA |
+zarkarAmodakavat zalAkAmudrAvacca | yathA zarkarAmodaka: sarvvata AsvAdyastathA | yathA kasyacit puruSasya 
+@475
+vidyAdvayaM siddhaM | tatraikayA zalAkAM parijapya sarvvasvyAdhyupazamanaM karoti dvitIyayA mudrAM datvA | atha tena 
+kasyacit snigdhasyocyate | gRhANa tvaM etat [vidyA]dvayamupakAraste bhaviSyati | tena na gRhItama | athAsyA-
+smin mRte snigdhe mahAvyAdhirutpanna: | sa cAcikitsya: tenaiva kAlagata: | kiM punarime padArthA: zUnyA eva 
+santa: vairAgyArthaM zUnyavadRzyante; atha prakRtyA eva zUnyA iti vyapadizyante iti | ucyate ||
+nAzUnyaM zUnyavadRSTaM nirvvANaM me bhavatviti ||180.
+kiM kAraNaM yasmAt |
+mithyAdRSTena  nirvvANaM varNayanti tathAgatA: ||
+anyathAvasthitasya vastuno yadanyathAdarzanaM tanmitthyAdarzanam | yadi ca svabhAvazUnyA: santa: padArthA:
+svabhAvazUnyA iti dRzyeran tadA mithyAda[21]{1 ##Leaf 19 of the MS.##}rzanAdeva nirvvANAdhigama: syAt | na ca mithyAdRSTe: pudgalasya 
+nirvvANAdhigamaM buddhA bhagavanto vyavasthApayanti | samyagdRSTipura:sareNaiva yathA nirvvANaprAptivyavasthApanAt; tatazca 
+mAyAvat pratItyasamutpannatvAt svabhAvazUnyA eva santo bhAvA: zUnyA: svabhAvenetyadhigamyante yathAsthita-
+padArthatattvadarzanAvadAtasantAnai: samAropArthavAdAntakalpanAmalAmalinairAryyai: | rAtryAM vellakapeyapreSaNavat | kazcit 
+vellako guruNA[1] rAtryAM peyasyArthamabhIkSNaM preSyate | atha kadAcit sa tenocyate | naitat kalpate bhikSUNAM 
+kathaM tvaM pivasIti | sa prAha pAnIyamiti | tenApyanyasminnahani pAnIyamevAnItaM | sa prAha | kasmAdanyadeva-
+mAnItamiti | zrAmaNera: kathayati | yadA tvaM pAnIyameveti kRtvA pivasi tat kotra vizeSa iti | yadi 
+khalu svabhAvazUnyA eva padArthA: kimarthamavidyAdinA krameNa satvabhAjanalokasya pravRttirUpadizyate | [3] nanu 
+svabhAvaparamArthatvAt svabhAvazUnyataiva kevalamupadeSTavyeti | naitadevam | naiva hi laukikaM pravRttyAtmakam paramArthe 
+pUrvvaM sadupadizya zakyaM svabhAvazUnyatAlakSaNatattvamAdarzayitumiti | tattvAvatArasopAnabhUtatvAt pravRtyupadezo’pi 
+karttavya: | sarvvasaGgaparityAgena nivRttisuvAvAptinimittaM svabhAvazUnyatopadezo’pi karttavyastadatra tAthAgate 
+pravacane |
+laukikI deza[4]nA yatra pravRttistatra varNyate ||
+paramArthakathA yatra nivRttistatra varNyate | 181.
+yatra saMsArapravRttikramo’vidyAsaMskArAdinA krameNAhetvekahetuviSamahetuvinAzArthaM svasAmAnyalakSaNa-
+saMjJAvakalpanayA dezyate ; jJAtavyaM viduSA pravRttistatra varNyata iti | yatra tu pratItyasamutpAdasya 
+svabhAvAnutpAdasvabhAvazUnyatopadizyate; tatra saMsArapravRtternivRttirvarNyate | svabhAvazU[5]nyatAparamArthAvagamAt 
+sarvvatrAmaGgavato vedanAsvatRSNasya tRSNApratyayo yAnAdikAraNanirodhena jAtijarAmaraNAde: sarvvathA nirodhAt |
+vilapravezavat | yathA vilapraveze mA kAcidupakaraNapravRtti: sarvvAmAvucchraSTavyA na tayA kiJcitprayojanaM 
+kriyate | tathA sarvvA laukikya: pravRttayo nissArA: partiyaktavyA viduSA yasmAt pravRttidharmma iti |
+yadyevaM[6]paramArthakathAyAM sa kiJcidasti | zUnyatvAt sarvvabhAvAnAM tadA sarvvAbhAva: prasajyate | sarvvA-
+@476
+bhAvAcca na kiJcitkarttavyaM syAt | karttRkarmmakriyAdInAM sarvvathAbhAvAt | abhAvAcca kriyAdInAM na syAt mokSa:
+ityata: sarvvamevAyuktamityucyate |
+kiM kariSyAmyamatsarvvamiti te jAyate bhayam ||181.
+vidyate yadi karttavyaM nAyaM dharmmo nivarttaka: |
+yata eva hi sarvvamasat ata evAyaM pa[7]ramArthadharmma: pravRttinivarttako yujyate | tatkimiti
+nivRttyarthau sarvvAbhAvaM kriyAdyanadhiSThAnanna samIhate | atha hi nAmAtrApi pravRttAviva karttavyaM syAt tadA 
+kriyAphalasyApi parArthasya pravRtte: maiva pravRttiriti kathamayaM dharmmo nirvvANAvAhaka: syAt | mRgatRSNAvat |
+yathA hi mRgatRSNikA pAnIyasaMjJAM janayati na ca tatpAnIyaM bhavati | yasya tu tatra paritarSA jAyate sa
+tatraivAnarthaM samApadyate | tathA skandheSvA[8]tmasaMjJA | yatastu nivarttake dharmme na kiJcit karmmAsti tasmAt 
+zUnyapakSa: zreyAniti | yastu zUnyatAmArge rajyati | viparIte sa svabhAvapakSe duSyati tamupAlabhate |
+svapakSe vidyate rAga: parapakSastu te’priya: ||182 ##B.##
+na gamiSyasi nirvvANaM na zivaM dvandvacAriNa: | 183 ##A.##
+dvividho hi pakSa: samAsata: svapakSa: parapakSazca | tatra yadi svapakSe te rAgo’sti zUnyapakSa:
+zreyAniti, parapakSazca te mithye[19ka]ti kRtvA’priya: | na gamiSyasi nirvvANam | na hyatra nayapratighahatasya 
+dvandvacAriNo nirvvANamasti | sarvvatra hi udAsInA: saGgacchedAdanapAyasukhaikarasaM zivamApnuvanti | AcAryya-
+saMghasenavaTuvat | kazcidvaTurAcAryyasaMghasenAt zAstraM zuzrUSati | sa kadAcittenoktaM(?) upAsako bhaveti |
+so’pyanyatamasminnahani tamAcAryyamuvAcAcAryya upAsako’haM saMvRtta: | kiM kAraNaM iti | brAhmaNAn dRSTvA 
+ghAtayitumicchAmIti | atrAha | yadyapi ni[2]rvvANaM paramasukhaM sakalopadravarahitatvAt | tathApi tadazakyaM 
+prAptum | tatprAptyupAyasyAtidu:karatvAt | bhavastvayatnasAdhyatvAt yasmAt sukhena prApyate | tasmAt tatra na 
+pravRttiriti | ucyate | viparItamavadhAritaM yasmAt |
+akurvvANasya nirvvANaM kurvvANasya punarbhava: ||188 ##B.##
+nizcintena sukhaM prAptuM nirvvANaM tena netara: | 184 ##A.##
+kuzalAdhikriyAsu nirastavyApAreNa nizcintena nirvvANamavApyate | tasmAt sukhaM prAptuM nirvvANam |
+kuzalA[3]kuzalAdipravRttisAdhyatvAt tu nirvvANAditara: punarbhavo na sukhena prApyate, na viduSo’prayatnalabhyaM 
+nirvvANamavadhUya yuktaM vividhavyApAraparikhedalabhyaM punarbhavamarthayitum | ArogyavalasAdhanavat | bahavo hyarogasya 
+balamAdhanAya dRzyante pratyayA: | yadA tu necchanti kiJcidapi vizeSaM tadA sarvvai: pratyayairanarthI bhavati |
+yadi khalvakurvvANasya nirvvANaM tat kimarthaM tva[4]yAtra zAstre anityAdyarthapratipAdanaM kriyate | saMsArabhuktaM 
+jagatsaMsArAdudvejanArthaM | tathA hi ||
+udvego yasya nAstIha bhaktistasya kuta: zive ||184 ##B.##
+nirgamazca bhavAdasmAt svagRhAdiva duSkara: |
+saMsArAdudvignacetAstanni:sAranAya nirvvANaM bhajate | yasya tu nAstyudvega: sa kimiti tadarthayate |
+@477
+tadudvegAbhAvAdeva ca bhavAnnirgantuM alpabuddhayo notsahante | yathA sva[5]gRhamalpasAramapi vyAsaGgaparicchedasya 
+du:karatvAt na tyaktuM pAryyate | tAdRzametat | badhyayAnaprArthanavat | badhya: kazcid badhAyotsRSTa: sadyo hantavya
+iti | sa ca yAnaM prArthayate sma | evamatra bhavagatAnAmapIcchA na nivarttate | api tu | viSayasukhasambhoga-
+sulabhAni gRhANi tyaktumADhyAnAM mA bhUt tatsAmarthyAnnirvvANaM ca gantum | yeSAntu vyAdhidAridryAdInAM 
+du:kha hetUnAM pratividhAnAsa[6]mbhavasteSAM yukta eva saMsAraparityAga: | tathA hi ||
+du:khAbhibhUtA dRzyante kecit maraNakAGkSiNa: || 185.
+te tadA kevalaM mohAnna gacchanti paraM padam | 186 ##A.##
+vyAdhiviprayogadu:khAnvitA: kecidAtmasnehamapAsyAtaTAdapyAtmAnaM utsRjanti | tathaiva yadi saMsAraM 
+du:khato nivAryyAtmasnehamatyantAya uddhareyuradUre nirvRtisukhasya vartteran | viparyyAsitadarzanAstu mo[7]hAttathA 
+na pravarttante ye nirvvANaM nAsAdayanti | peyApItazayitavat peyauSadhasaMndehavacca | kazcit peyAn pItvA 
+zayita: ma bhUyasyA mAtrayA du:khI saMvRtta: tathA bAlA yathA yathA sukhaM prArthayante tathA tathA du:khitatamA 
+bhavanti | yathA kazcidauSadhaM pAsyAmIti upasnigdha: sa copasnehAt sandigdho jAta: kimauSadhaM peyaM katamadvA 
+peyamiti sa vyAdherna mukta: | tathA sarvvabAlapRthakjanA: du:khopadravasneha[8]dravIkRtaklezA api santa: 
+ajJAnavyAdhivinAzAya virAgauSadhapAnamandigdhA: kleSauSadhamapItvA sarvvaklezavyAdhinirmmokSAt paraM padaM 
+nAdhigacchanti | atrAha | yadyevaM sarvvaparityAgena nirvvANamevArthanIyaM tatprAptaye bhAvanAkathaivAstu tatkimarthaM 
+bhagavatA dAnazIlakathe api vihite iti ucyate | trividho hi sattvadhAtu :] hInamadhyamottamabhedAt 
+tadbhedArthaM bhagavato dezanAvaicitryam | [19]
+@478
+{1 [##Leaf 22 of the MS.##]}sya vidheya: || bAladArakavat || yathA vAladArako nAnyathA bhASayA zakyate bodhayitum, tathA pRthakjano
+loka: | ataeva lokAvatAropAyatvAt sadasadAdidezanAnAM, bhagavatA |
+sadasat sadasacceti nobhayaM ceti kathyate | 192.
+sarvvAbhAvadarzanamalakSAlanAya saditi kathitam | bhAvAbhinivezaprahANAyAsaditi kathitam | ubhayA-
+kAradarzanatyAgAya sadasadityAveditam | sarvvAkAraprapaJcocchedAya nobhayamiti prakAzitam | api ca tvameva 
+tAvadvicAraya | [2] 
+nanu vyAdhivazAt pathyamauSadhaM nAma jAyate |
+vyAdhaya: pratividhAtavyA: | teSAM ca nidAnabhedAdanekamauSadhaM naikameva sarvvatropayujyate | tAdRzametat |
+yakSapretapravrajitadharmmapAnIyadAnavat yakSapratyavasthitadarzanavacca | yathA trayo bhrAtara:, tatraika: pravrajita:, dvitIyo 
+yakSa: samvRtta: maharddhika:, tRtIya: preta: saMjAta ulkAmukha:, tAvubhAvapi tasya bhikSo: sakAzaM gatau | tata: 
+tena bhikSuNA tasya yakSasya madahetujJApanArthaM dau:[3]zIlyadoSa udbhAvita: pretasya tu pAnIyapradAnena jvalana-
+du:sahadu:khamupazamayya du:khahetujJApanArthaM mAtsaryyadoSo jJApita: | evaM satvAzayavaicitryAt dharmmadezanA-
+vecitryaM bhavati | yathA kasyacit pitrA kanyakA dezAntare yAcitA | sa cAsya pitA kAlagata: sa 
+mAtrocyate | gaccha tAM kanyakAmavalokayituM, tava pitRvayasyo yakSa evaMnAmA tamarthayasveti | tena tathAkRtaM |
+atha sa yakSa: taM vimA[4]nena vaihAyasaM gRhItvA gata: | puruSazcAbhyAgacchati | sa tena yakSeNa putra ukto 
+gacchenaM trAsayasveti | tena tathAkRtaM | AgatyainaM pRcchati, kimarthaM caiSa puruSa: trAsitaiti | sa prAha, 
+eSa pravrajito nAhamasya teja: sahe | atha tena taM nagaraM nItvA sa putra ekAnte sthApita: | tat-
+kanyAnveSaNArthaM nagaraM praviSTa: | tasya ca yakSasya tAM kanyakAM dRSTvA rAga: samutpanna:, sA tena gRhItA, sa ca 
+putra: cirama[5]sau kiM karotIti svayaM gato yAvattenaiva gRhItAM dRSTvA sa tenaiva vijJapyate | muJcainAM kanyakAM 
+snuSA te bhavatIti | dharmmadezanApi tadvat jJeyA | AsAM ca sadasadAdidezanAnAmadhyAtmacintA’pravRttatvAt |
+yaiSA nobhayadezanA eSA paramArthadezanA tasmiMzca paramArthe |
+samyagdRSTe paraM sthAnaM kiMciddRSTe zubhA gati: |
+tasmAdadhyAtmacintAyAM kAryyA nityaM matirbudhai: || 193.
+paramArthajJAnena [6] khalu samyagdRSTe paramArthe paraM sthAnaM prApyate nirvvANam | ISat kiJcit dRSTe zubhA deva-
+manuSyagati rbhavati | yasmAcca sampUrNajJAnadarzane nirvvANaM prApyate | asamApte ca zubhA gati: | tasmAdadhyAtma-
+cintAyAM viduSA nityameva buddhi: karttavyeti | ibhyakulacaurAsaddharmmanimantraNavat | kazcit cauro’bhIkSNaM 
+vihAraM gacchati sma | sa kenacit bhikSuNokta: prAbhRtamasmadbhya: pratigRhANeti | sa [7] prAha kIdRzaM prAbhRtam,
+bhikSuruvAca | dharmmaprAbhRtam zikSApadaM gRhANeti | sa prAha | prANAtipAtAdattAdAnamRSAvAdebhyo viraktuM na 
+zakyaM kintu kAmamithyAcArAdviramAmIti | sa tato viramya rAjakulaM cauryyAya praviSTa: | tatra cAsaddharmmeNa 
+@479
+[##MISSING##]
+@480
+yathAvIjasya dRSTo’nto na [7] cAdistasya vidyate |
+tathA kAraNavaikalyAt janmano’pi na sambhava: || 197.
+yathA nAma cirakAlapravRttamyAsya hetuphalaparamparayA pravarttamAnasya vIjasantAnasyAnAdimato’nto dRSTa:, 
+agnidAhAt, tathAnAdikAlapravRttasya paramparayA hetuta: pravarttamAnasyAnAdimato’pi vijJAnavIjajanmana: 
+kAraNavaikalyAt puna: mambhavo nAsti | klezApekSaM hi karmma janmAkSeptuM paryyAptam | te ca klezA jJAnateja: 
+sparzAdabhAvaM gatAstadayamasamartha: karmmasahAyAbhAvAd janmAkSeptuM evamayamavasitajanmAsIti bhavati dIpavat,
+bhRSTatilavat, vihAyamaparivrAjakavat, vRkSavacca | yathA dIpasya pratyayeSu asatsu sthitirna bhavati satsu
+bhavati | yathA bhRSTAnAM tilAnAM virohaNanna bhavati | vihAyamaparivrAjako mana:zilAM sAdhayitvA taddheto-
+rvihAyasA gacchati sma ; yadA tu sAnyena puruSeNa vidyApahvatA ta [12] {1 ##Leaf 34 of the MS.}dA hetvabhAvAt patita: | yathA ca 
+vRkSasya mUlotpATanAnna punarvRddhirbhavati hetvabhAvAt | tathA bhAvAbhinivezahetvabhAvAt na rAgAdInAM 
+klezAnAmutpattirbhavati | na ca karmmavazAt bodhisattvAnAM pravRttirapi tu praNidhAnavazAt | tasmAt sarvvagati-
+bhAvadarzitvena paramadu:karatamamatyadbhutaM bodhisattvasya yat sattvArthe ghaTate | sattvaM ca nAbhinivizate kiJci-
+diti | uktaM cAcAryyabuddhapAlitena |
+pazyannapi jagacchUnyaM janmadu:khanunutsayA | [2]
+suciraM yadasi kliSTastannAma paramAdbhutam ||
+tacca sarvvajagatsvabhAvadarzitvaM yathA bhavati | tathottaratra prakaraNairaSTAbhi: pratipAdayiSyati |
+AcAryyAryyadevIye bodhisattvayogAcAre catu:zatake pArikarmmikaprakaraNamaSTamam |
+samanukrAntaprakaraNajalaprakSAlitacittasantAnasya tattvAmRtadezanApAtrasya ziSyasyAcAryyo’ta: parama-
+vaziSTai: prakaraNai: yathAsthitapadArthatattvA[3]dhigamAya tattvavinizcayamArabdhukAma: saMskRtasyodayavyayatvenAmAratA-
+mudbhAvayannAha ||
+sarvvaM kAryyArthamutpannaM tena nityaM na vidyate | 198 ##A.##
+kAryyArthA hi pravRtti: loke na svAbhAvikI | tathAcAhu rlaukikA: kAryyakRto’yamasya sneho na 
+svAbhAvika iti | saMskRtasya ca bhUtabhautikacittacaittalakSyalakSaNAderekasyaikasyodayAbhAvAt yathAsambhavaM kalA-
+pa[4]rUpasyaivotpAda: | tasya kalApasya mitha:kAryyakAraNAvasthAnAt | yasmin sati yadbhavati, yadabhAve ca 
+yanna bhavati tattasya kAraNaM itarat kAryyamiti | pRthivImantareNa bhUtatrayasyAbhAvAt | satyAJca bhAvAdbhavati 
+kAryyaprayojanA pRthivyA: samutpattirityevaM sarvvameva saMskRtam yathAsvaM kAryyArthamutpannam | yacca kAryyArthamutpannanna 
+tat nityam | ni[5]tyazabdasya svabhAvasatyasAravastudravyaparyyAyatvAt | tadabhAvena, ni:svabhAvamasatyamasAra-
+mavastvadravyamasaMskRtamiti gaNyate | ataevoktaM bhagavatA cakSu: samRddhe zUnyamAtmanA AtmIyena ca nityena 
+@481
+dhruveNa zAzvatenAvipariNAmadharmmeNeti | tathA cakSu: cakSuSA zUnyaM akUTasthAvinAzitAmupAdAya | tatkasya 
+heto: prakRtirasyaiSeti [6] ataeva tanmRSA moSadharmmakaM yadetat saMskRtamityuvAca zAstA | etacca vacanam 
+vakSyamANayuktyupetaM, tannizcityAcAryya Aha ||
+tasmAnmunimRte nAsti yathAbhAvastathAgata: || 198 ##B.##
+azaikSyakAyavAGmanomaunayogAnmunirbuddho bhagavAn | sa evAnityazUnyatopadezena yathA bhAvAnAM 
+svabhAvastathAgato buddhastathAgata ityucyate nAnyo viparItatatvopade[7]zena yathAsthitatattvArthAnabhisambodhAt 
+yathAcoktam | 
+atItA tathatA yadvat pratyutpannApyanAgatA |
+sarvvadharmmAstathA dRSTA: tenokta: sa tathAgata: iti ||
+athavAyamanyortha: | yat samudayadharmmi tadavazyaM nirodhadharmmi jAtipratyayaM jarAmaraNamiti copadezAt |
+yadutpannaM tasya kAryyaM vinAza eva tadarthatvAdutpAdasyetyata: sarvvaMkAryyArthamutpannam | tena nityaM na vidyate 
+svabhAvo na vi[8]dyata ityartha: | yata etadevaM tasmAt munimRtenAsti yathA bhAvastathAgata: | asyArtha: pUrvvavat |
+athavA vedanAtrayavedanIyakarmmaNAM kAladezAvasthAvizeSasaMvedyAnAM tairvinA karmmaphalasaMvedanAbhAvAt tadartha-
+mAdhyAtmikaM vAhyambA vastu sambhavAt sarvvaM kAryyArthamutpannam na svarUpata eva vyavasthitam tena nityaM na vidyate |
+yadi hi tat svarUpato vyavasthitaM syAt svarUpasyAnapAyitvA [3 4 ka] nnityameva syAt | na ca tathAstIti |
+tena nityaM na vidyate | svabhAvazUnyaM sarvvamityartha: | sA ceyaM zUnyatA tathAgatetarazAstRpravacanAnupadiSTA 
+ityAha | tasmAnmunimRtenAsti yathAbhAvastathAgata iti | tArkikAstu vyAcakSate | pareNa yat kAryyArthamanut-
+pannatvenAbhyupagataM tadutpannaM kAryyArthatvAdutpannakAryyArthavaditi | tadatrAnudayavyayavatAm parikalpitAnAM pRthi-
+vyAdiparamANUnAM khapuSpAdivat tAvadastitvamA[2]sthAtumazakyam | na cAvidyamAnAnAM kAraNatvamAropya 
+utpAdasiddhyA’nityatvasAdhanaM nyAyyaM | kAryyArthatvasya svataevAsiddhatvAt prasiddhahetvaGgIkaraNe cAtiprasaGgAt 
+ayuktavastvabhyupagamAcca parasya nivAraNIyatvAnna yuktaM nityaM kAryyArthatvenAbhyupagantuM | na cAnena parapratijJAyA 
+anumAnavirodhodbhAvanaM nyAyyam | tasyobhayaprasiddhenaivodbhAvanAt | yasyApi svobhayaprasiddhe [3] nAnumAna-
+vAdhAsambhavAt svaprasiddhenApyasti anumAnavAdheti nUnaM tasyApyarthapratipAdanAkauzalameva syAt | na hi vidvAn 
+sukhapratipAdyamarthaM du:khena pratipAdayitumAdriyate | api cAkAzasyApi cakSurvijJAnAGkurotpattau kAraNatvA-
+bhidhAnAt sUtrAnte SaTdhAtupAThAcca pudgalaprajJaptinimittatvAdanaikAntikatvameva syAt [4] kAryyArthatvasya |
+kAraNaM vikRtiM gacchat jAyate’nyasya kAraNamiti |
+nyAyAt nAstyAkAzasya kAraNatvamiti cennaitadevam tatra hi kriyate yena tat kAraNamiti janaka
+eva heturabhisamIhita: kAraNatvenAGkurasyeva vIjaM | nimittabhAvamAtreNa tvAkAzasyApISyata eva kAraNatvamevaM 
+hyaniSyamANe sUtrazAstrayoravirodho nodbhAvita: [5] syAt | na cAcAryya: sarvvathA ni:svabhAvabhAvavAditvAt 
+hi utpattimukhenAnityatAM pratipAdayati | tattvAdhikArAt uttaratra tasyA api nityatAvat pratiSidhya-
+mAnatvAt | vakSyati hi |
+@482
+"utpAdasthitibhaGgAnAM yugapannAsti sambhava: |
+kramaza: sambhavo nAsti sambhavo vidyate kadeti ||”
+zAstre’pi coktaM anitye nityamityevaM yadi grAho vipa[6]ryyaya: |
+anityamityapi grAha: zUnye kinna viparyyaya iti ||
+
+apica vastuno lokasiddhatvAt tatsiddhAvanumAnaparigrAho ni:prayojana eva | yo’pyavastuno vastusattAM 
+mauDhyAt pratipadyate so’pi sAmAnyajanaprasidhyA zakyata eva vivakSitamarthaM grAhayituM | vastutattvasAdhane cAvayava-
+tritayasyApi sAdhyavadasiddhatvAdasambhava evArtha[7]sAdhanasyetyatastArkikAnAM vyartha eva tarkapraNayanazramo lakSyate |
+tathAca laukikA anadhItatarkalakSaNA api santo laukikArthanizcayanipuNA yadyathAsthitaM vastu tat tathaiva 
+pratipadyante pratipAdayanti cAparebhya: | api cAnityatAyA lokapratItatvAt yatra lokopi tAmavasyati tatra 
+na zakyata eva tadvaktuM viparItArthAbhidhAyI tathAgata eveti | yastu svalakSaNamAropya loko nityatAM prati-
+padyamAna: tasya vastuno mR[8]SAmoSadharmmakatvenApratipatte: sarvvatra tathAgata evAviparItadarzIti yuktaM |
+atrAhureke | satyaM yat kAryyArthamutpannam na tat nityaM bhavatIti | ye tUbhayAGgavikalA: padArthAstadyathAkAzA-
+dayo mana:paryyantA: ; yepi caikAGgavikalA: padArthA: tatyathA pRthivyAdiparamANavaste nityA bhaviSyanti |
+teSAJcAstitvanityatvAnavagamAnnAviparItadarzI tathAgata iti | teSAM matasyAyuktatAmudbhAvayannAhAcAryya: || [3 4]
+{1 [##Leaf 38 of the MS.##]}apratItyAstitA nAstIti | yathAsvaM hetupratyathAyattodayAnAM sukhAdInAM astitvamupalabhya kathamaya-
+marthApattyA’pratItyasamutpannAnAM nAstitvaM na pratipAdyeta | arhanyevAyaM sphuTatarameSAM gaganotpalAdInAmivAsattvaM 
+pratipattu | taccenna pratipadyate niyatamasya taimirikasyeva samAropakRtaM darzanavaikRtaM upalakSyata iti ato’pratI-
+tyAstitA nAsti | sa caiSa nyAya: kAlavastudezabhedabhinne padArthe sarvvatrAvyabhicArI Aha [2] kadAcit 
+kasyaciditi | yatazcaitadevaM ||
+na kadAcit kvacit kazcit vidyate tena zAzvata: ||
+pUrvvArddhena siddhasyaitannigamanaM | yadA caivamapratItyasamutpannatvAt parikalpitAnAM padArthAnAM satvanityatvena 
+tadA siddhaM tathAgatasyAviparItadarzitvaM tathAhi tena sacca mato jJAtaM yat pratItyasamutpannaM | asaccAsata: 
+paraparikalpitamapratItyasamutpannaM ceti | yepica sargapralayayorAvirbhAvatirobhAvamAtreNa mahadAderabhU[3]
+tvAbhAvatiraskAreNAbhivyaktimAtratayA nityatAM pratipannA na kasyacit pratItyodayamicchanti te’pyuktadUSaNaM 
+nAtivarttante | atha syAt, sukhAdayastAvat pratItyasamutpannA: santi | teSAM ca samavAyikAraNamAtmA na 
+cAsata: samavAyikAraNatvaM nyAyyamityatastatkAryopalambhAdasti tAvadAtmA | sa caiSa nitya: sadAkAraNatvAt |
+yadasti na cAsya kAraNamupalabhyate tannityaM [4] | sati cAtmani tajjAtIyA api padArthA bhaviSyantIti |
+atrocyate | syuptajjAtIyA: padArthA: yadyAtmaiva syAt | natvasti | kathaM kRtvA ; yasmAt, na vinA hetunA
+bhAva:, bhAva: svabhAva Atmeti paryyAthA: | sa vinA hetunA na sambhavati | tathAhi pareNaivAsyAkAraNatva-
+mabhyupetaM taJca nirhetukaM kharaviSANAdivannAstIti siddham | AkAzAdibhiranaikAntikateti ce[5]t 
+@483
+teSAmapi tadvadevAstitvasya niSidhyamAnatvAt | athaivaM doSaparijihIrSayAbhyupetaviruddhamapi hetumattvamaGgIkriyate |
+evamapyasat |
+hIyate nityatvaM yasmAt hetumAnnAsti zAzvata: | 199.
+hetumattvAt sukhAdivadityabhiprAya: | yata etadevaM |
+tenAkAraNata: siddhi:, siddhirnnetyAha tatvavit || 200 ##B.##
+uktaM hi bhagavatA 
+pratItya dharmmAnadhimucyate vidU, na cAntadRSTI, ya karoti nizrayaM ||
+sa [6] hetupratyaya jAnatI ahetupratyaya nAsti dharmmateti ||
+asyA dezanAyA yathopavarNitopapattyanugamAdaviparItArthavittathAgata eveti siddhaM | atha syAt ghaTa-
+sukhAde: kRtakasyArthasyAnityatvamupalabhyArthApattyA’kRtakasyAnmAdernityatvaM bhaviSyatItyetadapyayuktaM | yasmAdevamiSya-
+mANe kRtakasya ghaTasukhAderastitvamupalabhya, tadviparyyayeNArthApattyA’kRta[7]kasyAtmAdernAstitvamApannamiti |
+tadeva pratipAdayannAha ||
+anityaM kRtakaM dRSTvA zAzvato’kRtako yadi |
+kRtakasyAstitAM dRSTvA nAsti tenAstu zAzvata: || 201.
+na cAvidyamAnasya nityatvaM nApi sadevAnityaM vastu | atha syAdAkAzApratisaMkhyAnirodhapratisaMkhyAnirodhAnAM 
+abhidharmmazAstraparipaThitAnAM akRtakAnAM satAM nityatvAstitvenAbhyupagamAdakRtakasyAsattvapratipAdanamabhyupetena 
+vAdhyate i[8]tyetadapi nAsti yasmAt ||
+AkAzAdIni kalpyante nityAnIti pRthagjanai: |
+laukikenApi teSvarthAnna pazyanti vicakSaNA: || 202
+rUpAbhAvamAtra evAkAzavyavahArAnna kiJcanAkAzaM nAma vasturUpamasti | rUpAntarAbhAve tu rUpiNA-
+mutpattipratibandhAbhAvAt ; sa eva rUpAntarAbhAvo bhRzamasyAnta: kAzante bhAvA ityAkAzamityAkhyAta: |
+tadasyAvastusato’kiMcanasya nAmadheyamAtropadezavyAmUDh+airabhidharmmazA[38ka]stre vaibhASikairyadvastutvamAropitaM na tat 
+pramANamiti na tenAsmAkaM abhyupagamavAdhAcodanaM nyAyyaM | tathAhi, padArthasvabhAvapaNDitA AkAzAbhidhAne 
+prayujyamAne, laukikenApi jJAnenAbhidheyaM nAma [na] kiMcit svarUpamupalabhante yathA pRthivyAdyabhidhAneSu 
+kAThinyAdikaM | kimuta padArthasvabhAvajJAnAvasyA: sarvvaM vAhyaM cAdhyAtmikaM ca vastvanupalabhamAnAstasya 
+svarUpamupalapsyanta ityevamapratisaMkhyAnirodhapratisaM[2]khyAnirodhayorapi vaktavyaM | nityatvaM teSAmakiMcanatve 
+nAnanyathAbhAvAbhAvamAtradyotakaM na vidhAnamityato nAstyAkAzAdInAM nityatvamiti | atrAha nityamevAkAzaM 
+vibhutvAt | yadanityanna tadvibhu: | tadyathA ghaTa iti | atrocyate | yadyapyajAtasyAsatvapratipAdanena tadadhikaraNa-
+sarvvAdheyAsambhavopyarthAdapapAditastathApi paramataprasiddhapadArthasvarUpavizeSApAkaraNamukhena [3] tanmatasyAyuktatA-
+mudvibhAvayiSu: AkAzasya vibhuttvapratiSedhena nityatAmapAkarttukAma Aha ||
+@484
+pradezini na sarvvasmin pradezo nAma varttate |
+tasmAt suvyaktamanyopi pradezosti pradezini || 203.
+AkAzasya ye’vayavAste’sya pradezA:, tai: pradezasyAkAzaM tasmin yo’nyasaMyogI pradeza: sa taditara-
+saMyogini pradeze varttate | yadi hi vartteta tadA [4] tenAbhinnadezasyApi ghaTasya sarvvagatatvaM syAt ; na caita-
+dastItyayuktametat | apica yadi pradezopi sarvvatra vartteta so’pi vyApitvAt pradezivat pradezAbhidhAnabhAgna 
+syAt | pradezAbhAvAcca pradezinopyabhAva: syAt | athaitaddoSaparijihIrSayA pradezini [na] sarvvasmin pradezo nAma 
+varttata ityabhimataM | tadAvazyaM suvyaktamanyopi prade[5]zosti pradezinItyabhyupeyaM | tatazcAsarvvagatapradezavata: 
+AkAzasya pradezino ghaTAdivat vibhutvamavahIyeta | na ca parasparAvyatibhinnapradezamAtravyatirekeNa 
+pradezI nAma kazcidupalabhyata iti kuto’syAsiddhasattAkasya nityatvamiti na nityamAkAzaM | athApyasya 
+niravayavatvAt pradezitvaM nAbhyupeyate | nanvevaM sa[6]ti ghaTAdInAM tena na saMyogopi syAt | sa hi teSAM 
+sayoga: sarvvAtmanA vA syAdekadezena vA | na tAvat sarvvAtmanA, ghaTAdInAmapi pratyekaM sarvvagatatvaprasaGgAt |
+tasmAdavazyaM pradezasayogino ghaTAdaya ityabhyupeyaM | tathAcAbhyupagacchato niyatamayaM yathokto doSo na nApadyate |
+yathoktadoSaprasaGgAcca na ni[7]tyamAkAzamiti |
+kAlavAdI tu manyate kAlakRtau jagapravRtyupasaMhArAvupalabhya kAlasadbhAvonumIyate | tathAhi 
+satsvapi vIjakSitisalilajvalanapavanAkAzAkhyeSu pratyayeSu na sarvvadAGkurAderudaya upalabhyate | atha kadAci-
+devopalabhyate | tadavasthAnavirodhikAlasannidhAne ca nivarttate | tadevaM ||
+yasmin bhAve pravRttizca nivRttizcopalabhyate || 204.
+sa tathAnumita[8]:kAlo nAmAsti, tasya ca satopi kAraNAnupalambhAnnityatvamiti | nanu caivaM 
+sati nityatvAt kAlasya tadAyattodayAnAmaGkurAdInAM sadaivotpAda: prApnoti | atha satopi na kadAcit 
+kAryyakriyAsUpanatavyApAratAsyeti kalpyeta evamapi saivAsyAsatvamApAdayiSyati | atha satopi vIjAdivat 
+kAryyapravRttiyogyAtmAtizayAsammukhIbhAvAnnAsti sarvvadAkA-[3 8] 
+@485
+{1 [##Leaf 37 of the MS.##]}miva saMsAranivRttirna syAt | vizeSAbhyupagamena vikArasadbhAvAdanitya: syAt | anityasya ca kAraNatvaM 
+syAt | tatazca du:khasantAnasadRza eva syAt | evaM ca sati svabhAvatyAga: syAt | tasmAt na yuktamasyAtmAna–
+mabhyupetuM | abhyupetyApi hi yat paraM prati pratipAdanAsAmarthyAt uktadoSAcca parityAjyaM kintenAbhyupagatena 
+prayojanamiti tyajyatAmAtmavAda: | yadyevaM muktAvasthAyAM muktAtmano’pyasadbhAva: | saMskArANAJcApunarutpattyA 
+sarvvathA parikSayarUpaM [2] paramArthasaMjJakaM nirvvANaM varNyate | tadalamanenedRzena paramArthenArthitena, ityata: 
+AtmakAmasya ||
+varaM laukikamevedaM paramArtho na sarvvathA |
+laukike vidyate kiJcit paramArthe na vidyate || 222.
+naiva hi AtmakAmo locanAmayasampAtazaGkayA akSNIrutpATanamanutiSThati karoti tu Amayopa-
+ghAtameva | tathA saMsAradu:khodvignasya du:khatyAga eva vyAyAn | na tu sarvvathA sarvvAbhAva: | sarvvAbhAve 
+hi sati sarvvasya sukhasyApyucchi[3]ttyA na kiJcidanenAtmana upakRtaM bhavati | tatazca varaM laukikamevedaM |
+laukike hi tvayA kiJcidaGgIkriyate yatpratItyasamutpannamupAdAya ca prajJaptaM ; kiJcinnAGnIkriyate yat 
+tIrthikairabhUtamAropitaM sasvAbhAvyaM ca bhAvAnAM | athavA yadattaphalamatItaM karmma, tatphalaJcAnAgatam 
+pratyutpannAzca saMskArA ityetat tava laukikenAsti | tadavaziSTaM nAstIti varametallaukikaM ya[4]tra na 
+sarvvAbhAva: | paramArthastu sarvvathA na zreyAn sarvvathApyAtmanopyasadbhAvAditi |
+bodhisattvayogAcAre catu:zatake nityArthapratiSedhonAma navamaM prakaraNam |
+atrAha | yadyAtmA nAma kazcit svarUpata: syAt tasya nirvvANe sarvvathocchedadarzanAt |
+nAstyahaM na bhaviSyAmi na me ‘sti na bhaviSyatIti |
+parizaGkitasya syAdevaM 
+varaM laukikame[5]vedaM paramArtho na sarvvathA |
+laukike vidyate kiJcit paramArthe na vidyate ||
+na cAtmA nAma kazcit svarUpata: sambhavati | yadi hi syAt sa niyataM strItvena vA syAt puruSatvena 
+vA napuMsakatvena vA | tatonyasya kalpanAntarasyAbhAvAt | dvividhaM hyAtmAnaM varNayanti tIrthikA: | yadtAnta-
+rAtmAnaM vahirAtmAnaJca | tatrAntarAtmA[6]nAma ya: zarIrAgArAntarvyavasthita: zarIrendriyasaMghAtasya tatra tatra 
+pravarttayitAntarvyApArapuruSo jagadahaGkAranibandhana: kuzalAdikarmmaphalopabhoktA pratitantramanekavikalpabheda-
+bhinna: | vahirAtmA tu dehendriyasaMghAtarUpontarAtmano apakArIva | tatra yastAvadayamantarAtmA sa yadi 
+strItvena parikalpyeta tadA tasyAjahatsvarUpatvAt janmAntarapariva[7]rttepi liGgAntarApratipattyA nityameva 
+strItvaM syAt | na caitadRzyate, vyatyayopalabdhe: strItvAdInAmAtmaguNatvAbhAvAcca | evaM puMstve napuMsakatve ca 
+vAcyaM | tadevam ;
+@486
+antarAtmA yadA na strI na pumAn na napuMsakaM |
+tadA kevalamajJAnAt bhAvaste’haM pumAniti || 223.
+pumAnityupalakSaNatvAt ahaM strI napuMsakamahamiti sarvvamevAjJAnAdbhavati | vicAryyamANasya vastusattvasya 
+tathA’siddhatvAdajJAnaM muktvA [8]nAnyatta(sta)thAparikalpakAraNaM yuktam | rajjusvarUpAparijJAne marpAdhyAropavat
+ityabhiprAya: | evaM tAvadantarAtmano ya: strItvAdiparikalpo nAsau vastvanuvidhAyIti sthitaM | atha manyase 
+vahirAtmano liGgAnyetAni strIpunnapuMsakatvAni, tat sambandhAdantarAtmanyapi parikalpyanta iti || syAdetadevam 
+yadi vahirAtmanopyetAni yujyante | kathaM kRtvA | ihAkAzasya tA[3 7ka]vanmahAbhUtatvAyogAccatvAryyeva 
+mahAbhUtAni | yasyApi paJcamahAbhUtAni tasyApyAkAzasya zarIrArambhakatvAyogAccatvAryyeva mahAbhUtAni 
+kAraNabhAvaM pratipadyante || teSu ca strIpuMnapuMsakatvAni svarUpato na vidyante | yadi syustadA tatsvabhAvAnu-
+rodhAt sarvvadehAnAM niyataliGgatA syAt | kalalAdapi ca liGgopalabdhi: syAt na caitadastItyata: |
+yadA sarvveSu bhUteSu nAsti strIpunnapuMsakam |
+tadA kiM nAma tAnyeva prApya strIpunnapuMsakam || 224.
+kinnAmAtra kAraNaM yat svarUpato liGga[2]rahitAni mahAbhUtAni prApya strIpunnapuMsakAni dehAnAM 
+sambhaviSyanti | tadevaM vahirAtmanopi strIpunnapuMsakatvAnAmayogAt kevalamajJAna + + + tavAyamabhiprAya:.
+pumAnahaM strI napuMsakamahamiti | yepi ca khaTTAvRkSayo[:]stanAdilomazatvAdernimittasyAbhAvAdanyathA strItvA-
+dIni kalpayanti | teSAmapi kalpanAmAtraM na vAryyate | tavApyayaM samAnaprasaGga iti cennaitadevam | mama hi 
+ni:svabhAvA: padArthA: pratItyasamutpannatvAt na ca ni:svabhAvasya [3] yathApratyayamanyathAbhAvo na yujyate 
+citrapuruSamAyAGganAdirUpasyevetyadoSa: | sasvabhAvavAdinastu svabhAvasyAnyathAtvAsambhavAt yathAsvabhAvaM liGganiyama: 
+prasajyate | tadevaM pumAnahamityevamAdInAM kalpanAnAM mohamAtrasambhUtatvAdayuktam talliGgavata Atmana: svarUpato 
+‘stitvam | itazcAtmA svarUpato nAsti | yadi hyAtmA svarUpata: syAt sa yathaikasyAhaGkArasyAlambanaM tathA [4] 
+sarvveSAmapyahaGkArasyAlambanaM | na hi loke agnerauSNyaM svabhAva: kasyacidanauSNyaM bhavati | evaM AtmA yadi 
+svarUpata: syAt sarveSAmAtmeti syAt ahaGkAraviSayazca | na caitadevam tathA hi ||
+yastavAtmA mamAnAtmA tenAtmA niyamAnna sa: |
+yo hi tavAtmA tvadahaGkAraviSaya: AtmasnehaviSayazca sa eva mamAnAtmA bhavati asmadahaGkArA-
+viSayatvAdAtmasnehAviSayatvAcca | yata [4] etadevaM tena niyamAnna sa: | yazca niyamAdAtmA na bhavati sa svabhA-
+vato nAstIti tyajyatAM amadarthe AtmAdhyAropa: | yadyAtmA nAsti kva tau imau ahaGkArAtmasnehAvityAha |
+nanvanityeSvabhAveSu kalpanA nAma jAyate || 225.
+yathopavarNitena nyAyena svarUpasiddhasya skandhavyatiriktasyAtmana: sarvvathAbhAvAt nanvanityeSu rUpavedanA-
+saMjJAsaMskAravijJAnAkhyeSu bhAveSvAtmeti kalpanA[6]svabhUtArthAropaNaM kriyate AtmA sattvo jIvo jantariti |
+yadAhIndhanamupAdAyAgnirevaM skandhAnupAdAya AtmA prajJapyate, sa ca skandhebhyastattvAnyatvena paJcadhA ca nirUpyamANa: 
+svabhAvato nAstItyupAdAya prajJaptyA parikalpyata ityevamanityeSu saMsAreSvAtmaparikalpanA bhavatIti sthitam |
+@487
+atrAha | astyevAtmA svabhAvata: pravRttinivRttikAraNatvAt | yadi hyAtmA na syAt ka: zubhamazubhaM 
+[7] vA karmma kRtvA tatphalaM sambedayet | sa hi zubhamazubham vA karmma kRtvA jAtigatiyonyAdibhedabhinne 
+traidhAtuke karmmAnurUpaM janmaprabandhamanantaprabhedaM sukhadu:khaphalopabhoganibandhanamAsAdayati | sa hyabhisaMskarttA ca, 
+pratyanubhavitA ca, sa hanyate cAdharmmena spRzyate mucyate ca | tasmAdasti svarUpata Atmeti | kiM punarayamAtmA 
+janmAntaraparivartteSu dehabhedavikAramanurudhyate, atha na | yadi tAvannAnurudhyate, ta[8]dA kimanenA-
+kiMcitkareNAtmaparikalpanena | athAnurudhyate, tadA niyataM tava 
+dehavadvikRtiM yAti pumAn janmani janmani |
+tatazca ; dehAntenAnyatA tasya nityatA ca na yujyate | 226. 
+nAsau dehAdanyo dehavikArAnuvidhAyitvAt dehaikadezavannApi nityo dehAdananyatvAt | dehastvAtmavat 
+ityayukta AtmAdhyAropa: | sa hi pratikSaNavinazvarANAM saMsArANAM avasthAnAbhAvAt karmmaphalasaMvedanAya 
+nityamAtmAnaM pratipanna: | [3 7]
+@488
+{1 [##Leaf 35 of the MS.##]}saptasya ni:prayojanamevendhopArjjanamiti, tadvadetat | tatazcAsya mahadAdervikAragrAmasya viphalaiva pravRttiriti 
+vyartha evAsya zAstre prakriyApraNayanazramo lakSyate | atha syAccaitanyazaktirUpa: puruSa: tasya cakSurAdikaraNavyApAra 
+nibandhanabuddhyabhivyakte: caitanyavRttyabhivyakterUpabhoktA hi puruSa: sa aviSayopabhuktikriyAbhinivRttyAviSayaM cetayate |
+sA hyasya viSayopabhuktizcaitanyavRttyAtmikA kriyA, sA ca na vinA cakSurAdinA karaNa[2]grAmeNa bhavatIti
+kuto’sya vikAragrAmasya vRthAtvamiti | ucyate | yadi caitanyavRttisvarUpaM tadAsya kriyayA dharmmAnatikrameNa 
+bhavitavyam | kazca kriyANAM dharmmo dravyAzrayatvaM calatvaM ca | tathAhi ||
+AvinAzAccalaM nAma dravyaM nAsti kriyA yathA ||
+dravyavyApArarUpA hi kriyA sA codayAt prabhRtyAvinAzAccalA | tathAhi vRkSAdaya:, pavanAbhyupanipAtamantareNa 
+nArabdhakriyAstiSThantyavicalA: [3] kampanakriyA tveSA pavanAdipratyayasampAtAdupajAyamAnA AvinAzaM calatAM 
+nAtivarttate | yasmAdetadevaM |
+puruSosti na caitanyamiti tena na yujyate | 233. 
+yathA vRkSAdaya: calanakriyAprArambhAt prAgavasthAyAM vRkSAdyAtmanA dravyarUpeNopalabhyante, naivaM puruSa: |
+sa hi caitanyarUpamAtratvAt na tadvyatirikta: | dravyarUpatvAbhAvAcca caitanyarahitenApyAtmanA[4]stIti na zakyate 
+kalpayitum ; tatazca puruSa: saMvidyate na caitanyamiti na yujyate | yaccaitanyazaktisadbhAvAt puruSasyAstitvaM 
+kalpayeta tadapyayuktaM | nirAdhArAyA: zakterasadbhAvAt ; yathA caitanyavRttivyatirikta: pumAnna sambhavati evaM 
+zaktyavasthAyAmapi caitanyazaktimAtravyatirikta: puruSo nAsti | tatazca nirAzrayA nAsti zakti: zaktyabhAvAcca 
+zakte rvyaktirUpa[5]bhAvopayogitvena yaccakSurAdInAM sopayogitvaM kalpitaM tadayuktamevetyavicalametat |
+{2 ##This is taken from 232.##}karaNaM jAyate mithyA caitanyaM zAzvataM yadi | iti |
+api cAyaM puruSo yadi caitanyavyakte: pUrvvaM caitanyazaktirUpa: syAt tadA ||
+cetanAdhAturanyatra dRzyate’nyatra cetanA ||
+caitanyasya dvairUpyakalpanAyAM anyatra pRthaktvena cetanAyA: cetanAdhAtuzcetanAvIjaM cetanAzakti[6]rdRzyate 
+tvayA | cetanAzaktezcAnyatra pRthak cetanAdhAtozcetanA pravarttamAnA cetanAdhAtusamAnadezA pravarttate | dRSTAntamAha ||
+dravatvamiva lohasyeti || yathA lohaM dravatAmApadyamAnaM lohadezAbhinnadezaM bhavati tadvat | vIjAGkurayo-
+rhyAvirbhAvatirobhAvadarzanAnna samAnadezatA | na ca puruSasyAvirbhAvatirobhAvAviti samAnadezamasti | ata 
+evAcAryyo lohasya dra[7]vatAdRSTAntamAha || na ca caitanyazaktirUpAt pRthak puruSosti vyaktastato’nanyatvAt |
+tadayaM zaktirUpApanno vyaktirUpatAmApadyamAna: |
+dravatvamiva lohasya vikRtiM yAtyata: pumAn ||284.
+vikriyamAnatvAcca lohavadeva nAsyAtmano nityatvamiti siddham | anye punarAhu: | naiva 
+asmAkaM caitanyarUpa: pumAn kiM tarhi ||
+@489
+caitanyaJca manomAtre mahAMzcAkAzavat pumAn [8]
+AtmA hi pratizarIre sarvvaprANabhRtAmAkAzavat vibhu:, tasya ca manomAtrasaMyuktA cetanA na sarvva-
+vyApinI | manazcAtmana: paramANumAtrapradezasaMyuktaM | tena manasA saMyujya puruSastadabhinnadezaM caitanyamutpAda-
+yati | tatazca yathoktadoSAnavasaro’smatpakSa: iti | ucyate yataeva hyAkAzavaditi mahata: puruSasya 
+manomAtre caitanyamabhyupeyate nanu tvayA ||
+acaitanyaM tatastasya svarUpamiva dRzyate || [9] 285.
+evaM matyacetana eva puruSa: prApnoti | na hi paramANumAtrapradezacetanAsambandhena sacetana: puruSa iti 
+yuktaM vaktuM | na hi lavaNa-paramANumAtrasamparkAt gaGgAhradajalaM salavaNamiti zakyaM sambhAvayituM, tadRdetat dravyaM 
+cAtmA caitanyaJca guNarUpaM tayo: parasparabhedAt acetana-svarUpa eva pumAn | na cAsyAcetanasya ghaTasyevAtmatvaM 
+kalpayituM nyAyyamiti na yukta AtmA || yadi cAyamAtmA prati[3 5 ka]sattvaM sarvvagata: syAttadA ||
+parastaveti kinnAhamahaM sarvvagato yadi ||
+yadi bhAvikayA kalpanayA ahaM sarvvagata: sarvvavyApI syAmAkAzavat tadA sattvAntarepyayaM madAtmana:
+sadbhAvAt kimiti tasya tasmin mamevAhaGkAro notpadyeta | evaM hyasya sarvvaMgatatvaM yujyate, yadiha mameva 
+parasyApi madAtmani syAdahaGkAra: | na ca parAtmanAsya madAtmana: parazarIre yuktamAvaraNaM | na hi parAtma-
+deze’smadAtmano’sadbhAva: sarvvAtmanA[2]vyApitvAbhyupagamAt | yadA ca samAnadezatA tadA na tena tasyAvaraNaM 
+zakyaM karttumiti pratipAdayannAha ||
+tenaivAvaraNaM nAma na tasyaivopapadyata iti || 286.
+mamAnadezatvAt svAtmasvarUpasyeva svAtmanA nAstyAvaraNamiti ahaGkAraviSayatvaM parAtmanopi prasajyate | tenaivaM 
+bhavatIti na sarvvagata AtmA | evaM tAvadubhayamatepyAtmanostitvaM ayuktamiti pratipAdya guNAnAmapi 
+sakala[3]jagatkarttRtvAsambhavenAyuktarUpatAM pratipAdayannAha ||
+yeSAM guNAnAM karttRtvamacaitanyaJca sarvvaza: |
+teSAmunmattakAnAJca na kiJcidvidyate’ntaram || 237.
+sattvarajastamAMsi trayo guNA: teSAM sAmyAvasthA pradhAnaM prasavAvasthA prakRti:| sedAnIM triguNAtmikA 
+prakRtiracetanApi satI, puruSasya viditaviSayopabhogautsukyAt puruSeNAbhedyaM pratipadya saka[4]laM vikAragrAmaM 
+prasUte | tatra cAyaM kramo, yaduta prakRte rmahAn mahAniti buddhe: paryyAya: mahato’haGkAra: sa ca trividha: |
+sAtviko rAjasastAmasa iti | tatra sAtvikAdahaGkArAt paJcabuddhIndriyANi zrotraM tvak cakSu: rasanaM ghrANa-
+miti | paJcakarmmendriyANi vAk pANi pAda pAyUpasyAkhyAni | ubhayAtmakaM ca mana: ityekAdaza pravarttante |
+rAjasAdahaGkArAt [5] paJcatanmAtrANi zabdasparzarUparasagandhA: | tanmAtrebhyo bhUtAni AkAza-vAyu-tejo-
+vAyu-jala-pRthivyAkhyAni | tAmamastvahaGkAra ubhayorahaGkArayo: pravarttaka ityevaM prakRtivikArarUpatvAt sakalasya 
+vikAragrAmasya trayo guNA: pravarttakA ityevaM yeSAM vAdinAM guNAnAM karttRtvamacaitanyaJca iti abhiprAya: |
+vastutatvavicakSaNA: teSAmunmatta[6]kAmAJca na kiJcidvidyate’ntaram iti pazyanti | unmattako hi nAma 
+@490
+viparyyastavijJAnasantati: | sa hi viparyyastena vijJAnena, yathArthaM na pratipadyate, viparItaJcAvadhArayati
+asadarthaJca pralapati, tathA cAyamapi sAMkhya: | acetanAnAM guNAnAM katRtvaM zAstreNa pratipAdayan yathArtho
+vyavasthApita: tathA na pratipadyate, viparItaJcAvadhArayati, asadarthaM [7] pralapatIti tulya evonmattakai: ma 
+bhAvyate | api cAsyAyaM puruSo vikAragrAmasyAkarttA ca bhoktA ca | guNAstu karttAro na tu bhoktAra: tadathaM 
+karttRtvamabhoktRtvaJca nirupapattikaM guNAnAmAvedayan atyantAyuktatAmevAtmana: prakaTayatIti pratipAdayannAha ||
+karttunnAma vijAnanti gRhAdIn sarvvathA guNA: |
+bhoktuJca na vijAnanti kimayuktamata: param || 238.
+yuktiviruddhatvAt lokAsammatatvA[8]ccAsya matasya nAta:paramayuktataramastItyabhiprAya: | ityevaM tAva-
+dguNAnAM karttRtvamayuktaM |
+yasyApyAtmaiva karttA dharmmAdharmmayo: phalasya copabhokteti mahattasyApyAtmano nityatvamayuktaM ||
+yasmAt kriyAvAMzchAzvato nAsti || iha karotIti karttA tasya kriyAnibandhanaM karttRtvaM | nahyakiJcit 
+kurvvANo nirhetuka: kazcit kartteti yujyate | sati ca kriyAvattve ; niyatantu kriyAprAgava [3 5]
+@491
+{1[##Leaf 23 of the MS.##]}si | tathAhi tasyAnAgatabhAvavyutpA[da]hetupratyayairvarttamAnatA bhavati | na caivamasaMskRtaM svarUpAt pracyavata iti 
+nAsyA saMskRtavannityatvamiti | evamapi kalpyamAne |
+vinApi janmanA bhaGgAdanityo yadyanAgata: | 253.
+evaM tarhi ||
+atItasya na bhaGgo’sti sa nitya: kiM na kalpyate |
+yadi svarUpapracyutisadbhAvAdanAgatasya nityatva + + + + + + tItasya tarhi svarUpapracyuti-
+rnAstIti sa nitya iti kalpyatAM | 
+kasya vA padArthasya zakyamanityatvaM kalpa[2]yituM | yadA ca na zakyate tadA sarvvapadArthAnAma-
+nityatvasyAsambhavAnnityataiva sambhAvyate | tatra tAvat ||
+anityo varttamAnoyamatItazca na jAyate | 254.
+yastAvadayaM varttamAna: padArtha: tasya tAvadanityatvaM nAsti | sa hi varttamAnatvAt svabhAvAdacyute-
+rvarttamAna iti vyapadizyate | yasya cAnityatvaM sa varttamAna eva na bhavatyabhAvenAbhisambandhAt | bhAvAbhAvayozca 
+yugapadasambhavAt | varttamAnasyAnityatvaM na sambhavati | atItasyA[3]pyanityatvaM na sambhavati | vinaSTo hyatIta 
+ucyate | na ca vinaSTasya punarapi vinAzo nyAyyo ni:prayojanatvAt AzrayAbhAvAt anavasthAprasaGgAcca |
+evaM tAvat anityo varttamAnoyamatItazca na jAyate | na ca varttamAnAtyatItau muktvA tasyAnityatvasya 
+tRtIyovakAzo yujyata ityAha ||
+tAbhyAmanyA tRtIyApi gatistasya na vidyate || 255.
+utpannasya yadA nityatAzrayasyAni[4]tyatvamasambhAvyaM tadotpattizUnyasyAnAgatasyAkAzAderiva tatsyA-
+dityatyantamasaMgatam | na cAnityatArahitasyAkAzAderadhvatrayakalpanA yuktimatI tadvat sasvabhAvabhAvavAdino 
+na yuktaM adhvatrayam | atrAhAstyeva anAgato bhAvastasya satsu pratyayeSu janmadarzanAt | nahyasata: pUrvvaM, pazcAt 
+janma yujyate bandhyAputrAderiva | tatazca janmadarzanAt astyevAnAgato bhAva iti | evamapi kalpyamAne | [5]
+ya: pazcAjjAyate bhAva: sa pUrvvaM vidyate yadi |
+na mithyA jAyate pakSasteSAM niyativAdinAm || 256.
+ya utpAdAt prAgavastho bhAvo hetupratyayai: pazcAt jAyate sa yadi utpAdAt pUrvvaM svarUpato-
+‘stIti kalpyate evaM sati niyativAdinAM pratiniyatasvabhAvaM nirhetukaM puruSakArazUnyaM upapattiviruddhaM
+jagadvarNayatAM nAbhyupagamo mithyA syAt | na ca na [6] mithyA teSAM vAdastatpakSasya dRSTAdRSTavirodhAt 
+puruSakArAnapekSatvAt teSAM jagatpratItyasamutpAdAbhAvastadabhAvAcca svaraviSANavat sarvvaM jagadagrAhyaM syAditya-
+yukto niyativAda: | yadi cAsyAnAgatasadbhAvavAdino nyAyya: syAt tadA niyativAdinAmapi vAdo nyAyya: 
+syAdityayukto nAgatArthasadbhAvavAda: | itazcAyukto yata: ||
+saMbhava: kriyate yasya prAkso[7]’stIti na yujyate |
+sato yadi bhavejjanma jAtasyApi bhavedbhava: || 257.
+@492
+yasyArthasya hetupratyayairutpAdanaM sambhava: kriyate, sa janmana: pUrvvamapyastIti na yujyate | yadi hi 
+tasyAstitvaM syAt tadA sato vidyamAnasya punarapi janma syAt na ca sata: punarapi janma nyAyyaM, ni:prayojana-
+tvAt aniSTaprasaGgAt, AsaMsAramekasyaivArthasya punarutpAdenAparisamAptodayasya sata: tatpadArthAntarApravRtte-
+rhetuphalabhAvavyAghAta: syAt [8] asti ceyaM hetuphalabhUtAnAM padArthAnAM santAnAnuvRttiriti na yukto nAgata-
+padArthasadbhAvasya vAda: | atrAha || yadi anAgataM na syAt yadetadanAgatArthAlambanam yoginAM praNidhijJAnaM
+yathArthaM na syAt | asti caitadyathArthaM yoginAM jJAnaM, yathArthAnAgatArthavyAkaraNAt, tasya ca tathaiva bhAvAt 
+na hyasatsu bandhyAtanayAdiSvetatsambhavati, tasmAdastyevAnAgata iti | ucyate | tAttvikayA kalpanayA [23 ka]
+dRzyate’nAgato bhAva: | kenAbhAvo na dRzyate | utpAdAt prAgavasthAyAmanAgato bhAvo nAsti svarUpata iti 
+pratipAditam | yadi cAvidyamAna: padArtho yogibhirdRzyeta bandhyAputrAdayopi dRzyeram | dvayorapi tulyaM 
+svabhAvAsattvaM tatraiko dRzyate netara iti na yujyate | kiM puna: yogino nAgataM nekSante | yathA bhavAn 
+parikalpayati tathA nekSante | yathAbhUtenAnAgatenArthena varttamAnAvasthena bhavitavyam | teSAM praNidhibalAkSipta-
+samAdhivize [3] SAttu jJAnamutpadyamAna-tathA-padArthAkAraM parikalpayadutpadyate | natu varttamAnanIlAlambana-
+vijJAnavat tu tajjJAnaM sannihitavastvAkArAnukAri jAyate tattasya jJAnArthasya varttamAnatvaprasaGgAt | vastu-
+satpadArthavAdino hi yAvattasya vastuno’stitvaM tAvattathAsvarUpasyaiva padArthasvarUpa[na]dhigamastadAsya tadvastu sarvvathA-
+bhAvAt svaraviSANaprakhyamiti dvayavAdAnatikramAt asya sarvvamevAbhisamIhitaM durghaTaM jAyate | [3] ni:svabhAva-
+vAdinastu sarvvathA vastusvarUpasyAsambhavAt bhAvakalpanA dUrotsAritA | yena hyutpattavyaM na tasya nAstitvaM, yadi 
+hyasya nAstitvaM syAttadAsya kharaviSANAdivadutpAdo na syAt | athAsyAstitvaM syAttadA varttamAnasyevotpAdo
+na syAdasti cAsyotpAda iti siddhoyamadvayavAda: | yata evAsya nAstitvaM nAsti tata evAnAgatadarzanamaviruddhaM 
+atazcAstitvaM nAsti tata [4] evAnAgatavyapadezopi sidhyati | eSa ca laukiko vyavahAro na paramArtha 
+iti nAtraikAntenopapattiravatAryyate | buddhAnAM bhagavatAM yadanAgate jJAnaM tat pUrvvapraNidhAnAdhiSThAnAkSipta-
+yathArthapratipAdakazabdazrutibalAdhAnAt tathAvidhadharmmazravaNasambarttanIyakarmmavizeSaprabhAvapariNatavijJAnasantAnA: 
+tathAkArAnubiddhavijJAnodayAstathAgatAdhiSThAnAt tamarthaM pratipadya[5]mAnA yathArthaM pratipadyante | kAlAntareNa 
+ca tamarthaM varttamAnIbhUtaM tathaivAvagacchantItyevamanAgate buddhAnAM jJAnaM vyavasthApyate | na tu pUrvvadharmmasvabhAva-
+vyavasthitAste kiJcit pazyantyudAharanti cetyalaM prasaGgena | evaM tAvadanAgatapadArthasadbhAvavAdino nAgata-
+darzanAsambhava: | api ca | yasyAnAgatIrtha: svarUpato’sti, tasya na taddUre syAt, asti cAsya dUratvaM | dUraM 
+dharmmA: katame a[6]tItAnAgatA: | antikaM dharmmA: katame pratyutpannA: ityabhyupagamAdanAgatamasya dUre, taccAsya 
+dUratvamayuktamiti pratipAdayannAha |
+vidyate nAgataM yasya dUraM tasya na vidyate | 258.
+varttamAnasya vidyamAnattvAdityabhiprAya: | yazcAnena kalyANamitrasamparkadharmmazravaNendriyaparipAkAdikA-
+dbhAvina: pratyayAddAnazIlAdyAtmako dharmma: mopyanAgatArthasadbhAvavAditvAda[7]styeveti | tadA |
+dharmmo yadyakRtopyasti niyamo jAyate vRthA |
+@493
+yadarthamasya kAyavAGmanasAM saMyama: sa dharmmo’syAkRta evAstIti tadupArjjanAya niyamazramo’sya vRthA |
+tena vinipAtasyAsambhavAt | athAsya tena niyamena tasya dharmmasya kazcidvizeSo niSpAdyate, sa eva vizeSa: 
+pUrvvamasan(t)t pazcAt kriyate iti vyAhanyate’sya tarhi sadbhAvavAditvamiti pratipAdayannAha-
+atha svalpo’pi karttavya: satkAryyasya na sambhava: | 259.
+api ca | yasyAnityA: saMskArA ityabhyupagamastasyAdhvatrayepyavyabhicArAdanityatAyA yadanityatvaM tasya 
+pUrvvAparayorbhAgayorniyatamasattvena bhavitavyaM; evaM hyasyAnityatvaM sidhyati | athodayAt pUrvvAparayorapyavasthayorasyA 
+stitvaM syAttadAsya+ + +cApadyate | athAnenAnityatvamaGgIkriyate tadAsya anitye sati satkAryyaM kathaM nAma [23]
+@494
+{1 [##Leaf 24 of the MS.##]}vRttyA mokSAvAptiriti nizcaya: | yadA caivaM sarvvatyAgena sarvvapASaNDinAM nirvvANamabhimataM tadA na
+kiJcit mayAtrApUrvvamupacaritam yadvaimukhyakAraNaM bhavet | yeSAmeva hi padArthAnAM nirvvANe punarapravRttyA 
+nivRttirabhisamIhitA teSAmeva mayA nai:svAbhAvyapratipAdanapareNa zAstreNAsaddarzanakaTA + + + + + +
++ + nirvvANanagaragAmimArgaparizodhanamanuSThitaM, tatkimiti hradi bhayamasadAlikhya bhavAn vibhe[2]ti |
+AdhIyatAM mana:paritoSa:, kriyatAM AtmamAdayaM dharmmo, nivezyatAM cetasi sAMklezikavastunivAraNakathA | nanu
+ca yadi sarvvapASaNDinAmapyayamevAbhiprAya: yaduta sarvvatyAgena nirvvANamiti ; ka: punarbhavatastIrthikAnAJca 
+vizeSa: | ayaM vizeSo yattIrthikAnAM sarvvatyAgAbhi[prAya]mAtraM na tu puna: sarvvatyAgopAyAkhyAnamanupadiSTe ca 
+sarvvatyAgopAye 
+kiM kariSyati sa tyAgaM tyAgo[3]pAyaM na vetti ya: |
+sarvvatyAgAzaye’pi sthitatIrthikamatAvalambI tyAgopAyAnabhijJa: kiM tyAgaM kariSyati | yanna jAnAti 
+sarvvadharmmasvabhAvazUnyatAlakSaNaM sarvvatyAgopAyaM paramArthasatyam | ataeva |
+zivamanyatra nAstIti nUnaM tenoktavAn muni: | 265. 
+ihaika: prathamazravaNa iha dvitIyo yAvaccaturtha: | zUnyA: parapravAdA: zravaNairityamunaivAbhisandhinA
+muninaivamu[4]ktamiti nizcIyate asmAdeva ca sarvvatyAgopAyasamAkhyAnAt sarvvatraiva bhagavato buddhasya jJAna-
+pravRttyavyAghAtena yathArthazAstRtvaM pratIyate | tIrthikAnAM ca sarvvatyAgopAyasamAkhyAnasAmarthyavaikalpyenetaracApi 
+padArthajAte viparyyastavijJAnatA siddhatvAnna sAdhyA (##marginal note## aniSTa siddhe:) | nanu ca tavApi
+aparyyantatvAt jJeyasyAtIndriyeSvartheSUpadiSTeSu asamakSatvAt te[5]SAM saMzaya eva jAyate kimasAvartho 
+yathopadiSTastathaivAhosvit anyatheti | na hi tadviSayaM nizcayakAraNamastIti | tatrApyucyate ||
+buddhokteSu parokSeSu jAyate yasya saMzaya: |
+ihaiva pratyayastena karttavya: zUnyatAM prati || 266.
+na hi sarvve bhAvA: pratyakSajJAnagamyA anumAnagamyA api vidyante | zakyaM cAtrAnumAnaM karttuM 
+dRSTAntasadbhAvAt | iha tyA[6]gopAya: sarvvadharmmasvabhAvazUnyatA | sA cAzakyA kenacidanyathAtvamAsAdayituM ;
+sUkSmazcAyamartho nityasannihito’pi sarvvajanAsamakSatvAt tasya copapattyA sarvvadharmmasvabhAvagrAhavinivAraNa-
+mukhenopapAditA yathAvattA | atraiva tAvadAsthIyatAM nizcaya: | kimevamevaitat utAho’nyatheti athAtrAsti
+kiJcidanizcayakAraNaM tadupadizyatAM yadi tanna nirAkRtaM [7] uktavakSyamANaprakaraNapratipAditanizcayena |
+na ca zakyamanena svalpamapyanizcayakAraNaM kiMcidabhidhAtumiti siddha evAyaM dRSTAnta: tatazcAnyadapyasamakSArtha-
+pratipAdakavacanaM bhagavato yathArthamiti pratIyatAm svanayenaiva tathAgatopadiSTatvAt svabhAvazUnyatArthAbhidhAyaka-
+vacanavaditi kuto buddhokteSu parokSeSu saMzayAvakAza: | na ca tathAgatavattIrthikAnAmapi zakyama[8]viparI
+tArthAbhidhAyitvamavasAtuM teSAM dRSTa eva viparyyastatvAt | tathAhyasya lokasya tairnnityakAraNapUrvvikA pravRttirUpa-
+dizyate | sA cAzakyapratipAdyA dRSTaviruddhA copapattiviruddhA cetyevam |
+@495
+lokoyaM yena durdRSTo mUDha eva paratra sa: |
+na hi sampUrNe candramasi vyAhatadarzanasAmarthyo dhravamarundhatIM vApazyatIti sambhAvyaM | tadvadayaM tIrthiko 
+lokasya sattvabhAjanAkhyasya he[24 ka]tuphalavyAmUDhatvAt sthUlamevArthaM tAvadyadA na samyagIkSate, tadA 
+kathamayamatisUkSmaM vidUradezakAlavyavahitaM saprabhedamarthaM jJAsyatIti sa[mbhA]vayituM zakyam | tadimaM tIrthikaM 
+svayamatyantaviparyyAsitadarzanaM mRgatRSNAjalavadanupAsanIyam tattvadarzanAmalajalapipAsava: saMsArAdhvaparizrama-
+klamApanodAya |
+vaJcitAste bhaviSyanti suciraM ye’nuyAnti tam | 267.
+aparyyavasAnAparakoTike saMsAre te vata vaJcitA bhaviSyanti ye yathArthazAstAraM [2] buddhaM bhagavanta 
+mavadhUya dRSTAdRSTapadArthasvabhAvavyAmUDh+aM mokSakAmatayA tIrthikamanuyAsyanti | kasmAt punarete mokSakAmA[sta]-
+mevaM viparyyastadarzanaM tIrthikamanugacchanti | svabhAvazUnyatAdharmmopadezazravaNabhayAttadbhayaM{1 ##A later hand cuts out## dbha ##and writes on the top## rA. ##retaining the “ya” inserted between## dbha ##and## nna ##by the
+original writer of the MS., making the whole o.## bhayAturAyannAstIhaM ##which gives no meaning.##} nAstyahaM na bhaviSyAmi 
+na me’sti na bhaviSyati ityAlambyottrAsAt | tatrAyaM suciramahaMkAramamakArAbhyAsAdata eva kalyANamitrapari-
+graham#t sucirAbhyastamapi bhAvasvabhAvAbhinive[3]zaM malavat tyaktvA |
+svayaM ye yAnti nirvvANaM te kurvvanti suduSkaram |
+buddho bhagavAn svayaM bhUttvA svayameva nirvvANapuramupayAti tasyetthaM duSkarakAriNa: |
+gantuM notsahate netu: pRSThato’pyasato mana: || 268.
+na kevalamasatAM ahaGkAramamakAravyavasthitAnAM svayameva nirvvANaM gantuM mano notsahate ; api khalu 
+yathopavarNitasya netu: pRSThato’pyasyAmato nirvvA[4]NaM gantuM mano notsAhaM pravedayate | kasmAt punaranyasya netu:
+pRSThatopyasata: pudgalasya nirvvANaM gantuM mano notsahate zUnyatAyAM trAsAt | kasya punarasyAM trAso bhavatIti 
+yasya bhavati taM prati pratipAdayannAha |
+trAso nArabhyate’dRSTe dRSTe’paiti sa sarvvaza: ||
+niyamenaiva kiJcitjJe tena trAso vidhIyate || 269.
+avyutpannazAstrasaMketA hi gopAlAdaya: zatazo’pyupadizyamAnAyAM zU[5]nyatAyAM sarvvathA tadanupravezA-
+bhAve satyadRSTatvAt zUnyatArthasya teSAM trAso notpadyate | tasmin kSaNabhaGga iva tadvyAmUDh+asya nArakAgnAviva 
+mithyAdarzanopastabdhasantAnasya dRSTe’paiti sarvvaza: | dRSTe hi zUnyatAkhye dharmme sa mantrAsastatpaNDitAnAM sarvvathApaiti 
+bhayanimittAtmAtmIyAbhinivezavigamAt | rajjvAmupayAtamarpaviparyyAsasya rajjudarzane sati sarpabhayApagamavat |
+ya[6]stu kiJcijjAnAti tasya niyamenAvazyaMbhAvitayA trAso vidhIyate | na hi suzikSito mattagajAvAhako 
+hastinyutkAlyamAnastato vibheti nApi tatvAhanotsuko’tyantamUrkho grAmINa: | sa hi tatpAtAdidoSA-
+darzanAdvAhanameva bahu manyamAno na tato vibheti | kiJcijjJastvatitarAM vibheti, AtmanastadAsanAparijayaM 
+@496
+manyamAna: | api khalu sarvvakAryyeSvevaM pravR[7]ttau kiJciJjJasya niyataM trAso bhavati | na viditatattvasya 
+vaizAradyAt, nApyatyantAnabhijJasya mohasandhAritatvAt, kiJcidvijJastu trasyati, kimetacchakyaM na zakyamiti
+vimarzotpAdAt | kimarthaM punaramI kiJciJjJA uttaraM padaM na paryyeSante, yAvataiSAM jJAtavyaparisamApti rbhavatIti |
+ucyate, trAsAt | kiM punastrAsasya kAraNam | AhAnabhyAsastasya puna: kiM kAraNam viparItAbhyAsastadeva 
+pratipAda[8]yannAha 
+ekAntenaiva vAlAnAM dharmme’bhyAsa: pravarttake |
+dharmmAnnivarttakAtteSAmanabhyAsatathA bhayam || 270.
+saMsArapravRttyanukUlo hi dharmma: pravarttaka: pRthagjanaparyyApannAyAJca bhUmau sthitAnAM pRthagjanAnAM pravarttaka
+eva dharmme’bhyAsa: | svabhAvazUnyatA hi nivarttakodharmma: saMsAranivRtyanukUlatvAt + + + + sya paripanthI 
+AtmasnehastadanugatacittasantAnatvAt pRthagjanAstatvyAvarttakAddharmmAt suta[2 4]{1 [##Leaf 25 of the MS.##]}rAM vibhyati | svabhAvazUnyatAM 
+prapAtamiva manyamAnA na tAM yathAvat pratipattumutsahante | tadevamavidyAsAndrAndhakArapracchAditapadArthatatve-
+‘nupalabhyamAnAparakoTike saMsAramahATavIkAntAre pranaSTasanmArgasya kasyacinnAma pudgalasya bhavati svabhAva-
+zUnyatAkathAyAM cedbhakti: sa tadanukUlapratyayopa + + + + + + + ccIyamAnaprasAda: zUnyatAyAM bhavati, tathA 
+kAryyaM karuNAvatA kRtajJena ca bha[ga]vati tathAgate | saddha[2]rmmAntarAyanimittaM ca karmmAtmano mahA-
+prapAtahetuM parijihIrSa[dbhya:] saMkaTamapyavagAhya durddeyamapi dattvA saMgrahavastucatuSTayeNa saMgRhya saddharmmo’yaM saddharmma-
+bhAjanebhya upadeSTavya: | yastu na kevalaM yathopadiSTaM na bahu manyate | api tu 
+vighnantatvasya ya: kuryyAt vRto mohena kenacit |
+kalyANAdhigatistasya nAsti mokSe tu kA kathA ||
+mohena kenaciditi IrSyA-mAtsaryya-kausIdya-bhaya-zrotRvidveSAdinA tattvopade[3]zabhAjane jane 
+yastattvadezanazravaNAdivighAtakaM karoti | tasya sugaterapi tAvadeva manuSyAtmikAyA nAsti sambhavo niyatamapA-
+gamanAt kimutAsya mokSakathAvakAza: syAt | kiM hyanena svaparasantAnayornApakRtam | tena hi ni:zeSA-
+zAmukhavyApina: sphuTatarAlokasyAdhvatrayApratihataprabhAvRtte: pratidinamavidyAndhakAropaghAtAyopakSIyamAnAloka-
+nicaya[4]syAzeSajagadAzayAvabhAsanasamarthasya prajJApradIpasya santAnena samupajAyamAnasya vighAto’nuSThita: |
+evameva parAtmanoratyantApakAritAM saMpazyatA bhagavatA tathAgatenoktam |
+“zIlAdapi varaM sraMso natu dRSTe: kathaJcana |”  iti ||
+sUtre uktam, varaM zIlavipanno natu dRSTivipanna iti | tadasya tathAgatasya vacasa: sopapattikatA-
+mudbhAvayannAcAryya Aha |
+“zIlena gamyate sva[5]rgo dRSTyA yAti paraM padama” iti |
+zIlavipatti rhi sUpacIyamAnamRdumadhyAdhimAtrakramANAM pretatiryyaGnarakopapattiphalA vipAkeyattA-
+@497
+paricchedena pravarttate yadyAkrAntasamyagdarzaneSvAryyeSu na vyApadyate | zIlavizuddhistvanAkrAntasamyagdarzanAnAM pRthag-
+janAnAM prakarSeNa svargaphalA | darzanavipattistu mRdutarA cet sa pyamakhyeyazatasahasrerapi zIlavipattInAM 
+azakyA[6]vipAkamahattayA samIkarttumapi prAgeva jetum | atha cedasya pudgalasya kathamapi pratyakSa samya-
+gdarzanasampattirAjAyetAryyamArgotpAdAt | tadAyamavazyamavadhUyAnAdisaMsArapravRttamavidyAndhakAramazeSasattvadhAtu-
+puraskRto nirvvANamupayAyAdityevamatimahArdhatAmasya tattvadarzanasyAvetRtaitadavighAtAya viduSA yatitavyam | na 
+cAnena tadvighAtabhayada[7]rzinA matA sarvvatraiva anavadhAryya pAtravizeSaM etannairAtmyadarzanaM upadeSTavyamapAtreSu |
+apAtre hi tadupadezo’narthAyaiva syAt | ataeva ca |
+ahaGkAro [‘]sata: zreyAnnatu nairAtmyadarzanam |
+nairAtmyadharmmAdhimuktivirahito hyAtmagrAhAbhiniviSTo’saddharmmasamAzrayAdRSTigahanAnucArI asannityu-
+cyate | tasyAsato varamAtmadezanA duzcaritanivRttyanukUlatvAt tasyA: | tathAhyasAvAtmasnehAnugamAddhi [8]
+tamAtmanAbhivAJchan duzcaritanivRttiM bahu manyate | nivRttapApasya cAsya sugatigamanaM bhavati sulabham |
+nairAtmyopadezastasya pratikSepaviparyyAsabodhAbhyAM kAyacittamantAnaM niyatamupahanti | tadevaM 
+apAyameva yAtyeka: zivameva tu netara: |
+nairAtmyadarzanavipratipanno hyavidvAn apAyameva yAti na zivaM | yastu netara: sa zivameva yAti 
+nApAyam | itarazabdo’yamanutkRSTavAcI | kazcA[2 4 ka]nutkRSTo viparItaM zUnyatArthamadhigacchati prati-
+kSipati vA tatpratiSedhena netara: | netara ityutkRSTa ityartha: | yataeva zUnyatopadezAditaro’pAyaniviSTastataeva 
+zUnyatopadezAnnetaro nirvvANaniSTho jAyate | zUnyatAdarzanapratyaya:(yaM)sarvvatra saGgaparityAgAnnihataklezakarmmagaNo 
+niyataM nirvRttimupayAti | kiM punaridaM nairAtmyannAma yadasatsu nopadeSTavyaM satsu copadeSTavyamiti tat-
+pratipAdayannAha ||
+advitIyaM zivadvAraM kudRSTInAM bha[2]yaGkaram |
+viSaya: sarvvabuddhAnAmiti nairAtmyamucyate ||
+yat advitIyaM zivadvAraM tannairAtmyaM yat kudRSTInAM bhayaGkaraM tat nairAtmyam | yo[viSa]ya: sarvva-
+buddhAnAM tannairAtmyamucyate | taccAtmA nAma bhAvAnAM yadaparAyattasvarUpasvabhAva: | tacca dharmmapudgalabhedAt dvaitaM 
+pratipadyate | dharmmanairAtmyaM pudgalanairAtmyaJceti | tatra pudgalo nAma ya: skandhapaJcakasyopAdAnAkhyasyopAdAtA 
+skandhAnupAdAya prajJapyate | sa ca skandheSu paJcadhA [3] mRgyamANo na sambhavati | dharmmAstu skandhA ghanadhAturmazabditA:
+padArthAstadeSAM dharmmANAM pudgalasya ca yathAsvaM hetupratyayAdhInajanmatvAt upAdAya prajJapyamAnatvAcca svAyatta-
+maparAyattaM nijamakRtakarUpaM nAstIti pudgalasya dharmmANAJca nai:svAbhAvyaM vyavasthApyate | yasya cArthasya svarUpasiddhi-
+rnAsti tasya kenAnyenAtmanAstu siddhiriti | sarvvathA amiddhakhalakSaNA e[4]va padArthA: mUrkhajanasya visamvAda-
+kenAtmanA pratItya copAdAya vA varttamAnA mUDh+adhiyAM saGgAspadaM sambhavanti ; yathAsvabhAvantu samyagdarzanai: prati 
+bhAvyamAnA dharmmapudgalayo: saGgaparikSayazca nirvvANAvAptikAraNaM | nairAtmyamadvitIyaM zivadvAraM bhavati | nirvvANa-
+purapravezAya ekamevAsahAyametat dvAraM | yadyapi zUnyatAnimittApraNihitAkhyAni trINi vimokSamukhAni |
+@498
+tathApi [5] nairAtmyadarzanameva pradhAnam | viditanairAtmyasya hi bhAveSu parikSINasaGgasya na kvacit kAcit 
+prArthanA kuto vA nimittopalambha ityadvitIyameva zivadvArametat nairAtmyam | taccaitat kudRSTInAM bhayaGkaraM 
+kRsitA dRSTaya: | nairAtmye hi vastuna: sarvvathAnupalambhAt kudRSTInAM vastusvarUpaparikalpamamAzrayanAt 
+atyantavinAzadarzanAt bhayaGkarametannairAtmyam | viSaya: sarvvabuddhA[6]nAM nairAtmyaM | sarvvabuddhAnAmiti zrAvaka-
+pratyekabuddhAnuttarasamyaksambuddhAnAM jJAnavizeSaviSayatvenAvasthAnAt viSaya: sarvvabuddhAnAmityucyate dharmmazarIrA-
+vyatirekavarttitAM vA sarvveSAM samyak sambuddhAnAmAvedayannAha viSaya: sarvvabuddhAnAmiti | vizeSaNamAlaya-
+nairAtmyamuktamAcAryyeNa etacca nairAtmyaM satA mandadhiyo nopadeSTavyam yasmAt ||
+asya dharmmasya nA[7]mno’pi bhayamutpadyate’sata: || 271.
+asato hyasya dharmmasyAtidurgAdhagambhIratvAt nairAtmyazabdazravaNAdapi bhayamutpadyate | tathA hi ||
+valavAn nAma ko dRSTa: parasya na bhayaGkara: ||
+balavannerAtmyadarzanaM sarvvAsaddarzanonmUlanasamarthatvAt || durvvalamasaddarzanamunmUlanIyatvAt | niyataJcaitat 
+yada[ba]lavAn sabalAdvi[bhe]tIti | tasmAnna durvvalasya kudarzanenAtmIkRtacittasantAnasyAyaM dharmma: upadeSTavyo
+bhayaheturiti kRtvA | nanu [8] ca upadeSTavya evAyaM dharmma: sakalakudarzanapramAthitvAt | tathAhya[va]zyaM parapravA-
+dina: saha dharmmeNa nigrahItavyA: | tatazca vAdArthinA satA paramatavijigISuNAyaM dharmmo’pAtreSvapyupadeSTavya iti |
+ucyate naitadevaM yasmAt 
+vAdasya kRtazo dharmma: nAyamuktastathAgatai: | 272.
+yadi cAyaM dharmma: vAdasya kRte+ + + +syAt syAdetadevaM na tvayaM vAdArtha upadiSTo vimokSamukhenopa-
+dezAt || yadyapyevaM [2 5]
+@499
+{1 [##Leaf 26 of the MS.##]}sya: pazyettadrUpaM pazyedviSayadezaM vA gatvA pazyedagatvA vA ubhayathA [ca] doSa iti pratipAdayannAha |
+pazyeccakSuzcirAddUre gatimadyadi tadbhavet |
+atyabhyAse ca dUre ca rUpaM vyaktaM na tacca kim || 288.
+yadi cakSuSa: prAptakAritvAt viSayadezaM gacchet | tadonmiSitamAtreNa na candratArakAdInarthAn 
+gRhNIyAt | + + + + + + + + + 
+tulyakAlaM viprakRSTaviSayagrahaNayuktaM gatikAlasya bhinnatvAt | pazyati ca cakSurunmi[2]SitamAtreNa 
+samIpasthavat vidUradezasthamapi ityayuktame[ta]t | yadi [ca] prAptakAri cakSu: syAt tadAtyabhyAse’pi pazyet 
+akSistha[#]maJjanazalAkAM vA dUre ca vyaktadarzanaM syAt na caitat sambhavatIti ayuktametat | api ca yadi 
+cakSurgatvA viSayaM pazyati tat kiM viSayaM dRSTvA viSayadezaM gacchati uta adRSTvA | u[bha]yathApi doSa 
+i[ti] pratipAdayannAha |
+gatena na guNa: kazcit rUpaM dRSTvAkSi yAti cet |
+draSTavyaM niyameneSTamiti vA jAyate vR[3]thA || 289.
+yadi rUpaM dRSTvA rUpadezaM cakSuryAtIti kalpyate | gatena tena gamanena cakSuSo na kiJcit prayojanaM |
+viSayadarzanArthaM hi cakSuSo gamanaM ma ca viSaya: pUrvvamevehasthena dRSTa iti [na] kiJcidgamanasya prayojanam |
+athAdRSTvA gacchati tadA didRkSitaviSayadarzanaM niyamena na prApnoti | adRSTvA hyandhasyevAnabhilakSitadezagamanA-
+ddraSTavyasya niyamena darzanaM na prApnoti | a[4]thaitaddoSaparirjihIrSayA yadi,
+gRhNIyAdagataJcakSu: pazyet sarvvamidaM jagat |
+yasya nAsti gatistasya nAsti dUraM na cAvRtam || 290.
+yo hi manyate cakSu: zrotramano’prAptaviSayamityAgamAdaprAptavi[Sa]yameva cakSuriti taM prati ucyate |
+prAptakAritAmAtrapratiSedhaparatvAt Agamasya tAvadavirodha: | kvacit vidhe: prAdhAnyaM, yatra tasyAvirodha: |
+kvacit pratiSedhasya prA[5]dhAnyaM yatra tadvirodha: | tadatra vidherasambhavAt prAptakAritApratiSedhamAtreNAprApta-
+viSayatvaM vyavasthApyate | vidhimukhena tvaprAptaviSayatve kalpyamAne ihasthameva cakSu: sarvvaM jagat pazyet | yasya hi 
+gatirnAsti tasya kuto dUraM | samIpasthopi hi anenArtho’gatvA draSTavyo vidUrasthe’pIti dUrakRtopi vizeSo na 
+syAt | yadA cAgatvA pazyati tadihasthamiva [6] vidUramapi pazyet | gatau hi satyAM AvRte gativighA-
+tAdAvRtaM nekSata iti yuktam | yadA tvagatvA draSTavyaM tadAvRte gatipratibandhAbhAvAdanAvRta iva darzanaM syAt |
+yadi ca darzanasvabhAvaM cakSu: syAt tadA svabhAvasya sarvvatraivAvyAghAtAt svarUpamapi pazyet | tathA hi loke, 
+svabhAva: sarvvabhAvAnAM pUrvvamAtmani dRzyate |
+grahaNaM cakSuSa: kena cakSuSaiva na jAyate || 291.
+yathA [7] campakamallikAdiSu saugandhyaM pUrvvaM svAzraya evopalabhyate, pazcAt tatsamparkAttailAdiSvapi |
+yathA cAgnerauSNaM, svatovyavasthitaM tadyogAt paratopyupalabhyate | evaM yadi cakSuSorddazanasvAbhAvyaM syAt tadA 
+@500
+svAtmanyeva tAvaddarzanaM syAt | kasmAt punazcakSuSo grahaNaM cakSuSaiva na bhavati | bhAvAnAM svabhAvasya ca svAtmanyeva 
+prathamataraM vidyamAnatvAccakSuSaiva cakSuSo grahaNaM nyAyyaM | na cakSu: svAtmAnaM pazyatIti [8] loSTrAdivat 
+paradarza[na]mapyasya na sambhAvyate | yastu manyate na kevalasya cakSuSo rUpadarzanasAmarthyamasti api tu trayANAM 
+cakSUrUpacakSurvijJAnAnAM sAmagryAM satyAM rUpadarzanaM bhavatIti tadapyasAraM yasmAt, 
+cakSuSosti na vijJAnaM vijJAnasya na darzanaM |
+ubhayaM nAsti rUpasya tai rUpaM dRzyate katham || 292.
+cakSuSastAvat vijJAnaM nAsti na hi cakSurviSayaM vijAnAti avijJAnasvarUpatvAt | bhautikaM hi 
+cakSustasya ja[2 6 ka]D+atvAt viSayabodho na sambhAvyata iti evaM cakSuSo’sti na vijJAnam | nApi vijJAnasya 
+darzanamasti | vijJAnaM hi vijAnAti na tu pazyati | yadi tu vijJAnaM pazyet tadA tasyApi rUpadarzanaM 
+syAt, vijJAnamadbhAvAt | rUpasya tUbhayamapi nAsti ; na vijJAnamavabodhasvarUpavAt, nApi darzanaM rUpAlocanA-
+bhAvAt | yadA caivamanyonyAthAvakalAnIndriyaviSayavijJAnAni tadA tatsAmagryAmapi satyAM naiva tai rUpaM dRzyate 
+iti sambhAvayituM zakyam | rUpa[2]darzanAGgavikalatvAt andhasamudAyavadityabhiprAya: | yadA caivaM rUpasyA(# ?)-
+darzanAsambhava:; tadA ko nAmArhati tattvavid rUpaM dRzyate iti vaktuM draSTuM vA | yathA ca tattvavinnArhati 
+rUpaM draSTuM evaM zabdamapi zrotuM nArhati rUpadarzanavat zabdazravaNamyasambhavAt | iha yadi zabda: zrUyate | sa 
+zravaNadezaM saMprApto vA zrUyetAsaMprApto vA ? yadi tAvat saMprApta: zrUyate, sa zravaNadezaM vrajan zabdaM vA 
+kurvvANo vrajan ni:zabdo vA ? ta[3]tra yadi pUrvva: kalpastadA, 
+na vaktA jAyate kena zabdo yAti bruvan yadi |
+atha yAtyabruvaMstasmin pratyaya: kena jAyate || 293.
+tatazca vaktRtvAt devadattavat zabdo’mau na bhavati | athAbruvan yAti tadA tasmin zabde ni:zabde 
+vrajati zabdo’yamiti kasyAvasAyo bhavet | na cAgRhItasyAsyAstitvamiti na yuktametat | kiJcAnyat |
+prAptazcet gRhyate zabda: tasyAdi: kena gRhyate |
+na caiti keva[4]la: zabdo gRhyate kevala: katham || 294.
+yadi zrocendriyasthAnaM prApta: zabdo gRhyate prAptagrAhitvAcchrotrasya, zabdasyAdergrahaNannAsti na 
+cAnyadindriyaM tasya grAhakaM sambhavatIti | naiva kenacidasyAdi rgRhyate, tatazcAgRhyamANatvAcchabda evAsau na 
+bhavatItyabhiprAya: | navadravyakattvAcca zabdaparamANo: | na ca eti kevala: zabda: | bhavatA ca zabdamAtrameva 
+zrotreNa gRhyate na gandhAdaya iti na [5] yujyate | yadvA zabdasyAgrahaNamastu yadvA gandhAdayopi gRhyantAm 
+na caitadevamiti na prAptaviSayatvaM zabdasya | atha yadetaduktaM 
+prAptazcet gRhyate zabdastasyAdi: kena gRhyate | iti
+yadi tasyAdi rna gRhItastadA ko doSa iti ; ayaM doSo yadasya zabdatvameva vizIryyate tathA hi |
+yAvanna zrUyate zabdastAvacchabdo na jAyate |
+azabdasyApi zabdatvamante tacca na yujyate || 295.
+@501
+yo na zrUyate [6] so’zrUyamAnatvAt gandhAdivat zabda eva na bhavati | atha manyase yadA zrUyate
+tadA zabdo bhaviSyatIti | etadapyasambhAvyam | na hi gandhAde: pazcAt zabdatvaM dRSTaM tadvadevAsyApi zabdasya 
+pazcAt zabdatvamayuktamiti | evaM tAvadindriyANAM viSayagrahaNAsAmarthyamudbhAvya manaso’pi viSayagrahaNA-
+sAmarthyamudbhAvayannAha |
+viyuktamindriyaizcittaM kiM gatvApi kariSyati |
+yadi cittaM viSayadezaM [7] gatvA viSayaM paricchinattIti kalpyate tadayuktam | ihedaM cittaM indriya-
+sahitaM vA viSayadezaM gacchet kevalaM vA na tAvadindriyasahitaM yAti indriyANAM deha eva sadA sannidhAnAt |
+gamane ca sati dehasya nirindriyatvaprasaGgAt | atha kevalaM gacchati, tadApi
+viyuktamindriyaizcittaM kiM gatvApi kariSyati |
+na hi cakSurAdIndriyadvAratiraskRtasyAsya rUpAdidarzanasAmarthyamasti andhAdInAmapi darzanAdi-
+sadbhAvaprasaGgAt | a[8]thApi kathaJcit viSayadezagamanenArthopalabdhirasya parikalpyate tadApyaparyyavasAnatvAt
+arthabodhasyAnivRttau satyAM |
+evaM satIha jIvoyamamanaska: sadA na kim || 296.
+acintaka evAtmA sarvvakAlaM prApnoti na ca acintakasyAtmakatvaM sambhAvayituM yuktam stambhAdivada-
+cintakatvAt | tadevaM yuktyA vicAryyamAnAnAM indriya + + + + + + + + sambhavAt svarUpasiddhigsatI |
+yadi hyeSAM svarUpasiddhi: syAt tadopapattyA vicAryyamA[2 6]{1 [##Leaf 27 of the MS.##]}NA yathAsthitena svarUpeNa sphuTataramupalabheran;
+na copalabhyante | tasmAt svabhAvazUnyA iti siddham | yadi, tarhyeSAM svabhAvo nAma nAsti tatkathameSA vizeSa-
+paricchedAtmikA saMjJA padArthavizeSavyavasthAhetutvenopadizyate | ucyate | satsu padArtheSu tadbizeSaparicchedA-
+tmikA saMjJA syAt | teSAJca padArthAnAmasattvaM prati + + + + + + + + + + svarUpasiddhi: syAt 
+kiM khalveSa viSayapariccheda: sarvvathA nAsti, na nAstIti svabhAva[3]sya vidyamAnatvAt | tathAhi 
+manasA gRhyate yo’rtha: pUrvvadRSTo marIcivat |
+sarvvadharmmavyavasthAsu sa saMjJAskandhasaMjJaka: || 297.
+iha cakSu: pratItya rUpaJca, cakSurvijJAnamutpadya, nirudhyamANaM, mahendriyaviSayairnirudhyate | tasminniruddhe 
+pUrvvavaddRSTo yortha: sa eva pazcAnmanasA gRhyate, kathaM punarasannihitasya grahaNaM saMbhAvyata ityAha | + + + + 
++ + + + cikAyAM jalamasti | api ca hetupratyayavazAt pravarttata eva jalAkArasaMjJA evamavidyamA[3]na-
+svarUpepi pUrvvagRhIte’rthe marIcyAmiva yadvikalpakaM vijJAnamutpadyate tat sarvvadharmmavyavasthAkAraNam |
+sarvvadharmmavyavasthAkAraNatvAcca sa eva saMjJAskandha ityukta: tathAvidhasaMjJAvizeSasaMprayogAt saMjJAvazana ca sarvva- 
+dharmmavyavasthA vijJAtavyA, na puna: padArthasvarUpanibandhanA, svabhAvasya sarvvathA’yujyamAnatvAt | yadyevamasti tarhi 
+svabhAvata: saMjJAskandha: | na hi tasminnasati sarvvadharmmanyava[4]sthA zakyA karttumiti | ucyate | sApi hi 
+@502
+saMjJA vijJAnasaMprayuktatvAt vijJAnavyatirekeNAmatI | tadapi ca vijJAnaM saMjJAvyatirekenAsiddhatvAt svarUpato 
+nAsti | yasmAt 
+cakSu: pratItya rUpaJca mAyAvat jAyate mana: |
+na hi tadvijJAnamutpAdAt prAgasti yadutpattikriyAzrayatvena pravartteta, satsvapi cakSurAdiSu pratyayeSu 
+vijJAnasya svarUpAsambhavAt | utpattikriyAyA apravRtterutpAdo [5] na yujyate | utpadyate caitadvijJAnamityata: 
+kiM nizcetuM pAryyate, anyatra mAyAdharmmatAyA: | uktaM hi bhagavatA, tadyathA bhikSava: mAyAkAro vA mAyA-
+kArAntevAsI, caturmmahApathe vividhaM mAyAkarmma vidarzayettadyathA hastikAyaM rathakAyaM pattikAyaM taM cakSuSmAn 
+puruSa: pazyet nidhyAyet yonizazcopaparIkSeta tasya taM pazyato nidhyAyato yonizazcopaparIkSamANa[6]sya asato-
+‘pyasya khyAyAt riktato’pi tucchato’pi asAratopi | tatkasya heto: ? kimasmin mAyAkRte sAramastIti |
+evameva yatkiJcidvijJAnaM atItAnAgatapratyutpannam AdhyAtmikaM vA vAhyamvA audArikambA sUkSmaM vA hInaM 
+vA praNItambA yadvA dUre yadvA atyantike tadbhikSu: pazyet nidhyAyet yonizazcopaparIkSeta tasya tat pazyato 
+nidhyAyato yonizazcopaparIkSamANasya a[7]sato’pyasya khyAyAt riktatopi tucchatopi asAratopi rogatopi 
+gaNDatopi zalyatopyaghatopi anityatopi du:khatopi zUnyatopyanAtmatopi asya khyAyAt | tatkasya heto: ? 
+kimasmin vijJAnaskandhe sAramastIti | yathopalabhyate vicAryyamANasya tathA svarUpAsambhavAt mAyAyuvatiprakhyaM 
+vijJAnamiti zakyamavasAtuM | tatazca sUktameva taccakSu: pratItya rUpaJca mAyAvajjAyate mana iti | ya[8]di 
+punarasya svarUpaM syAt tadA svarUpato 
+vidyate yasya sadbhAva: sa mAyeti na yujyate || 298.
+na hi loke svabhAvAt zUnyA sambhUtA strI mAyeti yujyate | evaM vijJAnamapi svarUpato vidyamAnatvAt 
+mAyopamaM na syAt, upadizyate ca mAyopamaM vijJAnamato ni:svabhAvaM vijJAnaM, yadA ca ni:svabhAvaM vijJAnaM, 
+tadA ni:svabhAvavijJAnasaMprayuktA saMjJA ni:svabhAvA iti sthitam | atrAha | AzcaryyametannacendriyANAM katha-
+[2 7 ka]mapi viSayagra[ha]NaM sambhAvyate utpadyate cakSu: pratItya rUpANi ca vijJAnamiti | ucyate kime-
+tadevAzcayye tvayA dRSTaM idaM kiM nAzcaryyaM yanna niruddhAnnAniruddhAt vIjAdaGkurodayo yujyate, utpadyate ca vIjaM 
+pratItyAGkura: | tathA kRtasyopacitasya karmmaNo niruddhasya na kvacidavasthAnaM sambhavati | kalpazatasahasrAntarita-
+nirodhAdapi karmmaNa: sAkSAdutpadyata eva phalaM | ghaTAdayazca svakAraNattattvAnyatvena vicAryyamA[2]NA na 
+sambhavanti tathApyupAdAya prajJaptyA madhUdakAdInAM sandhAraNAharaNAdikriyAniSpAdanayogyA bhavanti | tadevaM 
+yadA na kiJcidAzcaryyaM viduSAM vidyate bhuvi |
+indriyANAM gatAvevaM tadA ko nAma vismaya: || 299. 
+kAryyaM hi svakAraNamanuvidadhad dRzyate ; go rgau:, azvAdazva:, zAle: zAlirityAdInAM bhUtAnAM 
+rUpazabdAdInAJca bidhireSa na dRzyate | tathA hi kAyendriyagrAhyatvAt mahAbhUtAnyaca[3]kSuSAni azrAva-
+NAni tebhyazcAkSuSaM rUpaM zrAvaNa: zabda utpadyata iti ; parametadAzcaryyaM | evaM ghrANAdiviSaye cakSurAdiSu ca 
+yojyaM | athavA naiveyamindriyANAmarthagatirvismayakAraNam yadi hIndriyANAmeva kevalamarthagatAvetat vaicitryaM 
+@503
+syAt tadaitadvismayasthAnam | yadA tu sarvvameva yathoditena nyAyena jagadviduSAM vismayakaraM indrajAla[4]miva
+tadA nedamAzcaryyaM | pradezavRttirhi kiJcidasambhAvanIyamupalabhyamAnaM vismayakaraM jAyate, na sarvvatraiva tulyarUpaM | na 
+hyagnerauSNyaM vismayAyeti | ataevAniyatasvarUpatvAt yathApratyayaM tathA tathA viparivarttamAnatvAdviduSAM |
+alAtacakranirmmANasvapnamAyAmbucandrakai: |
+dhUmikAnta:pratizrutkAmarIcyabhrai: samo bhava: || 800.
+yathA sajalasyendhanasyAzu[5]bhrAmyamAnasya tadgatadarzanaviparyyAsanibandhanatvAccakrAkAropalabdhirbhavati |
+na ca tatrAsti cakrasvarUpalezopi | yathA ca nirmmANAni samAdhivizeSapratyayasambhUtAni vicitrakriyAvizeSa 
+niSpAdanAt sadbhUtayogisaMjJAdarzanamanoviparyyAsAdutpAdayanti ; te tu cittacaittendriyarahitatvAt na sadbhUtA 
+yoginAm | yathA ca siddhasaMprayuktavijJAnasamA[6]yuktAtmabhAvapratyaya: svapnAtmabhAvo jAgradAtmabhAva iva 
+Atmani snehaviparyyAsanibandhana: ; sa cAsadbhUta: prabuddhasya tathA darzanAbhAvAt | yathA ca mAyAkAra-
+yantranibandhanA mAyAkRtayuvatayastatsvarUpAnabhijJAnAM cittamohanaparA eva sadbhUtastrIzUnyA jAyante | yathA ca 
+jalacandra: sadbhUtacandrazUnya: pratItyasamutpAdabalAt tathotpadyamAna: candravi[7]paryyAsanibandhano bhavati vAlAnAM |
+yathA ca pratItyasamutpAdavalAdeva tathAvidhakAladezanimittAni pratItya dhUmikA jAtA vidUrasthAnAM sadbhUta-
+dhUmaviparyyAsanibandhanA bhavati | yathA ca girigahvarodarAdInAM anta: pratizrutkA pratItya jAyamAnA sadbhUta-
+zabdAbhimAnaM janayatyaviduSAm | yathA ca marIcikA dezakAlavizeSasannihitAdityarazmipratyayA jalasvarUpa-
+viviktA vidUrasthA[8]nAM jalaviparyyAsaM janayati | yathA cAbhrANi vidUrata: parvvatAdyAkAraM viparyyAsamupajana-
+yanti evamaviduSAM yathAvatpratItyasamutpAdasvabhAvAkuzalAnAM avidyAviparyyAsAkSiptakarmmapratyayo vijJAnAdi-
+janmasAgara: sa vAhyena bhAjanena + + + + + + + + + + + mRSAmoSadharmmaka: svabhAvazUnya eva 
+san vAlajanavisambAdaka: pra[2 7]{1 [##Leaf 28 of the MS.##]}tibhAti | viditadharmmasvabhAvAzca sarvvatraiva saGgapari + + + + +
++ + bhavantIti | sthitametat alAtacakrAdivat ni:svabhAva: saMsAra iti |
+bodhisattvayogAcAre catu:zatake indriyArthapratiSedhonAma trayodazaM prakaraNaM samAptam |
+atrAha yadi pratItya samutpannatvAt alAtacakrAdivanni:svabhAvo bhava: kasya tarhIdAnIM svabhAvo’stu |
+na kasyacit padArthasya svabhAva: zakya: kalpayitum | tathAvidhasya padArthasya sarvva[2]thAnupalabhyamAnatvAt |
+tathA hi ||
+AyattaM yasya bhAvasya bhavennAnyatra kutracit |
+sidhyet tasyAstitA nAma kvacit sa ca na vidyate || 801.
+yadi hi kasyacit padArthasya niSpattau kvacit kiJcidAyatta na syAt tadA asya aparAyattasya,
+svatantrasya svata eva vyavasthitatvAt svabhAvato’stitvaM kalpayituM yuktaM | na tveSa sambhavo’sti yaddhetupratyayAyatta-
+janmanAM parAyattatA na syAt | ahetuko vA padArtha: kazcit sambhavediti | yatazcaivaM nirhetu[3]ka[tva]prasaGgAt 
+@504
+kasyacit padArthasya kvacit svarUpannAsti | tasmAt nAsti kasyacit svabhAva:, svabhAvAbhAvAt ca alAta-
+cakravat nAsti svabhAvasiddhiriti sthitam | yadi ca amI padArthA alAta-cakrAdivat visambAdakA:
+visambAdakatvAdavastukA na syustadA niyatamupapattyA vicAryyamANA jAtarUpAdivat spaSTataramupalabhyamAnasvarUpA: 
+syu: | na caite vicArAgnisantApitA viparyyAsanibandhanatvAt svarUpA[4]bhAvaM nAsAdayanti | na hi vastUpa-
+pattyApi yujyate, sarvvathA tasya visambAdakatvAt | ata evAcAryyo vastvabhinivezazithilIkaraNAya ata:paraM 
+yathA ca ghaTAdInAM svarUpaM na sambhavati tathopapattimAha |
+rUpameva ghaTo naikyaM ghaTo nAnyosti rUpavAn |
+na vidyate ghaTe rUpaM na rUpe vidyate ghaTa: || 802.
+iha yadi ghaTo nAma kazcit padArtha: syAt sa darzanendriyagrAhyatvAt rUpAdbhedena vA parikalpi[5]to-
+‘bhedena vA, tatra tAvat rUpameva ghaTo naikyaM na yadeva rUpaM sa eva ghaTa: iti rUpaghaTayoraikyaM na bhavati |
+yadi hi rUpaghaTayoraikyaM syAt tadA yatra yatra rUpaM tatra tatra [ghaTa i]ti sarvvatraiva rUpe ghaTa: syAt |
+pAkajaguNotpattau rUpavinAze ghaTavinAza: syAt | na caitat sambhavatIti rUpameva ghaTa iti nAstyekatvam |
+athaitaddoSaparijihIrSayA rUpAdanyo ghaTo rUpavAn pa[6]rikalpyeta | tat yathArthAntarabhUtai rgobhi rgomAn 
+devadatta ityetadapyayuktam | yasmAt ghaTo nAnyosti rUpavAn yadi rUpAda yo ghaTa: syAt svarUpanirapekSo 
+gRhyeta, na hi gobhyo vyatirikto devadatto govyatirekeNa na gRhyate tadvat ghaTopi rUpanirapekSo gRhyeta | na 
+ca gRhyate ityato rUpavyatirikto ghaTo nAsti | yadA ca nAsti tadA kathamasamvidyamAnastadva[7]ttayA gRhyeta |
+na hyavidyamAno vandhyAtanayo gomAniti vyapadizyate | evaM rUpavAn ghaTa ityapi na yujyate | anyatvA-
+sambhavAdeva ca rUpaghaTayo rAdhArAdheyakalpanAyA api nAsti siddhiriti “na vidyate ghaTe rUpaM na rUpe 
+vidyate ghaTa: |” rUpaghaTayoranyatve sati ghaTe rUpaM iti syAt kuNDa iva dadhi, rUpe’pi ghaTa iti syAt kaTa
+iva devadatto, na caitat sambhavatIti nAsti [7] ghaTa: svabhAvata: | yasya ca nAsti svabhAva:, upalabhyate ca 
+tadalAtacakrAdivat svabhAvazUnyaM | api ca yathA AtmA skandhA na bhavati kartturAtmana: karmmaNazcopAdAna-
+syaikatvaprasaGgAt skandhabaccodayavyayabhAkttvaprasaGgAt, AtmabahutvaprasaGgAcca | evaM ghaTopi rUpaM na bhavati |
+upAdAnopAdAtrorekatvaprasaGgAt | + + + + + + ghaTabahutvaprasaGgAt | yathA ca AtmA skandhebhyo’nyo 
+na bhavati pRthaggrahaNaprasaGgAt nirhetu[9]katvaprasaGgAcca | evaM ghaTopi rUpavyatirikto na bhavati pRthaggrahaNa-
+prasaGgAt nirhetuka[tva]prasaGgAcca | yathA cAtmA skandhebhyastattvAnyatvakalpanAbhAvAt skandhavAn Atmeti na 
+vyapadizyate | tadvadeva rUpaghaTayostattvAnyatvakalpanAbhAvAt rUpavAn ghaTa iti na vyapadizyate | yathA ca 
+skandhebhyo + + + + + + + + + + skandheSvAtmA iti dvidhApi na yujyate, evaM ghaTe rUpaM rUpe 
+ghaTa ityapi kalpa[2 8 ka]nAdvayaM nopapadyate | yathA ca rUpApekSayA ghaTe kalpanAcatuSTayaM na sambhavatyevaM sarvva-
+prajJaptikAraNApekSaM catuSTayaM na sambhavatIti nAsti svarUpato ghaTa: | yathA ca ghaTa: svabhAvato nAsti tathA 
+sarvvabhAvA api svabhAvato mRgyamANA: na santIti siddhA bhavatyalAtacakrAdiprakhyatA bhavasya | atrAhureke 
+yadyapi rUpaghaTayo: + + + + + + + + + + [gha]Tayoranyatvamasti yasmAdanya eva ghaTo’smAkamanyathaiva 
+@505
+ca sattA | sattA hi nAma mahAsAmA[1]nyaM ghaTazca vizeSo dravyaM sattAyogAt saditi vyapadizyata iti 
+tAn pratyucyate |
+vailakSaNyaM dvayo rdRSTvA bhAvAdanyo ghaTo yadi |
+ghaTAdanyo na bhAvopi kimevaM na bhaviSyati || 303.
+ghaTAdidravyANAmanupravRttilakSaNatvAt sAmAnyo bhAva: | vyAvRttilakSaNatvAcca ghaTo vizeSalakSaNa: iti |
+yadi tayo rvailakSaNyaM bhAvaghaTayordRSTvA bhAvAdanyo ghaTo bhavati | evameva vailakSaNyAt ghaTAdapi kimarthaM 
+bhAvo’nyo na bhavi[3]Syati | tatazcAnyabuddhidhvanipravRttinimittamanyatvamaparamanupravRttilakSaNaM na kalpayitavyam |
+
+vailakSaNyAdeva anyabuddhidhvanipravRttisiddhe: kalpyate cAparamanyatvaM iti nAsti | tarhi bhAvaghaTayorvailakSaNyApekSa-
+manyatvam tatazca yaduktaM |
+vailakSaNyaM dvayordRSTvA bhAvAdanyo ghaTa iti
+tanna yathA ca bhAvo’nupravRttilakSaNatvAdghaTAdanya evamanyatvamapyanupravRttilakSaNatvAt ghaTA[4]danyat 
+syAt | na ca tasyAnyatvasyAparamanyatvaM anyabuddhidhvanipravRttinimittamasti | yadi syAdanyatvAnAmaparyyavasAnadoSa 
+syAt | atha vinaivAnyatvena anyabuddhiranyatve bhavati tadvadevAnyatrApi sambhAvyatAmityalamanyatvenAkiJcitkareNa-
+parikalpitena | asati cA’nyatve nAsti kutazcit kasyacit anyatvamiti siddham | api cedaM cintyate 
+kimbhUtAyA: sattAyA anyatvena yogo[5]’stu | kimanyabhUtAyA ananyabhUtAyA vA | yadyanyabhUtAyAstadA vyartho-
+‘nyatvena yoga: | athAnanyabhUtAyA evamapi viruddhena anyatvena yogAt anyatvena yogo na prApnoti |
+anyatvAbhAvAcca ghaTAdanyo bhAva iti na yujyate | tatazca loke viparyyAsaM pramANIkRtya ghaTatvarUpameva sadbuddhi-
+dhvanipravRttinimittatvAt bhAva iti vyavasthApyate | tasya ca [6] rUpAccaturdhAvicAryyamANasya nAsti svabhAva 
+iti tattvavidapekSayAlAtacakrAdivat svabhAvazUnyo ghaTa iti siddham | atrAha | vidyata eva ghaTo
+guNAzrayatvAt na hyasat guNAzrayo dRSTa: | bhavati ca guNAzrayo ghaTa: eko ghaTo dvau ghaTAviti | 
+ekattvAdayo guNapadArthasaMgRhItA ghaTAzca dravyam | dravyAzrayitvaJca guNAnAM sambhavatIti [7] ato guNAzrayatvA-
+dastyeva ghaTa iti | atrocyate | tvanmatena ||
+eko yadi ghaTo neSTo ghaTopyeko na jAyate |
+padArthabhedAt yadi eko ghaTo na bhavatIti manyase ghaTopi tarhyeko na bhavati yathaikatvaM ekasaMkhyA 
+ghaTo na bhavati evaM dravyatvenaikasaMkhyAyA: pRthagbhUtatvAt ghaTopyeko na bhavati | dvitvAditi bhAva: | api ca 
+asya ghaTasya ekarUpasya ca ekasaMkhyAparikalpe vA[8]nekarUpasya vA ? yadyekarUpasya tadA vyarthaivaikatva-
+kalpanA | athAnekarUpasya tadApi viruddhatvAdayuktaiva | tasmAlloke ghaTasvarUpasyaiva asannihitArthAntarasya 
+ekakalpanA vijJeyA | atha dravyAzrayiNo guNA iti kRtvA ekatvayogAt ghaTa evaiko bhavati na tvekatvaM 
+vyArtha bhavati | atrocyate ||
+na cAyaM samayoryoga: tenApyeko na jAyate || 304.
+@506
+yogo nAma samayoreva bhavati, [2 8] {1 [##Leaf 30 of the MS.##]}n aviSamayo statraikaguNo dRSTo ghaTazca dravyaM dravyaguNayozca 
+samatA yasmAnna bhavati tasmAt tayoryoga eva na bhavati yogAbhAvAt tatra yadiSTamekatvayogAt ghaTa evaiko 
+bhavatIti tanna | yadi cAtra yogo dRSTa: tadA ekenApi ghaTasya yoga: syAt ghaTenApyekasya | sa ca naivaM 
+bhavatIti yoga evAnayornopapadyate | yogAbhAvAcca naivaiko ghaTo bhavatIti na ghaTopyeka iti | tadatra 
+pUrvvArddhena kArikAyA yo[1]gamabhyupetya dUSaNamuktaM, uttarArddhena tu yogAsambhave dUSaNamuktaM | apizabdazca 
+dUSaNakAraNasamuccayArtho draSTavya: | api cedamayuktataraM parasamaye dRzyate yat dravyAzrayiNo guNA vyavasthApyante 
+na guNAzrayiNo vizeSaguNA: | yujyate ca guNAnAmapi guNAzrayitvam | iha yatparimANo ghaTastadAzraye-
+NApi rUpeNa tAvataiva bhavitavyam | tatazca dravyavadrUpasyApi mahattvaM prApno[3]tIti | 
+yAvaddravyaM yadA rUpaM tadA rUpaM mahanna kim |
+yadA yAvaddravyaM yAvAn dravyasyAyAmavistArAtmaka: sanniveza: tAvat rUpaM rUpasyApi tAvAnevAyAma-
+vistArAtmaka: sanniveza: iti pareNAbhyupagamyate | tadA niyatamaNumahati dravye rUpeNApi tatrANumahatA 
+bhavitavyam | tat kiM na khalvatra kAraNam yat dravyarUpasya aNumahatve neSyete | atha syAt rU[4]paM guNo-
+‘NutvaM mahatvamapi ca guNa eva na ca guNe guNasya sannivezo bhavatIti samaya eSo’smAkam | tatazca yadyapi 
+yAvaddravyaM rUpamapi tAvadeva, tathApi siddhAntavirodhabhayAt rUpasyANutvamahatve na sta iti | ucyate ||
+samayo jAyate vAcya: prativAdyaparo yadi || 305
+yadi hi tava svayUthya eva prativAdI syAt tannivarttayituM yuktaM tava siddhAntAbhidhAnam tasya 
+tadvAdhi[5]tumasAmarthyAt | yadA tu prativAdI parastaM prati siddhAntavirodhodbhAvanamakiJcitkaram siddhAnta-
+nirAkaraNapravRttatvAttasya | yuktilokavirodhodbhAvanantu taM prati jyAtha:, taddvAreNa tasya nivArayituM zakyatvAt |
+tasmAdaparihAra evAyaM yadidamAgamavirodhodbhAvanamiti sa evAvicalo doSa: | iti nAsti bhAvaghaTayoranya 
+tvam | tadatra, [6] sattAnyatvapratiSedhena anyeSAmapi ghaTatvAdInAM sAmAnyavizeSANAM pratiSedho vijJeya: |
+saMkhyAvat sAmAnyaguNAnAM mahatvavadvizeSANAmiti | atrAha | ukto bhAvasya paTAdibhyo’nyatvapratiSedha: ghaTasya 
+tu svabhAvApratiSedhAdastyeva svarUpato ghaTAkhyo bhAva iti | atrocyate-
+lakSaNenApi lakSyasya yatra si[7]ddhi rna vidyate |
+saMkhyAdivyatirekeNa tatra bhAvo na vidyate || 306.
+iha ghaTasatvayorvyAvRttyanuvRttilakSaNaM bruvatA ghaTasya vyAvRttilakSaNaM vyavasthApitaM pareNa | tadamunA lakSaNe–
+nApi lakSyasya nAsti siddhi: | nahi vyAvRttimAtreNa zakyaM vastusvarUpaM nirddhArayituM yallakSyatayA setsyati |
+ekastAvat guNatvAdghaTo na bhavati | aNurmahaditi rUpAdayazca guNatvAdeva ghaTA[8]khyAna bhavanti | sattApi 
+dravyaguNakarmmasu sAmAnyAt ghaTo na bhavati | tadayaM saMkhyANumahadrUpAdibhyo vyAvarttamAna itthaMsvabhAva iti na 
+zakyaM vyavasthApayituM | tadevaM | yatra paravAdipakSe lakSaNenApi lakSyasya ghaTasvarUpasya nAsti  siddhi: tatra pakSe 
+saMkhyAdivyatirekeNa siddhasvarUpeNa ghaTAkhyo bhAvo na vidyate | tatazca svabhAvazUnyo ghaTa iti siddham | [3 0 ka]
+@507
+athavA saMkhyArUpAdayo ghaTasya lakSaNam | tairlakSyamANatvAt ghaTo lakSyastasya lakSaNenApi pRthak 
+svarUpasiddhirazakyA karttum | saMkhyAdivyatirekeNa tatsvarUpasyAnupalabhyamAnatvAt yadi hi tallakSyaM svarUpaM 
+labhate tadA niyataM saMkhyAdivyatirekeNa gRhyeta idaM tat saMkhyAvyatiriktaM ghaTasvarUpamidam | punarasya 
+saMkhyAdikaM lakSaNamiti na caitadevamityata: |
+lakSaNenApi lakSyasya yatra siddhirna vidyate |
+saMkhyAdivyatirekeNa tatra bhAvo na vidyate ||
+i[2]ti nAsti svabhAvato ghaTa: | uktastAvallakSyalakSaNayoranyatvapratiSedha: | yeSAM tu rUpAdibhi-
+rghaTasyaikyamiti siddhAnta:, tatpratiSedhAyedamucyate ||
+ghaTasya na bhavatyaikyamapRthaktvAddhi lakSaNai: |
+ekaikasmin ghaTAbhAve bahutvaM nopapadyate || 307.
+rUpAdIni khalu nAnAlakSaNAni | yeSAM tai: pRthaktvaM ghaTasyeSTaM teSAM rUpAdibhirlakSaNairapRthaktvaM ghaTasyaikyaM 
+nopapadyate bahubhirananyatvAt | syAttatra mataM yadi ghaTasyaikyaM na bhavati [3] hanta bahutvaM prAptamiti |
+atrocyate | yasmAdrUpAdiSvekaikasmin ghaTasyAbhAvo dRSTastasmAdbahutvamapi nAstIti | atrAha | yadi rUpAdi-
+bhirlakSaNairapRthaktvAt ghaTasyaikyaM nAsti, teSAM parasparasaMyogAdghaTasyaikyaM bhaviSyatIti | atrocyate |
+na hyasparzavato nAma yoga: sparzavatA saha |
+rUpAdInAmato yoga: sarvvathApi na yujyate || 308.
+tatra spRSTi: sparza: kAyendriyagrAhyatA sparzo’[4]syAstIti sparzavat | spraSTavyameva kAyendriyagrAhyatvAt 
+sparzavat | tena sparzavatA spraSTavyena rUpagandharamAnAmasparzavatA yoga: saMyoga: saMsparzo na sambhavati | yathA 
+ghaTasyAkAzena | yata etat evaM rUpAdInAmato yoga: sarvvaprakAraM na sambhavati | yadA ca na sambhavati 
+tadAnyonyasaMsparzakRtAdrupAdInAM vizeSAt samudAyanibandhano ghaTa iti yaduktaM tanna yuktam | atha vinA[5] 
+pyanyonyasaMsparzena tatsamudAya eva ghaTa iti syAt, etadapi nAsti | yasmAt ||
+ghaTasyAvayavo rUpaM tena tAvanna tadghaTa: |
+yasmAdavayavI nAsti tena nAvayavopi tat || 309.
+rUpAdisamudAyarUpasya ghaTasya pratyekaM rUpAdayo’vayavabhUtatvAt ghaTavyapadezabhAjo na bhavanti | ghaTo-
+‘vayavI, avayavAzca rUpAdaya: iti rUpantAvat avayavatvAt ghaTo na prApnoti | yathA ca rUpaM evaM [6]
+gandhAdayo vAcyA: | nanu ca rUpasyAvayavatvAdasti tarhmasAvavayavI nAma kazcit | na hyavayavinirapekSA avayavA
+yujyanta iti | ucyate iha rUpAdInAM pratyekaM ghaTatvAbhAve kuta: kazcidavayavI | na hi rUpAdivyatirekeNa 
+avayavI nAma paricchettuM pAryyate | na cAparicchidyamAnasvarUpasya sattvamAsthAtuM zakyamityamannavayavI |
+yasmAccAvayavI nAsti tasmAt rUpaM avayavatvenApi na sambhAvyata i[7]ti na sta evAkyavAvayavinau | itazca 
+rUpAdisamudAyo na ghaTa: | yasmAt, 
+@508
+sarvveSAmapi rUpANAM rUpatvamavilakSaNam |
+ekasya ghaTasadbhAvo nAnyeSAM kinna kAraNam || 310.
+sarvveSAmapi rUpANAmiti rUpaskandhasaMgRhItatvAt rUpagandhAdayo rUpANItyucyante | tAni rUpANi ghaTa
+iva paTAdiSvapi santi | na ca tAni ghaTAdibhede’pi svalakSaNaM vyabhicaranti, sarvvatraiva tulyalakSaNatvAt | [8] 
+tatra yathaikasya rUpasya ghaTatvenAvasthAnaM tathAnyasyApi ghaTAdisambandhino rUpasya kasmAt ghaTatvenAvasthAnaM neSyate |
+yujyate tu tasyApi ghaTatvenAvasthAnam lakSaNAbhedAt ghaTAvasthitarUpAdivat | evaM tvanabhyupagame karaNameva na 
+sambhavati | tatazca sarvveSAmeva ghaTatvaM prApnoti | yadvA ghaTasyApi ghaTatvaM na prApnoti | yathA ca ghaTAdInAma-
+bhedaprasaGga: | evaM rUpagandhAdInAmapyabheda: prApnoti e[9]kasmAt ghaTAdananyatvAt | atha manyase yadyapi 
+ghaTAdanyatvameSAM rUpasya rasAdibhyo bhedosti, tasmAdabhedaprasaGgAbhAva: iti | etadapyayuktamiti pratipAdayannAha |
+rUpamanyadrasAdibhyo na ghaTAditi te matam |
+svayaM yastairvinA nAsti so’nanyo rUpata: katham || 811.
+yadi bhinnendriyagrAhyatvAdrasAdibhyo rUpamanyadvyavasthApyate | ghaTAdapi tadrUpamanyat iti kiM na vyavasthA 
+pyate | rUpAdanyebhyo rasAdibhyastasya vyatiri[30]{1 [##Leaf 31 of the MS.##]}ktatvAt rasAdisvAtmavat rUpAdanya eva prApnoti | na 
+cAnyatvamiSyata iti ayuktametat | yadA caivaM rUpAdInAM ghaTakAraNatvaM na sambhavati tadA niyataM 
+ghaTasya kAraNaM nAsti ||
+na ca kAraNarahitasya svata eva nirhetukaM kAryyatvaM sambhavatIti |
+svayaM kAryyaM na jAyate ||
+yata eva cAsya nirhetukaM kAryyatvaM na sambhavati | 
+rUpAdibhya: pRthak kazcit ghaTastasmAnna vidyate || 312.
+rUpAdivyatirekeNa kAryyabhUtasya ghaTasyAnupalabhyamAnatvAt nAsti rUpAdivyatirikto [2] ghaTa iti
+siddhaM | atha manyase naiva hi rUpAdyupAdAno ghaTa: kiM tarhi svAvayavAni kapAlAni kAraNAnyapekSya ghaTasya 
+kAryyatvaM kapAlAnAM ca kAraNatvamiti, etadapyayuktamityudbhAvayannAha 
+ghaTa: kAraNata: siddha: siddhaM kAraNamanyata: |
+siddhiryasya svato nAsti tadanyat janayet katham || 313.
+yadi ghaTakAraNAni kapAlAni pratItya ghaTa: sidhyati, tAnIdAnIM kapAlAni kimapekSya 
+sidhyanti | na hi tAvat tAni svabhAvasiddhA[3]ni, nirhetuka[tva]prasaGgAt | atha teSAmapyanyat kAraNa-
+miSyate, na tarhi kapAlAnAM svarUpasiddhirasti, teSAmapi kAraNAntarazarkarikApekSatvAt | yeSAM ca 
+kapAlAnAM svata: siddhirna bhavati kathaM tAnyanyat svarUpata: sAdhayiSyanti ityato’pyasan ghaTa: | yatazcAyaM 
+ghaTapratiSedhako vidhireSa eva sarvvakAryyANAmasiddhau yojya: | atrAha | samuditAnAM rUpAdInAM ghaTAbhi-
+dhA[4]nAt na rUpAdivahuttve’pi ghaTabahutvaprasaGga iti | tadapyayuktaM, samUhasyaiva asatvAt tathA hi ||
+@509
+samavAye’pi rUpasya gandhatvaM nopapadyate |
+samUhasyaikatA tena ghaTasyeva na yujyate || 314.
+samuditA api rUpAdayo na samudAyAvasthA: svaM svaM lakSaNaM vijahati, tatazca samudAyAvasthAyAM 
+rUpasya svarUpAparityAgAt gandhatvaM na sambhavati | evaM anekAzrayasya samUhasyaikatvaM na sambhAvyate | [5] sa hi 
+samudAyo rUpAdibhyo na vyatiriktaste ca rUpAdaya: parasparato bhidyante, rUpAdibhyazcAvyatiriktasamudAya: 
+kathameka: syAt | dRSTAntamAha ghaTasyeveti, yathA 
+ghaTasya na bhavatyaikyamapRthaktvAt vilakSaNairityAdyuktaM |
+tavehApi 
+samUhasyAsti naikatvamapRthaktvAdilakSaNai: |
+ityevam-
+samUhasyaikatA tena ghaTasyeva na yujyate |
+tatazca samUhasyAsambhavAt rUpAdisamUhe’pi ghaTakalpanA na yuktA yathopavarNitena ca vicAreNa |
+rUpAdivyatireke[6]Na yathA kumbho na vidyate |
+vAyvAdivyatirekena tathA rUpaM na vidyate || 315.
+rUpAdivyatirekeNa yathA kumbho na siddha: evaM kumbhaprajJaptyupAdAnA api rUpAdayo vAyvAdimahAbhUta-
+catuSTayavyatirekeNa na yujyante nirhetukatvaprasaGgAt | yathA ca vAyvAdivyatirekeNa rUpagandhAderasambhava: | evaM 
+mahAbhUtAnAM anyo’nyavyatirekeNa siddhyabhAvAt rUpAdisiddhyabhAvamu[7]dbhAvayannAha ||
+agnireva bhavatyuSNamanuSNaM dahyate katham |
+nAsti tenendhanaM nAma tadRte’gnirna vidyate || 316. 
+iha agnirdagdhA bhUtatrayaM dAhyaM, tadetadindhanAkhyaM bhUtatrayaM agnireva dahati nAnya: | indhanameva ca 
+dahyate nAnyat | tatrendhanaM yadi agniruSNaM dahati tadA agnireva taduSNaM bhavati, nendhanam | anuSNasyApi 
+dAhAsambhavAt, anuSNamapi nendhanam | tadevaM sarvvathApi dAhyasyAsambhavAnnAsti tenendhanaM nAma yadbhUtatrayAtmakaM 
+syA[8]t | yadA caivamagnivyatirekeNendhanaM nAparaM sambhavati tadA indhanAbhAve nirhetuko’pyagnirna sambhavatIti 
+tadRte’gnirna vidyate | atrAha | anuSNAtmakamevendhanaM kAThinyAdirUpatvAt | taccoSNasvabhAvenAgninAbhibhavAduSNaM 
+bhavati | uSNaM ca saddahyata iti | evaM api kalpyamAne indhanAkhyo artha: ||
+abhibhUto’pi yadyuSNa: so’pyagni: kiM na jAyate || 317.
+yadyagninAbhibhUta: indhanAkhyo’rtho’nuSNasvabhAvo’pyuSNo bhavatIti kalpyate | [9] so’pyagnirastUSNa-
+rUpatvAt | tatazca sa evendhanAbhAva: ||
+athAnuSNaparo’pyagnau bhAvo’stIti na yujyate ||
+athAbhibhUto’pyasAvartho’nuSNa eveSyate | sa tarhyagne: paro’pi bhAva: indhanAkhyaM bhUtatrayamuSNaviruddhatvAt 
+anuSNasvabhAvaM agnAvastIti na yujyate | tatazca bhUtatrayarahitamagnimAtrameva syAt | na caiSAM mahAbhUtAnAmanyonyaM 
+@510
+vinAbhAva: | yadi syAt, siddhAntavirodhazca syAt agnau cAparasya padArthasyaindhanAkhyasyA[3 1 ka]bhAvAt 
+nirhetukatvaJcAgne: syAdityayuktametat | atha manyase tejodravyaparamANau bhUtatrayasyAbhAvAt vinApIndhanenAsti
+evAgniriti | ucyate ||
+indhanaM yadyaNornAsti tenAstyagniranindhana: ||
+tatazca sa eva nirhetukadoSa: ataeva cAhetukadoSaprasaGgAt vaizaSikANAmiva svayUthyAnAmayukto 
+dravyaparamANvabhyupagama: | vaizeSikaparamANuvAdazca navama eva prakaraNe niSiddhatvAt na punarniSidhyate yathA 
+agnerahetukatvaprasaGgabhItyANAvi[2]ndhanasvabhAva: parikalpyeta ||
+aNurekAtmako nAsti syAttasyApIndhanaM yadi | 318.
+yadyaNorindhanamastIti kalpyate na tarhi tejodravyaparamANurekarUpo’sti ityabhyupeyaM | na ca kevalaM 
+paramANorevaikAtmakasyAbhAva: | aSTAnAM dravyANAM sahotpAdaniyamAdapi khalu tadanyasyApi padArthasya ||
+tasya tasyaikatA nAsti yo yobhAva: parIkSyate |
+yathA bhUtAnAmekAtmakatvaM nAsti, taditarasminnitarasadbhAvAt ; evaM bhau[3]tikamapi kevalaM nAsti
+bhUtairvinA’hetukatvaprasaGgAt | evaM cittena vinA caittA na sambhavanti | nApi caitairvinA cittam | tathA lakSaNai-
+rjAtyAdibhirvinA lakSyaM rUpAdikaM nAsti, nApi lakSyeNa vinA nirAzrayaM lakSaNaM sambhavati | yatazcaivamekasya 
+padArthasya kasyacit siddhirnAsti, tadA ekakANAM samudAyAbhAve sati anekasiddhirapi dUrotsAritaivetyAha ||
+na santi tenAneke’pi yenaiko[4]’pi na vidyate | 319.
+ekasyApi siddhau satyAM samuditAnAmapi nAsti siddhi: | atha syAt ? svayUthyaM pratyeva etaddUSaNa-
+mupapadyate | sahotpAdaniyamAbhyupagamAt paraM prati tu nedaM dUSaNam nityAnAM pRthivyAdiparamANUnAM taditara-
+bhAvasadbhAvaviyuktAnAM astitvenAbhyupagamAt | iti tatrApyayuktatAmudbhAvayannAha ||
+bhAvAstrayo na santyanye tatraikostIti cet matam ||
+etadapyasamyak | [5] kiM kAraNam ||
+tritvaM yenAsti sarvvatra tenaikatvaM na vidyate || 320.
+parasyApi hi na kazcit eko nAma padArtho’sti | yasmAt tatrApi pRthivIparamANau dravyatvamekatvaM 
+sattvam cetyetat tritayamasti | tathA guNe guNatvaM sattvamekatvaJceti yasmAt tritayamasti tasmAt na kazcit 
+eko nAma padArtho’sti | tathA sAGkhyasya triguNAtmakaM sarvvamityeka: kazcit padArtho nA[6]stIti na 
+kazciduktaM dUSaNaM iti varttate | api cAyaM dUSaNamArga: sarvveSAmeva vAdinAM pakSanirAkaraNAya viduSA 
+prayoktavya iti zikSayannAcAryya Aha ||
+sadasat sadasacceti sadasanneti ca krama: |
+eSa prayojyo vidvadbhirekatvAdiSu nityaza: || 321.
+ekatvaM anyatvaM ubhayaM nobhayaM ityekatvAdaya: | eteSvekatvAdiSu pakSeSu vAdinA vyavasthiteSu ma[7]da-
+sattvAdyupalakSito dUSaNakrama: svadhiyA yathAkramamavatArya: | tatra satkAryyavAdina: kAryyakAraNayorekatvamiti 
+@511
+pakSa: | tasya hi kAraNAtmanA tatkAryyaM vyavasthitameva satkAryyAtmanA vipariNamate | na hyasat zakyaM karttuM |
+yadi hyasannutpadyeta tadA sarvvata: sarvvasambhava: syAnna ca sarvvata: sarvvasambhavo dRSTa: kSIrAdereva pratiniyata-
+dadhyAdidarzanAt | tadasya vAdina: kAryyakAraNayoreka[8]tvAbhyupagamAt sadeva kAryyamutpadyata ityevamekatvapakSa: |
+tasminnekatvapakSe satkAryyavAdaparAmarzena nityaM dUSaNamabhidheyam | taccoktam ||
+stambhAdInAmalaGkAro gRhasyArthe nirarthaka: |
+satkAryyameva yasyeSTamityanena | tathA 
+sambhava: kriyate yasya prAkso’stIti na yujyate ||
+mato yadi bhavejjanma jAtasyApi bhavedbhava: |
+dharmmA yadyakRto’pyasti niyamo jAyate vRthA ||
+atha,-[3 1] 
+@512
+mbhava:{1 [##Leaf 33 of the MS.##]} |
+jAyamAno na tasyAsti syAttasyApyantaraM yata: || 343.
+yasya vAdino’ntareNa vinA madhyaM vinA atItAnAgatasya dvayasya nAsti sambhava: | + + + + + +
+jAyamAno nAsti | kathaM kRtvA “syAt tasyApyantaraM yata:” yathA jAyamAnasyAtItAnAgatAntarvvarttitvaM |
+evaM tasyApi jAyamAnasya jAtAjAtarUpasya madhyena bhavitavyam | yadapekSya jAtAjAtavyavasthAnaM syAt taccaita-
+dazakyam | jAtAjAtayorantarA tRtIyaM jAyamAnaM nAma vyavasthApayi[2]tuM sarvvatraiva jAtAjAtayorantarA 
+jAyamAnakalpanAnavasthAprasaGgAt | atrAha | naivArddhajAto jAyamAno yato yathopavarNitadoSaprasaGga: syAt |
+kintarhi yasya nirodhe jAta: padArtho bhavati sa jAta(ta:) prAgavasthArUportho jAyamAna ityucyata iti tadeva 
+pratipAdayannAha |
+jAyamAnanirodhena jAta utpadyate yata: |
+tato’nyasyApi sadbhAvo jAyamAnasya dRzyate || 344.
+yasmAjjAyamAnaniro[3]dhena jAta: padArtho bhavati | tasmAdarddhajAtavyatirekeNApi astyeva jAya-
+mAna: padArtha iti | atrocyate |
+jAto yadA tadA nAsti jAyamAnasya sambhava: |
+yadA tAvadayaM padArtho jAta ityucyate tadA jAyamAnaM nAsti | jAyamAnAsambhavAcca jAta ityevaM  
+nAsti | ato jAtena jAyamAno’numIyeta | atha jAto’pi jAyamAna: syAt | tasya tarhyutpAdAsambhavo 
+jA[4]tatvAditi pratipAdayannAha |
+jAta utpadyate kasmAt jAyamAno yadA tadA | 345.
+yadA jAta evArtho jAyamAna ityucyate | tadA sa jAyamAno’rtha: kasmAdutpadyata iti parikalpyate |
+siddhatvAdutpAdaparikalpo’sya na yukta ityabhiprAya: | tatazca jAyamAno jAyata iti na yujyate, atrAha |
+janmAbhimukhatvAdajAto’pi jAyamAno jAta ityucyate | tatazca jAta eva jAya[5]mAno na cAsyotpAda-
+vaiyarthyamiti | evamapi yadi ||
+ajAto jAta ityevaM jAyamAna: kuta: kila |
+yadyajAta eva jAyamAna: padArtho janmAbhimukhyAt pareNa jAta iti kalpita: | jAtAjAtayo: 
+bhedAbhAvAt ghaTAbhAva: tadA kiM na vikalpyate || 346.
+jAtAvastha eva hi padArtho ghaTa ityabhidhIyate | jAtAjAtayozcaikyAt prAgabhAvena jAto’pi ghaTo
+abhA[6]va eveti syAt na caitat sambhavatItyayuktametat | athApi syAt | naiva jAyamAnAjAtayorbhedAbhAva: |
+utpattikriyayAvizyamAno hi padArtho jAyamAna ityucyate | sa ca ||
+@513
+aniSpannopyajAtAttu jAyamAno bahiSkRta: | 347.
+yadyapyanAgatAt aniSpannarUpo’pi padArtho jAyamAno bahirvyavasthApita: |
+tathApi jAyate jAto yato jAtAdbahiSkRta: ||
+ya[7]thA ajAtAjjAyamAno bahiSkRta: kriyAvezAt evaM jAtAdapi bahiSkRta evAniSpannarUpatvAt 
+tatazcAjAta eva jAyata ityApannamiti nAsti jAyamAnaM nAma | na ca kevalaM jAtAdbahirbhUtatvAdajAta
+eva jAyate | itazcAjAta eva jAyate | yasmAt parasya ||
+nAsIt prAgjAyamAno’pi pazcAcca kila vidyate | 348. 
+tenApi jAyate’jAta: AsIcchabdazcirAnukrAntAbhidhAyI nAsInnAbhUdi[8]tyartha: | yo’sAvidAnIM 
+jAyamAnatvena vyapadizyate sa nAsIt prAkzabdastvavadhivacana: | varttamAnAvasyAyA: prAgatIte kAle sa jAya-
+mAno’rtho’vidyamAno’pi pazcAt kila jAyamAno bhavati | ato’pyajAta eva jAyamAno bhavati janikriyA-
+vezakAle | tatazcAsyAjAtatvenAbhUtatvaM na cAbhUtasyAlabdhAtmabhAvasya nirAzrayA janikriyA pravarttitumutsahate |
+ityAha ||
+nAbhUto nAma jAyata iti || [3 3 ka]
+api ca ||
+jAyate’stIti niSpanno nAstItyakRta ucyate |
+astItyanena niSpanna ucyate, niSpanna eva hi padArtho’stIti | jAyate’stIti bhavatItyartha: |
+nAstItyanenApyakRto’niSpanna ucyate | tadetadavasthAdvayaM virahayya |
+jAyamAno yadA bhAvastadA ko nAma sa smRta: | 349. 
+itthamayaM padArtho bhavatIti jAyamAnAvastho bhAvo yadA na zakyate vyapadeSTuM tadAsAvanirddhAryyamANa-
+svarUpatvAdasanneveti yuktamavasAtum | tadevaM yathopavarNitenavi[2]cAreNa jAyamAnasyAsambhavAt |
+kAraNavyatirekeNa yadA kAryyaM na vidyate |
+pravRttizca nivRttizca tadA naivopapadyate || 350.
+yadA kAraNAt pRthagbhUtaM kAryyaM vicAryyamANaM na sambhavati | tadA nirAzrayA pravRtti: kAryyasyotpAdo 
+nivRttizca kAraNasya vinAzazca na vidyate | tadevaM parIkSyamANA bhAvA svabhAvasiddhA na bhavantIti saivaM 
+mAyopamatA gatvAvaziSyate bhAvAnAm | tadenAM bAlalApinIM mAyAM vyAmUDh+ajanasammo[3]hanIM amUDh+ajana-
+vismayakarIM avetya vidhUyedaMsatyAbhinivezasamutthAM padArthatRSNAM sakalajagadanugrahAya mahAkaruNAbodhi-
+cittAdvayajJAnatrayaM anuttarajJAnodayavIjabhUtamabhimukhIkRtya yathAvadavasitasaMsArasvabhAva: klezadu:khAgnijvAlA-
+balIDh+abhuvanatrayAgAramadhyagatamatrANaM jagadIkSamANa: piNDIkRtAzeSajagadvyasanasampAtai: kSaNe kSaNe’nyathA vAnyathA 
+vA [4] saMsAramapi kAyacetasorupanipatadbhirapyakAtaro yugapatpiNDIkRtAzeSajagaddu:khopanipAtairAsaMsAraM samu-
+@514
+tsAhitaikaikavIryyakSaNa: sakalasya jagata: sarvvAkArajJatAjJAnaratnadhananicayodayakAraNaM viduSo bhavotpattiritya-
+vetya sarvvAkArajJatAjJAnodayena sakalasya jagata: saMvibhAgaM cikIrSatA punarapi yuktaM bhavamupAttumiti |
+bodhisattva [5] yogAcAre catu:zatake saMskRtArthapratiSedho nAma paJcadazaM prakaraNam |
+samanukrAntai: paJcadazabhi: prakaraNai: zAstrakAryye parisamApayya zAstrArambhaprayojanaM kRtvAnyazeSaparihAraM 
+copadarzayan SoD+azaM prakaraNamArabhate |
+kena ciddhetunA zUnyamazUnyamiva dRzyate |
+tasya prakaraNai: sarvvai: pratiSedho vidhIyate || 351. 
+nAnavadhAryya yathA[6]rthAM zUnyatAM kazcicchakta: saMsAre saGgamavadhUya nirvvANaspRhAmutpAdayitum ? sa ca 
+zUnyatArtho jagatAmatIvotrAsakaratvAdapriyAvedananipuNapuruSeNa rAjJa: priyabhAryyAmaraNakramAvedanasaumanasyotpA-
+danavat kathApi yuktyA viduSAvatAryya: | ahaGkAramamakArasnehaviparyyasto hi loko’nitya eva vastuni kSaNabhaGga-
+darzanAt saMskAramAtrapravAhasya sa[7]myagarthAnavasAyAt zUnyatAdarzanavibandhabhUtAM nityatAmavadhAryya pratyavatiSTha-
+mAno jagat azUnyameva pratipanna: | tadasyAzUnyatApratiSedhAya prathamaprakaraNaprArambha ityAdi yojyam |
+svabhAvavirahitArthazcAtra zUnyatArtha ityasakRdAveditam | tadevaM kenaciddhetunA svabhAvarahitamapi vastvevAzUnyaM 
+yeSAM khyAti teSAM tasyAsadgrAhaheto: sarvvai: paJcadazabhirapi prakaraNai: pratiSedho vidhIyate | yadyevamarthame[8]SAM 
+prakaraNAnAmArambho nanvataevAzUnyatvaM siddhaM bhAvAnAm | tathAhyeSAM prakaraNAnAM vaktA tAvat bhavAnasti 
+prakaraNa + + + + + hetuvyAvarttako heturasti | vacanaJcedaM prativiziSTArthakRtAvadhiSvanisamudAyarUpaM 
+paJcadazaprakaraNAtmakamastIti vaktRvAcyavacanAnAM sadbhAvAt siddhamazUnyatvaM bhAvAnAmiti Syartha eva bhavata: sarvva-
+prakaraNaprArambhaparizramAyAsa iti pratipAdayannAha |
+yadA vaktAsti vAcyaJca na zUnya- 352. [3 3]
+
+
+
+
+
+
+
+

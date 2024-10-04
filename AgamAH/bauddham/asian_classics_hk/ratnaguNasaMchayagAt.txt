@@ -1,0 +1,2938 @@
+@i
+##BIBLIOTHECA BUDDHICA.XXIX##
+PRAJNA PARAMITA-
+RATNA-GUNA-SAMCAYA-GATHA
+SANSCRIT AND TIBETAN TEXT
+edited by E. OBERMILLER
+MOCKBA-1937
+@ii
+[russian]
+@001
+BIBLIOTHECA BUDDHICA. XXIX
+PRAJNA PARAMITA-
+RATNA-GUNA-SAMCAYA-GATHA
+SANSCRIT AND TIBETAN TEXT
+edited by E. OBERMILLER
+Neudruck der Ausgabe 1937
+BIBLIO VERLAG. OSNABRUCK.1970
+@002
+Printed in W-Germany
+Gesamtherstellung: Proff & Co. KG, Bad Honnef a. Rhein
+@003
+INTRODUCTION
+The present fasciculus of the Bibliotheca Buddhica contains
+the edition of the original text of the Prajna-paramita-ratna-
+guna-samcaya-gatha or simply Samcaya and of its Tibetan
+translation. It has been prepared on the foundation of a Chinese
+xylograph which has been discovered by Prof. M. Tubiansky in
+Mongolia, in the monastery of Manjusri (Mandzusriin kiit) among
+other valuable texts, the most important of which is Nagarjuna’s
+Catuhstava in the original, to be edited by Prof. Tubiansky
+himself.
+The xylograph of the Samcaya consists of 109 folia on hard
+grey Chinese paper with Tibetan numerals on the left and
+Chinese numerals on the right side of each recto; the Chinese
+numerals stand moreover on the right side of each verso. The
+upper part of fol. 1 is painted yellow and contains the title##
+AryaprajJApAramitAratnaguNasaMcayagAthA nAma viharati sma | ##in the vartu
+characters with Tibetan transliteration and Tibetan translation
+below:
+
+
+
+
+The text itself is printed in the lanca characters, two lines on
+each folium, recto and verso with Tibetan transliteration and
+translation. It would be very interesting to compare our xylo-
+graph with the Cambridge MS of the Samcaya indicated in Prof.
+C. Bendall’s catalogue.
+The Prajna-paramita-ratna-guna-samcaya represents a sum-
+mary of the Prajna-paramita in verse, its gatha portion, similar
+to the gathas of the Lankavatara and those of the Dasubhumaka-
+sutra, edited by Drs. J. Rahder and S. Susa. Besides its appearing
+@004
+as a separate text, it is included in the Prajna-Paramita of 
+18000 slokas and forms its 24-th chapter. The whole of it is
+written in an irregular vasantatilaka metre for which the Tibetan
+has verses of 11 syllables.
+Its language is the Gatha dialect or, as Prof. M. Winternitz
+considers it more proper to be called, “mixed sanscrit”, extremely
+irregular with many awkward forms and constant substitutions of
+long vowels for short ones and the reverse metri causa. Among
+the most irregular forms we have in the first place the dvandva
+compound raha-pratyaya where the first member stands for
+arhat and the second for pratyekabuddha !
+At the end of the whole text we have two verses in the
+sardulaavikridita metre which belong to the celebrated acarya
+Haribhadra by whom the text of the Samcaya has been revised
+and who most probably has arranged the text in accordance
+with the chapters of the Astasahasrika-prajna-paramita in which
+form it appears in our edition.
+The Tibetan translation of the Samcaya as a separate text
+has been made by the famous lo-tsa-va Pal-tseg
+The version of the Samcaya as the 84-th chapter of the
+Astadasasahasrika is the work of Ye-Sei-De the chief
+translator of the Sutras in the Kangyur.
+As concerns the commentaries on the Samcaya, the three
+that are known to us explain the Samcaya from the
+standpoint of the teaching of the Path to Enlightenment and
+establish the concordance between the gathas of the Samcaya
+and the karikas of the Abhisamayalamkara. These three comment-
+aries are counted among the 21 commentaries on the Abhi-
+samayalamkara are as follows:
+1. The Samcaya-gatha-panjika Subodhini nama of Haribhadra
+Tangyur MDO, VIII, 1-93).
+2. The Samcaya-gatha-panjika of Haribhadra’s pupil Buddha-
+srijnana (Tg. MDO, VIII, 135-223).
+@005
+3. The Prajna-paramita-kosa-tala ascribed to Dharmasri
+(Tg. MDO, XI, 331-340).
+The last of these works is not held in esteem by the
+Tibetan scholars. Its authorship is dubious and it is characterized
+by Tson-kha-pa as a feeble work of some unknown Tibetau
+author. As regards the Subodhini, Haribhadra’s authorship is
+denied by the Pandit Sthirapala or Trilaksa 
+and the Great Translator Nog Lo-dan-sei-rab. But, as says
+Tson-kha-pa, we shall nevertheless be right if we take it
+as the work of Haribhadra, since the Pandit Abhayakaragupta in
+his Marmakaumudi speaks of it as such.{1 ##For all these references see my Doctrine of Prajna-paramita, Acta Orientalia,
+v. XI, p.10.##}
+At the beginning of the Subodhini we have the interesting
+statement that the Samcaya had been first delivered in the
+dialect of Central India or, as we have it in Bu-ston’s History
+of Buddhism,{2 Translation, v. II, p. 51.} in the dialect of Magadha. We could, perhaps,
+take this as an indication, that there must have existed
+somewhere a Prakritic Prajna-paramita in verse.
+In the present edition we have shown throughout the
+concordance between the Samcaya and the Astasahasrika prajna-
+paramita.##
+@006
+[##BLANK##]
+@007
+AryaprajJApAramitAratnaguNasaMcayagAthA |
+{1 ##Xyl.;## namo ‘ryamaJjuzriye}nama AryamaJjuzriye |
+
+
+
+
+atha khalu bhagavAMstAsAM catasRNAM parSadAM saMpraharSaNArthaM punarapImAM prajJAprAramitAM
+paridIpayamAnastasyAM velAyAmimA gAthA abhASata |
+
+
+
+
+parapremagauravuprasAdu upasthapitvA
+prajahitva AvaraNakleza malAtikrAntA: |
+zRNutA jagArthamabhiprasthitasUratAnAM
+prajJAya pAramita yatra caranti zUrA: ||1||
+
+
+
+
+yAvanti nadya pravahanti ha jambudvIpe
+phalapuSpaauSadhavanaspati rohayanti |
+@008
+bhujagendranAgapatinizraya nopatapte
+tasyAnubhAvazriyasA bhujagAdhipasya ||2||
+
+
+
+
+yAvantni dharma jinazrAvaka dezayanti
+bhASanti yuktisahitAMzca udIrayanti |
+paramAryasaukhyakriyatatphalaprAptitA ca
+sarvo ayaM puruSakAru tathAgatasya ||3|| ##A. 4 6-8##
+
+
+
+
+kiM kAraNaM yajjinu bhASati dharmanetrI 
+tatrAbhizikSita nararSabhaziSyabhUtA: |
+sAkSAtkaritva yathazikSita dezayanti
+buddhAnubhAva na punAtmabalAnubhAvA ||4|| ##A. 4. 8 sqq.
+
+
+
+
+@009
+yasminna prajJAvarapAramitopalabdhi
+na ca bodhisattvaupalabdhi na citta bodhe{1 ##Xyl.## bodhe}: |
+evaM zruNitva na ca muhyati nAsti trAso
+so bodhisattva carate sugatAna prajJAM ||5|| ##A. 4. 18-5. 10.##
+
+
+
+
+na ca rUpavedana na saMjJa na cetanA ca
+vijJAnasthAnu aNu{2 ##Xyl.## anumAtra}mAtra labhonti tasya |
+so sarvadharma asthito aniketacArI
+aparigRhIta labhate sugatAna bodhiM ||6|| ##A. 8. 3-20.##
+
+
+
+
+atha zreNikasya abhutI parivrAjakasya
+jJAnopalambhu na hi skandhavibhAvanA ca |
+yo bodhisattva parijAnati eva dharma 
+na ca nirvRtiM spRzati so viharAti prajJAM ||7|| ##A. 8. 20-10. 1.##
+
+
+
+
+@010
+
+
+
+
+vyuparIkSate punarayaM katareSu prajJA
+kasmAtkuto va imi zUnyaka sarvadharmA: |
+vyuparIkSamANu na ca lIyati nAsti trAso
+{1 ##Xyl.## Asantu}Asannu so bhavati bodhayi bodhisattvo ||8|| ##A. 10. 1-11. 12.##
+
+
+
+
+sa ci rUpasaMjJA api vedana cetanA ca
+vijJAnaskandha caratI aprajAnamAno |
+imi skandha zUnya parikalpayi bodhisattvo
+carato nimitta anu{2 ##Sic metr. causa for:## anutpAda^}pAdapade asakto ||9|| ##A. 11. 12-12. 10.##
+
+
+
+
+na ca rUpavedana na saMjJa na cetanAyA
+vijJAni yo na caratI aniketacArI |
+caratIti so na{3 ##Xyl.## nu} upagacchati prajJadhIro
+anupAdadho spuzati zAntisamAdhizreSThAM ||10|| ##A. 12. 11-13. 11.##
+@011
+
+
+
+
+evAtmazAnta viharanni{1 ##Xyl.## viharantiha}ha bodhisattvo
+so vyAkRto puramakehi tathAgatehi
+na ca manyate ahu samAhitu vyusthito vA
+kasmArtha dharmaprakRtI{2 ##Xyl.## dharmaprakRti}parijAnayitvA ||11|| ##A. 13. 12-17.##
+
+
+
+
+evaM carantu caratI sugatAna prajJAM
+no cApi so labhati yatra carAti dharmA |
+caraNaM ca so {3 ##Xyl.## acaNAJca}acaraNaM ca prajAnayitvA
+[##6a.##} eSA sa prajavarapAramitAya caryA ||12|| ##A. 14. 15 sqq.##
+
+
+
+
+@012
+yo sau na vidyati sa eSa avidyamAno
+tA bAlu kalpayi avidya karoti vidyAM |
+vidyA avidya ubhi eti asanta dharmA
+niryAti yo imi prajAnati bodhisattvo ||13|| ##A. 15. 4-16. 1.##
+
+
+
+
+mAyopamA ya iha jAnati paJca skandhAn
+[##7a.##] na ca mAya anya na ca skandha karoti {1 ##Xyl.## anyAM}anyAn |
+nAnAtvasaMjJavigato upazAntacArI
+eSA sa prajJavarapAramitAya caryA ||14|| ##A. 16. 2-17. 7.##
+
+
+
+
+kalyANamitrasahitasya vipa{2 ##Xyl.## vipasyakasya}zyakasya
+trAso na bheSyati zruNitva jinAna mAtAM |
+yo pApamitrasahito ca parapraNeyo
+[##7b.##] so AmabhAjana yathodakaspRSTa bhinno ||15|| ##A. 17. 8-18. 3.##
+
+
+
+@013
+kiM kAraNaM ayu pravuvyati bodhisattvo
+sarvatra saGga{1 ##Sic acc. to Tib.; Xyl.:## saGgakriya}kSaya icchati saGgacchedI |
+bodhiM spRziSyati jinAna asaGgabhUtAM
+{2 ##Xyl.## tasmAddhi}tasmAddhi nAma labhate ayu bodhisattvo ||16|| ##A. 3-9.##
+
+
+
+
+[##8a.##] mahasattva so ‘tha kenocyati kAraNena
+mahatAya agra ayu bheSyati sattvarAze |
+dRSTIgatAM mahati cchindati sattvadhAto
+mahasattva tena hi pravucyati kAraNena ||17|| ##A. 18. 10-19. 5##
+
+
+
+
+mahadAyako mahatabuddhi mahAnubhAvo
+mahayAna uttama jinAna samAbhirUDho |
+mahatA sanaddhu namuciM zaTha dharSayiSye
+mahasattva tena hi pra{3 ##Xyl.## prabuddhAta}vucyati kAraNena ||18|| ##A. 19. 6-20. 12##
+
+
+
+
+@014
+
+
+
+[##8b.##] mAyAkaro yatha catuSpathi nirminitvA
+mahato janasya bahu cchindati zIrSakoTI |
+yatha te ca mAya tatha jAnati sarvasattvAn
+nirmANu sarva jagato na ca tasya trAso ||19|| ##A. 21 1-12.##
+rUpaM ca saMjJa api vedana cetanA ca 
+vijJAna bandhu na ca mukta asaGgabhUto |
+[##9a.##] evaM ca bodhi kramate na ca lInacitto
+sannAha eSa vara pudgalauttamAnAM ||20|| ##A. 21. 20-23. 4.##
+
+
+
+
+kiM kAraNaM ayu pravucyati bodhiyAno
+yatrA ruhitva sa nirvApayi sarvasattvAn |
+AkAzatulyu ayu yAna mahAvimAno
+sukhasaukhyakSemamabhiprApuNi yAnazreSTho ||21|| ##A. 23. 5-24. 7.##
+@015
+
+
+
+
+[##9b.##] na ca labhyate ya vrajate diza AruhitvA
+nirvANa uktagamanaM gati nopalabdhi: |
+yatha agninirvRtu na tasya gatipracAro
+so tena nirvRti pravucyati kAraNena ||22||
+pUrvAntato na upalabhyati bodhisattvo
+aparAntato ‘pi pratiupanna triyadhvazuddho |
+[##10a.##] yo zuddha so anabhisaMskRtu niSprapaJco
+eSA sa prajJavarapAramitAya caryA ||23|| ##A. 24. 11 sqq.##
+
+
+
+
+yasmiMzca kAli samaye vidubodhisattvA
+evaM carantu anupAdu vicintayitvA |
+@016
+mahatIM jane ‘tikaruNA na ca sattvasaMjJA
+eSA sa prajJavarapAramitAya caryA ||24|| ##A. 26. 15 sqq.##
+
+
+
+
+[##10b.##] sa ci sattvasaMjJA du:khasaMjJa upAdayAtI
+{1 ##Xyl.## kari^}hariSyAmi du:kha jagatIM kariSyAmi arthaM |
+so A{2 ##Xyl.## Atmasaparikalpaku}tmasattvaparikalpaku bodhisattvo
+na ca eSa prajJavarapAramitAya caryA ||25|| ##A. 28. 7-9 sqq.##
+
+
+
+
+
+[##11a.##] yatha AtmanaM tatha prajJAnati sarvasattvAn
+yatha sarvasattva tatha jAnati sarvadharmAn |
+anupAdupAdu ubhaye avikalpamAno
+eSA sa prajJavarapAramitAya caryA ||26|| ##A. 28. 15-29. 7 sqq.##
+
+
+
+
+@017
+yAvanti loki parikIrtita dharmanAma
+sarveSu pAdu samatikramu nirgamitvA |
+amRtaM ti jJAnu paramaM na tu yo pareNa
+ekArtha prajJa ayu pAramiteti nAmA ||27||
+
+
+
+
+[##11b##] evaM carantu na ya kAGkSati bodhisattvo
+jJAtavya yo viharate sa{1 ##The Tib. differs.##} upAyaprajJo |
+prakRtIasanta parijAnayamAna dharmAn
+eSA sa prajJavarapAramitAya caryA ||28|| ##A. 31. 13-18.##
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM sarvAkArajJatAcaryAparivarto nAma prathama: || ||
+
+
+
+
+rUpasmi yo na sthihate na ca vedanAyAM
+[##12a.##]saMjJAya yo na sthihate na ca cetanAyAM |
+vijJAna yo na sthihate sthitu dharmatAyAM
+eSA sa prajJavarapAramitAya caryA ||1||
+{2 ##H should have been:##}
+@018
+
+
+
+
+nityamanityasukhadu: khazubhAzubhanti
+AtmanyanAtmi tathatA tatha zUnyatAyAM |
+phalaprAptitAya athito arahantabhUmau
+pratyekabhUmi athito tatha buddhabhUmau ||2|| ##A. 35. 1-37.3.##
+
+
+
+
+[##12b.##] yatha nAyako’sthitaku dhAtu asaMskRtAyA
+tatha saMskRtAya athito aniketacArI
+evaM ca sthAnu athito sthita bodhisattvo
+asthAnu sthAnu ayu sthAnu jinena ukto ||3|| ##A. 37. 14. sqq.##
+
+
+
+
+yo icchatI sugatazrAvaka haM bhaveyaM
+pratyekabuddha bhaviyAM tatha dharmarAjo |
+imu kSAntyanAgami na zakyati prApuNetuM
+[##13a.##] yatha ArapAragamanAya atIradarzI ||4|| ##A. 38. 19-39. 5.##
+@019
+
+
+
+
+yo dharma bhASyati ya bhASyati bhASyamANAM
+phalaprApta pratyayajino tatha lokanAtho |
+nirvANato adhigato vidupaNDitehi 
+sarve ta Atmaja nidRSTu tathAgatena ||5|| ##A. 39. 6-40. 11.##
+
+
+
+
+[13b.##] catvAri pudgala ime na trasanti tasmi{1 ##Xyl.## yesmi}
+jinaputra satyakuzalo avivartiyazca |
+{2 ##Xyl.## ahamvi^}arhan vidhUtamalakleza prahINakAGkSo
+kalyANamitraparipAcita yazcaturtha: ||6|| ##A. 40. 12-20.##
+
+
+
+
+evaM caranta vidupaNDitu bodhisattvo
+{3 ##Xyl.## nArhamvi}nArhammi zikSati na pratyayabuddhabhUmau |
+@020
+[##14.a] sarvajJatAya anuzikSati buddhadharme
+zikSA azikSa na ya zikSati eSa zikSA ||7|| ##A. 42. 9-14.##
+
+
+
+
+na ca rUpavRddhiparihANiparigrahAye
+na ca zikSatI{1 ##Xyl.## ^ti} vi{2 ##Xyl.## vividha^}vidhadharmaparigrahAye |
+sarvajJatAM ca parigRhNati zikSamANo
+niryAyatI ya iya zikSa guNe ratAnAM ||8|| ##A. 42. 15-43.21.##
+
+
+
+
+[##14b.##] rUpe {3 ##Xyl.## Na}na prajJa iti rUpi na asti prajJA{4 ##Xyl.## prajJA:}
+vijJAna saMjJa api vedana cetanA ca |
+na ca eti prajJa iti teSu{5 ##Xyl.## teSa} na asti prajJA
+AkAzadhAtusama tasya na cAsti bheda: ||9|| ##A. 44. 15-22.##
+
+
+
+
+@021 
+ArambaNAna prakRtI sa ananta{1 ##Xyl.## ^pArA:}pArA
+sattavAna yA ca prakRtI sa anantapArA |
+[##15a.##]AkAzadhAtuprakRtI sa anantapArA
+prajJApi lIkavidunAM sa anantapArA ||10|| ##A. 45. 1-46. 1. sqq.##
+
+
+
+
+saMjJeti nA{2 ##Compare Tib.##}ma parikIrtitu nAyakena
+saMjJa vibhAviya prahANa vrajanti pAraM |
+ye atra saMjJavigamaM anuprAptavanti
+te pAraprApta sthitu pAramitehu bhonti ||11|| ##A. 47. 1-6.##
+
+
+
+
+[##15b.##] sa ci gaGgavAlukasamAni sthihitva kalpA
+sattveti zabda parikIrtayi nAyako’yaM |
+sattvasyupAdu kutu bheSyati Adizuddho
+eSA sa prajJavarapAramitAya caryA ||12|| ##A. 47. 10-17.##
+
+
+
+
+@022
+
+
+
+
+[##16a.##] evaM jino bhaNati apratikUlabhANI
+yadahaM imAya varapAramitAya AsI |
+tada vyAkRto ahu parApuruSottamena
+buddho bhaviSyasi anAgatu adhvanasmin ||13|| ##A. 48. 8-15.##
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM zakraparivarto nAma dvitIya: || ||
+
+
+
+
+[##16b.##] ya imAM grahISyati paryApunatI sa nityaM
+prajJAyapAramita yatra caranti nAthA: |
+viSavahnizastra udakaM na kramAti tasyo
+otAru mAru na ca vindati mArapakSo ||1|| ##A. 49. 10-50. 10 sqq.##
+
+
+
+
+@023
+parinirvRtasya sugatasya kareya stUpA{1 ##Xyl.## stUpAM}n
+{2 ##Xyl.## pUjoya}pUjeya saptaratanAmayu kazcideva |
+te hI prapUrNasi ya kSetrasahasrakoTyo
+yatha gaGgavAlikasamai: sugatasya stUpai: ||2|| ##A. 57. 10-58. 15.##
+
+
+
+
+yAva{3 ##Xyl.## yavanta}nta sattva puna {4 ##Xyl.## tAntaka}nAntakakSetrakoTyo
+[##17a.##] te sarvi pUjana kareyara{5 ##Xyl.## ^raNantakalpAM}nantakalpAn |
+di{6 ##Xyl.## divya^}vyehi puSpavaragandhivilepanehi
+kalpAMstriyadha parikalpya tato ca bhUya: ||3||
+
+
+
+
+yazco imAM sugatamAta likhitva puste
+yata utpatI dazabalAna vinAyakAnAM |
+dhAreya satkarayi puSpavilepanehi
+[17b.##] kalapuNya bhonti na sa stUpi karitva pUjAM ||4|| ##A. 58. 15-72. 4.##
+
+
+
+
+@024
+
+
+
+mahavidya prajJa ayu pAramitA jinAnAM
+du:khadharmazokazamanI pRthusattvadhAto |
+ye’tIta ye’pi ca dazaddizalokanAthA
+ima vidya zikSita anuttaravaidyarAjA ||5||
+
+
+
+
+[##18a.##] ye vA caranti cariyAM hitasAnukampAM
+iha vidya zikSita vidU spaziSyanti bodhiM |
+ye saukhya saMskRta asaMskRta ye ca saukhyA:
+sarve ca saukhya prasutA itu veditavyA: ||6|| ##A. 73. 1-75. 11 sqq##
+
+
+
+
+bIjA: prakIrNa pRthivIsthita saMbhavanti
+sAmagrilabdhu viruhanti anekarUpA: |
+[##18a.##] yAvanti bodhiguNa pAramitAzca paJca
+prajJAyapAramita te viruhanti sarve ||7|| ##A. 81. 16-82. 2.##
+
+
+
+
+@025
+
+
+
+
+yenaiva rAja vrajate saTa cakravartI
+tenaiva sapta ratanA valakAyu sarvo |
+yenaiva prajJa iya pAramitA jinAnAM
+tenaiva sarva guNadharma samAgamanti ||8||
+
+
+
+
+[##19a.##] bhagavatyAM ratnaguNasaMcayagAthAyAmaprameyaguNadhAraNapAramitAstUpasatkAraparivarto 
+nAma tRtIya: ||
+
+
+
+
+zakro jinena paripRcchitu praznamAhu
+sa ci gaGgavAlikasamA siya buddhakSetrA: |
+jinadhAtu sarvi paripUrita cUDibaddhvA
+[##19a.##] imameva prajJavarapAramitAhu gRhNe ||1|| ##A. 94. 2-9.##
+
+
+
+
+@026
+kiM kAraNaM na mi zarIri agauravatva
+api tU khu prajJa paribhAvita pUjayanti |
+yatha rAjanizritanaro labhi sarvi pUjAM
+tatha prajJapAramitanizritabuddhadhAtu: ||2|| ##A. 94. 9-99. 11.##
+
+
+
+
+maNiratna sarvaguNayukta anarghaprApto
+[##20a.##] yasmi karaNDaki bhave sa namasyanIya |
+tasyApi uddhRtaM spRhanti karaNDakasmiM
+tasyaiva te guNamayA ratanasya bhonti ||3|| ##A. 96. 11-98. 15.##
+
+
+
+
+emeva prajJavarapAramitAguNAni
+yannirvRte’pi jinadhAtu labhanti pUjAM |
+tasmAhu yo{1 ##Xyl.## yA} jina{2 ##Xyl.## ^guNAM}guNAn parighetukAmo
+[##20b.##] so prajJapAramita gRhNatu eSa mokSo ||4|| ##A. 98. 16-99. 20.##
+
+
+
+
+@027
+
+
+
+
+pUrvaMgamA bhavatu dAnu dadantu prajJA
+zIle ca kSAnti tatha vIrya tathaiva dhyAne |
+parigrAhikA kuzaladharmaavi{1 ##Xyl.##^pranAze}praNAze
+ekA ca sA api nidarzayi {2 ##Xyl.## sarvadharmAM}sarvadharmAn ||5|| ##A. 100. 21-101. 7.##
+
+
+
+
+yatha jambudvIpa bahuvRkSasaMhasrakoTI
+nAnAprakAra vividhAzca anekarUpA: |
+[##21a.##] na pi cchAyanA na tu bhavetu vizeSatApi
+anyatra cchAyagatasaMkhyaprabhASamANe ||6|| ##A. 101. 7-10.##
+
+
+
+
+emeva paJca imi pAramitA jinAnAM
+prajJAyapAramitanAmatayA bhavanti |
+sarvajJatAya pariNAmayamANa sarve
+SaDapIha ekanayamarcchati bodhinAmA ||7|| ##A. 101. 10-13.##
+@028
+
+
+
+
+[##21a.##] bhagavatyAM ratnaguNasaMcayagAthAyAM guNaparikIrtanaparivarto nAma{1 ##Xyl.## nAmazcaturtha:} caturtha: || ||
+
+
+
+
+sa ci rUpasaMjJa api vedana cetanAyAM
+cittaM anitya pariNAmayi bodhisattvo |
+prativarNikAya carate aprajAnamAno
+na hi dharma paNDita {2 ##Xyl.## vinAya ##Cf. Uttaratantra, Transl. p. 134.##}vinAza karoti jAtu ||1|| ##A. 112. 15-18 sqq.##
+
+
+
+
+[##22a.##] yassinna rUpa api vedana cApi saMjJA 
+vijJAna naiva na pi cetanayopalabdhi: |
+anapAduzUnyanaya jAnati sarvadharmAn
+eSA sa prajJavarapAramitAya caryA ||2||
+
+
+
+
+@029
+
+
+
+
+yAvanti gaGganadivAlikatulyakSetre
+tAvanti sattva arahanti vineya kazcit |
+[##22b.##] yaMzcaiva prajJa ima pAramitA likhitvA
+parasattvi pustaku dadeyu viziSTapuNya: ||3|| ##A. 122. 3-125. 2.##
+
+
+
+
+kiM kAraNaM ta iha zikSita vAdizreSThA
+gamayAnti dharma nikhilAniha zUnyatAyAM |
+yA zrutva zrAvaka spRzanti{1 ##Xyl.## arhanti} {2 ##Xyl.## vimukta}vimukti zIghraM
+pratyekabodhi spRzayanti ca buddhabodhiM ||4|| ##A.125. 2-133. 9.##
+
+
+
+
+[##23a.##] asato'{3 ##Xyl.## Gkarusya (##sicl##)}Gkarasya drumasaMbhavu nAsti loke
+kuta zAkhapattraphalapuSpaDapAdu tatra |
+vina bodhicitta jinasaMbhavu nAsti loke 
+kuta zakravrahmaphalazrAvakaprAdubhAva: ||5||
+@030
+
+
+
+
+AdityamaNDalu yadA prabhajAlamuJcI
+[##23a.##] karmakriyAsu tada sattva parAkramanti |
+tatha bodhicitta sada lokavidusya jJAto
+jJAnena sarvaguNadharma samAgamanti ||6||
+
+
+
+
+yatha nopatapta asato bhujagAdhipasya
+kuta nadya prasravu bhavediha jambudvIpe |
+asatA nadIya phalapuSpa na saMbhaveyu
+na ca sAgarANa ratanA bhavi naikarUpA: ||7||
+
+
+
+
+[##24a.##] tatha bodhicitta asatIha tathAgatasya
+kuta jJAnaprasravu bhavediha sarvaloke |
+jJAnasya co asati nAsti guNAnuvRddhi:
+na ca bodhisAgarasamAna ca buddhadharmA: ||8||
+@031
+
+
+
+
+yAvanti loki kvaci jotikaprANibhUtA
+obhAsanArtha prabha osarayanti sarve |
+[##24b.##] parasUryamaNDalavinisRta ekarazmI
+kalApi jyotikagaNesiya sarva AbhA: ||9|| ##A. 134. 6-12.##
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM puNyaparyAyaparivarto nAma paJcama:  || ||
+
+
+
+
+yAvanti zrAvakagaNA: prasavanti puNyaM
+[##25a.##] dAnaM ca zIlamapi bhAvanasaMprayuktaM |
+sa hi bodhisattva anumodana ekacitte
+na ca sarvazrAvakagaNesiyapuNyaskandho ||1|| ##A. 135. 2-10.##
+
+
+
+
+@032
+ye buddhakoTiniyutA purimAdhvatItA
+ye vA anantavahukSetrasahasrakoTya: |
+ti{1 ##Xyl.## niSThanti}SThanti ye'pi parinirvRtalokanAthA
+dezanti dharmaratanaM du:khasaMkSayAya ||2||
+
+
+
+
+[##25b.##] prathamaM upAdu varabodhayi cittapAdo
+yAvatsadharmakSayakAlu vinAyakAnAM |
+ekasminantari ya teSa jinAna puNyaM
+sahayuktapAramita ye’pi ca buddhadharmA: ||3|| ##A. 135. 11-136.6, 7 sqq.##
+
+
+
+
+yazcaiva buddhatanayAna ca zrAvakANAM
+zaikSa azaikSa kuza{2 ##Xyl.## ^lAzrava}lAzrava nAsravAzca
+[##26a.##] paripiNDayitva anumodayi bodhisattvo
+sarvaM ca nAmayi jagArthanidAna bodhi ||4|| ##A. 137. 7-138. 12.##
+
+
+
+
+@033
+
+
+
+
+pariNAmayantu {1 ##Xyl.## yadhi}yadi vartati cittasaMjJA
+tatha bodhisattvapariNAmana sattvasaMjJA |
+saMjJAya dRSTisthitu citta tisaMga{2 ##Sic metri causa for## trisaMgayukto; ##vide Tib.##}yukto
+pariNAmitaM na bhavatI upalabhyamAnaM ||5|| ##A. 142. 12-21.##
+
+
+
+
+[##26b.##] sa ci eva jAnati nirudhyati kSINadharmA
+taccaita kSINa pariNAmayiSyanti yatra |
+na ca dharmadharmi pariNAmayate kadAcit
+pariNAmitaM bhavati eva prajAnamAne ||6|| ##A. 142. 21-143. 3 sqq.##
+
+
+
+
+sa ci so nimitta kurute na ca mAnayAtI
+atha Animitta pariNAmitu bhonti bodhau |
+[##27a.##] viSasRSTabhojanu yathaiva kriyApraNIto
+tatha zukladharmaupalambha jinena ukto ||7|| ##A. 150. 11-153. 1.##
+@034
+
+
+
+tasmAhu nAma pariNAmana zikSitavyA
+yatha te jinA kuzala eva prajAnayanti |
+yajjAtiyo yaM prabhavo yadalakSaNaM ca
+anumodamI tatha tathA pariNAmayAmi ||8|| ##A. 153. 1-12.##
+
+
+
+
+[##24b.##] evaM ca puNya pariNAmayamAna bodhau
+na ca so hi buddha kSipate jinauktavAdI |
+yAvanti loki upalambhikabodhisattvA{1 ##Xyl.## ^sattvo}
+abhibhonti sarvi pariNAmayamAna zUro ||9|| ##A. 153.12. cqq.##
+
+
+
+@035
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAmanumodanaparivarto nAma {1 ##Xyl.## SaSThama:}SaSTha: ||
+[##28a.##] jAtyandhakoTiniyutAnyavinAyakAnAM
+mArge akovidu kuto nagarapraveze |
+vina prajJa paJca imi pAramitA acakSu:
+avinAyakA na prabhavanti spRzetu bodhiM ||1|| ##A. 172. 12-18.##
+
+
+
+
+ya{2 ##Xyl.## yattantarazmi}trAntarasmi bhavate pragRhIta prajJA
+tatu labdhu cakSu bhavatI imu nAmadheyaM |
+[##28b.##] yatha citrakarma pariniSThita cakSuhIno
+na ca tAva puNyu labhate akaritva cakSu: ||2|| ##A. 172. 19-173. 2.##
+
+
+yada dharma saMskRta asaMskRta kRSNa zuklo 
+aNumAtru no labhati prajJavibhAvamAna: |
+yada prajJapAramita gacchati saMkhya loke
+AkAza yatra na pratiSThitu kiMci tadvat{3 ##Xyl.## tatra.} ||3|| ##A. 172. 13-15 sqq.##}
+@036
+
+
+
+
+[##29a.##] na ci manyate ahu carAmi jinAna prajJAM
+mociSya sattvaniyutA{1 ##Xyl.## ^yutAM}n bahuroga{2 ##Xyl.## spRSTAM}spRSTAn |
+ayu sattvasaMjJaparikalpaku bodhisattvo 
+na ca eSa prajJavarapAramitAya caryA ||4|| ##A. 175. 11-15 sqq.##
+
+
+
+
+yo bodhi sattvavarapAramiteha{3 ##Xyl.## ^teti} cIrNo
+paricArikA ya na ca kAGkSati paNiDatehi |
+[##29b.##] saha zrutva tasya puna bheSyati {4 ##Xyl.## zAstra^}zAstRsaMjJA
+so vA laghU anubudhiSyati bodhizAntA ||5|| ##A. 176. 7-13; 20 sqq.##
+
+
+
+
+satkRtya buddhaniyutAn{5 ##Xyl.## ^yutAM} paricArikAyAM
+na ca prajJapAramitazra{6 ##Xyl.## ^ddhadhitA}ddadhitA jinAnAM |
+@037
+zrutvA ca so imu kSipISyati so'lpabuddhi:
+sa khipitva yAMsyati avIcimatrANabhUto ||6|| ##A. 178. a-183. 4.##
+
+
+
+
+tasmAhu {1 ##Xyl.## zraddhadhati}zraddhadhata eva jinAna mAtAM
+[##30a.##] yadi icchayA spRzitu uttamabuddhajJAnaM
+so vANijo yatha vrajitva na ratnadvIpaM
+mUlAtu chedana karitva punAgameyA ||7||
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM nirayaparivarto nAma saptama: || ||
+
+
+
+
+rUpasya zuddhi phalazuddhita veditavyA
+[##30b.##] phalarUpazuddhita sarvajJatazuddhimAhu: |
+sarvajJatAya phalazuddhita rUpazuddhI
+AkAzadhAtusamatAya abhinnacchinnA: ||1|| ##A. 186. 14-187. 8.##
+@038
+
+
+
+
+traidhAtukaM samatikrAnta na bodhisattvA
+klezApanIta upapatti nidarzayanti |
+jaravyA dhimRtyu vigatAzyuti darzayAnti
+prajJAya pAramita yatra caranti dhIrA: ||2|| ##A. 188. 2. sqq.##
+
+
+
+
+[##31a.##] nAmeva rUpi yagatI ayu paGkasaktA
+saMsAracakri bhramate'nilacakratulye |
+jAnitva bhrAntu jagatI mRgavAgureva
+akAza pakSisadRzA vicaranti prajJA: ||3||
+
+
+
+
+[##31b.##] rUpasmi yo na carate parizuddhacArI
+vijJAna saMjJa api vedana cetanAyAM |
+@039
+evaM carantu parivarjeyi sarvasaGgA
+saGgAdvimukta carate sugatAna {1 ##Xyl.## prajJA:}prajJAM ||4|| ##A. 193. 12-195. 19.##
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM {2 ##Xyl.## vizuddha^}vizuddhiparivarto nAma aSTama: ||
+[##32a.##] evaM carantu vidupaNDitu bodhisattvo
+saGgAtra {3 ##Xyl.## cchinta}cchinnu vrajate jagatI {4 ##Xyl.## asakto:}asakta: |
+{5 ##Xyl.## sUryopa}sUryo'vi Nhugrahamukta virocamAno
+agrIva yukta tRNakASThavanaM dahAti ||1||
+
+
+
+
+prakRtIya zuddha {6 ##Xyl.## paribuddhimi}parizuddhimi sarvadharmAn
+prajJAya pAramita pazyati bodhisattvo |
+na ca pazyaka labhati nApi ca sarvadharmAn
+[##32b.##] eSA sa prajJavarapAramitAya caryA ||2|| ##A. 200. 18.sqq.##
+@040
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM stutiparivarto nAma navama: || ||
+
+
+
+
+zakro jinasya paripRcchati devarAjo
+ca{1 ##Xyl.## caramAna}ramANa prajJa katha yujyati bodhisattvo |
+aNumAtra yo na khalu yujyati skandhadhAtau
+[##33a.##] yo eva yujyati sa yujyati bodhisattva: ||1|| ##A.211. 5-212. 3.##
+
+
+
+
+cirayAnaprasthitu sa, vedayitavya sattvo
+bahubuddhakoTiniyutehi kRtAdhikAro |
+yo zrutva dharmi imi nirmita mAya{2 ##Xyl.## ^kalpAM}kalpAn
+na ca kAGkSate ayu prayujyati zikSamANa: ||2|| ##A.213. 3 Sqq.##
+@041
+
+
+
+
+kAntAramArgi puruSo bahuyojanehi
+[##33b.##] gopAla sImavanasaMpada pazyayeyo: |
+AzvAsaprApta bhavatI na ca tasya trAso 
+abhyAsa grAmanagarANi ime nimitta: ||3|| ##A.215. 17-216. 4.##
+
+
+
+
+emeva prajJavarapAramitA jinAnAM
+zRNutAya yo labhati bodhigaveSamANa: |
+AzvAsaprApta bhavatI na ca tasya trAso
+[##34a.##] nArhantabhUmi na pi pratyayabuddhabhUmI ||4|| ##A.216. 4-10.##
+
+
+
+
+puruSo hi sAgarajala vraji pazyanAya
+sa ci pazyate drumavanaspatizailarAjaM |
+athavA na pazyati nimitta nikAGkSa bhontI
+abhyAzito mahasamudra na so'tidUre ||5|| ##A.216. 14-217. 3.##
+
+
+
+
+@042
+
+
+
+
+emeva bodhivaraprasthitu veditavyo
+[##34b.##] zruNamANa prajJa imi pAramitA jinAnaM |
+yadyApi saMmukha na vyAkRtu nAyakeno
+tathapI spRziSyati na cireNa hu buddhabodhiM ||6|| ##A.218. 3-8.##
+suvasanti kAli patite tRNapatrazAkhA
+na cireNa patraphalapuSpa samAgamAnti |
+prajJAya pAramita pazyimu hastaprAptA
+na cireNa bodhivara {1 ##Xyl.## prApsati}prApsyati nAyakAnAM ||7|| ##A.218. 8-21.##
+
+
+
+
+[##35a.##] yatha istri gurviNi ya ceSTati vedanAbhi:
+jJAtavyu kAlu ayamasya prajAyanAya |
+tatha bodhisattva zruNamAnu jinAna prajJAM
+rati cchanda vI{2 ##Xyl.## cchindavIkSAti} spRziSyati bodhi zIghraM ||8|| ##A.218. 1-14.##
+@043
+
+
+
+
+caramANa prajJavarapAramitAya yogI
+na ca rUpavRddhi na ca pazyati pArihANiM |
+[##35b.##] dharmA adharma imu pazyayi dharmadhAtuM
+na ca nirvRti spRzati so {1 ##Xyl.##viharAtri}viharAti prajJAM ||9|| ##A. 219. 8-16.##
+
+
+
+
+caramANu yo na iha kalpayi buddha{2 ##Xyl.## buddhardharmAM}dharmAn
+balaRddhipAda na ca kalpati bodhizAntAM |
+avikalpakalpavigato adhiSThAnacArI
+eSA sa prajJavarapAramitAya caryA ||10|| ##A. 220. 8-14.##
+
+
+
+
+
+@044
+[##36a.##] bhagavatyAM ratnaguNasaMcayagAthAyAM dhAraNIguNaparivarto nAma dazama: || ||
+
+
+
+
+buddhaM subhUti paripRcchati vAdicandraM
+kiM antarAyu bhaviSyanti guNe ratAnAM |
+bahu antarAyu bhaviSyanti bhaNAti zAstA
+tatu alpamAtra parikIrtayiSyAmi tAvat ||1|| ##A.232. 2-6.##
+
+
+
+
+[##36b.##] pratibhAna neka vividhAnyupapadyiSyanti
+likhamAna prajJa imu pAramitA jinAnAM |
+yuna zIghravidyuta yathA parihAyiSyanti
+akaritva artha jagatI imu {1 ##Xyl.## ^karma:}mArakarma ||2|| ##A. 232. 11-12.##
+
+
+
+
+kAGkSA ca keSaci bhaviSyati bhASyamANe
+na mamAtra nAma parikIrtitu nAyakena |
+[##87b.##] na ca jAtibhUmi parikIrtitu nApi gotraM
+na ca so zruNiSyati {3 ##Xyl.## kSipisyati}kSipiSyati mArakarma ||3|| ##A. 233. 3-15.##
+@045
+
+
+
+
+evaM ta mUla apahAya ajAna{1 ##Xyl.## ^mAno}mAnA:
+zAkhA palAza parieSayiSyanti mUDhA: |
+hastiM labhitva yatha hastipadaM gaveSet
+tatha prajJapAramita zrutva sUtrAnta eSet ||4|| ##A. 234. 1.-235. 4-3.##
+
+
+
+
+[##37b.##] yatha bhojanaM zatarasaM labhiyAna kazcit
+mArgeSu {2 ##Xyl.## SaSThiku}SaSTiku labhitva sa bhojanAgryaM |
+tatha bodhisattva ima pAramitAM labhitvA
+arhantabhUmita{3 ##Xyl. om.##} gaveSayiSyanti bodhiM ||5|| ##A. 239. 1-16.##
+
+
+
+
+satkArakAma bhaviSyanti ca lAbhakAmA:
+sApekSacitta kulasaMbhavasaMprayuktA: |
+@046
+choritva dharma kariSyanti adharmakAryaM
+[##38a.##] {1##Xyl.## yatha; ##vide Tib.##}patha hitva utpathagatA ima mAra{2 ##Xyl.## ^karma:}karma ||6|| ##A. 242. 6-12.##
+
+
+
+
+ye cApi tasmi samaye imu dharmazreSThAM
+zruNanAya chandika utpAdayiSyanti zraddhAM |
+te dharmabhANaka viditvana kAryayuktaM
+premApanIta gamiSyanti {3 ##Xyl.## sadurmaNAzca}sadurmanAzca ||7|| ##A. 243. 9 sqq.##
+
+
+
+
+imi mArakarma bhaviSyanti ya tasmi kAle
+[##38b.##] anye ca neka vividhA bahu antarAyA
+ye hI samAkulikRtA bahubhikSu tatra
+prajJAya pAramita etu na dhArayanti ||8|| ##A. 248. 11. sqq.##
+
+
+
+
+@047
+ye te bhavanti ratanA hi anarghaprAptA
+durlAbha te bahupratyarthika nityakAlaM |
+emeva prajJavarapAramitA jinAnAM
+durlAbhu dharmaratanaM bahupadravaM ca ||9||
+
+
+
+
+navayAnaprasthita sa {1 ##Xyl.##sarva; ##vide Tib.##}sattva parIttabuddhi
+[##39b.##] ya imAM {2 ##Xyl.## durlAbhudharmaratanaM ##contra metr: vide Tib.##}durlAbhu ratanaM na parApuNAnti |
+mAro’tra utsuku{3 ##Xyl.## utsaku} bhaviSyati antarAye
+buddhA dazaddizi parigrahasaMprayuktA: ||10|| ##A.250. 13 sqq.##
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM mArakarmaparivarto nAmaikAdazama: ||
+
+
+
+[##39b.##] mAtAya putra vahu santi gilAnikAye-
+ste sarvi durmanasa tatra prayujyaveyu |
+@048
+emeva buddhapi{1 ##Xyl. om.##} dazaddizi lokadhAtau
+ima prajJapAramita mAtra {2 ##Xyl.## samandhAharanti; ##the metre is quite irregular.##}samanvAharanti ||1||
+
+
+
+
+ye’tIta ye’pi ca dazadizi lokanAthA
+itu te prasUta bhaviSyanti anAgatAzca |
+lokasya darzika janetri jinAna mAtA
+[##40a.##] parasattvacittacaritAna nidarzikA ca ||2|| ##A. 253.2-255. 17 sqq.##
+
+
+
+
+lokasya yA tathata yA tathatArhatAnAM
+pratyekabuddhatathatA tathatA jinAnAM |
+ekaikabhAvitathatAM tathatA ananyA
+prajJAya pAramita buddha tathAgatena ||3|| ##A. 270. 14-271. 1.##
+
+
+
+
+@049
+tiSThantu loka vidu {1 ##Xyl.## nAM}vA parinirvRta vA{2 ##Xyl.## nAM}
+[##40b.##] sthita eSa dharmataniyAma zUnyadharmA |
+tAM bodhisattva tathatAmanubuddhayanti
+tasmAhu buddha kRtanAma tathAgatebhi: ||4|| ##A. 273.20-274.2.
+
+
+
+
+ayu gocaro dazabalAna vinAyakAnAM
+prajJAya pAramitaramyavanAzritAnAM |
+du:khitAMzca sattva triapAya {3 ##Xyl.## samuddharanti}samuddharanti
+na pi sattvasaMjJa api teSu kadAci bhoti ||5|| ##A. 274. 4 sqq.##
+
+
+
+[##41a.##] siMho yathaiva girikandari nizrayitvA
+nadate acchambhi mRrga kSudraka trAsayanto |
+tatha prajJapAramita nizrya narANa siMho 
+nadate acchambhi pRthutIrthikatrAsayanto ||6||
+
+
+
+
+@050
+
+
+
+
+AkAzanizrita yathaiva hi sUryarazmi
+[##41b.##] tApeti mA dharaNi darzayate ca rUpaM |
+tatha prajJapAramitanizritadharmarAjo
+tApeti {1 ##Xyl.## tRSTa^}tRSNanadi dharma nidarzayAti ||7||
+
+
+
+
+{2 ##Sic metri causa for## rUpasyAda^}rUpasya dazarnu adazarnu vadenAye
+saMjJAyadarzanu adarzanu cetanAye |
+vijJAnacitamanudarzanu yatra nAstI
+ayu dharmadarzanu(3)nidiSTu tathAgatena ||8||
+
+
+
+
+[##42a.##] AkAza dRSTu iti sattva pravyAharanti
+nabhadarzanaM kutu vimRSyatha etamarthaM |
+tatha dharmadarzanu nidiSTa tathAgatena
+na hi darzanaM bhaNitu zakya nidarzanena ||9||
+
+
+@051
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM lokasaMdarzanaparivarto nAma dvAdazama: ||
+
+
+
+
+[##42b.##] yo eva pazyati sa pazyati sarvadha{2 ##Xyl.## ^dharmA}rmAn
+sarvAna{3 ##Xyl.## sarvAma^}mAtya kariyAti {4 ##Xyl.## upetya}upekSya rAjA |
+yAvanti buddhakriya dharmata zrAvakANAM
+prajJAya pAramita sarva karoti tAni ||1|| ##A. 281.8-14.##
+
+
+
+
+na ca rAja grAma vrajate na ca rAjyarASTraM
+[##43a.##] sarvaM ca Adadati so viSayAtu AyaM |
+na ca bodhisattva calate kvaci dharmatAyAM
+sarvAzca Adadati ye guNa buddhadharme ||2||
+
+
+
+
+@052
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAmacitnyaparivarto nAma {1 ##Xyl.## trAyAdazama:}trayodazama: ||
+
+
+
+
+yasyAsti zraddha sugate dRDha bodhisattvo
+[##43b.##] varaprajJapAramitaAzayasaMprayogo |
+atikramya bhUmidvaya zrAvakapratyayAnAM
+laghu {2 ##Xyl.## prApsate}prApsyate anabhibhUtu jinAna bodhiM ||1|| ##284.2-286. 9.##
+
+
+
+
+sAmudriyAya yatha nAvi {3 ##Xyl.## pralugbhikAye}praluptikAye
+mRtakaM manuSya tRNakASThamagRhNamAno |
+[##14a.##] vilayaM prayAti jalamadhya aprAptatIro
+yo gRhNate vrajati pArasthalaM prayAti ||2|| ##A. 286. 10-16.##
+
+
+
+
+@053
+emeva zraddhasaMgato ya prasAdaprApto
+prajJAyapAramita mAtra vivarjayanti |
+saMsArasAgara tadA sada saMsaranti 
+jAtIjarAmaraNazokataraGgabhaGge ||3||
+
+
+
+
+[##44b.##] ye te bhavanti varaprajJaparigRhItA
+bhAvasvabhAvakuzalo paramArthadarzI |
+te puNyajJAnadhana{2 ##Xyl.## ^sambhRte^}saMbhRtayAnapAtrA:
+paramAdbhutAM sugatabodhi spRzanti zIghraM ||4|| ##A. 286. 16-287.7.##
+
+
+
+
+ghaTake apakSi yatha pArivaheya kAcit 
+jJAtavyu kSipru ayu bhe{3 ##Xyl.## bheSyati}tsyati durlabhatvAt |
+[##45a.##] paripakSi vAri ghaTake vahamAnu mArge
+na ca bhedanAdbhayamupaiti ca svastigehaM ||5||
+
+
+
+
+@054
+
+
+
+
+kiM cApi zraddhabahulo siya bodhisattvo
+prajJAvihIna vilayaM laghu prApuNAti |
+taM caiva zraddhaparigRhNayamAna prajJA 
+atikramya bhUmidvaya prA{1 ##Xyl.## prApsati}psyati agrabodhiM ||6|| ##287.8-288. 9.##
+
+
+
+
+
+[##45b. ##] nAvA yathA aparikarmakRtA samudre
+vilayamupaiti sadhanA saha vANijobhi:
+sA caiva nAva parikarmakRtA suyuktA 
+na ca bhidyate dhanasamagramupaiti tIraM ||7|| ##A. 288. 9-15.##
+
+
+
+
+emeva zraddhaparibhAvitu bodhisattvo
+prajJAvihInu laghu bodhi upaiti hAniM |
+[##46a.##] so caiva prajJavarapAramitAsuyukto
+akSato’nupAhatu spRzAti jinAna bodhiM ||8|| ##A. 288. 16-290. 5.##
+@055
+
+
+
+
+puruSo hi jIrNa du:khito zataviMzavarSo
+kiM cApi {1 ##Xyl.## uttitu}utthitu svayaM na prabhoti gantuM |
+so vAmadakSiNadvaye paruSe gRhIte 
+patanAdbhayaM na bhavate vrajate sukhena ||9||
+
+
+
+
+[##46b. ##] emeva prajJa iha durbalabodhisattvo
+kiM cApi prasthihati bhaJjati antareNa |
+so vA upAyabalaprajJaparigRhIto 
+na ca bhajyate spRzati bodhi nararSabhANAM ||10|| ##A. 290. 5-291. 17.##
+
+
+
+
+@056
+bhagavatyAM ratnaguNasaMcayagAthAyAM aupamyaparivarto nAma caturdazama: || ||
+
+
+
+
+[##47a. ##] {1 ##Xyl.## ye}yo AdikarmasthitubhUmiya bodhisattvo
+adhyAzayena vara prasthita buddhabodhiM |
+te hI suziSya gurugauravasaMprayukto
+kalyANamitra sada sevayitavya vijJai: ||1|| ##A. 292. 1-293.8.##
+
+
+
+
+[##47b.##] kiM kAraNaM ta{2 ##Xyl.## tanu}tu guNAgamu paNDitAnAM
+prajJAyapAramita te anuzAsayanti |
+evaM jino bhaNati sarvaguNAgradhArI 
+kalyANamitramupanizritabuddhadharmA: ||2||
+
+
+
+
+dAnaM ca zIlamapi kSAnti tathaiva vIryaM
+dhyAnAni prajJa pariNAmayitavya bodhau |
+@057
+na ca bodhiskandha vimRzitva parAmRzeyA
+ye Adikarmaka na dezayitavyaM evaM ||3|| ##A. 292. 1-293. 8.##
+
+
+
+
+[##48a.##] evaM caranta guNasAgara vAdicandrA:
+trANA bhavanti jagatI zaraNA ca le{1 ##Xyl contra metrum## leyanA}nA |
+gatibuddhidvIpapariNAya{2 ##Xyl. contra metrum## pariNAyakArthakAmA:}kaarthakAmA:
+pradyota ulka varadharmakathI akSobhyA: ||4|| ##A. 298. 15.-300. 5.##
+
+
+
+
+sannAhu duSkaru mahAyazu saMnahantI
+na ca skandhadhAtu na ca AyatanaissanaddhA: |
+[##48b.##] tribhi yAnasaMjJavigatA aparigRhItA 
+avivartikA acalitAzca akopyadharmA: ||5||
+
+
+
+
+@058
+te eva dharmasamudAgata niSprapaJcA
+kAGkSAvilekhavimatIvigatArthayuktA: |
+prajJAyapAramita zrutva na sIdayanti
+aparapraNeya avivartiya veditavyA: ||6|| ##A. 300. 6-301. 8.##
+
+
+
+
+[##49A#] gambhIra dharma ayu durdRzu nAyakAnAM
+na ca kenacIdadhigato na ca prApuNanti |
+etArthu bodhimadhigamya hitAnukampI
+alpotsuko ka imu jJAsyati sattvakAyo ||7|| ##A. 301. 9-305. 5.##
+
+
+
+
+sattvazca Alayara{1 ##Xyl.## ^ratA}to viSayAbhilASI
+sthi{2 ##Xyl.## sthita agrahe; ##vide Tib.##}to grahe abudhayo mahaandhabhUto |
+[##49b.##] dharmo anAlayu anAgrahu prApi{3 ##Xyl.## ^tavyo:}tavyo
+lokena sArdha ayu vigrahu prA{4 ##Xyl.## ^rbhUto:}durbhUto ||8|| ##A. 301. 9-305. 5.##
+@059
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM deva{1 ##Acc. to the Tib.: ##devapatraparivarto}parivarto nAma paJcadazama: ||
+
+
+
+
+AkAzadhAtu purimA dizi dakSiNAyAM
+tatha pazcimottaradizAya anantapArA |
+[##50a.##] uparAdharAya dazaddizi yAvadasti
+nAnAtvatA na bhavate na vizeSaprAptA ||1|| ##A. 306. 2-9.##
+
+
+
+
+atikrAnta yA tathata yA tatha{2 ##Xyl.## tathatAprAptA}tA aprAptA
+pratyutpanna yA tAthata yA tathatArhatAnAM |
+[##50b.##] yA sarvadharmatathatA tatha{3 ##Acc. to the Tib.:## tathatA jinAnAM}tArhatAnAM
+sarveSa dharmatathatA na vizeSaprAptA ||2||
+
+
+
+
+@060
+
+
+
+
+yo bodhisattva imi icchati prApuNetuM
+nAnAtvadharmavigatAM sugatAna bodhiM |
+prajAyapAramita yujyatu pAyayukto 
+vina prajJa nAst{1 ##Xyl.## ^styavigamo}yadhigamo naranAyakAnAM ||3|| ##A. 306. 15 sqq.##
+
+
+
+
+pakSisya yojanazataM mahatAtmabhAvo
+paJcazatApi avalobhaya kSINapakSo |
+[##51a.##] so trAyastriMzabhavanAdiSu jambudvIpe
+AtmAnamosariyi tadvilayaM vrajeyyA ||4|| ##A. 310. 15-311. 8 sqq.##
+
+
+
+
+yadyApi paJca ima pAramitA jinAnAM
+bahukalpakoTiniyutAM samudAnayeyyA |
+[##51b.##] prANadhInanantavipu{2 ##Xyl.## ^vipulAM}lAn sada savya loke
+anupAya prajJavikalA {3 ##Xyl.## parizrAvakatve}pati zrAvakatve || ||5|| ##A. 311. 13-20.##
+@061
+
+
+
+
+niryAyanAya iha icchati buddhajJAne{1 ##Xyl.## buddhayAne}
+samacitta sarvajagatI pitR mAtRsaMjJA |
+hitacitta maitramana eva parAkrameryA
+akhilArjavo mRdugirAya parAkrameryA ||6|| ##A. 321. 13-322. 8.##
+
+
+
+
+bhagavatyAM ratnaguNasaMcagAthAyAM tathatAparivarto nAma SoDazama: ||
+
+
+
+
+[##52a.##] sthaviro subhUti paripRcchati lokanAthaM
+araNAya liGga bhaNahI guNasAgarANAM |
+avivartiyo yatha bhavanti mahAnubhAvA
+tA{2 ##Xyl.## tAM}na vyAku{3 ##Xyl.## vyAkaruSTa}ruSva jina guNAna pradezamAtraM ||1|| ##A. 323. 3-6.##
+@062
+
+
+
+
+[##52b.##] nAnAtvasaMjJavigatA girayuktabhANI
+na ca anya te zra{1 ##Xyl.## zravaNa^}saNaMbrahmaNa Azrayanti |
+triyapAyavarjitavidU sadakAli bhonti
+dazabhizca te kuzalakarmapathe’bhi{2 ##Xyl.## ^yukto:}yuktA: ||2|| ##A. 323. 7-325. 14.##
+
+
+
+
+dharmaM nirAmiSu jagasyanuzAsayanti
+ekAntadharmaniyatAssadasnig{3 ##Xyl.## snigvavAkyA:}dhavAkyA: |
+[##53a.##] sthiticaMkramaM zapa niSadya susatprajAnA
+yugamAtraprekSiNa vrajanti abhrAntaci{4 ##Xyl.## ^cittA}ttA: ||3|| ##A. 325. 14-326. 11.##
+
+
+
+
+@063
+zucisaucaambaradharA trivivekazuddhA
+na ca lAbhakAma {1 ##Xyl.## vRSabhI}vRSabhA sada dharmakAmA: |
+mArasya tItaviSayA aparapraNeyA
+caturdhyAnadhyAyi na ca nizrita tatra dhyAne ||4|| ##A. 326. 11-332.12.##
+
+
+
+
+[##53b.##] na ca kIrtikAma na ca krIdhaparItacittA
+gRhibhUta nitya anadhyoSita{2 ##Xyl.## sarvavastuM}sarvavastu |
+na ca jIvikAviSayabhoga gaveSayanti 
+abhicAramantra na ca istriprayogamantrA: ||5|| ##A. 332. 12-334. 5.##
+
+
+
+
+na ca Adizanti paruSaistiryaicchakarmAM
+{3 ##Xyl.## pravivIkta}praviviktaprajJavarapAramitAbhiyuktA: |
+[##54a.##] kalahAvivAdavigatA dRDhamaitracittA
+sarvajJakAma sada zAsani nimnacittA: ||6|| ##A. 334. 5-336. 1.##
+
+
+
+
+@064
+
+
+
+
+pratyantamlecchajanavarjitaantadezA: 
+svakabhUmikAGkSavigatAsmada merukalpA: |
+[##54b.##] dharmArtha jIvita tyajanti prayuktayogA:
+avivartiyAna imi liGga prajAnitavya ||7|| ##A. 336. 1-338 20. sqq.##
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthayAmavivartanIyaliGgAkAraparivarto nAma saptadazama: ||
+
+
+
+
+gambhIra rUpa api vedana cetanA ca
+vijJAna saMjJa prakRtI animitta zAntA |
+[##55a.##] kaNDena gAdha yatha sAgari eSamANo
+prajAya skandha vimRSitva alabdhagA{1 ##Xyl.## ^gAthA}dhA ||1|| ##A. 342. 3-13.##
+
+
+
+
+@065
+yo bodhisattva imu budh{1 ##Xyl.## buddhyati}yati eva dharmAn
+gambhIrayAnaparamArthanirUpalepAn |
+yasminna skandha na pi AyatanaM na dhAtu
+kiM vA svapuNyasamudAgamu kiMci tasya ||2|| ##A. 342. 14-343.4.##
+
+
+
+
+[##55b.##] yatha rAgadharmacarita: puruSa: striyAye
+saMketa kRtva alabhantu vivartayeyA |
+yAvanti cittacaritA divasena tasya
+tAvanta kalpa anubudhyati bodhisattvo ||3|| ##A. 343. 4-344.3.##
+
+
+
+
+
+yo bodhisattva bahukalpasahasrakoyyo
+dAnaM dadeyu vimalaM tatha zIla rakSe |
+yazcaiva prajJavarapAramitAprayukto
+dharmaM bhaNeya kalapuNya na dAnazIle ||4|| ##A. 344.3-345.9.##
+
+
+
+
+@066
+
+
+
+
+
+[##56a.##] {1 ##Xyl.## yau}yo bodhisattva varaprajJavibhAvayanto
+tata utthito kathayi dharma nirUpalepaM |
+taM cApi nAmayi jagartha nidAna bodhau
+{2 ##Xyl.## nAstistriloka^} nAsti triloka zubha tena sa{3 ##Xyl.## sambhaveyA}maM bhaveyA ||5|| ##A. 345. 10-346. 5.##
+
+
+
+
+
+tAM caiva puNya puna khyAyati riktameva
+tatha zUnyatucchavazikaM ca asArakaM ca |
+[##56b.##] evaM carantu caratI sugatAna pra{4 ##Xyl.## prajJA}jJAM 
+caramANu puNyu parigRhNati aprameyaM ||6|| ##A. 346. 8-14.##
+
+
+
+
+abhilApamAtra imi jAnati sarvadha{5 ##Xyl.## ^dharmAM}rmAn
+buddhena dezitaprayuktaprakAzitAMzca |
+@067
+kalpAna koTini{1 ##Xyl.## ^nayutAM}yutAn bahu bhASyamANu
+na ca kSoyate na ca vivardhati dharmadhAtu: ||7|| ##A. 347. 16-##
+
+
+
+
+
+[##57a.##] ye cApi paJca imi pAramitA jinAnAM
+ete’pi dharma parikIrtita nAma{2 ##Xyl.## ^mAtrA}mAtrA: |
+pariNAmayAti na ca manyati bodhisattve
+na ca hIyate spRzati uttamabuddhabodhiM ||8|| ##-351. 8.##
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM zUnyatAparivarto nAma aSTAdazama: ||
+
+
+
+
+[##57b.##] tailasya varti jvalitA prathame nipAte
+na ca dag{3 ##Xyl.## dagva}dha varti asatA na vinAya dag{4 ##Xyl.## dagvA}dhA |
+
+na hi arci pazcimanipAta sa varti da{5 ##Xyl.## dagvA}gdhA
+asatApi pazcima na dahyati dIpavarto ||1|| ##A. 352 9-17.##
+@068
+
+
+
+prathameva citta spRzatI na ca agrabodhiM 
+asatA na tasya spRzatA puna zakya (4)bhonti |
+[##58a.##] na ca citta pazcima zivAmanuprApuNAtI
+asatA na tasya pu{1 ##Xyl.## puNa}na {2 ##Xyl.## prApunanAya}prApuNanAya zakyaM ||2|| ##A. 352. 18-353. 5. sqq.##
+
+
+
+
+
+bIjAtu stamba phalapuSpa samAgamanti
+so va niruddha asato na hi tasya vRkSo |
+emeva citta prathamaM tu nidAna bodhe:
+so vA niruddha asato na hi tasya bodhi: ||3|| ||
+
+
+
+
+@069
+[##58b.##] bIjaM pratItya ca bhavedyatha zAlikAde
+{1 ##Xyl.## ^detattattatphalanna (##sic !##)}tat tatphalaM na ca tadasti na cApi nAsti |
+utpattito bhavati bodhiriyaM jinAnAM
+bhAvasvabhAvavi{2 ##Xyl.## ^viditA; ##vide Tib.##}gatA bhavatIha mAyA ||4||
+
+
+
+
+udakabindu kumbha paripUryati stokastokaM
+prathame nipAti anupUrve sa pazcimena |
+[##59a.##] emeva citta prathamaM varabodhihetu:
+anupUrvazu klaguNapUrNa bhavanti buddhA: ||5||
+
+
+
+
+zUnyAnimittapraNidhiM caramANu dharmA
+na ca nivRtti spRzati no ca nimittacArI
+[##59b.##] yatha nAviko kuzala gacchati ArapAraM
+ubhayAnti asthitu na tiSThati ArNave’smin ||6|| ##A. 356. 15. sqq.##
+
+
+
+
+@070
+
+
+
+
+evaM carantu na ca manyati bodhisattvo
+ahu vyAkRto dazabalehi spRzeya bodhiM |
+na ca trAsu bodhi bhavate na {1 ##Xyl.## ihasti}ihAsti kiMcit
+evaM carantu carati {2 ##Xyl.## sugatAn}sugatAna prajJAM ||7|| ##A. 361. 1-8.##
+
+
+
+
+[##60.A#] kAntAramArgi durabhikSi savyAdhi {3 ##Xyl.## lokAM}lokaM
+pazyatva nAsti bhaya uttari saMnahante |
+aparAntakoTi sada yukta prajAnu mAna
+aNumAtra kheda manasA na upAdayanti ||8|| ##A. 361. 8. sqq.##
+
+
+
+
+
+@071
+bhagavatyAM ratnaguNasaMcayagAthAyAM gaGgA{1 ##Xyl.## gaGgademA^}devIbhaginIparivarto nAma ekonaviMzatima: || ||
+
+
+
+
+[##60b.##]puna bodhisattva caramANu jinAna prajAM
+anupAda skandha imi jAnati {2 ##Xyl.## AdhizUNyAM}AdizUnyAn |
+asamAhito karuNa prekSati sattvadhAtuM
+atrAntareNa parihAyati buddhadharme ||1|| ##A. 370. 2-371. 3.##
+
+
+
+
+puruSo yathA kuzala sarvaguNairupeto
+balavAn dudharSu kRtayogya kalAvi{3 ##Xyl.## vidijJo}dhijJo |
+[##61a.##] iSThastrapAramigato pRSuzilpayukto
+mAyAvidhijJaparamo jagadarthakAmo ||2|| ##A. 371. 9-372. 7.##
+
+
+
+
+@072
+mAtA pitA ca parigRhya saputradAraM
+kAntAramArgi {1 ##Xyl.## pratiyadya}pratipadya bahUAmatro |
+so nirmiNitva puruSA bahuzUravIrAn
+kSeme{2 ##Xyl.## kSemena}Na gatva puna gehamupagameyyA ||3|| ##A. 372. 6-373. 9.##
+
+
+
+
+[##61a.##] emeva yasmi samaye vidubodhisattvo
+mahamaitri sarvi upabandhati sattvadhAto |
+caturo sa mAra atikramya dvaye ca bhUmiM
+asmiM samAdhi sthituno ca spRzAti bodhiM ||4|| ##A. 373. 10-374. 5.##
+
+
+
+
+AkAzanizritu samIraNa Apaskandho
+na hi nizritA iha mahApRthivI jagacca{3 ##Xyl.## jagaccha} |
+[##62a.##] sattvAna karmaupabhoganidAnameva
+AkAzasthAnu kutu cintayi etamarthaM ||5||
+
+
+
+
+
+@073
+
+
+
+
+emeva zUnyatapratiSThitu bodhisattvo
+jagati kriyAM vividha darzayate vicitrAM |
+sattvAna jJAnapraNidhAnabalAna sevaM
+na ca nirvRtiM spRzati zUnyata nAsti sthA{1 ##Xyl.## sthAnAM}naM ||6||
+
+
+
+
+[##62b.##] yasmiMzca kAli vidupaNDitu bodhisattvo
+caratIti mAM pravara zUnyasamAdhizAntAM |
+atrAntare na ca nimitta prabhAvitavyo
+na ca Animittasthitu zAntaprazAntacArI ||7||
+
+
+
+
+pakSisya {2 ##Xyl.## nasti}nAsti padu {3 ##Xyl.## gacchate}gacchata antarIkSe
+no cApi tatra sthitu no ca patAti bhUmau |
+@074
+tatha bodhisattva caramANu vimokSadvAre
+na ca nirvRttiM spRzati no ca nimittacArI ||8|| ##A. 374. 5-12.##
+
+
+
+
+[##63a.##] iSvastrazikSita yathA puruSo{1 ##Xyi.## ^rdha}rdha kANDaM
+kSepitva anya puna kANDa parampareNa |
+patanAya tasya purimasya na deya bhUmiM
+AkAGkSamANa paruSasya pateya kANDaM ||9|| ##A. 374. 12-17.##
+
+
+
+
+emeva prajJavarapAramitAM caranto
+prajJA{2 ##Xyl.## prajJAyaupAya^}upAyabalaRddhivicAramANo |
+[##63b.##] tAvanna tAM paramazUnyata prApuNotI
+yAvanna te kuzalamUla bhavanti pUrNA: ||10|| ##A. 374. 17-375. 4.##
+
+
+
+
+@075
+bhikSuryathA paramaRddhibalenupeto
+gagane sthito yamaka kurvati prAtihA{1 ##Xyl.## ^hAryAM}ryaM |
+gatiM cakramaM zaya niSadya nidarzayAti
+nivartate na pi ca khidyati yAva tatra ||11||
+
+
+
+
+[##64a.##] emeva zUnyatasthito vidubodhisattvo
+jJAna{3 ##Xyl.## ^nArddhi^}rddhi{4 ##Xyl.## pAragAmigato}pAramigato aniketacArI |
+vividhAM kriyAM jagati darzayate anantAM
+na ca bhajyatI na pi ca khidyati kalpakoTI ||12|| ##A. 375. 5-21.sqq.##
+
+
+
+
+puruSA yathA mahaprapAti sthihitva kecid
+ubhipANi cchatradvaya gRhNa upakSayeyyA |
+[##64b.##] AkAli vAyuravasRjya mahAprapAte
+no ca prapAta pariyAti na yAva tatra ||13||
+@076
+
+
+
+
+emeva sthitva karuNAM vidubodhisattvo
+prajJAupAyadvayacchattraparigRhIto |
+zUnyAnimittapraNidhIn{1 ##Xyl.## ^praNidhiM} vimRSAti dharmAn
+nA {2 ##Xyl.## nirvRti}nirvRtiM spRzati pazyati dharmacArI ||14|| ##A. 376. 2-15.##
+
+
+
+
+[##65a.##] ratanArthiko yatha vrajitva na ratnadvIpaM
+labdhAna ratna yuna gehamupAgameyA |
+kiM cApi tatra sukha jIvati sArthavAho
+api du:khito manasi bhonti sa jJAtisaMgho ||15||
+
+
+
+
+@077
+emeva zUnyata vrajitva na ratnadvIpaM
+labdhAna dhyAna balaindriya bodhisattvo |
+[##65b.##] kiM cApi nirvRti spR{1 ##Xyl.## spazadebhinandamAno}zedabhinandamAno
+api sarvasattva du:khitA manasI bhavanti ||16|| ##A. 376. 15-377. 3.sqq.##
+
+
+
+
+
+abhyantare ya nagare nigame ca grAme
+kAmArtha vANiju yathAgami jAnanAya |
+no cApi tatra sthihatI na ca ratnadvIpe 
+na ca geha mArgi kuzalo puna bhoti vijJo ||17||
+
+
+
+
+[##66a.##] tatha jJAna zrAvakavimukti sapratyayAnAM
+sarvatra bhonti kuzalo vidubodhisattvo |
+no cApi tatra sthihate na ca buddhajJAne
+na ca saMskRte bhavati mArga vidU vidhijJo ||18||
+
+
+
+
+@078
+
+
+
+
+yaM kAli maitri jagatI anubandhayitvA
+zUnyAnimittapraNidhI carate samAdhiM |
+[##66b.##] asthAnameva yadi nirvRti prApaNeyA
+athavApi saMskRti sa prajJapanAya zakya: ||19||
+
+
+
+
+yatha nirmito puruSa naiva{1 ##Xyl.## nova} adRzya{2 ##Xyl.## ^kAyo:}kAyA
+nAmena vA puna: sa prajJapanAya zakya: |
+tatha bodhisattva caramANu vimokSadvAre
+nAmena va punassa pra{3 ##Xyl.## prajJayanAya}jJapanAya zakya: ||20||
+
+
+
+
+yadi pRcchamAna cari indriya bodhisattvo
+gambhIradharmaparidIpana no karoti |
+@079
+[##67a.##] zUnyAnimittaavivatiyabhUmidha{1 ##Xyl.## ^dharmAM}rmAn
+na ca sUcatI na ca sa vyAkRtu veditavyo ||21|| ##A. 379. 7-21.##
+
+
+
+
+arhantabhUmimapi pratyayabuddhabhUmau
+traidhAtukaM na spRzate supinAntare’pi | 
+buddhAMzca pazyati katheti jagasya dharmaM
+Avivartiyebhi ayu vyAkRtu veditavya: ||22|| ##A. 380 10-381. 10.##
+
+
+
+
+[##67b.##] triyapAyaprA{2 ##Xyl.## prAdmu}ptu supinasmi viditva sattva
+praNidheti takSa{3 ##Xyl.## takSeNa}Na apAya ucchoSayeyaM |
+satyAdhiSThAna prazameti ca agniskandhaM
+avivartiyeti ayu vyAkRtu vedita{4 ##Xyl. as in the preceding and the following versec##—veditavyo:}vya: ||23|| ##A. 381. 21-382. 21 sqq.##
+
+
+
+
+@080
+
+
+
+
+bhUtagrahA vividhavyAdhaya matryaloke
+satyAdhiSThAna prazameti hitAnukampI
+[##68a.##] na ca tena manyanu papadyati nApi mAnaM
+avivartiyeti ayu vyAkRtu veditavya: ||24|| ##A. 383. 17-384. 19.##
+
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAmupAyakauzalyamImAMsAparivarto nAma viM{1 ##Xyl.## viMzatima:}zatitama: || ||
+
+
+
+
+athavAsya manyanu papadyati vyAkRto’smi
+satyAdhiSThAna vividhAni samRdhyayanti |
+[##68b.##] yadi anya vyAkRtaku manyati bodhisattvo
+jJAtavya manyanasthito ayu alpabuddhi: ||1|| ##A. 385. 2.-386. 11.##
+
+
+
+
+@081
+nAmAdhaSThAna puna mAru upAgamitvA
+evaM vi{1 ##Xyl.## vidiSyati}dizyati iyantava nAmadheyaM |
+mAtA pitA ya anusaptamupaiti vAMzo
+buddho yadA bhavi idantava nAmadheyaM ||2|| ##A. 386. 11-387. 3.##
+
+
+
+
+[##69a.##] dhutavRtta yAdR{2 ##Xyl.## yAnadRzu}zu sa bheSyati yuktayogI
+pUrve’pi tubhya imi Asi guNo va rUpA |
+yo eva zrutva abhimanyati bodhisattvo
+jJAtavya mAru paryutthita alpabuddhi: ||3|| ##A. 387. 3-391. 5.##
+
+
+
+
+pravivikta grAmanagare girikaNDarANi
+raNyA viviktavanaprastha niSevamA{3 ##Xyl.## ^mAno}No |
+[##69b.##] AtmAnukarSi parapaMsayi bodhisattvo
+jJAtavya mAru paryutthita alpabuddhi: ||4|| ##A. 391. 5-14.##
+
+
+
+
+@082
+
+
+
+
+grAme ca rASTri nigame viharanti nityaM
+rahapratyayAni spRhatAM janayanti tatra |
+anyatra sattvaparipAcanavodhiyuktA
+eSo viveku kathito sugatAtmajAnAM ||5|| ##A. 391. 20-392. 6.##
+
+
+
+
+[##70a.##] yo paJcayojanazate girikandareSu
+vyADAvakI{1 ##Xyl.## ^kIrNA}rNa nivasedvahuvarSako{2 ##Xyl.## koTI}TI: |
+nA cA viveku imu jAnati bodhisattvo
+saMkIrNa so viharate adhimAnaprApta: ||3|| ##A. 393. 14.##
+
+
+
+
+so ca jagArthamabhiyuktakabodhi{3 ##Xyl.## ^sattvAM}sattvAn
+baladhyAnaindriyavimokSasamAdhi{4 ##Xyl.## prAptAM}prAptAn |
+@083
+[##70b.##] abhimanyate na imi raNyavivekacArI
+na vivekagocaru ayaM hi jinena ukto ||7|| ##A. 394. 1-395. 4. sqq.
+
+
+
+
+grAmAnti yo viharate athavA araNye
+dvayayAnacittavigato ni{1 ##Xyl.## niyatAgrabodhiM}yato’grabodhiM |
+eSo viveku jagadarthyabhiprasthitAnAM
+AtmA kSiNoti tulayeya sa bodhisattvo ||8||
+
+
+
+
+[##71a.##] bhagavatyAM ratnaguNasaMcayagAthAyAM mArakarmaparivarto nAma {2 ##Xyl.## ekaviMzatima:}ekaviMzatitama: || ||
+
+
+
+
+tasmAhu mAnu nihanitvana paNDitena
+guruAzayena varabodhigaveSamANA: |
+vaidyo va Atura{3 ##Xyl.## svarona}varoNa cikitsanArthaM
+kalyANamitra bhajitavya atandritena ||1|| ##A. 396. 3-10.##
+
+
+
+
+@084
+[##71b.##] buddhAya bodhivaraprasthitabodhisattvA
+kalyANamitra imi pAramitA nidiSTA: |
+te cAnuzAsaka iyaM pratipattibhUmI
+duvikAraNena anubudhyati buddhabodhiM ||2||
+
+
+
+
+atikrAntanAgatajinA sthita ye dizAsU
+sarveSu mArgu ayu pAramitA ananyo |
+[##72a.##] obhAsa ulka varabodhayi prasthitAnAM
+Aloka zAstri imi pAramitopadi(6)STA: ||3|| ##A. 396-397. 2. sqq.##
+
+
+
+
+yatha prajJapAramita zUnyatalakSaNena
+tathalakSaNAya imi jAnati sarvadha{1 ##Xyl.## ^dharmAM}rmAn |
+@085
+zUnyAnu lakSaNa prajJAnayamAna {1 ##Xyl.## dharmAM}dharmAn
+evaM carantu caratI sugatAna prajJAM ||4|| ##A. 399. 1-11.##
+
+
+
+
+AhArakAma parikalpayamAna sattvA:
+saMsAri saktamanasassada saMsaranti |
+[##72b.##] ahumahyadharma ubhi eti abhUtazUnyA
+AkAzagaNThi ayu Atmana baddha bAle ||5||
+
+
+
+
+yatha zaGkitena viSasaMjJata abhyupaiti
+no cAsya koSThagatu so pi pAtyate ca |
+emeva vAlu pagato ahumahyaeSo
+ahasaMjJi jAyi mriya{2 ##Xyl.## ^mRyate}te ca sadA abhUto ||6|| ##A. 399. 21-400 9.##
+@086
+[##73a.##] yatha udgraho ta{1 ##Xyl.## katha}tha prakAzitu saMkilezo
+vyodAna ukta ahumahyaanopalabdhi:{2 ##Xyl.## ^labdhi} |
+na hi atra kazci yo kli{3 ##Xyl.## klaSyati}zyati zudhyate vA
+prajJAyapAramita badhyati bodhisattve ||7|| ##A. 400. 10-17.##
+
+
+
+
+yAvanta sattva nikhile iha jambudvIpe
+te sarvi bodhivaracitta {4 ##Xyl.## upadayitvA}upAdayitvA |
+[##73b.##] dAnaM daditva bahuvarSasarhasra{5 ##Xyl.## ^koTI}koTI:
+sarvaM ca nAmayi janArtha nidAna bodhau ||8|| ##A. 401. 20-402. 6.##
+
+
+
+
+yazcaiva prajJavarapAramitAbhiyukto
+divasaM pi antamaza eka nuvartayeyA |
+kalapuNya so na bhavatI iha dAnaskandho
+tadatandritena sada osaritavya prajJA ||9|| ##A, 402 8-10.##
+@087
+
+
+
+
+[##74a.##] caramANu prajJavarapAramitAya yogI
+mahatoM janeti karuNAM na ca sattvasaMjJA |
+tada bhonti sarvajagatI vidudakSiNIyA
+satataM amoghu paribhuJcati rASTrapiNDaM ||10|| ##A. 402. 10-403. 16.##
+
+
+
+
+cirabuddhadevamanujAn triapAyi sattvAn
+{1 ##Xyl.## parimocitu}parimocituM ya iha icchati bodhisattvo |
+[##74b.##] pRthu mArgu tIru upadarzayi sattvadhAtau
+prajJAyapAramitayukta divA ca rAtrau ||11|| ##A. 403. 16-404. 8.##
+
+
+
+
+puruSo ya agru ratanasya alabdhapUrvo
+aparasmi kAli puna labdha bhaveya tuSTo |
+@088
+saha labdha nAzayi pu{1 ##Xyl.## paNopi}nopi pramAdabhUto
+nazitva du:khi satataM ratanAbhikAGkSI ||12|| ##A. 404. 8-17.##
+
+
+
+
+[##75a.##] emeva bodhivaraprathita ratnatulyo
+prajJAyapAramitayogu na{2 ##Xyl.## Naricitavyo} riJcitavyo |
+ratanaM va labdha gRha{3 ##Xyl.## ^manu}mANu prabhinnasattvo
+manu buddhayAti tvarito zivamabhyupaiti ||13|| ##A. 404. 17-405. 5. sqq.##
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM kalyANamitraparivarto nAma {4 ##Xyl.## dvAviMzatibha:}dvAviMzatitama: || ||
+
+
+
+
+[##75b.##]udayAti sUryu vigatAzrumarIcimAlA
+vidhamitva sarvatamasAkulamandhakA{5 ##Xyl.## ^kArAM}raM |
+@089
+avibhonti sarvakRmijAtikapraNibhUtA{1 ##Xyl.## ^bhUtAM}n
+sarvAMzca tArakagaNAnapi candraAbhAM ||1||
+
+
+
+
+emeva prajJavarapArami{2 ^mitA}tAM caranto
+vidhamitva dRSTigahanaM vidubodhisattvo |
+[##76a.##] abhibhonti sarvajagatI rahapratyayAMzca
+zUnyAnimittacarito pRthubodhisattvo ||2|| ##A. 413. 13-16.##
+
+
+
+
+yatha rAjaputra dhanadAyaku arthakAmo
+sarveSu zreSTha bhavate abhigAbhinIya:{3 ^nIyo:} |
+sa hi eSa etarahi sattva pramocayAti
+prAgeva rAjyasthitu bheSyati paTudharo ||3||
+
+
+
+
+@090
+[##76b.##] emeva prajJacarito vidubodhisattvo
+amRtasya dAyaku priyo’marumAnuSANAM |
+ayu eSa ete hi sattvasukhAbhiyukto
+prAgeva yAva sthitu bheSyati dharmarA{1 ##Xyl.## ^rAjyo}jo ||4|| ##A. 414. 3. sqq.##
+
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM zakraparivartto nAma trayoviM{2 ##Xyl.## ^zatima:}zatitama: ||
+
+
+
+
+[##77a.##] mAro’pi tasmi samaye bhavate sazalyo
+zokAtu du:khitu anantamano’lpasthAmA |
+dizadAha ulka kSipate bhayadarzanArthaM
+kathameSa dInamanaso bhavi bodhisattvo ||1|| ##A. 416. 8-15.##
+
+
+
+
+yatha te bhavanti vidu AzayusaMprayu{3 ##Xyl.## ^yukto}ktA
+divarAtri prajJAvarapAramitArthadarzI |
+@091
+[##77b.##] tada kAyacitta khagapakSi sa tulyabhUtA
+avatAru so kutu {1 ##Xyl.## layiSyati}labhiSyati {2 ##Xyl.## kRSTa^}kRSNabandu: ||2||
+
+
+
+
+kalahAvivAdupagato gada bodhisattvo
+bhontI parasparaviruddhakaruSTaci{3 ##Xyl.## ^cittA}ttA: |
+tada mAra tuSTu bhavatI paramaM udagro
+ubhi eti dUra bhaviSyanti jinAna jJAne ||3||
+
+
+
+
+[##78a.##] ubhi eti dUri bhaviSyanti pizAcatulyA
+ubhi eti Atma kariSyanti pratijJahAniM |
+duSTAna kSAntivikalA na kuto’sti bodhi
+tada mAru tuSTu bhavatI namucIsapakSo ||4|| ##A. 420. 3-12.##
+
+
+
+
+@092
+yo bodhisattva ayu vyAkRtu vyAkRtasmin
+citta pradUSayi vivAdu samArabheyyA |
+[##78b.##] yAvanti cittakSaNikAkhiladoSayuktA-
+stAvanta kalpa puna sannahitatavya bhonti ||5|| ##A. 420. 12-17.##
+
+
+
+
+atha tasyupadyati matIti azobhanAti
+kSAntIya pAramita bodhi spRzanti buddhA: |
+pratidezayAti puna Ayati saMvarANi
+apayAti vAsa iha zikSati buddhadharme ||6||
+
+
+
+
+[##79a.##] bhagavatyAM ratnaguNasaMcayagAthAyAbhabhimAnaparivartto nAma caturviMza{1 ##Xyl.## ^zatima:}titama: || |
+
+
+
+
+yo zikSamANu na upaiti kahiMci zikSA  ##A. 424. 1 sqq.##
+na ca zikSakaM labhati nApi ca zikSadha{2 ##Xyl.## ^dharmAM}rmAn |
+@093
+zikSA azikSa ubhayo avikalpamAno
+yo zikSate sa iha zikSati buddhadharme ||1||
+
+
+
+
+[##79b.##] yo bodhisattva imu jAnati eva zikSAM
+na sa jAtu zikSavikalo bhavate duzIlye |
+arAdhiteSu iha zikSati buddhadharmaM
+zikSAti zikSakuzalo ti nirupalambho ||2||
+
+
+
+
+zikSantu eva viduprajJaprabhAGkarANAM
+notpadyate akuzalamapi ekacittaM |
+[##80a.##] sUrya vA gatiM nigacchati antarIkSe
+razmIgate na sthihate purato'ndhakAraM ||3|| ##A. 430. 16-21.##
+
+
+
+
+@094
+prajJAyapAramitazikSitasaMskRtAnAM
+sarveSa pAramita bhonti ha saMgRhItA:{1 ##Xyl.## ^tA} |
+satkAyadRSTi yatha {2 ##Xyl.## SaSTi}SaSTi duve ca dRSTI
+antargatAstatha mi pAramitA bhavanti ||4|| ##A 430. 21-431. 5.##
+
+
+
+
+[##80b.##]yatha jIvitendriyaniruddhiya kecidanyai
+bhontIti ruddha pRthu indriya yAvadasti |
+emeva prajJacarite viduuttamAnAM
+sarveta pAramita u{3 ##Xyl.## uktasaMgrahItA}ktA tra saMgRhItA: ||5|| ##A 431. 5-12.##
+
+
+
+
+ye cApi zrAvakaguNA tatha pratyayAnAM
+sarveSa bhonti vidu zikSitu bodhisattvA: |
+[##81a.##] no cApi tatra sthihatA na spRheti teSAM
+ayu zikSitavyami{4 ##Xyl.## neti}ti zikSata etamarthaM ||6|| ##A 432. 16-433. 18.##
+
+
+
+
+@095
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM zikSAparivarto nAma paJcaviMza{1 ^zatima:}titama: ||
+
+
+
+
+avivartiyasya varabodhayi prasthitasya
+yo cittapAdu anumodatu Azayena |
+[##81b.##] trisahasra{2 ##Xyl.## ^srAsaru ##vide Tib.##} meru tulayitva siyA pramANo
+na tveva tasya kuzalasya numodanAye ||1|| ##A 435. 14-436. 8.##
+
+
+
+
+yAvanta sattva kuzalArthika mokSa{3 ##Xyl.## ^kAmA}kAmA:
+sarveSu bhonti anumoditu puNya{4 ##Xyl.## ^rAzi}rAzi: |
+sattvarthi te jinaguNAnanta prApuNitvA
+dAsyanti dharma yagatI du:khasaMkSayAye ||2||
+
+
+
+
+@096
+[##82a.##] yo bodhisattva avikalpaku sarvadharmAn
+zUnyAnimitta parijAnati niSprapaJcAn |
+na ca prajJa bodhi parieSati Azayena
+so yukta prajJavarapAramitAya yogI ||3||
+
+
+
+
+AkAzadhAtugaganasya siyA virodho
+na hi tena tasya kutu kenaci{1 ##Xyl.## kenavideSa}deSaM prAptA |
+[##82b.##] emeva prajJacarito vidubodhisattvo
+{2 ##Xyl.## abhyovakAza}abhyAvakAzasadRzA upazAntacArI ||4|| ##A 441. 9-15.##
+
+
+
+
+yatha mAyakArapuruSasya na eva bhonti
+te ziSya mAM janata so cakaronti kAryaM |
+pazyanti taM vividhakAryanidarzayantaM
+na ca tasya kAyu na pi citta na nAmadheyaM ||5|| ##A 441. 15. sqq.##
+
+
+
+
+
+@097
+
+
+
+
+[##83a.##] emeva prajJacarite na kadAci bhonti
+buddhitva bodhi jagatI parimocayitvA |
+Atmopapattivivi{1 ##Xyl.## ^dhAkriyasaMprayogAM}dhakriyasaMprayogaM
+darzeti mAyasadRzo na vikalpacArI ||6||
+
+
+
+
+yatha buddha{2 ##Xyl.## buddhi} nirmita karoti ca buddhakAryaM
+na ca tasyupadyati mado karamANu kiMcit |
+[##83b.##] emeva prajJacarito vidubodhisattvo
+darzeti sarvakriya nirmitamAyatulyaM ||7|| ##A 442.14-443. 6.##
+
+
+
+
+palagaNDadakSavidunA kRtu dAruyantro
+puruSestritulya sa kAroti ha sarvakAryaM |
+emeva prajJacarito vidubodhisatvo
+jJAnena sarvakriya kurvati nirvikalpo ||8|| ##A 443. 8-13##
+@098
+
+
+
+
+[##84a.##] bhagavatyAM ratnaguNasaMcayagAthAyAM mAyopamaparivarto nAma SaDviM{1 ##Xyl.## ^zatima:}zatitama: || ||
+
+
+
+
+evaM carantu vidunA pRthudevasaGghA:
+kRtaaJcalIpuTapraNamyanamasyayanti |
+buddhA pi yAvata dazaddizi lokadhAtau
+guNavarNamAlaparikIrtana kurvayantI ||1|| ##A 446. 19-447. 13.##
+
+
+
+
+[##84.b##] yAvanti gaGganadi vAlisame hi kSetre
+sattvA ta{2 ##Xyl.## tva} sarvi parikalpa bhaveyu mArA: |
+ekaika roma puna tAntaka nirmiNe{3 ##Xyl.## nirmineya}yA
+sarve na zakya {4 ##Xyl.## karaNa}karaNe vidu{5 ##Xyl.## antarAyAM}antarAyaM ||2|| ##A 447. 13-448. 10##
+
+
+
+
+@099
+
+
+
+
+catu kAraNehi balavA{1 ##Xyl.## ^vAM}n vidubodhisattvo
+bhavate dudharSu catumAra asaprakamyo |
+[##85a.##] zUnyAvihAri bhavate na ca sattvatyAgI
+yatha vAdi sattva karuNA{2 ##Xyl.## karuNa}sugatAdhi{3 ##Xyl.## ^AvasthAna:}SThAna: ||3|| ##A 448. 10-449. 19.sqq##
+
+
+
+
+yo bodhisattva adhibhucyati bhASyamANAM
+ima prajJapAramita mAta tathAgatAnAM |
+pratipatti{4 ##Xyl.## ^ya}yA ca abhiyucyati Azayena
+sarvajJatAya abhiprasthitu veditavyo ||4|| ##A 452. 9-453. 5.##
+
+
+
+
+
+
+[##85b.##] na ca dharmadhAtutathatAya upaiti sthAnaM
+bhavatI yathAnasthita so laghuantarIkSe |
+vidyAdharo va apulaM bhuvanAbhiprAyA
+khagu kAluhIna druma mantrabalAdhiSThAno ||5|| ##A. 453. 10- 454. 13. sqq.##
+@100
+
+
+
+
+evaM carantu vidupaNDitu bodhisattvo
+na ca budhyakaM labhati nApi ca buddhadha{1 ##Xyl.## ^dharmAM}rmAn |
+[##86a.##] na ca dezikaM na pi ca pazyaka dharmatAyAM
+zAntaiSiNAmayu vihAra guNe ratAnAM ||6||
+
+
+
+
+yAvanta zrAvakavihAra sapratyayAnAM
+zAntAsamAdhiprazame sukhasaMpra{2 ##Xyl.## ^yuktA}yuktA: |
+arhAvimokSa sthapayitva tathAgatAnAM
+sarveSu agrayu vihAru niruttarazca ||7|| ##A 455. 13-456. 6.##
+
+
+
+
+[##86b.##] AkAza pakSi viharAti na co patAti
+dakamadhya matsya viharAti na co marAtI |
+
+@101
+
+emeva dhyAnabalapAragu bodhisattvo 
+zUnyAvihAri na ca nirvRti prApuNAtI ||8||
+
+
+
+
+yo sarvasattvaguNaagratu gantakAmo 
+agraM spRzeya paramAddhutabuddhajJAnaM |
+[##87 a.##] agraM dadeya varauttamadharmadAnaM 
+imu agru sevatu vihAru hitaMkarANAM ||9|| ##A 456. 6-12.##
+
+
+
+
+bhagavatyAM rutnaguNasaMcayagAthAyAM sAraparivartto nAma sapta{1 ##Xyl.## saptaviMzatima:}viMzatitama: ||
+
+
+
+
+yAvanta zikSa paridIpita nAyakena 
+sarveSa zikSa ayu agru niruttarA ca |
+[##87 b.##] ya: sarvazikSavidu icchati pAragantu
+imu prajJapAramita zikSati buddhazikSAM ||1|| ##A 466. 2-9 sqq.##
+@102
+
+
+
+
+agraM nidhAna ayu uttamadharmakoza 
+buddhAna gotrajananaM sukhamaukhyagaJjo |
+atikrAnta nAgatadazadizi lokanAthA
+itu te prasUta na ca kSIyati dharmadhAtu: ||2|| ##A 461. 11,12 sqq.##
+
+
+
+
+[##88 a.##] yAvanta vRkSaphalapuSpavanaspatIyA 
+sarve ca medini samudgata prAdurbhUtA: |
+na ca medinI kSayamupaiti na cApi vRddhi 
+na ca khidyatI na parihAyaki nirvikalpA{1 ##Xyl.## ^lpA:} ||3||
+
+
+
+
+yAvanta buddhasamazrAvaka pratyayAzca 
+marutazca sarvajagatI sukhasaukhyadharmA: |
+@103
+
+sarveti prajJavarapAramitA prasUtA 
+na ca kSIyate na ca vardhati jAtu prajJA ||4||
+
+
+
+
+[##88 b.##] yAvanta sattva mRdumadhyamukRSTa loke 
+sarve avidyaprabhavA sugatena uktA: |
+sAmagripratyayu pravartati du:khayantro 
+na ca yantra kSIyati avidya na cApi vRddhi: ||5||
+
+
+
+
+yAvanti jJAnanayadvAra upAyamUlA:
+sarveti prajJavarapAramitAprasUtA: |
+[##89 a.##] sAmagripratyaya pravartati jJAnayantro 
+na ca prajJapAramita vardhati hIyate vA ||6||
+
+
+
+
+@104
+
+yo tU pratItyasamutpAdu anuddhavAye 
+imu pra{1 ##Xyl.## prajJa:}jJa akSayata budhyati bodhisattvo |
+[##89 a.##] so sUrya abhrapaTale yatha muktarazmI 
+vidhamitva vidyapaTalaM bhavate svayaMbhU: ||7|| ##A 469. 7 sqq.##
+
+
+
+
+bhagavatyAM ratnaguNarsacayagAthAyAmavakIrNakusumaparivarto nAmASTAviMza{2 ##Xyl.## ^zAtabha:}titama: ||
+
+
+
+
+caturbhI ca dhyAna viharanti mahAnu{3 ##Xyl.## ^bhAvo}bhAvA
+na ca Alayo na pi ca nizrayu kurvayAtI |
+[##90 a.##] api kho panAzrayu ime catudhyAnasAGgA 
+bheSyanti bodhivarauttamaprApuNAyA ||1||
+
+
+
+
+dhyAne sthito’tra bhavatI varaprajJalAbhI 
+ArUpyarUpi ca samAdhi catasra zreSThA |
+@105
+
+upakAribhUta imi dhyAna varAgrabodhau 
+na punAsra{1 ##Xyl.## ^vAkSapi}vAkSayi sa zikSati bodhisattvo ||2||
+
+
+
+
+[##90 b.##] AzcaryamaddhutamidaM guNasaMcayAnAM 
+dhyAne samAdhi viharanti nimitta nAsti |
+tatra sthitAna yadi bhajyati AtmabhAvo 
+puna kAmadhAtu upapadyati yathAbhi{2 ##Xyl.## ^bhiprAyA}prAyA: ||3||
+
+
+
+
+yatha jambudvIpakamanuSya alabdhapUrvA: 
+divi devauttamapurA anuprApuNeyA |
+[##91 a.##]pazyitva te viSaya tatra parigRhItA
+punarAgameya na ca nizrayu tatra kuryAt ||4||
+
+
+
+
+@106
+
+evamete guNadharA varabodhisattvA 
+dhyAne samAdhi viharitva prayuktayogI |
+[##91 b.##] puna kAmadhAtusthita bhonti anopaliptA 
+{1 ##Compare Uttaratantra, transl. p.##}padmeva vAriNi anizrita bAladharme ||5||
+
+
+
+
+anyatra sattvaparipAcana kSetrazodhI 
+paripUraNArtha imi pAramitA mahAtmA |
+arUpyadhAtuupapatti na prArthayantI 
+yatraha bodhiguNapAramitAna hAni ||6||
+
+
+
+
+[##92 a.##] yatha kazcideva puruSo ratanaM nidhAnaM{2 ##Xyl.## ^dhAnAM}
+labdhA tu tatra spRhabuddhi na saMjenayyA |
+ekAki so puna gRhItva parasmi kAle 
+gRhNitva geha pravizitva na bhonti lubdho ||7||
+
+
+
+
+@107
+
+emeva dhyAna catureva samAdhizAntAM 
+labdhAna pretisukhadA vidubodhisattvA: |
+[##92 b.##] avasRrjya dhyAnasukhaprItisamAdhilabhaM 
+puna kAmadhAtu pravizanti jagAnukampI ||8||
+
+
+
+
+yadi bodhisattva viharAti samadhidhyAne
+rahapratyayAni spRhabuddhi {1 ##Xyl.## ta}na saMjaneyA |
+asamAhito bhavati uddhatakSiptacitto 
+parihInabuddhi{2 ##Xyl.## ^guNA}guNa nAvika bhinnabhAvo ||9||
+[##93 a.## kiM cApi rUpamapi zabda tathaiva gandho 
+rasasparza kAmaguNa paJca bhiyukta bhotI |
+rahapratyayAnavigato nandabodhisattvo 
+satataM samAhitu prajAyitavya zUro ||10||
+@108
+
+
+
+
+parasattva{1 ##Xyl.## puGgala}pudgalanidAnavizuddhasattvA 
+vicaranti vIryavarapAramitAbhi{2 ##Xyl.## ^yuktA}yuktA: |
+[##93.b##] yatha kumbhadAsi avazAvazabhartRkasya 
+tatha sarva vazatAmupayAnti dhIrA: ||11||
+
+
+
+
+na ca svAmikasya prativAkyu dadAti dAsI 
+AkruSTu cApi athavA sa ta{3 ##Xyl.## datADi}DAti tAvA
+ekAnta trastamanasA sa bhayAbhibhUtA 
+mAmeva so anuSadhiSyati kAraNena ||12||
+
+
+
+
+[##94 a.##] emeva vodhivaraprasthitu bodhisattvo
+tiSTheya sarvajagatI yatha preSyabhUto |
+anubodhi Agamu guNAna ca pAripUrI 
+tRNa agni kASThaprabhavo {4 ##Xyl.## dahanetameva}dahate tameva ||13||
+@109
+
+
+
+
+avasRjya AtmasugatAM parasattvakArye 
+abhiyukta rAtridiva niSpRtikAGkSacitto |
+[##94 b.##] mAteva ekasutake paricAryamANe 
+adhyAzaye na parikhinna avasthiteti ||14||
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM anugamaparivarto nAma {2 ##Xyl.## ekUnatriMzatima:}ekonatriMzatitama: ||
+
+
+
+
+yo bodhisattva cirasaMsaraNAbhiprAyo 
+sattvArtha kSetraparizodhanayuktayogI |
+[##95 a.##] na ca khedabuddhi {3 ##Xyl.## anumAtra}aNumAtra upAdayAtI 
+so vIryapAramitayukta atandritazca ||1||
+
+
+
+
+@110
+
+
+
+
+avikalpakoTigaNaye’vidubodhisattvo 
+cirasaMjJabodhisamudAnaya tena du:khe |
+ciradu:kha bheSyati samAcaramANu dharmaM 
+na vIrya{1 ##Xyl.## cIryapAramita^}paramitahIna kusIdarUpo ||2||
+
+
+
+
+[##95 b##] prathamaM upAdu varabodhayi cittapAdo 
+so vA anuttarazivAmanuprApuNeyA |
+rAtridivaikamanasA tamadhiSThiheyA 
+ArambhavIryu vidupaNDitu veditavyo ||3||
+sa ci kazcideva vadayeya sumeruzailaM 
+bhinditva pazca adhigamyasi agrabodhiM |
+[##96 a.##] sa ci khedabuddhi kurute ca pramAdabaddho 
+kausIdya{2 ##Xyl.## ^prapta}prApta bhavate tada bodhisattvo ||4||
+@111
+
+
+
+
+
+atha tasyupadyati matI kimutAlpamAtraM 
+kSaNamAtra bhasma nayatI vilayaM sumeruM |
+ArambhavIrya bhavate vidubodhisattvo 
+na cireNa bodhivara {1 ##Xyl.## lapsati}lapsyati nAyakAnAM ||5||
+
+
+
+
+[##96 b.##] sa ci kAyacittamanasA ca parAkrameyyA 
+paripAcayitva jagatI kariSyAmi arthaM |
+kausIdyaprApta bhavatI sthitu AtmasaMjJai: 
+nai{2. ##Xyl.## nairAtma^ ##Compare Tib.##}rAtyabhAvanavidUri nabhaM va {3 ##Xyl.## bhUme}bhUme: ||6||
+
+
+
+
+yasminna kAyu na pi citta na sattvasaMjJA
+saMjJAvivarti sthitu advayadharmacArI |
+@112
+
+[##97 a.##] ayu vIryapAramita ukta hitaMkareNa 
+AkAGkSa{1 ##Xyl.## ^mAna}mANa zivamacyuta agrabodhiM ||7||
+
+
+
+
+puruSaM zruNitva vacanaM parato duruktaM 
+paritoSayAti susukhaM vidubodhisattvo |
+kI bhASate ka zRNu{2 ##Xyl.## sRNute}te kutu kasya kena 
+so yukta kSAntivarapAramitAya vijJo ||8||
+
+
+
+
+[##97b.##] so bodhisattvu kSamate guNadharmayukto 
+yazcaiva ratnabharitaM trisahasra dadyAt |
+buddhAna lokavidunArhatapratyayAnAM 
+kalapuNya so na bhavate iha dAnuskandhe ||9||
+
+
+
+
+@113
+
+kSAntIsthitasya parizu{1 ##Xyl.## ^zudhyati}dhyati AtmabhAvo 
+dvAtriMzalakSaNaprabhAva anantapAro |
+[##98 a.##] sattvAna zUnyavaradharma nizAmayAtI 
+priyu bhonti sarvajagatI kSamamANu vi{2 ##Xyl.## vijJo:}jJo ||10||
+
+
+
+
+sa ci kazci candanapuTaM grahiyAna sattvo 
+abhyokireya gurupremata bodhisattvaM |
+dvitIyo’pi agni sakale zirasi kSipeyA 
+ubhayatra tulyu manu tena upAditavyo ||11||
+[##98 b.##] evaM kSamitva vidupaNDitu bodhisattvo 
+tAM cittapAdu pariNAmayi agrabodhau |
+yAvanti kSAnti rahapratyayasattvadhAto: 
+{3 ##Xyl.## Avabhoti}abhibhoti sarvajagatI kSamamANu {4 ##Xyl.## zUrA}zUra: ||12||
+
+
+
+
+@114
+
+
+
+
+kSamamANu eva puna citta upAditavyo 
+narakeSu ti{1 ##Xyl.## tIrya^}ryayamaloki anekadu:khA |
+[##99 a.##] anubhUya kAmaguNahetu akAmakArA: 
+kasmAhu adya na kSameya nidAna bodhau ||13||
+
+
+
+
+kazadaNDazastravadhabandhatatADanAzca 
+{2 ##Xyl.## ziracceda^}zirazchedakarNacaraNAkaranAsacchedA: 
+[##99 b.##] yAvanti du:kha jagatI ahu tatsahAmi 
+kSAntIya pAramita tiSThati bodhisattvo ||14||
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM sadApraruditaparivarto nAma triMzattama: ||
+
+
+
+
+zIlena udgata bhavanti {3 ##Xyl.## samA^}zamAbhikAMkSI 
+sthita gocare dazabalAna akhaNDazIlA: |
+
+
+
+@115
+
+[##100 a.##] yAvanti saMvarakriya anuvartayanti 
+tAM sarvasattvahita bodhayi nAmayanti ||1||
+
+
+
+
+sa ci pratyayAna rahabodhi spRhAM janeti 
+du:zIla bhoti viduSAM tatha chidracArI |
+atha bodhi uttamazivAM pariNAmayantI 
+sthitu zIlapAramita kAma{1 ##Xyl.## ^guNepi}guNebhi yukto ||2||
+
+
+
+
+[##100 b.##] yo dharma vodhiguNa Agamu sUratAnAM 
+so zIlu arthu guNadharmasamanvi{2 ##Xyl.## ^ndhitAnAM}tAnAM |
+yo dharma bodhiguNahAni hitaMkarANAM
+du:zIlatA ayu prakAzitu nAyakena ||3||
+
+
+
+
+@116
+
+yadi paJca kAmaguNa bhuJjati bodhisattvo 
+buddhaM ca dharma zaraNAgatu AryasaMghaM |
+[##101 A#] sarvajJatA ca manasI bhaviSyAmi {1 ##Xyl.## buddhA}buddho
+sthitu zIlapAramita vedayitavya vijJo ||4||
+
+
+
+
+yadi kalpakoTi dazabhI kuzalai:{2 ##Xyl.## pathebhi:zca^}pathebhi-
+zcaramANu pratyayara{3 ##Xyl.## ^rahitva^}hatvaspRhAM janeti |
+tada khaNDazIlu bhavate api cchidrazIlo 
+pArAjiko gurutaro ayu cittapAdo ||5||
+
+
+
+
+[##101 b##] rakSantu zIla pariNAmayi agrabodhiM 
+na ca tena manyati na Atmana karSayeyA |
+ahusaMjJatA ca parivarjita sattvasaMjJA 
+sthitu zIlapAramita ucyati bodhisattvo ||6||
+
+
+
+
+@117
+
+
+
+
+yadi bodhisattva caramANu jinAna mArge
+imi zIla{1 ##Xyl.## ^vANimi}vAnimi du:zIla karoti sattvAn |
+[##102 A#] nAnAtvasaMjJapasRto paramaM du:zIlo 
+api cchidrazIlu na tu so parizuddhazIlo ||7||
+
+
+
+
+yasyo asti ahasaMjJa na sattvasaMjJA
+saMjJAvirAgu kRtu tasya asaMvaro’sti |
+yasyo na saMvari asaMvari manyanAsti 
+ayu zIlasaMvaru prakAzitu nAyakena ||8||
+
+
+
+
+[##102 b##] yo eva zIlasamanvA{2 ##Xyl.## ndhAgatu}gatu niSprapaJco 
+anapekSako bhavati sarvapriyApriyeSu |
+zirahastapAda tyajamAna adInacitto 
+sarvAstityAgi bhavate satataM alIno ||9||
+@118
+
+
+
+
+jJAtvA ca dharmaprakRtIM vazikAnirAtmyaM 
+AtmAna {1 ##Xyl.## mAsa}mAMsa tyaja{2 ##Xyl.## mANu}mAnu adInacitto |
+[##103A#] prAgeva vastu {3 ##Xyl.## tada ##vide Tib.##}yadi vA hiraNA tyajeyA 
+{4 ##Xyl.## AsthA^} asthAnameta yadi matsari so kareyA ||10||
+
+
+
+
+ahasaMjJa{5 ##Xyl.## ^tastusamatA}vastumamatA bhavate ca rAgo 
+kutu tyAgabuddhi bhaviSyati sA muhAnAM |
+mAtsarya preta bhavate upapadyayAto 
+athavA manuSya tada bhoti daridrabhUto ||11||
+
+
+
+
+[##103 b##] tada bodhisattva imi jJAtva daridrasattvAn 
+dAnAdhimukta bhavatI sada muktatyAgI |
+@119
+
+catvAri dvIpi samalaMkRtu {1 ##Xyl.##kheTAtulyAM}kheTatulyaM 
+dattvA udagra bhavate na hi dvIpalabdho ||12||
+
+
+
+
+dAnaM daditva vidupaNDitu bodhisattvo 
+yAvasti sattva tribhave samanvA{2 ##Xyl.## ^ndhA^}haritvA |
+[##104 A#] sarveSu teSu bhavate ayu dattadAnaM 
+taM cAgrabodhi pariNAmayate jagArthe ||13||
+
+
+
+
+na ca vastunizrayu karoti daditva dAnaM 
+vidupAku nai{3 ##Xyl.## Nava}va pratikAMkSati so kadAcit |
+evaM tyajitva bhavate vidu sarvatyAgI 
+alpaM tyajitva bhavate bahu aprameyaM ||14||
+
+
+
+
+@120
+yAvanta sattva tribhave nikhilena astI
+te sarvi dAna dadayanti ananta{1 ##Xyl.## ^kalpAM}kalpAn |
+[##104 b##] buddhAnu lokavidunArhatapratyayAnAM 
+yAvanti zrAvakagaNAtparikalpasthAne ||15||
+
+
+
+
+yazco upAyakuzalo vidubodhisattvo 
+teSAM sa puNyakriyavastvanumodayitvA |
+sattvArtha agravarabodhayi nAmadheyA 
+{2 avibhonti}abhibhoti sarvajagatI pariNAmayukto ||16||
+
+
+
+
+[##105 A#] kAcasya vAmaNina rAzi bhiyA mahatto 
+vaiDUryaratna abhibhoti sa sarva eko |
+emeva sarvajagatI pRthudAnaskandho 
+{1 ##Xyl.## ^kalpAM}abhibhoti sarva pariNAmaku bodhisattvo ||17||
+
+@121
+
+
+
+
+yadi bodhisattva dadamAna jagasya dAnaM 
+mamatA na tatra karayenna ca vastuprema |
+[##105 b##]tatu vardhate kuzalamUla mahAnubhAvo 
+candro va nabhraprabhamaNDalu zuklapakSe ||18||
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM dharmodgataparivarto nAma ekatriM{1 ##Xyl.## ^zatima:}zattama: ||
+
+
+
+
+dAnena pretagati {2 ##Xyl.## cchindati}chindati bodhisattvo 
+dAridrayaM ca {3 ##Xyl.## cchinatI}chinatI tatha sarvakle{4 ##Xyl.## ^zAt}zAn |
+[##106 A#] bhogAMzca nantavipu{5 ##Xyl.## ^lAM}lAn labhate caranto 
+dAnena sattva paripAcayi {6 ##Xyl.## kicchraprAptAM}kRcchraprAptAn ||1||
+
+@122
+
+zIlena tIryagati varjayi nekarUpAM 
+aSTau ca akSaNa kSaNAM labhate sa nityaM |
+kSAntIya rUpa labhate paramaM udAraM 
+suvarNacchavI priyu jagasya udIkSaNIyo ||2||
+
+
+
+
+[##106##] vIryeNa zuklaguNa hAni na abhyupaiti 
+jJAnaM ananta labhate jinakozagaJja |
+dhyAnena kAmaguNa utsRjate jugu{1 ##Xyl.## ^psyAM}psyAn 
+vidyA abhijJa abhinirharate samAdhiM ||3||
+
+
+
+
+prajJAya dharmaprakRtI parijAnayitvA
+traidhAtukAnta samatikramate apAyAM
+[##107 A#]vartitva cakra{2 ##Xyl.## ^ratana}ratanaM puruSarSabhANAM 
+dezeti dharma jagatI du:khasaMkSayAye ||4||
+
+
+
+
+@123
+
+paripUrayitva imi dharma sa bodhisattvo 
+api kSetrazuddhi parigRhNati sattvazuddhiM |
+api buddhavaMzaM parigRhNati dharmavaMzaM
+tatha saMghavaMzaM parigRhNati sarva{1 ##Xyl.## ^dharmAM}dharmAn ||5||
+
+
+
+
+[##107 b##] vaidyottamo jagati rogacikitsakArI 
+prajJopadeza kathito ayu bodhimArgo |
+nAmena ratnaguNasaMcaya bodhimArga: 
+taM sarvasattva imu mArganu{2 ##Xyl.## ^prapta^}prAptavanti ||6||
+
+
+
+
+bhagavatyAM ratnaguNasaMcayagAthAyAM {3 ##Xyl.## parindanA^}parIndanAparivarto nAma dvAtriM{4 ##Xyl.## ^zatima:}zattama: ||
+
+
+
+
+[##108 A#] lokaM prApayituM sukhena padavIM saMpaddvayAvAhinIM 
+kAruNyAhitacetasA bhagavatA buddhena saMdIpitaM |
+
+@124
+
+zrutvA te’khila{1##Xyl.## ^dharmatAninayaM}dharmatattvanilayaM sUtraM samAdAnato 
+gatvA sthAnamaharnizaM nijamalaM dhyAyantu ye’bhyAgatA: ||1||
+
+
+
+
+[##108 b##] kAle’smin bahudRSTi{2 ##Acc. to Tib.## bahudu:kha^}saMkulakalI pAThe’pi dUraMgate 
+gAthAbhedamanekapustakagataM dRSTvAdhunA nyAyata: |
+kUpaM vAdigajendrakumbhadalane bhadreNa yA zodhitA 
+lokArthaM hariNA mayA suvihitA{3 ##Xyl.## ^hitau} smeyaM {4 ##Xyl.## buddhairgR^}budhairgRhyatAm ||2||
+
+
+
+
+@125
+
+[##109 A#] AryASTa{1 ##Xyl.## ^sahasrikAyAM}sAhasrikAyA {2 ##Xyl.## bhagavatyAM}bhagavatyA: prajJApAramitAyA: parivartAnusAreNa bhagavatI
+ratnaguNasaMcaya{3 ##Xyl.## ^gAthAyAM}gAthA samA{4 ##Xyl.## samApta:}ptA ||
+
+

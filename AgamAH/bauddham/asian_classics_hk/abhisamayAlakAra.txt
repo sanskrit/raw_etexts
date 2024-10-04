@@ -1,0 +1,1026 @@
+@i
+##BIBLIOTHECA BUDDHICA. XXIII##
+abhisamayAlankAra-prajJApAramitA-upadeza-zAstra
+##THE WORK OF
+BODHISATTVA MAITREYA
+EDITED, EXPLAINED AND TRANSLATED
+BY TH.STCHERBATSKY,
+MEMBER OF THE ACADEMY OF SCIENCES OF USSR
+AND 
+E. OBERMILLER,
+SECTION SECRETARY OF THE RESEARCH INSTITUTE FOR BUDDHIST CULTURE
+OF THE ACADEMY OF SCIENCES OF USSR
+Fasciculus I
+INTRODUCTION, SANSCRIT TEXT AND TIBETAN TRANSLATION
+@ii
+Printed by order of the Academy of Sciences of USSR
+June 1929
+Perpetual Secretary S. d'Oldenburg
+Begun in November 1928.- Printed in June 1929
+@iii
+Contents
+Introduction I-XII
+Sanscrit Text 1-40
+Tibetan Text 1-42
+
+Errata
+
+@i
+INTRODUCTION
+1.The place of ##abhisamayAlankAra ##in Buddhist Literature.
+The Buddhist literature as translated, preserved and studied
+in Tibet and Mongolia is variously classified by the Tibetans.
+The first most general division is into Scripture## (pravacana =
+sUtra) ##and Exegesis## (zAstra). ##Next comes a general cross division
+into## sUtra ##and tantra (mdo and rgyud). The term## sUtra ##is
+usually applied to the Discourses of Buddha and is, in this accep-
+tation, a synonym of Scripture. But here it means all literature
+other than tantra, whether exegesis or scriptural. Tantra is a
+special mystic worship only loosely connected with Buddhism
+proper. Thus## sUtra ##in this case would mean Buddhism proper,
+exclusive of the annected mystic worship.
+A third cross division is into## hInayAna, mahAyAna ##and Tan-
+tra or## vajra-yAna. ##The first class contains the literature of the
+18 schools of early Buddhism. The second all the subsequent
+literature of Buddhism with the exception of Tantra, which forms
+the third class. The first two## yAnas ##of this division are again
+divided in three:## zrAvaka-yAna, pratyeka-buddha-yAna ##and##
+bodhisattva-yAna. ##This division refers to the three methods of
+proceeding along the Path of Salvation towards Final Deliverance
+in## nirvAna. ##It is the practical side of the doctrine. Its theore-
+tical part or its philosophy is divided into three (Swingings of
+the Wheel of the Law) or, as we may simply call it, into three
+@ii
+periods. In the first period the philosophy was pluralistic, in the
+second it was monistic, and in the third it became idealistic and
+partly critical.
+The early division of the Buddhist literature into three
+(baskets), Discipline, Law and Philosophy, was retained in
+Tibet but merely in theory. The Tibetans themselves are often
+in doubt about the question, to what basket a work of the later
+literature must be assigned{1. The division in twelve angas which is discussed by E. Burnouf in his
+Introduction is also mentioned by Bu-ston, but it is referred not to different
+works, but to different varieties of style in which the works, or only parts of them
+even simply passages, are written.}.
+As a matter for study in the monastic schools of Tibet and
+Mongolia the whole of Buddhist literature is again divided into
+A# lakSaNa-yAna{2 mtshan-Jid-theg-pa, ##this term is used by Bu-ston.} ##or the doctrine proper and## mantra-
+yAna ##or the mystic worship, and there is accordingly in every
+monastery two schools or faculties, the faculty of the Doctrine##
+(TsaJid Datsan){3 mtshan-Jid-grva-tshan.} ##comprising a theoretical and practical side, and
+the faculty of mystic worship## (Gyud Datsan){4 rgyud-grva-tshan.-##In the large monasteries there are additionally a
+school of medicine, a school of astronomy and astrology## (kAla-cakra), ##and in
+Labrang even a school of grammar and music. A survey of the teaching in the
+schools of Tibet and Mongolia by B. B. Baradiin will appear in the year book
+of our Institution.}
+The teaching in the faculty of the Doctrine## (TsaJid Datsan)
+##comprises 5 different courses: 1) the philosophy of early Bud-
+dhism## (abhidharma), 2) ##Logic## (pramANa), 3) ##The Dialectical
+Method## (mAdhyamika), 4) ##Moral philosophy## (pAramitA) ##and
+5) Monastic Discipline## (vinaya). ##In every class a fundamental
+text## (mUla) ##is learned by heart and commentaries are orally sup-
+plied by the teacher.
+The fundamental text for the abhidharma class in## vasu-
+bandhu's## abhidharmakoza, ##for the class of logic it is
+@iii
+
+##the## pramANa-vArtika ##of## dharmakIrti, ##for the dialec-
+tical class it is the## mAdhyamika-avatAra ##of## candra-
+kIrti, ##for the class of moral philosophy it is the## abhisa-
+maya-alankAra ##of## Bodhisattva Maitreya, ##and for
+the class of Discipline it is the## vinayasUtra ##of## guNa-
+prabha. ##The full course lasts for about 12 years. The three
+first classes deal with the theoretical part of the Buddhist doct-
+rine, the two last with its practical side.
+Thus the## abhisamaya-alankAra ##is the fundamental
+work for the study of the Buddhist doctrine of the Path towards
+moral perfection and the attainment of the condition of a Buddhist##
+mahAyAnistic ##Saint, and of A# mahAyAnistic ##Buddha in his blessed##
+nirvANa. ##If the## abhidharma, pramANa ##and## mAdhyamika ##teachings
+represent three phases of Buddhist philosophy, the## abhisamaya
+##represents Buddhism as a religion. The term abhisamaya means
+direct intuition of the Absolute. Here it means the Path of
+attaining that intuition{1 Cp. Points of Controversy, p. 382 ff.}, it is a synonym of## mArga.
+{2 ##The author and his works.
+The## abhisamaya-alankAra-##the full title is## abhisa-
+maya-alankAra-nAma-prajJApAramitA-upadeza-
+zAstra-##is one of the five works upon which the## yogAcAra
+##school of later Buddhism is founded, and whose authorship is,
+according to the Tibetan tradition, ascribed to## Bodhisattva
+
+Maitreya, the future Buddha{2 Cf. my article (Notes de litterature boddhique, La litterature## yogAcAra
+
+d’apres ##Bouston) in the museon, 1904. Bu-ston reckons 20## yogAcAra ##funda-
+
+mental works,- 5 by## Maitreya, 7 by## Asanga, ##and 8 by## vasubandhu.}. Maitreya, ##descending from
+
+the## tuSita ##heaven, communicated them to saint## Asanga ##who then
+
+composed the commentaries.
+
+This pious legend is explained by professor## Sylvain Levi{3 In his Introduction to the Translation of Asnga’s## sUtrAlankAra, ##Paris, 1911.}
+
+@iv
+
+as proving that the works of saint Asanga, initiating a new de-
+
+parture in the history of Buddhist philosophy, had attained great
+popularity and were gradually considered as revealed. Indeed
+the facts collected by him{1 Ibidem, p. 7-8.} point to the gradual growth of the
+legend, and the fact that the Indian, Chinese and Tibetan tradi-
+tions do not agree{2 Originally the great work of## asanga saptadazabhUmi-zAstra ##alone was
+reputed as revealed, but later on five other works were assumed as revealed, but
+not the## saptadazabhUmi.} ##in the enumeration of those five among the
+works of## asanga ##to whom a supernatural origin is ascribed,
+would support this opinion.
+However professor H. Ui{3 Zeitschr. fur I. u. I., 1928, p. 215 ff.}, in a recent article, expresses his
+view to the effect that Maitreya (without any doubt was an
+historical person), who lived in IV century A. D. in Ayodhya,
+(where he composed some of his works and instructed Asanga
+who came, having perhaps been told by## piNDola, ##from## gandhAra
+##in his search for## mahAyAna ##Buddhism). This Maitreya, accord-
+ing to the same article{4 Ibid., p. 224.}, (ought to be regarded as the founder
+of the## yogAcAra ##school, as much as## nAgArjuna ##is the founder of
+the## mAdhyamika ##school{5 M. E. Obermiller informs me that there is in the Tanjur Mdo, v. XVII,
+fol. 170-171, a short tract ascribed to## nAgArjuna, ##the## bhava-sankrAnti
+(srid-pa-Hpho-ba), ##and a commentary## (TIkA) ##upon it by## maitreya-nAtha (Byams-
+pa mgon-po). ##This fact can be interpreted either as a support for Prof. Ui’s view,
+or it would be an indication that such an attribution was at a certain epoch custo-
+mary in some circles.}
+Be this as the case may be, it is  nevertheless in the high-
+est degree astonishing that the## abhisamayAlaMkAra, ##which in
+Tibet and Mongolia is the fundamental work for studying Bud-
+dhism as a religion, which every educated monk in these count-
+ries knows by heart, which represents there a Catechism of##
+mahAyAna, ##which is the starting point of an enormous amount of
+literary production, both in India and in Tibet,- has never
+@v
+been translated into Chinese and is there utterly unknown{1 Ibidem, p.222.}.
+Neither## ParamArtha ##nor## Hiuen-tsang nor I-tsing ##seem to have
+noticed it and have imported no copy of it into China. However
+Vasubandhu had already, in all probability, made it the text
+book for the study of## prajJA-pAramitA. ##Although he himself has
+composed no commentary on it, but his pupil and continuator in
+this department of Buddhist science, the saint Vimukta-
+sena, has written a detailed commentary{2 ni-khri-snan-ba,cp. Tanjur Mdo, vol.I.} ##which was then
+followed by a series of other works.
+Another peculiarity of the## abhisamayAlankAra ##is that it ex-
+pounds the theory of Salvation without alluding to the typical
+tenets of the## yogAcAra ##school. The Tibetan historian and syste-
+matist## Bu-ston Rin-chen-Dub ##in his history of Buddhism
+in Tibet{3 f. 22 ##of the## Lha-sa ##block print edition of the## Bod-chos-Hbyun.} ##says, that this work of Maitreya is written according
+to the principles of the## mAdhyamika ##school## (hkhor-lobar-ba),
+##while the remaining 4 works belong to the## yogAcAra ##school.
+According to## Tson-khapa{4 ##In his## Gser-phren.} ##the## abhisamayAlankAra ##follows the
+principles of the## mAdhyamika-svAtantrikA ##school, the Uttara-
+tantra of the same author-those of the## mAdhyamika-prAsan-
+gika, ##and the remaining three works only belong to the## yogA-
+cAras. ##In fact the theory of Salvation is expounded by later
+writers either in accordance with the## mAdhyamika-svAtantrika
+##or the## yogAcAra ##principles, but not in accordance with the## mAdhyamika-prAsangika ##school.
+3. Contents and character of the work.##
+abhisamayAlankAra ##is A# prajJApAramitA-upadeza ##and it is A#
+zAstra, ##that is to say, it is a systematical exposition of the## pra-
+jJApAramitA ##doctrine, of its practical side.## abhisamaya, ##as already
+@vi
+mentioned, is here a synonym of## mArga. alankAra ##is the name
+for a literary form popular with the Buddhists. It means that
+the work in question contains no full and detailed exposition of
+the doctrine, it is not A# mahA-zAstra, ##like the## abhidharmakoza,
+##but it is only a short summary{1 According to## S. Levi, op. cit., p. 16, the celebrated passage in Subandhu’s##
+vAsavadattA, ##contains even a direct reference to the## sUtralankAra ##of## maitreya-
+asanga. ##But it is more probable that it refers to the Buddhist practice of writing##
+alankAras ##in general.} of the salient points of the
+system contained in the## prajJApAramitA sUtras, ##in all its redac-
+tions, the one in 100.000## zlokas, ##the one in 25.000## zlokas ##and
+the one in 8.000## zlokas. ##Really wonderful is the skill, with 
+which the author includes in the terse writing of his mnemonic
+verses almost every important feature, mentioned in the## sUtras.
+##What the term## prajJApAramitA ##means, is very pregnantly expres-
+sed by## dignAga ##in the first verse of his## prajJA-pAra-
+mitA-piNDArtha{2 tanjur, ##Mdo, vol. XIV; a commentary by## triratnadAsa ##is also found there.}, ##a work dealing with just the same funda-
+mental idea as the## abhisamayAlankAra, ##and which was probably
+composed by him as a help for memory during the time he was
+studying the subject as a pupil of Vasubandhu, attending to his
+course of## prajJApAramitA. ##The verse runs as follows##:                                                                                                                                                                                                                                       
+prajJApAramitA jJAnam advayam, sa tathAgata:,
+sAdhya-tAdarthya-yogena tAcchAbdyam grantha-mArgayo:{3 ##The sanscrit original of this verse is quoted by Haribhadra in his## abhisa-
+
+mayAlankAra-AlokA ##MS fol. 23b.4-5 (E. Obermiller).}.
+
+##That means##: (prajJApAramitA ##is Monism, it is that know-
+
+ledge (in which subject and object coalesce), it is also Buddha
+
+(himself, personified in his Cosmical Body). The word## prajJApA-
+ramitA ##means moreover the text (of the## prajJApAramitA sUtras)
+##and the Path of Salvation (which they teach), because the aim
+(of the text and of the Path) is to produce this (monistic con-
+sciousness and the condition of a Buddha in his## nirvANa).
+@vii
+##Thus, the term## prajJA-pAramitA ##has the following meanings:
+1) philosophic Monism, 2) Buddha’s Cosmical Body, 3) the text
+of the p.-p.## sUtras, ##and 4) the Path towards Salvation according
+to## mahAyAnistic ##principles. It is in this last acceptation, that
+the## AbhisamayAlankAra ##contains a summary of the salient
+points.
+It is divided in 8 chapters. The first three deal with three
+kinds of Omniscience, the Omniscience of the## mahAyAnistic ##Bud-
+dhA# (sarva-AkAra-jJatA = ##Tib.## rnam-mkhyen), ##the Omniscience
+of the Bodhisattva concerning the Path## (mArga-jJatA = Tib.
+lam-zes) ##and that kind of Omniscience which is attainable by the##
+hInayAnistic ##Saint## (sarva-jJatA = ##Tib.## gzhi-zes). ##This term of
+Omniscience, as applied to the Buddha, carries a totally different
+connotation than in western religions. It simply means intelli-
+gible, non-sensuous, intuition, the direct presentation of the world
+sub specie aeternitatis. That Monism which in philosophy is
+established by discursive argument the## mahAyAnistic ##saint and
+the## mahAyAnistic ##Buddha have the power to intuit directly##
+(sAkSAt). ##That Buddha is omniscient does not mean that he
+knows the names of all plants and the names of all animals etc.
+etc., but it means that he possesses a knowledge of the four truths,
+that is to say, he possesses in the highest degree philosophic
+intuition.{1 Cp.## kathAvatthu, II. 2. 22-23.} It is the highest knowledge as conceived by Spinoza,
+not the kind of omniscience imagined by unphilosophic minds. 
+The next four chapters contain the four so called prayogas
+or ways of realization of that omniscience. Chapter 4 deals with
+the method of illumination, concerning the subjective and object-
+tive aspects of the three forms of Omniscience## (sarvAkArAbhisam-
+bodha). ##The next three chapters contain the same stuff, but
+considered from three different standpoints. Chapter 5 gives the
+definition of the culminating point of illumination## (mUrdhAbhisa-
+maya), ##chapter 6-of gradual illumination## (anupUrvAbhisamaya){2 ##Cp. ibid., II.9.},
+@viii
+chapter 7- of momentary illumination## (ekakSaNAbhisambodha).
+##Finally the 8-th and last chapter contains the doctrine of Bud-
+dha's Cosmical Body## (dharmakAya), ##or of the disappearing of the
+individual in the monistic Absolute. Thus the whole## zAstra ##has
+eight parts dealing with three kinds of omniscience, 4 methods
+of attaining it, and one final result. It is called the## zAstra ##of
+eight subjects. It is moreover called the## zAstra ##of 70 points,
+because the eight subjects in their subdivisions can be analysed
+into 70 topics. There are other more detailed subdivisions still.
+The text gives simply their enumeration and their system. It is
+nothing more than a systematical index, in metrical form, of
+all technical terms used in the doctrine of the## mahAyAnistic ##Path
+to Salvation. The meaning of these terms is not contained in the##
+alankAra, ##it must be found in the commentaries without which
+the work remains absolutely incomprehensible. The subject-mat-
+ter which is loosely expressed in the## sUtras, ##is systematically
+arranged in the## zAstra ##and explained in the commentaries.
+4. The commentaries.
+The Tanjur Collection contains translations of 21 works,
+which are only different commentaries on the## abhisamayAlan-
+kAra, ##some of them showing the connection of its systematical
+doctrine with the## prajJApAramitA-sUtra ##in 25.000## zlokas, ##other
+its connection with the one in 8.000## zlokas. ##The most celeb-
+rated among the authors of these commentaries are## Arya Vi-
+muktasena ##(VI-th century), the pupil of Vasubandhu, bha-
+danta Vimuktasena (VI-VII century), the pupil of the
+former and## AcArya Haribhadra ##(IX century). The title
+of the latter's work is as follows##: zrImad-AcArya-ha-
+ribhadra-viracitA Arya-aSTa-sAhasrika-praj-
+JApAramitA-vyAkhyA abhisamayAlankAra-AlokA
+nAma. ##A MS of the original sanscrit text of this work is found
+in the Minayeff collection of sanscrit MSS of the Public Library
+@ix
+of Leningrad{1 No. 107 of the Mironov Catalogue.}. Its edition is in course of preparation by my
+pupil E. Obermiller##.  Arya  ##Vimuktasena and Haribhadra are
+the greatest authorities in the domain of## pAramitA, ##they are
+often quoted in a dvandva compound as## Hphags-sen = Arya-
+harI. ##A full list of all the 21 commentaries will be given by
+E. E. Obermiller in a paper which will appear in the forth-
+coming yearbook of our Institution for the Study of Buddhist
+Culture.
+The first Tibetan author who has written an independent
+commentary on the## abhisamayAlankAra ##seems to have been the
+celebrated translator## (lotsaba) Nog Lodan-zeirab{2 rn#og blo-Idan-ses-rab.} (1059-
+1109). ##He was followed by a great number of Tibetan authors
+of the old period. The following are the most celebrated among
+them :## Chaba-Chogi-senge{3 Phya-pa chos-kyi sen-ge.} (1109-1169),Tsan-nagpa-tson-
+Du-senge{4 Gtsan-nag-pa-brtson-hgrus-sen-ge.} ##(the pupil of the former),## Dolbopa-seirab-gyal-tshan{5 Dol-po-pa ses-rab-rgyal-mtshan.}
+(1292-1391), Budon-rinchen-dub{6 Bu-ston rin-chen-grub.} (1290-1364), Nyabon-
+kunga-pal{7 Na-dpon-kun-dgah-dpal.} ##(the pupil of the two preceding ones and the teacher
+of## Tson-khapa), Rondon-sakya-gyal-tshan{8 Ron-ston sa-kyahi-rgyal-mtshan.} (1367-1449),
+Rendapa-zhonnu-lodo{9 Red-mdah-pa gzhon-nu-blo-gros.} (1349-1412), ##etc., etc.
+To the new period belong the works of## Tson-khapa (1357-
+1419) ##and his pupils, the works of## Jam-yan-zhadpa{10 Hjam-dbyans-bzhad-pa-nag-dban-
+brtson-hgrus.} (1648-
+1742) ##and an enormous literature of manuals for the study of
+this subject in monastic schools. The work of## Tson-khapa ##which
+bears the title of## Gser-phren ##is especially celebrated by its tho-
+rough, detailed, and clear exposition{11 The full title of the work is##-ses-rab-kyi-pha-rol-tu-phyin-pahi man-
+nag-gi-bstan-bcos-mnon-par-rtogs-pahi-rgyan hgrel-pa-dan-bcas-pahi rgya-
+cher-bsad-pa legs-bsad-gser-gyi-phren-ba,##copies in the As.Mus.##}.
+@x
+Among brahmanical writers## vAcaspatimiSra ##seems to
+be the only one who had a direct knowledge of the## prajJA-
+pAramitA ##doctrine; he examines it in his## nyAya-kaNika{1 ##Cf.pp. 11 ff., 145, 148 and 150 (of the reprint from the Pandit).},
+##when considering the## prAmANya-vAda ##and the## sarvajJa-vAda.
+5. The plan for investigating the## prajJApAramitA ##literature.
+Professor Sylvain Levi has rightly pointed to the great histo-
+rical issues connected with the## prajJA-pAramitA ##doctrine of the##
+mahAyAna{2 ##Op. cit., p. 16 ff.}. He suggests foreign influence in the formation of
+this aspect of Buddhism{3 (La perfection de la Sapience (prajJA-pAramitA)
+soeur jumelle de la Sophia et de la Gnose de 1’ Asie grecque), ibid.}. ##We have already expressed our opi-
+nion to the effect that the Central Conception of this form of
+Buddhism is genuinely Indian, for it is nothing but the Monism
+of the ancient Upanishads and modern## advaita-vedAnta (jJAnam
+advayam){4 ##Cf. my Conception of Buddhist## nirvANa, ##Leningrad, 1927.}. The doctrine is moreover much older than## nAgAr-
+juna, ##who only has given it an extreme and very drastic expres-
+sion. But professor S. Levi is unquestionably right in maintain-
+ing that three centuries of a lively intercourse between two na-
+
+tions so highly intellectual as the ancient Greeks and the Indians
+
+were, could not but have resulted in some influences, which
+probably were reciprocal. Clear historical deductions will be
+possible when this domain of the Indian literature will have
+been sufficiently investigated. In two earlier works{5 (Central Conception
+of Buddhism), London, R. A. S. 1922, and the above mentioned (Conception of
+Buddhist## nirvANa).} ##we have
+attempted to attain intelligible and precise renderings of Bud-
+dhist philosophical conceptions of the first and second period of
+Buddhist philosophy. In a forthcoming work the same will be
+done regarding its third and concluding period{6 (Buddhist Logic), 2 vol. containing a full translation of the## nyAya-bindu-
+TIkA, ##shortly to appear in the Bibliotheca Buddhica.}. The investiga-
+@xi
+tion of the## prajJA-pAramitA ##litterature we propose to carry in
+the same spirit. Our chief help we derive from## zAstra, ##not from##
+sUtra. ##This implies a very high appreciation of the works of
+the great Indian and Tibetan## AcAryas. ##The comprehension of an
+Indian philosophical text is a task wrought with many difficul-
+ties. Still more difficult is the comprehension of a work deeply
+steeped in mysticism. We have found it indispensible to give in
+all important passages a double translation a strictly literal one,
+which utterly disregards the exigencies of the tongue into which
+the text is translated, and a quite free one, which utterly disre-
+gards the exigencies of the tongue from which it is translated.
+Only then can the requirement of a strict philological method
+be brought not to interfere with that clearness and intelligibility,
+which always will remain the ultimate aim of science.
+This fasciculus is the first instalment of a series of works
+devoted to the investigation of the## prajJA-pAramitA ##literature,
+which our Institution for the Study of Buddhist Culture proposes
+to undertake and carry out systematically. The next fasciculus
+will contain 1) an analysis of the 8 subjects and 70 points in
+which the doctrine of## prajJA-pAramitA ##is systematized, 2) a table
+of the 173 aspects of the three kinds of Omniscience, 3) a table
+showing the concordance between the## abhisamayAlankAra ##and
+the## aSTA-sAhasrikA ##and## paJcaviMzati-sAhasrikAprajJApAramitA
+sUtras, ##4) an Index verborum of the## zAstra, ##Sanscrit-tibetan
+and Tibetan-sanscrit. All this work will be carried out by the
+Sektion Secretary of our Institution Dr. E. Obermiller. He has
+also undertaken, as already mentioned, an edition of the sanscrit
+text of Haribhadra’s commentary. A translation of the## zAstra ##will
+then follow which will make use of all the materials available. 
+The sanscrit text of the## AbhisamayAlankAra ##has been pre-
+pared by me from two Mss of the Cambridge University Library
+No. No. Add. 1628 and 1629, where it is placed at the beginning
+@xii
+before the text of the## paJcaviMzatisAhasrikA prajJApAramitA.
+##The circumstance that it is a separate work has apparently
+escaped the attention of the compiler of the catalogue, Professor
+Cecil Bendall. They are respectively referred to as MSS.
+A and B.
+The whole text of the## abhisamayAlankAra ##is moreover con-
+tained in Haribhadra’s## Aloka. ##It is referred to as MS. C. For
+the reference to this MS I am indebted to E. Obermiller
+who writes about it (No. 107 of the Minayev collection, Miro-
+nov’s Catalogue)-(it is a modern copy in## devanAgarI ##charac-
+ters from a Napalese## laJcA ##original. It contains an unusually
+great number of mistakes owing to the insufficient knowledge
+by the scribe of the## laJcA ##alphabet; so## kSa ##always stands for##
+hya, kya, jya, ##etc##., za ##is frequently mistaken for## Na, va ##for## ca,
+bha ##for## ta ##and vice versa. Of these errors only the most striking
+have been quoted in the notes. In two passages, II, 6 and VIII, 4
+this MS. fills up lacunes where the Tibetan version alone would
+not have sufficed to recover the original text).
+The Tibetan translation is the work of the great translator##
+(lotsaba) Nog Londan-zeirab (1059-1109){1 Rnog blo-Idan-zes-rab.},##with the collabo-
+ration of the Indian pandit Amaragomin##{2 Go-mi-hchi-med.}. ##This Lodan zeirab,
+##as already mentioned, has also written an independent commen-
+tary on the## abhisamayAlankAra. ##The first translator was## Ka-pa
+Paldzeg{3 Ka-pa-dpal-brtsegs.} ##(IX century). The text here printed agrees with the
+block-print of the Aga monastery.
+In correcting the proofs E. Obermiller has consulted Hari-
+bhadra and the Commentaries of## Tson-khapa ##and## jam-yan-
+zhad-pa.
+Th. Stcherbatsky.
+@001
+abhisamayAlaMkAranAmaprajJApAramitopadezazAstram ||
+kRtirmaitreyanAthasya ||
+oM namo maitreyanAthAya ||
+{1. ##Bendall’s Cat.## ya: ##Both MSS.## yA.}yA sarvajJatayA nayatyupazamaM {2. ##A.## sAMteSiNa:.}zAntaiSiNa: zrAvakAn |
+yA mArgajJa{3. ^jJatayAM.}tayA jagaddhitakRtAM lokArthasaMpAdikA |
+sarvAkA {4. ##B.## sarvAkAla^.}rAmadaM vadanti munayo vizvaM yayA saMgatam {5. ##B.## saGgatA.} |
+{6. ##C.## tasmai.}tasyai zrAvakabodhisattvagaNino buddhasya mAtre nama: ||
+sarvAkArajJatAmArga: {7. ##A. B.## zAsitA, ##C.## zAsigatA (##sic !##).}zAsitrA yo ‘tra dezita: |
+dhImanto vIkSi{8. ##A.## ^SIramtama^, ##C.## ^kSaSAraMstama^.}SIraMstamanAlI {9. ##C.## ^manAlISarairiti.}DhaM parairiti ||1||
+smRtau cA{10. ##C.## bodhAya.}dhAya sUtrArthaM dharmacaryAM dazAtmikAm |
+{11. ##A.## sukhekhena pra^.}sukhena pratipat{12. ##A.## ^patmIra^, ##B.## ^patsIrana^, ##C.## SastIravityA^ (##sic !##).}sIrannityArambhaprayojanam ||2||
+@002
+prajJApAramitASTAbhi: {1. ##A.## padArthe:, ##C.## padArthA:.}padArthai: samudIritA{2. ##A.## ^dIrita; ##B.## ^thai: samudIrityatA(##sic !##).} |
+sarvAkArajJatA mArgajJatA sarvajJatA tata: ||3||
+sarvAkArAbhisaMbodho mUrdha{3. ##A.## mUrddhaprAptA ‘nupUrvika:, ##B.## mUddhaprApto‘nupUrvi, ##C.## ‘nupUrvikA:.}prApto ‘nupUrvika: |
+ekakSaNAbhisaMbodho dharmakAyazca te ‘STadhA {4. ##A.## ^STedhA.} ||4||
+cittotpAdo ‘vavAda{5. ##A.## vavAdaMzca, ##C.## cavAdazca. }zca nirvedhAGgaM{6. ##A.## ^dhAGgazca^; ##B.## dhAGgakca, ##C.## dhAGgaJcatuvidhA.} caturvidham |
+AdhAra: pratipattezca dharmadhAtusvabhAvaka: ||5||
+AlambanaM {7 ##B.## ^mvanasamu^, ##C.## ^mbanaM mambadeza:.} samuddeza: sannAhaprasthitikriye {8. ##A.## prasthitakriyA.} |
+saMbhA{9. ##C.## saMbhArozca.}rAzca sAnaryANA: sarvAkAra{10. ##A.## ^kAragatA (##sic !##). mune:.}jJatA mune: ||6||
+{11. ##A. B.## dhyAmIka^, ##C.## vyAmekaraNarAdI^ (##sic !##).}zyAmIkaraNatAdIni {12. ##C.## ziSikhaDgamagho.}ziSyakhaDgapathau ca yau |
+mahAnuzaMso{13. ##B.## ^nuzaso daGmArga, ##C.##nazasau dRzmArga.}dRgmArga aihikAmutrikairguNai: ||7||
+kAritramadhimuktizca stuta{14. ##B.## stustobhita^.}stobhita{15. ##A.## zatmitA:, ##B.## zanmitA:, ##C.## Nasita: (##sic !##).}zastitA: |
+pariNAme ‘numode ca manaskArAvanuttamau ||8||
+nirhAra:{16. ##A.## nirhArazu^.} zuddhiratya{17. ##B.## zuddhiraMtyattami^, ##C.## zuddhiraMbhyattami^.}ttamityayaM bhAvanApatha: |
+vijJAnAM bodhisattvAnAmiti mArgajJatodatA ||9||
+@003
+prajJa{1. ##A. B.## prajJayogabhave sthAnaM, ##C.## prajJA nab have sthAnaM.}yA nab have sthAnaM kRpayA na {2. ##A.## na same.}zame sthiti: |
+anupAyena {3. ##A.## duratva^}dUratvamupAyenAvidu{4. ##B.## ^yenApi dUratA.}ratA ||10||
+vipakSapratipakSau ca prayoga:{5. ##C.## prayogA:.} samatAsya ca |
+daGmArga: zrAvakAdInAmiti sarvajJateSyate ||11||
+AkArA: saprayogAzca guNadoSA: salakSaNA: |
+mokSanirvedhabhAgIye zaikSo{6. ##C.## zaiko.} ‘vaiva{7. ##C.## ‘vaivarttitA.}rtiko gaNa: ||12||
+samatA bhavazAttyozca kSetre{8. ##C.## kSetrazuddhira^.} zuddhiranuttarA |
+sarvAkArAbhisaMbodha eSa sopAyakauzala: ||13||
+liGgaM tasya vivRddhizca nirUDhi{9. ##B.## nirUDhicitta^.}zcittasaMsthiti: |
+catur{10. ##A.## caturdhAzca.}dhA ca vikalpasya prati{11. ##C.## pratipakSAzcaturvidhA:.}pakSazcaturvidha: ||14||
+pratyekaM darzanAkhye ca bhAvanA{12. ##C.## ^nAkhe.}khye ca vartmani |
+AnattaryasamAdhizca saha vipratipattibhi: ||15||
+mUrdhAbhi{13. ##B.## ^bhirsamaya^ (##sic !##)} samayastredhA{14. ##C.## ^stridhA.}dazadhA {15. ##A.## dazAdhArAnupU^.}cAnupUrvika: |
+ekakSaNAbhisaMbodho lakSaNena caturvidha: ||16||
+svA{16. ##C.## svAtAvika: (##sic !##).}bhAvika: {17. ##C.## samAmbhogo (##sic !##).}sasaMbhogo nairmANiko ‘parastathA |
+dharmakAya: {18. ##B. C.## ^kAyasakA^.} sakAritrazcaturdhA samudIrita: |||17||
+@004
+cittotpAda: {1. ##C.## parArthA samyaksaMbodhi^. }parArthAya samyaksaMbodhikAmatA |
+samAsavyAsata: sA ca yathAsUtraM sa cocyate ||18||
+{2. ##A##. hebhUmaca^, ##C##. bhUheca^.} bhUhemacandrajvala{3. ##C.## kSalanairni^.}nairnidhi{4. ##C.## ^nakArArNavai: (##sic !##.)}ratnAkarArNavai: |
+vajrAcalauSadhImitraizcintAmaNyarkagItibhi: ||19||
+nRpagaJjamahAmArgayAna{5. ##C.## prazavaNAdakai: (##sic !##).}prasravaNodakai: |
+AnandoktinadImeghairdvAviMzratividha: {6. ##A.## dvAviMzativiMzatividha: saca: | (##sic !##).} sa ca ||20||
+{7. ##A.## pratipaMnnau.} pratipattau ca satyeSu buddharatnAdiSu triSu |
+asaktAvaparizrAntau {8. ##C.## pratipansamirigrahe.}pratipatsaMparigrahe ||21||
+cakSu:Su paJcasu jJeya: {9. ##C.## SaDabhijJAguNeSu.}SaTsvabhijJAguNeSu ca |
+dRgmArge bhAvanAkhye cetyavavAdo dazAtmaka: ||22||
+mRdutIkSNendri{10. ##A.## ^ndriyo, ##C.## ^ndriSyai (##sic !##).}yau zraddhAdRSTiprA{11. ##A.## ^prApto.}ptau kulaMkulau |
+ekavIcyantarotpadya kArAkArAkaniSThagA: ||23||
+{12. ##C.## srutastayo (##sic !##).}plutAstryo bhavasyAgraparago {13. ##A. B.## paramo.}ruparAgahA |
+dRSTadharmazrama:{14. ##A.## ^sama:, ##B.## ^samakAya^.} kAya{15. ##C.## zAkSo.}sAkSI khaDgazca viMzrati: ||24||
+Alambanata AkArAddhetutvAtsaMparigrahAt | 
+caturvikalpasaMyogaM yathAsvaM bhajJatAM satAm ||25||
+@005
+{1. ##C.## zrAvaketya: satya: sakhaDgebyA (##sic !##).} zrAvakebhya: sakhaDgebhyo bodhisattvasya {2. ##C.## tyAyana: (##sic !##).}tAyina: |
+mRdumadhyAdhimAtrANAmUSmAdInAM vizriSTatA ||26||
+AlambanamanityAdi satyA{3. ##A.## zlatya^, ##B.## zlabhya^, ##C.## satyAcAraM.}dhAraM, tadAkRti: |
+niSedho {4. ##C.## iti: nive^.}’bhinivezAdera{5. ##A.## ^zAde he^, ##C.## ^SAde he^.}, heturyAnatrayAptaye ||27||
+rUpAdyAyavyayau, viSThAsthitI{6. ##A.## sthiti.} prajJapt{7. ##A.## prajJaptavAdyate, ##B.## prajJaptyavAdyate.}yavAcyate |
+rUpAdAvasthitisteSAM tadbhAvenAsvabhAvatA ||28||
+tayormitha:{8. ##B.## ^rmirtha:.} svabhAvatvaM tadanityAdyasaMsthiti: |
+tAsAM ta{9. ##A. B.## tAsAntabhAva^.}dbhAvazUnyatvaM mitha:{10. ##C.## mithasvabhAvyame^.} svAbhAvyametayo: ||29||
+{11. ##A. C.## anugraho. }anudgraho yo dharmANAM, {12. ##A. C.## dhamarNittAnimittA^.}tannimittAsamIkSaNam |
+parIkSaNaM ca prajJayA{13. ##A. B.C.## prajJAyA:.}sarvasyAnu{14. ##^C.## palambha.}palambhata: ||30||
+rUpAdera{15. ##A. B.## rUpAdeva sva^, ##C.## rUpAderarasva^.}svabhAvatvaM, tadabhAvasvabhAvatA |
+tadajAtiraniryANaM, zruddhis, tadanimittatA ||31||
+tannimittAnadhiSThAnAnadhi{16. ##A.## ^SThAnAMnadhImu^.}muktirasaMjJatA |
+{17. ##C.## samAdhiM.}samAdhis, tasya kAritraM, vyAkRtir, mananA{18. ##A.## vyAkRtimananA^.}kSaya: ||32||
+@006
+mithastrikasya svAbhAvyaM, samAdheravikalpanA |
+iti nirvedhabhAgIyaM mRdumadhyAdhi{1. ##C.## ^dhimAtra.}mAtrata: ||33||
+dvaividhyaM grAhyakalpasya vastutatpratipakSata:{2. ##A.## vastutatpratipakSa:.}
+moharA{3. ##A.## ^rANyAdi^.}zyAdibhedena pratyekaM navadhA tu sa:{4. ##C.## zA (##sic !##).} ||34||
+{5. ##C.## Davya^.}dravyaprajJaptyadhiSThA{6. ##A.## ^SThAne, ##B.## ^SThAno.}no dvividho grAhako mata: |
+svatantrAtmAdirUpeNa, skandhAdyAzrayatastathA ||35||
+cittAnavalInatvAdinai:svAbhAvyAdidezaka: |
+taddvipakSaparityAga: sarvathA saMparigraha: ||36||
+SoDhA{7. ##A.## SADhA^, SoDhAyadigama^ (##sic !##).}dhigamadharmasya pratipakSa{8. ##A.## pratipasya.}prahANayo: |
+{9. ##A.## tayopa^}tapo: paryupayogasya prajJAyA: kRpayA saha ||37||
+ziSyAsAdhAraNatvasya parArthAnukramasya ca |
+{10. ##c.## jJAnasyAdyatta^ (##sic !##).}jJAnasyAyatnavRttezca pratiSThA gotramucyate ||38||
+dharmadhAtorasaMbhedA{11. ##B.## ^bhedo ‘GgAtra^ .}dgotrabhedo na yujyate |
+AdheyadharmabhedAttu tadbheda: {12. ##C.## parity#yata (##sic !##).}pAragIyate ||39||
+AlambanaM sarvadharmAste puna: kuzalAdaya: |
+laukikAdhigamAkhyAzca ye ca lokottarA matA: ||40||
+@007
+sAsra{1. ##B.## sAzravAnAzravA.}vAnAsravA dharmA: saMskRtAsaMskRtAzca ye |
+ziSyasAdhAraNA dharmA ye{2. ##B.## yai vAsA^.} cAsAdhAraNA mune: ||41||
+sarvasatvAgratAcittaprahANAdhigama{3. ##B.## ^dhigame traye.} traye |
+tribhirmahattvai{4. ##C.## ^ruDuzA.}ruddezo vijJeyo ‘yaM svayaMbhu{5. ##A.## svayastuvAm, ##C.## tUvAm  (##sic !##).}vAm ||42||
+dAnAdau SaDvidhe teSAM pratyekaM saMgraheNA yA |
+sannAhapratipAtta: sA SaDbhi: zaTkairyathoditA ||43||
+dhyAnA{6. ##B.## dhyAnarUpyeSu, ##C.## rUpyesu.}rUpyeSu dAnAdau {7. ##C.## mArya (##sic !##).}mArge maitryAdikeSu ca |
+{8. ##A.## tato^. gatopalambhayoge ca trimaN{9. ##A.## (?) trimaNutva (?).}DalavizuddhiSu ||44||
+uddeze SaTsva{10. ##C.## SaTsa bhijJAsva.}bhijJAsu sarvAkArajJatAnaye |
+prasthAnapratipajjJeyA mahAyAnAdhirohiNI {11. ##A.## ^rohinI.} ||45||
+{12. ##c.## yadA dAnAdikaM.}dayA dAnAdikaM SaTkaM zamatha: {13. ##A. B.## zimatha, ##C.## samatha:.} savidarzana: |
+yuganaddhazca yo {14. ##A.## mArgA.}mArga upAye {15. ##c.## yarvakauzalaM.}yacca kauzalam ||46||
+jJAnaM {16. ##A.## jJAnapuNyazca. }puNyaM ca mArgazca dhAraNI bhUmayo daza |
+pratipakSazca vijJeya: saMbhA{17. ##B.## sambhora^.}rapratipatkrama: ||47||
+labhyate prathamA bhUmirdazadhA parikarmaNA |
+Azayo hitavastutvaM sattveSu samacittatA ||48||
+@008
+tyAga: {1. ##A.## tyAgasevAtvamitrANAM, ##B.## tyAgasaMvA ca mi^, ##C.## tyAgA: sevA ca mi^.} sevA ca mitrANAM saddharmAlambanai{2. ##A.## sadharmmAlaMbanai^, ##B.## saddharmmAlaghanai^, ##C.## saddharmAlambanaiSiNA. }SaNA |
+sadAnai{3. ##A.## naikramya, ##C.## naiSkarmya.}SkramyacittatvaM buddhakAyagatA spRhA ||49||
+dharmasya dezanA satyaM dazamaM vAkyamiS{4. ##C.## ^Syato.}yate |
+jJeyaM{5. ##A.## jJeyazca.} ca parikarmaizca svabhAvAnupalambhata: ||50||
+zIlaM kRtajJatA kSAnti: pramodyaM mahatI kRpA |
+gauravaM guruzuzrUSA vIryaM dAnAdike ‘STamam ||51||
+atRptatA zrute dAnaM dharmasya ca nirAmiSaM |
+{6. ##C.## buddhakSetra: saMsArAyarikheditA.}buddhakSetrasya saMzuddhi: saMsArAparikheditA ||52||
+hrIrapatrApyamityetatpaJcadhAmananAtmakam |
+vanAzAlpaicchatA tuSTi{7. ##A.## tuSTiSTaMtisaMlekhalevanaM, ##C.## tuSTitasaMlekha^.}rvratisaMlekhasevanam ||53||
+zikSAyA aparityAga: kAmAnAM {8. ##B.## kAmAnAmRjugu^, ##C.## kAmAnAM ca kSugupsanaM.}vijJupsanaM |
+nirvRtsarvAstisaMtyAgo ‘navalInA{9. ##B.## ^lInAnapekSete, ##A.## ^nupekSete, ##C. ## saMtyAgovalInatvAnapekSate.}napekSate ||54||
+saMstavaM kulamAtsaryaM sthAnaM saMgaNikAvahaM |
+{10. ##A.## AtmotkarSe.}AtmotkarSaparAvajJe karmamArgAnda{11. ##A.## karmamArganadazA^.}zAzubhAn ||55||
+mAnaM stambhaM viparyAsaM vimatiM{12. ##C.## vimataM.} klezamarSaNam |
+vivarjJansamApnoti {13. ##C.## dezatAtpaJcamIstum ##(sic !)##.}dazaitAnpaJcamoM bhuvam ||56||
+@009
+dAnazIlakSamAvIryadhyAnaprajJAprapUraNAt |
+ziSya{1. ##B.## ^khaDgaM.}khyaDgaspRhAtrAsaceta{2. ##A.##^trAsaMcaitasAM.}sAM parivarjJaka: ||57||
+yAcito ‘navalInazca sarvatyAge ‘pyadurmanA:{3. ##C.## ^rmana.} |
+kRzo pi nArthinAM{4. ##B.## nArthinA kSeptA, ##C.## nArthinA kSeptAM.}kSeptA SaSThIM{5. ##A. B.## SaSThIbhUmiM.} bhUmiM {6. ##C.## samastata.}samazrute ||58||
+Atmasattvagraho jJIvapuDgalocchedazAzvatA: |
+nimittahe{7. ##A. C.## ^heto:.}tvo: skandheSu dhAtuSvAyataneSu ca ||59||
+trai{8. ##C.## taidhAtuke.}dhAtuke pratiSThAnaM saktirAlInacittatA |
+ratnatritayazrIleSu taddR{9. ##A.## tadaSThya^.}STyabhinivezitA ||60||
+zUnyatAyAM vivAdazca tadvirodhazca viMzati: |
+kalaGkA yasya vicchinnA: saptamImetyasau bhuvam{10. ##C.## bhUvam.} ||61||
+trivimokSamukhajJAnaM trimaNDalavizuddhitA{11 ##C.## vizuddhatA.} |
+karuNAmananAdharmasamataikanaya{12. ##A.## ^kerayatA (?).}jJatA ||62||
+anutpAdakSamAjJAnaM {13. ##C.## dharmaNAtmakavikaraNA ##(sic !)##.}dharmANAmekadheraNA |
+kalpanAyA: samuddhAta:{14. ##B.## saddhAta:, ##A.## samudyAta:.} saMjJAdRk{15. ##A.## ^dvakrakleza^, ##C.## dRkklezavarjJanA.}klezavarjJanam ||63||
+zamathasya ca nidhyapti: kauzalaM ca vidarzane |
+citta{16. ##C.## cittasyAdAttatA^.}sya dAttatAjJAnaM sarvatrApratighAti ca ||64||
+@010
+{1. ##A.## saptera^.}sakterbhUmiryatrecchaM kSetrAttaragati: sama{2. ##A. deest samaM, ##C.## ^gatisama ##(sic !)##.}m |
+sarvatra svAtmabhAvasya darzanaM ceti viMzati: ||65||
+sarvasattvamanojJAnamabhijJAkrIDa{3. ##A. B. C.## ^krIDane.}naM zubhA |
+buddhakSetrasya niSpattirbuddhasevAparIkSaNe ||66||
+akSajJAnaM ji{4. ##A.## ^kSetraM zruddhimAyo^, ##B.C.## ^kSetrazruddhi^.}nakSetrazruddhirmAyopamA sthiti: |
+saMcittya ca bhavAdAnamidaM karmASTa{5. ##C.## ^STacoditaM.}dhoditaM ||67||
+praNidhAnAnyanattAni devAdInAM rutajJatA |
+nadIva{6. ##A. B.## nadI ca.} pratibhAnAnAM garbhAva{7. ##A.## gabhavakratti^.}krAttiruttamA ||68||
+kulajJAtyozca gotra{8. ##C.## grAtusya ##(sic !)##.}sya parivArasya jJanmana: |
+naiSkramyabodhivRkSANAM{9. ##A.## ^vRkSAnAM} guNa{10. ##A.## guNaparezca, ##C.## guNapUresva.}pUrezca saMpada: ||69||
+nava {11. ##A.## bhUmira^.}bhUmIratikramya buddhabhUmau pratiSThate |
+yena jJAnena sA jJeyA dazamI bodhasattvabhU: ||70||
+pratipakSo ‘STadhA jJeyo darzanAbhyAsamArgayo: |
+grAhyagrAhAvakal{12. ##C.## ^kekalpanAnAmaSTAnAmUyasAttaye ##(sic !)##.}pAnAmaSTAnAmupazAntaye ||71||
+uddeze samatAyAM ca sattvArthe yatnavarjJane |
+atyantAya{13. ##A.## atyantA ya ca, ##C.## atyantAya ca.} ca niryANaM niryANaM prAptilakSaNam ||72||
+@011
+sarvAkArajJatAyAM ca niryANaM mArgagocaram |
+niryANapratipajJjJeya seyamaSTAvadhAtmikA ||73||
+abhisamayAlaGkAre prajJApAramitopadezazAstre sarvAkArajJatAdhikAra: prathama: ||
+{1. ##A. B.## dhyAmI^, ##C.## vyAme^.}zyAmIkaraNatA bhAbhirdevAnAM yogya{2. ##B.## yogatAM.}tAM prati |
+viSayo niyato {3. ##C.## prApti:.}vyApti: svabhAva{4. ##A. B.## svabhAvatasya.}stasya karma ca ||1||
+caturNAmAryasatyAnAmAkArAnupalambhata: |
+zrAvakANAmayaM mArgo jJeyo {5. ##A.## mArgojJatA^.}mArgajJatAnaye ||2||
+rUpAdiskandhazUnya{6. ##B.## zunyatAcchu^, ##C.## ^zUnyatAcchanya^.}tvAcchUnyatAnAmabhedata: |
+{7. ##A. omits 2/1/2 slokas beginning## USmaNo.}USmaNo, ‘nupalambhena teSAM {8. ##B.## mUddha^.}mUrdhagataM mata{9. ##C. omits##.}m ||3||
+{10. ##B.## kSAttiyasta^, ##C.## kSAttayA: teSu.}kSAttayasteSu nityAdiyogasthAnaniSedhata: |
+dazabhUmI: samArabhya vistArAsthAnadezanAt ||4||
+agradharmagataM proktamAryazrAvakavartmani |
+tatkasya hetorbuddhena {11. ##C.## budhyAdharma^.}buddhA dharmAsamIkSaNAt ||5||
+paropadezavaiya{12. ##B.## vaiyaSTya.}rSTayaM svayaMbodhAtsvayaMbhuvAM |
+gambhIra{13. ##A. B. omits 4 syllalbles after## ^bhuvAM}tA ca jJAnasya khaDgAnAmabhidhIyate ||6||
+@012
+zru{1. ##C.## srazruSA ##(sic !)##.}zrUSA yasya yasyArthe yatra yatra yathA yathA |
+sa so ‘rtha: khyAtyazabdopi tasya tasya tathA tathA ||7||
+yAhyArthakalpanAhAnAd grAhakasyApra{2. ##B.## ^prahAnata:.}hANata: |
+AdhAratazca vijJeya: khaDgamArgasya saMgraha: ||8||
+prajJa{3. ##A.## prajJaptAraviro^, ##B.## prajJaptyaraviro^.}pterAvarodhena dharmatAsUcanA{4. ##A. B.## ^kRtI.}kRta: |
+USma{5. ##C.## USmagataM.}gaM, mUrdhaga rUpAdyahAnAdi{6. ##C. omits##.}prabhAvirtam ||9||
+adhyAtmazUnyatAdyAbhI rU{7. ##B.## rUpAdeva^}pAderaparigrahAt{8. ##A.## ^raparigraho (?).} |
+kSAntI, {9. ##A.## kSAntirU^}rUpAdyanutpAdA{10. ##A.## ^nutpAdAkArai^.}dyAkArairagradharmatA ||10||
+kSAntijJAna{11. ##A.## ^kSaNi: (?).}kSaNai: satyaM satyaM prati caturvidhai: |
+mArgajJatAyAM daGmArga: sAnuzaMso ‘ya{12. ##B.## ^zansomamucyate, ##A.## ^zanmoyamucyate, ##C.## santUzaMso ‘yamucyate.}mucyate ||11||
+AdhA{13. ##A.## AdhAradheyatA^, ##C.## AdhAradheyatA^.}rAdheyatA’bhAvAttatha{14. ##B.## ^tAvuyormmiatha:, ##A.## ^tAvuddhayo mitha:.}tAbuddhayormitha: |
+paryAyeNAnanujJAnaM, maha{15. ##A.## mahantA, ##B.## mahaMtA.}ttA,sApramANatA ||12||
+parimANAntatA’bhA{16. ##B.## ^'bhAvau, ##A.## ^bhAvo.}vo, rUpAderava{17. ##A. B.## rUpAdevavadhAraNaM.}dhAraNam |
+{18. ##A.## tasyA.}tasyAM sthitasya buddhatve, {19. ##A. B.## ^tve ‘nugrahA^.}’nudgrahAtyAga:tAdaya: ||13||
+@013
+maitryAdi, zrUnyatA,{1. ##B.## ^zrUnyAtA.} prAptirbuddhatvasya, parigraha: |
+sarvasya vyavadAnasya, sarvAdhivyAdhizAntanam ||14||
+nirvANagrAhazAntatvaM, buddhebhyo rakSaNAdikam |
+aprANivadhamArabhya sarvAkArajJatAnaye ||15||
+svayaMsthitasya sattvAnAM sthApanaM, pariNA{2. ##A.## pariNAmalaM.}manam |
+dAnAdInAM ca saMbodhAviti mArgajJatAkSaNA: ||16||
+sarvato damanaM nAma: {3. ##B.## sarvataklethape: (##sic !), C.## sarvata: klezaMnirjJaya:.}sarvata: klezanirjJaya: |
+upakramAviSa{4. ##C.## ^viSakSAtvaM bodhirAdhAramokSatA (##sic ! ##).}ktatvaM bodhirAdhArapUjyatA ||17||
+adhimuktistridhA jJeyA svArthA ca svaparArthikA |
+{5. ##C.## parArthiko vetyeSA.}parAsthikaivetyeSA ca pratyekaM trividheSyate ||18||
+mRdvI MadhyAdhimAtrA ca mRdumRdvAdibhedata: |
+sA punastrividhetyeyaM saptaviMzatidhA matA ||19||
+stuti: stobha:{6. ##A.## kobha:, ##C.## stota:.} prazaMsA{7. ##A. B.## prasaMsA, ##C.## prasasA (##sic !##).}ca prajJApAramitAM prati |
+adhimokSasya mAtrANAM navakaistribhiriSyate{8. ##C.## ^riSTate.} ||20||
+vizeSapariNAmastu tasya kAritramuttamam |
+nopalambhAkRtizcAsAvaviparyAsalakSaNa: ||21||
+@014
+vivikto buddhapuNyaughasvabhAvasmRtigocara: |
+sopAyazcAnimittazca buddhairabhyanumodita: ||22||
+traidhAtukAprapannazca pariNAmo ‘parastridhA |
+mRdumadhyA{1. ##A.## mRdurmadhyodhi^, ##B.## mRdumadhyodhi^.}dhimAtrazca mahApuNyodayAtmaka: ||23||
+upAyAnupalambhAbhyAM zrubhamUlAnumo{2. ##B.## ^modamA (##sic !##).}danA |
+anumode manaskArabhAvaneha vidhIyate ||24||
+svabhAva: zreSThatA tasya sarvasyAnabhisaMskRti: |
+nopalambhena dharmANAmarpaNA ca mahArthatA ||25||
+buddhasevA ca dAnAdirUpAye yacca kauzalam |
+hetavo ‘trAdhimokSasya, dharmavyasanahetava: ||26||
+mArAdhiSThAnagambhIradharmatAnadhimukta{3. ##A.## ^muktaM te.}te |
+{4. ##C.## skandhAdibhinivezazca.}skandhAdyabhinivezazca pApamitraparigraha: ||27||
+{5. ##C.## phalavizuddhizca rUpAdivizuddhireva.}phalazuddhizca rUpAdizuddhireva tayo{6. ##A.## tayAdvaryo: (##sic !##). ##C.## tayordvayo:.}rdvayo: |
+abhinnAcchinnatA yasmAditi zuddhirudIritA ||28||
+klezajJeyatrimArgasya zi{7. ##C.## ziSakhaDga^.}SyakhaDgajinaurasAm |
+hAnAdvizuddhirAtya{8. ##A.## ^rAtyantikIrtta^, ##B.## ^rAbhyantikIrtta^.}ntikI tu buddhasya sarvathA ||29||
+@015
+mRdumRdvAdiko mArga: zuddhi{1. ##A. B.## zuddhinavasu, ##C.## zuddhinnavasu.}rnavasu bhUmiSu |
+adhimAtrAdhimAtrAdermalasya pratipakSata: ||30||
+tridhAtupratipakSatvaM samatA{2. ##B.## samatAnameyayo: ##(sic !), C.## samatAyAnameyayo:.} mAnameyayo: |
+mArgasya ceSyate tasya codyasya parihArata: ||31||
+abhisayayAlaGkare prajJApAramitopadezazAstre mArgajJatAdhikAro dvitIya:{3. ##A. B.## ^dhikArapariccheda:.} ||
+nA{4. ##C.## nApareNapare.}pare na pare tIre nAntarAle tayo:{5. ##B. C.## tayosthitA.}sthitA |
+adhvanAM samatAjJAnAt prajJApAramitA ma{6. ##A.## matA:.}tA ||1||
+anupAyena dUraM sA{7. ##A.## dUraM sAMlanimitta^(##sic. !##).}sanimittopalambhata: |
+upAya{8. ##B.## upAyAkauzalenA^.}kauzalenAsyA:{9. ##A.## ^nAsyA.} samyagAsanna{10. ##C.## samyagAsannoditA.}toditA ||2||
+rUpAdiskandhazUnyatve dharmeSu tryadhvageSu ca |
+{11. ##C.## rAnAdau (##sic. !##).}dAnAdau bodhipakSeSu caryAsaMjJA vipakSatA{12. ##B.## ^pakSato.} ||3||
+dAnAdiSvana{13. ##B.## ^nahakAra:.}haMkAra: pareSAM tanniyojanam |
+saMga{14. ##A.## ^koTi^, ##B.## ^koTI^.}koTiniSedho ‘yaM sUkSma: saMgo jinAdiSu ||4||
+@016
+tadgAmbhIryaM prakRtyaiva vivekAddharmapaddha{1 ##A.## vivakAddhamayaiddhate:, ##C## vivekAddharmayadvate:.}te:| 
+ekaprakRtikaM jJA{2 ##A.## jJAna, ##C.## jJANa.}naM {3 ##C.## dharmANAtsaMga^.}dharmANAM saMgavarjanam ||5|| 
+{4 ##A. B.## dRSTvA^.}dRSTAdipratiSedhena tasya durbodha{5 ##A.## duvedhitoditA, ##C##. durbodhatA matA.}toditA | 
+rUpA{6 ##B##.## nUpodi^.}dibhiravijJAnA{7 ##B.## ^jJAnotta^.}ttadacintyatvamiSyate ||6|| 
+evaM kRtvA yathokto vai jJeya: sarvajJatAnaye |
+ayaM vibhAgo ni:zeSo vipakSapratipakSayo: ||7||
+rUpAdau tadanityAdau tadapUriprapUrayo:{8 ##A.## ^rayo.} | 
+tadasaMgatve caryAyA: {9 ##A.B.## prayogapratiSedhata:.}prayoga: pratiSedhata: ||8|| 
+avikAro na kartA ca prayogo duSkarastridhA | 
+yathAbhavyaM phalaprApteravandhyo{10 ##A.##^vandhya ‘bhima^, ##B.## ^vandho ‘bhi^, ##C.## ^vaMdhyeti matazca sa:.} ‘bhimatazca sa: {11 ##A.## sa.} ||9||
+aparapratyayo yazca saptadhAkhyAtivedaka: |
+caturdhA’mananA tasya rupAdau samatA matA{12 ##A.## matA:, ##B. omits, C.## rUpAdau samatAdau sanAmatA ##(sic !)##.} ||10|| 
+dharmajJA{13 ##B.## dharmajJAnvaya^.}nAnvayajJAna{14 ##A.## ^nvayajJAya^.kSAntajJAnakSaNAtmaka: | 
+du:khAdisat{15 ##A.## ^satyadR^.}ye dRGmArga eSa{16 ##A.B.## eSa:} sarvajJatAnaye ||11|| 
+@017
+rU{1 ##C.## rUpannityannAnimatItAntaM ##(sic !).##}paM na nityaM nAnityamatItAntaM vizuddhaka{2 ##B.## ^JuddhaMkaM ##(sic !)##.}m | 
+anutpannAniruddhAdi vyomAbhaM lepavarjitam ||12|| 
+parigraheNa nirmuktamavyAhAraM svabhAvata: | 
+{3 ##C.## yuvyAhAreNa.}pravyAhAreNa nAsyArtha: pareSu prApyate yata: ||13|| 
+nopa{4 ##A.## nopalakR (?) datyanta^, ##B.## nopalakSadatyanta^, ##C.## nopalambhakRdanta^.}lambhakRdatyantavizuddhirvyAdhyasaMbhava: | 
+{5 ##A.## apAyecchi^, ##B.## apayecchi^.}apAyocchittyakalpa{6 ##B.## ^kalpetve, ##A.C.## ^kalpatve.}tvaM phalasAkSAtkriyAM prati ||14|| 
+asaMsargo nimittaizca vastuni vyaJjane dvayo:{7 ##A. B. C.## dvayo.} | 
+jJAnasya {8 ##C.## prAcAnutpattiriti.}yA cAnutpattiriti sarvajJa{9 ##B.## savatAkSaNA:.}tAkSaNa: ||15|| 
+iti seyaM puna: seyaM seyaM khalu {10 ##A.## iti zeyaM puna: zaiyaM ziyaM khalu pumtridhA, ##B.## iti zeyaM puna: seyaM seyaM khalu punastridhA.}punastridhA | 
+adhikAratrayasyaiSA samApti: paridIpitA ||16|| 
+abhisamayAlaGkAre prajJApAramitopadezazAstre sarvajJatAdhikArastRtIya: || 
+vastujJAnaprakArA{11 ##A.## ^prakArAtmyamA^ (?).}NAmAkArA iti lakSaNam | 
+sarvajJatAnAM traividhyAttrividhA eva te matA: ||1|| 
+@018
+{1 ##C.## asadAkAlamA^.}asadAkAramArabhya yAvannizcalatAkRti: | 
+catvAra: prA{2 ##A.## catvAra: pratiraprati satyante, ##C.## catvAraM pratipatyante ##(sic !)##}ta satyaM te mA{3 ##A.## mArgapaJca^.}rge paJcadaza smRtA: ||2|| 
+hetau {4 ##A.## mArgaca.}mArge ca {5 ##A.B.## duSkhe.}du:khe ca nirodhe ca yathAkramam | 
+aSTau te sapta paJceti SoDazeti ca kIrtitA: ||3|| 
+smRtyupasthAnamArabhya buddhatvAkArapazcimA: | 
+zi{6 ##C.## ziSANAM.}SyANAM bodhisattvAnAM buddhAnAM ca yathAkramam ||4|| 
+{7 ##A.## saptatriza^.}saptatriMzaccatustriMzanna{8 ##A. B.## triMzanneva.}va ca te matA:{9 ##B.## matetA:.} |
+trisarvajJatvabhedena mArgasatyAnu{10 ##C.## ^nuroSata:.}rodhata: ||5|| 
+kRtAdhikArA buddheSu teSU{11 ##A. B.## teSuphabhumamUlakA: ##(sic !), C.## teSuptazubhamUlakA:}ptazubhamUlakA: | 
+{12 ##A. B.## mitraisanAthAkA^, ##C.## mitraisanAthA:.}mitrai: sanAthA: kalyANairasyA:{13 ##A.## ^rasyA.} zravaNabhA{14 ##A.## ^bhojanai.}janam ||6|| 
+buddhopAsanasaMpraznadAnazIlAdica{15 ##A.## cayaryA.}ryayA | 
+udgrahadhAraNAdInAM bhAjanatvaM {16 ##C.## satAtmatam,}satAM matam ||7|| 
+rUpAdiSvanavasthAnAtteSu yoganiSedhata: | 
+tattatha{17 ##A.## tattathAgatAgambhIra^.}tAgambhIratvAtteSAM {18 ##A.## ^tteSanuravagAhata:, ##C.## duravamohata:,}duravagAhata: ||8||
+@019
+tadaprAmANyata: kRcchrA{1 ##A.## kRcchAcireNa.}ccireNa pratibodhata: | 
+vyAkRtAvaviva{2 ##A.## ^tA ca nivarttAtte, ##B.## ^tA cAnivattyatve, ##C.## ^tAvavivartyatve.}rtyatve niryANe sanirantare ||9|| 
+Asa{3 ##B.## asanna^, ##C.## Asannibodhi.}nnabodhe kSipraM ca parArthe {4 ##B.## parArthe ‘vRdvyahArita:, ##A.## parArthe: vRddhyahArita:, ##C.## parArthe ‘vRddhyahAnitA:.}’vRddhyahAnita: | 
+dharmAdharmAdyadRSTau ca rUpAcintyAdyadarzane ||10|| 
+rUpAdes{5 ##A.## rUpAdestaministasya.}tannimittasya tadbhAvasyAvikalpaka: | 
+{6 ##C.## kalaratna^.}phalaratnapradAtA ca zuddhaka: sAvadhizca sa: ||11|| 
+mArANAM zaktihAnyAdizcaturdazavidho guNa: | 
+doSAzca {7 ##C.## yadvivoddhavyAzca^.}SaDviboddhavyAzcaturbhirdazakai: saha ||12|| 
+{8 ##A. C.## lakSate.}lakSyate yena tajjJeyaM lakSaNaM trividhaM ca {9 ##A. B.## tam.}tat | 
+jJAnaM vizeSa:{10 ##A.## vizeSakAritraM, ##C.## jJAnazeSaMkAritraM.} kAritraM svabhAvo {11 ##B.## svabhAvozca lakSyate, ##C.## svabhAvo yazca lakSate.}yazca lakSyate ||13|| 
+tathAgatasya nirvRttau{12 ##A. C.## nivRttau.} loke cAlu{13 ##A. B.## cAlupyanAtmake, ##C.## ^vRttau ke cAlukSanAtmake.}mpanAtmake | 
+sattvAnAM cittacaryAsu {14 ##C.## tatasaMkSaye.}tatsaMkSepe bahirgatau ||14|| 
+akSayAkAratAyAM ca sarAgAdau pravi{15 ##A.## pravistate, ##C.## prastRte.}stRte | 
+{16 ##A.## mahadgate:.}mahadgate ‘pramANe ca vijJAne cAnidarzane{17 ##A.## cAnidarzanaM.} ||15|| 
+@020
+adRzyacittajJAne ca tadunmiJjA{1 ##A.## tadunmijodi, ##B.## tadunmiGgAdi.}disaMjJakam{2 ##A.## saMjJAkaM.} | 
+punastathatAkAreNa teSAM jJAnamata:{3 ##C.## ^matA: param.} param ||16||
+tathatAyAM {4 ##A.## munebodhai, ##C.## munervAdastatparA^.}munerbodhe tatparAkhyAnamityayam | 
+sarvajJatAdhikAreNa jJAnalakSaNasaMgraha: ||17|| 
+zUnyatve sAnimitte ca {5 ##C.## praNidhAravivarjite.}praNidhAnavivarjane | 
+anu{6 ##B.## anutpAdo.}tpAdAnirodhAdau dharmatAyA {7 ##C.## akopata.}akopane ||18|| 
+asaMskAre{8 ##A. B.## asaMskAre vika^.}’vikalpe ca prabhedAlakSaNatvayo: | 
+mArgajJatAdhikAreNa jJAnalakSaNami{9 ##B.## ^mikSate.}Syate ||19|| 
+{10 ##C.## sudharmAmupaNizritya.}svadharmamupanizritya vihAre tasya satkRtau | 
+gurutve mAnanAyAM ca tatpUjAkRtakatvayo: ||20|| 
+sarvatravRtti{11 ##C.## ^vRttimajJAna^.}saMjJAnamadRSTasya ca {12 ##C.## darzanaM.}darzakam | 
+lokasya zUnyatAkArasU{13 ##A. B.## zUcaka^, ##C.## sucaka^.}cakajJApakA{14 ##C. omits.##}kSagam ||21||
+acintyazA{15 ##A.## ^zAtatA^.}ntatAdarzi loka{16 ##C.## lokaM.}saMjJAnirodhi ca | 
+jJAnalakSaNamityuktaM sarvAkArajJatAnaye ||22|| 
+@021
+acintyAdivizeSeNa viziSTai:{1 ##A.## viziSTe:.} satyagocarai:{2 ##A.## ^gocare:.} |
+vizeSalakSaNaM SaDbhirdazabhizcoditaM kSaNai:{3 ##A. omits:##} ||23|| 
+acintyA{4 ##C.## ^tulyate.}tulyatve meya{5 ##A.## meyaM saM^.}saMkhyayo: samatikramau | 
+{6 ##B.## sarvAryasaMge ho vi^, ##C.## sarvAsaMgraho.}sarvAryasaMgraho vijJavedyA{7 ##A. B.## ^vaidya^, ##C.## vaidyAsAdhAraNajJate.}sAdhAraNajJatve ||24|| 
+kSiprajJA{8 ##A.## jJAnpuna^, ##B.## jJAntpuna^ ##or## ntyUna^, ##C.## jJAnyuna^.}nyUnapUrNatve pratipatsamudAgamau | 
+AlambanaM ca sAdhAraM sAkalyaM{9 ##B.## sAkalpasaM^.} saMparigraha: ||25|| 
+anAsvAdazca{10 ##A.## anAzvAdazca vijJa: So ‘zAtmaka:, ##B.## vijJayo, ##C.## anAsvAdAzca vijJeyA.}vijJeyo vizeSa: SoDazAtmaka: |
+vizeSamA{11 ##A.B.## ^mArgA.}rgo mArgebhyo ye{12 ^yemAnyebhyo.}nAnyebhyo viziSyate ||26|| 
+hitaM sukhaM ca trANaM ca zaraNaM layanaM nRNAm | 
+{13 ##A.## paroyaNaJca (?), ##C.## parAyanaM ca.}parAyaNaM ca dvIpaM ca pariNAyakasaMjJakam ||27|| 
+anAbhogaM{14 ##A.## tibhiryA^.} tribhiryAnai: phalAsAkSAtkriyAtmakam | 
+pazci{15 ##B.C.## pazcimaM.}magatikAritramidaM kAritralakSaNam ||28|| 
+klezaliGganimittAnAM vipakSapratipakSayo: | 
+viveko duSkarai{16 ##A.## duSkaraikrAMntA^.}kAntA{17 ##A.B.## ^buddhezo, ##C.## vRddheze.}vuddezo ‘nupalambhaka: ||29|| 
+@022
+niSi{1 ##C.## niSaddhA^.}ddhAbhinivezazca yazcAlambanasaMjJaka: | 
+vipratyayo ‘vighA{2 ##A.## ‘vighAMtI, ##C.## ‘vIdyAtIva.}tI ca so ‘padAgatyajAtika: ||30|| 
+tathatAnupalambhazca sva{3 ##C.## svabhAvA:.}bhAva: SoDazAtmaka: | 
+{4 ##A.B.## lakSmova, ##C.## lakSmIva kSataiveti ##(sic !).##}lakSmeva lakSyate ceti caturthalakSaNaM matam ||31|| 
+animi{5 ##C.## pradhAnAdhi^.}ttapradAnAdisamudA{6 ##B.## samudAgema^.}gamakauzalam | 
+sarvAkArAvabodhe ‘smi{7 ##C.## ‘sminamokSabhAgIyaziSyate ##(sic !).##}nmokSabhAgIyamiSyate ||32|| 
+buddhAdyAlambanA zraddhA {8 ##A.## vIyadAnA^.}vIryaM dAnAdigocaram | 
+{9 ##C.## smRtyarAzaya^.}smRtirAzayasaMpatti: samAdhiravikalpanA ||33|| 
+dharmeSu sarvairAkA{10 ##A. B. omits, C.## sarvarAkAraijJAnaM.}rairjJAnaM {11 ##B.## jJAnaM prajJati pa^.}prajJeti paJcadhA | 
+tIkSNai: subodhA saMbodhi{12 ##A. omits, C.## saMbodhistIkSnA: subodhA.}rdurbodhA mRdubhirmatA ||34|| 
+AlambanaM sarve{13 ##A.## sarvasavA, ##C.## AlambanA: sarvasa ##(sic !)##.} sattvA USmaNAmiha zasyate | 
+samacittAdirAkArasteSveva daza{14 ##A.## ^stenveva dazavodina:, ##B.## ^steSveva dazavodina:, ##C.## ^steSvava dazadhodita:.}dhodita: ||35|| 
+svayaM pApAnnivRttasya dAnAdyeSu sthitasya ca | 
+{15 ##C.## yayorniyojJanAnyeSAM.}tayorniyojanAnyeSAM varNavAdAnukUlate ||36|| 
+@023
+mUrdhagaM svaparAdhAraM satyajJA{1 ##B.## ^jJAnaMntathA.}naM tathA kSamA | 
+tathAgradharmA vijJeyA: sattvAnAM {2 ##A. B.## yAcanA^, ##C.## pAcanAdhibhi:}pAcanAdibhi: ||37|| 
+nirvedhAGgAnyupAdAya darzanAbhyAsamArgayo: | 
+ye{3 ##C.## yo.} bodhisattvA varttante so ‘trAvaivartiko gaNa: ||38||
+rUpAdibhyo nivRttyA{4 ##A.omits, C.## nivRttyAdyailiGge.}dyairliGgairviM{5 ##C.## viMzativeritai:.}zatidheritai: | 
+{6 ##A.## nirvedhAGge.}nirvedhAGgasthitasyedamavaivArtakalakSaNam ||39|| 
+rUpAdibhyo nivRttizca vicikitsA’kSaNakSayau{7 ##A.## ^kSayo, ##C.## ‘kSayAkSayau.} | 
+{8 ##B.## atmanA.}AtmanA kuzalasthasya pareSAM tanni{9 ##A. C.## taniyojanam.}yojanam ||40|| 
+parAdhAraM ca dAnAdi gambhIre ‘rthe ‘pya{10 ##A.B.C.## ^ppakAkSaNaM.}kAGkSaNam | 
+maitraM kAyAdyasaMvAsa: paJcadhAvaraNena ca ||41|| 
+sarvAnuzayahAnaM ca smRtasaMprajJatA zuci | 
+cIvarAdi zarIre ca {11 ##B.## krimINA^, ##C.## kramINAma^.}kRmINAmasamudbhava:{12 ##B.## ^bhara:.} ||42|| 
+cittAkauTilyamAdAnaM {13 ##A. C.## dhutasyA^.}dhUtasyAmatsarAditA | 
+{14 ##A.## dharmantA^, ##C.## dharmatAyuktatAmItvaM.}dharmatAyuktagAmitvaM lokArthaM narakaiSaNA ||43|| 
+parairaneyatA mArasyAnyamA{15 ##C.## ^rgApadezanA:.}rgopadezina: | 
+mAra ityavabodhazca caryA buddhAnumoditA ||44||
+@024
+USmamU{1 ##B.## uSmamUrddhAsu ##(sic !), C.## USAmUrddhasaskAntriSva^ ##(sic !).##}rddhasu sakSantiSvagra{2 ##B. omits.##}dharmeSu ca sthita: | 
+liGgaira{3 ##B.## liMgaivamI^ ##(sic !), c.## liGgairamIbhirviMsatyA.}mIbhirviMzatyA saMbodherna vivartate ||45|| 
+kSAntijJAnakSaNA:{4 ##A. omits:##} SaT{5 ##A.## SadvapaMcacadRa^, ##B.## SaTcapaJcapaJcayadR^, ##C.## SaTprapaJcapaJca ca dRkSathe ##(sic !).##} ca paJcapaJca ca dRkapathe | 
+bodhisatvasya vijJeyamavaivartikalakSaNAm ||46|| 
+rUpAdisaMjJAvyAvRtti{6 ##A.## ^vRttiddArdyacittasya, ##B.## ^vRttirddAcittasya, ##C.## ^vRttidArghAcittasya.}rdArdyaM cittasya hInayo: | 
+{7 ##A.## yAnayovini^, ##B.## pAnayovini^, ##c.## yAnayovini^.}yAnayorvinivRttizca dhyAnAdyaGgaparikSaya: ||47|| 
+kAya{8 ##c.## ^cittola^.}cetolaghutvaM ca kAmasevAbhyupAyikI | 
+sadaiva {9 ##C.## bukSnacAritve jIvasya ##(sic !).##}brahmacAritvamAjIvasya vizuddhatA ||48|| 
+skandhAdAvantarAyeSu sambhAre sendriyAdike | 
+samare {10 ##c.## samarAdau ca.}matsarAdau ca neti yogA{11 ##A.## neti yogAtrayogayo, ##B.## neti yogAyogayo:, ##C.## yAganuyogayo:.}nuyogayo: ||49|| 
+vihAraprAtaSedhazca{12 ##A.## pratipadhazca.} dharmasyANorala{13 ##A.## dharmmaspAzAlarabdhatA (?), ##B.## dharmmaspANoralabdhato (?), ##C.## dharmasyAnoralabdhatA.}bdhatA | 
+nizcitatvaM sva{14 ##C.## sabhUmau.}bhUmau ca bhUmitritayasaMsthiti:{15 ##A.## ^sthita:, ##C.## bhUmitretrayamaMsthitA:.} ||50|| 
+@025
+{1 ##C.## dharmArthaM.}dharmArthe jIvitatyAga ityamI SoDaza kSaNA: | 
+avaivartikaliGgA{2 ##A.## lIgAni.}ni {3 ##C.## dRghmArgasthasya.}dRGmArgasthasya dhIma{4 ##C.## vimatta ##(sic !).##}ta: ||51|| 
+gambhIro bhAvanAmArgo gAmbhIryaM zUnyatAdikam | 
+samAro{5 ##B.## samorApAyavAdAttamu^, ##A.## samAropAyavAdAttamu^, ##C.## samAropapAvAdAttamu^.}pApavAdAttamuktatA sA gabhIratA ||52|| 
+cintAtula{6 ##B.## ^tulanamidhyA^.}nanidhyAnAnyabhIkSNAM bhAvanApatha:{7 ##C.## ^matha:.} | 
+nirvedhA{8 ##C.## nirvedhAGgepradRGmArga.}GgeSu dRGmArge bhAvanAmArga eva ca ||53|| 
+{9 ##A.## prAvakatvAdi^, ##B.## prArandhi^.}prAvandhikatvAdiSTo {10 ##B.## ^diSTAsau.}’sau {11 ##C.## navavA.}navadhA ca prakArata: | 
+mRdumadhyAdhimAtrANAM {12 ##A.## punasmRddhApi^ (?).}punarmRdvAdibhedata: ||54|| 
+{13 ##A.## asaGkhayAyAdi^, ##B.## asaMkhyayAdi^.}asaMkhyeyAdinirdezA: paramArthena {14 ##c.## rakSama: ##(sic !)).##}na kSamA: |
+kRpAniSya{15 ##C.## ^niSpanna^.}ndabhUtAste saMvRttyAbhimatA mune: ||55||
+na hAnivR{16 ##A.## ^vRddhi pUjyaMte, ##C.## hAnivRddhinuyUhyate ##(sic !).##}ddhI pujyete nirAlApasya vastuna: | 
+bhAvanAkhyena kiM hInaM vartma{17 ##A. omits.##}nA kimudAgatam ||56|| 
+yathA bodhistathai{18 ##B.## tathAvAsA^.}vAsAviSTasyArthasya sAdhaka: | 
+tathatAlakSaNA bodhi: so ‘pi {19 ##A.## mopi talakSaNe, ##C.## sopillakSaNo.}tallakSaNo mata: ||57||
+@026
+pUrveNa bodhirno{1 ##A.## nImUktA (?), ##B.## nImuktA, ##C.## ^rnoyuktA.} yuktA manasA pazcimena vA | 
+dIpadRSTAntayogena gambhIrA dharmatASTadhA ||58|| 
+utpAde ca nirodhe ca tatha{2 ##A.## tathAtAyA^.}tAyAM gabhIratA | 
+jJeye jJAne ca{3 ##A. omits## ca.} caryAyAmadvayopAyakauzale ||59||
+svapnopamatvAddharmANAM bhavazA{4 ##C.## sAntyo ca kalpanA.}ntyorakalpanA | 
+karmAbhAvAdicodyA{5 ##C.## codhyAnAM.}nAM parihAro{6 ##A.## parihANyazodita:, ##B.## pArahArAyazcoditA:, ##C.## parihArA yA vodhitA:.} yathodita: ||60|| 
+{7 ##A.## yatvaloka^.}sattvalokasya yA ‘zuddhistasyA: {8 ##A.## zuddhyapatrArata: ##or## ^paDArata:, ##C.## staddhurahAratA: ##(sic !).}zuddhyupahArata: | 
+
+tathA bhAjJanalokasya buddhakSetrasya zuddhatA ||61|| 
+viSayo ‘sya prayogazca zA{9 ##C.## mAtravANAma^.}travANAmatikrama: | 
+apratiSThA yathAvedhamasAdhAraNalakSaNA: ||62|| 
+asakto ‘nupalambhazca nimittapraNidhikSata: | 
+{10 ##A. B.## talliGgazcApra^.}talliGgaM cApramANaM ca dazadhopAyakauzalam ||63|| 
+abhisamayAlaGkAre prajJApAramitopadezazAstre sarvAkArAbhisaMbodhAdhikArazcaturtha: || 
+@027
+svapnAntare 'pi svapnA{1 ##B.## svapnobha^, ##C.## svapnAbhA^.}bhasarvadharmekSaNAdikam | 
+mUrddhaM prAptasya yogasya liGgaM dvAdazaMdhA matam ||1|| 
+jAmbudvIpajaneya{2 ##C.## ^yatto.}ttAbuddhapUjA{3 ##B. C.## ^pUjAM.}zubhAdikam | 
+upamAM bahudhA kRtvA vivRddhi: SoDazAtmikA ||2|| 
+trisarvajJatvadharmANAM {4 ##C.## pariranuttarA.}paripUriranuttarA | 
+aparityakta{5 ##C.## ^sarvArthA.}sattvArthA nirUDhirabhidhIpate ||3|| 
+catudvIrpakasAhasradvitrisAhasrakopamA: | 
+kRtvA puNyabahutvena samAdhi: parikIrtita: ||4|| 
+pravRttau ca ni{6 ##B. repeats## nivRttau ca ##twice.##}vRttau ca {7 ##C.## pratikaM.}pratyekaM tau navA{8 ##C.## naivAtmakau ##(sic !).##}tmakau | 
+grAhyau vikalpau vijJeyAvayathAviSayAtmakau ||5|| 
+dravyaprajJaptisatsattve vikalpau grAhakau matau | 
+pRthagjanAryabhedena pratyekaM tau navAtmakau ||6|| 
+grAhyau {9 ##A.## ccenna ##(sic !).##}cenna tathA sto ‘rtho kasya tau grAha{10 ##C.## grAhako mato.}kau matau | 
+iti grAhakabhAvena zUnyatA lakSaNaM tayo: ||7|| 
+eSa svabhAve gotre{11 ##A. omits all that follows## gotre ##up to## ‘dhimasya ##v. 10##.} ca pratipatsamudAgame | 
+jJAnasyAlambanAbhrAttau vipa{12 ##C.## pratipakSavipakSayo:.}kSapratipakSayo: ||8|| 
+@028
+svasminnadhigame kartRta{1 ##B.## takAritra^, ##C.## tatkAritrAtva.}tkAritrakriyAphale | 
+pravRttipakSAdhiSThAno vikalpo navadhA mata: ||9|| 
+bhavazAntiprapAtitvAt nyUnatve ‘dhigamasya ca | 
+parigrahasyAbhAve ca vaikalye pratipaM gate ||10|| 
+parapratyayagAmitve samuddeze{2 ##B. C.## samuddezani^.} nivartane{3 ##A.## ^vartane:, ##C.## ^vartanai.} | 
+{4 ##C.## prAdezakatvenanAnAtuSTAna^ ##(sic !), A. B.## Adezikatve.}prAdezikatve nAnAtve sthAnaprasthAnamohayo: ||11|| 
+pRSThato gamane ceti vikalpo ‘yaM navAtmaka: | 
+nivRttipa{5 ##A.## nivRttI^.}kSAdhiSThAna:{6 ##A.## ^dhisthAna:.} zrAvakAdima{7 ##A.## ^Sanobhava:.}nobhava: ||12|| 
+grAhaka: prathamo jJeyo grahaNapratimokSaNe | 
+ma{8 ##A.## manakriyA^, ##C.## manaskriyAM ca dhAtUnAM.}naskriyAyAM dhAtUnAmupazleSe trayasya ca ||13|| 
+sthAne{9 ##A.## sthAnenA^, ##B.## sthAne vA.} cAbhiniveze ca prajJa{10 ##A.## ^jJapto.}ptau dharmavastuna: | 
+{11 ##A. B. C.## zaktau.}saktau ca pratipakSe ca {12 ##C.## yathecche.}yathecchaM ca gatikSatau ||14|| 
+{13 ##A.## yathAdeza^.}yathoddezamaniryANe{14 ##B. omits. A.## ^niryANo ‘mArgA^.} mArgAmArgAvadhAraNe | 
+sanirodhe samutpAde vastuyogaviyogayo: ||15|| 
+sthAne gotra{15 ##C.## gotrasya nI ||}sya nAze ca prArthanAhetvAbhAvayo:{16 ##A. omits: C.## prArthanAhetubhAvayo.} | 
+pratyarthikopalambhe ca vikalpo grAhako ‘para: ||16|| 
+@029
+bodhau saMdarzanA{1 ##B.## ^darzanAddyauSA^, ##A.## ^darzanAdyeSAM.}nyeSAM taddhetozca parIndanA | 
+tatprAptyanantaro hetu: puNyabAhulyalakSaNa: ||17|| 
+kSayAnutpA{2 ##A.omits.##}dayorjJAnaM{3 ##A.B.C.## jJAne.} malAnAM bodhirucyate | 
+{4 ##C.## kSayAbhAvAnutpAdAMtte ##(sic !).##} kSayAbhAvAdanutpAdAtte hi jJeye yathAkramam ||18|| 
+prakRtAvaniruddhAyAM darzanAkhyena vartmanA | 
+vika{5 ##C. omits.##}lpajJAtaM kiM kSINaM kiM {6 ##A.## vAnutpa^.}cAnutpattimAgatam{7 ##B.## ^mAgamaM.}  ||19|| 
+sattA{8 ##A.## satvAcanAma^ ##or ?## sabhAvanAma^, ##B. C.## satvAcanAma^.} ca nAma dharmANAM jJeye vAvaraNakSaya: | 
+kathyate yat{9 ##B.## ^tpurai:.}parai: zAsturatra vismIyate mayA ||20|| 
+nApaneyamata: kiMcitpra{10 ##A.## ^tprekSepta^, ##B.## ^tprakSapta^.}kSeptatyaM na kiM ca{11 ##A.## ^vyannakiMci, ##C.## ^vyannakiJcanA.}na | 
+{12 ##A.B.## draSTavyaM, ##C.## duSTavyaM.}draSTavyaM bhUtato bhUtaM bhUtadarzo vimucyate ||21|| 
+ekaikasyaiva dAnAdau teSAM ya: saMgraho mitha: | 
+sa ekakSaNika{13 ##A. B.## ^ka:.}kSAntisRMgahIto ‘tra dR{14 ##C.## dRkSatha:.}kapatha: ||22|| 
+{15 ##C.## samAdhisamApadyatAsiMhavikSimbhitaM ##(sic !).##}samAdhiM sa samApadya tata: siMhavijRmbhitam | 
+anulomavilomaM ca pratItyotpAdamIkSate ||23|| 
+@030
+kAmAptamavadhIkRtya vijJAnamasamAhita{1 ##A.## ^hita ||}m | 
+sa{2 ##C.## sannirodha:.}nirodhA: samApattIrgatvAgamya nava dvidhA ||24|| 
+ekAdvatricatuSpaJcaSaTsaptASTavyAtakramAt | 
+a{3 ##C.## avaskandha^.}vaskandasamApattirAnirodhamatulyagA ||25|| 
+saM{4 ##A.## saMkSepe stire (?).}kSepe vistare buddhai: sA{5 ##C.## sAnArthonAparigrahe.}nAdhyenAparigrahe | 
+traikAlike guNAbhAve zreyasastrividhe pathi ||26|| 
+eko grAhyavikalpo ‘yaM prayogAkAragocara: | 
+dvitIyazcittacaittAnAM pravRttiviSayo mata:{6 ##A.B.## gata:.} ||27|| 
+anutpAdastu cittasya bodhimaNDAmanaskriyA | 
+hInayAnamanaskArau saMbodhera{7 ##A.## saMbodhenamana^.}manaskRti: ||28|| 
+bhAvane ‘bhAvane caiva tadviparyaya eva ca | 
+ayathArthazca{8 ##A.## ayathAthazca vijJeyA, ##B.## ayathArthAzca vijJeyA, ##C.## avithArthazca.} vijJeyo vika{9 ##B.## vikalpau.}lpo bhAvanApathe ||29|| 
+grAhaka: pratha{10 ##A.B.## prathamA.}mo jJeya: {11 ##B.## satyapra^.}sattvaprajJaptigocara: | 
+dharmaprajJaptyazUnyatve saktipravicayA{12 ##A.## saktiSuviSayAtmaka:, ##B.## saktiSuviSacayAtmaka:, ##C.## dharmaprApyazUtvasaktapravicayAtmaka:.}tmaka: ||30||
+@031
+kRtena vastuno yAnatritaye{1 ##B.## ^tritayeva ##(sic !), C.## ^tritaye saMkIrtitA.} ca sa kIrtita: | 
+da{2 ##A.## dadakSiNa, ##C.## dakSaNAyA.}kSiNAyA azuddhau ca caryAyAzca vikopa{3 ##A.## vikopanaM, ##B.## viMkopana.}ne ||31|| 
+sattvaprajJaptitaddhetuviSayo{4 ##A.B.## viSayAnavadhApara:.} navadhA ‘para: | 
+bhAvanAmArgasaMbaddho vipakSastadvighAta{5 ##A.## vighAtaya:, ##B.## vighAtata:.}ta: ||32|| 
+sarvajJatAnAM ti{6 ##B.## tisRNA, ##C. omits.##}sRNAM yathAsvaM trividhAvRtau | 
+zAntimArgatatha{7 ##A.B.## ^tathAtAdi.}tAdisaMpra{8 ##C.## saMprayogayo:.}yogaviyogayo: ||33|| 
+asamatve ca du:khAdau klezAnAM prakRtAvapi | 
+dva{9 ##B.## dayAbhAve.}yAbhAve ca saMmohe vikalpa: pAzcamo mata: ||34|| 
+A{10 ##A.## AzAMkSaye martAnInAM, ##B.## AsAMkSaye matItInAM.}sAM kSaye satItInAM cirAyocchU{11 ##A. B.## cirAyocchusitA, ##C.## cipApaucchusitA ##(sic !).##}sitA iva | 
+sarvAkAraja{12 ##A.## ^jJagasmaukhya^, ##C.## sarvAkArAjagatsaukhya^.}gatsaukhyasAdhanA guNAsaMpada: ||35|| 
+sarvA:{13 ##A.## sarvAsarvA^.} sarvAbhisAreNa nikAmaphalazA{14 ##A.B.## sAlinaM, ##C.## zAlinA.}linam | 
+bhajante taM{15 ##A.## tvaM, ##C.## tamAha || sattvamahodadhimivAparA.} mahAsattvaM mahodadhimivApagA: ||36|| 
+trisAhasrajanaM ziSyakhaDgAdhigama{16 ##C.## ^dhigamampadi.}saMpadi | 
+bodhisattvasya ca nyAye{17 ##A. B.## nyAme.}pratiSThApyazubhopamA: ||37|| 
+@032
+kRtvA puNyabahutvena buddhatvAptera{1. ##A.B.## ^tvAptarana^, ##C## buddhatApteranantara:.}nantara: |
+AnantaryasamAdhi: sa sarvAkArajJatA ca tat ||38||
+AlambanamabhAvo ‘sya smRtizcAdhipatirmata: |
+AkAra: zA{2. ##A.## zAntavAtra ja^, ##C. omits.##}ntatA cAtra jalpAjalpipravAdinAm ||39||
+Alambanopapattau ca tatsvabhA{3. ##A.## ^bhAvovadhAraNe.}vAvadhAraNe |
+sarvAkArajJatAjJA{4. ##C.## ^jJAnena.}ne paramArthe sasaMvRttau ||40||
+prayoge triSu ratneSu {5. ##B.## sApAye.}sopAye samaye mune: |
+viparyAse samArge ca pratipakSavipakSayo: ||41||
+lakSaNe bhAvanAyAM ca matA vipratipattaya: |
+sarvAkArajJatAdhA{6. ##C.## ^dhIrA:.}rA: SoDhA daza ca vAdinAm ||42||
+abhisamayAlaGkAre prajJApAramitopadezazAstre mUrddhAbhisamayAdhikAra: paJcama: 
+dAnena prajJayA yAvadbuddhAdau smRtibhizca sA |
+dharmAbhAvasvabhAvenetyanupUrvakriyA {7. ##C. omits##.}matA ||1||
+abhisamayAlaGkAre prajJApAramitopadezazAstre ‘nupUrvAbhisamayAdhikAra: SaSTha: 
+@033
+anAsra{1. ##A. B.## nAzravA^, ##C.## anAmravANAM.}vANAM sarveSA{2. ##A. B.## sarveSAMme^(##sic !), C.## sarvaSAme^.}mekaikenApi saMgrahAt{3. ##A.## ^grahA.} |
+e{4. ##C.## ekakSaNA ca saMbodheyaM,}kakSaNAvabodho ‘yaM {5. ##B.## jJayA ##sic!##).}jJeyo dAnAdinA mune:{6. ##A. B. omit.## :} ||1||
+a{7. ##A.## araghaTaM, ##B.## araghaTTaM, ##C.## araghaTgaM}raghaTTaM yathaikApi padikA puruSeritA |
+sakR{8. ##C.## sakSaM sarvavalayati.}tsarvaM cAlayati jJAnamekakSaNe tathA ||2||
+vipAkadharmatAvasthA sarvazuklamayI yadA |
+prajJApAramitA jJAtA jJAnamekakSaNe ta{9. ##A. B.## tathA.}dA ||3||
+{10. ##C.## svapnopameSu sarvadharmeSu.}svapnopameSu dharmeSu sthitvA dAnAdicaryayA |
+alakSaNAtvaM dharmANAM kSaNenaikena vinda{11. ##A.## vidati.}ti ||4|| 
+{12. ##A.## svapnaMnta^.}svapnaM taddarzanaM caiva{13. ##A.## caiva, ##B.## ceva.} dvayogena nekSate |
+dha{14. ##A.## dharmANAMma^.}rmANAmadvayaM tatvaM kSaNonaikena pazyati ||5||
+abhisamayAlaGkAre prajJApAramitopadezazAstre ekakSaNAbhisamayAdhikAra: saptama: ||
+{15. ##C.## sarvAkAravizuddhiM.}sarvAkArAM vizuddhiM ye dharmA: prAptA nirAsravA: |
+svAbhAviko mune: kAyas{16. ##A.## ^steSA.}teSAM prakRtilakSaNa:{17. ##A## ^lakSaNa:. ##C.## prakRtyalakSaNA:.} ||1||
+@034
+bodhipakSApramANAni vimokSA{1. ##C.## dhimokSA anupUrvaNa:} anupUrvaza: |
+navAtmikA samApatti: kR{2. ##A.## kRSNAtsvandazavi^, ##C.## kRtsnadezavi^.}tsnaM dazavidhAtmakam ||2||
+a{3. ##A. B.## abhidvApa^, ##C.## abhivAya^.}bhibhvAyatanA{4. ##B.## ^patanAMdya^, ##A.## ^patanAdyaSTha^, ##C. ^patinAnyasta.}nyaSTaprakArANi prabhedata: |
+araNA praNidhijJAna{5. ##A.## ^jJAnaMma^.}mabhijJA: pra{6. ##C.## pratisaMvidhA:.}tisaMvida: ||3||
+sarvAkArAzcatasro ‘tha zu{7. ##A.## zuddhaye.}ddhayo va{8. ##C.## vaNitA.}zitA daza |
+va{9. ##A. B. omit## balAni daza.}lAni daza {10 ##A.## vAri.}catvAri vaizAradyAnya{11. ##A. B.## vaizAradyAdyalakSaNaM, ##C.## vaizAradyAnvarakSaNaM.}rakSaNAm ||4||
+trividhaM smRtyupasthAnaM tridhAsammoSadharmatA |
+vAsanAyA: samu{12. ##C.## samudyAto.}dghAto mahatI karuNA jane ||5||
+AveNikA munereva dharmA ye ‘STAdazeritA: |
+sarvAkArajJatA ceti dharmakAyo ‘bhidhIyate ||6||
+zrAvakasyAraNAdRSTernRkle{13 ##C.## dRSTetatklezaparipariharitA ##(sic !)##.}zaparihAritA |
+tatklezasrotaucchittyai grAmAdiSu jinAraNA ||7||
+anAbhogamanAbhaGgamavyAghAtaM sadA sthitam |
+sarvapraznApanu{14.  ##A.## ^panuddhoddhaMm ##B##. ^panudbauddhaM, ##C.## ^yenuddhauddhaM ##(sic !)##dbauddhaM {15. ##A.## praNadhi^.}praNidhijJAnamiSyate ||8||
+@035
+paripAkaM gate hetau yasya yasya yadA yadA |
+hitaM bhavati kartavyaM pra{1 ##C.## prate.}dhate tasya tasya sa: ||9||
+{2. ##C.## dharmatyapi hi (##sic !##).}varSatyapi hi parjanye{3. ##A.## pajanya (##sic !),C.## paryanya.} naivA{4 ##A. B.## naivAjIvaM.}bIjaM pra{5. ##C.## virohati.}rohati |
+sa{6. ##A. B.## samutpAde vibuddhAnAM.}mutpAde’pi buddhAnAM nAbhavyo bhadramaznute ||10||
+iti kAritravaipulyAdbuddho vyApI nirucyate |
+akSayatvAcca tasyaiva nitya ityapi ka{7. ##A.## kathyate:.}thyate ||11||
+dvAtriMzallakSaNAzItivyaJjanAtmA munerayam |
+sAmbhogiko ma{8. ##C.## matA:.}ta: kAyo mahAyAnopabhogata: ||12||
+cakrAGkahastakramakUrmapAdo |
+jAlAvanaddhAGgulipANipAda:{9. ##A. B## ^pAdaka:.} |
+karau sapAdau taruNau mR{10. ##B.## mRdu ca, ##C.## mRdu: va (##sic !##). dva ca |
+samutsadai: saptabhirAzrayo ‘sya ||13||
+dIrghAGgulirvyAyatapA{11 ##A.## pASNi^ ##(sic !##}.rSNir, gAtra{12. ##B## grAtraM.}m |
+prAjyamRjU{13. ##A.## prAGkamRju^, ##C.## prAkSarArUha^(?)}cchaGkhapadordhvaromA{14 ##A.## ^khayadoddharAyA, ##C.## ^khapadorddharomA.} |
+aiNoya{15 eNoya.}jaGcazca pa{16 ##A.## paTuruddhavAhu:, ##C##. paTukAvAGga:.}TUrubAhu: |
+kozA{17 ##A. B.## kozAvavAno^.}vadhAnottamavastiguhya: ||14||
+@036
+suvarNavarNa: pratanuccha{1 ##A.## pratimanucchavi^.}vizca |
+pradakSiNaikaikasujAtaromA |
+{2. ##A.## Unnoki^.}UrNAGkitAsyo haripUrvakAya: |
+skandhau vRttAvasya citAttarAMsa:{3. ##A.## ^rAsaM:, ##B.## ^rAMza:.} ||15||
+hIno rasa: khyAti rasottamo ‘sya |
+nyagrodha{4. ##A.## nyagrodhamanmaNDa^, ##B.## nyagrovanmaNDa^ (##sic !), C##. nyagrAdhavanma^.}vanmaNDalatulyamUrti: |
+uSNISarmUrddhA pRthucArujihvo |
+brahmasvara: siMhahanuzca,{5. ##A.## ^hanu:, ##B.## ^hanu^.}. zuklA: ||16||
+tulyApramANAviralAzca dattA |
+anyU{6 ##B.## anyuna^, ##C.## ’ntyanusaMkhyA.}nasaMkhyA da{7. ##A. B.## dasikA^, ##C.## dazcikA^.}zikAzcatasra: |
+{8 ##A.## nIlakSaNo, ##C.## nIlekSa.}nIlekSaNo {9 ##B.## gevRSa (##sic !), C.## gAvRSa.}govRSapakSmanetro |
+dvAtriMzadetAni hi lakSaNAni ||17||
+yasya yasyAtra yo heturlakSaNasya {10 ##C.## prasAdata:.}prasAdhaka: |
+tasya tasya prapU{11 ##A. B.## prapUyyAryaM.}ryAyaM samudAgamalakSaNa: ||18||
+gurU{12 ##B.## guruNAmannapAnAdi, ##C.## guruNAmunayAnArdadatA.}NAmanuyAnAdi dRDhatA saMvaraM prati |
+saMgraho sevanaM dAnaM praNItasya ca vastuna: ||19||
+@037
+va{1 ##A.## vedhya (?), ##B.## vadhya.}dhyamokSa: samAdAnaM vivRddhi: kuzalasya ca |
+ityAdiko yathAsUtraM heturlakSaNasAdhaka: ||20||
+tAmrasnig{2. ##A. B.## snignAzca.}dhAzca tuGgAzca nakhA aGgulayo mune: |
+vRttAzcitAnupUrvAzca gU{3. ##A.## guDha^.}DhA nirgra{4. ##A. B.## nigranlaya:.}nthaya: zirA: ||21||
+gU{5. ##A. C.## gUDhai.}Dhau gul{6. ##A.## gulphai, ##B. C.## gulpho.}phau samau pAdau siMhebhadvijagopate: | 
+vikrAttaM dakSiNaM cAru gamanamRju va{7. ##A. B.## vRrttate, ##C.## RkSuM varttate.}rtate ||22||
+mR{8. ##A. B.## sRSTa.}STAnupUrvate me{9. ##A.## madhya.}dhyamRdutve zuddhagAtratA |
+pUrNavyaJja{10 ##A.## vyaJjatA.}natA cArupRthumaNDalagAtratA ||23||
+samakramatvaM zu{11 ##C. omits.##}ddhatvaM netrayo: suku{12 ##A.## netrayozukramAratA, ##B.## sukramAratA.}mAratA |
+adInotsadagAtratve susaMhatanagAtratA ||24||
+suvibhaktAGgatA dhAttapradhvastAlokazuddhatA |
+vRttamRSTAkSatakSAmakukSitA ca, gabhIratA ||25||
+dakSiNAvartatA nAbhe: samattAdda{13 ##A. C.## samattAdarza^.}rzanIyatA |
+samAcAra: zuci: kAlatilakApagatA tanu: ||26||
+karau tUlamRdU snigdhagambhIrAyatalekhatA |
+nAtyAyataM vaco bimbapra{14 ##C. omits.##}tibimbopamauSTha{15 ##A.## ^moSThatA.}tA ||27||
+@038
+mRdvI tanvI ca raktA ca jihvA jImUtaghoSatA{1 ##A.## ^tAM.} |
+cArumaJju{2. ##A.## ^maju^.}svaro, daMSTra{3 ##A.## draSTrA, ##C.## dRSTa:.} vRttAstIkSNA: sitA: samA: ||28||
+AnupU{4 ##A.## ^pUrvogatAstaMga^.}rvIM gatAstuGgA nAsikA paramaM zuci: |
+vizAle nayane pa{5 ##A.## yakSma^, ##C.## pakSavita^.}kSmacitapadmadala{6 ##A.## ^dalAkSatA.}kSitA ||29||
+A{7 ##A. B.## ^kSNamasnigdha^, ##C.## ^kSNasasragdhi^.}yatazlakSNasusnigdhasa{8 ##A.## samaroSNau (?), ##B.## samaroSTau, ##C.## samarausrau.}maromnau bhru{9 ##A.##bhuvo, ##B.## bhruvau.}vau bhu{10 ##A.## bhujo.}jau |
+pInA{11 ##A. B.## pInApato.}yatau samau karNAvupa{12 ##A.## ^vudaghAta^, ##C.## ^vupadyAta^.}ghAtaviva{13 ##A. omits.##}rjitau ||30||
+{14. ##A. B.## lalATamapariglAnaM.}lalATamaparimlAnaM pRthu pUrNottamA{15 ##A.## ^mAgatA.}GgatA |
+{16 ##A.## bhramarAzitA, ##B.## bhramarAzitAzca^, ##C.## bhramarAbhAvAzcitA:.}bhramarAbhAzcitA {17 ##A.## znikSA.}zlakSNA asaMlu{18. ##A.## luhatimU^, ##C.## ^rutritamUrttayA: (##sic !).##}litamUrtaya: ||31||
+kezA aparuSA: puMsAM {19 ##C.## saurabhyAyapahAriNA.}saurabhyAdapahAriNa: |
+zrovatsa: svastikaM ceti buddhAnAM vyaJjanaM mata{20 ##A. B.## matim.}m ||32||
+karoti yena citrA{21 ##A. B.## cittAni.}Ni hitAni jagata: samam |
+A{22 ##A.## AbhavA so, ##B.## AbhavAtsaunupacchanna:}bhavAtso ‘nupacchinna: kAyo{23 ##A.## naimANiko (##sic !), B##. nairyyANikA.}nairmANiko mune: ||33||
+@039
+tathA karmApyanucchinnamasyAsaMsAramiSyate |
+ga{1 ##A. B.## matIsAzanena, ##C.## gatenAMzamanaMkarma.}tInAM zamane karma saMgrahe ca caturvidhe ||34||
+niveza{2 ##B.## nivezanamasaMkleze. ##C.## nivezaNaM saMkleze.}naM sasaMkleze vyavadAnAvabodha{3. ##A.## ^bodhanA, ##C.## vyavadhAnAvodhane.}ne |
+sattvAnAmarthayAthA{4 ##A.## ^yAthAtsye, ##B.## ^yAthAtmye, ##C.## yAthAtmeSu.}tmye SaTsu pAramitAsu ca ||35||
+buddhamArge prakRtyaiva zUnyatAyAM dvayakSa{5 ##A.## ^kSayaM.}ye |
+saMkete ‘nupalambhe ca pa{6 ##C.## paripAcake ca.}ripAke ca dehinAm ||36||
+{7 ##A.## bodhisattvesya mArge.} bodhisattvasya mArge {8 ##C.## ‘bhinivezya.}’bhinivezasya nivAraNe |
+bodhiprAptau jinakSetre{9 ##A.## ^kSatraM.} vizuddhau niyatiM prati ||37||
+aprameye ca sattvArthe buddha{10 ##C.## sevAhite.}sevAdike gu{11 ##B.## tuNe.}Ne |
+bodheraGgeSvanA{12 ##C.## nAse.}ze ca karmaNAM satyadarzane{13 ##A.## ^darzanaM.} ||38||
+viparyAsaprahANe ca tadavastukatAnaye |
+vyavadAne sa{14 ##A. B.## samastAre.}saMbhAre saMs{15 ##A. B.## mandatAsaMskRte.}kRtAsaMskRte prati ||39||
+v{16 ##C.## vyutibhe^.}yatibhedAparijJAne nirvANe ca nivezane |
+dharmakAyasya karmedaM{17 ##B. omits##} saptaviMzatidhA matam ||40||
+abhisamayAlaGkAre prajJApAramitopadezazAstre dharmakAyAdhikAro ‘STama: 
+@040
+lakSaNaM ta{1 ##A. repeats## tatprayogasta^ ##twice, C.## tatprayogatatprakarSa^.}tprayogastatprakarSastadanukrama: |
+tanniSThA ta{2 ##A.B.## tadvamAkazce^.}dvipAkazcetyanya: SoDhA{3 ##A.## pAzerthamagraha:, ##B.## pozerthamagraha:, ##C.## bodhArthasaMgraha:.}rthasaMgraha: ||1||
+viSaya{4 ##B.## ^stitayo hetu:.}stritayo hetu: prayoga{5 ##A.## ayogezca, ##B##. ayogazca^, ##C## prayogazcarAtmaka:.}zcaturAtmaka: |
+dharmakAyaphalaM ka{6 ##A.## karma:, ##B.## karma.}rma a{7 ##A. B.## anAstedhArthamagraha: (##sic !), C.## ^tyanustedhArya^.}nyastredhArthasaMgraha: ||2||
+abhisamayAlaGkAraM nAma prajJApAramitopadezazAstraM samAptam ||
+kRtirAryamaitreyanAthasya ||
+
+
+

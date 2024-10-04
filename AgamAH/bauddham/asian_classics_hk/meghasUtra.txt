@@ -1,0 +1,406 @@
+@285
+##THE 
+JOURNAL 
+OF THE 
+ROYAL ASIATIC SOCIETY 
+OF 
+GREAT BRITAIN AND IRELAND. 
+NEW SERIES. 
+[DD] 
+VOLUME THE TWELFTH. 
+LONDON :
+TRUBNER AND CO., 57 & 59, LUDGATE HILL.
+MDCCCLXXX.
+1880
+@286
+Jrl. of the Royal Asiatic Society
+1880
+Art. X.- The Megha-Sutra. By CECIL BENDALL, Fellow of 
+Gonville and Caius College, Cambridge. 
+The following article was originally suggested by a notice 
+in Beal's{1 ##See also Fergusson,"Tree and Snake Worship," p. 55, where some further 
+account of the Chinese version is given, and one of its illustrations reproduced; 
+the observations as to the date may be corrected, however, by a reference to 
+Csoma (as presently quoted).##} "Catena of Buddhist Scriptures from the Chinese."
+The sutra is there selected as a type of the latest phase of 
+Buddhist literature, not only on account of its own pecu-
+liarities, but owing to its religious importance among the 
+Chinese, which caused the imperial rescript for its translation 
+and general promulgation, of which an English version is 
+there given. The two parts of which this sutra is composed 
+are mentioned as Nos. 15 and 16 of vol. 14 of the Tibetan 
+“Gyut,” by Csoma Korosi in As. Res. xx. p. 529; the names 
+of the translators fix its date as earlier than the ninth century. 
+Finding that the Sanskrit original existed in the great, and 
+hitherto unworked, mine of Northern Buddhist literature, 
+the Wright Collection of Nepalese Sanskrit MSS. in the  
+University Library of Cambridge, it was suggested to me 
+by Prof. Cowell, to whose assistance I have been throughout 
+deeply indebted, that it might prove generally interesting if 
+an edition of the sutra were prepared. A perusal, however,
+of the work showed such a preponderance of the objection-
+able peculiarities of this branch of Tantric literature, endless
+repetitions of words and thought, huge and meaningless
+congestions of epithets and titles, vast catalogues{2 ##e.g. the list of 177 snakes at the beginning.##} of names,
+and in fact such an entire absence of literary merit of any
+kind, that the project of preparing a complete edition was 
+abandoned, and the following annotated abridgment drawn
+@287
+up. The text of these extracts is based on the Cambridge 
+MS., of which I have made a nearly complete transcript,
+and which I call A, and the MS. in the Hodgson Collection
+of the Royal Asiatic Society (B), which I have collated for 
+this article.
+A few preliminary remarks on these MSS. may be not 
+superfluous.
+A, is a palm-leaf, 16 inches by 2 inches, 5 lines on each
+page, dated N.S. 494=A.D. 1374. It is written in the pecu-
+liar and often very difficult handwriting of the Nepalese of 
+the period; and abounds in errors such as the confusion of##
+z ##and## s ##and of## N ##and## n, ##which seem to show the scribe’s
+knowledge of Sanskrit to have been very small indeed.
+B, on the other hand, though a modern {1 ##It bcars date on the cover, N.S. 888=A.D. 1768.##} paper transcript,
+is a fairly careful copy of a good original, and clearly has 
+independent authority. Conjectural emendations of my own 
+of the readings of A have been in very many cases confirmed.
+I am also indebted to the courtesy of Prof. Beal for help
+derived from a comparison of the Chinese transliterations of 
+the mystic names of charms on page 297.
+The following extracts, then, contain all the significant
+parts of the sutra, the nature of the omitted portions being
+everywhere indicated.{2 ##In the case of repeated epithets, etc., e.g. p.292, 11. 8, 17; p. 294, 3 (=p. 
+293, 11. 10, 27; 295, 4) the first words only are printed again. Cf. also pp. 306,
+307.##} The text is founded on a comparison 
+of the MSS., obvious blunders and vernacular barbarisms in 
+either being passed by unnoticed, and the genuine differences
+of reading only being noted. Only the flagrant errors of
+Sandhi, so common in Buddhist MSS., have been, as a rule,
+corrected.
+(References to the Divyavadana in the notes are to the
+pages of the edition by Prof. Cowell and Mr. Neil, now in 
+the press.)##
+@288
+##TEXT.##
+namo’cintyasAgarebhya: sarvasamyaksaMbuddhebhya:{1 sarvabuddhabodhisatvebhya: ##B.##} ||
+evaM mayA zrutamekasmin{2 ##The usual, and till lately regarded as the invariable, commence-
+ment of Buddhist works.##} samaye bhagavAn nandopanandanAgarAjabhavane vi-
+harati sma | zrImaNiratnagarbhamahAmeghamaNDalakUTAgAre mahatA bhikSusaMghena 
+sArdhaM mahatA ca bodhisattvasaMghena sArdhaM mahatA ca rAjagaNena sArdhaM tadyathA
+nandena ca nAgarAjena upanandena ca nAgarAjena sAgareNa ca anavataptena 
+ca manasvinA ca varuNena ca takSakena ca dhRtarASTreNa ca vAsukinA ca muci-
+lindena ca nAgarAjena ##etc., etc. (Here follows a list of about
+200 snakes cf. Mahabhar. Adi-P. 1551, sqq.)##
+evampramukhai: sarvanAgarAjapUrvaGgamaizcaturazItyA nAgakoTIniyutazatasa-
+hasrai: sannipatitai: sanniSaNai: | tena khalu puna: samayena sarve te nAgarAjA:{3 nAgarAjAna: ##A.##}
+saparivArA utthAyAsanebhya ekAMsamuttarAsaGgAni kRtvA{4 ##Cf. the common Pali phr. ekamsam uttarasangam karitva, i.e.
+baring one shoulder in token of respect.##} dakSiNAni
+jAnumaNDalAni pRthivyAM pratiSThApya yena{5 yena, tena ##another constr. and phr. common to Pali and Buddhist
+Skt., cf. Childers, s.v.yo.##} bhagavAMstenAJjaliM praNamyAprame-
+yAsaGkhyeyai: paramavividharucirai: puSpadhUpagandhamAlyavilepanacUrNacIvaraccha-
+tradhvajapatAkApaTTadAmavAdyatUryatADAvacarasaGgItiratnakusumaratnadAmamu-
+ktAhAranAgapuSpamuktA{6 nAgapuSpa ##might also be taken as the nomen proprium of several 
+flowers.##}jAlairggarJjanto guDuguDAyamAnA{7 guDuguDuyanto ##A.##} mahAvAtaM pravA-
+
+yanto mahAnAdaM nadanto ramaNIyAMzca dharmmanAdAnnadanta: {9 dharmmannAdanadanta: ##A.;## dhamanAdanadanta: ##B.##} mahatAgurugora-
+vacitrIkAreNa bhagavantamabhicchAdayanta: pradakSiNIkurvvanti sma |
+@289
+[##English matter##]
+@290
+pradakSiNIkRtyaikAnte tasthu: | ekAntasthitA: praNidhAnAni kurvvanti sma |
+sarvalokadhAtusamudraparamANuraja:samai: kAyasamudrai: sarvvabuddhabodhisatvaparSa-
+nmaNDalasamudreSu{3 paraSatma^ ##MSS.##} | sarvvalokadhAtuprasarasamudreSu | sarvvapRthivyaptejovAyupara-
+mANuraja:sarvvarUpAvabhAsasamaparamANuraja:su ekaikasminparamANurajasi |
+sarvvagaNanAsamudrasamatikrAntairasaGkhyeyAprameyAcintyAtulyAmApyAnabhijJA-
+pyasamatikrAntai: kAyameghasamudrai: ekaikasminkAye'prameyAsaGkhyeyAn{4 ^yani ##MSS.##} samu-
+drameghAnadhiSThAya samantadikzroto'bhimukhAdekaikasmAtparamANurajobhA-
+gAt samantadikkUlaspharaNairasambhinne: sarvapUjAmeghasamudrai: sarvabuddhabodhisa-
+tvasamudrAn satkuryAmo{5 ##Sic codd. ambo; scilicet haec forma in tempore “lin” apud codices
+Buddhisticos haud rara.##} gurukuryAmo mAnayema: pUjayema: | yadutAprame-
+yAsaGkhyeyAcintyAtulyAmApyAparimANAnabhijJApyairasambhinnai: samantabhadra-
+caryAprabhAvasamudrameghai:{6 ##Cf. Manu, 3, 76.##} saJchannaM gaganatalamadhiSThAya yathAyathA bodhisa-
+ttvAtmabhAvasamudrameghai: | evaM sarvvaratnavarNarazmighanasarvvasUryacandrAtmabhAva-
+maNDalasamudrameghai: | sarvvaratnahArakusumasamudrameghai: | sarvvaratnAvabhAsagarbhakU-
+TAgArasamudrameghai: | sarvvacUrNavRkSakozasamudrameghai: | sarvvagandhadhUpasarvvarUpasa-
+ndarzanasamudrameghe: | sarvvarutanigarjitavAdyasamudrameghai: | sarvagandhavRkSasamudra-
+meghai: | saJchannaGgaganatalamadhiSThAya | evampramukhairaprameyAsaMkhyAcintyAtu-
+@291
+[##English matter##]
+@292
+lyAmApyAparimANIyAnabhijJApyairasambhinnai: sarvvapUjAmeghasamudrai: | sarvvabu-
+ddhabodhisatvAn satkuryAmo gurukuryAmo mAnayema: pUjayema: || (##and so
+on for half a dozen pages, enumerating the various orna-
+ments, each compounded with## samudrameghai: ##constructed with the 
+same four potentials##).
+evaMrUpaM praNidhAnaM kRtvA te nAgarAjAna: punarapi bhagavantaM tri: prada-
+kSiNIkRtya pAdAbhivandanAJca kRtvA | bhagavatAnujJAtA: sveSu sveSvAsaneSu 
+nyaSIdan{1 nyaSIdata ##A.;## nyadIdan (##vocem nihili) B.##} | ten khalu puna: samayenAnantaparikarasAgarameghavyUhatejoma-
+NDalacchatrAkArarAjastrisAhasramahAsAhasriko mahAnAgAdhipati: | u-
+tthAyAsanAd ekAMsaM uttarAsaMgaM kRtvA dakSiNaM jAnumaNDalaM pRthivyAM 
+pratiSThApya yena bhagavAMstenAJjaliM praNamya bhagavantametadavocat |
+pRccheyamahaM bhagavantaM tathAgatamarhantaM samyaksambuddhaM kiJcideva pradezapraznaM,{2 pradezaMprazna ##A.##}
+sacenme {3 sacet. ##This is an interesting case of the intrusion of the colloquial
+speech, whose typical development is, of course, Pali;## saced ##being
+hitherto unnoticed in Skt. See Childers, s.v. sace, who quotes (s.v.
+okasam) Sace me Bhagava okasam karoti panhassa veyyakaranaya
+which corresponds almost word for word to the text. It is, however,
+really frequent in the Lalita-Vist., but has escaped notice owing to the 
+defective editorial care shown in the printed edition.##} bhagavAnavakAzaM kuryAt pRSTa: praznavyAkaraNAya |
+evamukte bhagavAnanantaparikarasAgarameghavyUhatejomaNDalachatrAkArarAjaM 
+nAgAdhipatimetadavocat | pRccha tvaM bhujaGgAdhipate yadyadevAkAGkSasyahaM te 
+tasya tasyaiva praznavyAkaraNena cittamArAdhayiSye |
+evamukte’nantaparikara^ cchatrAkArarAjatrisAhasramahAsahasriko mahA-
+nAgAdhipatirbhagavantametadavocat |
+kathaM, bhagavan, sarvanAgAnAM sarvanAgadu:khAni pratiprazrambheyu: {4 ##Another striking instance of colloquial influence ; the compound 
+patippasambhati being common in that language but apparently 
+hitherto unknown in Sanskrit.##} praharSitA:
+sukhasamanvitAzceha jambudvIpakAlAnukAlaM varSadhArA utsRjeyu: | sarvatRNa-
+@293
+[##English matter##]
+@294
+gulmauSadhivanaspatIn virohayeyu: | sarvazasyAnyutpAdayeyu: | sarvarasAn 
+saMjanayeyu: | yena jAmbudvIpakA manuSyA:{1 manuSyakA: ##B.##} sukhasamarppitA bhaveyu: ||
+evamukte bhagavAnanantaparikara^^ rAjaM trisAha^ mahAnAgAdhipatime-
+tadavocat | sAdhu sAdhu bhujaGgAdhipate yattvaM sarvvasatvAnAM hitasukhAya{2 hitAya sukhAya ##B.##}
+pratipanna: {4 ##Cf. Pali parahitaya patipanno, Childers, s.v. patipajjati.##} tathAgatametadarthaM{3 etamarthaM ##B.##} paripraSTavyaM manyase |
+tena hi bhujaGgAdhipate zRNu sAdhu ca suSThu ca manasikuru{5 ##I follow Burnouf in treating this as a single verb (see his note,
+`Lotus.’ p. 413), cf. Pan. i. 4, 75.##} | bhASiSye’haM 
+te | ekadharmmeNa bhujaGgAdhipate samanvAgatAnAM sarvanAgAnAM sarvadu:khAni 
+prazraMbheyu: | sukhasamarppitAzca bhaveyu: |
+katamenaikadharmmeNa | yaduta maitryA tatra bhujaGgAdhipate maitrivihAriNo
+devamanuSyA: | agninA na dahyante | zastreNa na kSaNyante | udakena nohyante |
+viSeNa na hanyante | paracakreNa nAbhibhUyante | sukhaM svapyanti | sukhaM ca 
+pratibudhyante{6 prativibuddhyante ##A. quam vocem apud lexica non reperio.##} svapuNyarakSitAzca{7 supuNyarakSatA: ##A.##}
+bhavanti | mahApuNyatejastejitA:{8 ##tejobhojitA: ##B.##} | ana-
+vamardanIyAzca bhavanti sadevakena{9 ##sadevaloka^ ##B.##} lokena prAsAdikAzca bhavanti | priya-
+darzanA: sarvatrApratihatagatayazca bhavanti sarvadu:khapratiprazrabdhA: sampraharSi-
+tAzca bhavanti sarvvasukhasamarppitA: ||
+uttare ca manuSyadharmmapratividhyakAyasya bhedAd{10 ##Cf. kayassa bheda, Dhammapada 129.##} brahmaloke maitreNa mana-
+skarmmaNopapadyante bhujaGgAdhipate | ete bhujaGgAdhipate anuzaMsA{11 ##Anucamsa (subst.) seems hitherto unknown both to Skt. and
+Pali; though the vb.## anuzaMs ##is common esp. in the earlier language.##} maitrIvi-
+hAriNAM devamanuSyANAM |
+tasmAttarhi bhujaGgAdhipate maitreNa kAyakarmmaNA maitreNa vAkkarmmaNA mai-
+treNa manaskarmmaNA vihartavyaM | punaraparaM bhujagAdhipate sarvasukhaMdadA nAma{12 ##Om.## sarva ##A.; sed cf. infra.##}
+dhAraNI pravarttayitavyA | sA sarvanAgAnAM sarvanAgadu:khAni pratiprazrambha
+@295
+[##English matter##]
+@296
+yati{1 ##Barbare codd. ambo;## pratiprasambhavati ##A.;## pratiprasrabhavati.} {11 ##Pratipracrambh has been hitherto unnoticed by Skt. Lexico-
+graphy; though its Pali equiv. is well known.##} sarvasukhAni ca dadAti | yeneha jambudvIpe kAlena kAlaM varSadhArA
+utsRjati | sarvvatRNagulmauSadhivanaspatizasyAni ca virohayati{2 virohati ##A.##} | tatra
+bhujagAdhipate katamA sA sarvasukhandadA nAma dhAraNI tadyathA | dharaNi 
+dhAraNi{3 ##The following Chinese phonetic equivalents (kindly communicated 
+to me by Prof. Beal) may be interesting to compare;-To-lo-ni
+To'-lo-ni; Yan-to-lo-ni, Sam-po-lo-ti-sse-ta Pi-tche ye P'o-lan-na-sa-
+ti-ye Po-lo-ti-nya, Po-lo-ho-jna-na-po-ti(perh. from a v.l. Parajnana
+vati) Yan-to-p'o-ta-ni, Pi-na-ch'ang-ni, Ho-pi-si-che-ni; Ho-pi-pi-ya-
+ho-lo-shu-po-po-ti; O-c'he-ma-to mu-chi, Kung-po-lo-heu-chi-po-ho,
+Ma-lo-ki-le-she (=Pali mara kilesa), Ta-na-po-hom Shu-to-ye, Ma-
+kia-ni, Li-ho-ka, Ta-mo-to-shu-to (and others not in the Skt.).##} uttAraNi sampratiSThitA vijaya varNasatya pratijJA sAhAjJA-
+navati utpAdani vinAzani | abhiSecaNi | abhivyAhArazubhAvati |
+ajAmatAmahi | kumbAlanivAhA | hara{4 ##Syllabam## ha ##om. A.##} klezAn | dhunu pApaM | zodhayA{12 ##Sic codd.; de uocali producta, cf. formas Vedicas.##} 
+mArggANi | rIhakA dharmmatAsu padAnIti ||
+punaraparaM bhujagAdhipate | meghakulasambhavAdhiSThAnavyUhatejogarbhanirmmANA-
+vabhAsanajJAnaketvambudha{5 mbuddha ##codd.##} -rAtramaNDalazrIkaraNakAzu{6 karatakAzu ##B.;## karaNakAsu ##A.##}-vairocanaikabAlAgra-
+koTInirjAtavaMzagotrANAM tathAgatAnAM nAmadheyAni dhArayitavyAni |
+manasikarttavyAni | tAni sarvvanAgAnAM sarvanAgakulAnAM sarvanAgagotrANAM
+sarvanAgasambhavAnAM sarvanAgayonInAM sarvanAgarAjAnAM sarvanAgakulodbha-
+vameghavirAjitakanyAnAM{9 sarvanAgakanyAnAM ##B.##} sarvanAgaparivArANAM{10 sarvanAgaparivArANAM ##A.##} sarvanAgadu:khAni prati-
+prazrambhayanti{11 ##Pratipracrambh has been hitherto unnoticed by Skt. Lexico-
+graphy; though its Pali equiv. is well known.##} | sarvasukhopadhAnAnyupasaMharanti | tatra bhujagAdhipate kata-
+mAni tAni tathAgatanAmAni | yaduta namo bhagavate vairocanagarbhamahA-
+meghAya tathAgatAya | namo bhagavate nAgakulodbhavameghavirAjitAya ||
+@297
+[##English matter##]
+@298
+(##Here ensue several pages of names of Tathagatas##).
+ebhirbhujagAdhipate tathAgatanAmabhi: pravarttitai: sarvanAgAnAM sarvadu:-
+khAni pratiprazrabdhAni sarvadu:khasamarppitAzca{2 ##Both MSS. read## ^du:kha^, ##but sense and construction would gain by
+correcting to## sukha^.} kAlena kAlamiha jambudvIpe 
+varSadhArA utsRjanti sarvatRNagulmauzadhIvanaspatizasyAni ca virohanti ||
+atha khalvanantaparikara^……nAgAdhipatirbhagavantamadhyeSate{3 ##Cf. Pali ajjhesati.##} sma{4 adye bhASate sma ##B.##} |
+bhASatu bhagavAMstAdRzAni dhAraNImantrapadAni yairiha jambudvIpe pazcime
+kAle pazcime samaye’nAvRSTAvudIritairmahAvarSadhArA: pravarSeyu: | dAru-
+NakAlasamaye kAntArakAlasamaye’dhArmmikajanapadakalikalahakAlasamaya
+ItyupadravakAlasamaye rogamaraNakAlasamaye viSamanakSatrasaMsthAnakAlasa-
+maye | sarvetyupadravapIDAprazamanaM kuryAdbuddhAdhiSThAnenAdhitiSThatu | bhagavAn 
+paramakAruNika: | sarvasatvAnukampaka:{5 satyAnu^ ##A.##} tathArUpANi dhAraNImantrapadAni 
+bhASatAM yAni sarvanAgAn saJcodayeyu: | sarvadevAn praharSayeyu: | sarvamA-
+rAn vidhvaMzayeyu: | sarvasattvAnAM sarvaghAtanA: satvabhayopadravapIDAzca
+nivArayeyu: zAntisvastyayanaM ca kuryu: viSamanakSatrakRtaM ca prazamayeyu: |
+yaJca varSAntarAyAni yAni{6 ##Om. A.##} bhagavatoktAni sarvANi viSkambhayeyu: | samyag
+varSadhArA iha jambudvIpe utsRjeyuriti | ahaM bhagavantaM tathAgatamadhyeSa-
+yAmi | evamukte bhagavAnanantaparikara^... nAgAdhipatimetad avo-
+cat | sAdhu sAdhu bhujagodhipate yattvaM tathAgatamadhyeSasi sarvasattvAnA-
+marthAya hitAya sukhAya | tena hi bhujagAdhipate zRNu sAdhu ca suSThu ca 
+manasi kuru bhASiSye’haM te | mahAkaruNodbhavamahAmeghanirnnAdavijRmbhita-
+sUraketunAma dhAraNI sarvabuddhabhASitAdhiSThitAnumoditA sarvasattvAnA-
+marthAya sukhAya | yAnAvRSTau varSayati{7 ^vRSTi vArayati ##B.##} | ativRSTiM dhArayati{8 a^ dha^ ##om. B.;## bhArayatA ##A.##} | maraNa-
+@299
+[##English matter##]
+@300
+kAntAraM prazamayati | sarvanAgAn saJcodayati | sarvadevAn pralhAdayati |
+sarvamArAn vidhvaMsayati sarvasattvAn sarvasukhasamarpitAn karoti |
+tadyathA |
+mahAjJAnAvabhAsani zrItejolakSmIdRDhavikramavajrasaMhanane paramaviraja-
+nirmalaguNaketusUryaprabhe{1 ##Cf.## jJAnaketu ##supra.##} vimalAGgayaSTi bhara bhara saMbhara 2, ##etc.
+* * * * * *
+Here follow several pages of gibberish and mysticism, of
+which some specimens are subjoined :-##
+sara sara sire 2 suru 2 nAgAnAM | java 2 jivi 2 juvu 2 mahAnAgA
+Agacchata… jambudvIpe pravarSadhvaM{2 ##Compare the Karanda-vyuha, and Tantric and late Buddhistic
+works, passim.##}
+* * * * * *
+##After this, commences a long series of invocations to the 
+nagas for rain by aid of various personages, thus:-##
+bho mahAnAgA.....varSadhArA utsRjateha jambudvIpe sarvadevasatyA-
+dhiSThAnena….svAhA | brahmasatyAdhiSThAnena pravarSateha jambudvIpe svAhA |
+zakrasatyena{3 ##Indra as a Buddhist archangel.##} pra^ ha^ ja^ ja^ svAhA | caturmahArAjasatyena{4 ##The four Lokapalas at the four cardinal points, guarding the
+lowest devalokas.##} pra^...|
+aSTAGgakasatyena{5 ##Cf. childers s.v. ango, and Burn. ib. cit.##}...| zrotApannasatyena{6 ##These are the four classes of aryas corresponding to the four
+paths.##}...| sakRdAgAmisa^{6 ##These are the four classes of aryas corresponding to the four
+paths.##}...|
+anAgAmisa^{6 ##These are the four classes of aryas corresponding to the four
+paths.##}...| arhatsatyena{6 ##These are the four classes of aryas corresponding to the four
+paths.##}... | pratyekabuddha^{7 ##One who has attained Buddha-ship, but does not preach : opposed 
+to the `Samyaksambuddha.’##}... |
+##After returning to devas, and Tathagatas in general, we 
+find similar invocations to mythical beings, borrowed from
+Brahmanism, viz. the Yakshas, Gandharvas, Asuras, Garudas,
+Kinnaras. To this succeed pages more of mysticism, with 
+gibberish everywhere interspersed ; then many of the Naga-
+rajas are invoked or re-invoked by name, and the charm ends 
+with the words-##
+@301
+[##English matter##] 
+@302
+nama: sarvabuddhebhya: sidhyantu mantrapadAni svAhA ||
+zatasAhasrikAnmahAmeghAnmahAyAnasUtrAd varSAgamanamaNDalI nAma ca-
+tu:SaSTitamaparivartta: ||^||
+upacAro mahAvRSTimAkAMkSatAbhyavakAze{1 AkAkSa^ ##Codd.##} nIlavitAnavitate | nIlapa-
+tAkocchrite zucau pRthavIpradeze dharmmabhANakena nIlAsanopaviSTena | aSTA-
+GgopavAsinA susnAtagAtrazucivastraprAvRtena | sugandhigandhodvarttitena tri-
+zuklabhojinA ayaM mahAmeghamaNDala: parivarttavya:{2 maNDalI parivRrtta: (##sic) A.##} pUrvAbhimukhena rAtri-
+ndivamavyavacchinnaM vAcayitavya: | sarvatathAgatAn AyAcya svacchanIlo-
+dakaparipUrNAzcatvAra: pUrNakumbhA: sthApayitavyA: 
+yathAzakti ca balividhAnaM{4 yathAzaktitavalividhAtavyaM ##A.##} dhUpapuSpANi ca | tatra dharmmabhANakasya
+caturdizaM gomayena rasena zara Alikhya pUrvasyAM dizi trihastamAtreNa tri-
+zIrSako nAma nAgaparivAro{5 tri..ko nAgo gaNapari^ ##B.;## triza^ nAmanA (##cf. infra).##} gomayena nAgarAja Alikhitavya: ||
+dakSiNasyAM dizi paJcahastamAtreNa paJcazIrSako nAma{7 nAmanA ##A. (a secunda).##} nAgaparivAro 
+nAgarAja Alikhitavya: | pazcimAyAM dizI saptahastamAtreNa saptazIrSako
+nAma{7 nAmanA ##A. (a secunda).##} nAgaparivAro nAgarAja Alikhitavya: | uttarasyAM dizi nava-
+hastemAtreNa navazIrSako na^ na^ na^ A^ |
+dharmmabhANakena ca kRtAtmarakSeNa maitrIvihAriNA sarvasattveSUpasthAtavyaM
+karuNAcittena sarvabuddhabodhisattvAn AyAcya nAgAnAM svakuzalamUlena 
+saMvibhaktavyo’yaM vidhi: | pazcAdanAvRSTikAlasamaya imaM mahAmeghamaNDa-
+liparivartaM vAcayiSyatyekAhaM vA dvyahaM vA yAvat saptarAtre’vazyaM varSayi-
+Syati | api samudro velAmatikramenna tu vRSTiriti zubha{8 zubhe ##MS.##}-vacanaM nAnyathA{9 ##Cf. Ram.## 6. 37. 9 vAkyaM nAnyathA yAti ##and ……in Greek.##} |
+kintu zIlaguNAdisaMyuktena pAyasaguDakSIraudanAdinA trimadhureNa ghRta-
+madhuguDenAhAraM kurvatA vAcayitavya ityavazyaM sidhyati yathAha vAdirAT
+@303
+[##English matter##]
+@304
+svayamiti | namo bhagavate’kSobhyAya tathAgatAya | namo’mitAyuSe tathA-
+gatAya | nama: zAkyamunaye tathAgatAya ||^||
+evaM mayA zrutamekasmin samaye bhagavAn mahAsAgare viharati sma
+maNiratnazikharakUTAgAre mahatA{1 mahAtA ##A.;## mahato ##B.##} nAgagaNena sArddhaM paripUrNena nAgasaha-
+sreNa | sarvanAgamaharddhikairmahatA nAgaparivAreNa | tadyathA | nandena ca |
+(##Here follows another long list of snakes).##}
+etaizcAnyaizca mahAnAgarAjasahasrai: sarve ca te nAgarAjAno mahatyA nA-
+gaRddhyA mahatA nAgavikurvitenAkAze{2 ##Vikurvita. This word, hitherto unknown, seems to be an
+irregularly formed participle (here used as a noun) from## vikR ##'to
+metamorphose'; cf. the Pali vikubbanam 'magic'- an analogous
+formation of the popular speech, of which we everywhere observe
+such remarkable traces in all Buddhistic language.##} gulugulena ca mahAvAtavarSaM pramu-
+Jcanto{3 pramuJcato ##A.##} bhagavata: zuzrUSAkaraNAya dharmazravaNAya cAgacchante sma{4 ca ##A.##} | tena ca 
+khalu puna: {5 puna: ##om. B.##} samayena bhagavAn mahAnAgebhya: sAdhukAramadAt | sAdhu 2 
+nAgA | bho mahAnAgA: |
+(##Then numerous invocations interspersed with mystic
+syllables as above##).
+mahAmeghavikurvitAlaGkAravyUhA: sarvaratnazikharahemapaTaruciradAmamu-
+ktikAhArapralambanamahAsamudrameghai:... (##here follow some twenty
+long compounds describing ornaments, etc., each ending
+with## ^meghai:).... gaganamabhicchAdayantu | sarveSAM{6 sarvanAgAnAM ##B.##} nAgarAjAna
+Agacchantvimasmin pRthivImaNDale rAjantu{7 garjantu ##B.;## rAjAntu ##A.##} varSantu pravarSantu huduhudu-
+yantu{8 ##This form seems unknown : but## huduk ##occurs as an onomat.##} mahAvidyuddarzanaM pramuJcantu ghaTanta:{9 ghaTanAnto ##B.##} saGghaTanta: | caTacaTayanto{10 caTa^ ##this onomat. vb. occurs in Dacak. 168 (Wilson)##.}gulu-
+guluyanto{11 ##This onomat. seems unexampled ; but cf.## gulagulena 1. 8 ##supra.##} mahAnAganAdAn ramaNIyAn mahAzabdAn{12 ^bdA ##A.; om. B.##} nizcArayanto 
+mahAghoSaM sampraghoSayanta;{13 sampraghoSaM ##B. Vox utraque lexicis ignota.##} | pravarSadhvaM jambudvIpe svAhA |
+@305
+[##English matter##]
+@306
+(##Here follow invocations, chiefly repetitions, or mystical
+syllables.##) 
+etha 2 mahAnAgA: svAhA | pauNDranAgarAjAnaM saMcodayAmi buddhasatyena 
+jambudvIpe pravarSatha{5 tha ##pro## ta ##in modo imperativo apud codd. Buddhisticos satis usitatum.##} svAhA | zrItejaM nAgarAjAna saMcodayAmi dharmmasatyeneha 
+jambudvIpe pravarSatha {5 tha ##pro## ta ##in modo imperativo apud codd. Buddhisticos satis usitatum.##} svAhA | anantaM na^ sa^ saGghasa^ ja^ pa^ sa^ |
+vAsukinAga^ sa^ vajrapANisa^ ja^ pa^ sa^ |
+takSakaM na^ brahmasa^ ja^ pa^ sa^ |
+zrIkaNTha na^ sa^ indrasa^ ja^ pa^ sa^ |
+erAvaNaM na^ sa^ viSNusa^ ja^ pa^ sa^ |
+malina na^ sa^ rudrasatya^ ja^ pa^ sa^ |
+manasvinaM na^ sa^ RSisa^ ja^ pa^ sa^ |
+vidrAvaNaM{1 vidrAyaNaM ##MS.##} na^ sa^ sarvanAgAnAM satyena ja^ pa^ sa^ |
+prasphoTaM na^ sa^ rAkSasasa^ ja^ pa^ sa^ |
+anavataptaM na^ sa^ rAkSasasa^ ja^ pa^ sa^ |
+sarvanAgA uparyuparisatyena varSatha 2
+mA vilambathAgacchatha{5 tha ##pro## ta ##in modo imperativo apud codd. Buddhisticos satis usitatum.##}bho 2 mahAnAgA: sarvanAgahRdayAni saJcodayA-
+mi | {2 ## ....haec omnia rubris litteris B.##} AkaTTAmi sara 2 hara 2 dhapa 2 hAhAhAhA hi 4... ehehi tha 3 
+cacacacarata sarvakSetrANi ApUrayatha{5 tha ##pro## ta ##in modo imperativo apud codd. Buddhisticos satis usitatum.##} sarvazasyAni varSatha mahAvAtAn 
+pramuJcatha | druM 2 ghri 2 pRM 2 TA 4 Ni cAriNi stambhani mohani | jAGgule
+pukkazi brahmaNi mAtaGgi jaye vijaye svAhA{2 ##...Haec omnia rubris litteris B.##} |
+sarvamahAmeghagarjja mahAmeghatathAgatAnAM saMcodayAmi mahAmeghazrIte-
+jAya tathAgatAya | mahAmeghasphoTakAya tathAgatAya | ##etc.
+(Here some twenty Tathagatas by name, each name com-
+mencing maha-megha-)##
+sarvabuddhAnAmadhiSThAnena sarvabodhisatvAnAmadhiSThAnena ca sarvanAgAnAM 
+satyena sarvanAgahRdayAnsaJcodayAmi{3 ##Sic MS.##} zIghramAgacchatha ratnatrayAnumatena{4 ##Ratna-traya [or triratna (v. B. and R. s. h. voc.)] is the Personifi-
+cation of the Buddha, the Law, and the Church (sangha) : the form in 
+the text, though unnoticed in the Dictionaries, is of frequent
+occurrence in the invocations at the beginning of our Buddhist MSS.##} |
+@307
+[##English matter##]
+@308
+(##Then mystic syllables and invocations, chiefly repetitions 
+of preceding passages.##)
+namo ratnatrayAya | namazcaNDavajrapANaye mahAyakSasenApataye bandhabandha-
+surUpe kAlarUpiNe{1 surUpakArUpiNe svAhA ##B.##} svAhA | cIvarakarNike saptajaptena granthibandha: kArya:
+pUrvameva dharmmabhANakena kRtarakSAvidhAnena{3 ##Cf.## kRtAtmarakSa, ##supra, p. 302, 1. 19.##} | ayaM vAtamaNDaliparivarta: 
+sarvanAgAnAM hRdayaM nAma{2 ##Inserit## imaM ##MS.##} vAcayitavya: | avyavacinna-trisaptAhaM | goma-
+yena pUrvasyAM dizi trizIrSo{4 ##For the whole passage, cf. p. 303, supra.##} nAma nAgarAja: saparivAra Alikhitavya: |
+dakSiNasyAM dizi paJcazIrSa: prasphoTano nAma sapa^ Ali^ | pazcimasyAM 
+dizi avabhAsanazikhI nAma nAgarAjA saptazIrSo nAgaparivAreNA-
+likhitavya: | uttareNa meghasaJcodano nAma nAgarAjA navazIrSazcitrayi-
+tavya:{5 citrAyayitavya ##A.##} | nIlavitAnanIlavastraM nIladhvajaM sarvA{6 bali: ##is masc. (regularly) just below : cf. the varying genders of ## 
+vidhi ##and other words in Divyavadana and Lalita-Vistara.##} ca nIlA bali: kartta-
+vyA{6 bali: ##is masc. (regularly) just below : cf. the varying genders of ## 
+vidhi ##and other words in Divyavadana and Lalita-Vistara.##}, {7 ^tavya: ##A.; cf. annotationes.##} nAgAnAM tu madhuravali: trimadhuraM ca hotavyaM sarvAhuti: nAgahRda-
+yena | megharAjAnazca citrayitavyA{5 citrAyayitavya ##A.##} varSadhArAM muJcayanta: | anyonyAMzca
+saMghaTTayamAnA: | ante vidyuccakoramAlA lekhyA: | svastikollocikA
+lAjA{9 lAjjA ##Codd.##} matsyamAMsaM tathA madhubhakSANi cAdadhIni{10 ca divyAni ##B.##} | udArazcAtra bali:
+kartavya: | tato dharmmabhANakena zucinA zucivastraprAvRtena vAtamaNDali-
+parivarta: sa nAgahRdayo vAcayitavya: | tato nAgA: prathamadivasamArabhya
+gulugulazabdaM kurvanti | zabdAMzca ramaNIyAn nadanti na cAsya parivartasya 
+visaMvAda AjJA vA |
+@309
+[##English matter##]
+@310
+samudro yadi velAmatikramet tato vRSTiriyamatikramediti{2 ##Cf. Divyavadana, p. 96. Apyevatikramed velam sagaro makara-
+layah, na tu vaineyavatsanam Buddho velam atikramet. Should we
+restore apyeva for the somewhat awkward and obscure## AjJA vA
+##above?##} || nama:
+zrIgarbhakUTavinarditarAjAya tathAgatAyArhate samyaksambuddhAya |
+(##Then about twenty similar invocations to Tathagatas, each
+“arhate samyaksambuddhaya.”)##
+namo bhagavate mama svasti bhavatu sarvasattvAnAM maitrI bhavatu | sarvabhUteSva-
+bhayaM bhavatu | sarvatiryyaggatAnAM zAmyantu sarvadurgataya: | nama: sarvanivAra-
+NaviskambhiNe{3 ##For the five nivaranas, cf. Dhammapada, 345; for the compd. cf. 
+Childers, s. v. vikkhambanam.##} | sidhyatvayaM sarvatathAgatavidhi: | sarvabuddhAvaloki{4 avalokina^ ##MS.##}tavi-
+dhi: | tadyathA | sphaTa 7 svAhA{5 ##Haec clausula 'rubrica' apud B. cf. p. 306'.##} | ya: kazcicchirasnAta: | bhikSurvA bhikSu-
+NI{6 bhikSunirvA ##A.##} vA | upAsako vA | upAsikA vA zucivastraprAvRto maitracitta: |
+imAni tathAgatanAmAni likhitvA zucinyAsane sthApayitvA saptadhUpaka-
+TacchukAmutkSipedAkAze{7 ##The form## kaTacchukA ##seems new : katachchha is a ....
+in Skt. and common in Pali.##} | paJcapaJcavArAMstathAgatanAmAni parivarttayet |
+mahatIM pUjAM kRtvA anAvRSTau saptAhamavyavacinnaM pravartayitavyaM | devo varSa-
+yiSyati | iti zrImahAmeghAd{8 ##Om.## zrI ##A.##} mahAyAnasUtrAdvAtamaNDalIparivarta: 
+paJcaSaSTitama: samApta: ||
+
+

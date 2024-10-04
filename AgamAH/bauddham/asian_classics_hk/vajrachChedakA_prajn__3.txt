@@ -1,0 +1,1762 @@
+@089
+##PART II
+The Manuscript of the## VajracchedikA
+##Found at Gilgit
+An Annotated Transcription and Translation
+by Gregory Schopen
+Table of Contents to Part II
+Abbreviations and Bibliography...91
+Introductory Note...95
+Transcription of the Gilgit Text...99
+Textual Notes...109
+Translation of the Gilgit Text...123
+Notes
+Notes to the Introduction...133
+Notes to the Translation...133
+@091
+ABBREVIATIONS AND BIBLIOGRAPHY
+Abbreviations and Special Transcriptions Used in the Edition
+and Textual Notes
+Chak: Chakravarti 1956.
+Cz: Conze 1974.
+Du: Dutt 1959.
+G: Gilgit Manuscript. Raghu Vira and Lokesh Chandra, eds. Gilgit 
+Buddhist Manuscripts (Facsimile Edition). Pt. 7.## zata-piTaka
+##Series 10(7). New Delhi: International Academy of Indian Culture,
+1974, folio 1380-93. I have also been able to use-thanks to Profes-
+sor J.W. de Jong-a printout of a microfilm of the manuscript. This 
+printout is sometimes much easier to read than the published fac-
+simile.
+Ku: ## KumArajIva’s ##Chinese translation of the## VajracchedikA. Taisho
+235. Chin-kang pan-jo po-lo-mi ching. ##Vol. 8, 748-52. The very few
+references I make to this text are all taken from Conze’s notes to his 
+edition.
+MM: Muller 1881.
+MS: manuscript; the same as G.
+Par: Pargiter 1916.
+Tib: Tibetan Translation. ‘Phags pa shes rab kyi pha rol tu phyin pa
+rdo rje gcod pa zhes bya ba theg pa chen po’i mdo. Peking Kanjur.
+Otani Reprint, vol. 21, no. 739. Photographic Reprint of the Tibetan
+Tripitaka. Kyoto: Tibetan Tripitaka Research Institute, 1958, 250-
+5-2 to 256-3-8.
+m : ##The transcription of an## akSara ##which looks like the## akSara ##for## -Na-
+##with a mark above it very like the vowel marker for e. This mark is 
+clearly intended as a kind of## virAma, ##although the value of the nasal
+is not always clear. This## akSara, ##when it appears, always occurs as a 
+@092
+word final, and often seems to be used interchangeably with## anusvAra.
+##W.: wrongly. This implies no judgment with regard to the “correctness”
+or “incorrectness” of the grammatical form, etc. It refers only to the
+readings actually found in the MS and whether or not they have been 
+accurately given by the editors. 
+.: represents a similar mark of punctuation found in the MS.
+)) : represents a similar mark of punctuation found in the MS.
+.)) : represents a similar mark of punctuation found in the MS.
+() : indistinct or damaged## akSaras.
+[ ] : ##lost or unreadable## akSaras.
+##X : lost or unreadable## akSaras ##within a word.
+Abbreviations and Bibliography 
+Aalto, Pentti. 1968. “Conditionals in Buddhist Sanskrit.” Studies in 
+South, East, and Central Asia.## zata-piTaka ##Series: Indo-Asian Lite-
+ratures, vol. 74. New Delhi: International Academy of Indian Culture, 1-9.
+BHSD: Franklin Edgerton. Buddhist Hybrid Sanskrit Dictionary. New
+Haven: Yale University Press, 1953.
+BHSG: Franklin Edgerton. Buddhist Hybrid Sanskrit Grammar. New
+Haven: yale University Press, 1953.
+Chakravarti, N. P. 1956. “The Gilgit Text of the## VajracchedikA.” ##In 
+Giuseppe Tucci, ed., Minor Buddhist Texts. Serie Orientale Roma
+IX. 1. Rome: IsMEO, 175-92.
+Conze, Edward. 1948. “Remarks on A# pAla ##Ms. in the Bodleian
+Library.” Oriental Art 1.1: 9-12. Reprint. Edward Conze, Further
+Buddhist Studies. Oxford: Bruno Cassirer, 1975: 116-24.
+----. 1962. The Gilgit Manuscript of the## ASTAdazasAhasrikAprajJA-
+pAramitA, ##chaps. 55 to 70. Serie Orientale Roma XXVI. Rome:
+IsMEO. 
+----. 1973. The Short## PrajJApAramitA ##Texts. London: Luzac and Co.
+@093
+----. 1974.## vajracchedikA prajJApAramitA. ##2d ed. Serie Orientale
+Roma XIII. Rome: IsMEO. Cited by page number.
+Coomaraswamy, Ananda K. 1977.## “SaMvega: ##Aesthetic Shock.” 
+Reprint. In Roger Lipsey, ed., Coomaraswamy, 1: Selected Papers:
+Traditional Art and Symbolism. Bollingen Series, no. 89. Princeton:
+Princeton University Press, 179-85.
+de Harlez, Charles. 1891.## “vajracchedikA (prajJApAramitA) ##traduite du
+texte sanscrit avec comparaison des versions chinoise et mand-
+choue.” Journal Asiatique (8th series) 18.##
+Demieville, Paul. 1937. “Butsudo.” In Hobogirin. ##3d fasc. Paris:
+Librarie d’Amerique et d’Orient Adrien Maisonneuve, 198-203.##
+DIgha-NikAya. ##Edited by Thomas W. Rhys Davids and Joseph
+E. Carpenter. 3 vols. London: Pali Text Society, 1890-1911.
+Dutt, Nalinaksha, ed. 1959. Gilgit Manuscripts. Vol. IV. Calcutta: J. C.
+Sarkhel/Calcutta Oriental Press. Reprint. Bibliotheca Indo-
+Buddhica 24. Delhi: Sri Satguru, 1984, 139-70.
+ed.: edited, editor, edition.
+f./ff.: and following.
+Filliozat, Jean. 1980. “Sur le domaine zemantique de## puNya.” In
+Indianisme et Bouddhisme: Melanges offerts a Mgr. Etienne
+Lamotte. Louvain-la-Neuve: Institut Orientaliste, Universite
+Catholique de Louvain. 
+fo.: folio.
+Hara Minoru. 1967-68. “Transfer of Merit.” The Adyar Library Bul-
+letin, nos. 31-32. Dr. V. Raghavan Felicitation Volume, 382-411.
+----. 1970. “Tapo-dhana.” Acta Asiatica 19: 58-76.
+Ingalls, Daniel H. H. 1962. “Cynics and## pAzupatas: ##The Seeking of 
+Dishonor.” The Harvard Theological Review 55: 281-98.
+Kern, Hendrik and Nanjio Bunyiu. 1908-12.## SaddharmapuNDarIka.
+##Bibliotheca Buddhica 10. St. Petersburg: Imperial Academy of 
+Sciences. Reprint. Osnabruck: Biblio Verlag, 1970.
+La Vallee Poussin, Louis de. 1923-31.## L’Abhidharmakoza ##de##
+Vasubandhu. ##Paris: Paul Guethner. Reprint. Melanges chinois et
+bouddhiques, vol. 16. Brussels: Institut Belge des Hautes Etudes
+Chinoises, 1971.
+@094
+Lamotte, Etienne. 1962. L’Enseignement de## VimalakIrti. ##Bibliotheque
+du Museon, tome 51. Louvain: Publications Universitaires/Institut
+Orientaliste.
+Lorenzen, David N. 1972. The## KApAlikas ##and## KAlAmukhas. ##Berkeley:
+University of California Press.
+Masuda Jiryo. 1930. “saptazatikA prajJApAramitA.” ##Taisho Daigaku
+Gakuho 6-7.
+Muller, F. Max. 1881. Buddhist Texts from Japan. Anecdota Oxonien-
+sia: Aryan Series, vol. 1, pt. 1. Oxford: Clarendon Press, 19-46.
+Pargiter, F. E. 1916.## “VajracchedikA ##in the Original Sanskrit.” In A. F.
+Rudolf Hoernle, ed., Manuscript Remains of Buddhist Literature
+Found in Eastern Turkestan. Oxford: Clarendon Press, 176-95.
+Roerich, George. 1959. Biography of## DharmasvAmin. ##Historical
+Research Series 2. Patna: K. P. Jayaswal Research Institute.
+Rowell, Teresina. 1934-37. “The Background and Early Use of the## 
+BuddhakSetra ##Concept.” The Eastern Buddhist 6.3 (1934): 199-246;
+6.4 (1935): 379-431; 7.2 (1937): 131-76.
+Schopen, Gregory. 1975. “The Phrase## ‘sa PRthIvipradezaz caityabhUto 
+bhavet’ ##in the## VajracchedikA: ##Notes on the Cult of the Book in##
+MahAyAna.” ##Indo-Iranian Journal 17: 147-81.
+Vaidya, P. L. 1960.## ASTasAhasrikA prajJApAramitA. ##Buddhist Sanskrit
+Texts, no. 4. Darbhanga: The Mithila Institute. 
+Waldschmidt, Ernst. 1967. “Der Buddha preist die Verehrungswurdig-
+keit seiner Reliquien: Sondertext I des## MahAparinirvANasUtra.” ##In
+Ernst Waldschmidt, Von Ceylon bis Turfan. Gottingen: Vanden-
+hoeck & Ruprecht. 
+Walleser, Max. 1914.## PrajJApAramitA. ##Die Vollkommenheit der
+Erkenntnis. Gottingen: Vandenhoeck & Ruprecht; Leipzig: J. C.
+Hinrichs.
+Warder, A[nthony] K. 1971. “Dharmas and Data.” Journal of Indian
+Philosophy 1: 272-95.
+Webster’s New Collegiate Dictionary. Springfield, Mass.: G. & C. Mer-
+riam Co., 1961.
+Yuyama Akira. 1967. Indic Manuscripts and Chinese Blockprints
+(Non-Chinese Texts) of the Oriental Collection of the Australian
+National University Library, Canberra. Occasional Paper, no. 6.
+Canberra: Centre of Oriental Studies, Australian National University.
+@095
+INTRODUCTORY NOTE*{The initial work for this text edition and translation was made possible by a grant from
+the Translations Program of the National Endowment for the Humanities, an independent
+federal agency.}
+Since the Gilgit manuscript of the## VajracchedikA ##has already been
+edited twice, the reasons for another edition may not be altogether
+apparent. There are, however, several good reasons for a reedition. First
+of all, the manuscript of the## VajracchedikA-##which contains in addition
+three other texts-is one of the most carefully written of the Gilgit finds.
+In the introduction to his edition Chakravarti, for example, notes with 
+regard specifically to the text of the## VajracchedikA ##that the manuscript 
+“is remarkably free from errors....The few mistakes which occur are 
+mainly orthographical or are due to oversight.”1 The Gilgit text of the## 
+VajracchedikA ##is, in fact, a fine example of what A# PrajJApAramitA ##text
+in Sanskrit prose actually looked like in the sixth or seventh century, as 
+opposed to how we-under the watchful eye of## PANini ##and the influence
+of the expectations derived from much later, mostly Nepalese, manu-
+script traditions-might think it should have looked. In consequence
+the manuscript has considerable significance for the history of the
+“style” of this literature, as well as for the history of the language as it 
+was actually written. This is especially so in regard to syntax and the 
+use of sandhi and sandhi forms.
+But, if all of this is true, then it is of some importance to have as 
+accurate an edition of the manuscript as is possible, and this brings us to 
+a second good reason for making another edition of the text: both of the 
+previous editions are full of mistakes and distortions. Since all of these 
+will be signaled in my notes, there is no reason to cite them here and we 
+might simply note the broad types of errors that occur in the editions.
+In Chakravarti’s editions, for example, in less than ten pages of 
+romanized Sanskrit there are at least twenty-nine cases in which the 
+manuscript has, correctly, a long vowel, which Chakravarti reads or 
+prints, incorrectly, as a short vowel. There are at least seven cases in 
+which the opposite occurs, that is, what in the manuscript is, correctly, a 
+short vowel is printed in Chakravarti’s edition, incorrectly, as a long 
+@096
+vowel (virtually all of these mistakes occur at the ends of words and 
+involve case endings, gender and number distinctions, etc.). There are at 
+least six cases in which the manuscript has, correctly, a plural verb form, 
+but in which Chakravarti prints, incorrectly, a singular. There are at
+least thirty-two cases in which Chakravarti omits an## anusvAra ##found in
+the manuscript, printing an -m instead, and at least nine places where 
+Chakravarti’s edition omits entire words which are found in the manu-
+script. Although I know very well from experience that some mistakes 
+are always made in working from manuscripts, this, I think, is a little 
+excessive. 
+Dutt’s edition is equally problematic and gives an equally distorted
+impression of the manuscript. He, for example, completely misrepre-
+sents the sandhi found in the manuscript. There are at least thirty- 
+seven cases in which a perfectly correct sandhi in the manuscript is 
+printed by Dutt as an unresolved hiatus (-y + a- printed as -i a- eight
+times; -e- printed -a i- five times;## - A- printed as –a a- ten times;
+-ai- printed as -a e- four times;-o- printed as –a u- seven times,
+etc.). His treatment of## anusvAra ##and the nasals is equally problematic.
+In addition to this, there are five places where he adds words-once a 
+whole line-which are not found in the manuscript, four places where he 
+omits words-again, in one case a whole line-which occur in the manu-
+script, and in four more places he brackets words which actually occur in 
+the manuscript. 
+There are yet other reasons for undertaking a new edition of the Gil-
+git text. Its appearance might serve to stimulate a badly needed critical
+investigation and revision of other editions of the text. The edition of 
+the late Edward Conze, for instance, has become the standard one, and 
+has recently been reprinted. Yet it is of very dubious value from a text-
+critical point of view. Conze’s edition, for example, is badly conflated.
+He mixes texts of clearly different recensions and widely different dates,
+and does so with a high degree of arbitrariness. He says in his introduc-
+tion that the text he wants to present “is substantially that of Max
+Muller” which “is based on three documents, all comparatively late.”2
+But at 14b, for example, he reads## na mama bhagavan## duSkaram.
+DuSkaram ##is not the reading in any of Muller’s three sources, the Gilgit
+text or the Tibetan translation. All of these sources read## Azcaryam (ngo
+mtshar). ##In spite of this, and without any stated justification, Conze
+adopts the reading found in Pargiter’s Central Asian manuscript (which
+is probably a thousand years earlier than the manuscripts on which 
+Conze’s basic text is based) and the “reading” found in## KumArajIva’s
+##translation. This, of course, is not a terribly significant example, but it is 
+typical of one aspect of Conze’s methodology. We might look at another
+@097
+case which underscores even more clearly the arbitrary nature of Conze’s
+editorial procedures. At the end of his 17c he omits an entire passage
+which is found in Muller’s edition (i.e., Conze’s basic text), because it is 
+not found in## KumArajIva, ##Pargiter or the Tibetan text. It is also not 
+found in the Gilgit text (although Conze fails to note this) and therefore
+we can “infer,” he says, that it “is a later addition which has crept into 
+the text after 800 A.D.”3 He also adds that “it is also doctrinally suspect
+... contradicting the whole of Buddhist tradition” and, he says else-
+where, “the idea is contrary to the tradition of the## PrajJApAramitA.”4
+##Obviously, if each editor were allowed to exclude passages which con-
+tradicted what he thought was “the whole of Buddhist tradition” or "the
+tradition of the## PrajJApAramitA,” ##the resulting text would be little more 
+than a personal document. If, on the other hand, Conze excludes the 
+passage primarily on the grounds that it does not occur in## kumArajIva,
+##Pargiter, the Tibetan and Gilgit texts, then he must also exclude pas-
+sages like## evaM parityajan gaGgAnadIvAlukAsamAn kalpAMs tAn Atma-
+bhAvAn parityajet ##at 13e,## ‘grayAnasaMprasthitAnAM sattvAnAM arthAya
+zreSThayAnasaMprasthitAnAM arthAya ##at 14a or any number of other 
+passages, each of which is omitted in all four sources. 
+In regard more specifically to the Gilgit text it should be noted that 
+Conze’s notes to his edition reproduce all the errors in Chakravarti’s edi-
+tion, and that there are a number of cases in which Conze’s notations in 
+regard to the Gilgit text are wrong or misleading. For example, at 15b he 
+notes that## na-abodhisattva-pratijJai: sattvai: zakyam ayaM dharma-
+paryAya: ##is missing in the Tibetan translation, but he does not note that
+it is also missing in the Gilgit text. Clearly, then, the text established by
+Professor Conze can only be used with the greatest circumspection, and 
+a new critical edition is badly needed. The discovery of three new manu-
+scripts of the## VajracchedikA ##in Nepal makes such an edition even more 
+desirable.5
+Given the fact that the Gilgit manuscript of the## VajracchedikA
+##represents both an early and a well-written text, and given the fact that
+one of my primary purposes is to provide a readily available example of 
+what A# PrajJApAramitA ##text in the sixth or seventh century actually
+looked like, I have chosen to present, not an edition of the manuscript,
+but a transcription. I have added a series of notes-in the most eco-
+nomical way possible-signaling the errors and silent alterations which 
+appear in Chakravarti’s and Dutt’s editions. I have offered virtually no 
+emendations, conjectures or “corrections.” The text stands almost 
+exactly as it occurs in the manuscript. This is true of the punctuation as 
+well. I have simply reproduced the punctuation found in the manuscript, 
+which is, I might add, usually good. I have added no grammatical or syn-
+@098
+tactical notes, although there are things of interest which fall into both
+categories, nor have I catalogued sandhi forms. I have, in fact, done very
+little except try to present as accurately as possible the text as it is found 
+in the manuscript.
+In presenting the transcription I have, for the sake of economy, not 
+used footnoting or footnote numbers. I first give the transcription of the 
+folios line by line. The second section of the article consists of a series of 
+notes for each line of each folio indicating the misreadings and errors
+concerning that line found in the published editions. The word or words 
+in my transcription that have been wrongly read or printed by Chakra-
+varti, Dutt, etc., are signaled in these notes by bold face type, and they 
+are followed by statements giving the reading found in Chakravarti,
+Dutt, etc. 
+In addition to the transcription and notes, I have provided a transla-
+tion. The translation is included for two basic reasons: first, to allow 
+those who cannot read Sanskrit, but who are interested in the text, to be 
+able to see what an early version of this text looked like and, second,
+because I think, rightly or wrongly, that the available English transla-
+tions of this text can be usefully supplemented by another interpreta-
+tion. That, in the end, is what every translation is. The first of these 
+reasons has also very largely determined the kind of translation I have 
+given. Apart from having paraphrased some recurring rhetorical 
+phrases, I have tried, in the main, to stay as close to the text as possible.
+This procedure has, I hope, preserved some of the “style” of the original.
+It has, I know, resulted in what might most politely be called a 
+“Sanskritic” English. I can here only repeat the words of an obscure 
+scholar writing some years ago: “In reference to the translation given 
+here, it should be noted first that it was not intended to be beautiful. In 
+this, I am afraid, I have succeeded beyond even my greatest expectations."
+
+I have added to the translation a few notes, especially where there
+are textual uncertainties or where I thought a particular point needed 
+further interpretation. The notes are obviously incomplete and clearly 
+reflect my own particular interests. 
+@099
+##TRANSCRIPTION OF THE GILGIT TEXT
+Folio 5a (G 1380; Chak 182.1-183.11; Du 151.3-152.15; MM 29.6-30.11;
+Cz 38.6-39.20; Par 182.10-183.10; Tib 253.1.3-2.5)##
+1. –ta: bhagavAn Aha . yA(vat) subhUt(e) tr(i)sAhasra-mahAsAhasre
+lokadhAtau pRthivIraja: kaccit tad vahu. Aha. bahu bhagavan
+tat pRthivIraja: arajas tathAgatena bhASitas tenocyate pRthivI-
+2. –raja iti . yo ’py asau lokadhAtur adhAtu: sa tathAgatena bhASitas
+tenocyate lokadhAtur iti .)) bhagavAn Aha. tat kiM manyase 
+subhUte dvAtRMzatA mahApuruSalakSaNais tathAgato draSTavya:
+3. Aha. no bhagavaMs tat kasya heto tAni tAni dvAtriMzan mahA-
+puruSalakSaNAni tathAgatena bhASitAny alakSaNAni tenocyante
+dvAtriMzan mahApuruSalakSaNAnIti. bhagavAn Aha . yaz ca kha-
+4. –lu pu(na): subhUte strI vA puruSo vA gaMgAnadIbAlukopamAna
+AtmabhAvAn parityajed yaz ceto dharmaparyAyAd antazaz catuS-
+padikAm api gAthAm udgRhya parebhyo dezayed ayam e-
+5. –va tato nidAnaM bahupuNyaM prasavetAprameyam asaMkhyeyaM 
+)) atha khalv AyuSmAM subhUtir dharmapravegenAsrUNi
+prAmuMcat so ‘srUNi prAmRjya bhagavantam etad av(o)cat A-
+6. -zcaryaM bhagavan paramAzcaryaM sugata . yAvad ayaM dharma-
+paryAyas tathAgatena bhASito yato me bhagavaM jJAnam
+utpannaM na me jAtv ayaM dharmaparyAya: zrUtapUrva:
+parameNa
+7. (t)e (bhaga)van(n) Azcaryena samanvAgatA bhaviSyanti ya iha sUtre 
+bhASyamANe bhUtasaMjJAm utpAdayiSyanti . yA caiSA bhagavan 
+bhUtasaMjJA saivAx-M(j)-x-A xsmAt tathAgato bhASate 
+@100
+##Folio 5b (G 1381; Chak 183.12-184.9; Du 152.15-154.11; MM 30.12-
+32.1; Cz 39.20-41.19; Par 183.10-184.20; Tib 253.2.5-3.8)##
+1. (bh)Uxxx(bh)UtasaMjJeti . na me bhagavann AzcaryaM yad aham
+imaM dharmaparyAyaM bhASyamANam avakalpayAmy adhimucya.
+ye te bhagavan satvA imaM dharmaparyAya(m) u(d)gra(h)ISya(n)ti
+.yAva(t pa)ryavApsya-
+2. –nti. te paramAzcaryasamanvAgatA bhaviSyanti. api tu khalu
+punar bhagavan na teSAm AtmasaMjJA pravartsyate. na satva-
+saMjJA na jIvasaMjJA na pudgalasaMjJA. tat kasya heto: sarva-
+saMjJA(pagatA hi)
+3. buddhA bhagavanta: bhagavAn Aha. evam etat subhUte paramAz-
+caryasamanvAgatAs te bhaviSyanti ya imaM dharmaparyAyaM 
+zrutvA nottrasiSyanti . na saMtrasiSyanti . na sa(M)trA(sam Apatsya-)
+
+4. –nte . tat kasya heto: paramapAramiteyaM subhUte tathAgatena
+bhASitA. yAM ca tathAgata: paramapAramitAM bhASate . tAm
+aparimANA buddhA bhagavanto bhASante . te(n)oc(yate) pa-
+5. –ramapAramiteti . )) api tu khalu puna: subhUte ya tathAgatasya
+kSAntipAramitA saivApAramitA . tat kasya heto: yadA subhUte kali-
+rAjAGgapratyaMgamAMsAny acchaitsIt nAsI-
+6. –n me tasmin samaye AtmasaMjJA vA satvasaMjJA vA jIvasaMjJA
+vA pudgalasaMjJA vA. vyApAdasaMjJA vApi me tasmin samaye
+'bhaviSyad abhijAnAmy ahaM subhUte atIte 'dhvani paMca jAtiza-
+7. –tAni yo ‘haM kSAntivAdI RSir abhUvaMs tatrApi me nAtmasaMjJA-
+bhUn na satvasaMjJA na jIvasaMjJA na pudgalasaMjJA . tasmAt
+tarhi subhUte bodhisatvena mahAsatvena sarvasaMjJA varjayitvA
+##Folio 7a (G 1382; Chak 184.9-185.4; Du 156.14-157.13; MM 34.2-35.2;
+Cz 44.6-45.11; Par 186.11-187.7; Tib 253.5.7-254.1.7)##
+1. –rimANena . sarve te satvA mamAMsena bodhiM dhArayiSyanti .
+tat kasya heto: na hi zakyaM subhUte ayaM dharmaparyAyo hInA-
+dhimuktikai: satvai: zrotuM . nAtmadRSTikair na satvajIvapu-
+2. –dgaladRSTikai: zakyaM zrotuM udgrahItuM vA . yAvat paryavA-
+ptuM vA nedaM sthAnaM vidyate . api tu khalu puna: subhUte 
+yatra pRthivIpradeze idaM sUtraM prakAzayiSyati . pUjanIya: sa
+@101
+3. pRthivIpradezo bhaviSyati . sadevamAnuSAsurasya lokasya vanda-
+nIya: pradakSiNIkaraNIyaz caityabhUta sa pRthivIpradezo bhavi-
+Syati . ye te subhUte kulaputrA 
+4. vA kuladuhitaro vA . imAn evaMrUpAn sUtrAntAn udgrahISyanti 
+yAvat paryavApsyanti . te paribhUtA bhaviSyanti suparibhUtA:
+yAni ca teSAM satvAnAM pUrvajanmikAny azubhAni ka-
+5. –rmANy apAyasaMvartanIyAni tAni dRSTa eva dharme paribhUtatayA
+kSapayiSyanti buddabodhiM cAnuprApsyanti . abhijAnAmy ahaM
+subhUte atIte ‘dhvany asaM(khy)e(y)ai(:) kalpai(r) (a)saMkhyeya-
+6. –tarair ddIpaMkarasya tathAgatasyArhata: samyaksaMbuddhasya
+pareNa caturazItir buddhakoTIniyutazatasahasrANy abhUvan yAni
+mayA ArAgitAni ArAgya ca na virAgitAni .
+##Folio 7b (G 1383; Chak 185.4-27; Du 157.13-159.2; MM 35.2-36.3; Cz
+45.11-47.5; Par 187.7-deest; Tib 254.1.7-2.6)##
+1. yac ca mayA subhUte te buddhA bhagavanta ArAgya na virAgitA yac
+ca carime kAle pazcimAyAM paMcAzatyAM varttamAnAyAm imAM 
+sUtrAntAn udgrahISyanti . yAvat paryavApsyanti . asya subhU-
+2. –te puNyaskandhasyAsau pUrvaka: puNyaskandha: zatatamIm api 
+kalAn nopaiti . sahasratamIm api . zatasahasratamIm api . saM-
+khyAm api kalAm api gaNanAm apy upamAm apy upa-
+3. –nizAm api na kSamate . sacet subhUte teSAM kulaputrANAM
+kuladuhitrINAM ca puNyaskandhaM bhASeyaM yAvantas te satvA
+kulaputrA: kuladuhitaraz ca tasmin samaye puNya-
+4. –skandhaM parigrahISyanti . unmAdaM satvA anuprApnuyuz citta-
+vikSepaM vA gaccheyu: api tu khalu puna: subhUte acintyo ‘yaM 
+dharmaparyAya: asyAcintya eva vipAka:))
+5. Aha . kathaM bhagavan bodhisatvayAnasaMprasthitena sthAta-
+vyaM kathaM pratipattavyaM kathaM cittaM pragRhItavyaM . 
+bhagavAn Aha . iha subhUte bodhisatvayAnasaMprasthitenaivaM 
+cittam utpA-
+6. –dayitavyaM sarvasatvA mayA anupadhizeSe nirvANadhAtau 
+parinirvApayitavyA: evaM ca satvAn parinirvApya na kazcit satva: 
+parinirvApito bhavati . tat kasya heto: sace-
+@102
+##Folio 8a (G 1384; Chak 185.27-186.22; Du 159.2-160.10; MM 36.3-
+37.16; Cz 47.5-49.5; Par deest-188.10; Tib 254.2.6-4.4)##
+1. –t subhUte bodhisatvasya satvasaMjJA pravartteta . jIvasaMjJA
+pudgalasaMjJA vA na sa bodhisatva iti vaktavya: tat kasya heto: 
+nAsti subhUte sa dharmo yo bodhisatvayAnasaMprasthito nAma .
+tat kiM manya-
+2. –se subhUte asti sa kazcid dharmo yas tathAgatena dIpaMkarasya
+tathAgatasyAntikAd anuttarAM samyaksaMbodhim abhisaMbud-
+dha: Aha . nAsti sa bhagavan kazcid dharmo yas tathAgatena
+dIpaMkara-
+3. -sya tathAgatasyAntikAd anuttarA samyaksaMbodhim abhisaMbud-
+dha: Aha . tasmAd ahaM dIpaMkareNa tathAgatena vyAkRto
+bhaviSyasi tvaM mANavAnAgate 'dhavani zAkyamunir nAma tathA-
+4. –gato ‘rhan samyaksaMbuddhas tat kasya hetos tathAgata iti 
+subhUte tathatAyA etad adhivacanaM ya: kazcit subhUte evaM 
+vadet tathAgatenAnuttarA samyaksaMbodhir abhisaMbuddheti .
+5. nAsti subhUte sa kazcid dharmo yas tathAgatenAnuttarA samyak-
+saMbodhir abhisaMbuddha: ya: subhUte tathAgatena dharmo
+‘bhisaMbuddhas tatra na satyaM na mRSA: tasmAt tathAgato 
+bhASate . sarva-
+6. –dharmA buddhadharmA iti . sarvadharmA iti subhUte sarve te 
+adharmAs tenocyante sarvadharmA iti . )) tadyathApi nAma
+subhUte puruSo bhaved upetakAyo mahAkAya: subhUtir Aha . yo
+##Folio 8b (G 1385; 186.22-187.15; Du 160.10-162.1; MM 37.16-39.2; Cz
+49.5-50.14; Par 188.10-189.9; Tib 254.4.4-255.1.1)##
+1. ‘sau tathAgatena puruSo bhASita upetakAyo mahAkAya: akAya: sa
+bhagavaMs tathAgatena bhASitas tenocyate upetakAyo mahAkAya: 
+bhagavAn Aha. evam etat subhUte
+2. yo bodhisatva evaM vaded ahaM satvAn parinirvApayiSyAmIti . na
+sa bodhisatva iti vaktavya: tat kasya heto: asti subhUte sa kazcid
+dharmo yo bodhisatvo nAma . Aha . no hIdaM bha-
+3. –gavan bhagavAn Aha . tasmAt tathAgato bhASate ni:satvA: sarva-
+dharmA: nirjIvA niSpudgalA: ya: subhUte bodhisatva evaM vaded 
+ahaM kSetravyUhAn niSpAdayiSyAmIti . so ’pi tathaiva
+@103
+4. vaktavya: tat kasya heto: kSetravyUhA: kSetravyUhA iti subhUte 
+avyUhAs te tathAgatena bhASitAs tenocyante kSetravyUhA iti . ya: 
+subhUte bodhisatvo nirAtmAno dharmA nirA-
+5. –tmAno dharmA ity adhimucyate sa tathAgatenArhatA samyaksaM-
+buddhena bodhisatvo bodhisatva ity A(khyAta)s tat kiM manyase 
+subhUte saMvidyate tathAgatasya mAMsacakSu: Aha . evam etad bha-
+
+6. –gavan saMvidyate tathAgatasya mAMsacakSu: )) bhagavAn Aha .
+tat kiM manyase subhUte saMvidyate tathAgatasya divyaM cakSu: 
+prajJA(ca)kSur dharmacakSur buddhacakSu: Ahaivam etad bhaga-
+van saMvidyate ta-
+##Folio 9a (G 1386; Chak 187.14-188.7; Du 162.1-163.5; MM 39.2-40.8;
+Cz 50.14-52.14; Par 189.10-190.7; Tib 255.1.1-2.1)##
+1. –thAgatasya divyaM cakSu: prajJAcakSur dharmacakSur buddha-
+cakSu: )) bhagavAn Aha . tat kiM manyase subhUte yAvantyo
+gaMgAnadyAM bAlukAs tAvantya gaMgAnadyo bhaveyus tAsu yA 
+bAlukAs tAvanta eva lo-
+2. –kadhAtavo bhaveyu: kaccid bahavas te lokadhAtavo bhaveyu: 
+bhagavAn Aha . yAvanta: subhUte teSu lokadhAtuSu satvAs teSAm
+ahaM nAnAbhAvAM cittadhArAM jAnIyAs tat kasya heto-
+3. -z cittadhArA cittadhArA iti subhUte adhArAs tAs tathAgatena bhASi-
+tAs tenocyante cittadhArA iti . tat kasya hetor atItaM subhUte 
+cittaM nopalabhyate . anAgataM cittaM nopalabhya-
+4. –te . pratyutpannaM nopalabhyate . tat kiM manyase subhUte ya
+imaM trisAhasramahAsAhasraM lokadhAtuM saptaratnaparipUrNaM
+kRtvA dAnan dadyAd api nu sa kulaputro vA kuladu-
+5. –hitA vA tato nidAnaM bahu puNyaM prasaveta . Aha. bahu
+bhagavan bahu sugata . bhagavAn Aha . evam etat subhUte evam
+etad vahu sa kulaputro vA kuladuhitA vA tato nidAnaM
+6. bahu puNyaM prasaveta . sacet subhUte puNyaskandho ‘bhaviSyan
+na tathAgato ‘bhASiSyat puNyaskandha: puNyaskandha iti . tat
+kiM manyase subhUte rUpakAyapariniSpattyA tathAgato dra-
+@104
+##Folio 9b (G 1387; Chak 188.8-189.21; Du 163.5-164.9; MM 40.8-41.9;
+Cz 52.14-54.1; Par 190.7-191.7; Tib 255.2.1-3.3)##
+1. –STavya: Aha . no bhagavan na rUpakAyapariniSpattyA tathAgato 
+draSTavya: tat kasya heto: rUpakAyapariniSpattI rUpakAyapariniS-
+pattir ity apariniSpattir eSA tathAga-
+2. -tena bhASitA tenocyate rUpakAyapariniSpattir iti . bhagavAn Aha
+. tat kiM manyase subhUte lakSaNasaMpadA tathAgato draSTavya:
+Aha . no bhagavan na lakSaNasaMpadA tathAgato 
+3. draSTavya: tat kasya heto: yaiSA lakSaNasaMpat tathAgatena
+bhASitA alakSaNasaMpad eSA tathAgatena bhASitA tenocyate 
+lakSaNasaMpad iti . bhagavAn Aha . tat kiM ma-
+4. –nyase subhUte api nu tathAgatasyaivaM bhavati na mayA dharmo
+dezita iti . ya: subhUte evaM vadet tathAgatena dharmo dezita iti
+. abhyAcakSIta mAM sa subhUte asatAd u-
+5. –dgRhItena . tat kasya hetor dharmadezanA dharmadezaneti
+subhUte nAsti sa kazcid dharmo yo dharmadezanA nAmopalabhyate 
+. AhAsti bhagavan kecit satvA bhaviSyanty anAgate 'dhvani ya imA-
+6. -n evaMrUpAn dharmAn (bhASyamA)NAM cchrutvAbhizraddadhA-
+syanti . bhagavAn Aha . na te subhUte satvA nAsatvAs tat kasya
+heto: sarvasatvA iti subhUte asatvAs te tathAgatena bhASitAs teno-
+##Folio 10a (G 1388; Chak 188.30-189.21; Du 164.9-165.12; MM 41.9-
+42.7; Cz 54.1-55.8; Par 191.7-192.3; Tib 255.3.3-4.3)##
+1. -cyante sarvasatvA iti. tat kiM manyase subhUte api tv asti sa 
+kazcid dharmo yas tathAgatenAnuttarA samyaksaMbodhir abhisaM-
+buddha: Aha. nAsti sa bhagavan kazcid dharmo yas tathAgate-
+2. –nAnuttarA samyaksaMbodhir abhisaMbuddha: bhagavAn Aha .
+evam etat subhUte evam etat aNur api tatra dharmo na saMvidyate 
+nopalabhyate tenocyate 'nuttarA samyaksaMbodhir iti . a-
+3. –pi tu khalu puna: subhUte sama: sa dharmo na tatra kiMcid
+viSamas tenocyate 'nuttarA samyaksaMbodhir iti . nirjIvatvena
+ni:satvatvena niSpudgalatvena samA sAnuttarA samyaksaMbo-
+4. –dhi: sarvai: kuzalair dharmair abhisaMbudhyate . kuzalA 
+dharmA: kuzalA dharmA iti subhUte adharmAz caiva te tathAgatena
+bhASitAs tenocyante kuzalA dharmA iti . yaz ca kha-
+@105
+5. -lu puna: subhUte yAvantas trisAhasramahAsAhasre lokadhAtau
+sumerava: parvatarAjAs tAvato rAzIn saptAnAM ratnAnAm abhisaM-
+hRtya dAnaM dadyAd yaz ceta: prajJApAramitA-
+6. –yA antazaz catuSpadikAm api gAthAm udgRhya parebhyo dezayed
+asya subhUte puNyaskandhasyAsau pUrvaka: puNyaskandha: zata-
+tamIm api (ka)lAn nopaiti . yAvad upani-
+##Folio 10b (G 1389; Chak 189.21-190.11; Du 165.12-166.14; MM 42.7-
+43.7; Cz 55.8-56.20; Par 192.3-192.21; Tib 255.4.3-5.4)##
+1. –zAm api na kSamate . tat kiM manyase subhUte api nu tathAgata-
+syaivaM bhavati . mayA satvA mocitA iti . na khalu puna: 
+subhUte-r-evaM draSTavyaM . tat kasya heto: na sa kazcit sa-
+2. –tvo yas tathAgatena mocita: yadi puna: subhUte kazcit satvo 
+’bhaviSyad yas tathAgatena mocita: sa eva tasyAtmagrAho 
+’bhaviSyat satvagrAho jIvagrAha: pudgalagrAha: 
+3. AtmagrAha iti subhUte agrAha eSa tathAgatena bhASita: sa ca 
+bAlapRthagjanair udgRhIta: bAlapRthagjanA iti subhUte ajanA ete
+tathAgatena
+4. bhASitAs tenocyaMte bAlapRthagjanA iti . tat kiM manyase subhUte 
+lakSaNasaMpadA tathAgato draSTavya: Ahaivam etad bhagaval
+lakSaNasaMpadA tathAgato draSTavya: 
+5. bhagavAn Aha . sacet puna: subhUte lakSaNasaMpadA tathAgato 
+dra[STa]vyo ’bhaviSyad rAjApi cakravartI tathAgato ’bhaviSyat Aha .
+yathAhaM bhagavato bhASitasyArtham AjA-
+6. –nAmi . na lakSaNasaMpadA tathAgato draSTavya: )) atha khalu 
+bhagavAMs tasyAM velAyAm imA gAthA abhASata: )) ye mAM rUpeNa
+adrAkSur ye mAM ghoSeNa anvayu: mithyA-
+##Folio 11a (G 1390; Chak 190.12-191.4; Du 166.14-168.3; MM 43.7-44.6;
+Cz 56.20-59.1; Par 192.21-193.13; Tib 255.5.4-256.1.4)##
+1. –prahANaprasRtA na mAM drakSyanti te janA: draSTavyo dharmato
+buddho dharmakAyas tathAgata: dharmatA cApy avijJeyA na sA
+zakyaM vijAnituM )) tat kiM manyase subhUte lakSaNasaMpadA
+tathA-
+@106
+2. -gatenAnuttarA samyaksaMbodhir abhisaMbuddhA: na khalu
+puna: subhUte evaM draSTavyaM na subhUte lakSaNasaMpadA
+tathAgatenAnuttarA samyaksaMbodhir abhisaMbuddhA . yat khalu 
+pu-
+3. -na: subhUte syAd evaM bodhisatvayAnasaMprasthitai: kasyacid
+dharmasya vinAza: prajJApta ucchedo vA na khalu puna: subhUte 
+evaM draSTavyaM . na bodhisatvayAnasaMprasthitai: ka-
+4. -syacid dharmasya vinAza: prajJApto noccheda: yaz ca khalu
+puna: subhUte kulaputro vA kuladuhitA vA gaMgAnadIbAlukopamAl
+lokadhAtUn saptaratnapratipUrNAn kRtvA (tathA-) 
+5. –gatebhyo ’rhadbhya: samyaksaMbuddhebhyo dAnaM dadyAd yaz
+ca bodhisatvo nirAtmakeSu dharmeSu kSAntiM pratilabheta . ayam 
+eva tato bahutaraM puNyaM prasaveta . na khalu puna: subhUte 
+bo [dhi]-
+6. -satvena puNyaskandha: parigrahItavya: Aha . puNyaskandho
+bhagavan parigrahItavya: bhagavAn Aha . parigrahItavya: 
+subhUte nodgrahItavya: tenocyate pa(r)igra[hItavya:]
+##Folio 11b (G 1391; Chak 191.5-26; Du 168.3-169.4; MM 44.7-45.4; Cz
+54.1-60.7; Par 193.13-194.5; Tib 256.1.4-2.4)##
+1. api tu khalu puna: subhUte ya: kazcid evaM vadet tathAgato
+gacchati vAgacchati vA . tiSThati vA niSIdati vA zayyAM vA kalpayati
+. na me sa bhASitasyArtham AjAnAti . tat ka(sya) [heto:]
+2. tathAgata iti subhUte na kutazcid Agato na kvacid gata: tenocyate 
+tathAgato ’rhan samyaksaMbuddha iti . yaz ca khalu puna:
+subhUte kulaputro vA kuladuhitA vA yAvantas trisAhasra[mahA-]
+3. –sAhasre lokadhAtau pRthivIrajAMsi tAvato lokadhAtUn maSiM
+kuryAt tadyathApi nAma paramANusaMcayas tat kiM manyase 
+subhUte bahu sa paramANusaMcayo bhavet Ahai-
+4. –vam etad bhagavan bahu sa paramANusaMcayo bhavet tat kasya
+heto: saced bhagavan saMcayo saMcayo ’bhaviSyan na bhagavAn avakSyat 
+paramANusaMcaya iti . tat kasya heto: yo ’sau paramA-
+5. –NusaMcayo bhASita: asaMcaya: sa bhagavatA bhASitas tenocyate
+paramANusaMcaya iti . yac ca tathAgato bhASati tRsAhasramahA-
+sAhasro lokadhAtur iti . adhAtu: sa tathA-
+@107
+6. -gatena bhASitas tenocyate trisAhasramahAsAhasro lokadhAtur iti.
+tat kasya heto: saced bhagavan dhAtur abhaviSyat sa eva bhagavan 
+piNDagrAho ’bhaviSyad yaz caiva tathAgatena pi-
+##Folio 12a (G 1392; Chak 191.27-192.15; Du 169.4-170.7; MM 45.4-46.2;
+Cz 60.7-61.12; Par 194.5-194.22; Tib 256.2.4-3.4)##
+1. –NDagrAho bhASita: agrAha: sa tathAgatena bhASitas tenocyate
+piNDagrAha iti . bhagavAn Aha . piNDagrAhaz caivAvyavahAro
+’nabhilApya: subhUte sa dharma: sa bAlapR-
+2. -thagjanair udgRhIta: tat kasya heto: ya: kazcit subhUte evaM 
+vaded AtmadRSTis tathAgatena bhASitA satvadRSTir jIvadRSTi:
+pudgaladRSTi: api nu subhUte sa samyag vadan vadet
+3. Aha . no bhagavaMs tat kasya heto: yA sA bhagavann AtmadRSTis
+tathAgatena bhASitA adRSTi: sA tathAgatena bhASitA tenocyate
+AtmadRSTir iti . bhagavAn Aha .
+4. evaM subhUte bodhisatvayAnasaMprasthitena sarvadharmA jJAta-
+vyA adhimoktavyAs tathA cAdhimoktavyA yathA na dharmasaM-
+jJApi pratyupatiSThet tat kasya heto: dharmasaMjJA
+5. dharmasaMjJeti subhUte asaMjJaiSA tathAgatena bhASitA tenocyate
+dharmasaMjJeti . yaz ca khalu puna: subhUte bodhisatvo 
+mahAsatva: aprameyAsaMkhyeyAl lokadhAtUn saptaratnapa-
+6. –ripUrNAn kRtvA dAnan dadyAd yaz ca kulaputro vA kuladuhitA vA
+ita: prajJApAramitAyA antazaz catuSpadikAm api gAthAm udgRhya
+dhArayed dezayet paryavApnuyAd a-
+##Folio 12b (G 1393; Chak 192.16-25; Du 170.7-15; MM 46.2-11; Cz
+61.12-62.8; Par 194.22-195.7; Tib 256.3.4-3.8)##
+1. -yam eva tato bahutaraM puNyaM prasavetAprameyam asaM-
+khyeyaM . kathaM ca saMprakAzayet yathA na prakAzayet teno-
+cyate saMprakAzaye iti .)) tArakA timiraM dIpo mA-
+2. –yAvazyAya budbuda: supinaM vidyud abhraM ca evaM draSTavya
+saMskRtaM .)) idam avocad bhagavAn AttamanA sthavira subhUtis
+te ca bhikSubhikSuNyupAsakopAsikA: sadevamAnuSAsu-
+3. –ragandharvaz ca loko bhagavato bhASitam abhyanandan )) . ))
+vajracchedikA prajJApAramitA samAptA: )). ))
+@108 
+BLANK
+@109
+##TEXTUAL NOTES
+Folio 5A#
+1. yA(vat) subhUt(e) ##MM, Cz, Tib## tat kiM manyase subhUte yAvat, 
+##but Cz’s notation for G and Par is wrong; they both have## yAvat
+subhUte, ##and both omit## tat kiM manyase. kaccit ##Chak w.## kazcit, 
+##which is cited by Cz.## vahu ##Chak, Du W.## bahu. Aha ##Cz## subhUtir
+Aha, ##but with no indication that G and Par omit## subhUtir. bahu
+bhagavan tat pRthivIraja: ##Cz’s notation for Par is wrong here;
+although it has more than G it too omits## bahu sugata. arajas
+tathAgatena ##Du w.## arajas tat tathAgatena, ##probably under the 
+influence of MM and Par.## bhASitas ##Du w.## bhASitam; ##Cf. Chak n. 1 
+on page 182.##
+2. adhAtu: ##Chak w.## adhAtuM; ##because of his insertion of material 
+from MM, Du’s sandhi does not correspond to that found in the 
+MS.## bhASitas ##Du w.## bhASita:. dvAtRMzatA ##Du w.## dvAtriMzan; ##Cz
+cites G w. as## dvAtriMzatA.
+3. Aha ##Cz## subhUtir Aha, ##but with no indication that both G and Par
+omit## subhUtir. ##no Cz no## hIdaM, ##and while he indicates that Par
+has no iti instead, he does not indicate that G both omits## hIdaM
+##and has nothing corresponding to## Par’s iti. bhagavaMs ##Du
+w.## bhagavan; ##after## bhagavan ##Cz has## na dvAtriMzanmahApuruSa-
+lakSaNais tathAgato ’rhan saMyaksambuddho draSTavya:, ##which he
+indicates is missing in G and Tib; he fails to note that it is also
+missing from## Par. heto tAni tAni ##Chak w.## hetor yAni tAni; ##Du
+w.## heto: / yAni [hi] tAni; ##although the first## tAni ##is slightly blurred, it 
+is clearly not possible to read## –r yAni. ##Cz has## heto: yAni hi tAni
+bhagavan; ##he indicates only that G omits## hi, but in fact both## hi ##and## 
+bhagavan ##are omitted by both G and Par as well as Tib.##
+
+bhASitAny alakSaNAni ##Du w.## bhASitAni alakSaNAni. tenocyante
+##Chak, Du w##. –ocyate. mahApuruSalakSaNAnIti ##Chak w.## -lakSa-
+NAnItI; ##Du w.## –lakSaNAni iti. 
+@110
+4. gaMgAnadIbAlukopamAn ##Chak, Du w.## gaNgAnadIvAlukopamAn.
+parityajed ##Chak w.## parityajyed; ##Du w.## parityajet. catuSpadikAm
+##Chak, Du w.## catuSpAdikAm; ##cf. Par.## dezayed ##Du has## dezayet 
+##because he inserts after it a piece of text from MM and is therefore 
+“required” to alter the sandhi found in the MS. This kind of thing is 
+very frequent in Du and will not normally be noted hereafter. MM
+and Cz add## samprakAzayed ##after## dezayed ##and, while Cz indicates
+that this is missing from G, he does not indicate that it was 
+probably also missing from Par; cf. Par n. 4 on page 183.##
+5. asaMkhyeyaM ##Chak, Du w.## -am. AyuSmAM ##Du w.## -an.
+subhUtir ##Du w. -i:. dharmapravegenAsrUNi ##Chak w.## -pra-
+vegenAzruni; ##Du w.## -pravegeNAzrUni. ##Both here and in the follow-
+ing## 'srUNi ##the dental s is quite clear. Cz has## -vegena- ##without
+noting G’s## pra-. prAmuMcat ##Du w.## prAmuJcat. 'srUNi ##Chak 
+w. ’sruNi; ##Du w.## ’zrUni. prAmRjya ##Du w.## pramRjya, ##but Cf. his n.4
+on page 152.## 
+6. bhagavaM ##Du w.## bhagavan.
+7. samanvAgatA ##after## samanvAgatA ##MM, Cz have## bodhisattvA; ##Cz
+indicates this is missing in Par and G, but not that it is also missing 
+in Tib which has sems can de dag ni.## bhASyamANe ##after## bhASya-
+mANe ##MM, Cz have## zrutvA; ##Cz indicates it is missing in Par and G,
+but it is also missing in Tib.## saivAx-M(j)-x-A xsmAt ##Chak##
+saivAbhUtasaMjJA tasmAt, ##but this is clearly too much for the space 
+in the MS; Du has## saivA[bhUta] saMjJA tasmAt, ##the reading of MM.
+Although mostly obliterated, it is virtually certain from the MS that
+there were only three## akSaras ##in the space, and enough remains to 
+indicate that the first two were probably## saMjJA; ##the third## akSara
+would then have been ta-. Par has## saivAsaMjJA tasmA ##and Tib## de
+nyid ’du shes ma mchis pa... de bas na. ##Read:## saivAsaMjJA 
+tasmAt. 
+##Folio 5b##
+1. (bh)Uxxx(bh)UtasaMjJeti ##since MM and Par have## bhUtasaMjJA
+bhUtasaMjJeti (##so MM; Par-saMjJA iti), ##and since this would fit
+the gap perfectly, it is safe to assume that G too read## bhUtasaMjJA
+bhUtasaMjJeti, ##which is also the reading of Tib.## AzcaryaM ##note
+that Cz rejects## AzcaryaM, ##the reading of G, MM and Tib, and pre-
+fers## duSkaraM, ##the reading of Par and Ku.## bhASyamANam ##Chak##
+@111 
+##w.## bhaSyamANam. avakalpayAmy ##Du w.## -kalpayAmi. adhi-
+mucya ##Du w.## adhimucye; ##the reading of G could be the result of
+the loss or accidental omission of the vowel sign.## satvA ##in both
+MM and Cz the following passage occurs after## satvA: bhaviSyanty
+anAgate ’dhvani pazcime kAle pazcime samaye pazcimAyAM paJca-
+zatyAM saddharmavipralope vartamAne ya. ##Cz indicates that all of
+this is missing in G, but he does not indicate that Par too omits the
+greater part of it. Par probably had only## pazcimAyAM paJcazatyAM 
+##and no more. Tib too, though fuller than Par, omitted## anAgate
+’dhvani ##and## saddharmavipralope vartamAne, ##but Cz does not indi-
+cate this either.## imaM ##Cz has## bhagavan ##after## imaM ##and he does 
+not indicate that it is omitted by G, Par and Tib.##
+2. paramAzcaryasamanvAgatA ##Du adopts the reading of MM and
+Cz:## paramAzcaryeNa samanvAgatA, ##though he cites the actual MS
+reading in his n. 2. Cz indicates that G reads## paramAzcaryasam-
+anvAgatA, ##but he does not indicate that Par has the same reading.##
+api tu khalu punar ##Chak w.## api khalu; ##Cz, following Chak, indi-
+cates that## tu ##and## khalu ##are missing in G; this, however, is not the
+case. Note that what I have read as## tu ##in G could also be read as## tR.
+pravartsyate ##Du w.## pravartiSyate. na satvasaMjJA na jIva-
+saMjJanA ##Du w.## na jIvasaMjJA na sattvasaMjJA; ##that is to say, Du
+has here inadvertently inverted the order.## pudgalasaMjJA ##after##
+pudgalasaMjJA ##Cz has## pravartiSyate na-api teSAM kAcit saMjJa
+##(read## -A) na-a-saMjJA pravartate. tat kasya heto: yA sa bhaga-
+vann AtmasaMjJa ##(read## -A) saiva-a-saMjJA yA sattva-saMjJA jIva-
+saMjJA pudgala-saMjJA saiva-a-saMjJA. ##Cz’s notation here is very
+confused and incomplete. First, he indicates that## na-api teSAM
+kAcit saMjJA na-a-saMjJA pravartate ##is not found in Par, but he
+does not indicate that it is also missing in G and Tib. Secondly-
+and here probably the result of a printing error-since there is a
+marker at the end of the passage, but no marker at the beginning to
+indicate where the omission begins, it is not clear that G omits all
+the rest of this passage as well.## sarvasaMjJA(pagatA) ##in Chak
+this is printed by mistake as## sarvasaMjJA pagatA.
+3. bhagavAn Aha ##where G has only## bhagavAn Aha, ##Cz has## evam ukte
+bhagavAn AyuSmantam subhUtim etad avocat ##(= Par, MM, Tib);
+##this is not noted in Cz.## ya ##Du w.## yatra. saMtrasiSyanti ##Chak
+##w.## saMtrAsiSyanti; ##Du w.## santrasiSyanti. sa(M)trA(sam) ##Chak
+W.## saMtrasam; ##Du W.## santrAsam.
+@112
+4. paramapAramiteyaM ##in Chak this is printed by mistake as##
+paramapA ramiteyaM; ##Du w.## paramapAramitA iyaM. yAM ca ##after##
+yAM ca ##Cz adds## subhUte ##without a note; but## subhUte ##is not found in
+G, Par or Tib. Moreover, just before## yaM ca ##Du adds without
+brackets## yadutApAramitA, ##which he appears to have taken from
+MM.## aparimANA ##after## aparimANA ##Du adds without brackets or a
+note## api; ##this does not occur in the MS or in Tib (Par is fragmen-
+tary).## buddhA ##Chak w. buddha.##
+5. –ramapAramiteti ##Du w.## -pAramitA iti. ya ##Chak, Du w.## yA. kali-
+rAjANgapratyaMgamAMsAny ##Chak w.## -pratyaNga-; ##Du w.## kali-
+rAjo ’GgapratyaNgamAMsAni. ##MM and Cz both read## kaliGga(-); ##cf.
+the former’s n. 2 on page 31 and the latter’s n. 5 on page 41.
+6. tasmin ##Chak misprinted as## ta-asmin. jIvasaMjJA ##the## akSara ##I
+have transliterated## jI ##may in fact have a superscribed r.##
+’bhaviSyad ##Du w.## abhaviSyat. atIte ’dhvani ##Chak w. printed##
+atItedhvani; ##Du w.## atIte adhvani. paMca ##Du w.## paJca.
+7. yo ’haM ##Du w.## yadAhaM ##with the following note “MS.## yemAM.”
+##The## yo, ##however, is very clear and beyond any doubt. What Du
+takes as## mAM ##I read with reservations## haM; ##these two## akSaras ##can
+look very much alike.## kSAntivAdI ##Chak w.## -vAdi. abhUvaMs ##Du
+w.## abhUvaM. nAtmasaMjJAbhUn ##Du w.## nAtmasaMjJA abhUt; ##Cz##
+na-AtmasaMjJA babhUva ##with no note citing G.## varjayitvA ##Cz##
+vivarjayitvA ##with no note citing G.##
+##Folio 7A#
+1. mamAMsena ##Chak, Du w.## samAMzena; ##MM and Cz also read##
+samAMzena ##and Cz adds a note (pages 116-17) in which he seems
+to want to account for the fact that the reading## samAMzena, ##which
+he thinks is correct, does not correspond to the reading of Tib. Tib
+has## nga’i byang chub phrag pa la thogs par ’gyur ro ##and this, of
+course, corresponds exactly with the actual reading of G. Both
+Chak and Du must have been influenced by MM. Although the ini-
+tial## ma- ##is, in the MS, slightly smudged at the bottom, the dental
+s-which cannot be confused with the palatal## z ##in this script-is
+absolutely certain and there is virtually no possible doubt that G
+reads## mamAMsena. ##Tib then, unlike Cz, MM, Chak and Du, clearly
+reflects the “true” reading, and the recognition of this reading 
+renders the remarks of Cz (page 116) superfluous. Note too that
+@113
+##Cz’s text has between## –rimANena ##and## sarve ##the phrase## puNyaskan-
+dhena samanvAgatA bhaviSyanti ##which is not found in G, although
+Cz does not indicate this. The same applies to the## subhUte ##between##
+te ##and## sattvA: ##in Cz.##
+2. sthAnaM ##Chak w.## sthAnAnI, ##which Cz cites in his note.## pRthivI-
+pradeze ##Du w.## -pradeza. prakAzayiSyati ##Chak w.## -iSyate.
+3. caityabhUta ##Du w.## -bhUta:.
+4. satvAnAM ##Chak omits## satvAnAM ##although it is in the MS. The##
+subhUte ##preceding## satvAnAM ##in Cz is not found in G.##- janmikAny
+##Du w.## -janmikAni.
+5. apAyasaMvartanIyAni ##in Chak this is misprinted as## apAya saM-
+vartanIyAni. tAni ##Chak omits## tAni ##although it is in the MS; it is,
+however, not found in MM and Cz.## ’dhvany ##Du w.## ’dhvani.
+6. ddIpaMkarasya ##Chak w.## ddipaMkarasya; ##Du w.## dIpaNkarasya.
+caturazItir buddhakoTIniyutazatasahasrANy ##Chak w.## catur-
+azItibuddhakoTi-; ##Du w.## caturazItibuddhakoTIniyutazatasahasrANi.
+ArAgya ##Chak w.## ArAgyA, ##which is cited in Cz’s notes.
+##Folio 7b##
+1. bhagavanta ##Du w.## bhagavanta:. carime ##Du reads## carime; Chak##
+varime. ##I am not certain;## va- ##and## ca- ##can be virtually indistin-
+guishable.## paMcAzatyAM ##Du w.## paJcazatyAM. varttamAnAyAm
+##Du emends to## vartamAna ##and in his n. 2 w. cites the MS as## varta-
+mAnAyAm. imAM ##Du w.## imAn.
+2. pUrvaka: ##Cz reads## paurvaka: ##and, although he notes the reading
+of Par, he does not cite G.## zatatamIm ##Chak w.## zatamIm. kalAn
+##Du w.## kalAM. apy ##Du w.## api.
+3. kulaputrANAM ##Chak w.## -pUtranAm. kuladuhitrINAM ##Du 
+w.## -duhitri%#NAM. ca ##Chak omits## ca ##although it is found in the MS; its
+presence in G is not noted in Cz.## bhASeyaM ##Du w.## bhASeya.
+yAvantas te satvA ##Du emends to## yAvat te ##and cites the MS in his
+n. 7 where he w. gives## sattvA:.
+4. parigrahISyanti ##Chak, Du w.## prati- ##which is also the reading of 
+MM and Cz.## asyAcintya ##Du w.## asya acintya.
+@114
+5. Aha ##where G has only## Aha ##Cz has## atha khalu AyuSmAn subhUtir
+bhagavantam etad avocat (MM and Tib also have this reading), but
+Cz has not noted G.## pragRhItavyaM ##Chak w.## pragrahItavyaM; ##Du
+w.## [pra]grahItavyam; ##Du’s brackets are here more than usually
+mysterious since## pra- ##is quite clearly in the MS.## bodhisatvayAna-
+saMprasthitenaivaM ##Chak w.## -(aivam); ##Du w.## -tena evaM.
+6. –dayitavyaM ##Chak is misprinted as## -dayita vyaM.
+##Folio 8A#
+1. pravartteta ##Chak, Du w.## pravarteta.
+2. dIpaMkarasya ##Du w.## dIpaGkarasya.## tathAgatasyAntikAd ##Chak
+w.## tathAgatasya antikAd. samyaksaMbodhim ##Chak w.## -sam-
+bodhim. abhisaMbuddha: ##Chak w.## -sambuddha:. Aha ##Cz has##
+evam ukta AyuSmAn subhUtir bhagavantam etad avocat ##instead of
+G’s## Aha, ##but the reading of G is not noted.##
+3. tathAgatasyAntikAd ##Du w.## -AntikAt. anuttarA ##Chak, Du
+w.## anuttarAM. samyaksaMboddhim ##Chak w.## -sambodhim. abhi-
+saMbuddha: ##Chak w.## -sambuddha:. Aha ##Cz has## evam ukte
+bhagavAn AyuSmantam subhUtim etad avocat ##instead of G’s## Aha,
+##but the reading of G is not noted.## vyAkRto ##Du w.## vyAkRta:.
+bhaviSyasi ##Du reads## bhaviSyasi ##but cites the MS w. in a note as##
+bhaviSyAmi. mANavAnAgate ##Chak w.## mAnavAnAgate; ##Du 
+w.## mANava anAgate.
+4. samyaksaMbuddhas ##Chak w.## -sambuddhas; ##Du w.## -buddha:.
+tathAgata ##Chak is misprinted as## tathA gata. adhivacanaM ##Du
+w.## -vacanam. ##Cz notes that a passage is added in MM after##
+-vacanaM ##which is not found in## Ku, Par ##and Tib; it is also not
+found in G although Cz does not note this.## tathAgatenAnuttarA
+##Du w.## tathAgatena anuttarA; ##he also w. cites the MS reading in n. 2
+as## anuttarAM. samyaksaMbodhir ##Chak w.## -sambodhir; ##Du in his
+n. 2 w. cites the MS as## -saMbodhim. abhisaMbuddheti ##Chak
+w.## -sambuddheti; ##Du in his n. 2 w. cites the MS as## -saMbuddha:.
+5. tathAgatenAnuttarA ##Du w.## tathAgatena anuttarAM. samyak-
+saMbodhir ##Du w.## -bodhim. abhisaMbuddha: ##Chak w.## -sam-
+buddha:. mRSA: ##Chak reads w.## mRSa: ##and then adds a note saying
+“Rd.## mRSA-,” ##but the MS does read## mRSA: ! ##Du w.## mRSA. ##It is pos-
+@115
+sible, of course, that what I have transliterated here as## -: ##was
+intended only as a mark of punctuation.
+6. –sarvadharmA iti ##Chak has w. omitted## sarvadharmA iti ##and Cz,
+as a consequence, w. indicates that it is missing in G.## tenocyante
+Chak w.## tenocyate, which Cz cites; Du w.## tena ucyante. bhaved ##Du
+w.## bhavet.
+##Folio 8b## 
+1. bhASita ##Du w.## bhASita:. bhASitas ##Du w.## bhASita:. tenocyate ##Du
+w.## tena ucyate. etat ##Du w.## etate.
+2. vaded ##Chak, Du w.## vadet. parinirvApayiSyAmIti ##Du
+w.## -nirvApayiSyAmi iti. Aha ##Cz has## subhUtir Aha, ##without nothing
+that G omits## subhUtir.
+3. ni:satvA: ##Cz’s notation here is potentially misleading since it
+seems to suggest that G reads## sarvadharmA ni:sattvA:, ##which is
+not the case.## sarvadharmA: ##Du w.## -dharmA. vaded ##Du w.## vadet.
+niSpAdayiSyAmIti ##Chak w.## niSpadayiSyamIti; ##Du w.## niSpAda-
+yiSyAmi iti.
+4. kSetravyUhA: kSetravyUhA iti ##Chak w.## kSetravyUhA iti, ##omitting
+one of the two## kSetravyUhAs ##found in the MS; Cz w. follows Chak.##
+bhASitAs ##Chak w.## bhASitas. tenocyante ##Chak w.## tenocyate, ##which 
+Cz cites; Du w.## tena ucyante. bodhisatvo ##Chak is misprinted as##
+boodhisatvo. nirAtmAno ##Chak w.## nirAtmano.
+5. –tmAno ##Chak w.## nirAtmano. bodhisatva ##Cz reads## bodhisattvo##
+mahAsattva ##and, although he notes that G has a second## bodhisattva
+in place of## mahAsattva, ##he does not note that Par agrees with G.##
+A(khyAta)s ##Du w.## AkhyAta: ##After## AkhyAtas ##Cz has## bhagavAn Aha,
+##but he does not note that this is missing in G, Par and Tib.## Aha ##Cz
+has## subhUtir Aha ##without noting that it is missing in G and Par.##
+6. cakSu: ##Du w.## divyacakSu:. prajJA(ca)kSur ##Du w.## -cakSu:.
+dharmacakSur ##Du w.## -cakSu:. Ahaivam ##Du w.## Aha evam.
+@116
+##Folio 9A#
+1. divyaM cakSu: ##Du w.## divyacakSu:. pra(jJAca)kSur ##Du
+w.## -ckSu: dharmacakSur ##Du w.## -cakSu:. bhagavAn Aha ##Du
+w. omits## bhagavAn Aha. yAvantyo ##Chak w. yavantyo. gaMgA-
+nadyAM ##Du w.## gaNgA-; ##Cz has## gaNgAyAM mahAnadyAM ##without
+noting G.## bAlukAs ##Chak, Du w.## vAlukAs. tAvantya ##Du reads##
+tAvatyo ##with a note w. citing the MS as## yAvantyo. gaMgAnadyo ##Du
+w.## gaGgA-. bhaveyus ##Du w.## bhaveyu:. bAlukAs ##Chak, ##Du w.## vAlukAs.
+2. kaccid ##Chak w.## kazcid, ##which is cited by Cz; Du reads## kaccid ##but
+then w. cites the MS as## kazcit. bhaveyu: ##Chak w.## bhaveyU; ##Du
+adds after## bhaveyu: ##a sentence not found in the MS:## subhUtir
+Aha / evam etat bhagavann evam etat sugata bahavas te lokadhAta-
+vah:; ##this Du presumably took from MM, which has virtually the
+same reading, although it adds## bhaveyu: ##after## lokadhAtava:; ##Cz
+has the same reading as MM without noting the omission in G.##
+jAnIyAs ##Chak has been misprinted as## jA nIyAs; ##Du reads## prajAnAmi
+##and w. cites the MS as## jAnIya:.
+3. –z ##Du w.## heto:. cittadhArA ##Du w.## -dhArAz. bhASitAs ##Chak
+w.## bhAsitAs.##tenocyante Chak w. tenocyate. hetor Chak, Du
+w.## heto:. nopalabhyate ##Chak w.## nopalabyate. anAgataM cittaM
+##Du w.## anAgatacittaM.
+4. pratyutpannaM ##Chak misprinted as## pratyuypannaM. ya ##Du
+w.## ya:. dAnan ##Du w.## dAnaM. dadyAd ##Du w.## dadyAt.
+5. puNyaM ##Cz has## puNyaskandhaM ##without noting that G omits##
+-skandhaM. prasaveta ##both Chak and Du also read## prasaveta,
+##but the final## akSara ##could also be read## -tA. Aha ##Cz has## subhUtir
+Aha ##without noting that G omits## subhUtir; ##Du w. omits everything
+from the first## Aha ##in line 5 down to## prasaveta ##in line 6. Chak
+w.## aha. vahu ##Chak w.## bahu.
+6. puNyaM ##Chak w.## puNyam, ##Which Cz cites (this citation could be
+misleading since Cz gives only## puNyam ##as the equivalent in G for
+his## puNyaskandhaM, ##when in fact the equivalent in G is## bahu
+puNyaM). sacet ##Du w.## sa cat.
+@117
+##Folio 9b##
+1. Aha ##Cz has## subhUtir Aha ##without noting that both G and Par omit##
+subhUtir. rUpakAyapariniSpattI ##Du w.## -pariniSpatti:. ity
+apariniSpattir eSA ##Du has## iti apariniSpattir iti [bhagavan] apari-
+niSpattir eSA, ##etc., but his first## apariniSpattir, ##as well as the follow-
+ing## iti, ##not only do not occure in tyhe MS, but are not found in MM,
+Cz, Par or Tib. Cz does have the## bhagavan ##but does not indicate
+that it is not found in G.##
+2. tenocyate ##Du reads## anena ucyate, ##but cites the MS as reading## tena.
+Aha ##Cz has## subhUtir Aha ##without noting that## subhUtir ##is not found
+in G.## bhagavan ##Chak is misprinted as## bhavan.
+3. tenocyate ##Du w.## tena ucyate.
+4. tathAgatasyaivaM ##Chak w.## -aivam. na ##Du w. omits## na. asatAd
+##Cz has## ’satodgRhItena, ##and both Chak and Du, though they cite the
+MS correctly, would emend to this. Cz does not note the reading of G.##
+5. –dgRhItena ##Chak w.## udgRhitena. hetor ##Du w.## heto:. dharma-
+dezaneti ##Du w.## -dezanA iti. AhAsti ##Du w.## Aha asti; ##Cz has## Aha
+##instead of## evam ukta AyuSmAn subhUtir bhagavanatam etad avocat,
+##without indicating the reading of G.## bhaviSyanty ##Du w.## bhavi-
+Syanti. anAgate ’dhvani ##Chak is misprinted as## anAgatedhvani;
+##after## ’dhvani ##Cz has## pazcime kAle pazcime samaye pazcimAyAM
+paJcazatyAM saddharmavipralope vartamANe ##and, while he notes
+that none of this occurs in G, he does not indicate that neither
+could it have occurred in Par nor is it found in Tib.##
+6. (bhASyamA)NAM ##Chak w.## bhASamAnAM; ##Du w.## bhASyamANAn; ##Cz
+omits## bhASyamANAM ##and, while he notes that G has it (he cites the
+incorrect reading of Chak), he does not note that Par probably had
+something like it, and that Tib also has it.## cchrutvAbhizradda-
+dhAsyanti ##Du w.## zrutvAbhizraddhAsyanti. nAsatvAs ##Chak
+w.## nAsatvA; ##Du w.## na asattvA:. bhASitAs ##Du w.## bhASitA:.
+##Folio 10A#
+1. –cyante ##Chak w.## -cyate. ##tv Chak w.## nu; ##Du w.## nu. tathAgatenA-
+nuttarA ##Chak w.## -anuttara; ##Du w.## tathAgatena anuttarAM. sam-
+yaksaMbodhir ##Chak w.## samyaksambodhir; ##Du w.## samyaksaM-
+@118
+bodhim. abhisaMbuddha: ##Chak w.## -sambuddha:. Aha ##Cz has##
+AyuSmAn subhUtir Aha, ##without noting that G does not have the
+first two words.##
+2. –nAnuttarA ##Chak is misprinted as## -anuttarAsamyak-, ##etc.; Du
+w.## tathAgatena anuttarAM. samyakasaMbodhir ##Chak w.## -sam-
+bodhir; ##Du w.## -saMbodhim. abhisaMbuddha: ##Chak w.##-sam-
+buddha:. tenocyate ##Du w.## tena ucyate. ’nuttarA ##Du w.## anuttarA.
+samyaksaMbodhir ##Chak w.## -sambodhir. iti ##Chak w.## ity.
+3. tu ##Du w. prints## tu ##in brackets.## kiMcid ##Du w.## [kazcid]; ##both the
+reading and the brackets are wrong.## viSamas ##Du w.## viSama:.
+tenocyate ##Du w.## tena ucyate. ’nuttarA ##Du w.## anuttarA. samyak-
+saMbodhir ##Chak w.## -sambodhir. nirjIvatvena ##Du w.## nirjIvi-
+tvena. sAnuttarA ##Chak w.## sAnuttara.
+4. –dhi: ##Chak w.## -sambodhi:. sarvai: ##Du is misprinted as## sarve:.
+kuzalair ##Chak, Du w.## kuzalai:. bhASitAs ##Du w.## bhASitA: teno-
+cyante ##Chak, Du w.## tenocyate.
+5. subhUte ##after## subhUte ##Cz adds## strI vA puruso vA ##and, although he
+notes that this is not found in G, he does not note that it also does
+not occur in Par and that Tib has for the beginning of this passage##
+rigs kyi bu ’am / rigs kyi bu mo gang la la zhig gis, ##etc.## trisAhasra-
+mahAsAhasre ##Chak w.## -mahAsahasre. abhisaMhRtya ##Chak mis-
+printed as## abhisaMhaRtya. dadyAd ##Du w.## dadyAt. yaz ceta: ##Chak
+w.## yaz caiva, ##which is cited by Cz.##
+6. catuSpadikAm ##Chak, DU# catuSpAdikAm. dezayed ##Du w.## dezayet.
+asya ##Du w.## etasya. (ka)lAn ##Du w.## kalAM. yAvada ##Chak w. yavad.
+##Folio 10b##
+1. tathAgatasyaivaM ##Chak w.## -aivam. subhUte-r-evaM ##Chak has## 
+subhUte cevaM (##Cz cites G as## caivaM, ##but## caivaM ##is only an emen-
+dation suggested by Chak in a note and not the reading found in 
+the MS); Du has w.## subhUte evaM. ce ##and## re ##frequently can only be
+distinguished with difficulty-if at all-in the script. I have read## r
+##and, on the assumption that this is the correct reading, I would
+interpret## r here as an “inorganic” sandhi consonant or “hiatus-
+bridger.” But the use of such “hiatus-bridgers,” though common
+enough elsewhere, is certainly not characteristic of our MS.## dra-
+STavyaM ##Du w.## draSTavyam.
+@119
+2. ’bhaviSyad ##Du w.## ’bhaviSyat. pudgalagrAha: ##Du w.## pudgala-
+grA[ho ’bhaviSyat].
+3. AtmagrAha ##Chak is misprinted as## AtamgrAha. ete ##Chak, Du
+w.## eva te.
+4. bhASitAs ##Du w.## bhASitA:. tenocyaMte ##Chak, Du w.## tenocyante.
+lakSaNasaMpadA ##Chak w.## -sampadA. Ahaivam etad ##Chak
+w.## Ahai vaM, ##omitting## etad; ##Du w.## Aha / evam etad. bhagaval
+lakSaNasaMpadA ##Du w.## bhagavan lakSaNa-; ##Cz cites G as## evaM
+bhagavann alakSaNasampadA, ##which is not the reading of Chak,
+but an emendation suggested by Chak in a note. Moreover, Cz does
+not indicate the reading of## Par, ##which is essentially the same as G:##
+Aha . evam eva bhagavaM lakSaNasaMpadAyAs tathAgato draSTa-
+vya:. ##What is in Cz a negative statement is in both G and Par an
+affirmative statement.##
+5. puna: ##Chak w. omits## puna: ##and Cz, following Chak, w. indicates
+that## puna: ##is not found in G.## lakSaNasaMpadA ##Chak
+w.## -sampadA. dra[STa]vyo ##neither Chak nor Du indicate that##
+-STa- ##has been inadvertently omitted in the MS.## ’bhaviSyad ##Du
+w.## ’bhaviSyat. ’bhaviSyat ##Chak## bhaviSyad. Aha ##for G’s## Aha ##Cz has##
+AyuSmAn subhUtir bhagavantam etad avocat ##but, without noting G
+or Par, the latter having only## AyuSmAM subhUtir Aha. yathAhaM
+##Chak w.## yathAham.
+6. lakSaNasaMpadA ##Chak w.## -sampadA. bhagavAMs ##Chak
+w.## bhagavaMs. imA gAthA ##Du w.## ime gAthe. abhASata: )) ##Chak
+
+and Du both have## abhASata ##and it is very possible that the : of the
+:)) after## -ta ##should simply be taken as part of the mark of punctua-
+tion, :)) being a variant form of .)).## adrAkSur ##Du w.## cAdrAkSur;
+##Cz reads## ca-adrAkSur ##and, though he notes that G does not have## ca,
+##he does not note that it is also missing from Par.## anvayu: ##Cz has## 
+ca-anvayu: ##and w. indicates that G and Par also have the## ca,
+##though it occurs in neither.
+Folio 11A#
+1. dharmatA cApy avijJeyA ##Chak w.## dharmato cAsya vijJeyA, ##which
+Cz cites; Du w.## dharmatA cApy abhijJeyA. sA ##Chak w.## sa, ##which Cz
+cites.## vijAnituM ##Chak w.## vijAnitum. lakSaNasaMpadA ##Chak w.## -sampadA.
+@120
+2. samyaksaMbodhir ##Chak w.## -sambodhir. abhisaMbuddhA:
+##Chak w.## abhisambuddha:; ##Du w.## abhisaMbuddhA. lakSaNasaM-
+padA ##Chak w.## -sampadA. samyaksaMbodhir ##Chak w.## -sam-
+bodhir. abhisaMbuddhA ##Chak w.## abhisambuddha:.
+3. syAd ##Chak w.## syad, ##which is cited by Cz.## evaM ##Chak w.## evam.
+prajJApta ##Du w.## prajJapta:. vA ##Du w. adds an## iti ##after## vA, ##which
+is not found in the MS (Du probably took it from MM or Cz).## dra-
+STavyaM ##Du w.## draSTavyam.
+4. yaz ca ##Du w.## yat. gaMgAnadIbAlukopamAl ##Chak w.## gaMgAnadI-
+vAlukosamA:; ##Du w.## gaGgAnadIvAlukopamAn. saptaratnaprati-
+pUrNAn ##Chak w.## -pUrNAG.
+5. samyaksaMbuddhebhyo ##Chak misprinted as## -sambudhebyo.
+dadyAd ##Du w.## dadyAt. bahutaraM ##Chak w.## -taram. puNyaM ##Cz
+has## puNyaskandhaM, ##without noting the reading of G.##
+6. Aha ##Cz has## AyuSmAn subhUtir Aha ##for the first## Aha ##in G, but does
+not note G’s lack of the first two words.## pa(r)igra[hItavya:] ##the
+last few syllables of the line have been obliterated, but the recon-
+struction given here in brackets is fairly certain.
+Folio 11b##
+1. vAgacchati ##Du w.## vA Agacchati. me ##Cz inserts## subhUte ##after## me
+##but does not note that it occurs in neither G nor Par. [heto:] ##the
+final syllables of the line have been obliterated but the reconstruc-
+tion given here in brackets is fairly certain.##
+2. samyaksaMbuddha ##Chak w.## -sambuddha:. subhUte ##Chak is
+misprinted as## subhU te. yAvantas ##Du reads## yAvanti ##and cites the
+MS reading w. as## yAvanta. trisAhasra[mahA-] ##the final syllables
+of this line have also been obliterated, but again the bracketed
+reconstruction is fairly certain.##
+3. tAvato ##Chak w.## tavato. lokadhAtUn ##Chak w.## lokadhAtuM, ##which
+is cited by Cz.## paramANusaMcayas ##Chak w.## paramAnusaMcaya:;
+##Du w.## -saJcaya:. ##In what follows here the MS always has## saMcaya,
+##but in every case but one Du w. prints## saJcaya; ##this will not be
+noted hereafter.## bahu ##Du w.## bahu:. paramANusaMcayo ##Chak
+w.## paramAnusaMzayo.
+@121 
+4. –vam ##Du w.## Aha / evaM; ##Cz has subhUtir Aha: evam, ##without 
+noting G or Par, neither of which has the## subhUtir. bhagavan
+##Chak w.## bhagavAn. bahu ##Du w.## bahu:. paramANusaMcayo
+##Chak w.## paramAnu-. bhagavan ##Chak w.## bhagavAn. ’bhaviSyan
+##Du w.## ’bhaviSyat. paramANusaMcaya ##Chak w.## paramAnu-.
+5. –NusaMcayo ##Chak w.## ’sauparamAnu-. asaMcaya: ##Chak
+w.## asaMcaya. bhASitas ##Du w.## bhASita:. paramANusaMcaya
+##Chak w.## paramAnu-. yac ca ##Chak, Du w.## yaz ca. bhASati ##Du
+w.## bhASate. tRsAhasramahAsAhasro ##Chak, Du w.## tri-.
+6. bhASitas ##Du w.## bhASita:. bhagavan ##Chak w.## bhagavAn ##for the 
+first bhagavan in the line.## abhaviSyat ##Chak w.## abhavisyat.
+bhagavan ##Cz omits the second bhagavan without noting that it is 
+found in G.## ’bhaviSyad ##Du w.## ’bhaviSyat. tathAgatena ##in Cz## 
+tathAgatena ##follows rather than precedes## piNDagrAhas, ##but its
+placement in G is not noted in Cz; Par has the same word order 
+as G. 
+Folio 12A#
+1. -NDagrAho ##Chak w.## -graho. bhASitas ##Du w.## bhASita:. caivA-
+vyavahAro ##Cz has caivA# subhUte ’vyavahAro, ##but the## subhUte Cz
+places after caiva G has after## ’nabhilApya: ##and Par after## caivAvya-
+vahAro. ##None of this is noted by Cz.## sa dharma: ##Cz has## na sa  
+dharmo, ##without noting that G omits the## na. 
+2. –thagjanair ##Chak is misprinted as## bAla pRthagjanair. vaded ##Du
+w.## vadet. AtmadRSTis ##Chak w.## -dRStis. sa ##Du w. puts sa in
+brackets; in Cz the order of## subhUte ##and sa is inverted without a 
+note.## samyag ##Du w.## samyak. 
+3. Aha ##Cz has## subhUtir Aha ##without noting G. no Cz w. indicates that 
+no is omitted in G.## bhagavaMs ##Du w.## bhagavan. bhagavann ##Du
+w. bhagavan.##
+4. adhimoktavyAs ##Du w.## adhimoktavyA:.
+5. dharmasamjJeti ##Du w.## dharmasamjJA iti. dharmasaMjJeti ##Du
+w.## dharmasaMjJA iti. aprameyAsaMkhyeyAl ##Chak w.## -AsaM-
+khyeyA; ##Du w.## -AsaMkhyeyAn. lokadhAtUn ##Chak w.## -dhatUn. 
+6. –ripUrNAn ##Chak is misprinted as## -pUrNAG. dAnan ##Du w.## dAnaM.
+dadyAd ##Du w.## dadyAt. prajJApAramitAyA ##Chak w.## prajJa-.
+@122
+catuSpadikAm ##Chak, ##Du w.## catuSpAdikAm. dhArayed ##Chak
+w.## vAcayed; ##Cz in his notation has been misled by Chak.## dezayet
+##Chak, Du w.## dezayed. paryavApnuyAd ##Du w.## paryavApnuyAt.
+##Folio 12b##
+1. tato ##Cz inserts## nidAnaM ##after## tato ##without noting that it is not
+found in G and Par.## prasavetAprameyam ##Du w.## prasaveta
+aprayeyam. asaMkhyeyaM ##Du w.## asaMkhyeyam. saMprakA-
+zayet ##Chak w.## samprakAzayet. saMprakAzayet ##Chak w.## sampra-
+kAzaye; ##Du w.## saMprakAzayed.
+2. draSTavya ##Du w.## draSTavyaM. saMskRtaM ##Chak w.## saMskRtam. 
+AttamanA ##Du w.## AttamanA:. sthavira ##Chak is misprinted as## 
+sthavirasubhUtis, ##etc.; Du w.## sthavira:. sadevamAnuSAsu- ##Du
+w.## -manuSyA-.
+3. samAptA: ##Both Chak and Du have## samAptA ##and it is possible that 
+here again : is a part of the final punctuation mark; i.e., :)) .)),
+instead of-: )); cf. fo. 10b, line 6 and note.
+@123
+TRANSLATION OF THE GILGIT TEXT
+[5a] The Blessed One said: “The number,## SubhUti, ##of particles of 
+dust in a world system of three thousand great-thousand worlds1-is
+that great?" 
+He said: “It is great, Blessed One. That particle of dust is said to be
+not a particle by the## tathAgata. ##In that sense ‘a particle of dust’ is used.
+Also, that which is a world system, that is said by the## TathAgata ##not to 
+be a system. In that sense ‘world system’ is used.”
+The Blessed One said: “What do you think,## SubhUti? ##Is A# TathAgata
+##to be seen through the thirty-two characteristic marks of a great man?”
+He said: “No, Blessed One. Why is that? Each of the thirty-two
+characteristic marks of a great man is said to be not a characteristic 
+mark by the## TathAgata. ##In that sense ‘the thirty-two characteristic
+marks of a great man’ is used.”
+The Blessed One said: “But again,## SubhUti, ##if a woman or a man
+were to give away their person as many times as there are sands in the 
+river Ganges, and if someone else, after taking from this discourse on 
+Doctrine a verse of even four lines, were to teach it to others, the latter
+alone would on that account produce great merit, immeasurable and 
+incalculable.”
+Then, indeed, the Venerable## SubhUti, ##through the shock of the 
+Doctrine,2 burst into tears. Wiping away his tears, he said this to the
+Blessed One: “It is astonishing, O Blessed One, it is truly astonishing, O
+Sugata, how this discourse on Doctrine3 was spoken by the## TathAgata, ##as
+a consequence of which knowledge has arisen for me! I have never heard 
+this discourse on Doctrine before. They, Blessed One, who will produce
+a true conception when this## sUtra ##is being taught here will be possessed 
+by the greatest astonishment. And that, Blessed One, which is a true
+conception, that indeed is not a conception. On that account the## TathA-
+gata ##says [5b] ‘A true conception, a true conception’.
+“Blessed One, it is not astonishing to me that I am prepared for the
+teaching of this discourse on Doctrine, since I have been intent upon it.
+Blessed One, those living beings who will take up this discourse on 
+@124
+Doctrine...4 and master it will be possessed by the greatest astonish-
+ment. But again, Blessed One, a conception of a self will not occur to 
+them, nor a conception of a living being, nor a conception of a personal
+soul, nor a conception of a person. And why is that? Because the Bud-
+dhas, the Blessed Ones, have walked away from all conceptions.”
+The Blessed One said: “That is so,## SubhUti. ##Those who, after hear-
+ing this discourse on Doctrine, will not be terrified, will not tremble, will
+not be overcome by dread, they will be possessed by the greatest 
+astonishment.5 And why is that? This,## SubhUti, ##has been declared by
+the## TathAgata ##to be the greatest perfection. And that which the## TathA-
+gata ##declares the greatest perfection is declared as well by immeasurable
+Buddhas and Blessed Ones. In that sense ‘greatest perfection’ is used.
+“But again,## SubhUti, ##that which is the perfection of patience of the## 
+TathAgata, ##just that is not a perfection. And why is that? When,##
+SubhUti, ##an evil king6 hacked the flesh from all my limbs, there was for
+me on that occasion no conception of a self, no conception of a living
+being, no conception of a personal soul, no conception of a person. Nor,
+moreover, could there have been a conception of injury for me at that
+time.7## SubhUti, I remember five hundred births in the past when I was a 
+seer who taught patience. Then too there was for me no conception of a 
+self, no conception of a living being, no conception of a personal soul, no 
+conception of a person. Therefore,## SubhUti, ##a bodhisattva, A# mahA-
+sattva, having abandoned all conception...” [folio 6 is missing].
+[“Those who will take up this discourse on Doctrine, will preserve it,
+will declare it, will recite it, will master it...],8 [7a] all those living
+beings will carry my awakening on their shoulder.9 And why is that? It
+is not possible for this discourse on Doctrine to be heard by living beings
+who have but little resolve. Nor is it possible for it to be heard, taken up 
+...or mastered, by those who have a view of a self, nor by those who
+have a view of a living being or a personal soul or a person. That situa-
+tion simply does not occur.
+“But again,## SubhUti, ##on whatever piece of ground one will proclaim
+this## sUtra, ##that piece of ground will become an object of worship. That 
+piece of ground will become for the world together with its devas, men
+and asuras a true shrine to be revered and circumambulated.10## SubhUti,
+##those sons and daughters of good family who will take up## sUtras ##such as 
+these...and master them, they will be ridiculed, severely ridiculed. But,
+through that ridicule, their demeritorious actions in former lives which
+should lead to rebirth in an unfortunate destiny will here and now come 
+to be exhausted, and they will obtain the awakening of a Buddha.11##
+“SubhUti, I remember that in the past, during incalculable and more 
+than incalculable aeons-before the time of the## TathAgata, Arhat, ##Fully
+@125
+and Completely Awakened One## DIpaMkara-##there were eighty-four
+hundreds of thousands of millions of billions of Buddhas who were 
+attended to by me and, having been attended to, were not neglected. [7b]
+If,## SubhUti, ##after having attended to them, all those Buddhas were not
+neglected by me; and if in the Final Period, when the last five hundred 
+years have begun, someone will take up these## sUtras... ##and master
+them, then,## SubhUti, ##the quantity of merit resulting from the former
+does not approach even a hundredth part of the quantity of merit of the
+latter, nor a thousandth part, nor a hundred-thousandth. That quantity
+of merit is not open to enumeration, nor measure, nor calculation, nor
+comparison, nor likening.## SubhUti, those living beings, those sons and
+daughters of good family will acquire then such a quantity of merit that
+if I were to declare the quantity of merit of those sons and daughters of 
+good family, living beings (who heard that declaration) would go mad,
+they would be totally disoriented. But again,## SubhUti, ##this discourse on 
+Doctrine is unthinkable-unthinkable indeed is its effect.”12
+He said: “How, Blessed One, should one who has set out on the way 
+of a bodhisattva stand? How should he actually practice? How should
+he direct his thought?”
+The Blessed One said: “Here,## SubhUti, ##one who has set out on the
+way of A# bodhisattva ##should produce a thought in this manner: ‘All living
+beings should be led by me to final nirvana in the realm of nirvana which
+leaves nothing behind. But after having led living beings thus to final
+nirvana, there is no living being whatsoever who has been lead to final
+nirvana.’ And why is that? If, [8a]## SubhUti, ##a conception of a living
+being were to occur to a bodhisattva, a conception of a personal soul, or a
+conception of a person, he is not to be called ‘a bodhisattva’. And why is 
+that?## SubhUti, ##that which is called ‘one who has set out on the way of a 
+bodhisattva’, that is not a thing.13
+“What do you think,## SubhUti? ##Is that some thing which was
+awakened to by the## TathAgata, ##in the presence of the## TathAgata DIpaM-
+kara, ##as the utmost, full and perfect awakening?”
+He said: “Blessed One, that which was awakened to by the## TathA-
+gata, ##in the presence of the## TathAgata DIpaMkara, ##as the utmost, full
+and perfect awakening is not some thing.”
+He said: “Because of that was I assured by the## TathAgata DIpaM-
+kara: ##'You, young man, will be at a future time A# TathAgata, Arhat, ##Fully
+and Perfectly Awakened One named## S*Akyamuni.’ ##And why is that?## 
+‘TathAgata’, SubhUti, ##that is a designation for thusness.## SubhUti,
+##someone might speak thus, 'The utmost, full and perfect awakening is 
+fully and perfectly awakened to by the## TathAgata.’ ##But that which is the
+utmost, full and perfect awakening fully and perfectly awakened to by
+@126
+the## TathAgata ##is not some thing.## SubhUti, ##the thing which is fully and 
+perfectly awakened to by the## TathAgata- ##in that there is neither truth
+nor falsehood. On that account the## TathAgata ##says ‘all characteristics
+are the characteristics of a Buddha.’ 'All characteristics’,## SubhUti, ##all
+those are not characteristics. In that sense ‘all characteristics’ is used. 
+Suppose for example,## SubhUti, ##there would be a man endowed with a 
+body, a great body.”##
+subhUti ##said: “That which [8b] the## TathAgata ##has called a man
+endowed with a body, a great body-he, Blessed One, is said to be with-
+out a body by the## TathAgata. ##In that sense ‘endowed with a body, a great
+body’ is used.”
+The Blessed One said: “Just so,## SubhUti, ##the bodhisattva who would
+speak thus: ‘I will lead beings to final nirvana’-he is not to be called a
+bodhisattva. And why is that? Is there,## SubhUti, ##some thing which is 
+named ‘bodhisattva’?”
+He said: “No indeed, Blessed One.”
+The Blessed One said: “On that account the## TathAgata ##says ‘all
+things are without living being, without personal soul, without person.’##
+SubhUti, ##a bodhisattva who would speak thus: ‘I will bring about wonder-
+ful arrangements in [my] sphere of activity’14-he too is not to be called 
+a bodhisattva.15 And why is that? ‘Wonderful arrangements in [one’s]
+sphere of activity, wonderful arrangements in [one’s] sphere of activity’,##
+SubhUti, ##those have been said by the## TathAgata ##not to be wonderful
+arrangements. In that sense ‘wonderful arrangements in [one’s] sphere
+of activity’ is used.## SubhUti, ##that bodhisattva who is intent on saying
+‘without a self are things, without a self are things’-he is declared ‘a
+bodhisattva, a bodhisattva’ by the## TathAgata, Arhat, ##Fully and Perfectly
+Awakened One. 
+“What do you think,## subhUti? ##Does the physical eye of the## TathA-
+gata exist?”
+He said: “So it is Blessed One. The physical eye of the## TathAgata
+##exists.”
+The Blessed One said: “What do you think,## SubhUti? ##Does the 
+divine eye of the## TathAgata ##exist, the eye of wisdom, the eye of Dharma,
+the awakened eye?”
+He said: “So it is Blessed One. [9a] The divine eye of the## TathAgata,
+##the eye of wisdom, the eye of Dharma, the awakened eye exists.”
+The Blessed One said: “What do you think,## SubhUti? ##There could be
+as many Ganges rivers as there are sands in the river Ganges, and there
+could be as many world systems as there are sands in that many rivers.
+Would those world systems then be many?”16
+@127
+The Blessed One said:## “subhUti, ##I could know17 the various streams
+of thought of living beings as numerous as those in that many world sys-
+tems. And why is that? ‘Stream of thought, stream of thought’,## subhUti,
+##that has been said by the## tathAgata ##not to be a stream. In that sense
+‘stream of thought’ is used. And why is that?## subhUti, ##a past thought is
+not apprehended. A future thought is not apprehended. A present
+(thought)18 is not apprehended.
+“What do you think,## subhUti? ##He who, after having filled this three
+thousand great-thousand world system with the seven precious things,
+would give it as a gift-surely that son or daughter of good family would,
+as a result, produce much merit?”
+He said: “Much, Blessed One, much,## Sugata.”
+##The Blessed One said: “So it is,## subhUti, ##so it is much. That son or
+daughter of good family would, as a result, produce much merit. If,##
+subhUti, ##there would have been a quantity of merit, the## tathAgata ##would
+not have said ‘quantity of merit, quantity of merit’.
+“What do you think,## subhUti? ##Should the## tathAgata ##be seen
+through the perfect development of his physical body?” [9b]
+He said: “No Blessed One. It is not through the perfect development
+of his physical body that the## tathAgata ##is to be seen. And why is that?
+‘A perfect development of the physical body, a perfect development of 
+the physical body’, that is said to be not a perfect development by the##
+tathAgata. ##In that sense ‘perfect development of the physical body’ is
+used.”
+The Blessed One said: “What do you think,## subhUti? ##Should the##
+tathAgata ##be seen through the possession of characteristic marks?”
+He said: “No Blessed One. It is not through the possession of char-
+acteristic marks that the## tathAgata ##is to be seen. And why is that?
+That which is the possession of characteristic marks is said to be not the
+possession of characteristic marks by the## tathAgata. ##In that sense ‘pos-
+session of characteristic marks’ is used.”
+The Blessed One said: “What do you think,## subhUti? ##Surely it
+occurs to the## tathAgata: ##’Not by me has a Doctrine been taught.’ He,##
+subhUti, ##who would speak thus: ‘By the## tathAgata ##a Doctrine has been
+taught,’ he,## subhUti, ##would falsely accuse me by taking something up
+from what is not there.19 Why is that? ‘A teaching of Doctrine, a teach-
+ing of Doctrine’,## subhUti, ##that is not some thing which receives the name
+‘a teaching of Doctrine.’”
+He said: “Blessed One, will there be any living beings at a future time
+who, after hearing such Doctrines being taught, will believe?”
+The Blessed One said: “They,## subhUti, ##are neither living beings nor
+nonliving beings. Why is that? ‘All living beings’,## subhUti, ##they are said
+@128
+to be not living beings by the## tathAgata. ##In that sense [10a] ‘all living
+beings’ is used.
+“What do you think,## subhUti? ##Surely that which was awakened to
+by the## tathAgata ##as the utmost, full and perfect awakening is some
+thing?” 
+He said: “Blessed One, that which was awakened to by the## tathA-
+gata ##as the utmost, full and perfect awakening is not some thing.”
+The Blessed One said: “So it is,## subhUti, ##so it is. Not even the most
+minute thing exists or is found there. In that sense ‘utmost, full and per-
+fect awakening’ is used. But again,## subhUti, ##that thing is the same; there 
+is no difference. In that sense ‘utmost, full and perfect awakening’ is
+used. Through the fact of there being no personal soul, no living being,
+no person, that utmost, full and perfect awakening is fully and perfectly
+awakened to as identical with all meritorious things. ‘Meritorious
+things, meritorious things’,## subhUti-##but just those are said by the##
+tathAgata ##not to be things. In that sense ‘meritorious things’ is used.
+“But once again,## subhUti, ##if someone, after collecting piles of the
+seven precious things as large as the kings of mountains, the Sumerus,     
+here in this three thousand great-thousand world system, were to give
+them as a gift; and someone else, after having taken from this Perfection
+of Wisdom a verse of even four lines, were to teach it to others##-subhUti,
+##the quantity of merit from the former case does not approach a
+hundredth part of the quantity of merit of the latter...[10b] it is not
+open to comparison.
+“What do you think,## subhUti ? ##Surely it occurs to the## tathAgata:
+##‘living beings are released by me.’ Not, again,## subhUti, ##is it to be seen
+thus. Why is that? That which is released by the## tathAgata ##is not some
+living being. If again,## subhUti, ##there would have been some living being
+who was released by the## tathAgata, ##that indeed would have been for him
+the holding on to a self, the holding on to a living being, the holding on to
+a personal soul, the holding on to a personal entity. ‘Holding on to a
+self’,## subhUti, ##this is said by the## tathAgata ##to be not holding on, but it is
+held on to by simple ordinary people. ‘Simple ordinary people’,## subhUti,
+##these are said by the## tathAgata ##not to be people. In that sense ‘simple
+ordinary people’ is used.
+“What do you think,## subhUti, ##should the## tathAgata ##be seen through
+the possession of characteristic marks?”
+He said: “That is so, Blessed One. The## tathAgata ##is to be seen
+through the possession of characteristic marks.”
+The Blessed One said: “But if,## subhUti, ##the## tathAgata ##were to be
+seen through the possession of characteristic marks, a wheel-turning
+king would also be A# tathAgata.”
+@129
+##He said: “As I understand the meaning of what was said by the
+Blessed One, the## TathAgata ##is not to be seen through the possession of 
+characteristic marks.”
+Then, again, on that occasion the Blessed One spoke these verses:
+Those who saw me through form,
+Those who associated me with sound-[11a]
+They have engaged in a misguided effort.
+Those people will not see me.
+The Awakened One is to be seen from the Doctrine;
+The## TathAgata ##is the body of Doctrine;
+But, indeed, the substance of the Doctrine is not
+to be understood,
+Nor is it possible for it to be understood.
+“What do you think,## SubhUti? Is the utmost, full and perfect awak-
+ening fully and perfectly awakened to by the## TathAgata ##through the pos-
+session of characteristic marks? Again,## SubhUti, ##it is not to be seen thus.
+The utmost, full and perfect awakening,## SubhUti, is not fully and per-
+fectly awakened to by the## TathAgata ##through the possession of charac-
+teristic marks. 
+“If, again,## SubhUti, it should occur thus: ‘by someone set out on the
+way of a bodhisattva the destruction of some thing is taught, or its anni-
+hilation,’again,## subhUti, ##it is not to be seen thus. The destruction of 
+some thing, or its annihilation, is not taught by someone who has set out 
+on the way of a bodhisattva. 
+“If, again,## SubhUti, a son or daughter of good family, after filling
+world systems similar in number to the sands of the Ganges with the 
+seven precious things, were to give them as a gift to the## TathAgata,
+Arhat, ##Fully and Perfectly Awakened One; and if a bodhisattva were to 
+achieve composure20 in the midst of things that have no self-the latter
+would indeed produce much greater merit than the former. However,##
+SubhUti, ##a quantity of merit is not to be acquired by a bodhisattva.”
+He said: “A quantity of merit, Blessed One, is to be acquired,
+surely?”
+The Blessed One said: “‘Is to be acquired’,## SubhUti, ##not ‘is to be held 
+on to’. In that sense ‘is to be acquired’ is used. [11b]
+“But once again,## subhUti, ##if someone were to speak thus: ‘The##
+TathAgata ##goes, or he comes, or he stands, or he sits, or he lays down’-
+he does not understand the meaning of what I said. Why is that? A##
+‘TathAgata’, SubhUti, ##has not come from anywhere, has not gone
+@130
+anywhere. In that sense## ‘TathAgata, Arhat, ##Fully and Perfectly
+Awakened One’ is used.
+“And if again,## SubhUti, a son or daughter of good family were to 
+grind into powder as many world systems as there are particles of dust in 
+this three thousand great-thousand world system so that there would be 
+just a pile of the finest atoms-what do think,## SubhUti? ##Would that pile
+of atoms be huge?”
+He said: “That is so, Blessed One, that would be a huge pile of atoms.
+And why is that? If, Blessed One, there would have been a pile, the
+Blessed One would not have said ‘a pile of atoms’. Why is that? That
+which is said to be a pile of atoms, that is said by the Blessed One not to 
+be a pile. In that sense ‘a pile of atoms’ is used. That which the## TathA-
+gata calls ‘three thousand great-thousand world system’, that is said by
+the## TathAgata ##not to be a system. In that sense ‘three thousand great-
+thousand world system’ is used. Why is that? If, Blessed One, there
+would have been a system, just that, Blessed One, would have been the
+holding on to a solid mass. And that which is said by the## TathAgata
+##[12a] to be the holding on to a solid mass is said to be not holding on. In 
+that sense ‘holding on to a solid mass’ is used.”
+The Blessed One said: “And holding on to a solid mass is itself,##
+SubhUti, a thing not open to verbal expression; it cannot be put into 
+words. It, however, has been held on to by simple ordinary people. Why
+is that? If,## SubhUti, someone were to speak thus ‘A view of a self was
+taught by the## TathAgata, a view of a living being, a view of a personal
+soul, a view of a person’-would he indeed,## SubhUti, ##speak correctly?”
+He said: “No, Blessed One. And why is that? Blessed One, that 
+which is said by the## TathAgata ##to be a view of a self, that is said by the## 
+TathAgata ##to be not a view. In that sense ‘a view of a self' is used.”
+The Blessed One said: “In this way,## subhUti, ##one who has set out on
+the way of a bodhisattva should know all things, should be intent on 
+them. And he should be intent on them in such a way that even the con-
+ception of a thing would not be present. Why is that? ‘Conception of a
+thing, conception of a thing’,## SubhUti, that is said by the## TathAgata ##not
+to be a conception. In that sense ‘conception of a thing’ is used.
+“And again,## SubhUti, ##if A# bodhisattva, mahAsattva, ##having filled 
+immeasurable, incalculable world systems with the seven precious
+things, were to give them as a gift; and if a son or daughter of good 
+family, having taken up from this Perfection of Wisdom a verse of even
+four lines, were to preserve it, were to teach it, were to master it [12b]-
+the latter certainly would produce immeasurable, incalculable merit,
+much greater than the first. 
+@131
+“And how would he fully cause it to appear? In such a way that he 
+would not cause it to appear. In that sense ‘fully cause it to appear’ is 
+used.”
+A shooting star, a fault of vision, a lamp;
+An illusion and dew and a bubble;
+A dream, a flash of lightning, a thunder cloud-
+In this way is the conditioned to be seen.
+The Blessed One said this.
+Delighted, the Elder## subhUti, ##and the monks and nuns, the lay men
+and women, and the world with its devas, men, asuras and gandharvas
+rejoiced in that spoken by the Blessed One.
+The## vajracchedikA prajJApAramitA ##is concluded.
+@132
+[BLANK]
+@133
+NOTES
+For complete citation information the reader is directed to the list of
+abbreviations and bibliography found at the beginning of Part II.
+Notes to the Introduction
+1. Chakravarti 1956: 177.
+2. Conze 1974: 1.
+3. Conze 1974: 6.
+4. Conze 1974: 6, 48.
+5. Yuyama 1967: 68.
+Notes to the Translation
+1.“Three thousand great-thousand worlds” is, of course, hardly acceptable English
+but, as Franklin Edgerton points out, “It is not clear what precise meaning, if any,
+attaches to## mahAsAhasra.” ##He also notes that “in## mahAvyutpatti ##7999 ff. and##
+maJjuzrImUlakalpa ##343.16 ff.## mahA- ##compounded with other numbers means ten
+times the number,” and the same may or may not be intended here (see BHSD 259).
+For at least one description of what a world system so described would include, see
+La Vallee Poussin 1923-31: II.170.
+2. To appreciate the significance of the expression## dharmapravegena, ##“through the
+shock of the Doctrine,” and of this passage as a whole, see the short but important
+paper by## Ananda Coomaraswamy 1977 and the passages from## PAli ##literature he cites
+there. Unless I am mistaken, this is an important passage in the## vajracchedikA. ##Its
+articulation of a particular kind of “emotively” charged experience## (subhUti ##“bursts
+into tears”), a kind of shock-induced realization as a reaction to a certain form of
+doctrinal expression## (subhUti ##says “through this discourse on Doctrine knowledge 
+has arisen for me”), may in fact be a prototype and paradigm for at least certain
+strands of the later Buddhist tradition. In any case, this passage is the clearest
+indication we have of the kind of “religious” experience with which our text seems to
+have been concerned.##
+3. dharmaparyAya ##is a deceptively difficult term to translate. Edward Conze, who I
+follow here, translates it “discourse on dharma” (Conze 1974: 76). Charles de Harlez
+translates it “cours de la loi” (de Harlez 1891: 471) and Max Walleser “Lehrbuch”
+@134
+(Walleser 1914: 147). Edgerton says “lit. device, means of (teaching) the doctrine,
+and so, secondarily, religious discourse” (BHSD 279). In usage it seems to indicate
+first a talk or discussion or even “sermon” on the doctrine which draws out or
+elaborates on the meaning of the latter. Were it not for fear of possible
+misunderstandings, I would almost prefer to translate it as “development of the
+Doctrine”; that is, “development” in the sense of “to lay open by degrees or in detail,
+to disclose, reveal; to unfold more completely, to evolve the possibilities of” (as
+defined in Webster’s New Collegiate Dictionary, s.v. develop). Secondarily, then, it
+comes to mean the record of that “talk” which “lays open by degrees”; that is to say,
+a “text” or even a “book” which contains it.
+4. The marks of ellipsis in this type of sentence translate the Buddhist Sanskrit idiom##
+yAvat, ##which stands for omitted elements of a standard list or formula. Here the
+whole phrase would be: “will take up this discourse on Doctrine, will preserve it, will
+declare it, will recite it, will master it”-editors.
+5. This passage is one example of a very frequent, very important, and very little
+studied kind of passage found throughout the## prajJApAramitA ##literature. Again and
+again the absence of fear, terror, dread and anxiety when confronted with the asser-
+tions made in these texts is defined as the Perfection of Wisdom, as the mark of one
+who actually practices the Perfection of Wisdom, or-as here-the “greatest perfec-
+tion”. Typical of these passages is the following from the## aSTasAhasrikA. ##Here, after
+the Buddha has exhorted## subhUti ##to teach the Perfection of Wisdom to bodhi-
+sattvas,## subhUti ##responds by saying: "Bodhisattva, bodhisattva’, when this is said,
+to what thing does that designation ‘bodhisattva’ refer?  I do not see a thing called
+‘bodhisattva’. Nor, moreover, do I see a thing named ‘the Perfection of Wisdom’. I,
+not finding then, O Blessed One, a bodhisattva nor a thing called bodhisattva, not
+apprehending, not seeing it, and not finding a Perfection of Wisdom, not apprehend-
+ing, not seeing it-what bodhisattva in what Perfection of Wisdom will I teach and
+instruct?” (bodhisattvo bodhisattva iti yad idaM bhagavann ucyate, katamasyaitad
+bhagavan dharmasyAdhivacanaM yad uta bodhisattva iti. nAhaM bhagavaMs taM
+dharmaM samanupazyAmi yad uta bodhisattva iti. tam apy ahaM bhagavan 
+dharmaM na samanupazyAmi yad uta prajJApAramitA nAma. so ’haM bhagavan
+bodhisattvaM vA bodhisattvadharmaM vA avindan anupalabhamAno ’samanu-
+pazyan prajJApAramitAm apy avindan anupalabhamAno ’samanupazyan katamaM
+bodhisattvaM katamasyAM prajJApAramitAyAm avavadiSyAmi anuzAsiSyAmi). ##After
+this passage, however, the text immediately adds: “But again, Blessed One, if when
+this is being said, taught and explained the mind of a bodhisattva is not depressed,
+not cowed, not dejected, does not fall into despair; if he is not discouraged, not
+crushed; if he is not terrified, frightened, does not tremble with fear-then just this
+bodhisattva, ##mahAsattva, ##is to be instructed in the Perfection of Wisdom. Just this
+is to be known as the Perfection of Wisdom of that bodhisattva. This is the instruc-
+tion in the Perfection of Wisdom”## (api tu khalu punar bhagavan saced evaM bhA-
+SyamANe dezyamAne upadizyamAne bodhisattvasya cittaM nAvalIyate na saMlIyate
+na viSIdati na viSAdam Apadyate nAsya vipRSThIbhavati mAnasam na bhagnapRSThI-
+bhavati nottrasyati na saMtrasyati na saMtrAsam Apadyate, eSa eva bodhisattvo
+mahAsattva: prajJApAramitAyAm anuzAsanIya:, eSaivAsya bodhisattvasya mahA-
+sattvasya prajJApAramitA veditavyA, eSo ’vavAda: prajJApAramitAyAm). ##The text is 
+from Vaidya 1960: 3.5ff.
+Similar passages, variations on this same theme, occur throughout the## aSTasAha-
+srikA (##4.21, 5.24, 9.10, 11.2, 13.15, 15.28, etc.) but are by no means limited to this 
+text. We find, for example, the following in the## aSTAdazasAhasrikA: ##“If again,##
+subhUti, ##the mind of a bodhisattva,## mahAsattva, ##is not depressed when the fact of
+the isolation of all things is being talked about, is not cowed and does not tremble in
+fear, that bodhisattva,## mahAsattva, ##moves in the Perfection of Wisdom” (Conze
+1962: 61; see also 23.6, 60.21, etc.) In the## saptazatikA ##we find: “Then## maJjuzrI, ##the
+heir apparent, said this to the Blessed One: ‘Blessed One, just as Buddhas are those
+@135
+bodhisattvas, mahAsattvas, ##to be seen who, after hearing this explanation of the
+Perfection of Wisdom, will be intent, will not be terrified, will not be frightened, will
+not tremble with fear” (Masuda 1930: 215.5; also 209.1, 211.4, 214.6, 214.11, 216.1, 6,
+13; 217.4, 10, etc.). This repeated emphasis on fear, terror or dread in connection
+with hearing the Perfection of Wisdom being taught or explained would seem to
+indicate that the authors of our texts were clearly aware of the fact that what they
+were presenting was above all else potentially terrifying and awful, and that a
+predictable reaction to it was fear. And, although these passages need to be studied
+further, they already give us some valuable information on the nature of the experi-
+ence with which this literature is dealing.
+6. Conze does not question the reading## kaliGga-rAjA, ##“the king of## kaliGga,” ##but the
+reading of the Gilgit text and the khotanese (kalarri)## = kalirAja: ##would seem to 
+further confirm Edgerton’s suggestion that## kaliGga-rAjan “##is undoubtedly an error
+of the tradition for## kali-rAjan” ##(BHSD 172).
+7. It is Possible that we have here in the Gilgit text a scribal omission. Pargiter’s text
+(paragraph 9a) has:## nAsI me tasmiM samaye [Atma]-(saMjJA vA satva-jIva-pudgala-
+saM)jJA vA na me kAci saMjJA nAsaMjJA babhUva (ta)[t kasya heto: sa] cen me
+subhUte tasmim* sa(maye) A(tmasam)jJAbhaviSyat vyApAdasaMjJA me tasmiM
+samaye ’bhaviSya(t) [xxxxxx saM] jJA pudgalasaMjJAbhaviSya[t vyA]pAdasaMjJA
+me tasmiM samaye ’bhaviSyat. ##But all of that which appears in italics does not
+occur in the Gilgit text. This, of course, looks very much like a homoeoteleuton in
+which the scribe may have written the first## pudgalasaMjJA, ##then, through an eye
+skip, he may have written after the first## pudgalasaMjJA ##what should have come
+after the second## pudgalasaMjJA, ##thereby omitting everything that should have come
+between. This kind of homoeoteleuton is in fact frequently found in the Gilgit
+manuscripts. Against this, however, is the fact that if this was purely a “mechani-
+cal” omission we would have expected the Gilgit text to have## -pudgalasaMjJA vA
+’bhaviSyat vyApAdasaMjJA me tasmin, ##etc. But instead we find## pudgalasaMjJA vA
+vyApAdasaMjJA vApi me tasmin, ##etc., and the## vApi ##is particularly hard to explain. I
+see no way of deciding the case. If, however, the Gilgit text is not to be explained as
+the result of a scribal omission, then it must at least be noted that the way in which
+it has constructed the conditional sentence is rather unusual (cf. Aalto 1968).
+8. The passage enclosed in brackets is translated from Pargiter’s edition.
+9. The implied equation the## vajracchedikA ##makes here between preserving some form
+of the Doctrine and preserving the awakening## (bodhi) ##of the Buddha is more
+explicitly stated elsewhere in the## prajJApAramitA ##literature. ##In the Gilgit manu-
+script of the## aSTAdazasAhasrikA, ##for example, the Buddha is made to say: “Ananda,
+whatsoever son or daughter of good family will take up this deep Perfection of Wis-
+dom, will preserve it, recite and master it, by him the awakening of the past, present
+and future Buddhas, Blessed Ones, will be preserved”## (yo hi kazcid Ananda
+kulaputro vA kuladuhitA vA imAM gaMbhIrAM prajJApAramitAm udgrahISyati
+dhArayiSyati vAcayiSyati paryavApsyaty atItAnAgatapratyutpannAnAM buddhAnAM
+bhagavatAM tena bodhir dhAritA bhaviSyati) ##(Conze 1962: 75.16). And the same
+thing, in slightly different words, is said a little later in the same text (84.14). There
+remains, however, the problem of whether we have here in the## vajracchedikA ##a
+figure of speech or a reference to an actual practice. Bearing in mind that the term##
+dharmaparyAya ##can mean both “a discourse on the Doctrine” and the text that con-
+tains it, is our passage saying that “he who preserves this## dharmaparyAya ##will carry
+the Awakening of the Buddha” (i.e., the text of the## dharmaparyAya) ##on his shoulder
+in a literal sense, in the sense that he will carry an actual book containing the
+“awakening” on his shoulder? Or is it saying simply that he who preserves the##
+dharmaparyAya ##will honor the “Awakening of the Buddha,” the phrase “carry it on
+his shoulder” being used figuratively to indicate that he shows it respect ? We have
+@136
+Notes
+in fact the same problem in a number of other passages in## mahAyAna sUtra ##litera-
+ture. 
+In the## saddharmapuNDarIka, ##for example, we find the following verse (III.147): 
+tathAgatasya yatha dhAtu dhArayet tathaiva yo mArgati koci taM nara: / evam eva
+yo mArgati sUtram IdRzaM labhitva ca mUrdhani dhArayeta (Kern and Nanjio 1908-
+12: 99.1-2). And, although the construction here is a little strange, the sense of this
+verse would seem to be: “As some man who searches for it would thus preserve a
+relic of the## tathAgata, ##just so, he who searches for such A# sUtra, ##after having
+obtained it, would carry it on his head.” “Would carry on his head” is, of course, the
+literal meaning of## mUrdhani dhArayeta. ##The problem is that the dictionaries give
+the meaning of## mUrdhanA ##or## mUrdhani, zirasA ##or## zirasi dhArayati, ##as “to bear on the
+head” and “honor highly”; that is to say that the phrase can have either a literal or a 
+figurative meaning. 
+A similar problem arises in connection with a passage in the## saptazatikA. ##Here
+we find:## avinivartanIyabhUmau tvaM zAradvatIputra pratiSThitAMs tAn kulaputrAn
+kuladuhitrIM jAnISva ya imaM prajJApAramitAnirdezaM zrutvAdhimokSyante ##not-
+trasiSyanti na santrasiSyanti na santrAsam Apatsyante mUrdhnA ca pratigrahISyanti
+##(Masuda 1930: 216.11), which Conze translates:## “zAradvatIputra... ##you should
+know that those sons and daughters of good family are established on the irreversi-
+ble stage, if, on hearing this exposition of perfect wisdom, they believe, do not
+tremble, are not frightened or terrified, and if they accept it, placing it on their
+heads as a mark of respect” (Conze 1973: 86.) What Conze rather ingeniously trans-
+lates “and if they accept it, placing it on their heads as a mark of respect” is##
+mUrdhanA ca pratigrahISyanti (##the Tibetan here, as in the above passage from the##
+saddharmapuNdarikA, ##is spyi bos len pa), ##and this is only a variant of the expres-
+sion## zirasA pratigRhNAti, ##which the dictionaries give as “to receive, accept ... ‘with
+the head’; i.e., ‘humbly, obediently.’” Again, the phrase is open to both a literal and
+a figurative interpretation. Conze, of course, gives a translation which tries to
+reflect both meanings and, although it is difficult, if not impossible, to decide here,
+there are passages where the figurative meaning seems to be more clearly excluded.
+One such passage is found in the## saddharmapuNdarIka: tatas tathAgataM so ’Msena
+pariharati ya imaM dharmaparyAyaM pustakagataM kRtvAMsena pariharati (338.4)
+##(“Then, he carries the## tathAgata ##on his shoulder, who, after making this discourse
+on the Doctrine into a book, carries it on his shoulder.”) Here, in light of the
+specific mention of an actual book, it is difficult to take this passage in a figurative
+sense. It in fact seems to be referring to an actual practice, and we may have
+another reference to this practice in the much later Biography of## dharmasvAmin ##in
+which we read: “When the GurU# dharmasvAmin ##visited the## vajrAsana-saNgha-
+vihAra ##carrying an Indian manuscript of the## ashTasAhasrikA-prajJApAramitA, ##the
+keeper, A# zrAvaka, ##enquired, ‘What book is it?’ The## dharmasvAmin ##answered that
+it was the## prajJApAramitA. ##The## zrAvaka ##said, ‘You seem to be a good monk, but
+this carrying on your back of A# mahAyAna ##book is not good. Throw it into the
+river!’” (rdo rje gdan dge ’dun gyi gtsug lag khang shes bya bar bla ma chos rjes
+brgyad stong pa’i rgya dpe gcig khur nas byon pas dkon gnyer nyan thos shig na re
+chos ci yin zer / chos rjes prajJA pa ra mi ta ho shes rab kyi pha rol tu phyin pa yin
+gsung pas de na re khyod dge slong legs po cig ’dug pa la theg pa chen po'i chos rgyab
+tu khur ba de ma legs de bor la chu la gyur cig zer nas) (Roerich 1959: 18-19 and 73-
+74). Note that in his translation after “an Indian manuscript” Roerich gives a note
+citing the Tibetan as rgya-dpe-rgya-gar-gyi-dpe-cha, but his edition has only rgya
+dpe.
+##The point of all this is that, although these and similar passages must be much
+more fully studied, our passage in the## vajracchedikA, ##when read in light of these
+other passages, appears to be potentially much more than a simple figure of speech.
+It may in fact refer to the actual practice of carrying sacred books on one’s person.
+@137
+10. On this passage and a number of parallel passages elsewhere see Schopen 1975. I
+would here like to make amends for having overlooked in my discussion some inter-
+esting remarks of the late Professor Conze in regard to this formula: “In this context
+the## prajJApAramitA ##is then invested with a kind of magical power. It sanctifies the
+place where it is, makes it into a sacred, a holy place. “This perfection of wisdom
+makes a spot of earth into a holy place for beings, worthy of being worshipped and
+revered’ [translating## aSTa ##iii 57]” (see Conze 1948: esp. 119).
+11. I know of no exact parallels in## mahAyAna sUtra ##literature to this interesting passage,
+but the idea expressed here-that unmeritorious karma could be eliminated as a
+result of being abused by others for having adopted a particular practice or posi-
+tion-is remarkably close to a set of ideas and practices associated with the##
+pAzupatas. ##See Ingalls 1962 and Hara 1967-68. Professor Hara, for example, cites
+the following passage from the## pAzupata-sUtra ##attributed to## lakulISa: avamata:
+sarvabhUteSu paribhUyamAnaz caret, apahata-pApmA pareSAM parivAdAt, pApaM ca
+tebhyo dadAti sukRtaM ca teSAm Adatte ##(“Dishonoured amongst all beings, ill-treated
+he should wander. [He thus becomes] freed of evil because of the slander of others.
+He gives his bad karma to them. And he takes their good karma” [408]). Our pas-
+sage in the## vajracchedikA, ##of course, does not specifically mention an actual transfer
+between the abused and the abuser; in fact it gives no indication of the mechanism 
+or process by which the “bad karma” of the abused is actually eliminated. In spite of
+this, the basic idea here appears, as I have said, to be remarkably close to the basic
+idea found in the## pAzupata-sUtra. ##See also Hara 1970. For the history of the##
+pAzupatas ##see the summary in the last chapter of Lorenzen 1972: 173-92. It should
+perhaps be noted that Jean Filliozat has called into question Professor Hara’s inter-
+pretation of the “Transfer of Merit” in## PAzupata ##sources (see Filliozat 1980: 111).
+12. Conze in his edition cites a number of “parallels” for this passage:## divyAvadAna
+##(Cowell and Neil ed.), 78, 469;## mahAvaMsa (Geiger ed.): XVII, 56; XXXI, 125; and##
+KarmavibhaNgopadeza ##(Levi ed.), 153.14 and n. 4, etc. To these I would add only
+Waldschmidt 1967: 426-27. The interesting point here, however, is that our passage
+in the## vajracchedikA ##is not strictly speaking “parallel” with these other passages, all
+of which, first of all, are in verse. Typical of these verse passages is## divyAvadAna 79:
+evaM hy acintiyA buddhA buddhadharmA ‘py acintiyA / acintiye prasannAnAM
+vipAko ’pi acintiya: // ##(“Thus indeed the Buddhas are unthinkable, unthinkable too
+are the characteristics of a Buddha. Of those having faith in the unthinkable, surely
+then unthinkable is the effect.”)
+Seen in light of these “parallel” passages it would seem that the author of the##
+vajracchedikA ##is playing on an old formula. He gives the old formula new meaning
+by introducing a significant substitution, while retaining the basic statement. He 
+substitutes## dharmaparyAya, ##“this Discourse on the Doctrine” or the “text” that con-
+tains it, for the “Buddha” of the old formula, and thereby establishes, for the
+“reader” familiar with the formula, the equation of the two.
+13. The reader will have observed that I have so far not left the word## dharma
+untranslated, and have, in fact, tried to translate it throughout.## Dharma ##is, of
+course, a notoriously difficult term to translate, and this fact has been taken as the
+justification for not translating it at all. But I do not think this gets us very far. In
+our text the term has at least two basic meanings, and in light of this I have used
+two renderings. When the term is used to refer primarily to “teachings” or some-
+thing taught, as in## dharmaparyAya, I have consistently translated it by “Doctrine.”
+When it is used in a more “philosophical” sense as an element in assertions regard-
+ing “reality,” I have consistently translated it by “thing,” an English term of equal
+richness, intending thereby the sense “whatever exists, or is conceived to exist, as a
+separate entity; any separable or distinguishable object of thought” (Webster’s New
+Collegiate Dictionary, 883). On this aspect of the term see most recently Warder
+1971. This, of course, does not differ radically from the way in which Max Muller         
+@138
+handled the term in the first English translation of the Sanskrit text of the## Vajra-
+cchedikA. ##But, for example, where he would translate “nothing,” I would prefer “no
+thing,” the two having quite different senses in English. There is at least one place
+in our text, the compound## dharmacakSu, ##where I do not know exactly which of the 
+two basic meanings of dharma is supposed to be in play. As a consequence, in this
+case I leave the term untranslated. There is also one place in our text where the 
+term appears to be used in a third basic sense##-sarvadharmA buddhadharmA ##iti,
+etc., at 8a6-and here I have translated it by “characteristics.”
+14. “‘Wonderful arrangements’ in [my] sphere of activity” translates## kSetravyUha, ##which
+presumably stands for## buddhakSetravyUha. ##Here the text appears to be referring to 
+the idea that the bodhisattva-as an integral part of his long career-should work
+towards effecting through his accumulation of merit the appearance of a “world,” a 
+sphere, which is ideally suited to the pursuance of the religious goal by the 
+individuals with whom he is concerned. This idea, and the whole complex of ideas
+connected with the## “buddhafield,” ##has yet to be fully studied. Cf. Rowell 1934-37,##
+Demieville 1937 and Lamotte 1962: 395-404. 
+15. The text has here only## so ’pi tathaiva vaktavya: ##and Conze’s text has the same
+reading. But the various manuscript traditions show some uncertainty here and##
+Muller ##reads## sa vitathaM vadet. ##pargiter has read-and in part reconstructed-his
+Central Asian manuscript## vitatham evaM kartavya:. ##The Khotanese translation
+has## Si na baysUJA vUysai hvaJai, ##which Konow translates into Sanskrit as## sa: na
+bodhisattva: vaktavya:. ##The Tibetan translation in the Peking kanjur has## de yang
+de bzhin du brjod par bya’o, but the blockprint Conze cites has de bzhin du brjod
+par bya’o. The uncertainty here seems to result from the fact that the referent of## 
+tathaiva ##is not immediately clear; this is a consequence, it would seem, of the fact
+that it occurs somewhat earlier. First we have## evam etat subhUte yo bodhisatva
+evaM vaded ahaM satvAn parinirvApayiSyAmIti . na sa bodhisatva iti vaktavya:.
+##This is followed by a passage giving the reason for this-a passage much longer in 
+Conze’s and Muller’s text than it is in the Gilgit and Central Asian text. Then we
+have## ya: subhUte bodhisatva evaM vaded ahaM kSetravyUhAn niSpAdayiSyAmIti. so
+’pi tathaiva vaktavya:. ##The two passages separated by the explanatory material are 
+clearly parallel in structure, and seen in this light it appears that## so ’pi tathaiva
+vaktavya:= na sa bodhisatva iti vaktavya:; ##I have translated accordingly. Conze,
+without noting it, has doen exactly the same thing.
+16. After## bahavas te lokadhAtavo bhaveyu: ##virtually all the other sources have the fol-
+lowing passage:## subhUtir Aha: evam etad bhagavann evam etat sugata bahavas te 
+lokadhAtavo bhaveyu:. ##The absence of this passage in the Gilgit text is almost cer-
+tainly to be explained as a scribal omission resulting from a typical homoeoteleuton,
+the skip being from the first## bahavas te lokadhAtavo bhaveyu: ##to what follows the 
+second, omitted,## bahavas te lokadhAtavo bhaveyu:. ##Note too that the mechanical
+nature of the omission is indicated by the fact that, unless we assume the omitted 
+passage was originally there, the construction of the Gilgit text does not make sense.
+As it now stands, what is clearly a question by the “Blessed One” to## subhUti ##receives 
+no answer, and the second## bhagavAn Aha ##is completely unnecessary.
+17. This is one of the very few places where the manuscript is clearly wrong. It has a 
+second-person-singular verbal form with a first-person pronoun.
+18. presumably here A# cittaM ##has been inadvertently omitted by the scribe.
+19. The Gilgit text here is open to at least three interpretations:## asatAd ##may be intended
+as an ablative singular of a stem asata, an -a extension of a weak stem in-t. Such
+an ablative form is not, however, recorded by Edgerton. It may also be that we 
+should read## asatA-d-udgRhItena, ##taking-d-as an “inorganic” sandhi consonant or
+“hiatus-bridger” (cf. BHSG 4.46). A third possibility is, of course, that the reading
+@139
+of the Gilgit text is simply a mistake. To Conze’s reference to## dIgha-nikAya ##III.34,
+##we might also add## Digha-NikAya ##III.115.
+20. ##“Were to achieve composure” here translates## kSAntiM pratilabheta, ##and## kSAnti ##is
+normally translated “patience.” Conze in fact translates the phrase “would gain the 
+patient acquiescence in.” It is, however, possible that “patience” is not always the
+best translation for## kSAnti, ##especially if “patience” is used with the implication of “to
+endure.” As I understand the term, it more commonly means not “to endure” or “to
+accept” but to remain “unaffected by,” and I think the present passage is a good
+example of this. Unless I am very much mistaken, the phrase## nirAtmakeSu
+dharmeSu kSAntiM pratilabheta, ##which I translate as “to achieve composure in the 
+midst of things that have no self,” is intended above all else as a positive expression
+of the state of mind that is much more commonly expressed in negative terms, 
+several examples of which are cited above in n.5. That is to say, to obtain## kSAnti ##is 
+the positive expression for the same state which is negatively expressed by such for- 
+mulae as “he is not depressed, not cowed, not dejected... he is not terrified, fright-
+ened and does not tremble with fear.” But the opposite of dejection, terror and fear
+is not patience or endurance, it is rather something more like composure. Note too
+that in almost every case the absence of fear and dread and the obtainment of ## kSAnti
+##are to take place in regard to the same basic fact, however expressed: the absence of 
+a self. The proper reaction to this fact, and the full realization of its implications,
+may be expressed either positively by saying “he obtains composure in regard to it,”
+or negatively by saying “he is not terrified, alarmed, frightened, etc.” In the end they
+are very much the same.

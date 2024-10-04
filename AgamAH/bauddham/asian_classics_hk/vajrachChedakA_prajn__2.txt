@@ -1,0 +1,590 @@
+@i
+##MANUSCRIPT REMAINS OF
+BUDDHIST LITERATURE
+FOUND IN
+EASTERN TURKESTAN
+FACSIMILES
+WITH TRANSCRIPTS TRANSLATIONS AND NOTES
+EDITED IN CONJUNCTION WITH OTHER SCHOLARS
+BY 
+A. F. RUDOLF HOERNLE
+C.I.E. M.A. OXON. PH.D.TUBINGEN
+VOLUME I
+PARTS I AND II MANUSCRIPTS IN SANSKRIT KHOTANESE
+KUCHEAN TIBETAN AND CHINESE
+WITH TWENTY-TWO PLATES
+O X F O R D
+AT THE CLARENDON PRESS
+1916##
+@176
+VAJRACCHEDIKA#
+##IN THE ORIGINAL SANSKRIT
+Stein MS., No. D. III. 13b. (Plate XXI, No. 1, Fol. 14, Rev.)
+EDITED BY F. E. PARGITER.
+THIS is a fresh manuscript of the## VajracchedikA. ##The text of that work was
+published by Max Muller, from manuscripts discovered in Japan, in the Anecdota
+Oxoniensia (Aryan Series), vol. i, part i, in 1881. The manuscript, now published,
+was discovered by Sir Aurel Stein in his first expedition to Eastern Turkestan in the
+years 1900-1. As related by him in his Ancient Khotan, vol. i, p. 258, it was
+dug out on the 23rd of December, 1900, from the ruins of a small ‘dwelling-place’
+(id. p. 256) belonging to the ancient settlement of## DandAn Uiliq; ##see also id.,
+p. 295, and the same author’s Sand-buried Ruins of Khotan, p. 300. It was identified
+by Dr. Hoernle as containing the text of the## VajracchedikA; ##and a notice of the
+identification was published by him in the Journal of the Royal Asiatic Society for
+1903, p. 364.
+This manuscript is written on nineteen folios, long and narrow, of coarse country
+paper, and each folio is about 39 cm. (15 ¼ inches) in length and 75 mm. (2 15/16 inches)
+in width. It is in fairly good preservation, except that parts have perished or
+decayed. The folios are numbered on the left margin of the obverse side, and
+are all present except nos. 1, 3-5, and 12, which are wanting. A few of the folios
+are nearly whole (nos. 11, 17, and 18), some have lost one or both ends (nos. 7, 8,
+and 16), but most have perished more or less within the page, and present gaps
+severing the paper in two, partially or completely (nos. 2, 6, 9, 10, 13-15, and 19).
+In the transcript these gaps are enclosed within the mark. Where the paper
+has not perished, the writing has suffered injury in many places, so as to show 
+every stage of decay from merely slight defacement to total obliteration. The
+folios which have suffered least are nos. 17 and 18, which are reproduced in
+Plate CVIII in vol. ii of Sir Aurel Stein’s Ancient Khotan, while for the present
+volume fol. 14b (shown in Plate XXI) has been selected, in order to give an idea
+of the more common condition of the leaves of the manuscript.
+Each page contains six lines of writing. The margin on the left side is
+generally about 10 mm. (3/8 inch) broad, and on the right side about 7 mm. (1/4 inch).
+@177
+The writing thus occupies a length of about 37 cm. (14 1/3 inches). In every third
+and fourth line on each page, at about 77 mm. (3 inches) from the left margin
+of the writing, a blank space has been left about 2 cm. (3/4 inch) long, so as to
+make altogether an open place of that length and of about the same height, for
+the hole through which the string would pass which would hold the folios together.
+This open space is of very great help in determining the position of the writing that
+remains in folios in which both ends have perished. The letters have been written
+with a broad reed pen and are large and well made. The largest such as## thA 
+##and## yA ##may be 13 mm. (1/2 inch) broad, and the smallest such as ra and va about
+6 mm. (1/4 inch) broad. The size of ordinary letters is about 8 mm. (1/3 inch.), so
+that on an average three letters go to every 25 mm. (1 inch) of space.
+It is thus possible to calculate the number of letters that have been obliterated
+in a decayed passage by carefully measuring its length, and to restore the text in
+most places with the aid of the printed text with some degree of confidence. In all
+such cases the restored text is printed in italics. These cases are of two kinds, those
+in which the writing only has suffered damage, and those in which the paper and
+writing have both perished. Passages of the first kind are dealt with according to
+the degree of obliteration, thus: first, where the letters are but slightly defaced and 
+can be read, italics are used; secondly, where the traces remaining of the letters
+enable one to make out what they were with the aid of the printed text, the italics
+are enclosed within round brackets; and thirdly, where the letters have disappeared
+completely, if their number tallies with that in the printed text, the italics are
+enclosed within square brackets; but, if the two do not tally, the number of lost letters
+is indicated by an equal number of crosses. Passages of the second kind, where both
+paper and writing have perished, are enclosed within the mark, and, if the gap can
+be definitely filled up from the printed text, the restored text is printed in small
+italics; but if the gap and the printed text do not tally, the number of lost letters
+is indicated by an equal number of small crosses. The printed text has been an
+invaluable aid throughout, and without it very little could have been done towards
+reading the many passages where the MS. has suffered injury.
+The MS. has been well written and contains very few errors that are merely
+clerical, but its language is Sanskrit of poor literary quality and abounds with
+irregularities and peculiarities of all kinds in both grammar and sandhi and even in
+the forms of words, that indicate a strong## PrAkrit ##or vernacular element and
+influence. These will be obvious on perusal, and it is unnecessary for me to
+discuss them here. A very few of the most striking instances may be just
+mentioned:## pratiSThihitvA ##for## pratiSThAya ##(fol. 2 b(v); cf.## PAli patiTThahitvA 
+##in Childers’## PAli ##Dict. p. 370 a),## ugraheSyati ##for## udgraheSyati ##(fol. 11 a, 1. iv),## viyUbhA
+##for## vyUhA ##(fol. 13 bv. vi) and## pratyupasthAhe ##for## pratyupatiSThat ##(fol.19 a(iv)).## Avagraha
+@178
+##occurs often but is never indicated, and is definitely suggested only where final##
+a: ##appears as o before an initial tenuis or by the appearance of the following 
+word: it is indicated here by an inverted apostrophe.’## VirAma ##is expressed in the
+MS. by a circumflex placed over the letter, which is written small and placed a little
+below the line: it is indicated here by the sign placed below the letter. The only
+mark of punctuation in the MS. is a large dot, and it is so rendered here; but
+a double dot, the usual sign of visarga, is used once as a mark of punctuation, after##
+bhASyate ##in fol. 6 b(v); and perhaps in## nti: ##in fol. 15 b(vi).
+The date of this MS. may be estimated approximately by means of the
+copper-plate which was found inside the## NirvANa stUpa ##at## KasiA ##and which I have
+deciphered at Dr. Hoernle’s request.{1 See JRAS., 1912, pp. 123, 125. It is published in the Annual Report, Arch. Survey of India, 1910-11, pp. 73 ff.} That plate may be assigned to the third
+quarter of the fifth century A.D. because of the coins found with it. The writing
+in this MS. is very much like that on the plate, though the characters here are
+more squat and wider. The letters here are written with rather more flourish and
+present a greater variety of form, thus the vowel-marks for## A, i ##and## U ##are made in
+three, and those for e and ai in two ways; also the vowel o in bodhi has two shapes.
+Two of the three forms for## A ##may be seen in## yAvatA, ##in fol. 14b(iv) (reproduced on
+Plate XXI, No. 1), and the third in## mahAsAhasre, ##in fol. 18a(v) (Anc. Khot.,
+P1. CVIII); the three forms of i, distinguished as## i, iM^, ##and## I ##respectively, in## ciM^tta-dhArA,
+citta-dhArA, ##fol. 14b(v), and## vAlikA:, ##fol. 14 b(i); and those of## U ##distinguished as## U, U#,
+##and## U ##respectively, in## SubhUte ##fol. 14b(iv),## SubhUte ##fol. 14b(ii), paripUrNAM ##fol. 17b(vi)
+(Anc. Khot., P1. CVIII).{2 [See Note, on p. 195.-R.H.]} The two forms of e may be seen in## ucyate ##fol. 14b(v), and
+just below it, in## upalabhyate, ##fol. 14b(vi), those of## ai ##differing similarly from each
+other; while those of o will be seen in the word## bodhi, ##in fol. 17b(iv) and## bodhi ##in
+fol. 17b(vi) (Ane. Khot., P1. CVIII), being distinguished as## o# ##and## o ##respectively.
+Initial e also has two quite different shapes, one of which occurs only once clearly,
+in evam in fol. 14b(iii), while the other is of frequent occurrence, as in fol. 17a(iii),
+18a(vi)b(i). Also the letters## a, A, kh,bh, y, and l ##display each at least two slight
+varieties in their forms; e.g. compare## bh ##in## bhaviSyat, ##in fol. 17a(i) and in fol.
+17a(v); and y, in## yAva ##and## ^yena ##in fol. 18a(vi). These features suggest that this MS.
+is somewhat later than the copper-plate. Yet it cannot be much later, because
+both the shapes of y (which is a test letter as regards the script) are of the tripartite
+character. It seems therefore that this MS. may be assigned to about the end of
+the fifth or the beginning of the sixth century A.D.
+In its matter the MS. agrees of course in the main with the printed text, but
+is less full. Sometimes there is close agreement, but at other times it varies
+@179 
+considerably, omitting sentences, or abbreviating them by the reduction of several 
+cumulative expressions to one or two only, as will be seen from the first sentence.
+In only one or two places does it seem to contain additional matter. It would
+have been waste of labour and space to point out all the differences or even many of
+them, and only passages where there are large variations have been noticed in the
+footnotes.
+For convenient use each page is printed as one paragraph, numbered with the
+number of the folio and the addition of a for the obverse and b for the reverse; and
+the beginning of each line in the page has been marked by a small roman numeral.
+No translation is necessary here because there exists a translation of the##
+VajracchedikA ##prepared by Max Muller, in the Sacred Books of the East, vol. xlix,
+Part II, pp. 109 ff.{1 ##There is also, in the present volume, pp. 276 ff., a translation from the 
+Khotanese, prepared by Professor Sten Konow.##}
+##TEXT##
+(##2A#) itad{2 ##Begins at p. 20, 1. 1, of the printed text.##} avocat A#zcaryaM BhagavA yA[va]d [e]va (TathA)gate-
+(na bo)dhisatvA anuparigRhItA: paramen{3. ##Not## N.##}anugraheNa
+{4 ##Much more condensed than the printed text, cumulative expressions being
+reduced to a single one, and several words omitted. The form parigrahetavya is 
+used here ; compare fol. 18a(i).(ii)##} YAvad eva
+TathAgatena bo(ii) dhisatvA parinditA: paramayA parinda (nayA{4 ##Much more condensed than the printed text, cumulative expressions being
+reduced to a single one, and several words omitted. The form parigrahetavya is 
+used here ; compare fol. 18a(i). (ii).##} Tat
+kathaM Bhaga)vaM bodhisatva-yAna-saMprasthitena sthAtavyaM kathaM
+cittaM pra grahetavyaM{4 ##Much more condensed than the printed text, cumulative expressions being
+reduced to a single one, and several words omitted. The form parigrahetavya is
+used here ; compare fol. 18a(i).(ii)##} SAdhu sA(iii)dhu Bhagava {5 ##Bhagava ##is marked with 4 dots above and 5 beneath. It does not occur in
+the printed text. These dots apparently indicate that it is an error here. Compare 
+fol. 7 a(v), footnote 7, p. 182. [See p. 397 for a similar practice in Khotanese 
+writing-R.H.##]} SubhUte anupa  O{6 ##The circlet indicates where, in the original folios, stood the blank space
+containing the string-hole, and intertupting lines iii and iv.##}
+rigRhItAs TathAgatena bodhisatvA: paramen{3. ##Not## N.##}anugraheNa parindi-
+tAs TathAgate(na bodhisa)(iv)tvA: paramayA parindana O{6 ##The circlet indicates where, in the original folios, stood the blank space
+containing the string-hole, and interrupting lines iii and iv.##} (yA{4 ##Much more condensed than the printed text, cumulative expressions being
+reduced to a single one, and several words omitted. The form parigrahetavya is 
+used here ; compare fol. 18a(i). (ii)##} Tena)
+hi SubhUte zRNu SAdhu ca suSThu ca manasi kuru BhASiSye. YathA
+(bodhisa)tva-yAna- (v)saMprasthitena sthAtavyaM yath (A) cittaM pragrahe 
+tavyaM{7 ##Probably omitting## yathA pratipattavyaM ##of the printed text. See note 4 above.##} EvaM BhagavAn{8 ##Read## BhagavaM.##} ity AyuSmAn SubhUtir Bhagavata: pra-
+tya(zrauSIt. BhagavAn avocat) (vi)Iha SubhUte bodhisatvena cittam utpA-
+@180
+dayitavyaM{1 ##The printed text has## bodhisatva-yAna-saMprasthiten-aivaM cittam utpAdayitavyaM.}YAvaMta: satvA:{2 ##More condensed than the printed text.##} aNDajA vA jarAyujA vA saMsvedajA vA
+(upapA)dukA vA .
+(##2b##) (i)rUpiNo{3 ##Begins at p. 20, 1. 18, of the printed text.##} vA arUpiNo vA saMjJino vA asMjJino vA naiva
+saMjJAnopakA{4 ##The printed text has## naiva saMjJino nasaMjJino.} vA . YAvaMta: satvA: prajJapyam(AnA:) prajJapyante{5 ##The printed text has the singular.##}
+te mayA sa(ii)rve anupadhizeSe nirvANa-dhAtau parinirvApayitavyA:
+Evam aparimANAM ca satvAM parinirvApayitvA na kazcit satva:
+parinirvApito (iii) bhavati. Tat kasya heto: Satva OsaMjJA hi SubhUte
+bodhisatvasya pravarteta na so bo#dhisatva iti vaktavya: Tat kasya
+(het)o: Na SubhU#(iv)te bodhisatvo yasyatma-saMjJA{6. ##This agrees with the note in the printed text.##} O pravarteta .
+satva-saMjJA vA. jIva-saMjJA vA. pudgala-saMjJA vA. Api tu SubhUte
+(bodhisatvenavastu-)(v)pratipattito dAnaM dAtavyaM (na kva)cit pra
+tiSThi(tena dA)naM dAtavyam Na zabda-gandha-rasa-spraSTavyeSu prati-
+SThihitvA dAnaM dAta(vyaM) EvaM hi SubhUte vi(bo)dhisatvena dAnaM
+dAtavyam ya[tH]A (na nimitta)-saMjJAyA (pratiSThihe). Tat kasya heto:.
+(Ya: SubhUte) bodhisatvo (‘pratiSThi) to{7 ##That is## apratiSThito.}dAnaM dadAti x
+##Folios Nos. 3-5 wanting.
+(##6A#) (i)bhASitA:{8 ##Begins at p. 27, 1. 3, of the printed text.##}. (Tad u)cyate kSetra-viyU(bh)A{9 VyUha ##is written## viyUha ##in fol. 13 b(v), and## viyUbha ##in fol. 13b(v).(vi).##} iti. (TasmA) SubhUte
+bodhisatvenaivaM pratiSThitaM cittam utpAdayitavyaM{10 ##Two sentences of the printed text are omitted after this.##} Na zabda-
+gandha-(ii)rasa-sparza-pratiSThitaM cittam utpAdayitavyam [xxxxxxxx
+xx{11 ##About ten letters are wanting here. The printed text is longer and reads## 
+Tad yathapi nama SubhUte puruSo bhaved upetu-kAyo mahA-kAyo yat tasyaivaMrUpa.}
+A](tma)-bhAva syAt tad yatha[pi]nAma Sumeru-parvbata-(iii)rAjA.
+Tat kin manyase SubhUOte MahAM sa(:Atma-)bhAvo bhavet
+{12 ##Two sentences of the printed text are omitted after this.##} [Tat
+kasya heto]r abhAva{13 ##The first letter is like## ra; ##it does not suggest## Atma. ##After this is a further mission.##} sas TathAgatena bhASi(tas) ta(iv)d ucyate
+@181
+(A)tma-bhAva iti. O Na hi sa bhA{1 ##After## bhA ##a small letter, apparently## ta, ##appears which has a line through 
+it, as if it were a mistake and were struck out.##}[vo natma-bhAva:{2 ##Three sentences of the printed text are wanting here.##}] YAvanto hi{3 ##Read probably## yAvanto hi, ##to correspond to## tAvanto ##which follows.##}
+[Su](bhU)te GaMgAyA nadyA vAlukAs tAvanto (v)GaMgA-nadyo bhaveyu:
+Tat kin manyase SubhUte{4 ##This sentence occurs a little earlier in the printed text.##} Api [nu tA bahvyo bhaveyu: Aha Ta]ceva
+tAva (Bhaga) vaM xx{5 ##These two letters are more than the printed text has. Read perhaps## yatra.} bahvyo GaM(gA-na)dyo (bha)(vi)veyu: prA(g e)va
+tatra vAlukA: A#[roca](yAmi te SubhUte) [pra](tivedayA)[mi te] xx
+(x{6 ##This letter looks like## su, ##so far as one can see from the traces of it.##} te x) xxxxxx{7 ##For all this breakage the printed text reads## yAvatyas tAsu GaMgA-nadiSu,##but 
+the reading here seems to be different.##} [vA](lukA)
+(##6b##) (i)X{8 ##Begins at p. 27, 1. 20, of the printed text. This letter may be## sa.}mAsu vAlukA: tA(vato loka-dhA)tu ra{9 ##This letter seems quite clear, though it does not appear to make sense.##} Kazci strI vA (puru) So
+vA xxxxxxxxxxxx xx {10 ##Some 22 or 23 letters have been obliterated here, but the printed text is much longer.##} (ii)A#ha . EvaM BhagavaM bahu sa:
+kula-putro vA kula-(duhitA vA) xxxxxxxxxxxxxx{11 ##There are some 20## akSaras ##wanting; they may perhaps be## tato puNya-
+skandhaM prasaveta BhagavAn Aha Yaz ca ho puna:. ##Compare fol. 7 b(v) and 10 a(iii).##} [Su](bhU-)
+(iii) te tAvatA loka-dhAtuM saptaO-ratna-paripUrNaM [dA](naM da)[dyAd
+ya]z ca [xxx{12 ##Read perhaps## ho puna:, ##or## SubhUte.##}kula-putro] vA kula-duhitA vA xxx cAtuSpA(iv)dAm api
+gAthAm udgRhya paraOsya dezayet xxxxxxxx{13 ##Read perhaps## saMprakAzayet . ayam eva.##}[ku]la-putreNa kula-
+duhitRNA{14 ##There are two letters broken away here, and they must be composed of the 
+instrumental case of## duhitR. ##Its instrumental form here would seem to be## duhitRNA,
+##compare## pitRNA ##in fol. 19b(v).##This form fills the gap exactly.##} vA bahutaraM (v)puNya-skandhaM prasaveta. Api tu SubhUte
+ya(smi)n pRthivi-pradeze dharma-paryAyA{15 ##Compare fol. 7 b(vi).##} cAtuSpAdA(ma)pi{16 ##The## akSara ma ##had been omitted, and has been inserted interlinearly above## dA.} gAthAM
+bhASyate : tena sa:(vi)pRthivI-pradeza: cAitya-bhUto bhaviSyati. (sa) XXX
+xxx vA xxxxxxx{17 ##In the first part of this gap read perhaps## dev-asurasya lokasya.}(pA) ya xx (ya) xx (ya)imAM dharma-
+@182
+(##7A#)(i)paryAyaM{1 ##Begins at p. 28, 1. 13, of the printed text.##} dhArayiSyanti{2 DhArayiSyanti ##or## vAcayiSyanti ##or## paryavApsyanti ##would fit this gap.##} Paramena{3 ##Not## N ##apparently.##} te satv{4 ##Compare fol. 8a(iii).##}azcaryeNa saman-
+vAgatA bhaviSyanti. [TasmiM pRthivI-pradeze] zAstA viharaty anyatarA x
+(ii)nyataro vA vijJa-guru{5 ##This is the reading in the printed text and fits this gap.##} sthAnIya: AthayuSmAM SubhUtir Bhagavantam
+etad avocat Ko nAmayaM BhagavaM dharma-paryAya: (iii)KathaM cainaM
+dhArayAmi O Evam ukte BhagavAn AyuSmantaM SubhUtim etad avocat
+PrajJA-pAramitA namayaM Su(iv)bhUte dharma-paryAya: E OvaM 
+cainaM kAmaM dhArayata. Tat kasya heto: YA ceyaM prajJA-pAramitA
+TathAgatena (bhA) (v)SitA sA pAramitA{6 ##Or perhaps## saiva bhASitA.} Tat kih[e]To{7 ##There is a curve of three dots around the top and right side of## heto. It seems
+clear that the scribe first wrote## tat kasya heto, ##but discovering his mistake enclosed##
+heto ##with the dots and then wrote## n manyase; ##and this implies that he must have
+altered## tat kasya to tat ki.##Dots around a word therefore indicate a mistake.##} n manyase SubhUte
+Api nu kazci dharmas TathAgatena bhASita: Aha. No iti Bhaga(vi)vaM na
+kazci dharmas TathAgatena bhASita:{8 ##Two sentences of the printed text are omitted after this.##} YAvat SubhUte tR{9 ##Compare fol. 16 b(i), and fol. 18 a(v).##}-sAhasra-mahA-
+sAhasre loka-dhAtau pRthi(v)I-raja: kiJcit
+(##7b##)(i) tad{10 ##Begins at p. 29, 1. 7, of the printed text.##} bahu bhavet A#ha Bahu BhagavaM pRthivI-rajo bha[vet yat
+tad Bha]gavaM pRthivI-rajas TathAgate(na bh) ASitaM. a-ra (jas tad
+BhagavaM) (ii) bhASitaM. Tad ucyate pRthivI-raja iti. Yo so loka-dhAtu:
+a-dhAtu sas TathAgatena bhASitas Tad u(cyate loka-dhAtu)r iti. Ta-
+(iii)t kin manyase SubhUte Api Onu dvAtriNzar{11 ##Read perhaps## ^triNzair; ##but cf.## zatAnir ##in fol. 9 a(iv).##} mahApuruSa-lakSaNais
+TathAgato ‘rhAM samyak-saMbuddho (draSTavya:) A#(ha. No) iti Bha-
+(iv) gavaM{12 ##A sentence of the printed text is omitted after this.##}. Tat kasya heto: YAni OtAni dvAtriMza-mahApuruSa-lakSaNAni
+TathAgatena bhASitAny alakSa(NA)ni (tAni) TathA(gatena) (v) bhASitAni
+xxx{13 Tad ucyate ##is too much for this space apparently.##}dvAtriMza-mahApu(ruSa)-lakSaNAniti. Yaz ca ho puna: SubhUte
+strI vA puruSo vA (GaMgA-nadI-vAlikA-) xx{14 ##Read probably## samA, n ##being in the next line.##} (vi) xxxxxxxx{15 ##Read probably## natmabhAvAn dine dine.} pa (ritya)-
+@183
+je[t.]{1 ##A sentence of the printed text is omitted after this.##} Yaz ceto dharma-paryAyA{2 ##For## paryAyAc, ##final consonants being often omitted here.##} catuSpadikAm api gAthAm udgRhya
+parasya{3 ##Compare fol. 10b(i).##} dezayet. Ayam eva{4 ##Read probably## prakAzayet ##or## Ayam eva.##} ta-
+(##8A#) (i) to{5 ##Begins at p. 30, 1. 2, of the printed text.##} bahutaraM puNya-skandhaM prasaveta AthayuSmAM Su-
+bhUti dharma-[vegenazrU] Ni prAmuJcat So’srUNi pramRjya Bhagavantam etad
+a(ii)vocat . A#zcaryaM BhagavaM{6 ##All this long double gap is exactly filled by what is in the printed text.##} (pa)ram-a(zcaryaM Sugata) yAvad ayaM
+TathAgatena dharma-pa(ryAyo bhASi)ta:{7 ##Two clauses of the printed text are omitted after this.##} Yato me (jJAnam utpannaM
+na ma)(iii) yA evaM-rUpo dharma-pa OryAya: zruta-pUrva: Paramena{8 ##Not## N.##} te
+satv-azcaryeNa samanvAgatA bhaviSyanti. ye(i)[ha] (zutre) (iv) bhASyamAne{9 ##The printed text## bhASyamANe zrutvA ##is a little too long for this space. Probably
+omit## zrutvA, ##compare fol. 8 b(v) ; ##and read## bhASyamANe.}
+bhUta-saMjJA Om utpAdayiSyanti.YaiSA BhagavaM bhUta-saMjJA saiv-
+asaMjJA TasmA TathAgato bhA(Sate BhUta-)(v) saMjJA bhUta-saMjJA iti Na
+mama BhagavaM duSkaraM yad aham imaM dharma-paryAyaM bhASya-
+mAnaM{8 ##Not## N.##} nu avakalpayAmy a(ty{10 YAmy ##a is clear and also## dhi, but the letter between them is far from clear.
+It appears to be a preposition containing a small consonant, prefixed to## adhi, ##such 
+as## ati, anu ##or perhaps## abhi.}a)dhimucyAm vi Ye pi xxxxxxxx{11 ##The printed text is far longer than this space.##}
+xxx{12 ##What remains of these three letters looks like## minAyA, ##but might possibly be##
+[pa]zcimAyA.} paMcAza(tyAm{13 ##All this is more condensed than the printed text.##} imaM dharma-paryAyam a)vakalpayiSyanti{14 ##This varies from the printed text.##}
+a(dh)i xxix xxx (re)Na{15 ##Read probably## adhimucyiSyanti vistareNa; ##this agrees with the traces that
+remain of the first four letters.## PAli ##has the future form## muccissati.} 
+(##8b##)(i){16 ##Begins at p. 30, 1. 17, of the printed text.##} xxxxxxx nt(i){17 ##Read perhaps## ca parasya saMprakAzayiSyanti; ##compare fol. 10 b(i).##} T(e) (pa)ram-azcArya-samanvA(gatAbha-
+viSyanti) . Api tu ho puna: (SubhU)[te na teSam A]tma-saM jJA prava(rti)
+(ii) Syati . Na satva-saMjJA na jiva-saMjJA pravartiSyati na{18 [The superscript## ri ##of## ^rti^ ##has a peculiar sideward position, apparently to avoid
+collision with## Sya ##of## bhaviSyati ##in the line above. See footnote 4, p. 168.-R.H.##]} pudgala-saMjJA
+@184
+pravartiSyati{1 ##A sentence of the printed text is omitted after this.##}. Tat kasya heto: (YA sA Atma)-[saMjJA] (saiva)saMjJA
+(iii) yA satva-saMjJA yA jIva-{2 ##These## akSaras ##do not seem quite to fill up the space, and perhaps ca should
+be read after the first## yA.} OsaMjJA yA pudgala-saMjJA. saivasaMjJA.
+Tat kasya heto: Sarvba-saMjJa(pagatA) hi Bu(ddhA bhagavanta:)
+(iv) Evam ukte BhagavAn Ayu OSmantaM SubhUtim etad avocat Evam
+etat SubhUte evam eta SubhUte Param-azca(rya-samanvA)(v) gatAs te
+xxxxx{3 ##Read perhaps## satvA Ye iha, ##see fol.8 a(iii).##}sUtre bhASyamAne{4 ##Not## N.}notrasiSyanti. na saMtrasiSyanti na saM-
+trAsam Apatsyanti. [Ta](t kasya) heto: . Parama-(vi) pAramiteyaM SubhUte
+TathAgatena bhASitA{5 ##A sentence of the printed text is omitted here.##} . YA TathAgatena parama-pAramitA bhASitA{6 ##The construction here differs from that of the printed text.##} tAm
+xxxxxx bhASante{7 ##The printed text## aparimANA api BuddhA Bhagavanto BhASante ##is too long for this gap.##}
+(##9A#) i(Api{8 ##Begins at p. 31, 1. 9, of the printed text.##} tu) SubhUte yA TathAgatasya kSAnti-pAramitA saiv-
+apAramitA. (Tat ka)sya heto:r{9 ##The : is a scribal blunder : see similarly fol. 13 b, footnote 9, p. 188.##} YadA (me Ka)[liMga-rAjA aMga-] pra-
+tyaMga-mAMsAny acchai{10 ##The printed text exactly fits the gap.##} (ii)tsI. nAsI me tasmiM samaye Atma-(saMjJA
+vA satva-jIva-pudgala-saM)jJA vA. na me kAci saMjJA nasaMjJA babhUva
+(. Ta) t kasya heto: sa (iii)cen me SubhUte tasmiM sa (O maye) A(tma-
+saM)jJabhaviSyat vyApAda-saMjJAmetasmiM samaye ‘bhaviSya(t) [xxxx
+xx{11 ##The printed text## sacet sattva-saMjJA jIva- ##is too long for this space. Perhaps,
+following the analogy of line ii above, we might read## sacet satva-jIvA- 
+##which would suit the space.##} saM](iv)jJA. pudgala-saMjJabhaviSyat vyAo pAda-saMjJAme tasmiM
+samaye ‘bhaviSyat AbhijAnAmy ahaM SubhUte atIte ‘dhvani paM(ca-jAti-
+zatAni)r{12. ##These syllables would ordinarily be a little too much for this space, but might
+suit it, if written closely as many letters in this line are written. The r appears to 
+be euphonic between i and the semi-vowel y; but cf.## ^triNzar ##in fol. 7b(iii).##} yada(v)haM kSAnti-vAdi RSir babhUva Tatra me na (tma-saMjJA
+babhUva na) satva-saMjJA. na jIva-saMjJA. na pudgala-saMjJA. TasmA
+tarhi SubhUte bodhisa(vi)tvena sarvba-saMjJA vivarja yitvanuttarAyAM
+samyak{12. ##These syllables would ordinarily be a little too much for this space, but might
+suit it, if written closely as many letters in this line are written. The r appears to 
+be euphonic between i and the semi-vowel y; but cf.## ^triNzar ##in fol. 7 b(iii).##} [saM] (bodhau) ci(ttam utpAda)yitavyam Na rUpa-pratiSThitaM
+cittam utpAdayitavyaM (Na za)bda-(ga-)
+@185
+(##9b##)(i)(ndha{1 ##Begins at p. 32, 1. 2, of the printed text.##}ra)[sa-spraSTavya]-(pratiSThi) taM xxxxxx=u (tpAdayita-
+vyam) xxx (pra)[ti](SThitaM) [na] (caivapra)tiSThAnaM{2 ##All this is very much more condensed than the printed text, and it is not 
+easy to fill in the blanks with any certainty.##} TasmA[d eva
+TathAgato bhASat]i{3 BhAS ##is used here in the## parasmaipada, ##see fol. 13a(v), and apparently in 
+foll. 11 b(vi), 13b(iv),and 18 b(iii).##}(na) x(ii)rUpa-pratiSThitena bodhisatvena dAnaM
+(dAta)vyam{4 ##More condensed than the printed text.##} Api tu SubhUte bodhisatvenaivaM dAna-parityAgaM pari-
+tyajya sa(rvba-sa)tvA(nAm arthAya) (iii)YA caiva sA satva-saMjJA saiva
+O (saM)jJA. (Ya) ete sarvba-satvA TathAgatena bhASitAs ta evasatvA:
+(bhUta-vAd)i (SubhUte) [TathA](iv)gata: satya-vAdi Ta(tha)tA-vA{5 ##These letters may be a mistake for## tathA-vAdI, ##as the printed text has.##} O TathA-
+(ga)ta: a-vitatha-vAdI. Api tu SubhUte yathA TathAgatena dharmo
+‘bhisaM[buddho] (na ta)tra [sa](v)tyaM na mRSA. Tad yathA SubhUte
+a ndhakAra-praviSTa: evaM vastu-patito bodhisatvo vaktavya: Yo
+vastu-patito dAnaM pa[rityajati Tad yathA] (vi)(SubhUte) puruSo
+(ca)[kSuSm]AM x{6 ##There appears to be room here requiring another## akSara.} pra bhAtAyAM zurye ‘bhyudgate nAnA-vividhAni rUpANi
+pazyet evaM bo[dhisatvo] draSTavyo yo avastu-
+(##10A#)(i)patito{7 ##Begins at p. 32, 1. 19, of the printed text.##} dAnaM paritya(jati). Api tu Su bhUte ye te kula (putrA 
+vA . ku)la-duhitaro vA. ima(M dharma-paryA) yam udgraheSyanti{8 ##This is the probable form here, see foll. 10 b(iii), 11 a(iv), and 11 b(iii).##}. dhAra-
+yiSya(ii)ntiM^. vAcayiSyanti. (paryav) Apsya (nti). jJAtAs te TathAgatena.
+dRSTAs te TathAgatena. buddhAs te TathAgate(na){9 ##More condensed than the printed text.##} sarve te satvA aprame-
+yaM (iii)puNya-skandhaM prasaviSyanti. O Yo ‘yaM ca ho puna:
+SubhUte strI vA puruSo vA pUrvahna{10 ##Not## N.}-samaye. GaMgA-[nadI-vAlikA-
+samAn{11 ##See the next line where this expression occurs again. These two passages 
+supplement each other clearly.##}A](iv)tma-bhAvaM parityAgAM pa Oritya je . madhyahna-samaye
+sAyahna-samaye. GaMgA-nadI-vAlika-samAn (Atma)bhAvaM paritya(v)gAM
+parityajet{12 ##Much more condensed than the printed text.##} Ane na xxx
+{13 ##The printed text## paryAyeNa bahUni ##is longer than suits this gap, and here 
+the construction is in the singular and not the plural.##}ka lpa-ko[T]i-zata-sAhasraM AtmabhAva-pari-
+@186
+tyAgaM parityajet Yaz cemaM dha(rma-paryAyaM zrutvA na pra-)
+(vi)tiM^kSipe[t aya] m eva bahutaraM puNya-skandhaM {1 ##The reading here differs from the printed text.##} prasaveta. (Ka):
+(punar a xxx M{1 ##The reading here differs from the printed text.##}) SubhUte yo likhitvod(gRhNIyAt dhAra)ye. vA-
+(##10b##) (i)caye{2 ##Begins at p. 33, 1. 12, of the printed text.##}. paryavApnuyAt parasya{3 ##The printed text has## parebhyas ##here and elsewhere, but this MS.reads## parasya 
+##in some cases, compare fol. 6 b(iv); and## parebhya: ##later in other cases, compare
+fol. 16 b(iii). Either word might be read here.##} vistareNa saMprakA (za)ye
+Api tu SubhUte (acintyo ‘tu)lyo ‘yaM dharma-paryAya: (AyaM ca) dharma-
+paryAya: (ii)TathAgatena bhASita: AgrayAna-saMpra [sthitAnAM sa](tvA-
+nAm arthAya). zreSTha-yAna-saMprasthitAnAM satvAnAm arthAya (Ye
+imaM dha)rma-pa(iii)ryAyam udgraheSyanti. dhAra O yiSyanti. deza-
+yiSyanti. vAcayiSyanti. paryavapsyanti{4 ##A sentence of the printed text is omitted after this.##}. jJAtA(s te) TathAgatena (dR)STAs
+te TathA(iv)gatena{4 ##A sentence of the printed text is omitted after this.##}. Sarve te satvA prame ya-{5 ##The printed text has## aprameyeNa.}O puNya-skandh(ena)
+samanvAgatA bhaviSyanti. Acintyenatulyena . aprameye(Na.) [amA-
+pyena]{6 ##So probably.##} (pu)(v)Nya-skandhena samanvAgatA bhaviSyanti (Sarve te)
+satvA: xxyena{7 ##The printed text has samAMzena, but the word here is different.##} bodhin dhArayiSyanti. Tat kasya heto:. Na hi X xxx
+xxx{8 ##Read perhaps## zakyaM SubhUte ayaM.##} (vi)dharmo [h]I[na]dhimuktikai: zro(tuM) natma-dRSTikai: na
+satva-dRSTikai: na jIva-dRSTikai: na pudgala-dRSTikai: XX xxxxxxx{9 ##In this and the following gap the printed text has nearly twice as much matter.##}
+(##11A#) (i)xxxxxxx tuM{10 ##Begins at p. 34, 1. 7, of the printed text.##} vA . vAcayituM vA . paryavaptuM vA . naidaM
+sthAnaM vidyate . Api tu SubhUte yatra pRthivI-prad[e]ze a(yaM) sUtr-
+a(nto) prakA(ii)ziSyate . pUjanIya: sa pRthivI-pradezo bhaviSyati . sa-deva-
+manuSy-asurasya lokasya vandanIya: pradakSiNI-(karaNIya)z ca (sa pRthi-)
+(iii)vI-pradezo bhaviSyati . caitya Osa pRthivI-pradezo bhaviM^SyatiM^ . Ye te
+SubhUte kula-putrA vA kula-duhitaro vA imAn evaM-(iv)rUpa-sUtr-antAn
+ugraheSyaOtiM^{11 ##The d is omitted, just as t in## otrasiSyanti ##for## ottras^,##fol. 8 b(v). [See footnote 17, p. 99.-R.H.##]}. dhArayiSyati
+{12 ##The verb is in the singular.##} . dezayiSyati{12 ##The verb is in the singular.##} . vAcayiSyati{12 ##The verb is in the singular.##} . paryavap-
+syati{13 ##The verb is in the singular. A line of the printed text is omitted after this##}. Te paribhUtA bhaviSya(v)nti . su-paribhUtAz ca bhaviSyanti. YAni
+@187
+teSAM satvAnAM pUrva-janmikAni karmANi kRtAny apaya-saM(vartanI-
+yAni .) tA(ni dRSTa) (vi)eva dharme paribhU(tatayA) pUrva-janmikAny
+azubhAni karmANi XX xxxxxxxxxx{1 ##The printed text has## kSapayiSyanti Buddha-bodhiM canuprApsyanti; ##but this 
+is two or three## akSaras ##too short to fill the gap.##} (AbhijAnA-)
+(##11b##) (i)[m]y ahaM{2 ##Begins at p. 34, 1. 20, of the printed text.##} SubhUte (a)tIte ‘dhvany a(saMkhyeyai: kalpai:
+asaM)khyeyatarai{3 ##The bottom portions only of these four## akSaras ##are discernible, but they agree with the reading## khyeyatarai.}[r DIpaMkarasya] TathAgatasya samyak-saMbuddhasya
+pareNa caturazIti{4 ##These words fill the gap exactly.##} (ii)Buddha-koTi-niyuta-za[ta]-sahasrANi babhUva . Ye mayA
+ArAdhitA{5 ##This MS. has## ^rAdh^ ##in this and the following sentences. The printed text has## ^rAg^.}. yaM ca mayA (SubhU)[te] xxxxxx [XXX{6 ##Read probably## te BuddhA Bhagavanta ArAdhitA, except that these words seem to be one## akSara ##too little.##}na] (iii)viM^rAdhitA
+YaM ca carimi OkAyAM pazcimikAyA vartamAnAyAm{7 ##More condensed than the printed text.##} imaM sUtr-antam
+udgraheSyanti . dhArayiSyanti . vAcayi(iv)Syanti . paryavapsyanti{8 ##A sentence of the printed text is omitted after this.##}. Asya O
+SubhUte puNya-skandhasyantikAd eSa pUrvaka: puNya-skandha: zati-
+mAm{9 ##Sic; the printed text has## zatatamIm.##} api kalAM no
+(X{10 ##The character is a consonant without any trace of a vowel-mark. It resembles## 
+pa ##or## Sa, ##and must apparently be## pa ##of the preposition## upa. ##The reading is not## 
+upaiti ##as in the printed text. There is room for a small letter after this character,
+such as## mA ##if the## A ##is superscript. Perhaps the full reading may be## upamAti, ##and## 
+upamA ##occurs in the next sentence of the printed text.##})
+(v)tiM^. sahasrimAm api. zata-sahasritamAm api .
+koTI-zata-sahasritamAm api{11 ##More abbreviated than the printed text.##} . saMkhyAm api . kalAm api . gaNanAm api{12 ##The character does not appear to be## pyu.}
+(vi)(upan)i(Sadam ap)i (na kSama)te Sace SubhUte teSAM kula-putrANAM
+kula-duhitriNAM vA puNya-skandhaM bhASet yAvat te kula-pu-
+##Folio 12 wanting.
+(##13A#)## (i)m{13 ##Begins at p. 36, 1. 21, of the printed text.##} a[bhisaMbu]ddha[s Tas]m(A) DIpaM kareNa Ta thAgatena
+vyAkRto bhaviSyasi tvaM mAnav-anAgate ‘dhvani S*Akyamu(ni)r nAma
+@188
+TathAgato ‘rhan sam (yak-saM)(ii)buddha: Tat kasya heto: TathAgata
+iti SubhU[te BhUta]-tathatAyadhivacanam eva{1 ##Three lines of the printed text are omitted after this.##}. Ya: kazci SubhUte
+evaM vade TathAga[tena](iii)rhatA samyak-saMbuddhenanu OttarA
+samyak-saMbodhim abhisa(M)buddhA:{2 ##A line and a quarter of the printed text are omitted after this.##} Nasti SubhUte sa kazci dharmo
+yas TathAgaten(an)uttarAM (iv)samyak-saMbodhim abhisaM Obuddha:
+Ya: SubhUte TathAgatena dharmo ‘bhisaMbuddha: na tatra satyaM na
+mRSA TasmA TathAgato (v)bhASati sarvba-dhar[m]A xxxxxx{3 ##The printed text reads here## Buddha-dharmA iti Tat kasya heto:, ##but this MS. obviously varies here.##}dhar[m]A
+sarvba-dharmA iti SubhUte Sarve te a{4 ##This letter is not clear; it might be## tva ##or## tu.}-dharmA Tad ucyante sarvba-
+dharmA . Tad yathA SubhUte pu(vi)ruSo bhaved upeta-kAyo mahA-kAya:
+xx{5 ##There are two more letters here than the printed text has.##} A#yuSmA SubhUtir Aha . Yo so BhagavaM TathAgatena bhASi[ta:
+u]pe(ta-kAyo ma-)
+(##13b##) (i)hA-kAya:{6 ##Begins at p. 37, 1. 17, of the printed text.##} A#yuS[m]AMxxxxxxx{7 ##The scribe seems to repeat himself here, and the words## SubhUtir Aha Yo so ##would exactly fill all this space.##} (BhagavaM) TathAgatena
+bhASita: upeta-kAyo mahA-kAya iti a-kAya: sas TathA(ga)(ii)tena bhASita:
+Ta[d] u[c]yate upetakAyo mahA-kAya. Evam etat SubhUte Yo bodhi-
+satva: evaM vade. AhaM satvAM parinirvA(iii)payiSye . Na sa bodhisa-
+O tvo vaktavya: Tat kasya heto: Asti hi SubhUte kazci dharmo yo
+bodhisatvo nAma . Aha . No iti Bha(iv)gavaM{8 ##Two lines of the printed text are omitted after this.##} TasmA TathAgato bhA O
+Sati ni:satvA sarvba-dharmA: nirjivA ni:SpudgalA:{9 ##The## : ##is a scribal blunder; see fol. 9 a, footnote 9,p. 184.##} Ya: SubhUte bodhi-
+satvo evaM vade . AhaM (v)kSetra-viyUhAM niSpAdayiSye . (vi) tatha[m
+e]vaM kartavya: Tat kasya heto: KSetra-viyUbhA kSetra-viyUbhA iti
+SubhUte A viyU(vi)bhA sA TathAgatena bhASitA Tad ucyate kSetra-
+viyUbhA iti . Ya: SubhUte bodhisatvo [n]airAtma-dharmA nairAtma-
+dharmA: sa [Ta-]
+(##14A#) (i)thAgaten{10 ##Begins at p. 38, 1. 10, of the printed text.##}ar[hatA sa]myak-saMbuddhena bodhisatvo bodhisa-
+tva iti vaktavya: Tat kin manya(se Su)bhUte SaMvidyate TathAgatasya
+@189
+mAM(ii)sa-cakSu: A#ha. saMvidyate BhagavaM TathAgatasya mAMsa-cakSu:
+Tat kin manyase SubhUte SaMvidyate TathAgatasya divya[M] cakSu:
+A#(iii)ha . Evam eva BhagavaM O saMvidyate TathAgatasya divyaM
+cakSu: Tat kin manyase SubhUte SaMvidyate TathAgatasya pra(iv)jJA-
+cakSu: A#ha . Eva O m eva BhagavaM saMvidyate TathAgatasya prajJA-
+cakSu: Tat kin manyase SubhUte SaMvidyate TathA(v)gatasya dharma-
+cakSu: A#ha . Eva m eva BhagavaM saMvidyate TathAgatasya dharma-
+ca kSu: Tat ki(n ma)nyase SubhUte SaMvidyate TathAgata(vi)sya buddha-
+cakSu: A#ha . Evam eva BhagavaM saMvidyate TathAgatasya buddha-cakSu:
+Tat ki{1 ##This long gap can be restored with confidence according to the analogy of the 
+preceding sentences and the printed text.##}n manyase SubhUte YAvantA GaMgAyA nadyA
+(##14b##) (i)vAlikA:{2 ##Begins at p. 39, 1. 4, of the printed text.##} api nu tA vAlikAs TathAgatena bhASitA: A#ha. Evam eva
+Bha{3 ##Some of the letters that filled this gap have become impressed on the lower 
+margin of fol. 15a, and can be discerned there upside down and reversed, namely,##
+th x x xbhASitA: A#haxvame. ##The text has been thus restored.##}gavaM bhASitA TathAgatena{4 ##See note(3); all these letters can be discerned on the lower margin of fol. 15a.##} sA{5 ##This letter looks more like## sA ##than## tA.} (vA)li(ii)kA: Tat kin manyase
+SubhUte YAvantA GaMgAyA nadyA vA(lukAs) tAvantA GaMgA nadyo
+bhaveyu: Tatra yA vAlukA: tAvata: loka-dhAta(iii)vo bhaveyu: Kici
+bahava Os tA loka-dhAtavo bhaveyu: A#ha . Evam eva BhagavaM
+bahavas tA loka-dhAtavo bhaveyu: (iv)A#ha. YAvatA SubhUte O teSu
+loka-dhAtuSu satvA teSAm ahaM nAnA-bhAva-citta-dhArAM prajAnAmi . Tat
+kasya heto: (v)CiM^tta-dhArA citta-dhArA iti SubhUte AdhArA eSA TathAgatena
+bhASitA Tad ucyate citta-dhArA iti Ta(t kasya) he(vi)to: AttaM SubhUte
+cittaM nopalabhyate. AnAgataM cittaM nopalabhyate. PratyutpannaM
+(cittaM no)palabhyate{6 ##This ends with line 14 on p. 39 of the printed text. For the following blank letter, see next note.##}. X
+(##15A#) (i)xxxxxx ya (i) ti {7 ##The following words Tat kin manyase agree and begin with 1. 15 on p. 39 
+of the printed text, but these preceding words and the small gap at the end of 
+fol. 14b seem to contain either additional matter which comes between 11. 14 and 15
+of that text but does not appear there, or the words in the latter part of 1. 15, 
+those words coming first and tat kin manyase being inserted parenthetically after
+them. The latter supposition is improbable, because such a construction occurs 
+nowhere else in this MS. and the word## iti ##negatives it.## Iti ##indicates the close of the
+preceding discussion. Hence the former supposition seems right, and the gaps
+contain additional matter not in the printed text.##} Tat kin manyase ma(hAsA)hasraM
+@190
+loka-dhAtuM sapta-ratna-paripUrNaM xxxxxxxxxx (o)dA{1 ##This letter looks like## ta,vA ##or## dA, ##and judging from the printed text should be## 
+dA. ##The following gap can contain six average-sized or seven small letters. The 
+whole passage should probably run thus,## kRtvA arhadbhya: samyak-saMbuddhebhyo 
+dAnaM dadyAd api nu sa. ##It is more abbreviated than the printed text.##} (ii) xxxxxx
+tato nidAnaM bahu puNya-skandhaM prasave(ta) . A#ha . Bahu BhagavaM .
+A#ha . xxxxxxx{2 ##This gap would contain the mark of punctuation (which always follows## Aha)
+##and seven letters. Read perhaps## Evam etat SubhUte, ##the phrase of assent being
+doubled in the printed text. It occurs doubled thus in fol. 8b(iv).##} evam eva Su(iii)bhUte Bahu sa kula-putroOvA (ku)la.
+duhitA vA tato nidAnaM puNya-skandhaM prasaveta{3 ##Two lines of the printed text are omitted after this.##} . Sace ho puna:
+SubhUte skandho ‘bhavi(iv)Syan na TathAgato ‘bhASiOSya puNya-(skandha)
+puNya-skandha iti. Tat kin manyase SubhUte RUpa-kAya-pariniSpatyA
+TathAga(v) to dra STavya: A#ha. No iti BhagavaM Na rUpa-kAya-
+pariniSpatyA TathAgato draSTavya: Tat kasya he to: RUpa-kAya-pariniSpa-
+(vi)ttI rUpa-kAya-parini[Spatt]ir iti A-par iniSpattir eSA TathAgatena
+bhASita: Tad ucyate RUpa-kAya-pariniSpattir iti .
+(##15b##) (i) Tat{4 ##Begins at p. 40, 1. 13, of the printed text.##} kin ma nyase SubhUte la (kSaNa)-saMpadA yAs{5 SaMpadA ##is treated as the nomin. singular, see line ii. There are traces of the## 
+y; ##compare the same sentence in fol. 17a(iii.iv.)##} TathA-
+gato draSTavya:{6 ##A line of the printed text is omitted after this.##} Tat kasya heto: YA sA lakSaNa-saMpadA TathAgatena
+bhASitA lakSa(ii)Na{7 ##According to the printed text these words should be read## bhASitalakSaNa.} saMpadeSA{8 ##Or perhaps## aiSA, ##as it should be with## saMpadA. ##Compare a-## saMjJeSA ##in fol. 19 a(v.)##}TathAgatena bhASitA: Tad uc(yate
+la) kSaNa-saMpadA iti. Tat kin manyase SubhUte Api nu TathAgatasy
+aivaM bhava(iii)ti MayA dharmo dezito{9 ##A line and a half of the printed text are omitted after this.##} Yo O mama Subh[Ute] evaM 
+vade . TathAgatena kazci dharmo xxxx{10 ##The words## dezita iti ##are suggested by the printed text here, but seem rather 
+too much for the space unless we read## ity abhyA^.} abhyAcakSeta mAM sa: SubhU-
+(iv)te asat od[u]dgRhItena{11 ##The prefix## ud ##seems here to be superfluously repeated.##}. O Tat kasya heto: Dharma-dezanA dharma-
+@191
+d[e]zanA iti SubhUte Nasti sa kazci dharmo yo dharma-deza(v)nA xxx
+xxxa{1 ##There is room for six## akSaras ##here, of which the last has the vowel## A ##apparently.## 
+NAmopalabhyate ##of the printed text does not suit.##} yuSmAM SubhUtir Bhagavantam etad avocat Santi Bhaga-
+vaM keci saMtvA xxxxxxye ime evaM-(vi) rUpa-dharmAn xxxx mAnA x
+nti: xx zraddhAsyanti{2 ##All this is much abbreviated, and it is difficult to offer more suggestions for filling up the gaps.##}. BhagavAn Aha . Na te SubhUte xxxxxxxxx
+xxxx{3 ##Read probably## satvA nasatvA Tat kasya heto:, ##yet there still remain three more
+spaces for## akSaras, ##which are uncertain.##}
+(##16A#) (i)Sarva{4 ##Begins at p. 41, 1. 8, of the printed text.##}-satvA sarvba satvA iti SubhUt[e] Asa(tvAs te) TathAga-
+tena bhASitA Tad ucyate [sa]rvba-satvA iti . Tat kin manyase Su(ii)bhUte
+Api nu kazci dharmas TathAgatenanuttarAM samyak-saMbodhim abhisaM-
+buddha: A#yuSmAM SubhUtir Aha No iti{5 ##Compare fol. 13 b(iii).##} Bhaga(iii)vaM kazci dharma ya:
+TathAOgatenanuttarAM samyak-saMbodhim abhisaMbuddha: Bhaga-
+vAn Aha . xxxxxxxx{6 ##The printed text in doubling the phrase of assent suggests that we should read
+here## Evam etat SubhUte, ##but this seems to be one letter too short for the space. 
+Compare the doubled phrase in fol. 8 b(iv).##} (iv)evam eta SubhUte anuOr api tatra dharmo
+na saMvidyate nopalabhyate. Tad ucyate ‘nuttarA samyak-saMbo-
+dhi: Api tu SubhU(v)te sama: sa dharma: na tatra kiMcid biSamaM Tad
+ucyate ‘nuttarA samyak-saMbodhi: (n)airAtme(na . nir)jIvatvena . ni:sa-
+xxxxxxx{7 ##The printed text suggests the reading here should be## tvatvena niSpudgalatre, 
+##but this seems to be one letter too much for the space.##} (vi)na . SamA sanuttarA samyak-saMbodhi: sarvbe{8 ##For## sarvbai:.} kuzalair
+dharmair abhisaMbudhyate . KuzalA dharmA kuzalA dharmA iti Su-
+bhUte [A-]
+(##16b##) (i)dharmA{9 ##Begins at p. 41, 1. 20, of the printed text.##}ceva te TathAgatena bhASitA: Tad ucyante kuzalA
+dharmA iti . Ye khalu SubhUte yAvanta: tR-sAhasra-mahA-sAhasre loka-
+dhA(ii)tau Sumerava: parvbata-rAjAna: tAvantAn rAzIM saptAnAM ratnA-
+nAm abhisaMharitvA dAnaM dadyAd{10 ##More abbreviated than the printed text.##} yaz caita: prajJA-pAramitAyA
+@192
+xxxx{1 ##The printed text has## dharma-paryAyAd, ##but that is too long for this gap.##} (iii)cAtuSpadIm api gAthAm uOdgRhya parebhyo dezaye. asya
+SubhUte puNya-skandhasya eSa pUrvaka: puNya skandha: zatatamIM
+(iv)kalA nopeti . upanizAOm api na kSamate . Tat kin manyase SubhUte
+Api [nu] TathAgatasyaivaM bhavati x{2 ##So the printed text, but there is room for one more akSara.##} mayA sa (v)tvA mocitA: Na ho
+puNa: SubhUte evaM draSTavyaM Tat kasya heto: Na SubhUte ka[zci
+sa]tvo ‘sti yas TathAgatena parimocita: (vi)Yadi puna: SubhUte kazcit satvo
+bhavet yas TathAgatena parimocito ‘bhaviSyat sa [e]va TathAgatasy
+atma-grAho ‘bhaviSyat
+(##17A#) (i)(satva)-grAho{3 ##Begins at p. 42, 1. 12, of the printed text.##}. jIva-grAha: pudgala-grAho ‘bhaviSyat A#tma-
+grAha iti SubhUte agrAha eSa TathAgatena bhASita: Sa bAla-pR(ii)thag-
+janair udgRhIta: bAla-pRthag-janA iti SubhUte a-janAs te TathAgatena
+bhASitA: Tad ucyante bAla-pRthag-janA iti (iii)Tat kin manyase SubhUte
+LaOkSaNa-saMpadAyAs TathAgato draSTavya: A#ha. Evam eva Bha-
+gavaM lakSaNa-saMpadAy(As Ta)(iv)thAgato draSTavya:{4 ##This sentence differs altogether from the printed text; and three lines of that text are omitted after this.##} A#ha. OSacet
+puna: SubhUte lakSaNa-saMpadAyAs TathAgato draSTavyo ‘bhaviSyad
+rAjapi cakravarti Ta(v)thAgato ‘bhaviSyat TasmAd alakSaNa-saMpadAyAs
+TathAgato draSTavya: A#yuSmAM SubhUtirAha. YathahaM xxx{5 ##There are three more## akSaras ##here than the printed text has.##} Bhaga-
+vato (vi)bhASitasyartham AjAnAmi . na lakSaNa-saMpadAyAs TathAgato
+draSTavya: Atha BhagavAM tasyAM velAyAm imAM gAthAM xxxx{6 ##The printed text has## ime gAthe abhASata,##but here only one verse is quoted, and
+the verb would seem to be (reading on into fol. 17b) some irregular form like##
+abhASiSIt. BhAS ##is used here in the## parasmaipada, ##see fol. 13a (v). Still one## akSara 
+##would remain blank.##}
+(##17b##) (i)sIt {7 ##Begins at p. 43, 1. 5, of the printed text.##} Ye mAM rUpeNa adrAkS(i){8 ##The## kS ##has a vowel-mark above but none beneath.## AdrAkSIt ##seems to be
+intended. Grammatical irregularities occur here frequently.##} Ye mAM (ghoSeNa) anvayu:
+mithyA-prahANa-prasRtA na maM{9 ##The letter seems to be## maM ##or## mA, ##but not## mAM.} dra[kSya](nti) te (na)rA: Tat kin
+manyase SubhUte La(ii)kSaNa-saMpadAyA TathAgatenanu(tta)rA samyak-
+saMbodhi(m abhisaM)buddhA: Na ho puna: SubhU(te evaM) draSTavyaM
+@193
+Na SubhUte lakSaNa-saM (pa)(iii)dAyAs TathAgatenanuOttarA samyak-
+saMbodhim abhisaMbuddhA: syAt khalu evam asyA{1 ##This seems to be intended for a negative verb## a-syAt; ##compare a-gacchati in fol. 18 a(iii).##} Bodhisatva-yAna-
+(saMprasthi)tena sa(iv)tvena kasyaci dharmasya vinAOza: prajJapta:
+ucchedo vA . Na ho punas te SubhUte evaM draSTavyaM Na bodhi-
+satva-yAna-saMprasthi(v)tena satvena kasyaci dharmasya vinAza: prajJa-
+pta: nocchedaM vA . Ya: khalu puna: SubhUte GaMgA-nadI-vAlukA-
+samAM loka-dhAtuM (vi)sapta-ratna-paripUrNAM kRtvA dAnaM dadyAd{2 ##More abbreviated than the printed text.##}
+yaz ca bodhisatvo nairAtmeSu anutpattikeSu dharmeSu kSAntim pratila-
+bheta. Ayam eva te (dA)[naM]{3 ##The printed text has## Ayam eva tato nidAnaM.}
+(##18A#) (i)bahutaraM{4 ##Begins at p. 44, 1. 1, of the printed text.##} puNya-skandhaM prasaveta. Na ho puna: SubhUte
+bodhi[satve] na puNya-skandha: parigrahetavya: A#ha. Nanu BhagavaM pu{5 ##These words which nearly agree with the printed text exactly fit this long gap.##}
+(Nya)-(ii)skandha: parigrahetavyo . BhagavAn Aha . Parigrahetavya: Su-
+bhUte (nogra)[hetavya: Tad ucya] te pari [grahetavya: Api tu{6 ##These words fit this gap and agree with the printed text, except that##
+tad ucyate ##always stands in this MS. for## tenocyate ##of the printed text, and## iti ##is 
+omitted as it is often in this MS.##}] SubhUte
+[ya]: (iii)kazcid evaM vade . TathAgaOto gacchati vagacchati vA . tiSThati
+vA . (ni)SIdati vA . [zayyAM]v(A kalpaya)ti na me sa: bhASi(iv)tasyartham
+AjAnAti. TaOt kasya heto: TathAgata iti SubhUte ca{7 ##The printed text has## na, ##but the letter here resembles## ca ##or## da ##and not## na.}kvacid Agata:
+a-kvacid gata: TasmAd ucyate TathA(v)gato ‘rhAM samyak-saMbuddha:
+Ya: khalu puna: SubhUte kula-putro vA. kula-duhitA vA. yAvanti
+tR-sAhasra-mahAsAhasre loka-dhAtau (vi)pRthivI-rajAMsi sa evaM-rUpAM
+maSiM kuryA yAva evasaMkhyeyena . Tad yathA nAma paramaNu-
+saMcaya: Tat kin manya[se]SubhU-
+(##18b##) (i)te{8 ##Begins at p. 44, 1. 15, of the printed text.##} Api tu sa paramANu-saMcayo bhavet Aha. Evam eva
+BhagavaM Bahu sa paramANu-saMcayo bhavet Tat kasya heto: Sace
+BhagavaM (sa)[M](ii)(ca)yo ‘bhaviSya na BhagavAM ‘bhASiSyaM paramANu-
+saMcaya iti . Tat kasya heto Yo so BhagavatA paramaNu-saMcayo
+@194
+bh[ASita:] a-[saM](iii)caya: sa BhagavatA bhASiOta: Tad ucyate para-
+maNu-saMcaya iti. YaM ca TathAgato bhASati mahAsa[ha]sro (loka-)
+(iv)dhAtu: a-dhAtu sas TathAgaOtena bhASita: Tad ucyate mahAsahasro
+loka-dhAtu: Tat kasya heto: Sace Bhaga[va]M dhAtur a(v)bhaviSyat sa
+caiva piNDa-grAho ‘bhaviSya . Yaz caiva TathAgatena piNDa-grAho
+bhASita: (a)-[grA]ha sas TathAgatena bhASita: Ta(vi)d ucyate piNDa-grAha
+iti . BhagavAn Aha PiNDa-grAhaz caiva vyavahAro SubhUte ‘nabhilapya:
+Na sa dharmo nadharma: Sa ca bAla-{1 ##The words of the printed text fill the gap exactly. It also reads## avyavahAro.}
+(##19A#) (i)pRthag{2 ##Begins at p. 45, 1. 7, of the printed text.##}-janair udgR(hI)ta xxxxxxxx{3 ##Judging from the printed text the words in this blank might be either## ya: 
+kazci SubhUte evaM, ##or## Tat kasya heto: Ya evaM. ##The latter seems less probable
+because## tat kasya heto: ##is omitted in the Japan MS. as noted in the printed text.##} vade . A#tma-dRSTis
+TathAgatena bhASitA: satva-dRSTi: jIva-dRSTi: pudgala-dRSTi: x{4 ##There seems to be one more syllable here than in the printed text.##} Ta-
+(ii)thAgatena bhASitA Api nu samyag vada mAno vade. SubhUtir Aha{5 ##A line of the printed text is omitted after this.##} .
+YA sA BhagavaM Atma-dRSTis TathA[ga]tena bhASitA: x (iii)a-dRSTi: sA
+TathAgate Ona bhASitA Tad ucyate Atma-dRSTir iti. EvaM SubhUte
+bodhisatva-yAna-saMprasthitena sarvba-dharmA (iv)jJAtavyA draSTavyA.
+adhi O (SThita)vyA{6 ##So the word appears to be.##}. (Ya)thA na dharma-saMjJA pratyupasthAhe . Tat
+kasya heto Dharma-(saMjJA) dharma-saMjJA iti SubhU(v)te a-saMjJeSA
+TathAga(tena) bhASi (tA) Tad ucyate dharma-saMjJeti. Ya: khalu
+SubhUte bodhisatvo (mahAsa) tvo xxxxxx{7 ##Read perhaps## pramey-asaMkhyeyAM.} loka-dhAtuM (vi)sapta-(ratna-
+par)ip(urNAM) xxxx{8 ##Read perhaps## parityAgam; ##see fol. 9 b(ii), and fol. 10a(iv.v.)##} parityaje . d{9 ##The punctuation here is out of place.##} yaz ca kula-putro vA . kula-duhitA
+vA(i) ta: prajJA-pAramitAyA dharma-paryAyA cAtuSpa-{10 ##For## cAtuSpadim, ##see fol. 16 b(iii).##}
+(##19b##) (i)[dI]m {11 ##Begins at p. 46, 1. 1, of the printed text.##} api gAthAm udgR(hya) dhAraye . [dezaye. vA](ca)ye
+[paryavapnuyAt parebhyaz{12 ##Such traces of the letters as remain agree with this reading.##}] (ca vistar) eNa saMprakAzayed ayaM tato
+bahutaraM puNya- (ii)(ska)ndhaM prasavet Katha[M] ca saMprakAza-
+@195
+(yed ya)thA nakAzaye . Tad ucyate saMprakAzaMyet {1 ##The printed text puts this after the verse quoted here.##} TAra[kA timi]-
+raM dipo mAy-avazyAya-budbudaM svapa(iii)naM vidyud abhraM ca evaM
+draS)[Ta] O vya[M] saMs(kRtaM) Idam avoca BhagavA[n A]ttamanA
+Sthavira-(SubhU)[tis te] ca bhikSu-bhikSuNy-upasak-opa (iv)(sikA) . sa-deva-
+gandharvba-OmAnu S-asuraz ca[l]oko Bhagavato bhASitAm abhya-
+nandur iti. A#ddhyaSTama BhagavatI A#rya-Vajracchedi(v)kA prajJA-
+pAramitA samAptA x(ya) siddhix ya{2 ##These letters must apparently contain some woman’s name, because the word 
+‘husband’ follows.##}. saha bhartari NandiMbalena .
+saha pitRNA e{3 ##This letter is not like the e always used in this MS. but resembles that in## 
+evam in fol. 14 b(iii).##}XXXXXXXX xxxx (vi)[XXAX] balena . (sa) haxxxxxxx
+(n)ena . saha (Ne)salena . saha SaMcaXtyo . sa(ha X sarvba-satv)[ai:
+XXXX] xx
+##[Note to p. 178. The forms## U ##and## U# ##occur only with## bh (##in the proportion of
+103 : 12); and## U#, ##in a slightly modified form, occurs also with r (see, e.g.,## rUpeNa, 
+##fol. 17 b(i), ##in Ancient Khotan, Plate CVIII); while the form## u ##occurs with p, s, and 
+y. All three forms are found also in the manuscript of the## Saddharma-puNDarIka,
+##edited by Professor Luders, pp. 144 ff. In that manuscript, indeed, all, or most of
+the other varieties of vowel signs have been noticed; see pp.140-2. The forms## U,U#
+(##in the## rU ##variety), and## u ##are the fourth, second, and first, respectively, of Professor
+Luders’ enumeration. Of his third form there is no example in the## VajracchedikA.##—R. H.]##

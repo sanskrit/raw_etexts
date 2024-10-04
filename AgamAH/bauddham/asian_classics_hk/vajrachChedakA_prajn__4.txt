@@ -1,0 +1,555 @@
+@I
+##APPENDIX II 
+THE GILGIT TEXT OF THE## vajracchedikA
+##BY N. P. CHAKRAVARTI##
+@II
+##Blank##
+@175
+##INTRODUCTION 
+While examining the collection of manuscripts discov-
+ered in 1931 in a stupa mound in the mountainous region
+three miles to the north of Gilgit, which is now preserved
+in the National Archives of India, New Delhi, as a tempo-
+rary measure, I came across seven folios of a manuscript
+of## vajracchedikA. ##The manuscript is written
+on birch bark and bears the folio numbers 5 and 7 to 12
+on the obverse. Pages 1 to 4 and 6 are now missing. Dr.
+Nalinaksha Dutt has noticed this manuscript as consisting 
+of 12 leaves{1 Gilgit mss., Vol. I, p. 47.} but on inquiry he wrote to me saying that
+he did not remember if all the 12 leaves were actually there.
+I could not find the missing leaves even after a careful
+search; obviously they were missing all the time.
+Folio 5 is 36.5 mm in length and 5.5 mm in width
+and bears 7 lines of writing; while folios 6-12 are of the 
+same width, the length is 37 mm and they bear 6 lines of 
+writing on each side with the exception of the reverse of 
+leaf 12 where the manuscript ends, which has only three
+lines. Considering the portion which is missing, it would
+appear that the first five leaves had 7 lines of writing on 
+each side and the rest 6 lines each. The writing on all
+the folios is in the same hand and the difference in the 
+number of lines in the subsequent pages for which a fresh 
+birch bark appears to have been used, seems to be due to 
+the fact that a thicker pen was used. 
+@176
+The bundle of which 27 leaves are now preserved, ori-
+ginally contained texts of at least four manuscripts,## vaj-
+racchedikA, bhaiSajyaguru, ##an unidentified text
+and## vasudhArA. ##The folios 24-27 are missing but it is 
+clear that## bhaiSajyaguru ##which began on folio 13 must
+have ended on folio 24. The third text ended on folio 34
+but there is no colophon indicating the name of the work. 
+Folio 35 begins with the tale of## sucIndra ##in## vasudhArA { 1 ##C. BENDALI, Catalogue of Buddhist Sanscrit Manuscripts in Cambridge,
+Cambridge 1883, Mss. Add. 1335 and Add. 1400.##}
+Max Mueller was the first to edit the text of## vaj-
+racchedikA ##from the manuscript received from
+Japan{2 Anecdota Oxoniensia, Aryan Series, I, 1. Translated by the same scholar 
+in Sacred Books of the East, vol. 49, Pt. II, pp. 109-144, in French by C. DE
+HARLEZ in Journal Asiatique, 1891, s. 8, T. XVIII, pp. 440 ff. and in German
+by MAX WALLESER,## prajJAparamitA, ##Die Vollkommenheit der Erkenntnis,
+nach indischen, tibetischen and chinesischen Quellen usw., Goettingen 1914,
+pp. 140-158.}. F. E. Pargiter has edited a fragmentary text
+of the work discovered by the late Sir Aurel Stein during his
+first expedition to Chinese Turkestan during 1900-1901,
+from the ruins of a small dwelling place at Dandan Uliq{3 A. F. RUDOLF HOERNLE, Manuscript Remains of Buddhist Literature 
+found in Eastern Turkestan, Oxford 1916, pp. 176 ff.}.
+This manuscript is written on country paper and is badly
+decayed. Its language is indifferent sanscrit. Sten Ko-
+now has also edited an old Khotanese version of the same 
+work brought back also by Stein{4 HOERNLE, 1. c., pp. 214 ff.}.
+Folio 5 of the present ms. begins with## ta: bhagavAn Aha,
+##corresponding to p. 29, 1. 5 and ends with## sarva saMjJA
+varjayitvA, ##corresponding to p. 32, 1. 1 of Max Mueller’s
+edition. Folio 7 begins with## (pa)rimANena ##in p. 3, 1.2 of the 
+same edition. Though incomplete, the text is edited here
+@177
+for several reasons. It is decidedly the earliest manuscript
+known so far of the work. Moreover, if compared to the 
+mss. examined by Max Mueller, the present mss. is 
+remarkably free from errors and is much shorter, 
+avoiding unnecessary repetitions. The few mistakes
+which occur are mainly orthographical or are due
+to oversight, e. g.## dvAtRMzatA ##for## dvAtri- (5 ##a,## 1.2), 
+bhUta ##for## bhUtah- (7 ##a,## 1.3), paMcazatyAm ##for## paMca-,
+duhitRnAM ##for## duhitrinAM- (7 ##b##, 1.3), asastAd ##for## asato-
+(7 ##b,## 1.4) kuzali ##for## kuzalair- (10 ##a,## 1. 4) cevaM ##for## cai-
+vaM- (10 ##b,## 1.1). anusvAra ##has been omitted in## samAmllo-
+kAn – (11 ##a,## 1. 4) ##and## –kheyAmllokAn-(12 ##a,## 1.5). ##All
+such omissions and errors have been corrected in the foot
+notes in the text. As regards orthography consonants 
+are not doubled following A# repha, ##the rare exceptions 
+being## rddipaMkarasya- ##(7 a, 1.6) and## varttamAnAyAM-
+##(7 b, 1.1). Sattva has been invariably spelt as## satva.
+##For indicating punctuation a common mark is a comma laid 
+lengthwise like the figure of 1. Another is a dot followed
+by a comma to indicate a full stop (5 a,1.5). In order
+to indicate the end, a circle with a dot in the middle flanked
+by two strokes on either side is used. The mss. ends with##
+vajracchedikA samAptA ##and there is no colophon at the 
+end indicating the name of the copyist, the place where it
+was copied or the purpose for which it was prepared.
+The writing is of the upright variety of the Gupta script
+as in the mss. of the## BhaiSajyaguru, ##a page of which has 
+been illustrated in Dutt’s edition of the work.{1 Gilgit mss. Vol. I.}.
+The date of these manuscripts has been placed by earlier
+scholars in the 5th, 6th or, even in the 7th century. But
+@178
+on examining the script carefully we find that it is analogous
+to that used in the Bower mss. II and III and Weber
+mss. I and III. Initial## A ##follows the Weber ms. III, the
+initial i is represented by three dots and the initial e is 
+written in the same way as in the Weber mss. I. In ka
+the vertical bar is straight but the horizontal bar is bent.
+Ja is cursive as in Weber mss. III and ma and ya follow
+closely the Bower ms. III, the latter with a loop in the 
+left. Ra is of the same variety as in Bower mss. II and
+the marks used for punctuation are also similar. Dr. Hoernle
+in his intensive study of the Bower manuscript has shown 
+that its parts I-III, IV, V-VII and VI were written by 
+four different scribes, three of whom were contemporaries, 
+the writer of part VI being a little later. According 
+to him the date of the Bower mss. has to be placed, on 
+palaeographic grounds, in the second half of the 4th cen-
+tury- rather nearer the beginning than the end of the 
+period, i. e. approximately in the third quarter of the 4th 
+century A. D.{1 Indian Antiquary, Vols. XLII, XLIII, 1913-14, Supplement.}
+From the similarity of the script of the Gilgit mss. of##
+vajracchedikA ##with that of Bower mss. on the whole 
+and the resemblance of a few letters with the Weber mss.
+I and II, the Gilgit mss. may have to be placed early in the 
+5th century A. D., rather than in the 6th century as has
+been held hitherto. On comparison with the script of the 
+Kasia Plate, Pargiter placed the## VajracchedikA ##manuscript 
+edited by him at the end of the 5th or the beginning of 
+the 6th century A.D. But the script of that manuscript
+is more developed than that of the Gilgit manuscript which
+has therefore to be placed at an earlier date. 
+@179
+Hoernle also holds that the Bower ms. was written by 
+Indians settled in Kuchar. But so far as the Gilgit mss. 
+are concerned there is no doubt that they were written
+by the scribes settled in the Gilgit region, perhaps Buddhist
+monks from Kashmir.
+But this does not mean that all the mss. in the Gilgit
+collection were written in the same period. The script
+used in some is early and in others it is definitely of a much
+later date, spread over a century if not longer. 
+Apart from the palaeographical evidence there is also
+some internal evidence to show that the manuscripts recov-
+ered from Gilgit were not written at the same time. Names
+of at least three rulers appear in the colophons of the various
+mss. Dutt notices the name of only one## zAhi ##ruler mention-
+ed in a colophon of one of the manuscripts. His full name 
+with titles was## zrIdeva zAhi surendra vikramAditya nanda{1 ##DUTT, 1. c., p. 32 of the text.}.
+He along with## zamidevi-trailokyadevi bhaTTArikA, ##prob-
+ably his wife, and one Vihali were the chief donors of the 
+manuscripts. Dutt connects his colophon with the mss.
+B of## bhaiSajyaguru ##edited by him. I examined the mss.
+carefully and found that it was the gift of the devout lay
+worshipper## vasaMta ##and his associates while the page
+where the name of the ruler appears, forms the obverse of an 
+unnumbered leaf and may have belonged to a different ma-
+nuscript. The scribe of the king’s manuscript was## Arya
+##Sthirabuddhi and the collaborator Narendradatta who may
+be identical with the## mahabhANaka ##Narendradatta, the 
+scribe of the## ajitasenavyAkaraNa ##edited by Dutt. I came 
+across the name of a second ruler of the same dynasty in 
+the colophon of another unnumbered page. He is styled
+@180
+as## paToladeva zAhi vajrAditya nandin. ##No further infor-
+mation of the ruler is given in the ms. and it can not be
+ascertained whether he was a predecessor or successor of## 
+surendra vikramAditya. ##The name of another## paTola-
+deva ##is, however, known from an unpublished inscription
+from Gilgit, an impression of which was sent to me in 1942
+by the British Political Agent in Gilgit. The inscription 
+is incised on a rock near Hunza and records the foundation 
+of a city called Makarapura by one## makarasiGgha, ##a chief
+in the district of## haNesarA ##(Hunza) and the great Lord
+of the elephants## (mahAgajapati) ##of the P. M. P.## paToladeva
+zAhi zrideva surendrAtityanandideva. ##The inscription
+describes him as being born in the lineage of Bhagadatta, 
+obviously the same as the son of Naraka mentioned in the##
+mahAbhArata. ##It is interesting to note that the same line-
+age is claimed by## bhAskaravarman, ##the ruler of## prAgiyotiSa
+##(Assam) and the contemporary of King## harSa ##of Kanauj
+in the 7th century A. D. There is nothing to show any
+connection between these two ruling families, one of which
+ruled in the extreme north and the other in the eastern
+part of India. It seems that both the dynasties, the## Adi-
+tyas of Gilgit and the Varmans of Assam, traced their descent
+from the same source with the same object in view viz. to 
+establish a claim for their## kSatriya ##origin.
+This inscription is dated in the 13th day of the bright
+half of the month## pauSa ##of the year 47. Unfortunately 
+there is no indication to show whether this year has to be 
+referred to any particular era, or denotes only the regnal
+year. We know that the Laukika era was in use also in the 
+northern parts of Kashmir and if the year has to be referred
+to that era, in which the century was omitted, the exact
+date can not be verified from the details given in the epi-
+@181
+graph. If it is a regnal year, which seems unlikely,## paTola-
+deva ##must have been quite advanced in age when this record
+was engraved. But here the palaeographical evidence is of
+some use to us. The script used in the record may be called
+proto## zAradA ##as it shows many earlier forms. According
+to Buehler, epigraphic## zAradA ##dates from the end of the 8th
+to the beginning of the 9th century though as a literary 
+script it may have been much older. The script is earlier
+than that used in the image inscriptions of Brahmor and
+Chatrahi{1 VOGEL, Antiquities of Chamba State, Pt. I (Arch. Surv. Ind., New Im-
+perial Series, Vol. XXXVI), Pl. X.} and may therefore have to be placed at a period
+not later than the 7th century, perhaps even earlier. This##
+paToladeva ##seems to be identical with## zAhi zAhAnuzAhi
+paToladeva ##mentioned in a fragmentary manuscript of##
+mahAmAyUrI ##recovered by M. S. Kaul in 1938 from## stUpa
+##B. which gives further information about his family{2 M. S. KAREL, Report on the Gilgit Excavation in 1938, p. 11.}. The 
+script of this manuscript is decidedly much later than that
+of the## vajracchedikA ##and the Vinaya texts of the Gilgit
+collection.
+Now who were these## zAhi ##rulers ? Dutt seems to take
+it for granted that they belonged to the family of the HindU#
+zAhiya ##dyanasty of## udabhANDapura ##(Ohind). But this is 
+not definitely so. LalliyA# sAhi, ##the founder of this 
+dynasty, was a contemporary of## zaGkaradeva ##of Kashmir
+(883-902 A. D.) and would therefore be too late in date.
+Moreover, the region were this inscription and the manu-
+scripts have been found is in Darada territory and would
+be outside the kingdom of the## zAhis ##of Ohind.## KalhaNa
+##mentions the names of several DaradA# zAhis ##who seem to
+have taken prominent parts in Kashmir politics in the 11th 
+@182
+and 12th centuries but he does not mention any earlier
+rulers of Darada by name. According to Tibetan sources
+the Gilgit region was known as## bruza ##whose rulers seem to
+have some connection with the kings of## udyAna ##(Swat).
+According to the same source the kings of## bruza ##had the
+title devaputra (gnam sras) and the manuscripts of Bstan##
+‘byun actually give the name of one of the kings of## bruza
+##as Sad-Zver. This title, however, is not found either in 
+the inscription or in the manuscripts from Gilgit nor can 
+the ruler mentioned in the Tibetan manuscript be identified
+yet. Probably he was a later king when Gilgit had formed 
+a closer political relation with Tibet, through matrimonial 
+and other alliances.
+[The segn * indicates the beginning of a line in the manuscript.]
+(Folio 5 a)## ta: bhagavAn Aha | yAvat subhUte trisAhasra-
+mahAsAhasre lokadhAtau pRthivIraja: kazcit tad bahu |
+Aha | bahu bhagavan tat pRthivIraja: arajas tathAga-
+tena bhASitas{1 ##Rd.## bhASitaM.} tenocyate pRthivI *{2 ##The segn * indicates the beginning of a line in the manuscript.##} raja iti | yo py
+asau lokadhAtur adhAtuM sa tathAgatena bhASitas
+tenocyate lokadhAtur iti | bhagavAn Aha | tat kiM
+manyase subhUte dvAtRMzatA{3 ##Rd.## dvAtriM.} mahApuruSalakSaNais
+tathAgato draSTavya: * Aha | no bhagavaMs tat kasya
+hetor yAni tAni dvAtriMzan mahApuruSalakSaNAni ta-
+thAgatena bhASitAny alakSaNAni tenocyate dvAtriMzan
+mahApuruSalakSaNAnItI | bhagavAn Aha | yaz ca kha
+* lu puna: subhUte strI vA puruSo va gaGgAna-
+dIvAlukopamAn AtmabhAvAn parityajyed yaz ceto
+dharmaparyAyAd antazaz catuSpAdikAm api gAthAm
+udgRhya parebhyo dezayed ayam e*va tato nidA-
+@183
+naM bahupuNyaM prasavetAprameyam asaMkhye-
+yam | atha khalvAyuSmAM subhUtir dharmaprave-
+genAzruNi prAmuMcat so ‘zruNi prAmRjya bhaga-
+vantam etad avocat A*zcaryaM bhagavan paramA-
+zcaryaM sugata | yAvad ayaM dharmaparyAyas ta-
+thAgatena bhASito yato me bhagavaM jJAnam utpan-
+naM na me jAtvayaM dharmaparyAya: zrutapUrva:
+parameNa * te bhagavann AzcaryeNa samanvAgatA
+bhaviSyanti ya iha sUtre bhASyamAne bhUtasaMjJAm
+utpAdayiSyanti | yA caiSA bhagavan bhUtasaMjJA sai-
+vAbhUtasaMjJA tasmAt tathAgato bhASate
+##(Folio 5 b)## bhUtasaMjJAbhUtasaMjJeti | na me bhagavann- 
+AzcaryaM yad aham imaM dharmaparyAyaM bhaSya-
+mANam avakalpayAmy adhimucya | ye te bhagavan
+satvA imaM dharmaparyAyam udgrahISyanti | yAvat
+paryavApsya * nti te paramAzcaryasamanvAgatA bha-
+viSyanti | api khalu bhagavan na teSAm AtmasaMjJA
+pravartsyate na satvasaMjJA na jIvasaMjJA na pud-
+galasaMjJA | tatkasya heto: sarvasaMjJA pagatA hi
+* buddhA bhagavanta: bhagavAn Aha | evam etat
+subhUte paramAzcaryasamanvAgatAs te bhaviSyanti
+ya imaM dharmaparyAyaM zrutvA nottrasiSyanti na
+saMtrAsiSyanti | na saMtrasamApatsya * nte | tat-
+kasya heto: paramapA ramiteyaM subhUte tathA-
+gatena bhASitA | yAM ca tathAgata: paramapAra-
+mitAM bhASate | tAm aparimANA buddha bhaga-
+vanto bhASante | tenocyate pa * ramapAramiteti | api 
+tu khalu puna: subhUte yA tathAgatasya kSAntipA-
+ramitA saivApAramitA | tatkasya heto: yadA subhUte 
+kalirAjAGga{1 ##MAX MULLER’S edition reads## kaliMgarAjAMga. ##He quotes Eitel
+(Handbook of Chinese Buddhism, pp. 49 and 55) as giving the alternative read-
+ing of## kAlirAja ##but the correct reading seems to be## kalirAja ##as found in the Gilgit
+ms. See Max Muller’s ed., p. 31, n. 2.##} pratyaNgamAMsAnyacchaitsIt nAsI * n me 
+@184
+ta-asmin samaye AtmasaMjJA vA satvasaMjJA vA
+jIvasaMjJA vA pudgalasaMjJA vA | vyApAdasaMjJA
+vApi me tasmin samaye bhaviSyad abhijnAnAmy
+ahaM subhUte atItedhbani paMca jAtiza * tAni yo
+‘haM kSAntivAdi RSir abhUvaMs tatrApi me nAtma-
+saMjJAbhUn na satvasaMjJA na jIvasaMjJA na pud-
+galasaMjJA | tasmAt tarhi subhUte bodhisattvena 
+mahAsattvena sarvasaMjJA varjayitvA{1 ##MAX, MULLER##, vivarjayitvA ##which is grammatically wrong.}
+(Folio 6 missing; 7a )## [pa]rimANena | sarve te satvA sam-
+AMzena bodhiM dhArayiSyanti | tatkasya heto: na
+hi zakyaM subhUte ayaM dharmaparyAyo hInA-
+dhimuktikai: satvai: zrotuM | nAtmadRSTikairna
+satvajIvapu*dgaladRSTikai: zakyaM zrotum udgra-
+hItuM vA | yAvat paryavAptuM vA nedaM sthAnAnI
+vidyate | api tu khalu puna: subhUte yatra pRthi-
+vIpradeze idaM sUtraM prakAzayiSyate | pUjanIya: 
+sa * pRthivIpradezo bhaviSyati | sa devamAnuSAsu-
+rasya lokasya vandanIya: pradakSiNIkaraNIyaz cai-
+tyabhUta{2. ##Rd.## bhUta:} sa pRthivIpradezo bhaviSyati | ye te su-
+bhUte kulaputrA * vA kuladuhitaro vA | imAn evaM-
+rUpAn sUtrAntAn udgrahISyanti yAvat paryavApsyanti
+te paribhUtA bhaviSyanti suparibhUtA: yAni ca te-
+SAM pUrvajanmikAny azubhAni ka * rmANy apAya saM-
+vartanIyAni dRSTa eva dharme paribhUtatayA kSapa-
+yiSyanti buddhabodhiM cAnuprApsyanti | abhijAnAmy
+ahaM subhUte atIte’ dhvany asaMkhyeyai: kalpair
+asaMkhyeya * tarair ddipaMkarasya tathAgatasyA-
+@185
+rhata: samyaksaMbuddhasya pareNa caturazItibud-
+dhakoTiniyutazatasahasrANy abhUvan yAni mayA ArA-
+gitAni ArAgyA ca na virAgitAni 
+(##Folio 7b##) yacca mayA subhUte te buddhA bhagavanta
+ArAgya na virAgitA yacca varime kAle pazcimAyAM 
+paMcAzatyAM{1 ##Rd.## paMca.} varttamAnAyam imAM sUtrAntAn ud-
+grahISyanti | yAvat paryavApsyanti | asya subhU*te
+puNyaskandhasyAsau pUrvaka: puNyaskandha: zata-
+mIm api kalAn{2 ##Rd.## kalAM} nopaiti sahasratamIm api | zatasa-
+hasratamIm api saMkhyAm api kalAm api gaNanAm 
+apy upamAm apy upa * nizAm api na kSamate |
+sacet subhUte teSAM kulaputrAnAM kuladuhitrInAM{3 ##Rd.## duhitRNAM.}
+puNyaskandhaM bhASeyaM yAvantas te satvA ku-
+laputrA: kuladuhitaraz ca tasmin samaye puNya
+* skandhaM pratigrahISyanti | unmAdaM satvA anu-
+prApnuyuz cittavikSepaM vA gaccheyu: api tu kha-
+lu puna: subhUte acintyo yaM dharmaparyAya: 
+asyAcintya eva vipAka: * Aha | kathaM bhagavan 
+bodhisattvayAnasaMprasthitena sthAtavyaM kathaM
+pratipattavyaM kathaM cittaM pragrahItavyaM |
+bhagavAn Aha | iha subhUte bodhisatvayAnasaM
+prasthitenaivam cittam utpA * dayita vyaM sar-
+vasattvA mayA anupadhizeSe nirvANadhAtau pari-
+nirvApayitavyA: evaM ca satvAn parinirvApya na
+kazcit satva: parinirvApito bhavati | tatkasya heto: 
+sace-
+(##Folio 8 A#) t subhUte bodhisattvasya sattvasaMjJA pra-
+varteta | jIvasaMjJA pudgalasaMjJA vA na sa bo-
+@186
+dhisatva iti vaktavya: tatkasya heto: nAsti subhUte
+sa dharmo yo bodhisatvayAnasaMprasthito nAma |
+tat kiM manya*se subhUte asti sa kazcid dharmo
+yas tathAgatena dIpaMkarasya tathAgatasya antikAd
+anuttarAM samyaksambodhim abhisambuddha: Aha 
+nAsti sa bhagavan kazcid dharmo yas tathAgatena
+dIpaMkara*sya tathAgatasyAntikAd anuttarAM sam-
+yaksambodhim abhisambuddha: Aha | tasmAd ahaM
+dIpaMkareNa tathAgatena vyAkRto bhaviSyasi tvaM 
+mAnavAnAgate’dhvani zAkyamunir nAma tathA*gato
+‘rhan samyaksambuddhas tatkasya hetos tathA gata
+iti subhUte tathatAyA etad adhivacanaM ya: kazcit
+subhUte evaM vadet tathAgatenAnuttarA samyak-
+sambodhir abhisambuddheti*nAsti subhUte sa kazcid
+dharmo yas tathAgatenAnuttarA samyaksaMbodhir
+abhisambuddha: ya: subhUte tathAgatena dharmo
+`bhisaMbuddhas tatra na satyaM na mRSa:{1 ##Rd.## mRSA^.} tasmAt
+tathAgato bhASate | sarva*dharmA buddhadharmA iti 
+subhUte sarve te adharmAs tenocyate sarvadharmA
+iti | tadyathApi nAma subhUte puruSo bhaved upe-
+takAyo mahAkAya: subhUtir Aha | yo
+(##Folio 8 b##) ‘sau tathAgatena puruSo bhASita upetakAyo 
+mahAkAya: akAya: sa bhagavaMs tathAgatena bhA-
+Sitas tenocyate upetakAyo mahAkAya: bhagavAn
+Aha | evaM etad subhUte * yo bodhisatva evaM 
+vadet ahaM satvAn parinirvApayiSyAmIti | na sa bo-
+dhisatva iti vaktavya: tatkasya heto: asti subhUte
+sa kazcid dharmo yo bodhisatvo nAma | Aha | no hI-
+daM bha*gavan bhagavAn AhA | tasmAt tathAgato
+bhASate ni:sattvA: sarvadharmA: nirjIvA niSpud-
+@187
+galA: ya: subhUte bodhisatva evaM vaded ahaM
+kSetravyUhAn niSpadayiSyamIti | so ’pi tathaiva *
+vaktavya: tat kasya heto: kSetravyUhA iti su-
+bhUte avyUhAs te tathAgatena bhASitas tenocyate kSe-
+travyUha iti | ya: subhUte boodhisatvo nirAtmano
+dharmA nirA*tmano dharmA ity adhimucyate sa
+tathAgatenArhatA samyaksaMbuddhena bodhisatvo bo-
+dhisatva{1 ##Rd.## mahAsatva ##as in M. M.##} ity AkhyAtas tat kiM manyase subhUte
+saMvidyate tathAgatasya mAMsacakSu: Aha | evam
+etad bha*gavan saMvidyate tathAgatasya mAMsa-
+cakSu: bhagavAn Aha | tat kiM manyase subhUte
+saMvidyate tathAgatasya divyaM cakSu: prajJAcak-
+Sur dharmacakSur buddhacakSu: Ahaivam etad bha-
+gavan saMvidyate ta-
+(##Folio 9 A#) thAgatasya divyaM cakSu: prajJAcakSur dhar-
+macakSur buddhacakSu: | bhagavAn Aha tat kiM
+manyase subhUte yavantyo gaMgAnadyAM vAlukAs
+tAvantya gaMgAnAdyo bhaveyus tAsu yA vAlukAs
+tAvanta eva lo * kadhAtavo bhaveyu: kazcid bahavas
+te lokadhAtavo bhaveyU: bhagavAn Aha | yAvanta:
+subhUte teSu lokadhAtuSu satvAs teSAm ahaM nA-
+nAbhAvAM cittadhArAM jA nIyAs tat kasya heto*z
+cittadhArA cittadhArA iti subhUte adhArAs tAs tathA-
+gatena bhAsitAs tenocyate cittadhArA iti | tat kasya
+heto: atItaM subhUte * cittaM nopalabyate | anAga-
+taM cittaM nopalabhyate | pratyuypannaM nopala-
+bhyate | tat kiM manyase subhute ya imaM trisA-
+hasramahAsAhasraM lokadhAtuM saptaratnaparipUr-
+NaM kRtvA dAnan dadyAd api nu sa kulaputro vA
+kuladu hitA vA tato nidAnam bahu puNyam prasa-
+@188
+veta | aha bahu bhagavan bahu sugata | bhagavAn 
+Aha | evam etat subhUte evam etad bahu sa kulapu-
+tro vA kuladuhitA vA tato nidAnaM * bahu puNyam
+prasaveta | sacet subhUte puNyaskandho ‘bhaviSyan
+na tathAgato ’bhASiSyat puNyaskandha: puNyaskandha
+iti tat kiM manyase subhUte rUpakAyapariniSpattyA
+tathAgato dra-
+(##Folio 9 b##) STavya: Aha | no bhagavan na rUpakAyapari-
+niSpattyA tathAgato draSTavya: tat kasya heto: rU-
+pakAyapariniSpattI rUpakAyapariniSpattir ity aparini-
+Spattir eSA tathA * gatena bhASitA tenocyate rUpakA-
+yapariniSpattir iti | bhagavAn Aha tat kiM manyase 
+subhUte lakSaNasampadA tathAgato draSTavya: Aha | 
+no bhavan na lakSaNasampadA tathAgato * draSTa-
+vya: tat kasya heto: yaiSA lakSaNasampat tathAga-
+tena bhASitA alakSaNasampad eSA tathAgatena bhA-
+SitA tenocyate lakSaNasampad iti | bhagavAn Aha |
+tat kiM ma*nyase subhUte api nu tathAgatasyai-
+vam bhavati na mayA dharmo dezita iti | ya: su-
+bhUte evaM vadet tathAgatena dharmo dezita iti |
+abhyAcakSIta mAM sa subhUte asatA{1 ##Rd.## asatod.} d u*dgRhitena |
+tat kasya hetor dharmadezanA dharmadezaneti su-
+bhUte nAsti sa kazcid dharmo yo dharmadezanA nA-
+mopalabhyate | AhAsti bhagavan kecit satvA bhavi-
+Syanty anAgatedhvani ya imA*n evaMrUpAn dhar-
+mAn bhASamAnAM cchrutvAbhizraddadhAsyanti | bha-
+gavAn Aha | na te subhUte satvA nAsatvA tat kasya 
+heto: sarvasatvA iti subhUte asatvAs te tathAga-
+tena bhASitAs teno-
+(##Folio 10 A#) cyate sarvasatvA iti | tat kiM manyase su-
+@189
+bhUte api na asti sa kazcid dharmo yas tathAgatenA-
+nuttara samyaksambodhir abhisambuddha: Aha | nAsti
+sa bhagavan kazcid dharmo yas tathAgate * nAnut-
+tarAsamyaksambodhir abhisambuddha: bhagavAn Aha
+| evam etat subhUte evam etat aNur api tatra dhar-
+mo na saMvidyate nopalabhyate tenocyate ’nuttarA
+samyaksambodhir ity a*pi tu khalu puna: subhUte 
+sama: sa dharmo na tatra kiMcid viSamas tenocyate 
+‘nuttarA samyaksambodhir iti | nirjIvatvena ni:satvat-
+vena niSpudgalatvena samA sAnuttara samyaksambo-
+* dhi: sarvai: kuzalai: dharmair abhisaMbudhyate
+| kuzalA dharmA: kuzalA dharmA iti subhUte adhar-
+mAz caiva te tathAgatena bhASitAs tenocyate kuzalA
+dharmA iti | yaz ca kha*lu puna: subhUte yAvan-
+tas trisAhasramahAsahasre lokadhAtau sumerava: par-
+vatarAjAs tAvato rAzIn saptAnAM ratnAnAm abhisaM-
+haRtya dAnaM dadyAd yaz caiva prajJApAramitA*yA
+antazaz catuSpAdikAm api gAthAm udgRhya parebhyo
+dezayed asya subhUte puNyaskandhasyAsau pUrvaka: 
+puNyaskandha: zatatamIm api kalAnnopaiti | yavad
+upani-
+(##Folio 10 b##) zam api na kSamate | tat kiM manyase subhUte
+api nu tathAgatasyaivam bhavati | mayA satvA mo-
+citA iti | na khalu puna: subhUte cevaM{1 ##Rd.## caivaM.} draSTa-
+vyaM tat kasya heto: na sa kazcit sa*tvo yas tathA-
+gatena mocita: yadi puna: subhUte kazcit satvo ‘bha-
+viSyad yas tathAgatena mocita: sa eva tasyAtmagrA-
+* ho bhaviSyat satvagrAho jIvagrAha: pudgalagrAha:
+AtamgrAha iti subhUte agrAha eSa tathAgatena bhA-
+Sita: sa ca bAlapRthagjanair udgRhIta: bAlapRthag-
+@190
+janA iti subhUte ajanA eva te tathAgatena * bhASitAs
+tenocyante bAlapRthagjanA iti | tat kiM manyase su-
+bhUte lakSNasampadA tathAgato draSTavya: Ahai vaM 
+bhagavallakSaNasampadA{1 ##Rd.## bhagavannala- |} tathAgato draSTavya: bha-
+gavAn Aha sacet subhUte lakSaNasampadA tathAgato
+draSTavyo bhaviSyad rAjApi cakravartI tathAgato bha-
+viSyad Aha | yathAham bhagavato bhASitasyArtham
+AjA*nAmi na lakSaNasampadA tathAgato draSTavya: 
+atha khalu bhagavaMstasyAM velAyAm imA gAthA
+abhASata | ye mAM rUpeNa adrAkSur ye mAM ghoSeNa
+anvayu: | mithyA-
+(##Folio 11A#) prahANaprasRtA na mAM drakSyanti te janA: | dra-
+STavyo dharmato buddho dharmakAyas tathAgata: | dhar-
+mato cAsya vijJeyA na sa zakyaM vijAnitum || tat kiM 
+manyase subhUte lakSaNasampadA tathA * gatenAnut-
+tarA samyaksambodhir abhisambuddha: na khalu
+puna: subhUte evaM draSTavyaM na subhUte lakSaNa-
+sampadA tathAgatenAnuttarA samyaksambodhir abhi-
+sambuddha: | yat khalu pu * na: subhUte syad evam
+bodhisatvayAnasaMprasthitai: kasyacid dharmasya vi-
+nAza: prajJapta ucchedo vA na khalu puna: subhUte 
+evaM draSTavyaM | na bodhisatvayAnasaMprasthitai: 
+ka * syacid dharmasya vinAza: prajJapto nocche-
+da: yaz ca khalu puna: subhUte kulaputro vA
+kuladuhitA vA gaMgAnadIvAlukosamA:{2 ##Rd. kA -samAMlloka.} lokadhAtUn
+saptaratnapratipUrNAG  kRtvA tathAb * gatebhyo ‘rhad-
+bhya: samyaksambuddhebyo dAnaM dadyAd yaz ca
+bodhisattvo nirAtmakeSu dharmeSu kSAntiM pratila-
+bheta | ayam eva tato bahutaram puNyaM prasaveta
+@191
+| na khalu puna: subhUte bodhi*satvena puNyaskan-
+dha: parigrahItavya: Aha | puNyaskandho bhagavan
+parigrahItavya: bhagavAn Aha | parigrahItavya: su-
+bhUte nodgrahItavya: tenocyate parigrahI [tavya:]
+(##Folio 11b##) api tu khalu puna: subhUte ya: kazcid evaM 
+vadet tathAgato gacchati vAgacchati vA | tiSThati vA
+niSIdati vA zayyAM vA kalpayati | na me sa bhASita-
+syArtham AjAnAti | tat kasya [heto:] tathAgata iti
+subhUte na kutazcid Agato na kvacid gata: teno-
+cyate tathAgato ’rhan samyaksmbuddha: iti | yaz ca
+khalu puna: subhU te kulaputro vA kuladuhitA vA
+yAvantas trisAhasrama [hA] * sAhasre lokadhAtau pRthi-
+vIrajAMsi tavato lokadhAtuM maSiM kuryAt tad ya-
+thApi nAma paramAnusaMcaya: tat kiM manyase
+subhUte bahu sa paramAnusaMzayo bhavet Ahai * vam
+etad bhagavAn bahu sa paramAnusaMcayo bhavet
+tat kasya heto: saced bhagavAn saMcayo ’bhavi-
+Syan na bhagavAn avakSyat paramAnusaMcaya iti |
+tat kasya heto: yo ‘sauparamA * nusaMcayo bhASi-
+ta: asaMcaya sa bhagavatA bhASitas tenocyate para-
+mAnusaMcaya iti | yaz ca tathAgato bhASati trisAha-
+sramahAsAhasro lokadhAtur iti | adhAtu: sa tathA-
+*gatena bhASitas tenocyate trisAhasramahAsAhasro lo-
+kadhAtur iti | tat kasya heto: saced bhagavAn dhAtur
+abhavisyat sa eva bhagavan piNDagrAho ‘bhaviSyad
+yaz caiva tathAgatena pi-
+(##Folio 12 A#) NDagraho bhASita: agrAha: sa tathAgatena 
+bhASitas tenocyate piNDagrAha iti | bhagavAn Aha |
+piNDagrAhaz caivAvyavahAro ’nabhilApya: subhUte
+sa dharma: sa bAla pRthagjanair udgRhIta: tat ka-
+sya heto: ya: kazcit subhUte evaM vaded Atma-
+dRStis tathAgatena bhASitA satvadRSTir jIvadRSTi: pud-
+@192
+galadRSTi: api nu subhUte sa samyag vadan vadet
+* Aha | no bhagavaMs tat kasya heto: yA sA bha-
+gavann AtmadRSTis tathAgatena bhASitA adRSTi: sA
+tathAgatena bhASitA tenocyate AtmadRSTir iti | bha-
+gavAn Aha * evaM subhUte bodhisatvyAnasaMpra-
+sthitena sarvadharmA jJAtavyA adhimoktavyAs tathA
+cAdhimoktavyA yathA na dharmasaMjJApi pratyupati-
+SThet tat kasya heto: dharmasaMjJA * dharmasaMjJeti
+subhUte asaMjJaiSA tathAgatena bhASitA tenocyate 
+dharmasaMjJeti | yaz ca khalu puna: subhUte bodhi-
+satvo mahAsatva: aprameyAsaMkhyeyA{1 ##Rd.## kyeyAmloka.} lokadhatUn
+saptaratnapa*ripUrNAG kRtvA dAnan dadyAd yaz ca
+kulaputro vA kuladuhitA vA ita: prajJapAramitAyA
+antazaz catuSpAdikAm api gAthAm udgRhya vAcayed
+dezayed paryavApnuyAd a
+(##Folio 12 b##) yam eva tato bahutaraM puNyaM prasavetA-
+prameyam asaMkhyeyaM | kathaM ca samprakAzayet
+yathA na prakAzayet tenocyate samprakAzaye{2 ##Rd.## -zayed.} iti |
+tArakA timiraM dIpo mA*yA vazyAya budbuda: su-
+pinaM vidyud abhraM ca evaM draSTavya{3 ##Rd.## draSTavyaM.} saMskR-
+tam || idam avocad bhagavAn AttamanA sthavirasub-
+bhUtis te ca bhikSubhikSuNyupAsakopAsikA: sade-
+vamAnuSAsu*ragandharvaz ca loko bhagavato bhA-
+Sitam abhyanandan ||##O##|| vajracchedikA prajJApA-
+ramitA samAptA ||##O##||

@@ -1,0 +1,1407 @@
+@i
+mahAvastu avadAna ##VOL.-III##
+@ii
+bauddha-saMskRta-granthAvalI-14
+mahAvastu avadAnaM 
+[tRtIya: khaNDa:]
+mithilAvidyApIThapradhAnena parkAzitam
+zakAbda: 1926
+saMvat 2061
+aizavIyAbda: 2004
+@iii
+##Copies of this volume may be had of the Director, Mithila
+Institute, Darbhanga, on pre-payment either in Cash, Postal
+Order or M.O. Rs. 305/- (Thre hundred and five only)
+Printed by : Vipul Shankar Pandya at Ratna Offsets Limited,
+Kamachha, Varanasi. Ph. 2392820 and published by Dr.
+Chandeshwar Prasad. M.A., Ph.D., Director, Mithila Institute
+of Post-Graduate Studies and Research in Sanskrit Learning, 
+Darbhanga.##
+@iv
+mahAvastu avadAna
+##VOL.III
+(Original Sanskrit Texts)
+Introduction & Preface
+by 
+DR. RADHAGOVIND BASAK
+Published by 
+THE MITHILA INSTITUTE
+OF
+POST-GRADUATE STUDIES AND RESEARCH 
+IN SANSKRIT LEARNING, 
+DARBHANGA, 
+2004
+@ix
+FOREWORD
+It is with great pleasure that I hereby announce the 
+publication of the Third and last Volume of the great 
+Buddhist Sanskrit Treatise, the## mahAvastu-avadAna, ##edited 
+with. Bengali translation and English Introduction by the 
+veteran scholar, Dr. Radhagovind Basak, M.A., Ph. D.,##
+vidyAvAcaspati, ##Chairman of the Board of editors for our
+Research Publication Series.
+The contents of the## mahAvastu-avadAna ##are highly 
+appreciated by scholars working in Buddhism and Buddhist 
+Literature throughout the world. This## avadAna ##is described 
+in the Treatise itself that it belonged to the## vinayapiTaka
+##of the Buddhisht canons and was prepared according to the
+text of the## lokottaravAdins ##of the## mahAsAMghikas ##of the## 
+madhyadeza. ##Its contents generally relate to the biography 
+of Gautama Buddha and are mingled at times with stories
+and works of miracles of the Lord. It also contains many 
+old and new## jAtaka ##stories as well as prose and poetry passages 
+from the canonical texts. We sometimes find accounts herein
+of the Buddha's receiving religious instruction from some of 
+the most powerful previous Buddhas.
+This book which was written by some unknown author 
+or authors some fifteen-sixteen hundred years ago is of 
+immense historical, religious and linguistic value. It is 
+really a mine of information for Indological scholars interes-
+ted in the study of the various aspects of ancient Indian life 
+and culture.
+I am indeed glad to say that Dr. Biswanath Banerjee, 
+Professor and Head of the Department of Pali and##
+zrI ##Sukomal Chaudhuri, Lecturer in Pali of this College
+have rendered ungrudging help in seeing the book through. 
+Sanskrit College
+Calcutta
+2.11.68
+K. C. SHASTRI
+Principal & General Editor
+@x
+[BLANK]
+@xi
+CONTENTS
+Page
+1.	Foreword ix
+2.	Preface xv-xvi
+3.	Introduction xvii
+4.	Resume xix-xciiI#
+5.	kuzajAtakam (##The## jAtaka ##of king## kuza, ##metrical version##) 1-17
+6.	vRSabhajAtakam (##The## jAtaka ##of the Bull##) 17-18
+7.	vAnarajAtakam (##No. 1. The## jAtaka ##of the Monkey##) .. 18-19
+8.	vAnarajAtakam (##No.2. The## jAtaka ##of the Monkey##) .. 19-20
+9.	puNyavanta-jAtakam (##The## jAtaka ##of the## puNyavanta) .. 20-25
+10.	vijitAvi-jAtakam (##The## jAtaka ##of## vijitAvin, ##king of VidehA#) 25-28
+11.	mahAkAzyapasya vastu–pravrajyAsUtram (##The## sUtra ##on the history of the ordination of## mahAkAzyapa) 29-34
+12.	zAriputra-maudgalyAyanayo: pravrayA (##The ordination of## zAriputra ##and## maudgalyAyana) 35-42
+13.	zAriputra-maudgalyAyanapramukhAnAM paJcAnAM bhikSuzatAnAM rAkSasa-
+dvIpakSiptAnAM jAtakam (##The## jAtaka ##of five hundred monks led by## zAriputra ##and## maudgalyAyana, ##cast on the 
+island of the Sirens) 43-54##
+14.	pitAputrasamAgama: (kapilavastunagare) (##The meeting of the father and the son at KapilavastU#) 55-77
+15.	kAkajAtakam (##The## jAtaka ##of the Crow##) 77-80 
+16.	hastinikA-jAtakam (##The## jAtaka ##of the female Elephant##) 80-85
+17.	asurANAM bhagavatpUjA (##The worship of the Lord by the Asuras## ) 85-90
+18.	rAjakumArI nalinI-jAtakam (##The## jAtaka ##of## nalinI, ##the king’s daughter##) 90-94
+19.	padmAvatyA: parikalpa: (pUrvayoga:) (##The preliminary story of## 
+padmAvatI ##and her association in a former birth##) 94-105
+20.	rAhulabhadrasya pUrvayoga: (##The story of a former birth of## rAhulabhadra) 105-107
+21.	zAkyAnAM upAlezca pravrajyA (##The renunciation of the## zAkyas ##and## upAli) 107-120
+@xii
+22.	gaGgapAlasya jAtakam (##The## jAtaka ##of## gaGgapAla) 120-126
+23.	mahAgovindIya-sUtram (bhagavata: pUrvenivAsasaMprayuktam) (##The##
+mahAgovindIya-sUtra ##with an account of a former
+birth of the Lord##) 127-135
+24.	bahubuddhasUtram (##The## sUtra ##of many former Buddhas##) 136-150
+25.	sarvaMdada: (##The story of## sarvaMdada) 150-153
+26.	rAhulasya pravrajyA (##The renunciation of Prince## rAhula) 153-160
+27.	samyaksaMbodhilAbhAt paraM bhagavata: karma (##The doings of the Lord after his enlightenment##) 160-164
+28.	dharmalabdhajAtakam (##The## jAtaka ##of DharmalabdhA#) 165-179
+29.	bhagavato nAgarAjabhavanavAsa: (##The story of the Lord at the
+abodes of the## nAga ##Kings##) 179-180
+30.	ajapAlasya nyagrodhavRkSa: (##The Banyan tree of## ajapAla) 180-181
+31.	trapusa-bhallikau sArthavAhau (##The story of two merchants,
+Trapusa and BhallikA#) 181-184
+32.	uruvilvAto vArANasIM yAvat bhagavato gamanam (##The story of the incidents on the Lords way from## uruvilvA ##to## vArANasI) 184-190
+33.	dharmacakrapravartanam (##The turning of the wheel of DharmA#) 190-208
+34.	AjJAtakauNDinyajAtake (##The two## jAtakas ##of## AjJAtakauNDinya) 208-211
+35.	paJcakAnAM bhadravargikAnAM jAtakam (##The## jAtaka ##of the five## Bhadravargikas) 211-213
+36.	kSAntivAdI (##The seer## kSAntivAdin) 213-215
+37.	sa(za)rabhaGga-jAtakam (##The## jAtaka ##of the Sage## s(z)arabhaGga) 215-225
+38.	triMzagoSThikAnAM pravrajyA (##The renunciation of the group of thirty monks##) 225-226
+39.	pUrNasya maitrAyaNIputrasya vastu (##The story of## pUrNa, ##the son of## maitrAyaNI) 226-229
+40.	nAlakaprazna: (##The questions of## nAlaka) 229-233
+41.	sabhikasya vastupraznA AzravakSayA: pravrajyA cAsya (##The story 
+of Sabhika, his questions, the ending of his## Azravas ##and his ordination##) 233-240
+42.	yazodasya zreSThiputrasya vastu (##The story of## yazoda, ##the guild-president’s son##) 240-247
+@xiii
+43.	yazoda-jAtakam (##The jAtaka ##of## yazoda) 247-248
+44.	mArapralobhanam (##The temptation by## mAra) 248-249
+45.	piNDAya kIdRzaM caritavyam (##Instructions on begging for food##) 249-252
+46.	uruvilvAkAzyapa-nadIkAzyapa-gayAkAzyapAnAM jAtakam (##The## jAtaka
+##of## uruvilvA-kAzyapa, nadI-kAzyapa ##and## gayAkAzyapa) 252-260
+47.	dharmapadeSu sahasravarga: (##The chapter of the thousand in the Dhammapadas##) 260-262
+48.	rAjJa: zreNiyasya bimbisArasya dharmacakSurlabha: (##The attainment 
+of dharma-eye by King## zreNiya bimbisAra) 262-268
+49.	arindamarAja-jAtakam (##The## jAtaka ##of king ArindamA#) 268-277
+50.	hastalikhitagrantha-lekhakasya granthasamAptisUcanA (##The Colophon of the Bibliotheque Nationale Manuscript##) 277-278
+51.	Index 279-308
+52.	Appendix 309-348
+@xiv
+[BLANK]
+@xv
+##PREFACE
+The First Volume of our edition of the## mahAvastu-
+avadAna ##was published in March 1963, the Second Volume 
+of it in January 1965 and the Third Volume is being 
+published now. The plan of this Third Volume is the same 
+as that of the previous two volumes. Although I completed 
+my whole work a few years ago and the Press-copy of the 
+Third Volume was placed with the press almost three years 
+back, the delay in the publication is due mostly to the 
+unexpected retirement of Principal G. N. Sastri and also to 
+the departure of Professor Biswanath Banerjee, Professor and 
+Head of the Department of Pali in the Calcutta Sanskrit 
+College, to join his Professorial appointment in the##
+vizvabhAratI ##University## (zAntiniketan). ##These two unforeseen 
+circumstances hampered the work of the final proof-reading 
+which was entrusted to Dr. Banerjee by Principal Sastri. 
+Otherwise the Volume would have come out earlier. This is 
+my apology to the Scholarly world for the delay in 
+publication of this Volume. 
+This edition of the Third Volume of this Buddhist 
+Sanskrit Treatise is also a Tri-lingual one. It contains the 
+text (generally based on Senart’s reading) and the Index 
+of words in## devanAgarI ##characters, the translation and the 
+word-notes in the Appendix in Bengali language and in 
+Bengali script, and the Preface and the Introduction in 
+English language and Script. As usual it also contains an 
+Index of proper names and important words printed in##
+devanAgarI ##Script. 
+I cannot express too adequately my gratefulness to 
+Dr. B. N. Banerjee and my pupil## zrI ##Sukomal Chaudhuri, 
+M. A., Lecturer in Pali in the Calcutta Sanskrit College
+for their ungrudging and kind acceptance of the strenuous 
+task of correcting all proofs, certainly out of compassion to 
+me, now running my 84th year. 
+I have got to note here that my word-notes in the 
+Appendix were prepared long ago while I was engaged in 
+studying all the three volumes published by the French 
+savant, E. Senart, so the page-marks put therein were
+@xvi
+referred to the Paris Edition of Senart. But scholars will not 
+find any difficulty in finding out in their proper places 
+the words, noted upon from our edition of all the three 
+volumes as we have inserted the page-marks of the Paris 
+Edition throughout in our text also. 
+My heartiest thanks are due to Dr. G. N. Sastri the 
+then Principal of the Calcutta Sanskrit College and also
+to his successor Principal Kalicharan Mitra Shastri for 
+their solicitude for publishing this last volume during my 
+life-time. I record here my sense of gratitude to our Editor, 
+Pandit Nani Gopal## tarkatIrtha, ##for his great assistance 
+in looking after the whole business of publication of this 
+volume. I am also very thankful to my two grand-sons,##
+zrI ##Anup Kumar Basak, B. Com, and## zrI ##Asim Kumar Basak 
+for offering very gladly their kind assistance to me in arranging 
+the Index-slips. I should not omit to thank## zrImatI ##Minati
+Kar, M. A.,## kAvya-vedAntatIrtha ##for preparing some Index-
+slips on my behalf. I should never forget the encouragement 
+given to me during my hard work of preparing my Transla-
+tion and Introduction, by our National Professor of 
+Humanities, Dr. Suniti Kumar Chatterjee who kindly 
+allowed me to use for more than a decade his own copies
+of the three volumes of Senart. 
+Lastly I cannot but praise the patience of Sree
+Saraswaty Press Limited for their attempt to make the 
+printing business of this work executed as excellently as 
+possible. 
+69, Ballygunge Gardens 
+Calcutta-19
+November, 1968. 
+RADHAGOVINDA BASAK
+@xvii
+INTRODUCTION
+Old age stands in my way to enter into any new aspects, 
+such as literary merits and demerits or special linguistic
+features, of the## mahAvastu-avadAna. ##My main purpose was
+only to help scholars for applying themselves to the study of 
+this very important Buddhist Sanskrit Treatise, by using the 
+edition of the three volumes published by the authorities of 
+the Calcutta Sanskrit College. I reiterate my statement that 
+in my Introduction to Volume I. I already dealt with the 
+political, social and economic, and religious aspects of Indian 
+life as we find delineated in this Treatise. So I give below, 
+as in the edition of two previous volumes, a summary of the 
+contents of the whole of volume III in English, to enable 
+students, teachers and other scholars to comprehend easily 
+the topics discussed in the Treatise. 
+RADHAGOVINDA BASAK
+@xviii
+[BLANK]
+@xix
+Resume##
+kuzajAtakam (##The## jAtaka ##of King## kuza)
+##The## kuza-jAtaka, ##written mostly in prose, has been 
+told fully and in great details in the last section of Volume 
+II of the## mahAvastu-avadAna. ##This version of the same## jAtaka
+##as told in the first section of Volume III of the treatise 
+is mostly metrical. As its contents are mostly similar to 
+those of the version in the second volume, it is not considered 
+necessary to give a second summary of its contents. It may 
+only be noted that in this version## kuza’s ##queen is named##
+prajApatI ##and not## sudarzanA. ##The contents in this version 
+agree to a greater extent to those of the## pAli jAtaka ##of the 
+same name. 
+Another notable thing in this section of the## jAtaka
+##is the reference to the question of the monks to the Lord 
+regarding the cause of## kuza’s ##ugly appearance and features. 
+The Buddha explained to them that in a former birth## kuza
+##and his wife lived in the city of Kampilla in the province of##
+paJcAla. ##In that life## kuza ##was very jealous of his wife 
+because in his absence she entertained a beautiful Pratyeka-
+buddha with a bowl-ful of alms.## kuza ##through evilmindedness
+spoke roughly to his wife for her suspicious conduct and 
+calumniated the Pratyekabuddha who flew out of the house 
+through the air.## kuza ##became repentant by thinking that 
+the Pratyekabuddha was a seer of great parts. The Lord 
+said to the monks that on account of the maturing of that 
+wrong Karma,## kuza ##came to be ugly, because his suspicion
+on his wife was un-becoming. The Lord then identified## kuza
+##with the man in the city of Kampilla and## sudarzanA, ##the 
+daughter of Mahendraka, with the wife of that man.##
+vRSabhajAtakam (##the## jAtaka ##of the Bull) 
+The monks asked the Lord as to how## mAra ##followed
+him closely during the period of his performance of austerities, 
+@xx
+seeking a chance to tempt him but failed to do so. The Lord 
+told them that in a former life also he was thus pursued by##
+mAra ##and then related this## jAtaka ##story at the end of which 
+the Lord identified himself with the bull in the story and## 
+mAra ##with the jackal named Girika. the story briefly runs 
+thus :-
+Long long ago, there was a bull with his drooping and 
+inert organs, pursuing closely for many years the herd of 
+cows. One foolish jackal, named Girika, dwelling in a wood-
+land tract closely pursued the terrible bull that some day he 
+would fall a prey to him. Another jackal told Girika that he 
+pursued the same bull for fifteen years, but his desire also 
+could not be fulfilled. So the jackal had to retire unsuccessful 
+in his attempt to tempt the bull, as## mAra ##failed to tempt 
+the Bodhisattva.##
+vAnarajAtakam (##No. 1.the## jAtaka ##of the Monkey)
+The monks posed the same question to the Lord as to 
+how## mAra ##was unable to get a chance to tempt him. The 
+Lord told them that in a former life of his## mAra ##failed to 
+tempt him. He then related this## jAtaka ##story and at its end
+identified himself with the sagacious lord of the herd of the 
+monkeys and## mAra ##with the water-demon of the lake. 
+The story stands briefly thus :-
+Long long ago, a sagacious monkey was in charge
+of a large troop of monkeys in the## himAlayan ##region. In 
+a lake there dwelt a water-demon who used to pull in 
+monkeys when they went there to drink water. The lord of 
+the monkeys understood from the foot-marks of his herd 
+that they must have been dragged in and killed by the 
+water-demon. So he devised a way out and ordered the 
+monkeys not to drink water direct by the mouth, but 
+through reeds gathered from the reed-thicket. They then 
+drank water from a distance through those reeds and thus 
+eluded the grasp of the water-demon. The lesson taught
+is that the watchful has no cause for alarm.## 
+@xxi
+vAnarajAtakam (##No. 2. the## jAtaka ##of the Monkey)
+The monks asked the Lord as to how he safely escaped 
+from the dominion of## mAra ##by his unique wisdom attained 
+by his supreme perfect enlightenment. The lord said to them 
+that in a former life also, he thus escaped and put his feet 
+on## mAra’s ##head. He then related this## jAtaka ##story at the 
+end of which he identified himself with the lord of the 
+monkeys and## mAra ##with the serpent in the lake. The story 
+briefly runs thus :- 
+Long long ago, there was a monkey-chief in the## himA-
+layas ##with a large herd of monkeys. In summer, one day 
+he with his herd came to the precipitous bank of a lake where 
+dwelt in a den a serpent. The serpent used to obtain food 
+by killing whatever beasts and birds came down to drink
+water in the lake. The monkey-chief accidentally fell 
+down from the high banks and failed to get any support 
+to reach the dry land. The serpent thought that he got a 
+good prey. But the monkey-chief pointed out the crowd of 
+monkeys for his prey and as soon as the serpent turned his 
+neck towards the crowd, the lord of the monkeys set his 
+feet on the serpent’s head and stepped out of the water
+to the dry land. The lesson sought to be taught is that 
+one can avert ill by means of energy, intelligence, mindful-
+ness and wisdom.##
+puNyavanta-jAtakam (##the## jAtaka ##of## puNyavanta) 
+##To the question of the monks to the Lord asking that 
+he (the Lord) spoke in praise of merits only, the Lord told 
+them this## jAtaka ##story and at its end he identified himself 
+with## puNyavanta, ##the son of the king of## kAzi, ##named## aJjana, 
+##his disciple## zroNakoTiviMza ##with## vIryavanta, ##his disciple##
+rASTrapAla ##with## zilpavanta, ##the elder Sundarananda with## 
+rUpavanta ##and## zAriputra ##with## prajJAvanta. ##The story 
+runs thus :-
+Long long ago, the powerful and virtuous king##
+aJjanaka ##was the ruler of## kAzi ##province ruling from the city
+@xxii
+of Benares. This king has a young prince named## puNyavanta 
+who had four sons of counselors, named## vIryavanta, 
+zilpavanta, rUpavanta ##and## prajJAvanta ##as his companions, 
+who respectively spoke highly of energy or strength, of arts, 
+of beauty and of wisdom. But## puNyavanta ##spoke to his com-
+panions that there was nothing equal to merits. PuNyavanta 
+asked his friends that they should go to another kingdom 
+to find out who of them excelled, the meritorious one, the 
+energetic one, the artistic one, the beautiful one, or the 
+wise one. They then left Benares and went to Kampilla to 
+settle the point of their verbal dispute. 
+Once all the five friends went out of Kampilla to 
+bathe in the Ganges and four of them asked the other friend##
+vIryavanta ##to show his energy or strength by pulling out a 
+tree-trunk (a Sandal-wood tree) from the river in whose 
+stream it was being carried down.## vIryavanta ##succeeded by 
+his bodily power to pull out the tree-trunk and sold it to 
+perfume-makers and earned a good store of wealth which he 
+gave to his friends. While doing so he told them that 
+there was nothing superior to energy or strength in the 
+world. 
+Then they wanted to see the fruit of## zilpavanta’s ##art. 
+He was skilled in the lute and none in Kampilla could beat 
+him for playing the lute. While## zilpavanta ##was playing his
+seven-stringed lute, one by one six strings gave way and 
+only one was left. All people felt astonished when the lute- 
+player produced the same music from one string only. 
+Reward of gold from all sides was won by him and the lute- 
+player gave the money to his companions telling them that 
+there was nothing superior to art in the world. 
+Then the friends wished to see the fruit of## rUpavanta’s
+beauty. Seeing him in a stall in the market a leading courtesan 
+fell in love with him because of his charming and stately 
+beauty. The courtesan took## rUpavanta ##to her house where 
+she served him with costly food and other high luxuries. 
+In course of his conversation with the courtesan## rUpavanta
+##told her that she should summon his four friends from his
+@xxiii
+house and give them a good quantity of her wealth so that 
+they might not kill her. The courtesan at once gave## 
+rUpavanta sufficient money to take the same to his com-
+panions, who saw their friend so fortunate.## rUpavanta
+##told his friends that there was nothing superior to beauty
+in the world. 
+Then the friends sought to see the fruit of## prajJAvanta’s
+##wisdom. One day## prajJAvanta ##went to a market stall and 
+there he saw a rich merchant’s son wrangling with a leading 
+courtesan before a large crowd. The merchant’s son was 
+refused an engagement with the courtesan who was, as she 
+said, already hired by another that night and she offered 
+to accept her fee of a hundred thousand gold pieces from 
+him for the next night. Next morning the courtesan went 
+to his house to entertain him, but the merchant’s son did 
+not want her, as on the previous night he enjoyed her fully in 
+an impure dream to his heart’s content. The courtesan 
+demanded her fee from the merchant’s son, for his own 
+confession was that he enjoyed her the previous night in a
+dream. So a dispute arose between the two and none of the 
+crowd could solve it.## prajJAvanta ##was standing by and the 
+townspeople of Kampilla appealed to him to give his own 
+verdict in the dispute. He asked the merchant’s son to bring 
+a box containing her high fee of money and place the box in 
+front of a mirror. The courtesan was then asked to take 
+the reflection in the mirror of the box containing the 
+money as her fee. People present there approved the solution 
+made by## prajJAvanta ##and they presented him with good 
+money which he gave to his four companions and told 
+them that there was nothing superior to wisdom in the 
+world. 
+Lastly, the friends wanted to see the power of merit 
+of## puNyavanta. ##Prince## puNyavanta ##settled near the royal 
+palace. A counsellor’s son made friends with him and one 
+day entertained him at night with a good dinner. Owing to 
+lateness of night## puNyavanta ##took shelter in a carriage in 
+the royal coach-house and fell deeply asleep. Meanwhile
+@xxiv
+the King Brahmadatta’s daughter came out of the palace 
+distracted by thoughts of love and she climbed into the 
+carriage where## puNyavanta ##was lying asleep, to take her 
+pleasure with him. But## puNyavanta did not wake up to her 
+expectation. Owing to excessive influence of night she also 
+fell asleep there. Next morning she was seen by some coun-
+sellors to come down from the carriage and enter the palace. 
+They suspected her character. They then seized## puNyavanta 
+##when he was coming down from the carriage. Being led 
+before the King## puNyavanta ##told him why because of 
+lateness of the hour he slept the previous night in the coach-
+house and when the king asked his daughter as to what had 
+happened the princess said to the king that## puNyavanta’s
+statement was true. Brahmadatta was pleased with## puNya-
+vanta ##and when he learnt that the handsome man was the 
+son of King## aJjana ##of## kAzI ##he conceived an affection for the 
+prince, as he himself had no son of his own. He then gave 
+his daughter in marriage with## puNyavanta ##and established 
+him on his own throne and treated the son-in-law as his 
+own son and successor. Then Prince## puNyavanta ##told his 
+companions that there was nothing superior to merit in the 
+world and by his truthful merit he had won a kingdom and 
+a king’s daughter.##
+vijitAvi-jAtakam (##the## jAtaka ##of## vijitAvin, ##the king of Videha)
+The Lord told the monks that on another occasion in 
+his former life he spoke in praise of merits## (puNya). ##He then 
+related this## jAtaka ##story at the end of which he identified 
+himself with## vijitAvin ##who spoke in praise of merits. The 
+story briefly runs thus## :-
+vijitAvin ##was a virtuous and generous king ruling from##
+MithilA ##in Videha. There was nothing which he would refuse 
+to give as a gift to## zramaNas, brAhmaNas, ##the poor people and 
+beggars. Whoever wanted a thing from him he gave that 
+to him and he never regretted his gifts afterwards. Because 
+the king gave excessive largesses, his coffers failed and he was 
+@xxv
+banished from his kingdom by his ministers and his people. 
+He then went to the## himAlayas ##and settled in a forest grove 
+where he first fed other seers by gathering roots and fruits and 
+only afterwards he took food himself. Wishing to dissuade the 
+king of Videha from his liberality,## zakra ##came to him and 
+trying to test his mind said that liberal persons are doomed to 
+be reborn in hell because of their gifts. The king of gods con-
+jured up a great hell and gave## vijitAvin ##a visual proof by 
+showing human beings suffering from woes in a blazing hell 
+and telling## vijitAvin ##that such was the bourne of their being 
+charitable in the world.## vijitAvin, ##however, told the men 
+in hell that this could never be the case because people as a 
+result of their gifts are reborn in heaven and never in hell. 
+He also added that he should persist in giving charity even 
+if he were to be reborn in hell##. zakra ##then became pleased 
+and told the king that he came there only to test him. Finding 
+that since the departure of king## vijitAvin ##to the forest grove 
+his whole kingdom suffered from shortage of food and 
+oppression by robbers and enemies, the ministers and 
+people of Videha went to the forest grove and asked for 
+pardon to the king and gave him back his own kingdom. 
+Blessed is the fruit of merits, said the Lord.##
+mahAkAzyapasya vastu-pravrajyAsUtram (##the## sUtra ##of the history of the ordination 
+##of## mahA-kAzyapa) 
+##This## sUtra ##narrates an episode on the ordination of##
+mahA-kAzyapa. ##The tradition is this :-
+On one occasion,## Ananda, ##the pupil, servitor and 
+attendant of the Lord, being accompanied by a crowd of five 
+hundred monks, reached, after a tour in Magadha, to## rAjagRha
+##and stayed at## kalandakanivApa. ##There## mahA-kAzyapa ##asked## 
+Ananda’s ##opinion as to why the## tathAgata ##prohibited his 
+disciples from eating in a crowd## (gaNabhojana) ##and prescribed 
+that they should eat in groups of three## (Trikabhojana). Ananda
+##replied that he himself thought of asking him on the very 
+topic.## mahA-kAzyapa’s ##interpretation was that this arrange- 
+@xxvi
+ment by the## tathAgata ##conduced to two advantages, viz.
+the protection and safeguarding of families approached for 
+alms and the breaking up of cliques of wicked persons bent 
+on schismatic activities. Then he made a pungent remark 
+that## Ananda ##was but a youngster knowing no moderation 
+and that he seemed to him like one destroying the harvest 
+by his leading those troops of fellow-students who had no 
+guard on the doors of their senses, who knew no moderation 
+in food and who were irresponsible.## Ananda ##felt disturbed 
+by## mahA-kAzyapa’s ##remark because there were grey hairs 
+growing on his head and yet he was being treated as a 
+youngster. But## mahA-kAzyapa ##thrice uttered the same re-
+mark. The nun## sthulanandA ##resented the remark on behalf 
+of## Ananda ##and reminded## mahA-kAzyapa ##that the vene- 
+rable## Ananda ##received all rules direct from the## tathAgata, 
+##whereas he himself belonged to another sect.## mahA-
+kAzyapa ##told## Ananda ##that that sister was speaking out of 
+thoughtlessness and conceit.## Ananda begged pardon of## 
+mahA-kAzyapa ##and asked him to forgive him for his own 
+foolishness.##
+mahA-kAzyapa ##then related to## Ananda ##the history of 
+his entry into religious life and his ordination to Buddhism. 
+He informed## Ananda ##that when he first embraced the reli-
+gious life he did not acknowledge any master other than the## 
+tathAgata ##himself. He said also that when he renounced 
+his prosperous home life he took only one patched cotton 
+cloth with him and wandered in quest of whatever arhans 
+there might be in the world. He then narrated how after
+a full year’s time he happened to meet the all-knowing and 
+all-seeing perfect Buddha to whom he said “Lord, you are 
+my Master and I am your disciple” and the Lord said to him 
+in return “Even so, O## kAzyapa, ##I am your Master and 
+you are my disciple”.## mahA-kAzyapa ##then told## Ananda
+##that the Lord claimed to be perfectly enlightened, all-
+knowing and as having absolute knowledge and insight 
+and that the Lord told him that he preached to his disciples 
+the well-grounded and reasoned dharma.## mahA-kAzyapa
+@xxvii
+##then told## Ananda ##as to what kind of exhortation the Buddha
+himself fully gave him regarding one’s training the mind in 
+discipline and learning the lesson of the## pratItya-samutpAda
+##doctrine and other philosophical themes. He addressed## 
+Ananda ##saying that when he had been given that exhorta- 
+tion by the Lord, he was a probationer student for eight 
+days and then on the ninth day he attained perfect know-
+ledge.## mahA-kAzyapa ##also told## Ananda ##of the incident of 
+the former’s spreading out his patched cotton under-robe
+for the Lord to sit upon and of the Lord’s gift to him of his 
+own under-robe made of hempen rags. Thus, he said, he 
+was treated by the Lord as a genuine son of the Lord born 
+of the dharma. He then requested## Ananda ##to believe that he 
+had acquired mastery of the three knowledges, six super-
+knowledges and all the powers. No monk in## Ananda’s
+##following harboured any doubt or mistrust of## mahA-kAzyapa, 
+##who then received greater honour and obedience from them.
+But the nun## sthUlanandA ##remained unreconciled and 
+when she uncovered herself before the venerable## mahA-
+kAzyapa ##she died immediately and was reborn in a 
+great hell.##
+zAriputra-maudgalyAyanayo: pravrajyA (##the ordination of## zAriputra ##and## maudgalyAyana) 
+##In the Introductory portion in Volume I of this edition 
+I have already referred to in some details on this topic of 
+the conversion of## zAriputra ##and## maudgalyAyana. ##So the 
+statement here now will be rather a succinct one. 
+There were two flourishing villages of the name of## 
+nAlandagrAmaka ##and Kolita, both situated within half 
+a yojana from the Magadhan capital,## rAjagRha. ##In the 
+first village there was a very wealthy and rich## brAhmaNa
+##whose wife’s name was## zArI#. ##This pair had seven sons, six
+of whom were established in life, the seventh and the 
+youngest was named## upatiSya, ##yet un-established. He was 
+a student of the Vedic mantras in a gurukula. In the second
+@xxviii
+village there was another wealthy and rich## bhrAhmaNa ##who 
+had a son named Kolita (probably after the name of the 
+village). He also was a Vedic student and he and some 
+five hundred other## brAhmaNa ##youths were studying in the 
+same gurukula with## upatiSya. ##Both## upatiSya ##and Kolita
+were close friends. It is needless to say that## upatiSya ##was##
+zAriputra ##and Kolita was## maudgalyAyana. 
+##The occasion arose when both the friends went to attend 
+the festival called## giriyagra-samAja ##at## rAjagRha. ##By that time 
+both of them had acquired all attributes entitling them to 
+initiation into the Buddhistic doctrines in virtue of their 
+long-standing root of goodness. Seeing the crowd there
+engrossed in revelry## zAriputra ##became aware of the im-
+permanence of things## (anitya-saMjJA) ##and there arose in##
+maudgalyAyana’s ##mind the idea of all things being nothing 
+but bones## (asthi-saMjJA). ##Yet## maudgalyAyana ##asked## zAriputra
+##to be in love with life and not to be downcast with sorrow. 
+But## zAriputra ##replied to his friend saying that those people 
+would have to die with their desires unsatisfied. It was time, 
+said he to his friend, to live by dharma, because religious life 
+appealed to him and he should embrace it.##  maudgalyAyana
+##too desired to do the same. 
+They both then approached the famous head of the 
+Wanderer Sect, named## vairaTIputra saJjayin ##who was 
+dwelling then at## rAjagRha ##with a company of fifty wandering 
+disciples and embraced the religious life under him.## zAriputra
+##mastered all the rules of the wanderers within a week and## 
+maudgalyAyana ##within a fortnight. They soon realised that 
+this was not the true way to cessation of all ills. So they went 
+out to separately seek out the well-preached discipline
+of the dharma that might conduce to cessation of ills. But
+they stipulated between themselves that whoever would be 
+the first to attain dharma-vinaya would preach it to the other. 
+They then went to the city by different ways. 
+At that time the Buddha was residing with a very large
+number of monks at## kalandakanivApa ##in the Bamboo-
+grove. One of Buddha’s disciples, Upasena by name, was
+@xxix
+seen by## zAriputra, ##dressed in yellow robe with a begging 
+bowl in his hand, but with a serene deportment.## tiSya
+##enquired about Upasena’s Master’s doctrine, teaching and 
+exhortation. Upasena said to## zAriputra ##that his Master
+enjoins renunciation with reference to the arising of things 
+from a cause.## zAriputra ##then and there came to acquire pure 
+dharma-insight into things. He returned to## maudgalyAyana
+##with a calm and serene look and the latter inferred that 
+his comrade must have obtained the amrta, the immortal 
+and learnt the way that leads to it.## zAriputra ##informed his 
+friend that there had arisen the Light of the World, the rare 
+Buddha who taught the following dharma-formula-“Of all
+those phenomena which are born of causes, the## tathAgata
+##has preached of those causes and He has also preached of 
+their cessation. The## mahA-zramaNa ##is the holder of such 
+a doctrine.” At once did## maudgalyAyana ##attain the 
+dharma-insight into things and became fit for realising the## 
+nirvANa.
+##Then after a conversation## maudgalyAyana ##agreed to 
+go back to their former preceptor,## saJjayin, ##to take farewell 
+of him by telling him that they both were going to live the 
+religious life under the Buddha. They then made for the 
+Bamboo-grove taking with them the whole body of five 
+hundred wandering disciples of## saJjayin ##at the time. 
+The Buddha intuitively knew that## zAriputra ##and## 
+maudgalyAyana ##were approaching Him for ordination and 
+so He asked the monks to prepare seats for them and their 
+company in advance. He also declared before his disciples 
+that the two leading men would be his chief pair of disciples, 
+the one## (zAriputra) ##eminent for his wisdom and the other## 
+(maudgalyAyana) ##for his supernatural powers. From a 
+distance## zAriputra saw the Lord in his majestic glow sur- 
+rounded## by his disciples, all released from bondage. He 
+and## maudgalyAyana ##accompanied by the five hundred 
+wanderers approached the Lord and## zAriputra ##told him 
+that they so long dwelt among false sectarians and they had 
+now turned from the wrong ways and crossed over to his 
+@xxx
+(Buddha’s) way. Then both of them prayed to the Lord to 
+admit them as recluses and to ordain them. The Buddha
+granted their prayer by uttering the formula “Come, monks,##
+(ehibhikSukAye)” ##and “Come, monks, live the religious life 
+under the## tathAgata”. ##All the other followers of the two 
+friends were also so ordained. At once all the marks of their 
+former sect disappeared and there appeared before them 
+the three robes of the Buddhist monks and their bowls 
+and they adopted the ascetic’s hair and wandering method 
+of life. Such is the story of their renunciation## (pravrajyA), 
+##ordination## (upasampadA) ##and entry into the monk’s status## 
+(bhikSubhAva). 
+##After their formal ordination## zAriputra ##put forward
+some metaphysical queries to which the Master said that 
+four constituent parts of a being## (dhAtus) ##are predicated 
+about and they exist, disappear and reappear by a new 
+birth. In reply to further questions the Lord replied that 
+ignorance## (avidyA), ##desire or craving## (tRSNA) ##and action##
+(karma) ##are the causes of birth. He also said that time## 
+(Ayus), ##work## (karma) ##and food## (AhAra) ##are the causes of 
+existence. Disappearance or death is caused by the termina- 
+tion of time, the end of actions and the elimination of food 
+and a being’s rebirth is caused by non-escape from ignorance 
+and domination exercised by desire. The cessation of rebirths 
+takes place only when a being escapes from nescience and 
+succeeds in totally annihilating his desire. The Lord also ex-
+plained to the monk how pleasurable sensation are produced 
+in the sense organs by the so-called attractive appearance 
+of object-forms. He also referred again to the law of causation 
+as producing all phenomena which, according to him, were 
+non-soul, nor partaking of anything belonging to any soul. 
+On hearing this discourse the new converts became bereft 
+of all miseries. Within one week## maudgalyAyana ##acquired 
+all supernatural powers and within a fortnight did## zAriputra 
+acquire intuitive knowledge and perfect wisdom. Thus 
+they all crossed over the deep forest of birth, decay, death
+and rebirth.## 
+@xxxi
+zAriputra-maudgalyAyanapramukhAnAM paJcAnAM bhikSuzatAnAM rAkSasadvIpakSiptAnAM jAtakam 
+(##The## jAtaka ##of the Five Hundred Monks led by## zAriputra ##and## 
+maudgalyAyana ##cast on the island of the Sirens)
+In reply to the monks' query as to how the Lord saved##
+zAriputra ##and## maudgalyAyana ##from all ills of life i.e. 
+birth, death and old age, the Lord replied that in a former 
+life also he saved them from the hands of the Sirens in their 
+terrible island and led across to## jambudvIpa. ##He then related 
+this## jAtaka ##and at the end of the story identified himself 
+with## kezin, ##the king of horses and the five hundred monks 
+with the five hundred merchants saved from the hands of 
+the Sirens. The story briefly runs thus :- 
+Long long ago a party of five hundred merchants left##
+jambudvIpa (India) by a sea-going vessel to seek for wealth. 
+The vessel was wrecked by a monstrous fish in mid-ocean. 
+The merchants prayed to their various gods they believed 
+in and by use of float of various kinds reached an island 
+of the Sirens## (rAkSasIs). ##They saw hundreds of women 
+dressed in fine garments but they were mere sirens in 
+human guise. These deceitful women welcoming the 
+merchants implored them to become their husbands and 
+live comfortably with them and enjoy their company and 
+they told the merchants that they should live there as devas 
+in Nandana in that island of precious stones. The merchants, 
+however, at first wept, grieved and lamented by thinking of 
+their near and dear kinsfolk in India. But the sirens took 
+the merchants, one each, to their mansions and they were 
+supplied with all sorts of garments, garlands, costly food of
+meat and other condiments and also entertained by them 
+with sweet songs accompanied by play on musical instru-
+ments. The sirens only warned the merchants against 
+going along the way lying south of the city. The leader of 
+the five hundred merchants was clever and shrewd and 
+he thought within himself as to why they were interdicted 
+from going towards the southern way. When the sirens 
+fell asleep after heavy food and drink taken by them, he 
+@xxxii
+made for that southern way alone with a sword in hand. 
+As he approached a stronghold of iron encircled by walls of 
+copper he heard a sound of the wailing of many men and 
+he proceeded following the direction of that sound. He 
+could not find out any gate leading to that stronghold. He
+then found out a tall acacia tree## (zirISa) ##growing close against 
+the wall on the north side. He climbed that tree and saw 
+within the stronghold hundreds of famished persons, 
+suffering from hunger and thirst and having their nails, hair
+and beards long. On seeing the merchant on the tree the 
+captive men took him for a deva and turned to him for 
+refuge, so that they might be reunited with their own people
+after release from that cruel bondage. The men within told 
+the merchant on the tree that they were ship-wrecked and 
+rescued by those very women who at first diverted, delighted 
+and amused themselves with them. But later out of their 
+party numbering five hundred in all, the younger ones,
+two hundred and fifty in number, were devoured and the 
+rest of them kept imprisoned in that stronghold. They clearly 
+informed the merchant on the tree that those women were 
+not human, but they were sirens. On hearing this the leader 
+of the merchants got terrified and asked the imprisoned 
+merchants if there were a means of his and his followers’
+escape in safety. They answered saying that on the full moon-
+day of the month## kArttika ##the winged king of horses,## kezin
+##by name, comes to that island from Uttarakuru and cries
+out three times in human voice telling people wishing to 
+cross the ocean in safety, for, he as their refuge can take 
+them across to## jambudvIpa, ##but they shall have to cling
+to his manes and various limbs and to give up those whom
+they treated as wives. Some of whom may have given birth to 
+children. They also told him that in case they thought of 
+their wives and children they would drop down from the 
+carrying horse. The leader of the merchants asked the 
+imprisoned merchants to take their own chance of escape 
+along with them, but they pointed to him that there was 
+no possibility for them to leap out of that terrible stronghold.
+@xxxiii
+They only requested him to greet their relatives in their 
+name and ask them never to cross the ocean where such 
+peril existed and to remain in## jambudvIpa even if they 
+might have to beg from house to house. 
+The leader of the merchants climbed down from the 
+tree and returning by the same way lay down on the bed 
+provided. He then sought an opportunity to tell his fellow-
+merchants about this plan of escape without the sirens 
+getting to know of this. He kept the secret to himself until 
+the full-moon day came and when he gathered the merchants 
+in a hidden place he told them all about the plan. When 
+the particular day came they saw## kezin ##the king of horses 
+standing on the sea-shore and shouting to offer refuge to 
+those who wanted to cross the ocean. They all obeyed the 
+instructions of## kezin ##to forsake the women and children 
+and also the island of precious stones. Those who yearned 
+for their wives and children fell from the horse’s back and 
+others safely escaped from that island to## jambudvIpa, kezin
+##flying swiftly in the air. 
+Then follows the metrical version of this story in the 
+book, but the contents were similar to those in the foregoing 
+prose version, with this exception that therein the king of 
+horses is named## valAha ##instead of## kezin. ##The gods greeted 
+the horse saying that before long he would become a Master
+leading all men across to the shore beyond the ocean of old 
+age and death.## 
+pitAputrasamAgama: kapilavastunagare (##The meeting of the father and the son at Kapilavastu city##)
+The Lord as teacher of devas and men was staying 
+at## rAjagRha ##after having attained enlightenment and given 
+his first sermon at## mRgadAya. ##The## zAkyas ##heard of this 
+news and requested king## zuddhodana ##to send messengers 
+to the Lord asking him to show his compassion on his own 
+people. On the people’s suggestion Chandaka and## udAyin
+(kAlodAyin), ##the Lord’s comrades, were commanded by the 
+@xxxiv
+king to go to the Lord and ask him to show compassion to 
+the people of Kapilavastu by a visit and the king also directed 
+the messengers to do whatever the Lord told them to. 
+The messengers arrived at## rAjagRha ##and both Chandaka 
+and## kAlodAyin ##were asked by the Lord whether they would 
+take up the religious life and they agreed to do so against 
+their will, because the king directed them to do what the 
+Lord told them to. They then got ordination by the Buddha
+who addressed them with the simple formula of “come, 
+monks”. The Lord did not know his native place for seven 
+years since he had left home. He was asked by some devas 
+who are long were his near relations that the Lord should 
+show compassion on his own people and he silently intimated
+his assent to those devas. The Lord’s eagerness to take
+compassion on Kapilavastu was understood by## udAyin 
+##when the Lord arranged his seat facing his native place.##
+kAlodAyin ##then implored the Lord to graciously start on his 
+way to## kapilavastu ##so that the Koliyans and the## zAkyans 
+might behold the face of the Lord. To## zAriputra ##the Lord then 
+described the journey of the former BuddhA# zikhin ##and 
+the monk said to the Lord that as He also possessed all the 
+attributes, morality, wisdom and powers, of## zikhin, his own 
+journey would also be like his and it would be for the welfare 
+and happiness of devas and men. The Lord then set out 
+and went on his journey to take compassion on all. After 
+having completed his journey and converted many people 
+on the way the Saviour of the world reached Kapilavastu. 
+The Lord lived with a very large body of disciples in the 
+Banyan Grove.## zuddhodana ##caused a proclamation to be 
+made in the capital city announcing that no one was to go 
+to the Lord before he goes to him. Then on seeing a company 
+of monks amongst whom were## uruvilvA-kAzyapa, nadi-
+kAzyapa, gayA-kAzyapa, zAriputra ##and## maudgalyAyana, 
+##lean of body, mortified by austerities, shaven and holding 
+bowls in their hands to beg for alms, he felt troubled and 
+thought that if his own son had not left home he would 
+have become a universal king on earth. So## zuddhodana
+@xxxv
+asked his men to send away the company of monks whom
+he did not like to see. The king's counselors asked them to 
+turn back to the Banyan Grove. This was reported to the 
+Lord who asked the chief monks who insisted on their 
+going to the king to placate him, not to do so. But the Lord
+thought within himself that## kAlodAyin ##might go to the king 
+for the purpose.## mahA-maudgalyAyana ##through his deva-eye
+perceived this and he asked## kAlodAyin ##to prepare to go to 
+the king to placate him, but## kAlodAyin ##declared to the great 
+monk that it was exceedingly difficult to approach a king 
+for security reasons. The Lord told## kAlodAyin ##that no one 
+else would succeed in such work but himself. The Lord then 
+related to him of the very past event in the life of a mighty 
+king, named Satyavardhana who asked his son,## matisAra, 
+##who always paid heed to the Buddhas and intent on a host 
+of merits, that he should remain at home and enjoy all 
+kinds of sensual pleasures. But## matisAra ##renounced without 
+regret his kingdom and pleasures, but he indulged in divine 
+meditation. A son of the household priest of that king, 
+Somadatta by name, went forth also from home and took 
+to the religious life. King Satyavardhana took the whole 
+affair hard. The Lord then asked## udAyin ##to think that He 
+himself was## matisAra ##and his father## zuddhodana ##was 
+Satyavardhana and he## (udAyin) ##was the devoted Somadatta 
+who appeased the king. So the Lord asked## udAyin ##to 
+quickly go to and placate king## zuddhodana ##for the good 
+of the world. Meanwhile## zuddhodana ##became sorely 
+stricken in mind and dejected. He turned back from the 
+gates of Kapilavastu and addressed the## zAkyan ##men and 
+women as to how they would be deprived of the lordship of 
+a mighty realm because of his son’s taking up the religious 
+life. To his utter amazement the king happened to see## 
+udAyin ##perform the miracle on flying in the air from the 
+Banyan Grove, standing in the air before him and re-
+counting to him the many noble qualities of his son, the
+Buddha, who could irradiate the whole world by his splendour. 
+Having dispelled all doubts from the king’s mind about
+@xxxvi
+the sterling merits of the Buddha who could make his own
+clan happy and prosperous, he congratulated## zuddhodana 
+as being the Conqueror’s father. He told the king in reply
+to his query that his Master lived the life of brahmacarya
+in faith, unmoved by censure or praise and being a Leader
+himself and not led by others. The king then fed the monk##
+udAyin ##and consented to go to see the Buddha and his
+company. The monk informed the Buddha that his father
+and his own people were going to see him. The king then
+issued a proclamation to his people that they should all
+proceed to the Grove near Kapilavastu to see Prince##
+sarvArthasiddha ##come there twelve years after being
+now awakened to the supreme perfect enlightenment.
+All people including princes, counselors, army officers,##
+brAhmaNas ##with priest, the community of tradesmen of
+the eighteen guilds, the host of musicians and the craftsmen 
+gathered quickly before the palace-gate and then started
+for the Banyan Grove to see the Buddha. A reflection came
+into the mind of the Buddha as to whether he as son should
+or should not stand up to greet his father. For he knew that
+there was chance of the heads being split into parts of those
+before whom the## tathAgata ##stands up to greet him.
+So he decided to rise up into the air to the height of a man
+and take a long walk there.## zuddhodana ##was thrilled with
+wonder on seeing such a marvel. He then invited all to look
+at the omniscient lord of men. Approaching the Lord with
+all his men and women, he bowed at the feet of his son, the
+Lord. He informed the Lord that this was his third bowing
+at his feet, the other two bowings had taken place when the
+soothsayers fortold of his coming Buddhahood and when
+the roseapple tree’s shade did not desert him during his
+first meditation. Then the Lord performed various kinds
+of miracles of twin nature i.e. of double appearance.## 
+yazodharA ##bathed the eyes of## mahAprajApatI gautamI 
+##with the jets of water from the body of the Lord walking in
+the air and her blind eyes regained their sight. The Lord
+established many thousands of beings in## Aryan ##states of 
+@xxxvii
+dharma and sat down on his seat.## zuddhodana, mahAprajApatI
+gautamI, yazodharA ##and other## zAkyan ##men and women
+bowed at the feet of the Lord. The Buddha and his father
+met together. The king asked his son whether it was well or
+ill with him and the son replied that he knew no feelings as
+he was all-conquering and all-knowing, a renouncer of every
+thing. Then followed a conversation between the father
+and the son, in which the father feelingly referred to the
+son’s various comforts regarding his food, bed, conveyance,
+clothings, living in palace etc. The son told the father that he
+had the whole earth for his domain and had many sons
+(i.e. his disciples).## zuddhodana ##asked the Buddha to show
+him the way of release and he felt that he was rid of all##
+Asravas. ##The Buddha inspired his father with knowledge and
+advised him to always pay regard to monks when he saw
+them. Such was the thrilling meeting of the Lord and his
+father.##
+kAkajAtakam (##The## jAtaka ##of the Crow) 
+In reply to the question of the monks as to how##
+zuddhodana ##was reconciled by## udAyin, ##the Lord told the
+monks that in a former life also## udAyin ##did the same thing and 
+related to them this## jAtaka ##of the Crow. At the end of the
+story he identified himself with## supAtra, ##the king of the
+crows,## yazodharA ##with## supArzvA, ##the wife of that crow,##
+kAlodAyin ##with the crow who was the minister over the
+large flock of crows, and## zuddhodana ##with king Brahmadatta
+of the story. The story briefly stands thus:-
+Long long ago, Brahmadatta was the mighty and virtuous
+king of## kAzi ##ruling from Benares. There dwelt in## kAzi, ##a king
+of crows, named## supAtra, ##whose wife’s name was## supArzvA.
+This female crow expressed to her husband that she conceived
+a longing for the king’s food. The king-crow told this matter to
+his minister who ordered the crows in the flock to bring food
+for the queen-crow from the royal kitchen. All crows pleaded
+inability because the king’s kitchen was a protected area,
+@xxxviii
+where the guards were ready with bows and arrows. The 
+minister then offered himself to do the job in execution of 
+his king’s order and promised his king to bring the queen
+food from the kitchen of Brahmadatta. He used to bear in his 
+beak some of the king’s food, unnoticed by the guards. The
+king ordered for a net to be spread over the kitchen against
+the trespasser. The minister-crow watched the road along
+which the king’s food was taken to the palace and he used
+to take some food in his beak. The servitors were then
+ordered to put covers over the dishes of food. So the crow
+could no longer steal any food. But he thought of snatching
+some food from the hands of the serving-maids through
+whom the king sent morsels of food to the queens. There
+came the order from the king to use coverings put over all
+the serving-maids. By that time king Brahmadatta be-
+coming very impatient issued an order saying that he would
+give a rich reward to any one catching that insolent crow
+and bringing him alive to him (the king). A certain serving-
+maid was taking a morsel to his queen and on
+seeing her the minister-crow held on to her nose which
+he scratched and cut. The maid succeeded in seizing the
+crow in both her hands. The king was highly pleased with
+the maid for her smart piece of work. The king scolded the
+crow for his act of trespassing. The crow told the king that
+he had done the behest of the king of crows and thus honoured
+him. In order to reward his faithfulness to his king,
+Brahmadatta directed that the crow should have some
+of his own food daily for himself and for his king and the
+king also ordered that no one should molest the crow in
+any way.##
+hastinikA-jAtakam (##The## jAtaka ##of the female Elephant)
+The monks asked the Lord as to how## mahA-prajApatI
+gautamI ##who became blind through grief for him got her
+eye-sight restored by him. The Lord told the monks that
+on a former occasion also such an event had taken place
+@xxxix
+and he then related to them this## jAtaka ##story. At the end
+of the story the Lord identified himself with the young
+elephant and## mahAprajApatI ##with that elephant’s blind
+mother and his step-brother Nanda with the king of## kAzi.
+##The story briefly runs thus:-
+In the slopes of the## himAlayas ##in the hill, named## caNDagiri,
+##there was a wood where dwelt a herd of six-tusked elephants one
+of whom was very fine and young. This young elephant was
+always tending his blind mother with reverence and affection.
+But unfortunately for him he was caught by the king of## kAzi
+##and brought to Benares and kept in the royal stable. Remem-
+bering sorrowfully his blind and aged mother the young
+elephant did not take any food given him at the Benares stable,
+and began to waste away. On the king’s asking him about the
+cause of his sorrow and abstinence from food-taking the young
+elephant told the king in human voice all about his infirm
+and blind mother who required his constant care and nursing.
+The king was astonished to know of his deep devotion to-
+wards his mother, so rare a quality even in many human
+beings and by his command the young elephant was set
+free on the borders of his forest and he met his mother after
+a difficult search. After she was washed by her son and her
+eyes were bathed and all mire on her body wiped off, she
+regained her sight. The mother elephant blessed the king
+of## kAzi ##for his kindness.
+This## jAtaka ##story does not occur amongst the## pAli
+jAtakas. ##In the## mahAvastu ##we have hereafter a metrical
+version of it which seems to be a more primitive one.##
+asurANAM bhagavatpUjA (##the worship of the Lord by the Asuras)
+When the Buddha was living in the Banyan Grove
+of Kapilavastu the Asura lords,## rAhu, ##Vemacitrin and
+Mucilinda accompanied by a very large number of Asuras
+came there and paid worship and honour to the Buddha.
+The Lord smiled when he became aware of the Asuras’
+@xl
+aspiration for becoming Buddhas themselves in some future 
+time. In explaining the cause of his smile, the Buddha told##
+azvakin (##of the## bhadravargIya ##monks-known in other 
+texts as## azvajit) ##that the## dAnavas ##aspired for supreme 
+enlightenment which they would surely attain after their 
+births in many thousands of kalpas. A lord of the Asuras
+named Sambara is also mentioned in this connection. 
+King## zuddhodana, ##his wife## mahAprajApatI gautamI, 
+yazodharA (##Gautama’s wife), the women of the King’s court 
+and the general body of the## zAkyans ##entertained the Buddha
+on various days with good meals. On the day of## yazodharA’s
+##entertainment she wanted to serve the Buddha with some 
+excellent sweetmeats of her own preparation and thereby to 
+attempt to entice the Lord. The monks pointed out to the 
+BuddhA# yazodharA’s ##overtures. Then the Lord related A#
+jAtaka ##story from which he showed that even once in a 
+previous birth## yazodharA ##sought to entice Him.##
+rAjakumArI-nalinIjAtakam (##the## jAtaka ##of## nalinI, ##the King’s daughter)
+After having related this## jAtaka ##story, the Buddha
+identified## zuddhodana ##with the seer## kAzyapa ##in it,## mahA-
+prajApatI gautamI ##with the doe, Himself with the young 
+seer## ekazRGga, ##and## yazodharA ##with## nalinI, ##the royal princess
+of## kAzi. ##The story in an epitomised from runs thus :- 
+In the slopes of the## himAlayas ##to the north of Benares 
+in the province of## kAzi, ##there was a peaceful hermitage named##
+sAhaJjanI ##where dwelt the powerful seer## kAzyapa. ##Once
+in summer this seer fell ill after eating too many ripe fruits 
+and he passed urine mixed with some semen in a stone pot 
+from where a thirsty doe drank the same under the impression
+that it was drinking water. The doe, however, conceived
+and gave birth to a human child. The seer took the child to 
+be his issue and named it## ekazRGga, ##who later, became
+meditative in nature and achieved super-knowledges. There 
+in## kAzi ##the king had no son, but had some daughters one of 
+@xli
+whom was named## nalinI. ##The king wished to give## nalinI
+##in marriage with the seer’s son,## ekazRGga, ##so that he might
+be a son to him as well as a son-in-law.## nalinI ##was sent by 
+the king to## sAhaJjanI ##hermitage along with the royal priest 
+who was directed to take a good quantity of food, drink and 
+sweetmeats. When## ekazRGga, ##the seer’s son, saw her he
+took her to be a seer, because he had no knowledge of the 
+sex to which she belonged.## nalinI ##enticed the young seer 
+by embrace and inspired him with love. She also gave him 
+the costly sweetmeats to eat, the like of which the young
+seer never experienced before.## kAzyapa ##was informed by his 
+son that on seeing a new seer (meaning## nalinI) ##he felt a thrill 
+and became sad for his (i.e. her) departure from the hermi-
+tage.## kAzyapa ##understood that his son must have seen a 
+woman who must have tried to seduce his son,## ekazRGga.
+##The king of## kAzi ##again sent the royal priest in a ship up 
+the Ganges taking## nalinI ##and her companions in it. There 
+was a happy meeting with the seer’s son and## nalinI ##this 
+time also, and she gave him sweets, drinks and other kinds of 
+food. Thus seduced by## nalinI ekazRGga ##came away by ship 
+to Benares where they were married. But the young seer 
+could not at all understand that## nalinI, ##the princess, was 
+given to him to be his wife. They then both reported them-
+selves to## kAzyapa ##who found them both bound in love and 
+he then permitted him to go with## nalinI ##to Benares where##
+ekazRGga ##was anointed by the king of## kAzi ##as his heir to the 
+throne. After the King’s demise the young seer ascended 
+the throne of Benares.## 
+padumAvatIye (padmAvatyA:) parikalpa: pUrvayogazca (##the preliminary story of## padmAvatI
+##and her association in a former birth)
+The monks asked the Lord to explain## zuddhodana’s
+dismissal of## yazodharA ##without trial and examination. 
+The Lord related the story of## padmAvatI ##to the monks. 
+After the story was told, the Lord identified## yazodharA
+@xlii
+##with Queen## padmAvatI, ##Himself with the seer## mANdavya
+##and## zuddhodana ##with king Brahmadatta of Kampilla 
+(in## paJcAla), ##who punished innocent## padmAvatI ##with-
+out trial and examination. The story briefly stands
+thus## :-
+padmAvatI ##was the daughter of the great seer## mANDavya
+##living in a hermitage on the slopes of the## himAlayas, ##born 
+from a doe in the same manner as## nalinI ##of the previous story 
+was born. When grown up## padmAvatI, ##as a result of good 
+karma in past lives, produced lotuses springing up in her 
+footsteps. Brahmadatta, king of Kampilla, going a-hunting 
+saw her near the hermitage of her father and enticed her away 
+by offer of sweet-meats and drinks, and drinks, and she, with her father’s
+permission for a marriage between the two, was brought to 
+Kampilla. The king being infatuated with her neglected 
+the other queens who blindfolded## padmAvatI ##at the time of 
+delivery of twins (two sons), and they besmeared her face 
+with the dregs of her womb. Later they showed her the 
+two cauls which, they said to her, were brought forth by her.
+But the other queens put the two handsome new-born 
+children in a chest and sealed it with the royal seal and 
+threw it into the Ganges water, of course, without any- 
+body’s knowledge. They declared to the king that## padmAvatI
+was not a human being, but she was an ogress## (rAkSasI)
+##and she devoured her own children as soon as they were born. 
+On hearing this account of## padmAvatI’s ##delivery the king 
+ordered his counselors to turn her out of the palace and 
+have her put to death.## padmAvatI ##told the counselors 
+that she was fully innocent in the charge brought against her 
+and also informed them that at the time of delivery she was 
+blindfolded by the other queens and she did not know 
+whom and what she gave birth to. The wise counselors 
+understood that## padmAvatI ##had been deceived by the other 
+queens out of jealousy. The counselors then concealed her 
+in the house of one of them while telling the king that she 
+had been put to death, their intention being to save the 
+@xliii
+king from any future remorse and sorrow for her. The 
+other queens became highly pleased to hear of the death of## 
+padmAvatI ##and they entertained the king with various kinds
+of enjoyments. Then king Brahmadatta was told by a certain 
+female deva well-disposed towards## padmAvatI’s ##father, 
+the seer## mANDavya, coming to the king by flying through
+the air, that the king acted on a false report, sent away 
+innocent## padmAvatI ##to be killed and forgot the good words 
+of the seer. On hearing distinctly this oracular words of the## 
+devI, ##the king asked the other queens about the truth and 
+they then confessed their own guilt. The king was sore
+distressed for the loss of his innocent chief queen. Just then 
+came some fishermen with the chest sealed with the king’s
+seal and they told the king that they got the chest while 
+netting fish. It was made over to the king who got it opened 
+with the help of his counselors who found therein the two 
+lovely and handsome sons of the king. The king fell to the 
+ground in a swoon remembering## padmAvatI. ##The coun-
+sellers then asked the king not to mourn for his wife whom 
+they produced before their king. The king rejoiced at the 
+reunion and asked her what treatment she now wanted 
+him to mete out to her enemies, the other queens.## padmAvatI
+forbade the king from dealing harshly with them saying 
+that she herself reaped the fruits of her own Karma both 
+during the king’s favour and disfavour. The king then 
+asked her to forgive him for the wrong done to her and 
+wished to make over the whole realm to her.## padmAvatI
+##refused that offer and wanted to take up once again the 
+religious life of an ascetic with her father. She then went to 
+her father’s hermitage, but the seer## mANDavya ##was already 
+dead. Wandering hither and thither as a nun she then 
+came to Benares, the city of king## kRkin ##who tried his utmost 
+to seduce her, but she sternly rejected the king’s wish to 
+make love to her, because she was by then established in 
+dharma. She threatened the king with her power of 
+austerities to burn him if he applied force in any way. Then 
+disguised as A# brahmaNa ##king Brahmadatta came to the 
+@xliv
+house of the king of## kAzi, ##and declared himself a skilful
+dice-player. During dice-playing he revealed to the## kAzi
+##king that he was king Brahmadatta of## paJcAla ##and the
+lady there was## padmAvatI, ##his wife. The king of## kAzi ##then
+sent away the pair with full honour to the city of Kampilla.
+It may be noted that lotuses stopped springing up in##
+padmAvatI’s ##foot-step when she was sent away by Brahma-
+datta to be killed, but the same marvel of lotus-springing
+commenced again when she was brought from Benares
+to Kampilla.
+The monks asked the Lord why lotuses sprang up in
+the foot-prints of## padmAvatI ##and later stopped to do so.
+The Lord then related the story of a former birth of##
+padmAvatI. ##The story is simply this:-
+Long long ago, there was a girl in the city of Benares who,
+when entering the city with a pitcher of water from a lotus pool,
+carried a lotus in her hand. She met a certain Pratyekabuddha
+leaving the city after collecting alms. The girl’s heart was
+filled with serenity when she saw him and she out of devotion
+gave the lotus to him. She found the lotus to shine exceedingly
+bright in the## Pratyekabuddha’s ##hand and also felt her own
+hand withering. She took back the lotus and her hand shone
+brightly, while the## Pratyekabuddha’s hand was seen wither-
+ing. Feeling remorseful she gave back the lotus to him and
+realised that her action was wrong in taking back a
+thing already given. It was then received by the## Pratyeka-
+buddha.
+##The Lord then told the monks that it was## PadmAvatI
+##who, in a former birth, was the girl of Benares. As a matur-
+ing of her good karma in giving the lotus to the## Pratyeka-
+buddha lotuses sprang up in## PadmAvatI’s ##foot-prints and as
+a maturing of her wrong karma in taking back the lotus
+from the## Pratyekabuddha ##the lotuses stopped springing up
+in her foot-prints. Again as the lotus was once more given
+to the## Pratyekabuddha, as a maturing of that karma lotuses
+again sprang up in her foot-prints when king Brahmadatta
+took her from Benares to Kampilla.##
+@xlv
+rAhulabhadrasya pUrvayoga: (##the story of a former birth of## rAhulabhadra)
+##On the monks’ asking the Lord the cause of## rAhula’s
+##remaining in the womb, the Lord attributed the incident
+to the maturing of an old karma done by## rAhula. ##The 
+Lord then related to the monks the story of a former birth
+of## rAhula. ##At the end of the story the Lord identified him-
+self with## sUrya, ##the seer, and## rAhula ##with Candra, the
+king and also told them clearly that## sUrya ##was kept confined
+by Candra in the## azoka ##grove for six nights and as a maturing
+of that karma Prince## rAhula ##had to stay in the womb for
+six years long. The story in brief is this:-
+Long long ago there was A# brAhmaNa ##king in Videha
+ruling from his capital at## mithilA. ##He had two sons,##  sUrya, ##the
+elder one and Candra the younger. Candra wanted to leave
+home for taking up the wandering life of a seer and to see## sUrya
+##rule the kingdom because their father had been dead.## sUrya
+##in the role of a king ordered the younger brother, Candra,
+to become the king and himself wanted to leave home to 
+take up the religious life of a seer.## sUrya ##as a seer became
+highly accomplished in meditation, acquisition of super-
+knowledges and power. His attendants also followed him by
+taking up the religious path. After achieving high religious
+powers## sUrya ##resolved not to drink water which was not 
+given him by any one. But on one occasion the seer out of 
+lapse of mindfulness drank water from another seer’s jar
+when it was not given to him. He then remembered his vow
+and thought himself a thief and guilty of wrong-doing.
+He even did not like to be greeted by others as he considered
+himself a thief.## sUrya ##then went to his brother, Candra,
+the king at## mithilA ##and asked the king to impose on him the
+penalty of a thief, as he drank another man’s water. The
+king wished to impose a punishment because the seer could
+not shake off his guilty feeling and sent the seer in a grove of##
+azoka ##trees with provisions of good food and other comforts
+and kept him there for six nights. On the seventh day the
+king proclaimed a general amnesty and thus the seer’s
+@xlvi
+punishment was remitted.## sUrya ##being thus rid of his
+feelings of guilt returned to his hermitage.##
+zAkyAnAM upAlezca pravrajyA (##the renunciation of the## sAkyans ##and## upAli)
+##King## zuddhodana ##called the## zAkyans ##together and
+declared to them that Prince## sarvArthasiddha ##belonging
+to his## kSatriya ##family had left home having discarded his
+future sovereignty and had now become awakened to per-
+fect enlightenment. He considered that it was not quite
+fitting that he would have a following of## brAhmaNas ##only
+and that he should also have some## kSatriya zAkyan ##young
+men for his followers. Accordingly they cast votes to select
+one man from each family to take up the religious life under
+the Buddha. The result of such selection was that five
+hundred## zAkyan ##young men were to go forth to the homeless
+life. Devadatta, Nandana, Nandika and Anuruddha
+(Aniruddha elsewhere) were to go forth. The last man,
+Anuruddha, on being told clearly by his elder brother,##
+mahAnAma ##about the duties of a householder and those of
+one who renounces home-life chose for the latter kind of
+duties and resolved to go forth to the religious life. An
+astrologer on finding Devadatta’s diadem being knocked
+down by the arch over the city-gate at the time of his setting
+out on an elephant foretold that he would fail in his highest
+object for which he was leaving home-life.## upAli ##was A#
+zAkyan ##barber, but though lowly born he had virtuous
+roots in him carrying from his previous births and was in
+his last existence offered himself before the Lord saying
+that like the## zAkyan princes he would also like to go forth
+to the religious life by giving up his profession with the
+razor. The Lord admitted him to the religious life and gave
+him ordination by the formula “Come,## upAli ##the barber,
+come monk and live the brahmacarya life under the## tathAgata.”
+upAli ##therefore took up the religious life ahead of the## zAkyan
+##princes who were yet taking leave of their kith and kin.
+The princes then were similarly ordained with the usual
+@xlvii
+simple formula by the Lord who asked them all to treat
+the monk## upAli ##as senior to them and according to the
+Lord’s direction they bowed first at the feet of the## tathAgata
+##and of the monk## upAli ##at whose feet king## zuddhodana ##and
+his retinue also bowed down. In this affair## upAli ##addressed
+the king by his name## zuddhodana ##in course of welcoming
+the monarch. The counselors and attendants of the king
+got irritated by the lowly born## upAli’s ##using the king’s
+name in his address. But the king said to them that they
+should no more speak of the## Aryan upAli ##as a lowly born
+man.##
+gaGgapAlasya jAtakam (##The## jAtaka ##of## gaGgapAla)
+##The monks asked the Lord as to why at his command##
+zuddhodana’s ##attendants bowed at the feet of the monk,## 
+upAli ##though he was lowly of birth. The Lord told the
+monks that such a bowing took place on a former occasion
+also and he then related this## jAtaka. ##At the end of the story
+the Lord identified himself with the seer Upaka, his father##
+zuddhodana ##with Brahmadatta, the king of## kAzi ##and the
+barber## gaGgapAla ##with## upAli, ##and he said to them that as
+on the former occasion the royal attendants by his orders
+bowed at the feet of the barber,## gaGgapAla, ##on this occasion
+too the royal attendants bowed at## upAli’s ##feet. The whole
+story briefly runs thus:-
+Long long ago in Benares two poor boys were carrying
+junket for food in their knapsacks, when they saw a
+Pratyekabuddha of graceful deportment and they put the
+junket in the bowl of the Pratyekabuddha who then flew
+away through the air. One of the boys wished through this
+root of merit to become A# kSatriya ##king, and the other to be
+reborn in a rich## brAhmaNa ##family. They realised that no
+offering, however insignificant, if made with a trusting
+heart to A# tathAgata ##or any disciples of his, cannot go in
+vain. After their death one was born as a king’s son and
+was given the name of Brahmadatta, and the other was
+@xlviii 
+born as the king’s priest’s son and was named Upaka. 
+Brahmadatta became king after his father’s death, but the 
+young Upaka became infatuated with a young girl who 
+came to him wanting to be provided with perfume and 
+garland for celebrating a full–moon festival. Upaka got A# 
+mASa ##coin by begging and kept it concealed on the banks 
+of the## gaGgA ##river. King Brahmadatta saw Upaka going 
+out of the city in scorching sun of the noon, singing sweet 
+songs. The king got him brought through messengers to 
+himself and asked him the cause of his mental agitation. He 
+told the king that he was bent on going after his hidden coin. 
+The king wanted to give him one coin, two coins, and more## 
+mASa ##coins, and said that he should not travel in the noon-heat 
+for his hidden coin, but Upaka was not to forego his own 
+coin. The king gave to Upaka half of his kingdom and they 
+both ruled the same realm jointly. But the thought of killing 
+Brahmadatta crossed Upaka’s mind, so that he could 
+become the sole ruler of the kingdom and confessed his wrong 
+thought to the king who, however, reminded Upaka that 
+there was no end of desires. Upaka resolved to abandon 
+all desires, even the one for ruling the realm, and go forth 
+to the religious life. The king at last gave him permission 
+to renounce the world. Upaka then became a recluse with 
+the potter-seer of## kAzi ##and attained various powers by his 
+endeavour even to touch the sun and the moon while sitting 
+cross-legged in the hermitage and to fly up to heaven. King
+Brahmadatta out of envy towards Upaka continually recited 
+a verse the purport of which was that Upaka has gained 
+great profit by becoming a recluse by foregoing the delight 
+of sensual pleasures. The ladies in the harem could not fully 
+understand the King’s recital of the verse again and again. 
+Once Brahmadatta being satisfied with the handiwork of 
+his trusted barber,## gaGgapAla ##by name, wished to give 
+him a village as reward. The women of the harem asked 
+the barber not to accept the offer of a village from the 
+king, but they advised him to ask the king the meaning of 
+the verse he always recited. The king told## gaGgapAla, ##the
+@xlix
+barber, that the young## brAhmaNa ##Upaka renounced the 
+half of the kingdom and became a great seer endowed with 
+power and super-knowledge and so out of envy for him he 
+was continually reciting the verse. The barber reported 
+this to the women of the harem who rewarded him with 
+gold, money, clothes and jewels. But the thought arose in## 
+gaGgapAla’s ##mind that like Upaka he would also renounce 
+the world and he declined to accept the reward from the 
+ladies. He then took the permission of king Brahmadatta 
+to go forth and live the religious life under the seer Upaka 
+and he became a great seer himself. The king then told 
+the counsellors that he wanted to go to visit and do homage 
+to the three worthy seers, the potter, Upaka and## gaGgapAla. 
+##The counsellors asked the king that he should not go to 
+them, but they of mean birth should be made to come to 
+him. The king, however, told them that it was not dharma 
+that those worthy men should be asked to come to him, but 
+he (the king) ought to visit them personally. The king 
+with his counsellors and attendants went to see the seers.##
+gaGgapAla ##addressed the king Brahmadatta by name and 
+the king’s men became irritated, but the king pointed out to 
+them that through penance## gaGgapAla ##had risen above his 
+birth. They then went to the seers and bowed at their feet.##
+gaGgapAla’s ##wife was tested by her husband who appeared 
+before her in the guise of a deva to attempt to seduce her, 
+but she proved her extreme chastity by refusing to be seduced 
+by the deva (i.e. her disguised husband).##
+mahAgovindIyasUtram (bhagavata: pUrvenivAsasaMprayuktam)-(##the## mahAgovinda-sUtra
+##with an account of a former birth of the Lord)
+There is also a Pali version of this famous## sUtra ##in the##
+dighanikAya. ##The## mahAvastu ##version seems to be an inde-
+pendent one and it is stated in the book in A# jAtaka ##form and 
+it lays stress on it as being an incident in the career of the 
+Buddha but as recalling a similar event in a former life of the 
+Lord.
+@l
+The monks asked the Lord as to how a large number 
+of people accompanied him when he went forth to the 
+religious life. The Lord told them that a similar event took 
+place in a former life of his. He then related to them this##
+sUtra ##(rather A# jAtaka ##story in form) to them and at the end 
+of the story he identified himself with the## brAhmaNa ##named 
+Govinda. The story was related by the Lord to the monks 
+when he was residing on## gRdhrakUTa ##Mount at## rAjagRha. 
+paJcazikha ##the Gandharva felt himself free of passion on hear-
+ing this exposition to him by the Lord. The story runs thus :-
+One day when the Lord was staying on Mount##
+gRdhrakUTa ##at## rAjagRha, ##the GandharvA# paJcazikha
+##told the Lord that he wished to inform him what he had 
+heard and learnt from## zakra, brahmA ##and the## trAyastriMza
+##devas as they sat and conversed in a Council-Hall. The Lord 
+gave his consent to the proposal.## paJcazikha ##reported the 
+whole thing thus to the Lord. Some of the## trAyastriMza
+##devas were found to excel others though they were born 
+there later, but they were so endowed with deva attributes 
+because they were disciples of the Lord.## zakra ##refuted 
+the idea of some of the devas who wished to see four, three 
+or at least two## tathAgatas ##at a time for greater welfare of 
+devas and men.## zakra ##told the devas that they would be 
+thrilled greatly to hear of the eight wonderful and marvel-
+lous truths about the one## tathAgata ##now existing on earth.##
+zakra ##said to the gods that (1) when this Buddha arose in 
+the world, the hosts of Asuras wanted and the hosts of devas 
+waxed, that (2) none so worked for the welfare of the multi-
+tude, that (3) that his dharma and discipline were for the 
+inward comprehension of those who were wise, that (4) he 
+and his disciples live away from home in forests, that (5) he 
+used to take good meals without indulgence, being aware 
+of the peril in pleasures of sense, that (6) he taught the 
+dharma out of his knowledge, that (7) he crossed the sea of 
+doubt and that (8) the## nirvANa ##and the Way leading to it 
+as taught by him ran together and therefore according to## 
+zakra ##there was none like the present Buddha. The Great  

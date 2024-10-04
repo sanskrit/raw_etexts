@@ -1,0 +1,1321 @@
+@(i)
+##Bulletin of Tibetology
+Vol. V 
+No.2
+29 JULY 1968
+NAMGYAL INSTITUTE OF TIBETOLOGY
+GANGTOK, SIKKIM
+@(ii)
+-The Bulletin of Tibetology seeks to serve the specialist
+as well as the general reader with an interest in this
+field of study. The motif portraying the Stupa on the
+mountains suggests the dimensions of the field-
+EDITORS
+GYALMO HOPE NAMGYAL
+T. SHERAB GYALTSHEN
+NIRMAL C. SINHA
+@001
+Bulletin of Tibetology
+Vol.V 
+No. 2
+29 JULY 1968
+NAMGYAL INSTITUTE OF TIBETOLOGY
+GANGTOK, SIKKIM
+@002
+29 JULY 1968
+PRINTED BY THE MANAGER, SIKKIM DARBAR PRESS
+AND PUBLISHED BY THE DIRECTOR, NAMGYAL INSTITUTE
+OF TIBETOLOGY, GANGTOK
+@003
+CONTENTS
+Page
+NAGARJUNA’S EXPOSITION OF CAUSAL LINKS 5
+N. A. SASTRI
+THE SKYABS-MGON 29
+NIRMAL C. SINHA 
+@004
+CONTRIBUTORS IN THIS ISSUE-
+N. AIYASWAMI SASTRI Formerly Adhyapaka in Visvabharati; lead-
+ing scholar on Mahayana literature and author of publications on
+Tibetan and Chinese translations and commentaries.
+NIRMAL C. SINHA Director : Namgyal Institute of Tibetology ; formerly
+teacher of history, University of Calcutta and editor, National Archives
+of India.
+Views expressed in the Bulletin of Tibetology are those of the con-
+tributors alone and not of the Namgyal Institute of Tibetology. An article
+represents the private individual views of the author and does not reflect
+those of any office or institution with which the author may be associated.
+@005
+NAGARJUNA’S EXPOSITION OF TWELVE
+CAUSAL LINKS
+-N. AIYASWAMI SASTRI
+Introductory
+The Pratitya-Samutpada-Hrdaya-KarikA# pratItyasamutpAdahRdayakArikA
+##along with its comment is one of the several treatises composed by
+Acarya Nagarjuna, the founder of the Madhyamaka school of Buddhism.
+His authorship of this short tract has been attested more than once by
+Candrakirti (v.## prasannapadA, ##pp. 428, 551) and Prajnakaramati (v.
+Panjika, pp. 355, 350). Its composition in a catechetical from
+further confirms its antiquity. The text consists of originally 5
+verses in Arya metre and two Anustubh verses in its Chinese and
+Tibetan versions. Of his several metrical compositions we have only
+two texts in Arya metre, viz. the present text and the## vigrahavyAvartanI
+##The explanatory portion of this text is also fathered upon Nagarjuna
+by the Chinese and Tibetan translators. This fact does not appear
+improbable when we consider the statement made by Chandrakirti :##
+vigrahavyAvartanyA vRttiM kurvatA’pyAcAryeNa prayogavAkyAnabhidhAnAt | ##“Acarya
+(Nagarjuna) while composing a short comment on the## vigrahavyAvartanI ##does
+not employ any prayoga, a sentence embodying any logical proposition”##
+prasannapadA ##p. 251.6.). This confirms the fact the author could be credited
+also with some prose compositions. Of such compositions the Maha-pra
+jnaparamita-SastrA# mahAprajJApAramitAzAstra ##preserved in its Chinese
+translation ranks the foremost (v. Prof. Et. Lamotte’s French
+Translation with copious annotations; the first two volumes published
+so far). We may next notice a small tract both in verse and prose
+viz##., dvAdazamukhazAstra ##also preserved in Chinese translation (v. the present
+writer’s rendering it into Sanskrit in the Visvabharati Annals. Vol VI)
+claiming him as its author ; a claim which has fairly been justified by
+Chi-tsang (v. my Introductory Note, op. cit). The same Chinese authority
+attributes to Cheng-mU# piGgalAkSa ##the prose portion of the Madhyamaka
+Sastra. Thus the authorship of the commentary known as Akutobhaya
+as attributed to Naga by the Tibetan authorities becomes uncertain.
+Of his metrical compositions the most important is 1) the Madhyamaka
+Sastra; it has been meritoriously edited by Prof. Luis de Valle Poussin.
+2) The Vigrahavyayrtani with its comment has been discovered and
+published by Rahul Sankrityayana (Bihar Research Society, 1950).
+3) The Ratnavali and 4) the Catustava have been edited in part by Dr. G.
+Tucci. 5) The Yuktisastikarika, 6) Sunyata-Saptati and 7) Suhrlleka
+@006
+are not available to us in their original Sanskrit. Nos. 5 and 7 are
+translated by Schacffer and H. Wenzal respectively. (v. my Bibliogra-
+phy in the Sal. sutra). No. 6 is known only in quotations, V. Dvadasamu-
+kha, p. 24. a verse pleading for a fundamental tenet of the author,
+viz##. ajAtivAda ##non-origination-theory. Two verses are cited from
+the text in Bodhicarpan :-
+1.The ideas of “I” and “mine” are expressed by the Buddha for
+some purpose. Likewise skandhas, ayatanas and dhatus are all stated
+(p. 376).
+2. What comes into being due to causes does not exist p. 500; the
+same in Madh. vrtti. p.413.
+3. One more line from Yukti is found in Madh. vrtti. p.9 : What
+is produced on account of such and such causes originates not in its nature.
+This cited in full in the Madh.avat.p.288.
+To draw paralles to the ideas of Madh-Sastra Candrakirti cites
+more frequently verses from the Ratnavali (R. hereafter). Since they
+bear out true marks of Nagarjuna’s way of thinking we may acquaint
+ourselves with their gist on this occasion :
+1.To the idea of the Sutra : Those who view things as existent
+and those who do so as non-existent, both of them do not per-
+ceive the quietude## ziva ##of things-(M. Sastra V, 8) R. has :
+the heterodox reaches the hell and the orthodox the heaven;
+but the man situated in Non-dualism## advaya ##reaches Release,
+Moksa, because of his realizing the truth## yathAbhUta ##v. M.Vr. p. 135.
+2.The action and its agent are ridiculed in M. Sastra VIII, II; R.
+does the same in 3 verses : The world resembles a mirage; it is
+an illusion to consider it existent or non-existent and a man
+of illusion gets not released. Something is postulated as a
+result of ignorance; later, at a close scrutiny one cannot secure
+its existence; then how can there be its non-existence ? (p. 188).
+3.Non-dualism## advaya ##is possible only in Madhyamaka System
+(XV.II); R. confirms the same in 2 verses; Approach anyone
+of the Sankhya, Vaisesika, Nirgrantha, or the advocate of Pudgala
+or Skandhas, and see whether they say anything beyond the 
+existence or non-existence; therefore understand that the
+Buddha’s dispensation alone is too deep and goes beyond the
+existence or non-existence (p. 275).
+@007
+4.The negation of soul intended even in the empirical plan##
+samvRtyA ## in XVIII, 1. is echoed in R. 4 vv. One’s own image is
+reflected in the mirror, but the image cannot be stated to be
+either the same with or different from the face; likewise the
+notion of “I” arises on the basis of aggregates## skandha,
+##but it is not identical with the later. The reflection of one’s
+image does not arise in the absence of mirror; likewise the‘I’
+notion is not in the absence of the aggregates. Listening to this
+characteristic Dharma venerable Ananda obtained Dharma-
+Eye; this fact he himself declared to his fellow monks now and
+then (p. 345).
+5.Candrakirti says : In the wake of realizing the Soul-non-subs-
+tantiality## AtmanairAtmya ##non-substantiality of things pertaining to
+the soul## AtmIyanairAtmya ##is also realized. The same is confirmed
+in R.-2 vv. The aggregates are born from the I-notion## ahaMkAra
+##which is false in truth; one who thinks the seed as false, how could
+its sprout be true for him? In the wake of the aggregate being
+viewed as false the I-notion is extinguished ; at the extinction
+of I-notion the aggretgate arise no longer (p.346). They are
+cited again on page 458 to confirm the idea of auspicious or
+inauspicious is false as it is based on the false background## mithyAzraya
+6.The fact that Buddha preached neither Soul nor non-Soul (XVIII-
+6) is corroborated in R. 2 vv :- Neither soul nor non-soul is
+asserted in truth. The great sage shunned from us the two
+views caused by the soul and non-soul. He declared what is
+seen and what is heard are neither true nor false. If there is
+a thesis, then there will be an antithesis; so both are not admis-
+sible in fact (p. 359).
+7.Again 3 vv. from R. to show that the Buddha preached differently
+to different pupils. A grammarian would teach even the al-
+phabet; likewise the Buddha preached his pupils## (vineya)
+##dharma according to their capacities. He preached to some the
+law in order to deter them from wrong deeds, to some a dualis-
+tic law in order to increase merits, to some a deep non-dualis-
+tic law which intimidates the timid person, and to some the Bodhi-
+factor embodied in yiodness and compassion##, zun#nyatA karuNa-garbh
+(p.359-60)
+8.The object like the blue, etc##, (nIlAdi) ##are non-existent
+even in the empirical plane. The same is in R. : Ether is
+only a nominal because of its being devoid of colour##, rUpa ##In the
+absence of the great elements where is the colour##, rUp ? ##(p.413).##
+@008
+9.##Voidness##, zUnyatA, ##being grasped as either an entity or a non-
+entity destroys the aspirer. So also says R.-When the
+preacher ill-conceives the voidness, as a result of this,
+the listener, the ignorant, becomes spoilt and falls downward in
+the## avIci ##hell (p.496).
+10.As to Nagarjuna’s conception of Nirvana R. says-When Nirvana
+is not a non-entity, how can it be an entity ? What is Nirvana
+is an end of both entity and non-entity (p.524).
+Candrakirti has made only 4 citations from the Catustava :-
+1.The world resembles an echo, and is neither identified with
+nor different from its cause. You (Buddha) have compre-
+hended what is beyond continuity and discontinuity. (p.215,
+Catus.I. 13).
+2.Heretics consider the misery created either by self, other
+or both or causeless; but you have preached it as dependently
+originated (p.55-Catus.II, 19).
+3.You have stated : In case a definition is different from the
+defined, the latter would be devoid of the former; in case they
+are identical, they would become non-entity (p.64-C.II, 11)
+4. Things that are produced from the causes are non-existent as
+the latter itself is a non-entity. Is it not plain then that they
+are similar to reflections ? (p.413 = C.II, 4 Bodh.p.583).
+The Catustava is more favourite with Prajnakaramati who refers
+to it more frequently on the following subjects :-
+1.Teaching of voidness-nector is for removal of all wrong con-
+ceptions## saGkalpa ##pp.359-415 = C.II.21).
+2.Surpreme truth falls not within the cognizance of senses (p. 365 =
+C.III. 18).
+3. Voidness is nothing but dependent origination (p.417 = C.II.20).
+4. The action and its agent are (admissible) in the worldly talk ;
+there is neither agent nor enjoyer in truth. Merit and demerits
+are dependently produced , and hence unborn (p.476 = C.II.8-9)
+@009
+5.Buddha has no Sattva-idea (in himself) but has it towards the
+down-trodden due to compassion (p.489 = C.I.8)
+6. Things are desireless, non-substantial, dependently originated
+and void. (p.489 = C.II.22).
+7. Things are beginningless and endless; hence## AdizAnta ##calm from
+the outset (p.528 = C.III.27).
+8. Dependent origination## = zUnyatA = saddharma = tathAgata ##(p.528 = C.II.20,
+III.28)##.
+9. tattva = paramArtha = tathatA = bhUta; ##Buddha is because of realizing
+this (p. 528 = C.III.39).##
+10. Origination is similar to magic. The world is caused by a
+constructive thought## parikalpa; ##hence no beginning and no end.
+Neither permanent thing transmigrates nor impermanent thing.
+So transmigration resembles a dream (p.533 = C.II, 16-18).
+11. The world is born, stays and perishes : all these are mere
+imaginations (p. 573 = C.III, 34).
+12. The same as No. 4 of M. Vrtti above stated (p.583 = C.II.4).
+13. Things come into being neither as existent nor non-existent,
+and neither by themselves nor by others (p.587 = C.III.9).
+14. Buddha is## sattvadhAtu ##hence no difference between Him
+and others (p.590 = C.III, 40).
+There are some citations of unspecified source made under the
+heads of AcaryapadA# AcAryapAda ##resembling Nagarjuna's ideas :-
+1.Something being present some other thing is (conceived) to
+exist (as its relative) e.g. the idea of short and long. (M.Vrtti.p.10).
+2.Mirage appears like water; but it is not so in fact.
+Likewise five aggregates appear as the Soul ; but they are not
+so in truth (M.V.op.347, 3 verses).
+3.Release is (secured) because of voidness-vision## zUnyatA-
+dRSTi; ##for this purpose the contemplation of everything as void
+(Bodh.p.438).
+@010
+4.The whole theory of causation (operates) in the empirical
+plane (Bodh.p.475).
+THE PRESENT TEXT
+The ideas that are expounded in the above citations are all
+unique characteristics of Nagarjuna’s philosophy of thinking and they are
+quite in agreement with the ideas expressed in the short tract. Hence
+Nagarjuna’s authorship of this text cannot be doubted as it has been
+further attested by Candrakirti and Prajnakaramati. However, the two
+anustubh verses at the end of the text as well as the comment do not appear
+to be of Nagarjuna’s origin, and are quite affirmative in their contents.
+The first verse affirms that to negate an absolute subtle entity (i.e a
+nihilistic view) is to misapprehend the import of import Dependent Origina-
+tion-probably a Yogacara’s affirmation. I could not trace its original Sans-
+krit anywhere. The second instructs that the vision of things as they are##
+yathAbhUta-darzana ##leads to Release. It is Asvaghosa who propounded this
+idea as a part of his exposition of the Buddha’s teachings in his
+Saundarananda, XIII, 44, 51## :
+nApaneyamata: kiJcit prakSepyaM nApi kiJcana |
+draSTavyaM bhUtato bhUtaM yAdRzaJca yathA ca yat ||
+abhUtaparikalpena viSayasya hi vadhyate |
+tameva viSayaM pazyan bhUtata: parimucyate |
+##The ideas of these stanzas are made into one in the Ratnagotra-
+vibhaga thus## : nApaneyamata: kiJcidupaneyaM na kiJcana |
+draSTavyaM bhUtato bhUtaM bhUtadarzI vimucyate || ##I, 154, p.76.##
+##It is again cited in the## caryAgItikozaTIkA ##p.32 with this
+difference## prakSeptavyaM na kiJcana | ##as though it is from the Madh.
+Sastra. It is not, therefore, unlikely that the last two verses of the
+text were added by a later writer who was perhaps inclined towards
+the yogacara standpoint. The vision of## yathAbhUta ##as a factor of Release 
+is also acceptable to Nagarjuna (v.R. cited above No.1) though its
+import may be different for him.
+The purpose of this composition is, according to the intro-
+ductory remark made at the outset of the comment, to expound in brief
+the twelve causal links preached by the Master to an intelligent disciple
+who approaches Nagarjuna with a request to that effect. He asks :
+How are the twelve links grouped ? The author replies : They are
+grouped into three categories : 1) Defilement, 2) Action and 3) Suffering.
+@011
+The first-category consists of the causal links Nos. 1,8 and 9 = ignorance,
+thirst and clinging respectively. The second is formed of Nos. 2 and
+10 = formation and becoming; the other links are included in the third
+category. From the first category arises second and from the latter the
+third arises. The disciple asks : Who is the over lord above all and what
+is his function towards them ? The author replies : The Universe is and
+interplay of series of causes and effects and there is no overlord of any kind.
+Question : Who is then that travels from this world to the next one.
+Reply : There does not exist even a subtle particle that travels from this
+world to the next one. Nevertheless the void things are produced from
+the void things. From the five causes, i.e. defilement and action
+which are void, i.e. devoid of the soul and anything pertaining to the soul
+are produced seven results, i.e. Suffering that are void, etc. The follow-
+ing examples are cited to make the point clear : Mouth-to-Mouth
+preaching## svAdhyAya, ##lamp, seal, mirror, sound, sun-stone and seed,
+etc. It is argued that the if what is uttered by the teacher
+reaches the pupil, then the passage uttered by the teacher would be devoid
+of the latter. The passage uttered by the pupil does not come from any
+other source because the other source cannot be its cause. It could
+hardly be possible to determine whether the passage uttered by the pupil
+and the passage uttered by the teacher are identical or different. Like-
+wise the rebirth-mind of the future life is produced on the basis of the
+death-moment-mind and the former cannot be said to be either identical
+with or different from the latter.
+Other examples : light is produced from the other light; reflec-
+tion appears on the mirror from the face, an impression of the seal is
+brought out from the seal; the fire is kindled from the sun-stone;
+from the seed are produced sprout, fruit etc.; the sour fruit produces
+saliva in the mouth, and the sound produces an echo. All these effects 
+are neither identical with nor different from their causes.
+Likewise the wise should understand that there is continuity
+of five aggregates## pratisandhi; ##nevertheless there is no transmigration## 
+asaGkama. ##Though the five aggregates appear in continuity as a result
+of their mutual relationship, there does not exist even a subtle particle
+moving from this world to the next. This theory of## asaGkama
+##is common to all schools of Buddhism (v. my. Introduction XII, ff, to##
+bhAvasaGkAntisUtra) ##with the exception, perhaps of Sammitiyas.
+The author finally explains how one realises the ultimate release.
+He should not view pervertedly an impermanent thing as permanent,
+an upleasant thing as pleasant and a soulless thing as soul-endowed one.
+@012
+When he gets rid of such perverted views, he will have no more a desire
+for them. In the absence of desire no hate arises; in the absence of hate
+no action is undertaken; in the absence of action he does not cling to
+anything; in the absence of clinging he manifests no becoming and in the
+absence of becoming he does not suffer a rebirth. Thus a new fruit in the
+form of body and mind is stopped for ever; that is to be iunderstood as
+the ultimate release. The wise should, therefore, shun all the wrong
+views : Eternalism, Nilhilism and others.
+Thus, though the treatise is very short, the author has well
+elucidated in it the creed of the Buddhist doctrine under two heads :
+I) The universe is nothing but an interplay of causes and effects-
+a scientifically tenable approach; and there is no Super-human
+presiding over the destiny of mankind which is, on the other hand,
+governed by its own law of action. 2) Release##, mokSa, ##is a freedom
+from ever-rotating wheel of life and death and it is perhaps something
+like merging of individuality into an impersonal and undivided whole.
+We should not miss here to take note of the author’s eloquent exposi-
+tion of Nirvana in his SastrA# :
+ya AjavaMjavIbhAva upAdAya pratItya vA | so’pratItyAnupAdAya nirvANamupadizyate ||
+##XXV,9.
+(attributed to Tathagatas by Candrakirti) The Substance of the utterance
+may be this : Life and death of elements are conditioned or activated
+that is the world, samsara. The same elements become unconditioned
+or inactivated, i.e. brought to a dead stop## apravRttimAtram ##that is
+preached as Nirvana. It may be clear now that this conception
+of Nirvana does not in the least touch the fringe of Nihilism.
+The Arya verses of this text and its commentary upto 3rd verse
+are adopted from Dr.V.V. Gokhale’s paper published in Studia Indologica,
+1955, pp.10-106. Luis de Vallee Poussin first translated into French
+the text## kArikA ##in his Theories des Douze causes. p. 122-24.
+An English translation of the whole text from its Chinese version has
+also been published by me in 1940.
+The Tibetan texts that are published here are copied from
+Tanjur, Mdo, gi.f.206,4 ff, and collated with the same texts in Mdo.
+thsa, f. 166, ff. nothing their important differences in a separate page.##
+@013
+pratItyasamutpAdahRdayakArikA
+nAgArjunakRtA
+dvAdaza ye’GgavizeSA muninoddiSTA: pratItyasambhUtA: |
+te klezakarmadu:kheSu saGgRhItAstriSu yathAvat ||1||
+AdyASTamanavamA: syu: klezA: karma dvitIyadazamau ca |
+zeSA: sapta ca du:khaM lisaGgrahA dvAdaza tu dharmA: ||2||
+tribhyo bhavati dvandvaM dvandvAtprabhavanti sapta saptabhya: |
+traya udbhavanti bhUyastadeva [tu] bhramati bhavacakram ||3||
+hetuphalaJca [hi] sarvaM jagadanyo nAsti kazcidiha sattva: |
+zUnyebhya eva zUnyA dharmA: prabhavanti dharmebhya: ||4||
+svAdhyAyadIpamudrAdarpaNaghoSArkakAntabIjAmlai: |
+skandhapratisandhirasaGkarmazca vidvadbhiravadhAryau ||5|| 
+ya ucchedaM prakalpayatyatisUkSme’pi vastuni |
+pratItyasambhavasyArthamavijJa: sa na pazyati ||6||
+nApaneyamata: kiJcit prakSepyaM nApi kiJcana |
+draSTavyaM bhUtato bhUtaM bhUtadarzI vimucyate ||7||
+pratItyasamutpAdahRdayakArikA
+AcAryanAgArjunakRtA
+samAptA |
+@014
+pratItyasamutpAdahRdayavyAkhyAnam
+AcAryanAgArjunakRtama
+iha kazcit zuzrUSamANa: zramaNa: zravaNa(1)dhAraNohApohazaktisampanna: ziSya
+AcAryasya pAda [mUla] mAgamya tathAgatazAsanamArabhya evaM pRSTavAn-bhagavan atra
+dvAdaza ye’GgavizeSA muninoddiSTA: pratItyasambhUtA: |
+kva teSAM saGgraha(2) iti zrotumi(3)cchAmi | iti |
+tasya teSAM dharmANAM tattvavu(4)bhutsAmavetya AcArya idamuktavAn 
+te klezakarmadu:kheSu saGgRhItAstriSu [yathAvan] ||1||
+tatra daza ca dvau ca dvAdaza | aGgAnyeva vizeSA aGgavizeSA: | rathAGgavadaGgabhAva
+ukta: | kAyavAGgamanomau(5)nAnmuni: | tena muninoddiSTA: kathitA: parkAzitA iti paryAyA: |
+te ca na (6)prakRti-niyati-puruSa-parAdhIna-karma-Izvara-kAla-svabhAva-yathecchA-prajApati-
+yadRcchAdikAraNaprasUtA: | kiM tarhi pratItyasambhUtA: | te dvAdazAGgavizeSA: klezakarmadu:khA
+anyonyaM pratItya (7)naDakalApayogena triSu yathAvat saMkSiptA: | (8)yathAvaditi
+azeSeNetyartha: ||1||
+pRcchati | ke punaste klezA: | kiM karma | kiM du:kham yeSu ime pratyayavizeSA:
+saGgrahaM gacchanti | 
+Aha-
+AdyASTamanavamA: syu: klezA: |
+dvAdazAGgavizeSANAM [madhya] AdyA avidyA, aSTamI tRSNA, navamamupAdAnam
+ime traya: klezasaGgRhItA: pratyavagantavyA: | kiM karma |
+karma dvitIyadazamau ca |
+saMskAro dvitIya: bhavo dazama: | [imA] dvau dharmau karmas aGgRhAtau veditavyau |
+zeSA: sapta ca du:kham
+karmaklezasaGgRhItAnA [maGga] vizeSANAM ye zeSA [aGga] vizeSA: sapta ca
+te du:kha [saGgRhItA] veditavyA: | tadyathA vijJAnaM nAmarUpaM SaDAyatanaM sparzo
+@015
+vedanA jAtijarAmaraNam | ca zabda: priyaviyogApriyasaMyogeSTavi (9)ghAtadu:khAni
+saJcinoti |
+trisaGgraham# dvAdaza tu dharmA: ||2||
+ata ete dvAdaza dharmA: karmaklezadu:khA[khyA]veditavyA: | [anyUnA] dhika-
+jJApanA(10)rthastu zabda: | etAvanta eveme sUtrAntanirdiSTA nAta:paramastIti
+parigaNitam ||2||
+pRcchati | klezakarmadu:khAnA [meSAM] kuta: kimutpadyata iti vyAkhyAtuM prArthaye |
+Aha |
+tribhyA bhavati dvandvam 
+klezAkhyebhyastribhya: karmAkhyaM dvandvamutpadyate |
+dvandvAtprabhavanti sapta 
+du:khAkhyA: pUrvanirdiSTA: |
+saptabhya: |
+traya udbhavanti
+klezAkhyA: | tebhyastribhya: klezebhyazca dvandvamutpadyate |
+bhUyastadeva tu bhramati bhavacakram ||3||
+bhavA: kAmarUpArUpya[saMzabditA: | [te ca] ana(11) vasthAnAccakrabhUtA: | teSu pRthagjano
+loka eva paribhramati | tuzabdazca aniyatajJApanArtha: | yathA cakramanupUrvyA paribhramati |
+na tathA triSu bhaveSUtpatti: | [kiM tarhi] niyamo nAstIti jJApayati ||3||
+pRcchati | atha sarvadehezvara:(12) satvAkhya: (13)kartA | teSu tasya kriyA kIdRzI |
+Aha | hetuphalaJca hi jagat
+prajJaptiM vihAya anyo nAsti kazcidiha satva: |
+paramArthata: kalpita: | kalpitazca nAsti | kalpitamAtraviSaye (kAma)
+iSTadravyaM sat na yujyate |
+pRcchati | yadyenvam, tarhi asmAllokAt ka: paralokaM saGkrAmati| Aha |
+asmAllokAtparalokaM sUkSmo’Nurapi na saGkrAmati | atha ca
+@016
+zUnyebhya eva zUnyA dharmA: prabhavanti dharmebhya: ||4||
+AtmAtmIyarahitebhyo dharmebhya: klezakarmAkhyebhya: paJcahetubhya: zUnyebhya AtmA-
+tmIyarahitA du:khatayA kathitA: phalakalpitA: zUnyA: sapta dharmA: prabhavantItyartha: |
+tadyathA AtmAtmIyarahitAste nAnyonyaM punarAtmIyA: | atha ca svabhAvato’nAtma-
+dharmebhya: svabhAvato’nAtmadharmA: prabhavanti | evamavagatantavyamiti jJApitam ||4||
+atra svabhAvato’nAtmadharmebhya eva svabhAvato’nAtmadharmA: prabhavanti ityatra ko
+dRSTAnta: | atrocyate-
+svA(14)dhyAyadIpamudrAdarpaNaghoSArkakAntabIjAmla: |
+ebhyo dRSTAntebhya: kalpitebhyo’pi svabhAvato’nAtmanazca paralokasiddhivaditavyA |
+tadyathA-gurumukhAduccaritA yadi ziSyaM saGkrAmanti | guruNoccaritAstadvirAhatA
+api syuriti na saGkrAmanti | ziSyeNa proktamapi nAnyato’sti | ahetubhUtatvAt |
+yathA gurumukhAduccaritA: tathA maraNAMzikacittamapi | zAzvata [Akhya] doSa: syAt
+paraloke na saGkarma: | paraloko’pi nAnyato bhavati | ahetudoSasattvAt | yathA
+guruNoccAritaheto: ziSyeNo [ccArita:] sa eva anyo vA iti na nirNetuM zakyate |
+tathA maraNacittaM pratItya (15)aupapattyaMzikaM cittamapi tadeva tAto’nyadvA iti na
+vaktuM zakyate | tathA | yathA pradIpAtpradIpa:, mukhAt darpaNe pratibimbamutpadyate |
+mudrAta: pratimudrotpadyate | arkakAntAdagni: bIjAdaGgakuraphalAni(16)amlarasAt rasavatpuna:,
+zabdAtpratizrutkazcotpadyate | te ca ta eva vA tato’nye vA iti na jJAtuM
+zakyate | tathA 
+skandhaprati(17)sandhirasaGkarmazca vidvadbhiravadhAryau ||5||
+tatra paJcaskandhA rUpavedanAsaMjJAsaMskAravijJAnAkhyA: skandhA: | teSAM pratisandyi-
+rniSiddha: | hetorhi phalamanyadutpadyate |
+asmAt lokAtparalokaM na ko’pi bhAva: sUkSmo’pi saGkrAmati | eva cakrabhramaNaM
+bhrAntivikalpavAsanayA samutpadyate | anta iti tu viparyaya: | tato nivartayitavyam |
+anityadu:khazUnyAnAtmabhAvAn na nityabhAvAn vyAmuhyAt | asati vyAmohe
+na rAga: | asati rAge na dveSa: | asati dveSe na karmaM karoti | asati karmaNi
+nopAdIyate bhAva: | asatyupAdAne na bhavamabhisaMskaroti | asati bhave na jAti: |
+asatyAM jAtau na kAyacittayordu:khaM bhavet | evamacintyAt taddhetupaJcakAnnAnyatphala-
+mutpadyate | ayaM mokSo veditavya: | evaM zAzvatocchedAdidurdRSTayo’panItA bhavanti ||5||
+@017
+atra dvau zlokau bhavata:-
+ya(18) ucchedaM prakalpayatyatisUkSme’pi vastuni |
+pratItyasambhavasyArthamavijJa: san a pazyati ||6||
+nApaneyamata: kiJcitprakSepyaM nApi kiJcana |
+bhUtaJca bhUtato dRSTvA bhUtadarzI virmucyate ||7||
+AcAryanAgArjunakRtaM
+pratItyasamutpAdahRdaya-
+vyAkhyAnaM samAptam |
+@018 to @027
+[##Tibet Text##]
+@028
+##AN
+ART BOOK
+FROM
+NAMGYAL INSTITUTE OF TIBETOLOGY
+RGYAN-DRUG MCHOG-GNYIS (Six Ornaments and Two Excel-
+lents) reproduces ancient scrolls (1670 A.C.) depicting Buddha, Nagar-
+juna, Aryadeva, Asanga, Vasubandhu, Dinnaga, Dharmakirti, Gunapra-
+bha, and Sakyaprabha; reproductions are as per originals today after-
+300 years of display and worship with no attempt at restoration or
+retouching. The exposition in English presents the iconographical
+niceties and the theme of the paintings, namely, the Mahayana philoso-
+phy; the treatment is designed to meet also the needs of the general
+reader with an interest in Trans-Himalayan art or Mahayana. A glossary
+in Sanskrit-Tibetan, a key to place names and a note on source material
+are appended. Illustrated with five colour plates and thirteen mono-
+chromes. April 1962.
+@029
+THE SKYABS-MGON
+-NIRMAL C. SINHA
+I
+The incarnation of Bodhisattva Avalokitesvara is universally
+known as Dalai Lama.
+The title Dalai Lama (tale bla-ma) is of Mongol origin meaning
+“vast as the ocean”, The Manchu Emperor used this form; the Western
+envoys to the Manchu court got this usage from the Chinese while the
+Russians got this direct from the Mongols, Buriats and Kalmuks.
+In Tibet (and Tibetan speaking countries) the Dalai Lama 
+is variously called Gyalwa Rimpoche (rgyal-ba rin-poche, that is, jina-
+ratna or precious conqueror), Kundun (kun-hdus, that is, omnipresence),
+Gong-sa (one on the highest Bhumi, that is, sovereign), Kyamgon Rim-
+poche (skyabs-mgon rin-poche, that is, precious lord of refuge) or Kyam-
+gon Buk (skyabs-mgon sbug or inmost lord of refuge). The last, that is,
+Kyamgon appears to be the official designation or lawful title used in
+State-papers; other titles could be added in official correspondence etc.
+British official reports about Tibet during the rule of Dalai Lama
+XIII speak of two titles, Kyamgon and Gyalwa Rimpoche (1), Charles
+Bell in enumerating the titles(2) gave priority to “The Precious Protector”
+(Kyamgon Rimpoche). The English text of the first Tibetan memoran-
+dum to the Simla Conference (10 October 1913) described the Dalai
+Lama as Precious Protector or Protector (3) In the famous petition
+(1932) to the Dalai Lama XIII praying for his long life Tibetans addressed
+him as Kyamgon(4). The present Dalai Lama, that is. Dalai Lama
+XIV uses the title Kyamgon with prefix Gongsa in the Tibetan text of the
+Constitution promulgated on 10 March 1963(5).
+All dates are in Christian era.
+Diacritical marks are not used. Passages in Sanskrit and Tibetan
+appended in the Notes are in respective scripts.
+Pronunciation of Tibetan words as in Central dialect.
+@030
+The terms Lama (bla-ma Skt. guru), Chang-chub-sempa
+(byang-chub-sems-dpah Skt. bodhisattva). Chen-re-sik (spyan-ras-
+gzigs Skt. avalokitesvara) and Kyamgon (skyabs-mgon Skt. not known)
+are discussed in this paper, the second in the series ‘Prolegomena to Lama-
+ist Polity’. As in the previous paper the bearing of doctrinal terms on
+secular life is studied.
+II
+“Previous to the Lama even the name of the Buddha did not
+exist” (6).
+The spirit enshrined in this Tibetan adage was neither un-Buddhist
+nor un-Indian; though it might have been equally true of pre-Buddhist
+Tibetan norm (Bon : Shaman) in which the priest wielded considerable
+power.
+In India the veneration for the preceptor/teacher/master is
+traceable to the Vedic age; in early Vedic times the word Acharya was
+more popular while later the word Guru; the word Sasta was also current
+before the Buddha.
+The indispensability of teacher is admitted in the Upanishads.
+The etymological meaning of the term Upanishad is “sitting down near”,
+that is, sitting down near the teacher. There is an element of esoteric
+in the Upanishad as there is a process of dialectic therein. Both presume
+a teacher. This need is so obvious that there may be no need to use the
+word for teacher even. As in the most famous exhortation for “seeking
+the best teacher”, the actual expression is “seeking the best”,
+Katha I, 3:14. Mundaka I, 2:12 advises search for a Guru who is learned
+in the scriptures and has realized the Absolute. In Taittiriya, I, II:2
+the pupil on graduation is enjoined to be one to whom the
+Acharya is the Deva. The concluding verse of Svetasvatara declares
+that the highest mystery of the Vedanta reveals to the high souled seeker
+who has the highest devotion for the Deva and for his Guru as for Deva(7).
+Katha and Tattiriya are admittedly pre-Buddhistic. Mundaka is a post-
+Buddha work. The Svetasvatara, according to Nalinaksha Dutta, “is no
+doubt pre-Buddhistic and very likely formed the basis of the teach-
+ings of Alara Kalama and Rudraka Ramaputra, the spiritual teachers of
+Siddhartha Gautama”(8).
+Brihad-devata, a compendium of the deities and myths of the Rig
+Veda-composed acc. to Arthur Macdonell after 500 B. C. but in style
+and diction a Vedic workmanship acc. to the same authority-uses both
+the terms Acharya and Guru and sometimes synonymously(9). Guru is
+@031
+however an omnibus word connoting any superior while Acharya, unless
+repugnant to the context, is an intellectual superor like the teacher.
+It is not relevant to present here the fine distinctions or descriptive
+classfications of Smriti (like Manu) or Dharmasutra (like Apastamba or
+Gautama) (10). It is however necessary to notice the steady rise of the 
+priest (Purohita : Brahmana) as a superior (Guru) from early Vedic times.
+The Purohita was the indispensable authority at the consecration of the
+king. Horizontal crystallization of society into Varna with Brahmana
+on the top set the protocol between the priest and the king. Even
+though the colourful picture of the sacerdotal authority electing the
+temporal power as drawn by Jayaswal and Coomaraswamy cannot be so
+faithful to facts (11), the legend of Brahmana as the source of Kshatra was
+the reflex of social consensus. While the Brihadaranyaka description
+of the Brahmana as “the womb out of which the Kshatra issued” (12) was
+no doubt metaphorical, the Purohita of the Vedic consecration was the
+matrix for the Rajaguru in medieval Hindu Rashtra.
+Be it for intellectual or spiritual objective the first stage in stri-
+ving was to attach oneself to a teacher. It is significant that after renun-
+citation Prince Siddhartha did not immediately make for a retreat in the
+mountains or forests; he sought teachers and became disciple of Alara
+Kalama and Rudraka Ramaputra successively. He no doubt rejected
+their doctrines (13) and through different disciplines and processes forged
+his own way to Enlightenment. As at the beginning of his quest the Buddha
+sought teachers so at its end he sought disciples and, before he began his
+missionary life, converted his quondam associates, the five Brahmana
+ascetics. “There was no Acharya equal to him” (14) and for nearly half
+a century he was “the Sasta of all mortals and gods” (15). Sasta like Guru
+is an omnibus word and would mean ruler (sasana karta/raja) and parent
+(pita) as well as a teacher versed in the Sastras. Sasta became the epi-
+thet of Buddha in chaste expression. Later, when the Guru (preceptor/
+teacher) was equated to the Buddha, Guru was a good synonym
+for Buddha.
+In the beginning Bhagavan was the most popular form of addressing
+the Buddha; Sasta, that is, Guru had an intellectual or academic tone.
+With the growth of Tantra, grew the cult of spiritual preceptor and
+Sasta or Guru became a popular from for describing the Buddha,
+the original preceptor. It is not necessary for the present context
+to trace the beginnings of Tantra and digress into the several theories
+which profess to cancel each other. It is sufficient to note that in one
+form or other Tantra was known to the Indus Civilization (c.3500-
+1500 B.C.) as also to the Vedic Civilization (-1500 B.C.-). Tantra
+was thus in existence in the Buddha’s time; it is not known in what
+form and to what degree the Buddha accepted it.
+@032
+When Buddhism was split into two Vehicles (say in the first
+century after Christ), Mahayana had fully accepted Tantra. Nagarjuna,
+the discoverer of Prajnaparamitra, furnished a new philosophy for Tantra
+by the doctrine of Sunyata; the corpus of legends about Nagarjuna’s
+alchemy and magic cropped up later when the cult of Guru was in full
+swing. The second great figure, Asanga (c.350), was the founder of
+Yoga school in Buddhism. Curiously enough Tantra and Guru-cult
+characterized contemporary Brahmanical religion. There is positive
+epigraphic evidence on Saivite hagiolatry. The Mathura Inscription
+(c. 380) speaks of adoration of Guru, lineage of Guru and even the gallery
+of Guru images(16). The Devi Bhagavata-though its extant texts
+were composed much later-expresses the sentiments of the age of
+saint Asanga and scholar Amarasinha as if to corroborate the data from the
+Mathura Inscription. It says “The Guru is Brahma, the Guru is Vishnu
+and the Guru is Mahesvara. Salutation to the Guru who is the real
+Absolute”(17).
+The period which witnessed the spread of Buddhism in Tibet
+(c.600-1100) was roughly the period when Tantra was the dominant
+cult in India. There was regular flow of the fresh developments from 
+India into Tibet. In such process the quest for the right teacher was
+natural. Buddhist treatises on Tantra gave full sanction to such.
+Extracts may be made from three works of the eight century :
+Advayasiddhi, Jnanasiddhi and Prajnapayavinischayasiddhi.
+“In this world and other worlds there is none better than a
+Guru through whose kind offices the wise obtain so many perfections”.
+“The Guru is Sugata, Buddha and Dharmakaya”.
+“The Guru with requisite qualifications is nothing short of a
+ruler or a leader of the country” (18).
+Buddhism in Tibet begins its victorious career with Padmasam-
+bhava (c.750-800) and significantly in Tibet he is known as Guru Ratna
+or Mahaguru. Padmasambhava and Santa-rakshita ordained the first
+‘Lamas’. The Tibetan word Lama corresponded to the Sanskrit word
+Guru and as the term Guru was not to be indiscriminately applied so the
+term Lama has been through centuries used in respect of a few categories
+of monks and priests and even lay scholars.
+Tibetan canonical literature based on Indian sources as well as
+the tracts and treatises composed by Tibetan scholars and priests bear
+testimony to the paramount position of the Lama. The tract on the
+A wakening of Supreme Bliss (bde-mchog-byungba) says “The Lama is
+the Buddha, the Lama is the Dharma and likewise the Lama is the Sangha”
+@033
+(19). To Nagarjuna is attributed this formula : “Abandon offerings to
+all others and make your sole offerings to the Lama. When the Lama is
+pleased you attain the wisdom of the omniscient” (20). Milarepa (1040-
+1123) begins a song on old age and death thus : “I bow at the feet of
+the teacher, the Buddha of the three times” (21). An ancient Tibetan
+proverb affirms that without the auspices of the Lama even the blessings
+of the Buddha do not operate(22). Sakya Lama Drags-pa-gyal-mtshan
+(1147-1216) enjoined that the first salutation should be to the feet of
+the Lama (23).
+Tibetan liturgy and iconography fully reflect the paramount
+position of the Lama. In the temples and monasteries from the Himalayas
+to the Altais, the image of the founder or early preceptor of the sect
+(Guru Rimpoche, Jo Atisa, Milarepa, Sakya Pandita or Tsong-khapa)
+is conspicuous. Even the most illiterate devotee knows that this
+practice does not suggest any slight for the Buddha because the Guru is
+nearer than the Buddha. Beside the more literate is conscious that
+there is no distinction between a Buddha and a Buddha. The Yellow
+Sect (dge-lugs-pa) portrayal of the Buddha-field with Tsong-khapa
+(1357-1419) in the centre and Siddhartha Gautama among the surroun-
+ding host of all Buddhas and Bodhisattvas has sanctity in this sentiment.
+Tsong-khapa himself had enjoined (24) :
+whether for this life or the next
+one must follow the noble friend (Lama).
+Tsong-khapa’s disciples evinced ability to administer the temporal
+needs of those who sought refuge in the Lama. This role was in accord
+with the ideology of Byang-chub-sems-dpah (Bodhisattva).
+III
+“A hero with Bodhi-chitta takes upon himself the burden
+of others” (25).
+A Bodhisattva thus features in Tibetan imagery.
+It is neither possible nor necessary to attempt an adequate
+exposition of the doctrine of Bodhisattva within the limits of this
+enquiry into political theories and institutions. The stages in the his-
+tory of the Bodhisattva concept-from the Bodhisattva (singular) of the
+Jataka to the Bodhisattva (collective) on the eve of Mahayana’s migra-
+tion to Tibet-with its ever expanding contents and facets belong to the
+field of religion and philosophy (26). Facts precisely necessary for an
+understanding of Bodhisattva as an institution in the Samsara are culled
+here from the Indian context. Etymologically a Bodhisattva is an
+@034
+Enlightenment-Being, as Gautama himself was in his numerous previous
+lives (Jataka aspiring for Bodhi). In Mahayana a Bodhisattva could be
+either celestial or terrestrial and in each category there could be many
+as in a way all the Bodhisattvas in different categories and grades were
+phantom or apparitional bodhies(Nirmanakaya) of the Absolute (Paramar-
+tha or Bodhi).
+The concept of Nirmanakaya, the Mahayana thinkers affirmed, was as
+old as Gautama Buddha and modern scholars do not reject this belief (27).
+Gopinath Kaviraj savant and seer, traces the concept to a period anterior
+to Gautama Buddha; he notices the usage Nirmanachitta by the founder
+of Samkhya (i.e. Kapila who must have been a few generations earlier
+than Alara Kalama) and would find the beginnings of the doctrine of
+‘magical self-multiplicative power of the Supreme’ in the Rig Veda (28).
+The Saddharma-pundarika (composed in the first century B.C.
+and elaborated in the third & fourth centuries A.C.), one of the nine
+basic books of Mahayana and “the crown jewel of all Sutras”, present (29)
+a glorious pageant of the Bodhisattvas : their might and majesty and their
+wisdom and compassion. If the book suffers from an ubiquity of
+Bodhisattvas it does not manipulate barriers between terrestrials and
+celestials. In fact the total effect of the pageant is to awaken faith
+in the terrestrial Bodhisattvas. The terrestrial Bodhisattva was imma-
+nent with the community of believers while the celestial was trans-
+cendental.
+The Prajnaparamita (Transcendental Wisdom) in its earliest
+stage was a highly intellectual recipe for nihilism and quite beyond the
+grasp of the ordinary mind(30). In their endeavour to transform the
+doctrine for the highbrows and intellectuals into a religion for the masses,
+the master-thinkers (Acharyas) of Mahayana shifted the emphasis from
+Prajna (Wisdom) to Sraddha (Faith). Likewise the accent was shifted
+from the spiritual Conqueror (Jina) to the material Saviour (Bodhisattva).
+It was more desireable to awaken faith in a Bodhisattva (Manjusri, Avalo-
+kitesvara or Samantabhadra) than to meditate on an ethereal/hypothetic
+Kula (Akshobhya, Amitabha or Vairochana). And between the two
+Bodhisattvas (celestial and terrestrial) the one near at hand would be
+naturally more prized.
+The Manushi Bodhisattva was in fact “the ideal Man of the Maha-
+yana” as Edward Conze describes him (31). He could be householder or
+recluse; he could be reborn as a wealthy man or king. Obviously as a
+Nirmanakaya he could take any shape because his duties and functions
+would determine the choice. For preaching the Dharma the Bodhisattva
+would be a recluse or monk(32). The Sangha would therefore be better
+@035
+described as the Gana of Bodhisattvas; an usage traceable in the Saddhar-
+mapundarika(33).
+The altruism of Bodhisattva found its classic exposition in
+Bodhicharyavatara of Santideva (8th century).–A Bodhisattva feels the
+joys and sorrows of others as his own; he loves and guards others as he
+loves and guards himself; he identifies with the poor and the lowly.
+A Bodhisattva’s resolve is of great use in the Samsara or material
+world (34).
+The Bodhisattvabhumi (Asanga : c. 350) enumerates the acts
+of common welfare expected of a Bodhisattva; these include supply of
+material needs of life and provision of refuge. The grant of refuge is
+further emphasized as one of the five constant duties of a Bodhisattva (35).
+Santideva’s Siksha-Samuchchaya quotes the Gandvyuha Sutra to say that
+the resolve of the Bodhisattva is the foundation of all material and moral
+good, the annihilator of all poverty and the refuge of all beings (36).
+Thus for the ordinary man, with ordinary intelligence and
+ordinary resources, the Bodhisattva could be the patron saint for their
+material welfare as well. In Tibet “the ideal Man of the Mahayana”
+became the national ideal. Santarakshita, the joint founder of the 
+first monastery (Samye), is immortalized under the epithet “Bodhisattva
+as scholar”. The kings propagating the Dharma were recongnized as
+Bodhisattva as well as Nirmanakaya. The element of hero in a Bodhisat-
+tva was emphasized in translating the term from Sanskrit into Tibetan;
+the suffix ‘dpah’ (i.e. ‘daph-bo’ or hero) was added after ‘byang-chub-
+sems’ instead of a simple ‘pa’ as adjectival termination (37). One might
+be a great man otherwise but his popularity would be assured only if
+he was called a Byang-chub-sems-dpah. A Guru (Lama) could be one
+par excellence if he was known to be a Bodhisattva (Byang-chub-sems-
+dpah). Down to our times a popular honorific for Byang-chub-sems-
+dpah, in Central Tibet at least, is Sprul-sku (Nirmanakaya). This has
+been so for the simple reason that a Sprul-sku of a celestial or terrestrial
+Being was by and large “the ideal Man of the Mahayana”, the Saviour
+for this world and/ or the other world. The Lama as the custodian
+of the script, the organizer of schools, the master of occult and the
+adviser of the king could no doubt be the Bodhisattva for the entire
+community in times of distress. Besides the layman could
+come very near ‘the house of Lamas’ (bla-brang) as much because of the
+socio-economic climate of Tibet(38) as for the needs of firm propagation;
+there was no distance between the monks and common men as was in
+India or in a Theravada country to-day. Thus in times of distress refuge
+in the Bodhisattva-gana, the Blamahi-brang, was in the logic of history.
+@036
+IV
+May Lokesvara protect you as he sits,
+surrounded by his mass of rays,
+on Mount Potalaka, which echoes
+with the roar of its deep caves;
+who thus is like the moon within the mass of waves
+churned in the Sea of Milk by the mountain Mandara,
+whirling with heavy roar
+and unwavering because of its great speed
+Jnanasrimitra(39)
+This verse composed in Bengal around 1050 could have been a
+typical reflex of Tibetan mind in 1650 when the Great Fifth incarnation
+of Avalokitesvara (spyan-ras-gzigs) “looked down from on high” the
+soaring palace-temple on Marpo Ri (Red Hill) which he called Potala.
+In the Mahayana pantheon as fully developed in India and followed
+later in Tibet and Mongolia, also China and Japan, Avalokitesvara is the
+protector and savior of all living beings : the lord and sovereign of this
+suffering world. Yet his origin is obscure; Har Dayal and Edward Conze
+find Magi and Mithra elements in the conception (40). However the
+basic Mahayana Sutra, the Saddharmapundarika, in the concluding chap-
+ters, depict Avalokitesvara in no uncertain light. He is decidedly a
+prominent Bodhisattva though he has to share this prominence with
+Manjusri. A full chapter (XXIV) is devoted to Avalokitesvara and his
+powers and capabilities. Faced with any mortal danger-fire or water,
+monster or demon, fall from precipice or hit with thunderbolt,
+host of armed enemies or swords of executioners, witchcraft or fell
+disease-the afflicted on mere invocation will be rescued by Avalokites-
+vara. Positive boon like a child to childless can likewise be obtained from
+Avalokitesvara. He can infallibly eradicate all mundane sufferings (41).
+His compassion is not a passive virtue or static quality; his is an
+active personality, full of dynamism; he is “unwavering because of great
+speed” to use the words of Jnanasrimitra. To the afflicted mortals he
+is the jewel of the Bodhisattvas : he is the Sangha (Bodhisattva-Gana)
+Ratna.
+In the early Mahayana eight Bodhisattvas are prominent viz. Manjusri,
+Vajrapani, Avalokitesvara, Kshitigarbha, Sarvanivaranavishkambhin, Aka-
+sagarbha, Maitreya and Samantabhadra. These are “a group of equal rank.
+Perhaps Manjusri is regarded as primus inter pares. In the later Mahayana
+the oligarchy is changed into an absolute monarchy. Avalokitesvara is
+@037
+first and the rest nowhere. He absorbs all the virtues, powers, functions
+and prerogatives of the other Bodhisattvas, because he is the Lord of
+Mercy. He occupies the supreme position in the Universe and reigns
+without a rival”. Har Dayal (42).
+The grandeur of Avalokitesvara is depicted in Avalokitesvara-
+gunakarnada-vyuha (abbr. Karandavyuha) : the detailed description of the
+basket of the qualities of Avalokitesvara. Its first composition dates con-
+siderably earlier than the fourth century while the complete extant text
+(43) perhaps belongs to the seventh century. Its scheme is the glorifica-
+tion of the compassionate and mighty redeemer Avalokitesvara and is
+punctuated with his many exploits of rescue. The historic value of the
+Karandavyuha however lies in the exposition of the Six Mystic Syllables:
+OM MANI PADME HUM which Avalokitesvara the creater of the world
+donated to the world(44).
+In Tibet (and other Lamaist countries) OM MANI PADME 
+HUM symbolizes the Dharma and even the formula about the origin of
+all objects, YE DHARMA HETU PRABHAVA, takes a second place. In
+Tibetan legend Avalokitesvara in his compassion took the shape of a
+monkey and begot the Tibetan race. (i.e. mankind). The ubiquitous
+notice of the Six Mystic Syllables-on rocks and boulders, stupas and
+temples, prayer wheels and altars-is, in the present writer’s observation,
+a thanksgiving for the precious gift of human life, an opportunity for
+working towards Buddhahood. Besides the legend is a reminder to
+modern science that a millennium before Charles Darwin, the Tibetan
+intuition grappled with the doctrines of ‘natural selection’ and ‘survival
+of the fittest’.
+As the begetter of the Tibetan race Spyan-ras-gzigs was naturally
+thought of as its protecting deity. The first great king Srong-btsan-
+sgampo (c.605-650) was recognized as the Sprul-sku (Nirmanakaya)
+of the Father of the People while his scholar-minister Thonmi Sambhota
+was found to be Hjam-dpal (Manjusri). Only two of the great king’s
+successors were found to be Sprul-sku of the same. The incarnation
+of Spyan-ras-gzigs, the topmost of ninety one Byang-chub-sem-dpah,
+could not be a routine affair and his mortal forms were few and far bet-
+ween. The tradition about Spyan-ras-gzigs however grew from stren-
+gth to strength.
+In their adoration for the Founder and Protector, the Tibetans
+moved towards the summit of monotheism (and not mere henotheism
+with myriads of Buddhas, Bodhisattvas, Dharmapalas etc) when they
+described Spyan-ras-gzigs as the Sole God of the Land of Snow (45).
+Indian reformer Atisa and his Tibetan disciple Hbrom-ston (1003-1064)
+reckoned with this spirit and enumerated the four Mgon-skyabs (Lords of
+@038
+Refuge) thus : Gautama Buddha, merciful Avalokitesvara, goddess Tara
+and guardian of faith Achala (46).
+The three royal patrons of Dharma-Srong-btsan-sgam-po,
+Khri-srong-lde-btsan and Ral-pa-chen-were incarnations of Sypan-ras-
+gzigs and the next was Hbrom-ston himself. The traditions, recorded in 
+successive centuries, agree on these four names. The next name unani-
+mously agreed in different traditions is that of Sa-chen Kungah-snyngpo
+(1092-1158). There was no attempt in any particular lineage (monar-
+chical or monastic) to have the incarnation to themselves (47). The
+followers of Tsong-khapa (1357-1419) made the bold bid and got
+approval of all Tibetans to fourteen successive Sprul-skus of the Sole God
+of Tibet : Dge-hdun-grub (1391-1475) to Bstan-hzin Rgya-mtsho (b. 1935).
+V
+“Lord, Thou art the most excellent Refuge to go for”
+Dam-chos-padma-dkar-po
+When the hierarch of the Yellow Sect was accepted by people
+of all Sects as the incarnation of the Sole God of Tibet, the hierarch’s
+title to the sole kingship or monistic sovereignty was a foregone conclu-
+sion, particularly because the other Sects did not accept the reforms in-
+traduced by Tsong-kha-pa and his two disciples. Loyalty to the Dalai
+Lama(48) was in expectation to the topmost Bodhisattva who could
+protect against sufferings of this world and in gratitude to the Father of
+of the People; this would not demand surrender of doctrinal sentiments.
+The two greats, Fifth and Thirteenth Dalai Lamas, far from supporting
+the Yellow Sect bigotry (which included suppression and forcible con-
+version of Old Sect monasteries), tolerated the Old Sect teachings and
+even drew upon these teachings(49). Thus for other Sects the Sole God
+was above the Established Church. The Dalai Lama was the silken tie
+which held together the different Sects and the dispersed areas.The
+plenitude potestatis of the Dalai Lama rested on the popular obedience
+while the potestas limitata of the Heavenly Kingdom (Dgah-Idan-pho-
+brang) originated in the Established Church(50).
+Each of the roles BLA-MA,BYANG-CHUB-SEMS-DPAH and
+SPYAN-RAS-GZIGS had sanction for exercise of temporal authority
+and the three roles combined in the hierarch of Yellow Sect could
+render him the Rex in Western expression. But the monks of Ganden,
+Drespung and Sera had the genius to seek the raison d’etre of political
+power in the fundamentals of the Dharma. They traced this back to
+the earliest teachings known and accepted over the entire Buddhist
+world in both Vehicles. They designated their hierarch as SKYABS-
+@039
+MGON. From the very beginning the grant of Skyabs (Skt. Sarana)
+has been the right as well as the obligation of Mgon (Skt. Natha). As
+the Tibetan rendering of the Saddharmapundarika quotes a devotee add-
+ressing the Buddha: “Mgon-po, Thou art the most excellent Skyabs” (51).
+The Buddha had offered, as the Sakya Lama (Chos-rgyal-hphags-pa 1235-
+1280) put it, “Skyabs to one who has no Mgon” (52). Through parables
+and prophecies the Buddha had promised appearance at the end of the
+world or in time of distress(53), not unlike that in the in the Bhagavadgita(54).
+When Righteousness
+Declines, O Bharata ! When Wickedness
+Is strong, I rise, from age to age, and take
+Visible shape, and move a man with men,
+Succouring the good, thrusting the evil back,
+And setting Virtue on her seat again.
+(Edwin Arnold’s tran. in verse)
+Such appearance (Nirmanakaya or Sprul-sku) was never so badly needed
+as in times of anarchy.
+The kingdom built by Srong-btsan-sgam-po (c.605-650)came
+to an end with the assassination of the apostate Glang-darma (c.842).
+A process of slow but steady disintegration set in. There was no cen-
+tral power and the rise and fall of numerous principalities did not make
+for peace and security for the people. The native chronicles are as con-
+fused as the events for three centuries and a half (c.850-1200). Two
+facts stand out clearly. First, after a period of stagnation the Dharma
+made a full resurgence, a renascence, with Atisa’s propagation (1042-
+1054). Second, both for their own protection as well as for that of
+their ‘parish’ the abbots of different sects began building monasteries; two
+sects, Kargyu and Sakya, did well. In grandeur and authority they soon
+superseded and replaced the castles of the pastoral and nomadic lords.
+People oppressed by the decadent aristocrats or the rising brigands came 
+for refuge to their respective monasteries and the abbots did not disa-
+point them.
+The rule of the Sakya Lamas or that of the Kargyu Lamas (and
+Phag-mo-gru-pas) needs no narration here (55). The Lama rulers of the
+thirteenth century and following saved Tibet from Mongol atrocities
+while all countries and peoples from Sarai (Volgograd) to Khanbalyk
+(Peking) had experienced these. Be it their mastery of occult or the
+impact of their Dharma on the eclectic Mongol mind, the saviours had
+proved their statesmanship; the Bodhisattva as statesman became the
+the Rajaguru (Tisri or Bakshi) of the most warlike dynasty on record in
+Asia and Europe. The Sword of Transcendental Knowledge-the Sakya
+Lamas were in the lineage of Manjusri-brought down the Sword of
+@040
+naked power. The Adamantine Thunderbolt-the Kargyu Lamas were in
+the lineage of Vajradhara-calmed down the thunder from Altai-Kara-
+korum. The Lamas not only saved Tibet from invasions; they made Tibet
+a first-class power of the day.
+The titles of these Lamas, who organized full refuge from
+internal disorder and external aggression, are of direct interest in the
+the present discussion. A Lama ruler would ipso-facto be Chos-rgyal
+(Dharmaraja) and was so in fact and form. To the devotees in general
+a Lama ruler was Mgon-skyabs (Lord of Refuge) in both temporal and
+spiritual sense. These Lamas themselves did not use the epithet Mgon-
+skyabs or Skyabs-mgon for reasons not clear today. In oral tradition
+down to our day the devotees are known to have called them so. In
+correspondence addressed to the Sakya hierarch down to our day the
+title Skyabs-mgon has been customary (56).
+Thus when the Yellow Sect rose into political ascendancy, from
+the Third Incarnation Bsonam Rgya-mtsho onwards, Skyabs-mgon was in
+current usage. If the Great Fifth made official use of the title, it was only
+appropriate for Spyan-ras-gzig: the Sole God and Protector of Tibet. The
+Dalai Lama was indeed the Skyabs-mgon par excellence (57).
+@041
+NOTES
+0.It is necessary to mention several theories and controveries
+if only to affirm that these theories do not affect the historicity or
+sequence of the events as narrated in this paper.
+The various dates for Saddharmapundarika (chs I-XX) are first
+century B.C., first century A.C. and second century A.C. The later
+chapters (XXI-XXVII) are dated fourth century to sixth century.
+Karandavyuha was composed between fourth and seventh
+centuries.
+Nagarjuna’s dates range from 58 B.C. to 150 A.C. Asanga is
+dated between 350 and 450 A.C.; definitely after Nagarjuna as in Tibetan
+tradition also.
+Thomi Sambhota was not the first to introduce Indic script into
+Tibet. It is even suggested (Roy Andrew Miller) that Thomi is a fic-
+titious figure. (Fact remains that adaptation of Indic script was fina-
+lized in the seventh century and if Srong-btsan-sgam-po had a scholarly
+minister the latter was apotheosized as Manjusri).
+No epigraphic or contemporary evidence is available so far to
+vouch for the usage Lama (bla-ma) in the seventh century and even in the
+eighth. In the beginning the word used was Ban-de, Slob-dpon, Rab-
+byung or Mkhan-po. (The terminology does not affect the role and
+status of Guru).
+The treatises Mani-bkah-hbum (attributed to seventh century)
+and Padma-bkah-thang (attributed to eighth century) were padded with
+later events, prophesies etc. till the seventeenth century. (This paper
+sums up the position till 1650.)
+Likewise Bkah-gdams-pha-chos and Bkah-gdams-bu-chos attributed
+to Atisa and his disciples were enlarged through centuries. (Narrative
+in this paper guards against anachronism.)
+Giuseppe Tucci: Tibetan Painted Scrolls (Rome 1949) discusses
+the traditions of Tibetan literature.
+1.Military Report on Tibet (Calcutta 1910) lists (p.115) the titles
+thus: Kyamgon Rimpoche, Gyalwa Rimpoche, Buk Lama and Kyam-
+gon Buk. Who’s who in Tibet (Calcutta 1938) lists (p.1) thus: Gyawa
+@042
+Rimpoche, Kyamgon Rimpoche or Kundun. My own impression is
+that during the Regency, when there was no Dalai Lama functioning,
+the title Gya(l)wa Rimpoche was in greater use. Libing Athing Sonam
+Tobden confirms this.
+2.Charles Bell: Portrait of the Dalai Lama (London 1946), p.34. 
+3.Reproduced in The Boundary Question between China and Tibet
+(Peking 1940), pp.1-4.
+4.English translation of the petition and the Dalai Lama’s replywill be found in Bell: op.cit pp 377-382##.
+will be found in Bell: op.cit pp 377-382.
+##No.5 & 6 Tibet Text##
+7. uttiSThata jAgrata prApya varAnnibodhata |
+kSurasya dhArA nizitA duratyayA durgaM pathastatkavayo vadanti ||
+kaTha 1, 3: 14
+parIkSya lokAn karmacitAn brAhmaNo nirvedamAyAnnAstyakRta: kRtena |
+tadvijJAnArthaM sa gurumevAbhigacchet samitpANi: zrotriyaM brahmaniSTham ||
+muNDaka 1, 2 12:
+mAtRdevo bhava, pitRdevo bhava, AcAryadevo bhava, atithidevo bhava, yAni anavadyAni
+karmANi tAni sevitavyAni, no itarANi, yAni asmAkaM sucaritAni tAni tvayopAsyAni,
+no itarANi ||
+taittirIya 1,11:2
+yasya deve parA bhaktiryathA deve tathA gurau |
+tasyaite kathitA hyarthA:, parkAzante mahAtmana:, parkAzante mahAtmana: ||
+zveMtAzvatara 6, 23
+8. ##Nalinaksha Dutt : Early Monastic Buddhism (Calcutta 1960),
+p.24.
+9. Arthur Macdonell’s edition (Harvard Oriental Series)-
+Acharya ii, 132, 136 & 143; iv, 138; v, 39; vi, 9; & vii, 90. Guru
+iii, 142; iv, 60;, v, 103 & 139; & vi, 35.
+10. For Acharya/Upadhaya/Guru (different persons) Kane : History
+of Dharmasastra ##(Poona 1930-62), Vol II: Pt 1, pp. 322-4 and Vol IV,
+p.24 may be seen.##
+@043
+Sabdakalpadruma (Radhakanta Deva) quotes Kurnma PuranA#-
+guruvargo yathA, -
+upAdhyAya: pitA jyeSThebhrAtA caiva mahIpati: |
+mAtula: zvazurastrAtA mAtAmahapitAmahau ||
+bandhujyaSTha: pitRvyazca puMsyete gurava: smRtA: |
+mAtAmahI mAtulAnI tathA mAtuzca sodarA: ||
+zvazrU: pitAmahI jyeSThA dhAtrI ca gurava: strISu |
+ityukto guruvargo’yaM mAtRta: pitRta: dvijA: ||
+gurUNAJcaiva sarveSAM pUjyA: paJca vizeSata: |
+teSAmAdyAstraya: zreSThAsteSAM mAtA supUjitA ||
+yo bhAvayati yA sUte yena vidyopadizyate |
+jyeSThabhrAtA ca bharttA ca paJcaite gurava: smRtA: ||
+nAsti pitRsamo devo nAsti mAtRsamo guru: |
+tayo: pratyupakAro’pi na kathaJcana vidyate |
+mAlulAMzca pitRvyAMzca zvazurAnRtvijo gurUn ||
+asAvahamiti vruyu pratyutthAya yavIyasa: |
+kUrmmapurANe upavibhAge 11 adhyAya: ||
+11. ##K.P. Jayaswal : Hindi Polity (Calcutta 1924 – Bangalore 1943)
+and A.K. Coomaraswamy : Spiritual Authority and Temporal Power in the
+Indian Theory of Government (New Haven 1942). For an objective view
+see U.N.Ghoshal: Studies in Indian History and Culture (Calcutta 1965)
+pp 211-236. A description of the ritual is in J.C. Heesterman : The
+Ancient Indian Royal Consecration (The Hague : 1957)##.
+12. brahma vA idamagra AsIdekameva tadekaM sanna vyabhavat | tacchreyorUpamatyasRjata
+kSatraM yAnyetAni devatrA kSatrANIndro varuNa: somo rudra: paryanyo yamo mRtyurIzAna
+iti | tasmAt kSatrAtparaM nAsti tasmAdbrAhmaNa: kSatriyamadhastAdupAste rAjasUye kSatra eva
+tadyazo dadhAti saiSA kSatrasya yoniryadbrahma ||
+bRhadAraNyaka 1, 4: 11
+##Political ascendancy of the priestly houses can be noticed in Vedic
+society. Arthur Berriedale Keith: The Religion and Philosophy of the
+Veda and Upanishads (Harvard Oriental Series), pp 223-230 & 289-99.
+Aslo Macdonell : Vedic Index, entry on Purohita.
+13. For the disciplines Gautama learned from Alara Kalama and
+Rudraka Ramaputra see Dutt: Early Monastic Buddhism, p.88. Radha-
+Krishnan sums up the situation thus: “He possibly learned from them
+the need for belief, good conduct, and the practice of meditation, though
+the content of their teaching seemed to him unsound”. The Dhamma-
+pada (London 1950-), Introduction, p.7.##
+@044
+14. na me Acariyo atthi, sadiso me na vijjati |
+sadevakasmiM lokasmiM, natthi me paTipuggalo ||
+majjhimanikAyo; dhammacakkapavattana |
+15. deva-manuSyANAM zAstA |
+16. ##The inscription as read by Devadatta Ramakrishna Bhandarkar
+is reproduced in Epigraphic Indica, Vol. XXI.##
+17. gururbrahmA gururviSNurgururdevomahezvara: |
+gurureva paraM brahma tasmai zrIgurave nama: || devIbhAgavata |
+##Present study is about impact of Dharma on the temporal milieu. No
+aspersion on the merits and needs of the institution (Guru) is meant.
+The most democratic religious movement in India (Sikh) accepted this
+institution in the preparatory stage. When Gandhi addressed Tagore
+as Gurudeva it was certainly not a left-handed compliment.##
+18. AcAryAt paratarannAsti trailokye sacarAcare |
+yasya prasAdAt prApyante siddhayo’nekadhA budhai: ||
+##Advayasiddhi cited in Benoytosh
+Bhattacharyya : Sadhanamala (Gaekwad Oriental Series), Vol II p. Lvi fn.##
+namaste zUnyatAgarbha sarvasaGkalpavarjita |
+sarvajJa jJAnasandoha jJAnamUrtte namo'stu te ||9||
+jagadajJAnavicchedizuddhatattvArthadezaka |
+dharmanairAtmyasambhUta vajrasattva namo'stu te ||10||
+sambuddhA bodhisattvAzca [tvatta:] pAramitAguNA: |
+sambhavanti sadA nAtha bodhicitta namo’stu te ||11||
+ratnatrayaM mahAyAnaM tvatta: sthAvarajaGgamam |
+traidhAtukamidaM sarvaM jagadvIra namo’stu te ||12||
+cintAmaNirivAdbhuta jagadiSTArthasiddvaye |
+sugatAjJAkara zrIman buddhaputra namo'stu te ||13||
+jJAtaM me’nuttaraM tattvaM prasAdAt te guNArNava |
+vajrAbhiSekaM sarvajJa prasAdaM kuru sAmpratam ||14||
+rahasyaM sarvabuddhAnAM darzitaM dharmavajriNA |
+yathA zrIcittavajreNa tathA nAtha prasIda me ||15||
+bhavatpAdAmbuje tyaktvA nAnyA me vidyate gati: |
+tasmAt kuru dayAnAtha saMsAragatinirjita ||16||
+prajJopAyavinizcayasiddhi; tRtIyapariccheda
+guruprasAdo yasyAsti sa labhet tattvamuttamam |
+anyathA klizyate bAla: cirakAlavimohita: ||23||
+@045
+gururbuddho bhavet dharma: saGghazcApi saeva hi |
+prasAdAt jJAyate tasya yasya ratnatrayaM varam ||24||
+ajJAnatimirAndhAnAmeSa mArgapradarzaka: |
+sa bhavet sarvasaukhyAgraya: sarvakAmapradAyaka: ||25||
+dharmagambhIraniSThAtmA viviktakaruNAtmaka: |
+ratnatrayapratiSThArthI dharmadAne nirAmiSa: ||26||
+sa guru: ziSyasadgrAhI sarvabuddhAnukAraka: |
+ityuvAca jagannAtho nAnye vai gurava: smRtA: ||27||
+yasmAnna tatsamo hyasti pUjanIyo mahAmuni: |
+tasmAt sarvaprayatnana pUjayedguruvaraM vratI ||28||
+jJAnasiddhi; prathamapariccheda |
+ratnatrayeSu buddhAtmA kRpAvAn sarvajantuSu |
+tyAgAdisaMyato dhIra: sarvapuNyamahodaya: ||9||
+bodhicittasamutpanna: prasanno guNavAn sudhI: |
+akrodhano mahotsAhA dharmmagambhIranizcaya: ||10||
+sayuktikaM dharmadAnaM nirA[bhA]saM sadA matam |
+alpecchatA sadA tasya sambhAradvayasambhRta: ||11||
+gurureSa samAkhyAta: sarvabuddhai: savajribhi: |
+sa eva sarvasattvAnAM zAsako lokanAyaka: ||12||
+jJAnasiddhi; trayodazapariccheda |
+##prajnopayavinischayasiddhi and jnanasiddhi are reproduced in Benoytosh
+Bhattacharyya : Two VajrayAna Works (Gaekwad Oriental Series).
+For similar sentiments in Brahmanical Tantra, John Woodroffe (Arthur
+Avalon) : Principles of Tantra (Madras 1960), chs XIII & XIV and Intro-
+duction to Tantra Sastra (Madras 1956),pp 65-67 may be seen.
+For the sublime aspects of Guru see also Max Arthur Macauliffe: The
+Sikh Religion (Oxford 1909).
+No.19 to 20(Tibet Text
+@046
+21. ##Humphrey Clarke : The Message of Milarepa (London 1958),
+p.102.##
+##No.22 to 25(Tibet Text)
+26.Nalinaksha Dutt: Aspects of Mahayana Buddhism and its relation
+to Hinayana (London 1930) remains the standard authority on Mayahana
+as a whole and on several issues.
+Har Dayal : The Bodhisattva Doctrine in Buddhist Sanskrit Literature (London
+1932) covers the subject of Bodhisattva. T. R. V. Murti : The Central
+Philosophy of Buddhism (London 1955) provides an excellent comparative
+study.
+27. Nalinaksha Dutt: Aspects of Mahayana etc, pp. 96-117. See
+also Edward Conze : Buddhist Thought in India (London 1962), pp. 172
+& 232. Lama Anagarika Govinda : Foundations of Tibetan Mysticism
+(London 1959), pp. 216, 221-24 expounds the Tantric approach.
+28. Gopinath Kaviraj: Aspects of Indian Thought (Burdwan University
+1966), pp. 137-47. This subject is involved with another ‘parallel
+@047
+development’ in Brahmanism and Buddhism : Atman and Tathagatagar-
+bha. Considerations of space forbid any attempt to present the findings
+of Suzuki, Conze and Gokhale.
+29. A standard English translation is by Kern in The Sacred Books
+of the East.Nalinaksha Dutt (and Mironov) edition of the text (Biblio-
+theca Indica, Calcutta) is followed in this paper.
+30. In this paragraph I generally follow the analysis and chronology
+of Edward Conze : The Development of Prajna paramita Thought in Buddhism
+and Culture (Suzuki Ninetieth Birthday Volume 1960) and The Praj-
+naparamita Literature (The Hague 1960). The accent on Manushi
+Bodhisattva is my own.
+31. Edward Conze : Buddhism Its Essence and Development (Oxford
+1951/53 etc), p 125.
+32. Saddharmapundarika, ch I, verses 13-43
+33. Saddharmapundarika, ch IX, lines preceding verse 12; ch XIV,
+para two; ch XX, para three.##
+34. bodhipraNidhicittasya saMsAre’pi phalaM mahat |
+bodhicaryAvatAra, 1; 17
+anAthAnAmahaM nAtha: sArthavAhazca yAyinAM |
+pArepsUnAM ca naubhUta: setu: saGkarma eva ca ||
+bodhicaryAvatAra; 3; 17
+hInAdiSvAtmatAM kRtvA paratvamapi cAtmani |
+bhAvayerSyAM ca mAnaM ca nirvikalpyena cetasA || 
+bodhicaryAvatAra; 8; 140
+jagadvyAdhiprazamanaM bhaiSajyamidamuttamaM |
+bhavAdhvabhramaNazrAnto jagadvizrAmapAdapa: ||
+durgatyuttaraNe setu: sAmAnya sarvayAyinAM |
+jagatklezoSmazamana uditazcittacandramA: ||
+bodhicaryAvatAra, 3; 29-30
+35. anAthAnAM ca du:khitAnAM kRpaNAnAmapratizaraNAnAM sanAthakriyayA |
+anAtheSu sattveSu [du:khiteSu ca] apratizaraNeSu sanAthakriyA |
+bodhisattvabhUmi |
+##Nalinaksha Dutt’s edition (Jayaswal Research Institute Series),
+pp. 194 & 197.##
+36.tathAryagaNDavyUhasUtre’pi varNitaM | bodhicittaM hi kulaputra vAjabhUtaM sarvabuddhadharmANAM |
+kSetrabhUtaM sarvajagacchulkadharmavirohaNatayA | dharaNibhUtaM sarvalokapratizaraNatayA
+@048
+yAvatpitRbhUtaM sarvabodhisattvArakSaNatayA “peyAlaM || vaizravaNabhUtaM sarvadAri-
+drayasaMchedanatayA | cintAmaNirAjabhUtaM sarvArthasaMsAdhanatayA | bhadraghaTabhUtaM sarvA-
+bhiprAyaparipUraNatayA | zaktibhUtaM klezazatruvijayAya |... ... ...
+.. .. .. iti hi kulaputra
+bodhicittamebhizcAnyaizcApramANairguNavizeSai: samanvAgatamiti ||
+zikSAsamuccaya |
+##Bendall’sedition (Bibliotheca Buddhica, Petrograd/The Hague), pp 5-6.
+37. “The hero as Bodhisattva” would be the appropriate English
+form for Tibetan expression Byang-chub-sems-dpah. A Tibetan dissertation
+on Heroes and Hero-Worship would be on the hero par excellence: Bodhisa-
+ttva.
+38. This question of the Tibetan ecology and Mahayana is under
+detailed study elsewhere.
+39. English translation is that of Daniel H.H. Ingalls: An Anthology
+of Sanskrit Court Poetry (Harvard Oriental Series), p.64. The original text,
+read by Kosambi & Gokhale, is in Subhasitaratnakosa (Harvard Oriental
+Series).##
+atyudgADharayasthirAkRtighanadhvAnabhramanmandara-
+kSubdhakSAradhivIcisaMcayagataprAmeyapAdopama: |
+zrImatpotalake gabhIravivRtidhvAnapratidhvAnite 
+sAndrasvAMzucayazriyA valayito lokezvara: pAtu va: ||3||
+lokezvaravrajyA; jJAnazrImitra |
+40. ##Har Dayal: Bodhisattva Doctrine (cited under Note 26), p.48
+and Edward Conze: Buddhism (cited under Note 31), p. 147.
+Benoytosh Bhattacharyya : Indian Buddhist Iconography (Calcutta 1958),
+p.143 traces the concept to Asoka’s time.
+41. Saddharmapundarika ch XXIV particularly the verses at the end.
+Verse 25 sums up Avalokitesvara as saviour, refuge and recourse in death
+disaster and calamity.
+42. Pp. 45-46. Mahavyutpatti lists 91 Bodhisattvas with Avalokite-
+svara as topmost
+His numerous forms (including a set of 108 as in Nepal) and
+his two popular forms (4-handed as the jewel of the Sangha and 11-headed
+as the Great Compassion) express the paramountcy of Avalokitesvara.
+For these forms see Bhattacharyya : op. cit, Walter Clark : Two Lamaistic
+Pantheons (Harvard 1937/New York 1965) and Alice Getty : Gods of
+Northern Buddhism (Oxford 1928/ Tokyo 1962.)
+@049
+43. Satyabrata Samasrami ed: Karandavyuha (Calcutta 1873).
+44. Edward J. Thomas: The History of Buddhist Thought (London
+1951), pp.187-94 gives a brief account in English.
+No. 45 & 46 (Tibet Text)##
+47. The different traditions recording the lineage of Spyan-ras-
+gzigs are found in Bkah-gdams-pha-chos, Lnga-pa-chen-pohi-mdzad-rnam,
+Klong-rdoI gsung hbum etc. Giuseppe Tucci : Tibetan Painted Scrolls, Vol I
+may be seen.
+Sarat Chandra Das in Indian Pandits in the Land of Snow (Calcutta
+1893/1965) presents the current (1880-90) Gelugpa version of Atisa
+having inspired and Hbrom-ston having founded the GrandHierarchy
+(i.e. the lineage of the Dalai Lamas).
+For a detailed exposition of the lineage of Spyan-ras-gzig down
+to Dalai Lama VII as in a set of painted scrolls from Peking, see Toni
+Schmid: Saviours of Mankind (Stockholm 1961).
+48. ‘Loyalty to the Dalai Lama’ is the subject matter of an elaborate
+study shortly. It is not capable of presentation within the limits of
+this paper. Besides brevity is ruled out when ideas and institutions of 
+one language (Tibetan) are expressed in another (English). For a sa-
+tisfactory account of “The Dalai Lama : His function, his associates and
+his birth” Marco Palls had to resort to Sanskrit, Tibetan, Greek and
+Latin coinage in his The Way and the Mountain (London 1960).
+It may be noted here that the Tibetan loyalty to the Dalai Lama
+is deeper–though different in quality–than loyalty to the national
+emblem in modern (Western) sense. It is not to be confused with the
+personality cult which a modern nation sports today.
+49. This is little recognized by even the Tibetologists. Helmut
+Hoffmann in The Religions of Tibet (London 1961) is an exception; he
+makes clear reference to Dalai Lama V’s deep interest in Old Sect
+teachings, pp. 173-4. I have it on the authority of several trustworthy
+monks and scholars in Central Tibet that Dalai Lama XIII, inspite of the
+@050
+puritan Pha-bong-kha, was most deeply tolerant of Old Sect-teachings.
+This is confirmed by Denzong Gyalyum Kunzang Dechen Tshomo, a
+daughter of the ancient Ragasha House and a considerable scholar her-
+self.
+During my sojourn in Central Tibet twelve years ago I learned
+that the present Dalai Lama (XIV) and the present Karmapa Lama (XVI) had
+made such friendly relations which reduced the ancient tension between
+the Gelugpa and the Kargyupa. (The Karmapa lineage began in 1110)
+while the Gelugpa in 1391.)
+50. There is a danger in using the terminology of Roman Law in-
+connexion with a medieval Asian society as I have shown in Tibet :
+Considerations on Inner Asian History (Calcutta 1967), pp. 19-25. A few
+Latin expressions are used now with confidence in their suitability.
+The Dalai Lama enjoyed absolute homage and allegiance, a
+plenitude of powers which it would be sacrilege for a Tibetan to define.
+The government called the Heavenly Kingdom had somewhat limited
+powers arising from (a) several instruments of executive working as checks
+and balances and (b) its fundamental weakness of being a Gelugpa orien-
+ted “Central Tibet” government. Loyalty to the Dalai Lama as distinct
+from loyalty to the Heavenly Kingdom may be illustrated from the
+Khampa attitude. 
+It is well known that the tribes of Khams were not law abiding.
+What is not so well known is that they were not loyal or submissive to
+the Heavenly Kingdom and its agents. While the Khampas had no
+compunction in robbing the Lhasa gentry and bureaucrats besides re-
+fusing to pay taxes, their anxiety to send offerings to the Dalai Lama or
+to restore robbed baggage found to be Dalai Lama’s has gone into legend.
+The Chinese (Manchu and Republican) drive to the west and
+consequent expansion of Inner Tibet (Chinese. Tibet) were possible
+because of the Heavenly Kingdom’s loose hold over Khams, where large
+blocs of Old Sect believers lived. Khampa nationalist reforms progra-
+mmes involving both Old Sects and Gelug had early support from the
+Chinese; this made the Chinese Liberation of Khams easy. George
+Patterson: Tibet in Revolt (London 1960) gives some interesting details.
+When the Khampas realized that the Liberation would be
+completed with the end of their Dharma and Bodhisattva Avalokitesvara,
+they did not wait for the word from the Heavenly Kingdom. The
+Khampa revolt (1956-59) was a typical Khampa affair. They crowned
+their movement with the escorting of the Incarnation into safety (March
+1959) and several in the escort party returned to fight and die in typical
+Khampa fashion.
+@051
+The Dalai Lama’s Flight is rightly prized as aremarkable feat
+of bravery and organization. The Khampas did it with “tears, blood
+and sweat”. Their loyalty to the Dalai Lama was in inverse ratio
+to their submission to the Heavenly Kingdom.
+No. 51 & 52 [Tibet Text]##
+53. bhagavA etadavoca-“idha, mahArAja, tathAgato loke uppajjati arahaM, sammA-
+sambuddho, vijjAcaraNasampanno, sugato, lokavidU, anuttaro, purisadammasArathi, satthA
+devamanussAnaM, buddho, bhagavA | so imaM lokaM sadevakaM samArakaM sabrahmakaM sassamaNabrAhmaNiM
+pajaM sadevamanussaM sayaM abhiJJA sacchikatvA pavedeti | so dhammaM deseti AdikalyANaM
+majjhekalyANaM pariyosAnakalyANaM sAtthaM sabyaJjanaM, kevalaparipuNNaM parisuddhaM brahmacariyaM
+pakAseti |
+dIghanikAyo; paNItatarasAmaJJaphalaM |
+tadanu yena zAkyamunitathAgatAdirUpeNAsaMsAraM sarvalokadhAtuSu sattvAnAM samIhitamarthaM
+samaGkarotyasau kAya:prabandhatayA’nuparato nairmANiko buddhasya bhagavata: sarvabAlajanasAdhAraNa-
+zcaturtho’vasAtavya: | tathA coktam |
+karoti yena citrANi hitAni jagata: samam |
+AbhavAtso’nupacchinna: kAyo nairmANiko mune: ||33||
+haribhadraracita abhisamayAlaGkArAloka | pR :532
+##The extract is made from Giuseppe Tucci’s edition (Gaekwad Oriental
+Series). Haribhadra is dated in the eight century by Haraprasad Shastri
+and in the tenth century by Maurice Winternitz.##
+54. yadA yadA hi dharmasya glAnirbhavati bhArata |
+abhyutthAnam adharmasya tadA’tmAnaM sRjAmyaham ||7||
+paritrANAya sAdhUnAM vinAzAya ca duSkRtAm |
+dharmasaMsthApanArthAya saMbhavAmi yuge yuge ||8||
+bhagavadgItA, caturthaadhyAya |
+55. ##Giuseppe Tucci : Tibetan Painted Scrolls, Vol I; and Hugh Richard-
+son : The Karmapa Sect in Journal of the Royal Asiatic Society 1958-59 may 
+be seen. The only Mongol invasion (1240) was a petty raid in
+comparison with invasion elsewhere.
+56. See the model letter for Sakya Gongma on page 69 in Tharchin
+(ed.): Letter Writers, Kalon Shadra & Kadrong Nornang (Kalimpong, 1956).
+57. The people of Inner Mongolia called the Dalai Lama Skyabs-
+mgon Mchog perhaps to distinguish him from others (like Panchen or
+Sakya) also called Skyabs-mgon. 
+
