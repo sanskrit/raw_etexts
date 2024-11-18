@@ -255,3 +255,6 @@
 	path = mixed/vishvAsa/AgamaH/vaiShNavam/static
 	url = https://github.com/vishvAsa/AgamaH_vaiShNavaH.git
 	branch = static_files
+[submodule "mixed/cahcblr"]
+	path = mixed/cahcblr
+	url = https://github.com/cahcblr/sanchaya.git
