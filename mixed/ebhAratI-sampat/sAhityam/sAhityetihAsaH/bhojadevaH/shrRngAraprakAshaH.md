@@ -1,0 +1,5175 @@
++++
+TITLE = "श्रृङ्गारप्रकाशः"
+AUTHOR = "भोजदेवः"
+PUBLISHER = "यदुगिरिमुनिभिः"
+"PUBLISH YEAR" = "1926"
+DOMAIN = "साहित्यम्"
+SUB-DOMAIN = "साहित्येतिहासः"
+PAGES = "164"
+LANGUAGE = "संस्कृतम्"
+PRINTER = "लाप्रिन्टिंग् हौस्"
+"SERIAL NO." = "Ebharati-5951"
+url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzMzU2ODM2MzcyMTc1&pageno=MjI0MjQyNjk5NTk="
+title = "श्रृङ्गारप्रकाशः"
+
++++
+[[श्रृङ्गारप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIzMzU2ODM2MzcyMTc1&pageno=MjI0MjQyNjk5NTk=)]]
+
+\[
+
+<div id="page-content" class="page-content" style="line-height: 20px">
+
+<div class="row" style="display: block;">
+
+<div class="col-lg-12" style="height:800px;">
+
+<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+<div id="content" class="content" style="line-height: 40px;">
+
+
+
+[TABLE]
+
+
+
+[TABLE]
+
+
+
+
+
+**निधियुगवसुचन्द्रसंमिते  
+  शकसमये क्षयनाम्नि हायने।  
+अधिशुचि समचारि मुद्रया  
+  रुचिररुचिः कृतिरेवमक्षया।**
+
+**शालिवाहनशाङ्कः१८४९)**
+
+
+
+
+
+PRINTED AT THE LAWPRINTING HOUSE, MOUNT ROAD, MADRAS.  
+***\_\_\_\_\_***
+
+*All rights reserved by the Publisher.*
+
+
+
+
+
+
+
+**FOREWORD.**  
+**———**
+
+**The discovery of the work.**
+
+  The name of Bhoja is familiar as that of a great author who wroteon curiousprojects. Especially he was reported in the authority of poetics. Untilrecently he hasworkon poetics available to scholars was the Sarasvatikanthabharana.The work is notable forits profuse quotations from ivora previons authors whose opinions arecondensed and criticised. The minute analysis of its subject-matteraccompanied by apt quotations mark out this work from the rest.But scholars had always recognised that theSarasvatikanthabharanawas not the only work of Bhoja on Poetics and that he had writtena more voluminous and exhaustive work. That the name of thiswork was “**Śringaraprakasa**” was also known. But the work was lostto the world until recently. The announcement of the discovery of themanuscripts of many rare and forgotten works in the search conducted by the Madras Oriental Library party and its discovery of manyforgotten and almost forgotten works in Malabar raised suddenly the hopes of scholars about the discovery of other similar works. In thecourse of his enquiry for such works **His Holiness Sri Yatirajasvami**of Mysore came across a small fragment of this voluminous work from a different quarter. Almost simultaneous with this the report of theperipatetic party of the Government Oriental Manuscripts Library, 1919,announced the discovery of a complete manuscript of this long-lost work.This work was only one of the many invaluable works then discovered. His Holiness immediately went to Madras to study the manuscript andif possible to publish it. But when he approached the Library he foundthat the rules that guided the working of the Library were such that hecould not get at the manuscript, even the portion of it, a copy of which hehad with him and which he had begun printing. He immediately begana course of correspondence with the Government and requested that in theinterests of Scholarship the unnecessarily stringent rules that were tillthen governing the working of the Library might be modified. TheGovernment readily granted his wish and all the books within the fourwalls of the Library were thrown open to any scholar for copying or
+
+
+
+**Difficulties in thepublication.**
+
+publication. In the meanwhile His Holiness was able to secure fromseveral notable scholars in Malabar further portions of the work. Withthe aid of these manuscripts he has set about publishing the entire bookof which the portion that is now issued is the first instalment. It is to be regretted that in spite of all these manuscripts there are still considerablelacunae in the work. Again all these manuscripts seem to have beenseveral portions copied by different individuals at different times fromthe same original. Consequently the defects in onemanuscript are copied in the others and the task of publishing and editing is not in the least renderedeasier. Considering the great importance of the work for Sanskrit Scholars, it is proposed to issue the book as far as it has been discovered in the form it is now available. It is not unlikely that bettermanuscripts of the work might be discovered in the future that would serve to clear all the difficulties in the present manuscripts and fill upthe lacunae. The present edition is offered now tentatively to acquaintthe scholarly world with the great importance of the Śringaraprakasawith a request to all owners of manuscript treasures specially in Malabarto find out if there are not among their possessions other manuscripts ofthe book. If fortunately such manuscripts are discovered the furtherportions of the book will not be subject to the same defects which areunavoidably found in the present part.
+
+  A short account of the subject-matter of all the chapters (Prakasas) of this voluminous work is given in the Sanskrit introduction whichwould immediately show its importance and the places are noted wherethe manuscript is defective. Most of the verses that are quoted as examples are given without indicating their sources. A considerable numberof these have been traced to their sources; but hundreds yet remainand even the names of the works whence they are extracted are not known. Again among the works whose names are given there are many whichare not extant at present. It is not unlikely that many verses which arenot at present traceable might have been taken from several of theworks that are mentioned by name in the work but are not available.
+
+**Date of Kalidasa.**
+
+  Several extracts from this work throw valuable light on variouspoints of literary history and clear longstanding doubts. A few of theseare noticed here. In the eighth Prakasa there is a valuableanecdoteabout **Kalidasa, Vikramaditya** and a **King of Kuntala.** According tothis. Kalidasa appears in the Court of *Vikramaditya*as reporting to the latter how a feudatory of his (*Vikramaditya*), the king of Kuntalas was spending his days. Theverse that is reported as having been given by *Kalidasa* in reply
+
+
+
+shows that the king of the *Kuntalas* was a subordinate or feudatoryof *Vikramaditya* and was enjoying very great favour at his handsand that *Kalidasa* was for a time an envoy or ambassador at theKuntala King's Court and was enjoying as such very great respect. From this anecdote coupled with another recorded in*Kshemendra'sAuchityavicharacharcha, Kalidasa* appears to havewritten a book called **Kuntalesvaradautya** or “*Embassy to the Courtof the Kuntala King*” where he appears to have given some autobiographical hints. This coupled with the fact that **Pravarasena**, the author of the **Setubandha** was called **Kuntalesa** in literature and thetradition that *Kalidasa* helped *Pravarasena* in writing theSetubandha finally fix the dates of *Kalidasa* and *Pravarasena* and add much to ourknowledge of the literary history of the period.
+
+**Bhasa.**
+
+  Again, asmall incident found in the “Svapnavasavadatta”published as Bhasa's at Trivandrum, the Samudragrihavrittanta is also found quoted as from Svapnavasavadatta in the twelfth Prakasa thus establishing that that drama isBhasa's work or at any rate an abridgement of the latter.
+
+  Sanskrit anthologists have references to a Poetess called **Vikatanitamba** although nothing is so far known about her life or work. Bhojagiving a verse long current as recording her praise says that she was a*Punarbhu*, a widow that had married again. This adds a very interestingsocial detail about an authoress whose name still lives on in SanskritLiterature although her works appear to have been lost.
+
+**Prakrit quotations.**
+
+  Among the verses quoted as illustrations in the present work a very considerable proportion are in *Prakrit*. At present there are available to the student only a few Prakrit works like the **Gathasaptasati** and the **Setubandha**. Allthe verses in the present work that could be traced to the available Prakritpoems have been located. But by far the larger portion yet remain andthere is no hope of finding out their sources as long as the number of ancient Prakrit works available continue what it is. Bhoja even appearsto prefer quotations from Prakrit works to those from Sanskrit. Butunfortunately he has not given the names of the works or authors heis quoting from. It only shows that Prakrit works were very popular at that period. More than that it appears that the habit of writingKavyas in Prakrit was more popular than in Sanskrit. Most of thisliterature appears to be irretrievably lost.
+
+**Gathasaptasati.**
+
+  In this connection a short notice of the Prakrit anthology of theAndhra king **Hala Satavahana**, the **Gathasaptasati**may not be out of place. It is curious that although
+
+
+
+this work is called the Saptasati or “The Seven hundreds”, no twomanuscripts of the work give the same verses. Thus if allthe separate verses given in the several recensions of the workare added together, the total number of the verses comes tomore than two thousands although the manuscripts contain only sevenhundred in each case. The names of the authors of many of these works are given. But all the authors with the exception of one or two are completely unknown to the modern student. A comprehensive andcritical edition of the work would greatly add to the knowledge of thePrakrit literature possessed by the modern student. Such a criticaledition of the Gathasaptasati is being prepared by His Holiness theYatirajasvami, and it is needless to express here that the edition wouldbe a monumental one considering his wide learning and experience.Famous Prakrit works like the Brihatkatha of Gunadhya and theLilavati noticed in various places in literature, but are now lost, seem tohave been still extant in the time of Bhoja.
+
+**Date of Bhoja.**
+
+  It now remains to determine the age when Bhoja lived. Althoughmany other Indian Sovereigns devoted their time and leisure to the pursuitof literature and produced works and thus made themselves immortal yetthere appear to have been very few who can be compared to Bhoja. Thenumber of works on the various subjects that appear under the name of Bhoja are not a few. And they cover over a wide range of subjects.Bhoja, the author of all these works was a king of the Paramara dynastythat had its capital at Dhara in Malva. A number of inscriptionsof several members of the family to which Bhoja belonged have been published. From these his date has been fixed. He was the son of Sindhuraja and nephew of Munja Vakpatiraja. His uncle Munja had a very long War with the Chalukyasovereign Tailapa and was at length captured by his enemy and putto an ignominous death. Bilhana, the Court Poet of the Chalukya Vikramaditya VII and the author of Vikramankadevacharita says inhis work that he was a contemporary of Bhoja whom he might havevisited had he liked. Similarly Albiruni, the famous Persian Historianmentions Bhoja as a contemporary. From all these it becomes plainthat the period of his literary activity extended roughly over the firsthalf of the 11th century.
+
+  His father Sindhuraja and his uncle Munja were both men ofletters and patrons of poets. Their own literary activities and patronageattracted a large number of literary men round them. Works like the Dasarupaka, by Dhanika and Dhananjaya produced in his uncle's Court should have paved the way in due course for the Sarasvati-
+
+
+
+kanthabharana and the Sringaraprakasa. The minute analysis of thesubject-matter and the selections of hundreds of quotations, to illustrate fine shades of emotion as is done in the Sringaraprakasa should havebeen the work of quite a large number of scholars, all working under the direction of a president who in the present case happens to be noneelse than the cultured Sovereign.
+
+  Of this voluminous work the portion now presented to the public extends over the Prakasas 22 to 24 dealing with Anuragasthapana, Vipralambhasambhogaprakasa and Vipralambha. The peculiaritiesof these chapters are not dealt with in this short preface. It is proposedto reserve it for a full discussion of the contents of the whole workwhen the publication is complete.
+
+  Before closing these remarks a few words about the publisherHis Holiness Sri Yatirajasvamin of Melkote, may not be out ofplace. Scholars would be interested to know that he is the sameas **Pandit AAnantacharya** formerly of the Mysore Archaeological Department, the author of the illuminating dissertation on*Bhamaha* and the discoverer of the first copy of the *Svapnavasavadatta*. His articles in Sanskrit on Bhasa have already been availableto scholars. Since writing the above he has given up the life of aGrihasta and becoming a Sanyasin has become the head of the YatirajaMutt of Mysore, established originally by Sri Ramanuja. In additionto the multifarious activities in the new sphere as a Sanyasin he hasfound time for the study and publication of these works. If properresponse comes forward to take advantage of these, he hopes tomake this edition of the Sringaraprakasa, the first of a series ofSanskrit publications with permanent subscribers.
+
+**A. RANGASWAMI SARASVATI,**  
+*Assistant, Archaeological Department,  
+Madras (Epigraphy).*
+
+**TRIPLICANE, MADRAS,**  
+1st *June,* 1926.
+
+
+
+**॥ श्रीः ॥  
+॥ प्रस्तावना ॥**
+
+**———**
+
+  इदमावेद्यते सहृदयेषु विद्वद्वतंसेषु, यथा योऽयमत्र इदम्प्रथमतया संमुद्र्यप्रकाशितः शृङ्गारप्रकाशनामा प्रबन्धः, सोऽसौ प्रवाह इव गङ्गाया हिमत्रतः प्रसार इव ज्योत्स्नायाश्चन्द्रमसः, उद्गार इव परिमललहर्या वकुलवलयस्य, उन्मेषः प्रतिभाया महाराजाधिराजश्री-भोजदेवस्य।
+
+  यस्यास्यावैजननात् वयोवर्षशत्यां एकद्वित्रिक्रमेण सम्प्रति नवता प्रवर्तते, प्रत्युत इत आयत्या महितदशतायां समेधमानायामपि सैवाभिनवता समुन्मीलतीति विश्वातिशायिनी प्रकाशसम्पत्तिः।
+
+**॥ प्रशंसा ॥**
+
+  अतीतेऽपि सहस्रकल्पे वर्षकदम्बके अनेन प्रकाशेन सहकृतलोचना द्वित्राः पञ्चषावा वस्तुदर्शिनः प्रबन्धार आसन्निति सुखालोकः प्रत्यूषः, येनोपलभ्यमानासु साहितीवर्त्मनिकृतिषु द्वित्रास्वेव लवशोऽस्यानुसन्धानसुरभिता वाचो दृश्यन्ते, अथाप्यामूलचूडं प्रबन्धस्य संवेदनं सर्वतो विहस्तितमेव, क्वचिच्छृङ्गारप्रकाश इति नाममात्रोपलम्भात् विप्रतिपद्यमाना विद्वांसः अथ च भोजराजीयत्वावगत्या किमपि महत्त्वमनुसन्धाय इतिकर्तव्यताशून्येन प्रत्युत दिदृक्षाविक्षिप्यमाणेन चेतसा आन्दोल्यन्ते। अलमनेन पदवाक्यप्रमाणरूपाणां शब्दार्थविच्छित्तीनां, उक्त्युपस्कारकाणां गुणालंकारादीनां, संविधानविभक्तिशालिनांरूपकाणां, जीवितकल्पस्य रसस्य च अन्यैरनुन्मालितपूर्वं स्वरूपं सप्रपञ्चं निरूपयन्तमिमं प्रबन्धं गृहान्तःपूर्वैर्निक्षिप्तं सुवर्णनिधिमिव अविन्दाना उपर्युपरि सञ्चरन्तेऽपि अन्धा इवैतावन्तं कालमनैषुःकवयः केऽपीति न पर्याप्तेयं वाचोयुक्तिः।
+
+  अयं तु प्रबन्धो महाराजेन उत्तरापथे निर्मितोऽपि न केवलं तस्मिन् प्रत्युत निखिलेऽपि भारते मण्डले नाम्नाप्यस्तं गमितः।
+
+**॥ ग्रन्थोपलम्भस्थानम् ॥**
+
+  तदेवं सुदूरनिगूहितरत्नस्येव महोदधेःतिरोहितसुकविसूक्तेर्भारतस्य वेलायां विन्ध्यस्तम्भाहितवैभवस्य जठरानलजारितवातापिदानवस्य निजोदयसमयसमासादितभुवनकल्मषस्य
+
+
+
+अनवकरमधुरवचोव्याकरणखनेःलोपामुद्राजानेर्महामुनेरगस्त्यस्य सन्ततसन्निधानेन समेधमानायामाशायां सरलेषु केरलेषु जात्यन्धस्येव विश्वरूपग्रहणपाटवं, नष्टश्रुतेरिव दिव्यशब्दावधारणपारणं, नित्यदुर्गतस्येव महानिधिलाभं इमं शृङ्गारप्रकाशमुद्द्योत्य स्वाङ्कतल-वर्तिनोजनस्य दूरदर्शितामाकल्पयति भगवती रत्नगर्भा भूतधात्री। को वा न स्पृहयति सचेताः चन्द्रस्य, चन्दनस्य, मन्दानिलस्य, मल्लिकापरिमलस्य, कलकण्ठकलालापस्य, मुक्ताकलापस्य,मृद्वीकामसृणरसस्य, मुग्धाङ्गनापाङ्गभङ्गस्य च समायोगमिवापादयन्त्या अस्याः कृतेःसमालोकनाय, समाचर्चनाय, समाश्लेषणाय, समाघ्राणनाय, समाकर्णनाय, समासञ्जनाय,समास्वादनाय, अन्ततः स्वात्मार्पणाय।
+
+**॥ ग्रन्थलाभादानन्दः ॥**
+
+  सम्प्रतीमं प्रवन्धमस्मान् लम्भयन्त्या भारतभागधेयभावितावतारया भगवत्या सरस्वत्या किमिव नोपकृतम् चक्षुरेव समुन्नीलितमनेन प्रकाशेन, सुप्रभाता च निशा, अनुरक्तंमित्रमण्डलमभ्युज्जिहानं समुद्वीक्षामहे।
+
+  एवमियमुपलब्धापि कृतिः कालपरिवर्तनतः पुरुषपरिवर्तनतश्च च्छिन्ना भिन्ना त्रुटिता अन्यान्यामपि दशां प्रापिता दृश्यते। एवमस्या अंशलेशोऽपिअभिनववसन्तावतारकन्दलितमाकन्दपल्लवोल्लसत्कटकण्ठीकलरवच्छेद इव, मन्दमन्दवलमानमलयपवमानाचान्त-कन्दुकक्रीडातान्तकान्ताकपोलस्वेदलव इव, अभिसरणप्रवृत्तनितम्बिनीपादविकीर्णलाक्षारसबिन्दुरिव, विमर्दविश्लथविलासिनीकेशपशच्युतविपर्यस्तकुसुममुकुल इव, निर्दया श्लेषनिर्दलिततुङ्गस्तनीहारयष्टिमुक्तामणिरिव, मन्मथोन्मादितमत्ताङ्गनापाङ्गविद्युद्विभङ्ग इव, आर्द्रव्यलीकप्रियाधिक्षेपप्रवृत्तमानिनीभ्रूमङ्गस्फुरितविप्रुडित्र,विरहवेदनातरङ्गिततनूदरीगद्गदनादत्रुटिरिव, कावेरीकल्लोल-वेल्लितवे शपुण्ड्रेक्षुयष्टिखण्ड इव, परां काष्ठां प्रमोदस्यादधाति सहृदयहृदयानाम्॥
+
+**॥ ग्रन्थसम्पादनप्रयत्नः ॥**
+
+  इतः पूर्वं द्वाविंशतेर्वत्सरेभ्यः कस्मिंश्चिद्ग्रन्थे परिशील्यमाने भोजराजकृतस्य रसस्वरूपनिरूपकस्य शृङ्गारप्रकाशनाम्नः प्रबन्धस्य नामानुवादो व्यलोकि। ततस्तत्सम्पादनायवहुत्र बहुधा कृतेऽपि प्रयतने मद्रास्नगरस्थापितराजकीयसंस्कृतप्राचीनप्रबन्धभाण्डागारस्थपुस्तकनामावल्यामविचारितनिवेशितानि “शृङ्गारप्रकाश” इति नामाक्षराण्यदृश्यन्त। विचित्यविमर्शं विहिते महान्विप्रलम्भो-ऽनुभूतः। यतः केन चिद्देवानांप्रियेणापशब्दबहुलमसभ्यार्थप्रकाशकं भ्रष्टच्छन्दः पद्यषट्कं जघन्यावयवमिव देवमार्गनाम्नातैरक्षरैः कृताख्यानमवैक्ष्यत।अनेन व्यतिकरेण सुदूरमुत्क्षिप्य पातितमिव हृदयमदूत। रसवतीषु विदग्धानां च गोष्ठीषुअर्वाक्तनीषु न क्वापि तस्यैतस्य प्रबन्धस्य सद्भावमपि समुन्मीलयन् वाचामाचारोऽश्रूयत।
+
+
+
+गते च बहुतिथे काले विचार्यमाणेषु शास्त्रान्तरनिरूपकेषु तेनैव राज्ञा निर्मितेषु प्रबन्धेषु सतीर्थ्यतानुबन्धानुसन्धानात् अन्तरान्तरा समुपजायमानापि प्रस्तुतग्रन्थस्मृतिर्निरालम्बनतयातरङ्गलायं व्यलीयत।
+
+  अस्मिन्नेवान्तरे कर्णाटमण्डले मैसूर् राज्योपभोज्ये कावेरीं सरितमुत्तरेण क्रोशाष्टकान्तःपातिनो यादवगिरेरधित्यकायां भगवता रामानुजेन साक्षात्प्रतिष्ठापिते मठेऽधिकृतः सम्पत्कुमारपदाभिख्यो रामानुजोपग्रहो मुनिः तीर्थयात्राप्रसङ्गेन प्रोषितः मार्गगत्या पूर्वसमुद्रवेलायां प्रतिष्टितं (मद्रास्) चन्नपत्तनोपशल्यभूतं कैरविणीसरसीमनि भगवतः पार्थसारथेर्दिव्यायतनेन परिशोभितं तिरुवल्लिक्केणीति प्रतीतं बृन्दारण्यक्षेत्रं कांश्चिन्मासानध्यतिष्ठत्।तदात्व उपतिष्ठमाने विदुषां समवाये प्रस्तूयमाने प्राचीनग्रन्थान्वेषणादिप्रस्तावे एकः सहृदयः कुतश्चित् केरलीयमातृकातः प्रतिरूपितं प्रस्तुतशृङ्गारप्रकाशस्य के चन भागमुपढौकयति स्म,यत्र च प्रतिपत्रं ग्रन्थपातःउदाहरणपद्यानामादितो द्वित्राण्येवाक्षराणि, क्वचिदन्त्यपादमात्रं,असंस्तुतमातृकाक्षरतया अपश्लिष्टानि विपर्यस्तानि अन्यान्यान्यक्षराणि अपदसंबद्धानि संबाधदुस्स्थानि च, प्राकृतगाधादीनां त्वतिशोचनीया दशा, कचिद्ग्रन्थस्य परिपाट्येव विपर्यस्ताअनन्विता च, स्तोभाक्षरबहुला लेखनधोरणी, इति। तथापि तदेव मातृकां परिकल्प्य महताश्रमेण प्रत्यादर्शः साधितः। अदृष्टाश्रुतचरस्य महीयसः प्रबन्धस्य लाभेन पर्युत्सुका हृदयालावोरसिकाःसंशोध्य मुद्रणाय सोपग्रहं अभ्यार्थयन्त।
+
+**॥ मातृकान्तरसंवादविप्रलंभः ॥**
+
+  अस्मिन्नेवावसरे प्रस्तावितपूर्वस्य मदरास् राजकीयभाण्डागारस्य नातिचिरसम्पादिते केरलदेशतो ग्रन्थसङ्ग्रहे तस्यैतस्य शृङ्गारप्रकाशस्य प्रत्यन्तरसद्भावःकर्णपथाध्वनीनतामभजत।इतः पूर्वमेव बहुकृत्वो वितथप्रयत्ना विद्वांसोऽनितरसाध्यं भाण्डागारस्थकोशावलोकनं प्रतिपादयन्तः प्रस्तुतमठास्थानसाध्यं निश्चिन्वानास्समचूचुदन्। एवंविधाभिरतिभात्राभिः
+पण्डितानामुत्कलिकाभिर्बलात्कृतान्मठाद्ग्रन्थसंवाददानाय नियमलेखमुखेन भाण्डागाराध्यक्षःपर्यन्वयुज्यत। स तु महामनाः सर्वामपि भाण्डागारस्थितिं स्वमात्रायत्तामासूत्रयता लेखेनैवं प्रत्याचष्ट; यथा—“संवादायापि नानुज्ञायते, यौष्माकीन एव कोशो भाण्डागारायप्रत्यर्पणीय” इति तमिमं व्यतिकरं जानन्तोऽन्ये सहृदयाःसन्निधाय बहुधा प्रत्यपीपदन्, एवंविधामेव भाण्डागारिकमहाशयस्य प्रतायमानां सौजन्यसम्पदम्। तत्र किंवदन्त्यपेक्षयास्वानुभूतचर एवैकः प्रकारः प्रदर्श्यते। इतः परारिवर्षे कुन्तककृतवकोक्ति-जीवितप्रतिच्छन्दायपर्यनुयुक्तः स भाण्डागारिकमहाशयः इत्थं प्रत्युत्तरमन्वशात्, यथा—“गृहीतो ग्रन्थो न कस्यचिद्दर्शनीयःसंवादाय, यदि वा मुद्रणाय च। अनेन नियमेन प्रतिच्छन्दं प्राप्नुयात्” इति।
+
+
+
+भाण्डागारप्रकाशितप्राचीनप्रबन्धनामावलीसमालोकनेन पर्युत्सुका बहवस्सन्निधाय व्यर्थाभ्यर्थना अनासादिताभिमतग्रन्थावलोकना भग्नमनोरथाः प्रतिनिवर्तमाना अवगम्यन्ते स्म,यतः सोऽध्यक्षमहाशयः प्रायोऽर्धशतं प्राचीनान् सुदुर्लभान् ग्रन्थान् अनन्याबकाशं समुद्रंप्रच्छादयति स्म। विद्यमानमप्युपरितनं राजाधिकरणमविन्दानमिमं व्यतिक्रमं वैदेशिकमिवविस्रभमाणं चिरादवर्तत; यतोऽभ्यर्थिनो हताशा अपि भाण्डागारिकमहाशयस्य निरङ्कुशाधिकारतां मन्यमानास्तामिमां व्यावक्रोशीं भीता न समावेदयन्नेव लेशतोऽपि।
+
+**———————**
+
+**उदारगुणसंपत्तेःभाण्डागाराधिकारिणः।  
+एवं सौजन्यशीधूनामसङ्ख्यास्सन्ति बुद्भुदाः॥**
+
+**॥ अत्रैव राजाधिकरणसाह्यम् ॥**
+
+  तदेवं पर्यवसिते वस्तुतः सतत्त्वे प्रतिकलमुद्वेल्लमानायां विदुषां शृङ्गारप्रकाशप्रकाशनोत्कलिकायामस्मन्मठाधिकरणैकसाध्यतां प्रतिपाद्य प्रार्थयानेषु रहस्यवेदिषु प्रणयिषुविपश्चिद्वरेषु भाण्डागारिकव्यतिक्रमं समुद्धोषयन् अभियोगः प्रेष्ठं राजाधिकरणमनीयत। ततः प्रवर्तितेपूच्चावचं प्रश्नप्रतिवचनलेखेषु भाण्डाकारिकानुबन्धेषु तदीयस्वच्छन्दप्रवृत्तिनिर्विष्णमुपरितनं राजाधिकरणं मठव्यवसायाय प्रीयमाणं तथा भाण्डाकारिकमन्वशात्। यथा—“अभीप्सितग्रन्थसमुपढौकनेन यतिराजमठः संविभाज्”इति। अथ निजप्राभवप्रतीघातजातसंरम्भस्योच्चावचा भाण्डाकारिकमहाशयस्य प्रकृत्यनुगुणाः प्रवर्तिता व्यवहाराः स्वगोष्ठ्याममान्तः मैसूर् नगरेऽपि श्रूयमाणाः तत्रत्वं सरलाशयमप्येकं सुजनमरालीचक्रुरित्यलम्। साम्प्रतमभिमतग्रन्थलाभाय निरर्गलां भाण्डागारव्यवस्थामाहितवद्राजाधिकरणंधन्यवादमर्हति॥
+
+**॥ मातृकान्तरान्वेषणम् ॥**
+
+  इतस्तताे मातृकान्तरप्रतिपत्त्यै लेखे प्रचारिते केरलेषु पञ्चानां महाशयानां सङ्ग्रहे खण्डशः शृङ्गारप्रकाशग्रन्थो जागर्तीत्यवगतमासीत्। ते च महीयांसः स्वस्वमातृकाकोशप्रतिच्छन्दाद्यर्पणेन प्रस्तुतमुद्यममुद्धृंहयितुमन्वजानन्॥
+
+१. श्रीमान् तिरुप्पुणत्तुरे भाण्डागाराध्यक्षमहाशयः,
+
+कोच्चिराज्ये.
+
+२. के. सि. वलियराजमहाशयः,
+
+मलबार्,
+
+३. करुणाकरमीनन् महाशयः,
+
+शल्लपुरम्, कल्लिकोटै.
+
+
+
+४. नारायणनंबूदिरि महाशयः,
+
+तिरुप्पणत्तुरै समीपे ग्रामः.
+
+५. अनंतशयनराजकीयभांडागाराध्यक्षः
+
+  एतेषु द्वितीयो महाशयः स्वीयं मातृकाकोशं कांश्चिद्दिवसानस्मासु न्यासीकृतवान्। न केवलमयं महाराजमहाशयोऽस्माकं प्रत्युत शृङ्गारप्रकाशमास्वादयतां सहृदयानामपि संमाननायाः पात्रमित्यनवद्यम्। एवं सङ्गृहीतेऽपि मातृकाकोशभागे खण्डत्रुटितविपर्यस्ताक्षरतया मातृकाया असमग्रतया च प्रबन्धस्य महता श्रमेण शोधितोऽप्ययं प्रकाशः ननिष्प्रत्यूहप्रकाश इति दूयमानमपि हृदयं विदग्धविद्वत्सहृदयसंविभागसंभावनया परांनिर्वृतिमासादयति।
+
+**॥ प्रसङ्गात्सातवाहनगाधासप्तशतीप्रस्तावः ॥**
+
+  अस्मिन्प्रबन्धे प्राचां प्रबन्धेभ्यःसमुद्धृत्य रमणीयानि संस्कृतपद्यानि प्राकृतगाधाश्चोदाहरणतया न्यवेश्यन्त। तत्र प्राकृतगाधानां विषये निगूढं चिररात्रात्किञ्चिदुन्मील्यते।ताश्च गाधाःसातवाहनसङ्कलितगाधाकदम्बकादेव प्रायःसमाहृता दृश्यन्ते। तच्च कदम्बकंसप्तशतीति नाम्ना व्यवह्रियमाणमुपलभ्यते। अत्र बहु वक्तव्यमपि प्रसङ्गान्मनागुच्यते।अस्ति किंवदन्ती सातवाहननाम्ना राज्ञा कोट्या गाधानां मध्यात् परिमितं गाधानां कदम्बकंपृथक्सङ्कलितमिति। तच्च सप्तशतीति सङ्ख्यया तावत्परिगणितगाधमेवोपलक्ष्यते। एवंप्रायास्त्रिचतुराःसप्तशतीति संज्ञाभाजःकृतयः सातवाहनीयतयैव व्यवह्रियन्ते। आसुपादशःअर्धशःसंवादिन्यः गाधाः अवशिष्टाश्च विसंवादिन्य एव॥ ततो विविक्तानां गाधानां सङ्ख्याने द्विसहस्रतो न हीयन्ते। सप्तशतीति प्रायो-वादः यद्यपि एवं सङ्घटनायाःहेतुरन्वेषणीय इति। विस्तरस्तु सप्तशतीप्रस्तावनायां पृथक्प्रपञ्चितमिति दिक्॥
+
+**॥ प्रबन्धप्रतिपाद्यसङ्ग्रहः ॥**
+
+  तस्यैतस्य शृङ्गारप्रकाशस्यापाततःप्रतिपाद्योपलब्धयेऽवान्तरप्रकाशानामाद्यन्तयोः प्रतिज्ञानिगमनवाक्यानि कतिचिदुद्ध्रियन्ते॥
+
+  अस्मिन् ग्रन्थे ३६ षट्त्रिंशत्प्रकाशाः प्रतिपाद्यप्रकरणभेदेन भिन्ना अप्यङ्गाङ्गिभावेनैकवाहितां न हापयन्ति। रसस्तु शृङ्गार एक एव। वीराद्भुतादिप्रतीतिस्तु वटयक्षप्रवादकल्पेति शृङ्गग्राहिता प्रमेयस्य। विस्तरतस्तु प्रबन्धपरिशीलनमेव शरणं रमणीयमिति।
+
+
+
+**प्रथमः प्रकाशो यथा—**
+
+**अच्छिन्नमेखलमलब्धदृढोपगूढ-  
+  मप्राप्तचुम्बनमृवीक्षितवक्रकान्ति।  
+कान्ताविमिश्रवपुषः कृतविप्रलम्भ-  
+  संभोगसख्यमिव पातु वपुः पुरारेः॥१**
+
+**यत्पादपङ्कजरजःपरिमार्जितेषु  
+  चेतस्सु दर्पणतलामलतां गतेषु।  
+शब्दार्थसम्पद उदारतराः स्फुरन्ति  
+  विघ्नच्छिदेऽस्तु भगवान् स गणाधिनाथः॥२**
+
+**आत्मस्थितं गुणविशेषमहङ्कृतस्य  
+  शृङ्गारमाहुरिह जीवितमात्मयोनेः।  
+तस्यात्मशक्तिरसनीयतया रसत्वं  
+  युक्तस्य येन रसिकोऽयमिति प्रवादः॥३**
+
+**सत्त्वात्मनाममलधर्मविशेषजन्मा  
+  जन्मान्तरानुभवनिर्मितवासनोत्थः  
+सर्वात्मसम्पदुदयातिशयैकहेतु-  
+  र्जागर्ति कोऽपि हृदि मानमयो विकारः॥४**
+
+**तात्पर्यमेव वचसि ध्वनिरेव काव्ये  
+  सौभाग्यमेव गुणसम्पदि वल्लभस्य।  
+लावण्यमेव वपुषि स्वदतेऽङ्गनायाः  
+  शृङ्गार एवं हृदि मानवतो जनस्य॥५**
+
+**शृङ्गारवीरकरुणाद्भुतरौद्रहास्य-  
+  बीभत्सवत्सलभयानकशान्तनाम्नः।  
+आम्नासिषुर्दशरसान्सुधियो वयं तु  
+  शृङ्गारमेव रसनाद्रसमामनामः॥६**
+
+**वीराद्भुतादिषु च येह रसप्रसिद्धिः  
+  सिद्धा कुतोऽपि वटयक्षवदाविभाति।  
+लोके गतानुगतिकत्ववाशादुपेता-  
+  मेतां निवर्तयितुमेष परिश्रमो नः॥७**
+
+
+
+**अप्रातिकूलिकतया मनसो मुदादे-  
+  र्यस्संविदोऽनुभवहेतुरिहाभिमानः।  
+ज्ञेयो रसः स रसनीयतयात्मशक्ते  
+  रत्यदिभूमनि पुनर्वितथा रसोक्तिः॥८**
+
+**रत्यदयोऽर्धशतमेकविवर्जिता हि  
+  भावाःपृथग्विविधभावभुवो भवन्ति।  
+शृङ्गारतत्त्वमभितः परिवारयन्तः  
+  सप्तार्चिषं द्युतिचया इव वर्धयन्ति॥९**
+
+**आभावनोदयमनन्यधिया जनेन  
+  यो भाव्यते मनसि भावनया स भावः।  
+यो भावनांपथमतीत्य विवर्तमानः  
+  साहङ्कृतो हृदि परं स्वदते रसोऽसौ॥१०**
+
+**रत्यादयो यदि रसाः स्युरिति प्रकर्षे  
+  हर्षादिभिः किमपराद्धमतद्विभिन्नैः।  
+अस्थायिनस्त इति चेद्भयहासशोक-  
+  क्रोधादयो वद कियच्चिरमुल्लसन्ति॥११**
+
+**स्थायित्वमत्र विषयातिशयान्मतं चे-  
+  च्चिन्तादयः कुत उत प्रकृतेर्वशेन।  
+तुल्यैव सात्मनि भवेदथ वासनायाः  
+  सन्दीपनात्तदुभयत्र समानमेव॥१२**
+
+  अतः स्थितमेतत् रत्यादयः शृङ्गारप्रभवाः एकोनपञ्चाशद्भेदाः, वीरादयो मिथ्यारसप्रवादाः, शृङ्गार एवैकश्चतुर्वर्गैककारणं रस इति। स चानुभवैकसमधिगम्यत्वादसर्वविषयत्वाच्च दुरवसेयः सम्यगभिनयेषु वा विदग्धशैलूषैः प्रदर्श्यमानः सामाजिकैरवधार्यते; प्रबन्धेषुवा महाकविभिर्यथावदाख्यायमानो विदुषां मनीषाविषयमवतरति। तत्र न तथा पदार्थाःप्रत्यक्षेण प्रतीयमानाः स्वदन्ते यथा वाग्मिनां वचोभिरावेद्यमानाः॥ तदाह—
+
+**“अत्थविसेसो णवि तह सरूवमेवेत्ति सच्चविज्जंता।  
+जह उण ते उम्मिल्लंति सुकइवाआहि दीसंता”॥ इति।**
+
+
+
+  अतोऽभिनेतृभ्यः कवीनेव बहुमन्यामहे अभिनयेभ्यश्च काव्यमेवेति। तत्पुनश्शब्दार्थयोस्साहित्यमामनन्ति। तद्यथा—“शब्दार्थौसहितौ काव्यम्” इति॥ कः पुनश्शब्दः?येनेाच्चरितेनार्थः प्रतीयते। स च द्वादशधा–प्रकृतिः, प्रत्ययः, उपस्कारः, उपपदं, प्रातिपदिकं, विभक्तिः, उपसर्जनं, समासः, पदम्, वाक्यम्, प्रकरणम्, प्रबन्धः इति।कोऽर्थः ? यश्शब्देन प्रत्याय्यते। स च द्वादशधा–क्रिया, कालः, कारकं, पुरुषः, उपाधिः,प्रधानं, उपस्कारार्थः प्रातिपदिकार्थः, विभक्त्यर्थः,वृत्त्यर्थः, पदार्थः, वाक्यार्थः इति।किं साहित्यम् ? इत्यादि॥
+
+अन्ते—
+
+**प्रकृतिप्रत्यया एवमुपस्कारश्च दर्शितः।  
+क्रमादुपपदस्यापि स्वरूपमुपवर्णितम्॥१**
+
+**अव्ययानि निपाताश्च गतयश्च निरूपिताः।  
+कर्मप्रवचनीयाश्च सोपसर्गाः प्रकाशिताः॥२**
+
+**न केवलेह प्रकृतिः प्रयुज्यते  
+  न केवलस्सुप्तिङजण्क्यजादयः।  
+भवत्युपस्कार इहापृथग्द्वयो-  
+  र्द्वयार्थमेवोपपदं प्रयुज्यते॥३**
+
+**इनि महाराजाधिराजश्रीभोजदेवविरचिते  
+श्रृङ्गारप्रकाशे प्रकृत्यादिप्रकाशो नाम  
+प्रथमः प्रकाशः॥  
+———  
+॥ द्वितीयः प्रकाशः॥**
+
+  आदौ प्रातिपदिकं त्रिधा विभक्तावयवं अविभक्तावयवं अनुकरणं च। तत्रविभक्तावयवं त्रिधा कृद्रूपं तद्धितरूपं समासरूपं च। तेषु भावकारकाभिधायिनो धातुप्रत्ययाः कृतः। तत्र धात्वर्थ एवपूर्वापरीभावभूतो भावः। यदाह—
+
+**कालानुपाति यद्रूपं धात्वर्थस्य क्रियेति यत्।  
+परितो यत्परिच्छिन्नं तद्भाव इति कथ्यते॥**
+
+
+
+अन्ते—
+
+**पदमिह त्रिविधं प्रतिपाद्यते  
+  त्रिविधमेव हि वाक्यमथ त्रिधा।  
+व्यवहृतिः खलु शब्दनिबन्धना  
+  यदनयोरुभयोः प्रतितिष्ठति॥**
+
+**इति श्री  +  प्रातिपदिकादिप्रकाशो नाम द्वितीयः प्रकाशः॥**
+
+**॥ तृतीयः प्रकाशः ॥**
+
+  आदौ—तत्र पद्यते अनेनार्थ इति पदम्। तत्त्रिधा क्रियारूपं, कारकरूपं, उपस्कारकरूपं च॥
+
+अन्ते—
+
+**उक्तः क्रमाद्द्वादशभेदभिन्नः  
+  शब्दप्रपञ्चोऽयमनादिसिद्धः।  
+अथार्थमूर्त्यास्य विवर्तमाद्यं  
+  तावत्प्रकारं प्रतिपादयामः॥**
+
+**इति श्री  +  प्रकृत्यादिशब्दप्रकाशो नाम तृतीयः प्रकाशः॥**
+
+**॥ चतुर्थः प्रकाशः ॥**
+
+  आदौ—तत्र प्रकृत्यादिशब्दप्रत्याय्याः क्रियाकालकारकपुरुषोपाधिप्रधानोपस्कारार्थप्रातिपदिकार्थविभक्त्यर्थवृत्त्यर्थपदार्थवाक्यार्थरूपा द्वादशभेदाः।
+
+अन्ते—
+
+**तेऽमी क्रिया च कालश्च कारकं पुरुषस्तथा।  
+उक्ताः पदार्थाश्चत्वारः स्वैस्स्वैर्भेदैःसमन्विताः॥**
+
+**द्रव्यात्मा चापि कालो यः प्रसङ्गात्सोऽपि कीर्तितः।  
+स हि प्रायः प्रबन्धेषु तत्रतत्रोपयुज्यते॥**
+
+**क्रियायां कालोऽन्तर्भवति पुरुषःकारकपदे  
+  प्रधाने सोपाधि द्वयमपि तदेतन्निविशते।  
+प्रधानं तं प्राहुर्यमभिदधते घञ्प्रभृतयः  
+  सहोपस्कारार्थो निवसति स तु प्रातिपदिके॥**
+
+**इति श्री  +  क्रियाद्यर्थचतुष्टयप्रकाशो नाम चतुर्थः प्रकाशः॥**
+
+
+
+**॥ पञ्चमः प्रकाशः ॥**
+
+   आदौ—प्रकृत्यर्थप्रत्ययार्थभेदेषु कारकाणां प्रवृत्तिविशेषः क्रिया। तामनुपहितां कृभ्वस्तयो वदन्ति। तेषां परस्परमसंभेदसंभेदाभ्यां साम्योत्कर्षापकर्षजन्मानो द्वादश धात्वर्थभेदाः क्रिया भवन्ति। तद्यथा—
+
+  अन्ते—
+
+**उपाधिरेवं त्रिविधः प्रधानमपि च त्रिधा।  
+तथोपस्कारवान्प्रातिपदिकार्थश्च वर्णितः॥**
+
+**वाचकत्वं निपातानां द्योतकत्वं च निश्चितम्।  
+कर्मप्रवचनीयानामुक्ता सम्बन्धसङ्गतिः॥**
+
+**अथो विभक्त्यर्थविधिस्त्रिधोच्यते  
+  त्रिधैव वृत्त्यर्थपदार्थनिर्णयः।  
+क्रियादिवाक्यार्थनिवर्तनात्तत-  
+  स्त्रिधैव वाक्यार्थगतिः प्रपञ्च्यते॥**
+
+**इति महाराजा + उपाध्याद्यर्थचतुष्टयप्रकाशो नाम पञ्चमः प्रकाशः॥**
+
+**॥ षष्ठः प्रकाशः ॥**
+
+  आदौ—विभक्त्यर्थस्त्रिधा–सङ्ख्या, कारकं, शेषश्च। तेषु कारकसम्बन्धिगतैकत्वद्वित्वबहुत्वानि सङ्ख्या। सा पोढा–आभिधानिकी, वैवक्षिकी, नैमित्तिकी, पारिभाषिकी, वैभाषिकी,पारिशेषिकी च। तास्वाभिधानिकी यथा–आपः दाराःलाजाः द्वयं अनेकं नियतं इति। अत्राभिधानतो बहुवचनैकवचने एवेत्याभिधानिकी। इत्यादि।
+
+  अन्ते—
+
+**विभक्तिवृत्त्यर्थवतोरुपस्क्रिया  
+  प्रधानयोर्धाम पदार्थ इष्यते।  
+पदं पदार्थस्य तु वाक्यगोचरं  
+  भवेद्यतोऽर्थस्तदतो निरूप्यते॥**
+
+**इति महाराजा + विभक्त्यर्थादिचतुष्टयप्रकाशो नाम षष्ठः प्रकाशः॥**
+
+
+
+**॥ सप्तमः प्रकाशः ॥**
+
+ 
+आदौ—तत्राभिधाविवक्षातात्पर्यप्रविभागव्यपेक्षासामर्थ्यान्वयैकार्थीभावदोषहानगुणोपादानालङ्कारयोगरूपाः शब्दार्थयोर्द्वादशधर्माः समर्थास्साहित्यमित्युच्यते। तेषु शब्दस्यार्थाभिधायिनी शक्तिरभिधा। इत्यादि।
+
+  अन्ते—
+
+**उक्ताश्चतस्रः प्रथमाः क्रमेण  
+  क्रमादथान्याः प्रकटीक्रियन्ते।  
+अखण्डवाक्यार्थविवेचकानां  
+  शब्दार्थसंवित्परिशुद्धिहेतोः॥**
+
+**इति महाराजा  +  केवलशब्दसंबन्धशक्तिप्रकाशो नाम सप्तमः प्रकाशः॥**
+
+**॥ अष्टमः प्रकाशः ॥**
+
+  आदौ—तत्रोद्भूतसंबन्धव्यतिरेकाणां पदार्थानामितरेतरत्प्रत्याकाङ्क्षा व्यपेक्षा। सा च सन्निहिते योग्ये च भवति। तद्यथा–देवो वर्षति इत्यादि।
+
+  अन्ते—
+
+**अखण्डस्सैष वाक्यार्थःशब्दब्रह्मेति गीयते।  
+शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति॥**
+
+**इदमाद्यं पदस्थानं सिद्धिसोपानपर्वणाम्।  
+इयं सा मोक्ष्यमाणानामजिंहा राजपद्धतिः॥**
+
+**उक्ताश्चतस्त्रोऽथ पुनश्चतस्त्रः  
+  शब्दार्थसम्बन्धभिदाः क्रमेण।  
+चतस्र एवाथ वचोविशेषे  
+  निषेदुषीस्ताःपरिकीर्तयामः॥**
+
+**इति महाराजा +  सापेक्षशब्दशब्दशक्तिप्रकाशनो नामाष्टमः प्रकाशः॥**
+
+**॥ नवमः प्रकाशः ॥**
+
+  आदौ—तत्र वा ? भिधाविवक्षादिभिर्निरूपिते शब्दार्थयोः साहित्ये वाक्यस्य प्रयोगयोग्यता प्रयोगानर्हता च निश्चीयते। यदाह—इत्यादि।
+
+
+
+  अन्ते—
+
+**तदेतद्वोषहानं च गुणोपादानमेव च।  
+ज्ञात्वा कुर्वन्कविः काव्यं प्रेत्य चेहच नन्दति॥**
+
+**निर्दोषं गुणवद्यस्य सालङ्कारं रसान्वितम्।  
+सतां वसति चेतस्सु वचः स दिवि मोदते॥**
+
+**इत्येष दोषपरिवर्जनया गुणाना-  
+  मावर्जनेन च किलोभयथान्तरङ्गः।  
+काव्ये यथायथमलङ्कृतियोग उक्त-  
+  स्तत्रैव बाह्यमथ तं क्रमशोऽभिधास्ये॥**
+
+**इति श्रीमहाराजा + दोपहानगुणोपादानप्रकाशो नाम नवमः प्रकाशः॥**
+
+**॥ दशमः प्रकाशः॥**
+
+  आदौ—अथापास्तदोषस्योपात्तगुणस्य च काव्यशरीरस्य चारुत्वोत्कर्षसिद्धये प्राप्तकालोऽलङ्कारयोग उच्यते। यतः—“दीर्घापाङ्गं नयनयुगलं” इत्यादि।
+
+  अन्ते—
+
+**अलङ्क्रिया यास्त्विह शब्दसंश्रया-  
+  स्ततोऽर्थभूषाभ्यधिकं प्रकृष्यते।  
+ततोऽभिरूपामुभयोरलङ्कृतिं  
+  वदन्ति संसृष्टिरतोऽपि शोभते॥**
+
+**इति श्री    +    उभयालङ्कारप्रकाशो नाम दशमः प्रकाशः॥**
+
+**॥ एकादशः प्रकाशः॥**
+
+  आदौ—निर्दोषस्य गुणवतोऽलङ्कारस्य च काव्यशरीरस्य कामिनीशरीरस्येव शोभातिशयनिष्पत्तौ रसावियोग एव प्रकृष्ट उपायो गीयते।
+
+**कल्या मूर्तिःकुलममलिनं यौवनं रूपसंप-  
+  त्सौभाग्यर्द्धिःप्रियवचनताशालिवैदग्ध्ययोगः।  
+शालीनत्वं विनयपरतेत्यङ्गनाभूषणं य-  
+  त्तत्प्रेमार्द्रं प्रणयिनि मनो नास्ति चेन्नास्ति किचित्॥**
+
+इत्यादि।
+
+
+
+  अन्ते—
+
+**वाक्यप्रबन्धानुगतोऽयमुक्तो  
+  मया समासेन रसावियोगः।  
+अथेह येऽर्था न विवेचिताः पृथ-  
+  ग्विभज्य ते के चिदुदाह्रियन्ते॥**
+
+**इति + रसावियोगप्रकाशनो नामैकादशः प्रकाशः॥**
+
+**॥ द्वादशः प्रकाशः ॥**
+
+  आदौ—
+
+**\*    \*     \*   \*    \***  
+**इतिहासकथोद्भूतमितरद्वा सदाश्रयम्।  
+चतुर्वर्गफलोपेतं चतुरोदात्तनायकम्।  
+पञ्चावस्थाभिनिष्पन्नैः पञ्चभिस्सन्धिभिर्युतम्।**  
+**\*   \*     \*   \*    \***  
+**लक्षणैश्च चतुष्षष्ट्या युक्तं कुर्वीत नाटकम्।**
+
+यदुक्तं तत्र... काव्यादेः प्रबन्धस्य शरीराणि पञ्चारम्भविधयः, पञ्चार्थप्रकृतयः, पञ्चावस्थाः,पञ्चसंस्थाः, पञ्चसमवस्थाः, पञ्चसन्धयः पञ्च... इत्येका चतुष्षष्टिः इत्यादि।
+
+  अन्ते—
+
+**भक्तीर्द्वादश ताः पृथक्पृथगिमास्सञ्चिन्त्य शब्दार्थयोः  
+  साहित्यस्य च शब्दशासनविदा कार्यःप्रबन्धे श्रमः।  
+कीर्तिर्यावदनश्वरी हि विदुषां रोदोगृहं गाहते  
+  ब्राह्मं लोकललाम धाम तदमी तावत्किलाध्यासते॥**
+
+**इति श्री  +  प्रबन्धाङ्गचतुष्षष्टिचतुष्टयप्रकाशो नाम द्वादशः प्रकाशः॥**
+
+**॥ त्रयोदशः प्रकाशः ॥**
+
+  आदौ—तत्त्वज्ञानान्निश्श्रेयसाधिगमो मोक्षः। तमीहमानस्य गार्हस्थ्येऽपि तदधिगमयोग्यताभिमानो मोक्षशृङ्गारः। **\* \* \***धर्मशृङ्गारे भारती वृत्तिः, वैदर्भी रीतिः इत्यादि॥
+
+  अन्ते—
+
+**निसर्गसंसर्गमुखैः प्रभेदै-  
+  र्जन्मानुबन्धातिशयादिभिश्च।**
+
+
+
+**इदं विनिश्चित्य निवेशयन्त  
+  .... दालं कवयो लभन्ते॥**
+
+**इति श्री  + रतिप्रकाशो ? नाम त्रयोदशः प्रकाशः॥**
+
+**॥ चतुर्दशः प्रकाशः ॥**
+
+   आदौ—मनोरथावाप्तौमनःप्रसादो हर्षः। स च जन्मनि यथा—इत्यादि।
+
+  अन्ते—
+
+**यदपि च गदितं प्रहर्षगामी  
+  भवति रसो रतिविस्मयादिरेव।  
+तदपि न समञ्जसं प्रकृष्टं  
+  प्रतिनिजभेदममी हि सर्व एव॥**
+
+**इति श्री   + हर्षादिभावप्रकाशो नाम चदुर्दशः प्रकाशः॥**
+
+**॥ पञ्चदशः प्रकाशः ॥**
+
+  आदौ—यदुक्तं तैः सविभावानुभावैः प्रकाशमानः शृङ्गारो विशेषतः स्वदते।तत्र प्रायेण रतिप्रीत्यै विभावादीनुदाहरन्तो (णतो) वक्ष्यामः इत्यादि।
+
+  अन्ते—
+
+**तथातत्सर्वस्वं भुवनजयिनःपुष्पधनुषो  
+  मनुष्याणामेकं तदिदमसमं जीवितफलम्।  
+इदं तत्सौख्यानां कुलभवनमाद्यं त्रिभुवने  
+  यदेतास्तारुण्योपहितमहिमानो मृगदृशः॥**
+
+**इति श्री   +  रत्यालम्बनविभावप्रकाशो नाम पञ्चदशः प्रकाशः॥**
+
+**॥ षोडशः प्रकाशः॥**
+
+  आदौ—इदानीमुद्दीपनविभावान्व्याख्यास्यामः। तत्र रत्यादिरुत्पन्नानुत्पन्न **\* \* \*** इत्यादि।
+
+  अन्ते—
+
+**उपनिषदुपदिष्टासेयमुद्दीपकानां  
+  त्रिभुवनविजयाप्तौ वैजयन्ती स्मरस्य।  
+तदुपहितविशेषोद्बोधसंस्कारजन्या-  
+  ननुपदमनुभावानेव संभावयामः॥**
+
+**इति श्री   +  रत्युद्दीपनप्रकाशो नाम षोडशः प्रकाशः॥**
+
+
+
+**॥ सप्तदशः प्रकाशः ॥**
+
+  आदौ—इदानीमनुभावं (वान्) व्याख्यास्यामः। तत्र विभावैः प्रवृद्धसंस्कारस्यनायकादेर्ये स्मृतीच्छाद्वेषप्रयत्नजन्मानः वाग्बुद्धिशरीरारम्भाः तेऽनुभूयमानत्वाद्द्रव्यादीनामनन्तरभावना(न) या अनुभावाःइत्यादि।
+
+  अन्ते—
+
+**प्रकृतिभवमतोऽभिमानसंज्ञं  
+   समनु......पि भाववर्गः।  
+स्वमवसरमुपेयिवानुपास्ते  
+  नृपतिमिवाधिकृतोऽनुजीविवर्गः॥**
+
+**इति श्री   +  अनुभावप्रकाशो नाम सप्तदशः प्रकाशः॥**
+
+**॥ अष्टादशः प्रकाशः॥**
+
+  आदौ—धर्मशृङ्गारोऽर्थशृङ्गारः कामशृङ्गारो मोक्षशृङ्गार इति यदुक्तं तदिदानीं व्याख्यायते। तत्र धर्मो नाम श्रुतिस्मृतिविहित आचारःप्रवृत्तिनिवृत्तिरूपःइत्यादि।
+
+  अन्ते—
+
+**स एष धर्मद्रुमबालपल्लवो  
+  लवोच्चयस्सूनृतसूक्तिसम्पदाम्।  
+पदं दधानः श्रुतिमार्गगोचरे  
+  चिराय यावा.... .....सताम्॥**
+
+**इति श्री  + धर्मशृङ्गारप्रकाशो नामाष्टादशःप्रकाशः॥**
+
+**॥ एकोनविंशः प्रकाशः ॥**
+
+  आदौ—अर्थो नामात्मनः सुखसाधनानांकलत्रमित्रादीनामार्जनम्। स त्रेधाइत्यादि।
+
+  अन्ते—
+
+**विद्यादीनामुपायैरधिगतिरवनं वर्धनं सम्प्रयोगः  
+  तीर्थेष्वर्थो य उक्तस्समधिगतचरापूर्वपूर्वागतानाम्।  
+तस्मिन्धीरोद्धतादेर्य इह विहरतो नायकस्याभिमानो-  
+  त्मानोच्छुङ्गोऽपि ? मुख्यस्तमिह मतिमतामर्थशृङ्गारमाहुः॥**
+
+**इति श्री + अर्थशृङ्गारो नामैकोनविंशः प्रकाशः॥**
+
+
+
+**॥ विंशः प्रकाशः ॥**
+
+  आदौ—कामो नामात्मनः सुखाभिधानो विशेषगुणः। स द्वेधा इत्यादि।
+
+  अन्ते—
+
+**जन्मान्तरानुभववासनया सुखार्थ-  
+  मिच्छाप्रवृत्तिविषयेन्द्रियसम्प्रयोगैः।  
+सम्प्रत्ययानुभवनूतनया सनाभि-  
+  रात्माभिलाप .... ....विस्मरणानि कामः॥**
+
+**इति श्री + कामशृङ्गारो नाम विंशः प्रकाशः॥**
+
+**॥ एकविंशः प्रकाशः ॥**
+
+  आदौ—तत्त्वज्ञानान्निश्श्रेयसाधिगमो मोक्षः। दुःखजन्मप्रवृत्तिदोषामिथ्याज्ञानानात्तरोत्तरापाये तदनन्तरा(र)भावात् । तथाहि इत्यादि।
+
+  अन्ते—
+
+**मनसिशयमहास्रं शास्त्रसर्वस्वमेत-  
+  न्निरूपमरमणीयं चेष्टितं नायकानाम्।  
+कथितमथ यथावत्कामशृङ्गारसारे  
+   पुनरपि तदवस्थावस्थितं वर्णयामः॥**
+
+**इति श्री + मोक्षाश्रृङ्गारप्रकाशो नामैकविंशः प्रकाशः॥**
+
+**॥ द्वाविंशः प्रकाशः ॥**
+
+  आदौ—इह खलु सकलसत्त्वोपकारक्षमद्वितीयाश्रमनिवासिभिश्चतुर्भिरपि वर्णैर्ब्राह्मणादिभिरुभयलोकसिद्धये सेव्यमानः धर्मार्थकामलक्षणस्त्रिवर्गःपुरुषार्थः इत्यादि।
+
+  अन्ते—
+
+**चतुष्षष्टिं पश्यन्प्रथममभिलाषप्रकृतिका-  
+  नथाष्टौ नित्यादीन्पृथगपि चतुर्विंशतिविधान्।  
+मिथो मिथ्यासम्यक्समधिसमत्वानि विमृश-  
+  न्कविः कुर्यात्स्रोतोऽनुगुणमनुरागव्यतिकरम्॥**
+
+**इति श्री  +  अनुरागप्रकाशो नाम द्वाविंशः प्रकाशः॥**
+
+**॥ त्रयोविंशः प्रकाशः ॥**
+
+आदौ—...सोऽवस्थाद्वितयभेदाद्द्विप्रकारः सम्भोगशृङ्गारो विप्रलम्भशृङ्गारश्च इत्यादि।
+
+
+
+**॥ चतुर्विंशःप्रकाशः ॥**
+
+  आदौ—तत्र सम्भोगो विप्रलम्भमन्तरेण न प्रकर्षमारोहतीति विप्रलम्भ एव प्रथममुपादीयते। इत्यादि।
+
+  अन्ते—
+
+**यो विप्रलम्भः प्रथमानुरागो  
+  मानःप्रवासः करुणः स एव।  
+साधर्म्यवैधर्म्यवशेन चैषा-  
+  मभेदभेदावथ तौ वदामः॥**
+
+**॥ पञ्चविंशः प्रकाशः ॥**
+
+  आदौ—तत्र वैधर्म्यात्साधर्म्यमेव प्रागभिधातव्यं भवति। महाविषयत्वात्। किंपुनःप्रथमानुरागस्य साधर्म्यम्। इत्यादि।
+
+  अन्ते—महान् ग्रन्थपातः।
+
+**॥ षड्विंशः प्रकाशः ॥**
+
+(समग्रो लुप्तः)
+
+**॥ सप्तविंशः प्रकाशः ॥**
+
+  आदौ—महान् ग्रन्थपातः।
+
+  अन्ते—
+
+**आविष्कृतोऽयमभियोगविधिर्यथाव-  
+  द्येऽतः परं पुनरमी रमणाप्तिपूर्वाः।  
+पूर्वानुरागतरुपल्लवभूतदूत-  
+  सम्प्रेषणप्रभृतयः प्रकटीक्रियन्ते॥**
+
+**इति श्री  +  अभियोगविधिप्रकाशो नाम सप्तविंशः प्रकाशः॥**
+
+**॥ अष्टाविंशः प्रकाशः ॥**
+
+  आदौ—स्वयं दर्शनस्यालाभे दूतसम्प्रेषणादयः। तेषु दूतसम्प्रेषणं नायकयोः कर्म। तदज्ञातदूतविशेषकर्मणोः न घटत इति दूतविशेषा दूतकर्माणि च प्रागेवाभिधीयन्ते। इत्यादि।
+
+
+
+  अन्ते—
+
+**बुध्वा बुधश्चतुरशीतिमपीति दूता-  
+  न्कर्माणि विंशतिमपीति युतां चतुर्भिः।  
+यो यत्र सिध्यति तमेव हि तत्र दूत-  
+  सम्प्रेषणादिषु समीक्ष्य समाददीत॥**
+
+**इति श्री   -  दूतविशेषदूतकर्मोपवर्णनं नामाष्टाविंशः प्रकाशः॥**
+
+**॥ एकोनत्रिंशः प्रकाशः ॥**
+
+  आदौ—के पुनर्दूतसंप्रेषणादयः दूतसंप्रेषणं, सन्देशदानं, दूतानुगमः, सखीविगर्हणं, मार्गोदीक्षणं, **\* \* \*** समागमोपायः, समीहितसिद्धिः इत्यष्टचत्वारिंशत्। इत्यादि।
+
+  अन्ते—ग्रन्थपातः॥
+
+**॥ त्रिंशः प्रकाशः ॥**
+
+  आदौ—एवं साधर्म्यवैधर्म्याभ्यामनुरागस्वरूपमभिहितम्। इदानीं वैधर्म्यतो मानस्वरूपमुच्यते। साधर्म्यतस्तु प्रथमानुराग एव। इत्यादि।
+
+  अन्ते—
+
+**परश्शतविकल्पवानिति स एष मानस्त्रिधा  
+  मयैणनयनामनःपरमबान्धवो वर्णितः।  
+अथाध्वगविलासिनीमुखसरोजसन्ध्यातपः  
+  प्रवास उपवर्ण्यते रतिसमुद्रचन्द्रोदयः॥**
+
+**इति श्री   +  मानप्रकाशो नाम त्रिंशः प्रकाशः॥**
+
+**॥ एकत्रिंशः प्रकाशः ॥**
+
+  आदौ—अथातोऽवसरप्राप्तं प्रवासमुपवर्णयिष्यामः। तत्र प्रथमानुरागादीनां पूर्वः पूर्वो विचित्रः परःपरो रागवर्धनः। इत्यादि।
+
+  अन्ते—
+
+**समासव्यासाभ्यां कुसुमधनुषो जीवितमिति  
+  प्रवासो निर्णीतः प्रियजनमनोहेमनिकषः।  
+अथ प्रेमोद्यानप्रणयतरुविस्रम्भसुमनो-  
+  निवासैकस्थानीसुरभिरभिधीयेत करुणः॥**
+
+**इति श्री  +  प्रवासोपवर्णनो नामैकत्रिंशः प्रकाशः॥**
+
+
+
+**॥ द्वात्रिंशः प्रकाशः ॥**
+
+  आदौ—अथातः क्रमप्राप्तं करुणविप्रलम्भमुपदेक्ष्यामः। तस्य च प्रथमानुरागादिभ्यो रागवर्धनत्वादन्तेऽभिधानमित्याभिहितं पुरस्तात्। भूयश्च विशेषतोऽभिधीयते। इत्यादि।
+
+  अन्ते—
+
+**भेदाः पृथक्पृथगमी प्रथमानुराग-  
+  मानप्रवासकरुणात्मनि विप्रलम्भे।  
+उक्ता यथामति मयान्यदतोऽभियुक्तै-  
+  र्युक्त्यानयैव हि बहिः स्थितमूहनीयम्॥**
+
+**इति श्री   +  करुणरसविनिर्णयो नाम द्वात्रिंशः प्रकाशः॥**
+
+**॥ त्रयस्त्रिंशः प्रकाशः ॥**
+
+  आदौ—अथातो विप्रलम्भापादितप्रकर्षसम्पदः संभोगस्य स्वरूपमुपदेक्ष्यामः। कः पुनरयं सम्भोगो नाम। ननूक्तं नायकयोः प्रागसङ्गतयोः सङ्गतवियुक्तयोर्वा समागमे।इत्यादि।
+
+  अन्ते—
+
+**अथोच्यते साम्प्रतमानुपूर्व्या  
+  पूर्वानुरागादिविशेषितानाम्।  
+अनन्तराणामखिलस्वरूपं  
+  विस्रम्भणादिप्रतिपादनेन॥**
+
+**इति श्री  +  सम्भोगशब्दार्थप्रकाशो नाम त्रयस्त्रिंशः प्रकाशः॥**
+
+**॥ चतुस्त्रिंशः प्रकाशः ॥**
+
+  आदौ—अथानन्तर्यार्थ आनन्तर्यार्थविशेषणं चोच्यते तत्रानन्तरः प्रथमानुरागादिः पश्चात्किल भाविनश्चत्वारः। इत्यादि।
+
+  अन्ते—
+
+**सम्भोग उक्तःप्रथमानुरागा-  
+  दनन्तरः सोऽयमनेकभेदः।  
+मानात्प्रवासात्करुणाच्च सम्प्र-  
+  त्यनन्तराः किञ्चिदुदाह्रियन्ते॥**
+
+**इति श्री  +  प्रथमानुरागप्रकाशो नाम चतुस्त्रिंशःप्रकाशः॥**
+
+
+
+**॥ पञ्चत्रिंशः प्रकाशः ॥**
+
+  आदौ—अथ मानानन्तरः। तत्र रतिप्रकर्षनिमित्ताभिलषणीयालिङ्गनाद्यवाप्तिहेतवो मानागम...नादयः सम्भोगशब्दवाच्या भवन्ति। इत्यादि।
+
+  अन्ते—
+
+**इति गदितमशेषं विप्रलम्भस्वरूपो-  
+  पहितनिजसमुत्थे ? श्लाघ्यशृङ्गारनाम्नः।  
+रतिसमुदयरूपं जीवितं पुष्पकेतो-  
+  र्निवसतु सुकवीनां सर्वदा मानसेषु॥**
+
+**इति श्री   +  मानानन्तरादिप्रकाशो नाम पञ्चत्रिंशः प्रकाशः॥**
+
+**॥ षट्त्रिंशः प्रकाशः ॥**
+
+  आदौ—अथानन्तर्यार्थतद्विशेषणविशेषभूता एव क्रियाकालरूपविशेषान्तःपातिन्यः सत्ताभिव्यक्त्यनुबन्धप्रकर्षसंज्ञिकाश्चतुर्णामपि सम्भोगानामवस्थाःचतस्रउपवर्ण्यन्ते। इत्यादि।
+
+  अन्ते—
+
+**रसः शृङ्गार एवैको भावा रत्यादयो मताः।  
+प्रकर्षगामिनोऽपीहप्रेमग्लानिश्रमादिवत्॥**
+
+**इतिनिगदितभङ्ग्याऽनङ्गसर्वस्वमेत-  
+  द्विविधमपि मनोभिर्भावयन्तोऽस्य भेदान्।  
+तदनुभवसमुत्थानन्दसंमीलिताक्षाः  
+  परिषदि परितोषं हन्त सन्तः प्रयान्तु॥**
+
+**यावन्मूर्ध्रिहिमांशुकन्दलवति स्वर्वाहिनी धूर्जटे-  
+  र्यावद्वक्षसि कौस्तुभस्तबकिते पद्मा मुरद्वेषिणः।  
+यावञ्चित्तभुवस्त्रिलोकविजयप्रोच्चं (प्रौढं) धनुः कौसुमं  
+  भूयात्तावदियं कृतिः कृतधियां कर्णावतंसोत्पलम्॥**
+
+**इति श्रीमहाराजाधिराजश्रीभोजदेवविरचिते  
+शृङ्गारप्रकाशे संभोगावस्थाप्रकाशो नाम  
+षट्त्रिंशः प्रकाशः॥**
+
+
+
+  यद्यप्यस्मिन् द्वाविंशे त्रयोविंशे चतुर्विंशे च प्रकाशे न प्रबन्धस्य न वा प्रबन्धकराणंनामान्युपात्तानि। प्रत्युत प्रकाशान्तरेषु एतान्यदृष्टश्रुतानि कानि चिदभिधानाक्षराण्युपलम्यन्ते यथा—
+
+।                    ।                    ।
+।--------------------।--------------------।
+। अनङ्गवती           । मदालसाख्यायिका     ।
+। अब्धिमथनम्         । माधविका            ।
+। अभिसारिकावञ्चितकम् । मारीचवधः           ।
+। इन्दुलेखा          । मालतिका            ।
+। इन्दुमती           । मुकुटताडितकम्      ।
+। उदयनोदयः           । रतिविलासः          ।
+। उषाहरणम्           । रामचरितम्          ।
+। उदात्तराघवम्       । रामाभ्युदयम्       ।
+। कुन्दमाला          । राघवानन्दम्        ।
+। कुवलयाश्वचरितम्    । रामायणम्           ।
+। कृत्यारावणम्       । रावणवधः            ।
+। कृष्णचरितम्        । लक्ष्मीस्वयम्वरः   ।
+। चारुमती            । लीलावती            ।
+। चित्रलेखा          । विक्रान्तशूद्रकम्  ।
+। छलितराघवम्         । विनयवतीशूद्रकम्    ।
+। तापसवत्सराजम्      । शकुन्तिका          ।
+। त्रैलोक्यसुन्दरी   । शाखाविशाखोपयमम्    ।
+। दमयन्ती            । शूद्रककथा          ।
+। देवीचन्द्रगुप्तम्  । स्वप्नवासवदत्तम्   ।
+। पार्थविजयम्        । स्वयम्प्रभा        ।
+। फुल्लसकम्          । सुभद्राहरणम्       ।
+। बृन्दावनम्         । हयग्रीववधः         ।
+। बृहत्कथा           । हरविलासः           ।
+। भीमकुल्या          । हरिवंशः            ।
+। मत्स्यहसितम्       । हरिविजयः           ।
+। मलयवती             । हरिश्चन्द्रचरितम्। ।
+
+इत्यादि।
+
+
+
+**॥ ग्रन्थकर्तृनामानि ॥**
+
+।             ।                  ।
+।ः-----------:।ः----------------:।
+। धर्मकीर्तिः ।    विशाखदेवः    ।
+।   शाकल्यः   ।   विकटनितम्बा    ।
+।   वागुरिः   । पंचशिखः इत्यादि। ।
+
+
+
+**॥ इतिवृत्तविशेषलाभः ॥**
+
+इदमन्यदप्रतीतमेतावता महिततममितिवृत्तमुपलभ्यते अत्रैवाष्टमे प्रकाशे। यथा—“कालिदासः किं कुन्तलेश्वरः करोति इति विक्रमादित्येन पृष्ट उक्तवान्।
+
+**असकलहसितत्वात्क्षालितानीव कान्त्या  
+  मुकुलितनयनत्वाद्व्यक्तकर्णोत्पलानि।  
+पिबति मधुसुगन्धीन्याननानि प्रियाणां  
+त्वयि विनिहितभारः कुन्तलानामधीशः।**
+
+**इदमेवोहयित्वा विक्रमादित्यः प्रत्युवाच**
+
+**पिबति मधुसुगर्न्धान्याननानि प्रियाणां  
+  मयि विनिहितभारःकुन्तलानामधीशः।” इति॥**
+
+  इदमेवपद्य राजशेखरकृतायां साहित्यमीमांसायामप्युदाहृतमेकादशेऽध्याये। प्रत्युत प्रत्युत्तरवाक्ये “पिवति” इतिस्थाने “पिबतु” इति पाठो दृश्यते। क्षेमेन्द्रेण औचित्यविचारचर्चायां “यथा कुन्तेश्वरदौत्ये कालिदासस्य–इह निवसतिमेरुः” इति पद्यमुदाहृतम्। अत्र कुन्तलेश्वरदौत्य इति स्थाने कुन्तेश्वरदौत्य इति प्रामादिको लकारलोपपाठः। इतस्समुल्लिखन्तु दूरदर्शिनो महाकवेरितिवृत्तम्॥
+
+  यच्चान्यदपि भासकृतित्वेन “स्वप्नवासवदत्तम्” इतिनाम्ना अनन्तशयनराजधान्यां नाटकमेकं मुद्रितं तद्गतमेव समुद्रगृहकवृत्तान्तरूपंवस्तु अस्मिन्प्रबन्धे द्वादशे निरूपितम्।
+
+महाकवेर्विकटनितम्बाया अपि किमप्युन्मीलत्यपदानम्। यथा—
+
+पुनर्भूविषयो यथा—
+
+**के वैकटनितंबेन गिरो गुंभेन रञ्जिताः।  
+निन्दन्ति निजकान्ताना न मौग्ध्यमधुरं वचः॥**
+
+
+
+  इति पद्यं दृश्यते। इत्यादीन्यन्यान्यपदानानि प्रस्फुरन्ति। उच्चित्य प्रकाशान्तरभूमिकायामुदाहरिष्यन्ते।
+
+**त्रुटिपूरणतोऽनवद्यवर्ष्मा  
+  यदि जायेत कदाप्ययं प्रबन्धः।  
+मणयो जलधेरिवोज्जिहीर-  
+   न्नितिहासाः कृतिनामितःकृतीनाम्॥**
+
+**॥ कवेरपदानम् ॥**
+
+  एतत्कवेर्भोजदेवस्य कालदेशाद्यपदानं यथालाभं विस्तरेण प्रकाशान्तरभूमिकायांनिरूपयिष्यते। भोजनाम्ना बहवो राजानः ख्यायन्ते। तथापि प्रस्तुतग्रन्तकारमधिकृत्यअत्र किञ्चिदुन्मील्यते। सरस्वतीकण्ठाभरणस्य कर्ता अस्य च प्रकाशस्य एक एव। उभयोःप्रबन्धयोरवान्तरलक्षणोदाहरणादिभिः ग्रन्थनिगमनपद्याभ्यां च निश्चीयते। अस्मदीयोऽयंमहाराजःमालवमण्डलाधिपतिःबालरामायणसाहित्यमीमांसादिग्रन्थकारात् शालिवाहशकेदशमे निश्चितसद्भावात् राजशेकरादर्वाक्तनः, गणरत्नकारात् वर्धमानात् पूर्वतन इति वक्तुं पार्यते। यतोऽसौ राजशेखरपद्यान्युदाहरति। यं चैनंसरस्वतीकण्ठाभरणकारं स्वग्रन्थेवर्धमानोऽनुस्मर-ति, वर्धमानस्तु शालिवाहशके एकादशशतकोत्तरभाग आसीत्। एतेनैकादशशतकस्यादौ मध्येवा अथमवर्तिष्टेति प्रमेयसरणिः। भावप्रकाशकारशारदातनय, नामलिङ्गानुशासनटीकासर्वस्वकारसर्वानन्द, अलङ्कारसुधानिधिकारसायणादयः अस्मन्महाराजादर्वाक्तनाःतमनुस्मरन्ति। इति दिक्॥
+
+  इदमपरं प्राप्तावसरमनावेदितं यातयामं भवति। यत्तन्नाम—अस्य शृङ्गारप्रकाशस्य समुचितसंविधानसम्पादने, आकरमुद्रास्खलितशोधने च साधीयः साचिव्यं कृतवान्आ. रङ्गस्वामिसरस्वतीमहाशयःB.A. अनेन भर्मणा विदुषां संस्तवे संविभागमर्हति,अन्तरान्तरा सहकुर्वन् मञ्चालकट्टे कवितार्किकसिंहं गोबिन्दाचार्यपण्डितश्च स्मृतिमारोदुमर्हति। इति।
+
+  अयं तावदस्माकं मनोरथः। चिररात्रात्खिलीभूतं सुदुर्लभमिमं प्रबन्धं यथोपलम्भमशेषं संमुद्र्य सहृदयान्कृतिनस्समुपतिष्ठेमहीति। बहुधा कृतोऽपि प्रयत्नःधनसम्पत्तेस्तिरोहिततथा तटिल्लेखालायं लीयते। अनेके सङ्ख्यावन्तश्च ग्रन्थदिदृक्षाकदर्थिताः क्लिश्यन्तोऽवगम्यन्ते।
+
+
+
+  अत इयं सप्रणयोपग्रहा आशंसा। अपि नाम कश्चिदुदारः श्रीमान् प्रणयी एकःद्वित्राः त्रिचतुराः पञ्चषा वा धनसहायदानेनोपकुर्युः, अथ च चतुश्शतं त्रिशतं वा ग्राहकाः निरत्ययं निर्विचिकित्सं यथानिरूपितमूल्येन पुस्तकग्रहणं प्रतिजानीयुः। अपि नामेयंभारती भूतधात्री चिरन्तनसुकविसूक्तिप्रकाशप्रत्यूषमनुभावितुं उल्लसितदृष्टिरात्मानमुत्कधरयेत्। इति.
+
+**ध्वस्तैरौदरिकैस्तमःप्रकृतिभिर्दत्तः प्रकाशस्य यो-  
+  व्याघातः शमितः स तैस्सममितो दैवेन चक्षुष्मताम्।  
+लोकः सम्प्रति चक्षुषा प्रभवता सूर्याभिमुख्ये स्थितः  
+  सान्द्रामोदमनन्तमेतु परमं भोजप्रबन्धं भजन्॥**
+
+**एषा भोजकृता कृतिर्निरुपमा शृङ्गारनाडिन्धमा  
+  गुप्ता विश्रुतभूम्निकेरलधरासीम्नि प्रियंभावुकैः।  
+लब्धाद्य श्रितसह्यसम्भवसरित्कर्णाटनीवृद्भनी-  
+  श्रीखण्डद्रवचर्चिकेव परमामोदं विधत्तां सताम्॥**
+
+**श्रीयद्बद्रिशिखानिरूढभगवद्रामानुजोपक्रम-  
+  ख्यातश्रीयतिराजसन्मठपतेर्योगीशितुःकिङ्करः।  
+आलोक्योत्कलिकाममुद्रयदिमामस्तौञ्च सङ्ख्यावतां  
+  शृङ्गारप्रकृतिप्रकाशनपरां भोजस्य राज्ञः कृतिम्॥**
+
+
+
+**शृ ङ्गा र प्र का शे**
+
+**द्वाविंशः प्रकाशः**
+
+**अनुरागस्थापनः**
+
+**————**
+
+  इह खलु सकलसत्त्वोपकारक्षमद्वितीयाश्रमनिवासिभिश्चतुर्भिरपि वर्णैर्ब्राह्मणादिभिरुभयलोकसिद्धये सेव्यमानो धर्मार्थकामलक्षणस्त्रिवर्गः पुरुषार्थः।
+
+**एवमर्थं च कामं च धर्मं चाप्याचरन्नरः।  
+इहामुत्र च निश्शङ्कं सुखमत्यन्तमश्नुते॥**
+
+यथा च—
+
+**यस्य त्रिवर्गशून्यानि दिनान्यायान्ति यान्ति च।  
+स लोहकारभस्त्रेव श्वसन्नपि न जीवति॥**
+
+  तत्रापि धर्मार्थशृङ्गारयोर्हेतुभूतत्वात् कामशृङ्गार एव फलभूतत्वात्प्रधानम्। कामस्तुसामान्यरूपो विशेषरूपो वा सुखमेवाभिधीयत इत्युक्तं पुरस्तात् इह तूपचारात्।
+
+**सङ्कल्परमणीयस्य प्रीतिसम्भोगशोभिनः।  
+कु . . रस्याभिलाषस्य नाम काम इति स्मृतम्॥**
+
+**[अहेतुःपक्षपातो यस्तस्य नास्ति प्रतिक्रिया।  
+सहि स्नेहात्मकस्तन्तुरन्तर्भूतानि सीव्यति॥](# "इदं पद्यद्वयं भवभूतेः")**
+
+उक्तं च—
+
+**[व्यतिषजति पदार्थानान्तरः कोऽपि हेतु  
+  र्न खलु बहिरुपाधीन्प्रीतयः संश्रयन्ते।  
+विकसति हि पतङ्गस्योदये पुण्डरीकं  
+  द्रवति च हिमरश्मावुद्गते चन्द्रकान्तः॥](# "इदं पद्यद्वयं भवभूतेः")**
+
+
+
+तं चानुराग इत्याचक्षते. ततश्च—
+
+**न (अ)किञ्चिदपि कुर्वाणःसौख्यैर्दुःखान्यपोहति।  
+तत्तस्य किमपि द्रव्यं यो हि यस्य प्रियो जनः॥**
+
+**यदेव रोचते मह्यं तदेव कुरुते प्रिया।  
+इति वेत्ति न जानाति तत्प्रियं यत्करोति सा॥**
+
+**शून्यमाकीर्णतामेति तुल्यं व्यसनमुत्सवैः।  
+विप्रलम्भोऽपि लाभाय सति प्रियसमागमे॥**
+
+**तदा रम्याण्यरम्याणि प्रियाः शल्यं तदाऽसवः।  
+तदैकाकी सबन्धुस्सन्निष्टेन रहितो यदा॥**
+
+  तमभिलाषादिभेदात् ६४ चतुष्षष्टिप्रकारं व्याहरन्ति तद्यथा—
+
+।              ।                ।                ।                  ।
+।--------------।----------------।----------------।------------------।
+। १. अभिलाषः   । १७. आशा        । ३३. मोहः       । ४९. वात्सल्यं    ।
+। २. आकाङ्क्षा । १८. आशीः       । ३४. आकूतं      । ५०. अनुक्रोशः    ।
+। ३. अपेक्षा   । १९. आशंसा      । ३५. कुतूहलं    । ५१. विश्वासः     ।
+। ४. उत्कण्ठा  । २०. मनोरथः     । ३६. विस्मयः    । ५२. विस्रम्भः    ।
+। ५. ईप्सा     । २१. आस्था      । ३७. रागः       । ५३. भावः         ।
+। ६. लिप्सा    । २२. अभिनिवेश   । ३८. वेगः       । ५४. रागः         ।
+। ७. इच्छा     । २३. अनुबन्धः   । ३९. अध्यवसायः  । ५५. वशीकारः      ।
+। ८. वाञ्छा    । २४. आग्रहः     । ४०. व्यवसायः   । ५६. प्रणयः       ।
+। ९. तृष्णा    । २५. विमर्शः    । ४१. कामना      । ५७. प्राप्तिः    ।
+। १०. लालसा    । २६. मनीषा      । ४२. वासना      । ५८. पर्याप्तिः   ।
+। ११. स्पृहा   । २७. अभिप्रायः  । ४३. स्मरणं     । ५९. समाप्तिः     ।
+। १२. लौल्यं   । २८. पक्षपातः   । ४४. सङ्कल्पः   । ६०. अभिमानाप्तिः ।
+। १३. गर्धा    । २९. लोभः       । ४५. रतिः       । ६१. स्नेहः       ।
+। १४. श्रद्धा  । ३०. आसङ्गः     । ४६. प्रीतिः    । ६२. प्रेमा       ।
+। १५. रुचिः    । ३१. अभिष्वङ्गः । ४७. दाक्षिण्यं । ६३. आह्लादः      ।
+। १६. दोहदं    । ३२. सक्तिः     । ४८. अनुग्रहः   । ६४. निर्वृतिः    ।
+
+इति।
+
+
+
+**एते भेदाश्चतुष्षष्टिरनुरागस्य नामतः।  
+उदाहरणमालैषां रूपव्यक्यै निदर्श्यते॥**
+
+१. तत्र अभिलाषो यथा—
+
+**अनाघ्रातं पुष्पं किसलयमलूनं कररुहै  
+  रनाविद्धं रत्नं मधु नवमनास्वादितरसम्।  
+अखण्डं पुण्यानां फलमिव च तद्रूपमनघं  
+  न जाने भोक्तारं कमिह समुपस्थास्यति विधिः॥१॥**
+
+२. आकाङ्क्षा यथा—
+
+**[एक्कक्कमसंदेसाणुराअवढ्ढंतकोउहल्लाइं।](# "अन्योन्यसन्देशानुरागवर्धमानकौतूहलानि। दुःखमसमाप्तमनोरथानि तिष्ठन्ति मिथुनानि॥")  
+दुक्खं असमत्तमणोरहाइ अच्छंति मिहुणाइ॥२॥**
+
+३. अपेक्षा यथा—
+
+**[गेह्णह पलोअह इमं पहसिअवअणा पइस्स अप्पेइ।](# "गृह्णीत प्रलोकयत इमं प्रहसितवदना पत्युरर्पयति। जाया सुतप्रथमोद्भिन्नदन्तयुगलाङ्कितं बदरं॥")  
+जाआ सुअपढमुब्भिण्णदंतजुअलंकिअं बोरं॥३॥**
+
+४. उत्कण्ठा यथा—
+
+**[जं जं सो णिज्झाअइ अंगोआसं महं अणिमिसच्छो।](# "यं यं स निघ्यायति अङ्गावकाशं ममानिमिषाक्षः। प्रच्छादयामि च तं तं इच्छामि च तेन दृश्यमानम्॥")  
+पच्छाएमि अ तं तं इच्छमि अ तेण दीसंतं॥४॥**
+
+**[५–६–७](# "अत्र अनुरागभेदेषु ५.ईप्सा ६. लिप्सा ७.इच्छा एतेषां त्रयाणं उदाहरणपद्यानि गलितानि॥")**
+
+८. वाञ्छा यथा—
+
+**[वाञ्छाधौलिं करेउ जं जइ वेढवेल्लिअगणीए।](# "इयं गाधा अस्फुटा।")  
+बाअग्गंभुट्टुक्खित्तणीसहंगीए वि गइ . . .॥५॥**
+
+
+
+९. तृष्णा यथा—
+
+**[अविअह्णपेच्छणिज्जेण तक्खणं मामि तेण दिट्ठेण।](# "अवितृष्णप्रेक्षणीयेन तत्क्षणं मामि तेन दृष्टेन। स्वप्नपीतेनैव पानीयेन तृष्णैव न नष्टा॥")  
+सिविणअपीएण व पाणिएण तण्हाच्चिअ ण फिट्ठा॥६॥**
+
+१०. लालसा यथा—
+
+**[घडिऊरुसंपुडंणववहूए जहणं वरो पुलोएइ।](# "घटितोरुसंपुटंनववध्वा जघनं वरः प्रलोकयति। सन्दष्टनवकवाटं द्वारमिव स्वर्गनगरस्य॥")  
+संदट्ठणवकपाडं दारं पिव सग्गणअरस्स॥७॥**
+
+११. स्पृहा यथा—
+
+**[कस्स करो बहुपुण्णप्फलेक्कतरुणो तुहं विसंमिहइ।](# "कस्य करो बहुपुण्यफलैकतरोस्तव विश्रमिष्यति। स्तनपरिणाहे मन्मथनिधानकलश इव प्ररोहः॥")  
+थणपरिणाहे वंमहाणिहाणकलसेव्व पारोहो॥८॥**
+
+१२. लौल्यं यथा—
+
+**[जं चिअ वि पिआणणा विअ मस्स लोलइ सहि मुहे दिट्ठी।](# "अस्फुटं गाधाद्वयं")  
+लीलं रहस्सबहुलं सहो विअरेइ कामस्स॥९॥**
+
+१३. गर्धा यथा—
+
+**[धरिउं कह णतीकइ हअदिट्टी वल्लहेसु णिपडंति।](# "अस्फुटं गाधाद्वयं")  
+गाइव्व हारहाई सरसे जुववल्लरे लुद्धा॥१०॥**
+
+१४. श्रद्धा यथा—
+
+**[सद्धा मे तुज्झ पिअत्तणस्स कह तंति ण आणामो।](# "श्रद्धा मे तव प्रियत्वस्य कथं तादति न जानीमः। तत् प्रसीद त्वमेव शिक्षय यथा प्रिया भवामि॥")  
+दे पसिअ तुमं चिअ सिख्खवेसु जहए पिआ होमि॥११॥**
+
+१५. रुचिर्यथा—
+
+**[बालाओ गोंतिकोऊहलेण एमेअ पविलचिंताओ।](# "बालाः .... कौतूहलेन एवमेव ..... चिन्ताः।......हसित ..... पुनः निवसति मकरध्वजरहस्यम्॥")  
+दालहसिअधणीसु पुणो णिवसइ मअरद्धअरहस्सो॥१२॥**
+
+
+
+१६. दोहदो यथा—
+
+**[किं किं दे पडिहासइ सहीहि इअ पुच्छिआए मुद्धाए।](# "किं किं ते प्रतिभासते सखीभिरिति पृष्टाया मुग्धायाः। प्रथमोद्गतदोहदिन्याः केवलं दयितं गता दृष्टिः॥")  
+पडमुल्लअदोहलिणिए णवरं दइअं गआ दिट्ठी॥१३॥**
+
+१७. आशा यथा—
+
+**[णीआइ अज्ज णिक्किव पिणद्धणवरङ्गए वराईए।](# "नीतानि अद्य निष्कृप पिनद्धनवरङ्गकया वराक्या। गृहपरिपाट्या प्रफेनकानि तव दर्शनाशया॥")  
+घरपरिपाडीअ पहेणआइ तुह दंसणासाए॥१४॥**
+
+१८. आशीर्यथा—
+
+**जनः पुण्यैर्यायाज्जलधिजलभावं जलमुचः  
+  तथावस्थं चैनं निदधतु शुभैः शुक्तिवदने।  
+ततस्तां श्रेयोभिः परिणतिमसौ विन्दति यया  
+  रुचिं तन्वन् पीनस्तनि हृदि तवायं विलुठति॥१५॥**
+
+१९. आशंसा यथा—
+
+**[होज्जवणे सो दिअरहा जद्ध वि आमलिआ कुसुमधम्मिल्ला।](# "............................कुसुमधाम्मिल्ला। प्राप्ते रतावसाने पृच्छति प्रवासदुःखानि॥")  
+पत्ते रआवसाणे पुच्छिज्ज पवासदुक्खाइं॥१६॥**
+
+२०. मनोरथो यथा—
+
+**यथा श्रुतं वेदविदां वर त्वया  
+  जनोऽयमुच्चैःपदलङ्घनोत्सुकः।  
+तपः किलेदं तदवाप्तिसाधनं  
+  मनोरथानामगतिर्न विद्यते॥१७॥**
+
+२१. आस्था यथा—
+
+**सद्मनां विरचनाहितशोभै  
+  रागतः प्रियकथैरपि दूत्यम्।**
+
+
+
+**सन्निकृष्टरतिभिस्सुरदारै  
+   र्भूषितैरपि विभूषणमीषे॥१८॥**
+
+२२. अभिनिवेशो यथा—
+
+**[लोओ जूरइ जूरउ वअणिज्जं होइ होउ तं णाम।](# "लोकःखिद्यति खिद्यतु वचनीयं भवति भवतु तन्नाम। एहि निषीद पार्श्वे पुष्पवति नैति मे निद्रा।")  
+एहि णिमज्जसु पासे पुष्फवइ ण एइ मे णिद्दा॥१९॥**
+
+२३. अनुबन्धो यथा—
+
+**[गह्णइ कंठंम्मि बला चुंबई णअणाइ हरइ मे सिअअं।](# "गृह्णाति कण्ठे बला बति नयने हरति मे सिचयं। प्रथमसुरते रजनी परस्य एवमेवापक्रामति॥")  
+पढमसुरअम्मि रअणी परस्स एमेअ बोलेइ॥२०॥**
+
+२४. आग्रहो यथा—
+
+**[अज्ज मए गंतव्वं घणंवआरे वि तस्स सुहअस्स।](# "अद्य मया गन्तव्यं घनान्धकारेऽपि तस्य सुभगस्य। आर्या निमीलिताक्षी पदपरिपाटीं गृहे करोति॥")  
+अज्जा णिमीलअच्छी पअपरिवाडिंघरे कुणइ॥२१॥**
+
+२५. विमर्शो यथा—
+
+**कास्विदवकुण्ठनवती नातिपरिस्फुटशरीरलावण्या।  
+मध्ये तपोधनानां किसलयमिव भाति पाण्डुपत्राणाम्॥२२॥**
+
+२६. मनीषा यथा—
+
+**असंशयं क्षत्रपरिग्रहक्षमा  
+  यदार्यमस्यामभिलाषि मे मनः।  
+सतां हि सन्देहपदेषु वस्तुषु  
+  प्रमाणमन्तःकरणप्रवृत्तयः॥२३॥**
+
+
+
+२७. अभिप्रायो यथा—
+
+**[बालअ रे वंचिज्जसि लोलिरमहुआणसद्धपसराओ।](# "बालक रे वञ्च्यसे लोलितमधुपानश्रद्धा प्रसरात्। पुष्पवतीमुखच्चुंबनसहासकण्टग्रहसुखात्॥")  
+पुफ्फवईमुहचुंबणसहासकंठग्गहसुहाओ॥२४॥**
+
+२८. पक्षपातो यथा—
+
+**[वीसंभवड्ढिअरसं अइराअक्खलिअसेससंठ्ठिअरसणं।](# "विस्रंभवार्धितरसं अतिरागस्खलितशेषसंस्थितरशनं। विगलितमदेन निपुणं प्रत्यूषरतं प्रदोषदूराभ्यधिकं॥")  
+विअलिअमअपत्तट्ठं पच्चूसरअं पओसदूरब्भहिअं॥२५॥**
+
+२९. लोभो यथा—
+
+**[हुं हुं दे भणसु पुणो ण सुअंति करेइ कालविक्खेवं।](# "हुं हुं हेभण पुनः न ज्ञातमिति करोति कालविक्षेपं। गृहिणी हृदयसुखानि पत्युः कर्णे भणतः॥")  
+घरिणी हिअअसुहाइं पइणो कण्णे भणंतस्स॥२६॥**
+
+३०. आसङ्गो यथा—
+
+**सन्तापसन्ततिमहाव्यसनाय तस्या  
+  मासक्तमेतदनपेक्षितहेतु चेतः।  
+प्रायश्शुभं च विदधात्यशुभं च जन्तोः  
+  सर्वंकषा भगवती भवितव्यतैव॥२७॥**
+
+३१. अभिष्वङ्गोयथा—
+
+**[दढमूढबद्धगंठिं व मोइआ कहवि तेण मे बाहू।](# "दृढमूढबन्धग्रन्थी इव मोचितौ तेन कथमपि मे बाहू। अस्माभिरपि तस्योरसि खात इव समुत्खातौस्तनौ॥")  
+अह्मे विअ तस्सउरे खत्तव्व समुख्खआ धणआ॥२८॥**
+
+३२. सक्तिर्यथा—
+
+**[का. . क्खरदूसिक्खिअ बालअ रे एहि लग्ग कंठंमि।](# "...............दुश्शिक्षित बालक रे एहि लग कण्ठे। द्वयोरपि...............यदि भवति तद्भवतु॥")  
+दो वि ण अणिवासो सामअ ? जइ होइ ता होइ॥२९॥**
+
+
+
+३३. मोहो यथा—
+
+**[णीसासुक्कंपपुलोइएहिं जाणंति णच्चिउं धण्णा।](# "निश्वासोत्कंपितप्रलोकितैर्जानन्ति नर्तितुं धन्याः। अस्मादृशां दृष्टे प्रिये आत्मापि विस्मर्यते॥")  
+अंमारिसाण दिठ्ठे पिअंमि अप्पा वि पम्हसइ॥३०॥**
+
+३४. आकूतं यथा —
+
+**[ता छिवइ ता णिअच्छइ ता कुणइ रअंमि ताव चुंबेइ।](# "तावत् स्पृशति तावन्नियच्छति तावत्करोति रते तावच्चुंबति। अंगैः ...... पतिः कामोत्सवशीतलस्तस्याः॥")  
+अंगेहि कीरइ पई कामोत्तवसीअलो तिस्सा॥३१**
+
+३५. कुतूहलं यथा—
+
+**[असमत्तमंडणं चिअ वच्च घरं से सकोउहल्लस्स।](# "असमाप्तमण्डनैव व्रज गृहं तस्य सकौतूहलस्य अपक्रमितानुरागत्य पुत्रि चित्ते न लगिष्यसि॥")  
+बोलाविअहलहलअस्स पुत्ति चित्ते ण लग्गिहिसि॥३२**
+
+३६. विस्मयो यथा—
+
+**कमलमनम्भसि कमले कुवलयमेतानि कनकलतिकायाम्।  
+सापि सुकुमारसुभगेत्युत्पातपरम्परा केयम्॥३३**
+
+३७. रागो यथा—
+
+**[घरिणिघणत्थणपेल्लण सुहेल्लिपडिअस्स होंतपहिअस्स।](# "गृहिणीघनस्तनप्रेरणसुखकेलिपतितस्य भविष्यत्पथिकस्य अपशकुनाङ्गारकवार विष्टि दिवसास्सुखयन्ति॥")  
+अवसउणंगारअवारविट्ठिदिअहा सुहावेंति॥३४**
+
+३८. वेगो यथा—
+
+**[जाणामि जणो णिउणो गुरुअणमज्झम्मि संठिआ अ अहं।](# "जानामि जनो निपुणो गुरुजनमध्ये संस्थिता चाहं। तत्किं करोमि प्रियसखि घृतापि बलाद्वलते दृष्टिः॥")  
+ता किं करोमि पिअसहि धरिआ वि बला वलइ दिट्ठी॥३५**
+
+३९. अध्यवसायो यथा—
+
+**समानप्रेमाणं जनमसुलभं प्रार्थितवतो  
+  विधौ वामारंभे मम समुचितैषा परिणतिः।**
+
+
+
+**तथाप्येवं निन्दाश्रवणसमयेऽस्याः प्रविगल-  
+  त्प्रभं प्रातश्चन्द्रद्युति वदनमन्तर्दहति माम्॥३६॥**
+
+४०. व्यवसायो यथा—
+
+**[तस्स अ सोहग्गगुणं अमहिलसरिसं अ साहसं मज्झ।](# "तस्य च सौभाग्यगुणं अमहिलासदृशं च साहसं मम। जानाति गोदापूरोवर्षारात्रार्धरात्रश्च॥[प्रहर्षः॥")  
+जाणइ गोलाऊरो वासारत्तद्धरत्तो अ॥३७॥**
+
+४१. कामना यथा—
+
+**[अछछीहिं चिअ सा तेण पिअअमाणेह णिब्भरमणेण।](# "अस्फुटा गाधा।")  
+आहासिअं व दोहिअव्व रमिअरमिअवचीअंब॥३८॥**
+
+४२. वासना यथा—
+
+**[आणिअपुलउब्भओ सवत्तिपणअपडिपूरणंमि वि गरुए।](# "आनीतपुलकोद्भेदस्सपत्नीप्रणयप्रतिपूरणेपि गुरुणि। प्रियदर्शने प्रवर्तते म (न्तु)न्युस्थानेऽपि रुक्मिण्याः")  
+पिअदंसणे पवट्टइ मंतुट्ठाणे वि रुप्पिणीए पहरिसो॥३९॥**
+
+४३. स्मरणं यथा—
+
+**[म्हरिमो से सअणपरंमुहीए विअलंतमाणपसराए।](# "स्मरामस्तस्याश्शयनपराङ्मुख्या विगलन्मानप्रसरायाः। कैतवसुप्तोद्वर्तनस्तनकलशप्रेरण सुखकेलिम्॥")  
+कइअवसुत्तुव्वत्तणथणकलसप्पेललणसुहेलिंल॥४०॥**
+
+४४. सङ्कल्पो यथा—
+
+**[विहिते कारागारे मनसि ससूचीमुखाग्रनिर्भेद्यम्।](# "पिहिते कारागारे तमसि च सूचीमुखाग्रनिर्भेद्ये। मयि च निमीलितनयने तथापि कान्ताननं व्यक्तम्॥ —इति साधुःपाठः॥")  
+अपिच निमीलितनयने तथापि कान्ताननं व्यक्तम्॥४१॥**
+
+
+
+**अस्मिन् पुटे footnote स्पष्टता नास्ति**
+
+[४५. भावो यथा—](# "२ पुटे अभिलपादानां नमिहेशपागेपाट्यां रतिः ४५ त्वेन, प्रीतिः ४६ त्वेन निर्दिष्टे। भावः ५३ त्वेनगगः ५४ त्वेन समुल्लिखितौ स्तः। उदाहरणानुक्रमण्यां पुनरत्र भावो रागश्च ४५, ४६ त्वेननिवेशितौउदाहतौच रतिप्रीती तु ४७-१८ त्वेन निवेश्य अन्यत्सर्वं उपरितनं प्रभेदजातं यथोद्देशंसमसाध्यतउदाहरणाधानां समन्वयः सुधीमिरुन्नेयः। अभिलापादिनिर्वृत्वन्तेषु ६४ अनुरागप्रभेदेषुरागःइत्यभिन्नाक्षरं नाम ३८ तमायां ४३ च तमायां च सङ्ख्यायां द्विवारं लिखितं दृश्यते। तत् सूक्ष्मधियो विभावयन्तु अस्य प्रबन्धस्य एकमान्कतया यथोपलंभं निवेशितान्यक्षराणि।")
+
+**[दिट्ठे जं पुलइज्जसि धरहरसि पिअंमि जं समासण्णे।](# "दृष्टे यत्पुलकिंप्यमि धग्धसि प्रिये यत्समासने। तथा संभाषणखेदद्रि स्पर्शने किमपि लज्जिप्यसे॥")  
+तह संभासणसेउल्लि फंसणे किं विलज्जिहिसि॥४२॥**
+
+४६. रागों यथा—
+
+**[तह तीए सुहरसो पहरिसो अ मुहपंकअंमि पप्फुरिओ।](# "तथा तम्याः सुवरसः प्रहपेश्व मुखपङ्कजं अस्फुरितः समयं यथा......आर्द्रेजाते अक्षीणी॥")  
+समअं जह वि असिअमोल्लिआइ जाआइ अछ्छीइ॥४३॥**
+
+४७. रतिर्यथा—
+
+**[अच्छेरं व णिहिं विअ सग्गे रजं व अमअपाणं व।](# "आधर्यमिव निधिमिव स्वर्गे राज्यमिव अमृतपानमिवआसीन्मन तन्मुहूर्त विनिवसनदर्शनं तस्याः॥")  
+आसि मह तं मुहुत्तं विणिअंसणदंसणं तिस्सा॥४४॥**
+
+४८. प्रीतिर्यथा—
+
+**[अविहाविअक्खरवआ चिरेण अणुबंधपुछिछअपलत्ता।](# "अविभाविताक्षरवचनःचिरेण अनुबन्धपुत्र........नववधूप्रथनोल्लपा वरस्य हृदये न मान्ति॥")  
+णववहुपडमुल्लावा वरस्स हिअए ण माएंति॥४५॥**
+
+४९. दाक्षिण्यं यथा—
+
+**[णवबहुपेमतणुइओ पणअं पढमघरिणीए रक्खन्तो।](# "नववधप्रेमतनुकृतः प्रणयं प्रथमगृहिण्याः रक्षन्। अलिसितराकपमपि नयत्यरणयं धनुर्व्याधः॥")  
+अलिहिअदुप्परिअल्ललं पि णेइ रण्णं धणुं वाहो॥४६॥**
+
+
+
+५०. अनुग्रहो यथा—
+
+**[खिण्णस्स उरे पइणो ठवेइ गिम्हावरण्हरमिअस्स।](# "खिन्नस्योरसि पत्युस्स्थापयति ग्रीष्मापराण्हरमितस्य। आर्द्रं गलत्पुष्पं स्नानसुगन्धं चिकुरभारम्॥")  
+ओल्लं गलंतपुष्पं ण्हाणसुअंधं चिहुरभारं॥४७॥**
+
+५१. वात्सल्यं यथा—
+
+**[झत्ति समुट्ठिअमणहरिसिरिवअणविलाससंभमाउलिअं।](# "झटिति समुत्थितमनोहरश्रीवदन विलाससंभ्रमाकुलितं। भुजयुगलगृहीतनिष्पन्दमन्दरं नमत मधुमथनं॥")  
+भुअजुअलगहिअणिप्पंदमंदरं णमह महुमहणं॥४८॥**
+
+५२. अनुक्रोशो यथा—
+
+**[गज्ज महच्चिअ उअरिं सव्वत्थामेण लोहहिअअस्स।](# "गर्ज ममैवोपरि सर्वस्थाम्ना लोहहृदयस्य। जलधर लंबालकां मा रे मारयिष्यसि वराकीम्॥")  
+जलहर लंबालइअं मा रे मारेहिसि वराइं॥४९॥**
+
+५३. विश्वासो यथा—
+
+**[केलीगोत्तक्खलणे वरस्स दुटठुल्ल....रदीहिं देइ।](# "केलीगोत्रस्खलने वरस्य........................। बधूवासकवासगृहे वध्वा बाष्पार्द्रिता दृष्टिः॥")  
+बहुवासअवासहरे बहुए वाहुल्लिआ दिट्ठी॥५०॥**
+
+५४. विस्रम्भो यथा—
+
+**[समअणणअणालोअणसच्चविअण्णोण्णमणहरा (ला) आवो।](# "समदननयनालोकन सत्यापितान्योन्यमनोहरालापः। प्रत्यूषरतविलासो विस्रंभं कथयति मिथुनानाम्॥")  
+पच्चूसरअविलासो वीसंभं कहइ मिहुणाण॥५१॥**
+
+५५. वशीकारोयथा—
+
+**[सालोए च्चिअ सूरे घरिणी घरसामिअस्स घेत्तूण।](# "सालोक एव सूर्ये गृहिणी गृहस्वामिनो गृहीत्वा। अनिच्छतोऽपि पादौ धावति हसन्ती हसतः॥")  
+णेच्छंतस्स वि पाए धुआइ हसंती हसंतस्स॥५२॥**
+
+
+
+५६. प्रणयो यथा—
+
+**[एक्कं पहरुव्विण्णं हत्थं मुहमारुएण वीअंतो।](# "एकं प्रहारोद्विग्नं हस्तं मुखमारुतेन वाजयन्। सोऽपि हसन्त्या मया गृहीतो द्वितीयेन कंठे॥")  
+सो वि हसंतीएँ मएँ गहिओ बीएण कंठम्मि॥५३॥**
+
+५७. प्राप्तिर्यथा—
+
+**[हंहो कण्णुल्लीणा भणामि रे सुहअ किं पि मा तूर।](# "हंहो........भणामि रे सुभग किमपि मा त्वर। निर्जनपानगोष्टीसङ्कटे पुण्यैर्लब्धोऽसि॥")  
+णिज्जणपाणट्ठीसंकडम्मि पुण्णेहि लद्धोसि॥५४॥**
+
+५८. पर्याप्तिर्यथा—
+
+**[एएण च्चिअ पिअसहि पज्जत्तिंति ण माणुसे लोए।](# "एतेनैव प्रियसखि........... मानुषे लोके। यत्तस्य कृते एषा क्लिष्टेति सर्वो जनो भणति॥")  
+जं तस्स कए एसा किलसत्ति सव्वो जणो भणइ॥५५॥**
+
+५९. समाप्तिर्यथा—
+
+**[असमत्तचित्तल ................ वपाउवो ससिमुहीए।](# "असमर्थचित्त....................शशिमुख्याः। मुख..................अक्षियुगम्॥")  
+मुहअंगो पज्जंतरहमभु......सवतिडत्तमुहकुली अच्छिजुओ॥५६॥**
+
+६०. अभिमानाप्तिर्यथा—
+
+**[सव्वस्सम्मि वि दड्ढे तह वि हु हिअअस्स णिव्बुदिच्चेअ।](# "सर्वस्वेऽपि दग्धे तथापि (खलु)हृदयस्य निर्वृतिरेव। यत्तेन ग्रामदाहे हस्ताहस्तिकया कुटो गृहीतः॥")  
+जं तेण गामडाहे हथ्थाहथ्थिं कुडो गहिओ॥५७॥**
+
+६१. स्नेहो यथा—
+
+**[हिअअब्मंतरपसरंतणेहरसविसरआ पुरओ।](# "हृदयाभ्यन्तरप्रसरत्वेहरसविसरा पुरः। प्रियदर्शने दृष्टिः .............नवकु......दले इव।")  
+पिअदंसणंमि दिट्ठी मंचणउणवकुदलाइ व्व॥५८॥**
+
+
+
+६२. प्रेम यथा—
+
+**[माए कज्जा कंचो फलसंपत्तीए होंति विणिअत्ता।](# "मातः........फलसंपत्या भवन्ति विनि.....। न समाप्यन्ते... समस्ता अपि दग्धप्रेम्णः व्यापाराः॥")  
+णसमप्पंति समन्ता वि दड्ढपेम्मस्स वावारा॥५९**
+
+६३. आह्लादो यथा—
+
+**[अच्च उ ताव मणहरं पिआए मुहदंसणं अइमहग्घं।](# "अस्तु तावन्मनोहरं प्रियाया मुखदर्शनमतिमहार्घं। तद्ग्रामक्षेत्रसीमापि झटिति दृष्टा सुखयति॥")  
+तग्गामछेत्तसीमा वि झत्ति दिठ्ठा सुहावेइ॥६०**
+
+६४. निर्वृतिर्यथा—
+
+**[दक्खिण्णेण वि एंतो सुहअ सूहावेसि अंह हिअआइं।](# "दाक्षिण्येनाप्यायन् सुभग सुखयस्यस्माकं हृदयानि। निष्कैतवेन रक्तोऽसि यासां का निर्वृतिस्तासाम्॥")  
+णिक्कइअवाउरत्तो सि जाण का णिव्वुई ताणं॥६१**
+
+सोऽयमनुरागः ६४ चतुष्षष्टिप्रकारोऽपि प्रतिप्रकारं अष्टाधा संभवति.
+
+।                       ।                       ।                       ।
+।-----------------------।-----------------------।-----------------------।
+। १—१. नित्यानुरागः,    । १—४. विशेषानुरागः,    । १—७. अकृत्रिमानुरागः, ।
+। १—२. नैमित्तिकानुरागः । १—५. प्रकाशानुरागः,   । १—८. कृत्रिमानुरागः,  ।
+। १—३. सामान्यानुरागः,  । १—६. प्रच्छन्नानुरागः ।                      ।
+
+इति.
+
+तेषु
+
+।                                     ।                                              ।
+।-------------------------------------।----------------------------------------------।
+। १—१. कालादिकारणविशेषानपेक्षो नित्यः । १—५. स्वाङ्गनादिगोचरः प्रकाशः                ।
+। १—२. तद्विपरीतो नैमित्तिकः,         । १—६. पराङ्गनादिविषयः प्रच्छन्नः              ।
+। १—३. जातिविषयस्सामान्यः,            । १—७. प्रयोजननिरपेक्षोऽकृत्रिमः               ।
+। १—४. व्यक्तिविषयो विशेषः            । १—८. तद्विपरीतः प्रयत्ननिर्वर्त्यः कृत्रिमः, ।
+
+  तत्र नित्यः—विषया, श्रया, लंबनो, द्दीपन, स्थान, संस्थान, रूप, स्वरूपाणांपृथक् त्रैविध्यात् २४ चतुर्विंशतिधा—तत्र अनुरागो यस्मिन्नुपजायते स विषयः, यस्य जायते स आश्रयः। यदालंबते तदालंबनम्। यदुद्दीपयति तदुद्दीपनम्। यत्र अवतिष्ठतेतत् स्थानम्। येन सुश्लिष्टो भवति तत् संस्थानम्। येन शोभते तत् रूपम्। येन निरूप्यतेतत् स्वरूपम्।
+
+तेषु १–१–१. विषयानुरागः ^((क)) उच्चः, ^((ख)) निम्नः,^((ग)) समः, इति.  
+   १–१–२. आश्रयानुरागः–^((क)) उत्तमः, ^((ख)) मध्यमः, ^((ग)) कनीयान्, इति.
+
+
+
+१–१–३. आलंबनानुरागः—^((क))शीघ्रः, ^((ख))मध्यमः, ^((ग))चिरः, इति.  
+१–१–४. उद्दीपनानुरागः—^((क))मृदुः, ^((ख))मध्यः, ^((ग))चण्डः, इति.  
+१–१–५. स्थानानुरागः—^((क))मदृक्, ^((ख))विसदृशः, ^((ग))असदृक्षः, इति.  
+१–१–६. संस्थानानुरागः—^((क))सम्यक्, ^((ख))मिथ्या, ^((ग))अतिशायी, इति.  
+१–१–७. रूपानुरागः—^((क))चारुः, ^((ख))अचारुः, ^((ग))उभयात्मा, इति.  
+१–१–८. स्वरूपानुरागः—^((क))गभीरः, ^((ख))उत्कटः, ^((ग))प्रकटः, इति.
+
+तत्र १–१–१.^((क))उच्चजातौय उपजायते स उच्चः यथा—
+
+**[केलीगब्भसरिच्छे ऊरू दटठूण हलिअसोण्हाए।](# "कदलीगर्भसदृक्षे ऊरु दृष्ट्वाहालिकस्तुपायाः। उल्लसति... नखरचटुलस्य स्वेदार्द्रकरस्य॥")  
+उल्लसइ....णहरणंचडुलस्स सेओल्लिअकरस्स॥६२॥**
+
+१–१–१.^((ख)) निम्नजातौनिम्नः यथा—
+
+**[गोलाणई ण तूहे मोहं विअ कुरुअरंतभग्गस्स।](# "गोदानदी......मोघमिव.........। वधूमुग्वप्रेक्षणशीलस्य न समाप्यते सन्ध्या॥")  
+सोद्धअधूआमुहपेच्छिरस्स ण समप्पए संज्झा॥६३॥**
+
+१–१–१.^((ग)) समजातौ समः यथा—
+
+**[संकेअऊसुअमणोगहवइधूआकलक्खसच्चविओ।](# "संकेतोत्सुकमनोगृहपतिस्नुपाकटाक्षसत्वापितः।.....गतं नवेत्ति व्रीडयोगं परं...... ॥")  
+तं बं गअं ण वेअइ वीडाओअं परं दुहुइ॥६४॥**
+
+१–१–२.^((क)) स्त्रीपुंसयोः परस्परानुरागे उत्तनो यथा—
+
+**[रमिऊण पअं वि गओ जाहे उवऊहिउं पडिणिउत्तो।](# "रन्त्वा पदमपि गतौयदीपगूहितुं प्रतिनिवृत्तः। अहं प्रोषितपतिकेवतत्क्षणं स प्रवासीव॥")  
+अहअं पउत्थपइए व्वतक्खणं सो पवासिव्व॥६५॥**
+
+१–१–२.^((ख)) योपिदनुरागे मध्यमो यथा—
+
+**[सा तुइ सहथ्थदिण्णं अज्ज वि ओ सुहअ गंघरहिअं पि।](# "सा त्वया स्वहस्तदत्तामद्यापि रे सुभग गन्धरहितामपि। उद्वसितनगरगृहदेवतेव नव मालिकां वहति॥")  
+उव्वसिअणअरघरदेवदव्व णोमालिअं वहइ॥६६****॥**
+
+
+
+१–१–२.^((ग)) पुरुषानुरागे कनीयान् यथा—
+
+**[सो तुह कएण सुंदरि तह छीणो सुमहिलो हलिअउत्तो।](# "स तव कृतेन सुन्दरि तथा क्षीणस्सुमहिलो हालिकपुत्रः। यथा तस्य मत्सरिण्यापि दूत्यं जायया [प्रतिपन्नम्॥")  
+जह से मच्चरिणीए वि दोच्चं जाआए पडिवण्णम्॥६७॥**
+
+१–१–३.^((क)) प्रकृतिवशाज्जने शीघ्रं कालमालम्वमानः शीघ्रः यथा—
+
+**[हत्थप्फंसेण जरग्गई वि पण्हवइ दोहअगुणेण।](# "हस्तस्पर्शन जरद्गव्यपि प्रस्नौति दोहदगुणेन। अवलोकनप्रश्नवशीलां पुत्रक दुःखैः प्राप्स्यसि॥")  
+अवलोइअपण्हइरी पुत्तअ दुक्खेहि पाविहिसि॥६८॥**
+
+१–१–३.^((ख)) मध्यकालालम्बनो मध्यः स यथा—
+
+**चलापाङ्ग दृष्टिं स्पृशसि बहुशो वेपथुमर्ती  
+  रहस्याख्यायीव स्वनसि मृदु कर्णान्तिकचरः।  
+करं व्याधुन्वत्याः पिबसि रतिसर्वस्वमधरं  
+  वयं तत्त्वान्वेषान्मधुकर हतास्त्वं खलु कृती॥६९॥**
+
+१–१–३.^((ग)) चिरकालालम्बनः चिरः, स यथा—
+
+**न वेद्मिस प्रार्थितदुर्लभः कदा  
+  सखीभिरस्रान्तरवीक्षितामिमाम्।  
+तपःकृशामभ्युपपत्स्यते सखीं  
+  वृषेव सीतां तदवग्रहक्षतां॥७०॥**
+
+१–१–४.^((क)) रागानुगुण्यान्मृदूपक्रमो मृदुः स यथा—
+
+**मन्दमन्दविगलत्त्रपमीष-  
+  च्चक्षुरुल्लसितपक्ष्म दधत्या।  
+वीक्ष्यते च शनकैर्नववध्वा  
+  कामिनो मुखमधोमुखयैव॥७१॥**
+
+
+
+१–१–४.^((ख))मध्योपक्रमो मध्यः, स यथा—
+
+**लोलदृष्टि वदनं दयितायाः  
+  चुम्बति प्रियतमे रभसेन।  
+व्रीलया सह विनीवि नितम्बा-  
+  दंशुकं शिथिलतामुपपेदे॥७२॥**
+
+१–१–४.^((ग)) चण्डोपक्रमःचण्डः यथा—
+
+**धन्याः स्थ याः कथयथ प्रियसङ्गमेऽपि  
+  विस्रध्बचाटुकशतानि रतान्तरेषु।  
+नीवीं प्रति प्रणिहितश्च करः प्रियेण  
+  सख्यः शपामि यदि किञ्चिदपि स्मरामि॥७३॥**
+
+१–१–५.^((क)) गुणाधिके पुंनि योपिति वा समुपजायपातःसदृक् यथा—
+
+**स्थाने तपो दुश्चरमेतदर्थं  
+  अपर्णया कोमलयाऽपि तप्तम्।  
+या दास्यमप्यस्य लभेत नारी  
+  सा स्यात्कृतार्थाकिमुताङ्कशय्याम्॥७४॥**
+
+१–१–५.^((ख)) तद्विपरीतो विसदृशः यथा—
+
+**परवत्यपरिच्छदे कपौ  
+  कृपणेऽस्मिन्मयि कोऽयमादरः।  
+मृगयस्व मृगेक्षणे कम-  
+  प्यनुरूपं विसदृङ्न शोभते॥७५॥**
+
+१–१–५.^((ग)) गुणानामेकस्य भूयस्त्वे परस्य च अल्पीयस्त्वेतत् असदृक्षः यथा—
+
+**इदमिह मदनस्य जैत्रमस्त्रं  
+  सहजविलासनिबन्धनं शरीरम्।**
+
+
+
+**असदृशवरसम्प्रयोगशोच्यं  
+  विफलगुणातिशयं भविष्यतिती॥**
+
+१–१–६.^((क)) परस्परस्यानुरागादिसाम्ये सम्यक् यथा—
+
+**[समपेम्मरसं समरूपजव्वणं समविलासवेअड्ढिं।](# "समप्रेमरसं समरूपयौवनं समविलासवैदग्ध्यं। समसुखदुःखं च जनं समपुण्यो यदि जनो लभते॥")  
+समसुहदुक्खं अ जणं समपुण्णो जइ जणो लहइ॥७७**
+
+१–१–६.^((ख)) एकस्य प्रातिकूल्ये मिथ्या यथा—
+
+**[अब्भत्थणं ण गेह्णइ तीरइ तिहुअणसिरीअ वि ण लोहेउं।](# "अभ्यर्थनां न गृह्णाति शक्यते त्रिभुवनश्रियापि न लोभयितुं। न गणयति शरीरभगं कथं मन्ये भवे- [ज्जानकी सानुनया॥")  
+ण गणेइ सरीरभअं कह मण्णे होज्ज जाणई साणुणआ॥७८**
+
+१–१–६.^((ग)) एकस्यातिशयाधिक्ये अतिशायी यथा—
+
+**[दिठ्ठा कुइआणुणआ पिआ सहस्सधणपेल्लणं वि सहिअं।](# "दृष्टा....तानुनया प्रिया सहस्रस्तनप्रेरणमपि स्रोढं। यस्य निषण्णाया उरसि श्रियःप्रेम्णा लघूकृत आत्मा॥")  
+जस्स णिसण्णाए उरे सिरीए पेम्मेण लहइओ अप्पाणो॥७९**
+
+१–१–७.^((क)) वयोरूपजात्यादीनां परभागे चारुः यथा—
+
+**इन्दीवरश्यामतनुर्नृपोऽसौ  
+  त्वं रोचनागौरशरीरयष्टिः।  
+अन्योन्यशोभापरिवृद्धये वां  
+  योगस्तटित्तोयदयोरिवास्तु॥**
+
+१–१–७.^((ख)) तद्विपर्यये अचारुः, यथा—
+
+**राज्ञः प्रियाय सुहृदे सचिवाय कार्या-  
+  द्दत्वात्मजां भवति निर्वृतिमानमात्यः।**
+
+
+
+**दुर्दर्शनेन घटतामियमप्यनेन  
+  धूमग्रहेण विमला शशिनः कलेव॥८१॥**
+
+१–१–७.^((ग)) गुणदोषयोः सद्भावे उभयात्मा यथा—
+
+**आज्ञा शक्रशिखामणिप्रणयिनी शास्त्राणि चक्षुर्नवं  
+  भक्तिर्भूतपतौ पिनाकिनि पदं लङ्केति दिव्या पुरी।  
+उत्पत्तिर्द्रुहिणान्वये च तदहो नेदृग्वरो लभ्यते  
+  स्याच्चेदेष न रावणः क्वनु पुनः सर्वत्र सर्वे गुणाः॥८२॥**
+
+१–१–८.^((क)) अप्रकाशो गभीरः, यथा—
+
+**[तुह दंसणसंजणिओ इमीए लज्जालुईए अणुराओ।](# "तव दर्शनसंजनितोऽस्या लज्जालोरनुरागः। दुर्गतमनोरथ इव हृदय एव याति परिणामम्॥")  
+दुग्गअमणोरहो विअ हिअएच्चिअ जाइ परिणामं॥८३॥**
+
+१–१–८.^((ख)) नातिप्रकाशोऽनुत्कटः, यथा—
+
+**अभिमुखे मयि संहृतमीक्षितं  
+  हसितमन्यनिमित्तकृतोदयम्।  
+निवयवारितवृत्तिरितस्तया  
+  न विवृतो मदनो न च संवृतः॥८४॥**
+
+१–१–८.^((ग)) अतिप्रकाशः प्रकटः यथा—
+
+**[इअरो जणो ण आणइ घण्णाण सुसंजआइ पेम्माइं।](# "इतरोजनो न जानाति अन्यानां सज्जितानि प्रेमाणि।......मनोरथा दुःखदा न रथ्यासु गायन्ति॥")  
+अमहं मणोरहा दुंखआ ण रच्छासु गिज्जंति॥८५॥**
+
+** ** अथ १—२. नैमित्तिकानुरागः—सोपि २४ चतुर्विंशतिधा—काल–समय–वेलो–पाधि–साधन–समावेश–देश–प्रकीर्णक–त्रैविध्यात्।
+
+
+
+ तेषु १–२–१. कालः—हेमन्तवसन्तवर्षादिः। तन्निमित्वः—  
+      १-२-१.^((क))हैमन्तिकः, १-२-१^((ख))वासन्तिकः, १-२-१.^((ग)) वार्षिकः.
+
+१–२–२. समयः—प्रवासारंभ, प्रत्यागम, प्रथमसङ्गमादिः। तन्निमित्तः—  
+  १-२-२. ^((क)) प्रावासिकः, १-२-२^((ख)) प्रात्यागमिकः, १-२-२.^((ग)) प्राथमसङ्गिकः.
+
+१–२–३. वेला— प्रदोषः, निशीथः, प्रभातम्, इति। तन्निमित्तः—  
+  १-२-३^((क)) प्रादोषिकः, १-२-३^((ख)) नैशीथः, १-२-३.^((ग)) प्राभांतिकः.
+
+१–२–४. उपाधिः—तमः, चन्द्रोदयः, ज्योत्स्ना, इति। [(तन्निमित्तः—](# "अत्र कुण्डलान्तर्गतं विवरणवाक्यं गलितं। उत्तरत्र उदाहरणस्थलानु रोधेन योजितान्यक्षराणि॥")  
+  १-२-४^((क)) तामसः, १-२-४^((ख)) चान्द्रोदयः, १-२-४.^((ग)) ज्योत्स्नाः.)
+
+१–२–५. साधनम्—स्नानम्, विलेपनम्, माल्यम्, इति। तन्निमित्तः—  
+  १-२-५.^((क))स्नानीयः, १-२-५.^((ख)) विलेपनीयः, १-२-२.^((ग)) माल्यीयः इति.
+
+१–२–६. सक्तिस्समावेशः—उपसरः, प्रासादः, मदः, इति। तन्निमित्तः—  
+  १-२-६.^((क)) औपसरः, १-२-६^((ख)) प्रासादिकः, १-२-६.^((ग)) मदजः इति.
+
+१–२–७. देशः—विविक्तः, गहनः, सेव्यः, इति। तन्निमित्तः—  
+  १-२-७.^((क)) विविक्तनिमित्तः, १-२-७^((ख)) गहनानिमित्तः, १-२-७.^((ग)) सेव्यनिमित्तः इति.
+
+१–२–८. गीतम्, उत्सवः, चूतादयः इति प्रकीर्णकानि। तन्निमित्तः—  
+ 
+१-२-८.[^((क))](# "अत्र (क) प्रभेदनाम्नि “निवसन” इति, (ग) प्रभेदनाम्नि “क्षणप्रभवः” इति मातृकायां दृश्यते उदाहरणनिरूपणानुसारेण उद्देशवाक्ये निवेशितानि नामाक्षराणि।")गीतनिमित्तः, १-२-८.^((ख)) औत्सवः, १-२-८.[^((ग))](# "अत्र (क) प्रभेदनाम्नि “निवसन” इति, (ग) प्रभेदनाम्नि “क्षणप्रभवः” इति मातृकायां दृश्यते उदाहरणनिरूपणानुसारेण उद्देशवाक्ये निवेशितानि नामाक्षराणि।")चूतादिनिमित्तः इति.
+
+१–२–१. ^((क))हैमन्तिको यथा—
+
+**[कस्स ण सद्धा गरुअत्तणमि पइणा पसज्जमाणस्स।](# "कस्य न श्रद्धा गुरुत्वे पत्या प्रसाद्यमानस्य। यदि मानभजिन्यो न भवन्ति हेमन्तरात्रयः।")  
+जइ माणभञ्जणीओ ण होति हेमंतराईओ॥**
+
+
+
+१–२–१.^((ख)) वासन्तिको यथा—
+
+**[दीसइ ण चुअमुउलं अत्ताण अ वाइ मलअगंधवहो।](# "दृश्यते न चूतमुकुलं श्वश्रु न च वाति मलयगन्धवहः। प्राप्तं वसन्तमासं कथयत्युत्कण्ठितमेव॥")  
+एअं वसंतमासं साहइ उक्कंठओ च्चेअ॥८७॥**
+
+१–२–१.^((ग)) वार्षिको यथा—
+
+**[जं मुच्छिआए ण सुओ कलंबगंधेण तग्गुणे पडिओ।](# "यन्मूर्च्छितया न श्रुतः कदंबगन्धेन तद्गुणे पतितः। इतरथा गर्जितशब्दो जीवेन विना नापका[(मति) न्तः॥")  
+इहरा गज्जिअसद्दो जीएण विणा ण बोलंतो॥८८॥**
+
+१–२–२.^((क)) प्रावासिको यथा—
+
+**[कल्लं किर खरहिअओ पवसिहिइ पिओत्ति सुव्वइ जणम्मि।](# "कल्यं किल खरहृदयः प्रवत्स्यति प्रिय इति श्रूयते जने। तथा बर्षस्व भगवति निशे यथा तस्य [कल्यमेव न भवति॥")  
+तह् वड्ढ भअवइ णिसे जह से कल्लं चिअ ण होइ॥८९॥**
+
+१–२–२.^((ख)) प्रात्यागमिको यथा—
+
+**[सहसा मा सहिप्पइ पिआगमो तीए विरहकिसिआए।](# "सहसा मा स......प्रियागमस्तस्या विरहकृशायाः। अत्यन्तप्रहर्षाया.......................॥")  
+अच्चंतपहरिसीए वीजामआसामअच्चेअ॥९०॥**
+
+१–२–२.^((ग)) प्राथमसङ्गमिको यथा—
+
+**[धरहरइ ऊरुजुअलं झिज्जइ वअणं ससज्झसं हिअअं।](# "धरधरायते ऊरुयुगलं......वचनं ससाध्वसं हृदयं। बालायाः प्रथमसुरते किं किं न कुर्वन्त्यङ्गानि॥")  
+बालाए पडमसुरए किं किं ण कुणंति अंगाइं॥९१॥**
+
+१–२–३.^((क)) प्रादोषिको यथा—
+
+**[पत्तपओसो पडिवण्णमंड (णो)लो घडिअदूइसंचारो।](# "प्राप्तप्रदोषः प्रतिपन्नमण्डनो घटितदूतीसचारः। ..........वशेषघूर्णन्मनोरथो भवति युवतिजनः॥")  
+धोवावसेस घोलिरमणोरहो होइ जुअइजणो॥९२॥**
+
+
+
+१–२–३.^((ख)) नैशीथो यथा—
+
+**क्व प्रस्थितासि करभोरु घने निशीथे  
+  प्राणेश्वरो वसति यत्र मनःप्रियो मे।  
+एकाकिनी वद कथं न बिभेषि बाले  
+  नन्वस्ति पुंखितशरो मदनस्सहायः॥९३॥**
+
+१–२–३.^((ग)) प्राभातिको यथा—
+
+**[पिअलंभेण पओसो जाआ दिण्णप्फला रइसुहेण णिसा।](# "प्रियलंभेन प्रदोषो जातो दत्तफलो रतिसुखेन निशा। आनीतविरहोत्कण्ठो गलत्यनिर्विण्णमन्मथः [प्रत्यूषः॥")  
+आणिअविरहुक्कंठो गलइ अ णिव्विण्णवम्महो पच्चूसो॥९४॥**
+
+१–२–४.^((क)) तामसो यथा—
+
+**[चोरिअरअसद्धालुइ मा पुत्ति ब्भमसु अन्धआरम्मि।](# "चौर्यरतश्रद्धाशीले मा पुत्रि भ्रमान्धकारे। अधिकतरं लक्षिष्यसे तमोभृते दीपशिखेव।")  
+अहिअअरं लक्खिज्जसि तमहरिए दीवअसिहेव्व॥९५॥**
+
+१–२–४.^((ख)) चान्द्रो (दयो) यथा—
+
+**[चंदुज्जोएण मओ मएण चन्दाअवो णु वड्ढिअपसरो।](# "चन्द्रोद्योतेन मदो मदेन चन्द्रातपो नु वर्धितप्रसरः। द्वाभ्यामपि ताभ्यां नु मदनो मदनेन नु द्वावपि तौ नीतावतिभूमिं॥")  
+दोहि वि तेहि णु मअणो मअणेण णु दोवि ते णिआ अइभूमिं॥**
+
+१–२–४.^((ग))ज्योत्स्नो यथा—
+
+**[अणुणअसुहं ण पत्तं पिआहि दइएसु खिज्जइव्वि ण चलअं।](# "अनुनयसुखं न प्राप्तं प्रियाभिर्दयितेषु...........। अपसारिते प्रथमं दूया .......॥")  
+ओसारिअंमि पडमं दूईए वदोसिआए .... गहणे॥९७॥**
+
+
+
+१–२–५.(क) स्नानीयो यथा—
+
+**[अवरण्हाअअजामाउअस्स](# "अपराहागतजामातु र्द्विगुणयति मोहनोत्कण्ठां।वध्वागृहपश्चाद्भागमज्जनमुखरो वलयशब्दः॥") विउणेहु मोहणुक्कंठं।  
+बहुआए घरपरोहरमज्जण मुहलो वलअसद्दो॥९८॥**
+
+१–२–५.(ख) विलेपनीयो यथा—
+
+**[बोहे](# "बोधयति (तीव) प्रसुप्तं मदनं मिथुनानां परिजनकरैः। भज्यमान.........घूर्णद्बाहुलतावलमनिर्घोषः॥") (अइ)पासुत्तं मअणं मिहुणाण परिअणकरेहिं।  
+भज्जंतसुसिणघोलिरबाहुलआवलअणिग्घोसो॥९९॥**
+
+१–२–५.(ग) माल्यीयो यथा—
+
+**[कारणगहिअं](# "कारणगृहीतमप्येषा मानं मोचयति मानिनीजनस्य।सहकारमञ्जरी प्रियसखीवकर्णं समाश्रिता॥") पि इमा माणं मोएइ माणिणिअणस्स।  
+सहआरमंजरी पिअसहिव्व कण्णे समुल्लीणा॥१००॥**
+
+१–२–६.(क) औपसरो यथा—
+
+**[पिअलंबजसाहुलिपाण्डराए](# "प्रिय...........पाण्डरया जघनभरमन्दगमनया। अभिधाव्य....पुष्पफलकया धन्योसि॥") जहणभरमंदगमणाए।  
+अहिधाविऊण चिफ्फप्पुप्फफलआए धण्णोसि॥१०१॥**
+
+१–२–६.(ख) प्रासादिको यथा—
+
+**[णिम्मरिअसंधिअं](# "निर्म....मा तावच्चदूरप्रतिबद्धमन्मथप्रसरा। गुरुकं सुरतोत्साहं दत्वा सखीव यामिनी तस्या गता॥") मा तावअ दूरपडिबद्धवंमहपसरा।  
+गरुअं सुरउच्छाहं दाऊण सहिव्व जामिणी तिए गआ॥१०२॥**
+
+१–२–६.(ग) मदजोयथा—
+
+**[ओलोइअंमि](# "अवलोकिते.......गृहीते संभ्रमेण वलयितं। प्रत्याख्यातमपि च कृतं.....संहितशरं अनङ्गोन धनुः॥") तुलि....पिआहि गहिअंमि संभमेण वलइअं।  
+पडिचक्खिअं पि अ कअं चपए संधिअसरं अणंगेण धणुं॥१०३॥**
+
+
+
+१–२–७.(क) (विविक्तोयथा—)
+
+**निर्यता परिजनेन बोधितःपूर्यमाणरुचिरुल्लसद्दशः।  
+द्वारसंवलनमांसलोऽधिकं दीपकश्च मदनश्च दृश्यते॥१०४॥**
+
+१–२–७.(ख) गहननिमित्तो यथा—
+
+**[झिज्जं](# "........ तैः पल्लविता भवन्ति पलवद्भिः।प्रामासन्नपलाशैःपांसुलाहृदयसद्भावाः।") तिझं तेहिं पल्लविआ होंति पल्लवंतेहिं।  
+गामासण्णपलासेहिं पंसुलीहिअअसब्भावा॥१०५॥**
+
+१–२–७.(ग) सेव्यनिमित्तो यथा—
+
+**[पुल्लंतनिरंतरतरुणवंजुलावणसिणद्धकूलाए](# "पुल्लन्निरन्तरतरुणवंजुलवनस्निग्धकूलायाः।गोदानद्या..........मा पुत्रि.............॥")।  
+गोलाणईअ डवसिरिस इत्तिमा पुत्ति पत्तिअ सु॥१०६॥**
+
+१–२–८.(क) गीतनिमित्तो यथा—
+
+**[केणा](# "केनापि अद्य प्रभाते .....वने वल्लभां स्मरता। .....मदनशराहतहृदयव्रणस्फोटनं गौतम्॥") चि अज्ज गोसे कप्पिवणे वल्लहं म्हरंतेण।  
+अंहमअणसराहअहिअअवणप्फोडणं गीअं॥१०७॥**
+
+१–२–८.(ख) उत्सवानिमित्तो यथा—
+
+**[साहीणे](# "स्वाभीनेऽपि प्रियतमे प्राप्तेऽपि क्षणे न मण्डित आत्मा। दुर्गतप्रोषितपतिकां सगन्धिकां संस्थापयन्त्या॥") पि पिअअमे पत्ते वि च्छणे ण मंडिओ अप्पा।  
+दुग्गअपउत्तपइअं सअंधिअं संठवंतीए॥१०८॥**
+
+१–२–८.(ग) चूतादिनिमित्तो यथा—
+
+**किं द्धारि दैवहतिके सहकारकेण  
+  संवर्धितेन विषपादप एष पापः।  
+अस्मिन्मनागपि विकासविकारभाजि  
+  भीमा भवन्ति मदनज्वरसन्निपाताः॥१०९॥**
+
+
+
+  १—३. सामान्यानुरागोपि २४ चतुर्विंशतिप्रकारः—
+
+।                ।                  ।                     ।                  ।
+।----------------।------------------।---------------------।------------------।
+। १. द्रव्यगोचरः । ७. व्यस्तः       । १३. अल्पविषयः       । १९ सम्बन्धजन्मा  ।
+। २. गुणगोचरः    । ८. शुद्धः        । १४. देशहेतुः        । २०. प्राकृतः     ।
+। ३. कर्मगोचरः   । ९. सङ्कीर्णः     । १५. कालहेतुः        । २१. वैकृतः       ।
+। ४. संक्षिप्तः  । १०. साधर्म्यकृतः । १६. धर्मविषयः       । २२. वयःकृतः      ।
+। ५. विक्षिप्तः  । ११. वैधर्म्यकृतः । १७. समयजन्मा        । २३. वैदग्ध्यकृतः ।
+। ६. समस्तः      । १२. महाविषयः     । १८. \*............. । २४. सौभाग्यकृतः  ।
+
+इति.
+
+तत्र १–३–१. द्रव्यगोचरो यथा—
+
+**[करिकलभकुंभसण्णिहथणभरभज्जंततणुअमज्झाओ](# "करिकलभकुंभसन्निभस्तनभरभज्यमानतनुमध्याः। संसारे असारेसारं सारंगनयनाः॥")।  
+संसारंमिअसारे सारं सारङ्गणअणाओ॥११०॥**
+
+१–३–२. गुणगोचरो यथा—
+
+**[तावमवणेइ](# "तापमपनयति न तथा चन्दनपङ्को ऽपि कामिमिथुनस्य। यथा दुस्सह ऽपि ग्रीष्मे अन्योन्यालिङ्गन- [सुखकेलिः॥") ण तहा चंदणपंको वि कामिमिहुणस्स।  
+जह दूसहे वि गिम्हे अण्णोण्णालिंगणसुहेल्ली॥१११॥**
+
+१–३–३. कर्मगोचरो यथा—
+
+**[ण](# "नापि तथा च्छेकरतान्यपि हरन्ति पुनरुक्तरागरसितानि। यथा यत्र वातत्रवा यथा वा तथा वा [सद्भावरमितानि॥") वि तह छेअरआइँ वि हरंति पुणरुत्तराअरसिआइं।  
+जह जद्ध व तद्ध व जह व तह व सब्भावरमिआइं॥११२॥**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**\***अत्र प्रभेदानां उद्देशानुरोधेन नामविन्यासपरिपाट्यां १८ अष्टादशस्य नाम्नः त्रुटिचिह्नं दृश्यते. उदाहरणानुक्रमेतु सप्तदशस्य नाम्नः त्रुटिःगोचरीभवति। यथा—उद्देशानुक्रमे १६ धर्मविषयः, १७ समय जन्मा, १८..........इति. उदाहरणधोरण्यां तु १६ र्मविषयः१७...............१८ समयजन्मा १९ संवन्धजन्मा इति.  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+१–३–४. संक्षिप्तो यथा—
+
+**[जं](# "यत्तत् रुपं ननु तत् पदं प्रियं यदपि तदपि नेपथ्यं।तरुणीजनसंबन्धं अन्यदिव किमपि तद्भवति॥") तं रूवं णं तं पअंपिअं जं पि तं पि णेवच्छं।  
+तरुणीअणसंबंधं अण्णं विअ किं पि तं होइ॥११३****॥**
+
+१–३–५. विक्षिप्तो यथा—
+
+**[हसिआइ](# "‘अंगाइ’इति क्वचित् पाठः-") समालसकोमलाइ वीसंभकोमलं भणिअं।  
+सब्भावकोमलं पुलइअं अ णमिमो सुमहिलाणं॥११४****॥**
+
+१–३–६. समस्तो यथा—
+
+**[आअंबलोअणाणं](# "आताम्रलोचनानां आर्द्रांशुकप्रवृतोरुजघनानां।अपराह्णमज्जनशीलानां कृते न कामो वहति चापं॥") ओल्लंसुअपाउदोरुजहणाणं।  
+अवरण्हमज्जरीणं कए ण कामो वहइ चावं॥११५****॥**
+
+१–३–७. व्यस्तो यथा—
+
+**[लीलावेलक्खविलासमसिणबंधुरमुहारविंदाइं](# "लीलावैलक्ष्यविलासमसृणबन्धुरमुखारविन्दानि। रतकेशविस्रंसने विलासिनीनां सौभाग्यहसितानि॥")।  
+रअओच्छिअंमि..विलासिणीण सो(हग्गहास) आइं॥११६****॥**
+
+१–३–८. शुद्धो यथा—
+
+**[ताव](# "तावद्गुणयितुं च मर्तुं च बहुभिर्जन्मभिर्जीवैः। यावज्जनेन शिक्षितं प्रियवियोगेपि...................॥") गुणिउं उ मरिउं उ बहुहि जम्मेहिं जीवेइं।  
+जाव जणेण सिक्खिअं पिअविओए वि सं....पणो॥११७****॥**
+
+१–३–९. (संकीर्णो यथा—)
+
+**[किअरहसद्धो](# "कृतरहश्श्रद्धः अपसृत............न्तानां। कौतुहले कुलपालिकानां.......................इष्टविशेषम्॥") वोसरिअणिब्भुपण्णिअंतीण.....।  
+कोऊहलंमि कुलवालिआण इहइच्चिअ विसेसं॥११८॥**
+
+
+
+१–३–१०. साधर्म्यकृतो यथा—
+
+**[परिमलिअसुन्दराई](# "परिमलितसुन्दराणि दूर............कौतूहलानां। ...........रमितव्यानि भवन्ति गुग्धानां सुरतानाम्॥") दूरपहूपंतकोउहल्ला (ण)।  
+....कलअपरमिअव्वाइ होंति मुद्धाण सुरआणं॥११९॥**
+
+१–३–११. वैधर्म्यकृतो यथा—
+
+**[पोढमहिलाण](# "प्रौढमहिलानां यत् सुष्ठु शिक्षितं तद्रते सुखयति। यद्यदशिक्षितं नवबधूनां तत्तद्रतिं ददाति॥") जं सुट्ठुसिक्खिअं तं रए सुहावेइ।  
+जं जं असिक्खिअं णववहूण तं तं रइं देइ॥१२०॥**
+
+१–३–१२. महाविषयो यथा—
+
+**[कुविआओ](# "कुपिताः प्रसन्नाःअवरुदितमुख्यां विहसमानाः। यथा गृहीताःतथा हृदयं हरन्ति स्वैरिण्यो महिलाः॥") पसण्णाओ ओरुण्णमुहीओ विहसमाणीओ।  
+जह गहिआ तह हिअअं हरंति उच्छण्णमहिलाओ॥१२१॥**
+
+१–३–१३. अल्पविषयो यथा—
+
+**[गामतरुणीओ](# "ग्रामतरुण्योहृदयं हरन्ति च्छेकानां स्तनभारवत्यः। मदने कुसुंभरागार्द्रकञ्चुकाभरणमात्राः॥") हिअअं हरंति [छेआणँ](# "वेढाल. इति मातृकायाम्.")थणहरिल्लीओ।  
+मअणे कुसुंभरंजिअकंचुइआभरणमेत्ताओ॥१२२॥**
+
+१–३–१४. देशहेतुर्यथा—
+
+**[णिद्दाविराममोणव्वलिउंमुहबाहुकंठणविराए](# "निद्राविराम...वलितोन्मुखबाहुकण्ठ...........। त्रिवली ........ ..... ......को न पुलकयति॥")।  
+तिवलिविहाए मुरलीणविमिओ को ण पुलएइ॥१२३॥**
+
+१–३–१५. कालहेतुर्यथा—
+
+**[दिण्णतणुअंजणाइं](# "दत्ततन्वजनानि युवतिजनस्य............ताम्रोष्ठानि। आसन्नरतिसुखानि अधिवास्यन्ते मन्मथेन मुखानि॥")जुअइजणस्स (द ई?)तंबोट्ठाइं।  
+आसण्णरइसुहाइंअहिवासज्जंति वम्महेण मुहाइं॥१२४॥**
+
+
+
+१–३–१६. धर्मविषयो यथा—
+
+**[सामण्णसुंदरीणं](# "सामान्यसुन्दरीणां विभ्रममावहत्यविनय एव। धूम एव प्रज्वलितानां मधुरो भवति सुरभिदारूणाम्॥") विब्भममावहइ अविणओच्चेअ।  
+धूमो च्चिअ पज्जलिआणं महुरो (मओ) होइ सुरहिदारूणं॥१२५॥**
+
+१–३–१७. [................](# "अत्र प्रतिपाद्यभेदस्य नाम त्रुटितम्.")यथा—
+
+**[मोहेइ](# "मोहयति प्रलंभननमित........वेणी.........।आरूढपक्ष्म............कृष्णधवलाक्षी॥") वीअंभणणमिअपट्ठिचलवेणि................।  
+आरोहिअपंमगडणुलअंवहणकण्णधवलच्छी॥१२६॥**
+
+१–३–१८. समयजन्मा यथा—
+
+**⁽³⁾दरवेविरोरुजुअलासु मुउलिअच्छीसु लुलिअचिउरासु।  
+पुरिसाइरीसु कामो पिआसु सज्जाउहो वसइ॥१२७॥**
+
+१–३–१९. संबन्धजन्मा यथा—
+
+**[तह](# "तथा ऋजुकं विरसितं चाटुपरिहीणं वितीर्णसद्भाबं। विस्रंभेपि................गृहिणीरतं न सं.....॥") उज्जुअं विरसिअं चडुपरिहीणं विदिण्णसब्भावं।  
+वीसंभे वि.............घरिणीरअं ण संतरइ॥१२८॥**
+
+१–३–२०. प्राकृतो यथा—
+
+**[हसिएहि](# "हसितैरुपालंभा अत्युपचारै रोषितव्यानि।अश्रुभिर्मण्डनानि एषमानस्सुमहिलानाम् ॥") उवालंभा अच्चुअआरेहि रोसिअव्वाइ।  
+अस्सूहि मंडणाइंएसो माणो सुमहिलाणं॥१२९॥**
+
+१–३–२१. वैकृतो यथा—
+
+**[मसिणवसणाण](# "मलिनवसनानां कृतवेणिकानामापाण्डुगण्डपार्श्वानां। पुष्पवतीनां कामः अङ्गेषु कृतायुधो वसति॥") कअवेणिआण आपंडुगंडवासाणं।  
+पुप्फवइआण कामो अंगे सु कआउहो वसइ॥१३०॥**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+(3) इषद्वेपनशीलोरुयुगलासु मुकुलिताक्षीषु लुलितचिकुरासु। पुरुषायितशीलासु कामःप्रियासुसज्जायुधो \[वश्यति ॥  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+१–३–२२. वयः कृतो यथा—
+
+**[जह](# "अविशदेयं गाथा.") जह वि कामिणीणं सुदोविहलआअवाणसिरि....।  
+अहिदे अव्वमंडल तह वि हु तरुणअंताओ....॥१३१॥**
+
+१–३–२३. वैदग्ध्यकृतो यथा—
+
+**[सब्भावगब्भिणं](# "सद्भावगर्भितं प्रकटयंति तथा किमपि मन्मथरहस्यं। महिलाः यथा न विरमन्ति प्राप्तसौख्यान्यपि रतानि॥") पाअडंति तह किं पि वम्महरहस्सं।  
+महिलाओ जह ण विरमंति पत्तसोक्खाइ वि रआइ॥१३२॥**
+
+१–३–२४. [सौभाग्यकृतो](# "अत्रसौभाग्यकृत इत्यस्य स्थाने “प्रसिद्धिकृतः” इत्यक्षराणि दृश्यन्ते प्रतिज्ञापरिपाटीमनुरुध्य “सौभाग्यकृतः”इत्येव न्यवेशि. प्रत्युत इदमभ्युल्लिखितुं सांप्रतंयथा १–३–१८ त्रुटितस्य “प्रसिद्धिकृतः” इति नाम स्यादिति.") यथा—
+
+**[णन्दन्तु](# "नन्दन्तु सुरतसरभसतृष्णापहराणि सकललोकस्य।बहुकैतवर्मागविनिर्मितानिवेश..............हृदयानि॥") सुरअसरभसतण्हावहराइ सअललोअस्स।  
+बहुमग्गविणिम्मविआइ वेसविअआण हिअआइं॥१३३॥**
+
+  १—४. विशेषानुरागोऽपि २४ चतुर्विंशतिप्रकारः—
+
+।              ।              ।                 ।               ।
+।--------------।--------------।-----------------।---------------।
+। १.जातिकृतः   । ७.प्रतीयमानः । १३.स्वप्रकाशः   । १९.नैसर्गिकः  ।
+। २.क्रियाकृतः । ८.अभिधीयमानः । १४.अन्याभिभावी  । २०.सांसर्गिकः ।
+। ३.गुणकृतः    । ९.बाह्यः     । १५.उल्लेखवान्   । २१.स्वसंमतः   ।
+। ४.द्रव्यकृतः । १०.आभ्यन्तरः । १६.अनुल्लेखवान् । २२.स्तोकसंमतः ।
+। ५.साधारणः    । ११.सदृशः     । १७.अतिरिक्तः    । २३.बहुसंमतः   ।
+। ६.असाधारणः   । १२.असदृशः    । १८.अनतिरिक्तः   । २४.सर्वसंमतः  ।
+
+इति.
+
+१–४–१. तत्रजातिकृतो यथा—
+
+**मानुषीषु कथं वा स्यादस्य रूपस्य सम्भवः।  
+न प्रभातरलं ज्योतिरुदेति वसुधातलात्॥१३४॥**
+
+
+
+१–४–२. क्रियाकृतो यथा—
+
+**[तह](# "तथा वलितं नयनयुगं गृहपतिस्नुषाया रङ्गमध्ये।यथा तेऽपि नटाः नटप्रेक्षका अपि मुखप्रेक्षका जाताः॥") वलिअं णअणजुअं गहवइधूआए रंगमज्झंमि।  
+जह ते वि णडा णडपेच्छआ वि मुहपेच्छआ जाआ॥१३५॥**
+
+१–४–३. गुणकृतो यथा—
+
+**[जाणइ](# "जानाति ज्ञापयितुमनुनयविद्रावितमानपरिशेषं। विजनेऽपि विनयावलंबनं सैव कुर्वती॥") जाणावेउं अणुणअविद्दविअमाणपरिसेसं।  
+पइरिक्कंमि वि विणआवलब्बणं सच्चिअ कुणंती॥१३६॥**
+
+१–४–४. द्रव्यकृतो यथा—
+
+**[छणपिट्ठधूसरत्थाणि](# "क्षणपिष्टधूसरस्तनि मधुमदताम्राक्षि कुवलयाभरणे।कर्णकृतचूतमञ्जरि तरुणि त्वया मण्डितो ग्रामः॥") महुमअतंबच्छि कुवलआहरणे।  
+कण्णकअचूअमंजरि तरुणि तुए मंडिओ गामो॥१३७॥**
+
+१–४–५. साधारणो यथा—
+
+**[णच्चिहिइ](# "नर्तयति नटःदर्शयति जनवचः भवति...........। यदि रंगविघटनकरी गृहपतिस्नुषा न प्रेक्षते॥") णडो पेच्छिहिइ जणवओ होइ ओअ नुतुसिहिइ?।  
+जइ रंगविउढणअरी गहवइधूआ ण पच्छिहिइ॥१३८॥**
+
+१–४–६. असाधारणो यथा—
+
+**[खणमेत्तं](# "क्षणमात्रमपि न... अनुदिवसं द्विगुण गुरुसंतापा।प्रच्छन्नपापशङ्गेवश्यामला मम हृदयात्॥") वि ण विट्टइ अ(बु)नुदिहअं दिउणगरुअसंतावा।  
+पच्छण्णपावसंकव्व सामली मज्झ हिअआओ॥१३९॥**
+
+१–४–७. प्रतीयमानः यथा—
+
+**[जाइ](# "यानि वचनानि वयमपि जल्पामो यानि जल्पति जनोपि। तान्येव तेन प्रजल्पितानि हृदयं सुखयन्ति॥") वअणाइ अह्मेवि जप्पिमो जाइ जप्पइजणो वि।  
+ताइ च्चिअ तेण पअप्पिआइ हिअअं सुहावेंति॥१४०॥**
+
+
+
+१–४–८. अभिधीयमानो यथा—
+
+**[अण्णाण](# "अन्यासामपि स्तः मुखे पक्ष्मलधवले दीर्घकृष्णे।नयने सुन्दरीणां तथा पुनर्द्रष्टुं न जानन्ति॥") वि अद्धि मुहे पम्हलधवलाइ दीहकसणाइ।  
+णअणाइँ सुंदरीणं तह उण दठ्ठुं, ण आणंति॥१४१॥**
+
+१–४–९. बाह्यो यथा—
+
+**[दरसुन्दरमहुरुल्लाविरीए](# "अविशदा इयं गाथा.") हल्लंतथोरधणिआए।  
+सोत्थआए सुआए कओ तित्थावस.... जणो सव्वो॥१४२॥**
+
+१–४–१०. आभ्यन्तरो यथा—
+
+**[अइ](# "अइ ऋजुके न लज्जसे पृच्छन्ती मम प्रियस्य.....रितानि। सर्वाङ्गसुरभेर्मरुवकस्य किं कुसुमर्द्धिभिः॥") उज्जुए ण लज्जसि पुच्छन्ती मह पिअस्स परिआइं।  
+सव्वंगसुरभिणो मरुअअस्स किं कुसुमरिद्धीए॥१४३॥**
+
+१–४–११. सदृशो यथा—
+
+**[रेहुगुडिअडविअंभणसालसभुजजुअलवलअमंडलिअं](# "..........विजृंभणसालसभुजयुगलवलयमण्डलितं। बालाया वदनकमलं....परिवेषो मृगाङ्कइव॥")।  
+बालाए वअणकमलं कपुपरिवेसो मिअंकोव्व?॥१४४॥**
+
+१–४–१२. असदृशो यथा—
+
+**[एद्दह](# "एतावन्मात्रे जगति सुन्दरमहिलासहस्रमध्ये। अनुहरति केवलं तस्या वामार्धं दक्षिणार्धस्य।") मेत्तंभि जए सुंदरमहिलासहस्समज्झम्मि।  
+अणुहरइ णवर तिस्सा वामद्धं दाहिणद्धस्स॥१४५॥**
+
+१–४–१३. स्वप्रकाशो यथा—
+
+**जगति जयिनस्ते ते भावा नवेन्दुकलादयः  
+  प्रकृतिमधुरास्सन्त्येवान्ये मनो मदयन्ति ये।  
+मम तु यदियं याता लोके विलोचनचन्द्रिका  
+  नयनविषयं जन्मन्येक्स्स एव महोत्सवः॥१४६॥**
+
+
+
+१–४–१४. अन्याभिभावी यथा—
+
+**[काण](# "अविशदा इयं गाथा.") अ रुणा जुअरी को उ जुआ धरहरेण णालिद्दो।  
+आबद्धमंडलच्छिअ गहवइधूआधअप्पंके?॥१४७॥**
+
+१–४–१५. उल्लेखवान्यथा—
+
+**आभरणस्याभरणं प्रसाधनविधेः प्रसाधनविशेषः।  
+उपमानस्यापि सखे प्रत्युपमानं वपुस्तस्याः॥१४८॥**
+
+१–४–१६. अनुल्लेखो यथा—
+
+**[चंदसरिसं](# "चन्द्रसदृशं मुखं तस्यास्सदृशोऽमृतस्य मुखरसस्तस्या।सकचग्रहरभसोज्वलचुंबनं कस्य सदृशं तस्याः॥") मुहं से सरिसो अमअस्स मुहरसो तिस्सा।  
+सकअग्गहरहसुज्जलचुंबणअं कस्स सरिसं से॥१४९॥**
+
+१–४–१७. अतिरिक्तो यथा—
+
+**[अण्णं](# "अन्यल्लडहत्वं अन्यदेव............वर्तनच्छाया।श्यामा सामान्यप्रजापतेः रेखैव न भवति॥") लडलहत्तणअं अण्णं चिअ अब्भवट्ठणच्छाआ।  
+सामा सामण्णपआवइस्स रेह च्चिअ ण होइ॥१५०॥**
+
+१–४–१८ अनतिरिक्तो यथा—
+
+**[पल्लविअं](# "पल्लवितमिव करपल्लवाभ्यां प्रफुल्लितमिव नथनाभ्यां। फलितमिव पीनपयोधराभ्यां तरुण्या लावण्यम्॥") पिव करपल्लवेहिँ पप्फुल्लिअं व णअणेहिं।  
+फलिअं विअ पीणपओहरेहिँ अज्जाए लाअण्णं॥१५१॥**
+
+१–४–१९. नैसर्गिको यथा—
+
+**[अणवट्टिएण](# "अनवस्थितेन विषमेण हारिणा दुर्निवारप्रसरेण। नवयौवनेन आर्या नदीब पूरेण........ ॥") विसमेण हारिणा दुण्णिवारपसरेण।  
+णवजोव्वणेण अज्जा णइ व्व पूरेण मछलिआ॥१५२****॥**
+
+
+
+१–४–२०.[**\***](# "अत्र ४—२० सांसर्गिकाख्यभेदस्य उदाहरणं गलितम्.")
+
+१–४–२१. स्वसम्मतो यथा—
+
+**[अक्खडइ](# "आस्खलति प्रिया हृदये अन्यं महिलाजनं...........। दृष्टे सदृशे गुणेऽसदृशे गुणे अदृश्यमाने॥") पिआ हिअए अण्णं महिलाअणं णिअंतस्स।  
+दिट्ठे सरिसेव्व गुणेऽसरिसव्वगुणे अईसंते॥१५३॥**
+
+१–४–२२. स्तोकसंमतो यथा—
+
+**[पीलेइ](# "पीड....... स्थूलस्तनातिसन्नमिततनुमध्या। ....भविष्यति स्नुषा हृदयैत्समं यूनाम्॥") वलंतुंनुंहधोरधणअइसंणमिअतणुमज्झा।  
+वसथं होज्जइ धूआ हिअएहि समं जुआणाणं॥१५४॥**
+
+१–४–२३. बहुसंमतो यथा—
+
+**[बाउल्लविअलिएणं](# "बाष्पार्द्रविगलितेन ग्रामिणीस्नुषाया उत्तरीयेण। स्तनदर्शन रभस.............गतो ग्रामः॥") गामिणिधूआए उत्तरिज्जेण।  
+थणदंसणरहसत्ताण णंचलेच्चो गओ गामो॥१५५॥**
+
+१–४–२४. सर्वसम्मतो यथा—
+
+**[जस्स](# "यस्य येनैव प्रथमं तस्या अङ्गे निपतिता दृष्टिः। तस्य तैनैव स्थिता सर्वाङ्गं तेनापि न दृष्टा॥") जहिं चिअ पडमं तिस्सा अंगंमि णिवडिआ दिट्टी।  
+तस्स तहिं चेअ ठिआ सव्वंगं तेण वि ण दिट्ठा॥१५६॥**
+
+  १—५ अथ प्रकाशानुरागः सोऽपि २४चतुर्विंशतिप्रकारः—
+
+।                    ।                         ।                            ।
+।--------------------।-------------------------।----------------------------।
+। १. स्वकीयाविषयः    । ९. स्वाधीनभर्तृकाविषयः  । १७. ज्येष्ठाविषयः          ।
+। २. स्ययंवराविषयः   । १०. प्रोषितपतिकाविषयः   । १८. कनिष्ठाविषयः           ।
+। ३. कन्याविषयः      । ११. विरहोत्कण्ठिताविषयः । १९. सुभगाविषयः             ।
+। ४. पुनर्भूविषयः    । १२. कलहान्तरिताविषयः    । २०. शुद्धान्तचारिणीप्रचारः ।
+। ५. वेश्याविषयः     । १३. खण्डिताविषयः        । २१. धर्मानुबन्धः           ।
+। ६. सामान्योढाविषयः । १४. वासकसज्जाविषयः      । २२. अर्थानुबन्धः           ।
+। ७. नवोढाविषयः      । १५.एकचारिणीविषयः       । २३. कामानुबन्धः            ।
+। ८. प्रौढाविषयः     । १६. सपत्नीविषयः         । २४. निरनुबन्धः             ।
+
+इति.
+
+
+
+तत्र १–५–१ स्वकीयाविषयो यथा—
+
+**इयं गेहे लक्ष्मीरियममृतवर्तिर्नयनयो  
+  रसावस्याःस्पर्शो वपुषि बहुलश्चन्दनरसः।  
+अयं बाहुः कण्ठेशिशिरससृणो मौक्तिकसाः  
+  किमस्या न प्रेयो यदि परमसह्यस्तु विरहः॥१५७॥**
+
+१–५–२, स्वयंवराविषयोयथा—
+
+**ततः सुनन्दावचनावसाने  
+  लज्जां तनुकुत्य नरेन्द्रपुत्री।  
+दृष्ट्या प्रसादाभलया कुमारं  
+  प्रत्यग्रहीत्सवरणस्रंजेव॥१५८॥**
+
+१–५–३. कन्याविषयो यथा—
+
+**कन्यारत्नमयोनिजन्म भवतामास्ते वयं चार्थिनो  
+  रत्नं यत्क्वचिदस्ति तत्परिणमत्यस्मासु शक्रादपि।  
+कन्यायाश्च वरार्थतैव हि मता तस्याः प्रदानादहं  
+  बन्धुर्वोभविता पुलस्त्यपुलहप्रष्ठाश्चसम्बन्धिनः॥१५९॥**
+
+१–५–४. पुनर्भूविषयो यथा—
+
+**के वैकटनितम्बेन गिरां गुम्फेन रञ्जिताः।  
+निन्दन्ति निजकान्तानां न मौग्ध्यमधुरं वचः॥१६०॥**
+
+१–५–५. वेश्याविषयो यथा—
+
+**[सामण्णसुंदरीणं](# "सामान्यसुन्दरीणां विभ्रममावहति अविनय एव। धूम एव प्रज्वलितानां मधुरो भवति सुरभिदारूणां॥") विब्भममावहइ अविणओ चेअ।  
+धूमो चिअ पज्जलिआणं महुरो होइ सुरभिदारूणं॥१६१॥**
+
+
+
+१–५–६. सामान्योढाविषयो यथा—
+
+**⁽¹⁾दिअरो परिणिहिइ पुडंप....आ सुणिमं दुडुंकिआ जाया।  
+सेसिअघरवावारा ओरुण्णमुही परिब्भमइ॥१६२॥**
+
+१–५–७. नवोढाविषयो यथा—
+
+**दृष्टा दृष्टिमधो ददाति कुरुते नालापमाभाषिता  
+  शय्यायां परिवृत्य तिष्ठति बलादालिंगिता वेपते।  
+निर्यान्तीषु सखीषु वासभवनान्निर्गन्तुमेवेहते  
+  जाता वामतयैव सम्प्रति मम प्रीत्यै नवोढा वधुः॥१६३॥**
+
+१–५–८. प्रौढाविषयो यथा—
+
+**एकत्रासनसंस्थितिः परिहृता प्रत्युद्गमाद्दूरतः  
+  ताम्बूलानयनच्छ्लेन रभसाश्लेषोऽपि संविघ्नितः।  
+आलापोऽपि न मिश्रितः परिजनं व्यापारयन्त्यान्तिके  
+  कान्तं प्रत्युपचारतश्चतुरया कोपः कृतार्थीकृतः॥१६४॥**
+
+१–५–९. स्वाधीनभर्तृकाविषयो यथा—
+
+**विनिश्चेतुं शक्यों न सुखमिति वा दुःखमिति वा  
+  प्रमोहो निद्रा वा किमु विषविसर्पः किमु मदः।  
+तब स्पर्शेस्पर्शे मम हि परिमूढेन्द्रियगणो  
+  विकारश्चैतन्यं भ्रमयति च सम्मोहयति च॥१६५॥**
+
+१–५–१० प्रोषितपतिकाविषयो यथा—
+
+**अंगेनांग प्रतनु तनुना गाढतप्तेन तप्तं  
+  सास्रेणास्रद्रवमविरतोत्कण्ठमुत्कण्ठितेन॥**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+1. देवरः परिणेष्यति ......श्रुत्वा दुःखिता जाता।शेषितगृहव्यापारा अवरुदितमुखी परिभ्रमति॥  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+**उष्णोच्छवासं समधिकतरोच्छवासिना दूरवर्ती।  
+  संकल्पैस्ते विंशति विधिना वैरिणा रुद्धमार्गः॥१६६॥**
+
+१–५–११. विरहोत्कण्ठिताविषयोयथा—
+
+**[अज्ज](# "अद्य मया तेन विना अनुभूतसुखानि संस्मरन्या। अभिनवनेवानां रवो निशमितो वध्यपटह इव॥") मए तेण विणा अणुहूअसुहाइ सह्मरंतीए।  
+अहिणवमेहाणँरवो णिसामिओ वज्झपडहोब्व॥१६७॥**
+
+१–५–१२ कलहान्तरिताविषयों यथा—
+
+**मया तावद्गोत्रस्खलनहतकोपान्तरितया  
+  न रुद्धोनिर्णच्छन्ननुतवविलक्षः प्रियतमः।  
+अयं त्वाकूतज्ञः परिणतिपरामर्शकुशलः  
+  सखीलोकोऽप्यासील्लिखित इव चित्रे कथमिदम्॥१६८॥**
+
+१–५–१३ खण्डिताविषयो यथा—
+
+**लाक्षालक्ष्म ललाटपट्टमभितः केयूरमुद्रा गले  
+  वक्त्रे कज्जलकालिमा नयनयोस्तांबूलरागोऽपरः।  
+दृष्ट्वाकोपविधायि मण्डनमिदं प्रातश्चिरं प्रेयसः  
+  लीलातामरसोदरे मृगदृश्श्वासास्समाप्तिं गताः॥१६९॥**
+
+१–५–१४ वासकसज्जाविषयः यथा—
+
+**[एहिइ](# "एष्यति प्रिय इति निमिष इव जागरितं यामिन्याः प्रथमार्धम्। शेषं सन्तापपरवशाया वर्ष इव अपकमतं॥") पिओत्ति णिमिसं व जग्गिअं जामिणीए पडमद्धं।  
+सेसं संतापरव्वसाए वरिसं व बोलणिं॥१७०॥**
+
+१–५–१५. एकचारिणीविषयो यथा—
+
+**अतिथिभिर्गतमेव दिवा गतैः  
+  अपथिकागमना च निशीथिनी।**
+
+
+
+**तदधुना प्रतिजागृहि पुत्रकान्  
+  प्रविश वेश्म कुटुबिनि शेमहे॥१७९॥**
+
+१–५–१६. सपत्नीविषयो यथा—
+
+**यांयां प्रियः प्रक्षतै कातराक्षी  
+  सासा ह्रिया नम्रमुखी बभूव।  
+निश्शांकमन्याः सममाहितेर्ष्याः  
+  तत्रान्तरे जघ्नुरमुंकटाक्षैः॥१७२॥**
+
+१–५–१७ ज्येष्ठाविषयों यथा—
+
+**[तं](# "तत् त्रिदशकुमुनदास हरिणा निर्मथित सुरभिगन्धामोदं। ..दुःखितप्रणयिनी हृदयेन रुक्मिण्यावितीर्णं॥") तिअसकुसुमदामं हरिणा णिंमहिअसुरभिगंधामोअं।  
+अप्पणइअं वि दूमिअ पणइणि हीअएण रुप्पिणीए विइण्णं॥१७३॥**
+
+१–५–१८. कनिष्ठाविषयों यथा—
+
+**[कुविआ](# "कुपिता चसत्यभासासमेपि वधूनां केवमानस्सलने प्रकटितहृदयसारःपेम....पवतर्तते मन्तु॥") अ सच्चहामा समेवि बहुईण णवरमाणक्खलणे॥  
+पाअडिअहिअअसारो पेम्म संघसरिसो व अट्टइ मंत्॥१७४॥**
+
+१–५–१९. सुभगाविषयो यथा—
+
+**[उक्खिप्पडइ](# "उक्षिप्यते मारुत..... गेहांगणादयध्याः सौभाग्यध्वजपश्यते कवपधनुपस्त्वपरंपरा॥")मारुअमंडलेण गेहंगणाए वाहीए।  
+सोहग्गधअवडाएव उव धणुरोरुंफरिं छोली॥१७५॥**
+
+१–५–२०.शुद्धान्तचारिणीप्रचारोयथा—
+
+**स्नाता तिष्ठति कुन्तलेश्वरसुता वारोंगराजस्वसुः  
+  द्यते रात्रिरियं जिता कमलया देवी प्रसाद्याऽद्य च।  
+इत्यन्तः पुरसुन्दरीः प्रति मया विज्ञाय विज्ञापिते  
+  देवेनाप्रतिपत्तिमूढमनसा द्वित्राः स्थिता नाडिकाः॥१७६॥**
+
+
+
+१–५–२१. धर्मानुबन्धो यथा—
+
+**स मानसीं मेरुसखः पितृणां  
+  कन्यां कुलस्य स्थितये स्थितिज्ञः।  
+मेनां मुनीनामपि माननीयाम्  
+  आत्मानुरूपां विधिनोपयेमे॥१७७॥**
+
+१–५–२२. अर्थानुबन्धो यथा—
+
+**यतो विक्रमबाहुरात्मसमतां प्राप्तेयमुर्वीतले  
+  सारं सागरिका समागरमहीप्राप्त्येकहेतुः प्रिया।  
+देवी प्रीतिमुपागता च भगिनीलाभादियं सर्वथा  
+  किं नास्ति त्वयि सत्यमात्यवृषभे यस्मिन्करोमि स्पृहाम्॥१७८॥**
+
+१–५–२३. कामानुबन्धो यथा—
+
+**आमूलकण्टकितकोमलबाहुनाल-  
+  माद्रांगुलीदलमनांगनिदाघतप्तम्।  
+अस्याः करेण करमाकलयामि कान्त-  
+  मारक्तपांकजमिव द्विरदः सरस्याः॥१७९॥**
+
+१–५–२४. निरनुबन्धों यथा—
+
+**[णाराअणोत्ति](# "नारायण इति परिणतपराभिः श्रीवल्लभ इति तरुणीभिः।बालाभिः पुनः कौतूहलेन एवमेव निश्रितः॥") परिणअपराहिँ सिरिवल्लहोत्ति तरुणीहिं।  
+बालेहिं उण कोऊहलेण एमेअ सच्चविओ॥१८०****॥**
+
+**  **१—६· एवं प्रच्छन्नानुरागोऽपि २४ चतुर्विंशतिप्रकारः—  
+
+
+।                  ।                    ।                 ।
+।------------------।--------------------।-----------------।
+। १. परांगनाविषयः  । ५. धीराविषयः       । ९. सुलभः        ।
+। २. स्वांगनाविषयः । ६. अधीराविषयः      । १०. दुर्लभः     ।
+। ३. स्वैरिणीविषयः । ७. विप्रलब्धाविषयः । ११. सन्निकृष्टः ।
+। ४. कुमारीविषयः   । ८. अभिसारिकाविषयः  । १२. विप्रकृष्टः ।
+
+
+
+।              ।                   ।               ।
+।--------------।-------------------।---------------।
+। १३. संबद्धः  । १७. भयानिमित्तः   । २१. नागरः     ।
+। १४. असंबद्धः । १८. लज्जानिमित्तः । २२. उपनागरः   ।
+। १५. सापदेशः  । १९. देशनियतः      । २३. ग्राम्यः  ।
+। १६. निरपदेशः । २०. कालनियतः      । २४. प्रकीर्णः ।
+
+इति.
+
+१–६–१. तत्र परांगनाविषयोयथा—
+
+**[एमेअ](# "एवमेव अकृतपुण्या अप्राप्तमनोरथा विस्तये। जनवादोपिन जातस्तेन समं हालिकपुत्रेण॥") अकअपुष्णा अप्पत्तमणोरहा विवज्जिस्सं।  
+जणवाओ वि ण जाओ तेण समं हलिअउत्तेण॥१८१॥**
+
+१–६–२. स्वांगनाविपयो यथा—
+
+**[पणअं](# "प्रणया प्रथमप्रियाया रक्षि..कामोऽपि मधुरमधुरेः छेकपरो पि न.........अभिनववधूविलासैः॥") पडमपिआए रक्खिउकामो वि महुरमहुरेहिं।  
+च्छेअपरो वि ण दिज्जइ अहिणववहुआविलासेहिं॥१८२॥**
+
+१–६–३ स्वैरिणीविषयो यथा—
+
+**[तह](# "तथा सा जानाति जाया लोके प्रच्छन्नसविनयं कर्तुं यथा प्रथममेव लिख्यतमध्ये चारित्रवतीनाम्॥") सा जाणइ जाआलोए पच्छण्णमविणअं कादुं।  
+जह पडमं चिअ लिक्खइ मज्झे चारित्तवत्तीणं॥१८३॥**
+
+१–६–४ कुमारीविषयों यथा—
+
+**[अज्ज](# "अद्य मया उच्छवासः स्वकगेहे ..मनोरथं भ्रमितम्।गृहपतिपुत्र दौवारिकं दृष्टं निजरूपलावण्यम्॥") मए उच्छासो थअगेहे....मणोरहं भमिअं।  
+गहबइउत्तकडिलंल दिट्ठंणिअरूपलावणिअं॥१८४॥**
+
+१–६–५ धीराविषयों यथा—
+
+**[पाअडिअणेहसब्भावविभमं](# "प्रकटितस्नेहसद्भावविभ्रमं तथा यथाअहं दृष्टः।संवरणव्यापृतया अन्योऽपि जनस्तथैव॥") तीए जह अहं दिट्ठो।  
+संवरणवावडाए अण्णो वि जणो तहच्चेअ॥१८५॥**
+
+
+
+१–६–६. अधीराविषयो यथा—
+
+**[आअस्स](# "आगतस्य किंनुकरिष्यामि किं वक्ष्यामि कथं नु भविष्यामि अहमिति। प्रथमसमयसाहस-[कारिकाया हृदयं धरधरायते॥") किं णु काहं किं वोच्चं कहणु होहिमि अहं ति।  
+पडमुल्लिअसाहसआरिआए हिअअं धरहरेइ॥१८६॥**
+
+१–६–७. विप्रलब्धाविषयो यथा—
+
+**[अह](# "अथ सा तत्र तत्रैव वानीरवने विस्मृतसंकेता।तव दर्शनं विमार्गति विस्मृतनिधानस्थानमिव॥") सा तहिं तहिं चिअ वाणीरवणंमि चुक्कसंकेआ।  
+तुह दंसणं विमग्गइ पँहुठ्ठणिआणठाणं वा ॥१८७॥**
+
+१–६–८. अभिसारिकाविषयो यथा—
+
+**[अज्ज](# "अद्य मया गन्तव्यं धनान्धकारेऽपि तस्य सुभगस्य।आर्या निमीलिताक्षी पदपरिपाटीं गृहे करोति।") मए गंतव्वं घणंधआरे वि तस्स सुहअस्स।  
+अज्जा णिमीलिअच्छी पअपरिपाडिंघरे कुणइ॥१८८॥**
+
+१–६–९. सुलभो यथा—
+
+**[संकेअऊसुअमणोगहवइधूआकडक्खण्हइओ](# "संकेतोत्सुकमनोगृहपतिस्नुषाकटाक्षसंज्ञापितः।..............................................॥")।  
+तंत्रं गअं ण वेअइ पीडाओरंबरं दुहइ॥१८९॥**
+
+१–६–१०. दुर्लभो यथा—
+
+**[ए](# "अविशदा गाथा") (व?) क्कंगणदुलहे माणुसम्मि दथ्थइ जणो णिअंतो वि।  
+पुणरुत्तदंसआ सिक्किआ हि वरहिग्गि चुडुलंहि॥१९०॥**
+
+१–६–११ सन्निकृष्टो यथा—
+
+**[बहलअमा](# "बहलतमा हतरात्रिरद्यप्रोषितःपतिर्गृहं शून्यं। तथा जागृहि समन्धिक न यथा वयं मुष्यामहे॥") हअराई अज्ज पउत्तो पई घरं सुण्णं।  
+तह जग्गेसु सअंधिअ ण जहा अह्मेमुसिज्जामो॥१९१॥**
+
+
+
+१–६–१२. विप्रकृष्टो यथा—
+
+**[चूडसुणओ](# "दुष्टशुनको विपन्नःअत्ता मत्ता प्रफेनकसुरया।कार्पासी च मोटिता महिषणकस्तस्य साधयति॥") विषण्णो अत्ता मत्ता पहे(ण)असुराए।  
+फलिअंअ मोधिअं महिसएण को तस्स साहेइ॥१९२॥**
+
+९–६–१३. सम्बद्धोयथा—
+
+**[रत्तिं](# "रात्रिंनिर्दयरीमितो देवरो बध्वा..................।मा स्पृशेति प्रभाते भणितः अभिमुखं हसति॥")णिद्दअरमिओ दिअरो बदुआए मलउ पोत्तीए?।  
+मा छिवबुत्तिपहाए भणिओ अंतोमुहं हसइ॥१९३॥**
+
+१–६–१४ असम्बद्धो यथा—
+
+**[सुप्पं](# "शूर्पं दग्धं चणका न भर्जिताःपान्थश्चापक्रान्त।श्वश्रुः गृहे कुपिता भूतानां वादितो वंशः॥") दड्ढंचणआण हुग्गिआ पंथिओ अ बोलीणो।  
+अत्ता वरंभिछुविआ भूआणं बाइओ वंसो॥१९४॥**
+
+१–६–१५. सापदेशोयथा—
+
+**[पइपुरओ](# "पतिपुर एव नीयते वृश्चिकदष्टेति जारवैधगृहम्। सख्याश्रयेण करधारितभुजलतांदोलनशीला मुग्धा॥") च्चिअ णिज्जइविंछुअदठ्ठेत्तिजारवेज्जघरं  
+सहिआसएण करधरिअहुअलअंदोलिरी मुद्धा॥१९५॥**
+
+१–६–१६ निरपदेशो यथा—
+
+**[उग्गाहिएक्कहुमअं](# "उद्ग्राहितैकभु.........तनुहासन्कुरद्दशनज्योत्स्रालं। कस्य न हरति हृदयं चौर्यदृष्टं मृगाक्ष्याः॥") तणुहासफुरंतदसणजोण्हालं।  
+कस्सण हरेइ हिअअं चोरिअदिठ्ठं मअच्छीए॥१९६॥**
+
+१–६–१७. भयनिमित्तोयथा—
+
+**[पणअस्खलणासंकालुआणँ](# "प्रणयस्खलनाशंकोलूनां लोकापवादभीतानां। लज्जालूनां कालः.................. गतो निरवशेषः॥")लोआपवाअभीआणं।  
+लज्जालुआण कालो^(....)अगओ णिरवसेसो॥१९७॥**
+
+
+
+१–६–१८. लज्जानिमित्तो यथा—
+
+**[सलिलोल्लदारुआलंपअत्तोच्चिअ](# "सलिलार्द्रदारु................सिमसिमायमाणानि। मदनानलेन लज्जालूनां दह्यन्ते हृदयानि॥") सिमिसिमाअमाणाइं।  
+मअणाणलेण लज्जालुआण धज्जंति हिअआइं॥१९८॥**
+
+१–६–१९. कालनियतो यथा—
+
+**[आअरपणामिओट्ठं](# "आदरप्रणामितोष्ठं अघटितनासं असंहतनिटालं। वर्णघृतलिप्तमुख्यास्तस्याः परिचुंबितं स्मरामः॥") अघडिअणासं असंहअणिडालं।  
+वण्णधिअतुप्पमुहिए तीए परिचुंबिअं म्हरिमो॥१९९॥**
+
+१–६–२०. देशनियतो यथा—
+
+**[जाणामि](# "जानामि जनो निपुणः गुरुजनमध्ये संस्थिता चाहं। तत् किं करोमि प्रियसखि धृतापि बलाद्वलते दृष्टिः॥") जणो णिउणो गुरुअणमज्झंमि संठिआ अ अहं।  
+ता किं करेमि पिअसहि धरिआ वि वला वलइ दिट्ठी॥२००॥**
+
+१–६–२१. नागरो यथा—
+
+**[किं](# "किं न भणितोऽसि बालक ग्रामणिस्नुषया गुरुजनसमक्षम्।अनिमिषःवक्रवलद्वदननयनार्धदृष्टैः॥") ण भणिओ सि बालअ गामिणिधूआए गुरुअणसमक्खं।  
+अणिमिस . वक्कवलंतवअणणअणद्धदिट्ठेहिं॥२०१॥**
+
+१–६–२२. उपनागरो यथा—
+
+**[........गिलुक्कविआसई](# "............................. प्रेषिताक्षियुगं। ...................... प्रेक्षणशीलया दृश्यमानो धन्योऽसि॥") णिरंगिवेरंतपेसिअच्छिजुअं।  
+अदिठ्ठणडंडणकपेच्छिरीए दीसंत धण्णोसि॥२०२॥**
+
+१–६–२३. ग्राम्यो यथा—
+
+**[दुट्ठुं](# "द्रष्टुं चिरं न लब्धो मामि प्रियो दृष्टिगोचरगतोऽपि। दण्डाहतवलितभुजङ्गवक्ररथ्येहतग्रामे॥")चिरं ण लद्धो मामि पिओ दिट्ठिगोअरगओ वि।  
+दंडाहअवलिअहुअंगवक्करच्छे हअग्गामे॥२०३॥**
+
+
+
+१–६–२४. प्रकीर्णो यथा—
+
+**[चुंबइ](# "चुंबति... मुखी दयित (कपोलमिव) पाण्डुरच्छायं।असती निधुवनवटपादपस्य वातानीतं पत्रम्॥") वासिण्णमुही दइअकओ(लं)व्व पंडुरच्छाअं।  
+असई णिहुवणपडपाअवस्स वाआणिअं पत्तं॥२०४॥**
+
+  १—७. अथाकृत्रिमः सोऽपि २४ चतुर्विंशतिविधःसहजयौवनजाहार्यज विस्रम्भजानां भेदोपभेदप्रभेदसम्भेदविभेदभेदात् अनन्यजानेव्या? तत्र भेदाः सहजा? य एव.
+
+१–७–१. तेषु जन्मान्तरानुभवजन्मा निष्कारणमेव प्रवृत्तः प्रकर्षगामी सहजः यथा—
+
+**इयं महेन्द्रप्रभृतीनधिश्रियः  
+  चतुर्दिगीशानवमत्य मानिनी।  
+अरूपहार्यं मदनस्य निग्रहात्  
+  पिनाकपाणिं पतिमाप्तुमिच्छति॥२०५॥**
+
+१–७–२. स उपभेदतो द्वेधा, एकविषयोऽनेकविषयश्च तत्रैकविषयो यथा—
+
+**श्लाघ्यस्त्यागोऽपि वैदेह्याः पत्युः प्राग्वंशवासिनः।  
+अनन्यजानेर्यस्यासीत्सैव जाया हिरण्मयी॥२०६॥**
+
+१–७–३. अनेकविषयो यथा—
+
+**[असईण](# "असतीनां नमस्तासां दर्पणसदृशेषु यासां हृदयेषु। य एव तिष्ठति पुरः सहसा स एव सङ्क्रामति॥") णमो ताणं दप्पणसरिसेसु जाण हिअएसु।  
+जोच्चेअ ठाइ पुरओ सहसा सोच्चेअ संकमइ॥२०७॥**
+
+१–७–४. तारुण्योद्रेकादुपचितेषु उपचीयमानेषु च शरीरधातुषु दर्पातिरेकाद्य उपजायते स यौवनजः यथा—
+
+**[तद्दिअहकआभोआ](# "...कुताभोगा यथा यथा स्तनाः....कुमारीणां। तथा तथा लब्धावास इव मन्मथो हृदयमाविशति॥") जह जह धणआ विणिंति कुमरीणं।  
+तह तह लद्धावासो व्व वम्महो हिअअमाविसइ॥२०८॥**
+
+
+
+१–७–५. सोऽपि द्विधा शारीरो मानसश्च तत्राद्यो यथा—
+
+**[चंपहइ](# "...वीतकण्ठं मम सुतः एकप्रहारविनिपातं। तत् कुलद्षणि स्नुषे स्तनयोस्तव मध्ये पतति॥") वीअकंठं मज्झ सुओ एक्कपहरविणिवाअं।  
+तं कुलदूसणि सोह्णेधणाण तुह मज्झए पड....॥२०९॥**
+
+१–७–६. द्वितीयो यथा—
+
+**[णअणाण](# "नयना............ति उत्सुकपथं प्रवर्तमानाः। इति शिक्ष............लोचनं भविष्यत्तरुण्यः॥") इरणो मंभिहिंति उज्जुअपहं पवठ्ठंता।  
+इअ सिख्खंतवदं सालो लोअणं होंततरुणीओ॥२१०॥**
+
+१–७–७. चक्षुःप्रीतिमात्रे वा सति उपचारैः यः प्रकर्षमापद्यते स आहार्यः, यथा—
+
+**[घरिणीए](# "गृहिण्या अकृत ....प्रियतमे कुर्वति। अकृतार्थाया अपि जातानि झटिति शिथिलानि अङ्गानि॥") अकअलं वंच धुअं मं? पिअअमे कुणंतंमि।  
+अकअत्थाए वि जाआइ झत्ति सिढिलाइ अंगाइ॥२११॥**
+
+१–७–८. सोऽपि द्विधा स्थिरो भङ्गुरश्च स्थिरो यथा—
+
+**[मामि](# "मामि हृदयमिव पीतं तेन यूना मर्ज्जत्याः। स्नानहरिद्राकटुकं अनुस्रोतोजलं पिबता॥") हिअअं व पीअं तेण जुवाणेण मज्जमाणीए।  
+ह्णाणहलिद्धाकडुअं अणुसोत्तजलं पिवंतेण॥२१२॥**
+
+१–७–९. भङ्गुरो यथा—
+
+**[लज्जा](# "लज्जा त्यक्ता शीलं च खण्डितं अयशोघोषणा दत्ता। यस्य कृते ननु प्रियसाखि स एव जनो जनो जातः॥") छत्ता सीलं च खंडिअं अजसघोसणा दिण्णा।  
+जस्स कए णं पिअसहि सो च्चेअ जणो जणो जाओ॥२१३॥**
+
+१–७–१०. कालक्रमेण प्ररूढविश्वासयोर्यः प्रकर्षमारोहन्नोपचारादनिद्रियते स विस्रम्भजः यथा—
+
+**अद्वैतं सुखदुःखयोरनुगतं सर्वास्ववस्थासु यत्  
+  विश्रामो हृदयस्य यत्र जरसा यस्मिन्नहार्यो रसः।**
+
+
+
+**कालेनावरणात्ययात्परिणते यत्प्रेमसारे स्थितं  
+  भद्रं तस्य समानुषस्य कथमप्येकं हि तत् प्रार्थ्यते॥२१४॥**
+
+१–७–११. सोऽपि द्विधा मुग्धःप्रगल्भश्च मुग्धो यथा—
+
+**[जह](# "यथा यथा जरापरिणतांभवति पतिः दुर्गती विरूपश्च।कुलपालितानां तथा तथा अधिकतरं बल्लभो भवति॥") जह जरापरिणओ होइ पई दुग्गओ विरूओ अ।  
+कुलवालिआण तह तह अहिअअरं वल्लहो होइ॥२१५॥**
+
+१–७–१२. प्रगल्भो यथा—
+
+**[णाअरिआपेम्म](# "नागरिकाप्रेम....पि अन्यो..........? सद्भावमात्रासाराणि।कृष्णो राधाया...…………….॥") विअण्णो विसब्भावमेत्तसाराइ।  
+कण्हो राहाए समुम्मुजुआइ भरइच्चिअआलं?॥२१६॥**
+
+१–७–१३. प्रभेदतः सहजयौवनजः सहजाहार्यजः सहजविस्रम्भजः यौवनजाहार्यजः यौवनजविस्रम्भजःआहार्यविस्रम्भजः इति तत्रसहजयौवनजो यथा—
+
+**तदा किञ्चित्किञ्चित्कृतपदमहोभिःकतिपयैः  
+  तदेतद्विस्तारि स्तनयुगलमासीन्मृगदृशः।  
+वयस्स्नेहाकूतव्यतिकरघनो यत्र मदनः  
+  प्रगल्भव्यापारश्चरति हृदि मुग्धश्चवपुषि॥२१७॥**
+
+१–७–१४. सहजाहार्यजो यथा—
+
+**तन्मे मनः क्षिपति यत्सरसप्रहार-  
+  मालोक्य मामगणितस्खलदुत्तरीया।  
+त्रस्तैकहायनकुरङ्गविलोलदृष्टि-  
+  राश्लिष्टवत्यमृतसंवलितैरपाङ्गैः॥२१८****॥**
+
+
+
+१–७–१५. सहजविस्रम्भजो यथा—
+
+**इतः परानर्भकहार्यशस्त्रान्  
+  वैदर्भि पश्यानुमता मयाऽसि।  
+एवंविधेनाहवचेष्टितेन  
+  त्वं प्रार्थ्यसे हस्तगता ममेभिः॥****२१९****॥**
+
+१–७–१६. यौवनजाहार्यजो यथा—
+
+**[अज्ज](# "अद्य कतमोऽपि दिवसो व्याधवधू रूपयौवनोन्मत्ता।सौभाग्यं धनुस्तदृत्वक्च्छलेन रथ्यासु विकिरति॥") कइमो वि दिअहो वाहवहू गरुअजोव्वणुंमइआ।  
+सोहग्गं धणुरुंपच्छलेण रच्छासु विक्किरइ॥****२२०****॥**
+
+१–७–१७. यौवनजविस्रम्भजो यथा—
+
+**[तह](# "तथा स्नुषया प्रलोकितो दरवलमानार्धतारकं पथिकः। यथा (वारितोऽपि) गृहस्वामिनाऽलिन्दे उषितः।") सोह्णाए पुलोइओ दरबलिअंतद्धतारअं पहिओ।  
+जह धाडओ वि घरसामिएण ओलिन्दए वसिओ॥****२२१****॥**
+
+१–७–१८. आहार्यविस्रम्भजो यथा—
+
+**अद्य प्रभृत्यनुपमाङ्गि तवास्मि दासः  
+  क्रीतस्तपोभिरिति वादिनि चन्द्रमौलौ।  
+अह्नाय सा नियमजं क्लममुत्ससर्ज  
+  क्लेशःफलेन हि पुनर्नवतां विधत्ते॥२२२॥**
+
+१–७–१९. संभेदतो निस्सहजो निर्यौवनजः निराहार्यजः निर्विस्रम्भज इति। निस्सहजो यथा—
+
+**रम्भोरु संहर भयं क्षमते विकार-  
+  मुत्कम्पितस्तनभरस्य न मध्यभागः।  
+इत्थं त्वयैव कथितप्रणयप्रसाद-  
+  सङ्कल्पनिर्वृतिषु संस्कृत एष दासः॥****२२३****॥**
+
+
+
+१–७–२०. निर्यौवनजो यथा—
+
+**तत्क्षणं विपरिवर्तितह्णियो-  
+  र्नेष्यतोः शयनमिद्धरागयोः।  
+सा बभूव वशवर्तिनी द्वयोः  
+  शूलिनस्सुवदना मदस्य च॥२२४॥**
+
+१–७–२१. निराहार्यजो यथा—
+
+**मा गर्वमुह्रह कपोलतले चकास्ति  
+  कान्तस्वहस्तलिखिता मम मञ्जरीति।  
+अद्यापि किं सखि न भाजनमीदृशानां  
+  वैरी न चेद्भवति वेपथुरन्तरायः॥****२२५॥**
+
+१–७–२२. निर्विस्रम्भजो यथा—
+
+**अद्योर्जितं विजितमेव मया किमन्य-  
+  दस्योत्सवः फलवतो मम यौवनस्य।  
+यस्य प्रसादसुमुखेन समुद्धृतेयं  
+  देवेन बान्धवधुरा मकरध्वजेन॥****२२६॥**
+
+१–७–२३. विभेदः सहजादिसमूहः सहजामि? विपर्ययज इति तत्राद्यो यथा—
+
+**भावसूचितरहस्यविक्रियं  
+  चाटुमत् क्षणवियोगकातरम्।  
+कैश्विदेव दिवसैस्तथा तयोः  
+  प्रेम रूढमितरेतराश्रयम्॥****२२७॥**
+
+१–७–२४. द्वितीयो यथा—
+
+**[पाअपडिअं](# "पादपतितमभव्ये किंमिदानी नोत्थापयासि भर्तारम्। एतदेवावसानं दूरमपि गतस्य प्रेम्णः॥") अहव्वे किं दाणिꣳण उट्ठवेसि भत्तारं।  
+एअं विअ अवसाणं दूरं पि गअस्स पेम्मस्स॥२२८****॥**
+
+
+
+  अथ १—८. कृत्रिमःपूर्वमविद्यमानः कार्यहेतोर्य उपायैः प्रवर्त्यते स कृत्रिमः सोऽपि २४ चतुर्विंशतिप्रकारः—  
+
+
+।                    ।                    ।                  ।
+।--------------------।--------------------।------------------।
+। १.नित्यानुकारी     । ९.आहार्यानुकारी    । १७.सप्रयोजनः     ।
+। २.नैमित्तिकानुकारी । १०.विस्रम्भानुकारी । १८.अन्यप्रयोजनः  ।
+। ३.सामान्यानुकारी   । ११.सालम्बनः        । १९.सप्रतिभेदः    ।
+। ४.विशेषानुकारी     । १२.निरालम्बनः      । २०.निष्प्रतिभेदः ।
+। ५.प्रकाशानुकारी    । १३.प्रसिद्धविषयः   । २१.स्त्रीकृतः    ।
+। ६.प्रच्छन्नानुकारी । १४.अप्रसिद्धविषयः  । २२.पुरुषकृतः     ।
+। ७.सहजानुकारी       । १५.सुप्रयुक्तः     । २३.उभयकृतः       ।
+। ८.यौवनजानुकारी     । १६.दुष्प्रयुक्तः   । २४.अनुभयकृतः     ।
+
+इति.
+
+१–८–१. तत्र नित्यानुकारी यथा—
+
+**[अज्ज](# "अद्य सुरते प्रियसखि तस्य विलक्षत्वं हरन्त्या।अकृतार्थया कृतार्थः प्रियःमया (पुनरप्यु) पगूढः॥") सुरअंमि पिअसहि तस्स विलक्खत्तणं हरंतीए।  
+अकअत्थाए कअत्त्थो पिओ मए उणिअ? मवऊढो॥२२९॥**
+
+१–८–२. नैमित्तिकानुकारी यथा—
+
+**तमसौ सहकारमञ्जरीमवमन्वानमिवादरार्पिताम्।  
+अरुणाग्रदलैरताडयत्तरुणी स्तोकमशोकपल्लवैः॥२३०॥**
+
+१–८–३. सामान्यानुकारी यथा—
+
+**[माअंगी](# "मातंगी भवेयं (निश्चयेन) * * मा वेश्या अत्र मानुषे लोके। सद्भावेनापि रमितः ततोपि जनःकृत्रिमं [भणति]।") होज्ज वणे मा वेसा एद्धमाणुसे लोए।  
+सब्भावेण वि रमिओ तो वि जणो कत्तिमं भणइ॥२३१॥**
+
+१–८–४. विशेषानुकारी यथा—
+
+**विकसत्कलिकानुकारिणीं  
+  अनुलीलां ललितैर्लतेव सा।**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\* “वणे निश्चयानुकंप्य विकल्पे” २—१—४३ सूत्रं वाल्मीकीयम्.      
+           
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+**विरराज विलासपल्लवैः  
+  प्रवगल्भं प्रविनिष्फलैरपि?॥****२३२****॥**
+
+१–८–५. प्रकाशानुकारी यथा—
+
+**दृष्टिं हे प्रतिवेशिनि क्षणमिहाप्यस्मिन् गृहे दास्यसि  
+  प्रायेणास्य शिशोः पिता न विरसाः कौपीरपः पास्यति।  
+एकाकिन्यपि यामि तद्वनमितः स्रोतस्तमालाकुलं  
+  नीरन्ध्राः पुनरालिखन्तु जरठच्छेदा नलग्रन्थयः॥२३३॥**
+
+१–८–६. प्रच्छन्नानुकारी यथा—
+
+**[किं](# "किं नीलकण्ठ गच्छसि किं वा सुप्तोऽसि जनमनआनन्द।तव कृते इह (आगता) विद्धाऽहं मदनबाणैः॥") णीलकण्ठ गच्छसि किं वा सुत्तोऽसि जणमणाणंद।  
+तुज्झ कए इह आआ विद्धाहं मअणबाणेहिं॥****२३४****॥**
+
+१–८–७. सहजानुकारी यथा—
+
+**स्फुटनाभितला तलोदरी  
+  निरनुच्छ्वासितनिर्मुखस्तनी।  
+वलितैकविलोचना बभौ  
+  तमदि? व्याजविजृम्भितोद्भुजा॥२३५****॥**
+
+१–८–८. आहार्यानुकारी यथा—
+
+**विषयादविशेषविह्वला  
+  मुमुदे मीलितलोचना मुहुः।  
+किलिकिञ्चितकेलिपण्डिता  
+  किमकाण्डे न चकार तं प्रति॥२३६॥**
+
+१–८–९. यौवनजानुकारी यथा—
+
+**वपुरप्रतिकर्मसुन्दरं  
+  प्रतिपन्नप्रतिकर्म बिभ्रती।**
+
+
+
+**विततान विदग्धकामिनी  
+  जनयोग्यं (ग्या) सु कलासुकौशलम्॥****२३७****॥**
+
+१–८–१०. विस्रम्भजानुकारी यथा—
+
+**अवलम्ब्य लतां निरायता मथ सा संस्तवशालिनी वनम्।  
+अपचेतुमयाचताग्रतः कलिकामुत्कलिका बलात्कृता॥२३८॥**
+
+१–८–११. सालम्बनो यथा—
+
+**[घरसामिअस्स](# "गृहस्वामिनो रागं जनयति स्विद्यद्वेपितोल्लासिता।असती हृदयाभ्यन्तर भावितजारा निधुवने॥") राअं जणेइ सिज्जंतवेविरुल्लसिआ।  
+अपई हिअअब्भंतरभाविअजारा णिहुवणंमि॥****२३९****॥**
+
+१–८–१२. निरालम्बनो यथा—
+
+**निपसादनिशीथमल्लिकाशिथिलाश्रुस्तबकांचितस्तनी।  
+तदनु क्रमशः कपोलयो-रुपनीतोभयपाणिपल्लवा॥२४०****॥**
+
+१–८–१३. प्रसिद्धविषयों यथा—
+
+**[णंदंतु](# "मन्दन्तु सुरतसरभसतृष्णापहराणि सकललोकस्य। बहुरंगविनिर्मितानि वेशवनितानां हृदयानि॥") सुरअसरहसतण्हावहराइ सअल्लोअस्स।  
+बहुरंगविणिम्मविआइ वेसविलआण हिअआई॥****२४१****॥**
+
+१–८–१४ अप्रसिद्धविषयो यथा --
+
+**[पेच्छह](# "प्रेक्षध्वं हलाबक्ष्येतेषां महिलया यत्कृतं तया।..........चुंबने...................इति निस्सारितोजारः॥") हला अ वोच्चं ताण अ महिलाए जं कअं तीए।  
+सज्जक्खिचुंबणे णथ्थदंति? णीसारिओ जारो॥२४२****॥**
+
+१–८–१५. सुप्रयुक्तो यथा—
+
+**[एएणं](# "एतेनैव गुणेन किं न वेश्यानां दृश्यते आत्मा। वेष इव प्रिय इव जने यन्मुखशगस्सम एव॥") चेअ गुणेण किं वेसाण दिज्जए अप्पा।  
+वेसे व्व पिए व्व जणे जं मुहुराओ समो च्चेअ॥२४३॥**
+
+
+
+१–८–१६. दुष्प्रयुक्तो यथा—
+
+**मुनिमभिमुखतां निनीषवो ये  
+  समुपययुः कमनीयतागुणेन।  
+मदनमुपदधे त एव ताभ्यो  
+  दुरधिगमाधि (हि)गतिः प्रयोजनानाम्॥२४४॥**
+
+१–८–१७. सप्रयोजनो यथा—
+
+**[वोढपरेण](# "....परेणापि तथा केन रमिता निजकार्यनिपुणेन। यथा मुग्धयापि रमितो मुग्ध इति वध्वा निश्शं कं॥") वि तह केण रामिआ णिअअकज्जणिउणेण।  
+जह मुध्धाए वि रमिओ मुद्धत्ति वहुए णीसंकं॥२४५॥**
+
+१–८–१८. अन्यप्रयोजनो यथा—
+
+**मात्र करिष्यसि खेदं निष्ठुरमुक्तोसि यन्मया सुभग।  
+यूनां हि रक्ततरुणीपरुषवचः प्रथममाभरणम्॥२४६॥**
+
+१–८–१९ सप्रतिभेदो यथा—
+
+**[उण्हाइ](# "उष्णानि निश्वसन् आलिंगसि किमिति मां पराङ्मुखीं।हृदयं प्रदीपितं अनुशायेन पृष्ठं प्रदीपयसि॥") णीसमंतो आलिंगसि मं पराहुंतीं।  
+हिअअं पलीविअं अणुसरण पुठ्ठिंपलीवेसि॥२४७॥**
+
+१–८–२०. निष्प्रतिभेदो यथा—
+
+**[अफडेण](# "..........................................कार्यस्य अन्तगमनेन। सुरतरहस्येन हरन्ति येन हृदयानि वेश्याः॥") उपकंपितेण कज्जस्स अंतगमणेण।  
+सुरअरहस्सेण हरंति जेण हिअआइ बेसाओ॥२४८॥**
+
+१–८–२१. स्त्रीकृतो यथा—
+
+**[काउण](# "कृत्वा....जघनं पर्याप्तरतया वेश वनितया। तथा कथमपि पुलकितं यथा पुनरपि मदन उपस्थापितः॥") धीरजहणं पज्जत्तरआए वेसविलआए।  
+तह कह वि पुलइअं जह पुणो वि मअणो उवठ्ठिविओ॥२४९॥**
+
+
+
+१–८–२२ पुरुषकृतो यथा—
+
+**[होंतवरो](# "भविष्य.….. तथा तथा गेहिन्यां चाटुकर्मव्यापृतो भवति............. भवन्ति............दिवसानि॥") तह (तह)? हेहिणीए चुडुअंमवावडो होइ।  
+जह इअसंगोई हुवंति वारेज्जुदिअहाइं?॥२५०॥**
+
+१–८–२३ उभयकृतो यथा—
+
+**[धिंगडि](# "अविशदा गाधा.") थावइ संमुही धीगुवसारइ धाहक्कुट्टणं।  
+रोवइ अस्सुअहिंधुत्त धुमेल्लइ दाह............॥२५१॥**
+
+१–८–२४ अनुभयकृतो यथा—
+
+**[उरवेल्लिअवइ](# "उरःप्रेरितवृति कारवेल्लीफलान्युच्चिनोषि दयितवत्सले। कण्टकविलिखितपीन्नोतस्तनि उताम्य इदानीम्॥") कारिल्लआइ उच्चेसि दइअवच्छलिए।  
+कंटअविलहिअपणुण्णअथाणि उत्तम्म एत्ताहे॥२५२॥**
+
+**द्वादशैवं सहस्राणि साष्टाशीतिशतद्वयी।  
+भवन्ति कामशृंगारे मूलप्रकृतयः पृथक् ॥**
+
+**व्यतिषंगादमूषां तु साम्याधिक्याल्पताकृतः।  
+न पर्यन्तो विकल्पानामेकद्वित्र्यादियोगतः॥**
+
+**चतुष्षष्टिं पश्यन्प्रथममभिलाषप्रभृतिका-  
+  नथाष्टौ नित्यादीन्पृथगपि चतुर्विंशतिविधान्।  
+मिथो मिथ्यासम्यक्समधिकसमत्वानि विमृश-  
+  न्कविः कुर्यात्स्रोतोऽनुगुणमनुरागव्यतिकरम्॥**
+
+इति महाराजाधिराजश्रीभोजदेव विरचिते  
+शृङ्गारप्रकाशेऽनुरागस्थापनो नाम  
+द्वाविंशःप्रकाशः
+
+
+
+**अथ त्रयोविंशः प्रकाशः**
+
+विप्रलम्भ-सम्भोग प्रकाशनम्  
+**\_\_\_\_\_\_\_\_\_\_\_\_  
+**
+
+सः अवस्थाद्वितयभेदात् द्विप्रकारः— १.सम्भोगशृङ्गारो, २.विप्रलम्भशृङ्गारश्च.  
+  १. अभिलपणीयालिङ्गनादीनामवाप्तौसम्भोगः स चतुर्धा—
+
+१–१. प्रथमानुरागानन्तरः    १–३. प्रवासानन्तरः  
+१–२. मानानन्तरः         १–४. करुणानन्तरः
+
+इति.
+
+  २. तेषामेवानवाप्तौविप्रलम्भः सोऽपि चतुर्धा—
+
+२–१. प्रथमानुरागः    २–३. प्रवासः  
+२–२. मानः         २–४. करुणः
+
+इति.
+
+  २–१. ततः स्त्रीपुंसयोः परस्परमपूर्वादिदर्शनश्रवणजन्मा रूपगुणवयस्सम्पदुपकारापेक्षः तदनपेक्षो वा मनः पक्षपातविशेषःग्रथीयात्प्रथमानुरागो विप्रलम्भः
+
+  १–१. सति चैतस्मिन तयोरेव प्रथमसङ्गमादौ अभिलषणीयालिङ्गनादिलाभ प्रथमानुरागानन्तरः सम्भोगः
+
+  २–२, १–२
+
+  २–३. सत्यनुरागे दैवदुर्विपाकादिजन्मा तयोः विदूरदेशवासः प्रवासः विप्रलम्भः
+
+  १–३. तदभिवृद्धौप्रवृद्धोत्कण्ठयोरेवभूयम्समागमे अभिलाषादिनिष्पत्तिःप्रवासानन्तरस्सम्भोगः
+
+  १-४. प्ररूढस्नेहयोरेकविनिपाते अन्यस्य दुःखातिरेकः हृदयदारणःकरुणः विप्रलम्भः
+
+  १-४· तयोरेवादृष्ट विशेषादिसम्पदा तदुन्मज्जनजन्मा मनःप्रमोदातिशयःविशेषवान् करुणानन्तरः सम्भोगःइति-
+
+  प्रथमानुरागादीनां विप्रलम्भानां तदनन्तराणां च सम्भोगानां पृथक्पृथक् चतुर्णां समवायेपूर्वःपूर्वोविचित्रःपर परो रागवर्धनःइति.
+
+  वैचित्र्ये रागवर्धनत्वेनापि विप्रलम्भः सम्भोगात् सर्वतःसर्वो बलीयान् इति-
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\*अत्र मान मानान्तरसम्भोगनिर्वचनग्रन्थः मातृकायां न दृश्यते.  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+  एवं नित्यान्नैमित्तिकः, सामान्याद्विशेषः, प्रकाशात्प्रच्छन्नः कृत्रिमादकृत्रिमः, रागवर्धने; वैचित्र्ये तु अकृत्रिमात्कृत्रिमः, प्रच्छन्नात्प्रकाश;, विशेषात्सामान्यः, नित्यान्नैमित्तिकःबलीयान् इति.
+
+  नित्यसामान्यप्रकाशकृत्रिमाणां पूर्व, पूर्वोरागवर्धनः, पर परो विचित्रः इति.
+
+  नैमित्तिकविशेषप्रच्छन्नाकृत्रिमाणां पूर्वःपूर्वो विचित्रः परः परः परो रागवर्धनःइति.
+
+  एवं मृदोश्चादुः समीचोऽतिशायी, वासन्ताद्वार्षिकःप्रासादिकान्मदजः, समयजन्मनस्सम्बन्धजन्मा(•)गुणगोचरः, साधारणादसाधारणः, सांसर्गिकान्नैसर्गिक, प्रौढाविषयान्नवोढाविषयः, प्रोषितपतिकाविषयाद्विरहोत्कण्ठिताविषयः, स्वांगनाविषयात्परांगनाविषयः, सुलभाद्सुलभःआहार्याद्विस्रम्भजः, नित्यानुकारिणो नैमित्तिकानुकारी, प्रकाशानुकारिणः प्रज्ञानानुकारी, बलीयान् इत्यादिप्रभेदेषु क्रमेण रागवर्धनत्वे व्यतिरेकेण तु वैचित्र्ये (त्यत्नापि?) यथायथं योजनीयमिति(•) (द्रव्यगोचरात्)
+
+  प्राक्प्रपश्चितानुरागानुरूपाश्च प्रथमानुरागमानप्रवासकरुणविप्रलम्भाः, तदानन्तर्या नुकारिणश्च तदनन्तरा स्सम्भोगाः, भावजन्मानुवम्धप्रकर्षानुरूपास्तदवस्थासमृद्धयःनायकप्र(कृ)त्यनुरूपास्तद्नुभावसम्पदः, उत्तमत्वमुग्धत्वाद्यनुरूपाणि तेषां रामणीयकादीनि, बलाबलानुरूपास्सम्पर्कानुगमभक्तयः संविधानकानुरूपाम्तेषां संविधयः, सन्निकर्षविप्रकर्ष प्रकर्षापकर्षवत्यो व्यतिकरप्रकृप्तयः इति.
+
+तत्रसम्भोगः—
+
+।                  ।                ।                       ।
+।------------------।----------------।-----------------------।
+। १.स्वाङ्गनाविषयः । ५.मध्यमाविषयः  । ९.प्रगल्भाविषयः       ।
+। २.पराङ्गनाविषयः  । ६.कनिष्ठाविषयः । १०.सर्वविषयः          ।
+। ३.सामान्याविषयः  । ७.मुग्धाविषयः  । ११.सर्वकालविषयः       ।
+। ४.उत्तमाविषयः    । ८.मध्याविषयः   । १२.सर्वर्तुचर्याविषयः ।
+
+इत्येवमादिरनेकप्रकारः तत्प्रत्यनीकतया विप्रलम्भोऽपि तावत्प्रकार एव. केवलमस्य प्रथमानुरागादिषु पूर्वकालभाविता, सम्भोगस्य त्वनन्तरकालभावितेति विशेषः.
+
+१—१. तत्र सम्भोगःस्वाङ्गनाविषयो यथा—
+
+**[आणासआइ](# "आज्ञाशतानि ददती तथा सुरते हर्षविकसितकपोला। प्रभातेऽप्यवनमुखी असौ सेति प्रियां न श्रदृध्मः॥") देंती तह सुरए हरिसविअसिअकवोला।  
+गोसे वि ओणअमुही अससेत्ति पिआं ण सद्धहिमो॥१॥**
+
+
+
+१—२. पराङ्गनाविषयो यथा—
+
+**[मुहविज्झविअपईवं](# "मुखनिर्वापितप्रदीपं उच्छवसितनिरुद्धशंकितोल्लापं शपथशतरक्षितोष्टं चौर्यरमितं सुखयति॥") ऊससिअणिरुद्धसंकिउल्लावं।  
+सवहसअरक्खिओठ्ठंचोरिअरमिअं सुहावेइ॥२॥**
+
+१—३. सामान्याविषयो यथा—
+
+**यथायथं ताः सहिता नभश्चरैः  
+  प्रभाभिरुद्भासितशैलवीरुधः।  
+वनं विशन्त्यो वनजायतेक्षणाः  
+  क्षणद्युतीनां दधुरेकरूपताम्॥३॥**
+
+१–४. उत्तमाविषयो यथा—
+
+**[हरिसुल्लावा](# "हर्षोल्लापाः कुलपालिकानां लज्जाकदर्थिते सुरते। कण्ठाभ्यन्तरभ्रमिता अधर एव हुरुहुरायन्ते।") कुलपालिआण लज्जाकडच्छिए सुरए।  
+कंठब्भंतरभमिआ अहरे च्चिअ हुरुहुराअंति॥****४****॥**
+
+१–५. मध्यमाविषयो याथा—
+
+**[सुरआवसाणविलिओणआओ](# "सुरतावसानविलीनाः स्वेदार्द्ववदनकमलाः।अर्धाक्षिप्रेक्षणशीलाः प्रियाः धन्याः पश्यन्ति॥") सेउल्लवअणकमलाओ।  
+अद्धच्छिपेच्छिरीओ पिआओ धण्णा पुलोअंति॥५॥**
+
+१–६. कनिष्टाविषयो यथा—
+
+**[पज्जत्तंमि](# "पर्याप्तेऽपि सुरते विगलितबन्धं च संयमयन्त्या। विभ्रमहसितैःकृतः पुनरपि मदनासुरो दयितः॥") वि सुरए विअलिअबंद्धंअ संजमंतीए।  
+विब्भमहसिएहिं कओ पुणो वि मअणाउरो दइओ॥६॥**
+
+१–७. मुग्धाविषयोयथा—
+
+**[पोढमहिलाण](# "प्रौढमहिलानां यद्यत् सुशिक्षितं तद्रते मुखयति। यद्यदक्षितं नववधूनां तत्तद्रतिं ददाति॥") जं जं सुसिक्खिअं तं रए सुहावेइ।  
+जं जं असिक्खिअं णवबहूण तं तं रइंदेइ॥७****॥**
+
+
+
+१–८. मध्यमाविषयो यथा—
+
+**[परिओसअह्मि](# "परितोषे.......गाढपरिरम्भ मामुञ्चति?।अनुमार्ग संमुंच्छवासानुबन्ध स्पर्शाभ्यां स्तनाभ्यम्॥") सहितांह्मिगाढपरिरंभमामुअंतंमि।  
+अणुमग्गसमूससणाणुबंधफंसेहिं थणएहिं॥८॥**
+
+१–९. प्रगल्भाविषयों यथा—
+
+**[सब्भावगब्भिणं](# "सद्भावगर्भितंप्रकटयन्ति तथा किमपि मन्मथरहस्यं।रमण्यो यथा न विरमन्ति प्राप्तसौख्यान्यपि रतानि॥") पाअडंति तह किं वि वम्महरहस्सं।  
+रमणीओ जह ण विरमंति पत्तसोक्खाइ वि रआइं॥९॥**
+
+१–१०. सर्वविषयो यथा—
+
+**[घेत्तुं](# "गृहीतुं मुच्यते अधरः अन्यतो वलति प्रेक्षितुं दृष्टिः। घटितुं विवटेते भुजौ रते सुरताय विश्रामः॥") मुंचइ अहरा अण्णत्तो वलइ पेच्छिउं दिठ्ठी।  
+घडिउं ब्विहडंति भुआ रअम्मि सुरआअवीसामो॥१०॥**
+
+१–११. सर्वकालविषयेषु प्रभातविषयो यथा—
+
+**निद्राविनोदितनितान्तरतक्लमाना-  
+  मायामिमङ्गलनिनादवियोधितानाम्।  
+रामासु भाविविरहाकुलितासु यूनां  
+  तत्पूर्वतामिवसमादधिरे रतानि॥११॥**
+
+१–१२. सर्वर्तुचर्याविषयेषु वसन्तचर्याविषयो यथा—
+
+**[दइअकअग्गहलुलिओ](# "दयितकचग्रहलुलितो धम्मिल्लशशीधुगन्धि वदनं। नयनमप्येतावदेव प्रसाधनं हसति तरुणीनाम्॥") धभ्मिल्लो सीहुगंधिअं वअणं।  
+णअणं पि एत्तिअं चिअ पसाहणं हसइ तरुणीणं॥१२॥**
+
+१–१३. ग्रीष्मविषयो यथा—
+
+**[दइअस्स](# "दयीतस्य ग्रीष्ममन्मथसन्तापं द्वयमपि झटित्यपनयति। मज्जनजलार्द्रचन्दनशिशिरा अलिंगनेन वधूः॥") गिम्मवम्महसंदावं दो वि झत्ति अवणेइ।  
+मज्जणजलत्धचंदणसिसिरा आलिंगणेण बहू॥१३॥**
+
+
+
+१–१४. वर्षर्तुविषयो यथा—
+
+**धारानिपातरवबोधितपञ्जरस्थ-  
+  दात्यूहडम्बरकरम्बितकण्ठकूजाः।  
+अट्टेषु काण्डपटवारितशीकरेषु  
+  धन्याः पिबन्ति मुखतामरसं तरुण्याः॥१४॥**
+
+१–१५. शरश्चर्याविषयो यथा—
+
+**[कलहोओज्जलगोरं](# "कलधौतोज्वलगौरं कलधौतसितासु शरद्रात्रिषु।चुम्बन्ति विकसिताक्षं विदग्धयुवतीमुखं धन्याः॥") कलहोअसिआसु सरअराईसु।  
+चुंबंति विअसिअच्छं विअद्धजुवईमुहं धण्णा॥१५॥**
+
+१–१६. हेमन्तविषयो यथा—
+
+**[हेमंते](# "हेमन्ते दृढपीडन........पुटसङ्क्रान्तकुङ्कुम..........। मिथुनानां गलति स्वेदो बहिरुद्गार इवशीतस्य॥") दढवीलण.... पडसंकंतकुंकुमुंतिसो।  
+मिहुणाण गलइ सेओ बहिरुग्गारो व्व सीअस्स॥१६॥**
+
+१–१७. शिशिरचर्याविषयो यथा—
+
+**[किं](# "किं तस्य प्रावारेण किमग्निना कि वा गर्भगृहेण। यस्योरसि निषीदति ऊष्मायत्ताणस्तनी जाया॥") तस्स पावरेणं किमग्गिणा किं व गन्भघरऐण।  
+जस्स उरम्मि णिसम्मइ उम्हाअंतत्थणी जाआ॥१७॥**
+
+१–१८. आदिग्रहणात्प्रकीर्णाविषयो यथा—
+
+**मधु च विकसितोत्पलावतंसं  
+  शशिकरपल्लवितं च सौधपृष्ठं।  
+मदनजनितविभ्रमा च कान्ता  
+  सुखमिदमर्थवतां विभूतयोऽन्याः॥१८॥**
+
+-----------------------------------------------------------------------------------------------------------------------------  
+3. किं तस्य प्रावारेण किमग्निना कि वा गर्भगृहेण। यस्योरसि निषीदति ऊष्मायत्ताणस्तनी जाया॥  
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+अथ विप्रलम्भः सोऽपि सम्भोगवदेव.
+
+२–१. स्वाङ्गनाविषयो यथा—
+
+**[पिआआडंबं](# "प्रिया.... ददाति गृहपति.... पुलकस्वेदसंवलिता। अद्य च तस्य दृष्टिः प्रतिफलिष्यति अत्र बिंबे?।") देइ गहवई? पुलअसेअसंवलिआ।  
+अज्जे अ तस्स दिट्ठी पडिपलिहिइ एद्धबिंबम्मि॥१९॥**
+
+२–२. परकीयाविषयो यथा—[**\***](# "संभोगनिर्दिष्ट क्रमानुरोधेन अत्रापि पराङ्गनाविषयः इति चेदनुरूपाण्यक्षराणि॥")
+
+**[अप्पत्तदंसअत्तम्मिरीए](# "अप्राप्तदर्शनोत्तमन शीलाया बालक त्वय्यपक्रान्ते।पति पुर एव.........निश्वसितम्॥") बालअ तुमंमि बोलीणे।  
+पइपुरओ च्चिअ सासे सिहिस्वंडखंडेहि णीससिअं?॥२०॥**
+
+२–३. सामान्याविषयो यथा—
+
+**[मण्णुब्भरिआ](# "मन्युभरितानरोदिति सन्दिशति न स्नेह..........।") ण रुअइ संदिसइ ण णेहणब्भरिसिअं ति?।  
+[⁺](# "अस्य उत्तरार्धस्य स्थाने “उअरिभरेण” इत्यर्धंअविभागेन लिखितं मातृकायाम्। नैतदस्या गाधायाःउत्तरार्धं। प्रत्युत अन्यस्याः अतः तत्स्थाने त्रुटिचिह्नं निवेशितम्.").................................................................॥२१****॥**
+
+^(**+**)**₊उअरि भरेण अ अण्णुअ मुअइ वइल्लो वि अंगाइ॥२२****॥**
+
+§ **(२–४) (२–५) (२–६)—**
+
+^(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_)  
+⁺_(+“)उअरि” इत्यस्य पूर्वार्धं यथा-शातवाहन गाधाकदंबके—“ऊहसि पिआए समअं तह वि खु मं भणसि कांस किसिअत्ति। इति । छाया—उह्यसे प्रियया समं तथापि खलु मां भणसि कस्मात्कृशेति। उपरि भरेण च अझ मुञ्चति बलीवर्दोप्यङ्गानि॥
+
+§ अत्र संभोगप्रभेदानुगुण्येन विप्रलंभप्रभेदोपि प्रतिज्ञातः। तथैव १-२-३ इति प्रभेदत्रयं उदाहरणेन निरूपितं। इत उत्तरं निरूपायव्येषु प्रभेदेषु २-४ उत्तमाविषयः, २-५ मध्यमाविषयः, २-६ कनिष्ठा विषयः इति त्रयाणां प्रभेदानां उदाहरणपद्यानि गलितानि।तद्गमकचिह्नमपि न किंचिदस्ति मातृकायाम्।इदमन्यदत्रावधेयं। यदुत २-३ सामान्याविषयस्य उदाहरणतया दृश्यमानं “नण्णु भरिआ” इति गाधार्धं न तस्य समंजसं भवति यदपि “उअरिभरेण” इति गाधार्धं असंबद्धं लिखितं तत् गलित विप्रलंभप्रभेदोदाहरण गाधासु अन्यतमगाधाया उत्तरार्धं लेखकप्रमादात् अत्रसदानितं भवेत् अत्र वक्तव्यमन्यत् परिशिष्टे निरूपयिष्यते॥  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+२–७. मुग्धाविषयो यथा—
+
+**[कइ](# "कदाआ गतः प्रियः अद्य पुत्रि आ(का)य्येण कति दिनानि भवन्ति। एकः एतावन्मात्रं भणित्वा मांहे [गता बाला]।") आगओ पिओ अज्ज पुत्ति अ(क)ज्जेण कइ दिणा होंति।  
+एक्को एद्दहमेत्तं भणिउं मोहं गआ बाला॥२३॥**
+
+२–८. मध्यमाविषयो यथा—
+
+**[तणुआइआ](# "तनुकायिता वराकी दिवसेदिवसे मृगाङ्कलेखेव।बहुलप्रदोषेण त्वया नृशंस अन्धकारितमुखेन॥") वराई दिअहेदिअहे मिअंकलेहव्व।  
+बहुलपओसेण व तुए णिसंस अंधारिअमुहेण॥२४॥**
+
+२–९. प्रगल्भाविषयो यथा—
+
+**[सअणे](# "शयने चिन्तामयं कृत्वा प्रियं निमीलिताक्ष्या।आत्मा उपगूढःप्रशिथिलवलयाभ्यां बाहुभ्याम्॥") चिंतामइअं काऊण पिअं णिमीलअच्छीए।  
+अप्पाणो उवऊढो पसिटिलवलआहि वाहेहिं॥२५॥**
+
+२–१०. सर्वविषयो यथा—
+
+**[अंगाइ](# "अज्ञानि क्लाम्यन्ति.......................। कल्लोलयन्ति जनस्यापि च दुर्लभे जने दृष्टे।") किलामिज्जंति ह्मेविरज्जंति? णिज्झविज्जंति।  
+कल्लोलिज्जंति जणस्स वि अ दुल्लहे जणे दिट्ठे॥२६॥**
+
+२–११. [प्रभातविषयो](# "“सर्वकालविषयेषु प्रभातविषयो यथा” इति संभोगप्रभेद निरूपणे (पु ५५-१-११) अत्रापि तथाक्षरन्यासस्साधुः।") यथा—
+
+**गतवति नखलेखालक्ष्यतामङ्गरागे  
+  समददयितपीताताम्रबिम्बाधरोष्ठ्याः।  
+विरहविधुरमिष्टा सत्सखीवाङ्गनायाः  
+  हृदयमवललम्बे रात्रिसम्भोगलक्ष्मीः॥२७॥**
+
+
+
+२–१२(क) [वसन्तचर्या](# "“सर्वर्तुचर्याविषयेषु वसन्तचर्याविषयो यथा”इति (पुटे५५-१-१२) एवमेवात्रापि पाठः रमणीयः।") यथा—
+
+**[खेमं](# "क्षेमं कुतः क्षेमं योऽसौ कुब्जाम्रको गृह द्वारे। तस्य किल मस्तकात्कोप्यनर्थस्समुत्पन्नः॥") कंतो खेमं जो सो कुज्जंबओ घरद्दारे।  
+तस्स किल मज्झआओ को वि अणत्थो समुप्पण्णो॥२८॥**
+
+२–१२(ख). ग्रीष्मचर्याविषयो यथा—
+
+**[गिम्मं](# "ग्रीष्मं गमयति कथं कथमपि विरहशिखितापितापि पथिकवधूः।अविरलपतन्निर्भरबाष्पजलार्द्रोत्तरीयेण॥") गमेइ कह कह वि विरहसिहितापिआपि पहिअवहू।  
+अविरलपडंतणिभ्भरवाहजलोल्लावरिललेण॥२९॥**
+
+२–१२(ग). वर्षर्तुचर्याविषयो यथा—
+
+**[अज्ज](# "अद्यमया तेन विना अनुभूतसुखानि संस्मरन्त्या।अभिनवमेघानां रवो निशमितो वध्यपटह इव॥") मए तेण विणा अणुहूअसुहाइ सम्हरंतीए।  
+अहिणवमेहाण रवो णिसामिओ वज्झपडहोव्व॥३०॥**
+
+२–१२(घ). शरच्चर्याविषयो यथा—
+
+**[सुप्पउ](# "स्वप तृतीयोऽपि गतो याम इति सख्यः कस्मान्मां भणथ।शेफालिकानां गन्धो न ददाति स्वप्तुं [स्वपत यूयम्]।")तइओ पि गओ जामोत्ति सहीओ कीस मं भणह।  
+सेहालिआण गंदो ण देइ सोत्तुं सुअह तुम्हे॥३१॥**
+
+२–१२(ङ). हेमन्तचर्याविषयो यथा—
+
+**[हेमंते](# "हेमन्ते हिमरजोधूसरस्य ओजश्शरणस्य पथिकस्य।स्मृतजायामुखस्वेदशीलस्य शीतमेव प्रनष्टम्॥") हिमरअधूसरस्स ओअसरणस्स पहिअस्स।  
+सुमरिअजाआमुहासच्चिरस्स सीअं चिअ पणट्ठं॥३२॥**
+
+२–१२(च). शिशिरचर्याविषयो यथा—
+
+**[तरलच्छि](# "तरलाक्षि चन्द्रवदने पीनस्तनि करिकरोरु तनुमध्ये।दीर्घापि समाप्यते शिशिरयामिनी कथं नु ते मानः॥") चंदवअणे पीणत्थणि करिकरोरु तणुमज्झे।  
+दीहा वि समप्पइ सिसिरजामिणी कह णु दे माणो॥३३****॥**
+
+
+
+२–१२(छ). आदिग्रहणात्प्रकीर्णविषयो यथा—
+
+**विलिम्पत्येतस्मिन्मलयजरसार्द्रेण महसा  
+  दिशां चक्रं चन्द्रे सुकृतमयि तस्या मृगदृशः।  
+दृशोर्बाष्पःपाणौ वदनमसवः कण्ठकुहरे  
+  हृदि त्वं ह्रीः पृष्ठे वचसि च गुणा एव भवतः॥३४॥**
+
+  प्रथमानुरागादीनामनन्तराणां च विस्तरतः प्रपञ्चमग्रतः क्रमेण वर्णयिष्यामः। इह तु दिङ्यातमुपलक्षणार्थमुदाह्रियते.
+
+तत्र १. प्रथमानुरागो यथा
+
+**[अविअण्णपेच्छणिज्जेण](# "अवितृष्णप्रेक्षणीयेन तत्क्षणं मामि तेन दृष्टेन।स्वप्नपीतेनवे पानीयेन तृष्णैव न नष्टा॥") तक्खणं मामि तेण दिट्ठेण।  
+सिविणअपीएण व पाणिएण तण्हाचिअ ण णट्ठा॥३५॥**
+
+१–१. प्रथमानुरागानन्तरोयथा—
+
+**पाणिपीडनविधेरनन्तरं  
+  शैलराजदुहितुर्हरं प्रति।  
+भावसाध्वसपरिग्रहादभू-  
+  त्कामदोहदमनोहरं वपुः॥३६॥**
+
+२. मानो यथा—
+
+**कपोले पत्राली करतलनिरोधेन मृदिता  
+  निपीतो निश्वासैरयममृतहृद्योऽधररसः।  
+मुहुर्लग्नः कण्ठे तरलयति बाष्पस्स्तनतटीं  
+  प्रियो मन्युर्जातस्तव निरनुरोधेन तु वयम्॥३७॥**
+
+
+
+२–१. मानानन्तरो यथा—
+
+**पौलस्त्यपीनभुजसम्पदुदस्यमान-  
+  कैलाससम्भ्रमविलोलदृशःप्रियायाः।  
+श्रेयांसि वो दिशतु निर्हृतकोपचिह्न-  
+  मालिङ्गनोत्पुलकमासितमिन्दुमौलेः॥३८॥**
+
+३. प्रवासो यथा—
+
+**देशैरन्तरिता शतैश्चसरितामुर्वीभृतां काननै-  
+  र्यत्नेनापि न याति लोचनपथं कान्तेति जानन्नपि।  
+उद्ग्रीवश्चरणार्धरुद्धवसुधः कृत्वाश्रुपूर्णे दृशौ  
+  तामाशां पथिकस्तथापि किमपि ध्यायन् मुहुवक्षिंते॥३९॥**
+
+३–१. प्रवासानन्तरो यथा—
+
+**आयाते दयिते मरुस्थलभुवांसञ्चिन्त्य दुर्लङ्घ्यतां  
+  गेहिन्या परितोषबाष्पतरलामासज्य दृष्टिं मुखे।  
+दत्वा पीलुशमीकरीरकबलान् स्वेनाञ्चलेनादरा  
+  दुन्मृष्टं करभास्य केसरसटाभाराग्रलग्नं रजः॥४०॥**
+
+४. करुणो यथा—
+
+**यस्याः कुसुमशय्यापि कोमलाऽस्या रुजाकरी।  
+साधिशेते कथं देवी हुताशनवतीं चिताम्॥४१॥**
+
+४–१. करुणानन्तरो यथा—
+
+**भवति विततश्वासोन्नाहप्रणुन्नपयोधरं  
+  हृदयमपि च स्निग्धं चक्षुर्निजप्रकृतौ स्थितम्।  
+वदनमधिकं मूर्च्छाच्छेदात्प्रसादि विराजते  
+  परिगतमिव प्रारम्भेण श्रिया सरसीरुहम्॥४२****॥**
+
+
+
+तेषां समवाये पूर्वःपूर्वो विचित्र इति करुणानन्तरात्प्रवासानन्तरोविचित्रःयथा—
+
+**दृष्टिर्वन्दनमालिका स्तनयुगं लावण्यपूर्णौ घटौ  
+  शुभ्राणां प्रकरस्स्मितं सुमनसां वक्त्रप्रभा दर्पणः।  
+रोमाञ्चोद्गम एष सर्षपकणाः पाणी तथा पल्लवः  
+  स्वाङ्गैरेव गृहं प्रियस्य विशतस्तन्व्या कृतं मङ्गलम्॥४३॥**
+
+प्रवासानन्तरान्मानानन्तरः स यथा—
+
+**न स्पृष्टोऽपि त्रिदशसरिता दूरमीर्ष्यानुबन्धा-  
+  न्नाप्युन्मृष्टो भुजगपतिना तर्जनाभिर्जयायाः।  
+मानस्यान्ते नयनसलिलैः क्षालितः शैलपुत्र्याः  
+  पत्युर्मौलौ नतिजुषि जयत्यात्मनः पादपांसुः॥४४॥**
+
+मानानन्तरात्प्रथमानुरागानन्तरः स यथा—
+
+**दृष्टा दृष्टिमधो दधाति कुरुते नालापमाभाषिता  
+  शय्यायां परिवृत्य तिष्ठति बलादालिड्गिता वेपते।  
+निर्यान्तीषु सखीषु वासभवनान्निर्गन्तुमेवेहते  
+  जाता वामतयैव सम्प्रति मम प्रीत्यै नवोढा प्रिया॥४५॥**
+
+परःपरो रागवर्धन इति प्रथमानुरागानन्तरात्मानानन्तरः. स यथा—
+
+**उन्नमय्य सकचग्रहमास्यं  
+  चुंबति प्रियतमे हठवृत्त्या।  
+हुं हु मुञ्च मममेति च मन्दं  
+  जल्पितं जयति मानवतीनाम्॥४६****॥**
+
+मानानन्तरात्प्रवासानन्तरः स यथा—
+
+**[सामसाहिप्पम](# "..........प्रियागमस्तस्या विरहकृशायाः। अत्यन्तप्रहर्षेण....यामृतासा मृतैव॥")? पिआगमो तीए विरहकिसिआए।  
+अच्चंत वहरिसेण वि....जा मआ सा मअच्चेअ॥४७॥**
+
+
+
+प्रवासानन्तरात्करुणानन्तरः स यथा—
+
+**आलिम्पन्नमृतमयैरिव प्रलेपै-  
+  रन्तर्वा बहिरपिवा शरीरधातून्।  
+संस्पर्शःपुनरपि जीवयन्नकस्मा-  
+  दानन्दादपरविधं तनोति मोहम्॥४८॥**
+
+एवं विप्रलम्भेष्वपि करुणः(णात्) प्रवासो विचित्रः.स यथा—
+
+**अङ्गेनाङ्गं प्रतनु तनुना गाढतप्तेन तप्तं  
+  सास्रेणास्रद्रुतमविरतोत्कंठमुत्कंठितेन।  
+उष्णोच्छ्वासं समधिकतरोच्छ्वासिना दूरवतीं  
+  संकल्पैस्तैर्विशति विधिना वैरिणा रुद्धमार्गः॥४९॥**
+
+प्रवासान्मानः. स यथा—
+
+**[भ्रूभेदो](# "भ्रूभेदोरचितः—भ्रूभेदो रुणितः इतिचपाठभेदः.") गुणितश्चिरं नयनयोरत्यन्तमामीलनं  
+  रोद्धुंशिक्षितमादरेण हसितं मौनेऽभियोगःकृतः।  
+धैर्यं धर्तुमपि स्थिरीकृतमिदं चेतः कथं चिन्मया  
+  बद्धो मानपरिग्रहे परिकरः सिद्धिस्तु दैवे स्थिता॥५०॥**
+
+मानात्प्रथमानुरागः. स यथा—
+
+**क्वाकृत्यं शशलक्ष्मणः क्व च कुलं भूयोऽपि दृश्येत सा  
+  दोषाणामुपशान्तये श्रुतमहो कोपेऽपि कान्तं मुखम्।  
+किं वक्ष्यन्त्यपकल्मषाः कृतधि (यो रेखै)सान्यादृशी  
+  चेतः स्वास्थ्यमुपैहि कः खलु युवा धन्योऽधरं पास्यति॥५१॥**
+
+
+
+रागवर्धनत्वेन प्रथमानुरागान्मानः स यथा—
+
+**[णृमेंति](# "गोपायन्ति ये प्रभुत्वं कुपितं दासा इव येप्रसादयन्ति। त एवमहिलानां प्रियाःशेषाः स्वामिन एव [वराकाः ॥") जे पहुत्तम् कुविअं दासं व्वजे पसाअंति।  
+ते च्चिअ महिलाण पिआ सेसा सामिच्चिअ वराआ॥५२॥**
+
+मानात्प्रवासः. स यथा—
+
+**[कललं](# "कल्यं किल खरहृदयः प्रवत्स्यति प्रिय इति श्रूयते जने। तथा वर्धस्व भगवति निशे यथा तस्य कल्य [मेव व न भवति॥") किर खरहिअओ वच्च(च)सिहि दइओ त्ति सुव्वइ जणंमि।  
+तह वड्ढ भअवइ णिसे जह से कल्लं चिअ ण होइ॥५३॥**
+
+प्रवासात्करुणः. यथा—
+
+**[समदुक्खसोक्खपरिवडिढआण](# "समदुःखसुखसन्धितानाम् कालेन रूढप्रणयानां। मिथुनानां म्रियते यत्तत्खलु जीवति इतरन्मृतं भवति॥") कालेण रूढपणआण।  
+मिहुणाण मरइ जं तं खु जिअइ इअरं मअं होइ॥५४॥**
+
+वैचित्र्येण रागवर्धनत्वे वा सम्भोगाद्विप्रलम्भो बलीयानिति, तत्र वैचित्र्ये प्रथमानुरागानन्तरात् प्रथमानुरागः स यथा—
+
+**इन्दुर्यत्र न निन्द्यते न मधुरं दूतीवचः श्रूयते  
+  नालापा निपतन्ति बाष्पकलुषा नोपैति कार्श्यंवपुः।  
+स्वाधीनामनुकूलि(कां)तां स्वगृहिणीमालिङ्ग्य यत्सुप्यते  
+  किं तत्प्रेम गृहाश्रमव्रतमिदं कष्टं समाचर्यते॥५५॥**
+
+रागवर्धनत्वे स एव यथा—
+
+**पशुपतिरपि तान्यहानि कृच्छ्रा-  
+  दगमयदद्रिसुतासमागमोत्कः।  
+कमपरमवशं न विप्रकुर्युः  
+  विभुमपि तं यदमी स्पृशन्ति भावाः॥५६॥**
+
+
+
+वैचित्र्ये मानानन्तरान्मानः स यथा—
+
+**[जत्थ](# "यत्र नोज्जागरकं यत्र नेर्ष्याविसूरणं मानः। सद्भावचाटुकं यत्र नास्ति स्नेहस्तत्रनास्ति॥") ण उज्जग्गिरओ जत्थ ण ईसा विसूरणं माणं।  
+सब्भावचाडुअं जद्ध णद्धि णेहो तहिं णद्धि॥५७॥**
+
+रागवर्धनत्वे स एव यथा—
+
+**[अणवरअकेलिपसरंतसोक्खपब्भारईसिकुंठइअं](# "अनवरतकेलिप्रसरत्सौख्यप्राग्भारेर्ष्याकुण्ठितम्। माननिशानयनिचितं भवति पुनरभिनवं प्रेम॥")।  
+माणणिसाणअणि(चि)च्छिअं होइ पुणो अहिणवं पेम्मं॥५८॥**
+
+प्रवासानन्तरात्प्रवासो वलीयान् स वैचित्र्ये यथा—
+
+**पूर्वानुभूतं स्मरता च रात्रौ  
+  कम्पोत्तरं भीरु तवोपगूढम्।  
+गुहाविसारीण्यतिवाहितानि  
+  मया कथंचिद्धनगर्जितानि॥५९॥**
+
+स एव रागवर्धनत्वे यथा—
+
+**शैलः सोऽयं ककुभसुरभिर्माल्यवान्नाम यस्मि-  
+  न्नील स्निग्धः श्रयति शिखरं नूतनस्तोयवाहः।  
+आर्येणास्मिन्विरमविरमातः परं न क्षमोऽस्मि  
+  प्रत्यावृत्तः पुनरिव स मे जानकीविप्रयोगः॥६०॥**
+
+करुणानन्तरात्करुणो बलीयान्स वैचित्र्ये यथा—
+
+**मोहान्मया सुतनु पूर्वमुपेक्षितस्ते  
+  यो बद्धबिन्दु(र)मधरं परिबाधमानः।  
+तत्तावदाकुटिलपक्ष्मविलग्नमद्य  
+  बाष्पंप्रमृज्य विगतानुशयो भवामि॥६१॥**
+
+
+
+सएव रागवर्धनत्वे यथा—
+
+**वसने परिधूसरे वसाना  
+  नियमक्षामतनुः कृतैकवेणिः।  
+अतिनिष्करुणस्य शुद्धशीला  
+  मम दीर्घा विरहव्यथां बिभर्ति॥६२॥**
+
+  एवं मानानन्तरप्रवासानन्तरकरुणानन्तरेभ्यः प्रथमानुरागः प्रथमानुरागानन्तर प्रवासानन्तरकरुणानन्तरेभ्यो मानः, मानानन्तरकरुणानन्तर प्रथमानुरागानन्तरेभ्यः करुणो वलीयानिति, वैचित्र्येण रागवर्धनत्वेच यथादर्शनमुदाहरणीयम्. एवं नित्यान्नैमित्तिको बलीयान.
+
+स रागवर्धनत्वे यथा—
+
+**[मा](# "मात्रज पुष्पलवनशील देवा उदकाञ्जालेभिस्तुष्यन्ति। गोदानद्याः पुत्रक शीलोन्मूलानि कूलानि॥") वच्च पुप्फलाविर देवा उअअंजलीए तूसंति।  
+गोलाणईए पुत्तअ सीलुम्मूलाइ कूलाइं॥६३॥**
+
+सामान्याद्विशेषःसोऽपि रागवर्धनत्वे यथा—
+
+**तं वीक्ष्य सर्वावयवानवद्यं  
+  व्यावर्ततान्योपगमात्कुमारी।  
+न हि प्रफुल्लं सहकारमेत्य  
+  वृक्षान्तरं काङ्क्षति षट्पदाली॥६४॥**
+
+प्रकाशात्प्रच्छन्नो वलीयान्सोऽपि तत्रैव (यथा)—
+
+**[सव्वाआरमणहरं](# "सर्वाकारमनोहरं भणति यतिः असत्यःपश्यन्ति। जारत्वेन विधिना ममैषकिं न निर्मापितः॥") भणइ पई अडअणा पुलोअंति।  
+जारत्तणेण विहिणा मह एसो किं ण णिंमविओ॥६५॥**
+
+कृत्रिमादकृत्रिमो वलीयान्सोऽपि तत्रैव यथा—
+
+**यदहमनया ग्रामे यण्या? झटित्यवलोकितो  
+  मधुरमधुरस्निग्धस्निग्धोज्ज्वलोज्ज्वलया दशा।**
+
+
+
+**कपटचटुलभ्रं.........................................  
+  .....................................................॥६६॥**
+
+.......................यथा—
+
+**एकस्मिन् शयने मया मयसुतामालिङ्ग्य निद्रालसा-  
+  मुन्निद्रं शयितेन मच्चरणयोस्संवाहनव्याप्टता।  
+पादाग्रेण तिलोत्तमा स्तनतटे सस्नेहमापीडिता  
+  हर्षावेगसमर्पितानि पुलकान्यद्यापि नो मुञ्चति॥६७****॥**
+
+तमःप्रकृतेः कनिष्ठस्य विप्रलम्भेऽनुभावसम्पद्यथा—
+
+**यस्मिंश्चिरप्रणयनिर्भरबद्धभाव-  
+  मावेदितो रहसि मत्सुरतोपभोगः।  
+तत्रैव दुश्चरितम........न्ती  
+  ह्रीतापि पापहृदया च सखीजनेऽस्मिन्॥६८****॥**
+
+अस्यैव सम्भोगे यथा—
+
+**दिष्ट्यार्धश्रुतविप्रलम्भवचनः क्रोधादहं नोद्गतः  
+  दिष्ट्या नो परुषं रुषार्धकथितें किञ्चिन्मया व्याहृतम्।  
+मां प्रत्याययितुं विमूढहृदयं दिष्ट्या गतान्तं कथा  
+  मिथ्या दूषितयानया विरहितं दिष्टया न जातं जगत्॥६९****॥**
+
+तत्र धीरोत्तमाया विप्रलम्भेऽनुभावसम्पद्यथा—
+
+**[ण](# "न कृतोऽपि(राग)मोक्षो मानस्खलनेऽपि न पतित एव बाष्पः। तस्याः केवलं प्रियतमे... तलोचनं निश्वसितम्॥") कओ वि र(राअ)मोख्खो माणक्खलणे वि ण पडिओच्चिअ बाहो।**  
+**तीए णवरं पिअअमे गओगिअत्तितलोअणं? णीससिअं॥७०****॥**
+
+
+
+तस्या एव सम्भोगे यथा—
+
+**अथ विश्वात्मने गौरी सन्दिदेश मिथस्सखीम्।  
+दाता मे भूभृतां नाथः प्रमाणीक्रियतामिति॥७१॥**
+
+धीरमध्याया विप्रलम्भेऽनुभावसम्पद्यथा—
+
+**[धीराण](# "धीराणां मानभङ्गेमानस्खलनेन गुरुधैयीरंभे। उल्ललति तोल्यमाने एकमपि... न लङ्घयति हृदयं॥") माणभंगे माणक्खलणेण गरुअधीरारंभे।  
+उल्ललइ तुलिज्जंते एक्कं पि वि से धिरं ण लंघइ हिअअं॥७२॥**
+
+तस्या एव सम्भोगे यथा—
+
+**[तो](# "तत.....हृदयविजृंभमाणहर्षवेगांच्चलिता।पादपतितस्य हरेः पतिताः पृष्टे बाष्पसलिलोत्क्षेपाः॥") से रुब्भंतच्चिअ हिअअविअम्भंतहरिसवेउच्चलिआ।  
+पाअपडिअस्स हरिणो पडिआ पुट्ठीए वाहसलिलक्खेवा॥७३॥**
+
+अधीरोत्तमाया विप्रलम्भेऽनुभावसम्पद्यथा—
+
+**[जाव](# "यावन्नददात्यवधिं परिरंभं यावन्नैव शिथिलयति। मरणेन पुण्यंमम तावद्गुरूकृत आत्मा॥") अ ण देइ ओहिं परिरंभं जाव णेअ सिढिलेइ।  
+मरणेण पुण्णअं मह तावग्गरुआविओ अप्पा॥७४॥**
+
+तस्या एव सम्भोगे यथा—
+
+**[दिट्ठे](# "दृष्टे यत्पुलकिष्वसि अपहरतिप्रिये वत्समासन्ने। तथा संभाषणत्वे...स्पर्शेकिमपि लज्जिष्यसे॥") जं पुलइज्जासिओहरसि पिअंमि जं समासण्णे।  
+तह संभासणसेडल्लि प्फंसणे किं वि लज्जिहिसि॥७५॥**
+
+अधीरमध्यमाया विप्रलम्भेऽनुभावसम्पद्यथा—
+
+**[भिउडीए](# "भ्रुकुट्यां पश्येयं निर्भत्संयेयं पराङ्मुखी भवेयं। यद्भणथ तत्करिष्ये सख्यः यदि तं न प्रेक्षिष्ये॥") पुलोइस्सं णिब्भच्छिस्सं परंमुही होस्सं।  
+जं भणह तं करिस्सं सहिओ जइ तं ण पेछिस्सं॥७६॥**
+
+
+
+तस्याएव सम्भोगे यथा—
+
+**[पाअपडणाण](# "पादपतनानां मुग्धे रभसबलात्कारचुंवितव्यानां।दर्शनमात्रप्रसन्ने भ्रष्टा बहूनां सौख्यानां॥") मुद्धे रहसबलामोडिचुंबिअव्वाणं।  
+दंसणमेत्तपसण्णे चुक्का बहुआण सोक्खाण॥७७॥**
+
+अधीरकनिष्ठाया विप्रलम्भेऽनुभावसम्पद्यथा—
+
+**[अच्छीइँ](# "अक्षिणी तावत् स्थगयेयं द्वाभ्यामपि हस्ताभ्यां तस्मिन् दृष्टे।अङ्गं कदंवकुसुमामिव पुलकितं कथं नु शकेयं॥")ता थइस्सं दोहिं वि हत्थेहिं तंमि दिट्ठंमि।  
+अंगं कलंबकुसुमं व पुलइअं कहं णु ठक्किस्सं॥७८॥**
+
+तस्या एव सम्भोगे यथा—
+
+**[णीसासुक्कंपपुलोइएहि](# "निश्वासोत्कंपप्रलोकितैर्जानन्ति नर्तितुं धन्याः। अस्मादृशीनां दृष्टे प्रिये आत्मापि विस्मर्यते॥") जाणंति णच्चिउं धण्णा।  
+अम्हारिसीण दिट्ठे पिअम्मि अप्पा वि फम्मुसइ॥७९॥**
+
+  उत्तमत्वमुग्धत्वानुरूपाणि रामणीयकानितत्रोत्तमत्वं मुग्धामध्याप्रगल्भासु, मुग्धत्वमुत्तमामध्याकनिष्ठासु रामणीयकहेतुरिति.
+
+तत्र मुग्धाया उत्तमत्वं सम्भोगे यथा—
+
+**[बालत्तणदुल्ललिआए](# "बालत्वदुर्ललितया अब शृणु यत्कृतं नववध्वाः। विभेमिगृहे एकाकिनीति स्निग्धः पतिः रुद्धः॥") अज्ज सुणु जं कअं णववहूए।  
+भाआमि घरे एआइणित्ति णिद्धो पई रुद्धो॥८०॥**
+
+विप्रलम्भे यथा—
+
+**[केलीगोत्तक्खलणे](# "केलीगोत्रस्खलने वरस्य..........................। बहुवासकवासगृहे वध्वाबाष्पार्द्रितादुष्टिः॥") परस्स दुंदुलइ दिहिंदेहिइ?।  
+बहुवासअवासहरे बहूण बाहोल्लिआ दिट्ठी॥८१****॥**
+
+
+
+मध्याया उत्तमत्वं सम्भोगे यथा—
+
+**[सुरआवसाणविलिओणआओ](# "सुरतावसान.........स्वेदार्द्रवदनकमलाः। अर्धाक्षिप्रेक्षिणीःप्रियाः धन्याः पश्यन्ति॥") सेओल्लवअणकमलाओ।  
+अद्धच्छिपेच्छिरीओ पिआओ धण्णा पुलोअंति॥८२॥**
+
+विप्रलम्भे यथा—
+
+**[जाणइ](# "जानाति ज्ञापयितुं अनुनयविद्रावितमानपरिशेषं।विजनेऽपि विनयावलंबनं सह्यंकुर्वती॥") जाणावेउं अणुणअविद्दविअमाणपरिसेसं।  
+अइरिक्कम्मि वि विणआवलंबणं सच्चिअं कुणंती॥८३॥**
+
+प्रगल्भाया उत्तमत्वं सम्भोगे यथा—
+
+**कथमपि कृतप्रत्यापत्तौ प्रिये स्खलितोत्तरे  
+  विरहकृशया कृत्वा व्याजं प्रकल्पितमश्रुतम्।  
+असहनसखीश्रोत्रप्राप्तिप्रमादससंभ्रमं  
+  विवलितदृशा शून्ये गेहे समुच्छ्वसितं पुनः॥८४॥**
+
+विप्रलम्भे यथा—
+
+**भ्रूभेदे सहसोद्गतेऽपि वदनं नीतं परां नम्रता-  
+  मीषन्मां प्रति भेदकारि हसितं नोक्तं वचो निष्ठुरम्।  
+अन्तर्बाष्पजडीकृतं प्रभुतया चक्षुर्न विस्फारितं  
+  कोपश्च प्रकटीकृतो दयितया मुक्तश्च न प्रश्रयः॥८५॥**
+
+अथोत्तमामध्याकनिष्ठासु मुग्धत्वम्, तत्रोत्तमाया मुग्धत्वं सम्भोगे यथा—
+
+**[किं](# "किं किं ते प्रतिभासते सखीभिरिति पृष्टाया मुग्धायाः।प्रथमार्द्रदोहदिन्याः केवलं दयितं गता दृष्टिः॥") किं ते पडिभाअइ सहीहि इअ पुच्छिआए मुद्धाए।  
+पढमुल्लअदोहणिए णवरं दइअं गआ दिट्ठी॥८६॥**
+
+
+
+विप्रलम्भे यथा—
+
+**[कइआ](# "कदागतः प्रियः अद्य पुत्रि कार्येण कति दिनानि भवन्ति। एक एतावन्मात्रं भणित्वा मोहं गता बाला॥") गओ पिओ अज्ज पुत्ति अ(क)ज्जेण कइ दिणा होंति। **  
+**एक्को एद्दहमेत्तो? भणिउंमोहं गआ बाला॥८७॥**
+
+मध्यमाया मुग्धत्वं सम्भोगे यथा—
+
+**[मुद्धत्तणेण](# "मुग्धत्वेन वधू........सखीसार्धे। अनुमार्ग.... प्रियतमेन हसित्वा प्रतिरुद्धः॥") बहुआ णंतेवक्खारआहि? सहिसद्धे।  
+अणुमग्गपअंता? पिअअमेण हसिऊण पडिरुद्धा॥८८॥**
+
+विप्रलम्भे यथा—
+
+**[सहि](# "सखि साधय सद्भावेन पृच्छामः किं अशेषमहिलानाम्। वर्धन्ते करस्थिता एव बलया दयिते प्रवसिते॥") साहसु सभ्भावेण पुच्छिमो किं असेसमहिलाण।  
+वड्ढंति करठिअ च्चिअ वलआ दइए पउत्थंमि॥८९॥**
+
+कनिष्ठाया मुग्धत्वं सम्भोगे यथा—
+
+**[सहिआहि](# "सखीभिर्भण्यमाना स्तनयोर्लग्नं कुसुंभपुष्पमिति। मुग्धवधूः हास्यते प्रस्फोटयन्ती नखपदानि॥") भण्णमाणा थणए लग्गं कुसुंभपुप्फंति।  
+मुद्धवहुआ हसिज्जइ पप्फोडंती णहपआइं॥९०॥**
+
+विप्रलम्भे यथा—
+
+**[अंदोलणलंघिअवइसिहाए](# "आन्दोलनलंघितवृतिशिखया दृष्टे त्वयि मुग्धायाः।.................कर्तुं करप्रेरणनिश्चलाडोला॥") दिट्ठे तुमम्मि मुद्धाए।  
+आसद्धिज्जइ काउं करपेल्लणणिच्चला दोला॥९१॥**
+
+  बलाबलानुरूपाः सम्पर्कानुगमभक्तय इति। तत्रतुल्यबलयोर्युगपदुपनिपाते संपर्कः। स द्विधा, सजातीययोर्विजातीययोश्च।
+
+तत्र रूढप्रकृतकारणता सजातीयत्वंयथा—
+
+**नैराश्यकातरधियो हरिणेक्षणायाः  
+  श्रुत्वा निकामकरुणं च मनोहरं च**
+
+
+
+**वात्सल्यमोहपरिदेवितमुद्वहामि  
+  चिन्ताविषादविपदं च महोत्सवं च॥९२**
+
+विरुद्धा प्रकृतकारणता विजातीयत्वं.यथा—
+
+**किमयमसिपत्रचन्दनरसच्छटाधारयुगपदवपातः।  
+अनलस्फुलिङ्गकलिलः किमयमनभ्रः सुवावर्षः॥९३**
+
+अतुल्यबलयोरनुगमः। सोऽपि द्विधा।स्थितानुगमः, आगन्त्वनुगमःच, तयोरागन्तोर्बलवतः  
+  स्थितानुगमः.यथा—
+
+**आश्वासितस्य मम नाम सुतोपलब्ध्या  
+  सद्यस्त्वयासह कृशोदरि विप्रयोगः।  
+व्यावर्तितानलरुजः प्रथमाभ्रवृष्ट्या  
+  वृक्षस्य वैद्युतइवाग्निरुपस्थितोऽयम्‌॥९४**  
+
+
+स्थिते बलबति आगन्त्वनुगमः. यथा—
+
+**प्रणयसखीसलीलपरिहासरसाधिगतै-  
+  र्ललितशिरीषपुष्पहननैरपि ताम्यति यत्‌।  
+वपुषि वधाय तत्रतव शस्त्रमुपक्षिपतः  
+  पततु शिरस्यकाण्डयमदण्ड इवैष भुजः॥९५**
+
+  एते (न) बहूनामप्युपगमे निपातेसंपर्कानुगमसंविधिर्व्याख्यातः।
+
+तत्र सजातीयसम्पर्को यथा—
+
+**राहोश्चन्द्रकलामिवाननचरीं दैवात्समासाद्य मे  
+  दस्योरस्य कृपाणपातविषयादाच्छिन्दतःप्रेयसीम्‌।  
+आतङ्काद्विकलंद्रुतं करुणया विक्षोभितं विस्मया-  
+  त्क्रोधेन ज्वलितं मुदा विकसितं चेतः कथं वर्तते॥९६**
+
+
+
+विजातीयसम्पर्को यथा—
+
+**न्यक्कारो हृदि वज्रकीलइव मे तीव्रः परिस्पन्दते  
+  घोरान्ते तमसीव मज्जतिमनः संमीलितं लज्जया।  
+शोकस्तार्क्ष्यविपत्तिजो दहति मां नास्त्येव यस्मिन्क्रिया  
+  मर्माण्येव पुनश्छिनत्ति करुणा सीतां वराकीं प्रति॥९७**
+
+वहनुगमस्थिते बलवतीयथा—
+
+**क्वाकृत्यंशशलक्ष्मणःक्व च कुलं भूयोऽपि दृश्येत सा  
+  दोषाणामुपशान्तये श्रुतमहो कोपेऽपि कान्तं मुखम्‌।  
+किं वक्ष्यन्त्यपकल्मषाः कृतधियः स्वप्नेऽपि सा दुर्लभा  
+  चेतः स्वास्थ्यमुपैहि कः खलु युवा धन्योऽधरं पास्यति॥९८**
+
+आगन्तौ बलवती यथा—
+
+**प्राप्तो विक्रमबाहुरात्मसमतां प्राप्तेयमुवींतले  
+  सारं सागरिका ससागरमहीप्राप्त्येकहेतुः प्रिया।  
+देवी प्रीतिमुपागता च भगिनीलाभाज्जिताः कोसलाः**  
+**  किं नास्ति त्वयि सत्यमात्यवृषभेयस्मै करोमि स्पृहाम्‌॥९९**
+
+  संविधानकानुरूपास्तत्संविधय इति।यत्र संविधानके यावतां प्रथमानुरागादीनामस्तित्वं तावन्तस्तत्रसंविधीयन्ते,  
+  क्वचिदंक एवयथा प्रवासो मेघदूतेक्वचिदद्वयंयथा—प्रथमानुरागप्रथमानुरागानन्तरावुषाहरणे. क्वचित्त्रयंयथा प्रथमानुरागप्रवासकरुणाः कादम्बरीप्रथमखण्डे, क्वचिच्चत्वारः यथा—मानमानानन्तरप्रवासप्रवासानन्तराहरिविजये. क्वचित्पञ्चयथा—प्रथमानुरागप्रथमानुरागानन्तरकरुणकरुणानन्तरप्रवासा नागानन्दे, क्वचित्‌ षड्यथा- प्रथमानुरागप्रथमानुरागानन्तरकरुणकरुणानन्तरप्रवासप्रवासानन्तरा मालतीमाधवे. क्वचित्सप्त यथा—प्रथमानुरागप्रथमानुरागानन्तरमानमानानन्तरप्रवासप्रवासानन्तरकरुणाःकुमारसम्भवे क्वचिदष्टौयथा— प्रथमानुरागप्रथमानुरागानन्‍तरमानमानानन्तरप्रवासप्रवासानन्तरकरुण-करुणानन्तराः तापसवत्सराजे. एवं संविधानकानुरूपाःसर्वत्र विप्रलम्भसम्भोगयोःप्रकार-संविधयो विधातव्याः। ते चैकशोविप्रलम्भानामेव चत्वारः। सम्भोगवर्गस्तु निर्विशेषेणा-
+
+
+
+नन्‍तरव्यपदेशं न लभते। द्वाभ्यां द्वाभ्यांदशतत्र विप्रलम्भैः सानन्तरैश्चत्वारः प्रथमानुरागस्य; मानप्रवासकरुणैः मानस्य; प्रवासकरुणाभ्यांप्रवासस्य; करुणेन सम्प्रयोगे षडिति त्रिभिस्त्रिभिः षोडश, तन्नसानन्तरद्विकानां चतुर्णामितरविप्रलम्भैस्त्रिभिस्त्रिभिर्व्यस्तैर्योगे द्वादश, समस्तैरेव चत्वार इति चतुर्भिश्चतुर्भिरेकोनविंशतिः। तत्र सानन्तरद्विकानां चतुर्णामितरविप्रलम्भेभ्य एकैकहान्या द्वाभ्यां योगे प्राग्वदेव द्वादश, सानन्तरैश्च सानन्तराणां त्रिभिर्द्वाभ्यामेकेनेति योगे प्राग्वदेवषट्‌, चतुर्भिश्च विप्रलम्भैरेक इति, पञ्चभिः पञ्चभिः षोडश। तत्रसानन्तराद्विकानां त्रिभिस्त्रिभिरितरविप्रलम्भैर्योगे चतुर्णां चत्वारः सा(सोऽ)? नन्तरद्विकद्वयीनां च षण्णामितरविप्रलम्भयोः पृथक्पृथगेकैकेन योगे द्वादशेति षड्भिःषड्भिर्दश। तत्रैकैःसानन्तरद्विकहान्यासानन्तरैश्चत्वारः सानन्तरद्विकद्वयीनां च षण्णामितरविप्रलम्भा(नां)योगे षडिति। सप्तभिः सप्तभिश्चत्वारः। तत्रैकैकमनन्तरं सम्भोगमेव जह्यात्‌।विप्रलम्भत्यागे सम्भोगस्य तदनन्तरव्यपदेशाभावत्‌ अष्टक ....एत्येकत्वे?भेदा अशीतिः।
+
+**तेषामित्यादिसम्भेदभेदः प्रत्येकमिष्यते।  
+द्विशतीतत्प्रभेदानां पञ्चपञ्चाशदुत्तरम्‌॥  
+स्थितानामग्रिमैर्योगेऽनन्तराणामनन्तरैः।  
+नित्यादिषु यथायोगं सम्भवेयुः ........ ॥**
+
+  तथाहि, नित्यादयः पृथगप्येतेऽनन्तरैर्योगे सप्त षट्पञ्च चत्वारः त्रयो द्वावेक इति द्विका अष्टविंशतिः। एवं द्विकानामनन्तरैर्योगे चतुष्काः सप्ततिः चतुष्काणां पञ्चकाः षट्पञ्चाशत्‌। पञ्चकानां षट्का अष्टविंशतिः। षट्काणां सप्तका अष्टौ। सप्तकानामष्टक एक एव। चतुरादिभ्योऽन्येषामसम्भवात्‌ न प्रस्तारवृद्धिः
+
+तत्राष्टकयोगो यथा—
+
+**मया नाम जितं यस्य त्वयायं समुदीर्यते।  
+जयशब्दः सहस्राक्षादागतः पुरषान्तरम्‌॥ १००**
+
+सप्तकेषु नित्यनैमित्तिकसामान्यविशेषप्रकाशप्रच्छन्नाकृत्रिमाणां योगो यथा—
+
+**[पउरजुआणो गामो महुमासो जोव्वणं पईथेरो।](# "प्रचुरयुवा ग्रामो मधुमासोयौवनं पतिस्स्थाविरः। जीर्णसुरा स्वाधीना असती मा भवतु किं म्रियताम्‌॥")  
+जुण्णसुरा साहीणा असई मा होउ किं मरउ॥ १०१**
+
+
+
+षट्केषु नित्यनैमित्तिकप्रकाशप्रच्छन्नविशेषाकृत्रिमाणां योगो यथा—
+
+**इयमवयवैःपाण्डुक्षामैरलङ्कृतमण्डना  
+  कलितकुसुमा वल्लीवान्तर्लता परिशोषिणी।  
+वहति च वरारोहा रम्यांविवाहमहोत्सव-  
+  श्रियमुदयिनीमुद्भूतां च व्यनक्ति मनोरुजम्‌॥१०२**
+
+पञ्चकेषु नित्यनैमित्तिकविशेषप्रच्छन्नाकृत्रिमाणां योगो यथा—
+
+**इदमसुलभवस्तुप्रार्थनादुर्निवारं  
+  प्रथममपि मनो मे पञ्चबाणः क्षिणोति।  
+किमुतमलयवातोन्मूलितापाण्डुपत्रै-  
+  रुपवनसहकार्दर्शितेष्वङ्कुरेषु॥१०३**
+
+चतुष्केषु नित्यविशेषप्रच्छन्नाकृत्रिमाणां योगोयथा—
+
+**भूयोभूयः सविधनगरीरथ्यया पर्यटन्तं  
+  दृष्टादृष्ट्वाभवनवलभीतुङ्गवातायनस्था।  
+साक्षात्कामं नवमिव रतिर्मालती माधवं य-  
+  द्गाढोत्कण्ठा लुलितलुलितैरंगकैस्ताम्यतीति॥१०४**
+
+त्रिकेषु नित्यनैमित्तिकाकृत्रिमाणांयोगो यथा—
+
+**प्रकृतिललितमेतत्सौकुमार्यैकसारं  
+  वपुरयमपि सत्यंदारुणः पञ्चबाणः।  
+चलितमलयवातोद्धूतचूतप्रसूनः  
+  कथमयमपि कालश्चारुचन्द्रावतंसः॥ १०५**
+
+द्विकेषु सामान्यविशेषयोर्योगोयथा—
+
+**शान्तमिदमाश्रमपदंस्फुरति च बाहुः कुतः फलमिहास्य।  
+  अथ वा भवितव्यानां द्वाराणिभवन्ति सर्वत्र॥१०६**
+
+
+
+केवलेषु नित्ययोगो यथा—
+
+**अभूद्वरः कण्टकितप्रकोष्ठः  
+  खिन्नांगुलिस्संववृते कुमारी।  
+तुल्यं तयोस्तत्क्षणमात्मवृत्ति-  
+  र्व्यक्तं विभक्तेव मनोभवेन॥१०७**
+
+  एवमन्येऽपि यावत्प्रभेदमुदाहर्तव्याः। तत्रैकशोऽष्टौ; द्विशोऽष्टाविंशतिः; त्रिशः षट्‌पञ्चाशत्‌; चतुर्भिश्चतुर्भिः सप्ततिः; पञ्चभिः पञ्चभिः षट्‌(षष्टिः); षड्भिःषड्भिरष्टाविंशतिः; सप्तभिःसप्तभिरप्यष्टौ; अष्टभिश्चैक इत्येकत्वेपञ्चपञ्चाशद्द्वेशते। अशीतिघातात्‌ सहस्रैकोनविंशतिःत्रिशती षष्टिश्च भवतिसन्निकर्षविप्रकर्षप्रकर्षापकर्षवत्योव्यतिकरप्रक्लृप्तय इति तत्र प्रत्यासन्नता सन्निकर्षः, विदूरता विप्रकर्षः, सन्निवेशचारुता प्रकर्षः, प्रकर्षविपर्ययो ह्यपकर्ष इतितद्वत्योनित्यादीनां प्रथमानुरागादीनां च व्यतिकरप्रकल्पना इतितत्र नित्यादिषु सन्निकर्षवत्यःसजातीयानां, विप्रकर्षवत्योविजातीयानां, प्रकर्षवत्यःअकृत्रिमादीनां, प्रथमानुरागादिषु सन्निकर्षवत्योविप्रलम्भानां, विप्रकर्षवत्यःसम्भोगानां, प्रकर्षवत्यःसम्भोगान्तानां अपकर्षवत्योविप्रलम्भान्तानामिति
+
+**स्वभावविपरामर्शैःसन्निकर्षादयोद्विधा।  
+अव्यवस्थाव्यवस्थाभिर्द्वेधा व्यतिकरक्ल(क्र)मः॥  
+प्रायः पूर्वानुरागादौव्यवस्थानस्वभावयोः।  
+नित्यादावव्यवस्थानविपरामर्शयोः श्रुतिः॥**
+
+**दिङ्मात्रमेतदुदितं प्रथमानुराग-  
+  मानप्रवासकरुणैस्तदनन्तराणाम्‌।  
+भूयश्च रूपमखिलंखलु विप्रलम्भ-  
+  सम्भोगयोरनतिविस्तरतो वदामः॥\***
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*अत्रप्रकाशान्तर इव"इति श्रीमहाराजाधिराज"इत्यादि उपसंहारवाक्यंमातृकायांन दृश्यते.  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+**॥ अथ चतुर्विंशः प्रकाशः॥**
+
+**विप्रलम्भः।**
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+  तत्र सम्भोगो विप्रलम्भमन्तरेण न प्रकर्षमारोहतीति विप्रलम्भ एव प्रथममुपादीयते।
+
+  स चैवमुपजायते—नायकयोःप्रागसङ्गतयोः सङ्गतवियुक्तयोर्वा मिथो दर्शनश्रवणाभ्यां अवस्थिताभिमानजन्मा परस्परानुरागोऽन्यतरानुरागोवा अभिलषणीयालिङ्गनादीनामनवाप्तौ सत्यां समुपजायमानैस्तैस्तैरुत्कण्ठादिभि- र्व्यभिचारिभावैर्मनोवाग्बुद्धिशरीरजन्मभिश्चानुभावैरनुविद्धः प्राप्तप्राप्यप्रकर्षावस्थोविप्रलम्भशृङ्गाराख्यां लभते।स परस्परानुरागे उत्तमः। नायिकानुरागे मध्यमः।नायकानुरागेकनिष्ठः। तस्य भेदाः—प्रथमानुराग, मान, प्रवास, करुण, विप्रलम्भाः। तेऽपि नायकयोः प्रागसङ्गतयोः सङ्गतवियुक्तयोर्वाभवति। तत्र सङ्गतवियुक्तयोः प्रागसङ्गतयोश्च मानप्रवासकरुणाः। प्रथमानुरागस्तुप्रागसङ्गतयोरेव।  
+
+  तदुक्तम्‌—स्त्रीपुंसयोरपूर्वादिदर्शनश्रवणजन्मा रूपगुणवयस्सम्पदुपकारापेक्षस्तदनपेक्षो वा मनःपक्षपातविशेषः प्रथीयान्‌ प्रथमानुरागः। सोऽभिलाषादिभेदाच्चतुष्षष्टिप्रकारः, नित्यादिभेदादष्टप्रकारः, उच्चादिभेदाद्द्विनवत्युत्तरशतप्रकारः, परस्परघातात्साष्टत्रिंशत्सपादा (....)युतप्रकारः। तेषामेव हीनसमज्यायस्तया मिथो व्यतिषङ्गादनन्तप्रकारः सम्भवतीत्यभिहितं पुरस्तात्‌।  
+
+  एवं च सति—प्रथमानुरागे तदनन्तरादिसम्भोगे वा दृष्टश्रुतानुमिता (क्षिनुमिना?) पराधजन्मा मिथो मिथुनमानसेषु रोषो मानः।  
+
+  सति पूर्वानुरागे सम्भोगेऽपि वा दैवदुर्विपाकादिजन्मा स्त्रीपुंसयोर्विदूरदेशवासःप्रवासः।  
+
+ 
+प्ररूढस्नेहयोश्चदैवदुर्विचारा(पाका)दिभिरेवैकनिपातेऽन्यस्यदुःखातिरेकोहृदयदारु(र)णः करुण इति।  
+
+  तत्प्रभेदान्पुनरग्रतो यथावसरमुपवर्णायिष्यामः। संज्ञास्तु नैताःपारिभाषिक्य एव। प्रकृतिप्रत्ययोपसर्गविभागकल्पनायामन्वर्थस्यापि सम्भवात्‌।  
+
+  तथाहि—डु, लभष्प्राप्तौ इत्यस्मात्‌ विप्रशब्दपूर्वत्वे सतिविशिष्टार्थवाचिनः सर्वकालेषु "भावे कर्तर्यकर्तरि च कारके संज्ञायां" वस्ति?विप्रलम्भ इति रूपं भवति। तत्रायं लभिः प्राप्तावपि पठ्यमानः प्रोपसर्गयोगाद्वञ्चने वर्तते। प्रस्य प्रकृतिविपरीतार्थवाचकत्वात्।
+
+
+
+तथा-प्रतिष्ठते प्रवसति प्रस्मरतीति। प्राप्तिविपरीतश्चार्थोवञ्चनमेव।तथा चानेनैव वञ्चतेरर्थं निर्दिशति “गृथिवञ्च्योः प्रलम्भन"इति। वञ्चनं तु चतुर्धा—प्रतिश्रुत्यादानं, विसंवादनं, कालहरणं, प्रत्यादानामिति।तत्‌ विविधं, विरुद्धं, व्याविद्धं, विप्रतिपिद्ध, मिति विशेषवाचिना व्युपसर्गेणोच्यते।  
+  तत्र प्रतिश्रुत्यादानमित्ययं प्रकृत्यर्थः, विविधमित्ययं चोपसर्गार्थश्चप्रथमानुरागे घटते। तत्र हि इङ्गिताकारादिभिःस्वानुरागप्रकाशनं प्रतिश्रवः।तस्य च पारतन्त्र्य लज्जाभयान्यतरानिच्छादि- भिर्विविधमनेकप्रकारमनिर्वहणमेवावदातं भवति।  
+तत्रप्रकृत्यर्थो यथा—
+
+**समानप्रेमाणं जनमसुलभंप्रार्थितवतो  
+  विधौवामारम्भे मम समुचितैषा परिणतिः।  
+तथाप्यस्मिन्दानश्रवणसमयेऽस्याः प्रविगल-  
+  त्प्रभंप्रातश्चन्द्रद्युति वदनमन्तर्दहति माम्‌॥१**
+
+उपसर्गार्थोयथा—
+
+**परिच्छेदातीतः सकलवचनानामविषयः  
+  पुनर्जन्मन्यस्मिन्ननुभवपथं यो न गतवान्‌।  
+विवेकप्रध्वंसादुपचितमहामोहगहनो  
+  विकारः कोऽप्यन्तर्जडयति च संमोहयति च॥२**
+
+  ताप? विसंवादनमित्ययं प्रकृत्यर्थोविरुद्धमित्ययं चोपसर्गार्थोमाने सङ्गच्छते। तत्र हि मनोऽभिलषितालिङ्गनादीनां यथोक्तानामनवाप्तिर्विसंवादः, स च व्यलीकादिजन्मभिरीर्ष्यायितादिभिरुपजायमानोविरुद्ध एवभवति।
+
+तत्र प्रकृत्यर्थोयथा—
+
+**सोद्वेगस्य स्खलितवचसो यत्नसंस्तंभिताश्रोः  
+  सावेगस्य श्रमजलभृतो दुर्निमित्तस्मितस्य।  
+भूयोभूयः कृतकघटितभ्रूलताभङ्गहेतो-  
+  र्मानस्यास्या रहसिकथितापह्नुतस्यास्ति नार्घः॥३**
+
+
+
+उपसर्गार्थोयथा—
+
+**लीलावती चरणचुम्बितमौलिमग्रे  
+  कान्तं विधूय विहितागसमुच्चचाल।  
+अत्रान्तरे मुखरनूपुरयुग्ममस्याः  
+  सौभाग्यगन्धगजडिण्डिमतां जगाम॥४**
+
+  कालहरणमित्ययंप्रकृत्यर्थोव्याविद्धमित्ययंचोपसर्गार्थः प्रवासेऽनुषज्यते। तत्र हि देशविप्रकर्षात्‌ तदैवालिङ्गनादीनामनवाप्तिःकालहरणं, तच्चकालविप्रकर्षोत्कण्ठादिभिरत्यायतं व्याविद्धमेव भवति।
+
+तत्र प्रकृत्यर्थोयथा—
+
+**शापान्तो मे भुजगशयनादुत्थिते शार्ङ्गपाणौ  
+  शेषान्मासान्‌ गमय चतुरो लोचने मीलयित्वा।  
+पश्चादावां विरहगणितं तंतमात्माभिलाषं  
+  निर्वेक्ष्यावः परिणतशरच्चन्द्रिकासु क्षपासु॥५**
+
+उपसर्गार्थोयथा—
+
+**त्वामालिख्य प्रणयकुपितां धातुरागैश्शिलाया-  
+  मात्मानं ते चरणपतितं यावदिच्छामि कर्तुम्‌।  
+आस्रैस्तावन्मुहरुपचितैर्दृष्टिरालिप्यते मे  
+  क्रूरस्तस्मिन्नापि न सहते सङ्गमं नौ कृतान्तः॥६**
+
+  प्रत्यादानमित्ययंप्रकृत्यर्थोविप्रतिषिद्धमित्ययं चोपसर्गार्थःकरुणे सम्बध्यते। तत्र दैवमेवेष्टसङ्गमादि.....न्दत्वेचाच्छिनत्ति।
+
+यथोच्यते—
+
+**सुहृदिव प्रकटय्य सुखप्रदां  
+  प्रथममेकरसामनुकूलताम्‌।**
+
+
+
+**पुनरकाण्डविवर्तनदारुणः  
+  परिशिनष्टि विधिर्मनसो रुजम्‌॥७**
+
+  तच्चकस्यचिदपि कदा चिदपिमा भूयादिति विशेषेण प्रतिषिध्यमानं विप्रतिषिद्धमेव भवति।
+
+तत्र प्रकृत्यर्थो यथा—
+
+**गृहिणी सचिवः सखी मिथः  
+  प्रियशिष्या ललिते कलाविधौ।  
+करुणाविमुखेन मृत्युना  
+  हरता त्वांवद किं न मे हृतम्‌॥८**
+
+उपसर्गार्थो यथा—
+
+**धृतिरस्तमिता रतिश्च्युता  
+  गलितं गेयमृतुर्निरुत्सवः।  
+गतमाभरणप्रयोजनं  
+  परिशून्यं शयनीयमद्यमे॥९**
+
+  ननु च प्रतिश्रुत्यदाना(दयश्च)त्वारोऽपिप्रकृत्यर्थाः, विविधमित्यादयश्चत्वारोऽपि चोपसर्गार्थाःप्रथमानुरागादिषुचतुर्ष्वपि व्यवस्थासम्पृवाभ्यामुपलय्भ्यन्ते। तत्कथम्‌? उच्यते प्रतिश्रुत्यादानमित्यादयो यथायथमुपसर्गा अविशिष्टाःप्रथमानुरागादिषु व्यवतिष्ठन्त इति।
+
+तथाहि प्रथमानुरागप्रतिश्रुत्यादानं विविधमपि दृश्यते यथा—
+
+**कथय किमिह बाले का त्वमित्युल्लपंस्तां  
+  झटिति किलदुकूलस्याञ्चले धारयामि।  
+अगमदथ निकेतं क्वाप्यसौ शारयन्ती  
+  नवकुवलयमालामांसलैर्दृष्टिपातैः॥१०**
+
+
+
+वीविधमपि च यथा—
+
+**यान्त्यामुहुर्वलितकन्धरमाननं त-  
+  दावृत्तवृन्तशतपत्रनिभं वहन्त्या।  
+दिग्धोऽमृतेन च विषेण च पक्ष्मलाक्ष्या  
+  गाढंनिखात इव मे हृदये कटाक्षः॥११**
+
+तत्रैव कालयापनमपि व्याविद्धमपियथा—
+
+**अथ विश्वात्मने गौरी सन्दिदेश मिथस्सखीम्‌।  
+दाता मे भूभृतां नाथः प्रमाणीक्रियतामिति ॥१२**
+
+व्याविद्धमपि च यथा—
+
+**मालत्याः प्रथमावलोकदिवसादारभ्य विस्तारिणो  
+  भूयस्स्नेहविचेष्टितैर्मृगदृशानीतस्य कोटिं पराम्‌।  
+अद्यातः खलु सर्वथास्य मदनायासस्य मे सर्वतः  
+  कल्याणं विदधातुवा भगवती नीतिर्विपर्येतु वा॥१३**
+
+तत्रैव प्रत्यादानमपिप्रतिषिद्धमपियथा—
+
+**यद्विस्मयस्तिमितमस्तमितान्यभाव-  
+  मानन्दमन्दममृतप्लवनादिवाभूत्‌।  
+तत्सन्निधौ तदधुना हृदयं मदीय-  
+  मङ्गारचुम्बितमिवव्यथमानमास्ते॥१४**
+
+विप्रतिषिद्धमपि च यथा—
+
+**गत्वा तमहद्राक्षं तत्क्षणोत्कान्तजीवितम्।  
+चिरात्त्वमागतासीति रुषित्वैवमवस्थितम्॥१५**
+
+एवं मानेऽपि प्रतिश्रुत्यादाने..................यथा—
+
+**कपोले पत्रालीकरतलनिरोधेन मृदिता  
+  निपीतो निश्वासैरयममृतहृद्योऽधररसः।**
+
+
+
+**मुहर्लग्नःकण्ठे तरलयतिबाष्पः स्तनतटीं  
+  प्रियो मन्युर्जातस्तव निरनुरोधेन तु वयम्॥१६**
+
+विविधं यथा—
+
+**कृतो दूरादेव स्मितमधुरमभ्युद्गमविधिः  
+  शिरस्याज्ञा न्यस्ता प्रतिवचनमप्यानतिमति।  
+न दृष्टेःशैथिल्यं मिलन इति सन्तापयति मां  
+  निगूढान्तःकोपा कठिनहृदये संवृतिरियम्॥१७**
+
+तत्रैव विसंवादनमविरुद्धं यथा—
+
+**त्वया क्षान्तंक्षान्तं कुरु मुखमितो मां प्रति कृतिः(तं)  
+  निधेहीदं(मं) पृष्ठे मम करमय(यं) कान्त निहित(तः)।  
+सखीनां निर्बन्धान्मम च धृतपाणेः प्रणमतः  
+  प्रिये काकुप्रीतेस्तव परमगूढं मयि रुषः॥१८**
+
+विरुद्धं यथा—
+
+**अनालोच्य प्रेम्णः परिणतिमनापृच्छय सुहृद-  
+  स्त्वया दर्पान्मानः किमिति सरले प्रेयसि कृतः।  
+समाकृष्टा ह्येते विरहदहनोद्भासुरशिखाः  
+  स्वहस्तेनाङ्गारास्तदलमधुनारण्यरुदितैः॥१९**
+
+तत्रैव कालहरणमव्याविद्धं यथा—
+
+**दूरादुत्सुकमागते विल(क)सितं संभाषिणि स्फारितं  
+  संश्लिष्यत्यरुणं गृहीतवसने कोपाञ्चितभ्रूलतम्।  
+मानिन्याश्चरणानतिव्यतिकरे बाष्पाम्बुपूर्णं क्षणा-  
+  च्चक्षुर्जातमहो प्रपञ्चचतुरं जातागसिप्रेयसि॥२०**
+
+
+
+व्यविद्धंयथा—
+
+**कृशप्राया रात्रिःकृशतनु शनैर्येन विनम-  
+  त्प्रदीपोऽयं निद्रावशमुपगतो घूर्णत इव।  
+प्रणामान्तो मानस्त्यजसि न तथापि क्रुधमहो  
+  कुचप्रत्यासत्त्या हृदयमपि ते चण्डि कठिनम्॥२१**
+
+तत्रैव प्रत्यादानमपि प्रतिषिद्धं यथा—
+
+**कोपो यत्र भ्रुकुटिरचना विग्रहो यत्र मौनं  
+  यत्रान्योन्यं स्मितमनुनयो दृष्टिपातः प्रसादः।  
+तस्य प्रेम्णस्तदिदमधुना वैशसं पश्य जातं  
+  त्वं पादान्ते लुठसि न च मे मन्युमोक्षः खलायाः॥२२**
+
+विप्रतिषिद्धं यथा—
+
+**लाक्षालक्ष्म ललाटपट्टमभितः केयूरमुद्रा गले  
+  वक्त्रे कज्जलकालिमा नयनयोस्ताम्बूलरागोऽपरः।  
+दृष्ट्वा कोपविधायि मण्डनमिदं प्रातश्चिरं प्रेयसः  
+  क्रीडातामरसोदरे मृगदृशः श्वासास्समाप्तिं गताः॥२३**
+
+अथ प्रवासेऽपि प्रतिश्रुत्यादानं विविधं यथा—
+
+**प्रिये हाहा क्वासि प्रकिर मधुरां वाचमधुना  
+  पराभूतैरित्थं विलपनविनोदोऽप्यसुलभः।  
+अनिन्द्यः पौलस्त्यो व्रजतु परिवादो मयि जरां  
+  यतो रूढे वैरे बहुगुणमनेन प्रतिकृतम्॥२४**
+
+विविधं यथा—
+
+**कृतकरुदितैर्बाष्पाम्भोभिः सदैन्यविलोकितै-  
+  र्वनमसि गता यस्य प्रीत्या तथापि धृताम्बया।**
+
+
+
+**नवजलधरश्यामाः पश्यन्दिशो भवतींविना  
+  कठिनहृदयो जीवत्येव प्रिये स तवप्रियः॥२५**
+
+तत्रैव विसंवादनमविरुद्धं यथा—
+
+**तन्वङ्ग्यास्त्वमिति प्रसादविशसेर्ना(दं ना)स्ती(सी)ति खेदालसं  
+  चक्षुर्द्वारपथावतारिणिजने व्यापारयन्त्या मुहुः।  
+हर्षार्तिप्रभवः(व) प्रतिक्षणभवस्वेदाम्बुदाहज्वरे  
+  बाष्पाम्भःकणिकाः पयोधरतटे पुष्यन्ति शुष्यन्ति च॥२६**
+
+विरुद्धं यथा—
+
+**दूरे प्रियतमः सोऽयमागतो जलदागमः।  
+  दृष्टाश्च फुल्ला निचुला न मृतास्मीति किं न्विदम्॥२७**
+
+तत्रैव कालहरणमव्याविद्धं यथा—
+
+**प्रहरविरतौमध्ये वाह्नस्ततोऽपि परेऽथ वा  
+  किमुत सकले यातेऽप्यह्नि प्रिय त्वमिहैष्यसि।  
+इति दिनशतप्राप्यं देशं प्रियस्य यियासतो  
+  हरति गमनं वालालापैः सबाष्पजलञ्झलैः॥२८**
+
+व्याविद्धं यथा—
+
+**[चिरजीवित्तणकिंखिरि](# "चिरजीवित्वकांक्षिणि मा ताम्य रसायनैरास्थिरैः। विरहं प्रतिपद्यस्वजायन्ते येन युगदीर्घतरा दिवसाः॥") मा तम्म रसाअणेहि अथिरेहिं।  
+  विरहं पवज्ज जाअंति जेण जुअदीहरा दिअहा॥२९**
+
+तत्रैव प्रत्यादानमप्रतिषिद्धं यथा—
+
+**[उअहज्जंतितितुच्छाए](# "अविशदा इयं गाधा") जाइ पिअसंगमंमि सोक्खाइ।  
+  ताइ विरहेण पि.......घु०गलिआइ कीरंति॥३०**
+
+
+
+प्रतिषिद्धं यथा—
+
+**मुग्धे प्रेषय यामि यान्ति पथिकाः कालोऽवधिः कथ्यता-  
+  मुद्विग्नाकिमकाण्ड एव भवती तूष्णीं किमेवं स्थिता।  
+पूर्वोक्तोपरतां प्रियेण दयितामाश्लिष्य तत्तत्कृतं  
+  दत्तो येन समस्तपान्थपथिकप्राणान्तिको डिण्डिमः॥३१**
+
+तथा करुणे प्रतिश्रुत्यादानं विविधं यथा—
+
+**अवधानपरे चकार सा प्रलयान्तोन्मिषिते विलोचने।  
+न विवेद तयोरतृप्तयोः प्रियमत्यन्तविलुप्तदर्शनम्॥३२**
+
+विविधं यथा—
+
+**हृदये वससीति मत्प्रियं यदवोचस्तदवैमि कैतवम्।  
+उपचारपदं न चेदिदं त्वमनङ्गः कथमक्षता रतिः॥३३**
+
+तत्रैव विसंवादनमविरुद्धं यथा—
+
+**उपमानमभूद्विलासिनां करणं यत्तव कान्तिमत्तया।  
+तदिदं गतमीदृशीं दशां न विदीर्येकठिनाः खलु स्त्रियः॥३४**
+
+विरुद्धं यथा—
+
+**दलति हृदयं गाढोद्वेगाद्विधा तु न भिद्यते  
+  वहति विकलः कायो मोहं न मुञ्चति चेतनां।  
+ज्वलयति तनूमन्तर्दाहः करोति न भस्मसात्  
+  प्रहरति विधिर्मर्मच्छेदी न कृन्तति जीवितम्॥३५**
+
+तत्रैव कालयापनमव्याविद्धं यथा—
+
+**तेनाष्टौ परिगमिताः समाः कथंचि-  
+  द्वालत्वादवितथसूनृतेन सूनोः।  
+सादृश्यप्रतिकृतिदर्शनैः प्रियायाः  
+  स्वप्नेषु क्षणिकसमागमोत्सवैश्च॥३६**
+
+
+
+व्याविद्धो यथा—
+
+**देव्या शून्यस्य जगतो द्वादशः परिवत्सरः।  
+प्रणष्टमिव नामापि न च रामो न जीवति॥३७**
+
+तत्रैव प्रत्यादानमप्रतिषिद्धं यथा—
+
+**तीव्राभिषङ्गप्रभवेन वृत्तिं मोहेन संस्तम्भयतेन्द्रियाणाम्।  
+अज्ञातभर्तृव्यसना मुहूर्तं कृतोपकारेव रतिर्बभूव॥३८**
+
+प्रतिषिद्धं यथा—
+
+**अथेदं रक्षोभिः कनकहरिणच्छद्मविधिना  
+  तथावृत्तं पापैर्व्यथयति यथा क्षालितमपि।  
+जनस्थाने शून्ये विकलकरणैरार्यचरितै-  
+  रपि ग्रावा रोदित्यपि दलति वज्रस्य हृदयम्॥३९**
+
+अथ प्रथमानुरागे विसंवादनमपि विविधं यथा—
+
+**मुहुरङ्गुलिसंवृताधरोष्ठं  
+  प्रतिषेधाक्षरविक्लबाभिरामम्।  
+मुखमंसविवर्ति पक्ष्मलाक्ष्याः  
+  कथमप्युन्नमितं न चुम्बितं तु॥४०**
+
+कालहरणमप्यविरुद्धं यथा—
+
+**दर्भाङ्कुरेण चरणः क्षत इत्यकाण्डे  
+  तन्वी स्थिता कति चिदेव पदानि गत्वा।  
+आसीद्विवृत्तवदना च विमोचयन्ती  
+  शाखासु वल्कलमसक्तमपि द्रुमाणाम्॥४१**
+
+माने प्रतिश्रुत्यादानमपि व्याविद्धं यथा—
+
+**एकत्रासनसंस्थितिः परिहृता प्रत्युद्गमाद्दूरत-  
+  स्ताम्बूलानयनच्छलेन रभसाश्लेषोऽपि संविमितः।**  
+
+
+
+
+**आलापोऽपि न मिश्रितः परिजनं व्यापारयन्त्यान्तिके  
+  कान्तं प्रत्युपचारतश्चतुरया कोपः कृतार्थीकृतः॥४२**
+
+अप्रतिषिद्धमपि विसंवादनं यथा—
+
+**भ्रूभेदे सहसोद्गतेऽपि वदनं नीतं परां नम्रता-  
+  मीषन्मां प्रति भेदकारि हसितं नोक्तं वचो निष्ठुरम्।  
+अन्तर्बाष्पजडीकृतं प्रभुतया चक्षुर्न विष्फारितं  
+  कोपश्च प्रकटीकृतो दयितया मुक्तश्च न प्रश्रयः॥४३**
+
+प्रवासे प्रत्यादानमपि विविधं यथा—
+
+**यत्त्वन्नेत्रसमानकान्ति सलिले मग्नंतदिन्दीवरं  
+  मेघैरन्तरितः प्रिये तव मुखच्छायानुकारी शशी।  
+येऽपि त्वद्गमनानुसारिगतयस्ते राजहंंसा गता-  
+  स्त्वत्सादृश्यविनोदमात्रमपि मे दैवेन न क्षम्यते॥४४**
+
+विसंवादनमपि व्याविद्धं यथा—
+
+**आदृष्टिप्रसरात्प्रियस्य पदवीमालोक्य निर्विण्णया  
+  विश्रान्तेषु पथिष्वहःपरिणतौ ध्वांते समुत्सर्पति।  
+दत्वैकं सशुचा गृहं प्रति पदं पान्थस्त्रियास्मिन् क्षणे  
+  मा भूदागत इत्यमन्दवलितग्रीवं पुनर्वीक्षितम्॥४५**
+
+करुणे कालहरणमप्यविरुद्धं यथा—
+
+**अथ मदनवधूरुपप्लवान्तं  
+  व्यसनकृशा प्रतिपालयाञ्चकार।  
+शशिन इव दिवातनस्य रेखा  
+  किरणपरिक्षयधूसरा प्रदोषम्॥४६**
+
+
+
+विसंवादनमपि विविधं यथा—
+
+**ततः कैरप्युक्ते परिणयविधौ काष्ठमुनिभिः  
+  पुराणैरातङ्कग्लपितहृदयेन क्षितिभृता।  
+विना वाचा नैतत्क्षममिति विधायाननमधः  
+  पतद्वाष्पाम्भोभिर्लिखितमिवदत्तं प्रतिवचः॥४७**
+
+  एवमन्येऽपि प्रकृत्यर्थोपसर्गार्थानां व्यवस्थासम्प्लवाः संदृश्यन्ते।
+
+  अत्रोच्यते संज्ञाशब्दानां यथाकथंचिद्व्युत्पत्तिदर्शने रूढिर्विषयमपहरति। तेन व्युत्पत्ति...... यमोपपद्यते सतत्रै.....व्यवह्रियते। न चासावन्यत्रनास्ति। न चान्ये तत्र न सन्ति। तद्यथा—पङ्केरुहं सरसिजमिति। न हि ततः पङ्कएव केवलं रोहत्यपि तु जले। न केवलं सरस्येव जायतेऽपि तु वाप्यामपि न च तदेव पङ्केपयसि सरसि वा अपि तु कशेरुकमकरमत्स्यमुस्ताद्यपीति। तद्वदिहापिद्रष्टव्यम्।
+
+  किञ्च यद्यपि प्रतिश्रुत्यादानमित्यादयोऽर्था मानादिष्वपि संभवन्ति तथापि यथा प्रथमानुरागे प्रतिश्रुत्यादानं वैविध्यं च संविधानकेषु निरूप्यते नैवमन्येषु। यद्यपि च विसंवादनादयोऽपि विरोधादिसहकृतास्तत्र विद्यन्तेतथापि यथा प्रतिश्रुत्यादानं वैविध्यं च नैवमेते.......णेत्यभिप्रायेणोक्तम्। प्रतिश्रुत्यादानमित्ययं प्रकृत्यर्थः। विविधमित्ययं चोपसर्गार्थःप्रथमानुरागे घटत इति।
+
+  एतेन मानादिष्वपि विप्रलम्भशब्दस्य यथोक्ता निरुक्तयो व्याख्याताः। कः प्रथमानुरागादिसंज्ञादीनामन्वर्थतायां प्रकृत्युपसर्गार्थप्रत्ययार्थविभागः? उच्यते—"रञ्जरागे" इत्यस्मात् राजृदीप्तौ इत्येतस्माद्वाभावकरणयोर्घञि रागइति रूपं भवति। ततश्चानुगतोऽनुरूपो वा रागःअनुरागः इति करणसाधनप्रत्ययोत्पत्तिपक्षे अनुना समासः। अनु पश्चात्सह वा रागःअनुराग इति। भावसाधनप्रत्ययोत्पत्तिपक्षेऽनुना समासः। रञ्जय तिश्चेहानुषक्तिवचनो वर्णान्तरापत्तिवचनश्च गृह्यते तथानुरक्तो भोजने कषायेण रक्त वस्त्रमिति। कथं तर्हि रक्तो वर्णःपार्थिवं रज इति?।उपचाराद्रक्त इव रक्तः। तत्र प्राधान्येन कुसुम्भलाक्षादिना च रक्तं रक्तमुच्यते। यथा "रक्तं वस्त्रमविधवा स्त्री धारयेदि"ति तद्वत्स्वभावतोऽपि यो भवेत् सोऽपि रक्त इत्युच्यते। यथा कषायौ गर्दभस्य कर्णौ। हरिद्रेकुक्कुटस्य पादाविति। एवं रज इव रजः। यथा रजो नाम गुणविशेषः प्रत्यात्ममनुषज्यते एवं पृथ्वीपरागः यः सर्वत्रानुषङ्गी स एवमुच्यते। राजतिःपुनरिह शोभावचनःसमृद्धिवचनश्च
+
+
+
+यथा—
+
+**उज्ज्वलालोकया स्निग्धा त्वया त्यक्ता न राजते।  
+मलीमसमुखी वर्तिः प्रदीपशिखयेव सा॥४८**
+
+यथा च—
+
+**येनेष्टं राजसूयेन सर्वभूमीश्वरश्च यः।  
+शास्ति यश्चाज्ञया राज्ञः स सम्राट् कथ्यते बुधैः॥४९**
+
+  अस्मात् भावकारणयोरन्यत्राघञुत्पत्तिरिष्यते, रञ्जंस्तु भावकरणयोरेव घञिन लोपः ततश्चायमर्थः सङ्गच्छतेरज्यत्यनुषज्यते विषयेष्वनेनेति रागः रूपलावण्यादिर्विषयधर्मः प्रकृत्यादिराश्रयधर्मोवारजत्यनेन प्रतियोगिनमात्मानं वा रागः रूपलावण्यादिराश्रयधर्मो विषयधर्मो वा रज्यते स्वेदरोमाञ्चवैवर्ण्यादिभिर्वर्णान्तरमापद्यते विषय आश्रयो वा येन सराग उच्यतेउभयोर्वक्त्रवीक्षितादिभिश्चेष्टाविशेषःप्रमोदविशेषो राजते शोभतेऽनेन समानशीलगुणवयोविद्याव्यसनेष्विति रागः उत्तमप्रार्थनीयतादिभिरनुरूपप्रार्थनादिर्वोभयगतो विशेषः राजते दीप्यते समुद्यते? परं प्रकर्षमापद्यते रतिग्नेनेति रागः उभयगत इङ्गिताकारादिविशेषः कालयापननेपथ्यविलेपनादिरुद्दीपनविशेषो वा भावसाधनपक्षेतु रतिरेका एवं प्रकारारागशब्देनाभिधीयते तस्य च यदनुना सहार्थेन सह समासस्तदा स्त्रियाः पुरुषस्य च तुल्यकालमेव रत्युत्पत्तावुत्तमम्। यथा—
+
+**अभूद्वरःकण्टकितप्रकोष्ठः स्विन्नाङ्गुलिस्संववृते कुभारी।  
+तस्मिन् द्वये तत्क्षणमात्मवृत्तिस्समं विभक्तेव मनोभवस्य॥५०**
+
+यदा अनुरागशब्दस्य पश्चादर्थोऽनुना समासस्तदा पुंसः पश्चादुत्पत्तौमध्यमः यथा—
+
+**अद्यप्रभृत्यनवमाङ्गि तवास्मिदासः  
+  क्रीतस्तपोभिरिति वादिनि चन्द्रमौलौ।  
+अह्नाय सा नियमजं क्लममुत्ससर्ज  
+  क्लेशः फलेन हि पुनर्नवतां विधत्ते॥५१**
+
+
+
+स्त्रियाः पश्चादुत्पत्तौ कनिष्ठः यथा—
+
+**[मामि](# "मातुलानि हृदयमिव पीतं तेन यूना मज्जन्त्याः। स्नानहरिद्राकटुकं क्षनुस्रोतोजलं पिबता॥") हिअअं व पीअं तेण जुआणेण मज्जमाणीए।  
+  ह्णाणहलिद्दाकडुअं अणुसोत्तजलं पिअंतेण॥५२**
+
+  करणसाधनप्रत्ययोत्पत्तिपक्षे तु यदानुरूपो रागः अनुराग इत्यनुरूपार्थेनानुना समासः तस्मादुद्गतस्य लावण्यादेः प्रसिद्धादेर्वा? सिद्धमुत्तमत्वंयथोच्यते—
+
+**[सव्चं](# "सत्यं जानाति द्रष्टुं सदृशे जने युज्यते रागः।म्रियतां न त्वां भणिष्यामि मरणमपि श्लाघनीयमस्याः॥")जाणइ दठ्ठुंसरिसंमि जणंमि जुज्जए राओ।  
+  मरउ ण तुमं भणिस्सं मरणं वि सलाहणिज्जं से॥५३**
+
+यदा पुनरनुगतार्थोऽनुना समासस्तदा स्त्रियः पुरुषेच्छानुवृत्तौ मध्यमः यथा—
+
+**स्थाने तपो दुश्चरमेतदर्थ-  
+  मपर्णया कोमलयापि तप्तम्।  
+या दास्यमप्यस्य लभेत नारी  
+  सा स्यात्कृतार्था किमुताङ्कशय्याम्॥५४**
+
+पुरुषस्य स्त्रीच्छानुवृत्तौ कनिष्ठः यथा—
+
+**[सो](# "स तव कृते सुन्दरि तथा क्षीणः सुमहिलो हालिकपुत्रः यथास्या मत्सरिण्याअपि दौत्यंजायया प्रतिपन्नम्॥") तुह कएण सुंदरि तह छीणो सुमहिलोहलियउत्तो।  
+  जह से मच्चरणीए वि दोच्चं जाआए पडिवण्णं॥५५**
+
+  एतेन अन्यतरानिच्छायामनुरागाभासेऽप्यानुरूप्यं व्याख्यातम् तत्र पुरुषस्यानिच्छायां उत्तमः यथा—
+
+**तदनघ तनुरस्तु सा सकामा  
+  व्रजति पुरा हि परासुतां त्वदर्थे।  
+पुनरपि सुलभं तपोऽनुरागी  
+  युवतिजनः खलु नाप्यतेऽनुरूपः॥५६**
+
+
+
+स्त्रिया अनिच्छायां मध्यमः यथा—
+
+**सञ्चारिणी दीपशिखेव रात्रौ  
+  यं यं व्यतीयाय पतिंवरा सा।  
+नरेन्द्रमार्गाट्टइव प्रपेदे  
+  विवर्णभावं स स भूमिपालः॥५७**
+
+स्त्रिया एवात्यनुरागस्तु द्वेषे कनिष्ठः यथा—
+
+**श्वासालिङ्गनधूसरेण सुमुखी बिम्बाधरेणामुना  
+  पर्यन्तारुणतां दृशोर्विदधती बाष्पैरवच्छेदिभिः।  
+क्षामक्षामकपोलमण्डलपतद्व्यलोललम्बालकै-  
+  रङ्गैरुज्झितभूषणैः कथमियं धत्ते नवं मण्डनम्॥५८**
+
+**  **एवमवस्थितेत्य(प्य) र्थवत्यनुरागशब्दंप्रथमशब्देन समासः प्रथमश्चासावनुरागश्च प्रथमानुरागः प्रथमं वानुरागः प्रथमानुराग इति। भावसाधनपक्षे।यथोच्यते—
+
+  "तदेवं प्रकृत्या सुकुमारःकुमारः कदाचिदन्यत्रापरिक्लिष्टपूर्वस्तपस्वी यतोऽधुनाऽशक्यमनेन मरणमप्यनुभवितु"मिति
+
+  करणसाधनप्रत्ययोत्पत्तिपक्षे तु प्रथमायामनुरागः प्रथम उत्कृष्टेऽद्वितीयेवानुरागः प्रथमानुरागः यथोच्यते—
+
+  "एक एवसार्ववर्णिको नायकः प्रच्छन्नश्चद्वितीयो विशेषलाभा"दिति.
+
+  सोऽयमनुरागः प्रेमगतेः स्वभावकुटिलत्वात्कुटिलतामालम्बमानो मान इत्युच्यते का पुनर्माने निरुक्तिःउच्यते—"मान-पूजायां" "मन-ज्ञाने" "मनु-बोधने" "माङ्-माने" इत्येतेभ्यो भावकरणादिष्वेव घञ्ल्युटोर्मान इति रूपं भवति। तथाहि—मान्यते पूज्यतेऽनेनेति मानः यथोच्यते।
+
+**[पाअपडणाण](# "पादपतनानां मुग्धे रभसबलात्कारचुम्बितव्यानाम्। दर्शनमात्रप्रसादनशीले वञ्चिता बहूनां सौख्यानाम्॥") मुद्धे रहसबलामोडिचुंबिअव्वाणं।  
+  दंसणमेत्तपसिज्जिरि चुक्का बहुआण सोक्खाण॥५९**
+
+
+
+मन्यते दुःखैकहेतुमपि सुखसाधनमेवैनमिति मानः यथोच्यते—
+
+**मा पुनस्तमभिसीसरमागस्कारिणं मदविमोहितचेताः।  
+योषिदित्यभिललाष न हालां दुस्त्यजः खलु सुखादभिमानः॥६०**
+
+मनुते बुध्यतेऽस्मात्प्रेमास्तित्वमिति मानः यथा—
+
+**[जद्ध](# "यत्र नोज्जागरोयत्र नेर्ष्याविसूरणं मानः।सद्भावचाटुकं यत्र नास्ति स्नेहस्तत्रनास्ति॥") ण उज्जग्गिरओ जद्ध ण ईसाविसूरणं माणं।  
+  सब्भावचाडुअं जद्ध णद्धि णेहो तहिं णद्धि॥६१**
+
+मिमीते परिच्छिनत्ति प्रेम्णः प्रमाणमसाविति मानः यथा—
+
+**कुविआ अ सच्चभामा समे वि वहुईण णवर माणकखलणे।  
+पाअडिअहिअअसारो पेमा संघसरिसा? पट्टइमंतु॥६२**
+
+  कथं पुनर्मान इति ल्युडन्तस्य पुंसि प्रयोगः? शिष्टप्रयोगदर्शनात्
+
+  यथाह महाभाष्यकारः—
+
+  "अस्ति क्रिया किंतु साधनेभ्यः पृथगाख्यातुमशक्यं, अनिर्लुठितगर्भवत्, सोऽसावनुमानगम्या कोऽसावनुमानः? यत्सर्वेषु साधनेषु सन्निहितेषु कदा चित्पचतीत्येतद्भवति कदाचिन्न भवतीति।"
+
+  अथानुराग एव देशान्तर व्यवधाने प्रवासाख्यां लभते का पुनः प्रवासे निरुक्तिः? "वस-निवासे" "वस-आच्छादने" इत्येतयोः प्रपूर्वयोर्भावकरणादिष्वेव घञिप्रवास इति रूपं भवति तत्र वसेः प्रपूर्वस्य तद्विपरीतार्थवाचित्वे प्रवसनं प्रवासः, यथा—
+
+**कश्चित्कान्ताविरहगुरुणा [स्वाधिकारप्रमत्तः](# "मातृकाणां इदं पदं समस्तमेव दृश्यते।")  
+  शापेनास्तंगमितमहिमा वर्षभोग्येण भर्तुः।  
+यक्षश्चके जनकतनयास्नानपुण्योदकेषु  
+  स्निग्धच्छायातरुषु वसतिं रामगिर्याश्रमेषु॥६३**
+
+
+
+प्रकर्षेण वासयत्यनुरञ्जयति तन्मयतां नयति कामिनोश्चित्तमिति वा प्रवासः यथा—
+
+**अङ्गेनाङ्गं प्रतनु तनुना गाढतत्पेन तप्तं  
+  सास्रेणास्रद्रवमविरतोत्कण्ठमुत्कण्ठितेन।  
+उष्णोच्छवासं समधिकतरोच्छ्वासिना दूरवर्ती  
+  [सङ्कल्पैस्ते](# "संकल्पैस्ते इत्येवमातृकायां दृश्यते") विशति विधिना वैरिणा रुद्धमार्गः॥६४**
+
+  यदि वा प्रपूर्वोवसिर्णिजन्तः प्रमापणे वर्ततेयथा "तूष्णीमेनंप्रवासयेदिति" ततश्च प्रवास्यन्ते हन्यन्ते वियोगिन इति प्रवासः यथा—
+
+**ग्रामेऽस्मिन्पथिकाय पान्थ वसतिर्नैवाधुना दीयते  
+  रात्रावत्र विवाहमण्डपतले पान्थः प्रसुप्तो युवा।  
+तेनोत्थाय खलेन गर्जति घने स्मृत्वा प्रियां तत्कृतं  
+  येनाद्यापि करङ्कदण्डपतनाशङ्की जनस्तिष्ठति॥६५**
+
+  एते त्रयोऽपि वसत्यर्थाः। अथ वस्तेरर्थः आवसते अच्छादयन्त्यस्मिन्वियोगिन्यो विशेषवेषादिकमिति प्रवासः यथा—
+
+**वसने परिधूसरे वसाना नियमक्षामतनुः कृशैकवेणी।  
+अतिनिष्करुणस्य शुद्धशीला मम दीर्घांविरहव्यथां बिभर्ति॥६६**
+
+  अनुराग एवान्यतरविनाशे दुःखानुभवादिभिः करुणसंज्ञोभवति का पुनःकरुणे निरुक्तिः? उच्यते—करोतेः किरतेर्वा"कृवृदारिभ्य उनन्" इत्यौणादिके कर्तर्युनन्प्रत्यये करुण इति रूपं भवति। तत्रायं करोतिरभूतप्रादुर्भावोबारणनिक्षेपाभ्यङ्गेषु वर्तते यथा— घटं करोति पटं करोति अभूतमुत्पादयतीति गम्यते। चोरं कारमाक्रोशति दस्युङ्कारमाक्रोशतिचोरोऽसि दस्युरसीत्युच्चार्यं कोशतीति गम्यते। घटे कुर्वतःघटे, कुरु कृतान्नमशेत् अश्मानमितः कुरु निक्षिपेति गम्यते। पादौ कुरु पृष्ठं कुरु घृतेन तैलेन वोन्मृदानेति? गम्यते। किरतिस्तु विक्षेपे पठ्यतेविशिष्टश्च क्षेपो विक्षेपः विशेषास्त्वस्य वैविध्यं विरुद्धता व्याविद्धत्वं प्रतिषेध इति तत्र यदा किरतेःकरुण इति रूपं तदा विविधो व्याविद्धो विप्रतिषिद्धश्चदीर्घशोक एव करुणशब्देनोच्यते स हि प्राणी सांसारिकेभ्यःसुखेभ्यो विक्षिपति यथा—
+
+
+
+**हृदयान्नापयातोऽसिदिक्षु सर्वासु दृश्यसे।  
+वत्स राम गतोऽसीति सन्तापादनुमीयसे॥६७**
+
+**प्राणाः प्रयान्ति परितस्तमसावृतोऽस्मि  
+  मर्मच्छिदो मम रुजः प्रसरन्त्यपूर्वाः।  
+अक्ष्णोर्मुखेन्दुमुपधेहि गिरं च देहि  
+  हा पुत्र मय्यकरुणः सहसैव मा भूः॥६८**
+
+  यदा तु करोतेरभूतप्रादुर्भावनाद्यर्थवाचिनः करुण इति रूपं तदा स्त्रीपुंसविषय आयोजितकामसूत्रः पुनः समागमफलोऽनुराग एव करुणशब्देनोच्यते तद्यथा—दुःखातिरेकादभूतान्करोति प्रादुर्भावयतीति करुणःयथा—
+
+**मातर्मातर्दलति हृदयं ध्वंसते देहबन्धः  
+  शून्यं मन्ये जगदविरतज्वालमन्तर्ज्वलामि।  
+सीदन्नन्धे तमसि विधुरो मज्जतीवान्तरात्मा  
+  विष्वङ्मोहःस्थगयति कथं मन्दभाग्यः करोमि॥६९**
+
+करोत्युच्चारयति विलापादिभिस्तद्गुणमिति करुणः यथा—
+
+**अथ सा पुनरेव विह्वला वसुधालिङ्गनधूसरस्तनी।  
+विललाप विकीर्णमूर्धजा समदुःखामिव कुर्वती स्थलीम्॥७०**
+
+करोति स्थापयत्यनेन मरणजीवितयोरेकत्रेति करुणः यथा—
+
+**इत्थं रतेः किमपि विभ्रमदृश्यरूपं  
+  मन्दीचकार मरणव्यवसायबुद्धिम्।  
+तत्प्रत्ययाच्च कुसुमायुधबन्धुरेना-  
+  माश्वासयत्सुचरितार्थपदैर्वचोभिः॥७१**
+
+  करोत्यभ्यञ्जयति बहिरन्तश्च व्याप्नोति विस्रम्भोत्पत्त्या स्त्रीपुंसयोरन्यतरस्यायं हृदयमिति करुणःयथा—
+
+**विलुलितमपि पूरैर्बाष्पमानन्दशोक-  
+  प्रभवमवसृजन्ती पक्ष्मलोत्तानदीर्घा।**
+
+
+
+**स्नपयति हृदयेशं स्नेहनिष्यन्दिनी ते  
+  धवलमधुरमुग्धा दुग्धकुल्येव दृष्टिः॥७२**
+
+  सोऽयं विप्रलम्भादिषूपसर्जनीकृतप्रत्ययार्थः प्रकृत्यर्थोप(पि)वर्णितः। अथोपसर्जनीकृतप्रकृत्यर्थः प्रत्ययार्थो वर्ण्यते तत्र भावः कर्म करणं सम्प्रदानं अपादानं, अधिकरणं, कर्ता, हेतुकर्ता भावकर्ता कर्मकर्ता, [कर्तृकर्म](# "९४ तमे पुटेविप्रलंभप्रपंचे उपसर्जनीकृत प्रकृत्यर्थस्य अवान्तरभेदनामानि द्वादश निर्दिष्टानि तेषु  कर्मकर्ता  इति दशमः,  कर्तृकर्म  इत्येकादशः, "), भावकर्मेति प्रत्ययार्थाः।
+
+तेषु भावो यथा—
+
+**अवचनं वचनं प्रियसन्निधावनवलोकनमेव विलोकनम्।  
+अवयवावरणं हि यदंशुकव्यतिकरेण तदङ्गममर्पणम्॥७३**
+
+कर्म यथा—
+
+**पश्यामि तामित इतश्च पुरश्च पश्चा-  
+  दन्तर्बहिः परित एव च वर्तमानाम्।  
+उद्बुद्धमुग्धकनकाब्जनिभं वहन्ती-  
+  मासङ्गि तिर्यगपवर्तितदृष्टिवक्त्राम्॥७४**
+
+करणं यथा—
+
+**अविरलमिव दाम्ना पौण्डरीकेण नद्धः  
+  स्नपित इव च दुग्धस्रोतसा निर्भरण।  
+कबलित इव कृत्स्नं चक्षुषा स्फारितेन  
+  प्रसभममृतमेघेनेव सान्द्रेण मिक्तः॥७५**
+
+सम्प्रदानं यथा—
+
+**कृतवानसि विप्रियं न मे प्रतिकूलं च न ते मया कृतम्।  
+किमकारणमेव दर्शनं विलपन्त्यै रतये न दीयते॥७६**
+
+
+
+अपादानं यथा—
+
+**किञ्चिन्मुद्रितपांसवः शिखिकुलैः सानन्दमालोकिता  
+  भग्नावासरुदद्दरिद्रगृहिणीश्वासानिलैर्जर्जराः।  
+एते ते निपतन्ति नूतनघनाः प्रावृड्भरारम्भिणो  
+  विच्छायीकृतविप्रयुक्तवनितावक्त्रेन्दवो बिन्दवः॥७७**
+
+अधिकरणं यथा—
+
+**यस्यां ते दिवसास्त्वया सह तथा नीताः पुनः स्वे गृहे  
+  यत्सम्बद्धकथाभिरेव सुचिरं दीर्घाभिरास्थीयत।  
+एकः सम्प्रति नाशितप्रियतमस्तामेव पापः कथं  
+  रामः पञ्चवटींविलोकयतु वा गच्छत्वसंभाव्य वा॥७८**
+
+कर्ता यथा—
+
+**यत्त्वन्नेत्रसमानकान्ति सलिले मग्नंतदिन्दीवरं  
+  मेघैरन्तरितः प्रिये तवमुखच्छायानुकारी शशी।  
+येऽपि त्वद्गमनानुसागितयस्ते राजहंसा गता-  
+  स्त्वत्सादृश्याविनोदमात्रमपि मे दैवेन न क्षम्यते॥७९**
+
+हेतुकर्ता यथा—
+
+**चिराद्वेगारम्भी विकृत इव तीव्रो विषरसः  
+  कुतश्चित्संवेगात् प्रचल इव शल्यस्य शकलः।  
+व्रणोरूढग्रन्थिः स्फुटित इव हृन्भर्माणि पुनः  
+  प(पु)रावृत्तः शोको विकलयति मां नूतन इव॥८०**
+
+भावकर्ता यथा—
+
+**कुचद्वन्द्वे तस्मिन्द्विपकलश(कलभ)कुम्भस्थलतुलां  
+  दधानेऽस्मिन्कस्या? युवतिषु न चित्तस्य रुजति।  
+तथोर्वोर्युग्मे वा द्रुतरुचिरचामीकररुचो  
+  विकर्षत्यूष्माणं कमिव न युवानं ज्वरयति॥८१**
+
+
+
+कर्मकर्ता यथा—
+
+**तान्येतानि शिखण्डिताण्डवगुरूनम्भोधरानम्बरे  
+  तन्वानानि दिनानि नूनममृतस्यन्दीनि वन्दामहे।  
+उद्गाढा नवनीलनीरजदृशामत्यन्तमायामिनो  
+  भिद्यन्ते स्वयमेव येषु विषमा मानग्रहग्रन्धयः॥८२**
+
+कर्मकर्तृ यथा—
+
+**गर्जन्तेऽभिनवं वृणो? वकिरते चूतेषु य(प)त्रोत्करः  
+  पुष्पैर्भूषयते पमानविटपी? वाप्यां मनो रज्यति।  
+ब्रूते वाक्स्वयमेव कोकिलमुखे मानग्रहो मोक्ष्यते  
+  सम्प्रत्येष यथा तथा प्रियसखि प्रौढिर्मधोर्मूर्च्छति॥८३**
+
+भावकर्म यथा—
+
+**अभिमुखे मयि संहृतमीक्षितं हसितमन्यनिमित्तकृतोदयम्।  
+विनयवारितवृत्तिरितस्तया न विवृतो मदनो न च संहृतः॥८४**
+
+  अथ प्रत्ययोत्पत्तिकालाः। केपुतस्ते? भूतो भविष्यन् वर्तमानोऽव्यक्त इति। भूतः परोक्षभूतो भूतानद्यतन इति। भविष्यं स्त्रिधा भविष्यद्भूतः भूतभविष्यन् भविष्यदद्यतन इति। वर्तमानस्त्रिधा वर्तमानो भूतसामीप्यो भविष्यत्सामीप्य इति। अव्यक्तस्त्रिधा अव्यक्तः अतिपन्नः सङ्कीर्ण इति। तेषु लुङादिवाच्योभूतो यथा—
+
+**एतत्पुनर्वनमहो कथमद्य दृष्टं  
+  यस्मिन्नभूम चिरमेव पुरा वसन्तः।  
+आरण्यकाश्च गृहिणश्च रताश्च धर्मे  
+  सांसारिकेषु च रसेषु वयं रसज्ञाः॥८५**
+
+लिडादिवाच्यः परोक्षो यथा—
+
+**विललाप स बाष्पगद्गदंसहजामप्यपहाय धीरताम्।  
+अभितप्तमयोऽपि मार्दवं भजते कैव कथा शरीरिषु॥८६**  
+
+
+
+
+लङादिवाच्यो भूतानद्यतनो यथा—
+
+**करकमलविशी(ती)र्णैरम्बुनीवारशष्पै-  
+  स्तरुशकुनिकुरङ्गान्मैथिली यानपुष्यत्।  
+भवति मम विकारस्तेषु दृष्टेषु कोऽपि  
+  द्रव इव हृदयस्य प्रस्नवोद्भेदयोग्यः॥८७**
+
+लृडादिवाच्यो भविष्यन् यथा—
+
+**प्रत्यागमिष्यसि भविष्यति सङ्गमोऽपि  
+  सम्पत्स्यते च हृदयाभिमतोऽभिलाषः।  
+एषा गता न पुनरेष्यति जीवितेश  
+  विद्युद्विलासतरला नवयौवनश्रीः॥८८**
+
+"आशंसायां भूतवच्चे" ति भूतभविष्यन् यथा—
+
+**अविरलविलोलजलदः कुटजार्जुननीपसुरभिवनवातः।  
+अयमायातः कालो हन्त हताः पथिकगेहिन्यः॥८९**
+
+लृडादिवाच्यो भविष्यदद्यतनो यथा—
+
+**भूमिः कण्टकिनी पुरो विटपिनः प्रायो बहूपद्रवा  
+  भूयः सैष दिवाकरो मृगयते सन्ध्यावधूसङ्गमम्।  
+का वा ते पथिक त्वराद्य गमने ग्राम्ये विधेये जने  
+  प्रातः श्रान्तविनोदितेन मनसा स्थातासि गन्तासि वा॥९०**
+
+लडादिवाच्यो वर्तमानो यथा—
+
+**प्रसरति परिमाथी कोऽप्ययं देहदाह-  
+  स्तिरयति करणानां ग्राहकत्वं प्रमोहः।  
+रणरणकविवृद्धिं बिभ्रदावर्तमानं  
+  ज्वलति हृदयमन्तस्तन्मयत्वं च धत्ते॥९१**
+
+
+
+स एव भूतासन्नो भूतसामीप्यो यथा—
+
+**विना सीतादेव्या किमिव हि न दुःखं रघुपतेः  
+  प्रियानाशे पुंसां जगदिदमरण्यं हि भवति।  
+स च स्नेहस्तावानयमपि वियोगो निरवधिः  
+  किमेवं त्वं पृच्छस्यनधिगतरामायण इव॥९२**
+
+भविष्यदासन्नोभविष्यत्सामीप्यो यथा—
+
+**इयमेत्य पतङ्गवर्त्मना पुनरङ्काश्रयिणी भवामि ते।  
+चतुरैः सुरसुन्दरीजनैः प्रिय यावन्न विलोभ्यसे दिवि॥९३**
+
+लिङादिवाच्योऽव्यक्तो यथा—
+
+**प्रसीदेति ब्रूयामिदमसति कोपे न घटते  
+  करिष्याम्येवं नो पुनरिति भवेदभ्युपगमः।  
+न मे दोषोऽस्तीति त्वमिदमपि विज्ञास्यसि मृषा  
+  किमेतन्मे वक्तुं क्षममिति न वेद्मि प्रियतमे॥९४**
+
+लृङादिवाच्योऽतिपन्नः। यथा—
+
+**रामाय पुण्यमहसे सदृशाय सीता  
+  दत्तैव दाशरथिचन्द्रमसेऽभविष्यत्।  
+आरोपणेन पणमप्रतिकार्यमार्य-  
+  स्त्रैयम्बकस्य धनुषो यदि नाकरिष्यत्॥९५**
+
+धातुसम्बन्धोत्पन्नप्रत्ययवाच्यः सङ्कीर्णः यथा—
+
+**अतन्द्रिता सा स्वयमेव वृक्षकान्  
+  घटस्तनप्रस्रवणैर्व्यवर्धयत्।  
+गुहोऽपि येषां प्रथमाप्तजन्मनां  
+  न पुत्रवाल्लभ्यमपाकरिष्यति॥९६**  
+
+
+
+
+  त एते द्रव्यात्मनः क्रियात्मनो वा क्रियापरिच्छेदिनःकालाःअथापरे द्रव्यात्मनः क्रियासाधनरूपा विद्यन्ते के पुनस्ते? नित्यो नैमित्तिकःस्वाभाविको वैपरामर्शिक इति तेषु नित्यः शाश्वतिको वैकल्पिको नैयोगिकश्चनैमित्तिक औद्योतिक औपभोगिकः प्रायोगिकश्च स्वाभाविक आगन्तुको नैसर्गिकः सांसर्गिकश्चवैपरामर्शःसङ्कीर्णः प्रकीर्णो विप्रकीर्णश्च, इति प्रत्येकं त्रैविध्याच्चत्वारोऽपि ते द्वादश भवन्ति ते(षु क्ष?) णनिमेषनाडिकामुहूर्तप्रहराहोरात्ररूपः शाश्वतिकः स यथा—
+
+**क्षणे निमेषे नाड्यां वा मुहूर्ते प्रहरेऽपि वा।  
+गते त्वमेष्यसीत्युक्ते रुरोध पथिकः प्रियाम्॥९७**
+
+दिनरात्रिपक्षमासर्त्वयनरूपो वैकल्पिकः, यथा—
+
+**संक्षिप्येत क्षणमिव कथं दीर्घयामा त्रियामा  
+  सर्वावस्थास्वहरपि कथं मन्दमन्दातपं स्यात्।  
+इत्थं चेतश्चटुलनयने दुर्लभप्रार्थनं मे  
+  गाढोष्णाभिः क्षतमशरणं त्वद्वियोगव्यथाभिः॥९८**
+
+संवत्सरयुगकल्पमन्वन्तरप्रलयमहाप्रलयरूपोनैयोगिकः। स यथा—
+
+**तेनाष्टौ परिगमिताः समाः कथंचि-  
+  द्बालत्वादवितथसूनृतेन सूनोः।  
+सादृश्यप्रतिकृतिदर्शनैः प्रियायाः  
+  स्वप्नेषु क्षणिकसमागमोत्सवैश्च॥९९**
+
+  तेऽमी त्रयोऽपि नित्यभेदाः। नित्यरूपेणैवानिवारितप्रवृत्तित्वात्। प्रातःप्रत्यूषप्राह्णमध्याह्णापराह्णसन्ध्यारूप औद्योगिकः यथा—
+
+**शय्यन्ते हतशायिकाः पथि तरुच्छायानिषण्णाध्वगैः  
+  श्रीकण्ठायतनेषु धार्मिकजनैरास्यन्त उष्ट्रासिकाः।  
+शून्ये तेऽत्र निकुञ्जशायिनि सखि ग्रीष्मस्य मध्यन्दिने  
+  सज्जानां दयिताभिसारणविधौ रम्यः क्षणो वर्तते॥१००**
+
+
+
+निशामुखप्रदोषनिशीथापररात्रचन्द्रोदयचन्द्रास्तमयरूप औपभोगिको यथा—
+
+**विलिम्पत्येतस्मिन्मलयजरसार्द्रेण महसा  
+  दिशां चक्रं चन्द्रे सुकृतमयि तस्या मृगदृशः।  
+दृशोर्बाष्पःपाणौ वदनमसवः कण्ठकुहरे  
+  हृदि त्वं ह्रीः पृष्ठे वचसि च गुणा एव भवतः॥१०१**
+
+शरद्धेमन्तशिशिरवसन्तग्रीष्मवर्षारूपः प्रायोगिको यथा—
+
+**इदमसुलभवस्तुप्रार्थनादुर्निवारं  
+  प्रथममपि मनो मे पञ्चबाणः क्षिणोति।  
+किमुत मलयवातोन्मूलितापाण्डुपत्रै-  
+  रुपवनसहकारैर्दर्शितेष्वङ्कुरेषु॥१०२**
+
+
+  तेऽमी त्रयोऽपि नैमित्तिकभेदाः नित्यत्वेऽप्येषामु(पभो) गादेर्निमित्तत्वात् मदप्रमदाभ्युदयोत्सवव्यसनपरिहारादिरूप आगन्तुर्यथा—
+
+**पटालग्ने पत्यौ नमयति मुखं जातविनया  
+  हठाश्लेषं वाञ्छत्यपहरति गात्राणि शनकैः।  
+न शक्नोत्याख्यातुं स्मितमुखसखीदत्तनयना  
+  ह्रिया ताम्यत्यन्तः प्रथमपरिहारा नववधूः॥१०३**
+
+बाल्यकौमारयौवनमौग्ध्यमाध्यस्थ्यप्रागल्भ्यरूपो नैसर्गिको यथा—
+
+**मा मूमुहत्खलु भवन्तमनन्यजन्मा  
+  मा ते मलीमसविकारघना मतिर्भूत्।  
+इत्यादि नन्विह निरर्थकमेव यस्मा-  
+  त्कामश्च जृम्भितगुणो नवयौवनं च॥१०४**
+
+
+
+परापरयौगपद्यायौगपद्यचिरक्षिप्ररूपःसांसर्गिको यथा—
+
+**आदौ तावन्नयनगमनस्वागतादिक्रियास्ताः  
+  पश्चादीषत्प्रहसितकथाभावसम्प्रेषितानि।  
+भावेनान्तर्मनसि घटितः प्रीतिविस्रम्भयोगो  
+  विस्रम्भात्तु प्रसरति शनैः सर्वगात्रेष्वनङ्गः॥१०५**
+
+  तेऽमी त्रयोऽपि स्वाभाविकभेदाः स्वभावत एव प्रवर्तमानत्वात्। देश्यक्रीडाकेलिद्यूतव्रतगोष्ठीप्रेक्षादिरूपः सङ्कीर्णः यथा—
+
+**सखि स विजितो वीणाद्यूते कयापि खलु स्त्रिया  
+  पणितमभवत्तस्यां तस्मिन्निशाललितं ध्रुवम्।  
+कथमितरथा शेफालीषु स्खलत्कुसुमास्वपि  
+  स्थितवति नभोमध्ये त्विन्दौ प्रियेण विलम्ब्यते॥१०६**
+
+विविक्तदीर्घिकोद्यानसौधक्रीडादिदर्शनादिरूपः प्रकीर्णः यथा—
+
+**पान्थ द्वारवतीं प्रयासि यदि हे तद्देवकीनन्दनो  
+  वक्तव्यः स्मरमन्त्रमोहविवशा गोप्यो न नामोज्झितः।  
+एताः केतकपुष्पधूलिपटलैरालोक्य रम्या दिशः  
+  कालिन्दीतटभूमयोऽपि तव रे नो यान्ति चिन्तास्पदम्॥१०७**
+
+ 
+अष्टमीचन्द्रकेन्द्रोत्सवयक्षरात्रिककुन्दचतुर्थीषुवसन्तकमदनत्रयोदश्यादिरूपो विप्रकीर्णःस यथा—
+
+**अस्मिन्वर्षमहे न वर्तत इदं यत्कामदेवोत्सवे  
+  स्थेयं पुत्रि निरन्नया तदधुना किञ्चिन्मुखे दीयताम्।  
+इत्युक्ते जरतीजनेन कथमप्यध्वन्यवध्वा ततः  
+  पर्यस्तेऽहनि कल्पितश्च कबलो धौतश्च धाराश्रुभिः॥१०८**
+
+
+
+तेऽमी त्रयोऽपि वैपरामर्शिकभेदाः विपरामृश्य स्वेच्छया प्रवर्तमानत्वात्।
+
+**स एव कालः कार्त्स्न्येन द्विरूप उपदर्शितः।  
+क्रियापदैकवाच्योऽयं क्रियायाः साधनं च यः॥**
+
+**प्रत्ययार्थो द्वयं चैतत्समवेतमुदाहृतम्।  
+प्रकृत्यर्थानुरोधेन विप्रलम्भे चतुर्विधे॥१०९**
+
+**यो विप्रलम्भः प्रथमानुरागो मानः प्रवासः करुणः स एव।  
+साधर्म्यवैधर्म्यवशेन चैषामभेदभेदावथ तौ वदामः॥**
+
+इति श्रीमहाराजाधिराजश्रीभोजदेवविरचिते  
+शृङ्गारप्रकाशे विप्रलम्भान्वर्थप्रकाशनो  
+नाम चतुर्विंशः प्रकाशः॥
+
+
+
+
+
+
+
+![](../../../books_images/U-IMG-1696537704Screenshot2023-10-05162447.jpg)
+
+
+
+॥ श्रीः ॥
+
+॥**परिशिष्टम्**॥  
+॥विप्रलम्भशेषः॥
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  यत्तन्नाम प्रस्तावितचरमुपोद्धाते भाण्डागारं तत्र अस्यैव शृङ्गारप्रकाशस्य आदिमषट्कप्रतिच्छन्दान्तरं साधितमस्तीति, तच्चमातृकान्तरसंवादात् समीकृतमिति च प्रतीतिमारोपितमवागम्यत; तेनाप्यस्मदीयकोशस्य संवादं साधयितुं स एवाध्यक्षः पर्यनुयुक्तोऽभूत्। तेनोत्तरितं च यथा—"अनुयुज्यमानभागस्य मुद्रणानन्तरं शतं कोशाः निष्प्रतिक्रियं भाण्डागाराय यदि दीयेरन्; तर्हि उपरितनाधिकरणाधिपेन (Director) संयुज्य संवादायानुमतिं दापयितास्मि" इति। इदमेवोत्तरलेखमनूद्य निष्क्रियसंवादाभ्युपगमाय सोऽपि (Director) महाशयः प्रार्थितः। अथ सोऽपि अध्यक्षलेखमेवाभिन्नाक्षरार्थमन्ववदत्। तेनैतदुल्लेखपथं न खलु नाधिरोहति सुधियां, यदत्र परस्परमुपजापः सम्पन्न इति। अथ तमेतमेवार्थमधिकृत्य प्रेष्ठंराजाधिकरणमभियोगः प्रापितः। तत उपांशु सञ्चारिते अधिकरणैकान्ते विचारे विद्याधिकारिणः Director अधिकरणात् पञ्चाशत्सङ्ख्यानिर्देशन अवारोपितं मुद्रितपुस्तकप्रत्यर्पणम्। तदुत्तरत्वेन मठतः अननुमतौ प्रकाशितायां पुनश्च पञ्चविंशतिसङ्ख्यानिर्देशेन अन्ततो दशसङ्ख्यानिर्देशेन च लेखःप्राप्तः।नाद्यापि निगमः सम्पद्यते। तदेवं सार्वीये भाण्डागारे राजकीये पण्यपणनं सम्पन्नम्। तदेतदामूलचूडं शृङ्गारप्रकाशसंवादविप्रलम्भवृत्तान्तं परिशीलयन्तः निदानमस्य स्वयमेव दूरदर्शिनः अवगच्छेयुरित्यलम्॥
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  अत्र प्रबन्धे प्राकृतगाथानां नैकस्याअपि च्छाया लेशतोऽपि मातृकायां लिखिता। प्रत्युत अक्षरविपर्यासस्त्रुटिरुच्चावचसन्निवेशश्च बहुधास्ति। यथावगमं समीकृत्य च्छाया साधिता।तेनात्र स्खलितशोधनाकरनिरूपणच्छायाप्रदर्शनादि यदि सूचयेयुर्विपश्चितः केऽपि बहुदर्शिनः, तर्हि सप्रश्रयं तदधिगच्छन्नः परिशिष्टे संमुद्र्य प्रकाशयितास्महे।  
+  प्राकृतगाथानामाकरविषये सप्तशतीति काव्यमालायां मुद्रितैका। अस्मत्तालकोशवर्तिनी अपरा।माधवयज्वव्याख्यातान्या।जर्मन्देशे तल्लिप्या मुद्रिता इतरा इति। वेमभूपालव्याकृतं गाथाशतकमन्यदिति च। उदाहृतानां गाथानां बह्वीनां संवादो नैवोपलभ्यते।
+
+
+
+**॥स्खलितशोधनं उल्लेखश्च ॥**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+।                ।                 ।                    ।                                                                                                                                                                                                                                                                          ।
+।ः--------------:।ः---------------:।ः------------------:।ः------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:।
+। **पुटसङ्ख्या** । **पद्यसङ्ख्या** । **स्खलितप्रदेशः.** ।                                                                                                                            **संस्कारशुद्धिः**                                                                                                                            ।
+।       १        ।                ।   कु... रस्याभि    ।                                                                                                                            रुचिरस्याभिलाषस्य।                                                                                                                            ।
+।       ४        ।       १०        ।       धरिउं        ।                                                                     धरिउं कह वि ण तीरइ हअदिट्ठी बल्लहेसु निपडंती।गाइव्व, (छाया) धर्तुं कथमपि न पार्यते हतदृष्टिर्वल्लभेषु निपतन्ती गौरिव... लुब्धा।                                                                     ।
+।       ५        ।       १२        ।       बालाओ        ।                                                   बालाओ होंति कोऊहलेण एमेअ चवलचित्ताओ। दरलसिअथणीसु पुणो णिवसइ मअरद्धअरह्व्सं॥ (छाया) बाला भवन्ति कौतूहलेन एवमेव चपलचित्ताः। दरलसितस्तनीषु पुनर्निवसति मकरध्वजरहस्यम्॥                                                    ।
+।       ७        ।       २९        ।    का.....क्खर     । कालक्खरदूसिक्खिअवालअ रे एहि लग्ग कंठम्मि।दोण्णि वि णरअणिवासो समअं जइ होइ ता होउ। (छाया) कालाक्षरदुश्शिक्षित बालक रे एहि लग कण्ठे। द्वयोरपि नरकनिवासः समं यदि भवतु तद्भवतु। (तालकोशे अस्या द्वितीयपादे धम्मिअ रे णिंबकीडअसरिच्छ (छाया) धार्मिक रे निम्बकीटकसदृक्ष इति)। ।
+।       ८        ।       ३१        ।      ता छिवइ       ।                                                                                                                        (उत्तरार्धे) कामोसवसीअलो।                                                                                                                         ।
+।       ९        ।       ४१        ।  पिहिते कारागारे   ।                                                                                                                पिहिते वासागारे (शेषं टिप्पण्यां समाहितम्)                                                                                                                ।
+।       १०       ।       ४३        ।       तह तीए       ।                                                                                       (उत्तरार्धं) समअं जह विअसिअमोल्लिआइ जाआइ।अच्छीइ(छाया) समं यथा विकसितमुकुलिते जाते अक्षिणी।                                                                                        ।
+
+
+
+
+
+।                ।                 ।                   ।                                                                                                                                                                                                            ।
+।ः--------------:।ः---------------:।ः-----------------:।ः----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:।
+। **पुटसङ्ख्या** । **पद्यसङ्ख्या** । **स्खलितप्रदेशः** ।                                                                                             **संस्कारशुद्धिः**                                                                                             ।
+।       ११       ।       ५०        ।     केलीगोत्त     ।                                                                            ......वरस्स...रइं देइ(छाया) ...वरस्य ....रतिं ददाति।                                                                            ।
+।       १२       ।       ५५        ।     एएण च्चिअ     ।                                              (द्वितीयपादः) पज्जत्तं तेण माणुसे लोए (चतुर्थपादः) किसेत्ति सव्वो (छाया) पर्याप्तं तेन मानुषे लोके। कृशेति सर्वः                                              ।
+।       १३       ।       ६०        ।      अच्च उ       ।                                                                                                   अच्चउ।                                                                                                   ।
+।       १४       ।       ६३        ।      गोलाणईण      ।                                                                                    गोलाणईए तूहे (छाया) गोदानद्यास्तीथें                                                                                    ।
+।       १७       ।       ७७        ।    समपेम्मरसं     ।                                                                        (चतुर्थपादः) समपुण्णेहिं जणो लहइ। (छाया) समपुण्यैर्जनो लभते।                                                                        ।
+।       २०       ।       ९०        ।     सहसा मा      । सहसा मा साहिप्पउ पिआअमो तीए विरहकिसिआए। अच्चंतपहरिसेण वि जा मआ सा मअ च्चेअ। (छाया) सहसा मा शाम्यतु प्रियागमस्तस्या विरहकृशायाः। अत्यन्तप्रहर्षेणापि या मृता सा अमृतैव (मा शाम्यतु मा सात्मीभवतु इति भावः)। ।
+।       २०       ।       ९२        ।     पत्तपओसो      ।                                                                                   (उत्तरार्धे) थोआवसेस (छाया) स्तोकावशेष                                                                                   ।
+।       २२       ।       १०१       ।      पिअलं       ।                                                      (उत्तरार्धं) अहिधाविऊण छिप्पो बालअ बालाए धण्णोसि। (छाया) अभिधाव्य स्पृष्टो बालक बालया धन्योऽसि ॥                                                      ।
+।       २३       ।       १०७       ।      केणाचि       ।                                                                        (उत्तरार्धे अंहो आश्चर्ये दुःखे च निपातः अंबो इत्यपि पाठः)।                                                                        ।
+।       २६       ।       १२३       ।   णिद्दाविरामो    ।                                                                                           पुलोएइ (छाया) पश्यति।                                                                                            ।
+।       "        ।       १२४       ।     दिण्णतणु      ।                                                             (द्वितीयपादः) जुबइजणस्स दइअदट्ठतंबोट्ठाइं। (छाया) युवतिजनस्य दयितदष्टताम्रोष्ठानि।                                                             ।
+।       २८       ।       १३३       ।      णिंदंतु      ।             (उत्तरार्धं) बहुमग्गविणिम्मविआइ वेसविलअणहिअआइ। (छाया) बहुमार्गावीनिर्मापितानि वेश्यास्त्रीणां हृदयानि (४९ पुटे इयमेव गाथा उदाहृता, उत्तरार्धे तु बहुरङ्गविनि-र्मापितानि इति पाठः)।             ।
+
+
+
+
+
+
+
+।                 ।                 ।                   ।                                                                                                                                                                                                                                                                                                                                               ।
+।ः---------------:।ः---------------:।ः-----------------:।ः---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:।
+। **पुटसङ्ख्या** । **पद्यसङ्ख्या** । **स्खलितप्रदेशः** ।                                                                                                                                                              **संस्कारशुद्धिः**                                                                                                                                                               ।
+।       २९        ।       १३९       ।     खणमेत्तं      ।                                                                                                                                                         ण पिट्ठेइ (छाया) न भ्रश्यति।                                                                                                                                                          ।
+।       ३०        ।       १४२       ।      दरसुंदर      ।                                                                                                                                             दरसुंदरमहुरुल्लाविरीए (छाया) दरसुन्दरमधुरोल्लापिन्या                                                                                                                                              ।
+।       ३१        ।       १५०       ।     अण्णं लडह     ।                                                                                                                               अण्णं लडहत्तणअं (छाया) अन्यद्वैदग्ध्यं (लडहशब्दः संस्कृतेऽपि प्रयुज्यते कविभिः)।                                                                                                                                ।
+।       ३२        ।       १५५       ।       वाउकल       ।                                                                                                                         वाहोल्लविअलिआणं (छाया) बाष्पर्द्रविगलितानां, रहसोत्ताणणिच्चलच्छो (छाया) रभसोत्ताननिश्चलाक्षः।                                                                                                                         ।
+।       ३४        ।      १६२       ।       दिअरो       ।                                                                                                                                                                दिअरोपरि णिहइ।                                                                                                                                                                 ।
+।       ३६        ।       १७५       ।      खिप्पइ       । उक्खिप्पइ मारुअमंडलेण गेहंगणाए वाहीए। सोहग्गाधअपडाए व उव धणुरोरुंफरिंच्छोली। (छाया) उत्क्षिप्यते मारुतमण्डलेन गेहाङ्गणाद्व्याध्याः। सौभाग्यध्वजषताकेव पश्य धनुस्त्वक्परम्परा। (अत्र तुरीये पादे पाठभेदोऽस्ति, यथा—सोहग्गधअपडाअं व उवह धणुरूंपरिंछोली इति, इयान्विशेषः। आद्यपाठे उव पश्य, रोरुंफः धनुस्त्वक्, द्वितीये उवह पश्यत, रुम्पः इति)। ।
+।       ४०        ।       १९७       ।        पणअ        ।                                                                                                                                                                 पणअक्खलणासंका                                                                                                                                                                 ।
+।       ४१        ।       २०३       ।    दट्ठुं चिरं    ।                                                                   (अस्या गाथायाः पूर्वार्धे पाठभेदः। माधवयज्वव्याख्यातायां सप्तशत्यामेवं दृश्यते, सरहसविणिग्गआए वि अत्ता अंतो? मए ण सच्चविओ। सीसाहअ वलिअ (छाया) सरभसविनिर्गतयापि पितृष्वसः मया न लक्षितः। शीर्षाहतवलित इति)                                                                   ।
+।       ४२        ।       २०८       ।      तद्दिअह      ।                                                                                                                                         अणुदिअहकआहोआ (छाया) अनुदिवसकृताभोगौ। पिणंति (छाया) निर्यातः।                                                                                                                                          ।
+।       ४३        ।       २११       ।      घरिणीए       ।                                                                                                                                      घरणीए अकअलंबं चडुअंमं पिअअमे (छाया) गृहिण्याः... चाटुर्कम प्रियतमे।                                                                                                                                      ।
+
+
+
+[TABLE]
+
+उपोद्धाते।
+
+XVI. त्रयोविंशे प्रकाशे अन्ते—
+
+**स्वभावविपरामर्शैःसन्निकर्षादयो द्विधा।  
+अव्यवस्थाव्यवस्थाभिर्द्वेधा व्यतिकरक्रमः॥  
+प्रायःपूर्वानुरागादौ व्यवस्थानस्वभावयोः।  
+नित्यादावव्यवस्थानविपरामर्शयोः श्रुतिः॥**  
+**दिङ्मात्रमेतदुदितं प्रथमानुराग-  
+  मानप्रवासकरुणैस्तदनन्तराणाम्।  
+भूयश्च रूपमखिलं खलु विप्रलम्भ-  
+  सम्भोगयोरनतिविस्तरतो वदामः॥**  
+इति श्री + इत्यादिनिगमतगद्यं मातृकायां न दृष्टम्॥
+
+XXII. के वैकटनितम्बेनेति पद्यानन्तरं अनुभयापेक्षा यथा—
+
+**पृष्टः काले वदति स माषं तद्विपरीतं सस्यमरण्ये।  
+लुम्पति चोष्टे रं वा षं वा तस्मै दत्ता विकटनितम्बा॥**
+
+XXIV."ध्वस्तैरौदरिकेः" इति पद्यस्य टिप्पण्यां सूर्याभिमुख्येसूरीणां सूर्यस्य वा, परमं भोजप्रबन्धं परं अम्भोजप्रबन्धं, सान्द्रामोदं आमोद आनन्दः, परिमलश्च, प्रकाशस्य तन्नाम्नोऽस्य ग्रन्थस्य, आलोकस्य।
+
+
+
+भोजदेवविरचिते शृङ्गारप्रकाशे द्वाविंशत्रयोविंशचतुर्विंशप्रकाशेषु  
+त्रिषु उदाहृतानां संस्कृतपद्यानां आदिवर्णानुक्रमणिका।
+
+
+
+।         ।           ।                         ।            ।
+।ः-------:।ः---------:।ः-----------------------:।ः----------:।
+। **पुट** । **पद्य.** । **पद्यानामाद्यक्षराणि** ।  **आकरः**  ।
+।        ।          ।          **अ**          ।           ।
+।   ३४    ।    १६६    ।       अङ्गेनाङ्गं       । मेघसन्देशे ।
+।   ६३    ।    ४९     ।            "            ।     "      ।
+।   ९३    ।    ६४     ।            "            ।     "      ।
+।   ९९    ।    ९६     ।      अतन्द्रिता सा      । कुमारसंभवे ।
+।   ३५    ।    १७१    ।       अतिथिभिर्गत       ।           ।
+।   ८७    ।    ४६     ।        अथ मदनवधू        । कुमारसंभवे ।
+।   ६८    ।    ७१     ।     अथ विश्वात्मने      ।     "      ।
+।   ८१    ।    १२     ।     अथ विश्वात्मने      ।     "      ।
+।   ९४    ।    ७०     ।      अथ सा पुनरेव       ।     "      ।
+।   ८६    ।    ३९     ।     अथेदं रक्षोभिः      । उत्तरचरिते ।
+।   ४५    ।    २२२    ।  अद्यप्रभृत्यनवमाङ्गि   । कुमारसंभवे ।
+।   ८९    ।    ५१     ।  अद्यप्रभृत्यनवमाङ्गि   ।     "      ।
+।   ४६    ।    २२६    ।    अद्योर्जितं विजित    । मालतीमाधवे ।
+।   ४३    ।    २१४    ।   अद्वैतं सुखदुःखयोः    । उत्तरचरिते ।
+।    ३    ।     १     ।    अनाघ्रातं पुष्पं     । शाकुन्तले  ।
+।   ८२    ।    १९     ।    अनालोच्य प्रेम्णः    ।           ।
+।   १८    ।    ८४     ।       अभिमुखे मयि       । शाकुन्तले  ।
+।   ९७    ।    ८४     ।            "            ।     "      ।
+।   ७६    ।    १०७    ।    अभूद्वरः कण्टकित     ।  रघुवंशे   ।
+।   ८९    ।    ५१     ।            "            ।     "      ।
+।   ४९    ।    २३८    ।    अवलम्ब्य निरायतां    ।  रामचरिते  ।
+।   ९५    ।    ७३     ।       अवचनं वचनं        ।           ।
+।   ८५    ।    ३२     ।        अवधानपरे         । कुमारसंभवे ।
+।   ९५    ।    ७५     ।        अविरलमिव         । मालतीमाधवे ।
+।   ९८    ।    ८९     ।       अविरलविलोल        ।           ।
+
+
+
+।          ।                         ।                    ।
+।ः--------:।ः-----------------------:।ः------------------:।
+। **पद्य** । **पद्यानामाद्यक्षराणि** ।      **आकरः**      ।
+।    २३    ।      असंशयं क्षत्र      ।     शाकुन्तले      ।
+।   १०८    ।     अस्मिन्वर्षमहे      । सूक्तिमुक्तावल्यां ।
+।         ।     अहेतुः पक्षपात      ।     उत्तरचरिते     ।
+।         ।          **आ**          ।                   ।
+।    ८२    ।      आज्ञाशक्रशिखा      ।     बालरामायणे     ।
+।    ४५    ।     आदृष्टिप्रसरात्     ।                   ।
+।   १०५    ।      आदौ तावन्नयन       ।                   ।
+।   १४८    ।      आभरणस्याभरणं       ।  विक्रमोर्वश्यां   ।
+।   १७९    ।       आमूलकण्टकित       ।     मालतीमाधवे     ।
+।    ४०    ।       आयाते दयिते       ।       अमरुके       ।
+।    ४८    ।      आलिम्पन्नमृत       ।     उत्तरचरिते     ।
+।    ९४    ।     आश्वासितस्य मम      ।  विक्रमोर्वश्यां   ।
+।         ।          **इ**          ।                   ।
+।   २१९    ।      इतः परानर्भक       ।      रघुवंशे       ।
+।    ७१    ।    इत्थं रतेः किमपि     ।     कुमारसंभवे     ।
+।    ७६    ।      इदमिह मदनस्य       ।     मालतीमाधवे     ।
+।   १०३    ।      इदमसुलभवस्तु       ।  विक्रमोर्वश्यां   ।
+।   १०२    ।      इदमसुलभवस्तु       ।  विक्रमोर्वश्यां   ।
+।    ८०    ।    इन्दीवरश्यामतनुः     ।      रघुवंशे       ।
+।    ५५    ।      इन्दुर्यत्र न      ।                   ।
+।   १५७    ।    इयं गेहे लक्ष्मीः    ।     उत्तरचरिते     ।
+।   २०५    ।      इयं महेन्द्र       ।     कुमारसंभवे     ।
+।   १०२    ।        इयमवयवैः         ।     मालतीमाधवे     ।
+।    ९३    ।      इयमेत्य पतङ्ग      ।     कुमारसंभवे     ।
+।         ।          **उ**          ।                   ।
+।    ४६    ।      उन्नमय्य सकच       ।                   ।
+।    ३४    ।        उपमानमभू         ।     कुमारसंभवे     ।
+।    ४८    ।      उज्ज्वलालोकया      ।     मालतीमाधवे     ।
+
+
+
+
+
+।          ।                         ।             ।
+।ः--------:।ः-----------------------:।ः-----------:।
+। **पद्य** । **पद्यानामाद्यक्षराणि** ।  **आकरः**   ।
+।         ।          **ए**          ।            ।
+।   १६४    ।    एकत्रासनसंस्थितिः    ।  अमरुशतके   ।
+।    ४२    ।            "            ।      "      ।
+।    ६७    ।      एकस्मिन् शयने      ।            ।
+।    ८५    ।     एतत्पुनर्वनमहो      । उत्तरचरिते  ।
+।         ।    एवमर्थं च कामं च     ।            ।
+।         ।          **क**          ।            ।
+।    ८४    ।        कथमविकृत         ।            ।
+।    ४२    ।        कथय किमिह        ।            ।
+।   १५९    ।     कन्यारत्नमयोनि      ।  वीरचरिते   ।
+।    ३७    ।      कपोले पत्राली      ।  अमरुशतके   ।
+।    १६    ।            "            ।      "      ।
+।    ३३    ।       कमलमनम्भसि        ।            ।
+।    ८७    ।     करकमलवितीर्णैः      । उत्तरचरिते  ।
+।    ६३    ।    कश्चित्कान्ताविरह    । मेघसन्देशे  ।
+।    ९३    ।    क्व प्रस्थितासि     ।  अमरुशतके   ।
+।    ९७    ।      क्षणे निमेषे       ।            ।
+।    २२    ।     का स्विदवकुण्ठन     ।  शाकुन्तले  ।
+।    ५१    ।  क्वाकृत्यं शशलक्ष्मणः  । ययातिचरिते  ।
+।    ७७    ।  किञ्चिन्मुद्रितपांसवः  ।            ।
+।   १०९    ।   किं द्वारि दैवहतिके   ।            ।
+।    ९३    ।       किमयमसिपत्र       । मालतीमाधवे  ।
+।    ८१    ।  कुचद्वन्द्वे तस्मिन्   ।            ।
+।    २५    ।       कृतकरुदितैः       । रामाभ्युदये ।
+।    ७६    ।   कृतवानसि विप्रियं    । कुमारसंभवे  ।
+।    २१    ।    कृशप्राया रात्रिः    ।            ।
+।    १७    ।      कृतो दूरादेव       ।            ।
+।   १६०    ।     के वैकटनितम्बेन     ।            ।
+।    २२    ।   कोपो यत्र भ्रुकुटि    ।  अमरुशतके   ।
+
+
+
+
+
+।          ।                         ।                    ।
+।ः--------:।ः-----------------------:।ः------------------:।
+। **पद्य** । **पद्यनामाद्यक्षराणि**  ।      **आकरः**      ।
+।         ।          **ग**          ।                   ।
+।    २७    ।        गतवति नख         ।       किराते       ।
+।    १५    ।   गत्वा तमहमद्राक्षं    ।  कादम्बरीकथासारे   ।
+।    ८३    ।     गर्जन्तेऽभिनवं      ।                   ।
+।    ६५    ।   ग्रामेऽस्मिन्पथिकाय   । व्यक्तिविवेके धृतं ।
+।    ८     ।      गृहिणी सचिवः       ।      रघुवंशे       ।
+।         ।          **च**          ।                   ।
+।    ६९    ।   चलापाङ्गां दृष्टिं    ।     शाकुन्तले      ।
+।    ८०    ।     चिराद्वेगारम्भी     ।     उत्तरचरिते     ।
+।         ।          **ज**          ।                   ।
+।   १४६    ।       जगति जयिनः        ।     मालतीमाधवे     ।
+।    १५    ।   जनः पुण्यैर्यायात्    ।                   ।
+।         ।          **त**          ।                   ।
+।    ४७    ।     ततः कैरप्युक्ते     ।                   ।
+।   १५८    ।       ततस्सुनन्दा       ।      रघुवंशे       ।
+।   २२४    ।     तत्क्षणं विपरि      ।     कुमारसंभवे     ।
+।    ६४    ।  तं वीक्ष्य सर्वावयवा   ।      रघुवंशे       ।
+।    ५६    ।         तदनघतनु         ।       किराते       ।
+।   २१७    ।  तदा किञ्चित्किञ्चित्   ।                   ।
+।         ।   तदा रम्याण्यरम्याणि   ।       किराते       ।
+।    २६    ।   तन्वङ्ग्यास्त्वमिति   ।                   ।
+।   २१८    ।    तन्मे मनः क्षिपति    ।     मालतीमाधवे     ।
+।   २३०    ।       तमसौ सहकार        ।                   ।
+।    १८    । त्वया क्षान्तं क्षान्तं ।                   ।
+।         ।     तदेवं प्रकृत्या     ।     मालतीमाधवे     ।
+।    ८२    ।       तान्येतानि        ।                   ।
+।    ६     ।    त्वामालिख्य प्रणय    ।     मेघसन्देशे     ।
+
+
+
+
+
+
+।          ।                         ।                 ।
+।ः--------:।ः-----------------------:।ः---------------:।
+। **पद्य** । **पद्यानामाद्यक्षराणि** ।    **आकरः**     ।
+।    ३८    ।   तीव्राभिषङ्गप्रभवेन   ।   कुमारसंभवे    ।
+।    ३६    ।   तेनाष्टो परिगमिताः    ।     रघुवंशे     ।
+।         ।          **द**          ।                ।
+।    ४१    ।    दर्भाङ्कुरेण चरणः    ।    शाकुन्तले    ।
+।    ३५    ।       दलति हृदयं        ।   मालतीमाधवे    ।
+।    ६९    ।     दिष्ठयार्धश्रुत     ।   वेणीसंहारे    ।
+।    २०    ।       दूरादुत्सुक       ।    अमरुशतके     ।
+।    २७    ।      दूरे प्रियतमः      । कादम्बरीकथासारे ।
+।   १६३    ।    दृष्ठा दृष्टिमधो     ।   रत्मावल्यां   ।
+।    ४५    ।            "            ।        "        ।
+।   २३३    । दृष्टिं हे प्रतिवेशिनि  ।                ।
+।    ४३    ।   दृष्टिर्वन्दनमालिका   ।    अमरुशतके     ।
+।    ३९    ।      देशैरन्तरिता       ।        "        ।
+।    ३७    ।  देव्या शून्यस्य जगतः   ।   उत्तरचरिते    ।
+।         ।          **ध**          ।                ।
+।    ७३    ।   धन्याः स्थ याः कथयथ   ।                ।
+।    १४    ।        धारानिपात        ।                ।
+।    ९     ।      धुतिरस्तमिता       ।   कुमारसंभवे    ।
+।         ।          **न**          ।                ।
+।         ।  न किञ्चिदपि कुर्वाणः   ।   उत्तरचरिते    ।
+।    ७०    ।  न वेद्मि स प्रार्थित   ।   कुमारसंभवे    ।
+।    ४४    ।  न स्पृष्टोऽपि त्रिदिव  ।                ।
+।    ११    ।      निद्राविनोदित      ।     किराते      ।
+।   १०४    ।     निर्यता परिजनेन     ।      माघे       ।
+।   २४०    ।      निषसाद निशीथ       ।                ।
+।    ९२    ।       नैराश्यकातर       ।   मालतीमाधवे    ।
+।    ९७    ।   न्यक्कारो हृदिवज्र    ।   महावीरचरिते   ।
+
+
+
+
+
+।          ।                                                                      ।             ।
+।ः--------:।ः--------------------------------------------------------------------:।ः-----------:।
+। **पद्य** ।                       **पद्यानामाद्यक्षराणि**                        ।  **आकरः**   ।
+।         ।                                **प**                                 ।            ।
+।   १०३    ।                            पटालग्ने पत्यौ                            ।  अमरुशतके   ।
+।    ७५    ।                           परवत्यपरिच्छेदे                            ।  रामचरिते   ।
+।    २     ।                            परिच्छेदातीतः                             । मालतीमाधवे  ।
+।    ७४    ।                            पश्यामि तामित                             ।      "      ।
+।    ५६    ।                              पशुपतिरपि                               । कुमारसंभवे  ।
+।   १०५    ।                             प्रकृतिललित                              । मालतीमाधवे  ।
+।    ९५    ।                             प्रणयसखीसलील                             ।      "      ।
+।    ८८    ।                           प्रत्यागमिष्यसि                            ।            ।
+।    ९१    ।                           प्रसरति परिमाथी                            । मालतीमाधवे  ।
+।    ९४    ।                          प्रसीदेति ब्रूयां                           । रत्नावल्यां ।
+।    २८    ।                              प्रहरविरतौ                              ।  अमरुशतके   ।
+।    ३६    ।                            पाणिपीडनाविधेः                            । कुमारसंभवे  ।
+।   १०७    ।                           पान्थ द्वारवतीं                            ।            ।
+।    ६८    ।                          प्राणाः प्रयान्ति                           । मालतीमाधवे  ।
+।   १७८    । [प्राप्तो](# "७३-९९ अत्र  यातोविक्रिमबाहुः  इति पाठः।") विक्रमबाहुः । रत्नावल्यां ।
+।    ९९    ।                                  "                                   ।            ।
+।    ४१    ।                           पिहिते वासागारे                            ।            ।
+।    २४    ।                         प्रिये हा हा क्वासि                          ।            ।
+।    ५९    ।                             पूर्वानुभूतं                             ।   रघुवंशे   ।
+।    ३८    ।                            पौलस्त्यपीनभुज                            । महावीरचरिते ।
+।         ।                                **भ**                                 ।            ।
+।    ४२    ।                              भवति वितत                               । मालतीमाधवे  ।
+।   २२७    ।                            भावसूचितरहस्य                             । कुमारसंभवे  ।
+।   १०४    ।                            भूयो भूयस्सविध                            । मालतीमाचवे  ।
+।    ९०    ।                            भूमिः कण्ठकिनी                            ।            ।
+।    ८५    ।                          भ्रूभेदे सहसोद्गते                          । रत्नावल्यां ।
+।    ४३    ।                                  "                                   ।            ।
+।    ५०    ।                           भ्रूभेदो गुणितः                            ।            ।
+
+
+
+
+
+।          ।                         ।                 ।
+।ः--------:।ः-----------------------:।ः---------------:।
+। **पद्य** । **पद्यानामाद्यक्षराणि** ।    **आकरः**     ।
+।         ।          **म**          ।                ।
+।    ७१    ।   मन्दमन्दविगलत्त्रप    ।   शिशुपालवधे    ।
+।   १००    ।      मया नाम जितं       । विक्रमोर्वश्यां ।
+।    १८    ।      मधु च विकसितो      ।                ।
+।   १६८    ।      मया तावद्दोष       ।                ।
+।   २२५    ।      मा गर्वमुद्वह      ।                ।
+।    ६९    ।     मातर्मातर्दलति      ।   मालतीमाधवे    ।
+।   २४६    ।     मात्र करिष्यसि      ।                ।
+।   २३४    ।      मानुषीषु कथं       ।    शाकुन्तले    ।
+।   १०४    ।      मामूमुहुत्खलु      ।   मालतीमाधवे    ।
+।    १३    ।     मालत्याः प्रथमा     ।        "        ।
+।    ६०    ।      मा पुनस्तमभि       ।   शिशुपालवधे    ।
+।    ३१    ।      मुग्धे प्रेषय      ।                ।
+।   २४४    ।      मुनिमभिमुखतां      ।     किराते      ।
+।    ४०    ।       मुहुरङ्गुलि       ।    शाकुन्तले    ।
+।    ६१    ।     मोहान्मया सुतनु     ।        "        ।
+।         ।          **य**          ।                ।
+।    ४४    ।    यत्त्वन्नेत्रसमान    ।   रामाभ्युदये   ।
+।    ७९    ।            "            ।        "        ।
+।    ३     ।       यथायथं ताः        ।     किराते      ।
+।    १७    ।      यथाश्रुतं वेद      ।   कुमारसंभवे    ।
+।    ६६    ।         यदहमनया         ।                ।
+।    १४    ।    यद्विस्मयस्तिमित     ।   मालतीमाधवे    ।
+।    ४     ।       यदेव रोचते        ।                ।
+।    १     ।  यस्य त्रिवर्गशून्यानि  ।                ।
+।    ४१    ।   यस्याः कुसुमशय्यापि   ।                ।
+।    ७८    ।    यस्यान्ते दिवसाः     ।   उत्तरचरिते    ।
+।    ६८    ।    यस्मिंश्चिरप्रणय     ।   मालतीमाधवे    ।
+।    ११    ।   यान्त्या मुहुर्वलित   ।        "        ।
+।    ४९    ।    येनेष्टं राजसूयेन    ।                ।
+
+
+
+।          ।                         ।            ।
+।ः--------:।ः-----------------------:।ः----------:।
+। **पद्य** । **पद्यानामाद्यक्षराणि** ।  **आकरः**  ।
+।         ।          **र**          ।           ।
+।   २२३    ।      रम्भोरु संहर       । मालतीमाधवे ।
+।    ८१    ।     राज्ञः प्रियाय      ।     "      ।
+।    ९५    ।     रामाय पुण्यमहसे     । बालरामायणे ।
+।    ९६    ।     राहोश्चन्द्रकला     । मालतीमाधवे ।
+।         ।          **ल**          ।           ।
+।   १६१    ।    लाक्षालक्ष्म ललाट    ।  अमरुशतके  ।
+।    २३    ।            "            ।           ।
+।    ४     ।       लीलावतीचरण        ।           ।
+।    ७२    ।     लोलदृष्टि वदनं      ।   किराते   ।
+।         ।          **व**          ।           ।
+।   २३७    ।      वपुरप्रतिकर्म      ।           ।
+।    ६२    ।      वसने परिधूसरे      । शाकुन्तले  ।
+।    ६६    ।            "            ।     "      ।
+।         ।   व्यतिषजति पदार्थान्   । उत्तरचरिते ।
+।    ९२    ।     विना सीतादेव्या     ।     "      ।
+।   १६५    ।    विनिश्चेतुं शक्यो    ।           ।
+।    ८६    ।      विललाप सवाष्प      ।  रघुवंशे   ।
+।   २३२    ।       विकसत्कलिका       ।           ।
+।    ३४    ।   विलिम्पत्येतस्मिन्    ।           ।
+।   १०१    ।            "            ।           ।
+।    ७२    ।     विलुलितमतिपूरैः     । मालतीमाधवे ।
+।   २३६    ।       विषयादविशेष       ।           ।
+।         ।            श            ।           ।
+।   १००    ।   शय्यन्ते हतशायिकाः    ।           ।
+।   १०६    ।     शान्तमिदमाश्रम      । शाकुन्तले  ।
+।   २०६    ।   श्लाव्यस्त्यागोऽपि    ।  रघुवंशे   ।
+।    ५     ।    शापान्तो मे भुजा-    । मेघसन्देशे ।
+।    ५८    ।   श्वासालिङ्गनधूसरेण    ।           ।
+
+
+
+।          ।                        ।              ।
+।ः--------:।ः----------------------:।ः------------:।
+। **पद्य** । **पद्यनामाद्यक्षराणि** ।   **आकरः**   ।
+।         ।    शून्यमाकीर्णतां     ।    किराते    ।
+।    ६०    ।    शैलस्सोऽयं ककुभ     ।  उत्तरचरिते  ।
+।         ।         **स**          ।             ।
+।         ।    सङ्कल्परमणीयस्य     ।             ।
+।    ९८    ।  सङ्क्षिप्येत क्षणमिव  ।  मेघसन्देशे  ।
+।   १०६    ।      सखि स विजितो      ।             ।
+।    ५७    ।     सञ्चारिणी दीप      ।   रघुवंशे    ।
+।    १८    ।     सद्मनां विरचना     ।    किराते    ।
+।    २७    ।      सन्तापसन्तति      ।  मालतीमाधवे  ।
+।    ३६    ।      समानप्रेमाणं      ।      "       ।
+।    १     ।           "            ।      "       ।
+।   १७७    ।      समानसीं मेरु      ।  कुमारसंभवे  ।
+।    ७४    ।   स्थाने तपो दुश्चरं   ।      "       ।
+।    ५४    ।           "            ।      "       ।
+।   १७६    ।     स्नाता तिष्ठति     । दशरूपके घृतं ।
+।    ७     ।    सुहृदिव प्रकटय्य    ।  उत्तरचरिते  ।
+।   २३५    ।      स्फुटनाभितला      ।             ।
+।    ३     ।   सोद्वेगम्य स्खलित    ।  वेणीसंहारे  ।
+।         ।         **ह**          ।             ।
+।    ६७    ।   हृदयान्नापयातोऽसि    ।   रामचरिते   ।
+।    ३३    ।      हृदये वससीति      ।  कुमारसंभवे  ।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  अत्र प्रकाशत्रये कालिदासादिचिरन्तनकवीनां प्रबन्धेभ्यो बहूनि पद्यानि उदाहरणतया निदर्शितानि। अत्रत्यपाठस्य अद्यतनोपलभ्यमानतत्तदाकरपाठस्य च क्वचित्क्वचित् भेदोदृश्यतं, सुधियो विभावयन्तु।  
+  किञ्च यथादृष्टमाकरनिर्देशः कृतः।अदृष्टाकराणि बहूनि पद्यानि सुभाषितावलि शार्ङ्गधरपद्धति सूक्तिमुक्तावलि कवीन्द्रवचनसमुच्चयादिषु एतद्ग्रन्थकारतोऽर्वाक्तनैः सङ्कलितेषु समवेक्ष्यन्ते। तदाकरनिर्देशो न प्राचीनत्वसाधक इति नात्र कृतः।  
+  इदमत्र प्रार्थ्यते। अत्र अज्ञाताकराणां विपर्यस्ताकराणा च आकरनिर्देशेन अशुद्धक्षर ट्यादीनां समीकरणेन उद्यममिमं समुत्तम्भयेयुः कृपया सहृदयाः सङ्ख्यावन्त इति"
+
+
+
+॥ श्रीः ॥
+
+
+
+।          ।                              ।                              ।
+।ः--------:।ः----------------------------:।ः----------------------------:।
+। **गाथा** । **प्राकृतगाथानामनुक्रमणिका** ।           **आकरः**           ।
+।         ।            **अ**             ।                             ।
+।   १४३    ।          अइउज्जुए ण          ।         स..मु७-७७          ।
+।   १५३    ।         अक्खडइ पि आ          ।          स-मु. १-४४          ।
+।    २६    ।         अंगाइ किलामि         ।                             ।
+।    ६०    ।         अच्चउ ताव मण         ।         स- मु. २-६८          ।
+।    ४४    ।       अच्चेरं व णिहिं        ।          स-मु. २-२५          ।
+।    ३८    ।       अच्छीहिं चिअ सा        ।                             ।
+।    ७८    ।      अच्छीहि ता थइस्सं       ।          स-मु. ४-१४          ।
+।   २२०    ।         अज्ज कइमो वि         ।          स-मु. २-१९          ।
+।   १८४    ।       अज्ज मए उच्छासो        ।                             ।
+।    २१    ।       अज्ज मए गंतव्वं        ।          स-मु३-४९           ।
+।   १८८    ।              "               ।                             ।
+।   २६७    ।         अज्ज मए तेण          ।          स-मु. १-२९          ।
+।    ३०    ।              "               ।                             ।
+।   २२९    ।        अन्न सुरअं वि         ।                             ।
+।   १५२    ।          अणवट्ठिएण           ।                             ।
+।    ५८    ।          अणवरअकेलि           ।                             ।
+।   १५०    ।        अण्णं लडहत्तगं        ।       वक्रोक्तिजीवितं        ।
+।   १४१    ।       अण्णाण वि अत्थि        ।          स-मु. ५-७           ।
+।    ९७    ।          अणुणअसुहं           ।                             ।
+।   २०८    ।          अणुदिअहकआ           । वे. ४१ ध्वन्यालोके ४ उद्योते ।
+।    २०    ।       अप्पत्त अत्तदंसण       ।                             ।
+।   २४८    ।          अफडेण उपक           ।                             ।
+।    ७८    ।      अन्मत्थणं ण गेह्णइ      ।          सेतौ ११-२७          ।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  स-मु. इत्यस्य सप्तशती मुद्रिता, इति स-ता. इत्यस्य सप्तशती तालकोश, इति. वे इत्यस्य वेमभूपालसङ्कलिता,इति. माधव. इत्यस्यमाधवयज्वव्याख्याता सप्तशतीति च सङ्केतः॥
+
+
+
+।          ।                              ।             ।
+।ः--------:।ः----------------------------:।ः-----------:।
+। **गाथा** । **प्राकृतगाथानामनुक्रमणिका** ।  **आकरः**   ।
+।    ९८    ।        अवरण्णागअजामा         । स-मु. ७-८३  ।
+।    ६     ।         अविअण्णपेच्छ         । स-मु. १-९३  ।
+।    ३५    ।              "               ।            ।
+।    ४५    ।        अविहावि अक्खर         ।            ।
+।   २०७    ।           असईण णमो           ।            ।
+।    ५६    ।         असमत्तचित्त          ।            ।
+।   १८७    ।        अहसा तहिं तहिं        । स-मु. ४-१८  ।
+।         ।            **आ**            ।            ।
+।   ११५    ।         आअंबलोअणाणं          । स-मु. ५-७३  ।
+।   १९९    ।        आअरपणामिओट्ठं         ।            ।
+।   १८६    ।      आअस्स किण्णु काउं       । स-मु. २-८३  ।
+।    १     ।         आणासआइ देंती         । स-मु. १-२३  ।
+।    ३९    ।           आणिअपुलउ           ।  हरिविजये   ।
+।    ९१    ।         आन्दोलणलंघिअ         ।            ।
+।         ।            **इ**             ।            ।
+।    ८५    ।          इअरो जणो ण          ।            ।
+।         ।            **उ**             ।            ।
+।    ३०    ।          उअ हज्जंति          ।            ।
+।   १७५    ।       उक्खिप्पइ मारुअ        । स-मु. २-२०  ।
+।   १९६    ।        उग्गाहिएक्कहु         ।            ।
+।   २४७    ।        उह्णाइ णीससंतो        । स-मु. १ ३३  ।
+।   २५२    ।          उरवेलिलअवइ          ।            ।
+।         ।            **ऊ**             ।            ।
+।    २२    ।          ऊहसि पिआए           । मा-सं. ३-१५ ।
+।         ।            **ए**             ।            ।
+।    ५५    ।        एएण च्चिअ पिअ         ।  स मु. ५-४  ।
+।   २४३    ।        एएणं चेअ गुणेण        ।            ।
+
+
+
+।          ।                              ।                       ।
+।ः--------:।ः----------------------------:।ः---------------------:।
+। **गाधा** । **प्राकृतगाधानामनुक्रमणिका** ।       **आकरः**        ।
+।   १९०    ।         एक्कंगणसुलहे         ।                      ।
+।    ५३    ।      एक्कं पहरुव्विण्णं      ।      स.मु. १-८६       ।
+।    २     ।       एक्केक्कमसंदेसा        ।      स-मु. ४-४२       ।
+।   १४५    ।        एद्दहमेत्तम्मि        ।       स-मु. ४-३       ।
+।   १८१    ।           एमेअ अकअ           ।      स-ता. ४-७७       ।
+।   १७०    ।         एहिइ पिओत्ति         ।                      ।
+।         ।            **ओ**             ।                      ।
+।   १०३    ।           ओलोइअंमि           ।                      ।
+।         ।            **क**             ।                      ।
+।    २३    ।          कइ आगओ पिओ          ।                      ।
+।    ८७    ।              "               ।                      ।
+।   ११०    ।         करिकलभकुम्भ          ।      स-मु. ३-५८       ।
+।    ८     ।         कस्स करो बहु         ।      स.मु. ६-७५       ।
+।    ८६    ।       कस्स ण सद्द गरुई       ।      स-ता. ६-६१       ।
+।    १५    ।          कलहोलोज्जल          ।                      ।
+।    ८९    ।         कल्लं किर खर         ।      स.मु. १-४६       ।
+।    ५३    ।              "               ।                      ।
+।   २४९    ।        काऊण धीर जहणं         ।                      ।
+।   २४७    ।           काणअरुणा           ।                      ।
+।   १००    ।          कहिये पिं           ।      स.ता, ६-९८       ।
+।    २९    ।      कालक्लरब्रूमिकसम्       ।      सन्दा ५-३५       ।
+।   ११८    ।           किरहलहो            ।                      ।
+।    १३    ।      किंकिं दे पडिभाअइ       ।      स-तु. ३-१५       ।
+।    ८६    ।              "               ।                      ।
+।   २०१    ।        किं ण भणिओ सि         ।                      ।
+।   २३४    ।          किं णीलकंठ          ।                      ।
+।    १७    ।       कि तस्स पावरेणं        ।      स-ता. ७.१००      ।
+।   १७४    ।         कुविआ अ सङ्घ         । सर्वेसेनकृते हरिविजये ।
+।    ६२    ।              "               ।                      ।
+
+
+
+
+
+
+
+
+।            ।                              ।                            ।
+।ः----------:।ः----------------------------:।ः--------------------------:।
+। **गाधा** । **प्राकृतगाधानामनुक्रमणिका** ।          **आकरः**          ।
+।    १२१     ।        कुविआओ पसण्णाओ        । ध्वन्यालोके प्रथमोद्द्योते ।
+।    १०७     ।         केणासि अज्ज          ।                           ।
+।     ६२     ।       केलीगब्भसरिच्छे        ।                           ।
+।     ५०     ।       केलीगोत्तक्खलणे        ।                           ।
+।     ८१     ।              "               ।                           ।
+।           ।            **ख**             ।                           ।
+।    १३९     ।        खणमेत्तं पि ण         ।         स-मु. २-८३         ।
+।     ४७     ।      खिण्णस्स उरे पइणो       ।         स-मु. ३-९९         ।
+।     २८     ।       खेमं खेत्तो खेमं       ।         स-मु. ५-९९         ।
+।           ।            **ग**             ।                           ।
+।     ४९     ।        गज्ज मह च्चिअ         ।         स-मु. ६-६६         ।
+।     २०     ।       गह्णइ कंठंमि वला       ।                           ।
+।    १२२     ।          गामतरुणीओ           ।         स-मु. ६-४५         ।
+।     २९     ।      मिह्मं गमेइ कह वि       ।         स-मु. १-७०         ।
+।     ३      ।          गेहह पलोअह          ।        स-मु. २-१००         ।
+।     ६३     ।         गोलाणईए तूहे         ।         स-मु. २-७१         ।
+।    २०२     ।         --गिलुक्कविआ         ।                           ।
+।           ।            **घ**             ।                           ।
+।     ७      ।         घडिऊरुसंपुडं         ।                           ।
+।    २३९     ।          घरसामिअस्स          ।                           ।
+।     ३४     ।           घरणीघणथण           ।         स-मु. ३-६१         ।
+।    २११     ।          घरणीए अकअल          ।                           ।
+।     १०     ।        घेत्तुं मुंचइ         ।                           ।
+।           ।            **च**             ।                           ।
+।    १४९     ।        चंदसरिसं मुहं         ।         स-मु. ३-१३         ।
+।     ९६     ।        चंदुज्जोएण मओ         ।         सेतौ १०-८१         ।
+।    २०९     ।          चंपहइ वीअ           ।                           ।
+।    २०४     ।        चुंबइ वासिण्ण         ।                           ।
+
+
+
+
+
+
+।          ।                              ।            ।
+।ः--------:।ः----------------------------:।ः----------:।
+। **गाधा** । **प्राकृतगाधानामनुक्रमणिका** ।  **आकरः**  ।
+।   १९२    ।       चूडसुणओ विषण्णो        । स-मु. ६-४९ ।
+।    ९५    ।         चोरिअरअसद्दा         । स-मु. ५-१५ ।
+।         ।            **छ**             ।           ।
+।   १३७    ।         छणपिट्ठधूसर          । स.ता. २-३५ ।
+।         ।            **ज**             ।           ।
+।    ५७    ।       जत्थ ण उज्जागिरओ       । स-ता. २-७१ ।
+।    ६१    ।              "               ।           ।
+।   १५६    ।        जस्म जहिं चिअ         । स-मु. ३-३४ ।
+।   २१५    ।          जह जह जरा           । स-मु. ३-९३ ।
+।   १३१    ।      जह जह वि कामिणीणं       ।           ।
+।    ९     ।         जं चिअ पिआण          ।           ।
+।    ४     ।      जं जं सो णिज्झाअइ       । स-मु. १-७३ ।
+।   ११३    ।       जं तं रूपं णं तं       ।           ।
+।    ८८    ।        जं मुच्छिआए ण         । स.ता. ३-४४ ।
+।   १४०    ।          जाइ वअणाइ           । स-मु. ७-४९ ।
+।   १३६    ।        जाणइ जाणावेउं         । स-मु. १-८८ ।
+।    ८३    ।              "               ।           ।
+।    ३५    ।      जाणामि जणो णिउ णो       ।           ।
+।   २००    ।              "               ।           ।
+।    ७४    ।         जाव अ ण देहि         ।           ।
+।   १०५    ।      जज्जं तिज्जं तेहिं      ।           ।
+।         ।            **झ**             ।           ।
+।    ४८    ।        झत्ति समुट्ठिअ        ।           ।
+।         ।            **ण**             ।           ।
+।   २१०    ।          णअणाण हरणो          ।           ।
+।    ७०    ।       ण कओ वाहविमोक्खो       । सेतौ ११-५६ ।
+।   १३८    ।         णच्चिहिइ णडो         ।           ।
+।    ४६    ।          णववहुपेम्म          । स-मु. २-२२ ।
+
+
+
+।          ।                              ।            ।
+।ः--------:।ः----------------------------:।ः----------:।
+। **गाधा** । **प्राकृतगाधानामनुक्रमणिका** ।  **आकरः**  ।
+।   ११२    ।          णवि तह छेअ          । स-मु. ३-७४ ।
+।   १३३    ।         णंदंतु सुरअ          । स-मु. २-५६ ।
+।   २४१    ।              "               ।     "      ।
+।   २१६    ।        णाअरिआपेम्म वि        ।           ।
+।   १८०    ।         णाराअणोत्ति          ।           ।
+।   १२३    ।         णिद्दाविरामो         ।           ।
+।   १०२    ।        णिम्मरिअसंदिअं        ।           ।
+।    १४    ।      णीआइ अज्ज णिक्किव       । स-मु. २-४८ ।
+।    ३०    ।       णीसासुक्कंपपुलो        । स.मु. ४-६१ ।
+।    ७९    ।              "               ।     "      ।
+।    ५२    ।     णूमेंति जे मुहुत्तं      । स.मु. १-९१ ।
+।         ।            **त**             ।           ।
+।   १७३    ।         तं तिअसकुसुम         ।  हरिविजये  ।
+।    २४    ।         तणुआइआ वराई          । स.ता. ६-४५ ।
+।    ३३    ।       तरलच्छि चंदवअणे        । स.ता. ६-५६ ।
+।    ३७    ।        तस्स अ सोहग्ग         । स-मु. ३-३१ ।
+।   १२८    ।          तह उज्जुअं          ।           ।
+।    ४३    ।        तह तीए सुहरसो         ।  हरिविजये  ।
+।   १३५    ।         तह वलिअं णअण         ।           ।
+।   १८३    ।          तह सा जाणइ          । स-ता. ५.५  ।
+।   २२१    ।          तह सोह्णाए          । स-मु. ३.५४ ।
+।    ३१    ।        ता छिवइ ताणिअ         ।           ।
+।   ११७    ।          ताव गुणिउं          ।           ।
+।   १११    ।          तावमवणेइ ण          । स-मु. ३-८८ ।
+।    ८३    ।        तुह दंसणसंजणिओ        । स-मु. ७-१० ।
+।    ७३    ।        तो से रुब्भंत         ।  हरिविजये  ।
+।         ।            **द**             ।           ।
+।    १३    ।      दइअस्स गिम्हवम्मह       ।           ।
+।    १२    ।          दइअकरग्गह           । स-मु. ६-४४ ।
+
+
+
+
+
+।          ।                              ।            ।
+।ः--------:।ः----------------------------:।ः----------:।
+। **गाधा** । **प्राकृतगाधानामनुक्रमणिका** ।  **आकरः**  ।
+।    ६१    ।      दक्खिण्णेण वि एंतो      । स-मु. १-८५ ।
+।   २०३    ।     दट्ठुं चिरं ण लद्धो      । मा-स. १-४७ ।
+।    २८    ।          दढमूढबद्ध           । स-मु. ३-७६ ।
+।   १२७    ।        दरवेविरोरुजुअ         । स-मु. ७-१४ ।
+।   १४२    ।         दरसुंदरमहुरु         ।           ।
+।   १६२    ।        दिअरो परिणिहिइ        ।           ।
+।   २५१    ।         दिग्गडअधावइ          ।           ।
+।    ७९    ।       दिट्ठा कुविआणुणआ       ।  हरिविजये  ।
+।    ४२    ।     दिट्ठे जं पुलइज्जसि      ।           ।
+।    ७५    ।              "               ।           ।
+।   १२४    ।        दिण्णतणुअंजणाई        ।           ।
+।    ८७    ।       दीसइ ण चूअमुउलं        । स-मु. ६-४२ ।
+।         ।            **ध**             ।           ।
+।    ९१    ।          धरहरइ ऊरु           ।           ।
+।    १०    ।         धरिउं कहवि ण         ।           ।
+।    ७२    ।        धीराण माणभंगे         ।           ।
+।         ।            **प**             ।           ।
+।   १९५    ।          पइपुरओचिअ           । स-मु. ३-३७ ।
+।   १०१    ।        पउरजुआणो गामो         । स-मु. ७-९७ ।
+।    ६     ।      पज्जत्तंमि वि सुरए      ।           ।
+।   १९७    ।        पणअक्खलणासंका         ।           ।
+।   १८२    ।          पणअं पुढम           ।           ।
+।    ९२    ।           पत्तपओसो           ।           ।
+।    ८     ।          परिओसअंमि           । स-मु. ४-४१ ।
+।   ११९    ।           परि मलिअ           ।           ।
+।   १५१    ।         पल्लविअं विअ         ।           ।
+।   १८५    ।          पाअडिअणेह           । स-मु. २-९९ ।
+।   २२८    ।       पाअपडिअं अ हव्वे       ।           ।
+
+
+
+
+
+।          ।                              ।                 ।
+।ः--------:।ः----------------------------:।ः---------------:।
+। **गाधा** । **प्राकृतगाधानामनुक्रमणिका** ।    **आकरः**     ।
+।    ७७    ।           पाअपडणाण           ।   स-मु. ५-६५    ।
+।    ५९    ।              "               ।                ।
+।   १०१    ।           पिअलंजसा           ।                ।
+।    १९    ।        पिअआडं वं देइ         ।                ।
+।    ९४    ।        पिअलंबेण पओसो         ।   सेतौ १२-१२    ।
+।   १५४    ।          पोलेइ वलं           ।                ।
+।   १०६    ।        पुल्लंतणिरंतर         ।                ।
+।   २४२    ।         पेच्छह ह्लाअ         ।                ।
+।   २४५    ।        पोढपरेणावि तह         ।                ।
+।   १२०    ।          पोढमहिलाण           ।   स-ता. १-२४    ।
+।    ७     ।              "               ।                ।
+।         ।            **ब**             ।                ।
+।   १९१    ।          बहलतमा ह्अ          ।   स-मु. ४-३५    ।
+।    २४    ।      बालअ रे वंचिज्जिसि      ।                ।
+।    १२    ।         बालाओ होंति          । कर्पूरमञ्जर्यां ।
+।    ८-    ।        बालत्तणदुल्ललि        ।                ।
+।    ९९    ।       बोहेअइ पासुत्तं        ।                ।
+।         ।            **भ**             ।                ।
+।    ७६    ।       भिउडीए पुलोइस्सं       ।    स-ता. ६-८    ।
+।         ।            **म**             ।                ।
+।    २१    ।         मण्णुभरिआ ण          ।                ।
+।   १३०    ।          मलिणवसणाण           ।   स-ता. ७-४७    ।
+।    ४०    ।        म्हरिमो से सअण        ।   स-मु. ४-६८    ।
+।   २३१    ।         माअंगी होज्ज         ।                ।
+।    ५९    ।       माए कज्जा कच्चो        ।                ।
+।   २१२    ।        मामि हिअअं वि         ।   स-मु. ३-४६    ।
+।    ५२    ।              "               ।                ।
+
+
+
+
+
+
+
+
+
+
+
+
+।          ।                               ।                 ।
+।ः--------:।ः-----------------------------:।ः---------------:।
+। **गाधा** । **प्राकृतगाधानामनुक्रमागेका** ।    **आकरः**     ।
+।    ६३    ।      मा वच्च पुप्पलाविर       ।   स-मु. ४-५५    ।
+।    ८८    ।          मुद्धत्तणेण          ।                ।
+।    २     ।         मुह विज्जविअ          ।   स.मु. २-३३    ।
+।   १२६    ।         मोहेहि विअंभण         ।                ।
+।         ।             **र**             ।                ।
+।   १९३    ।       रत्तिं णिद्दअरमिओ       ।                ।
+।    ६-    ।         रमिऊण पअं पि          ।   स-मु. १-९८    ।
+।   १४४    ।        रे गुडिअडविअंभव        ।                ।
+।         ।             **व**             ।                ।
+।   १५५    ।        वाहुल्लविअलिएणं        ।                ।
+।    ५     ।          वांछाधौलिं           ।                ।
+।    २५    ।        वीसंभवड्ढिअरसं         ।   सेतौ १२-१३    ।
+।         ।             **स**             ।                ।
+।    २५    ।        सअणे चिंतामलिअं        ।   स-मु. २-३३    ।
+।    ६४    ।         संकेअऊसुअमणो          ।                ।
+।   १८९    ।               "               ।                ।
+।    ५३    ।       सच्चं जाणइ दट्ठुं       ।                ।
+।    ११    ।      सद्धा मे तुज्झ पिअ       ।                ।
+।   १३२    ।          सव्भावग--गं          ।                ।
+।    ९     ।               "               ।                ।
+।    ५१    ।           समअणणअणा            ।                ।
+।    ७८    ।          समपेम्भरसं           । बालरामायणे ५-१७ ।
+।    ५४    ।         समदुक्खसोक्ख          ।   स-मु. २-४२    ।
+।    ५७    ।      सव्वस्संमि वि दड्ढे      ।   स-मु. ३-२९    ।
+।    ६५    ।         सव्वाआरमणहरं          ।                ।
+।    ९०    ।       सहसा मा साहिप्पइ        ।   मा-स. ३-४४    ।
+।    ४७    ।               "               ।        "        ।
+।   १९८    ।          सलिलोलदारु           ।                ।
+
+
+
+
+
+।          ।                              ।            ।
+।ः--------:।ः----------------------------:।ः----------:।
+। **गाधा** । **प्राकृतगाधानामनुक्रमणिका** ।  **आकरः**  ।
+।    ९०    ।        सहिआए भण्णमाणा        । स.मु. २-४५ ।
+।    ८९    ।      सहि साहसु सब्भावेण      । स.मु. ५-३३ ।
+।    ६६    ।         सा तुइ सहत्थ         । स.मु. २-९४ ।
+।   १२५    ।        सामण्णसुंदरीणं        । स.ता. ५-८६ ।
+।   १६१    ।              "               ।     "      ।
+।   १०८    ।        साहीणे वि पिअ         । स.मु. १-३९ ।
+।    ५२    ।       सालोएच्चिअ सूरे        । स.मु. २-३० ।
+।    ३१    ।        सुप्पउ तइओ वि         । स.मु. ५-१२ ।
+।    ५     ।           सुरआवसाण           ।           ।
+।    ८२    ।              "               ।           ।
+।   १९४    ।       सुप्पं दड्ढं चणआ       । स.मु. ६-५७ ।
+।    ६७    ।          सो तुह कएण          । स.मु. ३-६२ ।
+।    ५५    ।              "               ।           ।
+।         ।            **ह**             ।           ।
+।    ६८    ।         हत्थप्फस्सेण         । स.मु. ५-६२ ।
+।   ११४    ।         हसिआइ समालस          ।           ।
+।   १२९    ।        हसिएहि उवालंभा        । स.मु. ६-१३ ।
+।    ५४    ।       हंहो कण्णुललीणा        ।           ।
+।    ४     ।       हरिसुल्लावा कुल        ।           ।
+।    ५८    ।          हिअअब्भंतर          ।           ।
+।    २६    ।        हुंहुं दे भणसु        ।           ।
+।    १६    ।        हेमंते दढवीलण         ।           ।
+।    ३२    ।         हेमंते हिमरअ         । स.ता. ३-२२ ।
+।    १६    ।         होज्ज वणे सो         ।           ।
+।   २५०    ।           होंतवरी            ।           ।
+।         ।            **ल**             ।           ।
+।   २१३    ।       लज्जा छत्ता सलिं       ।           ।
+।   ११६    ।          लीलावेलक्ख          ।           ।
+।    १९    ।           लोओ जूरइ           । स-मु. ६-२९ ।
+
+
+
+**परिशिष्टशेषः**
+
+**अनुरागप्रस्तारसंग्रहः**-  
+  प्रथमं अनुरागः ६४ चतुष्षष्टिप्रकारःअभिलाषादिभेदात्। ते च भेदा एकैकशःअष्टधा भिद्यन्ते। तेऽपिच प्रत्येकं चतुर्विंशतिधा भवन्ति। एवमेकस्यप्रधान भेदस्य अभि-लाषादेःअवान्तरभेदाः द्विनवत्युत्तरमेकशतम्॥
+
+  अत्र भेदचतुष्षष्टौआद्यस्य अभिलाषस्यैकस्यैव सोदाहरणं निरूपणमस्मिन्प्रकाशे प्रपंचितं अवशिष्टाया भेदत्रिषष्ठेःप्रधानस्वरूपोदाहरणं केवलं निदर्शितं तदवांतरभेदास्तु सुधीभि स्स्वयमेवोहनीया इति ग्रन्थकारस्याशय इति ज्ञायते॥अभिलाषःएकः तदवांतरभेदाः १९२ आहत्य त्रिनवत्युत्तरं शतंआकांक्षादिभेदत्रिषष्ट्या योगे२५६ षट्पंचाशदधिका द्विशती भवति। अस्यास्समग्राया उदाहरणपद्यानि प्रदर्शितानि।तानि २५६ गण्यंते तत्र प्रधानचतुष्षष्टौ ५-६-७ पञ्चम षष्ट सप्तमानां ईप्सा,लिप्सा, इच्छा, इति तिसृृणामुदाहरणपद्यानि गलितानि अभिलाषस्य अवान्तरप्रभेदोदाहरणेषु १-४-२० (पुट ३२) इत्यस्य च उदाहरणपद्यंगलितं। एवमुदाहरणपद्यचतुष्टयं लुप्तं।अवशिष्टानि २५२ द्विपञ्चाशदुत्तरद्विशतं पद्यानि वर्तते॥  
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+**स्खलितशोधनशेषः**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  ५७ टिप्पण्यां १३-पंक्तौ "इदमन्यदत्रावधेयम्" इत्यनन्तरं योजनीयं वाक्यं यथा "ऊहसि पिआए समअं वइल्लोवि अङ्गाइ" इतीयं गाधा अर्थानुरोधेन सामान्याविषयस्य उदाहरणं भवितुमर्हति"मण्णुभरिआणरोआइ संदिसइ सिअन्ति" इत्यस्य उत्तरार्धे यद्यपि न लभ्यते। तथापि तावन्मात्रार्थसामञ्जस्येन उत्तमाविषयस्य उदाहरणाय कल्पते इति॥
+
+  ६७-१ अत्रउदाहरणपद्यस्य उत्तरार्धंत्रुटितंअनन्तरञ्चमहान्ग्रन्थपातो दृश्यते। त्रुटेरनुपदमेव …………….यथा "एकस्मिन्शयने मया मयसुतां" इति पद्यं कस्यचित्प्रभेदस्य उदाहरणतया दत्तमस्ति तस्य प्रभेदस्य नामाक्षरस्थाने त्रुटिरस्ति अथ "तमःप्रकृतेःकनिष्ठस्य विप्रलम्भे अनुभावसम्पद्यथा यस्मिंश्चिरप्रणय" इत्याद्युपरितनग्रन्थस्समस्ति। यद्यपि त्रुटितभागे कति विषयाःकेके वा प्रतिपादिता इति निश्चेतुं न पार्यतेतथापि इयती काष्योवं सम्भावना समुन्मीलति. यथा उत्तरत्र तमः प्रकृते कनिष्ठस्य विप्रलम्भे सम्भोगे च अनुभावसम्पदः उदाहरणदर्शनात्, तत्पूर्वं सत्वरजःप्रकृत्योःउत्तममध्यमयोःनायकयोःविप्रलम्भे सम्भोगेच अनुभावसम्पदः उदाहरणेन भाव्यमिति। यच्चान्यत्रुटेरनुपदं एकस्मिन् शयने" इत्युदाहरणपद्यं दृश्यते तत्तु रज : प्रकृतेर्मध्यमस्य सम्भोगे अनुभावसम्पदःउदाहरणमिति साधीयसी दृष्टिः।
+
+६८-५ धीरकनिष्ठाया विप्रलम्भे सम्भोगे च  
+\[ उदाहरणं गलितं मातृकायाम \]  
+
+
+शुद्धाशुद्धि।  
+\_\_\_\_\_\_\_
+
+
+
+।            ।                              ।
+।ः----------:।ः----------------------------:।
+। **पंक्तौ** ।         **शुद्धम्**          ।
+।     १०     ।       अष्टधा सम्भवति।        ।
+।     १९     । दत्वात्मजां भवतु निर्वृतिमान ।
+
+
+
+
+
+
+[TABLE]
+
+
+
+
+
+।            ।                                                             ।
+।ः----------:।ः-----------------------------------------------------------:।
+। **पंक्तौ** ।                         **शुद्धम्**                         ।
+।           ।              तानि विरहेण... गलितानि क्रियन्ते।              ।
+।     १३     । प्रार्थनादिभिर्वो भयगतो विशेषः राजते दीप्यते समुद्योतते परं ।
+।     १७     ।                      विभक्तेव मनोभवेन                       ।
+।     १९     ।             यदा अनुरागशद्धस्य पश्चादर्थेन अनुना             ।
+।     ८      ।                  यदापुनरनुगतेनार्थेनानुना                   ।
+।     ४      ।                     निपतन्ति नूतनघनात्                      ।
+।     २४     ।                         चामीकररुचोः                         ।
+
+
+
+![](../../../books_images/U-IMG-1705039498pic.jpg)
+
+
+
+
+**॥ स्खलितशोधनपरिशिष्टम् ॥**
+
+
+
+[TABLE]
+
+
+
+
+
+
+
+
+
+</div>
+
+<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+![](include/loader.gif) **Please Wait....**
+
+</div>
+
+<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+**End Of Book**
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+\]
