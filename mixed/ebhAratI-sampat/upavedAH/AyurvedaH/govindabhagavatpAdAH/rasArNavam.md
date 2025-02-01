@@ -13,17 +13,17 @@ title = "रसार्णवम्"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="finder" class="finder">
 
-</div>
+
+
+
+
+
+
 
 
 
@@ -2956,12 +2956,12 @@ Cअतुर्थः पटलः \[य़न्त्रमूषाग्न
 यस्य यो विधिराम्नात उदकस्य शिवागमे ।  
 रसेनैव तु काले तु कुर्यादेव रसायनम् ॥ १२.३८२ ॥
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

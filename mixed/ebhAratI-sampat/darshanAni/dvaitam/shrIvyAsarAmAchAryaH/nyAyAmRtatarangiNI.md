@@ -13,13 +13,13 @@ title = "न्यायामृततरङ्गिणी"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 
   श्रीव्यासरामाचार्यविरचिता  
@@ -2804,12 +2804,12 @@ Jaya Gurudatta
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

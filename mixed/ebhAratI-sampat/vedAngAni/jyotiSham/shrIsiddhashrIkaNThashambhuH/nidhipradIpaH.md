@@ -18,15 +18,15 @@ title = "निधिप्रदीपः"
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -44,22 +44,22 @@ TRIVANDRUM: PRINTED BY THE SUPERINTENDENT, GOVERNMENT PRESS, 1930.
 
 ![](../books_images/1682081210.png)
 
-<div style="text-align: center;">
+
 
 
 **"कृष्णाजपित्तंच मयूरपित्त-  
 मशोकमूलं गतमुत्तराशाम्। **
 
-</div>
 
-<div style="text-align: center;">
+
+
 
 **शशाङ्कगोरोचनमाक्षिकं च  
 सर्वाञ्जनंनाम शिवोपदिष्टम्॥  
 पुष्यनक्षत्रयोगेन पिण्डीतगरमूलिकाम्।  
 षडङ्गुलमितं कार्यं शलाकां रक्षयेत् ततः॥" (p. 29).**
 
-</div>
+
 
 occur in the 15th UpadeŚa of the Mantrakhaṇḍa of the Rasaratnākara by Śrī****Devīputra Nityanātha, while the introductory verse of the latter work,
 
@@ -103,54 +103,54 @@ The edition of the work is based on the following three manuscripts.
 
 हत्याभिः कारिकाभिः कविरास्फोरयति। ग्रन्थावसितौ -
 
-<div style="margin-left: 160px;">
+
 
 **"यज्ञार्थमर्थसापेक्षा ऋषयो धर्मतत्पराः !।  
 निधिसङ्ग्रहणं सर्वंमया प्रोक्तं यथाक्रमम्॥**
 
-</div>
 
-<div style="margin-left: 160px;">
+
+
 
 
 **सर्वसम्पत्करंश्रेष्ठं सर्वदारिद्र्यनाशनम्। **
 
-</div>
 
-<div style="margin-left: 160px;">
+
+
 
 **सर्वसौख्यमिदं शास्त्रं शबरेणैव भाषितम्॥”**
 
-</div>
+
 
 **इति दर्शनाद्**
 
 **"यष्टव्याः कथमस्माभिः क्रतवो निर्धनैरिव।"**
 
-<div style="text-align: justify;">
+
 
 इत्यादिनोपक्रान्तस्य समुचित उपसंहारः समर्थितः। शबरभाषितस्यानुवादकर्ता परमात्मनः प्रतिजानानेन साममत्वमस्य प्रदीपस्य साधितम्। सोऽयं शबरः साक्षान्महेश्वरश्चेत् किरातवेषधारी, तदा पूर्वोपक्रान्तस्य ऋषिशम्भुसंवादस्यास्ति सामरस्यम्।  
  "इति **शबरभाषिते मालिनीशास्त्रे निधिप्रदीपे चतुर्थः परिच्छेदः**।"
 
-</div>
 
-<div style="text-align: justify;">
+
+
 
 इति परिसमाप्तिगतं वाक्यं शबरीयं किमप्यन्यद् मालिनीशास्त्रमाकरग्रन्थं स्पष्टमाचष्टेयत्रायं निधिप्रदीपनमार्गः किमप्यङ्गं सङ्गच्छते।
 
-</div>
 
-<div style="text-align: justify;">
+
+
 
  अन्यच्च — **श्रीदेवीपुत्रनित्यनाथविरचिते रसरत्नाकरे** मन्त्रखण्डे पञ्चदश उपदेशे दृश्यमानाभिः -
 
-</div>
 
-<div style="text-align: justify; margin-left: 160px;">
+
+
 
 **[१.](# "निधिप्रदीपे पार्श्वं ३२. श्लो० १३०, १३१.") "नकुलस्य च भेकस्य लोचनानि समाहरेत्। **
 
-</div>
+
 
 **स्रोतोञ्जनसभायुक्तं मेषीतैलेन पेषयेत्। **
 
@@ -166,25 +166,25 @@ The edition of the work is based on the following three manuscripts.
 
 **इति,**
 
-<div style="text-align: justify; margin-left: 160px;">
+
 
 [३.](# "निधिप्रदीपे पार्श्वं२९.श्लो०१०८,१०३.") 
 **"कृष्णाजपेित्तंच मयूरपित्तमशोकमूलं गतमुत्तराशाम्।**
 
-</div>
 
-<div style="margin-left: 200px; text-align: justify;">
+
+
 
 **शशाङ्कगोरोचनमाक्षिकं च सर्वाञ्जनं नाम शिवोपदिष्टम्॥ " **
 
-</div>
 
-<div style="margin-left: 200px; text-align: justify;">
+
+
 
 **“पुष्यनक्षत्रयोगेन पिण्डीतगरमूलिकाम्।  
 षडङ्गुलमितं कार्यं शलाकां रक्षयेत् ततः॥ "**
 
-</div>
+
 
 इति च निधिप्रदीपकारिकाभिः, तदानुगुण्यात् कस्यचन **शम्भोः** कृतिं सप्रमाणं द्योतयता तत्रैव **रसरत्नाकर** उपक्रमे
 
@@ -205,18 +205,18 @@ The edition of the work is based on the following three manuscripts.
 
  अस्य **निधिप्रदीपस्य** प्रसाधनप्रकाशनयोः परिशोधनोपयोगिन्यः समग्रा भातृकास्तिस्र उपलब्धाः। आसु —
 
-<div style="margin-left: 40px;">
+
 
 प्रथमा — अस्मन्महाराजग्रन्थशालीया।  
 द्वितीया — महादानपुरं ब्रह्मश्री रामवाध्यार् काशिवाध्यार्खामकी।
 
-</div>
 
-<div style="margin-left: 40px;">
+
+
 
 तृतीया — कार्त्तिकप्पाल्लिहरिप्पाडु पडिञ्ञारे पुल्लांवलिमठंब्रह्मश्री देवन्  नारायणन्नम्पूरिप्पाडुस्वामिका।        ताश्च यथाक्रमं क-ख-ग- चिह्निताः।
 
-</div>
+
 
 आसु पूर्वपूर्वा जरती। विशिष्य च प्रथमा माकीं चतुश्शतबत्सरीज्यायसी।  
 अनन्तशयनम्,  
@@ -267,17 +267,17 @@ The edition of the work is based on the following three manuscripts.
 
 शम्भुः —
 
-<div style="margin-left: 200px;">
+
 
 तदिदानीं प्रवक्ष्यामि शृणुध्वं मुनिपुङ्गवाः!।
 
-</div>
 
-<div style="margin-left: 200px;">
+
+
 
 निधिशास्त्रमिदं गुह्यं त्रिदशैरपि दुर्लभम्॥ ९॥
 
-</div>
+
 
 प्रवक्ष्यामि मुनिश्रेष्ठा ![दारिद्र्यार्णवतारणम्](# "२. 'ब्धिप्रणाशनम्।' ग. पठः ")।  
 [यत्](# "३. 'स्थानेषु च निधिस्थानं दारिद्र्यात्प्रतिमुच्यते। क. पाठः, ") कृत्वा तु नरः कश्चिद् दारिद्र्यान्मुच्यते तथा॥ १०॥
@@ -1954,26 +1954,26 @@ The edition of the work is based on the following three manuscripts.
 
 ———————
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

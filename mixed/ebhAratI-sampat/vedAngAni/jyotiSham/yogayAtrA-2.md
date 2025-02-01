@@ -12,17 +12,17 @@ title = "योगयात्रा-२"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="finder" class="finder">
 
-</div>
+
+
+
+
+
+
 
 अध्याय १
 
@@ -2518,12 +2518,12 @@ title = "योगयात्रा-२"
 ३३.५ पातालर्क्षे राहुकेत्वोः पुरेऽरेस्तोयोच्छित्तिः सालपातश्च कार्यः।  
 ३३.५ जामित्रस्थे भूमिजेऽस्यांशके वा पुत्रेणेन्दोर्वीक्षितेऽग्निः प्रदेयः॥E५
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

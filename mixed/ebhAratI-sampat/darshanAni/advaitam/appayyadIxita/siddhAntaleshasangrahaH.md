@@ -13,13 +13,13 @@ title = "सिद्धान्तलेशसङ्ग्रहः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 **॥श्रीः॥**
 
@@ -1704,12 +1704,12 @@ title = "सिद्धान्तलेशसङ्ग्रहः"
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

@@ -14,15 +14,15 @@ title = "तत्त्वोद्योत-विषमपदवाक्य�
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -474,26 +474,26 @@ title = "तत्त्वोद्योत-विषमपदवाक्य�
 अस्त्वेषा भक्तियुता श्रीविद्याधीशपादयोः सेवा ॥  
 इति श्रीमत्सकलविद्वच्चक्रचूडामणीनां पदवाक्यप्रमाणविदामग्रेसराणां श्रीमद्विद्याधीशपादानां शिष्येण केशवेन कृतं तत्वोद्योतविषमपदवाक्यार्थविवरणं समाप्तम्‌ ।
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

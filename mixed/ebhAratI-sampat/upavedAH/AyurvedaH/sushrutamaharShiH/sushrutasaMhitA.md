@@ -13,13 +13,13 @@ title = "सुश्रुतसंहिता"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 सुश्रुत संहिता  
 Sushruta Saṁhitā  
@@ -16141,12 +16141,12 @@ Chapter 1 2 3 4 5 6 7 8 9 10 11 12 13 14
 इति सौश्रुते आयुर्वेदशास्त्रे उत्तरस्थानं समाप्तम्  
 समाप्तमिदं सुश्रुततन्त्रम्
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

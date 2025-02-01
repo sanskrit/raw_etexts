@@ -13,17 +13,17 @@ title = "प्रमेयरत्नावली"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="finder" class="finder">
 
-</div>
+
+
+
+
+
+
 
 प्रमेयरत्नावली
 
@@ -758,12 +758,12 @@ title = "प्रमेयरत्नावली"
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

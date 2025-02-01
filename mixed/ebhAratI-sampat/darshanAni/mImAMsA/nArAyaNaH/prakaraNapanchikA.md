@@ -13,13 +13,13 @@ title = "प्रकरणपञ्चिका"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 श्री श्रीनिवास स्वामि, श्री विनायक स्वामि, श्री सरस्वती देवि,  
 ?0ॐ  
@@ -4671,12 +4671,12 @@ title = "प्रकरणपञ्चिका"
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

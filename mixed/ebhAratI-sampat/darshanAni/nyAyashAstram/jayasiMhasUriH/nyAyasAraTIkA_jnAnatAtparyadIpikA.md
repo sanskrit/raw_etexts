@@ -14,13 +14,13 @@ title = "न्यायसारटीका ज्ञानतात्पर�
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 ****
 
@@ -3591,12 +3591,12 @@ title = "न्यायसारटीका ज्ञानतात्पर�
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

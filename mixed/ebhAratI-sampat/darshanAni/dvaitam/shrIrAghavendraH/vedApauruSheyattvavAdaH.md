@@ -13,17 +13,17 @@ title = "वेदापौरुषेयत्त्ववादः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="finder" class="finder">
 
-</div>
+
+
+
+
+
+
 
 
    INTRODUCTION  
@@ -946,12 +946,12 @@ which congnises the hand of Daiva (God) as the last and final requisite for the 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

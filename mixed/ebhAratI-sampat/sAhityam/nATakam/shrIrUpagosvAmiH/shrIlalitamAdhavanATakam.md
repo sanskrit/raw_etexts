@@ -13,13 +13,13 @@ title = "श्रीललितमाधवनाटकम्"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 श्रीरूपगोस्वामिप्रभुपादप्रणीतम् श्रीललितमाधवनाटकम्
 
@@ -11873,12 +11873,12 @@ title = "श्रीललितमाधवनाटकम्"
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

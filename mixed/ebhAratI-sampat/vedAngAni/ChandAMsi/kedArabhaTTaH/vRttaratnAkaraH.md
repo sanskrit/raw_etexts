@@ -13,17 +13,17 @@ title = "वृत्तरत्नाकरः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="finder" class="finder">
 
-</div>
+
+
+
+
+
+
 
      वृत्तरत्नाकरः  
        अथ प्रथमोऽध्यायः  
@@ -604,12 +604,12 @@ title = "वृत्तरत्नाकरः"
   इति श्रीकेदारभट्टविरचिते वृत्तरत्नाकरे षष्ठोऽध्यायः॥  
    -------- \*\*\*\*\*\* --------
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

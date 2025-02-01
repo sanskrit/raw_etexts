@@ -14,13 +14,13 @@ title = "श्रीमदध्यात्मरामायणम्"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 
 
@@ -1912,11 +1912,11 @@ title = "श्रीमदध्यात्मरामायणम्"
 
 
 
-<div style="\&quot;page-break-after:always\&quot;">
 
 
 
-</div>
+
+
 
 
 
@@ -7540,11 +7540,11 @@ title = "श्रीमदध्यात्मरामायणम्"
 
 
 
-<div style="\&quot;page-break-after:always\&quot;">
 
 
 
-</div>
+
+
 
 ****
 
@@ -17040,12 +17040,12 @@ cअतुर्थः सर्गः ॥ ४ ॥
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

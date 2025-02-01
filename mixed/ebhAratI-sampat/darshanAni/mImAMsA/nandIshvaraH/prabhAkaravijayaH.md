@@ -13,13 +13,13 @@ title = "प्रभाकरविजयः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 ?R   
 ?R  प्रभाकरविजयः  
@@ -646,12 +646,12 @@ title = "प्रभाकरविजयः"
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

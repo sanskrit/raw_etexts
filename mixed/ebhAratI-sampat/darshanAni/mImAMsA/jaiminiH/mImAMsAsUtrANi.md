@@ -13,13 +13,13 @@ title = "मीमांसासूत्राणि"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 
 
@@ -6009,12 +6009,12 @@ title = "मीमांसासूत्राणि"
 
 इति श्रीमात्स्ये महापुराणे पद्मोद्भवप्रादुर्भावसंग्रहो नामाष्टसप्तत्यधिकशततमोऽध्यायः १७८
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

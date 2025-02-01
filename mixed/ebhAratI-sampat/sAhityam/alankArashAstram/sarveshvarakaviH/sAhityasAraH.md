@@ -13,13 +13,13 @@ title = "साहित्यसारः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
       ***1.प्रथमः प्रकाशः***
 
@@ -2661,12 +2661,12 @@ title = "साहित्यसारः"
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

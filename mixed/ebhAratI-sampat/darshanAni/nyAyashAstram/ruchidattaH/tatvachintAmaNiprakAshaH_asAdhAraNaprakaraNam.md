@@ -16,15 +16,15 @@ title = "तत्वचिन्तामणिप्रकाशः असा�
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -413,26 +413,26 @@ F.N.१.पक्षव्यावृत्तत्वम्-ख २.तज्
 
 F.N.२.व्यावृत्तत्वेऽपि-क ३.यथा वा न साध्य-क ४.द्धयसंग्रहः-क ५.असाधारण्यलक्षण--क १.प्रतिबध्यत्वात्--क २.विरुद्धमिति-ख
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

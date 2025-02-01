@@ -15,13 +15,13 @@ title = "विधित्रयपरित्राणम्"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 श्री वेङ्कटेश्वर स्वामी, श्री गणपति स्वामी, श्री सरस्वति देवि,  
 ?0?2श्रीवेङ्कटेश्वरप्राच्यग्रन्थावली सं. 44.  
@@ -1363,12 +1363,12 @@ Timil "
 लक्ष्माव्याप्यो  
  ---\>0\<---
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

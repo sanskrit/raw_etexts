@@ -14,13 +14,13 @@ title = "श्रीभक्तिरसामृतसिन्धुः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 
 
@@ -8940,12 +8940,12 @@ title = "श्रीभक्तिरसामृतसिन्धुः"
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

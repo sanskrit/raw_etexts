@@ -13,13 +13,13 @@ title = "वाग्भटसंहिता"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 वाग्भट संहिता  
 Vāgbhaṭ Saṁhitā  
@@ -15540,12 +15540,12 @@ Chapter 1 2 3 4 5 6 8 9 10 11 12 13 14 15
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

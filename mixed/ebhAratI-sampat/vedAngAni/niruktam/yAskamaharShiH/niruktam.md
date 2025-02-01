@@ -14,13 +14,13 @@ title = "निरुक्तम्"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 
 १.१ समाम्नायः.समाम्नातः.स.व्याख्यातव्यः  
@@ -7342,12 +7342,12 @@ Vऋकश्.चन्द्रमा.भवति.विवृत.ज्यो
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

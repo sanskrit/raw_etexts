@@ -14,23 +14,23 @@ title = "श्री-राघवयादवीयम्"
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
-
-<div class="row" style="display: block;">
-
-<div class="col-lg-12" style="height:800px;">
-
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
-
-<div id="content" class="content" style="line-height: 40px;">
 
 
 
-<div padding:0in="" style="\&quot;border-bottom:solid">
+
+
+
+
+
+
+
+
+
+
 
 **\।\।राघव यादवीयं ( कवि वेंकटाध्वरि) \।\।**
 
-</div>
+
 
 
 
@@ -360,26 +360,26 @@ title = "श्री-राघवयादवीयम्"
 
 **श्री राघव यादवीयं समाप्तम् \।\।**
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

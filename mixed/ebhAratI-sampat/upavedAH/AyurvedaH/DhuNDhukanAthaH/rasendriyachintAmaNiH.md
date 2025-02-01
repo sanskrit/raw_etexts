@@ -13,13 +13,13 @@ title = "रसेन्द्रियचिन्तामणिः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 
 ढुण्ढुकनाथः रसेन्द्रचिन्तामणि
@@ -2514,12 +2514,12 @@ title = "रसेन्द्रियचिन्तामणिः"
 \\Z  
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

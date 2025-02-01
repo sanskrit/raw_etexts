@@ -16,15 +16,15 @@ title = "पर्यटनमीमांसा_Split-1"
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -860,26 +860,26 @@ title = "पर्यटनमीमांसा_Split-1"
 
  इति श्रीमत्परमहंसपरिव्राजकाचार्य्यवर्य्यपदवाक्यप्रमाणपारावारपारी- णत्वाद्यनेकपदाङ्कितजगद्गुरुश्रीमच्छङ्कराचार्य्यश्रीशारदापीठद्वारकासंस्थानाधीश्वरश्रीमत्केशवाश्रमस्वामिदेशिकवरकरकमलसञ्जातजगद्गुरुश्रीमच्छङ्कराचार्यश्रीशारदापीठद्वारकासंस्थानाघीश्वरश्रीमद्राजराजेश्वरशङ्कराश्रमस्वामिविरचिता पर्य्यटनमीमांसा समाप्ता.
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

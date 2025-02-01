@@ -18,15 +18,15 @@ title = "संस्कृतकादम्बरीकथा"
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -1779,26 +1779,26 @@ I have gone through the whole of your book‘ the संस्कृतकाद
 
 
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

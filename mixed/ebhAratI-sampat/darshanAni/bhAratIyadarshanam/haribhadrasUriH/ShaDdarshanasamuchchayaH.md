@@ -14,13 +14,13 @@ title = "षड्दर्शनसमुच्चयः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 
 
@@ -927,12 +927,12 @@ title = "षड्दर्शनसमुच्चयः"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

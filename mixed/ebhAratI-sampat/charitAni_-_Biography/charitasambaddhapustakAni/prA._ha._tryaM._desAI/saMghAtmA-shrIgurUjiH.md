@@ -16,15 +16,15 @@ title = "संघात्मा-श्रीगुरूजिः"
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -2405,26 +2405,26 @@ title = "संघात्मा-श्रीगुरूजिः"
 
  कार्यालय-सचिवः **श्रीकृष्णराव-मोहरीर** महाशयः सर्वान् पृच्छकान् प्रत्युत्तराणि ददाति स्म। जून ५ दिने प्रातः ५ वादनात् ७ दिनाङ्के रात्रौ १ वादन-पर्यन्तं सः सन्ततम् अविरतं च दूरध्वनि-संपर्क-व्यापृतः आसीत्।—**"अहं कृष्णरावः। नहि नहि, अद्यैव प्रतिष्ठत।...... हं; डॉ. आबाजिः अस्ति। दीयते प्राणवायुः।... अं हं, बालासाहेब अद्यापि नागतः, श्वः आयाति।...नहि नहि, अद्य वक्तुमपि न समर्थः...।को भवान्? ....एवमेवम्।प्रार्थना कक्षे एव कृता। ....अहो, डॉक्टर ! प्राणवायुः दीयते, परं....। व्यर्थं तत्....। डॉक्टर, ९-५ वादने...अं हं, समाप्तं सर्वम्। ....रेशिमोद्याने भवति..... सायं ७ वादने। ......अद्यैव ...आगताः। नहिः, अद्यैव।...श्वः प्रातः प्रतिगच्छति।"**
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

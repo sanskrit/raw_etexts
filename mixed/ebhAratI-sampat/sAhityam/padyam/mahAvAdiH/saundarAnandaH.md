@@ -13,13 +13,13 @@ title = "सौन्दरानन्दः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 **॥ श्रीराधाकृष्णाभ्यां नमा ॥**  
 
@@ -2580,12 +2580,12 @@ title = "सौन्दरानन्दः"
 
 .
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

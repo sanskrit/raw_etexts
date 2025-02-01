@@ -18,15 +18,15 @@ title = "संगीतरत्नाकरः"
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -7025,26 +7025,26 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 । सीवन्य पञ्च शिरसि          । स्पर्शन शब्दबोधश्च              ।
 । सुख दुःख च विषयौ           । स्मरन्पूर्वानुभूता स            ।
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

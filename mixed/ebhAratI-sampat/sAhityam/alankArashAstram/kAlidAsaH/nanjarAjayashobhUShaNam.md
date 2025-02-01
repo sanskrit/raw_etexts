@@ -18,15 +18,15 @@ title = "नञ्जराजयशोभूषणम्"
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -5319,11 +5319,11 @@ OL. वा.
 
 
 
-<div style="background: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); padding: 5px 10px; text-align: justify;">
+
 
 अनुचरः—कुदो दाणिं इमाए पुलिनङ्कणेसु समुन्नमिअकन्दरं राअहंसकदम्बं परिहो दिअन्ते विलोएदि ॥
 
-</div>
+
 
 अनुचरः—कुदो दाणिं इमाए पुलिनङ्कणेसु समुन्नमिअकन्दरं राअहंसकदम्बं परिहो दिअन्ते विलोएदि ॥
 
@@ -12409,26 +12409,26 @@ edited by C. D. Dalal and G. K. Sariwlekar, 1925.
 
 
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

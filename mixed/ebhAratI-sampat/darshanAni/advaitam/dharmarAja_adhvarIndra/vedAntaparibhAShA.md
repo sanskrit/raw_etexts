@@ -13,13 +13,13 @@ title = "वेदान्तपरिभाषा"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 १ प्रत्यक्ष प्रमाणम् ।
 
@@ -2869,12 +2869,12 @@ title = "वेदान्तपरिभाषा"
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

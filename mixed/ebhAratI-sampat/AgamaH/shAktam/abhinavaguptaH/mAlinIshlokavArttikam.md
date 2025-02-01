@@ -14,13 +14,13 @@ title = "मालिनीश्लोकवार्त्तिकम्"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 
 
@@ -4117,12 +4117,12 @@ title = "मालिनीश्लोकवार्त्तिकम्"
 
 ---------------------------------------------------
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

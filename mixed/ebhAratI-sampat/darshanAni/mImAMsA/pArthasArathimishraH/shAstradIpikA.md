@@ -14,15 +14,15 @@ title = "शास्त्रदीपिका"
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -3317,26 +3317,26 @@ title = "शास्त्रदीपिका"
 उच्यते- नायं श्रोत्रतस्तद्विशिष्टशब्दप्रत्ययः, किं तु श्रोत्रं गि स्वदेशस्थितं शब्दं बोधयदपि न देशविशिष्टं बोधयति किन्तु स्वरूपमात्रेण, यतस्तु दिश आगता ध्वनयस्तया विशिष्टं शब्दं बोदयन्ति, सा हि दिक् श्रोत्रप्राप्ता शक्यते श्रोत्रेण ग्रहीतुम्, यद्यपि न स्वातन्त्र्येण दिशः श्रोत्रग्राह्यत्वं तथापि रावे गृह्यमाणे तद्विशेषणतया अथ च विषयेषु स्वेषु गृह्यमाणेषु तद्विशेषणतया सर्वैरपीन्द्रियैर्गृह्यते तद्वत् /  
 ततश्चास्यां दिशि शब्द इति विशिष्टग्रहणं तावत्सिद्धम् /
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

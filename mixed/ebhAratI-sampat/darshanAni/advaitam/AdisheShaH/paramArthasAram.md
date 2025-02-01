@@ -14,15 +14,15 @@ title = "परमार्थसारम्"
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -412,11 +412,11 @@ title = "परमार्थसारम्"
 
 
 
-<div style="\&quot;page-break-after:always\&quot;">
 
 
 
-</div>
+
+
 
 **NOTES** \[ by Dr. L. Sulochana Devi, Department of Vedanta, Sree Shankaracharya University of Sanskrit, Kalady, Kerala, India \] :
 
@@ -439,11 +439,11 @@ Abhinavagupta’s work contains a corresponding verse.
 
 
 
-<div style="\&quot;page-break-after:always\&quot;">
 
 
 
-</div>
+
+
 
 ON PARAMĀRTHASĀRA OF ĀDIŚEṢA
 
@@ -536,26 +536,26 @@ upagīti āryā : Break Verse 35 as follows from Ādiśeṣa’s paramārthasār
 
 \[ Typed by Suryansu Ray \]
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

@@ -21,15 +21,15 @@ title = "याज्ञवल्क्यस्मृतिः स्तवक�
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -1627,26 +1627,26 @@ Sandaly
 
  यतद्देवयानपितृयानरूपं मार्गद्वितयमात्मनोऽर्थे यो न जानाति तदनुसारि कर्म न करोति स दन्दशुकः सर्पः पतङ्गः शलभः, कीटः शमिर्धा भवेत् ॥ १९७ ॥
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center" style="display: none;">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center" style="display: block;">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]

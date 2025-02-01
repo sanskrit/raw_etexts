@@ -13,13 +13,13 @@ title = "सर्वसाक्षात्काराख्यटीका-�
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
         **श्रीः**  
 
@@ -699,12 +699,12 @@ title = "सर्वसाक्षात्काराख्यटीका-�
 
 .
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

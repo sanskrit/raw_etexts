@@ -14,13 +14,13 @@ title = "श्रुतदीपिका श्रीभाष्यव्य�
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 
 
@@ -12249,12 +12249,12 @@ title = "श्रुतदीपिका श्रीभाष्यव्य�
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

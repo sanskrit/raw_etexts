@@ -12,31 +12,31 @@ title = "तत्त्वदीपिका (ब्रह्मसूत्र
 
 \[
 
-<div class="page-content">
-
-<div class="row">
-
-<div class="col-lg-12">
-
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
-
-<div id="finder" class="finder active">
-
-</div>
 
 
 
-<div padding:0cm="" style="\&quot;border-bottom:solid" windowtext="">
+
+
+
+
+
+
+
+
+
+
+
+
 
 Top of Form
 
-</div>
 
-<div padding:1.0pt="" style="\&quot;border-top:solid" windowtext="">
+
+
 
 Bottom of Form
 
-</div>
+
 
 Tatvadeepa  
 तत्त्वदीपः  
@@ -7502,12 +7502,12 @@ Fourth Pada ॥ श्रीः ॥
 
 © 2020 E-BHARATISAMPAT - ALL RIGHTS RESERVED
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

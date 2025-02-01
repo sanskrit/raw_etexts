@@ -13,13 +13,13 @@ title = "तैत्तिरीयोपनिषद्भाष्यम्"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 Shankaracharya’s Bhashya on Taittiriya Upanishad
 
@@ -636,12 +636,12 @@ Shankaracharya’s Bhashya on Taittiriya Upanishad
 Taittiriya Upanishad Ends  
 Shankaracharya’s Commentary on TU ends.
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

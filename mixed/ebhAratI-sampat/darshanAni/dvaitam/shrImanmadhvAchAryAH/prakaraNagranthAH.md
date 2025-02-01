@@ -18,13 +18,13 @@ title = "प्रकरणग्रन्थाः"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+
+
+
 
 प्रमाणलक्षणम्
 
@@ -1837,12 +1837,12 @@ title = "प्रकरणग्रन्थाः"
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

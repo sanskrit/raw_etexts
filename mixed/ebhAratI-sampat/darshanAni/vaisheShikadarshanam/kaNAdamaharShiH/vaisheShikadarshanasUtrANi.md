@@ -14,17 +14,17 @@ title = "वैशेषिकदर्शनसूत्राणि"
 
 \[
 
-<div class="page-content">
 
-<div class="row">
 
-<div class="col-lg-12">
 
-<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="finder" class="finder">
 
-</div>
+
+
+
+
+
+
 
 
 
@@ -896,12 +896,12 @@ title = "वैशेषिकदर्शनसूत्राणि"
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 \]

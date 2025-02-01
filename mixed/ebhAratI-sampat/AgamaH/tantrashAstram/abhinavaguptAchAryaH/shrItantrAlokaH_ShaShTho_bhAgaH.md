@@ -18,15 +18,15 @@ title = "श्रीतन्त्रालोकः (षष्ठो भा�
 
 \[
 
-<div id="page-content" class="page-content" style="line-height: 20px">
 
-<div class="row" style="display: block;">
 
-<div class="col-lg-12" style="height:800px;">
 
-<div id="style2" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
 
-<div id="content" class="content" style="line-height: 40px;">
+
+
+
+
+
 
 
 
@@ -2344,26 +2344,26 @@ PRINTED BY APURA KRISHNA BONE, AT THE INDIAN PRESS. Ltd.,
 शुद्धत्वमस्ति तेषां ये  
 शक्तिपातपवित्रिताः॥१७१॥**
 
-</div>
 
-<div id="alert" class="alert alert-danger text-center">
+
+
 
 ![](include/loader.gif) **Please Wait....**
 
-</div>
 
-<div id="complete" class="alert alert-success text-center">
+
+
 
 **End Of Book**
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
 
 \]
