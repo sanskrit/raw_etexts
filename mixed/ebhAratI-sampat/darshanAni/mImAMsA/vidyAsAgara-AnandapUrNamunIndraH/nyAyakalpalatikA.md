@@ -1,0 +1,5860 @@
++++
+TITLE = "न्यायकल्पलतिका"
+AUTHOR = "विद्यासागर-आनन्दपूर्णमुनीन्द्रः"
+DOMAIN = "दर्शनानि"
+SUB-DOMAIN = "मीमांसा"
+"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"SERIAL NO." = "Ebharati-2486"
+url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkwMTY2ODU2NjQ2ODMy"
+title = "न्यायकल्पलतिका"
+
++++
+[[न्यायकल्पलतिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjkwMTY2ODU2NjQ2ODMy)]]
+
+\[
+
+<div class="page-content">
+
+<div class="row">
+
+<div class="col-lg-12">
+
+<div id="page-content" class="content app scrollbar" finder-content="" finder-scroll-offset="175" finder-wrapper="">
+
+<div id="finder" class="finder active">
+
+</div>
+
+
+
+Kendriya Samskrit Vidyapitha Series No.14  
+-----------------------------------------  
+ NYAYAKALPALATIKA  
+A commentary on the Brahadaranyakopanisad-bhasya-varttika  
+ BY  
+ Vidyasagara Anandapurna Munindra  
+   
+ Critically Edited with Tippana  
+   
+ BY  
+ Panditaraja Sastraratnakara
+
+ V.SUBRAHMANYA SASTRI,   
+ (Recipient of President'Award)  
+ Reader in Sanskrit (Retd.)Annamalai University,  
+Professor of Vedanta, Sanskrit College, Mylapore,Madras.  
+   
+ VOLUME I
+
+
+ with a Foreword by  
+ Dr.V.RAGHAVAN,  
+Former Chairman, Central Sanskrit Institue, Tirupati.
+
+
+ KENDRIYA SANSKRIT VIDYAPITHA,  
+ TIRUPATI.  
+ 1971
+
+
+ केन्द्रीय संस्कृतविद्दापीठ ग्रन्थमाला संख्या -14  
+-----------------------------------------
+
+ ॥न्यायकल्पलतिका ॥  
+   
+बृहदारण्यकोपनिषद्भाष्यवार्त्तिकव्याख्या  
+विद्दासागर- आनन्दपूर्णमुनीन्द्रविरचिता  
+पण्डितराजैः शास्त्ररत्नाकरैः राष्ट्रपतिसंमानभाजनैः  
+ वि. सुब्रह्मण्यशास्त्रिभिः  
+मद्रपुरसंस्कृतमहाकलाशालायां वेदान्ताध्यापकैः  
+परिशोध्य टिप्पणादिभिः परिष्कृत्कृत संपादिता  
+ के. सं. वि. पीठस्य भूतपूर्वाध्यक्षाणां  
+ डाक्ट्रर.वे.राघवमहोदयानाम्  
+ आमुखेन सहिता  
+ प्रथमः संपुटः  
+तिरुपतिस्थ केन्द्रीयसंस्कृतविद्दापीठेन प्रकाशिता  
+ केन्द्रीयसंस्कृतविद्दापीठम्  
+ तिरुपति  
+ 1971  
+   
+ FOREWORD
+
+I have great pleasure in writing a Foreword to this publication which is part ofa project planned sometime back and with which .I had been closely connected. Inthe former Ministry of Scientific Rsearch and Cultrral Affairs, an Indology Commettee was set up and of the lines of work which that Committee chalked out for promoting Indological research, two schemes, of both of which I had the privilegeto be Convener, were of direct imporrance to Sanskrit, assistance to Libraries and Institutes to bring out Catalogues of their manuscripts and a series of criticial editions of rare texts. Texts of importance, still in manuscript, were chosen for the latter scheme and assigned to different scholars for editing.  
+Owing to several diffieculties, work on only two of these rare texts could be purasued, the one that is now being released and the Adhvaramimamsakutuhala-vritti. On the integraion of the Ministries of Education and S.R.$ C.A., the projects of the Indological Committee were taken over by the Central Sanskrit Board and the two works that had been prepared were given to the two Central Sanskrit Institutes at Tirupati and Delhi for publication.  
+  
+ The present work, the Nyayakalpalatika of Anandapurna,  
+which Panditaraja V.Subrahmanya Sastri, then of the Annamalai University,was invited to edit, was the first to be completed. It was deited on the basis of one  
+complete and good manuscript from the Oriental Institue,Baroda (No.8938),a transcript of which is also available in the Madras Government Oriental Mss.Library  
+(R.5283),and a manuscript from the collection in the University of Tubingen(No.Chambers 509), Germany, a photocopy of which I arranged to procure through the help of the Ministry. The latter ms., unfortunately,does not have the beginning portion covering the whole of the Sambandhagrantha.  
+ When I suggested the Nyayakalpalatika for edition under the above-mentioned scheme, I did so on the background of a study that I had made of its author  
+Anandapurna Vidyasagra, his time, place and works, and the importance of his contributions especially to Advaita. In a paper in the Annals of Oriental Research,University of Madras, Vol.IV.No.i(1939), I had shown which place he salutes in his works-,under Kamadeva, who ruled over that region in the middle of the 14th century A.D., and whom Anandapurna mentions at the end of his work on grammar,the Prakriyamanjari.The manuscript of the Nyayakalpalatika preserved in the Baroda collection was itself copied at an Advaitic Matha at Viratapura in the same region ruled over by Kamadeva.I had also given in that paper a correct description of anandapurna's Nyayacandrika, not yet printed at that time, and drawn school, principally of Nyaya-Vaisesika, and the criticisms of their views by Anandapurna.
+
+ Anandapurana was evidently a forceful personality, who contributed not a little to the consolidation of Advaita in the Gokarna region where he was evidently the head of a monastic centre.He was a versatile scholar and besides Vyakarana, in which his contribution took the form of a commentary, Prakriyamanjari, on the Kasika,Nyaya and Advaita Vedanta constituted his forte.On the Nyayasara of Bhasarvajna whose Bhusana comes in for criticism in his Nyayacandrika, he wrote a gloss, a ms.of which is preserved in the Kerala University Mss.Library, Trivandrum;his commentary on the Mahavidayavidambana of Vadindra has been published, as far as available, in the GOS.His dialectic skill is all the more evident in his Advaitic works like the Nyayacandrika.
+
+ In his work of expounding Advaitic texts through commentaries, Anandapurna, it may be noted , took up some of the greatest classics in that field, the  
+Brahmasiddhi of Mandana, the Brhadaranyakabhasyavarttika of Suresvara and the Khandanakhandakhadya of Sriharsa. Anandapurna thus takes his place in the galaxy of great commentators like Anubhutisvarpua and Anandagiri who played their effective roles in the liquidation of the fresh offensive of resurgent Nyaya and the last spurt of the Bhedabheda and Samucccaya vadas of Vedanta itself.
+
+ Along with the Chandogya, the Brhadaranyaka, as its very name proclaims, forms the largest and richest in theought and teachings among the Upanisads.Sankara's own commentary on it is equally large and rich, although he calls it a brief Vrtti, (alpagrantha vrttih) contrasting it ,as Anandagiri points out, with the  
+far more elaborate exposition of it by the pre-Sankara Advaitin Bhartrprapanca.  
+(See also Varttika 6.4 412).That Bhartrprapanca wrote a long commentary on it  
+is another proof of the important place occupied by the Brahadaranyaka.
+
+ Sankara's Bhasya on the Brhadaranyaka is likewise the greatest of his Upanisad-commentaries. In the words of Suresvara, by way of explaining one Upanisad, Sankara's commentary on the Brhadaranyaka clarifies (Sakalamnayartha-samsodhinim vrttim ). The magnitude of master's Bhasya on this Upanisad may be guaged from  
+the fact that his Varttika extends to a prodigious number of nearly 12000 couplets.  
+ The portion of this extensive Varttika now offered with Anandapurna's Commentary in the present volume is the introduction to the main commentary on the Upanisad, and well-known as the Sambandha-varttika. Sankara himself says that he shall first discuss the relation of the Upanisad with the Karma-kanda of the Veda. (Tasyasya Karma-kandena sambndho'bhidhiyate).What Sankara deals with in the space of about two pages on this question of the relation of the Jnana-kanda to the Karma-kanda takes about 1140 couplets for Suresvara to bring out all the issues involved in Sankara's introduction and the theories of other schools and the interpretations of earlier commentators which Sankara refutes here.
+
+ The chief point which Sankara makes here is that it is not that all veda should have as the purport an injunction to an action (Karma)and that knowledge  
+(Jnana ) of the essential nature of the ultimate Reality that already exists is the chief import of the Upanisad, which by its very name refers to the destruction of the nescience which is the root-cause of the transmigratory cycle set in motion by action (Karma).It is not as if the Bhasyakara has to contend here against the Mimamsaka only, he has also the earlier Advaitins, the Jarad-Vedantins who, before him, had interpreted the Upanisads in terms of a Reality which is an unity in diversity (Bhedabheda),evolving (Parinami), realised by a conjoint pursuit of knowledge and action-the performance of Nitya-karma being unavoidable and Karma having a role to play in the process of liberation-(Jnana-karma-samuccaya),the texts bearing an injunction for contemplation on the Truth (Prasamkhyana,Upasana), being the primary ones and those affrming the Truth like Tattvamasi being ancillary to the former.While going into these earlier interpretations,of whi  
+ch ther were some internal variations, Suresvara unfolds the whole panorama of the philosophical sitation that existed on the eve of Sankara's appearance.The field was, as is clear from Varttika 6-4-412, particularly dominated by the views of Bhartrprapanca and to some extent by those of Mandana also. But these were not the only pre-Sankara Advaitins whose views are examined and refuted here;therewas Brahmadatta who probably wrote a commentary on the Brahma Sutras.Prof.M.Hiriyanna has already brought together all the allusions and more explicit references in Sankara and Suresvara to these pre-Sankara Advaitins and given excellent accounts of the varieties of Advaitic thought which they represented.Prof.S.Kuppuswami Sastri has similarly dealt exhaustively with the views of Mandana vis-a-visSankara. Incidentally both of them have shown the untenability, patent in the Sambandha-varttika, of the traditional identification of Mandana and Suresvara.  
+Full of elaborate discussions and refutations of Mimamsa, Nyaya and Jarad-Vedantic theories ,the Sambandha-Varttika, is really a profound and precious work, not only because of its wealth of data bearing on the history of Vedanta but also because of the arguments it as Brhadvicara and at the end of his commentary on the Sambandha-varttika, describes it as an ocean billowing with arguments and epistemological discussions and heaves a sign of relief that he has somehow succeeded in crossing over it .  
+ सम्बन्धवार्त्तिकमहाम्बुघिरेष तीर्णः  
+ सत्संप्रदायपदवीकृतसेतुबन्धः।  
+ सत्तर्कमानलहरीगहनावगाह  
+ पूर्णेन पुण्यनिचयेन पुराचितेन ॥  
+Indeed , it is with Suresvara's expositions that ,as Brahmananda Sarasvati says , the Sankara-Bhasyas get completed .
+
+ In this extensive Sanskrit Introduction, the learned Editor of this Volume gives a resume of the teachings of the Brhadaranyaka and of the highlights of Sankara's Bhasya thereon; an account of the tenets held by Bhartrprapanca together with a colleection of the passages quoted in his commentary by Anandapurna and more copiously in his by Anandagiri-as many as 163 of them -and of the lines on which these are refuted in the Bhasya and the Varttika; the noteworthy characteristics of Suresvara's exposition, which in conformity to its name Varttika, sometimes takes its own line, re-arranges the ideas of the Bhasya and also supplements the Bhasya, filling in things left unsaid or things skipped over; the literary quality and appeal of Suresvara's writing including a reference to the sixty and odd analogies and illustrations used by him; Suresvara's references to his own spritiual experience (Svanubuti) and views based thereon, the contexts in which,in conformty to the digvified character of his writng and his regard and devotion to his teacher,the Bhasyakara, he refines and amends the latter's interpretations; and lastly the doctrinal stand which he is associated as author in the history of Advaita.In the last section,the sixth, of his Introduction, the Editor draws attention to the value of Anandapurna's commentary,the Nyayakalpalatika, helpful elucidations wherever required of the standpoint of Mimamsa etc,finguring in the purvpaksas, the difference in the more elaborate method of Anandagiri whose Sastraprakasika on the Varttika has been better known and studied and the divergence of interpretation between Anandapurna and Anandagiri. In the contexts  
+where Sures'vara is critical of the Bhasya and the Bhasyakara. In the Text-part, the Editor has written footnotes wherever Anandapurna's brevity requires further explanations and wherever there is difference of reading or interpretation inAnandagiri's commentary .The subject-headings inserted by the Editor add to the  
+facilities afforded by him for following the commentary.  
+   
+ In conclusion I wish to congratulate the Editor Panditaraja V.Subrahmanya Sastri on the excellence with which he has done his work and presented this large unpublished commentary on one of the most important texts of Advaita.Although he was the first to complete the editorial work under the scheme of the Ministry and there has been a somewhat long delay in the publication of his work, I think the appearance of this Text just now imparts an added importance of this tribution of his to advaitic studies. During the course of the pringing and publicationof this work,it may be mentioned the Editor received two signal national recognitions , one he bestowal on him of the President's Cerfificate of Honour for distinguished Pandits and the other, the Award to him by the Sahitya Akademi of its prize for the best producion in Sanskrit. Among traditional Pandits he has a flair for the pursuit of critical and comparative studies and the producion of monographs and editions in the field of Nyaya and Vedanta.Although he has already several books to his credit, he has , I know , several other useful subjects evolving in his mind for investigation and exposition.Knowing ,as I do, his devotion to and capacity in this kind of work, I am quite sure we can expect from him further products of his critical and comparative study of the Sastras.
+
+
+Madras  
+12-3-1971
+V.RAGHAVAN  
+  
+
+
+
+
+continue from december  
+ ।श्री गुरुभ्यो नमः।  
+ । प्रस्तावना ।  
+ओं नमो ब्रह्मादिभ्यो ब्रह्मविद्दासंप्रदायकर्तुभ्यो वंशर्षिभ्यो  
+ नमो महद्भयो नमो गुरुभ्यः
+
+ यद्वक्त्रमानससरः प्रतिलब्धजन्म  
+ भाष्यारविन्दमकरन्दरसं पिबन्ति ।  
+प्रत्याशमुन्मुखविनीतविनेयभृङ्गाः  
+ तान् भाष्यवित्तकगुरुन् प्रणतोऽस्मि मूर्ध्ना॥
+
+ PART I  
+ बृहदारण्यकोपनिषत्परिचयः  
+   
+'वेदः कृत्स्नोऽधिगन्तव्यः सरहस्यो द्विजन्मना'(मनु.2-165)इति मानवं वचनं रहस्यशब्दितेन वेदान्तापरपर्यायोपनिषद्भागेन सहितं कृत्स्नं वेदमधिगन्तव्यं ब्रूते ।रहस्यब्रह्मविद्दावबोधित्वात् उपनिषदं रहस्यपदेन व्यवहरन्ति । ब्रह्मविद्दा हि देवैरपि दुष्प्रापा देवेन्द्रेण सुरक्षितासीत् । दध्यङ्नामा आथर्वणः ब्रह्मविदासीत् ।तमिन्द्र उवाच, ब्रह्मविद्दां चेदन्यस्मै अनुब्रूयाः तदैव तव शिरः छिन्द्दामिति  
+। कदाचित् देवभिषग्भ्यामश्विभ्यां ब्रह्मविद्दोपदेशाय प्रार्थितो महर्षिः ब्रह्मविद्दाप्रवचननिमित्तकं स्वस्येन्द्राद्भयमवोचत् ।तदा अश्विनौ तमूचतुः, मास्तु भीतिः,प्रवचनकाले भवतः शिरः छित्वा अन्यत्रावस्थाप्य,अश्वस्य शिरः भवदीयशरीरे सन्धास्यावः।  
+प्रवचनवेदी देवेन्द्रः तच्छिरः छेत्स्यति ।ततो भावत्कं शिरः अन्यत्र निहितमादाय सन्धास्यावः ।ततः स्ववचनमवितथं कर्तुं तथैवाङ्गीचकार महर्षिः ।अश्विभ्यां छिन्नशिराः अश्वशिरसा सन्धानमाप्तः ब्रह्मविद्दामुपदिदेश । विदितवृत्तान्तेनेन्द्रेण तस्मिन् शिरसि छिन्ने, पुनः अश्विभ्यां स्वीयशिरसा सन्धानं प्राप्तः यथापूर्वमास । एवं परमपु  
+रुषार्थसाधनब्रह्मविद्दा रहस्यभूता देवैरपि दुषप्रापा देवेन्द्रेण महतायासेन संरक्षिता । इममर्थं बोधयन्ती बृहदारण्यकोपनिषत् उपनिषदामुपनिषत्त्वं निर्ब्रूते ।  
+मधुकाण्डं , मुनिकाण्डं,खिलकाण्डमिति काण्डत्रयरुपेण विभक्त अष्टाध्यायात्मकं बृहदारण्यकम् । अश्विभ्यामथर्वणः त्वाष्ट्रं कक्ष्यं चेति मधुद्वयमुपदिदेश । यज्ञस्य शिरश्छेदप्रतिसन्धानादिविषयं दर्शनं त्वाष्ट्रं मधु प्रवर्ग्यकर्माङ्गम् । द्वितीयं तु कक्ष्यं गोप्यं रहस्यं परमात्मसंबन्धिविज्ञानम् ।प्रथमद्वितीयाध्यायौ प्रवर्ग्यकर्मविषयौ । तृतीयचतुर्थाध्यायाभ्यामुक्तोऽर्थः चतुर्थाध्यायावसाने 'इयं पृथिवी सर्वेषां भूतानां मधु '(बृ.4 5-1)इत्यादिना मधुब्राह्मणे उपसंहृतः । चतुर्थाध्यायेन समापितं मधुकाण्डम् । तस्य चाचार्यवंशोऽपि कीर्तितोऽन्ते ।  
+ प़ञ्चमषष्ठाभ्यामध्यायाभ्यां याज्ञवल्क्यमुखेन मधुकाण्डप्रतिपादितोऽर्थः जल्पकथां वादकथाञ्चाश्रित्य विस्तरेण निरुपितः इति पञ्चमषष्ठाध्यायद्वयं मुनिकाण्डमिति व्यवह्रियते । याज्ञवल्क्यीयं काण्डमित्यपि वयवहृतं भाष्यवार्तिकयोः । तस्यापि पृथगाचार्यवंशः कीर्तितः ।  
+ ततः कानिचिदुपासनानि श्रीमन्थपुत्रमन्थादिकं कर्म चेति अवशिष्टं निरुपयति खिलकाण्डं संक्षिप्तसप्तमाष्टमाध्यायात्मकम् । तदवसाने च संपुर्णबृहदारण्यकस्य आचार्यवंशो निरुपितः ।  
+ इदंच शब्दतः अर्थतश्च बृहत्त्वात् अरण्याध्ययनसंबन्धाच्च बृहदारण्यकमित्युच्यते ।
+
+ औपनिषदसिद्धान्तानामाकरः बृहदारण्यकम्  
+  
+ जनकयाज्ञवल्क्यसंवादे 'अत ऊर्ध्वं विमोक्षायैव ब्रूहि '(बृ.6-3-33)इति जनकेनानुयुक्तस्य याज्ञवल्क्यस्य भयनिमित्तनिरुपणमुखेन स्वयमेव,विमोक्षाय निर्णेतव्याः सर्वेऽपि प्रश्नाः निर्णीताः बृहदारण्यके, न किमपि निर्णेतव्यमवशिष्यते इति बृहदारण्यकमभिधते । तथा हि,"सोऽहं भगवते सहस्रं ददामि अत उर्ध्वं विमोक्षायैव ब्रूहीति,अत्र ह याज्ञवल्क्यो बिभयाञ्चकार, मेधावी राजा सर्वेभ्यो मा अन्तेभ्य उदरौत्सीदिति ।"(बृ.6-3-33) इति श्रुतिः ।
+
+ अत्र याज्ञवल्क्यस्य भीतिः नाज्ञानात्, नापि वक्तृत्वसामर्थ्याभावात् ।  
+परन्तु, यद्दत् मया निणीतं प्रश्नरुपं विमोक्षार्थं तत्तत् एकदेशत्वेनैव कामप्रश्नस्य गृहीत्वा पुनः पुनः विमोक्षाय ब्रूहीति पर्यनुयुङ्क्ते राजा मेधावित्वात् । अतः मदीयं सर्वमपि विज्ञानं कामप्रश्नव्याजेनोपादित्सतीति । दमयन्तीं वर्णयन्तं हंसं प्रति 'अमुना तव शंसितेन तु स्वद्दृशैवाधिगतामवमि ताम्' (नैष.2-54)इति नलवचनमुखेन स्वीयवर्णनस्य दमयन्तीप्रत्यक्षापादकतया लोकोत्तरत्वं महाकविः श्रीहर्ष इव, याज्ञवल्क्यभयकारणनिरुपणमुखेन मोक्षार्थसर्वंप्रश्ननिर्णायकत्वं स्वस्य स्फुटीकरोति बृहदारण्यकम् ।  
+ आत्मनः स्वरुपं , लोकतः तर्कशास्त्रेभ्यः वेदादपि विधिकाण्डात् नावगम्यते, परन्तु उपनिषद्भरेव इत्यौपनिषदसिद्धान्तः । तदुक्तं भाष्यकारैः समन्वयसूत्रे, "नन्वात्मा अहंप्रत्ययविषयत्वादुपनिषत्स्वेव विज्ञायते इत्यनुपपन्नम् । न, तत्साक्षित्वेन प्रत्युक्तत्वात् । न ह्यहंप्रत्ययविषयकर्तुव्यतिरेकेण तत्साक्षी सर्वभूतस्थः सम एकः कूटस्थनित्यः पुरुषः विधिकाण्डे तर्कसमये वा केन चिदधिगतः सर्वस्यात्मा ।"इति ।  
+ इममर्थं 'तं त्वौपनिषदं पुरुषं पृच्छामि'(बृ5-9-26)इति बृहदारण्यकं याज्ञवल्क्यमुखेन मुक्तकण्ठं ब्रूते । उपनिषत्स्वेव प्रतिपाद्दमानतैव औपनिषदत्वम् । सर्वज्ञकल्पस्यापि शाकल्यस्यापि शाकल्यस्य ईद्दृशौपनिषदपुरुषापरिज्ञानादेव याज्ञवल्क्यात् पराजचः श्रूयते ।  
+ आगमप्रधानं मधुकाण्डं प्रत्यगभिन्नब्रह्मास्वरुपं बोधयति । मुनिकाण्डन्तूपपत्तिप्रधानम् । उभयत्राप्यवसाने सर्ववेदान्तार्थः संक्षेपेणोपसंहृतः । तथाहि ---मधुब्राह्मणावसाने "तदेतद्वह्मापूर्वमनपरमनन्तरमबाह्यमयमात्मा ब्रह्म सर्वानुभूः इत्यनुशासनम् ।"(बृ.4-5-19)इति श्रूयते । अत्रानुशासनमित्यस्य सर्ववेदान्तोपदेश इत्यर्थः । कोऽसावुपदेशः?ब्रह्म कारणरहितं , तथा कार्यरहितम् ।नापि तस्यान्तराले जात्यन्तराले जात्यन्तरमस्ति । नापि ततो बाह्यं किञ्चिदस्ति । किं तत् ब्रह्म?यः प्रत्यागात्मा द्रष्टा श्रोता मन्ता बोद्धा सर्वानुभूः सर्वात्मना सर्वमनुभवति स एव पूर्वोक्तं ब्रह्म इति कार्यकारणविनिर्मुक्तमेकरसं पूर्णं प्रत्यगभिन्नं ब्रह्म सर्ववेदान्तसारं स्वयं ब्रूते ।
+
+ एवं मुनिकाण्डेऽपि षष्ठाध्यायस्य चतुर्थब्राह्मणावसाने"स वा एष महानज आत्मा अजरोऽमरोऽमृतोऽभयो ब्रह्म अभयं वै ब्रह्म, अभयं हि वै ब्रह्म भवति य एवं वेद। "(बृ.6-4-25) इति श्रूयते । जन्मजरामरणादिरहितः अविद्दाकार्यभयरहितः आत्मा भयरहितं ब्रह्मैव । तद्विद्वानपि अभयं ब्रह्मौव भवति इति सर्वबृहदारण्यकसारर्थः उपसंहृतः ।  
+तथाच भाष्यम् -----"इदानीं समस्तस्यैवारण्यकस्य योऽर्थः उक्तः, स समुच्चित्य अस्या ं कण्डिकायां निर्दिश्यते , एतावान् समस्तारण्यकार्थः इति ।"इति ।  
+ एवं षष्ठे चतुर्थब्रह्मणे ,"स वा एष महानज आत्मा योऽयं विज्ञानमयः प्राणेषु य एषोऽन्तर्हृदय आकाशः तस्मिन् शेते सर्वस्य वशी सर्वस्येशानः ।"(बृ.6-4-22)इति श्रूयते ।  
+ अत्र 'योऽयं विज्ञानमयः' इत्यादिना जीवमनूद्द, तस्यानधिगतासंसार्यात्मत्वं बोध्यते । अत्र 'सर्वस्य वशी','सर्वस्येशानः','न कर्मणा वर्धते नो कनीयान् ',इत्यादीनि
+असंसारिस्वभावप्रतिपादनपराणि श्रूयन्ते ।  
+ क्वचित् परस्य जीवरुपेण प्रवेशकथनेन प्रत्यगभेदः प्रतिपादितः । अव्याकृतकण्डिकायां , "स एष इह प्रविष्टः आनखाग्रेभ्यः यथा क्षुरः क्षुरधाने, विश्वंभरो वा विश्वंभरकुलाये ।"(बृ.3-4-7)इत्यादिना स्वसृष्टकार्ये देहादौ प्रवेशमुक्तत्वा, तत्र सामान्यतः विशेषतश्च व्याप्तिं सद्दृष्टान्तमभिधाय, तस्यैव प्राणनादिक्रियाकर्तुः प्राणादिनामभाक्त्वं दर्शयति "स प्राणन्नेव प्राणो नाम भवति , पश्यन् चक्षुः श्रृण्वन् श्रोत्म् ।"(बृ.3-4-7) इत्यादिना ।  
+ क्वचित् परं प्रकृत्य तदतिरिक्तं जीवं कण्ठरवेण निषेधति । अन्तर्यामिण निरुप्य "नान्योऽतोऽस्ति द्रष्टा नान्योऽतोऽस्ति श्रोता ।"(बृ.5-7-23)इत्यादिना तदतिरिक्तं द्रष्टारं निषेधति ।  
+ एवमक्षरब्राह्मणेऽपि "नान्यदतोऽस्ति द्रष्टृ नान्यदतोऽस्ति श्रोतृ।"(बृ.5-8-11) इत्यादिकमुपन्यस्तम् ।  
+ अपरत्र, इन्द्रेन्द्राणीसम्बन्धादिवर्णनपुर्वकं विश्वस्य वैश्वानरस्य तैजसे सूत्रात्मनि, तस्य प्राज्ञे कारणात्मनि, तस्य च 'नेति नेति ' इति निर्विशेषे अकार्यकारणे च लयप्रतिपादनमुखेन ब्रह्मस्वरुपं निरुपयति ।  
+ अन्यत्र, अशेषविशेषशून्यतया निर्विशेषमात्मतत्वमैदम्पर्येण निरुपयति , "स होवाचैतद्वै तदक्षरं गार्गि ब्राह्मणा अभिवदन्ति, अस्थूलमनणु अह्रस्वमदीर्घमलोहितमस्नेहमच्छायमतमोऽवाय्वनाकाशमसङ्गमरसमगन्धचक्षुष्कमश्रोत्रमवागमनोऽतेजस्कमप्राणमुखममात्रमनन्तरमबाह्यं न तदश्नाति किञ्चन न तदश्नाति कश्चन।"(बृ.5-8-8) इति ।  
+ एवं सर्वंविशेषनिषेधकं "स एष नेति नेत्यात्मा अगृह्यो न हि गृह्यते अशीर्यो न हि शीर्यते , असङ्गो न हि सज्यते असितो न व्यथते न रिष्यति।" (बृ.5-9-26,6-2-4,6-3-22,6-5-15)पञ्चमषष्ठाध्याययोः द्दृश्यते । चतुर्थे च विशेषप्रतिषेधादेशादन्यः ब्रह्मण आदेशो नास्ति इत्यपि चोक्तम्"अथात आदेशो नेति नेति न ह्येतस्मादिति नेत्यन्यत्परमस्ति।"(बृ.4-3-6) इति । सर्वविशेषरहितप्रतिपादने महान्निर्भरोऽवगम्यते ।  
+ मैत्रेयीब्राह्मणं मधुकाण्डे चतुर्थे, मुनिकाण्डे षष्ठे चान्ते ग्रथितमास्ते ।अतश्च अभ्यासलिङ्गात् तत्प्रतिपादितार्थे ऐदम्पर्यमवगम्यते । तच्च षष्ठाध्यायस्थितं ब्रह्मणं मधुकाण्डाद्दुक्तस्य सर्वस्यार्थस्य निगमनस्थानीयम् । तथाच भाष्यम्---  
+   
+ आगमप्रधानेन मधुकाण्डेन ब्रह्मतत्त्वं निर्धारितम् । पुनः तस्यैवोपपत्तिप्रधानेन याज्ञवल्क्यीयेन काण्डेन पक्षप्रतिपक्षपरिग्रहं कृत्वा विगृह्य वादेन विचारितम् ।  
+शिष्याचार्यसम्बन्धेन च षष्ठे प्रश्नप्रतिवचनन्यायेन सविस्तरं विचार्योपसंहृतम् ।  
+अथेदानीं निगमनस्थानीयं मैत्रेयीब्राह्मणमारभ्यते ।"इति ।  
+ अतः तदर्थोऽत्र संग्रहेण निरुप्यते ।  
+ याज्ञवल्क्यो महर्षिः गृहस्थाश्रमात् संन्यासाश्रमं गन्तुमिच्छन्, स्वभार्यां मैत्रेयीं प्रति कात्यायन्या सपत्न्या सह अर्थसंविभागं ते करिष्यामि इत्यवोचत् ।  
+सा तु अमृतत्वार्थिनी, परिपूर्णेन वित्तेन किमहममृता स्यामिति तं पप्रच्छ । याज्ञवल्क्यः, अशनवसनादिमतां यथा जीवितम तथैव तवापि स्यात् , वित्तेन अमृतत्वस्य नाशास्ति।यदि वित्तसाध्यानि कर्माणि अमृतत्वे उपयुज्येरन्, तदा वित्तेनामृतत्वस्याशा भवेत् । तदेव न ।ज्ञानसाध्यत्वादमृतत्वस्य, कर्मणांच ज्ञानविरोधिनां तत्सहभावानुपपत्तेः , इति प्रत्युवाच । ततो मैत्रेयी , न मे वित्तेन प्रयोजनम् । अतः यदेव भगवान्वेद तदेवमृतत्वसाधनं ब्रूहि , इत्युवाच। ततः अमृतत्वसाधनं ज्ञानमुपदिदेश महर्षिः ।  
+ पत्यादयः जायादीनां प्रियाः भवन्ति । कस्मै प्रयोजनाय प्रिया भवन्ति इति विचारे ,न पत्यादीनां प्रयोजनाय प्रिया भवन्ति , अपि तु स्वप्रयोजनायैव ।  
+अत एव तेषु स्वेष्टसंपादकत्वदशायामिव स्वानिष्टसंपादकत्वदशायां न प्रेम ।  
+अतश्च सोपाधिकमेव प्रियत्वं तेषाम् । आत्मन एव निरुपाधिकं प्रियत्वम् ।  
+तस्मात् अनात्मभ्यो विरज्य, यत्र साक्षात् प्रेम, स एवात्मा अरे द्रष्टव्यः, आत्मदर्शनाय श्रवणं, युक्तिभिः चिन्तनं, निदिध्यासनञ्च कर्तव्यम् । 'आत्मा वा अरे द्रष्टव्यः ? आत्मनो दर्शनेन सर्वमपि विदितं भवति । समारोपितस्य भुजङ्गस्य तत्त्वं यथा रज्जु- , तथा नामरुपात्मकस्य जगतः पारमार्थिकं तत्त्वमात्मैव । अतः रज्ज्वां विदितायां भुजङ्गस्य तत्त्वं यथा विदितं भवति, एवमात्मनि विदिते सर्वजगत्तत्वं विदितं भवति।  
+अतः आत्मैव द्रष्टव्यः नतु तदतिरिक्तं जगत् स्वरुपेण द्रष्टव्यम् । कुतः ?  
+ 'ब्रह्म तं परादात् योऽन्यत्रात्मनो ब्रह्म वेद ।'(बृ.6-5-7) आत्मनः अन्यत्र--अन्यत् , ब्रह्म ब्राह्मणजातिं यो वेद तमात्मान्यत्वेन द्दृष्टा ब्राह्मणजातिः पराकुर्यादमृतत्वपदात् । अत्र अन्यत्रेति त्रल्प्रत्ययः प्रथमार्थे बोध्यः । 'समं समाधानमन्यत्राभिनिवेशात् ','अन्यत्र भीष्माद्गङ्गेयात् 'इत्यादौ प्रथमार्थे त्रल्प्रत्ययप्रयोगस्य स्वारसिकस्य दर्शनात् । अत एव समनन्तरं , 'इदं ब्रह्म इदं क्षत्रं इमे लोकाः इमे वेदाः इमानि भूतानि, इदं सर्वं यदयमात्मा 'इति सामानाधिकरण्येन वाक्यं समञ्जसं भवति । आत्मैव तत्त्वं सर्वस्यापि , रज्जुरिव भुजङ्गस्य ।  
+ दुन्दुभ्यादिद्दृष्टान्तैश्च जगतः चिदात्ममात्रत्वं निरुपयति श्रुतिः । यस्य ग्रहं विना यत् ग्रहीतुं न शक्यते तत् ततो नातिरिच्यते । यथा हन्यमानदुन्दुभिप्रभवशब्दसामान्यग्रहं विना अगृह्यमाणाः ताद्दृशशब्दविशेषाः ताद्दृशशब्दसामान्यादनतिरिक्ताः ।तथा स्थितिकाले नामरुपात्मकजगतः चिद्ग्रहणं विना अग्रहणात् जगदिदं चिदात्माव्यतिरिक्तम् ।  
+ एवं आर्द्रैधाग्नेः उपचितस्य सकाशात् धूमविस्फुलिङ्गादयः व्युच्चरन्ति एवमेव अस्य महतः परमार्थस्यात्मनः सकाशात् निश्वसितवदनायासेन ऋग्वेदादिकं नामजातं लोकादिकं सर्वमपि उत्पन्नम् । यथा अग्निमात्रमवगम्यते प्रथमं क्षुद्राणां विस्फुलिङ्गानामुपादानम् । तदनन्तरं ततो विस्फुलिङ्गा व्युच्चरन्ति । न चैते अग्नेः तत्त्वान्यत्वाभ्यां निर्वक्तुं शक्यन्ते । एवमेव महतो भूतात् व्युच्चरत् नामरुपात्मकं जगत् ततः तत्त्वान्यत्वाभ्यां न निर्वक्तुं शक्यते ।  
+ एवं प्रलयसमयेऽपि तस्मिन्नेवात्मनि अनुप्रवेशो जगतः सर्वासामपां समुद्रा इव । अतोऽप्यात्मैव जगत् ।  
+ 'इदं सर्वं यदयमात्मा' इति सिद्धम् ।  
+  
+ विद्दानिमित्ते जगत आत्यन्तिकप्रलये मोक्षाख्ये , अयमात्मा अनन्तरः अबाह्यः कृत्स्नः प्रज्ञानघनः अवतिष्ठते ।  
+   
+ सिन्धुजलं भौमतैजससंपर्कात् कठिनतां प्राप्तं सैन्धवखिल्यं भवति ।तस्य स्वयोनावुदके प्रक्षेपे सति स्वकारणसंपर्कात् काठिन्यविलये सति सैन्धवखिल्यो विलीयते ,उदकमात्रमवतिष्ठते । एवं विज्ञानघनस्य अद्भयः चन्द्रसूर्यादिप्रतिबिम्बवत् फेनबुद्बुदादिस्थानीयेभ्यः कार्यकरणसंधातेभ्यः समुत्थितस्य खिल्यभावः जीवभावः । तदानीं विशेषसंज्ञा रुपादिविषया रुपादिविषया अहममुष्य पुत्रोऽस्मीत्यादिका च भवति । यदा शास्त्रचार्योपदेशजनितब्रह्मविद्दया खिल्यभावहेतुभूतकार्यकरणसङ्घातात्मकभूतानां विनाशः, तदा अपां विलयने तन्निमित्तचन्द्रसूर्यादिप्रतिबिम्बविलयनवत् तत्संपर्ककृतखिल्यभावनाशः भवति । यथा च चन्द्रसूर्यादिस्वरुपमेव परमार्थवतिष्ठते , एवं तथा खिल्यभावविलयने सति प्रज्ञानघनमनन्तरमपारं स्वच्छमवतिष्ठते ।  
+ एवमुक्तवति याज्ञवल्क्ये, प्रज्ञानघनः , इत्युक्तत्वा, पुनः 'न प्रेत्य संज्ञास्ति'इति संज्ञासामान्यनिषेधनं विरुद्धमिव भाति इति मैत्रेयी 'अत्रैव मा भगवान् मोहान्तमापीपितत्'(बृ.6-5-14)इति पप्रच्छ । याज्ञवल्क्यः अवोचत्,'न वा अरे अहं मोहं ब्रवीमि अविनाशी वा अरेऽयमात्मा अनुच्छित्तिधर्मा ।' (बृ.6-5-14)न प्रेत्य संज्ञास्ति इति न संज्ञासामान्यस्य निषेधः । अपितु विशेषसंज्ञायाः । विशेषविज्ञानं तु खिल्यभावे सति भवति । तदा द्वेतमिव भवति । अन्यः कर्ता अन्येन करणेन अन्यत् कर्मभूतं रुपादिकं पश्येत् । ब्रह्मविद्दया खिल्यभावे निवृत्ते यथा रज्जावारोपितसर्पादयः रज्जुतत्वज्ञाने सति अधिष्ठानरज्जुमात्रं भवन्ति । तथा ब्रह्मविद्यया द्वैदानां सर्वेषां आत्ममात्रतासंवत्तेः द्वैताभावात् क्रियाकारकादिभेदासंभव- । 'यत्र हि द्वैतमिव भवति , तदितर इतरं पश्यति ' ' यत्र त्वस्य सर्वमात्मैवाभूत तत्केन कं पश्येत् '(बृ.6-5-15)इति श्रुतिः । विषयस्य द्वैतस्याभावेऽपि आत्मानमेव पश्येत् इत्यपि न वक्तुं शक्यते ,तस्य स्वप्रकाशत्वात् । येनेदं सर्वं विजानाति तं केन विजानीयात् । अतः खिल्यभावनिवृत्तौ प्रज्ञानघनममलमवतिष्ठते ।  
+ नेति नेत्यात्मा अगृह्यो न हि गृह्यते अशीर्यो न हि शीर्यते असङ्गो न हि सज्यते असितो न व्यथते न रिष्यति । एवंरुप आत्मा चतुर्थे पञ्चमे , षष्ठे जनकयाज्ञवल्क्यसंवादे, अत्र चोक्तः । नातः परममृतत्वसाधनमुपदेष्टव्यमस्ति।'उक्तानुशासनासि'इत्युक्तत्वा याज्ञवल्क्यः पारिव्राज्याश्रमं स्वीचकार।  
+ एवं, अमृतत्वसाधनज्ञानं अहं ब्रह्मस्मीति ज्ञानमेव , भेदज्ञानमाविद्दकं,ब्रह्मण एव सतः ज्ञानमात्रात् ब्रह्मभावः, ज्ञानस्य व्यवधाननिवृत्तावेवोपयोगः, अत एव मोक्षो नित्यः , ज्ञानानन्तरं मोक्षप्राप्तेरर्वाक् कर्तव्यं किमपि नास्ति, दर्शनकाल तथाहि ,'आत्मेत्येवोपसीत'(बृ.3-4-7)इति ब्रह्मविद्दां सूत्रयित्वा तद्वयाख्यानायैव कृत्स्नाप्युपनिषत् प्रवृत्ता। ब्रह्मविद्दाफलनिरुपणार्थं 'तदाहुः यद्ब्रह्मविद्दया सर्वं भविष्यन्तो मनुष्या मन्यन्ते, किमु तद्ब्रह्मावेत् यस्मात्तत्वसर्वमभवत्'(बृ.3-4-9)इति चोद्दमुद्भाव्य'ब्रह्म वा इदमग्र आसीत् तदात्मानमेवावेत् अहं ब्रह्मस्मीति तस्मात्तत्सर्वमभवत् ।'(बृ.3-4-10)इति परिहारमाचष्टे । सर्वभावः पूर्णब्रह्मभावः मोक्षः । स च ब्रह्मण एव अहं ब्रह्मस्मीति ज्ञानाद्भवतीत्युक्त्या, अपूर्णत्वमज्ञानकृतम्, विद्दया अज्ञाने निवृत्ते पूर्णभावः प्राप्यते इति लभ्यते । प्राप्तकण्ठगतचामीकरादिप्राप्तेः ज्ञानाधीनायाः अज्ञाननिवृत्तिमात्रापेक्षत्वात् । ज्ञानमात्रेण अब्रह्मभावनिवृत्त्या अब्रह्मत्वं-ब्रह्मभेदः आविद्दकः मिथ्येति लभ्यते ।'अथ योऽन्यां देवतामुपास्ते अन्योऽसावन्योऽहमस्मीति न स वेद यथा पशुः ।'(बृ.3-4-10)इति स्पष्टेव भेदबुद्धेः अविद्दाधीनत्वं दर्शयति । प्रकाशोत्पत्तिक्षणे तमस इव ब्रह्मविद्दासमुत्पत्तिकाले अविद्दाया निवृत्तेः ज्ञानसमकालमेव मुक्तिः । इममर्थमाह"तद्वैतत्पश्यनृषिर्वामदेवः प्रतिपेदे अहं मनुरभवं सूर्यश्चेति ।"(बृ.3-4-10)इति श्रुतिः । तिष्ठन् गायतीत्युक्ते यथा शतृप्रत्ययेन स्थितिसमानकालिकत्वं गानक्रियायाः गम्यते,स्थितिगानयोर्मध्ये कर्तव्यान्तरञ्च न प्रतीयते ।तथा पश्यन् प्रतिपेदे इत्युक्त्वा दर्शनसर्वात्मभावयोः समालकालिकत्वं मध्ये कार्यान्तराभावश्च गम्यते ।  
+ 'ब्रह्म वा इदमग्र आसीत्'इत्यादिश्रुत्यर्थ एव सप्तमाध्याये सारतया ,  
+ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।  
+ पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥(बृ.7-1)  
+इति मन्त्रेणोक्तः । अयमेव अस्या उपनिषदः प्रवचनोपक्रमे पठनीयः शान्तिमन्त्रः ।  
+ ज्ञानकर्मसमुच्चयो न मोक्षसाधनमिति स्फुटयति बृहदारण्यकम्  
+ प्रवर्ग्यप्रकरणे वक्तुं प्राप्तावसरामपि कक्ष्यमधुभूतां ब्रह्मविद्दां, कर्मप्रकरणादुत्तीर्य निरुपयत् बृहदारण्यकं, विद्दायाः कर्मणा विरोधात् कर्मनिरपेक्षैव विद्दा अमृतत्वसाधनं न कर्मसमुच्चितेति स्फुटयति ।  
+ एवं षष्ठे जनकयाज्ञवल्क्यसंवादोपक्रमे, प्रथमं जनकस्य आत्मतत्त्वविषयकप्रश्नकरणे निमित्तं अग्निहोत्रनिमित्तके पूर्वं वृत्ते संवादे तुष्टेन याज्ञवल्क्येन जनकायकामप्रश्नवरदानमिति ब्रूते, "यज्जनकश्च वैदेहः याज्ञवल्क्यश्च अग्निहोत्रे समूदाते, तस्मै ह याज्ञवल्क्यो वरं ददौ, स ह कामप्रश्नमेव वव्रे, तं हास्मै ददौ,तंह सम्राडेव पूर्वं पप्रच्छ।"(बृ.6-3-1)इति श्रुतिः । अग्निहोत्रविचारावसरे ईद्दृशविद्दाविषयप्रश्नानुक्तिः विद्दायाः कर्मणा विरोधेन स्वतन्त्रफलकत्वाविष्कारणायैव।  
+ तथा च भाष्यम्----  
+ "तत्रैवानुक्तिः ब्रह्मविद्दायाः कर्मणा विरुद्धत्वात्, विद्दायाश्च स्वातन्त्र्यात् ,स्वतन्त्रा हि ब्रह्मविद्दा सहकारिसाधनान्तरनिरपेक्षा पुरुषार्थसाधनेति च।"इति ।  
+ 'यत्र हि द्वैतमिव भवति , तदितर इतरं पश्यति 'इत्यविद्दावस्थायां क्रियाकारकादिव्यवहारमुक्त्वा,'यत्र त्वस्य सर्वमात्मैवाभूत् तत्केन कं पश्येत्'(बृ.6-5-15)इति श्तिः ब्रह्मविज्ञानिनः सर्वस्यात्मभूतत्वात् क्रियाकारकादिभेदव्यवहारमाक्षिपन्ती, भेदबुद्धिसापेक्षस्य कर्मणः विद्दया विरोधं स्पष्टीकरोति।  
+ एवं षष्ठे "स वा एष महाजन आत्मा "(बृ.6-4-22)इत्यादिना कृत्स्नबृहदारण्यकप्रतिपादितमात्मस्परुपमनूद्द, तञ्चात्मानं लोकशब्देनोक्त्वा, आत्मलोकेच्छवः---मुमुक्षवः पारिव्राज्यं स्वीकुर्वन्ति इति निरुपयन्ती"एतमेव प्रव्राजिनो लोकमिच्छन्तः, प्रव्रजन्ति"(बृ.6-4-22)इति श्रुतिः मुक्तये संन्यासमनुष्ठेयं ब्रूते। तदनन्तरञ्च,"एतद्धस्म वै तत्पूर्वे विदांसः प्रजां न कामयन्ते, किं प्रजया करिष्यामः येषां नोऽयमात्मायं लोकः इति, ते ह स्म पुत्रैषणायाश्च वित्तैषणायाश्च लोकैषणायाश्च व्युत्थाय अथ भि  
+क्षाचर्यं चरन्ति।"(बृ.5-5-1)इति संन्यासविधिरुक्तः ।  
+ चतुर्थे षष्ठे च मैत्रेयीब्राह्मणे, मोक्षं प्रति कर्मणः कारणत्वं नास्तीति प्रतिपादितम् । 'अमृतत्वस्य तु नाशास्ति वित्तेन'इति वित्तसाध्येन कर्मणा अमृतत्वं प्राप्तुमाशापि नास्तीत्यभिधानात् कर्मणां मोक्षसाधनत्वाभावे महान्निर्भर आविष्कृतः । अन्ते 'उक्तानुशासनासि'इत्यनुशासनसमाप्तिमभिधाय,'याज्ञवल्क्यो विजहार'(बृ.6-5-15)  
+इति पारिव्राज्यस्वीकाराभिधानात् संन्याससमुच्चितमेव ब्रह्मज्ञानममृतत्वसाधनं न कर्मसमुच्चिमिति निश्चिनुमः ।  
+ ब्रह्मविद्दायाः स्वतन्त्रायाः अमृतत्वसाधनत्वेऽपि, कर्मणामुपयोगनिरुपणमुखेन कर्मकाण्डस्य ज्ञानकाण्डेन संबन्धं स्पष्टमाचष्टे। "तमेतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन।"(बृ.6-4-22)इत्यादिवाक्येन कर्मणां प्रवृत्तिपर्यन्तविविदिषाजनने उपयोग उच्यते । स्वाद्वन्नभोजनस्य विशिष्टतृप्तिसाधनत्वज्ञानवतोऽपि रोगार्तस्य सम्यग्जरणशक्तिविहीनस्य बुभुक्षा नोत्पद्दते। औषधसेवया निवृत्तामयस्य तु प्रवृत्तिपर्यन्ता तीव्रा बुभुक्षा जायते। एवं विद्दाप्रतिबन्धकपापादिमलमलिनान्तः करणस्य ब्रह्मवेदने मोक्षसाधनत्वज्ञाने सत्यपि न तीव्रा विविदिषा जायते । कर्मानुष्ठानक्षपतिकल्मषस्य तु प्रवृत्तिपर्यन्ता विविदिषा जायते । एवं विविदिषोत्पादनद्वारा कर्मणामारादुपकारकतेति काण्डद्वयसंबन्धः स्फुटमुदीरितः । कर्मणः विविदिषोत्पादकत्वकथनेन कर्मणि अविद्वानधिकारी इति सिद्धयति ।  
+ एवमुपासनानां न साक्षात् मोक्षमाधनता, अपि तु ब्रह्मविद्दार्थता इत्यौपनिषदसिद्धान्तः षष्ठे निरुपितः। तथाहि षष्ठे द्वितीयब्राह्मणए "एताभिरुपनिषद्भिः समाहितात्मासि, एवं बृन्दारक आढयः सन्नधीतवेद उक्तोपनिषत्कः इतो विमुच्यमानः क्व गमिष्यसि।"  
+(बृ.6-2-1)इति पप्रच्छं जनकं याज्ञवल्क्यः । जनकेन 'नाहं तद्भगवन् वेद यत्र गमिष्यामि'इति प्रत्युक्ते सति, याज्ञवल्क्यः'अथं वै तेऽहं तद्वक्ष्यामि'इत्यारभ्य इन्धादिनिरुपणमुखेन नेति नेत्यात्मानं निरुप्य 'अभयं वै जनक प्राप्तोऽसि '(बृ.6-2-4)इत्यवोचत्। अनेन प्रघट्टकेन ब्रह्मविद्दाप्रकरणस्थानां सर्वेषामुपासनानां ब्रह्मविद्दापर्यवसायिता , क्रममुक्तिफलता च स्फुटीकृता । पराक्रान्तञ्चात्र वार्तिककारैः।  
+ एवं ब्रह्मभिन्नस्यापरमार्थत्वे वेदस्याप्यपरमार्थत्वात् कथं तेन सत्यब्रह्मप्रतिपत्तिः इत्याक्षेपमपि परिहरति'यथा पदेनानुविन्देत्'(बृ.3-4-7)इति श्रुतिः।  
+ पदं हि नाम नियतानुपूर्वीकाणां हृस्वदीर्घत्वादिविशिष्टवर्णानां समुदायः।विभूनां नित्यानाञ्च वर्णानां नियतपौर्वापर्यं न भाविकं, न वा हृस्वत्वादिकम् ।व्यञ्जकध्वनिगतं हृस्वत्वादिकं वर्णाभिव्यक्तिगतं पौर्वापर्यञ्च वर्णेष्वारोप्यते। आरोपितात् विशिष्टपदात् परमार्थभूस्यार्थस्य प्रतीतिरिव, अपरमार्थवेदादपि परमार्थब्रह्मप्रतीतिर्भवतीति निरुक्तश्रुतेरभिसन्धिः।  
+ एवं , सृष्टिश्रुतिः न ब्रह्मणः सप्रपञ्चत्वप्रतिपादनार्था, अपि तु निर्विशेषब्रह्मप्रतिपत्त्यर्था इत्यौपनिषदसिद्धान्तः "रुपं रुपं प्रतिरुपो बभूव । तदस्य रुपं प्रतिचक्षणाय । "(बृ.4-5-19)इत्यादिवाक्येन प्रकटीकृतः ।  
+ औपनिषदसर्वस्वभूतः विवर्तवादः स्वप्ने बाधितमिथ्याभूतरथादिपदार्थसृष्टकथनेन  
+स्फुटितः । तथाहि ,षष्ठे "न तत्र रथा न रथयोगो न पन्थानो भवन्ति । अथ रथान् रथयोगान् पथः सृजते "(बृ.6-3-10)इति श्रुतिः प्रतिपन्नोपाधौ त्रैकालिकनिषेधप्रतियोगित्वलक्षणमिथ्यात्वाक्रान्तानां रथादीनां स्वप्ने सृष्टिमभिदधती विवर्तवादं प्रकटीकरोति ।  
+ 'यस्मिन् पञ्च पञ्चजना आकाशश्च प्रतिष्ठितः '(बृ.6-4-17)इत्यादिना द्वैतवत्त्वेन ब्रह्मोक्त्वा , तत्र 'नेह नानास्ति किञ्चन'(बृ.6-4-19)इति द्वैतं निषेधती श्रुतिः मुक्तकण्ठं द्वैतस्य मिथ्यात्वं ब्रूते।  
+ किञ्च, आत्मसाक्षात्कारे जाते हृदयगतकामानां नाशे जीवद्दृशायामेव ब्रह्मभावं मोक्षमाप्नोति। तस्य ब्रह्मविदः शरीरे अहंममाभिमानो नास्ति। यथा अहिनिर्ल्वयनी अहेरहंममाभिमानहीना वल्मीके प्रत्यस्ता शेते, तथा तस्य शरीरं त्यक्ताभिमानं शेते । तदानीमेव आध्यासिकस्य शरीरसम्बन्धस्य नाशात् अशरीरः ब्रह्मौव ।प्रारब्धावसाने शरीरे पतिते तस्य प्राणाः नोत्क्रामन्ति । उत्क्रान्तिहेतोः कर्मणो नष्टत्वात् । समुद्रोर्मयः समुद्र इव प्राणाः ब्रह्मणि लीयन्ते । सर्वं समवनीयते । गतिहेतोरभावात् न कुत्रापि गतिः । नाममात्रमविशिष्टं भवति । शुक्रो मुक्तः इत्यादिव्यवहारः जनानां भवति । ईद्दृशी जीवन्मुक्तिः विदेहमुक्तिश्चौपनिषदसिद्धा स्फुटीकृता बृहदारण्यके । अत्र चार्थे, " अथाकामयमानः योऽकामः निष्क्रामः आप्तकामः आत्मकामः, न तस्य प्राणा उत्क्रान्ति, ब्रह्मौव सन् ब्रह्माप्येति "(बृ.6-4-6)  
+ "यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः ।  
+ अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते ॥ "  
+तद्दथा अहिनिर्ल्वयनी वल्मीके मृता प्रत्यस्ता शयीत एवमेवेदं शरीरं शेते । अथायमशरीरोऽमृतः प्राणो ब्रह्मैव तेज एव । "(बृ.6-4-7)इति पञ्चमाध्यायगतवाक्यजातञ्चानुसन्धेयम् ।
+
+ "यत्रायं पुरुषो म्रियते उदस्मात्प्राणाः क्रामन्ति आहो 3 नेति , नेति होवाच याज्ञवल्क्यः , अत्रैव समवनीयन्ते स उच्छ्वयत्याध्मातो मृतः शेते । (बृ.5-2-11)  
+यत्रायं पुरुषो म्रियते किमेनं न जहातीति , नामेति।"(बृ.5-2-12)इति पञ्चमाध्या  
+यगतवाक्यजातञ्चानुसन्धेयम् ।  
+ किञ्चान्यत् , जनको वैदेहः सम्राट् कर्मणि निष्णातः बह्वचार्यसेवी उपासनातत्त्वेदी अनुमानकुशलः अत्र षष्ठे प्रष्टा उपस्थापितः । षट्प्रश्नीनिर्णयेन तस्य कर्मतत्त्वेदित्वं, षडाचार्यब्रह्मणेन बह्वचार्यसेवित्वं, गायत्र्युपासकाय आश्वतराश्वये बुडिलाय गायत्रीमुखोपदेशकरणेन उपासनातत्त्ववेदित्त्वञ्चावगम्यते ।
+
+ अनुमानमार्गेण प्रश्नकरणात् न्यायकुशलः ' मेधावी राजा ' इति याज्ञवल्क्येनाभिहितः, यज्ञादिषु विद्वत्समाजकल्पनाय विदुषां पक्षप्रतिपक्षपरिग्रहश्रवणकुतूहली विद्वद्भयो बहुद्रविणदाता च । अत एव ब्रह्मविदापि काशिराजेन अजातशत्रुणा "जनको जनकः  
+इति जना धावन्ति "(बृ.4-1-1)इति सासूयमिवाभिहितः। ईद्दृशस्य जनकस्य सर्वज्ञयाज्ञवल्क्यस्य च प्रश्नप्रतिवचनपरम्परोपन्यासेन आत्मनः व्यतिरिक्तत्वं, स्वयंज्योतिष्ट्वं ,अवस्थात्रयसंचारादिना असङ्गत्वं, कामकर्माद्दसंसृष्टत्वं, अद्वैतत्वं, अविलुप्तचितिस्वरुपत्वं निरतिशयानन्दरुपत्वं, जाग्रत्स्वप्नसञ्चारदार्ष्टान्तिकमिहलोकपरलोकसंचारादिकं , मुक्तस्वरुपञ्च न्यायमार्गेण व्युत्पादितं लक्ष्यते ।  
+ अपि च पञ्चमे जल्पकथाप्रसङ्गे याज्ञवल्यक्यविजयः वर्ण्यते । आश्वलादयो बहवः प्रष्टारः। एको याज्ञवल्क्यः प्रतिवक्ता। जयपराजयव्यवस्थाफलके जल्पे वादिव्यामोहकवाक्यप्रयोगस्यानुमतत्वात् तत्र कथकैः व्यामोहकोऽपि प्रश्न उपक्षिप्तः। तद्दथा प्रष्टा भुज्युः अश्वमेघयाजिषु अप्रसिद्धस्य पारिक्षितशब्दस्य घटनया 'क्व पारिक्षिता अभवन्'इति पप्रच्छ ।  
+ अविद्वान् मृतः विदेहः अस्वतन्त्रः किमाश्रितो भवति यमाश्रयमाश्रित्य पुनः कार्यकरणसङ्घातमुपादत्ते इत्यार्तभागेन पृष्टे सति, अस्य प्रश्नस्य प्रतिवचनं सदसि न वक्तव्यमिति आर्तभागं हस्तेन गृहीत्वा सदसोऽन्यत्र गत्वा रहसि याज्ञवल्क्यस्य प्रतिवचनवर्णनं "क्वायं तदा पुरुषो भवतीति , आहर सोम्य हस्तमार्तभाग, आवामेवैतस्य वेदिष्यावो न नावेतत्सजने । "(बृ.5-2-13)इति श्रुतिकृतं , सहृदयानां चेतश्चमत्करोति। रहसि ताभ्यां निर्णीतार्थस्य विहायाख्यायिकासंबन्धमस्मभ्यं "तौ ह यदूचतुः कर्म हैव तदूचतुः अथ यत्प्रशशंसतुः कर्म हैव तत्प्रशशंसतुः । "(बृ.5-2-13)इति स्वयमेव वर्णनं ततोऽपि चमत्कारमादधाति ।  
+ ब्राह्मणानामनुमतिमादाय गार्ग्याः पुनः प्रश्नावसरे, प्रथमप्रश्नप्रतिवचनानन्तरं, "सा होवाच नमस्तेऽस्तु याज्ञवल्क्य यो म एतं व्यवोचः अपरस्मै धारयस्वेति , पृच्छगार्गीति । "(बृ.5-8-5)इति वादिप्रतिवादिनोः संभाषणवर्णनं , तदनन्तरं द्वयोः परस्परजयैषिणोः वादसंरम्भव्यञ्जकं, पूर्वोक्तस्यार्थस्यावधारणाय प्रत्युक्तस्यैव प्रश्नस्य तया पुनरुक्तिः ,याज्ञवल्क्येनापि उक्तस्यैव प्रतिवचनस्य पुनरुक्तिः तदनन्तरं तस्याः द्वितीयप्रश्नोक्तिः इति च वर्णनमतीव चमत्करोति ।  
+ अन्ते, औपनिषदपुरुषमविदुषि विदग्धे शाकल्ये निर्जिते शापाग्निना दग्धे च सति, यः कामयते स मां पृच्छतु, अहं वा पृच्छामि, कः प्रतिवक्तुं समर्थः इत्येवं याज्ञवल्क्यस्य गर्जनं, "अथ होवाच ब्राह्मणा भगवन्तः यो वः कामयते स मा पृच्छतु, सर्वे वा मा पृच्छतु, यो वः कामयते तं वः पृच्छामि सर्वान्वा वः पृच्छामीति । ते ह ब्रह्मणा न दधृषुः । "(5-9-27)इति श्रुत्या वर्ण्यमानं, विद्दावीररसनिष्यन्दि लक्ष्यते ।  
+तत्सिद्धम्, उपपत्तिप्रधानं सर्वेषामौपनिषदसिद्धान्तानां निरुपकं रहस्यबोधकं बृहदारण्यकं शब्दतः अर्थतश्च बृहत्त्वात् अरण्याध्ययनसंबन्धाच्च बृहदारण्यकोपनिषद्व्यपदेशं लभते इति ॥  
+   
+ PART II
+
+ बृहदारण्यकोपनिषद्भाष्यपरिचयः
+
+माध्यन्दिनानामियमुपनिषत् ' द्वया ह प्राजापत्याः ' इत्यारब्धा भगवत्पादपूर्वकालिकैः श्रीमद्भर्दतृप्रपञ्चैर्व्याख्याता । काण्वानां माध्यन्दिनानाञ्च उपनिषत्पाठे तत्र तत्र भेदो लक्ष्यते । भर्तृप्रपञ्चभाष्यं भगवत्पादभाष्यमपेक्ष्ये ग्रन्थतो गुरुभूतम् । उपनिषद्भाष्योपक्रमे भगवत्पादानां ' अल्पग्रन्था वृत्तिरारभ्यते ' इति सूक्तिः वृत्तिशव्दितस्य स्वीयभाष्यस्य बहुग्रन्थात् र्भतुप्रपञ्चभाष्यात् वैलक्षण्यं प्रकटीकरोति । तदुक्तमानन्दगिरीये ------ "उषा वा अश्वस्येति । एतेन चिकीर्षिताया वृत्तेः भर्तृप्रपञ्चभाष्येणागतार्थत्वमुक्तम् । तद्वि ' द्वया ह ' इत्यादिमाध्यन्दिनश्रुतिमधिकृत्य प्रवृत्तम् । इयं पुनः ' उषा वा ' इत्यादिकाण्वश्रुतिमाश्रित्य । भर्तृप्रपञ्चभाष्याद्विशेषान्तरमाह
+----अल्पग्नथेति । "इति ।  
+   
+ भर्तृप्रपञ्चभाष्यं भगवत्पादानां समये विद्वद्भिरधीयमानमासीदिति, साक्षात् भाष्यकारान्तेवासिनां वार्तिककाराणां षष्ठेऽध्याये ' कामा येऽस्य हृदि श्रिताः ' (बृ.6-4-7) इति श्रुत्यर्थविचारावसरे स्थितं,  
+   
+ ' इति श्रीमन्महभर्तृप्रपञ्चस्य महीयसः ।  
+ व्याख्यामधीयते धीराः न्यायागमबहिष्कृताम् ॥ ' (बृ.4-4-412)  
+इति वार्तिकमावेदयति । अद्द लुप्तप्रायं वर्तते ।  
+ परन्तु तद्भाष्यवाक्यानि तन्मतनिरुपणावसरे वार्तिकव्याख्यातृभिः उद्धृतानि लक्ष्यन्ते । न्यायकल्पलतिकाकरैः तृतीयाध्यायस्य पञमे ब्राह्मणे (236)वार्तिकव्याख्यानावसरे ' न हि पुत्रोत्पादनादन्येन मनुष्यलोकजयोऽस्ति ' इति , (259)वार्तिकव्याख्याने ' संक्रामितात्मभारोऽपि नाग्निहोत्र परित्यजेत् ' इति ,(302) वार्तिकव्याख्याने 'सएष संप्रत्तिकृत् याव्ज्जीवति न तावदग्निहोत्रमृत्सृजेत् ' इति , ' पिण्डात्मदर्शी पिण्डात्मानमेवाभिसंपद्दते ' इति च भर्तृप्रपञ्चभाष्यवाक्यमुद्धृतम् ।  
+ शाश्त्रप्रकाशिकाकारैस्तु, ' ब्रह्म वा इदमग्न आसीत् ' इत्यादिश्रुत्यर्थनिरुपकस्य भर्तृप्रपञ्चभाष्यस्य विवर्तवादानुसारेण वार्तिककारीव्याख्यानविवरणासरे, तथा तत्र तत्र श्रुत्यर्थविवरणावसरे च अनेकानि वाक्यान्युद्धृतानि । तत्तत्प्रकरणवस्थवार्तिकान्यपि तद्भाष्यघटकपदसंघटितानि लक्ष्यन्ते ।  
+  
+(1) सर्वैकत्वं परं ब्रह्म परमात्मा यः । (2) स आत्मा ।  
+(3)ततः प्रच्युतानामविद्दाकृतो हिरण्यगर्भ आत्मा सर्वसाधारणः । तेनात्मना सर्वसत्वान्यात्मन्ति।  
+(4) तत्फलं ता एता दर्शनावस्थाः , एतदेवा चासां कार्यम् ।  
+(5) पिण्डात्मदर्शी पिण्डात्मानमेवाभिसंपद्दते प्रेत्य ।  
+(6)एवं परमात्मदर्शनावस्थायाः परमात्मभावः कार्यम् ।  
+(7)सा अविद्दा अहमेवेदं सर्वमित्यस्यासंबोधः ।  
+(8)एष विचारः किमु तद्ब्रह्मावेत् यस्मात्तत्सर्वमभवदिति ।  
+(9) ब्रह्मेति ब्रह्मभावी पुरुषो निर्दिश्यते ।  
+(10)इदमिति नामरुपव्याकृतं जगन्निर्दिश्यते ।  
+(11)द्वैतविषये अन्यस्य अन्येनात्मना अभिसंपत्तिः ।  
+(12)इह पुनरद्वैते सर्वभावानामनन्यत्वात् सर्वमञ्जसैवात्मत्वेनाभिसंपद्दते ।  
+(13)कर्मणः क्रियमाणस्य यो लोकः फलम् ।  
+(14) या त्वविशेषावस्था अनभिव्यक्ता परमात्मावस्थैव सा ।  
+(15)यथा रुपमात्मनैवात्मानं व्याकुरुते ,शब्दः आत्मानमेवं व्याकुर्यात् न परम् ।  
+(16)एषा हि अत्यन्तं प्रकाश्यविषया न कदाचित् प्रकाशयितव्यमन्तरेणोपलभ्यते ।  
+(17)वाचोऽधिदैवं पृथिवी शरीरं काठिन्याद्धनत्वात्तामसम् ।  
+(18)सैषा द्विविधेन रुपेण पार्थिवेन तैजसेन चावस्थिता ।  
+(19)एकैव देवता अग्निरध्यात्ममधिभूतञ्च ।  
+(20)एकां देवतामुपादददेकैकः कृत्स्नां देवतामुपादत्ते ।  
+(21) स एवायमग्निः पृथिव्यात्मना वागात्मना वा एकैकस्मिन्नविकारस्थले कात्स्न्येन द्रष्टव्यः ।  
+(22)यावत्येव वागाध्यात्ममधिभूतं वा तावती ।  
+(23) सैव हि पृथवी देवता तत्र तत्र तेन तेन व्यवतिष्ठते ।  
+(24) सर्वत्र हि मनश्चन्द्रो भवति ।  
+(25)मनोबुद्धयोरभेदेनात्मभूतत्वात् ।  
+(26)यत्र हि मनश्च बुद्धिश्च भेदेन विवक्ष्यते तत्र कामसंकल्पादिविषयस्य मनसः चन्द्रमा देवता । अथ पुनः यदा क्रियाप्रसवादिषु व्याप्रियते, तदा प्रसपकर्म व्याप्नुवन्मनः सवितृदैवतं भवति ।  
+(27)यत्पृथिव्या आनन्त्यं देवतायाः तदेकैकस्मिन्नध्यात्मिके आधिभौतिके चाधिकारपरिच्छेदे परिसमाप्यते ।  
+(28)योऽयमेवंवित् पुरुषः स एष प्रजापतिः ।  
+(29)विद्दयैव सर्वभावापत्त्या लोकत्रयाप्तिरिति न, पृथक् कारणत्वात् ।  
+(30)न हि पुत्रोत्पादनादन्येन मनुष्यलोजयोऽस्ति।  
+(31)किमिदानीं तत्प्रतिषिध्यते ।  
+(32)स एष संप्रत्तिं कृत्वा यावज्जीवति न तावदग्निहोत्रमुत्सृजेत् ।  
+(33)अनेन चैकत्वनानात्वदर्शनेन परमेकत्वनानात्वमनुमातव्यम् ।  
+(34)भोक्त्र्यश्च देवताः करणाधिष्ठात्र्यश्च। किमन्यत् विज्ञानात्मना कार्यमस्ति।  
+ एतस्मिन् दर्शने स्थितो गार्ग्यः पूर्वपक्षपरिग्रहायोत्थाप्यते ।  
+(35)काश्यमात्मना श्रुतिः सिद्धान्तमुक्तवती ।  
+(36)उभयत्रापि करणसाधन एव विज्ञानशब्दः ।  
+(37)तस्य हि ज्ञानात्मनो या च स्वप्रकाशवृत्तिः , सा हृदयद्वारेण व्युच्चरतीति हृद्यं विशेषायतनम् ।  
+(38)तत्र हि भावनाविज्ञानं विशेषेणाभिव्यक्तमास्ते ।यत एवं कृत्वा तस्मिन् शेते इत्युच्यते ।  
+(39)यावान् बाह्यो विकारः विज्ञानात्मपरिवेष्टनः अध्यात्मं वा अधिदैवं वा नामरुपविभागेन व्याकृतः सर्वोऽप्येष मूर्तो वा भवतु अमूर्तो वा सच्च त्यच्चोति ।  
+(40)तत्संबन्धात् प्राणाः सत्यम् ।  
+(41)प्राणा विज्ञानात्मानः अनामरुपाः, तेऽन्यसंयोगात् कार्यकरणवन्तः नामरुपवन्तो निर्देशाय कल्पयन्ते ।  
+(42)तदेतत् सत्यं परिशोधितम् ।  
+(43)सत्यान्निष्कृष्य विज्ञानात्मस्वरुपं वक्तव्यम् ।  
+(44)तत्रैतस्यामवस्थायां अयं भोक्ता अमी विज्ञानात्मानः प्राणाः इत्ययं विशेषो नास्ति ।  
+(45)आधारगतो ह्ययं नामरुपकृतो विशेषः ।  
+(46)तदिह सर्वं सत्यं परिशोध्य अन्तरानुप्रविश्य विज्ञानात्मा निर्दिश्यते ।  
+(47)तदेतत्सर्वं विज्ञानात्मनां सामान्यमेव लक्षणार्थं भवति ।  
+(48)तस्य हैतस्य पुरुषस्य विज्ञानात्मनः रुपं निर्दिश्यते ।  
+(49)इह तु परमात्मनः परिच्छिद्दमानस्य येन विशेषेण विज्ञानात्मत्वलाभः तद्रूपं निर्दिदिक्षितम् ।  
+(50)तान्येतानि त्रीणि वस्तूनि मूर्तामूर्तिं माहारजनादिरुपमात्मतत्त्वमिति ।  
+(51स एष विद्दाकर्मपूर्वप्रज्ञारुपः, अस्य कर्मणो बाह्यं मूर्तामूर्तं साधनं ,यदुपादाय कार्यकरणवतो भोगसिद्धिः ।  
+(52)पुष्पतैलसंयोगवत् सा वियुक्तस्यापि मनसा विद्दत एव, तया मनसा कार्याणां प्रविभक्ता भवति ।  
+(53)द्वैतदर्शनेन आसङ्गकार्यमुच्छिन्नम् ।  
+(54)आसङ्ग उपादानं भूतानाम् ।  
+(55)स एष कामपक्ष उच्छिन्नः , कामश्च कर्मपक्षस्यैव ।  
+(56)विज्ञानात्मनः किमवशिष्यते इति । विज्ञानमवशिष्यते इति ।  
+(57)सैषा अविद्दा परिच्छेदकं विज्ञानम् ।  
+(58)यस्मात् परिच्छिन्नः परमात्मनः पृथग्भूत आस्ते , स एष संसारविषयस्थ एव द्वैतात्मा , अस्य ब्रह्मणि लयः कर्तव्यः ।  
+(59)तस्य प्रलयः कर्तव्यः इत्यनवसितार्थमेव वाक्यं प्रवर्तते आप्रलयात् ।  
+(60)न चाशुद्धे अद्वैतदर्शनं शक्यम् ।  
+(61)द्दृष्टिः क्रिया, तस्या यद्रूपं तत् कर्म, तद्वीप्सिततमम् ।  
+(62)क्रियासाधनत्वेन विनियुक्तः ।  
+(63)क्रियासिद्धयुत्तरकाले फलं कस्यापि भविष्यति ।  
+(64)तद्दर्शयितव्यं न कर्ता ।  
+(65)पञ्चमाध्यायशेषेण परमात्मनो निर्णयो वक्ष्यमाणः , षष्ठेन विज्ञानात्मनः ।  
+(66)सर्वान्तरं विज्ञानात्मरुपं माहारजनादिलक्षणं त्रयमप्येतत् कर्मैव ।  
+(67)कर्मणः पुनः बाह्येन विशेषेणापरिगृहीतस्यावस्थानं नास्तीत्युत्पत्तिसहभुवा प्रयोजनकरुपेण भौतिकेन परिष्कृतमास्ते स्वप्रयोगकाले ।  
+(68)विनाशोत्तरकालं परेण सौक्ष्यम्येण व्यवतिष्ठते अस्तित्वमात्रेण ।  
+(69)विशेषस्यागृह्यमाणत्वात् ।  
+(70)जानन्नपि परमात्मानं दर्शनमार्गस्य परोक्षत्वादाह ।  
+(71)यथा खलु बाह्यस्य पिण्डस्योपचयार्थमाहारः, तथा तस्यापीत्येतस्मात् सामान्यात् प्रविविक्ताहारतर इवैवेति ।  
+(72)सैषा सूक्ष्मा देवता अन्तर्हृदये कदम्बगोलकवत् हृदयात् नाडीषु समन्तान्निः सृतासु विषक्ता ।  
+(73)एवमेकैका देवता ।  
+(74)सर्वेषां कार्यकरणस्य साधारणत्वात् ।  
+(75)यस्या देवताया यदा यद्दर्शनादि कार्यं तदा सर्वासामितरासां तदङ्गत्वम् ।  
+(76)नाडयन्तरेऽपि या यदा देवता अपेक्ष्यते , सा तदा कृत्स्नदेवताविभवमङ्गीकृत्योपतिष्ठते ।  
+(77)प्रत्यवयवं कृत्स्नस्य परिसमाप्तत्वात् सैषा यथाध्यात्मं एवमधिभूतमधिदैवंच ।  
+(78)यथा अध्यात्मं नाडयः समन्ताच्छरीरवर्तिन्यः , एवमस्यैव पुरुषस्य आध्यात्मिकस्य आधिदैवात्मना वक्ष्यमाणस्य प्राणनाडयो वायुमय्यः।  
+(79)एतस्मादेव शरीरादभिनिः सृत्य सर्वं जगदापूर्यावस्थिताः ।  
+(80)यथैवाध्यात्मिकस्य प्रत्यवयवं कार्त्स्न्येन समाप्तिः , एवं वैराजस्याप्यात्मनः प्रत्यवयवमाध्यात्मिकाधिभूताधिदैविकेषु ।  
+(81)प्राप्तमभयं याज्ञवल्क्येन नाप्राप्तम् न तु साक्षात्कृतम् ।  
+(82)द्विविधो मोक्षः ,अस्मिन्नेव शरीरे साक्षात्कृतब्रह्मा मुक्तः इत्युच्यते । न ब्रह्मणि लीनः । तस्य शरीरपातोत्तरकालं ब्रह्मणि लयः द्वितीयो मोक्षः ।स त्वाशासितव्यः ।  
+(83)सालक्षण्येऽपि सत्येव बुद्धेरेव धर्मो विलक्षणोऽस्य भोक्त्तृत्वम् ।  
+(84)स एष यदि व्यतिरिक्तो न स्यात् उभयोरपि लोकयोः भूतसमुदायाविशेषात् उभयत्रापि भोग उत्पद्देत, न तु भवति । अतोऽवगम्यते , अस्ति किञ्चित् व्यतिरिक्तं तद्भावाद् भवति यद्दभावान्न भवति ।  
+(85)जागरितदेशेऽपि उपचयापचये न क्रियैव हेतुः, किं तर्हि, कामो हेतुः ।  
+(86)यं काममासङ्गमुपचयमूलं वृत्तिरुपं पश्यसि तेन विमुक्तश्चायमस्मिन् काले ।  
+(87)शरीरसंबन्धिनश्च कामाः मृत्यो रुपाणि , प्रविभक्तश्चायं शरीरेण भवति ।  
+(88)यथैव रथादीनामसतां निर्माणं बाह्यानां, तथा शरीरेन्द्रियाणां चान्तराणाम् ।  
+(89)यथैव सर्वस्यैवासतो विनिर्माणमसतो दर्शनम्, एवमासङ्गस्यापि शरीरेन्द्रियपक्षभूतस्यासतो दर्शनम् ।  
+(90)शुद्धोऽयं पुरुषः ।  
+(91)भावना हि कर्मगुण एव सती पुरुषं भावयति।  
+(92)यथा पुष्पगन्धः पुटं भावयति ,स पुष्पगुण एव, न पुटगुणः, एवं भावना कर्मगुण एव  
+नात्मगुणः ।  
+(93)भावनानुरञ्जिते विज्ञानात्मविज्ञाने कर्तृत्वोपचारः ।  
+(94)तामेवानुरञ्जनां कर्तृत्वेनाङ्गीकुरुते कर्मोत्पत्तिभोगकालयोः ।  
+(95)कर्मणोऽप्यत्यन्तं प्रयोगाश्रितत्वात् बुद्धयादिसंनिकर्षपक्षतैव न कदाचनात्मगुणता ।  
+(96)बुद्धयादिक्षयेऽपि कर्म प्रयोगापेक्षमेवास्ते स्वात्मलाभाय, नात्मानमपेक्षते ।(97)तस्मादयमेतस्मिन् स्वप्ने कर्मगुणस्यैवासङ्गस्य कर्मस्थस्य द्रष्टा प्रविविक्त आत्मा निरासङ्गः ।  
+(98)यस्माच्चासङ्गः अतो न कर्मोपचयः स्वप्ने ।  
+(99)अस्य हि पुरुषस्य बाह्यं कर्म प्रयोगाश्रितम् ।  
+(100)ततः कर्मणा भावना समेत्यैनमास्कन्दति, तयोर्विवेको व्याख्यातः ।  
+(101)तदेव \*विज्ञानं विकृत्य विपरीतग्रहाय प्रकल्पयति ।  
+(102)यः आसङ्गकृतः संसर्गः तेन विवेको व्याख्यातः । यस्त्वविद्दाकृतः संसर्गतेन विवेको व्याख्यातव्यः ।  
+(103)आसङ्गस्तु विषयेन्द्रियद्वारेण बहिष्ठः समागम्य आत्मानमनुप्रविशति ।  
+(104)यथैव बाह्यचक्षुषः प्रकाशार्थयोः संसर्गात् विशेषप्रकाशनाभिवव्यक्तिः , एवं बुद्धीन्द्रियसंसर्गादुपलब्धिविज्ञानाभिव्यक्तिः ।  
+(105)यदि व्यतिरिक्तो विज्ञाता न स्यात् , तेन स्वप्नकाले भौतिस्यैव ज्योतिषः अविशेषारम्भे सति स्वप्नबुद्धान्तयोः भूतमात्राणामविशेषेण विद्दमानत्वात् यौगपद्देनोभयत्रोपलब्धिः स्यात् ।  
+(106)तासाञ्चाधिष्ठात्रीणां पर्यायेण वृत्तिपुपपद्दते ।  
+(107)देवताया विभुत्वात् प्रयत्नकार्येषु यौगपद्दं न तु विज्ञानात्मनः ।  
+(108)अनेन भोक्तृत्वप्रयुक्तत्वेन हेतुना प्रयत्नायौगपद्देन व्यतिरिक्तद्रष्ट्रग्रहणसिद्धिः ।  
+(109)तस्य हि स्वप्नान्तबुद्धान्तयोर्व्यापित्वेऽपि योऽसौ द्रष्टृत्वेन कर्तृत्वं प्रतियत्नः न स यौगपद्देन संभवति । तस्मात् तस्य पर्यायेण द्रष्टृत्वं प्रवृत्तिरित्यवस्थितं भवति ।  
+(110)उपलब्ध्ययौगपद्दमात्मास्तित्वे लिङ्गम् ।  
+(111)न हि देवतानां स्वप्नकाले स्वव्यापारः । ता उच्चक्रमिषोर्लोकान्तरं प्रति विशेषकार्याण्याध्यात्मिकानि हित्वा स्वानि स्थानानि प्रतिपद्दन्ते । 'अग्निं वागप्येति 'इत्यादिश्रुतेः । तथा स्वप्नकार्यं प्रतिपित्सोः देवता अपक्रान्ता भवन्ति ।  
+(112)उभयोः कालयोर्व्यतिरेकात् व्यतिरिक्तो द्रष्टा, न भौतिकं दर्शनं नापि देवताकृतम् ।  
+(113)अस्य हि द्वैतविषये विशेषविज्ञानमादित्यरश्मिवत् विप्रकीर्णं जागरितः देशवत् समन्तादवभासते ।  
+(114)तत्र कामः कर्मणः फलम्, कर्मण एव तु वासना ।  
+(115)यथालक्षणयैव भावनया तत्कर्म कृतम् तथलक्षणमेव फलं तस्य विज्ञानात्मनः, सा भावना तदेव स्वप्रयुक्तं फलं प्रत्येकीभूता भवति ।  
+(116)तदनुरञ्जितो विज्ञानात्मा कामं कामयते इत्येतद्भवति ।  
+(117)तत्र कामतः स्वप्ननिर्माणं सुखदुःखं दर्शयति ।  
+(118)विज्ञानं पुनः भावनापरिच्छेदविनिर्मातु । विज्ञानानुविधायिनी हि कर्मणो विक्रिया ।  
+(119)विज्ञानमप्येतद्विपरीतदर्शनमविद्दा ।  
+(120)स एष बाह्यो विज्ञानात्मनः ।  
+(121)तत्र प्रयोक्त्री भावना, कर्म विकर्तृ।  
+(122)एवं कामकर्मभावनाविज्ञानानां परस्परापेक्षत्वादेकार्थता ।  
+(123)तत्र भावनया कामयते विद्दया पश्यति द्वैतविषयम् ।  
+(124)विद्दापि विपरीतस्य प्रविभक्तस्य ग्राहयितव्यस्याभावात् न विशेषविज्ञानाय कल्पते ।  
+(125)अशोकान्तरमित्युक्तम् । तदेवास्मिन् काले स्वेनात्मना ज्योतिर्मात्रेण भवति ।  
+उक्तं हि व्यतिरेकेण स्वयंज्योतिष्ट्वम् ।  
+(126)तद्विशेषज्ञानमविद्दापक्षस्यैव ।  
+(127)तदेतदेकत्वदर्शनं मथ्यमानं सदा शुद्धं प्रसन्नं भवति ।  
+(128)स्वेन विशेषविज्ञानात्मना देदीप्यमानो भवति ।  
+(129)तम एवैतद्रूपं स्यात् न ज्योतिः ।  
+(130)ज्योतीरुपत्वस्य महता प्रयत्नेन विभावितत्वात् । स्थित्वाच्च सिद्धान्तस्य।  
+(131)स्वात्मनैव ज्योतिषावस्थानम् ।  
+(132)पश्यन्नेवायं तस्मिन् काले भवति । न चास्य विशेषज्ञानं प्रादुरस्ति ।  
+(133)तत्रापि बुद्धिप्रत्ययस्य घटादेश्च ग्राह्यग्राहकभावेन संबन्धात् क्रियान्तरनिर्वृतौ द्रष्टैवेति ।  
+(134)तत्र यस्मिन् पुरुषे द्दृक्शक्तिः रुपग्रहणादिसंबन्धिनीति ।  
+(135)विज्ञानात्माधीनो यो द्दृशिक्रियाभावः कर्तृगतः ।  
+(136)यावद्गुणिभाविनो हि गुणाः , यावद्ग्निः तावदौष्ण्यम् ।  
+(137)यावत् द्रष्टा तावत् द्दृष्टिरित्यापरिलोपः ।  
+(138)नित्यो हि द्रष्टा । न ह्यस्य विनंष्टुं शीलं विद्दते । सर्वात्मभावात् अद्वैततत्वात् ।  
+(139)येन ह्यस्यान्येन द्वितीयेन नाश आशङ्कयेत, न तदस्ति, तेनाविभक्तत्वात्तस्य ।  
+न च तेनैव तस्य विनाशोऽस्ति ।  
+(140)अविनाशित्वान्नित्यः । तस्य नित्यस्य द्रुष्टुः नित्यो गुणो द्दृष्टिरवस्थितौवास्ते ।  
+(141)स तया द्दृष्टया अविपरिलुप्तया पश्यन्नेवास्ते ।  
+(142)द्वितीयं पदार्थं निर्णेतुमुपादत्ते ।  
+(143)यदि पश्यन्नेवास्ते कथं न पश्यति । श्रुणु । यथा पश्यति न पश्यति च ।  
+(144)ततु द्वितीयं नास्ति, यत्संबन्धात् विशेषविज्ञानं प्रादुःष्यात् ।  
+(145)स्याद्विभक्तं न त्वन्यत्वतः ।  
+(146)यदि हि ततोऽन्यद्विभक्तं स्यात् पश्येत् , न तु तदद्वितीयमस्ति।  
+(147)तस्मात् द्दृक्शक्तेर्विद्दमानत्वात् पश्यन्नेवास्ते न तु द्रष्टव्यं प्राप्नोति यतः , अतो नोपलभते ।  
+(148)तद्दथा अग्निर्ज्वलन्नपि नानभ्याहितं दहति तद्वत् ।  
+(149)तृजन्तेन कर्तृत्वमेवाचष्टे । कस्य द्रष्टा ?द्दृष्टेः ।  
+(150)द्दृष्टिरिति भाव- क्रियासमाप्त्यर्थः फलाश्रितो निर्दिश्यते ।  
+(151)तदेतत्प्रकाशनं च ज्ञानकर्तृत्वं चेति धर्मद्वयं प्रत्येकमुपदिश्यते ।  
+(152)यथा पूर्वस्मिन् कामैर्बन्ध इति श्लोकेनोद्भावितम् , एवमेव इहापि निष्कामोऽपि मुच्यते इति श्लोकेन उद्विभावयिष्यति ।  
+(153)कामाः पुनः माहारजनादिरुपाः ।  
+(154)तद्दे माहारजनादिलक्षणाः कामविशेषाः ते बाह्ये हृदये श्रिताः ।  
+(155)ततो हि तेषां प्रसूतिर्भवति ।  
+(156)या तस्मिन्नन्तर्णीते विशेषणे बुद्धिः सा अन्तर्णीतविशेषणैव कृत्स्न ग्राहिणी भवति ।  
+(157)विशेषाणां हि अविशेषे एकता भवति , यथा समुद्रे समुद्रोर्मीणाम् ।  
+(158)भोक्तुर्ज्ञानस्वभावत्वे करणेषु विद्दमानेषु कथं कदाचित् प्रतिबोधः ।  
+(159)अथ पुनर्विहायैतदसंनिहितोऽभूत् ,विनिष्टो वा , कुतः प्रत्यागमनम् ।  
+(160)तदेतद्भार्ग्येण प्रष्टव्यमासीत् , स हि शिष्यश्चोदयिता ।  
+(161)यदा चोदयितुः शिष्यस्य प्रतिपत्तिर्न भवति, आचार्यश्च तमर्थं व्याचिख्यासुर्भवति , तदा स्वयमेव चोद्दमुत्थाप्य व्याचष्टे ।  
+(162)प्राणः उच्छ्वासनिः श्वासकर्मा वायुः शारीरः शरीरपक्षपाती गृह्यते । एतस्यां स्थूणायां शिशुः प्राणः करणदेवतालिङ्गपक्षपाती गृह्यते । स देवः प्राणः एतस्मिन् बाह्रये प्राणे संबद्धः ।  
+(163)तान्येतानि त्रीणि वस्तून्युपन्यस्तानि ।
+
+   
+ PART III  
+भगवत्पूज्यपादानां भाष्यं तद्वार्तिकं तथा ।  
+समालोडय यथाप्रज्ञं स्वीयविज्ञानशुद्धये ॥(1)  
+श्रीमद्भर्तृप्रपञ्चस्य वृत्तिकारस्य संमताम् ।  
+प्रक्रियां तन्निरासञ्च समासेनाभिदध्महे ॥(2)
+
+कर्मविज्ञानकाण्डयोः परस्पराविरोधेन प्रामाण्यनिरुपणाभिनिवेशिनः भर्तृप्रपन्नाः श्रुतियुक्तिभ्यां द्वैताद्वैतात्मकं ब्रह्म वर्णयन्ति ।
+
+ बृहदारण्यके चतुर्थे षष्ठे चाध्याये संद्दृब्धं मैत्रेयीब्राह्मणं ' यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति ' इत्यादिना द्वैतात्मकं ब्रह्मोक्त्वा , ' यत्र त्वस्य सर्वमात्मैवाभूत् तत्केन कं पश्येत् ' इत्यादिना अद्वैतात्मकं ब्रह्म निरुपयति । अतः श्रुतिप्रमाणेन द्वैताद्वैतात्मकं ब्रह्मेति निश्चीयते ।
+
+ ननु अद्वैतं यदि वास्तवम् , तदा द्वैतं मृषा भ्रान्तिविजृम्भितमिति स्यात् ।  
+ततश्च द्वैतस्य सृष्टिस्थित्यादिकं न संभवतीति द्वैतसृष्टयादिबोधकुश्रुतीनां प्रामाण्यं न घटते । यदि द्वैतं वास्तवम् , तदा अद्वैतद्दृष्टिरप्रमा स्यात्, तमः प्रकाशवत् द्वैताद्वैतयोः विरोधादिति चेत् ।
+
+ न, द्वैताद्वैतावस्थयोः द्वयोरपि सत्यत्वनिरुपणेन श्रुत्यैव परिहृतत्वात् ।  
+ तथाहि---  
+ पूर्णमदः पूर्णमिदं पूर्णात्मपूर्णमुदच्यते ।  
+ पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥(बृ.7-1-1)  
+इति मन्त्रवर्णः । अत्र अदः शब्देनोक्तं कारणमद्वैतं ब्रह्म पूर्णम् । कार्यमपि द्वैतमिदंशब्दभोध्यं पूर्णमेव । पूर्णादुद्रिच्यमानं कार्यं वर्तमानकालेऽपि पूर्णमेव परमार्थवस्तुभूतं द्वैतरुपेण । पुनः प्रलयकाले पूर्णस्य कार्यस्य पूर्णमादाय आत्मनिस्थित्वा पूर्णमेव अवशिष्यते कारणरुपम् । कार्यमपि द्वैतं परमार्थमेव पूर्णेनाभेदात् । पूर्णं चाखण्डं सत्यम् । यत् यतो नातिरिच्यते , तत् तदेव, यथा घटाद्दनतिरिक्तः मृदादिः। अतः पूर्णाभेदात् कार्यस्य द्वैतस्य सत्यता । ततश्च द्वैताद्वैतावस्थयोरपि सत्यता ।  
+ तदयमर्थः । समुद्रः जलतरङ्गफेनबुद्बुदाद्दात्मकः । जलमचलं परमार्थसत्यम्। जलोद्भूताः तरङ्गफेनबुद्बुदादयोऽपि आविर्भावतिरोभावशालिनः प्रचलितस्वभावाः समुद्रात्मभूताः सत्या एव । तत्रापि ईषच्चलता अत्यन्तचञ्चलता च मध्याग्रादिभेदेन लक्ष्यते । एवंअकम्पसमुद्रजलस्थानीयं अद्वैतं ब्रह्म। जलतरङ्गस्थानीयं द्वैतम् ।तदपि सत्यमेव । सूत्रात्मना ईषत्प्रचलितत्वं, विराड्भावेन अतितरां प्रचलितता, व्यष्टिदेहादिग्रहे तरङ्गग्रवत् नामरुपक्रियात्मना अत्यन्तप्रचलितादपि प्रचलितत्वं बोध्यम् । एवञ्च द्वैताद्वैतात्मकं ब्रह्म समुद्रवत् नृत्यति ।
+
+ तथा च द्वैतस्य सत्यत्वात् कर्मकाण्डस्य प्रामाण्यमव्याहतम् । द्वैतस्य कल्पितत्वे कर्मकाण्डस्य विषयाभावेनाप्रामाण्यापत्त्या, वेदैकदेसकर्मकाण्डद्दृष्टान्तेन वेदान्तानामप्यप्रामाण्यापत्तेः । द्वैतसत्यत्वे प्रत्यक्षादीनामपि भेदग्राहकाणां प्रामाण्यमप्रत्यूहं सिद्धयति ।
+
+ किञ्च, बृहदारण्यकतृतीयाध्यायस्य षष्ठे ब्राह्मणे "तदेतत् त्रयं सदेकमयमात्मा,आत्मा , आत्मा एकः सन्नेतत् त्रयम्। "(बृ.10-6-3इति श्रुतिः नामरुपकर्मणां भिन्नानामेकत्वं एकस्य नामादिभेदभिन्नत्वं च प्रतिपाद्ययति । अतश्च भिन्नाभिन्ननामादिद्दृष्टान्तेन ब्रह्मणः भिन्नाभिन्नत्वमनुमातव्यम् ।
+
+ न चैकस्य द्विरुपत्वं विप्रतिषिद्धमिति वाच्यम् । यतः सर्वे भावाः एकत्वानेकत्वव्यवस्थया अवस्थिता एव गृह्यन्ते । खण्डादयो गोव्यक्तिविशेषाः परस्परं भिन्नाः गौरित्यनुगतबुद्धिगम्याः गोसामान्यान्न व्यावर्तन्ते । एवं सर्वमपि वस्तु भिन्नाभिन्नमेव । इत्थञ्च विमतं ब्रह्म भिन्नाभिन्नं मेयत्वात् गवादिवत् इत्यनुमानात् ब्रह्मणो भिन्नाभिन्नता सिद्धयति । भिन्नाभिन्नत्वाभावे न कोऽपि द्दृष्टान्तोऽस्ति सर्वस्यभिन्नाभिन्नत्वात् ।  
+ ' अत्र ह्येते सर्वे एकं भवन्ति ' (बृ.3-4-7)इति श्रुतिरपि परस्य भिन्नाभिन्नतां गमयति । तरङ्गाणां समुद्रे, शाखादीनां वृक्षे , खण्डादीनां गवि चैकतावत् प्राणादीनां सर्वेषां परस्मिन् एकता उच्यमाना समुद्रादिवत् परस्यापि नानात्वं गमयति । तदुक्तम् ------"विशेषाणां हि अविशेषे एकता भवति , यथा समुद्रे समुद्रोर्मीणाम् ।"इति  
+ मैत्रेयीब्रह्मणे " इदं सर्वं यदयमात्मा " (बृ.4-4-6)इति श्रुतिः स्पष्टमेव सप्रपञ्चं परं दर्शयति ।  
+ मधुब्रह्मणे च "तद्दथा रथनाभौ च रथनेमौ च अराः सर्वे समर्पिताः , एवमेवास्मिन्नात्मनि सर्वाणि भूतानि सर्वे देवाः सर्वे लोकाः सर्वे प्राणाः सर्वे एते आत्मानः समर्पिताः । "(बृ.4-4-15)इति श्रूयते । परमात्माभिन्नः आत्मा चक्रनाभिस्थानीयः । पञ्चभूतात्मकं देहं चक्रनेमिस्थानीयं कल्पयित्वा देवतादि जगत् अरवत् आत्मनि भूतेषु चार्पितमिति कल्पयित्वा, तत्र कल्पितार्थे स्थिरबुद्धिः ध्यानं कुर्यात्। एवं समाध्यायमानस्य तप्तलोहवत् परमात्मैकत्वं भवति इति तत्र विवक्षितोऽर्थो बोध्यः ।  
+ क्षेत्रज्ञः अग्नेः विस्फुलिङ्ग इव परस्मादात्मनः व्युच्चरति ," यथाग्नेः क्षुद्रा विस्फुलिङ्गा व्युच्चरन्ति , एवमेवास्मादात्मनः सर्वं एते आत्मानो व्युच्चरन्ति । " (बृ.4-1-20)इति श्रुतेः । स च विज्ञानात्मा परस्य विकारः । अत एव विकारार्थमयडन्तेन विज्ञानमयशब्देन श्रुतिषु व्यवह्रियते । सोऽपि परस्मादन्यः अनन्यश्च ।  
+ एतेन , जीवस्य परस्मादन्यत्वे ' तत्त्वमसि' ' अहं ब्रह्मास्मि' इत्यादिना ब्रह्मत्वावधारणं विरुध्यते , अनन्यत्वे संसारित्वानुपपत्तिः , इति चोद्दस्य नावकाशः । विकारभावमापन्नः येन परस्मादन्यः येन परस्मादन्यः तेन ब्रह्मत्वावधारणार्हः इति सर्वस्याप्यविरोधात् ।  
+ परस्मात् जीवस्य परिच्छेत्री अविद्दा । सा नानादिः अपि तु परस्मादेवोत्थिता । यथा भूमेरुत्थितः ऊषरदोषः न कृत्स्नभूमिमाश्रयते , परन्तु भूम्येकदेशमेव, तथा अविद्दा न स्वकारणं परमाश्रयते । किन्तु परमात्मैकदेशं स्वेन विकृतं जीवमेवाश्रयते । आत्मचैतन्याश्रिता सा न स्वतन्त्रा । तस्याश्च स्वाश्रयविकारापादनं मिथ्याज्ञानञ्चेति कार्यद्वयं बोध्यम् ।  
+ प्रयोगशब्दितलिङ्गे कामकर्मादयो वर्तन्ते । ते च सत्त्यशब्दितमूर्तामूर्तात्मकभूतराशिसंबन्धात् जायन्ते । यथा पुष्पाश्रितो गन्धः पुष्पवियोगेऽपि पुटतैलाश्रितो भवति । एवं लिङ्गाश्रितः कर्मादिः तदुपाधिके जीवे लिङ्गवियोगेऽपि समाश्रयते । आत्मा स्वतः निर्गुणोऽपि लिङ्गसंबन्धात् आगन्तुकवासनया सगुणो भवति । स एव कर्ता फलभोक्तो संसारी मुच्यते च । कामकर्मादिवासनामयः विज्ञानात्मा । तथा च श्रुतिः ----"तस्य हैतस्य पुरुषस्य रुपं , यथा माहारजनं वासः यथा पाण्ड्वविकं, यथेन्द्रगोपः । " (बृ.4-3-6)इति ।
+
+ मूर्तामूर्तात्मकः बाह्यो राशिरेकः अपकृष्टः । परमात्मराशिः उत्कृष्टः ।कर्त्रात्मना सह भावनाज्ञानकर्मादिसमुदायः कर्मराशिः मध्यमः । अयं प्रयोजको बाह्यराशिः , ज्ञानकर्मकारणं कार्यकरणजाञ्च प्रयोज्यमिति निष्कर्षः ।  
+ तदुक्तम् -----"तान्येतानि त्रीणि वस्तूनि, मूर्तामूर्तं, माहारजनादिरुपं आत्मतत्त्वमिति । " इति ।  
+ एवञ्च युक्तिकुशलैः सर्वतार्किकैः सामञ्जस्यमपि भवति । कर्मराशेः लिङगधर्मत्वोक्त्या , अविद्दाया अनातमधर्मत्वोक्त्या च , अविद्दाकामकर्मादीनां अन्तः करणाश्रितत्ववादिसांख्यैः सामञ्जस्यम् । लिङ्गसंबन्धात् कर्मादिवासनानां बन्धमोक्षादीनां अविद्दायाश्च जीवात्मनि स्वीकारेण , तेषां जीवधर्मत्ववादिभिः नैयायिकैः वैशेषिकैश्च सामञ्जस्यं बोध्यम् ।  
+   
+ लिङ्गद्वारा आत्मास्था कामाः संसारप्रयोजकाः । ते तदा निवर्तन्ते तदा अमृतत्वप्राप्तिः । आत्मकामः , सत्यकामः , इति श्रुतिसिद्धाः आत्माभिन्नाः कामास्तु आत्मना संसर्गाभावात् न निवर्तन्ते । स्वभिन्नस्यैव स्वसंसृष्यस्य निवृत्तेरुपपत्तेः । अत एव आत्माभिन्नकामव्यावृत्त्यर्थं,  
+ यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः ।  
+ अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते ॥(बृ.6-4-7)
+
+ इत्यत्र हृदि श्रिताः इति कामानां विशेषणमुक्तं संगच्छते ॥  
+विज्ञानात्मा द्दृष्टिकर्ता । ज्ञस्वभावः आत्मा द्दृष्टिक्रियाकर्तृत्वात् द्रष्टा इत्युच्यते , तृचः कर्त्रर्थकत्वात् । यदा कारणपौष्कल्यात् विज्ञानात्मनः कर्तृत्वं संपन्नं, तदनन्तरं चक्षुरादिद्वारा घटादिगोचरं विज्ञानं जायते । ततः तत्फलं संवेदनं जायते । ज्ञानतत्फलसंवेदनयोः विज्ञानात्मा कर्ता। ज्ञानसंवेदनाख्यक्रियाकर्तृत्वसामर्थ्यं न जडाया बुद्धेः । अतः विज्ञानात्मकर्तृका ज्ञानसंवेतनाख्यक्रिया विज्ञानात्मानमाश्रिता । तदुक्तम् "विज्ञानात्माधीनो यो द्दृशिक्रियाभावः कर्तृगतः ।" इति ।  
+  
+ अग्नेर्दाहः यावदग्निभावी द्दृश्यते । अतश्च गुणानां गुणिस्थित्यनुसारिता। द्रष  
+टुः आत्मनः गुणिनः सर्वात्मत्वादेकत्वात् नाशासंभवेन नित्यत्वात् तत्कर्तृका तद्धर्मभूता द्दृष्टिरपि नित्यैव आदित्यस्य रश्मिरिव । एवं च विज्ञानात्मा नित्यः अपरिलुप्तया द्दृष्टया सदा पश्यन्नेवास्ते । स्वापे तु द्रष्टव्यस्य विभक्तस्याभावात् न विशेषविज्ञानं भवति । जगद्धि तदा भिन्नाभिन्नब्रह्मणा अविभक्तं वर्तते । न ततो विभक्तम् । विभक्तेस्यैव च द्रष्टव्यता । तस्माद् ज्वलन्नपि बह्निः अनभ्याहितमिन्धनं यथा न दहति , तथा नित्यद्दृष्टया पश्यन्नपि विभक्तस्य द्रष्टव्यस्याभावात् न विशेषविज्ञानवान् भवति । तथा च श्रुतिः -----  
+ " यद्वै तन्न पश्यति पश्यन्वै तन्न पश्यति । न हि द्रष्टुर्द्दृष्टेर्विपरिलोपो विद्दते अविनाशित्वात् । न तु तदद्वितीयमस्ति ततोऽन्यद्विभक्तं यत्पश्येत्।"  
+(बृ.6-3-23)इति । धीवृत्तिरुपक्रियातिरिक्तसंवेदनक्रियाकर्तृत्वमात्मनो भोक्तृत्वमिति बोध्यम् ॥  
+ विज्ञानात्मा अविद्दाकामकर्मभिः जन्ममरणादिप्रवाहपतितः संसारी दुःखी भवति ।अस्माद्वन्धात् विमुक्तिः अद्वैतात्मनि लयः । ताद्दृशमुक्तिः धीकर्मसमुच्चयात् भवति "तेनैति ब्रह्मवित् पुण्यकृत्" (बृ.6-4-9)इति श्रुतेः । मनुरपि,
+
+ ' नैश्रेयसं कर्मविधिं विप्रस्येमं निबोधत् । (मनु.12-82)   
+इत्यारभ्य,  
+ वेदाभ्यासस्तपो दानमिन्द्रियाणाञ्च संयमः ।  
+ अहिंसा गुरुसेव च नैश्रेयसकरं परम् ॥(मनु.(12-83)  
+इत्यादिना कर्मविशेषानुक्त्वा,  
+ सर्वभूतेषु चात्मानं सर्वभूतानि चात्मनि ।  
+ संपश्यन्नात्मयाजी वै स्वाराज्यमधिगच्छति ॥(मनु.12-91)  
+इत्यात्मज्ञानिनो निः श्रेयसं ब्रूते । अतश्च धीकर्मसमुच्चयः मुक्तिसाधनमिति निश्चीयते ।  
+ कामसन्दूषिताशयः सर्वकामासमाप्तितः सहसा अद्वैतात्मदर्शनाय न प्रभवति । अतः पूर्वपूर्वकाम्यक्षुद्रकर्मानुष्ठानेन तत्तत्फलमनुभूय , ततस्ततो निवृत्तरागः अग्निहोत्रादिनित्यकर्मानुष्ठानसमुच्चितात् हिरण्यगर्भात्मोपासनात् हिरण्यगर्भपदं प्राप्नोति । तदनुभवेन ततोऽपि जातवैराग्यः अद्वैतोपासनाय ब्रह्मभूयं गच्छति ॥  
+ ननु नैव मुक्तिः संभवति । सा हि न कर्मणः । कर्मफलस्यानित्यत्वेन मुक्तेरनित्यत्वापातात् । नापि देवता मुक्तिं ददाति । अग्न्यादिदेवताः स्वाज्ञाकरान् मनुष्यान् कर्मस्वेव नियच्छन्ति । न ततो मोचयेयुः । नापि ज्ञानकर्मसमुच्चयात् । कर्मानुष्ठाने आत्मनः कर्माङ्गत्वं भवति । ज्ञाने सति स्वाराज्यमिति धीकर्मणोर्विरोधात् कर्मिणो ज्ञानासंभवात् । नापि कर्मत्यागेन ज्ञानं संपादयितुं युक्तम् । ' ऋणानि त्रीण्यपाकृत्य मनो मोक्षे निवेशयेत् । ' इति स्मृतेः तत्त्यागस्यायुक्तत्वादिति चेत् ।  
+ न, 'आत्मानमेव लोकमुपासीत' (बृ.3-4-15)इति श्रुत्या परिहृतत्वात् ।द्वैतावस्थमात्मानमद्वैतावस्थमापाद्द उपासीत इति श्रुतेराशयः । कर्म कुर्वन्नेव ससाधनं कर्म ब्रह्मभावेन पश्येत् । इत्थञ्च कर्माप्यनुष्ठितं भवति ,धीरपि सिद्धा भवति । अद्वैतरुपत्वात् कर्मणोऽपि न क्षयः । कर्त्रादिभेदरहितं कर्म नास्तीति न शङ्कनीयम् ।ताद्दृशे कर्मणि 'आत्मानमेव लोकमुपासीत् ' (बृ.3-4-15)इति श्रुतेः ,
+
+ ब्रह्मार्पणं ब्रह्म हविः ब्रह्मग्नौ ब्रह्मणा हुतम् ।  
+ ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥(भ.गी.4-24)  
+इति भगवद्गीतास्मृतेश्च प्रमाणत्वात् । कृतसंप्रत्तिकर्मणापि पुंसा यावज्जीवमग्निहोत्रादिकं नित्यं कर्म कर्तव्यमेव, न त्यक्तव्यम् ।  
+ तदयं निर्गलितोऽर्थः । नित्यकर्मसमुच्चितात् द्वैतैकत्वात्मकहिरण्यगर्भोपासनात्मकज्ञानात् कर्मासङ्गदिक्षयः । ततः स्थूलसूक्ष्मदेहद्वयनाशः । अद्वैतज्ञानानुदेन अविद्दानिवृत्त्यभावात् मुक्तिमप्राप्तः कर्मासङ्गादिक्षयेण संसाराच्च निवृत्तः अन्तरालावस्थो भवति ।  
+ " यत्रायं पुरुषो म्रियते किमेनं न जहातीति, नामेति ।" (बृ.5-2-12)इति श्रुतिः  
+नाममात्रावशिष्टं तं ब्रूते । सः अद्वैतात्माप्रबोधलक्षणाविद्दानिवृत्तये अहं ब्रह्मास्मीति अद्वैतोपासनाधिकारी श्रवणादिकमनुतिष्ठति । ततः हिरण्यगर्भोपासात्मककर्मसमुच्चितया अद्वैतात्मोपासनया अविद्दा निवर्तते । ततो मुक्तिः भवति । तथा च श्रुतिः---  
+ विद्दाञ्चाविद्दाञ्च यस्तद्वेदोभयं सह ।  
+ अविद्दया मृत्युं तीर्त्वा विद्दयामृतमश्नुते ॥(ईशा.11)  
+इति । अविद्दाशब्दितया द्वैतैकत्वात्मकहिरण्यगर्भोपासनया नित्यकर्समुच्चितया,कर्मासङ्गादिलक्षणं मृत्युं तीर्त्वा, अद्वैतात्मोपासनारुपया विद्दया अमृतत्वं मोक्षं  
+प्राप्नोति इति तदर्थो ज्ञेयः ।  
+ नित्यकर्महिरण्यगर्भोपासनमुच्चयात् प्रथमात् कर्मासङगादिलक्षणमृत्युक्षयः देहद्वयनाशश्च । ततः नाममात्रावशिष्टस्यान्तरालावस्थस्य हिरण्यगर्भोपासनात्मककर्माद्वैतात्मोपासनसमुच्चयात् द्वितीयात् अद्वैतात्मभावः इति निष्कर्षः ॥  
+ शब्दादिबाह्यर्थप्रत्यये सत्यपि आत्मा बौद्धप्रत्ययद्वारा शब्दादिमयो भवति ।  
+एवमहं हिरण्यगर्भोऽस्मीति ज्ञानाभ्यासात् तत्साक्षात्कारे तन्मयो भवति । आचार्यमुखेन तत्त्वमसिवाक्यात् जातस्य अहं ब्रह्मास्मीति ज्ञानस्याभ्यासात् तत्साक्षात्कारे सति यावत् सर्वविषयाणां क्षयः , तावत् सा मनोवृत्तिरनुवर्तते । ततः मनोऽपि स्वका  
+र्येण सह ब्रह्मणि लीयते । वह्नि यथा दाह्यं दग्ध्वा, दाह्यनाशानन्तरं स्वयं नश्यति । तथा मनः द्वैतमद्वैतमापाद्द स्वयमपि लीयते ।  
+ यथा वा भूमावाहितं लोहं तन्मयमेव भवति । तथा अक्षरे अद्वैतात्मनि निहितं मनः तन्मयं भवति । मनसि च लीने निरतिशयानन्दावस्था ।  
+ अव्याकृतान्तर्यामिसूत्रविराड्भूतदेहेन्द्रियविषयाख्याष्टावस्थं जगत् पारमार्थिकमपि मनोलये सति लीनं भवति । तस्यामवस्थायां द्वैताभावः । ' नेह नानास्ति किञ्चन'  
+(बृ.6-4-19)'एकघैवनुद्रष्टव्यम् ' (बृ.4-5-20)इत्यादि श्रुतिः अद्वैतावस्थायां द्वैतप्रपञ्चाभावं बोधयति । अहमेवेदं सर्वोऽस्मीति विज्ञानं स्वयंज्योतिष्ट्वम् । इदं ज्ञानं विद्दा । नानात्वज्ञानविद्दापक्षपातीति व्यवह्रियते। शरीरपातोत्तरं ब्रह्मणिमनसो लयः । अतः मुक्तो नोपदेष्टा । याज्ञवल्क्योऽपि परोक्षज्ञान्येव, नापरोक्षज्ञानी ।  
+ अथवा जीवति शरीरे अद्वैतब्रह्मसाक्षात्कारो भवति । तदा मोक्षः प्रथमः । शरीरपातानन्तरं ब्रह्मणि मनोलयेन तदुपाधिकस्य जीवस्य लयो द्वितीयो मोक्षः। स तु आत्यन्तिकः।  
+स मोक्षः आशासनादिकमपेक्षते । अत एव याज्ञवल्क्यं प्रति जनकस्य ' अभयं त्वा गच्छतात् '( बृ.6-24)इत्याशासनमुक्तं संगच्छते।  
+यदाहुः ----  
+ "द्विविधो मोक्षः अस्मिन्नेव शरीरे साक्षात्कृतब्रह्मा मुक्त इत्युच्यते । न ब्रह्मणि लीनः । तस्य शरीरपातोत्तरं ब्रह्मणि लयः द्वितीयो मोक्षः । स त्वाशासितव्यः ।" इति ।  
+ इत्येवं सर्वं समञ्जसमिति वर्  
+णयन्ति ॥  
+ औपनिषदास्तु श्रुतिविरोधात् न्यायविरोधाच्च भिन्नाभिन्नं ब्रह्मेति कल्पनामयुक्तां निरुपयन्ति। बृहदारण्यकोपनिषदः निगमनस्थानीये मैत्रेयीब्राह्मणए , "स यथा सैन्धवधनः अनन्तरोऽब्रह्यः कृत्स्नो रसघन एव, एवं वा अरे अयमात्मा अनन्तरोऽबाह्यः कृत्स्नोः रसघन एव, एवं वा अरे अयमात्मा अनन्तरोऽबाह्यः कृत्स्नः प्रज्ञानघन एव" (बृ.6-5-13)इति श्रूयते । मधुकाण्डावसाने च "तदेतद्वह्नापूर्वमनपरमनन्तरमबाह्यमयमात्मा ब्रह्म सर्वानुभूरित्यनुशासनम् ।"(बृ.4-5-19)इति सर्वोपनिषत्सारोपसंहारः श्रूयते । 'नेति नेति ' इति चासकृत्। अक्षरब्रह्माणे "अस्थूलमनण्वहृस्वमदीर्घम् "(बृ.5-8-8)इत्यादिना सादरं सर्वविशेषप्रतिषेधः श्रूयते । एवं ' एकमेवाद्वितीयम् '(छा.6-2-1)'सत्यं ज्ञानमनन्तं ब्रह्म' (तै.2-1)इत्याद्दाः शतशः श्रुतयः एकरसमखण्डं ब्रह्म प्रतिपादयन्ति । नैतासां श्रुतीनामुपासनाविधिपरता अवगम्यते । तात्पर्यग्राहकलिङ्गैश्च स्वार्थपरतैवावगम्यते । ब्रह्मणः भिन्नाभिन्नत्वे अखण्डसाधकत्वेन निश्चितार्थाः एताः सर्वा अपि श्रुतयः समुद्रे प्रक्षिप्ताः स्युः । अतः श्रुतिविरोधात् न भिन्नाभिन्नं नानारं ब्रह्म ।  
+ द्वैताद्वैतयो विरोधेन एकत्रावस्थानासंभवात् न्यायविरुद्धा चेयं भिन्नाभिन्नत्वकल्पना । न च समुद्रोर्मिद्दृष्टान्तेन भिन्नाभिन्नत्वस्योपपादितत्वात् कुतो न्यायविरोध इति वाच्यम् । जडस्यानित्यस्य सक्रियस्य सावयवस्य समुद्रादेः भिन्नाभिन्नत्वकल्पना द्दश्यते । आत्मनस्तु चिद्रूपस्य नित्यस्य निष्क्रियस्य निरंशस्य तत्कल्पना न युज्यते । सांशत्वे आत्मनः घटादिवदनित्यत्वापत्त्या कृतहानाकृताभ्यागमादितोषप्रसङ्ने द्वैतसत्यत्ववादजीवातुकर्मकाण्डप्रामाण्यस्योच्छेदापत्तेः ।तस्मात् सावयवे भेदाद्दविरोधस्य निरुक्तद्दृष्टान्तात् सिद्वावपि , निरवयवे आत्मनि भेदाभेदविरोधो दुष्परिहर एव ।  
+ किञ्च ब्रह्मणः भिन्नाभिन्नत्वं उपासनार्थं वा ज्ञेयत्वार्थं वोच्यते । नाद्दः , षड्भावविक्रियावतः श्रुत्या ध्येयत्वेनानुक्तेः । न द्वितीयः,'एकधैवानुद्रष्टव्यम्'(बृ.6-4-20)इति श्रुत्या एकरस्यैव ज्ञेयत्वोक्तेः , 'मृत्योः स मृत्युमाप्नोति य इह नानेव पश्यति ' (बृ.6-4-19)इति भेददर्शनस्य मृत्युप्रापकत्वोक्तेश्च अतः भिन्नाभिन्नं ब्रह्म न शास्त्रार्थः ॥  
+ ननु एकरसमखण्डं ब्रह्मेति स्वीकारे , द्वैतस्य कल्पितत्वेनासत्यत्वात् विषयाभावात् कर्मकाण्डमप्रमाणं स्यादिति वेदैकदेशद्दृष्टान्तेन वेदान्तानामप्यप्रामाण्यमापतेदिति चेत् ।  
+ न, शास्त्रं हि पुरुषाय द्वैतं वस्तु ज्ञापयित्वा पश्चात् न कर्मोपदिशति । नापि च द्वैतमुपदेशार्हम् , पश्चादिसकलप्राणित्यक्षवेद्दत्वात् । न च प्रथममेव कस्यचित् द्वैते अनृतत्वबुद्धिः स्यात् , येन द्वैतस्य सत्यत्वमुपदिश्य पश्चादात्मनः प्रामाण्यं शास्त्रं प्रतिपादयेत्। तस्मात् यथाप्राप्तमेव द्वैतमविद्दाकृतं स्वाभाविकमुपादाय रागादिमते पुरुषाय यथाभिमतपुरुषार्थसाधनं कर्मोपदिशति ।एवञ्च कर्मकाण्डस्य मानान्तरानवगतयागादिगतस्वर्गादिसाधनत्वे प्रामाण्यं न भेदप्रपञ्चे , तस्यसर्वबुद्धिगम्यत्वात् ।  
+ न चैवं भेदस्य प्रत्यक्षसिद्धस्य स्वीकारे , तेन सद्वितीयत्वमेव त्वदभिमतब्रह्मणः स्यादिति वाच्यम् । प्रतीयमानस्यापि भेदस्य विचारासहत्वेनावस्तुत्वात् ब्रह्मणः तेन सद्वितीयत्वासंभवात् । तथाहि स्वतः परतो वा भेदो न निरुपयितुं शक्यते । न तावत् घटस्य स्वस्माद्भेदः, स्वस्मादभिन्नत्वात् । अन्यथा एकासिद्धेः । नापि परतः ।अन्यत्वेनेष्टस्यापि भेदसंबन्धात् प्रागभिन्नत्वेन, अभिन्नात् भेदासंभवात् । किञ्च पटे विद्दमानः अन्यधर्मत्वायोगात् घटसंबन्धिभेदस्य पटधर्मत्वासंभवात् । अन्यथा आकाशसंबन्धिनः शब्दादेरपि पटधर्मत्वापातात् । न द्वितीयः । घटादिप्रतियोगिसंबन्धं विना भेदप्रतीतेः न इत्याकारिकाया अनुदयात् ।  
+ किञ्च भेदः सतोऽभिन्नः , भिन्नो वा । आद्दे सन्मात्रत्वात् सदद्वैतं स्यात् । द्वितीये , भेदस्य भेदान्तरस्वीकारादनवस्था ।  
+ एवं पृथक्त्वं भेदः इति तार्किकपक्षोऽपि दुर्निरुपः । घटस्य पृथक्त्वमन्यापेक्षं बहिरङ्गम् । अपृथक्त्वं स्वत इति अन्तरङ्गम् । अतः तत् बहिरङ्गं पृथक्त्वं बाधेत् । किञ्च पृथक्त्वं यदि द्रव्याद्भिन्नं , तदा तत्रापि भेदः, एवं तत्रापि भेद इत्यनवस्था । यदि द्रव्यादभिन्नं, तदा जगदपृथगेव स्यात् । पराकान्तञ्चात्र वार्तिककारैः ।  
+ तथा च भेदस्य दुर्निरुपतया कल्पितत्वात् न तेन सद्वितीयत्वापत्तिर्ब्रह्म्णः संभवति ।  
+ न च मिथ्याभूतं भेदमुपजीव्य प्रवृत्तकर्मकाण्डस्य कथं प्रामाण्यमिति शङ्कनीयम् ।भेदस्य मिथ्यात्वेऽपि ब्रह्मज्ञानात् प्राक् मिथ्यात्वबुद्धयभावेन अविद्दावस्थायां साध्यसाधनसंबन्धांशे प्रामाण्यसंभवस्योक्तप्रायत्वात् । साधनचतुष्टयसंपन्नाधिकारिणे तु अविद्दापनयनार्थं ब्रह्मोपदिशति शास्त्रम् । अतः सर्वमपि शास्त्रं प्रमाणमेव ।  
+ प्रत्युत, भिन्नाभिन्नब्रह्मवादिमत एव शास्त्रमप्रमाणं स्यात् । तथाहि--  
+समस्तव्यस्तब्रह्मज्ञानी ब्राह्मणत्वजातित्त्वात् बृहस्पतिसवे प्रवर्तेत । क्षत्रियत्वजातिमत्त्वात् ब्राह्मणाधिकारिकात् बृहस्पतिसवात् निवर्तेतापि । न हि ब्राह्मणत्वादिमत्त्वेन परिच्छेदाभिमानोऽस्ति, येन प्रवृत्तिरुपपद्देत् । 'असुराणां ह्रोषोपनिषत्' (छा.8-8-5)इति श्रुत्वा परिच्छेदाभिमानस्यासुरत्वनेनासंभवात् । तत्संभवे ब्रह्मदर्शनस्य निष्फलत्वापत्तेः । तथा च शास्त्रस्यानुष्ठापकत्वलक्षणं प्रामाण्यं नैव भवेत् । अपि च एकं परं ब्रह्म द्वैताद्वैतात्मकमिति पक्षे उपदेशात्मकशास्त्रमेव न घटते । तस्य शोकमोहाद्दतीतत्वोपदेशानाकांक्षणात् ,तदन्यस्योपदेष्टुरप्यभावात् । न च द्वैतविषयस्यानेकत्वात् अन्योन्योपदेशः न ब्रह्मविषय उपदेश इति वाच्यम् । द्वैताद्वैतात्मकमेव ब्रह्म नान्यदस्तीत्यनेन विरोधात् ब्रह्मणोऽन्यत्रोपदेशग्रहणादिकल्पना न संभवति। न हि हस्तादिद्वैताद्वैतात्मके वाक्वर्णयोः देवदत्तैकदेशभूतयोः वाग् उपदेष्ट्री, कर्णः केवलः उपदेशस्य ग्रहीता , देवदत्तस्तु नोपदेष्टा , नाप्युपदेशस्य ग्रहीता , इति कल्पयितुं शक्यते । तस्माद् भिन्नाभिन्नं ब्रह्मेति वादो न साधुः ।  
+ 'पूर्णमदः' इति मन्त्रः न कार्यकारणावस्थयोः सत्यत्वं प्रतिपादयति । किन्तु कार्योपाधिसंपृक्तः जीवोऽपि वस्तुतो ब्रह्मैव । तस्य अहं ब्रह्मस्मीति ब्रह्मताज्ञाना्त् अविद्दानिरासे केवलब्रह्मभावः सर्वभावः, पूर्णभावः अवशिष्यत इति समस्तोपनिषत्सारभूतार्थं प्रतिपादयति ।  
+ अदः ----परोक्षं कारणं पूर्णं ----अव्यावृत्ताननुगताखण्डं ब्रह्म । इदं कार्यस्थमिदमपि पूर्णं ब्रह्म । ' यदेवेह तदमुत्र तदन्विह ' (का.2-1-10)इति श्रुतेः । इदं च पूर्णाद् अविद्दया उद्रिच्यते । पूर्णमादाय अहं ब्रह्मस्मीति ज्ञात्वा अविद्दातिरस्कारे पूर्णमेव-ब्रह्मैव केवलमवशिष्यते इत्याक्षरार्थो बोध्यः ।  
+ "ब्रह्म वा इदमग्न आसीत्, तदात्मानमेवावेदहं ब्रह्मास्मीति , तस्मात् तत्सर्वमभवत् ।"(बृ.3-4-10)इति तृतीयाध्यायोक्तस्यार्थस्यायमुपसंहार इति बोध्यम ।  
+ यदपि ब्रह्म भिन्नाभिन्न मेयत्वात् गवादिवत् इत्यनुमानात् भिन्नाभिन्नत्वादिति।तदपि साधु ।  
+ एताद्दृशानुमानेन भिन्नाभिन्नब्रह्मसिद्धेः वेदस्य तत्र केवलं लिङ्गानुवादितैव स्यात् , नानधिगतार्थगन्तृत्वलक्षणं प्रामाण्यम् । न चागमगम्यवस्तुस्फुटीकरणार्थत्वमेवानुमानस्येति नागमाप्रामाण्यमिति वाच्यम् । प्रवेशनिरुपनणावसरे "यथा क्षुरः क्षुरधाने विश्वंभरो वा विश्वंभरकुलाये ।"(बृ.3-4-7)इति द्दृष्टान्तावुक्त्वा 'तं न पश्यन्ति ' (बृ.3-4-7)इति सामान्यविशेषभावस्य आत्मनि साक्षादेव निषेधेन आगमस्य सामान्यविशेषात्मके ब्रह्मणि प्रामाण्यासिद्धेः । एकरसं ब्रह्म तात्पर्येणासंदिग्धं बोधयतां बहूनां श्रुतिवाक्यानां प्रदर्शितत्वाच्च ।  
+ अपि च अस्मत्पक्षे वैशेषिकाभिमतः अन्त्यो विशेष एव द्दृष्टान्तः । प्रत्युत भवतां पक्षे एव द्दृष्टान्तो नास्ति गवादीनां सामान्यविशेषात्मकत्वायोगात् ।  
+तथाहि गोत्वं सामान्यं खण्डादिभ्यो विशेषेभ्यो अभिन्नं , भिन्नं ,भिन्नाभिन्नं वा । आद्दे, सामान्यस्य विशेषमात्रत्वात् सामान्यरहिता विशेषाः स्युः । द्वितीये ,खण्डादीनां व्यावृत्तानां विशेषत्वात् गोत्वस्यापि विशेषेभ्यः खण्डादिभ्यो व्यावृत्तत्वात् विशेषत्वं स्यात् । एवं भिन्नाभिन्नत्वात् खण्डादिवद् गोत्वमपि न सामान्यं स्यात् । तृतीये , सामान्यं विशेषात् भिन्नाभिन्नमित्यत्र अभिन्नशब्देन विशेषाद् व्यावृत्तं यद्दुच्यते , तदा , भिन्नं गोत्वं न विशेषः किन्तु सामान्यमिति निः सामान्या विशेषाः स्युः । किञ्च , सिद्धयोः असिद्धयोः ,सिद्धासिद्धयोर्वा अपेक्षाया असंभवात् परस्परसापेक्षयोः सामान्यविशेषयोः रज्जुभुजङ्गादिवत् कल्पितत्वमेव न वास्तवत्वं संभवति। पराकान्तञ्चात्र वार्तिककारैः । अतः सामान्यविशेषभावापन्नं गवादि न द्दृष्टान्तः।  
+ सर्वस्य भिन्नाभिन्नत्वे प्रमाणतदाभासव्यवस्थापि न स्यात् । रज्ज्वादेरपि सर्पात्मत्वसंभवात् रज्जावहिबुद्धेरप्रमात्वस्य निरुपयितुमशक्यत्वात् । तथा च गवादि  
+द्दृष्टान्तेन भिन्नाभिन्नं ब्रह्म नानुमातुं शक्यते ॥  
+ "यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति "(बृ.3-4-7)इत्यादिना अविद्दावस्थायां द्वैतदर्शनमुक्त्वा , "यत्र त्वस्य सर्वमात्मैवाभूत् तत् केन कं पश्येत्"(बृ.4-5-14)इति विद्दावस्थायां द्वैतदर्शनाभावं श्रुतुर्ब्रूते । द्वैतस्य सत्यत्वे अविद्दावस्थायामेव तद्दर्शनवचनं न घटते । अतः द्वैताद्वैतात्मकं ब्रह्म न शास्त्रार्थः ।  
+ "अत्र ह्यते सर्व एकं भवन्ति "(बृ.3-4-7)इति श्रुतिः आत्मनः कृत्स्नत्वनिरुपणाय प्रवृत्ता । अत्र---अस्मिन् आत्मनि निरुपाधिके हि यस्मात् जलसूर्यप्रतिबिम्बभेदा इवादित्ये , प्राणाद्दुताधिकृता विशेषाः प्राणादिकर्मजनाधेयाः यथोक्ता ह्येते एकं-अभिन्नतां भवन्ति-प्रतिपद्दन्ते इति तस्या अर्थो बोध्यः । 'इदं सर्वं यदयमात्मा '(बृ.4-4-6)इति वाक्यं जगत आत्ममात्रत्वं बोधयति ।बाधायामत्र सामानाधिकरण्यं मन्तव्यम् ।  
+ "तद्दथा रथनाभौ च रथनेमौ च अराः सर्वे समर्पिताः , एवमेवास्मिन्नात्मनि सर्वाणि भूतानि सर्वे देवाः सर्वे प्राणाः सर्वे एते आत्मानः समर्पिताः ।" (बृ.4-5-15)इत्यत्र चक्रनभौ चक्रनेमौ च अराणामिव प्राणानामात्मनि ओतप्रोतभाव उच्यते । न तु उपासनाविशेषो विधीयते । कृत्स्नेऽपि ब्रह्मणे उपासनपदस्यैवाभावात् ,केवलद्दृष्टान्तावष्टम्भेन उपासनाविधिकल्पनस्याप्रामाणिकत्वात् ।  
+ अपि च " तदेतब्रह्मापूर्वमनपरमबाह्यं .....इत्यनुशासनम् "(बृ.4-5-19) इति  
+समनन्तरप्रधानवाक्ये बाह्यान्तरविभागस्य कार्यकारणादेश्च वारणात् , " अथ योऽन्यां देवतामुपास्ते अन्योऽसावन्योऽहमस्मीति न स वेद "(बृ.3-4-10)इति भेदद्दृष्टेर्निन्दितत्वेन तद्द्दृष्टिपूर्वकोपासनाविधौ शास्त्रतात्पर्यकल्पनाया अयोगाच्च,भिन्नाभिन्नं समस्तव्यस्तात्मकं ब्रह्म न शास्त्रार्थ इति सिद्धम् ॥  
+ जीवश्च न ब्रह्मविकारः । परमात्मविकारत्वे त्रय एव पक्षाः संभाव्यन्ते ।  
+अनेकद्रव्यसमाहारः तिलराशिवत् परः, परस्परापेक्षाणि अनेकद्रव्याण्येव वा परः । तदेकदेशो विज्ञानात्मत्वेन परिणमते, यथा क्षित्येकदेशः घटाद्दात्मना इत्येकः पक्षः । यथा कृत्स्नं पयो दधिरुपेण परिणमते, तथा परः जीवरुपेणेति तृतीयः पक्षः ।  
+ तत्र नाद्दः पक्षः समीचीनः । अनेकद्रव्यसमूहस्य परत्वे समूहस्यावस्तुत्वात् ,समूहिनां भिन्नत्वाद् ब्रह्म एकं न स्यात् । एकजातीयत्वादेकत्वञ्च न मुख्यमिति एकं ब्रह्मेति सिद्धान्तहानिः ।  
+ अनेकेषु द्रव्येषु संसृष्टेषु समवेतः पर एकोऽवयवी तदेकदेशविकारो जीव इति द्वितीयपक्षे अवयविनः प्रत्यवयं पर्याप्तत्वात् अवयवगतगुणदोषाणाम् अवयविनि प्राप्त्या,परैकदेशावयवजीवगतं संसारित्वं परस्याप्यापतेत् ।  
+ तृतीये तु पक्षे, ' न जायते म्रियते ' (का.1-2-18)इत्यादिभिः षड्भावविक्रयानिषेधकश्रुतिभिर्विरोधः ।  
+ एते त्रयोऽपि पक्षाः "दिव्यो ह्यमूर्तः पुरुषः "(मु.2-12)" निष्फलं निष्क्रियं शान्तम् " (श्वे.6-19)इत्यादिश्रुतिभिः 'अविकाराय शुद्धाय '(वि.सह) "अविकार्योऽयमुच्यते "(भ.गी.2-25)इत्यादिस्मृतिभिश्च विरुद्धाः ।  
+ किञ्च, परात्मविकारत्वे जीवस्य स्वर्गनरकादिगमनं न स्यात् । न हि अंशिनः पटस्य निश्चलत्वे अंशतन्तूनां चलनं भवति । न च अग्नेरेकदेशोऽपि विस्फुलिङ्गः अग्नेस्त्रुटितः यथा देशान्तरं गच्छति , तथा परैकदेशोऽपि जीवः तस्मात् त्रुटितः स्वर्गनरकादिकं गच्छेदिति वाच्यम् । मत्स्यसञ्चारे वारिणि छिद्रसंग्रथनयोरिव परस्मिन्नपि जीवसंसरणेन छिद्रसंग्रथनापत्त्या अव्रणत्वहानिरिति 'अकायमव्रणम्' (ईशा.8)इति श्रुतिविरोधः । न च विस्फुलिङ्गद्दृष्टान्तनिरुपकश्रुतिबलात् नित्यस्यापि परस्य विकारित्वं जीवस्य विकारत्वञ्च सिद्धयतीति वाच्यम् ।शास्त्रस्य ज्ञापकत्वेन कारकत्वाभावात् । लोकसिद्धार्थबोधकत्वम् । तस्मात् विस्फुलिङ्गादिद्दृष्टान्तेन परस्यांशित्वं जीवस्यांशत्वं विकारत्वं कल्पयितुं न युक्तम् , निष्कलत्वादिश्रुतिविरोधात् ।  
+ परन्तु प्रधानीभूतजीवब्रह्मौकत्वबुद्धिजननार्थमेव ताद्दृशद्दृष्टान्तोपादानम् , सृष्टिश्रुतेः एक्यज्ञानार्थत्वात् । बृहदारण्यके 'इदं सर्वं यदयमात्मा' (4-5-6)इत्युपक्रम्य , सृष्टलयादिनिरुपणेन सर्वस्यात्ममात्रत्वमुपपाद्द, अन्ते "तदेतद्ब्रह्मापूर्वमनपरमबाह्यमयमात्मा ब्रह्म सर्वानुभूरित्यनुशासनम् "(बृ.4-5-9)इत्यैकात्म्यनिरुपणेनोपसंहारो द्दृश्यते । एवमेव सर्वत्रोपनिषदि लक्ष्यते ।  
+ जीवश्च न ब्रह्मविकारः । परमात्मविकारत्वे त्रय एव पक्षाः संभाव्यन्ते । अनेकद्रव्यसमाहारः तिलराशिवत् परः , परस्परापेक्षाणि अनेकद्रव्याण्येव वा परः । तदेकदेशो विज्ञानात्मत्वेन परिणमते, यथा क्षित्येकदेशः घटाद्दात्मना इत्येकः पक्षः । यथा पुरुषस्य पूर्वावस्थानुपमर्देन केशनखादिपरिणामः , यथा वा क्षितेरुषरादिर्विकारः, तथा परस्य पूर्वावस्थस्यैव एकदेशस्थो जीवाख्यो विकार इति द्वितीयः पक्षः । यथा कृत्स्नं पयो दधिरुपेण परिणमते , तथा परः जीवरुपेणेति तृतीयः पक्षः ।  
+ तत्र नाद्दः पक्षः समीचीनः । अनेकद्रव्यसमूहस्य परत्वे समूहस्यावस्तुत्वात् , समूहिनां भिन्नत्वाद् ब्रह्म एकं न स्यात् । एकजातीयत्वादेकत्वञ्च न मुख्यमिति एकं ब्रह्मेति सिद्धान्तहानिः ।  
+ अनेकेषु द्रव्येषु संसृष्टेषु समवेतः पर एकोऽवयवी तदेकदेशविकारो जीव इति द्वितीयपक्षे अवयविनः प्रत्यवयवं पर्याप्तत्वात् अवयमगतगुणदोषाणाम् अवयविनि प्राप्त्या, परैकदेशावयवजीवगतं संसारित्वं परस्याप्यापतेत् ।  
+ तृतीये तु पक्षे, 'न जायते म्रियते '(का.1-2-18)इत्यादिभिः षड्भावविक्रियानिषेधकश्रुतिभिर्विरोधः ।  
+ एते त्रयोऽपि पक्षाः "दिव्यो ह्यमूर्तः पुरुषः "(मु.2-12)"निष्कलं निष्क्रियं शान्तम् "(श्वे.6-19)इत्यादिश्रुतिभिः 'अविकाराय शुद्धाय '(वि.सह.)"अविकार्योऽयमुच्यते " (भ.गी.2-25)इत्यादिस्मृतिभिश्च विरुद्धाः ।  
+ किञ्च , परात्मविकारत्वे जीवस्य स्वर्गनरकादिगमनं न स्यात् । न हि अंशिनः पटस्य निश्चलत्वे अंशतन्तूनां चलनं संभवति । न च अग्नेरेकदेशोऽपि जीवः तस्मात् त्रुटितः स्वर्गनरकादिकं गच्छेदिति वाच्यम् । मत्स्यसञ्चारे वारिणि छिद्रसंग्रथनयोरिव परस्मिन्नपि जीवसंसरणेन छिद्रसंग्रथनापत्त्या अव्रणत्वहानिरिति 'अकायमव्रणम्' (ईशा.8)  
+इति श्रुतिविरोधः । न च विस्फुलिङ्गद्दृष्टान्तनिरुपकश्रुतिबलात् नित्यस्यापि परस्यविकारित्वं जीवस्य विकारत्वञ्च सिद्धयतीति वाच्यम् । शास्त्रस्य ज्ञापकत्वेन कारकत्वाभावात् । लोकसिद्धद्दृष्टान्तपदार्थननूद्द तदनुगुणानधिगतार्थबोधकत्वमेवागमानां, न प्रमाणविरुद्धार्थबोधकत्वम् । तस्मात् विस्फुलिङ्गादिद्दृष्टान्तेन परस्यांशित्वं जीवस्यांशत्वं विकारत्वं कल्पयितुं न युक्तम् , निष्कलत्वादिश्रुतिविरोधात् ।  
+ परन्तु प्रधानीभूतजीवब्रह्मौकत्वबुद्धिजननार्थमेव ताद्दृशद्दृष्टान्तोपादानम्, सृष्टिश्रुतेः ऐक्यज्ञानार्थत्वात् । बृहदारण्यके 'इदं सर्वं यदयमात्मा '(4-5-6)इत्युपक्रम्य, सृष्टिलयादिनिरुपणेन सर्वस्यात्ममात्रत्वमुपपाद्द,अन्ते " तदेतद्ब्रह्मापूर्वमनपरमबाह्यममात्मा ब्रह्म सर्वानुभूरित्यनुशासनम् "(बृ.4-5-19)इत्यैकात्म्यनिरुपणेनोपसंहारो द्दृश्यते । एवमेव सर्वत्रोपनिषदि लक्ष्यते ।  
+ प्रवेशश्रुतिरपि नैदम्पर्येण परस्य प्रवेशं प्रतिपादयति । प्रवेशस्य अफलत्वेनाप्रतिपाद्दत्वात् । परन्तु देहविशिष्टं जीवं लोकसिद्धमनूद्द तस्य ब्रह्मत्वमभयप्राप्तिफलकं प्रतिपादयति । तस्माद् ब्रह्मविकारो जीव इति न शास्त्रार्थः ।  
+ विज्ञानमय इत्यस्य न विज्ञानशब्दितब्रह्मणो विकारः इत्यर्थः । भर्तृप्रपञ्चैरेव , अन्यत्र विज्ञानमयो मनोमय इत्यादौ मयटो न विकारर्थत्वम् इत्युक्तत्वेन स्वोक्तिविरोधात् ।जीवस्य परविकारत्वे च तस्य ब्रह्मणि लयः तेषामभिमतो मोक्षः कारणापत्तिरिति स्यात् । इत्थञ्च प्रलयानन्तरं सर्गादौ पुनरापत्तिरिति अनिर्मोक्षप्रसङ्गः । तस्मादत्र मयट् न विकारार्थः । विज्ञानशब्देनापि बुद्धिरेव विवक्षिता । मयटः प्रायार्थता । बुद्धिप्रायः बुद्धिप्रधानः बुद्धिप्रचुरः जीवः इत्यर्थः । वाक्यशेषाच्चायमेवार्थोऽवसीयते । "पृथिवीमयः आपोमयः वायुमयः तेजोमयः "(बृ.6-4-5)इत्यादौ मयटः विकारार्थताया असंगतेः ॥  
+ यत्तु मूर्तामूर्तात्मकसत्त्वराशेः पृथग्भूबतस्य अविद्दया परस्मात् परिच्छेदं प्राप्तस्य विज्ञानात्मनः अपाञ्चभौतिकं हरिद्राद्दुपरक्तवस्त्रादिवत् नानाविधरागादिवासनोपचयात्मकं रुपम् । तदेव ब्रह्मणः आत्मान्तराञ्च भेदकम् । एतञ्च विज्ञानात्मनो रुपं "तस्य हैतस्य पुरुषस्य रुपं, यथा माहारजनं वासः , यथा पाण्ड्वविकम् ।"  
+(बृ.4-3-6)इति श्रुत्या प्रतिपाद्दते इति । तदपि न साधु ।  
+ पुष्पवासना पुष्पसजातीये द्रव्ये वस्त्रादौ भवति, न रुपादौ । आत्मा च न द्रव्यमिति न वासनाश्रयः । तथा च प्रयोगः , आत्मा न वासनाश्रयः अद्रव्यत्वात् रुपादिवदिति । अपि च द्रव्येऽप्याकाशे पुष्पसंबन्धाद्वासना न भवति . ततः किं वक्तव्यमसङ्गे आत्मनि न वासनेति ।  
+ किञ्च सजातीयेष्वेव वासना भवति । चिदात्मनि परा अपरा वा जातिर्नास्तीति साजात्यस्यैवाभावात् न वासना भवितुमर्हति । अपि च मृद् घटाकारतामिव आत्मा वासनाकारतां प्राप्नोति चेत् , वासनाया आत्मरुपेण स्थितेः , ब्रह्मणः आत्मान्तराच्च भेदकत्वं न ,स्यादिति वासनाया वैयर्थ्यम् । वासनायाः संबन्धश्च नात्मनि संभवति । श्रोत्रजन्यज्ञानस्य च विषयत्वाविशेषे।पि मिथो विषयविषयित्वाभावेन शब्दज्ञानं रुपवासनावास्यं न भवति । चित्तस्तु असङ्गत्वात् विषयत्वमेव नेति न रागादिवासनासंगतिः संभवति ।तच्च वासनामयं पञ्चभूतसंबन्धात् प्राप्तमिति अपाञ्चभौतिकमिति वचनं व्याहतं बोध्यम् ॥  
+ "तस्य हैतस्य " इत्यादिना वाक्येन न जीवस्परुपमुच्यते । परंतु करणातमनो लिङ्गस्य स्वरुपं वासनामयम् । "योऽयं दक्षिणेऽक्षणन् पुरुषः "इत्यध्यात्मे "य एष एतस्मिन् मण्डले पुरुषः "इति अधिदैवे च प्रस्तुतस्य लिङ्गात्मनः तस्येति प्रकृतार्थकसर्वनाम्नोपादानात् । न च पाणिपेषवाक्ये विज्ञानमयस्यापि प्रकृतत्वात् 'तस्य 'इत्यनेन विज्ञानमयस्य ग्रहणमपि संभवतीति वाच्यम् । 'नेति नेति ' इति समनन्तरादेशकथनेन विज्ञानमयस्य रुपोपदेशः, 'नेति नेति 'इति तु विज्ञानमयादन्यस्यादेश इति शङ्कनीयम् । षष्ठे 'विज्ञातारमरे केन विजानीयात् ',(बृ.6-5-15)इति विज्ञानमयं प्रस्तुत्य , 'नेति नेत्यात्मा ' इति आत्मशब्दप्रयोगात् । अत एव 'व्येव त्वा ज्ञपयिष्यामि '(बृ.4-1-15)इति उपक्रमोऽपि संगच्छते । जीवपरभेदे अहं ब्रह्मस्मीति धीः मुक्तिदायिनी न स्यात् ।आह च "ब्रह्म वा इदमग्न आसीत् , तदात्मानमवावेदहं ब्रह्मस्मीति , तस्मात्तत्सर्वमभवत्" (बृ.3-4-10)इति श्रुतिः ताद्दृशधियैव सर्वभावरुपं मोक्षम् ।  
+तस्मादत्र 'तस्य'इत्यनेन लिङ्गात्मन एव ग्रहणं युक्तमिति न वासनामयं जीवस्वरुपं शास्त्रार्थः ॥  
+ परस्मादुत्थिता अविद्दा परिच्छेत्री इत्युक्तिरपि न समञ्जसा । अविद्दायाः परविकारत्वे पर एव संसारी स्यात् । अविद्दावतः संसारित्वात् ।अविद्दास्थितौ च न मोक्षः । न चाविद्दा अतयन्तं नश्यति । कारणे स्थिते कार्यस्यात्यन्तिकनाशायोगात् , आत्यन्तिकनाशे पराभावप्रसङ्गात् ॥  
+ परमात्मराशिः मूर्तामूर्तराशिः वासनाराशिः इत्येव राशित्रयकल्पनया तार्किकैः सह सामञ्जस्ये सर्वं रमणीयं भवतीति ते मन्यन्ते । नोपनिषत्सिद्धान्तं सर्वनायायविऱोधञ्च पश्यन्ति । परस्य सावयवत्वकल्पने तस्य संसारित्वं सव्रणत्वं , तदवयवस्य जीवस्य कर्मफलदेगमनानुपपत्त्यादिकं दोषजातमुक्तमेव ।परस्यांशित्वे विकारित्वे च अस्थूलादिवाक्यविरोधः ।  
+ लिङ्गोपाधिः आत्मा परस्यांशः इत्युक्ते , लिङ्गाभावेऽपि लिङ्गस्थवासना जीवे तिष्ठतीति तत्सिद्धान्तासिद्धिः । लिङ्गस्योपाधेरभावे जीवस्याभावात् ।  
+ वासनायाः वस्त्वन्तरसञ्चरणं मनसापि कल्पयितुमशक्यम् । श्रुतिविरोधश्च भवति।" कामः संकल्पो विचिकित्सा श्रद्धाऽसद्धा हृर्धीर्भीरित्येतत्सर्वं मन एव "(बृ.3-4-3)'हृदये ह्येव रुपाणि ' 'कामा येऽस्य हृदि श्रिताः '(बृ.6-4-7)" तीर्णो हि तदा सर्वान् हृदयस्य भवति "(बृ.6-3-23)इत्यादिश्रुतिभिः बुद्धावेव काम्दिवासनाश्रयत्वस्यासंदिग्धतया सामञ्जस्येन प्रतिपादनात् । आसां श्रुतीनां श्रुतादर्थादर्थान्तरकल्पना न न्याय्या ।तस्मात् कामादिवासनाश्रयत्वमात्मनः न शास्त्रार्थः ॥  
+ अपि च , राशित्रयकल्पनायां "द्वै वाव ब्रह्मणो रुपे मूर्तञ्चैवामूर्तञ्च"  
+(बृ.3-4-3) इति श्रुतिः न समञ्जसा स्यात् । यदा वासनासहिते मूर्तामूर्ते द्वे, ब्रह्म च रुपि तृतीयं , न चान्यच्चतुर्थमन्तराले, तदा द्वे एव ब्रह्मणो रुपे इत्यवधारणमनुकुलं भवेत् । राशित्रयकल्पनापक्षे जीवस्य रुपिमध्येऽन्तर्भावे ब्रह्मैकदेशभूतस्य जीवस्य द्वे रुपे इति वा, विज्ञानात्ममुखेन ब्रह्मणो द्वे रुपे इति वा श्रुत्या भाव्यम् । जीवस्य रुपमध्यप्रवेशे निषेध्यकोटिप्रवेशापत्तिः । श्रुत्या च विज्ञानात्मरुपं ब्रह्मणो रुपम् इत्याकारया भाव्यम् । किञ्च मूर्तामूर्तयोरिव वासनाया अपि रुपान्तरस्य सत्त्वात् 'द्वे वाव रुपे ' इति द्वित्वावधारणमसंगतं स्यात् ।  
+यदि च वासनाया जीवरुपत्वात् मूर्तामूर्ते द्वे एव ब्रह्मणो रुपे इत्युच्यते । तदा जीवद्वारा विक्रियमाणस्य परस्य मूर्तामूर्ते रुपे इत्युक्तिरयुक्ता, वासनानामपि जीवद्वारा ब्रह्मणि संबन्धप्रसङ्गात् । तस्मात् राशित्रयकल्पना न श्रौती इत्यवधेयम् ।  
+ यदपि लिङ्गद्वारा आत्मस्थाः कामाः संसारप्रयोजकाः, ते यदा निवर्तन्ते तदा अमृतत्वप्राप्तिः । आत्माभिन्नकामास्तु संसर्गाभावात् न निवर्तन्ते स्वभिन्नस्यैव स्वसंसृष्टस्य निवृत्तेरुपपत्तेरिति ।  
+ तदपि नो साधु ।  
+ कामादीनां मनोधर्मत्वस्य श्रुतिसिद्धत्वेन आत्मनि कामासंभवात् , आत्मनः कामरुपत्वे मानाभावात् अतिच्छन्दश्रुत्या कामसंबन्धस्य निषिद्धत्वाच्च ।  
+ न च "सर्वकामः सर्वगन्धः"(छा.3-14-4)इति छन्दोगश्रुतिरेव आत्मनि कामसंबन्धे मानमिति वाच्यम् । अतिच्छन्दश्रुतिविरोधेन तस्या आत्मनः कामसंबन्धे प्रामाण्यविरहात् । वस्तुनि च विकल्पासंभवात् ।  
+ वस्तुतः छान्दोग्ये मनोमयत्वादिगुणकसोपाधिकात्मध्यानविधिपरवाक्ये सर्वकामपदं श्रुयते । अतिच्छन्दवाक्यंतु अनन्येशेषं स्वार्थतात्पर्योपेतम् । ततश्च तत्परातत्परयोः तत्परस्य प्राबल्यात् तुल्पयबलत्वाभावेन विकल्पस्य संभावनापि न। प्रत्युत प्रबलेन अतिच्छन्दवाक्येन सर्वकामवाक्यस्य वाध एवेति बोध्यम् ।  
+   
+ दहरविद्दाधिकारे श्रूयमाणं "त इमे सत्याः कामाः "(छा.8-3-2)इति वाक्यमपि न वस्तदुपरम् । परन्तु उपास्तिविधिपरम् ।वस्तुपरत्वेऽपि न कामसंबन्धप्रतिपादकम् । कामानामसत्यनिराकरणपरत्वात् । अथवा ब्रह्मोपासनस्य विधित्सितत्वात् उपास्यस्तुतिपरं तद्वाक्यं न कामसंबन्धप्रतिपादनपरम् । सर्वथापि अतुल्यबलत्वात् अतिच्छन्दवाक्येन 'त इमे सत्याः कामाः '(छा.8-3-2)इत्यस्य बाध एव । छान्दोग्ये वस्तुपरे प्रजापतिवाक्ये श्रूयमाणस्य सत्यकामपदस्य अवितथसुखरुपत्वमर्थः कामपदेन काम्यमानसुखाभिधानात् ।  
+ 'आत्मकामम् 'इति श्रुतेरयमर्थः । आत्मैव ्ामा यस्मिन् रुपे अन्यत्र प्रविभक्ता इव अन्यत्वेन काम्यमाना यथा जाग्रत्स्वग्नयोः तस्यात्मैव, अन्यत्वप्रत्युपस्थापकहेतोरविद्दाया अभावादात्मकाममिति । अत एवानुपदं ब्रवीति अकाममिति । काम्यविषयाभावादिति तदाशयः ।  
+   
+ किञ्च आत्मनः काममयत्वे संसारदनिर्मोक्षप्रसङ्गः हृदयाश्रितकामानामेव बन्धप्रयोजकत्वात् नात्माश्रितकामैः संसरणमिति यद्दुच्यते , तदा कामनिषेधकश्रुतेः सद्भावात् कामसंबन्धे प्रमाणाभावाच्च विफलमात्मनः कामसंबन्धकल्पनमिति बोध्यम् ।  
+   
+ न च ' यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः '(बृ.6-4-7)इति श्रुतौ कामानां हृदि श्रित्वविशेषणोपादानेन आत्माश्रिताः कामाः सन्तीति लभ्यते । वामेनाक्ष्णा न पश्यतीत्युक्ते दक्षिणेन पश्यतीति लाभवदिति वाच्यम् । ब्रह्मविदः कामा निवर्तन्ते इति प्रतिज्ञायां , अज्ञानजन्यबुद्धयाश्रितत्वात् कामानां, अज्ञाननाशे तज्जन्यबुद्धिनाशात् नाश इति हेतुनिरुपणाय हृदि श्रिता इति विशेषणमुपात्तम्, नान्याश्रितमामव्यावृत्तये । एवं लब्दसत्ताकाः कामाः हृदयमाश्रयन्ते नालब्धसत्ताकाः । तान् कामान् व्यावर्तयितुमिदं विशेषणम् । न च किमर्थं लब्धसत्ताकत्वबोधनमिति शङ्कनीयम् । विषयदोषदर्शनादिना , लब्धसत्तककामनिवृत्तौ महान् यत्न कर्तव्य इति प्रतिपादनार्थत्वात् । अथवा, कामशब्दः कर्मव्युत्पत्त्या, करणव्युत्पत्त्या, भावव्युत्पत्त्या च अनेकार्थबोधकः । तत्र भावव्युत्पत्त्या कामशब्दबोध्याः तृष्णाविशेषा एव हृदि श्रिताः । सर्वेषां तृष्णाविशेषाणां निवृत्तावेव मुक्तिः नान्यथा इति प्रतिपादनाय हृदि श्रिता इति विशेषणं सार्थकम् ।  
+ तस्मात् न हृदि श्रिता इति विशेषणबलादात्मनि कामानां सिद्धि । अतश्च आत्मनः कामरुपत्वं न शास्त्रार्थः । तथा चात्र भाष्यम् -------  
+ 'महता प्रयत्नेन कामाद्दाश्रयत्वकल्पनाः प्रतिषेद्धव्याः , आत्मनः परेणैकत्वशास्त्रार्थसिद्धये । तत्कल्पनायां पुनः क्रियमाणायां शास्त्रार्थ एव बाधितः स्यात् । यथा इच्छादीनामात्मधर्मत्वं कल्पयन्तो वैशेषिका नैयायिकाश्च उपनिष्च्छास्त्रार्थेन न संगच्छन्ते । तथा इयमपि कल्पना उपनिषच्छास्त्रार्थबाधनान्नादरणीया ।'इति ॥  
+ यदपि ज्ञस्वभाव आत्मा द्दृष्टिक्रियाकर्तृत्वात् द्रष्टा इत्युच्यते , तृचः कर्त्रर्थकत्वात् । गुणानां गुणिस्थित्यनुसारित्वात् गुणिन आत्मनो नित्यत्वात् तद्धर्मभूता द्दृष्टिक्रियापि नित्या आदित्यस्य रश्मिरिव । एवं च विज्ञानात्मा नित्यः अपरिलुप्तया द्दृष्टया सदा पश्यन्नास्ते इति ।  
+ तदपि न समीचीनम् ।  
+ आत्मनोऽसङ्गस्य कूटस्थतायाः प्रतिपादितत्वात् न द्दृष्टिक्रियाकर्तृत्वं संभवति , क्रियाकारकादिरुपस्य सर्वस्यापि प्रत्यङ्गात्रतत्त्वकत्वात् आत्मातिरिक्तवस्त्वभावान्न द्दृष्टिक्रियाकर्तृत्वं घटते । अपि च कारकसाक्षिणः कारकत्वं नैव संभवति साक्षिणः क्रियानाश्रयत्वात् ।  
+ विज्ञानात्मकर्तृका चेत् द्दृष्टिक्रिया, सा अवश्यं नश्येत् क्रियायाः गतेरिव अभूत्वा भावित्वात् , जन्यतायाश्च नाशाविनाभावात् , द्दृष्टिकर्त्रा क्रियमाणा द्दृष्टिक्रिया न लुप्यते इति व्याहतम् । न च "न हि द्रष्टुः द्दृष्टेर्विपरिलोपो विद्दते अविनाशित्वात् "(बृ.6-3-32)इति श्रुतिबलात् द्रष्टुरविनाशात् द्दृष्टेर्न विनाश इति वाच्यम् । वचनं कार्यस्य नित्यत्वं न बोधयेत् यत् कृतकं तदनित्यमिति न्यायविरोधात् । नापि कृतकस्य नित्यत्वं कुर्यात् कारकस्य तस्य कुठारादेरिव प्रामाण्याभावापातात् ।कारकत्वेऽपि प्रमाणत्वं स्यादिति न शङ्कनीयम् । मानसंबन्धात् प्रागेव सिद्धस्यैव बोधकत्वान्मानानाम् । व्यञ्जकस्य व्यङ्गयविषयापेक्षत्वात् प्रदीपादौ तथा द्दृष्टेः ।  
+ न च गुणानां गुणिस्थित्यनुसारित्वात् आत्मनो नित्यत्वात् द्दृष्टिरपि नित्येति वायच्यम् । केशेषु सत्स्वेव तत्र कृष्णत्वगुणनिवृत्तेः गुणानां गुणिस्थित्यनुसारिताया व्यभिचरितत्वात् । निर्मथनात् पूर्वमपि अरणिस्थिते अग्नौ दाहो नेति, नाग्निदाहोऽपि द्रष्टृगुणद्दृष्टेर्नित्यत्वे द्दृष्टान्तः संभवति । गुणस्य गुणिस्थित्यनुसारित्वेऽपि क्रियाया द्दृष्टेः किमायातम् , क्रियाया जन्मविनाशस्वभावत्वात् । तस्मा  
+त द्दृष्टेः गुणत्वे क्रियात्वेऽपि वा यावदद्रव्यभावित्वं न सिद्धयति ।  
+ किञ्च विज्ञानात्मा द्दृष्टिक्रियाकर्ता चेद्विवक्षितः, तदा द्दृष्टेः क्रियाया इव तत्कर्तुरपि अनित्यत्वं स्यात् । क्रियापेक्षत्वात् कर्तुत्वस्य क्रियायाय अभावे तदयोगात् , क्रियाकारकयोः परस्परसापेक्षत्वात् । सिद्धयोः , असिद्धयोः ,सिद्धासिद्धयोर्वा अपेक्षाविरहात् सापेक्षस्य स्फटिकलौहित्यवत् कल्पितत्वमेवेति न द्दृष्टिक्रियाकर्ता विज्ञानात्मेति युज्यते ।  
+ तथा च द्दृष्टिक्रियाकर्ता विज्ञानात्मा अविपरिलुप्तया द्दृष्टया सदा पश्यन्नास्ते इत्यसंगतम् ।  
+ यदपि , स्वापे विभक्तस्य द्रष्टव्यस्याभावात् न पश्यति ।जगतस्तदा भिन्नाभिन्नब्रह्मणा अविभक्तत्वात् । ज्वलन्नपि वह्निः अनभ्याहितमिन्धनं यथा न दहति तथा नित्यद्दृष्टया पश्यन्नपि विभक्तस्य द्रष्टव्यस्याभावात् न विशेषविज्ञानवानिति ।  
+ तदपि न ।  
+ द्रष्टुः द्दृष्टेश्च द्रष्टव्यापेक्षत्वात् तदभावे तयोरप्यनुपपत्तेः पश्यन्नपि न पश्यतीत्यस्यायोगात् ।  
+ द्रष्टृद्दृष्टयोः स्वापे सत्त्वे, तयोः विविच्य प्रत्यक्षं स्यात् । यथा तमस्यवस्थितः घटमजान्नपि तमः, ज्ञातारं , ज्ञानं च विविच्य जानाति । तथा स्वापे विषयविशेषमजानन्नपि स्वापं द्रष्टारं द्दृष्टिं च विविच्य जानीयात् । न च जानाति । अतः द्रष्टव्यमात्रस्य निषेधनं न युक्तम् ।  
+ किञ्च स्वापेऽपि द्रष्टव्यस्य भिन्नाभिन्नब्रह्मत्मना सत्त्वात् कुतः तदभावः । यदि द्रष्टुः सकाशादत्यन्तविभक्तं द्रष्टव्यं तदा नास्तीत्युच्यते । तदा भेदाभेदमते जाग्रत्यपि द्रष्टव्यं न द्रष्टुरत्यन्तभिन्नं वर्तते इति तदापि न जानीयात् । तस्मात् विभक्तस्य द्रष्टव्यस्याभावात् नित्यद्दृष्टिरपि न पश्यतीति न संगच्छते ॥  
+   
+ यदपि , यथा अग्नेः औष्ण्यं प्रकाशनं ज्वलनं प्रकाशनं ज्वलनं चेत्यनेके धर्माः परस्परं विभिन्नाः , धर्मिणः अग्नेः भिन्नाभिन्नाश्च वर्तन्ते । तथा आत्मनः द्दृष्टिघ्रादिरसयतिप्रभृतयः विभिन्नाः क्रियाः, आत्मनो भिन्नाभिन्नाश्च । स्थूलेषु गवादिषु गोद्रव्यत्वेनैकत्वं सास्नादीनाञ्च विभिन्नत्वं द्दृष्टमिति, निरवयवेष्वपि तथैव भिन्नाभिन्नत्वमनुमेयम् । एवमात्मन एकत्वं द्दृष्टयादीनां परस्परं नानात्वम् । 'यद्वै तन्न पश्यति' 'यद्वै तन्न जिघ्रति' इत्यादिभिः अष्टभिः पर्यायैः द्दृष्टयादिभेदः प्रकाशितः बृहदारण्यके इति ।  
+ तदपि न समञ्जसम् ।  
+ भेदस्य दुर्निरुपतया भेदाभेदवादस्यासंगतत्वात् । भेदः किं धर्मः , उत स्वरुपादन्यस्य निः स्वरुपत्वेन तत्र प्रमाणाप्रवृत्तेः । स्वरुपत्वे, तस्य स्वयमेव प्रतियोगि अन्यद्वा । आद्दे शून्यपरिशेषापत्तिः एकासिद्धेः । द्वितीये स्वरुपादन्य निः स्वरुपत्वात् तत्प्रतियोगिको भेदः कल्पितः स्यात् ।  
+ एवं सामान्यविशेषेयोः भिन्नत्वं, अभिन्नत्वं वा । आद्दे न भिन्नाभिन्नत्वम्, अत्य न भिन्नाभिन्नत्वम् , अत्यन्तभेदवादापत्तेः । द्वितीये विशेषस्य सामान्यभेदे विशेषाभावात् , सामान्यस्य विशेषाभेदे सामान्याभावाच्च सामान्यविशेषभावस्यैवासिद्धिः । पराक्रान्तञ्चात्र वार्तिककारैः ।  
+ स्थूलेष्वपि भिन्नाभिन्नत्वानुपपत्तेः न तदद्दृष्टान्तेन सूक्ष्मेषु भिन्नाभिन्नत्ववादो युक्तः । निरवयवस्यानेकधर्मयोगित्वे च न द्दृष्टान्तोऽस्ति । परमाण्वादीनामपि नानेकधर्मयोगित्वम् । तदुक्तं भाष्यकारैः -----"परमाणुर्नाम पृथिव्या गन्धघनायाः परमसूक्ष्मोऽवयवः गन्धात्मक एव । न तस्य पुनर्गन्धवत्त्वं नाम शक्यते कल्पयितुम् "। इति । तस्मात् नानुमानेन आत्मनः द्दृष्टयादिविभिन्नक्रियावत्त्वं सिद्धयति ।  
+ नापि 'यद्वै तन्न पश्यति '(बृ.6-3-23)'यद्वै तन्न जिघ्रति' (बृ.6-3-24)  
+इत्यादिश्रुत्या सिद्धयति । तात्पर्योपेतैः अस्थूलादिवाक्यशतैः एकरसस्य ब्रह्मणः बोधितत्वात् , ताद्दृशबहुप्रमाणविरुद्धार्थबोधकत्वस्य निरुक्तश्रुतावयोगात् ।  
+ परन्तु चैतन्यमात्मनो न स्वभावः , स्वापे चैतन्यादर्शनादित्याशङ्कय , तत्रापि अविनश्वरी द्दृष्टिरस्तीति प्रतिपादनाय 'यद्वै तन्न पश्यति 'इत्यादि वाक्यजातं प्रवृत्तम् । प्रबोधादाविव सुषुप्तावपि कामाद्दभावसाक्षिणी द्दृष्टिरस्त्येव । सा च चैतन्यमेव । तच्च चक्षुरादिजन्या वृत्तीः भिन्नभिन्ना अवभासयत् तत्तदाकारं भवति । यथामणिः स्वच्छः हरितनीलपीताद्दुपाधिसंयोगात् तत्तदाकारो भवति । चैतन्यमेवावभासकं घ्रात्यादिविभिन्नवृत्तिसंबन्धात् विभिन्नमिव भाति । एवं लोकसिद्धद्दृष्टयादिभेदमनूद्द आत्मज्योतिषः स्वाभाविकत्वमेवोच्यते श्रुत्या, न पुनः द्दृष्टयादीनां भेदः ,लोकतः प्राप्तत्वादित्यवधेयम् । अत एव विज्ञप्तिमात्ररुपे परमात्मनि द्दृष्टिघ्रात्यादिभेदनिरासायैव 'यद्वै तन्न रसयति ' इत्यनन्तरं 'रसयन्वै तन्न रसयति 'इति वाक्यस्य स्थाने 'विजानन्वै तन्न रसयति ' इति माध्यन्दिना अधीयते । तस्मात् न श्रुत्या द्दृष्टयादिनानाविधधर्मवानात्मा सिद्धयतीति मन्तव्यम् ॥  
+ विज्ञानात्मनः संसारिणो मुक्तिः केवलं ब्रह्मविद्दयैव भवति । ब्रह्मभावस्य मोक्षत्वात् , तस्य च स्वतः सिद्धस्य अविद्दामात्रव्यवदानात् , तदपनयनाय विद्दाया एवापेक्षणात् ।अत एव मोक्षो नित्यः । स च न कर्मसाध्यः , तथात्वे अनित्यत्वापत्तेः ।तथा च श्रुतिः ---'नास्त्यकृतः कृतेन '(मु.1-2-12) 'न कर्मणा न प्रजया धनेन ' 'अमृतत्वस्य तु नाशास्ति वित्तेन '(बृ.4-4-2)इत्यादि ः ।  
+   
+ न च केवलस्य कर्मणः मुक्तिहेतुत्वाभावेऽपि विद्दासमुच्चितस्य तद्धेतुत्वं , 'तेनैति ब्रह्मवित् पुण्यकृत'(बृ.6-4-9)इति श्रुतेः , नैः श्रेयसकर्मविशेषानन्तरं 'सर्वभूतेषु चात्मानम ' इत्यादिपूर्वोक्तमनुवचनाच्चेति वाच्यम् । मोक्षस्यानारभ्यत्वात् न कथमपि समुच्चयसाध्यता । ज्ञानेन तु व्यवधाननिवृत्तिमात्रं क्रियते । व्यवधानाविद्दानिवृत्तौ कर्म नोपयुज्यते । परन्तु सत्वशुद्धिसंपादकत्वेन विविदिषाद्वारा ब्रह्मज्ञानोत्पत्तावुपयुज्यते इति कर्म आरादुपकारकम् । सत्वशुद्धयनन्तरं कर्मत्यागः संन्यासोऽनुष्ठेयः । अतः संन्याससमुच्चितमेवात्मज्ञानं मुक्तिसाधनम् । एवं च पूर्वोक्तश्रुतिः मनुस्मृतिश्च ज्ञानोत्पत्तेः पूर्वं चित्तशुद्धये कृतं कर्म बोधयति , न एवं न 'यावज्जीवमग्निहोत्रं जुहुयात् 'कुर्वन्नेह कर्माणि'(ईशा. 2)इत्यादिश्रुतिः अविद्वाद्विषया । शुद्धसत्वेन तु मुमुक्षुणा कर्म त्याज्यमेव । इत्थमेव कर्मतत्त्यागबोधकश्रुत्योः सामञ्जस्यं भवति ।  
+ वेदव्यासोऽपि ,  
+ यदिदं वेदवचनं कुरु कर्म त्यजेति च ।  
+ कां गतिं विद्दया यान्ति कां च गच्छन्ति कर्मणा ॥  
+इति प्रश्नमुपक्षिप्य ,  
+ कर्मणा बध्यते जन्तुर्विद्यया च विमुच्यते ।  
+ तस्मात्कर्म न कुर्वन्ति यतयः पारदर्शिनः ॥मो.ध.  
+इति तस्य प्रतिवनोक्त्या विद्दाकर्मणोर्विरोधं स्पष्टं निरुपयति । तस्मात्तयोर्विरुपद्धफलकत्वेनापि न समुच्चयः । 'यदेव विद्दया करोति '(छा.1-1-10)इत्यादिकं तु न ब्रह्विद्दाविषयम् ,कर्माङ्गवबद्धोपासनायाः तत्र विद्दाशब्दार्थत्वात् ॥  
+ काम्यकर्मानुष्ठानेन तत्फलमनुभूय ततो विरक्तः आत्मज्ञाने अधिक्रियते इति च श्लिष्टम् ।  
+ न जातु कामः कामानामुपभोगेन शाम्यति ।  
+ हविषा कृष्णवर्त्मेव भूय एवाभिवर्धते ॥(मनु.2-94)  
+इति स्मृतेः काम्यफलानुभवस्य कामवर्धकत्वात् ॥  
+ यदपि , नित्यकर्म द्वैतैकत्वात्मकहिरण्यगर्भोपासनसमुच्चयस्यानुष्ठानात् कामासङ्गादिक्षये देहद्वयनाशः । ततश्च संसारन्निवृत्तः, अद्वैतोपासनाया अभावात् अविद्दाया अनिवृत्तत्वात् मुक्तिमप्राप्तः संसारमुक्त्योरन्तरालावस्थो भवति । इममेव 'किमेनं न जहाति , नामेति '(बृ.5-2-12)इति श्रुतिः नाममात्रावशिष्टं ब्रूते। स च ब्रह्मविद्दाधिकारी श्रवणादिकमनुष्ठाय हिरण्यगर्भोपसनात्मककर्मसमुच्चितया अहं ब्रह्मस्मीति अद्वैतोपासनया ब्रह्मणि लीनः मुक्तो भवतीति ।  
+ तदपि च साधु।  
+ 'पुरुषो वा अक्षितिः '(बृ.3-5-2)इत्यादिभिः द्वैताक्षयवादिनीभिः श्रुतिभिः द्वैतक्षयस्य निरस्तत्वात् प्रथमसमुच्चयानुष्ठानस्य न द्वैतक्षयः फलम् ।प्रत्युत 'पृथिव्यै चैनमग्नेश्च दैवी वागाविशति '(बृ.3-4-18)इति श्रुतिः हिरण्यगर्भोपासकस्य दैववागादिसंपत्त्या हिरण्यगर्भप्राप्तिमेव वदति , न द्वैतक्षयम् । 'तद्वेदं तर्ह्यव्याकृतमासीत् '(बृ.3-4-7)इत्यादिका श्रुतिः जगतः सत्त्वमेव ब्रूते । 'अस्माद्वयेवात्मनो यद्दत्कायते तत्तत्सृजते '(बृ.3-4-15)इति श्रुतिरपि जगदक्षये मानम् । तस्मात् सूत्रात्मप्राप्तयापि जगतः क्षये मानाभावात् , आद्दसमुच्चयस्य न कामासङ्गादिनिवृत्त्या देहद्वयनिवृत्तिः फलम् । अस्मन्मते तु जगतः अविद्दाकार्यत्वात् विद्दया अविद्दया निवृत्तौ जगदपि निवर्तते इति ज्ञेयम् ।  
+ न च देहद्वयनाशस्य साक्षात् प्रथमसमुच्चयफलत्वाभावेऽपि प्रणाल्या तत्फलत्वं संभवति । त्र्यन्नात्मकहिरण्यगर्भप्राप्या सर्वभोगानां भुक्तत्वात् , भुक्तभोगस्य भोगार्थदेहस्थितेरयोगात् देहनाश इति वाच्यम् । तथा सति ब्रह्मविद्दा विफला स्यात् , देहद्वयनाशेन संसारानर्थनिवृत्तेः ब्रह्मविद्दाफलस्य प्राप्तत्वात् ।  
+ अविद्दानिवृत्त्यर्था ब्रह्मविद्दा इत्यपि न युक्तम् । अविद्दायाः संसारोत्पादकत्वेनैवानर्थत्वात् , कामकर्मादीनां नाशात् केवलाविद्दा उत्खातदन्तोरगवत् नानर्थकारिणीति तन्निवृत्तेरपुरुषार्थत्वात् । न च कामादेः सावशेषनाश एव आद्दसमुच्चयेन जात् इति स्थिताविद्दा पुनः कामादिकं जनयेदिति अविद्दानाशआवश्यक इति ब्रह्मविद्दा सफलेति वाच्यम् , सावशेषकामनाशस्य स्वापे सर्वसिद्धत्वात् तदर्थमुपासावैयर्थ्यात् । निरन्वयनाशे च ब्रह्मविद्दावैयर्थ्यस्य दुर्वारत्वात् ।  
+ किञ्चान्यत्, आद्दसमुच्चयानुष्ठानेन ध्वस्तदेहद्वयस्य कथमद्वैतज्ञानाय श्रवणा दावधिकारः संभावयितुमपि शक्यते । यदि च आद्दसमुच्चयानुष्ठातुः लिङ्गदेहादिवियोगः वैराग्यविवक्षया गौण एवेति श्रवणाद्दुपपत्तिरिति मन्यते । तदा तेषां स्ववचनविरोधः दोष आपतति । पञ्चमाध्याये "अत्रैव समवनीयन्ते "(बृ.5-2-11)इत्यादिना आत्यन्तिकं नाशमाद्दसमुच्चयफलमुक्त्वा, तदनन्तरं 'तस्य भोज्यात् व्यावृत्तस्य संज्ञामात्रशेषिणः ब्रह्मपरिज्ञानरुपाविद्दया अप्राप्तमिव अद्वयं ब्रह्म । अतोऽविद्दाहानार्थं विद्दा आरब्धव्या 'इति वचनेन 'देहद्वयवतः देहादिसंघातविशरणं गौणमिति वचनं विरुध्यते ।  
+ यदपि सूत्रपदं प्राप्तस्यैव कैवल्यमिति कल्पनम्,तदपि न साधु ।  
+ ब्रह्मादिस्तम्बपर्यन्ते क्षेत्रज्ञे ब्रह्मतादात्म्यस्याविशिष्टत्वात् तत्त्वमसिशास्त्रात् । न च सूत्रादर्वाचीनजीववर्गस्य संसारपारतन्त्र्यान्न मुक्तिरिति शङ्कनीयम् । "ब्रह्मा विश्वसृजो धर्मः "इति मनुस्मृत्या सूत्रस्यापि संसारिताया अविशिष्टत्वात् । "तद्दो यो देवानां प्रत्यबुध्यत स एव तदभवत् , तथर्षीणां तथा मनुष्याणाम् ।" (बृ.3-4-10)इति श्रुतिविरोधाच्च ।  
+ एतेन 'आत्मानमेव लोकमुपासीत' (बृ.3-4-15)इति श्रुतिः समुच्चये मानमिति निरस्तम् ।  
+ तत्र प्रथमसमुच्चयस्य विवक्षा न घटते "अस्माद्धयेव यद्दत्कामयते तत्तत् सृजते "(बृ.3-4-15)इत्यादिना कामकर्माक्षयस्योक्तेः, कामकर्मक्षयस्य च कामकर्मादिमृत्युक्षये, अमृतत्वप्राप्तेः तत्फलताया भवदभिमतत्वात् , इह च कामकर्माक्षयस्य प्रतिपादनात् । तस्मादस्य समुच्चयाभिप्रायकतया व्याख्यानं स्ववचनविरुद्धमिति बोध्यम् ।  
+ संसाधनं कर्म ब्रह्म पश्यता कर्माप्यनुष्ठितं भवतीति ब्रह्मविद्दया समुच्चयः इत्यपि न संगतम् । कर्त्रादिभेदरहिते कर्मणि मानाभावात् । अनेनैव वाक्येन ताद्दृशकर्मसिद्धौ वाक्यभेदप्रसङ्गात् ।  
+ '1 विद्दाञ्चाविद्दाञ्च '(ईशा. 11)इति मन्त्रस्य न द्वितीयसमुच्चयार्थता । तत्र मानाभावस्योक्तत्वात् ।  
+ परन्तु, यः विद्दां---शास्त्रीयं कर्म, अविद्दाञ्च--स्वाभाविकं कर्म च , उभयं सह-निवर्त्यनिवर्तकभावेन सहितं वेद । सः अविद्दया--शास्त्रीयकर्मणा, मृत्युंस्वाभाविकं कर्म तीर्त्वा--अतिक्रम्य विद्दया--अद्वैतात्मतत्त्वविद्दया अमृतमश्नुते इति निष्कृष्टोः मन्त्रार्थो बोध्यः । पराक्रान्तञ्चात्र वार्त्तिककारैः ।  
+ तस्मात् न समुच्चयः मुक्तिसाधनम्। किन्तु प्रत्यगभिन्नब्रह्मविद्दैवेति सिद्धम् ॥  
+ यदपि अहं ब्रह्मस्मीति ध्यानाभ्यासात् मनोः ब्रह्ममयं भवति , ब्रह्मणि लीयते पृथिव्यां लोहमिव । मनसि लीने तदुपाधिकः विज्ञानात्मापि लीयते पृथिव्यां लोहमिव । मनसि लीने तदुपाधिकः विज्ञानात्मापि लीयते । तदा संसारमलास्पृष्टं अद्वैतं ब्रह्म भवति । सैव मुक्तयवस्थिते ।  
+ तदपि न ।  
+ज्ञानात् मनसो लयः किं बाधः , उत नाशः । विद्दया अज्ञाने निवृत्ते अज्ञानकार्यस्य मनसो निवृत्तिः अकार्यकारणे अक्षरे भवति इत्येवंविधबाधः सिद्धान्त्यभिमत एव । ज्ञानेन मनसो नाशे, तस्य आत्मव्यतिरेके अद्वैतहानिः । अन्वये सप्रपञ्चतापत्तिः । कारणसंसर्गस्य नाशत्वात् सति कारणे पुनर्बन्धापत्तिः । मुक्तौ साध्यायां मनसो नाशे तदाश्रितस्य मुक्तिसाधनध्यानादेरपि नाशात् मुक्त्यसिद्धेः ध्यानादिवैवर्थ्यम् । मनसोऽवस्थाने तत्कारणमज्ञानमपि तिष्ठेत् ।  
+ किञ्च मनोलयस्य लोहलयः न द्दृष्टान्तो भवितुमर्हति । विरोधिद्रव्यसंपर्कात् लोहादेः स्वकारणमृद्भावो युज्यते न वायुभावः । तस्य वायुविकारत्वाभावात् । मनसश्च अकारणब्रह्मभावे न स द्दृष्टान्तः । यदि ब्रह्मणोऽपि कारणत्वात् द्दृष्टान्तसंगतिरित्युच्यते । तदा ब्रह्म जगदाकारेण परिणमते इति मते सर्वं जगत् कारणात्मना स्थितमेव । अतः कार्यं कदाचित् कारणत्वमेतीत्ययुक्तम् । कारणसंसर्गस्य कार्यविरोधाभावात् ।  
+ तस्मात् मनसो बाध एव लयः । ज्ञानेन अविद्दा सह कार्येण मन आदिना निवर्तते । तन्नवृत्तिश्चात्मरुपेति नाद्वैतहानिरिति बोध्यम् ।  
+ यदपि याज्ञवल्क्योऽप्याचार्यः परोक्षज्ञानी , मुक्तस्यानुशासनायोगात् । अथवा साक्षात्कारवत्त्वेऽपि तस्य शरीरपातोत्तरं ब्रह्मणि लयं प्रति आशासनमपेक्ष्यते इत्युक्तम् ।  
+ तदपि न साधु।  
+ "उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ।"(भ.गी.4-34)इति स्मृतेः आचार्यस्य ब्रह्मसाक्षात्कारावश्यंभावात् । याज्ञवल्क्यं प्रति "अभयं वेदयसि "(बृ.6-2-4)इति जनकवचनादपि तस्य साक्षात्कारवत्त्वमवगम्यते ।  
+ ब्रह्मसाक्षात्कारात् व्यवधानाज्ञानहानिव्यतिरेकेण लयादीनामसंभवात् तदर्थमाशासनापेक्षापि न युज्यते । तथा च ब्रह्म न समस्तव्यस्तात्मकं,नापि समुच्चयानुष्ठानात् ब्रह्मणि लयरुपा इति निरुपयन्ति ॥  
+ PART IV  
+   
+ शाङ्करभाष्यपरिचयः  
+  
+श्रुतिशरणाः शङ्करभगवत्पादाः काण्वानामुपनिषदं वेदार्थावधारणोपयोगिसन्नयायरत्नपूर्णेन प्रसन्नगम्भीरेण संप्रदायध्वनिष्ठितेन ब्रह्मात्मैक्यैदम्पर्यनिरुपकेण भाष्येण भूषयामासुः । न केवलमिदं भाष्यं बृहदारण्यकस्यैव तात्पर्यं निरुपयति , परन्तु कर्मकाण्डदेवताकाण्डज्ञानकाण्डात्मकसकलाम्नायतात्पर्यं विशदयति । कर्मकाण्डस्य ,यागादेः स्वर्गादिना साध्यसाधनभावसंबन्धे अवान्तरतात्पर्यं , शुद्धिद्वारा ब्रह्मत्मैक्ये परमतात्पर्यम्,एवं देवताकाण्डस्यापि, उपनिषदां साक्षादेव ऐकात्म्ये तात्पर्यमिति ।  
+   
+ ब्रह्मात्मैक्ये क्रियाकारकादिभेदमवलम्ब्य प्रवृत्तं कर्मकाण्डं कथं प्रमाणं भवेदिति न शङ्कनीयम् । यतः, कामानां मिथ्याज्ञानप्रभवाणामनर्थरुपत्वेऽपि, यथाप्राप्तकामानुपादाय तत्साधनानि काम्यकर्माणि श्रुतिर्विधत्ते । एवं यथा प्राप्तं अविद्दाप्रत्युपस्थापितं क्रियाकारकफलभेदमाश्रित्य,इष्टानिष्टप्राप्तिपरिहारोपायसामान्ये प्रवृत्तस्य तद्विशेषमजानतः पुरुषस्य इष्टानिष्टप्राप्तिपरिहारोपायमुपदिशति कर्मशास्त्रम् । लोकप्रसिद्धस्य क्रियाकारफलभेदस्य सत्यतामसत्यतां वा नाचष्टे । अतः कर्मकाण्डं नाप्रमाणं भवितुमर्हति । इत्थञ्च सर्वोऽपि वेदः प्रमाणमिति विवेचयन्ति भाष्यकाराः ।  
+ श्रुतीनां पौर्वापर्यालोचनया स्वरसतः श्रुतिप्रतिपाद्दमर्थमेवाभ्युपगच्छन्ति भगतवत्पादाः । न तु तार्किकादियुक्तिभिरुपपादितमर्थं क्लिष्टयोजनया श्रुत्यर्थतया आरोपयन्ति । अपौरुषेयश्रुतिविरोधे तार्किकयुक्तीनामाभासत्वमेव स्वीकुर्वन्ति ।  
+ तदुक्तं वैशेषिकादितन्त्रन्यायोपपन्नमात्मनः कामाद्दाश्रयत्वम् इति पूर्वपक्षनिराकरणावसरे भाष्ये,  
+ "'हृदि श्रिताः' इत्यादिविशेषश्रुतिवोराधात् अनपेक्ष्यास्ता- वैशेषिकादितन्त्रोपपत्तयः । श्रुतिविरोधे न्यायाभासत्वोपगमात् ।" इति ।  
+ वैशेषिकनैयायिकादीन् उपनिषच्छास्त्रार्थसांगत्यविरहेण अनादरणीयान् निरुपयन्ति । तथा च भाष्यम् -----"यथेच्छादीनामात्मधर्मत्वं कल्पयन्तो वैशेषिका नैयायिकाश्च उपनिषच्छास्त्रार्थेन न संगच्छन्ते । तथेयमपि कल्पना (भर्तृप्रपञ्चकल्पना) उपनिषच्छास्त्रार्थबाधनान्नादरणीया ।" इति । एवमन्यत्र "भवतीयं शोभना कल्पना, न श्रौती।" इति श्रुत्या सांगत्याभावमनादरे हेतुं वदन्ति ।  
+ भिन्नाभिन्नं नानारसं ब्रह्म इति भर्तृप्रपञ्चानां मतं प्रथमतः सावेगं श्रुतिविरोधेनैव निराकुर्वन्ति । तदुक्तं भाष्ये सप्तमाध्यायस्य प्रथमब्रह्मणे,  
+ "सैन्धवघनवत् प्रज्ञानैकरसघन निरन्तरं पूर्वापरब्रह्माभ्यन्तरभेदविवर्जितं सबाह्याभ्यन्तरमजं नेति नेति अस्थूलमनण्वहृस्वजरमभयममृतम् इत्येवमाद्दाः श्रुतयः निश्चितार्थाः संशयविपर्यासाशङ्कारहिताः सर्वाः समुद्रे प्रक्षिप्ताः स्युः, अकिञ्चत्करत्वात् ।" इति ।  
+ एवं पञ्चमे आर्तभागब्राह्मणे, भर्तृप्रपञ्चसंमता संसारमुक्त्योरन्तरालावस्थासल्पना शास्त्रबाह्यत्वदोषेण दूषिता । तथाहि----  
+ 'अत्र केचिद्वर्णयन्ति , ग्रहातिग्रस्य सप्रयोजकस्य विनाशेऽपि किल न मुच्यते । नामावशिष्टः अविद्दया ऊषरस्थानीयया स्वात्मप्रभवया परमात्मनः परिच्छिन्नः भोज्याच्च जगतो व्यावृत्तः उच्छिन्नकामकर्मा अन्तराले व्यवतिष्ठते । तस्य परमात्मैकत्वदर्शनेन द्वैतदर्शनमपनेतव्यमिति अतः परं परमात्मदर्शनमारब्धव्यम् । इत्येवमपवर्गाख्यामन्तरालवस्थां परिकल्प्य उत्तरग्रन्थसंबन्धं कुर्वन्ति ।' इति सन्दर्भेण भर्तृप्रपञ्चकल्पनां निरुप्य, 'तत्र वक्तव्यम्' इत्यादिना ग्रन्थेन दूषणजातमभिधाय, अन्ते 'तस्मादत्यन्तनिकृष्टा शास्त्रबाह्यैवेयं कल्पना' इत्युपसमाजहुः भाष्यकाराः । अत्र हि कल्पनाया अत्यन्तनिकृष्टत्वे उपनिषच्छास्त्रबाह्यत्वं निमित्तं वर्णितमिति बोध्यम् ।  
+ एवं चतुर्थे मूर्तामूर्तब्राह्मणे, भेदाभेदवादिनां राशित्रयकल्पनानिरुपणानन्तरं, सा कल्पना नैयायिकसांख्यादितार्किकैः सामञ्जस्योपेतापि श्रुतिसिद्धान्तविरोधान्निरस्ता । तथाहि -----  
+ "औपनिषदंमन्या अपि केचित् प्रक्रियां रचयन्ति, मूर्तामूर्तराशिरेकः, परमात्मराशिरुत्तमः, ताभ्यामन्योऽयं मध्यमः किल तृतीयः कर्त्रा भोक्त्रा विज्ञानमयेन सह विद्दाकर्मपूर्वप्रज्ञासमुदायः । कर्मराशिः लिङ्गाश्रितः। तथापि पुष्पाश्रितो गन्धः पुष्पवियोगेऽपि पुटतैलाश्रितो भवति यथा, तथा लिङ्गवियोगेऽपि कर्मराशिः परमात्मैकदेशं विज्ञानात्मानमाश्रयति । स च स्वयं निर्गुणोऽपि आगन्तुकेन गुणेन सगुणः बन्धमोक्षादिभाजनं भवति।" इति तदीयप्रक्रियां निरुप्य, 'तत्र च तार्किकैः सह सन्धिं कुर्वन्ति इत्यादिना चमत्कारिण्या सरण्या, क्वचिदेशे वैशेषिकनैयायिकानुयायिनी, क्वचिदंशे सांक्यानुयायिनी च सा इति वर्णितं भाष्ये । तदनन्नरं, 'सर्वमेतत् तार्किकैः सह सामञ्जस्यकल्पनया रमणीयं पश्यन्ति, नोपनिषत्सिद्धान्तं सर्वन्यायविरोधं च पश्यन्ति।' इत्यादिना 'तस्मात् वेदार्थमूढानां स्वचित्तप्रभवा एवमादिकल्पना अक्षरबाह्याः। न ह्यक्षरब्ह्यः वेदार्थः, वेदार्थोपकारी वा । निरपेक्षत्वाद्वेदस्य प्रामाण्यं प्रति । तस्माद्राशित्रयकल्पना असमञ्जसा ।' इत्यन्तेन भाष्येण सा दूषिता । दूषणमध्ये च 'तस्मात् श्रुत्यर्थकल्पनाकुशलाः सर्व एवोपनिषदर्थमन्यथा कुर्वन्ति । तथापि वेदार्थश्चेत् स्यात्, कामं भवतु, न मे द्वेषः ।' इति भाष्यवचनं तेषां परमार्थिकमौपनिषदत्वं स्फुटयति ॥  
+ भगवत्पादाः पौर्वापर्यानुरोधेन श्रुतिभिः स्वरसतः बोधितमर्थं आचार्यसंप्रदायानुसारेण निर्धारयन्ति । तथाहि ---उत्पत्तिप्रकरणे 'यथाग्ने क्षुद्रा विस्फुलिङ्गाः'इति द्दृष्टान्तश्रुत्या परस्यात्मनोऽशः विज्ञानात्मा इति वादिनां पक्षं निरस्यद्भिःभाष्यकारैः, परेण विज्ञानात्मनः एकत्वप्रतिपत्तयर्थत्वं तस्याः श्रुतेर्वणयित्वा, पौर्वापर्यसमालोचनया परमातमैकत्वप्रत्ययद्दृढीकरणाय उत्पत्त्यादिवाक्यानीति निर्णीतम् । तथा च भाष्यम् ----"अग्नेर्हि विस्फुलिङ्गः, अग्निरेव इत्येकत्वप्रत्ययार्हो द्दृष्टो लोके । तथा चांशः अंशिना एकत्वप्रत्ययार्हः। तत्रैवं सति विज्ञानात्मनः परमात्मांशत्वविकारवाचकाः शब्दाः परमात्मैकत्वप्रत्ययाधित्सवः। उपक्रमोपसंहाराभ्याञ्च। सर्वासु उपनिषत्सु पूर्वमेकत्वं प्रतिज्ञाय, द्दृष्टान्तैः हेतुभिश्च परमात्मनो विकारांशादित्वं जगतः प्रतिपाद्द, पुनरेकत्वमुपसंहरति । तद्दथा इहैव तावत् 'इदं सर्वं यदयमात्मा' इति प्रतिज्ञाय उत्पत्तिस्थितिलयहेतुद्दृष्टान्तैः विकारविकारित्वाद्देकत्वप्रत्ययहेतून् प्रतिपाद्द,अनन्तरमबाह्यम्, अयमात्मा ब्रह्म इत्युपसंहरिष्यति ।तस्मादुपक्रमोपसंहाराभ्यामयमर्थो निश्चीयते परमात्मैकत्वप्रत्ययद्रढिम्ने उत्पत्तिस्थितिलयप्रतिपादकानि वाक्यानीति । अन्यथा वाक्येभेदप्रसङ्गाच्च । सर्वोपनिषत्सु हि विज्ञानात्मनः परमात्मनैकत्वप्रत्ययो विधीयते इत्यविप्रतिपत्तिः सर्वेषामुपनिषद्वादिनाम् । तद्विध्येकवाक्ययोगे च संभवति उत्पत्त्यादिवाक्यानां वाक्यान्तरत्वकल्पनायां न प्रमाणमस्ति ।" इति ।  
+ तदनन्तरं 'अत्र च संप्रदायविदः आख्यायिकामाचक्षते' इत्यादिना द्रविडाचार्यप्रतिपादितया सांप्रदायिकाख्यायिकया व्याधसूनुत्वाभिमानिनः राजप्रत्ययस्येव आत्मनो ब्रह्मप्रत्ययस्य द्दृढीकरणार्थत्वं द्दृष्टान्तश्रुतीनामुपोद्वलितं द्दृश्यते ।  
+ श्रुतिमनाद्दृत्य खचित्तवशात् युक्तिभिः भिन्नात्मवादिनः तार्किकाः आगमार्थसंप्दायविज्ञानविरहादनुकम्पनीयाः संवृत्ताः भाष्यकाराणाम् । तदुक्तम्----"ते तु कुतर्कदूषितान्तः करणाः ब्राह्मणादिवर्णापसदाः अनुकम्पनीयाः आगमार्थविच्छिन्नसंप्रदायबुद्धयः इति ।"इति ।  
+ औपनिषदमात्मतत्त्वं विना शास्त्रमाचार्यप्रसादञ्च तार्किकबुद्धिभिरगम्यमिति गर्जन्ति बृहदारण्यकभाष्ये, 'तस्मात् तार्किकचाटभटराजाप्रवेश्यमभयं दुर्गमिदमल्पबुद्धयगम्यं शास्त्रगुरुप्रसादरहितैश्च ।' इति, प्रश्नोपनिषद्भाष्ये च 'अतो न तार्किकवादभटप्रवेशो वेदान्तराजप्रमाणबाहुगुप्ते इहात्मैकत्वविषये ।' इति ॥  
+ विरुद्धत्वेन भासमानश्रुतिवाक्यानार्थविशेषनिर्धारणाय, सर्वज्ञानाकराणामपि भाष्यकाराणां विनयपूर्विकैव विचारे प्रवृत्तिर्लक्ष्यते । तथा च भाष्यम् ----  
+ "श्रुतिस्मृतिवाक्यानि शतश उपलभ्यन्ते इतरेतरविरुद्धानि । आचारश्च तद्विताम्। विप्रतिपत्तिश्च शास्त्रार्थप्रतिपतृणां बहुविदामपि । अतो न शक्यते शास्त्रार्थः मन्दबुद्धिभिः विवेकेन प्रतिपत्तुम् । परिनिष्ठितशास्त्रन्यायबुद्धिभिरेव ह्येषां वाक्यानां विषयविभागः शक्यते अवधारयितुम् । तम्मादेषां विषयविभागज्ञापनाय यथाबुद्धिसाम  
+र्थ्यं विचारयिष्यामः ।" इति । अतोऽवगच्छामः शास्त्रार्थनिर्धारेणे महती श्रद्धा तेषामिति । तदेवं भाष्यकाराणां श्रुतिशरणता किञ्चिदिव परामृष्टा ।  
+   
+ नैतावता तेषां युक्तिषु अनादरो मन्तव्यः । श्रुतिविरुद्धतर्काणामनादरणीयत्वेऽपि श्रुतिमतानां तर्काणां प्रतिपादने महतः संरम्भस्य दर्शनात् । तत्रापि बहूनां प्रतिपक्षाणां स्वयमेकेनैव निराकरणे महानुत्साहः प्रदर्शितः तैत्तिरीयकभाष्ये संक्रमणविचारे । तथा च भाष्यम् ---"चिन्तयसि च त्वं न निर्णेष्यसि । किं न निर्णेतव्यमिति वेदवचनम् । न, कथं तर्हि । बहुप्रतिपक्षत्वात् । एकत्ववादी त्वमेकः वेदार्थपरत्वात् । बहवो हि नानात्ववादिनः वेदबाह्याः त्वत्प्रतिपक्षाः । अतो ममाशङ्का न निर्णेष्यसीति । एतदेव मे स्वस्त्ययनं, यन्मामेकयोगिनमनेकयो गिबहुप्रतिपक्षमात्थ । अतो जेष्यामि सर्वान् । आरम्भे च चिन्ताम् । "इति ।  
+ आगममनाद्दृत्य स्वययुक्तिभिरर्थं साधयतां तार्किकाणां द्दृप्तानां यथाभूतशास्त्रार्थवधारणं न संभवतीति च निरुपयन्ति । तथा च भाष्यम्
+---"तार्किकैस्तु परित्यक्तागमबलैः अस्ति, नास्ति,कर्ता, अकर्ता इत्यादि विरुद्धं बहु तर्कयद्भिः आकुलीयकृतः शास्त्रार्थः । तेनार्थनिश्यो दुर्लभः । ये तु केवलशास्त्रानुसारिणः शान्तदर्पाः तेषां प्रत्यक्षविषय इव निश्चितः शास्त्रार्थो देवतादिविषयः ।" इति । यथाभिमतं वस्तुतत्त्वं परिकल्प्य, तदनुसारेण श्रुतिव्याख्यातृणां व्याख्यानायुक्तता, स्वीयश्रुत्यर्थप्रतिपत्तिश्च रमणीयसरण्या प्रदर्शिता भाष्यकारैः । तथा भाष्यम् -----"ये तु अतोऽन्यथा आत्मवस्तु परिकल्प्य बन्धमोक्षादिशास्त्रामर्थवादचर्मवद्वेष्टितुम्। वयं तु तत्कर्तुमशक्ताः सर्वदा समैकरसमद्वैतं अविक्रियमजमजरमभयमात्मतत्त्वं ब्रह्मैव स्म इत्येष सर्ववेदान्तनिश्चितोऽर्थः इत्येव प्रतिपद्दामहे ।"  
+इति ।  
+ बृहदारण्यकभाष्ये आत्मनानात्वमनुमानेन साधयतां तार्किकाणां पक्षः, अतिसमीचीनया पद्धत्या, अनुमातारः के इति प्रश्नप्रणाल्या,एकैकस्यात्मनः अनेकत्वाभ्युपगमापत्तिदोषेण दूषितः । एवं ज्योतिर्ब्राह्मणे श्रुतिनिरस्तः चार्वाक पक्षः, सौगतानां क्षणभङ्गवादः विज्ञानवादः तदवान्तरमतविशेषश्च अभेद्देन युक्तिनिकुरुम्बेण त्रुटितो लक्ष्यते । अत एव वेदबाह्यसर्वमतनिराकरणात्, संनिकृष्टानामपि औपनिषदंमन्यानां पक्षनिराकरणेन सर्वोपनिषदर्थप्रकाशकत्वात् युक्ति संघटितस्य बृहदारण्यकस्य विचारबहुलं भाष्यम् औपनिषदसिद्धान्तं विशदीकरोति ।  
+ परंतु परमतानां निरासे हेतुः वैदिकश्रेयोमार्गपरिपन्थित्वमेव। तदुक्तं षष्ठे विस्तरेण विविधसौगतमतनिरुपणानन्तरं तेषां निराकरणारम्भे,----"सर्वा एताः कल्पनाः बु  
+द्धिविज्ञानावभासकस्य व्यतिरिक्तस्यात्मज्योतिषोऽपहृवात् अस्य श्रेयोमार्गस्य प्रतिपक्षभूता वैदिकस्य । तत्र येषां बाह्योऽर्थोऽस्ति, तान्प्रत्युच्यते।"  
+इत्यादिकम् ।  
+ भाष्यकाराणां परपक्षदूषणमपि न परद्वेषपर्यवसायि। अपि तु वेदार्थतत्त्वावधारणपर्यवसायि । ब्रह्मसूत्रभाष्ये तर्कपादस्योपक्रमे,परपक्षनिराकरणं परद्वेषकरं वीतरागेण मुमुक्षुणआ न कर्तव्यमित्याक्षिप्य, वेदार्थतत्त्वनिर्णयार्थत्वेन तस्य कर्तव्यता व्यवस्थापिता । तथा च भाष्यम् ---  
+ "ननु मुमुक्षुणां मोक्षसाधनत्वेन सम्यग्दर्शननिरुपणाय स्वपक्षस्थापनमेव केवलं कर्तुं युक्तम् , किं परपक्षनिराकरणेन परद्वेषकरेण । बाढमेवम् । तथापि महाजनपरिगृहीतानि महान्ति सांख्यादितन्त्राणि सम्यग्दर्शनापदेशेन प्रवृत्तान्युपलभ्य, भवेत् केषांचित् मन्दमतीनां एतान्यपि सम्यग्दर्शनायोपादेयानीत्यपेक्षा। तथा युक्तिगाढत्वसंभवेन सर्वज्ञभाषितत्वाच्च श्रद्धा च तेषु इत्यतः तदसारतोपपादनाय प्रयत्यते ॥"इति । वीतरागकथाया अपि परपक्षदूषणगर्भतां तत्त्वनिर्णयाय वीतरागेणापि परपक्षो दूष्यते,न तु परपक्षतयेति न वीतरागकथात्वव्याहतिरित्यर्थः ॥"इति भामती ।  
+ किञ्चान्यत्, अविवेकिनां क्रियाकारकफलादिसंव्यवहारः। परमार्थावधारणनिष्ठायां आत्मातिरिक्तवस्त्वन्तरास्तित्वप्रतिपत्तिर्नास्ति। भेदव्यवहारः अज्ञानापेक्षः। एकमेवाद्वितीयमिति व्यवहारस्तु ज्ञानापेक्षः । अतो विरोधशङ्कैव नोदेति । न केवलमियं पद्धतिः औपनिषदमात्रसंमता। अपि तु सर्वैरपि वादिभिः स्वीकरणीया। स्थूलोऽहं गच्छामीत्यादिव्यवहारः देहादिरिक्तात्माज्ञानकृतः । आत्मा व्यापी अमूर्तः स्थौल्यादिरहितः इति व्यवहारस्तु आत्मज्ञानकृत इत्येव देहातिरिक्तात्मवादिभिः सर्वैरप्यङ्गीकरणीयम् । औपनिषदंमन्यानामपि केषाञ्चिन्मते आत्मनि स्वातन्त्र्यव्यवहारः अज्ञानकृतः । अन्तर्यामिपारतन्त्र्यादिव्यवहारः ज्ञानकृत इति अङ्गीकरणीयम् । तस्मात् प्रत्यक्षादीनां व्यावहारिकं प्रामाण्यं, तत्त्वावेदकश्रुतेस्तु तात्विकं प्रामाण्यमित्ययमर्थः सर्वतान्त्रिकसिद्धः नौपनिषदमात्रसिद्धः ॥  
+ सारभूतमिममर्थं, एकस्यैवात्मनः अशनायाद्दतीतत्वं तद्वत्त्वं चेति विरुद्धधर्मसंबन्धः कथमुपपद्दते इति शङ्कायाः परिहारप्रसङ्गेन, प्रसन्नगम्भीरेण वाक्यसन्दर्भेँ भाष्यारा निरुपयन्ति । तथा च भाष्यम्-----  
+ " न हि परमार्थावधारणनिष्ठायां वस्त्वन्तरास्तितत्वं प्रतिपद्दामहे ।'एकमेवाद्वितीयम्,'अनन्तरमबाह्यम्'इति श्रुतेः ।न च नामरुपव्यवहारकाले त्वविवेकिनां क्रियाकारकफलादिसंव्यवहारः नास्तीति प्रतिषिष्यते । तस्मात् ज्ञानाज्ञाने अपेक्ष्य,सर्वः संव्यवहारः शास्त्रीयो लौकिकश्च । अतो न काचन विरोधशङ्का । सर्ववादिनामप्यपरिहार्यः  
+परमार्थसंव्यवहारकृतो व्यवहारः ।"इति ।  
+ अपि च, ब्रह्मात्मैक्यबोधनाय उत्पत्तिस्थितिप्रलयकल्पना क्रियाकारकफलारोपणा चात्मनि कृता, पुनश्च 'नेति नेति ' इत्यादिना निराकृता । इयं च तत्त्वबोधनसरणिः रेखाध्यारोपणेन संख्यानां पत्रमषीरेखादिसंयोगोपायेन अकाराद्दक्षराणां च सर्वसंप्रतिपन्नतत्त्वबोधनसरणितुल्येति रमणीयसरण्या प्रतिपादयन्ति भाष्यकाराः । तथा च भाष्यम् ----"यथा एकप्रभृत्यापरार्धसंख्यास्वरुपपरिज्ञानाय रेखाध्यारोपणं कृत्वा एकेयं रेखा, दशेयं, दशेयं, शतेयं,सहस्रेयम् इति ग्राहयति । अवगमयति संख्यास्वरुपं केवलं, न तु संख्याया रेखात्मत्वमेव। यथा च अकारादीन्यक्षराणि विजिग्राहयिषुः पत्रमषीरेखादिसंयोगोपायमास्थाय वर्णानां सतत्त्वमावेदयति । न पत्रमात्यात्मतामक्षराणआं ग्राहयति । तथा चेह उत्पत्त्याद्दनेकोपायमास्थाय एकं ब्रह्मतत्त्वमावेदितम् । पुनः कल्पितोपायजनितविशेषपरिशोधनार्थं नेति नेतीति तत्त्वोपसंहारः कृतः ।" इति ।  
+  
+ आगमोपपत्तिभ्यामर्थनिर्धारणानन्तरं 'यं पश्यन्ति यतयः क्षीणदोषाः ' (मु.3-1-5)इति श्रुतिवत्, "शोकमोहादिनिवृत्तिश्च प्रत्यक्षं फलं ब्रह्मैकत्वप्रतिपत्तिपारम्पर्यजमित्यवोचाम्।" इति सन्दर्भेण विद्वदनुभवमपि प्रमाणीकुर्वन्ति औपनिषदाः भगवत्पादाः ।  
+ अपि च, ब्रह्मात्मैक्यमिव ज्ञानकर्मसमुच्चयस्य मुक्तिहेतुत्वायोगं संन्याससहितात्मज्ञानान्मुक्तिं च, भुज्युब्रह्मणपातनिकामैत्रेयीब्राह्मणव्याख्यानषष्ठावसानेषु बृहदारण्यकभाष्ये इव, ईशावास्यभाष्यावसाने, मुण्डकावतरणिकायां, तैत्तिरीयशिक्षावल्लीविवरणे, छान्दाग्योपक्रमे, ऐतरेयावतरणे, गीताभाष्ये च तत्र तत्र ऐदम्पर्येण व्यवस्थापयन्ति भाष्यकाराः ।  
+ समुच्चयवादनिरसनाय ज्ञानकर्मणोर्विरोधनिरुपकं "ज्ञानकर्मणोर्विरोधं पर्वतवदकम्प्यं यथोक्तं न स्मरसि किम्।" इति ईशावास्यभाष्यं, 'विद्दाकर्मविरोधाच्च, न हि ब्रह्मात्मैकत्वदर्शनेन सह कर्म स्वप्नेऽपि संपादयितुं शक्यम् ।' इति "यत्तु गृहस्थेषु ब्रह्मविद्दासंप्रदायकर्तृत्वादि लिङ्गं न तत् स्थितं न्यायं बाधितुमुत्सहते । न हि विधिशेनापि तमः प्रकाशयोरेकत्र सद्भावः शक्यते कर्तुम् । किमुत लिङ्गैः केवलैः ।"इति च मुण्‍डकभाष्यम्, बृहदारण्यकस्यैव समुच्चयवादनिरासित्वप्रतिपादकं"अत्र केचित् वावदूकाः श्रुत्युक्तविशेषार्थानभिज्ञाः सन्तः पुत्रादिसाधनानां मोक्षार्थतां वदन्ति।तेषां मुखपिधानं श्रुत्येदं कृतम्, जाया मे स्यात् इत्यादि पाङ्क्तं काम्यं कर्म इत्युपक्रमेण पुत्रादीनां च साध्यविशेषविनियोगोपसंहारेण च । तस्मात् ऋणश्रुतिरविद्वद्विषयेति सिद्धम् ।" इति बृहदारण्यकभाष्यं, तथा ब्रह्मविदः कर्मत्योगे चमत्कारिण्या भङ्गया श्रुतिं स्मृतिं च प्रमाणं प्रदर्शयत्, "केचित् ब्रह्म्विदोऽप्येषणासंबन्धंवर्णयन्ति । तैर्बृहदारण्यकं न श्रुतम् .....। 1व्यासवाक्यं च तैर्न श्रुतम् ।"इति बृहदारण्यकभाष्यम्, ऐतरेयावतरणे संन्यासनिरुपणे, "अत्र केचित् गृहस्थाः भिक्षाटनादिभयात् परिभवाच्च त्रस्यमानाः सूक्ष्यमद्दृष्टितां दर्शयन्तः उत्तरमाहुः ।"इति सोपहासं परपक्षानुवादकभाष्यं च ज्ञानकर्मणोर्विरोधे संन्यासिनो ज्ञानमात्रात् कैवल्यप्राप्तौ च तेषां महान्तं निर्भरमावेदयति ।  
+ परं तु कर्मणः कैवल्यहेतुत्वनिरासका अपि भाष्यकाराः, ज्ञानोत्पत्तये कर्माणि आरादुपकारकाणि अवश्यमनुष्ठेयानि । जन्मान्तरानुष्ठितकर्मभ्यश्चेत् ब्रह्मचर्य एव शुद्धचित्तः वैराग्यसंपन्नः, तदा तत्रैवाश्रमे स्थितो संन्यासाश्रमं स्वीकुर्यात् ।अन्यथा कर्मानुष्ठेयमेव चित्तशुद्धये इति व्यस्थापयन्ति ।  
+ 'तस्मादेषां तन्न प्रियं यदेतन्मनुष्या विद्दुः '(बृ 3-4-7)इति श्रुतिविवरणावसरे "तस्मात् मुमुक्षुः देवताराधनपरः श्रद्धाभक्तिपरः अप्रमादी स्यात् विद्दाप्राप्तिं प्रति इति काक्का एतत्प्रदर्शितं भवति देवाप्रियवाक्येन ।"इति भाष्यसन्दर्भः पूर्वोक्तमर्थं द्रढयति ।  
+ एवं औपनिषदमार्गेण श्रुतियुक्त्यनुभवैः तत्त्वं निरुपयता उद्वेजकवाक्यलेशेनाप्यस्पृष्टेन विचारबहुलेन प्रसन्नगम्भीरेण भाष्येण बृहदारण्यकोपनिषदं भूषयामासुः शङ्करभगवत्पादाः ॥  
+ PART V  
+  
+ बृहदारण्यकभाष्यवार्त्तिकपरिचयः
+
+ न स्तौमि तं व्यासमशेषमर्थं समग्रसूत्रैरपि यो बबन्ध ।  
+ विनापि तैः संग्रथिताखिलार्थं तं शङ्रं नौमि सुरेश्वरंच ॥ 
+
+श्रीमच्छङ्करभगवत्पादानां साक्षादन्तेवासिनः, सकलविद्दापारावारपारीणैः श्रीमधुसूदनसरस्वतीभिः 'वार्त्तिककारपादा'इति सबहुमानं कथ्यमानाः,"श्रीमद्बादरायमशङ्करसुरेश्वाराचार्यकृतमर्यादं वेदान्तदर्शनम्।" इति न्यायरत्नावल्यां सर्वदार्शनिकपूजनियैः श्रीब्रह्मानन्दसरस्वतीभिः वेदान्तदर्शनमर्यादाकरत्वेन प्रति पादिताः, श्रुतिमततर्कैः कुतार्किकयुक्तीः सुदूरमुत्सार्य श्रुत्यक्षरस्वरससिद्धमर्थं निरूपयन्तः साक्षात्कृतपरब्रह्माणः अन्वर्थनामधेयाः श्रूसुरेस्वराचार्याः अमृतस्राविपद्यमनयेन वार्त्तिकेन भगत्वादीयबृहदारण्यकभाष्यार्थं प्रकटीचक्रुः। इदं च वार्त्तिकं वार्त्त्िकामृपदेन व्यवहरन्ति श्रीमधुसूदनसरस्वत्यः, न्यायकल्पलतिकाकारा विद्यासागराश्च। वार्त्तिकग्रन्थश्चायं द्वादशसहस्रसंख्याकवार्त्तिकैः घटितः इति " द्वादशसहस्रसंख्याकवार्त्त्िकाख्यश्वोकग्रन्थिभिर्विरटिता। "
+
+
+
+1(p.2072)इति "द्वादशसहस्रसंख्यश्लोकग्रन्थिभिर्विरचिता ।",1(p.2072)  
+इति शास्रप्रकाशिकावाक्यादवगम्यते । परन्तु आनन्दाश्रममुद्रिते पुस्तके 11151  
+संख्यापरिमिता एव श्लोकाःसमुपलभ्यन्ते । वार्तिकपाठविषये निवेदनीयोऽशःन्यायकल्पलतिकापरिचयावसरे निवेदयिष्यते ।  
+   
+ अथ वार्त्तिककाराणां व्याख्याप्रकारः किञ्चिदिव चिन्त्यते । भाष्यवाक्यानामर्थः छायाव्याख्यानरुपेण पद्देन निरुप्यते । क्वचित् श्रुतेःभाष्योक्तमर्थं निरुप्य स्वयमर्थान्तराणि प्रतिपाद्दन्ते । 'विज्ञाय प्रज्ञां कुर्वीत' (बृ.6-4-21)इति श्रुतिः परेषां व्याख्यानिरासपूर्वकं स्वयमष्टधा व्याख्याता । क्वचित् भाष्ये व्याख्यातोऽपि श्रुत्युक्ताख्यायिकाभागो न विवृतः। भाष्यवाक्यलेशमवलम्ब्य महान् विचारःप्रवर्त्यते । संबन्धग्रन्थोऽत्र मुख्यं निदर्शनम् । संबन्धग्रन्थः स्वयमेव 'बृहद्विचार'पदेन उपरिष्टात् वयवह्रतः। भाष्योक्तविचारः क्वचित् न व्याख्यातः। यथा षष्ठे "कतम आत्मेति योऽयं विज्ञानमयः प्राणेषु" (बृ.6-3-7)इत्यत्र प्रश्नवाक्यनिर्धारणार्थः भाष्ये कृतो विचारो न निरुपितः। परन्तु सिद्धान्ततया भाष्यवर्णित एवार्थोऽभिहितः। षष्ठे मैत्रेयीब्राह्मणान्ते "इदानीं विचार्यते शास्त्रर्थविवेकप्रतिपत्तये । यतः आकुलानि वाक्यानि द्दृश्यन्ते ।"इत्युपक्रम्य भाष्यकृद्भिःप्रवर्तितो विचारः नानुक्रान्तो वार्त्तिके । परन्तु तदर्थः तत्र तत्र प्रकरणान्तरेषु निरुपितः। भाष्यकारैःक्वचित् क्वचिदेव माध्यन्दिनपाठःव्याख्यातः। वार्त्तिकं तु सर्वानपि माध्यन्दिनपाठभेदान् विवृणोति । खिलकाण्डे भाष्यकारैरव्याख्याताः श्रीमन्थपुत्रमन्थकर्मानुबन्धिनो मन्त्रभागा विवृताः।  
+ काव्यसरण्या श्रुतेरर्थं वर्णयति वार्त्तिकम् । तद्दथा मैत्रेयीब्राह्मणे, "किमहं तेन कुर्यां येनाहं नामृता स्याम्, यदेव भगवान्वेद तदेव मे ब्रूहि"(बृ.4-4-4)इत्युक्तवती मैत्रेयी याज्ञवल्क्येन,"प्रिया बतारे नःसती प्रियं भाषसे एह्यास्व व्याख्यास्यामि ते व्याचक्षाणस्य तु मे निदिध्यासस्व ।"(बृ.4-4-4)इत्यभिहिता।  
+ सोदरैरपि परित्यज्यमानं मोक्षगामिनं पुरुषं न जिहाससि। न केवलं प्राकृतस्त्रीभ्य उत्कृष्टा । परन्तु स्नेहेन पत्युःशरीरार्घहारिण्याः पार्वत्या अपि । यतः सर्वात्मना मोक्षे मामाप्तुमिच्छसि इत्येवं श्रुतेराशयं रमणीयसरण्या निरुपयति । तथा च वार्त्तिकम्---  
+ (अ.4-ब्रा.4)  
+ स्त्रीणां यदुचितं वाक्यं प्रतिलोमं न भाषसे ।  
+ पूर्ववत्त्वनुकूलं त्वमिदानीमपि भाषसे ॥(66)  
+ ोक्षं यान्तं नरं सर्वे मुञ्चन्ति सहजा अपि ।  
+अतिभक्तितया मां त्वं मोक्षेऽपि न जिहाससि॥(67)  
+विभागमसहन्तीव मदतिस्नेहकारणात्।  
+मुक्तावनुयियासि त्वं मदैकात्म्यपरीप्सया ॥ (68)  
+अतिस्नेहापकृष्टोमा देहार्घं शूलिनः श्रिता ।  
+ त्वं तु सर्वात्मनात्मानं कृत्स्नं मामाप्तुमिच्छसि॥(69)इति।  
+एवं, अष्टमे पञ्चाग्निविद्दाधिकारे, गौतमपुत्रस्य श्वेतकेतोःवादे जयार्थिनः पाञ्चालराजसमीपगमनमुपक्षिप्यते श्रुत्या । तत्र राज्ञः श्वेतकेतोश्च उक्तिं प्रत्युक्तिञ्च,"तमुदीक्ष्याभ्युवाद कुमार3 इति । स भो 3 इति प्रतिशुश्राव । अनुशिष्टोऽन्वसि पित्रेति । ओमिति होवाच । "(बृ.8-2-1) इति श्रुतिर्दर्शयति । उक्तिप्रत्युक्तयोराशयविशेषं अतिसमीचीनया पद्धत्या निरुपयति वार्त्तिकम्।  
+ शमयोग्यस्य द्विजस्य दर्पाधिक्यात् विजिगीषया आगमनमुत्पथप्रवृत्तिरिति, उत्पथप्रवृत्तस्य सन्मार्गप्रवर्तनं राजधर्मः इति धर्मशास्त्रनुसारेण, तं विनेतुं प्लुतेन तं निगृह्न् बालवत् संबोधितवान् राजा। श्वेतकेतुरपि कोपाविष्टत्वात् गुरुमिव भोःइति प्रतिशुश्राव । ततो वस्तुतः पित्रानुशिष्टस्य एवमविनयो न संभवति । अतोऽयमनुशिष्टो न वेति संदिहानः'किमनुशिष्टोऽसि 'इति राजा पप्रच्छ । सोऽपि अनुशिष्टोऽस्मि यदि संशयस्ते पृच्छ त्वत्पण्डितान् इत्यभिसन्धिना ओमित्युक्तवान्, इति वर्णनमतीव चेतश्रमत्करोति । तथा च वार्त्तिकम्.--  
+तं जिगीषुं समायान्तमुन्मार्गे संस्थितं द्विजम्।   
+सन्मार्गप्रतिपत्त्यर्थं राजोवाच स्वशास्त्रतः॥(24)  
+आमन्त्रयामास च तं कुमार 3 इति बालवत्।  
+प्रतिशुश्राव सोऽप्युक्तो भो 3 इत्युक्त्वा गुरुं यथा ॥(25)  
+दर्पोत्सेकसमावेशान्नानुशिष्टोऽयमातरात् ।  
+पित्रेति जादसन्देहः पर्यपृच्छदतो नृपः ॥(26)  
+अनुशिष्टोऽसि किं पित्रा उताहो नेति भण्यताम् ।  
+नानुशिष्टस्य जगति वृत्तमीद्दृक् समीक्ष्यते ॥(27)  
+बाढं पित्रानुशिष्टोऽस्मि किं न पश्यसि मज्जयम् ।  
+त्वत्पण्डितेषु सर्वेषु पृच्छ मां यदि शङ्कसे ॥(28)इति।  
+एवं ब्रह्मात्मरुपमोक्षस्य कर्मसाध्यत्वाभावनिरुपणप्रसङ्गे, साभिनयं कर्मसाध्यत्वाभावं 'न कर्मणा वर्धते नो कनीयान्' इति सहृदयसंमतसरण्या प्रतिपादयति वार्त्तिकम्--  
+तद्दथा,  
+न कर्मणा कनीयस्ता वृद्धिर्वा नान्तरात्मनः ।  
+इति बाहुमिवोद्धृत्य वेदान्तैर्घोषणा कृता॥(1835)  
+एवं , प्रत्यक्षागोचरं देवं लोकं चातिप्रमादिनम् ।  
+द्दृष्ट्वा श्रुतिः शिरस्ताडमनुक्रोशति दुःखिता ॥(952)  
+प्रत्यक्षतममप्येनं वितमस्कं स्वयं स्थितम् ।  
+अहो कष्टं न पश्यन्ति कं याम शरणं वयम् ॥(953)  
+इति वार्त्तिकाभ्यां "आराममस्य पश्यन्ति न तं पश्यति कश्चन"(बृ.6-3-14)इति श्रुत्यर्थवर्णनं सहृदयानानन्दयति ।  
+वेदान्तेषु न ज्ञानविधिः नियोज्याभावादिति निरुपणावसरे, वेदस्वामी विद्वान वेदेन न नियोजयितुं शक्यते । अपि तु बन्दिभिःसुप्तराजप्रतिबोधनतुल्यत्वं श्रुतिकृतबोधनस्यते, स्वामी सन्न हि भृत्येन स्वामिनेव नियुज्यते ।  
+संबोधनीय एवासौ सुप्तो राजेव बन्दिभिः॥(सं.ग्र.240)  
+इति वार्त्तिकेन निरुपयन् वार्त्तिककारः कामपि चमत्कृतिं जनयति सचेतसाम्।  
+वेदान्तदर्शनसिद्धानामर्थानां दुरुहत्वात् विनोदाहरणं दुर्बोधतया तत्र तत्र समञ्चसोदाहरणनिरुणे महानभिनिवेशो वार्त्तिककाराणाम् । नैकविधोदाहरणप्रदर्शनपूर्वंकं तत्त्वावबोधनदक्षाः श्रीविद्दारण्यस्वामिनोऽपि क्वचित्,  
+अपि पाशुपतास्त्रेण विद्धश्चेन्न ममार यः ।  
+निष्फलेषुवितुन्नाङ्गः नड्क्ष्यतीत्यतिदुष्करम्॥(833)  
+इति वार्त्तिकोक्तमुदाहरणं तद्वार्त्तिकानुवादेन प्रतिपादयन्ति पञ्चदशप्रकरण्याम् । वाक्योत्थज्ञानेन अज्ञानध्वंसासंभवात्, अज्ञानध्वंसार्थं वाक्यार्थस्मृतिसन्ततिर्विधेया इति पक्षनिरासायायं द्दृष्टान्तो वर्णितः ।
+
+वार्त्तिके षष्टयधिका द्दृष्टान्ताः निरुपिताः । तदीयौचित्यानुभवाय कतिपये द्दृष्टान्ताः प्रदर्श्यन्ते ।  
+1.प्रपञ्चः प्रत्यगात्मतया ज्ञातश्चेत् मोक्षः । आत्मव्यतिरिक्ततया ज्ञातश्चेत् बन्ध इतीममर्थं अपामार्गलतोदाहरणेन स्पष्यन्ति वार्त्तिककाराः ।  
+अपामार्गलतेवायं विरुद्धफलदो भवः ।  
+प्रत्यग्द्दृशां विमोक्षाय संसाराय पराग्द्दृशाम् ॥(सं.ग्र.27)इति ।  
+अपामार्गलता आनुलोम्येन आलम्ब्यमाना मृदुस्पर्शतया दुःखाभावहेतुः । प्रातिलोम्येन स्पृश्यमाना तु कर्कशत्वेन दुःखहेतुः। एवमेवैष संसारः विरुद्धफलकारणम् । ये संसारं प्रत्यङ्मात्रतया पश्यन्ति , ततो भेदेन तस्याभावं मन्यन्ते, तेषामनर्थध्वंसः स्यात् । ये तु प्रतीचः सकाशात् पराञ्चं स्वातन्त्र्येण लब्धसत्ताकं प्रपञ्चं पश्यन्ति, तेषां सोऽनर्थाय भवतीति तदाशयः ।  
+2.बन्धदशायामात्मचैतन्यमेकमेव बहुधा भासते इत्ययमर्थ उत्पातसमये समुद्रोदकमङ्गाराङ्कितमिव भाति इत्यनुरुपद्दृष्टान्तेन वर्णितः ,  
+तस्यैकमपि चैतन्यं बहुधा प्रविभज्यते । (अ.5.ब्रा.5.45)इति।  
+अङ्गाराङ्कितमुत्पाते वारिराशेरिवोदकम् ॥इति  
+वार्त्तिके ।  
+3.साक्षिणः मानव्यापारविषयत्वे, आत्मप्रकाश्येनाध्यक्षेण आत्मनः अप्रकाश्यत्वे च द्दृष्टान्तावनुरुपौ प्रदर्शितौ,  
+मात्रादिबोधकं मानं प्रत्यगात्मनि साक्षिणि ।  
+न व्यापारयितुं शक्यं वह्निंदग्धुमिवोल्मुकम्॥(सं.ग्र.10)  
+यो यतो लिप्सते नासावकिञ्चित्को ह्रनर्थिने।  
+भिक्षां दातुमलं तद्वत् ज्ञेयं स्वार्थपरार्थयोः ॥(ं.3.ब्रा.4.578)इति ।  
+नहि धनवते निराकाङ्‌क्षाय भिक्षुकः भिक्षां दातुं क्षमः इति द्वितीयद्दृष्टान्तार्थो बोध्यः ।  
+4.प्रयत्ननिष्पाद्दात् नित्यकर्मणः शुद्धिद्वारा अतिमधुरविविदिषोत्पत्तौ इक्षुनिष्पीडनात् इक्षुरसलाभोऽनुगुणो द्दृष्टान्तो वर्णितः  
+किमिक्षो रसमाप्नोति यत्नन्निष्पीडयन्न ना (सं.ग्र.75)इति ।  
+5.मोक्षहेतुतत्त्वज्ञानजनकस्य वेदस्य मुक्तिदशायां बाधितत्वेऽपि न कापि हानिरित्यत्र नौकाद्दृष्टान्तः अत्यनुरुपो वर्णितः,  
+श्रुतेरैकात्म्यसंवित्तौ चरितार्थत्वतो मितेः।  
+वृथोपायपरीक्षा स्यात् उत्तीर्णस्य पल्वे यथा ॥(सं.ग्र.900)इति ।  
+एवामादिभिः हृदयङ्गद्दृष्टान्तैः तत्त्वप्रतिपादनपद्धतिः वार्त्तिककाराणां सर्वातिशायिनी लसति ।  
+'यथा पदेनानुविन्देत्'(बृ.3-4-7)इति श्रुतेः असत्यवेदस्य सत्यब्रह्मप्रतिपत्तिहेतुत्वं न संभवतीत्याक्षेपनिरासपरतया व्याख्यानेन,'अथात आदेशो नेति नेति '(बृ.4-3-6)इत्युपदेशस्य भाष्याभिमतव्याख्यानिरुपणानन्तरं विधिमुखेन महावाक्यार्थतात्पर्यवर्णनेन, 'तदेतेषां विज्ञानेन विज्ञानमादाय अन्तर्हृदय आकाशः तस्मिन् शेते '(बृ.6-3-32)इत्यस्य ऐक्यपरतोपवर्णनेन, 'अरथूलमनणु'(बृ.5-8-8)इत्यादेरर्थविशेषानिरुपणेन च ,श्रुतीनामद्वैततत्तवतात्पर्यनिरुपणे भाष्यकारानप्यतिशेरते वार्त्तिककारा इति वक्तुं प्रभवामः।  
+एवं ज्ञानकर्मसमुच्चयस्य मोक्षहेतुत्वनिराकरणेऽपि महान्निर्भरस्तेषाम् ।यतः भाल्लविश्रुतिं संन्यासविधायकानि स्मृतिवाक्यानि चासकृत् प्रसङ्गमुद्भाव्योदाहरन्ति । कर्मरागिभिः भर्तृप्रपञ्चैः,'अथातः संप्रत्तिः'(बृ.3-5-17)इत्यादिनोक्तसंप्रत्तिकर्मानुष्ठायिनापि यावज्जीवमग्निहोत्रं कर्तव्यमित्युच्यते । वार्त्तिककारास्तु तस्या एव श्रुतेः उद्भाष्यं,कौषीतकिश्रुतिमनुसृत्य, संप्रत्तिकर्मणः संन्यासाङ्गत्वे तात्पर्यं यथामानमुपवर्णयन्ति ।  
+एवं 'ब्रह्मैव सन् ब्रह्माप्येति'(बृ.6-4-6)इति श्रुत्यर्थविचारावसरे, मुक्तस्यैव मुक्तत्वमिति निरुपयन्तः त्रिः शपथकरणेन तत्र महान्तं निर्भरमाविष्कुर्वन्ति । तथा च वार्त्तिकम् ----  
+मुक्तं चातः स्वतस्तत्त्वं मुक्तमित्युचर्यते ।  
+तदविद्दादिविध्वंसात् त्रिर्वः शपथयाम्यहम्॥(अ.6-ब्रा.4.303)इति ।  
+एवं एकरसमेव ब्रह्म न समस्तव्यस्तात्मकमिति व्यवस्थापने महान्तं निरभरमाविष्कुर्वन्ति इमानि वार्त्तिकानि।  
+अपूर्वादिषु जीवत्सु श्रुतिवाक्येषु शक्यते । (अ.5-ब्रा.2)  
+नेश्वरेणापि निर्वक्तुं समस्तव्यस्ततात्मनः ॥(103)  
+ (अ.6-ब्रा.3)  
+समस्तव्यस्तताव्याख्या तस्मादन्धपरम्परा ।  
+वैश्वानरवरादेव न तु न्यायानुसारतः ॥(1187)  
+समस्तव्यततामेवं सति व्याचक्षतेऽत्र ये ।  
+कर्षन्ति नासिकाग्रेण कर्णमूलं सुखेन ते ॥(1184)इति ।  
+ ज्ञाने विध्यभावे अतीवाभिनिवेशो लक्ष्यते । यतः'द्रष्टव्यः'इत्यत्र नियमविधिप्रतिपादकं भाष्यमपि युक्तिभिः अभ्युपगमवादतया निरुपयन्ति वार्त्तिककाराः  
+ एवं आत्मा द्दृष्टिक्रियाकर्ता इति भर्तृप्रपञ्‍चपक्षनिरासपरतया 'सलिल एको द्रष्टा'(बृ.6-3-32)इति वाक्यस्य अद्रष्टा इति पदच्छेदेनोद्भाष्यं द्दृष्टिक्रियाकर्तृत्वाभावार्थकत्वं निरुपयन्त एते भाष्यकारापेक्षयापि अद्वैततत्त्वनिर्धाणाभिनिवेशमधिकमाविष्कुर्वन्ति ।  
+एतावता वार्त्तिककाराणां व्याख्यानपद्धतिः किञ्चिदिव पर्यालोचिता । इदानीं तेषां युक्तिनिरुपणपद्धतिः चिन्त्यते ।  
+उद्भाव्यापि प्रसङ्गं द्वैतमिथ्यात्वं, द्वैतनिवृत्तेरात्मरुपत्वात् तया आत्मनः सद्वितीयत्वाभावं, अज्ञानध्वस्तये प्रसंख्यानापेक्षाभावं चात्यादरेण निरुपयन्ति ।  
+तत्र काश्चित् मिथ्यात्वसाधकयुक्तयः तदुक्ताः विद्वद्विनोदाय निरुप्यन्ते ।  
+भेदप्रपञ्चः न सद्रूपादभिन्नः, सतः जाड्यापातात् । नापि सद्रूपाद्भिन्नः,प्रपञ्चस्य निःस्वरुपत्वापातात् । एवं सदन्वयव्यतिरेकपरिहारेण सदसद्विलक्षणः अनिर्वचनीयः प्रपञ्चः । श्रुतिरपि 'नेति नेति ' इति अन्वयं 'इदं सर्वं यदयमात्मा'इति 1व्यतिरेकं च निषेधन्ती अनयैव युक्तत्या मिथ्यात्वं बोधयति । एवं उत्पत्तिः सतो न संभवति सिद्धत्वात् । नाप्यसतः, खपुष्पादेरिव निः स्वरुपस्य तदयोगात् । अतः उत्पत्तिरेवाघटमाना भेदप्रपञ्चस्य मिथ्यात्वं साधयति ।  
+अपि च, कार्यकारणभाव एव न संगच्छते । कारणं कार्यात् भिन्नमभिन्नं वा । आद्दे, हिमवद्विन्ध्ययोरिवात्यन्तं भिन्नयोः कार्यकारणता न संभवति । द्वितीयेऽपि सा न युक्ता,स्वस्मिन् स्वकारणताया अनुपपत्तेः। एवं, कुर्वत् कारणं अकुर्वद्वा । आद्दे, घटाद्दुत्पत्तेः पूर्वमेव मृदः कुर्वत्त्वेन यत्किञ्चित्कार्यकारित्वात्, तत्कार्यजननार्थंतत्पूर्वमपि कुर्वत्त्वम् । एवं तत्पूर्वमपीति अनवस्था । द्वितीये,सर्वदा कार्योत्पत्त्यापत्तिः । एवं, क्रियमाणं वा कार्यं अक्रियमाणं वा । आद्दे, कार्यत्वात् क्रियायामपि क्रियमाणत्वप्रसङ्गदनवस्था । द्वितीये, अक्रियमाणस्यात्मनोऽपि कार्यत्वप्रसङ्गः ।  
+ नापि कार्यद्रव्यसमवायि कारणम् । कारणे स्वावयवे घटादेरवयविनः एकदेशेन वृत्तौ, स्वारम्भकावयवव्यतिरिक्तावयवः स्वीकरणीयः, तत्राप्यवयवे अवयविनः एकदेशेन वृत्तौ पुनरवयवान्तरस्वीकारप्रसङ्ग इत्यनवस्था । कात्स्न्येन वृत्तौ, एकैकादप्यवयवात् संपूर्णावयविकार्यनिष्पत्तेरापत्तिः । अतो नेद्दृशी कार्यकारणव्यवस्था युज्यते ।  
+अपि च कार्यं कारणमिति द्वयमपि परस्परापेक्षम् । न हि विना कारणं कार्यमिति,विना वा कार्यं कारणमिति घटते । तथा चान्योन्याश्रयः।  
+किञ्च सापेक्षं कल्पितमेव ।न हि सिद्धयोः, असिद्धयोः, सिद्धासिद्धयोर्वा अपेक्षा द्दृश्यते । अतः सापेक्षमाविद्दमेव ।  
+अपि च भेदे एव न प्रमाणम् । प्रत्यक्षादेः सन्मात्रग्राहित्वात् । अभावप्रमाणेन तस्य ग्राह्यत्वे ,प्रमाणस्याभावस्य ग्रहणमन्येनाभावप्रमाणेन, तदप्यन्येनेत्यनवस्थाप्रसङ्गात् ।  
+किञ्च, भेदः अन्योन्याभावः पृथक्त्वगुणो वा न निरुपयितुं शक्यते ।  
+घटान्योन्याभावः न घटाभिन्ने वर्तते । भेदाभेदयोर्विरोधात् । नापि भिन्ने, घटभेदान्तरस्वीकारापत्त्या, तस्यापि भिन्ने वृत्तौ ततो भेदान्तरस्वीकारापत्त्या, अनवस्थाप्रसङ्गात् ।  
+पृथक्त्वगुणस्योत्पत्तेः प्राक् घटः अपृथगिति अपृथक्त्वस्य स्वभावतया अनपेक्षत्वेनान्तरङ्गत्वात् तेन अन्यापेक्षस्य बहिरङ्गस्य पृथक्त्वस्य बाधः स्यात्।  
+एवं गोत्वं सामान्यम्, सास्रादिकं विशेष इत्यपि न संभवति । तयोर्भेदे अश्वमहिषयोरिव, अभेदे स्वस्मिन्निव सामान्यविशेषभावायोगात् । भेदाभेदयोश्च परस्परविरोधेन एकत्र स्वीकर्तुमनुचितत्वात् ।  
+तस्मात् कायर्यकारणभाव-सामान्यविशेषभाव-स्वीकरणीय एव। कस्यचित् साधनं निषेधनं वा प्रमाणेनैव क्रियते । अज्ञातार्थावबोधकमेव प्रमाणम् । अतः प्रमाणप्रवृत्तेः प्राक् अज्ञातत्वं नित्यानुभवात् साक्षिण एव सिद्धयतीति वक्तव्यमिति सर्ववादिभिः अनुभवो न निराकर्तुं शक्यते । स च स्वप्रकाशः । स एवापास्तसमस्तविशेषः अद्वैत आत्मा इति अद्वैततत्त्वं निरुपयन्ति वार्त्तिककाराः ।  
+इदमत्र बोध्यम् । तत्त्वज्ञानेनाज्ञानध्वंसस्य तेनाज्ञानप्रयुक्तध्वंसस्य च स्वीकारे, 'विद्वान्नामरुपाद्विमुक्तः'(मु.3-2-8)इति श्रुतिबोधितस्य विदुषि सर्वद्दृश्योच्छेदस्य बाधः स्यादिति, ज्ञानेनाज्ञानध्वंसमनङ्गीकृत्य तत्त्वज्ञानक्षणस्य स्वसमानविषयकाज्ञानाधिकरणत्वाभावं, स्वसमानविषयकाज्ञानप्रयुक्तश्रयकालपूर्वत्वाभावं च स्वीकुर्वन्ति श्रीब्रह्मानन्दसरस्वत्यः। नव्याद्वैतिपक्षतया वादिनां निबन्धेषु प्रतिपादितस्यास्य पक्षस्य, 'न तस्य प्राणा उत्क्रामन्ति '(6-4-6)इति श्रुतिव्याख्यानप्रकरणे स्थितं---  
+ (अ.6-ब्रा.4)  
+रज्जुसर्पो यथा लोकेऽज्ञातरज्जुसतत्त्वकः।  
+नोत्क्रामति न चाप्यास्ते न च नश्यति रज्जुतः॥(289)  
+स्थित्युत्क्रान्तिविनाशानां रज्जुस्तत्त्वं यतस्ततः ।  
+रज्जुज्ञानसमुत्पत्तौ रज्ज्वा नान्योऽवशिष्यते ॥(290)  
+इति वार्त्तिकद्वयं मूलं प्रतिभाति ।  
+एवं ,तत्त्वज्ञानस्य अज्ञानतत्कार्यध्वंसरुपत्वाङ्गीकारेण'विद्वान्नामरुपद्विमुक्तः'(मु.3-2-8)इति श्रुत्यर्थबाधदोषमुद्धृत्य, ध्वंसपक्षो।पि समर्थितस्तैरेव ।  
+तस्यापि, (अ.3-ब्रा.4)  
+यथास्थितात्मयाथात्म्यज्ञानजन्मातिरेकतः ।  
+न तत्तमोनिवृत्तिः स्यात् तदुत्थस्य च वस्तुनः ॥(1495)  
+इति वार्त्तिकं मूलं प्रतिभाति ।  
+ वार्त्तिककाराः तत्त्वनिर्धारणाय स्वानुभवमपि तत्र तत्रोद्धाटयन्ति । स्वानुभवप्रदर्शकानि कानि चित् वार्त्तिकानि प्रदर्श्यन्ते बुधानां प्रमणादाय ।  
+ (अय3-ब्रा.4)   
+(1)मम तावदिदं बुद्धौ भवद्भ्यो यन्न रोचते ।   
+ प्रत्यक्यप्रवणया द्दृष्टया संसारो नात्मनीक्ष्यते । (527)  
+ कर्तृत्वादेर्मिथ्यात्वनिरुपणावसरे, (अ.6-ब्रा.4)  
+(2)उक्तार्थे संशयश्चेत् स्यात् प्रत्यग्द्दृष्टया समीक्ष्यताम् । (421)  
+(3)न समस्तं न च ल्यस्तं नोभयं प्रत्यगात्मनि । (अ.3-ब्रा.4)  
+ प्रत्यक्प्रवणया बुद्धया वीक्ष्यतां यदि शक्यते ॥ (968)  
+ (अ.6-ब्रा.3)  
+(4)स्वप्रेभबुद्धिर्नष्टेऽपि स्वप्न आभाति जागरे ।  
+ यथैवं मोहजं द्वैतं नष्टे मोहेऽपि सांप्रतम्॥(1745)  
+(4)अक्रियेऽपि यथा व्योग्नि ह्रुत्पत्तिस्थितिहानिभिः।  
+जगन्न्ननर्ति मय्येवं कार्यकारणवस्त्विदम् ॥(1742)  
+(6)दिग्विभागोऽविभागेऽपि व्योग्नि यद्वत् प्रकल्पितः ।  
+ प्रध्वस्ताशेषभेदेऽपि मयि भिन्नधियस्तथा ॥(1744)इति ।  
+अनुभूयमानस्य भेदप्रपञ्चस्य युक्तिकलापैरप्रामाणिकत्वं स्वप्रकाशस्यात्मनः साक्षिणःयुक्तिबाधासंभवं च निरुपयन्तः वैतण्डिकताश्रयणेन स्वव्याघातकत्वं युक्तीनां परिहरन्तः रसिकाः कवयः तार्किकसार्वभौमाः साक्षात्कृतात्मनः श्रीहर्षमिश्रा अपि, आत्मानं साक्षादनुभूतवतां युक्तिजालनिरुपणकुतूहलिनां कविवराणां वार्त्तिककाराणां सरण्यैव प्रबन्धरत्नं खण्डनखण्डखाद्दं रचयामासुः । श्रीहर्षमिश्राणां आत्मसाक्षात्कारवत्त्वे, खण्डनस्य नैषधस्य चावसाने स्थितं ,  
+ताम्बूलद्वयमासनं च लभते यः कान्यकुब्जेश्वरात् ।  
+यः साक्षात्कुरुते समाधिषु परं ब्रह्म प्रमोदार्णवम् ॥  
+यत्काव्यं मधुवर्षि धर्षितपराः तर्केषु यस्योक्तयः ।  
+श्रीश्रीहर्षकवेः कृतिरियं तस्याभ्युदीयाच्चिरम् ॥इति  
+तदीयं पद्दमेव प्रमाणं बोध्यम् । परन्तु ते गृहस्थाः, वार्त्तिककारास्तु, संन्यासिनः इति विवेकः॥  
+इदानीं तेषां परपक्षनिराकरणं चिन्त्यते ।  
+वार्त्तिके नास्तिकानां चार्वाकाणां बौद्धानां च पक्षः युक्तिभिर्निरस्तः ।  
+सर्वोऽपि पक्षः तत्तन्मतानुगुण्येन समीचीनया सरण्या संभूष्यैव दूष्यते। क्षणभङ्ग, सन्तानस्य अवाच्यता, अनुमानस्य त्रैविध्यं (सौगतसिद्धं ), विज्ञानमलम् इत्यादिकं सौगतमतसिद्धिमर्थजातं युक्तिभिः सम्यक् निरुप्य पराकुर्वन्ति वार्त्तिककाराः। धर्मकीर्तिवार्तिकमपि प्रमाणतयोदाहरन्ति तन्मतनिरुपणावसरे। अतश्च बाह्यमतानामपि व्युत्पादकोऽयं वार्त्तिकग्रन्थः ।  
+वादिप्रयुक्तानां क्षणिकः, सन्तानः, प्रतिक्षणविनाशिनः, इत्यादिपदानामर्थासंबन्धनिरुपणेन दूषणआभिधानाभिनिवेशो द्दृस्यते । अभावनिरासाधिकारेऽपि घटाभावः इति पदस्यासमर्थत्वं दूषणतयोक्तम् । तथा च वार्त्तिकम्---  
+घटाद्दभाव इत्युक्तिः न सम्यगिति मे मतिः ।  
+पदानामसमर्थत्वात् विरोधाद्वयस्तुनोर्मिथः ॥(सं.ग्र.944)इति ।  
+नागरिकया गम्भीरसरण्यैव दूषयन्ति नाहृदयङ्गमवाचां प्रयोगेन । तद्दथा-चार्वाकपक्षनिराकरणावसितौ,   
+ (अ.6.ब्रा.3)  
+इत्यलं शुष्कतर्कोत्थवाङ्मात्राक्षेपदूषणैः ।  
+पुंसां पुमर्थसिद्धयर्थं प्रकान्तमभिधीयते ॥(275)इति ।
+
+विस्तृतस्य बौद्धमतखण्डनस्यावसाने,  
+ (अ.6.ब्रा.3)  
+इत्यादिकल्पनाः प्रत्यगैकात्म्याज्ञानहेतुजाः ।  
+विभीषिका इमाः सर्वा वेदवर्त्मानुगामिनाम् ॥(494)इति ।  
+अथ आस्तिकानां परेषां पक्षस्य दूषणं चिन्त्यते ।  
+अतिसंनिकृष्टानां भेदाभेदवादिनां भर्तृप्रपञ्चानां मतनिरासे महान्निर्भरः वार्त्तिककाराणाम्। विनैव पक्षपातलेशं तदीयव्याख्यायां ग्राह्यांशं स्वीकुर्वन्ति वार्त्तिककाराः । एताद्दृशी रसिकता सुदुर्लभा कथकानाम् । तथा हि---  
+ भर्तृप्रपञ्चाभिमतस्य नानारसं ब्रह्मेति वादस्य वहुषु स्थलेषु युक्तिभिः मया निराकरणेऽपि मनसः तुष्टिर्न जाता । अतः पुनः दूषयिप्यामि इति सावेगं प्रति पादयन्ति ।  
+तथा च वार्त्तिकम् ---  
+ (अ.3.ब्रा.4)  
+न सामान्यं विशेषो वा यथैकात्म्येऽवगम्यते ।  
+उक्तमप्युत्तरत्रैतदसन्तोषात्प्रवक्ष्यते ॥(1006)इति ।  
+ (अ.6.ब्रा.2)  
+अपूर्वादिषु जीवत्सु श्रुतिवाक्येषु शक्यते ।  
+नेश्वरेणापि निर्वक्तुं समस्तव्यस्ततात्मनः ॥(103)इति  
+मङ्गया ताद्दृशवादस्य'अपूर्वमनपरम्'इत्यादिश्रुतिविरुद्धत्वनिरुपणं,  
+ (अ.6.ब्रा.3)  
+तमोंऽशत्वं यथा भानोः सतश्चासदंशता ।  
+वियतो मूर्ततैवं स्यात् भिन्नाभिन्नत्वमात्मनः ॥(1812)इति  
+सद्दष्टान्तवर्णनमसंभाव्यत्वकथनं च तन्निराकरणे निरतिशयमभिनिवेशमावेदयति ।  
+सर्वत्र भर्तृप्रपञ्चपक्षं श्रुतियुक्तिबाह्यत्वदोषेण प्रतिक्षिपन्ति ,  
+ (अ.6.ब्रा.4)  
+इति श्रीमन्महाभर्तृप्रपञ्चस्य महीयसः ।  
+व्याख्यामधीयते धीराः न्यायागमबहिष्कृताम् ॥(412)  
+यथा चेदमसंबद्धं न युक्त्यक्षरसंश्रयम् ॥  
+इत्यादिभिः । क्वचित् तन्मते युक्त्यादिविरोधः,  
+ इत्येतदविरुद्धं स्यात्प्रसादाज्जातवेदसः । इति  
+भङ्गयन्तरेणोच्यते । ज्ञानकर्मसमुच्चयवादिनां अग्न्युपासकत्वात् तत्प्रसादेनैवेदमविरुद्धं भवेदिति सोपहासवजनमिदं बोध्यम् ।  
+'यद्वै तन्न पश्यति '(बृ.6-3-23)इति श्रुत्यर्थविचारे,(अ.6.ब्रा-3)  
+यथा चैतदसंबद्धं युक्त्यक्षरबहिष्कृतम् ।  
+तथाऽसकृत्पुराप्युक्तमधुनाप्यभिधीयते ॥(1567)इति  
+असकृत् निराकरणमुच्यमानं तत्र महदैदम्पर्यं प्रकाशयति ।  
+एवं भर्तृप्रपञ्चमतनिराकरणायैव 'अस्थूलमनणु'(बृ.6-4-20)'सलिल एको द्रष्टा अद्वैतो भवति '(बृ.6-3-32)इत्याद्दाः श्रुतयः प्रवर्तन्ते इति व्याख्यानमपि तन्मतनिराकरणनिर्भरं प्रकटीकरोति । भाष्यापरामृष्टानि बहूनि तदीयानि श्रुतिव्याख्यानानि पराकुर्वन्ति वार्त्तिककाराः ।  
+एवमपि सति, बहुषु स्थलेषु भाष्यानुद्धाटितमपि भर्तृप्रपञ्चव्याख्यानमादेयं निरुपयन्ति सुरेश्वराचार्याः ।  
+'आत्मेत्येवोपासीत'(बृ.3-4-7)इत्येकं सूत्रम्, उत्तरं सर्वं तद्विवरणम्, 'तद्ध'इत्यादिका 'तदेतत्'इत्यादिका चेति कण्डिकाद्वयं सूत्रं, अपरमस्य विवरणम्, तृतीयाध्यायः सर्वोऽपि एकं सूत्रं, तृतीयः चतुर्थश्चाध्यायः सूत्रं, उत्तरं विवरणमिति विकल्पेन स्वाभिमतसूत्रक्लृप्तिं निरुप्य, भर्तृप्रपञ्चाभिमतपञ्चसूत्रक्लृप्तिमपि स्वेष्टां वर्णयन्ति । तद्दथा--  
+ (अ.3.ब्रा.4)  
+अव्याकृतव्याकरणप्रभृतीन्यपरे विदुः ।  
+पञ्चैव किल सूत्राणि तथापीष्टं न बाध्यते ॥(1065)  
+अव्याकृतं स एवेह तथात्मैवेति चापरः ।  
+पदनीयं तथा प्रेयः पदार्थाः पञ्च सूत्रिताः (1066)  
+यथोक्तानां च सूत्राणामा शास्त्रस्य समापनात् ।  
+वृत्तिः स्यादुत्तरो ग्रन्थः तत्र तेषां समन्वयात् ॥(1067)इति ।  
+एवं ,'अनन्वागतस्तेन भवति, असङ्गो ह्रयं पुरुषः '(बृ.6-4-16)इत्यस्य भाष्यकारीयव्याख्यां दर्शयित्वा, भर्तृप्रपञ्चव्याखायमादेयां निरुपयन्ति। 'एतस्य पुरुषस्य द्वे एव स्थाने इदं च परलोकस्थानं च '(बृ.6-3-9)इत्यस्य भाष्योक्त संबन्धं, भर्तृप्रपञ्चोक्तसंबन्धं, स्वाभिमतं संबन्धान्तरं च निरुपयन्ति । सप्तान्नब्राह्मणे द्वादशकण्डिकाविवरणावसरे, मनसः चन्द्रेण संबन्धे प्रसिद्धे सति आदित्येन संबन्धवर्णनमसंगतमिति शङ्का उद्भाविता,  
+ (अ.3.ब्रा.5)  
+विवक्षितत्वादैक्यस्य मनोबुद्धयोरतः श्रुतिः।  
+आदित्येनैव सन्धत्ते मनश्चन्द्रमसा न तु ॥(181)  
+प्रसवाधिकृतेश्चात्र सावित्रः प्रसवस्ततः ।  
+सवित्रैवाभिसंबन्धः मनस्तेन शस्यते ॥182)  
+इति वार्त्तिकाभ्यां परिहृता च । इमौ शङ्कापरिहारौ भर्तृप्रपञ्चभाष्यानुसारिणाविति शास्त्रप्रकाशिकायां भर्तृप्रपञ्चभाष्यवाक्योद्धरणात् प्रतीमः ।  
+सूत्रस्य जगद्वाप्तिरपि भर्तृप्रपञ्चोक्तरीत्यैव निरुपिता ।
+
+क्वचित् भर्तृप्रपञ्चव्याख्याने कश्चनांशः उपादेयः, कश्चनांशः अनुपादेय इति विभज्य निरुपणं सविमर्शं क्रियमाणं निष्पक्षपातरुचिं तेषामावेदयति ।  
+तथाहि--  
+ 'तद्दथा महामत्स्यः '(बृ.6-3-18)इति द्दृष्टान्तश्रुतेरर्थं भाष्यमतेन विशदीकृत्य,भर्तृप्रपञ्चमतेन तदर्थविवरणमुपन्यस्तम् ।तत्र विज्ञानं भौतिकमेव इति देहात्मवादनिरासार्थं तत्प्रवृत्तिः इति युक्तमंशमङ्गीकृत्य, देवतायाः ज्ञानक्रमहेदुद्वाशङ्कानिराकरणमयुक्तमिति निरुपयन्ति,  
+ (अ.6-ब्रा.3)  
+पृथक्त्वे वाऽपृथक्त्वे वा भूतेभ्यो देवतात्मनः ।  
+किमर्थं देवताशङ्का क्रियते हिरुगात्मनः ॥(1147)इति ।  
+एवं षष्ठे, 'मनसैवानुद्रष्टव्यम्'(बृ.16-4-19)इत्यादिश्लोकानां भर्तृप्रपञ्चव्याख्यां सम्यक् निरुप्य, तत्र तदुक्तस्य मानव्यापारः मनसैव द्रष्टव्यत्वमित्यादेः न्याय्यात्वादङ्गीकरणं, प्रज्ञाकरणस्य विधेयत्वासंभवात् 'विज्ञाय प्रज्ञां कुर्वीत'इति वाक्यं विधायकमित्यंशस्यानुपादेयत्वं च विभज्य दर्शयन्ति ।  
+ (अ.6-ब्रा.4)  
+श्रीमद्भर्तृप्रपञ्चस्य श्लोकव्याख्येयमीरिता ॥(741)  
+मनसैवेत्युपक्रम्य सा त्विदानीं विचार्यते ।  
+न्याय्यान्याय्येति वा यत्नाद्दुक्तिभिः प्रविभागशः ॥(742)  
+मनसैवानुद्रष्टव्यमिति यद्भवतेरितम् ।  
+सत्यमेतन्मनो मुक्त्वा न त्सायस्त्यन्यतो गतिः ॥(473)  
+तत्त्वस्माभिर्यथाऽभाणि मनसैवेति दर्शनम् ।  
+मनसा शक्यते द्रष्टुं तत्तथैव प्रमान्वयात् ॥(745)  
+इत्यादेयांशमुक्त्वा,  
+ वस्तुतन्त्रं तु सद्दत्र विज्ञानं जायते बलात् ।  
+तत्रापुरुषतन्त्रत्वात् न कश्चिद्विधिरिष्यते ॥(756)  
+इत्यादिना प्रज्ञाकरणस्य विधेयत्वं दूषितं बोध्यम् ।  
+ किञ्चान्यत् ,भर्तृप्रपञ्चेषु बहुमानातिशयात् तदीयस्य 'ब्रह्म् वा इदमग्र आसीत्'(बृ.3-4-10)इत्यादिश्रुतिव्याख्यानभूतस्य भाष्यस्य विवर्तवादानुसारेण नयनमपि कृतं वार्त्तिककारैः । तद्दथा---  
+ (अ.3-ब्रा.4)  
+भर्तृप्रपञ्चप्रस्थानमेवमेतद्दथोदितम् ।  
+इतोऽन्यत्रापि तद्भाष्यं गमयेदेवमेव तु ॥(1164)इति ।  
+दूषणीयस्य ग्रन्थस्य स्वाभिमतार्थपरतया नयनपद्धिमिमां वार्त्तिककारीयामवलम्ब्यैव, श्रीमदप्पय्यदीक्षितैः आनन्दलहर्यां श्रीकण्ठाचार्यभाष्यस्य अद्वैतैम्पर्यं वर्णितमिति भाति ।  
+अथ मण्डनमतप्रतिक्षेपः चिन्त्यते ।  
+अकार्यकारणमसामान्यविशेषं प्रत्यग्ब्रह्म स्वीकुर्वतामपि मण्डनमिश्राणां संमतं प्रज्ञाकरणविधानं सप्रयत्नं दूषयन्ति वार्त्तिककाराः । शब्दस्य संसृष्टर्थगोचरपरोक्षज्ञानजनकत्वस्वाभाव्यात् तत्त्वमादिमहावाक्येन असंसृष्टब्रह्मसाक्षात्कारो न जायते । अतः 'विज्ञाय प्रज्ञां कुर्वीत' इति वाक्यं महावाक्यार्थज्ञानाभ्यासेन प्रसंख्यानेन असंसर्गिब्रह्मसाक्षात्कारलक्षणप्रज्ञां कुर्यात् इति अभ्याकं विधत्ते इति मण्डनमतम् ।  
+एतच्च, (अ.6-ब्रा.4)  
+अन्ये तु पण्डितंमन्याः संप्रदायानुसारतः ।  
+विज्ञायेति वचः श्रौतमिदं व्याचक्षतेऽन्यथा ॥(796)  
+इत्यादिना,  
+ इत्येवमादिवाक्यानि गम्भीरन्यावेदिनः ।  
+ केचिद् व्याचक्षते यत्नादत्र प्रतिविधीयते ॥(810)  
+इत्यन्तेन वार्त्तिकजातेन निरुपितम् ।  
+ वार्त्तिककारास्तु "आत्मस्वरुपसमर्पकैरेव वाक्यैः'तत्त्वमसि 'इत्यादिभिः श्रवणकाल एव दर्शनस्य कृतत्वात्" इति भाष्योपदिष्टमार्गेण, दशमस्त्वमसि इति वाक्यादिव तत्त्वमसिवाक्यात् मानादेव असंसृष्टब्रह्मसाक्षात्कारं स्वीकृत्य, साक्षात्काराय ्भ्यासात्मकप्रसंख्यानविधानं निराकुर्वन्ति । सर्वत्र विचारे पदे पदे मानेन ब्रह्मसाक्षात्कारजनने अभ्यासाबेक्षां तात्पर्येण निषेधन्ति । उपहसन्ति च मण्डनमिश्रान् , वाक्यात् मानात् अयथाभूतसंसृष्टावगाहि ज्ञानं जायते , अमानात् वाक्यार्थज्ञानाभ्यासात् यथाभूतासंसर्गिवस्तुतत्त्वज्ञानं जायते इति विरुद्धार्थवादितादोषेण,  
+ (अ.6-ब्रा.4)  
+वाक्यमानोद्भवं ज्ञानमयथावस्तिवतीर्यते ।  
+यथावस्त्वप्रमोत्थं च चित्रं सर्वज्ञचेष्टितम् ॥(820)इति ।  
+इदंतु बोध्यम् । वार्त्तिककाराः सुरेश्वराचार्या एव गार्हस्थ्ये मण्डनमिश्राभिधाः इत्युक्तिः न समीचीना । यतः, 'पण्डितंमन्याः 'इति 'चित्रं सर्वज्ञ चेष्टितम् 'इति च स्वस्यैव सावहेलनं वचनं न स्वप्ने।पि संभाव्यते । अतः ब्रह्मसिद्धिप्रणेतारः अद्वैतिनः मण्डनमिश्रा एव पश्चात् सुरेश्वराचार्याभिधां प्रपन्नाः इति न घटते । पराक्रान्तं चात्र पूज्यप्राध्यापकैः महामहोपाध्याय कुप्पुस्वामिशास्त्रिपादैरिति ॥  
+ एवं चतुष्पान्मानवादिनां अद्वैतिनां ब्रह्मदत्तानां पक्षोऽपि प्रतिक्षिप्तो वार्त्तिककारैः ।  
+ अयमत्र ब्रह्मदत्तमतसंक्षेपः।  
+तत्त्वमस्यादिशास्त्रमैकात्म्यं बोधयति । तच्च पुमर्थपर्यवसानाय अनुभवजनकमास्थेयम् । तदर्थं 'आत्मानं पश्येत् '(बृ.6-4-23) इति दर्शनोद्देशेन प्रसंख्यानविधिमपेक्षते । अपेक्ष्यमाणोऽपि विधिः न प्रधानं , किन्तु तत्त्वमसिशास्त्रस्याङ्गमेव । विधेः प्राधान्ये तत्त्वमसिशास्त्रस्य विधिसेषत्वापत्त्या भेदग्राहिप्रत्यक्षादिप्रमाणविरोधे सति स्वार्थैकात्म्यबोधकत्वायोगात् । एवं असंभावनादिप्रतिबन्धकनिरासाय युक्तिमप्पेक्षते । युक्तिं प्रसंख्यानं चापेक्ष्य शास्त्रमैकात्म्यमवामयति । चतुष्पात् मानम् । आत्मा, युक्तिः, प्रसंख्यानं, शास्त्रं चेति चत्वारः पादा इति ।
+
+पक्षश्चायं मण्डनमतानुयायी, प्रसंख्यानविधिस्वीकारात् । सुष्ठु निरस्तश्चायं पक्षः संबन्धग्रन्थे वार्त्तिककारैः । एवमविद्दाद्वैविद्यवादिनामेकदेशिनां पक्षोऽपि प्रतिक्षिप्तः ॥  
+ वेदार्थनिर्णायकोऽपि मीमांसको नियोगवादी वेदान्तिभिः दूषणीयेषु प्रथमं स्थानमापोपितः । साध्यनियोगनिष्ठतयैव सर्वेषां वेदानां प्रामाण्यं स मन्यते । वेदान्तितनस्तु नियोगगन्धं विनापि सिद्धार्थब्रह्मोपदेशात् परमपुरुषार्तावाप्तिरिति सिद्धवस्तुनिष्ठतया वेदान्तप्रामाण्यमभ्युपगच्छन्ति । अतः प्रधाने प्रमेये विरोधात् स एव प्रथमं दूषणीयः संवृत्तः ।  
+ पदानां कार्यान्विते शक्तिः, कार्यं च नियोगापरपर्यायं लिङर्थः, तस्य बोधरीतिः,. तन्निष्ठतां विना प्रामाण्यायोगः, कर्मण एव परमपुरुषार्थकारित्वम् इत्यादयः प्रमेयाः प्राभाकरमतविशेषव्युत्पत्तिदायिन्या अतिसमीचीनया सरण्या निरुपिताः, दूषिताश्च वार्त्तिके । भट्टसंमता लिङर्थप्रवर्तनापि दूषिता । परन्तु'वेदविदा'इति सबहुमानमुक्तः मीमांसावार्त्तिककारः । तन्मतसिद्धमात्मनः जडबोधरुपत्वमपि प्रतिक्षिप्तम् । आत्मनानात्वाङ्गीकारेण तार्किकैः सह महत्यपि विरोते सति , तदभिमतमिष्टसाधनत्वमेव लिङर्थतया स्वीकुर्वन्ति वेदान्तिन इति बोध्यम् ॥  
+ इदन्त्ववधेयम् । संबन्धग्रन्थे,'तस्यास्य कर्मकाण्डेन संबन्धोऽभिधीयते 'इति प्रतिज्ञाय, तदर्थमेव 'सर्वोऽप्ययं वेदः प्रत्यक्षानुमानाब्यामनवगतेष्टानिष्टप्राप्तिपरिहोरोपायप्रकाशनपरः ।'इति वाक्येन सिद्धार्थे प्रामाण्यं प्रसाध्य, 'सर्वपुरुषाणां निसर्गत एव तत्प्राप्तिपरिहारयोरिष्टत्वात'इति प्रामाण्योपयोगित्वेन विद्दाधिकारिसौलभ्यमुक्त्वा, प्राभाकराभिमतकार्ये वेदान्तप्रामाण्यं 'द्दृष्टविषये च 'इति वाक्येन निराकृत्य, 'न चासति जन्मान्तरसंबन्धयात्मास्तित्वविज्ञाने जन्मान्तरेष्टानिष्टप्राप्तिपरिहोरेच्छा स्यात् ।' इत्यादिवाक्यजादेन परैरपि वेदस्य सिद्धार्थे प्रामाण्यस्यैष्टव्यत्वात् वेदान्तानां स्वार्थनिष्ठत्वमिति प्रतिष्ठाप्य,'सर्वथाप्यस्यात्मा' इत्यादिवाक्यसन्दर्भेण कर्मभिः शुद्धबुद्धेः वैराग्यादिद्वारा ज्ञानोत्पत्तिः संबन्धः इति , कर्मज्ञानकाण्डयोः प्रतिज्ञातः संबन्धो निरुपितो भाष्यकारैः ।  
+ संक्षिप्तभाष्यस्याशयवर्णनमुखेन, नियोगवादः, वेदान्ते प्रसंख्यानादौ विधिरिति वादः , कर्मण एव मोक्षहेतुत्वमिति वादःष ज्ञानकर्मसमुच्चयस्य मुक्तिहेदुत्ववादः, प्रपञ्चप्रविलयद्वारा कर्मकाण्डस्य ज्ञानाङ्गत्वमिति वादः, कामप्रविलयद्वारेण ज्ञानाङ्गत्ववादः, नानारसब्रह्मवादः, अखण्डे ब्रह्मणि वेदान्तप्रामाण्यस्य प्रत्यक्षादिविरोधपरिहाराय भेदस्य प्रत्यक्षादिमानागम्यत्वमितिवाद इत्यादयो वादाः सुनिपुणमुद्भाव्य युक्तिनिकुरुम्बैः सुदूरमुत्सारिताः वार्त्तिककारैः । किं बहुना, वेदान्तदर्शनेनावगन्तव्यं समग्रं प्रमेयजातं विचारितमत्र संबन्धवार्त्तिके । अत एव वार्त्तिककारैरेव संबन्धग्रन्थः बृहद्विचार इति व्यवहृतः,  
+'बृहद्विचारे सम्यक् च प्रागप्येतद्विचारितम् । '(अ.5.ब्रा.5-35)इति वार्त्तिके । न्यायकल्पलतिका वृद्धविचारशब्देनापि व्यवहरति संबन्धग्रन्थम् ।  
+ कर्मज्ञानाधिकारिणोर्भेदः निरुक्तसंबन्धश्च संबन्धग्रन्थसारार्थ इति संबन्धग्रन्थावसाने , "महता कण्ठरवेण अधिकारिभेदं संबन्धं चाभिधाय फलितमुपसंहरति ।"इति न्यायकल्पलतिकाग्रन्थोऽवगमयति । अतश्च संबन्धवार्त्तिकग्रन्थः वेदान्तदर्शनसारसंग्रहभूत इति सिद्धम् ।  
+ अथ वार्त्तिकचिन्तितं भाष्यकारीयदुरुक्तचिन्तनं प्रस्तूयते ।  
+' एतं वैतमात्मानं विदित्वा ब्राह्मणाः पुत्रैषणायाश्च वित्तैषणायाश्च लोकैषणायाश्च व्युत्थायाथ भिक्षाचर्यं चरन्ति '(बृ.5-5-1)इत्यत्र ब्राह्मणग्रहणप्रयोजनपरं , "ब्राह्मणानामेवाधिकारो व्युत्थाने । अतो ब्राह्मणग्रहणम् ।"इति भाष्यम् । एवं 'व्युत्थायाथ भिक्षाचर्यं चरन्ति 'इति वर्तमानापदेशादर्थवादः न विधिः इत्याशङ्कय , महता विचारेण संन्यासविधयायकत्वं समर्थितं भाष्ये ।  
+(1)वार्त्तिककारास्तु 'ब्रह्मचर्यादेव प्रव्रजेत् '(जा) इत्यादिसंन्यासविधायकश्रुतेः ब्राह्मणादिवर्णत्रयाविशेषेण प्रवृत्तत्वात् ,सामान्यश्रुतेश्च अत्रत्यब्राह्मणग्रहणेन विशेषे संकोचकल्पनस्य,  
+ 'ब्राह्मणः क्षत्रियो वापि वैश्यो वा प्रव्रजेत् गृहात् ।'  
+इति विशेषस्मृत्यनुगृहीतत्वादसंभवात्, अत्र ब्राह्मणग्रगहणं क्षत्रियवैश्योपलक्षणार्थम्, 'स ब्राह्मणः'(बृ.5-5-1)इति उत्तरत्र वक्ष्यमाणफलावस्थब्राह्मणाभिप्रायकं वेति निरुपयन्ति । परन्तु भाष्योक्तमसंगतमित्यनुक्त्वा, भाष्यानुसारिव्याख्यानानानन्तरे,
+(अ,5-ब्रा.5)  
+ त्रयाणामविशेषेण संन्यासः श्रूयते श्रुतौ ।  
+ यदोपलक्षणार्थं स्यात् ब्राह्मणग्रहणं तदा ॥(89)इति ,  
+ एवं चेद् ब्राह्मणोक्तिः स्यात् ध्वस्ताविद्दगृहीतये ।  
+ स ब्राह्मण इति स्पष्टं श्रुतिरन्ते च वक्ष्यति ॥(92)  
+इति च प्रतिपादयन्ति ।  
+ तृतीयेऽपि चतुर्थब्राह्मणे ,  
+ त्रयाणामपि वर्णानां श्रुतौ संन्यासदर्शनात् ।  
+ ब्राह्मणस्यैव संन्यास इति श्रुत्या विरुद्धयते ॥(1651)  
+इत्यभिहितं वार्त्तिके ।  
+ एवं संन्यासविधायकश्रुतिस्मृतीनां बहुलमुपलम्भात्, इहापि 'बाल्येन तिष्ठसेत् '(बृ.5-5-1)इति प्रत्यक्षविधिदर्शनात्,'व्युत्थायाथ भिक्षाचर्यं चरन्ति 'इति वाक्ये संन्यासतद्धर्मविथिरिति पूर्वपक्षोत्तरपक्षाभ्यां निरुपणमफलमिति वार्त्तिककारा अभिप्रयन्ति । तथा च वार्त्तिकम् --  
+ (अ.5-ब्रा.5)  
+सत्सु प्रत्यक्षविधिषु यथोक्तेष्वफलः श्रमः ।  
+भिक्षाचर्यं चरन्तीति विध्यर्थः क्रियते महान् ॥(165)  
+तिष्ठासेदिति चात्रापि प्रत्यक्षः श्रूयते विधिः ।  
+तस्मिन् सति वृथा कस्माज्जनोऽयं परिखिद्दते ॥(166)  
+(2)पञ्चमे शाकल्यब्राह्मणावसाने, 'स एष नेति नेत्यात्मा '(बृ.5-9-26)इत्यादिवाक्यं न याज्ञवल्क्यवचनम् , अपि तु ततो विच्छिद्द स्वतन्त्रायाः श्रुतेर्वचनमिति भा,्यप्रदर्शितां व्याख्यां निरुप्य, पूर्ववाक्येष्विव वाक्यविच्छेदद्दोतकस्य इतिशब्दस्याभावात् वाक्यविच्छेदं विना 'एतान्यष्टावायतनानि'इत्यादिपूर्ववाक्यैकवाक्यतयैव व्याख्यानमुचितमिति 'स एष नेति नेत्यात्मा 'इति याज्ञवल्क्यप्रश्नन्तर्गतमित्यभिहितम्,  
+स एष नेति नेत्याद्दः प्रश्नो वायं समीक्ष्यताम् ।  
+मध्ये वाक्यच्छिदोऽभावादितिशब्दस्य पूर्ववत् ॥(104)  
+इति वार्त्तिके । अत्र भाष्यव्याख्यानं न स्वारसिकमिति न कण्ठरवेणोक्तम् । अपि तु हृदि स्थितमिति बोध्यम् ।  
+(3)षष्ठे तृतीयब्राह्मणोपक्रमे , 'जनकं ह वैदेहं याज्ञवल्क्यो जगाम ।  
+'स मेने न वदिष्ये इति ।'(बृ.6-3-1) इति वाक्यं भाष्यरीत्या व्याख्याय एनेन संवदिष्ये इति योजनया जनकेन सह संवादायैव याज्ञवल्क्यो जगाम इति स्वयं तस्य व्याख्यान्तरं प्रदर्शितं वार्त्तिकारैः । तदनन्तरं ,उत्तरस्याः स्वीयव्याख्यायायाः शुभत्वं भाष्योक्तव्याख्याया असाधुत्वं च स्पष्टमुक्तं,  
+ (अ.6-ब्रा.3)  
+राजैव पूर्वं पप्रच्छेत्येतस्माद्गम्यते शूभा ।  
+लिङ्गाद् व्याख्योत्तरा पूर्वा न साध्वीत्यप्रमाणतः ॥(13)  
+इति वार्त्तिके ।  
+(4)"सोऽयं मनुष्यलोकः पुत्रेणैव जय्यः नान्येन कर्मणा, कर्मणा पितृलोको विद्दया देवलोकः ।"(बृ.3-5-16)इत्यत्र कर्मणा पितृलोकः इत्यत्रापि एवकारनुकर्षणेन "कर्मणा अग्निहोत्रादिलक्षणेन केवलेन पितृलोको देतव्यः, न पुत्रेण, नापि विद्दया। विद्दया देवलोकः, न पुत्रेण, नापि कर्मणा"इति भाष्यकारीयं व्याख्यानम् । वार्त्तिककारास्तु, कर्मातिरिक्तेनापि पितृलोकप्राप्तेः प्रामाणिकत्वात्, अश्रुतस्थले एवकारानुषङ्गेण व्याख्यानं दुष्टमिति कण्ठरवेणैव प्रतिपादयन्ति,   
+ (अ.3-ब्रा-5)  
+पुत्रस्यैवावधृतये एवकारो भवेदयम् ।  
+पितृदेवलोकसंप्राप्तिः श्रुतेहान्यैश्च साधनैः ॥(240)  
+व्याख्यानमिदमेवात्र विदोषं दोषवत्परम् ।  
+इदमेव ततो ग्राह्यं न तु यद्दोषवन्मतम् ॥(241)  
+इति ।  
+(5)चतुर्थे प्रथमब्राह्मणे 'य एष विज्ञानमयः पुरुषः'(4-1-16)इत्यत्र, वाक्यतात्पर्यदर्शनात् पूरयन् पुरुषः इत्येव व्युत्पत्तिः इत्यभिधानात्, 'पुरुषः पुरि शयनात्'इतिभाष्योक्तव्युत्पत्तिरसाध्वी इति व्यनक्ति ।  
+तथा च वार्त्तिकम्----- (अ.4-ब्रा-1)  
+पूरयन्पुरुषः प्रत्यक् सर्पादीन्नशना यथा ।(192)  
+व्युत्पत्तिरियमेवात्र तात्पर्यस्य समीक्षणात् ।  
+स वा इति ह्रुपक्रम्य नैनेनेत्यादिनिर्णयात् ॥(193)  
+इति ।  
+(6)मैत्रेयीब्राह्मणे,'अस्य महतो भूतस्य'(6-5-11)इत्यादिवाक्ये 'इतिहासः पुराणम्'इत्यादिना अष्टविधं ब्राह्मणमुक्तमिति भाष्योक्तं व्याख्यानं निरुप्य, बाधकाभावे वृद्धप्रसिद्धेनतिक्रमणीयत्वात् प्रसिद्धमितिहासादिकमपि ग्राह्यम् इति वदद्भिः वार्त्तिकारैः भाष्यकारमतं दूषितम्,  
+ (अ.6-ब्रा.5)  
+यथाप्रसिद्धमितिहासपुराणआद्दपि गृह्यते ।  
+लोकप्रसिद्धिमुल्लङ्घय यतोऽन्याय्योऽन्यथा ग्रहः ॥(317)  
+इति वार्त्तिके ॥  
+वेदान्तदर्शने वार्त्तिककारसिद्धाः असाधारणप्रमेया इमे ।  
+(1)सुप्तोत्थितस्य सुखमहमस्वाप्सं न किञ्चिदवेदिषमिति ज्ञानं न स्मृतिः, सुषुप्तौ अज्ञानाकारवृत्तेरनङ्गीकारात् ।  
+(2)शब्दार्थसंबन्धज्ञानं विनापि सुषुप्तस्य शब्दश्रवणात्प्रबोधवत् पदार्थबोधः संभवति ।  
+(3)आभासवादः।  
+(4)संन्यासस्य त्रैवर्णिकाधिकारिकत्वम् इत्यादयः ।  
+वार्त्तिककाराश्चेमे भाष्यकाराणां साक्षादन्तेवासिनः अत्यन्तं गुरुभक्ताः,गरीयसा, अस्मद्गुरुः,पूज्यपादैः,  
+यत एवमतोऽपास्तरागद्वेषादिधीमलः।  
+उदारधिषणः प्राह भाष्यकृन्नयायवद्वचः॥  
+इत्यादिना सबहुमानं भाष्यकारान्निर्दिशन्ति ।  
+ एते सगुणब्रह्मणि विष्णौ भक्तिभाजः, आचार्येषु निरतिशयभक्तिमन्तश्चेति वार्त्तिकग्रन्थावसाने ग्रथितैः श्लोकैः स्फुटमवगच्छामः ।  
+तदेवं वेदान्तदर्शनमर्यादाकारिश्रीसुरेश्वाचार्यवर्यविरचितेन वार्त्तिकामृतेन भूषितं भगवत्पादीयं बृहदारण्यकोपनिषद्भाष्यं विजयतेतमामिति चिन्तितम् ॥  
+ PART VI  
+ वार्त्तिकव्याख्यापरिचयः  
+बृहदारण्यकोपनिषद्भाष्यवार्त्तिकस्य व्याख्यात्रयमुपलभ्यते ।  
+(1)आनन्दज्ञानविरचिता शास्त्रप्रकाशिका आनन्दाश्रमे मुद्रिता ।  
+(2)अमुद्रिता अन्या नृसिंहप्रज्ञविरचिता न्यायतत्त्वविवरणाधभिधाना।  
+ (Madras Government Oriental M-SS,Library,R.No.3227)  
+(3)अपरा चाद्द मुद्राप्य प्राकाश्यमाना न्यायकल्पलतिका चेति ।  
+अन्वर्थविद्दासागराभिधानाः आनन्दपूर्णमुनीन्द्राः न्यायकल्पलतिकां रचयामासुः। एते युक्तिनिरुपणेऽतीव कुशलाः कथारसिकाश्च। विद्दासागरैः, सर्ववादिभिरभेद्दयुक्तिजालानि निरुपयतः खण्डनखण्डखाद्दग्रन्थस्य शङ्करमिश्रादिकृतव्याक्यान्तरापेक्षया ग्रन्थतत्त्वार्थावबोधने अतितरामुपकारिणी विद्दासागरी इति प्रसिद्धा खण्डनफक्किकाविभजनाख्या व्याख्या निर्मितास्ते । तदारम्भे च,  
+"कथाख्यभूमिप्रचलत्प्रचण्डवादीभकुम्भप्रविभेदतोत्रम् ।  
+रसावसिक्तं बुधमण्डनं यत्तत्खण्डनं व्याकरवाणि नीत्या॥"  
+इति पद्देन स्वस्य कथारसिकताऽवेदिता ।  
+ बृहदारण्यकस्योपपत्तिप्रधानत्वात्, तद्भाष्यवार्त्तिकस्य युक्तिनिरुपणव्यग्रत्वात्, तद्वयाखायव्याजेन विद्दासागरादात्मनः समुद्भूता व्याख्येयं ब्रह्मविदामपेक्षितसगग्रन्यायसमर्पणकारिणी इत्यभिसन्धिना 'न्यायकल्पलतिका'इति व्याख्यानामधेयं चक्रुः।  
+न्यायकल्पलतिका अत्यर्थं शब्दसंक्षेपवती । आशङ्काद्दोतकान्'ननु'त्यादिकान शब्दान्,वाक्यविच्छेदद्दोतकेतिशब्दानपि प्रायः न प्रयुङ्क्ते। यत्न वार्त्तिके पदच्छेदविषयकः संशयो जायेत व्युत्पन्नचितानां, तत्र'इति पदम्'इति पदच्छेदं दर्शयति । दूरान्वयविषमान्वयस्थलेष्वेवान्वयं कथयति । क्वचित् पूर्वंवार्त्तिकार्थं उत्तरवार्त्तिकावतरणिकया अवबोधयति । वेदान्तिनां निबर्हणीयस्य प्रधानमल्लस्य नियोगवादिनो मीमांसकस्य मतनिरुपणावसरे, पूर्वमीमांसाधिकरणानि जैमिनिसूत्रनिर्देशपूर्वकं संशयपूर्वपक्षसिद्धान्तकथनमुसेन प्राबाकरसरण्या सम्यक् निरुपयति । परन्तु अनुपयुक्तस्थले अधिकरणं नानुक्रामति । एवं सौगतनैयायिकभर्तृप्रपञ्चादिमतनिरुणावसरे, तत्तद्ग्रन्थस्थवाक्यानि नोद्धरति । तत्सिद्धार्थानामाविष्कृतिमात्रं करोति । एवंरीत्या लिखनसंक्षेवनिर्बन्धिनः शिरोमणिभट्टाचार्यस्य सरणिवलम्बमाना न्यायकल्पलतिका व्युत्पन्नचित्तसमास्वाद्दा विजयते ।  
+ शास्त्रप्रकाशिकाकारास्तु ग्रन्थविस्तरकुतूहलिनः तत्तन्मतनिरुपणावसरे तत्तद्ग्रन्थवाक्यान्युद्धरन्ति । उद्भाव्यापि प्रसङ्गं पूर्वमीमांसाधिकरणानि साकल्येनानुक्रामन्ति । प्रायः अन्वयादिकथनपूर्वकं वार्त्तिकार्थं विवृण्वन्ति । शङ्काद्दोतिनः नन्वादिशब्दान्, वाक्यविच्छेदद्दोतकान् इत्यादिशब्दान्, क्वचित् आशङ्कय इत्यादिशब्दांश्च प्रयुञ्जानाः शास्त्रप्रकाशिकां सरलचित्तरुचिरामातन्वते ।  
+ परन्तु, वादिवाक्ये यावन्तोऽर्थाः संभवन्ति, तावतां दूषणमावश्यकमिति नीतिमवलम्ब्य, वाद्दुक्तार्थे बहून् विकल्पानुद्भाव्य, तत्र कस्यचिद्विकल्पस्य दूषणं मनसि निधाय, अपरस्य दूषणं 'न'इतिशब्देनोक्त्वा, अन्यस्य विकल्पस्य दूषणं स्वशब्देन निषेधति इतीद्दृशं व्याख्यानं बहुलं द्दृश्यते शास्त्रप्रकाशिकायाम् ।  
+ षष्ठे ज्योतिर्ब्राह्मणे आत्मनः मनसोऽतिरिक्तत्वव्यवस्थापनावसरे द्दृष्यत्वमेव मनसः अनात्मत्वे हेतुतया भाष्ये प्रतिपादितम् । वार्त्तिकेऽपि तथैव प्रतीयते ।  
+ (अ.6.ब्र.3)  
+प्रतिसन्धानकृत्तर्हि मनः संस्कारसंश्रयात् ।  
+नैवं, तस्यापि मनसो विषयत्वेन दर्शनात् ॥(270)इति  
+वार्त्तिकं, मनसः आत्मत्वाक्षेपपरेण पूर्वार्धेन, द्दृश्यत्वहेदुना तन्निराकरणपरेणोत्तरार्धेन च घटितं लक्ष्यते । 'नात्मप्रतिपत्तिहेतूनां मनसि संभवात् '(न्या.सू.3-1-16)इत्यक्षपादसूत्रानुसारेण शङ्कते इत्यवतार्य, 'ज्ञातुर्ज्ञानसाधनोपपत्तेः संज्ञाभेदमात्रम्'(न्या.सू.3-1-17)इति न्यायसूत्रेण परिहरति---नैवमिति । 'मनसोऽपि'इति भाष्योक्तं परिहारमाह--तस्यापीति । इति वार्त्तिकमिदं व्याचक्षते शास्त्रप्रकाशिकाकाराः।  
+ एवं,'इत्यलं शुष्कतर्कोत्थवाङ्मात्राक्षेपदूषणैः'(275)इत्यत्र,'अयं भावः, अन्नस्याशितस्य विकारो देहः । स चेदात्मा, तस्यैव स्थूलाभागः किमिति आत्मा नोच्यते । अहंबुद्धयभावादिति चेत् । तुल्यो विवेकिनामितरस्मिन्नपि तदभावः । द्दृश्यत्वजडत्वादिभ्यश्च सोऽनात्मा । तस्मिन्नहंधीश्चाविवेकिनां स्थूलोऽहमितिवन्नेया । देहात्प्रागू  
+र्ध्वं चात्मस्थितेर्नासावात्मा। उक्तं च 'पूर्वाभ्यस्तस्मृत्यनुबन्धाज्जात्सय हर्षभयशोकसंप्रतिपत्तेः'(न्या.सू.3-1-19)इति । एवं देहात्मवादे बहूनि दूषणानि इत्यात्मासंघातादर्थान्तरम् ।'इति शास्त्रप्रकाशिका। एताद्दृशव्याख्याने प्रतिपादितार्थानां वेदान्तदर्शनसिद्धत्वेऽपि मूलेन विवक्षितत्वं बोधयन्ती शास्त्रप्रकाशिका मूलग्रन्थे अर्थारोपं करोति ग्रन्थविस्तरलोभात् इति सचेतसां बुद्धमुपजनयति ।  
+ न्यायकल्पलतिका तु, यावन्तो विकल्पाः उत्तरत्र ग्रन्ते लक्ष्यन्ते, तावत एव विकल्पान् कृत्वा प्रथमादिविकल्पनिषेधपरतया तत्तद्ग्रन्तं विवृणोति । आरोपितार्थो मूलग्रन्थः इति यथा न प्रतिभायात्, तथा विवृणोति मूलम् । उदक्षरव्याख्यानं न करोति ।  
+ परन्तु वार्त्तिकव्याख्याने प्रकारभेदा द्दृश्यन्ते । विज्ञानमयः इत्यत्र मयटःप्राधान्यप्राचुर्यसाद्दृश्यादिविविधार्थत्वमिति वार्त्तिकाशयो वर्णितः न्यायकल्पलतिकायाम् । शास्त्रप्रकाशिका तु प्रायार्थकत्वमेव मयटः तत्र वार्त्तिकोक्तमिति वर्णयति । एवं ग्रन्थादावेव उपनिषत्पदस्य ग्रन्थविशेषे रुढिं स्वीकृत्य व्याख्यातं वार्त्तिकं न्यायकल्पलतिकायाम्, न तथा शास्त्रप्रकाशिकायाम्। एवं बहुषु स्थलेषु वार्त्तिकव्याख्यानप्रकारभेदाः सन्ति । सर्वेऽपि वेदान्तविद्भिः ग्राह्य एव । व्याख्यासरणिविवेचनाय चास्माभिः टिप्पणे शास्त्रप्रकाशिकाकाराणां व्याक्यानभेदाः प्रायशो निरुपिता इति नेह प्रन्यते । क्वचित् पाठान्तरत्वेन च न्यायकल्पलतिकायमुद्धृतो द्दृस्यते । परन्तु पाठान्तरे दोषः अरुचिहेतुर्नोपन्यस्तः। न्यायसल्पलतिकायां अन्यत् वार्त्तिकव्याख्यानं नानूदितं, न वा दूषितम् । न्यायकल्पलतिकायं शास्त्रप्रकाशिकायां च सामस्त्येन परामृष्टायामपि, तत्कर्त्रोरेकस्य अपरव्याख्यापरिशीलनं स्यादित्यत्र गमकलेशमपि न जानीमः ।
+(अ.6.ब्रा.4)  
+बीजस्थस्याङ्कुरस्येह जन्माश्रित्य यथैव गाम् ।  
+आश्रयादेव जन्मैवं कामानां हृदयाश्रयात् ॥(401)  
+इति वार्त्तिकव्याख्याने, "केचित्तु आश्रयादेवेत्यस्य व्याख्यानं हृदयाश्रयात् इत्याहुः । "इति शास्त्रप्रकाशिकावाक्यं द्दृश्यते । परन्तु न तथा व्याख्यातं न्यायकल्पलतिकायामिति , तत्र निर्दिष्टव्याख्या अन्या इदानीममुद्रिता स्यादिति बोध्यम् ।  
+इदमत्रावधेयम् । अष्टावस्थं जगत् पारमार्थिकमिति भर्तृप्रपञ्चमतनिरुपणावसरे, अष्टवस्थाः न्यायकल्पलतिकायं शास्त्रप्रकाशिकायां न च किञ्चित् वैलक्षण्येन निरुपिताः । तद्दथा ---  
+ अव्याकृतान्तर्यामिसूत्रविराड्भूदेहेन्द्रियविषयाख्याः अष्टावस्थाः इति न्यायकल्पलतिका ।  
+ पिण्डः डाचि विराट् सूत्रं दैवं अव्याकृतं अन्तर्यामी साक्षी इत्यष्टावस्थाः इति शास्त्रप्रकाशिका ।  
+ न्यायकल्पलतिकायां क्वचित् प्रतीकधारणेन क्वचित् पदार्थकथनेन च आनन्दाश्रममुद्रितवार्त्तिकपाठात् विलक्षणः वार्त्तिकपोठोऽवगम्यते । तत्र तत्रास्माभिः न्यायकल्पलतिकानुसारी वार्त्तिकपाठः मुद्रापितः । अन्याद्दृशस्तु पाठः मुद्रितपुस्तकपाठत्वेन टिप्पण्यां निर्दिष्टः।  
+ आनन्दाश्रममुद्रितपुस्तकवार्त्तिकपाठापेक्षया अधिकं वार्त्तिकद्वयं न्यायकल्पलतिकमाभिमतं प्रतीयते । तृतीयाध्यायस्य चतुर्थे ब्राह्मणे, 1650 तमवार्त्तिकव्याख्यानानन्तरं,  
+ "लोकशब्दस्य कर्मफलार्थत्वं ब्रुवता ब्राह्मणस्य जातिमात्रलाभात् पुमर्थसिद्धिरुक्ता । अत्र मानमाह---जप्येनेति ।"इति न्यायकल्पलतिकाग्रन्थो द्दृश्यते । एतेन अत्र प्रघट्टके भाष्योद्धृतः मानवः,  
+ जप्येनैव तु संसिद्धयेत् ब्राह्मणो नात्र संशयः ।  
+कुर्यादन्यन्न वा कुर्यात् मैत्रो ब्राह्मण उच्यते ॥(मनु.2-87)  
+इति श्लोकः वार्त्तिकत्वेन संघटित इति न्यायकल्पलतिकाकाराणामाशय उन्नीयते ।  
+एवं गीताभारतादिश्लोकेनापि वार्त्तिकघटनं लक्ष्यते । परन्तु मुद्रितपुस्तके नायं श्लोकः वार्त्तिकमध्ये परिगणितः, नापि अवतार्य व्याख्यातः शास्त्रप्रकाशिकायाम् ।  
+ एवं पञ्चमाध्यायस्य पञ्चमे ब्राह्मणे, 164 तमपार्त्तिकव्याख्यानानन्तरं,  
+"नित्यकर्मणां चोदितत्वात् 'कर्मणैव हि संसिद्धिमास्थिता जनकादय'इत्यादिस्मृतेश्च मुक्तिहेतुत्वमास्थेयम्, अत्राह ---उत्पत्त्यादीति । सर्वेहाभावः--सर्वकर्मत्याग इतियावत् । तर्हि विविदिषावाक्यविरोधः दुष्परिहरः स्यात्, अत्राह---यास्त्विति।"इति न्यायकल्पलतिकाग्रन्थो लक्ष्यते । अस्या व्याख्येयं मूलभूतं वार्त्तिकं मुद्रितपुस्तके नोपलभ्यते ॥  
+किं चान्यत्, षष्ठाध्यायस्य चतुर्थे ब्राह्मणे 'तमेव धीरो विज्ञाय प्रज्ञां कुर्वीतब्राह्मणः'।(6-4-21)इति मन्त्रभागस्य विविधव्याख्यानवर्णनावसरे स्थितं,  
+ अन्ये तु पण्डितंमन्याः संप्रदायानुसारतः ।  
+विज्ञायेति वचः श्रौतमिदं व्याचक्षतेऽन्यथा ॥(796)  
+इति वार्त्तिकम्,  
+ "इदानीं अकार्यकारणासामान्यविशेषं ब्रह्मेति स्वीकुर्वतां वाचस्पतिप्रभृतीनां तद्वयाख्यानमनुवदति --अन्य इति । "इति न्यायकल्पलतिका अवतारयति । यद्दपि भगवत्पादकालीना वार्त्तिकाराः पश्चात्तनवाचस्पतिमिश्रमतमनुवदन्तीति न श्लिष्टम् । तथापि अत्र मण्डनमतानुवादात् एतद्वाक्यार्थवर्णनविषये वाचस्पतिमिश्राणआं मण्डनमार्गगामित्वात् कालपौपर्यमविवक्षित्वा वाचस्पतिप्रभृतीनमिति वर्णितम् । शास्त्रार्थध्यानेन प्रसंव्याख्यानेन मानसस्य ब्रह्मसाक्षात्कारस्य वाचस्पतिमिश्राभिमतत्वात् वक्ष्यमाणं मण्डनव्याख्यानं वाचस्पतिसंमतमित्यभिसन्धिः। प्रसंख्यानापरपर्यायध्यानजः साक्षात्कारः इति वाचस्पतिमतमिति, प्रतर्दनाधिकरणीयकल्पतरुवाक्यात् स्पष्टं प्रतीयते।  
+ "ध्यानजसाक्षात्काराभ्युपगमः वाचस्पतेरेतत्सूत्रार्थबोधादिति कैश्चिदयुक्तमुक्तम् । यतः,  
+ अपि संराधनं सूत्राच्छास्त्रार्थध्यानजा प्रमा ।  
+ शास्त्रद्दृष्ठिर्मता तां तु वेत्ति वाचस्पतिः परम्॥  
+इति कल्पतरुग्रन्थः ।  
+ अत एवानुपदं 798 तमवार्त्तिकव्याख्याने"अत्रापि-मण्डनमतेऽपि "इति न्यायकल्पलतिका साधु संगच्छते । एवं भाष्यवाक्यानुवादोऽपि किंचित् विपर्यासेन क्रियते अनास्थया । यथा 'जगत्परिणामहेतुत्वं कर्म'इति भाष्यवाक्यं 'जगद्विपरिणायितृत्वं कर्म'इति अनूदितम् । एवं 'पारिव्राज्यदर्शनाच्च'इति भाष्यवाक्यं 'संन्यासविधानात् ब्राह्मणस्य 'इत्यर्थतोऽनूदितम् । एवं श्रुतिवाक्योद्वरणेऽपि अनास्था लक्ष्यते । 'ब्रह्म वेद ब्रह्मैव भवति '(मु.3-2-9)इति वाक्यं, क्वचित् तथैव, क्वचित् 'ब्रह्मविद्ब्रह्मैव भवति '(मु.3-2-9)इति वाक्यं,क्वचित् तथैव, क्वचित्'ब्रह्मविद्ब्रह्मैव भवति 'इत्येवमनूद्दते । एवं, 'एवमेवेमाः प्रजाः अहरहर्गच्छन्त्य एतं ब्रह्मलोकं न विन्दन्ति '(छा.8-3-3)इति श्रुतिः, अहरहर्ब्रह्मलोकं गच्छन्त्यः, इति, अहरर्ब्रह्म गच्छन्त्यः इति च किंचिद्विपर्यासं कृत्वा लिख्यते ।  
+ एवं षष्ठे चतुर्थेब्राह्मणे 'ब्रह्मैव सन् ब्रह्माप्येति '(6-4-9)इति श्रुत्यर्थविचारावसरे, "येऽप्याचक्षते मोक्षे विज्ञानान्तरमानन्दान्तरं चाभिव्यज्यते इति ,तैर्वक्तव्योऽभिव्यक्तिशब्दार्थः।"इत्यादिना भाष्ये किंचित् मतं विमृष्टमस्ति । तद्वयाख्यानावसरे,  
+ ये तु व्याचक्षते मोक्षे नित्यानन्दैकगोचरा ।  
+ ज्ञानाभिव्यक्तिरित्येवं स्वसिद्धान्तसमाश्रयात् ॥(324)इति  
+वार्त्तिकमुपलभ्यते । अत्राभिहितं मतं भासर्वज्ञमतमिति न्यायकल्पलतिकातोऽवगम्यते ।  
+ "आत्मनो ब्रह्मभावो मुक्तिरित्ययुक्तम् । विषयसुखज्ञानातिरिक्तयोः विषयविषययित्वेनाभिव्यक्तिः मुक्तिः इति भासर्वज्ञाभ्युगमात्,अत्राह--ये त्विति । "इति न्यायल्पलतिका । शास्त्रप्रकाशिका तु कस्यैतन्मतमिति न निर्दिशति भगवत्पादानां भासर्वज्ञस्य च कालपौवापर्यसमालोचनया विमर्शनीयमिदं भाति ।  
+ आनन्दपूर्णमुनीन्द्राणां भाष्यकारेषु बहुमानातिशयः'भगवत्पादव्याख्याने'इति वचनभङ्गया, "शावरादिविरोधात् वेदान्तानामप्रामाण्ये शाङ्करभाष्यविराधात् कर्मकाण्डस्याप्रामाण्यं कुतो न स्यात् "इति सावेगवचनभङ्गया च स्पष्टमवगम्यते । अत एव यत्र व्याख्यानविषये भाष्याकाराद्विसंवदन्ते वार्त्तिककाराः, तत्र भाष्यमाक्षिपति इत्यवतरणिकां न कुर्वन्ति । प्रत्युत क्वचित् ताद्दृशाक्षेपः न प्रबलः साधुः इत्यभिसन्धिना "वार्त्तिकलक्षणसिद्धयर्थमाक्षिपति"इति अवतारयन्ति । दुरुक्तचिन्तनस्यापि वार्त्तिकलक्षणप्रविष्टत्वात् तस्यास्तित्वप्रदर्शनार्थमेवेदं वार्त्तिककृतोच्यते , वस्तुतः नात्र किमप्यवद्दमिति तेषामाशयः स्पष्टः ।  
+ अतः अनतिविस्तृता गभीरा प्रमेयनिष्कर्षविधायिनी सहृदयहृदयोद्वेजकवाक्यगन्धेनाप्यसंसृष्टा सर्वदर्शनसिद्धान्तान् तत्तत्सिद्धान्तरीत्या व्युत्पादयन्ती शिरोमणिभट्टचार्यसरणिमवलम्ब्य संचरन्ती शुष्कतर्कापाकरणपूर्वकं श्रुतिमतन्यायबृन्दान् सर्वतो विजयते ॥  
+ PART VII  
+ आनन्दपूर्णविद्दासागरपरिचयः  
+सकलश्रुतिस्मृतिविवधास्तिकनास्तिकदर्शनसिद्धप्रमेयतत्त्वविवेचन्याः न्यायकल्पलतिकायाः प्रणेतारः आनन्दपूर्णमुनीन्द्राः सर्वविद्दापयसां निधयः अन्वर्थेन विद्दासागरपदेन व्यवह्रियन्ते । तेऽपि स्वयं तथा व्यवहरन्ति । तद्दथा--अत्र चतुर्थाध्यायप्रारम्भे,   
+विद्दानुभवसंभूतव्याख्यां ताराप्रभोः प्रभाम् ।  
+भृशं संभावयन् शुभ्रो विद्दाम्भोधिर्विजृम्भते ॥ इति,  
+एतद्ग्रन्थावसाने,  
+ निखिलनिगमप्रत्ययार्थप्रसूनसमुल्लसन्मधुरिमवचोगुम्भः शुम्भत्प्रभूतसुखाम्बुधिः।  
+प्रहसितसुधाधारः स्फारस्फुरत्पदपद्धतिः  
+त्रिभुवनमलंकुर्यात् विद्दापयोधियतीशितुः ॥  
+इति च ।  
+ एते च अभयानन्दशिष्याः, ग्रन्थावसाने मध्ये च क्वचिदध्यायावसाने 'अभयानन्दशिष्येणानन्दपूर्णमुनीन्द्रेण विरचिता ' इति लेखनदर्शनात् । अभयानन्दाः संन्यासदीक्षागुरवः । विद्दागुरवस्तु श्वेतगिरयः । एतद्ग्रन्थादौ,  
+ अपारासारसंसारसागरोत्तारसेतवे ।  
+ श्रीमते गुरवे श्वेतगिरये स्तान्नमस्क्रिया ॥इति,  
+खण्डनव्याख्याने खण्डनफक्किकाविभजने,आदौ,  
+ अबोधपङ्काविलबोधनीरे  
+ यदीयवाचः कतकायमानाः ।  
+ वन्दे मुनीन्द्रान् यतिबृन्दवन्द्दान्  
+ श्रीमद्गुरुन् श्वेतगिरीन् वरिष्ठान् ॥ इति,  
+अन्ते,  
+ श्रीमच्छ्वेतगिरिं वन्दे शिष्यधीपद्‌मभास्करम् ।  
+ यत्पादस्मरणं लोके भवरोगस्य भेषजम् ॥इति च  
+श्वेतगिरिमुनीन्द्राणां विद्दागुरुत्वाभिधानात् । यथा श्रीमधुसूदनसरस्वतीनां विश्वेश्वरसरस्वत्यः संन्यासदीक्षागुरवः, माधवसरस्वत्यश्च विद्दागुरव इति प्रसिद्धम्, तथैतदवगन्तव्यम् ।  
+ एते च ग्रन्थादौ ब्रह्मनुसन्धानानन्तरं गोकर्णेश्वरं परमेश्वरं प्रणमन्ति । तथा ग्रन्तावसानेऽपि,  
+ परापरस्वरुपेण परं यत्तत्प्रकाशितम् ।  
+ श्रीमन्महाबलं देवं वन्दे गोकर्णमण्डनम्॥इति  
+गोकर्णेश्वरं प्रणमन्ति । श्रीगणेशप्रणामबोधकं अत्र ग्रन्थे आदौ निबद्धमेव पद्दं खण्डनव्याख्यायामपि आदौ द्दृश्यते ।  
+ एतैर्विरचिता ग्रन्थाः दश ज्ञायन्ते । तद्दथा ----  
+(1)बृहदारण्यकवार्त्तिकव्याख्या अद्द मुद्राप्यमाणा न्यायकल्पलतिका ।  
+(2)खण्डनव्याख्या विद्दासागरी इति प्रसिद्दा, मुद्रिता ।  
+(3)न्यायचन्द्रिका,मुद्रिता ।  
+(4)ब्रह्मसिद्धिव्याख्या भावशुद्धिः, मुद्रिता ।  
+(5)न्यायसारस्य व्याख्या।  
+(6)पञ्चपादिकाव्याख्या ।  
+(7)समन्वयसूत्रवृत्तिः।  
+(8)महाविद्दाविडम्बनव्याख्या।  
+(9)मोक्षधर्मव्याख्या।  
+(10)काशिकाव्याख्या प्रक्रियामञ्जरी इति ।  
+ एषां वैयाकरणता न्यायकल्पलतिकायां आमंसि इत्यादिपदानां प्रक्रियाविशेषवर्णेन प्रतिफलति ।  
+प्रक्रियामञ्जरी एषामवस्थितिकालनिर्णयोपयोगिनी । तत्र गोकर्णपालकस्य शिवभक्तस्य कामदेवस्य नृपतेः साशनकाले स्वग्रन्थनिर्माणं कथितम् । अतः तस्य राज्ञः काल एवैषामवस्थितिकालः ।(1350 A.D.)  
+ षोडशशताब्द्दां विद्दासागराणामवस्थितिः इति केषां चित् विमर्शकानां मतं निराकृत्य,  
+ 'श्रीकामदेवे जगतीं प्रशासति  
+ श्रीशैलकन्यापतिभक्तिधारिणि।  
+ विद्दोदधेरुत्थितमेतदादरात्  
+ टीकामृतं भूसुरहर्षवर्धनम्॥'इति  
+?
+
+
+प्रक्रियाञ्जरीस्थं विद्दासागरीयं श्लोकमुद्धृत्य, कामदेवकालनिर्णयपूर्वकं 1350 A.D.एषामवस्थितिकालः इति सोपपत्ति निर्धारितं गवेषकधुरन्धरैः प्राध्यापकैः डाक्ट्र,वे, राघवमहोदयैरिति नात्र विषये किमपि वक्तव्यमस्त्यस्माकम् ॥  
+ केन्द्रशासनाधिकृतैः न्यायकल्पलतिकापरिशोधनप्रकाशनकार्ये नियुक्तोऽहम्, बडोदरा प्राच्यपुस्तकालयात् (Oriental Institue, Baroda ) अधिगतं 423 पत्रात्मकं देवनागराक्षरैर्लिखितमेकं पुस्तकम्, राजकीयमद्रपुरीपुस्तकालयात् (Govt.Oriental M.S.S.Library,Madras)अधिगतं (R.5283)भागद्वयात्मकं पुस्तकमपरम्, डाक्टर,वे.राघवमहोदयाशयानुरोधेन जर्मन्देशीय(Tubingen ) सर्वकलाशालापुस्तकालयात् केन्द्रशासनाधिकृतैः क्रीत्वा प्रेषितमन्यत् पुस्तकमिति, पुस्तकत्रयमवलम्ब्य ग्रन्थपरिशोधनमकरवम् ।  
+ तत्र बडोतरापुस्तकं संपूर्णं प्रायः शुद्धम्, आदावन्ते च कतिपयवाक्यविच्छेदवत्, 416 तमपत्रानन्तरं व्याकरणानुबन्धिग्रन्थान्तरीयप्रकृतासंबद्धार्थप्रतिपादकेन पत्रान्तरेण मिश्रितमासीत् । उपक्रमे पत्राणां विपर्यासेन स्थितिश्चासीत् ।  
+ 843 पुटात्मकं मद्रपुरीयं पुस्तकन्तु बडोदरापुस्तकं द्दृष्ट्वैव लिखितम् ।  
+तिथिविशेषकथनपूर्वकं तथैवान्ते लेखनात् । लेखकेन स्वयं कृता अशुद्धिस्तत्राधिकासीत् । पत्रपर्यासेन वाक्यानां पौर्वापर्यनिषकर्षकरणे किचिदिव क्लेशावमहभूत् । तृतीयान्तु असंपूर्णम् 274 पत्रात्कम् । तत्र संबन्धवार्त्तिकव्याख्याभागो नास्ति । तृतीयध्यायस्य तृतीये उद्गीथब्राह्मणे 306 तमवार्त्तिकव्याख्यानमेवोपक्रान्तम् । अवसाने कतिपयवाक्यरहितं वर्तते । बडोदरापुस्तकादपि अत्र अक्षराशुद्धिरधिका । तृतीयाध्यायचतुर्थब्राह्मणे 1485 तमवार्त्तिकव्याख्याने न्यायकल्पलतिकाग्रन्थो विच्छिन्नः बडोदरापुस्तके । तृतीयेऽपि पुस्तके तथैव ग्रन्थो विच्छिन्नः लक्ष्यते । तत्र पाठभेदो नास्ति ।  
+ न्यायकल्पलतिकायामुपक्रमे विच्छिन्नानि मङ्गलविषयकाणि वाक्यानि खण्डनटीकातो योजीतानि, प्रतिपाद्दार्थसाम्यात् ।  
+ मातृकास्थं निष्कासनीयं पदं ( ) एवं चिह्नितम् ।शोधनेन योजितं पदं{
+}  
+एवं चिह्नितम् । यथामति च उद्धृतानां वाक्यानामाकरस्थानानि तत्र तत्र मूल एव निर्दिष्टानि । कल्पलतिकाय उपरि वार्त्तिकं योजितम् । तत्र च न्यायकल्पलतिकाभिमतः पाठो मुद्रितः ।  
+ न्यायकल्पलतिकायाः अतिसंक्षिप्तत्वात् दुरवगमवाक्यानामर्थं विवृण्वत् , व्याख्यान्तरतोऽस्याः वैशिष्टयप्रतिपत्तये विमतिस्थलेषु शास्त्रप्रकाशिकासंमतं व्याख्यानं, तदभिमतं वार्त्तिकपाठं च निरुपयत्, कल्पलतिकार्थावबोधोपयोगिश्रुतिवाक्यसंयोजनं च कुर्वत् किमपि टिप्पणं विरच्य विमर्शमानां विनोदाय मुद्रितमस्ति । अर्थत इव परिमाणतोऽपि महानयं ग्रन्थः पाठाकानां सौकर्याय संपुटत्रयात्मना प्रकाशनीयतया निर्णीतः । संप्रति प्रथमः संपुटः प्रकाश्यते । अनुपदमेव अवशिष्टं संपुटद्वयं प्रकाशयिष्यते ।  
+ विविधदर्शननिष्णातैः मेधाविभिः करणीये प्रौढचिरन्तनदर्शनग्रन्थस्य न्यायकल्पलतिकायाः परिशोधनप्रकाशनकार्ये नियोजनेन मम शास्त्रर्थनिर्थारणविधिव्युत्पत्त्यतिशयाधाने बहूपकृतवतां केन्द्रशासनाधिकृतानां भृशमधमर्णोऽस्मि इति निवेदयामि ।  
+ मदीयामभ्यर्थनामङ्गीकृत्य शोधनाय न्यायकल्पलतिकां प्रहितवतां बडोदरापुस्तकालयाधिकृतानां,(Director, Oriental Institute, Baroda.)बडोदरातः सविधानं पुस्तकं गृहीत्वा मह्यं तस्य वितरणेनोपकृतवतां अस्मत्प्राध्यापकानां डाक्टर सि.एस.वेङ्कटेश्वरमहोदयानां (Professor and Head of the Department of Sanskrit,Annamalai University),  
+मद्रपुरीयपुस्तकपरामर्शायानुमतिदानेनोपकृतवतां मद्रपुरपुस्तकालयाधिपतीनां, (Curator,Govt.Oriental M.S.S.Sanskrit College,Mylapore.)हार्दी कृतज्ञतां निवेदयामि ।  
+ उत्कृष्टानाममुद्रितानां संस्कृतग्रन्थानां प्रकाशनार्थं केन्द्रीयविद्दामन्त्रालयेन स्थापितायाः समित्या धूर्वहेभ्यः(Correspondent,Rare Texts publication Scheme,Ministry of Education, New Delhi),अस्मिन् प्रकाशनकार्ये मातृकासंपादनमारभ्य मुद्रणपत्र (Proof)शोधनपर्यन्तं तत्तत्कार्येषु साह्यमाचरितवद्भयः केन्द्रीयसंस्कृतपरिषदङ्गभूतेभ्यः पद्मभूषणेभ्यः डाक्टर,वे.राघवमहोदयेभ्यः बहु धारयामीति वस्तुस्थितिः । मदीयप्रार्थानामङ्गीकृत्य विशिष्टमुखलेखनेन प्रकाशनस्यास्य वैशिष्टयाधानेन जनमिमं धन्यमापादितवद्भयः तेभ्यः प्राध्यापकवर्येभ्यः डाक्टर,वे.राघवमहोदयेभ्यः हार्दान् धन्यवादान् समर्पयामि ।  
+ विभिन्नप्रस्थानानां अद्द यावदप्रकाशितानां ग्रन्थरत्नानां समीचीनया पद्धत्या मुद्राप्य प्रकाशनेन, भारतकेन्द्रीयशासनाधिकृतानां निखिलोऽपि गैर्वाणी प्रणयी लोकः सर्वथा अधमर्ण इति वस्तुस्थितिः ।  
+ भारतकेन्द्रीयशासनानुसारेण ग्रन्थस्यास्य मुद्रापणप्रकाशनकार्यं समीचीनया सरण्या संपादिवद्भयः, तिरुपति,केन्द्रीयसंस्कृतविद्दापीठनिदेशकेभ्यः (Director, Kendriys Sanskrit Vidyapeetha, Tirupati) हर्दी कृतज्ञतां निवेदयामि ।परिष्कृतया मनोहारिण्या रीत्या प्रौढमिमं ग्रन्थं मुद्रापितवद्भयः (Rathnam Press)मुद्रणालयाधिकृतेभ्यः कार्तज्ञयमाविष्करोमि ।  
+ ईद्दृशप्रौढप्राचीननिबन्धपरिशोधनप्रकासनोदौ स्खालित्यमवर्जनीयमिति बुद्धया, अत्रकार्ये आपतितान् मदीयदोषगणानविगणय्य,यदि स्यात् गुणलेशः, तदनुमोदनेन मदीयं परिश्रमं सफलीकृत्य मामनुगृहृन्तु विद्वत्तल्लजा इति प्रार्थयमानो विरमति लेखनदेर्घ्यकरणात् ,
+
+मैलापूर,मद्रपुरम्  
+ 16-1-71 विद्वद्बृन्दसेवी,  
+
+वि.सुब्रह्मण्यशास्त्री ।  
+   
+ न्यायकल्पलतिकायाः संबन्धग्रन्थस्य  
+ विषयानुक्रमणिका  
+ -----------  
+विषयः पृष्ठसंख्या  
+ग्रन्थकारमङ्गलाचरणम् ।  
+मङ्गलश्लोकार्थविवरणम् ।  
+प्रतिज्ञार्थश्लोकविवरणम् ।  
+नामव्युत्पादनभाष्यतात्पर्योक्तिः ।  
+कर्मज्ञानाधिकारिणोः वैलक्षण्यात् कैवल्यस्य नियोगफलत्वाभावोक्तिः।  
+विषयभाष्यव्याश्यानम् ।  
+उक्तानुवादपूर्वकमाक्षेपसमाधानाभ्यां भाष्यद्वयार्थसाधनम् ।  
+नष्टाश्वदग्धरथन्यायेन नित्यकर्मणां मोक्षफलकत्वमिति प्रत्यवस्थानम् ।  
+एकभविकन्यायेन नित्यकर्मणां मोक्षफलकत्वमिति प्रत्यवस्थानम्।  
+ऐकभविकन्यायेनोक्तस्य कैवल्ये कर्मफलत्वस्य दूषणम् ।  
+काम्यादिवर्जनस्य विषयसंपर्ककृतानुभवप्रयुक्तरागादिनिरासः फलमिति शङ्का, तन्निरासश्च ।  
+आत्मनः कर्तृत्वादिकं न स्वभावः किन्तु कर्तृत्वादिशक्तिरेवेति  
+शक्तेरवस्थानेऽपि मुक्तेरुपपत्तिशङ्का,तन्निराकरणं च ।.  
+शक्तितत्कार्यस्थितावपि कार्यानभिव्यक्त्या मुक्तेरुपपत्तिपरिति शङ्का,  
+तन्निराकरणं च ।  
+निषिद्धकाम्यवर्जनादीनामनुष्ठानमशक्यमिति निरुपणम् ।  
+काम्यादिवर्जनादीनामनुष्ठातुं शक्यत्वेऽपि न तेन कैवल्यसिद्धिरिति निरुपणम् ।  
+नित्यानुष्ठानस्य कैवल्यप्रयोजकत्ववर्णनम् ।  
+प्राक्तनसकलकर्मणामेकजन्मारम्भकत्वनिरसनेन काम्यादिवर्जनस्य मुक्तिहेतुत्वनिरासः।  
+नित्यकर्मणां प्रत्यवायपरिहारातिरिक्तफलवत्त्वनिरुपणम् ।  
+पूर्वोक्तस्य शक्तिवाददूषणस्योपसंहारः।  
+सिंहावलोकनन्यायेन परकल्पिते कैवल्योपाये दोषान्तरकथनम् ।  
+आत्मज्ञानस्य कर्माङ्गत्वनिरासः ।  
+आत्मनः कर्तृत्वं न वास्तवमिति निरुपणम् ।  
+ज्ञानफलश्रुतेरर्थवादत्वमिति चोद्दस्य अनुवादपूर्वकं परिहारान्तरवर्णनम् ।  
+ज्ञानकर्मणोः स्वतन्त्रफलत्वेन अधिकारभेदः इति मुमुक्षोः कर्मणि नाधिकार इति सद्दृष्टान्तं वर्णनम् ।  
+विदुषः विविदिषोश्च कर्मानधिकारेऽपि मुमुक्षुजिहासितकर्त्रादिहेहान्तानात्मविशिष्टस्याज्ञस्य कर्माधिकार इति निरुपणम् ।  
+दोषान्तरेण, कर्त्रादिरात्मनः स्वभावो नेति निरुपणम् ।  
+प्रसङ्गात्, लोकायताक्षेपः, तन्निराकरणं च ।  
+प्रासङ्गिकं परिसमाप्य कर्त्रादेः कल्पितत्वनिरुपणम् ।  
+इच्छादीनामाविद्दकत्वे पूर्वोक्तदोषानवकाशनिरुपणम् ।  
+वेदान्तानाद्वैतपरत्वे कर्मकाण्डप्रमाणं स्यादिति शङ्का,तत्परिहारश्च।  
+कर्मकाण्डस्यापि तत्त्वावेदनप्रमाणत्वाक्षेपः, तन्निरासश्च ।  
+भेदाभेदमतेन कारकाकाकबुद्धयोरविरोधशङ्का, तत्परिहारश्च।  
+ऐकात्म्यस्य वेदान्तमेयत्वाक्षेपः, तन्निरासश्च ।  
+द्वैतस्य लोकसिद्धत्वात् अद्वैतवस्तुन आक्षेपः, तन्निरासश्च।  
+क्रियातिरिक्तमुक्तिसाधनाक्षेपस्यानुवादः, तन्निरासश्च ।  
+परोक्तपूर्वपक्षलेशानामनुभाषणं निरासश्च ।  
+प्रयोजनासंभवात् वेदानां न सिद्धपरत्वमित्याक्षेपः, विद्दाफलस्य प्रत्यक्षत्वेन तत्परिहारश्च ।  
+विद्दाफलश्रुतेः स्तुतिफलकत्वमित्याक्षेपः, तन्निरासश्च ।  
+संन्यासस्य वाक्यार्थाज्ञानं प्रति संनिपत्येपकारकत्वनिरुपणम् ।  
+कार्यं विना अधिकारो न निरुप्यते इति परोक्तचोद्दस्यानुवादः,तन्निरासश्च ।  
+अथातो धर्मजिज्ञासेति सूत्रप्रतिज्ञातविचारविषयवेदार्थान्तर्गस्य ब्रह्मणः विधिसंसृष्टत्वेन काण्डयोः साधनाधिकार्यैक्यशङ्का, तन्निरासश्च ।  
+विधीयमाभावनापेक्षितार्थसमर्पकत्वेन वेदान्तानां विधिशेषत्व शङ्काया निराकरणम् ।  
+कैवल्यस्य क्रियासाध्यत्वमिति स्वयूथ्यशङ्का, तन्निरासश्च ।  
+आम्नायस्य क्रियार्थत्वादित्यादिसूत्रानुसारेण वेदान्तानां विधिशेषत्वमिति चोद्दस्यानुवादः, परिहारश्च ।  
+संभवत्येकवाक्यत्वे इत्यादिन्यायेन कर्मविज्ञानकाण्डयोः भिन्नवाक्यत्वाक्षेपः, तन्निरासश्च ।  
+विधान्तरेण कर्मज्ञानकाण्डयोः साधनाधिकारिभेदाक्षेपः, तत्परिहारश्च ।  
+मुमुक्षोः साक्षात् मोक्षसाधनज्ञानेऽधिकारोऽस्तु, न श्रवणादौ इति शङ्काया निरासः मुमुक्षा न संभवतीति शङ्कायाः परिहारः ।  
+परमानन्दस्य स्वर्गशब्दार्थत्वं स्वीकृत्य काण्डयोः साधनादिभेदाक्षेपः, तन्निरासश्च ।  
+मुमुक्षोः साक्षात् मोक्षसाधनज्ञानेऽधिकारोऽस्तु, न श्रवणादौ इति शङ्कया निरासः ।  
+मुमुक्षा न संभवतीति शङ्कयाः परिहारः ।  
+परमानन्दस्य स्वर्गशब्दार्थत्वं स्वीकृत्य काण्डयोः साधनादिभेदाक्षेपः, तन्निरासश्च।  
+विधान्तरेण साधनादिभेदाक्षेपः, तन्निराकरणं च ।  
+संबन्धभाष्यव्याख्यानम् ।  
+सर्वकर्मणां विविदिषार्थत्वाक्षेपः, तन्निरासश्च ।  
+आत्मज्ञानस्य कर्माङ्गत्वनिरासः।  
+कामप्रविलयद्वारेण कर्मणां ज्ञानाङ्गत्वपक्षोपक्षेपः।  
+निरुक्तपक्षदूषणम् ।  
+प्राजापत्यं पदं भुक्तत्वैव मुक्तो भवतीत्यस्य निराकरणम् ।  
+ज्ञानकर्मसमुच्चयपक्षोपक्षेपः, तन्निरासश्च ।  
+प्रपञ्चविलयद्वारा कर्मकाण्डस्य ज्ञाननियोगाङ्गत्वमिति मतनिरुपणम् ।  
+निरुक्तमतदूषणम् ।  
+पूर्वं निरस्तस्यैव, ज्ञानस्य कर्माङ्गत्वमिति मतस्यानुवादः, तत्राधिकदोषनिरुपणं च ।  
+विधीयमानस्य वासनानिरोधस्य मनोनिरोधस्य वा शेषत्वं कर्मविधीनां वेदान्तानां चेति मतनिरुपणम् ।  
+निरोधनियोगवादिमतदूषणम् ।  
+सर्वोऽप्ययं वेदः इत्यादिभाष्येण निरसनीयस्य वेदान्तानां कार्यैकनिष्ठत्वमिति नियोगवादिमीमांसकमतस्य निरुपणम् ।  
+प्रवर्तको नियोगः कार्यापराभिधानः लिङ्द्दर्थः न रागादिः इति निरुपणम् ।  
+मानान्तरेणानवगतस्य नियोगस्य लिङर्थत्वाक्षेपः, तत्परिहारस्च ।  
+लिङादिवाच्यं कार्यं क्रियादिविलक्षणमिति निरुपणम् ।  
+प्रैषादिविलक्षणस्य कार्यस्य लिङादिवाच्यत्वे चित्रया यजेत इत्यादिवाक्यस्याप्रामाण्याक्षेपः, तन्निरासश्च ।  
+वेदान्तानां कार्यपरत्वं, तदभावे अप्रामाण्यमिति नियोगवादिनो मीमांसकस्य महापूर्वपक्षे, सिद्धान्तनिरुपणम् ।  
+वेदान्तानां विषयप्रदर्शनेनाप्रामाण्यपरिहारः।  
+सिद्धे शब्दसार्थ्याभावात् वेदान्तानामप्रामाण्यमित्यस्य निराकरणाय  
+'सर्वोऽप्ययं वेदः'इत्यादि भाष्यतात्पर्यवर्णनम् ।  
+कर्मकाण्डस्येव वेदान्तानामपि प्रामाण्यमिति निरुपणम् ।  
+शब्दप्रयोगस्य कार्यपरत्वात् सिद्धे न शब्दप्रामाण्यमित्यस्य दूषणम् ।  
+वाक्यं प्रवर्तकमेवेत्यभ्युपगमेऽपि नामपदार्थानां परस्परसंबन्धासिद्धिः इति दूषणम्विषयकर्तव्यत्वं नियोगाधीनमित्यस्य दूषणम् ।  
+यागस्यैव कार्यत्वमिति निरुपणम् ।  
+नियोगस्वरुपनिरासः।  
+नियोगसिद्धिनिरासः ।  
+नियोगस्य स्वर्गादिसाधकत्वनिरासः।  
+स्वमतेन कार्यस्वरुपनिरुपणं,स्वर्गसाधकनियोगासिद्धिश्च ।  
+शब्दभावनाया लिङर्थतानिरासः ।  
+स्वमतेन, इष्टसाधनता लिङर्थः इति निरुपणम् ।  
+कर्मकाण्डेऽपि नियोगायोगनिरुपणानन्तरं, विशिष्य ज्ञानकाण्डे नियोगायोगप्रतिपादनम् ।  
+सिद्धार्थवाक्यानामनुवादत्वनिराकरणेन प्रामाण्यनिरुपणम् ।  
+नियोगोपगमे ब्रह्मणोऽपि अलौकिकत्वमित्यस्य निराकरणम् ।  
+सिद्धं सापेक्षमित्यस्य निरासः ।  
+पदार्थसंसर्गार्थं विधिरिति पक्षस्य निराकरणम् ।  
+मानयोग्यत्वं सत्वमित्यभ्युपगमेऽपि वेदान्तानां निरपेक्षत्वप्रतिपादनम् ।  
+ब्रह्मणि मानान्तरानुप्रवेशाभ्युपगमेऽपि वेदान्तानां प्रामाण्यसाधनम् ।  
+ब्रह्मणि मान्तरसंभावनाया एवाभावात् वेदान्तप्रामाण्यम् ।  
+वैदिकपदार्थसंसर्गस्य नियोगाधीनत्वात् वेदान्तेषु विधिसंबन्धः इत्याक्षेपः।  
+निरुक्ताक्षेपपरिहारः।  
+शब्दैकसमधिगम्यस्य नियोगस्य लिङर्थतानिराकरणम् ।  
+नियोगवादेऽपि इष्टसाधनत्वे प्रवर्तकत्वस्य बलादापादानम् ।  
+लिङादिपदार्थस्य नियोगस्य संसर्गाक्षेपकत्वशङ्का, तन्निरासश्च ।  
+प्रवृत्त्यनुपपत्त्या वेदान्तेषु विधिरुपेतव्य इत्याक्षेपः ।  
+निरुक्ताक्षेपदूषणम् ।  
+ज्ञानाभ्यासविधिपरत्वं वेदान्तानामिति पक्षनिरुपणम् ।  
+प्रसङ्खयानविधेः तत्त्वमादिश्रुदिशेषत्वेन ऐकात्म्यसिद्धिरिति निरुपणम् ।  
+शास्त्रस्य युक्तिप्रसङ्खयानसापेक्षकत्वप्रतिपादनम्।  
+वेदान्तार्थे विधिनिरासस्य पौनरुक्त्यशङ्का,ब्रह्मदत्तमतावलम्बनेन निरासकथनात् तत्परिहारश्च ।  
+प्रासङ्गिकं भावनानिराकरणम् ।  
+प्रकृतप्रसंख्याननिरासः ।  
+शास्त्रस्य युक्त्याद्दपेक्षत्वदूषणम् ।  
+युक्तीनामात्मज्ञापकत्वनिरासः ।  
+आत्मनः प्रमाणपादत्वदूषणम् ।  
+अनुभवस्य प्रसङ्खयानफलत्वाभावः ।  
+मितिवर्धनेन पादानामङ्त्वमित्यस्य निरासः ।  
+शास्त्रस्य युक्त्यपेक्षत्वाभावः ।  
+प्रसंख्यानविधेः तत्त्वमादिवाक्यशेषत्वमित्यस्य दूषणम् ।  
+प्रसंख्यानस्य अनुभवफलत्वाभावः ।  
+प्रसंख्यानविधिनिरासः ।  
+शास्त्रावगते कार्ययुक्त्याद्दनपेक्षानिरुपणम् ।  
+आत्मनो ब्रह्मत्वानुभवस्य वाक्यफलत्वनिरुपणम् ।  
+शब्दार्थसंवन्धस्य सांकेतिकत्वात् वेदान्तानामनपेक्षत्वाभाव इत्याक्षेपः, तत्परिहारश्च ।  
+अवबोधकत्वादिभिः वेदान्तानां सिद्धवस्तुनि प्रामाण्यम् ।  
+श्रुत्यादेर्मिथ्यात्वात् तज्जन्यमैकात्म्ज्ञानमप्रमाणमिति शङ्का,तन्निरासश्च ।  
+अखण्डं ब्रह्म वेदान्तवाक्यार्थः ।  
+भेदावलम्बिना कर्मकाण्डेन अक्षादिना च विरोधात् अद्वैतब्रह्मणि वेदान्तसमन्वयस्याक्षेपः ।  
+कर्मकाण्डविरोधपरिहारः।  
+अध्यक्षविरोधनिरासः ।  
+अभावस्य वस्तुत्वशङ्का ,तन्निरासश्च ।  
+अभावः योग्यानुपलम्भगम्य इति मतनिरासः ।  
+घटाद्दभावनिरासः ।  
+प्रत्यक्षेण भेदासिद्धिनिरुपणम् ।  
+अनुमानेन भेदसिद्धिशङ्का, तन्निरासश्च ।  
+पृथक्त्वापरपर्यायभेदस्य प्रत्यक्षत्वशङ्का,तन्निरासश्च ।  
+समवायनिरासः ।  
+सामान्यविशेषात्मकमेकं वस्तु इति मतेऽपि भेदासिद्धिः।  
+अनुभवातिरिक्तस्यासिद्धेः, वेदान्तानां प्रत्यक्षादिमानान्तरविरोधाभावोपसंहारः ।  
+अध्यक्षादीनामनुभवादन्यत्राप्रमाणत्वात् न तैः वेदान्तसमन्वयविरोधः इति निरुपणम् ।नित्यानुभवसाधनम् ।  
+अनुभवस्यैव सर्वप्रमाणविषयत्वनिरुपणम् ।  
+सुखं दुःखाभावरुपमेव, न भावरुपमित्याक्षेपः ।  
+निरुक्ताक्षेपपरिहारः ।  
+'सर्वपुरुषाणाम्'इत्यादिभाष्यतात्पर्यकथनम् ।  
+द्दृष्टविषयेत्यादिभाष्यार्थनिरुपणाय पूर्वपक्षः ।  
+नियोगवाददूषणम् ।  
+'द्दृष्टविषये च ' इति भाष्यवतारः ।  
+'न चासति ' इत्यादिभाष्यतात्पर्यवर्णनम् ।  
+कर्माधिकार्यात्मनः शब्दवेद्दत्वम् ।  
+देहादिव्यतिरिक्तात्मनः अहंप्रत्ययगम्यत्वाभावः ।  
+अहंरुपस्यानात्मत्वम् ।  
+प्रमाणसंप्लवाभावः ।  
+सर्वथापीति भाष्यतात्पर्यम् ।  
+'यावद्धि तन्नापनीयते 'इति भाष्यावतारः ।  
+कर्मफलप्रपञ्चनम् ।  
+उपनिषदारम्भोक्तिः ।  
+'उषा वा अश्वस्य'इत्युपनिषदारम्भस्य फलप्रतिपादनम् ।  
+ इति संबन्धग्रन्थः ।  
+   
+ ऊँ  
+ ऊँ अविघ्नमस्तु ।  
+ ॥श्री गुरुभ्यो नमः ॥  
+ आनन्दपूर्णमुनीन्द्रविरचिता  
+ बृहदराण्यकोपनिष्द्वार्तिकव्याख्या  
+ न्यायकल्पलतिका  
+   
+ --------------  
+यदद्दृष्टं द्दृष्टनष्टिस्फुटितमलपटैर्नष्टमोहैर्विशिष्टैः  
+द्दृष्टोत्पाटावशिष्टं स्फटिकमणिशिलास्पष्टमिष्टं प्रकृष्टम् ।  
+साटोपं कोटिजीवैरटति सुघटितं दुःखसोद्दान (कोटया न!)द्दृष्टं  
+तद्ब्रह्मैवाहमस्मि प्रकटितकपटस्पष्टसंसाररङ्गे॥1॥  
+श्रीमच्चन्द्रशिखामणिर्गिरिसुताबिम्बात्मतेजोमणिः  
+शश्वद्विश्विविभासकामलमणिर्ब्रह्माण्डचूडामणिः ।  
+कालव्यालविषोपशान्तिदमणिश्चिन्तामणिश्शंकरः  
+जीयान्मोहविभेदवासरमणिर्गोकर्णभूषामणिः ॥2॥  
+भो भो भावो (....घू) {ग्रपू}र्ण प्रतिचलितलसन्नेत्रपत्रप्रशोभ श्रीमद्वक्त्रारविन्दप्रतिविशनकराग्रोढरत्नौघकुम्भ ।कारुण्याख्यप्रवृष्टया कुरु कुरु सुद्दृढं (बा)(गा)ढविघ्नासितापप्रध्वंसं भावमुग्धप्रविचितमिदं कृत्यबीजं प्ररोहेत् ॥3॥  
+ श्रीगुरुभ्यो नमः  
+श्रीसुरेश्वराचार्यकृतं बृहदराण्यकभाष्यवार्तिकम्  
+स्वाविद्दाविभवप्रसूतविपुलद्वैप्रपञ्चाहितस्पष्टभ्रान्तितिरोहितात्ममतयो यं भागशो मन्वते निर्भागं सकलाभिधानमननव्यापारदूरस्थितं वन्दे नन्दितविश्वमव्ययमजं भक्तया तमेकं विभुम् ॥(1)  
+सरोजजन्माननपद्महंसीं गिरीशकल्पद्रुमकल्पवल्लीम् ।  
+हरेरुरस्सागरलग्नगङ्गमुपास्महे कामपि देवतां ताम् ॥4॥  
+वेदान्तव्रातनीरं शतपथकथितन्यायरत्नप्रपूरं पारावारं सुतारं निगममुखषडङ्गात्मसद्ग्राहघोरम् ।  
+कारं कारं सुगाहं श्रुतमतमथितैर्बह्मविद्दामृतं यः  
+प्रादादाय तस्मादशरणशरणं शकरं तं नमामः ॥5॥  
+आज्ञावज्रं सुरेशं कृतनिखिलजगत्त्राणमात्मप्रभावाद्  
+विश्वाकाशावकाशं विशदतरयशोराशिभिः पूरयन्तम् ।  
+वेदैरावेद्दमानप्रकटगुणगणं निर्जितारातिवीरं  
+वन्दे गोत्रप्रभेदं सुरनिकरनुतं गोसहस्रप्रकाशम् ॥6॥  
+अपारासारसंसारसागरोत्तारसेतवे ।  
+श्रीमते गुरवे श्वेतगिरये स्तान्नमस्क्रिया॥7॥  
+शिवौ नत्वैकसद्भावौ प्रकृतिप्रत्ययाविव ।  
+उउसुसंप्रदायया युक्त्या व्याकुर्वे वार्तिकामृतम् ॥8॥  
+ मङ्गलश्लोकार्थविवरणम्  
+इह खलु निखिलप्राणभृतां प्रवृत्तिरिष्टोपायप्रेक्ष्या क्षापुरस्सरा । द्विविधं वे चेष्टं द्दृष्टद्दृष्टञ्च। तत्र द्दृष्टेष्टसाधनगोचरा प्रवृत्तिः स्वारसिकी न शास्त्रप्रदीपमाकांक्षति । अद्दृष्टोपायप्रवृत्तिसिद्धयर्थं तत्प्रकाशकशास्त्रप्रदीप आदरणीयः ।तत्र सर्वोत्कृष्टेष्टकैवल्यतदुपायप्रकाशनप्रवृत्तबृहदारण्यकोपनिषद्भाष्यवार्तिकमारभमाणः शिष्टाचारमनुविदधानः विशिष्टदेवतातत्त्वानुस्मरणतन्नमस्काररुपं मङ्गलं चिकीर्षुः अभिधेयसंबन्धाधिकारिप्रयोजनप्रतिपादनायाह--स्वाविद्दाविभवेति।  
+अस्य च नियोगतः फलवत्कार्यान्तराम्भसंयोगात् स्वयं साक्षादफलत्वा त् फ लवत्संनिधावफलं तदङ्गमिति कार्यान्तरशेषत्वेऽवधृते (अन्या) सत्या रम्भस्य समाप्तिपर्यन्तत्वात्अपेक्षिताविघ्नपरिसमाप्तिः प्रयोजनम् , अपेक्षितविधेर नपेक्षितविधानं दुर्बलमिति फलान्तरकल्पनाय् दुर्बलत्वात् । अतो यथा सांप्रदायिकम् न ध्यायानध्यय(ना)दि स्वाध्यायाविघ्नार्थमेवमिदमपि ।तदयमरर्थः । तं वन्दे इति संबन्धः । क्रियाफलस्य कर्त्रभिप्रायत्वादात्मनेपदप्रयोगः। क्षितिमुखनिखिलप्रपञ्चस्य नित्यस्याकर्तृ............  
+अतो न युक्तेयं नमस्क्रिया, अत आह---नन्दितविश्वमिति । नन्दितो विश्वो निखिलप्राणिपर्गो येन ......रा तिर्दातुः परायणम्‌ (बृ.5-9-28)इत्यादेरागमात्, अश्वमेधादिफलं वेतनेन दीयमानं व्यवहितकर्मफलत्वात् सेवाफलवत्, विप्रति पन्ने क्षिति सलिले प्रयन्तवद्दृते,गुरुत्वे सत्यपातित्वात् वियति विहङ्गमाङ्गवत् इत्यादेरनुमानाच्चावधृतसद्भावमित्यर्थः। जगत्कर्तुरीश्वरस्य सत्त्वेऽपि तस्य क्षणिकत्वमास्थिषत। सर्वे संस्कारा क्षणिकाः अर्थक्रियाकारित्वात्, व्यतिरेकेण शशश्रृङ्गवत्, स्थिरत्वे,युगपदर्थक्रियाकारित्वे द्वितीयक्षणे अर्थक्रियासामर्थ्यलक्षणसत्त्वविरहात् क्षणिकत्वम् । न क्रमेणार्थक्रियाकारित्वं, समर्थस्य क्षेपायोगदिति, तत्राह---अव्ययमजमिति ।न तावदर्थक्रियाकारित्वं, सत्त्वं,चरमक्ष णे णच स्यार्थक्रियाविरहेणासत्त्वेनामूलसत्त्वापातात् ।अतः क्षणिकत्वे अकृताभ्यागमकृतविप्रणाशप्रसङ्गात्, सन्तानस्य सन्तानिनोऽन्यत्वेनानिरुपणात्,अर्थक्रियाकारित्वे सत्त्वप्रसङ्गाच्च नि नै कज्ञानानामीस्वरत्वकल्पनागौर वत्त्वा वा च्च स्वरसभङ्गाविरतोदयरहितमित्यर्थः । क्षित्यादिकं कार्यं सावयवत्वात् पटवत् ,क्षित्यादिकं स्वोपादानसाक्षात्कारवत्कर्तृकं, कार्यत्वात् घटव ना दिति सिद्धस्यापि निमित्ततैव । लोके निमित्तोपादानयोर्भेददर्शनात् उपादनस्य वा चा चैतन्यदर्शनात्, अत्राह----एकमिति । विमतं चेतनोपादानकं कार्यत्वात् सुखदिवत् । नात्मगुणत्वमुपाधिः, ग्रहमकर्मत्वादावात्मगते साध्याव्यापकत्वात् । अतो निमित्तोपादानभेदशून्यमित्याशयः। परपरिकल्पिताणुत्वं मध्यमपरिमाणत्वं च प्रतिषेधतिविभुमिति । विप्रतिपन्नमूर्तानि एतत्संयुक्तानि मूर्तत्वात् संप्रतिपन्नवत् । अविभुत्वे कुम्भादिवदनीश्वरत्वादिति भावः । तथापि न प्रत्यग्ब्राह्मणोः विरुद्धधर्मयोरेकत्वं संभवति । नापि प्रतीचामेकत्म्, सुखदुः खे खजननमरणादिधर्मव्यवस्थादर्शनात्, अत्राह--निर्भागमिति । जीवः परस्मात् तत्त्वतो न भिद्दते आत्मवात् परमात्मवत्,विप्रतिपन्नसुखानि मद्भोग्यानि सुखत्वात् संप्रतिपन्नवत्, सुखादीनां, द्दृस्यत्वात् रुपादिवदनात्मधर्मत्वात् जननादीनां क्षेत्रसमवायित्वात् निर्गतानिखिलभेदमित्यर्थः ।यदस्ति तत् मीयते, तदुच्यते एवेति नियमो मात् वाच्यत्वमेयत्वस्वीकारे अभिधानप्रमाणपेक्षपरिच्छेदः स्यात्, अत्राह---सकलेति । सर्वेषामभिधानानां मननस्य च यो व्यापारः तस्य दूरे स्थितम् । सप्तमी इति योगविभागात् समासः । 'यतो वाचो निवर्तन्ते अप्राप्य मनसा सह' (तै.2-9)इति श्रुतेः, अमेयस्यापि स्वापसुखस्य परामर्शसिद्धस्य दर्शनात्, अवाच्यस्येक्षुक्षीरादिमाधुर्यस्य दर्शनात्, 'अत्रायं पुरुषः स्वयंज्योदिः'(बृ.6-3-14)'विज्ञानमानन्दं ब्रह्म'(बृ.5-9-28)इति श्रुतेः सुखसाक्षात्काररुपमित्यर्थः । त्रिविधपरिच्छेदरहितस्य कथं कारणत्वं ,कथंतरां प्रत्यक्षादेः कर्मकाण्डस्य च भेदालम्बनस्य प्रामाण्यम्!अत आह--स्वेति । स्वस्य आत्मनः स्वात्मनि अविद्दा, बाह्यतमोवदविद्दातमसः अभिन्नाश्रयविषयत्वानुमानात् । तस्या विभवः आच्छादनविक्षेपशक्तिः । तया प्रसूतः विपुलः बाह्याध्यात्मिकभेदभिन्नः द्वैतप्रपञ्चः । तस्मिन्विषये प्राचुर्येण व्यवहारजननाय यां काण्वोपनिषच्छलेन सकलाम्नायार्थसंशोधिनीं  
+नियमो मात् वाच्यत्वमेयत्वस्वीकारे अभिधानप्रमाणपेक्षपरिच्छेदः स्यात्, अत्राह--सकलेति । सर्वेषामभिधानानां मननस्य च यो व्यापारः तस्य दूरे स्थितम् । सप्तमी इति योगविभागात् समासः । 'यतो वाचो निवर्तन्ते अप्राप्य मनसा सह'(तै.-2-9)इति श्रुतेः, अमेयस्यापि स्वापसुखस्य परामर्शसिद्धस्य दर्शनात्, अवाच्यस्येक्षुक्षीरादिमाधुर्यस्य दर्शनात् , 'अत्रायं पुरुषः स्वयंज्योतिः' (बृ.6-3-14)'विज्ञानमानन्दं ब्रह्म'(बृ.5-9-28)इति श्रुतेः सुखसाक्षात्कारुपमित्यर्थः । त्रिविधपरिच्छेदरहितस्य कथं कारण्तवं ,कथंतरां प्रत्यक्षादेः कर्मकाण्डस्य च भेदालम्बनस्य प्रामाण्यम् । अत आह--स्वेति । स्वस्य आत्मनः स्वात्मनि अविद्दा, बाह्यतमोवदविद्दातमसः अभिन्नाश्रयविषयत्वानुमानात् । तस्या विभवः आच्छादनविक्षेपशक्तिः । तया प्रसूतः विपुलः बाह्याध्यात्मिकभेदभिन्नः द्वैतप्रपञ्चः । तस्मिन्विषये प्राचुर्येण व्यवहारजननाय यां काण्वोपनिषच्छलेन सकलाम्नायार्थसंशोधिनीं संचक्रुगर्गुरवोऽनुवृत्तगुरवो वृत्तिं सतां शान्तये ।  
+अर्थाविष्करणं कुतार्किककृताशङ्कासमुच्छित्तये  
+तस्या न्यायसमाश्रितेन वचसा प्रक्रम्यते लेशतः ॥(2)  
+अहिता स्पष्टा-संसृष्टव्यवहारकारणत्वेनोत्तरकालानुसन्धानयोग्या भ्रान्तिः येषां ते, स्वाविद्दाविभवप्रसूतविपुलद्वैतप्रपञ्चाहितस्पष्टभ्रान्तयः । ते च तिरोहिता आत्मसमतिः --आत्मचैतन्यं येषां ते तथा । न पुनः भ्रान्त्या तिरोहिता आत्ममतिः येषां ते भ्रान्तितिरोहितात्ममतयः इति विग्रहः । तथा सति अधिष्ठानतिरोधानसिद्धौ भ्रान्तिसिद्धिः, ततश्च तिरोधानसिद्धिरिति इतरेतराश्रयात् । अनन्तस्याविकारिणः मायोपाधिकारणत्वम् ।व्यवहाराङ्गवस्तुबोधकप्रत्यक्षादेः व्यावहारिकप्रामाण्यं देहात्मप्रत्ययवदविरुद्धमिति भावः । सकलाभिधानमननव्यापारदूरस्थितमिति सुखसाक्षात्कारः,एकमिति द्वैतनर्थनिवृत्तश्च प्रयोजनमुक्तम् । अर्थात् तत्कामोऽधिकारी निर्दिष्टः। निर्भागमिति, भ्रान्तितिरोहितात्ममतयो यं भागशो मन्वते इति च, भ्रान्त्या भेदेनावभासमानमनवरतं प्रत्यगभिन्न ब्रह्म विषयो निर्दिष्टः। प्रतिपाद्दस्य विषय शत त्वात् प्रतिपादकस्य विषयित्वात् प्रतिपाद्दप्रतिपादकत्वसंगतिरुक्ताष ।ब्रह्मसाक्षात्कारवतः गुरोः तदभिन्नत्वात्, गुरुदेवताभक्तिश्रद्धोपहिता नमस्क्रियेषटप्रयोजनसंपादनीति मत्वा भक्तयेत्युक्तत्वात् गुरुनमस्कारार्थं न पृथक प्रयत्नः इति द्रष्टव्यम् ।(1)  
+ प्रतिज्ञार्थश्लोकविवरणम्  
+ननु यत् प्रसन्नगम्भीरं संदिग्धार्थमनवगतार्थं वा तत् व्याख्यानमर्हति ।तत्र न तावत् गम्भीरत्वं वृत्तेः, पतदव्याख्यानमात्रत्वात् । नापि संदिग्धार्थत्वं, विरुद्धानेकप्रकारावच्छिन्नैकवस्तुप्रतिपादकपदाभावात् । नाप्यनवगतार्थत्वं,प्रसिद्धतरार्थानामेव प्रयोगात् । अतो न तदर्थविवरणवार्तिकमारम्भणीयमिति शङ्कामपनुदन् स्वचिकीर्षितं प्रतिजानीते--यामिति। गुरवो यां वृत्तिं संचक्रुः तस्या अर्थाविष्करणं प्रकम्यते इत्यन्वयः। अगम्भीरत्वप्रयुक्ताक्षेवं प्रतिक्षिपति--सकलेति। सकलस्याम्नायस्य--कर्मकाण्डदेवताकाण्डब्रह्मकाण्डत्मकस्य अर्थः सम्यक् शोध्यते यया सा सकलाम्नायार्थसंशोधिनी, ताम् । कर्मकाण्डस्य साध्यसाधनसंबन्धेऽवान्तरतात्पर्यं शुद्धिद्धारा ब्रह्मात्मनि। एवं देवताकाण्डस्यापि । ब्रह्मकाण्डस्य तु साक्षाद् ब्रह्मपरत्वमिति संशोधयतीत्यर्थः । काण्वोपनिषद्वृत्तिरिति समाख्याविरोधात् कथं सकलाम्नायार्थसंशोधनम्!अत्राह--काण्वेति । सकलाम्नायार्थपरिज्ञानं कथमेषाम्!अत्राह--गुरव इति । उत्पत्तितः सर्वज्ञा इति यावत् । गुरुषु बहुवचनम स्मर्यते । ननु कथं तेषां सर्वज्ञत्वं, विद्दोपदेष्टुराचार्यस्याभावात् । अतोऽनाप्तप्रणीतत्वादव्याख्योयत्वम्, अत्राह--अनुवृत्तेति। अनुवृत्ताः-शुश्रूषादिना सेविताः गुरुवो यैस्ते अनुवृत्तगुरवः। तथाप्यधिकारिविरहेण कथं तवृत्तेरा रम्भः, कथंतरां तद्वार्तिकस्य, अत्राह--सतामिति । साधनचतुष्टयविशिष्टामामिति यावत् । नित्यानित्यवि वेकादीनामुत्तरोत्तरोपाधित्वान् मुमुक्षुत्वमेव साक्षादधिकारनिमित्तम् । तदिह न संभवति, मोक्षफलवत्त्वाभात् ,अत्राह-शान्तय इति । निरन्वयानर्थनिवृत्तिपलान्तराभावानाम्भः, अत्राह--कुतार्किकेति । वेदान्तानामद्वैतपरत्वमयुक्तं भेदालम्बनप्रत्यक्षादिविरोधादित्यादिश्ष्कतर्कोत्तासंभावनानिरोसोऽवान्तरफलमित्यर्थः । उक्तानुक्तदुरुक्तचिन्तनं वार्तिकलक्षणमिह न संभवति, भाष्यकृतो दुरुक्तासंभवात्, अत्राह--वचसेति। वार्तिकरुपवाक्येन दुरुक्तचिन्ता स्वष्टेति भावः। वार्तिकस्य कुतर्कनिराससामर्थ्यं कुतः?अत्राह--न्यायसमाश्रितेनेति । नीयते-प्राप्यते अभिमतोऽर्थोऽनेनेति न्यायः आगममूलयुक्तिः तदाश्रितेनेत्यर्थः । आत्मनि प्राप्तमोद्धत्यं परिहरति --लेशत इति ।(2)  
+परिहरति--लेशत इति ।(2)  
+अत्र चोपनिषच्छब्दो ब्रह्मविद्दैकगोचरः ।  
+तत्रैव चास्य सद्भावदभिधार्थस्य, तत् कुतः ॥(3)  
+उपोपसर्गः सामीप्ये तत्प्रतीचि समाप्यते ।  
+त्रिविधस्य सदर्थस्य निशब्दोऽपि विशेषणम् ॥(4)  
+ नामव्युत्पादनभाष्यतात्पर्योक्तिः  
+सतां शान्तये इत्ययुक्तं,विषयादिमत्त्वे शास्त्रस्य श्रोतृप्रवृत्त्यङ्गत्वेनादौ प्रयोजनादीनां वक्तव्यत्वात् । न चाधिकारविषयप्रयोजनानामन्यतमव्युत्पादनं भाष्यकारैरकारि । तेन विषयादिरहित भाष्यमारम्भानर्हमिति, सुतरां तदीयं वाक्यमनारम्भयमिति शङ्कां निरस्यन्, अधिकारविषयसमर्थकभाष्यद्वयं बहुवक्तव्यमुल्लङ्घय, व्यापारोद्देश्यतया प्रधानप्रयोजनप्रतिपादक नामव्युत्पादनभाष्यतात्पर्यमाह--अत्रेति । व्याख्येयतया प्रारब्धवृत्तौ अन्यत्र चोपनिषद्भाष्ये । गवादिपदानामनेकार्थत्वादुपनिषत्पदस्यापि विद्दातत्साधनाम्नायविषयत्वं किं न स्यात्, अत्राह-ब्रह्मविद्दैकेति । शक्तिकल्पनागौरवादेकस्यानेकार्थत्वमन्याय्यमपि गवादिपदानामनन्यथासिद्धाशिष्टप्रयोगादाश्रितमित्यर्थः। कल्पनागौरवपरिहारायाम्नायविषयत्वमेव स्यात्, अत्राह-तत्रैवेति । उपनिषच्छब्दः अभिधा। तदर्थस्य--विशरणगत्यवसादनकर्तृत्वस्य । तत्र-ब्रह्मविद्दायामेव भावात् अन्यत्र ग्रन्थेऽभावाच्च यौगिकार्थलाभार्थं विद्दागोचरत्वमाश्रितमित्यर्थः। औपनिषदः पुरुषः इत्यादावुपनिषच्छब्दः अखण्डशक्तया ग्रन्थे रुढः। विशरणादिकर्तृत्वमादाय ब्रह्मविद्दायां यौगिकः। योगाद्रूढिर्बलीयसीति मत्वाह--तत्कुत इति । तत्--विद्दैकगोचरत्वमित्यर्थः(3)आकाशशब्दस्य भूताकाशे रुढस्य लिङ्गबलात् ब्रह्मणि व्यापित्वादिसादृश्यात् वृत्तिरिव ग्रन्थविशेषे रुढ्स्योपनिषत्पदस्य शास्त्रारम्भनिमित्तप्रयोजनवत्त्वलाभार्तं विद्दायां वृत्तिराश्रीयते इति मत्वा तत्राभिधार्थसत्त्वमुपसर्गार्थकथनेन कथयति
+--उपेति ।उपनिपूर्वस्य सदेः क्विबन्तस्य उपनिषदिति रुपम् ।  
+सदेरप्रतेः (पा. सू.8-3-66)इति षत्वम् । तत्रोपोसर्गः वृद्धव्यवहारे सामीप्ये  
+उपनीयेममात्मानं ब्रह्मापास्तद्वयं यतः ।  
+निहन्त्यविद्दां तञ्जञ्च तस्मादुपनिषद्भवेत् ॥(5)  
+निहत्यानर्थमूलं स्वाविद्दां प्रत्यक्तया परम् ।  
+गमयत्यस्तसंभेदमतो वोपनिषद्भवेत् ॥(6)  
+प्रवृत्तिहेतून्निश्शेषान् तन्मूलोच्छेदकत्वतः ।  
+यतोऽवसादयेद्विद्दा तस्मादुपनिषन्मता ॥(7)  
+प्रयुच्यते । किमतः, अत्राहः--तदिति । तत् --सामीप्यम् अबाह्यत्म्। तन्निरुपचरितं प्रत्यगात्मनीत्यर्थः। उपसर्गान्तरार्थमा--त्रिविधस्येति । षद्लृ विशरणगत्यवसादनेषु िति धात्वर्थस्य विशरणकर्तृत्वादेः, नीत्युपसर्गः स्वार्थाभिधानद्वारा विशेषणमित्यर्थः ।(4)  
+उपसर्गद्वयार्थविशेषितं धात्वर्थं सहेतोः संसारस्य शैथिल्यकरणं विशरणकर्तृत्वं विद्दायां दर्शयति --उपनीयेति । इमं-त्वंपदलक्ष्यमपरोक्षमात्मानं, ब्रह्म-तत्पदार्थं,अपास्तद्वयं निहन्ति। ब्रहम् चेममात्मानमुनीय निहन्तीत्यर्थः ।(5)उपसर्गार्थविशेषितगतिकर्तृत्वस्य विद्दायामेव सद्भावादपि उपनिषच्छब्दो विद्दागोचरः इत्याह--निहत्येति ।स्वाविद्दां-प्रतीचोऽविद्दां, निहत्यशिथिलयित्वा, परं भेदाभावोपलक्षितं प्रत्यक्तया गमयति विद्देत्यर्थः ।(6)धातूपसर्गस्यास्य विद्दायां परिपूर्णत्वात् सैवोपनिषदिति वक्तुमवसादनकर्तृत्वमाह--प्रवृत्तीति । अविद्दास्मिताराद्वेषाभिनिवेशान् प्रवृत्तिहेतून अवसादयेत् --पुनरुत्पत्तुमयोग्यतया नाशयेदिति । संभावनायं लिङ्।(7)  
+यथोक्तविद्दाविद्दाबोधित्वात् ग्रन्थोऽपि तदभेदतः ।  
+भवेदुपनिषन्नामा लाङ्गलं जीवनं यथा ॥(8)  
+अरम्याध्ययनाच्चैतारण्यकमितीर्यते ।  
+बृहत्त्‌वात् ग्रन्थतोऽर्थाच्च बृहदारण्यकं मतम् ॥(9)  
+इत्यादिनामव्युत्पत्तिच्छद्मना प्रकृतोचितम् ।  
+सर्वोपनिषदामाह मुक्तिमात्रं प्रयोजनम् ॥(10)  
+मिथो विरोधसिद्धयर्थं कर्मज्ञानाधिकारिणोः ।  
+संसारव्याविवृत्सुभ्यः इत्युक्तिं भाष्यकृञ्जगौ ॥(11)  
+पुरस्तादुपनिषत्पदस्य विद्दार्थग्रन्थे रुढिमूरीकृत्य परिहृतम् । संप्रति अनेकार्थत्वस्याभावान्न रूढिः, प्रयोगप्रत्यययोर न न्यथासिद्धेरित्याह
+---यथोक्तेति । विद्दा( वि )बोधित्वात्विशरणादिहेतुज्ञानसाधनत्वात् । निमित्तनैमित्तिकयोरभेदोपचारः । नैमित्तिकशब्दस्य निमित्ते प्रयोगे उदारहणमाह--लाङ्गलमिति । जीवनसाधनव्रीह्यादिसाधने ह(ले)कृषीवलस्य लाङ्गलं मे जीवनम् (इति )यथेत्यर्थः । (8)इत्थं ग्रन्थस्योपनिषच्छब्दत्वेऽपि, कथं बृहदारण्यकशब्दत्वम्!तत्राह--अरण्येति । वेदव्रतारण्याध्ययनशिरोव्रतसंसकृतस्य श्रवणादिपरस्य फलपर्यन्तविद्दोत्पत्तिरिति चकारार्थः। अनवच्छिन्नब्रह्मतज्ज्ञानतत्साधनश्रवणादिप्रतिपादनादर्थतो बृहत्त्वम् । उपनिषदन्तरापेक्षया बृहत्त्वात्ग्रन्थतो बृहत्त्वम् । (9)नामव्युत्पादनभाष्यमुसंहरति ---इत्यादीति । इति--उक्तेन प्रकारेण, आदिनाव्युत्पत्तिच्छद्मना--ग्रन्थादौ उपनिषद्बृहदारण्यकनामनिर्वचनच्छलेन, सर्वोपनिषदां, विद्दायाः साक्षात् तदद्वारा तत्साधनानाम् , मुक्तिमात्रं--अविद्दास्तमयमेव, न नियोगसाध्यमित्यर्थः।(10)  
+ कर्मज्ञानाधिकारिणोः वैलक्षण्यात् कैवल्यस्य  
+ नियोगफलत्वाभावोक्तिः  
+मुक्तिमात्रमित्ययुक्तं धीकर्मसमुच्चयफलत्वात् कैवल्यस्य, अत्राह--मिथ इति ।  
+विरोधेति । विरोधः--वैधर्म्यम् । विलक्षणाधिकारित्वात् धीकर्मसमुच्चयायोगात् न  
+त्यक्ताशेषक्रियस्यैव संसारं प्रजिहासतः।  
+जिज्ञासोरेव चौकात्मयं त्रय्यन्तेषवधिकारिता ॥(12)  
+एतमेवेति च तथा प्रत्यग्याथात्म्यवित्तये ।  
+सर्वकर्मत्यजं प्राह श्रुतिर्विद्दाधिकारिणम् ॥(13)  
+प्रत्यग्विविदिषासिद्धयै वेदानुवचनादयः ।  
+विद्दावाप्त्यै तु तत्त्यागः ईप्सन्तीति श्रुतेर्बलात् ॥(14)  
+नियोगफलं कैवल्य (मित्यर्थः)(11)शमादयः क र्माधिकारिणानुष्ठेयाः वैदिकसाधनात्वात् अग्निहोत्रादिवत् इति नाधिकारिवैलक्षण्यम्, अत्राह---त्यक्तेति । ए(व कारोऽ)(गा)न्ययोगव्यवच्छेदार्थः । चोऽनुक्तशमादिसमुच्चयार्थः । साधनचतुषटयसंपन्नाधिकारसमर्थकवाक्यविरोध इत्यर्थः। (12)न ताद्दृशं वाक्यं पश्यामः, अत्राह--एतमेवेति । एतमेव प्रव्राजिनो लोकमिच्छन्तः प्रव्रजन्ति'(बृ.6-1-12) 'तस्मादेवंविच्छान्तः'(बृ.6-4-23)इत्यादि वाक्यविलक्षणानुपपत्तिः प्रमाणमित्यर्थः। (13)कर्माणि त्यजतीति कर्मत्यक् । तस्यकर्मत्यजः अधिकारे 'धर्मात् सुखञ्च ज्ञानञ्च'इति धर्मशब्दवाच्यनित्यकर्मणां ज्ञानसाधनत्वस्मृतिविरोधः, अत्राह--प्रत्यगिति । कर्मणां शुद्धिद्वारा ज्ञानहेतुत्वात् न स्मृतिविरोध इत्यर्थः। किं तर्हि साक्षात् ज्ञानसाधनम्, अत्राह--विद्देति ।  
+ब्रह्मावाप्त्यै इति पाठे ब्रह्मणः अवाप्तिः विद्दा, तदुत्पत्तिसाधनं कर्मत्याग एवेत्यर्थः ।अत्र प्रमाणमाह--ईप्सन्तीति 'एवमेव प्रव्राजिनो लोकमीप्सन्तः प्रव्रजन्ति '(बृ.6-4-22)इति माध्यन्दिनश्रुतौ आत्मलोकप्रेप्सूनां कर्मत्यागविधानानुपपत्तिः प्रमाणमित्यर्थः ।(14)  
+उक्ताधिकाराविषयप्रतिपत्त्यर्थमीरितम् ।  
+संसारहेत्विति वचः स्फुटन्यायोपबृंहितम् ॥(15)  
+ऐकात्म्यविषयान्नान्यो वेदान्तवचसां यतः ।  
+लभ्यते विषयः कश्चित् तद्धीस्तस्मात्तमोऽपनुत् ॥(16)  
+संसारकारणाविद्दाध्वंसकृज्ज्ञानलब्धये ।  
+प्रारब्धेयं प्रयत्नेन वेदान्तोपनिषत्परा ॥(17)  
+ विषयभाष्यव्याख्यानम्  
+क्रमप्राप्तं 'संसारहेतुनिवृत्तिसाधनविद्दाप्रतिपत्तये ' इति विषयभाष्यं व्याख्या(मि)ति ---उक्तेति ।उक्तः अधिकारः --श्रवणादिविधिसंबन्धः यस्य, तस्य विशिष्टाधिकारिणः ब्रह्मत्मैक्यप्रतिपत्तिसिद्धयर्थमित्यर्थः। नेदं भाष्यवचनं वैदिकम्, अत्राह--स्फुटेति । प्रमाणस्य प्रमेयत्वं संपदादिसाधनत्वगोचरान्वयव्यतिरेकन्यायेनाबाध्येनाप्यायितमित्यर्थः ।(15)  
+तत्त्वमादीनां संपदादिपरत्वात् ऐकात्म्यधीरप्रमा न तमो हन्ति,तत्राह--ऐकात्म्येति। उपक्रमादिलिङ्गविरोधात् न संपदाद्दर्थत्वमित्यर्थः। (16)अविद्दायाः विद्दाभावमिथ्याधीरुपतया संसारानुपादानत्वात् संसारहेतुनिवृत्तिसाधनेत्ययुक्तम्, अत्राह--संसारेति । अविद्दा न विद्दाभावादिः आवरणत्वात् कुडयादिवत् । (सं)बन्धश्चाविद्दात्मा, जडत्वा्त् रज्जुभुजङ्गवत् । तेन तन्निवर्तकधीसिद्धयर्थं ग्रन्थरुपोपनिषदारब्दा। ननु वाक्यस्य संसृष्टार्थत्वनियमात् नाखण्ड(त्यन्त)गोचरत्वम् , अत्राह--परेति । सोऽयं देवद्त्त इतिवत् भागत्या(ग)लक्षणया अ(न्यन्ता )खण्डर्थत्वमित्यर्थः। (17)आत्मधीः सेतिकर्तव्या,करणत्वात् दर्शपूर्णमासादिवत् इति चेत्, तदिदिकर्तव्यं कर्म, ज्ञानाभ्यासो वा,आद्दमपवदति---प्रत्यगिति । प्रत्यगधीः न कर्मापेक्षा, तत्त्वधीत्वात् शुक्तितत्त्वधीवत् इत्यर्थः । तत एव न द्वितीयोऽपीत्याह--सा चेति (18)  
+प्रत्यग्याथात्म्यधीरेव प्रत्यगज्ञानहानिकृत्।  
+सा चात्मोत्पत्तितो नान्यत् ध्वान्तध्वस्तावपेक्षते ॥(18)  
+साधनतञ्चाधिकारी च कर्मविज्ञानकाण्डयोः ।  
+मिथो विरोधतः सिद्धावधुना तत्र चोद्दते ॥(19)  
+नन्वभ्युदयवन्मुक्तिं गृह्रीमो विधिलक्षणाम् ।  
+कार्यं विना नाधिकारी नापीज्याफलसंगमः॥(20)  
+लभ्यते लौकिकोऽपीह, किमङ्गमसंश्रयः ।  
+विधिलक्षणसिद्धयर्थं सन्ति वाक्यानि च श्रुतौ ॥(21)  
+ उक्तानुवादपूर्वकमाक्षेपसमाधानाभ्यां भाष्यद्वयार्थसाधनमम्  
+भाष्यद्वयार्थमाक्षेपसमाधानाभ्यां साधयितुमुक्तमनुवदति--साधनञ्चेति ।  
+साधनं फलञ्च अधिकारी विषयश्चेत्यर्थः ।(19)आदौ साधनमाक्षिपति--नन्विति । विधीयते िति विधिः कर्म, लक्षणं यस्याः, तां विधिलक्षणाम् । मुक्तिः कर्मसाध्या वैदिकफलत्वात् स्वर्गादिवत् । विपक्षे दोषं भाषते --कार्यंमिति ।कृतियोग्यमनुष्ठेयं विना ममेदं कर्तव्यमिति प्रतिपन्नाधिकारी न लभ्यते इत्यर्थः। फलकामनयैवाधिकारः, न कार्यप्रतिपत्त्या, अत्राह--नापीति। इज्याशब्दः यागवचनोऽपि अत्र साधनमात्रगोचरः ।क्रियोपरागमन्तरेण परिनिष्ठतस्य फलसंयोगायोगात् साध्यसाधनसंबन्धो.ञपि न लभ्यते इत्यर्थः ।(20)लोकोऽप्येवं, किमु वेदे इत्याह---किमिति।  
+कुर्वीत क्रतुमित्यादिर्विधिरभ्युदये यथा ।  
+उपासीतेति च तथा मुक्तावपि समीक्ष्यते ॥(22)  
+नाभ्युदयस्य मुक्तेश्च साध्यासाध्यध्रुवाध्रुव।  
+वैलक्षण्यान्न युक्तेयं तुल्यसाधनता तयोः ॥(23)  
+'अन्यच्छ्रेयोऽन्यदुतैव प्रेयस्ते उभे नानार्थे पुरुषं सिनीतः ।  
+तयोः श्रेय आददानस् साधु भवति हीयतेऽर्थत् य उ प्रेयो वृणीते'॥(24)  
+अङ्गेति अनुत्तमसंबोधनम्। क्षणिकस्य कर्मणः कालान्तरभाविफलसाधनत्वमपूर्वद्वारकं नियोगानुपपत्तिरुपोपादानप्रमाणगम्यमित्यर्थः । मुक्तिसाधनसमर्थकवेदान्तानां कर्मप्रकरणात् प्रकरणान्तरत्वमनामानमित्याशङ्कय वाक्यविरोधे प्रकरणं दुर्बलमित्याह--विधीति। विधिलक्षणत्वसिद्धयर्थमिति भावपरो निर्देशः । (21)न विधायकपदश्रवणमात्रात् कार्यधीः, 'पत्यौ जीवति--स्यात् 'इत्यादौ व्यभिचारात्,अत्राह--कुर्वीतेति । अभ्युदये--स्वर्गादावुद्देश्ये तत्साधनयागादौ विधिरिव मुक्तावुद्देश्यायां'स क्रतुं कुर्वीत'(छा-3-13-1)'आत्मानमेव लोकमुपासीत'(3-4-15)'प्रज्ञां कुर्वीत'(बृ.6-4-21)इति च तत्साधनविधिरित्यर्थः (22)इत्थं साधनाभेदादधिकार्यभेदप्रसङ्गे सिद्धान्तयति --नेति ।साध्यासाध्यध्रुवाध्रुववैलक्षण्यादिति । साध्यात्वासाध्यत्वध्रुवत्वाध्रुवत्ववैलक्षण्यादिति भावप्रधानत्वम् । कार्यत्वमनित्यत्वञ्च दर्शितानुमानोपाधिरित्यर्थः ।(23)  
+ साधनैक्यानुमानमागमविरुद्धमित्याह---अन्यदिति ।श्रेयः---मुक्तिसाधनम् प्रेयसोऽन्यत्,उत प्रेयोऽपि---अभ्युदयसाधनमपि श्रेयसोऽन्यदेव, ते--श्रेयः प्रेयसी, नानार्थे--विलक्षणकाले, पुरुषम्--अधिकारिणम्, सिनीतः बघ्नीतः ।श्रेय आददानस्य--ज्ञानसाधनश्रवणादि अनुतिष्ठतः , साधु भवति--नितयसुखं लभ्यते । अर्थात् हीयते--कैवल्यविमुखः जननमरणप्रबन्धमधिरोहतीत्यर्थः ।(24)  
+'परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो निर्वेदमायान्नास्त्यकृतः कृतेन ।  
+तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत् समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम् '॥(25)  
+ नन्वभ्युदयवत्साध्या मुक्तिरप्राप्तरुपतः ।  
+ नैवं, साध्यापि नो मुक्तिर्नत्वभ्युदयवद्दतः ॥(26)  
+ स्वतो मुक्तान्तरायस्य तमसो विद्दया हतेः ।  
+ तत्कैवल्यमतः साध्यमुपचारात् प्रचक्षते ॥(27)  
+अधिकार्यभेदोऽप्यागमविरुद्धः इत्याह--परीक्ष्येति । लोकान्-स्वर्गादीन्,कर्मचितान्-कर्मनिर्मितान्, कार्यत्वात् घटादिवदनित्यान्निश्चित्य, ब्राह्मणः--शुद्धबुद्धिः बरह्मप्राप्तियोग्यः, निर्वेदमायात्-कर्मफलवितृष्णः स्यात् , अकृतःनित्यसिद्धो मोक्षः,कृतेन-कर्मणा नास्ति, कर्मण उत्पत्त्यादिचतुर्विधफलत्वात् ।तेन ज्ञानस्यैव तत्साधनत्वात्, तद्विज्ञानार्थं --नन्विति नित्यप्राप्तौ साधनानर्थक्यादित्यर्थः । प्रतिबन्धध्वंसे मुक्तेः साध्यत्वोपचारेण साधनोपपत्तिः इत्याह--नैवमिति । फलत्वात् मुख्यमेव साध्यत्वं किं न स्यात्,आत्राह--नत्विति ।'ब्रह्मैव सन् ब्रह्माप्येति'(बृ.6-16)'विमुक्तशच् विमुच्यते'(का-5-1)इत्याद्दागमविरोध(स्थो)(स्तोर)र्थः । (26)नित्यनिरवयवस्वरुपप्राप्तिप्रतिबन्धासिद्धेः औपचारिकसाध्यत्वासिद्धिः, अत्राह--स्वत इति । स्वत एव मुक्तः --परित्यक्तः, अन्तरायः येन सः स्वतो मुक्तान्तरायः,तस्य यत्तमः-कण्ठगगतचामीकरादाविव, तस्य विद्दया ध्वंसो मुक्तौ साध्यत्वमुपचर्यते इत्यर्थः । (27)'कर्मणा बध्यते जन्तुः विद्दया च विमुच्यते'(सन्या.2-28)  
+चिकित्सयेव संप्राप्यं स्वास्थ्यं रोगार्दितस्य तु ।  
+आत्माविद्दाहतेर्बोधात् तत्कैवल्यमवाप्यते ॥(28)  
+ब्रह्म वा इदमित्यादिर्ब्रह्मैवेति तथा श्रुतिः ।  
+सुषुप्तनरवत् श्रुत्या बोध्योऽतोऽयं न कार्यते ॥(29)  
+किमत्र विधिना कार्यमनृतन्त्रत्वहेतुतः ।  
+श्रुतोऽप्यनर्थकोऽत्र स्यात् विध्यर्थासंभवत्वतः ॥(30)  
+(मो.ध.78-7)इति (कर्म)बन्धस्य कर्मसाध्यत्ववत् मुक्तेः धीसाध्यत्वं सुख्यमेवोक्तम् , अत्राह--चिकित्सयेति । धातुत्रयसाम्यावस्थानं (स्वा)स्थयं नैसर्गिकमेकैकधातूद्रेकरुपरोगाभिभूतं रोगार्दितस्य पुंसः यथा दाहच्छेदादिलक्षणचिकित्सया प्रतिबन्धविगमे प्राप्यमित्युपचर्यते । मुक्तिरसाध्या, आत्माभिन्नत्वात् आत्मवत् इत्यवधारणार्थः तु शब्दः।(28)आत्माभिन्न(त्वे)(त्व) हेतुं समर्थयते --ब्रह्मेति । 'ब्रह्म वा इदमग्र आसीत्'(बृ.3-4-10)'ब्रह्मौवेदममृतं पुरस्तात् '(मु.2-2-11)'अयमात्मा ब्रह्म'(बृ.4-5-19)इत्ायदिश्रुतिरात्मनो ब्रह्मभावं नित्यसिद्धं दर्शयति । किञ्चातः,तत्राह--सुषुप्तेति । यथा राजा सुप्तो बन्दिप्रभृतिभिः तत्त्वकथनेन बोध्यते , न किञ्चिदनुष्ठेयं नानुष्ठापनीय इत्यर्थः । (29)ज्ञानं विधीयमानतया फलसाधकं वैदिकमानत्वात् अग्नष्टोमादिवत् । अतो नैयोगफलं कैवल्यम्, अत्राह--किमत्रेति । ज्ञानमविधेयं पुरुषाननुवर्तित्वात् दुःखवत् इत्यर्थः । 'प्रज्ञां कुर्वीत'(बृ.6-4-21)इति श्रुतिविरुद्धो हेतुः, अत्राह--श्रुतोऽपीति । कृष्णलं श्रपयेत्'इतिवदयोग्ये श्रुतो विधिरनर्थः ।तस्मात् धीमानगोचरतया परिणम्यते इत्यर्थः ।(30)एवं मुक्तेः चतुर्विधक्रियाफलविलक्षणत्वेनाधिकारिभेदं प्रसाध्य, परोक्तमनुवदति
+---यच्चेति ।'विधिमार्गेऽधिकारस्य परीक्षा वर्तते '(वा.(228)इत्यादिना परिहरिष्यते इत्याह--तदपीति (31)  
+यच्चास्यासति कर्तव्ये नाधिकारी निरुप्यते ।  
+तदव्यशेषतश्चोमूर्ध्वमुन्मूलयिष्यते ॥(31)  
+पर आहात्मनः स्वास्थ्यं श्रेयो यद्दभिवाञ्छसि ।  
+कर्मभ्य एव तत्सिद्धयेत् श्रुतत्वात्कर्मणः श्रुतौ ॥(32)  
+श्रुतौ स्मृतौ च विहितं कर्मैव श्रूयते यतः ।  
+न च कर्मातिरेकेण मुक्त्यभ्युदयसाधनम् ॥(33)  
+ नष्टाश्वदग्धरथन्यायेन नित्यकर्मणां मोक्षफलकत्वमिति  
+ प्रत्यवस्थानम्  
+यावज्जीवश्रुतिचोदितनित्यकर्माणि फलाकाङ्क्षाणि । मोक्षश्च साधनाकाङ्खः। तेन नष्टाश्वदग्धरथन्यायेन संबन्धः इति प्रत्य(य)व (त्ति)इत्याह--पर इति । (32)मोक्षस्य ज्ञान(स्य)निराकाङ्क्षत्वात् नास्य न्यायस्यावकाशः,अत्राह--श्रुताविति । कर्मैवेति कथम!'ब्रह्मविदाप्नोति परम्'(तै.2-1)इत्यादौ ्ज्ञानश्रुतेः, अत्राह--नचेति । (33) यत्नतः--पौर्वावर्यप्रतिसन्धानयत्नात् । न्यायतः शब्दशक्तेः कार्यगोचरत्वावधारणयुक्तेरित्यर्थः । कर्मातिरिक्तवैदिकसाधनाभावे हेतुमाह--निषेधेति । तसिः सार्वविभक्तिकः। सर्वतः--सर्वस्य ।  
+यत्नतो न्यायतः किञ्चत् पश्यामो वेदचक्षुषा ।  
+निषेधविधिमात्रत्वाद्वेदार्थस्येह सर्वतः ॥(34)  
+ननु श्रुतौ पुरोक्तानि वाक्यानि बहुशो मया ।  
+अविधायित्वतस्तेषां न न्याय्यं भवतोदितम् ॥(35)  
+आम्नायस्य क्रियार्थत्वात् विधिनेति च सूत्रणात् ।  
+विधिशेषतया तेषामेकवाक्यत्वसंभवे ॥(36)  
+इह--वेदार्थविञ्जैमिनि प्रभृतिव्यवहारे इत्यर्थः (34) सर्वत इत्ययुक्तं धीसाधकवाक्यानां 'अन्यच्छ्रेयः'(का.-2-1)इत्यादीनामुक्तत्वादित्याह
+--नन्विति । विमताः न स्वारर्थपराः विधिविकलवेदत्वात् सोऽरोदीत् इत्यादिवत् इति दूषयति ---अविधायित्वत इति (35)वेदान्तानां स्वार्थपरत्वाभावे फलवदध्ययनविधिग्राहितत्वमयुक्तं स्यात्, अत्राह--आम्नायस्येति । 'आम्नायस्य क्रियार्थत्वादानर्थक्यमतदर्थानां तस्मादनित्यमुच्यते ।'(पू.मी.1-2-1)किं चोचदना प्रमाणमुताप्रमाणमित्येतद्धेतु भूतसा(क्षेप)पेक्ष विचारहेतुत्वेन, एकवाक्यत्वेन प्रतीतानां मध्ये 'सोऽरोदीत् यदरोदीत्'इति विधिविधेयाधिकारितद्विशेषणानामप्रतिपादकानि किं हेत्वर्थेन संबध्यन्ते, उत स्तुत्यर्तत्वेन इति विरार्यते । हेत्वर्थेनेति पूर्वः पक्षः। स्तुत्यर्थत्वेनेति राद्धान्तः। हेत्वर्थत्वे रुद्ररोदनाद्दर्थस्वरुपे, तस्य च कार्यं प्रति हेतुत्वे प्रमाणान्तरमपेक्षणीयम् । कार्यैकविषयत्वात् शब्दप्रामाण्यस्येति अपे(क्ष)(क्ष्य)माणप्रमाणभावादप्रमाणं चोदना स्यात् । स्तुत्यर्थत्वेनान्वये प्रमाणान्तरप्रसिद्धालम्बनवशेन स्तुत्युपपत्तेः निरपेक्षत्वेन प्रमाणं चोदनेति ।  
+शब्दैकसमधिगम्यकार्यविषयबुद्धयुत्पत्तेः प्रागेव सिद्धार्थेषु बुद्धयवतारात् सिद्धारथपदार्थानुगुणा वाक्यार्थावगतिरिति सिद्धार्थानां यथाश्रुतान्वयोपपत्तये हेत्वर्थता युक्ता । लोकेऽपि पुत्र आसीत् तस् क्रीडनकं कुरु इत्यादिवाक्येषु पुत्रजन्मादेः सिद्धार्थस्य कार्यं प्रति हेतुत्वेनैवान्वयो द्दृश्यते । स्तुत्यर्थत्वे च बहूनामसामञ्जस्यं निष्प्रयोजनता च । वाक्यभेदाश्रयणेनावान्तरान्वयविवक्षायामपि हेतुत्वेनान्वयोऽपिहार्यः । शास्त्रद्दृष्टविरोधादयश्चाभ्यधिकाः । तेनाप्रमाणं चोदनेति प्राप्ते ,  
+आह- 'विधिना त्वेकवाक्यत्वात् स्तुत्यर्थेन विधीनां स्युः'(पू.मी.1-2-8)इति । सर्वशब्दानां कार्यपरतया प्रामाण्यं चोदनासूत्रे प्रतिपादितम् । तत्र विधि शब्दस्तावत् साक्षातदेव कार्यं प्रतिपादयति । पदान्तराणामपि तदन्वितस्वार्थाभिधायकतया तत्रैव तात्पर्यं वक्त्व्यम् । तदपेक्षितार्थसमर्पणेन च तेषां तत्परता निर्वहति । एवञ्च तत्पदापेक्षयैव सर्वेषां पदानामन्वयो वाच्यः । तत्र यदि सिद्धार्थानां पदानां हेतुत्वेनान्वयः, विध्युद्देशप्र(ति)पादकं कार्यमकार्यमेव स्यात् । ततश्च तस्य यत् स्वतः कार्यपरत्वं प्राप्तमितरेषां पदानां तदेकवाक्यतया तत्रैव तात्पर्यं, तदुभयमपि न निर्वहतीति तदन्वयोपपत्तये युक्तैव प्राशस्त्यलक्षणा । अभिधानवृत्तेरपि तात्पर्यस्य बलीयस्त्वात् ।गङ्गायां घोषः प्रतिवसति इत्येवमादिषु सह प्रयुक्तानां शब्दानामेकान्वयपरतया , तदुपपत्तये अपेक्षितस्य प्राशस्त्यस्य सिद्धिः । अन्यथा सर्वत्र लक्षणासिद्धिरेवावसीदेत् ।  
+ तत्रार्थवादपदेषु यद्दपि एकपदार्थेन न प्राशस्त्यं गम्यते । न च महावाक्ये वाक्यान्तरावगतिः । तथापि तेषां परस्परान्वययोग्यतापरामर्शमात्रेण संसर्गविशेषावगमात् युक्ता तद्वशेन लक्षणा । ेवं तर्हि नामान्तरेण हेत्वन्वय एव प्रतिज्ञातः, प्रशस्तत्वादिदिं कर्तव्यमिति ।भवेत् , यदि हेतुपुरस्सरा शब्दकार्यावगतिः । इदं कर्तव्यमिति स्वतन्तत्र ेव शब्दः कार्यमवबोधयति । इदञ्च प्रशस्तमिति ब्रूते ।प्राशस्त्यस्य वस्तुसामर्थ्यात् कार्यावगतौ हेदुत्वम् । ननु विध्युद्देशमात्रादेव कार्यावगतौ सिद्धायां किमर्थवादपदैः क्रियते । भवेदेतदेवम् ,यद्दर्थवादपदानि नाश्रोष्यन्त । सत्सु(नृ)तृ तेषु सह प्रयुक्तानां संभूयकारित्वस्य व्युत्पत्तिसिद्धत्वात् न तद्रहितात् विध्युद्देशात् कार्यावगतिः ।  
+ यथा पटो भवतीति पदद्वयप्रयोगे वाक्यं परिपूर्णं भवति । यदा तस्मिन्नेव वाक्ये रक्तपदं प्रयुज्यते , तदा रक्तं प्रत्याकाङ्क्षामुत्थाप्य तद्विशिष्टो वाक्यार्थः प्रतीयते । एवमिहापि (सं)(स )स्तुतिपादादेव विध्युद्देशात् कार्यावगतिः । न च स्तुत्यर्ते निष्प्रयोजनता, कार्यप्रतीतेरभावात् । एवं च शास्त्रद्दृष्टविरोधादीनामप्यनवकाशः, (तस्मात्)स्तेयादिषु कर्तव्यत्वविवक्षाभावात् । अतः प्रमाणं चोदनेति ।आम्नायस्य क्रियार्थत्वात् ---कार्यपरत्वात्, त्वन्मते स्यादानर्थक्यम्, अतदर्थानां ---अकार्यार्थानामर्थवादादीनाम, तच्चनिष्टम् । तस्मात् कार्यार्थत्वं शब्दानामनियतम् --अनित्यमुच्यते , इति पूर्वपक्षसूत्रार्थः।  
+ तुशब्दः व्यावर्तनः। विधीनां--विहितार्थानां, स्तुत्यर्थेन--स्तुतिलक्षणेनार्थेन, कार्यशेषतया अर्थवादा अर्थवन्तः स्युः, विधिना--विध्युद्देशेन एकवाक्यत्वात्,इति राद्धान्तसूत्रार्थः ।  
+वचसामक्रियार्थानां वाक्यभेदप्रकल्पना।  
+गुर्वी स्यात्. ननु कैवल्यं फलं नित्यमिहेष्यते॥(37)  
+कथं नित्यं भवेत् तन्नो यदि स्यात्कर्मणः फलम्।  
+कर्मोत्थं न यतः किञ्चित् ध्रुवं जगति वीक्ष्यते ॥(38)  
+तत् साधनेन चावश्यं भवितव्यमतो भवेत् ।  
+पारिश्येष्यादिह ज्ञानं वेदान्तेषु प्रसिद्धितः ॥(39)  
+तस्मात् वेदान्तानामपि तथात्वमित्यर्थः । कर्मप्रकरणसमाम्नातानामेव तत्र विधिशेषत्वमुक्तं, न स्वप्रकरणगतवेदान्तानाम,अत्राह---विधिशेषतयेति । कर्मापेक्षितकर्त्रादिप्रकाशनद्वारा तेषामपि विधिनैकवाक्यत्वं लाघवादित्यर्थः ।(36)जैमिनिसूत्रबलात् विधिशेषत्वे, व्याससूत्रबलात् नित्यफलसाधनप्रकाशकत्वेन स्वतन्त्र्यं किं न स्यात्, इति शङ्कते --नन्विति । वेदान्तानां विधिपरत्वे कैवल्यं कर्मसाध्यतया अनित्यं स्यात् । तदिह शास्त्रे नित्यमिष्टमित्यर्थः ।(37)  
+क्रियाफलत्वेऽपि ध्वंसवन्नित्यत्वम्, अत्राह--कथमिति । भावकार्यमनित्यं नियतमित्यर्थः।'अक्षय्यं ह वै चातुर्मास्ययाजिनः सुकृतम्'इति कर्मफलं नित्यं श्रुतम्, (इत्या)(अत्रा)ह--कर्मोत्थमिति । यत् कृतकं तदनित्यमिति व्याप्तबलप्रवृत्तलिङ्गानुगृहीत'नास्त्यकृतः कृतेन'(मु.1-2-12)इत्यादिश्रुतिविरोधात् गुणवाद इत्यर्थः ।(38) नित्यस्य साधनानपेक्षत्वात् न ज्ञानं तत्साधनम्, अत्राह--तदिति। अज्ञानव्यवहितत्वादित्यर्थः। फलितमाह--अत इति । साधनान्तरस्य प्रसक्तस्य प्रतिषेधः अन्याप्रसङ्गस्च यत इत्यर्थः । शिष्यमाणसंप्रत्ययाभावात् परिशेषासिद्धिः, अत्राह--वेदान्तेष्विति । (39)  
+नैवं क्रियाभ्य एव स्यात् मुक्तेः सिद्धत्वहेतुतः ।  
+कुतः क्रियाभ्यः सिद्धिश्चेत्, श्रृणु तद्भण्यते यतः ॥(40)  
+निषिद्धकाम्ययोस्त्यागात् कर्मणोर्नित्यकर्मणः ।  
+करणात्प्रत्यवायस्य हतेर्भोगेन च क्षयात् ॥(41)  
+शरीरारम्भकस्यैवं मुक्तिः सिद्धान्तरात्मनः ।  
+विनाप्यैकात्म्यसंबोधात् कर्मणैवोक्तवर्त्मना ॥(42)  
+ननु चात्मावबोधस्य निचाय्येति फलं श्रुतम् ।  
+ब्रह्म वेदेति च तथा, नैव तस्यार्थवादतः ॥(43)  
+फलोक्तेरर्थवादत्वं द्रव्यसंस्कारकर्मसु।  
+सर्वत्र दर्शनाच्छास्त्रे पर्णमय्यां फलोक्तिवत् ॥(44)  
+नैयोगिकस्यापि कैवल्यस्य नानित्यत्वमिति परिहरति --नैवमिति । नैवं स्यादिति संबन्धः । यत् कृतकं तदनित्यमिति स्मारयति ---कुत इति (40)  
+ मोक्षार्थी न प्रवर्तेत तत्र कामय्निषिद्धयोः ।  
+नित्यनैमित्तिके कुर्यात् प्रत्यवायजिहासया ॥  
+इति न्यायेन उक्तमुपादयति --निषिद्धेति । (41-42)  
+श्रुतत्यागेनाश्रुतोपादानमयुक्तमिति चोदयति --नन्विति । 'निचाय्य तं मृत्युमुखात् प्रमुच्यते '(का.1-3-15)'तमेव विदित्वातिमृत्युमेति'(श्वे.3-8)इत्यादिसमुच्चयार्थः चः । (43)ज्ञानफलश्रुतेरर्थवादत्वे स्वर्गकामश्रुतिरप्यर्थवादः स्यात, अत्राह--फलेति । 'द्रव्यसंस्कारकर्मसु परार्थत्वात् फलश्रुतिरर्थवादः स्यात् ।'(पू.मी.4-3-1)'यस्य पर्णमयी जुहूर्भवति न स पारपं श्लोकं श्रृणोति 'इति द्रव्ये फलश्रुतिः।  
+आत्मनः कर्मशेषत्वात् तद्धियः कर्मशेषता ।  
+विधिं त्वयानिच्छतापि ह्राभ्युपेयार्वादता ॥ (45  
+नैवं, तद्धेतुतद्रूपविरोधादितरेतरम् ।  
+मुक्तयभ्युदययोस्तमान्न सम्यग् भवतोदितम् ॥(46)  
+'यदाङ्क्ते चक्षुरेव भ्रातृव्यस्य वृङ्क्ते'इति संस्कारे । 'यत्प्रयाजानूयाजा इज्यन्ते वर्म वा एतत् क्रियते'इति कर्मणि । आसां फलविधित्वार्थवादत्वसन्देहे ,फलविधित्वेन पूर्वपक्षे, मान्तराधीनरचनपत्याशनकल्यत्वसाध्यसाधनसंबन्धप्रतिपादकलौकिकवाक्यस्य फलविधित्वेऽपि जुह्वादिद्वारा प्रकृतापूर्वशेषत्वे पर्ममय्यादीनां न फलान्तरहेतुत्वामिति फलश्रुतिरर्थवादः इति निरुपितमित्यर्थः । (44)फलश्रुतेरविवक्षितार्थत्वहेतुः परार्थत्वमिह नास्ति, इत्यत आह---आत्मन इति । कर्माङ्गसंस्कारतया ज्ञानस्य क्रियाश्षत्वमित्यर्थः । विधेयद्रव्यादिफलश्रुतेः अर्थवादत्वेऽपि विध्ययोग्यज्ञानफलश्रुतिः कथं तथा स्यात् , अत्राह--विधिमिति । पारार्थ्यमात्रं प्रयोजकमित्याशयः ।(45)  
+ ऐकभविकन्यायेनोक्तस्य कैवल्ये कर्मफलत्वस्य दूषणम्  
+कैवल्यं कर्मफलमित्येतत् दूषयति ---नेति । तयोर्हेतू--तद्धेतू रागवैराग्यपूर्वकौ, तयोः रुपे बन्धतद्धृंसात्मके। तयोर्विरोधात् मुक्यभ्युदययोः एकपुरुषासंबन्धः यस्मादित्यर्थः।(46)  
+स्वरुपेऽवस्थितिर्मुक्तिरात्मनो भवतोच्यते ।  
+काम्यादिर्जनादिभ्यः तस्याः सिद्धिश्च वर्ण्यते ॥(47)  
+तत्रात्मा किं स्वरुपे प्राक् न स्थितो येन तत्स्थितौ ।  
+हेतुं व्यपेक्षते यत्रात्, स्वरुपं हि न तद्भवेत् ॥(48)  
+स्वतोऽनवस्थितो यत्र हेतुना स्थाप्यते बलात् ।  
+अथावस्थित एवायं, किमर्थं हेतुमार्गणम् ॥(49)  
+कैवल्येऽपि च तत्सक्तेरनिर्मोक्षः प्रसज्यते ।  
+अतो निषिद्धकाम्यादिवर्जनान्नात्ममुक्तता ॥(50)  
+कैवल्यस्याकर्मफलत्वसमर्थनार्थं तत्पक्षमनुभाषते --स्वरुप इति (47)साधनानुष्ठानात्पूर्वमात्मा स्वरुपे न स्थितः, स्थितो वेति विकल्प्य, आद्दमनुवदति--तत्रेति । दूषयति --स्वरुपं हीति । हिशब्दो यस्मादर्थे । (48)तं विशदयति --स्वत इति । यत्र ----स्वरुपे अनवस्थितः, तत् स्वरुपं पश्चाद्भावि न भवेदित्यर्थः । द्वितीयमनूद्दापवदति--अथेति ।(49)मुक्तेरसाध्यत्वेऽपि हेतुमार्गणं तत्पालनार्थञ्चेत्,अत्राह---कैवल्येऽपीति । अनादिभावस्य पालनं व्यर्थमिति चकारस्यार्थः । निगमयति ---अत इति ।(50)  
+विषयाभ्यासजास्वास्थ्यनुत्त्यर्थमिति चेन्मतम् ।  
+स तु विषयसंपर्कः कस्माद्भवति कारणात् ॥(51)  
+अकस्माद्भवतः सक्तेर्मुक्तावप्यनिषेधतः ।  
+अनिर्मोक्षप्रसक्तिर्वः तथा सति समापतेत् ॥(52)  
+धर्माधर्मनिमित्तश्चेत्, किं पुनर्धर्मपातके।  
+अप्यसङ्गस्वभावस्य संपर्कं कुरुतो बलात् ॥(53)  
+भल्लातकाङ्कवद्वस्रे, न हि लोके स्फुरन्नपि ।  
+कुशलोऽपि कुलालः सन्नघटादिस्वभावकम् ॥(54)  
+मृद्वत् व्योम घटीकुर्यात् \*मरुद्वाग्रेश्च शीतताम् ।  
+आत्मा कर्त्रादिरुपश्चेत्, मा काङ्क्षीस्तर्हि मुक्तताम् ॥(55)  
+ काम्यादिवर्जस्य विषयसंपर्ककृतानुभवप्रयुक्तरागादिनिरासः  
+ फलमिति शङ्का, तन्निरासश्च  
+काम्यादिवर्जनस्य विषयसंपर्ककृतानुभवप्रयुक्तरागादिनिरासः फलमिति शङ्कते
+---विषयेति । धर्मादिकं विषयसंबन्धस्य कारणम्, उताज्ञानमिति विकल्पयति ---स त्विति । विषयसंबन्ः सकारणः, कार्यत्वात् घटवत् इति तुशब्दार्थः ।(51)  
+ विषयसंबन्धस्याकस्मात् संभवादप्रयोजको हेतुः अत्राह--अकस्मादिति । (52)प्रथमकल्पं शङ्कते ---धर्मेति । बलात् किं कुरुतः, नेत्यर्थः । (53)सभागतया ससङ्गे वस्त्रे भल्लातकभलेन चिह्नमिवेति व्यतिरेकद्दृष्टान्तमाह--भल्लतकेति ।अतत्स्वभावस्य तत्स्वभावत्वमशक्यसंपादनमित्येतत् द्दृष्टान्तेनाह---नहीति ।स्फुरन्-व्यापारातिशयवान्, कुशलोऽपि सन्--घटकरणपटुरपि ,व्योम न घटीकुर्यादित्यर्थः।  
+न हि स्वभावो भावानां व्यावर्त्येतौष्ण्यवद्रवेः ।  
+स्वभावाद्विनिवृत्तोऽर्थो निस्स्वभावः खपुष्पवत् ॥(56)  
+नाविनश्यन् यतो वह्निर्व्यावर्त्येतौष्ण्यतः क्वचित् ।  
+न च कर्त्राद्दनिर्मुक्तौ मुक्तिः संभाव्यतेऽन्यतः ॥(57)  
+ननु कर्तृत्वभोक्तृत्वकार्यमेवात्मसंसृतिः ।  
+न तु तच्छक्तिरित्येवं शक्तिमात्रतया स्थितौ ॥(58)  
+सर्वानर्थविनिर्मुक्तेरुपपन्नात्ममुक्तता ।  
+मैवं, भेदे तथाऽभेदे दोषः स्याच्छक्तिकार्ययोः ॥(59)  
+घटीकुर्यादित्यर्थः । असङ्गस्य कर्तृत्वादिशक्तिमतः इति मतमनुवदति
+--आत्मेति । कर्तृत्वादिनाशे मुक्तिः, उत तत्स्थितौ इति विकल्प्य आद्दं दूषयति ---मा काङ्क्षीरिति । (54-55)हेुमाह--नहीति । साधनानुष्ठानात् स्वभावोऽपि निवर्तताम्, अत्राह--स्वभावादिति ।(56)मन्त्रादिना वह्नेः स्वभावः औष्ण्यं निवर्तते, इत्यत्राह--नेति । कार्यमेव प्रतिबध्यते इत्यर्थः । द्वितीयं दूषयति--नचेति ।(57)  
+ आत्मनः कर्तृत्वादिकं न स्वभावः, किन्तु कर्तृत्वादिशक्तिरेवेति शक्तेरवस्थानेऽपि मुक्तेरुपपत्तिशङ्का,तन्निराकरणं च  
+आत्मनः कर्तृत्वादिशक्तिरेव स्वभावः, न कर्तृत्वादिः। अतः शक्तयवस्थानेऽपि मुक्तेरुपपत्तिः, इत्याह--नन्विति । शक्तेः सविषयत्वात् तत्स्थितौ कार्यमशक्यपरिहारमित्याशयात् दूषयति --मैवमिति । (58-59)भेददूषणं व्यनक्ति--शक्तीति।  
+शक्तितत्कार्ययोर्यस्मात् व्यतिरेको न विद्दते ।  
+नियमासंभवः प्रापत् व्यतिरेकस्तयोर्यदि ॥(60)  
+कार्यकारणता न स्यात् स्वतो भेदेन सिद्धयोः ।  
+अभेदे च तयोरैक्यात् कार्यकारणता कुतः ॥(61)  
+नाकुर्वत्कारणं द्दृषिटं कार्यञ्चाक्रियमाणकम् ।  
+अथाभेदस्तयोरिष्टः, कार्यध्वस्तौ प्रसज्यते ॥(62)  
+तच्छक्तेरपि विध्वंसः तयोरव्यतिरेकतः ।  
+शक्तिस्वरुपहाने च शक्तिमद्रूपनिह्नुतिः ॥(63)  
+तयोरव्यतिरेकत्वात् स एवायात्यनीप्सितः ।  
+निरात्मवादः पूर्वोक्तः, तस्मान्नैवं प्रकल्पयेत् ॥(64)  
+पूर्वापरभावेन तयोर्भेदः, इत्यत आह---नियमेति । भिन्नत्वाविशेषात् तिलशक्तया घटोऽपि स्यादित्यर्थः । (60)भिन्नयोः कार्यकारणभाववत् भेदे नियमोऽपि किं न स्यात्, अत्राह--कार्येति। अभेदपक्षं प्रतिक्षिपति--अभेदे चेति।(61)पूर्वसंबन्धनियमः कारणत्वम्, अपरसंबन्धनियमः कार्यत्वम्। न भिन्नत्वमभिन्नत्वं वा, अत्राह--नाकुर्वदिति। अकुर्वतः कारणत्वमक्रियमाणस्य कार्यत्वं द्दृष्टविरुद्धं प्रसजेदित्यर्थः । दोषान्तराभिधित्सुः अभेदपक्षदोषमनुभाषते --अथेति । दूषयति --कार्येति । शक्तितत्कार्यनाशो नानिष्टः, एवं सति मुक्तयुपपत्तेः, अत्राह--शक्तीति । ततो वा किम्, अत्राह--स एवेति । पूर्वोक्तः । पूर्वोक्तः--'निस्स्वभावः खपुष्पवत् '(वा.56)इत्यत्रोक्तः। (62-63-64)  
+मतं कार्यानभिव्यक्तिर्निमित्तासंभवाद्ददि ।  
+शक्तेरिति, न तद्दुक्तं शक्तिततद्धेतुसंभवात् ॥(65)  
+शक्तिरुपेण संबन्धो निमित्तानामपीष्यते ।  
+नैमित्तिकैरिति ततो वह्नयौष्ण्यादिसमानता ॥(66)  
+कार्यस्य शक्तिततन्त्रत्वे सर्वदा कारणस्थितेः ।  
+कार्योत्पत्तिः सदैव स्यात् निदाघे धर्मवद्दतः ॥67)  
+तथैव शक्तयतन्त्रत्वेऽप्येष दोषो यतो भवेत् ।  
+सदा कार्यं न जायेत कारणासंभवात्सदा ॥(68)  
+ शक्तितत्कार्यस्थितावपि कार्यानभिव्यक्त्या मुक्तेरुपपत्तिरिति  
+ शङ्का, तन्निराकरणं च  
+शक्तितत्कार्यस्थितेः न नैरात्म्यप्रसक्तिः, नापि मुक्तेरनुपपत्तिः, कार्यानभिव्यक्तयैव तदुपपत्तेः, इ(त आ)त्याह--मतमिति। कैवल्यमितित शेषः।  
+धर्माधर्मभोगवासनानामसंभवादित्यर्थः। कार्यानभिव्यक्तिर्न संभवति, इत्याह-- न तदिति । शक्तेः--उपादानकारणस्य, तद्धेतूनां --निमित्तानां धर्मादीनां संभवादित्यर्थः । (65)मुक्तौ कर्तृत्वादिकार्यस्य धर्मादिभिरसंबन्धादनभिव्यक्तिः, अत्राह--शक्तीति । शक्तानामेव संसर्गात् सर्वत्र शक्तेरनाशादित्याशयः।निगमयति --तत इति । इतिशब्दो हेतौ। यस्मादेवं, तस्मात् कर्तृत्वादि वह्नयौष्ण्यादिवदभिव्यक्तमेव भवेदित्यर्थः । (66)कर्तृत्वादेः, सति पुष्कलकारणे जन्म नियतं न वेति विकल्प्य, प्रथमं प्रत्याह--कार्यस्येति । प्रलयाद्दपि न भवेदित्यर्थः।(67)द्वितीयं दूषयति
+--तथैवेति । एषः दोषः--वक्ष्यमामः । तमाह--सदेति ।  
+निदाघे शीतवत् यस्मादतोऽसम्यगिदं वचः ।  
+निष्कारणस्य चोद्भूतौ कार्यजन्म सदा भवेत् ॥(69)  
+कार्यता वा कुतोऽस्य स्यात् न चेत्कारणतन्त्रता ।  
+न च शक्यं प्रतिज्ञातुं जन्मारभ्याऽऽमृतेर्नृभिः॥(70)  
+निषिद्धकाम्यकर्मादिवर्जनं निपुणैरपि ।  
+सूक्ष्मापराधसंद्दृष्टेरतियत्नवतामपि ॥(71)  
+वि कारणं कार्यं किं न स्यात, अत्राह--निकारणस्येति । (68-69)कारणसमवेतत्वं कार्यत्वम् । तदपि निष्कारणस्यायुक्तम्, इत्याह--कार्येति । तस्मादज्ञानमेव विषयसंपर्ककारणम्, तच्च ज्ञानमात्रापनोद्दमिति भावः ।  
+ निषिद्धकाम्यवर्जनादीनामनुष्ठानमशक्यमिति निरुपणम्  
+साधनानुष्ठानात्प्राक् आत्मनः स्वरुपेऽवस्थाने, अनवस्थाने च न काम्यादिवर्जनं मुक्तिसाधनमित्युक्तम् । इदानीं तदनुष्ठनमपि न शक्यमित्याह--न चेति ।(70)निषिद्धकाम्यकर्मादिवर्जनमिति । निषिद्धकाम्यत्यागः विहितानुष्ठानं च न शक्यप्रतिज्ञं, दूरे अनुष्ठानम् । भीमाग्रजादीनामपि सूक्ष्मापराधदर्शनादित्यर्थः। (71)'कालोऽप्ययं निरवधिः विपुला च पृथ्वी 'इति न्यायात्, पुंसां विचित्रशक्तित्वाच्च कदाचित् क्वचित् कश्चित् एतदनुष्ठास्यति, इत्यत्राह--संशयस्त्विति । तुरत्र शङ्काव्यावर्तकः ।साधकबाधकयोरभावे सन्देरः स्यादेवेत्यर्थः ।  
+संशयस्तु भवत्येव पक्षासिद्धिस्तु तावता ।  
+अथ चेन्मोक्ष्यते सोऽत्र यस्य संपत्स्यते तथा ॥(72)  
+त्वदुक्तेर्नैतदेवं स्यादवक्तव्यत्वहेतुतः ।  
+निश्चितं साधनं वाच्यं ज्ञानं निःश्रेयसं प्रति॥(73)  
+न तु याद्दृच्छिकी सिद्धर्वक्तव्येह विपश्चिता ।  
+देवगोचर एवैषः न तु मानुषगोचरः ॥(74)  
+संशयातदपि कृष्याद्दारभ्भवत् प्रवृत्तिः, अत्राह--पक्षेति। अद्दृष्टार्थप्रवृत्तिः निश्चयादेवेत्यर्थः। अन्यत्र प्रमितस्यान्यत्र संशयविषयत्वात्, क्वचित् केनचित् कदाचित् एतच्छक्यानुष्ठानं भविष्यति । ततश्च संशयेऽप्यस्मत्पक्षसिद्धिरिति शङ्कते--अथेति । (72)दूषयति
+---त्वदुक्तेरिति । अवक्तव्यत्वमुपपादयति --निश्चितमिति। इदमस्य साधनं शक्यानुष्ठानं चेति निश्चितमेवाद्दृष्टार्थिनं प्रत्युपदेष्टव्यमित्यर्थः(73)संशयविषयस्यान्यत्र सत्त्वमुक्तम्, अत्राह-- न त्विति । पूर्वद्दृष्टमेव संशयगोचरः,नप्रमितम्, व्यतिरेकाभावात् । पूर्वदर्शनं तु भ्रान्त्युत्प्रेक्षादिनापि भवेदिति भावः । अतो दुरनुष्ठान एवायमुपायः इत्याह --देवेति ।74)  
+सहकर्त्री भवेच्छक्तिरिति न्यायाद्भवेद्ददि ।  
+मनुष्यगोचरोऽपीति, नाख्यातासंभवात्तथा ॥(75)  
+मुक्तयर्थी न हि काम्यादि वर्जयेदिति चोदना।  
+अस्ति वेदे क्वचित्, येन शक्तेर्विध्येकदेशता ॥(76)  
+काम्यादिवर्जनं त्वेतत् स्वमतिप्रभवं यतः ।  
+नातः शक्तेस्तदंशत्वं कथञ्चिदपि युज्यते ॥ (77)  
+नित्यादिकरणान्नापि काम्यादेश्चापि वर्जनात् ।  
+श्रेयः संभाव्यते विद्दानिष्फलत्वप्रसङ्गतः ॥(78)  
+आख्यातानामर्तं ब्रुवतामधिकारिशक्तिः सहकारिणी, अधिकारिणः प्रमितिजनको वेदः इति न्यायात् (अतो) मनुष्याधिकारत्वमिति शङ्कते ---सहकर्त्रीति । नैवमित्याह --नेति ।(75)कर्तृशक्तेः वैदिकाख्यातसहकारित्वम्, उत स्मार्ताख्यातसहकारित्वम्, नाद्दः इत्याह--मुक्तयर्थीति । (76)'मोक्षार्थी न प्रवर्तेत'इति स्मार्ताख्यातस्येति द्वितीयमाशङ्कयाह--काम्यादीति । 'नान्यः पन्थाः । (तै.आ. 3-12-7)'विद्दयामृतमश्नुते'(ईशा.11)इत्यादिप्रत्यक्षतवेदविरोधादुदहृतवचनं भ्रममूलमित्यर्थः ।(77)  
+ काम्यादिवर्जनस्यानुष्ठातुं शक्यत्वेऽपि न तेन  
+ कैवल्यसिद्धिरिति निरुपणम्  
+काम्यादिवर्जनमभ्युपगम्य न ततः कैवल्यसिद्धिः, इत्याह--नित्यादीति । नैमित्तिकमादिपदार्थः। 'निचाय्य तं मृत्युमुकात्प्रमुच्यते '(का.1-3-15)इति श्रूयमाणं विद्दायाः कैवल्यसाधनत्वं स्यादित्यर्थः । (78) आगामिदेवदेहयोगवारणाय काम्यवर्जनमूरीक्रियते।  
+का्यात् स्वर्गादिकं मा भूदक्रियायां तदुद्भम् ।  
+अर्थान्तरात् स्वभावाद्वा भवन्न तु निवार्यते ॥(79)  
+अन्यतो भवने मानं न चेदस्त्विह संशयः ।  
+एतावतापि पक्षस्ते प्रतिबद्धो न सिद्धयति ॥(80)  
+अथैतयोरिति तथा चोदनार्थातिलङ्घिनाम् ।  
+सुखदुःखादिसंद्दृष्टेर्न चाप्यस्तीह संशयः ॥(81)  
+तन्न सिद्धयतीत्याह--काम्यादीति । निषिद्धादपीति द्रष्टव्यम् । स्वर्गादिकमिति नरकोपादानात् । अक्रियायां ---काम्यादेरकरणे । तदुद्भवं स्वर्गादिकं काम्यात् निषिद्धाच्च माभूत् । तथापि 'इष्टापूर्तादिहेदुनाम् '(वा. 92) इत्यत्र वक्ष्यमाणार्थान्तरात्, स्वभावात्
+--कुरुक्षेत्रवासनिमित्तपुण्यात् कोक(टादर्श) (टदेश) वासनिमित्तपापाच्च, भवदशक्यवारणमित्यर्थः। (79) अर्थान्तरात् संसारो भवतीत्यत्र प्रमाणाभावात् वर्णितचरितस्य कैवल्यमावश्यकमिति शङ्कते--अन्यत इति । अभनेऽपि मानाभावात् सन्देहः स्यादिति दूषयति ---अस्त्विति । किमतः, अत्राह--एतावतेति ।(80)संशये मत्पक्ष इव तन्निषेधद्वारकत्वत्पक्षोऽपि न सिद्धयेत, अत्राह--अथेति । नित्यकर्मणामफलत्वात्,देवयानपितृयाणप्राप्तिसाधानपरित्यागात्, उक्तिचरितानां 'अथैतयोः न कतरेण चन'(छा. 5-10-8)इत्यादिश्रुततृतीयस्थानप्राप्तेः उक्तोपायात् मोक्षो नास्तीति निश्चय इत्यर्थः ।(81)  
+नित्यस्याकरणे दोषः तत्क्रियायां न यद्दपि ।  
+अन्यतोऽसौ स्वभावाद्वा न तु मानेन वार्यते ॥(82)  
+नित्यादेः फलमिष्टं चेतुपात्तदुरितक्षयः।  
+तथाप्यागादिदोषेष्वाशङ्का पूर्ववदुद्भवेत् ॥(83)  
+अनभीष्टफलानां च दुरितत्वात् क्षयो भवेत् ।  
+नत्वाभ्युदयिकानां स्यादभीष्टत्वात् क्षयस्तव ॥(84)  
+सर्वेषां दुष्टता चेत् स्यात् न विधानाददुष्टता ।  
+नापि श्येनादितुल्यत्वं फलदोषेण दुष्टता ॥(85)  
+ नित्यानुष्ठनस्य कैवल्याप्रयोजकत्ववर्णनम्  
+ऐकभविकतवस्य पराकरिष्यमाणत्वात्, यथा जन्मान्तरीयकाम्यादिसंभवात् वर्जनमप्रयोजकम् ,एवं जन्मान्तरीयनित्याकरणसंभवात् नित्यानुष्ठानमप्रयोजकमित्याह--नित्यस्येति।...वरा!कीकटदेशवासः स्वभावः। (82)'धर्मेण पापमनुदति'(महाना. 17-6)इति श्रवणात् ऐहिकनित्यनैमित्तिककरणात् प्राक्तनतत्तदकरणादिप्रयुक्तप्रत्यवायादिपरिहारः, इति शङ्कते
+---नित्यादेरिति । मुमुक्षोरिष्टफलत्वात् काम्यमपि दुरितमेव । आगामितदकरणादिप्रयुक्तशरीरग्रहसंशयेन परिहरति--तथापीति। पूर्ववदिति 'अस्त्विह संशयः'(वा.80)इत्येतल्लक्षयति । (83)(सुवासेष) (अस्तु वाऽशेष ) दुरितक्षयनिश्चयः, तथापि प्राक्तनाक्षीणपुण्यनिमित्तशरीरग्रहणं स्यात्, इत्याह--अनभीष्टेति । (84)मुमुक्षुं प्रति धर्मोऽप्यनिष्टफलत्वात् अधर्मः इत्युक्तं स्मारयति ---सर्वेषामिति। विमतमदुष्टं विहितत्वात् अग्निहोत्रवत् इत्याह--नेति । श्येनेनाभिचरन् यजेत इति विहितश्येनादौ व्यभिचारः, इत्यासङ्कयाह--नापीति। न हिंस्यादिति फलनिषेधात् श्येनादेर्दुष्टत्वम् । अनिषिद्धफलत्वे सति कर्तव्यतया बोधितव्यं विहितत्वमित्यर्थः । (85)सञ्चितकर्मणामैकात्म्यज्ञानान्निवृत्तिरिति, निरुद्धः पर आह--ऐकात्म्येति। कर्मणां साक्षात् मोक्षहेतुत्वं प्रमाणप्रयोजनविकलमिति दूषयति ---व्यर्थेति। ज्ञानस्यापि तत्तुल्यम्, अत्राह--प्रधानत्वंचेति । कर्णां ज्ञानेच्छासाधनत्वप्रदर्शितद्वारा ज्ञानस्य साक्षात् मोक्षहेतुत्वं दर्शितमित्यर्थः । (86)विषयसौन्दर्यज्ञानमात्राधीनेच्छायां निमित्त्वानुपपत्त्या कर्मणां मोक्षहेतुत्वम्, अत्राह--तत इति । कर्मणा शुद्धबुद्धेः विरक्तस्य ज्ञानेच्छा स्यादित्यर्ः । (87)कर्मणां धीहेतुत्वे यावद्विद्दोदयमनुष्ठेयत्वात् न सन्नयाससिद्धिः, अत्राह--तेनेति । वेदतत्त्ववित् ---श्रुतितात्पर्यवित् । ऐकात्म्यज्ञानं
+---कर्मत्यागपूर्वकश्रवणादिकम् । (88)एतज्जन्मानुष्ठितनित्यकर्मणः तप(तः)(सः) शुद्धिहेतुत्वात् न प्रथमाश्रमादेव सन्नयाससिद्धिः, अत आह--यस्त्विति ।  
+आदावेवाधिकारी स पुनः कर्म न वीक्षते ॥(89)  
+विरक्तस्य तु जिज्ञासोर्मानान्नान्यव्यपेक्षणम् ।  
+कर्मापेक्षा हि साध्येऽर्थे, सिद्धेऽर्थे तदनर्थकम् ॥(90)  
+वामदेवस्य मैत्रेय्या गार्ग्याश्चैव समञ्जसम् ।  
+दर्शनं, ब्रह्मचर्यादेस्तथा प्राव्राज्यशासनात् ॥(91)  
+इष्टापूर्तादिहेतूनामानन्त्यात् स्वर्गसिद्धये ।  
+हेत्वन्तरासंभवोऽतो दुर्ज्ञानः संभवाद्भवेत् ॥(92)  
+अधिकारी पारिव्राज्ये इति शेषः ।(89)हेतुमाह--विरक्तस्येति । अज्ञाननिवृत्तेः ज्ञानमात्रफलत्वादित्यर्थः। ब्रह्मस्वभावः तर्हि कर्मफलमिति, नेत्याह---कर्मेति । (90)जन्मान्तरानुष्ठितकर्मणां शुद्धिद्वारेण ज्ञानहेतुत्वलिङ्गमाह--वामदेवेति । अस्मिन् जन्मनि कर्मरहितस्य वामदेवस्य गर्भस्थ एव वामदेवः प्रतिपेदे इति श्रूयमाणं ज्ञानं जन्मान्तरकर्मणः तद्धेतुत्वं गमयति ।  
+ यावन्त्यन्यानि जन्मानि तेषु नूनं कृतं भवेत् ।  
+ यत्कृत्यं पुरुषेणेह नान्यता ब्रह्मणि स्थितिः ॥  
+इति परमऋषेः ब्रह्मचर्यादेव पारिव्राज्यचविधानं, कर्मानधिकृतमैत्रेय्यादेः ब्रह्मदर्शनं च लिङ्गमित्यर्थः ।(91)  
+ 'अर्थान्तरात् '(वा.79)इति प्रागीरितम् । इतं तदिति नोक्तम् । तद्दर्शयति--इष्टेति । अग्निहोत्रादिकमिष्टम्। वाप्यादिकं पूर्तम्। शरणागतपरिपालनादि दत्तम् । तेषां जन्मान्तरसञ्चितानामभुक्तफलानां संभवात् इत्यतो हेतोः हेत्वन्तरासंभवो दुर्ज्ञानः इत्यर्थः।(92)अस्मिजन्मनि प्रतिषिद्धपरित्यातेऽपि जन्मान्तरसञ्चितानां काम्यवत् संभवः, इत्याह--एवमिति ।  
+एवं निषिद्धवाक्येषु यथोक्तं न्यायमादिशेत् ।  
+नित्यकर्मवचस्स्वेवं नातो मुक्तिविनिश्चयः ॥(93)  
+अनेकजन्ममोपात्तस्य पुण्यापुण्यस्य कर्मणः ।  
+अनन्तदेहहेतोश्च विप्रघातस्य संभवात् ॥(94)  
+ततश्शेषेण वचनात् तथा तद्द इहेत्यतः ।  
+निषिद्धवाक्येषु--प्रतिषिद्धचोदनालक्षणेष्वित्यर्थः । जन्मान्तरे नित्यानामकरणप्रयुक्तप्रत्यवायादपि शरीरग्रहः स्यादित्याह--नित्येति । नित्यकर्मवचस्सु---नित्यकर्मशब्दवाच्येष्विति यावत् । हेत्वन्तरसंभवादनुष्ठितसाधनास्यापि न मुक्तिरित्याह--नात इति ।(93)  
+ प्राक्तनसकलकर्मणामेकजन्मारम्भकत्वनिरसनेन काम्यादिवर्जनस्य  
+ मुक्तिहेतुत्वनिरासः  
+एकजन्मारम्भकत्वम प्राक्तनसकलकर्मणामूरीकृत्य काम्यादिवर्जनं मुक्तिसाधनमुच्यते । तन्न युक्तमित्याह--अनेकेति । अनन्तजन्मसञ्चितविरुद्धफलानन्तकर्मणां नैकदेहारम्भकत्वमित्यर्थः । चरमशरीरे विद्दातिशयादिना भुज्यमानं सुखं प्राक्तनपुण्यकृतम् । साधनानुषठानायाजनितं दुःखं पापफलम् । अतो नैकभविकत्वविराधः, अत्राह--अनन्तेति । विप्रघातः--ब्राह्मणवधः ।तस्यानेकशरीराम्भणफलहेतुत्वम्,  
+ श्वशूकरखरोष्ट्राश्वगोऽजाविमृगपक्षिणाम् ।  
+ चण्डालपुल्कसानां च ब्रह्महा योनिमृच्छति ॥ (मनु.12-55)  
+इति स्मृतेरित्यर्थः । (94)अभुक्तफलकर्मसद्भावे प्रमाणमाह--तत इति । 'वर्णा आश्रमाश्च स्वकर्मनिष्ठाः प्रेत्य कर्मफलमनुभूय, ततः शेषेण विशिष्टदेशजातिकुलरुपायुश्श्रुतवृत्तवित्तसुखमेधसो जन्म प्रतिपद्दन्ते, विष्वञ्चो विपरीता नश्यन्ति। '(गौ.1-2-27)इति स्मृतेः 'तद्द इह रमणीयचरणाः रमणीयां योनिमापद्देरन्'(छा.5-10-7)इत्यादिश्रुतेश्च, अनारब्धफलेहानां--  
+अनारब्धफलेहानां गम्यते संस्थितिस्ततः।(95)  
+फलं नित्यस्य नापीह दूरितक्षयमात्रकम् ।  
+फलान्तरश्रुतेः साक्षात् तद्दथाम्रस्मृतेस्तथा॥(96)  
+आम्रे निमित इत्यादि ह्रापस्तम्बस्मृतेर्वचः ।  
+फलवत्त्वं समाचष्टे नित्यानामपि कर्मणाम् ॥(97)  
+उक्तमेव तु संशीतावियं त्वत्र विनिश्चितिः ।  
+अनारब्धफलकर्मणां संस्थितिरित्यर्थः ।(95)  
+ नित्यकर्मणां प्रत्यवायपरिहारातिरिक्तफलवत्त्वनिरुपणम्  
+नित्यकर्मणः प्रत्यवायपरिहारमात्रं फलभ्युपगम्योक्तम् । इदानीं न तन्मात्रं फलमित्याह---फलमिति । फलान्तरश्रुतेः---'कर्मणा पितृलोकः;(बृ.3-5-19)इति श्रुतेः, नित्यस्य करणे पितृलोकप्राप्तेः, अकरणे नरकप्राप्तेरमुक्तिरित्यर्थः।(96)स्मृतिं विविच्य दर्शयति--आम्र इति । 'तद्दथाम्रे फलार्थेनिमिते छाया गन्ध इत्यनूत्पद्देते, एवं धर्मं चर्ममाणमर्था अनूत्पद्दन्ते । '(आ.ध.1-7-20-3)इति स्मृतिः। (97)फलितमाह--उक्तमिति 'अन्यतो भवने मानं न चेत्'(वा.80)इत्यत्र कैवल्यस्य संशयकारणत्वमुक्तम्। इयं तु अत्र विनिश्चितिः --नित्यकर्मणामवश्यफलत्वात् अनुष्ठितसाधनस्य(न)मुक्तिरेवेति ।  
+\*कार्यमारभते शक्तिः यत्किञ्चेह व्यवस्थिता ॥(98)  
+यस्मादसति कार्येऽसौ शक्तिरेव न सिद्धयति ।  
+कार्यकारणयोः सिद्धिरन्योन्याव्यतिरेकतः ॥(99)  
+कर्तृभोक्तृस्वरुपेऽतो ह्राभ्युपेतेऽन्तरात्मनि ।  
+न मुक्तयाशास्ति पूर्वोक्तन्यायमार्गसमाश्रयात् ॥(100)  
+सापराधत्वतो मुक्तिः संदिग्धैव प्रसज्यते ।  
+द्विजातीनां, खरादेस्तु त्वदुक्तया स्यादसंशयम् ॥(101)  
+ पूर्वोक्तस्य शक्तिवाददूषणस्योपसंहारः  
+'आत्मा कर्त्रादिरुपश्चेत् '(वा.55)इत्यारभ्य 'कार्यता वा कुतोऽस्य स्यात्'(वा.(70)इत्यन्तेन दूषितं शक्तिवादमुपसंहरति---कार्यमिति ।(98)हेतुमाह--यस्मादिति ।शक्तेराश्रयविषयनिरुप्यत्वादित्यर्थः। कार्योत्पत्तेः प्राक् सती शक्तिः उत्तरकालं कार्यलिङ्गनानुमीयताम् । अतो न सदा कर्तृत्वादिशक्तिः, अत आह--कार्यकारणयोरिति । कुर्वतः कारणकत्वात् क्रियमाणस्य च कार्यत्वादित्यर्थः । (99)अतः शक्तिपक्षे मोक्षसिद्धिः, इत्याह--कर्त्रिति (100)  
+ सिंहावलोकनन्यायेन परकल्पिते कैवल्योपाये दोषान्तरकथनम्  
+सिंहावलोकननीत्या परपरिकल्पितोपायेऽनिष्टान्तरमाह--सापराधत्वत इति । उपायादिकृतानां विहिताकरणप्रत्यवायसंभवादसूक्तिः, अनधिकृतगर्दभादेः ऐकभविकन्यायेन पूर्वसञ्चितानां क्षयात् जन्मान्तरारम्भकाभावात् मुक्तिरित्यर्थः। (101)  
+ननूक्तं कर्मशेषत्वमात्मनो यागकर्तृता ।  
+\*नैतदेवं, यतो नैतत्कर्माङ्गं ज्ञानमिष्यते ॥(102)  
+कर्तृत्वमात्मनः सिद्धं यतोऽन्यत्रापि यागतः।  
+निश्शेषकर्मकारित्वात् तस्मादुक्तमपेशलम् ॥(103)  
+न ह्रात्मज्ञानविरहात् कर्म कर्तुं न शक्यते ।  
+पर्णज्ञानमृते यद्वत् जुहूर्लातुं न शक्यते ॥(104)  
+देहान्तराभिसंबन्धी नन्वात्मारतीत्यजानतः ।  
+विवेकिनो न युक्तेयं प्रवृत्तिः पारलौकिकी ॥(105)  
+ आत्मज्ञानस्य कर्माङ्गत्वनिरासः  
+इत्थं दर्शनमेव कैवल्यसाधनमिति साधनभेदसिद्धौ अधिकारिभेदः सिद्धः। अधुना 'आत्मनः कर्मशेषत्वात्'(वा.45)इति प्रागुक्तं परः स्मारयति --नन्विति । कर्मशेषत्वं, ज्ञानस्येति शेषः। (सः)औपनिषदात्मज्ञानस्य अकर्माङ्गत्वे(न) निदर्शनत्वेन व्यवहारसिद्धात्मदर्शनस्याकर्माङ्गत्वे दर्शयन् परिहरति
+--नैतदिति । (102)नेत्यभ्युपगमात् नार्थवृत्तिः अति प्रसङ्गात्, अत्राह--कर्तृत्वमिति । विनियोजकप्रमाणाभावे अव्यभिचरितक्रतुसंबन्धजुहूद्वारेण पर्णमयत्वस्येव कर्माङ्गत्मद्वारेण तद्धियः क्रियाप्रवेशो न युक्तः असाधारणोपकारकत्वाभावादात्मन इत्यर्थः। (103)संप्रति औपनिषदात्मज्ञानस्य क्रियाङ्गत्वं निराकरोति ---न हीति । लातुं ---आदातुम् । ऐकात्म्यधियः अशेषकर्तृत्वाद्दुपमर्दकत्वेन विरोधित्वात्, अनुपकारित्वाच्च सुतरामकर्मशेषत्वमित्यर्थः। (104)औपनिषदात्मज्ञानं कर्माङ्गं वैदिकात्मज्ञानत्वात् व्यतिरिक्तात्मज्ञानवत् इत्याशयवानाह --देहान्तरेति।(105)  
+एवं तर्हि न कर्माङ्गं क्रर्तुश्चेष्टैकहेतुतः ।  
+फलार्थिवन्न च ज्ञानं क्रियाङ्गत्वेन चोदितम् ॥(106)  
+नन्वेवमपि सिद्धः स्यात् प्रवेशः सर्वकर्मसु ।  
+आत्मज्ञानस्य सामर्थ्यात् न नाम विधिसंश्रयात् ॥(107)  
+नैतदेवमविज्ञाततत्त्वस्यैवेह कर्मसु ।  
+अनात्मार्थविशिष्टस्य ह्राधिकारित्वहेतुतः ॥(108)  
+\*स्वरुप आत्मनः स्थानमाहुर्निः श्रेयसं बुधाः ।  
+आत्मनः परलोकसंबन्धज्ञानं प्रेक्षावतः साधनानुष्ठानहेतुत्वात् फलरागतव्त न कर्माङ्गमिति परिहरति ---एवमिति । ज्ञानस्य क्रियाङ्गत्वं 'विद्वान् यजते 'इत्यादिना विहितम्,अत आह--न चेति । क्रियाप्रकरणसमाम्नातद्रव्यदेवताज्ञानवान् विद्वानुच्यते इत्यर्थः।(106) (परेशे)(पार) लौकिकप्रवृत्त्यनुपपत्त्या आत्मज्ञानस्य क्रियाप्रवेशे सिद्धे सति आज्यावेक्षणवत् क्रियाशेषत्वमनुमीयते इति शङ्कते --नन्विति । समर्थ्यात् --अनुपपत्तेरित्यर्थः।(107)व्यतिरिक्तात्मज्ञानस्य क्रियाशेषत्वेऽपि नौपनिषदात्मज्ञानं क्रियाशेषमिति परिहरति--नैतदिति। ब्रह्मणः गृहस्थः इति ब्राह्मणत्वगृहस्थत्वादिधर्मविशिष्टदेहात्माभिमानिनोऽधिकारादित्यर्थः। (108)देहात्माभिमानो गौणः, नाध्यासः इति प्रसङ्गदाशङ्कयाह--स्वरुप इति । स्वात्मा  
+ततोऽन्येनाभिसंबन्ध आत्मनोयऽज्ञानहेतुकः ॥(109)  
+आगन्त्वनात्मरुपं तत् स्वसंवित्त्यैव गम्यताम् ।  
+नातोऽवाप्तपुमर्थस्य स्वरुषावस्थितस्य तु॥(110)  
+कर्तृभोक्त्रादिरुपत्वं प्रत्यगज्ञानतोऽन्यतः ।  
+कर्म तत्फलभोगश्च बाह्यानि करणानि च ॥(111)  
+ततोऽपि बाह्यो देहश्च जातिस्तत्समवायिनी ।  
+जरामरणजन्मानि देहाधिकरणानि च ॥\*(112)  
+वस्थानकैवल्यस्य स्वाभाविकत्वात् अन्यसंसर्गरुपमस्वास्थ्यमज्ञानकृतमित्यर्थः। (109)देहादिरनात्मा (अ) कल्पितकार्यत्वात् रज्जुसर्पवत् इत्याह--आगन्त्विति । जडस्य स्वतः परतश्च सिद्धयसंभवात् अध्यस्तत्तवमित्याह--स्वसंवित्त्येति । अन्यसंबन्धस्य कल्पितत्वात् कर्तृत्वादिकमात्मनः प्रत्यगज्ञानतः, नान्यतः इति फलितमाह--नात इति । कर्तृत्वादिः नात्मधर्मः द्दृश्यत्वात् रुपवत् इति तुशबदार्थः।  
+ आत्मनः कर्तृत्वं न वास्तवमिति निरुपणम्  
+ज्ञानचिकीर्षाप्रयत्नाधरत्वं कर्तृत्वं वास्तवमिति स्वीकारे किं बाधकमिति, तदुपपादनाय अधिकारकारणमनुक्रामति---कर्मेति । पूर्वकृतं कर्म वासनया कार्यानुष्ठाने हेतुः भोगः रागद्वारा, करणानि आज्यावेक्षणद्वारा। चकारात् चरुपुरोडाशादीनि । (111)जातिः ---ब्राह्मणत्वादिः बृहस्पतिसवादौ , जरा वनवासे, मरणमन्येष्टौ , जन्म चातकर्मादौ। (112)दाराः अग्निहोत्रादौ। जातपुत्रोऽग्नीनादधीत इति पुत्रः अग्नयाधाने। आदिपदेन देशकालगंग्रहः ।  
+दारपुत्रधनादीनि देहबाह्यानि यानि च ।  
+कर्माधिकारहेतूनि स्वतो ह्यनधिकारिणः ॥(113)  
+अभिन्नस्यात्मनो मोहाद् भेदकानीति मन्वते ।  
+विशेषणं स्वरुपं वा नान्योऽन्यस्य स्वतो यतः ॥(114)  
+लोके द्दृष्टं विनाऽविद्दां, मोहादद्दृष्टं तु सर्वतः।  
+चोरोऽसौ मामभिप्रैतीत्येवं चोरविशेषणम् ॥(115)  
+स्थाणुं संभावयत्यज्ञो न तु द्दृष्टं तमो विना ।  
+नन्वविद्दामृतेऽन्यन्यत् द्दृष्टमन्यविशेषणम् ॥(116)  
+कर्माधिकारे हेतुत्वं येषां तानि--कर्माधिकारहेतूनि इति भावपरो निर्देशः। तत्र युक्तिः----स्वत इति । असङ्गत्वादिति हिशब्दार्थः। (113)हेत्वन्तरमाह---अभिन्नस्येति । अद्वितीयस्येत्यर्थः। भेदकानि--व्यावर्तकानीति यावत् । देहादेः आत्मतादात्म्यं, आत्मविशेषणत्वं च न भाविकम्, अपि तु अविद्दाकृतमित्यत्र किं प्रमाणम्!अत आह--विशेषणमिति । (114)मानाभावेन भाविकत्वं निराकृत्य, कल्पितत्वे मानमाह---मोहादिति । सर्वतः---सर्वत्र। देहादि कल्पितं,अन्यात्मना भासमानत्वाद अन्यस्य विशेषणत्वाच्च रज्जुसर्पादिवदित्यर्थः। सर्वतः इ(त्ययु)(त्यु)क्तं कुत्र, इत्यत आह--चोरोऽसाविति । (115)विशेषणत्वादिति हेतोः व्यभिचारमाह--नन्विति। (116)उपगोरपत्यमौपगवः । तत्र तद्धितार्थस्यापत्यस्य प्रकृत्यर्थ उपगुः विशेषणम् । आदिपदेन(कक)(कङ्क)चिदग्निचिदादिसंग्रहः । तादात्म्येन विशेषणत्वस्य हेतुत्वात् न व्यभिचारः, इत्याह---नैतदिदि। (117)  
+औपगवो नृपहयस्तथा श्येनचिदादयः ।  
+नैतदेवं, यतस्तत्र नैवं प्रत्यक्तयेष्यते ।  
+अन्येनान्यस्य संबन्धः कृशोऽहमितिवत् क्वचित्॥(117)  
+उपग्वादिर्हि पित्रादिः प्रकृत्यर्थो विशेषणम् ।  
+भिन्नस्यौपगवापत्यप्रत्ययार्थस्य गम्यते ॥(118)  
+नैवं कर्त्रादिदेहान्तान् जात्यादीन्देहगांस्तथा ।  
+व्यतिरेकतया कश्चिद्विशिनष्टीह मानवः ॥(119)  
+यत आत्मतयैवैतैर्विशिनष्टयविशेषणम् ।  
+करोम्यन्धो द्विजो बालो दग्धश्छिन्नोऽहमित्यपि ॥(120)  
+विशिष्टोऽप्ययं हेतुः व्यभिचारी, इत्यत आह--उपग्वादिर्हीति। स्पष्टभेदप्रतिभास एव तत्र विशेषणविशेष्यत्वप्रतिभानमित्यर्थः। (118)  
+ कर्तृत्वादेरपि प्रतीतभेदस्य विशेषणत्वादसिद्धो हेतुः, अत्राह--नैवमिति । कर्त्रादिदेहान्तान्--अन्तः कर्णप्रभृतिशरीरावसायानिति यावत् । (119)कर्त्रादेर्विशेषणत्वं विशेष्यव्यतिरेकावगतिपूर्वकं, विशेषणत्वरुपत्वात् प्रकृत्यर्थादिविशेषणत्ववत् इत्याशङ्गय, अनुभवविरोधमाह--यत इति । (120)अभेदेन, भिन्नानामविद्दामन्तरेण विशेषणत्वे किं बाधकम् ?अत्राह---नाविद्दामिति ।  
+नाविद्दामन्तरेणैषां विशेषणविशेष्यता ।  
+इयमेवात्मनो ज्ञेया कर्माधिकृतिकारणम् ॥(121)  
+अधिक्रियन्ते येनैते बृहस्पतिसवादिषु ।  
+अतोऽनवगतैकात्म्यकर्माधिकृतिहेतुतः॥(122)  
+श्रुत्यादिमानप्रमितप्रत्यग्याथात्म्यनिष्ठितम् ।  
+सर्वकर्मसमुच्छेदि ज्ञानं वेदान्तमानजम् ॥(123)  
+तन्मूलाज्ञानघातित्वात् ज्ञानस्येह प्रसिद्धितः॥(124)  
+न तु प्रवर्तकं, तस्मान्नार्थवादत्वसंभवः।  
+फलोक्तेः, पर्णमय्यां तु युज्यते कर्मशेषतः ॥(125)  
+अङ्गीकृतसाधनभङ्ग इत्यर्थः ।अविद्दामूलविशेषणवतः कर्माधिकारादज्ञस्य कर्माधिकारित्वमित्युपसंहरति ----इयमिति । इयमेव---विशेषणविशेष्यतेत्यर्थः । (121)येन ---ब्रह्मणत्वाद्दयध्यासेन । एते --कर्मिणः इत्यर्थः । अज्ञस्य कर्माधिकारित्वे ज्ञानस्य तद्विपरीताधिकारित्वम्, अतो न कर्माङ्ता इत्याह---अत इति । अनवगतमैकात्म्यं येन, तस्य कर्माधिकृतिहेतुतः
+----कर्मण्यधिकारोद्धेतोः, ज्ञानं न प्रवर्तकमिति (वा.--125)संबन्धः । (122 श्रुत्यादीति मननादिसंग्रहः । (नं प्रधाद्भणो यत इति !हेतुमा---सर्वकर्मेति। (123)यतो ज्ञानमज्ञानस्यैव निवर्तकमित्युक्तत्वात् न कर्मनिवर्तकत्वम्, अत्राह--तन्मूलेति । तत्र प्रमाणमाह निवर्तकमित्युक्तत्वात् न कर्मनिवर्तकत्वम् , अत्राह--तन्मूलेति । तत्र प्रमाणमाह प्रसिद्धित इति । तत्त्वज्ञानमज्ञाननिवर्तकमिति शुक्तिज्ञानादौ द्दृष्टत्वादित्यर्थः। (124)तुरवधारणे, नैवेति । कर्मशेषत इति । पर्णमय्यादेः जुह्वादिद्वारा कर्मशेषस्य स्वतन्त्रफलत्वाभावात् फलश्रुतेः तत्रार्थवादत्वं युज्यते इत्यर्थः ।(125)  
+यत्त्वचोदि त्वयापीयमभ्युपेयार्थवादता ।  
+अनिच्छतापि विध्यर्थमत्र प्रतिविधीयते ॥(126)  
+इच्छाम्येवार्थवादत्वं वचसोऽन्यपरत्वतः।  
+यथाश्रुतार्थवादित्वात् नत्वभूतार्थवादता ॥(127  
+इज्येते स्वर्गलोकाय दर्शादर्शौ यथा तथा ।  
+न त्वभूतार्थवादित्वं पापश्लोकाश्रुतेर्यथा ॥(128)  
+ ज्ञानफलश्रुतेरर्थवादत्वमिति चोद्दस्यानुवादपूर्वकं  
+ परिहारान्तरवर्णनम्  
+परिहारान्तरविवक्षया पराकृतमेव चोद्दमनुभाषते ---यत्त्विति । (126)परिहारान्तरं दर्शयति ---इच्छामीति । 'तत्त्वमसि '(छा.6-8-7)इत्यादिफलवत्प्रधानवाक्यशेषत्वात् 'ब्रह्म वेद'(मु.3-2-9)इत्यादिफलश्रुतेरर्थवादत्वमिष्टम्। तर्हि अङ्गेषु फलश्रुतेरभूतार्थवादत्वमन्यत्र द्दृष्टमिहापि स्यात्, अत्राह--न त्विति । (127)द्दृष्टान्तेनैतत् स्पष्टयति ----इज्येते इति । 'स्वर्गाय हि लोकाय दर्शपूर्णमासाविज्येते 'इति तत्प्रकरणे फलाम्नातं भूतार्थवादो यथेत्यर्थः । अभूतार्थवादत्वाभावं व्यतिरेकोदाहरणेनाह ---नत्वभूतेति । अर्थवादत्वं न फलाविवक्षायां प्रयोजकम्, 'प्रतितिष्ठन्ति ह वा 'इत्यत्रापि तत्तप्रसङ्गात् । अपि तु मानान्तरविरोधादि इति तुशब्दार्थः । (128)भूतार्थवादत्वे 'स्वर्गाय हि ' इति 'दर्शपूर्णमासाभ्याम् 'इति प्रधानवाक्यसिद्धानुवादव(न्नापि) (दत्रापि) मानान्तरसिद्धानुवादित्वं वाच्यमिति शङ्कते --कुत इति ।  
+कुतः प्राप्तं फलमिति,प्रत्यक्षं ह्रात्मधीफलम् ।  
+योतोऽवगम्यते तेन ज्ञानं कर्म न ढौकते ॥((129)  
+प्रवृत्तेः प्रतिकूत्वात् मुक्तिं प्रति विरोधतः ।  
+मुमुक्षोरधिकारोऽतो निवृत्तौ सर्वकर्मणाम् ॥(130)  
+विद्वदनुभवसिद्धानुवादित्वमित्याह--प्रत्यक्षं हीति । ज्ञानस्य कर्तृत्वादिनिवर्तकत्वात न कर्माङ्गत्वमिति फलितमाह--यत इति । (129)  
+ ज्ञानकर्मणोः स्वतन्त्रफलत्वेनाधिकारभेदः इति मुमुक्षोः कर्मणि  
+ नाधिकार इति सद्दृष्टान्तं वर्णनम्  
+ज्ञानकर्मणोः स्वतन्त्रफलत्वे सति अधिकारभेदसिद्धिरिति फलितमाह--प्रवृत्तेरिति ---कर्मानुष्ठानस्य, विरोधतः
+---मुक्तिविरुद्धबन्धफलत्वात् फलद्वारा प्रतिकूलत्वात् प्रवृत्तौ नाधिकार इत्यर्थः । (130) प्रवर्तकरागादिध्वंसाच्च न तत्राधिकारः इत्याह--प्रवृत्तीति । ज्ञानकर्मणोः विरुद्धफलयोः समुच्चित्याननुष्ठानेऽपि इच्छाविकल्पेन वैकल्पिकमनुष्ठानमित्याशङ्कय, तदसत्वप्रतिपादनाय द्दृष्टान्तमाह--नाभिप्रेतेति । सुगमं-----गिरिनद्दादिप्रतिबन्धरहितम्। शिवं ---कण्टकोपलादिरहितम् ।  
+वारिपथ्योदनोपेतं सर्वानर्थनिववर्जितम् ।  
+प्राप्तं मार्गं समुत्सृज्यच तद्धिरुद्धेन वर्त्मना ।  
+यियासति सुधीः कश्चित् यथा भ्रान्तोऽध्वगस्तथा ॥(132)  
+तथाविद्दोत्थकर्त्रादिधर्मशून्यमविक्रियम् ।  
+अक्रियाकारकं ज्ञात्वा निश्शेषपुरुषार्थदम् ॥(133)  
+आत्मप्रत्ययमागम्यञ्चात्मानं देवमञ्जसा ।  
+तत्स्थितौ च फलेऽभीष्टे नित्ये साधनवर्जिते ॥(134)  
+सर्वानर्थविवर्जितं --चोरव्याघ्राद्दनाकुलम् । (131-132)दार्ष्टान्तिकमाह--तथेति । आत्मानं ज्ञात्वा कर्मणि कथं मनो द्ध्यात् (वा.135)इति संबन्धः । क्रियाफलस्य संस्कारस्यासंभवमाह--अविद्देति । विकारस्यासंभवमाह--अविक्रियमिति । स्वभावादेव प्रवृत्तिः, अत आह--अक्रियाकारकमिति । इष्टानिष्टप्राप्तिपरिहारार्थं कर्मानुष्ठानम्, अत्राह--निश्शेषेति । (133)तत्साक्षात्कारः कर्मफलम्, अत्राह--आगम्यमिति । 'अत्रायं पुरुषः स्वयंज्योतिः'(वृ.6-3-14)इति श्रुतिविरोध इत्यर्थः । परामर्शसिद्धस्वानुभवगम्यमिति चार्थः ।तस्य ब्रह्मैक्यं कर्मफलम्, अत्राह--देवमिति । प्राप्तिरपि न कर्मफलमित्याह--तत्स्थिताविति ।  
+तद्विरुद्धफले बाह्यसाधनेऽनेककारके ।  
+कथं कर्मणि सर्वज्ञो मनो दध्याद्वसन्नपि ॥(135)  
+सम्यग्धीमृदीताशेषध्बान्तस्य च न पूर्ववत् ।  
+अज्ञानादि पुनः कर्तुं शक्यतेऽकारत्वतः ॥(136)  
+श्रुत्यादिमानप्रमितयाथात्मयज्ञानतत्फलः ।  
+प्रतिकूलत्वतो विद्वान् यतः कर्मसु नेहते ॥(137)  
+नोत्पत्तिरपीत्याह--नित्य इति । 'वारिपथ्योदनोपेतम्'(वा.132)इति द्दृष्टान्तस्य प्रपापानीयसत्राशनवत्त्वमुक्तम् । तत्साम्यमिह दर्शयति
+--साधनेति । संपादनीयसाधनहीने इत्यर्ः। (134-135)ध्वस्तान्ध्यस्यापि पुनरुद्भवसंभवात् कर्माधिकारः स्यात्, अत्राह--सम्यगिति । ज्ञानिनोऽपि प्रवृत्त्यादि कार्यं द्दृश्यते , अत आह--पूर्ववदिति ।बाधितानुवृत्त्या दर्शनमित्यर्थः । अकारकत्वत इति । कूटस्थत्वादात्मनः कारणत्वायोगात् कारणान्तरस्य चाभावादित्यर्थः ।(139)  
+ विदुषः विविदुषोश्च कर्मण्यनधिकारेऽपि मुमुक्षुजिहासितकर्त्रादिदेहान्तानात्मविशिष्टस्याज्ञस्य कर्माधिकारः इति निरुपणम्  
+विद्वद्विविदिष्वोः कर्मण्यनधिकारश्चेत्, अविविदुषोऽपि तदधिकारो न स्यात् चेतनत्वात् । अतः कर्मकाण्डानारम्भः, अत्राह--श्रुत्यादीति । कर्तृत्वाद्दभिमानहीनत्वमुपाधिः। (137)  
+अतोऽज्ञस्यैव निश्शेषमुमुक्षुप्रजिहासित--  
+कर्त्राद्दनात्मधर्मस्य कर्माधिकृतिरात्मनः ॥(138)  
+विद्दात्ममोहतत्कार्यविरोधाच्चापरस्परम् ।  
+रोगादिवदनर्थत्वात् कर्त्रादिः प्रजिहासितः ॥(139)  
+जिहासितुः स्वभावोऽसावित्युक्तिः शिशुवक्तृका ।  
+कर्त्रादिश्चेत् स्वभावः स्यात् प्रत्यक्षाकर्तृरुपिणः ॥(140)  
+न तस्य साधनव्याप्तिः इत्याह--निश्शेषेति ।निश्शेषतया मुमुक्षुभिः प्रजिहासितोऽसौ कर्त्रादिः अनात्मधर्मः यस्येति विग्रहः । (138)कर्त्रादिः मुमुक्षुणा कस्मात् प्रजिकासितः, इत्यत आह--विद्देति । विद्दात्ममोहयोः तत्कार्ययोश्च अपरस्परम्--अन्योन्यं विरोधादित्यर्थः ।(139)  
+ दोषान्तरेण, कर्त्रादिरात्मनः स्वभावो नेति निरुपणम्  
+कर्त्रादिरात्मनः स्वभावो न भवतीति निरस्तमेव दोषान्तराभिधित्सया पुनराशङ्कय निराचष्टे--जिहासितुरिति । तद् दूषणान्तरमाह--कर्त्रादिश्चेदिति ।(140)(प्रत्यक्षादिविरोधः)विद्वदनुभवविरोधः । आदिपदेन, कर्तृत्वादिः नात्मधर्मः ज्ञेयत्वात् रुपादिवत्, "अपूर्वोऽनन्तरोऽबाह्यः कृत्स्नः प्रज्ञानघन एव"(बृ.6-5-13)इत्यनुमानागमविरोधसंग्रहः ।  
+ प्रसङ्गात् लोकायताक्षेपः तन्निराकरणं च  
+अनिर्मोक्षप्रसञ्जनमिष्टापादनमिति लोकायतिक आह--अस्त्विति । विक्रियावत्त्वतः--जन्मादिविकारवत्त्वेनानित्यत्वादित्यर्थः । (141)जन्मादयो देहधर्माः नात्मनः, अत्राह--अग्निवदिति । विकारमन्तरेण न भोगयोग इति भावः ।भोक्तृत्वमपि बुद्धेरेव नात्मनः, अत्राह--नो चेदिति । विकाराभावे मूर्ताभावात् आकाशवदसत्त्वमित्याशयः । आत्मा अनित्यः विकारित्वात् धर्मवत् इत्यत्र हेतोरसिद्धया दूषयति--नेति । (142)आत्मा विकारी भावत्वात् तन्तुवत्, अत्राह--मूर्तेति । जडत्वमुपाधिरित्यर्थः।नैतावता आत्मनोऽसत्त्वमित्याह--प्रतीच इति । भावाभावसाधकचैतन्यस्याभावः केन सिद्धयेदिति भावः। यदुक्तम्, अन्तरेमण विक्रियां भोगो न स्यादिति, तत्राह--प्रमेति ।  
+वाय्वग्निवद्विकारो न प्रागभावाद्दसंभवात् ।  
+अग्नयादीनां तु सांशत्वात् बलवद्भिस्तदिन्धनैः॥(144)  
+अभिभूतस्परुपाणां काष्ठनिर्मथनादिना।  
+युक्तैवाविष्कृतिर्नित्यं तेषां कार्यात्मकत्वतः ॥(145)  
+न त्वात्मनो निरंशत्वात् मुख्यौ संभवतः क्वचित् ।  
+आविर्भावतिरोभावौ स्वतः सिद्धेश्च कारणात् ॥(146)  
+स्वभूतानुभवेन आत्मानमनुभवति, विषयांश्च तदाकारवृत्त्यवच्छिन्नेन । अतो नाकाशकल्पतेत्यर्थः । (143) न हि स्वतस्सिद्धस्य प्रागभावादयः स्वतः अन्यतो वा सिद्धयन्ति । प्रगभावादिमत्त्वव्याप्तं विकारित्वं नात्मनः, इत्याह--वाय्वग्निवदिति । प्रबोधे तिरोभूतस्य संप्रसादे आविर्भावात् विक्रियावत्त्वम् । आत्मा विकारी, अभिव्यक्तयनभिव्यक्तिमत्त्वात् अग्निवत्, अत्राह---अग्नयादीनामिति । आदिपदेन वाय्वादिसंग्रहः । तुरत्नशङ्काव्यावर्तकः। काष्ठनिर्मथनादिना इत्यादिपदेन व्यजनाभिघातादिसंग्रहः । तेषां सांशत्वे हेतुमाह--कार्येति । (144-145)परकीयहेतोरसिद्धिमाह---न त्विति । आत्मनः अनभिव्यक्तयाद्दभावे श्रवणादिवैफल्यम्, अत्राह--मुख्याविति । भाविकाविर्भादिमत्त्वप्रयोजकजाडयाभावाच्च तदसंभव इत्याह----स्वत इति । (146)आविर्भावतिरोभावयोः क्रियाफलत्वाच्च न विक्रिया(व)त्त्वम्, इत्याह--अभ्युपेतेति ।  
+अभ्युपेताप्यभिव्यक्तिः नाभिव्यङ्ग्यस्य विक्रिया ।  
+यथा तथानभिव्यक्तिः सर्वेषामपि वादिनाम् ॥(147)  
+अतोऽनभ्युपगच्छद्भिः मुक्तौ कर्त्रादिरातम्नः ।  
+अविद्दाकल्पितो ज्ञेयो नह्यसौ परमार्थतः ॥(148)  
+कर्त्राद्दात्मस्वफावस्य प्रात्यक्ष्यान्न तदात्मनि ॥(149)  
+मात्रादिबोधकं मानं प्रत्यगात्मनि साक्षिणि ।  
+न व्यापारयितुं शक्यं वह्निं दग्धुमिवोल्मुकम् ॥(150)  
+निघर्षणादिनां जायमाना अभिव्यक्तिः नादर्शादेः विक्रियेत्यर्थः ।(147)  
+ प्रासङ्गिकं परिसमाप्य कर्त्रादेः कल्पितत्वनिरुपणम्  
+आत्मनोऽविकारित्वे तत्र प्रतीयमानकर्तृत्वादेः का गतिरिति, तामाह---अत इति । कर्तृत्वा (दितत् )(द्दव)स्थितौ मुक्तयनुपपत्तेः, तस्य ज्ञाननिर्त्यवोगमे रज्जुसर्पादिवत् कल्पितत्वमित्यर्थः । कर्तृत्वादेकल्पितस्यैव ज्ञानापनोद्दत्वं ज्ञानप्रागभावस्येव भविष्यति, इत्यत्राह--न हीति । स्वप्रागभावनिवृत्तिरवे ज्ञानं न तन्निवर्तकमित्यर् । (148)कर्तृत्वादे चैतन्यवदात्मस्वभावत्वात् ज्ञाननिवर्त्यत्वहेतुरसिद्धः, अत्राह---कर्त्राद्दात्मेति । कर्त्रादि च तत् आत्मस्वभावत्वेनाभिमतमिति च कर्त्राद्दात्मस्वभावः । तस्य प्रात्यक्ष्यात् ---द्दृश्यत्वात्। पटादिवदनात्मधर्म इत्यर्थः । (149)अहं कर्तेत्यादिप्रत्यक्षविरोधः द्दृश्यत्वहेतोः अत्राह--मात्रेति । अहं दण्डीतिवत् अहंप्रत्ययः अहङ्कारवच्छिन्नदेहादिविषयः न तत्साक्षिणि कर्तृत्वाद्दभावानुमानविरोधीत्यर्थः ।  
+साक्षिसाक्ष्याभिसंबन्धः प्रमात्रादौ यथा तथा ।  
+साक्षिवस्तुनि नैव स्यात् केवलानुभवात्मनि ॥(151)  
+परार्थसंहतानात्मभोग्यकर्त्रादिबोधिना ।  
+विरोधात् , तद्विरुद्धोऽर्थः प्रत्ययेनेक्ष्यते कथम्॥(152)  
+इच्छाद्वेषादिरप्येवं नात्मनो धर्म इष्यताम् ।  
+कामः संकल्प इत्येवं मनोधर्मत्वसंश्रयात् ॥(153)  
+आत्मगतकर्तृत्वादिग्राहकप्रमाणमात्मग्राहकं वाच्यम् । न च तदभिन्नाश्रयविषयं संभवति । ज्ञानस्य भिन्नाश्रयविषयत्वनियमात् । नाप्यात्मान्तराश्रितम्, तदभावात्, इत्याशयेनाह---वह्निमिति । मात्रादेः मानग्राह्यत्वं परिकल्पितमङ्गीकृत्योक्तमिति नापसिद्धान्तः । (150)विषयग्राकस्य मातुः अन्यग्राह्यत्वे साक्षिणो(परि)(पि)ग्राह्यत्वं स्यात्, ग्राहकत्वात्, अत्राह--साक्षीति । जडत्वमुपाधिः, न तस्य साधनव्याप्ति(रत्रा)(रित्याह)--केवलेति । साक्षिणो न स्वग्राह्यत्वं वृत्तिविरोधात्, नाप्यन्येन, जडस्यासाधकत्वात्, अजडत्वे तस्यैव साक्षित्वादित्यर्थः । (151)प्रमात्रादिग्राहकमानं न साक्षिणि प्रविशति इत्युक्तम् । तत्र हेतवन्तरमाह--परार्थेति । यो यद्विलक्षणः न सः तेन सहैकप्रत्यक्षगोचरः , यथा प्रकाशः तमोविरुद्धः न तेनैकप्रत्यक्षगोचरः । विरुद्धत्वं चात्मनः अनन्यशेषत्वादिमत्त्वाद , गोवदनात्मनो विपरीतत्वादित्यर्थः । (152)स्वर्गकामो यजेत इत्यादिश्रुतेः इच्छादेरात्मधर्मत्वे , तत्समानाधिकरणकर्तृत्वादेरात्मधर्मत्वम्, अत्राह--इच्छेति ।  
+स्वपरोभयहेतुत्वे ह्यनिर्मोक्षप्रसङ्गतः ।  
+सम्यक् निरुपणे चैषामविद्दाकार्यतैव हि ॥(154)  
+इच्छादीनां स्वहेदुत्वेऽनर्थं कुर्यात् कथं स्वयम् ।  
+आत्मा जानन् यथा शत्रोरात्मनोऽतो न युज्यते ॥(155)  
+तथा परनिमित्तत्वेऽनर्थस्यापरिहारतः ।  
+नैकान्तिकफलत्वं स्याद्रोगादिपरिहारवत् ॥(156)  
+करणैः संहतिं चर्ते परिहारः कुतो द्दृशेः ।  
+तथोभयनिमित्तत्वे नैकान्तिकफलोदयः ॥(157)  
+साधिकारवाक्यमध्यासवदात्मविषयमित्यर्थः। केवलात्मधर्मत्वमेव विवक्षितं किं न स्यात्,अत्राह--काम इति ।(153)न केवलं श्रुत्यैवैतदर्थावगमः, युक्तयापि, इत्याह--स्वेति । इच्छादिः अनादिः सादिर्वा। आद्दे तदविनाशदनिर्मोक्षः । द्वितीये, निर्हेतुत्वे नित्यसत्त्वासत्त्वयोरन्यतरप्रसङ्गः।सहेतुत्वे, किमात्महेतुत्वम्, अनात्महेतुकत्वम्, उभयहेतुकत्वं, वा । आद्दे, सदा कार्यं स्यात् । इतरयोरपि, अनात्मनः इच्छादिकारणस्य नित्यत्वे सदा कार्यम् । अनित्यत्वे तत्रापि कारणान्तरकल्पनायामनवस्था । तदकल्पनायां कदाचिदपि कार्यं न स्यादित्यर्थः ।(154)इच्छादेरात्महेतुकत्वे विशेषेण दूषणमाह--इच्छादीनामिति । (155)तर्हि परहेतुकत्वमास्ताम्, अत्राह--तथेति । परस्य निरपेक्षकारणत्वात् परिहृतोऽपि पुनः स्यादित्यनियता स्यादित्यनियता मुक्तिः स्यादित्यर्थः ।(156)परप्रयुक्तमनर्थं प्रयुक्तात्मा स्वयं परिहरिष्यति, इत्यत्राह---करणैरिति । 'निष्करं निष्क्रियम् '(श्वे.6-19)इति श्रुतेः परिहारोपायो हस्तादिकरणं नास्तीत्यर्थः । उक्तदूषणमन्यत्रातिशति
+----तथेति । (157)  
+पराभिप्रायानियमान्नैव स्यान्मोक्षनिश्चितिः।  
+निर्हेत्वविद्दाक्लृप्तौ तु दोषः कश्चिन्न विद्दते ॥(158)  
+तद्वर्जनस्य संसिद्धेः प्रसिद्धोपायसंश्रयात् ।  
+परागर्थप्रमेयेषु या फलत्वेन संमता ।  
+संवित्सैवेह मेयोऽर्थो वेदान्तोक्तिप्रमाणतः ॥(159)  
+परस्यात्माभिप्रायानुसारित्वम्, आत्मनः पराभिप्रायानुसारित्वं वा। आद्दे न कदाचिदनर्थः स्यात् । द्वितीयं प्रत्याह---पराभिप्रायेति ।  
+ इच्छादीनामाविद्दकत्वे पूर्वोक्तदोषानवकाशनिरुपणम्  
+विकल्पदूषणजालं तवापि समानम्, अत्राह--निर्हेत्विति ।(158)आत्मनः अविद्दापनोद्दत्वे सदापातात्, अनात्मनो जडस्याविद्दात्कस्य तदयोगात् उपायासंभवः,अत्राह--परागिति । पराञ्चः अर्था प्रमेयाः येषां तेषु प्रमाणेषु । वेदान्तोक्तिप्रमाणतः-----वेदान्तवाक्यप्रणास्य। वाक्यकृतवृत्तिव्याप्ति चैतन्यमज्ञाननिवर्तकमित्यर्थः । (159)  
+अप्रामाण्यप्रसक्तिश्च स्यादितोन्यार्थकल्पने ।  
+वेदान्तानामतस्तस्मान्नन्यमर्थं प्रकल्पयेत् ॥(160)  
+नन्वेवमपि मानत्वव्याघातः स्यात्क्रियाविधेः ।  
+वेदान्तेष्वप्यनाश्वासस्तथा च प्रसजेद्ध्रुवम् ॥(161)  
+नैतदेवं, यतोऽशेषमानानामपि मानता ।  
+आ परात्मावबोधत्स्यात्तत्र सर्वसमाप्तितः ॥(162)  
+नातोऽवतारो मानानामैकात्म्येनैव संक्षयात् ।  
+श्येनादिविधिबाधः स्यादिहिंसाविधिना यथा ॥(163)  
+अव्यावृत्ताननुगतचैतन्यं वृत्तिव्याप्तज्ञाननिवर्तकमिति कथं शक्यं वक्तुम्, उपासनानियोगपरत्वाद्वेदान्तानाम्, इत्यत्राह ----अप्रामाण्येति ।(160)  
+ वेदान्तानामद्वैतपरत्वे कर्मकाण्डमप्रमाणं स्यादिति शङ्का तत्परिहारश्च  
+वेदान्तानामद्वैतपरत्वे कर्मकाण्डमनालम्बनममानं स्यादिति चोदयति ----  
+नन्विति । ज्ञानकाण्डप्रामाण्यमेवास्माकं परिपालनीयम, अत्राह--वेदान्तेष्विति । वेदैकदेशत्वादित्यर्थः । (161)किं तत्त्वावेदनप्रामाण्यस्य हानिः, उत व्यावहारिकप्रामाण्यस्य । नाद्दः, अभ्युपगमात्, इत्याह--नैतदिति । द्वितीयेऽपि, ब्रह्मसाक्षात्कारात् पूर्वंम्, उत्तरकालं वा, न प्रथमः इत्याह--यत इति । द्वितीयेऽपीष्टापत्तिः इत्याह--तत्रेति ।(162)विदुषोऽपि द्वैतदर्शनात्, तत्र न सर्वसमाप्तिः, अत आह--नात इति । अद्वैततत्त्वदर्शनबाधितत्वादित्यर्थः । कथं मानान्तरेण मानान्तराणां वाधः !अत आह--श्येनेति । मलीमसान्तः करणाधिकरिणमूरीकृत्य प्रवृत्तव्यावहारिकप्रमाण्यस्य तद्विपरीताद्वैतदर्शनबाधः अशोधितक्रोधारात्यधिकारोपाधिप्रवृत्तश्येनादेः अहिंसाविधिना यथेत्यर्थः ।(163)  
+कर्माण्यतो विधीयन्तेऽविद्दावन्तं नरं प्रति ।  
+न तु विध्वस्तसकलकर्महेतुं द्विजं प्रति ॥(164)  
+सर्वकर्मनिरासेऽतो ह्यधिकारो विवेकिनः ।  
+यथोक्तन्यायतस्सिद्धः न तु कर्मसु कर्हिचित् ॥(165)  
+कारकव्यवहारे हि शुद्धं वस्तु न वीक्ष्यते ।  
+शुद्धे वस्तुनि सिद्धे च कारकव्यापृतिस्तथा ॥(166)  
+ कर्मकाण्डस्यापि तत्त्वावेदनप्रमाणत्वाक्षेपः तन्निरासश्च  
+वेदत्वात् कर्मकाण्डमपि ब्रह्मकाण्डवत् तत्त्वावेदनप्रमाणम्, अत आह--कर्माणीति । अविद्दान्तं नरं---मनुष्योऽहं गृहस्थः इत्याद्दध्यस्तविशिष्टमित्यर्थः । सर्वतो विरक्ताधिकारित्वमुपाधिरित्यर्थः । साधनव्याप्तिं परिहरति ---त्विति । (164)कर्माणां विविधपश्वादिफलानां विचित्रशक्तीनां मुक्तिसाधनत्वात् तत्रैव विवेकिनोऽधिकारः, अत आह--सर्वेति । कर्मफलत्वे मोक्षस्य सादिशयत्वानित्यत्वादिप्रसक्तेरित्यर्ः । (165) "कर्मणैव हि संसिद्धिमास्थिता जनकादयः "(भ.गी.3-20)इति स्मृतेः विवेकिनः कर्म कर्तव्यम्, अत्राह---कारकेति । कर्त्राद्दभिमानस्य तद्विलक्षणब्रह्मभिमानस्यय च विरोधादित्याशयः । संसिद्धिशब्देन बुद्धिशुद्धिरुच्यते । परम(शु)(सि)द्धेः"सिद्धिं प्राप्तो यथा ब्रह्म"(भ.गी.18-50)इत्यादिना उपरिष्टादभिधानात् इति चकार्थः। (166)  
+ "यथान्नं मधुसंयुक्तं मधु चान्नेन संयुतम् ।  
+ एवं तपश्च विद्दा य संयुक्तं भेषजं महत् ॥"इति  
+कारकाकारकधियोर्नैकतैकत्र वस्तुनि ।  
+विरोधात्सम्भवोऽस्तीह प्रकाशतमसोरिव ॥(167)  
+अविरोधः क्रमेण स्यात् स्थितिगत्योरिवेति चेत् ।  
+नात्मज्ञानस्य कूटस्थवस्तुतन्त्रत्वहेतुतः ॥(168)  
+नौष्ण्यात्मको मितो वह्निः क्रमशोऽक्रमशोऽथवा ।  
+वस्तुतश्शीततामेति कर्तृतन्त्रं तथा भवेत् ॥(169)  
+स्मरणात् शुद्धवस्तुदर्शने कर(णं)(क)व्यापारः स्यात्, अत्राह--कारकेति। स्मृतौ विद्दाशब्देन सगुणज्ञानमुक्तमित्याशयः ।(167)परः शङ्कते ---अविरोध इति । तत्र किं प्राक् कर्तृत्वज्ञानं पश्चात् अकर्तृब्रह्मज्ञानं!अथवा ज्ञानवतोऽपि पश्चात्कर्तृत्वज्ञानं पूर्वमकर्तृत्वम् इति विकल्प्य, आद्दमङ्गीकृत्य द्वितीयं दूषयति--नेति ।(168)तत्र द्दृष्टान्तमाह--नौष्ण्येति । उदितानुदितहोमवत् अत्रापि अन्यथभावः स्यात्, अत्राह--कर्त्रिति ।(169) एकदेशी शङ्कते --भेदेति । परिणामिब्रह्मणः अनेकरसत्वात् कारकाकारकबुद्धी क्रमेणाविरुद्धे इत्याशयः ।  
+भेदाभेदात्मकत्वाच्चेत् एकस्यापीह वस्तुनः ।  
+अविरोधो, न तन्न्याय्यं त्वदुक्तार्थविरोधतः ॥(170)  
+नानेकस्यैकता न्याय्या तथैकस्याप्यनेकता।  
+वस्तुतन्त्रत्वतो बुद्धेः न चेदेवं मृषा मतिः ॥(171)  
+यथा चास्य विरुद्धत्वं तथोदर्के प्रवक्ष्यते ।  
+ऐकात्म्यस्यैव मेयत्वं तस्यैवाप्रतिबोधतः ॥(172)  
+असम्भवेन प्रत्याह ---नेति । (170)भेदज्ञानं प्रमाणमप्रमाणं वा !आद्दं प्रत्याह--नानेकस्येति । कथं तद्वाधेनाभेदज्ञानं स्यादित्यर्थः । अभेदज्ञानममपि मानममानं वा!आद्दं दूषयति ----तथेति । तदुपमर्देन भेदधीर्न स्यात् स्थितवस्तुविषयत्वादित्यर्थः । तयोरमानत्वे न भिन्नं नाभिन्नमिति शून्यं स्यात्, इत्याह--न चेदिति । (171)  
+ "यद्वै तन्न पश्यति "(वृ.6-3-23)इत्यत्र प्रतिवक्ष्यते चायं पक्षः, इत्याह--यथेति । सर्वप्रमाणानां सविशेषविषयत्वात् निर्विशेषद्वैतमप्रामाणिकम्, अत्राह--ऐकात्म्यस्येति । "तद्धेदम्"(बृ.3-4-7)इत्यादौ अद्वैतमेव अज्ञातत्वात् मानगम्यमुच्यते इत्यर्थः । (172)चोदयति ---वस्तूनीति ।अभावेनेति ---उपलक्षणं प्रत्यक्षादीनाम् ।  
+वस्तूनीह प्रमीयन्ते व्यावृत्तानि परस्परम् ।  
+अभावेन प्रमाणेन, तेनोक्तं ते विरुद्धयते ॥(173)  
+भेदे वा यदि वाभेदे संसृतेर्ब्रह्मणा सह ।  
+ब्रह्मणोऽब्रह्मता, तद्वद्विद्दानर्थक्यसांशते ॥(174)  
+ब्रह्मविद्दावदिष्टं चेन्ननु दोषो महानयम् ।  
+निरविद्दे च विद्दाया आनर्थक्यं प्रज्यते ॥(175)  
+ ऐकात्म्यस्य वेदान्तमेयत्वाक्षेपः तन्निरासः च  
+लोके प्रत्यक्षादिभिः भेद एव भासते, नाभेदः इति भावः । तदुपमर्देन अद्वैतदर्शनमागमाद्भवति, इत्यत्राह--तेनेति । निरवकाशप्राचीनप्रत्यक्षादिविरोथ इत्यर्थः। (173)एवं वदन्नेकदे(शे)(शी) वक्तव्यः ब्रह्मणो जगद्वयावृत्तिः गम्यते न वा !उभयत्र दूषणमाह--भेदे वेति । प्रथमपक्षदूषणं विशदयति ---ब्रह्मण इति। वस्तुतः परिच्छेदादित्यर्थः। अभेदपक्षदोषं दर्शयति--तद्वदिति । जगतो ब्रह्माभेदे निवर्त्यासत्वात् विद्दानर्थक्यम्, ब्रह्मणो जगदभेदे साशत्वमित्यर्थः। (174)ब्रह्मैवाज्ञातत्वान्मयेमित्युक्तम्। तन्न;कस्याज्ञानम्!ब्रह्मणः, अन्यस्य!न कस्यापि वा!प्रथमं दूषयति--ब्रह्मेति । सर्वज्ञासङ्गाद्वितीयस्वप्रकाशस्य अविद्दाश्रयत्वव्याघाद इत्यर्थः ।द्वितीयं दूषयति---निरविद्द इति। निवर्त्याभावाद्वब्रह्मणि तदन्यस्य चेतनस्य अविद्दाश्रयत्वायोगात् विद्दानर्थक्यमित्यर्थः । स्वातन्त्र्यं च तस्या नेष्टम् इति चकारार्थः।(175)  
+नाविद्दाऽस्येत्यविद्दायामेवाऽसित्वा प्रकल्प्यते ।  
+ब्रह्मद्दृष्टया त्वविद्देयं न कथञ्चन युज्यते ॥(176)  
+यतोऽनुभवतोऽविद्दा ब्रह्मास्मीत्यनुभूतिवत् ।  
+अतो मानोत्थविज्ञानध्वस्ता साऽप्येत्यथात्मताम् ॥(177)  
+ वास्तवासङ्गादि न कल्पिताविद्दासङ्गविरोधीति परिहरति ---नेति । अविद्दा न कल्पिता अनादित्वात्, ब्रह्मवत्, अत्राह--ब्रह्मेति । वस्तुतो नेयं घटते, ब्रह्मपदार्थाननुगमप्रसङ्गादित्यर्थः। (176)अज्ञानस्य मेयत्वे अज्ञानमपि ज्ञानविषयः न तेन निवर्त्यम, अत आह--यत इति । अज्ञानं साक्षिवेद्दम्, मानं उत्पत्या तत्र अज्ञाननिवृत्त्यतिशयं कुर्वत् भूतगत्या अज्ञातविषयमुच्यते । ब्रह्मास्मीत्यनुभूतिः--वाक्यजान्तः करणवृत्तिः। केवल(स्य) साक्षिवेद्दा यथेत्यर्थः । अज्ञाननिवृत्तेः न कल्पितत्वम्, कल्पनाहेत्वभावात् ।अतः तया सद्वितीयत्वम्, अत्राह--साप्येतीति ।(177)अविद्दा परमार्थः जगत्कारणत्वात्, ब्रह्मवत्, अत्राह--ब्रह्मणीति ।  
+ब्रह्मण्यविदिते बोधान्नाविद्देत्युपपद्दते ।  
+नितरां चापि विज्ञाते मृषाधीर्नास्त्यबाधिता ॥(178)  
+अविद्दावानविद्दां तां न निरुपयितुं क्षमः ।  
+वस्तुवृत्तमतोऽपेक्ष्य नाविद्देति निरुप्यते ॥(179)  
+वस्तुनोऽन्यत्र मानानां व्यापृतिर्न हि युज्यते ।  
+अविद्दा च न वस्त्विष्टं मानाघातासहिष्णुतः ॥(180)  
+अविद्दाया अविद्दात्वे इदमेव तु लक्षणम् ।  
+मानाघातसहिष्णुत्वमसाधारणामिष्यते ॥(181)  
+त्वत्पक्षे बहु कल्प्यं स्यात्सर्वं मानविरोधि च ।  
+ज्ञाते अज्ञाते वा अज्ञानसम्बन्धस्य प्रमातुमशक्यत्वात्, मृषाधीः---मिथ्याज्ञानकारणमज्ञानं वस्तुतो नास्तीत्यर्थः । (178)अविद्दा परमार्तः ब्रह्माविद्दासम्बन्धाश्रयत्वात् ब्रह्मवत् ,अत्राह--अविद्दावानिति । निरुप(मा)णाक्षमत्वं अज्ञानत्वादिति द्रष्टव्यम् ।(179)अज्ञानं मिथ्या अप्रामाणिकत्वात्, शक्तिरजतवदिति सत्प्रतिपक्षत्वमाह--वस्तुन इति । अविद्दा वस्तु अवस्था त्रयानुगतत्वात् ब्रह्मवत्, अत्राह--अविद्दा चेति । मानसम्बन्धयोग्यत्वमुपाधिरित्यर्थः ।(180)  
+ साधनव्यापकोऽयं तदाभासः, अविद्दाया अनुमानागमगम्यत्वात् अत्राह---अविद्दाया इति । सदसद्वैलक्षण्यमात्रमनुमानादिना साध्यते, स्वरुपं तु केवलसाक्षिवेद्दम् स्वापेऽपि तदनुभवादित्यर्थः । (181) अविद्दातत्सम्बन्धंमिथ्यात्वसाधनेन तत्कार्यसम्बन्दमिथ्यात्वमुक्तम्। तदुक्तम्, अविद्दायाः तस्यास्संसारकारणत्वस्य चाप्रसिद्धस्य कल्पनीयत्वात्, अत्राह--त्वत्पक्ष इति ।  
+कल्प्याऽविद्दैव मत्पक्षे सा चानुभवसंत्रया ॥(182)  
+तत्त्वमस्यादिवाक्योत्थसम्यग्धीजन्ममात्रतः ।  
+अविद्दा सह कार्येण नासीदस्ति भविष्यति ॥(183)  
+अतः प्रमाणतोऽशक्याऽविद्दाऽस्येति निरीक्षितुम् ।  
+कीद्दृशी वा कुतो वासावनुभूत्येकरुपतः ॥(184)  
+देवताद्रव्यकर्त्रादि ननु वस्त्वस्तु नाद्वयम् ।  
+सर्वलोकप्रसिद्धत्वादद्वयस्यासिद्धितः ॥(185)  
+सर्वस्य भिन्नाभिन्नत्वं, संसारस्यानादेः परमार्थस्य निवृत्तिमत्त्वं, कृतकस्य मोक्षस्य नित्यत्वं च मानविरुद्धं कल्प्यमित्यर्थः । न तथाऽस्मत्पक्षे, इत्याह--कल्प्येति । आश्रयोऽपि कल्प्यः, इ(त्या)ह-सा चेति । अहमज्ञः इति अज्ञानाश्रयत्वं चैतन्यस्य सिद्धमित्यर्थः । (182)अविद्दातत्सम्बन्धकल्पितत्वसादधनफलमाह---तत्त्वमसीति । (183)ऐकात्म्यधीः न संसारोपादानज्ञाननिवर्तिका, धीत्वात् घटधीवत् , अत्राह---अत इति । ऐकात्म्यागोचरत्वमुपाधिः । अनुभूत्येकरुपतः इति । आत्ममात्रतया ध्वस्तत्वादित्यर्थः ॥(184)  
+ द्वैतस्य लोकसिद्धत्वात् अद्वैतवस्तुनः आक्षेपः तन्निरासश्च ।  
+एवं तावत् अद्वैतं भाविकम्, द्वैतं काल्पनिकमित्यक्तम् । तत्र पर आह--देवतेति । स्वर्गापूर्वादिः आदिपदार्थः ॥(185)  
+नैतत्साधु, प्रमाणानां सर्वलोकाभिधं न हि ।  
+प्रमाणमस्ति यत्प्राणात् भवानेवं प्रभाषते ॥(186)  
+अभिमानश्च यत्रायं सर्वलोकस्य गम्यते ।  
+प्रत्यक्षोऽर्थोऽयमित्येवं मिथ्यात्वं तस्य चोदितम् ॥(187)  
+प्रत्यक्षं च यथासन्नं परोक्षाद्वस्तुनो मतम् ।  
+सर्वप्रत्यक्तमस्तद्वद्वोधो वाक्योत्थ आत्मनि ॥(188)  
+आत्मानुभवमात्रित्य प्रत्यक्षादि प्रसिद्धयति ।  
+लोकप्रसिद्धिः स्वतन्त्रं मानम्, उत अनिर्धारितविशेषमध्यक्षाद्दन्यतमत्!इति विकल्प्य आद्दं दूषयति ---नैतदिति । यत्प्राणात् ---यद्वलादित्यर्थः । (186)द्वितीयं प्रत्याह--अभिमानश्चेति । अयं प्रत्यक्षः अयमानुमानिकश्चेति यत्राभिमानः तस्य मिथ्यात्वं 'स्वपरोभयहेतुत्वे '(वा.154)इत्या(द्दयु)(दावु) क्तम्,वक्ष्यते च । अतः न प्रामाणिकं जगदित्यर्थः ।(187)अद्वैतमपि न प्रामाणिकम्, तद्गोचरागमजन्यपरोक्षज्ञानस्य भेदाध्यक्षविरोधात् अमानत्वात्, अत्राह---प्रत्यक्षं चेति । किं मिथ्यात्वमप्रामाण्यम्, किं वा सापेक्षत्वम्,अनुवादत्वं(वा)!नाद्दः, सर्वप्रत्यक्तमविषयस्यागमजज्ञानस्य पराग्गोचरप्रत्यक्षादन्तरङ्गत्वात् यथा लिङ्गसापेक्षादनुमानात् तदनपेक्षं प्रत्यक्षं सन्निहितमित्यर्थः । (188)द्वितीयं दूषयति-----आत्मेति । प्रत्यक्षादेर्जडस्य साधकात्मानुभवस्य न तदपेक्षा सिद्धिरित्यर्थः । (189)  
+अनुभूतेः स्वतस्सिद्धेः काऽपेक्षाह्यात्मसिद्धये ॥(189)  
+आत्मानुभवपूर्वत्वात्प्रत्यक्षत्वस्य न स्वतः ।  
+आत्मैकग्यमैकात्म्यं वेदान्तेष्ववगम्यते ॥(190)  
+यच्चाप्युक्तं श्रुतिस्मृत्योः क्रियाया एव सिद्धितः ।  
+अतः क्रियातिरेकेण नास्त्यन्यन्मुक्तिसाधनम् ॥(191)  
+केन चोक्तं क्रिया मुक्तेस्साधनत्वं न गच्छति ।  
+प्रत्यक्षादेरात्मसत्तयैव सत्त्वात् पराग्विषयत्वस्वाभाव्याच्च नात्मसाधकत्वमित्यर्थः ।(190)  
+ क्रियातिरिक्तमुक्तिसाधनाक्षेपस्यानुवादः, तन्निरासश्च ।  
+कल्पितसंसारनिवृत्तेः धीपलत्वात् साधनभेदादधिकारिभेदं प्रसाध्य 'श्रुतौ स्मृतौ च विहितं कर्मैव'(वा.33) इत्युक्तमनुवदति ---यच्चेति । सिद्धितः ज्ञानस्य चासिद्धित्वादिति शेषः । (191)'नान्यः पन्थाः'(तै.आ. 3-12-7)इति साक्षात्साधनत्वनिषेधाद्विविदिषाद्वारा संस्कारद्वारा वा मुक्तिहेतुत्वं वाच्यम्;तदिष्टमेवेत्याह--केनेति । विविदिषापक्षे 'तमेतं वेदानु(भव)वचनेन '(बृ.6-4-22)इत्यादिवाक्यं मानयति-----तमिति । द्वितीये, 'यस्यैते चत्वारिंशत्संस्काराः अष्टावात्मगुणाः स ब्रह्मणस्सायुज्यं सलोकतां च गच्छति 'इति स्मृतिं प्रमाणयति --संस्कारा इति ।  
+तमेतमिति नाश्रौषीः संस्कारा इति च स्मृतिम् ॥(192)  
+गर्भाधानपुंसवनसीमन्तोन्नयन(विष्णुबलि)जातकर्मनामकरणान्नप्राशनचौलोपनयनम्।'(गौ.ध.1-8-14)उपनिष्क्रामणस्यान्नप्राशने एवान्तर्भूतत्वान्नोक्तम्। 'चत्वारि वेदव्रतानि'गौ.ध.1-8-15)'स्नानं सहधर्मचारिणीसंयोगः'(गौ. ध. 1-8-16)'पञ्चानां यज्ञानामनुष्ठानं देवपितृमनुष्यभूतब्रह्मणाम्'(गौ.ध.1-8-17)एतेषां च (गौ.ध.1-8-18)एतेषामिति उक्ताः पञ्च यज्ञा एवोच्यन्ते । इति (एकोन)विंशतिः संस्काराः । 'अष्टका पार्वणः श्राद्धं श्रावण्याग्रहायणी चैत्र्याश्वयुजी इति सप्त पाकयज्ञसंस्थाः'(गौ.ध.1-8-19)ऊर्ध्वमाग्रहायण्याः त्रयोऽपरपक्षाः, तेषामेकैकस्मिन्नकैका अष्टका भवति । श्रावणीशब्देन उपाकरणुच्यते । चैत्रीशब्देन शूलगवः । आश्वयुजीति इन्द्रध्वजहोमः । 'अन्याधेयमग्निहोत्रं दर्शपूर्णमासावाग्रयणेष्टिश्चातुर्मास्यपशुबन्धौ सौत्रामणीति सप्त हविर्यज्ञसंस्थाः'(गौ. ध. 1-8-20)'अग्निष्टोमः अत्यग्निष्टोमः उक्थ्यः षोडशी वाजपेयः अतिरात्रः अप्तोर्याम इति सप्त सोमसंस्थाः '(गौ. ध. 1-8-21)इति चत्वारिंशत्संस्काराः ।(192)  
+यद्दप्यैकात्म्यधीस्साक्षात् श्रुतिस्मृत्योर्न चोद्दते ।  
+तथाप्यसौ न तद्धाह्या ताभ्यामेवात्मबोधनात् ॥(193)  
+यच्च न ज्ञाप्यते वेदे वस्त्वित्येतदचूचुदः ।  
+तच्चपहस्तितं चोद्दं वक्ष्यते च निराकृतिः ॥(194)  
+विधावसति वाक्यस्य यच्चवोचोऽप्रमाणताम्।  
+स्फुटन्यायोक्तिभिस्तच्च यत्नात्परिहरिष्यते ॥(195)  
+यच्चोक्तं, न पुमर्थोऽस्ति वस्तुमात्रावबोधनात् ।  
+आख्यानप्रचुरा यस्मात् त्रय्यन्ता इह लक्षिताः ॥(196)  
+ परोक्तपूर्वपक्षलेशानामनुभाषणं निरासश्च  
+ज्ञानं तु पुमर्थसाधनत्वेनाविहितत्वात् शास्त्रबाह्यमित्युक्तम् , तत्राह--यद्दपीति । श्रुतिस्मृतिजन्यत्वादित्यर्थः । (193)'आम्नायस्य क्रियार्थत्वात्'(पू.मी.1-2-1)इत्यादिना क्रियाशेषत्वे (न) सिद्धं वस्तु उपदिश्यते , न स्वातन्त्र्येणेति यदुक्तम, तदनुवदति ---यच्चेति । तत् उक्तरीत्या निरस्तम्,;इतः प्रभृति निरसिष्यते च इत्याह---तच्चेति । (194) 'विधिप्रतिषेधमात्रत्वात् वेदार्थस्य'इत्युक्तचोद्दमनुवदति ---विधाविति ।परिहरिष्यति इति पाठे भाष्यकार इति शेषः । (195)  
+प्रयोजनासंभवाद्वेदानां न सिद्धपरत्वमित्यापेक्षः, विद्दाफलस्य  
+ प्रत्यक्षत्वेन तत्परिहारश्च  
+प्रवृत्तिनिवृत्ति साध्यप्रयोजनासम्भवाच्च न सिद्धपरत्वमित्युक्तमनुपठति
+---यच्चेति । सिद्धमात्रबोधनमसिद्धम्, अत्राह--आख्यानेति । इह--वेदे इत्यर्थः । आख्यानप्राचुर्यं सुरासुरसङ्ग्रामादिप्रतिपादनादिति द्रष्टव्यम्। (196)वाक्यावगतवस्तुसामर्थ्यात् प्रवृत्तिनिवृत्तिसिद्धेः फल(व)त्त्वम, अत आह--राम इति । (197)आत्मधियोऽफलत्वे तदुद्देशेन श्रवणादिविधानानर्थक्यम्, अत्राह---परेति । आज्यावेक्षणवत् कर्माङ्गकर्तृतसंस्कारतया क्रियाशेषत्वमित्यर्थः ।पत्न्यवेक्षितमाज्यं भवति इति विहितावेक्षणस्य प्रकरणद्दर्शपूर्णमासाङ्गत्वम्, न तथेह विनियोजकमस्ति, इत्यत्राह---ज्ञात्वेति । वेदः(!)कर्मज्ञः श्रुतवानास्तिकः शुचिः इत्यादावित्यर्थः ।(198)  
+ अतो न साधनाधिकारभेदः इति प्राप्ते, प्रत्याह---उक्त इति । 'प्रत्यक्षं ह्यात्मधीफलम्'(वा. 129)इत्यत्र स्वतन्त्रफलसाधनत्वमुक्तम्, 'तत्र को मोहः कश्शोकः'(ई.7)इति मन्त्रवर्णाश्रयेण वक्ष्यते चेत्यर्थः ।(199)  
+ विद्दाफलश्रुतेः स्तुतिफलत्वमित्याक्षेपः तन्निरासश्च  
+निरतिशयफलसाधनज्ञानगोचरत्वात् उत्कृष्टोऽयं कर्मकर्ता इति स्तुतिफलत्वात् न फलश्रुतेः तत्परत्वम्, इत्याह---नन्विति । ज्ञानिनो।़पि सुखादिद्दृष्टेः तत्फलस्य संसारनिवृत्तेः प्रत्यक्षमसिद्धमित्याशयः । (200)  
+अत्रोच्यते ह्यभिप्रेतं गम्यमानं प्रमाणतः ॥(201)  
+फलं तत्संपरित्यज्य कस्माल्लक्षणया स्तुतिम् ।  
+अश्रुतामनभिप्रेतां कल्पयस्यबुधो यथा ॥ (202)  
+न चास्त्येकविषयत्वं प्रत्यक्षवचसोर्यतः ।  
+श्रुत्यैव परिहारोक्तेः स्वप्नादिस्थानसञ्चरात् ॥(203)  
+अधिकारिभेदज्ञानस्वतन्त्रफलत्ववाक्यवस्तुपरत्वं आशामात्रविजृम्भितमित्युक्तं दूषयति--अत्रेति । ज्ञानफलस्य किं अनिष्टत्वात्त्यागः!अप्रतीयमानत्वाद्वा, बाधितत्वाद्वा । नाद्दः, इत्याह---अभिप्रेतमिति। सुखदुःखपरिहारत्वादित्यर्थः। अवगतसङ्गतिकस्य प्रतीतेः न द्वितीयः, इत्याह--गम्यमानमिति । न तृतीयः, अपौरुषेयतया विधिवाक्यवत् स्वतः प्रमाणत्वात्,इत्याह--प्रमाणत इति । श्रुतहान्यश्रुतकल्पने च स्याताम, इत्याह----लक्णयेति । श्रुतहान्यादिकं स्पष्टयति ---अश्रुतामिति । अश्रुतस्यापि स्वर्गस्य यथा विश्वजिति कल्पनं तथा इहापि स्यात्, अत्राह--अनभिप्रेतामिति । (201-202)कर्तृत्वादिगोचराहंप्रत्ययविरोधात्फलवचनं ग्रावप्लवनवचोवदमानम,अत्राह---नचेति । भिन्नविषययोरविरोधादेकविषयत्वं वाच्यम्;न तदस्ति, विशिष्टतत्साक्षिविषयत्वात् प्रत्यक्षागमयोरित्यर्थः । विरोधप्राप्तिमङ्गीकृत्योक्तम् ;न सापि, इत्याह--श्रुत्येति । महामत्स्यद्दृष्टान्तेन स्थानत्रयतद्धर्माणामात्मत्वतद्धर्मत्वनिरासादित्यर्थः ।(203)सापि स्तुतिरेव,इत्यत्राह--बहुश इति । 'असङ्गो ह्ययं पुरुषः '(बृ.6-3-15)  
+बहुशोऽसङ्गवचसा निस्सङ्त्वं ब्रुवाणया ।  
+मनोराज्यसमं मन्ये सर्वमेतत्त्वयोदितम्॥(204)  
+न प्रत्येमि यतस्साक्षात्प्रत्यक्षं ज्ञानतः फलम् ॥  
+श्रुतादपि न चेद्वाक्याञ्जायेत् फलवन्मतिः ।  
+आश्ङ्कयेत तदैवैतत् यदेतद्भवतोदितम् ॥(205)  
+नितयमुक्तत्वविज्ञानं वाक्याद्भवति नान्यतः ।  
+वाक्यार्थस्यापि विज्ञानं पदार्थस्मृतिपूर्वकम् ॥(206)  
+सापि स्तुतिरेव, इत्यत्राह--बहुश इति । 'असङ्गो ह्ययं पुरुषः '(बृ.6-3-15)'असङ्गो न हि सज्यते '(बृ.5-9-26)इत्यभ्यासः तात्पर्यलिङ्गमित्यर्थः ।'तन्मनोरथकल्पितम्'(वा.200)इत्युक्तचोद्दमनुवदति
+---मनोराज्येति । योग्यानुपलम्भविरोधात् ज्ञानिनोऽपि सुखादिदर्शनात् बाधितानुवृत्तेः परिभाषामात्रत्वादित्यर्थः । (204)'तद्दथाऽहिनिर्ल्वयिनी'(बृ.6-4-7)इत्यादिश्रुतिसिद्धत्वात् बाधितानुवृत्तिः(न)परिभाषामात्रम्। नापि योग्यानुपलम्भबाधः ,विद्वदनुभवसिद्धत्वात् इति परिहरति ---श्रुतादिति । विशिष्टाधिकारिणः वाक्यात् धीः स्यादेव ।अधिकारिणोऽप्रमापकं वचः न प्रमाणं स्यादित्यर्थः। (205)आत्मज्ञानं न वाक्याद्भवति , तर्कशास्त्रपरिकल्पितात्मलक्षणाधीनत्वात्, अत्राह--वाक्येति । शोधितपदार्थज्ञानवतां विशिष्टाधिकारिणामेवेत्यर्थः।(206)पदार्थयोः प्रत्यक्षाद्दगोचरत्वात् ज्ञानासिद्धौ वाक्यमबोधकमेव स्यात् , अत्राह--अन्वयेति  
+अन्वयव्तिरेकाभ्यां पदार्थः स्मर्यते ध्रुवम् ।  
+एवं निर्दुःखमात्मानमक्रियं प्रतिपद्दते ॥(207)  
+सदेवेत्यादिवाक्येभ्यः प्रमा स्फुटतरा भवेत् ।  
+आत्मनः अवस्थत्रये अनुगमात्, अवस्थात्रयस्य परस्परव्यभिचारात् इत्यादि चतुर्विधान्वयव्यतिरेकाभ्यामित्यर्थः । शोधिततत्पदार्थज्ञानं तथापि दुर्लभं, तत्रान्वयव्यतिरेकयोर्दुरधिगमत्वात्, अत्राह--एवमिति । आत्मानं--त्वंपदार्थम्। निर्दुःखं--संसारधर्मानाक्रान्तं प्रतिपद्दते इत्यर्थः।(207)  
+ पदार्थावगमकाले एव वाक्योर्थोऽवगम्यते, न हि स्वरुपक्यैव्यतिरेकेण वाक्यप्रमेयमैक्यान्तरमस्ति। अतोऽनुवादत्वेनाप्रामाण्यम्, अत्राह--सदेवेति । सदेव सोम्येदम्(छा.6-2-1)इत्याद्दुपक्रमेभ्यः तत्त्वमस्यादिवाक्येभ्यः इत्यर्थः। प्रत्यभिज्ञामूलवाक्यवत् भेदनिवर्तकतत्त्वेन प्रामाण्यम् । अनुवादत्वाभावेऽपि संशयत्वे न प्रामाण्यम् , अत्राह--स्फुटतरेति ।  
+दशमस्त्वमसीत्यस्माद्दथैवं प्रत्यगात्मनि ॥(208)  
+अमात्वशङ्कासद्भावात् मान्तरैश्चाविरोधतः ।  
+वक्ष्यत्येतच्च यत्नेन लोकसिद्धोपपत्तिभिः ॥(209)  
+चतुष्पान्मानिरासेन साक्षाज्ज्ञानफलं ततः ॥(210)  
+नवसङ्खयाहृतज्ञानो तशभो विभ्रमाद्दथा ।  
+न वेत्ति दशमोऽस्मीति बीक्षमाणोऽपि तान्नव ॥(211)  
+तत्त्वमादिवाक्यं नापरोक्षधीजनकम्, वाक्यत्वात् कर्मवाक्यवत्, अत्राह--दशम इति । (208)वाक्यप्रामाण्यं वक्तृगुणाधीनं द्दृष्टम्, तदपौरुषेयत्वे सति न स्यात्, अत्राह--अमात्वेति । स्वतः प्रामाण्यान्नाप्रामाण्यशङ्केत्यर्थः ।अङ्गुल्यग्रादिवाक्यत्वप्रत्यक्षादिविरोधादमात्वम्, अत्राह--मान्तरैरिति । मान्तरागमयोः एकविषयत्वाभावात्, एकविषयत्वेऽपि सम्भादितदोषतया मान्तरमेव बाध्यमित्यर्थः । शब्दयुक्तिप्रसङ्खयानात्माख्य पादचतुष्टयविशिष्टं मानं अपरोक्षधीफलम्, न वाक्यम्, इत्यत्राह--वक्ष्यतीति । अपरोक्षे वस्तूनि परोक्षज्ञानं जनयतः शब्दस्याप्रामाण्यमित्यादियुक्तिभिरित्यर्थः। ज्ञानाख्यं फलम्। ततः---वाक्यादेव । इति वक्ष्यति भाष्यकारः। (इत्युपस्कारः)(209-210)दशसङ्खयापूरकत्वं नाम परोक्षधर्म एव दशसङ्खयापूरकत्वं नाम परोक्षधर्म एव दशमस्तवमसि इति वाक्याद्गम्यते , नात्मा, तस्याहंप्रत्ययसिद्धस्य वाक्यानपेक्षणात् । अतो द्दृष्टान्त साध्यवकिलः, तत्राह--न वेति । त्वंपदसमानाधिकृतदशमपदं तत्र धियमाधते इत्यर्थः । (211)दार्ष्टान्तिकमाह--अपविद्धेति ।  
+अपविद्धद्वयोऽप्येवं तत्त्वमित्यादिना विना।  
+वेत्ति नैकलमात्मानं प्रत्यङ्गोहाप्रबाधतः ॥(212)  
+बुभुत्सोच्छेदिनैवास्य सदसीत्यादिना द्दृढा।  
+प्रतीचि प्रतिपत्तिः स्यात्प्रत्यगज्ञानबाधया ॥(213)  
+निः शेषकर्मसन्नयासो वाक्यार्थज्ञानजन्मनेो।  
+तस्यारादुपकारित्वात्सहायत्वाय कल्प्यते ॥(214)  
+स्वप्रभत्वात्कथमेवम्, अत्राह--प्रत्यगिति । (212)संविदभिन्नतया सदापरोक्षेऽप्यात्मनि यथा कोऽहमिति जिज्ञासा न निवर्तते, तथा वाक्य(य)(ज)ज्ञानेऽपीति न निराकाङ्क्षं वाक्यम्, अत्राह---बुभुत्सेति । द्दृढेति । अबाधितनिश्चितिरुपेत्यर्थः । प्रत्यग्ज्ञानेनाच्छिन्नत्वात् पूर्वं बुभुत्सा , ज्ञानेनाज्ञाननिवृत्तौ न बुभुत्सा इति दर्शयति
+--प्रत्यगज्ञानेति ।(213)   
+ सन्न्यास्य वाक्यार्थज्ञानं प्रति सन्निपत्योपकारकत्वनिरुपणम्  
+बुभुत्सोच्छेदिनैव इत्युक्तत्वात् सन्न्यासस्यापि सन्निपत्योपकारकत्वं निरस्तं स्यात्। अतश्च 'त्यजतैव हि तज्ज्ञेयम्'इत्युक्तिविरोधः, तत्राह--निश्शेषेति । विद्वत्संन्न्यास्यार्थिकत्वात् अनुपकारित्वेऽपि विविदिषुसन्न्यास्य विहितस्य श्रवणाद्दङ्गत्वेन सन्निपत्योपकारकत्वमित्यर्थः। (214)तत्र प्रमाणमाह--त्याग इति ।  
+त्याग एव हि सर्वेषां मोक्षसाधनमुत्तमम् ।  
+त्यजतैव हि तज्ज्ञेयं त्यक्तुः प्रत्यक्परं पदम्॥(215)  
+शान्तो दान्त इति तथा सर्वत्यागपुरस्सरम् ।  
+उपायमात्मविज्ञाने श्रुतिरेवाब्रवीत्स्वयम् ॥(216)  
+प्रवृत्तिलक्षणो योगो ज्ञानं संन्यासलक्षणम्।  
+तस्माज्ञानं पुरस्कृत्य संन्यसेदिह बुद्धिमान् ॥(217)  
+'मुक्तेश्च बिभ्यतो देवा मोहेनापिदधुर्नरान् ।  
+ततस्ते कर्मसूद्दुक्ताः प्रावर्तन्ताविचक्षणा ॥(218)  
+मुच्यते येन सः मोक्षः ज्ञानम्, तत्साधनम्। उत्तमं--अन्तरङ्गमिति यावत् । हेतुमाह--त्यजतैवेति । कर्तृत्वाद्दभिमानिनः ब्रह्मावगमायोगादित्यर्थः । (215)शमादीनामन्तरङ्गत्वम्, न संन्यासस्य तथात्वम्, अत्राह--शान्त इति । उपरत इति उत्पत्तिविधिसिद्धसंन्यासमादाय श्रवणविधानात्सर्वशाखाप्रत्ययन्यायेन शमादिवत्संन्यासोऽप्यङ्गमित्यर्थः । (216)'कषाये कर्मभिः पक्वे ततो ज्ञानं प्रवर्तते'इति स्मरणात्कर्मसाध्यं ज्ञानम्, न संन्याससाध्यम्, अत्राह--प्रवृत्तीति । युज्यते अनेनेति योगः कर्म। प्रवृत्तिः --अनुष्ठानमविवेकिकर्तृकम्, लक्षणं--कारणं यस्य सः
+----प्रवृत्तिलक्षणः इति यावत् ॥(217)  
+ यदि त्यागस्यैवोत्तमसाधनत्वं, तर्हि केषाञ्चित् पुरुषा(र्था)र्थिनामेव कथं कर्मण्यभिनिवेशः!, अत्राह--मुक्तेश्चेति । 'एवं स देवानाम्, (बृ.3-4-10)इति श्रुतेः कर्मिणः देवपशवः, तेषां तत्त्वज्ञानात् देवपशुत्वमोक्षात् त्रस्यन्तः इत्यर्थः । मोहेन अपिदधुः
+---अज्ञानकार्यरागादिना आच्छादितवन्तः ।(218)सर्वत्यागस्य ज्ञानहेतुत्वे कस्मात्कृतसंन्यासा एव श्रुतवेदान्ताः केचिन्न मुच्यन्ते!  
+अतस्संन्यस्य कर्माणि सर्वाण्यात्मावबोधतः ।  
+हत्वाविद्दां धियैवेयात्तद्विष्णोः परमं पदम् ॥(219)  
+इति भाल्लविशाखायां श्रुतिवाक्यमधीयते ।  
+सर्वकर्मनिरासेन तस्मादात्मधियो जनिः ॥(220)  
+सत्यानृते इति तथा सर्वसंन्यासपूर्वकम्।  
+आत्मनोऽन्वेषणं साक्षादापस्तम्बोऽब्रवीन्मुनिः ॥(221)  
+अत्राह--अत इति । आत्मा अवबुद्धयते येन सः आत्मावबोधः ---वैराग्यम्। संन्यस्येति सम्बन्धः। अनधिकारिणा कृतं शूद्रयागवद्विफलमित्यर्थः ॥ (219)उदाहृतवाक्यानां कृतकत्वशङ्कापरिहारायाह---इति भाल्लवीति। तात्पर्यमाह---सर्वेति । (220)स्मृतिमाह--सत्येति । सत्यानृते सुख-दुःखे वेदानिमं लोकममुञ्च परित्यज्यात्मानमन्विच्छेत्'(आ.ध.2-9-21-13)इति स्मृतिरपि इममर्थमाहेत्यर्थः । तदर्थनिर्णयार्थं स्मृत्यन्तरमाह---तथेति । 'अध्यात्मिकान्योगाननुतिष्ठेन्यायसंहिताननैश्चारिकान्''आत्मलाभान्न परं विद्दते '(आ.ध.1-8-32-1,2)इत्यादिना आपस्तम्बोऽपि संन्यासपूर्वकश्रवणमाहेत्यर्थः ॥(221)'कुर्वनेवेह कर्माणि जिजीविषेत्'(ईशा.2)इति श्रुतिर्नित्यकर्मणां त्यागो न युक्तः, अत्राह--नेति । अशान्तः --फलरागप्रेरितकर्मकर्ता। असमाहितः --नियत्यकर्मानुष्ठानायासी ।  
+'नाविरतो दुश्चरितान्नाशान्तो नासमाहितः ।  
+नाशान्तमानसो वापि प्रज्ञानेनैनमाप्नुयात्'॥(222)  
+वेदानुवचनादीनां विनियोगोक्तियत्नतः ।  
+भिन्नाधिकारितालिङ्गं कर्मविज्ञानकाण्डयोः ॥(223)  
+ज्ञानोत्पत्त्यादिकाल्लिङ्गद्दतस्तद्धेतुमात्रकम्।  
+गम्यते, न विशेषोऽतः कर्मैवेति न गम्यते ॥(224)  
+अशान्तमानसः ---विषयप्रवणचित्तः । एवं भूतस्य ज्ञानाभावान्न मुक्तिः इति प्रतिपादकश्रुत्या सन्नयासिन एव श्रवणादिमतः ज्ञानद्वारा मुक्तिरुक्तेत्यर्थः ।(222)  
+ इत्थं मोक्षार्थिनः ज्ञानसाधनश्रवणाङ्गतया संन्यासविधानात् काण्डयोरधिकारिभेदस्सिद्धः । तत्र लिङ्गमाह--वेदेति । यत्नत इति तस् प्रथमार्थे । स्वतन्त्रफलानां कर्माणां संयोगभेदेन ज्ञानसाधनतया विनियोगः ज्ञानकर्मणोर्भिन्नाधिकारित्वं द्दोतयतीत्यर्थः॥(223)कर्मणां विनियोगादेव तर्हि यावज्ज्ञानं तेषामनुष्टेयत्वान्न सन्न्याससिद्धिः, अत्राह---ज्ञानेति । 'धर्मात्सुखं च ज्ञानं च 'इति क्वचित् ज्ञानहेतुत्वं गम्यते, 'विविदिषन्ति 'इति क्वचित् विविदिषाहेतुत्वं, 'संस्काराः 'इति क्वचित्तु संस्कारत्वम्, अनुपहतमना (ए)वेति क्वचित् शुद्धिप्रधानत्वम् । अतः अनेकबलात् कर्मणो ज्ञानहेतुत्वमात्रं गम्यते, न तु कर्मैवेति विशेषः। तस्मात्कर्मणां शुद्धिद्धारेण हेतुत्वं, तत्त्यागस्य साक्षादेवेति न विरोध इत्यर्थः ॥(224)कर्मत्यागस्य ज्ञानसाधनत्वेऽपि न शिखायज्ञोपवीतादि त्यागयोग्यम्, तत्त्यागिनः स्नााचमनादावनधिकारात्,अत्राह--मुण्ड इति ।  
+मुण्डोऽपरिग्रहोऽसङ्गो बहिरन्तश्शुचिस्सदा ।  
+ब्रह्मभूयाय भवति परिव्राडिति च श्रुतिः ॥(225)  
+इत्यादिश्रुतिवाक्यानि स्मृतिभिस्सह कोटिशः ।  
+ज्ञानाय विदधत्युच्चैः सन्न्यासं सर्वकर्मणाम्॥(226)  
+यच्चाभाणि विना कार्यं नाधिकारो निरुप्यते ।  
+दोषोऽयमपि नैव स्यात् ज्ञानोपाये यथोदिते ॥(227)  
+बाह्यशिखारहितः मुण्डः ।बाह्ययज्ञोपवीतरहितः ---अपरिग्रहः ॥(225)'अथ परिव्राड्विवर्णवासाः मुण्डोऽपरिग्रहः शुचिरद्रोही भैक्षाणो ब्रह्मभूयाय भवति '(जाबा. 5-2)इति जाबालश्रुतिः। अथ परिव्राडित्युपक्रम्य 'एक(स)(शा)टीपरिहितो मुण्डः 'इति मैत्रेयीब्रह्मणम् ,  
+सशिखं वपनं कृत्वा बहिस्सूत्रं त्यजेद् बुधः'(ब्रह्मो.6)  
+तस्मात्कर्म न कुर्वन्ति यतयः पारदर्शिनः '(सन्न्या.117)  
+इत्यादिवाक्यं च प्रमाणमित्याह--इत्यादीति ।(226)  
+कार्यं विना अधिकारः न निरुप्यते इति परोक्तचोद्दानुवादः, तन्निरासश्च  
+एवं साधनादिभेदं प्रसाध्य चोद्दान्तरमनुवदति --यच्चेति । श्रवणादावधिकारासिद्धिः!ज्ञाने वा !नाद्दः इत्याह--दोष इति । आत्मप्रकरणे अवान्तरवाक्यभेदेन श्रवणादिनियमविध्यङ्गीकारदित्यर्थः ॥(227)द्वितीयं दूषयति --विधीयति । विहितं प्रत्यधिकारविचारः, ज्ञानस्याविहितत्वात्स्वर्गादिवत्फल(व)त्वाच्च् नाधिकारचिन्तेत्यर्थः ॥(228)ज्ञानस्यापि वैदिकसाधनत्वाद्विधेयत्वाद्विधिपुरुषसम्बन्धनिमित्तमदिकारो विचार्य एव, इत्यत्राह--अधिकारेति । यदिष्टसाधनं कर्तुमकर्तुमन्यथा कर्तुं च शक्यमन्यतोऽप्राप्तं तदेवं विधिगोचर इत्यर्थः ।नैवं ज्ञानम्, अनिष्टविषयोपलम्भात्, इत्याह--वस्त्विति । आत्मनः सुखरुपत्वात्तदाकारवृत्तेः सुखसाक्षात्कारतया स्वर्गवत्पुमर्तत्वान्न विधेयत्वम्, धर्मवत् , अतः पुमर्थः इत्यसिद्धो हेतुः,अत्राह--अनात्मनीति । पुत्रादौ विषये पुमर्थत्वेन सेमतस्यापरोक्षसंवेदनस्य वेदानतप्रमेयस्यात्मत्वात्पुमर्थत्वमात्मन इत्यर्थः ॥(230)इत्थमात्मनः पुमर्थत्वमनुभवसिद्धमित्युक्तम्।  
+विज्ञानभानन्दमिति ह्यात्मैवेति श्रुतेस्तथा ।  
+पुमर्थस्यैव मेयत्वं मातृतवाद्दनपेक्षतः ॥(231)  
+तज्ज्ञानं यस्य सञ्जातं जातमेवास्य नान्यथा ।  
+कुक्षिस्थस्यापी हि सतो वामदेवस्य तद्दथा ॥(232)  
+तथाऽविद्दानिरास्येव व्याधभावनयाञ्जितः ।  
+राजसूनोः स्मृतिप्राप्तौ व्याधभावो निवर्तते ॥(233)  
+इदानीमनुमानस्य श्रुतिविरोधमाह--विज्ञानमिति । आनन्दस्य जन्मादि(स)(म)तः आत्मत्वमं कथम!अत्राह-आत्मैवेति । 'आत्मैवेदं सर्वम्'(छा.7-25-2)इत्यनात्मनोऽध्यस्तत्वाज्जन्मादि कल्पितमित्यर्थः । मातृमानादिविभागश्चेत् अद्वैतविरोधः, अन्यथा न मेयत्वम्, अत्राह---मातृत्वादीति । ज्ञानोत्पत्तिप्राक्काले अर्थक्रियासमर्थमात्रादिकमाश्रित्य जायमानं ज्ञानं तन्निराकुर्वदेव जायते । ततश्चात्मा स्वप्रकाशत्वात्स्वत एवापरोश ित्याशयः ॥(231)  
+ किं च, ज्ञानस्य विधयत्वं किमबाध्यत्वार्थम्!उत अविद्दानिवर्तकत्वार्थम!नाद्दः इत्याह---तदिति । वामदेवस्य मूत्रपुरीषाद्दनेकदोषदूषिते कुक्षौ शयानस्यापि जादं ज्ञानं न बाध्यते,तत्त्वज्ञानेनाध्यस्तस्यैव बाध्यत्वात्, एवं ज्ञानस्वभावत्वात् । अतो न तदर्थो विधिरित्यर्थः । (232)नापि द्वितीयः इत्याह--तथेति । उदारहणेनोपपादयति ---व्याधेति । कस्यचिद्राजकुमारस्य गर्भनि(सा)(स्सा)रणानन्तरभ्रष्टराज्यताय वनं प्रविष्टस्य व्याधैः पुत्रताय पोषितस्य द्दृढभावितव्याधभावस्यौषधादिसेवया प्राप्तराज्यसामर्थ्यस्य तन्मन्त्रिभिः चिह्नविशेषदर्शनेनावगतराजभावस्य 'नासि त्वम् व्याधः'राजैवं 'इति बोधितवाक्यजबोधः अबोधध्वंसे नापरमपेक्षते यथेत्यर्थः । दार्ष्टान्तिकं दर्शयति ---एवमिति । (233,234)विधिमन्तरेणापि फलसाधनसमर्थस्यावघातस्य विधेयत्ववत् न ज्ञानस्यापि विधेयत्वं किं न स्यात्!अत्राह---यत इति । तत्र द्दृष्टसमवेताद्दृष्टं फलमस्तीत्यर्थः । अत्रापि नियमविधिरेव कल्प्यताम्, अत्राह---अनर्थक इति । (235)सुखस्य धर्मफलत्वानमुक्तेश्च सुखरुपत्वादद्दृष्टसाध्यत्वात् नानर्थक्यम्, अत्राह---उत्पत्तिरिति । पिण्डोत्पत्तिफलं संयवनम्, पि(ष्टौ)(ष्टं )संयौति इति विधीयते । पयः प्राप्तिफलं दोहनं गां दोग्धीति । व्रीहिसंस्कारफलं प्रोक्षणं व्रीहीन् प्रोक्षतीति । व्रीहिविकारफलः अवघातः व्रीहीनवहन्तीति । मुक्तेरेतेषामन्यतमत्वं कस्प्यतां तत्साधनविधिसिधये, अत्राह--मुक्तिरिति । अनाधेयादिशयकूटश्थनित्यात्मस्वरुपत्वादित्यर्थः ।(236)  
+स्वरुपाभिव्यक्तिर्वा अविद्दादिमलनिरासो वा संस्कार(ः)कर्मफलमस्ति, इत्यत्राह--अनन्येति न क्रिया(र्थ)(त्व)मिति फलत्वाभावे द्दृष्टान्तत्वेनोक्तम् । क्रियाफलत्वप्रतिषेधे परिशेषात् कारकत्वेन कर्माङ्गत्वे ज्ञानस्यापि तदङ्गत्वम्, अत्राह--नापीति । (237)  
+न क्रियात्वं फलत्वं वा नापि कारकरुपता ॥(237)  
+अतोऽत्र विध्यभावोऽयं न कथंचन दूषणम्।  
+अलंकृतिरियं साध्वी वेदान्तेषु प्रशस्यते ॥(238)  
+चोदनाभिर्नियुक्तोऽहं तथा ब्रह्महमित्यपि ।  
+परस्परविरुद्धत्वादेकदैकत्र न द्वयम् ॥(239)  
+स्वामी सन्नहि भृत्येन स्वामिनेव नियुज्यते ।  
+संबोधनीय एवासौ सुप्तो राजेव बन्दिभिः ॥(240)  
+वैश्यादीनाम निधिकृतबृहस्पतिसवादिवाक्याध्ययनं जुपोपयोगि। तद्वत अविधिपरवेदान्ताः जपोपयोगित्वादविवक्षितार्थाः , तत्राह--अत इति । स्वाभाविकाकार्यशेषभावानपवादात् विधेयासंभवाच्चेति भावः। विधिसद्भावे, न ज्ञानमात्रात् कृतकृत्यता । तदभावे, धीजन्ममात्रदविद्दास्तमयसिद्धेरलंकारोऽपि, इत्याह--अलंकृतिरपीति । (238)विद्दावतो नियोगः, उत कृतपदार्थविवेकस्य मुमुक्षोः, आद्दं प्रत्याह--चोदनाभिरिति । (239)द्वितीयं दूषयति--स्वामीति । नामरुपप्रपञ्चो मदविद्दाविलसितः इति परोक्षनिश्चयात् कर्मतत्फलत्प्रमाणानां स्वामीत्यर्थः । तद्वदेव वेदान्तस्वामित्वात् तेषामपि तत्र प्रामाण्यं न स्यात्, अत्राह--संबोधनीय इति । लक्षणया तदाकारवृत्तिजननद्वारा अज्ञाननिवर्तकत्वात्प्रामाण्यमित्यर्थः ।(240)  
+चोदनालक्षणत्वादि धर्मं प्रत्येव गृह्यताम् ।  
+धर्मस्यैव प्रतिज्ञोक्तेः न तु ब्रह्म प्रतीष्यते ॥(241)  
+अथातो धर्म इत्युक्तेश्चोदनालक्षणोक्तितः ।  
+तद्भूतानां क्रियार्थेन ह्याम्नायस्य क्रियार्थतः ॥(242)  
+अथातो धर्मजिज्ञासेति सूत्रप्रतिज्ञातविचारविषयवेदार्थान्तर्गतस्य ब्रह्मणः  
+ विधिसंसृष्टत्वेन काण्डयोः साधनाधिकार्यौक्यशङ्का, तन्निरासश्च  
+अथातो धर्मजिज्ञासा (पू.मी.(1-1-1) इति वेदार्थोपाधौ विचारप्रतिज्ञानात् ब्रह्मणोऽपि वेदार्थस्य विधिसंसृष्टत्वम् । अतः साधनाधिकार्यैक्यमित्याशङ्कयाह--चोदनेति ।  
+उ चोदनालक्षणोऽर्थो धर्मः (पू.मी. 1-1-2)इति श्रुत्यर्थाभ्यां प्रमाणं लक्षणं चो(द्द)(च्य)ते । प्रथमसूत्रे अथातश्शब्दाभ्यां वेदाधययनस्य पूर्ववृत्ततया विचारं प्रति पुष्कलत्वम्। तत्सर्वं वेदार्थविशेषधर्मं प्रत्येव गृह्यतां, न वेदार्थमात्रं प्रति । धर्मोपाधावेव संशयपूर्वपक्षयोर्दर्शितत्वादित्यर्थः। हेत्वन्तरमाह---धर्मस्यैवेति । धर्मजिज्ञासा, चोदनालक्षणोऽर्थो धर्मः इति च तस्यैव विचार्यत्वलक्ष्यत्वप्रतिज्ञानादित्यर्थः । धर्मशब्दस्य लक्षणया वेदार्थे प्रयोगः, तत्राह--न त्विति । श्येनादेरपि वेदार्थतया व्यावर्त(नीय)त्वा(त)सिद्धेः, चोदनासूत्रे अर्थशब्दवैयर्थ्यादित्यर्थः ।(241)धर्मस्यैव इत्येतत्प्रकटयति---अथात इति । साङ्गध्ययनवतः स्वाध्यायादापातप्रतिपन्नोऽर्थः बाधितः, अबाधितो वेति संदिहानस्य न्यायेन निर्णयार्थं'अथातो धर्मजिज्ञासा '(पू.मी.1-1-1)इति सूत्रितम् । तेन च अध्यापनविधिसत्त्वमुपनयनस्य तदङ्गत्वमध्ययनस्य तत्प्रयुक्तत्वं तदशेषतया स्वतन्त्राधिकारश्चेति चत्वारोऽर्थाः समर्थ्यन्ते ।तत्र वेदार्थविचारोपायभूत(यावन्नि)(न्यायनि)बन्ध(नि)(न) मीमांसाशास्त्रं विषयः । तत् किमनारभ्यमुतारभ्यमिति संदेहः । तत्र स्वाध्यायोऽध्येतव्यः इति विधीयमानाध्ययस्य 'अष्टवर्षं ब्रह्मणमुपन(येत्)(यीत)तमध्यापयीत'इति श्रुतेः, 'उपनीय तु यः शिष्यम्'इत्यादिस्मृतेश्च प्राप्तोपनयनाङ्गकाचार्यकरणविध्यधिकारनिष्पत्तिफलत्वात्,स्वाध्यायस्य च तदर्थत्वात् अन्यपरत्वे सत्यविवक्षितस्वार्थ इति विषयाद्दभावादनारभ्यं शास्त्रमिति पूर्वः पक्षः ।  
+ उपनयनाङ्गकाध्यापनविधिप्रयुक्त्वेऽप्यध्ययनस्य न तन्निष्पतिरेव फलं, पुरुषान्तरस्थत्वेन बहिरङ्गत्वात्। अर्थज्ञानञ्चाध्ययनोत्तरभावित्वेऽप्यध्येतृसमवेतत्वेनान्तरङ्गत्वात् तत्फलम् ।  
+ तथाचाध्ययनस्य स्वनियोगोऽर्थधीश्चेति, शब्दतोऽर्थतश्च फलद्वयम्। न चैवमर्थ5ानकामस्य नियोज्यत्वम् । प्रागध्ययनात् वेदार्थानवगमात् कामनायोगात् परप्रयुक्तया चानुष्ठा(न)(ने)नियोज्यापेक्षाभावात् अर्थधीरधिकारहेतुः । अतः स्वाध्यायस्य विवक्षितार्थत्वात् विषयादिभावादारभ्यं शास्त्रमिति राद्धान्तः ॥  
+ तत्र वेदार्थोपाधिविचारे, वेदार्थजिज्ञासा इत्यवक्ष्यत् । धर्मजिज्ञासा इति तु ब्वीति । अतः कर्मकाण्डार्त एव विचारित इत्यर्थः ।  
+ ननु चोदनासूत्रे ब्रह्मणोऽपि विधिशेषत्वं गम्यते । तद्धि, जिज्ञास्यत्वेन प्रतिज्ञातवेदार्थरुपं, तत्प्रमाणं, शब्दस्यार्थस्यर्शित्वं, कार्यस्यैव तदर्थत्वमित्यर्थचतुष्टयमादेष्टुमारब्धम्, तत्प्रमाणं,शब्दस्यार्थस्यर्शित्वं, कार्यस्यैव तदर्थत्वमित्यर्थचतुष्टमादेष्टुमारब्धम् । तत्र वेदार्थो विषयः । स किं सिद्धरुपोऽपि, किं वा कार्यरुप एव इति संशये, 'सत्यं ज्ञानमनन्तं ब्रह्म'(तै.2-1)इत्यादिषु सिद्धार्थद्दृष्टेः, तद(पू)(स्फू)र्तेश्च हेत्वभावात् कार्याध्याहारासिद्धेः, व्यवहारं विनापि सिद्धार्थेषु पुत्रजन्मादिवाक्येषु व्युत्पत्तिसंभवात्, तदनुसारित्वात्तात्पर्यस्य सि(द्धि)(द्ध)रुपोऽपि वेदार्थः संभवतीति पूर्वापक्षे, व्यवहारस्यैव व्युत्पत्तावादिमार्गत्वत् , पुत्रजन्मवाक्ये च तज्जन्माख्यहर्षहेतुप्रतिपादकताया दुरवधारणत्वात्, बहुषु हर्षहेतुषु संभावितेषु पारिशेष्यायोगात्, व्यवहारस्य च विशिष्टार्थविषयतया द्दृष्टस्य शक्तिकल्पकत्वसंभवात्, तस्य च कार्याव्यभिचारात् तत्र शक्तिग्रहात् आवापोद्वापाभ्यां च विशेषतः सिद्धेः, शक्तयनुसारित्वाच्च तात्पर्यस्य, अर्थस्पर्शिनः शब्दात् कार्यस्यैव सिद्धेः, अद्दृष्टकार्येष्वपि वाक्येषु अध्याहारलक्षणयोरन्यतरस्यावश्यकत्वात्, वेदान्तानामपि यथा कथञ्चित् विधिशेषत्वेन कार्यपरत्वात् कार्यरुप एव वेदार्थः इति राद्धान्तितम् ॥  
+ तथा च वेदार्थत्वात् ब्रह्मणोऽपि कार्यशेषतया विध्यनुप्रवेश इति ।  
+तत्राह--चोदनेति । प्रवर्तकं वचनं चोदना। तल्लक्षणः---तद्गम्यः यः अर्थः---श्रेयस्करः श्येना(द)(दि)व्यतिरिक्तः स धर्मः इति सूत्रार्थः। धर्मजिज्ञासेत्युक्त्वा, को धर्मः इत्याशङ्कय, चोदनालक्षणोऽर्थो धर्मः इत्युक्तवा, चोदनेति क्रियायाः प्रवर्तकं वचनम् इति ब्रुवता अध्ययनानन्तरं धर्मविचारः कर्तव्यः इत्युक्तं गम्यते इत्यर्थः।  
+ ननु तद्भूताधिकरणन्यायेन ब्रह्म विधिस्पृशष्टमेष्टव्यम् । तथाहि, वेदवाक्यानि विषयः । तानि मानान्तरापेक्षाणि (किंवा) तन्निरपेक्षाणीति संशयः। तत्र(विद्वद्)(वृद्ध)व्यवहारे वाक्यात् तदर्थावगमेऽपि वेदवाक्यस्य समुदायान्तरत्वात् तस्य चार्थेनागृहीतसंबन्धत्वात्, तत्कल्पनायां च संकेतस्य स्वीकर्तव्यत्वात्, वेदवाक्यानां मानान्तरसापेक्षत्वादप्रमाण्यमिति पूर्वपक्षयित्वा, लोके वेदे च पदार्थयोरनन्यत्वात्, वेदे वाक्यार्थावगतेः लोकव्युत्पत्तिमूलत्वात्, कार्यान्विते ज्ञातशक्तीनामेव पदानां विशिष्टर्थावच्छेदकानां वाक्यत्वात्, संकेतानपेक्षाणां वैदिकवाक्यानां कार्यधीहेतुत्वात्, अपौरुषेयाणां तेषामनपेक्षतया प्रामाण्यमिति सिद्धान्तितम् ॥  
+ अतो लोकावसितकार्यसंगतिद्वारा ब्रह्मण्यपि वाक्यं बोधकमिति तस्य कार्यसंबन्धाद्विधिशेषतेति, तत्राह--तदभूतानामिति । 'तदभूतानां क्रियार्थेन समान्नायोऽर्थस्य तन्निमित्तत्वात्'(पू.मी.1-1-25)तेषु पदार्थेषु भूतानां पदानां कार्यरुपेण वाक्यार्थेन ---तत्प्रतिपत्त्यर्थत्वेन, समाम्नायः---संभूयवाक्यतेवनोच्चारणम्, एकैकपदस्मृतार्थ(स्य)मि(ति)लितस्य वाक्यार्थप्रतिपत्तिनिमित्तत्वात्। पदानामेव हि पदार्थस्मृत्यवान्तरव्यापाराणां वाक्यार्थबोधकत्वमिति सूत्रार्थः। अन्वितमात्रे संगतिग्रहात् स्वतन्त्रमेव वाक्यमे(व)(यं)ब्रह्मेति भावः ।  
+ तर्हि अर्थवादाधिकरणन्यायेन विधिशेषत्वं ब्रह्मणः, अत्राह--आम्नायस्येति । तत्रापि विधिप्रकरणपठितार्थवादानामेव तच्छेषत्वमुक्तं, न वेदान्तानामपि । तेषां तत्र विषयत्वेनानुदारणादित्यर्थः॥(242)  
+ भावार्ताधिकरणन्यायेन ब्रह्मणो विधिशेषत्वम्। तथा हि चित्रया यजेत पशुकामः इत्यादिषु किं प्रतिपतं नियोगसम(र्थ)(र्प) कत्वम, उत एकमेव पदमेकस्मिन्वाक्येऽनुबन्धसंभ(र्थ)(र्प)कमितरत्तदर्थमिति संशये, कार्यार्थत्वात् सर्वपादानां साक्षात्संबन्धसंभवे परम्पराश्रयणानुपपत्तेः प्रतिपदं नियोगविषयत्वम्। न चैवं चित्रया यजेतेति प्रतीयमानक्रियाकारकसंबन्धबाधात्, अरुणैकहायन्योः एककार्यान्वयादुभयविशेषविशिष्टस्य कार्यस्यान्यथासिद्धयनुपपत्तेः, अर्थान्नियमः सिद्धयति । इह तु कार्यभेदात् क्रियाकारकयोर्नियमानुपपत्तिः। तस्मादन्यतरानुगृहीतस्यान्यतरस्य विषयसम(र्थ)(र्प)कत्वम्, इति स्थिते  
+ किं द्रव्यगुणानामपि विषयसम(र्थ)(र्प)क्तव , उत भावशब्दानामेवेति संशये, विनियोगविरोधाभावात् विशेषाग्रहादनियमः इति प्राप्ते ,  
+ द्रव्यगुणयोर्विधिविषयत्वे क्रियां प्रति तयोरीप्सितत्वेन कर्मत्वान्न कारकत्वं संभवति । न च कर्म कारकम् । कारकावस्थाश्रितः क्रियाजन्योऽतिशयः कर्मेत्युच्यते । न च क्रियासाध्यस्य तस्य क्रियां प्रत्येव कारकत्वम्। अतो विनियोगविरोधात् एकस्य स्वतः साध्यत्वमन्यस्य तद्दोगादिति स्वतः साध्यस्यैव भावार्थस्य विधिविषय(त)(ता) या युक्तत्वात् प्रत्ययार्थमपूर्वं प्रति समानपदोपात्तस्य भावार्थस्य श्रुत्या विषयत्वं, पदान्तरयोर्द्रव्यगुणयोर्वाक्यादिति भावार्थानामेव विधिविषयत्वमितरेषां तादर्थ्यमिति राद्धान्तितम्॥  
+ तथा च वेदान्तानामपि सिद्धमर्थमर्पयतां विधिशेषत्वात् तच्छेषतेति, तत्राह--भावार्था इति । 'भावार्थाः कर्मशब्दाः तेभ्यः क्रिया प्रतीयेतैष ह्यार्थो विधीयते '(पू.मी.2-1-1)। सन्ति केचित् केवला भावार्थाः शब्दाः, भावो भवनमित्यादयः। न ते नियोगवादिनः । सन्ति च केचित् केवलाः कर्मशब्दाः यागो दानमित्यादयः । तेऽपि न नियोगवाचिनः । ये तु भावार्थाः कर्मशब्दाः यजेतेत्यादयः, तेभ्यः क्रियाशब्दितः साध्यैकरुपो नियोगो गम्येत । यस्मादेष नियोगाख्योऽर्थः विधिना विषयीक्रियते । तस्मात् यथोक्तेभ्यः शब्देभ्यो नियोगप्रतीतेः तादर्थ्यं क्रियाकारकपदानामिति सूत्रे प्रतीयते । ब्रह्मणोऽक्रियाकारकस्य नै क(त)न्न्यायविषयत्वमित्याशयः। तथापि सहस्राधिकरणानामन्यतमगोचरो ब्रह्म नियोगोपरक्तम, अत्राह--इत्येवमिति ।  
+भावार्थाः कर्मशब्दा ये प्रतीयेत क्रिया ततः ।  
+इत्येवं नरतन्त्रेऽर्थे ज्ञेया द्वादशलक्षणी ॥(243)  
+कर्तुमकर्तुमन्यथा वा कर्तुं यच्छ (कं) (क्यं)तद्विषया प्राक्तनमीमांसा, न प(र)(रि) निष्पन्नब्रह्मगोचरेत्यर्थः। (243)प्राक्तनमीमांसनस्य धर्मप्रमाणत्वे वेदान्तानां द्विपरीताद्वैते प्रामाण्यं न स्यात्, अत्राह--वेदान्तेति ।धर्मनिर्णयोपयुक्तन्यायप्रतिपादकद्वादशलक्षणी न वेदान्तार्थनिराकरणसमर्था ।हेतुमाह--तदिति तत्र--धर्मे करणोपकारकत्वेन प्रमाजनकत्वादिति यावत्। विरुद्धार्थग्राहिणोर्द्वयोः प्रामाण्यानुपपत्तौ न्यायानुगृहीतक (र्मानुगृहैत)(र्मवाक्य)स्यैव प्रामाण्यं मन्तव्यं न वेदान्तानाम्,अत्राह--मानमिति ।मान्तरैः---तत्त्वावेदनप्रमाणैः वेदान्तैः मितं निराकर्तुं मानं --व्यावहारिकप्रमाणं कर्मवाक्यं, नालम्। व्यवहाराङ्गर्थक्रियासमर्थस्वार्थमात्रबोधनपटुत्वादित्यर्थः । त्र्य्यन्तवचसामनुग्राहकतर्कविकलानां न त्तत्वावेदनप्रामाण्यार्हत्वम्, अत्राह--अथात इति । 'अथातो ब्रह्मजिज्ञासा '(ब्र. सू.1-1-1)इत्यादिसूत्रवाक्यं नयान्वितम् --वाक्यानुग्राहकतर्कग्रथनपरम्। (244,245)  
+ मीमांसान्यायवत्त्वाभ्यां --सूत्रसन्दर्भस्य मीमांसात्वप्रसिद्धेः न्यायवत्त्वप्रसिद्धेश्चेत्यर्थः । न्यायश्च 'दुःखजन्मप्रवृत्तिदोषमिथ्याज्ञानानामुत्तरोत्तरापाये तदनन्तराभावादपवर्गः(न्या.सू.1-1-2)इति सूत्रितः, आरम्भणाद्दधिकरणसूत्रितानुमानादिश्च द्रष्टव्यः। 'धर्ममीमांसनोक्तिवत्'इति वदता धर्ममीमांसाया न्यायवत्त्वमुपगतम्। अत उभयाभ्युपगतत्वात् सैव मानं, न विप्रतिपन्नब्रह्ममीमांसा, अत्राह--एवमिति । तत्त्वातत्त्वविषयव्यवस्थायां सत्यां तत्त्वमादि अनुकूलार्थं ---मानान्तरानपहृनुतविषयमिति यावत् । (246)वाक्यप्रामाण्यं तात्पर्याधीनं नाभिधानकृतम्, अभिधान(कृतेः)(वृत्तेः)तात्पर्यस्य बलीयस्त्वात् । न च मानान्तरविरुद्धे तात्पर्यम, अत्राह---सर्वेति । सर्ववेदान्तविषयं ---सर्वोपनिषद्गतं महावाक्यम्, उपक्रमादिलिङ्गगति सामान्याभ्यां तत्परमित्यर्थः । उपक्रमादिलिङ्गं कर्मवाक्यस्याप्य(व)(वि) शिष्टम्। अतस्तदपि (त)त्त्वावेदकं किं न स्यात्, अत्राह---अन्यथेति । सत्प्रतिपक्षहेत्वोरिव द्वयोरप्यप्रामाण्यप्रसक्तिरित्यर्थः । (247)  
+ विधीयमानभावनापेक्षितार्थसमर्पकत्वेन वेदान्तानां विधिशेषत्वशङ्काया निराकरणम्नियोगस्यालौकिकस्य संगत्यगोचरस्याविधेयत्वेऽपि भाव्यनिष्ठो भा(वि)(व)कव्यापारो भावना विधीयते । अतस्तदपेक्षितार्थसम(र्थ)(र्प)कत्वेन वेदान्तानां तच्छेषत्वम्, अत्राह---न तत्रेति । किं, केन, कथं, भावयेदित्यं शत्रयापेक्षा भावना नेह संभवति , करणांशाभावादिति भावः। (248)भावनैव तर्हि क्वापि न भवेत्, अत्राह---इतिकर्तव्यतेति । फलेप्सया प्रहितस्य----स्वर्गादिकामनया प्रवर्तितस्य, स्वर्गादिभाव्यादानं धात्वर्थकरणादनं प्रयाजादीतिकर्तव्यादानं यत्र, तत्र विधिः---शब्दभावनाख्यः। स्थाने सप्तम्यन्तप्रतिरुपको निपातः स्थाने शब्दः । युक्त इत्यर्थः । (249)  
+ साधनचतुष्टयविशिष्टस्याधिकारिणः फलरागात् प्रवृत्तेः भाव्यसिद्धौ करणादिसिद्धिः, अत्राह--आप्तेति । अप्राप्तापरिहृतयोः प्राप्यपरिहार्ययोरयोगात् न तदिच्छेत्याशयः। रागगोचरभाव्यायोगेऽपि करणाद्दंशसत्वात् भाव्यान्तरं परिकल्प्य भावनाभ्युपेया, अत्राह---तन्निवृत्ताविति । (250)पुमर्थस्य---सुखसाक्षात्कारस्य । आत्मरुपतः--स्वतः प्राप्तत्वात् । निरन्तरायतः ---अप्रतिबन्धत्वात्। भाव्यान्तरस्य कल्पयितुमशक्यत्वादित्यर्थः। शास्त्रारम्भवत्त्वाय किमपि साध्यं फलमेष्टव्यम् । अतो भाव्यसिद्धौ भावनासिद्धिः, अत्राह--नचेति । अविद्दास्तमयः फलं धीसाध्यम्। धीश्च न प्रयत्नमपेक्षते इत्यर्थः। (251)  
+भावनातो न चान्यत्र विधिरभ्युपगम्यते ।  
+मोहमात्रान्तरायायां मुक्तावस्तु यथोदितम् ॥(252)  
+एकदेशो विकारो वा संसारीत्वात्मनो यदा ।  
+किं तदाप्युक्तमार्गेण मुक्तिः किंवा क्रियाश्रयात् ॥(253)  
+निवृत्तावेव निश्शेषसंसारस्य तदापि तु ।  
+आगन्तोरधिकारः स्यान्न प्रवृत्तौ कथंचन ॥(254)  
+आत्माज्ञाननिमित्तस्य ह्यन्यत्वानुपपत्तितः ।  
+तदाप्यविद्दाविध्यवस्तावधिकारो न कर्मणि ॥(255)  
+ कैवल्यस्य क्रियासाध्यत्वमिति स्वयूथ्यशङ्का तन्निरासश्च  
+वेदान्तानां विधिपरत्वनिराकरणेन साधनाधिकारिभेदे साधिते स्वयूथ्यः शङ्कते
+---मोहेति । अस्तु यथोदितं---ज्ञानादेव कैवल्यं भवतु । न तु (अ) ज्ञानमात्रव्यवहितं कैवल्यम्, (अत्रा)(इत्या)ह---एकदेश इति । कैवल्यस्य क्रियासाध्यत्वान्न साधनाधिकारिभेद इति भावः । (252-253)प्रतीचो ब्रह्मांशत्वमविद्दाकृतं, भाविकं वा, आद्दं प्रत्याह---निवृत्ताविति । आगन्तुकस्य निश्शेषसंसारस्य ---निखिलबन्धकारणकर्मव्रातस्य, निवृत्तौ
+---संन्यासपूर्वकधीसाधनश्रवणादौ, अधिकारः स्यात्। धीमात्रापोद्दत्वादविद्दाया इत्यर्थः ।(254)निवृत्तेर्धीफलत्वेऽपि भेदांशनिवृत्तिः कर्मफलम्, अत्राह--आत्मेति । तदापीति । भेदांशव्यावृत्तेः साध्यत्वेऽपीत्यर्थः । (255)कार्यत्वमप्याविद्दं, भाविकं वा। आद्दे, गदितावद्द(मि)तिदिशति --कर्तव्येति ।  
+कर्तव्याभावतस्त्वेवं विकारेऽपि न कर्मणि ।  
+कारणैकत्वसंपत्तेः स्वतः सिद्धत्वहेतुतः॥(256)  
+मृदापत्तिर्घजस्येव विकारस्यात्मनो ध्रुवम् ।  
+अविकारात्मसंपत्तिः सा च तत्त्वावबोधतः॥(257)  
+कार्यकारणयोर्भित्तौ कार्यकारणता कुतः ।  
+अभितौ च तयोरैक्यात् कार्यकारणता कुतः॥(258)  
+अविद्दाकृतविकारत्वनिवृत्तेः धीफलत्वादित्यर्थः। कार्यस्य कारणात्मतापत्तिः क्रियाफलत्वादित्यर्थः। कार्यस्य कारणात्मतापत्तिः क्रियाफलमस्ति, इत्यत्राह--कारणेति ।(256)विकाररुपे स्थिते नाविकारिब्रह्मतापत्तिः विरोधात् । तन्निवृत्त्या तत्प्राप्तिधीमात्रसा (ध्यता )(ध्य इत्या)शयवानाह--मृदापत्तिरिति । ज्ञानस्याकारकत्वात् क्रियाफलमस्ति, अत्राह--सा चेति । (प)रमार्थस्य चैतन्यवदनिवर्त्यत्वा दविद्दाकृतं ज्ञानापनोद्दमित्यर्थः । (257)अंशत्वविकारत्वयोः पारमार्थिकत्वपक्षे कार्यकारणयोर्भेदः, अभेदो वा । क्रमेण दूषयति --कार्येति । चशब्दः अंशांशिभेदविकल्पदूषणसमुच्चयार्थः। (258)अभेदपक्षे दोषान्तरं दर्शयितुं मुक्तेः स्वरुपमनुभाषते ---विज्ञानेति । विज्ञानात्मविकारस्य
+---ब्रह्मविकारस्य, ब्रह्मांशस्य च कारणैक्यं, अंशिनैक्यं चेत्यर्थः।  
+विज्ञानात्मविकालस्य कारणैक्यं विमुक्तता ॥(259)  
+स्वतस्तस्य च संसिद्धेः कार्यता नोपपद्दते ।  
+कर्मातोऽनर्थकं मुक्तावेकदेशविकारयोः ॥(260)  
+अप्यनर्थाय कर्म स्यात्क्रियमाणं न मुक्तये ।  
+प्रतिकूलं विमुक्तेश्च क्रियमाणमसंशयम् ।  
+कर्मारभेत तेनैतन्मुक्तौ कर्म निरर्थकम्॥(261)  
+विकारोऽत्यन्तनिर्भिन्नो यदा तु स्याद्विकारिणः।  
+तदापि विकृतेर्नाशो मुक्तिरित्यभिधीयते॥(262)  
+अत्राप्यनर्थकं कर्म तत्फलासंभवत्वतः।  
+(कर्मेव ज्ञानमप्यत्र फलाभावादनर्थकम् ॥(263)  
+नैवाविद्दाकृतैवासौ वास्तवी यदि संसृतिः ॥  
+फलितमाह--कर्मेति । (259-260)न केवलं नैरर्थक्यं, कैवल्यप्रतिसूलसंसारारम्भकत्वादनर्थकरं चेत्याह---अप्यनर्थायेति । एतदव्यनक्ति--प्रतिकूलमिति । अकृतप्रायश्चित्तानां कर्मणां फलारम्भावश्यंभावादिति भावः।(261)  
+ विकारस्य भेदे अधिकाभिधित्सया तत्पक्षमनुभाषते----विकार इति । (आद्द)(अत्य)न्तभिन्नस्य नाशमन्तरेण ब्रह्मभेदासंभवात् जीवनाश एव मोक्षः स्यादित्यर्थः।(262)भवतु को देष इति चेत्, कर्मज्ञानयोर्निष्फलत्वं दोषः, इत्याह--अत्रापीति । अपिशब्दो ज्ञानमुच्चायार्थः। फलिनोऽभावे फलासंभवादित्यभिसन्धिः। (263)परस्माद्व्यतिरिक्तस्य प्रतीचः संसारित्वं वास्तवमवास्तवं वा, आद्दं प्रत्याह----नैवेति । भाविकस्य चिदात्मत्ववदनिवृत्तिरित्याशयः ।  
+स्परुपनाशदोषः स्यादेकदेशेऽपि पूर्ववत् ॥(264)  
+यदा त्वविद्दयाध्यस्तं संसारित्वं न वस्तुतः॥(265)  
+विकारेऽवयवे चैव तदा पूर्वोक्त एव तु ।  
+पक्षो निर्वहणीयः स्यादस्माभिरपि संमतः ॥(266)  
+सर्ववादाविरोधी च, नातो विधिरिहेष्यते ।  
+तदा हि कल्पनाः सर्वा विकारावयवादिकाः ।  
+वृथैवेमा ह्यविद्दैव सर्वाः संपादयिष्यति ॥(267)  
+पूर्णं निःश्रेयसं तस्मात्तदपूर्णमविद्दया ॥(268)  
+आभासते मृषैवातो यथाभूतात्मविद्दया ।  
+प्रध्वस्तायामविद्दायां पूर्णमेवावशिष्यते ॥(269)  
+अंशस्य भेदेऽप्येतत्समम्, इत्याह--स्वरुपेति । (264)द्वितीयमनुवदति
+---यदेति । पूर्वोक्तः पक्षः ---केवलज्ञानफलत्वात् मोक्षस्य साधनाधिकारिभेदपक्ष एव भवद्भिरपि निर्वहणीयः(एव)स्यात्, न(नु)(तु)त(द्भे)(दभे)दपक्षः इत्यर्थः । (265--266)नायं निर्वहणीयः मतान्तरविरोधात्, अत्राह--सर्वेति । आत्मज्ञानात् निश्श्रेयसाधिगम इति सर्ववादिनामविवादपदमित्यर्थः। ममैवाशो जीवलोके (भ.गी.15-7), एते आत्मनो व्युच्चरन्ति (बृ.4-1-20)रुपं रुपं प्रतिरुपो बभूव (बृ.4-5-19)इत्यादिशास्त्रे सिद्धत्वादवयवविकारप्रतिबिम्बकल्पना न वारयितुं पारयामहे,अत आह--तदा हीति । (267)शास्त्रकृतः प्रतीतेः स्वतः प्रामाण्यादवयवादिकल्पना भाविकी किं न भवेत्, अत्राह---पूर्णमिति । निःश्रेयसं --परमानन्दरुपब्रह्म । पूर्णं
+---सर्वप्रकारा(त्य)न्ताभावोपलक्षितस्परुपमिति यावत् । तर्हि विद्दानर्तक्यं स्वतो मुक्त्वात्, अत्राह---तस्मादिति ।  
+(268-269)  
+अनर्थको विधिस्तस्मात्सर्वो निःश्रेयसं प्रति ष।  
+इत्येतन्न्यायतः सिद्धं, यत्तु प्राक् चोदितं त्वया।  
+आम्नायस्य क्रियार्थत्वादित्यत्राप्यभिधीयते ॥(270)  
+तत्राम्नायाभिधानस्य ह्याम्नायांशाभिधानतः।  
+अबोधध्वंसस्य नियोगसाध्यत्वाद्विधिसिद्धिः, अत्राह---अनर्थक इति । उत्पत्तिविनियोगप्रयोगाधिकाराणामनुष्ठेयगोचराणामविद्दानिवर्तकविद्दाया(मु)(मनु)पपत्तिरित्यर्थः। वेदान्ता विधिपराः वेदपराः वेदत्वात् अग्निहोत्रादिवाक्यवत्, अत्राह--इत्येतदिति । ज्ञानं न विधेयं, अ(मुं)(पुं)तन्त्रत्वात्, नापि कैवल्यं, फलस्य स्वर्गादिवदविधेयत्वादित्यर्थः॥  
+ आम्नायस्य क्रियार्थत्वादित्यादिसूत्रानुसारेण वेदान्तानां विधिशेषत्वमिति चोद्दस्यानुवादः परिहारश्च  
+'वक्ष्यते च निराकृतिः'(वा.194)इत्युक्तं विशदयितुं चोद्दमनुवदति
+---यत्त्विति । (270)सौत्राम्नायशब्दसामर्थ्यात् वेदान्तानां विधिशेषत्वम्, उत अक्रियार्थानामानर्थक्यसामर्थ्यात् । प्रथमं प्रत्याह--तत्रेति । 'आम्नायस्य क्रियार्थत्वात्'(पू.मी.1-2-1)इति सूत्रे आम्नायशब्देन विधिवाक्यानामभिधानान्न सर्ववेदग्रहणमित्यर्थः। आम्नायस्य सर्ववेदवाचकस्य विना संकोचकप्रमाणमुपचारेण तदेकदेशवाचकत्वमनुचितम्, अत्राह---विध्युक्तीनामिति । चोदनासूत्रे विधिवाक्यानामेव प्रामाण्यस्य साधितत्वात्, सिद्धस्यात्र हेतुत्वेनाभिधानादिति भावः।(271)द्वितीयं दूषयति--क्रियेति ।  
+विध्युक्तीनां क्रियार्थत्वं सिद्धं हेतुतयोच्यते ॥(271)  
+क्रियाप्रकरणस्थानां विधिशेषात्मनां सताम् ।  
+वचसामक्रियार्थानामर्थक्याय तद्वचः ॥(273)  
+न तूपनिषदां न्याय्यं पार्थगर्थ्यस्य संभवात् ।  
+पूर्वोक्तेनैव न्यायेन नातस्तद्विधिशेषता ॥(273)  
+विधिना त्वेकवाक्यत्वादिति यच्चापि चोदितम् ।  
+तेषामेव तदप्यस्तु तदानर्थक्यचोदनात् ॥(274)  
+अर्थवादाधिकरणविषयभूतार्थवादानां क्रियासंबन्धमन्तरेण प्रयोजनाभावः तत्रोच्यते इत्यर्थः। (272)वेदान्तानां प्रकरणान्तरस्थानां क्रियाविधिशेषत्वाभावेऽपि स्वप्रकरणगतोपासनाविधिशेषत्वं भविष्यति , तत्राह---न(न्वि)त्वि)ति । ज्ञानद्वाराऽज्ञाननिवर्तकानां (नि)(न)विधिमात्रशेषतेत्याशयः ।पार्थगर्थ्यस्य पृथक्फलत्वस्येत्यर्थः।(273)  
+सिद्धान्तसूत्रमविशेषेण सिद्धार्थवादिवेदवाक्यानां विधिशेषत्वं प्रतिपादयति, इत्यत्राह--विधिनेति । पूर्वपक्षे'वायुर्वै क्षेपिष्ठा देवता 'इत्यादीनामानर्थक्यस्य शङ्कित्वात् सिद्धान्तेऽपि कर्मतत्समवेतार्थस्तावकत्वेन विधिशेषत्वमुच्यते इत्याशयः।(274)तत्र विषयत्वेनानुदाहृतवेदान्तानामप्यर्थवादसमानगतित्वात् सिद्धं विधिशेषत्वम्, अत्राह--न तु वेदान्तेति । विद्वदनुभवसिद्धफलत्वादित्यर्थः।  
+न तु वेदान्तवचसां द्दृष्टार्थत्वेन हेतुना ।  
+तदबुद्धेः पृथगर्थत्वमुक्तमेवातिविस्तरात् ॥(275)  
+अन्यार्थानुपपत्तेश्च वेदान्तवचसां तथा ।  
+कैवल्यस्य धीकर्मसमुच्चयफलत्वात् न पृथगर्थत्वम्, अत्राह--तदिति । (275)संपदातिपरत्वात् वेदान्तानामैक्यधीरप्रमा नाज्ञाननिवर्तिका, अत्राह--अन्यार्थेति ।  
+ संभवत्येकवाक्यत्वे इत्यादिन्यायेन कर्मविज्ञानकाण्डयोः भिन्नवाक्यत्वाक्षेपः तन्निरासश्च  
+एवं कर्मविज्ञानकाण्डयोर्भिन्नवाक्यत्वं स्थितम्।संभवत्येकवाक्यत्वे वाक्यभेदस्तु नेष्यते इति शङ्कते --अर्थेति । कर्मज्ञानयोः प्रयाजदर्शपूर्णमासवदङ्गाङ्गत्वात् तत्काण्डयोः तद्वाक्यवदेकार्थयोरेकवाक्यत्वसंभवे तद्भेदो न कल्प्यो गौरवादित्यर्थः। कुत्रैतदुपलब्धम्!अत्राह--इति द्दृष्टत्वादिति । नवमे विचारितम्। 'अर्थाभिधानसंयोगान्मन्त्रेषु शेषभावः स्यात्, तत्राचोदित(म)प्राप्तं चोदिताभिधानात् '(पू.मी.9-1-36)दर्शपूर्णमासयोः निर्वापमन्त्रः 'देवस्य त्वा सवितुः प्रसवेऽश्विनोर्बाहुभ्यां पूष्णो हस्ताभ्यामग्रये जुष्टं निर्वपामि 'इति। सवित्रश्विपूषशब्दानां विकृतौ देवतान्तरेषु किमूहः, उतानूह इति । तदर्थं च किं म(तो)(न्त्राः)प्रकृतौ समवेतार्थाः,उतासमवेतार्था इति । समवेतार्थत्वे विकृतावपि समवेतदेवताप्रकाशनाय तदभिधायकं पदान्तरमूहितव्यम् । (समवेतार्थत्वेनेति )  
+अर्थैकत्वगतौ सत्यां वाक्यभेदप्रकल्पना ।  
+न न्याय्या सेति द्दृष्टत्वात् देवस्य त्वादिवाक्यवत् ॥(276)  
+प्रकृते कर्मणि सवित्रादीनामविनियुक्तत्वेऽपि मन्त्रवर्णात् तेषामपि देवतात्वकल्पनया, गौण्या वृत्त्या वा प्रकृता(व)ग्न्यादिवचनत्वेन यथाकथंचित् स्वार्थपरत्वसंभवे निर्वापस्तुत्यर्थतया पदार्थान्तरविशेषणत्वायोगात् गम्यमानेऽप्यकवाक्यत्वे 'तस्मिन् सीद्'इतिवदर्थभेदेन वाक्यभेदस्य युक्तत्वात् समवेतार्थाः इति पूर्वः पक्षः ।  
+ सिद्धान्तस्तु, सवित्रादीनामविनियुक्तत्वात् न समवेतवचनता संभवति । न च मन्त्रवर्णात् तेषां देवतात्वकल्पनया, गौण्या वृत्त्या अग्न्यादिवचनत्वेन(वा)वाक्यभेदाश्रयणं युक्तम्। निर्वापस्तुत्यर्थतया तेनैकवाक्यत्वावगमात् । न हि कोऽप्यर्थभेदः क्लृप्तामेकवाक्यतां बाधितुमर्हति । 'तस्मिन् सीद'इ(ति)(त्यत्र)तु क्लृप्तत्वा दर्थभेदस्य युक्तो मन्त्रविभागः । न चैवं सवित्रादिशब्दानामद्दृष्टार्थता । अनुष्ठेयनिर्वापस्तुत्यर्थत्वेन तत्प्रकाशनपरत्वात् । अतोऽसमवेतार्थत्वादनूहः इति ॥  
+(276)   
+तथैव पृथगर्थत्वावगतौ वाक्यभेदकल्पना न युक्ता, तथा अर्थभेदगतावेकवाक्यकल्पनापि न युक्ता, इति परिहरति (य)(त)थेति । 'समेषु वाक्यभेदः स्यात्'(पू.मी.2-1-47)'इर्षे त्वोर्जे त्वा 'इत्यादिषु किं यजुर्वेदः, उतैकं यजुरिति संशयः । तत्र प्रश्लेषपाठानुग्रहाय प्रतीकग्रहणेन इषे त्वेत्यस्य ऊर्जे त्वेत्येतत्सहितस्य छेदने विनियोगात् कृत्स्नस्य वाक्यशेषतया तद्वाचिपदमध्याह्नियते । तथा ऊर्जे त्वेत्यस्य इषे त्वेत्येतत्सहितस्यानुमार्जने विनियोगादेकार्थत्व(मिति)प्राप्ते,  
+ इषे त्वेति छिनत्ति, ऊर्जे त्वेत्यनुमार्ष्टि इति छेदनानुमार्जनयोः भेदेन विनियोगात् अर्थभेदावगतेः प्रश्लेषपाठस्याद्दृष्टार्थत्वात्, विधिवाक्यगतशब्दस्य प्रतीकग्रहणेन लक्षणानुपपत्तेः, वाक्यभेदादनेकं यजुः इति द्वितीये स्थितम् ॥(277)  
+ 'विविदिषन्ति 'इति कर्मणां ज्ञाने विनियोगात् कर्मवाक्यानां, हेतुः--प्रमाणं यस्य , तत् विनियोजकहेतु । द्विधा एकवाक्यत्वं, पदैकवाक्यत्वं वाक्यैकवाक्यत्वं च । आद्दं (पृथक्लवयेना )(अपृथगर्थानाम्)र्थमप्रतिपाद्दैव वाक्यान्तरेणान्वयः, यथा मन्त्रार्थवादानां विधिना। द्वितीयं पृथग (त्वंयेना)(र्थानाम) वान्तरवाक्यार्थं प्रतिपाद्द वाक्यान्तरान्व(यात्)यः ।यथा द्रव्यार्जनविधेः क्रतुविधिना।  
+न्यायेन वक्ष्यमाणेन भूयोऽप्येतत्प्रवक्ष्यते ॥(279)  
+पार्थगर्थ्यमतः सिद्धमपास्तविधिलक्षणम् ।  
+सर्वोपनिषदां चात्मज्ञानं कैवल्यसाधनम् ॥(280)  
+निः शेषाङ्मनः कायप्रवृत्त्युपरमात्मिका ।  
+तन्निष्ठा चेह विज्ञेया यथोक्तन्यायवर्त्मना ॥(281)  
+अधिकारोऽपि तस्यां च सिद्धोऽशेषक्रियात्यजः ।  
+जिज्ञासोरेव कर्तुस्तु न सिसाधयिषोः सदा ॥(282)  
+तत्र वाक्यैकवाक्यत्वं कर्मज्ञानवाक्ययोरित्यर्थः ।(278)एकाध्ययनविधिप्रयुक्तकृत्स्नवेदस्यैकार्थपर्यवसायित्वात् पदैकवाक्यत्वम्, अत्राह---न्यायेनेति । पृथक्फलत्वमुक्तम्, वक्ष्यते चेत्यर्थः ।(279)पृथगर्थत्वं निगमयति ---पार्थगर्थ्यमिति । चशब्दः कर्मवाक्यानामभ्युदयसाधनं कर्मार्थः इति समुच्चिनोति । (280)उपनिषदामात्मज्ञानमर्थः इत्ययुक्तम् । श्रुतवेदान्तानामपि केषांचित् ज्ञानानुदयात्, अत्राह---निःशेषेति । संन्यासपूर्वकश्रवणादिनि(ष्ठत्वाच्च)(ष्ठा) ज्ञानसाधनमित्यर्थः। (281)प्रवृत्त्युपरमात्मिकेत्ययुक्तम्, अधीतवेदस्य कर्म चिकीर्षोरेव श्रवणादावधिकारात्, अत्राह--अधिकारोऽपीति । कर्तुः--कर्मानुष्ठातुः सिसाधयिषोरित्यर्थः ।(282)  
+ज्ञातुमिच्छा जिज्ञासा । सा ज्ञानकार्यत्वादज्ञाते न संभवति । तत् कथमज्ञस्य श्रवणादावधिकारः, अत्राह--ब्रह्मेति ।  
+ब्रह्मात्मत्त्वव्युत्पत्तिमात्रेणाप्यधिकारिता ।  
+भवत्येवात्र जिज्ञासोरज्ञस्यापि मुमुक्षुतः ॥(283)  
+मैवं, प्रक्रमसंहारपर्यालोचनया पुरा ।  
+वेस्यैकार्थतात्पर्यमेवाक्यतयोदितम् ॥(284)  
+तेन निःशेषवेदोक्तकारिणोऽत्राधिकारिता ।  
+सिद्धे ह्यनेकवाक्यत्वे कल्प्या भिन्नाधिकारिता ॥(285)  
+साङ्गाध्ययनं कृतवतः विचारप्रयोजकमापातदर्शनं व्युत्पत्तिमात्रेण इत्युच्यते । संदिग्धे निश्यफलं परोक्षेऽपरोक्षज्ञानमिष्यते इत्यर्थः ।(283)  
+ विधान्तरेण कर्मज्ञानकाण्डयोः साधनाधिकारिभेदाक्षेपः तत्परिहारश्च ।  
+पुनरपि साधनाधिकारिभेदमाक्षिपति---मैवमिति । ज्ञाने विनियुक्तकर्मप्रतिपादकत्वेन 'इषे त्वा'इत्याद्दुपक्रमात् 'एतमानन्दमयमात्मानमुपसंक्रम्य'(तै.3-10)इति ज्ञानेनोपसंहारात् उपक्रमोपसंहारपर्यालोचनया वेदस्यैकवाक्यत्वेन ज्ञाननियोगरुपैकार्थनिष्ठत्वमुक्तं यतः, अतः अधिकारिभेदादिकं मैवमित्यर्थः । (284)कस्य तर्हि श्रवणादावधिकारः, अत्राह--तेनेति । यतो ज्ञाननियोगपरो वेदः, तस्मात् सर्वकर्मकारिणोऽधिकार इत्यर्थः। साधनचतुष्टयविशिष्टस्याधिकारित्वमुक्तम्, अत्राह--सिद्धे हीति । (285)  
+मैव, भिन्नैकवाक्यत्वे प्रागस्माभिः समर्थिते ।  
+ततश्च भवदुक्तस्य चोद्दस्येह न संभवः ॥(286)  
+नापि निःशेषवेदार्थमनुष्टातुं क्षमो नरः ।  
+पुमायुषापि येन स्यादात्मज्ञानेऽधिकारिता ॥(287)  
+संपदां चार्थवादत्वं तेन वेदान्तगोचरे ।  
+ज्ञानेऽधिकारिणोऽभावात् प्रामाण्यं क्षिप्यते स्वतः ॥(288)  
+पौर्वापर्यप्रतिसन्धा(नेन) सिद्धसाध्यार्थभेदेन भिन्नवाक्ययोरेकवाक्यभावस्य द्रव्यार्जनादिष्विवास्माभिरभिहितत्वादेकार्थतात्पर्यं भवदभिहितं न संभवति इत्याह--मैवमिति। (286) परोक्ताधिकारं निराकरोति --नापीति । सन्ध्यावन्दनमारभ्य सहस्रसंवत्सरपर्यन्तानां कर्मणामानन्त्यादित्यर्थः। (287)अश्वमेधादिकर्मानधिकृतानां तत्फलार्थिनां तदुपासाउपदिश्यन्ते । सकलवेदार्थकारिणोऽधिकारे तासामविवक्षितत्वं स्यात् इत्याह--  
+ संपदां चेति । चशब्दात् ज्ञाननियोगशेषत्वे कर्मवाक्यानां स्वर्गादिफलानामविवक्षितत्वं स्यादित्यर्थः। किमतः, अत्राह--तेनेति । सकलकर्मकारिणोऽसिद्धेः अधिकारिणः प्रमितजनको वेदः इति स्थिते स्वतः प्रामाण्यं पूर्वतन्त्रनिरुपितं विहतं स्यादिति भावः। (288)भ(ग)वत्पक्षेऽप्यधिकार्यभावादप्रामाण्यप्रसक्तिस्तुल्येति चोदयति
+---किं चेति। निपातानामनेकार्थत्वात् नन्वर्थे किंचेति प्रयोगः ।  
+किं च मानादविज्ञाता विमुक्तिः काम्यते न च ।  
+ज्ञातायां स्वात्मरुपत्वात् सुतरां नास्ति कामना ॥(289)  
+न युक्तं कामना मुक्तौ पुंसां नास्तीति भाषितुम्।  
+देशकालानवच्छिन्नसुखाद्दर्थित्वदर्शनात् ॥(290)  
+किं च ज्ञानमद्दृष्टार्थमग्निहोत्रादिवद्ददि ।  
+ततोऽधिकारिचिन्ता स्यात् कृतेऽप्यफलशङ्कया ॥(291)  
+आत्मनो ब्रह्मभूयं कैवल्यमनवगतं चेत्, न काम्येत। ज्ञानकार्यत्वात्कामनायाः । अवगतं चेत्, सिद्धत्वात् कामनां निरुन्ध्यात् । अतो मुमुक्षुर्नाधिकारीत्यभिसन्धिः।(289)समाधत्ते--नेति । मा भूदण्वपि मे दुःखं सुख्येव स्यामहं सदा इति निरतिशयानन्दनिः शेषानर्थनिवृत्तिप्रार्थनादर्शनात्, स्वप्रकाशतयावगते प्रमाणादनवगते कैवल्ये कामनोपपत्तिरित्याशयः। (290)  
+ मुमुक्षोः साक्षान्मोक्षसाधनज्ञानेऽधिकारोऽस्तु न  
+ श्रवणादाविति शङ्काया निरासः  
+मुमुक्षोस्तर्हि साक्षान्मोक्षसाधनज्ञानेऽधिकारोऽस्तु, किं श्रवणादौ तत्कल्पनया, अत्राह---किं चेति । विधिविषये अधिकारचिन्ता विहिता इति । 'विधिमार्गेऽधिकारस्य'(वा.228)इत्यादिनोक्तत्वात् हेत्वन्तरसमुच्चयार्थं किं चेति प्रयुक्तम्। ज्ञानसस्यापुंतन्त्रत्वात् द्दृष्टार्थत्वाच्च न तत्राधिकारपरीक्षेत्यर्थः ।(291)वैदिकसाधनत्वाविशेषात् कर्मण्यपि सा न स्यात्, अत्राह--कामिनेति । अग्निहोत्रादेः शास्त्रैकसमधिगम्यफलत्वात् तत्र भवितव्यमधिकारचिन्तयेत्यर्थः ।(292)  
+कामिनाप्यग्निहोत्रादि शूद्रेणानधिकारिणा ।  
+कृतमप्यफलं तेन यत्नात्तत्र निरुप्यते ॥(292)  
+अविद्दाघस्मरज्ञानजन्ममात्रावलम्बिनः ।  
+पुमर्थस्याधिकं शास्त्रात् किंचिदत्र तु नार्थ्यते॥(293)  
+कुतस्तज्ज्ञानमिति चेत्, तद्धि बन्धपरिक्षयात् ।  
+असावपि च भूतो वा भावी वा वर्ततेऽथवा ॥(294)  
+ ज्ञानमप्य(इ)(द्द)ष्टार्थं, श्रुतब्रह्मणोऽपि यथापूर्वं संसारित्वदर्शनात्, अत्राह--अविद्दाघस्मरेति । अदनशीलं घस्मरम् । (293)श्रवणाद्दतिरिक्तज्ञानसाधनेन भवितव्यम् , अन्यथा वेदान्तश्राविणां सर्वेषां ज्ञानप्रसङ्गात्, इत्याशयवान् पृच्छति--कुत इति । विरो(ध) (ध)कल्मषनिवृत्तिर्ज्ञानसाधनमित्याह--तद्धीति । भूतस्य वर्तमानस्य वाप्रतिबन्धक्षस्य कारणत्वे न तत्सिद्धयर्थं कर्मानुष्ठेयम् । भाविनस्तथात्वे नादौ संन्याससिद्धिः, अत्राह--असाविति । जन्मान्तरकृतकर्मपरिक्षीणप्रतिबन्धानामादौ संन्यासः, इतरेषां क्रमसंन्यासः इत्याशयः ।(294)प्रतिबन्धक्षयस्य विद्दाहेतुत्वे किं प्रमाणम्!अत्राह--अधीतेति । अनुष्ठितसाधनस्य विद्दानुदयानुपपत्तिरत्र मानमित्यर्थः । श्रुतिरपीममर्थं गमयतीत्याह--हिरण्येति । 'तद्दथा हिरण्यनिधिं निहितमक्षेत्रज्ञा उपर्युपरिं संचरन्तो न विन्देयुः, एवमेवेमाः सर्वाः प्रजा अहरहर्गन्छन्त्य एतं ब्रह्मलोकं न वि(द)(न्द)न्ति'(छा.8-3-2)इति श्रुतिः प्रतिबन्धक्षयमन्तरेण विद्दानुदयं दर्शयतीत्यर्थः।(295)  
+अधीतवेदवेदार्थोऽप्यत एव न मुच्यते ।  
+हिरण्यनिधिद्दृष्टान्तादिदमेव च दर्शितम् ॥(295)  
+भिद्दते हृदयग्रन्थिश्छिद्दन्ते सर्वसंशयाः ।  
+क्षीयन्ते चास्य कर्माणि तस्मिन् द्दृष्टे परावरे ॥(296)  
+इत्यादिनापि विज्ञानं नाद्दृष्टार्थमितीरितम् ।  
+तथा स ब्रह्मणः केन स्याद्देनेति प्रदर्शितम् ॥(297)  
+आत्यन्तिकसुखानर्थप्राप्तिविच्छेदकाङ्क्षिणः।  
+प्रीत्युत्कर्षोऽपि लोकेऽस्मिन् द्दृष्टः स किं न काम्यते ॥(298)  
+ज्ञानं नान्वयव्यतिरेकसिद्धफलं वैदिकसाधनत्वात् कर्मवत्, अत्राह--भिद्दत इति । परो--हिरण्यगर्भोऽपि अवरः---निकृष्टः (यस्मिन्)(यस्मात्)तस्मिन् परावरे । (296)'ब्रह्मवेद ब्रह्मैव भवति'(मु.3-2-1)इत्यादिश्रुतिविरोधोऽपि, इत्याह--इत्यादिनेति । श्रुत्यन्तरमाह--स इति । इमामवस्थां संप्राप्य मुख्यो ब्रह्मण उच्यते इति वक्ष्यति । 'स केन स्यात् 'इति प्रश्नः। 'येन स्यात्तेनेद्दृश एव'(बृ.5-5-1)इत्युत्तरम् । येन येनचरितेन स्यात् तेन तेन ईद्दृश एव-मुक्त एव इति ज्ञानस्य द्दृष्टफलत्वं दर्शितमित्यर्थः ।(297)  
+ मुमुक्षा न संभवतीति शङ्कायाः परिहारः  
+मुमुक्षोः श्रवणादावधिकारः न ज्ञाने इ(त्यु)(त्ययु)क्तं, द्दृष्टानन्दत्यागेन तत्र कामनानुपपत्तेः, अत्राह--आत्यन्तिकेति । प्रीत्युत्कर्षः---मोक्षः । तद्विषयकामना ननिवारयितुं शक्येत्यर्थः। (298) स्वर्गस्यापि प्रीत्युत्कर्षतया मोक्षत्वात् तत्कामोऽपि मुमुक्षुः स्यात्, अत्राह--द्दृष्टेति । द्द(ष्टे)(ष्ट)साधनसाध्यस्य पुत्रादिसुखस्य अद्दृष्टसाध्यस्य स्वर्गादिसुखस्य च सविशेषत्वाविरोधान्न स्वर्गः प्रीत्युत्कर्षः। किमतः, अत्राह--नानन्दादिति । (299) अनित्यत्वाच्च न तत्र कामो विवेकिनः, इत्याह--किन्त्विति । किञ्चेत्यर्थः। मोक्षोऽप्यनित्यः साध्यत्वात्, अत्राह--अभिव्यञ्जकेति । (300)कर्मणां तदभिव्यञ्जकत्वात् काण्डयोरेकार्थत्वम्, अत्राह--संस्कारेति । संस्कारः--अन्तः करणशुद्धिः। प्रवेश--विविदिषाद्वारेण मोक्षाभिव्यञ्जकत्वं, न तु साक्षादित्यर्थः। (301)भिन्नवाक्यैकवाक्यत्वकल्पनागौरवात् पदैकवाक्यत्वं कल्पनीयम्,अत्राह--एवमिति । नानुष्ठेयसमाप्तित इति । न कृत्स्नकर्मकृतोऽधिकारादित्यर्थः।(302)  
+एवमत्रैकवाक्यत्वं नानुष्ठेयसमाप्तितः ॥(302)  
+असारफलसंप्राप्तिः पुमर्थो नेष्यते यतः ।  
+तृष्णया साधयन्प्रीतिं न प्रीतिलवमिच्छति ॥(303)  
+प्रीतेः श्रुतः प्रकर्षोऽपि स्वर्गस्वाराज्यभेदतः ।  
+नापि प्रीतेरियत्तायाः स्वर्गशब्दोऽस्ति वाचकः ॥(304)  
+ परमानन्दस्य स्वर्गशब्दार्थत्वं स्वीकृत्य काण्डयोः साधनादिभेदाक्षेपः,तन्निरासश्च  
+इत्थं साधनादिभेदे स्थिते, परमानन्दं स्वर्गशबदवाच्यं 'स्वर्गकामो यजेत्'इत्यत्र गृहीत्वा भेदमाक्षिपति--असारेति । अल्पीयः फलप्राप्तिः स्वर्गो नेष्यते यतः,अतः स्वर्गकामो मुमुक्षुरेवेत्यर्थः । स्वर्गापवर्गभेदप्रसिद्धेरपवर्गादितरः स्वर्गः, इत्यत्राह---तृष्णयेति । रागप्रेरितो द्दृष्टां प्रीतिं साधयन् नाल्पां प्रीतिं साधयतीत्यर्थः। (303)  
+ प्रीतिरल्पैवेत्याशङ्कयाह--प्री(ति)(ते)रीति। ज्योतिष्टोमेन स्वर्गकामो यजेत, वाजपेयेन स्वाराज्यकामो यजेत इति श्रुत इत्यर्थः। स्वर्गादिपदमपि परिच्छिन्नसुखवाचकं, तत्रावगतसंगतित्वात्, अत्राह--नापीति । प्रीतितत्परिच्छेदवाचकत्वे शक्तिगौरवादित्यर्थः।(304)  
+ यन्न दुःखेन संभिन्नं न च ग्रस्तमनन्तरम् ।  
+ अभिलाषोपनीतं च तत्सुखं स्वर्गपदास्पदम् ॥इति ।  
+न चाजानन् स्वसाध्यार्थं \*विद्वान् कश्चित्प्रवर्तते ।  
+प्रीतिर्या काचिदिष्टा चेत् स्वर्गशब्देन भण्यते ॥(305)  
+चित्राग्निष्टोमयागादेः पश्वादिफलसंकरः।  
+विशेषो वाञ्छितश्चेत् स्यात् पुत्रपश्वाद्दुपाधितः ॥(306)  
+न तावत्संभवेत् स्वर्गो ज्ञातोपाधिवियोगतः ।  
+मुक्तौ काम्यफलेऽभीष्टे सकृत्करण एव च ।  
+अनवच्छिन्नरुपायाः प्रीतेराप्तौ कृतार्थता ॥(307)  
+स्मरणात् स्वर्गपदस्य निरतिशयप्रीतिवाचकत्वेऽपि, तदविद्वान् यागादिमनुतिष्ठति, इत्यत्राह--नचेति । निरतिशयसुखस्य स्वर्गत्वात्, तस्य मोक्षत्वात्, तत्साधनत्वेन यागादिविधानात् न साधनादिभेद इति भावः। अविवक्षितविशेषं प्रीतिमात्रं स्वगः, प्रीतिविशेषो वेति विकल्प्य, राद्धन्ती प्रथमं प्रतिक्षिपतिप्रीतिरिति । पश्वादिफलानां चित्रादियागानां फलैक्यं स्यात्, पयः पानादिजन्यसुख(स्या)(म)पि स्वर्गः स्यादित्यर्थः। द्वितीयमनुवदति --विशेष इति । पुत्रपश्वादिजन्यसुखाद्विलक्षणं सुखं स्वर्ग इत्यर्थः ।(305-306)दूषयति --नेति । विलक्षणं सुखं निरुपाधिक, सोपाधिकं वा । नाद्दः, तस्य मोक्षरुपस्य स्वर्गशब्दप्रसिद्धयभावात् । नेतरः, अमुकसाधनद्वारेम यत् सुखं तत् स्वर्गः इत्यशक्यावगमत्वादित्याशयः। (स्वर्गापवर्गशब्दार्थौ)(स्वर्गोऽपवर्गशब्दार्थः)अद्दृष्टसुखत्वात् ब्रह्मानन्दवत्, अत्राह--मुक्ताविति । सकृत दर्शपूर्णमासानुष्ठानात् निरतिशयप्रयोजनप्राप्तेः अनुष्ठानावृत्तिः कर्मान्तरानुष्ठानं च न स्यादित्यर्थः। (307) प्रयोगे तर्कविरोधं प्रदर्श्य श्रुतिविरोधं दर्शयति
+---प्लवा हीति । 'न कर्मणा न प्रजया '(तै.आ.10-10)इत्यादिश्रुतिरादिपदार्थः । (308)  
+  
+प्लवा ह्येते परीक्ष्येति तथा तद्द इहेति च ।  
+कर्मभ्यो निर्वृतिर्नास्तीत्यादिवाक्यैः प्रदर्शितम् ॥(308)  
+प्रत्यक्षश्रुतिविध्यन्तविहितानामकारणात् ।  
+त्यागोऽतिसाहसं मन्ये ननु यागादिकर्मणाम् ॥(309)  
+प्रत्यक्षोपनिषद्वाक्यविहितायास्ततोऽपि तु ।  
+ऐकात्म्यज्ञाननिष्ठायास्त्यागोऽतीव हि साहसम् ॥(310)  
+विचार्यमाणे यत्नेन त्वधिकारे यथाश्रुति ॥(311)  
+ विधान्तरेण साधनादिभेदाक्षेपः तन्निराकरणञ्च  
+पुनरपि भेदमाक्षिपति --प्रत्यक्षेति । विधिः--विधायकं लिङ्गादिपदम्, अन्ते यस्य तत्विध्यन्तम् , विधायकवाक्यमित्यर्थः। यावज्जीवश्रुतिचोदितकर्मणां त्यागायोगात् कर्मैव कारणं, फलरागवानधिकारीत्यर्थः। (309)बिभीषिकां कुर्वतो बिभीषिकयैव दूषणं विभाषते----प्रत्यक्षोपनिषदिति । साधनचतुष्टयविशिष्टस्य श्रवणाद्दनुष्ठानम् ऐकात्म्यनिष्ठा सर्ववेदान्तसिद्धान्त इत्यर्थः।(310)तर्हि कर्मविधिवाक्यानां ज्ञानविधिवाक्यानां च मिथो विरोधादधिकारभेदः अभेदो वा न साधनीयः, अत्राह--विचार्यमाण इति । कस्य कुत्राधिकारः इति विचाररहितानामेव विरोधस्फुरणमिति एकस्य तोरर्थः । अपरेण तुना विरोधेऽपि परत्वात् (त्रिष्व)(त्रय्य)न्तानामेव प्राबल्यं ध्वनयति । अविरोधे हेतुमाह--प्रत्यक्षेति ।  
+न किञ्चित्साहसं त्वत्र प्रत्यक्षश्रुतिवाक्यतः ।  
+अधिकारविभागस्य प्रसिद्धेरेव कारणात् ॥ (312)  
+तस्मात् सिद्धोऽधिकारोऽत्र ब्रह्मरुपं विविक्षताम् ॥  
+तस्यास्य कर्मकाण्डेन सम्बन्ध इति भाष्यकृत्।  
+प्रतिज्ञायापि सम्बन्धं कस्मात्तं नोक्तवान्स्फुटम् ॥(313)  
+\*अभिधीयत इत्यादिवचसापि स नोच्यते ।  
+सिद्धे वस्तुनि वेदस्य मानत्वं तेन भण्यते ॥(314)  
+'ब्रह्मणो निर्वेदमायात्'(मु.1-2-12)इति विरक्तस्य श्रवणाधिकारस्य स्मरणात्, 'एतावान्वै कामः'(बृ.3-4-17)इति सरागस्य कर्माधिकारश्रवणात् काण्डयोरविरोध इत्यर्थः। (311-312)प्रयोजनाधिकारिभाष्यमुपसंहरति--तस्मादिति । विविक्षातां ---प्रवेष्टुमिच्छतां ,मुमुक्षुणामित्यर्थः ।  
+ सम्बन्धभाष्यव्याख्यानम्  
+सम्बन्धभाष्यव्याख्यानाय पातनिकां करोति ---तस्येति । काण्‍डयोः सम्बन्धं प्रतिज्ञायं केनाभिप्रायेण नासावभिहित इति भावः । सम्बन्धपदेनाभिहित एवासौ, अत्राह--स्फुटमिति ॥(313) प्रतिज्ञासामर्थ्यात् उत्तरभाष्येणाभिहित एवासौ, अत आह--अभिधीयत इति । प्रतिपाद्दन्तराभावात् सम्बन्धप्रतिपानमेव तत्र किं न स्यात्, अत्राह--सिद्ध इति । (314)प्रतिज्ञानन्तरं सम्बन्धविशेषानभिधाने अभिप्रायं प्रकटयति --वेदान्तेति ।  
+वेदान्तोक्तेः प्रमाणत्वे सति सम्बन्ध उच्यते ।  
+प्रामाण्यायैव तेनादौ सर्वोऽपीत्यादि भण्यते ॥(315)  
+आक्षिप्यते वा सम्बन्धः सम्बन्धो नाभिधीयते ।  
+सप्तम्यन्तपदच्छेदात् \*कथंचेदिति भण्यते ॥(316)  
+भिन्नार्थयोर्न सम्बन्धो ह्यन्योन्यार्थानपेक्षतः ।  
+ऐकार्थ्ये चैकवाक्यत्वात्कर्मविज्ञानकाण्डयोः ॥(317)  
+लोकावगतसङ्गतिकानां पदानां वेदे गमकत्वाल्लोके कार्यसंसर्गिणि सङ्गत्यवगमस्य चोदनासूत्रे प्रतिपादितत्वान्न परिनिष्पन्ने वस्तुनि त्रय्यन्त(त्)प्रामाण्य(नि)(मि)त्याशङ्काकु(ठि)(ण्ठि)तप्र(चरणां)(चाराणां)वेदान्तानां प्रामाण्यं प्रतिपाद्दैव सम्बन्धाभिधानमुचितमित्यभिप्राय इति भावः ॥(315)'तस्यास्य कर्मकाण्डेन सम्बन्धः'इति सिद्धान्ततया व्याख्याय,पूर्वपक्षत्वादस्य सम्बन्धानभिधानमिति विध्यन्तरमाह--आक्षिप्यते वेति । तस्यास्य--प्रत्यक्षपरोक्षप्रकृतस्य(च)ब्रह्मकाण्डस्य कर्मकाण्डे प्रतिसम्ब (न्ध)न्धिनि सम्बन्धो नाभिधीयते इत्यस्मिन्नर्थे योजयति
+---सम्बन्ध इति । नियतपूर्वापरावस्थानलब्धः सम्बन्धः, तस्य कुत आक्षेपः, इत्याह--कथमिति । आक्षेप्ता आह--भण्यत इति ॥(316)  
+ तयोरेकार्थत्वमनेकार्थत्वं वा !चरमं प्रत्याह--भिन्नेति । योग्तावत् आकाङ्क्षाया अपि सम्बन्धमूलत्वादित्यर्थः । प्रथमं प्रत्याह--ऐकार्थ्ये (चे)ति । एककाण्डात्वादेव न सम्बन्धः, भिन्नाधि(का)(क)रणत्वात्तस्येत्यर्थः ॥(317)सिद्धसाध्यार्थभेदस्य सिद्धत्वादैकार्थ्यकल्पनादोषो नास्ति, इत्यत्राह--तथेति । विरुद्धार्थयोद्वियोरपि प्रामाण्यायोगात् द्वयोरमात्वं एकस्य वामात्वं वक्तव्यम् !उभयथापि सम्बन्धो भिन्नविषयादि(व)(च)न युज्यते इत्यर्थः॥(318)तत्त्वातत्त्वविषयतया द्वयोरपि प्रमाणत्वात् उपकार्योपकारकभावेनापेक्षाभावाच्च सम्बन्धः सम्भवतीति समाधत्ते
+--श्रुत्येति । द्रव्यार्जनक्रतुविध्योरिव कर्मविज्ञानभागयोः सम्बन्धस्य विनियोजकश्रुत्याभिहितत्वात् स्फुटोऽसौ सम्बन्धः इति भावे(न)नाभिदधावित्यर्थः ॥ (319)तर्हि सम्बन्धभाष्यमेव नारम्भमर्हति निर्विषयत्वात्, अत्राह--प्रसाध्येति । (320)विनियोजकसिद्धसंबन्धमाक्षिपति
+--वेदेति । विधिः--अनुष्ठानम्। काम्यानां काम्यमानसाधनत्वेन विनियुक्तत्वादिति भावः। (321)नित्यानामेव विनियोगे प्रमाणाभावात् 'यज्ञेन'इत्यविशेषश्रुतेस्सर्वकर्मणां ज्ञाने विनियोगः इति समाधत्ते--यद्वेति । विनियुक्तविनियोगायोगात् फलान्तरे विनियुक्तानां ज्ञाने कथं विनियोगः, अत्राह--संयोगस्येति। उत्पत्तिविधिसिद्धः चित्रादीनां पश्चादिसंयोगोऽन्यः, अन्यश्च विविदिषासंयोग इत्यर्थः। तदुक्तम् 'एकस्य तूभयत्वे संयोगपृथक्त्वम् '(पू.मी.4-3-5)अग्निहोत्रे, दध्ना जुहोति''दध्नेन्द्रियकामस्य जुहुयात् 'इति । तत्र किं पुरुषार्थतैव दध्नः, उत क्र(मे)त्वर्थतापीति संशयः ।दध्नेन्द्रियकामस्य जुहुयादिति गोदोहनादिवत् फलान्वयश्रवणात् अ(न्वयव)(न्य)तो दधिसम्बन्धहोमप्राप्त्यपेक्षायां अकामसंयुक्तस्यापि वाक्यस्याधिकारशून्यस्य तदपेक्षितार्थसमर्पणेन तेनैकशास्त्रत्वम् । 'अग्निहोत्रं जुहुयात्स्वर्गकामः'इति क्रत्वर्थमन्यदुपादेयमिति प्राप्ते , उच्यते ---  
+यद्वा विविदिषार्थत्वं सर्वेषामपि कर्मणाम्।  
+तमेतमिति वाक्येन संयोगस्य पृथक्तत्वतः ॥(322)  
+अधिकारवाक्यस्य लौकिकसम्बन्धानुवादेनाप्युपपत्तेः न वाक्यान्तरापेक्षा। दध्ना जुहोतीत्यपि प्रकृताग्निहोत्रहोमानुवादेन दध्नो विधानात् तत्प्रयुक्तत्यैवानुष्ठानसिद्धेः अधिकाराकाङ्क्षा नास्ति॥ तेन संयोगभेदादुभयार्थत्वमिति ॥(322) कर्मकाण्डे एवात्मनस्सिद्धत्वात्काण्डभेदाभावे कस्य केन सम्बन्धः!अत्राह--लोकत इति ।(323)  
+लोकतः सिद्धमादाय पशुव्रीह्यादिसाधनम् ।  
+इदं कार्यमिदं नेति कर्मकाण्डश्रुतेर्गतिः ॥(323)  
+मानान्तरेणासम्प्राप्तां साध्यसाधनसङ्गतिम् ।  
+कर्मशास्त्रं व्यनक्तीति न तु वस्त्ववबोधकृत्॥(324)  
+वेदो हि सर्व एवायमैकात्म्यज्ञानसिद्धये ।  
+अतो नान्योऽपि सम्बन्धः कर्मविज्ञानकाण्डयोः ॥(325)  
+नित्यनैमित्तिकानीह कर्तृसंस्कारतो यतः ।  
+नान्यत्र पर्यवस्यन्ति ज्ञानादैकात्म्यगोचरात् ॥(326)  
+तर्हि अनुवादकत्वेन कर्मकाण्डप्रामाण्यहानिः, अत्राह----मानान्तरेणेति । भेदगर्भसाध्यसाधनसम्बन्धस्य प्रामाणिकत्वादद्वैतविरोधः, अत्राह--न त्विति । व्यावहारिकप्रामाण्यमित्यर्थः। (324)कर्मवत् ज्ञानस्यापि स्वप्रकरणावगताङ्गैः परिपूर्णस्य कर्मानपेक्षत्वात्काण्डयोर्नास्ति सम्बन्धः, अत्राह--वेदो हीति । शुद्धिद्वारेण ज्ञानसाधनत्वं कर्मणाम्, उपनिषदां तु साक्षाद्धीहेतुत्वम्, इत्येवं कृत्स्नवेदस्य ज्ञानहेतुत्वं सम्बन्धः श्रुतिसिद्धः, अन्याद्दृशोऽस्माभिरपि नेष्यत इत्यर्थः। (325)  
+ सर्वकर्मणां विविदिषार्थत्वाक्षेपः तन्निरासश्च  
+कर्मणां विविदिषार्थत्वमुक्तमाक्षिपति ---नित्येति । शुद्धिद्वारा धीहेतुत्वं नित्यनैमित्तिककर्मणामविरुद्धमित्यर्थः।(326)वैदिककर्मत्वात्काम्यानामपि धीसाधनत्वसिद्धिः, अत्राह---प्लवा हीति । 'तद्द इह'इति वाक्ये 'कपूयचरणाः कपूयां योनिमापद्देरन्'(छा.5-10-7)इति निन्दानिन्दितत्वात्काम्यानां कार्यत्वमेव नास्ति,  
+'प्लवा ह्येते ' 'परीक्ष्येति 'तथा तद्द इहेति च ।  
+निन्दाश्रुतेर्न काम्यानां कार्यताध्यवसीयते ॥(327)  
+विधिनिन्दासमावेशो नैवमप्युपपद्दते ।  
+फलाभिसन्धिमात्रे तु निन्दायामेव युज्यते ॥(328)  
+उपासनं च यत्किञ्चित् विद्दाप्रकरणे श्रुतम् ।  
+तदप्यै कात्म्यविज्ञानयोग्यत्वायैव \*कल्पते ॥(329)  
+दूरे धीसाधनत्वमित्यर्थः। (327)स्वर्गकामो यजेत इत्यादिविधानात्काम्यानां कर्तव्यत्वमुपेतव्यमिति परिहरति ---विधीति । तर्हि निन्दाश्रुतेः का गतिः, अत्राह--फलेति ।फलरागे निन्दा, स्परुपे विधिः। अतः फलरागरहितेनानुष्ठितं चित्रायागादि धीसाधनमित्यर्थः।(328)भिन्नप्रकरणपठितकर्मणां विनियोजककृतं शुद्धिद्वारेण धीसाधनत्वमस्तु, विद्दापारकरणपठितकर्मणां तूपासनानां विद्दावन्मोक्षसम्बन्धित्वम्, अत्राह--उपासनं चेति । (329)उपासनानि कानिचित् कर्मसमृद्धयर्थानि । कानिचिदभ्युदयार्थानि । कानिचित् कार्यब्रह्मप्राप्त्यर्थानि । कथमेषां धीसाधनत्वम् !,अत्राह--विमुच्यमान इति । 'इतो विमुच्यमानः क्व गमिष्यसि'(बृ.6-2-1)इत्युपक्रम्य 'नेति नेति '(बृ.6-2-4)इत्यादिना निर्विशेषात्मज्ञानोपदेशात् , अर्चिरादिना ब्रह्मलोकं गतानां 'वेदान्तविज्ञानसुनिश्चितार्थाः'(मु.3-2-6)इति कैवल्योपदेशान्नावान्तरप्रयोजनमात्रपर्यवसायित्वमित्यर्थः॥(330)  
+\*विमुच्यमान इत्युक्तेरर्चिराद्दुक्तितस्तथा ।  
+स्वार्थमात्रावसायित्वं नोपास्तीनां प्रतीयते ॥(330)  
+इत्येवमभिसम्बन्धः कर्मकाण्डस्य युज्यते ।  
+इतोऽन्यथाबिसम्बन्दे न किंचिन्मानमीक्ष्यते ॥(331)  
+न चोद्गीथादिविषयज्ञानवत् कर्मसंगतिः।  
+ऐकात्म्यबुद्धेस्तद्बुद्धिद्वारं नैव निरीक्ष्यते ॥(332)  
+शुद्धिद्वारेण कर्मणां धीसाधनत्वमुक्तमुपसंहरति --इत्येवमिति । आज्यावेक्षणवकत् कारकसंस्कारतया कर्माङ्गत्वं ज्ञानस्येति किं न स्यात्, अत्राह--इतोऽन्यथेति ।(331)  
+ आत्मज्ञानस्य कर्माङ्गत्वनिरासः  
+आत्मज्ञानं कर्माङ्गं त्रय्यन्त वाक्यजधीत्वात् उद्गीथोपासनवत्, अत्राह--नचेति । अनुपयोगात् विरोधात् कर्मप्रवेशद्वाराभावाच्चेत्यर्थः। (332)यथा ऐन्द्रया गार्हपत्यमुपतिष्ठते इति कदाचनस्तरीरसीत्यादिमन्त्रस्य गार्हपत्योपस्थानाङ्गत्वं श्रुतिर्गमयति । तथा 'यदेव विद्दया करोति'(छा.1-1-10)इति तृतीयश्रुतिः ज्ञानं कर्मणि विनियुङ्क्ते, इत्याशङ्कयाह--श्रुत्येति । पदान्तरनिरपेक्षः शब्दः श्रुतिः ।  
+लिङ्गपादे स्थितम्।'वचनात्वय (मर्थ)(थार्थं)ऐन्द्री स्यात्'(पू.मी.3-2-3)।अग्नौ श्रूयते , 'निवेशनः संगमनो वसूनामित्यैन्द्रया गार्हपत्यमुपतिष्ठते'इति । किमयं मन्त्रः इन्द्रोपस्थानार्थः,उत गार्हपत्योपस्थानार्थः इति विशये,
+
+ गार्हपत्यमिति द्वितीयाश्रुत्या गार्हपत्यस्य प्राधान्यावगमेऽपि, मन्त्रस्यास्य गार्हपत्याभिधान(न)सामर्थ्यात् इन्द्राभिधानसामर्थ्यात् विनियोज्यानुसारित्वाद्विनियोगस्य न तादर्थ्यमर्थनीयम् । अतोऽनीप्सितार्थे द्वितीया कारकमात्रे द्रष्टव्या । कारकत्वं च यथासंभवमभ्युपगन्तव्यम्। गार्हपत्यमुपेत्योपतिष्ठते इत्यध्याहाराद्वात, इन्द्रोपस्थानार्थः इति प्राप्ते,  
+ द्वितीयया गार्हपत्यस्य प्राधान्यावगमात्, तृतीयया मन्त्रस्य गुणभावावगमात्, अनीप्सितेऽपि क्रियाफलशालित्वस्यैव सर्वत्राव्यभिचारिणो द्वितीयर्थत्वात्, क्रियाफलशालित्वेऽपि प्रयोजनवत् प्रधानमीप्सितमितित विभागात्, अत्र द्वितीयया गार्हपत्यस्य साध्यत्वावगमात् प्रयोजनवतः प्राधान्यं प्रतीयमानं अर्थविप्रकर्षेण दुर्बल लिङ्गापहारागोचर इति निश्चयतात्, लिङ्गस्य च यथा इन्द्रो यज्ञसाधनं, एवं गार्हपत्योऽपीति साद्दृश्यात् गौण्या वृत्त्या अभिधानोपपत्त्या अन्यथासिद्धत्वात्, गार्हपत्योऽपस्थानार्थः इति ॥नेदमिन्द्रोपस्थानार्थम् अयथार्थमैन्द्री स्यात्, कुतः!वचनसामर्थ्यात् गार्हपत्य (मी)(मिती)प्सितार्थद्वितीयश्रवणादिति सूत्रार्थः ।  
+ 'यदेव विद्दया'इति श्रुतिरुद्गीथादिविषयेत्याशयः॥  
+श्रौतार्थधियः अन्तरेण क्रियानुप्रवेशमनुपपत्त्या आत्मसामर्थ्यरुपं लिङ्गं कर्मणि ज्ञानं विनियुङ्क्ते, इ(त्या)(त्यत्रा)ह--नीपीति । स्वतन्त्रफलसाधनत्वान्नानुपपत्तिरित्यर्थः। व्यतिरेकमुदाहरति ---बर्हिरिति ।  
+'अर्थाभिधानसंयोगान्मन्त्रेषु शेषभावः स्यात्, तस्मादुत्त्पत्तिसंबन्धोऽर्थेन नित्यसंयोगात्।'(पू.मी.3-2-1)इह लिङ्गविनियोज्या मन्त्रा उदाहरणं बर्हिर्देवसदनं दामि इत्यादयः । किं तेषां मुख्य एवार्थे विनियोगः, उत गौणेऽपीति संशयः ।  
+ शब्दादेव यत्रार्थावगतिः स मुख्यः। यत्र तु अभिहितार्थसंबन्धगुणयोगेन स गौणः। तत्र सामर्थ्याविशेषादुभयत्र विनियोगः, इति प्राप्ते,  
+श्रुत्या नैकात्म्यविज्ञानं विनियुक्तं श्रुतौ क्वचित् ।  
+उपस्थानं यथैन्द्रया स्यान्नापि लिङ्गेन संगतिः ॥  
+बर्हिर्देवसदनं दामीत्यादौ च यथा तथा ॥(333)  
+ यद्दपि गौणेऽपि सामर्थ्यमस्ति, तथापि सामर्थ्यमात्रं न विनियोजकम् । किन्तु तदुपस्थापिते कार्ये विधिरेव मन्त्रं विनियुङ्क्ते । तत्र मुख्यपूर्वकत्वात् गौणप्रत्ययस्य प्रथमं मुख्ये विनियोगं कल्पयति । तावता च कृतार्थत्वान्न गौणेऽपि विनियुङ्क्ते। यत्र पुनर्मुख्यस्यासंभवः, तत्र गौणेऽपि विनियुज्यत एवेति स्थितम् ।  
+ अर्थाभिधानसंयोगात् ---मुख्यार्थाभिधानसामर्थ्यसंबन्धात्, मन्त्रेषु प्रकरणाम्नातेषु शेषभावः---अङ्गत्वं प्रकरणिनि मुख्ये स्यात् न गौणे, तदभिधानासामर्थ्यात्, मुख्याभिधानद्वारा गौणाभिधानसामर्थ्येऽपि मुख्याभिधानस्यावश्यकत्वात् मुख्यार्थेन नित्यसंयोगात् --नियतसंबन्धात् विनियोगानर्थक्यपरिहारो यतः,तस्मात् उत्पत्तिसंबन्धः मुख्यविनियोगोऽर्थवानिति सूत्रार्थः॥बर्हिर्दामीत्यस्य विनियोगः, न तृणसद्दृशलवने। आदिपदेनो(रु)(पृष्ठ)(प्रथ)स्व, उ(रु)ते यज्ञपतिरित्यादिसंग्रहः॥(333)  
+ किञ्चिदनारभ्याधीतं 'तरति शोकमात्मवित्'(छा.7-1-3)इति विज्ञानं वाक्येनैव कर्तृद्वारेण क्रियां प्रविशेत् पर्णमयीत्वादिवत्, इत्यत्राह--न चेति । तृतीये स्थितम्--'सर्वार्थमप्रकरणात्'(पू.मी.3-6-1)यस्य पर्णमयी जुहूर्भवति न स पापं श्लोकं श्रृणोति, यस्य खादिरः स्रुवो भवति छन्दसामेव रसेनावद्दति इत्याद्दनारभ्याधीतवाक्यविहितपर्णत्वादिकं प्रवृतौ च निविशते, उत प्रकृतावेवेति चिन्ता ।  
+ न चापि वाक्याद्विज्ञानं कर्तृद्वारेण गच्छति ।  
+ कर्मण्य\*प्रक्रियास्थं सज्जुहूपर्णमयीत्ववत् ॥(334)  
+ जुह्वाद्दाकृतिसंपत्तिव्यपेक्षापूरणक्षमम् ।  
+ विशेत् पर्णमयीत्वादि प्रकृत्युपनयात्क्रतुम् ॥(335)  
+ कर्मापेक्षितकर्त्रादिरुपविध्वंसकृन्न तु ।  
+ ऐकात्म्यज्ञानमन्वेति स्वातन्त्र्येऽप्यर्थवत्त्वतः ॥(336  
+जुह्वादिमुखेन क्रतुसंबन्धादनारभ्याधीतानां (च)तेषां जुह्वादीनां प्रवृत्तौ विकृतौ(च)भावात्, प्रकृतौ प्राकरणिकप्रथमावगताङ्गैरुपकारकल्पनया तेषामेव (प्र)(वि)कृतावतिदेशात्, अनारभ्याधीतानामतिदेशतोऽप्राप्तेः द्विरुक्त्यभावाच्च सर्वार्थमिति प्राप्ते ,  
+ आरभ्य विहितैरुपकारक्लृप्तौ अनारभ्य विहितानामन्वय एव न स्यात्, अपूर्वभेदाभावेऽभ्युपेत्याल्पीयासंभवात् (!)एवं च सति चोदकप्राप्तजुहूद्देशेन विधावपरिहार्यैव द्विरुक्तिः । तेन प्रकृतौ निवेश इति॥ (334)  
+व्यतिरेकद्दृष्टान्ते कथमपेक्षितसम्र्थकत्वम्, अत्राह---जुह्वदीति । पर्णत्वाद्दभावे जुह्वाद्दसिद्धिः प्रकृतिद्रव्याभावात् । अतः कर्मापेक्षितजुह्वाकारसंपत्त्यपेक्षाापूरणसमर्थं पर्णत्वादि क्रतुं प्रविशेदित्यर्थः ।(335) अपेक्षापूरणाक्षमत्वात् प्रतिकूलत्वाच्च नैवमात्मज्ञानम, इत्याह--कर्मेति । फलसिद्धेः कर्मसंबन्धद्वारकत्वात् क्रतुप्रवेशः, नेत्याह--स्वातन्त्र्येऽपीति । अनारभ्य विहितस्यापि पर्णतादेः क्रत्वेकान्तजुह्वादिसंबन्धेन क्रतुनियोगप्रत्यभिज्ञानात् तदङ्गत्वमित्यर्थः ।(337)
+
+जुह्वाद्दव्यभिचारित्वात् प्रत्युपस्थापयेत् क्रतुम् ।  
+कर्तान्यत्रापि सद्भावान्नाक्षेप्ता व्यभिचारतः ॥(337)  
+अनारभ्योक्तितश्चापि नेह प्रकरणग्रहः ॥(338)  
+ श्रुत्यादिप्रमाणमन्तरेणापि प्रयाजादीनां दर्शपूर्णमासाङ्गत्ववत् आत्मज्ञानस्यापि प्रकरणादेव कर्माङ्गत्वम्। तथा हि ---सन्ति दर्शपूर्णमासादिषु प्रयाजादीन्यारादुपकारकाणि अङ्गानि । तेषु किं पूर्वोक्तश्रुतिलिङ्गवाक्य(वा)व्यतिरिक्तं प्रकरणं नाम विनियोगे प्रमाणमस्ति, न वेति चिन्तायाम्, अधिकारवाक्यस्थलिङ्गपदेन संनिहितपदार्थैरैदमर्थ्येनान्वितपरमापूर्वाभिधाना (त्)करणोपकारकयोरेवैदमर्थ्यात् उत्पत्तिशिष्टाग्नेयादिकरणा(त्)(व)रुद्धकार्ये तदुपकारकताय प्रयाजादीनामन्वयेन विनियोगस्य श्रौतत्वात् समान्येनैदमर्थ्यमात्रावगमेऽपि करणोपकारकत्वेन विशेषान्वयस्याशाव्दत्वपरिहाराय तस्याप्यन्विताभिधानदशानुप्रवेशात् श्रौतत्वान्नेति प्राप्ते ,  
+ उच्यते । 'असंयुक्तं प्रकरणादितिकर्तव्यतार्थित्वात्'(पू.मी.3-3-4)यदितिकर्तव्यताकांक्षिणः संनिधौ परिपूरण(म)समर्थमुपनिपतति वचनम्, तत्तेन सहैकवाक्यतां याति । न प्रथममेव (प्र)करणोपकारकत्वेन पदार्थैरन्वितमपूर्वमुच्यते । किन्तु, फलवदफलसंनिधौ फलवदर्थमफलमिति सामान्येनैदमर्थ्यधीः। कथमैदमर्थ्यमिति विशेषजिज्ञासायां, किञ्चित् करणतया किञ्चिदुपकारकत्वेनेति विशेषान्वयार्थमन्तरमाश्रयणीयम्। तत्राग्नेयादीनां करणत्वमौपादानिकं, प्रयाजादीनामुपकारकत्वं प्राकरणिकम् । यद्दपि वाक्यार्थयोः प्रकरणासंबन्धः, तथापि आभिधानिकस्य सामान्यान्वयस्योपपादनाय विशेषान्वयः कल्प्यते इति शाब्दत्वमिति स्थितम्, अत आह--अनारभ्येति । आकांक्षादिमन्ति पदानि वाक्यं (द्वयसामर्थ्यं)आरभ्याधीतविषयं प्रकरँ, तदिह नास्तीत्यर्थः। (338)क्रमवर्तिपदार्थनां क्रमवर्तिपदार्थैः यथाक्रमं संबन्धः स्थानम्। संज्ञासाम्यं समाख्या।(त)योरन्यतरबलात् कर्माङ्गत्वं ज्ञानस्य नास्तीति वक्तुं तद्विषयमाह--सिद्ध इति ।  
+सिद्धे सामान्यतो लिङ्गात् संबन्धे कर्मभिस्ततः ।  
+विशेषावगतिर्नाम्नः क्रमाच्चेति व्यवस्थितम् ॥(339)  
+'लिङ्गक्रमसमाख्यानात् काम्ययुक्तं समाम्नातम्'(पू.मी.3-2-19)ऐन्द्राग्नमेकादशकपालं निर्वपेत् भ्रातृव्यवान्, ऐन्द्राग्नमेकादशपालं निर्वपेद्दस्य सजाता वीयुः इत्यादीनि एकदैवत्यानि बहूनि काम्यानि कर्माणि क्रमेणाम्नातानि। तथा काम्ययाज्यानुवाक्याकाण्डमिति समाख्याते तत्क्रमेण तद्दैवत्यानि बहूनि याज्यानुवाक्यायुगलानि आख्यातानि ईन्द्राग्नी रोचनादिवः प्रचर्षणिभ्य इन्द्राग्नी नवतिं पुरः श्रथद्वृत्रमुत सनोतिवाजमित्यादीनि । किं तेषां यावल्लिङ्गं विनियोगः, उत क्रमसमाख्याभ्यां नियम इति संशयः ।  
+ प्रकरणाद्वलीयसो लिङ्गस्य प्रकरणाद्दुर्बलक्रमसमाख्याभ्यां नितरां बलीयस्त्वात् श्रुतिलिङ्गसूत्रे तुल्यवदनुक्रमणेन लिङ्गस्यापि समान्यसंबन्धानपेक्षत्वावगमाच्च सर्वत्र निवेशः इति प्राप्ते ,  
+ न हीदमस्य समर्थमित्येव कस्यापि विशेषत्वप्रतीतिः। अपि तु अपूर्वसंबन्धोत्तरकालमनेनापूर्वस्योपकर्तव्यं केनापि द्वारेणेत्यपे(क्षा)(क्ष)या । एवं सति समाख्यया लिङ्गक्रमेण चात्र प्रकरणाभावात् समान्यसंबन्धावगतिरिति तदनुसारेण निवेशः इति स्थितम् ।  
+ नाम्नः क्रमाच्च समान्यतः कर्मभिः संबन्धे सिद्धे लिङ्गात् तदनुसारिणो विशेषावगतिरिति वार्तिकं योजनीयम् । लिङ्गक्रमात् समाख्यानाच्च समाम्नातं
+--याज्यानुवाक्यायुगलम् काम्ययुक्तं --काम्येष्टिविशेषसंबन्धम् इति सूत्रार्थः ।(339)क्रमनाम्नोरन्यतरेण इहापि विनियोगः स्यात्, तथाहि
+--'क्रमश्च देशसामान्यात् '(पू.मी.3-3-12)  
+इह त्वैकात्म्यधीयोगः काम्ययाज्येष्टिवन्न हि ।  
+\*तस्मात्कर्माभिसंबन्धो नैवैकात्म्यधियोऽमितेः ॥(340)  
+ दर्शपूर्णमासयोः प्रधानानामनुमन्त्रणमन्त्रेषु आम्नायमानेषु उपांशुयाजक्रमे, दब्धिर्नामासीति मन्त्रः । स किं सर्वप्रधानशेषः, उतोपांशुयाजार्थः इति संशयः। तदर्थं (किं )देशसामान्यं विशेषविनियोजकं न वेति संशयः । अभिधानलक्षणस्य नियोगैदमर्थ्यस्य करणमात्रान्वयेनाप्युपपत्तेः विशेषसंबन्धस्याशाब्दत्वान्नेति प्राप्ते ,  
+ दब्धिरसीत्य......मात्रस्थस्य!संनिहितत्वात् क्रमेण च उपांशुयाजदेवतयोः संनिहितत्वात् तयैव सहान्विताभिधानात् अभिदानसार्थ्यवशेन तत्र विनियोग इति देशत एवायं संबन्धः इति स्थितम् ।  
+ तथा, (समाख्याभ्यां )'(आख्या)चैवं तदर्थत्वात्'(पू.मी.3-3-13)  
+सन्ति आध्वर्यवं औद्गत्रमित्यादिसमाख्यातानि कर्माणि । तेषु किं यद्देन समाख्यायते तत्तेनैव कर्तव्यम्, उतानियमः इत्येतदर्थं, किं समाख्यादिर्विनियोजिका न वेति संशयः।  
+ लौकिकत्वात्समाख्यायाः वेदविषयमङ्गङ्गिभावं नियन्तुं सामर्थ्याभावादनियमप्राप्तौ ,  
+कर्मणां कर्तृविशेषाकांक्षत्वात् अध्वर्यु(रा)(होत्रा)दीनाञ्च कर्तृणामनुष्ठेयकर्मद्वारविशेषाकांक्षत्वात् समाख्यायाश्च संबन्धप्रतिपादनसामर्थ्यात् तद्वशेन नियमो युक्तः । लौकिक्यपि समाख्या न पुरुषाधीनरचना पदत्वात् । पदानां च नित्यत्वान्न स्वातन्त्र्योपपत्तिरिति स्थितम् , अत्राह--इह त्विति । क्रमसमाख्ययोः लिङ्गस्य चाभावात् न कर्मशेषत्वमित्यर्थः। फलितं निगमयति --तस्मादिति । (340)फलश्रुतेः वर्तमानार्थापदेशतयार्थवादत्वादपापश्रुतिवत् कर्माङ्गत्वम् ,अत्राह--न चेति ।  
+न चास्याप्यर्थवादत्वं विधिना वाक्यभेदतः।  
+द्दृष्टार्थत्वाच्च तद्बुद्धेः पाठान्नाद्दृष्टकल्पना॥(341)  
+तमेतमिति वाक्यात्तुः यागादेः प्रत्युताङ्गता ॥(342)  
+अन्ये त्वाहुर्न शक्नोति कामसन्दूषिताशयः ।  
+द्रष्टुं तत्परमद्वैतं सर्वकामासमाप्तितः॥(343)  
+\*द्वित्वैकत्वमतीहाभिः सूत्रान्तं फलमाप्य ना ।  
+प्राजापत्यं पदं भुक्तत्वा तदैकात्म्यं प्रपद्दते ॥(344)  
+अर्थवादत्वस्य विधिनैकवाक्यत्वनियमादित्यर्थः । उपनिषदां मन्त्राणामिव कर्मतत्समवेतार्थप्रकाशक्तवेनाद्दृष्टार्थत्वात् क्रियाशेषत्वम्, अत्राह--द्दृष्टार्थत्वाच्चेति । तत्त्वधियः अध्यस्तध्वंसः अन्वयव्यतिरेकसिद्धफलमित्यर्थः ।(341)न केवलं ज्ञानस्य कर्माङ्गत्वे मानाभावः, कर्मणां धीशेषत्वे मानमस्तीत्याह--तमिति (342)  
+ कामप्रविलयद्वारेण कर्मणां ज्ञानाङ्गत्वपक्षोपक्षेपः  
+(को)अनिष्टसंब(न्धिन)रासेन स्वेष्टसंबन्धो दर्शितः। इदानीं कामप्रविलयद्वारेण कर्मणां ज्ञानाङ्गत्वपक्षमुपक्षिपति ---अन्ये त्विति । (343)कामप्रविलयस्याशक्यत्वादैकात्म्यधीर्न स्यात्, अत्राह--द्वित्वेति । व्यस्तसमस्तहिरण्यगर्भोपासनं द्वित्वैकत्वमतिः । ईहाः ---कर्माणि। पूर्वपूर्वक्षुद्रफलप्राप्त्या ततो निवृत्तरागः नित्यानुष्ठानसमुच्चितहिरण्यगर्भोपासनात् तत्पदं प्राप्य, तत्रापि जातवैराग्यः ब्रह्मभूयं गच्छतीत्यर्थः ।(344) भोगस्य रागवृद्धिहेतोः न तन्निवर्तकत्वमिति दूषयति ---नेति । कुतस्तहिं तन्निवृत्तिः, अत्राह--निवृत्तिरिति ।  
+नैवं, न कामसंप्राप्त्या तन्नाशोऽब्दशतैरपि ।  
+तत्सेवातोऽतिवृद्धिः स्यान्निवृत्तिर्दोषदर्शनात् ॥(345)  
+न जातु कामः कामानामुपभोगेन शाम्यति ।  
+हविषा कृष्णवर्त्मेव भूय एवाभिवर्धते ॥(346)  
+\*निवर्तेतापि कामेभ्यः तदुपायाप्रसिद्धितः।  
+सर्वक्लोशोपशान्त्यात्मज्ञानं चापि समाश्रयेत्॥(347)  
+अथानन्दः श्रुतः साक्षान्मानेनाविषयीकृतः ।  
+द्दृष्टानन्दाभिलाषं स न मन्दीकर्तुमप्यलम् ॥(348)  
+(345)भोगाद्रागविवृद्धौ पराशरवचनमुदाहरति --न जात्विति ।(346)भोगस्य रागानिवर्तकत्वं व्यतिरेकद्वारा प्रतिपादयति --निवर्तेतेति । कर्मकाण्डानारम्भे साधनानवगमात् अनुपभक्तस्वर्गादौ रागायोगात् स्वर्गादिभ्यो निवर्तेत। कर्मविधिदर्शितविविधोपायो भुक्तस्वर्गादिः तानेव चोपायाननुष्ठाय तत्फलमेव प्राप्नुयात्। अतो न भोगाद्रागनिवृत्तिरित्यर्थः । (347)भोगात् रागानिवृत्तावपि श्रुतब्रह्मनन्देन विषयानन्दरागमन्दीकरणात् तत्परित्या(गो)(गे)न ब्रह्मसाक्षात्करणे प्रवृत्तिः, अत्राह--अथानन्द इति । मानेनाविषयीकृत इति । अनुपभुक्त इत्यर्थः। (348)'निवृत्तिर्दोषदर्शनात् '(वा.345)इत्युक्तं निगमयति ---कामेति । तद्विपक्षार्थभावनमिति । रागविरुद्धस्य विषयदोषस्य दुःखानु(ख)क्त्वानित्यत्वादेर्ध्यानमित्यर्थः ।स्वतमुपसंहृत्य अन्वव्यतिरेकसिद्धं निगमयति ---विधय इति । कर्मविधयः कामवृद्धिहेतव इत्यर्थः ।(349)  
+कामप्रविलयायातः तद्विपक्षार्थभावनम् ।  
+\*विधयस्तत्क्रियाणां स्युस्तद्विपर्ययहेतवः ॥(349)  
+\*द्वारं न नियतं मुक्तेः प्राजापत्यपदं भवेत्।  
+नह्युपाधिषु तत्त्वस्य विशेषः कश्चिदीक्ष्यते ॥(350)  
+नाकाशस्य विशेषोऽस्ति कुम्भद्रोण्याद्दुपाधिषु ।  
+दूरान्तिकादिभिन्नेषु कल्पिताकल्पितेष्वपि ॥(351)  
+प्राजापत्यं पदं भुक्त्वैव मुक्तो भवतीत्यस्य निराकरणम्  
+'प्राजापत्यं पदं भुक्त्वा '(वा.344)इत्युक्तं दूषयति--द्वारमिति । तत्त्वस्य निर्विशेषत्वात् यस्मिन्नुपाधौ साधनपौषकल्यं तत्र ज्ञानात्कैवल्यमित्यर्थः । (350)स्वतस्तस्य निर्विशेषत्वेऽप्युपाधितारतम्यात् सातिशयत्वम्, अत्राह--नाकाशस्येति । द्रोणी ---गिरिदरी । कल्पिताकल्पितेष्विति । उत्पन्ननुत्पन्नेषु इत्यर्थः। (351)असामान्यस्य ब्रह्मणो व्यतिरिक्तत्वात्प्रपञ्चस्य, स्वतः सविशेषत्वात् तत्त्वस्य हिरण्यगर्भावस्थस्यैव ज्ञानान्मुक्तिः, अत्राह--सत्तत्त्वेति । सद्रूपाणां विशेषाणां भेदे निस्स्वभावत्वापातान्न (त)(स)तो भेद इत्येकसद्रूपान्तर्भूतानामन्योन्यमपि न भेद इति , विशेषः कल्पितः । तत्त्वन्तु असामान्यविशेषात्मकमित्यर्थः । (352)  
+\*सत्तत्त्वापेक्षया भेदो भावानां नाभ्युपेयते ।  
+स्वभावहानादन्योन्यं विशेषो बाह्य एव सः ॥(352)  
+कार्यकारणपक्षेऽपि कार्यं नान्यत्र कारणात् ।  
+न च तत्त्वे विशेषोऽस्ति कटकादीव हेमनि ॥(353)  
+अतः प्रजापतौ तत्त्वं कृमौ वा न विशिष्यते ।  
+तर्कादागमतश्चापि तद्दो य इति हीद्दृशात् ॥(354)  
+ब्रह्मणोऽसामान्यरुपत्वेऽपि कारणत्वात् स्वविकारकार्यैः सविशेषत्वम्, अत्राह--कार्येति । कार्यस्य कारणादभेदे तद्वदकार्यत्वात्,भेदाभेदस्य व्याहतत्वात् भेदः परिशिष्यते । न च कारणादन्यत्र--कारणान्न भिन्नमपि । व्याहतत्वात् भेदः परिशिष्यते । न च कारणादन्यत्र--कारणान्न भिन्नमपि । घटपटवत् कार्यकारणवाविरोधात् । अतः कल्पितं कार्यमित्यर्थः ।स्वीकृत्याप्याह--न चेति । कटकादेर्वर्तुलत्वादिविशेषेऽपि हेमरुपस्य निर्विशेषत्वात् ब्रह्मापि निर्विशेषमित्यर्थः । (353)निगमयति --अत इति । तर्कितमेतन्न प्रमितम्, अत आह--आगमतश्चेति । 'तद्दो यो देवानां प्रत्यबुध्यत स एव तदभवत् तथा ऋषीणां तथा मनुष्याणाम्'(बृ.3-4-10)इत्येवंरुपादित्यर्थः ।(354)  
+यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः  
+अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते ॥(355)  
+एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा ।  
+कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च ॥(356)  
+विज्ञानकर्मणोस्रेधा यद्दुच्येत समुच्चयः ।  
+पूर्वोक्तैकात्म्यतात्पर्याद्वेदस्यासौ न युज्यते ॥(357)  
+मुक्तेः सर्वाधिकारत्वे वाक्यमुक्तावा लिङ्गमाह --यदेति । (355) प्रजापतौ कृमौ च तत्‌वस्य निरतिशयत्वेन श्रुतिमाह--एक इति । (356)  
+ज्ञानकर्मसमुच्चयपक्षोपक्षेपः तन्निरासश्च  
+कामप्रविलयपक्षं प्रतिक्षिप्य, समुच्चयपक्षमुपक्षिपति ---विज्ञानेति । ज्ञानं प्रधानं कर्मोपसर्जनम्, कर्म प्रधानं ज्ञानमुपसर्जनम्, द्वयोः समप्राधान्यञ्चेति त्रैविध्यम् । 'ब्रह्मवित् पुण्यकृत्'(बृ.6-4-9)इति वाक्यमत्र प्रमाणमिति द्रष्टव्यम् । दूषयति ---पूर्वेति । साक्षात्पारम्पर्याभ्यां कृत्स्नवेदस्याद्वैतपरत्वात् अविद्दादर्शितद्वैतस्य विद्दामात्रापनोद्दत्वात् न त्रिविधोऽपि समुच्चय इत्यर्थः । (357)त्रिधा समुच्चये साधारणदूषमभिधाय विशेषदूषणमाह--एकवाक्येति । कर्मज्ञानकाण्डयोरेकवाक्यत्वस्याभाव(व)(वात्)फलभेदाच्च गुणप्रधानभावेन समुच्चयः कुतः!न कुतोऽपि । व्यतिरेकद्दृष्टान्तमाह--द्रव्येति । तृतीये चिन्तितम् ---  
+एकवाक्यावशीभावात् साध्यैक्यायोगतस्तथा।  
+समुच्चयः कुतो द्रव्यगुणवत् ज्ञानकर्मणोः ॥(358)  
+\*भेदाभेदाश्रयत्वेन ह्यैकात्म्यज्ञानकर्मणोः।  
+परसपरोपकारित्वहानात् कीद्दृक्समुच्चयः॥(359  
+देवताद्रव्ययाथात्म्यज्ञानं कर्माङ्गतां गतम् ।  
+तावदेव हि तत्कर्म नाज्ञातद्रव्यदैवतम् ॥(360)  
+'अर्थैकत्वे द्रव्यगुणयोरैककर्म्यान्नियमः स्यात् '(पू.मी. 3-1-12)ज्योतिष्टोमे, अरुणयैकहायन्या पिङ्गाक्ष्या सोमं क्रीणीयात् इति श्रुतम् । तत्र मात्रशेषतया निवेशः इति प्राप्ते,  
+गुणस्याप्याकृतिवत् द्रव्यपरिच्छेदकत्वोपपत्तेः, गुणश्रवणेऽपि तद्विषयाकांक्षाया अपि कल्पनासंभवात् द्रव्यगुणाभ्यां विशिष्टः क्रयो विधीयते इति अरुणिमा क्रयशेष इति ॥ यत्र द्रव्यगुणयोरर्थैक्यं श्रुतं,तत्र तावेनव तस्मिन्पदार्थे नियम्येयाताम्। ऐककर्म्यात्---एककार्यत्वात्। एकं हि क्रयसंबन्धाख्यं कार्यमत्र श्रुतमिति सूत्रार्थः ।(358)
+परस्परमनुपकारकत्वात् न सर्वप्रकारसमुच्चयः, इत्याह--भेदेति । (359)  
+ब्रह्मज्ञानं कर्मसमुच्चितं वैदिकज्ञानत्वात् देवताज्ञानवत्, अत्राह--देवतेति ।  
+तद्विशेषेऽङ्गभूयस्त्वात् फलभूयस्त्वमित्यतः ।  
+समुच्चयो न तस्य स्यात् नाङ्गेनाङ्गिसमुच्चयः ॥(361)  
+यच्चप्यैकात्म्यविज्ञानं तदज्ञानैकघस्मरम्।  
+तस्मिन्सति कुतः कर्म का वापेक्षास्य गोचरे॥(362)  
+ब्रह्मणत्वादिविज्ञानमग्निहोत्रादिकर्मणाम् ।  
+यद्दृष्टं साध्यसिद्धयै तु कर्मानुगुणमेव तत् ॥(363)  
+कर्माङ्गतां ---कर्मांशत्वं --कर्मान्तर्भावमिति यावत्। देवतादिज्ञानयुक्तस्यैव कर्मत्वात् न तस्य कर्मसमुच्चय इत्यर्थः । (360)देवतादिज्ञानविशिष्टस्यैव कर्मत्वे सति अकृतधर्मजिज्ञासास्य कर्माधिकारो न स्यात्, अतश्च शिष्टाचारविरोधः, अत्राह---तद्विशेष इति। दवतादिज्ञानाधिक्ये फलाधिवयम्, 'यदेव विद्दया करोति (अद्व)(श्रद्ध)योपनिषदा तदेव वीर्यवत्तरं भवति'(छा.1-1-10)इति श्रुतेः । अतः अकृतमीमांसस्य कर्म न वीर्यवत्तरमित्यर्थः। ज्ञानाभावेऽपि कर्मणो वीर्यवत्त्वे ज्ञानं न कर्माङ्गमिति समुच्चयोपपत्तिः, अत्राह---समुच्चय इति । फलातिशये ज्ञानविशिष्टस्यैव साधनत्वात् अङ्गेन --स्वान्तर्भूतेन अङ्गिनः --स्वस्य न समुच्चय इत्यर्थः ।(361)आत्मधीः न कर्मसमुच्चिता तन्निवर्तकत्वात् प्रायश्चित्तादिवत्, इत्याह--यच्चेति । ज्ञानस्य कर्मापेक्षया फलहेतुत्वात् तन्निवर्तकत्वमसिद्धम्, अत्राह--केति । गोचरः--साध्यम्--फलम्, अज्ञानाहानम्। न तत्र प्रमाणस्य कर्मापेक्षेत्यर्थः । (362)किंच, देहधर्माध्यासवदात्मज्ञानस्य कर्मसमुच्चयः, उत निर्विशेषात्मज्ञानस्य । आद्दमङ्गीकरोति--ब्रह्मणत्वेति । (363)द्वितीयं प्रत्याह--ऐकात्म्येति ।  
+\*ऐकात्म्यवस्तुयाथात्म्यबोधे जात्यादिबाधनात् ।  
+न केवलं क्रिया न स्यात् कर्मणां प्रत्युताक्रिया ॥(364)  
+\*अयथावस्तुसर्पादिज्ञानं हेतुः पलायने ।  
+रज्जुज्ञानेऽधीध्वस्तौ कृतमप्यनुशोचति ॥(365)  
+न कर्मव्यापृतिर्मुक्तावाप्त्यादीनामभावतः ।  
+न च श्रुत्यादयस्तत्र तेन स्यान्न समुच्चयः ॥(366)  
+तत्त्वज्ञाने सति प्रारब्धफलादिरिक्तकर्मणां विलायात् न समुच्चय इत्यर्थः । (364)यावज्जीवचोदनावशात् नित्यकर्मणां समुच्चयो वाच्यः,विदुषोऽपि शरीरयात्रार्थकर्मदर्शनात्, अत्राह--अयथावस्त्विति । कृतमपीति । भयकम्पपलायनादिकमित्यर्थः ।(365)  
+ एवं ज्ञानस्वरुपपर्यालोचनया समुच्चयं निरस्य, प्रमाणप्रयोजनयोरभावेनापि निराचष्टे--न कर्मेति । श्रुत्यादयः इत्यादिपेदन लिङ्गादिग्रहणम्। (366)धीकर्मणोर्विरोधे धिय एव बाध्यत्वं किं न स्यात्, अत्राह---अन्तरङ्गं हीति । अन्तरङ्गस्य बहिरङ्गात्प्रबलत्वात् प्रबलेन दुर्बलस्य बोधो युक्त इत्यर्थः। तर्हि इष्टं मे स्यात्, अनिष्टं मा भूदिति अनवच्छिन्नपुमर्थयमानानां कर्मनैरर्थक्यमेव स्यात्, अत्राह--संस्कारकं त्विति । प्रत्यक्यप्रावण्यकारणान्तः करणशुद्धिः कर्मफलमित्यर्थः । (367-368)ब्रह्मज्ञानं न कर्मनिवर्तकम् ज्ञानत्वात् ज्ञानान्तरवत्, इत्यत्राह--यथेति । ब्रह्मज्ञानं अत्यस्तनिवर्तकम् तत्त्वधीत्त्वात् शुक्तितत्त्वज्ञानवत् इति  
+\*अन्तरङ्गं हि विज्ञानं प्रत्यङ्मात्रैकसंश्रयात् ।  
+बहिरङ्गं तु कर्म स्यात् बाह्यद्रव्याश्रयत्वतः ॥(367)  
+सत्यन्तरङ्गे विज्ञाने बहिरङ्गं न सिद्धयति ।  
+संस्कारकं तु कर्म स्यात् ज्ञानत्त्वज्ञाननिहनुतिः ॥(368)  
+यथावस्त्वात्मविज्ञानं मोहमात्राश्रयाः क्रियाः।  
+सम्यग्ज्ञाने कुतः कर्म कर्महेतूपमर्दनात् ॥ (369)  
+नित्यप्राप्तं च विज्ञानं प्रतीचस्सन्निधेस्सदा ।  
+कर्मानित्यं पृथग्रूपं नित्यं चानित्यबाधकम् ॥(370)  
+क्षयी कर्मार्जितो लोकः स्वरातड्ब्रह्मावबोधतः ।  
+लब्धे श्रैरोक्यराज्ये ना भिक्षामाद्रियते तु कः ॥(371)  
+सत्प्रतिपक्षत्वमाह--सम्यग्ज्ञाने इति ।(369)ज्ञानं न कर्महेतुनिवर्तकम् कार्यत्वात् घटवत् इत्याशङ्कय, हेत्वसिद्धिमाह--नित्येति । बुद्धीद्धबोधस्य अबोधध्वंसकरत्वादित्यर्थः।पृथग्रूपम्--स्वरुपतः परतो हेतुतास्च विचित्रम्। किमतः!अत्राह--नित्यं चेति । असञ्जातविरोधितया (वत्)पूर्वसिद्धत्वादित्यर्थः ।(370) कर्म उपसर्जनम्, ज्ञानं प्रधानम् इति मते प्राक् विशेषदूषणमुदितम्, इदानीं समप्राधान्यानुपपतौ हेतुमाह--क्षयीति (371)सम्प्रति कर्मणः प्राधान्यम्, ज्ञानस्य गुणभावः इत्यत्र विशेषदूषणमाह--भिन्नेति । (372)  
+भिन्नप्रकरणं ज्ञानं काङ्क्षितं न च कर्मणा।  
+विरोधाच्च स्वतन्त्रं तत् गुणभूतं न कस्य चित् ॥(372)  
+यतो वस्त्वनुरोध्येतत् न ज्ञातृवशर्त्यतः ।  
+अज्ञानोच्छित्तये ज्ञानं स्वतन्त्रं तेन भण्यते ॥(373)  
+\*अनावृत्तिश्च कर्मभ्यः न क्वचिच्छ्रयते स्फुटा ।  
+ज्ञानादेव त्वनावृत्तिः श्रूयते बहुशः श्रुतौ ॥(374)  
+एकरुपं च विज्ञानमेकरुपात्ममेयतः।  
+भिन्नरुपाणि कर्माणि बहुकारकसंश्रयात्॥(375)  
+ज्ञानस्य स्वाश्रयात्मादिसापेक्षत्वात् स्वातन्त्र्यमसिद्धम्, अत्राह--यत इति । उत्पत्तौ वस्तुप्रमाणापेक्षत्वेऽपि स्वकार्ये परनिरपेक्षम्, अतः अज्ञानोच्छित्तये न ज्ञातृवशवर्ति इत्यन्वयः ।(373)  
+'न च पुनरावर्तते '(छा.8-15-1)इति कर्मणोऽपि अनावृत्तिश्रवणात् एकफलत्वात् समुच्चयः, अत्राह--अनावृत्तिश्चेति । प्राप्तिसमये पुनरावृत्तिप्रसक्यत्यभावेन अप्रसक्तप्रतिषेधत्वात् न च पुनरावर्त्तिष्यते इति कल्पनायां मानान्तरविरोधः इत्याह--स्फुटेति । ज्ञानस्य करणस्य इतिकर्तव्याकाङ्क्षया कर्मसम्बन्धः, अत्राह--ज्ञानादेवेति । 'नान्यः पन्थाः'(तै.आ.3-12-7)इत्यादावित्यर्थः ।(374)साधनवैचित्र्ये साध्यवैचित्र्यम्, अविचित्रसाधनात् अविचित्रसाध्यसिद्धिः इति साधनवैचित्र्ये साध्यवैचित्र्ये,अविचित्रसाधनात् अविचित्रसाध्यसिद्धिः इति लोकद्दृष्टान्यायेनापि ज्ञानादेव कैवलयम्, न कर्मणः इति प्रतिपादयितुमाह--एकरुपं चेति । (375)योग्यतया साध्यसाधनसम्बन्धमाह--एकरुपस्येति ।(376)  
+एकरुपस्य मोक्षस्य भिन्नरुप न साधनम्।  
+एकरुपस्य मोक्षस्य ह्येकरुपं हि साधनम् ॥(376)  
+तस्मात्कर्मफलं नाना नानाकर्मसमुद्भवम् ।  
+\*देवमानुषतिर्यक्षु कर्तुः शास्त्रैर्निदर्शितम् ॥(377)  
+अन्ये तु मन्वते केचित् गम्भीरन्यायवादिनः ।  
+भेदस्य विलयो वेदे गम्यते कस्य चित्क्वचित् ॥(378)  
+विचित्रस्यापि कर्मणः फलान्तरानन्वयात् मोक्षेणान्वयः,अत्राह--तस्मादिति । यस्मान्न् मोक्षसाधनम् तस्मादित्यर्थः ।  
+वैदिकसाधनस्य कर्मणः कथं संसारफलत्वम्, ज्ञानस्यापि तत्प्रसक्तेः, अत्राह---शास्त्रैरिति । 'तद्द इह रमणीयचरणाः'(छा.5-10-7)इत्यादिभिरित्यर्थः ।(377)  
+प्रपञ्चविलयद्वारा कर्मकाण्डस्य ज्ञाननियोगाङ्गत्वमिति मतनिरुपणम्  
+संप्रति प्रपञ्चप्रविलयद्वारा कर्मकाण्डस्य ज्ञाननियोगाङ्गत्वमत (आ)(मा)हअन्ये त्विति । (378) कर्मानुष्ठानपरं कर्मकाण्डं नान्यप्रतिषेधपरम्, अत्राह--देहेति ।स्वर्गकामवाक्यं यागादेः स्वर्गसाधनत्वमात्रपर्यवसितम्, अत्राह--देहादिति । देहात्मत्वनिरासमन्तरेण स्वर्गादिभोगायोगात् अतत्परवाक्यस्य प्रत्यक्षादिविरोधे तत्प्रमापकत्वानुपपत्तेः देहात्मत्वलयपरं स्वर्गकामवाक्यम्।  
+देहात्मभावविलयः स्वर्गकामपदे यथा ।  
+देहाद्भिन्नोऽधिकार्यत्र स्वर्गभोग्यवगम्यते ॥(379)  
+गोदोहनेनेत्यत्रापि विलयोऽन्याधिकारिणः ।  
+अधिकृताधिकारित्वात् नान्योऽधिक्रियते यतः ॥(380)  
+रागाद्दुत्थप्रवृत्तीनां निषेधेषु लयोऽञ्जसा ।  
+विधिष्वपि लयस्तासां कार्यान्तरनियोगतः ॥(381)  
+लोकेऽपि चानभिप्रेतात् पथस्साक्षान्निवारणम् ।  
+मार्गान्तरोपदेशाद्वा वेदेऽप्येवं प्रतीयताम् ॥(382)  
+एवं रागादिहेतूत्थप्रवृत्तिलयवर्त्मना ।  
+आत्मज्ञानाधिकारार्थाः निश्शेषा विधयः स्थिताः ॥(383)  
+स्वर्गसाधन(त्वं)तु अन्यपरेणापि शक्यप्रमं देवताधिकरणन्यायेनेत्याशयः। (379)'कस्य चित्क्वचित्(वा.378)इति अयुक्तम्, अन्यस्य प्रतिषेधाप्रतीतेः, अत्राह--गोदोहनेनेति । स्वर्गकामितया दर्शपूर्णमासयोरधिकृतस्य पशुकामिनः गोदोहनविधानादित्यर्थः।(380)निषेधनित्यविधीनां परप्रविलयपरत्वाभावात् काम्यविधीनामपि तथात्वमेव, इत्यत्राह--रागेति ।निषेधानां साक्षादेव प्रवृत्तिनिरोधत्वम्, नित्यविधीनामनुष्ठेयान्तरनियोगमुखेनेत्यर्थः ।(381)नित्यविधीनां कार्यान्तरपरत्वे प्रवृत्तिनिवारकत्वे च वाक्यभेदः स्यात्, अत्राह--लोकेऽपीति । अवान्तरपरमतात्पर्यभेदादविरोध इत्यर्थः (382)पूर्वपक्षं निगमयति --एवमिति । आत्मज्ञानाधिकारार्थाः--ज्ञाननियोगशेषाः इति यावत् ।(383)  
+नैतदेवं यतोऽशेषा न कर्मविधयः श्रुतौ ।  
+स्ववाक्यावगतात्कार्यादपेक्षन्ते फलान्तरम्॥(384)  
+वेदेऽनुष्ठानतात्पर्यान्न लयो गम्यते क्वचित् ।  
+फलश्रुतेरभावो हि साध्यः स्यादफलः कथम् ॥(385)  
+वस्तुनोऽवगतिर्नापि लयाद्भवति कुत्रचित् ।  
+\*अभावेऽप्युपपन्नत्वात् सुषुप्तौ चाप्यनीक्षणात् ॥(386)  
+ निरुक्तमतदूषणम्  
+अग्निहोत्रादिविधीनां फलान्तरापेक्षत्वात् लयपरत्वम्, उत प्रक्रमादिलिङ्गेन तत्परत्वावगमात्, उत लयस्य पुमर्थत्वात्। प्रथमं प्रत्याचष्टे--नैतदिति ।(384)द्वितींयं दूषयति---वेद इति । स्वर्गादिफलश्रवणादित्यर्थः । तृतीयं निरस्यति --अभावो हीति ।शशश्रृङ्गवत् अक्रियाजन्यत्वात् पुत्राद्दभाववत्स्वरुपेणापुमर्थत्वाच्चेत्यर्थः ।(385)दुःखाभाववत् सुखानुभवहेतुत्वात् पुमर्थत्वम्, इत्यत्राह--वस्तुन इति । हेतुमाह--अभावेऽपीति । प्रविलयनियोगस्य प्रपञ्चलयेनैवोपन्नत्वात् न ब्रह्मावगतिसाधनत्वमित्यर्थः। प्रपञ्चलये सत्यपि सुप्तिप्रलययोः ब्रह्मानवगमाच्च, इत्याह--स्वाभाविक इति । न हि स्वाभाविकं शक्यलयम्, नैस्स्वाभाव्यप्रसङ्गादित्यर्थः । द्वितीयं दूषयति --कार्यश्चेदिति । अनादिभावस्यात्मवदनिवर्त्यत्वात् उपादाननिवृत्तिमन्तरेण कार्यस्यात्यन्तिकलयासिद्धेः तत्कारणाज्ञाननिवर्तकज्ञानमेवाश्रयणीयमित्याशयः ।(387)  
+कृत्स्नः प्रपञ्चः प्रविलाप्यः, तदेकदेशो वा । आद्दं प्रत्याह--कृत्स्नेति । द्वितीयं दूषयति --इन्द्रियेति । (388)स्वापे करणादीनामनभिव्यक्तिमात्रम्,न लयः इति आध्यात्मिकप्रपञ्चलयः कार्य- इत्याह--उत्थितस्येति । दूषयति--आयात इति । प्रलीनस्य पुनरुद्भवादनुच्छेदे नियोगतः प्रलीनस्यापि पुनरुद्भवसंभवात् प्रयासानर्तक्यमित्यर्थः। (389)नानर्थक्यम्, नियोगाद्भवतो लयस्य प्र(काश)(पञ्च)कारणनाशकत्वादिति शङ्कते--प्रपञ्चेति । नायं स्वप्रतियोग्युपादाननाशकः नाशत्वात् घटनाशवत्, इत्याह--नैवमिति ।(390)कारणमप्यविद्दा, ब्रह्मैव वा, द्विधापि न प्रपञ्चलयान्निवृत्तिः, इत्याह---कारणस्येति ।  
+\*कारणस्याप्यविद्दाया वस्तुबोधाद्विनाशतः ।  
+यतोऽतोऽविद्दानाशार्थं प्रपञ्चविलयोऽफलः ॥(391)  
+रज्जुज्ञानाद्धि सर्पादिप्रपञ्चविलयो यतः ।  
+\*सर्पाभासलयेऽपीयं रज्जुस्तमसि नेक्ष्यते ॥(392)  
+लयनिष्ठे प्रमाणे नो वस्तु गोचरभेदतः ।  
+अथ वस्तुनि तन्मानं, न लये स्यान्न च द्वये ॥(393)  
+भाव्युच्छेत्तुमशक्यस्ते भूतोऽप्युपरतः स्वतः ।  
+\*प्रपञ्चो वर्तमानस्तु कार्यत्वान्नश्यति स्वतः ॥(394)  
+अपिशब्दात् ब्रह्मणो नित्यत्वाच्चेत्यर्थः ।(391)नाशत्वाविशेषात् कारणनाशोऽपि कार्यनाशको न स्यात्। एवं (वा)(चा)ज्ञाननाशात् संसारनाशः त्वदिष्टो न सिद्धयेत्, अत्राह--रज्जिवति । तत्राज्ञाननाशादध्यासनिवृत्तिः, अध्यासनाशादज्ञाननिवृत्तिर्वेति कुतो विनिगमनम्, अत्राह--सर्पेति । (392)लयपरत्वं वेदस्य, वस्तुपरत्वम, उभयपरत्वं वा । आद्दं प्रत्याह--लयेति। नो वस्तु सिद्धयेदिति शेषः ।द्वितीयं दूषयति --अथेति । तृतीयं निरस्यति--न चेति । वाक्यभेदापत्तेरित्यर्थः ।(393)  
+ आगामिनः प्रपञ्चस्य लयः साध्यते, भूतस्य भवतो वा । आद्दं दूषयति--भावीति । अप्राप्तेरित्यर्थः । द्वितीयं प्रत्याह--भूतोऽपीति । तृतीयं पराचष्टे---प्रपञ्च इति । (394)कर्मकाण्डं लयपरं, साध्यसाधनपरं, उभयपरं वा । आद्दे अवद्दमाह--श्रुतेरिति ।  
+श्रुतेर्विलयतात्पर्ये फलमाकस्मिकं भवेत् ।  
+फलार्था चेल्लये न स्यात् नोभयं वाक्यभेदतः ॥(395)  
+प्रपञ्चविलयेनैव सर्वानर्थप्रहाणतः ।  
+पुरुषार्थस्य संसिद्धेः विद्दानैष्फल्यमापतेत्॥(396)  
+अत ऐकात्म्ययाथात्म्यज्ञानादज्ञानहानतः ।  
+सिद्धे पुमर्थे विलयकल्पना निष्प्रयोजना॥(397)  
+स्वकार्योपक्षयादेव विधीनां च परस्परम्।  
+कुत एकाधिकारत्वमपेक्षाभावतो वद ॥(398)  
+विधीनां चापि सर्वेषां निषेधवचसां तथा ।  
+\*नामादिलयनिष्ठत्वे ह्यभ्युपेतेऽप्रमाणके ।  
+अनिमित्तोऽपवर्गोऽपि शास्त्रं चैवमनर्थकम् ॥(399)  
+द्वितीय(मु)(म)पवदति--फलेति ।अन्त्यं प्रत्याह--वाक्येति । (395)इतश्च न लयः साध्य इत्याह--प्रपञ्चेति । संसाराभावस्य प्रविलयनियोगेन सिद्धत्वात् विद्दानर्थक्यमित्यर्थः।(396)द्दृष्टफलत्वाद्विद्दाया नानर्थक्यं चेत्, अत्राह--अत इति । (397)कर्मकाण्डस्य ज्ञानकाण्डवत् स्वफलोपक्षीणत्वात् परस्परानपेक्षत्वात् न कर्मविधीनां ज्ञाननियोगशेषत्वम्, इत्याह--स्वकार्येति । (398)दोषान्तरं संभाषते --विधीनांचेति । लयपरत्वाद्वेदस्य, स्वर्गापवर्गसाधनविधावतात्पर्यात् फलासिद्धौ शास्त्रवैफल्यमित्यर्थः।  
+यदापि वस्तुवृत्तेन नगरावाप्तिसाधनम्।  
+ग्रामाप्तिर्नगरप्राप्तिः तदाप्यर्थान्न मानतः ॥(406)  
+अर्थादपि न तात्पर्यं द्रव्यार्जनविधेरिव।  
+शब्दमात्रानुसारेण वेदे तात्पर्यधीर्यतः ॥(407)  
+(वि)(च)शेषत्वमर्थकृतं न शब्दकृतमित्यर्थः।(406)मुखतोऽप्रतीतस्यापि आर्थिकत्वं यथा विवक्षितप्रयोगे, तथा ज्ञाननियोगशेषत्वमार्थिकं कर्मविधीनाम्, अत्राह--अर्थादपीति ।  
+ व्यतिरेकद्दृष्टान्तमाह--द्रव्येति ।'यस्मिन् प्रीतिः पुरुषस्य तस्य लिप्सार्थलक्षणाऽभिवक्तत्वात्'(पू.मी.4-1-2)ब्राह्मणः प्रतिग्रहादिना द्रव्यमार्जयेत् राजन्यो जयादिना वैश्यः कृष्यादिना इति तैस्तैर्नियमैर्द्रव्यार्जनं श्रूयते । किमेते नियमाः क्रत्वर्थाः, पुरुषार्था वेति संशये,  
+ नियमनियोगानां साक्षादश्रुताधिकारत्वात् विषयफलालोचनालभ्यस्य धनकामस्य विध्यानर्थक्यप्रसङ्गेन अधिकारित्वानुपपत्तेः द्रव्यमुखेन तदपेक्षसाधिकारक्रतुविध्यङ्गत्वे संभवति विश्वजिन्न्यायानवतारात् क्रत्वर्थाः इति प्राप्ते,  
+ नैषां क्रत्वङ्गत्वं, प्रकरणाद्दभावात् । नापि द्रव्यद्वारा क्रतुशेषता, द्रव्यस्यक्रतुसंबन्धव्यभिचारात् । जिजीविषुरार्जने प्रवृत्तोऽधिकारी. धनकामे ह्यधिकारिणि विध्यानर्थक्यम्। अत्र तु प्रवृत्तिरधिकारिविशेषणम् । तेन सामान्येनोपायान्वेषणया प्रवृत्तस्य कर्तव्यतया पुरुषार्थत्वेन नियम उपदिश्यते इति पुरुषार्थमेव द्रव्यार्जनं क्रतूपकारकमिति तन्त्रान्तरे निरुपितमिति भावः।  
+स्वर्गादौ यदि तात्पर्यं न स्यादैकात्म्यबोधने ।  
+मुक्तौ चेन्न भवेत्स्वर्गे वाक्यभेदान्न च द्वये ॥(408)  
+न च स्वर्गादिकार्याणां प्रयाजार्थसमानता ।  
+अनुप्रवेशः कल्प्येत येन कार्यान्तरं प्रति ॥(409)  
+वक्तव्यं च कथं त्वेते द्दृष्टेनैवोपकारिणः ।  
+आत्मज्ञानाधिकारस्य, यदि तावदिदं मतम् ॥(410)  
+अत्र तथात्वाभावे हेतुमाह--शब्देति । श्रुतिलिङ्गादेरभावान्नार्थिकं तात्पर्यमित्यर्थः। (407)शब्दस्य स्वर्गादौ तात्पर्यं, मुक्तौ, उभयत्र वा । आद्दं दूषयति--स्वर्गेति । द्वितीयमपवदति ---मुक्ताविति । अन्त्यं निरस्यति--वाक्येति ।(408)कर्मवाक्यानां ज्ञानकार्यशेषत्वम्। अङ्गेषु फलश्रुतेर्थवादत्वेन स्वर्गादीनामविवक्षितत्वात्, अत्राह--न चेति । दर्शपूर्णमासापूर्वगृहीतानामन्योन्यशेषत्वाद्दयोगात् प्राधान्यायोगाच्च तच्छेषत्वमेव युक्तम्। ज्योतिष्टोमादेस्तु ज्ञननियोगगृहीतत्वेमानाभावात् प्राधान्यप्रत्ययच्चेत्यर्थः।(409)  
+ विधिनिषेधानां स्वाभाविकप्रवृत्तिप्रलयद्वारा ज्ञानकार्यशेषत्वं , कामप्रविलयद्वारा वेत्ति विकल्पयति---वक्तव्यंचेति । आद्दमनुवदि--यदीति । अर्धमङ्गीकरोति--अस्त्वेवमिति । निवृत्तेरुपकारत इति । निवृत्तिद्वारोपकारादित्यर्थः । (410-411)अनङ्गीकृतमाह--विधयस्त्विति । पञ्च पञ्चनखा भक्ष्याः इति वत् परिसंख्या(व)(वि)धित्वात् अन्यनिवृत्तिपरत्वम्, अत्राह--न हीति ।उभयत्र प्राप्त्यभावादित्यर्थः। प्राङ्मुख एव भुञ्जीतेति नियमारितयाऽन्यनिवृत्तिफलत्वम्, अत्राह--नापीति ।  
+रागाद्दाक्षिप्तद्दृष्टार्थप्रवृत्तिप्रतिषेधतः ।  
+अस्त्वेवं प्रतिषेधेषु निवृत्तरुपकारतः ॥(411)  
+विधयस्तु कथं रागं निरुन्धन्तीति भण्यताम्।  
+न हि ते परिसंख्यार्था नापि चैते नियामकाः ॥(412)  
+अत्यन्ताप्राप्तमर्थं हि विधयो बोधयन्ति नः ।  
+प्राप्तार्थो यो विधिः सोऽन्यनिवृत्तिफल इष्यते ॥(413)  
+सेवासांग्रहणीहावत्तुल्यकार्यतया न च ।  
+\*यतो नियतकालीनफला वैधी क्रियेष्यते ॥(414)  
+पक्षे प्राप्त्यभावादित्यर्थः। (412)उभयाभावे हेतुमाह--अत्यन्तेति । अपूर्वविधित्वेऽपि अन्यनिवृत्तिफलता किं न स्यात्, अत्राह--प्राप्तार्थ इति । (413)सेवादीनामेकफलानामेकत्र प्रवृत्तस्या(सा)र्थादितरनिवृत्तिवत् शास्त्रीयलौकिकप्रवृत्तीनां संसारफलत्वात् शास्त्रीयव्यवहारे प्रवृत्तस्यार्थादितरनिवृत्तिः, इत्यत आह--सेवेति । कुत इत्यत आह--यत इति । विहितक्रियाणां यथार्थत्वेनानन्तरफलत्वात्, तद्वैपरीत्यात् स्वाभाविकप्रवृत्तीनां अवान्तरवैलक्षण्यं यत इत्यर्थः। (414)सेवासांग्रहण्योः एकार्थत्वमुपेत्य शास्त्रीयेतरप्रवृत्तीनां तन्नास्तीत्युक्तम्।  
+अद्दृष्टार्था हि द्दृष्टार्था रागाद्दुत्ता- प्रवृत्तयः ।  
+ग्रामोपायेन सेवायाः सांग्रहण्याऽविरुद्धता ॥(415)  
+\*क्रियातः फलमित्येव शास्त्रमेतावति प्रमा ।  
+क्रमेण युगपद्वातः सेवासांग्रहणीहयोः।  
+नानुष्ठाने विरोधोऽस्ति फलभूमार्थिनः क्वचित् ॥(416)  
+रागाद्दुत्थप्रवृत्तीनां कार्त्स्न्येन च विरोधतः।  
+नैयोगिक्योऽपि नैव स्युर्द्रव्याभावात्प्रवृत्तयः॥(417)  
+इदानीं तयोरपि न तुल्यफलत्वनियमः, इत्याह--ग्रामेति । सेवाया ग्राममात्रफलत्वाभावात् सांग्रहण्याः तन्मात्रफलत्वादविरुद्धत्वमित्यर्थः।(415)  
+ ग्रामकामः सांग्रहण्या यजेत इति शास्त्रेणोपायान्तरप्रतिषेधादस्ति विरोधः, अत्राह--क्रियात इति । तुल्यफलत्वेऽपि वैलक्षण्यमाह--क्रमेणेति । अतो न द्दृष्टान्तत्वसंभव इत्यर्थः ।(416)यत्किञ्चित्स्वाभाविकप्रवृत्तिनिरोधस्य सदा सत्त्वात् कृत्स्नतन्निरोधे रागमूलद्रव्यार्जनविधिनिरोधात् अग्निहोत्राद्दनुपपत्तौ तद्विधिवैयर्थ्यम्, इत्याह--रागेति ।(417)शास्त्रीयेतरप्रवृत्त्योः संसारैकफलत्वात् न निवर्त्यनिवर्तकभावः, इत्याह--द्दृष्टेति । (418)वैधप्रवृत्तीनां कैवल्यफलत्वादेकफलत्वमसिद्धम्, अत्राह--प्रपञ्चेति ।  
+द्दृष्टाद्दृष्टप्रवृत्त्योश्च न विशेषोऽस्ति कश्चन।  
+उपायत्वेन काम्यानां रागाद्दाक्षिप्तहेतुतः॥(418)  
+\*प्रपञ्चाभिनिवेशित्वहेतौ तुल्येऽपि चानयोः।  
+कं विशेषमपेक्ष्यैका चेष्टा मुक्तयनुरोधिनी॥(419)  
+कामोपायत्वमेवाथ नेष्टं यदि च कर्मणाम्।  
+उक्तो न्यायः प्रहीयेत फलं चाकस्मिकं भवेत् ॥(420)  
+कर्तृत्वादिप्रपञ्चाभिनिवेशमूलत्वस्य तुल्यत्वादित्यर्थः।(419)ज्योतिष्टोमादेः स्वर्गादिफलत्वानभ्युपगमात् कैवल्यफलत्वमिति शङ्कते ---कामेति । निराकरोति --उक्त इति । स्वर्गकामादिकरणे, ज्योतिष्टोमेन स्वर्गकामो यजेतेत्यादिषु किं स्वर्गो गुणः कर्म प्रधानम्, उत कर्म गुणभूतं स्वर्गः प्रधानमिति विशये,  
+ भावार्थाधिकरणन्यायेन नामपदार्थस्य स्वर्गस्य साध्यत्वायोगात् भावार्थस्य साध्यत्वात् कर्म प्रधानं स्वर्गो गुणः इति प्राप्ते,  
+ कार्यबोधकत्वस्य लोके लिङादीनामवगतत्वात् वेदेऽपि कार्याभिधानमाश्रयणीयम्। कार्यस्य कृत्येकाश्रयत्वादनुष्ठाने सत्येवोपपत्तिरित्यनुष्ठानमङ्गीकरणीयम्।  
+ अनुष्ठानं च कर्मण्यैश्वर्यनिबन्धनमिति शब्द एव कस्यचित्कार्यतया प्रतिपादयतीति मन्तव्यम्। कामिनश्च श्रुतत्वात् तस्यैव कार्यबोधं शब्दो जनयेत् । कामी च काम्यमानस्य साध्यत्वेन संबद्धुं योग्य एव बोद्धृतयान्वीयते । इतरथा अन्यदिच्छति अन्यत्करोतीत्यसंबन्धप्रसङ्गात् ।तथा साध्यपर्यन्तस्वर्गेच्छाविशिष्टः पुरुषः स्वर्गकामपदेनोच्यते इति स्वर्गः प्रधानं, तत्र साधनत्वेन कर्म गुणभूतमिति राद्धान्तितम्। तद्विरोध इत्यर्थः । स्वर्गादिफलं च निर्निमितं स्यात्, (अत्रा)(इत्या)ह--फलं चेति ।(420)  
+सर्वकामाशनेनाथ कृत्स्नकामलयाध्वना।  
+यान्ति मुक्तत्यानुगुण्यं चेद्विधयो. वार्तमेव तत्॥(421)  
+\*यन्निमित्ता प्रवृत्तिः स्यात् सा कतं तन्निवर्तिका ।  
+प्रवृत्तोऽपि निवर्तेत न कामोपायकर्मतः॥(422)  
+उद्विजेताथवा ज्ञानात् सर्वपुंभोगघस्मरात् ।  
+अपि बृन्दावने शून्ये इति कामिवचस्तथा ॥(423)  
+कामप्रविलयद्वारा विधीनां ज्ञाननियोगशेषत्वमिति परिशिष्टकल्पमुत्फापयति
+--सर्वेति । दूषयति---वार्तमिति ।(421)कथम्, इत्यत आह--यदि(त्वि)ति । यतः कारणात् प्रवृत्तिः, सा स्वकारणस्य कामस्य कथं निवर्तिकेत्यर्थः ।कार्यस्य कारणनिवर्तकत्वं शब्दादौ द्दृष्टम्, अत्राह--प्रवृत्त इति । कामोपाये प्रवृत्तौ स्तायं विषयः स्यात्। ततः तद्रागः, पुनः सजादीयसं(प्रदा)(पाद)नमिति न तदुपायान्निवर्तेतेत्यर्थः (422)भोगस्य न केवलं ज्ञानानुगुण्याभावः, प्रादिकूल्यम(तीत्रा)(पीत्या)ह--उद्विजेतेति । प्रमाणमाह--अपीति ।   
+ अपि बृन्दावने शून्ये श्रृगालत्वं स गच्छति ।  
+ न (नु)(तु)निर्विषयं मोक्षं कदाचिदपि गौतम॥  
+इति रागिगीतमत्र प्रमाणमित्यर्थः ।(423)  
+उक्तं यदपि वेदेऽस्मिन् कस्य चिद्विलयः क्वचित् ।  
+तन्नातत्परतस्तूक्तेः न देहादिलयस्ततः ॥(424)  
+श्रेतेऽपि स्वर्गतात्पर्ये कल्पना चेल्लयेऽर्थतः ।  
+तन्न प्रत्यक्षवचनाद्देहादिलयसिद्धितः॥(425)  
+साक्षाद्धस्तिनि द्दृष्टेऽपि न हि हस्तिपदानुमा।\*  
+अस्थूलादिवचः साक्षात् देहादिप्रतिषेधकृत्॥(426)  
+विपर्ययेण येऽप्याहुः यथोक्तज्ञानकर्मणोः ।  
+एकाधिकारितां, वाच्यं मानं तैर्ज्ञानसंगतौ॥(427)  
+\*न तावत्प्रक्रियेहास्ति व्रीह्यादिप्रोक्षणे यथा ।  
+प्रकृतापूर्वसंबन्धलक्षणापरतः स्थितेः॥(428)  
+परोक्तमनुवदति --उक्तमिति । दूषयति--तन्नेति । स्वर्गकामादिवाक्यानां साध्यसाधनसंबन्ध विधिपरत्वादित्यर्थः। (424)देहादिव्यतिरिक्तस्य स्वर्गभोगयोग्यस्यासत्वे स्वर्गसाधनयागविधानायोगात् देहादिलये अवान्तरतात्पर्यकल्पना, इति शङ्कते--श्रुतेऽपीति । अनन्यथासिद्धकल्पकाभावेन दूषयति--तन्नेति ।(425)साक्षात् श्रूयमाणं श्रुतानुपपत्त्या न कल्प्यमित्यत्र द्दृष्टान्तमाह--साक्षादिति ।किं तत् प्रत्यक्षवचनम्, तदाह--अस्थूलेति । (426)  
+ पूर्वनिरस्तस्यैव ज्ञानस्य कर्माङ्गत्वमिति मतस्यानुवादः  
+ तत्राधिकदोषनिरुपणं च  
+सिंहावलोकितन्यायेन पुरस्तान्निरस्तमपि(म)तमधिक(ण)विवक्षया अनुभाषते
+--विपर्ययेणेति ।तत्त्वज्ञानस्य कर्मशेषत्वे(न मानं)वक्तुं शक्यमिति दूषयति
+---वाच्यमितित। (427)प्रकणं प्रमाणं कर्माङ्ग(त्वं)(त्वे)ज्ञानस्य, इत्यत्राह--नेति ।  
+व्रीहिशब्दस्य हि व्रीहिस्वरुपे हि निरर्थकम्।  
+प्रकृतापूर्वसंबन्धं बोधयेदिति युज्यते॥(429)  
+नापि वाक्येन संबन्धो जुहूपर्णमयीत्ववत् ॥(430)  
+जुह्वाद्दव्यभिचारित्वकर्मसंगतिकारणात् ।  
+विनापि प्रक्रियां तेन कर्मोपस्थापयेद्ध्रुपम्॥(431)  
+वाक्येनैवाभिसंबन्धस्तत्र तस्येति वर्णितम्।  
+आत्मज्ञानं तु नैवं स्यात् न तत्प्रकरणे श्रुतम्॥(432)  
+नापि चाव्यभिचारित्वमात्मनः कर्मणेक्ष्यते।  
+तेनास्य कर्मसंबन्धो न मानेनोपपद्दते ॥(433)  
+वैधर्म्यद्दृष्टान्तं स्फुटयति--प्रकृतेति । प्रकृतेनापूर्वेण कारणतया(संबन्धो)यस्यव्रीहिसमुदायस्य चतुरो मुष्टीर्निर्वपेत् इत्यत्र श्रुतस्य, व्रीहिसमुदायः प्रकृतापूर्वसंबन्धः । तल्लक्षणापरत्वेन--तद्गमकत्वेन, व्रीहीन्प्रोक्षतीत्यत्र व्रीहिशब्दस्य स्थितेरित्यर्थः ।(428)हेतुमाह--स्वरुपे हीति । व्रीहिमात्रे प्रोक्षणस्यानर्थक्यादशक्यत्वाच्चेत्यर्थः। निगमयति --प्रकृतापूर्वेति ।(429)  
+ तर्हि वाक्याद्विनियोगावगमः, अत्राह--नापीति । (430)द्दृष्टान्तं स्पष्टयति--जुह्वादीति । जुह्वादि कर्मोपस्थापयेत्, तेन--जुह्वादिद्वारेण, पर्णतादि कर्मणि प्रविशेदित्यर्थः।(431)शेषलक्षणे स्थितमेतत्, इत्याह--वाक्येनेति । दार्ष्टान्तिकवैधर्म्यमाह--आत्मेति ।(432)तदेव विवृणोति---नापीति ।  
+\*एवं चाज्ञातपारार्थ्ये नार्थवादः फलश्रुतिः ।  
+पृथगेवाधिकारोऽतो यथोक्तज्ञानकर्मणोः ॥(434)  
+अर्थाक्षेपोऽपि योग्यस्य कर्तुर्भोक्तुश्च युज्यते ।  
+न तु विध्वस्तुभेदस्य स्यादौपनिषदस्य सः ॥(435)  
+प्रत्यक्षवेदवचनप्रमाण्याद्दाश्रयत्वतः ।  
+आदौ संन्याससंसिद्धेः ऋणानीति ह्यपस्मृतिः ॥(436)  
+न च केवलकर्मभ्यो मुक्तिर्युक्तयोपपद्दते ।  
+तथा च वक्ष्यते स्पष्टमतो मुक्तिर्न कर्मतः ॥(437)  
+(433) ज्ञानस्याकर्माङ्गत्वे फलितमाह--(नचेति )(एवं चेति )। (434)आत्मज्ञानं विना आमुष्मिकफलसाधनानुष्ठानानुपपत्त्या ज्ञानस्य कर्मशेषत्वम्, अत्राह--अर्थेति । कर्त्राद्दात्मज्ञानं कर्माङ्गं, नाशनायाद्दतीतात्मज्ञानम्, अनुपयोगाद्विराधाच्चेत्यर्थः।(435)  
+ ऋणानि त्रीण्यपाकृत्य मनो मोक्षे निवेशयेत्।  
+ अनपाकृत्य, मोक्षं तु सेवमानो व्रजत्यधः ॥'(मनु. 6-35)  
+इति स्मरणात् ऋणापाकरणद्वारेण कर्मणां ज्ञानशेषत्वम्, अत्राह--प्रत्यक्षेति ।'ब्रह्मचर्यादेव प्रव्रजेत्'(जा.4-1)इत्यादिश्रुतिविरोधात् स्मृतिरप्रमाणमिति अविरक्तविषया कल्पनीयेत्यर्थः ।(436)कर्मणां मुक्तिकराणत्वात् ज्ञानशेषत्वचिन्ता न युक्ता, इत्यत्राह--न चेति । चतुर्विधक्रियाफलविलक्षणत्वात् भुज्युविचारादौ निराकरिष्यमाणत्वाच्चेत्यर्थः ।(437)  
+न चैकात्म्यपरिज्ञानमभ्यासापेक्षमिष्यते ।  
+मुक्तये भावनार्थं वा तथा चोर्ध्वं प्रवक्ष्यते ॥(438)  
+\*स्वतोऽनुभवतः सिद्धेरैकात्म्याख्यस्य वस्तुनः ।  
+न स्यात्सांपादिकं ज्ञानमित्येतच्चापि वक्ष्यते ॥(439)  
+अन्य आहुः पदार्थत्वात्प्रमाणान्तरगम्यताम् ।  
+आत्मनो नागमात्सिद्धिः व्रीह्याद्दन्यपदार्थवत् ॥(440)  
+ज्ञानाभ्यासो विधीयमानो मोक्षहेतुः, ज्ञानं पुस्तदर्थम्, इत्यत्राह--न चेति । ज्ञानस्याभ्यासापेक्षत्वमभ्यासशेषत्वं च प्रतिवक्ष्यते इत्यर्थः ।(439)  
+ विधीयमानस्य वासनानिरोधस्य मनोनिरोधस्य वा शेषत्वं कर्म  
+ विधीनां वेदान्तानां चेति मतनिरुपणम्  
+जाग्रदादिवासनानिरोधः मनोनिरोधो वा वेदान्तेषु विधीयते । अतो वेदान्तानां कर्मविधीनां च तच्छेषत्वात् काण्डयोः संगतिरिति मतान्तरमाह--अन्य इति । आत्मा आगमादिरिक्तमागम्यः, सिद्धवस्तुत्वात् घटवदित्यर्थः । किमतः!अत्राह--नागमादिति । व्रीह्यदेः प्रत्यक्षादिसिद्धत्वेनाविधेयत्वात् यथा कर्तव्यतापरं व्रीहिभिर्यजेतेत्यादि वाक्यम्, तथा वेदान्तवाक्यमपि । इतरथा अनुवादापातादित्यर्थः। (440)  
+अन्वयव्यतिरेकाभ्यां जाग्रत्स्वप्नसुषुप्तितः ।  
+विविच्यातः स्वमात्मानं प्रत्यभिज्ञानतस्तथा ।  
+माव्यापारसमाप्तत्वान्न भूयस्तदपेक्षिता ॥(441)  
+\*तद्वासनानिरोधेऽतः पुमाञ्श्रुत्या नियुज्यते ॥(442)  
+मनसो वा निरोधेऽसौ न तु वस्त्ववबोधने ।  
+मानान्तरेण तत्सिद्धेः नात्र व्याप्रियते वचः ॥(443)  
+स्वयंज्योतिः स्वभावत्वान्निरुद्धस्वान्तवासनः।  
+प्रमान्तरानपेक्षोऽपि स्वयमात्मा प्रकाशते ॥(444)  
+रुपादिरहितस्य इन्द्रिया(दि)विषयत्वे संबन्धाग्रहादनुमानाप्रवृत्तौ कथं मान्तरगोचरत्वम्, अत्राह--अन्वयेति । अवस्थात्रयसाक्षित्वेनात्मस्फुरणात्, अवस्थात्रयस्य व्यभिचारादात्मस्वरुपत्वतद्धर्मतयोरयोगात्, योऽहं पूर्वेद्दुः सोऽहमिदानीमिति प्रत्यभिज्ञानाच्चात्मानं विविच्यावस्थितस्य पुनर्मानापेक्षा वेदान्तापेक्षा वा न स्यादित्यर्थः। (441) तर्हि तवापि कथं वेदान्तप्रामाण्यम्, अपूर्वार्थाभावात्, अत्राह--तद्वासनेति । (442)हेतुमाह--मानान्तरेणेति ।(443)  
+ मानान्तरगम्यत्वे अनात्मत्वम् औपनिषदत्वविरोधश्च, अत्राह--स्वयमिति । वासनासु निरुद्धासु स्वयमेवात्मा सिद्धयति , स्व(प्र)काशत्वादित्यर्थः। (444)वेदान्ताः स्वार्थपराः, मानत्वादक्षवत्, अत्राह--एवमिति । लौकिकमानत्वमुपाधिरित्यर्थः । न विधिवाक्ये साध्याव्याप्तिः, वेदान्तेततरत्वस्य लौकिकत्वेन वि(विक्ष)(वक्षि)तत्वादिति द्रष्टव्यम् । (445)'तरति शोकमात्मवित'(छा.7-1-3)इति ज्ञानस्य मोक्षसाधनत्वश्रुतेः, कथं निरोधो मोक्षहेतुर्विधीयते, अत्राह--वासनेति।  
+एवं कार्यमुखेनैव ज्योतिष्टोमादिवाक्यवत्।  
+वेदान्तानां प्रमाणत्वं नाक्षवद्वस्तुनीष्यते ॥(445)  
+वासनामात्रहेतुत्वादात्मनोऽनर्थसंगतेः ।  
+अन्योपाये सत्यसति निरोधादेव मुक्तता ॥(446)  
+संभाव्यं नानपेक्षत्वं नियोगविरहात् क्वचित् ।  
+शब्दप्रवृत्तेः सिद्धे च न नियोगस्य संभवः ॥(447)  
+न च वस्तुनि मानत्वे उदाहरणमिष्यते ।  
+विधिर्गुणार्थस्तस्यापि व्यापारविषयत्वतः ॥(448)  
+किं चानुभूयमानस्य ह्यर्थस्य पुरुषार्थता ।  
+सर्वत्र गम्यते वेदे नानुभूतेः कथंचन ॥(449)  
+विदुषोऽपि संसारदर्शनात् नासावज्ञानकृतः, वासनामात्रकृत एवेत्यर्थः ।(446)यत् येन ्प्रमीयते तत् तस्य प्रमेयं, प्रमीयते चात्मा वेदान्तैः, अत्राह--संभाव्यमिति ।शब्दप्रयोगस्य अनपेक्षं प्रामाण्यं नियोगाधीनमित्यर्थः। तत्त्वमादिवाक्यस्य मुखायर्थलाभार्थमात्मनि नियोगः स्यात्, अत्राह--सिद्धे चेति ।क्रियाविषयत्वादित्यर्थः।(447)'दध्नेन्द्रियकामस्य जुहूयात्'इत्यादिगुणविधीनां सिद्धवस्तुविषयत्वं द्दृष्टम्, इत्याशङ्कयाह-- न चेति । हेतुमाह---तस्येति। भावार्थाधिकरणे सिद्धं गुणविधीनामपि गुणानुरक्तभावार्थविषयत्वम्। अतो न सिद्धपरत्वमित्यर्थः।(448)स्वयंप्रकाशात्मप्रतिपादने प्रयोजनाभावाच्च न तत्र प्रामाण्यम्, इत्याह--किंचेति । अनुभूतगोचरस्य मोदकादेरेव पुमर्थत्वं नानुभूत(त)(ते)रित्यर्थः।(449)  
+ततश्च प्रतिभामात्रं शब्दादिति न मानतः ।  
+प्रतीयमान एवातः पुरुषार्थः प्रसिद्धितः ॥(450)  
+\*अप्युपादीयमानं च सिद्धं वस्तु न कर्मणि ।  
+पुमर्थं साधयद्द्दष्टमनिर्ज्ञाताङ्गभावकम् ॥(451)  
+अनुपादीयमानश्च नन्वज्ञाताङ्गभावकः।  
+आत्मा चेन्नास्य शेषत्वं विधिं प्रत्युपपद्दते ॥(452)  
+तर्हि'विज्ञानमानन्दं ब्रह्म'(वृ.5-9-7)इति विज्ञानस्य पुमर्थत्वद्दोतकवाक्यानां का गतिः, इत्यत्राह--ततश्चेति । प्रकृतमुपसंहरति
+--प्रतीयमान इति । (450)अनुभूयमानतया पुमर्थनियोगस्याङ्गत्वेनानुभूतेः पुमर्थत्वम्, अत्राह--अपीति । सिद्धं वस्तु वेदात् उपादीयमानमपि
+--अवगम्यमानमपि, पुमर्थं न साधयति । कर्मणि अनिर्ज्ञाताङ्गभावकं
+--श्रु(त्वा)(त्या)दिना कर्मशेषत्वेनानवगतमित्यर्थः । यद्वा, अग्निहोत्रकर्मणि अनुष्ठीयमानमपि दधि तद्वारा न पुरुषार्थं साधयति, तदङ्गत्वेनाज्ञातत्वादित्यर्थः।(451)उपादीयमानमङ्गं च पुमर्थसाधनमिति अर्थादुक्तम्। तदुक्तम्, अङ्गस्यानुपादेयत्वेऽपि पुमर्थसाधनत्वात्, अत्राह--अनुपादीयमानं चेति । ज्ञाताङ्गभावकमपि चमसादि न पुमर्थसाधनम्। यदा गोदोहनादिना प्रणयनं, तदा चमस्यानुपादीयमानत्वात् । अत उभयमप्यपेक्षितमिति चकारार्थः। ननु प्रसिद्धौ ।  
+उपासीत स्वमात्मानमिति साक्षाद्वचः श्रवात् ।  
+तत्राङ्गभाव इति चेन्मत्पन्थानं भवानितः ॥(453)  
+क्रियाविधिपरत्वेन प्रामाण्यं वचसः स्थितम् ।  
+इति व्याचक्षते केचिन्नियोगार्थैकरागिणः ॥(454)  
+नैतत्साध्वभ्यधाय्युच्चैर्नियोगविरहादपि ।  
+कामितार्थस्य संसिद्धेर्लौकिकादेव मानतः ॥(455)  
+तद्भावभावतो लिङ्गात् वासनैकसमाश्रयात् ।  
+ज्ञातोऽनर्थेन संबन्ध आत्मनो न तु वास्तवः ॥(456)  
+आत्मनोऽनवगताङ्गत्वादनुपादीयमानत्वाच्च नियोगाङ्गत्वेनापि न पुमर्थसाधन(मव)त्वमिति । (452)आत्मनः कर्माङ्गत्वे वाक्यं प्रमाणम्,इत्याह--उपासीतेति । नियोगवादी निरोकरोति--मदिति । इतः
+---प्रापतः।(453)तमेव पन्थानं प्रथयति --क्रियेति । नियोगानुरागितयैव सिद्धस्य वेदप्रमेयत्वं न शुद्धस्येत्यर्थः । पूर्वपक्षमुपसंहरति ---इति व्याचक्षते इति ।(454)  
+ निरोधनियोगवादिमतदूषणम्  
+दूषयति--नैतदिति। निरोधस्य मुक्तिसाधनत्वे वाञ्छितकैवल्यस्य मानान्तरा(त्)सिद्धेः विधिरनर्थक इत्यर्थः ।(455)मानान्तरतः सिद्धिं दर्शयति --तदिति। सत्यां वासनायां जाग्रदवस्थायामनर्थदर्शनात् असत्यां स्वापे अदर्शनात्, तद्भावभावित्वलिङ्गात् वासनाकृतत्वं संसारस्यावगतमित्यर्थः । (456)तथापि कथं वाक्यानर्थक्यम्, अत्राह--तस्मादिति। निरोधवादिना संसारस्यान्वयादिना वासनाकृत्वं वाच्यम्।  
+तस्मात्संसारसंबन्धनिदानस्य प्रसिद्धितः ।  
+लिङ्गादेव ततस्तस्य ध्वंसेऽनर्थो निवर्तते ॥(457)  
+अन्तरेणापि वचनं बौद्धदेरिव सिद्धितः ।  
+मोक्षस्य पुरुषार्थस्य वचोऽतो निष्फलं भवेत्॥(458)  
+\*अतीतानेकजन्मोत्थवासनानामनन्ततः ।  
+तासां निरोधोऽसंभाव्यो जन्मन्येकत्र मानवैः ॥(459)  
+\*साक्षादात्मावबोधेन प्रत्यग्ध्वान्तच्छिदा न चेत् ।  
+दुःखादिभावनाध्यवस्ता कथं तद्भावना नुदेत् ॥(460)  
+अतश्च तन्निवर्तकनिरोधस्यापि लोकत एव सिद्धिरित्यर्थः।(457)लिङ्गादेवेत्येवकारव्यवच्छेद्दमाह--अन्तरेणेति । बौद्धराद्धान्तवत् वेदवचसामप्रमाण्यं स्यादित्यर्थः ।(458)अशक्यत्वाच्च वासनानिरोधो न विधेयः,इत्याह--अतीतेति । (459)अनन्तानामपि वासनानां ज्ञानभ्यासान्निरोधसिद्धिः, अत्राह--साक्षादिति ।(460)निरोधादेरप्रयोजकत्वेऽपि वेदावगतनियोगबलात् कैवल्यं स्यात्, अत्राह--नियोगेति \>  
+नियोगवर्त्मना चेयं यथा मुक्तिर्न सिद्धयति ।  
+स्पष्टेन न्यायमार्गेण वक्ष्यामोऽवसरे तथा ॥(461)  
+न पदार्थो न वाक्यार्थ आत्मायं वस्तुतो यतः ।  
+\*तत्प्रत्याख्यानश्रुत्यैव तद्दाथात्म्यावबोधनात् ॥(462)  
+वासनानामभावेऽपि सुषुप्त्यादौ न मुक्तता ।  
+मानव्यापारविरहात् प्रथनं वा द्दृगात्मनः ॥(463)  
+'अन्योऽप्यनुभवोपायः'(वा.761)इत्यारभ्येत्यर्थः ।(461)  
+ पदार्थत्वात् मानान्तरगम्यत्वानुमाने हेत्वसिद्धिमाह--न पदार्थ इति । तर्हि औपनिषदत्वं न स्यात्, अत्राह--तदिति । तस्य --विषयत्वादेः यत् प्रत्याख्यानं 'नेति नेति '(बृ.4-3-6)'यतो वाचो निवर्तन्ते '(तै.2-9)इति (श्रुतिः तया)लक्षणावृत्त्या यज्जनितं ज्ञानं, तद्वयङ्गय्त्वादौपनिषदत्वमित्यर्थः। (462)वासनानिरोधादात्मनः कैवल्यं प्रथ(म)नं चेति यदुक्तं, तदुभयमपि स्वापे व्यभिचरति, इत्याह--वासनानामिति । (463)वासनामात्रं मूलं संसारस्योक्तमपिन युक्तम, इत्याह--सर्वेति । कार्यस्य समवायिकारणत्व मनन्वयादनवस्थानाच्चानुपपन्नम्।  
+सर्वानर्थाभिसंबन्धे ह्यविद्दैवास्य कारणम् ।  
+वासनानामपि युतौ सैव यस्मादपेक्ष्यते ॥(464)  
+संभाव्यतेऽनपेक्षत्वं नियोगविरहादपि ।  
+यथा, तथा च वक्ष्यामः स्पष्टेन न्यायवर्त्मना ॥(465)  
+स्वानुभूतिबलादेव भवतापि विभाव्यते ।  
+नियोगादिः प्रमाणार्थो नानुभूतिर्नियोगतः ॥(466)  
+यस्याप्रसिद्धिर्नाज्ञानात् प्रसिद्धिर्नापि मानतः।  
+तस्यानुभवतत्त्वस्य कुतः सापेक्षतोच्यते ॥(467)  
+\*स्वप्रधानात्मबुद्धयैव तदन्यस्य प्रसिद्धितः ।  
+कार्यबुद्धिव्यपेक्षाऽतो नानुभूत्यात्मवस्तुनः॥(468)  
+वस्थानाच्चानुपपन्नम्। अतोऽविद्दैव सवासनस्य संसार(स्येति )(स्योपा)दानमित्यर्थः।(464)नियोगानुप्रवेशं विना शबदस्य निरपेक्षत्वं न संभवतीत्युक्तं दूषयति--संभाव्यत इति । (465)'सिद्धे च न नियोगस्य संभवः'(वा.447)इत्येतत् प्रत्याह--स्वानुभूतीति । नियोगादेर्जडस्य सिद्धावनुभवोऽपेक्ष्यते, अनुभवसिद्धौ न नियोगः इत्यर्थः । (466)आत्मनः प्रत्यक्षाद्दविषयत्वात् आगमस्य कार्यपरत्वात् विना नियोगसंसर्गं न सिद्धिः, अत्राह--यस्येति । ज्ञानाज्ञानयोरपि साधकत्वादित्यर्थः ।(467)उक्तमुपसंहरति--स्वप्रधानेति ।(468)  
+ अनुभूयमानस्यैव पुमर्थत्वं नानुभूतेरिति युक्तम्, तत्राह--क्वेति । अनुभाव्यस्य पुमर्थत्वं वदता अनुभवविशिष्टस्य पुमर्थत्वमुक्तम्। अतो लाघवात् उभयसिद्धत्वाच्च अनुभूवतिरेव पुमर्थ इत्याशयः। (469)अनुभवस्यापि अनुभाव्यनिष्ठस्यानुभाव्यत्वात् अनुभाव्यस्यैव पुमर्थत्वम्, अत्राह--प्रतीतेरिति।  
+\*क्व नु प्रतीयमानस्य पुमर्थत्वं समीक्षितम् ।  
+मानान्मानफलस्यैव पुमर्थत्वसमन्वयात् ॥(469)  
+प्रतीतेर्माफलत्वाच्च कथं मेयैकनिष्ठता ।  
+माक्रियाफलयोगोऽयं यतो मातरि भोक्तरि ॥(470)  
+नचात्मानुभवादन्यो विषयः कश्चिदिष्यते ।  
+अपि सर्वप्रमाणानां किमु वेदान्तशासने॥(471)  
+\*लौकिको वैदिकः सर्वो व्यवहारो जगत्यपि ।  
+भोक्त्रर्थ एव नान्योऽतः प्रधानं भोक्तुरिष्यते ॥(472)  
+न वा अरे पत्युरिति तदेतत्प्रेय इत्यपि ।  
+निखिलोऽपि जगत्यस्मिन् प्रधानं नात्मनोऽपरः ॥(473)  
+जडस्यार्थस्य प्रमाणफलाश्रयत्वायोगादात्मनिष्ठ एवानुभवः इत्यर्थः। (470)वेदान्तानामात्मनि प्रामाण्यं न संभवतीति यदुक्तम्, तत्राह--न चेति । अनुभवस्यै(व)(वा)ज्ञातत्वसंभवात् सर्वप्रमा(णा)(ण)गोचरत्वमित्यर्थः। (471)अनुभवस्य पुमर्थत्वे युक्तयन्तरमाह--लौकिक इति । यदर्थं सर्वमुपादीयते, यच्च नान्यार्थं तत्सुखमिति लक्षणमात्मनि परिपूर्णमित्यर्थः ।(472)निरुपाधिप्रेमगोचरत्वादपि आत्मनः सुखरुपत्वं साधयितुं परप्रेमगोचरत्वे श्रुतिमुदाहरति --न वा इति । 'न वा अरे पत्युः कामाय पतिः प्रियो भवति आत्मनस्तु कामाय पतिः प्रियो भवति'(वृ.4-4-5)'तदेतत् प्रेयः पुत्रात् '(वृ.3-4-8)इति श्रुतिः । (473)ननु प्रमात्रादौ प्रधाने,  
+न प्रमाता प्रमाणं वा क्रियामेयफलानि वा ।  
+प्राधान्यायेह कल्पन्ते भोक्तुरेव प्रधानतः ॥(474)  
+आत्मनः कर्त्रवस्थापि भोक्त्रर्थमिति निश्चयः ।  
+\*यतोऽतोऽपरमप्येतत् भोक्त्रर्थं विनियुज्यते ॥(475)  
+नापि चात्मातिरेकेण वस्त्वन्यन्मानभूमिगम् ।  
+संभाव्यते,यथा चैतत्तर्थोदर्के प्रवक्ष्यते ॥(476)  
+अनाद्दृत्य यथोक्तार्थं नियोगार्थैकरागतः।  
+केचित् कार्यैकनिष्ठत्वं वेदान्तानां प्रचक्षते ॥(477)  
+कथमात्मप्रधान्यम्, अत्राह--नेति ।(474)कर्त्रवस्था क्रियाश्रयत्वात् (प्रा)(प्र)धानं,तत्कथं भोक्तुरेव प्राधान्यम्, अत्राह--आत्मन इति । (475)आत्मातिरेमेण प्रत्यक्षादेः प्रमाणत्वं नास्तीत्युक्तमयुक्तम्, शब्दादेस्तद्विषयत्वात् , अत्राह--नापीति । उदर्के --उपरिष्टात्
+--अव्याकृतविरादावित्यर्थः ।  
+ 'सर्वोऽप्ययं वेदः'इत्यादिभाष्येण निरसनीयस्य वेदान्तानां कार्यैकनिष्ठत्वमिति नियोगवादिमीमांसकमतस्य निरुपणम् ।  
+'तस्यास्य कर्मकाण्डेन संबन्धः'इति व्याख्यातम् ।इदानीं 'सर्वोऽप्ययं वेदः'इत्यादिभाष्यं व्याचिख्यासुः तन्निरस्यमतमाह--अनाद्दृत्येति । साधनाधिकारिभेदं यथोक्तसंबन्धं ऐकात्म्यञ्चाप्रमाणीकृत्येत्यर्थः ।(477)तत्त्वादिवाक्यसिद्धैकात्म्यमादरणीयम्, अत्राह--कार्येति । कार्यवत् सिद्धेऽपि प्रामाण्यं स्यात्, अत्राह---मात्रेति । उभयपरत्वे वाक्यभेदात्, एकपरत्वे कार्यपरत्वं प्रमाणवाक्यत्वादित्यर्थः।(478)प्रमेयपरिच्छेदकं प्रमाणम्,न कार्यपरिच्छेदकम् प्रत्यक्षादेरव्याप्तेः, अत्राह--नहीति ।  
+कार्यैकमात्रनिष्ठत्वात्प्रमाणस्यागमात्मनः ।  
+कुत ऐकात्म्यनिष्ठत्वं त्वया यदुदितं पुरा॥(478)  
+न हि तस्यानपेक्षत्वं सिद्धवस्त्ववबोधनात् ।  
+यतो मानान्तरमितं सिद्धं वस्त्विति भण्यते ॥(479)  
+शब्दसामर्थ्यनियमो लोकादेवावगम्यते ।  
+लोके मान्तरसिद्धोऽर्थः कार्यायैवाभिधीयते ॥(480)  
+न प्रवृत्तिनिवृत्तिभ्यां शून्यस्य वचसो यतः ।  
+\*कश्चिदर्थोऽत्र द्दृष्टोऽतो वस्तुनि स्यान्न मानता ॥(481)  
+मान्तरमितस्य सिद्धत्वात, तन्निष्ठस्य मानान्तरसंभवासंभवाभ्यां अनुवादत्वगुणत्वयोरन्यतरप्रसङ्गात् मानान्त(र)(रा)गोचरकार्यपरस्य प्रमाण्यमित्यर्थः।(479)शब्दशक्तेः कार्यान्वितगोचरत्वाच्च न सिद्धपरम्, इत्याह--शब्देति । अस्यामर्थः इति संगत्यवगतिप्रयोजकवृद्धव्यवहारेऽपि गवादिसिद्धपदार्थोऽवगम्यते, अत्राह--लोक इति । (480)सिद्धबोधे फलाभावाच्च कार्यपरं वचः न सिद्धपरम्, इत्याह--नेति । (481)प्रवर्तकवाक्यादिव (त्)पुत्रस्ते जातः इत्यादि सिद्धार्थवाक्यादि संगतिग्रहात् न कार्यमात्रपरत्वम्, अत्राह--सं(वोधे)(बन्धे)ति । तत्रापि कार्यसंसर्गो लक्ष्यते इत्यर्थः ।  
+संबन्धावगमो नापि शब्दाद्भूतार्थवाचिनः ।  
+प्रवर्तकात्प्रवृत्त्यर्थे प्रत्ययो ह्यनुमीयते ॥(482)  
+ततः शब्दस्य सामर्थ्यं प्रतीतेरवधार्यते ।  
+\*कार्यैकविषयैवेयं वाक्यस्यातः प्रमाणतः ॥(483)  
+क्रियाकारकसंबन्धो वाक्यार्थो यैरपीष्यते ॥  
+अनुवादविसंवादात्तेषामुक्तेरमानता ॥(484)  
+हेतुमाह---प्रवर्तकादिति । गामभ्याजेति वचनश्रवणानन्तरं तत्र चेष्टां द्दृष्टवा, इयं प्रवृत्तिः प्रवर्तकधीपूर्विका, स्वतन्त्रप्रवृत्तित्वात् मदीयप्रवृत्तिवत् इत्यनु(म)(मि)तधियः शब्दजत्वमन्वयादिना अवधार्य, प्रतिपदमावापोद्धाराभ्यां लिङादिपदं प्रवर्तकाभिधायि इतराणि तदन्वितस्वार्थाभिधायकानीत्यवगमात् कार्ये शक्तिग्रह इत्यर्थः ।फलितमाह--कार्येति । (482-483)क्रियाकारकसंबन्धो वाक्यप्रमेयः, न कार्यमात्रम्, अत्राह--क्रियेति । पचतीत्यादौ क्रियाकारकसंबन्धस्य मान्तरयोग्यत्वात् तत्सिद्धबोधकत्वे अनुवादकत्वम्। अन्यथा योग्यानुपलम्भविरोधात् मिथ्याबोधकत्वम्। अतो नियोगे प्रामाण्यं वाक्यस्येत्यर्थः। (484)नियोगेऽप्येतत्समानम्, अत्राह---मान्तरेति । बालकानुमानस्यापि न कार्यविषयत्वं शब्दार्थत्वेनैवानुयीमानत्वादित्यर्थः । तर्हि तदसिद्धिरेव स्यात् साधकाभावात्, अत्राह--शब्दादिति । लिङदिपदात् प्रवर्तककार्यावगतेः तत्र प्रमाण्यमित्यर्थः। (485)'चोदनेति क्रियायाः प्रवर्तकं वचनमाहुः'इति भाष्यकारवचनात् लिङादेरेव प्रवर्तकत्वम्, अत्राह--प्रवर्तनामिति । वाच्यवाचकयोरभेदोचारेण प्रेरयन् शब्दः प्रवर्तक इत्युक्तो भाष्यकारेणेत्यर्थः । हेतुमाह--ज्ञापकत्वादिति ।(486)  
+ प्रवर्तको नियोगः कार्यापराभिधानः लिङाद्दर्थः न रागादिरिति निरुपणम्  
+प्रवर्तकवाचकत्वेनैव शब्दस्य प्रवर्तकत्वेऽपि, रागादि(ः)प्रवर्तको न नियोगः, तत्राह--शब्दादिति । हेतुमाह--रागादिरिति । इष्टसाधनमादिपदार्थः । शब्दात्प्रतिपन्नस्य प्रर्तकस्य जनको हागादिरित्यर्थः । तर्हि शब्देवैयर्थ्यम्, अन्येनैव  
+मान्तरानुप्रवेशित्वं कार्यस्य तु न शक्यते ।\*  
+शब्दादेव हि कार्यार्थप्रतिपत्तिर्न लोकतः ॥(485)  
+प्रवर्तनां वदन् शब्दः प्रवर्तक इतीर्यते ।  
+ज्ञापकत्वात्प्रमाणस्य प्रेरयन् कारको भवेत् ॥(486)  
+शब्दात्प्रवर्तनाबुद्धौ रागादिर्न च शङ्कयते ।  
+रागादिः प्रेरणाकारी प्रेरणाज्ञापको ध्वनिः ॥(487)  
+तत्सिद्धेः, अत्राह--प्रेरणेति । ध्वनिः--शब्दः । प्रवर्तकबोधकइत्यर्थः। (487)व्यतिरेकभावाच्च न रागस्य प्रवर्तकत्वेन शब्दार्थत्वम्, इत्याह--आज्ञेति । आचार्यदिना नियुक्तस्य शिष्यादेः गवानयनादिनिष्पादने कृ(ते)(तिम)त्त्वस्य ---यत्नपूर्वकप्रवृत्तिमत्त्वस्य दर्शनात् , रागादेस्तत्राभावात् शब्दानन्तरप्रवृत्तिर्न रागातेरित्यर्थः। (488)  
+आज्ञापितार्थनिष्पत्तौ कृतिमत्त्वे क्षणात् प्रभोः ।  
+रागाद्दर्थस्य चासिद्धौ कर्तृवृर्त्तिर्न रागतः ॥(488)  
+\*स्वामिकोपप्रसादादिर्ह्यदयाकूतवेदनात् ।  
+नापि श्रोतुः प्रवृत्तिः स्यात् शब्दात्कोपाद्दवेदनात् ॥(489)  
+लिङादयो न कोपादेः स्मर्यन्ते प्रतिपादकाः।  
+मानान्तरमिताः सन्तस्ते हि पुंसां प्रवर्तकाः ॥(490)  
+उत्तमवृद्धकोपप्रसादहर्षशोकानामन्यतमो लिङाद्दर्थः प्रवर्तकः स्यात्, अत्राह--स्वामीति । न प्रवर्तकः इति शेषः । तर्हि तदीयमनोऽभिप्रायज्ञानात्प्रवृत्तिरिति , तत्राह--हृदयाकूतेति । कुतः, इत्यत आह--शब्दादिति । (489)तत्रापि हेतुमाह--लिङादय इति । रागादीनां प्रवर्तकत्वं प्रसिद्धम्, शब्दादनवगतौ कुतस्तेषामवगतिः, अत्राह--मानान्तरेति । (490)तदेव मानान्तरमाह--धिगिति । भर्त्सनार्थो धिक्शब्दः । अङ्गेति संबोधनम्। अनुमानसिद्धास्ते प्रवर्तका इत्यर्थः । (रो)(रा)गादेः प्रवर्तकत्वाभावे 'प्रेरणाकारी'(वा.487)इत्येतदप्ययुक्तं धात्वर्थसाध्यत्वान्नियोगस्य, अत्राह--रागादय इति ।  
+धिगङ्गाद्दभिधानैस्तु लिङ्गभूतैरिहेङ्गिताः ।  
+रागादयो नियोगस्य सिद्धयै विषयसाधनाः ॥(491)  
+अत एव च रागादिसंसृष्टोऽपि विविच्यते ।  
+लोडाद्दर्थो, व्रजेत्युक्तो याति स्वार्थं विना यतः ॥(492)  
+ननु दानादिसंबद्धमहावाक्यानुमानतः ।  
+गच्छेत्याद्देकदेशोक्तौ लोभादेव प्रवर्तते ॥(493)  
+धात्वर्थसाधकत्वेन नियोगसाधका इत्यर्थः।(491)लौकिकवाक्येषु रागादिसंसृष्टस्यैव नियोगस्यावगमात् नियोग एव प्रवर्तको न रागादिः इति कुतो विनिगमः, अत्राह--अत एवेति । अतशब्दार्थं स्पष्टयति ---लोडादीति । फलरागं विनापि कश्चित्प्रवर्तते । अतो यत्र शब्दानन्तरप्रवृत्तौ रागादिसंभावना, तत्रापि नियोगस्यैव प्रवर्तकत्वनिश्चय इत्यर्थः ।(492)  
+ परः परिचोदयति ---नन्विति । इतं वाक्यं श्रोतुः फलपर्यवसितं, आप्तवाक्यत्वात् आप्तवाक्यान्तरवदिति, व्रज ग्रामं तव द्रव्यं दासायमीत्येवं महावाक्यसंबन्धानुमानात्प्रवृत्तेः, स्वार्थं विना न क्वचित् प्रवृत्तिरित्यर्थः । (493)परिहरति--महावाक्येति । लोडादेः--लोडाद्दर्थनियोगादिति यावत् । महावाक्यानुमानेऽपि नियोगः प्रवर्तको, रागो वेति विचारे, नियोगादेव प्रवृत्तिर्निश्चीयते इत्यर्थः ।  
+\*महावाक्यानुमानेऽपि पदार्थप्रविवेचने।  
+पुंस्प्रवृत्तिस्तु द्दृष्टेयं लोडादेरेव नान्यतः ॥(494)  
+लोडादेरेव श्रवणात् यत्र रागाद्दसंभवः ।  
+बालः प्रवर्तते तत्र ज्ञायते प्रेरणार्थता ॥(495)  
+आह मानान्तरेणासौ किल नार्थोऽवगम्यते ।  
+शब्दाच्च ज्ञायतेऽज्ञातसंबन्धादिति चित्रता ॥(496)  
+यद्दनिर्ज्ञातसंबन्धोऽप्यर्थं शब्दः प्रबोधयेत् ।  
+को द्वेषोऽस्मासु भवतो येनोपालम्भ ईर्यते ॥(497)  
+यदावगम्यते नान्यत्प्रवृत्तैः कारणान्तरम्ष  
+शब्दश्च गम्यते स्पष्टः तदार्थः प्रविविच्यते ॥(498)  
+(494)एतत्स्पष्टयति --लोडादेरिति । यस्मिन्विषये दण्डादौ न बालस्य रागः संभवति, तदानयेत्युक्ते बालः प्रवर्तते , तत्र प्रेरणार्थता ज्ञायते--प्रवर्तकनियोगार्थता लिङादीनां गम्यते इत्यर्थः ।(495)  
+ मानान्तरेणानवगतस्य नियोगस्य लिङर्थत्वाक्षेपः तत्परिहारश्च  
+'मान्तरानुप्रवेशित्वं नियोगस्य न शक्यते '(वा.485)इत्युक्तम् । तत्र चोदयति--आहेति । अज्ञातसंबन्धाच्छब्दात् नियोगो गम्य इ(त्यु)(त्ययु)क्तमित्यर्थः । (496)अज्ञातसंबन्धस्य लिङादेः बोधकत्वे ब्रह्मादिपदस्यापि बोधकत्वमस्तु विशेषाभावात्, इत्याह--यदीति । ब्रह्मादिपदस्य संगतिग्रहणार्थं मानान्तरमेष्टव्यम्। एवञ्च वेदान्तानामनुवादकत्वम् इत्युपालम्भो न युक्त इत्यर्थः ।(497)  
+ परिहरति --यदेति । प्रवृत्तेः कारणान्तरं --शब्दानन्तरभाविप्रकृत्तेः कारणावेदकप्रमाणम्। शब्दश्च प्रवृत्तिहेतुगमको गम्यते । अर्थः --नियोगः प्रमाणान्तरागोचरः नामपदार्थेभ्यो विविच्य इत्यर्थः ।(498)  
+अन्वयव्यतिरेकौ तु वाक्यार्थज्ञानपूर्वकौ ।  
+\*वाक्यार्थश्च तदायत्तो नेत्यन्येभ्यो विशिष्टता ॥(499)  
+कर्तव्यता विवक्षैव नृवाक्येभ्योऽपि गम्यते ।  
+विवक्षाया न कार्यत्वं शब्दार्थविषया हि सा ॥(500)  
+लिङादिपदस्य गृहीतसंगतिकस्य बोधकत्वे नियोगस्य मान्तरगोचरत्वम्, इतरथा पदधर्मव्यतिक्रमः, अत्राह--अन्वयेति । अन्वयव्यतिरेकौ
+--व्याप्तलिङ्गजमनुमानम् । वाक्यार्थः--नियोगः। इयं प्रवृत्तिः प्रवृत्त्यभावविरोधिधीपूर्विका, स्वतन्त्रप्रवृत्तित्वात् मदीयप्रवृत्तिवत् इति मध्यमवृद्धस्य शाब्दं प्रत्ययमनुमाय मध्यमवृद्धेन शब्दावगते नियोगे बालेन संगतिग्रहात् न नियोगस्य मान्तरगोचरत्वमित्यर्थः ।अनुमाय शक्तिग्रहे नियोगस्य कथं मानान्तरायोग्यत्वम्, अत्राह--वाक्यार्थश्चेति । चन्द्रादिबिम्बोपरक्तस्यैव राहोरक्षगोचरत्ववत् नियोगस्य आज्ञाध्येषणाद्दुपाधिकस्यैव मान्तरगोचत्वं न स्वरुपेणेत्यर्थः। (499)विवक्षाकार्यतया शब्दानां तदनुमापकत्वात् (तस्यै)(सै) व प्रत्ययार्थो न नियोगः, अत्राह--कर्तव्यतेति । कर्तव्यतैव विवक्षा, नेत्याह--विवक्षाया इति । कुत एतत्, अत्राह--शब्देति । विवक्षामात्रगमकत्वे विशिष्टव्यवहारायोगात् अर्थविशेषितविवक्षागमकत्वे अर्थस्यैव लाघवात् शब्दार्थत्वमित्यर्थः । (500)वक्तुर्विवक्षितपूर्विका शब्दप्रवृत्तिः इति (ज्ञा)(न्या)यात् प्रवृत्तिनिमित्तविवक्षायाः प्रथमावगम्यत्वात् शब्दार्थत्वम्त, अत्राह--तदिति । अन्यथा मेरुं विवक्षन् सागरं ब्रूयादित्यर्थः । विवक्षायाः प्रथमावगम्यत्वमसिद्धम्,इत्याह--स हीति ।  
+\*तद्वशान्न तु शब्दार्थः स हि पूर्वं प्रतीयते ।  
+अतः प्रैषादिसंसृष्टोऽप्यर्थः सिद्धो विवेकतः ॥(501)  
+शब्दार्थोपाधयो ह्येते पुरुषाशयपातिनः ।  
+प्रैषादयो न शब्दार्था न चानेकार्थता मता ॥(502)  
+उपसंहरति --अत इति । विवक्षा(या)दिसंसृष्टोऽपि नियोगो विवक्षादेरन्यः सिद्ध इत्यर्थः ।(501)  
+ शब्दान्वयादिमत्त्वेऽपि अशब्दार्थत्वमयुक्तम्, कार्यस्यापि तथात्वप्रसक्तेः, अत्राह--शब्देति । नियोगोपाधित्वेन प्रैषादीनां लौकिकलिङादिशब्दान्वयव्यतिरेकत्त्वं, न तदर्थतयेत्यर्थः । प्रैषादेर्नियोगस्य च शब्दार्थत्वमविशेषात्, अत्राह--न चेति । (5-2)अपौरुषेये वेदे प्रैषाद्दर्थत्वशङ्कया अप्यनुपपत्तेः नियोग एव लिङाद्दर्थः, इत्याह--अभिप्रायेति ।  
+अभिप्रायवतोऽभावादभिप्रायानुपातिनः ।  
+शङ्कयतेऽपि न वेदे तु, कार्यं वाच्यमिति स्थितम् ॥(503)  
+प्रयोगविधिशेषत्वात् तन्मूला एव नाशयात् ।  
+वेदे प्रैषास्तु ये द्दृष्टा अग्नीदग्नीनितीद्दृशाः ॥(504)  
+प्रैषादिभ्यो यथैवेयं भिन्ना कर्तव्यतेक्ष्यते ।  
+शब्दशक्तिवशात् तद्वत् क्रियादेरपि वीक्ष्यताम् ॥(505)  
+\*नानिष्पन्नस्वभावोऽपि भावः कर्तव्यता यतः ।  
+ल़डादिश्रवणात् तस्या अप्रतीतिर्लिङादिवत् ॥(506)  
+ननु कालोपबन्धोऽत्र कार्यबुद्धिविघातकृत्।  
+नैतत्संदेह एवात्र विवेकाभावतस्तव ॥(507)  
+(503)अभिप्रायवतोऽभावादित्यसिद्धो हेतुः । वेदेऽपि, अग्नीदग्नीन्विहर, बर्हिस्तृणीह, पुराडाशानलंकुरु, प्रस्तोतः सामानि गाय, निष्क्रामत वृषलाः, होतरेहि इत्यादिप्रैषोपलब्धेः, अत्राह--प्रयोगेति, साङ्गे प्रधाने कर्मणि प्रवर्तको नियोगः प्रयोगविधिः। तच्छेषत्वात् तत्प्रयुक्ततंव मन्त्रवत् । तेन नियोगव्यापारा एव ते इत्यर्थः ।(504) लिङादिवाच्यं कार्यं क्रियादिविलक्षणमिति निरुपणम्  
+प्रैषादेर(का)(तद)र्थत्वेऽपि, क्रिया वा फलसाधनता वा कर्यव्यतास्तु, लोके तथा प्रसिद्धत्वात्, अत्राह--प्रैषादिभ्य इति । (505)क्रियानियोगयोः साध्यत्वसाम्यात् क्रियैव नियोगः, नान्यो मानाभावात्,अत्राह--नेति । पचतीत्यत्र क्रियाप्रतीतावपि कर्तव्यता या अप्रतीतेर्न क्रियैव सेत्यर्थः।(506)पचतीत्यत्र लडर्थस्य भावार्थविशेषणत्वेनानुरागात् कर्तव्यताधीर्न भवति, इति चोदयति --नन्विति । दूषयति--नेति ।(507)  
+कालोपबन्धः किन्त्वत्र कार्यबुद्धिविघाकृत् ।  
+किं भावात्कार्यता भिन्ना लडादिर्यां न भाषते ॥(508)  
+कर्तव्यः कट इत्यादावव्यापारेऽपि कार्यता ।  
+वीक्ष्यतेऽतः पृथग्भावात् फलाच्च प्राक् प्रतीतितः ॥(509)  
+ननु कर्मणि कृत्योऽयं तयोरेवेति शासनात् ।  
+मैवं प्रैषादिवद्दस्मादुपाधित्वादवाच्यता ॥(510)  
+विवेकाभावमुपपादयति--कालेति ।(5-8)सेदेहेऽपि क्रियातिरिक्तो नियोगो न सिद्धयेत्, अत्राह--कर्तव्य इति । ग्रामो गन्तव्य इत्यादौ व्यापारविलक्षणोऽपि ग्रामादौ प्रत्ययसामर्थ्यात् कर्तव्यताप्रतीतेः क्रिया(तो)(कार्यता) नैवेत्यर्थः ।क्रियायाः कार्यत्वाभावेऽपि तत्फलमेव कार्यम्, तत्रापि कार्यताप्रतीतेः, अत्राह--फलाच्चेति । व्रज ग्राममित्यादौ फलप्रतीतेः प्रागेव कर्तव्यताप्रतीतेः फलाच्च पृथगित्यर्थः। (509)कर्तव्यः कटः इत्यादौ व्यापाराभावेऽपि नियोगावगम(यु)(मु)क्तमाक्षिपति --नन्विति । 'तयोरेव कृत्यक्तखलर्थाः(पा.सू.3-4-7)इति भावकर्मणोरेव कृत्यानां विधानात् भावासंभवे कर्मण्येवायं प्रत्यय इत्यर्थः । भावकर्मणोरपि प्रैषादिवत् कार्यप्रतीत्युपाधि(भ)त्वमेव नतु कृत्यप्रत्ययार्थत्वम्, इति परिहरति
+---मैवमिति । (510)भावकर्मणोरेवेति नियममङ्गीकत्योक्तम्।  
+प्रैषादिष्वपि कृत्यानां तथा च स्मरणं मुनेः ।  
+कृत्यानां युक्तितोऽपि स्यात् नैव कर्माभिधायिता ॥(511)  
+यथा कटं करोतीति कर्ममात्रावबोधनम्।  
+कर्तव्यः कट इत्यत्र तथैव स्यान्न चेक्ष्यते ॥(512)  
+कर्तव्यत्वादभीष्टत्वसिद्धौ कर्मार्थलाभतः ।  
+साक्षादनभिधानेऽपि न द्वितीया प्रसज्यते ॥(513)  
+इदानीं सोऽपि नास्ति, इत्याह--प्रैषादिष्विति 'प्रैषादिसर्गप्राप्तकाले(ष्वपि)षु कृत्याश्च'(पा.सू.3-3-163)इति कृत्याः स्मर्यन्ते । अतिसर्गःकामचाराभ्यनुज्ञानम्। प्रैषः --प्रेषणम्। निमित्तभूतस्य कालस्यावसरः प्राप्तकालता। एतेषु गम्यमानेषु कृत्या भवन्ति,चकारात् लोट् चेति सूत्रार्थः। तेन प्रैषादिवत् नियोगेऽपि कृत्यानां विधाना्त् न भावकर्मणोरेवेति नियम इत्यर्थः। कृत्यानां कर्माभिधायित्वं युक्तिविरुद्धं च, इत्याह--कृत्यानामिति ।(511)  
+ युक्तिं दर्शयति--यथेति । कटं करोतीति प्रयोगे द्विदीयया कर्ममात्रावबोधनं--कर्तुरीप्सिततमाभिधानम्, अनुभूयते यथा, तथा कर्तव्यः कटः इत्यादावपि तव्यप्रत्ययस्य कर्मार्थत्वे तदभिधानानुभवो भवेत् । न तथा भवति, साध्यत्व(म)(मा)त्राभिधानानुभवात् । तस्मात् न कर्माभिधा(य)(यि)त्वं कृत्यस्येति वार्तिकार्थः। ननु कटः कर्तव्यः इत्यत्रापि कटमिति द्वितीया स्यादिति विवक्षितम्। न, तिङ्कृत्तद्धितसमासैरनभि(ह)(हि)ते कर्मणि द्वितीया(भि)(वि)धानात् । (512)ननु तव्यस्य नियोगवचन(म)त्वे कर्मत्वस्यानभिहितत्वात् कटः कर्तव्यः इत्यत्र कटमिति द्वितीया स्यात्, इत्याशङ्कयाह--कर्तव्यत्वादिति । अनिष्टस्याकर्तव्यत्वात् ईप्सितत्वं अभीष्टतमत्वं कर्तव्यत्वसामर्थ्यादेवाभिहितमिति न द्वितीया प्रसङ्गः इत्यर्थः।(513)अर्थादभिहितस्याप्यभिहितत्वात् द्वितीया न प्रसज्यते इति कथमुक्तम्, इष्टत्वस्य नियोरुपस्य साक्षादभिनात्, अत्राह--नचेति ।  
+\*न चाभीष्टत्वकार्यत्वमभिन्नं व्यतिरेकतः।  
+इच्छेदेष्टव्यमित्येवं तत्रापि प्रत्ययो यतः ॥(514)  
+तस्मात्कर्तव्यतावेशात् क्रिया वा यदि वा फलम् ।  
+कारकं वापि कार्यत्वं लभते न स्वतन्त्रतः ॥(515)  
+लोकवन्ननु वेदेऽपि कार्यमात्रं न गम्यते ।  
+\*साधनेहानुबन्धस्य वेदे कार्यस्य बोधनात् ॥(516)  
+ततश्चारोग्यकामस्य पथ्यभोजनवाक्यवत् ।  
+मानान्तरप्रवेशेन सापेक्षत्वं प्रसज्यते ॥(517)  
+सिद्धस्यापीच्छाविषयत्वात् असिद्धस्यैव कार्यत्वात् तयोर्भेद इत्यर्थः ।(514)कार्यस्य क्रियादिवैलक्षण्ये क्रियादौ कर्तव्यताधीः किंनिबन्धना, अत्राह--तस्मादिति ।(515) प्रैषादिविलक्षणस्य कार्यस्य लिङादिवाच्यत्वे, चित्रया ।  
+ यजेतेत्यादिवाक्यस्याप्रामाण्याक्षेपः, तन्निरासश्च  
+प्रैषादिविलक्षणमेव कार्यं लिङादिवाच्यमिति यदुक्तम्, तत्र चोदयति--लोकवदिति । यजेत् ,तद्दात् इत्यादौ मान्तरावगतयागदान भावार्तनुगमात् केवलस्यानवगमादित्यर्थः।(516)किमतः, अत्राह--ततश्चेति । आरोग्यकामः पथ्यमश्नीयात् इति वाक्यं मान्तरसिद्धार्थविषयं यथा सापेक्षं, तथा यजेतेत्यादिकमपि मान्तरगोचरसाध्यसाधनसंबन्धविषयं सापेक्षं स्यादित्यर्थः।(517)ततो वा किमनिष्टम, अत्राह--अत इति । मान्तरसिद्धसंबन्धविषयो नियो(तको)(गो) हरीतकीं भक्षयेदित्यादिप्रैषतुल्यः स्यात्, । अतश्च चित्रया यजेत पशुकामः इत्यादौ अनन्तरफलादर्शनात् प्रामाण्यं न स्यादित्यर्थः।(518)  
+ द्दृष्टान्तदार्ष्टान्तिकवैषम्यभिप्रेत्य परिहरति --नैवमिति । पौरुषेयं प्रवर्तकवाक्यं मानान्तरसिद्धप्रैषाद्दुपाधिककार्यबोधकं तदर्थे मान्तरसंभवादिति मान्तरसिद्धसाधनसंबन्धप्रधाना प्रवृत्तिर्न नियोगसिद्धयर्थेत्यर्थः।(519)लौकिकनियोगस्य मान्तरगोचरसंबन्धविषयत्वे हेत्वन्तरमाह--साध्येति । हरीतकीभक्षणादौ फलसाधनत्वस्यान्वयव्यतिरेकसिद्धत्वात् मानान्तरगोचर विनियोगगोचरत्वं नियोगस्येत्यर्थः । एवमपि न लौकिकवैदिकविवेकः, अत्राह--अत इति । हरीतकीं भक्षयेदित्यादौ नियोगस्य मान्तरसिद्धविनियोगविषयत्वात् कर्तृत्वेनान्वयो नाधिकारित्वेनेत्यर्थः। (520)  
+स्वत एव प्रवृत्तत्वात्कर्तुरेवाधिकारिता ।  
+पदं चोरोग्यकामादि भवेत्कर्तृविशेषणम् ॥(521)  
+वेदे तु सकलाक्षादिप्रमाणागोचरत्वतः ।  
+साध्यसाधनताज्ञानं नियोगादेव नान्यतः ॥(522)  
+तथा ह्यकारकः कामी स्वर्गकामपदार्पितः ।  
+नियोगात्कर्मसंबन्धे पश्चाद्दातीह कर्तृताम् ॥(523)  
+चोदितप्रवृत्तौ नियोज्यत्वेनान्वितस्याधिकारान्वये कर्तृत्वेनान्वयो युक्तः ।अन्यथा वेदेऽपि कर्त्रन्वयपूर्वकत्वा(पाता)त्,अत्राह--स्वत इति । यत्र(मा)नाधिगतं कार्यं प्रवर्तकं, तत्र नियोज्याधिकारिकर्त्रन्वयाः क्रमेण स्युः । अत्र तु मानान्तरसिद्धत्वा द्विनियोगस्य तत्र स्वत एव हरीतकीभक्षणादौ प्रवृत्तः कर्तेति पश्चात्तस्याधिकारित्वमित्यर्थः । फलस्याधिकारिविशेषणत्वं युक्तं न कर्तृविशेषणत्वम्, अत्राह--पदे चेति । (521)वैदिकवाक्यानामप्येषैव गतिः, तत आह--वेदे त्विति । वैदिकविनियोगस्य लौकिकमानाग्यत्वात् स्वर्गकामिनो यागे नियोगानुपपत्ति रुपोपादानप्रमाणगम्यत्वमित्यर्थः।(522)एवमपि कथं भोक्त्रन्वयपूर्वककर्त्रन्वयलाभः, अत्राह--तथाहीति । स्वर्गकामो यजेतेति प्रत्यात् प्रतीतनियोगाकांक्षया स्वर्गकामः ममायं नियोग इति नियोज्यत्वेनान्वीय नियोगविषये कर्मणि ऐश्वर्यमधिकारं प्रतिपद्दते इत्यर्थः। स्वर्गकामपदस्याधिकारिसमर्पकत्वं कर्तुभावात् प्रयोगो न भवेत् , अत्राह--नियोगादिति । साङ्गे कर्मणि ममायं नियोगः इति नियोगस्वामित्वेनान्वितः, नियोगो मया साध्यते इति नियोगद्वारेण नियोगविषयभावार्थेनापि कर्तृत्वेन संबध्यते इत्यर्थः ।  
+(523)कामस्याधिकारिविशेषणत्वे हेत्वन्तरमाह ---का(म्य)(म)स्येति । फलविषयत्वात् कामः प्रधानः ।  
+कामस्य च प्रधानत्वात् तत्प्राधान्यानपायतः ।  
+पुंविशेषणता तस्माद्भोगी कामी न कारकः ॥(524)  
+अप्रवृत्तप्रवृत्तेश्च कारकत्वं न युज्यते ।  
+प्रवृत्तस्य णिचोक्तिः स्यात् पचन्तं पाचयेद्दथा ॥(525)  
+तस्य स्वामित्वेन प्रधानभूताधिकारिविशेषणत्वे प्राधान्यं युज्यते । क्रियां प्रति गुणभूतकर्तृविशेषणत्वे प्राधान्यहानिरित्यर्थः । तत्प्राधान्यानपायतः---तत्प्राधान्यापरित्यागेन । पुंविशेषणता वाच्येति योजनीयम् । न कारकः --न कर्तेत्यर्थः ।(524)  
+ तर्हि प्रथममेव गुणभूतत्वमस्तु, प्रधानस्य तदत्यागेन गुणत्वायोगात्, अत्राह--अप्रवृत्तेति । लौकिकविनियोगस्यमान्तरसिद्धत्वात् हरीतकीभक्षणादौ प्रवृत्तत्तत्वेऽपि(या)गादावप्रवृत्तस्यैव प्रवृत्तिर्नियोगफलम्। अप्रधानस्य तदत्यागेन प्राधान्यं दुर्लभम्। प्रधानस्य तदत्यागेनाप्राधान्यमनायाससाध्यमिति न प्राधान्यभङ्ग इत्यर्थः। वैदिकी प्रवृत्तिः प्रवृत्तप्रवृत्तिः, प्रवृत्तित्वात् लौकिकप्रवृत्तिवत्, अत्राह--प्रवृत्तस्येति । यागादौ शब्दात्प्राक् प्रवृत्तिश्चेत्, प्रयोजकभूतनियोगस्य याजयेदिति णिजन्तेन वचनं स्यादित्यर्थः। (525)स्वामिनः कर्तृत्वे (ना)ऽपि देवदत्तस्य स्वमिति वत् स्वर्गकामस्यनियोग इति स्यात्, इत्याह--अक्रियेति ।  
+\*अक्रियाकर्तृसंबन्धे ननु षष्ठी प्रसज्यते ।  
+नैवं, नाम्नोः सदा योगे षष्ठीयं शैषिकी यतः ॥(526)  
+क्रियाकारकयोगे च द्वितीयादिर्लडादि तु ।  
+स्यात् प्रातिपदिकार्थस्य भावार्थेनेत्यसंकरः ॥(527)  
+नीलोत्पले तु नामार्थावपहाय परस्परम्।  
+भेदमेकात्मतां याताविति षष्ठी न संमता ॥(528)  
+लिङर्थे युज्यमानस्य कर्मत्वं न च कामिनः ।  
+अक्रियात्वान्नियोगस्य द्वितीया चेद्भवेत्तथा ॥(529)  
+नियो(जक)(ग)स्यानामार्थत्वान्नैतच्चोद्दम्, इत्याह--नेति । शैषिकी
+--संबन्धसामान्यवि(शे)षयेत्यर्थः। (526)(न हि)(तर्हि)द्वितीयादेरनवसर एव, नामयोगनिमित्तत्वात् षष्ठयाः, इत्यत्राह--क्रियेति । ग्रामं गच्छतीत्यादौ क्रियाकारकसंबन्धे गम्यमाने द्वितीयादिः स्यात् । प्रातिपदिकार्थमात्रस्य क्रियायोगे प्रातिपदिकार्थक्रियायां लडादि(रन्य)(रित्य)सांकर्यं विभक्तीनामित्यर्थः। (527)नाम्नोर्योगे षष्ठी चेत्, उत्पलस्य नीलमिति स्यात्, न तु नीलोत्पलमिति, अत्राह----नीलेति । भिन्नयोर्नामपदार्थयोर्योगे षष्ठीत्यर्थः। (528)स्वर्गकामस्य प्रेर्यत्वे कर्मत्वात् स्वर्गकामपदेन द्वितीयान्तेन भवितव्यम्, अत्राह--लिङर्थ इति । द्वितीया चेत्तथा भवेत्
+---तथा क्रिया चेत् द्वितीया भवेदिति योजना । क्रियाविशेषस्यकर्मापेक्षत्वात् क्रियासाध्यस्य नियोगस्य न कर्मापेक्षेत्यर्थः ।(529)नियोज्याधिकारिकर्त्रन्वयानामुक्तं क्रममुपसंहरति--तस्मादिति।  
+तस्मादकारकः कामी स्वनियोगप्रसिद्धये ।  
+नियुज्यमान एवेह विषयं साध्यमीक्षते\*(530)  
+राजादिषु प्रसिद्धश्च नियोगः साध्यगोचरः ।  
+भावार्थस्य च साध्यत्वमिति तेनापि युज्यते ॥(531)  
+अविवक्षितमप्येवं लिङ्गसंख्यं विवक्ष्यते ।  
+पश्चाद्विषयसिद्धयर्थं कारकादि च यच्छ्रुत्म् ॥(532)  
+यस्मात् साधकत्वेन नियो(ग)(गे)कामिनोऽन्वयः, तस्मादित्यर्थः । (530)'विषयं साध्यम्'इत्ययुक्तं, दध्नेन्द्रियकामस्येत्यादौ नियोगविषयदध्यादेरसाध्यत्वात्, अत्राह--रा(ज्या)(जा)दिष्विति । भावानुविद्धत्वेन साध्यदध्यादेः नियोगविषयत्वमित्यर्थः । दध्यादेः स्वरुपेणैव साध्यत्वं स्यात्, अत्राह--भावार्थस्येति । क्रियैव साक्षात् साध्या, तदद्वारेतरदित्यर्थः। स्वर्गकामस्य स्वर्गसाधकनियोगेनैवान्वयात् यागेनान्वयो न स्यात्, अत्राह--तेनेति । नियोगेनान्वितस्य तद्विषया(न्वि)(न्व)यो नियोगसिद्धयर्थ(मि)(इ)त्यर्थः । (531)वाक्यस्य नियोगपरत्वे स्वर्गकामशब्दे लिङ्गसंख्ययोरविवक्षितत्वादनुष्ठातुरनियमादनुष्ठाननियमो न स्यात्, अत्राह--अविवक्षितमिति । वाक्यस्य नियोगपरत्वेऽपि स्वर्गकामश्रुतलिङ्गसंख्यापरित्यागेन लिङ्गसंख्यान्तरकल्पनाऽयोगात् तदेव लिङ्गादिकं ग्राह्यमित्यर्थः ।तथापि फलादेरविवक्षितत्वादनुष्ठानं न स्यात्, अत्राह---पश्चादिति । कर्ता फलमितिकर्तव्यता च संनिधिश्रुता एव गृह्यन्ते इत्यर्थः। (532)  
+लिङ्गादिविवक्षाफलमाह--ततश्चेति । (स्वर्ग)(यत्किञ्चित्)कामा नाधिकारिणः, किन्तु यः स्वर्गकामः स एव स्वर्गं साधयेदित्यर्थः। सः केन साधयेदिति पृच्छति --केनेति । उत्तरमाह----यागेति। (533)यद्दत्र यागस्य नियोगहेतुत्वं, तर्हि स्वर्गस्या कर्मकार्यत्वात् नित्यसत्वासत्वयोरन्यतरप्रसङ्गः, अत्राह--नचेति ।  
+ततश्च स्वर्गकामो यः स्वनियोगं स साधयेत् ।  
+केन, यागादिनिर्वृत्त्येतच्छास्रात् प्रतीयते॥(533)  
+न चानपनयन्यागः कामिनः स्वर्गकामिताम्।  
+\*साधनं स्वाधिकारस्य भवतीह कथं चन ॥(534)  
+अधिकारः स्वसिद्धयर्थमतः कामस्य साध्यताम्। \*  
+यागेनापाद्द संसिद्धयन् विषयस्यैति साध्यताम् ॥(536)  
+कामिनः ---अधिकारिणः स्वर्गोत्पादेन स्वर्गेच्छामनिराकृत्य यागः स्वविषयं नियोगं न साधयेदित्यर्थः। (534)कुत एतत्, अत्राह--अनुन्मृदितेति । निष्पादिताधिकारोऽपि --यागेनोत्पादितनियोगोऽपीत्यर्थः। (535)यागस्य स्वर्गहेतुत्वे नियोगवाक्यार्थत्वभङ्गः अत्राह--अधिकार इति । स्वर्गकामप्रमितो नियोगः अधिकारः, यागस्य स्वर्गसाधनत्वापादको न भवतीत्यभ्युपगमे अनिष्टापत्तिः यतोऽतः, अधिकारः स्वविषयेण स्वसिद्धयर्थमेव स्वर्गं प्रसाध्य स्वयं सिद्धयतीत्यर्थः।(536)यत् क्रियाफलं तत् क्रियानन्तरमेवेति मर्दनसुखादौ द्दृष्टत्वात् इहानन्तरफलादर्शनात् प्रत्यक्षविरोधादागमस्याप्रमाण्यम्, अत्राह--नेति ।  
+नानन्तरफलाभावे विसंवादोऽत्र शङ्कयते ।  
+क्रियासाध्ये फले स स्याल्लिङर्थस्त्वक्रियात्मकः॥(537)  
+प्रत्यर्थिनि च शब्देऽस्मिन् नाभावोऽनुपलब्धितः।  
+मानाभावेह्यसौ मानमानन्तर्यन्त्वचोदितम् ॥(538)  
+\*अतः कृताधिकारोऽपि यो विद्दादकृतार्थताम्।  
+तस्य शास्त्रानभिज्ञत्वान्नाधिकारोऽत्र वैदिके ॥(539)  
+मन्त्रार्थवादनाम्नां च कार्यार्थानुप्रवेशतः ।  
+प्रामाण्यं न स्वतस्तस्मात् कार्ये वेदस्य मानता ॥(540)  
+क्रिया अनन्तरफला, न नियोगः।अतो न विसंवादशङ्केत्यर्थः । (537)क्रियानन्तरफलानुपलब्ध्या फलाभावनिश्चयाभावे हेत्वन्तरमाह--प्रत्यर्थिनीति । हेतुमाह--मानेति । प्रत्यक्षादिभावप्रमाणानामन्यतमस्याप्यभावे अनुपलब्धिरभावप्रमाणम्, अन्यथातिप्रसङ्गादित्यर्थः।फलश्रुत्यैवागमादेरनन्तरफलतव्प्रतीतेः तद्विरोधः, अत्राह--आनन्तर्यमिति । फलवत्त्वमात्रं चोदितं नानन्तर्यमित्यर्थः। (538)यतोऽनुष्ठितयागादेरवश्यंभावि फलम्, अतो यागानुष्ठानानन्तरं फलानुपलम्भात् आत्मानमफलं मन्यमानस्य नाधिकारः, इत्याह--अत इति । (539)मन्त्रार्थवादनाम्नां (समाम्ना)यानामकार्यार्थानां, वेदस्य नियोगपरत्वे का गतिः,अत्राह--मन्त्रेति । अनुष्ठेयस्मारकतया मन्त्राणां, तत्स्तावकत्वेनार्थवादानां, तत्संज्ञात्वेन नाम्नां विधिनैकवाक्यत्वात् प्रामाण्यमित्यर्थः।(540)पूर्वपक्षमुपसंहरति--वेदान्तानामिति ।  
+वेदान्तानामतो वाच्यं कार्यार्थानुप्रवेशनम्।  
+प्रामाण्यं वा निषेद्धव्यम्, अत्र प्रतिविधीयते ॥(541)  
+निश्शेषमातृतद्वृत्तिजन्मनां तद्विलक्षण।  
+स्वतः सिद्धात्मसंबोधव्याप्तिर्वस्त्वनुरोधतः॥(542)  
+वियद्वस्तु स्वभावानुरोधादेव न कारकात् ।  
+वियत्संपूर्णतोत्पत्तौ कुम्भस्येव द्दृशा धियाम्॥(543)  
+ वेदान्तानां कार्यपरत्वं, तदभावे अप्रामाण्यमिति नियोगवादिनो  
+ मीमांसकस्य महापूर्वपक्षे, सिद्धान्तनिरुपणम्  
+सिद्धान्तयति--अत्रेति । (541)  
+ वेदान्तानां विषयप्रदर्शनेनाप्रमाण्यपरिहारः  
+किं विषयाभावादप्रामाण्यं, सिद्धे शब्दसामर्थ्याभावाद्वा। प्रथमं प्रत्याह--निश्शेषेति । माता--अहङ्कारः। तद्वृत्तयः रागद्वेशषादयः। निश्शेषा मातृतद्वृत्तयः---निखिलान्तः करणतद्वृत्तयः । तज्जन्मनां स्वतःसिद्धसंबोधेन --स्वयंप्रकाशात्मना व्याप्तिः आत्मस्वभावानुरोधात् ।बुद्धितद्वृत्तीनामात्मव्याप्तानां जायमानत्वात् तत्साक्षी वेदान्तप्रमेय इत्यर्थः । (542)बुद्धयादिव्या(प्तोम)(प्त्यात्म)नो विकारः स्यात्, अत्राह--वियदिति। (543)आत्मनो बु(द्धया)(द्धिव्या)प्तिः व्यापकविकारप्रवर्तिका, व्याप्तित्वात् बुद्धेर्विषयव्याप्तिवत्, अत्राह--घटेति ।  
+\*घटदुःखादिरुपत्वं धियां धर्मादिहेतुतः।  
+निर्हेतुत्वात्मसंबोधरुपित्वं वस्तुरुपतः ॥(544)  
+\*बुद्धितद्वृत्तिभावोऽयमभावश्चाप्यनन्यमात् ।  
+यतः सिद्धायते सोऽर्थो ज्ञेयः सिद्धः स्वतः सदा ॥(545)  
+ननु प्रमाणविरहात् स्वतः सिद्धो यदीष्यते ।  
+वचसो बुद्धयबोधित्वादप्रामाण्यं प्रसज्यते ॥(546)  
+मैवमप्रतिपन्नत्वादनुभूत्यैव वस्तुनः ।  
+\*तद्व्युत्पत्तेः पुरा साक्षाद्वोधो ह्युत्पत्तिमात्रतः ॥(547)  
+कार्यत्वमुपाधिरित्यर्थः । साधनव्याप्तिं परिहरति--निर्हेत्विति । वस्तुरुपत इति । आत्मस्वभावानुरोधादित्यर्थः ।(544)  
+ घटादिसाधकबुद्धयादेरात्माधीनसिद्धित्वे, किमधीना स्यात् आत्मसिद्धिः, अत्राह--बुद्धीति ।अन्या मा न विद्दते यस्मिन् सः अनन्यमः, तस्मादिति यावत् । स्वप्रभ इति भावः।(545)आत्मनः स्वप्रकाशत्वे वेदान्तानामनुवादकत्वेनाप्रमाण्यं स्यात्, इति चोदयति---नन्विति । प्रमाणविरहात् ---स्वापादौ विना मानं भा(वा)(ना)दित्यर्थः । (546)परिहरति--मैवमिति ।वाक्यजनितापरोक्षज्ञानात्प्राक् अहमज्ञः, न जानामि इत्यात्मनः अप्रतिपन्नत्वस्य स्वानुभवेनैव सिद्धत्वादित्यर्थः । वेदान्तानामज्ञाननिवर्तकापरोक्षधीजनकत्वमयुक्तम्, शब्दस्य परोक्षधीहेतुत्वात्, अत्राह---साक्षादिति । अपरोक्षे परोक्षधीहेतोरप्रमाणत्वात् ज्ञानोत्पत्तिमात्रेणापरोक्षनुभव इत्यर्थः । (547)स्वयंज्योतिषि अज्ञानमनुपपन्नं कादाचित्कज्ञानं चायुक्तम्, अत्राह--बोधेति ।  
+बोधाबोधौ यतो द्दृष्टौ स्वानुभूत्यनुसारतः ।  
+द्दृष्टे चानुपपन्नत्वं किबवादभिधीयते ॥(548)  
+सुषुप्तादेश्च संसिद्धिर्मात्रादिविरहेऽपि या ।  
+\*सापीहान्तरसंबुद्धमेयमात्रव्यपाश्रयात् ॥(549)  
+नचाभावप्रमाणात्सा सति मातर्यभावमा ।  
+मात्राद्दभावसंसिद्धिः कथं मात्रादिपूर्विका॥(550)  
+स्वप्रकाशस्य बुद्धत्वमबुद्धत्वं च द्दृष्टमप्यनुपपन्नत्वात् त्याज्यम्, अत्राह--द्दृष्टे चेति । किंबलात् --कस्य सामर्थ्यात् ।(यु--पिकस्तवत्वेपि'!)स्वरुपमात्रं न निरसीयमनुभवविरोधादित्यर्थः। (548)अनुभवस्याज्ञानसाधकत्वं तदा(अयुक्तंे)(श्रयत्वं)च न युक्तं, विरुद्धत्वात्, अत्राह--सुषुप्तादेश्चेति । मात्रादिविरहेऽपि--प्रमात्राद्दभावेऽपि । आन्तरसंबुद्धमेयमात्रव्यपाश्रयात्--अज्ञानाश्रयप्रत्यक्चैतन्यबलात् । या सिद्धिः सा इहापि --अज्ञानेऽपि स्यादित्यर्थः ।(549)  
+ अभावप्रमाणात् स्वापा(पत्तिः)(दिसिद्धिः)नानुभवमात्रात्, अत्राह--न चेति । प्रमातुरभावात् तदा प्रमाणप्रवृत्त्ययोगादिति हेतुमाह--स(ते)(ती)ति । हेत्वन्तरमाह---मात्रादीति । सुषुप्तयादिर्नाम मात्राभावः। कथं मात्रादिना मात्राद्दभावः सिद्धयेत् । अतोऽनुभवादेव तत्सिद्धिरित्यर्थः।(550)  
+यमप्रमीय मानानि नानात्मानं प्रमिण्वते ।  
+\*वस्तुवृत्तानुरोधेन कथं तत्राप्रमा पचः ॥(551)  
+अमीमांसक इत्युच्चैरमी मां स क इत्यतः ।  
+आक्षिपन्ति यदत्रज्ञानात् तच्छान्त्या उत्तरं वचः॥(552)  
+किंपुनर्न्यायेनात्मनि वेदान्तप्रमामाण्यमाह--यमिति। शब्दादिबोधनेन चरितार्थान्यपि प्रत्यक्षादीनि यस्मिनं प्रमामनुत्पाद्द स्वयं जडत्वात् अनात्मानं प्रमातुं नेशते , विषयेष्वधिष्ठानतयानुगतचैतन्यावरणभङ्गेनैवानात्मनः साधनीयत्वात् ।एवं चान्यत्राचरि(तं)(तार्थं)वचः किमिति प्रमाणं न स्यादित्यर्थः ।(551)  
+ सिद्धे शब्दसामर्थ्याभावात् वेदान्तानामप्रमाण्यमित्यस्य  
+ निराकरणाय 'सर्वोऽप्ययं वेदः 'इत्यादिभाष्यतात्पर्यवर्णनम्  
+वेदान्तानां विषयाभावादप्रामाण्यं निराकृत्य,सिद्धे शब्दसामर्थ्याभावादप्रामाण्य निराचिकीर्षुः 'सर्वोऽप्ययं वेदः'इत्यादिभाष्यतात्पर्यमाह--अमीमांसक इति । अमी--नियोगवादिनः मां--सिद्धे वेदप्रामाण्य(म)(वादिनम्)आक्षिपन्ति। सः ---सिद्धे वेदप्रामाण्यवादी, अमीमांसकः ---विचारहीनः, क इति । आक्षेपे निमित्तमाह--यदिति । यस्मादज्ञानात् , तस्य --अज्ञानस्य शान्त्यर्थं,उत्तरं वचः ---सर्वोऽपीत्यादिभाष्यम्, इत्यर्थः ।(552)किं तदुत्तरं वचः,तदाह---सर्वोऽपीति।  
+सर्वोऽपि वेद इत्यादि यथोक्तपरिहारकृत्।  
+गुरुराह वचः स्पष्टं द्दृढन्यायोपबृंहितम् ॥(553)  
+मानस्वभावमाश्रित्य सर्वोऽपीत्याद्दुदीरणम् ।  
+काण्डद्वयसमाख्या हि तत्प्रमेयानुरोधतः ॥(554)  
+\*मानं हि व्यञ्जकं लोके सिद्धे तच्च स्वकारणात् ।  
+स्वतः सिद्धेऽथवा नित्यं मेयमात्रं विशिष्यते ॥(555)  
+अतः सर्वोऽपि वेदोऽयं प्रमाणत्वैकहेतुतः।  
+प्रकाशनपरो ज्ञेयः सिद्धसाध्यात्मवस्तुनः ॥(556)  
+स्तष्टं---निश्चितधीजनकमित्यर्थः। (553)सिद्धसाध्यविषयवेदस्यकथमेकराशित्वेन ग्रहणम्, अत्राह---मानेति । अतीन्द्रियार्थप्रमापकत्वोपाधावित्यर्थः।तत एव तर्हि काण्डैक्यं स्यात्, अत्राह--काण्डेति।सिद्धसाध्यत्वेन मेयभेदादित्यर्थः। (554)'मानस्वभावमाश्रित्य'इति बोधकत्वमुक्तम्। (यदत्र)(तद)युक्तं कारकत्वात्, अत्राह--मानं हीति । व्यज्क्तेव हेतुमाह---सिद्ध इति । स्वकारणात् सिद्धे घटादौ । स्वतः सिद्धे गगनादौ । तच्च--बोधकत्वम्। अतो मानस्य नित्यं मेयमात्रंअनवगतं वस्तुमात्रम्। विशिष्यते ---प्रकाश्यत्वेन परिशिष्यते । बोधकमेवेत्यर्थः ।(555)लौकिकप्रमाणस्य व्यञ्जकत्वेऽपि न वेदान्तस्य व्यञ्जकत्वम्,आत्मनः स्वतो व्यक्तत्वात् ,अत्राह--अत इति।(556)  
+एकवाक्यत्वतो यद्वा सर्वोऽपीत्यादि भण्यते ।  
+पुरुषार्थवसायित्वाद्वेदाधीतिविधेरिति ॥(557)  
+निश्शेषसुखसंप्राप्तेः सर्वानर्थह्नुतेस्तथा ।  
+मुक्तेरर्वाक् पुमर्थोऽन्यो नेह कश्चित् समीक्ष्यते ॥(558)  
+असिद्धार्थस्य वा सिद्धिरनुभूत्येकमात्रतः ।  
+सर्वोऽपीति वचः सिद्धिः सर्वा ह्यात्मैकसंविदः॥(559)  
+कर्मज्ञानकाण्डयोरेकवाक्यत्वमेकराशीकरणे हेतुः इत्यर्थान्तरमाह--एकेति । अर्थैकत्वेनैकवाक्यत्वे हेतुमाह---पुरुषार्थेति ।'स्वाध्यायोऽध्येतव्यः'वेदः कृत्स्नोऽधिगन्तव्यः सरहस्यो द्विजन्मना '(मनु.1-1-65)इति चाध्ययनविधेः एकमोक्ष(प्रमा)(प्राप)कवेदाध्ययनकर्तव्यताबोधकत्वादित्यर्थः ।(557)कर्मविधीनां स्वर्गादिफलत्वात् ज्ञानकाण्डस्य मोक्षफलत्वात् भिन्नवाक्यत्वम्, अत्राह--निश्शेषेति । स्वर्गादेरनित्यत्वेन पुमर्थाभासत्वात् न तत्राध्ययनविधितात्पर्यमित्यर्थः ।(558)ज्योतिष्टोमादीनां स्वर्गादिफलविनियुक्तानां फलान्तरे विनियोगायोगात् कथमेकार्थत्वमित्याशङ्कय, भाष्यस्यार्थान्तरमाह--असिद्धार्थस्येति। स्वतः सत्ताप्रतीतिरहितस्य सिद्धिः सत्ताप्रतीरुपा, सा अनुभूत्येकमात्रतः। तसिः सार्वविभक्तिकः । स्वप्रकाशाद्वितीयप्रत्यग्रुपेण भवतीत्यर्थः। उक्तार्थे भाष्यमवतारयति--सर्वोऽपीति । वेदनं--वेदः ---आत्मा,अयं सर्वोऽपि प्रपञ्चो वेद एव । किंलक्षणोऽसौ वेदः, इष्टानिष्टप्राप्तिपरिहारोपायप्रकाशन(ः)--प्रकाशः परश्चेति भाष्यस्य विवक्षित इत्यर्थः। तत्र युक्तिमाह--सिद्धिरिति । एका चासौ संवित् एकसंवित्, आत्मा चैकसंविच्च आत्मैकसंवित् ।ततः सर्वस्य सिद्धिः ।तत्राध्यासादित्यर्थः।(559)  
+\*यद्वानवगतोऽतोऽन्यः संभाव्यो नात्मनस्ततः ।  
+सर्वोऽपीति वचः प्राह तथा चोर्ध्वं प्रवक्ष्यते ॥(560)  
+यद्धेतुकं प्रमाणत्वं वेदान्तानां समर्थ्यते ।  
+तेनैव हेतुना कर्मकाण्डस्यापि प्रमाणता ॥(561)  
+\*वेदान्तानाममानत्वं येन वा हेतुनोच्यते ।  
+तेनैव हेतुना कर्मकाण्डस्यापि प्रसज्यते ॥(562)  
+एकस्य तूभयत्वे संयोगपृथक्तवं कारणमित्युक्तत्वात् विनियोगविरोधाभावात् एकार्थत्वं संभवतीत्याशङ्कय, व्याख्यान्तरमाह--यद्वेति । जडस्याज्ञानकार्यस्याज्ञातत्वायोगात् आत्मन एव तत्संभवात् अनुभवे एव सर्वो वेदराशिः प्रमाणमित्युच्यते इत्यर्थः । आत्मन एवाज्ञातत्वमव्याकृतविचारे वक्ष्यते, इत्याह---तथा चेति । (560)  
+ कर्मकाण्डस्येव वेदान्तानामपि प्रामाण्यमिति निरुपणम्  
+सिद्धे वस्तुनि वेदान्तानां प्रामाण्यानुपपत्तेः कथमेतदुक्तम, अत्राह---यदिति । काण्डयोः प्रामाण्यप्रयोजकस्य तुल्यत्वात् प्रामाण्यमपि तुल्यमेवेत्यर्थः । (561)'द्दृष्टो हि तस्यार्थः कर्मावबोधनम्'इति शाबवभाष्यविरोधात् वेदान्तानां न स्वार्थे प्रामाण्यमित्याशङ्कय, शांकरभाष्यविरोधात् कर्मकाण्डस्य न स्वार्थे मात्वम्,इत्याह--वेदान्दानामिति । (562)किं तत्प्रामायण्यप्रयोजकमिति, तदाह--अपीति ।  
+अपि सर्वप्रमाणानि स्वप्रमेयाभिसंगतेः ।  
+प्रमामेवेह कुर्वन्ति प्रामाण्यं यान्ति नान्यथा॥(563)  
+विधिनैवैकवाक्यत्वं यतो मन्त्रार्थवादयोः।  
+\*ततो दर्शननिष्ठात्वं न तयोरुपपद्दते ॥(564)  
+अर्थवादोक्तितो यापि प्रतिष्ठाकामिकल्पना।  
+विध्यर्थसंगतावेव सापि नैव ततोऽन्यतः ॥(565)  
+प्रत्यक्षादीन्यपि प्रमां कुर्वन्त्येव सन्ति प्रामाण्यं यान्ति । अनवगतार्थाधिगन्तृत्वेन प्रामाण्यमित्यर्थः ।(563)वेदान्ता न स्वार्थे प्रमाणं, सिद्धार्थवेदत्वात् अर्थवादवत्, अत्राह--विधिनेति । विध्युद्देशेन मन्त्रार्थवादयोः पदैक्यभावस्य प्राभाकरादिभिरभिहितत्वात् स्वार्थे फलाभावाच्च न स्वार्थे तात्पर्यमित्यर्थः।(564)अर्थवादानां स्वार्थे प्रामाण्याभावे सति, आर्थवादिकं प्रतिष्ठारुपं फलं कथमधिकारे हेतुः स्यात्, । चतुर्थे चिन्तितम्---क्रतौ फलार्थवादम(र्थ)(ङ्ग)वत् (कर्मे )(कार्ष्णा)जिनिः। '(पू.मी.4-3-17)  
+ 'प्रतितिष्ठन्ति ह वा य एता रात्रीरुपयन्ति '। अत्र स्वर्ग एव किमधिकारहेतुः,उतार्थवादिकं फलमिति विशये, अर्थवादानां नियोज्यविशेषणतया फलप्रतिपादकत्वाभावात् स्वर्ग एव कल्पयितव्यः इति प्राप्ते,कल्पनायामप्यर्थवादानामपि अतीव परोक्षवृत्तिपरिहाराय वाक्यशेषप्रतीतफलमेव विधिः कल्पयतीति । तत्राह--अर्थवादेति । स्वार्थप्रमाणबलात् न तद्ग्रहणं, विधिशेषत्वेन प्रामाण्यंबलादेव तद्ग्रहणादित्यर्थः।(565)अर्थवादानां स्वार्थे विधौ च तात्पर्यं प्रमाण्यं च किं न स्यात्, अत्राह--विध्यर्थेति ।  
+विध्यर्थशेषभावश्च ततश्चार्थान्तरोक्तिता।  
+ऐकार्थ्याद्वचसोऽशक्या विरुद्धद्वयर्थकल्पना॥(566)  
+विरोधे गुणवादः स्यादनुवादोऽवधारिते ।  
+भूतार्थवादस्तद्धानादर्थवादस्त्रिधा मतः ॥(567)  
+विधिशेषोऽपि यद्दर्थमर्थवादः समर्पयेत् ।  
+\*अद्वैतविधिनाक्षिप्ता वेदान्ता नेति का मितिः ॥(568)  
+एकार्थत्वेनैकवाक्यत्वात् नोभयत्र तात्पर्यं वाक्यभेदप्रसङ्गादित्यर्थः । (566)अन्यपराणामपि वाक्यानां स्वार्थे प्रामाण्यानङ्गीकारे देवताविग्रहादेरसिद्धिः स्यात्, अत्राह--विरोध इति । मानान्तरविरोधे गुणवादः --उपचारात् स्वार्थे वृत्तिः स्तुतिमात्रमिति यावत्। अवधारिते----मानान्तरावगते। तद्धानात् ---मानान्तरविरोधप्राप्त्योरभावावात् ।भूतार्थवादो यदि स्वार्थं समर्थयेत्, तदा अद्वैतविधिना--अद्वैतबोधकेन तत्त्वमादिना । आक्षिप्ताः तरति शोकमित्यादयः किमिति न प्रमाणमित्यर्थः ।(567-568)  
+प्रत्यक्षाद्दभिधानेन सर्वमानोपलक्षणम्।  
+मान्तरं नागमादन्यद्ददैकात्म्यावबोधकृत्॥(569)  
+सिद्धेऽनवगते यस्मात् पुरस्ताद्वयापृतिर्मितेः।  
+मानादज्ञाततासिद्धौ स्यान्योन्यसमाश्रयः ॥(570)  
+तत्त्वमस्यादिवाक्यस्य विरोधोऽतो न केन चित् ।  
+सर्वाश्रयत्वात्संवित्तेः तथात्मन्यप्रवृत्तितः ॥(571)  
+भाष्ये प्रत्यक्षानुमानाभ्यामिति विशेषणात् उपमानादिगोचरो ब्रह्मेति,तत्संवादे वेदान्तानां'अग्निर्हिमस्य भेषजम्'इति वदनुवादकत्वम्, तद्विसंवादे यजमानः प्रस्तरः'(ज्ञा)(इ)तिवत् गुणवादत्वम्, अत्राह--प्रत्यक्षेति। (569)आगमादन्यत् यत् मानान्तरं तत् ऐकात्म्यावबोधकृन्न इत्युक्तत्वात् प्रत्यक्षादेः प्रमाण्यमिष्टम्। अतश्च तद्विरोधात् अद्वैतागमो न प्रमाणम्, अत्राह--सिद्ध इति । प्रमेये अनवगते, प्रागेवावगतेः प्रमाणं प्रवर्तते । अतश्च प्रमाणप्रवृत्तावज्ञातप्रमितिः तत्प्रमितौ प्रमाणप्रवृत्तिरिति इतरेतराश्रयात् न तत्त्वावेदनप्रमाणत्वं प्रत्यक्षादेरित्यर्थः ।(570) फलितमाह--तत्त्वमस्यादीति । हेत्वन्यतरमाह--सर्वेति । अनुभवस्य सकलप्रमाणविषयाधिष्ठानत्वात् आगमस्यानुभवविषयत्वात्, प्रत्यक्षादेरनात्मविषयत्वेन भिन्नविषयत्वाच्च न विरोध इत्यर्थः । (571)वेदान्तानां मानान्त(र)(रा)विरुद्धार्थत्वेऽपि पुमर्थलाभार्थं विध्युद्देशेनैकवाक्यत्वम्, अत आह--कृत्स्नेष्टेति ।  
+कृत्स्नेष्टार्थस्य संप्राप्तिः कृत्स्नार्थहनुतिस्तथा ।  
+\*आत्मस्परुपान्नन्यत्र संभाव्या, सा हि मानतः ॥(572)  
+इत्येवमादिभाष्यार्थः क्रमेणैकात्म्यवस्तुनि ।  
+यत्नेन वक्ष्यते न्यायात् पूर्वपक्षनिरासतः ॥(573)  
+वेदान्तवचसां स्वार्थे प्रामाण्यं न विहन्यते ।  
+मानलक्षणसद्भावात् ज्योतिष्टोमादिवाक्यवत्॥(574)  
+नैव कार्यैकनिष्ठानि व्यवहारे वचांसि हि ।  
+नियमेन प्रयुज्यन्ते इत्यत्र मितिरस्ति ते ॥(575)  
+कुत एतत्, अत्राह---सा हीति । उभयविधफलावाप्तिः आत्मज्ञानादेवेति 'तरति शोकमात्मवित्'(छा.7-1-3)'अभयं वै जनक प्राप्तोऽसि'(बृ.6-2-4)इत्यादिप्रमाणात् सिद्धमित्यर्थः।(572)सर्वोऽपीत्यादिभाष्योक्तं ब्रह्मात्मनि वेदान्तप्रामाण्यं न स्थैर्यमासादयति, पूर्वपक्षबीजानामदूषितत्वात्, न सापेक्षत्वं, नानुवादत्वं, न तात्पर्यरहितत्वमित्येतत्'सर्वोऽपि'इत्यादि भाष्यार्थत्वेन पूर्वपक्षबीजनिरासक्रमेणास्माभिरभिधीयते इत्यर्थः । (573)प्रकृतं वेदान्तप्रामाण्यप्रसाधनमुपसंहरति--वेदान्तेति । वेदान्ताः स्वार्थे प्रमाणं तत्र फलवद्वेदत्वात् ज्योतिष्टोमेन यजेतेति वाक्यवदित्यर्थः ।(574) शब्दप्रयोगस्य कार्यपरत्वात् तत्रैव शब्दप्रामाण्यं न सिद्धे, इत्यत्राह--नैवेति । (575)कुतो नियमाभावः इत्याशङ्कय सिद्धपरप्रयोगदर्शनात्, इत्याह--दिष्टयेति ।  
+दिष्टया त्वं वर्धसे भद्र जातः पुत्रस्तवर्धिमान् ।  
+इति नेदं प्रवृत्त्यर्थं वचो नापि निवृत्तये ॥(576)  
+सुखाद्दुत्पत्तिहेतूनि द्दृश्यन्तेऽकार्यवन्त्यपि ।  
+वचनानि व्रज ग्राममित्यादीनि यथा तथा ॥(577)  
+सुख्येधीति न चानेन प्रवृत्तिरुपदिश्यते।  
+\*सुखीभवनमस्यार्थान्नोपदेशव्यपेक्षया ॥(578)  
+विशेषोऽस्ति प्रवृत्तेश्चेत् तात्पर्यं वचसोऽपि च ।  
+नैवं सुखादिसंभूतावर्थवत्त्वोपपत्तितः ॥(579)  
+प्रवृत्तिनिवृत्तिप्रतिपादकपदाभावादित्यर्थः ।(576)प्रवृत्तिनिवृत्त्योरन्यतराभावे प्रयोजनाभावादप्रमाण्यम्, अत्राह--सुखादीति । पुत्रस्ते जातः इत्यादीनि अकार्यवन्त्यपि
+--विधिकलान्यपि, सुखाद्दुत्पत्तिः फलतया हेतुः प्रवृत्तौ येषां तानि । व्रज ग्राममित्यादिविधिरध्याहार्यः, तत्राह----सुखीति । सुखोपायस्य पुत्रजन्मनः सिद्धत्वात्, तच्छ्रवणसामर्थ्यादेव सुखस्यापि सिद्धेः न विध्यपेक्षेत्यर्थः । (578)पुत्रस्ते जातः तस्मात् जातकर्म कुरु इति प्रवृत्तिविशेषे वाक्यतात्पर्यम्, इति शङ्कते-----विशेषोऽस्तीति। 'जातेऽग्निमुपसमाधाय'इत्यादिविध्यन्तरप्रयुक्तत्वात् जातकर्मप्रवृत्तेः नेदं वाक्यं तत्परम्, इत्याह--नैवमिति । सुखफलसुतजन्मज्ञानजनकत्वेन वाक्यं फलवदित्यर्थः । (579)एवमपि तत्त्वमादिवाक्यस्य प्रोक्षणादिवाक्यवत् कार्यतात्पर्यं(न)प्रयोजनार्थमूरीकार्यम्, अत्राह---आनर्थक्येति । स्वार्थे फलाभावात् प्रोक्षणादिवाक्यस्य अन्यत्र तात्पर्यकल्पनेऽपि स्वर्गकामो यजेतेत्यस्य तन्न कल्प्यते यथा, तथा तत्त्वमादेरपि, स्वार्थे फललाभादित्यर्थः ।(580)  
+आनर्थक्यभयादेव श्रुतादन्यत्र कल्प्यते ।  
+तात्पर्यं प्रोक्षणाद्दुक्तेर्न स्वतन्त्रेऽधिकारवत् ॥(580)
+
+\*किञ्चोपायेऽप्रवृत्तः सन्पुरुषोऽयं प्रवर्त्यते।  
+ज्ञातौपायत्वतो यद्वा विधिनोपेयसिद्धये ॥(581)  
+तत्रेह तावन्नोपाये पुत्रजन्मादिलक्षणे ।  
+तस्य निष्पन्नरुपत्वान्नाप्युपेये सुखे तथा ॥(582)  
+न व्यापारान्तरं यस्मात् सुखार्थं किञ्चिदीक्ष्यते ।  
+पुत्रजन्मोक्तिमात्रेण पुरुषार्थावसानतः ॥(583)  
+प्रथमावगतकार्यव्युत्पत्त्यनुरोधे पुत्रस्ते जातः इत्यत्रापि कार्याध्याहारस्यावश्यकत्वात् न तदद्दृष्टान्तेन वेदान्तानां वस्तुपरत्वसिद्धिः,अत्राह--किञ्चेति। सुख्येधीति विधिः पुत्रजन्मनि(प्र)वर्तयति, सुखे वेति विकल्पार्थः ।(581)आद्दं दूषयति--तत्रेति । द्वितीयमपवदति--नापीति । (582)पुत्रजन्मातिरिक्ते सुखोपाये प्रवर्तकोऽयं विधिः, इत्यत्राह--नेति । (583)'सुखाद्दुत्पत्तिहेतून'(वा.577)इति दुःखनिवृत्तिफलं वाक्यमादिपदोपात्तम्।  
+किञ्चाध्यस्ताहिदष्टस्य तद्विषव्याप्तचेतसः।  
+स्त्रगियं न फणीत्युक्ते द्दृष्टा विषनिराक्रिया ॥(584)  
+मा भैषीरिति चोक्तेऽपि न नियोगः प्रतीयते ।  
+स्रगुक्तेरेव निश्शेषसाध्वसध्वंसलाभतः ॥(585)  
+न्याय्यो नियोगस्तत्रैव यत्र बुद्धवास्य कार्यताम्।\*  
+अनन्तरं प्रवृत्तिः स्यात् विषये तस्य सिद्धये ॥(586)  
+इह त्वैकात्म्यवाक्येषु तत्त्वमात्रावबोधतः ।  
+सद्दः पुमर्थसंसिद्धेः कार्यसिद्धिर्न वीक्ष्यते॥(587)  
+\*कुतूहलवतां तद्वन्निर्वृत्ताख्यानमात्रतः।  
+द्दृष्टा नराणां निश्शेषकृतूहलनिराक्रिया॥(588)  
+तदुदाहरति--किञ्चेति ।(584)मा भैषीरिति नियोगपरत्वं तत्रापि, इत्यत आह--मेति । स्रक्तत्त्वज्ञानादेव भयकम्पादिनिवृत्तिसिद्धेरिति हेतुमाह---स्रगिति । (585)नियोगविषये धात्वर्थे विधियज्ञानोत्तरकालप्रवृत्ते(ति)(र्नि)योगफलस्याभावाच्च पुत्रस्ते जातः इत्यादौ न नियोगः, इत्याह--न्याय्य इति । (586)लौकिकवाक्यानां वस्तुनि पुमर्थपर्यवसायानां द्दृष्टत्वेऽपि न वेदनान्तानां तथात्वम्, कार्यमन्तरेण वेदे फलादर्शनात् ,अत्राह--इह त्विति । (587)वेदान्तानामकार्यपराणामेव सुखसाक्षात्कारफलत्वे लौकिकवाक्यमुदाहृत्य, दुःखनिवृत्तिफलत्वेऽप्युदाहरति--कुतूहलेति । देशान्तरगतबन्धुविषयकुतूहलवतामित्यर्थः ।(588)  
+वस्तुमात्रावसायित्वात् तद्वचांसि न कानिचित् ।  
+उपादानाय वालं स्युर्नापि हानाय तद्विदः ॥(589)  
+यत्रापि च प्रतीयेते हानादाने वचः श्रवात् ।  
+अयं चोराकुलः पन्था देशोऽयं निधिमानिति ॥(590)  
+तत्रापि नैव शब्दस्य व्यापारः सिद्धवेदनात् ।  
+कृतार्थत्वान्नरस्यापि रागादेव प्रवृत्तितः ॥(591)  
+कामैकपाशाकृष्टः सन्निच्छयैव प्रवर्तते ।  
+निवर्तते च तद्द्द्वेषान्न शब्दव्यापृतेर्नरः ॥(592)  
+नन्वप्रयुक्तमप्येतत् वक्त्रा वाक्यं विवक्षितम् ।  
+न गन्तव्यं पथानेन गृहाणेमं निधिं तथा ॥(593)  
+प्रवृत्तिनिवृत्तिफलत्वादाख्यानमपि विधिपर्यवसितम्, अत्राह--वस्तुमात्रेति ।(589)तस्करप्रतिरुद्धोऽयं मार्गः, (वि)(नि)धिमानेष भूभागः इत्यादिवाक्यश्रवणानन्तरं प्रवृत्त्यादिदर्शनात् पुत्रस्ते जातः इत्यादिवाक्यानामपि प्रवृत्तिनिवृत्त्योरन्यतरपरत्वमनुमीयते, इति शङ्कते---यत्रेति। (590)साध्यहीनं(न)(नि)दर्शनं, निध्यादिसंबन्धप्रतिपादकत्वेनोपक्षीणत्वाद्वाक्यस्य, इति दूषयति---नरस्येति ।(591)प्रवृत्ति(त्यादि)निवृत्त्यादि)लिङ्गेन विधिनिषेधफलत्वं तत्रानुमीयते, इत्यत आह--कामेति । विधिप्रतिषेधयोरश्रवणादिति भावः। (592)तयोरप्रयुक्त्वेऽपि वक्तुर्विवक्षितत्वात् तन्निष्ठं वाक्यम्, इति शङ्कते--नन्विति । (593)यस्य शब्दस्य यस्मिन्नर्थे शक्तिः स एव तस्यार्थः, न विवक्षितः, इति परिहरति--नेति । तादर्थ्यंशब्दार्थत्वमित्यर्थः।(594)भवद्भिरेवमभ्युपगमेऽपि विवक्षित एवास्माकं शब्दार्थः, अत्राह---भवद्भिरिति ।  
+नैवं न वक्त्रभिप्रायाच्छब्दार्थत्वं प्रकल्पते ।  
+शब्दसामर्थ्यतो यस्मात् तादर्थ्यं नान्यहेतुकम्॥(594)  
+भवद्भिरपि चैवैतदभ्युपेयं प्रयत्नतः ।  
+वक्तृतन्त्रे हि शब्दार्थे न विश्वासः श्रुतेर्भवेत् ॥(595)  
+नानाविधपुमर्थाप्तिरपि वक्तुः समीहिता ।  
+तस्या अपि त्वदुक्तयैवं शब्दार्थत्वं प्रसज्यते ॥(596)  
+प्रवृत्तिं वा निवृत्तिं वा यदाभिप्रेत्य चेतसा ।  
+किञ्चित् जिज्ञास्यते ज्ञात्रा प्रत्यक्षादिप्रमाणतः ॥(597)  
+अभिप्रेतापि न तदा प्रवृत्तिर्यदि वेतरा ।  
+प्रत्यक्षादिप्रमेयेति शक्या वक्तुं विपश्चिता ॥(598)  
+अपौरुषेयवैदिकशब्दात् विवक्षितार्थप्रतीत्ययोगादिति हेतुमाह--वक्त्रिति । लौकिकः शब्दो न विवक्षितगमकः, शब्दात्वात् बैदिकशब्दवत् । (595)विपक्षे बाधमाह--नानेति । (596)स (र्ते)(र्वे)शब्दाः वक्त्रभिप्रायगमकाः। ततः साध्यविक(ल्पो)(लो)द्दृष्टान्तः, अत्राह--प्रवृत्ति वेति ।यज्जिज्ञासा स्यात् तदेव प्रत्यक्षादिप्रमेयमित्यर्थः।(597)अभिसंहितप्रवृत्त्यादेरेव तत्रापि प्रमेयत्वं किं न स्यात्, अत्राह--अभिप्रतेति । प्रवृत्त्यादिना इन्द्रियादेः संबन्धाभावादित्यर्थः ।(598)शब्दो न विवक्षितगमकः प्रमाणत्वात् प्रत्यक्षवत् इति स्थिते, हेत्वन्तरमाह--इतश्चेति । निधिनानेष भूभागः इत्युक्ते विरक्तस्य हानबुद्धिर्जायते , क्लेशासहिष्णोरुपेक्षाबुद्धिः, कामकलुषितस्यादानबुद्धिरिति द्दृश्यमानं बुद्धिवैचित्र्यं प्रवृत्तेः शब्दार्थत्वं न स्यात्,  
+इतश्चाभ्युपगन्तव्यमेतत्तुल्येऽपि वस्तुनि ।  
+एकस्य हानधीस्तस्मिन्नुपादित्सा परस्य च ॥(599)  
+शब्दार्थत्वे हि सर्वेषामादानायैव धीर्भवेत्।  
+नोपेक्षायां प्रहाणे वा, न चानेकार्थता मता ॥(600)  
+न च प्रवर्तकत्वेऽपि वाक्यस्याङ्गीकृते त्वया।  
+\*शक्यो विधायिनोऽन्येषां पदानां वक्तुमन्वयः ॥(601)  
+किं स्वार्थमात्रनिष्ठत्वमुत कार्यैकनिष्ठता।  
+पदार्थमात्रसंसर्गपरता किन्न्वितीर्यताम्॥(602)  
+एकस्य शब्दस्यानेकार्थत्वस्य चायुक्तत्वादित्यर्थः ।(599-600)  
+ वाक्यं प्रवर्तकमेवेत्यभ्युपगमेऽपि नामपदार्थानां परस्परं संबन्धासिद्धिरिति  
+ दूषणम्  
+प्रवर्तकमेव वाक्यमिति न शक्यनियममित्युक्तम् । इदानीं नियमाभ्युपगमेऽपि नामपदार्थानां परस्परसंबन्धो विनियोगो न सिद्धयेत्, (अत्रा)(इत्या)ह--नचेति । (601)तत्प्रतिपादनाय विकल्पयति--किमिति। पदानां पदार्थमात्रे शक्तिः, उत कार्यान्विते, अन्यमात्रान्विते वेति विकल्पानार्थः ।(602)प्रथमं प्रत्याचष्टे --स्वार्थेति । पदानां पदार्थमात्रधीजननसामर्थ्ये श्रोतुः संसृष्टार्थधीः संसृष्टव्यवहारहेतुः न स्यात् । अतश्च प्रयोक्तुः प्रयोगार्थक्यमित्यर्थः । (603)मध्यमं बहुवक्तव्यमुल्लङ्ध्य अन्ते दोषमाह--पदार्थेति । शब्दावगतार्थधियः शाब्दात्वे अक्षावगतलिङ्गादिजबुद्धेरध्यक्षत्वापातात् प्रथमकल्पानुपपत्तौ, लाघवादन्विमात्रे सामर्थ्यस्वीकारे तव पक्षक्षतिरित्यर्थः।  
+स्वार्थमात्रावसायित्वे वाक्यार्थप्रत्ययः कुतः ।  
+वैयर्थ्यं च प्रयोगस्य व्यवाहाराक्षमत्वतः ॥(603)  
+पदार्थमात्रसंसर्गे कार्यार्थविरहेऽपि ते ।  
+व्यवहारस्य संसिद्धेः व्यर्था कार्यप्रकल्पना॥(604)  
+\*कार्यैकव्यतिषङ्गे च वाक्याद्भूतानुवादकात् ।  
+प्रतीतिः स्यान्न वाक्यार्थे स्यादुक्तेर्व्यर्थतापि च ॥(605)  
+व्यवहारस्य शाब्दस्येति शेषः।(604)द्वितीयं दूषयति ---कार्येति । कार्यान्विते शक्तिरिति पक्षे लिङादिपदशून्यात् भूतानुवादकात्---पुत्रस्ते जातः इत्यादि वाक्यात् वाक्यार्थप्रत्ययो न स्यात् । अतश्च प्रयोक्तुः प्रयोगस्यापि वैयर्थ्यमित्यर्थः। (605)विवादपदानि पदानि, न कार्यान्वितस्वार्थे नियतसामर्थ्यानि,पदत्वात् कार्यपदवत्, इति प्रयोक्तुं द्दृष्टान्तं साधयति---कार्यान्तरस्येति । गामानय दण्डेनेत्यादौ कार्यान्तराभावात् तदन्वितस्वार्थभिधायित्वायोगात् अर्थान्तरान्वितस्वार्थाभिधायकत्वानभ्युपगमे दण्डेनेत्यादिभिः संबन्धो न भवेत् । अतः कार्यपदन्वितमात्राभिधायीत्यर्थः।(606)  
+कार्यान्तरस्य चाभावात् कार्यैकार्थाभिधायिनः ।  
+\*संबन्धो न भवेदन्यैः साधनाद्दभिधायिभिः॥(606)  
+कार्यान्वयित्वे सर्वेषामपि चेह परस्परम् ।  
+पदार्थानासंबन्धोऽनपेक्षत्वाद्भवेद्ध्रुवम् ॥(607)  
+नियोगो न प्रतीयेत विशिष्टविषयस्तथा ।  
+तदा चैकपदार्थस्य नियोगः साध्यतामियात् ॥(608)  
+अथ सोमादिसंबद्धे यागादौ विषये मतः ।  
+नियोगः, कस्ततः पूर्वं संबन्धे हेतुरुच्यताम् ॥(609)  
+विपक्षे बाधमभिधत्ते ---कार्यान्वयित्व इति । अनपेक्षत्वात्--कार्यसंबन्धेनैव चरितार्थत्वादित्यर्थः ।(607)तेषां परस्परानन्वयेऽपि कार्यसंसृष्टे पदशक्तिरित्यस्मद्राद्धान्तसिद्धिः, अत आह--नियोग इति । सोमेन यजेतेत्यत्र सोमसाध्ये यागे नियोगधीर्न स्यात् । एकपदार्थसाध्यश्च नियोगः स्यात् सोमेन यागेन वेति । तदुभयमप्यनिष्टमित्यर्थः ।(608)सोमसाध्यधात्वर्थविषयत्वं नियोगस्यानुभूयते इति प्रतीतिमाश्रित्य शङ्कते--अथेति । नियोगानुरागात्प्रागेव सोमयागयोः संसर्गे हेतुं पृच्छति--क इति । (609)सोमयागयोरसिद्धे सं(बोधे)(बन्धे)नियोगोऽस्तु,नेत्याह--सिद्ध इति । असतीति पदच्छेदः । विशिष्टे विषये सिद्धे--प्रतीते असति निर्विषयो नियोगो न प्रतीयेतेत्यर्थः ।प्रागन्वये हेतुं शङ्कते----अथेति । क्रियैव संबन्धे हेतुरिति शेषः ।  
+सिद्धेऽसति विशिष्टे न विषये कार्यमिष्यते ।  
+अथ क्रियैव प्राक्कार्यात् सिद्धं नो यत्समीहितम् ॥(610)  
+तदेतरत्तदर्थमित्येवं चैतत्समञ्जसम् ।  
+विषये यदि कार्यत्वं कार्यावगमपूर्वकम्॥(611)  
+कार्ये कार्यान्तराभावात् कार्यबुद्धिः कुतो भवेत् ।  
+तदभावादनुष्ठेयो विषयोऽपि न ते भवेत् ॥(612)  
+अन्वितमात्रे शक्तिरिति एवं सति स्यात्, इति दूषयति--सिद्धमिति।(610)अत्र शाबरं भाष्यं ज्ञापकमाह--तदेति । प्रतिपदाधिकरणे किं सर्वेषां पदार्थानां प्रत्येकं नियोगेनान्वयः, उतैकेनैव नियोगेन इति सन्देहे, प्रत्येकमिति पूर्वपक्षयित्वा, यदैकस्मादपूर्वं तदेतरत्तदर्थं स्यादिति सिद्धान्तितं संगतं स्यादित्यर्थः ।  
+ विषयकर्तव्यत्वं नियोगाधीनमित्यस्य दूषणम्  
+'तस्यात्कर्तव्यतावेशात्'(वा.575)(अन्य)(इत्य)त्र विषयकर्तव्यत्वं नियोगाधीनमित्युक्तं दूषयति--विषय इति ।यागादौ कार्यत्वं कार्यसंसर्गाधीनं चेत्, अविशेषात् कार्ये(धि)(पि)कार्यत्वं कार्यान्तरायतं स्यात् । तदभावात् न कार्यत्वसिद्धिरित्यर्थः । ततो वा किम्, तत्राह--तदभावादिति । (611-612)कार्यार्थता--नियोगसिद्धयर्थता यागादेरिष्टा न सिद्धयेदित्यर्थः ।  
+कार्यार्थता ततश्चेष्टा हीयेतानुष्ठितिं विना।  
+अथ कार्यान्तराभावेऽप्यस्य कार्यत्वमिष्यते ॥(613)  
+विषयस्यापि कार्यत्वं स्वत एव भवेत्तथा ।  
+विषयोऽकार्यरुपत्वात् स्वसिद्धयै यद्दपेक्षते ॥(614)  
+कार्यं, तदपि विषयमीक्षताकार्यरुपतः ।  
+कार्येऽपि कार्यतैवं च भवेद्विषयहेतुका ॥(615)  
+अन्योन्याश्रयता च स्यात् न च कार्यप्रधानता ।  
+पुंव्यापारव्यपेक्षायां स्वसिद्धौ कार्यमुच्यते ॥(616)  
+नियोगस्य स्वतः कार्यत्वान्नोक्तदोषः इत्याह--अथेति । (613)(नियो)(या)गस्यापि स्वतः कार्यत्वसंभवात् नियोगकल्पना व्यर्था, इति दूषयति--विषयस्यति । क्लेशात्मकस्य कर्मणः(अ)कार्यत्वान्नियोगाधीनं कार्यत्वम्, इति शङ्कते ---विषय इति । दूषयति---तदपीति । तत् ---कार्यमपि नियोगाख्यं, विषयमपेक्षेत । तमन्तरेणासाध्यरुपत्वादित्यर्थः । फलितमाह--कार्येऽपीति । (614-615)तत्रापि किं दूषणम्, अत्राह--अन्योन्येति । नियोगस्य कार्यत्वे सति विषयस्य कार्यत्वं ततश्च नियोगस्य कार्यत्वात् इतरेतराश्रयः स्यात्, नियोगस्य धात्वर्तकार्यत्वसिद्धयर्थत्वात्‌ प्राधान्यं च न स्यादित्यर्थः ।  
+ यागस्यैव कार्यत्वमिति निरुपणम्  
+एवं यागनियोगयोः साम्यमापाद्द, यागस्यैव कार्यत्वं वक्तुमुपक्रमते
+---पुंव्यापारेति । स्वोत्पत्तौ पुंव्यापारमपे(क्ष्ययस्म)(क्षते य)त्, तत् कार्यं कृतिसाध्यं कार्यमुच्यते इत्यर्थः। (616)साक्षात् कृतिसाध्यत्वं यागेऽतिव्यापकं, परम्परया तत् स्वर्गे (प्रति)(पि)गतम्, इत्याह--यागेति । एवं कार्यस्या(पि)तिव्याप्तिमुक्तत्वा असंभवमाह--नो कार्यमिति । तदुपपादयति
+--स्वत इति । कृतिगोचरोपाधिकं (स्वं)नियोगकार्यत्वमित्युपगमे घटादिवन्मानान्तरगोचरत्वापत्तरित्यर्थः ।  
+यागादिः स च, नो कार्यं स्वतः कार्यैकरुपतः ।  
+कार्यस्यैव न कार्यत्वमकार्ये कार्यतेष्यते॥(617)  
+न शौक्ल्ये शुक्लतापत्तिः पटादेः सा विधीयते ।  
+घटकार्ययजत्यादि स्वस्वभावतया स्थितम्॥(618)  
+सिद्धसाध्यादिभेदेन स्वशब्देनाभिधीयते ।  
+यदा, तदा ध्वनेर्न स्यादज्ञातार्थावबोधने ।  
+विशेषः कश्चिदित्येवं न प्रवृत्तिर्विधेर्भवेत् ॥(619)  
+स्यात् तर्हि नियोगस्यस्वत एव कार्यत्वम्, अत्राह--कार्यस्येति। (617)कार्यत्वाधिकरणं नियोगः, कार्यत्वमेव वा । आद्दे, न तस्य शक्तिप्रतियोगित्वं, आकृतेरेव शब्दार्थत्वात् । द्वितीये, न तत्र कार्यत्वमनवस्थानात् । यथा शौक्लयस्य न शुक्लता, किं तु पटादेरेव सा । अतश्च 'कर्तव्यतावेशात् 'इत्यस्य निरस्तत्वात् अन्वितमात्रे शक्तिः परिशिष्यते इत्यर्थः । अन्वितमात्रस्य शक्तिप्रतियोगित्वफलमाह--घटेति । घटनियोगकार्यक्रियागुणाः स्वरुपेण निष्पन्नः, द्रव्यकार्यचलनापरिस्पन्दजातिमात्राश्रितरुपेण स्थिताः स्ववाचकशब्दैः योग्यान्विता अभिधीयन्ते यदा, तदा ध्वनेः--शब्दस्य अनवगत(संगति)प्रतिपादने विशेषाभावात् न नियोगाधीना प्रवृत्तिरित्यर्थः । (618-619)आकस्मिकी तर्हि प्रवृत्तिः स्यात्, अत्राह--अवबुद्धे त्विति । न शब्दः प्रवर्तको न नियोगः ।  
+अवबुद्धे तु शब्दार्थे पुरुषार्थानुरोधतः ।  
+स्वत एव प्रवृत्तिः स्यात्, न शब्दान्नार्थतस्तथा ॥\*(620)  
+\*साधनादित्रयाद् बाह्यं पुरुषार्थाद् बहिष्कृतम् ।  
+क एतत्साधयेद्वीमान्, किं च रुपमितीर्यताम्॥(621)  
+न तावत्प्रेरणा कार्यं, कार्यार्थविषया हि सा ।  
+नान्तरोऽपि प्रयत्नः स्यात् मानान्तरगतेस्तथा ॥(622)  
+राग एव प्रवर्तक इत्यर्थः ।(620)कृतिसाध्यत्वं नियोगस्य नास्तीति यदुक्तं प्राक्, तत् साधयति --साधनेति । यागादि साधनं, प्रयाजादि इतिकर्तव्यं, स्वर्गादि फलम्। एतत्तयव्यतिरिक्तं कः प्रेक्षावान् साधयेत् । फलबाह्यत्वं स्पष्टयति ---पुरुषार्थादिति । इष्टानिष्टप्राप्तिपरिहारव्यतिरिक्त इत्यर्थः ।  
+ नियोगस्परुपनिरासः  
+प्रेरणा नियोगः, प्रयत्नः, क्रिया वा, फलं वा, कारकं वा, अन्यदेव वा, कालत्रयासंसृष्टत्वेन वाच्यो वा, अतीन्द्रियो वा कोऽपि, इति विकल्पयति
+--किं चेति । (621)आद्दं दूषयति--नेति । प्रवर्तकविषयशब्दव्यापारस्य प्रेरणात्वात् न प्रवृत्तिहेतुकार्यत्वमित्यर्थः । द्वितीयं दूषयति--नान्तरोऽपीति । लिङादिश्रवणानन्तरं स्वस्थावस्थातः प्रच्युतिरुपप्रयत्नस्य मानसप्रत्यक्षत्वादपूर्वकार्यत्वानुपपत्तेरित्यर्थः ।(622)तृतीयं निरस्यति--नेति । क्रियायाः कर्त्रन्वयित्वात्, नियोगस्य नियोज्यान्वयित्वादित्यर्थः ।तुरीयं निरोकरोति ---फलमिति । सुखदुःखप्राप्तिपरिहारान्यत्वादित्यर्थः । पञ्चमं पराचष्टे ---कारकमिति । नियोगस्यासिद्धत्वात् सिद्धस्यैव कारकत्वादित्यर्थः । षष्ठं वि(द्द)(घट)यति--नापीति । मानाभावादित्यर्थः ।(623)सप्तमं निरस्यति--न चेति । हेतुमाह--घटेति । घट इत्युक्ते कालत्रयस्यास्पृष्टो घटो भाति । इतरथा घटोऽस्तीत्यादौ लडाद्दर्थस्य द्विरभिधानप्रसङ्गात् । अतो घटे कार्यता मा भूत् । तत्रातिव्याप्तिरिति भावः ।(624)अन्त्यं घातयति--नियोगोऽपीति । व्यापारातिरिक्तस्य दूषितत्वात् पारिशेष्यात् नियोज्यव्यापारः स इति शरीरचेष्टान्तरवत् प्रत्यक्षत्वमित्यर्थः ।  
+ नियोगसिद्धिनिरासः  
+एवं नियोगस्वरुपं निराकृत्य, तदुत्प(त्ति)(त्तिं)कारणाभावेन निराकरोतिसिद्धिरिति। (625)अनुष्ठितो धात्वर्थो नियोगसाधकः,इति शङ्कते--सिद्धिरिति । कालत्रयास्पृष्टः अनारोप्यस्वभावो नियोगः न कर्मसाध्यः, इति दूषयति--नेति । आप्युत्पत्तिविकारसंस्कारा न नियोगस्य कर्मसाध्याः ।  
+सिद्धिर्विषयसिद्धौ चेन्नैवं स्यात्कर्मणा न हि ।  
+आप्त्युत्पत्त्यादिकं शक्यमनारोप्यस्वभावतः॥(626)  
+कार्यं स्वेनात्मना सिद्धं पुमर्थं साधयेद्ददि ।  
+सर्वदा तस्य ताद्दृक्त्वात् पुमर्थः सर्वदा भवेत् ॥(627)  
+पुंव्यापारप्रसिद्धयाथ सिद्धं स्वार्थकरं मतम्।  
+तस्यानाधेयरुपत्वान्न कदाचित् फलं भवेत् ॥(628)  
+\*संभाव्यमासिद्धेर्हि यागादेः कार्यता मता ।  
+व्योमतत्पुष्पयोर्न स्यात् सिद्धात्यन्ताप्रसिद्धयोः ॥(629)  
+तस्या अनारोप्यस्वभावतः ---अनाधेयादिशयत्वेन स्वीकारादित्यर्थः ।(626)  
+ नियोगस्य स्वर्गादिसाधकत्वनिरासः  
+एवं नियोगस्य सिद्धिं स्वरुपंच निराकृत्य, स्वर्गादिसाधकत्वं निराकर्तुमुपक्रमते । कार्यं स्वतः सिद्धं स्वर्गादिसाधकं, किं वा पुरुषव्यापाराल्लब्धरुपम्। आद्दं दूषयति---कार्यमिति । स्वरुपेण सिद्धेरनन्यापेक्षत्वेन सदैकरुपत्वादित्यर्थः।(627)द्वितीयमनुवदति
+--पुंव्यापारेति । दूषयति--तस्येति । कालत्रयेऽपि तस्य विशेषाभावात् पुंव्यापारादसिद्धे(न)(र्न)कदा(चे)(चि)त् फलं स्यादित्यर्थः । (628) नियोगस्य निर्विशेषत्वात् नित्यसत्वासत्वयोरन्यतरस्वीकारे जन्मासंभवं व्यतिरेकद्दृष्टान्तेनाह--संभाव्यमानेति । प्रागभावप्रयियोगिन इति यावत् । संप्रति साधर्म्यद्दृष्टान्तमाह--व्योमेति ।(629)यागादेरपि न कार्यं स्वरुपं, यागः कर्तव्यः, दानं कर्तव्यमिति ततो भेदप्रतीतेः। अतोऽपूर्वमेव कार्यम्, इत्याशङ्कयाह--कर्तव्य इति ।(630)  
+कर्तव्यो याग इत्येवं यागाद्भिन्ना यथेक्ष्यते ।  
+कर्तव्यं कार्यमित्येवं ततोऽपि व्यतिरिच्यते॥(630)  
+\*कार्यकर्तव्यता कार्येत्येवमेवातिरिच्यते ।  
+तस्मान्न वस्तुधर्मोऽयं शब्दादेव प्रकर्षतः ॥(631)  
+अतो यदेव साध्यार्थसाधनत्वेन गम्यते ।  
+वेदात्तदेव साधयत्वात्कार्यं, नान्यत्ततः पृथक्॥(632)  
+कार्यं कर्तव्यमिति भेदावगमात् कर्तव्यताया नियोगत्वाभावेऽपि तद्धर्मत्वमस्ति, इत्यत्राह--कार्यकर्तव्यमिति । तस्याश्च प्रागिवातिरेकोऽनवस्था चेत्यर्थः । यदि कार्यकर्तव्यतायाः कार्यता नेष्यते, तत्राह--तस्मादिति । यत्र कर्तव्यता नास्ति तदकार्यमेवाकाशवत्। अतो यागः कर्तव्यो दानं कर्तव्यमिति, शशश्रृङ्गं, गगनकुसुममितिवत् शाब्दविकल्पमात्रमित्यर्थः ।(631)  
+ स्वमतेन कार्यस्वरुपनिरुपणं, स्वर्गसाधकनियोगासिद्धिश्च  
+तस्मात् कृतियोग्येष्टसाधनं चिकीर्षागोचरः कार्यमिति स्वमतमुपसंहरति---अत इति । नान्यत् पृथक्--अन्योन्याभा (वात्)(ववत्) पृथक्त्वगुणवद्वेत्यर्थः ।(632)यागजन्यस्वर्गसाधकनियोगे प्रमाणाभावाच्च तदसिद्धिः, इत्याह--लिङादिरिति।प्रेरणा --शब्दभावना।  
+लिङादिः प्रेरणावाची कुतः कार्यमितीर्यताम्।  
+विषयत्वेन नाक्षेपो भावार्थो विषयो मतः ॥(633)  
+प्रेरणापीह नैव स्यादज्ञादज्ञापनात्पृथक् ।  
+समस्तकार्यदोषोक्तिप्रसङ्गात् मित्यभावतः ॥(634)  
+न स्वरुपं लिङादीनां प्रेरणाज्ञापकत्वतः ।  
+अन्योन्यरुपभेदेऽपि प्रेरणानुगमात्तथा ॥(635)  
+तत्र प्रमाणं लिङादि, न नियोगः इत्यर्थः । प्रेरणा पुरुषप्रवृत्तिं क्वापि विषये पुरुषं प्रवर्तयतीति विषयत्वेन नियोगाक्षेपः, अत्राह--विषयत्वेनेति । (633)  
+ शब्दभावनायाः लिङर्थतानिरासः  
+भावनाया लिङाद्दर्थत्वे सिद्धान्तविरोधः, अत्राह--प्रेरणापीति । अङ्गीकारमात्रेणोक्तमित्यर्थः । कुत एतत्, अत्राह--समस्तेति । 'साधनादित्रयाशब्दव्यापारो हि शब्दभानवना । न च शब्द(स्य)परिस्पन्दः परिणानो वास्ति, अमूर्तत्वात् विभुत्वात् । नापि प्रयत्नः, अचेतनत्वादित्यर्थः। (634)किञ्च लिङादेः स्वरुपं वा प्रेरणा, शक्तिर्वा, शक्तिव्यापारो वा, प्रेरकपुरुषव्यापारो वा । न प्रथमः इत्याह--नेति । लिङादे- भावनावाचकत्वात्, यजेत, जुहुयात् इत्येवं लिङादीनां रुपभेदेऽपि भावनाया एकरुपत्वाच्चेत्यर्थः ।(635)द्वितीयं दूषयति --शक्तेरिति । प्रेरणाया लिङादिवाच्यत्वोपगमात् शक्तिशक्तिमतोरभेदात् वाच्यवाचकभावासंभवादिति भावः ।  
+\*शक्तेरनभिधेयत्वात् तदव्यापारोऽपि नेष्यते ।  
+प्रेरकाभावतो वेदे तद्वयापारोऽपि नेरणा ॥(636)  
+अतः समीहितोपायतया वस्त्ववबोधयन्।  
+अबुद्धं प्रेरको वेदो ज्ञापना प्रेरणा मता॥(637)  
+तथा च वस्तुयाथात्म्यज्ञापनेन प्रमाणता ।  
+न प्रेरकतया सा स्यात् प्रत्यक्षादेरनीक्षणात् ॥(638)  
+तृतीयं निरस्यति---तदिति । अनङ्गीकरणादित्यर्थः ।चरमं पराचष्टे--प्रेरकेति ।(636)  
+ स्वमतेन, इष्टसाधनता लिङर्थः इति निरुपणम्  
+कथं तर्हि लिङादेर्विधित्वम्, अत आह--अतः समीहितेति । (637)भावनायामिव, वेदस्याज्ञातज्ञापकत्वे(न)प्रामाण्येऽपि प्रमाणं नास्यत्येव, इत्यत्राह--तथा चेति । वेदः अबुद्धबोधकत्वेनैव प्रमाणं, प्रमाणत्वात् प्रत्यक्षादिवदित्यर्थः । (638)यागादेरिष्टसाधनत्वं लिङाद्दर्थश्चेत्, क्रियानन्तरं तृप्त्यादिवत् फलं स्यात् तदनुपलम्भात् अन्यदेव लिङादिवाच्यम्, अत्राह--निष्पादितेति । यथा गुरुमते यागानुष्ठानादुत्पादितनियोग(त्व)स्य कामादिवाक्यप्रामाण्यात् फलं नियतम्, तथा(ग)कृतयागस्यापि वेदप्रामाण्यादेव फलमीश्वरप्रसादादिद्वारकं नियतमित्यर्थः ।  
+निष्पादितनियोगस्य वेदप्रामाण्यतो यथा ।  
+नियमेन फलं तद्वत् साधनानुष्ठितेर्भवेत्॥(639)  
+\*विसंवादोऽपि नाशङ्कयः नियोगार्थे यथा तथा ।  
+वैदिकत्वादुपायेऽपि, नृपतन्त्रे व्यभिचारिता ॥(640)  
+\*नानन्तरफलो यागो द्दृष्टो लोकेऽपि हि क्वचित् ।  
+अतः सामान्यतोद्दृष्टं क्रियात्वादित्यदूषणम्॥(641)  
+(639)नियोगस्याक्रियात्मनः अनन्तरफलत्वाभावेऽपि यागादेः क्रियात्वात् मर्दनव(द)नन्तरफलेन भवितव्यम् । तददर्शना्त प्रत्यक्षादिविसंवादात् आगमस्याप्रामाण्यम्, अत्राह--विसंवादोऽपीति । उपायत्वस्यवेद प्रमितत्वादित्यर्थः ।(640)धात्वर्थहितसाधनत्वबोधकवेदप्रामाण्यस्यैवाक्षिप्तत्वात्,वैदिकत्वादिति कथमुच्यते, अत्राह--नानन्तरेति ।अत्र यागशब्देन क्रियोच्यते । लोकेऽपि क्रिया अनन्तरफला नियमेन न द्दृष्टा, सेवादौ व्यभीचारादित्यर्थः। फलितमाह
+---अत इति । (641)साध्यसाधनसंबन्धबोध(क)(न)परं लिङादिपतं न नियोगबोध(क)मित्युक्तम्।  
+\*स्वसामर्थ्याद्दथा कार्यं कालास्पृष्टं प्रभाषते ।  
+लिङादिः, यागमप्येवं वक्ष्यतीत्यविशिष्टता ।(642)  
+साक्षादेवं च संबन्धः साध्यसाधनयोर्भवेत् ।  
+\*नातिरिक्तलिङाद्दर्थव्यवधानविलम्बना॥(643)  
+साक्षादसति संबन्धे पारम्पर्यं न तु क्वचित् ।  
+गतौ सत्यां तदप्यत्र नान्यत्रेवोपलभ्यते ॥(644)  
+तत्र संबन्धस्य कालत्रयसंबन्धात् आसीत्, अस्ति, भविष्यतीति प्रत्ययो भवेत्, अत्राह--स्वसामर्थ्यादिति । (642)  
+ हितसाधनत्वस्य लिङाद्दर्थत्वे युक्तयन्तरमाह--साक्षादिति । यागस्वर्गयोरव्यवहितसंबन्धसिद्धिः। नियोगस्य लिङाद्दर्थत्वे तेन यागस्वर्गयोः व्यवधानरुपविलम्बना स्यात् । सा न युक्ता गौरवादित्यर्थः ।(643)अरुणादिगुणानां द्रव्यव्यवधानेन (क्रि)(क्र)यभावनायां संबन्धवत् (यागसंबन्धवत्)यागस्वर्गयोरपि नियोगव्यवहितसंबन्धः किं न स्यात्, अत्राह--साक्षादसतीति । अव्यवधानसंबन्धाभावे पारम्पर्यं, न तु सति । तच्च पारम्पर्यं स्वर्गकामो यजेतेत्यत्र न युक्त(व)(म)रुणादाविवेत्यर्थः।(644)व्यतिरेके द्दृष्टान्तं स्पष्टयति---श्रुत्येति । अरुणया क्रीणातीति तृतीयाश्रुत्या अरुणो गुणः क्रियायां विनियुक्तोऽपि पशुद्रव्यं विशेष्यैव सोमक्रयस्य साधकः, गुणस्यास्वतन्त्रत्वात्। अन्यथा केवलस्यगुणस्य साधकत्वायोगात् वृथा स्यादित्यर्थः ।(645)  
+श्रुत्या क्रयाभिसंबन्धो व्यवच्छिद्दैव साधनम्।  
+अरुणः साधको द्दृष्टो नानपेक्षो वृथा च सः ॥(645)  
+यागः कार्याभिसंबन्धोऽप्यनुत्पाद्द फलं न ते ।  
+कथंचित् साधयेत् कार्यं तच्च नास्तीत्यसाधकः॥(646)  
+\*न वान्या व्यापृतिस्तस्य कार्यसिद्धयै त्वयेष्यते ।  
+फलानुत्पत्तितः तस्मान्न कार्येणापि संगतिः ॥(647)  
+अथ शास्त्रप्रमाणत्वादद्दृष्टाप्यभ्युपेयते ।  
+फलोत्पत्तिः ममाप्येवं तथा सति भविष्यति ॥(648)  
+क्षणिकस्य कर्मणः कालान्तरीयफलसाधनत्वसिद्धये मध्यवर्ति किमपि त्वयापि स्वीकार्यम्। अतो नियोग एव किं न स्यात्, अत्राह--याग इति । स्वर्गादिफलमनुत्पाद्द नियोगं न साधयेत् । स्वर्गादेरद्दृष्टत्वात्, अनुष्ठितोऽपि न यागः स्वर्गनियोगयोः साधकः स्यादित्यर्थः। (646)फलमनुत्पाद्दैव व्यापारान्तरेण नियोगं(न)साधयेत्, इत्यत्राह--नवेति । क्षणिकस्य कर्मणो विरम्य व्यापारायोगात् फलजनकव्यापारेणैव नियोगजनकत्वमिष्यते । फलं च न द्दृश्यते। अतः स्वर्गस्यासाधकत्वात् न कार्येणापि यागः साधकत्वेन संबध्यते इत्यर्थः ।(647)यागोऽन्त(र)मेव स्वर्गादिफलमद्दृष्ट रुपमारभते स्वर्गकामादिवाक्यप्रामाण्यात्, इति शङ्कते--अथेति । समाधिसाम्यमाह--ममेति । अतो नानन्तरफलादर्शनात् विसंवादाशङ्केत्यर्थः ।(648) एवं साम्यमापाद्द, स्वपक्षे विशेषमाह--मम शास्त्रेति । आनन्तर्यानियमात् मम कालान्तरेऽपि फलं स्यात्।  
+मम शास्त्रप्रमाणत्वात् पश्चादपि भवेत्फलम्।  
+\*पूर्वं तु भवतो न्याय्यं तदभावे ह्यसाधकम्॥(649)  
+कार्यसिद्धया फलावाप्तावशेषफलसंभवः।  
+सकृत करण एव स्यात् कार्यस्याभेदतस्तव ॥(650)  
+अनुबन्धाभिसंबन्धात् फलं चेत्स्याद्दवस्थया ।  
+तत एव न कार्यात्स्यात् तदा तद्भावभावतः ॥(651)  
+औपाधिकश्च मिथ्या स्यात् साध्यसाधनलक्षणः ।  
+(ननु)(तव तु)स्वर्गमुत्पाद्दैव यागोऽपूर्वं साधयेदिति तदभावात्, असाधकं
+--साध(म)(न)हीनम्, अपूर्वं स्यादित्यर्थः ।(649)नियोगस्य धात्वर्थसाध्यत्वेऽपि, किमेक एव नियोगो यागदानादिसाध्यः, किं वा प्रतिधात्वर्थमनुबन्धभेदात् तद्भेदः । प्रथमं प्रत्याह--कार्येति । (650)द्वितीयमनुवदति--अनुबन्धेति । नियोगभेदादिति शेषः । दूषयति--तत एवेति । यतो नियोगभेदः,तत एव फलं स्यादिति नियोगो वृथेत्यर्थः । (651)भेदस्यौपाधिकत्वे अनिष्टान्तरमाह--औपाधिकश्चेति ।  
+व्यवहारः श्रुतेर्ज्ञातः परमार्थैकवादिनः॥(652)  
+एवं ते कर्मकाण्डेऽपि कार्यं तावन्न युज्यते ।  
+ऐकात्म्ये तु यथा नास्ति विशेषेणोच्यते तथा ॥(653)  
+प्रतिपत्तिविधिस्तावन्नात्मा द्रष्टव्य इत्ययम्।  
+तस्य भावार्थनिष्ठत्वात् वस्तुन्यनुपपत्तितः ॥(654)  
+सिद्धेऽसिद्धेऽथवैकात्म्ये विधिर्नैवोपपद्दते ।  
+नाकाशे नापि तत्पुष्पे पुंव्यापारानपेक्षता॥(655)  
+न विधिर्दर्शनेऽपि स्यादन्योन्याश्रयदोषतः ।  
+दर्शनाद्विधिसंसिद्धेः विधेर्दर्शनसिद्धितः ॥(656)  
+उपहितस्य स्फटिकलौहित्यवत् मिथ्यात्वात् मिथ्यानियोगसाध्यः स्वर्गादिरपि मिथ्यैव स्यादित्यर्थः ।(652)  
+ कर्मकाण्डेऽपि नियोगायोगनिरुपणानन्तरं, विशिष्य ज्ञानकाण्डे नियोगायोगप्रतिपादनम्  
+ पूर्वोत्तरवादयोः स्वयमेव वृत्तानुवादपूर्वकं संबन्धमाह--एवमिति । (653)आत्मा द्रष्टव्य इति किमात्मनि वि((धः)(धिः)तद्दर्शने वा । नाद्द इत्याह--प्रतिपत्तीति । विषयः प्रतिपत्तिशब्देन लक्ष्यते। विधेः क्रियाविषयित्वादित्यर्थः । (654)अनुपपत्तिं स्फोरयति--सिद्ध इति । आकाशवत् नित्यसत्वे, खपुष्पवत् नित्यासत्वेऽपि न विधिरित्यर्थः ।(655)द्वितीयं दूषयति--न विधिरिति । ब्रह्मज्ञानस्य विधेयत्वे, नागृही(त)विशेषणा विशेष्ये बुद्धिरिति न्यायात् ब्रह्म प्रतिपन्नमुपेतव्यम्। एवं च ब्रह्मज्ञाने उत्पन्ने विधिः, विधितस्तदुत्पत्तिरिति इतरेतराश्रयादित्यर्थः ।(656)  
+न च यूपादिवच्छक्यं वेदेनैव समर्पणम्।  
+ऐकात्म्यस्य स्वतः सिद्धेः साध्यत्वाद्दूपवस्तुनः ॥(657)  
+सिद्धं चेद्दर्शयेद्वेदः प्रसिद्धं दर्शनं तथा ।  
+तन्निष्ठं च भवेद्वाक्यं व्यर्थता च विधेस्तदा॥(658)  
+सर्वमात्मेति वाक्यस्य न च वस्तुन्यसंभवः ।  
+\*येनार्थस्यासमाप्तत्वात् क्रियेताध्याहृतिः पदे॥(659)  
+आत्मा ब्रह्मेति विज्ञानं विधिं नैव व्यपेक्षते ।  
+यस्मात्तत् श्रुतवाक्यस्य स्वयमेवोपजायते॥(660)  
+वस्तुनो विधेयत्वं न संभवतीति यदुक्तं, तदयुक्तम्, यूपादेर्विधेयत्वेन समर्प्यमाणत्वात्, सिद्धस्यापि विधिशेषत्वेन समर्पणे बाधकमाह--सिद्धं चेदिति । प्र(ति)सिद्धं दर्शनमिति । सिद्धोऽस्मत्पक्ष इत्यर्थः । विधिपरवाक्यात्सिद्धौ कथं त्वन्मतसिद्धिः, अत्राह--तन्निष्ठं चेति । उपक्रमादिलिङ्गादित्यर्थः । ज्ञाननियोगशेषत्वेन वस्तुनः समर्पणे कथं तन्निष्ठत्वम्, अत्राह--व्यर्थेति । (658)विधिविकलवाक्यस्याबोधकत्वात् विधिपदं वस्तुबोधकत्वसिद्धयर्थमध्याहार्य(स)(म,अ)तो न विधेर्यैवर्थ्यम्, अत्राह--सर्वमिति । (659)किञ्च विधिरपि ज्ञानोत्पत्त्यर्थं, उत्पन्न (श्च)(स्य)निश्चयफललाभार्थं वा, तात्पर्यार्थं वा, फलार्थं वा, ब्रह्मणोऽपूर्वत्वार्थं वा, पदार्थसंसर्गार्थं वा । नाद्दः इत्याह--आत्मेति । वाक्योदेवोत्पत्तिरित्यर्थः ।(660) अत्र द्दृष्टान्तमाह--यजेतेति । यागकर्तव्यताज्ञानं एतद्वाक्यव्यतिरेकेण न विध्यन्तरमीक्षते । विधिज्ञानस्य विध्यन्तरापेक्षत्वेऽनवस्थानात् ।नापीमं विधिम्, यागकर्तव्यतापरत्वादस्य।तस्मात् वाक्यादेव कर्तव्यताज्ञानम्।  
+यजेतेति विधिज्ञानं न विध्यन्तरमीक्षते ।  
+विध्यन्तरेऽनवस्था स्यान्न चायं कर्मणि स्थितेः ॥(661)  
+प्रतिपन्ने विधेयार्थे प्रवृत्तिः फलमिष्यते।  
+प्रवृतेश्च विधिज्ञानमेवमन्योन्यसंश्रयः ॥(662)  
+बोधेऽस्मिन् शब्दतो जाते न प्रवर्त्योऽफलत्वतः ।  
+अनुत्पन्ने च नितरां प्रवृत्तेर्हेत्वसंभवात् ॥(663)  
+अथ निश्चयसिद्धयर्थमुत्पन्नेऽपि प्रवर्त्यते ।  
+स निश्चयोः वः किं शब्दात् अथान्यस्मादितीर्यताम्॥(664)  
+एवं ब्रह्मज्ञानमपीत्यर्थः ।(661)इतश्च न ज्ञानोत्पत्तये विधिः,इत्याह--प्रतिपन्न इति । प्रवृत्तेः प्रागेव विधेयत्वमवगम्य प्रवृत्तिः विधिफलं विधितः प्रवृत्तस्य विधिविषयज्ञानावगतिरिति परस्पराश्रयः इत्यर्थः । पूर्वम् उत्पत्तावितरेतराश्रयत्वमुक्तम्। इदानीं प्रतीताविति भेदः ।(662)  
+ उत्पन्ने ज्ञाने विधिः, अनुत्पन्ने वा । नाद्दः इत्याह--बोधेऽस्मिन्निति। नेतरः, इत्याह--अनुत्पन्ने चेति । तरबर्थमाह--प्रवृत्तेरिति । प्रवृत्तिहेतोर्ज्ञानस्याभावादित्यर्थः ।(663)द्वितीयमनुवदति ---अथेति । दूषयितुं विकल्पयति--स इति । (664)प्रथमं प्रत्याह--शब्दादिति । विधियैवर्थ्यमेवापन्नमित्यर्थः । द्वितीयं दूषयति--अन्यस्मिन्निति ।  
+शब्दाद्ददि, तदेवेदमायातं पूर्वदूषणम्।  
+अन्यस्मिन्निष्यमाणे च सापेक्षत्वं प्रसज्यते ॥(665)  
+\*अविवक्षितनुत्त्यर्थमथात्र विधिरिष्यते ।  
+अयं ज्ञेयोऽर्थ इत्युक्तौ स्याद्विवक्षितधीर्यतः॥(666)  
+नैवमुत्सर्गतो यस्माच्छब्दानां लोकवेदयोः ।  
+विशिष्टार्थैकनिष्ठत्वं स्वतो, न विधिहेतुतः ॥(667)  
+अविशिष्टश्च वाक्यार्थस्तथा लौकिकवैदिक--।  
+वाक्ययोर्गम्यते यस्माद्विधिर्नातो विवक्षितः॥(668)  
+अपि द्दृष्टार्थतैकात्म्ये कर्मस्विव न भिद्दते ।  
+वेदाधीतिविधेस्तस्माद्विधिरत्र निरर्थकः ॥(669)  
+\*विधेर्विध्यन्तरेऽभीष्टे कृत्स्नोऽर्थोऽप्यविवक्षितः ।  
+पूर्वोक्तेनैव न्यायेन नैव कल्प्यो विधिस्ततः॥(670)  
+मानान्तरापेक्षत्वाद्वेदस्य स्वतः प्रामाण्यहानिरित्यर्थः । (665)विधिबलादर्थपरत्वं शब्दस्य, इति तृतीयं शङ्कते--अविवक्षितेति।(666)पदानामन्वितार्थपरत्वं विधिकृतं, वाक्यस्य वा । नाद्दः, इत्याह--नैवमिति । लोकवेदाधिकरणन्यायेन शब्दानामर्थशेषत्वं स्वारसिकमित्यर्थः ।(667)द्वितीयं दूषयति--अविशिष्टेश्चेति । 'अवशिष्टस्तु वाक्यार्थः '(पू.मी.1-2-40)इत्यादिना वाक्यमात्रस्य स्वार्थपरत्वं स्वसामर्थ्यकृतमित्युक्त्वात् न विधिकृतमित्यर्थः ।(668)किञ्च, विधिमात्रबलादर्थपरत्वं, अध्ययनविधिव्यतिरिक्तविधिबलाद्वा ।प्रथमं प्रत्याह--अपीति । द्दृष्टार्थता---अर्थधीभलतेत्यर्थः ।(669)द्वितीयमपवदति--विधेरिति ।तस्यापि विदितार्थत्वार्थं विध्यन्तरस्वीकारे, तस्यतस्याप्येवनवस्थानात् तस्यार्थपरत्वासिदौ वेदोऽप्यविवक्षितार्थः स्यादित्यर्थः ।निगमयति--पूर्वेति।  
+मतं पुमर्थसिद्धयर्थं ज्ञानस्य विधिरिष्यते ।  
+फलस्य विध्यधीनत्वादुपेक्षाफलतान्यथा ॥(671)  
+\*ज्ञेयव्याप्त्यतिरेकेण न विज्ञानात्फलान्तरम्।  
+\*इष्यते कर्मवत् नातस्तदर्थं विधिकल्पना॥(672)  
+यदापि मातरि फलं तदापि विधिनात्र किम्।  
+मातृमानप्रमेयादौ तत्सिद्धेर्विधिना विना ॥(673)  
+अथापि कार्यविरहात् सिद्धार्थमनुवादकम्।  
+वचो नैव प्रमाणं स्यात् तस्य मान्तरसंगतेः ॥(674)  
+'नैवमुत्सर्गतो यस्मात् '(वा.667)इत्युक्तन्यायेन विधिर्न कल्प्यते इत्यर्थः ।(670)तुरीयमनुपठति--मतमिति । विधिमन्तरेणा विवक्षितफलं ज्ञानं स्यादित्यर्थः ।(672)ज्ञानस्य प्राकट्यातिरिक्तं फलं कर्मण इव कालान्तरप्राप्यं नेष्टम्। तच्च जन्मनैव सिद्धम्, इति दूषयति---ज्ञेयेति । (672)केषांचित् भाट्टानां अर्थप्राकट्यमात्मगतमिति मतम्, तत्राप्याह--यदापीति । हेतुमाह--मातृमानेति । मानफलस्यानुभवस्य मातृमानमेयकर्तृक्रीयादिसाधकत्वेन स्वत (ए)वाभावा)(व भाना)दित्यर्थः ।(673)पञ्चममनुक्रामति---अथापीति । उक्तप्रकाचतुष्यासंभवेऽपि ज्ञाननियोगोऽङ्गीकार्यः ।  
+विध्यर्थाङ्गीकृतौ त्वेतदनपेक्षं प्रमाणताम्।  
+अश्नुते, मान्तराभावात् ज्योतिष्टोमादिवाक्यवत् ॥(675)  
+वस्तु मान्तरयोग्यं चेत् विधौ सत्यपि तत्तथा ।  
+अथ तन्मान्तरायोग्यं विध्यभावेऽपि तत्तथा ॥(676)  
+किं वाक्यस्यानुवादत्वं सिद्धेऽर्थे, मान्तरेण वा ।  
+मिते, तत्र न पूर्वस्मिन् सिद्धेऽप्यर्थेऽनुवादता ॥(677)  
+मानान्तरानधिगतं सिद्धं वस्त्ववबोधयत् ।  
+मानं किं नानपेक्षं स्यात् पुमर्थश्च स्वरुपतः॥(678)  
+अन्यथा केवलसिद्धस्य मानान्तरगोचरत्वात् तन्निष्ठवचसः अनुवादत्वं स्यादित्यर्थः ।(674)नियोगाङ्गीकारेऽपि सिद्धस्य मानान्तरयोग्यत्वादुक्तदोषतादवस्थ्यम्, अत्राह--विध्यर्थेति । नियोगस्य मान्तरागोचरत्वात् तत्संसृष्टत्वेन ब्रह्मणोऽपि अपूर्वत्वलाभ इत्यर्थः । (675)अनात्मत्वं मान्तरयोग्यत्वे प्रयोजकं न सिद्धत्वम्, इत्यभिसन्धाय दूषयति--वस्तिवति । स्वभावत्यागायोगात्। अन्यथा सिद्धसंबन्धात् नियोगस्य मान्तरगम्यत्वं स्यादित्यर्थः ।(676)  
+ सिद्धार्थवाक्यानामनुवादत्वनिराकरणेन प्रामाण्यनिरुपणम्  
+सिद्धार्थवचसोऽनुवादत्वं विकल्पयति दूषयितुम्---किमिति। विद्दमानबोधकमनुवादकम्, मानान्तरवगतबोधकं वेत्यर्थः । प्रथमं पराकरोति
+---तत्रेति । (677)एतदुपपादयति--मानान्तरेति । अनवगतपरिनिष्पन्नवस्तुगोचरप्रत्यक्षादेरिव वचसोऽपि प्रामाण्यमविरुद्धमिति भावः । वस्तुपरिच्छेदमात्रेण प्रामाण्यमितरप्रामाण्यवत् वाक्यस्य न युक्तं, पुमर्थपर्यवसान(स्या)(स्य) युक्तत्वात्, अत्राह--पुमर्थश्चेति । सुखसंविद्रूपत्वादात्मन इत्यर्थः ।(678)  
+पुंबुद्धिविषयो ह्यर्थो मानान्तरमपेक्षते।  
+अभावात्पुरुषस्येह न तु सिद्धोऽपि वैदिकः ॥(679)  
+न च सिद्धत्वमात्रेण शङ्कयते मान्तरं क्वचित्।  
+शङ्कयमानस्य मानस्य तुल्या सापेक्षता यतः ॥(680)  
+\*न च सापेक्षताप्यस्ति मितेर्मानत्वतः क्वचित्।  
+मान्तरानवबुद्धं हि बोधयन्मानमुच्यते॥(681)  
+मान्तरानपेक्षं चेत् मानं मेयं प्रबोधयेत् ।  
+मानमेव तदा तत्स्यात् नातोऽन्यन्मानलक्षणम्॥(682)  
+वस्तुमात्रपरवेदान्तवाक्यमनुवादकं, सिद्धमात्रबोधकवाक्यत्वात् सरित्तीरादिवाक्यवत्,अत्राह--पुंबुद्धीति । पुरुषप्रणीतवाक्यत्वमुपाधिरित्यर्थः ।(679)ब्रह्म मान्तरगम्ये, सिद्धत्वात् घटवत् इत्यनुमानात् मान्तरसापेक्षत्वम्, इत्यत्राह---नचेति । अन्यथा नियोगस्यापि ज्ञेयत्वेन लौकिकमानगम्यत्वप्रसङ्गादित्यर्थः । शङ्कामङ्गीकृत्याप्याह----शङ्क्यमानस्येति । तदपेक्षया शब्द एव किमित्यप्रमाणं, शब्दापेक्षया मानान्तरमेवाप्रमाणं किं न स्यादित्यर्थः ।(680)सापेक्षत्वमङ्गीकृत्योक्तम्। इदानीं मानान्तरापेक्षमानम् इत्येतदप्ययुक्तम्, इत्याह--नचेति । हेतुमाह--मा(ना)न्तरेति । (681)विद्दमानावेदकवेदस्य प्रामाण्यमेव नास्ति, इत्यत्राह--मानान्तरेति।  
+\*अथ मानान्तरापेक्षं मानं मेयावबोधकम्।  
+द्वयोरेकक्रियावेशात् तथाप्यन्यानपेक्षता ॥(683)  
+अथानधिगताभावादुत्तरस्याप्रमाणता ।  
+तत्सद्भावात्तु पूर्वस्य ज्ञानस्यास्तु प्रमाणता ॥(684)  
+मातोऽनधिगतत्वस्य सिद्धिः स्यादथावाऽन्यतः ।  
+स्वतो वा, ज्ञाततायाश्च कुतः सिद्धिरितीर्यताम्॥(685)  
+अज्ञातत्वस्य माव्याप्तेः पूर्वमेव प्रसिद्धितः ।  
+ततश्च मानतः सिद्धिः नाज्ञातत्वस्य कुत्रचित् ॥(686)  
+अज्ञातमैकात्म्यं बोधयद्वाक्यं मानमेव अनवगतावगन्तृत्वस्य मानलक्षणत्वादित्यर्थः ।(682)द्वितीयमनुवदति--अथेति । मानान्तरापेक्षं
+---अनुवादकम्। मेयावबोधकं ---प्रमितज्ञापकमित्यर्थः । शब्दतदितरमानयोः एकस्यां वस्तुबोधनक्रियायां व्यापृतत्वात् अनपेक्षत्वं तुल्यम्, इति परिहरति--द्वयोरिति । (683)पूर्वप्रमाणगृहीतज्ञापकः शब्दः, मानान्रानवगोचरं पूर्वप्रवृत्तप्रमाणमिति गोचरभेदात् एकक्रियावेशोऽसिद्धः, इति शङ्कते--अथेति ।(684)अनधिगतत्वस्य दुरधिगमत्वात् भवतां नायं विभागः, इति प्रतिपादनाय विकल्पयति---मात इति । मानव्यापारात् प्रागज्ञातत्वं भानसिद्धं, स्वयंप्रकाशं वा, अनुभवगम्यं वेत्यर्थः । ज्ञातत्वसाधकमे(व)(वा)ज्ञातत्वसाधकं, किमत्र पृच्छयते,  
+अत्राह--ज्ञाततायाश्चेति । (685)न तावत् स्वप्राकाशमपसिद्धान्तात्, नापि मानगम्यम्, इत्याह---अज्ञातत्वस्येति । प्रसिद्धित इति । अपरोक्षत इत्यर्थः । (686)अज्ञातत्वं न निवर्तकजातीयप्रकाश्यं, निव(र्त्त)(र्त्य)त्वात् तमोवत्।विपक्षे बाधकमाह--मानेति।  
+मानव्याप्तिक्षमं चेत् स्यादज्ञातत्वं घटादिवत्।  
+\*वास्तवं स्यात्तदा रुपमज्ञातञ्च सदा भवेत् ॥(687)  
+तथा संशयमिथ्यात्वबुद्धयोरेष यथोदितः ।  
+न्यायो वाच्यः, ततः सर्वो व्यवहारो न सिद्धयति ॥(688)  
+अज्ञातत्वाविशेषेऽपि मानानां यदि मानता ।  
+ज्ञातस्याज्ञाततोऽन्यत्वात् तत्र स्यात्किं न मानता ॥(689)  
+\*ऐकार्थ्योपनिपातित्वात् सापेक्षत्वं यदीष्यते ।  
+तथा च सर्वमानानां सापेक्षत्वं प्रसज्यते ॥(690)  
+अज्ञातत्वस्य वास्तवस्य निवृत्त्ययोगात् रुपादिकमज्ञातमेवेति, व्यवहारलोप इत्यर्थः । (687)प्रामाणिकस्य(त्र)(भ्र)मादेरिवाज्ञातत्वस्यापि निवृत्तिः स्यात्, अत्राह--तथेति । संशयादेश्च स्वप्रकाशत्वसाक्षिवेद्दत्वयोरनङ्गीकारात् मानसिद्धस्य न निवृत्तिरित्यर्थः । (688)अज्ञाननिवृत्तिमन्तरेणापि मानानां मानता स्यात्, अज्ञातार्थलाभात्,इति शङ्कते---अज्ञातत्वेति । दूषयति--ज्ञातस्येति ।प्रमाणज्ञाते प्रवृत्तं तत्रातिशयमकुर्वदेव यथा प्रमाणम्, एवमज्ञातादन्यस्मिन् ज्ञाते प्रवृत्तः शब्दः तत्रातिशयमकुर्वन्नेव प्रमाणं किं न स्यादित्यर्थः ।(689)मानान्तरावगतब्रह्मगोचरवाक्यप्रमाण्याभावे कारणमाह--ऐकार्थ्येति । अत्यापत्त्या दूषयति--तथा चेति ।(690) प्रसङ्गबीजमाह--एकस्यामिति ।  
+एकस्यामपि सत्तायां सर्वाक्षाणां प्रमाणता ।  
+द्रव्ये त्वक्चक्षुषोस्तद्वत् प्रसज्येताप्रमाणता ॥(691)  
+नियोगे लौकिके चापि हरीतक्यादिभक्षणे ।  
+मानान्तरासंभवेन प्रज्येतानपेक्षता ॥(692)  
+\*नैष दोषो नरज्ञानपूर्विका विनियोगधीः ।  
+येन लोकेऽस्त्यतोऽपेक्षा वेदे तु स्याद्विपर्ययः॥(693)  
+प्रसङ्गानतरमाह--द्रव्य इति । सापे(क्षाप्रमाण)(क्ष)तेति शेषः ।फलमाह--प्रसज्येतेति।(691)  
+ नियोगोपगमे ब्रह्मणोऽपि अलौकिकत्वमित्यस्य निराकरणम्  
+एवं मान्तरयोग्यगोचरं वाक्यं प्रमाणमित्युक्तम्। इदानीं नियोगस्यालौकिकत्वात् तदुपगमे ब्रह्मणोऽपि अलौकिकत्वम्, इत्युक्तं दूषयति--नियोग इति । नियोगत्वमलौकिकप्रयोजकं, वैदिकनियोगत्वं वा। आद्दे विरेचनकामो हरीतकीमश्नीयादित्यादि वाक्यमनपेक्षं स्यादित्यर्थः । (692)द्वितीयमुत्थापयति ---नैष इति । लौकिकवाक्या(त्)वक्तृ ज्ञानावगतसाध्यसाधनसंबन्धधीरेव जायते, न नियोगधीरिति सापेक्षत्वम्। वेदे तु नियोगधीरित्य(नु)(न)पेक्षत्वमित्यर्थः । (693)प्राप्ताप्राप्तविवेकेन पौरुषेयत्वं सापेक्षत्वे प्रयोजकं, न सिद्धिनिष्ठत्वम्, इति परिहरति--नैवमिति ।(694)  
+\*नैवं सत्यनपेक्षत्वं वचसः कार्यसंश्रयात् ।  
+पुंबुद्धिपूर्वकत्वेन यतः सापेक्षतोच्यते ॥(694)  
+नैवं नियोगनिष्ठत्वाद्वेदे तेनानपेक्षता ।  
+सापेक्षत्वं च लोके स्यात् विनियोगप्रधानतः ॥(695)  
+नैवं शब्दार्थयोरैक्यं यदा स्याल्लोकवेदयोः ।  
+तदा न शक्यते वक्तुं वैलक्षण्यं तयोरिति॥(696)  
+ स्वरुपलाभः सिद्धश्चेत्, स्वतो वा यदि वान्यतः  
+हरीतक्यादिवाक्यस्य नियोगविषयत्वाभावात् सापेक्षत्वं, न पौरुषेयत्वेन इति परः प्रागुक्तं स्मारयति---नैवं नियोगेति ।(695)नायं विभागः संभवतीति परिहरति--नैवमिति ।
+'प्रयोगचोदनाभावादर्थैकत्वमविभागात्'(पू.मी.1-3-30)लौकिकवैदिकशब्दतदर्थयोरेकत्वानेकत्वसन्देहे, लौकिकवैदिकव्यपदेशभेदात् भेदे प्राप्ते,  
+ लोकावगतसंबन्धस्य शब्दस्य वेदे बोधकत्वात् उभयत्र शब्दार्थैक्यम्। व्यपदेशभेदस्तु सापेक्षत्वानपेक्षत्वनिबन्धनः इति ;यदा शब्दार्थयोरैक्यं स्यादित्यर्थः । प्रयोगचोदनानां लोकवेदयोः शब्दार्थाभेदे संभवात्, अन्यथा शब्दभेदादेकोऽर्थो न प्रतीयेत ।न चोभयत्र विभाग एषामुपलभ्यते इति सूत्रार्थः ।(696)  
+ सिद्धं सापेक्षमित्यस्य निरासः
+
+सिद्धं सापेक्षमित्यत्र सिद्धिः स्वरुपलाभः,ज्ञप्तिर्वा इति विकल्प्य, आद्दं दूषयति--स्वरुपेति। लब्धसत्ताकस्य न स्वरुपलाभार्थं मानापेक्षमित्यर्थः। (697)द्वितीयमनुवदति--अभिव्यक्तोऽथेति ।  
+स्वरुपेऽनुयोगित्वात् न प्रमाणव्यपेक्षणम्॥(697)  
+अभिव्यक्तोऽथ सिद्धोऽयं स्वतो वा यदि वान्यतः ।  
+अभिव्यक्तस्य भूयोऽपि निष्फलं मान्तरेक्षणम्॥(698)  
+तस्मान्न सिद्ध इत्येव संभाव्येत् प्रमान्तरम्।  
+नरोक्तौ मान्तरापेक्षा तेन मान्तरसंभवः॥(699)  
+क्रियां विना न संसर्गः पदार्थानामथोच्यते।  
+क्रियैवापेक्ष्यतां तर्हि किं न सिद्धं विधिं विना॥(700)  
+क्रिया चापेक्ष्यमाणापि न या काचिदपेक्ष्यते।  
+योग्यत्वहेतुतः, तर्हि सास्त्येवास्यादिका श्रुतौ ॥(701)  
+\*अकर्मकत्वादस्यादेर्न तावत्कर्म विद्दते ।  
+अभूतभवनं चार्थे नित्यत्वादात्मनश्च न ॥(702)  
+अवगतस्यावगत्यर्थमपि न मानान्तरापेक्षा, इति परिहरति--अभिव्यक्तस्येति ।कस्य तर्हि मानान्तरापेक्षा, तत्राह--नरोक्ताविति । तेन तदर्थे मान्तरसंभवः, न सिद्धे कार्ये वेत्यर्थः ।(698-699)  
+ पदार्थसंसर्गार्थं विधिरिति पक्षस्य निराकरणम्  
+षष्ठपक्षमादत्ते--क्रियामिति । क्रियास्वीकारे तद्द्द्वारेण विधिनिवेशः, अन्यथा वाक्यत्वभङ्ग इत्यर्थः ।निराचष्टे ---क्रियैवेति । (700)अपेक्षापि योग्यक्रियायामेव भवतीति विधेयैव सा स्वीकार्या, इति शङ्कते---क्रिया चेति । परिहरति--तर्हीति । 'तत्त्वमसि'अहं ब्रह्मास्मि'इत्यादौ अस्यादिका क्रिया योग्यास्तीत्यर्थः ।(701)क्रियास्तित्वे कर्मणा तत्समवेतफलेन च भवितव्यम्, अत्राह--अकर्म(क)त्वादिति ।  
+असंसृष्टात्मबोधित्वान्नापि संसर्गधीरतः ।  
+स आत्मेत्यभिसंबन्धात् नापि सत्ता सतोच्यते ॥(703)  
+शब्दाद्दगोरोऽर्थोऽतो लक्षणापाश्रयाच्छ्रुतौ ।  
+सदित्यादिपदैरात्मा साक्षान्नः प्रतिपाद्दते ॥(704)  
+यदापि मानयोग्यत्वं सत्त्वं तच्च प्रतीयते ।  
+तदापि वस्तुपरता नागमस्य विहन्यते ॥(705)  
+अस्तेरकर्मकक्रियावचनत्वादात्मनो नित्यत्वाच्चत्यर्थः।(702)पदार्थसंसर्गमङ्गीकृत्योक्तम्। इदानीं सोऽपि नास्ति वाक्यस्याखण्डार्थत्वात्, इत्याह---असंसृष्टेति । सत्सामान्यं ब्रह्म सदेवेत्यादिवाक्यगम्यम्। अतः सामान्यविशेषसंसर्गार्थत्वं वाक्यस्,इत्यत्राह--स इति । अव्यावृत्ताननुगतप्रत्यगात्मना 'स आत्मा'इति सदर्थस्य ब्रह्मणोऽभिसंबन्धात्, सत्ता---सदेवेत्यादिवाक्येन नोच्यते इत्यर्थः। (703)किं तर्हि सदादिपदप्रतिपाद्दम्, अत्राह--शब्दादीति । शब्दाद्दगोचरशब्देन बोध्यते इति व्याहतम्, अत्राह---लक्षणेति ।(704)  
+ मानयोग्यं सत्वमित्यभ्युपगमेऽपि वेदान्तानां निरपेक्षत्वप्रतिपादनम्  
+सदात्मनि(त्रिष्वन्त)(त्रय्यन्त) प्रामा९ण्ये, नानपेक्षत्वसिद्धिः, मानयोग्यत्वस्य सत्वपदार्थत्वात्, इति गुरुमतमाशङ्कयाह--यदापीति । मानं योग्यत्वस्योपलक्षणं, विशेषणं वा। आद्दे मानस्य मेयप्रवेशाभावादनपेक्षत्वसिद्धिरित्यर्थः । (705)द्वितीयं प्रत्याह--मान्तरेणेति । अनुवादकमपि प्रमाणम् इति अभिनवप्रभाकरनये यद्दपि न किञ्चित् दुरस्थम्।  
+मान्तरेणापि संबद्धर्थं वाक्यं प्रबोधयत् ।  
+मानतां न जहात्येव जगत्याप्तवचो यथा ॥(706)  
+ज्ञातः सोऽर्थो मयेत्यत्र नाप्तवाक्यं विहन्यते ।  
+मानान्तरव्यपेक्षत्वात् विहन्येतार्थनिश्चितौ ॥(707)  
+मायोगेऽपि न मानत्वमनाप्तवचसः क्विचत् ।  
+तेनाप्तवाक्यं मायोगे मानादर्थेऽपि निष्ठितम्॥(708)  
+एवंच प्रति वेदान्ता यदि मानमलौकिकम्।  
+प्रबोधयन्ति विध्वस्तनिखिलद्वैतगोचरम्॥(709)  
+तथापि द्दृष्टान्तेनोक्तं साधयति---जगतीति । मान्तरावगतगमकलौकिकवाक्यस्येव वेदान्तानामपि प्रामाण्यमित्यर्थः ।(706)'आप्तवाक्यमप्रमाणम्'इति चोदनासूत्रे भाष्यकारेणोक्तत्वादसंप्रतिपन्नमुदाहरणम्, अत्राह--ज्ञात इति । आप्तवाक्यं वक्तृज्ञाने निरपेक्षं प्रमाणमित्यर्थः । भाष्यकारस्य तर्हि कोऽभिसन्धिः, अत्राह--मानान्तरेति । वक्तृज्ञानानुमानद्वारा अर्थधीहेतुत्वात् अर्थनिश्चये निरपेक्षत्वं नास्तीत्यर्थः ।(707)अर्थनिश्चायकत्वाभावात् आप्तानाप्तविरचितवाक्ययोः प्रमाण्यमप्रामाण्यं वा तुल्यं स्यात्, अत्राह--मायोगेऽपीति । एवमाप्तानाप्तवाक्यवैलक्षण्ये, आप्तवाक्यात् कथमर्थे व्यवहारः, अत्राह--तेनेति । मानद्वारेणार्थेऽपि मानमित्यर्थः ।(708)द्दृष्टान्ते प्रतिपादितमर्थं दार्ष्टान्तिके समर्थयति--एवं चेति । स्वरुपज्ञानमैकात्म्यव्यवहारकरणंअलौकिकप्रमाणं द्रष्टव्यम्। एवमपि वेदान्तानां वस्तुपरत्वप्रतिज्ञानहानिः, अत्राह--अर्थसिद्धिश्चेति । मासिद्धौ ---स्वरुपबोधस्य वाक्यजन्यबुद्धिवृत्तिव्याप्तौ सत्याम्।  
+कथं तेषाममानत्वं सदा स्यादाप्तवाक्यवत् ।  
+अर्थसिद्धिश्च मासिद्धौ सिद्धैवेति न साध्यते ॥(710)  
+किञ्च सिद्धत्वसंबन्धादैकात्म्ये मान्तरानुमा ।  
+यथैवं कार्यतायोगात् नियोगेऽप्यनुमा न किम्॥(711)  
+अर्थसिद्धिः ----ऐकात्म्यविषयाज्ञाननिवृत्तिः सिद्धैवेति, न पुनः वेदान्तैः साध्यते इति निवर्तकत्वेन वस्तुनि प्रामाण्यमित्यर्थः । (709-710)  
+ ब्रह्मणि मानान्तरानुप्रवेशाभ्युपगमेऽपि प्रतिबन्द्दा वेदान्तानां प्रमाण्यसाधनम् मानयोग्यत्वं सत्वमित्यभ्युपगमवादेऽपि निरपेक्षत्वं प्रतिपाद्द, प्रकृतमेव स्वरुपसत्वमनुसृत्याह--किञ्चेति । ऐकात्म्यं मान्तरगम्यं, सिद्धत्वात् घटवत् इत्यनुमायं, नियोगो मान्तरगम्यः, कार्यत्वात् अध्येषणवत् इत्यनुमानात् तन्निष्ठस्यापि सापेक्षत्वमित्यर्थः ।(711)
+
+नियोगस्यापि कार्यत्वं प्रेषणध्येषणादिभिः ।  
+समं, तद्वर्त्मनैवास्य संबन्धग्रहणं यतः ॥(712)  
+परायत्तात्मलाभत्वं नियोगस्येह कार्यता ।  
+कार्यैर्मान्तरगम्यैः सा न कथंचिद्विशिष्यते ॥(713)  
+यत्त्वसाधारणं तस्य कार्यत्वमिति भण्यते ।  
+लौकिकेष्वपि कार्येषु तन्नैव विनिवार्यते ॥(714)  
+अथासाधारणज्ञानपरिच्छेद्दत्वमिष्यते ।  
+तच्च सर्वपदार्थानां न दण्डैर्विनिवार्यते ॥(715)  
+नियोगस्य कार्यत्वमसिद्धम्, अत्राह--नियोगस्येति । उत्कृष्टेन निकृष्टं प्रति व्यापारः प्रेषणा । सत्कारपूर्वको व्यापारः अध्येषणा। आदिपदेन निमन्त्रणादिसंग्रहः। प्रेरणादिद्वारेण नियोगे संगतिग्रहात् तत्तुव्यत्वम्। अन्य(था)वेदेऽपि कार्यव्युत्पत्त्यसिद्धिरित्यर्थः । (712)नियोगो मान्तरगम्यः पराधीनात्मलाभत्वात् घटवत्, इत्याह--पारयत्तेति । (713)कृतिसाध्यं प्रधानं कार्यम्। ताद्दृशं कार्यत्वं घटादौ नास्तीति कथं तस्येतरसाम्यम्, अत्राह--यत्त्विति । कृत्युद्दे(श)(श्य)त्वं प्राधान्यं स्वर्गादेरेवेति, कृतिसाध्यत्वमात्रं कार्यत्वं घटादिष्वप्यस्तीति न साधनवैकल्यमित्यर्थः ।(714)कार्यताधीविषयत्वं नियोगस्य कार्यत्वम्। तत् न क्लेशात्मकेषु प्रेरणादिष्विति साधनवैकल्यमेव शङ्कते---अथेति । कार्य(मि)(मे)व प्रैषादिव्यपदेश्यमित्यभ्युपगमात् कार्यताधीविषयत्वं प्रैषादिष्वपि तुल्यम्, इति परिहरति ---प्रमाणेति । (715)वैदिकलिङादिजन्यज्ञानं कर्तव्यतया(सू)(स्व)विषयं बोधयति , न लौकि(कं)(क)लिङादिजन्यज्ञानमिति वैलक्षण्यम्, आशङ्कयाह---प्रमाणेति ।  
+\*प्रमाणायत्तमेतावत् स्वप्रमेयावभासनम्।  
+कार्यताऽकार्यता वात्र मेयायत्ता न मानतः ॥(716)  
+\*सिद्धत्वहेतुको योऽपि दोष ऐकात्म्य उच्यते ।  
+नियोगस्यापि संसिद्धौ स दोषो नापनुद्दते ॥(717)  
+यागादिविषयासिद्धया न चासौ न प्रसिद्धयति ।  
+विध्युक्तेस्तदसंसिद्धौ निष्फलत्वं प्रसज्यते ॥(718)  
+\*ऐकात्म्यवस्तुयाथात्म्यप्रकाशनपटीयसः ।  
+वचसस्त्वतिरेकेण किं मानं तद्धुरं वहेत्॥(719)  
+शास्त्रं स्वविषय(वद्भा)(मवभा)सयते । तस्येष्टसाधनत्वमनिष्टसाधनत्वं वानुमाय, कर्तव्यतामकर्तव्यतां च प्रतिपद्दते इत्यर्थः । (716)ब्रह्म मान्तरगम्यं सिद्धत्वात् घटवत् इत्यस्यादि प्रसङ्ग उक्तः । इदानीं नियोगे व्यभिचारमाह--सिद्धत्वेति । अनुष्ठानोत्तरकालं नियोगस्यापि सिद्धेरित्यर्थः । (717)नियोग(स्य)साध्यैकस्वभावस्य न कदाचित् सिद्धत्वम्, अत्राह--यागादीति । स्वर्गाद्दसिद्धेर्विधियवैयर्थ्यापातादित्यर्थः ।(718)  
+ ब्रह्मणि मान्तरसंभावनाया एवाभावात् वेदान्तप्रामाण्यम्  
+ब्रह्मणि मान्तरानुप्रवेशमभ्युपगम्य प्रतिबन्द्दा वेदान्तप्रामाण्यं साधितम् ।इदानीं तत्संभावना नास्ति, इत्याह--ऐकात्म्येति । (719)ऐकात्म्यं मान्तरगम्यं, भावत्वात्कुम्भवत् इति चेत्, न जडत्वोपाधेः , इत्याह--मात्रादीति । यत्र मात्राद्द(बो)धनेन ज्ञानं तत्रैवेत्यर्थः ।(720)  
+ वैदिकपदार्थसंसर्गस्य नियोगाधीनत्वात् वेदान्तेषु विधिसंबन्धः इत्याक्षेपः  
+क्रियामात्रस्य संसर्गप्रयोजकत्वात् न वेदान्तेषु विधिसंबन्धः इत्युक्तम्। तत्र चोदयति---विध्यर्थेति । वेदान्तपदार्थसंसर्गः नियोगाधीनः, वैदिकसंसर्गत्वात् कर्मवाक्यपदार्थसंसर्गवत् इत्यर्थः । लौकिकसंसर्गस्यापि तथात्वात् वैदिकत्वविशेषणं व्यर्थम्, अत्राह--लोक इति । रचनान्यथानुपपत्त्या सिद्ध इत्यर्थः ।(721)रचनानुपपत्त्या लौकिकसंसर्गस्य मान्तराधीनत्वं साधयति---रचना त्विति । मानान्तरेणार्थ(म)वगम्य, विवक्षित्वा,विवक्षित्वा, परप्रतिपत्तये वाक्यप्रयोगात् लौकिकसंसर्गस्य मानान्तराधीनत्वमित्यर्थः।(722)विपक्षे बाधकमाह--एवं चेति । लौकिकवैदिकसंसर्गप्रयोजकानङ्गीकारे त्र्य्यन्तवाक्यार्थप्रत्ययो वि(भ्र)मः स्यादित्यर्थः ।(723)  
+\*मात्रादिसव्यपेक्षं सद्दत्र ज्ञानं प्रजायते ।  
+तत्रैव मान्तरापेक्षा न तु विध्वस्तभेदके ॥(720)  
+\*विध्यर्थाधीनसंसर्गाः पदार्था वैदिकोक्तिषु।  
+लोके मान्तरसंसिद्धसंसर्ग रचनाबलात् ॥(721)  
+\*रचना तु पदार्थानां विवक्षापूर्विकैव तु ।  
+प्रमाणान्तरगम्येऽर्थे विवक्षा च व्यवस्थिता ॥(722)  
+एवं च सति वेदान्तवाक्यार्थप्रत्ययो भ्रमः ।  
+\*उत्खातविधिकः, लोके तोयबुद्धिरिवोषरे ॥(723)  
+इत्युक्ते परिहाराय श्रृणु यद्भण्यतेऽधुना ।(724)  
+पदार्थसंगतेः कस्मात् विध्यधीनत्वमाद्दृतम् ।  
+पदार्थान्तरतन्त्रत्वं कस्माद्धेतोर्न कल्प्यते ॥(725)  
+संसर्गश्चेत् पदार्थानां विनापि विधिना भवेत् ।  
+अनर्थको भवेदेवं विधिर्निर्विषयत्वतः ॥(726)  
+ननु दोषः समानोऽयं विधेरन्यपदेष्वपि ।  
+विशिष्टार्थावगत्यर्थं प्रयुज्यन्तेऽपराण्यपि ॥(727)  
+ निरुक्ताक्षेपपरिहारः  
+योग्येतरपदार्थाधीनः संसर्गः, न लिङाद्दर्थाधीनः, इति परिहरति--इत्युक्त इति । (724-725)संगतेर्विध्यधीनत्वहेतुं शङ्कते--संसर्गश्वेदिति । संसर्गस्याकांक्षादित्रयोपेतपदमात्राधीनत्वे विध्यानर्थक्यं स्यात् । स्वविषयसंसर्गस्यान्यतो लब्धतया स्वस्याकिञ्चत्करत्वादित्यर्थः ।(726)  
+ संसर्गस्य नियोगकार्यत्वे नामप(दार्थ)(द)वैयर्थ्यम्, इति सिद्धान्ती चोदयति ----नन्विति । इतरपदानामर्थ मात्रधीजनने साफल्यम्, अत्राह--विशिष्टेति ।(727)फलितमाह---एवमिति । उभयोरानर्थक्यं सममित्यर्थः । (728) परः परिहरति--उच्यत इति ।  
+एवं सति विधिः कस्मान्नार्थक इतीर्यताम्।  
+योगक्षेमसमानत्वादविध्यर्थपदान्तरैः॥(728)  
+उच्यते, विधिशब्दो हि मान्तराज्ञातगोचरः।  
+न तस्य विषयाक्षेवं मुक्त्वान्यत्र कृतार्थता ॥(729)  
+मानान्तरप्रसिद्धार्थवादित्वादनुवादकम्।  
+विधेरन्यपदं यस्मान्नाक्षेपोऽतः प्रतीयते॥(730)  
+अव्युत्पन्नेऽपि संबन्धे विध्यर्थावगमस्तथा ।  
+अथ विज्ञातसंबन्धं सिद्धार्थं स्याद्विधायकम्॥(731)  
+स्वधर्मं च पदं जह्यात् संबन्धज्ञानिह्नुतौ ।  
+तस्माद्विज्ञातसंबन्धं पदं सर्वत्र बोधकम्॥(732)  
+लिङादिपदस्य मान्तरानवगतनियोगविषयत्वात्, विषयाक्षेपं मुक्त्वा----संसर्गा(पेक्षं)(क्षेपं)विना, न कृतार्थता--नियोगबोधकत्वं न स्यात्, नियोगस्य संसर्गविषयत्वात्। अतो विध्यायत्तः संसर्ग इत्यर्थः ।(729)नामपदापि संसर्गाक्षेपमकृतवतां आनर्थक्यं समानम्, अत्राह--मानान्तरेति । अनुवादकत्वेनामात्वात् न संसर्गाक्षेपकत्वमित्यर्थः ।(730)  
+ लिङादिपदमगृहीतसंगतिकं बोधकं, गृहीतसंगतिकं वा । आद्दं दूषयति--अव्युत्पन्नेऽपीति । अगृहीतसंगतिके बालेऽपि लिङाद्दर्थावगमपूर्विका प्रवृत्तिः स्यादित्यर्थः । द्वितीयं शङ्कते--अथेति । मान्तरावगतबोधकत्वेन नामपदानामिव संसर्गाक्षेपकत्वं न स्यात्, इत्याह--सिद्धार्थमिति। (731)प्रथमकल्पे दोषान्तरमाह--स्वधर्मं चेति । उपसंहरति--वाक्येति । (732)संगतिज्ञानापेक्षया बोधकत्वं वाक्यस्यैव न पदस्य, नियोगोऽपि वाक्यार्थः इति संभावनामात्रेण मतान्तरमुत्थापयति--तस्मादिति।  
+इतोऽन्यथा कल्प्यमाने सर्वं स्यादसमञ्जसम्।  
+वाक्यवाक्यार्थयोश्चेत् वाच्यवाचकलक्षणः ॥(733)  
+तद्विशेषैकनिष्ठत्वान्न वः संबन्धधीर्भवेत् ।  
+न विशेषान्तरे वृत्तिर्विशेषस्यास्ति गोत्ववत् ॥  
+नैराकांक्ष्येण तत्सिद्धेः संबन्धोऽतो न गृह्यते ॥(734)  
+लोके सिद्धो वाच्यवाचकलक्षणः संबन्धः वाक्यस्य वाक्यार्थेन योगः, न तु पदस्य पदार्थेनेत्यर्थः।(733)दूषयति--तदिति । तस्य-गामानयेति वाक्यस्य, गवायनयलक्षणविशेषमात्रविषयत्वात् तस्य गोबन्धनादिविशेषान्तरेभ्यो व्यावृत्तत्वात्, प्रतिविशेषं संगतिग्रहप्रसङ्गे, तस्यानन्त्येनाशक्यत्वात् युष्माकं संबन्धधीर्न स्यादित्यर्थः । सामान्यविशेषस्य गोत्वस्य विशेषनिष्ठत्ववत्,विशेषस्यापि विशेषान्तरे वृत्तिः, इत्यत आह---नेति । हेतुमाह--नैराकांक्ष्येणेति । विशेषस्य विशेषान्तरव्यङ्गयत्वाभावादित्यर्थः ।(734)  
+ शब्दैकसमधिगम्यस्य लिङर्थतानिराकरणम्  
+स्यात्तर्हि पदस्यैव पदार्थेन संबन्धधीः। नैतावता नियोगस्य मान्तरगोचरत्वम्। शब्दावगते नियोगे लिङादेः संबन्धग्रहणमिति प्रागुक्त्वात्, इत्याशङ्कयाह---संबन्धमिति ।  
+संबन्धं मन्यते योऽपि शाब्दबोधानुसारिणीम्॥(735)  
+द्दृष्ट्वेहां श्रोतृगां,सोऽपि न सम्यगभिमन्यते ।  
+\*श्रोतुश्च कार्यलिङ्गत्वात् कथं शब्दैकगोचरः ॥(736)  
+तस्यापि शब्दपूर्वत्वादिति चेल्लिङ्गपूर्वतः ।  
+\*कस्मान्न शाब्दबोधोऽपि ह्युनुमानपुरस्सरः ॥(737)  
+नियोगं शब्दतो बुद्ध्वा योऽपि श्रोता प्रवर्तते ।  
+तस्याप्यनुमितेरेव शब्दार्थप्रत्ययो भवेत् ।.(738)  
+प्रत्यक्षगम्यकार्येण नियोगस्यानुमेयतः ।  
+प्रत्यक्षकार्यवत्तस्य लौकिकत्वं प्रसज्यते ॥(739)  
+उत्तमवृद्धप्रयुक्तशब्दात् मध्यमवृद्धावगतनियोगे मध्यमवृद्धप्रवृत्त्या संबन्धो गृह्यते इति यन्मन्यते, तन्न सम्यगित्यर्थः । मध्यमवृद्धप्रवृत्त्या अनुमीयमानत्वात् शब्दैकगम्यत्वविरोधादिति हेतुमाह--श्रोतुश्चेति । (735-736)तस्यानुमानस्य शब्दावगते नियोगे प्रवृत्तेः शब्दैकगम्यत्वं नियोगस्य, इति शङ्कते --तस्यापीति । अनुमानस्य पूर्वं लिङर्थे प्रवृत्तत्वात् शाब्दबोधः किमिति अनुमानपुरः सरो न स्यात्, इत्याह--लिङ्गेति । एतत स्पष्टयति--शाब्दबोधोऽपीति । (737)शब्दलिङ्गयोः साम्यमुक्त्वा लिङ्गस्यैव लिङर्थे प्रथमप्रवेशः, इति विशेषमाह--नियोगमिति । (738)नियोगगोचरलिङ्गप्राथम्ये फलितमाह--प्रत्यक्षेति। इन्द्रियगम्यप्रवृत्तरुपकार्यलिङ्गेनानुमेयत्वात् घटवन्न शब्दैकगम्यत्वमित्यर्थः ।(739)  
+\*न चेत्कार्यं नियोगः स्यात्, कोऽर्थो यागादिसिद्धितः ।  
+सिद्धवस्त्ववबोधित्वं विधेरपि तदा भवेत् ॥(740)  
+प्राथम्यं चात्र दुर्लक्ष्यं बीजतत्कार्ययोरिव।  
+\*शब्दानुमानयोर्नातः शब्दप्रथमतेष्यते ॥(741)  
+\*यद्वानुमानमेवात्र शब्दात्पूर्वं हि युज्यते।  
+नावित्तसंगतिः शब्दः गमकोऽतोऽनुवादकः ॥(742)  
+नियोगो मान्तरगम्यः परायत्तात्मलाभत्वात् घटवदिति यदुक्तं पुरस्तात्, तत्र हेत्वसिद्धिं सिंहावलोकितन्यायेन शङ्कते ---न चेदिति । नियोगमन्तरेण क्षणिकस्य कर्मणः स्वर्गाद्दसाधकत्वादनुष्ठानवैयर्थ्यम्, इति परिहरति
+---कोऽर्थ इति । अनुष्ठितो यागोऽनादिसिद्धनियोगद्वारा फलिष्यति, इत्यत्राह--सिद्धेति ।(740) एवं यागजन्यो नियोग इत्युक्तम्। एवमपि न तस्य लौकिकत्वं मध्यमवृद्धान्तरेण शब्दावगते तत्रास्य मध्यमवृद्धस्यानुमानप्रवृत्तेः, इत्याशङ्कय, 'तस्यापि शब्दपूर्वत्वात्'(वा.737)इत्येतत् प्रपञ्चयति --यद्वेति । अनुमानसिद्धनियोगानुवादकत्वं लिङादेरित्यर्थः । (742)शब्देन सहाभिन्नविषयत्वादनुमानस्याप्यनुवादकत्वम्, अत्राह---बुध्यत इति । यद्दपि बालः स्वेन शब्दावगतमनुमानान्नाधिगच्छति । तथापि मध्यमवृद्धेन शब्दावगतमनुमिमीते इति लिङ्गस्यानुवादकत्वम्, अत्राह--भिन्न इति ।  
+बुध्यते योऽनुमानेन शब्दबुद्धं न वेत्ति सः ।  
+भिन्नेऽभिन्नेऽपि मेये धीर्नानुवादोऽन्यबोद्धरि ॥(743)  
+प्रवृत्तिहेतुमात्रं च प्रवृत्त्यात्रानुमीयते ।  
+लौकिकेनापि तत्सिद्धेः नास्ति मानमलौकिके ॥(744)  
+कार्यबुद्धयैव संव्याप्तिः प्रवृत्तेर्न च गम्यते ।  
+सर्पादिवस्तुबोधेऽपि प्रवृत्तिर्वीक्ष्यते यतः ॥(745)  
+एकेनावगतादभिन्ने भिन्ने वा विषये या धीः अन्यबोद्धरि --ज्ञात्रन्तरे जायते, सा नानुवादः अतिप्रसङ्गदित्यर्थः ।(743)  
+ नियोगस्य प्रवृत्त्याऽनुमेयत्वं स्वीकृत्य वस्त्वन्तरसाम्यमुक्तम्। इदानीं तदेव नास्ति, इत्याह--प्रवृत्तीति । प्रवर्तकमात्रे प्रवृत्तिसिद्धेः परिशेषान्नियोगसिद्धिः, अत्राह--लौकिकेनेनि । बालस्य प्रत्यक्षादिमूलप्रवृत्तौ (स्नानादेः)(स्तनपानादेः)इष्टसाधनत्वं मूलमिति त स्यैवात्मद्दृष्टान्तेनानुमानादित्यर्थः ।(744)  
+ स्वतन्त्रप्रवृत्तेः कार्यधिया व्याप्तत्वमुक्तम्, इत्यत्राह--कार्येति । पलायनप्रप्रवृत्तौ सर्पादिज्ञानस्य हेतुत्वादित्यर्थः ।(745)  
+ नियोगवादेऽपि इष्टसाधनत्वे प्रवर्तकत्वस्य बलादापादनम्  
+कृतियोग्यत्वोपलक्षितहितसाधनत्वस्य प्रवर्तकत्वं बलादापादयति
+---पुंस्प्रवृत्तेरिति । कृत्यादेर (यत्वा)(न्यत)कार्यं पुंस्प्रवृत्तेः फलं, तदेव कार्यं विध्यर्थः लिङादिनाभिधीयमानं प्रवृत्तेः कारणम् इति नियोगवादिनो राद्धान्तमनूद्द, विरोधं दर्शयति---प्रवृत्तिहेतुरिति ।  
+पुंस्प्रवृत्तेः फलं कार्यं विध्यर्थश्चापि कारणम्।  
+प्रवृत्तिहेतुर्न फलं भवतैवाभिधीयते ॥(746)  
+\*अपसर्पस्य सर्पादेर्न च कार्यं फलं मतम् ।  
+अनर्थाभावमात्रत्वात् च चाभावः फलं क्वचित्॥(747)  
+फलमप्रवर्तकमिति (भाष)(भव)तैवोच्यते। तदेवंविधविरुद्धं नानुन्मत्तः कलयेदिति, फलकार्ययोरेकत्वं स्वीकुर्वता सिद्धस्य प्रवर्तकत्वं स्वीकार्यमित्यर्थः ।(746)वस्तुबोधस्य प्रवर्तकत्वेऽपि कार्यं तत्फलम्, अविरोधात्, अत्राह--अपसर्पस्येति। सर्पादेः सकाशादपमनस्य कार्यं (न)फलं दुःखनिवृत्तेः फलत्वादित्यर्थः । तर्हि दुःखनिवृत्तेरेव सर्वत्र फलत्वोपपत्तौ न तदतिरिक्तसुखसिद्धिः, अत्राह--नचेति । दुःखाभावस्यापि सुखव्यञ्जकत्वेन फलत्वमित्यर्थः ।(747)  
+ लिङादिपदार्थस्य नियोगस्य संसर्गाक्षेपकत्वशङ्का, तन्निरासश्च  
+लिङादिपदस्य संसर्गाक्षेपकत्वे प्रतिक्षिप्ते, तदर्थस्य नियोगस्य संसर्गाक्षेपकत्वम्, इति शङ्कते--नियोगोऽथेति। साधनेतिकर्तव्यफलाधिकारिसंसर्गव्यतिरेकेणानुपपन्नत्वात् नियोगः तत्र प्रमारुपो विधिशब्दप्रकाशितः । तस्मात् मानान्तरानपेक्षः सन्नाक्षेपकत्वेन संसर्गप्रमेत्यर्थः ।(748)नियोगस्या(पेक्ष)(क्षेपक)त्वे शब्दो वा मानमन्यद्वा। नाद्दः इत्याह--आक्षेप्तृत्वमिति ।  
+\*नियोगोऽथ प्रमारुपो विधिशब्दप्रकाशितः ।  
+मानान्तरानपेक्षः सन्नाक्षेपकतया प्रमा ।.(748)  
+\*आक्षेप्तृत्वं न शब्दोत्थं न च मानान्तरात्तथा।  
+अव्युत्पन्नप्रवृत्तिश्चेत्युक्तदोषप्रसङ्गतः॥(749)  
+स्वाभ्युपेतनस्यैव त्यागः प्राप्नोत्यनीप्सितः।  
+प्रामाण्यं चास्य यत्रेष्टं श्रुतेस्तत्रास्त्वनेन किम्॥(750)  
+क्व चेष्टमस्य मानत्वं न यागादौ स्वशब्दमे।  
+लौकिकोऽपि न संसर्गो विध्यायत्तः स्थितो यतः ।  
+विध्यभावे हि संसर्गः श्रोतुरस्त्यविधावपि ॥(751)  
+नियोगबोधनोपक्षीणत्वादिति यावत्। न द्वितीयः, अनुपम्भयात्, इत्याह--नचेति । नियोगस्य मानान्तरागोचरत्वे दोषमाह--अव्युत्पन्नेति । (749)अव्युत्पन्नप्रवृत्तौ को दोषः, तत्राह---स्वेति । अव्युत्पन्नप्रवृत्त्यनभ्युपगमादित्यर्थः । अनन्यसाधारणविषयाभावात् न नियोगस्य प्रामायण्यम्, इत्याह--प्रामाण्यञ्चेति । (750)तदुपादयितुं विकल्पयति--क्वेति । किं यागादौ, संसर्गे वा यागादेः फलसाधनत्वे (ने)(वे)त्यर्थः । आद्दं निरस्यति ---नेति । यागादिपदादेव तत्प्रतीतेरित्यर्थः ।द्वितीयं दूषयति--लौकिकोऽपीति । यागादिपदार्थसंसर्गो न विध्यधीनः लौकिकत्वादित्यर्थः। लौकिकत्वं हि साधयति ---विध्यभावे हीति । राज्ञः पुरुषः इत्यादिविधिविकलवाक्ये संसर्गदर्शनादित्यर्थः ।(751)तृतीयं शङ्कते--फलेति । स्वर्गकामिनो यागे नियोगानुपपत्त्यायागस्य स्वर्गसाधनत्वं गम्यते इत्यर्थः । प्रकृत्य(र्थ)स्येष्टसाधनत्वं प्रत्ययार्थ एवास्तु लाघवात्, इति परिपरति---नैवमिति । (752)नियोगप्रामाण्यनिरसनफलमुपसंहरति--तस्मादिति । नियोगाभावेऽपि वेदप्रामाण्यं सुस्थमित्यर्थः ।(753)निर्निमित्तस्तर्हि पदार्थसंसर्ग एव न स्यात्, अत्राह--तस्मात्सर्वेति । अयमेति पुत्रो राज्ञः पुरुषोऽपसार्यताम् इत्यत्र राजपदस्य पुत्र(पादि)(पदे)नान्वितस्य निराकांक्षस्य पुरुषदेना(न)न्वयादाकांक्षा संबन्धकारणम्। अग्निना सिञ्चेदित्यादौ अयोग्ययोरनन्वयात् योग्यतापि कारणम्। भिन्नवाक्यगतयोरसंसर्गात् संनिधिरपि हेतुरित्यर्थः ।(754)  
+\*फलसाधनशक्तिश्चेत् विध्यायत्ता भविष्यति।  
+नैवं, तत्रापि शब्दस्य सामर्थ्यं केन वार्यते॥(752)  
+तस्मादितरतुल्यत्वात् न विध्यर्थनिबन्धनः।  
+\*संसर्गः स्यात् पदार्थानां, सुस्थमेवं विधिं विना॥(753)  
+तस्मात्सर्वपदार्थानामाकांक्षायोग्यसंनिधेः ।  
+परस्पराभिसंबन्धात् विशिष्टार्थावबोधिता ॥(754)  
+ननुत्पत्तिविधिर्यद्वत् कर्मबोधे व्यवस्थितः ।  
+आत्मज्ञानविधिस्तद्वत् आत्मबोधेऽवतिष्ठताम्॥(755)  
+ प्रवृत्त्यनुपपत्त्या वेदान्तेषु विधिरुपेतव्यः इत्याक्षेपः  
+एवं निष्फलत्वेन विधौ निरस्ते, वेदान्तेषु विधिरुपेतव्यः, अन्यथा प्रवृत्त्यनुपपत्तेः, इति चोदयति--नन्विति। आग्नेयोऽष्टाकपालः कर्तव्यः इत्युत्पत्तिविधिः कर्मकर्तव्यताज्ञाने पर्यवस्यति, न प्रवर्तयति। एवं, 'आत्मा द्रष्टव्यः'(वृ.4-4-5)(त)इति विधिः ज्ञानकर्तव्यतायां पर्यवस्यति, न प्रवर्तयतीत्यर्थः ।(755)तर्हि प्रवर्तकाभावात् व्यर्थो विधिः, अत्राह--कर्मेति । आग्नेयोऽष्टाकपालः इत्यादिनोत्पन्नस्य दर्शपूर्णमासाभ्यां स्वर्गकामो यजेत इत्यनेन प्रवृत्तिः, तद्वत'विज्ञाय प्रज्ञां कुर्वीत'(वृ6-4-21)इत्यधिकारबलात् मोक्षकामिनो (व)(वि)हितज्ञाने प्रवृत्तिरित्यर्थः ।विधिद्वयं विविच्य दर्शयति--अप्रवृत्तेति । उत्पत्तिविधिना (अ)पूर्वमबुद्धबोधनं, अधिकारविधिना तु अप्रवृत्तप्रवर्तनमित्यर्थः। (756)निगमयति--एवमिति ।  
+कर्माधिकारवच्चात्र प्रवृत्तिरपि सेत्स्यति ।  
+अप्रवृत्तप्रवृत्तिश्च तथाऽबुद्धार्थबोधनम्॥(756)  
+एवं विधिमिहेच्छन्ति विध्ययोग्येऽपि वस्तुनि ।  
+विधिरागवशात् केचित् तान्प्रतीदमथोच्यते॥(757)  
+कर्मस्वरुपबोधे हि व्यापारो नेष्यते विधेः ।  
+किन्तूत्पन्नस्य सापेक्ष्यादधिकारेण संगतिः ॥(758)  
+अधिकारप्रवेशित्वं नात्मज्ञानस्य युज्यते ।  
+यस्याधिकारसंबन्धः स आत्मा न विधीयते ॥(559)  
+ निरुक्ताक्षेपदूषणम्  
+दूषणं सं(भव)(भावय)ति--तान्प्रतीति । (757)किं तत्, इति तदाह ---कर्मेति । कर्मोत्पत्तिविधेर्व्यापारः कर्ममात्रबोधे निष्फले न पर्यवस्यतीत्यर्थः । क्व तर्हि पर्यवस्यति, इत्त्राह---किंत्विति। उत्पन्नस्य कर्मणः फलाकांक्षत्वात् अधिकारसंबन्धनियोगद्वारा अनुष्ठाने पर्यवस्यतीत्यर्थः । (758)उत्पत्तिविधिसिद्धज्ञानस्याधिकारविधिसंबन्धोऽत्रापि, इत्यत आह--अधिकारेति । प्रमाणवस्तुपरतन्त्रत्वादित्यर्थः । आत्मनः स्वामित्वेनाधिकारसंबन्धात्(कृ)(त)द्द्वारा ज्ञानस्यापि तत्संगतिः, अत्राह--यस्येति । सिद्धत्वादित्यर्थः। (759)विधेयत्वेनाभिमतात्मज्ञानस्याधिकारिनियोगसंबन्धाभावं द्दृष्टान्तेनाह--व्रीह्यादीति । एवमात्मज्ञानपीत्यर्थः ।(760) शाव्दज्ञानस्याविधेयत्वेऽपि तदभ्यासस्य विधेयत्वात् विधिपरत्वं वेदान्तानाम्, इत्याह--अन्योऽपीति ।  
+\*व्रीह्यादिविषयं यद्वत् यत्नेनापि निरुपितम्।  
+प्रत्यक्षं नाधिकारानुप्रवेशं प्रतिपद्दते ॥(760)  
+\*अन्योऽप्यनुभवोपायो मननध्यानलक्षणः ।  
+सोपायो विहितोऽस्त्येव प्रतिपत्तिविधिं विना॥(761)  
+दर्शनस्याविधेयत्वात् तत्संबन्धोपलक्षितः ।  
+प्रसंख्यानात्मकोऽत्रापि प्रयत्नोऽनुभवं प्रति॥(762)  
+इतिकर्तव्यताभावात् करणमात्रं न विधेयम्, विधीयते इत्यर्थः ।(761)पश्येदिति दर्शनं विधीयते न प्रसंख्यानम्, अत्राह--दर्शनस्येति । साक्षात्कारस्य फलत्वेनाविधेयत्वात् तेन साध्यसाधनभावसंबन्धी प्रसंख्यानरुपो यत्नो लक्ष(णा) (णया)विधीयते इत्यर्थः । (762)सोपायः इत्येतत् स्पष्टयति----शमादीति । अर्थवादस्य लिङ्गत्वाच्च प्रसंख्याने विधिः, इत्याह--सर्वमिति । 'इदं सर्वं यदयामात्मा'(बृ.4-4-6)इति गुणवादोऽयं, प्रत्यक्षादिविरोधादित्यर्थः । 'मन्तव्यो निदिध्यासितव्यः '(वृ.4-4-5)इति मननध्यानयोर्विहितत्वात् किमत्र लक्षणया तद्विधिकल्पनेन, अत्राह--मननादीति ।  
+शमाद्दङ्गान्वितः सर्वमात्मेति स्तुतिभूषणः ।  
+मननाद्दर्थवत्त्वाय पश्येदिति विधीयते ॥(763)  
+पश्येदिति प्रयत्नश्चेत् फलं स्याद्दर्शनं तदा ।  
+लक्षणं न प्रयत्नस्य, लक्षणं चेत्कथं फलम्॥(764)  
+लोके दर्शनसंबद्धं प्रसंख्यानं समीक्षितम्।  
+वेदेऽपि किं तथा तत् स्यात् न वाऽतस्तद्विधीयते ॥(765)  
+तत्रोत्पत्तिविधिसिद्धस्यानुष्ठानार्थमयमधिकारविधिरित्यर्थः । (763)पश्येदित्यनेन प्रसंख्यानं विधातुमशक्यमिति सिद्धान्ती चोदयति--पश्येदिति । आत्मदर्शनकामः प्रसंख्यानं कुर्यादिति पश्येदिति प्रयत्नो विधीयते चेत्,तदा विधीयमीनयत्नसाध्यत्वात् दर्शनं फलं स्यात् । न तस्य लक्षणं, सिद्धस्यैव लक्षणत्वात्। (दा)(य)दि दर्शनसंबन्धमन्तरेण प्रसंख्यानविध्ययोगात् दर्शनं लक्षकमुपेयते। तर्हि तदनुष्ठानात्प्रागेव सिद्धत्वात् न तत् फलमित्यर्थः ।(764)  
+ परिहरति--लोक इति । शास्त्रश्रवणादौ दर्शनप्रसंख्यानयोः साध्यसाधनभावो लोके सिद्ध इत्यर्थः । किमतः, तत्राह---वेदेऽपीति । प्रसंख्यानं दर्शनसाधनं भवति न वेति विचारे, दर्शनेन प्रसंख्यानमुपलक्ष्य दर्शनफलेन विधीयते । तयोः संबन्धमात्रस्य सिद्धत्वात् सत्वात् असतश्चोपलक्षणत्वाविरोधादित्यर्थः ।(765)  
+सामान्येनौषधं यद्वत् ज्वरनाशोपलक्षितम्।  
+द्दृष्टं कष्टज्वरेऽप्येवं विशेषेणोपदिश्यते ॥(766)  
+\*अप्यज्ञातफलं साक्षात् मान्तरैर्विधिसंश्रयात् ।  
+अभावनिश्चयाभावात् प्रसंख्यानं फलाय नः ॥(767)  
+पश्वादावेवमेव स्यात् संदिग्धेऽपि विनिश्चयः ।  
+खपुष्पे त्वनुपायत्वात् निश्चयोऽस्ति विपर्यये ॥(768)  
+द्दृष्टान्तेनैतत् साधयति--सामान्येनेति । कषायपानं सामान्येन ज्वरनिवर्तकं द्दृष्टम्। तत् कष्टज्वरस्य निवर्तकं न वेति सन्देहे, तन्निवर्तकत्वेन अङ्गविशेषविशिष्टं विधीयते यथा, तथा लोके दर्शनसाधनं प्रसंख्यानं वेदेऽपि स्यान्नवेति वि(ष)(श)ये, साधनं स्यादेवेति विशेषेणोपदिश्यते इत्यर्थः । (766)  
+लोके प्रसंख्यानात् प्रामाणिकसाक्षात्कारादर्शनात् सामान्यतोऽपि न साध्यसाधनभावसिद्धिः, अत्राह--अप्यज्ञातेति । 'समाहितो भूत्वा'इति दर्शनो(द्दर्श)(द्देशे)न प्रसंख्यानविधानात्, मान्तरैः---आगमेतरदर्शनफलाय भवेदिति भावः ।(767)  
+'अभावनिश्चयाभावात्'इत्ययुक्तम्। प्रसंख्यानस्य द्दृष्टफलत्वात् कृष्यादिवदनन्तरफलत्वानुपलम्भे, तन्न भवत्येवेति । निश्चयात् , अत्राह--पश्वादाविति । न कारीर्यादितुल्यं प्रसंख्यानम्, किन्तु चित्रादितुल्पयम्। एवं च चित्रादिफलस्यानन्तरादर्शने, जन्मान्तरे भवति न वेति वीक्षायां, न भवत्येवेत्यभावनिश्चयाभावात् शास्त्रप्रामाण्यात् भवत्येवेति कल्प्यते यथा, एवमिहापीत्यर्थः ।अद्दृष्टाश्रुतकल्पनायां खपुष्पाद्द(वि)(पि)कल्पनीयं निवारकाभावात्, अत्राह---खपुष्पे त्विति । तुच्छत्वादेवोवायासाध्यत्वात् न भवत्येवेति विपर्ययनिश्चयात् न विधिबलादनुपाख्यकल्पनेत्यर्थः ।(768)
+
+एवं केचित् व्यवस्थाप्य प्रसंख्यानविधिं पुनः।  
+ऐकात्म्यज्ञानतात्पर्यं तस्यापीच्छन्ति युक्तिभिः॥(769)  
+विधिस्वातन्त्र्यपक्षे हि किलैकात्म्यं न सिद्धयति ।  
+तच्छास्त्रं विधिनिष्ठात्वात् न स्वरुपेऽर्थवादतः ॥(770)  
+अपि शास्त्रात्प्रपन्नेऽस्मिन् पारोक्ष्यानपहारतः ।  
+तत्साक्षात्करणायैव प्रसंख्यानं विधीयते॥(771)  
+प्रसंगख्याननियोगस्वीकारे त्र्य्यन्तानां विधिपरत्वात् ऐकात्म्यस्यासिद्धिः, अत्राह--एवमिति ।  
+ प्रसंख्यानविधेः तत्त्वमादिश्रुतिशेषत्वेन ऐकात्म्यसिद्धिरिति निरुपणम्  
+प्रसंख्याननियोगस्वीकारे त्रय्यन्तानां विधिपरत्वात् ऐकात्म्यस्यासिद्धिः, अत्राह--एवमिति । प्रसंख्यानवि(रो)धेरैकात्म्य ज्ञानतात्पर्यत्वसिद्धिरित्यर्थः ।  
+(769)भूतं (भव्या)(यो)पदिश्यते इति न्यायात् ऐकात्म्यश्रुतेरेव विधिशेषत्वं युक्तं, न पुनर्विधेः तच्छेषत्वम्, अत्राह--विधीयति । यद्दपि अन्यत्र विधेः प्राधान्यं, अभिधाश्रुतेः तच्छेषत्वम्। तथापि अत्र विधिप्राधान्यस्वीकारे, प्रमाणाभावदैकात्म्यं न सिद्धयति। तेन विधेरन्यशेषत्वमिष्टमित्यर्थः। तत्त्वमादिवाक्यादेव तत्सिद्धिः,अत्राह--तच्छास्त्रमिति। तत्त्वमादिवाक्यस्य विधिपरत्वे, स्वार्थे न प्रामाण्यं, प्रत्यक्षादिविरोधादित्यर्थः।  
+(770)तत्त्वमादिवाक्यस्य स्वार्थपरत्वे(त)त एव वस्तुनः सिद्धेः व्यर्थो विधिः, अत्राह--अपि शास्त्रादिति।  
+(771)तर्हि प्रसंख्यानविधानादेवैकात्म्यसिद्धेः, कृतं तत्त्वमादिशास्त्रेण, इत्यत्राह--मानेनेति।  
+मानेन विषयासिद्धौ तद्दिद्दृक्षावियोगतः ।  
+प्रसंख्यानविधिर्न स्यात्सहापि मननादिभिः॥(772)  
+श्रुतेर्ज्ञातात्मवृत्तान्तोऽननुभूतमपि स्वकम्।  
+स्थानकं वाञ्छतः शास्त्रात्प्रसंख्यानं विधीयते॥(773)  
+स्वव्यापारमुखनैव शास्त्रं स्वार्थावबोधकृत्।  
+न तु व्यापारविरहात्, नातो द्विकरता श्रुतेः॥(774)  
+स्वव्यापारतिरोधानं कारकाणां न च स्थितम्।  
+तस्मादैकात्म्यतात्पर्ये प्रसंख्यानादि सुस्थितम्॥(775)  
+तद्दिद्दृत्रावियोगतः ---तत्साक्षातकरणेच्छानुपपत्तेरिति यावत् ।  
+(772)ब्रह्मात्मनि शास्त्रादुत्पद्दमानं विज्ञानमपरोक्षमेवोत्पद्दते, ब्रह्मात्मनोऽपरोक्षत्वात्। अन्यथा न तत्र ज्ञानमेवोत्पन्नमिति, साक्षात्कारोद्देशेन प्रसंख्यानविधानानुपपत्तिः, अत्राह--श्रुतेरिति। यः श्रुतेरवगतात्मतत्त्वः सः, शास्त्रस्वभावात् परोक्षमे, (वावा)(वाव)गच्छति। तस्याननुभूतमपि स्वकं स्थानं वाञ्छतः प्रसंख्यानंपश्येदिति विधीयते इत्यर्थः। (773)वस्तुबोधकत्वे प्रसंख्यानविधायकत्वे चार्थभेदात् वाक्यभेदः स्यात्‌, अत्राह--स्वव्यापारेति । शास्त्रस्य स्वार्तप्रतिपादने प्रसंख्यानमवान्तरव्यापारः । तेनार्थभेदाभावान्न वाक्यभेद इत्यर्थः। द्विकरतेति । अर्थद्वयप्रतिपादकतेत्यर्थः।  
+(774)प्रसंख्यानरुपव्यापारेण व्यवधानात् शास्त्रस्य नार्थबोधकत्वम्, अत्राह---स्वव्यापारेति । स्वाङ्गमव्यवयधायकमिति न्यायादित्यर्थः । तत्त्वमादेर्वस्तुपरत्वे प्रसंख्यानविधानोपपत्तिः, इत्युपसंहरति--तस्मादिति।  
+(775)शास्त्रजन्यधीमात्रेण कृतार्थत्वात् नानुभवोद्देशेन प्रसंख्यानं विधेयम्, अत्राह---बोधयित्वेति । परोक्षधीमात्रेण कैवल्यायोगात् अपरोक्षधीद्वारा कैवल्यपर्यन्तं व्याप्रियते एव शास्त्रम्।  
+बोधयित्वापि चैकात्म्यं नान्तरा पर्यवस्यति।  
+आपुमर्थावधेः शास्त्रमप्रामाण्यभात् स्फुटम्॥(776)  
+परोक्षवृत्त्या शब्दो हि वदन् स्वार्थं स्वभावतः।  
+संभावयन् प्रमाणत्वं युक्तिं स्वीकृत्य वर्तते ॥(777)  
+\*याथात्म्यावगमेऽशक्ता धूमोऽग्राविव सापि च ।  
+स्वीकृत्यैव प्रसंख्यानं युक्तिर्वस्तुनि वर्तते ॥(778)  
+इतरथा अपुमर्तपर्यवसायित्वेनाप्रामाण्यप्रसक्तिरित्यर्थः ।  
+(776)शब्दस्य परोक्षधीहेतोरपरोक्षधीहेतुत्वं स्वभावविरोधादयुक्तम्, अत्राह--परोक्षेति । असंभावनानिरासफलां युक्तिमङ्गत्वेन स्वीकृत्य अपरोक्षप्रमां कुरुते इत्यर्थः। (777)अन्वयव्यतिरेकाभ्यां युक्तेरेव ब्रह्मनुभवहेतुत्वात् शास्त्रप्रसंख्यानयोर्वैयर्थ्यम्, अत्राह--(यथात्मेति)(याथात्म्येति )। सा ---युक्तिरपि आत्मसाक्षात्कारं जनयितुमशक्ता, परोक्षधीहेतुत्वस्वाभाव्यात्। तस्मात् प्रसंख्यानं शास्त्रं च स्वीकृत्यैव प्रवर्तते इत्यर्थः।  
+(778)तर्कादेः न शास्त्रानुग्रहकत्वं, तस्य स्वतः प्रामाण्यात्, अत्राह--इत्यादीति । शब्दो युक्तिमात्मानं प्रसंख्यानं (वा)(च)अपेक्ष्य, वस्तु साक्षात् बोधयन् विधिं प्रति प्राधान्येन प्रवर्तमानः प्रामाण्यं लभते । तर्कादेः प्रतिबन्धविगमात्रकारित्वादित्यर्थः ।  
+\*इत्यादिवर्त्मना शास्त्रं साक्षाद्वस्तु प्रसाधयत् ।  
+विधिं प्रति प्रधानत्वं स्वीकृत्याभ्येति मानताम्॥(779)  
+संसर्गकल्पनाशून्यमप्यैकात्म्यं प्रबोधयेत्।  
+अनयैव दिशा शास्त्रं संसृष्टार्थाभिधाय्यपि ॥(780)  
+यतो वाचो निवर्तन्ते इति श्रुत्यैव दर्शितम्।  
+\*व्यपास्ताशेषसंसर्गसकल्पनं ब्रह्म निर्भयम्॥(781)  
+(779)वाक्यस्य संसृष्टपरोक्षधीहेतुस्वाभाव्यं न प्रसंख्यानशतेनापि निवर्तेत, इत्यत आह--संसर्गेति । स्वभावतो ज्वरमरणादिकारिणः दधिविषादेः मन्त्रशर्करासंपर्कात् पुष्टिकरत्ववत्, शास्त्रस्य संसृष्टपरोक्षं ब्रह्म गम्यते चेत्, संसृष्टपरोक्षस्वभावमेव तत्, अत्राह--यत इति । अखण्डापरोक्षस्वरुपे श्रुतितात्पर्यलिङ्गमाह--निर्भयमिति। 'नबिभेति कुतश्चन'(तै.2-9)इति फलश्रवणादित्यर्थः ।  
+(781)'विधिं प्रति प्रधानत्वम्'इत्युक्तमुक्तम्, अनुभवोद्देशेन प्रसंख्यानविधिसामर्थ्यात् प्रसंख्यानादेवानुभवसिद्धेः, अत्राह--शास्त्रेणेति । तत्त्वमादिवचसा ब्रह्मणोऽनभिधाने--शा(स्त्र)(स्त्रेण)ब्रह्मण्यप्रतिपन्ने। प्रसंख्याननियोगेऽपि विषयत्वेन ब्रह्मणः प्रवेशो न युज्यते। प्रसंख्यानव्यावर्तकज्ञानविषयत्वेन प्रवेशो न युज्यते इति यावत्। अतः तुल्यं चोद्दं द्वयोः-प्रसंख्यानाभिधाश्रुत्योः अनुपपत्तिस्तुल्या।  
+\*शास्त्रेणानभिधाने तु नियोगेऽपि न युज्यते ।  
+प्रवेशो विषयत्वेन, तुल्यं चोद्दमतो द्वयोः ॥(782)  
+\*विधिं विना श्रुतैकात्म्यस्तदर्थावगमाद्दृते ।  
+उपायाज्ञतया कुर्यात् तच्छास्त्रस्यार्थवादताम्॥(783)  
+विधिनिष्ठेऽपि शास्त्रे स्यादसिद्धेर्वस्तुनो मितेः ।  
+देवताध्यानवत् कल्प्यं फलमेकात्म्यवेदनम्॥(784)  
+यथा शास्त्रं प्रसंख्यानं विना अनुपपन्नम्, तथा प्रसंख्यानमपीति तुल्यं परस्परापेक्षत्वमित्यर्थः।  
+(782)प्रसंख्यानविधेरभिधाश्रुत्यपेक्षायामपि न तस्याः तदपेक्षत्वं स्वार्थप्रतिपादनसामर्थ्यस्य नैसर्गिकत्वात, अत्राह--विधिमिति । श्रुतैकात्म्यः ---शास्त्रमात्रादवगततत्त्वः। विधिं विना तदर्थावगमाद्दृते--प्रसंख्याननियोगाभावेन तदर्थानुभवाभावात्, तस्योपायतया अज्ञातत्वात् ऐकात्म्यशास्त्रस्य अर्थवादतां कुर्यात्--अप्रामाण्यं मन्यते। अतः शास्त्रं प्रसंख्यानापेक्षमित्यर्थः।  
+(783)तर्हि शास्त्रस्य प्रसंख्यानस्वरुपोपकारितया तदङ्गत्वात् प्रागुक्तप्राधान्यप्रच्युतिः, इत्याशङ्कय 'विधिस्वातन्त्र्यपक्षे हि'  
+(वा.770)इत्युक्तं प्रपञ्चयति--विधीति । विधेः स्वतन्त्रत्वे अभिधाश्रुतेः तच्छेषत्वे ततोऽद्वयवस्तु(नो)ऽसिद्धेः अन्यपरत्वे मानान्तरविरोधे देवताधिकरणन्यायानवतारात् । अतो विधेः ऐकात्म्य(नि)वेदनं तद्भावापत्तिफलं देवताध्यानवत् कल्प्यं स्यात्। अतो न विधिनिष्ठमेकात्म्यवाक्यमित्यर्थः।  
+(784)प्रतिपन्नात्मयाथात्म्यः प्रसंख्यानादि नेक्षते।  
+अज्ञस्तु श्रावितोऽप्यस्माद्विना नाप्नोति तत्फलम्॥(785)  
+शास्त्रेऽस्मिन् वस्तुनिष्ठेऽपि प्रसंख्यानविधिं विना।  
+पुमर्थो लभ्यते नैवेत्यसावपि समाश्रितः॥(786)  
+नान्वयव्यतिरेकाभ्यामैकात्म्यानुभवो भवेत्।  
+\*तत्सिद्धावेव तौ स्यातां, स च ताभ्यामिति श्रयः॥(787)  
+शास्त्रादवगतवस्तुतत्त्वस्यापि प्रसंख्यानाद्दपेक्षायां प्रसंख्यानादिना अवगततत्त्वोऽपि प्रसंख्यानादिकमपेक्षेत, इत्यनवस्था स्यात्, अत्राह--प्रतिपन्नेति । प्रसंख्यानादिनेति शेषः । तर्हि शास्त्रेणावगततत्त्वः प्रकंख्यानादिकं नापेक्षेत अविशेषात् , अत्राह--अज्ञस्त्विति। असाक्षात्कृतब्रह्मात्मा, तत्त्वमसीति श्रावितोऽपि श्रवणफलं साक्षात्करणं न प्राप्नोति, अस्मात्---प्रसंख्यानादेः, विनेति---तदपेक्षते इत्यर्थः।  
+(785)शास्त्रेण प्रसंख्यानादिरपेक्षितव्यः, इत्युपसंहरति--शास्त्रेऽस्मिन्निति ।  
+(786)अन्वयव्यतिरेकाभ्यामेवात्मानुभवसिद्धेः किं प्रसंख्यानादिना, अत्राह--नान्वयेति । आत्मनोऽसिद्धौ कस्य केनान्वयव्यतिरेकाविति तस्यात्मनः सिद्धौ तौ ---अन्वयव्यतिरेकौ स्याताम्, ताभ्यामात्मसिद्धिरिति इतरेतराश्रय इत्यर्थः ।  
+(787)शास्त्रयुक्तयोः प्रसंख्यानापेक्षया अर्थबोधकत्वे द्दृष्टान्तमाह--यथेति । विश्वजिता यजेतेति विश्विजिच्चब्दस्य तृतीयान्तस्य करणभूतयागनामधेयत्वात्। विश्वजिद्दागपदयोः स्वर्गकामेन स्वार्थानुपालनं कुर्वतोः मानत्वं यथेत्यर्थः।  
+(788)दार्ष्टान्तिमाह--तथैवेति ।  
+यथैव विश्वजिद्दागपदे स्वार्थानुपालनम्।  
+कुर्वती स्वर्गकामेन गच्छतः सह मानताम्॥(788)  
+तथैव शास्त्रतद्दुक्ती स्वाभिधेयार्थपालनम्।  
+कुर्वत्यौ मानतां यातः प्रसंख्यानेन नान्यथा॥(789)  
+एवमैकात्म्यतात्पर्ये शास्त्रस्येष्टेऽपि युक्तिभिः।  
+केचित्कार्यमपीच्छन्ति तदर्थं, तन्न युज्यते॥(790)  
+प्रमात्रादित्रयं यस्मात् संविन्मात्रवपुर्भृतः।  
+\*सिद्धायतेऽप्रसिद्धं सत् तत्सिद्धौ किमपेक्ष्यते ॥(791)  
+\*परोक्षमपि सद्वस्तु साक्षाद्देनात्मरुपकम्।  
+साक्षादात्मेव चाभाति तस्मिन् पारोक्ष्यधीः कथम्॥(792)  
+प्रसंख्यानं विना साक्षात्कारजनकत्वाभावात् प्रामाण्यं न संभवतीति भावः ।  
+(789)पूर्वपक्षमुपसंहरति--एवमिति । तदर्थं--ऐकात्म्यानुभवार्थमित्यर्थः ।शास्त्रस्य वस्तुनि तात्पर्येऽपि वेदान्तेषु प्रसंख्यानविधिरिति वादस्य, दूषणम् सिद्धान्तयति तन्नेति ।(790)
+
+ प्रसंख्याननियोगस्य व(स्त्वा)(स्त्व)परोक्षं फलं, तत्पारोक्ष्यनिवृत्तिर्वा। नाद्दः, इत्याह--प्रमात्रादीति । प्रमात्रादिसाधकत्वे हेतुमाह---संविदिति।  
+(791)द्वितीयं दूषयति---परोक्षमिति । अहङ्कारादि जडत्वात् परोक्षमपि साक्षाद्देनानुभूयमानत्वात् साक्षादिवाभाति, तस्मिन् पारोक्ष्यधीः कथम् । हेत्वन्तरमाह--आत्मरुपकमिति । यस्यात्मत्वात् यस्मिन्नैक्येनाध्यासादा(त्म्येना)(त्मेवा )वभातीत्यर्थः । 'यत्साक्षात्'इति पाठे यस्यापरोक्षत्वादित्यर्थः ।  
+(792)आत्मनः अप्रतीतिनिवृत्त्यर्थं प्रसंख्यानविधिः, अत्राह--अपीति।  
+अप्यज्ञानादि निश्शेषप्रमेयव्यवधानकृत्।  
+स्वतः प्रसिद्धात् संसिद्धयेत् तदसिद्धिः कुतो भवेत् ॥(793)  
+\*स्वमहिम्नैव यः सिद्धः सर्वप्रत्यक्तमश्च यः ।  
+तत्तमोहतितः कार्यं किमन्यत्तत्प्रमाणजम्॥(794)  
+\*मात्रादित्रयहानेऽपि हानसाक्षितयेष्यते ।  
+येनासावविप्लुताक्षः तत्पारोक्ष्यं कथं भवेत् ॥(795)  
+अज्ञानमिथ्याज्ञानसंशयज्ञानसाधकत्वेन स्वतः सिद्धः आत्मेत्यर्थः ।  
+(793)आत्मनः स्वतः सिद्धत्वे वेदान्तानाममानत्वं, तत्साधकात्मनोऽपि स्वव्यतिरिक्तसाध्यत्वम्, अत्राह--सर्वेति । जडस्यैवान्यसाध्यत्वमिति यावत् । अविद्दादिनिवर्तकत्वेन वाक्यप्रामाण्यमिति भावः।  
+(794)आत्मनः प्राणचेष्टादिलिङ्गम्यत्वात् परोक्षत्वात् तत्पारोक्ष्यनिवृत्त्यर्थं प्रसंख्यानम्, इत्याशङ्कय 'परोक्षमपि सत्'  
+(वा.792)इत्येतत् प्रपञ्चयति--मात्रादीति । स्वापादौ प्रमात्रादेरभावे तदभावसाक्षितया आत्मेष्यते येन (केन)कारणेन, (तेन)अविलुताक्षः---नित्यचैतन्यस्वभाव इत्यर्थः।  
+(795)  
+ वेदान्तार्थे विधिनिरासस्य पौनरुक्त्यशङ्का, ब्रह्मदत्तमताव लम्बनेन निरासकथनात् तत्परिहारश्च   
+'नन्वभ्युदयवन्मुक्तिम्'(वा.20)इत्यारभ्य अधिकारवार्तिकेषु वेदान्तार्थे सर्वप्रकारविधेः निरस्तत्वात् तस्यैवेहि पुनर्निरासे पुनरुक्तिः स्यात्, अत्राह--भावनेति ।  
+भावनावर्त्मनैकात्मये विध्यर्थासंभवो यथा ।  
+अधिकारपरीक्षायां तथा प्राक् प्रतिपादितम्॥(796)  
+नियोगपक्षमाश्रित्य विध्यर्थासंभवो यथा ।  
+ऐकात्म्यसिद्धौ यत्नेन तथात्र प्रतिपाद्दते ॥(797)  
+\*ऐकात्म्यस्य स्वतो मुक्तेरज्ञानात्तस्य बद्धता ।  
+साध्येऽर्थे साधनापेक्षा सिद्धे तन्न व्यपेक्षते ॥(798)  
+तमोमात्रान्तरायत्वादैकात्म्याख्यस्य वस्तुनः ।  
+असाध्यसाधने तस्मिन् कापेक्षा भावनां प्रति॥(799)  
+तत्र भट्टमतानुसारेण विध्यसंभोऽभिहित इति भावः ।  
+(796)इह तु ब्रह्मदत्तमतावलम्बनेन विध्यसंभवः प्रतिपाद्दते,अतो न पुनरुक्तिः, इत्याह--नियोगेति ।  
+(797) प्रासङ्गिकं भावनानिराकरणम्  
+पुनरुक्तिपरिहारप्रसङ्गात् प्रसक्तां भावनां निराकरोति ---ऐकात्म्यस्येति । बन्धप्रतीतिविरोधात् न स्वतो मुक्तत्वम्, अत्राह--अज्ञानादिति । स्वतः सिद्धस्य भावनाभा(व)(व्य)त्वाभावं व्यतिरेकद्वारेणाह----साध्य इति ।  
+(798)स्वतो मुक्तस्यैव मुक्तयर्थं यथा ज्ञानमुष्यते, तथा भावनापीष्यताम्, अत्राह--तमोमात्रेति । असाध्यसाधने--साध्यसाधनभावहीने इत्यर्थः ।  
+ प्रकृतप्रसंख्याननिरासः   
+(799)प्रासङ्गिकं परिसमाप्य प्रकृतं प्रसंख्याननिरासमनुसरति--यदेति ।  
+यदानुभवकामस्य कार्यं साध्यं प्रतीयते ।  
+प्रसंख्याने तदैकात्म्यतात्पर्यं कथमुच्यते॥(800)  
+कार्यं चान्यपरं चेति द्वयमेतद्विरुध्यते ।  
+साध्यं हि सर्वदा कार्यमन्यत्तस्य प्रसिद्धयते ॥(801)  
+विशेषणं नियोज्यस्य भवन्ननुभवः फलम्।  
+विषयः सत्प्रसंख्यानमनुभूतेर्न साधनम्॥(802)  
+भावार्तविषयं कार्यं प्रसंख्याने कथं भवेत् ।  
+आवृत्तिर्हि प्रसंख्यानं शब्दयुक्तयोरिति स्थितम्॥(803)  
+साक्षात्कारकामस्य प्रसंख्याने विषये कार्यं--नियोगः साध्यं प्रतीयते यदा, तदा प्रसंख्यानविरोधे ऐकात्म्यमनुपपन्नमित्यर्थः ।  
+(800)प्रतिज्ञामात्रमेतत्, न युक्तिरस्ति,तत्राह---कार्यं चेति । भूतं भव्यार्तमिति स्थितेरित्यर्थः।  
+)801)अनुभवकामः प्रसंख्यानं कुर्यादिति नियोज्यस्याधिकारिणो विशेषणमनुभवमु(पदि)(द्दृ)श्य विधीयमानप्रसंख्यानस्य तत्परत्वम्, अत आह--विशेषणमिति । प्रसंख्यानं नियोगविषयः सन् अनुभूतेर्न साधनम्। अनुभवस्य मानफलत्वात् नियोगविषयस्याप्रमाणत्वादित्यर्थः । (802)नियोगस्य प्रसंख्यानविषयत्वमङ्गीकृत्योक्तम्, तदपि न युक्तम, इत्याह--भावार्थेति । प्रसंख्यानमपि क्रियेति, नेत्याह--आवृत्तिर्हीति । क्रियावृत्तिः प्रसंख्यानं न क्रि(यते)(ये)त्यर्थः ।  
+(803)श्रवणमननावृत्तिविषयनियोगाभावेऽपि तद्विषयं कार्यमस्ति, इति शङ्कते--अथेति।  
+अथ श्रवणभावार्तविषयं कार्यमिष्यते।  
+तदा श्रवणमेव स्याद्विशिष्टो विषयस्तव ॥(804)  
+दाक्षायणादावावृत्तिः यत्रापि फलमुच्यते ।  
+सगुणात् पौर्णमासादेः फलं तत्रापि नो गुणात् ॥(805)  
+श्रवणमननावृत्तिविषयनियोगमभ्युपगम्य, तत्परित्यागेन श्रवणादिगोचरनियोगमङ्गीकुर्वतः अपराद्धान्त इत्यर्थः ।  
+(804) दाक्षायणयज्ञेन यजेत स्वर्गकामः, साकंप्रस्था(नी)(यी)येन यजेत् पशुकामः,संक्रमणयज्ञेन प्रजाकामो यजेत्, इति प्रकृतदर्शपूर्णमासयोः गुणात्फलमिष्यते यथा, तथा श्रवणाद्दावृत्तिगुणात् नियोगद्वारा फलसिद्धेः न सिद्धान्तविरोधः, इत्यत्राह--दाक्षायणेति । आवृत्तिविशिष्टभाव एव विधेर्विषयः तत्र फलसाधनमित्यर्थः ।  
+ तन्त्रान्तरे निरुपितम्। 'अयनेषु चोदनान्तरं संज्ञोपबन्धात्'(पू.मी.2-3-5)दर्शपूर्णमासयोः दाक्षायणयज्ञेनेति श्रुतौ, कर्मान्तरविधिः, प्रकृतयोरेव वा दर्शपूर्णमासयोर्गुणविधिः, इति संशये अयनेषु ---आवत्तिगुणकेषु कर्मसु श्रुतेषु सत्सु संज्ञाभेदात् कर्मान्तरमिति प्राप्ते,  
+ दक्षस्य -उत्साहवतो यजमानस्येमे दाक्षाः, तेषामयनं--आवृत्तिः इत्यावृत्तिगुणयोगात् प्रकृतदर्शपूर्णमासयोरेव दाक्षायणशब्दप्रयोगात्, साकंप्रस्थायीयशब्दस्य सहप्रस्थानगुणयोगात् तत्रैव वृत्तेर्न कर्मान्तरमिति ॥  
+(805)  
+गुणो यत्रापि दध्यादिः कार्यावच्छेदको मतः ।\*  
+धात्वर्थावेशतः सोऽपि प्राप्ते चास्मिन्न तु स्वतः ॥(806)  
+श्रवणादेर्न च प्राप्तिः गुणान्न च फलं श्रुतम्।  
+पश्येदिति हि धात्वर्थः केवरो विषयः श्रुतः॥(807)  
+नापि तल्लक्षितावृत्तिर्विधेया श्रुतहानतः ।  
+ननु दध्ना जुहोतीत्यादौ केवलस्य द्रव्यस्य विधिविषयत्वदर्शनात् आवृत्तेरपि विधेयत्वं स्यात्, इत्याशङ्कयाह--गुण इति । क्रियोपरक्तं द्रव्यं विधेयं, न केवलमित्यर्थः। वैलक्षण्यान्तरमाह--सोऽपीति ।अग्निहोत्रं जहोतीति विहितं जुहोत्यर्थमाख्यातेनानूद्द, तदुपरक्तो दधिगुणो दध्नेति विधीयते इत्यर्थः ।  
+(806)अत्रापि श्रवणादिलक्ष(ण)(णे)प्राप्ते धात्वर्थे तदुपरक्तावृत्तिरुपगुणविधिः स्यात्, अत्राह--श्रवणादेरिति । तद्वाचकपदाभावादित्यर्थः। 'श्रोतव्यः'इत्यादिविहितश्रवणानुवादेन तद्विशिष्टावृत्तिविधानम्, अत्राह--गुणादिति । नापि विश्वजिन्न्यायावतारः, गुणविधेरसिद्धत्वादित्यर्थः। कस्य तर्हि विधेयत्वं, दर्शनस्यैव तत् श्रुतम्, इत्याह--पश्येदिति हीति ।  
+(807)दर्शनस्याविधेयत्वात् लक्षणया आवृत्तेः विधेयत्वमुक्तम्, अत्राह--नापीति । मुख्यासंभवे तत्त्यागेन तल्ल(क्ष)(क्षि)तावृत्तेः साक्षात्कारोपायतया विधानं युक्तम्, अत आह--कार्यमिति । प्रमाणफलस्य क्रियातद्गुणसाध्यत्वासंभवादित्यर्थः।  
+(808)   
+\*कार्यं यन्नापि भावार्थात् तदावृत्तिगुणात्कथम्॥(808)  
+स्वयं प्रबोधितेऽप्यर्थे यदि युक्तयाद्दपेक्षते ।  
+शास्त्रं सापेक्षमेवं स्यात् स्तवः प्रामाण्यवर्जनात् ॥(809)  
+युक्तयादि मान्तरं नो चेत् मानांशत्वेन तत्स्थितेः ।  
+संभूय पादाः सर्वेऽपि ह्यैकात्म्यं बोधयन्ति नः ॥(810)  
+न संभूय यतः पादास्तैलवर्त्यग्नयो यथा ।  
+मितेः स्वरुपलाभाय न तु मेयोपलब्धये॥(811)  
+ शास्त्रस्य युक्त्याद्दपेक्षत्वदूषणम्  
+शास्त्रस्य युक्तयाद्दपेक्षत्वं यदुक्तं, तद्ददूषयति--स्वयमिति । लौकिकवाक्यवत् वेदस्य तत्सापेक्षत्वेन स्वतः प्रामाण्यं न विहन्यते, इति शङ्कते--युक्तयादीति । युक्तयादेः मानाङ्गत्वात् तन्न मानान्तरम्। अतः चत्वारोऽपि पादाः संभूय बोधयन्तीति चेदित्यर्थः ।  
+(810)दूषयति---नेति । तैलादयः संभूय दीपमुत्पादयन्ति । स दीपोऽर्थं प्रकाशयति । तद्वत् पादाः संभूय मितेः स्वरुपलाभाय भवन्ति, न तु मेयोपलब्धये इत्यर्थः ।  
+(811)व्यतिरे(कं)(के)दण्डमाह--संभूयेति । फलंअर्थोपलब्धिरुपमिति यावत्।  
+संभूय यदि सर्वाणि फलमेकं प्रतन्वते ।  
+प्रत्येकं प्रमितेर्वृद्धिरित्येतत्स्यात्तदा मृषा॥(812)  
+\*संभूय फलकारित्वं क्रियाकारकसंगतेः ।  
+स्वरुपलाभतो नान्यदभिव्यक्तावपेक्षते ॥(813)  
+तैलवर्त्यग्नयो यस्मात्प्रदीपोत्पत्तिकारणम्।  
+लब्धात्मलाभो दीपोऽर्तं स्वयमेव प्रकाशयेत् ।(814)  
+शब्देन ज्ञाप्यते यद्वत् तथैव यदि युक्तिभिः ।  
+व्यर्थता, ऽथ विशेषश्चेत् संप्राप्ता भिन्नमानता ॥(815)  
+पादानां तद्वृद्धिहेतुत्वं त्वयैव नाङ्गी(कृत्य)कार्यमित्यर्थः ।  
+(812)कारकाणां संभूय क्रियाकारित्वममनिव पादानां मेयोपलब्धिकरत्वं स्यात्, अत्राह--संभूयेति । क्रियाकारकसंगतेः---क्रियार्थं कारकाणां संबन्धादिति यावत्। मितिस्वरुपलाभव्यतिरेकेण अर्थव्यक्तये नान्यदपेक्षितमित्यर्थः ।  
+(813)'स्वरुपलाभतो नान्यत्'इत्ययुक्तम्, मितिस्वरुपहेतूनां पादानां प्रितेरर्थोपम्भने सहायत्वात्, अत्राह--तैलेति ।  
+(814)शब्देन यावानर्थः प्रकाश्यते, तावानेव युक्त्यादिना गम्यते, अधिको वा । आद्दं प्रत्याह--शब्देनेति । द्वितीयं ---अथेति । प्रमेयभेदात् न संभूयकारित्वम् इत्याह--संप्राप्तेति । (815)  
+स्वप्नादियुक्तिभिश्चेत्तल्लौकिकीभिः प्रसाध्यते।  
+अवैदिकं भवेद्वस्तु, स्याच्च शास्त्रानुवादता ॥(816)  
+वैदिकत्वेऽपि युक्तीनामागमार्थप्रबोधतः।  
+अनुवादत्वमेव स्यात् स्याच्च शास्त्रादभिन्नता ॥(817)  
+आवृत्तिश्च प्रसंख्यानं कुर्यात्सातिशयं कथम्।  
+न ह्यावृत्तौ प्रमाणस्य प्रमेयेऽतिशयो यतः ॥(818)  
+यत्रापि चान्धकारादिदोषात् क्रमविनिश्चयः ।  
+तत्रापि भिन्नमेयत्वात् नैव संभूय मानता॥(819)  
+ युक्तीनामात्मज्ञापकत्वनिरासः  
+एवं पादानां संभूयकारित्वं सामान्येन निरस्य, युक्तीनां तन्निराकुरुते।लौकिकयुक्तिभिरात्मा ज्ञाप्यते,वैदिकीभिर्वा । आद्दं दूषयति--स्वप्नेति । अवस्थात्रयस्य व्यभिचारात् आत्मनोऽव्यभिचारात् अवस्थात्रयतद्धर्मसंबन्धो न वास्तवः इति लौकिकतर्कादात्मसिद्धौ वेदस्यानुवादकत्म वैदिकत्वं चात्मन इत्यर्थः ।  
+(816)द्वितीयं दूषयति---वैदिकत्वेऽपीति । वेदगम्यो न कश्चित्तर्कोस्ति । तदस्तितत्वे वा वस्तुपरवाक्येनैव प्रतिपन्नार्थप्रतिपादकत्वात् तर्कस्यानुवादकत्वमित्यर्थः ।भङ्गान्तरं भणति--स्याच्चेति । वेदात्तर्कस्या न्यत्वकरणमयुक्तम्, अन्यथा लिङ्गप्रकरणादीनामवैदिकत्वप्रसङ्गात् । अतो मानं त्रिपादेव स्यादित्यर्थः ।  
+(817) प्रसंख्यानस्य प्रमाणपादत्वनिरासः  
+युक्तिं निरस्य प्रसंख्यानं निरस्यति--आवृत्तिश्चेति । प्रमाणावृत्तिः प्रसंख्यानं त्वयेष्टम् । न चावृत्त्या घटादिप्रमेये अतिशयो द्दृश्यते । अतो न प्रसंख्यानस्य प्रमाणपादत्वमित्यर्थः ।  
+(818)मन्दान्धकारे दूरावस्थितवस्तुनिश्चयः प्रमाणावृत्त्या भवतीति प्रसंख्यानस्यातिशयकरत्वम्, अत्राह--यत्रापीति ।  
+(819)  
+पूर्वं वस्त्विति विज्ञानं प्राण्ययं मानुषस्तथा ।  
+पुरुषोऽयमथ श्यामः डित्थ इत्यर्थभिन्नता ॥(820)  
+परिच्छेदफलत्वं हि मानत्वं तच्च भिद्दते ।  
+\*तदभावेऽपि पूर्वेषामुत्तरस्यैव मानता ॥(821)  
+अथ मेयप्रभेदेऽपि प्रमाणैकत्वमिष्यते ।  
+\*वस्तुग्राहितयाक्षादेरैकार्थ्येऽभिन्नमानता ॥(822)  
+साध्यमानं प्रसंख्यानं यागवत्साधयेत्फलम्।  
+कारकं, ज्ञापकं शास्त्रं तयोः स्यादेकता कथम्॥(823)  
+भिन्नविषयत्वं विशदयति ---पूर्वमिति ।(820)  
+घटपटादिमेयभेदेऽपि चक्षुरादिमानाभेदवत् अत्रापि प्रमाणाभेदादावर्त्यमानं प्रमाणं निश्चयकरम्, इत्यत्राह--परिच्छेदेति । डित्थ(ही)इत्यन्त्यज्ञानस्यैव परिच्छेदफलत्वं, न वस्त्वादिज्ञानानाम्, अत्राह--तदभावेऽपीति।  
+(821)वस्त्वादिप्रत्ययेषु सर्वेषु पूर्वप्रत्ययप्रतीतवस्तुरुपस्यैवानुसन्धीयमानत्वात् न प्रमाणभेदः, इति शङ्कते--अथेति । प्रत्यक्षादिप्रमाणपञ्चकस्य वस्तुग्राहित्वेन एकप्रमाणत्वापातः, इति परिहरति---ऽनुष्ठीयमानस्य कारकत्वात न मानाङ्गत्वम्, इत्याह---साध्यमानमिति ।एकता--संभूयकारित्वमित्यर्थः।  
+(823)  
+प्रमातात्मा न मानांशः यद्दयं व्यावहारिकः ।  
+\*परश्चेत् म प्रमेयः स्यात्, कथं वानुभवः फलम्॥(824)  
+स्वरुपं यद्दसाध्यं तत् स्वातन्त्र्येण प्रसिद्धितः ।  
+तज्ज्ञानं चेत्प्रमाणं तत् , तच्च शास्त्रान्न कार्यतः ॥(825)  
+शास्त्रामावर्त्यमानं हि स्वभावं नैव मुञ्चति ।  
+परोक्षवृत्तिर्युक्तिश्च कथं ते मितिवर्धने ॥(826)  
+ आत्मनः प्रमामपादत्वदूषणम्  
+आत्मनोऽपि संसारिणो मानांशत्वं, असंसारिणो वा । नाद्द इत्याह--प्रमातेति । लौकिकस्यात्मनः प्रमाणश्रयस्य न तदंशत्वम् ।अन्यथा द्रव्यस्य गुणाद्दङ्गत्वप्रसङ्गादित्यर्थः । द्वितीयं दूषयति--परश्चेदिति । घटादेः प्रत्यक्षाद्दशत्वप्रसक्ते(रि)त्यर्थः । अनुभवस्य प्रसंख्यानफलत्वाभावः  
+अनुभवोपायत्वेन प्रसंख्यानविधानमुक्तं दूषयति--कथं वेति ।  
+(824)स्वरुपसंवित् अनुभवः, तदव्यञ्जकवृत्तिर्वा। प्रथमं प्रत्याह--स्वरुपमिति । द्वितीयं निरस्यति--तदिति । प्रमाणमेव प्रसंख्यानफलम्,इत्यत्राह--तच्चेति । तत्त्वमादिवाक्यफलं वृत्तिरुपज्ञानं, न प्रसंक्यानफलमित्यर्थः।  
+(825)  
+ मितिवर्धनेन पादानामङ्गत्वमित्यस्य निरासः  
+(म)(मि)तिवर्धनेन पादानामङ्गत्वं त्वदिष्टमपि न घटते, इत्याह---शास्त्रमिति । परोक्षवृत्तिः --संसृष्टपरोक्षार्थधीजनकत्वम्, शास्त्रयुक्तयोः स्वभाव इत्यर्थः ।  
+(826)शास्त्रयुक्तयोः मितिवृद्धहेतुत्वे दोषमाह--प्रमितेश्चेति ।  
+प्रमितेश्च प्रमेयस्य वृद्धौ वृद्धः स्वतो न हि ।  
+तस्य वृद्धिर्मितेर्वृद्धावित्यन्योन्यसमाश्रयः ॥(827)  
+उत्पाद्दापि मितिं शास्त्रं यदि युक्तयाद्दपेक्षते।  
+\*स्वर्गादावेवमेव स्यात्, सापेक्षं च भवेत्तदा ॥(828)  
+व्यपास्तानर्थसन्दर्भमात्मानमवगच्छतः ।  
+किमाप्यमधिकं शास्त्रात् येन युक्त्याद्दपेक्षते॥(829)  
+\*का वा युक्तिः प्रदीपस्य सर्पाद्दाकम्पनाशनम्।  
+रज्ज्वादितत्त्वविज्ञानं कुर्वतः स्वेन तेजसा॥(830)  
+प्रमेयस्य वृद्धौ ---विषयस्यातिशयसिद्धौ, प्रमितेर्वृद्धिः, अर्थेनैव विशेषो हि निराकारतया धियामित्यर्थः । मितवैचित्र्यमन्तरेण मेयवैचित्र्यं नास्ति, मानाधीनत्वात् मेयसिद्धेरिति अन्योन्याश्रय इत्यर्थः ।  
+(827)   
+ शास्त्रस्य युक्त्यपेक्षत्वाभावः  
+शास्त्रादैकात्म्यावगमेऽपि युक्त्याद्दपेक्षत्वमुक्तम्। तत् कर्मवाक्येऽपि प्रङ्गादयुक्तम्, इत्याह--उत्पाद्दापीति । (828)  
+शास्त्रजन्यपरोक्षधीमात्रेण फलालाभात् तल्लब्धये युक्तयाद्दपेक्षा, तत्राह---व्यपास्तेति । शास्त्रादवगच्छतः इति संबन्धः।  
+(829)शाब्दज्ञानादशेषानर्थनिवृत्तिर्नास्ति, तद्वतोऽपि यथापूर्वं संसारित्वदर्शनात् , अत्राह--का वेति । रज्ज्वादितत्त्वविज्ञानं सर्पाद्दाकम्पनाशनं----सर्पारोपतत्कृतकम्पपलायनादिनाशकं, कुर्वत इत्यन्वयः । विमतमध्यस्तनिवर्तकं तत्त्वज्ञानत्वात् रज्जुतत्त्वज्ञानवदिति भावः ।  
+(830)  
+गुणप्रधानभावो हि विना नैवैकवाक्यताम्।  
+वस्तुकार्यार्थतात्पर्यंभेदात् नापीह सा भवेत्॥(831)  
+न च प्रयोजनैकत्वलक्षणत्रैकवाक्यताम्।  
+\* अङ्गप्रधानवद्देन कल्पेतात्रैकवाक्यता॥(832)  
+ प्रसंख्यानविधेः तत्त्वमादिवाक्यशेषत्वमित्यस्य दूषणम्  
+तत्त्वमादिवाक्यस्य प्राधान्यं तच्छेषत्वं प्रसंख्यानविधेरुक्तं दूषयति--गुणेति । एकवाक्यत्वमपि एकार्थत्वात् एकफलत्वाद्वा । नाद्द इत्याह--वस्त्विति । तत्त्वमादेः वस्तुपरत्वात् प्रसंख्यानविधेः नियोगपरत्वादित्यर्थः।  
+(831)उभयोर्मोक्षपरत्वात् द्वितीयकल्पोऽस्तु ----तत्राह--नचेति । व्यतिरेकमुदहरति --अङ्गेति । यदाग्नेयोऽष्टकपालोऽमावास्यायामित्यादिना कालयुक्ताग्नेयादिकर्माणि, (आघारमा)घारयतीत्यादिना चाघारादीनि कालासंयुक्तानि श्रुतानि । सर्वाणि किं समप्रधानानि, किमाग्नेयादीनि प्रधानानि आधारदीन्यङ्गानि इति संशये,  
+ पौर्णमास्यमावास्याशब्दयोः कालवाचकत्वेन प्रकृ(ता)(त)नात्मवाभावात् अधिकारवाक्यस्थोपपदस्य यजिसामानाधिकरण्येन नात्वकल्पनात् तत्पारतन्त्र्यात् यजेश्च प्रकृतयागमात्रवचनत्वात् सर्वेषां प्राधान्यमिति प्राप्ते,  
+ य एवं विद्वान्यजते इति वाक्यद्वयस्य यजिबलात् प्रकृताग्नेयानुवादकत्वात् पौर्णमास्यमावास्याशब्दयोः समुदायद्वयार्थतया प्रसिद्धार्थत्वात् आधिकारिकम्(पपदो)पादानं तत्रैवेति तदनुरोधात् यजतेरपि तादर्थ्यादाग्नेयादीनामेवाधिकारसंबन्धात् प्राधान्यम्, अन्येषामङ्गता इति द्वितीये स्थितमित्यर्थः ।  
+(832)अङ्गेषु फलश्रुतेरर्थवादत्वात् फलवत्सं (मि(नि)धिसमाम्नातानां तदेकवाक्यत्वं फलवत्त्वसिद्धये, इत्येतदत्रायुक्तमिति प्रतिपादयति--स्वत इति ।साध्यं --अनुष्ठेयं प्रसंख्यानं मोक्षस्य नोपकारकम्। किमतः, तत्राह--न चेति ।  
+स्वतः सिद्धस्य मोक्षस्य न साध्यमुपकारम्।  
+न चान्यथाङ्गता द्दृष्टा प्रधानानुपकारिणः ॥(833)  
+आत्मलाभे न शास्त्रं च नित्यत्वात्कार्यमीक्षते ।  
+स्वतोऽभिधानशक्तत्वान्नापि चैकात्म्यबोधने॥(834)  
+प्रसंख्याने च शास्त्रार्थे सकृदेव कृते भवेत्।  
+ऐकात्म्यानुभवो नो चेत् विसंवादादमानता ॥(835)  
+स्वर्गादिफलस्यानुपकारकं गमनादि तत्साधनयागादेरङ्गं न भवतीत्यर्थः।  
+(833)प्रयाजादिवत् फलोपकार्यङ्गत्वाभावे, प्रोक्षणादिवत् स्वरुपोपकार्यङ्गत्वमिति चेत् । तर्हि प्रसंख्यानं शास्त्रस्य स्वरुपे, अर्थबोधनसामर्थ्ये वा उपकारकम्। आद्दंप्रत्याह--आत्मेति । द्वितीयं दूषयति--स्वत इति ।(834)  
+ प्रसंख्यानस्यानुभवफलत्वाभावः  
+गुणप्रधानभावं निराकृत्य प्रसंख्यानस्यानुभवफलत्वाभावं पुनरपि प्रतिपादयति--प्रसंख्याने चेति । द्दृष्टफलत्वात् प्रसंख्यानस्य सकृदनुष्ठितादेव तस्मादनुभवो भवेत् । न चेत्,असकृदनुष्ठानेऽपि न भवेत्, सकृदनुष्ठाने फलादर्शनविसंवादात् । अतस्तद्विधायकशास्त्रस्यामानतेत्यर्थः ।  
+(835)अस्मिन् काले एतावत्संख्याकप्रसंख्यानादनुभवो भवेदिति विहितत्वात् असकृदनुष्ठितात् फलम्, अत्राह--न चेति । कृष्यादाविव फलसन्देहादपि प्रसंख्याने प्रवृत्तिः, अत्राह--नापीति ।  
+न चात्र चोदितः कालः संख्या वा येन निश्चयः ।  
+तद्द्द्वारेण भवेन्नापि सन्दिग्धे स्यात्प्रवर्तनम्॥(836)  
+आरुह्याप्यथवा दूरं विसंवादपराङ्मुखः ।  
+यत्किञ्चित्कामतः कुर्यात् अकृतार्थोऽथवा पतेत्॥(837)  
+प्रसंख्यानात्फलस्य कदाचिदप्यद्दृष्टेरित्यर्थः।  
+(836)सन्देहात् प्रवृत्तिं स्वीकृत्याह---आरुह्येति । दूरमारुह्यापि
+---असकृदनुष्ठास्यति चेत्, अकृतार्थो भवेत्, अन्यस्याकृतत्वादस्माच्चनुभवादर्शनादित्यर्थः ।  
+(837)कथं पतनम्, 'न हि कल्याणकृत् कश्चित् दुर्गतिम् '(भ.गी.6-40)इति स्मृतेः, अत्राह--अद्दृष्टेति । पतनाभावे प्रसंख्यानविधानमद्दृष्टफलमग्निष्टोमादिवत्, इष्टफलस्य कर्मणो वाङ्गमुद्भीथविधानवत् भवेदित्यर्थः ।  
+(838)अद्दृष्टार्थप्रसंख्यानं शास्त्रशेषमस्तु, को दोषः,अत्राह--ततश्चेति । प्रसंख्यानविधेरद्दृष्टफलत्वे स एव प्रधानं भवेत्, शास्त्रं तच्छेषं स्यात्, यदैकस्मादपूर्वं तदितरत् तदर्थमिति न्यायात् । अतश्च प्रातिलोम्येन कार्यं ---प्रामाण्या(य)कल्पितो विधिरप्रामाण्याय संवृत्तः इति वैपरीत्येन फलं स्यात्। हेतुमाह---शास्त्रबाधनादिति । अन्यपरस्य प्रत्यक्षादिविरोधे प्रामाण्यायोगादित्यर्थः । दोषान्तरमाह--अश्रद्धेति । प्रसंख्याननियोगादनुभवानुपलम्भादिति भावः।  
+ततश्च प्रातिलोम्येन कार्यं स्याच्छास्त्रबाधनात् ।  
+अश्रद्धा च मुमुक्षूणां कार्यबाधोऽपि च स्थितः॥(839)  
+वस्तुतत्त्वानपेक्षत्वात् कार्यमात्रप्रधानता ।  
+शास्त्रच्च वस्तुनोऽलाभात् कार्यं किंविषयं भवेत् ॥(840)  
+यदि तद्वस्तुयाथात्म्यं शास्त्रं न प्रतिपादयेत् ।  
+\*वस्त्वसिद्धेस्ततः कार्यप्राधान्यादर्थवादता ॥(841)  
+अद्दृष्टफलत्वे कथमनुपलम्भादश्रद्धा, अत्राह--कार्येति । निर्विषयः प्रसंख्याननियोगो न स्यादित्यर्थः ।(839)  
+ प्रसंख्यानविधिनिरासः  
+नियोगविषयो ज्ञानावृत्तिरित, ज्ञानकारणं वाच्यम् । तत् किं विधिवाक्यं, तत्त्वमादिवाक्यं वा । नाद्द इत्याह--वस्त्विति । प्रसंख्यानविधिवाक्यस्य नियोगपरत्वेन वस्तुतत्वादित्यर्थः। द्वितीयं दूषयति--शास्त्राच्चेति । तत्त्वमादिवाक्यस्य नियोगपरस्य प्रत्यक्षादिविरोधे स्वार्थे प्रामाण्यानुपपत्तिरित्यर्थः।  
+(840)किञ्च तत्त्वमादिवाक्यं स्वार्थं न प्रतिपादयति, प्रतिपादयति वा । तत्रबाद्दमनुवदति---यदीति । दूषयति--वस्त्वसिद्धेरिति । प्रसंख्याननियोगपरत्वात् तत्त्वमादिवाक्यमर्थवादः ---अप्रमाणं स्यादित्यर्थः ।  
+(841)द्वितीयमादत्ते--अथेति ।  
+अथैकात्म्यार्थनिष्ठं सच्छास्त्रं स्यात्प्रतिपादकम्।  
+आपरोक्ष्यात्तदा कार्यं व्यर्थं पारोक्ष्यहानिकृत् ॥(842)  
+शास्त्रात्कथं च तत्सिद्धिः याथात्म्यानवबोधकात् ।  
+\*नानश्वरुपे सिद्धेऽपि गव्यश्वस्य प्रसिद्धता ॥(843)  
+शास्त्राच्छ्रवणमात्रेण कार्याच्चानुभवो यदि ।  
+वस्तुन्यनिश्चिते वार्ता सार्थवादेऽपि द्दृश्यते ॥(844)  
+वाक्योत्थज्ञानादेवात्मापरोक्षसिद्धेः पारोक्ष्यहानिकृत् प्रसंख्याननियोगो व्यर्थः स्यादित्यर्थः। (842)  
+वस्तुनः असंसृष्टापरोक्षस्वभावत्वेऽपि शास्त्रं स्वसामर्थ्यानुसारेण संसृष्टपरोक्षं बोधयतीति तत्साक्षात्करणाय प्रसंख्यानविधिः, अत आह--शास्त्रादिति । अबोधकत्वेन मिथ्याबोधकत्वेन वा शास्त्रममानं स्यादित्यर्थः। संकृष्टपरोक्षत्वेनापि बोधकत्वान्नाबोधकत्वं , नापि मिथ्याबोधकत्वं बाधाभावात्, अत्राह--नेति । अश्वाद्भिन्ने गवि प्रत्यक्षादिना सिद्धेऽपि (न)तज्ज्ञानादश्वस्य सिद्धिः । एवं संसृष्टपरोक्षरुपे कस्मिंश्चिद्वस्तुनि शास्त्रात्प्रतिपन्नेऽपि किमायातमसंसृष्टापरोक्षवस्तुन इत्यर्थः ।  
+(843)शास्त्राप्रामाण्यं प्रसंख्यानानर्थक्यं च परिहरन् आशङ्कते---शास्त्रादिति । श्रवणमात्रेणनुभवा(ना)रुढं वस्तु, शास्त्रात् सिद्धयति । प्रसंख्याननियोगादनुभव इत्यर्थः । असंसृष्टापरोक्षवस्तु निश्चितमनिश्चितं वा । आद्दे वाक्यादेव वस्तु अनुभवारुढं सिद्धम्। द्वितीये दोषमाह--वस्तुनीति । असंसृष्टापरोक्षविषयस्य यथार्थत्वव्यतिरेकेण अनुभवात्मकत्वमन्यन्नस्ति। यथावस्तु चेच्छास्त्रार्थप्रत्ययः अनुभवा(न्यथा)(त्मत्वे)प्रमाणं स्यात्,तदानुभवात्मकमिति वदता वस्तु (नि)(न)निश्चितमिति वार्तामात्रामुक्तम्। तदेवं विज्ञानमर्थशून्यमर्थवादेऽप्यस्ति। अतो नार्थवा (दवत्)(दात्)तत्त्वमादेर्विशेष इत्यर्थः।(844)  
+तत्त्वमादिवाक्यस्य अर्थवादसाम्ये किमनिष्टम्, तत्राह--ततश्चेति । यतः अर्थवादसाम्यात् तत्त्वमादेः कार्यपरत्वं बलादापतति तस्माद्, प्रसंख्यानवादिभिः तन्नियोगनिष्ठत्वं वृथैव परित्यक्तम्। वस्तुतात्पर्यविरहात् तद्बोधकत्वाभावे संपत्परं--प्रसंख्याननियोगपरं स्यात्।  
+ततश्च कार्यनिष्ठत्वं मुधैव परिवर्जितम्।  
+संपत्परं भवेच्छास्त्रं वस्तुतात्पर्यवर्जनात् ॥(845)  
+न चाप्याख्यायिकारुपमनुग्राह्यं श्रुतौ मतम्।  
+\*आदिमत्त्वादिदुष्टत्वात् पुमर्थत्वेन वर्ण्यते ॥(846)  
+पौनरुक्यत्यभयाच्चात्र यद्दर्थान्तरकल्पनम्।  
+ऐकात्म्योक्तौ विधिर्व्यर्थ इति द्वैतप्रकल्पनम्॥(847)  
+तस्मात् वस्तुपरं तद्बोधकत्वाभावे संपत्परं--प्रसंख्याननियोगपरं स्यात्। तस्मात् वस्तुपरं शास्त्रमिच्छता न प्रसंख्याननियो(गा)(गो)ङ्गीकार्य इत्यर्थः ।  
+(845)वेदान्तानां कथारुपत्वात् प्रसंख्याननियोगं विना वस्तुमात्रपरत्वेन प्रामाण्यं न सिद्धयतीति, अत आह--नचेति । अनेनोक्तम्, अनेन गृहीतम्, इत्ययमंशो न विवक्षितः । अन्यथा वेदस्य पौरुषेयत्वापत्तेरित्यर्थः । तर्हि(पु)(कि)मर्थं श्रुत्या आख्यायिका कथ्यते, तत्राह----पुमर्थत्वेनेति । विशिष्ट(स्य)पुरुषसंबन्धेनाभ्युदयमोक्षसाधनस्तुत्यर्थमितयर्थः ।(846)  
+ 'कार्यनिष्ठत्वं मुधैव परिवर्जितम्'इत्यत्र वेदान्तशास्त्रं कार्यपरमित्युक्तं मन्वानः चोदयति--पौनरुक्तयेति । कर्मशास्त्रं नियोगपरम् । एवं यदि ब्रह्मशास्त्रमपि, तदा पुनरुक्तिः स्यात् उभयत्र प्रतिपाद्दनियोगस्यैकत्वात् । अतः ब्रह्मशास्त्रं न (स्वनिष्ठ)कार्यपरं, (स्वशेष)प्रसंख्यानकार्य(ब्रह्मशास्त्र)परमित्यर्थः । यद्वा, कर्मशास्त्रवत् ब्रह्मशास्त्रस्यापि नियोगपरत्वे पौनरुक्तयस्य परिहर्तुं शक्यत्वात् नियोगपरत्वं कथं दोषत्वेनोच्यते, इति चोदयति--पौनरुक्तयेति । अबहिस्साधनो नियोगोऽत्र प्रतिपाद्दः। पूर्वत्र बहिस्साधनः इत्यर्थान्तरमित्यर्थः ।  
+ अथवा, वेदान्ते न नियोगोऽङ्गीकार्य इत्युक्तम्। तत्र चोदयति--पौनरुक्तयेति । प्रसंख्याननियोगाभावे 'तत्त्वमसि 'इति (छा.6-8-7)सकृत् श्रुताद्वाक्यात् उत्पन्नज्ञानात्कैवल्यमुक्तं स्यात् ।तदा तत्त्वमसीति नवकृत्य उपदेशोऽनर्थकः स्यात्, पुनरुक्तिप्रसङ्गात्। अ(तः)तत्परिहाराय शास्त्रशेषत्वेन प्रसंख्याननियोगोऽङ्गीकार्य इत्यर्थ।  
+ परिहरति--ऐकात्म्येति । कर्मब्रह्मशास्त्रविभागार्थमेव कल्प्यते । स विभागः ब्रह्मशास्त्रे नियोगानभ्युपगम एव स्यात्। नियोगा(न)भ्युपगमे भूतं भव्यायेति नियोगप्रधान्यात् कर्मशास्त्रं स्वनिष्ठनियोगपरं(त्वं)ब्रह्मशास्त्रं तु स्वशेषप्रसंख्यानकार्यपरमिति न विभागः स्यात् । नापि बहिस्साधनाबहिस्साधनत्वेन विभागः । द्वितीयतृतीयाध्यायवत् एकशास्त्रत्वेऽप्येवंविधविभागसंभवात् । तस्मात् ऐकात्म्योक्तौ विधिः व्यर्थः----नास्ति इति दैतप्रकल्पनं---शास्त्रविभागसिद्धिरित्यर्थः । तृतीयचोद्दपरिहारस्तु, 'तत्त्वमसि'(छा.6-8-7)इत्यसकृदभ्यासबलात् प्रसंख्यानकार्यस्वीकारे, विदुषोऽपि तर्हि ऐकात्म्यवाक्ये द्वैतं विना विधिः व्यर्थः ----न घटते इति द्वैतप्रपञ्चः परमार्र्थोऽभ्युपगन्तव्यः । स न संभवतीति । (847)  
+ शास्त्रावगते कार्ययुक्तयाद्दनपेक्षानिरुपणम्  
+एवं तावदैकात्म्येऽवगते युक्तिप्रसंख्यानयोरनुपयो(ग)(गि)त्वमुक्तम्। ननु, मानगृहीतेऽपि वस्तुनि असंभावनादितिरस्कृते कार्ययुक्तयपेक्षा लोकवत् स्यादिति, तत्राह--न ेचिति । (प्रयोजक)(परोक्ष)ज्ञानगृहीते युक्तयाद्दपेक्षायामपि, अपरोक्षज्ञानविषये तदपेक्षा न युक्ता, कर्तृत्वादेरुपर्दितत्वात्, प्रमिते प(रो)(रापे )क्षायां स्वतः प्रामाम्यहानिरपीत्यर्थः ।  
+(848)अपरोक्षप्रमितेऽप्यनपेक्षायामुदाहरणमाह--प्रत्यक्षेणेति । प्रत्यक्षावगतेऽपि दुष्टकारणजमिदम्, अ(पु)(दु)ष्टकारणजं वेति विचार्य अदुष्टकारणजत्वावधारणाय (प)रापे (क्ष)(क्षे)ति शङ्कते---अदुष्टेति । वेदजन्यवेदनस्यादुष्टकारणजत्वमपुंवाक्यप्रभवत्वेन सिद्धम्, इति परिहरति---सिद्धमिति ।  
+(849)विधिसंबन्धं विधूय तत्त्वमादेः न स्वार्थबोधकत्वम्, अध्यक्षादिबाधात् । विधौ तु न विरोधः तस्य सर्वप्रमाणबलवत्त्वात्, अत्राह--प्रत्यक्षेति ।  
+प्रत्यक्षादिविरोधश्च कार्यपक्षेऽपि तु स्थितः ।  
+ऐकात्म्यानुभवो हि स्यात् कथमक्षादिबाधनात् ॥(850)  
+तन्निषेधात्तु या सिद्धिः न सा कार्यप्रसादतः ।  
+प्रमाणादेव शास्त्रात्सा, न मेयात्कार्यतो भवेत्॥(851)  
+\*का वा कार्येऽस्ति ते युक्तिः शास्त्रं चेदुभयोः समम्।  
+अज्ञातज्ञापनादन्यत् शास्त्रान्नेति पुरोदितम्॥(852)  
+विधेः सर्वप्रमाणात् बववत्त्वे प्रमाणाभावात् विधिपक्षेऽपि विरोधतादवस्थ्यात् ,ऐकात्म्यवाक्यस्यान्यपरस्य सति विरोधे 'यजमानः प्रस्तरः'इति वदप्रामाण्यमित्यर्थः।  
+(850)प्रत्यक्षादिनिरासेन प्रसंख्याननियोगाद्वस्तुसिद्धिरिष्टेति, अत्राह--तन्निषेधादिति । विरोधपरिहारद्वारा वस्तुसिद्धिः प्रमाणादेव युक्तेत्यर्थः ।  
+(851)शास्त्रावगते नियोगानपेक्षायां हेत्वन्तरमाह--का वेति। शास्त्रं---तत्त्वमादिवाक्यम्, उभयोः ----नियोगब्रह्मणोः, आवयोर्वा, प्रमाणत्वेन (समं)यदि, तर्हि साध्याभावादज्ञाननिवृत्तेर्ज्ञानफलत्त्वात् अनर्थको नियोग इत्यर्थः ।  
+(852)शास्त्रादवगते युक्तयनपेक्षायां, मृदादिद्दृष्टान्तैः शास्त्रेणोपन्यस्यमानन्यायानर्थक्यम्, अत्राह--पुमर्थमिति । श्रुतिः प्रकृत्यैव----- स्वारसिकसामर्थ्येनैव संविदानन्दवस्तु प्रतिमाद्द
+---असंभावनाविपरीतभावनाभिभूतमापातदर्शनमुत्पाद्द,  
+\*पुमर्थं प्रतिपाद्दापि प्रकृत्यैव श्रुतिः पुनः ।  
+तमेव युक्तिभिः सार्धं वदन्ती स्वार्थमीक्षते॥(853)  
+नैतावतापराधेन युक्तयो मानकारणम्।  
+शब्दमात्रादसंसिद्धेरनपेक्षत्वहानतः ॥(854)  
+न वायोः क्षिप्रकारित्वात् श्वेतालम्भो विभूतये ।  
+\*विध्युद्देशात्तु तत्सिद्धेः शैघ्रयं तूक्तं प्रवृत्तये ॥(855)  
+तदसंभावनादिनिरासफलयुक्तिभिः सह वदन्ती स्वार्थं---अखण्डापरोक्षम्, ईक्षते--सद्दो मुक्तिफलमनुभवं प्रसूते इत्यर्थः।  
+(853)शास्त्रादवगतेऽपि युक्तयपेक्षायां मत्पक्षप्रसक्तिः, अत्राह--नेति । ज्ञानस्य स्वार्थनिश्चये न युक्तयपेक्षा, किन्तु प्रतिबन्धविगमे इत्यर्थः । अर्थनिश्चितिरेवयुक्तिफलं किं न स्यात्, अत्राह--शब्देति । अनपेक्षत्वहानतः-----पुंवचोवत् सापेक्षत्वं प्राप्नोतीत्यर्थः ।  
+(854)प्रतिबन्धविगमात्रे युक्तयपेक्षायां द्दृष्टान्तामाह---न वायोरिति । वायुर्वै क्षेपिष्ठा देवता इति क्षिप्रकारित्वकथनं न श्वेतालम्भस्य विभूतिसाधनत्वज्ञापनाय, विधित एव तत्सिद्धेः । किन्तु प्ररोचनाद्वारा पुंस्प्रवृर्त्थम्। एवमत्रापि ज्ञानस्योत्पत्तौ अर्थनिश्चितौ च न युक्तयपेक्षा, अपितु प्रतिबन्धविगमे एवेत्यर्थः ।  
+(855)  
+ आत्मनो ब्रह्मत्वानुभवस्य वाक्यफलत्वनिरुपणम्  
+अवश्यापेक्षणीययुक्तिभिरेवात्मनो ब्रह्मत्वसिद्धेः किं शास्त्रेण, अत्राह--जाग्रदिति । त्वंपदार्थविवेको युक्तिफलम्। ब्रह्मत्वानुभवो वाक्यफलमित्यर्थः।  
+(856)ब्रह्मात्मनिश्चयो (न)वाक्यस्यापि फलम्, आवृत्तिसाध्यत्वात्, अत्राह--असिद्धमिति । आत्मज्ञानमभ्यस्यमानं नापरोक्षप्रमितिजनकं ज्ञानत्वात् प्रत्यक्षादिज्ञानवत् इत्याह--नैव हीति ।  
+(857)द्दृष्टान्ते साध्यवैकल्यं परिहरति--न चेति । यथा लौकिकवाक्यस्य संसृष्टपरोक्षधीहेतुत्वेऽपि, तत्त्वमादेः असंसृष्टापरोक्षबोधकत्वम्, एवमन्यत्रावृ(त्त)(त्त्य)नपेक्षत्वेऽप्यत्र तदपेक्षत्वं स्यात्, अत्राह--अन्याद्दृक्षेति। आत्मनोऽसंसृष्टापरोक्षत्वात् तत्त्वादेः तद्वोधकत्वेऽपि नावृत्त्यपेक्षप्रमाणस्यात्र संभवः न्यायाभावादित्यर्थः ।  
+(858)ब्रह्मात्मानौ मानान्तरादनवगतौ, अवगतौ वा । प्रथमे तत्त्वमादेरबोधकत्म्, इत्याह--अलौकिकेति । द्वितीये अनुवादकत्वम्, इत्याह---ब्रह्मात्मेति ।  
+(859--860)  
+नात्मन्येवादत्मशब्दस्य प्रयोगात्स्यादलौकिकः ।  
+ब्रह्मार्थोऽपि महत्वेन प्रसिद्धो व्यवहारतः ॥(861)  
+एवं पदात्परिज्ञाते पदार्थे लोकमानतः ।  
+\*वाक्यार्थोऽतीन्द्रियो वेदे वाक्यात्केन निवार्यते ॥(862)  
+\*अपूर्वदेवतास्वर्गपदार्थेष्वपि लोकतः ।  
+सिद्धेषु, अतीन्द्रियोऽप्यर्थो वाक्यादेवागम्यते ॥(863)  
+विषयोपल(ब्धि)(ब्धरि)वृद्धव्यवहारे संबन्धग्रहादात्मशब्दो नालौकिकः, इति परिहरति---नेति । बृहतेर्धातोरर्थानुगमेन निरङ्कुश महत्वविशिष्टे ब्रह्मशब्दव्युत्पत्तेः ब्रह्मशब्दोऽपि नालौकिकः, इत्याह--ब्रह्मेति ।  
+(861)तर्हि अनुवादकत्वं वाक्यस्य स्यात्,अत्राह---एवमिति ।  
+(862)अन्यत्र गृहीतसंगतिकानामन्यबोधकत्वमयुक्तम्, इत्यत्राह--अपूर्वेति । कृतिसाध्यमात्रे संप्रदानकारकमात्रे सुखमात्रे(वा)(चा)पूर्वादिशब्दानां लोके गृहीतसंगतिकानां वेदे स्वर्गकामादिपदान्तरसमभिव्याहारेण विशिष्टार्थबोधकत्वं यथा, तथात्रापीत्यर्थः।(863)  
+ तत्त्वंपदयोः पर्यायत्वे पदमात्रादेव तत्सिद्धेः वाक्योपादानमनर्थकमित्याशङ्कय, लक्षणया अखण्डपर्यवसानं वक्तुं अन्वितमात्रे संगतिप्रतिपादनायाह---नापेक्षेति ।  
+\*नापेक्षापूरणाशक्तेः प्रयोगसमवायिता ।  
+पदानां सपदार्थानां वाक्यात् व्यवहृतिर्यतः ॥(864)  
+वाक्यार्थायैव वाक्यं हि सर्वदैव प्रयुज्यते।  
+व्यवहारेषु वृद्धानां संबन्धस्तत्र गृह्यते॥(865)  
+भागान्तरप्रवेशेन भागत्यागेन च स्फुटम्।  
+\*वाक्यवाक्यार्थयोर्भेदे पदार्थानां निमित्तता ॥(866)  
+यद्भागस्यागमाद्दोऽर्थभागः स्यादधिकः क्वचित्।  
+\*तस्य भागस्य भागोऽसौ निमित्तं स्यान्नतु प्रमा॥(867)  
+मध्यमवृद्धव्यवहारकरं ज्ञानमपेक्षापूरणम्। तत्राशक्तेः
+---तदुत्पादनसामर्थ्याभावात्,पदमात्रस्य तदर्थमात्रस्य वा, अतो न प्रयोगसमवायिता---नोच्चार्यता । तत्र हेतुमाह--वाक्यादिति ।  
+(864)पदावगतानामर्थानां संसर्गबोधकत्वद्वारा व्यवहारहेतुत्वं न वाक्यस्य, इत्यत्राह--वाक्यार्थायेति। संसर्गज्ञानस्यात्रा शाब्दत्वपरिहाराय तन्निमित्तीकृत्य प्रयुक्तवाक्ये आवापोद्वापौ दर्शयति--भागान्तरेति । वाक्यस्येव पदानामन्वितार्थे धीजननसामर्थ्ये पदवाक्यतदर्थभेदो न भवेत्, अत्राह--वाक्येति । (त)(प)दभेदात् वाक्यभेदः पदार्थभेदात् वाक्यार्थभेदः इत्यर्थः ।  
+(866)यस्य पदस्य प्रवेशात् वाक्यात् वाक्यान्तरं भिद्दते, तत्पदं स्वार्थे प्रमाणम्। अन्यथा भेदकत्वासिद्धेः। अतः सर्वपदानां प्रामाण्यमविशेषात्, अत्राह--यद्भागस्येति । निमित्तं ---स्मारकमित्यर्थः ।  
+(867)यथा पदं स्वार्थस्य वाचकम्, एवं वाक्यस्य स्वार्थ वाचकत्वात् पदपदार्थयोरिव वाक्यतदर्थयोरपि सभागत्वा(त्)संभवात् प्रतिवाक्यं संबन्धग्रहप्रसङ्गे स्मारकत्वमेव न प्रमापकत्वम्, अत्राह--अत एवेति । अतश्शब्दपरामृष्टं स्पष्टयति--वाचकत्वेऽपीति । ततश्चेति ।  
+अत एव सभागत्वं वाक्यवाक्यर्थयोर्मतम्।  
+वाचकत्वेऽपि वाक्यस्य संसृष्टार्थाभिधानतः ॥(868)  
+ततश्चैवं समूहस्य वाचकत्वमवस्थितम्।  
+भागवत्त्वं च संसिद्धं वाक्यवाक्यार्थयोरतः ॥(869)  
+एवं च लोकतः सिद्धो वाक्यार्थः स्याच्छ्रुतावपि।  
+लौकिका एव शब्दार्था न्यायेनोक्ताः श्रुतौ यतः ॥(870)  
+पदार्थसमुदायबोधकत्वादित्यर्थः । (868)  
+इदानीं स्मारकत्वं परिहरति ---अतश्शब्दो यतइत्यर्थः । चशब्द एवकारार्थे। यतो वाक्यतदर्थयोर्भागवत्त्वमेव, ततः समूहस्य वाचकत्वं---प्रमाणत्वम्‌, अवस्थितमुत्यर्थः।  
+(869)एवमात्मब्रह्मादिशब्दानां योग्येतरसंसृष्टे गृहीतसंगतिकानामपि कथं वेदे अखण्डार्थबोधकत्वम्, अत्राह---एवं चेति । आत्मादिपदानां लोके संसृष्टार्थज्ञातशक्तीनां वेदे सामानाधिकरण्यविशेषणविशेष्यभावविरोधपरिस्फुरणैर्भागत्यागलक्षणया सोऽयमित्यादिवत् लोकतः ---वृद्धव्यवहारागतसामर्थ्यादेव सिद्ध इत्यर्थः ।  
+(870)लौकिका एव पदार्थाः इत्ययुक्तम्, तथा सति तद्वदेव सापेक्षतापातात्, अत्राह--नृविवक्षेति ।  
+नृविवक्षाव्यवायेन लोके शङ्का भवेदपि ।  
+\*वेदे त्वपौरुषेयत्वात् साक्षात्स्वार्थे प्रमाणता ॥(871)  
+न च कार्यपरत्वेऽपि पदानां संहतिः स्थिता।  
+अन्यत्रावगमो न स्यात्संबन्धज्ञानवर्जनात् ॥(872)  
+यथा च कार्ये तात्पर्यं कार्यं चापि न विद्दते ।  
+पूर्वमेव तथास्माभिः९युक्तिभिः संप्रसाधितम्॥(873)  
+\*अनादिवृद्धव्यवहृद्वयुत्पत्त्यैव च तत्स्थितेः ।  
+शब्दस्यार्थे संबन्ध आदिमत्ता न शङ्कयते ॥(874)  
+व्यवायः---व्यवधानम्। अर्थमुपलभ्य विवक्षित्वा प्रयोगादित्यर्थः ।  
+(871)लौकिकव्यत्पत्त्यनुसारेण वेदे अर्थनिर्णये नाखण्डार्थसिद्धिः, कार्यान्विते तत्र संगतिग्रहणात्, अत्राह--नचेति । कार्यपरत्वेनेत्यर्थः । सर्वत्राव्यभिचारिणः कार्यसंसर्गस्य त्यागो न युक्तो बाधकाभावात्, अत्राह--अन्यत्रेति । कार्यान्वितस्यैव शक्तिप्रतियोगित्वे, पुत्रस्ते जातः इत्यादौ नामपदार्थसंसर्गप्रतिर्न स्यादित्यर्थः।(872)पुत्रस्ते जातः तस्य क्रीडनं कुरु इति कार्याध्याहारस्य विवक्षितत्वात् तत्रापि प्रतिपत्तिः, अत्राह--यथेति ।  
+(873)  
+ शब्दार्थसंबन्धस्य साङ्केतिकत्वात् वेदान्तानामनपेक्षत्वाभावः   
+ इत्याक्षेपः, तत्परिहारश्च  
+परिनिष्पन्नब्रह्मात्मनि त्रय्यन्तप्रामाण्येऽपि नानपेक्षत्वं, शब्दार्थसंबन्धस्य साङ्केतिकत्वात् देवदत्तादिपदतदर्थसंबन्धवत्, अत्राह--अनादीति । शब्दः स्वाभाविकसामर्थ्येनार्थबोधकः, बोधकत्वात् चक्षुरादिवदित्यर्थः ।  
+(874)  
+प्रथमश्रवणे यत्र न शब्दार्थावधारणम्।  
+\*तत्राव्युत्पन्नता हेतुः शब्दानां नत्वशक्तिता ॥(875)  
+चक्षुर्द्रष्ट्रपि बाह्यं हि न प्रकाशं विनार्थद्दृक्।  
+नैतावतास्य सामर्थ्यं हन्यतेऽन्यस्य वा भवेत् ॥(876)  
+व्युत्पत्त्या न च संबन्धः क्रियते ह्यर्थशब्दयोः ।  
+अवस्थिते हि संबन्धे वृद्धेभ्योऽसौ प्रजायते॥(877)  
+शब्दानामर्थधीजननसामर्थ्यस्य नैसर्गिकत्वे प्रथमश्रवणमात्रात् तदर्थप्रतिपत्तिप्रसङ्गो बाधः, अत्राह--प्रथमेति ।  
+(875)संबन्धग्रहे सत्यर्थप्रतिपतौ शब्दस्यार्थधीसामर्थ्यं हीयेत, संबन्धग्रहस्यैव सामर्थ्यं स्यात्, अत्राह--चक्षु(रपि)(रि)ति। द्रष्ट्रपीति । रुपग्रहणकरणमीत्यर्थः । अन्यस्येति । बाह्यप्रकाशस्येत्यर्थः ।  
+(876)व्युत्पत्तिः स्व विषयसंबन्धमुत्पाद्द तद्द्वारा अर्थं बोधयिष्यति, इत्यत्राह---व्युत्पत्त्येति । चेतनस्यैव कर्तृत्वप्रसिद्धिरिति हिशब्दार्थ-। प्रजायत इति । ज्ञायदे इत्यर्थः।  
+(877)अस्तु तर्हि चेतन एव संबन्धस्य कर्तेति चेत् । किमसावसर्वज्ञः, सर्वज्ञो वा । नाद्द इत्याह--संबन्धेति । अनन्तत्वादित्यर्थः । द्वितीयं दूषयति--तत्कर्तुरिति ।  
+तटस्थेश्वरे मानाभावात् अनेनायं कृतः इति कर्तृस्मरणाभावाच्चेत्यर्थः ।परपक्षं प्रतिक्षिप्य, स्वपक्षसाधनमाह--तद्विनेति ।  
+संबन्धकरणशक्तेः तत्कर्तुश्चास्मृतेरपि ।  
+तद्विना व्यवहाराच्च सिद्धा संबन्धनित्यता ॥(878)  
+जीर्णकूपादिवत् कर्तुर्यदप्यस्मरणं न तत् ।  
+अभावगमकं नापि संबन्धेनास्य तुल्यता॥(879)  
+क्वचित् ज्ञातेषु दूरादिकारणे संशयोऽपि च ।  
+\*नात्यन्तानुपलब्धेषु स्वभावोऽतोषऽस्य निश्चितः ॥(880)  
+विमतः संबन्धः नित्यः, व्यवहाराविच्छेदे सति अस्मर्यमाणकर्तृकत्वात् आत्मवदित्यर्थः ।(878) सम्बन्धकर्तरि सत्ये(वं)(व)तदस्मरणं जीर्णकूपादिवत् इत्यन्यथासिद्धमाशङ्कयाह--जीर्णेति । शब्दार्थसंबन्धकर्त्रस्मरणं यत् तत् जीर्णकूपारामादिकर्त्रस्मरणतुल्यं न भवति। यतः इतं संप्रदायाविच्छेदे सत्यस्मरणं कर्त्रभा(वा)(व)गमकम्। न च शब्दार्थसंबन्धेन अस्य--जीर्णकूपादेः, तुल्यता । शब्दार्थसम्बन्धस्यानन्तत्वेन कर्तुमशक्यत्वात् कूपादेरल्पत्वेन कर्तुं शक्यत्वादित्यर्थः ।(879)  
+ 'अभावगमकम्'इति कथमुक्तम्, जीर्णकूपादाविव कर्तरि सत्येवास्मरणं, कर्त्रभावाद्वा इति संशयात्, अत्राह--क्वचिदिति । देशान्तरे कालान्तरे वा द्दृष्टेषु स्थाण्वादिषु दूरत्वमन्दान्धाकारादिकारणात् स्थाणुर्वा पुरुषो वेति संशयः, न तु अत्यन्तापरिद्दृष्टेषु सप्तमरसादिषु ।  
+संनिकृष्टार्तसंसृष्टस्वार्थमात्राभिधानतः ।  
+तस्मात् सिद्धोऽत्र वाक्यार्थो लोके वेदे प्रमाणवान्॥(881)  
+अतोऽवबोधकत्वेन दुष्टकारणवर्जनात् ।  
+अबाधाच्च प्रमाणत्वं वस्तुन्यक्षादिवत् श्रुतेः॥(882)  
+पुरुषार्थोपदेष्ट्रृत्वात् यद्वत्कार्ये प्रमाणता ।  
+\*तथैकात्म्ये विशेषाद्वा पुमर्थातिशयत्वतः ॥(883)  
+तेन संबन्धकर्तुरत्यन्तानुपलब्धस्य न संशय इत्यर्थः । फलितमाह--स्वभाव इति । अस्य--शब्दस्य, अर्थबोधनसामर्थ्यं स्वभाव इत्यर्थः।  
+(880)सिद्धे वेदान्तप्रामाण्यं सिद्धम्, इत्युपसंहरति--संनिकृष्टेति । तस्मात्--अर्थधीसामर्थ्यस्य स्वाभाविकत्वात् संनिहितयोग्येतरार्थसंसृष्टस्वार्थमात्रप्रतिपादकत्वादित्यर्थः ।(881)  
+ अवबोधकत्वादिभिः वेदान्तानां सिद्धवस्तुनि प्रामाण्यम्  
+किञ्च वेदान्तानां ब्रह्मणि अप्रामाण्यं किमबोधकत्वात्, संशयजनकत्वाद्वा, मिथ्याधीजनकत्वाद्वा, स्वार्थे प्रयोजनविरहाद्वा। तत्र पक्षत्रयं प्रत्याचष्टे ---अत इति । अनुग्राह्यप्रमाणमाह--अक्षादिवदिति । वेदः सिद्ध एवार्थे प्रमाणं प्रमाणत्वात् चक्षुरादिवदित्यर्थः।  
+(882)तुरीयं निरस्यति--पुरुषार्थेति । कर्मज्ञानवाक्ययोः तुल्यप्रमाणत्वे तुल्यफलत्वात् निरतिशयफलार्थिनां न नियमेन ज्ञानसाधने प्रवृत्तिः, अत्राह--विशेषाद्वेति ।  
+(883)प्रवृत्तिनिवृत्तिसाध्यसुखदुःखप्राप्तिपरिहारौ पुरुषार्थौ न जातु आत्मनि संभवतः, अत्राह--पुमानिति । इष्टानिष्टप्राप्तिपरिहारमात्रपेक्षते न साध्यत्वमपीत्यर्थः।पुमानिष्टस्य संप्राप्तिमनिष्टस्य च वर्जनम्।  
+इच्छन्नपेक्षते योग्यमुपायमपि तत्परः॥(884)  
+ग्रामादि किञ्चिदप्राप्तं प्राप्तुमिष्टमिहेच्छति ।  
+हेमादि विस्मृतं किञ्चित् करस्थमपि लिप्सते ॥(885)  
+परिहार्यं यथानिष्टं कण्टकादि जिहासति।  
+रज्जवां सर्पादि किञ्चिच्च त्यक्तमेव जिहासति॥(886)  
+नियतोपायसाध्यत्वादवाप्यपरिहार्ययोः।  
+विधितः प्रतिषेधाच्च साधनापेक्षता भवेत् ॥(887)  
+अज्ञानान्तरितत्वेन संप्राप्तत्यक्तयोः पुनः ।  
+\*याथात्म्यज्ञानतो नान्यत् पुरुषार्थाय कल्पते ॥(888)  
+अशेषानर्थविच्छेदं वाञ्छतः श्रुतितः श्रुते।  
+त्वं ब्रह्मेति, हृताशेषक्लेशो मोहप्रहाणतः॥(889)  
+तत्परः ---फलवत्साधनयत्नवानिति यावत्। (884)  
+साध्य एव पुमर्थः नासाध्योऽस्तीत्याशङ्कय, तत्प्रतिपादनाय विभजते
+---ग्रामादीति । (885)प्राप्यं विभज्य, परिहार्यं विभजते--परिहार्यमिति । (886)  
+ प्राप्तपरिहृ(त्)(त)प्राप्तिपरिहारौ प्रवृत्तिनिवृत्त्यन्यतरसाध्यौ, फलत्वात् संप्रतिपन्नवत्, अत्राह--नियतेति ।  
+(887)तर्हि स्वतः सिद्धत्वात् ज्ञानसाधनमपि नानुष्ठेयम्, अत्राह--अज्ञानेति ।  
+(888)'पुमर्थातिशयत्वतः'इति यदुक्तं तदेवं सति सिद्धम्, इत्याह--अशेषेति । यस्मात् ज्ञानादन्यत् पुरुषार्थसाधनं नास्ति तस्मात्, श्रुति(तः)---तत्त्वमादिवाक्यात्, श्रुते---ब्रह्मात्मैकत्वे अवगते, ज्ञानेन मोहप्रहाणतः----अज्ञानहानात् हृताशेषसंसारक्लेशो भवतीत्यर्थः ।(889)  
+वेदस्य सिद्धे प्रामाण्ये ह्यज्ञातार्थावबोधतः ।  
+कार्ये यथा प्रमाणत्वमैकात्म्येऽप्येवमिष्यताम्॥(890)  
+\*कार्याद्ददि तु मानत्वं मानत्वात्कार्यनिष्ठता ।  
+अन्योन्याश्रयतैवं स्यात्, एकस्यासिद्धितोऽन्यतः ॥(891)  
+औदासीन्यान्निषेधेषु न लभ्येत प्रमाणता ।  
+औदासीन्यं निवृत्तिर्हि स्वरुपालम्बनं च तत् ॥(892)  
+सोऽरोदीत्यादिवाक्यानां कार्यावेशात्प्रमाणता ।  
+\*अपुमर्थोपदेष्टृत्वात्, तच्च नात्रेत्यकारणम्॥(893)  
+किं वेदस्य प्रामाण्यमनधिगतार्थगनतृत्वात्, कार्यनिष्ठत्वाद्वा । प्रथमं प्रत्याह---वेदस्येति। कर्मज्ञानवाक्ययोः अज्ञातज्ञापनं तुल्यमित्यर्थः ।  
+(890)द्वितीयं दूषयति--कार्यादिति । कार्यनिष्ठत्वे प्रामाण्यं, प्रामाण्ये सति कार्यनिष्ठत्वमित्यत्र हेतुमाह--एकस्येति ।  
+(891)कार्यनिष्ठत्वं न प्रामाण्यप्रयोजकमसंभवात् इत्युक्तम्। इदानीमव्यापकत्वादप्यप्रयोजनकम्,इत्याह--औदासीन्यादिति । तत्र औदासीन्यमेव कार्यमिति तन्निष्ठत्वेन प्रामाण्यम्, अत्राह--औदासीन्यमिति । रागप्राप्तब्रह्मणहननकञ्जभक्षणादिक्रियानिवृत्तिरित्यर्थः । निवृत्तिरेव कार्या, इत्यत्राह--स्वरुपेति । प्राप्तक्रियाप्रतिबन्धे सति आत्मनः अप्रच्युतपूर्वरुपेणावस्थानमौदासीन्यम्। न तत्र नियोगसंभवः, तस्य क्रियाविषयत्वादित्यर्थः।  
+(892)वेदान्ताः कार्यशेषत्वेन प्रमाणम्, सिद्धार्थवेदत्वात् सोऽपरोदीदित्यादिवाक्यवत् इत्याशङ्कय, स्वार्थे फलविकलवेदत्वमुपाधिः, इत्याह--सोऽरोदीति । साधनव्याप्तिं परिहरति--तच्चेति । अकारणं--अप्रयोजको हेतुरित्यर्थः ।  
+(893)
+
+\*न चैकात्म्याभ्युपायस्य मिथ्यात्वमिह शङ्कयते।  
+उयेयाप्तौ कृतार्थत्वादुपायं प्रत्यनीक्षणात् ॥(894)  
+ऐकात्म्यप्रतिपत्तेः प्राक् न मिथ्या हेत्वभावतः ।  
+\*पुरुषार्थवसायित्वान्नाप्यूर्ध्वमनपेक्षणात् ॥(895)  
+ श्रुत्यादेर्मिथ्यात्वात् तज्जन्यमैकात्म्यज्ञानमप्रमाणमिति  
+ शङ्का, तन्निरासश्च  
+वेदान्तानां सिद्धपरत्वादिनिमित्ताप्रामाण्याभावेऽपि, श्रुत्याचार्यादेः मिथ्यात्वात् तज्जनितं ज्ञानमप्रमा, मिथ्याधूमजज्ञानवत्, अत्राह---न चेति। मिथ्यात्वं ज्ञानाप्रामाण्यकारणं न शङ्कनीयम्। उपेयस्यैकात्म्यस्य सत्यत्वेन तज्ज्ञानस्य प्रतिबिम्बजन्यबिम्बानुमानस्येव प्रामाण्योपपत्तौ उपायसत्यत्वानादरणादित्यर्थः।  
+(894)उपायमिथ्यात्वं ज्ञातमप्रामाण्यकारणं, स्वरुपेण वा । नाद्दः इत्याह--ऐकात्म्येति । तत्त्वसाक्षात्कारात् प्रागुपायस्य न मिथ्यात्वधीः, बाधाभावात्।यद्दप्युत्तरकालं मिथ्यात्वावगमः, तथापि न प्रामाण्यविरोधो दूषणम्।  
+\*उपेयबोधनं मुक्तवा मितेर्नान्यास्ति सत्यता।  
+सत्यादप्यनुपायत्वात् घटान्नाग्निर्हि गम्यते॥(896)  
+धूमाभासात्तु बाष्पादेः यदग्निर्नावगम्यते ।  
+हेतुस्तत्रानुपायत्वमसत्यत्वं पुनर्न तु ॥(897)  
+धूमवत्परमार्थत्वमुपायत्वान्न लभ्यते।  
+वेदान्तानां तथैकात्म्यश्रुतिबाधः स्फुटो भवेत् ॥(898)  
+प्रमाणफलस्य प्राप्तत्वेन तदनादरणादित्यर्थः ।  
+(895)द्वितीयेऽपि, किमर्थक्रियाभावो(पि)मिथ्यात्वं, परमार्तत्वाभावो वा नाद्दः, असिद्धेः । नेतरः अनुपयोगात्, इत्याह----उपेयेति । मितेः--ज्ञान(स्य)साधनस्य । मेयधीजनकत्वमन्तरेण नान्या सत्यता प्रामाण्योपयोगिनी ।यतः घटस्य स्वरुपसत्यत्वेऽपि नाग्निप्रमाजनकत्वमित्यर्थः।  
+(896)उपेयबोधनमेव मिथ्यात्वे बाष्पधूमादिवत् न स्यात्, अत्राह--धूमेति । अनुपायत्वं---अव्याप्तत्वम। त(त्त्व)(त्तु)कारणं नासत्यत्वम्। व्याप्तस्य प्रतिबिम्बादेः गमकत्वादित्यर्थः ।  
+(897)श्रुत्यादि सत्यं प्रमाहेतुत्वात् धूमवत्, इत्यत्राह--धूमवदिति । हेतुमाह---तथेति । 'एकमेवाद्वितीयमम्'(छा.6-2-1)नेह नानास्ति किञ्चन(बृ.6-4-19)इति श्रुति विरुद्धकालात्ययापदिष्टत्वमित्यर्थः ।  
+(898)  
+\*बाष्पवन्नापि मिथ्यात्वादनुपायत्वमिष्यते।  
+ऐकात्म्याबोधबाधेन सिद्धा तूपायसत्यता ॥(899)  
+श्रुतेरैकात्म्यसंवित्तौ चरितार्थत्वतो मितेः ।  
+वृथोपायपरीक्षा स्यादुत्तीर्णस्य प्लवे यथा ॥(900)  
+\*बाह्येष्वर्थेष्वनात्मत्वात् पुनः शङ्का भवेदपि ।  
+अत्रात्मत्वादुपेयस्य का शङ्का मानतां प्रति ॥(901)  
+किञ्च श्रुत्यादि न प्रमाजनकं, मिथ्यात्वात् मिथ्याधूमवत् इत्यत्र परमार्थसत्यतावैधुर्यं चेत् मिथ्यात्वं, वर्णदैर्ध्यादौ व्यभिचारः(तिं)कार्य(प)(क)रत्वाभावश्चेत्, असिद्धिः, इत्याह--बाष्पवदिति ।  
+(899)आत्मा मिथ्या कल्पितजन्यज्ञानविषयत्वात् स्वप्नद्दृष्टार्थवत्, अत्राह--बाह्येष्विति । जडत्वमुपाधिरित्यर्थः ।(901)  
+ अखण्डं ब्रह्म वेदान्तवाक्यार्थः  
+यदि वेदान्तानां ब्रह्मणि प्रामाण्यं, तर्हि ब्रह्म नाखण्डं वाक्यार्थत्वात् लौकिकवाक्यार्थवत्, अत्राह--अन्यत्रेवेति । भेदः क्रियाकारकसंसर्गः भिद्दते इति व्युत्पादनात्, गामानयेत्यदौ वाक्यार्थः।  
+\*अन्यत्रेव न चाप्यत्र वाक्यार्थो भेदलक्षणः ।  
+संसर्गलक्षणो वापि ब्रह्मात्माभेदतो भवेत् ॥(902)  
+ब्रह्मणोऽनात्मतारुपमब्रह्मत्वं तथात्मनः।  
+अज्ञानलक्षणं शास्त्रात् ज्ञानं हन्ति समुत्पतत् ॥(903)  
+\*नेहान्यत्रात्मनो ब्रह्म तथात्मा ब्रह्मणोऽन्यतः ।  
+तादात्म्यमनयोस्तस्मान्नीलोत्पलविलक्षणम्॥(904)  
+अब्रह्मानात्मते यद्वदत्राज्ञाननिबन्धने।  
+आत्मताब्रह्मते नैवमन्यस्मादित्यतः स्वतः ॥(905)  
+शुक्लो घटः इत्यादौ तु संसर्गः ---समवायः, तादात्म्यलक्षणो वा वाक्यार्थः इत्यर्थः ।(90)जीवस्य संसारित्वात् ब्रह्मणः परोक्षत्वात् नानयोरैक्यम्, अत्राह---ब्रह्मण इति ष अज्ञानं लक्षणं---कारणं यस्य तत् अज्ञानलक्षणम्। विमतमज्ञानकृतं ज्ञानेन समूलं निवर्त्यमानत्वात् रज्जुभुजङ्गवत्, इत्याह--शास्त्रादिति ।  
+(903)प्रत्यग्ब्रह्मणोः नीलोत्पलवत् भिन्नाभिन्नत्वात् संसर्गादिरेव वाक्यार्थः, अत्राह--नेहेति ।  
+(904)ब्रह्मणोऽनात्मत्वं, आत्मनोऽब्रह्मत्वं चाज्ञानकृतमित्युक्तम्। तत्र नेहेति ।ब्रह्मणोऽनात्मत्वं, आत्मनोऽब्रह्मत्वं चाज्ञानकृतमित्युक्तम्। तत्र विपरीतं किं न स्यात् आत्मता ब्रह्मणः कल्पिता, ब्रह्मता त्वात्मनः इति, तत्राह---अब्रह्मेति । हेतुमाह--अन्यस्मादिति । अन्यस्यान्तो भेदः इति धर्मिप्रतियोगिभावसिद्धौ भेदसिद्धिः, भेदसिद्धौ तत्सिद्धिरित्यतो भेदस्य कल्पितत्वम्। अभेदः स्वाभाविकः-----परमार्थ इत्यर्थः ।(905)फलितमाह--नाम्नोरिति ।  
+\*नाम्नोरेवं च संबन्ध ऐकात्म्यात्स्यात्क्रियां विना।  
+षष्ठीं च, न क्रियाषष्ठयोर्विना भेदात्प्रवर्तनम्॥(906)  
+महत्ता यद्वदाकाशे घटाकाशव्यपेक्षया ।  
+पराक्तवापेक्षया तद्वत् प्रत्यक्ता नात्मनीक्ष्यते॥(907)  
+प्रत्यक्त्वमद्वितीयत्वं बोधवन्नन्यबन्धकनम्।  
+अपारार्थ्यान्न बोधो हि स्यादबोधनिरासतः ॥(908)  
+आत्मापि सदिदं ब्रह्म मोहात्पारोक्ष्यदूषितम्।  
+ब्रह्मापि सन् तथैवात्मा सद्वितीयतयेक्ष्यते॥(909)  
+आत्मा ब्रह्मेति पारोक्ष्यसद्वितीयत्वबाधनात्।  
+पुमर्थे निष्ठितं शास्त्रमिति सिद्धं समीहितम्॥(910)  
+षष्ठीगुणक्रियाजातिरु(ढ)(पाद)यो नापेक्ष्यन्ते, इत्यत्र हेतुमाह---ऐका(त्म्या)दिति । हेतुं व्यतिरेकद्वारोपपादयति--न क्रियेति ।  
+(906)ब्रह्मात्मनोरभेदेऽपि नाखण्डार्थसिद्धिः प्रत्यक्तवस्य पराक्तवापेक्षत्वात्, अद्वितीयत्वस्य द्वैतापेक्षत्वात्, अत्राह--महत्तेति ।  
+(907)कथं तर्हि तत्, अत्राह--प्रत्यक्तवमिति । पराक्तवाभावोपलक्षितं रुपं प्रत्यक्तवम्, सर्वप्रकाराभावो०पलक्षितं(अ)द्वितीयत्वमित्यर्थः। द्दृष्टान्तं साधयति---अपारार्थ्यादिति । अनन्यशेषत्वात् जाडयाभावोपलक्षितं स्वरुपं बोधः इत्यर्थः ।  
+(908)अवान्तरप्रमेयमुपसंहरति----आत्मापीति ।  
+(909)महाप्रमेयं निगमयति---आत्मा ब्रह्मेति ।  
+(910)  
+ननु भेदाश्रितैर्वाक्यैर्विधायकनिषेधकैः।  
+अक्षादिभिश्च नैकात्म्यं बाधितत्वात् प्रमाणवत्॥(911)  
+न चाप्यैकात्म्यशास्त्रस्य तैर्विकल्पसमुच्चयौ ।  
+प्रामाण्ये नापि बाध्यत्वं तेषां तेन कथंचन॥(912)  
+विरुद्धमानभावेऽपि न हि वस्तु विकल्प्यते ।  
+भेदाभेदौ न च स्यातां विरोधाद्दुगपत्क्वचित्॥(913)  
+भिन्नाभिन्नं न वो वस्तु येन मानाविरोधिता ।  
+नेह नानेति भेदानां निषेधात् क्व नु भेदधीः॥(914)  
+वर्णादिग्रहणोपायो नापीहाक्षादि बाध्यते ।  
+संस्काराय च यच्छास्त्रमात्मज्ञानोपकारकम्॥(915)  
+ भेदावलम्बिना कर्मकाण्डेन अक्षादिना च विरोधात् अद्वैतब्रह्मणि   
+ वेदान्तसमन्वयस्याक्षेपः  
+एवं प्रत्य(या)(ग)द्वये ब्रह्मणि वेदान्तानां प्रदर्शितं समन्वयमाक्षिपति----नन्विति । विधिनिषेधरुपकर्मकाण्डेन प्रत्यक्षादिना भेदालम्बनेन विरोधात् न वेदान्तप्रामाण्यं, ब्रह्मणीत्यर्थः।व्रीहियववाक्यवत् कर्मज्ञानवाक्ययोः विकल्पेन प्रामाण्यं, दर्शपूर्णमासवाक्यवत् समुच्चयेन(वश्यात्)(वा स्यात्), अत्राह---न चेति। तर्हि भेदप्रमाणानामद्वैतागमेन बाध्यत्वम्, अत्राह---नापीति ।  
+(912)विकल्पसमुच्चभावे हेतुमाह--विरुद्धेति । विरुद्धमात्र समुच्चयः, अक्रियात्वान्न विकल्प इत्यर्थः ।आत्मनो भिन्नाभिन्नत्वात् अभेदालम्बनं ज्ञानवाक्यं, इतरद्भेदांशालम्बनमिति न विरोधः, तत्राह--भेदेति ।  
+(913)न केवलं भिन्नाभिन्नत्वासंभवः, तदभ्युपगमे भवतः सिद्धान्तविरोधोऽपि, इत्याह--भिन्नाभिन्नमिति । प्रामाणिकत्वादयमेव सिद्धान्तः किं न स्यात्, अत्राह--नेहेति ।  
+(914)इदानीं प्रत्यक्षादेरद्वैतवाक्येनाबाध्यत्वे हेतुमाह---वर्णादीति ।  
+\*उपचारार्थतः शास्त्रं सावकाशं जपेऽथवा ।  
+अक्षादेरकृतार्थत्वात् कथं स्यात्तेन बाधनम्॥(916)  
+उच्यते, लोकतः सिद्धं भेदमाश्रित्य चोदना ।  
+प्रवृत्ता पुरुषार्थाय, न तु भेदावबुद्धये ॥(917)  
+\*भेदस्य चापुमर्थत्वात् तादर्थ्ये स्यादमानता ।  
+पुमर्थत्वेन चास्येष्टं प्रामाण्यं वेदवादिभिः॥(918)  
+वर्णपदादिविभागविषयस्य प्रत्यक्षादेः, कर्मकाण्डस्य आत्मज्ञानहेतुभूतसंस्कार्यकर्मविधायकत्वेन चोपजीव्यत्वेन प्राबल्यादित्यर्थः।  
+(915)का तर्हि वेदान्तानां गतिरिति, तामाह--उपचारेति । अन्नं ब्रह्मेतिवदद्वितीयत्वोपासनपरमित्यर्थः। निरवकाशत्वाच्च प्रत्यक्षादेरबाध्यत्वम्, इत्याह--अक्षादेरिति । (916)  
+ कर्मकाण्डविरोधपरिहारः  
+इदानीं कर्मकाण्डे विरोधं तावत्परिहरति--उच्यत इति । एकस्य वाक्यस्योभयपरत्वायोगात् साध्यसाधनसंबन्धपरत्वं, भेदपरत्वं वा । आद्दे न विरोधः, इत्याह--लोकत इति । द्वितीयं दूषयति--न(न्वि)(त्वि)ति ।  
+(917)हेतुमाह--भेदस्येति । चशब्दात् अन्यतः सिद्धत्वाच्चेत्यर्थः । पुमर्थमन्तरेण तृणादि (व)गोचरप्रत्यक्षादिवत् प्रामाण्यं स्यात्, अत्राह--पुमर्थत्वेनेति।  
+(918) अध्यक्षविरोधनिरासः
+
+एवमप्यध्यक्षबोधोऽसमा(धि)(धे)य इति चेत् । तत्र किं प्रत्यक्षं वस्तुग्राहकं, (भेदग्राहकं वा) उभयग्राहकं वा । प्रथमे, न विरोधः, इत्याह--वस्त्विति ।  
+वस्तुस्वरुपसंस्पर्शि चक्षुरादिभ्य उत्थितम्।  
+\*भेदस्पृङ्नाक्षजाद्देवं न तेनैकात्म्यबाधनम्॥(919)  
+प्रमेयविषयं मानं वस्तुनश्च प्रमेयता ।  
+न च भेदस्य वस्तुत्वं वस्तुतत्त्वानपेक्षणात् ॥(920)  
+लब्धे हि भूतले लब्धो घटस्तत्र निषिध्यते।  
+मानान्तरेण विज्ञातः नाज्ञातः शून्यताप्तितः॥(921)  
+फलितमाह--एवं न तेनेति ।  
+(919)द्वितीयं दूषयति--प्रमेयेति । भेदस्यापि वस्तुत्वात् प्रमेयत्वम्, अत्राह--न चेति । शशाङ्कभेदवत् वस्तुस्वभावमनपे(क्ष)(क्ष्य)भेदप्रतिमा(ना)दिति भावः।  
+(920)  
+ उभयग्राहकत्वेऽपि निषेधपूर्वको विधिः, युगपदुभयं वा, विधिपूर्वको वा निषेधः। तत्राद्दकल्पद्वयं निषेधति --लब्धे हीति । धर्मिप्रतियोगिज्ञानकार्यत्वादन्योन्याभावरुपभेदज्ञानस्येत्यर्थः।  
+(921)विधिपूर्वको निषेधः इति कल्पं प्रतिषेधति --व्यञ्जकस्येति । हिशब्देन जन्ममात्रव्यापारज्ञानस्य विरम्य व्यापाराभावः प्रसिद्ध इति दर्शयति। प्रदीपादेः घटादिसंयोगः न शशश्रृङ्गादिनेति द्दृष्टत्वादित्यर्थः ।  
+व्यञ्जकस्य समायोगो वस्तुनो वस्तुनैव हि ।  
+\*नाभावेन निरात्मत्वात् व्यावृत्त्या वा मितेर्भवेत्॥(922)  
+\*नातो वस्तुनि संभेदो वस्तुनोऽभेदरुपतः ।  
+न प्रमाणाद्बहिर्वस्तु न मानं वस्तुनो बहिः ॥(923)  
+नाभावयोर्मिथो योगोऽवस्तुत्वाभेदतस्तयोः ।  
+अभावभावयोस्तद्वद्भावरुपेषु का भिदा ॥(924)  
+अनित्यत्वस्य धर्मस्य घटादेर्धर्मिणस्तयोः ।  
+संयोगः समवायो वा तादात्म्यं वेह संगतिः ॥(925)  
+किमतः, अत्राहर--नाभावेनेति । व्यावृत्त्या ---वैधर्म्यादिरुपभेदेन वेत्यर्थः ।  
+(922)भेदाभावयोरवस्तुत्वे सिद्धमद्वैतम्, इत्याह--नात इति । अद्वैते प्रमाणमस्ति, न वा । आद्दे प्रमाणप्रमेयभेदात्, द्वितीये प्रमाणाभावदद्वैतासिद्धिः, अत्राह--नेति । प्रमाणप्रमेयभेदो व्यावहारिक इत्यर्थः ।  
+(923)किञ्च, किमभावयोर्भेदः, किं भावाभावयोः,उत भावानाम्। नाद्दः इत्याह--नाभावयोरिति । योगो ---भेदो विवक्षितः । अभावत्वेनैकरुपत्वादित्यर्थः ।द्वितीयं दूषयति--अभावेति। भावशरीरेषु भिदा-भेदः न घटते, भेदकाभावादित्यर्थः ।  
+(924)भेदं निराकृत्य अभावं निराचिकीर्षुः संबन्धं विकल्पयति--अनित्यत्वस्येति । अनित्यवगिराअभावो भण्यते ।  
+(925)संयोगं प्रत्याह--आधेयेति ।  
+\*आधेयाधारयोगेषु घटोऽत्रेति यथा मतिः।  
+नाभावभावयोगेषु मितेर्धीः कस्य चित्तथा ॥(926)  
+\*न हि भावातिरेकेण भावाभावः प्रमाणभाक्।  
+भावात्मनाप्यतोऽभावो व्यवहाराय कल्पते ॥(927)  
+अथाभावोऽपि वस्त्वेव, नास्तीति मितिजन्मतः ।  
+द्वयोर्भावेकरुपत्वात् कातिशीतिर्मितेस्तयोः॥(928)  
+विश्वं सदेव यस्येष्टं तस्याभावः कुतो मितेः ।  
+\*न च भावातिरेकेण भाववत्सिद्धिमश्नुते ॥(929)  
+अभावस्याद्रव्यत्वादित्यर्थः ।(926)अभावो भावाद्भिन्नः, अभिन्नो वा । नाद्द इत्याह--न हीति । द्वितीयं दूषयति--भावात्मनेति । का तर्हि अभावप्रतीतेर्गतिः, भ्रान्तित्वम्, इत्याह--अभाव इति । (927)  
+ अभावस्य वस्तुत्वशङ्का, तन्निरासश्च  
+अभावप्रमाणगम्यत्वादभावोऽपि वस्त्विति शङ्कते ---अथेति । दूषयति--द्वयोरिति । अभावस्यापि वस्तुत्वे भेदाभावात् भावाभावयोः (भागा)(भेदा)सिद्धिरित्यर्थः।  
+(928)परमतपर्यालोचनयाप्यभावं निराकरोति ---विश्वमिति। कुतः इत्युक्तहेतुं स्पष्टयति न चेति । भावो यथा भावात् न भिद्दते, एवं (अ)भावोऽपीत्यर्थः ।  
+(929)भावाभावयोः समवायं प्रत्याह--अभावयोगमिति ।  
+अभावयोगं भावश्चेत्सहते नीलयोगवत् ।  
+अविरोधादभावेन न भावापह्नुतिर्भवेत् ॥(930)  
+योगोऽयं वस्तुनोर्द्दृष्टः वन्ध्यासूनुखपुष्पयोः।  
+मेषयोर्मल्लयोर्यद्वन्न भावाभावयोस्तथा ॥(931)  
+न योगोऽभावयोर्द्दृष्टः वन्ध्यासूनुखपुष्पयोः।  
+न भावाभावयोरेवं विरोधादितरेतरम्॥(932)  
+क्षितिदेशे घटाभावो घटवन्न प्रमीयते।  
+\*योगो वा समवायो वा नाभावक्षितिदेशयोः ॥(933)  
+सदात्मतैवं सर्वस्य नाभावात्मकता सतः ॥(934)  
+भावाभावयोः सहावस्थानप्रसङ्गः इत्यर्थः । (930)पुनरपि संयोगमेव विघटयति
+---योगोऽयमिति ।  
+(931)अभावो न संयोगसमवाययोरन्यतराधारः अभावत्वात् वन्ध्यापुत्रवत्, इत्याह---न योग इति ।  
+(932)अनुपलम्भाच्च न संबन्धः, इत्याह--क्षितिदेश इति । घटानुपलम्भात् तदभावनिश्च(य)(ये)तत्संबन्धानुपलम्भात् तदभावनिश्चयः त(द्व)द्भवेदित्यर्थः ।  
+(933)यदि भावाभावयोस्तादात्म्यमं, तदा किमभावस्य भावाभेदः, भावस्याभावभेदो वा । प्रथमं प्रत्याह--सदात्मेति । भावे भेदासिद्धिरिति भावः। द्वितीयं दूषयति--नाभावात्मकतेति। तथा सति धर्मिप्रतियोग्यसिद्धेरभावासिद्धिप्रसङ्गादित्यर्थः ।  
+अप्यभावात्मकत्वेऽपि सतोऽभावात्मकत्वतः ।  
+कुतो भेदावकाशः स्यात्,भेदेऽसति कुतो युतिः॥(935)  
+\*यावत् किञ्चिज्जगत्यस्मिन् भेदकं वस्तु लक्ष्यते ।  
+अनापन्नादिमध्यान्तं सदेव तदितीष्यते ॥(936)  
+सदेवेदमिति स्पष्टं सन्मूला इति चापरम्।  
+श्रुत्योदाहारि नः साक्षात्सदैकात्म्यावबुद्धये ॥(937)  
+मानाभावस्य मानत्वं मेयाभावस्य मेयता ।  
+न्यायं न सहतेऽतीव यथा तदधुनोच्यते ॥(938)  
+बोधकं यदबुद्धस्य तन्मानमिति हि स्थिति ।  
+न च प्रमाणतास्तित्वमीद्दृक् तस्मान्न युज्यते ॥(939)  
+भावस्याभेदमभ्युपगम्याप्याह--अपीति ।अभावत्वेनैकरुपत्वात् भेदासिद्धौ संबन्धासिद्धिरित्यर्थः ।  
+(934-935)अयस्माद्भिन्नः इति धर्मिप्रतियोगिनौ भेदकौ स्तः । तत् कथं भेदासिद्धिः, अत्राह--यावदिति । उत्पत्तिस्थितिलयशून्यं ब्रह्मैव सर्वमुपगन्तव्यं, सद्रूपत्वेनाभेदादित्यर्थः।  
+(936)तत्र प्रमाणमाह--सदेवेदमिति । 'सदेव सौम्येदमग्र असीत्'(छा.6-2-1)'सन्मूलाः सौम्येमाः सर्वाः प्रजाः सदायतनाः सत्प्रतिष्ठाः'(छा.6-8-4)इत्यादिश्रुतेः अद्वितीयब्रह्ममात्रमित्यर्थः ।  
+(937)  
+ अभावः योग्यानुपलम्भगम्यः इति मतनिरासः  
+अभावस्य प्रत्यक्षविषयत्वाभावेऽपि योग्यानुपलम्भगम्यत्वमिति भाट्टमतमाशङ्कयाह--मानाभावस्येति ।  
+(938)अभावमानं निराकर्तुं मानलक्षणमाह--बोधकमिति । तल्लक्षणं योग्यानुपलम्भे नास्ति, इत्याह---नचेति ।  
+(939)अनुपलब्धिः ज्ञाता किमभाव(धी)हेतुः, सत्तामात्रेण वा । यदि आद्दः, तत्राह--मेयाभाव इति ।  
+मेयाभावः प्रमाणानां यद्दभावेन गम्यते ।  
+प्रमाणानामभावस्य गमकः को भविष्यति ॥(940)  
+नाक्षादिपञ्चकं तस्य बोधकं सत्समन्वयात् ।  
+न यतस्तदभावो वा मेयत्वेनैव तत्स्थितेः॥(941)  
+नीलादिवदभावस्य यद्दक्षादि विशेषणम्।  
+\*विशेषणेन तद्व्याप्तेः तदभावः कुतो मितेः ॥(942)  
+अथाविशेषणोऽभावो भवद्भिरभिधीयते ।  
+मेयाभावस्य मानत्वमविशेषात् प्रसज्यते ॥(943)  
+प्रत्यक्षादिप्रमाणपञ्चकं, तदभावो वेति वकल्पयति--गमकः क इति।  
+(940)प्रथमं प्रत्याह--नेति । भावबोधकत्वादित्यर्थः । नेतर इत्याह--न यत इति । तदभावो न गमकः इति संबन्धः । नापि सत्तामात्रेण गमकत्वं, सभानिर्गतस्य, देवदत्तस्तत्रासीन्नवेति केनचित् पृष्टस्य, न मयासौ जिज्ञासितः इति द्दृश्यमानसन्देहाभावप्रसङ्गादिति भावः ।  
+(941)प्रत्यक्षादेरनुत्पत्तिः प्रमाणाभाव इष्यते । तत्र प्रत्यक्षादिपञ्चकं विशेषणमनुपम्भस्य, उपलक्षणं वा । तत्राद्दमनुवदति ---नीलादिवदिति । दूषयति--विशेषणेनेति । विशेष्येणैकबुद्धिवेद्दस्य विशेषणत्वात् तेन विशेष्यस्य संब(न्ध)(द्ध)त्वात् प्रतियोगिनि प्रत्यक्षादौ विशेषणे सति तदभावो न संभवतीत्यर्थः ।  
+(942)द्वितीयं शङ्कते--अथेति ।(अ)विशेषणः---विशेषणशून्यः, प्रत्यक्षादिना भेदकत्वात् प्रतियोगिनोपलक्षितोऽभावो मानमित्यर्थः । दूषयतिः---मेयेति । उपलक्ष्याभावरुपाभेदादित्यर्थः ।(943)  
+घटाद्दभाव इत्युक्तर्न सम्यगिति मे मतिः ।  
+पदानामसमर्थत्वात् विरोधाद्वस्तुनोर्मिथः ॥(944)  
+\*भावाभावाख्यपदयोः सामर्थ्ये चेत् समासता ।  
+घटादिनानपेक्षत्वान्न समासः प्रसिद्धयति ॥(945)  
+भावस्याभाव इत्यत्र षष्ठयर्थः कतमो मतः ।  
+न कश्चिदपि संबन्धः नीरुपस्यासदात्मनः ॥(946)  
+ घटाद्दभावनिरासः  
+प्रतियोगिनः उपलक्षमत्वेनापि भेदकत्वात् घटाद्दभावो मेयः, अक्षाद्दभावो मानमिति न सांकर्यम्, अत्राह--घटेति । 'समर्थः पदविधिः'(पा.सू.2-1-1)इति अन्वययोग्यपदानां समासविधानात्, भावाभावपदानामन्वयासामर्थ्यात्, घटाभावः इति समासो न स्यात्, सामर्थ्याभावाश्च भावाभावयोः सात्मकत्वेन निरात्मकत्वेनान्वयविरोधादित्यर्थः ।  
+(944)भावाभावपदयोरन्वयसामर्थ्ये सति समासः, तदन्तरेण वा । न द्वितीयः । 'समर्थः पदविधिः'(पा.सू.2-1-1)इति सूत्रविरोधात् । आद्दं प्रत्याह--भावेति । घटादिना भावेन, अभावस्य अनपेक्षत्वात्--तदपेक्षाकार्यहीनत्वादित्यर्थः ।  
+(945)घटस्याभाव इति संबन्धप्रतीतेः अनपेक्षत्वमसिद्धम्, अत्राह--भावस्येति । न संयाोगादिः, नि (स्तर)(रस्त)त्वात् । न विशेषणविशेष्यभावः, मूलसंबन्धाभावे तस्यातिप्रसङ्रगित्वात् । स्वस्वामिभावस्य चेतनविषयस्याचेतनेऽसंभवात्, इत्याह--न कश्चिदिति ।  
+(946)भावान्तरत्वादभावस्य नीरुपत्वं कथमिति शङ्कते---वस्त्वन्तरमिति । भावान्तराभावपदयोः अपर्यायत्वादैकार्थ्यमयुक्तम्, इत्याह--अन्यदिति । घटाभावः, पटादन्यः, पटोऽपि घटाभावात् ।  
+\*वस्त्वन्तरमभावश्चेदन्यदन्यद्भवेत् कथम्।  
+अन्योऽपि चेद्भवेदन्योऽविरोधो नीलवद्भवेत् ॥(947)  
+\*संगतावविरोदी चेत् न संबन्धिनिवृत्तिकृत्।  
+न संबन्धिग्रहाभावे सम्बन्धोऽयं प्रसिद्धयति॥(948)  
+तयोरभेदो न युक्त इत्यर्थः । भावान्तराभावौ नाभिन्नौ अपर्यायशब्दवाच्यत्वात् घटपटवत् इत्युक्तम्। विपक्षे बाधकमाह--अन्योऽपीति । नीलवदविरोधः---नीलकम्बलयोरिव भावाभावयोस्तादात्म्यं स्यादित्यर्थः ।  
+(947)इष्टापादनमिदमिति शङ्कते--संगताविति । तादाम्ये नास्ति विरोध इत्यर्थः। दूषयति---नेति । येन संबध्यते तस्य स्वसंबन्धिनः निवर्तकत्वादभावस्येत्यर्थः । भावनिवृत्तिरेवाभावः न तन्निवृत्तिकृत्, अत्राह--न संब(न्धती)(न्धी)ति । संबन्धस्य द्वयाश्रयत्वात् तथापि प्रतियोगिन्यसति संबन्धो न स्यादित्यर्थः ।  
+(948)व्यतिरेकद्वाराप्याह--संबन्धिविरह इति। स्वातन्त्र्यादित्यर्थः ।  
+संबन्धिविरहेऽसिद्धौ षष्ठयर्थत्वं न सिद्धयति।  
+विरोधाद्दुगपन्नापि विधानप्रतिषेधनम्॥(949)  
+क्षणिकत्वाद्वियां नापि स्थायिधर्मः क्रमो भवेत् ।  
+\*अनीलाभावपृष्ठेन नापि नीलस्य वेदनम्॥(950)  
+\*नाह्यद्दृश्यनिषेधः स्यात् घटादेरिव भूतले ।  
+नान्याभावविशिष्टत्वं कृत्स्नाभावगतौ भवेत्॥(951)   
+ प्रत्यक्षेण भेदासिद्धिनिरुपणम्  
+एवमभावं निराकृत्य प्रत्यक्षेण भेदासिद्धिं प्रपञ्चयितुं विधिनिषेधयोर्यौगपद्दे, विधिपूर्वके निषेधे च प्राक् मुखतोऽनुक्तं दूषणमाह--विरोधादिति ।  
+(949)निषेधपूर्वको विधिः इत्यत्र भङ्गान्तरमाह--अनीलेति ।  
+(950)पीताद्दभावज्ञानद्वारा नीलस्य ज्ञानं न भवति इत्यत्र हेतुमाह--न हीति । अनीलमिदं न भवति किंतु नीलमेव भवतीति निषेधपूर्वके विधौ, प्रथममनीलमिति नीलनिषेधो न सिद्धयतीति अनीलनिषेधपूर्वं नीलस्य दर्शनायोग्यत्वादित्यर्थः । किञ्च, अनीलस्य पीतादेरभावो नीलस्य विशेषणं, स्वरुपं वा । नाद्दः इत्याह--नान्येति ।कृत्स्नस्य पीतादेरवगतौ(तदभावावगतौ )तदभावावगतिः।  
+\*अन्याभावस्य भावत्वे स्यादभावः खपुष्पवत् ।  
+भावान्तरमभावश्चेत् सिद्धं वस्तु ततः स्वतः ॥(952)  
+\*तद्ग्राहीणि च मानानि, व्यावृत्तिः केन गम्यते ।  
+चित्रेऽपि विषये चित्रमेकं वस्त्वेकमानतः ॥(953)  
+\*प्रत्येकं नीलपीतादिग्रहणे चित्रता कुतः ।  
+वस्तुनो भेदरुपत्वे वस्त्वभावः प्रसज्यते ॥(954)  
+अतश्च तस्य नीलविशेषणत्वमीश्वरादन्यस्यासर्वज्ञस्य न सिद्धयेदित्यर्थः ।  
+(951)द्वितीयेऽपि, अभावस्य भावान्तरर्भावे, स्यादभावः शून्यः भावव्यतिरेकेणाभावात्। भावस्याभावान्तर्भावे स(वि)भावः खपुष्पवदभावः स्यात्, इत्याशयेनाह--अन्याभावेति । परमतं दूषितमपि दूषणान्तरं वक्तुं पुनरनुवदति---भावान्तरमिति । भिदाभावयोः भावातिरेकेणाभावात् अद्वैतमायातम्, इत्याह--सिद्धमिति ।  
+(952)भेदाभावयोः मानसिद्धत्वात् कथमद्वैतम्, अत्राह--तदिति । मानानि वस्तुमात्रप्रकाशानि । अतो व्यावृत्तिः भेदाभावश्च न केनापि गम्यते इत्यर्थः ।  
+चित्रप्रतीतिरेव नीलपीतादिव्यावृत्तौ प्रमाणं, नीलपीतादिव्यावृत्तिव्यतिरेकेण चित्रस्य चित्रत्वानुपपत्तेः, अत्राह--चित्रेऽपीति । चित्राख्ये वस्तुनि व्यावृत्तिर्न प्रतीयते। चित्रस्य वस्तुत्वात् सद्रूपस्यैकत्वात् । एकमानतः
+----सदित्येकरुपप्रत्ययात् । सद्रूपेण भेदाभावोपगमे न सदद्वैतविरोध इत्यर्थः ।  
+(953)चित्रस्य वस्तुत्वं स्वीकृत्योक्तम्। संप्रति(त)देव(त)(ना)स्ति, इत्याह--प्रत्येकमिति ।यद्वा, चित्रावयविग्राहिप्रत्यक्षेण व्यावृत्तधीः, तदवयवनीलादिगोचरानेकप्रत्यक्षैः, इति विकल्प्य, प्रथमं निराकरोति----चित्रेऽपीति । द्वितीयं दूषयति--प्रत्येकमिति । 'तद्रूग्राहीणि '(वा.953)इति वदता वस्तुग्राहकत्वं प्रमाणानामुक्तम्, । भेदस्यापि वस्तुस्परुपत्वात् प्रमाणगोचरत्वम्, इत्यत्राह--वस्तुन इति ।अनन्यापेक्षरुपस्य भेदत्वे वस्तुन्येकस्मिन्नेव धर्मिप्रतियोगिभावप्रसङ्गात् एकासिद्धौ तत्समाहाररुपानेकासिद्धेः शून्यं स्यादित्यर्थः ।  
+(954)अन्यापेक्षं रुपं भेदः, ततो नोक्तदोषः, अत्राह--अन्येति । भेदे अन्यधर्मे ---प्रतियोग्यन्तरापेक्षरुपे । (इ)तरापेक्षस्य स्फटिकलौहित्यादिवत् कल्पितत्वात् निरुपाधिकं वस्तुरुपं अद्वितीयं स्यादित्यर्थः ।  
+\*अन्यधर्मे त्वभिन्नं स्यात् स्वतो वस्तु प्रमाश्रयम्।  
+भिन्नाभिन्नं विरुद्धत्वान्नैकमानस्य गोचरः ॥(955)  
+वस्त्वात्मना विरोधश्चेत् वस्त्वेव विषयस्ततः ।  
+सत्यं वस्तु कथं भिन्द्दात् पुंव्यपेक्षाविनिर्मितः॥  
+भेदः, पुत्रादिभावे तु जन्यत्वं वस्तुकल्पितम्॥(956)  
+भेदवदभावस्यापि वस्तुस्वभावत्वात् भेदस्य वस्तुरुपत्वेऽपि न वस्त्वभावः, तत्राह--भिन्नेति ।  
+(955)वस्तुरुपेण भेदाभेदयोरविरोधः, इत्यत आह--वस्त्वात्मतेति । येन रुपेण तयोरविरोधः, तदेव मानगम्यमित्यर्थः। प्रमाणस्य वस्तुविषयत्वेऽपि घटापेक्षया भिन्नः पटः इति प्रमीयमाणपट (स्य)(स्व)रुपत्वात् भेदस्य प्रमाणविषयत्वम्, अत्राह--सत्यमिति । घटापाटकारयोरवस्तुत्वे वस्तुभेदासिद्धेः वस्तुत्वे तदात्मनैकत्वात् भेदः शशाङ्कभेदवत् पुरुषभ्रान्तिमात्रशरीरः कथं सत्यं भिन्द्दात् ----परमार्थतो वस्तुस्वरुपे भिन्नव्यवहारं कुर्यादित्यर्थः ।पितर (मु)(म)पेक्ष्य पुत्रः प्रतीयते । पुत्रपेक्ष्य पिता । तयोश्च परमार्थत्वम्। एवं परापेक्षप्रतिपत्तिर्भेदोऽपि परमार्थः, अत्राह--पुत्रादीति । पुत्रभावः जन्यत्वम्, पितृभावः जनकत्वम्। तदुभयं पूर्वसिद्धैकस्मिन् वस्तुनि कल्पितमित्यर्थः ।  
+(956)  
+दाहपाकप्रकाशादिभेदेऽप्यग्नेरभिन्नता ।  
+\*कार्यतोऽपि न भेदः स्यात् वस्त्वभेदव्यवस्थितेः॥(957)  
+विभिन्नकार्यकर्त्रीणां शक्तीनां यद्वदाश्रयः ।  
+न विरुद्धोऽग्निरेकोऽपि तद्वत् कार्येऽपि किं न ते ॥(958)  
+ अनुमानेन भेदसिद्धिशङ्का, तन्निरासश्च  
+एवं प्रत्यक्षाभावाभ्यां भेदो न सिद्धयतीत्युक्तम्। इदानीं विमतं जगत् भिन्नं भिन्नकार्यकरत्वात् मृत्तन्तुवदित्यनुमानात् तत्सिद्धिः, इत्यत् आह--दाहेति । दाहादिकारणे अग्नौ व्यभिचारादित्यर्थः। कारणवैचित्र्यमन्तरेण कार्यवैचित्र्यानुपपत्त्या तत्सिद्धिः, अत्राह--वस्त्वभेदेति । दाहपाकप्रकाशादिकार्याणां वैचित्र्येऽपि तत्कारणाग्निवस्तुनः अभेदेन व्यवस्थितेः अर्थापत्तेरन्यथोपपत्तिरित्यर्थः।  
+(957)दहनः --पचन-प्रकाशनशक्तीनां भिन्नानामेव कारणत्वात् न व्यभिचारः, नाप्यन्यथोपपत्तिः, अत्राह--विभिन्नेति । शक्तिमतः कारणत्वात् केवलशक्तीनामकारणत्वात् व्यभिचारादि तदवस्थम् । केवलशक्तीनां कारणत्वेऽपि,यथा एकरसस्याग्नेरनेकशक्तिसमवायित्वं, एवमेकस्य कारणस्यानेककार्यसमवायित्वमविरुद्धमित्यर्थः।  
+(958)कार्येषु भेदेतरेतराभावमभ्युपगम्य कारणे तन्निराकृतम्। इदानीं कार्येऽपि त (न्नि)(न्न)सिद्धयति,इत्याह--घटेति । घटस्याभावो घटाभावः पटः, तस्मिन् घटाभावे पटे, सिद्धे---घटो न भवति (इत्येवं )घटाभावतया निष्पन्ने(पटे)घटः सिद्धयेत् तदभावतया। पटस्याभावः पटाभावो घटः । तस्मिन् पटाभावे घटे निष्पन्ने, घटो न भवतीत्येवं पटः सिद्धयेत् इत्यन्याश्रयादन्योन्याभावासिद्धौ तदपेक्षो भेदोऽपि न सिद्धयेदिति भावः ॥  
+(959)  
+घटाभावे घटः सिद्धयेत् पटाभावे पटस्तथा ।  
+\*अन्योन्याभावद्दृष्टेः स्यादन्योन्याश्रयता तव ॥(959)  
+प्रत्यक्षत्वं पृथक्तवस्य गुणत्वाद्दैरपीष्यते।  
+तेषामपि गुणे मानं नीलवन्न त्ववस्तुनि॥(960)  
+\*अथ वस्तु पृथक्तवेन विशिष्टं गम्यते तदा ।  
+शुक्लो गौरितिवन्मानं वस्तुन्येव न भेदकम्॥(961)  
+ पृथक्तवापरपर्यायभेदस्य प्रत्यक्षत्वशङ्का, तन्निरासश्च  
+स्वरुपान्योन्याभावभेदानां प्रत्यक्षत्वाभावेऽपि, पृथक्तवापरपर्यायभेदस्य प्रत्यक्षत्वं गुणत्वात्, अत आह--प्रत्यक्षत्वमिति । पृथक्तवस्य सत्वमसत्वं वा । आद्दे, गुणसन्मात्ररुपे प्रत्य(क्तं)(क्षं)मानम्, । द्वितीये, न तस्य प्रत्यक्षविषयत्वं अवस्तुत्वादित्यर्थः।  
+(960)घटातः पटः पृथगिति पृथक्तवविशिष्टतया वस्त्वेव प्रतीयते, इति शङ्कते--अथेति । शुक्लो गौरिति यथा वस्तुन्येव विशिष्टप्रत्यक्षं भावरुपे विशेषणे विशेष्ये च मानं, तथा अत्रापि वस्तुनि विशेष्यांश एव मानं, न भेदगं, तस्यावस्तुत्वेन तदयोग्यत्वादित्यर्थः।  
+(961)पृथक्तवमपि भावादभिन्नं, भिन्नं वा । आद्दं प्रत्याह--अभेदेनेति ।  
+अभेदेनैव वर्तेत पृथक्ता यदि वस्तुषु ।  
+वस्त्वेव तत्, ततोऽन्या चेदपृथग्वस्तु तर्हि ते ॥ (962)  
+भावाभावपृथक्तापि यद्दभिन्ना ततोऽपृथक् ।  
+भावाभावविभिन्ना चेत् पृथक्ता न परस्परम्॥(963)  
+अन्यापेक्षं पृथक्तत्वं चेत् स्वयं तर्ह्यापृथक्ततः ।  
+द्विधर्मत्वेऽपि वस्त्वेतदेकं स्यादुत्पलादिवत् ॥(964)  
+आद्दं प्रत्याह--अभेदेनेति । वस्तुमात्रमद्वितीयं स्यादित्यर्थः। द्वितीयमनुवदति---तत इति । पृथक्ता ततोऽन्या यदि, तदा अनवस्थानात् पृथक्तवासिद्धौ वस्तु अपृथक्--अभिन्नमित्यर्थः।  
+(962)किञ्च भावाभावयोः पृथक्तवं ताभ्यामभिन्नं, भिन्नं वा । प्रथमं प्रत्याह--भावेति । ततोऽपृथक---स्वरुपातिरिक्तभेदाभावात् भावाभावस्वरुपमपृथक् स्यादित्यर्थः । द्वितीयमनुवदति ---भावाभावेति । अनवस्थेत्याशयेन परिहरति--पृथक्तेति । भावाभावयोः परस्परं पृथक्ता न स्यात्। भावाभावाभ्यां भेदस्य भेदे वस्त्वन्तरवन्ना (भास संबन्धादित्यर्थः)(स्य संबन्ध इत्यर्थः)  
+(963)घटस्य स्वस्मादेव पृथक्तवं, अन्यस्माद्वा । नाद्दः, अनुभवविरोधात् ।द्वितीयं दूषयति-----अन्यापेक्षमिति । परापेक्षस्य रज्जुसर्पवत् कल्पितत्वात् घटोऽखण्डः स्यादित्यर्थः। पृथक्त्वापृथक्तवधर्मवदेव वस्तु(त्वात्)पृथक्तवमपि वस्त्वेव, इत्यत्राह--द्विध(र्मे)(र्मत्वे)पीति । (सम)धर्म)योः धर्मिणा सार्धमसंबन्धे धर्मत्वविरोधात्, संबन्धे संबन्धस्यापि संबन्धेनानवस्थानात् असंबद्धसंबन्धासिद्धेः, द्वयोरध्यस्तत्वात् घटाद्वैतं स्यात्, रुपाद्दनेकधर्मवतोऽप्यत्पलादेरेकत्ववदित्यर्थः ।  
+(964)धर्म्यभेदे किं सिद्धम्, तदाह--अत इति ।  
+धर्मबुद्धिप्रभेदेऽपि धर्म्यभेदः सदेष्यते।  
+\*अतो गवादेर्भेदेऽपि सन्मात्रमवसीयते ॥(965)  
+\*गोत्वादिमेयपक्षेऽपि सद्रूपस्यानपायतः ।  
+वस्त्वेव मेयं गोत्वादि शाबलेयादिवत् स्फुटम्॥(966)  
+गवादेः भेदेऽपि ----गवादिविशेषव्यभिचारेऽपि , सन्मात्रमव्यभिचारि मानग्राह्यमित्य्रथः।  
+(965)गोत्वा(दि)(दे)रपि मेयत्वात् 'सन्मात्रम्'इत्यसंगतम्, अत्राह--गोत्वादीति । गोत्वाश्वत्वादिषु व्यभिचारिषु सन्मात्रस्य अनपायतः--अन्वयात्,तदेप मेयम्। गोत्वादि शाबलेयादिवत् कल्पितं, व्यभिचारिणां कल्पितत्वस्य रज्जुसर्पादिषु द्दृष्टत्वादित्यर्थः ।  
+(966)सद्रूपस्याव्यभिचारित्वं साधयति--सद्रूपत्वेति । कुशपलाशादिविशेषनिमित्ता व्यवहाराः, सन् कुशः, सन् पलाशः इति प्र(दी)(ती)यन्ते । तस्मात् सत्तत्वं तेष्ववस्थितं ---अव्यभिचारि स्थितम्,  
+\*सद्रूपत्वापरित्यागादवान्तरनिबन्धनाः ।  
+व्यवहाराः प्रतीयन्ते सत्तत्वं तेष्ववस्थितम्॥(967)  
+सत्तातोऽपि न भेदः स्यात् द्रव्यत्वादेः कुतोऽन्यतः।  
+एकाकारा हि संवित्तिः सद्द्रव्यं सन् गुणस्तथा ॥(968)  
+समवायाच्च संबन्धे नैकरुप्यं विभिन्नयोः।  
+तच्चेत्ततो न विश्वासो जातावप्येकबुद्धितः ॥(969)  
+इतरे व्यभिचारिणः तत्र कल्पिता इत्यर्थः ।  
+(967)कथमितरेषां कल्पितत्वम्, द्रव्यगुणकर्म (सामान्य)विशेषसमवायानां षण्णामपि परमार्थत्वात्,अत्राह--सत्तातोऽपीति । सत्सामान्यस्यानुगतत्वात् द्रव्यादेर्व्यावृत्तत्वात् अनुवृत्तात् भेदप्राप्तौ सत्यामपि सत्सामान्यात् द्रव्यादेर्भेदे न स्यात्। एवं सति अन्य(ताः)(तः)--परस्परतः, भेदः कुत इत्यर्थः ।सत्सामान्याद्भेदाभावं साधयति--एकाकारेति । द्रव्यादि सद्रूपान्न भिद्दते, सद्बुद्धि(त्वे)(वे)द्दत्वात् सद्रूपवदित्यर्थः ।  
+(968)भिन्नयोरभिन्नाकारगोचरत्वं समवायादपि स्यादिति विपक्षबाधकाभावाद प्रयोज(न)(क)त्वम्, अत्राह--समवायाच्चेति । विभिन्नयोः संबन्धे समवायाच्च न, ऐकरुप्यं---एकाकारधीगोचरत्वम्, अन्यथा मिथ्याधीत्वप्रसङ्गादित्यर्थः । बाधकान्तरमाह--तच्चेदिति । ततः समवायात् , तत्--एकाकारप्रख्यानं चेत्, एकबुद्धितः----एकाकारज्ञानात् गोत्वादिजातेरप्येकत्वनिश्चयो न स्यात् । समवायादेकारधीः स्वरुपाभेदाद्वेति सन्देहादित्यर्थः ।  
+(969)  
+संसर्गधर्मता नापि भेदेनानुपलम्भनात् ।  
+समवायेन संबन्धे को हेतुरिति नेक्ष्यते ॥(970)  
+संयोगश्चेद्वियोगोऽपि, समवायेऽनवस्थितिः।  
+स्वतश्चेत्, कल्पना व्यर्था द्रव्यस्याप्येकता स्वतः \*॥(971)  
+ समवायनिरासः  
+समवायं स्वीकृत्योक्तम्। इदानीं सत्तासामान्येन द्रव्यादेः स एव नास्ति, इत्याह--संसर्गेति । संसर्गधर्मता ---समवायाश्रयतेत्यर्थः। किञ्च, द्रव्ये गुणकर्मादेः समवायः त्वयोच्यते । तत्र समवायस्य समवायिभ्यां संबन्धोऽस्ति, न वा । यदि आद्दः, तत्राह--समवायेनेति । समवायिनोः समवायेन संबन्धे---संबन्धव्यवहारे, को हेतुः---संयोगो वा समवायो वेति न निश्चीयते इत्यर्थः।  
+(970)एतत् स्पष्टयति--संयोगश्चेदिति । संयोगस्य वियोगान्तरत्वात् कदाचित् समवायिभ्यां वियुक्तस्य समवायस्यानवस्थाने नित्यगुणद्रव्ययोरसंबन्धः स्यात्। समवायन्तरेऽनवस्थेत्यर्थः । समवायस्य स्वपरनिर्वाहकत्वात् संबन्धान्तरमन्तरेणैव समवायिभ्यां संब(न्ध)(द्ध)त्वमिति कल्पान्तरं शङ्कते---स्वतश्चेदिति । द्रव्यस्यापि गुणादिना संबद्धता स्वत एवेति समवायो व्यर्थः इति दूषयति--कल्पनेति । एकता--संबन्धितेत्यर्थः।  
+(971)एवं समवा(यि)(य)निरासेन विपक्षबाधकं प्रतिपाद्द, प्रकृतानुमार्थं निगमयति--सत्तेति ।  
+सत्तावगुण्ठिताश्चैते सर्वे भावाः सदैव हि ।  
+व्यवहाराय कल्पन्ते भ्रान्तो भेदः सदैव तु ॥(972)  
+येषामपि हि सामान्यभेदवद्वस्तु गृह्यते ।  
+तेषामपि कुतो भेदो वस्त्वैक्याद्धर्म्यभेदतः ॥(973)  
+अपि भेदेन या बुद्धिः स्यात्सामान्यविशेषयोः।  
+\*सापि तन्मात्रानिष्ठत्वान्नैव भेदस्पृगिष्यते ॥(974)  
+सर्वे विशेषाः सत्ताव्याप्ता व्यवहारयोग्या भवन्ति । अतस्तेषां भासमानो भेदो भ्रान्तः इत्यर्थः।  
+(972)एवं द्रव्यादयः षट् पदार्थाः इति पक्षे भेदासिद्धिरुक्ता। इदानीं सामान्यविशेषात्मकमेकं वस्तु इति मतेऽपि भेदासिद्धिमाह---येषामिति । न सामान्यमात्रं वस्तु, न विशेषमात्रम्, । किन्तु उभयात्मकमिति मतेऽपि वस्तुन एकत्वात् भेदः कुतः । वस्तुन एकत्वे हेतुमाह--धर्म्यभेदत इति । यस्य सामान्यविशेषौ तस्यैकत्वात्, सामान्यविशेषयोःपरस्परापेक्षप्रतीतिकयोरवस्तुत्वादित्यर्थः ।  
+(973)धर्म्यभेदोऽसिद्धः, सामान्यविशेषोर्धर्मयोर्भेदात् तद्द्द्वारेण धर्मिण्यपि भेदप्रवेशात्, अत्राह--अपीति । सामान्यविशेषयोः या भेदेन बुद्धिः स्यात्, सामान्यबुद्धिर्वा विशेषबुद्धिर्वा, सा तयोर्भेदं न साधयति स्वविषयमात्रनिष्ठत्वात् । नापि बुद्धयन्तरं भेदविषयम्, इतरेतराश्रयादिदोषात्। अतः सामान्यविशेषयोरपि न भेदोऽस्ति, कुतो धर्मिभेद इत्यर्थः । भेदेन या बुद्धिरिति --अनुगतमात्राकारा व्यावृत्तमात्राकारा असांकार्येण जायमानज्ञानद्वयात्मिकेति व्याख्येयम्।  
+(974)किञ्च,सामान्यविशेषं धर्मिणोऽभिन्नं, (भिन्नं)वा ।नाद्दः इत्याह--एकञ्चेदिति । द्वितीयं दूषयति--भेदश्चेदिति । सामान्यविशेषतद्वतां त्रयाणां पृथक् वस्तुत्वं स्यादित्यर्थः । उभयात्मकस्य वस्तुत्वमित्युक्तत्वात् न विकल्पः संभवति, तत्राह--चित्तेऽपीति ।  
+एकं चेद्भिन्नता नास्ति, भेदश्चेदेकता कुतः ।  
+चित्रेऽप्यनुगमाभावात् न सामान्यविशेषता ॥(975)  
+\*स्वरुपपररुपाभ्यां यदा सदसदात्मकम्।  
+वस्त्वेकं मानविषयमभावस्ते तदा कुतः ॥(976)  
+\*प्रत्यक्षादिनिवृत्तिश्चेत् तस्याः किं रुपमुच्यताम्।  
+स्तैमित्यमात्मनश्चेत् स्यात् तद्वस्त्वेवास्मदीहितम्॥(977)  
+उभयात्मकेऽपीष्टे विशेष एव वस्तु स्यात्। खण्डस्य गोः मुण्डे गव्यनन्वयात् तद्विशिष्टस्याप्यननुगमात्, सामान्यमात्रस्यावस्तुत्वादित्यर्थः ।  
+(975)वस्तुनः असामान्यविशेषात्मकत्वेऽपि नैकरुपत्वं सदासद्रूपत्वात्,इत्यत्राह---स्वरुपेति। स्वरुपेण सदात्मकं पररुपेण असदात्मकमित्यत्रापि, वस्त्वेकं स्वरुपेण सद्रूपं माविषयमस्तु, पररुपेणासत्वं ---अभावः प्रमाणाभावान्न सिद्धयेदित्यर्थः ।  
+(976)प्रत्यक्षादिप्रमाणपञ्चकानुत्पत्तिरभावे मानमिति शङ्कते--प्रत्यक्षेति । सा किमात्मनो निर्व्यापाररुपेणावस्थानं, वस्त्वन्तरज्ञानं, भावान्तरं वेति विकल्पयति--तस्या इति । आद्दमनुवदति ---स्तैमित्यमिति । सद्रूपातिरेकेणाभावो अस्मन्मतं सिद्धम्, इत्याह--तदिति ।  
+(977)द्वितीयमनूद्द स्वेष्टप्रसङ्गेन प्रत्याह--अथेति । तृतीयेऽपि स एव प्रसङ्गः, इत्याह--भावान्तरमिति । एवं मानाभावनिरासेन मेयाभावं निरस्य अभावाधीनसिद्धिकस्य भेदस्याप्रामाणिकत्वं सिद्धम्, इत्युपसंहरति--तस्मादिति ।(978)  
+अथ वस्त्वन्तरज्ञानं नितरां तस्य वस्तुता ।  
+भावान्तरमभावोऽपि निरुपाख्यः स नेष्यते।  
+तस्माद्वस्त्वेकनिष्ठत्वात् न भेदोऽक्षादिगोचरः॥(978)  
+घटोऽयमिति संवित्तेः घटो मेयः प्रतीयते।  
+न व्यावृत्तिः पटादीनामताद्रूप्यात्तथा पटे॥(979)  
+घटाभावो विरोधित्वान्न घटेऽर्थान्तरेऽपि न ।  
+\*अषष्ठयर्थतया तस्माद्विकल्पोऽयं न वस्तुगः॥(980)
+
+ घटोऽयं, पटोऽयमिति प्रत्यक्षेण घटादेः स्वेतरसकलव्यावृत्तरुपं प्रतीयते, इत्यत्राह---घट इति । निर्विकल्पकं भेदग्राहि, सविकल्पकं वा । नाद्दः , तस्य वस्तुमात्रगोचरत्वात् । नेतरः, घटाकारानुभवे तदितरसकलपदार्थतद्धावृत्योरस्फुरणात्, अताद्रूप्यात्---घटानुभवस्य तदाकारत्वाभावात्। तथा पटोऽयमिति संवित्तेः पटो मेयो न व्यावृत्तिरित्यर्थः ।  
+(979)घटप्रागभावादिः घटनिष्ठः, अन्यनिष्ठो वा । नाद्दः, असंभवात्,इत्याह--घटेति । न द्वितीयः इत्याह--अर्थान्तरेऽपीति । हेतुमाह--अषष्ठयर्थतयेति । संबन्धहीनत्वादित्यर्थः ।शब्दज्ञानानुपाती वस्तुशून्यो विकल्पः अभावधीः, इत्याह--तस्मादिति ।  
+(980)घटोऽयमिति ज्ञानात् तदितरसकलपरिहारेण घटे प्रवृत्तिदर्शनात् घटज्ञाने भेदाभावौ भातः, इत्याशङ्य,  
+घटो हि संविदं कुर्वन्नात्माकारविशेषणम्।  
+आत्मानं लभते तद्वत् व्यावृत्तिं न पटादितः ॥(981)  
+पटसंवेदनेऽप्येवं पटमात्रं विशेषणम्।  
+ईक्षतेऽत्राधिकं नान्यदभावादि यदुच्यते ॥(982)  
+संदिग्धनिश्चयाद्देवं ज्ञानधर्मो विशेषयन्।  
+संविदं भिद्दते मेयात् प्रत्येकं भेदधीर्न तु ॥(983)  
+\*तथाहमेव जानामि माता नान्य इतीद्दृशाः ।  
+मातृधर्माः प्रसिद्धयन्ति विशिंषन्तः स्वसंविदम् ॥(984)
+
+'घटोऽयमिति संवित्तेः'इत्येतत् प्रपञ्चयति ---घटोहीति । घटः स्वाकाराकारितां संविदं कुर्वन् स्वयं सिद्धयति, न पटादेर्भेदमभावं वा लभते इत्यर्थः । (981)उक्तान्यायं पटादावतिदशति --पटेति ।  
+(982)एवमपि नाद्वैतसिद्धिः आन्तराणां ज्ञानादीनां परस्परतः प्रमेयत्वे भिन्नत्वात्, अत्राह--संविदं विशेष (येत्)(यन्)स्वयं सिद्धयति। मेयात्तु न भिद्दते, प्रत्येकं---परस्परं च न तु भेदधीः उक्तान्यायादित्यर्थः । तुशब्दः प्रत्येकमभिसंबध्यते।  
+(983)उक्तामेव नीतिमन्यत्र प्रसारयति--तथेति । ज्ञाता मन्ता श्रोता इत्यादिमातृधर्माणामपि परस्परतः अन्यतश्च भेदासिद्धेः अनुभवेऽध्यस्ताः सिद्धयन्तीत्यर्थः ।  
+(984)सर्वस्यानुभवे अध्यस्तत्वे, अनुभवस्य कुत्राध्यस्तत्वम्, अत्राह--संविदिति ।  
+अधिष्ठानत्वेन रज्जादिवदन्यत्रानध्यस्तत्वे हेतुं, एकेऽत्यादिविशेषणैर्दर्शयति।(985)  
+संविदेका स्वतः सिद्धप्रत्यग्रूपैकलक्षणा ।  
+भावाभावादिरुपाय व्यवहाराय कल्पते ॥(985)  
+अतोऽनुभवमुल्लङ्घ्य न भेदो नाप्यभिन्नता ।  
+तत्पृष्टेन तु मानानि विरोधः किंसमाश्रयः ॥(986)  
+अविज्ञातः प्रमाणानां विषयो वादिनां मतः ।  
+न तस्य मानतः सिद्धिः तत्सिद्धेः प्राक् प्रमागमात् ॥(987)  
+अनुभवातिरिक्तस्यासिद्धः, वेदान्तानां प्रत्यक्षादिमानान्तरविरोधाभावोपसंहारः  
+प्रकरणार्थमुपसंहरति--अत इति । संविदतिरेकेण विश्वस्य भेदः,अभेदो वा नास्तीत्यर्थः ।कथं तर्हि प्रत्यक्षादेः प्रामाण्यम्, अत्राह--तदिति । तत्पृष्ठेन ----तत्राध्यस्तविश्वविषयत्वेन, माना(ति)(नि)मानत्वं लभन्ते । तस्मात् तत्त्वमादेः केन विरोधः इत्यर्थः ।(986)  
+ अध्यक्षादीनामनुभवादन्यत्राप्रमाणत्वात् न तैः वेदान्तसमन्वयविरोधः  
+ इति निरुपणम्  
+अनुभवादन्यत्र प्रमाणानामप्रवृत्तेः न तैः समन्वयो विरुध्यते, इति प्रतिपादयितुं, अभ्युपगमं तावदाह--अविज्ञात इति । प्रमागमात् प्राक् तस्य
+-----अज्ञातस्य सिद्धेरित्यर्थः ।  
+अमानकं कथं च स्यात् अज्ञातत्वमिहोच्यताम्।  
+\*कथं च तद्विना मानं विषयासंभवाद्भवेत् ॥(998)  
+अज्ञातत्वक्षतिं कुर्वन्मानं मानत्वमश्नुते ।  
+मानादज्ञातता चेत्स्यत् न सा तत्फलमिष्यते ॥(989)  
+अतोऽनुभवतो लब्धमज्ञातं ज्ञावयत्सदा ।  
+प्रत्यक्षादि प्रमाणं स्यात् न स्वतो नापि चान्यतः ॥(990)  
+\*नाज्ञासिषमहं पूर्वमित्येवं प्रमिते घटे ।  
+पूर्वाज्ञातत्वविषयः भूयोऽप्यनुभवो यतः ॥(991)  
+(987)यत् सिद्धयति तन्मानादेव, इति मन्वानः शङ्कते--अमानकमिति । मानव्यापारात् प्रागज्ञातत्वा(द)वगमे मानमेव निर्विषयं न स्यात्, इति दूषयति--कथंचेति । (988)अज्ञातत्वस्य मानासिद्धौ हेत्वन्तरमाह--अज्ञातत्वेति । अज्ञातता मानादवगता चेत् माननिवर्त्या न भवेदित्यर्थः ।  
+(989)कुतस्तर्हि अज्ञातत्वसिद्धिः, तत्राह--अत इति । न स्वतः सिद्धिं
+---स्वप्रकाशं(त्वं)नान्यतः ---प्रमाणादपि सिद्धमित्यर्थः।  
+(990)अनुभवसिद्धत्वं साधयति---नाज्ञासिषमिति । ज्ञानोत्पत्तेः प्राक् अज्ञातत्वेनानुभूतस्य परामर्शदर्शनात् अज्ञातत्वमनुभवसिद्धमित्यर्थः ।  
+(991)मिते घटे अज्ञात(त्वे)(त्व)प्रतीतौ घटमानादज्ञात्वमिति स्यात्,   
+\*प्रवृत्तं विषये मानमवच्छेदफलं मतम्।  
+ज्ञाताज्ञाते प्रति त्वस्य न व्यापारोऽप्रमाणतः ॥(992)  
+सर्वोऽप्यनुभवात्सिद्धां बालोऽप्यज्ञाततां स्वतः ।  
+\*न किञ्चिञ्जाने इत्येवं पृष्टो वक्ति प्रमां विना॥(993)  
+निश्शेषकरणग्रामलयेऽप्यनुभवः स्वतः ।  
+अलुप्तद्दृक् सुषुप्तेऽपि जाग्रद्वोधाविशेषतः ॥(994)  
+अत्यन्ताननुभूतेषु हिमवत्पृष्ठवस्तुषु ।  
+जाग्रतोऽनुभवोऽप्येवं सुषुप्तान्न विशिष्यते ॥(995)  
+अत्राह--प्रवृत्तमिति । मानं स्वगोचरपरिच्छेदफलम्। न तस्य ज्ञात(नो)(तो)त्पादने व्यापारः, कारकत्वेनाप्रामाण्यप्रसङ्गात्। नापि प्राक्कालाज्ञातत्वज्ञानं, जन्मातिरिक्तव्यापाराभावादित्यर्थः।  
+(992)पृथग्जनानामपि शास्त्रार्थविषयाज्ञानानुभवाच्च न तस्य मेयत्वम्, इत्याह--सर्वोऽपीति ।  
+(993)प्रमाणसामग्रीमन्तरेणानुभूयमानत्वादप्यमेयत्वम्, इत्याह--निश्शेषेति । गाढमहमद्द सुप्तः न किञ्चिदवेदिषमिति परामर्शदर्शनात् स्वापेऽपि जाग्रद्वोधे(ते)चाज्ञातत्वमनुभूयते इत्यर्थः ।  
+(994)जाग्रति प्रमाणसद्भावात् तेनैवाज्ञातत्वसिद्धौ सौषुप्तिकमज्ञातत्वं तदानींतनज्ञानास्मरणलिङ्गम्यं स्यात्, अत्राह---अत्यन्तेति । हिमवत्पृष्ठलग्नानि वस्तूनि त्वया अवगतानीति केनचित्पृष्टः, नेति ब्रवीति । तत्र प्रमाणव्यापाराभावात् सुषुप्तान्न विशेषः इत्यनुभवगम्यमज्ञातत्वमित्यर्थः ।  
+(995)(मि)(नि)त्यानुभवस्यैवाभावात् कथं तद्वलादज्ञातत्वसिद्धिः, अत्राह--न चेति । अत्र ----जाग्रति ।  
+न चात्रानुभवो लुप्तो न जानामीति बोधनात् ।  
+अद्दृष्टमपि द्दृष्ट्वाऽस्ति बोधो नाज्ञासिषं त्विति ॥(996)  
+पुमान सुप्तोत्थितोऽप्येवं प्रमात्रादिलयं स्वतः ।  
+अनुभूत्यैव सन्धत्ते नान्तराऽतोऽस्य लुप्तता ॥(997)  
+न चेदानीन्तनाद्वोधात् बोधाभावगतिर्भवेत् ।  
+सौषुप्ती, न हि बोधस्य कालभेदेन भिन्नता ॥(998)  
+बोधादेव प्रसिद्धयन्ति कालावस्थादयो यतः ।  
+मातृमानादयश्चापि कुतस्तैरस्य विक्रया ॥(999)  
+नानुभवलोपः, नेदमहं जानामीति दर्शनात्, प्रागनवगतमवगम्य एतावन्तं कालं नाहमिदमवेदिषमिति दर्शनाच्चेत्यर्थः ।  
+(996)संप्रसादे अनुभवाभावात् न तस्य नित्यत्वम्, अत्राह---पुमानिति ।  
+(997)स्वापे अनुभवाभावः स्वापकालीनानुभवान्न सिद्धयति, व्याघातात् । अतो जाग्रदनुभवात्सिद्धिर्वाच्या । सा न संभवति, इत्याह--न चेति । हेतुमाह--न हीति । उपाधिपराममर्शमन्तरेणाविभाव्यमानभेदस्य अनुभवस्य नभस इव देशादिभेदेन भेदासंभवात् नित्योऽनुभवः इत्यर्थः ।  
+(998)नित्यत्वेऽपि कापिलपरिकल्पितगुणवत् परिणामिनित्यत्वम्, अत्राह---बोधादिति । स्वसाधकत्वेन प्रागवस्थितानुभवविकारहेतुत्वं न कालादीनामित्यर्थः ।  
+प्रमातृमानतन्मेयेष्वागमापायिषु त्रिषु ।  
+अलुप्तानुदितो बोधः प्रथते प्रत्यगेकलः ॥(1000)  
+\*अभितोऽनुभवाक्रान्ता ज्ञाताज्ञातत्वभूमिषु ।  
+नान्यत्रार्थाः प्रसिद्धयन्ति लीयन्ते नाप्यनात्मनि ॥(1001)  
+अतोऽनुभव एवैकः विषयोऽज्ञातलक्षणः।  
+\*अक्षादीनां स्वतः सिद्धो यत्र तेषां प्रमाणता ॥(1002)  
+\*तेनानुभवसिद्धानां लोकेऽज्ञातनविघातिनः ।  
+मात्वमक्षादयो यान्ति माज्ञाताज्ञाततोऽन्यथा ॥(1003)  
+(999)मेयत्वादात्मनो विकारित्वं क्षीरादिवत्, अत्राह--(प्र)मातृमानेति । प्रमात्रादिभावाभावसाधकत्वादात्मा स्वप्रकाशः इत्यर्थः ।  
+(1000)'(अ)(प्र)मातृमानतन्मेयेषु 'इत्याधारनिर्देशात् आत्मनोः भेदः, अत्राह---अभित इति । व्यभिचारिणाव्यभिचारिण्यनुभवे जन्मस्थितिलयाः नानात्मनीत्यर्थः ।  
+(1001)  
+ अनुभवस्यैव सर्वप्रमाणविषयत्वनिरुपणम्  
+अनुभवस्याद्वितीयत्वं सर्वप्रमाणविषयत्वं च फलितमाह--अत इति  
+(1002)अनुभव एव विषयः इति कथम्, घटादेरपि मेयत्वात्, अत्राह--तेनेति ।  
+अज्ञातत्वस्यानुभवसिद्धत्वेन हेतुना । अनुभवेनैज्ञातत्वेन प्रतिपन्नघटादीनामज्ञाननिवर्तका अक्षादयः मात्वं यान्ति ।  
+घटादयः प्रमासिद्धा मुञ्चन्त्यज्ञाततां न तु ।  
+स्वतः सिद्धोऽपि वस्तुत्वात् मुञ्चत्यात्मा प्रमां विना ॥(1004)  
+प्राग्बाधकागमात्सिद्धः लौकिकस्यापि वस्तुनः ।  
+वस्तुतत्त्वबलादेव तत्तमोव्यवधानतः ॥(1005)  
+कृत्स्नमात्राद्दपादानतमोबाधस्तु बोधतः ।  
+तत्त्वमस्यादिवाक्योत्थात् पूर्णैकात्म्यस्वलक्षणात् ॥(1006)  
+\*तेनागमस्य तत्र स्यादज्ञातत्वविघातिनः ।  
+प्रमाणत्वं, पुमर्थश्च स एव विदुषां मतः ॥(1007)  
+माज्ञाततोऽन्यथा ---मा(ना)(ना)सिद्धाज्ञातत्वस्य माननिवर्त्यत्वायोगादित्यर्थः ।  
+(1003)आत्मनः स्वरुपप्रकाशेनाज्ञाननिवृत्तेः प्रमाणानर्थक्यम्, इत्यत्राह--घटादय इति । वृत्तिव्याप्तघटादीनामज्ञाननिवर्तकत्वादात्मनोऽपि वृत्तिव्याप्तस्य तन्निवर्तकत्वं, स्वरुपज्ञानस्याज्ञानसाधकत्वादित्यर्थः ।  
+(1004)आत्मनः प्रमाणापेक्षस्याज्ञाननिवर्तकत्वे घटवदस्वप्रभत्वम्, अत्राह--प्रागिति । अहं ब्रह्मास्मीति ज्ञानोत्पतेः प्राक् अज्ञानव्यवहितानुभवादेव प्रपञ्चसिद्धेः अात्मा स्वप्रभ इत्यर्थः ।  
+(1005)प्रत्यक्षादेरात्मनि मानत्वे तेनैवाज्ञानहानात् किमागमेन, अत्राह--कृत्स्नेति । (1006)फलितमाह--तेनेति । प्रयोजनराहित्यादप्रामाण्यम्, अत्राह---पुमर्थश्चेति । सुखरुपत्वादात्मैव फलमित्यर्थः ।  
+ननु दुर्वारसंसारदुःखसन्दर्भहानतः ।  
+किमन्यत्सुखमिष्टं स्यात् यस्याप्तेः पुरुषार्थता ॥(1008)  
+लोकेऽपि व्याधिसन्तापविच्छित्तौ सुखितेक्ष्यते ।  
+\*व्यतिरिक्तसुखार्था च न प्रवृत्तिर्विरागिणाम्॥(1009)  
+असंवेद्दं सुखं नापि पुमर्था, न च कर्मता ।\*  
+स्वरुपे वेद्दवेत्तृत्वायोगात् द्वैतप्रसङ्गतः॥(1010)  
+नैवं, भेदेन संसिद्धे सुखदुःखे, कथं तयोः ।  
+ऐक्यं, सुखस्य विच्छेदो दुःखं वा किं न कल्प्यते ॥(1011)  
+सुखं दुःखाभावरुपमेव न भावरुपमित्याक्षेपः  
+(1009)स्वरुपसुखं मुक्ताववेद्दं, वेद्दं वा । आद्दं दूषयति ---असंवेद्दमिति । मन्दिरमध्यनिहितधननिचयवदित्यर्थः ।द्वितीयमपवदति ---नचेति । (1010)  
+ निरुक्ताक्षेपपरिहारः  
+निदाघे दिवाकरकरव्याप्तशरीरस्य मन्दाकिनीहृदे निमग्नाघोभागस्याप्(रप)र्यायमेवाह्लाददुःखसंवेदनात् मैवम्, इत्याह--नैवमिति । दुःखाभावो सुखत्वेनाभिधीयते चेत्, सुखाभावो दुःखं किं नाभिधीयते,इत्याह--सुखस्यति ।  
+(1011)दुःखविकलानामपि सुखरागात् प्रवृत्तिदर्शनाच्च भावरुपं सुखम्, इत्याह--अदुःखिनोऽपीति ।  
+अदुःखिनोऽपि द्दृश्यन्ते सुखप्राप्तीच्छया यतः ।  
+\*तदुपाये प्रवर्तन्तस्तदभेदे न युज्यते ॥(1012)  
+चन्दनादिसुखोपायसंपन्नाः सुखिनोऽप्यलम्।  
+पुत्रजन्मादिवार्ताभिः प्राप्नुवन्ति सुखान्तरम्॥(1013)  
+\*पुत्राद्दप्राप्तिरुपं च दुःखं तत्र न कल्प्यते ।  
+असंवित्तेः, अवेद्दं हि न दुःखं वैरिदुःखवत् ॥(1014)  
+तिर्यञ्चोऽप्यत एवेह कामयन्ते सुखं तथा ।  
+अप्रियं विजिहासन्ति, न तु जानन्ति साधनम्॥(1015)  
+वेदोऽपि शुद्धमात्मानं सुखं मुख्यं प्रदर्शयन्।  
+अनात्मानं तथा दुःखं पुमर्थत्वेन संमतः ॥(1016)  
+(1012)अदुःखिनां भूपालप्रभृतीनां साध्याभावात् कथं साधनप्रवृत्तिः,अत्राह--चन्दनेति । इष्टकथाश्रवणे वर्तमानानां सुखं द्दृश्यते इत्यर्थः ।  
+(1013)तत्रापि पुत्राद्दप्राप्तिनिमित्तदुःखनिवृत्तिरेव सुखम्, अत्राह--पुत्रादीति । हेतुमाह--असंवित्तेरिति । अननुभवादित्यर्थः । असंवेद्दमानमपि दुःखमस्ति, इत्यत्राह---अवेद्दमिति । अननुभूयमानं न दुःखं, पुरुषान्तरगतं दुःखं पुरुषान्तरस्याननुभूयमानत्वात् यथा न दुःखमित्यर्थः ।  
+(1014)दुःखनिवृत्तेरन्यत् सुखम्, इत्यत्र लिङ्गान्तरमाह--तिर्यञ्चोऽपीति । कस्तर्हि पशुशकुनिप्रभृतिभ्यो नराणां विशेषः,अत्राह---न त्विति ।  
+(1015)लौकिकसुखस्य भावत्वेऽपि श्रौतसुखस्य न तथात्वं, मानाभावात्, अत्राह--वेद इति । पदपदार्थयोर्लोकवेदयो रविशिष्टत्वादित्यर्थः ।  
+(1016)तथाविधवाक्यं नास्ति, इत्यत आह--तदेतदिति ।  
+\*तदेतत्प्रेय इत्यादिवाक्येभ्योऽनेकधा श्रुतम्।  
+तथात्मनस्तु कामाय तस्मान्नान्यत्सुखं भवेत्॥(1017)  
+पुरुषार्थाभिसंबन्धाद्विरागित्वं यथाऽश्रितम्।  
+परानन्दाभिलाषोऽपि तथा चेत्किं निषिध्यते ॥(1018)  
+आत्यन्तिकसुखेच्छायां यदि रागित्वमुच्यते ।  
+विविक्तदेशसेवादाविच्छायां किं न रागिता ॥(1019)  
+'तदेतत्प्रेयः पुत्रात् (तदेतत्)प्रेयो वित्तात्'(वृ.3-4-8)इत्याद्दनेकध्यर्थः।  
+(1017)आत्मनः (सुखरुपत्वे तदभिलाषेण प्रवृत्तिः संसारकारणं स्यात्, इत्यत्राह)-----पुरुषार्थेति । विरागित्वं ---संसारासारतादर्शननिष्पन्नं संसारद्वेषित्वम्। पुरुषार्थाभिसंबन्धात् ---साधनत्वेन मोक्षसंबन्धात्, तदधीना प्रवृत्तिः न संसारायेति भवद्भिरभ्युपगतं यथा, तथा परानन्दाभिलाषोऽपि पुरुषार्थाभिसंबन्धी चेत्, तन्मूला प्रवृत्तिः कस्मात् संसारकारणत्वेन निषिध्यते इत्यर्थः ।  
+(1018)विरागित्वं न द्वेषः, किन्तु संसारदर्शन जन्योद्वेग इति चेत्, तर्हि पर मानन्देच्छापि श्रद्धैव, न रागः, अविद्दाक्षिप्ता भूतगुणाभिनिवेशस्य रागलक्षणत्वात् । यदीच्छामात्रं रागः, तत्र दोषमाह--आत्यन्तिकेति । तत्त्वसाक्षात्कारोपायतया योगानुष्ठानं परैरिष्टम्। तत्र 'विविक्तदेशसेवित्वमरतिर्जनसंसदि '(भ.गी.13-10)इत्याद्दुक्तयोगाङ्गच्छापि रागः स्यादित्यर्थः ।  
+(1019)(न)आत्मनः सुखत्वे न किञ्चिद्वाधकमित्युक्तम्। तत्रैव वाक्यान्तरमाह--अथेति । अथ ये शतमित्यादिवाक्यैरेतत्प्रपञ्चितम्।  
+एष ह्येवेति च व्यक्तं तैत्तिरीयश्रुतावपि ॥(1020)  
+\*स्वानन्दाभिमुखः स्वापे बोध्यमानोऽत एव च ।  
+पीडयते स्त्रयादिसंपर्कसुखविच्छेदतो यथा ॥(1021)  
+आनन्दैकस्वभावत्वात् वेद्दता तत्र नार्थ्यते ।  
+\*निस्संबोधेऽर्थ्यते सा हि न तु बोधैकलक्षणे ॥(1022)  
+अधिकारस्य सौलभ्यप्रतिपत्त्यर्थमीरणम्।  
+सर्वपुंसामिति तथा पूर्वमेव प्रपञ्चितम्॥(1023)  
+'ते ये शतं मानुषा आनन्दाः'(तै. 2-8-1)इत्यादिभिः 'स एको ब्रह्मण आनन्दः'(तै.2-8-4)इत्यन्तैः, 'एष(ह्या)(ह्योवा)नन्दयाति'(तै.2-7)इति चात्मनः सुखत्वं प्रकाशितमित्यर्थः ।(1020)आत्मनः सुखत्वे सुषुप्तानुभवोऽपि मानम्, इत्याह--स्वानन्देति ।
+
+(1021)सुखस्य वेद्दत्वे द्वैतप्रसङ्गः इत्युक्तं परिहरति--आनन्दैकेति । जडस्यानात्मनो वेद्दत्वेन पुमर्थत्वं, न तु स्वतोऽपरोक्षात्मसुखस्येत्यर्थः।  
+(1022)  
+ सर्वपुरुषाणामित्यादिभाष्यतात्पर्यकथनम्  
+सर्वोऽपि इत्यादि भाष्यं व्याख्याय,' सर्वपुरुषाणाम्,' इत्यादिभाष्यतात्पर्यमाह--अधिकारस्येति । सुखं मे स्यात् दुःखं मा भूत् इति अनवच्छिन्नसुखदुःखप्राप्तिपरिहाराभिलाषस्य पुंसां दर्शनात् तावन्मात्रस्य मोक्षत्वात् मुमुक्षूणां सौलभ्यं 'न युक्तं कामना मुक्तौ'(वा.290)इत्यादिना प्रपञ्चितमित्यर्थः ।  
+स्वर्गादिकाम्यपि यतो मुक्तिं कामयते, न तु ।  
+मुक्तिं कामयमानोऽन्यत्कटाक्षेणापि वीक्षते ॥(1024)  
+सर्वेषामपि च नृणामधिकारोऽनिवारितः  
+यतोऽतः सर्वतो नृणामिति भाष्यकृदब्रवीत्॥(1025)  
+शुक्लां गामानयेत्युक्ते कांचिद्गोकर्मिकां क्रियाम्।  
+कुर्वाणमभिवीक्ष्याज्ञः कुरुते कारणानमाम्॥(1026)  
+ज्ञातं ध्रुवमनेनैतद्दद्गोकर्मकमीक्ष्यते।  
+प्रागज्ञातस्य निर्वृत्तिः न यतो वीक्ष्यते क्वचित् ॥(1027)  
+(1023)'सर्वपुंसाम्'इत्ययुक्तम्, स्वर्गादिकामानामपि दर्शनात्, अत्राह--स्वर्गादीति । (1024)उपसंहरति--सर्वेषामिति । अनिवारितः इति पदम्।  
+(1025)  
+ द्दृष्टविषयेत्यादिभाष्यार्थनिरुपणाय पूर्वपक्षः  
+द्दृष्टविषयेत्यादेः नागमान्वेषणा इत्यन्तस्य भाष्यस्यार्थं वक्तुं पूर्वपक्षयति ---शुक्लामिति । आचार्यवचनानन्तरं प्रवर्तमानं मध्यमनरं द्दृष्ट्वा बालः अनुमानं करोतीत्यर्थः ।  
+(1026)किमनुमिनोति, तदाह--ज्ञातमिति । एतत् ---प्रवर्तकमिति यावत् । यत्--यस्मात् । गोकर्मकं ----गवायनम्। इयं प्रवृत्तिः प्रवर्तकधीजन्या स्वतन्त्रप्रवृत्तित्वात् मदीयप्रवृत्तिवदिति । विपक्षे बाधकमाह---प्रागिति । गवानयनानुष्ठानमस्य श्रोतुर्द्दृश्यते । न चानुष्ठानात्प्रागज्ञातस्यानुष्ठेयस्यानुष्ठानम्। अतो गवानयनकर्तव्यत्वमवगतमित्यर्थः । (1027)   
+ नियोगवाददूषणम्  
+दूषयति---यद्दर्थमिति । कारकाधीनमर्थं---श्रोतुः प्रवृत्तिलक्षणम्। तत्कारणानुमा----प्रवर्तकनियोगानुमानम्। प्रमाणान्तरगम्यत्वात् लौकिकत्वं घटतुल्यमित्यर्थः ।  
+(1028)किञ्च लिङादेरर्थो नियोगः कारकसाध्यो न वा । द्वितीयमनुवदति ---न चेदिति ।  
+दूषयति--ज्ञातस्येति । शब्दावगतस्यापि कथमनुष्ठितिः----मध्यमवृद्धप्रवृत्तिसाध्यत्वं न संभवतीति
+अनुष्ठानवैफल्यमित्यर्थः । प्रथमकल्पेऽपि नित्य(ः)सन्, उत नित्यासन्, प्रागसन्वा, उभयात्मको वेति विकल्प्य, आद्दं दूषयति---न सिद्धं इति । न हि नित्यसिद्ध आत्मा कारकापेक्ष इत्यर्थः । द्वितीयं ---नापीति । नृश्रृङ्गवदित्यर्थः ।  
+(1029)तृतीये, शब्दस्य तत्कारकत्वं व्यञ्जकत्वं वा । आद्दं दूषयति---आरभ्य इति । शब्दस्य कारकत्वेन हेतुना प्रामाण्यं बलादापतेत्-----न सिद्धयेदित्यर्थः । द्वितीयं दूषयति---व्य(ङ्गे)(ङ्ग्य) इति । दीपानां पूर्वसिद्धघटादिव्यञ्जकत्वदर्शनादित्यर्थः । 1030)नित्यासत्त्वे दोषान्तरमाह--वाक्यस्येति । नृश्रृङ्गादि ज्ञानस्य विकल्पमात्रात्वादित्यर्थः। नित्यसत्त्वेऽपि दूषणान्तरमाह--न चेदिति ।   
+(1031)तुरीयकल्पमनुवदति---अथेति ।  
+असिद्धे, सिद्धस्य प्रामाण्यानुपपत्तिः, सिद्धे प्रामाण्योपपत्तिश्च, इति दूषयति---उक्तेति । पक्षश्चायमसंभवी, इत्याह--न चेति ।  
+(1032)वि(द्धि)(धि)वाक्यं सिद्धे मानं मानत्वात् प्रत्यक्षवत्, इत्याह---सिद्धस्येति ।(विध्यर्थ)(ः)सिद्धः मेयत्वात् घटवत्, इत्याह--चोदनेति ।  
+(1033)सिद्धत्वं तुच्छवैलक्षण्यं चेत् सिद्धसाधनं, कृतिसाध्यत्वाभावश्चेत्, यागसाध्यत्वावगमविरोधः, इति शङ्कते---मतमिति । यागानुष्ठानात्प्रागसत्त्वे नियोगस्य नृश्रृङ्गस्येव न वेदगम्यत्वम्, इति दूषयति---यागेति ।  
+(1034)विधिप्रामाण्यलोभात् यागानुष्ठानात्प्रागपि नियोगस्य प्रवृत्तिप्रयोजकस्य सिद्धिरभ्युपगम्यते, इत्याशङ्कयाह--प्रागिति । यागानुष्ठानं निष्फलं स्यादित्यर्थः । सिद्धस्यैव नियोगस्य यागसाध्यत्वम्,  
+प्राक् प्रयोक्त्रभिसंसिद्धौ किं फलं यागसिद्धितः ।  
+यागसिद्धयापि तत्सिद्धौ प्रयोज्कत्वं कुतो यजेः ॥(1035)  
+यागाद्दनुष्ठितेरस्य घटादेरिव चेन्मतः ।  
+उपकालो, नियोगस्य कथं न घटतुल्यता॥(1036)
+
+अपुमर्थे नियोगे च तात्पर्यं स्यात्तथा सति ।  
+प्रत्यर्थिनि पुमर्थे, तत् सुधीभिर्गृह्यते कथम्॥(1037)  
+इत्यत्राह---यागसिद्धयापीति। सिद्धस्य साध्यत्वायोगात् शेषः ।  
+(1035)यागसिद्धया तत्सिद्धिमङ्गीकृत्यापि दूषणमाह--यागादीति । कारकव्यापारात् घटादेरात्मलाभवत् यागानुष्ठानात् नियोगनिष्पत्तौ घटवदेव कालपरिच्छेद्दत्वात् कालत्रयास्पृष्टत्वभङ्ग इत्यर्थः ।  
+(1036)शब्दात् कालापरामृष्टत्वे(न)प्रतीतावपि, स्वरुपेण कालपरिच्छेद्दत्वमिष्टम्, इत्त्राह---अपुमर्थ इति । नियोगस्यापुरुषार्थत्वात् तत्प्रमापकं वाक्य(म)प्रमाणं स्यादित्यर्थः । उपेक्षणीयतृणादिगोचरप्रत्यक्षवत् प्रामाण्यं स्यात्, इत्यत्राह--प्रत्यर्थिनीति । कृतियोग्येष्टसाधने विध्यर्थे विरोधिनि सति, नियोगपरत्वं न ग्राह्यमित्यर्थः ।  
+(1037)लोके गामानयेत्यादौ कार्यधीदर्शनात् वेदेऽपि कार्यं लिङाद्दर्थः, इ(त्य)त्राह---लिङादीति । (क)(व)क्तृकर्त्रोः----उत्तमवृद्धमध्यमवृद्धयोः। उपकाराद्दपेक्षं ---इष्टसाधनत्वानिष्टसाधनत्वापेक्षम्। हितसाधनेऽवगते कर्तव्यमिति मानसज्ञानम्, अहितसाधनेऽवगते नेदं कर्तव्यमिति ज्ञानं जायते।  
+लिङादिश्रवणात्पुंसः कार्यं यत्प्रसमीक्ष्यते ।  
+उपकाराद्दपेक्षं तद्वक्तृकर्त्रोः प्रसिद्धयति ॥(1038)  
+न चेत् संभाव्यते कर्त्रा पुमर्थः कस्य चिद्विधेः ।  
+आज्ञोक्तेरेव न तदा कश्चिञ्जगति चेष्टते ॥(1039)  
+\*आज्ञार्थमात्रसिद्धयर्थं न कश्चित् स्ववशो नरः ।  
+दुःखात्मके मनो धत्ते यागादौ चोदनावशात् ॥(1040)  
+अतः कार्याकार्ययोः मानसप्रत्यक्षत्वात् इष्टसाधनत्वमनिष्टसाधनत्वञ्च लिङाद्दर्थः इत्याशयः ।  
+(1038)अत्र गमकमाह---न चेदिति । कर्ता-मध्यमवृद्धः। कस्यचित्--आत्मनः प्रभोर्वा । विधेः ----लिङा(दि)पदात् । पुमर्थो न संभाव्यते---हितसाधनं नावगतं यदि। तदा न कश्चित्--प्रेक्षवान् प्रवर्तते इत्यर्थः ।  
+(1039)किञ्च, नियोगभिसन्धाय यागादौ प्रवर्तते, फलं(ते)(वे)ति विकल्प्य, आद्दं प्रत्याह---आज्ञार्थेति । 'प्रयोजनमनुद्दिश्य न मन्दोऽपि प्रवर्तते'इति न्यायादित्यर्थः।(1040)द्वतीयं शङ्कते---पुमर्थमिति ।  
+पुमर्थभिसन्धाय यागादावथ चेष्टते ।  
+फलं प्रवर्तकं प्रापन्न नियोगस्तथा सति ॥(1041)  
+मन्त्रोक्तेरिव लोडादेः प्रवृत्तिरिति चेन्मतम्।  
+प्रायश्चित्ती भवेन्नैव तत्पराधीनवृत्तितः ॥(1042)  
+\*प्रवर्तकत्वं मन्त्रस्य न प्रवर्त्यवशाद्दथा।  
+स्वत एव न यागादेः कार्यसिद्धिस्तथा भवेत् ॥(1043)  
+फलरागस्य प्रवृत्तिहेतुत्वप्रसक्तया दूषयति--फलमिति ।  
+(1042)नियोगस्य प्रवर्तकत्वेऽपि फललरागापेक्षस्य प्रवर्तकत्वे अन्वयव्यतिरेकाभ्यां रागस्यैव प्रवर्तकत्वम्। तदनपेक्षस्य नियोगस्य प्रवर्तकत्वे दोषमाह--मन्त्रेति । भूताविष्टस्य नरहनिरमन्त्रप्रयोगात् यथा प्रवृत्तिः परवशात्,एवं लिङाद्दर्थान्नियोगात् प्रवृत्तिः स्याद्ददि, तदा सर्वः परवशो वर्तेते(वे)ति नित्यानामकरणनिमित्तप्रत्यवायवान् कोऽपि न स्यादित्यर्थः।  
+(1042)निरपेक्षनियोगस्य प्रवर्तकत्वे दोषान्तरमाह--प्रवर्तकत्वमिति । यथा मन्त्रप्रेरितः (मन्त्रः)प्रवर्तमानो यदि मन्त्रमतिक्रमति, तदा न कश्चिद्दोषः, एवं प्रकृतेऽपीत्यर्थः । किमतः, तत्राह---न यागादेरिति । नियोगातिक्रमे दोषाभावात् धात्वर्थनुष्ठानासंभवात् नियोगसिद्धिरेव न स्यादित्यर्थः ।  
+(1043)एवं नियोगस्य कृत्युद्देश्यत्वं निराकृत्य अपूर्वत्वं निराकरोति
+----कारकं(चे)(वे)ति ।  
+कारकं वा क्रिया वा स्याद्ददि वा स्यात् क्रियाफलम्।  
+तस्य लौकिकमासिद्धेर्लौकिकत्वं प्रसज्यते ॥(1044)  
+ऐकात्म्यवस्तुनिष्ठे तु यथोक्तन्यायवर्त्मना ।  
+न कश्चिदपि दोषः स्याद्वचस्यस्मिन् मनागपि ॥(1045)  
+\*नेति नेत्यादिवाक्येभ्यो योऽर्थोऽनन्यानुभूतिगः।  
+लौकिकत्वं कथं तस्य सर्वमेयातिलङ्घिनः॥(1046)  
+इत्युक्तमभिसन्धाय द्दृष्टादिवचनं जगौ।  
+लौकिकत्लप्रसिद्ध्यर्थं नियोगस्य घटादिवत्॥(1047)  
+कारकाद्दन्यतमत्वे अपूर्वत्वविरोध इत्यर्थः ।  
+(1044)नियोगस्य मान्तरगम्यत्वादवेदार्थत्वे ब्रह्मणोऽप्येतत् समानम्, अत्राह--ऐकात्म्येति । मनाक्---ईषदपीत्यर्थः ।  
+(1045)अलौकिकत्वे संगत्यवगमायोगाद(व)बोधकत्वम्, अत्राह--नेतीति । गृहीतसंगतिर्नञशब्दः गृहीतसंगतिकैरेव स्थूलादिशब्दैः सं(मृ)(सृ)ज्यमानः तदभावं बोधयन् लक्षणया तदधिष्ठाने ब्रह्मणि बुद्धिमाधत्ते इत्यर्थः ।(1046)  
+ द्दृष्टविषये चेति भाष्यावतारः  
+नियोगस्य क्रियाकारकफलव्यतिरिक्तवादपूर्वत्वमिति चेत्, न प्रमाणाभावात् । तेन लौकिकत्वं नियोगस्येत्यस्मिन्नर्थे भाष्यमवतारयति--इत्युक्तमिति ।  
+(1047)  
+आस्तां वेदान्तमानत्वं त्यक्तं तत् कामतस्तव।  
+वस्तुन्युक्तेर्न चेन्मात्वं कर्मकाण्डेऽपि तद्भवेत् ॥(1048)  
+भविष्यद्देहसंबन्धी वाक्यादात्मा न चेन्मितः ।  
+मानान्तराच्च कः कुर्यादद्दृष्टार्थाः क्रियाः सुधीः ॥(1049)  
+\*नापि सांख्यप्रमासिद्धमात्मानमवगच्छतः ।  
+देहाद्दनभिसंबन्धात् प्रवृत्तिः स्यात् क्रियास्विह॥(1050)  
+ 'न चासति'इत्यादिभाष्यतात्पर्यवर्णनम्  
+'न चासति'इत्यादि भाष्यस्य'सर्वथापि'इत्यतः प्राक्तनस्य तात्पर्यमाह--आस्तामिति । तत्त्वादेः प्रामाण्यं तावत् तिष्ठतु, तदस्माभिरपि त्वदिच्छया (उ)(त्य)क्तम्। सिद्धवस्तुनि वेदस्य प्रामाण्यं न चेत्, कर्मवाक्यानामपि प्रामाण्यं न स्यात्। देहान्तरसंबन्ध्यात्मनः अप्रामाणिकस्यासिद्धेः । अतः भविष्यद्देहसंबन्ध्यात्मनि वाक्यप्रामाण्योपगमे, तत्त्वमादेरपि सिद्धे प्रामाण्यसिद्धेरित्यर्थः ।  
+(1048)देहान्तरसंबन्ध्यात्मज्ञानं विनापि अद्दृष्टार्थप्रवृत्त्युपपत्तेः न सिद्धे वाक्यप्रामाण्यम्, अत्राह--भविष्यदिति ।  
+(1049)तथा विधस्यात्मनः साख्यैः, अन्तः करणे चित्प्रतिबिम्बं संनिधिपुरस्सरं प्रतिबिम्बत्वात् संमतवत् इत्युनुमानेन साधित्वात् किं वाक्येन, अत्राह--नापीति । सांख्यतन्त्रास्थात्मनोऽसङ्गत्वादित्यर्थः ।  
+(1050)कस्य तर्हि कर्माधिकारः इति,  
+कर्मकाण्डेऽधिकार्यस्मिन् याद्दृक्संभाव्यतेऽञ्जसा ।  
+ताद्दृक्संप्रतिपत्त्यर्थं न चासतीति भण्यते॥(1051)  
+\*कार्येभ्यः फलमिच्छद्भिः अद्दृष्टं द्दृष्टमेव वा ।  
+देहावस्थान्तरावेशे प्रमाणं वाच्यमात्मनः॥(1052)  
+\*कथं च तस्य कर्तृत्वं व्यापित्वान्निष्क्रियत्वतः ।  
+न चाकर्तुः फलं, गौण्या वृत्त्या चेत्सुतरां न तत् ॥(1053)  
+देहादिव्यतिरिक्तस्य तदध्यासवतः, इत्यस्मिन्नर्थे भाष्यमवतारयति
+---कर्मेति । (1051)  
+ कर्माधिकार्यात्मनः शब्दवेद्दत्वम्  
+कार्माधिकार्यात्मनः स्वतः सिद्धत्वात् तत्र प्रमाणगवेषणं व्यर्थम्, अत्राह--कार्येभ्य इति । न स्वतः सिद्धत्वं, लोकायतिकादि विप्रतिपत्तिदर्शनादित्यर्थः ।  
+(1052)स्वतन्त्र(ः)कर्ता। सांख्याभ्युपगता (मा)(त्मा)पि तथाविधः, इत्याशङ्कय, 'नापि सांख्यप्रमासिद्धम्'इत्येतत् प्रपञ्चयति ----कथं चेति । मा भूत् कर्ता, तत्राह---न चेति । आत्मैक्येन प्रधानस्य कर्तृत्वा (दा)त्मापि गुणवृत्त्या कर्तेति फली स्यात्, इति शङ्कते---गौण्येति । दूषयति---सुतरामिति । कर्तृत्ववत् भोक्तृत्वस्याप्युपचारसंभवादित्यर्थः ।  
+(1053)ज्ञा(नं)(न)चिकीर्षाप्रयत्नसमवायी मुख्य एव कर्ता तर्कशास्त्रावगतोऽस्ति , इत्यत्राह---मुख्येति । परमार्थकर्तृत्वस्य पदार्थसाधर्म्यवैधर्म्यनिरुपणपुरस्सरात्मतत्त्वसाक्षात्कारान्निवृत्तिः, अत्राह--मानेनेति ।  
+(1054)देहान्तरसंबन्ध्यात्मनः मानान्तरसिद्धत्वात् न वाक्यापेक्षेति चेत्, किं प्रत्यक्षं तन्मानम्, अनुमा, उपमा, अर्थापत्तिः, अभावो वा । नाद्दः इत्याह--देहान्तरेति । द्वितीयतृतीयौ दूषयति----लिङ्गेति ।  
+(1055)नापि तुरीयः, इत्याह--शब्दादिति । 'योनिमन्ये प्रपद्दन्ते शरीरत्वाय देहिनः'(का.5-7)इत्यादिवाक्यप्रतिपन्नत्वादित्यर्थः । न पञ्चमः इत्याह--नाभाव इति । अभावप्रमापकत्वादित्यर्थः ।(1056)  
+न चाहंप्रत्ययात् सिद्धिरात्मनः स्यात्कदाचन।  
+बोधानुभवसंवित्तिवित्तयो ह्यात्मवाचिनः ॥(1057)  
+\*यस्यानुभवसिद्धयैव सिद्धिः स्याद्धटसिद्धिवत्।  
+ततोऽहंप्रत्ययात् सिद्धिमीक्षतेऽनुभवः कथम्॥(1058)  
+मानादनुभवः सिद्धो जडः स्यात् घटवन्न चेत् ।  
+नैरपेक्ष्यं चिदात्मत्वे, स्याच्चन्योन्यसमाश्रयः॥(1059)  
+आत्मनोऽहंधियः सिद्धिः आत्मसिद्धिरहंमतेः ।  
+अन्योन्याश्रयतैवं स्यादहंबुद्धयात्मनोर्ध्रुवम्॥(1060)  
+  
+देहादिव्यतिरिक्तात्मनः अहंप्रत्ययगम्यत्वाभावः  
+देहादिव्यतिरिक्त आत्मा अहमिति मानसप्रत्यक्षसिद्धः इति न तत्र वाक्यापेक्षा इति भाट्टादयः । तान् प्रत्याह--न चेति । कर्तुकर्मभावविरोधादित्यर्थः । द्रव्यबोधरुपस्यात्मनो द्रव्यांशेन कर्मत्वं, बोधांशेन कर्तुत्वम्, अत्राह---बोधेति । द्रव्यांशस्य घटादिसाधारणस्यानात्मत्वात् स्वप्रकाशोऽयमात्मा नाहंप्रत्ययगम्य इत्यर्थः ।  
+(1057)अहंप्रत्ययो नात्मसाधकः द्दृश्यत्वात् घटवत्, इत्याह--यस्येति ।  
+(1058)विपक्षे अनात्मत्वापि र्बाधः, इत्याह--मानादिति । मेयस्यापि न जडत्वम्, इति शङ्कते ---न चेदिति । तर्हि स्वप्रकाशस्य न अहंप्रत्ययापेक्षा, इत्याह--नैरपेक्ष्यमिति । अन्योन्याश्रयाच्च नाहंप्रत्ययगम्यः, इत्याह---स्याच्चेति ।  
+(1059)इतरेतराश्रयं विशदयति--आत्मन इति ।  
+(1060)अहंप्रत्ययो नात्मग्राहकः तत्कार्यत्वात् सुखादिवत्, इत्याह--अहंधीरिति । आत्मा नाहंप्रत्ययव्याप्यः, तद्वयापकत्वात् ।  
+\*अहंधीरात्मनः कार्यं कारणेनाप्यते सदा ।  
+तया तस्य कथं व्याप्तिरव्याप्तौ मेयता कथम्॥(1061)  
+क्रियाकाले गुणीभावात् क्रियासिद्धावसंभवात् ।  
+कर्तुः प्रमेयता न स्यादहंबुद्धया कथंचन॥(1062)  
+सविद्रूपे प्रमेये च संविदन्या फलं भवेत्।  
+\*न च संविद्द्द्वयाभासो, नानुमेयं फलं क्वचित् ॥(1063)  
+आत्मा नाहंप्रत्ययव्याप्यः, तद्वयापकत्वात् । यो यदव्यापकः नासौ तद्वयाप्यः । यथा पटव्यापकस्तन्तुः न तद्वयाप्यः, इत्याह--तयेति ।  
+(1061)आत्ममात्रस्याहंधीगम्यत्वं, क्रियाविशिष्टस्य वा । नाद्दः, मुक्तावपि तत्प्रसङ्गात् ।द्वितीयं प्रत्याह---क्रियेति । भाट्टैः अहंप्रत्ययस्याद्दपरिमाणमेयत्वोपगमात् , कर्तुः तामेव क्रियां प्रति कर्मत्वेन प्राधान्यासंभवात्, क्रियासिद्धौ ---क्रियास्तित्वकाले प्रमेयता न स्यात् । नाप्युत्तरकालं, क्रियायाः क्षणिकत्वादित्यर्थः । असंविद्रूपस्यानात्मत्वात् संविद्रूपस्याहधीयगम्यत्वे दोषमाह---संविद्रूप इति । प्रमाणफलस्य संविदोऽनुमयेत्वात् नानुपलम्भविरोधः, अत्राह---नानुमेयमिति । असंवित्तस्य व्यवहारादेरपि लिङ्गत्वायोगादित्यर्थः ।  
+(1063)'संविदन्या फलं भवेत् 'इत्येतत् द्दृष्टान्तेनाह---घटेति ।  
+घटाद्दाकारसंविद्वत् शुद्धायामपि संविदि ।  
+संविद्विशिष्टा संवित्स्यात् , न चासावात्मनीक्ष्यते ॥(1064)  
+प्रमातरि च मेये स्यात् फलं कस्येति भण्यताम्।  
+न मातुस्तस्य मेयत्वात् नापि मेये फलं क्वचित् ॥(1065)  
+जडत्वात्तत्र मेयस्य फलं मातरि चेन्मतम्।  
+मेयतो जडतात्रापि,संविच्चेत्, न प्रमाणजा ॥(1066)  
+\*धर्मत्वेनाप्यहंबुद्धेर्न भेदो धर्मिणात्मना।  
+रुपं द्रव्यात्मनो नान्यद्रसादेस्तद्विभिद्दते ॥(1067)  
+संविद्विशिष्टा ---संविद्गोचरेत्यर्थः ।  
+(1064)किञ्च आत्मनो मेयत्वे मानफलं किमात्म(नि,अ)न्यत्र वेति विकल्पयति--प्रमातरीति । नाद्दः इत्याह---(म)(नि)मातुरिति । प्रमाणफलं प्रमेयगतमेव सर्वत्र, इत्यत्राह---नापीति । घटादिनिष्ठत्वे मानफलस्य रुपादिवदप्रकाशत्वापातादित्यर्थः।  
+(1065)घटादेर्जडत्वात् फलनानाधारत्वेऽपि आत्मनोऽजडत्वात् फलित्वम्, इति शङ्कते---जडत्वादिति । आत्मा जडः मेयत्वात् घटवत्, इत्याह--मेयत इति । विपक्षबाधकाभावात् संविदात्मता , इति शङ्कते---संविच्चेदिति । तर्हि आत्मनि प्रमाणजा संविन्न स्यात् संविद्द्वयानवभावात्, इत्याह---नेति । द्वितीयविकल्पः अर्थात् दूषितो मन्तव्यः ।  
+(1066)भाट्टमते धर्मधर्मिणोरभेदाच्च नाहंधीगस्य आत्मा, इत्याह---धर्मत्वेनेति।  
+(1067)द्रव्यबोधरुपस्यात्मनः द्रव्यांशेन मेयत्वेऽपि बोधात्मना मानफलाश्रयत्वमविरुद्धम्, इत्यत्राह---द्रव्येति । आदिपदेन मेयत्वशक्तिर्गृह्यते । प्रतीचि ।  
+द्रव्यादि चात्मनो रुपं प्रमेयं यदुदीरितम्।  
+घटवत्तदहंबुद्धेः प्रत्यग्वृत्तेर्न गोचरः ॥(1068)  
+\*अस्मत्प्रयोगसंभिन्नं प्रत्यक्कर्तरि वेदनम्।  
+ज्ञानस्य यदुपन्यस्तं विशेषस्तत्र नेक्ष्यते ॥(1069)  
+ज्ञानबोधेन नैवात्मा मितो नाप्यात्मसंविदा ।  
+ज्ञानं, न च द्वयं भेदात्, अभेदेऽनुभवः स्वतः ॥(1070)  
+प्रवृत्तिर्यस्या अहंबुद्धेः सा प्रत्यग्वृत्तिः। तस्या न गोचरः अनात्मत्वादित्यर्थः ।(1068)  
+अहंधीगम्यत्वे भङ्गान्तरमाह---अस्मदिति । ज्ञानस्य घटादिविषयस्य, प्रत्यक्कर्तरि--प्रत्यग्रूपे कर्तरि, घटादेर्ग्राह्यस्य ग्रहीतरीति यावत् । तत्र वेदनं---तत्कर्मकम्, अस्मत्प्रयोगसंभिन्नं ----अहंशब्दोल्लिखितं, त्वया यदुपन्यस्तं तत्र बौद्धसिद्धान्तात् विशेषो नेक्ष्ये(ते)इत्यन्वयः । भाट्टैः स्वशास्त्रे क्षणिकविज्ञानस्यैकस्य ग्राह्यग्राहकभावविरोधादत्मत्वं निरस्तम्। स विरोधोऽत्रापि तुल्य इत्यर्थः ।  
+(1069)द्रव्यबोधरुपस्यैकधीविषयत्वाभावे युक्तयन्तरमाह--ज्ञानेति । ज्ञानबोधेन ---(ज्ञान)बोधांशानुभवेन, आत्मा ----द्रव्यांशः, न मितः ---न सिद्धः। नाप्यात्मसंविदा ज्ञानं ----द्रव्यांशानुभवेन बोधोऽपि न मितः अन्योन्यमाकारभेदात् । अतः उभयरुपस्यात्मनो नाहंप्रत्ययेन सिद्धिरित्यर्थः । रुपद्वयमप्यात्मनो न संभवति, इत्याह--न --(चे)(च)द्वयमिति । हेतुमाह---भेदादिति । भिन्नयोः रुपयोरात्मत्वे सति एकस्मिन् देहे भोक्तृद्वयप्रसङ्गादित्यर्थः । एकरुपस्यात्मनः कथं सिद्धिः, अत्राह---अभेदेऽनुभव इति स्वयंप्रकाश इत्यर्थः ।(1070)  
+किं प्रमाणमहंरुपमुतात्मैवेति कथ्यताम्।  
+प्रत्यक्षत्वान्न तन्मानं नात्माऽस्वार्तजडत्वतः ॥(1071)  
+न चाप्यात्मन्यविज्ञातेऽहंबुद्धेः सिद्धता तव ।  
+\*येनात्मा स्यादहंबुद्धेरनुमेया हि सा स्थिता ॥(1072)   
+ अहंरुपस्यानात्मत्वम्  
+अहंरुपस्यानात्मत्वं प्रतिपादयितुं विकल्पयति---किमिति । आद्दं दूषयति---प्रत्यक्ष्तावदिति । अपरोक्षानुभवविषयत्वान्न मानत्वं रागादिवदित्यर्थः । द्वितीयं प्रत्याह---नात्मेति । परतन्त्रत्वात् जडत्वाच्चेत्यर्थः ।  
+(1071)अहमाकारज्ञानं प्रमाणम्। तदाकारप्रद आत्मा मेयः । अतो न विकल्पावकाशः ,  
+तत्राह---न चापीति । मितया अहंबुद्धया आत्मसिद्धिः, आत्मना मितेनाहंप्रत्ययसिद्धिरितीतरेतराश्रय इत्यर्थः । चक्षुरादिवदज्ञातस्यैवाहंप्रत्ययस्यात्मसाधकत्वात् नेतरेतराश्रयः , अत्राह---अनुमेया हीति । अहंधीः प्रकाश(मने)(मानै)व साधिका,   
+जडप्रकाशत्वे सति साधकत्वात् आलोकादिवत् इत्यनुमेया यस्मात्, अतो दुर्वारमितरेतराश्रयत्वमित्यर्थः।  
+(1072)'नि (ष्फ)(ष्क)लं निष्क्रियं शान्तम्' (श्वे.6-19)इत्यादिश्रुतिविरोधाच्च नात्मनो रुपद्वयम्, इत्याह--निरंशस्येति ।अहंप्रत्ययस्य आत्मैव कारणं, उतान्यदपि ।  
+यदि आद्दः, तत्राह---स्वात्मेति ।  
+निरंशस्य च चाप्यंशकल्पनाप्युपपद्दते।  
+स्वात्मतन्त्रे च विषये मानबोधः सदा भवेत् ॥ (1073)  
+\*अज्ञातत्वं विना मानं नाहंप्रत्यय आत्मनः ।  
+अज्ञातत्वमतो वाच्यमात्मनोऽत्र घटादिवत् ॥(1074)  
+तस्याप्यनुभवात्सिद्धिः यद्दुच्येत घटादिवत्।  
+\*सिद्ध आत्मा पृथङ्मातुः नो चेन्माता न सिद्धयति॥(1075)  
+यदि आद्दः, तत्राह---स्वात्मेति । आत्मनि विषये, मानबोधः---अहंप्रत्ययः सदा स्यादिति सुप्ताद्दसिद्धिरित्यर्थः ।  
+(1073)प्रमातुरात्मत्वं स्वीक-त्य तस्याहंधीगम्यत्वं निरस्तम्। इदानीं तस्याहंप्रत्ययगम्यत्वेऽपि न विरोधः अनात्मत्वात्, इत्याह--अज्ञातत्वमिति ।  
+(1074)प्रमातुः,स्वप्रकाशत्वानङ्गीकारात् मानादज्ञातत्वसिद्धेर्निरस्तत्वात्, अनुभवेऽध्यासादज्ञातत्वं सिद्धयतीति यदि अङ्गीक्रियते, तत्राह---तस्यापीति ।  
+(1075)सर्वकल्पनामूलानुभवस्यैवाज्ञातत्वे कथं वेदस्तत्र प्रमाणम्, प्रत्यक्षादीनामपि तत्रैव प्रमाणत्वात्,  
+\*प्रमाणसंप्लवोऽप्युक्तो दूरादेव निवर्तितः ।  
+अन्यत्रापि हि मानानां नैव संप्लव इष्यते ॥(1076)  
+अज्ञातावगमे यद्वत् प्रमातर्यर्पितं फलम्।  
+न मेये पूर्वमानेन तद्वन्मानान्तरैरपि ॥(1077)  
+प्रमाणसंप्लवो यदा नेष्यते, तदा प्रतीचि तत्तदर्थोपधानभेदेन तत्तत्प्रत्ययवेद्दे दूरत(य)एव प्रमासंप्लवो निरस्त इत्यर्थः । (1076)  
+ प्रमाणसंप्लवाभावः  
+अन्यत्रापि प्रमाणसंप्लवाभावं स्पष्टयति ----अज्ञातेति । अज्ञातस्यावगमे पूर्वप्रमाणमेन मातरि फलम(र्थ)(र्प्य)ते । न मेये, भूतचैतन्यवादानुपपत्तेः। एवमुत्तरैरपि तत्रैव फलमुत्पाद्दते मानत्वाविशेषादित्यर्थः ।  
+(1077)अतः शुद्धे वस्तुनि पूर्वमानवदुत्तरमानानां प्रवेशान्न संप्लवः, इत्याह---अत इति । तथापि पूर्वप्रमाणविषये प्रवेशायदुत्तरमानानां संप्लवः, इत्यत्राह---मान्तरैरति । पूर्वमानेन ज्ञाते मान्तरैरवबुद्धेऽपि न संप्लवः । उत्तरमानविषयस्य ज्ञातस्य पूर्वमानविषयत्वात् अज्ञाततोऽन्य(द)(तः----अ)ज्ञातादन्यत्वादित्यर्थः ।  
+अतोऽनधिगतावेशात् सर्वेषां संप्लवः कुतः ।  
+मान्तरैरवबुद्धेऽपि ज्ञातेऽप्यज्ञाततोऽन्यतः ॥(1078)  
+अथाप्यवगमो मेये तथापि स्यान्न संप्लवः ।  
+पूर्वोऽनधिगते वृत्तः प्रत्ययोऽधिगते परः ॥(1079)  
+पूर्वेण निश्चिते चेत्स्यान्नोत्तरस्य प्रमाणता ।  
+तथा सन्देह एकस्मादन्यस्माद्धि विनिश्चयः ॥(1080)
+
+निस्सामान्यविशेषेषु नातः संप्लव इष्यते ।  
+यथान्यत्र तथेहापि वेदान्तेष्वभ्युपेयताम्॥(1081)  
+(1078)घटः स्फुरतीत्यनुभवात् (न)फलस्य मेयाश्रयत्वोपगमेऽपि न संप्लवः, इत्याह--अथापीति । पूर्वप्रमाणस्य फलाविशिष्टे प्रवृत्तत्वात् उत्तरस्य तद्विशिष्टे प्रवृत्तेर्थभेदादित्यर्थः ।  
+(1079)पूर्वोत्तरप्रमाणयोः विशेष्यस्वरुपस्यैकस्य प्रतीतेः तत्र संप्लव इति चेत् । पूर्वप्रमाणनिश्चिते प्रवृत्तमुत्तरं, प्रमाणं अप्रमाणं वा । आद्दे न संप्लवः, फलभेदादर्थाकारभेदात् । द्वितीयमनुवदति---पूर्वेणेति । परिहरति--तथेति । सन्देहशब्देनानुवादो लक्ष्यते । उत्तरप्रमाणादनुवादज्ञानं स्यात्, पूर्वस्मान्निश्चयः इत्यतोऽपि न प्रमाणसंप्लव इत्यर्थः ।(1080)  
+ एवमनात्मनि प्रमाणसंप्लवं निराकृत्य आत्मन्यपि तं निराकुर्वन्नाह----निस्सामान्येति । निर्गतसामान्यविशेषेष्वात्मसु मानसंप्लवो दूरापसारितः । तेष्वेकस्यापि मानस्याप्रवेशादित्यर्थः । तर्हि औपनिषदत्वमात्मनो हीयेत, अत्राह--(अथ)तथेति । वेदान्तेषु ----वेदान्तवाक्ये लक्षणया प्रतिपाद्दब्रह्मात्मनि, विषयेष्विव मानानामसंप्लव इष्यतामित्यर्थः । 1081)?  
+\*यतो मानानि सिद्धयन्ति जाग्रदादिक्षत्रयं तथा ।  
+भावाभावविभागश्च स ब्रह्मस्मीति बोध्यते ॥(1082)  
+\*यतोऽसिद्धानि सिद्धयन्ति भावाभावौ यदाश्रयौ ।  
+योऽनन्यर्थो यदर्थं च सर्वं योऽनन्यद्दृक् सदा ॥(1083)  
+\*प्रमेयादित्रयं यस्मात् परस्परविलक्षणम्।  
+आत्मानं लभते सत्यः सोऽध्यक्षोऽत्राभ्युपेयताम्॥(1084)  
+आत्मनोऽवस्थात्रयविशिष्टस्य ब्रह्मत्वं न संभवति, इत्यत्राह---यत इति । अवस्थात्रयादिसाक्षित्वादात्मनः सद्वह्मत्वमुपपन्नमित्यर्थः ।  
+(1082)आत्मनोऽसुखरुपस्य ज्ञानानन्दरुपब्रह्मात्मत्वमयुक्तम्, अत्राह---यतोऽसिद्धानीति । देहादीनि जडानि यतः सिद्धयन्ति
+--अजडात्मवदाभासन्ते । प्रमात्रदीनां भावाभावौ च यदाश्रयौ---यदधीनौ सिद्धयतः । योऽन्यार्थः सर्वं च यदर्थमिति सुखलक्षणलक्षितत्वेन सुखरुपो य आत्मा, स ब्रह्मेति तत्त्वमादिवाक्येन बोध्यते इत्यर्थः ।  
+(1083)विशुद्धत्वंपदार्थस्याभावात् कथं तस्य तदर्थैक्यम्, अत्राह--प्रमेयेति । प्रमात्रादिभावाभावसाधको न निराकर्तुं शक्यते इत्यर्थः ।  
+(1084)स्वापे तस्य व्यभिचारादसत्त्वम्, अत्राह--असंकुचितेति । जाग्रत्स्वग्नयोरिव स्वापेऽपि तत्साधनकानुभवसत्त्वमित्यर्थः ।  
+असंकुचित्पद्मः प्राज्ञे स्वप्नबोवत् ।  
+तथा प्रफुल्लबोधाब्जः प्राज्ञवत्स्वप्नबोधयोः ॥(1085)  
+साक्ष्यसंबन्धतः साक्षी न स्वतः साक्षितात्मनः।  
+प्रत्यङ्मात्रैकद्दृष्टत्वात् धियां वाचागोचरः ॥(1086)  
+अस्मत्पक्षे हि कर्तव्यमविद्दामात्रकल्पितम्।  
+तदभावान्न संसारो भूतो भावी न वर्तते ॥(1087)  
+स्वाभाविक्यप्यविद्देयमनुभूत्यावभासिता ।  
+तमः सूर्योदयेनेव ज्ञानेनोत्कृत्य नाश्यते ॥(1088)  
+यथा सुप्तौ निर्विशेषोऽनुभवः, तथा इतरावस्थाद्वयेऽपि, इत्याह---तथेति ।  
+(1085)साक्षित्वात् लौकिकसाक्षिवत् सविशेषत्वम्, अत्राह---साक्ष्येति । साक्षित्वहेतोरसिद्धावपि वाच्य.त्वात् ज्ञेयत्वाच्च घटवत् सविशेषत्वम्, अत्राह---प्रत्यगिति ।  
+(1086)अनुभवस्य अनुभाव्येन संबन्धकर्तृत्वात् कर्तृत्वादिसंसारः परमार्थः, अत्राह---अस्मदिति । ज्ञानादज्ञाननिवृत्तौ संसारो निवर्तते इत्यर्थः ।  
+(1087)अनाद्दज्ञानस्य चैतन्यवत् न निवृत्तिः, अत्राह---स्वाभाविकीति । अनादित्वं प्रागभावे व्यभिचरतीत्यर्थः ।  
+(1088)ब्रह्मज्ञानं ज्ञाननिवर्त्यं अज्ञानत्वात् शुक्तयज्ञानवत्। न च साध्यवैकल्यं, अनुभवसिद्धत्वात्, इत्याह--अनादीति ।  
+अनादिकालमज्ञानं ज्ञानेनादिमता क्षणात् ।  
+द्दृश्यते नाश्यमानं हि, न चास्यावृत्तिरीक्ष्यते॥(1089)  
+एवंभूतोऽप्ययं प्रत्यक् स्वात्मानुभवसंश्रयात् ।  
+व्युत्पत्तेः प्रागविज्ञातः सर्वज्ञानादिसाक्ष्यपि ॥(1090)  
+तत्त्वमस्यादितः तस्मादागमादेव नान्यतः ।  
+ऐकात्मम्यवस्तुनः साक्षात् व्युत्पत्तिरविचालिनी ॥(1091)  
+तस्यास्य कर्मकाण्डेन संबन्ध इति यः पुरा ।  
+प्रश्नस्तन्निर्णयार्थाय सर्वथेत्यादिरुत्तरः ॥(1092)?  
+'सूर्योदयेनेव 'इति ज्ञानस्याज्ञाननिवृत्तौ अनन्यापेक्षत्वमुक्तमयुक्तम्, अभ्यासापेक्षत्वात्, अत्राह--न चेति ।  
+(1089)स्वयंप्रकाशत्वादात्मनः नाविद्दासंबन्धः, अत्राह---एवमिति । व्युत्पत्तेः प्राक्--तत्त्वमादिवाक्यात् ज्ञानोत्पत्तेः पूर्वमित्यर्थः ।  
+(1090)यस्मात् तत्त्वमादिवाक्यजन्यज्ञानात् प्रागज्ञातत्वं तस्मादौपनिषदत्वं सिद्धम्, इत्याह---तत्त्वमसीति । (1091)  
+ सर्वथापीति भाष्यतात्पर्यम्  
+'सर्वथाप्यस्त्यात्मा'इत्यादिभाष्यतात्पर्यमाह--तस्येति । वेदस्य स्वार्थपरत्वसिद्धौ विवक्षितः संबन्धः शक्याभिधानः इति,सिद्धे वेदप्रामाण्यं प्रसाध्य, कर्मणां शुद्धिद्धारेण ज्ञानहेतुत्वात् काण्डयोरुपकार्योपकारकत्वं संबन्धः अनेन भाष्येणाभिधीयते इत्यर्थः ।(1092)कर्मभेरव पुमर्थसिद्धेः उपनिषदामनपेक्षितारम्भकत्वात् संबन्धो दूरनिरस्तः, इति शङ्कते---नन्विति । उक्तमेव स्पष्टयति--कृत्स्नेति ।  
+(1093)इष्टानिष्टाप्तिहानीच्छानिदानाज्ञानस्य ज्ञानं विना निवृत्ति(नि)(वि)योगात् वेदान्तारम्भोऽवश्यंभावी, इति (आह)--नैतदिति।  
+(1094)कर्मादेरिच्छाहेतुत्वं नाज्ञानस्य, अत्राह--निश्शेषेति ।  
+(1095)तथापि कथं तदिच्छाया अज्ञानकार्यत्वम्, अत्राह---आत्मन इति । प्राप्ते इच्छाया वस्तुतोऽनुपपत्तेः अज्ञानादेवेच्छतीत्यर्थः । फलस्यात्मरुपत्वे मानमाह--अथेति । 'अथैष एव परम आनन्दः, एषोऽस्य परम आनन्दः'(बृ.6-3-32)'यो वै भूमा तत्सुखम्'(छा.7-13-1)इति श्रुतेः, परमप्रेमास्पदत्वेन सुखत्वानुमानात्, परामर्शकल्पितसौषुप्तानुभवाच्च आत्मनो द्विविधं फलं स्वरुपं सिद्धमित्यर्थः ।  
+(1096)स्वर्गशब्दोप्यत्र मानम्, इत्याह--स्वर्गेति । य आत्मा यथोदितपुमर्थोऽनतिशयानन्दनिश्शेषा (द)(न)र्थनिवृत्तिरुपः, स स्वर्गशब्दवाच्य इत्यर्थः । 'स्वर्गलोकं विशालम्'(भ. गी. 9-21)इत्यादौ स्वर्गशब्दस्य भोगभूमौ प्रसिद्धत्वात् आत्मनि प्रयोगो नास्ति, इत्यत्राह--स्वर्गमिति । 'स्वर्गं लोकमित ऊर्ध्वं विमुक्ताः '(बृ.6-4-8)'अहरहर्वा एवं वित्स्वर्गं लोकमेति '(छा.8-3-3)  
+स्वर्गशब्दाभिधश्चायं पुमर्थो यो यथोदितः।  
+स्वर्गमित्यादिभिर्वाक्यैः त्रय्यन्तेष्वपि गीयते॥(1097)  
+स्वर्गं पुमर्थमुद्दिश्य सर्वप्राणभृतामियम्।  
+वाङ्मनः कायचेष्टा स्याद्दापि तत्साधनोपगा ॥(1098)  
+\*उत्पत्त्याद्दर्थनिष्ठानां सर्वेषामपि कर्मणाम्।  
+स्वर्गे नैवाधिकारोऽस्ति तस्य सिद्धत्वतः स्वतः ॥(1099)  
+स्वात्मसाध्यादिरेकेण सर्वमेव हि साधनम्।  
+नालं साध्यान्तरायेह किम्वसाध्यार्थसिद्धये॥(1100)  
+'अनन्ते स्वर्गलोके ज्येये प्रतितिष्ठन्ति',(आ-ध-अध्या.)इत्यादिवाक्यैरात्मा स्वर्गशब्देनानतिशयानन्दः प्रकाशित इत्यर्थः ।  
+(1097)  
+ स्वर्गकामो यजेतेति स्वर्गोद्देशेन विहितयागादिकर्मणैव तत्सिद्धेः वेदान्तारम्भोऽनर्थकः इति शङ्कते---स्वर्गमिति ।  
+(1098)कर्मणां स्वर्गाभाससाधकत्वं न मुख्यस्वर्गसाधकत्वम्, इति परिहरति---उत्पत्त्यादीति ।  
+(1099)मोक्षसुखस्य क(र्म)(र्मा)साध्यत्वं किंपुनर्न्यायेनाह---स्वात्मेति । यस्य क्रमणो यत् फलं विध्युद्देशे श्रुतं तत्कर्म तस्यैव फलस्य साधनं न फलान्तरोत्पत्तौ समर्थमित्यर्थः।(1100)आत्मस्परुपत्वेन फलस्य नित्यसिद्धत्वात् ज्ञानानर्थक्यम्, अत्राह--यथोक्तेति ।  
+यथोक्तपुरुषार्थस्य यद्दप्याप्तस्वभावता।  
+आत्मस्वभावतो नाप्तिः तथाप्यज्ञानहेतुतः॥(1101)  
+अविद्दाव्यवधानस्य नात्मज्ञानातिरेकतः ।  
+प्रध्वस्तिः कर्मभिः कर्तुं शक्या तेषाममानतः ॥(1102)  
+व्यञ्जकं विरहय्यान्यत्साधनं कारकात्मकम्।  
+तदभिव्यक्तये नालं स्वतः सिद्धस्य वस्तुनः ॥(1103)  
+कर्मभिर्नापनीतोऽतः प्रत्यङ्गोहोऽप्रमाणतः ॥(1104)  
+यावच्च सम्यग्विज्ञानवह्निनासौ न दह्यते ।  
+न तावत्किञ्चिदप्याप्तं सुखं दुःखविवर्जितम्॥(1105)  
+नालं विमुक्तये काम्यं यदि नाम, तथापि तु ।  
+पुंसो वैराग्यहेतुत्वात् उपकार्येव तन्मतम्॥(1106)  
+(1101)अनाप्तेरज्ञानकृतत्वेऽपि तदज्ञानं कर्मभिरेव निवर्तताम्, अत्राह--अविद्देति । (1102)कर्मणाममानत्वेऽपि प्रदीपवदर्थव्यञ्जकत्वादज्ञाननिवर्तकत्वम्, अत्राह--व्यञ्जकमिति ।  
+(1103)फलितमाह----कर्मभिरिति । (1104)स्थित एवाज्ञाने कर्मभिः मोक्षः स्यात्, अत्राह---यावच्चेति ।  
+(1105)कर्मणां न मोक्षसुखहेतुत्वं, तस्य नित्यत्वात्। नप्यज्ञाननिवर्तकत्वं, अमानत्वात् । अतः परम्परयापि न मुक्तिहेतुत्वम्, अत्राह---नालमिति । काम्यमिति । नित्यस्यापि ग्रहणम्। 'एतावान्वै कामः'(बृ.3-4-17)इत्युक्तत्वात् ।  
+(1106)ननु काम्यानां फलान्तरे विनियुक्तानां (न)वैराग्यहेतुत्वम्, अत्राह--असह्येति । निषिद्धं ब्रह्मत्यादि स्वकार्यद्विनिवर्तकं, असह्यदुःखफलत्वाद्दथेत्यर्थः ।  
+असह्यदुःखफलतः स्वकार्यविनवृत्तिकृत्।  
+विरक्तिहेतुतः कर्म प्रतिषिद्धं यथा, तथा ॥(1107)  
+अपि काम्यं कृतं सर्वं दुःखात्मकफलत्वतः ।  
+आविरिञ्च्यात्स्वकार्येभ्यः स्यादेव विनिवृत्तये ॥(1108)  
+\*इत्युक्तप्रतिपत्त्यर्थमाजगामोत्तरं वचः ।  
+एकवाक्यत्वमेवं वेदस्य स्यादसंशयम्॥(1109)  
+\*दक्षिणोदगधोगत्या प्रत्यगज्ञानमूढधीः ।  
+बम्भ्रमीत्यनिशं दुःखी पुमान्कर्मपुरः सरः ॥(1110)  
+\*काम्यैर्दक्षिणमन्वेति ज्ञानयुक्तैस्तथोत्तरम्।  
+निषिद्धैश्चाप्यधोजन्म कर्मसंभारसंस्कृतः ॥(111)  
+दार्ष्टान्तिकमाह--तथेति । गर्भवासादिफलत्वात् काम्यमपि पुंसो वैराग्यकारणमित्यर्थः । (1107-1108)  
+ यावद्धि तन्नापनीयते इत्यादि भाष्यावतारः  
+कर्मणां परम्परया मुक्तिहेतुत्वमित्येतदर्थपरं 'यावद्धि तन्नापनीयते'इत्यादि भाष्यम्, इत्याह--इत्युक्तेति । उपकार्योपकारकसंबन्धे वेदस्य एकवाक्यत्वसिद्धिः, अन्यथा वाक्यभेदो युक्तिविरुद्धः स्यात्, इत्याह---एकवाक्य त्व)मिति । संभवत्येकवाक्यत्वे वाक्यभेदश्च नेष्य(ते)इति युक्तिः ।(1109)  
+ कर्मफलप्रपञ्चनम्  
+वैराग्यर्थं कर्मफलं प्रपञ्चयति--दक्षिणेति । (1110)केन कर्मणा कां गतिं प्राप्नोति, तामाह--काम्यैरिति । कर्मसंभारसंस्कृतः---कर्मात्मकं साधनं साधितं येन स तथा ।  
+(1111)दक्षिणोत्तरमार्गाभ्यां विशिष्टदेवयोनिप्राप्तेः न कर्मफलद्वैराग्यसंभवः, अत्राह---ब्रह्माद्देति । अज्ञानमात्रकार्यत्वे कारणाविशेषात् जगद्वैचित्र्यं न स्यात्, अत्राह--नामेति । नामरुप क्रियाभेदात् विचित्रा ।द्दृष्टान्तमाह--स्वप्नेति । स्वप्नप्रपञ्चो विचित्रोऽप्येकस्य प्रत्यगज्ञानस्य विवर्तो यथेत्यर्थः ।  
+धर्माधर्माशसाम्ये च मनुष्यत्वं प्रपद्दते।  
+ब्रह्माद्दा स्थावरान्तैवं प्रत्यगज्ञानहेतुजा ।  
+नामरुपेहचित्राद्दा स्वप्नमायेन्द्रजालवत् ॥(1112)  
+\*धर्माधर्माद्दुपादानसाधना नश्वरी गतिः ॥(1113)  
+व्याकृतं नामरुपाभ्यां यद्दपीदं श्रुतौ श्रुतम्।  
+आत्मतत्त्वानभिव्यक्तेर्नाभिव्यक्तं तदुच्यते ॥(1114)  
+त्रिविधं कर्मफलं अज्ञानकार्यं नामाद्दात्मकत्वात् मायाविना प्रदर्श्यमानहस्त्यादिवत्, इत्याह--मायेति ।  
+(1112)विमतमनित्यं कर्मफलत्वात् घटवत्, इत्याह--धर्मेति ।  
+(1113)'तन्नामरुपाभ्यामेव व्याक्रियत'(बृ.3-4-7)इति नामरुपात्मना जगतोऽभिव्यक्तिश्रवणात् न प्रत्यक्षादिसिद्धस्य अज्ञानकार्यत्वम्, अत्राह--व्याकृतमिति । जडस्याधिष्ठानात्मसत्तैव सत्ता। तेनात्मन्य (नेन्य )(न)भिव्यक्ते तदव्यनभिव्यक्तमुच्यते इत्यर्थः ।(1114)  
+अविद्दातिमिरोच्छत्तौ नानाविष्कृतमण्वपि ।  
+कार्यकारणवद्वस्तु नानपास्तं तमोऽप्यतः ॥(1115)  
+यत एवमतः प्रत्यग्याथात्म्यप्रतिपत्तये ।  
+प्रारब्धेयं प्रयत्नेन वेदान्तोपनिषत्परा॥(1116)  
+यथोक्तफलसिद्धयर्थमारब्धोपनिषद्ददि ।  
+ब्रह्म वा इदमित्यादि कस्मान्नारभ्यतेऽधुना॥(1117)  
+आत्मतत्त्वा (भि)(धि)गमात् प्रागभिव्यक्तमिव लक्ष्यमाणमपि जगत् अनभिव्यक्तं चेत्, कदा व्यक्तता स्यात्, अत्राह--अविद्देति । तत्त्वसाक्षात्कारे विद्वान् सर्वज्ञः स्यादित्यर्थः ।(1115)३  
+ उपनिषदारम्भोक्तिः  
+फलसाधनाधिकारिभेदं संबन्धञ्च महता कण्ठरवेण प्रतिपाद्द, फलितं संहरति--यत इति । उपनिषत्पदस्य विद्दायां मुख्यत्वात् वेदान्तोपनिषदिति विशेषणम्।(1116)  
+ उषा वा अश्वस्येत्युपनिषदारम्भयस्य फलप्रतिपादनम्  
+उपनिषदारम्भस्य विद्दफलत्वे 'ब्रह्म वा इदमग्न आसीत्'(बृ3-4-10)इत्यादि ब्रह्मप्रतिपादकमेवारब्धव्यम्।  
+येषामनधिकारोऽत्र ह्यश्वमेधक्रतौ भवेत् ।  
+इत एव तु विज्ञानात्तेषां तत्फलकीर्तनम्॥(1118)  
+कर्मगोचरतैवात्र विज्ञानस्यापि चेन्मतम्।  
+\*विकल्पश्रवणान्मैवं कर्मणा विद्दयाऽथवा ॥(1119)  
+यजते योऽश्वमेधेन यश्चैवं वेद तं क्रतुम् ।  
+फलं तुल्यं तयोर्युक्तम् कर्मिणो विदुषस्तथा ॥(1120)  
+उपास्तेरपि कर्मत्वादश्वमेधक्रतोरिव।  
+नातो धियोऽर्थवादत्वं तद्विधेर्नितरां न च ॥(1121)  
+एतावदेव चेदत्र भवतैवं विवक्षितम्॥(1122)  
+प्रयोजनं, तत्सुकरं विध्युद्देशेऽपि भाषितुम्।  
+विद्दाप्रकरणे तस्य त्वाम्नायः किमितीर्यताम्॥(1123)  
+किमनेन 'उषा वा अश्वस्य'(बृ.3-1-1)इत्यादिवाक्येन, इति शङ्कते---यथोक्तेति ।  
+(1117)एतदारम्भस्याभिप्रेतं फलं प्रतिपादयितुं प्रथममश्वमेधोपासनस्य फलमाह--येषामिति । ब्रह्माणवैश्ययोः, क्षत्रियस्य च द्रव्यादिसंपद्रहितस्य अश्वमेधानधिकारात् तत्फलकामानां तत्सिद्धयर्थमेतदुपासनं विधीयते इत्यर्थः ।  
+(1118)विज्ञानस्य क्रतुशेषत्वात् अङ्गेषु फलश्रुतेरर्थवादत्वात् न स्वातन्त्र्येनण फलम्, इति शङ्कते---कर्मेति । अश्वमेधानुष्ठानतदुपासनयोः विकल्पेन फलसाधनत्वावगमात् न क्रत्वङ्गं विज्ञानम्, इत्याह--विकल्पेति ।  
+(1119)'सर्वं पाप्मानं तरति तरति ब्रह्महत्यां योऽश्वमेधेन यजते, य उ चैनमेवं वेद'(तै.स.5-3-12)इति विकल्पश्रुतिमुदाहरति--यजते इति ।  
+(1120)फलश्रवणमर्थवादः, इत्यत्राह--उपास्तेरिति । धियोऽर्थवादत्वं
+---धीफलश्रुतिमात्रत्वं नेति यावत् । उपासनस्यापि कर्मत्वात्, विहितत्वाच्च न तत्फलश्रुतिरर्थवाद इत्यर्थः ।(1121)  
+ उपासनं न क्रत्वर्थं, किन्तु पुरुषार्थम्। क्रतावनधिकृतानामपि अस्मात् फलं स्यात्, इत्येतावन्मात्रं तवेष्टं चेत्, कर्मप्रकरणपाठेऽपि तद्वक्तुं सुकरमिति , किं विद्दाप्रकरणपाठेन, इति चोदयति--एतावदिति ।  
+उच्यतेऽशेषयज्ञानां क्रतुराडेष उच्यते ।  
+सोऽपि ज्ञानेन संयुक्तो हयमेधो महाक्रतुः ।  
+संसारफल एवेति प्रवृत्त्यङ्गतयोच्यते॥(1124)  
+प्रत्यग्बोधतिरेकेण साधनान्तरनिस्पृहाः ।  
+निर्ज्ञाताशेषकर्मोत्थफलफल्गुत्वबुद्धयः ॥(112)  
+\*मुमुक्षवः प्रवर्तेरन् कथं नामात्मवेदने ॥(1126)  
+संसारफलता काममस्तु काम्यस्य कर्मणः ।  
+\*नित्यानामफलत्वात्तु मुक्तिरेवास्तु तत्फलम्॥(1127)  
+(1122-1124)विद्दाप्रकरणपाठे प्रयोजनं दर्शयन् परिहरति--उच्यत इति ।  
+'ब्रह्महत्याश्वमेधाभ्यां न परं पुण्यपापयोः'इति स्मृतेरित्यर्थः । अस्तु, प्रस्तुते किं स्यात्, अत्राह--सोऽपीति । अशनाया हि मृत्युः'(बृ.3-2-1)'स वै नैव रेमे '(बृ3-4-2)इति भया (रि)(र)त्यादियोगश्रवणात् ज्ञानयुक्तस्य क्रतुवरस्य संसारफलत्वम्,किमु वक्तव्यं क्षुद्रकर्मणामिति कर्मफलवैराग्यद्वारा विद्दासाधने प्रवृत्त्यङ्गत्वेनात्र पाठ इत्यर्थः ।  
+(1124)साधनत्वात् कर्मवत् ज्ञानस्याप्यल्पफलत्वानुमा(ना)न्न तत्र नियतप्रवृत्तिलाभः, अत्राह---प्रत्यग्बोधेति । 'तरति शोकमात्मवित्'(छा. 7-1-3)इति विद्दाया निरतिशयफलहेतुत्वश्रवणादित्यर्थः ।.  
+(1125-1126)काम्यकर्मपरित्यागोऽपि न नित्यानां त्यागः, तेषां मुक्तिफलत्वात्, इति शङ्कते--संसारेति ।  
+(1127)नित्यकर्म संसारफलं, बाह्यकर्मत्वात् काम्यकर्मवत्, इति परिहरति--न हीति । 'एतावान्वै कामः'(बृ.3-4-17)इति सर्वकर्मणां सामान्येन फलश्रवणात् स्वर्गश्वादेः काम्यकर्मफलत्वेन विशेषश्रवणात् 'कर्मणा पितृलोकः'(बृ.3-4-16)इति श्रूयमाणं फलं नित्यकर्मणां हि यस्मात्,  
+नह्युत्सर्गेण सर्वेषां फलवत्त्वस्य संश्रवात् ।  
+कर्मणा पितृलोकादि नित्यानामेव तत्फलम्॥(1128)  
+फलवत्त्वे हि नित्यानां काम्यत्वमिति चेन्मतम्।  
+\*नैवं, शुद्धिप्रधानत्वात् भोगनिष्ठस्य काम्यता॥(1129)  
+काम्येऽपि शुद्धिरस्त्येव भोगसिद्ध्यर्थमेव सा ।  
+विड्वराहादिदेहेन नह्यैन्द्रं भुज्यते फलम्॥(1130)  
+नित्येषु शुद्धेः प्राधान्यात् भोगोऽप्यप्रतिबन्धकः ।  
+भोगं भङ्गुरमीक्षन्ते बुद्धिशुद्ध्यनुरोधतः ॥(1131)  
+\*तमेतमित्यतश्चोच्चैर्वेदानुवचनादिना ।  
+विरक्ताः सर्वसंसारात् जिज्ञासन्ते परं पदम्॥(1132)  
+तस्मातेषां न मुक्ति(ः)फलमित्यर्थः ।  
+(1128)नित्यानामपि फलवत्त्वे नित्यकाम्यविभागो न स्यात्, इति शङ्कते--फलवत्त्वे हीति । फवलत्त्वेऽपि पापक्षयप्रधानं नित्यं, भोगप्रधानं काम्यमिति विभागः, इति परिहरति---नैवमिति । (1129)  
+ काम्यं शुद्धिकरं विहितत्वात् नित्यवत्, इत्यत्राह--काम्येऽपीति ।  
+(1130)नित्यनैमित्तिककर्मणामुपात्तदुरितनिबर्हणव्यतिरेकेण फलान्तरस्वीकारे तत्फलं शुद्धिप्रतिबन्धकं स्यात्, अत्राह---नित्येष्विति । 'स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः (भ.गी.18-45)इति शास्त्रादित्यर्थः ।  
+(1131)'बुद्धिशुद्ध्यनुरोधतः'इत्यत्र विविदिषावाक्यमपि प्रमाणम्, इत्याह---तमेतमिति । (1132)नित्यकर्मणां नित्यत्वसमाख्यया नित्फले कैवल्ये विनियोगात् न शुद्धिमात्रपर्यवसायित्वम्, अत्राह--आरादिति ।  
+\*आरादेवोपकुर्वन्ति नित्यान्यात्मविशुद्धितः ।  
+आत्मज्ञानाविरोधित्वात् साक्षान्नत्वात्मबोधवत्॥(1133)  
+त्यक्तवा कर्माण्यतोऽसङ्गाः प्रत्यक्प्रवणबुद्धयः ।  
+अपास्तरागादिमला ईक्षन्ते ज्ञं स्वमात्मनि ॥(1134)  
+अतोऽशेषमहानर्थहेत्वात्माज्ञानहानिकृत् ।  
+प्रत्यग्याथात्म्यविज्ञानभास्करोदयहेतवे ॥  
+आरब्धेयं प्रयत्नेन वेदान्तोपनिषत्परा॥(1135)  
+ इति श्रीसुरेश्वराचार्यविरचिते  
+बृहदारण्यकभाष्यवार्त्तिके संबन्धग्रन्थः समाप्तः  
+ ----\*\*\*\*\_\_\_\_   
+(1133)तथापि यावज्जीवश्रुतिचोदितानि कर्माणि न हातुं शक्नुमः, इत्याशङ्कयाह--त्यक्तवेति । अविरक्तविषया यावज्जीवश्रुतिरित्यर्थः ।.  
+(1134)एवं कैवल्यस्य धीमात्रफलत्वे सति आत्माविद्दानिवर्तकज्ञानजन्मने वेदान्तारम्भं निगमयति-अत इति । सूक्ष्मवस्तुपरत्वात् व्याख्यानयोग्यत्वं दर्शयति--परेति । विज्ञानभास्करोदयो हेतुरज्ञाननिवृत्तेः, तदर्थमित्यर्थः ॥(1135)  
+ इति विद्दासागर-आनन्दपूर्णमुनीन्द्र विरचितायां  
+ बृहदारण्यकभाष्यवार्त्तिकव्याख्यायां  
+ न्यायकल्पतिकायां संबन्धग्रन्थः समाप्तः  
+ APPENDIX I.  
+ संबन्धग्रन्थोद्धृतानां  
+ बृहदारण्यकेतरश्रुतीनां सूची  
+ श्रुतिः पृष्ठसंख्या  
+(1)अतः संन्यस्य. (भाल्लविशाखा)  
+(2)अथ परिव्राङ्विर्ण. (जा.वा.5-2)  
+(3)अथैतयोर्न कतरेण चन. (छा.5-10-8)  
+(4)अन्यच्छ्रेयः. (का. 2-1)  
+(5)अहरहर्वा एवंवित् स्वर्गं लोकमेति (छा.8-3-3)  
+(6)आत्मैवेदं सर्वम्. (छा.7-25-27)  
+(7)एकमेवाद्वितीयम्.(छा.6-2-1)  
+(8)एकशाटीपरिहितः . (मैत्रेयीब्राह्मणम्)  
+(9)एको देवः सर्वभूतेषु गूढः. (श्वे.6-11)  
+(10)एतमानन्दमयमात्मानम्.(तै.3-10)  
+(11)एष ह्येवानन्दयाति. (तै.2-7)  
+(12)कपूयचरणाः. (छा.5-10-7)  
+(13)कर्मणा बध्यते जन्तुः.(संन्या. 2-28,मो.ध.78-7)  
+(14)कुर्वन्नेवेह कर्माणि. (ईशा.2)  
+(15)तत्त्वमसि. (छा.6-8-7)  
+(16)तत्र को मोहः कः शोकः.(ई.7)  
+(17)तद्द इह रमणीयचरणाः. (छा. 5-10-7)  
+(18)तद्दथा हिरण्यनिधिम्. (छा.8-3-2)  
+(19)तमेव विदित्वा. (श्वे. 3-8)  
+(20)तरति शोकमात्मवित्. (छा.7-1-3)  
+(21)तस्मात्कर्म न कुर्वन्ति. (संन्या.1-17)  
+(22)ते ये शतं मानुषाः. (तै. 2-8)  
+(23)धर्मेण पापमपनुदति. (महाना.17-6)  
+(24)न कर्मणा न प्रजया.(तै.आ.10-10)  
+(25)न च पुनरावर्तते. (छा.8-15-1)  
+(26)न बिभेति कुतश्चन.(तै. 2-9)  
+(27)नान्यः पन्थाः.(तै.आ.3-12-7)  
+(28)नाविरतो दुश्चरितात्. (का.2-24)  
+(29)नास्त्यकृतः कृतेन. (मु.1-12-12)  
+(30)निचाय्य तं मृत्युमुखात्. (का. 1-2-13)  
+(31)निष्कलं निष्क्रियम्. (श्वे.6-19)  
+(32)परीक्ष्य लोकान्. (मु.1-2-12)  
+(33)ब्रह्मचर्यादेव प्रव्रजेत्. (जा.4-1)  
+(34)ब्रह्म वेद ब्रह्मैव भवति. (मु.3-2-9)  
+(35)ब्रह्मविदाप्नोति परम्. (तै.2-1)  
+(36)ब्रह्मैवेदममृतं पुरस्तात्.(मु.2-2-11)  
+(37)ब्रह्मणो निर्वेदमायात्.(मु.1-2-12)  
+(38)भिद्दते हृदयग्रन्थिः. (मु.2-2--8)  
+(39)मुक्तेश्च बिभ्यतो देवाः.(भाल्लविश्रुतिः)  
+(40)यतो वाचो निवर्तन्ते. (तै.2-9)  
+(41)यदेव विद्दया करोति. (छा.1-1-10)  
+(42)योनिमन्ये प्रपद्दन्ते. (का.5-7)  
+(43)यो वै भूमा तत्सुखम्.(छा.7-23-1)  
+(44)विद्दयामृतमश्नुते.(ईशा.11)  
+(45)विमुक्तश्च विमुच्यते.(का. 5-1)  
+(46)वेदान्तविज्ञानसनिश्चितार्थाः.(मु.3-2-6)  
+(47)स एको ब्रह्मण आनन्दः.(तै.2-8)  
+(48)स क्रतुं कुर्वीत. (छा.3-13-1)  
+(49)सत्यं ज्ञानमनन्तं ब्रह्म.(तै.2-1)  
+(50)सदेव सोम्येदमग्र आसीत्. (छा.6-2-1)  
+(51)सन्मूलाः सोम्येमाः प्रजाः. (छा.6-8-4)  
+(52)सर्वं पाप्मानं तरति तरति ब्रह्महत्याम्.(तै.सं.5-3-12)  
+(53)सशिखं वपनं कृत्वा. (ब्रह्मोप.6)  
+ APPENDIX II.  
+ संबन्धग्रन्थोद्धृतानां  
+ स्मृतीनां सूची  
+स्मृतिः पृष्ठसंख्या  
+(1)अग्न्याधेयमग्निहोत्रम्.(गौ.ध.1-8-20)  
+(2)अग्निष्टोम अत्यग्निष्टोम.(गौ.ध.1-8-21)  
+(3)अनन्ते स्वर्गे लोके. (आ.ध.अध्या.)  
+(4)अपि बृन्दावने. (रागिगीतम्)  
+(5)अष्टका पार्वणः. (गौ.ध.1-8-19)  
+(6)आत्मलाभान्न परं विद्दते. (आ.ध.1-8-22-2)  
+(7)आध्यात्मिकान् योगान्.(आ.ध.1-8-22-1)  
+(8)ऋणानि त्रीण्यपाकृत्य. (मनु.6-35)  
+(9)एतेषां च (गौ.ध.1-8-18)  
+(10)कर्मणैव हि संसिद्धम्.(भ.गी.3-20)  
+(11)कषाये कर्मभिः पक्वे. व्या.  
+(12)गर्भाधानपुंसवन.(गौ.ध.1-8-14)  
+(13)चत्वारि वेदव्रतानि(गौ.ध.1-8-15)  
+(14)तद्दथा आम्ने फलार्थे निमिते.(आ.ध.1-7-20-3)  
+(15)त्यजतैव हि तज्ज्ञेयम्. व्या.  
+(16)धर्मात् सुखंच ज्ञानंच. व्या.  
+(17)न जातु कामः कामानाम्.(परा.मनु.2-94)  
+(18)न हि कल्याणकृत्.(भ.गी.6-40)  
+(19)पञ्चानां यज्ञानाम्.(गौ.ध.1-8-17)  
+(20)ब्रह्महत्याश्वमेधाभ्याम्. व्या.  
+(21)ममैवांशो जीवलोके .(भ.गी. 15.7)  
+(22)मोक्षार्थी न प्रवर्तेत. ----  
+(23)यथान्नं मधुसंयुक्तम्. ----  
+(24)यन्न दुःखेन संभिन्नम्. ---  
+(25)यावन्त्यन्यानि जन्मानि. (परमर्षिः)  
+(26)वर्णा आश्रमाश्च स्वकर्मनिष्ठाः(गौ.ध.1-2-27)  
+(27)विविक्तदेशसेवित्वम्. (भ.गी.13-10)  
+(28)वेदः कृत्स्नोऽधिगन्तव्यः.(मनु.21-65)  
+(29)श्वशूकरखरोष्ट्राश्व. (मनु.12-55)  
+(30)सत्यानृते सुखदुःखे.(आ.ध.2-9-21-13)  
+(31)सिद्धिं प्राप्तो यथा ब्रह्म.(भ.गी.9-21)  
+(32)स्वर्गलोकं विशालम्.(भ.गी.9-21)  
+(33)स्वे स्वे कर्मण्यभिरतः.(भ.गी.18-45)  
+(34)स्नानं सहधर्मचारिणीसंयोगः.(गौ.ध.1-8-16)  
+ ---------  
+ APPENDIX III  
+ संबन्धग्रन्थोद्धृतानां  
+ सूत्राणां सूची  
+सूत्रम् पृष्टसंख्या  
+(1)अथातो धर्मजिज्ञासा (पू.मी.1-1-1)  
+(2)अथातो ब्रह्मजिज्ञासा (ब्र.सू.1-1-1)  
+(3)अर्थाभिधानसंयोगान्मन्त्रेषु शेषभावः स्यात्,  
+ तत्राचोदितमप्राप्तं चोदिताभिधानात् (पू.मी.9-1-36)  
+(4)अर्थाभिधानसंयोगान्मन्त्रेषु शेषभावः स्यात् तस्मादुत्पत्तिसंबन्धोऽर्थेन नित्यसंयोगात्(पू.मी.3-2-1)  
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ APPENDIX III  
+ संबन्धग्रन्थोद्धृतानां  
+ सूत्राणां सूची  
+सूत्रम् पृष्ठसंख्या  
+(1)अथातो धर्मजिज्ञासा (पू.मी.1-1-1)  
+(2)अथातो ब्रह्मजिज्ञासा (ब्र.सू.1-1-1)  
+(3)अर्थाभिधानसंयोगान्मन्त्रेषु शेषभावः स्यात्,  
+ तत्राचोदितमप्राप्तं चोदिताभिधानात् (पू.मी.9-1-36)  
+(4)अर्थाभिधानसंयोगान्मन्त्रेषु शेषभावः स्यात् तस्मादुत्पत्तिसंबन्धोऽर्थेन नित्यासंयोगात् (पू.मी.3-2-1)  
+(5)अर्थैकत्वे द्रव्यगुणयोरैककर्म्यनियमः स्यात्(पू.मी.3-1-12)  
+(6)अयनेषु चोदनान्तरं संज्ञोपबन्धात् (पू.मी.2-3-5)  
+(7)अविशिष्टस्तु वाक्यार्थः (पू.मी.1-2-40)  
+(8)असंयुक्तं प्रकरणादितिकर्तव्यतार्थित्वात् (पू.मी.3-3-4)  
+(9)आख्या चैवं तदर्थत्वात् (पू.मी.3-3-13)  
+(10)आम्नायस्य क्रियार्थत्वादानर्थक्यमतदर्थानाम्(पू.मी.1-2-1)  
+(11)एकस्य तूभयत्वे संयोगपृथक्तवम्(पू.मी.4-3-2)  
+(12)क्रमश्च देशसामान्यात् (पू.मी.3-3-12)  
+(13)क्रतौ फलार्थवादमङ्गवत् (पू.मी.4-3-17)  
+(14)चोदनालक्षणोऽर्थो धर्मः (पू.मी.1-1-2)  
+(15)तद्भूतानां क्रियार्थेन समाम्नायः (पू.मी.-1-1-25)  
+(16)तयोरेव कृत्यक्तखलर्थाः (पा.सू.3-4-70)  
+(17)दुःखजन्मप्रवृत्तिदोषमिथ्याज्ञानानामुत्तरोत्तरापाये तदनन्तरापायादपवर्गः(न्या.सू.1-1-2)  
+(18)द्रव्यसंस्कारकर्मसु परार्थत्वात् फलश्रुतिरर्थवादः स्यात् (पू.मी.4-3-1)  
+(19)प्रयोगचोदनाभावादर्थैकत्वमविभागात् (पू.मी.1-3-30)  
+(20)प्रैषातिसर्गप्राप्तकालेषु कृत्याश्च (पा.सू.3-3-163)  
+(21)भावार्थाः कर्मशब्दाः तेभ्यः क्रिया प्रतीयेत एष ह्यर्थो विधीयते(पू.मी.2-1-1)  
+(22)यस्मिन् प्रीतिः पुरुषस्य तस् लिप्सार्थलक्षणाविभक्तत्वात् (पू.मी.-4-1-2)  
+(23)लिङ्गक्रमसमाख्यानात् काम्ययुक्तं समाम्नातम्(पू.मी.3-2-19)  
+(24)वचनात्त्वयथार्थमैन्द्री स्यात् (पू.मी.3-2-3)  
+(25)विधिना त्वेकवाक्यत्वात् स्तुत्यर्थेन विधीनां स्युः (पू.मी.1-2-8)  
+(26)सदेरप्रतेः (पा.सू.8-3-66)  
+(27)समर्थः पदविधिः(पा.सू.2-1-1)  
+(28)समेषु वाक्यभेदः स्यात्,(पू.मी.2-1-47)  
+(29)सर्वार्थमप्रकरणात् (पू.मी.3-6-1)  
+ APPENDIX IV  
+ संबन्धग्रन्थोद्धृतानां  
+ निबन्धृणां दार्शनिकानां च सूची   
+निबन्धारः दार्शनिकाश्च पृष्ठसंख्या  
+(1)अभिनवप्राभाकरः  
+(2)आपस्तम्बः  
+(3)जैमिनिः  
+(4)पराशरः  
+(5)प्राभाकरादयः  
+(6)ब्रह्मदत्तः  
+(7)बौद्धः  
+(8)भाट्टाः  
+(9)भाष्कारः(मीमांसाभाष्यकारः)  
+(10)लोकायतिकः  
+(11)व्यासः  
+(12)वृद्धवैशेषिकः  
+(13)सांख्याः  
+ -----------  
+ APPENDIX  
+ संबन्धग्रन्थस्थितानां  
+बृहदारण्यकभाष्यवार्त्तिकश्लोकानां सूची  
+ अ   
+श्लोकः पृष्ठसंख्या   
+?अकर्मत्वादस्यादेः  
+अकस्माद्भवतः सक्तेः  
+अक्रियाकर्तृसंबन्धे  
+अग्निवत्फलभोक्तृत्वात्  
+अज्ञातत्वक्षतिं कुर्वन्  
+अज्ञातत्वस्य माव्याप्तेः  
+अज्ञातत्वाविशेषेऽपि  
+अज्ञातत्वं विना मानं  
+अज्ञातावगमे यद्वत्  
+अज्ञानान्तरितत्वेन  
+अत एव च रागादि  
+अव एव सभागत्वम्  
+अत ऐकात्म्ययाथात्म्य  
+अतोऽज्ञस्यैव निःशेष  
+अतोऽत्र विध्यभावोऽयम्  
+अतोऽनधिगतावेशात्  
+अतोऽनधिनभ्युपगच्छद्भिः  
+अतोऽनुभव लब्धं  
+अतोऽनुभवमुल्लङ्घ्य  
+अतो यदेव साध्यार्थ  
+अतोऽवबोधकत्वेन  
+अतोऽशेषमहानर्थ  
+अत्यन्ताननुभूतेषु  
+अत्यन्ताप्राप्तमर्थं हि  
+अत्र चोपनिषच्छब्दो  
+अत्राप्यनर्थकं कर्म  
+अत्रोच्यते ह्यभिप्रेतं  
+अतः कृताधिकारोऽपि  
+अतः प्रजापतौ तत्त्वं  
+अतः प्रमाणतोऽशक्या  
+अतः प्रैषादितुल्योऽयं  
+अतः समीहितोपाय  
+अतः सर्वोऽपि वेदोऽयं  
+अतः संन्यस्य कर्माणि  
+अतीतनेकजन्मोत्थ  
+अथ निश्चयसिद्धयर्थं  
+अथ मानान्तरापेक्षं  
+अथ मेयप्रभेदेऽपि  
+अथ ये शतमित्यादि  
+अथ वस्तुपृथक्तवेन  
+अथ वस्त्त्वन्तरज्ञानं  
+अथ शास्त्रप्रमाणत्वात्  
+अथ श्रवणभावार्थ  
+अथ सोमादिसंबुद्धे  
+अथातो धर्मइत्युक्तेः  
+अथानधिगताभावात्  
+अथानन्दः श्रुतः साक्षात्  
+अथापि कार्यविरहात्  
+अथाप्यवगमो मेये  
+अथाभावोऽपि वस्त्वेव  
+अथाविशेषणोऽभावो  
+अथासाधारणज्ञान  
+अथैकात्म्यार्थनिष्ठ सत्  
+अथैतयोरिति तथा  
+अथोपच्छन्दनार्थानि  
+अदुःखिनोऽपि द्दृश्यन्ते  
+अद्दृष्टफलता वापि  
+अद्दृष्टार्था हि द्दृष्टार्था  
+अधिकारप्रवेशित्वं  
+अधिकारविचारो हि  
+अधिकारस्य सौलभ्य  
+अधिकारोऽपि तस्यां च  
+अधिकारः स्वसिद्धयर्थं  
+अधिक्रियन्ते येनैते  
+अधीतवेदवेदार्थो  
+अनन्यायत्तसंसिद्धेः  
+अनभीष्टफलानां च  
+अनर्थको विधिस्तस्मात्  
+अनात्मनीव नेच्छेयं  
+अनात्मनि प्रमेयेऽर्थे  
+अनादिकालमज्ञानं  
+अनादिवृद्धव्यवहृत्  
+अनाद्दृत्य यथोक्तार्थं  
+अनारभ्योक्तितश्चापि  
+अनावृत्तिश्च कर्मभ्यो  
+अनित्यत्वस्य धर्मस्य  
+अनुन्मृदितकामो हि  
+अनुपादीयमानश्च  
+अनुबन्धाभिसंबन्धात्  
+अनेकजन्मोपात्तस्य  
+अन्तरङ्गं हि विज्ञानं  
+अन्य आहुः पदार्थत्वात्  
+अन्यच्छ्रेयोऽन्यदुतैव  
+अन्यतो भवने मानं  
+अन्यत्रेव न चाप्यत्र  
+अन्यधर्मे त्वभिन्नं स्यात्  
+अन्यापेक्षं पृथक्तवं चेत्  
+अन्याभावस्य भावत्वे  
+अन्यार्थानुपपत्तेश्च  
+अन्ये तु मन्वते केचित्  
+अन्ये त्वाहुर्न शक्नोति  
+अन्योन्याश्रयता च स्यात्  
+अन्योऽप्यनुभवोपायो  
+अन्वयव्यतिरेकाभ्यां  
+अन्वयव्यतिरेकाभ्यां  
+अन्वयव्यतिरेकौ तु  
+अवविद्धद्वयोऽप्येवं  
+अपसर्पस्य सर्पादेः  
+अपि काम्यं कृतं सर्वं  
+अपि द्दृष्टार्थतैकात्म्ये  
+अपि भेदेन या बुद्धिः  
+अपि शास्त्रात्प्रपन्नेऽस्मिन्  
+अपि सर्वप्रमाणानि  
+अपुमर्थे नियोगे च  
+अपूर्वदेवतास्वर्ग  
+अप्यभावात्मकत्वेऽपि  
+अप्यज्ञातफलं साक्षात्  
+अप्यज्ञानादिनिः शेष  
+अप्यनर्थाय कर्म स्यात्  
+अप्युपादीयमानं च  
+अप्रवृत्तप्रवृत्तेश्च  
+अप्रामाण्यप्रसक्तिश्च  
+अब्रह्मनात्मते यद्वत्  
+अभावयोगं भावश्चेद्  
+अभितोऽनुभवाक्रान्ता  
+अभिधीयत इत्यादि  
+अभिन्नस्यात्मनो मोहात्
+
+
+अभिप्रायवतोऽभावात्  
+अभिप्रेतापि न तदा  
+अभिभूतस्वरुपाणां  
+अभिमानश्च यत्रायं  
+अभिव्यक्तोऽथ सिद्धोऽयं  
+अभेदेनैव वर्तेत  
+अभ्युपेताप्यभिव्यक्तिः  
+अमात्वाशङ्कासद्भावा  
+अमानकं कथं च स्यात्  
+अमीमांसक इत्युच्चैः  
+अयथावस्तुसर्पादि  
+अरण्याध्ययनाच्चैतत्  
+अर्थावादोक्तितो यापि  
+अर्थाक्षेपोऽपि योग्यस्य  
+अर्थादपि न तात्पर्यं  
+अलौकिकार्थवादित्वात्  
+अवबुद्धे तु शब्दार्थे  
+अविज्ञातः प्रमाणानां  
+अविद्दाघस्मरज्ञानं  
+अविद्दातिमिरोच्छितौ  
+अविद्दाया अविद्दात्वे  
+अविद्दावानविद्दां तां  
+अविद्दाव्यवधानस्य  
+अविरोधः क्रमेण स्यात्  
+अविवक्षितनुत्त्यर्त्त्थं  
+अविवक्षितमप्येवं  
+अविशिष्टश्च वाक्यार्थः  
+अव्युत्पन्नेऽपि संबन्धे  
+अशेषानर्थविच्छेदं  
+असंकुचितचित्पद्मः  
+असह्यदुःखफलतः  
+असारफलसंप्राप्तिः  
+असिद्धार्थस्य वा सिद्धिः  
+असिद्धं शास्त्रयुक्तिभ्यां  
+असंवेद्दं सुखं नापि  
+असंसृष्टात्मबोधित्वात्  
+अस्मत्पक्षे हि कर्तव्यं  
+अस्मत्प्रयोगसंभिन्नं  
+अहंधीरात्मनः कार्यं  
+ आ
+
+आक्षिप्यते वा संबन्धः  
+आक्षिप्तृत्वं न शब्दोत्थं  
+आगन्त्वनात्मरुपं तत्  
+आज्ञापितार्थनिष्पत्तौ  
+आज्ञार्थमात्रसिद्धयर्थं  
+आत्मनस्तत्त्वमेतच्च  
+आत्मनोऽहंधियः सिद्धिः  
+आत्मनः कर्त्रवस्थापि  
+आत्मनः कर्मशेषत्वात्  
+आत्मप्रत्ययमागम्य  
+आत्मलाभे च शास्त्रं च  
+आत्माज्ञाननिमित्तस्य  
+आत्मानुभवमाश्रित्य  
+आत्मापि सदिदं ब्रह्म्  
+आत्मा ब्रह्मेति पारोक्ष्य  
+आत्मा ब्रह्मेति विज्ञानं  
+आत्यन्तिकसुखानर्थ  
+आत्यन्तिकसुखेच्छायां  
+आधेयाधारयोगेषु  
+आनन्दैकस्वभावत्वात्  
+आनर्थक्यभयादेव  
+आप्ताशेषपुमर्थत्वात्  
+आभासते मृषैवातो  
+आम्नायस्य क्रियार्थत्वात् विधिनेति  
+आम्नायस्य क्रियार्थत्वादित्यत्रापि  
+आम्नेनिमित इत्यादि  
+आरभ्ये कारकत्वेन  
+आरादेवोपकुर्वन्ति  
+आरुह्याप्यथवा दूरं  
+आवृत्तिश्च प्रसंख्यानं  
+आस्तां वेदान्तमानत्वं  
+आह मानान्तरेणासौ  
+ इ  
+इतश्चाभ्युपगन्तव्यं  
+इतिकर्तव्यतादानं  
+इति भाल्लविशाखानां  
+इतोऽन्यथा कल्प्यमाने  
+इच्छादीनां स्वहेतुत्वे  
+इच्छाद्वेषादिरप्येवं  
+इच्छाम्येवार्थवादत्वं  
+इज्येते स्वर्गलोकाय  
+इत्यादिनापि विज्ञानं  
+इत्यादिनामव्युत्पत्ति  
+इत्यादिवर्त्मना शास्त्रं  
+इत्यादिश्रुतिवाक्यानि  
+इत्युक्तमप्रतिपत्त्यर्थं  
+इत्युक्तमभिसन्धाय  
+इत्युक्ते परिहाराय  
+इत्येवमभिसंबन्धः  
+इत्येवमादिभाष्यार्थः  
+इष्टापूर्तादिहेतूना  
+इह त्वैकात्म्यधीयोगः  
+इह त्वैकात्म्यवाक्येषु  
+ उ  
+उक्तमेव तु संशीतौ  
+उक्ताधिकारविषय  
+उक्तोऽत्र परिहारः  
+उक्तं यदपि वेदेऽस्मिन्  
+उच्यते लोकतः सिद्धं  
+उच्यते विधिशब्दो हि  
+उच्यतेऽशेषयज्ञानां  
+उत्थितस्य पुनर्भावात्  
+उत्पत्तिराप्तिः संस्कारो  
+उत्पत्त्याद्दर्थनिष्ठानां  
+उत्पाद्दापि मितिं शास्त्रं  
+उद्विजेताथवाऽज्ञानात्  
+उपग्वादिर्हि पित्रादिः  
+उपचारार्थतः शास्त्रं  
+उपनीयेममात्मानं  
+उपासनं च यत्किञ्चित्  
+उपासीत स्वमात्मानं  
+उपास्तेरपि कर्मत्वात्  
+उपेयबोधनं मुक्त्वा  
+उपोपसर्गः समीप्ये  
+ ए  
+एकदेशो विकारो वा  
+एकरुपस्य मोक्षस्य  
+एकरुपं च विज्ञानं  
+एकवाक्यत्वतो यद्वा  
+एकवाक्यावशीभावात्  
+एकस्यामपि सत्तायां  
+एको देवः सर्वभूतेषु गूढः  
+एकं चेद्भिन्नता नास्ति  
+एतमेवेति च तथा  
+एतावदेव चेदत्र  
+एवमत्रैकवाक्यत्वं  
+एवमैकात्म्यतात्पर्ये  
+एवं कार्यमुखेनैव  
+एवं केचिद्दवस्थाप्य  
+एवं च लोकतः सिद्धो  
+एवं च सति वेदान्त  
+एवं च सति वेदान्ताः  
+एवं चाज्ञातपारार्थ्ये  
+एवं तर्हि न कर्माङ्गं  
+एवं ते कर्मकाण्डेऽपि  
+एवं निषिद्धवाक्येषु  
+एवं पदात्परिज्ञाते  
+एवंभूतोऽप्ययं प्रत्यक्  
+एवं रागादिहेतूत्थ  
+एवं विधिमिहेच्छन्ति  
+एवं सति विधिः कस्मात्  
+ ऐ  
+ऐकात्म्यज्ञानतश्चेत्स्यात्  
+ऐकात्म्यप्रतिपत्तेः प्राक्  
+ऐकात्म्यवस्तुनिष्ठे तु  
+ऐकात्म्यवस्तुयाथात्म्य  
+ऐकात्म्यवस्तुयाथात्म्यबोधे  
+ऐकात्म्यविषयान्नान्यो  
+ऐकात्म्यस्य स्वतो मुक्तेः  
+ऐकार्थ्योपनिपातित्वात्  
+ औ  
+औदासीन्यान्निषेधेषु  
+औपगवो नृपहयः  
+औपाधिकश्च मिथ्या स्यात्  
+ क  
+कथं च तस्य कर्तृत्वं  
+कथं तेषाममानत्वं  
+कथं नित्यं भवेतन्नो  
+करणैः संहतिं चर्ते  
+कर्तव्यताविवक्षैव  
+कर्तव्यत्वादभीष्टत्व  
+कर्तव्याभावतस्त्वेवं  
+कर्तव्यो याग इत्येवं  
+कर्तव्यः कट इत्यादौ  
+कर्तृत्वामात्मनः सिद्धं  
+कर्तृभोक्तृस्वरुपेऽतो  
+कर्तृभोक्त्रादिरुपत्वं  
+कर्त्राद्दात्मस्वभावस्य  
+कर्मकाण्डेऽधिकार्यस्मिन्  
+कर्मगोचरतैवात्र  
+कर्मभिर्नापनीतोऽतः  
+कर्मस्वरुपबोधे हि  
+कर्माण्यतो विधीयन्ते  
+कर्माधिकारवच्चात्र  
+कर्मापेक्षितकर्त्रादि  
+कामप्रविलयायातः  
+कामस्य च प्रधानत्वात्  
+कामिनाप्यग्निहोत्रादि  
+कामैकपाशाकृष्टः  
+कामोपायत्वमेवाथ  
+काम्यात्स्वर्गादिकं मा भूत्  
+काम्यादिवर्जनं त्वेतत्  
+काम्येऽपि शुद्धिरस्त्येव  
+काम्यैर्दक्षिणमन्वेति  
+कारकव्यवहारे हि  
+कारकाकारकधियोः  
+कारकं वा क्रिया वा स्यात्  
+कारणस्याप्यविद्दायाः  
+कार्यकर्तव्यता कार्या  
+कार्यकारणता न स्यात्  
+कार्यकारणता न स्यात्  
+कार्यकरणपक्षेऽपि  
+कार्यकारणयोर्भित्तौ  
+कार्यता वा कुतोऽस्य स्याद्  
+कार्यबुद्धयैव संव्याप्तिः  
+कार्यसिद्धया फलावाप्ता  
+कार्यस्य शक्तितन्त्रत्वे  
+कार्यं स्वेनात्मना सिद्धं  
+कार्याद्ददि तु मानत्वं  
+कार्यान्तरस्य चाभावात्  
+कार्यान्तरस्य चाभावात्  
+कार्यान्वयित्वे सर्वेषां  
+कार्यार्थता ततश्चेष्टा  
+कार्ये कार्यान्तराभावात्  
+कार्येभ्यः फलमिच्छद्भिः  
+कायर्कैमात्रनिष्ठत्वात्  
+कार्यैकव्यतिषङ्गे च  
+कार्यं चान्यपरं चेति  
+कार्यं तदपि विषयं  
+कालोपबन्धः कित्वत्र  
+का वा कार्येऽस्ति ते युक्तिः  
+का वा युक्तिः प्रदीपस्य  
+किमत्र विधिना कार्यं  
+किं च ज्ञानमद्दृष्टार्थं  
+किं च मानादविज्ञाता  
+किं च सिद्धत्वसंबन्धात्  
+किं चाध्यस्ताहिदष्टस्य  
+किं चानुभूयमानस्य  
+किं चोपायेऽप्रवृत्तः सन्  
+किं तु साधनसाध्यत्वात्  
+किं प्रमाणहंरुपं  
+किं वाक्यस्यानुवादत्वं  
+किं स्वार्थमात्रनिष्ठत्वं  
+कुतस्तज्ज्ञानमिति चेत्  
+कुतूहलवतां तद्वत्  
+कुतः प्राप्तं फलमिति  
+कुर्वीत क्रतुमित्यादिः  
+कृत्स्नप्रपञ्चविलयः  
+कृत्स्नेष्टार्थस्य संप्राप्तिः  
+कृत्स्नमात्राद्दुपादान  
+केन चोक्तं क्रिया मुक्तेः  
+कैवल्येऽपि च तत्सुक्तेः  
+क्रियाकारकयोगे च  
+क्रियाकारकसंबन्धो  
+क्रियाकाले गुणीभावात्  
+क्रिया चापेक्ष्यमाणापि  
+क्रियातः फलमित्येवं  
+क्रियाप्रकरणस्थानां  
+क्रियाविधिपरत्वेन  
+क्रियां विना न संसर्गः  
+क्वचिज्ज्ञातेषु दूरादि  
+क्व चेष्टस्य मानत्वं  
+क्व नु प्रतीयमानस्य  
+ क्ष  
+क्षणिकत्वाद्वियां नापि  
+क्षयी कर्मार्जितो लोकः  
+क्षितिदेशे घटाभावो  
+ ग  
+गुणप्रधानभावो हि  
+गुणो यत्रापि दध्यादिः  
+गोत्वादिमेयपक्षेऽपि  
+गोदोहनेनेत्यत्रापि  
+ग्रामादि किञ्चिदप्राप्तं  
+ घ  
+घटदुःखादिरुपत्वं  
+घटादयः प्रमासिद्धाः  
+घटाद्दभाव इत्युक्तिः  
+घटाद्दाकारसंविद्वत्  
+घटाभावे घटः सिद्धयेत्  
+घटाभावो विरोधित्वात्  
+घटोऽयमिति संवित्तेः  
+घटो हि संविदं कुर्वन्  
+ च  
+चतुष्पान्मानिरासेन  
+चक्षुर्द्राष्ट्रापि बाह्यं हि  
+चन्दनादिसुखोपाय  
+चिकित्सयेव संप्राप्य  
+चित्राग्निष्टोमयागादेः  
+चोदनाभिर्नियुक्तोऽहं  
+चोदनालक्षणत्वादि  
+ ज  
+जडत्वात्तत्र मेयस्य  
+जाग्रत्स्वप्नसुषुप्तेभ्यो  
+जिहासितुः स्वभावः  
+जीर्णकूपादिवत्कर्तुः  
+जुह्वाद्दव्यभिचारित्वात्  
+जुह्वाद्दाकृतिसंपत्ति  
+जुह्वद्दव्यभिचारित्व  
+ ज्ञ  
+ज्ञतार्थसंगतिः शब्दः  
+ज्ञातं ध्रुवमनेनैतत्  
+ज्ञातः सोऽर्थो मयेत्यत्र  
+ज्ञानकाण्डार्थशेषत्वं  
+ज्ञानबोधेन नैवात्मा  
+ज्ञानोत्पत्त्यादिकाल्लिङ्गात्  
+ज्ञेयव्याप्तव्यतिरेकेण  
+ त  
+तच्छक्तेरपि विध्वंस  
+तज्ज्ञानं यस्य संजातं  
+तत उक्तेन मार्गेण  
+ततश्च कार्यनिष्ठत्वं  
+ततश्च प्रतिभामात्रं  
+ततश्च प्रातिलोम्येन  
+ततश्च स्वर्गकामो यः  
+ततश्चैवं समूहस्य  
+ततोऽपि बाह्यो देहश्च  
+ततः शब्दस्य सामर्थ्यं  
+ततः शेषेण वचनात्  
+तत्रात्मा किं स्वरुपे प्राक्  
+तत्रापि नैवशब्दस्य  
+तत्राम्नायाभिधानस्य  
+तत्रेह तावन्नोपाये  
+तत्साधनेन चावश्यं  
+तत्त्वमस्यादितस्तस्मात्  
+तत्त्वमस्यादिवाक्यस्य  
+तत्त्वमस्यादिवाक्योत्थ  
+तथाच वस्तुयाथात्म्य  
+तथा तयोरमानत्वे  
+तथा परनिमित्तत्वे  
+तथाविद्दोत्थकर्त्रादि  
+यथाऽविद्दानिरास्येव  
+तथा संशयमिथ्यात्व  
+तथाहमेव जानामि  
+तथाह्यकारकः कामी  
+तथैव पृथगर्थत्व  
+तथैव शास्त्रतद्दुक्ती  
+तदेतत्प्रेय इत्यादि  
+तदेतरत्तदर्थं  
+तद्ग्राहीणि च मानानि  
+तद्भावभावतो लिङ्गात्  
+तद्वर्जनस्य संसिद्धेः  
+तद्वशान्न तु शब्दार्थः  
+तद्वासनानिरोधेऽतः  
+तद्विरुद्धफले  
+तद्विशेषेऽङ्गभूयस्त्वात्  
+तद्विशेषैकनिष्ठत्वात्  
+तन्निषेधात्तु या सिद्धिः  
+तन्मूलाज्ञानघादित्वात्  
+तमेतमित्यतश्चोच्चैः  
+तमेतमिति वाक्यात्तु  
+तमोमात्रान्तरायत्वात्  
+तयोरव्यतिरेकत्वात्  
+तस्मात्कर्तव्यतावेशात्  
+तस्मात्कर्मफलं नाना  
+तस्मात्सिद्धोऽधिकारोऽत्र  
+तस्मात्संसारसंबन्ध  
+तस्मादकारक- कामी  
+तस्मादितरतुल्यत्वात्  
+तस्मान्न सिद्ध इत्येव  
+तस्यापि शब्दपूर्वत्वात्  
+तस्याप्यनुभवात्सिद्धिः  
+तस्यास्य कर्मकाण्डेन  
+तिर्यञ्चोऽप्यत एवेह  
+तेन निः शेषवेदोक्त  
+तेन निः सारतां बुध्वा  
+तेनागमस्य तत्र स्यात्  
+तेनानुभवसिद्धानां  
+तैलवर्त्त्यग्नयो यस्मात्  
+त्यक्ताशेषक्रियस्यैव  
+त्यक्तवा कर्माण्यतोऽसङ्गाः  
+त्याग एव हि सर्वेषां  
+त्वत्पक्षे बहु कल्प्यं स्यात्  
+त्वदुक्तेर्नैतदेवं स्यात्,  
+ द  
+दक्षिणोदगधोगत्या  
+दर्शनस्याविधेयत्वात्  
+दाक्षायणादावावृत्तेः  
+दारपुत्रधनादीनि  
+दाहपाकप्रकाशादि  
+दिष्टया त्वं वर्धसे भद्र  
+द्दृष्टाद्दृष्टप्रवृत्त्योश्च  
+द्दृष्टाद्दृष्टार्थसंबन्धि  
+द्दृष्ट्वेहां श्रोतृगां  
+देवताद्रव्ययाथात्म्य  
+देहात्मभवावविलयः  
+देहान्तराभिसंबन्धी  
+देहान्तराभिसंबन्धो  
+द्रव्यादि चात्मनो रुपं  
+द्वारं न नियतं मुक्तेः  
+द्वित्वैकत्वमतीहाभिः  
+ ध  
+ धर्मत्वेनाप्यहंबुद्धेः  
+धर्मबुद्धिप्रभेदेऽपि  
+धर्माधर्मनिमित्तश्चेत्  
+धर्माधर्मांशसाम्ये च  
+धिगङ्गद्दभिधानैस्तु  
+धूमाभासात्तु बाष्पादेः  
+धूमवत्परमार्थत्वं  
+ न  
+न कर्मव्यापृतिमुर्क्तौ  
+न किं चित्साहसं तत्र  
+न क्रियाकर्तृसंबन्धात्  
+न च कार्यपरत्वेऽपि  
+न च कालत्रयास्पर्श  
+न च केवलकर्मभ्यो  
+न च प्रयोजनैकत्व  
+न च प्रवर्तकत्वेऽपि  
+न च मानेन विषये  
+न च यूपादिवच्छक्यं  
+न च वस्तुनि मानत्वे  
+न च सापेक्षताप्यस्ति  
+न च सिद्धात्वमात्रेण  
+न च स्वर्गादिकार्याणां  
+न चाजानन्वस्वसाध्यार्थं  
+न चात्मानुभवादन्यो  
+न चात्र चोदितः कालः  
+न चात्रानुभवो लुप्तो  
+न चानपनयन्यागः  
+न चापि वाक्याद्विज्ञानं  
+न चाप्याख्यायिकारुपं  
+न चाप्यात्मन्यविज्ञाते  
+न चाप्यैकात्म्यशास्त्रस्य  
+न चाभावप्रमाणात्सा  
+न चाभीष्टत्वकार्यत्वं  
+न चास्त्येकविषयत्वं  
+न चाहंप्रत्ययात्सिद्धिः  
+न चेत्कारकतन्त्रोऽर्थो  
+न चेत्कार्यं नियोगः स्यात्  
+न चेत्संभाव्यते कर्त्रा  
+न चेदानींतनाद्वोधात्  
+न चेद्दृशं प्रमाणत्वं  
+न चैकात्म्यपरिज्ञानं  
+न चैकात्म्याभ्युपायस्य  
+न चोद्गीथादिविषय  
+न जातु कामः कामानां  
+न तत्र करणापेक्षा  
+न तावत्प्रक्रियेहास्ति  
+न तावत्प्रेरणा कार्यं  
+न तावत्संभवेत्स्वर्गो  
+ननु प्रवर्तकं  
+न तु याद्दृच्छिकी सिद्धिः  
+न तु वेदान्तवचसां  
+न तूपनिषदां न्याय्यं  
+न त्वात्मनो निरंशत्वात्  
+ननु कर्तृत्वभोक्तृत्व  
+ननु कर्मणि कृत्योऽयं  
+ननु कालोपबन्धोऽत्र  
+ननु चात्मावबोधस्य  
+ननु दानादिसंबद्ध  
+ननु दुर्वारसंसार  
+ननु दोषः समानोऽयं  
+ननु दुर्धूतशोकादि  
+ननु प्रमाणविरहात्  
+ननु भेदाश्रितैर्वाक्यैः  
+ननु सिद्धे यथोक्तार्थे  
+ननु श्रुतौ पुरोक्तानि  
+ननूक्तं कर्मशेषत्वं  
+ननूत्पत्तिविधिर्यद्वत्  
+नन्वप्रयुक्तमप्येतत्  
+नन्वभ्युदयवत्साध्या  
+नन्वभ्युदयवन्मुक्तिं  
+नन्वेवमपि मानत्व  
+नन्वेवमपि सिद्धः स्यात्  
+न पदार्थो न वाक्यार्थः  
+न प्रत्येमि यतः साक्षात्  
+न प्रमाता प्रमाणं वा  
+न प्रवृत्तिनिवृत्तिभ्यां  
+न युक्तं कामना मुक्तौ  
+न योगोऽभावयोर्द्दृष्टः  
+नवसंख्याहृतज्ञानो  
+न वा अरे पत्युरिति  
+न वान्या व्यापृतिः  
+न वायोः क्षिप्रकारित्वात्  
+न विधिर्दर्शनेऽपि स्यात्  
+न व्यापारान्तरं यस्मात्  
+न शौक्लये शुक्लापत्तिः  
+न संभूय यतः पादाः  
+न स्वरुपं लिङादीनां  
+न हि तस्यानपेक्षत्वं  
+न हि भावातिरेकेण  
+न हि स्वभावो भावानां  
+न ह्यद्दृश्यनिषेधः स्यात्  
+न ह्यात्मज्ञानविरहात्  
+न ह्युत्सर्गेण सर्वेषां  
+नाकामितत्वात्  
+नाकाशस्य विशेषोऽस्ति  
+नाकुर्वत्कारणं द्दृष्टं  
+नाक्षादिपञ्चकं तस्य  
+नाज्ञासिषमहं पूर्वं  
+नातोऽवतारो मानानां  
+नातो वस्तुनि संभेदो  
+नात्मन्येवात्मशब्दस्य  
+नानन्तरफलाभावे  
+नानन्तरफलो यागो  
+नानाविधपुमर्थाप्तिः  
+नानिष्पन्नस्वभावोऽपि  
+नानेकस्यैकता न्याय्या  
+नान्वयव्यतिरेकाभ्यां  
+नापि चात्मातिरेकेण  
+नापि चाव्यभिचारित्वं  
+नापि तल्लक्षितावृत्तिः  
+नापि निःशेषवेदार्थं  
+नापि वाक्येन संबन्धो  
+नापि सांख्यप्रमासिद्धं  
+नापेक्षापूरणाशक्तेः  
+नाभावयोर्मिथो योगो  
+नाभ्युदयस्य मुक्तेश्च  
+नाम्नोरेवं च संबन्धः  
+नालं विमुक्तये काम्यं  
+नाविद्दामन्तरेणैषां  
+नाविद्दास्येत्यविद्दायां  
+नाविनश्यन्यतो वह्निः  
+नाविरतो दुश्चरितात्  
+नित्यनैमित्तिकानीह  
+नित्यप्राप्तं च विज्ञानं  
+नित्युक्तत्वविज्ञानं  
+नित्यस्याकरणे दोषः  
+नित्यादिकरणान्नापि  
+नित्यादेः फलमिष्टं चेत्  
+नित्येषु शुद्धेः प्राधान्यात्  
+निदाघे शीतवद्दस्मात्  
+नियतोपायसाध्यत्वात्  
+नियोगपक्षमाश्रित्य  
+नियोगवर्त्मना चेयं  
+नियोगं शब्दतो बुद्धवा  
+नियोगस्यापि कार्यत्वं  
+नियोगे लौकिके चापि  
+नियोगोऽथ प्रमारुपो  
+नियोगो न प्रतीयेत  
+नियोगोऽपि नियोज्यस्य  
+निरन्तरायतोऽशेष  
+निरंशस्य न चाप्यंश  
+निवर्तेतापि कामेभ्यः  
+निवृत्तावेव निःशेष  
+निषिद्धकाम्यकर्मादि  
+निषिद्धकाम्ययोस्त्यागात्  
+निष्पादितनियोगस्य  
+निहत्यानर्थमूलं  
+निःसामान्यविशेषेषु  
+निःशेषकरणग्राम  
+निःशेषकर्मसंन्यासो  
+निःशेषमातृतद्वृत्ति  
+निःशेषसुखसंप्राप्तेः  
+निःशेषह्लादसंप्राप्तिः  
+नीलादिवदभावस्य  
+नीलोत्पले तु नामार्थौ  
+नृविवक्षाव्यवायेन  
+नेतिनेत्यादिवाक्येभ्यः  
+नेहान्यत्रात्मनो ब्रह्म  
+नैतत्साधु प्रमाणानां  
+नैतत्साध्वभ्यघाय्युचैः  
+नैतदेवमविज्ञात  
+नैतदेवं यतोऽशेष  
+नैतदेवं यतोऽशेषाः  
+नैतदेवं सुखेप्सायाः  
+नैतावतापराधेन  
+नैव कार्यैकनिष्ठानि  
+नैवमुत्सर्गतो यस्मात्  
+नैवाविद्दाकृतैवासौ  
+नैवं कर्त्रादिदेहान्तान्  
+नैवं क्रियाभ्य एव स्यात्  
+नैवं तद्धेतुतद्रूप  
+नैवं न कामसंप्राप्त्या  
+नैवं न वक्त्रभिप्रायात्  
+नैवं नियोगनिष्ठत्वात्  
+नैवं भेदेन संसिद्धे  
+नैवं मानान्तरावेशात्  
+नैवं शब्दार्थयोरैक्यं  
+नैवं सत्यनपेक्षत्वं  
+नैष दोषो नरज्ञान  
+नौष्ण्यात्मको मितो वह्निः  
+न्यायेन वक्ष्यमाणेन  
+न्याय्यो नियोगस्तत्रैव  
+ प  
+पटसंवेदनेऽप्येवं  
+पदार्थमात्रसंसर्गे  
+पदार्थसंगतेः कस्मात्  
+पर आहात्मनः कस्मात्  
+परागर्थप्रमेयेषु  
+पराभिप्रायानियमा  
+परायत्तात्मलाभत्वं  
+परार्थतैव सर्वत्र  
+परार्थसंहतानात्म  
+परिच्छेदफलत्वं हि  
+परिहार्यं यथानिष्टं  
+परीक्ष्य लोकान्  
+परोक्षमपि सद्वस्तु  
+परोश्रवृत्त्या शब्दो हि  
+पश्येदिति प्रयत्नश्चेत्  
+पश्वादावेवमेव स्यात्  
+पार्थगर्थ्यमतः  
+पुत्राद्दप्राप्तिरुपं च  
+पुमर्थमभिसन्धाय  
+पुमर्थं प्रतिपाद्दापि  
+पुमानिष्टस्य संप्राप्तिं  
+पुमान्सुप्तोत्थितोऽप्येवं  
+पुरुषार्थाभिसंबन्धात्  
+पुरुषार्थोपदेष्ट्टत्वात्  
+पुंबुद्धिविषयो ह्यर्थः  
+पुंव्यापारप्रसिद्धयाथ  
+पुंस्प्रवृत्तेः फलं कार्यं  
+पूर्णं निः श्रेयसं तस्मात्  
+पूर्वेण निश्चिते चेत्स्यात्  
+पूर्वं वस्त्विति विज्ञानं  
+पौनरुक्तयभयाच्चात्र  
+प्रतिपत्तिविधिस्तावत्  
+प्रतिपन्नात्मयाथात्म्यः  
+प्रतिपन्ने विधेयार्थे  
+प्रतीतेर्माफलत्वाच्च  
+प्रत्यक्तवमद्वितीयत्वं  
+प्रत्यक्षगम्यकार्येण  
+प्रत्यक्षत्वं पृथक्तवस्य  
+प्रत्यक्षश्रुतिविध्यन्त  
+प्रत्यक्षादिनिवृत्तिश्चेत्  
+प्रत्यक्षादिविरोधश्च  
+प्रत्यक्षादिविरोधः स्यात्  
+प्रत्यक्षाद्दभिधानेन  
+प्रत्यक्षेण घटे बुद्धे  
+प्रत्यक्षोपनिषद्वाक्य  
+प्रत्यक्षं च यथासन्नं  
+प्रत्यग्बोधातिरेकेण  
+प्रत्यग्याथात्म्धीरेव  
+प्रत्यग्विविदिषासिद्धयै  
+प्रत्यर्थिनि च शब्देऽस्मिन्  
+प्रत्येकं नीलपीतादि  
+प्रथमश्रवणे यत्र  
+प्रमाणसंपल्वोऽप्युक्तो  
+प्रमाणायत्तमेतावत्  
+प्रमातरि च मेये स्यात्  
+प्रमातात्मा न मानांशो  
+प्रमातृमानतन्मेयेषु  
+प्रमात्रादित्रयं यस्मात्  
+प्रमितेश्च प्रमेयस्य  
+प्रमेयविषयं मानं  
+प्रमेयादित्रयं यस्मात्  
+प्रपञ्चानाशनेनाथ  
+प्रपञ्चविलयेनैव  
+प्रपञ्चाभिनिवेशित्व  
+प्रयोगविधिशेषत्वात्  
+प्रयोजनं तत्सुकरं  
+प्रवर्तकत्वं मन्त्रस्य  
+प्रवर्तनां वदञ्शब्दः  
+प्रवृत्तिलक्षणो योगो  
+प्रवृत्तिहेतुप्रध्वस्तेः  
+प्रवृत्तिहेतुमात्रं च  
+प्रवृत्तिहेतून्निः शेषान्  
+प्रवृत्तिं वा निवृत्ति वा  
+प्रवृत्तेः प्रतिकूलत्वात्  
+प्रवृत्तं विषये मानं  
+प्रसंख्याने च शास्त्रार्थे  
+प्रसाध्य वा प्रमाणत्वं  
+प्राक् प्रयोक्त्रभिसंसिद्धौ  
+प्राग्बादाकागमात्सिद्धः  
+प्राथम्यं चात्र दुर्लक्ष्यं  
+प्रीतेः श्रुतः प्रकर्षोऽपि  
+प्रेरणापीह नैव स्यात्  
+प्रौषादिष्बपि कृत्यानां  
+प्रौषादिभ्यो यथैवेयं  
+प्लवा ह्येते परीक्ष्येति  
+प्लवा ह्येते परीक्ष्येति  
+ फ  
+फलवत्त्वे हि नित्यानां  
+फलसाधनशक्तिश्चेत्  
+फलोक्तेरर्थवादत्वं  
+फलं नित्यस्य नापीह  
+ब  
+बहुशोऽसङ्गवचसा  
+बाष्पवन्नापि  
+बाह्येष्वर्थेष्वनात्मत्वात्  
+बुद्धितद्वृत्तिभावोऽयं  
+बुध्यते योऽनुमानेन  
+बुभूत्सोच्छेदिनैवास्य  
+बोधकं यदबुद्धस्य  
+बोधयित्वापि चैकात्म्यं  
+बोधादेव प्रसिध्यन्ति  
+बोधाबोधौ यतो द्दृष्टौ  
+बोधेऽस्मिन् शब्दतो जाते  
+ब्रह्मणोऽनात्मतारुपं  
+ब्रह्मण्यविदिते बोधात्  
+ब्रह्म वा इदमित्यादि  
+ब्रह्मात्मतत्त्वव्युत्पत्ति  
+ब्रह्माविद्दावदिष्टं चेत्  
+ब्राह्मणत्वादिविज्ञानं  
+ भ  
+भल्लातकाङ्कवद्वस्त्रे  
+भवद्भिरपि चैवैतत्  
+भविष्यद्देहसंबन्धी  
+भागान्तरप्रवेशेन  
+भावनातो न चान्यत्र  
+भावनावर्त्मनैकात्म्ये  
+भावस्याभाव इत्यत्र  
+भावाभावपृथक्तापि  
+भावाभावाख्यपदयोः  
+भावार्थविषयं कार्यं  
+भावार्थाः कर्मशब्दा ये  
+भाव्युच्छेत्तुमश्क्यस्ते  
+भिद्दते हृदयग्रन्थिः  
+भिन्नभिन्नं न वो वस्तु  
+भिन्नार्थयोर्न संबन्धः  
+भेदस्य चापुमर्थत्वात्  
+भेदाभेदात्मकत्वाच्चेत्  
+भेदाभेदाश्रयत्वेन  
+भेदे वा यदि वाऽभेदे  
+ म  
+मतं कार्यानभिव्यक्तिः  
+मतं पुमर्थसिद्धयर्थं  
+मतं विषयसंसिद्धया  
+मनसो वा निरोधेऽसौ  
+मन्त्रार्थवादनाम्नां च  
+मन्त्रोक्तेरिव लोडादेः  
+मम शास्त्रप्रमाणत्वात्  
+महत्ता यद्वदाकाशे  
+महावाक्यानुमानेऽपि  
+मातोऽनधिगतत्वस्य  
+मात्रादित्रयहानेऽपि  
+मात्रादिबोधकं मानं  
+मात्रादिसव्यपेक्षं सत्  
+मानव्याप्तिक्षमं चेत्स्यात्  
+मानस्वभावमाश्रित्य  
+मानादनुभवः सिद्धः  
+मानान्तरप्रसिद्धार्थ  
+मानान्तरानधिगतं  
+मानान्तरानपेक्षं चेत्  
+मानान्तरेणासंप्राप्तां  
+मानाभावस्य मानत्वं  
+मानेन विषयासिद्धौ  
+मानं हि व्यञ्जकं लोके  
+मान्तरानुप्रवेशित्वं  
+मान्तरेणापि संबद्धं  
+मा भैषीरिति चोक्तेऽपि  
+मायोगेऽपि न  
+मिथो विरोधसिद्धयर्थं  
+मीमांसान्यायवत्त्तवाभ्यां  
+मुक्तेश्च बिभ्यतो देवाः  
+मुक्तयर्थी न हि काम्यादि  
+मुख्यकर्तृत्वपक्षेऽपि  
+मुण्डोऽपरिग्रहोऽसङ्गः  
+मुमुक्षवः प्रवर्तेरन्  
+मूर्तामूर्तत्वहीनस्य  
+मृदापत्तिर्घटस्येव  
+मृद्वद्वयोम घटीकुर्यात्  
+मेयाभावः प्रमाणानां  
+मैवमप्रतिपन्नत्वात्  
+मैवं प्रक्रमसंहार  
+मैवं भिन्नैकवाक्यत्वे  
+मैवं मान्तरतः सिद्धेः  
+ य  
+यच्च न ज्ञाप्यते वेदे  
+यच्चाप्युक्तं श्रुतिस्मत्योः  
+यच्चाप्यैकात्म्यविज्ञानं  
+यच्चाभाणि विना कार्यं  
+यच्चास्यासति कर्तव्ये  
+यच्चोक्तं न पुमर्थोऽस्ति  
+यजेतेति विधिज्ञानं  
+यजते योऽश्वमेधेन  
+यत आत्मतयैवैतैः  
+यत एवमतो नात्र  
+यत एवमतः प्रत्यक्  
+यतोऽनुभवतो विद्दा  
+यतो मानानि सिद्धयन्ति  
+यतो वस्तुनुरोध्येतत्  
+यतो वाचो निवर्तन्ते  
+यतोऽसिद्धानि सिद्धयन्ति  
+यत्त्वचोदि त्वया  
+यत्त्वसाधारणं तस्य  
+यत्नतो न्यायतः किञ्चित्  
+यत्रापि च प्रतीयेते  
+यथा कटं करोतीति  
+यथा च कार्ये तात्पर्यं  
+यथा चास्य विरुद्धत्वं  
+यथा वस्त्वात्मविज्ञानं  
+यथैव नगराध्वस्थ  
+यथैवमात्मनोऽज्ञस्य  
+यथैव विश्वजिद्दागपादे  
+यथोक्तफलसिद्धयर्थं  
+यथोक्तविद्दाबोधित्वात्  
+यदा त्वविद्दाबोधित्वात्  
+यदा त्वविद्दायाध्यस्तं  
+यदानुभवकामस्य  
+यदापि मातरि फलं  
+यदापि वस्तुवृत्तेन  
+यदावगम्यते नान्यत्  
+यदा सर्वे प्रमुच्यन्ते  
+यदि तद्वस्तुयाथात्म्यं  
+यद्धेतुकं प्रमाणत्वं  
+यद्भागस्यागमाद्दोऽर्थः  
+यद्दनिर्ज्ञातसंबन्धः  
+यद्दप्यैकात्म्यधीः साक्षात्  
+यद्दर्थं कारकाधीनं  
+यद्वा तत्रैव तात्पर्यं  
+यद्वाऽनवगतोऽतोऽन्यः  
+यद्वानुमानमेवात्र  
+यद्वा विविदिषार्थत्वं  
+यन्निमिता प्रवृत्तिः स्यात्  
+यमप्रमीय मानानि  
+यस्तु जन्मान्तराभ्यसात्  
+यस्मादसति कार्येऽसौ  
+यस्यानुभवसिद्धयैव  
+यस्याप्रसिद्धिर्नाज्ञानात्  
+यागादिविषयासिद्धया  
+यागादिः स च नो कार्यं  
+यागाद्दनुष्ठितेरस्य  
+यागः कर्माभिसंबन्धो  
+याथात्म्यावगमेऽशक्ता  
+यावच्च सम्यग्विज्ञान  
+यावत्किञ्चिज्जगत्यस्मिन्  
+यां काण्वोपनिषच्छलेन  
+युक्तयादिमान्तरं नो चेत्  
+येषामनधिकारोऽत्र  
+येषामपि हि सामान्य  
+योगोऽयं वस्तुनोर्द्दृष्टः  
+ र  
+रचना तु पदार्थानां  
+रज्जुज्ञानाद्धि सर्पादि  
+रागाद्दाक्षिप्तद्दृष्टार्थ  
+रागाद्दुत्थप्रवृत्तीनां  
+राजादिषु प्रसिद्धश्च  
+रामो राजा बभूवेति  
+ ल  
+लब्धे हि भूतले  
+लभ्यते लोकिकोऽपीह  
+लयनिष्ठे प्रमाणे नः  
+लिङर्थे युज्यमानस्य  
+लिङादयो न कोपादेः  
+लिङादिश्रवणात्पुंसः  
+लिङादिः प्रेरणावाची  
+लोकतः सिद्धमादाय  
+लोकवन्ननु वेदेऽपि  
+लोके दर्शनसंबद्धं  
+लोके द्दृष्टं विनाऽविद्दां  
+लोकेऽपि चानभिप्रेतात्  
+लोकेऽपि व्याधिसन्ताप  
+लोडादेरेव श्रवणात्  
+लौकिको वैदिकः सर्वः  
+ व  
+वक्तव्यं च कथं त्वेते  
+वचसामक्रियार्थानां  
+वर्णादिग्रहणोपायः  
+वस्तुतत्त्वानपेक्षत्वात्  
+वस्तुनोऽन्यत्र मानानां  
+वस्तुनोऽवगतिर्नापि  
+वस्तुमात्रावसायित्वात्  
+वस्तु मान्तरयोग्यं चेत्  
+वस्तुरुपसंस्पर्शि  
+वस्तुनीह प्रमीयन्ते  
+वस्त्वन्तरमभावश्चेत्  
+वस्त्वात्मना च प्रमाणत्वं  
+वाक्यार्थायैव वाक्यं हि  
+वाक्येनैवाभिसंबन्धः  
+वामदेवस्य मैत्रेय्याः  
+वाय्वग्निवद्विकारो न  
+वारि पथ्यदनोपेतं  
+वासनानामभावेऽपि  
+वासनामात्रहेतुत्वात्  
+विकारेऽवयवे चैव  
+विकारोऽत्यन्तनिर्भिन्नो  
+विचार्यमाणे यत्नेन  
+विज्ञानकर्मणोस्रेधा  
+विज्ञानमानन्दमिति  
+विज्ञानात्मविकारस्य  
+विद्दात्ममोहतत्कार्य  
+विधयस्तु कथं रागं  
+विधावसति वाक्यस्य  
+विधिना त्वेकवाक्यत्वात्  
+विधिनिन्दासमावेशो  
+विधिनिष्ठेऽपि शास्त्रे स्यात्  
+विधिनैवैकवाक्यत्वं  
+विधिमार्गेऽधिकारस्य  
+विधिशेषोऽपि  
+विधिस्वातन्त्र्यपक्षे हि  
+विधिं विना श्रुतैकात्म्यः  
+विधीनां चापि सर्वेषां  
+विधेर्विध्यन्तरेऽभीष्टे  
+विध्यर्थशेषभावश्च  
+विध्यर्थाङ्गीकृतौ त्वेतत्  
+विध्यर्थाधीनसंसर्गाः  
+विपर्ययेण येऽपयाहुः  
+विभिन्नकार्यकर्त्रीणां  
+विमुच्यमान इत्युक्तेः  
+वियद्वयस्तुस्वभावा  
+विरक्तस्य तु जिज्ञासोः  
+विरुद्धमानभावेऽपि  
+विरोधे गुणवादः स्यात्  
+विशेषणं नियोज्यस्य  
+विशेषोऽस्ति प्रबृत्तेश्चेत्  
+विश्वं सदेव यस्येष्टं  
+विषयस्यापि कार्यत्वं  
+विषयाभ्यासजास्वास्थ्य  
+विसंवादोऽपि नाशङ्कयो  
+वेदस्य सिद्धे प्रामाण्ये  
+वेदान्तवचसां स्वार्थे  
+वेदानुवचनादीनां  
+वेदानुवचनादीनां  
+वेदान्तानामतो वाच्यं  
+वेदान्तानाममानत्वं  
+वेदान्तार्थापवादाय  
+वेदान्तोक्तेः प्रमाणत्वे  
+वेदोऽपि शुद्धमात्मानं  
+वेदो हि सर्व एवायं  
+वेदे तु सकलाक्षादि  
+वेदेऽनुष्ठानतात्पर्यात्  
+वैदिकत्वेऽपि युक्तीनां  
+व्यञ्जकस्य समायोगः  
+व्यञ्जकं विरहय्यान्यत्  
+व्यपास्तानर्थसंदर्भं  
+व्याकृतं नामरुपाभ्यां  
+व्युत्पत्त्या न च संबन्धः  
+व्रीहिशब्दस्य हि  
+व्रीह्यादिविषयं यद्वत्  
+ श  
+शक्तितत्कार्ययोर्यस्मात्  
+शक्तिरुपेण संबन्धः  
+शक्तेरनभिधेयत्वात्  
+शब्दसामर्थ्यनियमः  
+शब्दात्प्रवर्तनाबुद्धौ  
+शब्दादात्मनि संसिद्धे  
+शब्दाद्दगोचरोऽर्थोऽतः  
+शब्दाद्ददि तदेवेदं  
+शब्दार्थत्वे हि सर्वेषां  
+शब्दार्थोपाधयो ह्येते  
+शब्देन ज्ञाप्यते यद्वत्  
+शमाद्दङ्गान्वितः  
+शरीरारम्भकस्यैवं  
+शान्तो दान्त इति तथा  
+शास्त्रमावर्त्यमानं हि  
+शास्त्राच्छ्रवणमात्रेण  
+शास्त्रात्कथं च तत्सिद्धिः  
+शास्त्रेणानभिधाने तु  
+शास्त्रेऽस्मिन्वस्तुनिष्ठेऽपि  
+शुक्लां गामानयेत्युक्ते  
+श्रवणादेर्न च प्राप्तिः  
+श्रुतेऽपि स्वर्गतात्पर्ये  
+श्रुतेरैकात्म्यसंवित्तौ  
+श्रुतेर्ज्ञातात्मवृत्तान्तः  
+श्रुतेर्विलयतात्पर्ये  
+श्रुतौ स्मृतौ च विहितं  
+श्रुत्या क्रयाभिसंबन्धः  
+श्रुत्यादिमानप्रमित  
+श्रुत्यादिमानप्रमितयाथात्म्य  
+श्रुत्या नैकात्म्यविज्ञानं  
+श्रुत्यैव तस्य चोक्तत्वात्  
+ स  
+सत्तत्वापेक्षया भेदः  
+सत्तातोऽपि न भेदः स्यात्  
+सत्तावगुण्ठिताश्चैते  
+सत्यन्तरङ्गे विज्ञाने  
+सत्यानृते इति तथा  
+सदात्मतैवं सर्वस्य  
+सदेवेत्यादिवाक्येभ्यः
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+\]
