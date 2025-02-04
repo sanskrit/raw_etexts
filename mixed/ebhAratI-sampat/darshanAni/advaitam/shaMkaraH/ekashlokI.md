@@ -1,0 +1,55 @@
++++
+TITLE = "एकश्लोकी"
+AUTHOR = "शंकरः"
+DOMAIN = "दर्शनानि"
+SUB-DOMAIN = "अद्वैतम्"
+LANGUAGE = "संस्कृतम्"
+"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"SERIAL NO." = "Ebharati-2545"
+url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk5MzY5NjM0MDEzNDQy&pageno=MjI0MjQyNjk5NTk="
+title = "एकश्लोकी"
+
++++
+[[एकश्लोकी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk5MzY5NjM0MDEzNDQy&pageno=MjI0MjQyNjk5NTk=)]]
+
+\[
+
+
+
+
+
+
+
+॥श्रीः॥
+
+
+
+॥एकश्लोकी॥
+
+
+
+किं ज्योतिस्तव भानुमानहनि मे रात्रौ प्रदीपादिकं
+
+स्यादेवं रविदीपदर्शनविधौ किं ज्योतिराख्याहि मे।
+
+चक्षुस्तस्य निमीलनादिसमये किं धीर्धियो दर्शने
+
+किं तत्राहमतो भवान्परमकं ज्योतिस्तदस्मि प्रभो॥
+
+
+
+इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
+
+श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य
+
+श्रीमच्छंकरभगवतः कृतौ
+
+एकश्लोकी संपूर्णा॥
+
+
+
+![](include/loader.gif) **Please Wait....**
+
+**End Of Book**
+
+\]
