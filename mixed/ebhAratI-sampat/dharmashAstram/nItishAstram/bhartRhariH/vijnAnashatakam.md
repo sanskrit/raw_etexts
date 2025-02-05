@@ -59,7 +59,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNDM1ODkyMzc
 
 **BHARTRIHARI'S**
 
-**VIDNYÂNA****ŜATAKA.**
+**VIDNYÂNAŜATAKA.**
 
 
 
@@ -198,7 +198,7 @@ Page 1, line 12 of Notes for Ramarshi read Ramashrami.
 **नागपुरम् ।**
 
 **कार्तिक शु० ७.                           
-                 ****घुले उपनामकः कृष्णशर्मा ।**  
+                 घुले उपनामकः कृष्णशर्मा ।**  
 
 **----------------------------------
 ----------------------------------**
@@ -585,7 +585,7 @@ See also Sanskrit Introduction,-P. 13.*
 
 **स्तत्स्थानं खलु यत्र नास्त्यपहतिः क्लेशस्य संसारिणाम्॥२९।**
 
-भानुः सूर्यो भूवलयस्य प्रदक्षिणं गतिर्यस्य तादृशः। निरन्तरं पृथ्वीं परितो भ्राम्यतीत्यर्थः। कलानां निधिः क्रीडारतिः क्रीडासक्त एष चन्द्रोऽपि स्वर्भानुना राहुणा कवलितो ग्रस्तः सन् दुःखितः। गीर्वाणानां देवानां विश्रामभूः निवासस्थानं स्वर्गोऽपि सततं वर्धते हासञ्च****गच्छति। तत्तस्माद्यत्र संसारिणां क्लेशस्यापहतिर्नाशस्ततस्थानं न विद्यते । संसारिणांन कुत्रापि सुखमिति भावः॥ २९ ॥
+भानुः सूर्यो भूवलयस्य प्रदक्षिणं गतिर्यस्य तादृशः। निरन्तरं पृथ्वीं परितो भ्राम्यतीत्यर्थः। कलानां निधिः क्रीडारतिः क्रीडासक्त एष चन्द्रोऽपि स्वर्भानुना राहुणा कवलितो ग्रस्तः सन् दुःखितः। गीर्वाणानां देवानां विश्रामभूः निवासस्थानं स्वर्गोऽपि सततं वर्धते हासञ्चगच्छति। तत्तस्माद्यत्र संसारिणां क्लेशस्यापहतिर्नाशस्ततस्थानं न विद्यते । संसारिणांन कुत्रापि सुखमिति भावः॥ २९ ॥
 
 **संसारेऽपि परोपकारकरणख्यातव्रता मानवा**
 
@@ -1367,7 +1367,7 @@ The idea of Ganêsha's head being always swarmed with bees is very familiar with
 
 **St. VI.—**There is a pun in this stanza. For the first meaning see Tika. For the second meaning the पदच्छेद should be thus —सा रोगिणी यदि भवेत् अथवा विवर्णा बाला प्रिया अशशिमुखी रसिकस्य पुंसः। शल्यायते हृदि तथा आमरणं कृशंम्याः यत् तस्य सा अबिगतनिद्रसरोरुहाक्षी।The meaning is–As (यत्) even though the wowan be of low caste (विवर्णा) of sickly constitution (रोगिणी) of ugly countenance ( अशशिमुखी and अविगतनिद्रसरोरुहाक्षी,) still she is dear to the lustful person, *i. e*. a lustful person does not shrink even from loving a worst possible woman, of whom he is enamoured. As also the death of that emaciated woman (कृशांग्याः) inflicts the pain of an arrow-wound (so the amour of a young woman is no real happiness. st. 5.) But as I do not think that it adds any beauty to the stanza, I have not given this meaning in the Tika.
 
-**S****T****. VII—**The first line means, 'O brother ! I have told (thee) that thou art the witness to this all; *i. e.* thou art free from all actions. Comp. एको देवः सर्व भूतेषु गूढः सर्वव्यापी सर्व भूतान्तरात्मा। कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च।
+**ST. VII—**The first line means, 'O brother ! I have told (thee) that thou art the witness to this all; *i. e.* thou art free from all actions. Comp. एको देवः सर्व भूतेषु गूढः सर्वव्यापी सर्व भूतान्तरात्मा। कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च।
 
 Now इष्टं करणीयं, (do what is desirable) in the next line, which appears contradictory to the first, may be taken to mean simply '*Gnothi Seauton*' Know thyself. The doctrine of VedantaPhilosophy strongly denounces Karma or action. Ŝankar had, therefore, to fight very hard for the interpretation of the Śruti "आत्मा या अरे द्रष्टव्यः श्रोतव्यः &c which ultimately goes to Karma or Kriyâ. He says "अतस्तद्विषया लिङ्गादयः श्रूयमाणा अप्यनियोज्यविषयत्वात्कुंठीभवन्त्युत्पलादिषु प्रयुक्तक्षुरतैक्ष्ण्यादिवत्। अहेयानुपादेयवस्तुविषयत्वात् । किमर्थानि तर्हि "आत्मा वा अरे द्रष्टव्यः श्रोतव्यः" इत्यादीनि विधिच्छायानि वचनानि ? स्वाभाविकप्रवृत्तिविषयविमुखीकरणार्थानीति ब्रूमः। (See, Brahma Sûtra Bhâsya I. I. 4.)
 

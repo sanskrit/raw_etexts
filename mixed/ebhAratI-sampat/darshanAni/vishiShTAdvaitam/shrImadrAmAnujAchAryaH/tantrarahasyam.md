@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0ODc3NjQx
 
 ** ॥ श्रीमद्रामानुजाचार्यविरचितं तन्त्ररहस्यम् ॥**
 
-****
+
 
 **१.प्रमाणपरिच्छेदः।**
 

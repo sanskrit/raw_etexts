@@ -121,7 +121,7 @@ INTRODUCTION.
 
 
 
-second kind.^(**1**)****The second kind of Siddhi can only be attained byhaving recourse to the practice of Yoga with its six limbs.**²**
+second kind.^(**1**)The second kind of Siddhi can only be attained byhaving recourse to the practice of Yoga with its six limbs.**²**
 
  The aim of the *Guhyasamāja* is further illustrated by the following verse :—
 

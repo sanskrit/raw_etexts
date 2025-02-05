@@ -46,7 +46,7 @@ T gives me great pleasure to publish as the **ninth volume** of the **Bharatiya*
 
   Prof. Kosambi is a mathematician of renown; his principal subject of study and of research is mathematics. As senior professor of mathe- matics in a specialized and leading foundation like the Tata Instituteof Fundamental Research he pursues his valuable investigations in thatsubject. Nevertheless, it gave me the utmost joy to see his enthusiasm and activity in Sanskrit philological research as well. Though I guessed in his boyhood that he would one day be an acute and outstanding mathematician, it never occurred to me that he might attempt to surpass his saintly father, the world-famous Pali savant S'ri Dharmanand Kosambi, in Sanskrit philology. This I realized only last year when my dear friend S'ri Dharmanandaji came to me and said, "Baba' has been preparing a critical text of Bhartrhari for a couple of years and wishes to edit and publish some of the unpublished commentaries as well. If you publish these in your Series, it would be very useful". I accepted at once with alacrity and wrote to 'Baba' to send on his press copy. The first fruit thereof is now in the hands of the learned. The critical edition of Bhartrhari which he has completed has gone to press for publication immediately after this. It is hoped that that work also will soon be available to readers.
 
-Sravant Paurnimā****Vikrama Samvat 2002
+Sravant PaurnimāVikrama Samvat 2002
 
 }
 

@@ -8912,7 +8912,7 @@ Thus end Compound and Complex Fractions.
 
 
 
-***Bhāgānubandha*** **** Fractions.**
+***Bhāgānubandha***  Fractions.**
 
 The rule in respect of the (simplification of) *Bhāgānubandha* or associated fractions :-
 

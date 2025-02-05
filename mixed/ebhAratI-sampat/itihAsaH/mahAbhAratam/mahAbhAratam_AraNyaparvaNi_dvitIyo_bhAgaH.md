@@ -1102,7 +1102,7 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 जनमेजयः—
 
-****
+
 
 पाण्डोःपुत्रामहात्मानस् सर्वे दिव्यपराक्रमाः ।  
 कियन्तं कालमवसन् पर्वते गन्धमादने ॥१
@@ -1622,7 +1622,7 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 धनदः—
 
-****
+
 
 युधिष्ठिर धृतिर्दाक्ष्यं देशकालपराक्रमाः ।  
 लोकतन्त्रविभागानाम् एष पञ्चविधो विधिः ॥१  

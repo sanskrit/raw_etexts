@@ -1947,7 +1947,7 @@ P. 15. L. 14.—**मम रक्षार्थम्** in order to protect it
 
 P. 15. 1. 19. — **प्रतिपत्तिपूर्वकम्** ' respectfully.' **अभ्यागत- अतिथि.**
 
-P. 15. L. 23.****—**शून्य**'meaningless.'
+P. 15. L. 23.—**शून्य**'meaningless.'
 
 P. 16. L. 4.— Metre of śloka 59: śárdúlavikrídita.— Regarding the hiatus in line b., see Tantra IV. and V., note to p. 9. 1. 23.
 
@@ -2033,7 +2033,7 @@ P. 24. L. 17.—
 
 P. 24. L. 22.**मूर्ते लाघवम्**insignificance incarnate.'
 
-P. 25. L. 2.—**दीपखट्वोत्यच्छायेव**‘just as the shadow of a bed projected by a lamp.' Dissolve **खड्वाया उत्तिष्ठति खट्वोत्थः** । **दीपेन खट्वोत्थोदीपखट्वोत्यः।****दीपखट्वोत्थासौ छाया च** **दीपखट्वोत्थ०**. To stand in the shadow of a bed is considered improper and inauspicious.
+P. 25. L. 2.—**दीपखट्वोत्यच्छायेव**‘just as the shadow of a bed projected by a lamp.' Dissolve **खड्वाया उत्तिष्ठति खट्वोत्थः** । **दीपेन खट्वोत्थोदीपखट्वोत्यः।दीपखट्वोत्थासौ छाया च** **दीपखट्वोत्थ०**. To stand in the shadow of a bed is considered improper and inauspicious.
 
 P. 26. L. 1. —
 
@@ -2085,7 +2085,7 @@ Metre of śloka 128: Vasantatilaká.
 
 P. 33. L. 21.—**वर्धमानपुर**now called Burdwan \[Benfey\].
 
-P. 35. L. 3.—**सहामि**the Parasmaipada instead of the Átmanepada is against Panini's rules, but not uncomonon in the Panchatantra and epic poetry, see e. g. Tantra III. śloka 50.-**अन्यच्च**used adverbially****and besides.'
+P. 35. L. 3.—**सहामि**the Parasmaipada instead of the Átmanepada is against Panini's rules, but not uncomonon in the Panchatantra and epic poetry, see e. g. Tantra III. śloka 50.-**अन्यच्च**used adverbiallyand besides.'
 
 P. 35. L. 8.— **केवला**see Tantra IV. and V., note p. 56. 1. 15.
 

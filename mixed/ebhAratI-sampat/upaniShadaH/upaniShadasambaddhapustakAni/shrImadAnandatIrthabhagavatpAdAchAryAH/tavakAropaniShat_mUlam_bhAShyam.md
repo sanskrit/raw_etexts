@@ -15,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5MzExNDg3
 
 
 
-****
+
 
 ** श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं तƒवकारोपनिषद्भाष्यम् ॥**
 

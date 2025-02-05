@@ -181,7 +181,7 @@ at Srivikuntum, who is himself a Dasa of Buddha Dharma Mandalam; the probable da
 
 **'GUINDY HOUSE,'  
 Guindy: Saidapet,                       S. SUBRAHMANYA IYER,  
-*30th November, 1921****.*
+*30th November, 1921.*
 
 
 

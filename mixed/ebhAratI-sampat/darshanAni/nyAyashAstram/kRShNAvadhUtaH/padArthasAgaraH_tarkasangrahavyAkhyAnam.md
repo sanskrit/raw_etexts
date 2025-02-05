@@ -37,7 +37,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU2OTY4Nzg2NDg
 
 ** श्रीमत्कृष्णावधूतपंडितकृतौ \`पदार्थसागरा'ख्यातर्कसंग्रहव्यख्यानं प्रारभ्यते।**
 
-****
+
 
 **वेदव्यासं गुरूपास्यमुपासे वासवीसुतम्।**
 
@@ -290,7 +290,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU2OTY4Nzg2NDg
 
 **(पदार्थसागरः-9)**
 
-****
+
 
 ** पृथिवीग्रन्थः**
 
@@ -452,7 +452,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU2OTY4Nzg2NDg
 
 ** इति वायुग्रन्थः**
 
-****
+
 
 ** इति आकाशग्रन्थः**
 
@@ -638,7 +638,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU2OTY4Nzg2NDg
 
 ** इति रसगन्धस्पर्शग्रन्थाः**
 
-****
+
 
 ** परिमाणग्रन्थः**
 
@@ -850,7 +850,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU2OTY4Nzg2NDg
 
 **(/तर्कसंग्रहः-33)**
 
-****
+
 
 **(पदार्थसागरः-33)**
 
@@ -1409,7 +1409,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU2OTY4Nzg2NDg
 
 **(/तर्कसंग्रहः-64)**
 
-****
+
 
 **(पदार्थसागरः-64)**
 

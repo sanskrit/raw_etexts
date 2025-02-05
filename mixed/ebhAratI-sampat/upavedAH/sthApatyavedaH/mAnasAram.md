@@ -1551,7 +1551,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MzgzNzg1NjQ
 
 
 इति मानसारे वास्तुशास्त्रे बलिकर्मविधानं नाम अष्टमोऽध्यायः।  
-****
+
 
 
 

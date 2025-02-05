@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAxNzM1MDEw
 
 **करुणापुण्डरीक-सूत्रम्**
 
-****  
+  
 
 **धर्म-चक्र-प्रवर्तनो नाम प्रथमः परिवर्तः**
 

@@ -894,7 +894,7 @@ Powdered mica, mixed with shali paddy, is to be contained in a piece of cloth, a
 
 **कलांशटंकणेनापि संमर्द्यकृतचक्रिकम्॥**
 
-**अर्द्धेभाख्यपुटैस्तद्वत्****सप्तवारंपुटेत् खलु॥**
+**अर्द्धेभाख्यपुटैस्तद्वत्सप्तवारंपुटेत् खलु॥**
 
 **एवं वासारसेनापि तण्डुलीयरसेन च।**
 
@@ -936,7 +936,7 @@ Mica is incinerated and assumes the colour of red vermilion, if it is subjected 
 
 **वटमूलत्वचः क्वाथैस्ताम्बूलीपत्रसारतः।**
 
-**वासामत्स्याक्षिकाभ्यां वा मीनाक्ष्या****सकठिल्लया॥**
+**वासामत्स्याक्षिकाभ्यां वा मीनाक्ष्यासकठिल्लया॥**
 
 **पयसा वटवृक्षस्य मर्द्दितं पुटितं धनम्।**
 
@@ -1500,7 +1500,7 @@ milks of arka, banyan, bajri, and kanya ; juices of eranda roots, jaba-ticta, mu
 
 **तदा मृतमितिप्रोक्तमभ्रकं चान्यथाऽमृतम्॥**
 
-***Characteristics of killed (incinerated) mica******.***
+***Characteristics of killed (incinerated) mica**.***
 
 Mica is said to be killed or incinerated, if it is deprived of its glaze, and becomes as fine as collyrium; otherwise, it is to be considered un-killed.
 
@@ -1567,7 +1567,7 @@ Mica, incinerated by putam for 18 times becomes pacifier of bayu. It becomes a p
 
 —————————————————————————————————————————
 
-**\***** शुद्धं स्वर्णञ्च रूप्यश्च बीजमित्यभिधीयते।
+**\* शुद्धं स्वर्णञ्च रूप्यश्च बीजमित्यभिधीयते।
 
  अभ्रं शतपुटादूर्द्ध्वंबीजसंज्ञंध्रुवं भवेत्॥
 
@@ -1598,7 +1598,7 @@ Mica is also incinerated by being subjected to putam, after having been rubbed w
 
 —————————————————————————————————————————
 
-****\*Purified gold, and silver, as well as mica of the above descreption, are called “beejam”(seed), simply because they are fit for being swallowed by mercury.
+\*Purified gold, and silver, as well as mica of the above descreption, are called “beejam”(seed), simply because they are fit for being swallowed by mercury.
 
 hilamochika, mandukaparni, tictaka (kirata ticta), akhuparni, madana, ardraka, palasha, mercury, and amalaki.
 
@@ -1690,7 +1690,7 @@ Mica, even if it is used without any accompaniment, can prevent senal decay, arr
 
 It is to be used with haridra, pippali, and honey in twenty different kinds of prameha; with incinerated gold in pthisis and for increase of the dhatus; with incinerated gold and silver for increase of the dhatus ; with haritaki, molasses, ela, and sharkara ( sugar) in ractapittam ; with trikatu, triphala, chaturjata, sharkara, and honey, taken in the morning in pthisis, piles, and jaundice; with essence of guduchi and fine molasses (or sugar) in spermatorrhoea ; with ela, gokshura, bhudhatri, sharkara, and clarified cow's butter, in mutrakrichra; with pippali and honey in giddiness and remittent fever ; with honey and triphala for improvement of eyesight; with essence of murba in boils, carbuncles, etc., with bhallataka in piles; with shunthi, root of puskara, bhargi, asvagandha, and honey, in batabyadhi (paralysis etc.) ; with chaturjatam and sugar in excess of pittam; with katphalam, pippali, and honey, in excess of phlegm ; with all the ksharas for increase of the power of digesting food ; with ela, gokshura, bhudhatri, cow's milk, and sugar, in mutraghata, mutrakrichchra, and ashmari; with cow's milk and bhumi kushmanda for increase of strength; with juice of vijaya for retention of semen ; with labanga and honey for increase of the dhatus; with cow's milk and sugar in excess of pittam (animal heat) ; with shaileya, pippali, and honey, in all sorts of spermatorrhoea; with haritaki and molasses in bataractam; with triphala, honey and ghee in eye-diseases and for increase of semen ; and with the trisugandhi, triphala, trikatu, sharkara, nagakeshara, and honey in jaundice, pthisis, and fever.
 
-**** **प्रकारान्तरम्।**
+ **प्रकारान्तरम्।**
 
 **अथाभ्रककल्पः।**
 
@@ -1954,7 +1954,7 @@ Essence of mica, mercury, and sulphur, each equal in quantity, are to be rubbed 
 
 —————————————————————————————————————————
 
-**** **\***See page 260, vol I, under “Another kind of Baluka Jantram,”and page 291, lbid, under “Malla Musha.”
+ **\***See page 260, vol I, under “Another kind of Baluka Jantram,”and page 291, lbid, under “Malla Musha.”
 
 
 **तृतीयो विधिः।**
@@ -2051,7 +2051,7 @@ The general rule with regard to the use of incinerated essence of mica, kanta ir
 
 **मृदु स्याद् दशवारेण सत्त्वंलौहादिकं खरम्॥**
 
-***Softening of essence of mica******.***
+***Softening of essence of mica**.***
 
 All sorts of hard essences, including those of metals, are softened, if smelted with honey, oil, fat, and ghee, and cooled—all these being done for ten times.
 
@@ -2744,7 +2744,7 @@ Three kinds of bimala are purified, if rubbed with the juice of amla betasa, dha
 **कर्कटीमेषश्रृंग्युत्थैर्द्रवैर्जम्बीरजैः रसैः ।**  
 **भावयेदातपे तीव्र विमलः शुध्यति ध्रुवम् ॥**
 
-***Sixth process******.***
+***Sixth process**.***
 
 Bimala is purified, if subjected to bhavana in intense heat of the sun with decoctions of karkata shringi, mesha shringi, and lime juice.
 
@@ -2824,7 +2824,7 @@ The medicine, thus prepared, cures the following diseases, if taken with trikatu
 
 **शिलाजतु हि शैलेयमाद्रं गिरिजमश्मजम् ।**  
 **धातुजमश्मजतुकं शैलजं चाश्मसंभवम् ।**  
-**गैरेयं गिरिजं गिरिनिर्य्यासः शैलधातुजम् ॥****हेमाद्याःसूर्य्यसंतप्ताः स्रवन्ति गिरिधातवः ।**  
+**गैरेयं गिरिजं गिरिनिर्य्यासः शैलधातुजम् ॥हेमाद्याःसूर्य्यसंतप्ताः स्रवन्ति गिरिधातवः ।**  
 **जत्वाभं मृदुमृत्स्नाभं यन्मलं तच्छिलाजतु ॥**
 
 **शिलाधातुर्द्विधा प्रोक्तो गोमूत्राद्यो रसायनः ।**  
@@ -3321,7 +3321,7 @@ Tuttham is purified and deprived of its properties of causing vomiting and giddi
 **चतुर्थो विधिः ।**
 
 **गन्धकेनार्धभागेन मर्द्दितं तुत्थकं पचेत् ।**  
-**वान्तिभ्रान्ती यदा नस्तस्तदा सिद्धिं विनिर्दिशेत् ****॥**
+**वान्तिभ्रान्ती यदा नस्तस्तदा सिद्धिं विनिर्दिशेत् ॥**
 
 ***Fourth process.***
 
@@ -3455,7 +3455,7 @@ It is a remover of an abnormal excess of the three doshas. It is efficacious in 
 
 ***Purification of sasyakam.***
 
-***First process******.***
+***First process**.***
 
 Sasyakam is purified, if subjected to bhavana for seven times with the racta-varga, and saturated very carefully with the sneha-varga, after each act of bhavana.
 
@@ -3574,7 +3574,7 @@ The evil effects followed by an improper use of tutthaka and sasyaka can be coun
 [^21]: "चपलस्तु दुर्लभोऽधुना । नागवङ्गयोरुपधातुरेवायं प्रतीयते । ग्रन्थकारस्य प्रवला चेष्टापि तं लब्धुंन शक्तवती ।"
 
 **यत्र जातौ नागवंगौ चपलस्तत्र जायते ।**  
-**गौरः श्वेतोऽरुणः कृष्णश्चपलस्तु चतुर्विधः****॥**
+**गौरः श्वेतोऽरुणः कृष्णश्चपलस्तु चतुर्विधः॥**
 
 **हेमाभश्चैव ताराभो विशेषाद् रसवन्धकौ।**  
 **शेषस्तु मध्यो लाक्षावच्छीघ्रद्रावौतु निस्फलौ॥**
@@ -3662,7 +3662,7 @@ Rasaka is of two kinds, viz, ["Durdara”](#) and "karabella." The variety which
 **अस्थिरोऽग्निगतोऽत्यर्थंदह्यते क्षणमात्रतः।**  
 **तस्य स्थैर्य्यकरं द्रव्यं दुर्लभं धरणीतले ॥**
 
-***Inability of Rasaka to stand fire******.***
+***Inability of Rasaka to stand fire**.***
 
 Rasaka cannot stand fire. It is so combustible that it burns on a slight heat being applied to it. There are a few things in this world which can make rasaka stand fire.
 
@@ -3843,7 +3843,7 @@ Rasaka discharges its essence, if rubbed with haritaki, laksha, earth worm, hari
 **यद्वा जलयुतां स्थालीं निखनेत् कोष्ठिकोदरे ।**  
 **सच्छिद्रं तन्मुखे मल्लंतन्मुखेऽधमुखीं क्षिपेत् ॥**
 
-**मूषोपरि शिखित्रांश्च प्रक्षिप्य प्रधमेद् दृढम्****।**  
+**मूषोपरि शिखित्रांश्च प्रक्षिप्य प्रधमेद् दृढम्।**  
 **पतितं स्थालिकानीरे सत्त्वमादाय योजयेत् ॥ +[^25]**
 
 [^25]: "+ एतद्धि पातालाख्यं यन्त्रम् । प्रथम खण्डे २७६ पृष्ठे प्रदत्तास्य वर्णना संशोध्यतेऽधुना "
@@ -4120,7 +4120,7 @@ One who takes powdered gandhaka, with an equal quantity of pippali and haritaki,
 **(८)**
 
 **शुद्धो वलिर्गोपयसा विभाव्यस्ततश्चतुर्जात गुडूचिकाभिः । **  
-**पथ्याक्षधात्रीकटुभृङ्गराजैर्भाव्योऽष्टवारं पृथगार्द्रकेण ****॥**
+**पथ्याक्षधात्रीकटुभृङ्गराजैर्भाव्योऽष्टवारं पृथगार्द्रकेण ॥**
 
 **सिद्धो सितां योनय तुल्यभागां रसायनं गन्धक- संज्ञितं स्यात् । **  
 **धातुक्षयं मेहगणाग्निमान्द्यंशूलं तथा कोष्ठगतांश्च रोगान् ॥ **
@@ -5113,7 +5113,7 @@ One karsha of purified haritalam with an equal quantity of incinerated iron and 
 
 **द्विकालपथ्यं नियतं विधेयम्॥**
 
-****** ***  Thirteenth process.***
+** ***  Thirteenth process.***
 
 Purified haritalam is to be rubbed separately with each of the following and made into a lump :— juices of kushmanda, nimboo, gojihva, kulattha, chhikkani, ardraka, dhatura, bhringaraja, dugdhika, sahadevi, palasha, eranda roots, brahmadandi, swarna balli, rasona, palandu, gopala karkati, kakamachi, milk of bajri, and arka. The lump is then to be put inside a vessel filled with the ashes of aswatha, and heated as usual, for 96 hours. The haritalam, thus incinerated, cures quickly all sorts of diseases, and especially leprosy, scrofula, hysteria, and urinary diseases, if the patient lives twice a day on a good diet, prepared without salt, pungents, and strong ingredients.
 
@@ -6035,7 +6035,7 @@ Kankustha is bitter, pungent, producer of hot effect on the system, and highly p
 
 **कंकुष्ठं शुद्धिमायाति त्रिधा शुण्ठ्यम्वुभावितम्।**
 
-***First process******.***
+***First process**.***
 
 Kankustha is purified, if subjected to bhavana for three times with the decoction of shunthi,  
 
@@ -6387,13 +6387,13 @@ Shankha cures all sorts of diseases, especially chronic diarrhoea, colic pain, a
 
 Agnijara is the uterine excreta of agninakra, (a kind of shark) thrown upon the beach by sea wavesand dried up by the sun. Agnijara is the pacifier of the three doshas. It cures tetanus and other diseases due to an excess of vayu. It increases the potency of mercury and the power of digestion. It is already purified by contact with the kshara contained in sea water, and does not therefore require any further purification.
 
-**अथ गिरिसिन्दूरम्****।**
+**अथ गिरिसिन्दूरम्।**
 
 **महागिरिषु चाल्पीयः पाषाणान्तः स्थितो रसः ।**  
 **शुष्कः शोणः स निर्दिष्टो गिरिसिन्दूरसंज्ञया ॥**
 
 **सिन्दूरं रक्तरेणुश्च नागगर्भञ्च सीसजम् ।**  
-******सीसकस्योपधातुस्तत् सीसकसदृशं गुणैः ॥**  
+**सीसकस्योपधातुस्तत् सीसकसदृशं गुणैः ॥**  
 **रसगन्धप्रभावेन गुणान्तरयुतञ्च तत् ॥**
 
 ***Girisinduram (Mineral red vermilion).***
@@ -6793,7 +6793,7 @@ Gold is of two kinds, viz, that which is transformed from base metals, through t
 **(१)**
 
 **स्निग्धं मेध्यं बिषगदहरं वृं हणं वृष्यमग्यं**  
-**यक्ष्मोन्मादप्रशमनपरं देहरोगप्रमाथि****।**  
+**यक्ष्मोन्मादप्रशमनपरं देहरोगप्रमाथि।**  
 **मेधावुद्धिस्मृतिसुखकरं सर्व्वदोषामयध्नं**  
 **रुच्यं दीपि प्रशमितरुजं स्वादुपाकं सुबर्णम् ॥**
 
@@ -6849,7 +6849,7 @@ Gold, not properly purified and incinerated, destroys, if taken internally, heal
 **\* पटुधातुःपांशुजलवणम् ।**  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-***Purification of gold.*** ***\****[^36]  
+***Purification of gold.*** ***\[^36]  
 ***irst process.***
 
 [^36]: "The term "
@@ -6859,7 +6859,7 @@ Pure mineral gold which has got only 14 colours, becomes absolutely pure and ass
 **द्वितीयो विधिः ।**
 
 **स्वर्णतारारताम्रायः पत्राण्यग्नौ प्रतापयेत् ।**  
-**निषिञ्चोत्तप्ततप्तानि तैले तक्रोगवां जले****॥**
+**निषिञ्चोत्तप्ततप्तानि तैले तक्रोगवां जले॥**
 
 **काञ्जिके च कुलत्थानां कषाये सप्तधा पृथक् ।**  
 **एवं स्वर्णादिलोहानां विशुद्धिः संप्रजायते ॥**
@@ -7194,7 +7194,7 @@ Gold leaves are to be smeared with purified mercury, an equal quantity of sulphu
 **निरुध्य तद् धमेद् गाढ़ं मूषायां घटिकाद्वयम् ।**  
 **निरुत्थंजायते भस्म तत्तद्योगेषु योजयेत् ॥**
 
-***Twentieth process******.***
+***Twentieth process**.***
 
 Gold leaves with double their quantity of mercury are to be rubbed together for three hours with a sour vegetable juice. Swarna makshikam, equal in quantity to gold, is to be similarly rubbed, Half the quantity of this is to be put at the bottom of the crucible. Upon this is to be placed the gold leaves rubbed with mercury, upon which is to be kept the remaining half of the swarna-makshikam. Next is to be put powdered sulphur, equal in quantity to the gold. The crucible is then to be closed and heated steadily for some time. It is then to be broken open and a fresh quantity of sulphur of the same weight,as before, is again to be put, and the crucible closed and heated as before. Sulphur is thus to be put for six times in all.  
 Five parts of these ashes and one part each of tankanam and white glass are to be rubbed with honey and ghee and made into a lump. This is to be confined within a samputam with one part of dhanyabhraka put below and upon the lump. The crucible is then to be closed and heated for two ghatis with the result that the ashes of gold attain a state of incineration in which it is physically impossible to restore them to their original state (i. e. the state of gold).
@@ -7294,7 +7294,7 @@ Silver is of three different kinds, viz, ( 1 ) that which is as old as the earth
 **कैलासाद्यद्रिसम्भूतं सहजं रजतं भवेत् ।**  
 **तत्स्पृष्टं हि सकृद् व्याधिनाशनं देहिनां भवेत् ॥**
 
-***(1) Silver which is as old as the earth******.***
+***(1) Silver which is as old as the earth**.***
 
 Silver of this description is to be found in kailash and some other mountains. Such a silver cures diseases by mere touch only.
 
@@ -7358,7 +7358,7 @@ Silver, not properly purified and incinerated, impairs longevity, semen, and str
 
 ***Purification of silver.***
 
-***First Process******.***
+***First Process**.***
 
 Leaves of gold and the other metals are best purified if they are heated and immersed, while still hot, seven times, in each of the following liquids, respectively :-oil, butter milk, cow's urine, aranala, and decoction of kulattha.
 
@@ -7554,7 +7554,7 @@ Purified and incinerated silver cures phthisis, anaemia, udara-roga, piles, asth
 **सितया हन्ति दाहाद्यं वातपित्तं फलत्रिकैः ॥**  
 **त्रिसुगन्ध्या प्रमेहादि गुल्म क्षारसमन्वितम्॥**
 
-**कासं कफं****वृषस्य च रसे त्रिकटुकान्वितम् ।**  
+**कासं कफंवृषस्य च रसे त्रिकटुकान्वितम् ।**  
 **भार्गीविश्वयुतं श्वासं क्षयजित् सशिलाजतु ॥**
 
 **क्षीणे मांसरसै र्देयं दुग्धै र्वा धीमता सदा ।**  
@@ -7653,7 +7653,7 @@ Copper, not duly purified and incinerated, impairs longevity, beauty, semen, and
 **ताम्रस्य शोधनम् ।**  
 **प्रथमो विधिः ।**
 
-**ताम्रं क्षाराम्लसंयुक्तं द्रावितं दत्तगैरिकम्****।**  
+**ताम्रं क्षाराम्लसंयुक्तं द्रावितं दत्तगैरिकम्।**  
 **निक्षिप्तंमहिषीतक्रेसप्तधा छगणाग्निना॥**  
 **पञ्चदोषविनिर्मुक्तं सप्तवारेण जायते ॥**
 
@@ -7693,10 +7693,10 @@ Copper leaves are purified, if they are boiled with cow's urine for three hours 
 **पञ्चमो विधिः ।**
 
 **स्वर्णतारारतम्राणां पत्राण्यग्नौप्रतापयेत् ।**  
-**निषिञ्चेत् तप्ततप्तानि तैले तक्रेच काञ्जिके****॥**
+**निषिञ्चेत् तप्ततप्तानि तैले तक्रेच काञ्जिके॥**
 
 **गोमूत्रे च कुलत्थानां कषाये च त्रिधा त्रिधा।**  
-**एवं स्वर्णादिलोहानां विशुद्धिः संप्रजायते****॥**
+**एवं स्वर्णादिलोहानां विशुद्धिः संप्रजायते॥**
 
 ***Fifth process.***
 
@@ -7747,7 +7747,7 @@ Copper leaves are incinerated, if they are smeared with mercury and sulphur, rub
 ( सोमनाथताम्रम् ) ।**
 
 **शुल्वतुल्येन सूतेन बलिना तत्समेन च ।**  
-**तदर्धांशेन तालेन शिलया च तदर्धया****॥**
+**तदर्धांशेन तालेन शिलया च तदर्धया॥**
 
 **विधाय कज्ज्वलीं श्लक्ष्णां भिन्नकज्ज्वलसन्निभाम्।**  
 **यन्त्राध्यायविनिर्दिष्टगर्भयन्त्रोदरान्तरे ॥**
@@ -7846,7 +7846,7 @@ Purified copper leaves, half its quantity of mercury and twice its weight of sul
 
 **जम्बीररसमर्दितं कज्ज्वलीं यत्नतो भिषक् ।**
 
-**पत्रे लिम्पेत् कण्टवेध्ये म्रियते ताम्रमातपे****॥**
+**पत्रे लिम्पेत् कण्टवेध्ये म्रियते ताम्रमातपे॥**
 
 ***Ninth process.***
 

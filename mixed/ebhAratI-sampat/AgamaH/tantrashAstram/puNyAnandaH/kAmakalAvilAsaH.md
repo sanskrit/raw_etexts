@@ -139,12 +139,12 @@ has been printed. I have added some further notes and given the references to th
   The Kāmakalāvilāsa is of great value in Śrividyā because of its clear and succinct account, from the Hādi standpoint, of the initial development of S'akti and of the great S'rīyantra, and is now translated for the first time.
 
 ***Calcutta,***                            
-                      **A****RTHUR** **A****VALON**  
+                      **ARTHUR** **AVALON**  
 25th Nov. 1921
 
 
 
-****By the same Author****
+By the same Author
 
 **THE SERPENT POWER**
 
@@ -190,7 +190,7 @@ in his commentary itself to Saccidānanda-Vāsanā and Cidānanda Vāsanā as hi
   The publication of this book making its contents available to all and sundry does not and cannot dispense with the two indispensable conditions of competency and initiation already referred to. To those who have them not, the contents may seem to be meaningless jabber. So is a book on integral calculus to a history student. The publication however is useful in creating in the reader an interest which in course of time may ripen into earnest endeavour to appreciate and realise the eternal truths taught here.
 
 ***Srirangam*                             
-        **** R. K****RISHNASWAMI** **A****IYAR  
+         R. KRISHNASWAMI** **AIYAR  
 11-6-53**
 
 
@@ -765,7 +765,7 @@ WORD (***Vāk***) and its meaning (***Artha***) are always united, They are S'iv
 
  He here wishes to say that the world arises out of the inseparate ***Nāda***-***bindu*** couple, and therefore says that that Couple of its own wish differentiated themselves.
 
- **Word and its meaning** (*Vāk and Artha*). *Vāk* is in the form of *Varṇa, Pada, Mantra* (*Varṇapadamantrarūpā*), *Artha is Kalā, Tattva* and *Bhuvana¹*(*Kalātattvabhuvanātmā*). Such is the form of S'iva-S'akti, because, as *S'ruti* says, out of *S'abda* (*Vāk*) and *Artha* which are *Prakās'a* and *Vimars'a* (*Prakās'a-vimars'ātmaka*), the whole world consisting of six Adhvās (*S'adadhvātmaka*) originated. They are therefore always united (*Nityayutau=Nirantara-saṁsaktau*) and not casually or accidentally so, like a jar and picture which may be put together. If the union were merely accidental, then the ordered universe would not exist. These two go through the three-fold changes of **** Creation, Maintenance and Dissolution **** (Sṛṣti-sthiti-laya-bhedau tridhā-vibhaktau).
+ **Word and its meaning** (*Vāk and Artha*). *Vāk* is in the form of *Varṇa, Pada, Mantra* (*Varṇapadamantrarūpā*), *Artha is Kalā, Tattva* and *Bhuvana¹*(*Kalātattvabhuvanātmā*). Such is the form of S'iva-S'akti, because, as *S'ruti* says, out of *S'abda* (*Vāk*) and *Artha* which are *Prakās'a* and *Vimars'a* (*Prakās'a-vimars'ātmaka*), the whole world consisting of six Adhvās (*S'adadhvātmaka*) originated. They are therefore always united (*Nityayutau=Nirantara-saṁsaktau*) and not casually or accidentally so, like a jar and picture which may be put together. If the union were merely accidental, then the ordered universe would not exist. These two go through the three-fold changes of  Creation, Maintenance and Dissolution  (Sṛṣti-sthiti-laya-bhedau tridhā-vibhaktau).
 
 **Creation, Maintenance and Dissolution**. By Creation (*Sṛṣti*) is meant the appearance of all the *Tattvas* beginning with S'iva and ending with *Kṣiti*. *Sthiti * is the Maintenance thereof, and Dissolution (*Laya*) is their reunion with, or return to, that which at base they are (***Svātmasākṣātkāra***). These three (*functions*) are from, in and into the *Ātmā*. So it has been said by the honoured Abhinavagupta²; 'Creation, Maintenance and Dissolution are (all) within the Ātmā(*Svātmagāh*) in their own nature (*Svarūpatvena*)'. These two (***Vāk** and **Artha***) are mutually (***Paraspara***) united ***S'iva*** and ***S'akti***
 
@@ -904,7 +904,7 @@ SOUND, Touch, Form, Taste, Smell these are the subtle ***Bhūtas*.** (Of these) 
 
   **The lunar days again are the union of Siva and Sakti** (*Tithayas'ca S'iva-S'akti-samarasākārāh*), or in other words, they are the united form of *Prakās'a* and *Vimars'a*. They are therefore of the form of day and night. *Prakās'a* and *Vimars'a* are day and night. So it is said in *Cidvilāsa*: ‘She the Night makes all the worlds sleep. He the Day is verily the waker-up of all.’
 
-  These *Tithis* again are the letters in the *Vidyā* (*Srīvarṇāh*) being in manner aforesaid fifteen in number. They have further the double forms, that is, they are likewise *Prakās'a* and *Vimars'ah*) (*Prakās'a-vimars'a-rūpāh*). This *Vidyā* of fifteen letters has been enunciated in ***S'aunaka*-*****S'ākhā*** of the ***Atharva*-*****veda*** by the Mantra, which runs **‘*Kāmo yonih kamalā*’** and so forth. Some say that this *Vidyā* is also shown in the fifth *Maṇdala* of the *Ṛgveda* in ***Catvāraiṁ bibhrati kṣemayantah***’ and so forth.
+  These *Tithis* again are the letters in the *Vidyā* (*Srīvarṇāh*) being in manner aforesaid fifteen in number. They have further the double forms, that is, they are likewise *Prakās'a* and *Vimars'ah*) (*Prakās'a-vimars'a-rūpāh*). This *Vidyā* of fifteen letters has been enunciated in ***S'aunaka*-*S'ākhā*** of the ***Atharva*-*veda*** by the Mantra, which runs **‘*Kāmo yonih kamalā*’** and so forth. Some say that this *Vidyā* is also shown in the fifth *Maṇdala* of the *Ṛgveda* in ***Catvāraiṁ bibhrati kṣemayantah***’ and so forth.
 
 
 
@@ -944,7 +944,7 @@ SOUND, Touch, Form, Taste, Smell these are the subtle ***Bhūtas*.** (Of these) 
 
   Such is the *Vidyā* of fifteen letters (*Pañcadasākṣarī*).
 
-  The divisions of its parts are as follows : The honoured Punyānanda, a strong adherent of ***Hādividyā****³*, speaks of this *Vidyā* as a whole, that is, as immanent in the *Tattvas* (*Tattvātmakatva*) and transcending them (***Taduttīrṇatva***) of this *Vidyā*.
+  The divisions of its parts are as follows : The honoured Punyānanda, a strong adherent of ***Hādividyā³*, speaks of this *Vidyā* as a whole, that is, as immanent in the *Tattvas* (*Tattvātmakatva*) and transcending them (***Taduttīrṇatva***) of this *Vidyā*.
 
   In the first part ***Vāgbhava*** contains five vowels and seven consonants, that is, twelve letters. In the secoud ***Kāmarāja*** there are six vowels and eight consonants in all fourteen letters. In the third part known as *S'akti* there are four vowels and six consonants. The
 
@@ -987,7 +987,7 @@ VEDYĀ is also like this—She is the subtle Devī Tripura-sundarī. The Great Y
 
 
 
-separateness (***Abheda=aikya**=one-ness*) of Vidyā, that is, the Mantra of fifteen letters, and ***Vedyā***, that is, Tripurasundarī. So it has been said in *Catuhsatī¹*: “Whatever S'akti is spoken of as being in any particular category (***Padārtha***), that S'akti is the Devī Sarves'varī (the S'akti of S'iva), and He who is with Her is the Great Lord (*Mahesvara*). She the Vidyā who is ***Bhūtaguṇātmikā****²*******spreads Herself out by the fifteen letters of which Her mantra is composed and which is divided into groups of five (which are of ***Vāgbhava***), six (which are of *Kāmarāja*), and four (which are of *S'akti*) letters³. According to the number of vowels and consonants (of which her Mantra consists) She is of thirty-seven aspects (***Saptatrims'at- prabhedinī***). By these thirty-seven aspects or variations She appears as Thirty-six Tattvas. The Vidyā Itself should be thought of as the State of S'iva Himself which excels all **Tattvas**⁴.
+separateness (***Abheda=aikya**=one-ness*) of Vidyā, that is, the Mantra of fifteen letters, and ***Vedyā***, that is, Tripurasundarī. So it has been said in *Catuhsatī¹*: “Whatever S'akti is spoken of as being in any particular category (***Padārtha***), that S'akti is the Devī Sarves'varī (the S'akti of S'iva), and He who is with Her is the Great Lord (*Mahesvara*). She the Vidyā who is ***Bhūtaguṇātmikā²***spreads Herself out by the fifteen letters of which Her mantra is composed and which is divided into groups of five (which are of ***Vāgbhava***), six (which are of *Kāmarāja*), and four (which are of *S'akti*) letters³. According to the number of vowels and consonants (of which her Mantra consists) She is of thirty-seven aspects (***Saptatrims'at- prabhedinī***). By these thirty-seven aspects or variations She appears as Thirty-six Tattvas. The Vidyā Itself should be thought of as the State of S'iva Himself which excels all **Tattvas**⁴.
 
 ![](../books_images/U-IMG-1725601795Screenshot2024-08-10134504.png)
 
@@ -1018,7 +1018,7 @@ Having previously spoken of the oneness of the Vidyā and Devatā the author wis
 
  Also elsewhere³: “That from which words along with Manas being unable to reach return (baffled).”
 
- ***Āgama*** also says : **** ***“Parā Vāk*** (Supreme Word) which is within (i.e. unmanifest) is verily Light-in-Itself (*Svarūþajyotireva*)³and perishes not (***Anapāyinī***). When Her own form is seen ***(Yasyāṁ dṛṣta-svarūpāyāṁ)*** all duty ceases”⁴
+ ***Āgama*** also says :  ***“Parā Vāk*** (Supreme Word) which is within (i.e. unmanifest) is verily Light-in-Itself (*Svarūþajyotireva*)³and perishes not (***Anapāyinī***). When Her own form is seen ***(Yasyāṁ dṛṣta-svarūpāyāṁ)*** all duty ceases”⁴
 
 
 
@@ -1068,9 +1068,9 @@ THE wise know no difference between the ***Mahesī*** and the ***Cakra***. ***Pa
 
   ***S'ruti**¹* says: ‘Alone She was at first. She became nine-fold’.
 
-  The ***Vāmakes'vara****²*****demonstrates this non-difference in the passage beginning : ‘\[The five S'aktis produce and the four Fires withdraw\]. From the union of the five S'aktis and the four Fires there arises the *Cakra*. \[When the Supreme S'akti sees Her own becoming (***Sphurattā***) then there arises the ***Cakra***\],’ and ending with ‘The ***Cakra*** is the form (***Rūpa***) of the Kāmakalā in that it is the going forth (*Prasāra*) of the Supreme Reality (***Paramārtha***).’
+  The ***Vāmakes'vara²*demonstrates this non-difference in the passage beginning : ‘\[The five S'aktis produce and the four Fires withdraw\]. From the union of the five S'aktis and the four Fires there arises the *Cakra*. \[When the Supreme S'akti sees Her own becoming (***Sphurattā***) then there arises the ***Cakra***\],’ and ending with ‘The ***Cakra*** is the form (***Rūpa***) of the Kāmakalā in that it is the going forth (*Prasāra*) of the Supreme Reality (***Paramārtha***).’
 
-  He speaks of the oneness of these two (the ***Cakra*** and the : ***Devatā***) in their subtle form (***Sūkṣma-rūpa***) by which is meant that which cannot be defined. * The **S'rīcakra*** in its subtle form is the *Bindu*. Its indefinableness is clearly shown in the passage : ‘In the Supreme ***Ākās'a*** which is the Bindu *(**Baindave paramākās'e***) and so on.’ The indefinableness of the ***Devatā*** has also been shown in the verse beginning : * ‘The **Vidyā*** (object of knowledge) is also like this **** *(**Tādṛgātmā**)’*. In the same way there is no difference between the
+  He speaks of the oneness of these two (the ***Cakra*** and the : ***Devatā***) in their subtle form (***Sūkṣma-rūpa***) by which is meant that which cannot be defined. * The **S'rīcakra*** in its subtle form is the *Bindu*. Its indefinableness is clearly shown in the passage : ‘In the Supreme ***Ākās'a*** which is the Bindu *(**Baindave paramākās'e***) and so on.’ The indefinableness of the ***Devatā*** has also been shown in the verse beginning : * ‘The **Vidyā*** (object of knowledge) is also like this  *(**Tādṛgātmā**)’*. In the same way there is no difference between the
 
 
 
@@ -1125,7 +1125,7 @@ THE Centre of Cakra is ***Parā* (*Parāmaya*)**. This is Bindutattva. When It b
 
  “The three Puras⁸ (Bindus) which move the Universe (***Visvacarṣaṇī***) along three paths wherein are placed the letters *A,* Ka*, Tha⁹*wherein again abides the impenetrable transcendent greatness of the Devatās.” These and other similar texts in S'ruti speak of the celestial S'ṛṅgāta-pītha wherein abide the Mātṛkā (Mantra) of three sections which is the source wherefrom arise all Mantras. The Vāmakes'vara-Tantra (***Nityā-ṣoda**,* VI, 48) also says:
 
- ****“All these¹⁰ are denoted by (***Vācyarūpāṇi***) the complete Mantra of three Bījas (***Bījatritaya**-**yukta***) both singly and collectively¹¹. The Triangle containing three Bījas, the three S'aktis, the thee Lingas is the imperishable **Kāmakalā**.”
+ “All these¹⁰ are denoted by (***Vācyarūpāṇi***) the complete Mantra of three Bījas (***Bījatritaya**-**yukta***) both singly and collectively¹¹. The Triangle containing three Bījas, the three S'aktis, the thee Lingas is the imperishable **Kāmakalā**.”
 
  He next says that the Bindutattva which becomes the S'rīcakra of nine Triangles (four of which are) upward and (five, downward turned is also the adorable **Parā** (***Parā**-**bhattārikāmayam***). He mentions Vāmā, Jyeṣthā, Raudrī and Aṁbikā by name and by the particle ***cha*** (also) he implies **Parā S'akti** and says that these are the five S'aktis indicated by the five reversed triangles which are the first portion (***Anuttarāṁśabhūtāh=Anuttaraṁsāh***), of the S'ricakra; whilst the S'aktis Icchā, Jñānā, Kriyā, S'āntā are the other portion or the four triangles with their apex upward. (***Uttarāvayavāh=Ūrddhvamukha- trikoṇacatuṣtayarūpāh***).
 
@@ -1137,7 +1137,7 @@ THE Centre of Cakra is ***Parā* (*Parāmaya*)**. This is Bindutattva. When It b
 
  **The two letters taken separately and collectively** (*Vyastāvyasta-tadarṇadvayam*). By *Vyasta* is meant individual (*Vyaṣtirūþam*) and ***Avyasta*** is collective (***Samaṣtirūpam***). That is the two letter (***A*** and ***Ha***) which are the first and the last of the alphabet hold as in a vice between them all the letters of the Alphabet which are the mother of all Mantras within which two letters again is the Experience (*Bhāva*) of complete ‘I-ness’ (***Pūrnā’ham***) which is the union of Prakās'a and Vimars'a or Bindutattva the eternal Kāmakalā. All this is well established in the Upaniṣads.
 
- Here Parabrahman as complete ‘I-ness’ is to be known as united with His consort and as the doer of all actions; so the ***Bṛhadā******raṇyaka*** (1. 4. 1) says:
+ Here Parabrahman as complete ‘I-ness’ is to be known as united with His consort and as the doer of all actions; so the ***Bṛhadā**raṇyaka*** (1. 4. 1) says:
 
  “This Ātmā there verily was in the beginning ”¹³and thereby establishes that the Parabrahmasvarūpa is complete and transcendent ‘I-ness’ (*Pūṛṇa-parāhamtāmaya*) and union of celestial Wife and Husband. The Text proceeds in the passage quoted below to show that It shines forth as the creator of all Tattvas:
 
@@ -1207,7 +1207,7 @@ INthis way the united Kāma and Kalā are the (three) letters whose own form (**
 
  **The united Kama and Kala** (***Kāmakalātmā***). By Kāma is meant Paramas'iva who is pure Illumination (***Prakās'aikasvabhāvah***) and is the first letter which is ***A*** ¹, and Kalā signifies Vimars'a the last of letters (***Ha***). This dual character (***Ubhayātmakatva***) indicates the possession of experience of complete ‘I-ness’ which is its true nature (***Svābhāvikaparipūrṇāhaṁbhāvas'ālitvam***). This has been fully explained in verse 7. The Kāmakalātmā who as previously described is **“the (three) letters whose own form (Svarupa) is the three Bindus”** (***Tribindutattvasvarūpavarṇamyī***). The three Bindus are the Red, White and Mixed Bindus previously spoken of. Bindutattva is the Bindus previously described. The three letters, by which is meant the Vāgbhava and other Bījas, are forms of the three Bindus. In the ***Rahasyāṁnāya*** (S'iva addressing the Devī) says :”
 
-  “Know this, that the beautiful S'ṛṅgāta which is Thy very self (***Svātma**-**sṛṅgāta***) is made up of three Bindus mixed, white and red. It is ancient (***Purāṇa***) and is the Pranava itself. It can be known by the three lines (which compose it). It is pure knowledge (***Saṁvin**-**mātr*****a**) and is of the nature of S'iva. The red is self sustained
+  “Know this, that the beautiful S'ṛṅgāta which is Thy very self (***Svātma**-**sṛṅgāta***) is made up of three Bindus mixed, white and red. It is ancient (***Purāṇa***) and is the Pranava itself. It can be known by the three lines (which compose it). It is pure knowledge (***Saṁvin**-**mātr*a**) and is of the nature of S'iva. The red is self sustained
 
 
 
@@ -1513,7 +1513,7 @@ MOVEMENT is either Pada-vikṣepa¹or Kramodaya and is therefore said to be of t
 
  By **Padaviksepa** is meant the power of Sundarī to produce countless S'aktis who are the countless millions of Her rays.
 
- *****S'ṛuti (Aruṇopaniṣad)* also says:
+ *S'ṛuti (Aruṇopaniṣad)* also says:
 
  “The rays which are Self-originated are what made bodies (***S'arīrāṇi***).” ***Bhairava-yāmala³*** also says:
 

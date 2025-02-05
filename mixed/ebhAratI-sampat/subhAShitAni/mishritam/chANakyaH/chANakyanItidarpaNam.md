@@ -1009,7 +1009,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ4Njk1MjU1
 
 
 
-**(****८) अष्टमोऽध्यायः।**
+**(८) अष्टमोऽध्यायः।**
 
 
 

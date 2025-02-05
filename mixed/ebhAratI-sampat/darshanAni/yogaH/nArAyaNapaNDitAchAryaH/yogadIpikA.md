@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDMwMTY5Njc0
 
 
 
-****
+
 
 ** ॥ श्रीः ॥  
   
@@ -1495,7 +1495,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDMwMTY5Njc0
 श्रीलक्ष्मीवेंकटेशः प्रसीदतु ॥  
 श्रीकृष्णार्पणमस्तु ॥**
 
-****
+
 
 **-------------------------------------------------------------------**
 

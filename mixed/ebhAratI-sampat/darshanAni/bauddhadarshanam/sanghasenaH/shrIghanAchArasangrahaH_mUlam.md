@@ -27,7 +27,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc5MjQxMTk2
 
 
 
-**** **** **प्रथमोऽध्यायः**
+  **प्रथमोऽध्यायः**
 
 **॥ बुद्धनमस्कारः ॥**
 

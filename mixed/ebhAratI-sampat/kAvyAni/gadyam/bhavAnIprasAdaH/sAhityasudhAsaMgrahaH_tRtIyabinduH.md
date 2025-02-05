@@ -695,7 +695,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
   तत्प्रवीरो भव।
 
-  **रामः****—**
+  **रामः—**
 
 **हारः कण्ठं विशतु यदि वातीक्ष्णधारः कुठारः  
 स्त्रीणां नेत्राण्यधिवसतु नः कज्जलं वा जलं वा।  
@@ -816,7 +816,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 घनसमरकराला कुत्र नराचहेला  
 कुशकिसलयलीला कुत्र वा पर्णशाला॥३२॥**
 
-**  जामदग्न्यः**—कथमन्यमिव मां प्रणतिपात्रंमुनिमात्रं मन्यसे। स एष****जामदग्न्यः खल्वहं—
+**  जामदग्न्यः**—कथमन्यमिव मां प्रणतिपात्रंमुनिमात्रं मन्यसे। स एषजामदग्न्यः खल्वहं—
 
 **क्षण्णक्षत्र कठोरकण्ठविगलत्कीलालधारासरि-  
 न्निर्वृत्ताभिषवस्य कृत्तशिरसां केशान्कुशान्कुर्वतः।  
@@ -4416,7 +4416,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 **तापनैरेव तेजोभिः प्लुष्टनिर्वाणमेचकाः।  
 दिशो जाताः प्रतीची तु समुदाचरति क्रमात् ॥४७॥**
 
-  किं च****
+  किं च
 
 
 
@@ -5630,7 +5630,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 
 
-**_(![](../books_images/U-IMG-1721522825Screenshot2024-07-21061650.png))****मृच्छकटिकात्****_(![](../books_images/U-IMG-1721522825Screenshot2024-07-21061650.png))  
+**_(![](../books_images/U-IMG-1721522825Screenshot2024-07-21061650.png))मृच्छकटिकात्_(![](../books_images/U-IMG-1721522825Screenshot2024-07-21061650.png))  
 ![](../books_images/U-IMG-1721522774Screenshot2024-07-18063849.png)**
 
 **सन्धिच्छेद**

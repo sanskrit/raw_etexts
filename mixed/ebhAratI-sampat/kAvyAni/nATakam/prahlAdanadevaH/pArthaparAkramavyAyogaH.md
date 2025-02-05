@@ -79,7 +79,7 @@ In press.
 
 
 
- Dhârâvarsha and Prahlâdana. Dhârâvarsha, son of Yaśodhavala and ruler of Chandrâvatî was the elder brother of our author who was his Yuvarâja. Dhârâvarsha's reign was very illustrious in the history of the Parmars of Mt. Âbu. He fought with the army of Kumârapâla in the invasion of Mallikârjuna of Konkana. The present work describes him as having amazed the whole of India with his valour and extolling his skill in archery[^2], refers to his repelling the nocturnal attack of the King of Jângalas.^(**4**)The ms.C identifies this prince with Pṛithvîrâja. The Śambhar King Pṛithvîrâja was reigning up to Samvat 1236. This most probably may have taken place at the time of the invasion of King Ajayapâla of the Jâṅgala King.^(**5**)****Dhârâvarsha's reign was very long. The oldest inscription of his reign yet discovered is dated Samvat 1220. He was living at the time of the laying of the foundation of the Lûṇigavasti on Mt. Âbu, and this event occurred in Samvat 1286. He also helped Vastupâla[^3] in repulsing an attack of an army from Delhi about the same time. Prahlâdana was not fortunate enough to become a king, as he did not outlive his elder brother. From the inscriptions given in Appendix II, it is clear that he was already working as Yuvarâja in Samvat 1220 and was living up to Samvat 1265.
+ Dhârâvarsha and Prahlâdana. Dhârâvarsha, son of Yaśodhavala and ruler of Chandrâvatî was the elder brother of our author who was his Yuvarâja. Dhârâvarsha's reign was very illustrious in the history of the Parmars of Mt. Âbu. He fought with the army of Kumârapâla in the invasion of Mallikârjuna of Konkana. The present work describes him as having amazed the whole of India with his valour and extolling his skill in archery[^2], refers to his repelling the nocturnal attack of the King of Jângalas.^(**4**)The ms.C identifies this prince with Pṛithvîrâja. The Śambhar King Pṛithvîrâja was reigning up to Samvat 1236. This most probably may have taken place at the time of the invasion of King Ajayapâla of the Jâṅgala King.^(**5**)Dhârâvarsha's reign was very long. The oldest inscription of his reign yet discovered is dated Samvat 1220. He was living at the time of the laying of the foundation of the Lûṇigavasti on Mt. Âbu, and this event occurred in Samvat 1286. He also helped Vastupâla[^3] in repulsing an attack of an army from Delhi about the same time. Prahlâdana was not fortunate enough to become a king, as he did not outlive his elder brother. From the inscriptions given in Appendix II, it is clear that he was already working as Yuvarâja in Samvat 1220 and was living up to Samvat 1265.
 
 [^2]: "तदेतदतुलपराक्रमचमत्कारिताखिलभारतस्य श्रीधारावर्षस्य।"
 
@@ -1016,7 +1016,7 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 तस्मात्त्रिगर्त्तेश्वरसैन्यजाला—  
  दुन्मोचितस्तेन स मत्स्यराजः॥४९॥**
 
- **द्रौपदी—****साहु**[^42] वीरावयंस भीमसेण ! साहु।
+ **द्रौपदी—साहु**[^42] वीरावयंस भीमसेण ! साहु।
 
 [^42]: "साधु वीरावतंस भीमसेन ! साधु।"
 

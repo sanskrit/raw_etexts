@@ -182,11 +182,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM2OTI1Njg0OTQ
 
  II. Brahmasri R. Krishnaswami Aiyar, M. A., B. L., Advocate, Viraraghavapuram, Tinnevelly.  
 
-***   Pancharatnastotra*** ***\****
+***   Pancharatnastotra*** ***\
 
  III. Vidyasagara, Vidyavachaspati, P. P. Subrahmanya Sastri, B. A. (Oxon) M. A. (Madras,) Professor of Sanskrit and Comparative Philology, Presidency College, and Curator, Government Oriental Manuscripts Library, Madras,  
 
-***     Mandanamisra-******Suresvara*** ***Identity***.\*
+***     Mandanamisra-**Suresvara*** ***Identity***.\*
 
  IV. Brahmasri N. Chandrasekhara lyer B.A., B.L., District and Sessions Judge, Madura.
 
@@ -208,7 +208,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM2OTI1Njg0OTQ
 
  **VIII.** Brahmasri K. R. Venkatarama Aiyar B. A., B. L., Advocate, Madura.  
 
-***     Sri*** ***Chandrasekhara*** ***Bharati's******Visit*** ***to*** ***Madura***.
+***     Sri*** ***Chandrasekhara*** ***Bharati's**Visit*** ***to*** ***Madura***.
 
  **IX.** Mimamsaratna A. V, GopalachariarM. A., B. L., Advocate, Trichinopoly.  
 
@@ -254,7 +254,7 @@ Brahmasri V. V. Srinivasa Aiyangar, B.A., B.L., Retired High Court Judge, Madras
       ***Sri*** ***Chandrasekhara*** ***Bharati*** ***and*** ***Sringeri***.
 
 ** XIX.** Vidvacchirobhushana, Vidyavisarada Kunigal Rama Sastri, Palace Dharma- dhikari, Mysore.  
-**     Sri** ***Jagadguru*** ***Chandrasekhara***-***bharati*** ***Swamigal*** \*******   
+**     Sri** ***Jagadguru*** ***Chandrasekhara***-***bharati*** ***Swamigal*** \***   
 
 ** XX.** Mahamahopadhyaya, Mimamsakanthi- rava, Brahmasri Vaidyanatha Sastrigal Professor of Mimamsa, Sanskrit College, Bangalore.  
 ***     Acharyanuti***.
@@ -266,7 +266,7 @@ Brahmasri V. V. Srinivasa Aiyangar, B.A., B.L., Retired High Court Judge, Madras
 ***      Noteworthy*** ***Incidents*** ***in*** ***the*** ***life*** ***of*** ***Sri*** ***Chandrasekhara*** ***Bharati***.
 
 ** XXIII.** Mahamahopadhyaya N, S. Ananta. krishna Sastrigal, Professor of Vedanta and Mimamsa, University of Calcutta, Calcutta.  
-***      Sri Bhagavatpadamahima.\****
+***      Sri Bhagavatpadamahima.\
 
 
 
@@ -278,7 +278,7 @@ Brahmasri V. V. Srinivasa Aiyangar, B.A., B.L., Retired High Court Judge, Madras
 ***      Acharyanavaratnamalikastavam***.\*
 
 ** XXVI.** Brahmasri R. Krishnaswami Aiyar M.A., B.L., Advocate, Tinnevelly.  
-***      Gitasaragurvashtottarasatanama****stotra***.^(\*)
+***      Gitasaragurvashtottarasatanamastotra***.^(\*)
 
 ** XXVII.** Brahmasri Venkatesvara Sastrigal, Principal, Jagadguru Vidyasala, Sankara Mutt, Bangalore.  
 
@@ -524,7 +524,7 @@ Brahmasri V. V. Srinivasa Aiyangar, B.A., B.L., Retired High Court Judge, Madras
 
 **श्रीशंकराचार्यावतारः॥** 
 
-**\[ बि.** **ए.** **बि.** **एल्**. **हैकोट्रं****जड्ज्.** **इत्यादिबिरुदालङ्कृतेन कडयग्रामाभिजनेन** **अनन्तशयनस्थ—शेषार्येण** **विरचितः** \]
+**\[ बि.** **ए.** **बि.** **एल्**. **हैकोट्रंजड्ज्.** **इत्यादिबिरुदालङ्कृतेन कडयग्रामाभिजनेन** **अनन्तशयनस्थ—शेषार्येण** **विरचितः** \]
 
 ![](../books_images/U-IMG-17265906843.jpg)
 

@@ -497,7 +497,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQxMzcxODU0
 
 
 
-      ****
+      
 
 **          अथ द्वितीयोऽध्यायः।**
 
@@ -1352,7 +1352,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQxMzcxODU0
 
     **इति योगयाज्ञवल्क्ये एकादशोऽध्यायः।**
 
-****
+
 
 ** -----------------------------------------------------------**
 

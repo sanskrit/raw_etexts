@@ -2025,13 +2025,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 
 
-****
+
 
 
 
 ॐ
 
-****
+
 
 द्वितीयोऽध्याय
 
@@ -4111,7 +4111,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 **ॐ**
 
-****
+
 
 
 

@@ -38,7 +38,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg4NzM0NzcwODQ
 .
 
 **   सपरिशिष्टपारस्करगृह्यसूत्रस्थ-**  
-**   ****विषयाणामनुक्रमणिका।**  
+**   विषयाणामनुक्रमणिका।**  
 ![](../books_images/U-IMG-1702704390654-removebg-preview.png)
 
 **प्रथमं काण्डम्।**

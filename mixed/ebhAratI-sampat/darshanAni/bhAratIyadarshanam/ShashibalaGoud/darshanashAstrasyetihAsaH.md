@@ -39,7 +39,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQwNDAyNTY0
 
 
 
-**** **न्यायविचारः **
+ **न्यायविचारः **
 
  न्यायशास्त्रीयेतिहासविकाससम्बन्धिधाराद्वयमेव प्रधानतः समनुभूयते ।
 
@@ -1771,7 +1771,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQwNDAyNTY0
 
 
 
-****
+
 
 ** वेदान्तदर्शनम् **
 

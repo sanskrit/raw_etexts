@@ -40,11 +40,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzMDAyNTYyMjc
 **M** (mutton) **वि** (अवि-मांस)  
 **M** *Phys.* (coefficient of *m*utual induction) **स्प** (परस्पर प्ररोचन गुणक)  
 **m** *Phys.* (pole strength) **ध्र**(ध्रुव शक्ति)  
-***μ****Phys.* (coefficient of friction) **घृ** (संघर्षण-गुणक; from$\\sqrt{घृष्}$)  
+***μPhys.* (coefficient of friction) **घृ** (संघर्षण-गुणक; from$\\sqrt{घृष्}$)  
 ***μ***(micron, micrometer) **णु.** (अणुम)  
-***μ****Statistics* **1.**(moment) **घ** (प्रघात)**2.**(modulus) **घ** (धनक) (a real positive quantity)  
-***μ****Phys.* (permeability) **ध्य** (अतिवेध्यता)  
-***μ****Phys.* (refractive index) **दे** (भुजायनदेशना)  
+***μStatistics* **1.**(moment) **घ** (प्रघात)**2.**(modulus) **घ** (धनक) (a real positive quantity)  
+***μPhys.* (permeability) **ध्य** (अतिवेध्यता)  
+***μPhys.* (refractive index) **दे** (भुजायनदेशना)  
 *m-***, met-, meta-** *Chem.* **सम-  
 M. 1, 2** (medium rice quality 1, 2)
 
@@ -258,7 +258,7 @@ Macropicus** *Aves* **कृष्णशतपत्र-प्रजाति** 
 macro-plankton महा-मन्दप्लवक  
 macroplasia** *Med.* **अङ्गातिवृद्धि** *f.*  
 **Macropodidae** *Zool.* (family constituted by the kangaroos) **धानीकुरंग-वंश** *m.*  
-**Macropodinae धानीकुरंगानुवंश** *m.*****(अनुवंश subfamily)  
+**Macropodinae धानीकुरंगानुवंश** *m.*(अनुवंश subfamily)  
 **Macropoma** (*macro-* महा + Gk. *poma* 'cover' आवर) *Zool.* **महावर-प्रजाति  
 Macropus** *Zool.* (genus including the typical kangaroos) **धानीकुरंग-प्रजाति  
 Macropus major** (great kangaroo) **महा-धानीकुरंग  
@@ -407,7 +407,7 @@ Madrepora aspera रूक्ष दृषत्प्रवाल
 Madreporaria दृषत्प्रवाल-गण** *m.*  
 **Madreporarian coral दृषत्प्रवाल  
 madreporic canal= stone cana।  
-madreporite** *Zool.* (a porous, grooved plate) **रन्ध्रसीती** (-इन्)*****m.*  
+madreporite** *Zool.* (a porous, grooved plate) **रन्ध्रसीती** (-इन्)*m.*  
 **Madura** *Geog.* **दक्षिण मधुरा***f.*  
 **madura foot** *or* **disease** *Med.* **कवकपादरोग  
 Madurella** (agenus having septate mycelia) **पटीबिम्बक-प्रजाति  
@@ -512,7 +512,7 @@ magnesii subcarbonas भ्राजातु अनुप्रांगार�
 magnesii sulphas = magnesium sulphate  
 magnesiochromite भ्राजवर्णिज** *m.* (भ्राज-magnesio-, वर्णिज chromite)  
 **magnesio-ferrite = magnoferrite***Mineral.* **भ्राजायसिज** *m.* (-इज for खनिज mineral)  
-**magnesite भ्राजांगिज** *m.*****(भ्राज-for भ्राजातु magnesium, -अंग- for प्रांगारीय carbonate, -इजfor
+**magnesite भ्राजांगिज** *m.*(भ्राज-for भ्राजातु magnesium, -अंग- for प्रांगारीय carbonate, -इजfor
 
 खनिज mineral)
 
@@ -1198,7 +1198,7 @@ making a market विपणि-सर्जन** *n.*
 making-up price शोधन मूल्य, भाव करना  
 Maklot's sunbird** *Aves* **श्यामदेशशीञ्जिरिका  
 Malabar केरल** *m.*  
-**Malabar almond** (*Terminalia catappa*) **तैलफल** *m.*****(B., M.)  
+**Malabar almond** (*Terminalia catappa*) **तैलफल** *m.*(B., M.)  
 **Malabar blackwood** (*Dalbergia latifolia*) **कृष्ण-शिंशपा** *f.*  
 **Malabar cardamom** (*Elettaria cardamomum*) **क्षुद्रैला** *f.* (B.,N., M.)**, छोटी इलायची  
 Malabar catmint** (*Anisomeles malabarica*) **ओष्ठफला** *f.* (Basu)  
@@ -1265,7 +1265,7 @@ malafides कद्भाव, असद्भाव** *m.*
 mala in se** *pl.* **of malum in se  
 mala prohibita** *pl.* **of malum prohibitum  
 Malapterurus = Torpedo  
-malar** *n. Zool.* **गण्डास्थि** *n.*****  
+malar** *n. Zool.* **गण्डास्थि** *n.*  
 **malar bone = zygoma  
 malaria हिमज्वर** *m.* (from Marathi हिंवताप)  
 **Malaria Assistant हिमज्वर-सहायक  
@@ -1392,7 +1392,7 @@ anathema अभिशाप**
 **male dog पुं-श्वा, श्वा** *m.***, कुत्ता  
 male dogwood** (*Cornus mas*) **पुं-श्वकाष्ठ  
 malefaction दुष्कर्म** *n.***, अपराध** *m.*  
-**malefactor** (Lat. *male*'ill, evil'+*facere* 'to do') **दुष्कर्मी अपराधी** (-इन्)*****m.*  
+**malefactor** (Lat. *male*'ill, evil'+*facere* 'to do') **दुष्कर्मी अपराधी** (-इन्)*m.*  
 **male fern पुं-पर्णांग  
 male flower** *Bot.* **पुं-पुष्प  
 male frog पुं-मण्डूक  
@@ -1519,7 +1519,7 @@ mallet or articulated locomotive** *Rly.Eng.* (two or three separate engines, fo
 freight service)**संहित चलित्र**
 
 **malleus 1.***Veter. * (glanders) **अश्वग्रन्थि** *m.***2.= hammer** *Anat.***,** *Zool.* **मुद्गरास्थिका** *f.***, मुद्गर** *m.*  
-**Mallophaga** *Zool.* **पक्षियूका-गण***m.(* गण****order)  
+**Mallophaga** *Zool.* **पक्षियूका-गण***m.(* गणorder)  
 **Mallotus** *Bot.* **काम्पिल्य-प्रजाति  
 Mallotus philippinensis** (monkey facetree) **सामान्य काम्पिल्य** (B., N. *kampilla*, Ben.
 
@@ -1596,7 +1596,7 @@ Basu) **सामान्य घातपत्र**
 
 **Malvastrum tricuspidata = Malvastrum coromandelianum  
 Malvastrum tricuspidatum = Malvastrum coromandelianum  
-malversation कदाचरण** *n.*****(*see* embezzle)  
+malversation कदाचरण** *n.*(*see* embezzle)  
 **Malwa** *Geog.* **मालव** *m.*  
 **mamelon** *Geol.* (Fr. *mamelon* 'nipple')
 
@@ -1693,7 +1693,7 @@ man and wife** *Law* **पति-पत्नी
 man-at-arms सज्ज सैनिक  
 manatee** *Zool.* **करिमकर** *m.*  
 **Manatee australis** *Zool.* **महालंका-करि-मकर  
-Manatidae** *Zool.* **करिमकर-वंश** *m.*****(करिमकर occurs in हलायुध-कोश)  
+Manatidae** *Zool.* **करिमकर-वंश** *m.*(करिमकर occurs in हलायुध-कोश)  
 **Manatus = Trichechus** *Zool.* **करिमकरप्रजाति**  
 
 **Manatus americanus पाताल-करिमकर  
@@ -1769,7 +1769,7 @@ apatite)
 
 **manganate** *Chem.* **लोहकीय***n.*  
 **mangan-blende** *Mineral.* **लोहकान्धन***m.*  
-**mangan-brucite** *Mineral.* **लोभ्रोदिज** *m.*****(लो-for लोहक manganese, भ्रोदिज brucite)  
+**mangan-brucite** *Mineral.* **लोभ्रोदिज** *m.*(लो-for लोहक manganese, भ्रोदिज brucite)  
 **mangan-chlorite लोहरितिज** *m.* (लो-for लोहक manganese, हरितिज chlorite)  
 **mangan-eisen** *Metal.* **लोहकायस***n.*  
 **manganese** *Chem.* **लोहक** *n.*  
@@ -2187,7 +2187,7 @@ manyvaluedness** *Math.* **अनेकार्हता** *f.*
 **map cloth मानचित्र-वस्त्र  
 inap correction office मानचित्र-संशोधनकार्यालय  
 map correction work मानचित्र-संशोधनकार्य  
-maple 1.***Bot.* (used for hardwood floors) **कुट्टिमदारु***m.*****(कुट्टिम floor, दारू wood)**2.**(a colour,
+maple 1.***Bot.* (used for hardwood floors) **कुट्टिमदारु***m.*(कुट्टिम floor, दारू wood)**2.**(a colour,
 
 yellowish red-yellow रक्तातिपीत in hue, of low अव saturation and high प्र brilliance) **प्रावरक्तातिपीत**
 
@@ -2331,7 +2331,7 @@ marginal reference प्रान्त-निर्देश
 marginal requirement सीमान्त-अपेक्षा  
 marginal return सीमान्त-प्रत्याय  
 marginal revenue** *Econ.* **सीमान्त-आगम  
-marginal sea = marine belt = territorial sea** *International *Law****प्रान्तसमुद्र  
+marginal sea = marine belt = territorial sea** *International *Lawप्रान्तसमुद्र  
 marginal sense organs** *Zool.* **प्रान्तसंवेदांग  
 marginal unit** *Econ.* **सीमान्त-एकक  
 marginal utility** *Econ.* **सीमान्त-उपयोगिता  
@@ -2692,7 +2692,7 @@ Martynia annua = Martynia diandra** (devils'-claw, snake's-head, tiger's-claw)**
 martyr हुतात्मा** *m.* (from Marathi)  
 **martyrdom हुतात्मता** *f.*  
 **marvellous efficacy अद्भुत प्रभाव  
-marvel-of-Peru** (*Mirabilis jalapa*) **कृष्णकेलि** *m.*****(B.,N., M., Ben.)  
+marvel-of-Peru** (*Mirabilis jalapa*) **कृष्णकेलि** *m.*(B.,N., M., Ben.)  
 **Marwar** *Geog.* **मरु-देश** *m.***, मरु-धन्व** *n.*  
 **masculine characters** Zool.**पुरुष-लक्षण  
 mask 1.मुखावर्त** *m.* (Mar. मुखवटा, रूपडें)**2.अवगुण्ठ** *m.*  
@@ -2854,7 +2854,7 @@ mast tree 1.चषफल-वृक्ष** *m.***2.**(*Polyalthia longifolia*) *
 **mast-year** (a year in which mast is plentiful— I.F.R.) **चषफल-वर्ष, बहुबीज वर्ष  
 masurium** (eka-manganese) *Chem.***चेष्टातु***m.* (एक-लोहक)  
 **mat कट***m.***, चटाई  
-matador वृषहन्ता** (-तृ)*****m.*  
+matador वृषहन्ता** (-तृ)*m.*  
 **Matar = *η*Pegasi** *Astron.* **सप्तम भद्रक***m.*  
 **match इषीका, दीपेषिका *f.* , दियासलाई  
 match-box इषीका-धान, दियासलाई की डब्बी  
@@ -2862,7 +2862,7 @@ Matches** (Excise Duty) **Act दियासलाई** (उच्छुल्�
 match excise banderol दियासलाई उच्छुल्क पट्टीवेल्ल  
 match factory दियासलाई की निर्माणी  
 match-stick दीपेषिका** *f.***, दियासलाई  
-match truck** *Rly.* **बकानुवाही** (-इन्) *m.*****(बक्र crane)  
+match truck** *Rly.* **बकानुवाही** (-इन्) *m.*(बक्र crane)  
 **matchwood दियासलाई की लकड़ी, दीपेषिका-काष्ठ  
 maté = Paraguay tea  
 mate** *n.* **1.**(comrade) **साथी 2.**(a husband or wife) **जीवनसंगी** (-इन्) *m.*,**जीवनसंगिनी** *f.***3.***Naut.* (a
@@ -3257,7 +3257,7 @@ mayor महापौर** (current in Madhya Pradesh)**, निगमाध्�
 may pronounce उच्चारित कर सकता है  
 maysin** (*mays* 'maize' मर्कक + *-in* -इ )**मर्ककि** *f.*  
 **may take cognizance of संज्ञान कर सकेगा  
-mayweed** (a strong-scented European weed, *Anthemis cotula*) **गन्धमादिनी***f.*****(गन्धमादिनी
+mayweed** (a strong-scented European weed, *Anthemis cotula*) **गन्धमादिनी***f.*(गन्धमादिनी
 
 'strong-scented' ancient word)
 
@@ -4204,7 +4204,7 @@ Megascolecidae** *Zool.***महागण्डूपद-वंश** *m.*(गण
 
 ब्राह्मण and सुश्रुत)
 
-**Megascolecinae** *Zool.* **महागण्डूपदानुवंश** *m.*****(अनुवंश subfamily)  
+**Megascolecinae** *Zool.* **महागण्डूपदानुवंश** *m.*(अनुवंश subfamily)  
 **Megascolex** *Zool.* **महागण्डूपद-प्रजाति  
 megascopic** *adj. Petrog.* (visible to the unaided eye) **अक्षिदृश्य**(short for केवलाक्षिदृश्य)  
 **megasorus** *Bot.* **महाबीधागुच्छ***m.*  
@@ -4259,7 +4259,7 @@ white tree, white tea tree)**सामान्य धवलद्रुम**
 **melan- = melano-  
 melancholia** (a disordered mental condition characterized by mental depression) **विषण्णता***f.*  
 **Melanesia श्यामद्वीपावलि** *f.*  
-**melanin** (Gk. *melanos* **** 'black') *Biochem.* **कालि** *f.*  
+**melanin** (Gk. *melanos*  'black') *Biochem.* **कालि** *f.*  
 **melanism** *Zool.***कृष्णता***f.*  
 **melanite** *Mineral.* **मलिनिज** *m.* (-इज for खनिज mineral)  
 **melano** *Zool.* **कृष्ण  
@@ -4313,7 +4313,7 @@ Melastoma malabathricum = Indian rhododendron** (used in cases of diarrhoea— B
 **अतिसार-फलाञ्जनी**
 
 **Melastoma sanguineum= Melastoma decemfidum  
-Melastomaceae** *Bot.* **अञ्जनी-कुल** *n.*****(from *Memecylon* अञ्जनी-प्रजाति)  
+Melastomaceae** *Bot.* **अञ्जनी-कुल** *n.*(from *Memecylon* अञ्जनी-प्रजाति)  
 **mel depuratum** *Pharm.* **शुद्ध मधु  
 meldoline blue = naphthol blue 3R  
 Meleagridae** *Zool.* **पातालमयूर-वंश** *m.*  
@@ -4421,7 +4421,7 @@ red-yellowपीतातिरक्त in hue, of high प्र brilliance) *
 
 **melonite रूपवंगिज** *m.* ( रूप- for रूपक nickel, वंग- for वंगकेय telluride, -इज for खनिज mineral)  
 **melonlime** *(Citrus medica)* **बीजपूर***m.* (B.,M.)**, बिजौरा  
-melon pumpkin** *(Cucurbita maxima)* **पीतकूष्माण्ड** *n.*****(Basu)**, काशीफल  
+melon pumpkin** *(Cucurbita maxima)* **पीतकूष्माण्ड** *n.*(Basu)**, काशीफल  
 melon tree** *(Carica papaya)* **पिपीतक** *m.***, पपीता  
 Melophus** *Aves* **कालचूड-प्रजाति** (has a black काल crest चूडा)  
 **melo-plasty** *Surg.* **कपोल-घटना** *f.*  
@@ -4445,7 +4445,7 @@ melting point of ice हिम-द्रावांक
 melting point tube द्रावांक-नाल  
 melting pot मूषा** *f.***, कुठाली  
 melting range द्रवण-अभिसीमा, द्रवण-सीमा  
-Melursus** *Zool.* (genus consisting of****the sloth bear) **मन्दऋक्ष-प्रजाति  
+Melursus** *Zool.* (genus consisting ofthe sloth bear) **मन्दऋक्ष-प्रजाति  
 member 1.सदस्य** *m. * (Const.)**2.सभासद्, सभ्य, पुरुष** *m.***3.अंग** *n.***, भाग, अंश** *m.***, एकक, पद** *n.***4.***Engin. *
 
 (of structure) **प्रांग** *n.*, **अवयव***m.*
@@ -4609,7 +4609,7 @@ Menispermum hirsutum = Cocculus hirsutus
 Menispermum laurifolium = Cocculus laurifolius  
 Menispermum monadelphum = Anamirta cocculus  
 Menispermum verrucosum = Tinospora crispa  
-Menispermum villosum** *Linn. **=*****Cocculus hirsutus  
+Menispermum villosum** *Linn. **=*Cocculus hirsutus  
 Menispermum villosum** *Roxb.* **= Pericampylus glaucus  
 Menkalinan = *β*Aurigae** *Astron.* **द्वितीय प्रजापति** *m.*  
 **Menkar =*α* Ceti** *Astron.* **प्रथम तिर्मिगिल** *m.*  
@@ -4620,7 +4620,7 @@ menopause नष्टार्तव** *n.***, रजोनिवृत्त�
 **menorrhea ऋतुस्राव, रजःस्राव** *m.*  
 **Menotyphla** *Zool.* (Gk.*menein* ‘remain'+*typhlos* 'blind'— in ref. to the caecum. Insectivores with
 
-a caecum उण्डुक) **** **सोण्डुकाः** *m.pl.,* **सोण्डुक-गण** *m.*( गण order)
+a caecum उण्डुक)  **सोण्डुकाः** *m.pl.,* **सोण्डुक-गण** *m.*( गण order)
 
 **mens rea** (a guilty mind) **अपरधी मन,पापी मन  
 menstrual** *adj.* **ऋतुस्राव-  
@@ -5187,13 +5187,13 @@ meso- मध्य-
 meso-blast** *Embryol., Zool.* **मध्यस्तरकृत्***m.*  
 **mesobranchial** *adj.* **मध्य-क्लोमीय  
 mesocaecum** *Anat.* **उण्डुकयुज** *m.*  
-**mesocardium** *Embryol.*****(connecting the embryonic heart with the body wall and intestine)
+**mesocardium** *Embryol.*(connecting the embryonic heart with the body wall and intestine)
 
 **हृद्युज**
 
 *m.*
 
-**mesocarp** (fruit)*****Bot.* **मध्यभित्ति** *f.*  
+**mesocarp** (fruit)*Bot.* **मध्यभित्ति** *f.*  
 **mesocerebrum = deutocerebrum  
 mesochiton***Bot.* **मध्यावर** *m.* (*see* exochiton)  
 **mesocoele** *Anat.* **मध्यगुहा** *f.*  
@@ -5250,7 +5250,7 @@ mesophragm** *Zool.* (of a crustacean)**मध्यवर्ध** *m.*
 **mesophragma = Mband *or* disc = line of Hensen** *Zool.* **सितरेखा***f.*  
 **mesophyll** *Bot.* **मध्यपर्णोति ***f.*  
 **mesophyte** *Phytogeog.* **मध्योद्भिद् ***f.*  
-**mesophytic** *adj. Plant Ecol. * (demanding a habitat which is neither very dry nor very wet) ****
+**mesophytic** *adj. Plant Ecol. * (demanding a habitat which is neither very dry nor very wet) 
 
 **मध्योद्भिद्,**
 
@@ -5277,7 +5277,7 @@ mesorhine = mesorrhine
 mesorhinian = mesorrhinian  
 mesorhinism = mesorrhinism  
 mesorhiny = mesorrhiny  
-mesorrhine 1.***adj.,********n.* **मध्यनास2.***adj.* (situated between nostrils)**नासान्तःस्थ  
+mesorrhine 1.***adj.,n.* **मध्यनास2.***adj.* (situated between nostrils)**नासान्तःस्थ  
 mesorrhinian** *adj. Anthropom.*(having a somewhat broad but long nose, or an intermediate
 
 nasal index) **मध्यनास**
@@ -5454,7 +5454,7 @@ meta-ditolyl** *Chem.* **सम-द्विविरारल
 metad rat = soft-furred field-rat** *Mamm.* **मृदु-लोम क्षेत्र मूषक  
 metagastrula** *Embryol.* (any form of gastrulaस्यूतिभ्रूण which is modified)**विस्यूतिभ्रूण** *n.*  
 **metagenesis** *Biol. * (alternation of generations)**एकान्तर-जनन,** **एकान्वेक-**ज**नन** *n.*  
-**Metagonimus** (acetabulum चूष****displaced to one side) **पार्श्वचूष-प्रजाति  
+**Metagonimus** (acetabulum चूषdisplaced to one side) **पार्श्वचूष-प्रजाति  
 Metagonimus ovatus *or* yokogawai अण्डाकार पार्श्वचूष  
 metaigneous rock** *Geol.* **रूपान्तराग्नेय शैल  
 metal 1.धातु** *m.***2.= road metal रथ्याश्म, रोड़ी, गिट्टी**
@@ -5668,7 +5668,7 @@ land is divided in definite proportions— frequently in equal shares between th
 meteoric iron** *Mineral.* **उल्कायस** *n.*  
 **meteorite = aerolite** (a stony or metallic body that has fallen to the earth from outer space)
 
-**उल्कापिण्ड** *m.*****(उल्काश्म, उल्काधातु)
+**उल्कापिण्ड** *m.*(उल्काश्म, उल्काधातु)
 
 **meteorologic, meteorological** *adj.***ऋतुवैज्ञानिक, ऋतु-, ऋतव्य  
 meteorological broadcasts ऋतव्यप्रसार  
@@ -6687,7 +6687,7 @@ millepore** *Zool.* **शतरन्ध्री** (-इन्) *m.*
 *Dist.* **violarite रूपशिज**
 
 **miller's-thumb** *Zool.* (small fresh-water fishes) **अंगुष्ठिका***f.*  
-**millet 1.प्रकंगु, वज्रादि** *n.*****(includes बाजरा, कोदो, कुटकी, जवारी, etc.)**2.***see* **common millet  
+**millet 1.प्रकंगु, वज्रादि** *n.*(includes बाजरा, कोदो, कुटकी, जवारी, etc.)**2.***see* **common millet  
 millet oil प्रकंगु-तैल  
 Millettia** *Bot.* **हरनारी-प्रजाति  
 Millettia atropurpurea= Adinobotrys atropurpureus  
@@ -7231,7 +7231,7 @@ minutes** (of a meeting) **वृत्त** *n.*
 minutes of the meeting अधिवेशन-वृत्त  
 minutes of the proceedings कार्यवाही-वृत्त  
 Minyas** *Zool.* **पिटक-प्रजाति** (*see* PH. I. 189 fig.155)  
-**Miocene** *Geol.* **मध्यनूतन-युग** *n.*****(*see* Eocene)  
+**Miocene** *Geol.* **मध्यनूतन-युग** *n.*(*see* Eocene)  
 **Miocene limestone मध्यनूतनयुग-चूर्ण-प्रस्तर  
 Mioclaeninae** (have tritubercular teeth— Romer p.567) **त्रिकर्णिकदन्तानु-वंश** *m.*  
 **Mioclaenus** *Paleontol.* **त्रिकर्णिकदन्त-प्रजाति  
@@ -7349,7 +7349,7 @@ incendiary दाहक
 
 **mischief-maker** *Law* (I.P.C.) **कुचेष्टाकारी** (-इन्) *m.*  
 **mischief-monger** *Law * (I.P.C.) **कुचेष्टक, कुचेष्टा-शील** *m.*  
-**mischievous** *adj.******Law * (I.P.C.) **कुचेष्ट, कुचेष्टाकारी** (-इन्)  
+**mischievous** *adj.**Law * (I.P.C.) **कुचेष्ट, कुचेष्टाकारी** (-इन्)  
 **mischievous propensity** *Law* **कुचेष्टा-प्रवृत्ति  
 misch metal** *Chem.* (used for pyrophoric alloys) **अग्निमिश्रातु** *m.*  
 **miscibility मिश्र्यता** *f.*  
@@ -7853,7 +7853,7 @@ modulate** *vb. Elec***.** (to change the frequency, as of electric oscillations
 themothers of another frequency) **आपरिवर्तन** (आरोप imposition + परिवर्तन change)
 
 **modulating frequency** *Phys.* **आपरिवर्ती वारंवारता  
-modulator 1.= synchronizer** *Radar* **संकालक** *m.**2*****.***Phys.* **आपरिवर्तक** *m.*  
+modulator 1.= synchronizer** *Radar* **संकालक** *m.**2*.***Phys.* **आपरिवर्तक** *m.*  
 **modulus 1.***Math.* **मापांक** *m.***2.***Statistics* (a real positive quantity) **धनक** *m.* (ध*μ*)  
 **modulus of a section = section modulus  
 modulus of elasticity** *Phys.* **प्रत्यास्थता-मापांक  
@@ -8070,7 +8070,7 @@ molybdomenite** *Mineral.* (națive lead selenite) **सीसमेचिज** 
 
 selenite, -इज for खनिज mineral)
 
-**molybdophyllite** *Mineral.* (a hydrous lead magnesium silicate) **सीभ्रासैकिज** *m.*****(सी- for
+**molybdophyllite** *Mineral.* (a hydrous lead magnesium silicate) **सीभ्रासैकिज** *m.*(सी- for
 
 सीस lead, भ्रा- for भ्राजातु magnesium, सैक- for सैकतीय silicate, -इज for खनिज mineral)
 
@@ -8203,7 +8203,7 @@ monetary transactions = pecuniary transactions अर्थ-व्यवहा�
 monetary unit** *Econ.* **मौद्रिक एकक  
 monetize** *vb.* **मुद्रीकरण** (*Cf.* demonetize विमुद्रीकरण)  
 **money** *adj.* **= monetary  
-money 1.***Econ.* **मुद्रा, अर्थमुद्रा** *f.*****(in contradistinction to नाममुद्रा 'seal')
+money 1.***Econ.* **मुद्रा, अर्थमुद्रा** *f.*(in contradistinction to नाममुद्रा 'seal')
 
 **wealth** *Econ.* **धन  
 2.धन, द्रव्य** *n.,* **राशि** *m.*
@@ -9023,7 +9023,7 @@ mosquito 1.मशक** *m.,* **मच्छर 2.***Mil.* (versatile British air
 mosquito control unit मशक-नियन्त्रण-दल  
 mosquito curtain मसहरी  
 mosquito larva मशक-डिम्भ, मच्छर की इल्ली  
-mosquito net मशहरी ** *f.****,* मसहरी  
+mosquito net मशहरी ** *f.,* मसहरी  
 mosquito netting मशहरी-जाली, मसहरी की जाली  
 mosquito oil मशक-तैल  
 mosquito plant** (of South Africa) **= Ocimum viride  
@@ -9362,7 +9362,7 @@ mouth blowpipe मुख-धमनाड
 mouth of a river** *Geog.* **नदी-मुख** (ancient word)  
 **mouth papilla** *Zool.* **मुखांकुर** *m.*  
 **mouth-part** *Zool.* **मुख-भाग  
-mouthpiece मुख-भाग ** *m.****,* मुखांग** *n.*  
+mouthpiece मुख-भाग ** *m.,* मुखांग** *n.*  
 **mouth slit** *Zool.* **मुख-छिद्र** *n.*  
 **movable** *adj.* **चल  
 movable article चल वस्तु  
@@ -9520,7 +9520,7 @@ mucilaginous bark** *Bot.* **निर्यासोदीय वल्क
 mucilaginous cell** *Bot.* **निर्यासोद-कोशा  
 mucilaginous wall** *Bot.* **निर्यासोदीय भित्ति  
 mucin** (fr. mucus) *Biochem.* **श्लेष्मि***ƒ.*  
-**muck प्रजीर्णक** *n.*****(in muck the plant tissue has lost its identity, while in peat जीर्णक the
+**muck प्रजीर्णक** *n.*(in muck the plant tissue has lost its identity, while in peat जीर्णक the
 
 stem and leaf structure can still be detected)
 
@@ -9968,7 +9968,7 @@ perceived) **पेशीगति-बोध**
 
 **muscle sugar** (inositol) **पेशी-शर्करा  
 muscone** *Chem.* (aketone, the chief odoriferous constituent of musk) **कस्तूरीया** *f.*  
-**muscovite 1.**(common mica) **अभ्रिज** *m**.*******(-इज for खनिज mineral)**2.**(a colour, yellowish green
+**muscovite 1.**(common mica) **अभ्रिज** *m**.***(-इज for खनिज mineral)**2.**(a colour, yellowish green
 
 हर्यापीत in hue, of low अव saturationand low नि brilliance) **न्यवहर्यापीत**
 
@@ -10308,7 +10308,7 @@ Mylitta lapidescens** (a fungus, recommended in China in epilepsy— Basu)
 
 **सामान्य**
 
-****
+
 
 **अपस्मारकवक**
 

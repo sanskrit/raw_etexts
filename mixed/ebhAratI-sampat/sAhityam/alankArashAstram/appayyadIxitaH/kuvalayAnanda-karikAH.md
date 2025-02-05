@@ -680,7 +680,7 @@ Examples.
 
 \_\_\_\_\_\_\_
 
-**अतर्कितोपनतं चित्रीकरणम् उच्यते**—****Unintentional and strange coincidences are referred to here.
+**अतर्कितोपनतं चित्रीकरणम् उच्यते**—Unintentional and strange coincidences are referred to here.
 
 **तत् कथम्**—
 
@@ -1125,7 +1125,7 @@ Example of Doubt.
 
 **6. कैतवापह्नुतिः**    Do.   of the deceitful.
 
-**1. शुद्धापह्नुतिः—****Concealment pure.**
+**1. शुद्धापह्नुतिः—Concealment pure.**
 
 DEF. **शुद्धापह्नुतिरन्यस्यारोपार्थो धर्मनिह्नवः।**
 
@@ -1998,9 +1998,9 @@ Example of No. 2.
 
  Here, the speaker a lady pining under separation sent her maid-servant as a messenger to her lover and on seeing her returning with marks, in her body, of her having toyed with her (lady's) lord, censures her under pretext of Praise saying that she (lady) was saved by her (the maid servant) from the injury by her lord's teeth and nails; whereas in fact she was angry when she saw her servant coming single without her lord and was more angry when she observed on her body the marks of sexual intercourse with her own lord. Hence a censure resulted in theapparent praise.
 
-* N.B.—*This is not **अप्रस्तुतप्रशंसा****(XXVII)**, for, in it, there is no strikingness consisting either in censure or praise.
+* N.B.—*This is not **अप्रस्तुतप्रशंसा(XXVII)**, for, in it, there is no strikingness consisting either in censure or praise.
 
-**XXXI.****व्याजनिन्दा**—****Artful Censure.
+**XXXI.व्याजनिन्दा**—Artful Censure.
 
 DEF. **निंदाया निंदया व्यक्तिर्व्याजनिंदेति गीयते।**
 
@@ -2657,7 +2657,7 @@ at home for he *being a boy* could not bear the terrible toils of a battle field
 
 XLVI\. **कारणमाला—** Garland of Causes.
 
-**** DEF. **गुंफःकारणमाला स्याद्यथाप्राक्प्रांतकारणैः।**
+ DEF. **गुंफःकारणमाला स्याद्यथाप्राक्प्रांतकारणैः।**
 
 ** **Ex.**नयेन श्रीःश्रिया त्यागस्त्यागेन विपुलं यशः॥**
 
@@ -2811,7 +2811,7 @@ Ex
 
  Ex. O king! Conquer, gratify, destroy (thy) foe, friend and the calamity respectively.
 
- Here, a series of objects **शत्रुम्, मित्रम्** and **विपत्तिम्** is respectively connected with **जय,****रञ्जय**and **भञ्जय** in their due order.
+ Here, a series of objects **शत्रुम्, मित्रम्** and **विपत्तिम्** is respectively connected with **जय,रञ्जय**and **भञ्जय** in their due order.
 
 
 

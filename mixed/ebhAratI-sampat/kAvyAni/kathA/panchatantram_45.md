@@ -1337,7 +1337,7 @@ loka 15, Upajâti.
 
  P.5,1.13— **अस्ति**'(Thus) it is' must be taken as separate sentence, and as the immediate answers to the question **कथमेतत्**. Professor Benfey combines it with **कस्मिंश्चित्** , and takes it in the sense of 'which soever it may be,' For other examples of this use of **अस्ति**see p.10,1.1; p.16,1. 6; p.31,1.5; p.34,1.17; p.36 1.20; p.57,l.18; and the Petersburg Dict.,s.v.,H.,**अस्.** Compare also Tantra I., note to p. 72, 1.2.
 
- P.5,1.14. —****
+ P.5,1.14. —
 
 **दायादै**: 'kinsmen.' **दायमादत्त इति दायादः** lit. 'heir' is used also to denote all the relations of a person who are otherwise called Sagotra-sapindas, *i. e*., descendants, ascendants, and collaterals in the male lines within seven degrees, probably because, under the old law, these persons alone inherited. Compare also Yâjñavalkya II., 263 with the remarks of Vijnâneśvara on the passage.
 
@@ -1345,7 +1345,7 @@ loka 15, Upajâti.
 
 Metre of śloka 16, Âryâ.
 
- P.6,1.2.—****
+ P.6,1.2.—
 
 **एष** 'There (is) somebody (who).'
 
@@ -1455,7 +1455,7 @@ these two words describe the Jaina and Bauddha ascetics—
 
 . **तेन** 'for that reason.'
 
- P.13,1.14.—****
+ P.13,1.14.—
 
 **राजपुत्रा**'warriors (Râjputs).'
 
@@ -1463,7 +1463,7 @@ these two words describe the Jaina and Bauddha ascetics—
 
 **चन्द्रार्थः** instead of the more common **अर्धचन्द्रः** occurs also in epic poetry..—
 
-अर्धचन्द्रं दा****'
+अर्धचन्द्रं दा'
 
 to seize by the neck (and turn out).'
 
@@ -1482,7 +1482,7 @@ probably caused by the analogy of **स्वेच्छया.**
 
  P.18,1.5.—The connexion of p.17,1.17.—p.18,15, seems to be this. The carpenter at first doubts whether it will be proper to try his wife. He quotes ślokas 49 and 50 against the undertaking. But śloka 51 reminds him of the wickedness of women in general, and the remembrance of the gossip which has come to his ears (p.18,1.3) confirms him in his first resolution.
 
- P.18,1.7.— **व्रह्माण्ड ‘**the egg of Brahman, *i.e*., the whole world,'****see Manu I., 9, 12-13.
+ P.18,1.7.— **व्रह्माण्ड ‘**the egg of Brahman, *i.e*., the whole world,'see Manu I., 9, 12-13.
 
  P.18,1.12. —Metre of śloka 53, Áryâ.
 
@@ -1518,7 +1518,7 @@ P. 21, 1. 16.— After **मुञ्च मुञ्च** a must be under- stoo
 
  P. 22,1.4.— **संचर्**'to infect.'
 
- P.23,1.8.—**तैर्गुणैः।****विवाहात्पूर्वं रजःस्रवणजनितैरधर्माख्यैरिति,** i.e., 'through the demerit produced thereby.'
+ P.23,1.8.—**तैर्गुणैः।विवाहात्पूर्वं रजःस्रवणजनितैरधर्माख्यैरिति,** i.e., 'through the demerit produced thereby.'
 
  P.23,1.18.—Metre of śloka 71, Upajati.
 
@@ -1721,7 +1721,7 @@ Kubera.'
 
 Śloka 34 belongs, according to Subhâshitâvali No. 498, to B-haṭṭodbhaṭa, the court poet of Yayârîḍa of Kaśmîṛ.
 
- P.48,1.9. —****
+ P.48,1.9. —
 
 **कन्यकुब्ज**‘Kanauj.'
 
@@ -1749,7 +1749,7 @@ The verse is from the Mahâbhârata III. 313, 17 and runs thus : **तर्क�
 
  P.48,1.26. —
 
-The whole śloka runs thus:—****
+The whole śloka runs thus:—
 
 **क्षणं चित्तंक्षणं वित्तंक्षणं जीवति मानवः ।** **यमस्य करुणा नास्ति धर्मस्य त्वरिता गतिः ॥**
 
@@ -1901,7 +1901,7 @@ Uśanas or Sukra was, according to Hindu mythology, the teacher of the Daityas, 
 
  P.64,1.2.—
 
-**मधुपुर्****
+**मधुपुर्
 
 *i.e.*, Mathura, the modern Muttra.
 

@@ -5162,7 +5162,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 
 **भक्त सप्तरत्न—**
 
-****सात भक्तोंकी मनोहर गाथाएँ, ७ चित्र,
+सात भक्तोंकी मनोहर गाथाएँ, ७ चित्र,
 
 **भक्त - कुसुम** **—**
 

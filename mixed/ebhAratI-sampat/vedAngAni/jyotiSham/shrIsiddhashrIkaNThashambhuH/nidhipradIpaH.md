@@ -60,7 +60,7 @@ TRIVANDRUM: PRINTED BY THE SUPERINTENDENT, GOVERNMENT PRESS, 1930.
 
 
 
-occur in the 15th UpadeŚa of the Mantrakhaṇḍa of the Rasaratnākara by Śrī****Devīputra Nityanātha, while the introductory verse of the latter work,
+occur in the 15th UpadeŚa of the Mantrakhaṇḍa of the Rasaratnākara by ŚrīDevīputra Nityanātha, while the introductory verse of the latter work,
 
 **"यद्यदुक्तं हि शास्त्रेषु तत्तत्सर्वं विलोकितम्।  
 शाम्भवे यामिले शाक्ते कुलकौले च डामरे॥**

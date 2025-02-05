@@ -155,7 +155,7 @@ Trivandrum,
 
 **आर्यभटीयं**
 
-****
+
 
 गार्ग्यकेरलनीलकण्ठसोमसुत्वविरचितेन
 
@@ -1574,7 +1574,7 @@ LIST OF SANSKRIT PUBLICATIONS
 
 FOR SALE.
 
-**भक्तिमञ्जरी****Bhaktimanjari** (Stuti) by H.H. Svāti śri Aāma Varma Mahāraja. 100
+**भक्तिमञ्जरीBhaktimanjari** (Stuti) by H.H. Svāti śri Aāma Varma Mahāraja. 100
 
 **स्यानन्दूरपुरवर्णनप्रबन्धः** **Syanandurapuravarnana prabandha** (Kāvya) by H. H. Svāti Ś
 
@@ -1592,13 +1592,13 @@ ukamuni (out of stock). 020
 
 No. 3-**नलाभ्युदयः** **Nalabhyudaya** (Kāvya) by Vāmana Bhatta Bāna (secondedition). 0 4 0
 
-No. 4- **शिवलीलार्णव****Sivalilarnava** (Kāvya) by Nīlakantha Dīksita (out of stock). 200
+No. 4- **शिवलीलार्णवSivalilarnava** (Kāvya) by Nīlakantha Dīksita (out of stock). 200
 
-No. 5-**व्यक्तिविवेक****Vyaktiviveka** (Alaṅkāra
+No. 5-**व्यक्तिविवेकVyaktiviveka** (Alaṅkāra
 
 ) by Mahima-Bhaṭṭa with commentary (out of stock). 2 12 0
 
-No. 6-**दुर्घटवृत्तिः****Durghatayrtti** (Vyākaraṇa) by Ś
+No. 6-**दुर्घटवृत्तिःDurghatayrtti** (Vyākaraṇa) by Ś
 
 aranadeva (out of stock), 20 0
 
@@ -1646,7 +1646,7 @@ No. 32**कुमारसंभवः Kumarasambhava** (Kavya), by Kalidasa wit
 No. 33- **वाररुचसंग्रहःVararucasangraha** (Vyakarana) with the commentary Dipaprabha of Nārāyaṇa (out of stock).08 0  
 No. 34- **मणिदर्पणःManidarpana** (Nyaya) by Rajacuḍāmaṇimakhin. 1 4 0  
 No. 35- **मणिसारःManisara** (Nyaya) by Gopinatha. 1 8 0  
-No. 36-**कुमारसंभवः****Kumarasambhava** (Kavya) by Kalidasa with the two comment- aries, Prakasika of Arunagirinatha and Vivarana of Narayana Pandita (Part III, 6th, 7th and 8th Sargas). 3 0 0  
+No. 36-**कुमारसंभवःKumarasambhava** (Kavya) by Kalidasa with the two comment- aries, Prakasika of Arunagirinatha and Vivarana of Narayana Pandita (Part III, 6th, 7th and 8th Sargas). 3 0 0  
 No. 37-**आशौचाष्टकम् Asaucastaka** (Smrti) by Vararuci with commentary. 0 4 0  
 No. 38- **नामलिङ्गानुशासनम् Namalinganusasana** (Kosa) by Amarasimha with the com- mentary Tfkäsarvasva of Vandya- ghatiya Sarvananda (Part I, 1stKanda). 2 0 0
 

@@ -429,7 +429,7 @@ made, to make the book more interesting and useful to the students. With this en
 **यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः।  
 यस्यार्थाः स पुमाँल्लोके यस्यार्थाःस हि पण्डितः॥७॥**
 
-**** **अन्तरम्‌** Difference. **क्षणविध्वंसिन्‌** Perishing in a moment. **कल्पान्तः**The destructionot the universe. **निज** One’s own. परः A stranger. **लघुचेतसाम्‌** Of lowminded persons. **उदारचरितानां** Of noble persons. **दुर्भिक्षं** A famine. **राष्ट्रविप्लवः**A change in the kingdom. **तिष्ठति** Stands by, helps. **परोक्षे** In one’s absence. **कार्यहन्तृ**One who destroys another’s work. **प्रत्यक्षे** Inone’s presence. **विषकुम्भः** A pot containing poison. **पयोमुखम्‌** With milk at the
+ **अन्तरम्‌** Difference. **क्षणविध्वंसिन्‌** Perishing in a moment. **कल्पान्तः**The destructionot the universe. **निज** One’s own. परः A stranger. **लघुचेतसाम्‌** Of lowminded persons. **उदारचरितानां** Of noble persons. **दुर्भिक्षं** A famine. **राष्ट्रविप्लवः**A change in the kingdom. **तिष्ठति** Stands by, helps. **परोक्षे** In one’s absence. **कार्यहन्तृ**One who destroys another’s work. **प्रत्यक्षे** Inone’s presence. **विषकुम्भः** A pot containing poison. **पयोमुखम्‌** With milk at the
 
 
 
@@ -683,13 +683,13 @@ name of **द्रौपदी. विनिश्चित्य** Having reso
 
 (2) Explain the peculiarity of :— **स्म, व्यतिष्टत; कस्यापि।**
 
-(3) *(a)* **विवेश****=****अविशत्‌** (entered); **जगदे=****अगद्यत** (was spoken); **अवादीत्‌=अवदत्‌** (spoke); **ददंश=अदशत्‌** (bit ); **उत्तस्थौ=उद्तिष्ठत्‌** (got up).
+(3) *(a)* **विवेश=अविशत्‌** (entered); **जगदे=अगद्यत** (was spoken); **अवादीत्‌=अवदत्‌** (spoke); **ददंश=अदशत्‌** (bit ); **उत्तस्थौ=उद्तिष्ठत्‌** (got up).
 
-   *(b)* Explain the forms:- **उ****पेत्य, ब्रज, देहि, आह, आस्स्व,सखे.**
+   *(b)* Explain the forms:- **उपेत्य, ब्रज, देहि, आह, आस्स्व,सखे.**
 
 (4) State the moral of this lesson in Sanskrit in a single sentence.
 
-**शयनं-शयनीयं-शस्या** A bed. **अलक्षित** Unnoticed. **यूका**A louse. **मत्कुणः** A bug. **पवनेरित** Wafted by the wind. **ब्रज****(ब्रजति)** To go **अपीतपूवेम्‌** Not drunk before. **असृज्**Blood. **प्रसीद** Be pleased. **वस्तु** Tolive. **अकाले**At an improper time. **नक्तं** At night. **आशु**Immediately. **विचित्य** Having searched. **व्यपायत** Was killed.
+**शयनं-शयनीयं-शस्या** A bed. **अलक्षित** Unnoticed. **यूका**A louse. **मत्कुणः** A bug. **पवनेरित** Wafted by the wind. **ब्रज(ब्रजति)** To go **अपीतपूवेम्‌** Not drunk before. **असृज्**Blood. **प्रसीद** Be pleased. **वस्तु** Tolive. **अकाले**At an improper time. **नक्तं** At night. **आशु**Immediately. **विचित्य** Having searched. **व्यपायत** Was killed.
 
 **१६. सर्वदमनः सिंहशिशुना सह क्रीडति।**
 
@@ -834,7 +834,7 @@ name of **द्रौपदी. विनिश्चित्य** Having reso
 
 ** लव—**(विहस्य) आर्य, जामदग्न्यःपराभूत इति किमर्थं स्तुयतेऽसौ। श्रुणु, द्विजानां वीर्यं वाण्यामेवास्ति। किंतु क्षत्रियाणां वीर्यं बाह्वोरेव वर्तते। शस्त्रं धारयन्‌ ब्राह्मणो युद्धे पराजित इति कां स्तुतिमर्हति स नृपः।
 
-** चन्द्र****०****—**आर्यसुमन्त्र, कोऽयं बालो यो भृगुनन्दनं वीरं न गणयति। न हि जानाति तातचरितमपि।
+** चन्द्र०—**आर्यसुमन्त्र, कोऽयं बालो यो भृगुनन्दनं वीरं न गणयति। न हि जानाति तातचरितमपि।
 
 ** लवः—** को हि रघुपतेश्चरितं महिमानं च न जानाति। ताटकाया वधं कृत्वामहती कीर्तिर्येन लब्धा। कथं तेन खरो नाम राक्षसो निषूदितस्तत्प्रसिद्धमेव। वालिवधे यत्कौशलं तेन दर्शितंतदपि प्रख्यातमस्ति लोके।
 
@@ -1630,7 +1630,7 @@ Should be avoided. **मन०** One thing in mind, another in speech and a thir
 
  **शकटिका** A cart. **अनलङ्कृत** Not adorned with ornaments. **अनु—कृ** To imitate. **प्रतिवेशिकः** A neighbour. **मृत्तिका** An earth. **सं—तप्‌** To be distressed. **जातः** A son. **गुणनिर्जित** Won over by merits. **अलीकं** A lie. **मुग्ध** Innocent. **अवतार्य** Taking off.
 
-**———****—**
+**————**
 
 **१०. शिशुपालवधः।**
 

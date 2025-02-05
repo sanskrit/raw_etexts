@@ -159,7 +159,7 @@ Drishtaketu, Chekitâna and the valiant Kingof Kâshi Purujit and Kuntibhoja, an
 **युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।  
 सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः॥६॥**
 
-****Yudhamanyu the strong, and Uttamaujas thebrave; Saubhadra[^5]and the Draupadeyas[^6],all ofgreatcars. (6)
+Yudhamanyu the strong, and Uttamaujas thebrave; Saubhadra[^5]and the Draupadeyas[^6],all ofgreatcars. (6)
 
 [^5]: "Abhimanyu, the son of Subhadra and Arjuna,"
 
@@ -168,7 +168,7 @@ Drishtaketu, Chekitâna and the valiant Kingof Kâshi Purujit and Kuntibhoja, an
 **अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।  
 नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते॥७॥**
 
-****Know further all those who are our chiefs, Obest of the twice-born, tho loaders of my armly ;these Iname to thee for thy information: (7)
+Know further all those who are our chiefs, Obest of the twice-born, tho loaders of my armly ;these Iname to thee for thy information: (7)
 
 **भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।  
 अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च॥८॥**
@@ -253,7 +253,7 @@ Drishtaketu, Chekitâna and the valiant Kingof Kâshi Purujit and Kuntibhoja, an
 **काश्यश्च परमेष्वासः शिखण्डी च महारथः।  
 धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः॥१७॥**
 
-****And Kâshya[^16],of the great bow and Shikhandî, the mighty car-warrior, Drishtadyumnaand Virâta and Satyaki, the unconquered.(17)
+And Kâshya[^16],of the great bow and Shikhandî, the mighty car-warrior, Drishtadyumnaand Virâta and Satyaki, the unconquered.(17)
 
 [^16]: "The King of Kâshi, the modern Benares,"
 
@@ -396,7 +396,7 @@ mother's brothers, fathers-in-law, grandsons, brothers-in-law, and other relativ
 **निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन।  
 पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः॥३६॥**
 
-****Slaying these sons of Dhritarâshtra, what pleasure can be ours, O [Janârdana](#)?Killing thesedesperadoes, sin will but take hold of us. (36)
+Slaying these sons of Dhritarâshtra, what pleasure can be ours, O [Janârdana](#)?Killing thesedesperadoes, sin will but take hold of us. (36)
 
 **तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्।  
 स्वजनं हि कथं हत्वा सुखिनः स्याम माधव॥३७॥**
@@ -489,7 +489,7 @@ Sanjaya said :
 श्रीकृष्णार्जुनसंवादेऽर्जुनविषादयोगो नाम  
 प्रथमोऽध्यायः।**
 
-****Thus in the glorious Upanishads of the BHAGAVADGITA, the science of the ETERNAL, the scripture ofYoga, the dialogue between Shri Krishna and Arjuna,the first discourse, entitled :
+Thus in the glorious Upanishads of the BHAGAVADGITA, the science of the ETERNAL, the scripture ofYoga, the dialogue between Shri Krishna and Arjuna,the first discourse, entitled :
 
 THE DESPONDENCY OF ARJUNA.
 
@@ -555,14 +555,14 @@ Arjuna said :
 यानेव हत्वा न जिजीविषामः  
 तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः॥६॥**
 
-****Nor know I which for us be the better, thatwe conquer them or they conquer us-these,whom having slain we should not care to live,even these arrayed against us, the sons of Dhrita-râshtra. (6)
+Nor know I which for us be the better, thatwe conquer them or they conquer us-these,whom having slain we should not care to live,even these arrayed against us, the sons of Dhrita-râshtra. (6)
 
 **कार्पण्यदोषोपहतस्वभावः  
 पृच्छामि त्वां धर्मसम्मूढचेताः।**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** 1.More often translated, “desirous of wealth,” butthe word is used elsewhere for well-wisher, "desirousof good," and the term is more in accordance with thetone of Arjuna's remarks.
+ 1.More often translated, “desirous of wealth,” butthe word is used elsewhere for well-wisher, "desirousof good," and the term is more in accordance with thetone of Arjuna's remarks.
 
 
 
@@ -619,7 +619,7 @@ ed for, yet speakest words of wisdom[^31].\* The wisegrieve neither for the livi
 **देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।  
 तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति॥१३॥**
 
-****As the dweller in the body experienceth in thebody childhood, youth, old age, so passeth ho onto another body; the steadfast one grieveth notthereat.(13)
+As the dweller in the body experienceth in thebody childhood, youth, old age, so passeth ho onto another body; the steadfast one grieveth notthereat.(13)
 
 **मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।  
 आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥१४॥**
@@ -631,7 +631,7 @@ ed for, yet speakest words of wisdom[^31].\* The wisegrieve neither for the livi
 **यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ।  
 समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते॥१५॥**
 
-****The man whom these torment not, O chief ofmen, balanced in pain and pleasure, steadfast, heis fitted for immortality.(15)
+The man whom these torment not, O chief ofmen, balanced in pain and pleasure, steadfast, heis fitted for immortality.(15)
 
 **नासतो विद्यते भावो नाभावो विद्यते सतः।  
 उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः॥१६॥**

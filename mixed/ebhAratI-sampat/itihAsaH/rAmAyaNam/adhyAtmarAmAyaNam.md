@@ -94,7 +94,7 @@ I
 
 The text, its commentaries and the probable date of composition.
 
- The *Adhyātma-Rāmāyana* is being presented for the first time in a critical edition. The text did not receive that care and attention from its previous editors which it deserved The work, though late, tries to popularise the main principles of the Vedānta philosophy[^1]"), and, at the same time, probably seeks to supply a canonical basis for the Ramaite creed The entrie work was probably commented on only thrice by Rāmavarman, Narottamadāsa and Gopāla Cakravarti[^2]****The Rāmagītā, which forms a sort of nucleus of the whole work, was separately commented on at least sixtimes Aufiecht in his *Catalogus Catalogorum*mentions—
+ The *Adhyātma-Rāmāyana* is being presented for the first time in a critical edition. The text did not receive that care and attention from its previous editors which it deserved The work, though late, tries to popularise the main principles of the Vedānta philosophy[^1]"), and, at the same time, probably seeks to supply a canonical basis for the Ramaite creed The entrie work was probably commented on only thrice by Rāmavarman, Narottamadāsa and Gopāla Cakravarti[^2]The Rāmagītā, which forms a sort of nucleus of the whole work, was separately commented on at least sixtimes Aufiecht in his *Catalogus Catalogorum*mentions—
 
 [^1]: "The text is expressly called Vedāntasamgraha, 'वेदान्त-सग्रहम' (I1 115
 
@@ -130,7 +130,7 @@ The text, its commentaries and the probable date of composition.
 
 ——————————————————————————————————
 
-****
+
 
 **I.** This Tantric character runs all through the work The colophon of each canto runs as उमामहेश्वरसवदि—, besides in the Uttarakānda (iv24) it is said that Rāma in order to instruct the common people established innumerable Śivalingas all over the world
 
@@ -337,7 +337,7 @@ Rama and Sita
 
 
 
-\(3\) The Parātman (Rāma) did all these acts in the guise of man, following the ways of the world of men but he still remains changeless without becoming, doing nothing in calculation[^9]****\[I 3 73\]
+\(3\) The Parātman (Rāma) did all these acts in the guise of man, following the ways of the world of men but he still remains changeless without becoming, doing nothing in calculation[^9]\[I 3 73\]
 
 [^9]: "एव परात्मा मनुजावतारी मनुष्यलोकाननुसृत्य सर्वान्। चक्रेऽविकारौपरिणामहीनो विचार्यमाणो न करोति किञ्चित॥७३॥"
 
@@ -416,7 +416,7 @@ hartı, hōranu and hārna) under the influence of māyā, Rāma, though you are
 
 
 
-free from any movement. Just as there is foam in water, and smoke in fire so also there is māyāin you which covers you and creates the objects. The world does not know you as long as it is under the influence of māyā[^14]^(**1**)****\[I 7 27-29\]
+free from any movement. Just as there is foam in water, and smoke in fire so also there is māyāin you which covers you and creates the objects. The world does not know you as long as it is under the influence of māyā[^14]^(**1**)\[I 7 27-29\]
 
 [^14]: " त्वयि जन्मादिषड्भावा न सन्त्यज्ञानसम्भवा॥२७॥  निर्विकारोऽसि पूर्णस्त्व' गमनादिविवर्जित। यथा जले फेनवृन्द धृमो वह्नौ तथा त्वयि। त्वदाधारा त्वदविषया माया कार्य सृजत्यहो॥२८॥"
 
@@ -694,7 +694,7 @@ I. व्यलपज्जानकी सीता बहुधा कार�
 
 
 
-\(23\) Śuka tells Rāvana― Rāma is no man, he is the highest Nārāyaṇa in person. Sitā is the supporter of the univeise in peison (Jagaddhātrī), the Cit-śaktithat is the soul of the universe. The entire univeise, both animate and inanımate, are born from them[^26]^(**1**)****\[VI 4 37\] Cf also, vi 5 30, where it is said that Rāma is Nārāyaṇa.
+\(23\) Śuka tells Rāvana― Rāma is no man, he is the highest Nārāyaṇa in person. Sitā is the supporter of the univeise in peison (Jagaddhātrī), the Cit-śaktithat is the soul of the universe. The entire univeise, both animate and inanımate, are born from them[^26]^(**1**)\[VI 4 37\] Cf also, vi 5 30, where it is said that Rāma is Nārāyaṇa.
 
 [^26]: "रामो न मानुष साक्षादादिनारायण पर। सीता साक्षाज्जगद्धात्रीचिच्छक्तिर्जगदात्मिका। ताभ्यामेव समुत्पन्न जगत्स्थावरजङ्गमम्॥  राम नारायण विद्धि।"
 
@@ -1316,7 +1316,7 @@ cf also VII 5.40.
 
 
 
-Rāmavarman has presented the right points of view inspite of the text.Rāmavarman says that— the gross adjunct is the gross material body of which the aggregate represents the Virāt, the subtle adjunct is the subtle body of which the aggregate represents the Hiranyagarbha, and causal adjunct is the Iśvara. The Jīva Is possessed of all these adjuncts and Iśvara is included within them because he penetrates into them. The fourth state, which transcends all these adjuncts, represents the Parameśvara In support of this interpretation Rāmavarman quotes the Vārttika[^51]****which says— the god (Īśa) has three limiting adjuncts—Virāt, Hiranyagarbha and Kārana. The fourth state transcends all these
+Rāmavarman has presented the right points of view inspite of the text.Rāmavarman says that— the gross adjunct is the gross material body of which the aggregate represents the Virāt, the subtle adjunct is the subtle body of which the aggregate represents the Hiranyagarbha, and causal adjunct is the Iśvara. The Jīva Is possessed of all these adjuncts and Iśvara is included within them because he penetrates into them. The fourth state, which transcends all these adjuncts, represents the Parameśvara In support of this interpretation Rāmavarman quotes the Vārttika[^51]which says— the god (Īśa) has three limiting adjuncts—Virāt, Hiranyagarbha and Kārana. The fourth state transcends all these
 
 [^51]: "Varttika is the commentary on the Brihadāranyakopanısadbhāsya by Sureśvara."
 

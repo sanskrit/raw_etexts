@@ -237,7 +237,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MzIzMzky
   ** यज्ञाधिकारः।  
  अथ चतुर्थोऽध्यायः  
   -----------**  
-  **** **शङ्कुस्थापनम्।**
+   **शङ्कुस्थापनम्।**
 
 
 शङ्कुप्रतिष्ठामार्ग ञ्च प्रवक्ष्यामि तफोधनाः  
@@ -332,7 +332,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MzIzMzky
 
 **  अथ पञ्चमोऽध्यायः।**
 
-****  
+  
 **बालावयविधिः।**
 
 
@@ -1033,7 +1033,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MzIzMzky
 
   **अथ द्वादशोऽध्यायः  
  ----------------------  
-****दारुसङ्ग्रहणम्**
+दारुसङ्ग्रहणम्**
 
 
 अत ऊर्ध्वं प्रवक्ष्यामि दारुसङ्ग्रहण क्रमम्  
@@ -1683,7 +1683,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MzIzMzky
      ------------**
 
 
-**विमानविधिः।******   
+**विमानविधिः।**   
 अथा तःकौतुकातुकादीनां लक्षणं वक्ष्यतेऽधुना  
 दारुः शिला च ताम्र ञ्च रजतं स्वर्णमेव च  1  
 रत्नानि चार्चाद्रव्याणि फलेष्वेकैकमुत्तमम्  

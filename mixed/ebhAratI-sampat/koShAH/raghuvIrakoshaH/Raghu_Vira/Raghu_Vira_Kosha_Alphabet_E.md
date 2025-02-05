@@ -75,7 +75,7 @@ Phys.
 
 प्र
 
-(विद्युदणु****प्रभार)  
+(विद्युदणुप्रभार)  
 
 E
 
@@ -83,7 +83,7 @@ E
 
 Chem.**त**
 
-****
+
 
 (तत्त्व)  
 
@@ -102,7 +102,7 @@ Chem.**त**
 
 *e*(the Greek letter epsilon) **1.**(anergon or quantum) **श्र2.**(symbol of dielectric constant
 
-पारद्युतिक स्थिरांक) **द्या****3.**(electrodeविद्युद्द्वार potential, ^(e)c to normal calomel पानीरेय electrode, ^(e)hto a normal hydrogen electrode) **द्व, द्व**_(प), **द्व**_(उ)
+पारद्युतिक स्थिरांक) **द्या3.**(electrodeविद्युद्द्वार potential, ^(e)c to normal calomel पानीरेय electrode, ^(e)hto a normal hydrogen electrode) **द्व, द्व**_(प), **द्व**_(उ)
 
 **η**^(**)*Statistics* **ऋ**  
 
@@ -139,7 +139,7 @@ Chem.**त**
 
 विभ्रमौशोध्यौ), **भूल चूक लेनी देनी**
 
-**ear 1.कर्ण** *m.***कान****2.**(of corn) **शीर्षक** *n.* (from हलायुध ),**मञ्जरी** *f.***, बाल**  
+**ear 1.कर्ण** *m.***कान2.**(of corn) **शीर्षक** *n.* (from हलायुध ),**मञ्जरी** *f.***, बाल**  
 
 **earache 1.कर्णशूल** *m*. **2.**= red poppy (*Papaver rhoeas*) **रक्त अहिफेन** *m.*  
 **ear department** (in a hospital) **कर्ण-विभाग**  
@@ -149,7 +149,7 @@ Chem.**त**
 **eared seal** *Zool.***कर्णी जलव्याघ्र**  
 **earhead** *Agric.***शीर्षक***n.,***बाल**  
 **earl** **सामन्त***m.*  
-**earldom सामन्त-विषय** *m.,***सामन्त-पद*******n.***सामन्तता** *f.*  
+**earldom सामन्त-विषय** *m.,***सामन्त-पद***n.***सामन्तता** *f.*  
 **earlier law पूर्वतन विधि  
 earliest शीघ्रातिशीघ्र**  
 **earliest opportunity** (will be afforded)**शीघ्रातिशीघ्र अवसर** (दिया जाएगा)
@@ -329,7 +329,7 @@ Eastern Baillon's crake** *Aves***वर्तिकुक्कुटिका*
 
 often mistaken for one)
 
-**Eastern barbastelle** *Mamm.*****(the ears are united युक्त at the base. Cf. its generic
+**Eastern barbastelle** *Mamm.*(the ears are united युक्त at the base. Cf. its generic
 
 nameSynotus)
 
@@ -2195,7 +2195,7 @@ Bot.
 
 (body of single filament of cells— monosiphonous
 
-structure)****
+structure)
 
 Ectocarpus secundus
 
@@ -3136,7 +3136,7 @@ effectual demand** *Econ.* **सप्रभाव अभियाचन
 effeminate** *adj.* **स्त्रैण  
 effeminate voice स्त्रैण स्वर  
 efferent** *adj. Physiol.***अपवाही** (-इन्)  
-**efferent arch ** **Zool.****अपवाहीचाप  
+**efferent arch ** **Zool.अपवाहीचाप  
 efferent branchial artery** *Zool.***अपवाही क्लोम-रोहिणी  
 efferent renal sinus** *Zool.***अपवाही वृक्क-कोटर  
 effervesce** *vb.* **प्रबुद्बुदन  
@@ -3147,7 +3147,7 @@ effervescent salt प्रबुद्बुद लवण
 effervescing steel** *Metal.***प्रबुद्बुद वज्रायस  
 effete matter क्षेप्य पदार्थ  
 efficacious** *adj.* **प्रभावी, लाभकारी** (-इन्)**, कार्यसाधक, अभीष्टसाधक  
-efficiency 1.***Mech.*****(the ratio of useful work done by a machine to the energy supplied)
+efficiency 1.***Mech.*(the ratio of useful work done by a machine to the energy supplied)
 
 **कार्यानुपात**
 
@@ -3182,7 +3182,7 @@ efficient working दक्ष कार्यवहन
 effigy प्रतिकाय** *m.* (Ben.)**, चित्र** *n.***, पुतला  
 effloresce***vb.* (Lat.ex+*florescere*)* Chem.***उत्फुल्लन  
 efflorescence** *Chem.***उत्फुल्लन** *n.*  
-**efflorescent** *adj. Chem.*****उत्फुल्ल  
+**efflorescent** *adj. Chem.*उत्फुल्ल  
 effluence** *Chem.***उत्प्रवहण** *n.*  
 **effluent** *adj. Chem.* **उत्प्रवाही** (-इन्)  
 **effluvia *see* effluvium  
@@ -3239,7 +3239,7 @@ selfishness स्वार्थ
 self-interest आत्म-हित**
 
 **egol** (F. egal 'equal' +phenol) *Pharm.***तुल्यव** *m.*  
-**egophony** *Med.*****(Gk. aigos 'goat' अज) **अजध्वनि** *m.*  
+**egophony** *Med.*(Gk. aigos 'goat' अज) **अजध्वनि** *m.*  
 **E grade** Forestry **ङश्रेणी  
 egress** *vb.* 1.(e'out' निर् +gradi 'to go'**$\\sqrt{या}$**) **निर्याण** 2.*Astron.***निर्गमन  
 egret बलाका** *f.*(ancient word)  
@@ -3296,7 +3296,7 @@ eight-sided** *adj.***अष्ट-पार्श्व
 eight-wheeledlocomotive अष्ट-चक्र चलित्र  
 eight wheeler** *Rly.***अष्टाचक्री** (-इन्) *m.*  
 **eileber** (Alliaria officinalis) **लशुनसर्षप** *m.*  
-**Eimeria** *Zool.*****(a genus found in intestines and organs connected with it आन्त्रादिक)
+**Eimeria** *Zool.*(a genus found in intestines and organs connected with it आन्त्रादिक)
 
 **आन्त्रादिक**
 
@@ -4673,7 +4673,7 @@ b
 
 असंयुक्त 3.
 
-*Math.*****(as, area)
+*Math.*(as, area)
 
 अल्पघटक  
 
@@ -4721,7 +4721,7 @@ element of area
 क्षेत्र अल्पघटक  
 
 **elements of a triangle** *Math.***त्रिकोणावयव  
-elements of economics******अर्थशास्त्र-तत्त्व  
+elements of economics**अर्थशास्त्र-तत्त्व  
 elements of symmetry संमिति-अंग  
 Eleocharis** *Bot.*(a genus of sedges often called spike rushes शूकीनड) **शुकीनड-प्रजाति**  
 
@@ -4778,7 +4778,7 @@ Elephasmaximus महा-हस्ती
 Elephasmeridionalis** (one of the largest of elephants) **महत्तम हस्ती  
 Elephas primigenius** *Paleontol.* **आद्य हस्ती**  
 
-**Elettaria** *Bot.*****(NL. from Sanskrit एला 'cardamom') **क्षुद्रैला-प्रजाति  
+**Elettaria** *Bot.*(NL. from Sanskrit एला 'cardamom') **क्षुद्रैला-प्रजाति  
 Elettaria cardamomum**(lesser cardamom, Malabar cardamom) **सामान्य-क्षुद्रैला**
 
 (B.,N.,M. क्षुद्रैला, Hin. छोटी इलायची, Mar. विलायची)
@@ -4791,7 +4791,7 @@ Eleusine aegyptiaca = Dactyloctenium aegyptium**
 
 **eleuthera bark = cascarilla  
 eleuthero-** ('free') **मुक्त-  
-Eleutherozoa** *Zool.*****(devoid of stalk, and always freely locomotive—PH. I.719) **अवृन्ताः** *m.pl.*  
+Eleutherozoa** *Zool.*(devoid of stalk, and always freely locomotive—PH. I.719) **अवृन्ताः** *m.pl.*  
 
 **elevated railroad or railway** (it is above the ground level so as to permit traffic underneath)
 
@@ -4799,7 +4799,7 @@ Eleutherozoa** *Zool.*****(devoid of stalk, and always freely locomotive—PH. I
 
 **elevation 1.उत्थान, उत्थापन** *n.* **उठान 2.उत्सेध** *m.* **3.Drawing उद्विक्षेप** *m.* (उदग्र-तल-विक्षेप
 
-projection on a vertical plane) **4.***Gunnery*****(the movement of the axis of a piece in a  
+projection on a vertical plane) **4.***Gunnery*(the movement of the axis of a piece in a  
 vertical plane) **अक्षोत्थापन** *n.*
 
 **elevation angle = angle of altitude** *Ophthalmol.***उत्सेध-कोण  
@@ -4841,7 +4841,7 @@ elite** *Forestry* **प्रवर
 elite or alpha stems***Forestry* **प्रवर अथवा प्रमुख स्कन्ध  
 elixir** *Pharm.*(a compound tincture with more than one base, composed of
 
-various substances)**संनिष्कर्ष** *m.*****
+various substances)**संनिष्कर्ष** *m.*
 
 **elixir amygdalae compositum संयुत आवाताम-संनिष्कर्ष  
 elixiranisi शतपुष्पा-संनिष्कर्ष  
@@ -4922,7 +4922,7 @@ ellipse
 
 दीर्घवृत्त, ऊनेन्द्र
 
-*n.*****
+*n.*
 
 (short for एकस्माद् ऊना less than one+उत्केन्द्रता eccentricity)  
 
@@ -5002,7 +5002,7 @@ Ellisons air brick
 
 Zool.
 
-****गुप्तकर्ण-प्र**
+गुप्तकर्ण-प्र**
 
 **जा**ति
 
@@ -5294,7 +5294,7 @@ manumission दास्यमुक्ति
 
 emarginate
 
-*adj. Bot.*****(having adepression)
+*adj. Bot.*(having adepression)
 
 गर्ती (-इन्)  
 emargination
@@ -5511,7 +5511,7 @@ embryonic notochord भ्रूण-पृष्ठरज्जु
 embryonic portion भ्रूण-भाग  
 embryonic rim भ्रूण-प्रान्त  
 embryonic shield भ्रूण-वर्म  
-embryony** *Biol.*****(condition of having, or the production of, an embryo or embryos) **भ्रूणिता**
+embryony** *Biol.*(condition of having, or the production of, an embryo or embryos) **भ्रूणिता**
 
 *f.*  
 
@@ -6013,7 +6013,7 @@ emu** *Chem.*(electromagnetic unit) **द्युचु ए** (विद्य�
 **emu** (head and neck feathered) **पत्रशीर्ष** *m.*  
 **emulsibility = emulsifiability  
 emulsible = emulsifiable  
-emulsifiability** *Physical Chem.*****(ability to be emulsified) **प्रनिलम्ब्यता** *f.*  
+emulsifiability** *Physical Chem.*(ability to be emulsified) **प्रनिलम्ब्यता** *f.*  
 **emulsifiable***adj.* **प्रनिलम्ब्य  
 emulsification प्रनिलम्बन** *n.*  
 **emulsifier प्रनिलम्बक** *m.*  
@@ -6157,7 +6157,7 @@ encircled** *adj.* **1.परिवृत 2.वलयित
 Encke's comet** (noteworthy for its 3.3 years) **त्रिवर्ष-धूमकेतु** *m.*  
 **encl.** (enclosures) **स. प.** (सहपत्र)  
 **en clair** (in actualwords, as opposed to code) **शब्दों में  
-enclave 1.परिवृति***f.***2.***Petrog.*****(=inclusion) **अन्तरावेश***m.*  
+enclave 1.परिवृति***f.***2.***Petrog.*(=inclusion) **अन्तरावेश***m.*  
 **enclose** *vb.* **समावरण** (*cf.* संवरण close)**, साथ में डालना, साथ भेजना, बन्द करना  
 enclosed** *adj.* **1.समावृत, बन्द 2.***Bot.***संवृत  
 enclosed air समावृत वायु  
@@ -6278,7 +6278,7 @@ endochiton** *Bot.***अन्तरावर** *m.* (McLean I.142)
 **endochondral ossification** *Physiol.***अन्तःकास्थि-अस्थीयन  
 endochrome** *Bot.***अन्तर्वर्ण** *m.*  
 **endochrome plate अन्तर्वर्ण-पट्ट  
-endoconidium** *Mycol.*****(a conidium formed inside a hypha) **अन्तःकणी** *f.*  
+endoconidium** *Mycol.*(a conidium formed inside a hypha) **अन्तःकणी** *f.*  
 **endocranium** *Zool.***अन्तःकर्पर** *m.*  
 **endocrine** *n. Physiol.***1.**(an internal secretion) **अन्तरासर्ग** *m.* **2.= endocrine gland  
 endocrine** *adj.* (secreting internally) **अन्तरासर्गी** (-इन्)  
@@ -6350,7 +6350,7 @@ endopleurite** *Zool.*(lateral apodeme) **पार्श्वअन्तः�
 where sensations begin; only in motor structures अन्तांग)
 
 **end or object of life जीवनोद्देश्य  
-endorse** *vb.* **1.***Com.*****(Lat. 'to write on the back') ** पृष्ठांकन** (Const.) **2.अंकन** (Const.)  
+endorse** *vb.* **1.***Com.*(Lat. 'to write on the back') ** पृष्ठांकन** (Const.) **2.अंकन** (Const.)  
 **endorse a bill विपत्र-पृष्ठांकन  
 endorse a cheque धनादेश-पृष्ठांकन  
 endorsed** *adj.* **1.***Com.***पृष्ठांकित** (Const.) **2.अंकित** (Const.)  
@@ -6404,7 +6404,7 @@ endosternite अन्तर्-अधरपट्ट** *m.*
 of the other symbiote) **अन्तःसहजीवन** *n.*
 
 **endotergite** *Zool.***अन्तःपृष्ठपट्ट** *m.*  
-**endothecium** *Bot.***1.अन्तरास्तर***m. **2.*****अन्तरूति** *f. **3.***(dehiscent lining of the anther)
+**endothecium** *Bot.***1.अन्तरास्तर***m. **2.*अन्तरूति** *f. **3.***(dehiscent lining of the anther)
 
 **स्फोटास्तर** *m*  
 
@@ -6417,14 +6417,14 @@ endothelio-chorialis** *Zool.***अन्तश्छद-भ्रूणवे�
 **endothelio-cyte** *Anat.***अन्तश्छद-कोशा** *f.*  
 **endotheliolysin अन्तश्छदांशि** *f.*  
 **endothelium***Anat.***अन्तश्छद** *m.*  
-**endothermic = endothermous** *adj. Chem.*****(areaction occurring with absorption of heat)
+**endothermic = endothermous** *adj. Chem.*(areaction occurring with absorption of heat)
 
 **तापचूषी** (-इन् )
 
 **endothermous = endothermic  
 endothermy** (surgical production of heat within the tissues...) **अन्तस्तापन** *n.*  
 **Endothiodon** *Zool.***हानव्यदन्त-प्रजाति  
-endothorax** *Zool.*****(the system of apodemes अन्तःप्रवर्ध in the thorax उरस् of arthropods)
+endothorax** *Zool.*(the system of apodemes अन्तःप्रवर्ध in the thorax उरस् of arthropods)
 
 **उरोन्तःप्रवर्ध***m.*
 
@@ -6437,7 +6437,7 @@ endotrypsin अन्तरभिपाचि** *f.*
 **endow** *vb.* **प्रदान करना** ( Const.), नीवि देना  
 **endowed institution** (maintained by an endowment)**नीविभृत संस्था  
 endowed withसंपन्न  
-endowment 1.नीवि** *f.* (ancient word),**स्थायी निधि** *m.***2.**(religious) **धर्मस्व** *n.* (Const.)****
+endowment 1.नीवि** *f.* (ancient word),**स्थायी निधि** *m.***2.**(religious) **धर्मस्व** *n.* (Const.)
 
 **3.**(gift of nature) **देन**
 
@@ -6457,10 +6457,10 @@ end point 1.**(that stage in titration at which the reaction is complete)**अ�
 Endt.** (endorsement) **पृ.** (पृष्ठांकना)  
 **end terms = extremes** *Math.***अन्त-पद  
 endurance 1.स्थायित्व** *n.***2.तितिक्षा, सहिष्णुता, सहनशक्ति** *f.***, धीरज  
-end view** *Engin.,******Automobile* **अन्त-दृशा  
+end view** *Engin.,**Automobile* **अन्त-दृशा  
 end wall** *Bot.***अन्त-भित्ति  
 E.N.E.** (east north east) **पू.ऐ.** (पूर्वैशानी)  
-**-ene** *Chem.*****(substitute of -ane indicating the presence of one double bond) **-एन्य** *n.*  
+**-ene** *Chem.*(substitute of -ane indicating the presence of one double bond) **-एन्य** *n.*  
 **enema 1.वस्तिकर्म** *n.***2. वस्तियन्त्र** *n.*  
 **enema can वस्ति-पात्र  
 enema nozzle वस्ति-प्रोथ  
@@ -6552,7 +6552,7 @@ enfranchise** *vb.* **1.**(to set free) **मुक्त करना, दा�
 
 or forbear doing something as by a pledge) **वचनबद्ध करना** (होना) **3.***Mil.Com.***अभियोजन**  
 
-**4.**(at 1.00 hours) *Gunnery* **** (open up fire at 1.00 hours) **गोलन**
+**4.**(at 1.00 hours) *Gunnery*  (open up fire at 1.00 hours) **गोलन**
 
 **engaged** *adj.* **1.अभियुक्त, अभियोजित, लगा हुआ,- रत, -ग्रस्त 2.वचनबद्ध 3.व्यापृत  
 engaged head** *Med.***ग्रस्त सिर  
@@ -6574,7 +6574,7 @@ from$\\sqrt{}$यम्'to control')
 
 **engine crew** *Rly.***गन्त्र-कारुक  
 engine driver गन्त्र-चालक  
-engineer अभियन्ता** (-तृ) *m.* ****
+engineer अभियन्ता** (-तृ) *m.* 
 
 **superintending engineer अधीक्षण-अभियन्ता  
 executive engineer**
@@ -6651,7 +6651,7 @@ English meadow grass
 
 (*Lolium perenne*) *Bot.*
 
-**** नीवारिकाघास
+ नीवारिकाघास
 
 m.  
 
@@ -7595,7 +7595,7 @@ tempt लुब्ध करना, लालच देना, प्रलो�
 **enticement** *Law* (I.P.C.) **परिलोभन, परिमोहन** *n***.** (both ancient words)**, फुस-लावा  
 enticer** *Law* (I.P.C.) **परिलोभक, परिमोहक** *m.***फुसलाने वाला  
 enticing of minor girl अवयस्क लड़की को फुसला ले जाना  
-entire** *adj.* **1.संपूर्ण, अभिन्न, पूरा 2.***Bot.*****(margin of a leaf— 'not broken by divisions, teeth, or
+entire** *adj.* **1.संपूर्ण, अभिन्न, पूरा 2.***Bot.*(margin of a leaf— 'not broken by divisions, teeth, or
 
 serrations') **अभिन्न**
 
@@ -7635,10 +7635,10 @@ entomologist कीटवैज्ञानिक, कैटिकीविद�
 **Entomologist to Government शासकीयकैटिकीविद्  
 entomologize कैटिकीयन, कैटिकी-अध्ययन,कीट-संग्रहण** *n.* (to collect insects for study)  
 **entomology कीट-विज्ञान** *n.***, कैटिकी** *f.*  
-**entomophilous** *adj. Bot.*****(pollinated by insects) **कीट-परागित  
+**entomophilous** *adj. Bot.*(pollinated by insects) **कीट-परागित  
 Entomostraca** *Zool.***कीटकवचाः** *m.pl.*  
 **Entomothera** *Aves* **मत्स्यरंक-प्रजाति** (मत्स्यरंक ancient word)  
-**Entophlyctis** *Bot.*****(Gk. entos 'within' +*phlyktis* "blister': the fungus body enlarges within the
+**Entophlyctis** *Bot.*(Gk. entos 'within' +*phlyktis* "blister': the fungus body enlarges within the
 
 host— Bessey p.59) **अन्तःस्फाय-प्रजाति**
 
@@ -7670,7 +7670,7 @@ entrepreneur उपक्रमी (-इन्)** *m.*
 **entrust** *vb.***सौंपना, न्यस्त करना  
 entrusted** *adj.* **न्यस्त** (Const.)**, सौंपा गया  
 entrust with duty कर्तव्य सौंपना  
-entry 1.प्रवेश** *m.***2.***Accounting***प्रविष्टि*********f.* (Const.)
+entry 1.प्रवेश** *m.***2.***Accounting***प्रविष्टि*f.* (Const.)
 
 **adjusting entry समायोजन-प्रविष्टि  
 closing entry**
@@ -7933,7 +7933,7 @@ envy असूया, ईर्ष्या
 ,डाह  
 -enyl
 
-(-ene+-yl)*****Chem.*
+(-ene+-yl)*Chem.*
 
 -एन्यल
 
@@ -8296,7 +8296,7 @@ Ephemera vulgata सामान्य अचिरपक्ष** (adult life is
 Ephestia** *Zool.* **चूर्णाश-प्रजाति** (चूर्ण flour+$\\sqrt{{अश्}\~}$eat)  
 **Ephestia cautella** (fig moth) **उदुम्बर-चूर्णाश  
 Ephestia kuehniella** (Mediterranean flour moth) **सामान्य चूर्णाश  
-ephidrosis** *(epi*+*hidrosis) **** Med.* (excessive perspiration) **अभिस्वेद** *m.*  
+ephidrosis** *(epi*+*hidrosis)  Med.* (excessive perspiration) **अभिस्वेद** *m.*  
 **ephippium = saddle** *Anat., Zool.* **पल्याण** *n.*  
 **Ephydra***Zool.*(genus of brine flies)**समुद्रमक्षी-प्रजाति  
 ephydrid समुद्रमक्षी** *f.*  
@@ -8903,7 +8903,7 @@ epispasticuo liquor** (used as a blistering liquid) **उदस्फोट-त�
 epistaxis** *Med.***नासारक्तस्राव** *m.*  
 **episternum** *Zool.*(anterior plate of cartilage in amphibians) **पूर्वोरःकास्थि** *n.*  
 **epistomatous** *adj.* Bot.**उपरिमुख  
-epistome 1.***Zool.*****(aliplike organ covering or overhanging the mouth in certain Polyzoa –
+epistome 1.***Zool.*(aliplike organ covering or overhanging the mouth in certain Polyzoa –
 
 Web.) **मुखोपरिक 2.**(region between the antennae and the mouth, or a plate  
 covering it) **मुखोपरिक, मुखोपरिपट्ट** *m.*
@@ -8938,7 +8938,7 @@ genera, is hollow—PH. I.378) **सुषिरशुण्ड-प्रजा�
 **epitomise** *vb.* **संक्षेप करना, सारसंग्रह करना, का प्रतिरूपक होना  
 Epizoa** *Zool.***उपरिजीविनः** *m.pl.*  
 **epizoic** *adj. Zool.*(externally parasitic) **उपरिजीवी** (-इन्)  
-**epizone** *Petrog.*****(uppermost zone of metamorphism—Tyrrell p.257) **उपरिप्रदेश** *m.*
+**epizone** *Petrog.*(uppermost zone of metamorphism—Tyrrell p.257) **उपरिप्रदेश** *m.*
 
 **mesozone**
 
@@ -8951,7 +8951,7 @@ Katazone निम्नप्रदेश**
 epizootic disease व्यापक पशुरोग  
 epizootic lymphangitis पशुव्यापक लसीकिनीकोप  
 epizootic pneumonia पशुव्यापक क्लोमपाक  
-epoch 1.युग** *n.,* **युगारम्भ** *m.* **2***.Astron.******(an instant of time or date selected as a point of*
+epoch 1.युग** *n.,* **युगारम्भ** *m.* **2***.Astron.**(an instant of time or date selected as a point of*
 
 *reference)*
 
@@ -9492,7 +9492,7 @@ Bot.
 
 **अश्ववाराभ-प्रजाति**  
 **Equisetites hemingwayi सामान्य अश्ववाराभ**  
-**Equisetum** *Bot.*****(genus of horsetails)
+**Equisetum** *Bot.*(genus of horsetails)
 
 अश्ववार-प्रजाति  
 
@@ -10033,7 +10033,7 @@ erepsin** *Biochem.*(an enzyme of the intestinal juice) **आन्त्रय�
 **ereptase** *Bot.***आन्त्रयूषेद** *m.*  
 **Erethizon** *Zool.*(genus of tree-porcupines) **तरुशल्यकि-प्रजाति  
 Erethizontidae तरुशल्यकि-वंश** *m.*  
-**erg 1.***Phys.***श्रम्** *m.* **2.***Geog.*****(a desert region of shifting sand) **चलमरु** *m.*  
+**erg 1.***Phys.***श्रम्** *m.* **2.***Geog.*(a desert region of shifting sand) **चलमरु** *m.*  
 **erganone blue** *Col. Ind.* (erganone dyes are used in calico printing) **कालिकट नील  
 erganone grey** *Col. Ind.* **कालिकट धूसर  
 erganone violet** *Col. Ind.* **कालिकट नीललोहित  
@@ -10082,7 +10082,7 @@ Ericaceae** Bot.**क्षेप्यज-कुल** *n.*
 **ericoides** *Bot. Tax.*(like Erica) **क्षेप्यजाभ  
 ericoid leaf** *Bot.***क्षेप्यजाभ पत्र  
 Eridanid** *Astron.***ब्रह्मपुत्र-उल्का** *f.*  
-**Eridanus***Astron.*****(Gk. Eridanos 'name of a river') **ब्रह्मपुत्र***m.*
+**Eridanus***Astron.*(Gk. Eridanos 'name of a river') **ब्रह्मपुत्र***m.*
 
 ***α*Eridani = Achernarप्रथम**
 
@@ -10091,9 +10091,9 @@ Eridanid** *Astron.***ब्रह्मपुत्र-उल्का** *f.*
 β
 
 **Eridani = Cursa द्वितीय ब्रह्मपुत्र***m.  
-*γ****Eridani = Zaurak तृतीयब्रह्मपुत्र***m.  
-*η****Eridani = Azah सप्तमब्रह्मपुत्र***m.  
-*θ****Eridani = Acamarअष्टम ब्रह्मपुत्र***m.  
+*γEridani = Zaurak तृतीयब्रह्मपुत्र***m.  
+*ηEridani = Azah सप्तमब्रह्मपुत्र***m.  
+*θEridani = Acamarअष्टम ब्रह्मपुत्र***m.  
 *ο*¹***Eridani =Beid पञ्चदश^(१) ब्रह्मपुत्र***m.  
 *ο*²***Eridani = Keid पञ्चदश^(२)ब्रह्मपुत्र***m.  
 *τ*²***Eridani = Angetenar = Anchatऊनविंश² ब्रह्मपुत्र** *m.***  
@@ -10581,7 +10581,7 @@ essexite***Petrog.* (essentially an alkaligabbro, with preponderanceof soda) **�
 
 **essonite= hessonite** establish *vb.* **1.**स्थापित करना, स्थापना करना (Const.) **2.**(to prove and cause
 
-tobe accepted as true) **स्थापित करना, सिद्ध करना 3.***Math.* **प्रतिपादन करना****4.** (a law) *Statistics* **स्थापन, प्रतिपादन**
+tobe accepted as true) **स्थापित करना, सिद्ध करना 3.***Math.* **प्रतिपादन करना4.** (a law) *Statistics* **स्थापन, प्रतिपादन**
 
 **establisha claim to पर अधिकार सिद्ध करना  
 established** *adj.* **1.स्थापित** (Const.), **सिद्ध 2.***Forestry* (young reproduction is established when it is
@@ -10724,7 +10724,7 @@ estimateof value अर्हा प्राक्कलन
 estimatescommittee प्राक्कलन-समिति  
 estimatesurvey आगणन-आपरीक्षा  
 estimation1.प्राक्कलन** *n.***2.आगणन** *n.*  
-**estimationof the standing crop** *Forestry*******स्थित सस्य का आगणन  
+**estimationof the standing crop** *Forestry***स्थित सस्य का आगणन  
 estimationof the yield** *Forestry***प्राप्ति का आगणन  
 estimatorप्राक्कलयिता** (-तृ) *m.*  
 **estimator, grade I प्राक्कलयिता, प्रक्रम १  
@@ -10743,7 +10743,7 @@ estoppel by verdict** *Law***संनिश्चय-जन्य प्रत�
 estoppel by warranty** *Law***अध्याभूति-जन्य प्रतिष्टम्भ  
 estoppel in pais = estoppel by conduct** *Law***आचरण-जन्य प्रतिष्टम्भ  
 estopper** *Law***प्रतिष्टम्भक** *m.*  
-**estovers** *Law*****(wood which a tenant is allowed to take from the landlord's premises for the
+**estovers** *Law*(wood which a tenant is allowed to take from the landlord's premises for the
 
 necessary fuel, implements, repairs etc., of himself and his resident servants)
 
@@ -10821,14 +10821,14 @@ ether smell दक्षु-गन्ध
 ether thermoscope** *Phys.* **दक्षु-तापेक्ष  
 ethical** *adj.* **नैतिक  
 ethical jurisprudence नैतिक विधिशास्त्र  
-ethics 1.**(system of moral practice) **शीलाचार** *m.*******2.**(science of moral duty) **शीलाचारिकी** *f.*,
+ethics 1.**(system of moral practice) **शीलाचार** *m.***2.**(science of moral duty) **शीलाचारिकी** *f.*,
 
 **नीतिशास्त्र** *n.*
 
 **ethide** *Chem.* (a binary compound of ethyl दक्षुल) **दक्ष्वेय** *n.*  
 **ethidene** *Chem.* **दक्ष्वेयेन्य** *n.*  
 **ethine** *Chem.* **दक्ष्वी** *f.*  
-**ethionic** *adj.* (*ethyl* दक्षुल+th*ionic* गन्धिक)*****Chem.* **दक्षुगन्धिक  
+**ethionic** *adj.* (*ethyl* दक्षुल+th*ionic* गन्धिक)*Chem.* **दक्षुगन्धिक  
 ethionic acid दक्षुगन्धिक अम्ल  
 Ethiopian region** *Zoogeog.* **काल-प्रदेश***m.* (*Cf.* कालद्वीप Africa)  
 **ethmoid = ethmoidal** *adj. Anat.* **तैतव  
@@ -10921,7 +10921,7 @@ Ettinghausen-Nernst effect** (electrical effect in a magnetic field) **चुम
 
 **सु-**(dys-दुस्- ) **2.***Bot.**,**Zool.* ('true') **सत्य-**
 
-**Eubacteriales** (the unbranched bacteria) **सरलशाकाणु-गोत्र** *n.*****(गोत्र order)  
+**Eubacteriales** (the unbranched bacteria) **सरलशाकाणु-गोत्र** *n.*(गोत्र order)  
 **eubacterium सरलशाकाणु** *m.*  
 **Eubleptus danielsi** (primal जूर्य winged insect) **सामान्य जूर्यकीट  
 Eucaenus ovalis** *Paleontol.* (ancestral cockroach) **सामान्य प्राक्तैलचोर  
@@ -10934,7 +10934,7 @@ selenide, -इज for खनिजmineral)
 
 **eucalyptus** **1.अनुकर्पूर** *m.* (Telugu कर्पुरमु, Tamil करुप्पुरम्, Egypt *kafur*; *see* Sino-Indian Studies
 
-II.70 )**2.***Pharm. **=*********eucalypti folium =eucalyptus leaf अनुकर्पूर-पत्र** *n.***3.**(colour)**=eucalyptus green** (a colour, greenish-yellow पीताहरि in hue, of low अवsaturation and high प्र brilliance) **प्रावपीताहरि**
+II.70 )**2.***Pharm. **=*eucalypti folium =eucalyptus leaf अनुकर्पूर-पत्र** *n.***3.**(colour)**=eucalyptus green** (a colour, greenish-yellow पीताहरि in hue, of low अवsaturation and high प्र brilliance) **प्रावपीताहरि**
 
 **Eucalyptus** *Bot.* **अनुकर्पूर-प्रजाति  
 Eucalyptusacmenoides** (white mahogany) **सित अनुकर्पूर** (Tr. II.568)  
@@ -10947,7 +10947,7 @@ Strasburger: Textbook of Botany) **प्रतुंग अनुकर्प�
 Eucalyptusbicolor द्विपर्ण अनुकर्पूर  
 Eucalyptusbotryoides** (dark green dense shady foliage—Tr. II.569) **घनपर्ण अनुकर्पूर  
 Eucalyptuscalophylla सुपर्ण अनुकर्पूर  
-Eucalyptuscambagei** (bastard box)**विजात****अनुकर्पूर  
+Eucalyptuscambagei** (bastard box)**विजातअनुकर्पूर  
 Eucalyptuscapitellata** (brown stringy bark) **बभ्रु अनुकर्पूर  
 Eucalyptuscinerea धूसर अनुकर्पूर  
 Eucalyptuscitriodora** (leaves have an exquisite lemon scent Basu) **निम्बुगन्ध अनुकर्पूर  
@@ -11023,7 +11023,7 @@ Eucalyptuspatentinervis** (bark resembles that of some species of pine—Tr.II.5
 **Eucalyptuspauciflora अल्पपुष्प अनुकर्पूर  
 Eucalyptuspiperita** (Sydney peppermint) **तीव्रा अनुकर्पूर** (तीव्रा peppermint)  
 **Eucalyptusplanchoniana** (angular branchlets—Tr. II.583) **कोणशाख अनुकर्पूर  
-Eucalyptusplatypus =** **Eucalyptus****obcordata**  
+Eucalyptusplatypus =** **Eucalyptusobcordata**  
 **Eucalyptus** **ptychocarpa** (*ptychocarpa* 'bearing winged fruit'
 
 पक्ष-फल ) **पक्षफल अनुकर्पूर**
@@ -12171,7 +12171,7 @@ even-aged form** *Forestry* **सम-वयस्क आकृति
 even-aged system** *Forestry* **सम-वयस्क पद्धति  
 even chance** *Statistics* **समान संभावना  
 even distribution सम वितरण, समान बटवारा  
-evengrained** *adj.*****( Germ. *gleich-faserig*, Fr. *à fibres* *régulières*) **समतन्तु  
+evengrained** *adj.*( Germ. *gleich-faserig*, Fr. *à fibres* *régulières*) **समतन्तु  
 even-grained wood समतन्तु काष्ठ  
 evening meal सायमशन, सायंभोजन** *n.***, ब्यालू  
 evening primrose सायं-पीतसेवती  
@@ -12217,9 +12217,9 @@ evergreen tree सदाहरित वृक्ष, नितहरा वृ�
 evergreen wet mixed forest सदाहरित आर्द्रमिश्रित वन  
 ever-growing complexity सदा-वर्धी जटिलता**  
 
-**eversible sac** *Zool.*****उद्वर्त्यस्यून  
+**eversible sac** *Zool.*उद्वर्त्यस्यून  
 eversion** *Med.* **उद्वर्तन** *n.*  
-**evert** *vb****.* उद्वर्तन  
+**evert** *vb.* उद्वर्तन  
 everted ** *adj.* **1.उद्वृत्त 2.***Med.* **उद्वृत्त, बहिर्वृत्त  
 everted edge** *Med.* **बहिर्वृत्त तट  
 every** *adj.* **प्रत्येक, प्रति-  
@@ -12330,7 +12330,7 @@ ewe भेड़ी** (Beng.),
 
 अविका
 
-*f.*****(from ऋग्वेद)  
+*f.*(from ऋग्वेद)  
 **ewe bramble = blackberry** (*Rubus* *fruticosus*) **कृष्णबदरी***f.*  
 **Ex-1.बहिर्-,-बाह्य 2.भूतपूर्व ex 1.***Com.*(free out of) -**बाह्य** (exfactory निर्माणी-
 
@@ -12339,7 +12339,7 @@ ewe भेड़ी** (Beng.),
 (exinterestवृद्धि-विना)
 
 **Ex.** (exchange)**वि.** (विनिमय)  
-**exacerbation** (increase in the severity of a disease) **प्रचण्डता*****f.*  
+**exacerbation** (increase in the severity of a disease) **प्रचण्डता*f.*  
 **exact यथार्थ, तथ्य, यथाभूत, ठीक ठीक** (*see*accurate)  
 **exact**
 
@@ -12357,7 +12357,7 @@ a tree or species) **कृच्छ्रजीवी** (Germ. *anspruchsvoll*)
 
 **exacting duties कठोर कर्तव्य  
 exaction बलाद्ग्रहण** *n.*  
-**exactitude = exactness यथार्थता, तथ्यता****
+**exactitude = exactness यथार्थता, तथ्यता
 
 
 
@@ -12390,7 +12390,7 @@ refractivity...... Chambers) **अतिवृद्धि** *f.***b.**(refineme
 **examinant परीक्षिता ** (-तृ) *m.*
 
 **examinate = examine  
-examination 1.परीक्षा** *f.* ( Const.), **परीक्षण** *n****.*2.***Statistics* **परीक्षा***f.* (see test) **3.***Educ.***परीक्षा** *f.*****(test
+examination 1.परीक्षा** *f.* ( Const.), **परीक्षण** *n.*2.***Statistics* **परीक्षा***f.* (see test) **3.***Educ.***परीक्षा** *f.*(test
 
 परीक्षिका, subtest उप-परीक्षिका) **4.***Law* **परीक्षण** *n.*
 
@@ -12449,7 +12449,7 @@ exarchy** *Bot.***बहिरारम्भता ** *f.*
 **excavated diameter उत्खात व्यास  
 excavated tank** *Geog.***उत्खात तडाग  
 excavating action उत्खनन-क्रिया  
-excavation 1.उत्खनन** *n.***खुदाई, खोदना 2.***Mining* **समुत्खनन** *n****.***
+excavation 1.उत्खनन** *n.***खुदाई, खोदना 2.***Mining* **समुत्खनन** *n.***
 
 **quarrying** *Mining* **उत्खनन**
 
@@ -12614,7 +12614,7 @@ Exchequer Chamber 1.**(chamber devoted to the business of the Royal Exchequer) *
 **excisable ** *adj.* **उच्छुल्कारोप्य  
 excisable article उच्छुल्कारोप्य वस्तु  
 excisable liquor उच्छुल्कारोप्य मदिरा  
-excise उच्छुल्क ** *n. **** (*short for उत्पादनशुल्क),**क्लृप्ति** *f.* (from कौटल्य'sअर्थशास्त्र )  
+excise उच्छुल्क ** *n.  (*short for उत्पादनशुल्क),**क्लृप्ति** *f.* (from कौटल्य'sअर्थशास्त्र )  
 **Excise Act उच्छुल्क-अधिनियम  
 excise administration उच्छुल्क-प्रशासन  
 excise administration report उच्छुल्क-प्रशासन-प्रतिवेदन  
@@ -12699,7 +12699,7 @@ excluded middle** *Logic* **अपवर्जित मध्य, लुप्�
 **law of excluded middle** *Logic* **लुप्त-मध्य-नियम**
 
 **excluding 1.अपवर्जन** *n.***2.**( exclusive of, without) **-विना, के विना, को छोड़कर  
-exclusion 1.अपवर्जन** *n.*****(Const)., **छोड़ना 2.***Logic* **व्यावर्तन** *n*.  
+exclusion 1.अपवर्जन** *n.*(Const)., **छोड़ना 2.***Logic* **व्यावर्तन** *n*.  
 **exclusion from service सेवा से अपवर्जन  
 exclusion of agricultural land कृषिभूमिका अपवर्जन  
 exclusion principle** *Phys.* **अपवर्जन-प्रनियम  
@@ -12738,7 +12738,7 @@ ex-conjugant** *Zool.* **पूर्व-संयुग्मित** (which we
 **excreta desiccator** (JM. II.60) **मल-शोषित्र, उत्सर्ग-शोषित्र  
 excrete** *vb.* **उत्सर्जन  
 excreted** *adj.* **उत्सृष्ट  
-excretion 1.मलोत्सर्ग, उत्सर्ग ** *m.****,*उत्सर्जन ** *n.***2.**( as of chemicals) **उत्सर्जन ** *n.*  
+excretion 1.मलोत्सर्ग, उत्सर्ग ** *m.,*उत्सर्जन ** *n.***2.**( as of chemicals) **उत्सर्जन ** *n.*  
 **excretion of water जलोत्सर्जन  
 excretory** *adj.* *Bot.* ** उत्सर्जी** (-इन्)  
 **excretory duct उत्सर्ग-प्रणाली  
@@ -12762,7 +12762,7 @@ excuse ** *vb.* **1.**(to offer excuse for) **बहाना करना 2.क
 
 be present at the meetings) **unless he is excused जब तक उसे अनुपस्थित रहने की अनुमति न प्राप्त हो**
 
-**excuse** *n.* **1.हेतु, प्रति-हेतु ** *m.*****बहाना2.क्षमायाचना, क्षमा मांगना 3.क्षमादान, क्षमा करना  
+**excuse** *n.* **1.हेतु, प्रति-हेतु ** *m.*बहाना2.क्षमायाचना, क्षमा मांगना 3.क्षमादान, क्षमा करना  
 ex dividend** *Com.***लाभांश- विना  
 execration अभिशंसन ** *n.*  
 **executable** *adj.***निष्पाद्य  
@@ -12784,7 +12784,7 @@ executed remainder निष्पादित शेष
 executed sale निष्पादित विक्रय  
 executed trust निष्पादित न्यास  
 execute well and faithfully भली भांति और सचाई से करना, सुचारुतः और सत्यतः निष्पादन  
-execution 1.निष्पादन ** *n.*****(Const.)**2.**(an act of putting to death of a criminal under sentence of
+execution 1.निष्पादन ** *n.*(Const.)**2.**(an act of putting to death of a criminal under sentence of
 
 court)**प्राण-दण्ड** *m.* **फांसी**  
 
@@ -12800,7 +12800,7 @@ writ of execution निष्पादन-लेख**
 
 **execution case निष्पादन-वाद  
 execution clerk निष्पादन-लिपिक  
-executioner वधिक ** *m****.*  
+executioner वधिक ** *m.*  
 execution in duplicate द्विमूल निष्पादन, द्विमूल लिखना** (there must be two originals)  
 **execution of a decree आज्ञप्ति का निष्पादन  
 execution of agreement संविद् का निष्पादन  
@@ -12819,7 +12819,7 @@ execution of work कार्य-निष्पादन
 execution of writ** *Law* **लेख-निष्पादन  
 execution proceedings** *Law* **निष्पादन कार्यवाहियां  
 execution sale** *Law* **निष्पादन-विक्रय  
-executive***adj.*****निष्पादन-, निष्पादी, निष्पादक,कार्यपालक  
+executive***adj.*निष्पादन-, निष्पादी, निष्पादक,कार्यपालक  
 executive** *n.* (the executive branch of a government; also, the person or persons who
 
 constitute the executive magistracy of a state)**निष्पादन-संहति, कार्यपालिका ** *f*. (Const.)**, निष्पादक-वर्ग** *m.* (*see* judiciary)
@@ -12903,7 +12903,7 @@ exemption number मुक्ति-संख्या
 exemption period मुक्ति-अवधि  
 exendospermous** *adj. Bot.* **मुक्त-भ्रूणपोष  
 exercisable** *adj.* **प्रयोज्य  
-exercise** *n.***1.अभ्यास** *m.* **2.प्रयोग** *m.* (Const.)**3.***Math***. प्रश्नावलि** *f.*****4.व्यायाम** *m.*  
+exercise** *n.***1.अभ्यास** *m.* **2.प्रयोग** *m.* (Const.)**3.***Math***. प्रश्नावलि** *f.*4.व्यायाम** *m.*  
 **exercise ** *vb.* **1.प्रयोग करना, प्रयोग में लाना, करना2.व्यायाम करना  
 exercise book अभ्यास-पञ्जिका ** *f.*  
 **exercise check नियन्त्रण रखना  
@@ -12951,7 +12951,7 @@ hand exhausting pump**
 
 **उत्स्रावाञ्च**
 
-**exhaustion 1.उत्स्रावण, निश्शेषण** *n***., परिसमाप्ति** *f.*****2.श्रान्ति ** *f.*****3.Hydrostatics उत्स्राव ** *m.*  
+**exhaustion 1.उत्स्रावण, निश्शेषण** *n***., परिसमाप्ति** *f.*2.श्रान्ति ** *f.*3.Hydrostatics उत्स्राव ** *m.*  
 **exhaustion of soil मृदा-उत्स्रावण  
 exhaustive** *adj.* **सर्वतःपूर्ण, निःशेष, निःशेषी** (-इन्), **पूर्ण, पूरा पूरा  
 exhaustive enquiry सर्वतःपूर्ण परिपृच्छा, निश्शेषी परिपृच्छा, पूरी पूरी जांच  
@@ -12992,7 +12992,7 @@ exhumation भूत्खनन, उत्खनन, शवोत्खनन**
 **exhumation of body शव को खोद कर निकालना, शवोत्खनन  
 exhumed body उत्खात शव, खोद कर निकाला हुआ शव  
 exigencies of service सेवा की अपेक्षाएं  
-exigency 1.अत्यावश्यकता** *f.*****2.**(requirement) **अपेक्षा, आवश्यकता ** *f.*******
+exigency 1.अत्यावश्यकता** *f.*2.**(requirement) **अपेक्षा, आवश्यकता ** *f.***
 
 **in the exigencies of work कार्य**
 
@@ -13003,7 +13003,7 @@ exigency 1.अत्यावश्यकता** *f.*****2.**(requirement) **�
 **transport निर्वासन**
 
 **exilement उद्वासन ** *n.*  
-**exile oleander** (*Thevetia neriifolia*) **दिव्यापुष्प** *m.* **** (Basu)  
+**exile oleander** (*Thevetia neriifolia*) **दिव्यापुष्प** *m.*  (Basu)  
 **eximius** *Bot.Tax.*(excellent for size or beauty) **वरेण्य  
 exine** *Bot.*('outer coat') **बाह्यकवच** *n.*  
 **ex interest वृद्धि-विना  
@@ -13011,7 +13011,7 @@ exist ** *vb.* **अस्तित्व होना, होना, रहन�
 existence अस्तित्व ** *n.***, सत्ता ** *f.*  
 **existence of loop पाशी का अस्तित्व  
 existence theorem सत्ता-प्रमेय  
-existing ** *adj****.* विद्यमान, वर्तमान** (both in Const.)
+existing ** *adj.* विद्यमान, वर्तमान** (both in Const.)
 
 **present वर्तमान**
 
@@ -13038,7 +13038,7 @@ existing proviso विद्यमान परन्तुक
 existing rules विद्यमान नियम  
 existing staff विद्यमान कर्मचारी  
 existing subparagraph विद्यमान उपकण्डिका  
-exit 1.निष्क्रमण ** *n.*****2.बहिर्गमन-द्वार, निर्गम-द्वार** *n.,***बाहर जाने का फाटक  
+exit 1.निष्क्रमण ** *n.*2.बहिर्गमन-द्वार, निर्गम-द्वार** *n.,***बाहर जाने का फाटक  
 exite** *Zool.* (Gk. exo 'outside'. One of the appendages of the exterior side of the limbs of
 
 phylopod— Web.)**बहिरंग** *n.*
@@ -13082,13 +13082,13 @@ ex officio Medical Officer of Health पदेन भैषजिक स्व�
 ex officio member पदेन सदस्य  
 ex officio visitor पदेन वीक्षक  
 Ex. of L.F.A.** (Examiner of Local Fund Account) **स्था. नि. ले. प.** (स्थानीय-निधि-लेखापरीक्षक)  
-**exogastric ** *adj. **** Zool.* (curving forwards) **अग्रवक्र  
+**exogastric ** *adj.  Zool.* (curving forwards) **अग्रवक्र  
 exogastrically coiled** *Zool.* **अग्रवक्रतः कुण्डलित  
 exogenous ** *adj. Bot.* ** बाह्यजात  
 exogenous bud** *Bot.* **बाह्मजात कलिका  
 exogenous origin बाह्यजात उद्भव  
 Exogonium purga = Ipomoea purga = jalap** *Bot.* **सामान्य रेचकन्द  
-exo-intine** *Bot.* **बाह्यान्तरकवच, मध्यकवच***n.*******(it is the middle layer— McLean I. 675)  
+exo-intine** *Bot.* **बाह्यान्तरकवच, मध्यकवच***n.***(it is the middle layer— McLean I. 675)  
 **exonephric ** *adj. Zool.***बाह्योत्सर्ग  
 exonephric system बाह्योत्सर्ग-संहति  
 exonerate ** *vb.* **1.**(to relieve, as of charge, obligation etc.) **भारमुक्त करना 2.**(to clear from
@@ -13098,7 +13098,7 @@ accusation)
 **दोषमुक्त करना**
 
 **exonerated** *adj.* **भारमुक्त, दोषमुक्त  
-exoneration 1.भारमुक्ति** *f.*****2.दोषमोचन ** *n.***, दोषमुक्ति ** *f.*  
+exoneration 1.भारमुक्ति** *f.*2.दोषमोचन ** *n.***, दोषमुक्ति ** *f.*  
 **exophoria** *Med.* **अपाविवर्तिषा ** *f.*  
 **exophthalmic goitre = Graves' disease उदक्षि-गलगण्ड ** *m.* (short for उदक्षिगोल-गलगण्ड)  
 **exophthalmos = exophthalmus ** *Med.*(abnormal protrusion of the eye-ball) **उदक्षि-गोल ** *m.*  
@@ -13124,15 +13124,15 @@ exotic ** *adj. Bot.* (an introduced species, i.e. not indigenous) **अभ्�
 exotic conifer अभ्यागत शंकुधर  
 exotic plant अभ्यागत पौधा  
 exotospore = sporozoite  
-exotropia ** *Med.* **** (movement of the eye away from the medial line) **अपावर्तिता** *f.*  
-**Exp.** (expression) **** *Math.* ** पदसं.** (पदसंहति)  
+exotropia ** *Med.*  (movement of the eye away from the medial line) **अपावर्तिता** *f.*  
+**Exp.** (expression)  *Math.* ** पदसं.** (पदसंहति)  
 **expand ** *vb.* ** विस्तारण, विस्तार करना, विस्तरण, विस्तृत होना  
 expanded ** *adj.* **विस्तृत, विस्तारित  
-expanded form ** *Math.*****विस्तारित रूप  
+expanded form ** *Math.*विस्तारित रूप  
 expandedmetal** *Rly.* **विस्तारित धातुपट  
 expanded or condensed विस्तृत अथवा संक्षिप्त  
 expander विस्तारक ** *m.*  
-**expanding** *adj.*****विस्तरत्, विस्तारी** (-इन्)  
+**expanding** *adj.*विस्तरत्, विस्तारी** (-इन्)  
 **expanding file विस्तारी नस्ती  
 expanding school प्रसारवादी संप्रदाय  
 expandinguniverseविस्तारी विश्व  
@@ -13144,7 +13144,7 @@ expansibility = expansibleness विस्तार्यता ** *f.*
 expansibleness = expansibility  
 expansile** *adj.* **विस्तारी** (-इन्)  
 **expansile pulsation ** *Med.* **विस्तारी नाडीस्पन्दन  
-expansion 1.विस्तार ** *m.***, विस्तरण ** *n.***2.***Econ.****,*** *Mil.* **प्रसार** *m.*  
+expansion 1.विस्तार ** *m.***, विस्तरण ** *n.***2.***Econ.,*** *Mil.* **प्रसार** *m.*  
 **expansional ** *adj.* **विस्तारीय  
 expansional cooling विस्तरण-शीतन  
 expansion and contraction of currency चलार्थ का प्रसार और संकुचन  
@@ -13152,7 +13152,7 @@ expansion in ascending powers***Math.* **आरोही घातों मे�
 expansion in descending powers***Math.* **अवरोही घातों में विस्तार  
 expansion in series ** *Math.***श्रेढियों में विस्तार  
 expansionism** *Econ.* ** प्रसार-वाद***m.*  
-**expansionist ** *Econ.* **प्रसार-वादी** (-इन्) **** *m.*  
+**expansionist ** *Econ.* **प्रसार-वादी** (-इन्)  *m.*  
 **expansion of credit प्रत्यय-प्रसार  
 expansion of currency चलार्थ-प्रसार  
 expansion of demand ** *Econ.* **अभियाचन-प्रसार  
@@ -13171,7 +13171,7 @@ expatriate ** *vb.* **1.**( to drive a person from his own country) **देश 
 
 one's country) **देश त्यागना**
 
-**expatriation 1.देश निकाला 2.देशत्याग ** *m.*****3.नागरिकतात्याग** *m.*  
+**expatriation 1.देश निकाला 2.देशत्याग ** *m.*3.नागरिकतात्याग** *m.*  
 **expect***vb.***प्रत्याशा करना, आशंसा करना, अपेक्षा करना**
 
 **estate in expectancy अपेक्षित संपदा**
@@ -13235,7 +13235,7 @@ expenditure incurred किया गया व्यय
 expenditure incurred for earning profits लाभार्जन के लिए किया गया व्यय  
 expenditure side व्यय-पार्श्व  
 expenditure statement व्यय-विवरण  
-expense व्यय** *m.* **** (Const.) **at their own expense अपने व्यय पर**  
+expense व्यय** *m.*  (Const.) **at their own expense अपने व्यय पर**  
 
 **expenses व्यय** *m.* (Const.)
 
@@ -13253,7 +13253,7 @@ experience अनुभव** *m.*
 **experienced ** *adj.* **अनुभवी** (-इन्)  
 **experienced magistrate अनुभवी दण्डाधिकारी  
 experienced vaccinator अनुभवी मसूरक  
-experiment*****n.* ** संपरीक्षा ** *f.,***प्रयोग ** *m.*  
+experiment*n.* ** संपरीक्षा ** *f.,***प्रयोग ** *m.*  
 **experiment** *vb.* **संपरीक्षा करना, संपरीक्षण  
 experimental ** *adj.* **संपरीक्षात्मक, संपरीक्षा-,संपरीक्षीय  
 experimental animal संपरीक्षा-पशु  
@@ -13294,7 +13294,7 @@ expertscommittee विशेषज्ञ-समिति
 expert specialist विशारद विशेषज्ञ, प्रवीण विशेषज्ञ  
 expert witness विशेषज्ञ साक्षी  
 expirate** *vb.* ** बहिश्श्वसन  
-expiration 1.उच्छ्वसन, बहिश्श्वसन ** *n.*******(respiration श्वसन)**2.देहावसान** *n.* **3.**(e.g. of an act or
+expiration 1.उच्छ्वसन, बहिश्श्वसन ** *n.***(respiration श्वसन)**2.देहावसान** *n.* **3.**(e.g. of an act or
 
 notification)**अवसान** *n.,* **समाप्ति***f.*(Const.)
 
@@ -13337,7 +13337,7 @@ explicit approval स्पष्ट अनुमोदन
 explicit direction स्पष्ट निदेश  
 explicit function** *Math.* **स्पष्ट श्रित  
 explicitly स्पष्टतया, सुव्यक्ततया  
-explode** *vb.*****उत्स्फोटन  
+explode** *vb.*उत्स्फोटन  
 exploit** *vb.* **1.**(to make use of basely or illegimately) **विदोहन** (from तैत्तिरीय ब्राह्मण), **शोषण करना**
 
 (Mar. निष्पीडन)**2.**(to get the value or usefulness out of) **विदोहन 3.***Mining* (to extract ore) **अयस्कनिस्सारण, अयस्क निकालना 4***.Forestry* ( Germ. *ausnutzen*) **समुपयोजन**
@@ -13349,7 +13349,7 @@ exploitable size** *Forestry* **समुपयोज्य परिमाण
 exploitable species** *Forestry* **समुपयोज्य जाति  
 exploitation 1.विदोहन** (विदोहन is found in ऋग्वेद, अथर्ववेद, शतपथ ब्राह्मण, तैत्तिरीय ब्राह्मण in the sense
 
-of false or excessive milking out, draining, exploiting)**, शोषण ** *n. (*Mar. निष्पीडन)**2.**(advance examination, reconnoitering) **पूर्वेक्षण ** *n.*****3.***Forestry* (an operation of working
+of false or excessive milking out, draining, exploiting)**, शोषण ** *n. (*Mar. निष्पीडन)**2.**(advance examination, reconnoitering) **पूर्वेक्षण ** *n.*3.***Forestry* (an operation of working
 
 out the produce of a forest— I.F.R.)
 
@@ -13651,7 +13651,7 @@ expose
 
 **6.***Photog.* **प्रकाशन**
 
-**exposed** *adj.* **1.विगोपित 2*****.**(to light)* **प्रकाशगत प्रकाशित  
+**exposed** *adj.* **1.विगोपित 2*.**(to light)* **प्रकाशगत प्रकाशित  
 exposed film** *Photog.* **प्रकाशित चित्रपट्टी  
 exposed rockविगोपित शैल  
 exposed siteविगोपित स्थान  
@@ -14553,7 +14553,7 @@ extra-peritoneal उदरच्छद-बाह्य
 extra-pharmacopeia अतिरिक्त भेषजसंहिता  
 extrapolation** *Math.* **1.बाह्य-गणन** *n.*
 
-****interpolation आन्तर-गणन**  
+interpolation आन्तर-गणन**  
 
 **2.बहिर्वेश** *m.*  
 
@@ -14615,14 +14615,14 @@ extremely नितान्त, अत्यन्त
 extremely fine powder अत्यन्त सूक्ष्म क्षोद  
 extremely heavy** (timber) **अत्यधिक भारी, अत्यधिक गुरु** (*see* classification by weight)  
 **extremely strong अति प्रबल  
-extreme period of limitation** *Law*****(RegM.51) **चरम अवधि-काल  
+extreme period of limitation** *Law*(RegM.51) **चरम अवधि-काल  
 extremes = end terms** *Math.* **अन्तपद** *n.*  
 **extremes of temperature ताप की चरम सीमाएं  
 of extreme urgency नितान्त अतिपाती  
 extreme values** *Math.* **उभयान्त-अर्हा  
 extreme variation अत्यन्त परिवर्तन  
 extremist अतिमार्गी** (-इन्) *m.*  
-**extremity 1.चरमसीमा** *f.***2.**(a limb of the body) **अवयव***m.* **3.***Math.* **अग्र**.**** *n.*********4.** *Statistics***अग्र, अन्तपद** *n.*  
+**extremity 1.चरमसीमा** *f.***2.**(a limb of the body) **अवयव***m.* **3.***Math.* **अग्र**. *n.*4.** *Statistics***अग्र, अन्तपद** *n.*  
 **extrication निकलना, बचना  
 extrinsic** *adj. Anat.* **बाह्य  
 extrinsic evidence** *Law* **बाह्य साक्ष्य  
@@ -14635,7 +14635,7 @@ extroversion** *Psychol.* **बहिर्मुखता** *f.*
 
 **extrovert** *n. Psychol.* **बहिर्मुख** *m.*
 
-****introvert अन्तर्मुख**
+introvert अन्तर्मुख**
 
 **extrude** *vb.* **उत्सारण, उत्तोदन  
 extrusion** *Geog.* **उत्तोदन** *n.*  

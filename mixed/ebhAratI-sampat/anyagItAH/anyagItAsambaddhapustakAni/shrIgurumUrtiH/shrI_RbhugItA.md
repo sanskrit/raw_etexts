@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc4MjgwOTI1
 
 
 
-**** **..** **श्री ऋभुगीता ..**
+ **..** **श्री ऋभुगीता ..**
 
 **              प्रथमोऽध्यायः \।**
 
@@ -34,7 +34,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc4MjgwOTI1
 
 पुनर्ज्ञानं प्रवक्ष्यामि यथावत्पद्मसम्भव \।
 
-येनैव सर्वे मुच्यन्ते जनास्संसारबन्धनात्** ****\।\। १. ०१\।\।**
+येनैव सर्वे मुच्यन्ते जनास्संसारबन्धनात्** \।\। १. ०१\।\।**
 
 
 

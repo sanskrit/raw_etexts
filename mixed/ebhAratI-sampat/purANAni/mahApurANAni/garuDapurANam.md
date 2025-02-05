@@ -4012,7 +4012,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg2NDg5MTMzMDU
 
 **तावेव पक्षौ ता एव तिथयस्त्रिंशदेव हि॥१०१॥**
 
-****
+
 
 यदि एक ही मासमें दो संक्रान्तियाँ हों तो दो महीनोंका श्राद्ध मलमासमें ही करना चाहिये॥१००॥ यदि एक ही मासमें दो मास हों तो उस मासके ही वे दोनों पक्ष और वे ही तीस तिथियाँ उन दोनों महीनोंकी मानी जायँगी॥१०१॥
 
@@ -5380,7 +5380,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg2NDg5MTMzMDU
 
 **॥इस प्रकार गरुडपुराण (सारोद्धार) सम्पूर्ण हु॥**
 
-*******![](../books_images/U-IMG-1722578608Screenshot2024-07-31114314.png)***
+***![](../books_images/U-IMG-1722578608Screenshot2024-07-31114314.png)***
 
 
 

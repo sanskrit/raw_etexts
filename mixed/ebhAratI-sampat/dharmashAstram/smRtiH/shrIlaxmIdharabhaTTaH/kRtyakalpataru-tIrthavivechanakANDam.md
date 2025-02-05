@@ -806,7 +806,7 @@ INTRODUCTION
 
 *tīrthas*, and *tīrtha-upavāsa* is optional because it is only intended for additional efficacy of the pilgrimage (*inf*. p. 11). Mitramiśra, dissenting from Lakṣmīdhara, holds that both tonsure and fast are indispensable elements of *tīrtha-snāna*(pp. 34, 48 and 51) on the ground of their adoption by *śiṣṭas*(pious and learned men). Vācaspatimiśra is also criticised by Mitramiśra (following Nārāyaṇa Bhaṭṭa) for holding that tonsure is unnecessary before a bath in the Ganges, on the ground that the text on which the former relied is corrupt and substitutes Gayā and Gaṅgā for Kurukṣetra, and that the general rule that 'what applies to Prayāga applies to all *tīrthas*' (*sarva-tīrtheṣu ayam vidhiḥ*) extends the ritual of *Prayāgasnāna* to all holy places.
 
-   Lakṣmīdhara simplifies *tīrtha* ritual by making fasting optional, omitting tonsure altogether, explaining the *pitṛ-pūjā* at a *tīrtha* as an obligation of only the opulent (p. 10), allowing conveyances for the journeys, sanctioning vicarious pilgrimage (p. 11) and allowing as many *śrāddhas* as may be needed to be done at a *tīrtha*, irrespective of the time of beginning them, in a single day. To him purity of mind and devout feeling (*viśuddha-manovṛttiḥ*, p. 9) were the essential things in a His pilgrimage and the rites adventitious in comparison. liberalising influence was resisted by later writers. They made *vṛddhi-śrāddha* at the commencement and the termination of the journey compulsory[^141]. They insisted on tonsure, and prescribed it even on the *upavāsa* day of the arrival at the *tīrtha*though it is contrary to a general rule[^142].They whittled down the result of the pilgrimage to a fraction of what it would be if conveyances or shoes were used in the journey[^143].They denied the absence of untouchability in a *tīrtha-yātrā* and *tīrtha*and limited it to inadvertent pollution only[^144]****(p. 41). Tonsure was made compulsory, and even prohibited days for shaving are over-ruled and allowed for it[^145].In the case of married women alone the removal of a lock of hair instead of tonsure was allow-
+   Lakṣmīdhara simplifies *tīrtha* ritual by making fasting optional, omitting tonsure altogether, explaining the *pitṛ-pūjā* at a *tīrtha* as an obligation of only the opulent (p. 10), allowing conveyances for the journeys, sanctioning vicarious pilgrimage (p. 11) and allowing as many *śrāddhas* as may be needed to be done at a *tīrtha*, irrespective of the time of beginning them, in a single day. To him purity of mind and devout feeling (*viśuddha-manovṛttiḥ*, p. 9) were the essential things in a His pilgrimage and the rites adventitious in comparison. liberalising influence was resisted by later writers. They made *vṛddhi-śrāddha* at the commencement and the termination of the journey compulsory[^141]. They insisted on tonsure, and prescribed it even on the *upavāsa* day of the arrival at the *tīrtha*though it is contrary to a general rule[^142].They whittled down the result of the pilgrimage to a fraction of what it would be if conveyances or shoes were used in the journey[^143].They denied the absence of untouchability in a *tīrtha-yātrā* and *tīrtha*and limited it to inadvertent pollution only[^144](p. 41). Tonsure was made compulsory, and even prohibited days for shaving are over-ruled and allowed for it[^145].In the case of married women alone the removal of a lock of hair instead of tonsure was allow-
 
 [^141]: "Tīrtha-prakāśa, p. 26."
 
@@ -1270,7 +1270,7 @@ view that tonsure at a *tīrtha* has already been noted. He omitsto deal with it
 
 [^253]: "Suicide from this tree was common already in the 7th century (Beal's Si-yu-ki, I, p. 232
 
- The virtues of the baths are graded. A month's regular bathing in the holy *Saṅgama*, following the path of restraint of the senses, washes away all sin (*inf*. p. 148). The imposition of a far sterner course for the betrayer of trust (*viśvāsaghātaka*) extending to three months, at the rate of three baths daily is a reflection of the horror of the betrayer. In the month of Māgha, bathing at Prayāga is most efficacious as an impossible number of *tīrthas* gather within the joint stream (p. 146). The *mela* in this month, and once every sixth and twelfth year, is an old institution, of which we have evidence in Yuwan Chwang in the 7th century[^254]****It is not mentioned by Lakṣmīdhara, in whose time also it must have been current. The merits of gifts are great at Prayāga, and of gold, kine land, and *kanyā* there are highly commended, while the acceptance of gifts, except of a virgin for marriage according the ancient (ārṣa) form, and of land is reprobated with equal emphasis**³**.
+ The virtues of the baths are graded. A month's regular bathing in the holy *Saṅgama*, following the path of restraint of the senses, washes away all sin (*inf*. p. 148). The imposition of a far sterner course for the betrayer of trust (*viśvāsaghātaka*) extending to three months, at the rate of three baths daily is a reflection of the horror of the betrayer. In the month of Māgha, bathing at Prayāga is most efficacious as an impossible number of *tīrthas* gather within the joint stream (p. 146). The *mela* in this month, and once every sixth and twelfth year, is an old institution, of which we have evidence in Yuwan Chwang in the 7th century[^254]It is not mentioned by Lakṣmīdhara, in whose time also it must have been current. The merits of gifts are great at Prayāga, and of gold, kine land, and *kanyā* there are highly commended, while the acceptance of gifts, except of a virgin for marriage according the ancient (ārṣa) form, and of land is reprobated with equal emphasis**³**.
 
 [^254]: " Ettinghausen, Harshavardhana, p. 163; Beal, Si-yu-ki, I, 214ff."
 
@@ -1371,7 +1371,7 @@ release from *Preta-loka* of those for whose sake a piṇḍa isoffered there. O
 
 
 
-the cliff of Amarakaṇṭaka is noticed (p. 200). Hardwār(Māyāpurī) is one of the traditional seven cities of India[^269].^(****)The *Tīrthasudhānidhi*, which attempts to treat the seven, beginswith it. Its identity will hardly be realized by a perusal of thechapter on Kubjāmraka (near Hṛṣikeśa) which deals with theregion (p. 206).
+the cliff of Amarakaṇṭaka is noticed (p. 200). Hardwār(Māyāpurī) is one of the traditional seven cities of India[^269].^()The *Tīrthasudhānidhi*, which attempts to treat the seven, beginswith it. Its identity will hardly be realized by a perusal of thechapter on Kubjāmraka (near Hṛṣikeśa) which deals with theregion (p. 206).
 
 [^269]: "अयोध्या मथुरा माया काशी काञ्ची अवन्तिका ।   पुरी द्वारवती चैव सतैता मोक्षदायिकाः ॥"
 
@@ -11306,7 +11306,7 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 **॥ अथ बदरिकाश्रममाहात्म्यम् ॥**
 
-****
+
 
 तत्र वराहपुराणे-
 
@@ -11437,7 +11437,7 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
  वराह उवाच-
 
-****अस्ति स्थानं परं गुह्यं तस्मिन् गुह्ये शिलोच्चये ।
+अस्ति स्थानं परं गुह्यं तस्मिन् गुह्ये शिलोच्चये ।
 
 गण्डक्याश्चोत्तरे पार्श्वे गिरिराजस्य दक्षिणे ॥
 

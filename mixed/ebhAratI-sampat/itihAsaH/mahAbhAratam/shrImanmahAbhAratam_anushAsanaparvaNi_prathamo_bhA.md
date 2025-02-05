@@ -100,7 +100,7 @@ n is as follows:—Substance—palm-leaf; Size—173 x 2 inches; Leaves–284; L
 
 State. Its description is as follows:— Substance—palm-leaf; Size—16¼ × 1¾ inches; Leaves: —382; Lines 10-11 to a Page; Script –Malayalam; Anusāsana Parvan Complete Date of Transcription—1791 A. D.
 
-****
+
 
 ** ख—**is used for additional readings, etc. The Manuscript belongs to the Adyar Library, Madras. Its description is as follows:—Substance—palm-leaf; Size—19
 
@@ -5654,7 +5654,7 @@ Madras.
 
 
 
-**॥****एकोनविंशोऽध्यायः** **॥**  
+**॥एकोनविंशोऽध्यायः** **॥**  
 
 **![](../books_images/U-IMG-1701509887Screenshot2023-11-07193235.png)**
 
@@ -12416,7 +12416,7 @@ Madras.
 
 [^443]: "क-घ- भुञ्जानद"
 
-****
+
 
 
 
@@ -23018,7 +23018,7 @@ Madras.
 
 
 **विद्यार्थी प्राप्नुयाद्वियां सुखार्थी प्राप्नुयात् सुखम् ॥४९॥  
-न किञ्चिद् दुर्लभं चैव गवां भक्तस्य भारत****॥५०**
+न किञ्चिद् दुर्लभं चैव गवां भक्तस्य भारत॥५०**
 
 
 

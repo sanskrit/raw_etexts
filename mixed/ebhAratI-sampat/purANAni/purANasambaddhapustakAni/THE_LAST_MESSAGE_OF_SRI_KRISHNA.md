@@ -440,7 +440,7 @@ devotees in diverse forms for attaining equal [glories](https://#%C2%A0 "Equal g
 **वयंत्विहमहायोगिन्भ्रमन्तः कर्मवर्त्मसु।  
 त्वद्वार्तया तरिष्यामस्तावकैर्दुस्तरं तमः॥४८॥**
 
- 48. But we, 0 great Yogin, who wander in the world through the by-ways of [work](https://# "[Work—We are not so advanced people, consequently ours is the path of work, we cannot ignore our duties in life.]"),will transcend its darkness, so difficult to wade through, by conversing about Thee with Thy devotees: ****
+ 48. But we, 0 great Yogin, who wander in the world through the by-ways of [work](https://# "[Work—We are not so advanced people, consequently ours is the path of work, we cannot ignore our duties in life.]"),will transcend its darkness, so difficult to wade through, by conversing about Thee with Thy devotees: 
 
 **स्मरन्तः कीर्तयन्तस्तेकृतानि गदितानि च।  
 गत्युस्स्मितेश्षणक्ष्वेलि यन्नृलोकविडम्बनम्‌॥४९॥**
@@ -781,7 +781,7 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 
 
 
-**स्वच्छः प्रकृतितः स्नि****ग्धो माधुर्यस्तीर्थभूर्नृणाम्।  
+**स्वच्छः प्रकृतितः स्निग्धो माधुर्यस्तीर्थभूर्नृणाम्।  
 मुनिः पुनात्यषां मित्रमीक्षोपस्पर्शकीर्तनैः॥४४॥**
 
  44. [Pure](https://# "[Pure etc. —It should be noticed how these adjectives apply both to water and the sage."), genial by nature, sweet and a source of imparting [holiness](https://# "Holiness etc. —e.g. the sacred rivers and lakes etc.")to men, the sage—resembling water purifies all, being [seen](https://# "Seen etc.—One becomes pure by seeing, touching and singing praises to the sacred waters as well as the saint.]"), touched and praised by them.
@@ -1118,7 +1118,7 @@ becomes more [troublesome](https://# "[More troublesome— hence the secret of c
 **पिङ्गला नाम वेश्यासीद्विदेहनगरे पुरा।  
 तस्या मे शिक्षितं किंचिन्निबोध नृपनन्दन॥२२॥**
 
- 22. In days of yore, there was a courtesan****named Pingalâ in the city of Videha. I have learnt something from her. Listen to it, O King.
+ 22. In days of yore, there was a courtesannamed Pingalâ in the city of Videha. I have learnt something from her. Listen to it, O King.
 
  **\[The lesson of satiety or disgust for worldly things received from Pingalâis narrated in these Verses up to the end of the chapter.\] **
 
@@ -1597,7 +1597,7 @@ Guru, not hasty, eager to know the Truth, free from envy, and not given to unnec
 **मन्यसे सर्वभावानां संस्था ह्यौत्पत्तिकी यथा।  
 तत्तदाकृतिभेदेन जायते भिद्यते च धीः॥१५॥**
 
- 14-15.****If you suppose**¹** that these doers of action and experiencers of happiness and misery are many in number, or that the heavenly spheres, time, [scriptures](https://# "Scriptures—enjoining selfish work.]") and souls are eternal, or that the existence ol all things is eternal as a series and is real, and that knowledge originates and is diverse according to the form of things cognised,—
+ 14-15.If you suppose**¹** that these doers of action and experiencers of happiness and misery are many in number, or that the heavenly spheres, time, [scriptures](https://# "Scriptures—enjoining selfish work.]") and souls are eternal, or that the existence ol all things is eternal as a series and is real, and that knowledge originates and is diverse according to the form of things cognised,—
 
 ————————————————————————————————————————
 
@@ -8695,7 +8695,7 @@ through His own powers[^792]assumes a triple form[^793],said with a loving, beau
  22. Herein lies the wisdom of the wise, and the cleverness of the intelligent, that in this very birth they attain Me, the Real and Immortal, by means of something that is unreal and mortal.
 
 **एष तेऽभिहितः कृत्स्नो ब्रह्मवादस्य संग्रहः।  
-समासव्यासविधिना देवानामपि दुर्गमः****॥****२३****॥**
+समासव्यासविधिना देवानामपि दुर्गमः॥२३॥**
 
  23. Here I have given you, in a synthetic as well as an analytic way, a complete epitome of the philosophy of Brahman, which is unintelligible even to the gods.
 
@@ -9077,11 +9077,11 @@ English Translations, Etc.**
 
 **  By Swami Swarupananda. Contains word-for- word English rendering followed by running translation and exhaustive Notes. Highly appreciated by all. Beautiful cloth-binding. Also an Index to the first line of every Sloka and topics. Fifth Edition. Price Rs. 2-8. To Subscribers of P. B. Rs. 2-4.**
 
-** ****Viveka-Chudamani of Sankaracharya**
+** Viveka-Chudamani of Sankaracharya**
 
 **  By Swami Madhavananda. A most valuable and lucid compendium of Advaita Philosophy. Third Edition. Price Rs. 2. To Subscribers of P. B. Re. 1-12.**
 
-** ****Vedantasara of Sadananda**
+** Vedantasara of Sadananda**
 
 **  By Swami Nikhilananda, President, Ramakrishna- Vivekananda Centre, New York, U.S.A. One of the best known epitomes of Advaita Philosophy. In this some of the special features of the excellent commentaries written on it have been beautifully presented. Price Re. 1-4. To Subscribers of P. В. Re. 1-2.**
 
@@ -9093,7 +9093,7 @@ English Translations, Etc.**
 
 **  Containing Paramahamsa, Atma, Amritabindu, Tejabindu, Sarva, Brahma, Aruneyi and Kaivalya Upanishads, with an elaborate Introduction. Price Re. 1. To Subscribers of P. B. As. 14.**
 
-** ****Altar Flowers**
+** Altar Flowers**
 
 **  A bouquet of choicest Sanskrit hymns with English translation. Pocket size; beautiful get-up. Pages about 300. Cloth-bound. Price Re. 1-4. To Subscribers of P. B. Re. 1-2.**
 

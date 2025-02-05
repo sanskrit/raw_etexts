@@ -32,7 +32,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NzI5MzUyMDY
 **s** (element of length or distance) **ध,1.**(distance) **द  
 S** *Bact.* **1.**(Salmonella)**अ. वि.** (अन्नविषाणु-प्रजाति)**,2.**(Serratia) **इ.** (इष्टकारक्त-प्रजाति)**, 3.**(Shigella) **अ.**
 
-**आ.**(अवलान्त्रागु-प्रजाति)**,4.**(Spirillum) **अधिकु.** (अधिकुन्तलाणु-प्रजाति)***,*****5.**(Spirochaeta = Spirochaetae) **कु.** (कुन्तलाणु-प्रजाति)**, 6.**(Streptothrix) **मा. वे.** (मालावेत्राणु-प्रजाति)
+**आ.**(अवलान्त्रागु-प्रजाति)**,4.**(Spirillum) **अधिकु.** (अधिकुन्तलाणु-प्रजाति)***,*5.**(Spirochaeta = Spirochaetae) **कु.** (कुन्तलाणु-प्रजाति)**, 6.**(Streptothrix) **मा. वे.** (मालावेत्राणु-प्रजाति)
 
 **s.**(second) **वि.** (विकला)  
 **s.** (secondary) *Chem.* **द्वि** (द्वितीयक)  
@@ -50,7 +50,7 @@ s** *Phys.* (specific heat) **ऊ** (आपेक्षिक ऊष्मा)
 **S** (sulphur) *Chem.* **शु** (शुत्त्वारि)  
 **S**
 
-*Statistics*****
+*Statistics*
 
 (summation) **यो**
 
@@ -291,7 +291,7 @@ sacrum = sacral bone = os sacrum त्रिक** *n.*
 **S.A.D.** (Senior Assistant, Dispute) **ज्ये स. वि.** (ज्येष्ठ सहायक, विवाद)  
 **Sadachbia = *γ* Aquarii** *Astro.***तृतीय कुम्भ** *m.*  
 **Sadalmelik = *α* Aquarii** *Astron.***प्रथम कुम्भ** *m.*  
-**Sadalsuud =** **β****Aquarii** *Astron.***द्वितीय कुम्भ** *m.*  
+**Sadalsuud =** **βAquarii** *Astron.***द्वितीय कुम्भ** *m.*  
 **saddle** *Anat.***पल्याण** *n.*  
 **saddle fungus** (a fungus of the genus *Helvella*) **पल्याण-कवक  
 saddle gall काठी का घाव, पल्याण-व्रण  
@@ -305,7 +305,7 @@ sadism पीडातोष, पीडानन्द** *m.*
 **Sadr = Cygni** *Astron.***तृतीय राजहंस** *m.*  
 **S. A. E.** (Senior Assistant, Establishment) **ज्ये.स.स्था.** (ज्येष्ठ सहायक, स्थापना)  
 **S. A. F.** (special armed force)**वि.सा.ब.** (विशेष सायुध बल)  
-**safe** *adj.******(free from danger)* **सुरक्षित, अभय, क्षेम  
+**safe** *adj.**(free from danger)* **सुरक्षित, अभय, क्षेम  
 safe** *n.* (a chest) **सुरक्ष** *m.***, तिजोरी  
 safe and suitable सुरक्षित और समुचित  
 safe berth सुरक्षित लांगलस्थान  
@@ -393,7 +393,7 @@ sag** *vb*. **1.**(to sink below a level)**अव-मज्जन 2.**(to bend d
 **Sagain** (a city on the right bank of Irrawaddy ) **जयपुर** *n.* ( in शासनवंश)  
 **Sagartia** *Zool.***आयुधि-प्रजाति  
 sage 1. मुनि, ऋषि, महर्षि** *m.***2.***Bot.* **तुलसीबन्धु** *m.*  
-**sagebrush** (any of several species of *Artemisia*, esp. *A*. *tridentata*)****
+**sagebrush** (any of several species of *Artemisia*, esp. *A*. *tridentata*)
 
 **त्रिदन्तक***m.*  
 
@@ -880,7 +880,7 @@ salt-pan** *Geol.* **लवणकुण्ड** *n.*
 **saltpeter** (potassium nitrate) **यवक्षार** *m.***niter पाक्य  
 salt preservative लवण-परिरक्ष  
 salt pseudomorph shale लवण कूटरूप जम्बशिला  
-sal tree** (*Shorea* *robusta*) **शाल** *m**.*** (B., N.),******साल का वृक्ष  
+sal tree** (*Shorea* *robusta*) **शाल** *m**.*** (B., N.),**साल का वृक्ष  
 salt research committee लवण-अन्वेषण-समिति  
 salt revenue लवण-आगम  
 salt revenue officer लवण-आगम-अधिकारी  
@@ -916,7 +916,7 @@ salvage 1.**(the act...) **नाश-रक्षण** *n.***2.**(that which is 
 paid...)  
 
 **नाशरक्षण-शुल्क** *n.*  
-**military salvage सैनिक नाशरक्षण****  
+**military salvage सैनिक नाशरक्षण  
 **civil salvage असैनिक नाशरक्षण**
 
 **salvage fee नाशरक्षण-शुल्क  
@@ -924,7 +924,7 @@ salvage Loss** *Law* **नाशरक्षण-हानि,
 salvage service नाशरक्षण-सेवा  
 salvage undertaking नाशरक्षण-उपक्रम  
 salvaging नाशरक्षण** *n.*  
-**salvarsan** (Lat. *salvus* 'save' + Germ.sample area *arsen* 'arsonic') *Pharm.*****(atrademark
+**salvarsan** (Lat. *salvus* 'save' + Germ.sample area *arsen* 'arsonic') *Pharm.*(atrademark
 
 applied to arsphenamine) **नेपदर्शतिक्ती***f.*
 
@@ -1134,7 +1134,7 @@ sandhopper सिकतावल्गी** (-इन्) *m*.
 
 **sanding** *Rly.* **वालुपातन** *n.*  
 **sanding ejector** *Rly.* **वालु-निक्षेपक  
-sanding gear** *Rly.* **वालुपाती** (-इन्)*****m.,*  
+sanding gear** *Rly.* **वालुपाती** (-इन्)*m.,*  
 **sanding gear levers** *Rly.* **वालुपाती उद्याम  
 sand islands वालुद्वीप  
 sandix = Saturn red  
@@ -1518,7 +1518,7 @@ satisfy** *vb.* **1.संतोष देना 2.समाधान करन�
 satisfy a debt ऋण चुकाना  
 satisfy an equation समीकार-समाधान** (सम + आ + धान 'putting together well, adjust')  
 **satisfy conditions प्रतिबन्ध-पालन  
-sativus** *Bot. * (that which is sown) **** **उप्त** (past part. from$\\sqrt{}$वप् 'to sow')  
+sativus** *Bot. * (that which is sown)  **उप्त** (past part. from$\\sqrt{}$वप् 'to sow')  
 **Satpura Range** *Geog.* **विन्ध्यपाद-पर्वत, वैदूर्य-पर्वत***m.*  
 **saturability अनुत्रेध्यता** *f.*  
 **saturable** *adj.* **अनुवेध्य  
@@ -1567,7 +1567,7 @@ Sauromatum guttatum सामान्य भस्मकन्द** (M.P. *bhas
 **Sauropatis** *Aves* **कुलीराश-प्रजाति** (it feeds -अश almost exclusively on crabs कुलीर)  
 **sauropod चतुश्चर** *m.*  
 **Sauropoda** *Paleontol.* (they were quadrupedal–PH. II.390) **चतुश्चरानुगण***m.*(अनुगण suborder)  
-**Sauropsida** *Zool.*****(a comprehensive group which includes birds पक्षी and reptiles सरीसृप)
+**Sauropsida** *Zool.*(a comprehensive group which includes birds पक्षी and reptiles सरीसृप)
 
 **पक्षिसरीसृपाः***m.pl.*
 
@@ -1621,7 +1621,7 @@ save our soul** *Mil.* **आत्मरक्षा** *f.*
 
 *(हपुषा juniper)*
 
-**saving** *adj.* **संचयी** (-इन्)****  
+**saving** *adj.* **संचयी** (-इन्)  
 
 **saving** *n.* **1.संचय** *m.,* **संचयन** *n.,* **बचत 2.** *Law* **व्यावृत्ति** *f.* (Const.)
 
@@ -1733,7 +1733,7 @@ saxophone** (used specially in military bands) **रणमुरली** *f.*
 
 **खुरण्ड, पपड़ी**
 
-**3.** (a dirty, paltry fellow, a scoundrel) **दुष्ट, धूर्त***m.,***टुच्चा 4.** (a workman who works under conditions contrary to those prescribed by the trade-union)**असहयोगी** (-इन्) ** *m.*********6. Plant** *Pathol.* **पामा** *f.*
+**3.** (a dirty, paltry fellow, a scoundrel) **दुष्ट, धूर्त***m.,***टुच्चा 4.** (a workman who works under conditions contrary to those prescribed by the trade-union)**असहयोगी** (-इन्) ** *m.*6. Plant** *Pathol.* **पामा** *f.*
 
 **scabbard असिकोष, -कोष***m.*  
 **scabies खर्जु** *f.*  
@@ -1762,7 +1762,7 @@ scald द्रवदहन
 scaldberry = blackberry** (*Rubus* *fruticosus*) **कृष्णबदरी** *f.*  
 **scale** *n.* **1.श्रेणी.** *f.***2.***Admin* (as, of pay) **श्रेणी** *f.***general scale सामान्य श्रेणी special scale विशेष**
 
-**श्रेणी 3.**(lit. 'ladder', anything graduated, ameasure or rule) **मापश्रेणी, अंकश्रेणी, श्रेणी** *f.* ** 4.**(relative measure) **अनुमाप** *m.* (as, on a small scale)**5.मापनी** *f.***6.**(balance) **तुला** *f.***7. शल्क** *m.***8.**(scaly coating of oxide) **पर्पटी** *f.***9.***Music*****
+**श्रेणी 3.**(lit. 'ladder', anything graduated, ameasure or rule) **मापश्रेणी, अंकश्रेणी, श्रेणी** *f.* ** 4.**(relative measure) **अनुमाप** *m.* (as, on a small scale)**5.मापनी** *f.***6.**(balance) **तुला** *f.***7. शल्क** *m.***8.**(scaly coating of oxide) **पर्पटी** *f.***9.***Music*
 
 **ग्राम** *m.*
 
@@ -1801,7 +1801,7 @@ scale of visibility दृश्यता-मापश्रेणी$\\underset
 **scalepan तुला-पात्र** *n.*  
 **scales** (a balancescales: usually em-body a system of multiplying levers उद्याम) **उत्तुला**
 
-(= उद्यामतुला),****
+(= उद्यामतुला),
 
 **तुला***f.(further see scale)*
 
@@ -1852,7 +1852,7 @@ a peer, judge, or other great officer of the realm)**महन्-मानह�
 **scandent** *Bot.* (climbing) **आरोही, वाला  
 scandent plant आरोही पादप, चढ़ने वाला पौधा  
 scandia** *Chem.* (scandium oxide) **स्तोकजा** *f.*  
-**scandium** (eka-boron) *Chem.* **स्तोकातु** *m.*****(एक-टांकण)  
+**scandium** (eka-boron) *Chem.* **स्तोकातु** *m.*(एक-टांकण)  
 **Scanner** *Elec.* **अन्वनुलोकित्र** *n.*  
 **scanning** *Radar* (swinging the antenna around or up and down to direct the radar beam
 
@@ -1878,7 +1878,7 @@ scaphognathite** *Zool.* (Gk. *skaphe* 'boat') **नौहनुक** *m.*
 scaphoid** *adj. (boat-shaped)* **नौकारूप, नौकाकार, नावाकार  
 Scaphopoda** *Zool.* (having spade खनित्र like foot) **खनित्रपादाः** *m.pl.*  
 **scapigerus** *Bot. Tax* (bearing leafless stem) **अपर्णवृन्त  
-scapolite** (pyramidal division of the tetragonal system) **स्तूपिज** *m.*****(स्तूप pyramid, इज for
+scapolite** (pyramidal division of the tetragonal system) **स्तूपिज** *m.*(स्तूप pyramid, इज for
 
 खनिज mineral)
 
@@ -2054,7 +2054,7 @@ Scheele's green** (acolour, yellowgreen पीतहरिin hue, saturation and
 
 चण्डीय tungstate, -इज for खनिज mineral)
 
-**scheme** *n.***1. योजना** *f.*****(Const.)**2.सारणी** *f.***3.सरणि** *f.*****  
+**scheme** *n.***1. योजना** *f.*(Const.)**2.सारणी** *f.***3.सरणि** *f.*  
 
 **scheme** *vb.* **योजना बनाना  
 scheme for improvement and welfare सुधार तथा कल्याण योजना  
@@ -2316,11 +2316,11 @@ Sciadopitys** *Bot.* (the only known species is S. *verticillata*, the umbrella 
 
 **Sciadopitys verticillata** (umbrella pine)**सामान्य छत्रसरल  
 scia-machy छाया-युद्ध** *n.*  
-**sciatic** *adj. Zool**.*** **** (pertaining to the hip) **नितम्ब-, नैतम्ब  
+**sciatic** *adj. Zool**.***  (pertaining to the hip) **नितम्ब-, नैतम्ब  
 sciatica** *Med.* **राजचेता-शूल** *m.*  
 **sciatic** artery. **= gluteal artery** *Anat.***नितम्ब-रोहिणी  
 sciatic foramen** *Anat.* **नितम्ब-छिद्र  
-sciatic nerve** (largest nerve in the****body) **राजचेता, नितम्ब-चेता  
+sciatic nerve** (largest nerve in thebody) **राजचेता, नितम्ब-चेता  
 sciatic notch** *Anat.* **नितम्ब-काकपद  
 sciatic plexus** *Zool.* **नितम्ब-प्रताप  
 sciatic swelling** *Zool.* **नितम्ब-गण्ड  
@@ -2446,7 +2446,7 @@ sclerenchyma** *Bot.* (a tissue with cell walls thickened and lignified) **द�
 **sclerenchymatous** *Bot.* **दृढकोशाभित्ति-  
 sclerenchymatous bundle** *Bot.* **दृढ-कोशाभित्ति-पूल  
 sclerenchymatous fibres** *Bot.* **दृढकोशाभित्ति-तन्तु  
-scleriasis** *Ophthalmol.*****(induration of the edge of the eyelid) **वर्त्मतटजारठ्य***n.*  
+scleriasis** *Ophthalmol.*(induration of the edge of the eyelid) **वर्त्मतटजारठ्य***n.*  
 **sclerite** *Zool.* **दृढक** *n.*  
 **scleritis** *Med.* **शुक्लाकोप** *m.*  
 **sclero- scler- 1दृढ- 2.शुक्ला-  
@@ -2559,7 +2559,7 @@ score 1.** (a group of 20) **विंशक** *n.***2. = score mark** *Statisti
 
 **on the score of के नाते**
 
-**score** *vb***.** *Engin.*****निर्लेखन**  
+**score** *vb***.** *Engin.*निर्लेखन**  
 scoreboard धावांक-फलक** (Cf. Mar. धावांचा फलक)  
 **scoremark** *Statistics* **गणना-चिह्न  
 score out** (an entry) **काट डालना, काटना  
@@ -2742,7 +2742,7 @@ scrub forest = scrub jungle
 scrub jungle क्षुद्ररोह-वन, क्षुद्र वन, झाड़ झडूले का जंगल  
 scrub-pine लघु-सरल  
 scrub-warbler क्षुप-कूजिनी  
-scruple** (s. ap.; 20 grains) **प्रमाष** *m.*****(प्रमा; २० यत्र)  
+scruple** (s. ap.; 20 grains) **प्रमाष** *m.*(प्रमा; २० यत्र)  
 **scruples संकोच** *m.*  
 **scrupulous attention अत्यवधान  
 scrupulous cleanliness नितान्त स्वच्छता  
@@ -2755,7 +2755,7 @@ scrutinize receipts and expenditure प्राप्ति और व्यय
 scrutiny परिनिरीक्षा** *f.*  
 **S.C.S.T.** (Second Clerk Sales Tax) **द्वि.लि.वि.क.** (द्वितीय लिपिक विक्रय-कर)  
 **scud** (vapoury clouds driven swiftlyby the wind) **चलाभ्र** *n.* (cf. scud to move')  
-**seuffle** *Law* (I.P.C.) **विमर्द** *m**.*** **** (ancient word), **हाथापाई** (see affray)  
+**seuffle** *Law* (I.P.C.) **विमर्द** *m**.***  (ancient word), **हाथापाई** (see affray)  
 **scull cap = helmet flower  
 Scully's tubenosed bat** *Mamm.* **गिलगित नाली-नास जतु** (the only specimenwas obtained
 
@@ -2878,7 +2878,7 @@ sea cow** *Zool.* **समुद्रगो**
 
 **dugong हस्तिमकर**
 
-**seacraft 1.**(sea-going ships) **समुद्रयान** *n.**,*****2.** (skill in navigation) **नौनैपुण्य** *n.*(short for
+**seacraft 1.**(sea-going ships) **समुद्रयान** *n.**,*2.** (skill in navigation) **नौनैपुण्य** *n.*(short for
 
 नौतरण- नैपुण्य )
 
@@ -3184,7 +3184,7 @@ secale cornutum = ergot** *Pharm.***गदाक-कण** *m.*
 Secamone emetica सामान्य-अंगारवल्ली** (Tam. *angaravalli*)  
 **secant 1.** *Geom.* (a line that cuts- another; esp. a straight line cutting a curve in one or
 
-more points) **छेदिका** *f.**,*****2.***Trig.* **ब्युत्क्रमकोटिज्या, व्युत्कोज्या** *f.*
+more points) **छेदिका** *f.**,*2.***Trig.* **ब्युत्क्रमकोटिज्या, व्युत्कोज्या** *f.*
 
 **sec.-butyl द्वित.-घृतल  
 secede** *vb.* **अलग होना, पृथक् होना, निर्गमन, संबन्ध-विच्छेद करना  
@@ -3707,7 +3707,7 @@ Sedumspathifolium** (*spathifolium* 'spatulate leaves' स्रुव-पर्
 **S.E. E.** (east of south east)**आ. पू.** (आग्नेय-पूर्वा)  
 **Seebohm's sand-lark** *Aves* **पश्चिमोत्तर सैकत-कृकराट  
 seed बीज** *n.,*  
-**seed** *vb.* **1. बीजवपन, बीज बोना, 2.** (to bear seed) (Fr. porter *semence*,****Germ. *Samen*
+**seed** *vb.* **1. बीजवपन, बीज बोना, 2.** (to bear seed) (Fr. porter *semence*,Germ. *Samen*
 
 *tragen*)
 
@@ -3756,11 +3756,11 @@ means of hot air- I.F.R.) **बीज-आपाक, बीज अलग कर�
 
 **seed lac कणात्मक लाक्षा  
 seed leaf** *Bot.* **बीज-पत्र  
-seedling 1.** *Hort.* (a plant grown from Seed) **बीजजात** *m., 2.******Forestry (any*
+seedling 1.** *Hort.* (a plant grown from Seed) **बीजजात** *m., 2.**Forestry (any*
 
 *young tree)* **नवपादप** *m.,*
 
-****3.** (small seed) **क्षुद्रबीज** *n.,* **4.** *Bot.* **बीजांकुर** *m.*
+3.** (small seed) **क्षुद्रबीज** *n.,* **4.** *Bot.* **बीजांकुर** *m.*
 
 **seedling competition** *Forestry* **नवपादपस्पर्धा**  
 
@@ -4210,7 +4210,7 @@ selling out *Exchanges* हानिदेय विक्रयण,उद्व
 selling rate विक्रयार्ध  
 selling value विक्रय -अर्हा  
 selvage = selvedge  
-selvedge** (the edge of acloth) **दशा** *f.*****(ancient word)**, किनारा  
+selvedge** (the edge of acloth) **दशा** *f.*(ancient word)**, किनारा  
 Semaeostomae = Semaeostomata  
 Semaeostomata** *Zool.* (having a largemouth with four long grooved andoften tuberoulated
 
@@ -4254,7 +4254,7 @@ semi-circular arch अर्धवृत्त चाप
 semi-circular. canal** *Zool.***अर्धवर्तुल कुल्या  
 semi-circular error** *Navy* (error in mariner's compass) **अर्धवर्तुल विभ्रम  
 semi-circular spade अर्धगोल खनित्र, अर्धगोल फावड़ा  
-semi-colon अर्ध-विराम** *m.*****(seepunotustion marks)  
+semi-colon अर्ध-विराम** *m.*(seepunotustion marks)  
 **semiconical spade अर्धशंक्त्राकार खनित्र, अर्धशंक्वाकार फावड़ा  
 semi-conjugate axis** *Math.* **सामि-अनुबद्ध अक्ष  
 semi-conjugate diameter** *Math.* **सामि-अनुबद्ध व्यास  
@@ -4826,7 +4826,7 @@ seriously affect गम्भीरतया प्रभावित करन�
 
 **serious mechanical defect भारीयान्त्रिक दोष  
 serious misappropriation गम्भीर अपाहरण  
-seriousness गम्भीरता***f.**,*****to take serious notice कठोरता से विचारकरना, गम्भीरतापूर्वक**
+seriousness गम्भीरता***f.**,*to take serious notice कठोरता से विचारकरना, गम्भीरतापूर्वक**
 
 **विचार करना**
 
@@ -4923,7 +4923,7 @@ serrate leaf** *Bot.* **क्रकच-पत्र** (ancientword)
 
 **धीवर -इष्टकारक्त** (धीवर a fisherman)
 
-**serration क्रकचवत्ता** *f.*****(क्रकचवत् serrate)  
+**serration क्रकचवत्ता** *f.*(क्रकचवत् serrate)  
 **serrato-dentate** *adj. Bot.* **ऋकच-दन्तुर  
 serratus** *Bot.* **क्रकच** *m.*  
 **serratus** *Bot. Tax.* **क्रकचित  
@@ -5074,7 +5074,7 @@ sesquipedalis** *Bot. Tax.* (a foot-and-a-half long) **दशहस्त** (cf.
 दशहस्ता हरीतकी)
 
 **sesqui-terpene सार्ध-सरलेम्ब  
-sessile** *adj. Bot.*****('seated', not raised upon a stalk) **अबृन्त, निषण्ण  
+sessile** *adj. Bot.*('seated', not raised upon a stalk) **अबृन्त, निषण्ण  
 sessile barnacle लग्न खण्डावर  
 sessile leaf** *Bot.* **अबृन्त पर्ण  
 sessile oak** *(Quercus sessiliflora)* **अबृन्तपुष्प वञ्जु  
@@ -5147,7 +5147,7 @@ set off** *vb.* **1.***Law, Com.* (set against)**प्रतिसादन, 2.
 
 **प्रतिविरूपण**
 
-**setoff** *n. Law* **प्रतिसादन***n.**,*****counter-claim प्रति-अध्यर्थना  
+**setoff** *n. Law* **प्रतिसादन***n.**,*counter-claim प्रति-अध्यर्थना  
 set of points** *Math.* **बिन्दु-कुलक  
 set of scales** *Surv.* **श्रेणी-कुलक  
 set of values अर्हा-कुलक  
@@ -5185,7 +5185,7 @@ setting of jelly इलेव्यक का जमना
 setting out** (of works) *Surv.* **उपक्रमण** *n.*  
 **setting the exposure required** (in acamera) **अपेक्षित-प्रकाश-स्थापन  
 setting the instrument** *Surv.* **उपकरणका व्यवस्थापन  
-setting up 1.स्थापना** *f.**,*****2.व्यवस्थापन** *n.***,3.** (as, the skull of a killed tiger)**मढ़ना  
+setting up 1.स्थापना** *f.**,*2.व्यवस्थापन** *n.***,3.** (as, the skull of a killed tiger)**मढ़ना  
 setting up of apparatus साधित्र काव्यवस्थापन  
 settle** *vb.* **1.**(to establish in residence or in a domicile) **बस जाना** (Const.)**, बसना, 2.**(to fix
 
@@ -5288,7 +5288,7 @@ sewage system मलप्रवाह-पद्धति
 sewage water मलप्रवाह-जल  
 Sewardiella** *Bot.* (has an undividedwing) **अभक्तपक्ष-प्रजाति  
 sewellel** *Zool.* (a burrowing rodent)**रदनिका** *f.*  
-**sewer 1.सीवक** *m.**,*****2.**(a machine) **सीवित्र** *n.***3.मलप्रणाल** *m.***4.महाप्रणाल** *m.*  
+**sewer 1.सीवक** *m.**,*2.**(a machine) **सीवित्र** *n.***3.मलप्रणाल** *m.***4.महाप्रणाल** *m.*  
 **sewerage मलप्रवाह-पद्धति** *f.*  
 **sewered** *adj.* **मलप्रणाल-सज्जित  
 sewer inspector मलप्रणाल-निरीक्षक  
@@ -5378,7 +5378,7 @@ sexual tonic वाजीकरण** *n.* (ancient word)
 sex units** (units of sexual union) **मिथुनांग** *n.*  
 **Seymouria** *Paleontol.* (presents peculiarities of limb-bones and of feet — S w i n n e r t o n
 
-p.333)****
+p.333)
 
 **चित्रपादप्रजाति**
 
@@ -5445,7 +5445,7 @@ shaft 1. ईषा** *f.* (ancient word. Also used in Thailand)
 
 **2.** (of a bone) *Zool. * **अस्थिदण्ड** *m.*
 
-**3.**(of a mine)****
+**3.**(of a mine)
 
 **कूपक** *m.* (a well-like passage)
 
@@ -5663,7 +5663,7 @@ shaving soap क्षौर-फेन
 sheaf पूल** *m.*  
 **shear** *n.* **1.***Math.* (transformation of a figure effected by a displacement ofeach of its points
 
-parallel to a givendirection) **अभिविरूपण,** (shearing deformation) **स्पबल-विरूपण** *n.***2.***Mech.* **a.** (internal force tangentialto the section on which it acts)**स्पान्तर्बल** *n.* (स्प = स्पज्या),**b. = shearing force = shearing stress = tangential stress** (an action orstress, which causes parts of a bodyto slide relatively to each other)**सर्पक बल** *n.***, सर्पक क्रिया** *f.***, स्पबल** *n.*****(short for स्पर्शरेखीय प्रत्याबल 'tangentialstress')
+parallel to a givendirection) **अभिविरूपण,** (shearing deformation) **स्पबल-विरूपण** *n.***2.***Mech.* **a.** (internal force tangentialto the section on which it acts)**स्पान्तर्बल** *n.* (स्प = स्पज्या),**b. = shearing force = shearing stress = tangential stress** (an action orstress, which causes parts of a bodyto slide relatively to each other)**सर्पक बल** *n.***, सर्पक क्रिया** *f.***, स्पबल** *n.*(short for स्पर्शरेखीय प्रत्याबल 'tangentialstress')
 
 **shear** *vb.* **1.**(to cut off the hair) **रोमकल्पन, ऊर्णाकल्पन, केशकल्पन, ऊन उतारना, 2.***Mach.* **कल्पन,**
 
@@ -5890,7 +5890,7 @@ shipment 1.**(goods sent and received by the ship)**नौ-भाण्ड** *n.
 
 **2.**(loading a ship) **नौ-भरण** *n.*
 
-****3.**(consignment through aship) **नावेषण** *n.,* **जलयान से भेजना**
+3.**(consignment through aship) **नावेषण** *n.,* **जलयान से भेजना**
 
 **shipment abroad विदेश भेजना**  
 
@@ -5911,7 +5911,7 @@ shipper पौतिक, नाविक** *m.,*
 
 **1.**(one who sends goods by ships)**पोतवणिक्** *m.***2.**(one who loads
 
-on aship)****
+on aship)
 
 **पोतभारिक, नौभारिक** *m.*
 
@@ -6549,7 +6549,7 @@ sidereal midnight** *Astron.* **नाक्षत्र मध्यरात�
 sidereal minute नाक्षत्र कला  
 sidereal month नाक्षत्र मास  
 sidereal noon** *Astron.* **नाक्षत्र मध्याह्न  
-sidereal period, sidereal revolution** *Astron.*****(time in which a planet or satellite completes one
+sidereal period, sidereal revolution** *Astron.*(time in which a planet or satellite completes one
 
 revolution round its primary) **परिक्रमण-काल**
 
@@ -6587,7 +6587,7 @@ side-walk पार्श्वपदी** *f.***, पार्श्व-पथ*
 **sideway पार्श्वमार्ग** *m.*  
 **sideways पार्श्वतः  
 siding 1.पार्श्वक** *n.***2.***Rly.* (a short track) **पथिका** *f.*  
-**sidling** *n.*****(a strip of bordering land)**पार्श्वभूमि** *f.*  
+**sidling** *n.*(a strip of bordering land)**पार्श्वभूमि** *f.*  
 **siege पर्यवरोध** *m.,* **घेरा  
 siege artillery पर्यवरोध-शातघ्न  
 Siegesbeckia** *Bot.* (genus of plants with boat-shaped नौ bracts निपत्र)**नौनिपत्र-प्रजाति  
@@ -6630,7 +6630,7 @@ screen** (with circular openings) **गोल-चालन**
 **sift** *vb.* **1.**(छलनी से) **छानना, चालन, 2.छांटना  
 sifter 1.चालक** *m.***2.चालनी***f.*  
 **Sig. 1.**(signature)**ह.** (हस्ताक्षर),**2.***Pharm.* (signature of a prescription) **मा.** (मात्रानिर्देश)  
-**Sigaretus** *Zool.*****(shell auriform—CNH.)**श्रवणशंख-प्रजाति** (श्रवण ear, Lat. *auris*'ear')  
+**Sigaretus** *Zool.*(shell auriform—CNH.)**श्रवणशंख-प्रजाति** (श्रवण ear, Lat. *auris*'ear')  
 **Sigaretus laevigatus** (frequents wet sand—CNH.
 
 III.186) **आर्द्रवालु-श्रवणशंख  
@@ -6663,7 +6663,7 @@ sight vane** *Surv.* **दर्श-फलक**
 
 **प्रजाति**
 
-**sigma** (*Σ*) **** *see* **p. 1274**
+**sigma** (*Σ*)  *see* **p. 1274**
 
 **sigmoid** *adj.* **1.**(shaped-like S) **अवग्रहाभ** (ऽ अवग्रह)**2.**( shaped like C) **अर्धचन्द्र** (Cf. greater
 
@@ -6799,7 +6799,7 @@ silex** *Chem.* **सैजा** *f.***1.**(silica) **सैकजा** *f.***2.
 
 *Cf.* **quartziteस्फटिकाश्म**
 
-**silhouette तिमिरचित्र** *n.*****(used in Marathi)  
+**silhouette तिमिरचित्र** *n.*(used in Marathi)  
 **silic-** (silicon) **सैकत-  
 silica** *Chem.* (silicon dioxide) **सैकजा** *f.*  
 **silica basin सैकजा-पात्री  
@@ -6872,7 +6872,7 @@ silicify** *vb. Chem.* **सैकजायन**
 3.**(to become silicified) **सैकजायित होना**
 
 **silicious = siliceous  
-Silicispongiae** *Zool.* **सैजाछिद्रिष्ठाः*****m.pl.*  
+Silicispongiae** *Zool.* **सैजाछिद्रिष्ठाः*m.pl.*  
 **silicium = silicon  
 silicium bronze =silicon bronze  
 siliciuretted** *adj. Chem.* **सैकतित,** (combined or impregnated with silicon) **सैकता-युक्त, -योजित,**
@@ -7755,7 +7755,7 @@ skiagrapher छायाचित्रक** *m.*
 **skid** *n. Rly.* (a check, curb) **अवरोध** *m.*  
 **skid** *vb. Rly. * (to slide, without rotating) **सर्पण, अलोठसर्पण  
 skidway = slide***Forestry* **सर्पिका** *f.***, ढलवीं नाली  
-skill दक्षता** *f.***, प्रावीण्य, नैपुण्य, कौशल** *n.**,*****कुशलता** *f.*  
+skill दक्षता** *f.***, प्रावीण्य, नैपुण्य, कौशल** *n.**,*कुशलता** *f.*  
 **skilled** *adj.* **दक्ष, प्रवीण, कुशल**
 
 **highly skilled अतिदक्ष  
@@ -7822,7 +7822,7 @@ or other vessel containing this material in the molten state) **कर्पर*
 **skulls** *Metal.***= sku॥  
 skunk** *Zool.* (it is of Algonquian crigin; Cf. Massachuset *sagket* 'he who urinates', because it has
 
-the power of ejecting an intensely offensive odorous secretion) **मेही** (-इन्)*****m.*****(मेहिन् 'making water' occurs in several compounds.Note its use for a species of small tiger or panther)
+the power of ejecting an intensely offensive odorous secretion) **मेही** (-इन्)*m.*(मेहिन् 'making water' occurs in several compounds.Note its use for a species of small tiger or panther)
 
 **skutterudite केत्रिनेपिज** *m.* (के- for केत्वातुcobalt, त्रि 3, नेप- for नेपाल्येय arsenide, -इज for खनिज
 
@@ -8140,14 +8140,14 @@ Sm**(samarium) *Chem.* **धू** (धूसरला)
 
 **small** *n. see* **smalls  
 smallage** *(Apium graveolens)***अजमोदा** *f.* (B., N., M., Mar.)  
-**small Andamanese drongo** *Aves* **रुधु******कृष्णद्वीप अंगारक**  
+**small Andamanese drongo** *Aves* **रुधु**कृष्णद्वीप अंगारक**  
 
 **small aperture सूक्ष्म छिद्र  
 small arms लघु आयुध  
 small arm sling छोटा बाहु-धारक  
 small beer** (weak beer) **हल्की यविरा, मन्द यविरा  
 small-billed mountain-thrush हिमाद्रि-कस्तूरिका  
-small bindweed** (*Convolvulus arvensis*)**हरिणपदी** *f.*****(Pan. Hin.)  
+small bindweed** (*Convolvulus arvensis*)**हरिणपदी** *f.*(Pan. Hin.)  
 **small brackets** *Math.* **लघु अभिवार, छोटे अभिवार  
 small calorie लघु उष, लघूष  
 small cause court** *Law* **लघुवाद-न्यायालय** ( Const.)  
@@ -8454,7 +8454,7 @@ snare जाल** *n.,* **पाश** *m.*
 **snaring** (abird) **पाशन** *n.*  
 **sneaking अपक्रमण** *n.*  
 **sneezeweed** (*Centipeda* *orbicularis*)**छिक्कनी***f.* (B.,M.)  
-**sneezewort 1*.****(Centipeda orbicularis)***छिक्कनी** *f.* (B.,M.),**2.**(*Achillea*) **छिक्काशाक** *n.*  
+**sneezewort 1*.(Centipeda orbicularis)***छिक्कनी** *f.* (B.,M.),**2.**(*Achillea*) **छिक्काशाक** *n.*  
 **Snell's law** *Phys.* **भुजायन-ज्या-नियम  
 snipe कुनाल** *m.* (occurs in Buddhist literature)  
 **snipe-billed godwit** *Aves* **तनु-तुण्ड आरामुखी** (the bill is like that of a snipe, very long, straight
@@ -8601,7 +8601,7 @@ socio-economic statusसामाजार्थिक अवस्था
 sociologian = sociologist  
 sociologist समाजविज्ञ, समाजशास्त्री** (-इन्) *m.*  
 **sociology समाजविज्ञान** *n.***, सामाजिकी** *f.***, समाजशास्त्र** *n.*  
-**socket 1.कूप** *m.* **** (eyesocket अक्षिकूप) **** **2.***Mach.* **उलूखल** *n.*  
+**socket 1.कूप** *m.*  (eyesocket अक्षिकूप)  **2.***Mach.* **उलूखल** *n.*  
 **socket distress signal कूप-संकट-संकेत  
 socket light signal कूप-प्रकाश-संकेत  
 sockets of teeth दन्त-कूप  
@@ -8635,7 +8635,7 @@ mineral)
 sodalithite** *Petrog.* (a rock composed almost exclusively of sodalite) **क्षारिजाश्म** *m.*  
 **soda mesolite** *Mineral.* **विक्षार मध्यमिज  
 soda mica = pragonite विक्षाराभ्रक  
-sodamide** (*sod*ium+*amide*)*****Chem.* **क्षारतिक्तेय  
+sodamide** (*sod*ium+*amide*)*Chem.* **क्षारतिक्तेय  
 soda niter** *Chem.* **उपक्षार, विक्षारपाक्य  
 soda-potash feldspar विक्षार-सर्जिस्फतीय  
 soda salicylas क्षारातु नम्रलीय  
@@ -8893,7 +8893,7 @@ soft currency countries सुलभ-चलार्थ-देश
 soften** *vb.* **मृदुभवन, मृदु होना, मृदुकरण, मृदु करना  
 softener मृदुकर** *m.*  
 **softening मृदुकरण** *n.* **मृदु करना, मृदुभाव** *m.,* **मृदु होना  
-softest wood मृदुतम काष्ठ, मृदुतम लकड़ी** (*cf.* **** hardest wood)  
+softest wood मृदुतम काष्ठ, मृदुतम लकड़ी** (*cf.*  hardest wood)  
 **soft-furred field-rat** *Mamm.* **मृदु-लोम क्षेत्र-मूषक  
 soft glass मृदु काच  
 soft iron मृदु अयस्, मृदु लोहा  
@@ -9233,7 +9233,7 @@ III\. 448)**क्षुरशम्बु-वंश** *m.*
 occurs in भागवत-पुराण)
 
 **Solenopsis molesta** (thief ant) **चौर-अलिनी  
-soleno-stele** *Bot.* **नालरम्भ** *m.*****(short
+soleno-stele** *Bot.* **नालरम्भ** *m.*(short
 
 for नालमध्यरम्भ) (*see*-stele),  
 **amphiphloic solenostele उभयाधोवाहिक नालरम्भ**
@@ -9260,7 +9260,7 @@ solicit** *vb.* **1.याचना करना, अध्येषण**
 2.***Law* **वादेक्षण**
 
 **solicit alms भीख मांगना  
-solicitation याचना, अध्येषणा** *f.*****(from हलायुध २.२०५)  
+solicitation याचना, अध्येषणा** *f.*(from हलायुध २.२०५)  
 **solicited** *adj.* **अध्येषित, प्रार्थनीय  
 solicitor** *Law* (a person employed to follow and take care of suits pending in courts—Aiyar)
 
@@ -9367,7 +9367,7 @@ Solpugida** *Zool.* (an order of hairy spiderlike arachnids) **अभ्यू�
 **solstitial** *adj. Astron.* **अयनान्त-  
 solstitial colure** *Astron.***अयनान्त-उन्मण्डल  
 solstitial point** *Astron.***अयनान्त-बिन्दु  
-solubility विलेयता** *f****.*  
+solubility विलेयता** *f.*  
 solubility apparatus विलेयता-साधित्र  
 solubility curve** *Chem.* **विलेयता-वक्र  
 solubility product constant** (K.Sp.)**विलेयता-गुणनफल-स्थिरांक** (वि. गु. स्थि.)  
@@ -9422,7 +9422,7 @@ solute** *n. Physical Chem.* (a dissolvedsubstance) **विलीन** *n.*
 **solutio arsenicalis seu Fowleri =arsenical solution** *Pharm.* **नैपालिकविलयन  
 solution 1.साधन, समाधान** *n.***2.***Math.* (method) **साधन** *n.***3.***Math.* (result) **फल** *n.***4.**(key) **कुञ्चिका** *f.*
 
-****5.निर्धारण** *n.***6.***Chem.* **विलयन** *n.*  
+5.निर्धारण** *n.***6.***Chem.* **विलयन** *n.*  
 
 **concentratedsolution संकेन्द्रितविलयन  
 dilute solution मन्द विलयन  
@@ -9831,7 +9831,7 @@ sovereign प्रभु ** *m.* (Const.)
 sovereign democratic republic संपूर्ण-प्रभुत्व-संपन्न लोकतन्त्रात्मक गणराज्य**(Const.)  
 **sovereign rights पूर्णप्रभुत्व अधिकार  
 sovereignty प्रभुता** *f.* (Const.)  
-**sovprene** *Chem.* (*soviet* + *isoprene;* a rubber of neoprene type) **आनैरवष्ट** *n.*****(*see* isoprene
+**sovprene** *Chem.* (*soviet* + *isoprene;* a rubber of neoprene type) **आनैरवष्ट** *n.*(*see* isoprene
 
 प्रपञ्चवष्ट)
 
@@ -9896,12 +9896,12 @@ Ben. *rohina*, Guj. *rohin* Hin. *rohun*, Uri. *sohan*, Mar. *rohuna*)
 
 अभियन्ता )
 
-**space** *n.* **1.***Phys.* **वरिमा** (-मन्) *m.* **** (fromऋग्वेद) (in compounds वरिमन् wouldbe वरिम-, while
+**space** *n.* **1.***Phys.* **वरिमा** (-मन्) *m.*  (fromऋग्वेद) (in compounds वरिमन् wouldbe वरिम-, while
 
 standing alone itwould be वरिमा masculine nominative sg.),**2.दिक्** *f.,* **देश** *m.***, स्थान** *n.***3.**(distance interval) **अन्तर, अन्तराल***n.***, अवकाश** *m.*
 
 **space** *vb.* (children in family planning)**समयान्तर देना  
-space bar or key** *Mach.***अन्तर-दण्ड** *m.*****(as in a typewriter)  
+space bar or key** *Mach.***अन्तर-दण्ड** *m.*(as in a typewriter)  
 **space centrode** *Phys.* **वरिम केन्द्र पथ  
 space charge** *Elec.* **वरिम-प्रभार  
 space key = space bar  
@@ -10074,7 +10074,7 @@ spear crowfoot 1=Ranunculus flammula = lesser spearwort लघु-कुन्�
 spear end** (of a crystal) **कुन्ताकार अग्र  
 spear grass** *(Heteropogon contortus)***कुन्तघास** *m.* (Hin. लुम्पा, Mar. कुसल)  
 **spearhead कुन्ताग्र***n.*  
-**spearmint 1.कुन्तपर्णास** *m.,***2.***(Mentha viridis)* **गिरि-पर्णास** *m.*****(Bombay पहाड़ी पोदीसा)  
+**spearmint 1.कुन्तपर्णास** *m.,***2.***(Mentha viridis)* **गिरि-पर्णास** *m.*(Bombay पहाड़ी पोदीसा)  
 **spearmint oil कुन्तपर्णास-तैल  
 spear shaft कुन्त-दण्ड, भाले का डण्डा  
 spear-shaped** *adj.* **कुन्ताकार  
@@ -10485,7 +10485,7 @@ lecture व्याख्यान
 freedom of speech वाक्-स्वातन्त्र्य** (Const.)
 
 **speechless** *adj.* **निर्वाक, अवाक्  
-speed 1.***Phys.* **वेग** *m.*****(velocity प्रवेग),**2.गति** *f.*  
+speed 1.***Phys.* **वेग** *m.*(velocity प्रवेग),**2.गति** *f.*  
 **speed counter** *Math.* **वेग-गणित्र  
 speed governor वेग-नियन्त्रक** *m.*  
 **speed index वेग-देशना  
@@ -10551,7 +10551,7 @@ spermatocyst** *Bot.* **पुंकोष्ठ** *m.*
 **spermatogenesis** *Zool.* **शुक्रजनन** *f.*  
 **spermatogonium 1.***Zool.* (one of the primitive male germ cells, from which spermatocytes
 
-develop) **प्रशुक्रकोशा** *f., **2*****.***Bot.* **= spermogonium पुंजन्युकाधानी** *f.*
+develop) **प्रशुक्रकोशा** *f., **2*.***Bot.* **= spermogonium पुंजन्युकाधानी** *f.*
 
 **spermatophoral sac** *Zool.* **शुक्रभर-स्यून  
 spermatophore** *Zool.* (a special capsule, packet or mass enclosing a number of spermatozoa
@@ -10585,7 +10585,7 @@ sperm path** *Zool.* **शुक्र-पथ
 sperm reservoir** *Biol.* **शुक्राशय** *m.*  
 **sperm sac** *Zool.* **शुक्र-स्यून  
 sperm-vesicle** *Biol.* **शुक्राशयक** *m.*  
-**sperm whale** *Mamn.*****('the only whalehaving a throat large enough toadmit a man—
+**sperm whale** *Mamn.*('the only whalehaving a throat large enough toadmit a man—
 
 Webster) **जनंगिर तिमि, वसा-तिमि**
 
@@ -10742,7 +10742,7 @@ spherometer** *Phys.*(for measuring curvature) **गोलत्वमान** *
 **spherule** *Ophthalmol.* **गोलक** *m.*  
 **spherulite** *Petrog.* **गोलकाश्म** *m.*  
 **spherulitic** *adj.* **गोलकाश्मिक  
-spheryte** *Petrog.***अष्ठीलिकाश्म** *m.*****(*for explanation see under* rock)  
+spheryte** *Petrog.***अष्ठीलिकाश्म** *m.*(*for explanation see under* rock)  
 **sphex वालुवरट** *m.*  
 **Sphex = Ammophila** *Zool.*  
 **sphexide = sphex बालुवरट** *m.*  
@@ -10783,7 +10783,7 @@ of the compound अयस् changed to अयस as in the ancient words कृ
 
 **spiegeleisen = spiege।  
 spiegel iron = spiege।  
-Spigelian lobe = lobus caudatus** *Zool.*****(a small lobe on the posterior surface of the liver)
+Spigelian lobe = lobus caudatus** *Zool.*(a small lobe on the posterior surface of the liver)
 
 **पश्च-**
 
@@ -10964,7 +10964,7 @@ spiral tube** *Phys.* **कुन्तल नाल
 spiral valve** *Zool.* **कुन्तल कपाट  
 spiral vessel** *Forestry* **कुन्तल वाहिनी  
 spiral wrack** *Bot.* (*Fucus spiralis*)**कुन्तल तीरण  
-Spiranthes** *Bot.*****(genus of plantshaving twisted spikes of flowers)**कुञ्चशूकी-प्रजाति  
+Spiranthes** *Bot.*(genus of plantshaving twisted spikes of flowers)**कुञ्चशूकी-प्रजाति  
 spire** *Surv.* **शिखर** *n.*  
 **spire-bearer कुण्डलधर** *m.*  
 **spireme** *Biol.* **पित्र्यकुन्तल** *m.*  
@@ -11262,7 +11262,7 @@ split glass bifocals** *Ophthalmol.* (consisting of two equal segments)**अर�
 split grain दाल  
 split nut** *Mach.* **विपाटित नह  
 split pin** *Mach.* **विपाटित आणि  
-split point** *Rly**.*** **** (gap between tongueand stock) **विपाटित कण्टक  
+split point** *Rly**.***  (gap between tongueand stock) **विपाटित कण्टक  
 split pulley** *Mach.* **विपाटित आकृषि  
 split ring** *Elec.* **विपाटित वलय  
 splits** *Com.* (shares split up intostocks of two denominations)**खण्डितक** *n.*  
@@ -11336,7 +11336,7 @@ sponge gourd** (*Luffa* *aegyptiaca*) **राज-कोशातकी** *f.* (
 **sponge iron छिद्रायस, छिद्रिष्ठलोहा  
 Spongelia** *Zool.* (strengthened by various foreign siliceous bodies) **परवला-प्रजाति  
 sponge-like छिद्रिष्ठवत्  
-sponge tree** (*Acacia farnesiana)* **कृमिशात्रव** *m.*****(B.,M.)  
+sponge tree** (*Acacia farnesiana)* **कृमिशात्रव** *m.*(B.,M.)  
 **sponge zooids***Zool*. **छिद्रिष्ठ संजीव  
 Spongia** *Zool.* **छिद्रिष्ठ-प्रजाति**
 
@@ -11429,7 +11429,7 @@ gregarious flowering सामूहिक पुष्पण**
 forest—I.F.R.)**असामूहिक जाति, एकल जाति**
 
 **sporangiferous** *adj.* **बीजाणुधानीयुत  
-sporangiocyst** *Mycol.* (a resting sporangium) **विश्रामिवीधा** *f.*****(बीधा for बीजाणुधानी sporangium)  
+sporangiocyst** *Mycol.* (a resting sporangium) **विश्रामिवीधा** *f.*(बीधा for बीजाणुधानी sporangium)  
 **sporangiole** *Mycol.* (a small sporangium) **बीजाणुधानिका** *f.*  
 **sporangiophore** *Bot.* **बीधाभर** *m.* (a stalk or receptacle bearing भर sporangia बीजाणुधानी)**  
 **sporangiospore** *Mycol.* **बीधाबीजाणु** *m.*(बीधाfor बीजाणुधानी sporangium)  
@@ -11549,7 +11549,7 @@ spotted-winged rose-finch** *Aves* **बिन्दुपक्ष पाटल
 spotted-winged stare** *Aves* **पुलीका शारि  
 spotted-winged thrush** *Aves* **बिन्दुपक्षकस्तूरिका  
 spotted wren** *Aves* **पृषत् चिकुर  
-spotter** *Mil.* **स्थित्यन्वेषक** *m.*****(स्थिति-अन्वेषक)  
+spotter** *Mil.* **स्थित्यन्वेषक** *m.*(स्थिति-अन्वेषक)  
 **spot test = drop reaction लाञ्छन-परीक्षा= बिन्दु-प्रतिक्रिया  
 spotting 1.***Mil.* **स्थित्यन्वेषण** *n.* (स्थिति-अन्वेषण),**2.***Petrog.*(development of spots
 
@@ -11557,7 +11557,7 @@ which have a differentcolour from that of the main mass, owing to segregation of
 
 **spotting errors** *Com.* **विभ्रम-चिह्नन, विभ्रम-अन्वेषण  
 spot-welding तत्स्थान-संधान  
-spouse भार्या** *f.,***भर्ता** (-तृ)*****m.* **भार्या अथवा भर्ता, विवाहित जन  
+spouse भार्या** *f.,***भर्ता** (-तृ)*m.* **भार्या अथवा भर्ता, विवाहित जन  
 spout 1.**(discharging lip) **ओष्ठ***m.,***2.तुण्ड** *n.,***टोंटी  
 spouted bottle तुण्ड-कूपी  
 spout like opening** *Zool.* **प्रस्रवण-छिद्र  
@@ -11591,7 +11591,7 @@ spreader 1.प्रसारक** *m.,***2.***Plant Pathol.* (a material added 
 of the liquid over a given area) **प्रसारवर्धक** *m.,***3.**(a small knife-shaped instrument) **प्रथक** *m.*
 
 **spreading caliper विस्तारी व्यासमि  
-spread out** (of waves) ** *Phys.* **** परिसरण** *n.*  
+spread out** (of waves) ** *Phys.*  परिसरण** *n.*  
 **sprig = spray क्षुद्रशाखा** *f.,***छोटी टहनी  
 spring 1.वसन्त** *m.,***2.**(a water spring) **उत्स** *m.,* **झरना, 3.***Mach.* (an elastic body or device...)
 
@@ -11706,7 +11706,7 @@ Squalodontidae** *Paleontol.* (Squalusshark— owes its name to the triangular s
 
 **Squaloidea कण्टग्राहानुगण** *m.* (अनुगण suborder)  
 **Squaloidei** *Zool.***कण्टग्राह-समूह** *m.*  
-**Squalus** *Zool.*****(spiny dogfishes) **कण्टग्राह-प्रजाति  
+**Squalus** *Zool.*(spiny dogfishes) **कण्टग्राह-प्रजाति  
 Squalus acanthias सामान्य कण्टग्राह  
 squama = scale** *Ophthalmol.* **शल्क** *m.*  
 **Squamata** *Zool.* (covered with scales)**शल्किनः** *m.pl.***,** (suborder) **शल्कि-अनुगण** *m.*  
@@ -11946,7 +11946,7 @@ stactometer** *Pharm***आश्चुति-मान** *m.*
 
 **अवस्था** *f.,*
 
-****प्रक्रम** *m.,***3.***Surv.* **= stadia, stadia rod**
+प्रक्रम** *m.,***3.***Surv.* **= stadia, stadia rod**
 
 **staff 1.दण्ड** *m.,* **डण्डा, 2.कर्मचारिवृन्द** *n.* (Const.), **कर्मचारी** (-इन्),**3.** *Mil.* **बलाधिकरण** *n.*
 
@@ -12227,7 +12227,7 @@ standby** *adj.* (something upon which one relies in an emergency) **आपा�
 
 **अतिरिक्त**
 
-**stand-by** *n**.*** **** (one who stands by one in need)आलम्ब *m.,* **सहारा  
+**stand-by** *n**.***  (one who stands by one in need)आलम्ब *m.,* **सहारा  
 stand class = quality class** *Forestry*  
 **stand committed वचनबद्धरहना  
 stand down** *Law* (to leave the witness box, as after giving evidence) (कठघरे से) **उतरना  
@@ -12240,7 +12240,7 @@ standel = standard** *Forestry*
 **stand fire = stem fire** *Foresiry*  
 **stand for** *vb.***1.प्रतिनिधान, प्रतिनिधि होना, का प्रतीक होना** (be a symbol of),**2.समर्थन करना  
 standing** *adj.* **1.स्थायी** (-इन्), **स्थिर, अचल, 2.स्थित, खड़ा  
-standing** *n.* **1.**(position) स्थिति*****f.,***2.**(length of service) **सेवाकाल** *m.*
+standing** *n.* **1.**(position) स्थिति*f.,***2.**(length of service) **सेवाकाल** *m.*
 
 **firm of standing सुस्थित सार्थ**
 
@@ -12478,7 +12478,7 @@ for नीरेय chloride, शुल्बीय sulphate)
 
 **St. Asst.** (Statistical Assistant) **सां. स.** (सांख्यिक सहायक)  
 **stat -स्थाप** *m.*  
-**state** *n.* **1.**(condition) **अवस्था, अवस्थिति, स्थिति** *f.,***2.राज्य** *n.*****(Const.)
+**state** *n.* **1.**(condition) **अवस्था, अवस्थिति, स्थिति** *f.,***2.राज्य** *n.*(Const.)
 
 **'A' states 'क' राज्य  
 'B' states 'ख' राज्य  
@@ -12650,7 +12650,7 @@ statics स्थैतिकी** *f.*
 **hydro-statics तरल-स्थैतिकी**
 
 **static system स्थैतिक संहति  
-station** *n.* **1.स्थान** *n.,* **स्थिति** *f.,* **2*****.**Rly.* **स्थात्र** *n.* (ancient word from the Rigveda X.125.3)  
+station** *n.* **1.स्थान** *n.,* **स्थिति** *f.,* **2*.**Rly.* **स्थात्र** *n.* (ancient word from the Rigveda X.125.3)  
 
 **station** *vb.* **खड़ा करना  
 stationary** *adj.* **1.स्थिर, स्थावर, स्थायी, 2.***Astron.* **स्थिर  
@@ -12718,7 +12718,7 @@ Station Superintendent** (S.S.) *Rly.***स्थात्र-अधीक्ष
 station to station स्थात्रानुस्थात्र, एक स्थान से दूसरे स्थात्र तक  
 station yard** *Rly.* **स्थात्रांगन  
 statist 1.**(politician) **राजनीतिज्ञ** *m.,***2.**(astatistician) **सांख्यिक** *m.*  
-**statistic** *n.*****(any statistical element; estimate of a number or numbers describing a. numerical
+**statistic** *n.*(any statistical element; estimate of a number or numbers describing a. numerical
 
 property of an assemblage.......) **संख्याति** *f.*
 
@@ -12777,7 +12777,7 @@ statistics section संमक-अनुभाग
 statoblast** *Zool.* (a specialized bud or'winter-egg') **हेमन्ताण्ड** *n.*  
 **statoconc***Zool.* **स्थितिशंकु** *m.*  
 **statocyst = lithocyst** *Zool.* **उपलकोष्ठ, स्थितिकोष्ठ** *m.*  
-**statolith = lithite 1.***Zool.*****( a calcareous concretion in a lithocyst) **स्थित्युपल** *m.***2.***Bot.*
+**statolith = lithite 1.***Zool.*( a calcareous concretion in a lithocyst) **स्थित्युपल** *m.***2.***Bot.*
 
 **स्थित्युपल** *m.* (McLean I.796)
 
@@ -12944,9 +12944,9 @@ stearin** *Chem.* **वसि** *f.*
 **stearine वसी** *f.*  
 **stearocutic acid वसोच्चर्मिक अम्ल  
 stearolic acid** (*stearic* + *oleic* + *-ic*)*Chem.* **वसम्रक्षिक अम्ल  
-stearoptene** *(stearic + elaeoptene) Chem.*****(that part of an essential oil separated as a
+stearoptene** *(stearic + elaeoptene) Chem.*(that part of an essential oil separated as a
 
-solid) **उत्सान्द्र** *n.*****(short forउत्पतसान्द्रांश)  
+solid) **उत्सान्द्र** *n.*(short forउत्पतसान्द्रांश)  
 **elaeoptene उत्तरल**
 
 **stearyl***Chem.* **वसाल** *n.*  
@@ -13072,7 +13072,7 @@ CNH. VIII.78) **आवृतशीर्ष-अनुवर्ग***m.*
 
 **Stegosauria** *Paleontol.* (Gk. stegos 'covering'; with a heavy dermal armour — PH. II.391)
 
-**वर्मसरटानुगण** *m.*****(अनुगण suborder)
+**वर्मसरटानुगण** *m.*(अनुगण suborder)
 
 **Stegosaurus वर्मसरट-प्रजाति  
 Stegostoma***Zool.* **चित्रग्राह-प्रजाति**  
@@ -13234,7 +13234,7 @@ Tam. chinna kadambu)
 **Stephenson's link motion valve gear** *Rly.* **प्रथम कपाट-यन्त्र, कटीगति-कपाटयन्त्र  
 step-in-aid of the execution** *Law* **निष्पादन में सहायक उपाय, निष्पादनसहायक पद  
 step ladder पद-निःश्रेणी  
-step-mother विमाना** (-तृ)*****f.,* **सौतेली मां  
+step-mother विमाना** (-तृ)*f.,* **सौतेली मां  
 step out** *Drill* **अतिपादम्  
 steppe** (any large tract of arid land)**शोषस्थली** *f.*  
 **steppedpulley** *Mach.* **क्रमाकृषि** *m.*  
@@ -13279,7 +13279,7 @@ stere 1.**(kilo-liter) **सहस्र-प्रस्थ** *m.,***2.**(cubic 
 **Dist. sclereid दृढकोशा** (g.v.)
 
 **stereid bundle** *Bot.* (bundle of *scle*. renchymatous fibres) **दृढपूल  
-stereo-1.सान्द्र-, घन-, 2.***Chem.* (three dimensions) **त्रिविमा-,****(spatial) **वरिम-  
+stereo-1.सान्द्र-, घन-, 2.***Chem.* (three dimensions) **त्रिविमा-,(spatial) **वरिम-  
 stereo = stereotype  
 stereoblastula** (*stereo-* 'solid' सान्द्र- )*Embryol.* (a blastula एकभित्तिका without a cavity)
 
@@ -13390,7 +13390,7 @@ sterling loans आंगलमुद्रा-उधार
 sterling securities आंगलमुद्रा-प्रतिभूति  
 Sterna** *Aves* **दिव्या-प्रजाति** (दिव्या charming, graceful'. It occurs as the name of an अप्सरस्)  
 **sterna** *pl.* **of sternum  
-sternad** *adv. Anat**.*** **** (toward the sternum) **अभ्युरोस्थि  
+sternad** *adv. Anat**.***  (toward the sternum) **अभ्युरोस्थि  
 sternal 1.***n.***= sternum उरोस्थि** *n.,***2.***adj.*(pertaining to the sternum)**उरोस्थिक  
 sternal artery** *Zool.* **उरो-रोहिणी  
 sternal puncture उरोस्थि-वेध  
@@ -13806,7 +13806,7 @@ stone apple** (*Aegle marmelos*) **बिल्व** *m.*(B.,N.,M.)
 stone bramble** (*Rubus saxatilis*) **ऋजु-कण्ट** *m***.  
 stone-breaking पत्थर तोड़ना, गिट्टी फोड़ना  
 stone canal** *Zool.* **दृषत्- कुल्या  
-stone cell = stereid** *Bot.***अश्-कोशा,****
+stone cell = stereid** *Bot.***अश्-कोशा,
 
 *Dist.* **sclereid दृढकोशा** (*q.v.*)  
 
@@ -14135,7 +14135,7 @@ strategical reconnaissance योधननैतिक-अभीक्षण
 strategic railway युद्धावश्यक संयान  
 strategist योधननीतिज्ञ** *m.*  
 **strategy** *Mil.* **योधननीति** *f.*  
-**stratification स्तरण** *n.,***स्तरविन्यास** *m.*****(स्वर-करण, स्तर-भवन, स्तर-निर्माण, स्तर-विन्यसन)  
+**stratification स्तरण** *n.,***स्तरविन्यास** *m.*(स्वर-करण, स्तर-भवन, स्तर-निर्माण, स्तर-विन्यसन)  
 **stratified** *adj.* (arranged in, or composed of strata स्तृत or layers स्तर)**स्तृत स्तृतमय, स्तरित**  
 
 **stratified drift** *Geol.* **स्तृत ऊढ  
@@ -14618,7 +14618,7 @@ strobile = strobilus** *Bot.* (a conelikeaggregation of sporophylls bearingspora
 **strobilization खण्डिलन** *n.*  
 **strobilus = strobile  
 strobilus theory** *Bot.* **संबीजाणुपत्र-वाद  
-stroboscope अन्तरितेक्ष** *m.*****(अन्तरित interrupted)  
+stroboscope अन्तरितेक्ष** *m.*(अन्तरित interrupted)  
 **stroboscopic method** *Phys.* **अन्तरितेक्षीयरीति  
 stroke** *Phys.* **आघात** *m.* (ancient word)  
 **stroke of a piston मुषली-आघात  
@@ -14874,7 +14874,7 @@ stunted growth रुद्ध वृद्धि, रुद्ध विका�
 stupid जडमति  
 stupidity जडता***f.*  
 **stupified** *adj.* **विमूढ  
-stupor 1.जडता** *f.***, जाड्य*****n.****,* व्यामोह** *m.,***2.***Psychiatry* **स्तब्धता** *f.*  
+stupor 1.जडता** *f.***, जाड्य*n.,* व्यामोह** *m.,***2.***Psychiatry* **स्तब्धता** *f.*  
 **sturdy** *adj.* **बलिष्ठ, हृष्टपुष्ट, तगड़ा  
 sturdy animal बलिष्ठ पशु, हृष्टपुष्ट पशु  
 sturgeon** *Zool.* (five rows of bonyplates) **पञ्चपालि** *m.*  
@@ -16047,7 +16047,7 @@ sulph-arsenate शुल्बा-नेपालीय** (शुल्बा- d
 **sulph-arsenious** *adj.* **शुल्बा-नेपाल्य** (शुल्बा- denotes the presence of the sulphonic acid group)  
 **sulph-arsphen-amine शुल्बा-नेपदर्श-तिक्ती  
 sulphatase** *Biochem.* **शुल्बीयेद** *m.*  
-**sulphate** *n.******Chem.* **शुल्बीय** *n.*  
+**sulphate** *n.**Chem.* **शुल्बीय** *n.*  
 **sulphate** *vb.***शुल्बीयन 1.**(to treat or impregnate with sulphuric acid or asulphate)**शुल्बारिकाम्ल-**
 
 **साधन, शुल्वारिकाम्ल-व्यापन, शुल्बीय-साधन, शुल्बीय व्यापन, 2.**(to convert into sulphate) **शुल्बीय-**
@@ -16128,7 +16128,7 @@ sulphite-pulp शुल्बित-गोर्द
 sulphitic** *adj. Chem.* **शुल्बितिक  
 sulphito-'**(sulphite) *Chem.* **शुल्बित-  
 sulphito** *adj.* **शुल्बित, शुल्बितक  
-sulpho-***Chem.* **1.**(sulphur) **शुल्ब-, 2.**(sulphonic, sulphonyl) **शुल्ब-,******3.**(designating compounds in
+sulpho-***Chem.* **1.**(sulphur) **शुल्ब-, 2.**(sulphonic, sulphonyl) **शुल्ब-,**3.**(designating compounds in
 
 which sulphur to some extent replaces oxygen; in this sense better thio-गन्ध-) **शुल्ब-, 4.**(denoting the presence of sulphuric acid) **शुल्ब-**
 
@@ -16212,7 +16212,7 @@ sulphon-***Chem.* **शुल्बा-
 sulphon acid black** *Col. Ind.* **शुल्बा अम्ल काल  
 sulphon acid blue** *Col. Ind.* **शुल्बा अम्ल नील  
 sulphon acid brown** *Col. Ind.* **शुल्बा अम्ल बभ्रु  
-sulphon acid green** *Col. Ind.* **शुल्बा******अम्ल हरि  
+sulphon acid green** *Col. Ind.* **शुल्बा**अम्ल हरि  
 sulphonal = sulphon-methane  
 - sulphonal -शुल्बासु** *m.*  
 **sulphon-amide** *Chem.* **शुल्बा-तिक्तेय  
@@ -16357,7 +16357,7 @@ sulphured matches** *Chem.* **शुल्बारीयितइषीका**
 **sulphureity** *Chem.* **शुल्बारियता, गन्धकियता** *f.*  
 **sulphureous** *adj.* **1. = sulphurousशुल्बार्य, 2.**(in general language) **गन्धकिय,** (consisting of
 
-sulphur)****
+sulphur)
 
 **गन्धक-युत,** (having the qualities of sulphuror brimstone) **गन्धक-गुण,** (impregnated with sulphur) **गन्धक-व्यापित,** (sulphur-coloured) **गन्धक-वर्ण**
 
@@ -16820,7 +16820,7 @@ superior calyx** *Bot.* **उत्तर पुष्पकोश
 superior civil services प्रकृष्ट जानपद सेवाएं  
 superior class** *Rly.* **उच्च श्रेणी, प्रकृष्ट श्रेणी, ऊंची श्रेणी  
 superior clerk उपरि-लिपिक  
-superior conjunction** *Astron.*****(the planet is at greatest distance from the earth in this
+superior conjunction** *Astron.*(the planet is at greatest distance from the earth in this
 
 conjunction)**सुदूर-संयुति**
 
@@ -16952,7 +16952,7 @@ a fungicide to improve some physical properties) **गुणवर्धक** *m
 **supplemental affidavit** *Law* **अनुपूरक शपथपत्र  
 supplemental air = supplementary air** (the air which can still be expelled from the lungs after
 
-an ordinary expiration) **** *Physiol****.* अतिरिक्त वायु**
+an ordinary expiration)  *Physiol.* अतिरिक्त वायु**
 
 **supplemental bill** *Law* (a bill filed for the purpose of supplying a defect which has arisen in theprogress of the suit) **अनुपूरक आरोपपत्र**  
 
@@ -17100,7 +17100,7 @@ main word),**2.**(superior) **वर-, वरिष्ठ**
 supraclavicle** *n. Zool.* **उपर्यक्षक** *m.*  
 **supracleithrum** *Zool.* **उपरि-पार्श्वाक्षक** *m.*  
 **supraduction उच्चालन** *n.*  
-**supracthmoid** *Zool.***उपरितितवस्थि** *n.*****(ectethmoid बहिरिततवस्थि)  
+**supracthmoid** *Zool.***उपरितितवस्थि** *n.*(ectethmoid बहिरिततवस्थि)  
 **supra-intestinal** *adj.* **आन्त्रोपरि  
 supra-intestinal excretory ducts** *Zool.* **आन्त्रोपरि-उत्सर्ग-प्रणाली  
 supra-intestinal parietal ganglion** *Zool.* **आन्त्रोपरिप्राचीर-प्रगण्ड  
@@ -17130,7 +17130,7 @@ supraorbital plate** *Ophthalmol.***अक्ष्युपरिपट्ट
 supraorbital process** *Zool.* **अक्ष्युपरि प्रवर्ध  
 supraorbital ridge = frontal ridge  
 suprapharyngeal** *adj. Zool.***ग्रसन्युपरि  
-supraprotest** (after Italian *sopra protesto* 'upon protest’) **** *Law* ** अनादर-प्रमाणने  
+supraprotest** (after Italian *sopra protesto* 'upon protest’)  *Law* ** अनादर-प्रमाणने  
 supraprotest acceptance अनादरप्रमाणने स्वीकरण  
 supraprotest payment अनादरप्रमाणने शोधन  
 suprapubic पुरोनितम्बोपरि  
@@ -17141,7 +17141,7 @@ suprarenal cortex** *Pharm.* **वृक्कोपरि बाह्यक
 suprarenal gland वृक्कोपरि ग्रन्थि  
 suprarenal medulla वृक्कोपरि मध्यक  
 supra-scapula** *Zool.* **उदंसफलक** *n.*  
-**supra-stapedial** *n.******Zool.* **उपरि-पदाधान** *n.*  
+**supra-stapedial** *n.**Zool.* **उपरि-पदाधान** *n.*  
 **supratemporal 1.***adj. Zool.* **उपरि-शंखक, 2.**
 
 n.
@@ -18745,7 +18745,7 @@ Konkani लोध्र, Ben. Hin. लोध, Guj. *lodar*, Mundari *ludamdaru*,
 **symptomatological** *adj.* **रोगलाक्षणिकीय  
 symptomatology 1.**(science treating of symptoms of disease) **रोगलक्षण-विज्ञान** *n.,* **लाक्षणिकी** *f.,*
 
-****2.**(the doctrine of symptoms) **लक्षण-सिद्धान्त** *m.,***3.**(symptoms of a disease taken as a whole)**रोगलक्षण-समूह** *m.*
+2.**(the doctrine of symptoms) **लक्षण-सिद्धान्त** *m.,***3.**(symptoms of a disease taken as a whole)**रोगलक्षण-समूह** *m.*
 
 **symptomless virus निर्लक्षण विषाणु  
 symptoms exhibited प्रदर्शित लक्षण  
@@ -19024,7 +19024,7 @@ systematic study क्रमबद्ध अध्ययन
 systematic surgery क्रमबद्ध शल्य  
 systematic working** *Forestry* **क्रमबद्ध समुपयोजन  
 systematic zoology वर्गीकरण-प्राणिकी  
-systematist वर्गीकर्ता** (-तृ) **** *m.*  
+systematist वर्गीकर्ता** (-तृ)  *m.*  
 **systematization 1.क्रमबन्धन** *n.***, क्रमबद्ध करना 2.***Logic* **पद्धति-बन्धन** *n.*  
 **systematize** *vb.* **क्रमबन्धन, क्रमबद्ध करना  
 systematized** *adj.* **क्रमबद्ध  

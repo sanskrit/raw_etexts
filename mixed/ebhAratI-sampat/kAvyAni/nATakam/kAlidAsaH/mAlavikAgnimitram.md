@@ -64,7 +64,7 @@ SRI RAGHUVEER PRINTING PRESS, MYSORE.
 
 if indeed, he does not overtop it' Dr. Kern places him in the latter half of the 6th cent. A. D. poesy.
 
-****
+
 
 **His Life—**
 
@@ -113,7 +113,7 @@ Like blossom-clusters, honey sweet?"
 
 — Bana's Harshacharita,
 
-****
+
 
 **Synopsis of the play:**
 
@@ -437,7 +437,7 @@ Von Humboldt.
 
 सखि, आत्मनो नियोगमनुतिष्ट। अहमप्येतमङ्गुलीयकं देव्यै उपनेष्यामि। (इति निष्क्रान्ता)
 
-**प्रथमा—**(परिक्रम्यावलोक्य) **** एष नाट्याचार्यः संगीतशालातो निर्गच्छति। यावदस्मा आत्मानं दर्शयामि। (इति परिक्रामति)
+**प्रथमा—**(परिक्रम्यावलोक्य)  एष नाट्याचार्यः संगीतशालातो निर्गच्छति। यावदस्मा आत्मानं दर्शयामि। (इति परिक्रामति)
 
 (प्रविश्य) **गणदासः—**कामं खलु सर्वस्यापि कुलविद्या बहुमता। न पुनरस्माकं नाट्यंप्रति मिथ्यागौरवम्। तथा हि।
 
@@ -1061,7 +1061,7 @@ Von Humboldt.
 
 **परिव्राजिका—** (उत्थाय) स्वस्ति भवते (इति सपरिजनया देव्या सह निष्क्रान्ता)
 
-**विदूषकः —**¹⁸ **** भो वयस्य, न केवलं रूपे, शिल्पेऽप्यद्वितीया मालविका।
+**विदूषकः —**¹⁸  भो वयस्य, न केवलं रूपे, शिल्पेऽप्यद्वितीया मालविका।
 
 **राजा—** वयस्य,
 
@@ -1911,7 +1911,7 @@ Von Humboldt.
 
 **विदूषकः**—^(**55**)तथा। उभौ विलोकयन्तौ तिष्टतः। (ततः प्रविशति मालविका बकुलावलिका च)
 
-**बकुलावलिका**—****⁵⁶सखि, प्रणम भर्तारम्।
+**बकुलावलिका**—⁵⁶सखि, प्रणम भर्तारम्।
 
 **मालविका**—⁵⁷नमस्ते।
 
@@ -2890,7 +2890,7 @@ ACT I
 
 ACT II
 
-****
+
 
  1 उबठ्ठिदं णअणमहु संणिहिदमक्खिअं च। ता अप्पमत्तो दाणिं पेक्ख 2 पेक्खदु भवं। ण खु से परिच्छन्दादो परिहिअदि महुरदा 3 भो, चउप्पदक्त्थुअं दुवारीकरिअ तुइ उवट्ठाविदो अप्पा तत्तहोदीए 4 भोदि, चिट्ट। वो विनुमरिदोकम्ममेदो। तं दाव पुच्छिस्सम्। 5 णं गोदमवअणं वि अज्जो हिअए करेदि। 6 कोसिइं दाव पुच्छ। पच्छा जो मए कम्मभेदो दिट्टो तं भणिस्मं 7 दिठ्ठिआ अपरिक्खदाराहणेण अज्जो बढ्ढइ 8 पढमोपदेसदंसणे पढमं ब्रह्मणस्स पूआ कादव्वा। सा णं वो विसुमरिंदा 9 मए णाम मुद्धचादएग विअ सुक्खघणगज्जिदे अन्तरिक्खे जलपागं इच्छिदं। अहवा पण्डिदसंतोसपच्चया भं मूढजादी ज्दो अत्तहोदीए सोहणं भणिदं तदों से इमं पारितोसिअं पअच्छामि 10 चिट्ट दाव गुणन्तरं अजाणन्तो किंणिमित्तं तुमं आहरणं देसि 11 परकेरअंति करिअ 12 अज्जगणदास, दंसिदोवदेंसा दे सिस्सा 13 एत्तिओं मेमदिविहवो भवन्तं सेविदुं 14 दलिद्दो विअ आदुरो वेज्जेण ओसदं दीअमाणं इच्छसि 15 अविहा। अविहा। अह्माणं उण भोअणवेला उवठ्ठिदा। उइदवेलादिक्कमे चिइच्छआ दोसं उदाहरन्ति। किं दाणिं भणसि 16 णिव्वट्टदुअज्जउत्तो मज्जणविहिम् 17 भोदि, विसेसेण पाणभोअणं तुवरावेहि 18 भो वअस्स, ण केवलं रूवे, सिप्पेवि अद्दुदीआ मालविआ 19 भवदावि अहं। दिढं विषणिकन्दु विग्न मे ऊअरब्भन्तरं दज्झइ 20 गहीदो खणो। किं तु मेहावलीणिरुद्धा जोण्हा विअ पराहीणदंसण तंत्तहोदी। भवं वि सूणापरिसरचरो विअ विहंगो आमिसलोलुओ भीरुओ अ। ता अणादुरों भविअ कज्जसिद्धिं पत्थेन्तो मे रोअसि।
 
@@ -3037,7 +3037,7 @@ THE SECOND
 
 Oh Bakulavalika! Friend, intently looking at this Queen's ring on which the seal of a snake has been engraved and which has been brought from the engraver, I have fallen into your reproof.
 
-**FIRST—****
+**FIRST—
 
 *(Observing*) Your eyes are rightly fixed (on it). The forepart of your palm appears blossomed as it were,
 
@@ -3273,7 +3273,7 @@ As my lord bids. (*Exit and re-enter with them*) This way, this way, both of you
 
 **HARA.—**
 
-****Great indeed is this splendour in man's form. For**—**
+Great indeed is this splendour in man's form. For**—**
 
  Advancing towards the king, with the person that waits at the throne, my entrance being permitted by the guard employed at the door, I am, as it were, kept back without the utterance of any word, by the lustre
 
@@ -3287,11 +3287,11 @@ Here is the king. You may go near him.
 
 **BOTH—**
 
-*****(Going near)* May the king be victorious !
+*(Going near)* May the king be victorious !
 
 **KING—**
 
-****Welcome to you both. *(Looking at his attendant*) Seats please for these two gentlemen.
+Welcome to you both. *(Looking at his attendant*) Seats please for these two gentlemen.
 
 *(Both sit on the seats brought by the attendants)*
 
@@ -3323,7 +3323,7 @@ An excellent proposal.
 
 **GANA.—**
 
-****The best course (to adopt). May my lord listen with attention.
+The best course (to adopt). May my lord listen with attention.
 
 **KING—**
 
@@ -3381,7 +3381,7 @@ I see her. She**—**
 
 **KING—**
 
-****Venerble lady, I salute you.
+Venerble lady, I salute you.
 
 **PARI.—**
 
@@ -3448,7 +3448,7 @@ That is just what I wish to say. Personal performance of an action is excellent 
 
 Have both of you, gentlemen, heard the words of the divine lady? This is the substance of it. The decision is to be arrived at, after witnessing what you have taught  (to your pupils).
 
-**HARA.—******
+**HARA.—**
 
 It is most agreeable to us.
 
@@ -3460,7 +3460,7 @@ Queen, it stands thus.
 
 If dull-witted pupils stain the instruction, is it the fault of the teacher ?
 
-**KING—******
+**KING—**
 
 Queen, it is interpreted thus**—**
 
@@ -3494,7 +3494,7 @@ Queen, this is not fair. Arriving at adecision by asingleperson, although he be 
 
 **QUEEN—**
 
-*****(Aside*) You dunce of a *Parivrajika,* although I am wide awake, you drive me to sleep, as it were.
+*(Aside*) You dunce of a *Parivrajika,* although I am wide awake, you drive me to sleep, as it were.
 
 *(Indignantly turns away. The king points out the queen to the Parivrajika.)*
 
@@ -3520,55 +3520,55 @@ my doing so. I consider myself forsaken by you. **(19)**
 
 *(Desires to leave his seat)*
 
-**QUEEN—****
+**QUEEN—
 
 *(To herself)* What go! (*Aloud*) The teacher has every authority over his pupils.
 
-**GANA.—****
+**GANA.—
 
 I was entertaining a suspicion all along by mistake. *(Looking at the king*) The queen has permitted (me). Hence, may the lord command as to the sort of dramatic representation by which I shall show the (skill of my) instruction.
 
 KING
 
-**—****
+**—
 
 As the divine lady orders.
 
-**PARI—****
+**PARI—
 
 There is something in the heart of the queen.Therefore, I hesitate.
 
-**QUEEN—****
+**QUEEN—
 
 Speak without fear. The king has every authority over his retinue.
 
-**KING—****
+**KING—
 
-Say**—****
+Say**—
 
 ‘and me’
 
-**QUEEN—****
+**QUEEN—
 
 Divine lady, speak now.
 
-**PARI.—****
+**PARI.—
 
 O king, the (wise) say that the *chalika* composed by Sharmishtha in *four* lines is difficult to perform. Let me see the demonstration of both parties relating to the same subject. By that much shall be known the difference between the teaching of the two gentllmen.
 
-**THE TEACHERS—****
+**THE TEACHERS—
 
 As the divine lady bids.
 
-**VIDU.—****
+**VIDU.—
 
 Then both of you, after making arrangements relating to musical accompaniments in the auditorium, please send a messenger to His Highness. Or why, the very sonnd of the drum will rouse us up.
 
-**HARA.—****
+**HARA.—
 
 Let it be so. *(Rises up. Ganadasa looks at Dharini*).
 
-**QUEEN—****
+**QUEEN—
 
 *(Seeing Ganadasa*) Come out victorious!
 
@@ -3635,9 +3635,9 @@ Maudgalya, after conveying this (view of ours), you attend to your duty.
 
 **CHAMBERLAIN—**
 
-****As my lord bids. *(**Exit**)*
+As my lord bids. *(**Exit**)*
 
-***(****Entering****)* GANA.—**
+***(Entering)* GANA.—**
 
 My lord, the composition of Sharmishtha is of four padas and of the middle musical time. Your lordship should be pleased to listen with attention the *chalika* dance demonstration of that composition.
 

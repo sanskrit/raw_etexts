@@ -793,7 +793,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 देवात्मजैर्मनुष्याणां कथं वा बन्धुता भवेत्।  
 पिष्टपेषणमेतावत् पर्याप्तं छिद्यतां कथा॥३०॥
 
-** वासुदेवः**—****
+** वासुदेवः**—
 
 (आत्मगतम्)
 
@@ -839,7 +839,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 परुषवचनदक्ष! त्वद्वचोभिर्न दास्ये  
 तृणमपि पितृभुक्ते वीर्यगुप्ते स्वराज्ये॥३५॥**
 
-** वासुदेवः**—****
+** वासुदेवः**—
 
 भोः कुरुकुलकलङ्कभूत! अयशोलुब्ध! वयं किल तृणान्तराभिभाषकाः।
 
@@ -1429,7 +1429,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 ** चेटी—**
 
-****
+
 
 आर्य, अवनमय दृष्टिम्। पश्यार्याम्।
 

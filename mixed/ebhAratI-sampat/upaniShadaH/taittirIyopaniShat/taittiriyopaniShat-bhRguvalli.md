@@ -231,7 +231,7 @@ Now saisha.. is said by whom? Within the story, sruti has talked as Bhrugu went 
 What is the seen result. He becomes annavan. matup means plenty. He has sishyas who willconsume. Otherwise, everyone is annavan. Because he is living. Without annam, body cannotsurvive. Without working for, he gains a lot of food. he is annadah. Is he not annada beforeknowledge. No. He has good health and appetite. His samana is jvalita, tended well.Bhagavan takes care. Because he eats a lot, he becomes mahan. No. By sishyas etc. he gainslot of cattle or wealth. Even if he does not have them, sarvam apnoti. Because srotriyasya +.Brahmatejas is born of Vedic study. Even a vendor discerns an Iyer. It is due to Gayatri. Kirtimeans he is recognised by society. His acara is in keeping with sastra. That creates fame. It isstuti of vidya. It is not totally literal. People always recognise vidvatta, saintliness or hiscompassion. People want such people. It is always true. Even if they want to live away fromsociety, people recognise.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **२**.भूमनिन्दाप्रशंसासु नित्ययोगेऽतिशायने। संबन्धेऽस्तिविवक्षायां भवन्ति मतुबादयः।
+ **२**.भूमनिन्दाप्रशंसासु नित्ययोगेऽतिशायने। संबन्धेऽस्तिविवक्षायां भवन्ति मतुबादयः।
 
 
 

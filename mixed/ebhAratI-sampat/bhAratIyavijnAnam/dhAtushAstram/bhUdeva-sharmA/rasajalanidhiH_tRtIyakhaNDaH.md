@@ -531,7 +531,7 @@ There are six different kinds of tikshna iron, viz. (1) khara (2) sara, (3) hrin
 
 ————————————————————————————————————————————————
 
-**\****Import of cheaper iron products from foreign countries has led to the total ruin of, iron industry of an indigenous character in India. The last generation of iron smiths who were acquainted with the different kinds of iron, as described here, became totally extinct about 50 years back. The classification, as given here, has therefore nothing but a historical interest for us.*
+**\Import of cheaper iron products from foreign countries has led to the total ruin of, iron industry of an indigenous character in India. The last generation of iron smiths who were acquainted with the different kinds of iron, as described here, became totally extinct about 50 years back. The classification, as given here, has therefore nothing but a historical interest for us.*
 
 (१) खरम् ।
 
@@ -697,7 +697,7 @@ Sara iron cures the following diseases, if taken in the prescribed way :—diarr
 
 Its characteristics.
 
-****(1)
+(1)
 
 Kanta iron is of such a nature that a drop of oil thrown into water contained in a pot of this iron does not spread over the surface of the water; neither does the oil stick to the inner surface of the pot. Hingu (asafoetida) kept in a pot of this iron loses its smell in course of time. Bark of nimba tree (which is very bitter in taste), pestled with water, loses its bitterness, if kept for some time in a pot of this iron. Milk, boiled in a pot of this iron, may swell up, but will not overflow the borders of the pot, and will not flow into the ground.
 
@@ -1369,7 +1369,7 @@ Purified and powdered iron is to be smeared with the internal kernel of tindu fr
 
 **Twenty second process.**
 
-****Purified and powdered iron is to be heated withthe decoction of triphala, kept in an iron pot, and turned constantly with an iron ladle till the whole thing turns into a lump, which is to be rubbed with the decoction of triphala and subjected to heat by putam. This process is to be performed for sixteen times. The iron is then to be subjected to heat by the *sthali paka* system (to be described in process No 26) with the following liquids :—juice of bhringaraja, juice of talamuli, juice of the root of hasti-karnapalasha, juice of the root of shatavari, juice of the root of bidari, and decoction of triphala. Next, all these processes from beginning to end are to be again performed for the second time. The iron is then to be subjected to bhavana for three hours at a stretch with each of the under-mentioned liquids, respectively:—juice of punarnava, decoction of dashamula, decoction of brihati, juice of bijapura fruit, juice or decoction of palasha seeds, and cow's milk. It is then to be rubbed with the same juice, and subjected to heat by putam after each act of bhavana and rubbing. This results in the incineration of the iron.
+Purified and powdered iron is to be heated withthe decoction of triphala, kept in an iron pot, and turned constantly with an iron ladle till the whole thing turns into a lump, which is to be rubbed with the decoction of triphala and subjected to heat by putam. This process is to be performed for sixteen times. The iron is then to be subjected to heat by the *sthali paka* system (to be described in process No 26) with the following liquids :—juice of bhringaraja, juice of talamuli, juice of the root of hasti-karnapalasha, juice of the root of shatavari, juice of the root of bidari, and decoction of triphala. Next, all these processes from beginning to end are to be again performed for the second time. The iron is then to be subjected to bhavana for three hours at a stretch with each of the under-mentioned liquids, respectively:—juice of punarnava, decoction of dashamula, decoction of brihati, juice of bijapura fruit, juice or decoction of palasha seeds, and cow's milk. It is then to be rubbed with the same juice, and subjected to heat by putam after each act of bhavana and rubbing. This results in the incineration of the iron.
 
 **त्रयोविंशोविधिः ।**
 
@@ -1383,7 +1383,7 @@ Purified and powdered iron is to be smeared with the internal kernel of tindu fr
 
 **Twenty third process.**
 
-** **Iron sheets are to be burned red hot and****immersed in the decoction of triphala. They are then to be reduced to powder and boiled with a decoction of triphala or cow's urine. The iron is next to be rubbed with decoction of triphala or juice of matsyakshi, and subjected to heat by putam. The last process is to be repeated till the iron becomes incapable of being restored to its original condition. Thus incinerated, the iron gains in efficacy, if subjected to bhavana with the juices of suitable herbs, and again subjected to heat by putam after every act of bhavana.
+** **Iron sheets are to be burned red hot andimmersed in the decoction of triphala. They are then to be reduced to powder and boiled with a decoction of triphala or cow's urine. The iron is next to be rubbed with decoction of triphala or juice of matsyakshi, and subjected to heat by putam. The last process is to be repeated till the iron becomes incapable of being restored to its original condition. Thus incinerated, the iron gains in efficacy, if subjected to bhavana with the juices of suitable herbs, and again subjected to heat by putam after every act of bhavana.
 
 चतुर्विंशोविधिः ।
 
@@ -1433,7 +1433,7 @@ Purified and powdered iron is to be rubbed with cow's urine and subjected to put
 
 Utility of putam.
 
-For the purpose of incineration of iron, heating by putam for ten to hundred times may be considered necessary for the cure of diseases only. Putam****for hundred to one thousand times is necessary for the purpose of curing and preventing physical decay and senility. For the purpose of retention of semen, it is necessary to subject iron to putam for more than one thousand times.
+For the purpose of incineration of iron, heating by putam for ten to hundred times may be considered necessary for the cure of diseases only. Putamfor hundred to one thousand times is necessary for the purpose of curing and preventing physical decay and senility. For the purpose of retention of semen, it is necessary to subject iron to putam for more than one thousand times.
 
 Increase in the number of putam is calculated to increase the efficacy of a metal, incinerated without mercury. This is not the case with a metal incinerated by the help of mercury.
 
@@ -2483,7 +2483,7 @@ Incinerated iron is to be taken with hingu (purified by being fried with ghee) a
 [^16]: "कलविंकश्चटकः ।"
 
 **श्येनकञ्च बृहल्लावो वनविस्किरकादयः ।**  
-****
+
 
 **हितकरमृगादीनां मांसं जांगलकं शुभम् ॥**  
 
@@ -2803,7 +2803,7 @@ Use of mandura.
 मण्डूरस्य द्रावणम् ।
 
 **मुनिरसपिष्टं विड़ंगं मुनिरसलीढ़ंचिरस्थितं धर्म्मे।**  
-****
+
 
 **द्रावयति लौहकिट्टंवह्निर्नवनीतपिण्डमिव ॥**
 
@@ -2877,9 +2877,9 @@ See Process No. 3, page 243. Vol. II.
 
 **द्वितीयखण्डे २४७ पृष्ठे स्वर्णमारणप्रकरणे चतुर्थोविधि द्रष्टव्यः ।**
 
-****
 
-****
+
+
 
 Incineration of Jasoda.
 
@@ -3312,9 +3312,9 @@ Vanga is incinerated, if it is subjected to heat by putam, after having been sme
 
 **Twelfth process.**
 
-****
 
-****
+
+
 
 Vanga is incinerated, if it is subjected to heat by putam, after having been smeared with a paste made of swarna-makshika, haritala, and juice of palasha.
 
@@ -3639,7 +3639,7 @@ Incineration of Lead.
 **पञ्चमोविधिः ।**
 
 **हतमुत्थापितं सीसं दशवारेण सिध्यति ।  
-तन्मृतं सीसकं सर्वदोषमुक्तं रसायनम् ॥****_(\*)**[^24]
+तन्मृतं सीसकं सर्वदोषमुक्तं रसायनम् ॥_(\*)**[^24]
 
 **Fifth process.**
 
@@ -3811,7 +3811,7 @@ _(\*)[^25]
 [^25]: "The process of preparation of ksharas will be described later in the present volume."
 
 **अष्टादशोविधिः ।**  
-****
+
 
 **( नागसिन्दूरः । )**
 
@@ -3983,7 +3983,7 @@ One is freed from the evil effects of lead, not properly incinerated, if one tak
 
 **रीतिकायुगलं पाण्डुरोगघ्नंकृमिनाशनम् ॥**
 
-****
+
 
 CHAPTER III.
 
@@ -4047,7 +4047,7 @@ Brass as well as bell-metal is to be purified and incinerated in the same way as
 
 ** **Brass is purified, if it is heated for five times and immersed each time into the juice of nirgundi, mixed with powdered turmeric.
 
-****
+
 
 **तृतीयोविधिः ।**
 
@@ -4079,11 +4079,11 @@ Brass as well as bell-metal is to be purified and incinerated in the same way as
 
 **अस्य मारणम् ।**
 
-****
+
 
 **प्रथमोविधिः ।**
 
-****
+
 
 **निम्बुरसशिलागन्धवेष्टिता पुटिताष्टधा ।**  
 
@@ -4136,7 +4136,7 @@ Use of brass.
 **कांस्यपित्तलयोर्वेधः ।**
 
 **आरं तारं समं कृत्वा मृतवंगं नियोजयेत् ।**  
-****
+
 
 **एषा राजवती विद्या पिता पुत्रं न भाषते ॥**
 
@@ -4632,7 +4632,7 @@ Masculine diamonds are the best of all. They are able to help the transmutation 
 
 Characteristics of good Diamond.
 
-****
+
 
 ( 1 )
 
@@ -4661,7 +4661,7 @@ Characteristics of bad diamonds.
 
  
 
-Diamonds of the following description are bad :- (1) Those which are of ash colour ; (2) those which have got spots of the shape of a crow's feet, (3) those which are marked by lines, (4) those which are cylindrical, (5) those which darken or soil their foils or receptacles, (6) those which have got spots, (7) those which have got cracks, (8) those which are rent asunder, (9) those which are of blue colour, 10) those which are flat-shaped, and (11) those which are coarse.****
+Diamonds of the following description are bad :- (1) Those which are of ash colour ; (2) those which have got spots of the shape of a crow's feet, (3) those which are marked by lines, (4) those which are cylindrical, (5) those which darken or soil their foils or receptacles, (6) those which have got spots, (7) those which have got cracks, (8) those which are rent asunder, (9) those which are of blue colour, 10) those which are flat-shaped, and (11) those which are coarse.
 
 Such diamonds are to be avoided.
 
@@ -5089,9 +5089,9 @@ The diamond, thus prepared and powdered, should be mixed with a little of borax,
 
 \(3\)
 
-****
 
-****Thirty parts of incinerated diamond, four parts of gold, eight parts of silver, eleven parts of white shankhi, four parts of mica, eight parts of swarna-makshika, and six parts of vaikranta—all these are to be mixed together and used with mercury for the enhancement of its properties by six times.
+
+Thirty parts of incinerated diamond, four parts of gold, eight parts of silver, eleven parts of white shankhi, four parts of mica, eight parts of swarna-makshika, and six parts of vaikranta—all these are to be mixed together and used with mercury for the enhancement of its properties by six times.
 
 (४)
 
@@ -5102,9 +5102,9 @@ The diamond, thus prepared and powdered, should be mixed with a little of borax,
 
 \(4\)
 
-****
 
-****Ashes of diamond, with half its quantity of incinerated mercury, ashes of the essence of mica, equal in quantity to both,—all these are to be rubbed together and taken in doses of one racti a day with honey and clarified butter. It cures all the diseases. It is a great rasayanam.
+
+Ashes of diamond, with half its quantity of incinerated mercury, ashes of the essence of mica, equal in quantity to both,—all these are to be rubbed together and taken in doses of one racti a day with honey and clarified butter. It cures all the diseases. It is a great rasayanam.
 
 **वज्रस्य मृदूकरणम् ।**
 
@@ -5231,9 +5231,9 @@ Masculine diamond, emerald, sapphire, ruby, topaz, cat's eye, zercon, pearl, and
 
 \(2\)
 
-****
 
-****One drona of kulattha is to be boiled with eight dronas of water. Gems and stones are to be boiled with this decoction. They are then to be dried in the sun for three days, saturated all this while with the same decoction, put upon them over and over again. This is how the gems are purified.
+
+One drona of kulattha is to be boiled with eight dronas of water. Gems and stones are to be boiled with this decoction. They are then to be dried in the sun for three days, saturated all this while with the same decoction, put upon them over and over again. This is how the gems are purified.
 
 (३)
 
@@ -5629,7 +5629,7 @@ The gem which appears from a distance to be a blazing fire is called vansha-kant
 
 The best ruby, if kept in dense darkness, illuminates the surroundings with its rays.
 
-****( ६ )
+( ६ )
 
 **पद्मकोषे तु यो न्यस्तो विकाशयति तत्क्षणात् ।  
 पद्मरागवरोह्येष देवानामपि दुर्लभः ॥**
@@ -5660,9 +5660,9 @@ A ruby of the shape of a gunja should be 10, 7, or 3 gunjas in weight .The first
 
 ( 2 )
 
-****
 
-****A ruby of the shape of a shrigala-kola (jackal plum) weighs 12, or S, or 7 gunjas. of these three, the first is more valuable than the second, and the second is more valuable than the third.
+
+A ruby of the shape of a shrigala-kola (jackal plum) weighs 12, or S, or 7 gunjas. of these three, the first is more valuable than the second, and the second is more valuable than the third.
 
 ( ३ )
 
@@ -6267,7 +6267,7 @@ Purification of Vaikranta
 
 कुलत्थक्वाथसंस्विन्नो वैक्रान्तः परिशुध्यति ।
 
-****
+
 
 **Second process.**
 
@@ -6501,7 +6501,7 @@ The moon-stone is cool, appearing to be smeared with oil, pacifier of racta-pitt
 
 **चन्द्रकान्तोद्भवं वारि पित्तघ्नंविमलं स्मृतम् ।**
 
-**   ****
+**   
 
 Properties of Moon-stone water.
 
@@ -7162,7 +7162,7 @@ Java-kshara is pungent, soft, light, capable of easily spreading through all par
 
 **मेदोघ्नः पाकिमः क्षारो मूत्रवस्तिविशोधनः ।**
 
-** ****
+** 
 
 Properties of pukima (nava-stra).
 
@@ -7376,7 +7376,7 @@ Two kinds of ksharas–liquid and solid.
 
 **कुष्ठ-किठिमदद्रुकिलासमण्डल-भगन्दरार्बुददुष्टव्रणनाड़ी-चर्मकीलतिलकालकन्यच्छ-व्यङ्गमशकबाह्यबिद्रधिकृमिविषार्शःसूपदिश्यते सप्तषु च मुखरोगेषूपजिह्वाधिजिह्वोपकुशदन्तवैदर्भेषु रोहिणीषु चैवानुशस्त्रप्रणिधानमुक्तम् ।[\*](http://॑# " विस्तरार्थं सुश्रुतस्य सूत्रस्थाने एकादशोध्यायस्तथा उत्तरतन्त्रे द्विचत्वारिंशोध्यायो द्रष्टव्यः ।")**
 
-**  ****
+**  
 
 Diseases in which solid kshara is to  
 be applied.
@@ -7648,7 +7648,7 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 
 [^56]: "रोमः गर्त्तंजलाशयइत्यर्थः तस्मात् जायते इति रोमकम् ।"
 
-****
+
 
 **अस्य नामानि ।**
 
@@ -8769,7 +8769,7 @@ Kuchila (nox-vomica) produces a cooling effect on the system. It is bitter, incr
 
 **दोलायन्त्रेन संखिन्नः कांजिके प्रहरद्वयम् ।  
 किञ्चिदाज्येन भृष्टश्च विषमुष्टिर्विशुध्यति ॥  
-****
+
 
 Purification of visha-musti.
 
@@ -8867,7 +8867,7 @@ Purification of Jayapala.
 
 **Second process.**
 
- Jayapala seeds are first of all to be deprived of their skins, internal scales, and of their juices by being washed off with water.****They are then to buffalo for threebe kept concealed in the dung of days. They are next to be washed off with hot water and cleansed. Then they are to be rubbed with a piece of rag (which is meant to soak the oil) in a mortar. Next, they are to plaster the surface of a new earthen basin (which is to soak the rest of the oil). The jaypala is thus deprived of oil, and appear like dust. It is then to be subjected to bhavana for several times with lemon-juice. Thus purified, jayapala become excellent in quality.
+ Jayapala seeds are first of all to be deprived of their skins, internal scales, and of their juices by being washed off with water.They are then to buffalo for threebe kept concealed in the dung of days. They are next to be washed off with hot water and cleansed. Then they are to be rubbed with a piece of rag (which is meant to soak the oil) in a mortar. Next, they are to plaster the surface of a new earthen basin (which is to soak the rest of the oil). The jaypala is thus deprived of oil, and appear like dust. It is then to be subjected to bhavana for several times with lemon-juice. Thus purified, jayapala become excellent in quality.
 
 तृतीयो विधिः ।
 
@@ -9578,9 +9578,9 @@ Mouths of ankola seeds, previously separated from their husks, are to be rubbed 
 
 CHAPTER X.
 
-****
 
-****Sandhanas are of three differnt kinds, viz. (1) alcoholic, (2) non-alcoholic but fermented drugs, such as asavas, aristas, etc., and (8) non-alcoholic but fermented drinks, sometimes used as ingredients of medicines (such as kanji).  
+
+Sandhanas are of three differnt kinds, viz. (1) alcoholic, (2) non-alcoholic but fermented drugs, such as asavas, aristas, etc., and (8) non-alcoholic but fermented drinks, sometimes used as ingredients of medicines (such as kanji).  
 ** **Of these, the first two are practically everlasting, and increase in quality every day; whereas the third does not last for a very long time.
 
 **(१) मदिरं सन्धानम् (मद्यम् ) ।**

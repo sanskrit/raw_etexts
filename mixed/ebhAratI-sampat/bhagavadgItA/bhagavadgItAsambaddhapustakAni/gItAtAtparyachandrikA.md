@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2OTk4NjAyMjc
 
 गीताभाष्यतात्पर्यचन्द्रिका
 
-****
+
 
  प्रथमोऽध्यायः द्वितीयोऽध्यायः  तृतीयोऽध्यायः 
 चतुर्थोऽध्यायः

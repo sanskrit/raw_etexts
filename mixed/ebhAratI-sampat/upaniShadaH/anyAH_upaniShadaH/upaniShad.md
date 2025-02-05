@@ -311,7 +311,7 @@ which is indicated by mandatory and prohibitory injunctions. The *Brihadaranyaka
 
  O *Agni*, lead us by the good path to the enjoyment of the fruits of our deeds, knowing O God, all our deeds. Remove the sin of deceit from within us. We offer thee many prostrations by word of mouth.(18).
 
- ***Com*****.—**He requests passage again by another *mantra*. *Naya* means ‘lead.’‘*Supatha*’means by good path.’The attribute in *Supatha* is used for the purpose of avoiding the southern route. The sup-pliant seems to say “I have been afflicted by goingto and for, by the southern route by which one goes only to return. I therefore entreat you to take me by the good road through which there is no going and returning.” ‘*Raye*’means ‘to wealth; i.e., to the enjoyment of the fruits of our *Karma*.’‘*Asman* means ‘us,’possessed of the fruits of the virtue aforesaid. ‘*Visvani*’means ‘all.’O God, ‘*Vayunani*’ means ‘deeds or knowledge.’ ‘*Vidvan*’means ‘Knowing.’Besides do this: ‘*Yuyodhi’* means ‘destroy.’ ‘*Asmat*’means ‘from us.’‘*Juhuranam*’ means ‘consisting in deceit.’‘*Enah*’means ‘*sin.*’ The meaning is :—Thus purified they could attain
+ ***Com*.—**He requests passage again by another *mantra*. *Naya* means ‘lead.’‘*Supatha*’means by good path.’The attribute in *Supatha* is used for the purpose of avoiding the southern route. The sup-pliant seems to say “I have been afflicted by goingto and for, by the southern route by which one goes only to return. I therefore entreat you to take me by the good road through which there is no going and returning.” ‘*Raye*’means ‘to wealth; i.e., to the enjoyment of the fruits of our *Karma*.’‘*Asman* means ‘us,’possessed of the fruits of the virtue aforesaid. ‘*Visvani*’means ‘all.’O God, ‘*Vayunani*’ means ‘deeds or knowledge.’ ‘*Vidvan*’means ‘Knowing.’Besides do this: ‘*Yuyodhi’* means ‘destroy.’ ‘*Asmat*’means ‘from us.’‘*Juhuranam*’ means ‘consisting in deceit.’‘*Enah*’means ‘*sin.*’ The meaning is :—Thus purified they could attain
 
 
 
@@ -518,7 +518,7 @@ know the *Brahman* say that the mind is pervaded by the *Brahman*. Therefore kno
 
  What cannot be heard with the ear, but by which the ears are able to hear, That alone know thou to be the *Brahman*; not this which (people) here worship.(7)
 
-* **Com*****.—**‘What cannot be heard with the ear' means 'which the world does not perceive as an object with the organ of hearing, presided over by *Digdevata*, produced in Akas and connected with the activity of the mind.'
+* **Com*.—**‘What cannot be heard with the ear' means 'which the world does not perceive as an object with the organ of hearing, presided over by *Digdevata*, produced in Akas and connected with the activity of the mind.'
 
 
 
@@ -553,7 +553,7 @@ Here ends the first part
 
  If thou thinkest 'I know well' it is certainly but little the form of the *Brahman* thou hast known, as also the form in the *Devas*. Therefore I think that what thou thinkest known is still to be ascertained.(9)
 
-* **Com*****.—**The preceptor, fearing that, the disciple persuaded to believe that he is the *Atman*,*i.e.*, the *Brahman* not fit to be abandoned or acquired, might think 'I certainly am the *Brahman*, I know myself well, says for the purpose of dispelling that notion of the disciple Yadi, etc. Then, is not an accurate conviction 'I know (*Brahman*) well' desirable? Certainly it is desirable. But an accurate conviction is not of the form 'I know (*Brahman*) well. If what should be known becomes an object of sense-perception then it is possible to know
+* **Com*.—**The preceptor, fearing that, the disciple persuaded to believe that he is the *Atman*,*i.e.*, the *Brahman* not fit to be abandoned or acquired, might think 'I certainly am the *Brahman*, I know myself well, says for the purpose of dispelling that notion of the disciple Yadi, etc. Then, is not an accurate conviction 'I know (*Brahman*) well' desirable? Certainly it is desirable. But an accurate conviction is not of the form 'I know (*Brahman*) well. If what should be known becomes an object of sense-perception then it is possible to know
 
 
 
@@ -580,7 +580,7 @@ the form of *Brahman* has been defined. Truly so; but even there, the *Brahman* 
 
  I do not think I know well; I know too; not that I do not know. He of us who knows that, knows that as also what is meant by I know too; not that I do not know.' (10)
 
- *******Com.—***On being asked how, the disciple says: "Listen. I do not think I know *Brahman* well." "Then is the *Brahman* not known by thee?" Thus questioned, the disciple says "Not that I do not know, I know too;" the word too in 'I know too' means 'I do not know too. Is it not contradictory: 'I think I know not *Brahman* well etc.?" If thou dost not think thou knowest well, how then dost thou think thou knowest also? If again thou thinkest thon certainly knowest, then how dost thou think thou knowest not well? To say that a thing is not known well by the man who knows it is a contradiction, the cases of doubt and false knowledge being left out of consideration. Nor is it possible to lay down a restrictive rule that the knowledge of
+ ***Com.—***On being asked how, the disciple says: "Listen. I do not think I know *Brahman* well." "Then is the *Brahman* not known by thee?" Thus questioned, the disciple says "Not that I do not know, I know too;" the word too in 'I know too' means 'I do not know too. Is it not contradictory: 'I think I know not *Brahman* well etc.?" If thou dost not think thou knowest well, how then dost thou think thou knowest also? If again thou thinkest thon certainly knowest, then how dost thou think thou knowest not well? To say that a thing is not known well by the man who knows it is a contradiction, the cases of doubt and false knowledge being left out of consideration. Nor is it possible to lay down a restrictive rule that the knowledge of
 
 
 
@@ -604,7 +604,7 @@ us' never arises. In the case of those who find the *Atman* in the conditioned o
 
  (*The Brahman)* is known well. when it is known as the witness of every state of consciousness; for (by such knowledge) one attains immortality. By his Self he attains strength and by knowledge, immortality. (12)
 
-* **Com*****.—** It has been settled that it is unknown to those who know. If *Brahman* be not known at all, it will then come to this, that there is no difference between the worldly-minded and those who know the *Brahman*. To say that It is unknown to those who know is also a contradiction. How then could that
+* **Com*.—** It has been settled that it is unknown to those who know. If *Brahman* be not known at all, it will then come to this, that there is no difference between the worldly-minded and those who know the *Brahman*. To say that It is unknown to those who know is also a contradiction. How then could that
 
 
 
@@ -637,7 +637,7 @@ because one acquires by his *Atman* alone the strength produced by the knowledge
 
  If one knows (That) here, then there is truth. If one knows not (That) here, there will be great loss. The wise, seeing the one *Atman* in all created things, having turned away from this world, become immortal.(13)
 
-* **Com*****:—**It is, indeed, hard to suffer birth, old age, death, sickness, etc., owing to ignorance, being one of the crowd of living beings, such as *Devas*, men, beasts, (*pretas*), etc., full of the miseries of *Samsara*. Therefore if a man, even in this world being authorised and competent, knows the *Atman* as defined, in the manner already explained, then there is truth; *i.e*., there is in this birth as a mortal, immortality, usefulness, real existence. But if one living here and authorised does not know the *Brahman*, then there is long and great misery for him, *i.e.,* rotation in *Samsara—*one continuous stream of births and deaths. Therefore
+* **Com*:—**It is, indeed, hard to suffer birth, old age, death, sickness, etc., owing to ignorance, being one of the crowd of living beings, such as *Devas*, men, beasts, (*pretas*), etc., full of the miseries of *Samsara*. Therefore if a man, even in this world being authorised and competent, knows the *Atman* as defined, in the manner already explained, then there is truth; *i.e*., there is in this birth as a mortal, immortality, usefulness, real existence. But if one living here and authorised does not know the *Brahman*, then there is long and great misery for him, *i.e.,* rotation in *Samsara—*one continuous stream of births and deaths. Therefore
 
 
 
@@ -661,7 +661,7 @@ Here ends the Second Part.
 
  The *Brahman* won a victory for the *Devas* and in that victory of the *Brahman* the *Devas* attained glory. They thought the victory is ours and this glory is ours alone.' (14)
 
-* **Com*****.—**From the passage that 'It is not known to those who know, some fools may argue that whatever is, can be known by proofs, and whatever is not cannot be so known and is, therefore, nonexistent, as the horns. of a hare, and *Brahman*, being unknown, does not exist. In order that they may not fall into that error this parable is introduced; for, the subsequent passages. clearly show the folly of thinking that that *Brahman* who is controller of all in every way, *Deva*, even superior to all *Devas*, Lord over lords, not easily known, the
+* **Com*.—**From the passage that 'It is not known to those who know, some fools may argue that whatever is, can be known by proofs, and whatever is not cannot be so known and is, therefore, nonexistent, as the horns. of a hare, and *Brahman*, being unknown, does not exist. In order that they may not fall into that error this parable is introduced; for, the subsequent passages. clearly show the folly of thinking that that *Brahman* who is controller of all in every way, *Deva*, even superior to all *Devas*, Lord over lords, not easily known, the
 
 
 
@@ -713,7 +713,7 @@ a form unprecedentedly glorious and astonishing and capable of being perceived b
 
 
 
-* **Com*****.—**They next addressed Vayu thus: 'know this, etc. The rest bears the same meaning as in the last passage. *Vayu \[Air\]* is so named from the root which means 'to go'or 'to smell. *Vayu* is also called *Matarisva*' because it travels \[*svayati*\] in space \[*matari*\]. "*Adadiyam*' means 'can take.' The rest is explained as in the previous passage.
+* **Com*.—**They next addressed Vayu thus: 'know this, etc. The rest bears the same meaning as in the last passage. *Vayu \[Air\]* is so named from the root which means 'to go'or 'to smell. *Vayu* is also called *Matarisva*' because it travels \[*svayati*\] in space \[*matari*\]. "*Adadiyam*' means 'can take.' The rest is explained as in the previous passage.
 
  **अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति तदभ्यद्रवत्तस्मात्तिरोदधे॥२४॥ स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमा ꣳहैमवतीं ता ꣳहोवाच किमेतद्यक्षमिति॥२५॥**
 
@@ -777,7 +777,7 @@ means 'like'.The meaning is that it was like theeye opening and closing to see a
 
  Next illustration, from the Atman within the body—as speedily as the mind goes to *Brahman*—as speedily as one thinks of *Brahman* by the mind, and asspeedily as the mind wills.(30)
 
-* **Com*****.—** *Atha*' means next '.We offer illustrations from the *Atman* within the body. ‘Goes to’means perceives as an object'. As speedily as one (worshipper) thinks of the *Brahman* as near*Abhikshnam*' means 'very much'. 'Wills', *i.e.*, about the *Brahman*. By the volition, recollection of the mind, the *Brahman* as bounded by the mind is perceived as an object. Therefore this is an illustration of the *Brahman* taken from within the body, as lightning and winking from the activity of the powers.And as those illustrations show that *Brahman* flashes instantaneously, so these illustrations show that *Brahman's* appearance and disappearance are as quick as the perceptions of the mind. These illustrations of the
+* **Com*.—** *Atha*' means next '.We offer illustrations from the *Atman* within the body. ‘Goes to’means perceives as an object'. As speedily as one (worshipper) thinks of the *Brahman* as near*Abhikshnam*' means 'very much'. 'Wills', *i.e.*, about the *Brahman*. By the volition, recollection of the mind, the *Brahman* as bounded by the mind is perceived as an object. Therefore this is an illustration of the *Brahman* taken from within the body, as lightning and winking from the activity of the powers.And as those illustrations show that *Brahman* flashes instantaneously, so these illustrations show that *Brahman's* appearance and disappearance are as quick as the perceptions of the mind. These illustrations of the
 
 
 
@@ -787,7 +787,7 @@ means 'like'.The meaning is that it was like theeye opening and closing to see a
 
  The *Brahman* should be worshipped by all and is hence called Tadvana. As Tadvana, It must be worshipped. Who thus knows *Brahman*, is loved by all living beings. (31)
 
-* **Com*****.—**
+* **Com*.—**
 
 Tat means '*Brahman*', 'Ha' means 'as is well-known'. '*Tadvanam*' is a compound of tat and *vanam*. It means 'which deserves to be worshipped as the one *Atman* of all living things'. The Brahman is well-known as *Tadvanam* and should, therefore, be worshipped as *Tadvana*, a word denoting its virtue. Worshipped' means 'contemplated. The Sruti next declares the fruit attained by one who contemplates the *Brahman* by this name. He who contemplates the *Brahman* already defined as possessed of this virtue, him (this worshipper) all living things love, *i.e*., pray to him as they would to *Brahman*.
 

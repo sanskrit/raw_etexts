@@ -107,7 +107,7 @@ answers: “by dispassion and perseverent practice.”—Arjuna asks: “what ar
 
  **CHAP: VIII. *Akshara-Brahma-Yoga.***—(The subjectmatter of the previous chapter is continued.) Arjuna asks what is the nature of Brahman, of Adhyâtma, Adhibhûta, and Adhidaiva-Shrî Kṛiṣhṇa describes these and also incidentally ora mentions how Brahman may be reached by the byliving as well as the departing Jîva.
 
- **CHAP: IX.*****Raja-Vidya-Raja-Guhya-Yoga.***—Shrî Kṛiṣhṇa continues his statement of “the Royal Secret, the final wisdom,” the possession of which confers Immortality, viz, the recognition of and devotion to the Supreme Self—also describes the results of devotion to minor personal Gods (Îshvaras of systems &c.)
+ **CHAP: IX.*Raja-Vidya-Raja-Guhya-Yoga.***—Shrî Kṛiṣhṇa continues his statement of “the Royal Secret, the final wisdom,” the possession of which confers Immortality, viz, the recognition of and devotion to the Supreme Self—also describes the results of devotion to minor personal Gods (Îshvaras of systems &c.)
 
  **CHAP: X. *Vibhuti - Yoga.***—The Glories of the Supreme Self
 
@@ -223,7 +223,7 @@ nents, is not always analysable into these components by the beginner. The coale
 
 ** **(c) Visarga: changes in five ways; it disappears, **समवेताः युयुत्सवः = समवेता युयुत्सवः** (i.1.) ; it is dropped before a vowel and no further change occurs, **कामः एषः = काम एषः** (iii. 37.); it changes into **ष, श** and **स, दुः कृतां** = **दुष्कृतां** ( iv. 8.), **पांडवाः च = पांडवाश्च** (.1.), **यज्ञः तपः तथा = यज्ञस्तपस्तथा** (xvii. 7.) ; it changes into **ओ, यः मां = यो मां** (vi. 30.), **अजः अपि = अजोपि**(iv.6.) these cases being generally marked with ऽ. as **सः अर्जुन = सोऽर्जुन** (iv 9) \] ; it is changed into **र्, योनिः महद्ब्रह्म = योनिर्महद्ब्रह्मं** (xiv. 3.) The details of the rules causing these changes must be sought in a grammar.
 
- (d) *Consonants* : The final consonant of one word is modified by the first consonant of the succeeding one. These changes are very numerous and intricate, and will only gradually become familiar; the following cases show the general principle above mentioned that the writing follows the sound; **यत्****ज्ञात्वा = यज्ज्ञात्वा (vii.2.), यत् यत् विभूतिमत् = यद्यद्विभूतिमत् (x. 41.), यत् च = यच्च (x. 39.)**
+ (d) *Consonants* : The final consonant of one word is modified by the first consonant of the succeeding one. These changes are very numerous and intricate, and will only gradually become familiar; the following cases show the general principle above mentioned that the writing follows the sound; **यत्ज्ञात्वा = यज्ज्ञात्वा (vii.2.), यत् यत् विभूतिमत् = यद्यद्विभूतिमत् (x. 41.), यत् च = यच्च (x. 39.)**
 
  III. *Compounds*. When all cases of simple sandhi have been eliminated, the student is faced with another difficulty; words are compounded together, and only the last word of the compound is complete; the remaining word or words have their endings clipped off, and these have to be supplied before
 
@@ -410,7 +410,7 @@ The following forms occur frequently in the *Gîtâ*.
 दृष्ट्वा तु पांडवानीकं व्यूढं दुर्योधनस्तदा।  
 आचार्यमुपसंगम्य राजा वचनमब्रवीत्॥
 
-**** Separated into independent words:
+ Separated into independent words:
 
  **दृष्ट्वा तु (पांडवानीकं =) पांडवानाम् अनीकं व्यूढं दुर्योधनः तदा। आचार्यम् उपसंगम्य राजा वचनम् अब्रवीत्॥**
 
@@ -900,7 +900,7 @@ of terrible deeds, blew his mighty conch, Paundra ; (15)
 
  That I may behold these standing, longing for battle, with whom I must strive in this out-breaking war ; (22)
 
- **यावत्** while; **एतान्** these ; **निरीक्षे** see; **अहं I**; **योद्धुकामान् = योद्धुं कामो येषां ते** to fight, desire, whose, they; **अवस्थितान्** standing ; **कैः** with whom ; **मया** by me; **सह** together; **योद्धव्यम्** must be fought ; **अस्मिन्** in this ; **रणसमुद्यमे=****रणस्य समुद्यमे** of war, in the uprising.
+ **यावत्** while; **एतान्** these ; **निरीक्षे** see; **अहं I**; **योद्धुकामान् = योद्धुं कामो येषां ते** to fight, desire, whose, they; **अवस्थितान्** standing ; **कैः** with whom ; **मया** by me; **सह** together; **योद्धव्यम्** must be fought ; **अस्मिन्** in this ; **रणसमुद्यमे=रणस्य समुद्यमे** of war, in the uprising.
 
 
 
@@ -1053,7 +1053,7 @@ mother's brothers, fathers-in-law, grandsons, brothers-in-law, and other relativ
 
  Therefore we should not kill the sons of Dhṛîtarâṣhṭra, our relatives; for how, killing our kinsmen, may we be happy, O Mâdhava? (37)
 
- **तम्मात्** therefore; **न** ( are) not; **अर्हाः** deserving, (ought); **वयम्** we; **हंतुं** to kill; **धार्तराष्ट्रान्** the sons of **Dhritarâṣhṭra;****स्ववांधवान्** own relatives; **स्वजनं** kinsfolk; **हि** indeed; **कथं** how; **हत्वा** havingkilled; **सुखिनः**happy;**स्याम** may (we) be; **माधव** O Mâdhava. indeed.
+ **तम्मात्** therefore; **न** ( are) not; **अर्हाः** deserving, (ought); **वयम्** we; **हंतुं** to kill; **धार्तराष्ट्रान्** the sons of **Dhritarâṣhṭra;स्ववांधवान्** own relatives; **स्वजनं** kinsfolk; **हि** indeed; **कथं** how; **हत्वा** havingkilled; **सुखिनः**happy;**स्याम** may (we) be; **माधव** O Mâdhava. indeed.
 
 **यद्यप्येते न पश्यंति लोभोपहतचेतसः।  
 कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्॥३८॥**
@@ -2993,7 +2993,7 @@ ered; **ब्रह्मवित्** Brahman-knower; **ब्रह्मण
 
  Having external contacts excluded, and with gaze fixed between the eye-brows; having made equal the outgoing and incoming breaths moving within the nostrils,(27)
 
-** स्पर्शान्** contacts; **कृत्वा** having made; **बहिः** outside; **बाह्यात्** external; **चक्षुः** eye (gaze); **च** and; **एव** even, **अन्तरे** in the****middle; **भ्रुवोः** of the (two) eyebrows;**प्राणापानौ=प्राणः च अपानः च** incoming breath, and, outgoing breath, and; **समौ**(two) equal; **कृत्वा** having made; **नासाभ्यन्तरचारिणौ=नासायाः** **अभ्यंतरे चारिणौ** of the nostrils, within moving.
+** स्पर्शान्** contacts; **कृत्वा** having made; **बहिः** outside; **बाह्यात्** external; **चक्षुः** eye (gaze); **च** and; **एव** even, **अन्तरे** in themiddle; **भ्रुवोः** of the (two) eyebrows;**प्राणापानौ=प्राणः च अपानः च** incoming breath, and, outgoing breath, and; **समौ**(two) equal; **कृत्वा** having made; **नासाभ्यन्तरचारिणौ=नासायाः** **अभ्यंतरे चारिणौ** of the nostrils, within moving.
 
 **यतेंद्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः।  
 विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः॥२८॥**
@@ -7490,7 +7490,7 @@ PEACE BE TO ALL WORLDS.
 
 |                                  |                      |                                                                                                                                                            |
 |----------------------------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ****vii**.**19.**सुदुर्ल्लभः** | **स दुर्लभः**        |  “He is difficult to find ” instead of “very difficult to find”.                                                                                         |
+| vii**.**19.**सुदुर्ल्लभः** | **स दुर्लभः**        |  “He is difficult to find ” instead of “very difficult to find”.                                                                                         |
 | viii**.** 5**. असंशयं**          | **असंशयः**           |  The text means “undoubtedly ”; the alternative “free of doubt thyself ”. The text seems to be the stronger reading.                                     |
 | viii**.**8**. नान्यगामिना**      | **ऽनन्यगामिना**      |  The alternative makes no change of meaning, but is more in accordance with modern grammar.                                                              |
 | viii.20**. ऽव्यक्तो व्यक्तात्** | **व्यक्ताव्यक्तात्** |  “(More ancient) than both the manifested and the (lower) unmanifested.” Cf. xv. 16 & 18, xi. 37.                                                        |
@@ -7723,7 +7723,7 @@ PEACE BE TO ALL WORLDS.
 | **भक्ति—**ix, 26**—**xii. 17. 19**—**xiii, 10**—**xviii, 54, 68                                                                                         |
 | **भक्तियोग**-xiv. 26.                                                                                                                                   |
 | **भक्त—**ix.3**—**vii, 21**—**ix. 23. 31. 33. 34**—**xii. 1. 20                                                                                         |
-| **भस्मसात्****—**iv. 37.                                                                                                                               |
+| **भस्मसात्—**iv. 37.                                                                                                                               |
 
 
 

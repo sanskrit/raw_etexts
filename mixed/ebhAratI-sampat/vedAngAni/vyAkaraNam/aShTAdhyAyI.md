@@ -6395,7 +6395,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 .
 
-***षष्टो**ध्याये प्रथमः पादः*****
+***षष्टो**ध्याये प्रथमः पादः*
 
 
 
@@ -7014,7 +7014,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 
 
- ***षष्टो**ध्याये द्वितीयः पादः***** 
+ ***षष्टो**ध्याये द्वितीयः पादः* 
 
 
 
@@ -7219,7 +7219,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 
 
-***षष्टो**ध्याये तृतीयः पादः*****
+***षष्टो**ध्याये तृतीयः पादः*
 
 
 
@@ -7692,7 +7692,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 
 
-***षष्टो**ध्याये चतुर्थः पादः*****
+***षष्टो**ध्याये चतुर्थः पादः*
 
 
 
@@ -8235,7 +8235,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 .
 
-***षष्टो**ध्याये प्रथमः पादः*****
+***षष्टो**ध्याये प्रथमः पादः*
 
 
 
@@ -8854,7 +8854,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 
 
- ***षष्टो**ध्याये द्वितीयः पादः***** 
+ ***षष्टो**ध्याये द्वितीयः पादः* 
 
 
 
@@ -9059,7 +9059,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 
 
-***षष्टो**ध्याये तृतीयः पादः*****
+***षष्टो**ध्याये तृतीयः पादः*
 
 
 
@@ -9532,7 +9532,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 
 
-***षष्टो**ध्याये चतुर्थः पादः*****
+***षष्टो**ध्याये चतुर्थः पादः*
 
 
 
@@ -10075,7 +10075,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 .
 
-***षष्टो**ध्याये प्रथमः पादः*****
+***षष्टो**ध्याये प्रथमः पादः*
 
 
 
@@ -10694,7 +10694,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 
 
- ***षष्टो**ध्याये द्वितीयः पादः***** 
+ ***षष्टो**ध्याये द्वितीयः पादः* 
 
 
 
@@ -10899,7 +10899,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 
 
-***षष्टो**ध्याये तृतीयः पादः*****
+***षष्टो**ध्याये तृतीयः पादः*
 
 
 
@@ -11372,7 +11372,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM2MDg3NjY4
 
 
 
-***षष्टो**ध्याये चतुर्थः पादः*****
+***षष्टो**ध्याये चतुर्थः पादः*
 
 
 

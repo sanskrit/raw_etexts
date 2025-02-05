@@ -2600,7 +2600,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYzMjY5ODA3
 
 .
 
-         ***अथ******चुरादिप्रकरणम् ।***
+         ***अथ**चुरादिप्रकरणम् ।***
 
 
 
@@ -6502,7 +6502,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYzMjY5ODA3
 
 ** अथ उणादिप्रकरणम्।**
 
-****
+
 
 ** *अथ प्रथमपादः।***
 
@@ -8228,7 +8228,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYzMjY5ODA3
 
 
 
-***अथ*** **** ***तृतीयः*** **** ***पादः।***
+***अथ***  ***तृतीयः***  ***पादः।***
 
 
 

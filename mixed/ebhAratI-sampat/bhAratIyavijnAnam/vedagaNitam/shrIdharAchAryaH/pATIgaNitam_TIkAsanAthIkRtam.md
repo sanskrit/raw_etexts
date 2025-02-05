@@ -167,7 +167,7 @@ LUCKNOW UNIVERSITY
 
 
 
-****
+
 
 
 
@@ -395,7 +395,7 @@ We have tried our best to keep the spirit of the original and have as far as pos
 
     The translation to each rule is preceded by a sentence or two giving in brief the contents of the rule and is followed, where necessary, by relevant notes and comments. Parallel rules and examples found in other available works on Hindu mathematics have been indicated in the footnotes. Headings and sub-headings have been provided to facilitate consultation.
 
-**   2.****PATIGANITA**. *Pâṭigaṇita* is the name given to that branch of Hindu Mathematics which deals with arithmetic and mensuration. It is believed that this subject attained an independent status sometime before the beginning of the Christian era, when arithmetic became a separate subject and geometry, which formerly belonged to a separate group of Sciences, viz., the *Kalpasûtra*, came to be incorporated with it[^2].The earliest work exclusively dealing with this subject which has come down to us is the fragmentary manuscript known as the *Bakhshâlî Manuscript*[^3]. Part III, Delhi (1933).") (text composed about 200 A.D.), which was discovered in 1881 A.D., at Bakhshâlî, a village near the city of Peshawar in the north-west of India, in course of excavation by a farmer. This work shows beyond all doubt that by the third century A.D., when its text was composed, the subject of *Pâṭigaṇita* was already in a state of maturity.
+**   2.PATIGANITA**. *Pâṭigaṇita* is the name given to that branch of Hindu Mathematics which deals with arithmetic and mensuration. It is believed that this subject attained an independent status sometime before the beginning of the Christian era, when arithmetic became a separate subject and geometry, which formerly belonged to a separate group of Sciences, viz., the *Kalpasûtra*, came to be incorporated with it[^2].The earliest work exclusively dealing with this subject which has come down to us is the fragmentary manuscript known as the *Bakhshâlî Manuscript*[^3]. Part III, Delhi (1933).") (text composed about 200 A.D.), which was discovered in 1881 A.D., at Bakhshâlî, a village near the city of Peshawar in the north-west of India, in course of excavation by a farmer. This work shows beyond all doubt that by the third century A.D., when its text was composed, the subject of *Pâṭigaṇita* was already in a state of maturity.
 
 [^2]: "See B. Datta, ‘The Scope and Development of the Hindu Gaṇita,’ Indian Historical Quarterly, Vol. V, No. 3, Sept. 1929, pp. 478-512."
 
@@ -1369,7 +1369,7 @@ Although the quotation occurs in a mutilated form in both the places, but there 
 
 of the *Pâṭigaṇita-sâra*, but nowhere does he give out the name of his father, mother, or teacher, or the time and place of his birth and literary activity. Later writers, too, have thrown little light on these aspects of his life. The determination of his time and place is, therefore, a very difficult problem. In the following sections we have endeavoured to ascertain as much about his life as could be possible on the basis of circumstantial evidence furnished by his works or by a comparative study of his works with those of other writers of known time and place.
 
-**   ****5.1. A Saivite Hindu.** In the opening stanza of the *Pâṭigaṇita*, Śridharâcârya pays homage to the Unborn God, the cause of creation, preservation, and maintenance of the worlds. The commentator identifies this Unborn God with God Maheśvara or Śiva, who is endowed with five functions (*pañcakṛiya*), viz., creation (*sṛṣṭi*), preservation (*sthiti*), destruction (*saṁhâra*), kindness (*anugraha*), and disappearance [(*tirodhâna*)[^79], p. 131, where we have the following verse giving the five functions of God Malnaśvara:  पञ्चविधं तत्कृत्यं सृष्टिस्थितिसंहारतिरोभावाः।  तद्वदनुग्रहकरणं प्रोक्तं सततोदितस्यास्य।"). In the opening stanza of the *Pâtigaṇita-sâra*, Śridharâcârya pays homage to God Śiva by name. Hence it is clear that he was a devotee of God Śiva. This conclusion is furthermore corroborated by the inclusion in the *Pâtigaṇita* of an example which relates to the worship of the five faces of God Śiva. (See Ex 89-90). "This, it may be added, is the only example in the works of Śridharâcârya that has reference to a god.
+**   5.1. A Saivite Hindu.** In the opening stanza of the *Pâṭigaṇita*, Śridharâcârya pays homage to the Unborn God, the cause of creation, preservation, and maintenance of the worlds. The commentator identifies this Unborn God with God Maheśvara or Śiva, who is endowed with five functions (*pañcakṛiya*), viz., creation (*sṛṣṭi*), preservation (*sthiti*), destruction (*saṁhâra*), kindness (*anugraha*), and disappearance [(*tirodhâna*)[^79], p. 131, where we have the following verse giving the five functions of God Malnaśvara:  पञ्चविधं तत्कृत्यं सृष्टिस्थितिसंहारतिरोभावाः।  तद्वदनुग्रहकरणं प्रोक्तं सततोदितस्यास्य।"). In the opening stanza of the *Pâtigaṇita-sâra*, Śridharâcârya pays homage to God Śiva by name. Hence it is clear that he was a devotee of God Śiva. This conclusion is furthermore corroborated by the inclusion in the *Pâtigaṇita* of an example which relates to the worship of the five faces of God Śiva. (See Ex 89-90). "This, it may be added, is the only example in the works of Śridharâcârya that has reference to a god.
 
 [^79]: "Cf. Âryavidyâsudhâkara, by Yajñeśvara Cimaṇa Bhaṭṭa, edited with notes, etc., by MM. Pandit Śivadatta D. Kudâla, published by Motilal Banarsidas, Lahore (1923
 
@@ -1562,7 +1562,7 @@ This clearly shows that Śridharâcârya lived in an age when the accuracy of th
 
 
 
-*â ṭṇṅûśñḍôṣś********š*í*Ś*ṁṛīî
+*â ṭṇṅûśñḍôṣśš*í*Ś*ṁṛīî
 
 
 Jaina[^96]. Similarly, Baladeva Miśra associates him with north India on the basis that he was a Saivite.[^97]
@@ -8328,7 +8328,7 @@ where v is the varṇa of the refined gold.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*â ṭṇṅûśñḍôṣś********š*í*Ś*ṁṛ
+*â ṭṇṅûśñḍôṣśš*í*Ś*ṁṛ
 
 
 

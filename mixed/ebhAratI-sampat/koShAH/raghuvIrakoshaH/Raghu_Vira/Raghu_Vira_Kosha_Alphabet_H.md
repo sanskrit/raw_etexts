@@ -285,7 +285,7 @@ Hal.** (halogen) *Chem.* **नीक्**(नीकुल, नीकुल्य
 **halcyon = kingfisher** *Zool.***मीनरंक***m.*  
 
 **Halcyon** *Aves* **किकीदिवि-प्रजाति** (किकीदिवि ancient word)  
-**Halesus** *Zool. * (wings more or less densely hairy in caddis flies) **** **रोमि-पतंग-प्रजाति  
+**Halesus** *Zool. * (wings more or less densely hairy in caddis flies)  **रोमि-पतंग-प्रजाति  
 Halesus guttatipennis चित्रित रोमिपतंग  
 half** *adj.* **1.अर्ध,आधा 2.**(as, of a ticket) **अर्धभाग** *m.*  
 **half- अर्ध-  
@@ -415,7 +415,7 @@ illusion माया, -भ्रम**
 **Halmaturus ualabatus सामान्य धाकुरंगक  
 halmyrolysis** (Gk. *α**λ**μ**ν**ρ*ós 'salt, briny' : submarine rock weathering— Tyrrell p.230) **समुद्रांशन** *n.*  
 **halo 1.प्रभामण्डल** *n.***2.***Astron.* **प्रभामण्डल** *n.*  
-**halo-1.**(sea) **समुद्र- 2.**(salt)**लवण- 3.***Chem.*****(halogen) **नीकुल्य-  
+**halo-1.**(sea) **समुद्र- 2.**(salt)**लवण- 3.***Chem.*(halogen) **नीकुल्य-  
 halobiotic** *adj. Zool.* **समुद्रजीवी** (-इन्)  
 **halobiotic realm = marine realm समुद्र-देश** *m.*  
 **haloform** *Chem.* **नीकुल्यवभ्र***n.*  
@@ -828,7 +828,7 @@ hardy** *adj. Hort.* **सहिष्णु,रोधी** (Fr*.résistant*)
 hardy vegetable सहिष्णु शाक  
 hare** *Zool.* **शश** *m.* (rabbit शशक)**, शशा  
 Hare = Lepus** *Astron.* **शश** *m.*  
-**harebell = bluebell** (*Campanula rotundifolia*)****
+**harebell = bluebell** (*Campanula rotundifolia*)
 
 **नीलघण्टा** *f.*  
 **hare-lip** *Med.* (a congenitally divided lip, commonly an upper one) **शश-ओष्ठ, दीर्ण ओष्ठ  
@@ -1016,7 +1016,7 @@ hatchway = hatch विपाटद्वार** *n.*
 **hate** *vb.***घृणा करना  
 hate** *n.* **घृणा** *f.*  
 **hathi grey** (a colour, yellowish-green हर्यापीत in hue, of very low अप saturation) **अपहर्यापीत  
-Hathor = royal blue** (a colour, red-dish-blueनीलारक्त**** in hue, of very high अधि saturation and
+Hathor = royal blue** (a colour, red-dish-blueनीलारक्त in hue, of very high अधि saturation and
 
 low नि brilliance) **न्यधिनीलारक्त**
 
@@ -1266,7 +1266,7 @@ head lobe** *Zool.* **शिरः-पालि
 head louse शिरो-यूका  
 head male attendant मुख्य अनुचर  
 head mali मुख्य माली  
-headman 1.मुख्य पुरुष***m.,***मुखिया******2.**(of a village) **ग्रामणी** *m.* (ancient word)**, मुखिया  
+headman 1.मुख्य पुरुष***m.,***मुखिया**2.**(of a village) **ग्रामणी** *m.* (ancient word)**, मुखिया  
 headman with protected status** (RegM.154) **रक्षित स्थिति का मुखिया  
 headmaster** (of a school) **मुख्याध्यापक** *m.*  
 **Headmaster, Government Technical High School मुख्याध्यापक, शासकीय प्रौद्योगिक उच्चशाला  
@@ -1365,7 +1365,7 @@ heal-all 1.= Valeriana officinalisपाश्चात्य-कुटिला
 
 **शाक** *n.*
 
-**heald = heddle** (used to guide नी****the warp वय) **वय-नी** *m.*  
+**heald = heddle** (used to guide नीthe warp वय) **वय-नी** *m.*  
 **healed** *adj.* **रोपित  
 healer नीरोगकर्ता** (-तृ) *m.*  
 **healing** (of a wound) **रोपण** *n.***, भरना  
@@ -1700,7 +1700,7 @@ hegemony अधिभाव, परम प्रभाव** *m.*
 **Hegetotheriidae प्ररदनि-वंश** *m.*  
 **Hegetotherium** *Paleontol.* **प्ररदनि-प्रजाति  
 he-goat पुमज** *m.,* **बकरा  
-Heidelberg man प्रागुषो-मानव *(****see* ***man)*  
+Heidelberg man प्रागुषो-मानव *(see* ***man)*  
 heifer** (a cow that has not had a calf) **अप्रसूता** *f.*  
 **heifer in milk दुग्धिनी अप्रसूता  
 height 1.उच्चत्व***n.,* **उंचाई 2.***Forestry* **उच्चता** *f.***उंचाई  
@@ -3223,7 +3223,7 @@ Baluchistan. It is one of the pīthas) **हिंगुला** *f.*
 
 hint
 
-1.संकेत *m. **2*****.= point** *Math.* **उद्देशक** *m.*
+1.संकेत *m. **2*.= point** *Math.* **उद्देशक** *m.*
 
 **suggestion सुझाव  
 intimation प्रज्ञापन, सूचना  
@@ -3262,14 +3262,14 @@ hippocampus** *Anat.* (a curved structure...forming the larger part of the arohi
 
 **गन्ध-वक्र***n.*
 
-**Hippocampus** *Zool.*****(consists of sea horsee) **अश्वमीन-प्रजाति  
+**Hippocampus** *Zool.*(consists of sea horsee) **अश्वमीन-प्रजाति  
 hippocampus major= hippocampus***Anat.*  
 **hippocampus minor = calcar avis***Anat.* (a white curved ridge— Dorland and Webster) **श्वेत-वक्र**
 
 *n.*
 
 **Hippolais** *Aves* **गायन्ती-प्रजाति  
-Hippomane** *Bot.*****(latex poisonous)**विषाक्षीर-प्रजाति** (आक्षीर latex)  
+Hippomane** *Bot.*(latex poisonous)**विषाक्षीर-प्रजाति** (आक्षीर latex)  
 **Hippomane mancinella = manchineal tree** (in Guiana, the milky juice is given for worms to
 
 children— Basu) **कृमिहरविषाक्षीर**
@@ -3863,7 +3863,7 @@ home-farm account गृह-प्रक्षेत्र-लेखा
 home-farm accounts forms गृह-प्रक्षेत्र-लेखा-प्रपत्र  
 home-farm cultivation गृह-प्रक्षेत्र-कृषि  
 home-farm land गृह-प्रक्षेत्र-भूमि, निज जोत  
-home fly******गृह-मक्षी  
+home fly**गृह-मक्षी  
 home grown गृहजात, गृहरोपित  
 home guard** *Mil.* **गृह-रक्षी** (-इन्), **नगर-सैनिक** *m.*  
 **Home Guards नगर-सेना, गृह-रक्षी  
@@ -3973,7 +3973,7 @@ homogeneous immersion समरूप निमज्जन
 homogeneous liquid** *Hydrostatics* **समरूप तरल  
 homogeneous mixture समरूप मिश्र  
 homogeneous product** *Math.* **समघात गुणनफल  
-homogeneous products of****η** **dimensions** *Math. * **स विमाओं के समघात गुणन-फल  
+homogeneous products ofη** **dimensions** *Math. * **स विमाओं के समघात गुणन-फल  
 homogentisic** *adj. Biochem.* **समानकिरातिक  
 homogentisic acid** *Biochem.* **समानकिरातिक अम्ल  
 homoio-सम-  
@@ -4864,7 +4864,7 @@ horticulture 1.उद्यान-कर्म** *n.*
 hosiery knitted tubular fabric** *Textiles* **संपाशकृत नालाकार वस्त्र  
 hosiery manufacturer संपाशवस्त्र-निर्माता  
 hosing pipes नम्यनाल** *m.*  
-**hospital चिकित्सालय** *m.*****(Const.)
+**hospital चिकित्सालय** *m.*(Const.)
 
 **infirmary रुग्णालय  
 dispensary औषधालय**
@@ -4905,7 +4905,7 @@ host 1.आतिथेय** *m.* (used in Telugu and Malayalam, and by Kálidás
 **host-crystal = oikocryst  
 hostel छात्रावास** *m.* (*see* boarding house)  
 **hostel caution money छात्रावास-प्रतिभूतिराशि  
-hosteller छात्रावासी**(-इन्)*****m.*  
+hosteller छात्रावासी**(-इन्)*m.*  
 **hostel library छात्रावास-पुस्तकालय  
 hostel property छात्रावास-संपत्ति  
 hostel rent छात्रावास-भाटक  
@@ -5086,7 +5086,7 @@ house-lizard** *Zool.* **पल्ली, गृह-गोधिका** *f.*
 house mouse गृह-मूषिका  
 house** *no.* **गृह-सं.  
 House of Commons लोक-सदन  
-house of correction शोधानास** *m.*****(*see* bettering house)
+house of correction शोधानास** *m.*(*see* bettering house)
 
 **reformatory सुधारालय  
 house of refuse सुधारावास**
@@ -5164,12 +5164,12 @@ H-shaped palisade** *Bot.* **डमरुरूप स्कम्भकोश�
 **H. T. N. C** (head trains clerk) *Rly.***मु.सं.लि.** (मुख्य संयान-लिपिक)  
 **H.T.X.R.** (head train examiner) *Rly.***मु. सं. प.** (मुख्य संयान-परीक्षक)  
 **huanaco = guanaco  
-huantajayite क्षारनीरिज** *m.*****(क्षा- for क्षारातु sodium, र- for रजत silver, नीर- for नीरेय chloride, -इज
+huantajayite क्षारनीरिज** *m.*(क्षा- for क्षारातु sodium, र- for रजत silver, नीर- for नीरेय chloride, -इज
 
 for खनिज mineral)
 
 **huanuco coca** (*Erythroxylon coca*)**प्राचेतनी** *f.*  
-**hub नाभिक** *n.*****(from महाभारत)  
+**hub नाभिक** *n.*(from महाभारत)  
 **hub-cap** *Automobile* **नाभिक-टोपी  
 huckaback** (a towel fabric, having an uneven surface, with long floats of yarn) **प्लावी,**
 
@@ -5377,7 +5377,7 @@ hunter, hunter green, hunter's green** (a colour, greenish green-yellow पी�
 hunting dog** *Zool.* **मृगदंश** *m.* (ancient word)  
 **HuntingDogs = CanesVenatici***Astron.* **व्याध**
 
-*****m.*  
+*m.*  
 **Huntingdon willow = white willow** (*Salix alba*) **श्वेत-नम्रा** *f.*  
 **hunting forest आखेट-वन, आखेटाटवी** *f.* (ancient word)  
 **hunting ground आखेट-भूमि** (from कथासरित्सागर)  
@@ -5415,7 +5415,7 @@ hurt** *n.* **उपघात** *m.* (ancient word), **चोट**
 husband 1.पति** *m.* **2.***Law* **= ship's husband  
 husband and wife पति और पत्नी  
 husbandman कृषक** **, कृषिकर्मी** (-इन्) * m.*  
-**husbandry कृषिकर्म** *n.***, कृषि, हलभृति** *f.*****(ancient word)  
+**husbandry कृषिकर्म** *n.***, कृषि, हलभृति** *f.*(ancient word)  
 **hush 1.***n.*(quiet) **नीरव***m.* **2.***adj.* **नीरव, शान्त, निःशब्द 3.***vb.* **नीरवण, शमन  
 hushed sound** *Phys.* **नीरव ध्वनि  
 hush money** (money paid to secure silence) **तूष्णीं-राशि, मुंहभराई  
@@ -5457,7 +5457,7 @@ Huygens' principle तरंगिकावेष्ट-वाद** (the wave fr
 
 **किवे**
 
-****(*h*is Planck's constant, *v* is the frequency of vibration आक्षेप)  
+(*h*is Planck's constant, *v* is the frequency of vibration आक्षेप)  
 **hy-, hya** *Zool.* (hyoid) **द्वित-  
 hyacinth 1.***Mineral* (agem) **राहुरत्न** *n.***2.***Bot.* **नीलारुणा** *f.***3.**(a colour, bluishblue-red
 
@@ -5724,7 +5724,7 @@ hydrocaulus** *Zool..* (the stem of a hydroid जलीयकाभ) **जली
 **hydrocele** *Med.* (a collection of fluid in the tunica vaginalis परिवृषण) **जलपरिवृषण, जलमुष्क** *m.*  
 **hydro-cellulose** *Chem.* **उद-कोशाधु  
 hydrocephalus** *Med.* **जलशीर्ष** *n.*  
-**hydrocerussite सीसांगीयिज** *m.*****(सीस lead, -अंगीय for प्रांगारीय carbonate, -इज for खनिज mineral)  
+**hydrocerussite सीसांगीयिज** *m.*(सीस lead, -अंगीय for प्रांगारीय carbonate, -इज for खनिज mineral)  
 **Hydrocharis** *Bot.* (*hydro-* 'water' + Gk. *charis*'graceful': in allusion to the beauty of the floating
 
 flowers) **जलश्री-प्रजाति**
@@ -5771,7 +5771,7 @@ Hydrocotyle asiatica** (Indian pennywort, thick-leaved pennywort) **सामा
 **Hydrocotyle javanica** (it has white flowers) **सितपुष्प-ब्राह्मी  
 Hydrocotyle polycephala = Hydrocotyle javanica  
 hydro-coumaric, hydro-cumaric** *adj. Chem.* **उदानन्तमूलिक  
-Hydroctena** *Zool.*****(bell-like) **जलघण्टा-प्रजाति  
+Hydroctena** *Zool.*(bell-like) **जलघण्टा-प्रजाति  
 Hydroctena salenskii सामान्य-जलघण्टा  
 hydro-cumaric =hydro-coumaric  
 hydro-cupreine** *Chem.* **उद-ताम्रवल्की  
@@ -5842,7 +5842,7 @@ hydrogenation** *Chem.* **उदजनन** *n.*
 **hydrogenator** *Chem.* (one who or that which hydrogenates) **उदजनक** *m.*  
 **hydrogenic** *adj. Phys.* (similar to hydrogen) **उदजनिक, उदजन-सदृश  
 hydrogenic atom** *Chem.* **उदजनिक-परमाणु  
-hydrogenide** (hydride) *Chem.* **उदजनेय** *n.*****(उदेय)  
+hydrogenide** (hydride) *Chem.* **उदजनेय** *n.*(उदेय)  
 **hydrogen ion = hydrion  
 hydrogenite** *Chem.* **उदजनक** *m.* (short for उदजन-जनक; amixture of Si, NaOH and slaked lime,
 
@@ -5918,7 +5918,7 @@ hydron wool olive उदा ऊर्णातैलबदर
 hydron wool red उदा ऊर्णारक्त  
 hydron wool yellow उदाऊर्णापीत  
 hydron yellow उदा पीत  
-hydrone** *Physical Chem.*****उदा** *f.*  
+hydrone** *Physical Chem.*उदा** *f.*  
 **hydro-nitric** *adj. Chem.* **उद-भूयिक  
 hydropathy जल-चिकित्सा** *f.*  
 **hydroperoxide** *Chem.* **उदातिजारेय** *n.*  
@@ -6105,7 +6105,7 @@ hyenic acid** *Chem.* (found in hyena तरक्षु fat) **तरक्ष�
 hyetograph वर्षालिख** *m.*  
 **hyflosupercel = diatomite = infusorial earth** (Goods Tariff, General Rules, no. 26,
 
-Indian Railway Conference Association, 1944, p.481)****
+Indian Railway Conference Association, 1944, p.481)
 
 **युक्ताप्यमृद्***f.* (युक्ताप्यdiatom)
 
@@ -6153,7 +6153,7 @@ hygroscopic water उन्दचूषजल
 Hyla** *Zool.* (contains the typical tree frogs or tree toads) **वृक्षभेक-प्रजाति  
 Hylidae** *Zool***. वृक्षभेक-वंश** *m.*  
 **Hylobates** *Zool.* **शाखामृग-प्रजाति  
-Hylobatidae** (family) **शाखामृग-वंश** *m.*****(move from branch to branch शाखा in dense forest.
+Hylobatidae** (family) **शाखामृग-वंश** *m.*(move from branch to branch शाखा in dense forest.
 
 शाखामृग is an ancient word occurring as early as the महाभारत)
 
@@ -6231,7 +6231,7 @@ hyoid sclerite** *Zool.* **द्वित-दृढक
 hyomandibula** *Zool.* **द्विताधरहनु** *f.*  
 **hyomandibular** *adj. Anat., Zool.* **1.**(pertaining to the hyoid arch and mandible) **द्विताधरहानव्य**
 
-****
+
 
 **2.**(pertaining to the dorsal segment of the hyoid arch in fishes) **द्वितोत्तरखण्डीय**
 
@@ -7033,7 +7033,7 @@ hypophosphorous** *adj. Chem.* **उपभास्व्य
 hypophysectomized** *adj.* **छिन्नपोषकाय**(पोषकाय 'pituitary body')  
 **hypophysectomized animal छिन्नपोषकाय प्राणी  
 hypophysial gland** *Zool.* **पोषकाय-ग्रन्थि  
-hypophysis 1.***Anat.**=*****hypophysis cerebri = pituitary body पोषकाय** *m.* **2.***Bot.* **अधोवर्ध** *m.*  
+hypophysis 1.***Anat.**=*hypophysis cerebri = pituitary body पोषकाय** *m.* **2.***Bot.* **अधोवर्ध** *m.*  
 **hypophysis cell** *Bot.* **पोषकाय-कोशा  
 hypophysis cerebri = pituitary body***Anat.* **पोषकाय** *m.*  
 **Hypopicus** *Aves* **विचूड-प्रजाति** (the birds in this genus are without crest विचूड)  
@@ -7178,7 +7178,7 @@ hysterotomy गर्भाशय-छेदन** *n.*
 on the body) **रोमातिहर्ष** *m.*
 
 **Hystricidae** (family) **भूशल्यक-वंश** *m.* (they are terrestrial. *Cf.* Erethizontidae तरुशल्यक-वंश)  
-**Hystricinae** *Zool.* **शल्यकि-अनुवंश***m.*****(अनुवंश subfamily)  
+**Hystricinae** *Zool.* **शल्यकि-अनुवंश***m.*(अनुवंश subfamily)  
 **hystricism = hystriciasis  
 hystricismus = hystriciasis  
 Hystricomorpha** *Zool.* **शल्यकरूपाः***m.pl.*  

@@ -171,7 +171,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2OTI5MTA2
 
 
 
- **प्रपाठक**** ५**
+ **प्रपाठक ५**
 
 प्रवर्ग्यब्राह्मण
 

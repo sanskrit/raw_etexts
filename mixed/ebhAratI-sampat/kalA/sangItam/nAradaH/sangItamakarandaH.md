@@ -100,7 +100,7 @@ HIS HIGHNESS THE MAHARAJA GAEKWAD OF BARODA.**
 
 developed into the more refined Music practised at the time of Bharata who is known as the founder of the present system of Music, although subsequent professors of the art may have further developed it and established different schools of Music by introducing innovations by their talents.
 
-** Bharata's** *Natya Sastra****—***Bharata's *Natya Sastra* is the most ancient of the books on Music handed down to posterity. Some scholars assign it to the first century after Christ, others to the fourth century It is well known that it is difficult to decide precisely the dates of ancient authors. Although as already hunted above many writers on Music came after Bharata, we have no means of giving any historical account of their lives and works.
+** Bharata's** *Natya Sastra—***Bharata's *Natya Sastra* is the most ancient of the books on Music handed down to posterity. Some scholars assign it to the first century after Christ, others to the fourth century It is well known that it is difficult to decide precisely the dates of ancient authors. Although as already hunted above many writers on Music came after Bharata, we have no means of giving any historical account of their lives and works.
 
  **S'ârngadeva's** *Sangita Ratnakara—*the next author, whose work is available in print, is Sârngadeva, the author of *Sangita Ratnakara,* who lived in the reign of King Singhana of Devagırı Modern Doulatâbâd (A D 1210-1247) Among the authors of books on Music, besides the names of deities such as Sadasiva &c, S'arngadeva mentions the following names—
 
@@ -544,7 +544,7 @@ above principle. In that system the Ragas are divided according to the different
 **अथ पड्जग्रामस्वराः।  
 स रि ग म प ध नि।**
 
-**षड्जे ****तूत्तरमन्द्रादौ रञ्जनी[^33] चोत्तरायता।  
+**षड्जे तूत्तरमन्द्रादौ रञ्जनी[^33] चोत्तरायता।  
 शुद्धषड्जा मत्सरीकृदश्र्यक्रान्ताभिरुद्गता॥५७॥  
 ताः शुद्धमध्यमार्गेण सप्त पारं च हृष्यकाः (?)।**  
 **मध्यस्थानस्थषड्जेन मूर्च्छनारभ्यते क्रमात्॥ ५८॥  

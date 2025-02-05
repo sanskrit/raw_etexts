@@ -70,7 +70,7 @@ FOREWORD
 
 
 
-THE ***Gautama-dharma-sūtra*** has already been published in various editions, and in one of them, which appeared in the Mysore Sanskrit series, there is a ***Paris******'******ista*** portion, in one ***Pras******'******na*** **The*****Paris******'******ista*** contains one more chapter, and this portion is now, for the first time, made available to scholars. This is the second ***Pras'na*** of the ***Paris'ista***, the first has already appeared in the Mysore Sankrit Series. This portion contains twenty Chapters with an ***Anukramanikā***at the end. This ***Anukramanıkā*** gives the *Pratīkas* of the various Chapters in the reverse order, thus the first passage in the ***Anukramanikā*** is the*Pratīka*for the twentieth chapter, the next is for the nineteenth chapter, and so on. This portion now published is a***Paris******'******ista*** in the text, it is also a ***Paris******'******ista*** or supplement to the editions of the ***Gautama-dharma-sūtra*** and not a complete edition of a text.
+THE ***Gautama-dharma-sūtra*** has already been published in various editions, and in one of them, which appeared in the Mysore Sanskrit series, there is a ***Paris**'**ista*** portion, in one ***Pras**'**na*** **The*Paris**'**ista*** contains one more chapter, and this portion is now, for the first time, made available to scholars. This is the second ***Pras'na*** of the ***Paris'ista***, the first has already appeared in the Mysore Sankrit Series. This portion contains twenty Chapters with an ***Anukramanikā***at the end. This ***Anukramanıkā*** gives the *Pratīkas* of the various Chapters in the reverse order, thus the first passage in the ***Anukramanikā*** is the*Pratīka*for the twentieth chapter, the next is for the nineteenth chapter, and so on. This portion now published is a***Paris**'**ista*** in the text, it is also a ***Paris**'**ista*** or supplement to the editions of the ***Gautama-dharma-sūtra*** and not a complete edition of a text.
 
 One may wonder why these old texts are being published, what purpose it serves to man in his life. If the difference had been merely that what was available only in manuscript Is now made available in a printed edition and that in this way the text is also preserved from injuries to which a manuscript is exposed, perhaps it is not worth-while to undertake such an edition. The real justification lies in the value of the content of the text to man in his life Much is being heard about India's contribution to the world. But little is heard about the real nature of such a possible contribution The emphasis on the spiritual greatness of the wisdom of ancient India makes more a promise of escape from this world than a solution for the problems in this life.
 
@@ -108,7 +108,7 @@ The foundations of moral order in human society have been dealt with in the *Dha
 
 
 
-It is man's reason that investigates this law, and reason is satisfied by the validity of this law. It is not anti-rational, it may be super-rational. Reason can comprehend what is super-rational, though reason cannot delimit what is super-rational. This is the great value of the *Dharmas****ā****stras.* The different applications of the law may not have much of a practical value except as a guide for understanding the nature of the application of a law. But they have as much value to one who wishes to formulate moral law in a society under modern conditions as a textbook on medicine has to a medical practitioner to understand a certain case that he has to treat. He will not find an answer to his difficulties in the text, but he can find a guide for such difficulties in it. Similarly, in the specific laws, which had a validity at one time, one finds a guide in the mode of formulating laws to suit modern conditions. This is the true value of such a publication. It has a definite purpose in man's life in modern life. It is far more than an antiquarian curiosity for an academic man.
+It is man's reason that investigates this law, and reason is satisfied by the validity of this law. It is not anti-rational, it may be super-rational. Reason can comprehend what is super-rational, though reason cannot delimit what is super-rational. This is the great value of the *Dharmasāstras.* The different applications of the law may not have much of a practical value except as a guide for understanding the nature of the application of a law. But they have as much value to one who wishes to formulate moral law in a society under modern conditions as a textbook on medicine has to a medical practitioner to understand a certain case that he has to treat. He will not find an answer to his difficulties in the text, but he can find a guide for such difficulties in it. Similarly, in the specific laws, which had a validity at one time, one finds a guide in the mode of formulating laws to suit modern conditions. This is the true value of such a publication. It has a definite purpose in man's life in modern life. It is far more than an antiquarian curiosity for an academic man.
 
 
 
@@ -5889,7 +5889,7 @@ etc*— *विष्णुः ,३६,७–८.*
 
 *महतोऽप्येनसो मोहात्त्वचेवाहिर्विमुच्यते ॥ मनु., २, ७९.*
 
-*सावित्री वा सहस्रकृत्व आवर्तयेत्पुनीते हैवात्मानम् ॥ **गौतमः******,* *१४,* *१३.*****
+*सावित्री वा सहस्रकृत्व आवर्तयेत्पुनीते हैवात्मानम् ॥ **गौतमः**,* *१४,* *१३.*
 
 
 
@@ -5926,7 +5926,7 @@ XVII, 3, p. 79*
 
 *शुक्रियारण्यकजपो गायत्र्याश्च विशेषतः ।*
 
-*सर्वपापहरा ह्येते रुदैकादशिनी तथा ॥ **याज्ञवल्क्य.******,* *३,* *३०८.***
+*सर्वपापहरा ह्येते रुदैकादशिनी तथा ॥ **याज्ञवल्क्य.**,* *३,* *३०८.***
 
 * शुक्रियं नाम आरण्यकविशेषः' विश्वातिदेव सवितः* *'* *इत्यादि वाजसनेयके पठ्यते। आरण्यक च यजु‘ऋचं वाच प्रपद्ये मनो यजु प्रपद्ये ’इत्यादि तत्रैव पठ्यते तयोर्जप सकलमहापातकादिहरः। तथा गायत्र्याश्च महापातकेषु लक्षमतिपातकोपपातकयोर्दशसहस्रमुपपातकेषु सहस्र प्रकीर्णकेषु शतमित्येवं जप सर्वपापहरः ॥ याज्ञ. मिता.,* *३,३०८.*
 
@@ -5942,7 +5942,7 @@ XVII, 3, p. 79*
 
 *सुवर्णस्तेयकृद्विप्रो ब्रह्महा गुरुतल्पग ।*
 
-*सुरापश्च विशुध्यन्ति लक्षजप्यान्न संशयः ॥ **शङ्खः******,* *१२,* *१५-१७.***
+*सुरापश्च विशुध्यन्ति लक्षजप्यान्न संशयः ॥ **शङ्खः**,* *१२,* *१५-१७.***
 
 ***Also see* *याज्ञ. मिता.,* *३,३०८.***
 
@@ -6013,7 +6013,7 @@ XVII, 3, p. 79*
 
 *सुरापो यदि वा चोरो भ्रूणहा गुरुतल्पग ।*
 
-*मुच्यते सर्वपापैस्तु रुद्रास्तु सतत जपन् ॥ **अगिराः******,* *अपरार्कः,* *पृ १२१९* ****
+*मुच्यते सर्वपापैस्तु रुद्रास्तु सतत जपन् ॥ **अगिराः**,* *अपरार्कः,* *पृ १२१९* 
 
 *⁵ Compare sūtras 14 to 17 with the following*
 
@@ -6027,9 +6027,9 @@ XVII, 3, p. 79*
 
 *⁶cf,ये पाकयज्ञाश्चत्वारो विधियज्ञसमन्विताः ।*
 
-*सर्वे ते जपयज्ञस्य कला नार्हन्ति षोडशीम ॥ **मनु******,* *२,* *८६* *,* *विष्णु* *,* *५५,***
+*सर्वे ते जपयज्ञस्य कला नार्हन्ति षोडशीम ॥ **मनु**,* *२,* *८६* *,* *विष्णु* *,* *५५,***
 
-***२०,* *वसिष्ठः,* *२६,* *११.*****
+***२०,* *वसिष्ठः,* *२६,* *११.*
 
 
 
@@ -6089,7 +6089,7 @@ XVII, 3, p. 79*
 
 *यज्ञास्तपासि दानानि तीर्थानि विविधानि च ।*
 
-*एतानि रुद्रजापस्य कलां नार्हन्ति षोडशीम् ॥ **व्यास.******,* *स्मृ. मु.,* *पृ. ३४९,*****
+*एतानि रुद्रजापस्य कलां नार्हन्ति षोडशीम् ॥ **व्यास.**,* *स्मृ. मु.,* *पृ. ३४९,*
 
 
 

@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3MzMyODg0
             
       
 
-****
+
 
 **पातञ्जलयोगसूत्रम्।**  
 
@@ -1064,7 +1064,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3MzMyODg0
 **          विचार्य बहुतन्त्राणि योगसूत्रेषु या कृता ।  
           वृत्तिस्तया प्रीयतां मे भगवान्स फणीश्वरः॥**
 
-****
+
 
 
 

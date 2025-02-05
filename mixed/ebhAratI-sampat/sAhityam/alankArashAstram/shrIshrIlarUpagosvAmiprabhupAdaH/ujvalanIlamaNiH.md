@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDA5NjkyNDM3
 
 
 
-**      *****नायकभेदप्रकरणम्***
+**      *नायकभेदप्रकरणम्***
 
 
 

@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQwMjUwNjQ2
 
 
 
-****
+
 
 ** तर्कशास्त्रम् ।**
 

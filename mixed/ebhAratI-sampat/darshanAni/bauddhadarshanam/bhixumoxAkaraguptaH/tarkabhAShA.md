@@ -28,7 +28,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE2OTA4OTQ2
 
 
 
-**** **तर्कभाषा**
+ **तर्कभाषा**
 
 
 

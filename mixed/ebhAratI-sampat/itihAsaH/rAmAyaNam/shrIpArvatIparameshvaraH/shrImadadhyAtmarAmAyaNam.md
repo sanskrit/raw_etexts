@@ -7545,7 +7545,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjIwODk1NjM1
 
 
 
-****
+
 
 ** ॥ अथ अध्यात्मरामायणे सुन्दरकाण्डम् ॥**
 

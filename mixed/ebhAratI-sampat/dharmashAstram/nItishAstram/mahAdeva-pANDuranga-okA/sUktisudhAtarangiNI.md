@@ -107,7 +107,7 @@ here, we are enlightened, roused, uplifted, ennobled. They illuminate the unders
 
 
 be a finer piece of work, but it is not the same piece of work." Most of Mr Oka's translations are reincarnations and some of them are finer pieces of work than their originals. His only defect as a translator is that sometimes he adds to the original and alters it. On occasions this is due to exigencies of metre, but it is sound policy to keep one's hands off the passage quoted.  
- To give a few illustrations:The quotation from Vergil****(No. 4)– “Don't celebrate your triumph before you have conquered—" expresses the common idea, "Don't haloo till you are out of the wood." Mr. Oka not only renders it aptly—**अजित्वा नैव कुर्वीत कदापि जयघोषणाम्** - but clothes it in an old— world atmosphere. For the word **जयघोषणाम्**recalls the well— known line in **'उत्तररामचरितम्' 'अयमश्वः पताकेयमथवा वीरघोषणा'** Such words and phrases as the घोषणाmentioned above are steeped in time-honoured associations and suggestions. They spring unbidden to Mr. Oka's lips and lend him potent help in naturalizing foreign thoughts in Sanskrit translation. example occurs in his translation of a German proverb (No 72) 'A penny by right is better than a thousand by wrong.' This is rendered by
+ To give a few illustrations:The quotation from Vergil(No. 4)– “Don't celebrate your triumph before you have conquered—" expresses the common idea, "Don't haloo till you are out of the wood." Mr. Oka not only renders it aptly—**अजित्वा नैव कुर्वीत कदापि जयघोषणाम्** - but clothes it in an old— world atmosphere. For the word **जयघोषणाम्**recalls the well— known line in **'उत्तररामचरितम्' 'अयमश्वः पताकेयमथवा वीरघोषणा'** Such words and phrases as the घोषणाmentioned above are steeped in time-honoured associations and suggestions. They spring unbidden to Mr. Oka's lips and lend him potent help in naturalizing foreign thoughts in Sanskrit translation. example occurs in his translation of a German proverb (No 72) 'A penny by right is better than a thousand by wrong.' This is rendered by
 
 **'एकःकाणवराटोऽपि धर्मेणाधिगतो वरम्।**  
 **न त्वधर्मेण संप्राप्ताः सहस्रमपि रूपकाः॥'**
@@ -468,7 +468,7 @@ HRACTITUS—
 **अये लक्ष्मि किं देवतालक्ष्म तत्ते  
 भृशं चञ्चला निर्विवेका च यत्त्वम्।  
 वृथा गेहिनी कल्प्यसे मन्दधीभि-  
-र्दिवि श्रीमतो धाम्नि विष्णोर्वसन्ती****॥**
+र्दिवि श्रीमतो धाम्नि विष्णोर्वसन्ती॥**
 
 — 28 —
 

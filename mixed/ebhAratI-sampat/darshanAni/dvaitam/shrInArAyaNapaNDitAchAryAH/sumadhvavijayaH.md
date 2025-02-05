@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3Nzc0ODgw
 
  **॥ श्रीः॥**
 
-**** **सुमध्वविजयः**
+ **सुमध्वविजयः**
 
 
 
@@ -3754,7 +3754,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3Nzc0ODgw
 
 
 
-**** **एकादशः सर्गः**
+ **एकादशः सर्गः**
 
 
 
@@ -6459,7 +6459,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3Nzc0ODgw
 
 
 
-**** **षोडशः सर्गः**
+ **षोडशः सर्गः**
 
 
 
@@ -7051,7 +7051,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3Nzc0ODgw
 
 
 
-**** **भारतीरमणमुख्यप्राणान्तर्गत श्रीकृष्णार्पणमस्तु**
+ **भारतीरमणमुख्यप्राणान्तर्गत श्रीकृष्णार्पणमस्तु**
 
 
 
@@ -7542,9 +7542,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3Nzc0ODgw
 
  | सुमध्वविजयप्रमेयफलमालिका|
 
-****
 
-**** **भारतीरमणमुख्यप्राणान्तर्गत श्री कृष्णार्पणमस्तु**
+
+ **भारतीरमणमुख्यप्राणान्तर्गत श्री कृष्णार्पणमस्तु**
 
 
 

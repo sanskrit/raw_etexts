@@ -6731,7 +6731,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjUxMTUwODUx
 
 
 
-****तृतीयाध्याये प्रथमः पादः ॥
+तृतीयाध्याये प्रथमः पादः ॥
 
 
 

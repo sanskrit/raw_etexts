@@ -897,7 +897,7 @@ bharaṇa but without mentioning the name of the author. As a specimen of litera
 
 ating priest are procured. **शिष्ट** has been defined by earlier Naiyāyikas as **वेदप्रामाण्याभ्युपगन्तृ** one who recognizes the infallibility of Vedas. By modern Naiyāyikas **शिष्ट** has been defined as **इष्टसाधनतांशे भ्रान्तिरहितः** one who rightly perceives the means of procuring the desired end. **वियन्मध्यहंसः** refers to the Sun and is used for the sake of alliteration with Rājahaṃsa. **बभूव** Perfect 3rd person singular of **भू** to be. Conjugate **बभूव बभूवतुः बभूवुः ; बभूविथ बभूवथुः बभूव ; बभूव बभूविव बभूविम.**
 
-**** The word **चेतना** in **भस्मीकृतचेतने** must be taken in the sense of body, as the literal meaning viz. consciousness is not suited to the context. **रोषणेक्षणेन** etc. When the body of Cupid was reduced to ashes by the fire of Śiva's eye, all his accompaniments took their refuge in the body of the queen, because she, being a woman, would not be the object of Śiva's wrath. Bees are generally believed to be the bowstring of Cupid, the Moon his assistant, the fish the emblem on his flagstaff, the gentle Zephyr his warrior and so on. **समभूवन्** Aorist 3rd person plural of**भू** with **सं.**
+ The word **चेतना** in **भस्मीकृतचेतने** must be taken in the sense of body, as the literal meaning viz. consciousness is not suited to the context. **रोषणेक्षणेन** etc. When the body of Cupid was reduced to ashes by the fire of Śiva's eye, all his accompaniments took their refuge in the body of the queen, because she, being a woman, would not be the object of Śiva's wrath. Bees are generally believed to be the bowstring of Cupid, the Moon his assistant, the fish the emblem on his flagstaff, the gentle Zephyr his warrior and so on. **समभूवन्** Aorist 3rd person plural of**भू** with **सं.**
 
 ** मगधानां राजा मगधराजः, तेन मगधराजेन. राजन्** at the end of a Tatpurusha compound loses its final **न्. ** Vide Pānini's sūtra **राजाहःसखिभ्यष्टच्. अन्वभावि** Passive Aorist 3rd person singular of**भू** with **अनु** to enjoy.
 
@@ -943,7 +943,7 @@ these vowels do not combine with another following them. Vide Pāṇini's sūtra
 
  **अभिप्रतस्थे.** The verb **स्था** which is generally Parasmaipada takes the Ātmanepada terminations when the prepositions **सम्, अव्, प्र** and **वि** are added. Vide Pāṇini's sūtra — **समवप्रविभ्यः स्थः.**
 
- **वने भवः वन्यः.****काव्य**refers to poems like Raghuvaṁśa, Kirātārjunīya etc., नाटक to dramas like Śākun-tala etc., **आख्यानक** to Chūrṇaka or melodious prose descriptions, **आख्यायिका** to prose narrations like Kādambarī and Vāsavadattā, **इतिहास** to epic poems, **चित्रकथा** to chronicles like Brihatkathā, and **पुराण** to Brahmapurāṇa, Agnipurāṇa and others.
+ **वने भवः वन्यः.काव्य**refers to poems like Raghuvaṁśa, Kirātārjunīya etc., नाटक to dramas like Śākun-tala etc., **आख्यानक** to Chūrṇaka or melodious prose descriptions, **आख्यायिका** to prose narrations like Kādambarī and Vāsavadattā, **इतिहास** to epic poems, **चित्रकथा** to chronicles like Brihatkathā, and **पुराण** to Brahmapurāṇa, Agnipurāṇa and others.
 
 \_\_\_\_\_\_\_\_\_
 

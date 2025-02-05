@@ -250,7 +250,7 @@ C. M. PADMANABHACHAR.
 तद्भक्त्या संप्रसन्नः स्फुरितनवरसैर्भारतीशार्चितो नः॥**
 
 *                                   
-                               **** 
+                                
 *
 
 **DHRUVA'S PENANCE.**
@@ -2337,7 +2337,7 @@ poor luck, represents to me the valued reward of good deeds done in by-gone janm
        अंब किं ते बाष्बाकुले नयने।
 
 ** सुनीतिः—** वत्स, तव पितुस्स्मरणमजनयदीषद्वाष्पोद्गमं।  
-** बालः—** ****अपि तातः क्रूरः ? किं त्वां भर्त्सयति यत्स्मरणं जनयतिते बाष्पं।
+** बालः—** अपि तातः क्रूरः ? किं त्वां भर्त्सयति यत्स्मरणं जनयतिते बाष्पं।
 
 ------------------------------------------------------------------------------------
 
@@ -2360,7 +2360,7 @@ Mamma, why are your eyes suffused with tears?
 मृदुलहसनवाणीशीतलं गन्धनीरं  
 मतिविभवगुणा वै रोमहर्षंसृजंति॥**
 
-** बालः****—** ****गन्तुमिच्छामि तं द्रष्टुं।   
+** बालः—** गन्तुमिच्छामि तं द्रष्टुं।   
 ** सुनीतिः—** उचिते काले स्यात्।  
 ** मन्थरा—** काक्षस्स्याद्बालस्य। गृहान्तरं नीत्वा दृष्टिदोषपरिहारकं करोतु देवी। गच्छामि सुरुच्यवरोधं॥
 
@@ -2795,7 +2795,7 @@ Enter Narada.
 माता मे गद्गदाश्रुभ्या  
 मनुजज्ञौ वनाटनं॥**
 
-** ****नारदः** —
+** नारदः** —
 
 **श्रांतोऽसि बाल भुंक्ष्वेदं  
 कन्दमूलं क्षुधार्तिहं।  
@@ -2876,7 +2876,7 @@ his regard. On both his thighs I will seat you with firmness and hence do return
 
 **Boy~~ ~~**. The time is past, when my wish was fixed on a low object. I prostrate before you. O, Sea of kindly grace, save me by instruction in divine truths.
 
-(Falls at the feet).****
+(Falls at the feet).
 
 **Narada.**— Boy, get up ; I will initiate you.
 
@@ -3622,7 +3622,7 @@ Exit Physician.
 
 **Suneeti.—**Does my royal lord remember me?
 
-**King**~~****~~Lovely woman, one shaft imbedded in my heart has now been extracted; forgive completely what was done atthe instigation of wicked tales. Let every trace of offence due to my heartless action vanish from your mind; O best beloved woman, Do not forsake me an invalid.
+**King**~~~~Lovely woman, one shaft imbedded in my heart has now been extracted; forgive completely what was done atthe instigation of wicked tales. Let every trace of offence due to my heartless action vanish from your mind; O best beloved woman, Do not forsake me an invalid.
 
 **Suneeti.—**Lord, being prompted by the will of Hari, my royal husband did it all. By nature kind to humanity, he certainly would not otherwisehave been unkind. This is my constant prayer to Srinivasa that my mind should always feelsatisfied in my lord.
 
@@ -4638,17 +4638,17 @@ O joy, rare indeed is the sight of juvenile ascetics like these, shining like in
 
 
 
-** सुमतिः****—** (जनांतिकं) रे वनचर। कोऽयं तुलसीसंग्रहको बालः तस्य वपुषि नेत्रयोः गतौ वचने चास्ति विशेषः॥
+** सुमतिः—** (जनांतिकं) रे वनचर। कोऽयं तुलसीसंग्रहको बालः तस्य वपुषि नेत्रयोः गतौ वचने चास्ति विशेषः॥
 
-** वनचरः****—**न जानामि॥ बहुदूरतो दर्शनेन तपोधूमस्याधस्तादयमासीदिति विहलं प्रतिजानामि॥
+** वनचरः—**न जानामि॥ बहुदूरतो दर्शनेन तपोधूमस्याधस्तादयमासीदिति विहलं प्रतिजानामि॥
 
-** मीनांकः****—**(कृष्णदासं प्रति) सखे किमर्थं त्वरासमापिततपसस्ते॥
+** मीनांकः—**(कृष्णदासं प्रति) सखे किमर्थं त्वरासमापिततपसस्ते॥
 
-** वनचरः****—** (जनांतिकं)।शृणोतु भद्रमुखः॥
+** वनचरः—** (जनांतिकं)।शृणोतु भद्रमुखः॥
 
-** कृष्णदासः****—**समाप्तत्वे कथं स्याद्भूसंचारः॥
+** कृष्णदासः—**समाप्तत्वे कथं स्याद्भूसंचारः॥
 
-** सौम्यः****—**तप इत्यनेन स्मर्यते बहुदृढचित्तोऽयं वयस्यः येन निराहारतया विना पानीयं तप्तं चिरंतनं घोरतपः
+** सौम्यः—**तप इत्यनेन स्मर्यते बहुदृढचित्तोऽयं वयस्यः येन निराहारतया विना पानीयं तप्तं चिरंतनं घोरतपः
 
 --------------------------------------------------------------------------------------------------
 
@@ -4666,17 +4666,17 @@ O joy, rare indeed is the sight of juvenile ascetics like these, shining like in
 
 
 
-** वनचरः****—** (जनांतिकं ) प्रभो अयमेव तापसो भाति॥
+** वनचरः—** (जनांतिकं ) प्रभो अयमेव तापसो भाति॥
 
-** सुमतिः****—** नूनमिदमाशाजननं॥
+** सुमतिः—** नूनमिदमाशाजननं॥
 
-** मीनांकः****—** अद्याप्ययं नाश्नाति॥
+** मीनांकः—** अद्याप्ययं नाश्नाति॥
 
-** सौम्यः****—** सखायमेव पृच्छावः॥
+** सौम्यः—** सखायमेव पृच्छावः॥
 
  सखे दिवारात्रमपि न किमपि भक्षयसीति श्रूयते। कथमभूदेवं रसनेछावैधुर्यं॥
 
-** कृष्णदासः****—**
+** कृष्णदासः—**
 
 **विषयरसनरक्तिदुर्जयादीर्घकालं**  
 **सततबहुरुजां मे संददौ निग्रहे सा।**  
@@ -4697,15 +4697,15 @@ O joy, rare indeed is the sight of juvenile ascetics like these, shining like in
 
 
 
-** मीनांकः****—**वयमद्याप्याम्रेडितपठनैः प्रमाणलक्षणवाक्यार्थाध्ययननिष्टाः शब्दजालमोहिताः पारोक्ष्येणापि भगवन्तं न स्मरामः। अयं तु साक्षात् दृष्ट्वा श्रीरमगमस्तुवि तत्पदांबुजं॥
+** मीनांकः—**वयमद्याप्याम्रेडितपठनैः प्रमाणलक्षणवाक्यार्थाध्ययननिष्टाः शब्दजालमोहिताः पारोक्ष्येणापि भगवन्तं न स्मरामः। अयं तु साक्षात् दृष्ट्वा श्रीरमगमस्तुवि तत्पदांबुजं॥
 
-** सौम्यः****—** जन्मान्तरेष्वनेनाभ्यस्तानि नाम शास्त्राणि॥
+** सौम्यः—** जन्मान्तरेष्वनेनाभ्यस्तानि नाम शास्त्राणि॥
 
-** मीनांक****—** (पुनः पुष्पसभ्वयं निरूप्य) सौम्य पश्यायं राजर्षिः मुहुर्मुहुरश्रुकणं पातयति। ईषदुत्कण्ठया तप्तः। किं स्यान्निमित्तं॥
+** मीनांक—** (पुनः पुष्पसभ्वयं निरूप्य) सौम्य पश्यायं राजर्षिः मुहुर्मुहुरश्रुकणं पातयति। ईषदुत्कण्ठया तप्तः। किं स्यान्निमित्तं॥
 
-** सुमतिः****—** (स्वगतं) राजर्षिरिति द्वितीयमाशाजननं।
+** सुमतिः—** (स्वगतं) राजर्षिरिति द्वितीयमाशाजननं।
 
-** सौम्यः****—**अस्य पिता चित्तभ्रान्त्या श्राम्यतीति वार्ता। अयमुदन्तस्स्यात्कारणं॥
+** सौम्यः—**अस्य पिता चित्तभ्रान्त्या श्राम्यतीति वार्ता। अयमुदन्तस्स्यात्कारणं॥
 
 --------------------------------------------------------------------------------------------------
 
@@ -4757,7 +4757,7 @@ ing from a deranged mind. This news may be the cause.
 
 (बालास्ससंभ्रममवलोकयन्ति)
 
-** कृष्णदासः****—** (जनान्तिकं) सौम्य, अयं मे मातुलस्सुमति-
+** कृष्णदासः—** (जनान्तिकं) सौम्य, अयं मे मातुलस्सुमति-
 
 --------------------------------------------------------------------------------------------------
 
@@ -4774,19 +4774,19 @@ joy; wiping aside my tears when the hands get steady, O Dhruva, I shall hug you,
 
 ॥ प्रकाशं॥ मातुल वन्दे॥
 
-** सुमतिः****—** चिरंजीवी भव। (इति समालिंगति)
+** सुमतिः—** चिरंजीवी भव। (इति समालिंगति)
 
-** सौम्यः****—** कृष्णदास, पुरतो गत्वातिथेयसत्कारं सन्नद्धं कुर्मः। समानय भद्रमुखं॥
+** सौम्यः—** कृष्णदास, पुरतो गत्वातिथेयसत्कारं सन्नद्धं कुर्मः। समानय भद्रमुखं॥
 
 ॥ इति निष्कांतौ सौम्यमीनांकौ॥
 
-** ध्रुवः****—**मातुल, अपि सर्वे सुखिनः नगरप्रदेशेषु॥
+** ध्रुवः—**मातुल, अपि सर्वे सुखिनः नगरप्रदेशेषु॥
 
-** सुमतिः****—** सर्वे कुशलाः विना त्वत्पितरौ॥
+** सुमतिः—** सर्वे कुशलाः विना त्वत्पितरौ॥
 
-** ध्रुवः****—**ननु जीवतस्तौ॥
+** ध्रुवः—**ननु जीवतस्तौ॥
 
-** सुमतिः****—**जीवतस्तौ, परंतु क्लेशांबुधिमग्नौ॥
+** सुमतिः—**जीवतस्तौ, परंतु क्लेशांबुधिमग्नौ॥
 
 --------------------------------------------------------------------------------------------------
 
@@ -4815,13 +4815,13 @@ Tulasi basket for a moment, while I render him obeisance: (aloud) uncle, I prost
 क्लेशानन्दौमेशाधीनौ  
 श्रीशस्सर्वं प्रेषयति॥२२२॥**
 
-** सुमतिः****—** यदि भवानायाति तदा धन्या भवेयुस्सर्वे॥
+** सुमतिः—** यदि भवानायाति तदा धन्या भवेयुस्सर्वे॥
 
-** ध्रुवः****—** उन्मादपीडितो मे तातः इति वदन्ति॥ किन्निमित्तमस्य॥
+** ध्रुवः—** उन्मादपीडितो मे तातः इति वदन्ति॥ किन्निमित्तमस्य॥
 
-** सुमतिः****—** तव वियोग एव कारणं॥
+** सुमतिः—** तव वियोग एव कारणं॥
 
-** ध्रुवः****—** मम वियोगः !! आश्चर्यमेतत्। अपि स्मरति मां तातः॥
+** ध्रुवः—** मम वियोगः !! आश्चर्यमेतत्। अपि स्मरति मां तातः॥
 
 ** सुमतिः** **—** न केवलं स्मरति। किंतु सदा ध्यायति त्वां॥
 
@@ -4874,16 +4874,16 @@ you incessantly, and keeps repeating your name. This fever of separation cannot 
 
 
 
-** सुमतिः****—**जनन्युदरस्नेहः इयानिति भवता नावगम्यते॥
+** सुमतिः—**जनन्युदरस्नेहः इयानिति भवता नावगम्यते॥
 
 **सदा शय्यागतो भूपो  
 विकरोति भवत्कृते।  
 क्षेमाय सा हि पत्युस्त्वां  
 स्वस्नेहादप्यपेक्षते॥२२४॥**
 
-** ध्रुवः****—** पतिशिश्रूषायां सा विस्मरेन्मां कालांतरे॥
+** ध्रुवः—** पतिशिश्रूषायां सा विस्मरेन्मां कालांतरे॥
 
-** सुमतिः****—**असंभावितं सर्वथा। यदि न प्रस्थितो भवानविलंबं तर्ह्ययास्यति सा नूनं। वने खलु प्रतिरात्रं संचरति॥
+** सुमतिः—**असंभावितं सर्वथा। यदि न प्रस्थितो भवानविलंबं तर्ह्ययास्यति सा नूनं। वने खलु प्रतिरात्रं संचरति॥
 
 **गायति सा तव चारु चरित्रं  
 ध्यायति सततं सारसवक्त्रं।**
@@ -5025,7 +5025,7 @@ justice, one has to guard the doorway ofpleaders for a full year. Then the judge
 
 **Bhanumati.—** I will examine it; hand it up *(So takes it with both hands, and rubs it on the touchstone)*. Brother, the gold appears to be slightly impure. Observe on your touchstone.
 
-**Prathoodara.****—** (*doing so*). It seems so in my opinion too.
+**Prathoodara.—** (*doing so*). It seems so in my opinion too.
 
 **Forester.—** At what value is this estimated?
 
@@ -5120,13 +5120,13 @@ diamond necklace for sale. This thief denies the entrustment.
 स्वसुतागमनोदन्तात्  
 तुष्टोराजा ददौ हारम्॥२२८॥**
 
-** भटः****—** असंभावितमिदं, परंतु भवंतस्त्रयोऽपि चोराः। गच्छामो रक्षाधिकारस्थानम्। तत्र तावत्सूचीपीडायां कृतायां तथ्यं आविर्भवति॥
+** भटः—** असंभावितमिदं, परंतु भवंतस्त्रयोऽपि चोराः। गच्छामो रक्षाधिकारस्थानम्। तत्र तावत्सूचीपीडायां कृतायां तथ्यं आविर्भवति॥
 
-** पृथूदरः****—** किं प्रभो मया कृतं। नाहमेतदापणस्थः॥
+** पृथूदरः—** किं प्रभो मया कृतं। नाहमेतदापणस्थः॥
 
-** भटः****—** अस्मिन्चौर्ये युवां सहायभूताविति मे निश्चयः। तस्मादागन्तव्यमेव भवद्भ्यां॥
+** भटः—** अस्मिन्चौर्ये युवां सहायभूताविति मे निश्चयः। तस्मादागन्तव्यमेव भवद्भ्यां॥
 
-** भानुमतिः****—** किं प्रयोजनं तत्र गमने॥ विभज्यतां हारः अस्मासु॥
+** भानुमतिः—** किं प्रयोजनं तत्र गमने॥ विभज्यतां हारः अस्मासु॥
 
 --------------------------------------------------------------------------------------------------
 
@@ -5143,12 +5143,12 @@ pleased at the tidings that his son was returning, the king presented the neckla
 
 
 ** भटः—**दीयतां मेऽर्धभागः॥   
-** भानुमतिः****—** स्यादेतत् (इति ददाति).   
-** वनेचरः****—** किमिदमन्याय्यं॥   
-** भटः****—** किमन्याय्यं राजस्वं राजभटेन गृह्यते॥   
-** वनेचरः****—** गत्वा निवेदयामि राजानं।   
-** भटः****—** गृहाणेदं रूप्यशतकं। यदीदमाविष्करोषि तव निगडबन्ध एव स्यात्। तथा हि पुटभेदनविधिः॥   
-** वनेचरः****—** किंचिदधिकं दीयतां॥   
+** भानुमतिः—** स्यादेतत् (इति ददाति).   
+** वनेचरः—** किमिदमन्याय्यं॥   
+** भटः—** किमन्याय्यं राजस्वं राजभटेन गृह्यते॥   
+** वनेचरः—** गत्वा निवेदयामि राजानं।   
+** भटः—** गृहाणेदं रूप्यशतकं। यदीदमाविष्करोषि तव निगडबन्ध एव स्यात्। तथा हि पुटभेदनविधिः॥   
+** वनेचरः—** किंचिदधिकं दीयतां॥   
 ** भटः—** अश्रुतदृष्टपूर्वः खलु ते शतरूप्यराशिः। नीयतां गोपनेन॥
 
 (निष्क्रान्ताः वैश्यवनेचराः)
@@ -5169,7 +5169,7 @@ pleased at the tidings that his son was returning, the king presented the neckla
 
 **Policeman.—** Take this 100 Rs. If you reveal this, imprisonment will be the consequence to you. Such is the law in cities.
 
-**Forester.******—****Let something more be paid.
+**Forester.**—Let something more be paid.
 
 **Policeman.—** Verily, a pile of hundred Rupees is what has never been heard of or seen by you. Let it be accepted quietly. *(Exent merchants and forester)*.
 
@@ -5201,7 +5201,7 @@ pleased at the tidings that his son was returning, the king presented the neckla
 
 *Palace. Enter King - Suruchi, Dhruva, Narada, Suneeti, and Sumati.*
 
-**Narada.****—** OKing, receive the jewel of an heir-apparent, who is a prominent Bhakta of Narayana, a favourite of fortune, and a boy of great spiritual merit. Become blessed by this.
+**Narada.—** OKing, receive the jewel of an heir-apparent, who is a prominent Bhakta of Narayana, a favourite of fortune, and a boy of great spiritual merit. Become blessed by this.
 
 
 
@@ -5309,7 +5309,7 @@ Mother, living with me and the King, quite easy in mind, there will be no occasi
 
 At first a residence in the forest, away from the husband and neglected by him,— then, the birth of this boy preceded by an eating of the seed, (then) his journey to the forest and return,— recollecting all this, and now, being face to face with Dhruva my son of beautiful form, I feel engulfed in an ocean of ecstasy,— my bosom filled with mother's milk pouring it out, because of maternal tenderness.
 
-**Narada.******—****Dhruva, come *(here).*
+**Narada.**—Dhruva, come *(here).*
 
 I will at once seat you on the lap of the King, as on that account, you grieved in the forest, suffering from humiliation.
 
@@ -5324,7 +5324,7 @@ I will at once seat you on the lap of the King, as on that account, you grieved 
 मंगलसंततधारा  
 वर्षं स्यात्ते भृशं मूर्ध्नि॥२३७॥**
 
-** राजा****—**
+** राजा—**
 
 **अद्धा त्वया कुटुंबः  
 नष्टाभो रक्षितस्सखे शोकात्।  
@@ -5340,11 +5340,11 @@ I will at once seat you on the lap of the King, as on that account, you grieved 
 
 --------------------------------------------------------------------------------------------------
 
-**Sumati.****—**Triumph! Triumph! Oworld-ruling monarch, with a blessed son and virtuous wives; may an uninterrupted shower of fortune fall on your head in plenty.
+**Sumati.—**Triumph! Triumph! Oworld-ruling monarch, with a blessed son and virtuous wives; may an uninterrupted shower of fortune fall on your head in plenty.
 
 **King.—** Verily, a family that had lost its lustre, has been saved from grief. O Sumati, you are pre-eminent among ministers. In fact, the service rendered by you is quite immeasurable.
 
-**Sumati.****—** The world congratulates you on your fortune, O King of wonderful merit. As for me, to serve you is my duty, a servant and brother-in-law as I am.
+**Sumati.—** The world congratulates you on your fortune, O King of wonderful merit. As for me, to serve you is my duty, a servant and brother-in-law as I am.
 
 
 
@@ -5370,7 +5370,7 @@ I will at once seat you on the lap of the King, as on that account, you grieved 
 
 **King.—** Let gold and gems be distributed to all good men, according to desert. Let all good men rejoice, for conducing to the well-being of the heir-apparent.
 
-**Sumati.****—**As your majesty commands.
+**Sumati.—**As your majesty commands.
 
 **Narada.—** May the Lord, whose feet are adored by the Lord of the Pranas,- who is worshipped by Lakshmi, who bestows salvation on the faithful, who is an ocean of grace, and who begot Bramha from his navel, confer blessings on all.
 

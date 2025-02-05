@@ -30,7 +30,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwODE3ODg0Mjc
 
 
 
-**पुनर्नवीकरणपाठ्यक्रमः**** **
+**पुनर्नवीकरणपाठ्यक्रमः **
 
 ** नागानन्दनाटके सूक्तिसंपत्तिः। **
 

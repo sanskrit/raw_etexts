@@ -48,7 +48,7 @@ G.A.D.** (General Administration Dapartment) **सा.प्र.वि.** (स�
 **G. Ad.** (government advocate) **शा.अधि.**(शासन-अधिवक्ता)  
 **gadfly गोमक्षी***f.* (ancient word; Mar.गोमाशी)  
 **Gadiformes** *Zool.* **स्नेहमीन-गण** *m.*  
-**gadolinite न्यूनलिज** *m.*****(न्यूनला gadolinium, -इज for खनिज mineral)  
+**gadolinite न्यूनलिज** *m.*(न्यूनला gadolinium, -इज for खनिज mineral)  
 **gadolinium** *Chem.* **न्यूनला** *f.*  
 **Gadus** *Zool.* (genus consisting of the typical codfishes) **स्नेहमीन-प्रजाति  
 Gadus morrhua** (cod) **सामान्य स्नेहमीन  
@@ -69,7 +69,7 @@ gahnite = zinc spinel** (pure zinc aluminate) **कुप्यस्फटी�
 
 aluminate, -इज for खनिज mineral)
 
-**Gaillardia** *Bot.*****(genus of American herbs with ornamental flowers— Willis) **शोभाकुसुम-प्रजाति  
+**Gaillardia** *Bot.*(genus of American herbs with ornamental flowers— Willis) **शोभाकुसुम-प्रजाति  
 Gaillard tower** *Chem.* (a tower into the top of which a very fine spray of the acid to be
 
 concentrated is introduced) **झीकर-प्रस्थाणु**
@@ -189,7 +189,7 @@ Galeus** *Zool.* **हांगर-प्रजाति** (हांगर anci
 **galipot, gallipot** (crude turpentine oleoresin) **सरलोद्यास** *m.*  
 **Galium** *Bot.* (a genus of herbs commonly called bed-straw) **शय्यातृणप्रजाति  
 Galium aparine** (it is rough-stemmed— Web. s.v. catchweed)**खर शय्यातृण**  
-**gall 1.**(bile) **पित्त***n.***2.**(gall bladder) **पित्ताशय***m.***3.***Veter.*****(wound) **व्रण** *m.,* **घाव 4.**(gallnut) **द्रुस्फोट***m.,*
+**gall 1.**(bile) **पित्त***n.***2.**(gall bladder) **पित्ताशय***m.***3.***Veter.*(wound) **व्रण** *m.,* **घाव 4.**(gallnut) **द्रुस्फोट***m.,*
 
 **मांजू 5.= galla = aleppo galls** *Pharm.***द्रुस्फोट***m.*
 
@@ -204,7 +204,7 @@ gallamine blue** *Col. Ind.*
 
 नील  
 gall and opium ointment = unguentum gallac cum opio द्रुस्फोट तथा अहिफेन अभ्यञ्जन  
-gallanil blue *Col. Ind.* **द्रुस्फोटनील नील****  
+gallanil blue *Col. Ind.* **द्रुस्फोटनील नील  
 **gallanilgreen द्रुस्फोटनील हरि  
 gallanil indigo द्रुस्फोटनील निनील  
 gallanil violet द्रुस्फोटनील नीललोहित  
@@ -216,7 +216,7 @@ gallantry शौर्य** *n.*
 **gallazine** *Col. Ind.* **द्रुस्फोटाजीवी  
 gallazol blue** *Col. Ind.* **द्रुस्फोटाजवनील  
 gall bladder = cholccyst** *Anat.***पित्ताशय** *m.*  
-**gallein** (*gallo-* + phthal*ein*)*****Chem.***द्रुस्फोटिन***m.*  
+**gallein** (*gallo-* + phthal*ein*)*Chem.***द्रुस्फोटिन***m.*  
 **Galleria** (genus containing the bee moth, whose larva feeds -अश on the wax of honeycombs
 
 मदन)
@@ -488,7 +488,7 @@ performance) **आशस्त-यथाभूत-चित्र**
 gaol bird = jail bird  
 gaol delivery = jail delivery  
 gaoler = jailer  
-gap 1.अन्तर, अन्तराल** *n.***अवकाश, विच्छद** *m.***2.***Bot.* **अव**काश**** *m.***3.***Forestry* **अवकाश** *m.,* **रिक्ति** *f.*  
+gap 1.अन्तर, अन्तराल** *n.***अवकाश, विच्छद** *m.***2.***Bot.* **अव**काश *m.***3.***Forestry* **अवकाश** *m.,* **रिक्ति** *f.*  
 **gap-cover** *Forestry* **अवकाश-रोपण, रिक्तिरोपण***n.*  
 **gap-cutting = gap felling** *Forestry*  
 **gape** *Zool.* **मुखव्यादान** *n.*  
@@ -504,9 +504,9 @@ garance** (common European madder)**प्रमञ्जिष्ठ***m.*
 **garbage आवर्जना** *f.*(Ben.), **उच्छेष***m.,* **अंतड़ियां आदि  
 garbenschiefer** *Petrog.* (with spots resembling caraway प्रजीरseeds— Tyrrell p. 272)
 
-**प्रजीरबिन्दुक***m.*****(*see*-schiefer)
+**प्रजीरबिन्दुक***m.*(*see*-schiefer)
 
-**garble** *Econ.* **विचयन** *n.*****(to pick out)  
+**garble** *Econ.* **विचयन** *n.*(to pick out)  
 **garbled coins विचित टंक  
 Garcinia** *Bot.* **रक्ताम्र-प्रजाति  
 Garcinia cornea** (style with yellow glands— Basu) **पीतग्रन्थि रक्ताम्र  
@@ -530,10 +530,10 @@ Garcinia xanthochymus पिच्छिलबीज रक्ताम्र** 
 park उपवन**
 
 **garden arabis = Arabis caucasica  
-garden balsam** (*Impatiens balsamina*)**कुलिनी** *f.*****(MW.)  
+garden balsam** (*Impatiens balsamina*)**कुलिनी** *f.*(MW.)  
 **garden bean उद्यान-शिम्बी  
 garden beet उद्यान-पालंक  
-garden cress**(*Lepidiumsativum*)**चन्द्रशूर** *m.*****(B.,N.,M.)  
+garden cress**(*Lepidiumsativum*)**चन्द्रशूर** *m.*(B.,N.,M.)  
 **garden crop उद्यान-सस्य  
 garden endive** (*Cichorium endivia*)**काशिनी***f.* (Tam.)  
 **gardener माली  
@@ -562,7 +562,7 @@ gardening instructor उद्यानकर्म-शिक्षक
 garden lettuce** (*Lactuca scariola*) **रसशाक***n.*  
 **garden lizard** *Zool.* **उद्यान-गोधिका  
 garden marigold** (*Calendula officinalis*) **रोन्दुक** *m.,* **गेंदा  
-garden mint** (*Mentha viridis*) **गिरिपर्णास** *m.*****(Bombay पहाड़ी पोदीना)  
+garden mint** (*Mentha viridis*) **गिरिपर्णास** *m.*(Bombay पहाड़ी पोदीना)  
 **garden-mould** (Germ. *Gartenerde*)(rich mellow earth, fit for a garden)**उद्यानमृद्** *f.*  
 **garden nasturtium** (any plant of the genus *Tropaeolum*) **विकुसुम्भ-लता** *f.*  
 **garden nightshade** (*Solanum nigrum*)**काकमाची** *f.*(B..N.,M.)  
@@ -1049,7 +1049,7 @@ Gemuendina sturtzi विस्तारी पृथि
 -gen -जन  
 gena** (cheek) *Zool.* **कपोल** *m.*  
 **-genase -जनेद** *m.*  
-**gendarme, gendarme blue** (a colour, green-blue हरिनील in hue of low अव saturation)****
+**gendarme, gendarme blue** (a colour, green-blue हरिनील in hue of low अव saturation)
 
 **अवहरिनील**
 
@@ -1462,7 +1462,7 @@ complete set of that parent's genes पित्रैकit is called the genome
 **genomorphine** (morphine oxide— Bannett) **जारेयप्रमीली  
 genoneme = axoneme पित्र्याक्ष** *m.* (short for पित्र्यसूत्राक्ष)  
 **genotype** *Biol.* **समपित्रैक***n.*  
-**-genous 1.-जन 2.**(caused by)**-कृत****3.**(*-gen + -ous*) **-जनक  
+**-genous 1.-जन 2.**(caused by)**-कृत3.**(*-gen + -ous*) **-जनक  
 gens गोत्र** *n.* (*see* ancestry)  
 **genthite = nickel gymnite रूपक-भ्रासिज***m.* (रूपक nickel, भ्रासिजgymnite)  
 **gentian 1.**(any plant of the genus *Gentiana*) **किरात***m.***2.***Pharm.* **=gentiana =gentianae**
@@ -1476,7 +1476,7 @@ Gentiana kurrooa सामान्य किरात** (MW. किरात, N
 **Gentianaolivieri = Gentiana dahurica  
 Gentiana tenella तिक्त किरात** (Pan. तीता)  
 **gentiana blue 6B = opal blue  
-Gentianaceae** *Bot.* **किरात-कुल** *n.*****(कुल family)  
+Gentianaceae** *Bot.* **किरात-कुल** *n.*(कुल family)  
 **gentianae radix = gentian  
 Gentianales** *Bot.* **किरात-गोत्र** *n.*(गोत्र order)  
 **gentian blue** (a colour, raddish-blue नीलारक्त in hue, of low नि brilliance)**निनीलारक्त  
@@ -1522,7 +1522,7 @@ infima species अवम जाति
 coordinate species सह-जाति
 
 **geo- भू-**  
-**geo-aesthesia = geoperception** *Bot.*****(capacity of a plant to respond to the stimulus of gravity)
+**geo-aesthesia = geoperception** *Bot.*(capacity of a plant to respond to the stimulus of gravity)
 
 **भूप्रतिबोध** *m.*
 
@@ -1797,7 +1797,7 @@ germinal spot***Zool.***रोही देश
 germinal stratum = germinal layer  
 germinal unit रोही एकक  
 germinal vesicle 1.***Embryol.* **रोही कोष्ठ2.***Bot.* **=oosphere  
-germinant** *adj.* *****Zool.* **रोहत्** (*present active participle*)  
+germinant** *adj.* *Zool.* **रोहत्** (*present active participle*)  
 **germinate** *vb.* **1.***Zool.***रोहण 2.***Bot.* **उद्भेदन, उगना, अंकुर निकलना  
 germinate by producing ...के उत्पादन से उद्भिन्नहोना  
 germinateby the formation of के निर्माण से उद्भिन्न होना  
@@ -2075,7 +2075,7 @@ gingivitis** *Med.* **दन्तमांसकोप** *m.*
 **ginkgo व्यजनपर्ण** *m.*  
 **Ginkgo** *Bot.* (fan-shaped leaves) **व्यजन-पर्ण प्रजाति  
 Ginkgo biloba** (it has fanshaped leaves)**सामान्य व्यजनपर्ण  
-Ginkgoaceae** *Bot.* **व्यजनपर्ण-कुल** *n.*****(कुल family )  
+Ginkgoaceae** *Bot.* **व्यजनपर्ण-कुल** *n.*(कुल family )  
 **Ginkgoales** *Bot.* **व्यजनपर्ण-गोत्र** *n.*  
 **ginned** *adj.* **आवर्तित, ओटी हुई, धुनी हुई  
 ginned cotton आवर्तित कर्पास, ओटी हुई कपास  
@@ -2159,7 +2159,7 @@ give a right of entrance प्रवेशाधिकार देना**
 
 **give authority to प्राधिकार देना  
 give battle आक्रमण करना, लड़ाई करना  
-give effect** (to ordors, etc.) **कार्यान्वित****करना  
+give effect** (to ordors, etc.) **कार्यान्वितकरना  
 give entrance प्रवेश देना  
 give information सूचना देना  
 give in marriage कन्यादान करना  
@@ -2393,7 +2393,7 @@ brilliance) **प्रापहरिनील**
 
 **glaucous surface हरिनील तल  
 glaze** *vb*. **काचन  
-glaze ** *n.* **1.काचना** *f.* **2.***Meteorol.**=*****glazed frost काचहिम** *n.*  
+glaze ** *n.* **1.काचना** *f.* **2.***Meteorol.**=*glazed frost काचहिम** *n.*  
 **glazed** *adj.* **काचित  
 glazed acid jar काचित अम्ल-कलश  
 glazed frost = glaze** *Meteorol.*  
@@ -2416,7 +2416,7 @@ Gleicheniaceae** *Bot.* **सर्पिशिफ-कुल** *n.*
 
 mountains and hills) **कन्दरा** *f.***, सकरी घाटी**
 
-**Glenargus** *Aves * (the tail is of no great length)****ह्रस्वपुच्छ-प्रजाति**  
+**Glenargus** *Aves * (the tail is of no great length)ह्रस्वपुच्छ-प्रजाति**  
 
 **Glenodinium वर्णवर्तुल-प्रजाति** (वर्ण for वर्णभर chromatophores)  
 **glenoid cavity** *Anat.* (cavity of shoulder joint) **अंस-सन्धि-कूप  
@@ -2479,7 +2479,7 @@ Glochidion hohenackeri सामान्य-श्लक्ष्णा** (a mi
 Glochidion zeylanicum** ( a small tree, quite glabrous) **सिंहल-श्लक्ष्णा  
 glochidium 1.***Bot.* **प्रलोम** *n.***2.***Zool.* (characterized by a promi-nent byssus thread) **लागांशुडिम्भ**
 
-*m.*****( लागांशु byssus)
+*m.*( लागांशु byssus)
 
 **-gloea** *Zool. -***श्लेष** *m.*  
 **Gloeocapsa** (Gk. *gloia* 'glue' + Lat. *capsa* 'case') *Bot.* **श्लेष्मावरण-प्रजाति** (within stratified
@@ -2547,7 +2547,7 @@ each has on its upper surface a ligule, in the form of a small scale which devel
 
 abaxial side of the sporangium It has & distinct foot or glossopodium...... McLean I.581) **जिह्वापद**
 
-*n.*****(*glosso-* जिह्वा+-*podium* पद )
+*n.*(*glosso-* जिह्वा+-*podium* पद )
 
 **Glossopteris** (Gk. *glossa* 'tongue' जिह्वा, Gk.*pteris* 'akind of fern' पर्णांग, fr. *pteron* 'feather' पर्ण)
 
@@ -2625,14 +2625,14 @@ Glumaceae बुसपत्राः** *m.pl.* (glume बुसपत्र)
 glutamic acid आश्लेषतिक्तेयिक अम्ल  
 glut-amine** *Chem.* **आश्लेष-तिक्ती  
 glutaminic = glutamic  
-glutaric** *adj.*****(*glutamic* आश्लेषतिक्तेयिक + tarta*ric* न्यासविक) *Chem.* **आश्लेषासविक  
+glutaric** *adj.*(*glutamic* आश्लेषतिक्तेयिक + tarta*ric* न्यासविक) *Chem.* **आश्लेषासविक  
 gluta-thione** (*glutamic+ thione*) *Biochem.* **आश्लेष-गन्धा  
 gluteal** *Anat.* **नितम्ब-  
 gluteal artery = sciatic artery नितम्ब-रोहिणी  
 gluteal region नितम्ब-देश  
 glutelin** (*gluten*+*-lin*, an arbitrary ending) *Biochem.* (any of a class of a simple proteins
 
-प्रोभूजिन)****आश्**लेषिन** *m.*
+प्रोभूजिन)आश्**लेषिन** *m.*
 
 **gluten आश्लेष** *m.*  
 **glutenin** *Biochem.* **आश्लेषि** *f.*  
@@ -2736,7 +2736,7 @@ Kan. यष्टिमधुक, Hin. मुलइटि, Mar. जेष्ठ�
 **glyoxalase** *Biochem.* **मतिष्वेद** *m.*  
 **glyoxalic = glyoxylic  
 glyoxalic acid मतिषुलिक अम्ल  
-glyoxaline** *Chem. **मतिष्वी********f.*  
+glyoxaline** *Chem. **मतिष्वीf.*  
 **glyoxime** (*glyoxal* मतिषु + *oxime* जावि)*Chem.* **मजाबि** *n.*  
 **glyoxyl** (*glyoxal* मतिषु + *-yl* -ल) **मंतिषुल** *n.*  
 **glyoxylic** *adj.* **मतिषुलिक  
@@ -2749,7 +2749,7 @@ Glyptodon clavipes** (Lat. *clava* 'club') **गदा-पाद पूर्व
 glyptodont** *Paleontol.* **पूर्ववमी** (-इन्) *m.*  
 **Glyptodontidae पूर्ववर्मि-वंश** *m.*  
 **Glyptodontoidea** (superfamily) **पूर्ववर्मि-महावंश** *m.*  
-**Glyptolepis** *Paleontol.*****(*glypto-'*carved'+-*lepis* -कवच) **उत्कीर्णकवच-प्रजाति  
+**Glyptolepis** *Paleontol.*(*glypto-'*carved'+-*lepis* -कवच) **उत्कीर्णकवच-प्रजाति  
 glyptolith = ventifact  
 Glyptopomus** (*glypto-* 'carved' +*poma*'cover') **उत्कीर्णावर-प्रजाति  
 G.M.** ( General Manager) **स.प्र.** (सर्व-प्रबन्धक)**, म.प्र.** (महा-प्रबन्धक )  
@@ -2776,7 +2776,7 @@ Gnaphalium green** (a colour, yellow-green पीतहरि in hue, of low अ
 
 brilliance) **प्राव-पीतहरि**
 
-**gnarled** *adj.* (Germ. *knorrig*)****(full of knots or gnarls) **ग्रन्थिमय, ग्रन्थिल,गंठीला  
+**gnarled** *adj.* (Germ. *knorrig*)(full of knots or gnarls) **ग्रन्थिमय, ग्रन्थिल,गंठीला  
 gnat दंश** *m.*  
 **gnathobase** *Zool.* (in Arthropods, a masticatory process —Chambers)**चर्ववर्ध** *m.*  
 **Gnathobdellae***Zool.*(leeches with jaws) **जम्भजलौका-गण** *m.*  
@@ -2868,7 +2868,7 @@ goblet-shaped bodies** *Zool.* **चषकरूपकाय
 goblet-shaped organ** *Zool.* **चषकरूप अंग  
 goblin scarlet = Castilian red अधिरक्तापीत  
 goblin shark वैताल-ग्राह  
-goby***Zool. * **** (usually have broad depressed head) **प्रथशीर्षा** *f.*  
+goby***Zool. *  (usually have broad depressed head) **प्रथशीर्षा** *f.*  
 **gocart 1.शिशुगामिका** *f.,* **गडीरना2.शिशुसकट** *m.***, बालगाड़ी  
 God ईश्वर** *m.*  
 **godchild धर्मपुत्र** *m.*  
@@ -3154,7 +3154,7 @@ gonorrhoea** *Med.* **प्रमेह** *m.* (Hin. Mar. परमा) (*cf*. 
 **gonosphere = oosphere** *Mycol.* **अण्डगोल** *m.*  
 **gonotheca** *Zool.* (the theca प्रावरक enclosing the blastostyle upon which the medusoid buds,
 
-or certain hydroids devalop) **कुड्मप्रावर***m.*****(कुड्म bud)
+or certain hydroids devalop) **कुड्मप्रावर***m.*(कुड्म bud)
 
 **Gonypodaria** *Zool.* **शाखिवृन्त-प्रजाति  
 goober nut = earthnut** (*Arachis hypogaea*) **भूमुद्ग***m.*  
@@ -3275,7 +3275,7 @@ good-wife** (mistress of the house) **गृह-**
 **good will 1.***Com.* **ख्याति** *f.***2.सद्भाव** *m.,* **सद्भावना** *f.*  
 **goodwill mission सद्भावना-मण्डल  
 goodwill profit ख्याति-लाभ  
-goongarrite सीभिदशिज***m.*****(सी- for सीस lead, भिद- for भिदातु bismuth, श- for शुल्बेयsuiphide,
+goongarrite सीभिदशिज***m.*(सी- for सीस lead, भिद- for भिदातु bismuth, श- for शुल्बेयsuiphide,
 
 -इज for खनिज mineral)
 
@@ -3716,7 +3716,7 @@ grain 1.धान्य** *n.,* **अनाज 2.धाना** *f.* (occurs in 
 fine-grained सूक्ष्म-वयन  
 spiral-grained कुन्तल-वयन  
 wavy-grained तरंगित-वयन  
-7.***Quarrying* **उत्पाट** *m.*****(*for explanation see* rift and grain)
+7.***Quarrying* **उत्पाट** *m.*(*for explanation see* rift and grain)
 
 **grain advances धान्य-अग्रिम  
 grain allowance अनाज-भत्ता, धान्य-अधिदेय  
@@ -3921,7 +3921,7 @@ granulose** *n. Chem.* **कणिकाधु** *n.*
 
 **amylose मण्डधु**
 
-**granulyte** *Petrog.* **सैकताश्म** *m.*****(for explanation see under rock)  
+**granulyte** *Petrog.* **सैकताश्म** *m.*(for explanation see under rock)  
 **grape 1.द्राक्षा** *f.,* **दाख 2.**(a colour, bluish blue-red रक्ताति-नील in hue, of low अव saturation and
 
 very low वि brilliance) **व्यवरक्तातिनील**
@@ -3996,7 +3996,7 @@ They are most typically preserved as black car- bonaceous films resembling scrol
 blades— Principles of Inverte-brate Paleontology, R. R. Schrock and W.H.Twenhofel,  
 McGraw-Hill Book Co., 1953 p.743) **क्रकचाश्न***m.*
 
-**Graptophyllum** *Bot.* (Gk. graptos****'painted', *phyllum* पर्ण) **चित्रपर्ण-प्रजाति  
+**Graptophyllum** *Bot.* (Gk. graptos'painted', *phyllum* पर्ण) **चित्रपर्ण-प्रजाति  
 Graptophyllum hortense = Graptophyllum pictum  
 Graptophyllum pictum** (flowers dark red— Basu)**रक्तपुष्पचित्रपर्ण  
 -graptus** *Paleontol.* (used in naming genera of graptolites) **-क्रकच  
@@ -4266,7 +4266,7 @@ great reed warbler बृहत् शरकूजिनी** (शर reed)
 **great seal महामुद्रा  
 great sheep एडक** *m.* (occurs in महाभारत, etc.)  
 **great snipe बृहत् पंककीर** (पंककीर ancient word)  
-**great spearwort *(****Ranunculus lingua****)* जिह्वापर्ण** *m.*  
+**great spearwort *(Ranunculus lingua)* जिह्वापर्ण** *m.*  
 **great stone-plover दीर्घ-शिर पाणविक** *m.* (दीर्घशिर ancient word, पाणविक occurs in चरक)  
 **great Tibetan sheep भोट-एडक** *m.*  
 **great tit बृहद्-वल्गुली** (वल्गुली occurs in सुश्रुत)  

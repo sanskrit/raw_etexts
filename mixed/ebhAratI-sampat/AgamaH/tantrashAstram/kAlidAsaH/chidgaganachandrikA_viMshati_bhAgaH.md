@@ -451,7 +451,7 @@ termed as the Life (Prāṇa) in the universal seed, whereas the Śakti-Tattva a
 
  Śakti-Tattva is the life and soul of the Principle of Restraint and so its main task consists in controlling and regulating that movement of Life.
 
-September, 1987.  ****
+September, 1987.  
 
 **ARNOLDAVALON.**
 

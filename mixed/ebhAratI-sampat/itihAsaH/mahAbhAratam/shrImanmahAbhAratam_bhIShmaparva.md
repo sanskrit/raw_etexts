@@ -60,7 +60,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxNTY4MzIxNTI
 **INTRODUCTION.  
 ![](../books_images/U-IMG-1706791118Screenshot2023-12-07155812.png)**
 
-**** In the preparation of the Bhīṣma Parvan for the Press, the following manuscripts fully representative of the Southern Recension, were utilised.
+ In the preparation of the Bhīṣma Parvan for the Press, the following manuscripts fully representative of the Southern Recension, were utilised.
 
   **अ**—represents the Principal Text printed. TheManuscript belongs to Mr. Krishnaswami Sastrigal, Sub-Registrar, Tanjore District. Its description is as follows:-Substance-palm-leaf; Size-19 1/4x 2 1/4inches; Leaves-116; Lines-13 to a page; Script-Telugu; Bhiṣma Parvan complete; Date of Transcription-1605, A. D.
 

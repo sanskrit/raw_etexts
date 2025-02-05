@@ -1124,7 +1124,7 @@ Oh Ignorant and foolish minded man
 
 **Lodd Govindas.**
 
-****
+
 
 भज गोविन्दं भज गोविन्द गोविन्द भज मूढमते।  
 
@@ -3452,9 +3452,9 @@ nama, Prachanda Krishna Sahasranama, Bhagavatheeya Krishna Sahasranama, being th
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-****
 
-*****\*As regards Sri Krishna's birth, there are slight changes of certain planets in His horoscope and some differences are found which require scrutiny by able astronomers Some say, it was 100 years BK (before Kalı) Viz before the closing of Duapara Yuga i.c in8, 63, 900th year of the Duaparayuga that Sri Krishna made His appearance in the form of a baby and Vishnu as per the following, sloka—*
+
+*\*As regards Sri Krishna's birth, there are slight changes of certain planets in His horoscope and some differences are found which require scrutiny by able astronomers Some say, it was 100 years BK (before Kalı) Viz before the closing of Duapara Yuga i.c in8, 63, 900th year of the Duaparayuga that Sri Krishna made His appearance in the form of a baby and Vishnu as per the following, sloka—*
 
 श्रीमच्छ्रावणमासिकेऽसितदलेऽष्टम्या तिथौ चन्द्रजे  
 रोहिण्या निशि मध्यभागसमये योगाधिपे वज्रगे॥
@@ -3835,7 +3835,7 @@ the ulterior object of maintaining themselves and who waste the monies of God in
 
 
 
-pronounciation and began uttering **मरा, मरा**, in the place of **राम, राम,**but all the same****he secured the best result and subsequently became the great author of Sri Ramayana (Vide Ananda Ramayana)
+pronounciation and began uttering **मरा, मरा**, in the place of **राम, राम,**but all the samehe secured the best result and subsequently became the great author of Sri Ramayana (Vide Ananda Ramayana)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4560,7 +4560,7 @@ national spirit, and the spirit of spiritualism, with the result that an ugly lo
 
  He has to put up with the combination of animal met abolism and the scent of nautiating armpits, and the smell of beefified teeth having blooming pyarrhea, with the socalled Rosy cheeks, with an application of "Bloom of Roses"
 
- 1 **राम धाम** (Hindi)— The abode of Sri Rama **रामविनानु****धामकयुं छे** meaning no place without Rama  
+ 1 **राम धाम** (Hindi)— The abode of Sri Rama **रामविनानुधामकयुं छे** meaning no place without Rama  
  2 **राम गिरि** (Sans)— a mountain  
 **  (चक्रे ) स्निग्धच्छायात्तरुषु वसतिं रामगिर्याश्रयेषु॥ (निघन्टु)**
 

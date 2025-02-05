@@ -1239,7 +1239,7 @@ things. Te, they; because of that reason, *yanti*, getentangled in; *pāśam*, t
 
  *Yena*, that by which— by the Self which is consciousness by nature; all people *vijānāti*, knowclearly; *rūpam*, colour; *rasam*, taste; *gandham*, smell;*śabdam*, sound; *sparśān*, touch; ca, and; *maithunān*,pleasurable sensations from sex.
 
-* **Objection*****:** May it not be argued that the idea, ‘Iknow through the Self which is distinct from thebody etc.', is not familiar to anyone? Rather allpeople experience thus: 'I, who am the combinationof the body etc.,know.'
+* **Objection*:** May it not be argued that the idea, ‘Iknow through the Self which is distinct from thebody etc.', is not familiar to anyone? Rather allpeople experience thus: 'I, who am the combinationof the body etc.,know.'
 
  ***Answer*:** But this is not so. Since even the aggregate of body etc. is substantially indistinguishable from (knowable objects like) sound etc., andhence it, too, is equally a knowable, it cannot reasonably be the knower. If the aggregate of body etc.,though constituted by colour etc., can perceive colouretc., then the external colour etc. may as well knoweach other, as also their own individual feature. But.this does not tally with facts. Therefore, just as thatthrough which iron burns (anything) is (inferred tobe) fire, similarly people perceive colour and otherattributes, in the form of the body etc., etena eva,through this only—through the Self which is consciousness by nature and which is distinct from thebody etc. *Kim*, what; *atra*, in this world; *pariśiṣyate*,
 

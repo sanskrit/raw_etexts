@@ -230,7 +230,7 @@ Prominent among his di ciples stood the great Madhava Mantrin or Madhavamatya wh
  From what has been discussed above, it would become evident how very valuable this manuscript happens to be for the intelligent construction of the history of the early period of the Vijayanagara Empire.  
 
 
-**T. A. GOPINATHA RAO,** **M. A****.**,  
+**T. A. GOPINATHA RAO,** **M. A.**,  
 Superintendent of Archaeology,  
 Travancore State,  
 

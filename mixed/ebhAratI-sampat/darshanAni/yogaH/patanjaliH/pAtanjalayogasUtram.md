@@ -205,7 +205,7 @@ January 1986
 
 
 
-         ****
+         
 
 **GUTTURAL** (Pronounced from throat) vowels  
                         

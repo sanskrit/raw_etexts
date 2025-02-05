@@ -73,7 +73,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0ODQ3MTU3MjU
 
 
 
- **र****घुनाथशिरोमणिसंमतः**
+ **रघुनाथशिरोमणिसंमतः**
 
 ** धात्वर्थः \[पृ.991-1009\]**
 

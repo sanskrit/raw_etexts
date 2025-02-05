@@ -100,7 +100,7 @@ all that concerns the  welfare of this Press.
 
   
         
- **   ****           **
+ **              **
 
 
 **   ॥ श्री ॥   

@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNTg2NzUyNDY
 **P., para-** *Chemistry***प., परा-**  
 **P**(parent) *Biology***ज** (जनक)  
 **P,*π*** (Peltier coefficient) **म** (संध्यूष्म-गुणक)  
-**P**(perianth)*****Botany***प** (परिपुष्प)  
+**P**(perianth)*Botany***प** (परिपुष्प)  
 **P**(phosphorus) *Chemistry***भ.** (भास्वर)  
 **p.**(pint)**श.** (शराब)  
 **P** (polarization) **ध्र** (ध्रुवीयण)  
@@ -119,11 +119,11 @@ masses)**श्लिष्टकोशावस्था** *f*.
 **palp**=**palpus** *Zoology***मृश** *m*.(**√**
 
 मृश ‘to touch')  
-**palpable***adj.* **1.स्पंर्शज्ञेय, स्पर्शगोचर,****2.सुस्पष्ट, सहजग्राह्य  
+**palpable***adj.* **1.स्पंर्शज्ञेय, स्पर्शगोचर,2.सुस्पष्ट, सहजग्राह्य  
 palpable error सुस्पष्ट विभ्रम  
 palpal organ** *Zoology*(conveys sperms to the genital orifice of the female)**शुक्रवोढा**(-ढृ) *m*.  
 **palpate** (to examine by touch) **स्पर्श-परीक्षण** *n.*  
-**palpation** *Medicine*****(examination by touch) **स्पर्श-परीक्षा** *f.*  
+**palpation** *Medicine*(examination by touch) **स्पर्श-परीक्षा** *f.*  
 **palpation of thrill** *Medicine* **वेपन की स्पर्श-परीक्षा  
 palpebra** *Anatomy* **बर्त्म** *n***.  
 palpebra frontalis= upper eyelid  
@@ -135,7 +135,7 @@ palpebral vessels वार्त्म-वाहिनी** (not बर्त�
 **palpebra malaris=lower eyelid  
 palpebra superior=upper eyelid  
 palpehra tertia = nictitating membrane निमीलक छद** *m.*  
-**Palpigradi** *Zoology*****(the pedipalpi areleglike — PH. I.516) **मृशपाद-गण** *m.*  
+**Palpigradi** *Zoology*(the pedipalpi areleglike — PH. I.516) **मृशपाद-गण** *m.*  
 **palpitation अतिस्पन्दन** *n***.  
 palpus = palp** *Zoology***भृश** *m.*  
 **palsy paralysis संस्तम्भ** *m.*  
@@ -143,11 +143,11 @@ palpus = palp** *Zoology***भृश** *m.*
 **Paludicella** *Zoology*(club-shaped Zooecia) **गदाजीवौक-प्रजाति  
 Paludina = Viviparus  
 palndosus** *Botanical Taxonomy.* (growing in marshy places) **कच्छ-  
-paludrine** *Pharmacy*****(more effective than quinine) **प्रविज्वरी** *f.*  
+paludrine** *Pharmacy*(more effective than quinine) **प्रविज्वरी** *f.*  
 **palus (pl. pali)** *Zoology*(narrow upright column ) **स्तम्भिका** *f.*  
 **Palythoa** *Zoology*(the most complex ofActiniaria) **जटिलेपुष्प-प्रजाति**  
 
-**pamaquine** (N- diethylamino-iso-pentyl-amino-methoxy-quinoline)**प्रोविज्वरी***f.*****
+**pamaquine** (N- diethylamino-iso-pentyl-amino-methoxy-quinoline)**प्रोविज्वरी***f.*
 
 (प्रो for प्रोदजार- methoxy.)
 
@@ -181,14 +181,14 @@ Panax fruticosum = Nothopanax fruticosum** *Botany*
 **Panax pseudo-ginseng = Aralia.pseu. do-ginseng** *Botany*  
 **pan-boiler** (as in jaggery-making)**कटाह-पाचक** *m.*  
 **pancake plant = cheeseflower** (*Malva sylvestris*) **दधिकपुष्प***m.*  
-**pance = heartsease** (*Viola tricolor*) **हृत्सु**ख**** *m.*  
+**pance = heartsease** (*Viola tricolor*) **हृत्सु**ख *m.*  
 **panchayat पंचायत, पञ्चमण्डली** *f.* (Sanchi Stone Inscr. of Chandragupta
 
 II of the Gupta year 93)  
 **panchayat court पंचायत-न्यायालय  
 panchromatic** *adj.* (Gk, *pan* 'all'; sensitive to light of all colours)**सर्ववर्ण, सर्वच्छाय  
 panchromatic film** *Photography* **सर्ववर्ण पट्टी  
-pancreas** *Anatomy*****(a gland possessing all ferments) **सर्वकिण्वी (-इन्)** *m.*  
+pancreas** *Anatomy*(a gland possessing all ferments) **सर्वकिण्वी (-इन्)** *m.*  
 **pancreatic** *adj.* **सर्वकिण्वि-, सर्वकिण्वीय  
 pancreatic diverticulum** *Zoology***सर्वकिण्वी अन्ध-धान  
 pancreatic duct सर्वकिण्वि-प्रणाली  
@@ -219,7 +219,7 @@ complete digest) **पूर्णसार** *m.*
 Pandion***Aves* **कुरर-प्रजाति** (कुरर ancient word)  
 **Pandionidae** *Aves* **कुरर-वंश** *m.*  
 **pandore = bandore** (of 3 strings) *Physics***त्रितन्त्री** *f.*  
-**Pandorina** *Botany*****(16 cells, forming a sphere) **षोडशिगोल-प्रजाति  
+**Pandorina** *Botany*(16 cells, forming a sphere) **षोडशिगोल-प्रजाति  
 Pandorina morum तूत-षोडशिगोल  
 pane = glass-pane काचपट्ट** *m.***काचफलक** *n.*  
 **panel 1.पट्ट, भागक***m.***control panel नियन्त्रण-पट्ट 2.***Fine Arts* **पट्ट** *m.***3.तालिका** *f.*  
@@ -264,7 +264,7 @@ panning = pan-washing भाजन-धावन** *n.*
 **Panocthus** *Paleontol***.** (a genus of glyptodonts) **पूर्वकंकटि-प्रजाति** (कंकट armor)  
 **panorama विराट् रूप, विराट् दृश्य** *n.*  
 **panoramic view सर्वतो-दृश्य,विराट्दृश्य  
-Panorpa** *Zoology*****(genus of the scorpion flies) **वृश्चिकपतंग-प्रजाति  
+Panorpa** *Zoology*(genus of the scorpion flies) **वृश्चिकपतंग-प्रजाति  
 Panorpa communis सामान्य वृश्चिकपतंग  
 Panorpidae** *Zoology* **वृश्चिकपतंग-वंश** *m.*  
 **pan still भाजन-आसोत्र  
@@ -320,7 +320,7 @@ Pantodonta
 
 m.pl.  
 
-**pantograph 1.सर्वमापलिख** *m.* **2** *Elec.* **** (acurrent-collecting device) **विद्युद्ग्राही** (-इन् ) *m.*  
+**pantograph 1.सर्वमापलिख** *m.* **2** *Elec.*  (acurrent-collecting device) **विद्युद्ग्राही** (-इन् ) *m.*  
 
 **Pantolambda** *Paleontol***पुरावि-प्रजाति  
 Pantolambdidae** (nearly the size of a sheep अवि, and from the Paleocene—Romer p.304)
@@ -331,7 +331,7 @@ Pantolambdidae** (nearly the size of a sheep अवि, and from the Paleocene�
 pantoscopic** *adj.* **सर्वेक्ष  
 pantoscopic glasses सर्वेक्ष उपनेत्र  
 pantoscopic lens सर्वेक्ष वीक्ष  
-pantothemic acid** *Chemi.*****(Gk. *panto- themikos* from everywhere) **सर्व-स्थानिक अम्ल**  
+pantothemic acid** *Chemi.*(Gk. *panto- themikos* from everywhere) **सर्व-स्थानिक अम्ल**  
 
 **pantothere** *Paleontol.***भूरिदन्त** *m.*  
 **Pantotheria** *Paleontol.***भूरिदन्ताः** *m.pl.*  
@@ -419,7 +419,7 @@ paper strip पत्र-पट्टी
 papers under disposal निर्वर्तनाधीन पत्र  
 paper supplier पत्र-प्रदायक  
 papers with a wide circulation अधिक बिकने वाले समाचारपत्र  
-paper title** *Law*****(atitle to land evidencedby a conveyance; the term generally implying that
+paper title** *Law*(atitle to land evidencedby a conveyance; the term generally implying that
 
 such title, while it has colour or plausibility, is without substantial validity) **पत्र-मात्र स्वत्व**
 
@@ -440,7 +440,7 @@ Papillonaceae** *Botany* **चणक-कुल** *n.*
 
 **papilionaceous** *adj.* *Bot.* **1.प्रजापतिरूप**(प्रजापति' 'butterfly fr. Bengali)**2.चणककुल्य**  
 **papilionaceous plant चणककुल्य पादप**  
-**Papilionatae** *Bot.***चणक अनुकुल ** *n****.***  
+**Papilionatae** *Bot.***चणक अनुकुल ** *n.***  
 **Papilionidac** *Zool.*( family of butterflies) **प्रजापति-वंश** *m.*  
 **Papilioninae** *Zool.* (a subfamily of Papilionidae) **प्रजापत्यनुवंश** *m.*  
 **papilla 1.***Anat.* **अंकुर** *m.* **पिण्डिका** * f.***renal papillae वृक्क पिण्डिका, वृक्क अंकुर,2.**Bot.(a small hair)
@@ -555,7 +555,7 @@ Paleontology, Cambridge1947, p. 367) **लम्बत्रिक-प्रज�
 called शाखिपूतीक on account of their being expert climbers and mainly arboreal in forest and jungle)
 
 **Paradoxurus** *Zool.***शाखिपूतीक-प्रजाति  
-paradoxus** *Bot.******Tax.***विलक्ष**
+paradoxus** *Bot.**Tax.***विलक्ष**
 
 **paradysenteric bacillus** see **Shigella paradysenteriae**
 
@@ -565,7 +565,7 @@ para fast brown** *Col.Ind.* **परा स्थिर बभ्रु
 para fast green** *Col.Ind.* **परा स्थिर हरि  
 paraffin** (a waxy substance occurring in the earth as a constituent of petroleum or as a solid
 
-deposit) **मृद्वसा***f.*****(cf. मृत्तैल)
+deposit) **मृद्वसा***f.*(cf. मृत्तैल)
 
 **paraffin base मृद्वसा-पीठ  
 paraffin blowlamp मृद्वसा-धमदीप  
@@ -588,21 +588,21 @@ paraglossa** (*pl.* paraglossae) *Zool.***1.**(one of a pair of small appendages
 
 insects) **जिह्वोपांग** *n.***2.**(outer) **बहिर्जिह्वा** *f.*
 
-**paragnath** *Zool.*****(lies behind the mandibles in most crustaceans) **पराहनुका** *f.*  
-**para-gneiss** *Petrography*****(derived from a sediment अवसाद)**अव-पट्टिताश्म  
+**paragnath** *Zool.*(lies behind the mandibles in most crustaceans) **पराहनुका** *f.*  
+**para-gneiss** *Petrography*(derived from a sediment अवसाद)**अव-पट्टिताश्म  
 Paragonimus** (ovary displaced to one side) **पार्श्वाण्डाशय-प्रजाति  
 Paragonimus ringeri** (human lung fluke) **फुप्फुस-पार्श्वाण्डाशय  
 Paragonimus westermani = Distoma westermani, D.ringeri, D. pulmonale** (causes parasitic
 
 or oriental hemoptysis) **रक्तष्ठीव-पार्श्वाण्डाशय**
 
-**paragonite** *Mineralogy*****(a sodium क्षारातु mica अभ्रक) **क्षाराभ्रक** *n.*  
+**paragonite** *Mineralogy*(a sodium क्षारातु mica अभ्रक) **क्षाराभ्रक** *n.*  
 **paragraph कण्डिका***f.* (Constitution of India) (see article)  
 **para green** *Col.Ind.* **परा हरि  
 Paraguay tea** (prepared from
 
 Ilex paraguayensis पेय-शूलपर्णी) **शूलपर्णी-चैन  
-Parahippus** *Paleontology*****(a genus of Miocene मध्यनूतनयुग horses)**मध्याश्वक-प्रजाति  
+Parahippus** *Paleontology*(a genus of Miocene मध्यनूतनयुग horses)**मध्याश्वक-प्रजाति  
 para-hydrogen विषमभ्रम उदजन, परा-उदजन  
 para indigo blue** *Col.Ind.* **परानिनील नील  
 parakect 1.**(any of certain parrots, esp. those of relatively small size and slender form) **कीर** *m.*
@@ -1148,7 +1148,7 @@ para-rosaniline base** *Col.Ind.***परा-पाटलनीली पीठ
 para roseine** *Col.Ind.* **परा अरुणी  
 pararosolic acid** *Chem.***परापाटलविक अम्ल  
 para scarlet** *Col.Ind.***परा शोण  
-Paraseison** *Zool.*****(foot elongated- PH.
+Paraseison** *Zool.*(foot elongated- PH.
 
 I.298) **दीर्घपद-प्रजाति  
 Paraseison asplanchnus** (Gk. *splanchnon* 'viscera') **अपान्तस्त्य दीर्घपद  
@@ -1163,7 +1163,7 @@ parasitical cuckoo** *Zool.***परभृत, अन्य-पुष्ट** *m
 parasiticide परजीविघ्न** *m.*  
 **parasitic plant परजीवी पादप, परजीवी पौधा  
 parasitic roots** *Bot.***परजीवी मूल  
-Parasitidae** *Zool.*****(a family) **परजीविवंश** *m.*  
+Parasitidae** *Zool.*(a family) **परजीविवंश** *m.*  
 **parasitifer परजीविभर***m.*  
 **parasitiferism** (a delusion of harbouring worms) **परजीवि-भ्रम***m.*  
 **parasitism 1.**(state of being a parasite) **परजीविता** *f.***2.**(infestation with parasites) **परजीवि**
@@ -1177,13 +1177,13 @@ parasitoid** *adj.* **परजीव्याभ
 parasitologist परजीविज्ञ** *m.*  
 **parasitology पारजैविकी, परजीवि-विज्ञान** *n.*  
 **parasitophobia परजीविभी** *f.*  
-**parasitosis** *Med.*****(infestation with parasites) **परजीवि-संचार** *m.*  
+**parasitosis** *Med.*(infestation with parasites) **परजीवि-संचार** *m.*  
 **parasitotrope** *adj.* **परजीव्यावर्त  
 parasitotropic = parasitotrope** *adj.***परजीव्यावर्त  
 parasitotropism =parasitotropyपरजीव्यावर्तना** *f.*  
 **parasol आतपत्र** *n*., **छतरी**  
 **parasphenoid** *n. Zool.***रोऽस्थि** *n.*  
-**parasphenoid bone** *Zool.*****(T-shaped bone) **रोऽस्थि** *n.* (T = ब्राह्मरो, i.e. रो as written in the
+**parasphenoid bone** *Zool.*(T-shaped bone) **रोऽस्थि** *n.* (T = ब्राह्मरो, i.e. रो as written in the
 
 Brāhmī script)
 
@@ -1191,7 +1191,7 @@ Brāhmī script)
 
 I.174)  
 **parastichy** *Bot.* (an oblique or secondary spiral line...) **कुन्तलपंक्ति** *f.*  
-**Parasuchia** *Paleontol.*****(para- + Gk. *souchos* 'crocodile') **परामकर-प्रजाति  
+**Parasuchia** *Paleontol.*(para- + Gk. *souchos* 'crocodile') **परामकर-प्रजाति  
 parasulphon bronze** *Col.Ind.***पराशुल्बा कांस्य  
 parasulphon brown** *Col.Ind.* **पराशुल्बा बभ्रु  
 parasympathetic = cranio-sacral** *Anat.***कर्परत्रिक-  
@@ -1266,7 +1266,7 @@ parchment 1.चर्मपत्र** *n.***2.**(colour) **= lark** (colour)
 'cat' विडाल)
 
 **pardon** *vb.* **क्षमा करना  
-Pareiasauria** *Paleontol.*****(*parcia* 'cheek' + *sauros* 'lizard')**गण्डसरटानुगण** *m.*(अनुगण suborder)  
+Pareiasauria** *Paleontol.*(*parcia* 'cheek' + *sauros* 'lizard')**गण्डसरटानुगण** *m.*(अनुगण suborder)  
 **Pareiasaurus गण्डसरट-प्रजाति  
 pareira brava** (Port. *parreira* 'vine' +  
 
@@ -1820,7 +1820,7 @@ antitoxin)
 **parlance वाक्सरणी, भाषा, शब्दावलि** *f.,***बोलचाल**  
 **parliament संसद्** *f***.** (Const.)  
 **Parliament** (the English Parliament)**आंगल-संसद्** *f.*  
-**parliamentarian 1.संसद्य** *m.**2.*****संसत्पक्ष्य** *m.***3.संसत्पण्डित, संसद्विज्ञ** *m.*  
+**parliamentarian 1.संसद्य** *m.**2.*संसत्पक्ष्य** *m.***3.संसत्पण्डित, संसद्विज्ञ** *m.*  
 **parliamentarianism संसद्राजता** *f.*  
 **parliamentarily संसद्वत्  
 parliamentarism 1.संसदा-शासन** (संसदा''by संसद्")**, संसत्-शासन** *n.***2.संसद्राजता** *f.*  
@@ -1849,7 +1849,7 @@ Parmelia kamstchadalis** (it is cooling, useful in the diseases of blood and hea
 
 **Parmelia perforata** (it is fragrant—Basu) **सुभग शिलावल्क** (Basu सुभग)  
 **Parmelia perlata सामान्य शिलावल्क** (Nadk. शिलावल्क, MW. शिलावल्का)  
-**paroccipital** *Zoology*****(a process of the exoccipital bone or a distant bony element of that
+**paroccipital** *Zoology*(a process of the exoccipital bone or a distant bony element of that
 
 region)
 
@@ -1957,7 +1957,7 @@ terminology)
 
 **develop parthenogenetically अनिषिक्त विकसित होना**
 
-**parthenogenetic development****अनिषिक्तविकास**  
+**parthenogenetic developmentअनिषिक्तविकास**  
 **parthenogonidium** *Bot.***अनिषिक्तजनक** *m.*  
 **Parthenope 1.***Zool.***मुखास्त्र-प्रजाति** (मुखास्त्र ancient word for crab) **2.***Astron.***एकादश**
 
@@ -1987,7 +1987,7 @@ terminology)
 **partial loss आंशिक हानि**  
 **partial lunar eclipse आंशिक चन्द्रग्रहण**  
 **partially bad debts** *Com.* **अंशतःअप्राप्यऋण**  
-**partially closed****अंशतः संवृत**  
+**partially closedअंशतः संवृत**  
 **partially combed yarn** **अर्ध-कंकतित सूत्र**  
 **partially disintegrated अंशतः वियोजित**  
 **partially evacuated** *Phys.***अंशतः शून्यकित** (from शून्यक. vacuum),  
@@ -2009,7 +2009,7 @@ partially used** (railway ticket) **अंशतःप्रयुक्त**
 **partial solar eclipse आंशिक सूर्यग्रहण**  
 **partial sowing** *Forestry* (sowing when the operation is confined to a portion of the area to be
 
-stocked—I.F.R.) **आंशिक वपन, आंशिक****बोवाई**
+stocked—I.F.R.) **आंशिक वपन, आंशिकबोवाई**
 
 **partial vacuum आंशिक शून्यक**  
 **partial valence आंशिक संयुजता**, **अतिरिक्त-संयुजता**  
@@ -2024,9 +2024,9 @@ stocked—I.F.R.) **आंशिक वपन, आंशिक****बोवा�
 **participle** *Gram.* **कृदन्तक** *m.*  
 **particle** **लव** *m.*
 
-****α** particle अ लव**  
+α** particle अ लव**  
 
-****β** particle आ लव**
+β** particle आ लव**
 
 **particle dynamics = dynamics of a particle लव-प्रावैगिकी**  
 **particoloured bat** *Mamm*. (the dark basal part of the hairs produces somewhat mottled शवल
@@ -2179,7 +2179,7 @@ f.
 
 partite
 
-Bot.****
+Bot.
 
 (incision)
 
@@ -2497,7 +2497,7 @@ Bot. Tax.
 **ves) लघुपर्ण**
 
 **Parvobacteriaceae लघुवेत्राणु-कुल** *n.*  
-**Pascal's law** *Phys.*****(a fluid transmits pressures equally in all directions)**प्रवाहि-निपीड-नियम  
+**Pascal's law** *Phys.*(a fluid transmits pressures equally in all directions)**प्रवाहि-निपीड-नियम  
 Paschen series** (spectral lines emitted, when electrons of hydrogen atoms revert to the third
 
 energy level)**तृतीयोर्जा-माला**
@@ -2535,7 +2535,7 @@ passage regulations यात्रा-विनियम
 pass an order आदेश पारित करना, आदेश देना  
 passbook 1.***Banking* (a depositor's book in which a bank enters his doposits and withdrawals)
 
-**निक्षेप-पुस्तिका 2.***Com.*****(a customor's book in which a dealer enters articles bought on credit) **ग्राहक-पुस्तिका3.***Forestry***पारक-पुस्तक, प्रवेशपत्र-पुस्तक4.**(for buying opium) **क्रय-पुस्तक**
+**निक्षेप-पुस्तिका 2.***Com.*(a customor's book in which a dealer enters articles bought on credit) **ग्राहक-पुस्तिका3.***Forestry***पारक-पुस्तक, प्रवेशपत्र-पुस्तक4.**(for buying opium) **क्रय-पुस्तक**
 
 **passed** *adj.* **1.पारित2.तीर्ण, निर्णीत3.***Educ.***उत्तीर्ण4.***Parl. Practice* **पारित** (Const.)  
 **passed for payment देने के लिए पारित, शोधनार्थ पारित  
@@ -2571,7 +2571,7 @@ Passeres** *Aves* **यष्टिसादि-गण** *m.* (sitting साद
 passes not transferable अहस्तान्तरणीय पारक  
 pass final orders अन्तिम आदेश देना  
 pass-holder पारक-धारी  
-Passiflora** *Bot.*****(genus of passion-flowers) **कृष्णकमल-प्रजाति** (कृष्णकमल from Marathi)  
+Passiflora** *Bot.*(genus of passion-flowers) **कृष्णकमल-प्रजाति** (कृष्णकमल from Marathi)  
 **Passiflora edulis** (the fruit is used as a tonic—Basu) **बल्य कृष्णकमल  
 Passiflora foetida** (the fruit is used as an emetic—Basu) **वमफल कृष्णकमल  
 Passiflora lunata** (Lat. *lunata* बालचन्द्र) **बालचन्द्र कृष्णकमल  
@@ -2590,7 +2590,7 @@ pass-issuing programme पारक-निर्गमन-कार्यक्�
 passive** *adj.* **1.निष्क्रिय, अकर्मण्य, निश्चेष्ट** (*opp.* सचेष्ट active)**2.***Bot.***अचर  
 passive agent** (in sodomy) **निष्क्रिय व्यक्ति  
 passive air defence निश्चेष्ट विमान-प्रति-रक्षा  
-passive bond** *Econ.*****(not carrying interest) **वृद्धिरहित बन्ध  
+passive bond** *Econ.*(not carrying interest) **वृद्धिरहित बन्ध  
 passive congestion** *Med.***परतो-रक्त-संकुलता  
 passive exercise परतो-व्यायाम  
 passive existence निष्क्रिय अस्तित्व  
@@ -2994,15 +2994,15 @@ pasture ground गोचर, चारणभूमि, चर-
 
 **भूमि**
 
-****pasture-legumes**** **गोचर-शमीधान्य**  
-****pasture planting**** **गोचर-रोपण**  
-****pasture right**** **चारण-अधिकार**  
-****pasture rotation**** **चारणावर्तन**  
-****pasturing of cattle**** **पशु-चारण,** **पशु चराना**  
-****past year**** **गत वर्ष**  
-****pasty mass**** **लेपी-पुञ्ज**  
-****patagium**** *Zool.*****(expanded skin) **चर्मस्तार** *m.*  
-**patagonian bean** (*Canavalia ensiformis*) **खड्गशिम्बी** *f.* **** (B.,M.)  
+pasture-legumes **गोचर-शमीधान्य**  
+pasture planting **गोचर-रोपण**  
+pasture right **चारण-अधिकार**  
+pasture rotation **चारणावर्तन**  
+pasturing of cattle **पशु-चारण,** **पशु चराना**  
+past year **गत वर्ष**  
+pasty mass **लेपी-पुञ्ज**  
+patagium *Zool.*(expanded skin) **चर्मस्तार** *m.*  
+**patagonian bean** (*Canavalia ensiformis*) **खड्गशिम्बी** *f.*  (B.,M.)  
 **patch 1.खण्डक,** **खण्ड***m.,***टुकड़ा** **2.***Forestry* **खण्डक** *m.*
 
 **block** **खण्ड**
@@ -3014,103 +3014,103 @@ pasture ground गोचर, चारणभूमि, चर-
 *Zool.* (differing in colour and texture from the surrounding surface) **सिध्म** *n.*
 
 **patch cultivation** **खण्डक-कृषि**  
-****patches of land**** **भूमि-खण्डक**  
-****patch method**** *Forestry* (a system of clear felling in patches) **खण्डक-रीति**  
-****patch of thickening**** *Zool.* **स्थूलना-सिध्म**  
-****patch-sowing**** *Forestry* (a method of sowing in which a number of seeds are sown in specially
+patches of land **भूमि-खण्डक**  
+patch method *Forestry* (a system of clear felling in patches) **खण्डक-रीति**  
+patch of thickening *Zool.* **स्थूलना-सिध्म**  
+patch-sowing *Forestry* (a method of sowing in which a number of seeds are sown in specially
 
 prepared patches - I.F.R.) **खण्डक-वपन,** **खण्डकों में बोना**
 
-****pateli rights**** **पटेली अधिकार**  
-****Patella**** *Zool.***अश्मलागि-प्रजाति**  
-****Patella vulgata**** (common European limpet) **हरिदर्ष-अश्मलागी**  
-****patella = kneecap = kneepan**** **अष्ठीवत्** *m.*  
+pateli rights **पटेली अधिकार**  
+Patella *Zool.***अश्मलागि-प्रजाति**  
+Patella vulgata (common European limpet) **हरिदर्ष-अश्मलागी**  
+patella = kneecap = kneepan **अष्ठीवत्** *m.*  
 **patellar** *adj.* **अष्ठीवत्-**  
-****patellar fossa**** *Ophthalmol.***काचर खात**  
-****patella ulnaris**** *Zool.***अरत्नि-अष्ठीवत्**  
-****patens**** *Bot. Tax.***विस्तारी,** **उद्विस्तारी (-इन्)**  
-****patent**** *n.* **एकस्व***n.* (Const.)  
-****patent**** *adj.* **1.प्रकट,** **स्पष्ट,** **व्यक्त** **2.***Bot.*****(said of leaves and branches which spread out widely
+patellar fossa *Ophthalmol.***काचर खात**  
+patella ulnaris *Zool.***अरत्नि-अष्ठीवत्**  
+patens *Bot. Tax.***विस्तारी,** **उद्विस्तारी (-इन्)**  
+patent *n.* **एकस्व***n.* (Const.)  
+patent *adj.* **1.प्रकट,** **स्पष्ट,** **व्यक्त** **2.***Bot.*(said of leaves and branches which spread out widely
 
 from the stem-Chambers) **उद्विस्तारी** (-इन्)
 
-****patent**** *vb.* **1.एकस्व-करण** **2.***Metal.*(a wire) **कर्षोषण** (for explanation see patenting)  
-****patentability**** *Law* **एकस्वयोग्यता** *f.*  
-****patentable**** *adj. Law***एकस्व-योग्य**  
-****patentable subjects**** **एकस्वयोग्य वस्तुएं**  
-****patent ambiguity**** *Law* **स्पष्ट संदिग्धता,** **प्रकट संदिग्धता**  
-****patent bark**** *Col.Ind.***एकस्व वल्क**  
-****patent black**** *Col.Ind.* **एकस्व काल**  
-****patent blue**** *Col.Ind.* **एकस्व नील**  
-****patent branches**** *Bot.*****(spreading branches) **उद्विस्तारी शाखाएं**  
-****patent carmine blue**** *Col.Ind.* **एकस्व कीटशोणी नील**  
-****patent chrome leather black**** *Col.Ind.***एकस्व वर्णक चर्म काल**  
-****patent cutch**** *Col.Ind.* **एकस्व गायत्री**  
-****patent danger**** *Law* **स्पष्ट भय,** **प्रकट भय**  
-****patent defects**** **स्पष्ट त्रुटियां**  
-****patent dianil black**** *Col.Ind.* **एकस्व द्विनील काल**  
-****patented**** *adj.* **एकस्व-कृत**  
-****patented Med.**** **एकस्व-कृत औषध**  
-****patentee**** *Com.***एकस्वी**(-इन्) *m.*  
-****patent fees and royalties**** **एकस्वशुल्क और अधिकारशुल्क**  
-****patent fire extinguisher**** **एकस्व अग्निशमक**  
-****patent food**** **एकस्व अन्न**  
-****patent fuel coke**** **एकस्व इन्धन न्यंगार**  
-****patent fustin GO = wood yellow**** *Col.Ind.*  
-****patent green**** *Col.Ind.* **एकस्व हरि**  
-****patent hypermetropia**** *Ophthalmol.***प्रकट पश्चनाभिता**  
-****patenting**** *Metal.*****(method of heat-treating wires and rods to render them suitable for wire
+patent *vb.* **1.एकस्व-करण** **2.***Metal.*(a wire) **कर्षोषण** (for explanation see patenting)  
+patentability *Law* **एकस्वयोग्यता** *f.*  
+patentable *adj. Law***एकस्व-योग्य**  
+patentable subjects **एकस्वयोग्य वस्तुएं**  
+patent ambiguity *Law* **स्पष्ट संदिग्धता,** **प्रकट संदिग्धता**  
+patent bark *Col.Ind.***एकस्व वल्क**  
+patent black *Col.Ind.* **एकस्व काल**  
+patent blue *Col.Ind.* **एकस्व नील**  
+patent branches *Bot.*(spreading branches) **उद्विस्तारी शाखाएं**  
+patent carmine blue *Col.Ind.* **एकस्व कीटशोणी नील**  
+patent chrome leather black *Col.Ind.***एकस्व वर्णक चर्म काल**  
+patent cutch *Col.Ind.* **एकस्व गायत्री**  
+patent danger *Law* **स्पष्ट भय,** **प्रकट भय**  
+patent defects **स्पष्ट त्रुटियां**  
+patent dianil black *Col.Ind.* **एकस्व द्विनील काल**  
+patented *adj.* **एकस्व-कृत**  
+patented Med. **एकस्व-कृत औषध**  
+patentee *Com.***एकस्वी**(-इन्) *m.*  
+patent fees and royalties **एकस्वशुल्क और अधिकारशुल्क**  
+patent fire extinguisher **एकस्व अग्निशमक**  
+patent food **एकस्व अन्न**  
+patent fuel coke **एकस्व इन्धन न्यंगार**  
+patent fustin GO = wood yellow *Col.Ind.*  
+patent green *Col.Ind.* **एकस्व हरि**  
+patent hypermetropia *Ophthalmol.***प्रकट पश्चनाभिता**  
+patenting *Metal.*(method of heat-treating wires and rods to render them suitable for wire
 
 drawing—Camm p. 127) **कर्षोषण** *n.*
 
-****patent law**** **एकस्व-विधि**  
-****patent leather**** (Web. *s.v.* patent *adj.* 5a) **एकस्व-चर्म,** **स्निग्ध-चर्म**  
-****patent Med.**** **एकस्व-औषध**  
-****patent navy blue**** *Col.Ind.* **एकस्व नाविक नील**  
-****patent office**** **एकस्व-कार्यालय**  
-****patentor**** (one who grants a patent) **एकस्वदाता** (-तृ) *m.*  
-****patent orange**** *Col.Ind.* **एकस्व नारंग**  
-****patent phosphine**** *Col.Ind.* **एकस्व भास्वी**  
-****patent plaster = hard wall plaster**** **भित्ति-वज्रलेप**  
-****patent right**** **एकस्वाधिकार**  
-****patent rock scarlet**** *Col.Ind.* **एकस्व शैल शोण**  
-****patents and designs**** **एकस्व और आकल्प**  
-****patent sky blue**** *Col.Ind.* **एकस्व आकाश नील**  
-****patent wool blue**** *Col.Ind.* **एकस्व ऊर्णानील**  
-****patent yellow**** *Col.Ind.* **एकस्व पीत**  
-****paterfamilias 1.****(the head of a household) **गृहपति** *m.***2.**(father of a family) **कुलपिता** *m.*  
-****paternal**** *adj.* **पैतृक**  
-****paternal grandfather**** **पितामह** *m.***दादा**  
-****paternal grandmother**** **पितामही** *f.,***दादी**  
-****paternal lands**पैतृक भूमि**  
-****paternal uncle**** **चाचा**  
-****paternity**** **पितृत्व** *n.*  
-****paternosterpea**** *(Abrus precatorius)***गुञ्जा***f.* **** *(ancient word)*  
-****path**** **पथ,** **मार्ग** *m.*  
-****pethetic nerve = trochlear nerve**** *Zool.***आकृषि-चेता**  
-****path-finder**** *Radar* **मार्ग-अन्वेषक** *m.*  
-****path of light**** **प्रकाश-मार्ग**  
-****pathogen, pathogene**** **व्याधिजन***m.*  
-****pathogenesis = pathogeny**** *Med.***व्याधिजनन** *n.*  
-****pathogenetic**** *adj. Med.***व्याधिजनीय**  
-****pathogenic**** *adj.* **** **व्याधिजन,** **रोगकारी**  
-****pathogenic bacteria**** **रोगाणु,** **व्याधिशाकाणु**  
-****pathogenicity**** **व्याधिजनत्व** *n.*  
-****pathogenic micro-organism**** **रोगाणु** *m.*  
-****pathogenic organism**** **व्याधिजन जीव,** **रोगाणु** *m.*  
-****pathogenic to man**** **मनुष्य के लिए व्याधि-जन**  
-****pathogenic trypanosome**** **व्याधिजन असिकाय**  
-****pathogenous**** *adj.* **व्याधिजन**  
-****pathogeny = pathogenesis**  
-**pathological**** *adj.* **1.**(of or pertaining to pathology) **व्याधिकीय**2.****(morbid) **रुग्ण,** **विकृत**  
-****pathological anatomy = morbid anatomy**** **विकृत शारीर**  
-****pathological changes**** **व्याधिकृत परिवर्तन**  
-****pathological chemistry**** **व्याधिकीय रसायन**  
-****pathological condition**** **विकृत अवस्था**  
-****pathological department**** **व्याधिकीविभाग**  
-****pathological examination**** **व्याधिकीय परीक्षण**  
-****pathological facts**** **व्याधिकीय तथ्य**  
-****pathological fee**** **व्याधिकीय परीक्षण-शुल्क**  
+patent law **एकस्व-विधि**  
+patent leather (Web. *s.v.* patent *adj.* 5a) **एकस्व-चर्म,** **स्निग्ध-चर्म**  
+patent Med. **एकस्व-औषध**  
+patent navy blue *Col.Ind.* **एकस्व नाविक नील**  
+patent office **एकस्व-कार्यालय**  
+patentor (one who grants a patent) **एकस्वदाता** (-तृ) *m.*  
+patent orange *Col.Ind.* **एकस्व नारंग**  
+patent phosphine *Col.Ind.* **एकस्व भास्वी**  
+patent plaster = hard wall plaster **भित्ति-वज्रलेप**  
+patent right **एकस्वाधिकार**  
+patent rock scarlet *Col.Ind.* **एकस्व शैल शोण**  
+patents and designs **एकस्व और आकल्प**  
+patent sky blue *Col.Ind.* **एकस्व आकाश नील**  
+patent wool blue *Col.Ind.* **एकस्व ऊर्णानील**  
+patent yellow *Col.Ind.* **एकस्व पीत**  
+paterfamilias 1.(the head of a household) **गृहपति** *m.***2.**(father of a family) **कुलपिता** *m.*  
+paternal *adj.* **पैतृक**  
+paternal grandfather **पितामह** *m.***दादा**  
+paternal grandmother **पितामही** *f.,***दादी**  
+paternal lands**पैतृक भूमि**  
+paternal uncle **चाचा**  
+paternity **पितृत्व** *n.*  
+paternosterpea *(Abrus precatorius)***गुञ्जा***f.*  *(ancient word)*  
+path **पथ,** **मार्ग** *m.*  
+pethetic nerve = trochlear nerve *Zool.***आकृषि-चेता**  
+path-finder *Radar* **मार्ग-अन्वेषक** *m.*  
+path of light **प्रकाश-मार्ग**  
+pathogen, pathogene **व्याधिजन***m.*  
+pathogenesis = pathogeny *Med.***व्याधिजनन** *n.*  
+pathogenetic *adj. Med.***व्याधिजनीय**  
+pathogenic *adj.*  **व्याधिजन,** **रोगकारी**  
+pathogenic bacteria **रोगाणु,** **व्याधिशाकाणु**  
+pathogenicity **व्याधिजनत्व** *n.*  
+pathogenic micro-organism **रोगाणु** *m.*  
+pathogenic organism **व्याधिजन जीव,** **रोगाणु** *m.*  
+pathogenic to man **मनुष्य के लिए व्याधि-जन**  
+pathogenic trypanosome **व्याधिजन असिकाय**  
+pathogenous *adj.* **व्याधिजन**  
+pathogeny = pathogenesis**  
+**pathological *adj.* **1.**(of or pertaining to pathology) **व्याधिकीय**2.(morbid) **रुग्ण,** **विकृत**  
+pathological anatomy = morbid anatomy **विकृत शारीर**  
+pathological changes **व्याधिकृत परिवर्तन**  
+pathological chemistry **व्याधिकीय रसायन**  
+pathological condition **विकृत अवस्था**  
+pathological department **व्याधिकीविभाग**  
+pathological examination **व्याधिकीय परीक्षण**  
+pathological facts **व्याधिकीय तथ्य**  
+pathological fee **व्याधिकीय परीक्षण-शुल्क**  
 
 pathological histology विकृत औतिकी  
 pathological laboratory व्याधिकीय प्रयोगशाला  
@@ -3471,7 +3471,7 @@ Pauropoda
 
 pauros'small'+
 
--poda) Zool.****
+-poda) Zool.
 
 (a group of very smallmyriapods)
 
@@ -3552,21 +3552,21 @@ Bot.
 **paving roller आचयन-वेल्लन  
 paving stone आचयन-प्रस्तर  
 paving tile आचयन-खर्परी  
-Pavo 1.***Zool.*****(genus consisting of the peacock) **मयूर-प्रजाति**
+Pavo 1.***Zool.*(genus consisting of the peacock) **मयूर-प्रजाति**
 
-**2.***Astron.**=*********Peacock** (a constellation)**मयूर** *m.*
+**2.***Astron.**=*Peacock** (a constellation)**मयूर** *m.*
 
 **Pavonia** *Bot.***ह्रीवेर-प्रजाति** (ह्रीवेर occurs in सुश्रुत)  
 **Pavonia odorata सामान्य ह्रीवेर** (B., N.,M. ह्रीवेर)  
 **Pavonia zeylanica सिंहल-ह्रीवेर  
 Pavoninae** *Aves* **मयूरानुवंश** *m.*  
-**pawl = catch** *Mech.*****(for preventing backward motion)**ग्राह***m.,***मक्खी  
+**pawl = catch** *Mech.*(for preventing backward motion)**ग्राह***m.,***मक्खी  
 pawn** *Law* **आधि** *m.* (from मनुस्मृति)  
 **pawn-broker आधि-मध्यग  
 pawnee** *Law***आधिमान्** *m.*  
 **pawner** *Law***आधायक***m.*  
 **pawpaw** (*Carica papaya*) **पिपीतक***m.*  
-**paxilla** *Zool.*****(a kind of pillar-likespine with a flattened summit
+**paxilla** *Zool.*(a kind of pillar-likespine with a flattened summit
 
 bearing minutespinules)
 
@@ -3747,7 +3747,7 @@ brilliance)**प्रावपीतातिरक्त**
 
 **peachblossom = peachblossom pink *or* red** (acolour, red रक्त in hue, of high प्र brilliance) **प्ररक्त  
 peachblow** (a colour, yellowish red-yellow रक्तातिपीत in hue, of high प्रbrilliance) **प्ररक्तातिपीत  
-Peachia** *Zool.*****(lying on the seabottom like a worm)**कृमिपुष्प-प्रजाति  
+Peachia** *Zool.*(lying on the seabottom like a worm)**कृमिपुष्प-प्रजाति  
 peach red** (a colour, reddish red-yellow पीतातिरक्त in hue, of highप्रbrilliance) **प्रपीतातिरक्त  
 peach tree** *(Prunus persica)***आरुक***m*.(ancient form)**, आड़ू**  
 
@@ -3799,7 +3799,7 @@ pear blight रुचिफल अंगमारी**
 mineral)
 
 **pearl मुक्ता** *f.***, मोती  
-pearl ash** *Chem.*****(white solid purified potash) **सिवसर्जि** *f.*  
+pearl ash** *Chem.*(white solid purified potash) **सिवसर्जि** *f.*  
 **pearl barley मुक्ता-यव**  
 
 **pearl blush** (acolour, red-yellow रक्तपीतin hue, of low अव saturation andhigh प्र brilliance)
@@ -3812,7 +3812,7 @@ pearl ash** *Chem.*****(white solid purified potash) **सिवसर्जि*
 
 **मुक्तादृंहण** *n.*
 
-**pearlite 1.***Metal.*****(an alloy) **मुक्तातु** *m.*(.आतु for धातु metal)**,** (pearly constituent of steel)
+**pearlite 1.***Metal.*(an alloy) **मुक्तातु** *m.*(.आतु for धातु metal)**,** (pearly constituent of steel)
 
 **मुक्तायस***n.***2.***Petrog.***= pearlstone** (showing pearlitic structure) **मुक्तश्म***n.*
 
@@ -3822,7 +3822,7 @@ pearl ash** *Chem.*****(white solid purified potash) **सिवसर्जि*
 pearl mussel मुक्ता-शम्बुक  
 pearl oyster** *Zool.* **मुक्ता-शुक्ति  
 pearl sago मुक्ता-विकंगु  
-pearl sinter** *Mineral.*****(geyserite of pearly Instre) **मुक्ता-उष्णोत्सिज** *m.*  
+pearl sinter** *Mineral.*(geyserite of pearly Instre) **मुक्ता-उष्णोत्सिज** *m.*  
 **pearl-spar** *Mineral.*(with a pearly lustre) **मुक्ता-धात्विया  
 pearlstone** *Petrog.***= pearlite मुक्ताश्म***m.*  
 
@@ -3852,7 +3852,7 @@ pearlstone** *Petrog.***= pearlite मुक्ताश्म***m.*
 **Peasants' Revolt** **कृषक-विद्राह  
 pease** *pl*. **of pea**  
 **pea-shaped bean कलायाकार शिम्बी, मटर के समान आकार वाला सेम**  
-**pea soup = pea soup fog** (a heavy dull****yellow fog) **न्यवपीत धूमिका**  
+**pea soup = pea soup fog** (a heavy dullyellow fog) **न्यवपीत धूमिका**  
 **pea soup fog = pea soup**  
 **peat** (vegetable matter decomposed in water, semicarbonized) **जीर्णक** *n.*  
 **peat bog** (a bog containing peat) **जीर्णक-पंक**  
@@ -3895,7 +3895,7 @@ I.509) **कंकतांग** *n.*(कंकत comb)
 **Pectinidae** *Zool.***कम्बुका-वंश** *m.*  
 **pectinose = arabinose**  
 **pecto-cellulose** (*pect*ic+*Cellulose)**Chem.***आश्लेषि-कोशाधु**  
-**pectolite** (Gk. *pektos* 'compacted')*****Mineral.* (a mineral in crystal aggregates or fibrous
+**pectolite** (Gk. *pektos* 'compacted')*Mineral.* (a mineral in crystal aggregates or fibrous
 
 masses)
 
@@ -3916,7 +3916,7 @@ masses)
 usually indicates some morbid change in the lungs फुप्फुस) **फुप्फुस-स्वन** m.
 
 **pectose** *Chem.* **आश्लेषधु** *n*.  
-**peculate** *vb*. **** *Law* ** मोषण**  
+**peculate** *vb*.  *Law* ** मोषण**  
 **peculation** *Law* (embezzlement of public money) **मोषण***n*.  
 **peculiar** *adj*. **विशेष, विशिष्ट, प्रविशेष**(when necessary to be distinguished from 'special')  
 
@@ -3935,7 +3935,7 @@ pecuniary damage आर्थिक हानि
 pecuniary dealing आर्थिक व्यवहार**  
 **pecuniary demonstrative legacy** *Law* **आर्थिक प्रदर्शित रिक्थ**  
 **pecuniary embarrassment आर्थिक संकट**  
-**pecuniary injury****आर्थिक क्षति**  
+**pecuniary injuryआर्थिक क्षति**  
 **pecuniary interest आर्थिक हित, आर्थिक स्वार्थ**  
 **pecuniary jurisdiction** **आर्थिक क्षेत्राधिकार** (Const.)  
 **pecuniary legacy आर्थिक रिक्थspecific legacy विशिष्ट रिक्थ**  
@@ -3992,7 +3992,7 @@ Pedetidae प्लुत-वंश** *m.*
 **pedial class** *Cryst.* (the class without any symmetry) **असंमितीय वर्ग  
 Pediatrics बालरौगिकी** *f.,***बालरोग-विज्ञान** *n.*  
 **pediatrics department बालरोग-विभाग  
-pedicel 1.वृन्त** *n. **2*****=pedicle = peduncle***Zool.* (stem or stalk) **वृन्त** *n.***3.***Bot.* (one of the
+pedicel 1.वृन्त** *n. **2*=pedicle = peduncle***Zool.* (stem or stalk) **वृन्त** *n.***3.***Bot.* (one of the
 
 ultimate divisions of a common peduncle, bearing a single flower) **उपवृन्त, पुष्पवृन्त, वृन्त** *n.*
 
@@ -4154,7 +4154,7 @@ genus) **बकतुण्डी-प्रजाति** (cf. काकतु�
 **Pelargoniumcitriodorum निम्बुवास-बकतुण्डी**  
 **pelargono-***Chem.* **बकतुण्ड-**  
 **pelargonyl** *Chem.***बकतुण्डल** *n.*  
-**Pelecanidae** *Aves* **पाशगल-वंश.***m.*****(पाशगल occurs in राजनिघण्टु)  
+**Pelecanidae** *Aves* **पाशगल-वंश.***m.*(पाशगल occurs in राजनिघण्टु)  
 **Pelecanus** *Aves* **पाशगल-प्रजाति**  
 **Pelecypoda** (Gk. *pelekus* 'hatchet'from sanskrit परशु)**परशुपादाः** *m.pl.*  
 
@@ -4204,7 +4204,7 @@ stalk)**सवृन्ताः***m.pl.*
 **peludo** (Sp., 'hairy' A six-banded hairy armadillo *Dasypus sexcinctus*) **रोमपद** *m.*  
 **Pelvetia** *Bot.*(the thallus shows a conspicuous groove सीता) **सीताघास-प्रजाति**  
 **Pelvetia canaliculata** (channeled or holy wrack) **सामान्य सीताघास**  
-**pelvic** *adj*. *Anat.*****श्रौण, श्रोणि-  
+**pelvic** *adj*. *Anat.*श्रौण, श्रोणि-  
 **pelvic abscess श्रोणि-विद्रधि**  
 **pelvic arch = pelvic girdle श्रोणि-चक्र** *n.*  
 **pelvic cellulitis ** श्रौण कोशोतिकोप**  
@@ -4218,17 +4218,17 @@ pelvimeter श्रोणि-मान** *m.*
 **pelvis** *Anat.***श्रोणि** *f.* **1.**(basin-like structure) **श्रोणि-पात्र** *n.***2.**(cavity of the pelvis) **श्रोणि-खात***n.*  
 **pelvis of the kidney** *Anat.* **वृक्क-निवाप** *m.*  
 **pelvi-sternum** *Zool.***श्रोणि-उरोस्थि  
-pelycosaur** *Paleontol.*****(Dimetrodon, a typical pelycosaur, had the neural spines enormously
+pelycosaur** *Paleontol.*(Dimetrodon, a typical pelycosaur, had the neural spines enormously
 
-developed to extend a yard or so above the back. They were undoubtedly united by skin in life to form a saillike structure — Swinnerton p. 334, Romer p.225) **शीतसरट** *m.*****(शीत 'sail' occurs in जातकमाला of आर्यशूर *Cf.* Marathi शीड)
+developed to extend a yard or so above the back. They were undoubtedly united by skin in life to form a saillike structure — Swinnerton p. 334, Romer p.225) **शीतसरट** *m.*(शीत 'sail' occurs in जातकमाला of आर्यशूर *Cf.* Marathi शीड)
 
-**pen 1.लेखनी** *f.***मसीपथ** *m.***2.**(enclosure for animals) **व्रज** *m.***3.***Zool.*****(Lat. *penna* 'feather'. The
+**pen 1.लेखनी** *f.***मसीपथ** *m.***2.**(enclosure for animals) **व्रज** *m.***3.***Zool.*(Lat. *penna* 'feather'. The
 
 internal horny shell of a squid)**शृंगिपत्र** *n.* (see fig. in Web.)
 
 **Pen.** (pension) **नि.वे.** (निवृत्ति-वेतन)  
 **pen- = pent- पञ्च-  
-Penaeus** *Zool.*****(has a dendrobranchtype of gill) **वृक्षक्लोमि-प्रजाति  
+Penaeus** *Zool.*(has a dendrobranchtype of gill) **वृक्षक्लोमि-प्रजाति  
 penal** *adj. Law* **दाण्डिक, दण्ड-**
 
 **criminal आपराधिक**
@@ -4264,7 +4264,7 @@ penalty clause शास्ति-खण्ड
 penalty of death प्राण-दण्ड  
 penance तपस्या, तपश्चर्या** *f.*  
 **pen carbon लेखनी-प्रांगार  
-pencatite** *Petrog.*****(a limetone containing calcite चूर्णिज and brucite भ्रोदिज)**भ्राचूर्णाश्म***m.*  
+pencatite** *Petrog.*(a limetone containing calcite चूर्णिज and brucite भ्रोदिज)**भ्राचूर्णाश्म***m.*  
 **pencil 1.अंकनी** *f.***B₁, B_(2,)B_(3,)B₄ pencil का_(१), का_(२), का_(३,) का_(४) अंकनी**
 
 **diamond pencil हीरांकनी  
@@ -4272,7 +4272,7 @@ glass marking pencil काचांकनी
 H B pencil क का अंकनी  
 lead pencil सीसांकनी  
 skin-marking pencil चर्मांकनी  
-2.**(as of lines of rays) **सूची** *f.***3.***Math.*****(a one parameter प्राचल family) **प्राचली** *f.*
+2.**(as of lines of rays) **सूची** *f.***3.***Math.*(a one parameter प्राचल family) **प्राचली** *f.*
 
 **pencil cedar = red cedar** (*Juni-perus virginiana*) **रक्त हृपुषा  
 pencil drawing अंकनी-उद्रेख  
@@ -4890,7 +4890,7 @@ P.E.O.** (Projeot Executive Officer)**प. नि. अ.** (परियोजन
 peon book डाक-पुस्तक  
 peony = paeony  
 peony poppy** (*Papaver somniferum*)**अहिफेन** *m.* (B.,M.)  
-**people लोक***m.*****(Const.), **जनता** *f.*(Const.)  
+**people लोक***m.*(Const.), **जनता** *f.*(Const.)  
 **people generally सामान्य जनता  
 people of a district मण्डल के लोग,मण्डल-वासी  
 people of a state राज्य के लोग, राज्य-वासी  
@@ -4949,7 +4949,7 @@ peptolysis पाचांशन***n.*
 pepton-aemia पाचा-रक्तता** *f.*  
 **peptonate** (*peptone* + -ate) *Biochem.***पाचायीय***n.*  
 **peptone***Biochem.* **पाचा** *f.*  
-**pepto-nephridia** *Zool.*****(pharyngealnephridia, they are digestive in function)
+**pepto-nephridia** *Zool.*(pharyngealnephridia, they are digestive in function)
 
 **पाचि-**
 
@@ -4973,7 +4973,7 @@ per द्वारा, प्रति**
 
 **as per contra** *Com.***यथान्यपार्श्वे, जैसादूसरे पार्श्वमें, जैसा दूसरी ओर**
 
-**Peracarida** *Zool.*****(Gk. *pera*'pouch'+ *Acarida.* The young are developed in a brood pouch
+**Peracarida** *Zool.*(Gk. *pera*'pouch'+ *Acarida.* The young are developed in a brood pouch
 
 and escape at a
 
@@ -4982,7 +4982,7 @@ and escape at a
 **peracidite = silexite  
 perambulation परिभ्रमण** *n.*  
 **perambulatorशिशुयान** *n.* **बच्चागाड़ी  
-Perameles** *Zool.*****(Gk. *pera* 'pouch'. Genus of bandicoots)**धानाखु-प्रजाति  
+Perameles** *Zool.*(Gk. *pera* 'pouch'. Genus of bandicoots)**धानाखु-प्रजाति  
 Perameles obesula** (Lat. obesus 'stout, fat') **पीन धानाखु  
 Peramelidae** *Zool.* (family consisting of the bandicoots) **धानाखु-वंश** *m.*  
 **Peramus** *Zool.* (Gk. *pera* 'pouch' + Lat. *mus* 'mouse')**दृतिमूष-प्रजाति  
@@ -5032,7 +5032,7 @@ perception of sound ध्वनि-ग्रहण** *n.*
 perceptual** *adj. Psychol.* **प्रातिबोधिक  
 perch** (akin to Sanskrit पृश्नि according to Web.) **पृश्नि** *m.* (a fish)  
 **perched blocks** *Geol.***अधिश्रित खण्ड  
-percher** *Zool.*****(feet of sparrow) **यष्टिसादी (पद)  
+percher** *Zool.*(feet of sparrow) **यष्टिसादी (पद)  
 perching bird यष्टिसादी पक्षी  
 perching mechanism** *Zool.* **यष्टिसदन-रचना  
 perchloric acid अतिनीरिक अम्ल  
@@ -5046,7 +5046,7 @@ percolating waters पारच्यावी स्रोत
 percolation पारच्यवन, अतिच्यवन, रिसना  
 percolation losses पारच्याव-हानि  
 Percomorphi** *Zool.***पृश्नि-गण** *m.*  
-**per contra** *Com.*****(on the other side) **अन्य-पार्श्वे, दूसरे पार्श्वमें  
+**per contra** *Com.*(on the other side) **अन्य-पार्श्वे, दूसरे पार्श्वमें  
 per contra credit अन्यपार्श्वे आकलन  
 per cubic capacity प्रति घन धारिता  
 percussion अभिताडन** *n.*  
@@ -5067,16 +5067,16 @@ percylite तासीनीरिज** *m.* (ता- for ताम्र copper
 Perdix** *Aves* **सूत्रकण्ठ-प्रजाति  
 Perdix cinerea** (Lat. *cinerea* 'ash-colored' धूसर) **धूसर सूत्रकण्ठ  
 Perdix rubra** (red partridge) **रक्त सूत्रकण्ठ  
-Pere David's vole** **Mamm.********(*Microtus*
+Pere David's vole** **Mamm.(*Microtus*
 
 *melanogaster*)
 
 **असितोदर शाद्वलमूष**
 
-**peregrine** *adj. Zool.*****(denotes widely dispersed species) **परिव्राजी** (-इन्)  
+**peregrine** *adj. Zool.*(denotes widely dispersed species) **परिव्राजी** (-इन्)  
 **peregrine falcon** (a courageous and swift falcon) **क्षिप्र-श्येन** (ancient word)  
 **pereion** (Sanskrit पर्ययण) *Zool.***पादोरस्** *n.*  
-**pereiopod** *Zool.*****(a thoracic limb) **उरः-पाद** *m.*  
+**pereiopod** *Zool.*(a thoracic limb) **उरः-पाद** *m.*  
 **peremptorily आज्ञापक रूप से  
 peremptory** *adj.* **1.अनतिक्रम्य, अन्तिम 2.**(incontrovertible) **अविवाद्य3.**(authoritative in the
 
@@ -5089,7 +5089,7 @@ peremptory order अनतिक्रम्य आदेश
 perennate** *vb. Bot.***चिरजीवन, बहुवर्षजीवन, बहुऋतुजीवन, वर्षानुवर्षजीवन, वर्षानुवर्ष उगना  
 perennating organs** *Bot.***चिरजीवांग** *n.*  
 **perennation** *Bot.* **चिरजीविता, बहुवर्षजीविता, बहुऋतुजीविता, वर्षानुवर्षजीविता** *f.*  
-**perennial 1.**(lasting or continuing through the year) **सांवत्सर 2.***Bot.*****(lasting more than two
+**perennial 1.**(lasting or continuing through the year) **सांवत्सर 2.***Bot.*(lasting more than two
 
 years)
 
@@ -5559,7 +5559,7 @@ perichaetine** *adj. Zool.* **परिदृढरोम** (peri परि, cha
 **perichondral ossification** *Zool.***परिकास्थि-अस्थीयन  
 perichondrium** *Anat.* **कास्थ्यावरण***n.*  
 **perichordal tube** *Zool.* **परिपृष्ठमेरु-नाल  
-periclase** *Mineral.*****(native magnesia)**भ्राजा** *f.*  
+periclase** *Mineral.*(native magnesia)**भ्राजा** *f.*  
 **periclinal** *adj. Bot.*(parallel with the circumference) **परीत**  
 
 **periclinal chimaeras** *Bot.*(in which tissues of one element encirclethose of the other) **परीत**
@@ -5572,19 +5572,19 @@ Pericolpa quadrigata चतुष्पार्श्वपरिदल
 Pericrocotus** *Aves* **विष्फुलिंग-प्रजाति** (विष्फुलिंग ancient name)  
 **pericycle** *Bot.*(surrounding the stele)**मध्यरम्भ-वेष्ट** *m.*  
 **periderm** (outer bark) **बाह्यवल्क***m.***= cork त्वक्षा  
-Peridermium** *Bot.*****(peri- परि+Greekderma वल्क) **परिवल्क-प्रजाति  
+Peridermium** *Bot.*(peri- परि+Greekderma वल्क) **परिवल्क-प्रजाति  
 Peridermiumpini acicola** (needle fungus) **सूची-सरल परिवल्क  
 Peridermium pini corticola** (pine-blister)**सामान्य सरल-परिवल्क  
 peridiole** *Mycol.***बीधावरणिका** *f.*  
 **peridiolum = peridiole**  
 
-**peridium** *Mycol.* (the wall or limiting membrane of a sporangium)**बीधावरण***n.*****(बीधाfor
+**peridium** *Mycol.* (the wall or limiting membrane of a sporangium)**बीधावरण***n.*(बीधाfor
 
 बीजागुधानी sporangium)
 
 **peridot** (a deep yellowish-green variety of chrysolite) **प्रहरितोपल** *m.*  
 **peridotite** *Petrog.***प्रहरिताश्म***m.*  
-**perigee** *Astron.*****(that point in the orbit of the moon nearest to theearth) **भू-समीपक** *m.*  
+**perigee** *Astron.*(that point in the orbit of the moon nearest to theearth) **भू-समीपक** *m.*  
 **perigone***Bot.***= perianth  
 perigonium** *Bot.*(cluster of bracts surrounding the antheridia) **परि-पुंधानी** *f.*  
 **perigynium** *Bot.***1.परिवर्ध** *m.,***2. परियोनि***f.*  
@@ -5594,7 +5594,7 @@ perigyny** *Bot.***परिजायता** *f.*
 perihaemal sinus** *Zool.* **परिशोण कोटर  
 perihaemal system** *Zool.* **परिशोण संहति  
 perihaemal vessel** *Zool.* **परिशोण वाहिनी  
-perihelion** *Astron.*****(that point... which is nearest to the sun) **सूर्यसमीपक** *m.*  
+perihelion** *Astron.*(that point... which is nearest to the sun) **सूर्यसमीपक** *m.*  
 **perihelion passage***Astron.***सूर्यसमीपक मार्ग**  
 **periintestinal** *adj. Zool.* **पर्यान्त्र  
 periintestinal sinus** *Zool.* **पर्यान्त्रकोटर  
@@ -5623,9 +5623,9 @@ perinephrostomial ampulla** *Zool.***पर्युत्सर्गद्व�
 perineum = perinaeum  
 perineurium** *Anat.***चेताकञ्चुक** *m.*  
 
-**period 1.अवधि, काल, समय** *m.***2.**(a class hour) **घण्टा, 3.***Geol.***युग** *n.******(for synonyms see*
+**period 1.अवधि, काल, समय** *m.***2.**(a class hour) **घण्टा, 3.***Geol.***युग** *n.**(for synonyms see*
 
-era)*,***4.***Math.*****(acycle) **आवर्त, आवर्तकाल** *m.*
+era)*,***4.***Math.*(acycle) **आवर्त, आवर्तकाल** *m.*
 
 **periodic** *adj.* **1.नियतकालिक, 2.आवर्तिक, आवर्ती** (-इन्)**, आवर्तीय  
 per-iodic** *adj. Chem.***अति-जम्बिक  
@@ -5785,7 +5785,7 @@ swellings—Basu) **सामान्य शोफदुग्ध**
 **Periptychidae** *Zool.***पुरुकूटाखु-वंश** *m*.  
 **Periptychus** *Zool.*(multicuspid molars—PH. II.567. Were no larger than a rat—Romer p. 305)
 
-**पुरुकूटाखु-प्रजाति** (पुरुकूट multicuspid+आखु****rat)
+**पुरुकूटाखु-प्रजाति** (पुरुकूट multicuspid+आखुrat)
 
 **perisarc** *Zool.*(outer covering of a hydroid) **पर्यावर** *m.*  
 **perisaturnium** *Astron.***शनि-समीपक***m.*  
@@ -5808,7 +5808,7 @@ perisperm** *Bot.***परिस्यून** *m.*(short for परि-भ्�
 **perissodactyl** *Zool.***विषमांगुल** *m.*  
 **Perissodactyla** (suborder)**विषमांगुल-अनुगण** *m*. (they have an odd विषम number of toes
 
-अंगुल)*Cf.*******Artiodactyla समांगुल-अनुगण**
+अंगुल)*Cf.***Artiodactyla समांगुल-अनुगण**
 
 **Perissospiza** *Aves* **सारचञ्चु-प्रजाति** (सार 'hard, firm')  
 **peristalsic** *Physiol.***क्रमसंकोच**, (waves of contraction) **संकोचनतरंग-तरंग** *m.***तरंग-गति** *f.*  
@@ -6556,11 +6556,11 @@ Perseid** *Astron.***उपवृष-उल्का** *f.*
 **persephonion = frogfoot** (*Verbena officinalis*)**भेकपद** *m.*  
 **Perseus = Rescuer, Champion** *Astron.***उपवृष***m.*
 
-****α**Persei = Algenib = Mirfak प्रथम**
+α**Persei = Algenib = Mirfak प्रथम**
 
 **उपवृष***m.*  
-****β**Persei, var. = Demon Star = Algol द्वितीय उपवृष, चर** *m.*  
-****ο**Persei = Atik पञ्चदश उपवृष** *m.*
+β**Persei, var. = Demon Star = Algol द्वितीय उपवृष, चर** *m.*  
+ο**Persei = Atik पञ्चदश उपवृष** *m.*
 
 **perseverance अभिनिवेश** *m.* (from हलायुध)  
 **Persia** *Geog.***पारसदेश, पारसीक** *m.*  
@@ -6591,7 +6591,7 @@ brilliance)
 
 **Persian jackal** *Mamm.* **पारसीक शृगाल  
 Persian leopard** *Mamm.* **पारसीक द्वीपी  
-Persian lilac 1.**(*Melia azedarach*)**महानिम्ब***m.*****(B., N., M., Sinh.)**, बकायन 2.**(a colour, bluish-red
+Persian lilac 1.**(*Melia azedarach*)**महानिम्ब***m.*(B., N., M., Sinh.)**, बकायन 2.**(a colour, bluish-red
 
 रक्तानील in hue, saturation and brilliance medium मध्य) **मध्यरक्तानील**
 
@@ -6626,7 +6626,7 @@ persilicic = acid** *adj. Petrog.***बहुसिकत**
 persistence 1.विलम्बन** *n.,* **अनुलम्बना** *f.***2.***Bot.***चिरलग्नता** *f.*  
 **persisteace of evergreen leaves सदाहरित पत्तोंकी चिरलग्नता  
 persistence of vision दृष्टि-अनुलम्बना, दृष्टि-विलम्बना  
-persistent** *adj.* **1.निरन्तर, बार बार, लगा-तार 2.***Bot.*****(remaining long attached)**चिरलग्न 3.**(as, a
+persistent** *adj.* **1.निरन्तर, बार बार, लगा-तार 2.***Bot.*(remaining long attached)**चिरलग्न 3.**(as, a
 
 disease) **अतिस्थायी** (-इन्)**4.***Zool.***अतिस्थायी, स्थायी**(-इन्)
 
@@ -6882,7 +6882,7 @@ personal pay bill वैयक्तिक-वेतन-देयक
 
 personal property
 
-Law****
+Law
 
 (the person has such an exclusive right in thething that it cannot
 
@@ -7399,7 +7399,7 @@ petiolate** *adj. Bot.***पर्णवृन्ती** (-इन्)**, सव
 petiolate leaf** *Bot.* **सवृन्त पर्ण  
 petiole = leafstalk पर्णवृन्त** *n.*
 
-**= mesopodium मध्यपादक** *m.*****(पादक podium)
+**= mesopodium मध्यपादक** *m.*(पादक podium)
 
 **petiole climber** *Bot.***पर्णवृन्त-आरोही  
 petition** *n.* **याचिका** *f.* (Const.) (याचिका occurs in Kāśikā 3.3.110)  
@@ -7427,14 +7427,14 @@ petit jury** *Law* **लघु शप्तजनी
 petit larceny छोटी चोरी, लघु स्तेय  
 petits pois = French pea क्षुद्रकलाय  
 petraceus** *Bot.Tax.***प्रस्तर-  
-Petrarca** *Zool.*****(parasitic in Actinozoa पुष्पजीवाः— PH.
+Petrarca** *Zool.*(parasitic in Actinozoa पुष्पजीवाः— PH.
 
 I.435) **पुष्पजीवि-प्रजाति  
 petrean** *adj.* (rocky)**शैलीय  
 petrel** *Aves* **तरंगिका** *f.*  
 **Petricola** *Zool.* (a genus of molluscs living in rocks) **शिलावासि-प्रजाति  
 petricolous** *adj. * (living in rocks)**शिलावासी** (-इन्)  
-**petri dish** *Bact.*****(used for plate cultures संवर्ध) **संवर्ध-शरावक  
+**petri dish** *Bact.*(used for plate cultures संवर्ध) **संवर्ध-शरावक  
 petrifaction 1.अश्मीभवन** *n.,* **अश्मीभाव** *m.***2.**(a petrified body) **अश्मीभूति** *f.*  
 **petrifactive** *adj.* **अश्मीकर  
 petrifiable** *adj.* **अश्मीभाव्य  
@@ -7444,7 +7444,7 @@ petrified wood अश्मीभूत काष्ट
 petrifier अश्मीकर, अश्मीभव** *m.*  
 **petrify** *vb.* **अश्मीकरण, अश्मीभवन  
 petro- 1.**(rock) **शैल- 2.**(stone) **अश्म-  
-Petrobium** *Bot.*****(a genus of trees known whitewood or 'rock plant of St. Helena') **शिलाद्रु-प्रजाति  
+Petrobium** *Bot.*(a genus of trees known whitewood or 'rock plant of St. Helena') **शिलाद्रु-प्रजाति  
 Petrobium arboreum सामान्य शिलाद्रु  
 Petrogale** *Zool.***शैलधाकुरंगक-प्रजाति  
 Petrogale penicillata सामान्य शैलधाकुरंगक  
@@ -7500,7 +7500,7 @@ Petromyzoidae = Petromyzontidae** *Zool.***मीनलागि-वंश** *m.
 Petronia** *Aves* **शैलकुलिंग-प्रजाति** (rock शैल, sparrow कुलिंग; कुलिंग occurs in भावप्रकाश and चरक)  
 **petroselinic acid** *Chem.***अविप्रियिक अम्ल  
 petroselinolic** *adj. Chem.* **अविप्रियैलिक  
-Petroselinum** *Bot. * (containing the common garden parsley)****अविप्रिया-प्रजाति  
+Petroselinum** *Bot. * (containing the common garden parsley)अविप्रिया-प्रजाति  
 petrous bone प्रस्तरास्थि  
 petrous portion** *Anat.***प्रस्तर-भाग  
 petticoat 1.अर्धोरुक** *n.*(from हलायुध)**2.=cowl** *Rly.*  
@@ -7556,12 +7556,12 @@ Peucedanumgraveolens** (anet, dill, dilly) **सामान्य सुपु�
 
 सुवा, Deccan *sayi*, Guj. *suah*, Hin. Pan. सोया, Mar. शेपु, सुवा, Tel. *sompa*)
 
-**Peucedanum nagpurense** (found in Bihar and****Orissa) **उत्कल-सुपुष्पिका**  
+**Peucedanum nagpurense** (found in Bihar andOrissa) **उत्कल-सुपुष्पिका**  
 **pewit = peewit  
 pewter** (alloy containing 80 to 90 per cent tin) **अधित्रपु** *n*.  
 **Peyer's patches = noduli lymphatici aggregati =agminated follicles = aggregate nodules**
 
-*Zool.***समूह-ग्रन्था*****f.*
+*Zool.***समूह-ग्रन्था*f.*
 
 **Peziza** *Bot.*(a genus of fungi कवक characterized by the cup-shaped ascomata) **चषकवक-**
 
@@ -7603,7 +7603,7 @@ scale = Sorensen scale) **समु** (संकेन्द्रण+उ hydrog
 **transition *p*H परीवर्त समु**
 
 **Phabinac***Aves* **हारीतानुवंश** *m*. (हारीत ancient word)  
-**Phaed = Phad =** ****γ** Ursae Majoris** *Astron.***तृतीय ऋषि, पुलस्त्य***m*.  
+**Phaed = Phad =** γ** Ursae Majoris** *Astron.***तृतीय ऋषि, पुलस्त्य***m*.  
 **phacella = gastric filament** *Zool.*जठरांशु *m*.  
 **Phacidiales** *Bot.*(Gk. *phakos* 'lentil', The ascocarp is more or less flat—McLean I.270) **मसूरक-**
 
@@ -8690,7 +8690,7 @@ phene** *Chem.* **दर्शेन्य** *n.*
 **phenetidine red***Col.Ind.* **दर्शदेयीरक्त  
 phenetidyl-phenacetin दर्शदेयल-दर्श-शुक्ति  
 phenetol** *Chem.* **दर्शदव** *m.*  
-**phenetole** \[*phen*yl+*-et-*(ethyl)+-*ole*\]*****Chem.***दर्शदवा** *f.*  
+**phenetole** \[*phen*yl+*-et-*(ethyl)+-*ole*\]*Chem.***दर्शदवा** *f.*  
 **phenetole red** *Col.Ind.* **दर्शदवा रक्त  
 phenetyl दर्शदल** *n.*  
 **Phengodes प्रभासिक-प्रजाति  
@@ -8880,7 +8880,7 @@ phloem parenchyma** *Bot.***अधोवाही जीवितक**
 
 **phlogiston** (*ϕ*) *Old Chem.***दाहतत्त्व** *n*. (द)  
 **phlogopite** *Mineral.*(a magnesium mica) **भ्राजाभ्रक** *n*.**brown mica बभ्र अभ्रक**  
-**-phloic** *Bot. **-*****अधोवाहिक**
+**-phloic** *Bot. **-*अधोवाहिक**
 
 **amphiphloic उभयाधोवाहिक**  
 **ectophloic बाह्याधोवाहिक  
@@ -8915,16 +8915,16 @@ brilliance) **प्रावनीलरक्त**
 
 **phlox purple** (a colour, reddish blue-red नीलातिरक्त in hue, of high उत् saturation) **उन्नीलातिरक्त**  
 
-**Phlyetacnaspis** *Bot.*****(Gk. *phlyktis*'blister') **स्फोटकवच-प्रजाति  
+**Phlyetacnaspis** *Bot.*(Gk. *phlyktis*'blister') **स्फोटकवच-प्रजाति  
 phlyetenule अलजि** *f.* (from सुश्रुत)  
-**Phlyctidium** *Bot.*****(Gk. *phlyktidos* 'blister') **स्फोटिका-प्रजाति  
+**Phlyctidium** *Bot.*(Gk. *phlyktidos* 'blister') **स्फोटिका-प्रजाति  
 Phlyctidium brevipes लघुपद-स्फोटिका  
 Phlyctochytrium** *Bot.* **कवघटी-प्रजाति** (कव- for कवक fungus+घटी = Gk.*chytrion* 'a pitcher')  
 **Phlyctochytrium** **vernale** **वासन्त-कवघटी**  
 **-phobia -भी** *f.*  
 **-phobic -वर्जी  
 phobic reaction** *Bot.* **भय-प्रतिक्रिया  
-Phobos** *Astron.*****(the inner satellite of Mars)**आन्तर उपमंगल** *m.*  
+Phobos** *Astron.*(the inner satellite of Mars)**आन्तर उपमंगल** *m.*  
 **phobotactic** *adj.* **भयापसारी** (-इन्)  
 **phobotactic organism** *Bot.***भयापसारी जीव  
 phobotaxis भयापसारणा** *f.*  
@@ -8952,7 +8952,7 @@ Phoenicurinae** *Aves* **रक्तपुच्छानुवंश** *m.*(�
 **phoenix अमर-पक्षी**(-इन् ) *m.*  
 **Phoenix** *Astron.***उद्याम***m.*
 
-****α**Phoenicis =Nair al Zaurak** *Astron.* **प्रथम उद्याम**
+α**Phoenicis =Nair al Zaurak** *Astron.* **प्रथम उद्याम**
 
 **Phoenix** *Bot.* **खर्जूर-प्रजाति  
 Phoenix acaulis** (a low almost stemless palm) **अस्तम्भ खर्जूर** (अस्तम्भ *acaulis* 'stemless')  
@@ -8978,8 +8978,8 @@ Pholadidae** *Zool.***छिद्रचूर्णि-वंश** *m.*
 
 hole-boring mollusks called piddocks) **छिद्रचूर्णि-प्रजाति**
 
-**Pholidogaster** *Paleontol.*****(Gk. *pholidos*'scale') **शल्कजठर-प्रजाति  
-Pholidophoridae** *Paleontol.*****(in general form and in shape of the fins these bear markedly
+**Pholidogaster** *Paleontol.*(Gk. *pholidos*'scale') **शल्कजठर-प्रजाति  
+Pholidophoridae** *Paleontol.*(in general form and in shape of the fins these bear markedly
 
 close resemblance to the modern herringlike fishes—Norman p.362) **बहुलादृश-वंश** *m.*(बहुला herring)
 
@@ -8999,15 +8999,15 @@ phonetist शिक्षाशास्त्री** (-इन्) *m.*
 **-phor, -phore -भर, -धर  
 -phoria -आविवर्तिषा***f.*  
 **-phoric -भर, -धर  
-Phormium** *Bot.*****(Gk. *phormos* 'basket', the fibres of the leaves being used for
+Phormium** *Bot.*(Gk. *phormos* 'basket', the fibres of the leaves being used for
 
 basket-making— PNS.) **करण्डपर्ण-प्रजाति**
 
 **Phormium tenax** (*tenax* 'tough' दृढ) **दृढ करण्डपर्ण  
 phorochrome orange R = neochrome orange R  
-phorone** *Chem.*****(cam*phor+*ace*tone*)**कर्पूरशौक्ता***f.*  
+phorone** *Chem.*(cam*phor+*ace*tone*)**कर्पूरशौक्ता***f.*  
 **Phoronida नालकृमि-वर्ग** *m. * (class वर्ग)  
-**Phoronis** *Zool.*****(each worm is enclosed in a tube, within which it is capable of being completely
+**Phoronis** *Zool.*(each worm is enclosed in a tube, within which it is capable of being completely
 
 retracted—PH.
 
@@ -9024,7 +9024,7 @@ phorozooid धरसंजीव** *m.*
 
 (cf. द्विज)
 
-**phosgenite** (chlorocarbonate of lead) **सीनीरांगिज** *m.*****(सी-for सीस lead, नीर- chloro-, अंग- for
+**phosgenite** (chlorocarbonate of lead) **सीनीरांगिज** *m.*(सी-for सीस lead, नीर- chloro-, अंग- for
 
 प्रांगारीय carbonate, -इज for खनिज mineral)
 
@@ -9650,7 +9650,7 @@ photography भाचित्रणा** *f.*
 **photo interpretation group** *Mil.***भाचित्र-निर्वचन-वर्ग  
 photo interpretation team** *Mil.* **भाचित्र-निर्वचन-समूह  
 photo-lithography = lithophotography  
-photom = footcandle** *Ophthalmol.*****(one lumen per sq.ft.) **पाद-चकास** *m.*  
+photom = footcandle** *Ophthalmol.*(one lumen per sq.ft.) **पाद-चकास** *m.*  
 **photo-meter** *Phys.***भा-मान** *m.*  
 **photometric test** *Phys.***भामितीय परीक्षा  
 photo-metry भा-मिति** *f.*  
@@ -9698,7 +9698,7 @@ Photostomias** *Zool.***भामीन-प्रजाति**
 **phototropic प्रकाशावर्तिकheliotropic सूर्यावर्तिक  
 phototropism** *Biol.***प्रकाशावर्तना** *f*.  
 **Photuris** *Zool.***खकाश-प्रजाति**  
-**Photuris****pennsylvanica पीत खकाश**  
+**Photurispennsylvanica पीत खकाश**  
 **Phractamphibia** (subclass) **कवचोभयचर-अनुवर्ग***m*.  
 **Phragamaticola** *Aves* **सरसा-प्रजाति**(haunt humid and marshy places)  
 **-phragm** *Zool.***-अन्तर्वर्ध** *m*.  
@@ -9771,7 +9771,7 @@ p.401)**पट्टवर्त्म-प्रजाति**
 **phthalo-** *Chem*. **व्युत्तैल-**  
 **-phthalone** *Chem*.**व्युत्तैला***f*.  
 **phthalyl** *Chem*. **व्युत्तैरल** *n*. (व्युत्तैल+ल)  
-**-phthene** *chem. **-*****उत्तैलेन्य** *n.***thio-phthene** **गन्धोत्तैलेन्य**  
+**-phthene** *chem. **-*उत्तैलेन्य** *n.***thio-phthene** **गन्धोत्तैलेन्य**  
 **phthinoid chest** *Med*. **यक्ष्म-वक्षस्**  
 **Phthirius** *Zool*. (a genus to which the crab louse belongs) **कर्कटयूका-प्रजाति**  
 **Phthirius** **pubis सामान्य कर्कटयूका**  
@@ -10433,7 +10433,7 @@ affecting the relations and processes of society and industry) **निर्ब
 
 **physiogriomy** *Plant Ecol.* (the general outward appearance of a community) **रूपाकृति** *f.*  
 **physiographic climax** *Bot.* **भूम्याकारीय काष्ठा  
-physiographic factors** *Plant Ecol.*****(factorsinduced by the irregularity of the earth's surface;
+physiographic factors** *Plant Ecol.*(factorsinduced by the irregularity of the earth's surface;
 
 e.g. slope, aspect, exposure, shade etc.) **भूम्याकारीय कारक**
 
@@ -10549,7 +10549,7 @@ phytosterol तरु-सान्द्रव***m.*
 
 higher plants) **वृक्षविषालु**
 
-**pi (****π****) 1.***Math.***$\\frac{\\mathbf{circumference}}{\\mathbf{diameter}}$प्य$\\frac{\\mathbf{परिधि}^{}}{\\mathbf{व्यास}}$**
+**pi (π) 1.***Math.***$\\frac{\\mathbf{circumference}}{\\mathbf{diameter}}$प्य$\\frac{\\mathbf{परिधि}^{}}{\\mathbf{व्यास}}$**
 
 **2.**(in organic chemistry it isabreviated from*peri*परि)**परि**
 
@@ -10576,7 +10576,7 @@ Picea morinda** (Morinda-like cone— PNS. p. 84b) **आच्छुकाभर
 **Picea morindoides = Picea spinulosa  
 Picea smithiana = Picea morinda  
 Picea spinulosa शल्यकित रालसरल  
-Pici** *Aves*(suborder of woodpeckers)**काष्ठकुट्टानुगण** *m.*****(काष्टकुट्ट 'woodpecker’ ancient word,
+Pici** *Aves*(suborder of woodpeckers)**काष्ठकुट्टानुगण** *m.*(काष्टकुट्ट 'woodpecker’ ancient word,
 
 अनुगण suborder)
 
@@ -11309,7 +11309,7 @@ pileus** *Bot.* **छत्र** *n.*
 pilferer लघुचोर** *m.*  
 **pilfering लघुचौर्य***n.***, छोटी मोटी चोरी करना  
 pilgrim तीर्थयात्री** (-इन्)*m.*  
-**pilgrimage तीर्थयात्रा** *f.*****(Const.)  
+**pilgrimage तीर्थयात्रा** *f.*(Const.)  
 **pilgrim brown** (a colour, red-yellow रक्तपीत in hue, of low अवsaturation and low नि brilliance)
 
 **न्यवरक्तपीत**
@@ -11465,7 +11465,7 @@ betel nut—Basu. चामरपुष्प is a Sanskrit name for betel nut a
 **pine सरल** (ancient word), **सरल वृक्ष** *m*., **चीड़**  
 **pineal = pineal body = pineal gland***Anat*. **तृतीय-नेत्र-ग्रन्थि ** *m.*  
 **pineal apparatus** *Zool*. **तृतीय नेत्र ***n*.  
-**pineal eye****= median eye** *Anat*. **मध्यनेत्र, तृतीय नेत्र**  
+**pineal eye= median eye** *Anat*. **मध्यनेत्र, तृतीय नेत्र**  
 **pineal gland =pineal**  
 **pineal organ = epiphysis तृतीयनेत्रग्रन्थि**  
 **pineal plate** *Zool*. **तृतीयनेत्र-पट्ट**  
@@ -11487,14 +11487,14 @@ betel nut—Basu. चामरपुष्प is a Sanskrit name for betel nut a
 **pine moth** **सरल-शलभ**  
 **pinene** *Chem*. **निसरलेन्य** *n*.
 
-****α**-pinene** **अ- निसरलेन्य**  
-**β****-pinene आ-निसरलेन्य**
+α**-pinene** **अ- निसरलेन्य**  
+**β-pinene आ-निसरलेन्य**
 
 **pine-needle oil** **सरलसूची-तैल**  
 **pine-needle rust सरल-सूची-गैरिकneedle fungus** **सूची-कवक**  
 **pinery** (a pine forest) **सरल-वन***n*., 2. **चीड़ का जंगल**  
 **pine sawfly सरल-क्रकचमक्षी**  
-**pine-shoot tortrix****सरलप्ररोह-शलभ** *m*.  
+**pine-shoot tortrixसरलप्ररोह-शलभ** *m*.  
 **pine soot = oil black**  
 **pine timber** **सरल-प्रकाष्ठ, चीड़ की लकड़ी**  
 **pine weevil सरल-घुण**  
@@ -11664,7 +11664,7 @@ Tam. ताम्बूलम्, Tel. *tamula pataku*, Uri. *tambulo*)
 *morich,*Bom. *kala miri*, Cambodia *mrech*, Deccan काली मिरची, Guj. कालो मिरिच, Hin. काली मिरच, Mal. मरिचम्, Mar. काली मिरें, Pan. गोल मिर्च, Sind. *gul-mirien*, Sinh. *kalu miris*, Tel. मरिचमु, Uri. *golo moricho*)
 
 **Piper** **sarmentosum** (distribution— Malay Peninsula and Java) **मलयक-पिप्पली**  
-**Piper****sylvaticum गिरि-पिप्पली** (Ben.*pahari pipal*)  
+**Pipersylvaticum गिरि-पिप्पली** (Ben.*pahari pipal*)  
 **Piper** **trioicum** = **Pipernigrum**  
 **piper = black pepper**  
 **Piperaceae** *Bot*. **पिप्पली-कुल** *n.*  
@@ -11751,7 +11751,7 @@ fishery) **मीनक्षेत्र** *n.*
 **a Piscis Australis = Fomalhaut = Difda प्रथम कुम्भीर**
 
 **Piscis Volans = Flying Fish, Volans** *Astron*. **नभो-मीन** *m.*  
-****α**Piscium** **= Al Rischa** *Astron*. **प्रथम मीन** *m.*  
+α**Piscium** **= Al Rischa** *Astron*. **प्रथम मीन** *m.*  
 *ξ***Piscium** *Astron*. **रेवती** *f.*  
 **pisiform** *adj*. **चणकाकार, चणकरूप, कलाय**-**रूप**  
 **pisiform bone** **कलायास्थि** * n.*  
@@ -12497,12 +12497,12 @@ a moral sense) **पाप-प्रभव** *m.*
 plague-stricken rat महामारी-ग्रस्त चूहा  
 plague vaccine महामारी-लस** (लस short for रक्षाणुलस)  
 **plaice** (a fish) (Gk. *platys* 'broad, flat')**चिपिटिका** *f.*  
-**plain** *n.*****(extensive opon field) **प्रस्थ** *m.,***स्थली** *f.***, मैदान  
+**plain** *n.*(extensive opon field) **प्रस्थ** *m.,***स्थली** *f.***, मैदान  
 plain** *adj.* **1.साधारण, सरल, सीधा 2.**(unwritten, unprinted, as paper)**निरंक, अलिखित, अमुद्रित**
 
 **3.***Pharm.* **अमिश्रित**
 
-**plainant** *Law* **वादी** (-इन्)*****m.*  
+**plainant** *Law* **वादी** (-इन्)*m.*  
 **plain-backed mountain-thrush** *Aves***नेपाल-कस्तूरिका  
 plain bearing** *Road Const.* **साधारण भारु  
 plain brown wren** *Aves* **बभ्रु चिकुर  
@@ -12522,7 +12522,7 @@ plain scale साधारण श्रेणी
 plain sheets निरंक पत्र  
 plains paddy-field warbler** *Aves* **काम-रूप-शर-कूजिनी** (found in Assam काम-रूप)  
 **plain spirit अमिश्रित प्रासव  
-plaint** *Law* **वादपत्र** *n.*****(used in Rajasthan)
+plaint** *Law* **वादपत्र** *n.*(used in Rajasthan)
 
 **statement कथन, वक्तव्य  
 plea प्रतिकथन  
@@ -13552,9 +13552,9 @@ many insects)**उपबर्हिका** *f.*
 **-plasis = -plasia  
 -plasm -अम्बु** *n.**,*** **-रस, -प्ररस** *m.*  
 **-plasm, -plasma** (a plastic formative material)**-घट, -घटन  
-plasma 1.***Mineral.* (green and faintly translucent) **हरिभासिज** *m.* (-इज for खनिज mineral)**,****2.***Biol.*
+plasma 1.***Mineral.* (green and faintly translucent) **हरिभासिज** *m.* (-इज for खनिज mineral)**,2.***Biol.*
 
-(protoplasm) **प्ररस***m.***,******3.***Pharm.* (a mixtureof starch मण्डand glycerol मधुरव)**मण्डमधुरव***m.***,******4.***Physiol.* (plasma is the precursorof serum लसी) **प्रलसी** *f.* (cf. प्रपितामह)**,** (fluid part of blood)**अस्राम्बु** *n.*
+(protoplasm) **प्ररस***m.***,**3.***Pharm.* (a mixtureof starch मण्डand glycerol मधुरव)**मण्डमधुरव***m.***,**4.***Physiol.* (plasma is the precursorof serum लसी) **प्रलसी** *f.* (cf. प्रपितामह)**,** (fluid part of blood)**अस्राम्बु** *n.*
 
 **plasma body अस्राम्बु-काय  
 plasma cell** *Zool.* **अस्राम्बु-कोशा  
@@ -13565,9 +13565,9 @@ plasmapheresis** *Med.***अस्राम्बु-हरण** *n.*
 plasmatic mass प्ररस-पुञ्ज  
 plasmatic membrane** *Bot.* **प्ररस-कला  
 plasmato- अस्राम्बु-, प्ररस-  
-plasmatoparous** *adj. Bot.*****(discharging the protoplasmic contents) **प्ररसोद्भावक  
+plasmatoparous** *adj. Bot.*(discharging the protoplasmic contents) **प्ररसोद्भावक  
 plasmatorrhexis** *Biol.* (disruption of acell) **कोशा-वर्ध्म***m.*  
-**-plasmia 1-अस्राम्बुता** *f.***,******2.**(from
+**-plasmia 1-अस्राम्बुता** *f.***,**2.**(from
 -plasm)**-घटता***f.*  
 **-plasmic** (from -plasm)**-घटीय  
 plasmic** *adj.* **1.**(plasmatic) **अस्राम्बुक, 2.**(protoplasmic) **प्ररसीय  
@@ -13584,7 +13584,7 @@ within which spores develop) **शाखिबीधा***f.* (बीधा for 
 **Plasmodiophora** *Bot.* **प्रारसिक-प्रजाति** (plasmodium प्ररसक)  
 **Plasmodiophora brassicae** (causes clubroot of cabbage कपिशाक)**कपिशाक-प्रारसिक  
 Plasmodiophorales** (order) **प्रारसिक-गोत्र** *n.*  
-**plasmodium** *Biol.* **1.प्ररसक** *m.*****(-क for -ode 'like')**,****2 = syncytium** *Zool.* **संकोशोति***f.*  
+**plasmodium** *Biol.* **1.प्ररसक** *m.*(-क for -ode 'like')**,2 = syncytium** *Zool.* **संकोशोति***f.*  
 **Plasmodium** *Zool.* (a genus containing the malaria parasites)**हिमज्वरी-प्रजाति  
 Plasmodium falciparum** (causes malignant tertian fever) **दुष्टतृतीयक-हिमज्वरी  
 Plasmodium gallenicum कुक्कुट-हिमज्वरी  
@@ -13615,12 +13615,12 @@ plasmophagy प्ररसभक्षण, अस्राम्बुभक्
 **plasmotomy** *Zool.* **प्ररस-खण्डन***n.*  
 **-plast 1.**(an organized particle, granule, cell)**-प्रकोशा** *f.* (abridged from प्ररस-कोशा, as in
 
-जीवप्रकोशा bioplast)**,****2. = -blast** (formative cell) **-घट, -घटन**
+जीवप्रकोशा bioplast)**,2. = -blast** (formative cell) **-घट, -घटन**
 
 **plastein** *Biochem.* (a protein-like substance) **निप्रोभूजिन** *m.*  
-**plaster** *n.* **1.लेप***m.**,*****2.***Med.* **लेप** *m.**,*****3. = emplastrum** *Pharm.* **पटलेप** *m.**,***(लेप on पट cloth)
+**plaster** *n.* **1.लेप***m.**,*2.***Med.* **लेप** *m.**,*3. = emplastrum** *Pharm.* **पटलेप** *m.**,***(लेप on पट cloth)
 
-**4.लेप** *m.**,*****गारा*****,*****5.**(plaster of Paris) **दग्धाचूर्ण** *n.*
+**4.लेप** *m.**,*गारा*,*5.**(plaster of Paris) **दग्धाचूर्ण** *n.*
 
 **plaster** *vb.* **लेपन, लेप करना  
 plaster cast दग्धाचूर्ण-सञ्च  
@@ -13635,7 +13635,7 @@ plaster of Paris powder दग्धा चूर्ण-क्षोद
 plaster of pitch= emplastrum picis  
 plaster of soap = emplastrum saponis स्वफेन-पटलेप  
 plaster room दग्धाचूर्णलेप-कोष्ठ  
-plastic** *adj.* **1.**(capable of being moulded, modelled) **अभिघट्य, अभिघटन-*****,*** **2.***Biol., Surg.*(capableof undergoing metabolic transformation)**अभिघट्य,3.**(characterized by modeling) **अभिघटित**  
+plastic** *adj.* **1.**(capable of being moulded, modelled) **अभिघट्य, अभिघटन-*,*** **2.***Biol., Surg.*(capableof undergoing metabolic transformation)**अभिघट्य,3.**(characterized by modeling) **अभिघटित**  
 
 **plastic** *n.* **अभिघटन** *n.,* **नवदारु***m.*  
 
@@ -13659,7 +13659,7 @@ plasticizer अभिघटक** *m.*
 
 is altered by transplantation of tissue, etc.—Dorland) **ऊत्यन्तरण-शल्य**
 
-**plastics 1=plastic surgery, 2.**(plastic materials) **अभिघट्य** (द्रव्य)*****n.***, 3.अभिघटना** *f.*  
+**plastics 1=plastic surgery, 2.**(plastic materials) **अभिघट्य** (द्रव्य)*n.***, 3.अभिघटना** *f.*  
 
 **plastic strain** (permanent set, permanent deformation. Strain which persists when the
 
@@ -13750,7 +13750,7 @@ platinate** *n.Chem.* **महीय** *n.*
 platina yellow = gold pheasant** (colour)  
 **plating पट्टन, रोपण** *n.***silver plating रजत-रोपण** *n.*  
 **plating bath thermometer पट्ट-तापन-तापमान  
-platini-**(platinum)*****Chem.* **मह-** (महातु)  
+platini-**(platinum)*Chem.* **मह-** (महातु)  
 **platinic** *adj. Chems.* **महिक  
 platinic acid महिक अम्ल**  
 
@@ -13776,7 +13776,7 @@ platinoid** *adj.* (resembling platinum)**महात्वाभ
 platinous** *adj. Chem.***मह्य  
 platinum** *adj. Chem.* (portaining to or made of platinum; of the colour platinum) **महात्विय,**
 
-****
+
 
 **महातु-मय, महातु-वर्ण**
 
@@ -13814,7 +13814,7 @@ areorganized into divisions or platoons which take turns in using the class-room
 **platoon school = Gary school** *Educ.***विभाजित-पाठशाला  
 Platophrys** *Zool.* (a genus of flounder पृथा) **पार्थ-प्रजाति  
 Platophrys pedas सामान्य पार्थ  
-Platosomia** (subordor) **बिम्बग्राह-अनुगण** *m.*****(body discoid)  
+Platosomia** (subordor) **बिम्बग्राह-अनुगण** *m.*(body discoid)  
 **platter प्रशराव** *n.*  
 **plattnerite सीसजारेयिज** *m.* (सीस lead, जारेय for द्वि-जारेय di-oxide, -इज for खनिज mineral)  
 **platy** *adj.***पट्टवत्, पट्टमय  
@@ -13846,7 +13846,7 @@ platyrrhin** *n.* **चिपिटनास***m.*
 **Platyrrhini** *Zool.* **चिपिटनासाः***m.pl.*  
 **platyrrhinian** *Anthropom.* **1.***adj.* (having a short broad nose) **चिपिटनास,**
 
-**2.** *n.*****(a platyrrhinianperson) **चिपिटनास** *m.*
+**2.** *n.*(a platyrrhinianperson) **चिपिटनास** *m.*
 
 **platyrrhinic =platyrrhinian** *adj.*  
 **platyrrhinism चिपिटनासता** *f.*  
@@ -13874,7 +13874,7 @@ playing marbles क्रीडा-गोलिका, खेलने की �
 play of colours** *Chem.* **वर्ण-लीला** *f.*  
 **play-way** *Educ.* **क्रीडा-पद्धति***f.*  
 **playwright नाटककार** *m.*  
-**plea** *Law* **1.अभिकथन** *n.***,******2.प्रतिकथन***n.***,** **3.**(objection)**आपत्ति***f.***,******4.मिष** *n.,* **बहाना**
+**plea** *Law* **1.अभिकथन** *n.***,**2.प्रतिकथन***n.***,** **3.**(objection)**आपत्ति***f.***,**4.मिष** *n.,* **बहाना**
 
 **on the plea of के**
 
@@ -14498,7 +14498,7 @@ disc only)**बिम्बप्लावि-गण***m.*
 
 **plot** *n.* **1.**(of land) **खण्डक, भूखण्डक** *n.*
 
-****experimental plot संपरीक्षा- खण्डक**  
+experimental plot संपरीक्षा- खण्डक**  
 
 **sample plot न्यादर्श-**
 
@@ -14866,7 +14866,7 @@ ply
 . चलाना  
 ply for
 
-**hire****भाड़ेपर चलाना**  
+**hireभाड़ेपर चलाना**  
 
 plying for hire
 
@@ -15268,7 +15268,7 @@ Podaliriidae** (a family of large hairy bees) **रोमिमक्षी-व�
 Podargi** *Aves* **भेकमुखानुगण** *m.* (frog-mouth भेकमुखhas a wide gape like the frogs)  
 **Podargidae** *Aves* **भेकमुख-वंश** *m.*  
 **podetium** *Bot.* (a stalk-like body)**वृन्तकी***f.*  
-**podex** *Zool.* **1.**(anal region) **गुदप्रदेश** *m.**,*****2.**(the pygidium of an insect) **अवसानक** *m.*  
+**podex** *Zool.* **1.**(anal region) **गुदप्रदेश** *m.**,*2.**(the pygidium of an insect) **अवसानक** *m.*  
 **podia = tubefoot  
 podical** *adj. Zool.* (belonging to podex or anal region) **गुद-  
 podical plates** *Zool.* **-गुद-पट्ट  
@@ -15304,7 +15304,7 @@ their whole time on it)
 
 **Podokesaurus** *Paleontol.* (small leaping reptiles– Swinton p.5) **स्कन्दि-सरट-प्रजाति  
 Podokesaurus holyokensis सामान्य स्कन्दिसरट  
-podomere** *Zool.* **1.पादखण्ड** *m.**,*****2. = limb-segment अवयव-खण्ड** *m.*  
+podomere** *Zool.* **1.पादखण्ड** *m.**,*2. = limb-segment अवयव-खण्ड** *m.*  
 **Podophrya** *Zool.* **परिचूष-प्रजाति  
 podophyllin लघुपत्रि** *f.*  
 **podophylli resina लघुपत्र-उद्यास  
@@ -16062,7 +16062,7 @@ Polenske value *or* number** (mea-sure of the insoluble volatile fatty acids in 
 oil—Bennet) **स्नेह-परीक्षांक**
 
 **poleof the ecliptic***Astron***. कदम्ब** *m***.  
-poleplasm** *Zool.*****(At the end of the egg opposite the nurse-cells is a patch of protoplasm
+poleplasm** *Zool.*(At the end of the egg opposite the nurse-cells is a patch of protoplasm
 
 called by Hegner the poleplasm—Doncaster p.177) **ध्रुवप्ररस***m***.**
 
@@ -16073,7 +16073,7 @@ polianite लोजारेयिज** *m***.** (लो-for लोहक mangan
 **Polianthes** *Bot.***रजनीगन्धा-प्रजाति  
 Polianthes tuberosa** (tuberose) **सामान्य-रजनी-गन्धा** (B., M., Ben. रजनीगन्धा)  
 **Polian vesicle** *Zool.***सवृन्त आशयक  
-police आरक्षी**(-इन्) *m.*****(ancient word)(Const.)  
+police आरक्षी**(-इन्) *m.*(ancient word)(Const.)  
 
 Police Act आरक्षि-अधिनियम  
 police armourer आरक्षि-आयुधिक  
@@ -16372,13 +16372,13 @@ political upheaval राजनैतिक उथलपुथल
 political warfare राजनैतिक युद्ध  
 politician राजनीतिज्ञ** *m.*  
 **politics राजनीति** *f.*  
-**poll** *n.***1.**(casting of votes) **मतदान** *n.***,******2.**(recording of votes) **मतलेखन** *n.***,******3.**(number of
+**poll** *n.***1.**(casting of votes) **मतदान** *n.***,**2.**(recording of votes) **मतलेखन** *n.***,**3.**(number of
 
-votes cast)**दत्तमत-संख्या, मतसंख्या***f.***,******4.**(place where the votes are cast)**मतदानस्थान, मतस्थान***n.*
+votes cast)**दत्तमत-संख्या, मतसंख्या***f.***,**4.**(place where the votes are cast)**मतदानस्थान, मतस्थान***n.*
 
 **poll** *vb.* **= top off** *Forestry* **शीर्षच्छेदन  
 pollan** (a lake whitefish) **श्वेतिका***f.*  
-**pollard** *n.* **1.***Forestry*****\[atree whose stem has been cut off (usually above the height to which
+**pollard** *n.* **1.***Forestry*\[atree whose stem has been cut off (usually above the height to which
 
 cattle can reach) for the production of shoots from adventitious buds—
 
@@ -16426,7 +16426,7 @@ pollution 1.कलुषीकरण** *n.***,**
 **2.**(of water) **दूषण** *n.***, दूषित करना  
 pollution of air** *Hygiene* **वायु-दूषण  
 pollux** *Mineral.***=pollucite  
-Pollux = Hercules =****β****Geminorum द्वितीय मिथुन** *n.,* **द्वितीय पुनर्वसु, भीम** *m.*  
+Pollux = Hercules =βGeminorum द्वितीय मिथुन** *n.,* **द्वितीय पुनर्वसु, भीम** *m.*  
 **polo** *Sports* **अश्वकन्दुक***m.*  
 **polonium** *Chem.* **तोयातु** *m.*  
 **-poly** *Econ.*
@@ -16520,7 +16520,7 @@ polygamy बहुविवाह** *m.*
 **polygenetic dyes** *Chem.* **पुरुच्छाय रञ्जक  
 polyglandular compound** (male,female) *Pharm.* **पुरुग्रन्थि संयोग** ( पुरुष,स्त्री)  
 **polygon** *Math.* **बहुभुज** *m.*  
-**Polygonaceae** *Bot.***पुरुसन्धि कुल** *n.*****(from *Polygonum* पुरुसन्धि-प्रजाति)  
+**Polygonaceae** *Bot.***पुरुसन्धि कुल** *n.*(from *Polygonum* पुरुसन्धि-प्रजाति)  
 **polygonal** *Math.* **बहुभुज  
 polygonal body** *Bot.* **बहुभुज काय  
 Polygonales** *Bot.* **पुरुसन्धि-गोत्र** *n.*  
@@ -16581,7 +16581,7 @@ magnesium, श-for शुल्बीय sulphate, -इज for खनिज mine
 
 **polyhedral angle** *Math.* **बहुतल कोण  
 polyhedron** *Geom.* **बह्वनीक** *m.*  
-**polyhydric** *adj.*(*poly+hydroxyl+-ic*)*******Chem.* **पुरूदिक  
+**polyhydric** *adj.*(*poly+hydroxyl+-ic*)***Chem.* **पुरूदिक  
 polyhydroxy** *adj. Chem.* **पुरूदजार  
 polyhydroxyl** *Chem.* **पुरूदजारल** *n.*  
 **Polykrikos** *Zool.* **पुरुवलय-प्रजाति  
@@ -16601,7 +16601,7 @@ polymerism** *Chem.* **पुरुभाजता** *f.*
 polymerize** *vb.* **पुरुभाजन  
 poly-methylene पुरु-प्रोदलेन्य  
 polymethylene diguanidine पुरुप्रोदलेन्य द्विवैष्ठेयी  
-polymorph** *Biol.* **1.**(apolymorphous organism) **पुरुरूप** *m.**,*****2.**(one of the several forms of such
+polymorph** *Biol.* **1.**(apolymorphous organism) **पुरुरूप** *m.**,*2.**(one of the several forms of such
 
 anorganism) **पुरुरूपैक** *m.*
 
@@ -16723,7 +16723,7 @@ Polystomeae** *Zool.* **बहुचूष-वंश** *m.*
 
 **Polystomella** *Zool.***पुरुछिद्र-प्रजाति  
 Polystomum** *Zool.* **बहुचूष-प्रजाति  
-Polystylophora** *Zool.*****(endostyle absent) **अपूर्वगलग्रन्थिक-अनुगण** *m.*****(पूर्वगल-ग्रन्थि
+Polystylophora** *Zool.*(endostyle absent) **अपूर्वगलग्रन्थिक-अनुगण** *m.*(पूर्वगल-ग्रन्थि
 
 endostyle+अनुगण suborder)
 
@@ -16746,10 +16746,10 @@ polyvalent** *adj.***1.***Bact.*(containing antibodies specific for, or antigens
 
 species or strain of microorganism) **प्रतिबहु 2.***Chem.***पुरुसंयुज**
 
-**polyxylic** *adj.******Bot.***पुरुदारुक** (xylem दारु)  
+**polyxylic** *adj.**Bot.***पुरुदारुक** (xylem दारु)  
 **polyxylic stems** *Bot.* **पुरुदारुक** **स्तम्भ  
-Polyzon 1=Bryozoa** *Zool.*****('moss- animals') **हरिताजीवाः***m.pl.***2=Merozoa  
-Pomacea** *Zool.*****(found in America) **रजत-मुष्टिक-प्रजाति  
+Polyzon 1=Bryozoa** *Zool.*('moss- animals') **हरिताजीवाः***m.pl.***2=Merozoa  
+Pomacea** *Zool.*(found in America) **रजत-मुष्टिक-प्रजाति  
 Pomade** (any soft, greasy, perfumedsubstance) **वासवसा** *f.*  
 **Pomatoceros** *Zool.* (Gk. *pomatos* 'cover'+Gk. *keras* 'horn')**चूर्णावर-प्रजाति  
 Pomatorhine skua** *Aves* **बभ्रु लुण्टाक** (whole plumage brown बभ्रु)  
@@ -16777,7 +16777,7 @@ fruits)
 pomp समारोह** *m***., ठाट  
 pompadour green** (a colour, greenish-blue नीलाहरि in hue, saturation and brilliance medium
 
-मध्य)****
+मध्य)
 
 **मध्यनीलाहरि**
 
@@ -16791,7 +16791,7 @@ Pompeian red** (a colour, yellowish-red रक्तातिपीत in hue, s
 
 **प्ररक्तातिपीत**
 
-**pompelmos** (*Citrus maxima*) **महानिम्बु***m.*****(Ben.)**, चकोतरा  
+**pompelmos** (*Citrus maxima*) **महानिम्बु***m.*(Ben.)**, चकोतरा  
 pompion** (*Cucurbita pepo*) कर्कारु *m.* (Basu)  
 **pompous** *adj.***आडम्बरपूर्ण  
 ponceau= poppy red** (a colour, yellowish-red रक्तापीत in hue, and of very high अधि
@@ -16801,7 +16801,7 @@ saturation)**अधिरक्तापीत**
 **ponceau d'Orient** *Col. Ind.* **प्राच्य अधिरक्तापीत  
 pond तडाग** *m***., पोखर, तालाब  
 ponderable** *adj***. गण्य  
-ponderosa= heavy** *adj.******Pharm.* **गुरु  
+ponderosa= heavy** *adj.**Pharm.* **गुरु  
 pond-heron अन्ध-बक** (ancient name.अन्ध— when waiting for its food, it sits hunched up, a
 
 dowdy, patient little figure not easy to spot against a dark background. अन्धा बगलाin Hindi)
@@ -17798,7 +17798,7 @@ Port 1.
 
 , समुद्रपत्तन
 
-*n.***,****
+*n.***,
 
 2\.
 
@@ -17806,7 +17806,7 @@ Port 1.
 
 सुद्राक्षिरा
 
-*f.***,****
+*f.***,
 
 3\.
 
@@ -17814,7 +17814,7 @@ Port 1.
 
 द्वार
 
-*n.***,****
+*n.***,
 
 4\.
 
@@ -17868,11 +17868,11 @@ port commissioner पत्तन-आयुक्त
 port dues पत्तन-देय  
 porter 1.भारिक
 
-*m.***,****
+*m.***,
 
 2.द्वारपाल
 
-*m.***,****
+*m.***,
 
 3\.
 
@@ -19368,7 +19368,7 @@ post-script पश्च-लेख,** *m.***पश्चात्-स्फु�
 post-seedling stages** *Forestry* **नवपादपोत्तर अवस्था  
 post-segmental region** *Zool.***पश्च-खण्ड प्रदेश  
 post-septal** *adj***.** *Zool.***पटी-पश्च** (septum पटी)**preseptal पठ्यग्र  
-post-settlement** *adj.******Admin.***भूव्यवस्थोत्तर  
+post-settlement** *adj.**Admin.***भूव्यवस्थोत्तर  
 post-settlement corrections भूव्यवस्थोत्तर संशोधन  
 post-settlement line भूव्यवस्थोत्तर रेखाएं  
 post-spinous fossa = post-scapular fossa  
@@ -19396,7 +19396,7 @@ Potamobiidae = Astacidae
 Potamobius = Astacus  
 Potamogale.** *Zool.* **उद्रचुञ्चु-प्रजाति  
 Potamogalidae** (includes the "otter shrew"- PH. II.545) **उद्रचुञ्चु-वंश** *m.*  
-**Potamogeton** *Bot.*****(a genus of pondweeds) **पल्वलशाक-प्रजाति  
+**Potamogeton** *Bot.*(a genus of pondweeds) **पल्वलशाक-प्रजाति  
 Potamogeton natans** (natans 'with floating leaves'—because readily recognized by the
 
 jointed blade of the floating leaf—Br. FI. p.1193) **प्लवपर्ण पल्वलशाक**
@@ -19405,7 +19405,7 @@ jointed blade of the floating leaf—Br. FI. p.1193) **प्लवपर्ण 
 potamology** (science of rivers) **नदीविज्ञान** *n.*  
 **pot annealing पात्राभितापन  
 potarite** *Mineral.* (a mercury-palladum amalgam) **निचूष-संरस** *m.*  
-**potash** *vb.******Chem.***सर्जीयन** (to treat with potash; specif. to caseharden with potassium
+**potash** *vb.**Chem.***सर्जीयन** (to treat with potash; specif. to caseharden with potassium
 
 ferrocyanide) **सर्जिसाधन, सर्जि-दृंहण**
 
@@ -19428,8 +19428,8 @@ potass** (potash, potassium) **सर्जि** *f.***, दहातु** *m.*
 **potass-amide** *Chem.***दद्द तिक्तेय  
 potassa sulphurat = sulphurated potash  
 potass. bromide दहातु दुरेय  
-potassic** *adj.******Chem.***दहिक  
-potassi-ferous** *adj.******Chem.*(containing potash or other compounds of potassium) **सर्जियुत,**
+potassic** *adj.**Chem.***दहिक  
+potassi-ferous** *adj.**Chem.*(containing potash or other compounds of potassium) **सर्जियुत,**
 
 **दहयुत**
 
@@ -19607,7 +19607,7 @@ or illicitly) **गृहिरा, कूटिरा** *f.*
 **potency date** *Med.***शक्ति-दिनांक, प्रयो-ज्यावधि  
 potent** *adj***. 1.शक्तिशाली** (-इन् )**2.***Med.***शक्तिशाली** (-इन्)  
 **potential** *adj***. 1.गुप्त संभावी** (-इन् ),**संभाव्य, शक्य, 2.***Phys.***शक्म-  
-potential** *n.******Phys.***शक्म** *n.*  
+potential** *n.**Phys.***शक्म** *n.*  
 **potential analogies** *Phys.***शक्म-सादृश्य  
 potential carriers संभाव्य वाहक  
 potential citizens संभाव्य नागरिक  
@@ -19627,11 +19627,11 @@ potential yield** *Forestry* (the annual yield in material of which a forest is 
 
 maintained at its highest limit of productivity—I.F.R.)**संभाव्यप्राप्ति, शक्य प्राप्ति**
 
-**potentiation** *Med.*****(the combined action of two drugs, being greater than the sum of the
+**potentiation** *Med.*(the combined action of two drugs, being greater than the sum of the
 
 effects of each used alone—Dorland) **शक्तिवर्धन** *n.*
 
-**Potentilla** *Bot.*****(genus of cinquefoils) **पञ्चपर्णी प्रजाति** (पञ्च- cinque-, -पर्णी foil)  
+**Potentilla** *Bot.*(genus of cinquefoils) **पञ्चपर्णी प्रजाति** (पञ्च- cinque-, -पर्णी foil)  
 **Potentilla anserina** (cinquefoil, silver weed)(leaflets deeply toothed—Basu**) दन्ति-पञ्चपर्णी  
 Potentilla fragarioides** (*fragarioides* 'resembling strawberry') **तृणबदराभ-पञ्चपर्णी  
 Potentilla fruticosa = shrubby cinquefoil क्षुपिल-पञ्चपर्णी  
@@ -19659,8 +19659,8 @@ Pothos pertusa = Rhaphidophora pertusa
 Pothos scandens** (leaves very variable—Basu) **विभिन्नपर्ण-करिपिप्पली  
 pot marigold** (*Calendula officinalis*)**गेन्दुक** *m.,* **गेन्दा  
 pot marjoram** (*Origanum vulgare*)**मृदुमरु** *m.* (Tel. मृदुमरुवमु)  
-**potometer** *Bot.*****(for measuring therate of transpiration in plants)**उत्स्वेदमान***m.*  
-**Potoroinae** *Zool.*****(subfamily consisting of the rat kangaroos) **मूषकुरंगानुवंश***m.*  
+**potometer** *Bot.*(for measuring therate of transpiration in plants)**उत्स्वेदमान***m.*  
+**Potoroinae** *Zool.*(subfamily consisting of the rat kangaroos) **मूषकुरंगानुवंश***m.*  
 **Potorous** *Zool.***मूषकुरंग-प्रजाति  
 Potos = Cercoleptes**
 
@@ -19674,7 +19674,7 @@ potteries co-operative society मृद्भाण्ड-सहकारि-�
 pottery मृद्भाण्ड** *n.,***मिट्टी के बर्तन  
 pottery clay भाण्ड-मृत्तिका  
 pottery sand भाण्ड-सिकता  
-potto** *Zool.*****(resembles the slow loris in its arboreal and slow-moving habits)**मन्दालु** *m.*  
+potto** *Zool.*(resembles the slow loris in its arboreal and slow-moving habits)**मन्दालु** *m.*  
 **pouch 1.धान** *n.***, थैला, थैली 2.**(aleather bag for ammunition also, a wooden cartridge
 
 box)**अस्त्रधान**
@@ -19711,8 +19711,8 @@ pound = cattle pound पशु-अवरोध** *m.*(Const.)
 **pound 1.**(lb. ; 16 ounces) **प्राञ्जलि** *m.*
 
 (प्रां. ; १६ शुक्तिका)  
-**2.**(lb. t.; 12 ounces; 5760 grains)**प्राञ्जलिका** *f.*****( प्राञ्जि.); **हैम प्राञ्जलि** *m.***,**(है. प्रां.; १२ शुक्ति; ५७६० यव)  
-**3.**(lb. ap.;12 ounces) **प्राञ्जलिका** *f.*(प्राञ्जि.)**; भैषजिक प्राञ्जलि***m.*****(भै. प्रां. १२ शुक्ति)
+**2.**(lb. t.; 12 ounces; 5760 grains)**प्राञ्जलिका** *f.*( प्राञ्जि.); **हैम प्राञ्जलि** *m.***,**(है. प्रां.; १२ शुक्ति; ५७६० यव)  
+**3.**(lb. ap.;12 ounces) **प्राञ्जलिका** *f.*(प्राञ्जि.)**; भैषजिक प्राञ्जलि***m.*(भै. प्रां. १२ शुक्ति)
 
 **poundage fees अवरोध-शुल्क  
 poundal** *Phys.* **प्राबल** *n**.***(प्राञ्जलि pound+वल ;a unit of force in the F.P.S. system)  
@@ -20131,7 +20131,7 @@ Pre-articular
 पूर्व-संधायी  
 pre-audience
 
-Law****
+Law
 
 (right to prior hearing)
 
@@ -21654,7 +21654,7 @@ prerogative legislation** *Law* **परमाधिकार-विधान
 prerogative of Crown सम्राट्का परमाधिकार  
 prerogative of mercy** *Law* **दया का परमाधिकार  
 prerogative writ** *Law* **परमाधिकार-लेख  
-prerostrala** *n.******Zool.* **पूर्वतुण्डास्थि** *n.*  
+prerostrala** *n.**Zool.* **पूर्वतुण्डास्थि** *n.*  
 **Presage पूर्वाभास** *m.*  
 **presbyopia** *Ophthalmol.* **जराक्षिदोष** *m***.  
 Preshytis** *Zool.* **श्वेतोरु-प्रजाति** (in theadult the inner side of the thighऊरु is conspicuously
@@ -21868,10 +21868,10 @@ presiding officer अधिष्ठाता** (-तृ) *m.*(Const.), **अध
 presidium of rulers राजन्य-पञ्चक** *m.*  
 **pre-sphenoid** *adj.Anat.***अग्र-जतुक  
 presphenoid** *n.***= presphenoid bone** *Zool.***जतुकाग्रास्थि** *n.*  
-**prespinal** *adj.******Zool.* (situated in front of the spine) **मेरुपुरःस्थ  
+**prespinal** *adj.**Zool.* (situated in front of the spine) **मेरुपुरःस्थ  
 prespinous = prescapular  
 prespinous fossa** *Zool.***पूर्वांसफलक-खात  
-press***n.***1.पीड** *m.***, पीडित्र** *n.***,******2.***Printing* **मुद्रणालय** *m.* (Const.)**,****3.मुद्रित्र, मुद्रणयन्त्र***n.*  
+press***n.***1.पीड** *m.***, पीडित्र** *n.***,**2.***Printing* **मुद्रणालय** *m.* (Const.)**,3.मुद्रित्र, मुद्रणयन्त्र***n.*  
 
 **press** *vb*.
 
@@ -21913,7 +21913,7 @@ Pressler's borer =increment borer** or gauge *Forestry* (an instrument for extra
 
 of wood from the stem of a tree, for the purpose of determining its current increment—I.F.R.)**संवृद्धि-छिद्रामान***m.*
 
-**pressman 1.** *Printing* **मुद्रिक** *m.***,******2.***Journalism* **पत्रकार** *m.*  
+**pressman 1.** *Printing* **मुद्रिक** *m.***,**2.***Journalism* **पत्रकार** *m.*  
 **press-mark** (on cotton bales) **पीडन-चिह्न  
 press-matter पत्र-सामग्री, समाचारपत्रों के लिए सामग्री  
 press note पत्र-ज्ञप्ति**
@@ -21938,7 +21938,7 @@ press-reporter वार्ताहर** *m.* (from Marathi)
 press room 1.मुद्रण-कोष्ठ, 2.पत्रकार-कोष्ठ, 3.समाचार-कोष्ठ  
 press-roundup समाचारपत्र-संक्षेप, संक्षिप्त समाचार  
 press staff मुद्रणालय-कर्मचारी  
-pressure 1.निपीड** *m.***,******2.***Law* (I.P.C.) निपीड*m.***, दबाव, 3.कार्याधिक्य** *n.***,** **भार** *m.*  
+pressure 1.निपीड** *m.***,**2.***Law* (I.P.C.) निपीड*m.***, दबाव, 3.कार्याधिक्य** *n.***,** **भार** *m.*  
 **pressure coefficient** *Phys.* **निपीड-गुणक  
 pressure cooker निपीड-पक्त्र  
 pressure cylinder निपीड-रम्भ  
@@ -21957,7 +21957,7 @@ pressure plate** *Automobile* **निपीड-पट्ट
 pressure pump निपीड-उदञ्च  
 pressure steam sterilizer निपीड-प्रबाष्प-जीवाणुहा  
 pressure transmission** *Phys.***निपीड-पारेषण  
-pressure tube** *Chem.,******Phys.***निपीड-नाल  
+pressure tube** *Chem.,**Phys.***निपीड-नाल  
 pressure-vessel** *Rly.***निपीड-पात्र  
 Press Workers Union मुद्रणालय-कार्मिकसंच  
 press-working** *Metal.***पीड-रूपण** *n.*  
@@ -22311,10 +22311,10 @@ pre-wash** (of nitroglycerine) **पूर्व-धावन** *n.*
 **prey आखेट, बलि** *m.***,** **भक्ष्य** *n.*  
 **prezygapophysis** *Anat.* **अग्रयोजिवर्ध** *m.*  
 **Priapulidae***Zool.***गदारूपि-वंश** *m.*  
-**Priapuloidea**(from *priapus* 'the phallus') *Zool.*****(sausage-shaped worms)**गदारूपिणः** *m.pl.*  
+**Priapuloidea**(from *priapus* 'the phallus') *Zool.*(sausage-shaped worms)**गदारूपिणः** *m.pl.*  
 **priapulus** *Zool.***गदारूपि** (-इन् ) *m.*  
 **Priapulus** *Zool***, गदारूपि-प्रजाति  
-price मूल्य** *n.*****(Const) (*see* charges)
+price मूल्य** *n.*(Const) (*see* charges)
 
 **actual price वास्तविक मूल्य  
 average price माध्य मूल्य  
@@ -22382,7 +22382,7 @@ pricker** *Surv.***कण्टिका** *f.*
 pricking out = lining out** *Forestry* **पंक्ति-प्रतिरोपण** *n.*  
 **prickle** *Bot.***शिताग्र** *n.*  
 **prickly amaranth** (*Amaranthus spinosus*) **भाण्डीर** *m.* (Basu)  
-**prickly chaff-flower** (*Achyranthes aspera*) **खरमञ्जरी** *f.*****(B.,N. M.)  
+**prickly chaff-flower** (*Achyranthes aspera*) **खरमञ्जरी** *f.*(B.,N. M.)  
 **prickly grasswort= saltwort**(*salsola kali*) **लवणपादप** *m.*  
 **prickly-leaved elephant's-foot** (*Elephantopus scaber*)**कण्टपर्ण गोजिह्विका** *f.*(B.,N.,M)  
 
@@ -22396,7 +22396,7 @@ pricking out = lining out** *Forestry* **पंक्ति-प्रतिर�
 **prickly saltwort = saltwort** (*Salsola kali*) **लवणपादप** *m.*  
 **prick of needle सूई का चुभना  
 prick out = line out** *Forestry* **पंक्ति-प्रतिरोपण  
-pride of China** (*Melia azedarach*) **महानिम्ब** *m.*****(B., N., M. Sinh.)**, बकायन  
+pride of China** (*Melia azedarach*) **महानिम्ब** *m.*(B., N., M. Sinh.)**, बकायन  
 prideof India = pride of China  
 priest पुरोहित** *m.***, पुजारी  
 priest's crown** (*Taraxacum officinale*) **दुग्धतिक्ता** *f.*  
@@ -22424,7 +22424,7 @@ primary** *adj.***1.प्राथमिक** (Const.)**, प्रधान, �
 
 **3.***Chem***. आद्य**
 
-**primary** *n.***, 1.**(of a double star) *Astron .***प्रधानतारा** *f.***,******2.**(feathers) **** *Zool.* **आद्यक***m.*  
+**primary** *n.***, 1.**(of a double star) *Astron .***प्रधानतारा** *f.***,**2.**(feathers)  *Zool.* **आद्यक***m.*  
 **primary agent** *Zool.***आद्य कर्ता  
 primary alcohol** *Chem.***आद्य सुषव  
 primary amputation** (soon after the injury) **सद्यश्छेद** *m.* (*see* amputation)  
@@ -22436,7 +22436,7 @@ primarycanal cell** *Bot.***आद्य कुल्या-कोशा
 primary capital** *Econ.* **प्रधान पुञ्जी  
 Frimary cell** *Educ.* (it cannot be recharged by passing an electriccurrent) **आद्यकोशा,**
 
-****
+
 
 **अपुनःप्रभार्य**
 
@@ -22625,7 +22625,7 @@ m\.
 
 **,**
 
-****
+
 
 4.सम्राट्
 
@@ -23065,7 +23065,7 @@ principles of taxation** *Econ.***कराधान-प्रनियम
 principles of training प्रशिक्षण-सिद्धान्त  
 Prinia** *Aves* **दशबर्ह-प्रजाति** (it has ten दश tail-feathers बर्ह)  
 **Prinodon** *Zool.***क्रकरदन्त-प्रजाति  
-Prinsepia** *Bot.*****(related to *Prunus* वाताम-प्रजाति) **सुफल-प्रजाति** (सुफल synonym of वाताम according
+Prinsepia** *Bot.*(related to *Prunus* वाताम-प्रजाति) **सुफल-प्रजाति** (सुफल synonym of वाताम according
 
 to Basu)
 
@@ -23117,7 +23117,7 @@ printing metal मुद्रण-धातु
 printing of initials and signatures प्रथमाक्षर और हस्ताक्षर छापना  
 printing of notices सूचनाओं की छपाई  
 printing paper मुद्रण-पत्र  
-printing press 1.मुद्रणालय** *m. * (Const.)**,****2.**(any of numerous machines for making
+printing press 1.मुद्रणालय** *m. * (Const.)**,2.**(any of numerous machines for making
 
 printed impressions)
 
@@ -23153,7 +23153,7 @@ Priscilla = fog blue** (acolour, red-dish blue नीलारक्तin hue, o
 
 high प्रbrilliance) **प्रापनीलारक्त**
 
-**prisere** *Plant Ecol.*****(a sere which begins on bare soil)**आदिसंश्रेणी** *f.*  
+**prisere** *Plant Ecol.*(a sere which begins on bare soil)**आदिसंश्रेणी** *f.*  
 
 **prism संक्षेत्र** *n.*  
 **prismatic** *adj.* **1.सांक्षेत्रिक, संक्षेत्रीय, संक्षेत्र, 2.***Cryst.* **सांक्षेत्रिक  
@@ -23658,7 +23658,7 @@ probationary vaccinator परिवीक्षाधीन मसूरक** (
 Probation of Offenders Act अपराधि-परिवीक्षा-अधिनियम  
 probative force** *Law* **संप्रमाणक शक्ति  
 probator = approver  
-probe** *Surg.* **एषणी** *f.*****(from सुश्रुत)  
+probe** *Surg.* **एषणी** *f.*(from सुश्रुत)  
 **probity ऋजुता** *f.*  
 **problem 1.समस्या** *f.***, प्रश्न** *m.***2.***Math.***निर्मेय***n.*  
 **problematic proposition** *Logic*(asserting possibility) **शक्यतावाची प्रस्थापना  
@@ -23738,7 +23738,7 @@ proceed with caution** *Rly***. सावधान चलो
 proceed with caution signal** *Rly.***सावधान-प्रस्थान-संकेत  
 Procellaria अतिवात-प्रजाति  
 Procellariidae** *Aves* **अतिवात-वंश** *m.*  
-**Procellariiformes** *Zool.*****(order) **अतिवात-गण** *m.*  
+**Procellariiformes** *Zool.*(order) **अतिवात-गण** *m.*  
 
 **procercoid** *Zool.***पूर्वकोशित** (short for पूर्वपट्टकोशितbeing an early stage of plerocercoid)  
 **Procerodes** *Zool.*(the internal parts show pseudo-metamerism, the only instance in
@@ -23748,9 +23748,9 @@ Platyhelminthes)
 **कूटखण्ड-प्रजाति**
 
 **Procerodes lobata सामान्य कूटखण्ड  
-procerous** *adj.******Bot*.****(tall, slender)**प्रांशु  
+procerous** *adj.**Bot*.(tall, slender)**प्रांशु  
 procerus** *Bot. Tax.***1.**(tall') **प्रांशु, 2.**('Slender) **प्रतनु  
-process 1.**(as, of manufacturing)**विधा** f.**,****2.***Chem***,** *Phys.***विधा** *f.***,******3.***Anat***. प्रवर्ध***m.***,****
+process 1.**(as, of manufacturing)**विधा** f.**,2.***Chem***,** *Phys.***विधा** *f.***,**3.***Anat***. प्रवर्ध***m.***,
 
 **4.***Law* **आदेशिका**
 
@@ -23770,7 +23770,7 @@ processing विधायन** *n.*
 processing factory विधायन-निर्माणी  
 procession** (a group of persons or of vehicles containing persons, moving onward ina
 
-ceremonious or solemn manner) **संयात्रा, शोभायात्रा, -यात्रा** *f.**,*****जुलूस**
+ceremonious or solemn manner) **संयात्रा, शोभायात्रा, -यात्रा** *f.**,*जुलूस**
 
 process of cooling and condensing शीतन
 
@@ -23804,9 +23804,9 @@ proclamation उद्घोषणा** *f.* (Const.)
 **proclamation is hereby made इसके द्वारा उद्घोषणा की जाती है  
 proclamation made by beat of drums ढिंढोरा पीट कर की गई उद्घोषणा  
 proclamation of emergency आपात की उद्घोषणा** (Const.)  
-**procoelous** *adj.******Zool.* **अग्रन्युब्ज  
+**procoelous** *adj.**Zool.* **अग्रन्युब्ज  
 procoelous vertebra** *Zool.*(anterior end of the centrum is concave) **अग्रन्युब्ज कीकस  
-Procolophon** *Paleontol.*****(it was small, lizard-like and active, while the others were for the most
+Procolophon** *Paleontol.*(it was small, lizard-like and active, while the others were for the most
 
 part clumsy slow-moving animals—Swinnerton p.333)**सक्रियसरट-प्रजाति**
 
@@ -23820,9 +23820,9 @@ Procreodi** *Zool.***प्रछेदकदन्ताः** *m.pl.*
 **proctor प्रतिहस्तक** *m.* (ancient word)  
 **proctoscope** *Med.***गुदेक्ष***m.*  
 **Proctotrypidae = Serphidae***Zool.*(have a tubular retractile ovipositor)**नालाण्डधा-वंश** *m.*  
-**procumbent** *adj.******Bot.***शयान  
+**procumbent** *adj.**Bot.***शयान  
 procurable** *adj.***प्राप्य, उपलभ्य, उपलब्ध  
-procuration 1.**(signing by an agent using the words per pro.)**अभिहस्ताक्षरण***n.**,*****2.***Law* **प्राभिकरण** *n.*  
+procuration 1.**(signing by an agent using the words per pro.)**अभिहस्ताक्षरण***n.**,*2.***Law* **प्राभिकरण** *n.*  
 **procuration fee प्राभिकरण-शुल्क  
 procure** *vb.***प्राप्त करना  
 procurement प्राप्ति, अध्याप्ति** *f.***, आदान** *n.*  
@@ -23830,7 +23830,7 @@ procurement प्राप्ति, अध्याप्ति** *f.***, आ�
 procurement prices प्राप्ति-मूल्य  
 procuress दूती** *f.*  
 **Procyon = a Canis Minoris** *Astron.***प्रथम लघु लुब्धक** *m.*  
-**Procyon** *Zool.*****(genus of raccoons)**भल्लक-प्रजाति**  
+**Procyon** *Zool.*(genus of raccoons)**भल्लक-प्रजाति**  
 
 **Procyonlotor सामान्य भल्लक**  
 
@@ -23841,7 +23841,7 @@ produce** *vb.***1.उत्पादन करना, उत्पन्न क
 produce** *n.***उत्पाद** *m.***, उत्पादन** *n.***,** **उपज  
 produce a document लेख्य प्रस्तुत करना  
 produce a line** *Math.***रेखा-वर्धन** *n.*  
-**produced** *adj.***1.उत्पन्न, उत्पादित** (Const.)**,****2.***Math.***वर्धित  
+**produced** *adj.***1.उत्पन्न, उत्पादित** (Const.)**,2.***Math.***वर्धित  
 produced goods उत्पादित वस्तुएं  
 produce documents लेख्य प्रस्तुत करना  
 produce evidence साक्ष्य प्रस्तुत करना  
@@ -24590,7 +24590,7 @@ progress certificate प्रगति-प्रमाणपत्र
 progress chart प्रगति-चित्र, प्रगति-सारणी  
 progression 1.प्रगति, वृद्धि
 
-*f.***,****
+*f.***,
 
 2\.
 
@@ -24770,7 +24770,7 @@ f\.
 
 मद्य-निषेध
 
-*m.***,****
+*m.***,
 
 4\.
 
@@ -24932,7 +24932,7 @@ m.**,**
 
 विक्षेप
 
-*m.***,****
+*m.***,
 
 3\.
 
@@ -24940,7 +24940,7 @@ m.**,**
 
 प्रक्षेप
 
-*m.***,****
+*m.***,
 
 4\.
 
@@ -25108,7 +25108,7 @@ promotee** *Admin.* **उन्नीतपदा** *m.*
 **promoter's share** *Com.* **प्रवर्तक-अंश  
 promoting and conducting प्रवर्तन और संचालन**  
 
-**promotion 1.पदोन्नति** *f.* **2.****प्रवर्तन** *n.***3.***Educ.* **संपारण** *n.* (pass पारण, उत्तरण, fail अनुत्तरण)
+**promotion 1.पदोन्नति** *f.* **2.प्रवर्तन** *n.***3.***Educ.* **संपारण** *n.* (pass पारण, उत्तरण, fail अनुत्तरण)
 
 **4.** *Com.* **प्रवर्तन** *n.***5.उन्नति** *f.* (Const.)
 
@@ -25689,7 +25689,7 @@ proper tax समुचित कर**
 **of proper temper** (as, an axe) **सु-परि-प्रोक्षित, ठीक पानीदार**
 
 **proper ticket** *Rly.* **समुचित पत्रक  
-properties of determinants** *Math.***निश्चायकों के गुण****  
+properties of determinants** *Math.***निश्चायकों के गुण  
 **property 1.***Chem.* **गुण** *m.***2.***Statistics* **प्रगुण** *m.*(attribute गुण)**,3.***Law* **संपत्ति** *f.*(Const.)
 
 **movable property चल संपत्ति  
@@ -25913,7 +25913,7 @@ proposed resolutions प्रस्थापित संकल्प
 proposed time-table प्रस्थापित समय-सारणी  
 proposer 1.प्रस्थापक
 
-*m.***,****
+*m.***,
 
 2\. = offerer
 
@@ -25930,7 +25930,7 @@ proposition 1.
 
 साध्य
 
-*n.***,****
+*n.***,
 
 2.प्रस्थाप्य
 
@@ -25938,7 +25938,7 @@ proposition 1.
 
 प्रस्थापना
 
-*f.***,****
+*f.***,
 
 3\.
 
@@ -26141,7 +26141,7 @@ n\.
 **propylcarbinol** *Chem.* **प्रमेलांगिव** *m.*  
 **propylene** *Chem.* **प्रमेलेन्य** *n.*  
 **propylic** *adj. Chem.* **प्रमेलिक  
-propylidene** (*propyl*+ethy*lidene*)*****Chem.* **** प्रमेलेयेन्य** *n.*  
+propylidene** (*propyl*+ethy*lidene*)*Chem.*  प्रमेलेयेन्य** *n.*  
 **propylite** *Petrog.* (an altered form of andesiteधूसराश्म) **प्रधूसराश्म** *m.*  
 **propylitization प्रधूसराश्मन** *n.*  
 **propyne** *Chem.* **प्रमेदीन** *m.*  
@@ -26217,7 +26217,7 @@ Tam. *sami*, Uri. *somi*)
 **prosopyle** *Zool.* (apertures of communication) **संगमछिद्र** *n.*  
 **prosorus** *Bot.* **पूर्वबीधागुच्छ** *m.*  
 
-**prospect 1.***n.*****(expectation) **प्रत्याशंसा** *f.***2.** *vb. Mining* (to explore for making
+**prospect 1.***n.*(expectation) **प्रत्याशंसा** *f.***2.** *vb. Mining* (to explore for making
 
 preliminary developments) **पूर्वेक्षण, खोजना**
 
@@ -27059,7 +27059,7 @@ protrusion बहिःक्षेप***m.**,*** **बहिःक्षेप�
 
 arerecognized as distinct chemical elements) **आादितत्त्व** *n.*
 
-**Protylopus** *Paleontol.*****(a genus of camels found in the Upper Eocene of North America)
+**Protylopus** *Paleontol.*(a genus of camels found in the Upper Eocene of North America)
 
 **सनकोष्ट्र-**
 
@@ -27074,7 +27074,7 @@ overbearing असहनशील
 supercilious अनुपगम्य  
 disdainful तिरस्कारी, अवमानी, घृणात्मक**
 
-**proustite रजतनेपशिज** *m.*****(रजत silver, नेप-for नेपाली arsenic, श- for शुल्बेय sulphide,-इज forखनिज
+**proustite रजतनेपशिज** *m.*(रजत silver, नेप-for नेपाली arsenic, श- for शुल्बेय sulphide,-इज forखनिज
 
 mineral)
 
@@ -27092,11 +27092,11 @@ strength of spirit— EM.I.58) **सुषवनिर्धारण**
 proved officiation प्रमाणित स्थानापन्नता  
 prove ineffective अप्रभावी सिद्ध होना  
 provenance प्राप्तिस्थान** *n.*  
-**provenience मूल, उत्पत्तिस्थान, प्राप्तिस्थान** *n.****,* प्रभव** *m.*  
-**proventriculus** *Zool.*****(the glandularstomach in birds)**ग्रन्थ्युदर** *n.*  
+**provenience मूल, उत्पत्तिस्थान, प्राप्तिस्थान** *n.,* प्रभव** *m.*  
+**proventriculus** *Zool.*(the glandularstomach in birds)**ग्रन्थ्युदर** *n.*  
 **prover** *Printing* **ईक्ष्यमुद्रक** *m.*  
-**proverb आभाणक** *m.*****(ancient word)  
-**provide** *vb.*(Lat. *pro* + *videre* 'to see before')**,** **1.उपबन्ध करना** (Const.)**,****2.**
+**proverb आभाणक** *m.*(ancient word)  
+**provide** *vb.*(Lat. *pro* + *videre* 'to see before')**,** **1.उपबन्ध करना** (Const.)**,2.**
 
 (foresee)**पूर्वदर्शन,**
 
@@ -27116,7 +27116,7 @@ provided that 1.यदि, अथ यदि, पर, 2.परन्तु** (Con
 
 **provide for के लिए उपबन्ध करना  
 provide for the appropriation विनियोजन के लिए उपबन्ध करना  
-providence** *n.* **1.पूर्वावधान** *n.***, सज्जा** *f.***, पूर्वोपाय** *m.***,******पूर्वसज्जा***f.***,पूर्वप्रबन्ध** *m.***,******2.**\[*cap*.\] **विधाता** (-तृ) *m.*
+providence** *n.* **1.पूर्वावधान** *n.***, सज्जा** *f.***, पूर्वोपाय** *m.***,**पूर्वसज्जा***f.***,पूर्वप्रबन्ध** *m.***,**2.**\[*cap*.\] **विधाता** (-तृ) *m.*
 
 **prudence प्राज्ञता**
 
@@ -27179,7 +27179,7 @@ provincial unit प्रान्तीय एकक**
 
 **provision 1.***Law* **उपबन्ध** *m.* (Const.)**, प्रावधान** *n.***2.प्रबन्ध** *m.*
 
-****3.**(food articles) **खाद्यपदार्थ** *m.***, संभृति** *f.***4.**(for a journey) **पाथेय***n.*
+3.**(food articles) **खाद्यपदार्थ** *m.***, संभृति** *f.***4.**(for a journey) **पाथेय***n.*
 
 *.*
 
@@ -27375,7 +27375,7 @@ P.S.** (Poultry Supervisor) **कु. प.**(कुक्कुटपालन-�
 **Psalliota campestris = Agaricus campestris  
 Psalliota tabularis हरिवलय-छत्राक** (forms Fairy Rings हरिवलय)  
 
-**psalterium 1=manyplies = omasum भञ्जिका** *f.*****(भञ्ज ply),
+**psalterium 1=manyplies = omasum भञ्जिका** *f.*(भञ्ज ply),
 
 **2.***Anat* **= lyra = lyre of David =lyra Davidis= lyre of the fornix तन्त्रिका** *f.*
 
@@ -27389,7 +27389,7 @@ Psammoclema** *Zool.* (a ramifying subcylindrical sponge) स्थूलशा�
 psammophyte** *Bot.* (a plant inhabiting sandy ground) **सिकतोद्भिद्** *f.*  
 **Psarisomus** *Aves* **शुकांग-प्रजाति** (very similar to the parrot शुक)  
 
-**Psaronius** (fr. Gk. *psar* 'starling'—fromits speckled appearance when polished)******
+**Psaronius** (fr. Gk. *psar* 'starling'—fromits speckled appearance when polished)**
 
 *Paleontol.* **बिन्दुकाश्न-प्रजाति** (*see* starling stone)
 
@@ -27426,13 +27426,13 @@ pseudobranch** *Zool.* **कूटक्लोम** *n.*
 pseudocele = pseudocoele**  
 
 **pseudo-ceryl alcohol** *Chem.***कूट-सिक्थल सुषव  
-Pseudochirus** *Zool.*****(ring-tailed opossum) **वलयपुच्छ-प्रजाति  
+Pseudochirus** *Zool.*(ring-tailed opossum) **वलयपुच्छ-प्रजाति  
 pseudo-coele** *Anat***. कूट-गुहा** *f.*  
 **pseudo-cone** *Zool***. 1.***adj.***कूट-शंकु, 2.***n.* **कूट-शंकु** *m.*  
 **pseudo-cortex** *Bot.* **कूट-बाह्यक  
-Pseudocreodi** *Zool.*****(characterized by having 'false' carnassials— PH.II.577)**कूटछेदकदन्ताः** *m.pl.*  
+Pseudocreodi** *Zool.*(characterized by having 'false' carnassials— PH.II.577)**कूटछेदकदन्ताः** *m.pl.*  
 **pseudo crystal कूट स्फट  
-pseudo-cubic** *adj.******Mineral.***कूट-घन  
+pseudo-cubic** *adj.**Mineral.***कूट-घन  
 pseudo-cumene कूट-जीरेण्य  
 pseudo-cumidine कूट-जीरेयी  
 pseudo-dicyanine** *Col. Ind.* **कूट-द्विश्यामी  
@@ -27442,7 +27442,7 @@ pseudo-elater** *Bot.* **कूटसूत्रिका** *f.*
 pseudogamy कूटोद्वाह** *m.*  
 **pseudo-gastrula. कूट- स्यूतिभ्रूण  
 Pseudogyps** *Aves* **शितिकक्षि-प्रजाति** (शितिकक्षी ancient word)  
-**pseudo-hexagonal** *adj.******Cryst.*****(falsely hexagonal) **कूट-षट्कोण  
+**pseudo-hexagonal** *adj.**Cryst.*(falsely hexagonal) **कूट-षट्कोण  
 pseudo-horse कूटाश्व  
 pseudoidia** *Mycol.***कूटसूत्रबीज** *n.***, कूटचिपिट-बीजाणु** *m.*  
 **Pseudolamellibranchiata** *Zool.***कूटफलकक्लोम-गण** *m.*  
@@ -27473,7 +27473,7 @@ pseudomorph कूटरूप** *n.*
 pseudo-parenchymatous network** *Bot.***कूटजीवितक-जाल  
 pseudo-perianth** *Bot.***कूट-योनिवेष्ट  
 pseudo-phobotactic** *adj.***कूट-भयापसारी** (-इन्)  
-**Pseudophycis** *Zool.*****(*pseudo-*कूट- + Gk.*phykes* 'a kind of fish') **कूटमीन-प्रजाति  
+**Pseudophycis** *Zool.*(*pseudo-*कूट- + Gk.*phykes* 'a kind of fish') **कूटमीन-प्रजाति  
 Pseudophycis bachus सामान्य कूटमीन  
 Pseudophyllidea** *Zool*. (scolex generally with two,sometimes without, suckers— PH. I.237)
 
@@ -27486,7 +27486,7 @@ pseudopyrochroite = backstromite
 pseudoraphe** *Bot.***कूटसेवनी** *f.*  
 **pseudo-reduction** *Biol***. कूट-प्रहसन  
 Pseudorhynchocyon** *Zool.***कूटकरिचुञ्चु-प्रजाति  
-Pseudoscorpionidea** *Zool.*****(order consisting of the book-scorpions) **पुस्तवृश्चिक-गण** *m.*  
+Pseudoscorpionidea** *Zool.*(order consisting of the book-scorpions) **पुस्तवृश्चिक-गण** *m.*  
 **pseudospore** *Mycol.***कूटबीजाणु** *m.*  
 **pseudostipule** *Bot.***कूटानुपत्र** *n.*  
 **pseudo-stratified epithelium** *Zool.***कूट-स्तृत अधिच्छद  
@@ -27495,7 +27495,7 @@ pseudotrachea** *Zool.***कूट-श्वासनाल
 Pseudotsuga mucronata = yellow fir  
 pseudo-unimolecular reaction कूट-एकव्यूहाण्विक प्रतिक्रिया  
 pseudo-uric acid कूट-मिहिक अम्ल  
-Pseudovoltzia** *Bot.*****(a conifer शंकुधर of the Permian period गिरियुग—McLean I.678)
+Pseudovoltzia** *Bot.*(a conifer शंकुधर of the Permian period गिरियुग—McLean I.678)
 
 **गिरिशंक्वश्न-प्रजाति**
 
@@ -27516,7 +27516,7 @@ Psilopsida** *Bot.***अपर्णस्तम्भाः** *m. pl.*
 **Psilotum** *Bot.***अपर्णस्तम्भ-प्रजाति  
 Psilotum complanatum** (*complanatum* 'flattened' प्रथित— from its flattened stem:
 
-McLean I.608)****
+McLean I.608)
 
 **प्रथित अपर्णस्तम्भ**
 
@@ -27524,8 +27524,8 @@ McLean I.608)****
 Psilotum triquetrum** (*triquetrum* 'three-cornered, -angled' त्रिकोण) **त्रिकोण अपर्णस्तम्भ  
 Psittaci** *Aves* **शुकानुगण** *m.* (शुक parrot)  
 **Psittacidae** *Aves* (a family of parrots)**शुक-वंश** *m.*  
-**Psittaciformes** *Zool.*****(order) **शुक-गण** *m.*  
-**Psittacotherium** *Paleontol.*****(jaws deep and powerful—Romer p.277) **शक्तहनु-प्रजाति  
+**Psittaciformes** *Zool.*(order) **शुक-गण** *m.*  
+**Psittacotherium** *Paleontol.*(jaws deep and powerful—Romer p.277) **शक्तहनु-प्रजाति  
 Psittacula***Aves* **त्रिकेतु-प्रजाति** (त्रिकेतु ancient word—three collars of different colours round
 
 the neck)
@@ -27533,10 +27533,10 @@ the neck)
 **Psittinus** *Aves* **लघुशुक-प्रजाति  
 Psittiparus** *Aves* **शुकानन-प्रजाति  
 Psocida** (suborder including the booklice) **पुस्तयूकानुगण** *m.* (अनुगण suborder)  
-**Psocoptera** *Zool.*****(booklice and their allies; an order) **पुस्तयूका-गण** *m.*  
+**Psocoptera** *Zool.*(booklice and their allies; an order) **पुस्तयूका-गण** *m.*  
 **Psocus** *Zool.***पुस्तयूका-प्रजाति  
 Psocus fasciatus सामान्य-पुस्तयूका  
-Psolus** *Zool.*(well-marked sole— CNH.****I.574) **प्रतल-प्रजाति  
+Psolus** *Zool.*(well-marked sole— CNH.I.574) **प्रतल-प्रजाति  
 Psoralea** *Bot.***वाकुची-प्रजाति  
 Psoralea corylifolia = babchi seeds** (Nadk.)**सामान्य वाकुची** (Basu, Uri. बाकुची, Nadk. वाकुची,
 
@@ -27577,7 +27577,7 @@ psychic income** *Econ.* **मानसिक आय**
 psychist** (one who engages in psychical research)**मनोऽन्वेष्टा** *m.*  
 **psycho- मनः-  
 psychoanalysis मनोविश्लेषण, मनोगाहन** *n.*  
-**psychoanalyst मनोगाही** (-इन्.) **** *m.*  
+**psychoanalyst मनोगाही** (-इन्.)  *m.*  
 **psychoanalytic** *adj.* **मनोगाहनीय  
 psychoanalyze** *vb.* **मनोगाहन  
 psychoanalyzer मनोगाहक** *m.*  
@@ -27684,7 +27684,7 @@ pteridography** (description of ferns
 
 resembling ferns but bearing seeds instead of spores) **पर्णबीजोद्भिदः** *f.pl.*
 
-**Pteris** *Bot.*****(a genus of coarse ferns)**रूक्षपर्णांग-प्रजाति  
+**Pteris** *Bot.*(a genus of coarse ferns)**रूक्षपर्णांग-प्रजाति  
 Pteris aquilina = Pteridium aquilinum  
 Pteris elata** (recognized by its succulent leaves) **रसपर्ण रूक्षपर्णांग  
 Pteris elata** *var*.**karsteniana सामान्य रसपर्णरूक्षपर्णांग  
@@ -27718,19 +27718,19 @@ Pterocymbium javanicum** (pedicels boat-shaped—Basu) **सामान्य �
 pedicel)
 
 **Pterodactyla = Pterosauria  
-Pterodactyloidea** *Zool****.***(suborder) **क्षुद्रपुच्छ सरटानुगण***m.* (have an extremely reduced
+Pterodactyloidea** *Zool.***(suborder) **क्षुद्रपुच्छ सरटानुगण***m.* (have an extremely reduced
 
 tail—PH. II.393)
 
-**Pterodactylus** *Paleontol.*****(was a small form, some specimens being no bigger than a
+**Pterodactylus** *Paleontol.*(was a small form, some specimens being no bigger than a
 
 sparrow—Romer p.177) **क्षुद्रपक्षिसरट-प्रजाति**(Cf. *Pteranodon*)
 
 **Pterodactylus spectabilis सामान्य क्षुद्रपक्षिसरट  
-pteroid** *adj.*****(winglike) **पक्षाभ  
-Pterolepis** *Paleontol.*****(Gk.*lepis* 'scale')**पत्रशल्क-प्रजाति  
+pteroid** *adj.*(winglike) **पक्षाभ  
+Pterolepis** *Paleontol.*(Gk.*lepis* 'scale')**पत्रशल्क-प्रजाति  
 Pterolepis nitidus सामान्य पत्रशल्क  
-Pteromys** *Zool.*****(a genus of flying squirrels) **छत्रि-प्रजाति** (limbs united by a membrane or
+Pteromys** *Zool.*(a genus of flying squirrels) **छत्रि-प्रजाति** (limbs united by a membrane or
 
 parachute छत्र extending to the toes)
 
@@ -27738,17 +27738,17 @@ parachute छत्र extending to the toes)
 Pteroplataea** *Zool.***पृथुपक्ष-प्रजाति  
 Pteroplataea valenciennii सामान्य पृथुपक्ष  
 pteropod** *Zool.***पक्षपाद** *m.*  
-**Pteropoda** *Zool.*****(Gk. *pteropous* 'wing-footed'. Anterior lobe of the foot developed in the formof
+**Pteropoda** *Zool.*(Gk. *pteropous* 'wing-footed'. Anterior lobe of the foot developed in the formof
 
 broad, thin, winglike organs— Web.)**पक्षपादाः** *m.pl.*
 
 **Pteropodidae** (family)**वाग्गु-वंश** *m.*(वाग्गुद 'fruit-bat' occurs in मनुस्मृति. Cf. Marathi वटवाघूल)  
 **pteropod ooze पक्षपाद-निकर्दम  
-Pteropsida** *Bot.*****(megaphyllous pteridophytes) **महापर्णाः** *m.pl.*  
+Pteropsida** *Bot.*(megaphyllous pteridophytes) **महापर्णाः** *m.pl.*  
 **Pteropus** (chief genus of fruit-bats) **वाग्गुद-प्रजाति  
 Pteropus fuscus धूसर वाग्गुद  
 Pteropus jubatus सामान्य वाग्गुद  
-Pteropyrum** *Bot.*****(nut broadlv three-winged) **त्रिपक्षफल-प्रजाति  
+Pteropyrum** *Bot.*(nut broadlv three-winged) **त्रिपक्षफल-प्रजाति  
 Pteropyrum olivierii** (distribution—Sind, Baluchistan)**सिन्धु-त्रिपक्षफल  
 Pterosauria** *Paleontol*. (order) **पक्षि-सरट-गण** *m.*  
 **pterosaurus** *Paleontol.***पक्षि-सरट** *m.*  
@@ -27776,17 +27776,17 @@ basi- आधार-पक्षक**
 
 **Pterygogenea = Pterygota** *Zool.***सपक्षाः** *m.pl.,***सपक्षानुवर्ग** *m.*  
 **pterygoid** *Anat.***त्रिवेणी-  
-pterygoid bone** *Zool.*****(Y-shaped bone)**त्रिवेण्यस्थि  
-pterygoid muscle** *Anat.*****(muscle of the lower jaw) **अधरहनु-पेशी  
+pterygoid bone** *Zool.*(Y-shaped bone)**त्रिवेण्यस्थि  
+pterygoid muscle** *Anat.*(muscle of the lower jaw) **अधरहनु-पेशी  
 pterygoid process** *Anat.***त्रिवेणी-प्रवर्ध  
 pterygo-quadrate** *Zool.***त्रिवेणी-चतुष्क  
 Pterygota** *Zool.***सपक्षाः *m.pl*., सपक्षानुवर्ग** *m.*  
-**Pterygota** *Bot.*****(seeds many-winged at the apex—Basu) **पक्षाग्रबीज-प्रजाति  
+**Pterygota** *Bot.*(seeds many-winged at the apex—Basu) **पक्षाग्रबीज-प्रजाति  
 Pterygota alata सामान्य पक्षाग्रबीज  
 pteryla = feather tract  
-pterylosis** *Zool.*****(feather-arrangement)**पत्रन्यास** *m.*  
+pterylosis** *Zool.*(feather-arrangement)**पत्रन्यास** *m.*  
 **p^(th) percentile** *Statistics* **त^(वां)प्रतिशत-तमक  
-Ptilocercus** *Zool.*****(Gk. *ptilon* 'feather' + *kerkos* 'tail'. Genus of the pentail)**पत्रपुच्छ-प्रजाति  
+Ptilocercus** *Zool.*(Gk. *ptilon* 'feather' + *kerkos* 'tail'. Genus of the pentail)**पत्रपुच्छ-प्रजाति  
 Ptilocercus lowii सामान्य पत्रपुच्छ  
 Ptilodus** *Zool***.** (a genus which has two premolars—CNH. IX.101)**द्विपुरोहानव्य-प्रजाति  
 Ptilodus gracilis कान्त द्विपुरोहानव्य**  
@@ -28196,7 +28196,7 @@ p.805)**प्रधूनन-ज्वाला** *f.*
 
 **puddling 1.***Metal.* (process of converting pig iron into wrought iron, frequently stirring it in a
 
-reverberatory furnace) **प्रधूनन** n.**,****2.***Hydraul. Engin.* (washing clayey ore with water in a shallow tank or tube)**पंकधावन** *n.***,******3.पंकीकरण** *n.***,******4.पंकमज्जन** *n.***, गारे में डुबाना**
+reverberatory furnace) **प्रधूनन** n.**,2.***Hydraul. Engin.* (washing clayey ore with water in a shallow tank or tube)**पंकधावन** *n.***,**3.पंकीकरण** *n.***,**4.पंकमज्जन** *n.***, गारे में डुबाना**
 
 **puddling furnace प्रधूनन-भ्राष्ट्र  
 pudenda** (external genitals) **उपस्थ** *m.*  
@@ -28222,7 +28222,7 @@ shape and their property of discharging the ripe spores in a smokelike cloud) **
 
 **puffer 1. = globe-fish = swellfish = balloonfish** *Zool.* **फुल्लमत्स्य** *m.***,**
 
-****2.**(one who attends a sale
+2.**(one who attends a sale
 
 by auction, to bid on the part of the owner for the purpose of raising the price and exciting the eagerness of the bidders. Such a person is sometimes referred to as a 'sham bidder—Aiyar)
 
@@ -28230,7 +28230,7 @@ by auction, to bid on the part of the owner for the purpose of raising the price
 
 **puffing 1.***Bot.* **उद्धूमन** *n.***,**
 
-****2.मिथ्याक्रोशन***n.*  
+2.मिथ्याक्रोशन***n.*  
 **puffing and real bidding मिथ्या और सत्य प्रतिक्रोशन  
 Puffinus** *Aves* **तरंगकाक-प्रजाति  
 puffy** *adj.* **फुल्ल  
@@ -28274,7 +28274,7 @@ christopher) **सामान्य**
 pulicide पिंशुमार** *m.*  
 **pull** *vb.***अभ्याकर्षण, कर्षण, खींचना  
 pull** *n.* **1.अभ्याकर्षण** *n.***, कृष्टि** *f***., खिंचाव,
-2.प्रभाव** *m.***,******3.***Math***. कर्ष** *m.***,** **4.***Mach***. अभ्याकर्षण** *n.***,****
+2.प्रभाव** *m.***,**3.***Math***. कर्ष** *m.***,** **4.***Mach***. अभ्याकर्षण** *n.***,
 
 **5.***Printing* (proof) **ईक्ष्य** *n***.**
 
@@ -28283,7 +28283,7 @@ puller अभ्याकर्षक** *m.*
 **pulley 1.आकृषि** *m***., घर्घरी** *f***., घिरनी, घिर्री, 2.= trochlea** *Anat.***आकृषि** *m.*  
 **pulley block = block and tackle घर्घरीष्टका  
 pulling strain** (in roots—McLean I. 912) *Bot.***अभ्याकर्षण-विकार  
-Pullman car** *Rly.*****(a palace car) **हर्म्ययान  
+Pullman car** *Rly.*(a palace car) **हर्म्ययान  
 Pullman saloon car** *Rly.***हर्म्यविलास यान  
 pull-out slide उदाकृष्य सृप  
 pull over lever** *Rly.***आकृष्यउद्याम  
@@ -28292,7 +28292,7 @@ pulmo**(lung) **फुप्फुस** *m.*
 **pulmo- फुप्फुस-**  
 
 **pulmoauricular aperture** *Zool.***फुप्फुसालिन्द-मुख  
-pulmo-cutaneous** *adj.******Zool.***फुप्फुसत्वक्-  
+pulmo-cutaneous** *adj.**Zool.***फुप्फुसत्वक्-  
 pulmonary फुप्फुस-  
 pulmonary aorta फुप्फुस-महारोहिणी  
 pulmonary aponeurosis फुप्फुस-पृथुला  
@@ -28309,12 +28309,12 @@ pulmonary sinus फुप्फुस-कोटर
 pulmonary tuberculosis फुप्फुस-यक्ष्मा  
 pulmonary vein** *Zool.***फुप्फुस-सिरा  
 pulmonary ventilation फुप्फुस-संवातन  
-Pulmonata** *Zool.*****(a large order comprising most land-snails and slugsand many
+Pulmonata** *Zool.*(a large order comprising most land-snails and slugsand many
 
 fresh-water snails, distinguished by lacking gills and normally having a lung) **फुप्फुस-मन्थर-गण** *m.* (Lat. *pulmonis* 'lung')
 
 **pulmones** (pl. of *pulmo* 'lung') **फुप्फुस** *m.***फेफड़े  
-pulp 1.गोर्द, मज्जक** *m***.,गूदा, 2.**(of teeth) **गोर्द** *m.***,******3.(**Germ**.** *Fruchtfleisch***) फलगोर्द, गोर्द***m.***,******गुदा  
+pulp 1.गोर्द, मज्जक** *m***.,गूदा, 2.**(of teeth) **गोर्द** *m.***,**3.(**Germ**.** *Fruchtfleisch***) फलगोर्द, गोर्द***m.***,**गुदा  
 pulpation = pulpefaction  
 pulpboard गर्दपट्ट** *m.*  
 **pulp cavity** *Zool.***गोर्द-गुहा  
@@ -28323,9 +28323,9 @@ pulpefaction** *Med.***गोर्दीकरण** *n.*
 pulping process गोर्द-विधा  
 pulpit** (an elevated structure or platform...) **उन्मञ्च** *m.*  
 **pulp sheet गोर्द-स्तार  
-pulpwood 1.**(Germ. *Papierholz*) **पत्रकाष्ठ, गोर्दकाष्ठ***n.***,******2.** (the wood after being macerated)
+pulpwood 1.**(Germ. *Papierholz*) **पत्रकाष्ठ, गोर्दकाष्ठ***n.***,**2.** (the wood after being macerated)
 
-**काष्ठगोर्द** *m.***,****
+**काष्ठगोर्द** *m.***,
 
 **3.**(the trees so used) **गोर्दवृक्ष** *m.*
 
@@ -28350,7 +28350,7 @@ pulsation स्पन्दन** *n.*
 **pulse beat रोहिणी-स्पन्दन** *n*.**, , नाडी** *f.*  
 **pulse beetle दाल की सुसरी  
 pulse generator** *Zool.***स्पन्द-जनित्र  
-Pulsellum** *Zool.*****(foot is a retractile disc with a central tentacle—CNH. III.444)**केन्द्रांगकपाद-प्रजाति  
+Pulsellum** *Zool.*(foot is a retractile disc with a central tentacle—CNH. III.444)**केन्द्रांगकपाद-प्रजाति  
 pulse of energy** *Phys*. **ऊर्जा-स्पन्द  
 pulse radar स्पन्द-तेजोन्वेष  
 pulse rate** *Med.***नाडी-गति  
@@ -28366,10 +28366,10 @@ pulverization प्रचूर्णन** *n.*
 pulverized** *adj.***प्रचूर्णित  
 pulverizer प्रचूर्णक** *m.*  
 **pulverize soil मृदा-प्रचूर्णन  
-pulverulent** *adj.*****(that crumbles or powders easily— of rocks) **सुचूर्ण्य  
-pulverulentus** *Bot.******Tax.*****(powdered, as if dusted over) **क्षुण्ण, धूलित  
+pulverulent** *adj.*(that crumbles or powders easily— of rocks) **सुचूर्ण्य  
+pulverulentus** *Bot.**Tax.*(powdered, as if dusted over) **क्षुण्ण, धूलित  
 pulveryte** *Petrog.***मृदिकाश्म** *m. (for explanation see rock)*  
-**pulvillus** *Zool.*****(adhesivepad) **उपबर्हिका** *f.*  
+**pulvillus** *Zool.*(adhesivepad) **उपबर्हिका** *f.*  
 **pulvinar rostralis** *Zool.***तुण्डोपबर्ह** *m.*  
 **pulvinus** *Bot.*(cushionlike leaf base)**पीनाधार** *m.*  
 **pulvis = powder** *Pharm.***क्षोद** *m.***चूर्ण** *n.*  
@@ -28427,7 +28427,7 @@ pumping installation उदञ्चन-अधिष्ठापन
 pumping plant उदञ्चन-संयन्त्र  
 pumping set उदञ्च** *m.*  
 **pumping station उदञ्चन-स्थात्र  
-pumpkin 1.कूष्माण्ड** *n.***,****
+pumpkin 1.कूष्माण्ड** *n.***,
 
 **gourd तुम्बी,  
 2.**(a colour, reddish red-yellow पीतातिरक्त in hue, of very high अधि saturation and high प्रbrilliance)**प्राधिपीतातिरक्त**
@@ -28436,7 +28436,7 @@ pumpkin 1.कूष्माण्ड** *n.***,****
 pump priming** *Econ.* **समुत्थानोद्दीपन  
 pump trailor उदञ्च-अनुयान  
 punarnavine पुनर्नवी** *f.*  
-**punch 1.छिद्रक** *m.***,******2.**\[fr. Hindi पांच five (ingredients)\] **पञ्चिरा** *f.***,3.***Typefounding* **रूपघन** *m.*
+**punch 1.छिद्रक** *m.***,**2.**\[fr. Hindi पांच five (ingredients)\] **पञ्चिरा** *f.***,3.***Typefounding* **रूपघन** *m.*
 
 **mould सञ्चक, सांचा  
 die रूपदा**
@@ -28451,7 +28451,7 @@ punctae** *Bot.* **बिन्दु** *m.*
 **puncta lacrimalia** *Ophthalmol.* **अश्रु-रन्ध्र** *n.*  
 **punctatus** *Bot. Tax.* (marked with dots) **बिन्दुकित  
 punctual समयपालक, समयनिष्ठ, यथासमय, समय पर  
-punctuality समयनिष्ठता, समयनिष्ठा** *f.***,******समयपालन** *n.*
+punctuality समयनिष्ठता, समयनिष्ठा** *f.***,**समयपालन** *n.*
 
 **observe punctuality समयपालन करना**
 
@@ -28537,7 +28537,7 @@ pupation** *Zool.* **कोशितावस्था** *f.***,**
 **कोशित होना  
 pupil 1.शिष्य, छात्र** *m.*
 
-****student विद्यार्थी** (-इन्)**, 2.**(of the eye) **तारा** *f.***,**
+student विद्यार्थी** (-इन्)**, 2.**(of the eye) **तारा** *f.***,**
 
 **पुतली**
 
@@ -28616,7 +28616,7 @@ pure-bred bull असंकर वृष, असंकर सांड, जा�
 **cross-bred bull संकर वृष, संकर सांड**
 
 **pure butter शुद्ध मक्खन, शुद्ध नवनीत  
-pure chance 1.केवल संयोग,******2.***Statics* **केवल संभावना  
+pure chance 1.केवल संयोग,**2.***Statics* **केवल संभावना  
 pure charity केवल पूर्त, केवल धर्मदान  
 pure chemistry शुद्ध रसायन  
 pure chrysoidine** *Col. Ind.* **शुद्ध हेमाभी  
@@ -28674,9 +28674,9 @@ cathartic, cathartive विरेचक
 hydragogue जलरेचक**
 
 **purgative croton** (*Croton tiglium*) **जयपाल** *m.*  
-**purgatory 1.पापमोचनस्थान** *n.***,******2.नरक***m.*  
+**purgatory 1.पापमोचनस्थान** *n.***,**2.नरक***m.*  
 **purge** *vb.* **1.**(to clear from guilt or liability) **दोष-मार्जन, दोष-क्षालन, 2.***Med.* **रेचन  
-purge** *n.* **1.**(an act of purging) **मार्जन, शोधन, दोष-क्षालन** *n.***,******2.**(purgative) **रेचक***n.*  
+purge** *n.* **1.**(an act of purging) **मार्जन, शोधन, दोष-क्षालन** *n.***,**2.**(purgative) **रेचक***n.*  
 **purge oneself of suspicion अपने आपको संशय-मुक्त करना  
 purging** *Med.* **रेचन** *n.*  
 **purging agaric = white agaric** (*Polyporus officinalis*) **सितछत्र** *m.*  
@@ -28684,7 +28684,7 @@ purging** *Med.* **रेचन** *n.*
 purging cassia** (*Cassia fistula*) **स्वर्णद्रु** *m.* (B.,N.,M. स्वर्णद्रु, Ben. सोनाली)  
 **purging contempt** *Law* (atoning for, or clearing oneself from contempt of court) **अवमान-मार्जन  
 purging croton** (*Croton tiglium*) **जयपाल** *m.* (B., N., M., Ben. Pan. Mar. Sinh.)  
-**purging nut** (*Jatropha curcas*) **वनैरण्ड***m.***,******जंगली एरण्ड  
+**purging nut** (*Jatropha curcas*) **वनैरण्ड***m.***,**जंगली एरण्ड  
 purification शोधन, पावन** *n.*  
 **purification of lymph लसीका-शोधन  
 purification plant शोधन-संयन्त्र  
@@ -28694,7 +28694,7 @@ purified borax** *Pharm.* **पूत टकण
 purifier 1.पावक** *m.***,** **2.**(an apparatus for purifying coal gas) **शोधित्र***n.*  
 **purify** *vb.* **शोधन, पावन  
 purine** (Lat. *purum*'pure' +*uricum*'uric acid' +*-ine*) *Chem.***प्रिहकी** *f.*  
-**purity 1.शुद्धता, पूतता** f.**,****2.पवित्रता** *f.***,******3.***Biol.* **शुद्धता** *f.***,******4.**(of seed) *Forestry*(the percentage of gross
+**purity 1.शुद्धता, पूतता** f.**,2.पवित्रता** *f.***,**3.***Biol.* **शुद्धता** *f.***,**4.**(of seed) *Forestry*(the percentage of gross
 
 weight of a sample of seed remaining after the removal of all matter other than the seed itself with such part of the fruit as is sown with it—
 
@@ -28761,11 +28761,11 @@ purpuro-xanthin** *Chem.* **नीलोह-पीति
 purree = Indian yellow  
 purreic acid = euxanthic acid सुपीतिकअम्ल  
 purrone = euxanthone सुपीता** *f.*  
-**purse 1.थैली** (Const.)**,****2.**(*Capsella bursa-pastoris*) **स्यूनशिम्ब** *m.*  
+**purse 1.थैली** (Const.)**,2.**(*Capsella bursa-pastoris*) **स्यूनशिम्ब** *m.*  
 **purse crab = coconut crab  
 purse-cutter ग्रन्थिच्छेदक** *m.* (from शाकुन्तल)  
 **purse net ग्रन्थि-जाल  
-purser1.कोषपाल** *m.***,******2.**(cashier) **रोकपाल** *m.*  
+purser1.कोषपाल** *m.***,**2.**(cashier) **रोकपाल** *m.*  
 **purse seine ग्रन्थि-आनाय** (cf. ग्रन्थि in ग्रन्थि च्छेदक ‘purse-cutter' in Śākuntala,
 
 ग्रन्थिभेद in Manu, Yājñ.)
@@ -28773,14 +28773,14 @@ purser1.कोषपाल** *m.***,******2.**(cashier) **रोकपाल** *
 **purslane** (*Portulaca oleracea*) **लोणी***f.*(B.,N.)**, लुनिया  
 pursuance अनुसरण** *n.***, अनुसार** *m.*
 
-****in pursuance of के अनुसरण में** (Const.)**, का अनुसरण करते हुए,**
+in pursuance of के अनुसरण में** (Const.)**, का अनुसरण करते हुए,**
 
 **-अनुसार**
 
 **pursuant to के अनुसरण में, -अनुसार  
 pursuant to the provisions उपबन्धानुसार  
 pursue** *vb.* **1.पीछा करना, अनुधावन, 2.अनुसरण करना  
-pursuit 1.अनुधावन** *n.***, पीछा करना, 2.अनुसरण***n.***,******3.वृत्ति***f.*  
+pursuit 1.अनुधावन** *n.***, पीछा करना, 2.अनुसरण***n.***,**3.वृत्ति***f.*  
 **pursuit of happinese सुख की खोज, सुखप्राप्ति  
 purulent** *adj. Med.* **पूयिक  
 purveyance** *Law***राजक्रयाधिकार** *m.*  
@@ -28792,7 +28792,7 @@ statute)
 
 **व्याप्ति** *f.***,** **क्षेत्र** *n.***, सीमा** *f.***, गोचर** *m.*  
 
-****within the purview of के सीमान्तर्गत**
+within the purview of के सीमान्तर्गत**
 
 **purview of the rule नियम की व्याप्ति, नियम-व्याप्ति  
 pus** *Med.* **पूय***n.*  
@@ -28808,7 +28808,7 @@ push vehicle** *Rly.* **धक्का-गाड़ी
 pus smear** *Med.* **पूय-लेप  
 pustulant** *adj. Med. * (producing pustules पूयिका) ** पूयिकाकर  
 pustulatus** *Bot. Tax.* (with blister or pimple-like elevation) **पिडकी** (-इन्)  
-**pustule 1.***Med.* **पूयिका** *f.***,******2.***Bot.* **पिडिका** *f.*  
+**pustule 1.***Med.* **पूयिका** *f.***,**2.***Bot.* **पिडिका** *f.*  
 **put and call option** *Econ.* **उभय-विकल्प  
 put an end to अन्त करना  
 putative adj. 1.**(reputed, supposed, commonly esteemed—Aiyar)**ख्यात, 2.***Statistics* **कल्पित  
@@ -28845,9 +28845,9 @@ putrescin** *Biochem.* **पूतिगन्धि** *f.*
 putting character in issue चरित्र को वाद-विषय बनाना  
 putting in fear भयग्रस्त करना  
 putting the question प्रश्न रखना  
-putting to a wrong use दुरुपयोग** *m.***,******दुरुपयोजन** *n.***, दुरुपयोग करना  
+putting to a wrong use दुरुपयोग** *m.***,**दुरुपयोजन** *n.***, दुरुपयोग करना  
 putting up references निर्देश प्रस्तुत करना  
-putty 1.**(whiting and boiled linseed oil) **लेपिका** *f.***,******2.**(a colour, yellowish red-yellow रक्तातिपीत in
+putty 1.**(whiting and boiled linseed oil) **लेपिका** *f.***,**2.**(a colour, yellowish red-yellow रक्तातिपीत in
 
 hue, of low अव- saturation and high प्र brilliance) **प्रावरक्तातिपीत**
 
@@ -28891,7 +28891,7 @@ pycnidiospore** *Mycol.* **पलिघाबीजाणु** *m.* (pycnidium �
 **pycniospore** *Mycol.* **पलिघबीजाणु** *m.*(pycnium पलिघ)  
 **pycnium** *Mycol.* (the pycnidium-like haploid fruit-body or spermogonium) **पलिघ** *m.***,**
 
-**पुंजन्युकाधानी** *f.*****(*cf.* पुंधानी antheridium)
+**पुंजन्युकाधानी** *f.*(*cf.* पुंधानी antheridium)
 
 **Pycnocycla** *Bot.* **तृषापर्णी-प्रजाति  
 Pycnocyclaaucheriana** (when people in Baluchistan are thirsty
@@ -28991,7 +28991,7 @@ for खनिज mineral)
 pyrazino-** (pyrazine) *Chem.* **शुष्माजीवी-  
 pyrazo** (pyrazole) *Chem.* **शुष्माज-  
 pyrazol anthrone yellow** *Col. Ind.***शुष्माजैल विक्षा पीत  
-pyrazole** (*pyr*rol शुष्मैल+*azo*-अज-)*****Chem.* **शुष्माजैल** *n.*  
+pyrazole** (*pyr*rol शुष्मैल+*azo*-अज-)*Chem.* **शुष्माजैल** *n.*  
 **pyrazoline** *Chem.***शुष्माजैली***f.*  
 **pyrazolone** *Chem.* **शुष्मजैला** *f.*  
 **pyrazol orange** *Col. Ind.* **शुष्माजैल नारंग  
@@ -29006,22 +29006,22 @@ pyrenocarp = perithecium** *Mycol.***पलिघकाय** *m.*
 **Pyrenocarpeae** *Bot.* **पलिघकायाः** *m.pl.*  
 **pyrenoid** *Biol.* (a proteid body) **प्रोभूजक** *m.*  
 
-**Pyrenomycetes** *Bot.*****(the flask fungi)**पलिघकवकानि** *n.pl.*  
+**Pyrenomycetes** *Bot.*(the flask fungi)**पलिघकवकानि** *n.pl.*  
 **pyrethri flos = pyrethrum flower  
 pyrethri radix = pyrethrum root  
 Pyrethrum = insect powder** *Pharm.***कीट-क्षोद *m.*  
 Pyrethrum extract कीटक्षोद-निस्सार  
 pyrethrum flower = pyrethri flos = insect flowers = Dalmatian insect flowers**
 
-*Pharm.*****
+*Pharm.*
 
 (pyrethrum flower in powder is used to keep away insects) **कीट-पुष्प** *n.*
 
 **Pyrethrum root = pyrethri radix = Spanish pellitory** *Pharm.***कीटपुष्पमूल  
 pyrethrum seeds कीटपुष्प-बीज  
 pyrethrum yellow प्रपीत**(प्र-high brilliance)  
-**pyretic** *adj.*****(of or pert.: tofever)**ज्वरीय  
-pyretotherapy 1.**(treatment of disease by inducing fever) **ज्वरेणचिकित्सा** *f.***,******2.**(treatment of
+**pyretic** *adj.*(of or pert.: tofever)**ज्वरीय  
+pyretotherapy 1.**(treatment of disease by inducing fever) **ज्वरेणचिकित्सा** *f.***,**2.**(treatment of
 
 fever—Dorland)**ज्वरचिकित्सा** *f.*
 
@@ -29033,7 +29033,7 @@ pyrex glass अग्निराज-काच
 Pyrex glass tube अग्निराज काच-नाल  
 Pyrexia ज्वर** *m.*  
 **pyrheliometer = pyroheliometer  
-pyridine** (*pyrrol* + *idine* as in toluidine) *Chem*. **शुष्मेयी** *f.*****(शुष्म fire)  
+pyridine** (*pyrrol* + *idine* as in toluidine) *Chem*. **शुष्मेयी** *f.*(शुष्म fire)  
 
 pyridine base शुष्मेयी-पीठ  
 pyridine testing flask शुष्मेयी-परीक्षण-पलिघ  
@@ -29041,7 +29041,7 @@ pyrid-oxin = adermin शुष्मेय-
 
 तिग्मि  
 Pyridyl *Chem.***शुष्मेयल** *n.*  
-**pyriform** *adj.*****(having the form of a pear) **पुण्डरीकाकार  
+**pyriform** *adj.*(having the form of a pear) **पुण्डरीकाकार  
 pyriform organ** *Zool.***पुण्डरीकाकार अंग  
 pyrimidine = metadiazine समद्व्यजीवी** *f.*  
 **-pyrin, -pyrine** *Pharm***.** (a combining form of antipyrine ज्वरघ्नी) **-ज्वरघ्नी** *f.*  
@@ -29050,7 +29050,7 @@ pyrimidine = metadiazine समद्व्यजीवी** *f.*
 pyrite yellow or green** (acolour, yellow पीतin hue, of high प्र brilliance) **प्रपीत  
 pyrithiamine शुष्मगन्धतिक्ती** *f.*  
 **-pyritization माक्षीकायन** *n.*  
-**pyritohedral class.***Cryst.*****(12pentagonni faces; as in pyrites) **माक्षीकानीक-वर्ग  
+**pyritohedral class.***Cryst.*(12pentagonni faces; as in pyrites) **माक्षीकानीक-वर्ग  
 pyro-** *Chem.* **अग्नि-  
 pyro-antimonate** *Chem*. **अग्न्यञ्जनीय** *n.*  
 **pyro-arsenic acid = diarsenious acid  
@@ -29071,7 +29071,7 @@ pyro-electricity** *Phys*. **स्फटताप-विद्युत्
 Pyro-gallate** *Chem.***अग्नि-द्रुस्फोटीय  
 Pyro-gallol** *Chem.***अग्नि-दुस्फोटव  
 pyro-gallol-cyanine sulphonic acid** *Col. Ind.* **अग्नि-द्रुस्फोटव-श्यामी शुल्बायिक अम्ल  
-pyrogen 1.***Chem.***अग्निजन** *m.***,******2.***Med*. **ज्वरजन, ज्वरकारी** (-इन्) *m.*  
+pyrogen 1.***Chem.***अग्निजन** *m.***,**2.***Med*. **ज्वरजन, ज्वरकारी** (-इन्) *m.*  
 **pyrogene black** *Col. Ind.***अग्निजन काल** (pyrogene dyes are sulphur dyes)  
 **pyrogene black-brown अग्निजन काल-बभ्रु  
 pyrogene blue अग्निजन नील  
@@ -29096,8 +29096,8 @@ pyrogene yellow अग्निजन पीत
 pyrogene yellow-brown अग्निजन पीत-वभ्रु  
 pyrogen-free** *adj*. *Pharm***. ज्वरजन-रहित  
 pyrogenic polymerization चण्डताप-पुरु-भाजन  
-pyroheliometer = pyrheliometer** *Phys.*****(for measuring sun's heat and energy)**सूर्योर्जामान** *m.*  
-**Pyrola** *Bot.*****(its species are called wintergreen) **हेमन्तहरि-प्रजाति  
+pyroheliometer = pyrheliometer** *Phys.*(for measuring sun's heat and energy)**सूर्योर्जामान** *m.*  
+**Pyrola** *Bot.*(its species are called wintergreen) **हेमन्तहरि-प्रजाति  
 pyrol black** *Col. Ind.* (here and in the following words pyrol = pyrrol)**शुष्मैल काल  
 pyrol black-brown शुष्मैल काल-बभ्रु  
 pyrol blue शुष्मैल नील  
@@ -29129,7 +29129,7 @@ Pyrolusite** *Mineral.***लोहजारेयिज** *m.*(लोह- for �
 pyrolysis tube अग्न्यंशन-नाल  
 pyro-metallurgy** (metallurgy depending on heat ऊष्म action) **ऊष्म-धातुकार्मिकी  
 pyro-metamorphism** *Petrog.***अग्नि-रूपान्तरण  
-pyrometer** *Phys.*****(measures temperatures, esp. those beyond the range
+pyrometer** *Phys.*(measures temperatures, esp. those beyond the range
 
 of mercurial thermometers) **प्रतापमान, अग्निमान** *m.*
 
@@ -29144,7 +29144,7 @@ Pyronema** *Bot.* (appears frequentlyon burned soil; *pyro* 'fire'+*nema*'to dwe
 **Pyronemaconfluens सामान्य दग्धरुह  
 Pyronema domesticum गृह्य दग्धरुह  
 Pyronema omphalodes = Pyronema confluens  
-pyronine** *Col. Ind.*****अग्न्यायी** *f.*  
+pyronine** *Col. Ind.*अग्न्यायी** *f.*  
 **pyronine dyes अग्न्यायी रञ्जक**  
 **pyronine orange** *Col. Ind.* **अग्न्यायीनारंग  
 pyrope** *Mineral.***अग्नि-विक्रान्त***n.* (Gk.*pyros* 'fire-like')  
@@ -29240,7 +29240,7 @@ July or August, but remains hard, with firm whitish very astringent flesh untilD
 **Pyrus sorbus = Sorbus domestica  
 Pyrus torminalis = Sorbus torminalis  
 Pyrus variolosa = Pyrus pashia  
-pyruvaldehyde** (*pyruvic*+*aldehyde*)*****Chem.***गौच्छसुव्युद***m.*  
+pyruvaldehyde** (*pyruvic*+*aldehyde*)*Chem.***गौच्छसुव्युद***m.*  
 **pyruvate** *Chem.* **गौच्छीय** *n.*  
 **pyruvic acid** *Chem.* (obtained by thedry distillation of racemic acid...)**गौच्छिक अम्ल  
 Pyruvic aldehyde** *Bot.* **गौच्छिक सुव्युद  
@@ -29252,10 +29252,10 @@ pyruvyl** *Chem.***गौच्छल** *n.*
 
 from India)
 
-**Pythagorean bean** (*Nelumbo nucifera*)**पंकज** *n.*****(B., N., M.)  
+**Pythagorean bean** (*Nelumbo nucifera*)**पंकज** *n.*(B., N., M.)  
 **Pythiopsis** *Bot.*(a genus of water moulds) **पूयकाभ-प्रजाति** (Gk. *pythein* 'to rot'+-opsis -आभ)  
 
-**Pythium** *Bot.*****(Gk. *pythein* 'to rot') **पूयक-प्रजाति  
+**Pythium** *Bot.*(Gk. *pythein* 'to rot') **पूयक-प्रजाति  
 Pythium debaryanum** (causes a destructive damping off of seedlings)
 
 **आर्द्रमारपूयक**  
@@ -29267,7 +29267,7 @@ Pythium proliferum प्रगुण पूयक
 Pythium ultimum चरम पूयक  
 Pythium vexans** (*vexans* क्षित) **क्षित पूयक  
 python अजगर** *m.*  
-**Pythonomorpha = Mosasauria***Paleontol.*****(had a long, snakelike scaly body,alizardlike head)
+**Pythonomorpha = Mosasauria***Paleontol.*(had a long, snakelike scaly body,alizardlike head)
 
 **सर्प-सरटाः***m.pl.*
 
@@ -29275,7 +29275,7 @@ python अजगर** *m.*
 **Pyuridae = Cynthiidae  
 pyx coin प्रमापेक्षा-टंक** (*see* pyx trial)  
 **Pyxicola** *Zool.***वृन्तचषिका-प्रजाति  
-pyxidium** *Bot.*****(asmall box) **समुद्गा***f.*  
+pyxidium** *Bot.*(asmall box) **समुद्गा***f.*  
 **Pyxidium** *Bot.***समुद्गा-प्रजाति  
 pyx trial** (annual testing of the standard of gold and silver coins) **प्रमा-पेक्षा** *f.*
 
@@ -29300,7 +29300,7 @@ q.g.m.** (quarter girth measurement)*Forestry* **च.प.मा.** (चतुर
 **Q.S.** (quarantine station) **नि.स्था.** (निरोधा-स्थात्र)  
 **qt.** (quart) **स्थ.** (प्रस्थ)  
 **qua** (in the capacity of) **के रूप में  
-quack** (a medical charlatan)**किंवैद्य** *m.*,****कठवैद्य  
+quack** (a medical charlatan)**किंवैद्य** *m.*,कठवैद्य  
 quackery कठवैद्यक  
 quack-salver = quack  
 quadrangle** *Geom.***चतुष्कोण** *m.*  
@@ -29308,7 +29308,7 @@ quadrangle** *Geom.***चतुष्कोण** *m.*
 quadrangle or quadrilateral चतुष्कोण अथवा चतुर्भुज  
 quadrangular truss** *Engin.***चतुष्कोण-उद्ग्रन्थ  
 quadrangulus** *Bot.Tax.***चतुष्कोण  
-quadrant 1.***Math.***चरण** *m.***2.***Surv.*****(an instrument for measuring angle)
+quadrant 1.***Math.***चरण** *m.***2.***Surv.*(an instrument for measuring angle)
 
 **तुर्यक** *n.* (cf. sextant
 
@@ -29320,7 +29320,7 @@ quadrantal error** *Phys.***तुरीय विभ्रम
 quadrantal triangle** *Astron.***चरणी त्रिकोण  
 quadrant electrometer** *Phys.* **तुरीय विद्युन्मान  
 quadrant elevation** *Mil.***तुरीय उत्थान  
-quadrat Plant** *Ecol.*****(asample plot used in ecological investigations whichis rectangular
+quadrat Plant** *Ecol.*(asample plot used in ecological investigations whichis rectangular
 
 or squares in shape) **चतुष्कोणखण्ड, चतुष्कोणक***m.*
 
@@ -29331,18 +29331,18 @@ quadratic equation = equation of the second degree** *Math.***द्विघा
 quadratic factor** *Math.***द्विघातीय खण्ड  
 quadratic mean** *Math.***द्विघातीय मध्यक  
 quadratic surd वर्ग-करणी  
-quadrato-jugal** *adj.******Zool.*****(connecting the quadrate and jugal bones)
+quadrato-jugal** *adj.**Zool.*(connecting the quadrate and jugal bones)
 
 **चतुष्क-युगीय**  
 
-**quadrature 1.***Math.*****(the process of determining areas or of evaluatingintegrals)
+**quadrature 1.***Math.*(the process of determining areas or of evaluatingintegrals)
 
 **क्षेत्र-निश्चयन, क्षेत्रफल-निश्चयन** *n.***2.***Astron.***तुरीयक***n.*
 
 **quadri- चतुः-  
 quadriceps** (muscle) *Anat.***चतुश्शिरपेशी** *f.*  
 **quadriciliate** *adj.***चतुष्पक्ष्म  
-quadrifoliate** *adj.******Bot.***चतुष्पर्णक  
+quadrifoliate** *adj.**Bot.***चतुष्पर्णक  
 quadrifoliate palmate leaf** *Bot.***चतुष्पर्णक पाणि-पत्र  
 quadrilateral** *Geom.***चतुर्भुज** *m.*  
 **quadrilateral prism चतुर्भुज संक्षेत्र  
@@ -29363,7 +29363,7 @@ quadrupedal** *adj.* **1.**(having four feet)**चतुष्पाद 2.**(par
 
 **चतुष्पदीय**  
 
-**quadruple** *adj.*****(fourfold) **चतुर्गुण,** (consisting of four) **चतुष्क**  
+**quadruple** *adj.*(fourfold) **चतुर्गुण,** (consisting of four) **चतुष्क**  
 
 **quadruple line** *Rly.* **चतुष्पथ  
 quadruplicate 1.चतुर्थक** *n.***, चौथी प्रति, 2.चार प्रतियां  
@@ -29588,7 +29588,7 @@ quarterly total त्रैमासिक योग**
 
 **2.***Naut.* (a petty officer who attendsto the helm etc.) **नौकर्णचारी** (-इन्) *m.*
 
-**quarter-master general** *Mil.* **महाभक्त-यात्रिक** *m.*****(भक्त 'maintenance'+यात्रा'movement’; he is
+**quarter-master general** *Mil.* **महाभक्त-यात्रिक** *m.*(भक्त 'maintenance'+यात्रा'movement’; he is
 
 incharge ofmovements and maintenance ofarmies)
 
@@ -29622,11 +29622,11 @@ quartzite** *Petrog***. स्फटिकाश्म** *m.*
 **quartz-monzonite = adamellite  
 quartzose** *adj.***स्फटिकमय, स्फटिकसदृश  
 quartz reef स्फटिक-माला, स्फटिक शैलमाला  
-quartz-rock** *Petrog.*****(arock consisting of quartz grains, quartzite) **स्फटिक-शैल, स्फटिकाश्म** *m.*  
+quartz-rock** *Petrog.*(arock consisting of quartz grains, quartzite) **स्फटिक-शैल, स्फटिकाश्म** *m.*  
 **quartz schist** *Petrog.***स्फटिक-सुभाजा  
 quartz torsion fibre स्फटिक-विमोटन-तन्तु  
 quartz wave plate** *Phys.***स्फटिक-तरंग-पट्ट  
-quash** *vb.******Law* (to abate, annul, etc.)**अभिखण्डन  
+quash** *vb.**Law* (to abate, annul, etc.)**अभिखण्डन  
 quash execution** *Law* **निष्पादन का अभिखण्डन  
 quasi-** (Lat, 'as if') **आभास-  
 quasi-charitable आभास-पूर्त  
@@ -29641,7 +29641,7 @@ quasi dwelling houseआभास आवासगृह
 quasi-estoppel** *Law* **आभास-प्रतिष्टम्भ  
 quasi-government आभास-शासकीय  
 quasi-judicialआभास-न्यायिक  
-quasi-material** *Phys.*****(heat is neither a material nor a quasimaterial fluid)**अर्ध-भूतद्रव्य  
+quasi-material** *Phys.*(heat is neither a material nor a quasimaterial fluid)**अर्ध-भूतद्रव्य  
 quasi-military आभास-सैनिक  
 quasi-monopoly** *Econ.***आभास-एकाधिकार  
 quasi municipal corporation आभास-नगर-निगम  
@@ -29650,11 +29650,11 @@ quasi-permanent आभास-स्थायी, स्थायि-कल्प
 quasi-permanent vacancy आभास-स्थायी रिक्ति  
 quasi rent** *Econ.***आभास-भाटक  
 quasi-revenue** *Econ.***आभास-आगम  
-quassia = quassiae lignum =quassia wood** *Pharm.*****(a remedy for threadworma सूत्रकृमि
+quassia = quassiae lignum =quassia wood** *Pharm.*(a remedy for threadworma सूत्रकृमि
 
 in children) **सूत्र-कृमिघ्न** *m.*
 
-**Quaternary** *adj.******Geol.***तुरीय  
+**Quaternary** *adj.**Geol.***तुरीय  
 quaternary alloy तुरीय मिश्रातु  
 quaternary compounds तुरीय संयोग  
 quatrain चतुष्पादी  
@@ -29662,7 +29662,7 @@ quay घट्ट** *m.* (ancient word)**, घाट
 quay delivery घट्ट-प्रदान  
 quay wallपत्तन-भित्ति  
 quebracho** (lit. 'break-ax', from its hard wood) **कुलिशान्तक** *m.*  
-**queen 1.राज्ञी** *f.***,रानी** (see emperor)**,****2.**(of the bees) **राज्ञी** *f.***,रानी  
+**queen 1.राज्ञी** *f.***,रानी** (see emperor)**,2.**(of the bees) **राज्ञी** *f.***,रानी  
 Queen Anne green = tea green  
 Queen Anne's thrissel = buck thistle** (*Carduus nutans*) **हरिणकण्ट** *m.*  
 **queen bee रानी  
@@ -29688,13 +29688,13 @@ queen truss = queenpost truss** *Arch.***राज्ञी-उद्ग्र�
 quell** *vb.***दमन करना, शान्त करना  
 quench** *vb.***निर्वापण, बुझाना  
 quench-ageing** *Metal.***निर्वाप-परिपक्वन  
-quenching 1.***Phys.***निर्वाप** *m.***, निर्वापण** *n.***,******2.***Metal***. निर्वापण** *n.*  
+quenching 1.***Phys.***निर्वाप** *m.***, निर्वापण** *n.***,**2.***Metal***. निर्वापण** *n.*  
 **quenselite सीलोजारिज** *m.* (सी-for सीस lead, लो. for लोहक manganese, आर-for जारेय oxide -इन
 
 for खनिज mineral)
 
 **quercetin** (a yellow dye formed by the hydrolysis of quercitrin, etc.)**पाण्डुवञ्जुवि** *f.*  
-**quercifolius** *Bot.******Tax.* (with leaves like oak) **वञ्जुपर्ण  
+**quercifolius** *Bot.**Tax.* (with leaves like oak) **वञ्जुपर्ण  
 quercitol** (pentahydriccyclic alcohol, found in acorns) **वञ्जुफलव** *m.***= acorn sugar**
 
 **वञ्जुफल-शर्करा**
@@ -29747,7 +29747,7 @@ Querquedula cercia** (garganey duck) **हंससाचि नीलपक्�
 **querulous** *adj.* **चिड़चिड़ा, कुड़कुड़ाने वाला  
 query पृच्छा***f.*
 
-****question प्रश्न**
+question प्रश्न**
 
 **quest अन्वेषण** *n.***, खोज  
 quest** *vb.* **खोजना, अन्वेषण, ढूंढना  
@@ -29815,7 +29815,7 @@ quick vinegar process** (the formation of vinegar is greatly shortened by this p
 
 **चुक्र-दिधा**
 
-**quick with child आपन्नसत्त्वा***f.*****(from रघुवंश, शाकुन्तल)  
+**quick with child आपन्नसत्त्वा***f.*(from रघुवंश, शाकुन्तल)  
 **quid pro quo** (Lat. 'something for something’) *Econ.* **तत्-प्रति-तन्  
 quid pro quo theory** (of taxation)**तत्-प्रति-तत् सिद्धान्त  
 quiescence निश्चलता** *f.*  
@@ -29833,7 +29833,7 @@ quietness शम** *m.***, निश्चलता** *f.*
 शायि
 
 घास *m.*  
-**quill 1.**(feather) **पत्र** *n.***,******2.पत्रनाडी** *f.* (cf. पक्षनाडी in सुश्रुत)**,****3.**(of a poroupine) **शलली** *f.**,***
+**quill 1.**(feather) **पत्र** *n.***,**2.पत्रनाडी** *f.* (cf. पक्षनाडी in सुश्रुत)**,3.**(of a poroupine) **शलली** *f.**,***
 
 **4.**(for writing)**पत्रलेखनी** *f.* (पत्र feather)
 
@@ -29862,7 +29862,7 @@ quinazoline** *Chem.* **विज्वराजवी** *f.*
 **quince tree** (*Cydonia vulgaris*) **अमृतफल** *m.* (Basu)  
 **quince yellow = canary yellow  
 Quincke's tube** (interference tubule)**मिथोघट्टन-नाल  
-quincunx planting = planting in quincunx** *Forestry*****(arrangement oftrees with one at each
+quincunx planting = planting in quincunx** *Forestry*(arrangement oftrees with one at each
 
 corner andone at the centre of a square—Web.) **पञ्च-रोपण**
 
@@ -29890,7 +29890,7 @@ quinine tonic विज्वरी-
 वल्य  
 quinine wine = vinum quininae  
 quininic *adj.* **विज्वरियिक  
-quinizarin** (hydro*quinone* उदविज्वरा+*alizarin* विमञ्जिष्ठि)*****Chem.* **विज्वरजिष्ठि** *f.*  
+quinizarin** (hydro*quinone* उदविज्वरा+*alizarin* विमञ्जिष्ठि)*Chem.* **विज्वरजिष्ठि** *f.*  
 **quinizarin blue** *Col. Ind.***विज्वरजिष्ठि नील  
 quinizarin green** *Col. Ind.***विज्वरजिष्ठि हरि  
 quino-, quin- विज्वर-  
@@ -30032,8 +30032,8 @@ R** *Phys.* (resultant) **णा** (परिणामी)
 **y** (green) **ह** (हरित)  
 
 **R** *Phys.* (gas constant) **स्था** (वाति-स्थिरांक)  
-****ρ*****Phys**.*** **** (specific resistance) **रो** (आपेक्षिक रोध)  
-****ρ***-*eliminant** *Math.* **त-निरसनफल  
+ρ*Phys**.***  (specific resistance) **रो** (आपेक्षिक रोध)  
+ρ***-*eliminant** *Math.* **त-निरसनफल  
 Ra** (radium) *Chem.* **ते** (तेजातु)  
 **R.A.** (Range Assistant) **प.स.** (परिक्षेत्र सहायक)  
 **Ra-A, Ra-B** (radium A, radium B)*Chem.* **ते-क, ते-ख** (तेजातु क, तेजातु ख)  
@@ -30165,7 +30165,7 @@ rack
 
 यन्त्रणा-यन्त्र
 
-*n.***,******3**
+*n.***,**3**
 
 .
 
@@ -30396,7 +30396,7 @@ radiale
 
 अन्वरत्निका
 
-*f.***,****
+*f.***,
 
 2\.
 
@@ -30408,7 +30408,7 @@ acrinoid)
 
 अरीय-पट्ट
 
-*m.***,****
+*m.***,
 
 3\.
 
@@ -30416,7 +30416,7 @@ acrinoid)
 
 अराश्रय
 
-*m.***,****
+*m.***,
 
 4\.
 
@@ -30757,7 +30757,7 @@ radio brown** *Col. Ind.* **तेजो-बभ्रु
 radio chemistry तेज-रसायन  
 radiode**(*radium*+*-ode*-द्वार; a metal container for radium) **तेजद्वार, तेजातुधान** *n.*  
 **radiodiagnosis क्षरश्मि-निदान** *n.*  
-**radiodirection finding** (RDF) *Radar*****तेजसा दिगन्वेषण** *n.* (ते. दि.अ.)  
+**radiodirection finding** (RDF) *Radar*तेजसा दिगन्वेषण** *n.* (ते. दि.अ.)  
 **radio-element** *Chem.* **तेज-तत्त्व  
 radio engineer वितन्तु-अभियन्ता  
 radio engineering वितन्तु-आभियान्त्रिकी  
@@ -30819,7 +30819,7 @@ radiophone *Radio*** (a transmitting set for radiotelephony) **वितन्�
 **radio red** *Col. Ind.* **तेजो-रक्त  
 radio reflections तेज-परावर्तन  
 radioscope** *m.* (for detecting a radioactive तेजोद्गिर substance) **तेजोद्गिरेक्ष***m.*  
-**radioscopy 1.**(observation by radiant energy) **तेजेक्षा** *f.***,******2.क्षरश्मीक्षा** *f.*  
+**radioscopy 1.**(observation by radiant energy) **तेजेक्षा** *f.***,**2.क्षरश्मीक्षा** *f.*  
 **radio set नभोवाणी-यन्त्र** *n.*  
 **radio signal तेज-संज्ञप्ति  
 radio-sonic** *adj.***वितन्तु-स्वनिक  
@@ -30833,7 +30833,7 @@ radio-telegraph = wireless telegraph 1.** *n.***वितन्तु-दूर�
 radio-telegraphy = Hertzian telegraphy= wirelesstelegraphy वितन्तुदूरलिखा  
 radio-telephone = wireless telephone वितन्तु-दूरभाष  
 radio-telephony = wireless telephony वितन्तु-दूरभाषणा  
-radio-thallium = radium C** *Chem.*****तेज-सिक्ष्यातु-तेजातु = ग "  
+radio-thallium = radium C** *Chem.*तेज-सिक्ष्यातु-तेजातु = ग "  
 radiotherapy क्षरश्मि-चिकित्सा** *f.*(क्ष-रश्मि X-ray)  
 **radio-thorium** *chem.***तेज-हसातु  
 radio transmitter = transmitting set वितन्तु-पारेषित्र** *n.*  
@@ -30870,8 +30870,8 @@ radium therapeutics = radiotherapy
 radium therapeutist तेजातु-चिकित्सक  
 radium vermilion तेजातु हिंगुल  
 radiumization** *Chem.***तेजायन** *n.*  
-**radiumize** *vb.******Chem***. तेजायन,** (to subject to the action of radium) **तेजातु-प्रभावन  
-radius 1.***Math***. त्रिज्या** *f.***, अर** *m.***, अर्धव्यास** *m.***,******2.क्षेत्र** *n.***, घेस**
+**radiumize** *vb.**Chem***. तेजायन,** (to subject to the action of radium) **तेजातु-प्रभावन  
+radius 1.***Math***. त्रिज्या** *f.***, अर** *m.***, अर्धव्यास** *m.***,**2.क्षेत्र** *n.***, घेस**
 
 **within a radius of के घेरे में, के क्षेत्र में,**  
 
@@ -30882,15 +30882,15 @@ radius of gyration वलयन-त्रिज्या
 radius of particles लवों की त्रिज्या  
 radius of the base आधार-त्रिज्या  
 radius vector** *Math***. सदिश-त्रिज्या  
-radix 1.***Math***. मूलांक***m.**,*****2 = root** *Pharm.***मूल** *n.*  
-**radix aortae** *Zool****.*महारोहिणी-मूल  
+radix 1.***Math***. मूलांक***m.**,*2 = root** *Pharm.***मूल** *n.*  
+**radix aortae** *Zool.*महारोहिणी-मूल  
 radix fraction** *Math.***मूलांक-भिन्न  
 radome = blister *Radar*** (antenna housing) **प्रावार** *m.* (प्रातन्तु-प्रावार )  
 **radon** *Chem***. तैजसाति** *m.*  
 **radula** (Lat.'scraper) *Zool.***रेत्रिका** *f.*(a rasping organ)  
 **radular sac** *Zool.***रेत्रिका-स्यून  
 radulaspore** *Mycol***.** (aspore on a sterigma कणीवृन्त) **प्रवृन्तबीजाणु  
-raffia 1.**(the fibre) **वज्रतन्तु***m.***,******2.**(the raffia palm) **वज्रतन्तु-ताल** *m.*  
+raffia 1.**(the fibre) **वज्रतन्तु***m.***,**2.**(the raffia palm) **वज्रतन्तु-ताल** *m.*  
 **raffia palm** (*Raphia rufia*, it is of considerable economic importance on account of the strong
 
 fibra obtained from its leatstalks)**वज्रतन्तु-ताल**
@@ -30903,7 +30903,7 @@ Rafflesia** *Bot.***पुष्पमात्र-प्रजाति** (*see
 
 **विशाल पुष्पमात्र**
 
-**Rafflesiaceae** *Bot.*****(parasitic plants producing no stems or leaves, the flowers issuing from
+**Rafflesiaceae** *Bot.*(parasitic plants producing no stems or leaves, the flowers issuing from
 
 the host) **पुष्पमात्र-कुल** *n.*
 
@@ -30927,7 +30927,7 @@ ragged** *adj***. चीर्ण, चीरित
 ragged robin (***Geranium robertianum***) रक्त कषायमूल** *m.*  
 **ragged school अकिंचन-पाठशाला** (*see* school)  
 **raging torrent** *Geog***. नादिनी बेगधारा  
-rag jag (***Chenopodium album***) वास्तु** *n.*****(MW.),**वथुआ  
+rag jag (***Chenopodium album***) वास्तु** *n.*(MW.),**वथुआ  
 rag paper 1. चीर-पत्र, 2 = golden grain** (*Verbascum thapsua*)**स्वर्णधान्य** *m.*  
 **rag-sorter चोर-पृथक्कार  
 ragweed. चीरतृण** *n.*  
@@ -31087,9 +31087,9 @@ rain water वर्षा-जल, वरसात का पानी
 rain-water pipes वर्षाजल-नाड  
 rainy days वर्षा-दिन  
 rainy torrent देवनदी  
-raise** *vb.***1.उठाना, उन्नयन, ऊंचा करना, वढ़ाना** (Const.)**,****2.**(to excite)**उभारना, उत्तेजित करना,**
+raise** *vb.***1.उठाना, उन्नयन, ऊंचा करना, वढ़ाना** (Const.)**,2.**(to excite)**उभारना, उत्तेजित करना,**
 
-**3.**(to build up; to erect)**बनाना, खड़ा करना, 4.**(to levy) **उगाहना, 5.**(to get together or obtain for use or service) **भरती करना** (Const.)**,****6.उत्पन्नकरना, 7.**(to bring to notice, as to raisea point of order) **उठाना, 8.**(to elevate in rank, dignity or the like) **उन्नयन, 9.**(to increase...)**वढ़ाना, 10.***Law* (to institute, create or establish, as to raise a use) **चलाना, आरम्भ करना, 11.**(to end the operation of) **हटाना, 12.**(as, a fund) **इकट्ठा करना, 13.***Textiles* **उद्रोमण**
+**3.**(to build up; to erect)**बनाना, खड़ा करना, 4.**(to levy) **उगाहना, 5.**(to get together or obtain for use or service) **भरती करना** (Const.)**,6.उत्पन्नकरना, 7.**(to bring to notice, as to raisea point of order) **उठाना, 8.**(to elevate in rank, dignity or the like) **उन्नयन, 9.**(to increase...)**वढ़ाना, 10.***Law* (to institute, create or establish, as to raise a use) **चलाना, आरम्भ करना, 11.**(to end the operation of) **हटाना, 12.**(as, a fund) **इकट्ठा करना, 13.***Textiles* **उद्रोमण**
 
 **raise a blockade समवरोध हटाना  
 raise an army सेना भरती करना, सैन्यसंग्रहण  
@@ -31101,7 +31101,7 @@ raised tension** *Ophthalmol.***उच्च आतति
 raise money धन उगाहना  
 raise objections आपत्ति उठाना  
 raise substantially the same issues सारतः वही प्रश्न उठाना  
-raising 1.उन्नयन** *n.***, ऊंचा करना, वढाना, 2.**(of forces) **संग्रहण***n.**,*****भरती करना, 3.**(of cloth)**उद्रोमण**
+raising 1.उन्नयन** *n.***, ऊंचा करना, वढाना, 2.**(of forces) **संग्रहण***n.**,*भरती करना, 3.**(of cloth)**उद्रोमण**
 
 *n.*
 
@@ -31132,7 +31132,7 @@ Rajshahi** *Geog***. वरेन्द्र** *m.*
 
 **rake** *vb.***संकिरण  
 raker** *Zool***= gill-raker संकिर** *m.*  
-**rale** *Med.*****(an adventitious sound, usually of morbid origin)**आगन्तुकध्वनि, आगन्तुक** *m.*
+**rale** *Med.*(an adventitious sound, usually of morbid origin)**आगन्तुकध्वनि, आगन्तुक** *m.*
 
 **ronchus शुष्कागन्तुक  
 crepitations आर्द्रागन्तुक**
@@ -31147,8 +31147,8 @@ white. चित्रांग ancient name)
 **Rallus aquaticus श्वेतकण्ठ-जलकुक्कुटी  
 ram मेष** *m.* **मेंढा  
 Ram = Aries** *Astron.***मेष***m.*  
-**ramal** *adj.******Bot.***उच्छाखीय** (ramus उच्छाखा)  
-**Ramalina** *Bot.*****(ramus 'branch'— because it is fruticose: McLean I.375) **शाखिल-प्रजाति  
+**ramal** *adj.**Bot.***उच्छाखीय** (ramus उच्छाखा)  
+**Ramalina** *Bot.*(ramus 'branch'— because it is fruticose: McLean I.375) **शाखिल-प्रजाति  
 Ramalina scopulorum** (*scopulosus rocky*')**शैल-शाखिल  
 Raman effect** *Optics* (the wave length of some of the scattered rays is changed प्रविक्षिप्त
 
@@ -31159,7 +31159,7 @@ Raman effect** *Optics* (the wave length of some of the scattered rays is change
 
 शुल्वेय sulphide, -इज for खनिज mineral)
 
-**ramenta** *Bot.*****(hairlike covering of young leaves) **रोमावरण** *n.*  
+**ramenta** *Bot.*(hairlike covering of young leaves) **रोमावरण** *n.*  
 **ramentum of hairs** *Bot.***रोमावरण***n.*  
 **ramentum of scales.** *Bot.***शल्कावरण** *n.*  
 **Rameses= Yale blue  
@@ -31167,14 +31167,14 @@ ramie** (the strong, lustrous fibre, marketed in the form of China grass)**च�
 **ramie fibre चीनघास-तन्तु  
 Ramier blue** (acolour, bluish red-blue रक्तातिनील in hue, of low अवsaturation and low नि
 
-brilliance)****
+brilliance)
 
 **न्यवरक्तातिनील**
 
 **ramification** *Bot.***शाख्यन** *n.* (from शाख्य ancient word), **शाखा निकलना  
 ramified** *adj.***शाख्यित, शाखी  
 ramified trachea** *Zool.***शाखो श्वासनाल  
-ramify** *vb.******Bot.***शाख्यन  
+ramify** *vb.**Bot.***शाख्यन  
 ramifying system शाख्यन-संहति  
 rami gastrici** *Anat.***जठरोपचेता, जठरगा उच्छास्वा  
 rami grass = China grass** (*Boehmeria nivea*) **चीनघास** *m***.  
@@ -31185,9 +31185,9 @@ rammelsbergite रूपद्विनेपिज** *m.* (रूप-for रू
 
 **rammer निभरक** *m.*  
 **ramming निभरण** *n.*(निपीडय भरण to fill by pressing)  
-**ramose** *adj.*****(branched) *Bot.* **शाखी**(-इन्)  
-**ramosus** *Bot.******Tax.*****(with many branches) **प्रशाखी  
-ramp 1.***Rly.*****(asloping way) **प्रवणी** *f.***,******2.***Geol.*****(thrust संभंग having a high उद् angle of dip)
+**ramose** *adj.*(branched) *Bot.* **शाखी**(-इन्)  
+**ramosus** *Bot.**Tax.*(with many branches) **प्रशाखी  
+ramp 1.***Rly.*(asloping way) **प्रवणी** *f.***,**2.***Geol.*(thrust संभंग having a high उद् angle of dip)
 
 **उद्भंग** *m.*
 
@@ -31213,7 +31213,7 @@ Chambers) **तिरस्तन्तु नेत्रवीक्ष,** (ap
 **Ramtek** *Geog.* (North of Nagpur) **रामगिरि** *m.* (of मेघदूत)  
 **ramulus = branchlet शाखिका** *f.*  
 
-**ramus 1.उच्छाखा** *f.* **2.*******Anat.***= cornu शृंग** *n.*
+**ramus 1.उच्छाखा** *f.* **2.***Anat.***= cornu शृंग** *n.*
 
 **3.***Anat, Zool.* (the posterior or more or less vertical or
 
@@ -31336,7 +31336,7 @@ Rauinae** *Zool.* (a subfamily) **मण्डूकानुवंश** *m.*
 ranivorous** *adj. Zool.* **मण्डूकभुक्  
 rank***n.* **1.**(arow or line) **पंक्ति** *f.*(Const.),**2.**(asocial class) **श्रेणी** *f.*
 
-**3**.****(grade of official standing) **पदस्थिति** *f.*  
+**3**.(grade of official standing) **पदस्थिति** *f.*  
 
 **position स्थिति  
 status प्रस्थिति**  
@@ -31445,7 +31445,7 @@ Raphia ruffia** (raffia palm) **वज्रतन्तु बृहत्त�
 metres in length by 12 metres inbreadth— McLean I.956)**सामान्य बृहत्ताल**
 
 **Raphia vinifera** (yields palm wine)**मदिरा-बृहत्ताल  
-raphides** *Bot.*****(needle-shaped crystals of calcium exalate) **सूचीस्फट** *m.*  
+raphides** *Bot.*(needle-shaped crystals of calcium exalate) **सूचीस्फट** *m.*  
 **Raphidiophrys** *Zool.***सूचीगोला-प्रजाति  
 rapic = oleic  
 rapid** *adj.* **द्रुत  
@@ -31494,7 +31494,7 @@ rash or negligent act दुस्साहसपूर्ण अथवा प�
 rasorite क्षाटांकिज** *m.* (क्षा-for क्षारातु sodium, टांक- for टांकीय borate, -इज for खनिज mineral)  
 **raspberry 1.रसबदरी** *f.***, रसभरी, 2.** (acolour, red रक्त in hue, of low नि brilliance)**निरक्त  
 raspberry red** (a colour, yellowish- red रक्तापीत in hue, of high उद् saturation)**उद्रक्तापीत  
-rasping** *adj.******Zool.***रेत्रीयक  
+rasping** *adj.**Zool.***रेत्रीयक  
 rasping organ** *Zool.***रेत्री-अंग  
 Rastaban = **β** Draconis** *Astron.***द्वितीय अजगर** *m.*  
 **R.A.S.T.O.**(Resident Assistant Sales Tax Officer) **स. नि. वि. क. अ.** (सहायक निवासी विक्रयकर-
@@ -31502,7 +31502,7 @@ Rastaban = **β** Draconis** *Astron.***द्वितीय अजगर** *m.
 अधिकारी)
 
 **rasure** (act of orasing) **उद्घर्षण** *n.***, मिटाना  
-rat 1. मूषक** *m.***,******चूहा**
+rat 1. मूषक** *m.***,**चूहा**
 
 **mouse मूषिका**  
 
@@ -31519,7 +31519,7 @@ ratehet wheel अनिवर्ती चक्र
 rat destruction मूषक-नाशन  
 rate *n.* 1.अर्घ***m.* (ef. अघ'rate in Multani,and अर्घin महार्घfrom which are derived Hindi महंगा and
 
-*Mar.*महाग्)**, गति** *f.***,भाव, दर, 2.**(local tax) **स्थानीय कर** *m.***,******3.**(amount or quantity) **मात्रा** *f.***,******4.**(quantity, amount or degree of athing measured per unit of something else) **अनुमात्रा** *f.***,******5.**(ratio, proportion) **अनुपात** *m.***,******6.प्रत्यंक** (प्रतिशत, प्रतिसहस्र, etc. + अंक)
+*Mar.*महाग्)**, गति** *f.***,भाव, दर, 2.**(local tax) **स्थानीय कर** *m.***,**3.**(amount or quantity) **मात्रा** *f.***,**4.**(quantity, amount or degree of athing measured per unit of something else) **अनुमात्रा** *f.***,**5.**(ratio, proportion) **अनुपात** *m.***,**6.प्रत्यंक** (प्रतिशत, प्रतिसहस्र, etc. + अंक)
 
 **rateable** *adj.***आनुपातिक, यथानुपात, करयोग्य  
 rateable distribution आनुपातिक वितरण  
@@ -31585,7 +31585,7 @@ rates proposed प्रस्थापित अर्घ
 rat flea मूष-पिंशु  
 Ra-Th** (rudio-thorium) *Chem.***ते-ह्र** (तेज-ह्रसातु)  
 **rat haunt मूषक-स्थान, चूहों का अड्डा  
-rathite सीनेपशिज** *m.*****(सी- for सीस lead, नेप- for नेपाली arsenic, श- for शुल्बेय sulphide, -इज for
+rathite सीनेपशिज** *m.*(सी- for सीस lead, नेप- for नेपाली arsenic, श- for शुल्बेय sulphide, -इज for
 
 खनिज mineral)
 
@@ -31690,7 +31690,7 @@ planting, to cultivate by use of successive ratoons) **पूर्वमूल�
 rat snake मूषमक्षीसर्प  
 rat's-tail cactus = rattail cactus  
 rattail cactus कशा-कण्टाल** (for explanation see *Aporocactus flagelliformis*)  
-**rattan 1.प्रवेश** *m.***,******2.** *(Calamss rotang)***वेत्र** *m.*****(B., N., M.)**, वेंत  
+**rattan 1.प्रवेश** *m.***,**2.** *(Calamss rotang)***वेत्र** *m.*(B., N., M.)**, वेंत  
 rattan box प्रवेत्र-धान  
 rattan creeper** (*Flagellaria indica*)**पानाम्बुवल्ली** *f.* (Tam.Kan.)  
 **rattan palm प्रवेत्र***m.*  
@@ -31700,7 +31700,7 @@ rattle pouch** (*Capselia bursa-pastoris*) **न्यूनशिम्ब***m.
 **rattling खटखटाना  
 rat trap चूहों का पिंजरा, मूष-पञ्जर  
 rat-virus मूष-विषाणु  
-Rauber's cells** *Embryol.*****(cells of the trophoblast situated over the embryonic plate) **पट्टाधिकोशा  
+Rauber's cells** *Embryol.*(cells of the trophoblast situated over the embryonic plate) **पट्टाधिकोशा  
 Rauber's layer = covering layer** *Zool.***आवर-स्तर  
 rauracienne = fast red  
 Rauschbrand bacillus** ***see*** **Clostridium chauvoei  
@@ -31720,13 +31720,13 @@ devastation उद्ध्वंस, उजाड़ना**
 raven द्रोण***m.* (ancient word)  
 **raven-black द्रोण-काल  
 Ravi** (river) *Geog.***इरावती** *f.*  
-**ravine कन्दरा** *f.*****(a depression wornout by running water कंजलेन दीयते)**,गहरी घाटी  
+**ravine कन्दरा** *f.*(a depression wornout by running water कंजलेन दीयते)**,गहरी घाटी  
 ravine deer = Indian gazelle** *Mamm.***भारत-कुरंग** *m.***,चिकारा  
 ravine land कन्दरा-भूमि, गहरी घाटी वाली भूमि  
 ravine land afforestation कन्दराभूमि-वनरोपण, गहरी घाटी में वन लगाना**  
 
 **ravish** *vb.***धर्षण करना, वलाद्भोग करना  
-ravished** *adj.******Law* (I.P.C.)**धर्षित, वलाद्भुक्त  
+ravished** *adj.**Law* (I.P.C.)**धर्षित, वलाद्भुक्त  
 ravisher** *Law* (I.P.C.) **धर्षक, वलाद्भोक्ता** (-तृ) *m.*  
 **ravishment** *Law* **धर्षण** *n***., वलाद्भोग** *m.*  
 **raw** *adj.***आम, कञ्चा, अपक्व, अपरिपक्व, अनिर्मित, अपरिष्कृत-अकृत, प्राकृत  
@@ -31760,14 +31760,14 @@ and low नि brilliance) **न्यवरक्तातिपीत**
 **raw vegetables कच्चे शाक  
 raw vermiculite अपरिष्कृत कृम्यभ्रक  
 raw water प्राकृत जल  
-ray 1.रश्मि, किरण** *m.***,******2.** *Astron*. **रश्मि** *m.*
+ray 1.रश्मि, किरण** *m.***,**2.** *Astron*. **रश्मि** *m.*
 
 ***α* ray अ रश्मि  
 *β* ray आरश्मि  
 *γ* ray इ रश्मि  
 *δ*ray ई रश्मि**  
 
-**3.***Bot.***रश्मि***m.***,******4** *Phys.***रश्मि** *m.***, 5 = arm** (of astarfish) **बाहु** *m.***,******6.** (akind of fish) **पृथिका** *f.*
+**3.***Bot.***रश्मि***m.***,**4** *Phys.***रश्मि** *m.***, 5 = arm** (of astarfish) **बाहु** *m.***,**6.** (akind of fish) **पृथिका** *f.*
 
 **ray canal** *Bot.***रश्मि-कुल्या  
 ray field** *Bot.***रश्मि-क्षेत्र  
@@ -31785,7 +31785,7 @@ razor क्षुर** *m.*
 razor strop क्षुर-पट्टी  
 Razoumofskya = Arceuthobium** *Bot.*  
 **Rb** (rubilium) *Chem.***दी** (दीपातु)  
-**R.B.C..** *Med.*****(red blood cell) **र.रु.को.** (रक्त-रुधिर-कोशा)  
+**R.B.C..** *Med.*(red blood cell) **र.रु.को.** (रक्त-रुधिर-कोशा)  
 **R. C.** (Range Clerk) **प. लि.** (परिक्षेत्र-लिपिक)  
 **R.C.**(Receipt Clerk) **प्रा.लि.** (प्राप्ति-लिपिक)  
 **R.C.** (registration certificate) **प.प्र**(पञ्जीयन - प्रमाणपत्र)  
@@ -31841,7 +31841,7 @@ reactive current** *Elec.* **प्रतिकारी वाह** (active cur
 
 **reader 1.वाचक** *m.***, 2.पाठपुस्तक** (*Dist.* textbook पाठ्यपुस्तक)**, पुस्तक** *n.*
 
-****3.***Educ.* (in a university) **प्रवाचक** *m.*(*see* teacher),**4.**(in acourt) **प्रस्तुतकार** *m.*
+3.***Educ.* (in a university) **प्रवाचक** *m.*(*see* teacher),**4.**(in acourt) **प्रस्तुतकार** *m.*
 
 **reader for burette द्रवमि-वाचक  
 reader for thermometer तापमान-वाचक  
@@ -31948,7 +31948,7 @@ realgar 1.
 
 मनःशिलः
 
-*m.***,****
+*m.***,
 
 2\. = arsenic disulphide नेपाली द्विशुल्वेय  
 realgar orange = Dutch orange  
@@ -32498,7 +32498,7 @@ rebutted** *adj.* **खण्डित**
 
 **rebutter** *Law* (the answer of a defendant in matter of fact to a plaintiff's surrejoinder)
 
-**खण्डनोत्तर** *n.*****(*see*answer)
+**खण्डनोत्तर** *n.*(*see*answer)
 
 **rebutting evidence** *Law* **खण्डनकारीसाक्ष्य  
 rebutting testimony** *Law* **खण्डनकारी मौखिक साक्ष्य  
@@ -32519,7 +32519,7 @@ recapitulate** *vb.* **संक्षेपावृत्ति करना**
 
 resembling the series of ancestral typesfrom which it has descended) **पूर्वजन्यावर्तन-वाद, पूर्वावर्तन-वाद**
 
-**recaption** *Law* **1.**(the act of retaking,as of one who has escaped after arrest) **पुनःप्रग्रहण** *n.**,*****2.**(the peaceable retaking of one's own goods, chattels, wife or children from one who has taken and wrongfully detains them) **पुनर्ग्रहण***n.*
+**recaption** *Law* **1.**(the act of retaking,as of one who has escaped after arrest) **पुनःप्रग्रहण** *n.**,*2.**(the peaceable retaking of one's own goods, chattels, wife or children from one who has taken and wrongfully detains them) **पुनर्ग्रहण***n.*
 
 **recarburization पुनःप्रांगायण***n.*  
 **recast** *vb.* **फिर से ढालना  
@@ -32530,7 +32530,7 @@ retire निवृत्त होना
 secede पृथक् होना  
 withdraw प्रत्याहरण**
 
-**receipt** *n.* **प्राप्ति** *f.*****(Const.)**, पावती  
+**receipt** *n.* **प्राप्ति** *f.*(Const.)**, पावती  
 receipt** *vb.* **प्राप्स्यंकन  
 receipt and delivery प्राप्तिऔर प्रदान, प्राप्ति और दाति  
 Receipt and Despatch Clerk प्राप्ति और प्रेषण लिपिक  
@@ -32572,9 +32572,9 @@ received** *adj.* **प्राप्त, पाया
 received and retained प्राप्त और प्रतिधृत  
 received in full and final payment पूरा पूरा चुकता पाया, पूर्णान्तिम राशि प्राप्त हुई  
 receive in evidence साक्ष्यमें लेना, साक्ष्यरूप में लेना  
-receiver 1.***Law***आदाता** (-तृ)**, प्रापक** *m.**,*****2.आदाता**(-तृ) *m.*
+receiver 1.***Law***आदाता** (-तृ)**, प्रापक** *m.**,*2.आदाता**(-तृ) *m.*
 
-****fractional distillation receiver प्रभागशः**
+fractional distillation receiver प्रभागशः**
 
 **आसवन आदाता  
 3.**(of a telephone) **श्रावित्र** *n.*
@@ -32583,7 +32583,7 @@ receiver 1.***Law***आदाता** (-तृ)**, प्रापक** *m.**,**
 receiver of stolen property** *Law* **चुराई संपत्ति का आदाता  
 receiver pendente lite** *Law* **वादकालीन आदाता  
 receiver rest = cradle** (of a telephone)**आश्रय** *m.*  
-**receiving** *n.* **प्रापण** *n.****,* प्राप्त करना, आदान***n.*  
+**receiving** *n.* **प्रापण** *n.,* प्राप्त करना, आदान***n.*  
 **receiving** *adj.* **प्रापण-, आदान-, आदातृ-  
 receiving aerial** *Phys.***आदान-प्रातन्तु  
 receiving apparatus आदान-साधित्र  
@@ -32615,18 +32615,18 @@ recently born babies अभिनवजात शिशु**
 recent occurrence अभिनव घटना, अभी कीघटना  
 Recent period = Diluvial period  
 recent work अभिनव कार्य  
-receptacle 1.**(any container)**आधान, पात्र** *n.**,*****2.**(of foodgrains) **धान्याशय** *m.**,*****3.***Bot.* **a = torus पीनाक्ष**
+receptacle 1.**(any container)**आधान, पात्र** *n.**,*2.**(of foodgrains) **धान्याशय** *m.**,*3.***Bot.* **a = torus पीनाक्ष**
 
 *m.*
 
 (*Germ. Knospengrund*)***,***
 
-**b =**(an intercellular cavity containing oil, resin, or other secretion products)**ग्रह** *m.***,******c = बिम्ब***m.*
+**b =**(an intercellular cavity containing oil, resin, or other secretion products)**ग्रह** *m.***,**c = बिम्ब***m.*
 
 **receptaculum chyli = cisterna chyli  
 receptaculum ovorum** *Zool.* **अण्डाधान***n.*  
 **receptaculum seminis** *Zool.* **रेताधान** *n.*(*cf.* रेत- in रेतज MBh.)  
-**reception 1.प्राप्ति***f.* (Const.)**,****2.स्वागत** *n.***,******3.***Radio***आदान** *n.***,******4.**(of a refugee in a camp) **प्रवेश** *m.*  
+**reception 1.प्राप्ति***f.* (Const.)**,2.स्वागत** *n.***,**3.***Radio***आदान** *n.***,**4.**(of a refugee in a camp) **प्रवेश** *m.*  
 **receptionist** (when he is a male)**स्वागतकर्ता** (-तृ) *m.***,** (when she is a lady) **स्वागतकर्त्री** *f.*  
 **reception line** *Rly.* **आदान-पथ  
 reception of the lunatic उन्मत्तका प्रवेशन  
@@ -32671,7 +32671,7 @@ recipient administration प्रापक प्रशासन
 recipient area प्रापक क्षेत्र  
 recipient of a letter पत्र पाने वाला, पत्र-प्रापक  
 reciprocal** *adj.* **1.**(mutual) **परस्पर,अन्योन्य, पारस्परिक, प्रति- 2.***Math.***व्युत्क्रम  
-reciprocal** *n.* *****Math.* ($\\frac{4}{5}$ is r. of,$\\frac{5}{4}$’ i.e. inverted)**व्युत्क्रम** *m.*  
+reciprocal** *n.* *Math.* ($\\frac{4}{5}$ is r. of,$\\frac{5}{4}$’ i.e. inverted)**व्युत्क्रम** *m.*  
 **reciprocal arrangement परस्पर-प्रबन्ध  
 reciprocal basis पारस्परिक आधार  
 reciprocal cone** *Math.* **व्युत्क्रम शंकु  
@@ -32699,7 +32699,7 @@ reciprocating motion** (motion to and fro) **पश्चाग्र-गति
 reciprocation** *Math.* **व्युत्क्रमण** *n.*  
 **reciprocity** *International Trade* ** पारस्पर्य***n.*  
 **recirculation पुनःपरिवहण** *n.*  
-**recital 1.प्रपठन** *n.***, पाठ करना 2.***Law*****(the formal statement, orsetting forth, of some related
+**recital 1.प्रपठन** *n.***, पाठ करना 2.***Law*(the formal statement, orsetting forth, of some related
 
 matter of fact in any deed or writing, as to explain the reasons for atransaction, to evidence the existence of facts, or in pleading, tointroduce a positive allegation)**तथ्यकथन***n.*
 
@@ -32768,9 +32768,9 @@ recognized trade union प्रस्वीकृत कार्मिकस�
 recognized university प्रस्वीकृत विश्वविद्यालय  
 recognized veterinary college प्रस्वीकृत पशुचिकित्सा-महाविद्यालय  
 recoil** *vb.***1.प्रत्याधक्कन, 2.***Bot.***प्रतिकुण्डलन  
-recoil** *n.* **1.प्रत्याधक्का, धक्का** *f.**,*****2.***(*of a gun*) Mil.***प्रत्याधक्का** *f.*  
+recoil** *n.* **1.प्रत्याधक्का, धक्का** *f.**,*2.***(*of a gun*) Mil.***प्रत्याधक्का** *f.*  
 **recoil atom** *Physical Chem.***प्रत्याधक्का-परमाणु  
-recoiled** *adj.*****(as, a gun) **प्रत्याधक्कित  
+recoiled** *adj.*(as, a gun) **प्रत्याधक्कित  
 recoil kick** *Phys.***प्रत्याधक्कन-प्रहार  
 recoilless** *adj.***धक्काहीन  
 recoil stresses धक्का-प्रत्यावल  
@@ -32781,7 +32781,7 @@ remember स्मरण
 recognition अभिज्ञान**
 
 **recolonization** *Ecol.***पुनर्मण्डलन** *n.*  
-**recolonized** *adj.******Ecol.***पुनर्मण्डलित  
+**recolonized** *adj.**Ecol.***पुनर्मण्डलित  
 recombination पुनःसंयोजन** *n.*  
 **recombination of white light** *Phys.***श्वेत प्रकाश का पुनःसंयोजन  
 recommend** *vb.***अभिस्ताव करना  
@@ -32813,9 +32813,9 @@ recondition** *vb.***प्रत्यवस्थापन, पुनर्न
 reconditioned** *adj.***प्रत्यवस्थापित  
 reconditioning प्रत्यवस्थापन, पुनर्नवन** *n.*  
 **re-conferment पुनःप्रदान** *n.***, फिर से देना  
-reconnaissance** *Mil.***1.अभीक्षण** *n.***,******2.भूमीक्षण** *n.*  
+reconnaissance** *Mil.***1.अभीक्षण** *n.***,**2.भूमीक्षण** *n.*  
 **reconnaissance survey** *Rly.***भूमीक्षण** *n.*  
-**reconnoitre** *vb.******Mil.***पूर्वेक्षण  
+**reconnoitre** *vb.**Mil.***पूर्वेक्षण  
 reconsider** *vb.***पुनर्विचार करना** (Const.)  
 **reconsideration पुनर्विचार, पुनर्विमर्श** *m.*  
 **reconstitute** *vb.***1.पुनःसंस्थापन, पुनर्गठित करना, 2.**(to restore to the constitution of, as dehydrated
@@ -32825,14 +32825,14 @@ vegetables, etc. by treatment with water) **पुनर्जलोयन**
 **reconstituted** *adj.***1.पुनःसंस्थापित, पुनगंठित 2.पुनर्जलीयित  
 reconstituted milk पुनर्जलीयित दूध  
 reconstitution पुनः संस्थापन** *n.***पुनर्गठन** (Const.)  
-**reconstruction 1.पुनर्निर्माण** *n.***,******2.***Paleontol***. पुनर्निर्माण** *n.*  
+**reconstruction 1.पुनर्निर्माण** *n.***,**2.***Paleontol***. पुनर्निर्माण** *n.*  
 **reconstruction fund committee पुनर्निर्माण-निधि-समिति  
 reconstruction loan पुनर्निर्माण-उधार  
 reconstruction of a company समवाय-पुनर्निर्माण  
 recontrol** *Eoon.***पुनर्नियन्त्रण** *n.*  
 **reconvention** *Law* (a cross demand; a cross action by the defendant against the plantiff
 
-before the same judge) **प्रतिवाचना** *f*.***,*****प्रति-वाद** *m.*
+before the same judge) **प्रतिवाचना** *f*.***,*प्रति-वाद** *m.*
 
 **reconversion पुनारूपान्तरण** *n.* (by sandhi पुनर् changes to पुना before र)  
 **reconvey** *vb*. *Law* (to transfor back to a former ownor, as an estate)**प्रतिहस्तान्तरण, लौटा देना  
@@ -32867,7 +32867,7 @@ recorded proprietor अभिलिखित अधिस्वामी
 recorded sharer अभिलिखित अंशभागी  
 recorded weight अभिलिखित भार  
 record elimination register अभिलेख-निरसन-पञ्जी  
-recorder 1.**(one who records) **अभिलेखक** *m.**,*****2.**(recordkeeper) **अभिलेखपाल***m.***,******3.अभिलेखित्र** *n.*  
+recorder 1.**(one who records) **अभिलेखक** *m.**,*2.**(recordkeeper) **अभिलेखपाल***m.***,**3.अभिलेखित्र** *n.*  
 **record establishment अभिलेख-स्थापना  
 record evidence साक्ष्य अभिलिखित करना  
 record his views अपने विचार अभिलिखित करना  
@@ -33003,9 +33003,9 @@ rectangular slot आयताकार बिल
 rectangular solid आयत सान्द्र  
 rectangulator आयतीयक** *m.*  
 **recti** *pl*. **of rectus  
-rectification 1.संशोधन, परिशोधन** *n.***,******2.***Geom.*****(the determination of a straight line equal in length
+rectification 1.संशोधन, परिशोधन** *n.***,**2.***Geom.*(the determination of a straight line equal in length
 
-to a portion of a curve) **चापनिश्चयन** *n.**,*****3** *Elec.***एकदिश-करण** *n.*
+to a portion of a curve) **चापनिश्चयन** *n.**,*3** *Elec.***एकदिश-करण** *n.*
 
 **rectification fund संशोधन-निधि  
 rectification of errors विभ्रम-संशोधन, भूल ठीक करना  
@@ -33014,26 +33014,26 @@ rectified currrent एकदिश वाह
 rectified spirit संशोधित सुषव  
 Rectified Spirit Rules संशोधित-सुषव-नियम  
 rectified spirit series संशोधित सुषव-माला  
-rectifier 1.**(one who rectifies) **संशोधक** *m.**,*****2.**(an apparatus) **संशोधित्र** *n.**,*****3.***Elec.*
+rectifier 1.**(one who rectifies) **संशोधक** *m.**,*2.**(an apparatus) **संशोधित्र** *n.**,*3.***Elec.*
 
 (a device or apparatus for making a current unidirectional)**एकदिशीयक, एकदिशकारी** (इन्) *m.***, 4.***Naut***.** (an instrument for rectifying variations of the compass)**संशोधित्र** *n.*
 
 **rectify** *vb*. **1.संशोधन, परिशोधन, ठीक करना, 2.**(to refine or purify esp. by a procoss of repeated
 
-distillation...)**संशोधन करना, 3.***Elec.*****(to make a current unidirectional) **एकदिशीवन, एकदिश-करण**
+distillation...)**संशोधन करना, 3.***Elec.*(to make a current unidirectional) **एकदिशीवन, एकदिश-करण**
 
 **rectifying column** *Chem***. संशोधन-स्कम्भ  
 rectifying detector संशोधी उपलम्भक  
 rectifying entry संशोधन-प्रविष्टि  
 rectifying valve एकदिश कपाट** (एकदिश unidirectional)  
-**rectigradatious** *adj.******Zool.***ऋजुरोही** (-इन्)  
+**rectigradatious** *adj.**Zool.***ऋजुरोही** (-इन्)  
 **rectilineal = rectilinear** *adj.***ऋजुरेख,ऋजुरेखीय  
 rectilineal figure ऋजुरेखा-आकृति  
 rectilinear adj. 1.ऋजुरेख, ऋजुरेखीय, 2.**(along the straight line) **अन्वृजुरेख  
 rectilinear fissure** *Geog.***ऋजुरेख विदर  
 rectilinear propagation ऋजुरेखा-गमन, ऋजुरेख प्रचरण, ऋजुरेख प्रचारण  
 rectilinear propagation of light प्रकाश-ऋजुरेखा-गमन  
-rectitude 1.आर्जव** *n.***,******2.**(correctness of judgment, procedure or like) **शुद्धता** *f.*  
+rectitude 1.आर्जव** *n.***,**2.**(correctness of judgment, procedure or like) **शुद्धता** *f.*  
 **rector** (the head of a university, school or other teaching institution)**प्राचार्य** *m.*  
 **rectrices = tail feathers  
 rectum** *Anat.***गुद** *m.*  
@@ -33078,7 +33078,7 @@ Recurvirostra** *Aves* (genus of the avocets) **कषिकानी-प्र�
 
 general practice) **निराकर्ता** (-तृ) *m.*
 
-**red 1.रक्त, लाल, 2.साम्यवादी** (-इन् ) *m.***,******3.**(one favouring revolutionary socialism; an anarchist)
+**red 1.रक्त, लाल, 2.साम्यवादी** (-इन् ) *m.***,**3.**(one favouring revolutionary socialism; an anarchist)
 
 **क्रान्तिवादी** (-इन्) *m.*
 
@@ -33259,7 +33259,7 @@ red poppy** (*Papaver rhoeas*) **रक्त अहिफेन
 red precipitate = red mercuric oxide  
 red precipitate ointment** *Pharm.* **रक्त निस्साद अभ्यञ्जन  
 red pumpkin रक्त कूष्माण्ड, लाल कुम्हड़ा  
-redraft** *n.* **1.पुनःप्रारूप** *n.**,*****2.***Com.* (a second draft or copy)**विकर्ष-द्वितीयक** *m.*  
+redraft** *n.* **1.पुनःप्रारूप** *n.**,*2.***Com.* (a second draft or copy)**विकर्ष-द्वितीयक** *m.*  
 **red rattlesnake रक्त क्वणत्पुच्छ  
 redress** *n.* **निवारण** *n.* (Const.)  
 **redress of grievance परिवेदना-निवारण, कष्ट निवारण, व्यथा का निवारण** (Const.)  
@@ -33286,7 +33286,7 @@ Red Sea brown-winged tern** *Aves* **रक्त-समुद्र बभ्�
 Red Sea coast रक्त-समुद्र-तट  
 Red Sealarge crested tern** *Aves* **रक्त-समुद्र बृहत् चूडा-कुररी  
 Red Sea masked booby or gannet** *Aves***रक्त-समुद्र कृष्ण-पुच्छ शूलकाक  
-redshank 1.**(legs and feet are pale red) **अरुणजंघ** *m.**,*****2.**(*Geranium robertianum*) **रक्त**
+redshank 1.**(legs and feet are pale red) **अरुणजंघ** *m.**,*2.**(*Geranium robertianum*) **रक्त**
 
 **कषायमूल**
 
@@ -33303,7 +33303,7 @@ red-spotted** *adj.* **रक्तबिन्दु
 red spur-fowl** *Aves* **लोहित कुक्कुटक  
 red squill रक्त भूकन्द  
 redstart कपेक्षुक** *m.* (ancient word)  
-**red-streakiness** *Forestry* **रक्त-रेखिता** *f.***,******लालधारीपन  
+**red-streakiness** *Forestry* **रक्त-रेखिता** *f.***,**लालधारीपन  
 red stringybark रक्त दामवल्क  
 red-tailed chat** *Aves* **रक्त-पुच्छ अश्वक  
 red-tailed minla** *Avas* **रक्त-पुच्छ मञ्जुला  
@@ -33447,11 +33447,11 @@ reedy sugarcane** (*Saccharum arundinaceum*) **सारा-इक्षु** (B
 reef gold संदर-स्वर्ण  
 reef-heron वेला-बक** (the bird is foundon the sea-coasts वेला of Africa, Arabia and India)  
 **reel वेल्ल** *m.*  
-**re-election पुनर्निर्वाचन** *n.*****(Const.)  
+**re-election पुनर्निर्वाचन** *n.*(Const.)  
 **reelin** *Textiles* **वलन** *n.*  
 **reeling hard waste** *Textiles* **वलन-वर्तित-क्षेप्य**  
 
-**re-emergence पुनराविर्भाव** *m.**,*****पुनरुन्मज्जन** *n.*  
+**re-emergence पुनराविर्भाव** *m.**,*पुनरुन्मज्जन** *n.*  
 **re-employ** *vb.***पुनः सेवायोजन, पुनः सेवायुक्त करना**
 
 *Dist.***reappoint पुनर्नियुक्ति करना**
@@ -33461,13 +33461,13 @@ reef-heron वेला-बक** (the bird is foundon the sea-coasts वेल�
 *Dist.* **reappointment पुनर्नियुक्ति**
 
 **re-enacted** *adj.* **पुनरधिनियमित** (Const.)  
-**re-entrant** *adj.******Math.*****(as, an angle)**अन्तःप्रवेशी** (-इन्)  
+**re-entrant** *adj.**Math.*(as, an angle)**अन्तःप्रवेशी** (-इन्)  
 **re-entrant angle** *Math.* **अन्तःप्रवेशी कोण  
 re-entry पुनःप्रवेश** *m.*  
 **re-erect** *vb.***फिर से खड़ा करना, पुनरुच्छ्रित करना  
 re-erection फिर से खड़ा करना, पुनरुच्छ्रित करना  
 reeve** (female of the ruff) **भटजलरंका** *f.*  
-**re-examination 1.पुनः परीक्षण** *n.***,******पुनःपरीक्षा** *f.***,******2.***Law* **पुनः परीक्षण** *n.*  
+**re-examination 1.पुनः परीक्षण** *n.***,**पुनःपरीक्षा** *f.***,**2.***Law* **पुनः परीक्षण** *n.*  
 **re-examination of wagon वाहन का पुनःपरीक्षण  
 re-examine** *vb.***पुनःपरीक्षा करना  
 re-excavated** *adj.***पुनरुत्खात  
@@ -33485,14 +33485,14 @@ re-exportation पुनर्निर्यात** *n.*
 
 **referee निर्णायक, निर्देश्य-पुरुष** *m.*(see arbiter)  
 **referee in case of need आवश्यकता पड़ने पर निर्णायक  
-reference निर्देश** (Const.), **अभ्युद्देश** *m.**,*****प्रेषण** *n.***, प्रेष्टि** *f.***, प्रतिप्रेषण** *n.*
+reference निर्देश** (Const.), **अभ्युद्देश** *m.**,*प्रेषण** *n.***, प्रेष्टि** *f.***, प्रतिप्रेषण** *n.*
 
 **future reference भविष्य-निर्देश**
 
 **reference and disposal** (of files) *Admin.***निर्देशांकन और निर्वर्तन  
 reference book = book of reference  
 reference clerk निर्देश-लिपिक  
-referenced** *adj.******Admin.***निर्देशांकित**
+referenced** *adj.**Admin.***निर्देशांकित**
 
 **fully and correctly referenced पूर्णतया और शुद्धतया निर्देशांकित**
 
@@ -33508,7 +33508,7 @@ reference solution** (used as a standard of comparison उपमान) **उप
 reference star** *Astron.***निर्देश-तारा  
 reference to High Court उच्च न्यायालय को निर्देश  
 referencing** (a file) *Admin.***निर्देशांकन** *n.*  
-**referendum** *Pol***.** *Sci.*****(the principle or practice of referring measures passed upon or proposed
+**referendum** *Pol***.** *Sci.*(the principle or practice of referring measures passed upon or proposed
 
 by the legislative body to the body of voters, or electorate, for approval or rejection) **जन-निर्देश** *m.*  
 
@@ -33548,9 +33548,9 @@ refinery superintendent परिष्करणी-अधीक्षक
 refining परिष्करण** *n.***, परिष्कार करना  
 refix** *vb.* **पुनर्निश्चयन, फिर से निश्चित करना  
 refixation of pay वेतन-पुनर्निश्चयन  
-reflated** *adj.******Econ.***संस्फीत  
+reflated** *adj.**Econ.***संस्फीत  
 reflation** *Econ.***संस्फीति***f.***,संस्फायन***n.*(see inflation)  
-**reflationary** *adj.******Econ.***संस्फायी, संस्फीतिकारी** (-इन्)  
+**reflationary** *adj.**Econ.***संस्फायी, संस्फीतिकारी** (-इन्)  
 **reflationist** *Econ.***संस्फीतिवादी**(-इन्) *m.*  
 **reflation of currency चलार्थ-संस्फीति  
 reflect** *vb.***परावर्तन  
@@ -33562,13 +33562,13 @@ reflected sound *Radar* परावृत्त ध्वनि
 reflected wave *Radar* परावृत्त तरंग  
 reflecting** *adj*. *Phys*. **परावर्ती** (-इन्)  
 **reflecting telescope परावर्ती दूरेक्ष  
-reflection 1.परावर्तन***n.***,******2.**(image) **प्रतिविम्ब** *n.***,******3.******विचार** *m.**,*****4.दोष, दोषारोप,**
+reflection 1.परावर्तन***n.***,**2.**(image) **प्रतिविम्ब** *n.***,**3.**विचार** *m.**,*4.दोष, दोषारोप,**
 
-**आरोप** *m.**,*****5.कटाक्ष** *m.*  
+**आरोप** *m.**,*5.कटाक्ष** *m.*  
 
 **reflection of light** *Phys*. **प्रकाश-परावर्तन  
 reflection of light from plane surface समतल से प्रकाश का परावर्तन  
-reflector 1.प्रतिविम्बक** *m.***,******2.*****Radio*** **परावर्तक., 3.*****Radar*** **प्रतिक्षेपक***m.*  
+reflector 1.प्रतिविम्बक** *m.***,**2.*Radio*** **परावर्तक., 3.*Radar*** **प्रतिक्षेपक***m.*  
 **reflex** *Physiol.***प्रतिक्षेप** *m.*
 
 **response प्रतिचार**
@@ -33579,7 +33579,7 @@ reflex arc***Physiol.***प्रतिक्षेप-चाप
 reflex camera दर्पण-रूपित्र  
 reflex chain** *Zool.***प्रतिक्षेप-शृंखला  
 reflex dyspepsia** *Med.***प्रतिक्षिप्त अजीर्ण  
-reflexed** *adj.******Bot.***प्रतिक्षिप्त  
+reflexed** *adj.**Bot.***प्रतिक्षिप्त  
 reflexed margin** *Bot.***प्रतिक्षिप्त तट  
 reflex image = reflected image**  
 
@@ -33718,7 +33718,7 @@ regalia** (the rights and prerogatives of a king) **राजाधिकार*
 **regelation** (refreezing) **पुनःश्यान** *n.*  
 **regency 1.**(a body of men entrusted with vicarious government) **प्रतिराज-मण्डल** *n.*
 
-****2.** (a territory governed by a regentor regents) **प्रतिराज-क्षेत्र** *n.*
+2.** (a territory governed by a regentor regents) **प्रतिराज-क्षेत्र** *n.*
 
 **regenerate** *vb.* **1.पुनर्जनन2.***Forestry* **पुनरुत्पादन करना  
 regeneration 1.पुनर्जनन** *n.* **2.***Forestry* (the renewal of a forestcrop by natural or artificial means
@@ -34206,7 +34206,7 @@ n\.
 
 निवद्धि
 
-*f.***,****
+*f.***,
 
 3\.
 
@@ -34380,7 +34380,7 @@ regulator नियामक** *m.*
 gas and electric regulator वातिविद्युद्-नियामक**
 
 **regulator capsule** *Chem.***नियामक-प्रावर  
-regulator rod** *Rly.******Eng.***नियामक-दण्ड  
+regulator rod** *Rly.**Eng.***नियामक-दण्ड  
 regulator valve नियामक-कपाट  
 Regulidae***Aves* **दीप्तशिख-वंश** *m.* (the head is sub-crested शिखा with flame-colour दीप्त)  
 **Regulus = Cor Leonis = aLeonis** *Astron.***प्रथम सिंह** *m.***, मघा** *f.*  
@@ -34404,12 +34404,12 @@ rehabilitation grant पुनर्वास-अनुदान
 rehabilitation loan पुनर्वास-उधार  
 rehabilitation of displaced persons विस्थापितव्यक्तियों का पुनर्वासन  
 rehabilitation societies for displaced persons विस्थापित व्यकियों के लिए पुनर्वास-समितियां  
-rehearing** *Law* **पुनःश्रवण** *n.**,*****पुनः सुनवाई  
+rehearing** *Law* **पुनःश्रवण** *n.**,*पुनः सुनवाई  
 rehearsal** (as, of a tragedy) **पूर्वाभिनय** *m***.**, **पूर्वेक्षा** *f.*  
 **reheat** *vb.***पुनस्तापन  
 reheating पुनस्तापन** *n.*  
 **Reichert value *or* number** *Chem.* **भ्रक्षणांक** *m.*  
-**reign 1.** (royal authority, rule, dominion, sway) **राजत्व, राज्य** *n.***,****
+**reign 1.** (royal authority, rule, dominion, sway) **राजत्व, राज्य** *n.***,
 
 **2.**(the time during which a
 
@@ -34429,7 +34429,7 @@ Reimer-Tiemann reaction** (for producing aromatic hydroxy aldehydes) **सौद
 reimposed पुनरारोपित  
 rein रश्मि***m.***, रास  
 reinclude** *vb.***पुनरन्तर्गत करना, फिर से अन्तर्गत करना  
-reindeer** *(Rangifer tarandus;* it is the draught animal of the Eskimoes)****वाहमृग** *m.*  
+reindeer** *(Rangifer tarandus;* it is the draught animal of the Eskimoes)वाहमृग** *m.*  
 **reindeer moss वाहमृग-हरिता  
 reinfection** *Med***. पुनःसंक्रामण  
 reinforce** *vb.Phys***. संदृंहण, संबलन  
@@ -34456,7 +34456,7 @@ Reinwardtia trigyna सामान्य वसन्त** (Dehradun वसन�
 
 **reissuable** *adj.* **पुनर्निर्गम्य**  
 
-**reissue** *vb.******Econ.***पुनर्निर्गमन  
+**reissue** *vb.**Econ.***पुनर्निर्गमन  
 reissue of shares** *Com.***अंश-पुनर्निर्गमन  
 reiterate** *vb*. **पुनर्वचन, समभिहार करना** (ancient word in this sense and also used in Bengali),
 
@@ -34567,7 +34567,7 @@ relaxation of rules नियमों का शिथिलन, नियम�
 relaxation time शिथिलन-काल  
 relax restrictions आयन्त्रण शिथिल करना, आयन्त्रण ढीले करना  
 relax the ordinary requirementsसामान्य अपेक्षाएं शिथिल करना  
-relay** *n.******Phys.* (an instrument) **अभिचालित्र** *n.*  
+relay** *n.**Phys.* (an instrument) **अभिचालित्र** *n.*  
 **relay** *vb. Phys.* **अभिचालन  
 relay broadcast = rebroadcast** *vb.* **पुनःप्रसारण  
 release** *vb.* **1.मोचन, छोड़ना, 2.**(one lever releases another) **मोचन  
@@ -34623,19 +34623,19 @@ reliance निर्भरता** *f.***,विश्वास** *m.*
 I. 20)**अवशिष्ट कुण्डल  
 relict 1.***Plant Ecol.* (communities or fragments of communities which have survived some
 
-important change—Bor p. 112)****
+important change—Bor p. 112)
 
 **अवशिष्ट** *n.***, 2.***Geol.* **अवशिष्ट** *n.*
 
-**reliction** *Law* **1.**(a recession of the sea leaving land uncovered) **समुद्रापसरण** *n.***,******2.**(the land so
+**reliction** *Law* **1.**(a recession of the sea leaving land uncovered) **समुद्रापसरण** *n.***,**2.**(the land so
 
 left uncovered) **समुद्रत्यक्त भूमि** *f.*
 
 **relict mineral अवशिष्ट खनिज  
 relict mountain** *Geog.* **अवशिष्ट पर्वत  
-relief 1.**(aid) **सहायता** *f.***, साहाय्य***n.***,******2.**(that which removes pain, etc.)**निवारण***n.***,******3.**(release
+relief 1.**(aid) **सहायता** *f.***, साहाय्य***n.***,**2.**(that which removes pain, etc.)**निवारण***n.***,**3.**(release
 
-from a post) **पदावमुक्ति** *f.***,******4.***Art* **उद्भृत** *n.***,उभरवां, उकेरी, 5.अनुतोष***m.***,******6.भार**
+from a post) **पदावमुक्ति** *f.***,**4.***Art* **उद्भृत** *n.***,उभरवां, उकेरी, 5.अनुतोष***m.***,**6.भार**
 
 **हलका होना  
 certificate of relief पदावमुक्ति-प्रमाणपत्र**
@@ -35508,7 +35508,7 @@ f\.
 
 2 = consols संवार्षिकी
 
-*f.***,****
+*f.***,
 
 संनिधि
 
@@ -35787,7 +35787,7 @@ report book प्रतिवेदन-पुस्तक
 report compliance पालन की सूचना दें**  
 
 **reported** *adj.***प्रतिवेदित** (Const.)  
-**reporter 1.प्रतिवेदक** *m.***,******2.** (as of a newspaper)**वार्ताहर** *m.*
+**reporter 1.प्रतिवेदक** *m.***,**2.** (as of a newspaper)**वार्ताहर** *m.*
 
 **correspondent संवाददाता**
 
@@ -35816,7 +35816,7 @@ represent** *vb.***1.**(graphically, geometrically) **निरूपण कर�
 
 **प्रतिनिधित्व करना, 3.**(का) **द्योतक होना, 4.प्रतिनिवेदन करना, 5.***Dramat.***अभिनय करना**
 
-**representation 1.निरूपण, प्रतिरूपण** *n.***,******2.प्रतिनिधान, प्रतिनिधित्व** *n.***,**
+**representation 1.निरूपण, प्रतिरूपण** *n.***,**2.प्रतिनिधान, प्रतिनिधित्व** *n.***,**
 
 **3.**(act of exhibiting or
 
@@ -35826,7 +35826,7 @@ setting forth by a statement, account, or the like, especially with a view to af
 **representation in writing लिखित प्रतिनिवेदन  
 representations and memorials** (GBC.) **प्रतिनिवेदन और अभ्यावेदन  
 representative** *n.* **प्रतिनिधि** *m.* (Const.)  
-**representative** *adj.***1.प्रतिनिधायी** (-इन्)**,****प्रतिनिधि-,
+**representative** *adj.***1.प्रतिनिधायी** (-इन्)**,प्रतिनिधि-,
 2.निरूपक  
 representative abroad विदेशस्थ प्रतिनिधि  
 representative area प्रतिनिधायी क्षेत्र  
@@ -35862,8 +35862,8 @@ repress** *vb***.1.दमन करना, 2.प्रतिरोध करन�
 **reprieve or respite** (GBC.) **प्रविलम्बन अथवा प्रास्थगन  
 reprimand** *vb***. वाक्ताडन, ताड़ना देना  
 reprint** *vb***. पुनर्मुद्रण, फिर से छापना  
-reprint** *n.* **1.**(of a book) **पुनर्मुद्रण** *n.***,******2.**(of an article) **प्रतिमुद्रण** *n.*  
-**reprisal 1.प्रतिहिंसा** *f.* (*see* retaliation)**,******2.**(any act of retaliation) **प्रतिशोध** *m.*  
+reprint** *n.* **1.**(of a book) **पुनर्मुद्रण** *n.***,**2.**(of an article) **प्रतिमुद्रण** *n.*  
+**reprisal 1.प्रतिहिंसा** *f.* (*see* retaliation)**,**2.**(any act of retaliation) **प्रतिशोध** *m.*  
 **reprises** (deductions and duties paid yearly out of a manor and lands, as rent charge, rent seck,
 
 pensions, annuities and the like) **प्रत्यपवाह** *m.*(अपवाह deduction)
@@ -35878,11 +35878,11 @@ reprobate** *vb***.** (to reject, disallow)**अस्वीकरण, अस्
 reproduce** *vb***. 1.पुनरुत्पादन, 2.उद्धरण** (*further see* reproduction)  
 **reproduced** *adj***. 1.पुनरुत्पादित, 2. उद्धृत  
 reproduce itself** *Forestry* **स्वयं-पुनरुत्पादन  
-reproduction 1.पुनरुत्पादन** *n.***,******2.**(of sound) **पुनरुत्पादन, पुनरुद्गारण** *n.***,******3.प्रतिकृति** *f.***, प्रतिरूप** *n.***,****
+reproduction 1.पुनरुत्पादन** *n.***,**2.**(of sound) **पुनरुत्पादन, पुनरुद्गारण** *n.***,**3.प्रतिकृति** *f.***, प्रतिरूप** *n.***,
 
 **4.***Biol***.**
 
-**प्रजनन, जनन** *n.***,******5.***Forestry* (forest regrowth, seedlings, shoots or suckers, i. e. the*results* o*f regeneration*— I.F.R.) **पुनरुत्पत्ति** *f.*  
+**प्रजनन, जनन** *n.***,**5.***Forestry* (forest regrowth, seedlings, shoots or suckers, i. e. the*results* o*f regeneration*— I.F.R.) **पुनरुत्पत्ति** *f.*  
 
 **regeneration पुनरुत्पादन  
 6.***Psychol***. प्रत्युद्भावन** *n.*  
@@ -35923,7 +35923,7 @@ repudiated** *adj*. **प्रत्याख्यात
 repudiation प्रत्याख्यान** *n.*  
 **repudiation of claim अध्यर्थना-प्रत्याख्यान  
 repugnance विरोध** *m.* (Const.)  
-**repugnant** *adj.* **1.**(opposed) **विरुद्ध** (Const.)**,****2.**(reciprocally opposed) **प्रतिविरुद्ध  
+**repugnant** *adj.* **1.**(opposed) **विरुद्ध** (Const.)**,2.**(reciprocally opposed) **प्रतिविरुद्ध  
 repugnant in the subject or context विषय अथवा प्रसंग में विरुद्ध  
 repugnant or contrary to the context प्रसंग के विरुद्ध अथवा प्रतिकूल  
 repulsion** *Phys*. **अपकर्षण, अपासन** *n.*  
@@ -35943,7 +35943,7 @@ request** *n.* **प्रार्थना** *f.*
 **requested** *adj.***प्रार्थित** (Const.)  
 **request form प्रार्थना-प्रपत्र  
 request note** *Law* **प्रार्थना-पत्र  
-Requienia** *Paleontol.*****(left valve is spirally coiled—PH. I.598)**वामकुन्तल-प्रजाति  
+Requienia** *Paleontol.*(left valve is spirally coiled—PH. I.598)**वामकुन्तल-प्रजाति  
 Requienia ammonea** (left valve resembles snail-shell—PH. I.599) **मन्थराभ वामकुन्तल  
 require** *vb.***अपेक्षा करना** (Const.)
 
@@ -36011,8 +36011,8 @@ re-roll** *vb.***पुनर्वेल्लन
 re-roller पुनर्वेल्लन** *n.*  
 **res** *Law* **रयि***m.* (the Latin word is akin to Sanskrit रयि)  
 **res adjudicata = res judicata  
-resale***n.***पुनर्विक्रय** *m.***,******फिर से बिक्री  
-rescind** *vb.******Law* **अपखण्डन  
+resale***n.***पुनर्विक्रय** *m.***,**फिर से बिक्री  
+rescind** *vb.**Law* **अपखण्डन  
 rescinded or modified hereunder एतदधीन अपखण्डित अथवा अपरिवर्तित  
 rescission अपखण्डन** *n.*  
 **rescissory action** *Law* **अपखण्डनकारी कार्य  
@@ -36026,7 +36026,7 @@ rescue of prisoner बन्दी-अपमोचन**
 **rescue of property संपत्ति-अपमोचन  
 Rescuer = Champion, Perseus** *Astron.***उपवृष** *m.*  
 **reseal** *vb.***पुनः संमुद्रण  
-research अन्वेषण** *n.**,*** **गवेषणा** *f.*****(Const.)  
+research अन्वेषण** *n.**,*** **गवेषणा** *f.*(Const.)  
 **research assistant अन्वेषण-सहायक  
 research centre अन्वेषण-केन्द्र  
 research department अन्वेषण-विभाग  
@@ -36055,9 +36055,9 @@ resembling सदृश, -दृश, -नीकाश
 resene**(*resin+-ene*) *Chem.* **उद्यासेन्य** *n.*  
 **resenol orange no.3 = oil orange E  
 resentment रोष** *m.*  
-**reservation 1.आरक्षण** *n.***,******2.** (act of reserving or keeping for oneself) **रक्षण** (Const.)***,***
+**reservation 1.आरक्षण** *n.***,**2.** (act of reserving or keeping for oneself) **रक्षण** (Const.)***,***
 
-**आरक्षण** *n.***,******3.पश्चाद्-धृति** *f.***, पश्चाद्-धारण** *n.***,******4.संचिति** *f.***, संचय** *m.***, संचयन** *n.***5.***Rly.* **आरक्षण, पूर्वरक्षण** *n.*
+**आरक्षण** *n.***,**3.पश्चाद्-धृति** *f.***, पश्चाद्-धारण** *n.***,**4.संचिति** *f.***, संचय** *m.***, संचयन** *n.***5.***Rly.* **आरक्षण, पूर्वरक्षण** *n.*
 
 **reservation clerk** *Rly.* **आरक्षण-लिपिक  
 reservation of appointments नियुक्तियोंका आरक्षण  
@@ -36156,17 +36156,17 @@ resettle** *vb.* **1.पुनःस्थापन2.**(as, land revenue) **प�
 पुनर्वासन)
 
 **resettled** *adj*. **1.पुनःस्थापित, 2.पुनर्व्यवस्थापित, 3.पुनर्निवासित  
-resettlement 1.पुनःस्थापन** *n.***,******2.पुनर्व्यवस्था** *f.***,******3.पुनर्निवासन** *n.* (*Dist*. rehabilitation पुनर्वास, पुनर्वासन)  
+resettlement 1.पुनःस्थापन** *n.***,**2.पुनर्व्यवस्था** *f.***,**3.पुनर्निवासन** *n.* (*Dist*. rehabilitation पुनर्वास, पुनर्वासन)  
 **resettlement and re-employment of servicemen भूतपूर्व सैनिकों का पुनःस्थापन और**
 
 **पुनःसेवायोजन  
 resettlement scheme पुनर्निवासन-योजना  
 reshipment पुननविषण** *n.***, फिर से भेजना  
 reside** *vb.***निवास करना** (Const.)**, रहना  
-residence निवास** *m.*****(Const.)**, निवासस्थान** *n.*  
+residence निवास** *m.*(Const.)**, निवासस्थान** *n.*  
 **residence of an ambassador राजदूत निवास  
 residence out of India भारत के वाहरनिवास  
-residency 1.**(official residence of a resident) **वासामात्य-भवन** *n.***,******2.**(the status or position
+residency 1.**(official residence of a resident) **वासामात्य-भवन** *n.***,**2.**(the status or position
 
 of a resident) **वासामात्यता** *f.*
 
@@ -36227,7 +36227,7 @@ residuary legacy** *Law* **अवशिष्ट रिक्थ** (*see legacy*
 **residuary legatee** *Law* **अवशिष्ट रिक्थग्राहो  
 "residuary" post** *Admin.***"अवशिष्ट "पद  
 residuary powers अवशिष्ट शक्तियां  
-residue 1.अवशेष** *m.***,******2.***Law* **अवशिष्ट** *n.***, अवशेष** *m.***, 3.***Plant Pathol.*****(amount of dry fungicide
+residue 1.अवशेष** *m.***,**2.***Law* **अवशिष्ट** *n.***, अवशेष** *m.***, 3.***Plant Pathol.*(amount of dry fungicide
 
 remaining on a unit area of plant, plant part or other surface at any given time)**अवशेष** *m.*
 
@@ -36238,7 +36238,7 @@ residues** *Logic* **अवशेष***m.*
 
 **residuum** *Law* **अवशिष्ट** *n.*  
 **resign** *vb*. **1.त्यजन, छोड़ना, 2.पदत्याग करना** (Const.)**, त्यागपत्र देना  
-resignation 1.पदत्याग** (Const.)**, त्याग** *m.***,******2.त्यागपत्र** *n.*  
+resignation 1.पदत्याग** (Const.)**, त्याग** *m.***,**2.त्यागपत्र** *n.*  
 **resignation onmedical grounds स्वास्थ्य-कारण पदत्याग  
 resilience***Phys.* **प्रत्यास्कन्दन**(springing back),**प्रत्यास्थान** *n.*
 
@@ -36256,7 +36256,7 @@ resin distiller उद्यास-आसोत्र
 resin duct** (*Germ. Harzgang*) **उद्यास-प्रणाली  
 resined** *adj.***उद्यासित  
 resin gall** *Forestry* **उद्यास-स्फोट  
-resiniferus** *Bot.******Tax.*****(secreting resin)**उद्यासी** (-इन्)  
+resiniferus** *Bot.**Tax.*(secreting resin)**उद्यासी** (-इन्)  
 **resin of cannabis विजया-उद्यास  
 resin ointment उद्यास-अभ्यञ्जन  
 resin opal** *Mineral***.** (with a resinous luster) **उद्यासोपल***m.*  
@@ -36273,7 +36273,7 @@ resist** *vb*. **1.रोधन, 2.**(in general language) **प्रतिर�
 resist** *n.***रोध** *m.*  
 **resistability = resistibility रोध्यता** *f.*  
 **resistable = resistible** *adj*. **रोध्य  
-resistance 1.रोध्य** *m.***,******2.**(in general language) **प्रतिरोध** *m.***,******3.***Plant Pathol.***रोध,**
+resistance 1.रोध्य** *m.***,**2.**(in general language) **प्रतिरोध** *m.***,**3.***Plant Pathol.***रोध,**
 
 **रोगरोध** *m.***,**
 
@@ -36817,7 +36817,7 @@ respondent** *Law* **उत्तरवादी** (-इन्) (*see* complaina
 
 **respondentia bond नौभारबन्धक-बन्ध  
 responding** *adj.***प्रतिचारी** (-इन्)  
-**response 1.**(answer) **प्रत्युत्तर** *n.***,******2.***Psychol.***,** *Zool.***प्रतिचार** *m.*  
+**response 1.**(answer) **प्रत्युत्तर** *n.***,**2.***Psychol.***,** *Zool.***प्रतिचार** *m.*  
 **response phenomenon** *Zool.***प्रतिचारघटना  
 response to gravity भ्वाकृष्टि-प्रतिचार  
 responsibility उत्तरदायित्व** *n.*
@@ -36838,7 +36838,7 @@ responsible medical officer उत्तरदायी भैषजिक अ�
 responsible official उत्तरदायी कर्मचारी  
 responsible task उत्तरदायी कार्यभार  
 responsive** *adj.Zool.***प्रतिचारी** (-इन्)**  
-rest** *n.* **1.विश्राम** *m.***,******2.***Psychol.***विश्रान्ति** *f.* (fatigue श्रान्ति)***,*****3.**(a romaindor) **शेष** *m.* (Const.)**,**
+rest** *n.* **1.विश्राम** *m.***,**2.***Psychol.***विश्रान्ति** *f.* (fatigue श्रान्ति)***,*3.**(a romaindor) **शेष** *m.* (Const.)**,**
 
 **4**.(support) **अवलम्ब,** **आश्रय** *m*.***,*** **सहारा**
 
@@ -36855,13 +36855,13 @@ rest day विश्रान्ति दिवस
 re-sterilized** *adj.***पुनर्हतजीवाणु  
 restharrow = Ononis repens  
 rest house विश्राम-गृह  
-resting** *adj.******Biol.***विश्रामी** (-इन्)  
+resting** *adj.**Biol.***विश्रामी** (-इन्)  
 **resting nucleus** *Biol***. विश्रामी न्यष्टि  
 resting period** *Bot.***विश्रामावधि  
 resting spore** *Bot.***विश्रामी बीजाणु  
 resting stage विश्राम-अवस्था  
 restitehing पुनःसीवन** *n*.**, फिर से सीना  
-restitution 1.***Law* **प्रत्यास्थापन** *n.**,*****2.***Math***. प्रत्यवस्थान** *n.**,*** **3.***Phys.***प्रत्यास्थापन** *n.*
+restitution 1.***Law* **प्रत्यास्थापन** *n.**,*2.***Math***. प्रत्यवस्थान** *n.**,*** **3.***Phys.***प्रत्यास्थापन** *n.*
 
 **restoration पुनःस्थापन** (Const.)  
 **redress निवारण  
@@ -36875,7 +36875,7 @@ amendment संशोधन** (Const.)
 **restitution of conjugai rights दान्पत्य अधिकारों का प्रत्यास्थापन  
 restock** *vb*. *Forestry* (Germ. *wiederaufjorsten*) (to regenerate) **पुनरुत्पादन, पुनारोपण  
 restocking** *Forestry* **पुनरुत्पादन, पुनारोपण** *n.*  
-**restoration 1.पुनरुद्धार** *m.**,*** **प्रत्यास्थापन** *n.**,*****2.***Law* (as of a suit) **पुनःस्थापन** *n.*(Const.)***,***
+**restoration 1.पुनरुद्धार** *m.**,*** **प्रत्यास्थापन** *n.**,*2.***Law* (as of a suit) **पुनःस्थापन** *n.*(Const.)***,***
 
 **3.**(a representation of the original form, as of a fossil) **मूल निरूपण** *n.*
 
@@ -36885,14 +36885,14 @@ restorer** *Phys.***प्रत्यास्थापक** *m.*
 **restore to use प्रत्युपयोजन, पुनरुपयोजन  
 restoring couple** *Phys.***प्रत्यास्थापी मिथुन  
 rest periods = periods of rest विश्रामावधि  
-restrain** *vb***. 1.नियन्त्रित करना*****,*** **2.अवरोधन  
+restrain** *vb***. 1.नियन्त्रित करना*,*** **2.अवरोधन  
 restraining injunction नियन्त्रक आज्ञा**(*see* injunction)  
 **restraining order नियन्त्रक आदेश  
 restraining statute नियन्त्रक परिनियम  
-restraint 1.***Law* (I.P.C.) **नियन्त्रण** *n.*****(see confinement)***,*** **2.संयम** *m.***,** **संयमन** *n.***,** **निग्रह** *m.*  
+restraint 1.***Law* (I.P.C.) **नियन्त्रण** *n.*(see confinement)***,*** **2.संयम** *m.***,** **संयमन** *n.***,** **निग्रह** *m.*  
 **restraint of trade व्यापार पर नियन्त्रण  
-restrict** *vb.***1.आयन्त्रण*****,*** **2.संकुचित करना, संकोचन  
-restricted** *adj.***1.आयन्त्रित*****,*** **2.**(trains) **निषिद्ध*****,*** **3.संकुचित, संकोचित  
+restrict** *vb.***1.आयन्त्रण*,*** **2.संकुचित करना, संकोचन  
+restricted** *adj.***1.आयन्त्रित*,*** **2.**(trains) **निषिद्ध*,*** **3.संकुचित, संकोचित  
 restricted assets आयन्त्रित परिसंपत्  
 restricted convertibility आयन्त्रित परिवर्त्यता  
 restricted demand आयन्त्रित अभियाचन  
@@ -36906,7 +36906,7 @@ restricted interpretation आयन्त्रित निर्वचन
 restricted licensing आयन्त्रित अनुज्ञापन  
 restricted negotiability आयन्त्रित परक्राम्यता  
 restricted tenure आयन्त्रित धारणाधिकार  
-restriction 1.आयन्त्रण** *n.***, बाधा** *f.**,*** **बन्धन** *n.**,*****2.संकोचन** *n.**,*****3.***Math.***निबन्ध** *m.*  
+restriction 1.आयन्त्रण** *n.***, बाधा** *f.**,*** **बन्धन** *n.**,*2.संकोचन** *n.**,*3.***Math.***निबन्ध** *m.*  
 **restriction of hours of work कार्य-काल का आयन्त्रण  
 restriction of movements गति-आयन्त्रण  
 restriction of speed गति-सीमा, गति-सीमाबन्धन, गति-सीमन  
@@ -36991,7 +36991,7 @@ retail storekeeper अल्पशो-विक्रयागारिक
 retail trader अल्पशो-व्यापारी, फुटकर व्यापारी  
 retail vend फुटकर बेचना  
 retail vendor अल्पशो-विक्रेता, फुटकर विक्रेता  
-retain** *vb.*****(keep back) **प्रतिधारण** (ancient word)**, रखना  
+retain** *vb.*(keep back) **प्रतिधारण** (ancient word)**, रखना  
 retained** *adj.* **प्रतिधृत  
 retained adherent placenta प्रतिधृतअभिलग्न जरायु  
 retainer** *Law* **1.प्रतिधारण** *n.***2=retaining fee प्रतिधारण-शुल्क** *n.*  
@@ -37031,7 +37031,7 @@ retention period प्रतिधारण-अवधि, रखनेकी �
 
 **retention price प्रतिधारण-मूल्य  
 retention with overflow** *Med.***प्रतिधारण और आप्लाव  
-retentive** *adj.*****(of water) **प्रतिधारी** (-इन्)  
+retentive** *adj.*(of water) **प्रतिधारी** (-इन्)  
 **retentive capacity प्रतिधारण-क्षमता  
 retentive power** *Magnetism* **प्रतिधारणशक्ति  
 retentivity** *Magnetism* **प्रतिधारिता** *f.*  
@@ -37053,9 +37053,9 @@ reticulo-endothelial system.** *Anat.***जालिका-अन्तश्छ
 Reticulum = Net** *Astron.***सुमुख** *m.*  
 **reticulum 1.जाल** *n.**,***
 
-****2 = honeycomb stomach जालिका** *f.**,***
+2 = honeycomb stomach जालिका** *f.**,***
 
-****3.***Bot*. **जाल** *n.***, जालिका** *f.*  
+3.***Bot*. **जाल** *n.***, जालिका** *f.*  
 **retina** *Anat.***मूर्तिपट** *m.*  
 **retinal मूर्तिपट** *m.*  
 **retinal apoplexy** *Med.***मूर्तिपट-रक्ताघात  
@@ -37064,16 +37064,16 @@ retinal pigment मूर्तिपट-रंगा
 retinal sheath** *Zool*.**मूर्तिपट-आवरण  
 Retinia buoliana = pine shoot tortrix  
 retinophore = vitrella  
-Retinospora** *Bot.*****(Gk.*retine* 'resin' + *spora* 'seed' — McLean I.963) **उद्यास-वीज-प्रजाति  
+Retinospora** *Bot.*(Gk.*retine* 'resin' + *spora* 'seed' — McLean I.963) **उद्यास-वीज-प्रजाति  
 retinula** (froin retina मूर्तिपट) *Zool*. (a group of sensory cells enclosing a rhabdom in
 
-an ommatidium)****
+an ommatidium)
 
 **मूर्तिकौश** *n.* (कौश 'agroup of ceils')
 
 **retinular cell** *Zool.***मूर्तिकौश-कोशा  
 retinular region** *Zool* **मूर्तिकौश-देश  
-retire** *vb.***1.**(as, from a business) **निवृत्त होना, पृथग् होना, अलग होना*****,***
+retire** *vb.***1.**(as, from a business) **निवृत्त होना, पृथग् होना, अलग होना*,***
 
 **2.**(from service)
 
@@ -37095,16 +37095,16 @@ retiring room** *Rly.***विश्राम-कोष्ठ
 retort** *Chem***. बकभाण्ड** *n.*(ancient word वकयन्त्र)  
 **retort ring** *Chem.***बकभाण्ड-वलय  
 retort stand** *Chem.***वकभाण्ड-स्थाम  
-retouch** *vb.******Photog.*****(to correct or change, as a negative) **अनुशोधन  
+retouch** *vb.**Photog.*(to correct or change, as a negative) **अनुशोधन  
 retoucher** *Photo.***. अनुशोधक** *m.*  
-**retrace** *vb.******Math.***प्रतिगमन  
+**retrace** *vb.**Math.***प्रतिगमन  
 retracement** *Math.***प्रतिगमन** *n.*  
 **retract** *vb.***प्रत्याकर्षण  
 retracted** *adj.***प्रत्याकृष्ट  
 retractile** *adj.*(capable of retraction)**प्रत्याकृष्य  
 retractile claw** *Zool.***प्रत्याकृष्य नखर  
 retractile disc** *Zool.***प्रत्याकृष्य-बिम्ब  
-retractor** *Anat.*****(a muscle which draws in any part) **प्रत्याकर्षक** *m.*
+retractor** *Anat.*(a muscle which draws in any part) **प्रत्याकर्षक** *m.*
 
 **protractor प्रकर्षक**
 
@@ -37126,10 +37126,10 @@ retrial पुनरन्वीक्षा** *f.*
 **retribution** (a punishment in return)**प्रतिदण्ड** *m.* (*see* retaliation)  
 **retrieve.***vb.***पुनःप्रतिष्ठापन  
 retroactive** *adj.***भुतप्रभावी  
-retrospective** ****अतीतप्रभावी  
+retrospective** अतीतप्रभावी  
 retrogradeप्रतीपगामी** (-इन्)  
 **retrogrademotion** *Astron.* (in opposite direction of the general planetary motion)**प्रतिदिग् गति  
-retrogression 1.प्रतीपगमन** *n.**,*****2.***Forestry* **अवगति** *f.*(*cf*. progression प्रगति)***,*****3.ह्रास** *m.*  
+retrogression 1.प्रतीपगमन** *n.**,*2.***Forestry* **अवगति** *f.*(*cf*. progression प्रगति)***,*3.ह्रास** *m.*  
 **retrogression of sexuality** *Bot.***लिंगभेद-ह्रास  
 retrogressive** *adj.***प्रतोपगामी**(-इन्)
 
@@ -37137,7 +37137,7 @@ retrogressive** *adj.***प्रतोपगामी**(-इन्)
 
 **retrogressive phase प्रतीपगामी प्रावस्था  
 retromammary स्तनपृष्ठ  
-retroperitoneal** *adj.******Zool.***उदरच्छदपृष्ठीय  
+retroperitoneal** *adj.**Zool.***उदरच्छदपृष्ठीय  
 retropharyngeal** *adj.***ग्रसनीपृष्ठीय  
 retropharyngeal abscess ग्रसनीपृष्ठविद्रधि  
 retrospective** *adj*. **अतीतप्रभावी, भूतलक्षी** (-इन्) (Const.)
@@ -37363,7 +37363,7 @@ reversionary annuity प्रत्यावर्ती वार्षिक�
 reversionary bonus प्रत्यावर्ती अधिलाभांश  
 reversionary interest प्रत्यावर्ती हित  
 reversionary right** *Law* **प्रत्यावर्ती अधिकार  
-reversioner** *Law* **प्रत्यावर्ती** (-इन्)*****m.*  
+reversioner** *Law* **प्रत्यावर्ती** (-इन्)*m.*  
 **reversion to the regular line नियमित पदक्रम में प्रत्यावर्तन  
 revert** *vb. Law* **प्रत्यावर्तन  
 reverted** *adj. Law* **प्रत्यावृत्त  
@@ -37521,11 +37521,11 @@ the other is sexual) **द्वैधजन-महावंश** *m.*
 **rhabdite** *Zool.* (a rod-like वेतस structure) **वेतसी** *f.*  
 **rhabditiform larva वेतसीरूप डिम्भ**  
 
-**Rhabditis** *Zool.*****(Gk. *rhabdos* 'a rod') **वेतसी-प्रजाति  
+**Rhabditis** *Zool.*(Gk. *rhabdos* 'a rod') **वेतसी-प्रजाति  
 Rhabditisaberrans** (Lat. *aberrans* 'wandering from the way) **विपथगा वेतसी  
 Rhabditis pellis सामान्य-वेतसी  
 Rhabdocarpon= Rhabdocarpum  
-Rhabdocarpum** *Paleontol.*****(Gk. *rhabdos* 'rod' + *karpos* 'fruit'. Genus of fossil seeds
+Rhabdocarpum** *Paleontol.*(Gk. *rhabdos* 'rod' + *karpos* 'fruit'. Genus of fossil seeds
 
 characterized by numerous fibrous strands in sarcotosta—Scott)**तन्तुबीज-प्रजाति**
 
@@ -37533,7 +37533,7 @@ characterized by numerous fibrous strands in sarcotosta—Scott)**तन्त�
 **Rhabdocynthia = Herdmania  
 Rhabdogaster** *Zool.***दण्डजठर-प्रजाति  
 rhabdolith** (*rhabdo-*'rod' दण्ड + *lith*-अश्म) **दण्डाश्म** *m.*  
-**rhabdom = rhabdome** *Zool.*****(one of the minute rodlike structures in the retinulae in the
+**rhabdom = rhabdome** *Zool.*(one of the minute rodlike structures in the retinulae in the
 
 compound eyes of arthropods) **वेतसिका** *f.*(वेतस a rod)
 
@@ -37547,11 +37547,11 @@ Rhachianectes = Rachianectes
 Rhacophorus = Polypedates** *Zool.***तरुमण्डूक-प्रजाति  
 Rhacophorus pardalis** (Gk. *pardalis* 'leopard') **द्वीपी तरुमण्डूक  
 Rhacophorus reinhardtii** (flying frog) **उड्डयी तरुमण्डूक  
-rhagon** *Zool.*****(a type of sponge) **गुटिका** *f.* (Gk. *rhagos* 'berry')  
-**Rhamnaceae** *Bot.***बदर-कुल** *n.*****(from Zizyphus वदर-प्रजाति)  
+rhagon** *Zool.*(a type of sponge) **गुटिका** *f.* (Gk. *rhagos* 'berry')  
+**Rhamnaceae** *Bot.***बदर-कुल** *n.*(from Zizyphus वदर-प्रजाति)  
 **Rhamnales** *Bot.***बदर-गोत्र *n.*  
-rhamnose** *Chem.*****(Rhamnus रक्तरोहितप्रजाति + *-ose*) **रक्तरोहितधु** *n.*  
-**Rhamnus** *Bot.*****(a genus of trees with strongly pinnately veined leaves)**रक्तरोहित-**
+rhamnose** *Chem.*(Rhamnus रक्तरोहितप्रजाति + *-ose*) **रक्तरोहितधु** *n.*  
+**Rhamnus** *Bot.*(a genus of trees with strongly pinnately veined leaves)**रक्तरोहित-**
 
 **प्रजाति**
 
@@ -37572,12 +37572,12 @@ Rhamphorhynchoidea** (suborder) **महापुच्छसरटानुग�
 PH. II.393) **महापुच्छसरट-प्रजाति**
 
 **Rhamphorhynchus phyllurus पत्रलूप महापुच्छसरट** (*phyll*-पत्र. + Gk *oura* 'tail' लूम)  
-**rhamphotheca** *Zool.*****(horny sheath to the beak—PH. I.453) **शृंगावर** *m.*  
-**Rhapalodia** *Bot.*****(straight valves with incurved apices) **अन्तर्वक्र-प्रजाति  
+**rhamphotheca** *Zool.*(horny sheath to the beak—PH. I.453) **शृंगावर** *m.*  
+**Rhapalodia** *Bot.*(straight valves with incurved apices) **अन्तर्वक्र-प्रजाति  
 Rhaphidophora** *Bot.***गणेशकन्द-प्रजाति  
 Rhaphidophora pertusa सामान्य गणेशकन्द** (Mar. गणेशकन्द)  
 **Rhaphidura** *Aves* **सूचीपुच्छ-प्रजाति  
-rhatany** *(Krameria triandra)* **गल्यमूल** *m.*****(root used for sore throats)  
+rhatany** *(Krameria triandra)* **गल्यमूल** *m.*(root used for sore throats)  
 **rhatany root = krameria** *Pharm.*(used for sore throats) **गल्यमूल** *n.*  
 **Rhazya** *Bot.***स्फोटयूष-प्रजाति  
 Rhazya stricta** (juice of the leaves is givenwith milk to children for eruptions — Basu)
@@ -37585,7 +37585,7 @@ Rhazya stricta** (juice of the leaves is givenwith milk to children for eruption
 **सामान्य स्फोटयूष**
 
 **R.H.C.A.** (Regional Honorary Cement Adviser) **मा. प्रा. व. म.** (मानसेवी प्रादेशिक वज्रचूर्ण-मन्त्रणाकार)  
-**Rhea** *Astron.*****(Saturn's fifth satellite)**पञ्चम उपशनि** *m.*  
+**Rhea** *Astron.*(Saturn's fifth satellite)**पञ्चम उपशनि** *m.*  
 **rhea** *Zool.***उष्ट्रपत्री** (-इन्)*m.*  
 **Rhea** *Zool.***उष्ट्रपत्रि-प्रजाति  
 -rhea, -rrhea, rrhoea** *Med.***स्राव** *m.*  
@@ -37595,9 +37595,9 @@ Rheae** *Zool.***उष्ट्रपत्रि-अनुगण** *m.*
 **Rheidae** *Zool.***उष्ट्रपत्रि-वंश** *m.*  
 **Rheiformes** *Zool.***उष्ट्रपत्रि-गण** *m.* (गण order)  
 **rhei rhizoma = rhubarb** *Pharm.***चीनरेच** *m.*  
-**Rhenanida** *Zool.*****(cranial bones notgreatly developed) **अपूर्णकार्परानुवर्ग** *m.*  
+**Rhenanida** *Zool.*(cranial bones notgreatly developed) **अपूर्णकार्परानुवर्ग** *m.*  
 **Rhenish earth = green earth  
-rhenium** (dvi-manganese) *Chem.***बाष्पातु** *m.***** (द्वि-लोहक)  
+rhenium** (dvi-manganese) *Chem.***बाष्पातु** *m.* (द्वि-लोहक)  
 **rheonineA = fast phosphine NAL  
 rheostat** *Elec.***स्रोतस्थाप** *m.*  
 **rheotaxis** *Bot.***स्रावक्रम** *m.*  
@@ -37630,8 +37630,8 @@ Rhinacanthus communis = Rhinacanthus nasuta
 Rhinacanthus nasuta सामान्य-यूथिकापर्णी** (B., N. यूधिकापर्णी, Ben. जुइपान, Hin. पालकजुही, जुईपानी)  
 **rhinal** *Anat.*(of or pertaining to the nose) **नासीय, नासा-  
 rhinal fissure नासा-विदर  
-rhinalgia** *Med.*****(pain in the nose) **नासाशूल** *m.*  
-**rhinarium** *Zool.*****(in mammals, the hairless area of roughened skin at
+rhinalgia** *Med.*(pain in the nose) **नासाशूल** *m.*  
+**rhinarium** *Zool.*(in mammals, the hairless area of roughened skin at
 
 the tip of the snout) **नासा-खलति** *m.*(खलति 'baldness' ancient word)
 
@@ -37708,7 +37708,7 @@ rhinologist नासाविज्ञ** *m.*
 **Rhinolophinae** (subfamily) **पर्णमुखानु-वंश***m.*  
 **Rhinolophus** *Zool.* **पर्णमुख-प्रजाति  
 Rhinomyias** *Aves***पट्टवक्षस-प्रजाति** (a broad band पट्ट across the breast वक्षस्)  
-**rhinopharyngitis** *Med.* **नासाग्रसनीकोप** *m**.*** **** (ग्रसनीpharynx)  
+**rhinopharyngitis** *Med.* **नासाग्रसनीकोप** *m**.***  (ग्रसनीpharynx)  
 **rhinopharyngitis mutilans = ogo =gangosa मुखनासारि** *m.* (a disease)  
 **rhinopharynx नासाग्रसनी** *f.*  
 **rhinophore** *Zool.* (Gk. *rhinos* 'nose'. One of the two tentacle-like structures considered
@@ -37746,7 +37746,7 @@ Rhipidistia** *Paleontol.* (Gk. *rhipidos*'fan')**वीजनपत्र-ग�
 Rhizobium** *Bact.* **मूलजीव-प्रजाति  
 Rhizobium leguminosarum शिम्बीकुल्य मूलजीव  
 Rhizobium radicicola सामान्य मूलजीव  
-Rhizobium trifolii** (on *Trifolium repens*)****रामपर्ण-मूलजीव** (रामपर्ण trifolium)  
+Rhizobium trifolii** (on *Trifolium repens*)रामपर्ण-मूलजीव** (रामपर्ण trifolium)  
 **Rhizocephala** *Zool.* (have the appearance of an immense tumour on theabdomen of
 
 the host—PH. I.435)**उदरार्बुदाभ-गण** *m.*
@@ -37757,7 +37757,7 @@ Rhizodontidae** *Zool.* (*rhizo*- 'root' मूल)**मूलदन्त-व�
 rhizoid** *Bot.***शिफाभ***n.*  
 
 **rhizoidal cell** *Bot.***शिफाभीय कोशा  
-rhizomatous** *adj.******Bot.*****(like a rhizome) **शिफास्तम्भ-सदृश  
+rhizomatous** *adj.**Bot.*(like a rhizome) **शिफास्तम्भ-सदृश  
 rhizome.** *Bot.***1.**(any underground rootlike stem) **शिफास्तम्भ, मूलस्तम्भ** *m.**,***
 
 **2.**(one of the
@@ -37790,9 +37790,9 @@ sharp point')
 
 **शिताग्र वायुशिफ**
 
-**Rhizophoraceae ** *Bot.*******(family of man groves)**वायुशिफ-कुल** *n.*  
-**rhizophore** *Bot.*****(a shoot bearing roots at the apex) **मूलधर, मूलद** *m.*  
-**rhizoplast** *Zool.*****(root of the flagellum extending upto the nucleus) **कशामूल** *n.*  
+**Rhizophoraceae ** *Bot.***(family of man groves)**वायुशिफ-कुल** *n.*  
+**rhizophore** *Bot.*(a shoot bearing roots at the apex) **मूलधर, मूलद** *m.*  
+**rhizoplast** *Zool.*(root of the flagellum extending upto the nucleus) **कशामूल** *n.*  
 **Rhizopoda** *Zool.***मूलपादाः** *m.pl.*  
 **Rhizopus** *Bot.***मूलांघ्रि-प्रजाति  
 Rhizopus niger, Rhizopus nigricans असित मूलांघ्रि  
@@ -37812,16 +37812,16 @@ rhodanine** *Chem.***पाटली** *f.*
 **rhodinol पाटलव** *m.*  
 **Rhodinus** *Zool.***पाटलकीट-प्रजाति** (पाटल reddish)  
 **Rhodinus prolixus सामान्य पाटलकीट  
-rhodite** *Mineral.*****(a native alloy of rhodium and gold) **नाम्लस्वर्णिज** *m.*
+rhodite** *Mineral.*(a native alloy of rhodium and gold) **नाम्लस्वर्णिज** *m.*
 
 (नाम्ल- for नाम्लातु rhodium,
 
-स्वर्ण gold,****-इज for खनिज mineral)
+स्वर्ण gold,-इज for खनिज mineral)
 
-**Rhodites rosae** *Zool.*****(produces galls on wild rose) **सामान्य पाटलस्फोटक  
+**Rhodites rosae** *Zool.*(produces galls on wild rose) **सामान्य पाटलस्फोटक  
 rhodium** *Chem.***नाम्लातु** *m.*  
 **rhodizonate अभिरक्तीय** *n.*  
-**rhodizonic** *adj.******Chem.***अभिरक्तिक  
+**rhodizonic** *adj.**Chem.***अभिरक्तिक  
 rhodizonic acid** (forms brilliant red, yellow and purple salts) **अभिरक्तिक अम्ल  
 rhodo- रक्त-, पाटल-  
 Rhodobacteriaceae नीलोहवेत्राणु-कुल** *n.*  
@@ -37853,8 +37853,8 @@ rhodol = metol चित्रप्रोदव** *m.*
 
 **Rhodopechys** *Aves* **रक्तपक्ष-प्रजाति  
 Rhodophila** *Aves* (a genus of bushchats) **क्षुपप्रिय-प्रजाति** (क्षुप bush)  
-**Rhodophyceae** *Bot.*****(red algae) **रक्ताप्यक वर्ग** *m.* (वर्ग class)**, रक्ताप्यकाः** *m.pl.*  
-**Rhodosoma** *Zool.*****(Gk. *rhodon* 'rose' पाटल + *soma* 'body' काय) **पाटलकाय-प्रजाति  
+**Rhodophyceae** *Bot.*(red algae) **रक्ताप्यक वर्ग** *m.* (वर्ग class)**, रक्ताप्यकाः** *m.pl.*  
+**Rhodosoma** *Zool.*(Gk. *rhodon* 'rose' पाटल + *soma* 'body' काय) **पाटलकाय-प्रजाति  
 Rhodospiza** *Aves* **पाटला-प्रजाति** (पाटल the pink colour, so characteristic of these finches)  
 **rhoduline blue** *Col. Ind.* **अभिपाटली नील**  
 
@@ -37874,7 +37874,7 @@ rhombiecrystals तिर्यग्वर्ग-स्फट
 rhombic system** *Cryst.***तिर्यग्वर्गिक संहति  
 Rhomboganoidei = Ginglymodi  
 rhombogene** *Zool.***असूत्रभ्रूण** *n.*  
-**rhombohedral** *adj.******Geom***,** *Cryst.* **तिर्यगनीक  
+**rhombohedral** *adj.**Geom***,** *Cryst.* **तिर्यगनीक  
 rhombohedral class** *Cryst.***तिर्यगनीक वर्ग**  
 
 **rhombohedral cleavage** *Cryst.* **तिर्यगनीक भाजन  
@@ -37969,7 +37969,7 @@ Rhyniaceae** *Paleontol.* (a family ofPalaeozoic plants of the order Psilophytal
 the oldest known land plants with vascular structure) **पुरावाहिक-कुल** *n.*
 
 **rhyodacite** (*rhyolite*+*dacite*) *Petrog.***वाहतिरः स्फटाश्म** *m.* (तिरःस्फटाश्म dacite)  
-**rhyolite** *Petrog.* (Gk. *rhein* 'to flow')**वाहाश्म** *m.*****(वाह ‘flow'—so called because often shows a
+**rhyolite** *Petrog.* (Gk. *rhein* 'to flow')**वाहाश्म** *m.*(वाह ‘flow'—so called because often shows a
 
 fluidal structure)
 
@@ -37984,7 +37984,7 @@ Rhyticeros** *Aves* **वलिचञ्चु-प्रजाति** (Gk. *rhy
 **rhytidome = bark**  
 
 **Rhytina = Hydrodamalis  
-Rhytisma** *Bot.*****(Gk., 'a patch'. A genus of fungi forming black stromata on leaves)**कृष्णायक-**
+Rhytisma** *Bot.*(Gk., 'a patch'. A genus of fungi forming black stromata on leaves)**कृष्णायक-**
 
 **प्रजाति**
 
@@ -37992,11 +37992,11 @@ Rhytisma** *Bot.*****(Gk., 'a patch'. A genus of fungi forming black stromata on
 R.I.** (Rationing Inspector) **स.नि** (समभक्त-निरीक्षक)  
 **R.I.** (Reserve Inspector)**आ.नि.** (आरक्षित निरीक्षक)  
 **R.I.** (Revenue Inspector) **रा.नि.** (राजस्व-निरीक्षक)  
-**rib 1.पर्शु** *m.**,*****पसली, 2.***Bot.*****(one of the primary veins, or nerves, of a leaf, esp. the midrib)
+**rib 1.पर्शु** *m.**,*पसली, 2.***Bot.*(one of the primary veins, or nerves, of a leaf, esp. the midrib)
 
 **प्रनाडी** *f.**,***
 
-****3.***Civil Engin.* **पर्शु** *m.*
+3.***Civil Engin.* **पर्शु** *m.*
 
 **ribbed glass सकूट काच  
 ribbon पट्टिका** *f.*  
@@ -38024,7 +38024,7 @@ ribfaced deer लोहित-मृग** (Cf. Nepali*ratwa.*Distinguished by it
 rib meristem** *Bot.***प्रनाडी-प्रविभाजी  
 ribodesose किंकराल-विधु** *n.*  
 **riboflavin = lactoflavin दुग्धपिंगि** *f.*  
-**ribonic** *adj***.** *Chem.*****(Germ. ribonsäure fr. *arabinose* by transposition of letters) **किंकरालिक**
+**ribonic** *adj***.** *Chem.*(Germ. ribonsäure fr. *arabinose* by transposition of letters) **किंकरालिक**
 
 (किंकराल *Acacia arabica*)
 
@@ -38033,7 +38033,7 @@ ribo-nucleic acid किंकराल-न्यष्टिक अम्ल
 ribose किंकरालधु** *n.*  
 **ribwort = hard heads** (*Plantago lanceolata*) **कठिनशीर्ष** *m.*  
 **Riccardia eriocaulis = Aneura eriocaulis  
-Riccia** *Bot.*****(a genus of liverworts in which thallus forms small rosettes)**सुहरिता-प्रजाति  
+Riccia** *Bot.*(a genus of liverworts in which thallus forms small rosettes)**सुहरिता-प्रजाति  
 Ricciaceae** *Bot.***सुहरिता-कुल** *n.*  
 **rice तण्डुल** *m.**,*** **चावल  
 rice bug तण्डुल-सामिपत्र  
@@ -38079,13 +38079,13 @@ rich soil समृद्ध मृदा
 ricin** *Chem.***एरण्डि** *f.*  
 
 **-ricinate** (in sulpho-ricinate)**-एरण्डीय** *n.*  
-**ricinic** *adj.******Chem.***एरण्डिक  
+**ricinic** *adj.**Chem.***एरण्डिक  
 ricinic acid एरण्डिक अम्ल  
 ricinine** *Chem.***एरण्डी** *f.*  
-**ricininic** *adj.******Chem.***पुरण्डियिक  
+**ricininic** *adj.**Chem.***पुरण्डियिक  
 ricini semen = castor oil seed** *Pharm.***एरण्ड-तैल-बीज, एरण्ड-बीज  
 ricin-oleate एरण्ड- म्रक्षीय** *n.*  
-**ricin-oleic** *adj.******Chem.***एरण्ड-म्रक्षिक  
+**ricin-oleic** *adj.**Chem.***एरण्ड-म्रक्षिक  
 ricin-stearolic** *Chem.***एरण्ड-वसम्रक्षिक  
 Ricinulei** *Zool.*(have a large movable hood, called cucullus) **छदिकामद्-गण** *m.*  
 **Ricinus** *Bot.***एरण्ड-प्रजाति  
@@ -38099,12 +38099,12 @@ rickardite ताम्रवंगिज** *m.* (ताम्र copper, वं
 **Rickenberg's phenomenon** (bacteria sticking on to a spirochaete) **शाकाणुलाग** *m.*  
 **rickets** *Med.***बालवक्र** *n.* (short for बाल-वक्रास्थि)  
 **rickettsia सन्धिपादजीवी** (-इन्) *m.*  
-**Rickettsia** *Bact***,** *Zool.*****(a genus of organisms parasitic in arthropods)**सन्धिपादजीवि-प्रजाति  
+**Rickettsia** *Bact***,** *Zool.*(a genus of organisms parasitic in arthropods)**सन्धिपादजीवि-प्रजाति  
 Rickettsia quintana** (found in the intestines of lice) **यूकान्त्र-सन्धिपादजीवी  
 Rickettsia rickettsii = Dermocentroxenus rickettsii पृषज्ज्वर-सन्धिपादजीवी**(पृषज्ज्वर spotted fever)  
 **Rickettsia bodies सन्धिपादजीवी** (-इन्)  
 **rickettsial infection सन्धिपादजीवि-संक्रामण  
-rickshaw नरयान** *n.*****(occurs in महाभारत, भागवत-पुराण)**, रिक्षा  
+rickshaw नरयान** *n.*(occurs in महाभारत, भागवत-पुराण)**, रिक्षा  
 rid मुक्त करना,**
 
 **get rid of से छुटकारा पाना**  
@@ -38122,7 +38122,7 @@ statement, act, or the like) **अनुवृद्धि** *f.***,3.आरो�
 
 **balance rider तुला-आरोहक**
 
-**ridge 1.**(of a mountain) **कूट** *n.**,*** **2*****.********Anat.* **कूट** *n.*  
+**ridge 1.**(of a mountain) **कूट** *n.**,*** **2*.Anat.* **कूट** *n.*  
 **ridge and furrow sowing** *Forestry***कूट- तथा सीता- वपन, मेंढ और उथली नालियों में बोना  
 ridge and furrow system** *Drainage***कूट तथा सीता पद्धति  
 ridge planting = planting on ridges** *Forestry***कूट-रोपण, मेंढ पर लगाना  
@@ -38410,7 +38410,7 @@ ring-pored wood रन्ध्रिवलय काष्ठ
 ring-porous** *adj. Bot.* **वलय-रन्ध्र  
 ring-porous wood** *Bot.* **वलयरन्ध्र-काष्ठ  
 ring road मेखला-पथ  
-ring shake = cupshake** *Forestry*****(extending round the whole circumference of a growth
+ring shake = cupshake** *Forestry*(extending round the whole circumference of a growth
 
 ring—I.F.R.) **वलय-विपाट, गोल दरार**
 
@@ -38492,7 +38492,7 @@ riprap** (a foundation of stones thrown together without order)**धरुण **
 
 foundation)
 
-**rise** *n.* **1.**(increase) **उद्रोह** *m.**,*****चढ़ना, चढ़ाव, 2.**(attaining ahigher position) **उत्कर्ष** *m.**,***
+**rise** *n.* **1.**(increase) **उद्रोह** *m.**,*चढ़ना, चढ़ाव, 2.**(attaining ahigher position) **उत्कर्ष** *m.**,***
 
 **3.**(the
 
@@ -38509,7 +38509,7 @@ rise from the ranks सैनिक से उन्नति करना, न�
 rise in demand** *Econ.***अभियाचन-उद्रोह  
 rise in prices** *Econ*.**मूल्य-उद्रोह, मूल्य का बढ़ना  
 rise in supply** *Econ***. प्रदाय-उद्रोह  
-riser** *Metal.*****(an enlarged upper projection on a casting—Rolfe p. 180)**उद्गत** *n.*  
+riser** *Metal.*(an enlarged upper projection on a casting—Rolfe p. 180)**उद्गत** *n.*  
 **rising उद्रोह** *m.* (*see* coup d'état)  
 **rising front bifocal glasses** *Ophthal*
 
@@ -38519,7 +38519,7 @@ rising main आरोही मुख्यनाड, चढ़ता नाल
 rising market उद्रोही विपणि  
 rising of court न्यायालय का उठना  
 rising tendency उद्रोही प्रवृत्ति  
-risk** *n.***1.हानिभय, भय** *n***., संशय** *m.**,*****2.क्षतिभय** *n.*
+risk** *n.***1.हानिभय, भय** *n***., संशय** *m.**,*2.क्षतिभय** *n.*
 
 **bodily risk शारीरिक क्षतिभय**  
 
@@ -38533,11 +38533,11 @@ risk of infection रोगसंक्रमण-भय
 risk of overlapping अतिछादन-भय  
 risk purchase हानिभयान्वित-क्रय  
 risk taking हानिभय-धारण  
-risus sardonicus** *Med.*****(a grincing expression produced by spasm अंगग्रह of the facial
+risus sardonicus** *Med.*(a grincing expression produced by spasm अंगग्रह of the facial
 
 musoles) **ग्रहहास** *m.*
 
-**Rita** *Zool.*****(agenus of catfishes) **मार्जार-मीन-प्रजाति  
+**Rita** *Zool.*(agenus of catfishes) **मार्जार-मीन-प्रजाति  
 Rita buchanani सामान्य मार्जारमीन  
 Ritchie's apparatus** *Phys.*(to show equality of emissive and absorptive powers) **विकिर-**
 
@@ -38588,7 +38588,7 @@ riverine fisheries नदी-मात्सिकी
 river keeper नदीपाल  
 river navigation नदी-नौपरिवहण, नदी-तरण  
 river piracy = river capture नदी-प्रग्रहण** *n.*  
-**river pirate** *Geog.*****(a stream which has captured another) **दस्यु-नदी  
+**river pirate** *Geog.*(a stream which has captured another) **दस्यु-नदी  
 river pollution prevention नदी-दूषण-निवारण  
 river sand नदी-वालु  
 rivers and tributaries नदियां और उपनदियां  
@@ -38607,12 +38607,12 @@ river valley नदी-घाटी, नदी- दून** (Const.)
 river watcher नदीपाल** *m.*  
 **riverweed** (*Podostemon*) **नदीतृण** *n.*  
 **river works** *Irrig.***नदी-कर्मान्त  
-rivet** *n.* **लवंग** *n.**,*****2.** (short for लवंगकील)  
+rivet** *n.* **लवंग** *n.**,*2.** (short for लवंगकील)  
 **rivet** *vb.***लवंगन**  
 **riveted** *adj*. **लवंगित  
 riveted joint लवंगित सन्धि  
 riveting लवंगन** *n.*  
-**Rivularia** *Bot.*****(Lat. *rivulus* 'rivulet')
+**Rivularia** *Bot.*(Lat. *rivulus* 'rivulet')
 
 **सरिताप्य-प्रजाति**
 
@@ -38757,7 +38757,7 @@ brilliance) **प्रावहर्यानील**
 **robin's eye** *(Geranium robertianum)***रक्त कषायमूल** *m.*  
 **Robinson's olive bulbul** *Aves* **तनुश्री हरिताभ गोवत्सक  
 Robinson's yellow-breasted trogon** *Aves* **तनुश्री पीतोरस् लोह-चटक  
-roboreus** *Bot.******Tax.*****(strengthening,as a medicine \[strong like oak\])**बल्य**
+roboreus** *Bot.**Tax.*(strengthening,as a medicine \[strong like oak\])**बल्य**
 
 (बल्य
 
@@ -38775,11 +38775,11 @@ kind of lichen" MW.)
 
 **Roccella tinctoria** (chief source of the dye archil) **शेपाल-शैलेय  
 roccelline = orcelline no. 4. = fast red  
-Rochea** *Bot.*****(it has showy flowers of various colours) **रुचिपुष्पा-प्रजाति  
+Rochea** *Bot.*(it has showy flowers of various colours) **रुचिपुष्पा-प्रजाति  
 Rochea falcata** (*falcata* 'sickle-shaped'— the leaves) **दात्रपर्ण-रुचिपुष्पा  
 Rochelle salt = sodium potassium tartarate अपिक्षाद लवण = क्षारातु दहातुन्यासवीय** *n.*  
 **roche moutonnée** (sheep-back) **अविपृष्ठ** *n.*  
-**rock** *n.* **शैल** *m.**,*****चट्टान**
+**rock** *n.* **शैल** *m.**,*चट्टान**
 
 [TABLE]
 
@@ -38796,7 +38796,7 @@ carbonaceous प्रांगारमय**
 **lava rock भूराल-शैल**
 
 **rock** *vb.***दोलन  
-rockallite** *Petrog.*****(represents a sodic क्षारिक phase of an aegirite-granite क्षायःसिज-
+rockallite** *Petrog.*(represents a sodic क्षारिक phase of an aegirite-granite क्षायःसिज-
 
 कणाश्म) **कणक्षाराश्म** *m.*
 
@@ -38823,7 +38823,7 @@ rock dove गिरि-कपोतक
 rock drill शैल-व्यध  
 rocker दोलक** *m.*  
 **rocker blotter दोल-मसीचूष  
-rocket 1.प्रोल्का** *f.***,******2** (*Eruca sativa)* **तन्तुभ** *m.*  
+rocket 1.प्रोल्का** *f.***,**2** (*Eruca sativa)* **तन्तुभ** *m.*  
 **rocket bomb प्रोल्का-प्रस्फोट  
 rocketting prices गगनस्पर्शी मृल्य**
 
@@ -38850,7 +38850,7 @@ rock oil शैल-तैल**
 
 **rock outcrops तलागत शैल, उठी हुई चट्टान  
 rock phosphate** *Agric.***शैल-भास्वीय  
-rock pigeon गिरि-पारावत** *m.*****(पारावत ancient word)  
+rock pigeon गिरि-पारावत** *m.*(पारावत ancient word)  
 **rockpipit शैल-तुलिका** (तुलिका ancient-word)  
 **rock-plant शैल-पादप, चट्टानी पौधा  
 rock plant of St. Helena = Petrobium arboreum  
@@ -38930,7 +38930,7 @@ rolled over परिवेल्लित
 rolled section** *Rly.* **वेल्लित रूप  
 rolled steel rails** *Rly.* **वेल्लित वज्रायस-वंशक  
 roller 1.वेल्लन** *n.***, बेलन, 2.***Printing* **वेल्लन** *n.***, बेलन, 3.**(a bird) **चाष** *m.* (ancient word)  
-**roller and clearer card** *Carding*****वेल्लन-अपनायक-पिञ्जित्र  
+**roller and clearer card** *Carding*वेल्लन-अपनायक-पिञ्जित्र  
 roller bearing** *Mach.* **वेल्लन-भारु  
 roller-caster वेल्लन-कर्ता** *m.*  
 **roller composition** *Printing* **वेल्लन-श्लेष, सरेश  
@@ -39148,7 +39148,7 @@ rosanthrene orange पाटलक्षामेण्य नारंग
 rosanthrene pink पाटलक्षामेण्य आपद्म  
 rosanthrene violet पाटलक्षामेण्य नीललोहित  
 rosary अक्षमाला** *f.* (ancient word)  
-**rosary pea** (*Abrus precatorius*) **गुञ्जा***f.*****(ancient word)  
+**rosary pea** (*Abrus precatorius*) **गुञ्जा***f.*(ancient word)  
 **rosazine** *Col. Ind.***पाटलाजीवी***f.*  
 **ros-azurine** *Col. Ind.* **पाटल-नभोनीली  
 rose 1.**(flower) **पाटलपुष्प** *n.***, सेवती** *f.***2.पुष्प** *n.,***Bunsen burner rose पिनाल-दाहकपुष्प**
@@ -39697,18 +39697,18 @@ Bot.
 
 **Rotula** **aquatica सामान्य-पाषाणभेदिका** (Basu पाषाणभेद)  
 **rotund** *adj.***गोल, वर्तुल  
-rotundifolius** *Bot.******Tax.*****(round-leaved)**गोलपर्ण  
+rotundifolius** *Bot.**Tax.*(round-leaved)**गोलपर्ण  
 roucou** (Bixa orellana) **सिन्दूरक** *m.*  
 **rouge 1.**(ared powder usually prepared by calcining ferrous sulphate; more highly
 
-calcined product called crocus कुंकुम which is darker in colour) **आकुंकुंम** *n.* (आ ईषदर्थे).**2. = French red शृंगार-रक्त** *m.**,*****3. = polishing red**
+calcined product called crocus कुंकुम which is darker in colour) **आकुंकुंम** *n.* (आ ईषदर्थे).**2. = French red शृंगार-रक्त** *m.**,*3. = polishing red**
 
 **rough** *adj.***1.**(uneven) **असम,2.**(harsh) **कर्कश, 3.**(crude, unfinished) **अपरिष्कृत, असंस्कृत,**
 
 **4.**(coarse) **रूक्ष, 5.खर, 6.स्थूल, कच्चा, प्रारम्भिक, 7.अनवहित, असावधानी से, 8.क्षुब्ध, अशान्त, उत्तुंगतरंगित**
 
 **rough account स्थूल लेखा, कच्चा खाता  
-roughage** (coarse food, high in fibre)**तन्त्वन्न** *n.*****(तन्तु-अन्न)  
+roughage** (coarse food, high in fibre)**तन्त्वन्न** *n.*(तन्तु-अन्न)  
 **rough-barked** *adj.***रूक्ष-वल्क  
 rough basil** (*Ocimum sanctum*) **तुलसी** *f.* (B., N., M., Hin. Ben Mal. Kan. Tam. Guj. Tel.)  
 **rough calculation स्थूल गणना  
@@ -39754,14 +39754,14 @@ rough usage असावधानी से उपयोग
 rough vacuum** *Phys.***अल्पशून्यक  
 rough weather क्षुब्ध ऋतु, अशान्त ऋतु  
 round** *adj.***गोल  
-round** *n.* **1.चक्र** *n.***,******2.***Forestry* (subdivision of a range in Bombay Presidency) **चक्र** *n.*
+round** *n.* **1.चक्र** *n.***,**2.***Forestry* (subdivision of a range in Bombay Presidency) **चक्र** *n.*
 
 **circle वृत्त**  
 
 **3.पर्याय** *m.***, बार** (*see* rounds)
 
 **round** *adv.***परितः, चारों ओर  
-round** *vb.*****(figures) **स्थूलांकन, पूर्णांकन, शून्यान्त करना** \[from Bengali: शून्य 'zero' +अन्त '(at the) end'\]  
+round** *vb.*(figures) **स्थूलांकन, पूर्णांकन, शून्यान्त करना** \[from Bengali: शून्य 'zero' +अन्त '(at the) end'\]  
 **roundabout methods of production** (which involve the use of capital equipment of any
 
 kind—Winton)**उत्पादन की पुञ्जीतन्त्रीय रीतियां**
@@ -39782,7 +39782,7 @@ rounded rock** *Geog.***गोल शैल
 round fish** (any ordinary fish, as dist. from a flat fish) **गोल मत्स्य, मछली  
 round glasses गोल उपनेत्र  
 round-headed leek = Allium sphaero-cephalum  
-rounding 1.गोलन** *n.**,*****2.**(of figures) **स्थूलांकन, पूर्णांकन** *n.***, शून्यान्त करना** \[fr. Bengali: शून्य
+rounding 1.गोलन** *n.**,*2.**(of figures) **स्थूलांकन, पूर्णांकन** *n.***, शून्यान्त करना** \[fr. Bengali: शून्य
 
 zero + अन्त (at the) end\]
 
@@ -39791,12 +39791,12 @@ round-leaved crane's-bill** (*Geraniumrotundifolium*) **वृक्कपर्
 **round leaved mallow = Malva rotundifolia  
 round log गोल लगुड, गोल लट्ठा  
 round M.O. stamp गोल ध.प्रे. मुद्रा  
-round off 1.**(as afigure) **पूर्णांक करना, स्थूलांकन, शून्यान्त करना** (*see* round *vb.*)**,****2.परिणत होना  
+round off 1.**(as afigure) **पूर्णांक करना, स्थूलांकन, शून्यान्त करना** (*see* round *vb.*)**,2.परिणत होना  
 round oval glasses** *Ophthalmol.***गोलाण्ड उपनेत्र  
 round pointed pencil गोलाग्र अंकनी  
 roundruler गोल रेखक  
 rounds** (fired) **पर्याय** *m.***, वार  
-round shaped** *adj.******Bot.***वलयाकार  
+round shaped** *adj.**Bot.***वलयाकार  
 round stack** *Surv***.गोल चय  
 round sum remittances पूर्णांक -राशि-विप्रेषण  
 round timber** (timber in the log, i.e. unconverted)**= timber in the round** *Forestry* **गोल प्रकाष्ठ,**
@@ -39813,7 +39813,7 @@ Rourea santaloides सामान्य कोटरपुष्प** (Basu क
 **rouse** *vb.***उद्भावित करना, उकसाना  
 rout (**a disorderly and tumultuouscrowd) **जनसंमर्द** *m.*  
 **route पथ, मार्ग** *m.*  
-**route march** *Mil.*****(a march executed, as at a distance from the enemy, in
+**route march** *Mil.*(a march executed, as at a distance from the enemy, in
 
 a manner to conserve the comfort of the men who are not required to keep step, maintain silence or hold their arms in any one position, although the ranks preserve their formation and distance)**सुख-प्रयाण, सुख-पथप्रयाण**
 
@@ -39837,7 +39837,7 @@ routine progress नैत्यक प्रगति
 routine work नैत्यक कार्य  
 routing** (of coaching traffic) **पथ** *m.*  
 **routing signal** *Rly.***पथ-संकेत  
-rove** *vb.****see* roving** *n.*  
+rove** *vb.see* roving** *n.*  
 **rove beetle** (it can run swiftly) **धावी भृंग  
 roving** *adj.***पर्यटक  
 roving** *n.* **1.***Textiles* (to draw out and twist slightly before spinning) **उप-कर्तन** *n.**,***
@@ -39853,13 +39853,13 @@ roving waste** *Textiles* **उपक्षेप्य** (short for उपक�
 **row पंक्ति** *f.*  
 **rowan tree** (cf. Nor. *raun*, akin to *Eng*. *red*) **1.**(*Sorbus* *aucuparia*, with red berrylike
 
-pomes) **रक्तकोल** *m.**,*****2.**(related trees usually called mountain ash) **गिरिप्रभूर्ज** *m.*
+pomes) **रक्तकोल** *m.**,*2.**(related trees usually called mountain ash) **गिरिप्रभूर्ज** *m.*
 
 **row crop पंक्ति-सस्य  
 rowing boat खेने वाली नाव  
-rowlandite भृशसैकिज** *m.*****(भृश-for भृशला yttrium, सैक- for सैकतीय silicate, -इज for खनिज mineral)  
+rowlandite भृशसैकिज** *m.*(भृश-for भृशला yttrium, सैक- for सैकतीय silicate, -इज for खनिज mineral)  
 
-**Rowland's method** *Phys.*****(accurato determination of mechanical equivalent of heat)
+**Rowland's method** *Phys.*(accurato determination of mechanical equivalent of heat)
 
 **परिशुद्ध यान्त्रिक समार्ह रीति**
 
@@ -39915,7 +39915,7 @@ Royal Society** (for the advancement of science) **राजकीय विज�
 royalties paid-in advance** *Com.***अग्रेदत्त अधिकार-शुल्क  
 royalties suspense account** *Com.***निलम्बितअधिकारशुल्क-लेखा  
 royal tree** *Forestry* **राजवृक्ष  
-royalty 1.अधिकारशुल्क** (Const.)**, अधिशुल्क** *n.**,*****2.**(as, of a mine) **स्वामिस्व** (Const.),**राजशुल्क** *n.**,***
+royalty 1.अधिकारशुल्क** (Const.)**, अधिशुल्क** *n.**,*2.**(as, of a mine) **स्वामिस्व** (Const.),**राजशुल्क** *n.**,***
 
 **
 
@@ -40034,7 +40034,7 @@ Rubiaceae** *Bot.***मञ्जिष्ठा-कुल** *n.*
 **Rubiales** *Bot.***मञ्जिष्ठा- गोत्र** *n.*  
 **rubianite = hermaline  
 rubichloric acid = chlorogenin  
-rubidic** *adj.******Chem.***दीपिक  
+rubidic** *adj.**Chem.***दीपिक  
 rubidium** *Chem.***दीपातु** *m.*  
 **rubidium alum दीपातु स्फटिका  
 rubidium ammonium bromide दीपातु तिक्तातु दुरेय  
@@ -40049,9 +40049,9 @@ rubin रक्ति** *f.*
 **-rubinic-रक्तियिक  
 rubinol रक्तिव** *m.*  
 **rubr-, rubro-** (*red*) **लोह-  
-rubramine** *Col.******Ind.***लोहतिक्ती** *f.*  
+rubramine** *Col.**Ind.***लोहतिक्ती** *f.*  
 **rubro-, rubr- लोह-  
-Rubus** *Bot.*****(geuns of blackberries— Web.) **कृष्णबदरी-प्रजाति  
+Rubus** *Bot.*(geuns of blackberries— Web.) **कृष्णबदरी-प्रजाति  
 Rubus caesius** (dewberry)**अवश्याय-कृष्ण-बदरी** (अवश्याय 'dew')  
 **Rubus fruticosus** (blackberry, bramblo, gaitberry) **सामान्य-कृष्णबदरी  
 Rubus idaeus** (raspberry रसबदरी) **रस-कृष्ण-बदरी  
@@ -40338,7 +40338,7 @@ rupee equivalent रुपया-समार्ह
 rupee loan रुपया-उधार  
 rupee securities रुपये की प्रतिभूतियां  
 rupestris** *Bot. Tax.* (growing on roocks)**शैलरुह  
-rupicolus** *Bot. Tax.*****(growing in stonyplaces) **अश्मरोद्दोही, शैलरुह  
+rupicolus** *Bot. Tax.*(growing in stonyplaces) **अश्मरोद्दोही, शैलरुह  
 Ruppia** *Bot.* (genus of tassel-grass)**प्रगुच्छघास-प्रजाति  
 Ruppia maritima** (common tassel-grass)**सामान्य प्रगुच्छघास** (cf. bunchgrass गुच्छघास)  
 **rupture** *n.***1.विदारण** *n.***, विदार** *m.***, 2.**(hernia)**वर्ध्म** *m.*  

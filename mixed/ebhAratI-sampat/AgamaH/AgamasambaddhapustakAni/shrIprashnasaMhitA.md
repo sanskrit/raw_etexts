@@ -577,7 +577,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM2Nzg2OTQz
 
 
 
-****
+
 
 **श्रीः**  
 त्वया प्रोक्तो योगसारो दुर्लभार्थस्य साधकः।  

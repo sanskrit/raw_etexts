@@ -202,7 +202,7 @@ of Vedanta.
 
 |                           |                                        |
 |:-------------------------:|:--------------------------------------:|
-| ****TABLE OF CONTENTS**** |                                        |
+| TABLE OF CONTENTS |                                        |
 |          **A.**           | **Prologue (The Essence of the Veda)** |
 |                          |      **(1) KARMA-YOGA (Ethics)**       |
 |                          |            1. The Right ...            |
@@ -4440,7 +4440,7 @@ Asura, Thou art the king of the Devas and Raksasas. protect us, human beings. Th
 
 
 **CHAPTER VII  
-MITRA****–****TWO IN ONE**
+MITRA–TWO IN ONE**
 
 **1. इन्द्रावरुणा**  
  Imaged Indra, and Unimaged Varuna, to us, the common people, give great strength, for the due discharge of our Duties. And to him who loves well, give continued strength. May we, in fight, subdue the wicked.
@@ -4739,7 +4739,7 @@ MONO-THEISM**
 
 
 **CHAPTERX**  
-**RUDRA****–****THE GREAT LORD**
+**RUDRA–THE GREAT LORD**
 
 **1.भुवनस्य पितरम्**  
  Rudra by day, and Rudra at night, we honour with these our songs, the Universe's father. Him great and lofty, undecaying, blissful, let us call forthwith, headed by the sage.

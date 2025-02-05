@@ -1431,7 +1431,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5NTI2Mzg1MjQ
 
 
 
-                **** अथ आद्येष्टकाविधिपटलश्चतुर्त्थः  
+                 अथ आद्येष्टकाविधिपटलश्चतुर्त्थः  
 
 
 आद्येष्टिकाविधिं वक्ष्ये परं कर्षणपूर्वकम्

@@ -36,7 +36,7 @@ Menu of Charaka Saṁhitā
 
 Reading Vedic Literature
 
-The Vedic Alphabet****  
+The Vedic Alphabet  
 
 Consciousness-Based Education
 

@@ -51,16 +51,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4OTQ5MjU3NDc
 
  The Tantrarâja, as its name implies, is an important workof its class which is, in one of its parts, here published for thefirst time with a commentary called Manoramâ by Subhagânandanâtha of (as Bhâskararâya in his commentary on theNityâ*sh*o*d*ashikâr*n*ava says) the Kashmir school.
 
-**** There are three sections of this Tantra each dealing witha separate Mata, that is way of regarding and worshipping the Devatâ. namely Kâdi, Hâdi, and Kahâdi, terms alluded to in my“Shakti and Shâkta” and explained later. The last portion isalso I am told called
+ There are three sections of this Tantra each dealing witha separate Mata, that is way of regarding and worshipping the Devatâ. namely Kâdi, Hâdi, and Kahâdi, terms alluded to in my“Shakti and Shâkta” and explained later. The last portion isalso I am told called
 Shaktisanggama which has four parts.Thefirst is here published, namely the Kâdimata part of Tantrarâjaconsisting of 36 Chapters of 100 verses each.
 
-**** The manuscripts which have been used for the preparationof this Edition belong to the Asiatic Society of Bengal, theSanskrit College and Pandit Yajnapuru*sh*a respectively. To the last I am indebted for help in the preparation of this andother works. Ha is Bîja of Shiva. Ka is the first letter ofthe Bîja mantra of Kâlî or Krîng. In the Bîjâbhidânam quotedat page 321 of Pandit Jaganmohana Tarkâlangkâra's Edition of Mahânirvâna it is said :—
+ The manuscripts which have been used for the preparationof this Edition belong to the Asiatic Society of Bengal, theSanskrit College and Pandit Yajnapuru*sh*a respectively. To the last I am indebted for help in the preparation of this andother works. Ha is Bîja of Shiva. Ka is the first letter ofthe Bîja mantra of Kâlî or Krîng. In the Bîjâbhidânam quotedat page 321 of Pandit Jaganmohana Tarkâlangkâra's Edition of Mahânirvâna it is said :—
 
 **Ka Kâlî Brahma ra proktam mahâmâyârthakashcha Î  
 Vishvamâtrarthako nâdo bindur du*h*khâpahâraka*h*  
 Tenaiva kâlikâng devîng pûjayed du*h*khashântaye**
 
-**** When Devî asks (vv.7,8) “what is Kâdi” Shiva replies, that Kâlî and Kâdi are Shakti and that “Thy form isthe meaning of Kâdi” (Kâdisangjnâ bhavadrûpâ). Themeaning of this is that the triangle is the form of the Devî. The letter Ka written in Bengali. (ক) and generally in earlierDevanâgara forms of the letter shows a triangle in the left. According to the Var*n*oddhâra and Kâmadhenu Tantras (seeShabdakalpadruma sub. *voc*. Ka) the left line of the triangle isred Brahmâ, the right line white Vis*hn*u and the bottom line isdark green (Marakata) Rudra. The Mâtrâ is the white Sâks*h*âtSarasvati. The crooked portion on the right like a goad isthe lightning-like Ku*nd*alinî. The empty space in the triangleis the white Sudarshana shining like millions of moons and withHim is Kâli the grantor of Kaivalya and in the three cornersare Jye*shth*â, Vâmâ and Raudrî Shaktîs. This Triko*n*a is
+ When Devî asks (vv.7,8) “what is Kâdi” Shiva replies, that Kâlî and Kâdi are Shakti and that “Thy form isthe meaning of Kâdi” (Kâdisangjnâ bhavadrûpâ). Themeaning of this is that the triangle is the form of the Devî. The letter Ka written in Bengali. (ক) and generally in earlierDevanâgara forms of the letter shows a triangle in the left. According to the Var*n*oddhâra and Kâmadhenu Tantras (seeShabdakalpadruma sub. *voc*. Ka) the left line of the triangle isred Brahmâ, the right line white Vis*hn*u and the bottom line isdark green (Marakata) Rudra. The Mâtrâ is the white Sâks*h*âtSarasvati. The crooked portion on the right like a goad isthe lightning-like Ku*nd*alinî. The empty space in the triangleis the white Sudarshana shining like millions of moons and withHim is Kâli the grantor of Kaivalya and in the three cornersare Jye*shth*â, Vâmâ and Raudrî Shaktîs. This Triko*n*a is
 
 
 
@@ -751,7 +751,7 @@ VALON**.**
 कोष्ठानि षोड़शाऽत्र स्युस्तेषु वर्णान् क्रमाल्लिखेत्॥४५॥**
 
 **चतुश्चतुर्विभागेन कल्पयेत्तानि वै क्रमात्।  
-प्रथमप्रथमे[^10]****त्वाद्यंद्वितीयप्रथमे[^11]
+प्रथमप्रथमे[^10]त्वाद्यंद्वितीयप्रथमे[^11]
 तथा॥४६॥**
 
 [^10]: "प्रथमः प्रथमे इति मू० प० पाठः।"
@@ -971,7 +971,7 @@ VALON**.**
 **उपेक्षावस्थाया जापात् वैषम्यादवमानिताः।  
 पञ्चविंशतिरूद्दिष्टा दोषांस्तान् शमयेद्गुरुः॥८१॥**
 
-****![](../books_images/U-IMG-1725819226Screenshot2024-08-10134504.png)  
+![](../books_images/U-IMG-1725819226Screenshot2024-08-10134504.png)  
 च सर्व्वमन्त्रदेवतानां सर्वत्रोच्यते। अपूर्णेनअनुग्रहविधौपूर्णाभिषेकादिगुर्वाज्ञामन्तरेण प्रवृत्तेन। हीनवीर्याः—क्षीणबलाः अनुक्तकरणादसंजातशक्तिना प्रतिपादितत्वात् अस्मिन् शिष्येत्वकार्य्यकरादभजनादनर्थकराश्चेत्यर्थः। कुण्ठत्वम्—अकार्यकरत्वम्। सुसिद्धा अपि मन्त्रादयः सर्वदा विनियोक्तुस्तीक्ष्णशस्त्रवत्कुण्ठाः निस्तै
 
 क्ष्ण्याभवन्तीत्यर्थः। क्लिष्टता—क्लेशार्दितत्वम् अतिविलम्बनात् उक्तकालादधिकं विलम्ब्यमन्त्रादीनामक्षरावर्तनात्। रुग्णाः—पीड़िताः। प्रलपनैर्ज्जापात्—अयोग्यैरालप्यालप्य जापात्। अन्यमन्त्रैः—जप्यमानादन्यमन्त्रैः। आविलाः व्याकुलाः—एकस्मिन्मन्त्रेजप्यमाने अन्यमन्त्रस्य मध्ये मध्ये जपत उभयोरपि मन्त्रयोर्व्याकुलता भवति तयोर्नैष्फल्यानर्थादयः सम्भवन्तीत्यर्थः। उपेक्षा—परित्यागः। अनवस्थया जापात्—गुरूक्तकल्पोक्तस्वकल्पितमार्गेष्वन्यतममपहाय यथोहितक्रमजापादित्यर्थः। वैषम्यात्—मन्त्राणां देवतानां च जपपूजाहोमादिषु वैषम्यात्। विषमभावात् हीनाधिक्यत इत्यर्थः। अवमानिताः—परिभूताः। शमयेद् गुरुः— वक्ष्यमाणोपायेनेत्यर्थः॥७४॥७५॥७६॥७७॥७८॥७९॥८०॥८१॥८२॥
@@ -1465,7 +1465,7 @@ VALON**.**
 
 [^43]: "भावयन्मुद्रा इति मू० पु० पा०।"
 
-****![](../books_images/U-IMG-1725819226Screenshot2024-08-10134504.png)
+![](../books_images/U-IMG-1725819226Screenshot2024-08-10134504.png)
 
   उक्तेत्यादिभिर्द्धनादिभिरित्यन्तैः षड्भिः श्लोकैः सच्छिष्योपदेशक्रममुपदेशानन्तरं शिष्यकृत्यं चोपदिशति। तत्र—शोधितं बहुवासरैः—आस्तिक्योपास्तिभक्तीनांस्थैर्यज्ञानार्थं बहुवासरशोधनम्। कलशैः—नवभिश्चतुर्भिरेकेन वा। मध्यतः—श्रीचक्रत्रयमद्ध्यतः। स्वान्तात् देशिकस्य स्वात्मनः। अत्रास्त्युपक्वरोर्थो देशिकमुखादेवाचार्याभिषेकसमये लभ्यत्त्वादिह नोक्तः। देव्यात्मा पूर्णमानसः स्वरूपं देवीरूपंविभाव्य स्वात्मानं तन्मयं बुध्वा। एतदुक्तंभवति—केवलं देवतारूपो दयामयेनचित्तेनेतरनिरपेक्षेण विश्वाकारेणोपदिशेदिति। देवतागुरुमन्त्रात्मतत्वैक्यम्—देवतागुरुमन्त्राणां स्वात्मना तत्वतः चतुर्थपटलावसानश्लोकोक्तप्रकारेण। संचारिणी—
 
@@ -2503,7 +2503,7 @@ VALON**.**
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
- ****
+ 
 
 ***(२)** वशिनी बीजमीरितम्। प्राणोरसाशक्तियुतं विमलाबीजामीरितम् इति मो० पु० पा०। प्राणोरसा इत्यादि मो० पु० विहाय कुत्रापि न वर्त्तते।*
 

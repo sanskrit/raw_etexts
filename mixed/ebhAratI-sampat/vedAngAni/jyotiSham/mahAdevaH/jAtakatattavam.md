@@ -9837,7 +9837,7 @@ This sacred Science of Astrology which expounds human experience, which has spru
 
 ***CHART I.***
 
-****His Highness Colonel Sri Krishnarajendra W**adiyar Bahadur, G.C.S.I., G.B.E., Maharaja of Mysore.**
+His Highness Colonel Sri Krishnarajendra W**adiyar Bahadur, G.C.S.I., G.B.E., Maharaja of Mysore.**
 
 Born 4th June 1884 at 11 ghatikas, 40 vighatikas after Sunrise.
 
@@ -9872,7 +9872,7 @@ If Jupiter be posited in a Kendra and in the 10th house reckoned from the Moon, 
 
 **सारावली - ATTITS-XXXV-119**
 
-****सौम्ये वीर्ययुते तनुयुक्तेवीर्याढ्ये च शुभे सुखपाते।**  
+सौम्ये वीर्ययुते तनुयुक्तेवीर्याढ्ये च शुभे सुखपाते।**  
 धर्मार्थोपचयेष्ववशेषैर्धर्मात्मा नृपजः पृथिवीशः ॥**
 
 If a benefic planet endowed with strength be in the Lagna and another strong benefic occupy the 4th house, and the other planets be in any of the following houses, viz., the 9th, the 2nd, the 3rd, the 6th, the 19th and the 11th, the person born will, if he be a scion of a royal family, be a king and be virtuously disposed.

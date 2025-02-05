@@ -261,7 +261,7 @@ DECLARED BY NANDIKEŚVARA**
 
 ***  The Stage* (ranga).**—The Chief of the Audience, as described,should sit at ease, facing the east, the poets, ministers, and courtiers at his side. The place before him, where dancing is to bedone, is called the stage.
 
-* *******The danseuse (*pātra***) should stand in the middle of the stage,and the dancer (*naṭa*) near her; on the right the cymbalist(*tāladhārī*); on either side the drummers (*mṛdangikaḥ*); thechorus (*gītakāraḥ*) between them; and the drone (*śrūtikāra*) alittle behind. Each of these, and thus ordered, should be presenton the stage.
+* ***The danseuse (*pātra***) should stand in the middle of the stage,and the dancer (*naṭa*) near her; on the right the cymbalist(*tāladhārī*); on either side the drummers (*mṛdangikaḥ*); thechorus (*gītakāraḥ*) between them; and the drone (*śrūtikāra*) alittle behind. Each of these, and thus ordered, should be presenton the stage.
 
 * **The Danseuse, or Actress*** **(pātra)**.—It is understood that theDanseuse (*nartakī*) should be very lovely, young, with full round  
 ---------------------------------------------------------------------------------
@@ -276,9 +276,9 @@ breasts, self-confident, charming, agreeable, dexterous in handling the critical
 
 *** Disqualifications of a Danseuse***.—The Danseuse (*veśya*) shouldbe rejected, whose eyes are (pale) like a flower, whose hair isscanty, whose lips are thick, or breasts pendant, who is verystout or very thin, or very tall or very short, who is humpbacked, or has not a good voice.
 
-* **The Bells (*****kinkinī)**. The Bells should be made of bronze orcopper or silver; they should be sweet-toned, well-shaped,dainty, with the asterisms for their presiding deities, tied withan indigo string, with a knot between each pair of bells. At thetime of dancing there should be a hundred or two hundred foreach foot, or a hundred for the right foot and two hundred for theleft.**²**
+* **The Bells (*kinkinī)**. The Bells should be made of bronze orcopper or silver; they should be sweet-toned, well-shaped,dainty, with the asterisms for their presiding deities, tied withan indigo string, with a knot between each pair of bells. At thetime of dancing there should be a hundred or two hundred foreach foot, or a hundred for the right foot and two hundred for theleft.**²**
 
-* **The Dancer or Actor (*****naṭa*****)***.—Wise men say the Dancer (oractor) should be handsome, of sweet speech, learned, capable,eloquent, of good birth, learned in the scriptures (*śāstras*) ofart and science, of sweet voice, versed in song, instrumentalmusic, and dancing, self-confident, and of ready wit.
+* **The Dancer or Actor (*naṭa*)***.—Wise men say the Dancer (oractor) should be handsome, of sweet speech, learned, capable,eloquent, of good birth, learned in the scriptures (*śāstras*) ofart and science, of sweet voice, versed in song, instrumentalmusic, and dancing, self-confident, and of ready wit.
 
 *** Outer Life (bahiḥ prāṇa) of the Danseuse***.—The following accessories are called the Outer Life of the Danseuse: the drum,cymbals of a good tone, the flute, the chorus, the drone, the lute(*vīṇā*), the bells, and a male singer (*gāyaka*) of renown.
 
@@ -297,9 +297,9 @@ symmetry, versatility, glances, ease, intelligence, confidence,speech, and song.
 
 *** The Fruit of Witnessing Vulgar Dances***.—Those who look uponthe dancing of such a vulgar actress will have no children, andwill be reborn in animal wombs.
 
- ***The Course of the Dance (*****nāṭya-krama**).—What is said traditionally by our ancestors must therefore be kept in view.Having made the prayer, etc., the dancing may begin. The songshould be sustained in the throat; its meaning must be shownby the hands; the mood (*bhāva*) must be shown by the glances;rhythm (*tāla*) is marked by the feet. For wherever the handmoves, there the glances follow; where the glances go, the mindfollows; where the mind goes, the mood follows; where themood goes, there is the flavour (*rasa*).
+ ***The Course of the Dance (*nāṭya-krama**).—What is said traditionally by our ancestors must therefore be kept in view.Having made the prayer, etc., the dancing may begin. The songshould be sustained in the throat; its meaning must be shownby the hands; the mood (*bhāva*) must be shown by the glances;rhythm (*tāla*) is marked by the feet. For wherever the handmoves, there the glances follow; where the glances go, the mindfollows; where the mind goes, the mood follows; where themood goes, there is the flavour (*rasa*).
 
-**GESTURE** **(*****abhinaya*****)**
+**GESTURE** **(*abhinaya*)**
 
     Gesture is the principal theme of what is here related.
 
@@ -410,7 +410,7 @@ satisfaction, anger, indifference, or inaction.
 
 * **Sāci*** **(sidelong):** looking out of the corners of the eyes, withoutmoving the head. Usage: secret purpose (*ingita*), twirlingthe moustache (self-confidence), aiming an arrow, hinting, andin Kulaṭa nāṭya.
 
-* **Pralokita*****:** turning from side to side. Usage: looking at thingson both sides, making signs, moving, disordered mind.
+* **Pralokita*:** turning from side to side. Usage: looking at thingson both sides, making signs, moving, disordered mind.
 
 * **Nimīlita*** **(closed):** the eyes half-closed, half-open. Usage:appearance of a sage (ṛṣi), subjection to another's will, prayer(*japa*), meditation (*dhyāna*), greeting (*namaskṛta*), madness,keen insight (sukṣma dṛṣṭi).
 
@@ -630,7 +630,7 @@ by Brāhmaṇas, benediction, the aversion of a parasite (*viṭā*) forhis frie
 
  According to another book: same definition. It originatesfrom Pārvatī, who used it in a lover's quarrel with Sadāśiva. Itssage is Dhruvasa, its race Brāhmaṇa, its colour red, its patrondeity Mārici. Usage: Brahmā-weapon, nose *(mukhāgra)*, curve,turning round, javelin, proceeding, fighting, crossing, disrespect,lovers' quarrel, opinion, abandonment, dice, throwing a spear,ferocity, secrecy, copper colour, Brāhmaṇa caste. (Plate X F.)
 
- *******Muṣṭi* (fist):** the four fingers are bent into the palm, and thethumb set on them. Usage: steadiness, grasping the hair,holding things, wrestling.
+ ***Muṣṭi* (fist):** the four fingers are bent into the palm, and thethumb set on them. Usage: steadiness, grasping the hair,holding things, wrestling.
 
  According to another book: the thumb placed on the middlefinger, and the fingers closed. It originates from Vishnu, whoused this hand when he fought with Madhu. Its sage is Indra,colour indigo, race Śūdra, patron deity the moon. Usage: grasping, waist, fruit, agreement, saying "Very well", sacrificial offerings, greeting common people, carrying away, strong hold,holding a book, running, lightness, wrestling, holding a shield,holding the hair, fisticuffs, grasping a mace or spear, indigocolour, Śūdra caste. (Plate X c.)
 
@@ -692,7 +692,7 @@ three lines on the brow, patterns on the ground, massage of thefeet, combining, 
 
  According to another book: the thumb, middle and forefingerheld like the eye of a coconut, the third finger bent, and the littlefinger erect. It is derived from Śiva when he made a pellet ofthe poison that sprang from the sea of milk. Its sage is Krauñca,its race Siddha, its colour golden, its patron deity Padma. Usage:grapes, *rudrākṣa* seeds, holding the chin, breast-bud *(kucapraroha)*, areca-nut, bells, blue lotus, fruit, coral, a mouthful,asterism (nakṣatra), jujube fruit, circle, partridge, *cātaka*, anything small, hailstone, Siddha caste, myrobalan fruit, gold.
 
-**** *Sola-padma* (full-blown lotus) (*=* *Ala-padma*):** all the fingersseparated, turned about the little finger. Usage: full-blownlotus, elephant-apple etc., turning, breast, yearning for thebeloved, mirror, full-moon, a beautiful vessel, hair-knot, moon-
+ *Sola-padma* (full-blown lotus) (*=* *Ala-padma*):** all the fingersseparated, turned about the little finger. Usage: full-blownlotus, elephant-apple etc., turning, breast, yearning for thebeloved, mirror, full-moon, a beautiful vessel, hair-knot, moon-
 
 
 
@@ -726,7 +726,7 @@ colour dark, its race Khacara, its patron deity the King of FlyingCreatures (Gar
 
  According to another book: the middle finger of the Haṃsāsyahand is outstretched.**¹**This hand originates from the Goddessof Speech, when she bestowed a rosary. Its sage is Viśvavāsu,its race Vidhyādhara, its colour white, its patron deity Vālmīki.Usage: tooth, small bud, singing *(saṃgīta)*, gentle dances *(lāsyanaṭana)*, exegesis *(ṭīka)*, *jñāna-mudrā*, scales, flaw in a tooth,sacred thread *(yajñoрavīta)*, line, examining, painting pictures*(citra lekhana)*, truth, saying "No!", saying "A little ", moment,listening, testing metals etc. on the touchstone *(nikaṣa)*, shiningwhite, taking aim, nail, sprout, *gunja* seed, the number eight,fire-fly, poison, blades of grass, red ants, mosquito, eclipse, collecting pearls, bug, fly, garland, down, pointing *(sūcana)*, solitude,touching, Veda, snow, speaking, slipping, cutting off, a wound,brow-spot, collyrium, Vidyādhara caste, white colour, slowness.
 
- *******Mukula* (bud):** the thumb and fingers are brought togetherso as to show their tips. Usage: water-lily *(kumuda)*, eating,the God of Love *(Pañcabāṇa)*, holding a seal, navel, plaintainflower.
+ ***Mukula* (bud):** the thumb and fingers are brought togetherso as to show their tips. Usage: water-lily *(kumuda)*, eating,the God of Love *(Pañcabāṇa)*, holding a seal, navel, plaintainflower.
 
  According to another book: the fingers of the Padmakośahand are brought together. It originates from the Scion of theWind (Hanuman) when he attempted to seize the sun, mistakingit for a ripe *bimba* fruit. Its sage is Viśākhila, its race Sankīrṇa,its colour tawny, its patron deity the Moon. Usage: charity*(dāna)*, prayer (*japa*), humble speech, eating, lotus bud, self(atman), life *(prāṇa)*, the number five, behaviour of an amorouswoman, kissing children, worshipping the gods, umbrella etc.,bud, accepting fruits, mixed race, brown colour.  
 ----------------------------------------------------------------------------------  
@@ -760,11 +760,11 @@ linga, Kaṭaka-vardhana, Kartarī-svastika, Śakaṭa, Śankha,Cakra, Sampuṭa
 
  According to another book: when two Single Hands are combined, that is a Combined Hand. Even though the origin andmeaning remain the same, the patron deity always differs.
 
- *******Añjali* (salutation):** two Patāka hands are joined palm to palm.Usage: saluting Deities, Elders (*guru*) or Brāhmaṇas—thehands being held on the head for Deities, before the face forElders, and on the chest for Brāhmaṇas.
+ ***Añjali* (salutation):** two Patāka hands are joined palm to palm.Usage: saluting Deities, Elders (*guru*) or Brāhmaṇas—thehands being held on the head for Deities, before the face forElders, and on the chest for Brāhmaṇas.
 
  According to another text: same definition. The patrondeity is Kṣetrapāla. Usage: bowing, obedience, clapping time,indicating the form of Śiva, saying "What am I to do ?", meditation. (Plate VIII.)
 
-**** *Kapota* (dove):** the hands are joined at the side, base and top.Usage: taking oath, conversation with elders etc., humbleacquiescence.
+ *Kapota* (dove):** the hands are joined at the side, base and top.Usage: taking oath, conversation with elders etc., humbleacquiescence.
 
  According to another book: the Añjali hands are separated.The patron deity is Citrasena. Usage: acquiescence, trees suchas the coconut, areca-nut, etc., plantain flower, cold, nectar,receiving things, casket, citron.
 
@@ -907,7 +907,7 @@ Rao,"HinduIconography", Vol. I, pt. i, p. 16, and ibid., Pl. V, fig. 12, illustr
 
 *** Mātṛ* (mother):** left hand Ardha-candra, right hand Saṃdaṃsa,the left hand then placed on the stomach, showing the Strīhand;**¹** indicating mother or daughter.
 
-* **Pitṛ*****(father):** following the last hand, the right hand is held asŚikhara; indicating father or son-in-law.
+* **Pitṛ*(father):** following the last hand, the right hand is held asŚikhara; indicating father or son-in-law.
 
  **Śvaśṛ (mother-in-law):** the right hand is held as Haṃsāsyaand Saṃdaṃsa at the throat, the left hand then placed on thestomach showing the Strī hand.  
 -------------------------------------------------------------------------------------  
@@ -1082,7 +1082,7 @@ to and fro (*tiryak prasārita*); Hare, the Tala-patāka hand ismoved horizontal
 
 i. e. the forefinger and middle finger bent like a bow, the thirdfinger placed at the base of the thumb, the little finger bent.
 
-* **Hands that indicate Water-Animals*****.**—Frog, the double Cakrahand, i. e. the thumb and forefinger go in, the middle finger isbent, and the little finger extended; Crab, the Līna-karkaṭahand, i. e., r. h. Karkaṭa direct upwards and placed on the I. h.,the fingers being interlocked; Leech, Sūci hands moved along;Crocodile, Patāka hands crossed and held apart, also indicatinga box; *Duṇḍupha*, the Kartarī-daṇḍa hand, i. e., r. h. Kartarī,face upwards, placed on the other fore-arm, and I. h. Kaṭaka-mukha.
+* **Hands that indicate Water-Animals*.**—Frog, the double Cakrahand, i. e. the thumb and forefinger go in, the middle finger isbent, and the little finger extended; Crab, the Līna-karkaṭahand, i. e., r. h. Karkaṭa direct upwards and placed on the I. h.,the fingers being interlocked; Leech, Sūci hands moved along;Crocodile, Patāka hands crossed and held apart, also indicatinga box; *Duṇḍupha*, the Kartarī-daṇḍa hand, i. e., r. h. Kartarī,face upwards, placed on the other fore-arm, and I. h. Kaṭaka-mukha.
 
  This Mirror of Gesture has been edited by Tiruvenkaṭācāri ofNiḍāmangalam, a very learned interpreter of Gesture and thelike, according to the Bharata Śāstra, and into this work arelikewise introduced many extracts from the Bharata Śāstra, forthe pleasure of the cultivated public. Thus ends the Mirror ofGesture, with extracts from other books. *Śrī Sanātana-Rāmaarpaṇam astu*!
 
@@ -1161,7 +1161,7 @@ forward left hand exhibiting the *gaja or daṇḍa* pose (cf. Plate III).
 | ![](../books_images/U-IMG-1727105986picture2.png) |
 
 **      ** **                        
-                        ****** **KURUKULLĀ**
+                        ** **KURUKULLĀ**
 
 Nepalese copper figure, about sixteenth century, Calcutta Museum. Upper hands in position of  
 shooting an arrow (CI Plate XV c).
@@ -1241,10 +1241,10 @@ From an Ajaṇṭā fresco (sixth to seventh century A.D.): tracing by Samarendr
 
 **                                 A. BUDDHA                                
        B. BODHISATTVA**  
-                Seated in *padmāsana*. the hands in *dharmacakra* mudrā.                Seated in *lalitāsana*, the r h. *tripa*- ****  
+                Seated in *padmāsana*. the hands in *dharmacakra* mudrā.                Seated in *lalitāsana*, the r h. *tripa*-   
                           Nepalese, eighth to ninth century.**                           
 ** lāka, I. h. holding stalk of lotus.**    
-                           **(The r. h. alone is *haṃsāsya.*)****                      
+                           **(The r. h. alone is *haṃsāsya.*)                      
    (Javanese, ninth to eleventh century.)  
                           (Dr. Coomaraswamy's collection)                          
 (British Museum)  

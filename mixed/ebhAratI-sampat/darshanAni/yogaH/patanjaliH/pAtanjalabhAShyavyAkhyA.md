@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NjA1OTk0
 \[
 
 
-    ****
+    
 
 ** पातञ्जलभाष्यव्याख्या**
 
@@ -2749,7 +2749,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NjA1OTk0
   **इति श्रीवाचस्पतिमिश्रविरचितायां पातञ्जलभाष्यव्याख्यायां
 तत्त्ववैशारद्यां विभूतिपादस्तृतीयः समाप्तः ॥ 3 ॥**
 
-     ****
+     
 
 **
 ---------------------------------------------------------------------**

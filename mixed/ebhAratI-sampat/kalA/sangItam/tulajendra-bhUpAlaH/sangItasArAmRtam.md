@@ -144,7 +144,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE
 | **XIII** | **Errata**                             | **lxxxii** |
 
 
-**TEXT OF THE SÄRÄM****ṛ****TA**
+**TEXT OF THE SÄRÄMṛTA**
 
 |          |          |                                     |             |
 |----------|----------|-------------------------------------|-------------|
@@ -173,7 +173,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE
 **PREFACE**
 
 
-** With the issue of this work in print, the Music Academy, Madras, is completing the publication of the triad of Tanjore texts, the Sudh****ā, the Caturdaṇdi and the Sārāmṛta. If the value of the Caturdaṇdi is greater than that of the Sudhā, the value of the Sārāmṛta, which relates itself in a large measure to the practice of the age, is greater than that of the Caturdaṇdi. After this Sangītasārāmṛta of King Tulaja of the Mahratta dynasty of Tanjore, the current of the literary history of Carnatic Music as represented by well-written Sanskrit works gets dried up, and there begins the age of the Sārasaṅgrahamus and the Saṅgrahacûḍāmaṇîs.**
+** With the issue of this work in print, the Music Academy, Madras, is completing the publication of the triad of Tanjore texts, the Sudhā, the Caturdaṇdi and the Sārāmṛta. If the value of the Caturdaṇdi is greater than that of the Sudhā, the value of the Sārāmṛta, which relates itself in a large measure to the practice of the age, is greater than that of the Caturdaṇdi. After this Sangītasārāmṛta of King Tulaja of the Mahratta dynasty of Tanjore, the current of the literary history of Carnatic Music as represented by well-written Sanskrit works gets dried up, and there begins the age of the Sārasaṅgrahamus and the Saṅgrahacûḍāmaṇîs.**
 
 
 ** As in the case of the Sudhāand the Caturdaṇdi, the late Pandit S. Subrahmanya Sastri was responsible for the preparation of the press-copy of this work also, the Sangītasārāmrta, and for secing it through press. Though printed off some time before his demise, the book could not be published before completing the work of examining the manuscripts of this and other works in the Sarasvati Mahal Library at Tanjore, and of preparing the Introduction, Summary of contents and Indexes. As printed, the Rāga and Prabandha chapters of this work appear incomplete, and the examination of the manuscripts in the Tanjore Library showed that in all the manuscripts there, these chapters are incomplete. But as a result of the manuscript-examination I could find out a line in the enumeration of the Melas which is missing in the printed here, a verse in the gencological account of the author at the opening which again is missing in the text printed here, and a few variant readings here and there; more than all these, I was able to find out portions of the Dance chapter of the Sārāmṛta as also a different and enlarged recension of the Svara chapter which includes**
@@ -1081,21 +1081,21 @@ ses: 26-28,33; p.4. verses
 ॥ इति तुलजेन्द्रवीणा॥**  
 
 
-**THE DANCE CHAPTER OF THE S****ĀRĀMṚTA****.**
+**THE DANCE CHAPTER OF THE SĀRĀMṚTA.**
 
-**That the Sārām****ṛ****ta of Tulaja has a chapter on dance was not known previously. The text printed here closes the work without any such chapter and the description of the manuscripts in the Tanjore Library Catalogue also does not suppose the existence of such a chapter. It was considered that on Nā****ṭ****ya, Tulaja wrote a separate work, and the cause of this impression is the insufficient analysis and hasty description in the New Descriptive Catalogue of the Tanjore Library. Of the mss. tabulated under Sārām****ṛ****ta in that catalogue, the contents of each have not been fully examined; besides, a little reflection on some of the preliminary lines of the ms.described as an independent N****āṭ****ya work of Tulaja, N****āṭ****yaved****ā****gama, under no. 10671,  
+**That the Sārāmṛta of Tulaja has a chapter on dance was not known previously. The text printed here closes the work without any such chapter and the description of the manuscripts in the Tanjore Library Catalogue also does not suppose the existence of such a chapter. It was considered that on Nāṭya, Tulaja wrote a separate work, and the cause of this impression is the insufficient analysis and hasty description in the New Descriptive Catalogue of the Tanjore Library. Of the mss. tabulated under Sārāmṛta in that catalogue, the contents of each have not been fully examined; besides, a little reflection on some of the preliminary lines of the ms.described as an independent Nāṭya work of Tulaja, Nāṭyavedāgama, under no. 10671,  
      इति नृत्तप्रकरणे, कुरुते तुलजाधीशः नृत्तप्रकरणं परम्**
 
 
-**would have shown that the ms. represents a fragment of the N****ṛ****ttaprakara****ṇ****a, dance-chapter, of Tulaja's Sangita-work, the Sang****ī****tas****ā****rām****ṛ****ta. N****āṭ****yaved****ā****gama' looked a very 'suspicious' title and I had long been waiting for an opportunity to examine the ms. 'Nā****ṭ****yaved****ā****gama' or the traditional account of the descent of the art fromBharata, is the first topic in N****āṭ****ya; it cannot form the title of a work on the subject; and when I examined the ms. I found my impression to be correct. The ms. turned out to be a fragment of a treatment of N****āṭ****ya by Tulaja which could only form part of his Sārām****ṛ****ta.**
+**would have shown that the ms. represents a fragment of the Nṛttaprakaraṇa, dance-chapter, of Tulaja's Sangita-work, the Sangītasārāmṛta. Nāṭyavedāgama' looked a very 'suspicious' title and I had long been waiting for an opportunity to examine the ms. 'Nāṭyavedāgama' or the traditional account of the descent of the art fromBharata, is the first topic in Nāṭya; it cannot form the title of a work on the subject; and when I examined the ms. I found my impression to be correct. The ms. turned out to be a fragment of a treatment of Nāṭya by Tulaja which could only form part of his Sārāmṛta.**
 
-**Further examination revealed that the Telugu codex of the S****ā****rām****ṛ****ta, frequently mentioned above, had, as a matter of fact, a text having a dance-chapter. When I copied out the dance portion of this Telugu ms., as also the fragment called Nā****ṭ****yavedāgama which was also in palm-leaf and Telugu script, I found that originally there was only one ms. of the dance-chapter, viz. the big Telugu codex, but that, even as some portion of it representing the Svara-chapter in underwent a revision and enlargement, the dance-chapter also underwent a process of textual inflation, and that for this purpose, some leaves of it were taken out and lines added to. It is these latter 'inflated' leaves that were found lying separately and were mistaken to be a separate work. The text in the latter 'inflated' leaves open the subject and takes us to part of a line 'एवं परम्परा(प्राप्त-)' and the continuation of the line 'मेतल्लोके प्रतिष्ठितम्'is found as the beginning of the larger Telugu codex. Tlie text then continues in the larger Telugu codex up to the tapic P****ā****trama****ṇḍ****ana', where the line stops with the fragment 'दन्तपङ्क्तिः प्रभा' and rest of it is found in the latter inflated leaves beginning abruptly 'जालप्रोज्ज्वलीकृतरङ्गभूः।'See Saṅgītaratnākara**,** ch. VII, p. 798, first line, where from Tulaja reproduce here. From here the text goes on in the 'inflated' leaves where there occurs the next break in the line 'एवं सुशिक्षिता कन्या नर्तने'which is completed in the larger codex where we have the abrupt beginning 'पात्रमीरिता'. Therefore the text of the available portion-unfortunately the chapter is not to be had fully in the ms.of this dance-chapter of theS****ā****rām****ṛ****ta is given by me below by putting the separated portions back into the larger codex at the relevant portions.**
+**Further examination revealed that the Telugu codex of the Sārāmṛta, frequently mentioned above, had, as a matter of fact, a text having a dance-chapter. When I copied out the dance portion of this Telugu ms., as also the fragment called Nāṭyavedāgama which was also in palm-leaf and Telugu script, I found that originally there was only one ms. of the dance-chapter, viz. the big Telugu codex, but that, even as some portion of it representing the Svara-chapter in underwent a revision and enlargement, the dance-chapter also underwent a process of textual inflation, and that for this purpose, some leaves of it were taken out and lines added to. It is these latter 'inflated' leaves that were found lying separately and were mistaken to be a separate work. The text in the latter 'inflated' leaves open the subject and takes us to part of a line 'एवं परम्परा(प्राप्त-)' and the continuation of the line 'मेतल्लोके प्रतिष्ठितम्'is found as the beginning of the larger Telugu codex. Tlie text then continues in the larger Telugu codex up to the tapic Pātramaṇḍana', where the line stops with the fragment 'दन्तपङ्क्तिः प्रभा' and rest of it is found in the latter inflated leaves beginning abruptly 'जालप्रोज्ज्वलीकृतरङ्गभूः।'See Saṅgītaratnākara**,** ch. VII, p. 798, first line, where from Tulaja reproduce here. From here the text goes on in the 'inflated' leaves where there occurs the next break in the line 'एवं सुशिक्षिता कन्या नर्तने'which is completed in the larger codex where we have the abrupt beginning 'पात्रमीरिता'. Therefore the text of the available portion-unfortunately the chapter is not to be had fully in the ms.of this dance-chapter of theSārāmṛta is given by me below by putting the separated portions back into the larger codex at the relevant portions.**
 
 
-**   The separation of a few leaves, it has been observed above, was done for revising and enlarging the text. This process of text-inflation was done for the purpose of bringing the text in greater contact with current terms and practice. Towards this end, the very opening of the chapter, which contains aset of verses giving the table of contents, was given an additional set of verses setting forth a revised table of contents, in which the most noteworthy addition made is the gesticulation of Darus and Padas. After the description of the subject of dance in general and of the members of the troupe and dansuese and other miscellaneous topics, the text has the topic called . Practice',Sramavidhi. This portion was taken up for inflation and in theinflated leaves we have valuable contribution dealing with Practice' as it figures in the Nautch-tradition, giving the Sanskrit names with their Tamil and Telugu equivalents, notably of the varieties of foot-beats', Pādaku****ṭṭ****ana or ādavu'. This makes the text unique since here one finds a systematic textual correlation of the Nautch which shows the fact that this tradition again does not stand aloof and that its vernacular terminology does not alienise it or make it a text-less novelty.  
-It is a pity the ms, materials are not ample enough for the presentation of the text of the full dance-chapter or for a better presentation of even the available portion. Here also as in the music-portion, Tulaja takes the plan of the Sa****ṅ****g****ī****ta ratnākara, from the dance chapter (VII) of which work, large portions are reproduced here. All such lines reproduced here from the Ratnākara are left out by mein the text printed below, considering that a reference to the corresponding portion in the Anandāśrama edition of the Ratnākara is enough. Besides the Ratnākara, Tulaja uses to an equal extent the Sa****ṅ****g****ī****tamuktavalī (of Devana or Devendra) and to a small extent the N****ṛ****ttaratnāvali (of Jayasena), mss. of both of which were collected in the Tanjore Library. For a description of these last two works, the reader may refer to my article on Later Sangita Literature in the Journal of the Music Academy, Vol. IV, Pp. 20 and 80.  
+**   The separation of a few leaves, it has been observed above, was done for revising and enlarging the text. This process of text-inflation was done for the purpose of bringing the text in greater contact with current terms and practice. Towards this end, the very opening of the chapter, which contains aset of verses giving the table of contents, was given an additional set of verses setting forth a revised table of contents, in which the most noteworthy addition made is the gesticulation of Darus and Padas. After the description of the subject of dance in general and of the members of the troupe and dansuese and other miscellaneous topics, the text has the topic called . Practice',Sramavidhi. This portion was taken up for inflation and in theinflated leaves we have valuable contribution dealing with Practice' as it figures in the Nautch-tradition, giving the Sanskrit names with their Tamil and Telugu equivalents, notably of the varieties of foot-beats', Pādakuṭṭana or ādavu'. This makes the text unique since here one finds a systematic textual correlation of the Nautch which shows the fact that this tradition again does not stand aloof and that its vernacular terminology does not alienise it or make it a text-less novelty.  
+It is a pity the ms, materials are not ample enough for the presentation of the text of the full dance-chapter or for a better presentation of even the available portion. Here also as in the music-portion, Tulaja takes the plan of the Saṅgīta ratnākara, from the dance chapter (VII) of which work, large portions are reproduced here. All such lines reproduced here from the Ratnākara are left out by mein the text printed below, considering that a reference to the corresponding portion in the Anandāśrama edition of the Ratnākara is enough. Besides the Ratnākara, Tulaja uses to an equal extent the Saṅgītamuktavalī (of Devana or Devendra) and to a small extent the Nṛttaratnāvali (of Jayasena), mss. of both of which were collected in the Tanjore Library. For a description of these last two works, the reader may refer to my article on Later Sangita Literature in the Journal of the Music Academy, Vol. IV, Pp. 20 and 80.  
 A second revision and inflation of these leaves seem to have taken place; for at the end of the latter 'inflated leaves', there are three leaves beginning abruptly in the topic of Sabhā sanniveśa', describing this topic and then the "Sabhānayaka' and then inflating the topic of the entry of the dansuese and the 'Nāndi Puspāñjali'. This addition is given by me in a foot-note at the relevant place.  
-Now follows a presentation of the available portion of the text of the dance-chapter of the Sārām****ṛ****ta.**
+Now follows a presentation of the available portion of the text of the dance-chapter of the Sārāmṛta.**
 
 
 
@@ -1187,7 +1187,7 @@ verses 9-10.**
 
 **रसस्यानुभवं साक्षाद् जनयंस्तत्सभासदाम् ।**
 
-**काव्याद्यर्थं****विभावादि व्यञ्जयन्यो नटे स्थितः ॥**  
+**काव्याद्यर्थंविभावादि व्यञ्जयन्यो नटे स्थितः ॥**  
 
 
 **स एवाभिनयः प्रोक्तो भरतादिमुनीश्वरैः ।**
@@ -1731,7 +1731,7 @@ VII. 1236-40.**
 
 **etc. up to**
 
-**यथोचितं विधातव्यमित्याह शिववल्लभः ॥ 8****verses, Ratnakara, VII,  
+**यथोचितं विधातव्यमित्याह शिववल्लभः ॥ 8verses, Ratnakara, VII,  
 1250 1257.  
 ॥ इति पात्रमण्डनानि ॥**
 
@@ -1940,7 +1940,7 @@ BLOGana \।(असंपादितः भागः)**
 **करान् वर्तना प्राण्य (?) पार्श्वाभ्यां भ्रमिरुद्धमः ॥**
 
 **आकुश्चितो (रु?) श्लिष्टाङ्घ्रिः सैवाकुश्चितपादिका ।  
-For का (असंपादितः भागः)****।**
+For का (असंपादितः भागः)।**
 
 **येन्दिकट्दु ॥**
 
@@ -2268,7 +2268,7 @@ VII. 1263-68.**
 **एवं कृत्वा यथायोगमन्ते निष्क्राममाचरेत् ॥ **
 
 **एवं कृते नृत्तजाच? पद्धतिः परिकीर्तिता ॥  
-1. In the 3 stray leaves at the end of the inflated ms. No. 10671, we find the text further inflated from this line, as follows:****(असंपादितः भागः)**  
+1. In the 3 stray leaves at the end of the inflated ms. No. 10671, we find the text further inflated from this line, as follows:(असंपादितः भागः)**  
 **नान्दीं पुष्पाञ्जलिं चैव यथाशास्त्रं समाचरेत् । विघ्नध्वान्तनिवारणैकतरणिर्विघ्नाटवीहव्यवाट्  
 विघ्नव्यालकुलघ्नमत्तगरुडो विघ्नेभपञ्चाननः । विघ्नोत्तुङ्गगिरिप्रभेदनपविर्विघ्नाब्धिकुम्भोद्भवः**
 
@@ -2344,7 +2344,7 @@ VII. 1271-83.
 
 **विचित्रैः पदवि(न्यासैः?) कुट्टनैश्च प्रसारणैः ॥**
 
-******पार्ष्णि****घातैश्च विविधैर्गीतवाद्याक्षरानुगैः । **
+**पार्ष्णिघातैश्च विविधैर्गीतवाद्याक्षरानुगैः । **
 
 **पादचारैश्च विविधैर्नर्तयेत् पेरणं च तत् ॥  
 ॥ इति पेरणम् ॥ **
@@ -2431,37 +2431,37 @@ VII, 1313-1327. **
 
 
 
-**THES****ĀRĀMṚTA****.AND OTHER TEXTS  
+**THESĀRĀMṚTA.AND OTHER TEXTS  
 The Saṅgītaratnākara**
 
-   **Except on the fifty Rāgas which Vidyāra****ṇ****ya described in his Sa****ṅ****g****ī****ta****Sāra, the Sa****ṅ****g****ī****ta****sudhā represents but a recast of the Sa****ṅ****g****ī****taratn****ā****kara The Caturda****ṇ****d****ī****prakāsikā, nodoubt. calmly ignored the antiquated portions in most of its chapters, but fell back upon the Ratnākara for its Gita and Prabandha, and probably also Tala, chapters. Many other works, in like manner, drew considerably on the Ratnākara, even as the Ratnākara itself but versified and reproduced large portions of, chiefly, Abhinavagupta's commentary on the Nātyasāstra and Nānyadeva's Bharatabhāsya. The Sārāmrta of Tulaja is no exception and it also reproduced large portions of both the Ratnākara and the commentary thereon by Catura Kallinātha. So, practically, there is little that is original in the first sixty-four pages of the Sārāmrta dealing with Sruti, Svara, Grāma, Mürchanā, Tāna, Sādhāra****ṇ****a, Var****ṇ****a, Alankāra, Jāti and G****ī****ti. Similarly the portion from p. 112 to the end, p. 187, representing the chapters on Vādya. Prabandha, Tāla and prak****ī****r****ṇ****aka, is again only a reproduction of the Ratnākara, now verbatim, now in an abbreviated form, now in the sanne order, now in a rearranged manner.  
-     The only matter in the Vädya chapter not found in the Ratnākara is the description of the Suddhāmela Viņā etc. which is inserted here (pp. 121-122A-I) up to line (लक्षितव्या मध्यमेलवीणा लक्ष्मानुसारतः) fromtheCaturda****ṇ****diprakāsikāof Venkatamakhin. The Sārām****ṛ****ta also omits certain portions of the Ratnākara; as for instance: in its treatment of the flute, the Ratnākara illustrates the playing of many Rāgas beginning with Madhyamādi, but the Sārām****ṛ****ta satisfies itself with the Madhyamādi, omitting the rest. Similar omission of part of the Ratnākara occurs on p. 136 of the Sārāmrta, after the 35 Pāțas; from p. 571 of the Ratnākara (Anandāśrama II), Tulaja goes off to p. 599. Again, in the section on drums, Tulaja reproduces the Ratnākara up to the description of the Hudukka Vādya and then omits the description of Karata etc.  
-  The noteworthy feature of the Prabandha-chapter of the Sārām****ṛ****ta is that besides the Ratnākara, the work of (Pundarika) Vitthala is used here. At some places here, the Ratnākara as used with additions and alterations by probably Vitthala is reproduced (p. 144). On pp. 144-5, there is reproduction of verses from pp. 75-6 of the Caturda****ṇ****diprakāśikā, on Prabandhāngas, Udgraha, Svara, Biruda, Pada, Tennaka, Pața etc. On pp. 147-9, 152, the Vitthaliya is used. The distinction in connotation between the words Gita and Prabandha, in which connection reference is made to the expression Caturdandi and its promulgator Gopālanāyaka, found on p. 153 of the Sārām****ṛ****ta, is taken from the Caturda****ṇ****diprakāsikā, p.75. The only new matter therefore in this chapter comprises pp. 150-2 where a couple of the Gitas of Purandaradāsa is cited and the question of their accord with the definition of the Sūlādi in text books discussed, and pp. 158-9 where a great scholar and composer, Vyāsapācārya by name, and a composition of his, are referred to and quoted.  
+   **Except on the fifty Rāgas which Vidyāraṇya described in his SaṅgītaSāra, the Saṅgītasudhā represents but a recast of the Saṅgītaratnākara The Caturdaṇdīprakāsikā, nodoubt. calmly ignored the antiquated portions in most of its chapters, but fell back upon the Ratnākara for its Gita and Prabandha, and probably also Tala, chapters. Many other works, in like manner, drew considerably on the Ratnākara, even as the Ratnākara itself but versified and reproduced large portions of, chiefly, Abhinavagupta's commentary on the Nātyasāstra and Nānyadeva's Bharatabhāsya. The Sārāmrta of Tulaja is no exception and it also reproduced large portions of both the Ratnākara and the commentary thereon by Catura Kallinātha. So, practically, there is little that is original in the first sixty-four pages of the Sārāmrta dealing with Sruti, Svara, Grāma, Mürchanā, Tāna, Sādhāraṇa, Varṇa, Alankāra, Jāti and Gīti. Similarly the portion from p. 112 to the end, p. 187, representing the chapters on Vādya. Prabandha, Tāla and prakīrṇaka, is again only a reproduction of the Ratnākara, now verbatim, now in an abbreviated form, now in the sanne order, now in a rearranged manner.  
+     The only matter in the Vädya chapter not found in the Ratnākara is the description of the Suddhāmela Viņā etc. which is inserted here (pp. 121-122A-I) up to line (लक्षितव्या मध्यमेलवीणा लक्ष्मानुसारतः) fromtheCaturdaṇdiprakāsikāof Venkatamakhin. The Sārāmṛta also omits certain portions of the Ratnākara; as for instance: in its treatment of the flute, the Ratnākara illustrates the playing of many Rāgas beginning with Madhyamādi, but the Sārāmṛta satisfies itself with the Madhyamādi, omitting the rest. Similar omission of part of the Ratnākara occurs on p. 136 of the Sārāmrta, after the 35 Pāțas; from p. 571 of the Ratnākara (Anandāśrama II), Tulaja goes off to p. 599. Again, in the section on drums, Tulaja reproduces the Ratnākara up to the description of the Hudukka Vādya and then omits the description of Karata etc.  
+  The noteworthy feature of the Prabandha-chapter of the Sārāmṛta is that besides the Ratnākara, the work of (Pundarika) Vitthala is used here. At some places here, the Ratnākara as used with additions and alterations by probably Vitthala is reproduced (p. 144). On pp. 144-5, there is reproduction of verses from pp. 75-6 of the Caturdaṇdiprakāśikā, on Prabandhāngas, Udgraha, Svara, Biruda, Pada, Tennaka, Pața etc. On pp. 147-9, 152, the Vitthaliya is used. The distinction in connotation between the words Gita and Prabandha, in which connection reference is made to the expression Caturdandi and its promulgator Gopālanāyaka, found on p. 153 of the Sārāmṛta, is taken from the Caturdaṇdiprakāsikā, p.75. The only new matter therefore in this chapter comprises pp. 150-2 where a couple of the Gitas of Purandaradāsa is cited and the question of their accord with the definition of the Sūlādi in text books discussed, and pp. 158-9 where a great scholar and composer, Vyāsapācārya by name, and a composition of his, are referred to and quoted.  
 The Tāla-chapter, pp. 160-171, is a more regular reproduction of the Ratnākara with two omissions--one on p.166, where the detailed definition of the Mārgatālas on pp. 367-429 of the Ratnākara is omitted, and another on p.171, where at the close of the chapter, both Tālaprastāra and Nastoddista are omitted.  
-   The Prakīr****ṇ****aka chapter is also a reproduction from Ratnākara, but some of the topics do not follow in the same order here. Here as well as in the earlier chapter on Prabandha, there are a few quotations said to be from the Bhāratīya. (Pp. 143, 173, 179). All these are really taken from the Ratnākara.  
+   The Prakīrṇaka chapter is also a reproduction from Ratnākara, but some of the topics do not follow in the same order here. Here as well as in the earlier chapter on Prabandha, there are a few quotations said to be from the Bhāratīya. (Pp. 143, 173, 179). All these are really taken from the Ratnākara.  
                    **
 
 **                     The Vitthalīya**
 
-**It was noted above that the Prabandha-chapter uses the work of Vitthala and mentions it as Vitthalīya. This is the work of Pundarika Vitthala and probably ms. no. 10677 in the Tanjore Library, Vitthalīya, together with other fragments ofVitthala's works in the same library, were those collected and used by Tulaja for compiling his Sārām****ṛ****ta.  
-    Vitthala is mentioned by Tulaja on the S****ā****ranga rāga and Mela as one who was rich in both Sastra andAnubhava (p. 111).  
+**It was noted above that the Prabandha-chapter uses the work of Vitthala and mentions it as Vitthalīya. This is the work of Pundarika Vitthala and probably ms. no. 10677 in the Tanjore Library, Vitthalīya, together with other fragments ofVitthala's works in the same library, were those collected and used by Tulaja for compiling his Sārāmṛta.  
+    Vitthala is mentioned by Tulaja on the Sāranga rāga and Mela as one who was rich in both Sastra andAnubhava (p. 111).  
       तथा चोक्तं विठ्ठलेन शास्त्रानुभवशालिना ।  
   Earlier also, on Grāma being only one, the Vitthaliya is quoted by Tulajā (p. 66-7).  
                **
 
-**                The Caturda****ṇ****diprakāśikā**
+**                The Caturdaṇdiprakāśikā**
 
-**      The text of the Sang****ī****tasarām****ṛ****ta is of help to an understanding of Venkatamakhin's Caturda****ṇ****d****ī****prakāśikawhich is used and quoted by Tulaja more than once. Venkatamakhin says that he dealt with the Ragas, 55 in number, for which Tānappa composed G****ī****ta, Thāya and Prabandha and indicated also their Alāpa. (pp. 64, 67, Sls. 105, 32); and a characteristic of Venkatamakhin's work is that he devoted separate chapters to G****ī****ta, Prabandha, Thāya and Al****ā****pa. There was also S1. 5 of the Prabandha chapter (p. 75) from which G****ī****ta and Prabandha appear to form part of the term Caturda****ṇ****d****ī****. All this was there, but still one could not be sure what exactly the term Caturda****ṇ****d****ī****which Venkatamakhin offered to illumine (prak****ā****sikā) in his work. That the expression Caturda****ṇ****d****ī****means the composite of four 'manifestations' of the Rāga viz., G****ī****ta, Prabandha, Th****ā****ya and Alāpa, is made expressly clear by the text of Tulaja's Sangitasārām****ṛ****ta, where, at the very opening of his treatment of the Ragas, Tulaja says that in the case of each Räga, he will illustrate from the old Caturda****ṇ****d****ī****comprising G****ī****ta, Prabandha, Thāya and Al****ā****pa.  
+**      The text of the Sangītasarāmṛta is of help to an understanding of Venkatamakhin's Caturdaṇdīprakāśikawhich is used and quoted by Tulaja more than once. Venkatamakhin says that he dealt with the Ragas, 55 in number, for which Tānappa composed Gīta, Thāya and Prabandha and indicated also their Alāpa. (pp. 64, 67, Sls. 105, 32); and a characteristic of Venkatamakhin's work is that he devoted separate chapters to Gīta, Prabandha, Thāya and Alāpa. There was also S1. 5 of the Prabandha chapter (p. 75) from which Gīta and Prabandha appear to form part of the term Caturdaṇdī. All this was there, but still one could not be sure what exactly the term Caturdaṇdīwhich Venkatamakhin offered to illumine (prakāsikā) in his work. That the expression Caturdaṇdīmeans the composite of four 'manifestations' of the Rāga viz., Gīta, Prabandha, Thāya and Alāpa, is made expressly clear by the text of Tulaja's Sangitasārāmṛta, where, at the very opening of his treatment of the Ragas, Tulaja says that in the case of each Räga, he will illustrate from the old Caturdaṇdīcomprising Gīta, Prabandha, Thāya and Alāpa.  
       P. 72:   आरोहावरोहमूर्छनातानयोरयं
 सन्दर्भोऽत्रसंगच्छते,  अयं सन्दर्भो न संगच्छत इत्येतन्निश्चयार्थं प्राचीनगीतप्रबन्धठायालापरूपचतुर्दण्डीसूलादिप्रभृत्युदाहरणेन स्फुटं यथा भवति तथा लिख्यते।  
   **
 
-**   Venkatamakhin says in his Prabandha chapter (śls. 4-6) that though the words Gīta and Prabandha as such may appear to mean the same thing, viz., a musical composition, the two, in fact, differ in technical use as meaning two different kinds of composition, and that if such a distiction is not maintained the expression Caturdandi and probably the heritage left byGopālan****ā****yaka would become meaningless, for two of his four Da****ṇ****das' are Gita and Prabandha. This passage in the Caturdandi is reproduced by Tulaja on p. 153 of the Sārāmrta.[^37] are really corrupt both in the ms. of C. D. Pra, and of the Säramrta.")**
+**   Venkatamakhin says in his Prabandha chapter (śls. 4-6) that though the words Gīta and Prabandha as such may appear to mean the same thing, viz., a musical composition, the two, in fact, differ in technical use as meaning two different kinds of composition, and that if such a distiction is not maintained the expression Caturdandi and probably the heritage left byGopālanāyaka would become meaningless, for two of his four Daṇdas' are Gita and Prabandha. This passage in the Caturdandi is reproduced by Tulaja on p. 153 of the Sārāmrta.[^37] are really corrupt both in the ms. of C. D. Pra, and of the Säramrta.")**
 
 [^37]: "1. On Gopālanāyaka and this and other references in the work of Venkatamakhin to him and to the expression Caturdandī, see the Journal of the Music Academy, Vol. IV. pp. 20-1, 64, my article on Later Sangita Literature. The lines in the Cat. Dand. Pra. कुतस्सिद्ध्येच्चतुर्दण्डी कुतो गोपालनायकः। प्रयुक्तं च चतुर्दण्डीति॥(amended
 
 
-**  In the chapter on Mel****ā****, Tulaja makes more than one reference to the Cat. Dand. Pra. On p. 66, Tulaja quotes the Cat. Dand. Pra., Svara ch., p. 27-8 sls. 68-72. on Grāma being only one viz., the Sadjagrāna. Again, many of the lines on p. 69 defining the ten essential and characterising factors of Rāgas are taken from the Cat. Dand. Pra, p. 56. The explanation of how mel****ā****is formed on pp. 66-7 of the Sār****ā****m****ṛ****ta is based on the same in the Cat. Dand. Pra., p. 36 ff. But it must be noted that Tulajadoes not adopt the Sanketas or Samjñās used by Venkatamakhin, viz., Ra, Ri, Ru; Ga, Gi, Gu and so on. Also, Tulaja says that what the author of the Svaramelakalānidhi calls Cyutapancamamadhyamaand the author of the Caturda****ṇ****d****ī****prak****ā****sika Varālimadhyama, he himself would call Vik****ṛ****tapancamamadhyama.  
+**  In the chapter on Melā, Tulaja makes more than one reference to the Cat. Dand. Pra. On p. 66, Tulaja quotes the Cat. Dand. Pra., Svara ch., p. 27-8 sls. 68-72. on Grāma being only one viz., the Sadjagrāna. Again, many of the lines on p. 69 defining the ten essential and characterising factors of Rāgas are taken from the Cat. Dand. Pra, p. 56. The explanation of how melāis formed on pp. 66-7 of the Sārāmṛta is based on the same in the Cat. Dand. Pra., p. 36 ff. But it must be noted that Tulajadoes not adopt the Sanketas or Samjñās used by Venkatamakhin, viz., Ra, Ri, Ru; Ga, Gi, Gu and so on. Also, Tulaja says that what the author of the Svaramelakalānidhi calls Cyutapancamamadhyamaand the author of the Caturdaṇdīprakāsika Varālimadhyama, he himself would call Vikṛtapancamamadhyama.  
       Tulaja then says that on the question of the Rāgas born of such Mela or Melana, the Cat. Dand. Pra. speaks of 72 varieties, but of these 72, Venkatamakhin himself deals with only 19, leaving the 72 to be deduced by permutation. Tulaja adds that he would leave off all those Melas, they being unknown, Aprasiddha, and would deal only with the few Melas which are well-known specifically through their names which definitely means that, in Tulaja's time, other Melas were not known by their names.  
 अथ मेलोद्भवा रागा निरूप्यन्ते यथाक्रमम् ।**
 
@@ -2481,11 +2481,11 @@ The Tāla-chapter, pp. 160-171, is a more regular reproduction of the Ratnākara
 
 
 
-****
 
-**Thus according to Tulaja, it is clear, that even in the time of Ve****ṅ****katamakhin, all the72 Melas were not known by their names. They were not so known even in Tulaja's days.Further Tulaja does notfeel it necessary to enumerate or describe his Melas in their number-order according to the scheme of Ve****ṅ****katamakhin; Tulaja does not start with Mukhār****ī****, but with Sri R****ā****ga, which he considers, following Someśvara's view, as the first of all Ragas, from the point of view again not of schematic classification, but of musical mythology. There are also other differences on the Melas between Ve****ṅ****katamakhin and Tulaja. Thus: Bhūpāla, a Mela for the former is a Janya for the latter under Bhinna Sadja. For the former's Gaula, the latter has M****ā****lavagaula. The former's Āhiri, a Mela, becomes a Janyaunder Bhairavi mela for the latter. Samanta, a Mela in the former, is a Janya under Sa****ṅ****karā-bharaṇa in the latter. Pantuvarali is a Mela for the former and it is a Janya under Sindhurāmakriya for the latter[^38].  
-For a comparison of the two works, the Caturdaṇd****ī****and the S****ā****rām****ṛ****ta, on the R****ā****gas, see the table given below.  
-      In the V****ī****ṇā-section of the V****ā****dya-chapter, Tulaja makes a long quotation from the first chapter of the Cat. Dand. Pra. (See pp. 121-122 A to 122-I), on the Suddhamela Vīnā etc. In two Mss., one in Telugu and another in Devanāgarī, referred to above, this quotation is found as part of the Svara-chapter and is made there with alterations as can be seen from the reproduction of the same given above in this Introduction. Even in the V****ā****dya-chapter, where it is printed in this edition, this description of the Suddha and Madhya Mela Viṇās taken from the Cat. Dand. pra, is not found to follow smoothly and naturally in the text; it cuts into a regular block of matter taken from the Ratnākara, appearing to have been inserted on second thoughts as a result of a feeling that the work should not simply rest content with reproducing obsolete matter from**  
+
+**Thus according to Tulaja, it is clear, that even in the time of Veṅkatamakhin, all the72 Melas were not known by their names. They were not so known even in Tulaja's days.Further Tulaja does notfeel it necessary to enumerate or describe his Melas in their number-order according to the scheme of Veṅkatamakhin; Tulaja does not start with Mukhārī, but with Sri Rāga, which he considers, following Someśvara's view, as the first of all Ragas, from the point of view again not of schematic classification, but of musical mythology. There are also other differences on the Melas between Veṅkatamakhin and Tulaja. Thus: Bhūpāla, a Mela for the former is a Janya for the latter under Bhinna Sadja. For the former's Gaula, the latter has Mālavagaula. The former's Āhiri, a Mela, becomes a Janyaunder Bhairavi mela for the latter. Samanta, a Mela in the former, is a Janya under Saṅkarā-bharaṇa in the latter. Pantuvarali is a Mela for the former and it is a Janya under Sindhurāmakriya for the latter[^38].  
+For a comparison of the two works, the Caturdaṇdīand the Sārāmṛta, on the Rāgas, see the table given below.  
+      In the Vīṇā-section of the Vādya-chapter, Tulaja makes a long quotation from the first chapter of the Cat. Dand. Pra. (See pp. 121-122 A to 122-I), on the Suddhamela Vīnā etc. In two Mss., one in Telugu and another in Devanāgarī, referred to above, this quotation is found as part of the Svara-chapter and is made there with alterations as can be seen from the reproduction of the same given above in this Introduction. Even in the Vādya-chapter, where it is printed in this edition, this description of the Suddha and Madhya Mela Viṇās taken from the Cat. Dand. pra, is not found to follow smoothly and naturally in the text; it cuts into a regular block of matter taken from the Ratnākara, appearing to have been inserted on second thoughts as a result of a feeling that the work should not simply rest content with reproducing obsolete matter from**  
 **an old book, but should try to take into account materials of nearer and contemporary stages.  
 For other writers and authorities used or quoted by Tulaja, see separate Index.**
 
@@ -2495,8 +2495,8 @@ For other writers and authorities used or quoted by Tulaja, see separate Index.*
 
 **              LAKSYAS QUOTED BY TULAJA**
 
-**The value of the R****ā****ga-chapter in Tulaja's work is enhanced by the fact that he does not rest content with merely defining each Rāga in a verse or a brief formula of Svaras, To enable one to know all the lines and shades which would bring out a Raga in its full contour, he quotes from classic illustrative compositions and other current pieces of his times. He says that he would quote old Gītas, Prabandhas, Thāyas and Al****ā****pas, and he does so in the case of each R****ā****ga. Sometimes he adds Sūlādis. In the verse-description which is first given, the Rāga is described in terms of its Nyāsa, Ansa etc., and in the case of S****ā****davas and auduvas, the Varjasvaras are mentioned. Tuluja then shows whether the "Svaragati' in a Rāga is "Vakra' or Sama (straight), Vişama or Jațila. Alpatva in the form of Langhana is mentioned. In some cases, the Edupu, Ayitta or Muttāyi or Tāna, is given. It is also clearly pointed out in some cases what phrases would occur rarely and what never. See also the tabulated statement on the R****ā****gas, which I have given below.  
-Leaving the Gīta or additional Gīta (Gitāntara), Thāya (or Thāyantara) and Prabandha quoted for all the R****ā****gas, and also the Sulādi which is given for many Rāgas, we may show here the other illustrations given by Tulaja.**
+**The value of the Rāga-chapter in Tulaja's work is enhanced by the fact that he does not rest content with merely defining each Rāga in a verse or a brief formula of Svaras, To enable one to know all the lines and shades which would bring out a Raga in its full contour, he quotes from classic illustrative compositions and other current pieces of his times. He says that he would quote old Gītas, Prabandhas, Thāyas and Alāpas, and he does so in the case of each Rāga. Sometimes he adds Sūlādis. In the verse-description which is first given, the Rāga is described in terms of its Nyāsa, Ansa etc., and in the case of Sādavas and auduvas, the Varjasvaras are mentioned. Tuluja then shows whether the "Svaragati' in a Rāga is "Vakra' or Sama (straight), Vişama or Jațila. Alpatva in the form of Langhana is mentioned. In some cases, the Edupu, Ayitta or Muttāyi or Tāna, is given. It is also clearly pointed out in some cases what phrases would occur rarely and what never. See also the tabulated statement on the Rāgas, which I have given below.  
+Leaving the Gīta or additional Gīta (Gitāntara), Thāya (or Thāyantara) and Prabandha quoted for all the Rāgas, and also the Sulādi which is given for many Rāgas, we may show here the other illustrations given by Tulaja.**
 
 **P. 73. For Kannadagaula a piece is quoted in which the  
 name of Tulaja occurs.**
@@ -2504,28 +2504,28 @@ name of Tulaja occurs.**
 **P. 77. Jayantasena. Tulaja says that there are numerous Padas and Darus in this Rāga.**
 
 **P. 83. Māgadhī. Daru is quoted. Gaurīmanoharī.  
-P. 87. Malaharī. The Sül****ā****di of Purandaradāsa is  
+P. 87. Malaharī. The Sülādi of Purandaradāsa is  
 quoted. Suddhasāverī. Quotation of what is called  
 "Khaṇdika".**
 
 **P. 92. Vasanta. Quotation of what is called "Kataka".**
 
-**P. 93. Nārāyaṇī. Quotation of a N****ā****m****ā****vali-prayoga.**  
-**P. 94. S****ā****manta Kataka**
+**P. 93. Nārāyaṇī. Quotation of a Nāmāvali-prayoga.**  
+**P. 94. Sāmanta Kataka**
 
 **P. 96. Kedāra. Sülādikhaṇdikā.**
 
-**P. 99. Yerukulak****ā****mbhoji. Many Darus and Padas said  
+**P. 99. Yerukulakāmbhoji. Many Darus and Padas said  
 to be available in this Räga.**
 
-**P. 105. Dhany****ā****si.Many Darus and Padas said  
-to be available in this R****ā****ga.**
+**P. 105. Dhanyāsi.Many Darus and Padas said  
+to be available in this Rāga.**
 
 **P. 109. Lalita pañcama. Many Darus and Slokavarṇas  
 available in this.**
 
 **Of these, Padas and Darus are well-known. By the former, Tulaja no doubt means the Padas such as those of Kşetrajña, and by the latter the compositions called Darus which occur in musical dance-plays which were produced in large numbers at Tanjore. Again Darus and Bhāṣāpadas are referred to by Tulajā in the Prabandha chapter.  
-Kataka' was perhaps a certain set of Sancāras or Prayogas for each R****ā****ga handed down traditionally or composed by some and available in ms. and Khaṇdik****ā****' seems to mean a part thereof. Slokavarnas may mean verses set to definite Rāgas and intended to sung in those R****ā****gas.**
+Kataka' was perhaps a certain set of Sancāras or Prayogas for each Rāga handed down traditionally or composed by some and available in ms. and Khaṇdikā' seems to mean a part thereof. Slokavarnas may mean verses set to definite Rāgas and intended to sung in those Rāgas.**
 
 **                           IX**
 
@@ -2580,7 +2580,7 @@ Kataka' was perhaps a certain set of Sancāras or Prayogas for each R****ā****g
 
 
 **â ñ ḍ ô ṣ ś š í Ś ṁ ṛ î ī ā ṭ ṇ ṅ û śṛ ĀÂ Ṭ Ṇ Ṅ Û Ś Ñ Ḍ Ô Ṣ Ś Š Í Ś Ṁ Ṛ Ī Î**  
-****
+
 
 
 
@@ -3539,7 +3539,7 @@ CITED DY TULAJA**
 **स स स रि रि रि ग ग ग म म म प प प ध ध ध नि नि नि ससससरिरिरिरिगगगगममममपपपपधधधधनिनिनिनि एतौ द्वौ गात्रवर्णभेदौ;  
 निष्कर्षस्यैव भेदौद्वौ केचिदेतौ बभाषिरे ।**
 
-**इ****ति मतान्तरेण निष्कर्षभेदौ । (१)  
+**इति मतान्तरेण निष्कर्षभेदौ । (१)  
 प्लुतं ह्रस्वंप्लुतं ह्रस्वं प्लुतं ह्रस्वं प्लुतं स्वरम् ॥**  
 
 
@@ -4243,7 +4243,7 @@ CITED DY TULAJA**
 **८. रिग सा सा सा नीं नीं नीं नीं  
   दे  हा     र्ध मि  श्रि**
 
-**९****. सा रिग रिग सा नीं सा धा धा  
+**९. सा रिग रिग सा नीं सा धा धा  
   त श री         रं**
 
 **१०.रींगंरिं मंगं मां मां मां मां मां  
@@ -4507,7 +4507,7 @@ CITED DY TULAJA**
 **६. निध सा री मगम मा मा मा मा**
 
 **  भं**  
-**७.****मां मां मंगंमं मंधं धंपं पंधं पंमं गंमंगं**
+**७.मां मां मंगंमं मंधं धंपं पंधं पंमं गंमंगं**
 
 **  का  मि  ज  न न य  न**
 
@@ -5185,7 +5185,7 @@ CITED DY TULAJA**
 **१६. रिग गा गा गा गा गा गा गा**
 
 **   यं                              
-     ****॥ १७ ॥**  
+     ॥ १७ ॥**  
 
 
 
@@ -5287,7 +5287,7 @@ CITED DY TULAJA**
 **२३. सा सा धनि धा पा पा पा पा  
    क्षी   रोद   सा     ग**
 
-****
+
 
 **संगीतसारामृते**  
 
@@ -5776,7 +5776,7 @@ CITED DY TULAJA**
 
 
 
-**सत्यम् ; यद्यपि निरपेक्षयोर्विरुद्धयोर्धर्मयोरेकत्र समावेशायोगः, तथा ऽपि विरुद्धयोरपि सापेक्षयोर्धर्मयोरेकत्र समावेशः संगच्छत एव, एकमातृप्रसूतानां भ्रातॄणां चतुर्णां मध्यगतयोर्द्वयोर्ज्येष्ठकनिष्ठापेक्षया ज्येष्ठत्वकनिष्ठत्वरूपविरुद्धधर्माविति न दोषः । अत एषु चतुर्षु स्वरेषु मुखारिश्रीरागनाटाख्यलक्ष्यानुरोधेन प्रथमद्वितीयौ वा शुद्धर्षभशुद्धगांधारौ, द्वितीयतृतीयौ वा पञ्चश्रुतिरिषभसाधारणगांधारौ, तृतीयचतुर्थौवा षट्श्रुतिरिषभान्तरगांधारावित्यृषभगांधारावन्यतरौ स्वरौनियमेन संग्राह्यौ ।तत्रर्षभः पूर्वभावी गांधारस्तदनन्तरभाव्येव । एवमुक्ताः शुद्धर्षभादयो ऽन्तरगांधारान्ता श्चत्वारः स्वरा वीणायां मेरोः पुरस्ताच्चतसृषुसारिकासु स्पष्टमुपलभ्यन्ते। तत ऊर्ध्वं****पञ्चमे पर्वणि शुद्धमध्यमः, षष्ठेपर्वणि जायमानः स्वरश्च्युतपञ्चममध्यम इति स्वरमेलकलानिधिकारश्च्युत-षड्जच्युतमध्यमयो-र्निषादत्वगांधारत्वव्यवहारबलाच्च्युतषड्जनिषादच्युतमध्यमगांधारसंज्ञाकरणवदस्यापि च्युतपञ्चममध्यमसंज्ञां कृतवान् चतुर्दण्डीप्रकाशिकाकारस्त्वेनं लक्ष्यज्ञव्यवहारानुरोधेन वरालीमध्यमसंज्ञयैवव्यवहृतवान् । अस्माकं तु मध्यमग्रामविभाजकपञ्चमस्य स्वोपान्त्यश्रुतिस्थस्यैव षड्जग्रामे शास्त्रे विकृतत्वकथनाच्छास्त्रानुरोधेन विकृतपञ्चममध्यम इति व्यवहर्तुमुचितमिति प्रतिभाति । मध्यमग्रामजन्यरागेषुमध्यमादितोडिप्रभृतिषु तादृषपञ्चमप्रयोगादर्शनात्षड्जग्राम एव मध्यमादिप्रभृतिलक्ष्येषु स्वचतुर्थश्रुतिस्थितपञ्चमस्यैव प्रयोगदर्शनाद्विकृतपञ्चममध्यम इत्येव व्यवहर्तुमुचितम् । एवं विकृतपञ्चममध्यमे सिद्धे ऽनयोः शुद्धमध्यमविकृतपञ्चममध्यमयोरन्यतरो नियमेन संग्राह्यः । ततः सप्तमे पर्वणि शुद्धपञ्चमो निष्पद्यते । अयमेकः संग्राह्यः ।**  
+**सत्यम् ; यद्यपि निरपेक्षयोर्विरुद्धयोर्धर्मयोरेकत्र समावेशायोगः, तथा ऽपि विरुद्धयोरपि सापेक्षयोर्धर्मयोरेकत्र समावेशः संगच्छत एव, एकमातृप्रसूतानां भ्रातॄणां चतुर्णां मध्यगतयोर्द्वयोर्ज्येष्ठकनिष्ठापेक्षया ज्येष्ठत्वकनिष्ठत्वरूपविरुद्धधर्माविति न दोषः । अत एषु चतुर्षु स्वरेषु मुखारिश्रीरागनाटाख्यलक्ष्यानुरोधेन प्रथमद्वितीयौ वा शुद्धर्षभशुद्धगांधारौ, द्वितीयतृतीयौ वा पञ्चश्रुतिरिषभसाधारणगांधारौ, तृतीयचतुर्थौवा षट्श्रुतिरिषभान्तरगांधारावित्यृषभगांधारावन्यतरौ स्वरौनियमेन संग्राह्यौ ।तत्रर्षभः पूर्वभावी गांधारस्तदनन्तरभाव्येव । एवमुक्ताः शुद्धर्षभादयो ऽन्तरगांधारान्ता श्चत्वारः स्वरा वीणायां मेरोः पुरस्ताच्चतसृषुसारिकासु स्पष्टमुपलभ्यन्ते। तत ऊर्ध्वंपञ्चमे पर्वणि शुद्धमध्यमः, षष्ठेपर्वणि जायमानः स्वरश्च्युतपञ्चममध्यम इति स्वरमेलकलानिधिकारश्च्युत-षड्जच्युतमध्यमयो-र्निषादत्वगांधारत्वव्यवहारबलाच्च्युतषड्जनिषादच्युतमध्यमगांधारसंज्ञाकरणवदस्यापि च्युतपञ्चममध्यमसंज्ञां कृतवान् चतुर्दण्डीप्रकाशिकाकारस्त्वेनं लक्ष्यज्ञव्यवहारानुरोधेन वरालीमध्यमसंज्ञयैवव्यवहृतवान् । अस्माकं तु मध्यमग्रामविभाजकपञ्चमस्य स्वोपान्त्यश्रुतिस्थस्यैव षड्जग्रामे शास्त्रे विकृतत्वकथनाच्छास्त्रानुरोधेन विकृतपञ्चममध्यम इति व्यवहर्तुमुचितमिति प्रतिभाति । मध्यमग्रामजन्यरागेषुमध्यमादितोडिप्रभृतिषु तादृषपञ्चमप्रयोगादर्शनात्षड्जग्राम एव मध्यमादिप्रभृतिलक्ष्येषु स्वचतुर्थश्रुतिस्थितपञ्चमस्यैव प्रयोगदर्शनाद्विकृतपञ्चममध्यम इत्येव व्यवहर्तुमुचितम् । एवं विकृतपञ्चममध्यमे सिद्धे ऽनयोः शुद्धमध्यमविकृतपञ्चममध्यमयोरन्यतरो नियमेन संग्राह्यः । ततः सप्तमे पर्वणि शुद्धपञ्चमो निष्पद्यते । अयमेकः संग्राह्यः ।**  
 
 
 **षड्जस्वरस्य पुरतश्चत्वारः स्युः स्वरा यथा ।**
@@ -5905,7 +5905,7 @@ CITED DY TULAJA**
 
 **देशाक्षीरागमेलो ऽथ च्छायानाटस्य मेलकः । कल्याणीरागमेलश्चेत्येकविंशतिरीरिताः ॥**
 
-**संगीतसारामृतसंज्ञके ऽस्मि्****ञ्शास्त्रेमनोज्ञे तुलजेश्वरेण ।**
+**संगीतसारामृतसंज्ञके ऽस्मि्ञ्शास्त्रेमनोज्ञे तुलजेश्वरेण ।**
 
 **सल्लक्ष्यलक्ष्मोभयकोविदानां विनिर्मितो मेलमणीन्द्रहारः ॥**
 
@@ -5931,7 +5931,7 @@ CITED DY TULAJA**
 
 **इत्युच्यते तत्र लक्ष्म तुलजेन्द्रेण धीमता ॥**
 
-**श्रीरागः परिपूर्णः सग्रहांशन्याससं****युतः ।**
+**श्रीरागः परिपूर्णः सग्रहांशन्याससंयुतः ।**
 
 **गेयः सायाह्नसमये ह्यथ तानविवर्जितः ॥**
 
@@ -6433,7 +6433,7 @@ CITED DY TULAJA**
 
 **रिरि ग गा   प म म ग ध पध प प म गा धपधपधसा सनिधपपमगरि**
 
-**तोंगिणगिणतकम क त क दिगि दिगि दिगि मदनमदन****तण्डखण्डनगण्डभै**
+**तोंगिणगिणतकम क त क दिगि दिगि दिगि मदनमदनतण्डखण्डनगण्डभै**
 
 **सरिसनिधप पमगमरिगसा इति प्रबन्धप्रयोगः ॥**
 
@@ -6673,7 +6673,7 @@ CITED DY TULAJA**
 
 **पन्यासांशग्रहा प्रातर्गेया संगीतकोविदैः।**
 
-**अस्यारोहावरोहयोः स्वरगतेरुदाहरणम् -पामारि सान्निध सरिसरि गगरि सनिध पधध र्रीसरी गगरी गग रिगमपधधपससा निधपसा निधपमगरिससनिध सरिसरि गगगरि पपमागरी गगगरी ससनिध पधधधसस्सा इत्युद्ग्रहप्रयोगः । सान्निध सरिसरि सान्निध अस्मिन्ठाये ****धससरिसनिधपमगरिसरिसस्सा इति ठायप्रयोगः । ससनिध धपध सनिध धपध अस्मिन् ठाये ससरि सरिगगरि गमप धधपससा ससनिधसनिधपमधरि ससनिध धाससारिगगरी इति ठायान्तरप्रयोगः। मगरिगमपपधपध धसाससससनिधपस निधपमगरिसनिध इति गीतप्रयोगः । अस्य रागस्यारोहे निषादो नागच्छति ॥**  
+**अस्यारोहावरोहयोः स्वरगतेरुदाहरणम् -पामारि सान्निध सरिसरि गगरि सनिध पधध र्रीसरी गगरी गग रिगमपधधपससा निधपसा निधपमगरिससनिध सरिसरि गगगरि पपमागरी गगगरी ससनिध पधधधसस्सा इत्युद्ग्रहप्रयोगः । सान्निध सरिसरि सान्निध अस्मिन्ठाये धससरिसनिधपमगरिसरिसस्सा इति ठायप्रयोगः । ससनिध धपध सनिध धपध अस्मिन् ठाये ससरि सरिगगरि गमप धधपससा ससनिधसनिधपमधरि ससनिध धाससारिगगरी इति ठायान्तरप्रयोगः। मगरिगमपपधपध धसाससससनिधपस निधपमगरिसनिध इति गीतप्रयोगः । अस्य रागस्यारोहे निषादो नागच्छति ॥**  
 
 
 **॥ इति वेलावलीरागः ॥**
@@ -6860,7 +6860,7 @@ CITED DY TULAJA**
 
 **नारायणी गग्रहांशा संपूर्णा गीयते प्रगे।**
 
-**अस्यारोहावरोहयोः स्वरगतिर्विशेषसंदर्भेणागच्छति । अस्योदाहरणम्- रिसास्सनि धसनिनिधप धसरिमगरिगमपमपधासा स्सनिनिधप मपम मगरि ममरिगसरिससनि इत्युद्ग्रहप्रयोगः । सनिनिधपधसस्सा धनिसरि****सध सनिनिधप धसस्स अस्मिन्ठाये, धनिधनिसरिमगरिममप धासास्सनिनिधप मगरिरिसनिधासा इति प्रयोगः । धधमपधसा सरिरिममपा पधध  
+**अस्यारोहावरोहयोः स्वरगतिर्विशेषसंदर्भेणागच्छति । अस्योदाहरणम्- रिसास्सनि धसनिनिधप धसरिमगरिगमपमपधासा स्सनिनिधप मपम मगरि ममरिगसरिससनि इत्युद्ग्रहप्रयोगः । सनिनिधपधसस्सा धनिसरिसध सनिनिधप धसस्स अस्मिन्ठाये, धनिधनिसरिमगरिममप धासास्सनिनिधप मगरिरिसनिधासा इति प्रयोगः । धधमपधसा सरिरिममपा पधध  
                        लउमिइमनो वअहअअर**
 
 **पमगरिसा इति नामावलिप्रयोगः ॥  
@@ -6890,7 +6890,7 @@ CITED DY TULAJA**
 **सामन्तः सग्रहः सायं गेयः सपूर्णतां गतः ।**
 
 **  अस्यारोहावरोहयोः स्वरगतेरुदाहरणम् -ससससससनि धनिस सनिधप पा सा धनिसा निरिगामगरिसा निसामगरिसनिरिसनिसनिधनिस्सा इति कटकायित्तयोगः ।  
- रिसरिगरीसागारिमनिरिसनिस सनिधनिसास्सा इति षड्जस्थायिनि तानः । निरिगामममममग रिगममगारिसाइति चतुर्थ-तानप्रयोगः । मममममगमपाग माम्मगगा गममगारिससान्निनि निसाम****मप्पा ममपमगरिगममगारिस सनिनिनिसारिस रिससनिधनिसास्स, अवरोहिणि ससससनिध निससनिधापप धनिसाससनिपाम्ममग ममपासा निधपपमगा रिगममगरिससनिधसास्सा अवरोहे षड्जतानः । पुनरेकः कटकप्रयोगः । सास्सनिधप मपनिन्निधप मपममगरिगा ममपपनीधपधनीस्सानि सरिगमम्माग ममगरिगा गारिस्ससानि सरिगमगगमगरिसा सरिससनिधनिस सनीधप मपधनिस्सा इति पुनरायित्तप्रयोगः । रिससनिनि सनिनि ससनिरिगागरिस रिससनिनी सनी अस्मिन्ठाये मधनिसनिरिगममगा मपनिधपपमगा ममगरिसनि धनिसनिन्निधपा मगरिसनिसास्स इति ठायप्रयोगः । सनिधपमपनीनिध पपमगरीग मपधनिससा इति गीतप्रयोगः । ...रिसनिसनिधपममग मागमगरिगा इति प्रबन्धप्रयोगः ।  
+ रिसरिगरीसागारिमनिरिसनिस सनिधनिसास्सा इति षड्जस्थायिनि तानः । निरिगामममममग रिगममगारिसाइति चतुर्थ-तानप्रयोगः । मममममगमपाग माम्मगगा गममगारिससान्निनि निसाममप्पा ममपमगरिगममगारिस सनिनिनिसारिस रिससनिधनिसास्स, अवरोहिणि ससससनिध निससनिधापप धनिसाससनिपाम्ममग ममपासा निधपपमगा रिगममगरिससनिधसास्सा अवरोहे षड्जतानः । पुनरेकः कटकप्रयोगः । सास्सनिधप मपनिन्निधप मपममगरिगा ममपपनीधपधनीस्सानि सरिगमम्माग ममगरिगा गारिस्ससानि सरिगमगगमगरिसा सरिससनिधनिस सनीधप मपधनिस्सा इति पुनरायित्तप्रयोगः । रिससनिनि सनिनि ससनिरिगागरिस रिससनिनी सनी अस्मिन्ठाये मधनिसनिरिगममगा मपनिधपपमगा ममगरिसनि धनिसनिन्निधपा मगरिसनिसास्स इति ठायप्रयोगः । सनिधपमपनीनिध पपमगरीग मपधनिससा इति गीतप्रयोगः । ...रिसनिसनिधपममग मागमगरिगा इति प्रबन्धप्रयोगः ।  
                     ॥ इति सामन्तरागः ॥**
 
 **शंकराभरणीयो यस्तन्मेलोत्था कुरञ्जिका ॥**
@@ -7481,7 +7481,7 @@ CITED DY TULAJA**
 **रागविवेकप्रकरणम्**  
 
 
-****
+
 
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम्-आरोहे पञ्चमलङ्घनम् , अवरोहे रिषभलङ्घनम् । सरिगगम ममपध मध्धधानिनीसा इत्युद्ग्रहप्रयोगः।**
 
@@ -7633,7 +7633,7 @@ CITED DY TULAJA**
 **॥ इति भूपालरागः ॥  
 शुद्धाः स्युः समपा यत्र रिषभः षट्श्रुतिस्तथा ॥**
 
-**अन्तराख्यानगांधारः पञ्चश्रुतिकधैव****तः ।**
+**अन्तराख्यानगांधारः पञ्चश्रुतिकधैवतः ।**
 
 **काकल्याख्यनिषादश्च स स्याद्देशाक्षिमेलकः ॥**
 
@@ -11246,7 +11246,7 @@ CITED DY TULAJA**
 
 **एतेषां लक्षणान्यष्टकरणानां क्रमाद् ब्रुवे ।**
 
-**यत्रोद्ग्रा****हध्रुवौ सान्द्रस्वरबद्धौ पदैः पुनः ॥**
+**यत्रोद्ग्राहध्रुवौ सान्द्रस्वरबद्धौ पदैः पुनः ॥**
 
 **आभोगः स्याद्गातृनेतृप्रबन्धाह्वयचिह्नितः ।**
 
@@ -11692,7 +11692,7 @@ CITED DY TULAJA**
 **प्लुतमध्यद्रुतलया यदा स्रोतोगता मता ॥**
 
 **अन्या मध्यविलम्बा स्यान्मध्यद्रुतवती परा ।**  
-**द्रुतमध्यविलम्बैः स्याद्गोपुच्छा द्रुतमध्यभाक्****॥**
+**द्रुतमध्यविलम्बैः स्याद्गोपुच्छा द्रुतमध्यभाक्॥**
 
 **द्वितीया ऽन्या भवेन्मध्यविलम्बितलयान्विता ।**
 

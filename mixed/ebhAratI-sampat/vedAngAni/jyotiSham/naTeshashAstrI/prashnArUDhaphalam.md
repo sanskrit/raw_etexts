@@ -266,7 +266,7 @@ Research Centre (Advisory Committee)
 
 
 
-**B. ARDHANAREESWARAR******
+**B. ARDHANAREESWARAR**
 
 
 
@@ -283,7 +283,7 @@ Research Centre (Advisory Committee)
 
 
 
-****Chapter I****
+Chapter I
 
 
 
@@ -6131,7 +6131,7 @@ The number of signs separating the Udaya Raasi from the house in which the Moon 
 
 
 
-***ON****FOOD***  
+***ONFOOD***  
 
 
 

@@ -270,7 +270,7 @@ moon makes its appearance only after the sun's radiance is shut down, she is apt
 
  **पर्जन्यो वाव गौतम अग्निः।तस्य वायुरेव समित्।अभ्रं धूमः।विद्युदर्चिःअशनिरङ्गाराः। ह्रादनयो विस्फुलिङ्गाः।तस्मिन्नेतस्मिन्नग्नौ देवास्सोमं र नानं जुह्वति। तस्याहुतेर्वर्षं संभवति।²⁵**
 
-** "**O****Gautama Parjanya is the Agni. To him wind is the fuel. The clouds constitute the smoke. The lightning is his radiance. The thunder is the cinder. The roaring and thundering sounds are the sparks. Inthis Agni the Devas offer the king Soma. From the offering the rains take place.”
+** "**OGautama Parjanya is the Agni. To him wind is the fuel. The clouds constitute the smoke. The lightning is his radiance. The thunder is the cinder. The roaring and thundering sounds are the sparks. Inthis Agni the Devas offer the king Soma. From the offering the rains take place.”
 
  From the following statement in the Saptapatha Brāhmaṇa *viz*
 
@@ -1247,7 +1247,7 @@ A Hindoo savant in London.**
 |                                           |                                     |
 |:-----------------------------------------:|:-----------------------------------:|
 |                **विषयाः**                 |             **विषयाः**              |
-|     **१–****अथ गर्भाध्यायः प्रथमः–**      | **३–****अथ निमित्ताध्यायस्तृतीयः—** |
+|     **१–अथ गर्भाध्यायः प्रथमः–**      | **३–अथ निमित्ताध्यायस्तृतीयः—** |
 |   १–पर्जन्यविद्याबोधकं निमित्तशास्त्रम्   |             १–गर्भरूपं              |
 |               २–वृष्टियोनिः               |               १–वातः                |
 |             ३–गर्भोपक्रमकालः              |             २–उत्पादकः              |
@@ -1255,7 +1255,7 @@ A Hindoo savant in London.**
 |               ५–गर्भविमानम्               |               २–मेघः                |
 |              ६–गर्भोपघातकाः               |             ३–विद्युत्              |
 |               ७–गर्भदोहदाः                |             ४–गर्जितम्              |
-| **२–****अथ द्वादशमासिकाध्यायः द्वितीयः–** |              ५–वृष्टिः              |
+| **२–अथ द्वादशमासिकाध्यायः द्वितीयः–** |              ५–वृष्टिः              |
 |                १–कार्तिकः                 |          २–वैकारिकाधिकारः           |
 |               २–मार्गशीर्ष                |              १–खपुरम्               |
 |                  ३–पौषः                   |             २–अभ्रतरुः              |

@@ -2579,7 +2579,7 @@ form a ditch round the castle,^(**\***)I can only suppose either that the passag
  The famous metropolis of Multân was originally situated on two islands in the Râvi, but the river has long ago deserted its old channel, and its nearest point is now more than 30 miles distant. But during high floods the waters of the Râvi still flow down their old bed, and I have twice seen the ditches of Multân filled by the natural overflow of the river**⁺**. Multân consists of a walled city and a strong fortress, situated on opposite banks of an old bed of the Râvi, which once flowed between them as well as around them. The original site consisted of two low mounds not more  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
   
-**** **\*** Vita Alex., ix. 4. 'Ipse navigio circumvectus est arcem; quippetria flumina, totâ Indiâ præter Gangen maxima, munimento arcis applicant undas. A septentrione Indus alluit; a meridie Acesines Hydaspi confunditur."  
+ **\*** Vita Alex., ix. 4. 'Ipse navigio circumvectus est arcem; quippetria flumina, totâ Indiâ præter Gangen maxima, munimento arcis applicant undas. A septentrione Indus alluit; a meridie Acesines Hydaspi confunditur."  
  ^(**+**)Burnes, Travels in the Punjab, Bokhara,' etc. i. 97, erroneously attributes the inundation of the country around Multân to the "Chenab and its canals." If he had travelled by land instead of by the river, he would have seen that the inundation is due to the flood waters of the Râvi resuming their ancient course from Sarai Siddhu direct upon Multân. I travelled over this line in the end of August, 1856, and saw the old bed of the Râvi in full flood.
 
 
@@ -2594,7 +2594,7 @@ than 8 or 10 feet high above the general level of the country. The present heigh
 
 
 
-the youngest son of Shah Jahân; but when I dismantled the defences of Multân in 1854, I found that the walls were generally double, the outer wall being about 4 feet thick, and the inner wall 3½feet to 4 feet[^290].****I conclude, therefore, that only the outer wall, or facing, was the work of Murâd Baksh. The whole was built of burnt bricks and mud, excepting the outer courses, which were laid in lime-mortar to a depth of 9 inches.
+the youngest son of Shah Jahân; but when I dismantled the defences of Multân in 1854, I found that the walls were generally double, the outer wall being about 4 feet thick, and the inner wall 3½feet to 4 feet[^290].I conclude, therefore, that only the outer wall, or facing, was the work of Murâd Baksh. The whole was built of burnt bricks and mud, excepting the outer courses, which were laid in lime-mortar to a depth of 9 inches.
 
 [^290]: " It may be interesting to note that on dismantling the wall near the Sikhi Darwâza, or "
 
@@ -5702,7 +5702,7 @@ tract remaining unassigned between Malwa on thenorth, Kosala and Andhra on the e
 
 
 
-**CEYLON****.** 
+**CEYLON.** 
 
  The famous island of Ceylon is not reckoned amongstthe kingdoms of India, and it was not visited by thepilgrim on account of political disturbances. But ashe gives a description of it from the account of themonks whom he met at *Kânchipura*, and as it is closelyconnected with India both religiously and politically,my work would not be complete without some noticeof this interesting island.
 

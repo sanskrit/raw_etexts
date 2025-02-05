@@ -1966,7 +1966,7 @@ without fixing themselves in a word "āvir . svarūpāḥ" = separately or colle
 
 [^200]: "Individual letters do not convey any meaning."
 
-**** वर्णः पुनरेकैकः सर्वाभिधानशक्तिप्रचितः।अभिधीयते यैः तान्यभिधानानि पदानि, तेषां सर्वेषामभिधानानां पदानामभिव्यञ्जिकाभिः शक्तिभिः प्रचितः,अराणामेकैक इव नाभौ।तद्यथा—गकारः गोवर्गाग्निगगनादिसर्वपदाभिद्योतनसामर्थ्यप्रचितः।
+ वर्णः पुनरेकैकः सर्वाभिधानशक्तिप्रचितः।अभिधीयते यैः तान्यभिधानानि पदानि, तेषां सर्वेषामभिधानानां पदानामभिव्यञ्जिकाभिः शक्तिभिः प्रचितः,अराणामेकैक इव नाभौ।तद्यथा—गकारः गोवर्गाग्निगगनादिसर्वपदाभिद्योतनसामर्थ्यप्रचितः।
 
  सहकारिवर्णान्तरप्रतियोगित्वात्।यथा गौरिति गकारौकारविसर्जनीयसहकारिसव्यपेक्षः अग्निरितीकार- प्रतियोगी।तस्मादनेकवर्णान्तरोपाधिसम्बन्धात् प्रतिपदं वैश्वरूप्यमिवापन्नः।उत्तरश्च वर्णः पूर्वेण विशेषे पदविशेषप्रद्योतने अवस्थापितः।पूर्वश्चोत्तरेण, मध्यमोऽपि पूर्वोत्तराभ्याम्॥
 
@@ -2060,7 +2060,7 @@ it is revealed just by the knowledge of the last letter accompanied by the seque
 
 [^214]: "The true nature of the word is as much a matter of speculation as the nature of the self is. This is a hint at the various theories regarding the nature of word. It is difficult to make out how Leggett translates this as he does. Cf. Trevor Leggett, śaṇkara on the Yogasūtras, p. 315,"
 
-**** तस्मात् (पदं) वर्णव्यतिरिक्तम्, एकबुद्धिनिर्ग्राह्यत्वे सति प्रत्यायकत्वात्, प्रदीपवत्। अर्थप्रतिपत्तौ च कारणत्वात्, प्रदीपवत्, बुद्धिवच्च। न वर्णाः पदम्, एकेन कर्त्रा क्रमेण प्रयुज्यमानत्वात्, करणत्वाच्च, वासीवृक्षादानादिवत्॥
+ तस्मात् (पदं) वर्णव्यतिरिक्तम्, एकबुद्धिनिर्ग्राह्यत्वे सति प्रत्यायकत्वात्, प्रदीपवत्। अर्थप्रतिपत्तौ च कारणत्वात्, प्रदीपवत्, बुद्धिवच्च। न वर्णाः पदम्, एकेन कर्त्रा क्रमेण प्रयुज्यमानत्वात्, करणत्वाच्च, वासीवृक्षादानादिवत्॥
 
 अत्र कश्चित् आह—
 
@@ -2808,19 +2808,19 @@ It is only with reference to sense-pleasures that this is called supreme joy of 
 
  भगवानावट्य उवाच—यदिदमायुष्मतः प्रधानवशित्वमनुत्तमं च सन्तोषसुखं (किमिदमपि दुःखपक्षे निक्षिप्तमिति। भगवान् जैगीषव्य उवाच—विषयसुखापेक्षयैवेदमनुत्तमं सन्तोषसुखं (प्रधानवशित्वसुखं च) उक्तम्। कैवल्यसुखापेक्षया दुःखमेव। बुद्धिसत्त्वस्यायं धर्मः त्रिगुणः ।) त्रिगुणश्च प्रत्ययो हेयपक्षे न्यस्त इति। किमपेक्षया पुनरेतत् द्वयं सुखं भवतीत्याह— दुःखरूपस्तृष्णातन्तुः।तृष्णासन्तानदुःखोपशमरूपं तु प्रसन्नमनाबाधं सर्वानुकूलं सुखमिदमुक्तं सन्तोषसुखं प्रधानजयसुखं च ॥१८॥
 
-**** *saṃskāra. . jñānam*. "dvaye . . . samarthaḥ[^265]"¹ = (the twofold latent impressions) are [seen](http://3 "Seen figuratively in the form of experiences in the world which includes memory.") and unseen which are the causes of memory and afflictions. The seen cause experience of affliction, action (deed) (and) result; “citta ... rūpāḥ”, i.e., they are the causes of dharma and adharma, “pūrva tāḥ” = they have been brought about during endless, past lives. "parināmadrstāḥ" = they are described earlier (as unseen). “samyamaḥsamarthaḥ” = one who practises (saṃyama) on those two subliminal-impressions (becomes adept at direct perception of the subliminal-impressions).
+ *saṃskāra. . jñānam*. "dvaye . . . samarthaḥ[^265]"¹ = (the twofold latent impressions) are [seen](http://3 "Seen figuratively in the form of experiences in the world which includes memory.") and unseen which are the causes of memory and afflictions. The seen cause experience of affliction, action (deed) (and) result; “citta ... rūpāḥ”, i.e., they are the causes of dharma and adharma, “pūrva tāḥ” = they have been brought about during endless, past lives. "parināmadrstāḥ" = they are described earlier (as unseen). “samyamaḥsamarthaḥ” = one who practises (saṃyama) on those two subliminal-impressions (becomes adept at direct perception of the subliminal-impressions).
 
 [^265]: "Available readings have “vāsanārūpaḥ"
 
-**** And as they (the impressions) are produced, qualified by experience of space, time and cause, so even at the time of direct perception they are perceived qualified by qualities of space, etc. Therefore "na ca... karaṇam[^266]".
+ And as they (the impressions) are produced, qualified by experience of space, time and cause, so even at the time of direct perception they are perceived qualified by qualities of space, etc. Therefore "na ca... karaṇam[^266]".
 
 [^266]: "The Vivaraṇakāra has already explained this in the previous line."
 
-**** 'taditham. . ginaḥ". "paratrāpi[^267] ⁴.", i.e., whomsoever's birth he desires to know, when he practises saṃyama on their subliminal-impressions he obtains knowledge regarding their previous births.
+ 'taditham. . ginaḥ". "paratrāpi[^267] ⁴.", i.e., whomsoever's birth he desires to know, when he practises saṃyama on their subliminal-impressions he obtains knowledge regarding their previous births.
 
 [^267]: "The Vivaranakāra has “prānisu..."
 
-**** In order to make clear the result of direct perception of subliminal-impressions he narrates the following story: "bhaga. . idamuktam[^268] ")" (Cognition composed of three guṇas is placed under the category of pain). Depending on what does this twofold (pain) be considered pleasure —he answers that (through the words) “duḥkha. uktam[^159]",i.e., pleasure (joy) of contentment and joy of victory over pradhāna. 
+ In order to make clear the result of direct perception of subliminal-impressions he narrates the following story: "bhaga. . idamuktam[^268] ")" (Cognition composed of three guṇas is placed under the category of pain). Depending on what does this twofold (pain) be considered pleasure —he answers that (through the words) “duḥkha. uktam[^159]",i.e., pleasure (joy) of contentment and joy of victory over pradhāna. 
 
 [^159]: "The Vivaraṇakāra leaves the bhāṣya to speak for itself."
 
@@ -2842,17 +2842,17 @@ khopaśamarupam tu prasannam anābādham...".
 
 प्रत्ययस्य परचित्तज्ञानम् ॥१९॥
 
-****
+
 
 (By practising samyama) on ideas there arises knowledge of other people's minds.
 
 प्रत्यये संयमात्प्रत्ययस्य साक्षात्करणम्। ततः परचित्तज्ञानम् ॥१९॥
 
-****
+
 
 By practising saṃyama on ideas (notions) there is direct perception of the ideas; then (there follows) knowledge of other minds.
 
-****
+
 
 **प्रत्ययस्य परचित्तज्ञानम्। परप्रत्यये संयमात् परप्रत्ययस्य साक्षात्करणम्। तत्साक्षात्करणे तत्संबन्धिनः परचित्तस्य ज्ञानं भवति ॥१९॥**
 
@@ -2866,35 +2866,35 @@ By practising saṃyama on ideas (notions) there is direct perception of the ide
 
 न च सालम्बनं तस्याविषयीभूतत्वात् ॥२०॥
 
-****
+
 
 The above knowledge is not along with its object (basis) since that is not the object of the yogī's mind.
 
-****
+
 
 **रक्तं प्रत्ययं जानाति। अमुष्मिन् आलम्बने रक्त इति न जानाति।परप्रत्ययस्य यदालम्बनं तत् योगिचित्तेन न आलम्बनीकृतम्।परप्रत्ययमात्रं तु योगिचित्तस्य आलम्बनीभूतम् इति ॥२०॥**
 
-****
+
 
 He comes to know the feeling (idea) of attachment but does not know that it is attached to such and such an object. This is because the object on which another's mind has formed its idea has not become an object for the mind of the yogi. The mind of the yogīhas only the idea in another mind as the basis (for samyama).
 
-****
+
 
 तत्र परप्रत्ययसाक्षात्करणात् तद्दुःखे दुःखित्वं, तत्सुखे सुखित्वं च प्राप्नोतीत्याशङ्क्याह—न च सालम्बनं तस्य अविषयीभूतत्वात्। रक्तं प्रत्ययं जानाति योगी। परस्य अमुष्मिन् आलम्बने रक्तः प्रत्यय इति न जानाति । परप्रत्ययस्य यदालम्बनं सुखरूपं दुःखरूपं वा, येन सुखी दुःखी वा भवेत् ॥
 
  ननु चालम्बनमसञ्जानानः कथममुष्मिन् रक्त इति सञ्जानीत इति ? उच्यते—रक्तममुष्मिन्निति सामान्यं विजानाति । न पुनः सुखविशेषं सुखिनः प्रत्ययस्यालम्बनीभूतमालम्बते । परप्रत्ययमात्रं तु योगिचित्तस्यालम्बनीभूतम् ॥२०॥
 
-****
+
 
 In that direct perception of another's idea does one obtain pain in another's pain, (or) pleasure— in another's pleasure-having this doubt he says *na ca tvāt[^272]*."raktam jānāti", i.e., the yogi (knows the idea of attachment but he does not know) the other's idea (as attached to such and such a support ). "para lambanam" (the support) may be of the form of pleasure or of the form of pain through which one is either happy or sad.
 
 [^272]: "The sūtra available reads na ca tat sālaṃbanam. . but the Vivaraṇa reading is na ca sālaṃbanam."
 
-****
+
 
 Objection—But then, if he does not know the support how will he know that he is attached to such and such ( an object).
 
-****
+
 
 Answer—He (yogī) knows in a general way that he (the other ) is attached to such 
 
@@ -2907,15 +2907,15 @@ and such (an object); but his support is not the special pleasure which is depen
 
 कायरूपसंयमात्तद्ग्राह्यशक्तिस्तम्भे चक्षुष्प्रकाशासंप्रयोगेऽन्तर्धानम् ॥२१॥
 
-****
+
 
 By practising samyama on the (outer) form of the body, when its power to be known (seen) is stopped (and), there being no contact with the light of the eye, there is disappearance (of the yogī's body).
 
-****
+
 
 **कायस्य रूपे संयमाद् रूपस्य या ग्राह्या शक्तिस्तां प्रतिबध्नाति। ग्राह्यशक्तिस्तम्भे सति चक्षुःप्रकाशासंप्रयोगेऽन्तर्धानमुत्पद्यते योगिनः। एतेन शब्दाद्यन्तर्धानमुक्तं वेदितव्यम् ॥२१॥**
 
-****
+
 
 By practising saṃyama on the (outer) form of the body there is stoppage of the power to be known (seen) of the body. When the power to be known (seen) is stopped, there is absence of contact with the light which carries it to the eye (of the observer). (Then) the disappearance of the yogī is effected. (Similarly), by this (example), the disappearance of sound &c., must be understood as explained.
 
@@ -2923,7 +2923,7 @@ By practising saṃyama on the (outer) form of the body there is stoppage of the
 
 कायरूपसंयमात् तद्ग्राह्यशक्तिस्तम्भे चक्षुः प्रकाशारराम्प्रयोगे अन्तर्धानम्। योगिन आत्मीयस्य कायस्य रूपं कायरूपम्। तस्मिन् रूपे संयमात् तस्य रूपस्य या परचक्षुर्ग्राह्या शक्तिः तां प्रतिबध्नाति निरुणद्धि।ततः परेषां चक्षुः प्रकाशो योगिकायरूपेण न सम्प्रयुज्यते।ततश्च अन्तर्धानम्।एतेन शब्दाद्यन्तर्धानमुक्तम्।योगिशब्दस्य या ग्राह्यशक्तिः तस्यां संयमे सति या शब्दस्य ग्राह्यशक्तिः सा प्रतिष्टभ्यते।तेन योगिशब्दं न परः शृणोति। तथा स्पर्शादिष्वपि द्रष्टव्यम् ॥२१॥
 
-******
+**
 
 *kāyarūpa-dhānam*. “kāyasya . . . māt", i.e., the form of the body of the yogīwhich belongs to himself is (kāyarūpam); when (saṃyama is practised on it) “rūpasya. badhnāti[^273]''' there is stoppage of that (power) of that form (being seen) by another's eyes. As a result the light of the eye of others is not connected with the body of the yogi. Consequently there is (disappearance). "etena . . . uktam", i.e., when samyama is practised on the power to be grasped which the sound of the yogi has, then that power to be grasped of sound is stopped. Due to that another cannot hear the sound (words) of the yogī. Similarly, one should understand (saṃyama practised on) touch, etc.
 
@@ -2931,7 +2931,7 @@ By practising saṃyama on the (outer) form of the body there is stoppage of the
 
 सोपक्रमं निरुपक्रमं च कर्म तत्संयमादपरान्तज्ञानमरिष्टेभ्यो वा ॥२२॥
 
-****
+
 
 Karma (deeds) is either fast in fruition or slow in fruition; by practising samyama on them or on portents (of death) there is knowledge of death.
 
@@ -2965,7 +2965,7 @@ Karma which has its existence in one life (and) which has caused the span of lif
 
 Similarly those (signs) pertaining to (other) living things are – (1) seeing the mes- sengers of Yama or (2) knowing (seeing ) unexpectedly one's dead ancestors. Similarly those (signs) pertaining to divine beings are (1) seeing unexpectedly the siddhas, etc., or (2) seeing everything contrary to what he has been seeing during his whole life. By these (signs) also (the yogi) knows that his death is close at hand.
 
-**** 
+ 
 
 सोपक्रमं निरुपक्रमं च कर्म तत्संयमादपरान्तज्ञानमरिष्टेभ्यो वा।आयुर्विपाकं कर्म द्विधा।कथम् ? त्वरितं निमित्तमादाय फलप्रदं सोपक्रमम् उच्यते।यत्तु मन्दप्रसरं चिरेण फलं दास्यति तत् निरुपक्रमम् ॥
 
@@ -3100,7 +3100,7 @@ Towards the sinful there is indifference which is not a continuous feeling. Ther
 
 **पापशीलेषु तु अस्य उपेक्षा, न तु भावना।ततश्च भावनाया अभावात् तस्याम् उपेक्षायां नास्ति समाधिरित्यतो न बलमुपेक्षातः।तत्र संयमाभावादिति ॥ २३ ॥**
 
-** ****
+** 
 
 *maitryādisu balāni. “*maitrī labhate[^287]". “bhāvanātaḥ" = (the samādhi) that arises by meditating on (feelings of) friendliness, etc., (that saṃyama) is the cause for steadiness in meditation on friendliness, etc. “tataḥ” = from samyama based on friendliness etc., “balā yante[^288]"(powers of unfailing energy arise).
 
@@ -3138,7 +3138,7 @@ By practising saṃyama on the strength of an elephant (the yogī) acquires the 
 
 बलेषु हस्तिबलादीनि। एतैर्मैत्र्यादिनिमित्तैलैर्बलवान् योगी हस्त्यादीन् बलेषु संयमं कृत्वा हस्त्यादिबलो भवति ॥२४॥
 
-** ****
+** 
 
 *baleṣu... dīni*. By these strengths caused by (meditation on) friendliness, etc., the strong yogī, practising samyama on the strength of an elephant and so on, acquires the strength of an elephant, etc.[^291] on friendliness and so on, is a precondition for these further saṃyamas. No other commentator seems to imply that.")
 
@@ -3162,7 +3162,7 @@ The luminous sense-activity of the mind has already been mentioned (I.36). When 
 
 प्रवृत्यालोकन्यासात् सूक्ष्मव्यवहितविप्रकृष्टज्ञानम्। या असौ जयोतिष्मती प्रवृत्तिरुक्ता, तस्यां प्रकाशः आलोकः तं प्रकाशं योगी सूक्ष्मे वा व्यवहिते वा विप्रकृष्टे वा अर्थे विन्यस्य स्थापयित्वा तमधिगच्छति ॥२५॥
 
-** ****
+** 
 
 *pravṛtyā. .jñānam. "jyotiṣ*... gacchati", i.e., that light (in the luminous sense activity has been mentioned); (when the yogi) “ālokaḥtam" = directs that light (to- wards the subtle or the veiled or the hidden object) ( he knows it).
 
@@ -5498,7 +5498,7 @@ be the cause for manifestation of the latent-impressions of a cat’s life—as 
 
  **निमित्तं च द्विविधम् — बाह्यमाध्यात्मिकं च। शरीरादिसाधनापेक्षं बाह्यं स्तुतिदानाभिवादनादि। चित्तमात्राधीनं श्रद्धाद्याध्यात्मिकम्। तथा चोक्तम् — ये चैते मैत्र्यादयो ध्यायिनां विहारास्ते बाह्यसाधननिरनुग्रहात्मानः प्रकृष्टं धर्ममभिनिर्वर्तयन्ति। तयोर्मानसं बलीयः। कथम्? ज्ञानवैराग्ये केनातिशय्येते? दण्डकारण्यं च चित्तबलव्यतिरेकेण कः शारीरेण कर्मणा शून्यं कर्तुमुत्सहेत? समुद्रमगस्त्यवद्वा पिबेत्?॥१०॥**
 
-**** And the efficient cause is of two kinds—external and that which pertains to the self (internal). External is that which depends on such instruments as the body &c., (for its accomplishment); these are praise, alms-giving, salutations &c. That pertaining to the soul (internal) is dependent only on the mind—these are faith &c. Thus it has been said—‘These actions which are effortless like friendliness &c., of the contemplative yogins are not in need of external means (instruments); they (also) bring into being superior dharma.’
+ And the efficient cause is of two kinds—external and that which pertains to the self (internal). External is that which depends on such instruments as the body &c., (for its accomplishment); these are praise, alms-giving, salutations &c. That pertaining to the soul (internal) is dependent only on the mind—these are faith &c. Thus it has been said—‘These actions which are effortless like friendliness &c., of the contemplative yogins are not in need of external means (instruments); they (also) bring into being superior dharma.’
 
   Of the two (means) the mental (internal) one is superior. How (is this so)? What can excel knowledge and detachment? Who can attempt to empty the ‘daṇḍaka’forest by bodily effort without the power of the mind; or (who can) drink the waters of the ocean like Agastya (without the power of the mind)?
 
@@ -6177,7 +6177,7 @@ rajas essence, depending on adharma; and that same object becomes the cause for 
 
  **एकचित्ततन्त्रं चेद्वस्तु स्यात्तदा चित्ते व्यग्रे निरुद्धे वाऽस्वरूपमेव तेनापरामृष्टमन्यस्याविषयीभूतमप्रमाणकमगृहीतमस्वभावकं केनचित्तदानीं किं तत्स्यात्? संबध्यमानं च पुनश्चित्तेन कुत उत्पद्येत? ये चास्यानुपस्थिता भागास्ते चास्य न स्युरेवं नास्ति पृष्ठमित्युदरमपि न गृह्येत। तस्मात्स्वतन्त्रोऽर्थः सर्वपुरुषसाधारणः, स्वतन्त्राणि च चित्तानि प्रतिपुरुषं प्रवर्तन्ते। तयोः संबन्धादुपलब्धिः पुरुषस्य भोग इति॥१६॥**
 
-**** If an object is dependent on a single mind then, if the mind is distracted or restrained, the object would not be touched by that mind; it is not in objective relationship with any other (mind); it would not be cognised, i.e., its nature would not be grasped by any (mind); at that time what (can be said) about its existence?
+ If an object is dependent on a single mind then, if the mind is distracted or restrained, the object would not be touched by that mind; it is not in objective relationship with any other (mind); it would not be cognised, i.e., its nature would not be grasped by any (mind); at that time what (can be said) about its existence?
 
 
 

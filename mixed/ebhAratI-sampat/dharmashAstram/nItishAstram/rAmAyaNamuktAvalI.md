@@ -325,7 +325,7 @@ The author of this little book is well-known to numerous audiences at Madras and
 
 ८०. यदन्नः पुरुषो भवति तदन्नास्तस्य देवताः।(102-30)
 
-****रामगीता****
+रामगीता
 
 ८१. नात्मनः कामकारोऽस्ति पुरुषोयमनीश्वरः।  
    इतश्चेतरतश्चैनं कृतान्तः परिकर्षति॥(105-15)
@@ -2026,7 +2026,7 @@ Mr. T. Srinivasa Raghavacharya of Chittoor delivered during the months of June a
 
 It has not been my good fortune to have had many opportunities of listening to Mr. T. Srinivasa Raghavacharya's discourses on Ramayana. But the few that I have had, have been enough to impress me that Mr. Srinivasa Raghavacharya possesses a**rare combination of knowledge and skill** in handling his subject, not often met with even amongst the professional exponents. **His method of exposition is specially attractive and impressive** and makes a strong appeal to modern minds. He has a **profounded knowledge of traditional interpretations,** but what is noteworthy is that he is able to bring to bear on his discourses a **freshness of outlook,** and an **attractiveness of manner rarely met with** even amongst the professional exponents. One wishes that there were many more of his type to interpret our ancient culture.  
 
-                           ****
+                           
 
 **K. S. KRISHNASWAMI IYENGAR.**
 

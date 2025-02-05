@@ -133,7 +133,7 @@ Kaivalya Pāda: Segregation Accomplished
 
 ***Index to *Verses*: Selected English Words ***
 
-******
+**
 
 ***Index to *Commentary* of Part 3 ***
 
@@ -1967,7 +1967,7 @@ as the force empowering the mento-emotional energy.
 
 
 
-******    Chapter 1**
+**    Chapter 1**
 
 **Samādhi Pāda:**
 
@@ -2833,7 +2833,7 @@ It is not false perceptions that are the problem but rather the vibrations in th
 
 **Imagination:**
 
-****The curbing of the imagination faculty is the key to a successful dhāraṇā practice. This dhāraṇā is the sixth stage of yoga, that of linking the attention to a higher concentration force. The process of willful non-operation of the vibrational capacity of the mento-emotional energy has to do with curbing the impulsive nature of the imagination faculty of the buddhi organ in the head of the subtle body. Hence the checking of the impulsive operation of this faculty is the key to mastery of the dhāraṇā practice.
+The curbing of the imagination faculty is the key to a successful dhāraṇā practice. This dhāraṇā is the sixth stage of yoga, that of linking the attention to a higher concentration force. The process of willful non-operation of the vibrational capacity of the mento-emotional energy has to do with curbing the impulsive nature of the imagination faculty of the buddhi organ in the head of the subtle body. Hence the checking of the impulsive operation of this faculty is the key to mastery of the dhāraṇā practice.
 
 Śrī Krishna told Arjuna that for those living entities who are embodied, this technique is hard to attain:
 
@@ -2853,7 +2853,7 @@ When the imagination faculty is fully curbed, it develops into the eye of consci
 
 **Sleep:**
 
-****The vibration of sleep cannot be eliminated altogether but its negative aspects may be curtailed by a yogin through mastery of prāṇāyāma and expertise in the dhāraṇā linkage of the attention to higher concentration forces. According to Śrīla Yogeshwarananda, sleep is a permanent
+The vibration of sleep cannot be eliminated altogether but its negative aspects may be curtailed by a yogin through mastery of prāṇāyāma and expertise in the dhāraṇā linkage of the attention to higher concentration forces. According to Śrīla Yogeshwarananda, sleep is a permanent
 
 
 
@@ -4920,7 +4920,7 @@ While initially the student yogi practices samyama, complete restrain under moti
 
 व्युत्थाननिरोधसंस्कारयोरभिभावप्रादुर्भावौनिरोधक्षणचित्तान्वयो निरोधपरिणामः**
 
-*vyutthāna****nirodha saṁskārayoḥ  
+*vyutthānanirodha saṁskārayoḥ  
 abhibhava prādurbhāvau nirodhakṣaṇa  
 cittānvayaḥ nirodhapariṇāmaḥ*
 
@@ -5740,7 +5740,7 @@ Most commentators give kāya as the physical body. However, in advanced yoga pra
 *grahaṇa svarūpa asmitā anvaya arthavattva  
 saṁyamāt indriyajayaḥ*
 
-grahaṇa – sensual grasping; svarūpa – own form; asmitā – identification; anvaya – connection, association; arthavatva – value, worth; saṁyamāt –From the continuous effortless linkage of the attention;****indriyajayaḥ – the mastery of the sensual energy by psychological control
+grahaṇa – sensual grasping; svarūpa – own form; asmitā – identification; anvaya – connection, association; arthavatva – value, worth; saṁyamāt –From the continuous effortless linkage of the attention;indriyajayaḥ – the mastery of the sensual energy by psychological control
 
 **From the continuous effortless linkage of the attention  
 to sensual grasping, to the form of the sensual energy,  
@@ -8579,7 +8579,7 @@ ya    ra    la     va
          **Aspirate**:     ह            
 śa    ṣa   sa                        
              ha                     
-                              ****
+                              
 
 Vowels:
 

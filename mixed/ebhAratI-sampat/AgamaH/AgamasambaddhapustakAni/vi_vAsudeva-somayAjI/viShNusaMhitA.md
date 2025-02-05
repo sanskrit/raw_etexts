@@ -935,7 +935,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc0MjcxMjQz
 
  **॥ इति विष्णुसंहितायां षष्ठः पटलः ॥**
 
-****
+
 
 
 

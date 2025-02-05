@@ -34,7 +34,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4MTYyMzg3OTg
 **ग्रन्थाङ्कः११९**
 
 
-**कालमाधवकारिकाः******
+**कालमाधवकारिकाः**
 
 [TABLE]
 

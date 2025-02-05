@@ -1117,7 +1117,7 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 
 
 
-**** अपि च
+ अपि च
 
 आपातमात्रसौन्दर्यं कुत्र नाम न विद्यते।  
 अत्यन्तप्रतिपस्या तु दुर्लभोऽलंकृतो जनः॥१५६॥
@@ -1142,7 +1142,7 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 **बुद्धिश्च द्वावेतौ धिङ्मतौ मम।  
 तनयेनातिपाण्डित्यात् पिता धूमेन मारितः॥१५८॥**
 
-**** दमनक आह। कथं चैतत्। करटकोऽब्रवीत्।
+ दमनक आह। कथं चैतत्। करटकोऽब्रवीत्।
 
 **अथ धर्मबुद्धिदुष्टबुद्धिकथा नाम त्रयोदशी कथा।**
 
@@ -1274,7 +1274,7 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 
 **॥**
 
-**** अपि च
+ अपि च
 
 **सत्यानृता चपरुषा**
 

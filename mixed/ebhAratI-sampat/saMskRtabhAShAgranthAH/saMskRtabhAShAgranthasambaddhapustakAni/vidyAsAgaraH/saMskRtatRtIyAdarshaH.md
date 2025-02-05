@@ -2353,22 +2353,22 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NzEzMzU3MzM
 **धूमः पयोधरपदं कथमप्यवाप्य  
   वर्षाम्बुभिः शमयति ज्वलनस्य तेजः।  
 दैवादवप्यकलुषप्रकृतिर्महत्वं  
-  प्रायः स्वबन्धुजनमेव तिरस्करोति॥****           १**
+  प्रायः स्वबन्धुजनमेव तिरस्करोति॥           १**
 
 **हंसोऽध्वगः श्रममपोहितुमश्रमेण  
   कारण्डकाकबककोककुलं प्रविष्टः।  
 मूकोऽयभित्युपहसन्ति लुनन्ति पक्षान्  
-  नीचाश्रयो हि महतामपमानहेतुः॥****             २**
+  नीचाश्रयो हि महतामपमानहेतुः॥             २**
 
 **आबद्धकृत्रिमसटाजटिलांसमित्ति-  
   रारोपितो मृगपतेः पदवीं यदि श्वा।  
 मत्तेभकुम्भतटपाटनलम्पटस्य  
-  नादं करिष्यति कथं हरिणाधिपस्य॥****           ३**
+  नादं करिष्यति कथं हरिणाधिपस्य॥           ३**
 
 **रात्रिर्गमिष्यति भविष्यति सुप्रभातं**  
-**  ****भास्वानुदेष्यति हसिष्यति पङ्कजश्रीः।  
+**  भास्वानुदेष्यति हसिष्यति पङ्कजश्रीः।  
 इत्थं विचिन्तयति कोशगते द्विरेफे**  
-**  ****हा हन्त हन्त नलिनीं गज उज्जहार॥           ५**
+**  हा हन्त हन्त नलिनीं गज उज्जहार॥           ५**
 
 **—————————**
 
@@ -2417,13 +2417,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NzEzMzU3MzM
 **कस्त्वं वानर? रामराजभवने लेखार्थ संवाहको  
   यातः कुत्र पुरागतः स धनुमान्निर्दग्धलङ्कापुरः?।  
 बद्धो राक्षससूनुनेति कपिभिः सन्ताडितो भर्त्सितः  
-  स व्रीडात्तपराभवो वनमृगः कुत्रेति न ज्ञायते॥****   **    
+  स व्रीडात्तपराभवो वनमृगः कुत्रेति न ज्ञायते॥   **    
  **२**
 
 **कस्त्वं भद्र? खलेश्वरोऽहमिह किं घोरे वने स्थीयते?  
   शार्दूलादिभिरत्र हिंस्रपशुभिः खाद्योऽहमित्याशया।  
 कस्मात् कष्टमिदं त्वया व्यवसितं? महेहमांसाशिनः  
-  प्रत्युत्पन्ननृमांसभक्षणधियस्ते घ्नन्तु सर्वानिति॥****      
+  प्रत्युत्पन्ननृमांसभक्षणधियस्ते घ्नन्तु सर्वानिति॥      
 ३**
 
 **विप्रास्मिन्नगरे महान् कथय कः? तालद्रुमाणां गणः  
@@ -2432,9 +2432,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NzEzMzU3MzM
   कस्माज्जीवसि? हे सखे ! विषकृमिन्यायेन जीवाम्यहम्॥**
 
 **या पाणिग्रहलालिता सुसरला तन्वी सुवंशोद्भवा**  
-**  ****गौरी चारुमुखी मदन्तिकचरी नित्यं मदाज्ञाकरी।  
+**  गौरी चारुमुखी मदन्तिकचरी नित्यं मदाज्ञाकरी।  
 सा केनापि हृता तथा विरहितः स्थातुं न शक्नोम्यहं**  
-**  ****भिक्षो ते दयिता हृता? नहि नहि प्राणप्रिया यष्टिका॥    
+**  भिक्षो ते दयिता हृता? नहि नहि प्राणप्रिया यष्टिका॥    
 ५**
 
 १) टिप्पणिः—(१) अयं सीतारावणसंवादः। तत्र प्रथमे त्रयः पादा रावणस्य, अन्तिमः पादः सीतायाश्च वचनम्।षष्ठाक्षरात् परं = सप्तममक्षरं, तस्य लोपेन पुनः पठने प्रथमं पादत्रयं रावणं प्रति सीतायाः प्रतिवचः सम्पद्यते।  
@@ -3040,7 +3040,7 @@ Participle **कर्मणि शानच्**
 **करेणु** *f* A female elephant  
 **प्रकृतिविरुद्ध** *a* Against one's nature  
 **मन्दभाग्य** *a* Unfortunate  
-**परित्रायस्व*****A* (You) protect, save
+**परित्रायस्व*A* (You) protect, save
 
 **Lesson 15**
 
@@ -3106,7 +3106,7 @@ Participle **कर्मणि शानच्**
 
 
 
-**उन्मनस्** *a*****Eager
+**उन्मनस्** *a*Eager
 
 **Lesson 17**
 
@@ -3206,7 +3206,7 @@ Participle **कर्मणि शानच्**
 **परिष्कृत्य** *in*. Having decently dressed  
 **बद्धाञ्जलि** *a* With hands folded together  
 **वैभव** *m* Grandeur, magnificence  
-**परिपाटी *f*****क्रम** *m* Succession, order  
+**परिपाटी *f*क्रम** *m* Succession, order  
 **त्रिपीडा** *f* (**त्रिविधा पीडा**)Three kinds of troubles  
 **पादपीठी** *f*A foot-stoo।  
 **समुपस्थिता** *a* *f* That has occured  
@@ -3271,7 +3271,7 @@ Participle **कर्मणि शानच्**
 **पञ्चषाङ्गुल** *a* Five or six inches  
 **पद्धति** *f* A line  
 **मृत्तिका***f* Earth, soi।   
-**मञ्जरी***f* ****A shoot, sprout  
+**मञ्जरी***f* A shoot, sprout  
 **लवित्र** *n* A sickle
 
 
@@ -3334,7 +3334,7 @@ Participle **कर्मणि शानच्**
 **प्राहिणोत्** *P.* Sent  
 **देवैकशरण***a m* Depending on god alone for protection  
 **शिलाकण्टकाकीर्ण ** *a* Filled with stones and thorns  
-**अजगर***m*****A huge serpent who is said to swallow goats  
+**अजगर***m*A huge serpent who is said to swallow goats  
 **न्यगीर्यत** *A*. Was devoured  
 **सोरस्ताडम् ** *in.* Beating the chest  
 **महासत्व** *a m* A great being  
@@ -3372,7 +3372,7 @@ Participle **कर्मणि शानच्**
 **आमर्त्यम्** *in*. Up to the mankind  
 **स्वीयप्रजा** *f* One's own subjects or children  
 **विवदमान** *a* Quarrelling, disagreeing  
-**सामरस्य***n*****Harmony  
+**सामरस्य***n*Harmony  
 **वैरस्य** *n* Hostility  
 **सोदरस्नेह***m*Brotherly affection  
 **प्रमाद्यत्** *pr a p* Neglecting  
@@ -3394,7 +3394,7 @@ Participle **कर्मणि शानच्**
 **छायावृक्ष** *m*. A large umbrageous tree  
 **आबालवृद्धम्** *in* Fron children to old men  
 **अपर्याप्त** *a* Insufficient  
-**प्रजाहितैषिन्*****a m* A well- wisher of his subjects  
+**प्रजाहितैषिन्*a m* A well- wisher of his subjects  
 **अनुकरणीय ** *a m* Worthy of being imitated  
 **अनुस्मरणीय** *a m* Worthy of being remembered.
 
@@ -3415,7 +3415,7 @@ Participle **कर्मणि शानच्**
 **प्रतिकृति** *f* An image  
 **सन्धान** *n* Fixing (an arrow to the bow-string)  
 **मोचन** *n* Discharging, Releasing  
-**संहरण***n*****Withdrawing  
+**संहरण***n*Withdrawing  
 **भषत्** *pr a p* Barking  
 **व्यादाय** *in.* Having opened  
 **अभ्यर्ण** *n* Vicinity  
@@ -3440,7 +3440,7 @@ Participle **कर्मणि शानच्**
 **राक्षसी** *a*Belonging to an evil spirit. demonica।  
 **दृप्त***a* Arrogant faf Source, origin  
 **निर्ऋति** *f* An evi।  
-**दुग्धे***A*****Yields, grants  
+**दुग्धे***A*Yields, grants  
 **विप्रकर्षति ** *P.* Drives away
 
 
@@ -3471,7 +3471,7 @@ Participle **कर्मणि शानच्**
 **रजतपीठपुर**—**उटुपी** (so called because, it is said, in olden days a king called Ramabhoja performed a sacrifice, being seated on seat made of silver)  
 **वैष्णव** *a m* A devoteeof Vishnu  
 **पुण्यक्षेत्र** *a m* A sacredplace  
-**जनि** *f* **** Birth  
+**जनि** *f*  Birth  
 **किस्त्वब्द** *m* Christian era  
 **आश्वयुजमास** *m* The month of Aswina (October-November)  
 **शुक्लपक्ष** *m* Bright bali of the lunar month  
@@ -3608,7 +3608,7 @@ Participle **कर्मणि शानच्**
 **गुण** *m* A bow-string and also merit  
 **दिगन्तर** *n* The distant extrimity  
 **विद्विष्***m* An enemy zenqqınfozaccatgam  
-**यशोदयामण्डितकान्तदेह** *a m*****He whose lovely body is adorned by Yasoda and also by reglory and **दया** = kindness  
+**यशोदयामण्डितकान्तदेह** *a m*He whose lovely body is adorned by Yasoda and also by reglory and **दया** = kindness  
 **गोपालजन ** *m* Cowherds and also princes  
 **गोमण्डल** *n* The multitude of cows and also kingdom  
 **बल** *m* Balarama and also (n) strength of force  
@@ -3662,7 +3662,7 @@ Participle **कर्मणि शानच्**
 **भवितव्यता ** *f* Destiny  
 **कौशल***n* Ski॥  
 **अमात्य** *m*A minister  
-**अनुज्जिहान्*******pr a p* Without departing from  
+**अनुज्जिहान्***pr a p* Without departing from  
 **छन्द***m* Wish, desire  
 **सर्वकलाशाला** *f* University  
 **प्राथमिकविद्याभ्यास** *m* Elementary education  
@@ -3738,7 +3738,7 @@ Participle **कर्मणि शानच्**
 **चित्रलेखन** *n* Painting  
 **शिल्पकला** *f* A mechanical art Her a Soft, smooth  
 **अंशुक** *n* A garment  
-**लोकयात्रा*****f* The course of worldly life  
+**लोकयात्रा*f* The course of worldly life  
 **खण्डान्तर** *n* Another continent  
 **अतिशेते** *A.* Excels  
 **पुराकल्प** *m*Olden days  
@@ -3822,7 +3822,7 @@ Participle **कर्मणि शानच्**
 **पदवी** *f* Rank, position  
 **मत्तेभ** m An elephant in rut  
 **कुम्भ** *m* The frontal globe on the fore-head of an elephant  
-**पाटन** *n*****Splitting.  
+**पाटन** *n*Splitting.  
 **लम्पट***a*Hankering after  
 **नाद** *m* A loud roar  
 **हरिणाधिप** *m* **मृगाधिप**A lion  

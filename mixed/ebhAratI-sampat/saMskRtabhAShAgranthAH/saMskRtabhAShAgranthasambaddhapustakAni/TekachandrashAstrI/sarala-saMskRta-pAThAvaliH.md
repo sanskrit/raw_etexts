@@ -3757,7 +3757,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExNjYxODc2MzU
 
 ** चन्द्र-शुभ्रम् —** चन्द्रमा के समान सफेद
 
-** ****कर्पूर-पटक-रजक-कथा**
+** कर्पूर-पटक-रजक-कथा**
 
 ** अहर्निशम् —** दिन-रात
 
@@ -4379,7 +4379,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExNjYxODc2MzU
 
 **सीता परित्यागः**
 
-** अ****वतरतु—**आइये
+** अवतरतु—**आइये
 
 ** लोक–परिवाद–भयाकुलेन—** लोगो द्वारा की जानेवाली निन्दा के भय से व्याकुल हुए ने
 

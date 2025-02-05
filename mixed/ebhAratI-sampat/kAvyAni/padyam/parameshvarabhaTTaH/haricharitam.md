@@ -38,7 +38,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1NjU5NjMwODk
 
 **PREFACE**
 
-THIS edition of ***Haricarita*** is based on a single manuscript of the work in the Adyar Library; it now bears the Shelf No. 21-P-26. It was entered under ***Jyotiṣa***in the Catalogue of the Library, Part II, P. 56*b*with the Shelf No. 40-B-26, and bears the title **ज्योतिषसूत्रश्लोकाः**. When Pandit V. Krishnamachari was examining the manuscripts of the Library for preparing the Alphabetical Index of the Manuscripts, published already as No. 45 in 1944, this manuscript was identified as a ***Kā****vya,*** and was there entered with the correct title on p. 152 as No. 7461.
+THIS edition of ***Haricarita*** is based on a single manuscript of the work in the Adyar Library; it now bears the Shelf No. 21-P-26. It was entered under ***Jyotiṣa***in the Catalogue of the Library, Part II, P. 56*b*with the Shelf No. 40-B-26, and bears the title **ज्योतिषसूत्रश्लोकाः**. When Pandit V. Krishnamachari was examining the manuscripts of the Library for preparing the Alphabetical Index of the Manuscripts, published already as No. 45 in 1944, this manuscript was identified as a ***Kāvya,*** and was there entered with the correct title on p. 152 as No. 7461.
 
  When I had the occasion to examine the manuscript of ***Sumanoramaṇī***, a commentary on the ***Meghasandeśa***, it was discovered that the author of that commentary, Parameśvara of Payyūr, was the author of a work with this title. So Pandit Krishnamachari undertook to prepare an edition of the work which, having regard to the importance of the author, I felt should be made available to scholars. I suggested to him that he may add a very brief commentary in Sanskrit on the poem. Now it appears in that form. The text is being published serially in the Adyar Library Bulletin from May 1947 (Vol. XI, part 2). It is
 
@@ -76,7 +76,7 @@ and then the letters **न**to **प्र**for the numbers 1 to 8 being given b
 
 
 
-day after day. I knew them when I was a little boy, studying the rudiments of astronomy along with my other preliminary studies in the field of Sanskrit according to the traditions of my Royal Family. I am giving at the end the list of the ***Vākyas*** exactly as they are now being used in Malabar. Whatever the differences, their numerical values are not altered. So I presume that the author took the liberty only to adapt the ***Vākyas*** for the poem. The ***Vākyas*** give three numbers, namely, the ***Rāśi,*** the ***Tithi*** (30th part of a ***Rāśi***) and the ***Aṁ******ś******a*** (60th part of a ***Tithi***, called***Ili*** in Malabar). The ***Vākyas*** must be read from right to left, in noting the corresponding numbers. Thus the first two syllables note the ***Ili***, which is the last (in the extreme right) in the numbers. The next two indicate the ***Tithi***; the rest, if any, indicate the***Rāśi***. Even in these, the first letter shows the unit. place and the next the place of tens. I have given the numerical values of the ***Vākyas*** in the list that is appended.
+day after day. I knew them when I was a little boy, studying the rudiments of astronomy along with my other preliminary studies in the field of Sanskrit according to the traditions of my Royal Family. I am giving at the end the list of the ***Vākyas*** exactly as they are now being used in Malabar. Whatever the differences, their numerical values are not altered. So I presume that the author took the liberty only to adapt the ***Vākyas*** for the poem. The ***Vākyas*** give three numbers, namely, the ***Rāśi,*** the ***Tithi*** (30th part of a ***Rāśi***) and the ***Aṁ**ś**a*** (60th part of a ***Tithi***, called***Ili*** in Malabar). The ***Vākyas*** must be read from right to left, in noting the corresponding numbers. Thus the first two syllables note the ***Ili***, which is the last (in the extreme right) in the numbers. The next two indicate the ***Tithi***; the rest, if any, indicate the***Rāśi***. Even in these, the first letter shows the unit. place and the next the place of tens. I have given the numerical values of the ***Vākyas*** in the list that is appended.
 
  When the particular ***Vākya*** for a specific day has to be ascertained, the usual method is that the***Vākya*** number for the first day of each month is given in the Malabar Almanacs, and we add the number of days that have expired, to get at the ***Vākya*** for that day. The ***Vākya*** number is generally given in the form of the local notation which follows the decimal system. So we can easily get at the day's ***Vākya*** by eliminating the hundreds and tens and then counting the units that remain. For this, we must know the
 
@@ -84,7 +84,7 @@ day after day. I knew them when I was a little boy, studying the rudiments of as
 
 ***Vākyas*** in groups of ten. I have given the beginning of the first ***V**ā**kyas*** in such grouping, which is also taught to students in Malabar. There I have added the first and the last ***V**ā**kyas***, though they are not taught. We start with the eleventh and end with the 241st. Since there is difference in the numberings of the verses and of the***V**ā**kyas*** on account of the fact that there are five ***V**ā**kyas*** for which there are two verses corresponding to each, thus bringing the total number of verses to 253 for the 248 ***V**ā**kyas***, I have given the corresponding verse number for the***V**ā**kyas*** in this second list, noting where and what the difference is.
 
- It would be noted that the first 245 ***V**ā**kyas***comprise nine rounds of the twelve ***Rā******ś******is***. I have also added a list in which the ***V**ā**kya***number where each round ends is indicated. This is not of any particular use. But I give it for ready reference for those who like to know.
+ It would be noted that the first 245 ***V**ā**kyas***comprise nine rounds of the twelve ***Rā**ś**is***. I have also added a list in which the ***V**ā**kya***number where each round ends is indicated. This is not of any particular use. But I give it for ready reference for those who like to know.
 
  Much is now known about the author and his family, that have become famous among modern research scholars in recent times. The following are the places where there is information about the Payyūr Bhaṭṭa family and the various members who have contributed to Mīmāṁsā and Poetry in Sanskrit :
 
@@ -115,7 +115,7 @@ and the variety of metres is something that is really striking.
  The poem is, naturally, a very artificial one and Pandit Krishnamachari must have had a really trying time to reconstruct the text and prepare a Sanskrit commentary, having only a single manuscript at his command. But he has done his work with admirable ability. Pandit K. Ramachandra Sarma of the staff of the Adyar Library helped him in preparing the edition and in passing it through the Press. The Vasanta Press has also done the work with their usual mastery of the technique in printing in all its aspects. I hereby express my hearty thanks for all of them on behalf of the Library.
 
 ***Adyar Library                           
-                     *****C. KUNHAN RAJA**
+                     *C. KUNHAN RAJA**
 
 20th February, 1948.
 
@@ -160,7 +160,7 @@ This had a very close similarity with the colophon in the***Svaditaṅkaraṇī*
 **२.श्रीमच्छङ्करपूज्यस्य शिष्येण ........।  
 ..........तेनेयं व्याक्रिया कृता ॥**
 
-From this similarity I conjectured that Parameśvara, the author of the ***Sumanoramaṇī***, must be the same as the author of the ***Svaditaṅ****karaṇī***, and, as such, of the ***Juṣadhvaṅkaraṇī*** also.
+From this similarity I conjectured that Parameśvara, the author of the ***Sumanoramaṇī***, must be the same as the author of the ***Svaditaṅkaraṇī***, and, as such, of the ***Juṣadhvaṅkaraṇī*** also.
 
  It was when I got the other manuscripts in my Malabar tour that I found that the concluding verses were quite different there. There I found the following verses :
 
@@ -177,7 +177,7 @@ From this similarity I conjectured that Parameśvara, the author of the ***Suman
 **लब्धभवदासभावा भगवति भक्त्याख्यया च भवदासः ।  
 वादी वेदान्तरतो यस्य पितृव्यः स एष कर्तास्याः ॥**
 
-Thus it was found that there was a specific entry about the author of the ***Sumanoramaṇī*** being identical with the author of the ***Svaditaṅkaraṇī***, the commentary on the ***Nyāyaka******ṇ******ikā.***Besides the mention that the ***Haricarita*** was a brother of the***Sumanoramaṇī***, there was also a mention of ***Mīmāṁsā*** works, being the commentary on a work called the ***Nyāyasamuccaya***and commentary on the ***Kaṇikā***, which is certainly the***Nyāyakanikā***. And this latter must be the ***Svaditaṅkaraṇī***. Both the ***Nyāyasamuccaya*** and its commentary have yet to be discovered.
+Thus it was found that there was a specific entry about the author of the ***Sumanoramaṇī*** being identical with the author of the ***Svaditaṅkaraṇī***, the commentary on the ***Nyāyaka**ṇ**ikā.***Besides the mention that the ***Haricarita*** was a brother of the***Sumanoramaṇī***, there was also a mention of ***Mīmāṁsā*** works, being the commentary on a work called the ***Nyāyasamuccaya***and commentary on the ***Kaṇikā***, which is certainly the***Nyāyakanikā***. And this latter must be the ***Svaditaṅkaraṇī***. Both the ***Nyāyasamuccaya*** and its commentary have yet to be discovered.
 
  I would have edited the ***Sumanoramaṇī*** myself; but I was informed that the edition had already been undertaken from Trivandrum. So I returned both the manuscripts I had collected from Malabar to the owners. In an article which I published in the Journal of Oriental Research, Madras, in September, 1945, I mentioned that the author of ***Haricarita***is Parameśvara. After I wrote that article, Pandit Krishnachari of the Adyar Library brought to my notice the manuscript of the ***Haricarita***, which had been identified during his examination of the manuscripts. I requested him to prepare an edition with a brief Sanskrit commentary; and the result is the present edition.
 
@@ -253,7 +253,7 @@ At the end of every ***sarga*** there is the colophon **इति श्री�
 
 ***sumanoramaṇī*** with this limitation. In the ***Sumanoramaṇī*** also there is no reference to Gopālikā. But its relation to the Payyūr family is determind by its relation to the commentary on ***Nyāyakaṇikā.***
 
-*** ***Thus we have the following evidence at our disposal for fixing the authorship of the work. The names of the works are identical. In verse 4, there is a veiled hint of Parameśvara as the author of the work. Some member of Parameśvara'sfamily has written two works on the same model, taking the ***Vākyās*** as the beginning of the verses in the works. From these evidences, I conclude that the ***Haricarita***mentioned in the ***Sumanorama******ṇ******ī*** is the ***Haricarita*** now being issued.
+*** ***Thus we have the following evidence at our disposal for fixing the authorship of the work. The names of the works are identical. In verse 4, there is a veiled hint of Parameśvara as the author of the work. Some member of Parameśvara'sfamily has written two works on the same model, taking the ***Vākyās*** as the beginning of the verses in the works. From these evidences, I conclude that the ***Haricarita***mentioned in the ***Sumanorama**ṇ**ī*** is the ***Haricarita*** now being issued.
 
  The Payyūr Bhaṭṭas have their home now at a place called Porkalam, about 16 miles to the North West of Trichur in the Cochin State, Malabar. Uddaṇḍa speaks of the Bhaṭṭas of Payyūr both in his ***Kokilasandeśa*** and in his ***Mallikāmāruta***, in very high terms and in the former, he definitely mentions the village as Porkalam (*Raṇakhala*). Por in Malayalam means battle.
 
@@ -479,7 +479,7 @@ first line into **तदा**. The ***Pratīka*** in the commentary notes the wo
 
 THE Manuscript variants are given separately, and not as foot-notes at the bottom of the respective pages, as I have been doing in the case of many of the previous publications. Opinion has been expressed about this practice, in reviews of my publications, that it would be more convenient for readers to compare the variant readings with the text if the former are given as foot-notes below the pages. But I adopt the same practice even here for two reasons. There are many people who do not want such information. They want only a readable text. For those who can, and who want to, make use of the information, it is not a great difficulty to make the comparison when the materials are given in separate pages, with proper numberings for reference. Further, the plan that I adopt has this advantage that it gives the entire material in a single place, and, as such, any of the manuscript peculiarities can easily be traced from such a collected presentation.
 
- **1.** Begins : **हरिः श्रीगणपतये नमः।****अविघ्नमस्तु ।****गीर्नः श्रेयः परं** etc.
+ **1.** Begins : **हरिः श्रीगणपतये नमः।अविघ्नमस्तु ।गीर्नः श्रेयः परं** etc.
 
  **7.** *a* **गृह्यासुराराज्ञानस्य** *b*Folio 1*a* ends **ञ्जसाज.**
 
@@ -645,9 +645,9 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 ** 123.** *a***ताराङ्गं**. There is blank space for two letters between **त** and its **आ**mark.
 
- **124.** *a***प्रियार्थः** *b*******मधुराक्षरः***c* Folio 9*b*. ends with **स्त्रीण**. The **आं**is in next folio. The verse is marked 134.
+ **124.** *a***प्रियार्थः** *b***मधुराक्षरः***c* Folio 9*b*. ends with **स्त्रीण**. The **आं**is in next folio. The verse is marked 134.
 
-** 125.** *a* **शेते निशिक्वचि**. Then **निशि** deleted with horizontal strokes above. *c*******विष्णुं श्रुतायां**. Verse marked 135. This mistake continues.
+** 125.** *a* **शेते निशिक्वचि**. Then **निशि** deleted with horizontal strokes above. *c***विष्णुं श्रुतायां**. Verse marked 135. This mistake continues.
 
  **126.** *b* **मगमन् गोपिकाजने** *d* **स्वयमूर्तिभिः** Then **ई** mark added in **स्व** later, not inked
 
@@ -749,7 +749,7 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **188.** *b***सिन्धुरैत्तमः**. Then the first of the two **ए** marks deleted with a horizontal stroke above and **आ**mark added between **र**and **त्त** below line; not inked; it thus becomes **रो**. Folio 14*b*ends here. *d* There is no number at the end of the verse from this verse on wards.
 
-** 189.** *a* **ह्रदवन्तस्मिन्** *b*******हस्तिपं** *d* **हरिणा चोदयन् गजम्.**
+** 189.** *a* **ह्रदवन्तस्मिन्** *b***हस्तिपं** *d* **हरिणा चोदयन् गजम्.**
 
 ** 190.** *b***जनाः**. Then **आ**mark deleted with a horizontal stroke above. c **भुङ्क्त्वा**. Then **उ** mark in **भु**scored.*d* **विहरच्चिरम्**.Then **इ**markof **वि**scoredand **य**marked added to **व**.
 
@@ -1725,7 +1725,7 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **प्रियार्थंकविना कृष्णेनागायि मधुराक्षरम्।  
 गुम्भस्तम्भहरस्त्रीणां समालोक्य शरन्निशाम् ॥ १२४ ॥**
 
- **प्रियार्थं कविनेति**। **कविना** मनीषिणा सर्वज्ञेन श्रीकृष्णेन शरन्निशां****सुधाकरकरधवलितां कामोद्दीपनीं निशां समालोक्य गुम्भस्तम्भहरस्त्रीणां****गुम्भनार्थं नवनीतस्यैकीकरणार्थं, मन्थनार्थमिति यावत्, यःस्तम्भःमन्थदण्डः, तद्धारिणीनां स्त्रीणां, गोपस्त्रीणामित्यर्थः। प्रीत्यर्थं प्रीतिमुत्पादयितुं मधुराक्षरं यथा तथा अगायि गानं कृतम्। **१२४**
+ **प्रियार्थं कविनेति**। **कविना** मनीषिणा सर्वज्ञेन श्रीकृष्णेन शरन्निशांसुधाकरकरधवलितां कामोद्दीपनीं निशां समालोक्य गुम्भस्तम्भहरस्त्रीणांगुम्भनार्थं नवनीतस्यैकीकरणार्थं, मन्थनार्थमिति यावत्, यःस्तम्भःमन्थदण्डः, तद्धारिणीनां स्त्रीणां, गोपस्त्रीणामित्यर्थः। प्रीत्यर्थं प्रीतिमुत्पादयितुं मधुराक्षरं यथा तथा अगायि गानं कृतम्। **१२४**
 
 **पापोऽयं निशि नित्यशो निजगृहे शेते क्वचिद्वञ्चयन्  
 यो मां मारहतामसौ विधिवशादास्ते वनेऽस्यां निशि।**
@@ -2078,7 +2078,7 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **धवः कारवरूपाद्यैर्धन्ये त्वन्यां न यातु ते।  
 इति कुब्जां व्यधादृज्वीमथैष पथि संचरन् ॥ १८० ॥**
 
- **धवः कारवेति**। अनेन कुब्जावृत्तान्तमाह। हे धन्ये, ते धवः पतिः ते कारवरूपाद्यैः ; "कारवः काकः" इति त्रिकाण्डशेषः। तस्येव यानि रूपादीनि, तैः। अन्यां कान्तां न यातु। तव विकृतानि रूपादीनि दृष्ट्वा त्वयि अप्रीत्या अन्यां स्त्रियं तव भर्ता न यात्वित्यर्थः। इति उक्त्वा पथि संचरन् एषः****श्रीकृष्णःकुब्जां भुग्नाकृतिं कंसस्य गन्धानुपनयन्तीं कांचित् सैरन्ध्रीम् ऋज्वीं व्यधात्। **१८०**
+ **धवः कारवेति**। अनेन कुब्जावृत्तान्तमाह। हे धन्ये, ते धवः पतिः ते कारवरूपाद्यैः ; "कारवः काकः" इति त्रिकाण्डशेषः। तस्येव यानि रूपादीनि, तैः। अन्यां कान्तां न यातु। तव विकृतानि रूपादीनि दृष्ट्वा त्वयि अप्रीत्या अन्यां स्त्रियं तव भर्ता न यात्वित्यर्थः। इति उक्त्वा पथि संचरन् एषःश्रीकृष्णःकुब्जां भुग्नाकृतिं कंसस्य गन्धानुपनयन्तीं कांचित् सैरन्ध्रीम् ऋज्वीं व्यधात्। **१८०**
 
 **क्षोभः शनैः शनैः स्मारस्तस्याः कृष्णाङ्गसङ्गजः।  
 तया तं वारयामास मा गा इति नृपाध्वनि ॥ १८१॥**

@@ -988,7 +988,7 @@ whose nature is Consciousness, subordinate to Him, and by Him ever sent forth am
 
 [^54]: "Commentary on Devî Bhâg. VI. xv. 47, 48."
 
-****"The inward-facing Shakti is Vidyâ."
+"The inward-facing Shakti is Vidyâ."
 
  Then he realises the mighty power of Mâyâ, Her divine nature, and Her identity with the Supreme, and hymns Íshvara and Mâyâ as One:
 
@@ -3546,7 +3546,7 @@ tion with nature, which works not so much for the exaltation of individuals as f
 
 ** 1. ब्रह्मयज्ञः**
 
-****Brahmayajñah, called also **वेदयज्ञः**, Vedayajñaḥ, Sacrifice to Brahman or the Vedas.
+Brahmayajñah, called also **वेदयज्ञः**, Vedayajñaḥ, Sacrifice to Brahman or the Vedas.
 
 ** 2. देवयज्ञः**Devayajñaḥ, Sacrifice to Devas.
 
@@ -4924,7 +4924,7 @@ sacrifices. All beings are dependent on one another, and they are all dependent 
 
 **यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबंधनः।  
 तदर्थं कर्म कौंतेय मुक्तसंगः समाचर॥[^135]**
-****
+
 
 [^135]: "Bhagavad Gîtâ, iii. 9"
 
@@ -5280,7 +5280,7 @@ In briefer form:
 
 
 
- The essential importance of Truth has already been dwelt upon. As a general virtue it appears as *Truthfulness,* *Honesty, Integrity, Uprightness.* Its utter indispensability is concentrated by the wisdom and experience of ages into short sayings, such as: "Honesty is the best policy," "**सत्यमेव जयते मानृतं**"****"Truth alone prevails, not falsehood."
+ The essential importance of Truth has already been dwelt upon. As a general virtue it appears as *Truthfulness,* *Honesty, Integrity, Uprightness.* Its utter indispensability is concentrated by the wisdom and experience of ages into short sayings, such as: "Honesty is the best policy," "**सत्यमेव जयते मानृतं**""Truth alone prevails, not falsehood."
 
  The virtue of *Self-control*, or *Self-restraint*, mentioned in each of the above quotations, is the general reining-in of all the energies of the mind, desire-nature, and physical body, the holding of them all in due submission, so that each is allowed or refused exercise at the will of the man. It implies that the man is conscious of the difference between himself and his lower upâdhis, and no more indentifies himself with his lower nature than a rider identifies himself with the horse on which he is sitting. The contrast between an uncontrolled man and a self-controlled man is very much like the contrast between a bad rider on an unbroken horse, and a good rider on a well-broken horse. In the first case, the horse rushes about, carrying his helpless rider, plunges violently, and gives his rider a bad fall; in the other case, the man sits easily, guiding the docile steed in any direction, galloping or standing still, leaping or walking, every motion of the rider obeyed by the horse.
 

@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkxNzY1MzU2
 
 **स्वयम्भूधर्मधातुसमुत्पत्तिः**
 
-****
+
 
 **१.निदानकथा**
 

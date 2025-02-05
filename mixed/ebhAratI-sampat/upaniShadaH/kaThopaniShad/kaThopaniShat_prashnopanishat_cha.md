@@ -731,7 +731,7 @@ Here ends the first section and the third part.
 
 
 
-**THE KATHÔPANISHAD****.**  
+**THE KATHÔPANISHAD.**  
 ![](../books_images/U-IMG-173044296314.png)
 
 **PART IV.**  
@@ -1068,7 +1068,7 @@ and Wind; and Death, the fifth, runs ; for, if *Brahman* did not exist as contro
 
 class with the senses, they are included in the word *Indriya*. The rest as previously explained. The word *satva* here denotes 'intellect.'
 
-**अ****व्यक्तात्तु परः पुरुषो व्यापकोऽलिङ्ग एव च।**  
+**अव्यक्तात्तु परः पुरुषो व्यापकोऽलिङ्ग एव च।**  
 **यं ज्ञात्वा मुच्यते जन्तुरमृतत्वं च गच्छति॥८॥**
 
  Beyond the *Avyaktam* is *Purusha,* all-pervading and devoid of *linga* (indicative mark), whom knowing the mortal is freed and attains immortality. (8)
@@ -1607,7 +1607,7 @@ Here ends the Third *Prasna.*
 
 
 
-** THE PRAṢNÔ****PANISHAD**
+** THE PRAṢNÔPANISHAD**
 
 **![](../books_images/U-IMG-1731424182Screenshot2024-11-11190800.png)**
 
@@ -1761,7 +1761,7 @@ Here ends the Fourth *Prâṣna*.
 combines in him truth, abstinence from sexual pleasures, abstinence from cruelty, absence of acceptance, renunciation, *sanyâsam,* cleanliness, cheerfulness, absence of fraud and many other kinds of forbearance and religious observance. What world, for there are many worlds to be won by worship and *karma*, does he attain by thus meditating on ‘Om.' To him who had thus questioned, he, *Pippalâda* replied.
 
 **एतद्वै सत्यकाम परं चापरं च ब्रह्म यदोंकारः।  
-तस्माद्विद्वानेतेनैवायत****नेनैकतरमन्वेति॥२॥**
+तस्माद्विद्वानेतेनैवायतनेनैकतरमन्वेति॥२॥**
 
  The syllable *'*Om' is verily the higher and lower *Brahman.* Therefore, the knower, by this means, surely reaches either of them.(2)
 

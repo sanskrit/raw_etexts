@@ -72,7 +72,7 @@ THE awakening in our country has a much wider significancethan most people, with
                                  
 
 **MYLAPORE                              
-     ****T. R. VENKATARAMA SASTRI**  
+     T. R. VENKATARAMA SASTRI**  
 ***28th March, 1932***
 
 
@@ -110,9 +110,9 @@ B.**रिवर्जितो मालवश्रीः सांशः स�
   It only remains for me to say that, on February 1, 1931, Idelivered the subject-matter of *Svaramêlakalânidhi* as a Lectureunder the auspices of the Annamalai University which, I feelthankful to state, was good enough to give her *imprimatur* to itspublication in the present form.
 
 **'BAI BHAVAN'  
-TRIPLICANE,                   *****       
+TRIPLICANE,                   *       
       *M. S. RAMASWAMI AIYAR**  
-***1st March, 1932.                 ******   ***
+***1st March, 1932.                 **   ***
 
 
 
@@ -222,9 +222,9 @@ The colophon¹, at its end, clearly shows that Râmâmâtya finishedhis work in 
 
 ***Svaramêlakalânidhi.***
 
-**2 Vide L. D. Swamikannu Pillai's *Indian Ephemeris,* Vol. V.,****page 303.**
+**2 Vide L. D. Swamikannu Pillai's *Indian Ephemeris,* Vol. V.,page 303.**
 
-**3****संगीतशास्त्रे बहुधा विरोधाः सन्त्येव लक्ष्येषु च लक्षणेषु ।**  
+**3संगीतशास्त्रे बहुधा विरोधाः सन्त्येव लक्ष्येषु च लक्षणेषु ।**  
 **सर्वं समीकृत्य स राममन्त्री तनोतु शास्त्रं वचसा तवेति॥**
 
 ***Svaramêlakalânidhi.***
@@ -375,7 +375,7 @@ Nagmut-es-Asphi, Sangithakalpadruma*, and *Lakshyasangith—*all these works cam
 
     कैशिके काकलीत्वेच निषादस्त्रिचतुःश्रुतिः।  
     प्राप्नोति विकृतौभेदौद्वाविति द्वादश स्मृताः॥**  
-*                      **Sangitharatnâkara*****.**
+*                      **Sangitharatnâkara*.**
 
   On the other hand, Râmâmâtya worked up his seven *Vikritha*-svaras thus :–  
   'How is it that only seven *Vikritha*-svaras are given here, while Shârngadêv mentioned, in his *Ratnâkara*, so many astwelve ? It is true that, from the theoretical point of view, thenumber twelve may be desirable. But, *in actual practice*, that is,*according to the principle of Lakshya*, there are only seven *Vikritha*-svaras different from the seven *Sudha*-svaras. Ifthe basic notes are left out, there does arise a difference insound, as regards the remaining five Vikritha-svaras. But if they(the basic notes) are retained, the said difference disappears inpractice, though not in theory, by the process of taking thepreceding-but not the next preceding-srutis. I shall tell youhow. *Achyutha-Shadja* does not differ from *Sudha-Shadja*;nor does *Achyutha-Madhyama* differ from *Sudha-Madhyama.* Again, *Vikritha-Rishabha* does not differ from *Sudha-Rishabha*;nor does *Vikritha-Dhaivatha* differ from *Sudha-Dhaivatha*.Further again, *Vikritha-Panchamà* which is taken from *Madhyama-Sruti* does not surely differ from the other *Vikritha- Panchama*. Hence under the category of the above-mentionedfourteen (*Sudha-Vikritha*) svaras, no separate mention was madeof these five svaras, inasmuch as they had effected a merger,as indicated above. We shall enunciate the seven *Vikritha*-svarasby mentioning their names :–
@@ -446,7 +446,7 @@ Nagmut-es-Asphi, Sangithakalpadruma*, and *Lakshyasangith—*all these works cam
 **निषादः शुद्धषड्जस्य क्रमते चेच्छ्रुतिद्वयम्।  
 स काकलीनिषादः स्यादेवं सप्तापि लक्षिताः॥**  
 *                         
-****Svaramêlakalânidhi.***
+Svaramêlakalânidhi.***
 
   The fourth column of Fig. 4, namely, ‘Râmâmâtya's special Nomenclature' was drawn with the help of the following verses in the text :—
 

@@ -26,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM2MjAyOTAxODY
 
 मणिप्रभाव्याख्यासमलङ्कृता ।
 
-****
+
 
 येन व्याप्तमिदं सर्वं जगत्स्थावरजङ्गमम् ।
 

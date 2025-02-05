@@ -1474,7 +1474,7 @@ Sasushumnagragayor api yunjyājjāgradādithih pavanam.
 
 **CHAPTER XX.**
 
-****
+
 
 Deals with the meaning of the eight-letter Mantra of Nārāyaṇa "Om namah Nārāyaṇāya. The meaning is that Tāra (Om) arises from Shakti and means So'ham ("I am He") Na and Mah are negatives. Nā is water, Rā is fire, Ya is air, Na is earth; and the last Ya is there as a caseending^(**3**) The Rishi of the Mantra is Sādhyanārāyana, the metre is Gayatri and the Devatā is Paramātmā. Verse 7 gives the Dhyāna of Mukunda[^153] In the Sādhana of this Mantra the body of the Sādhaka is the Pitha. V. 12 says that when Nyāsa is done with the letters of this Mantra then the Mantrin becomes the object of his own worship for he is personally composed of the letters of the Mantra.
 
@@ -1504,7 +1504,7 @@ Deals with the meaning of the eight-letter Mantra of Nārāyaṇa "Om namah Nār
 
 **CHAPTER XXI**
 
-****
+
 
 Treats of the twelve Yantras or diagrams of the twelve Rāshis (signs of the Zodiac)^(**1**).
 
@@ -1769,7 +1769,7 @@ Which is freedom from birth and death.
 
 **CHAPTER XXII**
 
-****
+
 
 Gives the twelve-lettered Mantra[^185] of Vishnu; and three kinds of Nyāsa are prescribed with the letters of this Mantra: viz,—Saṁhāranyāsa in which Nyāsa begins from the feet and proceeds upwards to the knees, limga, navel, belly, heart, hands, throat, mouth, eyes, head and the crown lock (Shikhā)^(**1**), Srishtinyāsa in which the rite begins with the Shikhā in the reverse way; and lastly, Sthitinyāsa in which the Nyāsa commences in the middle with the heart, goes down to the feet and then from the hand goes to the Shikhā. The first is for the destruction of all Dosha (fault); Srishti is for the creation or production of good; and the object of Sthiti is to gain peace (Shānti).
 
@@ -1779,13 +1779,13 @@ Gives the twelve-lettered Mantra[^185] of Vishnu; and three kinds of Nyāsa are 
 
 **CHAPTER XXIII.**
 
-****
+
 
 Gives several Mantras including that of Vishnu as "The Charmer of the whole Universe" (Trailokyamohana). A remarkable meditation on Him is given in terms of sensuous splendour at vv. 37-49 and which is as follows—
 
 **MEDITATION ON VISHNU.**
 
-****
+
 
 Think of a beautiful garden of Kalpa trees fragrant with the scent of flowers and musical with the humming of big bees. Therein meditate upon Ramāpati[^186], seated on Garuda[^187].") who is on a red lotus. The husband of Shrī[^96] is the colour of a full blown red hibiscus flower and shines with the radiance of ten million rising suns. He is in the full flush of beauteous youth shedding the nectar of His sweet scented presence and lovely form. Kind is He to all. He holds a conch shell, bow, club (Mushala), noose (Pāsha), discus (Chakra), sword, mace (Gadā), goad (Aṁkusha). His eyes
 
@@ -1853,7 +1853,7 @@ touch upon those other principles which have been asserted according to which se
 
 **CHAPTER XXIV**
 
-****
+
 
 Deals with the Varāha^(**1**), another Vaishnava Mantra. Verse 24 says Earth is in the tusks of Varāha; the Goddess of Speech is in the grunt of this Boar; Air in His breath and the Sun and Moon are in His right and left hands. In His belly are the Vasus[^198]; in His ear the points of the compass; the two Ashvins[^198] are in His eyes; in His feet is the Lotus-born[^200]; in His heart Hari[^201]; and in His mouth Shaṁkara[^202]. These should all be worshipped separately. The rest of the Chapter deals with the ritual, Nyāsa, Homa, Yantra and so forth connected with this particular Mantra.
 
@@ -1869,7 +1869,7 @@ Deals with the Varāha^(**1**), another Vaishnava Mantra. Verse 24 says Earth is
 
 **CHAPTER XXV**
 
-****
+
 
 Describes the Nrisiṁha^(**2**) Mantra and the ritual connected therewith. The Dhyāna will be found in v. 8.
 
@@ -1885,14 +1885,14 @@ Describes the Nrisiṁha^(**2**) Mantra and the ritual connected therewith. The 
 
 **CHAPTER XXVI**
 
-****
+
 
 Deals with the Vishnupanjara Mantra. In v21 the Dhyāna or formula of meditation on Vishnu is given. The rest of the Chapter deals with the ritual.
 
 **————  
 CHAPTER XXVII**
 
-****
+
 
 Gives the Prāsāda Mantra[^203] which is so called because it purifies the mind V 4 gives the Dhyāna of Shiva. The five Devatās of this Mantra are the five faces of Shiva, viz.—Īshāna, Tatpurusha, Aghora, Vāmadeva, Sadyojāta The Dhyānas of these are given. The Pitha Shaktis are Vāmā, Jyeshthā, Raudrī, Kālī, Kalavikarinī, Balavikarinī, Balapramathinī, Sarvabhūtadamanī and Manonmanī
 
@@ -2095,7 +2095,7 @@ Destroy our wordly fear^(**5**).
 **————  
 CHAPTER XXVIII**
 
-****
+
 
 Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He is seated under a fig tree (Vata) with one hand on His knee. He is white as milk Kshīra) A great serpent is coiled around His waist The crescent moon is on His matted hair. He holds an axe and deer and makes the auspicious (Bhadra) gesture[^225]. He is surrounded by Shuka and other Munis. "May Bhava grant ye purity of mind (Bhāvashuddhi).” Then follows some ritual in His worship.
 
@@ -2229,7 +2229,7 @@ Bhuvah, Svah, It has already been shown that "So'ham" "I am He" is Oṁ Thus thi
 
 **CHAPTER XXXI**
 
-****
+
 
 Commences with the Trishtubh Mantra[^253] which is Vedik; the Dhyāna of the Adhi-Devī of the Mantra who is Kātyāyanī is given in v. 9 and Her nine Shaktis in vv. 13, 14. In vv 18-23 are to be found the names of the Shaktis of the letters of the Mantra. It is noted that the number of Japa prescribed (v. 25) for this Mantra is twice that of the Gāyatrī The Mantra which is composed of 44 letters, if reversed, becomes the (v. 29) Astra (weapon) mantra and is divided into eight sections which are identified with various things, the senses of knowledge, the senses of action, the five elements and so forth (vv. 30-34). From these 44 letters issue 44 Vahni Devatās, each of whom is attended by 5 Shaktis, each of whom is attended by five handmaidens, each of whom is again attended by 16 handmaidens, each of whom again is attended by millions upon millions of handmaidens (40-43).
 
@@ -2246,7 +2246,7 @@ Commences with the Trishtubh Mantra[^253] which is Vedik; the Dhyāna of the Adh
 **————  
 CHAPTER XXXII**
 
-****
+
 
 Deals with the Lavana Mantra and Mārana, Vashīkarana and other magical rites. Verse 8 gives the Dhyāna of Katyāyanī a form of Durgā. Her body is like the "friend of air"[^255]. She has three eyes and wears a bright crown. She holds discus (Chakra), conch, sword and spear and is the Destructress of many Daityas. Dhyānas are also given of Rātri (night), Agni and Bhadrakālī with prayers to these Deities. The fifth Mantra, it is said, is from the Atharva Veda.
 
@@ -2255,7 +2255,7 @@ Deals with the Lavana Mantra and Mārana, Vashīkarana and other magical rites. 
 **————  
 CHAPTER XXXIII**
 
-****
+
 
 Deals with the Anushtubh Mantra[^256] of 32 letters which is Vedik; the Dhyāna of the Deva of the Mantra who is Rudra is given in v. 8 and the 32 Shaktis in vv. 12-14. Then follow ritual details. At vv. 27, 28, a Mantra of a 100 letters (Shatākshara) is mentioned. It is formed by the junction of Gāyatrī, Trishtubh and Anushtubh Mantras. These three Mantras are respectively Sun, Fire and Moon. The Devatā of the combined Mantra is (v. 31) the supreme Mahah who grants Liberation and of whom Shruti speaks. Vv. 60 et seq give the Nyāsa and other rites in connection
 
@@ -2274,14 +2274,14 @@ with this Mantra. This is followed by (vv. 43-47) the Saṁvādasūkta a Mantra 
 **————  
 CHAPTER XXXIV**
 
-****
+
 
 Commences with rules relating to the drawing of diagrams (Yantra) Verse 33 describes a Yantra whereby the Sādhaka can make a woman desire him. Vv. 34-36 gives the Brahmashrī Mantra the Devatā of which is Gaurī. At v 38 is a Dhyāna of Pārvatī This is followed by a number of Mantras and Dhyānas of the Devatās thereof: the Rājamukhī (43-45); the Annapradāyaka (v. 51); Annapūrṇā (v 54), Vrihaspati (v. 60), Shukra (v. 63) and Vyāsa (v. 65) Mantras In verse 66 the Dhyāna of Vyāsa is given. Verse 72 gives the Mantra and v 74 the Dhyāna of Ādyā as Ashvārūdhā (Seated on a horse).
 
 **————  
 CHAPTER XXXV**
 
-****
+
 
 Gives the Prānapratishthā Mantra used in the invocation of the Devatā into the Yantra or image to be worshipped.
 
@@ -2296,7 +2296,7 @@ Gives the Prānapratishthā Mantra used in the invocation of the Devatā into th
 **————  
 CHAPTER XXXVI**
 
-****
+
 
 Begins with some verses as to the causes of childlessness which are put down to want of faith, worship, charity, decrying
 
@@ -4700,7 +4700,7 @@ June 1935.
 
 **अथ कुलाकुलविभागः।**
 
-****
+
 
 मन्त्रनामाद्यक्षरयोः एकभूतसम्बन्धित्वे एककुलता। पार्थिवानाम् आप्यानि मित्राणि। आग्नेयानां मारुतानि मित्राणि। पार्थिवाप्यानां मारुतानि शत्रवः। आग्नेयानाम् आप्यानि शत्रवः। आप्यानां तैजसानि च शत्रवः। नाभसानि सर्वाविरुद्धानीति।
 

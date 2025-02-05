@@ -199,7 +199,7 @@ noted here how the Upaniṣad by the three similes indirectly asserts that the c
 
 3. *Energy* —The original word is 'prāṇa' which has a wide range of meaning in Vedāntic literature, from vital breath to Hiraṇyagarbha or Brahmā described as the first shoot of creation. Here the word is used in the sense of Hiraṇyagarbha, literally the Golden Egg, who is the intelligent power that diversifies creation. Heis God the Creator of the Hindu Trinity.
 
-4. *The True*****— Here the five Great Elements, of which the worlds are constituted.
+4. *The True*— Here the five Great Elements, of which the worlds are constituted.
 
 5. *Endless entanglement in works*— This refers to saṁsāra, consisting of karmas (deeds) and the enjoyment of their fruits in an endless chain, until Knowledge, and through it emancipation, are gained. It should be remembered that the whole of the description here and elsewhere in the Upaniṣads, of the
 
@@ -899,7 +899,7 @@ intellectuality, nor through much learning. He is attained only by one whom He c
 एतैरुपायैर्यतते यस्तु विद्वां-  
   स्तस्यैष आत्मा विशते ब्रह्मधाम॥४॥**
 
-** अयम्** This **आत्मा**Ātman **बलहीनेन** by one destitute of strength (weak-spirited) **न लभ्यः**is not attainable,**प्रमादात्**by carelessness **च**and **न वा** nor,**अलि****ङ्गात्**improper (lit. without proper sign) **तपसः** from tapas **अपि**also **न**not (**लभ्यः** is attainable) **यः** that **विद्वान्** the wise **एतैः** these **उपायैः** by means **यतते** strives, **तस्य** his **एषः**this **आत्मा** Ātman **ब्रह्मधाम**the world of Brahman (the state of Brahman) **विशते**enters.
+** अयम्** This **आत्मा**Ātman **बलहीनेन** by one destitute of strength (weak-spirited) **न लभ्यः**is not attainable,**प्रमादात्**by carelessness **च**and **न वा** nor,**अलिङ्गात्**improper (lit. without proper sign) **तपसः** from tapas **अपि**also **न**not (**लभ्यः** is attainable) **यः** that **विद्वान्** the wise **एतैः** these **उपायैः** by means **यतते** strives, **तस्य** his **एषः**this **आत्मा** Ātman **ब्रह्मधाम**the world of Brahman (the state of Brahman) **विशते**enters.
 
  The Self is not gained by men¹ of weak spirit, nor by the careless, nor by those practising improper² austerities. But wise men who strive with vigour, attention and propriety, attain union with Brahman.
 

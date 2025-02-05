@@ -99,7 +99,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **3.** Her Majesty's father, the Duke of Kent,died when she was eight months old. **4.** A youth fired at some small birds so near to the residence of Her Majesty that the charge broke the windows, and some of the shot passed quite close to her head. On another occasion She was nearly killed by the upsetting of her pony carriage. **5.** It was not until the spring of 1830 that Her Majesty became aware of her nearness to the British throne.
+ **3.** Her Majesty's father, the Duke of Kent,died when she was eight months old. **4.** A youth fired at some small birds so near to the residence of Her Majesty that the charge broke the windows, and some of the shot passed quite close to her head. On another occasion She was nearly killed by the upsetting of her pony carriage. **5.** It was not until the spring of 1830 that Her Majesty became aware of her nearness to the British throne.
 
 ¹साधारणप्रभुकुलेऽपि ययावतीर्य  
 साम्राज्यसाधुगुणमण्डलया व्यलासि।  
@@ -128,7 +128,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** ****1.** The Duke of Kent, fourth son of George III. **2.** The Duchess of Kent who was an exemplary Christian, brought up her child under her own eye. **3.** Under the instruction of Dr. Davys and the Barones Lehzen continued for about six years, Her Majesty made considerable progress in her studies and could lay claim to great accomplishments. **4.** Under her masters the famous Lablache and W. J. B. Sale, Her Majesty attained great proficiency in music. **5.** Her Majesty made considerable progress in drawing, needle work, etching &c.
+** 1.** The Duke of Kent, fourth son of George III. **2.** The Duchess of Kent who was an exemplary Christian, brought up her child under her own eye. **3.** Under the instruction of Dr. Davys and the Barones Lehzen continued for about six years, Her Majesty made considerable progress in her studies and could lay claim to great accomplishments. **4.** Under her masters the famous Lablache and W. J. B. Sale, Her Majesty attained great proficiency in music. **5.** Her Majesty made considerable progress in drawing, needle work, etching &c.
 
 ¹आत्माभिमानमुचितं दधतापि यस्या  
 नो चेतसाकलि कदापि परावहेला।  
@@ -159,7 +159,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- ******1.** With & due proportion of self-respect, Her Majesty combined a tender consideration for others. **2.** Her Majesty was proclaimed Queen of Great Britain and Ireland on the 21st of June 1837 when she was eighteen years old. **5.** Prince Albert, son of the Duke of Saxe-Coburg-Gotha. **7.** When the Archbishop of Canterbury enquired of Her Majesty if it were her wish that any alteration should be made in that portion of the Service which included the promise of 'obedience,' she replied that it was her wish to be married in all respects like any other woman, and that, though not as a queen, as a woman she was ready to promise all things contained in the Liturgy.
+ **1.** With & due proportion of self-respect, Her Majesty combined a tender consideration for others. **2.** Her Majesty was proclaimed Queen of Great Britain and Ireland on the 21st of June 1837 when she was eighteen years old. **5.** Prince Albert, son of the Duke of Saxe-Coburg-Gotha. **7.** When the Archbishop of Canterbury enquired of Her Majesty if it were her wish that any alteration should be made in that portion of the Service which included the promise of 'obedience,' she replied that it was her wish to be married in all respects like any other woman, and that, though not as a queen, as a woman she was ready to promise all things contained in the Liturgy.
 
 विज्ञेन तेन बहुधा विहितार्हणा श्री-  
 व्हिक्टोरिया विजयतां शरदां शतं सा॥१४॥
@@ -213,7 +213,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** ****1.** The Prince was skating in Buckingham Palace Gardens when the ice suddenly gave way, and he was immersed in deep water. Her Majesty was the only person who had sufficient presence of mind to render him any material assistance. **2.** Her Majesty and her husband entered into the pleasures of the people, and their influence upon the stage was a healthful one. The theatres to which they went were purified by their presence; and evils which had been the growth of years disappeared. **3.** Albert Edward, Prince of Wales, was born on the 9th November, 1841. **4.** Prince Albert's care for Her Majesty was like that of a mother; nor could there be a kinder, wiser, more judicious nurse.
+** 1.** The Prince was skating in Buckingham Palace Gardens when the ice suddenly gave way, and he was immersed in deep water. Her Majesty was the only person who had sufficient presence of mind to render him any material assistance. **2.** Her Majesty and her husband entered into the pleasures of the people, and their influence upon the stage was a healthful one. The theatres to which they went were purified by their presence; and evils which had been the growth of years disappeared. **3.** Albert Edward, Prince of Wales, was born on the 9th November, 1841. **4.** Prince Albert's care for Her Majesty was like that of a mother; nor could there be a kinder, wiser, more judicious nurse.
 
 ¹विश्राणितामितवसुर्वसुधेश्वरी श्री-  
 व्हिक्टोरिया विजयतां शरदां शतं सा॥२३॥
@@ -238,7 +238,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** ****1.** At the birth of the Princess Royal, the previous wet-nurse received £ 500; but on the birth of the Prince of Wales all the gratuities were doubled. **2.** Her Majesty was pleased to notify to the Home Secretary that those convicts who had behaved well should have their punishment commuted; and that those deserving this clemency on board the various hulks should have their liberty at once granted them. **3.** When the baby Prince was a month old Her Majesty issued a patent creating 'our most dear son' Prince of Wales, Earl of Chester&c. &c. **4.** In 1842 the English were at war with Afghanistan and China, and the British arms ultimately triumphed. **5.** John Francis and William Bean, two miscreants, made unsuccessful attempts to assassinate Her Majesty by shooting within a few weeks of each other.**6.** Congratulatory addresses were voted by both Houses of Parliament to Her Majesty on her escape from assassination; and numerous similar addresses were subsequently forwarded by corporate bodies throughout the kingdom.
+** 1.** At the birth of the Princess Royal, the previous wet-nurse received £ 500; but on the birth of the Prince of Wales all the gratuities were doubled. **2.** Her Majesty was pleased to notify to the Home Secretary that those convicts who had behaved well should have their punishment commuted; and that those deserving this clemency on board the various hulks should have their liberty at once granted them. **3.** When the baby Prince was a month old Her Majesty issued a patent creating 'our most dear son' Prince of Wales, Earl of Chester&c. &c. **4.** In 1842 the English were at war with Afghanistan and China, and the British arms ultimately triumphed. **5.** John Francis and William Bean, two miscreants, made unsuccessful attempts to assassinate Her Majesty by shooting within a few weeks of each other.**6.** Congratulatory addresses were voted by both Houses of Parliament to Her Majesty on her escape from assassination; and numerous similar addresses were subsequently forwarded by corporate bodies throughout the kingdom.
 
 ¹विद्वन्मतैतदसुनाशनिषेधिनी श्री-  
 व्हिक्टोरिया विजयतां शरदां शतं सा॥२७॥
@@ -263,7 +263,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **1.** Jonn Francis was sentenced to death by Chief Justice Tindall; but Her Majesty directed a reprieve of the sentence, which was commuted to transportation for life. **2.** Her Majesty paid her first visit to Edinburgh in 1842 and inspected everything of historical interest.**3.** While staying at Walmer, Her Majesty and her consort took& walk, completely unattended, to the village of Kingsdown, calling on the way at the cottage of an old fisherman and chatting for a short time with his daughter. **4.** Princess Alice Maude Mary was born on the 25th April 1843. She grew up to be an especial favorite with the English people, gave birth to seven children and died in 1878. **5.** The King and Queen of the Belgians, as also several other royal guests and relatives, were present on the occasion of the wedding of the Princess Augusta Caroline, eldest daughter of the Duke of Cambridge, at Buckingham Palace, and were overjoyed by Her Majesty's hospitality.
+ **1.** Jonn Francis was sentenced to death by Chief Justice Tindall; but Her Majesty directed a reprieve of the sentence, which was commuted to transportation for life. **2.** Her Majesty paid her first visit to Edinburgh in 1842 and inspected everything of historical interest.**3.** While staying at Walmer, Her Majesty and her consort took& walk, completely unattended, to the village of Kingsdown, calling on the way at the cottage of an old fisherman and chatting for a short time with his daughter. **4.** Princess Alice Maude Mary was born on the 25th April 1843. She grew up to be an especial favorite with the English people, gave birth to seven children and died in 1878. **5.** The King and Queen of the Belgians, as also several other royal guests and relatives, were present on the occasion of the wedding of the Princess Augusta Caroline, eldest daughter of the Duke of Cambridge, at Buckingham Palace, and were overjoyed by Her Majesty's hospitality.
 
 विज्ञातुमन्यहृदयान्यतिकोविदा श्री-  
 व्हिक्टोरिया विजयतां शरदां शतं सा॥३१॥
@@ -314,7 +314,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** ****1.** Her Majesty's happy delivery was announced in the “ Times" in precisely forty minutes after it had taken place at Windsor Castle; and as this was the first occasion on which the electric telegraph had been so used, the rapid publication of the news was considered very surprising. **2.** Her Majesty got a new mansion built at Osborne which was not far from London, but had all the advantages of a country house. **3.** Her Majesty set out with the Prince Consort on her first visit to Germany, and was met at Malines by the King and Queen of the Belgians who escorted them through their dominions to Verviers and Aix-la-Chapelle, where the King of Prussia was in readiness to receive them. **4.** One can imagine the delight with which Her Majesty viewed the various places dear to the Prince's youth which he pointed out to his wife.
+** 1.** Her Majesty's happy delivery was announced in the “ Times" in precisely forty minutes after it had taken place at Windsor Castle; and as this was the first occasion on which the electric telegraph had been so used, the rapid publication of the news was considered very surprising. **2.** Her Majesty got a new mansion built at Osborne which was not far from London, but had all the advantages of a country house. **3.** Her Majesty set out with the Prince Consort on her first visit to Germany, and was met at Malines by the King and Queen of the Belgians who escorted them through their dominions to Verviers and Aix-la-Chapelle, where the King of Prussia was in readiness to receive them. **4.** One can imagine the delight with which Her Majesty viewed the various places dear to the Prince's youth which he pointed out to his wife.
 
 ¹तज्जन्मसद्मनि समं सरसेन तेन  
 या पञ्चषाणि दिवसान्यवसत्प्रसन्ना।  
@@ -341,7 +341,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** ****1.** Her Majesty and the Prince took up their residence at the palace of Rosenan, occupying the very room in which the Prince was born. Five or six days of pleasure now followed, husband and wife going about together everywhere. **2.** Prince Albert's Birthday was celebrated there, and Her Majesty wrote thus: To celebrate this dear day in my beloved husband's country and birth-place is more than I ever hoped for.' **3.** When Her Majesty and the Prince reached their home at Osborne, there stood the four children looking like roses, so well and so fat. **4.** Her Majesty's third daughter, Princess Helena Augusta Victoria, was born on the 25th of May 1846. **5.** The Government was defeated on its Irish Coercion Bill; and Her Majesty felt the parting with Peel and Lord Aberdeen most keenly. But she had still one person on whose counsel she could rely, and one far dearer to her than her ministers.
+** 1.** Her Majesty and the Prince took up their residence at the palace of Rosenan, occupying the very room in which the Prince was born. Five or six days of pleasure now followed, husband and wife going about together everywhere. **2.** Prince Albert's Birthday was celebrated there, and Her Majesty wrote thus: To celebrate this dear day in my beloved husband's country and birth-place is more than I ever hoped for.' **3.** When Her Majesty and the Prince reached their home at Osborne, there stood the four children looking like roses, so well and so fat. **4.** Her Majesty's third daughter, Princess Helena Augusta Victoria, was born on the 25th of May 1846. **5.** The Government was defeated on its Irish Coercion Bill; and Her Majesty felt the parting with Peel and Lord Aberdeen most keenly. But she had still one person on whose counsel she could rely, and one far dearer to her than her ministers.
 
 विन्यस्तदुर्भरधुरा विदुषि प्रिये श्री-  
 व्हिक्टोरिया विजयतां शरदां शतं सा॥४४॥
@@ -368,7 +368,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **1.** While Prince Albert was gone to Liverpool to open the Albert Dock there, Her Majesty wrote to Baron Stockmar: 'I feel very lonely without my dear master. It will always cause a terrible pang for me to be separated from him even for two days.' **2.** On the 18th of August, 1846, Her Majesty, the Prince Consort, and several members of the Royal Family, embarked on board the *Victoria* and *Albert* for a sail down the Channel, and visited Weymouth, Babbicombe, Mount Edgcumbe and several other interesting places. **3.** On the 28th of February, 1847, Prince Albert was elected Chancellor of the University of Cambridge. **4.** In August 1847, Her Majesty and the Prince again visited Scotland.
+ **1.** While Prince Albert was gone to Liverpool to open the Albert Dock there, Her Majesty wrote to Baron Stockmar: 'I feel very lonely without my dear master. It will always cause a terrible pang for me to be separated from him even for two days.' **2.** On the 18th of August, 1846, Her Majesty, the Prince Consort, and several members of the Royal Family, embarked on board the *Victoria* and *Albert* for a sail down the Channel, and visited Weymouth, Babbicombe, Mount Edgcumbe and several other interesting places. **3.** On the 28th of February, 1847, Prince Albert was elected Chancellor of the University of Cambridge. **4.** In August 1847, Her Majesty and the Prince again visited Scotland.
 
 ¹राज्यच्युतो हतविधेर्बत चक्रवर्ती  
 यन्मदिरेऽभयमविन्दत कांदिशीकः।  
@@ -390,7 +390,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **1.** The policy of Louis Philippe had long rendered the King very unpopular. The public discontent now found vent in revolution, and the dynasty was swept away, and a republic proclaimed. The proud Monarch succeeded in escaping to England and paid a private visit to Her Majesty, by whom he was received in the most affectionate and hospitable manner. **2.** The effects of the revolutionary spirit were felt in other countries—Italy, Spain, Prussia, and Austria. In the midst of the general solicitude for the peace of England during this time of convulsion, Her Majesty was delivered of her fourth daughter, Princess Louise Caroline Alberta, on the 18th March, 1848. **3.** Life and death are ever close together.' Only a few days after the birth of the Princess Louise, came the record of the death of the Princess Sophia, the youngest surviving daughter and twelfth child of George III. and Queen Charlotte. **4.** Chartist disturbances were expected at this time, and there was considerable discontent over the income-tax and the increased grants for the army and navy. On the 13th of March a Chartist meeting was held on Kensington Common. The military and other authorities of Her Majesty's Government acted with promptitude, and the leaders of the movement having been arrested, the agitation subsided.
+ **1.** The policy of Louis Philippe had long rendered the King very unpopular. The public discontent now found vent in revolution, and the dynasty was swept away, and a republic proclaimed. The proud Monarch succeeded in escaping to England and paid a private visit to Her Majesty, by whom he was received in the most affectionate and hospitable manner. **2.** The effects of the revolutionary spirit were felt in other countries—Italy, Spain, Prussia, and Austria. In the midst of the general solicitude for the peace of England during this time of convulsion, Her Majesty was delivered of her fourth daughter, Princess Louise Caroline Alberta, on the 18th March, 1848. **3.** Life and death are ever close together.' Only a few days after the birth of the Princess Louise, came the record of the death of the Princess Sophia, the youngest surviving daughter and twelfth child of George III. and Queen Charlotte. **4.** Chartist disturbances were expected at this time, and there was considerable discontent over the income-tax and the increased grants for the army and navy. On the 13th of March a Chartist meeting was held on Kensington Common. The military and other authorities of Her Majesty's Government acted with promptitude, and the leaders of the movement having been arrested, the agitation subsided.
 
 विस्तारयन्त्यविरतं जनभावुकं श्री-  
 व्हिक्टोरिया विजयतां शरदां शतं सा॥५२॥
@@ -490,7 +490,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **1.** On the 16th September, 1852, Her Majesty received the intelligence of the death of the greatest of her subjects. The illustrious Wellington, ‘the great Duke,' had passed away at Walmer, after a few hour’s illness, and with no suffering, at the patriarehal age of eightythree. Keenly did Her Majesty feel this great loss, and she spoke of him as 'England's, or rather Britain's, pride, her glory, her hero, the greatest man she had ever produced.’ **2.** On the 19th of March 1853, a disastrous fire broke out in Windsor Castle. Fortunately the flames were subdued and the injury was confined to the ceilings of the diningroom in the Prince of Wales' Tower. Her Majesty's principal treasures were removed in safety on the announcement of the outbreak. **3**. Her Majesty's fourth son, Prince Leopold George Duncan Albert, Duke of Albany, was born on the 7th April, 1853. He has two children, and died in 1884. **4.** On the 21st of June there was asplendid military spectacle at Chobham, when a sham fight and a series of military manoeuvres were carried out before Her Majesty, Prince Albert&c. Her Majesty excited great admiration as she rode down the lines, dressed in a half-military riding-habit, and mounted on a splendid ebony steed.
+ **1.** On the 16th September, 1852, Her Majesty received the intelligence of the death of the greatest of her subjects. The illustrious Wellington, ‘the great Duke,' had passed away at Walmer, after a few hour’s illness, and with no suffering, at the patriarehal age of eightythree. Keenly did Her Majesty feel this great loss, and she spoke of him as 'England's, or rather Britain's, pride, her glory, her hero, the greatest man she had ever produced.’ **2.** On the 19th of March 1853, a disastrous fire broke out in Windsor Castle. Fortunately the flames were subdued and the injury was confined to the ceilings of the diningroom in the Prince of Wales' Tower. Her Majesty's principal treasures were removed in safety on the announcement of the outbreak. **3**. Her Majesty's fourth son, Prince Leopold George Duncan Albert, Duke of Albany, was born on the 7th April, 1853. He has two children, and died in 1884. **4.** On the 21st of June there was asplendid military spectacle at Chobham, when a sham fight and a series of military manoeuvres were carried out before Her Majesty, Prince Albert&c. Her Majesty excited great admiration as she rode down the lines, dressed in a half-military riding-habit, and mounted on a splendid ebony steed.
 
 विद्वेषिभीषणचमूशतशालिनी श्री-  
 व्हिक्टोरिया विजयतां शरदां शतं सा॥६८॥
@@ -510,7 +510,7 @@ TRIVANDRUM,
 विभ्रान्तिहीनसचिवप्रवरादृता श्री-  
 व्हिक्टोरिया विजयतां शरदां शतं सा॥७१॥
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_****
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ** 1.** Early in July, various members of Her Majesty's family were attacked with measles. The Prince of Wales was the first sufferer, but he was quickly convalescent; Prince Albert suffered more virulently; thePrincess Royal and the Princess Alice took the infection mildly, and Her Majesty also suffered from a very mild attack of the disorder. All happily recovered without any serious consequences, under judicious treatment. **2.** There was about this time loud talk about Court prejudice and intrigue, and it was openly said that Prince Albert was acting as a hostile influence 'behind the Throne' against the wishes of the people.The feeling was now as strong against the Prince as it had been in his favor a few years before. Her Majesty wrote to Lord Aberdeen : ‘In attacking the Prince, who is one and the same with the Queen herself, the Throne is assailed.' **3.** In January 1854, when Parliament met, the calumnies against the Prince were completely refuted by Lord Aberdeen in the House of Lords, and by Lord John Russell in the House of Commons. Her Majesty heartily rejoiced when the clouds lifted.
 
@@ -607,7 +607,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-** ****1.** The Duchess of Kent in her seventy-sixth year was all of a sudden seized with a shivering fit. Her Majesty remained by the side of her mother holding the beloved hand; and when the Duchess breathed her last, the Queen, convulsed with sobs, fell on the hand and covered it with kisses. **2.** विश्वस्ततां वैधव्यम्। 'विश्वस्ता विधवे समे' इत्यमरः। Stern fate made Her Majesty a widow at forty-two. **3.** There was not a house in the land that was not saddened by the news. All diversities of social rank and feeling were united in one spontaneous manifestation of sympathy with the widowed Queen and the bereaved family. **4.** The marriage of Princess Alice to Prince Louis of Hesse—which had been delayed by the Prince Consort's death—took place at Osborne on the 1st of July, 1862, the ceremony being of a private character. Her Majesty attended in deep mourning habit. **5.** The Prince of Wales married Princess Alexandria of Denmark on the 10th of March, 1863.
+** 1.** The Duchess of Kent in her seventy-sixth year was all of a sudden seized with a shivering fit. Her Majesty remained by the side of her mother holding the beloved hand; and when the Duchess breathed her last, the Queen, convulsed with sobs, fell on the hand and covered it with kisses. **2.** विश्वस्ततां वैधव्यम्। 'विश्वस्ता विधवे समे' इत्यमरः। Stern fate made Her Majesty a widow at forty-two. **3.** There was not a house in the land that was not saddened by the news. All diversities of social rank and feeling were united in one spontaneous manifestation of sympathy with the widowed Queen and the bereaved family. **4.** The marriage of Princess Alice to Prince Louis of Hesse—which had been delayed by the Prince Consort's death—took place at Osborne on the 1st of July, 1862, the ceremony being of a private character. Her Majesty attended in deep mourning habit. **5.** The Prince of Wales married Princess Alexandria of Denmark on the 10th of March, 1863.
 
 विश्वासभक्तिभृतया स्नुषयार्हिता श्री-  
 व्हिक्टोरिया विजयतां शरदां शतं सा॥८७॥
@@ -831,7 +831,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** १**. प्राय इति संभावनायाम् । अत्र च शिवयोर्विशिष्टापाङ्गरश्मिगतरश्मित्वापह्नवपुरस्कारेण मदनवधूमाङ्गल्यसूत्रनिर्माणतत्परत्वमुत्प्रेक्षते इति सापह्नवोत्प्रेक्षा। तथाविधेन चोत्प्रेक्षणेनापाङ्गानां मन्मथोज्जीवनक्षमत्वं ध्वनितम्॥ **२.** अत्र****श्लिष्टविशेषणोपन्यासमहिम्ना श्रीव्हिक्टोरियायां सूर्यमण्डलीव्यवहारप्रतीतेः समासोक्तिः॥ **३.** भारतसार्वभौम्याः पञ्चाशो यो भूभरणहायनस्तत्पूर्तिनाम्नि॥**४.** गुणानामतिनिर्मलत्वधर्मो विशिष्टमौक्तिकसादृश्यं प्रयोजयति॥ **५.** उभये तावदोजःप्रसादसमताख्या गुणाः काव्याश्रयिणो व्हिक्टोरियाश्रयिणश्च। तत्र काव्यगुणवैकल्यमप्यगणयंश्चक्रवर्तिनीगुणोत्कीर्तनपरत्वमात्रेण स्वग्रन्थं कविर्गुणवन्तं मन्यते। उभयविधानां च गुणानां व्यतिरेकमाविष्कर्ते कविमात्रवेद्याः त्रिजगतीविदिता इति च विशेषणे॥
+** १**. प्राय इति संभावनायाम् । अत्र च शिवयोर्विशिष्टापाङ्गरश्मिगतरश्मित्वापह्नवपुरस्कारेण मदनवधूमाङ्गल्यसूत्रनिर्माणतत्परत्वमुत्प्रेक्षते इति सापह्नवोत्प्रेक्षा। तथाविधेन चोत्प्रेक्षणेनापाङ्गानां मन्मथोज्जीवनक्षमत्वं ध्वनितम्॥ **२.** अत्रश्लिष्टविशेषणोपन्यासमहिम्ना श्रीव्हिक्टोरियायां सूर्यमण्डलीव्यवहारप्रतीतेः समासोक्तिः॥ **३.** भारतसार्वभौम्याः पञ्चाशो यो भूभरणहायनस्तत्पूर्तिनाम्नि॥**४.** गुणानामतिनिर्मलत्वधर्मो विशिष्टमौक्तिकसादृश्यं प्रयोजयति॥ **५.** उभये तावदोजःप्रसादसमताख्या गुणाः काव्याश्रयिणो व्हिक्टोरियाश्रयिणश्च। तत्र काव्यगुणवैकल्यमप्यगणयंश्चक्रवर्तिनीगुणोत्कीर्तनपरत्वमात्रेण स्वग्रन्थं कविर्गुणवन्तं मन्यते। उभयविधानां च गुणानां व्यतिरेकमाविष्कर्ते कविमात्रवेद्याः त्रिजगतीविदिता इति च विशेषणे॥
 
 मा स्मैव भूदुचितनायकचिन्तना वः  
 काव्यक्रियासु कुतुकं यदि हे कवीन्द्राः।  
@@ -860,7 +860,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **७.**उग्रबहुभूभुजीति विशेषणं साम्राज्यभजनस्य निरतिशयप्रतापनिष्पाद्यताध्वननाय। संबन्धातिशयोक्तिरलंकारः॥ **८.** एतानि वक्ष्यमाणानि। उपमानोपमेययोः समानलिङ्गत्वनियमात्कथं नलादीनामुपमानतयोपादानम्, इति यदि कश्चिच्चोदयेत्तस्यैकविंशःश्लोक उत्तरं दास्यति॥ **९.** धूमानसां धूमवाह्यानां शकटानाम्। विपूर्वात्तनोतेर्लुङि थासि रूपं व्यतथा इति॥ **१०.** युगं वहतीति युग्यम्। प्रसिद्धं हि युग्यं यवसनिचयं ग्रसते सौवीररसं चूषति भूमी गच्छदेव भूमौ शकटींगमयति। तद्विलक्षणं तु धूमाभिधानं युग्यमित्याश्चर्यभूमिः॥
+ **७.**उग्रबहुभूभुजीति विशेषणं साम्राज्यभजनस्य निरतिशयप्रतापनिष्पाद्यताध्वननाय। संबन्धातिशयोक्तिरलंकारः॥ **८.** एतानि वक्ष्यमाणानि। उपमानोपमेययोः समानलिङ्गत्वनियमात्कथं नलादीनामुपमानतयोपादानम्, इति यदि कश्चिच्चोदयेत्तस्यैकविंशःश्लोक उत्तरं दास्यति॥ **९.** धूमानसां धूमवाह्यानां शकटानाम्। विपूर्वात्तनोतेर्लुङि थासि रूपं व्यतथा इति॥ **१०.** युगं वहतीति युग्यम्। प्रसिद्धं हि युग्यं यवसनिचयं ग्रसते सौवीररसं चूषति भूमी गच्छदेव भूमौ शकटींगमयति। तद्विलक्षणं तु धूमाभिधानं युग्यमित्याश्चर्यभूमिः॥
 
 भूत्वा कवेरतनयातटभाक्प्रभाते  
 सायं विलोकयति चन्दनशैलकन्याम्।  
@@ -1071,7 +1071,7 @@ TRIVANDRUM,
 र्यूरोपेश्वरि निर्मला प्रभवति त्वन्नीतिमन्दाकिनी॥४८॥  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- ******४५.** कविभिर्विबुधैरमात्यैश्च दत्तानुवृत्तिः, अथ च कविना शुक्रेण विबुधामात्येन गुरुणा च दत्तानुवृत्तिः। बहलानां परिलसतां शोभनानां क्षत्राणाम्, अथ च परिलसच्छोभानां नक्षत्राणां वृन्दैः। इषेत्यस्याश्विनमासेत्यर्थः॥ **४६.** उर्वीधवसंबन्धिनां करभूतानां हाटकानां कदम्बकं समूहम्, अथ च उर्वीति च्छेदः। महतीत्यर्थः। धवस्य करहाटकस्य कदम्बकस्य च समाहारः। 'विभाषा वृक्षमृग—' (२।४।१२) इत्यादिना एकवद्भावः। जातिर्वर्णः, लताविशेषश्च॥ **४७.** एकं परब्रह्म। तिस्रः प्रभुमन्त्रोत्साहरूपाः। चतुरः सामदानभेददण्डान्। पञ्च। यदाह कामन्दकः—‘आयुक्तकेभ्यश्चोरेभ्यः परेभ्यो राजवल्लभात्। पृथिवीपतिलोभाच्च प्रजानां पञ्चधा भयम्' इति। षट् संधिविग्रहादयः। सप्त स्वाम्यमात्यादयः॥ **४८.** प्रतिघः कोप एव ऊष्मकोष्णकिरणद्योतो ग्रीष्मसूर्यातपस्तेनावलीढेत्यादि। विश्वंभराभृन्मणेर्भूपतिश्रेष्ठायाः, अथ च पर्वतश्रेष्ठादिति गम्यते। त्वद्भुवः प्रभवः (१।४।३१) इत्यपादानत्वम्॥
+ **४५.** कविभिर्विबुधैरमात्यैश्च दत्तानुवृत्तिः, अथ च कविना शुक्रेण विबुधामात्येन गुरुणा च दत्तानुवृत्तिः। बहलानां परिलसतां शोभनानां क्षत्राणाम्, अथ च परिलसच्छोभानां नक्षत्राणां वृन्दैः। इषेत्यस्याश्विनमासेत्यर्थः॥ **४६.** उर्वीधवसंबन्धिनां करभूतानां हाटकानां कदम्बकं समूहम्, अथ च उर्वीति च्छेदः। महतीत्यर्थः। धवस्य करहाटकस्य कदम्बकस्य च समाहारः। 'विभाषा वृक्षमृग—' (२।४।१२) इत्यादिना एकवद्भावः। जातिर्वर्णः, लताविशेषश्च॥ **४७.** एकं परब्रह्म। तिस्रः प्रभुमन्त्रोत्साहरूपाः। चतुरः सामदानभेददण्डान्। पञ्च। यदाह कामन्दकः—‘आयुक्तकेभ्यश्चोरेभ्यः परेभ्यो राजवल्लभात्। पृथिवीपतिलोभाच्च प्रजानां पञ्चधा भयम्' इति। षट् संधिविग्रहादयः। सप्त स्वाम्यमात्यादयः॥ **४८.** प्रतिघः कोप एव ऊष्मकोष्णकिरणद्योतो ग्रीष्मसूर्यातपस्तेनावलीढेत्यादि। विश्वंभराभृन्मणेर्भूपतिश्रेष्ठायाः, अथ च पर्वतश्रेष्ठादिति गम्यते। त्वद्भुवः प्रभवः (१।४।३१) इत्यपादानत्वम्॥
 
 क्षिप तृणगणक्षेपं दर्पोद्धुरान्धरणीपती-   
 न्समिति जननीपायं पाहि प्रणामपरायणान्।  
@@ -1211,7 +1211,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** ****१.** लण्डनम्, London. जितरमा रमाधिककान्तिः॥ **२.** यस्यै इति।'स्पृहेरीप्सितः' ( १/४/३६ ) इति चतुर्थी॥ **३.** किंराजानः कुत्सितनृपाः। 'किमः क्षेपे (५/४/७२ )इति समासान्तनिषेधः॥ **४.** परब्रह्मेति। तत्र सर्वान्तर्भावादिति भावः।पूर्वेण संबद्धोऽयं श्लोकः॥ **५.** वस्तुकथनं यथार्थवर्णनम्॥ **६.** इति पूर्वश्नोकोक्तरीत्या।आङ्गलमण्डलम्,
+** १.** लण्डनम्, London. जितरमा रमाधिककान्तिः॥ **२.** यस्यै इति।'स्पृहेरीप्सितः' ( १/४/३६ ) इति चतुर्थी॥ **३.** किंराजानः कुत्सितनृपाः। 'किमः क्षेपे (५/४/७२ )इति समासान्तनिषेधः॥ **४.** परब्रह्मेति। तत्र सर्वान्तर्भावादिति भावः।पूर्वेण संबद्धोऽयं श्लोकः॥ **५.** वस्तुकथनं यथार्थवर्णनम्॥ **६.** इति पूर्वश्नोकोक्तरीत्या।आङ्गलमण्डलम्,
 
 वाचोयुक्तिमनुत्तमां कवयितुः कस्यापि कृत्वा पुरो  
 राष्ट्रेऽस्या रविरस्तमेति न कदापीति ब्रवामादरात्॥६॥
@@ -1303,7 +1303,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** ****१७.** पिष्टं पुनः पिंषता पिष्टपेषं कुर्वता। रुधादित्वात् श्नम्॥ **१८.** भक्तिमयशृङ्खलया, By the bond of loyalty.**१९.** और्वो वाडवः। सर्वपथीना सर्वपथव्यापिनी॥ **२०.** रुरुत्सिताद्रोद्धुमिष्टात्। नलिकोत्स्फोटः, Discharge of guns. पादत्रय-मत्यन्तातिशयोक्तयलंकृतम्॥ **२१.** लक्ष्मीकामुकमीनराजकुलजैरादिमीनवंश्यैः। मीनैरिति शेषः॥ तेषां स्वकुलकूटस्थस्मृते-रुत्कण्ठा। मत्स्यरूपविष्णुतुल्यानि यानपात्राणीति भावः॥ **२२.** समुद्रस्य सेतुबन्धोद्यतरामचन्द्र स्मृतेरुन्मनस्कत्वादयः। प्रकृते आग्नेयायुधानि नलिकानि। विलासानामिति 'अधीगर्थ-' (२/३/५२ ) इति कर्मणि षष्ठी॥
+** १७.** पिष्टं पुनः पिंषता पिष्टपेषं कुर्वता। रुधादित्वात् श्नम्॥ **१८.** भक्तिमयशृङ्खलया, By the bond of loyalty.**१९.** और्वो वाडवः। सर्वपथीना सर्वपथव्यापिनी॥ **२०.** रुरुत्सिताद्रोद्धुमिष्टात्। नलिकोत्स्फोटः, Discharge of guns. पादत्रय-मत्यन्तातिशयोक्तयलंकृतम्॥ **२१.** लक्ष्मीकामुकमीनराजकुलजैरादिमीनवंश्यैः। मीनैरिति शेषः॥ तेषां स्वकुलकूटस्थस्मृते-रुत्कण्ठा। मत्स्यरूपविष्णुतुल्यानि यानपात्राणीति भावः॥ **२२.** समुद्रस्य सेतुबन्धोद्यतरामचन्द्र स्मृतेरुन्मनस्कत्वादयः। प्रकृते आग्नेयायुधानि नलिकानि। विलासानामिति 'अधीगर्थ-' (२/३/५२ ) इति कर्मणि षष्ठी॥
 
 तावद्रावणवैरिणः शरविलासानां स्मरन्नुन्मनाः  
 प्रत्यङ्गप्रथमानवेपथुप्टथुः पाथोनिधिर्वर्तते॥२२॥
@@ -1334,7 +1334,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** ****२३.** सुखं परागविरहादिति भावः। समुद्रियाजिः समुद्रभवं युद्धम्\।\। 'समुद्राभ्राद्धः' (४/४/११८)। ऊर्णूयते आच्छाद्यते॥ **२४**. कंकटीको रुद्रः। कर्णजाहं कर्णमूलम्। 'तस्य पाकमूले पील्वादिकर्णादिभ्यः कुणब्जाहचौ॥' आपूर्णयन्नापूर्णानि कुर्वन् \।\। **२५.** विकचितो विकासितः। निद्राभञ्जकोऽपि तुमुलारवो हरेर्ल्लक्ष्मीहटाश्लेषलाभहेतुरिति सुखमृष्यो भवतीति भावः॥ **२६.** लभन्त इति। वनमित्यनुषज्यते। एकत्र वनं जलम्, अन्यत्र काननम्\।\। **२७.**सहजश्रीः सहजराज्यलक्ष्मीः, रमासहोदरी च।विष्वद्रीचीः समन्ताद्वयापिनीः। 'विष्वग्देवयोश्च टेरद्र्यञ्चतावप्रत्यये' (६/३/९२). **२८.** संगीतमित्यादि। राज्ञीपक्षे षड्जया संधिविग्रहादिगुणषट्कोत्थया श्रिया आलिङ्गिता।शश्वद्रक्तनरर्षभश्रितपदा शश्वद्रक्तैर्नरर्षभैः : नृपैः श्रितपदा। गां भुवं धारयन्ती बिभ्रती। सुमध्यमाकुलमणिः स्त्रीरत्न-   
+** २३.** सुखं परागविरहादिति भावः। समुद्रियाजिः समुद्रभवं युद्धम्\।\। 'समुद्राभ्राद्धः' (४/४/११८)। ऊर्णूयते आच्छाद्यते॥ **२४**. कंकटीको रुद्रः। कर्णजाहं कर्णमूलम्। 'तस्य पाकमूले पील्वादिकर्णादिभ्यः कुणब्जाहचौ॥' आपूर्णयन्नापूर्णानि कुर्वन् \।\। **२५.** विकचितो विकासितः। निद्राभञ्जकोऽपि तुमुलारवो हरेर्ल्लक्ष्मीहटाश्लेषलाभहेतुरिति सुखमृष्यो भवतीति भावः॥ **२६.** लभन्त इति। वनमित्यनुषज्यते। एकत्र वनं जलम्, अन्यत्र काननम्\।\। **२७.**सहजश्रीः सहजराज्यलक्ष्मीः, रमासहोदरी च।विष्वद्रीचीः समन्ताद्वयापिनीः। 'विष्वग्देवयोश्च टेरद्र्यञ्चतावप्रत्यये' (६/३/९२). **२८.** संगीतमित्यादि। राज्ञीपक्षे षड्जया संधिविग्रहादिगुणषट्कोत्थया श्रिया आलिङ्गिता।शश्वद्रक्तनरर्षभश्रितपदा शश्वद्रक्तैर्नरर्षभैः : नृपैः श्रितपदा। गां भुवं धारयन्ती बिभ्रती। सुमध्यमाकुलमणिः स्त्रीरत्न-   
           
 
 किंचोद्भासि सुमध्यमाकुलमणिः सत्पञ्चमालापिनी  
@@ -1386,7 +1386,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **३३.** बिरुद, Titles of honour . पुरुदामोदरदारसेव्यमानाः प्रचुरलक्ष्मीसंपन्नाः। तव बाहुदण्डे अवनीभरभाजि त्वयि राज्यं रक्षन्त्याम्।नीवृज्जनपदम्। **३४.** शतकोटिं वज्रम्।मुनिर्दधीचिः। तत्कथा पुराणेषु द्रष्टव्या।शतकोटिं वितरसि तत्संख्याकं धनं ददासि॥ **३५.** कीर्तिपक्षे रुचिः कान्तिः। अन्यत्राभिरुचिः। एषा उत्पतद्विन्दुश्रेणिषु उत्पतन्त्यो हर्षान्माद्यन्त्यो बिन्दुश्रेणयो विद्वत्समूहा येषु तेषु भूरिवर्षसमयेषु स्वर्णवृष्टिकालेषु सन्मानसा, सतां हृदयादत्यच्छवर्णाकृतिरतिनिर्मलाक्षराकृतिः सती बहिरेति। विद्वद्भयो धनं ददत्यास्ते कीर्तिं सन्तो गायन्तीति भावः॥हंसीपक्षे अत्यच्छवर्णाकृतिरतिश्वेतवर्णा एषा इत्यादि सुगमम्॥ **३६.** भीमनिटालशुष्मा शंकरनिटिलाग्निः। भङ्गागतं पराजयलब्धम्।अर्धचन्द्रं चन्द्रखण्डम्, गलहस्तं च।फालानलोपरिदृश्यमानोऽर्धचन्द्रः। पराजयचिह्नत्वेनोत्प्रेक्ष्यते॥ **३७.** सतीत्रता तीव्रत्वसहिता कुकान्ता राजानः, कुत्सितवल्लभाश्च।संततेरित्येकत्र पञ्चमी, अन्यत्र षष्टी।रागः प्रभुविषयिका रतिः स्त्रीविषयिका च।करग्रहो भागधेयस्वीकारः पाणिग्रहणं च।प्रतोतुषीषि।यङ्लुगन्ताल्लट्। **३८.** 'तदासेचनकं तृप्तेर्नास्त्यन्तो यस्य दर्शनात्’। मात्रा श्रीव्हिक्टोरियया त्वया। सत्राणं सतां रक्षणम्।उत्तमोऽन्तिमोऽप्यचरमः प्रथम इति विरोधः। श्रेष्ठः प्रथमश्चेति परिहारः॥
+ **३३.** बिरुद, Titles of honour . पुरुदामोदरदारसेव्यमानाः प्रचुरलक्ष्मीसंपन्नाः। तव बाहुदण्डे अवनीभरभाजि त्वयि राज्यं रक्षन्त्याम्।नीवृज्जनपदम्। **३४.** शतकोटिं वज्रम्।मुनिर्दधीचिः। तत्कथा पुराणेषु द्रष्टव्या।शतकोटिं वितरसि तत्संख्याकं धनं ददासि॥ **३५.** कीर्तिपक्षे रुचिः कान्तिः। अन्यत्राभिरुचिः। एषा उत्पतद्विन्दुश्रेणिषु उत्पतन्त्यो हर्षान्माद्यन्त्यो बिन्दुश्रेणयो विद्वत्समूहा येषु तेषु भूरिवर्षसमयेषु स्वर्णवृष्टिकालेषु सन्मानसा, सतां हृदयादत्यच्छवर्णाकृतिरतिनिर्मलाक्षराकृतिः सती बहिरेति। विद्वद्भयो धनं ददत्यास्ते कीर्तिं सन्तो गायन्तीति भावः॥हंसीपक्षे अत्यच्छवर्णाकृतिरतिश्वेतवर्णा एषा इत्यादि सुगमम्॥ **३६.** भीमनिटालशुष्मा शंकरनिटिलाग्निः। भङ्गागतं पराजयलब्धम्।अर्धचन्द्रं चन्द्रखण्डम्, गलहस्तं च।फालानलोपरिदृश्यमानोऽर्धचन्द्रः। पराजयचिह्नत्वेनोत्प्रेक्ष्यते॥ **३७.** सतीत्रता तीव्रत्वसहिता कुकान्ता राजानः, कुत्सितवल्लभाश्च।संततेरित्येकत्र पञ्चमी, अन्यत्र षष्टी।रागः प्रभुविषयिका रतिः स्त्रीविषयिका च।करग्रहो भागधेयस्वीकारः पाणिग्रहणं च।प्रतोतुषीषि।यङ्लुगन्ताल्लट्। **३८.** 'तदासेचनकं तृप्तेर्नास्त्यन्तो यस्य दर्शनात्’। मात्रा श्रीव्हिक्टोरियया त्वया। सत्राणं सतां रक्षणम्।उत्तमोऽन्तिमोऽप्यचरमः प्रथम इति विरोधः। श्रेष्ठः प्रथमश्चेति परिहारः॥
 
 अत्यच्छैः पिच्छगुच्छैः शिरसि जननुतैर्लाञ्छितो धर्मजात-  
 ध्रुक्षु प्रोत्क्षिप्तकौक्षेयकमहितकरः ख्यातसत्यानुरोधः।  
@@ -1417,7 +1417,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **३९.** पिच्छ, Feathers (1) of the ostrich, (2) of the peacock. धर्मजातं युधिष्ठिरं धर्मसमूहं च द्रुह्यन्तीति तद्द्रुहस्तेषु। सत्यस्य सत्यभामायाश्च। वन्द्यानां वन्दिनां च। विजयोऽर्जुनः, जयश्च। मानिताभीरवामः संभावितघोषस्त्रीकः। मानिता अभीर्भयाभावो धैर्यं यस्य। अवामोऽकुटिलः। ऋजुबुद्धिरिति यावत्। स पुत्रः, H. R. H, the Prince of Wales. स देव श्रीशौरिः॥**४०.** अचलेश्वरो हिमालयः॥ **४१.** सुचिर &c. The Jubilee. **४२.** वित्तवैभवः ख्यातसंपत्। व्हैक्टोरियो व्हिक्टोरियासंबन्धी। 'तस्येदम्'इत्यण्**४३.** आप्यायमानस्तृप्तिं जनयन्। अन्तर्भावितणिजर्थात्प्यायतेः शानच्। कोऽपि। अर्थादुत्सवः॥
+ **३९.** पिच्छ, Feathers (1) of the ostrich, (2) of the peacock. धर्मजातं युधिष्ठिरं धर्मसमूहं च द्रुह्यन्तीति तद्द्रुहस्तेषु। सत्यस्य सत्यभामायाश्च। वन्द्यानां वन्दिनां च। विजयोऽर्जुनः, जयश्च। मानिताभीरवामः संभावितघोषस्त्रीकः। मानिता अभीर्भयाभावो धैर्यं यस्य। अवामोऽकुटिलः। ऋजुबुद्धिरिति यावत्। स पुत्रः, H. R. H, the Prince of Wales. स देव श्रीशौरिः॥**४०.** अचलेश्वरो हिमालयः॥ **४१.** सुचिर &c. The Jubilee. **४२.** वित्तवैभवः ख्यातसंपत्। व्हैक्टोरियो व्हिक्टोरियासंबन्धी। 'तस्येदम्'इत्यण्**४३.** आप्यायमानस्तृप्तिं जनयन्। अन्तर्भावितणिजर्थात्प्यायतेः शानच्। कोऽपि। अर्थादुत्सवः॥
 
 आसेतोरनुपदमा तुषारशैला-  
 द्देशेऽस्मिन्नवकिरदुत्सवस्य कन्दान्।  
@@ -1447,7 +1447,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **४४.** जन्मर्क्षमित्युपचारात्। जन्मदिनमित्यर्थः। राज्यलक्ष्मीति। अर्थात्प्रकृतव्हिक्टोरियासंबन्धिन्याः॥ **४५.** महसा चक्रवर्तितेजसा॥ **४६.** कारस्करो वृक्षविशेषः। माकरन्दीं मकरन्दसंबन्धिनीम्। तूलीसज्जाङ्गुलीकाः काव्यनिर्माणसंनद्धाः॥ **४७.** तत्पूर्वश्लोकोक्तहेतोः। माण्डूकीं मण्डूकसंबन्धिनीम्। एवमेव मायूरीमिति।घनर्तुः प्रावृट्।मुखरीचरीकरीति भृशं मुखरां शब्दायमानां करोति। मुखरीति
+ **४४.** जन्मर्क्षमित्युपचारात्। जन्मदिनमित्यर्थः। राज्यलक्ष्मीति। अर्थात्प्रकृतव्हिक्टोरियासंबन्धिन्याः॥ **४५.** महसा चक्रवर्तितेजसा॥ **४६.** कारस्करो वृक्षविशेषः। माकरन्दीं मकरन्दसंबन्धिनीम्। तूलीसज्जाङ्गुलीकाः काव्यनिर्माणसंनद्धाः॥ **४७.** तत्पूर्वश्लोकोक्तहेतोः। माण्डूकीं मण्डूकसंबन्धिनीम्। एवमेव मायूरीमिति।घनर्तुः प्रावृट्।मुखरीचरीकरीति भृशं मुखरां शब्दायमानां करोति। मुखरीति
 च्व्यन्तम्। चरीकरीतीति कृञोयङ्लुक्॥ **४८.** अपरतटं पश्चिमसानुः।इह महेऽस्मिन्नुत्सवे। अन्धकारान्धता भुवनतलेऽस्ति चेत्स लोकालोकस्या-परतटगतेषु सानुषु केवलं दृश्यत इत्यन्वयः। एवमुत्तरत्रापि।**४९.** अलप्स्यामहीति लभेः क्रियातिपत्तौऌङ्॥
 
 दम्भादुज्जृम्भमाणाद्यदि बलिविजयः संभवं नागमिष्य-  
@@ -1472,7 +1472,7 @@ TRIVANDRUM,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**** **५०.** युक्तयुन्मेषा इति। तद्रूपा इत्यर्थः। युक्तेरुन्मेषो येष्विति व्यधिकरणबहुव्रीहिर्वा।**५१.** अस्माभिरिति। तुः पूर्वोक्ताशीःप्रयोक्तृभ्यो भेदं द्योतयति। एष पूर्वश्लोकोक्तः। कृषीष्टेति कृञ आशिषि लिङ्॥
+ **५०.** युक्तयुन्मेषा इति। तद्रूपा इत्यर्थः। युक्तेरुन्मेषो येष्विति व्यधिकरणबहुव्रीहिर्वा।**५१.** अस्माभिरिति। तुः पूर्वोक्ताशीःप्रयोक्तृभ्यो भेदं द्योतयति। एष पूर्वश्लोकोक्तः। कृषीष्टेति कृञ आशिषि लिङ्॥
 
 **शुद्धिपत्रम्.**  
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  

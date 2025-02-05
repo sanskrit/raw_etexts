@@ -2513,7 +2513,7 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 **‘आहूतोऽहं न निवर्ते कदाचिद्’  
   एवमुक्त्वा विदुरं धर्मराजः।  
 प्रायाच्छ्रोभूते सगणस्सानुयात्र-  
-  स्सहस्त्रीभिद्रौपदीमादिकृत्वा****॥**
+  स्सहस्त्रीभिद्रौपदीमादिकृत्वा॥**
 
 
 
@@ -6244,7 +6244,7 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
  Seeing the huge army of Duryodhana ready for the battle, king Yudhisthira became sad and with a pale face, told Arjuna:
 
 **‘धनञ्जय कथं शक्यमस्माभिर्योद्धुमाहवे।**  
-**धार्तराष्ट्रैर्महबाहो येषां योद्धा पितामह****॥’**
+**धार्तराष्ट्रैर्महबाहो येषां योद्धा पितामह॥’**
 
  “Mighty Arjuna! how can we fight the warriors on Dhritarashtra's side for whom (our) grandfather, Bhishma, fights.”
 
@@ -9729,7 +9729,7 @@ OCCURRING IN THE TEXT**
 
 ** AMBIKA.—** Second daughter of the Kasi king; first wife of Vichitravirya; through Vyasa's Niyoga, bears the blind Dhritarashtra.
 
- **ANDHAKAS—******A clan of people, kinsmen of Krishna.
+ **ANDHAKAS—**A clan of people, kinsmen of Krishna.
 
  **ANGAS.—** A territory in the east; of which Duryodhana, with the consent of his father and Bhishma, makes Karna the king.
 
@@ -9867,7 +9867,7 @@ through Vyasa's Niyoga ; blind, hence referred to as Prajnachakshus (one to whom
 
 ** GANDHARI.—** Daughter of the king of the Gandharas, Subala, hence called Subalatmaja; wife of Dhritarashtra and mother of Duryodhana and others.
 
- **GANDHARVAS.—******A class of divine beings; they assail Duryodhana's forces and take captive Duryodhana and others, while the latter are on a trip to their cattle-farms in the Kamyaka forest.
+ **GANDHARVAS.—**A class of divine beings; they assail Duryodhana's forces and take captive Duryodhana and others, while the latter are on a trip to their cattle-farms in the Kamyaka forest.
 
  **GANDIVA.—** Name of Arjuna's bow.
 
@@ -9891,21 +9891,21 @@ husband; bears to Bhima the son named Ghatotkacha.
 
  **HIMAVAN.—** The Himalayas; the Pandavas spend part of their exile-life on its slopes; Arjuna performs his penance on one of its summits.
 
- **HRADA.******—****The lake named Dvaipayana in the battle-field of Kurukshetra, where Duryodhana hides himself, after his armies are completely destroyed.
+ **HRADA.**—The lake named Dvaipayana in the battle-field of Kurukshetra, where Duryodhana hides himself, after his armies are completely destroyed.
 
- **INDRADHVAJA.******—****Indra's banner, worshipped in ancient days.
+ **INDRADHVAJA.**—Indra's banner, worshipped in ancient days.
 
- **INDRAPRASTHA.****—**Yudhisthira'scapital; old name, Khandavaprastha.
+ **INDRAPRASTHA.—**Yudhisthira'scapital; old name, Khandavaprastha.
 
- **ISHIKA ASTRA.****—** A dreadful missile charged with incantation; Asvatthaman lets it on Uttara's womb, so that the Pandava line may become extinct.
+ **ISHIKA ASTRA.—** A dreadful missile charged with incantation; Asvatthaman lets it on Uttara's womb, so that the Pandava line may become extinct.
 
- **JAYA.******—****A name of the Epic, the Mahabharata.
+ **JAYA.**—A name of the Epic, the Mahabharata.
 
- **JAYADRATHA.******—****King of the Sindhus; son-in-law of Dhritarashtra, brother-in-law of Duryodhana, and husband of Dussala; plays a prominent part in killing Abhimanyu, Arjuna's son, in the great battle and is killed by Arjuna. Also called Saindhavaka, Saindhava, Sindhuraja.
+ **JAYADRATHA.**—King of the Sindhus; son-in-law of Dhritarashtra, brother-in-law of Duryodhana, and husband of Dussala; plays a prominent part in killing Abhimanyu, Arjuna's son, in the great battle and is killed by Arjuna. Also called Saindhavaka, Saindhava, Sindhuraja.
 
- **KAMYAKA.****—** A forest where the Pandavas spend a large part of their exile-life; it was near the river Sarasvati. The Dvaita forest also forms part of it.
+ **KAMYAKA.—** A forest where the Pandavas spend a large part of their exile-life; it was near the river Sarasvati. The Dvaita forest also forms part of it.
 
- **KANKA.****—** Means****a falseBrahmin;Yudhisthira assumesit as his name  
+ **KANKA.—** Meansa falseBrahmin;Yudhisthira assumesit as his name  
 
 
 
@@ -10012,7 +10012,7 @@ heroes of the Epic are called Kurus, Kauravas, Kauravyas, Kurunandanas and Kurus
 
  **PRAMANAKOTI.—** A wooden structure used as bathing stand, projecting into the Ganges; Bhima, who was sleeping there, tired after swimming, was thrown into the Ganges by Duryodhana.
 
- **PRATIKAMI (-MIN).******—****Of the Suta caste; the messenger attending on Duryodhana who goes to Draupadi to inform her that she had been made a slave in the game of dice. Some take it as a common name meaning ‘messenger,’ som as the proper name of that particular messenger.
+ **PRATIKAMI (-MIN).**—Of the Suta caste; the messenger attending on Duryodhana who goes to Draupadi to inform her that she had been made a slave in the game of dice. Some take it as a common name meaning ‘messenger,’ som as the proper name of that particular messenger.
 
  **PRATIPA.—** A king of the line of Bharata; father of king Santanu.
 
@@ -10109,7 +10109,7 @@ Dhritarashtra; his son is the villain of the Epic, Sakuni, uncle of Duryodhana.
 
  **SUBHADRA.—** Krishna's sister; one of Arjuna's wives; mother of Abhimanyu. Also called Satvati, after her race.
 
- **SUDESHNA.—******Virata's queen.
+ **SUDESHNA.—**Virata's queen.
 
  **SUMITRA.—** The king of the Sauvira people whom Arjuna puts down, as soon as Yudhisthira is appointed as Yuvaraja.
 
@@ -10719,9 +10719,9 @@ BY DR. GANGANATHA JHA, M.A., D.Litt.
 
  *Forward:—* “The book is invaluable to legislators and social and religious reformers”
 
- *C and M. Gazette:****—*** "The book has a real interest and value
+ *C and M. Gazette:—*** "The book has a real interest and value
 
- *Mahratta:*****—****“The book is undoubtedly well worth being read by social thinkers and reformers.”
+ *Mahratta:*—“The book is undoubtedly well worth being read by social thinkers and reformers.”
 
  Price Rs. 2. To Subs. of the “I. R.”, Re. 1-8.
 

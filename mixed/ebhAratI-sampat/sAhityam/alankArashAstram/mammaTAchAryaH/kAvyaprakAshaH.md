@@ -2243,7 +2243,7 @@ Miscellaneous.
 
 **समाधिः सुकरं कार्यं कारणान्तरयोगतः।**
 
-**** साधनान्तरोपकृतेन कर्त्रा यद् अक्लेशेन कार्यमारब्धमाधीयते, स समाधिर्नाम। उदाहरणम्—
+ साधनान्तरोपकृतेन कर्त्रा यद् अक्लेशेन कार्यमारब्धमाधीयते, स समाधिर्नाम। उदाहरणम्—
 
 मानमस्या निराकर्तुं पादयोर्मे पतिष्यतः।  
 उपकाराय दिष्ट्येदमुदीर्णं घनगर्जितम्॥१४३॥ का.द.२.२९९.
@@ -4714,7 +4714,7 @@ respectively. In the first the word **कला**is paronomastic, in the second,
 
 possessed of such a property is paronomastic. Thus, according to him,**व्यतिरेक** has only 23 varieties.
 
- *Serial* **व्यतिरेक** *is also possible like Serial* **प्रतिवस्तूपमा***. Its varieties also should be understood similarly (i. e. in the above mentioned manner). One only we may exemplify in a **दृ*****रवन्न***etc. verse 77, in order to show the way in which others may occur.*
+ *Serial* **व्यतिरेक** *is also possible like Serial* **प्रतिवस्तूपमा***. Its varieties also should be understood similarly (i. e. in the above mentioned manner). One only we may exemplify in a **दृ*रवन्न***etc. verse 77, in order to show the way in which others may occur.*
 
 * Here,***वत्** *is (used) in the sense of* **तुल्य***. Thus,* resemblance *is* **आर्थ***. The words* **विषम** *etc. are paronomastic*. **हर, हरि, रवि** etc. are the **उपमानऽ**. Here, **विषमदृष्टित्व** the ground of inferiority is mentioned;**समदृष्टित्व**the ground of superiority is not mentioned.
 
@@ -4845,7 +4845,7 @@ KĀRIKĀXXIII
 
  Kā. xxiii:— **When a general or a particular is strengthened by its opposite either under a resemblance or its opposite, that is (termed) Corroboration.**
 
-** *****When a general is corroborated by a particular, or a particular by a general, either under a resemblance or a contrast,* it is अर्थान्तरन्यास.
+** *When a general is corroborated by a particular, or a particular by a general, either under a resemblance or a contrast,* it is अर्थान्तरन्यास.
 
   The term**अर्थान्तरन्यास** a literally means 'the adducing of an example to establish either a general or a particular proposition the truth of which appears to be improbable."
 
@@ -4895,7 +4895,7 @@ KĀRIKĀ XXIV & XXV
 
 
 
-phorically said to be**दवदहन.**Here, the attribution of identity****between**दहनत्व**and**नलिनीत्व**etc. is sub-ordinate. The poet wants to describe the sad condition of a woman under separation; and therefore it is opposition, that is here striking, not identity. In **मुखं चन्द्रः**etc. it is identity that is striking; for, what the poet there intends to convey is that the face is possessed of all the attributes of the moon.
+phorically said to be**दवदहन.**Here, the attribution of identitybetween**दहनत्व**and**नलिनीत्व**etc. is sub-ordinate. The poet wants to describe the sad condition of a woman under separation; and therefore it is opposition, that is here striking, not identity. In **मुखं चन्द्रः**etc. it is identity that is striking; for, what the poet there intends to convey is that the face is possessed of all the attributes of the moon.
 
  The second variety where a Universal is incongruous with a Quality is instanced in**गिरयोऽप्य**etc. verse 92. Here, the Universals**गिरित्व** etc. are represented as incongruous with the Qualities**अनुन्नतत्व**etc. This incongruity is explained by the fact that the poet wants to convey the idea of extreme nobility on the part of the individual under description. **विश्वंभराप्यतिलघुः**is not an example of this variety; for,**विश्वंभरा** is not a Universal (the earth being single is but a Substance). From the rule**¹**[^33] of Patañjali that words denote only four things, vis. **जाति, गुण, क्रिया** and **द्रव्य**, it follows that a**गुण**is that which is not a Universal, an Action, or a Substance. Thus, **अभाव** also is a **गुण**. Hence although **अनुन्नति**,**अचलत्व** etc. are **अभावऽ**, still, this is an example of **जातिगुणविरोध**. If **अभाव** be taken as separate from **द्रव्य**, **गुण** etc., Mammata's divisions of **विरोध**would be in complete, inasmuch as he has not mentioned those varieties where the **विरोध**is between**अभाव** on the one hnad, and **द्रव्य, गुण, जाति,** or **क्रिया** on the other. This shows that it is not necessary to take the negative particle in this verse in the sense of 'smallness' as is done by Udyota, Chakravarti and others. In this variety, words are used paronomastically.
 
@@ -5385,7 +5385,7 @@ to all, and is not simply the absence of a fault. *Hence, the Significant has be
 
  Kā. xxxii. *c d*:—T**he artful concealment of the nature of an object, though discovered, is (termed ) the Dissembler.**
 
-** *****When, the nature of an object which, even though hidden is discovered somehow or other, is concealed under some pretence, that is* **व्याजोक्ति**.
+** *When, the nature of an object which, even though hidden is discovered somehow or other, is concealed under some pretence, that is* **व्याजोक्ति**.
 
  *This is not* **अपह्नुति***for, resemblance between both the***प्रकृत***and the***अप्रकृत**, *which is* *present in***अपह्नुति***is here impossible*. Although resemblance is present here,still, it[^60]¹ is between **रति** and **शैत्य** of the Himālaya, which are both **प्रकृत** here.
 
@@ -5556,7 +5556,7 @@ reach of any other means of proof,' and not 'remarkably striking.' For, if we ac
 
  Kā. xxxvi. *cd*, xxxvvii. *ab*:—**When a circumstance, even though delicate, is guessed some-how, and is intimated to another by some mark (indicative of it), it is termed the Subtle.**
 
-** *****Somehow— From some (1) appearance or (2) gesture.*
+** *Somehow— From some (1) appearance or (2) gesture.*
 
  Delicate— That can be known (only) by a man of sharp understanding.
 
@@ -5716,7 +5716,7 @@ there is mere non-attainment of the desired object, or (C) when there is mere at
 
   Kā. xlii :—**When the abode and the abider though smaller, are yet represented as greater than the abider and the abode, which are (themselves) great, that is (termed) the Exceeding.**
 
-** *****The abider is the thing contained, the abode is its container. When the container and the contained, although smaller, are yet represented as greater than the contained and the container, respectively; although these (*latter*) are intended as (themselves) great, with a view to intimate the excellence of the object under description, that is* **अधिक***which****is thus two-fold.*
+** *The abider is the thing contained, the abode is its container. When the container and the contained, although smaller, are yet represented as greater than the contained and the container, respectively; although these (*latter*) are intended as (themselves) great, with a view to intimate the excellence of the object under description, that is* **अधिक***whichis thus two-fold.*
 
 * Examples in order :—*
 
@@ -5734,7 +5734,7 @@ the latter, in order to intimate the excellence of the latter (i. e. the body of
 
   Kā. xliii—**When somebody unable to avenge himself on his enemy is represented as doing harm to one belonging to him, with a view to praise that very enemy, that is called the Rivalry.**
 
-** *****When some one, unable to directly punish an enemy, although he has done him an injury, (is represented as) punishing (another who is) dependent on him, with a view to prove that very enemy's superiority, that is termed* **प्रत्यनीक***;* so called *because, it is like the ally of an army. Just as one attacks, instead of an army* directly*, another who is an ally (1) of that (*army*) foolishly, or ([^88]*according to Pradipa's reading[^88]*)[^88]*¹[^88]*[][^88]*secretly, for fear of being killed by that army; *so here also, while an enemy is to be conquered, another (person) connected with him is conquered.* The connection between the enemy and his friend may be (1) Direct or (2) Indirect. Thus, the figure is of two kinds.
+** *When some one, unable to directly punish an enemy, although he has done him an injury, (is represented as) punishing (another who is) dependent on him, with a view to prove that very enemy's superiority, that is termed* **प्रत्यनीक***;* so called *because, it is like the ally of an army. Just as one attacks, instead of an army* directly*, another who is an ally (1) of that (*army*) foolishly, or ([^88]*according to Pradipa's reading[^88]*)[^88]*¹[^88]*[][^88]*secretly, for fear of being killed by that army; *so here also, while an enemy is to be conquered, another (person) connected with him is conquered.* The connection between the enemy and his friend may be (1) Direct or (2) Indirect. Thus, the figure is of two kinds.
 
 [^88]: "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा."
 
@@ -5748,7 +5748,7 @@ the latter, in order to intimate the excellence of the latter (i. e. the body of
 
   Kā. xliv:— **When a thing is concealed by another, through a mark, either (1) natural or (2) even adventitious, and common to both, that is said to be the Lost.**
 
-** *****If through some mark, which is natural or adventitious, and which is common (to both the thing to be concealed and the thing which conceals it), a thing is concealed by another by its very nature, on account of its superior power, that they call twofold* **मीलित**.
+** *If through some mark, which is natural or adventitious, and which is common (to both the thing to be concealed and the thing which conceals it), a thing is concealed by another by its very nature, on account of its superior power, that they call twofold* **मीलित**.
 
  Here, the disappearance (i. e. non-apprehension) of a thing is natural, on account of the thing being eclipsed by another thing which is similar to and more powerful than it. In **व्याजोक्ति¹[^93]**and **अपह्नुति**[^94]², however, this disappearance is not natural.
 
@@ -6080,7 +6080,7 @@ Aggregation of one
 
 figure of 'word' and one
 
-figure of 'sense', on the other hand, may be instanced in **सो णत्थि*******etc. verse 178. Here, in the first[^110]half, Alliteration—a figure of 'word,' and in the second half, (Metaphor) (***हृदयलुण्ठनम्***)— a figure of 'sense,' (exist) independent of each other.*
+figure of 'sense', on the other hand, may be instanced in **सो णत्थि***etc. verse 178. Here, in the first[^110]half, Alliteration—a figure of 'word,' and in the second half, (Metaphor) (***हृदयलुण्ठनम्***)— a figure of 'sense,' (exist) independent of each other.*
 
 [^110]: " अत्र पूर्वार्धेऽनुप्रासः, उत्तरार्धे हृदयलुण्ठनमिति रूपकम् । प्रभा."
 
@@ -6268,7 +6268,7 @@ gure of 'sense' and a fi
 
 gure of word' also, prominently reside in identical words, that is also another (kind of) Commixture. The word**स्फुटम्** in the Kārikā shows that if the figures are not prominent, they do not constitute this kind of Commixture.
 
- It is instanced in **स्पष्टोल्लसत्**etc. verse 184. *Here,two figures, i. e.***रूपक*******and* **अनुप्रास***reside in identical words,* twice in the compound word**स्पष्टोल्लसत्** etc. and once in**श्लिष्टाष्ट** etc. i. c. in the words **किरणकेसरसूर्यबिंबविस्तीर्णकर्णिक** and**दिग्दलकलाप**. A rule has been stated in the Kārikā that a figure of 'sense and a figure of 'word' reside in one and the same place; but this rule is only general, not universal; thus, two figures of 'word' may also reside in one and the same place; as in **कलकलो**etc.
+ It is instanced in **स्पष्टोल्लसत्**etc. verse 184. *Here,two figures, i. e.***रूपक***and* **अनुप्रास***reside in identical words,* twice in the compound word**स्पष्टोल्लसत्** etc. and once in**श्लिष्टाष्ट** etc. i. c. in the words **किरणकेसरसूर्यबिंबविस्तीर्णकर्णिक** and**दिग्दलकलाप**. A rule has been stated in the Kārikā that a figure of 'sense and a figure of 'word' reside in one and the same place; but this rule is only general, not universal; thus, two figures of 'word' may also reside in one and the same place; as in **कलकलो**etc.
 
  Here, **अनुप्रास** and **यमक** reside in identical words.
 
@@ -6319,7 +6319,7 @@ words. *It is impossible to divide Commixture in any other manner,* i. e. by tur
 
 the author of **अलंकारसर्वस्व** ) in accordance with the principle of the relation of the abode and the abider?
 
- We reply :— *Even though we accept the view that in whichever of these* (word,' 'sense,' or both) *a figure resides to that a figure belongs, still, we must* (ultimately) *accept the Laws of presences and absences themselves. For the particularrelation of the abode and the abider*, that is admitted to exist between figures' on the one hand and 'words', etc. on the other, *does not exist independently of these laws.* For instance, such a figure as****उपमा** abides in 'senses,' only because senses' being present, **उपमा** is present and 'senses' being absent**उपमा** is absent.
+ We reply :— *Even though we accept the view that in whichever of these* (word,' 'sense,' or both) *a figure resides to that a figure belongs, still, we must* (ultimately) *accept the Laws of presences and absences themselves. For the particularrelation of the abode and the abider*, that is admitted to exist between figures' on the one hand and 'words', etc. on the other, *does not exist independently of these laws.* For instance, such a figure asउपमा** abides in 'senses,' only because senses' being present, **उपमा** is present and 'senses' being absent**उपमा** is absent.
 
  If it be said:—The relation of the abode and the abider exists between 'figures' and 'word' etc. independently of these Laws, since this relation directly exists between them. Thus, for instance, **उपमा** directly abides in 'senses' and hence the relation of the abode and the abider between**उपमा** and 'senses' is independent of the Laws of presences and absences.
 
@@ -6439,11 +6439,11 @@ a word expressive of the common property assumes a grammatical form that require
 
  Difference of Gender no fault, is instanced in **गुणैरनर्ध्यैः** etc. Here, the common property **अनर्ध्यत्व** can be equally connected with both the **उपमेय** '**गुणैः**' and the **उपमान 'रत्नैः**', though the genders of the words expressive of both are different.
 
- Difference of Number no fault, is instanced in **तद्वेषो**etc. verse 194. Here, the common properties**असदृशः****, मधुरताभृतः**etc. can be equally connected with both the उपमेय वेष and the **उपमान** '**विभ्रम**'. (*Similarly) also, when there is a Difference of Tenses or Persons, or a Change of the Imperative Mood etc. the apprehension (of comparison) does not strike (us) as that of a thing possessed of a uniform nature in the manner in which it strikes us when there is no difference of Tenses etc. Thus, this Difference or Change also comes under Violation of Uniformity itself.*
+ Difference of Number no fault, is instanced in **तद्वेषो**etc. verse 194. Here, the common properties**असदृशः, मधुरताभृतः**etc. can be equally connected with both the उपमेय वेष and the **उपमान** '**विभ्रम**'. (*Similarly) also, when there is a Difference of Tenses or Persons, or a Change of the Imperative Mood etc. the apprehension (of comparison) does not strike (us) as that of a thing possessed of a uniform nature in the manner in which it strikes us when there is no difference of Tenses etc. Thus, this Difference or Change also comes under Violation of Uniformity itself.*
 
  Difference of Tenses is instanced in **अतिथिं नाम** etc. verse 195. *Here, (what is intended is):* **चेतना प्रसादं आप्नोति***but not* (**प्रसादं**) **आप**. *Thus, there is here a difference of Tenses.*
 
- Difference of Persons is instanced in **प्रत्यग्र**etc. verse 196. Here, (*what is intended is*) : **लता विभ्राजते** *but not* (**लता**)**विभ्राजसे**. *The latter part of the verb* **भ्राज्***, ie the termination* से*of the second person singular makes the verb* **भ्राज्**agree with the pronoun **त्वम्** understood referring to **वासवदत्ता**who is the person addressed in the verse. For, it is a rule that a word denoting a person addressed, agrees with a verb in the second person. Now, *since the latter part (**से**) makes the verb***भ्राज्*******agree with (the noun* **लता** *denoting) an object that is not addressed, (the second person of the verb) must be changed*
+ Difference of Persons is instanced in **प्रत्यग्र**etc. verse 196. Here, (*what is intended is*) : **लता विभ्राजते** *but not* (**लता**)**विभ्राजसे**. *The latter part of the verb* **भ्राज्***, ie the termination* से*of the second person singular makes the verb* **भ्राज्**agree with the pronoun **त्वम्** understood referring to **वासवदत्ता**who is the person addressed in the verse. For, it is a rule that a word denoting a person addressed, agrees with a verb in the second person. Now, *since the latter part (**से**) makes the verb***भ्राज्***agree with (the noun* **लता** *denoting) an object that is not addressed, (the second person of the verb) must be changed*
 
 
 

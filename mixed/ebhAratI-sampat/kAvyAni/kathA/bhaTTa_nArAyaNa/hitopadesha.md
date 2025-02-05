@@ -370,7 +370,7 @@ JAMES HAUGIITON WOODS
 *                                   
                         *
 
-**** **Book I. MITRALABHA (Acquisition of friends).**
+ **Book I. MITRALABHA (Acquisition of friends).**
 
 ** १** (अथ) is used to mark the beginning of anything. **२** On the summit of the palace. **३** Sitting at ease. सुजोपविष्ट=सुखेन उपविष्ट. तृ० त० **४** पुरस्तात् before, to. **५** By way of introduction. **६**The time of the talented passes in amusement derived from (the study of) poetry and science, and that of the foolish, in vice, sleep or quarelling. काव्यशास्त्रयोः विनोदेनष० त० **७** काककूर्मादीनां–(ब०) काककूर्मौ आदी येषां (प्राणिनां)तेषां–of animals foremost among whom were the crow and the tortoise. **८** विचित्र Strange, interesting, amusing. **९** कथ्यताम्—Imperative of the passive of कथ्10. \[The passive is always used where respect or reverence is to be shown\]; for instance—when an inferior has to tell anything to his superior, hewill never like this : गच्छ, एहि but गम्यतास् &c. **१०** प्रस्तूयते is, introduced, begun, commenced. **११** First, Chief. **१२** Excellent friends ( सुहृत्तमाः) though destitute of means and wealth, yet endowed with talent, quickly accomplish their purposes like the crow, tortoise, deer and mouse (in, the following story). असाधनाः(ब०); वित्तहीनाः तृ०त०; सुहृत्तमाः Superlative ofसुहृद्, the termination being affixed even to substantives. For काक— वत् another reading is काक—खवः; in this case it is in apposition to सुहत्तमाः :
 
@@ -526,7 +526,7 @@ JAMES HAUGIITON WOODS
 *                                   
                         *
 
-** १** तत् corresponds to यत्. **२** मारात्मक adj. Murderous deadly. **३** The dispositions of all should be tested (*lit*. are tested) and not other qualities; for (हि) having set aside or surpassed all other qualities, disposition stands at the head, that is, predominates. अतीत्य abs. from इ with अति 2 P. मूर्ध्निloc. sing. of मूर्धन् (*m*.) the head. **४** For the well-known (सः असौ) moon who sports about in the sky, who destroys all darkness, who has a thousand rays (कर) and moves in the centre of the stars (ज्योतिषां) iseclipsed (swallowed) by Ráhu through the order of fate. Who is able to wipe off or avoid what is written on the forehead (by fate) ? गगनविहारी-गगने विहरतीति० उप०. कल्मष ध्वंसं करोतीति० उप Similarly दशशतकरधारी, मध्यचारी &c. प्रोज्झितं****Inf of purpose form उज्झ 6 P. with प्र. **५** अतोहं &c. There fore I say &c. **६** Thoughtless, inconsiderate. **७** Well digested food, a very discreet son, a well disciplined wife an honestly served king, what is uttered after dee\] thought, and what is done after due deliberation—(thesedo not change (produce no contrary results) for the worse even for a long time.
+** १** तत् corresponds to यत्. **२** मारात्मक adj. Murderous deadly. **३** The dispositions of all should be tested (*lit*. are tested) and not other qualities; for (हि) having set aside or surpassed all other qualities, disposition stands at the head, that is, predominates. अतीत्य abs. from इ with अति 2 P. मूर्ध्निloc. sing. of मूर्धन् (*m*.) the head. **४** For the well-known (सः असौ) moon who sports about in the sky, who destroys all darkness, who has a thousand rays (कर) and moves in the centre of the stars (ज्योतिषां) iseclipsed (swallowed) by Ráhu through the order of fate. Who is able to wipe off or avoid what is written on the forehead (by fate) ? गगनविहारी-गगने विहरतीति० उप०. कल्मष ध्वंसं करोतीति० उप Similarly दशशतकरधारी, मध्यचारी &c. प्रोज्झितंInf of purpose form उज्झ 6 P. with प्र. **५** अतोहं &c. There fore I say &c. **६** Thoughtless, inconsiderate. **७** Well digested food, a very discreet son, a well disciplined wife an honestly served king, what is uttered after dee\] thought, and what is done after due deliberation—(thesedo not change (produce no contrary results) for the worse even for a long time.
 
 
 
@@ -700,7 +700,7 @@ JAMES HAUGIITON WOODS
 
 किंच।
 
-**^(४)मां****स****मूत्रपुरीषास्थिनिर्मितेस्मिन्कलेवरे।  
+**^(४)मांसमूत्रपुरीषास्थिनिर्मितेस्मिन्कलेवरे।  
 विनश्वरे विहायास्थां यशः पालय मित्र मे॥४४॥**
 
 अपरं च पश्य।
@@ -810,7 +810,7 @@ JAMES HAUGIITON WOODS
 
  तेना**^(१)**सौ जीवति। अथ कदाचिद्दीर्घकर्ण**^(२)**नामामार्जारः पक्षि**^(३)**शावकान्भक्षितुं तत्रागतः। ततस्तमायान्तं दृष्ट्वा पक्षिशावकैर्भया**^(४)**र्तैः कोला**^(५)**हलः कृतः। तच्छ्रुत्वा जरद्गवेनोक्तम्। कोयमायाति। दीर्घकर्णो गृध्रमवलोक्य स**^(६)**भयमाह। हा **^(७)**हतोस्मि। यतः।
 
-**^(८)****तावद्भयस्य भेतव्यं यावद्भयमनागतम्।  
+**^(८)तावद्भयस्य भेतव्यं यावद्भयमनागतम्।  
 आगतं तु भयं वीक्ष्य नरः कुर्याद्यथोचितम्॥५४॥**
 
 अधुनास्य संनिधा**^(९)**ने पलायितुमक्ष**^(१०)**मः। **^(११)**तद्यथा भवितव्यं तद्भवतु। **^(१२)**तावद्विश्वासमुत्पाद्यास्य समीपमुपगच्छामि। **^(१३)**इत्यालोच्योपसृत्याब्रवीत्। आर्य त्वामभिवन्दे। गृध्रोवदत्। कस्त्वम्। सोवदत्। मार्जारोहम्। गृध्रो ब्रूते। **^(१४)**दूरमपसर। नो चेद्ध**^(१५)**न्तव्योसि मया। मार्जारोवदत्। श्रूयतां तावदस्मद्वचनम्। **^(१६)**ततो यद्यहं वध्यस्तदा हन्तव्यः। यतः।
@@ -937,7 +937,7 @@ JAMES HAUGIITON WOODS
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-** १**Covertly, secretly.**२** In a certain part of the forest. वनस्य पकदेशे ष .त. **३** A field full of crops. तृ. त. **४** It being so done. *viz.*, when the field was shown to the deer. Mark the use of the Loc, Abs. **५** Every day, daily. अहनि अहनि इति= प्रत्यहम्अव्य०**६** Was laid, set up, P. P. of the caus, of युज् 7Pकाल and A. **७**कालः....त्****From these snares of the hunter (व्याधि पाशात्) solike the snares (or as If they were the snares); of death (काल). **८** In the meanwhile. **९** Approached or went near. (the dear); **१०** फलितां...... सिद्धि**:** As to the success of my desires, it has been accomplished by a series of frauds(कपटप्रबंधन). **११** एतस्य.... प्राप्तव्यानि.When he will be cut up (उत्कृत्यमानस्य) I shall certainly get his bonescovered all over with fleshand blood. Mark here the Gen. Abs. construction. It is equivalent to एतस्मिन् उत्कृत्यमाने or यदा अर्थ उत्कर्तिष्यते orउत्कृत्यते. मांसासाग्लिप्तानि (तृ. त.) मांसातृग्भ्यांलिप्तानि : **१२** In great abundance. बाहुल्य is an,abst. noun from \*\*\* *adj.* Much, many.**१३** Delighted. P. P. of the caus. of \*\*\* th 1P. with उद्. **१४** In the first place, first of all.**१५** One may test the fidelity of a friend in difficulties, the bravery of aperson in battle, honesty when there are debtsto be paidoff thefaithfulness of a wife when prosperity declines and (the affection of) relatives in calamities:
+** १**Covertly, secretly.**२** In a certain part of the forest. वनस्य पकदेशे ष .त. **३** A field full of crops. तृ. त. **४** It being so done. *viz.*, when the field was shown to the deer. Mark the use of the Loc, Abs. **५** Every day, daily. अहनि अहनि इति= प्रत्यहम्अव्य०**६** Was laid, set up, P. P. of the caus, of युज् 7Pकाल and A. **७**कालः....त्From these snares of the hunter (व्याधि पाशात्) solike the snares (or as If they were the snares); of death (काल). **८** In the meanwhile. **९** Approached or went near. (the dear); **१०** फलितां...... सिद्धि**:** As to the success of my desires, it has been accomplished by a series of frauds(कपटप्रबंधन). **११** एतस्य.... प्राप्तव्यानि.When he will be cut up (उत्कृत्यमानस्य) I shall certainly get his bonescovered all over with fleshand blood. Mark here the Gen. Abs. construction. It is equivalent to एतस्मिन् उत्कृत्यमाने or यदा अर्थ उत्कर्तिष्यते orउत्कृत्यते. मांसासाग्लिप्तानि (तृ. त.) मांसातृग्भ्यांलिप्तानि : **१२** In great abundance. बाहुल्य is an,abst. noun from \*\*\* *adj.* Much, many.**१३** Delighted. P. P. of the caus. of \*\*\* th 1P. with उद्. **१४** In the first place, first of all.**१५** One may test the fidelity of a friend in difficulties, the bravery of aperson in battle, honesty when there are debtsto be paidoff thefaithfulness of a wife when prosperity declines and (the affection of) relatives in calamities:
 
 
 
@@ -983,7 +983,7 @@ JAMES HAUGIITON WOODS
                                    
             * **
 
-**** **१** The factthat I am innocent is no reason i whyI should be confident (that no one : will injure me).Even the meritorious have cause for apprehension from wickedpeople.**२** A man should avoid that friend who mars his interests in his absence, and talks sweetly or agreeably in his presence, and who is, therefore, like a vessel full of poison and having milk on the surface. (only).. कार्यहन्तारं= कार्यस्य हतारं ष० त०, प्रियवादिनं उपपद. विषकुंभ ष० त० पयोमुखं : (ब०) पयोमुखे यस्य **३** Having fetched a deep sigh. **४**पापकर्मणां ( ब० ) पापं कर्म यस्य. **५** What cre lit is there in deceiving, or is it proper to deceive, those whom you have induced, by means of sweet words, to converse; with you confidently, whom you have won over by false homages, who are hopeful, who have placed implicit faith in you and who are supplicants? संलापित P. P. of tho caus, of लप् with सम् 1 P. **६** Oh goddess earth! how dost than bear (upon thy surface) that treacherous man who wrongs (पापं समाचरति) a benevolent, confiding and pure· hearted person? शुद्धमतौ (ब०) शुद्धा मतिः यस्य, असत्यसंधम् (ब०) न सत्या ( असत्या ) संधा यस्य तम्.
+ **१** The factthat I am innocent is no reason i whyI should be confident (that no one : will injure me).Even the meritorious have cause for apprehension from wickedpeople.**२** A man should avoid that friend who mars his interests in his absence, and talks sweetly or agreeably in his presence, and who is, therefore, like a vessel full of poison and having milk on the surface. (only).. कार्यहन्तारं= कार्यस्य हतारं ष० त०, प्रियवादिनं उपपद. विषकुंभ ष० त० पयोमुखं : (ब०) पयोमुखे यस्य **३** Having fetched a deep sigh. **४**पापकर्मणां ( ब० ) पापं कर्म यस्य. **५** What cre lit is there in deceiving, or is it proper to deceive, those whom you have induced, by means of sweet words, to converse; with you confidently, whom you have won over by false homages, who are hopeful, who have placed implicit faith in you and who are supplicants? संलापित P. P. of tho caus, of लप् with सम् 1 P. **६** Oh goddess earth! how dost than bear (upon thy surface) that treacherous man who wrongs (पापं समाचरति) a benevolent, confiding and pure· hearted person? शुद्धमतौ (ब०) शुद्धा मतिः यस्य, असत्यसंधम् (ब०) न सत्या ( असत्या ) संधा यस्य तम्.
 
 
 
@@ -1032,7 +1032,7 @@ JAMES HAUGIITON WOODS
 
 
 
-किं च****
+किं च
 
 **^(१)साधोः प्रकोपितस्यापि मनो नायाति विक्रियाम्।  
 न हि तापयितुं शक्यं सागराम्भस्तृणोल्कया॥८३॥**
@@ -1309,7 +1309,7 @@ subordinate sentence अयं मूषिक..... भक्षयति. **१
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-** १** As servitude destroys all self-respect, as moon-light dispells darkness, as old age destroys personal charms and as, the discourse on Hari and Hara destroys sin (दुरितं), so poverty destroys even a hundred good qualities or virtues. - हरिहरकथा (ष० त०) हरिहरयोः कथा. गुणशत also ष० त० गुणानां शतम्ः **२** Having thought or cogitated. **३**By the ball of rice, (that is food) given by others. परेषां पिंडेन ष० त० **४** Oh how hard ? **५** A door to death ; as bad as death itself. **६** Superficial knowledge, sexual enjoyment obtâined by regular purchase and food dependent on others—(these) three are mortifications to men-. पल्लवग्राहि (n) पल्लवान् गृह्णातीति—that which only touches the leaves and does not go to the root, and hence that which is confined to the surface, that is, superficial. क्रयक्रीत (तृ० त०) कृयेण क्रीतम्. **७** The existence of one who is diseased, of one who has long been in exile, of one who eats another's food and of one who sleeps in another's house, is death itself, and his death is his roal rest. चिरप्रवासी (उपपद ) चिरं प्रवसतीति परान्नभोजि Also उपपद परस्य अन्नं भुंक्ते इति. परस्य अवसथे शेते इति. उप. **८** अर्थ-अकरवम् I made another effort (ग्रहं ) to take or steal that wealth, *viz*., the food. **९** By****avarice the sense of a man goes wrong or totters, avarice produces an ardent desire to secure anything, and the man who is overcome by such a desire (तृषार्तो) becomes miserable (both) in the next world and here, ( that is, in this world), जनयते caus of जन्4 A. तृषार्ततृ. त
+** १** As servitude destroys all self-respect, as moon-light dispells darkness, as old age destroys personal charms and as, the discourse on Hari and Hara destroys sin (दुरितं), so poverty destroys even a hundred good qualities or virtues. - हरिहरकथा (ष० त०) हरिहरयोः कथा. गुणशत also ष० त० गुणानां शतम्ः **२** Having thought or cogitated. **३**By the ball of rice, (that is food) given by others. परेषां पिंडेन ष० त० **४** Oh how hard ? **५** A door to death ; as bad as death itself. **६** Superficial knowledge, sexual enjoyment obtâined by regular purchase and food dependent on others—(these) three are mortifications to men-. पल्लवग्राहि (n) पल्लवान् गृह्णातीति—that which only touches the leaves and does not go to the root, and hence that which is confined to the surface, that is, superficial. क्रयक्रीत (तृ० त०) कृयेण क्रीतम्. **७** The existence of one who is diseased, of one who has long been in exile, of one who eats another's food and of one who sleeps in another's house, is death itself, and his death is his roal rest. चिरप्रवासी (उपपद ) चिरं प्रवसतीति परान्नभोजि Also उपपद परस्य अन्नं भुंक्ते इति. परस्य अवसथे शेते इति. उप. **८** अर्थ-अकरवम् I made another effort (ग्रहं ) to take or steal that wealth, *viz*., the food. **९** Byavarice the sense of a man goes wrong or totters, avarice produces an ardent desire to secure anything, and the man who is overcome by such a desire (तृषार्तो) becomes miserable (both) in the next world and here, ( that is, in this world), जनयते caus of जन्4 A. तृषार्ततृ. त
 
 
 
@@ -1568,7 +1568,7 @@ by his lamentations at its loss ( हानौ ). असंभोगेन ब�
 
 अपरं च। सतं रह**^(४)**स्यंशृणु मित्र।
 
-**^(५)जनयन्त्यर्जने दुःखं तापयन्ति विपत्तिषु****।**  
+**^(५)जनयन्त्यर्जने दुःखं तापयन्ति विपत्तिषु।**  
 **मोहयन्ति च संपतौकथमर्थाः सुखावहाः॥१५८॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -1954,7 +1954,7 @@ greatest strength of aquatis: animals, fortresses; of those living in fortresses
 
 
 
-****अपरं च।
+अपरं च।
 
 **^(१)एहि गच्छ पतोत्तिष्ठ वद मौनं समाचर  
 एवमाशाग्रहग्रस्तैः क्रीडन्ति धनिनोर्थिभिः॥२३॥**
@@ -2290,7 +2290,7 @@ greatest strength of aquatis: animals, fortresses; of those living in fortresses
  **
 
 **^(                         १०)दन्तस्य निर्घर्षणकेन राज-  
-                     ****न्कर्णस्यः कण्डूयनकेन वापिः।  
+                     न्कर्णस्यः कण्डूयनकेन वापिः।  
                       तृणेन कार्यं भवतीश्वराणां  
                       किमङ्गाः वाक्पाणिमता नरेण॥६५॥**
 
@@ -3166,7 +3166,7 @@ estranged by a minister like a wristlet of orystal?.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**  १** True and false, harsh and sweet-speaking, cruel and merciful, greedy and bountiful, always spending and also obtaining wealth in large quantities-thus royal policy is of various forms like a harlot. अर्थपरा (ब.) अर्थः परं (प्रधानं) यस्याः साः; नित्यव्यया (ब.) नित्यं व्ययः यस्याः साः प्रचुररत्न धनागमा-प्रचूररत्नानां धनस्य च आगमः यस्या सा, ब. **२** Restored to his own self, become himself again.**३** At his ease. **४** Let there be this in addition. **५** Let सुहृद्भेद****there be in the houses of your enemies let the wicked being attacked by death, be destroyed from, day to day; let people be the recipients of every kind of happiness and prosperity, and let even children ever feel delight in these pleasant stories. **६** Thus ends the 2nd collection of stories in Hitoadesha called, सुहृद्भेद (breach of friendship or separation of friends).
+**  १** True and false, harsh and sweet-speaking, cruel and merciful, greedy and bountiful, always spending and also obtaining wealth in large quantities-thus royal policy is of various forms like a harlot. अर्थपरा (ब.) अर्थः परं (प्रधानं) यस्याः साः; नित्यव्यया (ब.) नित्यं व्ययः यस्याः साः प्रचुररत्न धनागमा-प्रचूररत्नानां धनस्य च आगमः यस्या सा, ब. **२** Restored to his own self, become himself again.**३** At his ease. **४** Let there be this in addition. **५** Let सुहृद्भेदthere be in the houses of your enemies let the wicked being attacked by death, be destroyed from, day to day; let people be the recipients of every kind of happiness and prosperity, and let even children ever feel delight in these pleasant stories. **६** Thus ends the 2nd collection of stories in Hitoadesha called, सुहृद्भेद (breach of friendship or separation of friends).
 
 
 
@@ -3365,7 +3365,7 @@ and meaning pure in family practices. **२**Are comprehended or included in Jam
 
 
 
-******॥कथा ४॥**
+**॥कथा ४॥**
 
 अस्त्युज्जयिनी**^(१)**वर्त्मप्रान्तरे प्लक्ष**^(२)**तरुः। तत्र हंसकाकौ निवसतः। कदाचिद्ग्रीष्मसमये **^(३)**परिश्रान्तः कश्चित्पथिकस्तत्र तरुतले धनुःकाण्डं संनिधाय सुप्तः। तत्र क्षणान्तरे तन्मुखाद्वृक्षच्छायाप**^(४)**गता। ततः सूर्यतेजसा तन्मुखं **^(५)**व्याप्तमवलोक्य तद्वृक्षस्थितेन हंसेन कृपया पक्षौ प्रसार्य पुनस्तन्मुखे छाया कृता। ततो निर्भरनि**^(६)**द्रासुखिना तेन मुखव्यादानं कृतम। अथ **^(८)**परसुखभसहिष्णुः स्व**^(९)**भावदौर्जन्येन स काक- स्तस्य मुखे पुरीषो**^(१०)**त्सर्गं कृत्वा पलायितः। ततो यावदसौ पान्थ उत्थायोर्ध्वं निरीक्षते तावत्तेनावलोकितो हंसः **^(११)**काण्डेन हतो व्यापादितः॥ **^(१२)**वर्तककथामपि कथयामि।
 
@@ -3962,7 +3962,7 @@ and meaning pure in family practices. **२**Are comprehended or included in Jam
 
 **^(३)मुदं विषादः शरदं हिमागम-  
 स्तमो विवस्वान्सुकृतं कृतघ्नता।  
-प्रियोपपत्****तिः शुचमापदं नयः  
+प्रियोपपत्तिः शुचमापदं नयः  
 श्रियः समृद्धा अपि हन्ति दुर्नयः॥१११॥**
 
 ततो मयाप्यालोचितम् प्रज्ञाहीनोयं राजा। नो चेत्कथं नीतिशास्त्रकथाकौमुदी**^(४)**वागुल्काभिस्तिमिरयति। यतः।
@@ -4151,7 +4151,7 @@ and meaning pure in family practices. **२**Are comprehended or included in Jam
 अपरं च।
 
 **^(४)नरेशे जीवलोकोयं निमीलति निमीलति।  
- ****उदेत्युदीयमाने च रवाविव सरोरुहम्॥१३८॥**
+ उदेत्युदीयमाने च रवाविव सरोरुहम्॥१३८॥**
 
  अथ कुक्कुटेनागत्य राजहंसस्य शरीरे खर तरनखाघातः कृतः। तदा सत्वरमुपसृत्य सारसेन स्वदेहा**^(५)**न्तरितो राजा जले क्षिप्तः। अथ कुकुटैर्नखप्रहारजर्जरीकृतेन सारसेन कुकुटसेना बहुशो हताः। पश्चात्सारसोपि चञ्चुप्रहारेण विभिद्य व्यापादितः। अथ चित्रवर्णो दुर्गं
 
@@ -4188,7 +4188,7 @@ and meaning pure in family practices. **२**Are comprehended or included in Jam
 
 
 
-******॥^(१)संधिः॥ **
+**॥^(१)संधिः॥ **
 
   पुनः कथारम्भकाले राजपुत्रैरुक्तम्। आर्य विग्रहः श्रुतोस्माभिः। संधिरधुनाभिधीय**^(२)**ताम्। विष्णुशर्मणोक्तम्। श्रूतयाम्। संधिमपि कथयामि यस्यायमाद्यः श्लोकः।
 
@@ -4326,7 +4326,7 @@ and meaning pure in family practices. **२**Are comprehended or included in Jam
 
 चित्रवर्णः पृच्छति। कथमेतत्। मन्त्री कथयति।
 
-******॥कथा ५॥**
+**॥कथा ५॥**
 
  अस्ति गौतमस्य महर्षेस्तपोवने **^(४)**महातपा नाम मुनिः। तेन मुनिना काकेन नीयमानो मूषिकशावको दृष्टः। ततः **^(५)**स्वभावदयात्मना तेन मुनिना नी**^(६)**वारकणैः संवर्धितः। ततो बिडालस्तं मूषिकं खादितुमुपधावति। तमवलोक्य मूषिकस्तस्य मुनेः क्रोडे**^(७)** प्रविवेश। ततो मुनिनोक्तम्। मुषिक त्वं मार्जरो भव। ततः स बिडालः **^(८)**कुक्कुरं दृष्ट्वापलायते। ततो मुनिनोक्तम्। कु**^(९)**क्कुराद्बिभेषि। त्वमेव कुकुरो भव। स च कुक्कुरो व्याघ्राद्विभेति। ततस्तेन मुनिना कुक्कुरो व्याघ्रः कृतः। अथ तं व्याघ्रं मुनिर्मूषिको**^(१०)**यमिति पश्यति। अथ तं मुनिं दृष्ट्वा व्याघ्रं च सर्वे वदन्ति। अनेन मुनिना मूषिको व्याघ्रतां नीतः। एतच्छ्रुत्वा स व्याघ्रोचिन्तयत्। यावदनेन मुनिना स्थातव्यं तावदिदं मेस्वरू^(**११**)पाख्याजनकीर्तिकरं न पलायिष्यते। इत्या-
 
@@ -4369,7 +4369,7 @@ and meaning pure in family practices. **२**Are comprehended or included in Jam
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** १** Resorting to another pond or lake. **२** one by one,****singly. **३** Desirous of eating the flesh of the crab rare to obtain (अपूर्व). **४** Placed, laid down **५** Full of the bones ' of fishes, (*lit.* thorns of fishes ). **६** Suitably to the occasion.. **७**.My plan is this. **८**Should be brought to us or given to us. **९** He, who feels delighted by thinking of an affair not yet come, meets with contempt as did the Bráhmana (in thefollowing story) whose pot was broken भग्नभांडः (ब.) भग्नानि भांडानि यस्य. **१०**The modern Devicotta.
+** १** Resorting to another pond or lake. **२** one by one,singly. **३** Desirous of eating the flesh of the crab rare to obtain (अपूर्व). **४** Placed, laid down **५** Full of the bones ' of fishes, (*lit.* thorns of fishes ). **६** Suitably to the occasion.. **७**.My plan is this. **८**Should be brought to us or given to us. **९** He, who feels delighted by thinking of an affair not yet come, meets with contempt as did the Bráhmana (in thefollowing story) whose pot was broken भग्नभांडः (ब.) भग्नानि भांडानि यस्य. **१०**The modern Devicotta.
 
 
 
@@ -5115,7 +5115,7 @@ with these, but should only fight,for these when fought with easily come within 
 **^(२)श्रीमान्धवलचन्द्रोसौ जीयान्माण्डलिको रिपून्।  
 येनायं संग्रह यत्नाल्लेखयित्वा प्रचारितः॥१३४॥**
 
-**^(३)****इति हितोपदेशे संधिर्नाम चतुर्थः कथासंग्रहः समाप्तः।**
+**^(३)इति हितोपदेशे संधिर्नाम चतुर्थः कथासंग्रहः समाप्तः।**
 
 **।^(४)समाप्तोयं हितोपदेशः।**
 

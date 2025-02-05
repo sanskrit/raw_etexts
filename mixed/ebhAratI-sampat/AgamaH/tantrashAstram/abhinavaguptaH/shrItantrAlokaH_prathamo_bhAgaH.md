@@ -5119,7 +5119,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2MjEwOTczODM
 
 **किमित्येतस्य** **शब्दस्य**  
 
-**नाधिकोऽर्थः****प्रकाशते।**
+**नाधिकोऽर्थःप्रकाशते।**
 
  अधिकः इति एतच्छब्दार्थात्॥
 

@@ -2922,7 +2922,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0ODk3NTI5ODU
 
 
 
-**** संस्कारं निरूपयति। संस्कारेति।
+ संस्कारं निरूपयति। संस्कारेति।
 
 **संस्कारभेदो वेगोऽथ  
 स्थितिस्थापकभावने।  

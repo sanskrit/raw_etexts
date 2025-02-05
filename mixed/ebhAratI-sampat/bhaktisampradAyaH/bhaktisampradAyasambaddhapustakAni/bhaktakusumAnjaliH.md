@@ -155,13 +155,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 ![](../books_images/U-IMG-17328995603.jpg)
 
 **I**. Mahamahopadhyaya Dr. GanganathaJha M.A., L.L.D., Retired Vice-Chancellor of the University of Allahabad.  
-***Acharya Siddhanta\****
+***Acharya Siddhanta\
 
 **II**. Brahmasri R. Krishnaswami Aiyar,M.A., B.L., Advocate, Viraraghavapuram, Tinnevelly.  
-***Pancharatnastotra\****
+***Pancharatnastotra\
 
 **III**. Vidyasagara, Vidyavachaspati, P. P.Subrahmanya Sastri, B.A. (Oxon)M.A. (Madras,) Professor of Sanskritand Comparative Philology, PresidencyCollege, and Curator, Government Oriental Manuscripts Library, Madras,  
-***Mandanamisra-Suresvara Identity.\****
+***Mandanamisra-Suresvara Identity.\
 
 **IV**. Brahmasri N. Chandrasekhara lyerB.A., B.L., District and Sessions Judge, Madura.  
 ***Sri Chandrasekhara Bharati***
@@ -172,7 +172,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 ***The Saint of Sringeri***
 
 **VI.**Mahamahopadhyaya, Vedantabhushana,Sastraratnakara Karungulam KrishnaSastrigal, Retired Principal, SanskritCollege, Mylapore.  
-***An Incident\****
+***An Incident\
 
 **VII.**Brahmasri K.G. Sesha Aiyer, B.A.,B.L., Retired High Court Judge, Trivandrum.  
 ***Glory of Sankara***
@@ -181,13 +181,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 ***SriChandrasekharaBharati'sVisit to Madura.***
 
 **IX.**Mimamsaratna A.V, GopalachariarM.A., B.L., Advocate, Trichinopoly.  
-***The Greatness and Glory of SriChandrasekhara Bharati Swamigal\****
+***The Greatness and Glory of SriChandrasekhara Bharati Swamigal\
 
 **X**. Brahmasri V. Krishnamacharyar,Sanskrit Pandit, Presidency College, Madras.  
-***Avidya in Advaita Vedanta\****
+***Avidya in Advaita Vedanta\
 
 **XI**.Brahmasri M.S. Mantresa Sarma,Editor, Kaiser-i-Hind. Bombay,  
-***Sadgurushodasi\****
+***Sadgurushodasi\
 
 
 
@@ -198,13 +198,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 ***My Master Sri ChandrasekharaBharati Swamigal.***
 
 **XIV.**Brahmasri A. SankaraSastrigal,Principal, V.D.S. Sanskrit College,Kallidaikurichi.  
-***Sri Gurumahima\****
+***Sri Gurumahima\
 
 **XV**. Mahamahopadhyaya, Kalaprapurna, TataSubbaraya Sastrigal, Vizianagaram.  
-***Vedasvarupam\****
+***Vedasvarupam\
 
 **XVI.**Mahamahopadhyaya, Abhinavabhattabana, Panditaraja R.V. Krishnamachariar, Kumbakonam.  
-***Acharyastavam\****
+***Acharyastavam\
 
 **XVII.** Brahmasri Gurubhakta-sikhamani,Sastra-prasara-bhushana T.K. Balasubrahmanya Aiyar, B.A., Srirangam.  
 ***The Greatness of Sringeri and ofthe Jagadgurus that adorned theVyakhyanasimhasana there.***
@@ -215,33 +215,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 ***Sri Chandrasekhara Bharati andSringeri.***
 
 **XIX.** Vidvacchirobhushana,VidyavisaradaKunigal Rama Sastri, Palace Dharmadhikari, Mysore.  
-***Sri Jagadguru Chandrasekharabharati Swamigal\****
+***Sri Jagadguru Chandrasekharabharati Swamigal\
 
 **XX**. Mahamahopadhyaya, Mimamsakanthirava, Brahmasri Vaidyanatha SastrigalProfessor of Mimamsa, Sanskrit College,Bangalore.  
-***Acharyanuti.\****
+***Acharyanuti.\
 
 **XXI**. Brahmasri P.S. VenkatachalaSastrigal, Principal, Jagadguru VedantaCollege, Kaladi.  
-***Ananda in Advaitavedanta.\****
+***Ananda in Advaitavedanta.\
 
 **XXII**. Brahmasri G. Srinivasa Aiyar, B.A.,B.L., Retired Judge of Mysore, Bangalore,  
-***Noteworthy Incidents in the life ofSri Chandrasekhara Bharati.\****
+***Noteworthy Incidents in the life ofSri Chandrasekhara Bharati.\
 
 **XXIII**. Mahamahopadhyaya N.S. Anantakrishna Sastrigal, Professor ofVedanta and Mimamsa, University ofCalcutta, Calcutta.  
-***Sri Bhagavatpadamahima.\****
+***Sri Bhagavatpadamahima.\
 
 
 
 **XXIV**. Brahmasri Pandit Subrahmanya Sastrigal, Shimoga.  
-***Charucharya.\****
+***Charucharya.\
 
 **XXV**. Diwan Bahadur K.S. RamaswamiSastrigal, RetiredDistrict Judge,Kumbakonam.  
-***Acharyanavaratnamalikastavam.\****
+***Acharyanavaratnamalikastavam.\
 
 **XXVI**. Brahmasri R. Krishnaswami AiyarM.A., B.L., Advocate, Tinnevelly.  
-***Gitasaragurvashtottarasatanamastotra.\****
+***Gitasaragurvashtottarasatanamastotra.\
 
 **XXVII**. Brahmasri Venkatesvara Sastrigal,Principal, Jagadguru Vidyasala, SankaraMutt, Bangalore.  
-***Sri Chandrasekharanakshatramala\****
+***Sri Chandrasekharanakshatramala\
 
 ***![](../books_images/U-IMG-1734679643Screenshot2024-12-20125634.png)***
 
@@ -1689,7 +1689,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **एधिषीष्ट चिरं श्रीमज्जगद्गुरुरुदारधीः।  
 एधिषीरन् जनाः सर्वे तत्पादयुगलाश्रयाः॥५४॥**
 
-**** अस्ति कर्णाटेषु प्रवर्षुकाम्भोधरमालामेदुरनभोबिभागः,विविधौषधलतासंतानबहुलारण्यपरिवृतप्रान्तरः, सर्वसंपन्निकेतनं, शाद्वलः, पङ्किलोऽनूपवान्, व्रीहिपालितः, शृङ्गगिरिसंज्ञितो भुवो विभागः। यश्च नितरां प्रीणयत्यन्तरात्मानं,संपन्नसस्यतया, निसर्गरुचिरतया, प्रशान्तपावनतया, जन्मभूमितया तुङ्गभद्रायाः, प्रशान्तनिकेतनतया विभाण्डकादिमहामुनीनां, क्रीडागारतया श्रीशारदाविलासानां,कोशभवनतया प्रकृतिसौन्दर्याणाम्। यस्मिन्नाजानपावने,निर्वैरप्रशान्ततपोवने, श्रीमच्छंकरभगवत्पादप्रतिष्ठापिताद्वैतव्याख्या-
+ अस्ति कर्णाटेषु प्रवर्षुकाम्भोधरमालामेदुरनभोबिभागः,विविधौषधलतासंतानबहुलारण्यपरिवृतप्रान्तरः, सर्वसंपन्निकेतनं, शाद्वलः, पङ्किलोऽनूपवान्, व्रीहिपालितः, शृङ्गगिरिसंज्ञितो भुवो विभागः। यश्च नितरां प्रीणयत्यन्तरात्मानं,संपन्नसस्यतया, निसर्गरुचिरतया, प्रशान्तपावनतया, जन्मभूमितया तुङ्गभद्रायाः, प्रशान्तनिकेतनतया विभाण्डकादिमहामुनीनां, क्रीडागारतया श्रीशारदाविलासानां,कोशभवनतया प्रकृतिसौन्दर्याणाम्। यस्मिन्नाजानपावने,निर्वैरप्रशान्ततपोवने, श्रीमच्छंकरभगवत्पादप्रतिष्ठापिताद्वैतव्याख्या-
 
 
 
@@ -2326,7 +2326,7 @@ ness of Sringeri, though his fame was eclipsed bythe glory of his disciple Vidya
 
 sought blessings from the Guru and got thosetreasures, and they were urged to found the cityas the capital of an empire.
 
- The above story is pieced together for the firsttime from the data of the *Rajakalanirnaya*[^1]****ofVidyaranya and the Chronicles[^2] of Barni and IbnBatuta, and of Nuniz[^3]. The Rajah of Kampili"fled for shelter to a fortress called Crynamatawhich was by the bank of the river and containedmuch provision and water." Five thousand mensecreted the property here. Sewell has consideredit possible that the first syllable represents the wordSri. I identify Crynamata with Srnga Matha.I also restore *Kampili* from Kambala of Barni'sprinted text, as Elliot has noted that the Mss. have*Kambila* which is Ibn Batuta's spelling for Kampili.The name of the Kampili Rajah is Ramanatha[^4],according to Nuniz and *Raja Paddhati*. He wascanonised and his is the Samadhi temple at Sringerinear that of Vidya Sankara. The event belongsto the year 1336. Vijayanagar was founded, andHarihara crowned on the 7th May 1337**¹**
+ The above story is pieced together for the firsttime from the data of the *Rajakalanirnaya*[^1]ofVidyaranya and the Chronicles[^2] of Barni and IbnBatuta, and of Nuniz[^3]. The Rajah of Kampili"fled for shelter to a fortress called Crynamatawhich was by the bank of the river and containedmuch provision and water." Five thousand mensecreted the property here. Sewell has consideredit possible that the first syllable represents the wordSri. I identify Crynamata with Srnga Matha.I also restore *Kampili* from Kambala of Barni'sprinted text, as Elliot has noted that the Mss. have*Kambila* which is Ibn Batuta's spelling for Kampili.The name of the Kampili Rajah is Ramanatha[^4],according to Nuniz and *Raja Paddhati*. He wascanonised and his is the Samadhi temple at Sringerinear that of Vidya Sankara. The event belongsto the year 1336. Vijayanagar was founded, andHarihara crowned on the 7th May 1337**¹**
 
 [^1]: "Madras Oriental Mss. No 12772."
 

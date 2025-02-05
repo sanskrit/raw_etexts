@@ -8600,7 +8600,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU4Nzg2MTI3
 
 न्यायकुसुमाञ्जलौ
 
-द्वितीयस्तबकः॥****
+द्वितीयस्तबकः॥
 
 
 

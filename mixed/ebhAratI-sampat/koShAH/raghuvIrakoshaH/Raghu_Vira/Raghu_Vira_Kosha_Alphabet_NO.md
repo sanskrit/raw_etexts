@@ -341,7 +341,7 @@ lesson)
 narrative style वर्णनात्मक शैली  
 narrow** *adj.* **संकीर्ण, सकरा, संकुचित**
 
-**too narrow definition** *Logic*****अव्याप्त लक्षण**
+**too narrow definition** *Logic*अव्याप्त लक्षण**
 
 **narrow blade संकीर्ण फलक  
 narrow-celled संकीर्ण-कोशावान्  
@@ -1441,7 +1441,7 @@ green हरि in hue, saturation and brilliance medium मध्य) **मध�
 **Nereis diversicolor बहुवर्ण वरुणकृमि**  
 **Nereis dumeridii** (in this species the prevailing colour is some shade of violet—PH. I.310)
 
-**जम्बु****वरुणकृमि**
+**जम्बुवरुणकृमि**
 
 **neriifolius** *Bot. Tax.* (with leaves like *Nerium* करवीर-प्रजाति) **करवीरपर्ण**  
 **Nerilla** *Zool.* (Gk. *neros* 'humid, fluid, swimmer'. Minute marine worms—PH. I.374) **नीरजीवि-**
@@ -1686,7 +1686,7 @@ neutralization क्लीबन** *n.*
 **neutralization fire निष्फलकारी गोलन  
 neutralization of lenses** *Ophthalmol.* **वीक्ष-क्लीबन**  
 **neutralization of lime चूर्णक-क्लीबन  
-neutralize** *vb.* **1.क्लीबन, क्लीब बनाना, 2.निष्फलन, निष्फल करना,****3.***Intern. Law* (to invest with
+neutralize** *vb.* **1.क्लीबन, क्लीब बनाना, 2.निष्फलन, निष्फल करना,3.***Intern. Law* (to invest with
 
 conventional or obligatory neutrality conferring inviolability by belligerents) **तटस्थ करना**
 
@@ -1947,7 +1947,7 @@ next working day आगामी कार्य-दिवस
 nexum Rom.** *Law* **संवित्ति** *f.* **(ancient word)  
 nexus** (bond of connection) **बन्धन** *n.*  
 **N.F.** (National Formulary) **रा.यो. (राष्ट्रिय योगसंहिता)  
-N.F.** (near fore) **** *Veter.* **अ.स.** (अग्र समीप)  
+N.F.** (near fore)  *Veter.* **अ.स.** (अग्र समीप)  
 **ngai camphor = 1.borneol वा-कर्र्पूव m.  
 N.G.O.** (non-gazetted officer) **अरा. अ.** (अराजपत्रित अधिकारी)  
 **N.H.P**. (nominal horse-power) **उ.अ.श.** (उपसन्न अश्व-शक्ति)  
@@ -2703,7 +2703,7 @@ nodal point** *Astron., Optics* **पात-बिन्दु** *m.*
 **nodal stele** *Bot.* **पर्वसन्धि-मध्यरम्भ  
 nodal time** *Astron.* **पातिककाल  
 nodding reed** *(Phragmites maxima)***मड** *m.* (Basu)  
-**noddy** (lit asimpleton') **मन्द-कुररी** *f.*****(it is a tame and stupid bird)  
+**noddy** (lit asimpleton') **मन्द-कुररी** *f.*(it is a tame and stupid bird)  
 **node 1.(gland) ग्रन्थि** *m.* (as in lymph node = lymphatic gland लसीका-ग्रन्थि),**2.**(aswelling)
 
 **प्रन्या** *f.,***3.***Bot.* **पर्वसन्धि** *m.,***4.***Astron.* **पात** *m.* ( from सूर्यसिद्धान्त)
@@ -4200,7 +4200,7 @@ obey** *vb.* **अनुवर्तन, आज्ञापालन, -पाल
 Obione portulacoides= Atriplex portulacoides**  
 **obiter dicta** (Lat. *obiter* 'on the way', fr. *ob+iter* 'going, walk, way') **प्रसंगोक्ति** *f.*  
 **obituary notice मृत्यु-संवाद** (Beng.)  
-**object 1.वस्तु** *n.,* **पदार्थ** *m.,*******2.प्रयोजन** *n.,* **3.***Law* **उद्देश्य** *n.* (Const.)  
+**object 1.वस्तु** *n.,* **पदार्थ** *m.,***2.प्रयोजन** *n.,* **3.***Law* **उद्देश्य** *n.* (Const.)  
 **object** *vb.* **आपत्ति करना** (उठाना)  
 **object-clause प्रयोजन-वाक्य** *n.*  
 **object glass =objective** *Astron.* **वस्तुवीक्ष  
@@ -6723,7 +6723,7 @@ oppasite train
 प्रतिगामी तरंगमाका  
 
 **oppositifolius** *Bot. Tax***.** (with leaves inserted on a stem opposite to each other) **अभिमुखपर्ण  
-opposition 1.विरोध** *m.* **2.****Pol., Pa*rl. Practice* **प्रतिपक्ष** *m.***3.***Astron.* **वियुति** *f.* **4.***Logic* **प्रतियोग** *m.*
+opposition 1.विरोध** *m.* **2.Pol., Pa*rl. Practice* **प्रतिपक्ष** *m.***3.***Astron.* **वियुति** *f.* **4.***Logic* **प्रतियोग** *m.*
 
 **contrary opposition विरुद्ध प्रतियोग  
 sub-contrary opposition अर्ध-विरुद्ध प्रतियोग  
@@ -6771,7 +6771,7 @@ opical convention काशिक रूढि
 optical cube = biprism युग्म-क्षेत्र** *n.*  
 **optical defects काशिक दोष  
 optical density प्रकाश-घनता  
-optical double = optical double star** *Astron * ****(****in nearly the same line of sight****)** एकदृष्टिरेख**
+optical double = optical double star** *Astron * (in nearly the same line of sight)** एकदृष्टिरेख**
 
 **युग्म-तारा** *f.*
 
@@ -6827,7 +6827,7 @@ optic organelle** *Zool.* **काशिक अंगिका
 optic papilla = optic disc  
 optic pedicle** *Zool.* **दृग्-वृन्त  
 optic radiations** *Anat.* **दृष्टि-तन्तुविकिरण  
-optics** (science of light) **काशिकी** *f.* ($\\sqrt{}$काश् to shine)****
+optics** (science of light) **काशिकी** *f.* ($\\sqrt{}$काश् to shine)
 
 **biological optics जीव-काशिकी  
 geometrical optics रैखिकीय काशिकी  
@@ -7577,8 +7577,8 @@ oriol yellow = alkali yellow
 Orion = Giant Hunter** *Astron.* **किरात** *m.*
 
 **α** **Orionis, var. = Betelgeuse = Betelgeux प्रथम किरात, चर** *m.,* **आर्द्रा** *f.*  
-**β****Orionis = Rigel द्वितीय किरात** *m.*  
-**γ****Orionis = Bellatrix तृतीय किरात** *m.*  
+**βOrionis = Rigel द्वितीय किरात** *m.*  
+**γOrionis = Bellatrix तृतीय किरात** *m.*  
 **δ** **Orionis = Mintaka चतुर्थ किरात** *m.*  
 **ε** **Orionis = Alnilam = Alnitham पञ्चम किरात** *m.*  
 **ζ** **Orionis = Alnitak षष्ठ किरात***m.*  
@@ -8058,7 +8058,7 @@ having the short लघु, slightly-angled ears कर्ण) **लघुकर
 
 possessing a horn शृंग composed of feathers on either side of the crown)
 
-**otocyst=statocyst = lithocyst** *Zool.*******उपलकोष्ठ** *m.*  
+**otocyst=statocyst = lithocyst** *Zool.***उपलकोष्ठ** *m.*  
 **Otolemur** (Gk. *otos* 'ear') *Zool.* **कर्णमर्कट-प्रजाति  
 otolith = earstone कर्णाश्म m.**
 
@@ -8167,9 +8167,9 @@ outer foil बाह्य पर्ण
 outer follicle cells** *Zool.* **बाह्य स्यूनिका-कोशा  
 outer hill बाह्य गिरि-बाहरी पहाड़ी  
 outer lamella बाह्य स्तर  
-outer layer= cortex बाह्यक** *n.***बाह्य******स्तर  
+outer layer= cortex बाह्यक** *n.***बाह्य**स्तर  
 onter leg** (in spherometer) *Phys.* **बाह्य पाद  
-onter limiting membranc** *Zool.***बाह्य******सीमा-कला  
+onter limiting membranc** *Zool.***बाह्य**सीमा-कला  
 outer molecular layer** *Zool.* **बाह्य जालिका-स्तर  
 outermost** *adj.* **बाह्यतम, सबसे बाहर का  
 ontermost layer बाह्यतम स्तर  
@@ -8192,7 +8192,7 @@ outflanking** *Mil.* **उत्पार्श्वन** *n.*
 **outflow 1 बहिर्वाह** *m.,***2.***Geoy.* **उत्प्रवाह** *m.*  
 **outgas** *vb.* **निर्वातीयन  
 outgoing** *adj***.** (going out) **बहिर्गामी** (-इन्) *n.,***जाने वाला  
-ontgoing** *n.* **(that which goos out, outlay, बहिर्गामि** (धन)*****n.* **व्यय** *m.* (see cost)  
+ontgoing** *n.* **(that which goos out, outlay, बहिर्गामि** (धन)*n.* **व्यय** *m.* (see cost)  
 **outgoing licensec बहिर्गामी अनुज्ञप्ति धारी  
 outgoing member बहिर्गामी सदस्य  
 outgoing proprictor बहिर्गामी अधिस्वामी  
@@ -8417,7 +8417,7 @@ ovariole** *Zool.* (one of the tubes or which the ovaries of most insects are co
 
 **अण्डाशयाल**
 
-*****m.* (अण्डाशय+नाल)
+*m.* (अण्डाशय+नाल)
 
 **ovariotomy** *Surg.* **अण्डाशयछेदन** *n.*  
 **ovaritis** *Med.* **अण्डाशयकोप** *m.*  

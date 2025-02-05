@@ -372,7 +372,7 @@ says that Brahman as Intelligence is the materialcause would be contradicted and
 
 the author proposes to do in this Uttara-Mimâmsâwork of his.
 
- Coming to Nimbârka, his line of argument onthese Sutras relating to the causality of Brahman isto establish the Bhedâbheda doctrine. Sutra 2. 1. 18he interprets first like Sankara. But in Sutra 14the word 'अनन्यत्वम्' he interprets as 'न तु अत्यन्तभिन्नत्वम्'****'not absolutely different.' That is, the effect is notabsolutely differnt from the cause: it has no separateexistence from Brahman. Thus from Sutra 13 whichsays that Brahman and the Jiva are different, Sutras4-6 which say that the insentient world is differentfrom It and Sutra 14 which says that they have noseparate existence apart from Brahman, Nimbârkaconcludes that between Brahman and the sentientand insentient world there is difference as well asnon-difference. But such a thing in one and thesame entity is impossible. The Chhândogya text saysthat the clay alone is real and not the things madeof clay, for they are mere names, unreal. Takefor example a clay pot; when we cognize it as a potwe are not conscious of its being clay and whenwe cognize it as clay we miss the pot, though boththese aspects are inherent in it. So we have to conclude that its nature is illusory, for it is not cognizedas what it is. That which is non-different from athing and yet appears to be different and whichdepends upon the non-difference for its existence cannot but be illusory. So between the pot and the  
+ Coming to Nimbârka, his line of argument onthese Sutras relating to the causality of Brahman isto establish the Bhedâbheda doctrine. Sutra 2. 1. 18he interprets first like Sankara. But in Sutra 14the word 'अनन्यत्वम्' he interprets as 'न तु अत्यन्तभिन्नत्वम्''not absolutely different.' That is, the effect is notabsolutely differnt from the cause: it has no separateexistence from Brahman. Thus from Sutra 13 whichsays that Brahman and the Jiva are different, Sutras4-6 which say that the insentient world is differentfrom It and Sutra 14 which says that they have noseparate existence apart from Brahman, Nimbârkaconcludes that between Brahman and the sentientand insentient world there is difference as well asnon-difference. But such a thing in one and thesame entity is impossible. The Chhândogya text saysthat the clay alone is real and not the things madeof clay, for they are mere names, unreal. Takefor example a clay pot; when we cognize it as a potwe are not conscious of its being clay and whenwe cognize it as clay we miss the pot, though boththese aspects are inherent in it. So we have to conclude that its nature is illusory, for it is not cognizedas what it is. That which is non-different from athing and yet appears to be different and whichdepends upon the non-difference for its existence cannot but be illusory. So between the pot and the  
 clay, the latter alone is real and not the pot.
 
 
@@ -1110,7 +1110,7 @@ made to refer to Brahman and not to the deity of the solar orb and accordingly t
 
 ** 22. (The word) Âkâsa (ether) (is Brahman) on account of the characteristic marks of That (i.e. Brahman) (being mentioned).**
 
-**** “‘What is the goal of this world?’ ‘Âkâsa,’ he replied. For all these beings take their rise from Âkâsa, only and dissolve in it. Âkâsa is greater than these. It is their ultimate goal. It indeed is the Supreme Udgitha.... He who knowing this as such meditates on the Supreme Udgitha . . .”(Chh. 1. 9. 1-2). Here ‘Âkâsa,’ refers to Brahman and not to the elemental Âkâsa (ether), as the characteristics of Brahman, namely, the rise of the entire creation from it and its return to it at dissolution are mentioned. No doubt these marks may also refer to the ether, as the scriptures say that from the ether is produced air, from air fire, etc., and they return to the ether at the end of a cycle. But then
+ “‘What is the goal of this world?’ ‘Âkâsa,’ he replied. For all these beings take their rise from Âkâsa, only and dissolve in it. Âkâsa is greater than these. It is their ultimate goal. It indeed is the Supreme Udgitha.... He who knowing this as such meditates on the Supreme Udgitha . . .”(Chh. 1. 9. 1-2). Here ‘Âkâsa,’ refers to Brahman and not to the elemental Âkâsa (ether), as the characteristics of Brahman, namely, the rise of the entire creation from it and its return to it at dissolution are mentioned. No doubt these marks may also refer to the ether, as the scriptures say that from the ether is produced air, from air fire, etc., and they return to the ether at the end of a cycle. But then
 
 
 
@@ -1149,7 +1149,7 @@ Brahman.The Sutra says that ‘light’ here does not mean physical light which 
 **छन्दोऽभिधानान्नेति चेत्, न, तथा चेतोऽर्पणनिगदात्,  
 तथा हि दर्शनम्॥२५॥**
 
-****छन्दोऽभिधानात् The metre (Gâyatri) being mentioned न is not इति चेत् if it be said न no तथा in that way चेतोऽर्पणनिगदात् the application of the mind has been inculcated तथा हि for so दर्शनम् it is seen (in other texts).
+छन्दोऽभिधानात् The metre (Gâyatri) being mentioned न is not इति चेत् if it be said न no तथा in that way चेतोऽर्पणनिगदात् the application of the mind has been inculcated तथा हि for so दर्शनम् it is seen (in other texts).
 
 
 
@@ -1189,7 +1189,7 @@ Therefore Brahman is meant here, and not the metre Gâyatri.
 
  **28. Prâna is Brahman, it being so comprehended (from the purport of the texts).**
 
-**** In the previous topic the fact that Brahman's three feet (quarters) were spoken of in an earlier
+ In the previous topic the fact that Brahman's three feet (quarters) were spoken of in an earlier
 
 
 
@@ -1267,7 +1267,7 @@ of Upâsanâ or meditation in the text, “All this indeed is Brahman, for it ha
 
 ** अनुपपत्तेस्तु न शारीरः॥३॥**
 
-**** अनुपपत्तेः Because (they) are not appropriate on the other hand न is not शरीरः the individual soul.
+ अनुपपत्तेः Because (they) are not appropriate on the other hand न is not शरीरः the individual soul.
 
 ** 3. On the other hand the individual soul is not (referred to by the text) because these qualities are not appropriate (to it).**
 
@@ -1636,7 +1636,7 @@ which is all-pervading and can also be conceivedof as a person.
 
 **द्युभ्वाद्यायतनं स्व-शव्दात्॥१॥**
 
- द्यु-भू-आदि-आयतनम् The resting-place of heaven, earth, etc. स्व-शव्दात्****on account of the word ‘Self’.
+ द्यु-भू-आदि-आयतनम् The resting-place of heaven, earth, etc. स्व-शव्दात्on account of the word ‘Self’.
 
  **1. The resting-place of heaven, earth, etc. (is Brahman) on account of the word ‘Self’ (or on account of the actual words of the Sruti) (designating this restingplace).**
 
@@ -2063,7 +2063,7 @@ Jânasruti is mentioned with the Kshatriya Chaitraratha Abhipratârin in connect
 
 **तदभावनिर्धारणे च प्रवृत्तेः॥३७॥**
 
-  तदभाव-निर्धारणे On the ascertainment of the absence of that (Sudrahood) च and****प्रवृत्तेः from inclination.
+  तदभाव-निर्धारणे On the ascertainment of the absence of that (Sudrahood) च andप्रवृत्तेः from inclination.
 
 
 
@@ -2945,7 +2945,7 @@ the Sruti are true. It is on this basis that the apparently contradictory texts 
 
 **वैषम्यनैर्घृण्ये न, सापेक्षत्वात्, तथा हि दर्शयति॥३४॥**
 
- वैषम्यनैर्घृण्ये****Partiality and cruelty न not सापेक्षत्वात् on account of Its taking into consideration (other reasons) तथा so हि because दर्शयति declares.
+ वैषम्यनैर्घृण्येPartiality and cruelty न not सापेक्षत्वात् on account of Its taking into consideration (other reasons) तथा so हि because दर्शयति declares.
 
  **34. Partiality and cruelty cannot (be attributed to Brahman) on account of Its taking into consideration (other reasons in that matter), because (the scripture) declares (it to be) so.**
 
@@ -3456,7 +3456,7 @@ many"etc. (Taitt. 2. 6), which shows that the Lord is both the efficient and the
 
 **अधिष्ठानानुपपत्तेश्च ॥३९॥**
 
- अधिष्ठान-अनुपपत्तेःRulership being impossible च****and.
+ अधिष्ठान-अनुपपत्तेःRulership being impossible चand.
 
  **39. And on account of the rulership (of the Lord) being impossible.**
 
@@ -3554,9 +3554,9 @@ be many, may I grow forth. It sent forth fire" (6. 2. 3). Here there is no menti
 
 **अस्ति तु ॥२॥**
 
-**** अस्ति There is तु but.
+ अस्ति There is तु but.
 
-**** **2. But there is (a Sruti text which states that Akâsa is created).**
+ **2. But there is (a Sruti text which states that Akâsa is created).**
 
  The opponent in this Sutra anticipates a possible objection against his arguments advanced in Sutra 1, and explains it away in Sutra 3. The text referred to here is, "From that Self (Brahman) sprang Akâsa (ether)" etc. (Taitt. 2. 1).
 
@@ -3574,7 +3574,7 @@ be many, may I grow forth. It sent forth fire" (6. 2. 3). Here there is no menti
 
  शब्दात् From the Sruti texts च also.
 
-**** **4. Also from the Sruti texts (we find that Akasa is eternal).**
+ **4. Also from the Sruti texts (we find that Akasa is eternal).**
 
  In the last Sutra Akasa was inferred to be eternal. Here the opponent cites a Sruti text to show that it is eternal. The text referred to is, "(And the formless are) Vêyu and Akâsa—these are immortal" (Brih. 2. 3. 3). Being immortal or eternal, it cannot have a beginning.
 
@@ -4197,7 +4197,7 @@ is not likely. Even this cannot stand; since every soul is all-pervading and the
 
 **अणवश्व ॥७॥**
 
-****  अणवः Minute च and.
+  अणवः Minute च and.
 
 **  7. And (they are) minute.**
 
@@ -4226,7 +4226,7 @@ from air and sense functions. ***
 
 **न वायुक्रिये, पृथगुपदेशात्॥९॥**
 
-**** न वायुक्रिये Not air nor function पृथक् separately on उपदेशात् account of its being mentioned.
+ न वायुक्रिये Not air nor function पृथक् separately on उपदेशात् account of its being mentioned.
 
  **9. (The chief Prâna) is neither air nor any function (of the organs) on account of its being mentioned separately.**
 
@@ -4300,7 +4300,7 @@ mouth" (Ait. Ar. 2. 4. 2. 4). The organs etc., being inert, cannot move of thems
 
 **प्राणवता, शब्दात्॥१५॥**
 
-**** प्राणवता With the one possessing the Prânas (organs) शब्दात्
+ प्राणवता With the one possessing the Prânas (organs) शब्दात्
 from the scriptures.
 
  **15. (The gods are not the enjoyers, but the soul, because the organs connected ) with the one (i.e. the soul) possessing them, (as is known) from the scriptures.**
@@ -4395,7 +4395,7 @@ which go with it (Vide Brih. 4. 4. 2) cannot accompany it unless there is a mate
 
 **प्राणगतेश्च॥३॥**
 
-**** प्राणगतेः Because of the going of the sense-organs च and.
+ प्राणगतेः Because of the going of the sense-organs च and.
 
 
 
@@ -4417,7 +4417,7 @@ follows; when the vital force departs, all the organs follow" (Brih. 4. 4. 2). H
 
 **प्रथमेऽश्रवणादिति चेत्, न ता एव हि, उपपत्तेः॥५॥**
 
-**** प्रथमे In the first of the oblations अश्रवणात् not being mentioned इति चेत् if it be said न not so ताः एव that only (i.e. water)हि because उपपत्तेःon account of the appropriateness.
+ प्रथमे In the first of the oblations अश्रवणात् not being mentioned इति चेत् if it be said न not so ताः एव that only (i.e. water)हि because उपपत्तेःon account of the appropriateness.
 
 ** 5. If it be objected on account of (water) not being mentioned in the first of the oblations, (we say) not so, because that (viz. water) only (is meant by the word 'Sraddhâ') on account of the appropriateness (of such an interpretation).**
 
@@ -4429,7 +4429,7 @@ called Sraddhâ in the Sruti texts: "Sraddhâ indeed is water" (Taitt. Sam. 1. 6
 
 **अश्रुतत्वादिति चेत्, न इष्टादिकारिणां प्रतीतेः॥६॥**
 
-**** अश्रुतत्वात् On account of not being mentioned in the Sruti इति चेत् if it be said न not so इष्टादिकारिणाम् the performers of sacrifices etc. प्रतीतेः being understood.
+ अश्रुतत्वात् On account of not being mentioned in the Sruti इति चेत् if it be said न not so इष्टादिकारिणाम् the performers of sacrifices etc. प्रतीतेः being understood.
 
  **6. If it be said that on account of (the soul) not being mentioned in the text (the soul does not depart enveloped with water etc.), (we say) not so, for it is under-stood (from the scriptures) that the Jivas who perform sacrifices etc. (alone go to heaven).**
 
@@ -4460,7 +4460,7 @@ residual Karma, which determines their birth.***
 
 ** **कृतात्यये On the exhaustion of ( good) work अनुशयवान् possessed of residual Karma दृष्टस्मृतिभ्याम् as is known from the Sruti and Smriti यथा स्थानas (it) went अनेवम् differently चand
 
-**** **8. On the exhaustion of (good) work (the soul) with the residual Karma (descends to this earth), as is known from the Sruti and Smriti, along the path (it) went by (from here) and differently too**
+ **8. On the exhaustion of (good) work (the soul) with the residual Karma (descends to this earth), as is known from the Sruti and Smriti, along the path (it) went by (from here) and differently too**
 
   A fresh topic is taken up for discussion—the descent of the soul from heaven. The question is raised whether it descends with any residual Karma or not. The opponent holds that there is no residual Karma, for Sruti says: "Having dwelt there till their work is consumed, they return again the way they went by" etc. (Chh. 5. 10. 5), which means that all their Karma is exhausted and there is nothing left. Moreover, it is reasonable to think that Karma
 
@@ -4509,9 +4509,9 @@ actions do not entitle them to go to the lunar world.***
 
 **अनिष्टादिकारिणामपि च श्रुतम्॥१२॥**
 
- ****अनिष्टादिकारिणाम् Of those who do not perform sacrifices etc अपि even च also श्रुतम्is declared by the Sruti.
+ अनिष्टादिकारिणाम् Of those who do not perform sacrifices etc अपि even च also श्रुतम्is declared by the Sruti.
 
-** ****12. The Sruti declares (the going to the lunar world etc.) also of even those who do not peform sacrifices etc.**
+** 12. The Sruti declares (the going to the lunar world etc.) also of even those who do not peform sacrifices etc.**
 
   Now the question of those who do not perform sacrifices etc. is taken up for discussion. The opponent holds that even they go to heaven, though they may not enjoy there like the performers of sacrifices etc., because they too require the fifth oblation for a new birth, and also because the scriptures directly say that all go to heaven: "All who depart from this world go to the moon" (Kau. 1. 2).
 
@@ -4556,7 +4556,7 @@ actions do not entitle them to go to the lunar world.***
 
 **विद्याकर्मणोरिति तु प्रकृतत्वात्॥१७॥**
 
-** **विद्याकर्मणोःOf knowledge and work इति thus तु but****प्रकृतत्वात् account of their being the subject under discussion.
+** **विद्याकर्मणोःOf knowledge and work इति thus तु butप्रकृतत्वात् account of their being the subject under discussion.
 
  **17. But (the reference is to the two roads) of knowledge and work; thus (we have to understand) on account of their being the subject under discussion.**
 
@@ -4590,7 +4590,7 @@ universal, but applies only to those who perform sacrifices.
 
 **दर्शनाच्च॥२०॥**
 
-**** दर्शनात् On account of observation च also.
+ दर्शनात् On account of observation च also.
 
 **  20. Also on account of observation.**
 
@@ -4628,7 +4628,7 @@ similarity of nature.* **
 
  न Not अतिचिरेण in very long time विशेषात् on account of the special declaration.
 
- ******23. (The soul's descent from the moon through the various stages up to the earth takes) not very long time, on account of a special declaration (of the Srutis with respect to the stages after that as taking time).**
+ **23. (The soul's descent from the moon through the various stages up to the earth takes) not very long time, on account of a special declaration (of the Srutis with respect to the stages after that as taking time).**
 
  The question is raised whether the descending soul, when it attains similarity of nature with ether, air, etc., remains in those stages pretty long, or attains the next stages quickly one after another. This Sutra says that it passes through them quickly. "Then he is born as rice and corn, herbs and trees, sesamum and beans. From thence the escape is beset with many more difficulties" (Chh. 5. 10. 6). Thus the stages after coming down on earth through rain the Sruti particularly characterizes as hard to escape from, thereby hinting that the escape from the earlier stages is easy and attained quickly.
 
@@ -4654,15 +4654,15 @@ they only get connected with them and do not
 
 ** **अशुद्धम् Unholy इति चेत् if it be said न not so शब्दात् on account of scriptural authority,
 
-**** **25. If it be said (that sacrifices, which entail the killing of animals etc.) are unholy, (we say) not so, on account of scriptural authority.**
+ **25. If it be said (that sacrifices, which entail the killing of animals etc.) are unholy, (we say) not so, on account of scriptural authority.**
 
  This Sutra refutes the point raised by the opponent in the previous Suɩra that the descending soul is enveloped by its bad Karma such as the killing of animals in sacrifices and so is born as herbs etc. The killing of animals etc. in sacrifices does not entail any bad Karma for the person, for it is sanctioned by the scriptures.
 
 **रेतः सिग्योगोऽथ॥२६॥**
 
-**** रेतः सिक-योगो Connection with one who performs the act of generation अथ then.
+ रेतः सिक-योगो Connection with one who performs the act of generation अथ then.
 
-**** **26. Then (the soul gets) connected with him who performs the act of generation.**
+ **26. Then (the soul gets) connected with him who performs the act of generation.**
 
  "For whoever eats food and performs the act of generation, (the soul) becomes one with him" (Chh. 5. 10. 6). Here the soul's becoming literally "
 
@@ -4672,9 +4672,9 @@ identical with the person is impossible, and we have to understand that it gets 
 
 **योनेः शरीरम् ॥२७॥**
 
- ****योनेःFrom the womb शरीरम् body.
+ योनेःFrom the womb शरीरम् body.
 
-** ****27. From the womb a (new) body (results).**
+** 27. From the womb a (new) body (results).**
 
  Finally the actual birth of the soul is referred to in this Sutra. Till now it was only a connection with the successive stages, but now through its connection with a person performing the act of generation the soul enters the woman and there gets a new body fit for experiencing the results of its past residual Karma.
 
@@ -4688,7 +4688,7 @@ identical with the person is impossible, and we have to understand that it gets 
 
 * **Topic 1: The soul in the dream state.** *
 
-**संध्ये सृष्टिराहहि****॥१॥**
+**संध्ये सृष्टिराहहि॥१॥**
 
  संध्ये In the intermediate stage (between waking and deep sleep, i.e in the dream state) सृष्टिः (there is real) creation आह(Sruti) says so हिbecause.
 
@@ -4702,9 +4702,9 @@ identical with the person is impossible, and we have to understand that it gets 
 
 **निर्मातारं चैके, पुत्रादयश्च॥२॥**
 
-**** निर्मातारंCreator चand एकेsome (the followers of particular Sâkhâs of the Vedas) पुत्रादयःsons etc. च and.
+ निर्मातारंCreator चand एकेsome (the followers of particular Sâkhâs of the Vedas) पुत्रादयःsons etc. च and.
 
-**** **2. And some (Sâkhâs or recensions) (state the Self or the Supreme Lord to be) the creator (of objects of desires while we are asleep) and (objects of desires there stand for) sons etc.**
+ **2. And some (Sâkhâs or recensions) (state the Self or the Supreme Lord to be) the creator (of objects of desires while we are asleep) and (objects of desires there stand for) sons etc.**
 
  A further argument is given by the opponent that the creation even in dreams is by the Lord
 
@@ -4714,7 +4714,7 @@ Himself. "He who is awake in us shaping objects of desire while we are asleep . 
 
 **मायामात्रं तु, कार्त्स्न्येनानभिव्यक्तस्वरूपत्वात्॥३॥**
 
-**** मायामात्रं Mere illusion तु but कात्स्र्त्रेनin toto अनभिव्यक्तस्वरूपत्वात् on account of its nature not being manifest.
+ मायामात्रं Mere illusion तु but कात्स्र्त्रेनin toto अनभिव्यक्तस्वरूपत्वात् on account of its nature not being manifest.
 
  **3. But (the dream world is) mere illusion, on account of its nature not being manifest with the totality (of attributes of the waking state).**
 
@@ -4726,7 +4726,7 @@ the midnight proper time for an eclipse of the sun seen in a dream, nor can we c
 
 **सूचकश्च हि श्रुतेः, आचक्षते च तद्विदः॥४॥**
 
-**** सूचकःOmen च but हि for श्रुतेःfrom the Sruti आचक्षते say च also तद्विद experts in dream-reading.
+ सूचकःOmen च but हि for श्रुतेःfrom the Sruti आचक्षते say च also तद्विद experts in dream-reading.
 
 ** 4. But (though the dream-world is an illusion) yet it serves as an omen, for (so we find) in the Sruti, (and) expert dream-readers also say (thus).**
 
@@ -4752,9 +4752,9 @@ and gets manifested only when in the state of medita- tion on the Lord this igno
 
 **देहयोगाद्वा सोऽपि॥६॥**
 
-**** देहयोगात् From its connection with the body वाand सःthat (the covering of its rulership) अपि also
+ देहयोगात् From its connection with the body वाand सःthat (the covering of its rulership) अपि also
 
- ******6. And that (the covering of the soul's rulership) also (results) from its connection with the body.**
+ **6. And that (the covering of the soul's rulership) also (results) from its connection with the body.**
 
  A cause for this covering up of the soul's rulership is given; and that is its connection with the body etc. Because of these limiting adjuncts, the result of nescience, its knowledge and rulership remain hidden, and this lasts so long as it erroneously thinks itself as the body etc. Hence though the soul is not different from the Lord, its powers remain hidden.
 
@@ -4766,7 +4766,7 @@ and gets manifested only when in the state of medita- tion on the Lord this igno
 
 **तदभावो नाडीषु, तच्छ्रुतेः, आत्मनि च॥७॥**
 
-**** तत्-अभावःAbsence of that (dreaming), in other words Sushupti नाडीषु in the nerves आत्मनि च and in the Self तत्श्रुतेः as it is known from the Sruti.
+ तत्-अभावःAbsence of that (dreaming), in other words Sushupti नाडीषु in the nerves आत्मनि च and in the Self तत्श्रुतेः as it is known from the Sruti.
 
  **7. The absence of that (dreaming, i.e. dreamless sleep takes place) in the nerves and in the Self, as it is known from the Sruti.**
 
@@ -4786,7 +4786,7 @@ Prâna (Brahman) alone" (Kau. 4. 20). Hence Brahman is the soul's place of rest 
 
 **अतः प्रबोधोऽस्मात्॥८॥**
 
-**** अतःHence प्रबोधःawakening अस्मात् from this.
+ अतःHence प्रबोधःawakening अस्मात् from this.
 
  **8. Hence the awakening from this (i.e. Brahman).**
 
@@ -4796,7 +4796,7 @@ Prâna (Brahman) alone" (Kau. 4. 20). Hence Brahman is the soul's place of rest 
 
 **स एव तु,कर्मानुस्मृति-शब्दविधिभ्यः॥९॥**
 
-**** स एव The selfsame soul तु but कर्म-अनुस्मृति-शब्द-विधिभ्यः on account of Karma, memory, scriptural authority, and precept.
+ स एव The selfsame soul तु but कर्म-अनुस्मृति-शब्द-विधिभ्यः on account of Karma, memory, scriptural authority, and precept.
 
  **9. But the selfsame soul (returns from Brahman after Sushupti) on account of work, memory, scriptural authority, and precept.**
 
@@ -4832,7 +4832,7 @@ It is a separate state, though it happens occasionally, and the reason why it is
 
 **न स्थानतोऽपि परस्योभयलिङ्गम्, सर्वत्र हि॥११॥**
 
-**** न Not स्थानतःfrom ( difference of) place अपि even परस्य of Brahman उभयलिङ्ग' twofold characteristic हि because सर्वत्र throughout (the scriptures teach other- wise).
+ न Not स्थानतःfrom ( difference of) place अपि even परस्य of Brahman उभयलिङ्ग' twofold characteristic हि because सर्वत्र throughout (the scriptures teach other- wise).
 
 
 
@@ -4846,7 +4846,7 @@ less as Its true nature, for throughout the scriptures we find Brahman so descri
 
 **न भेदादिति चेत्, न, प्रत्येकमतद्वचनात्॥१२॥**
 
-**** न Not so भेदात्on account of difference (being taught in the scriptures) इति चेत् if it be said नnot so प्रत्येकम् with respect to each अतद्वचनात् because of the declaration of the opposite of that.
+ न Not so भेदात्on account of difference (being taught in the scriptures) इति चेत् if it be said नnot so प्रत्येकम् with respect to each अतद्वचनात् because of the declaration of the opposite of that.
 
  **12. If it be said (that it is) not so on account of difference (being taught in the scriptures), (we reply) not so, because with respect to each (such form) the Sruti declares the opposite of that.**
 
@@ -4858,7 +4858,7 @@ are but the Self” (Brih. 2. 5. 1). Such texts show that in all Upâchis like e
 
 **अपिचैवमेके॥१३॥**
 
-**** अपि च Moreover एवम् thus एके some
+ अपि च Moreover एवम् thus एके some
 
  **13. Moreover some (teach) thus.**
 
@@ -4866,9 +4866,9 @@ are but the Self” (Brih. 2. 5. 1). Such texts show that in all Upâchis like e
 
 **अरूपवदेव हि तत्प्रधानत्वात्॥१४॥**
 
-**** अरूपवत् Formless एव only हि verily तत्-प्रधानत्वात् on account of that being the main purport.
+ अरूपवत् Formless एव only हि verily तत्-प्रधानत्वात् on account of that being the main purport.
 
- ******14. Verily Brahman is only formless on account of that being the main purport (of all texts about Brahman).**
+ **14. Verily Brahman is only formless on account of that being the main purport (of all texts about Brahman).**
 
  Brahman is only formless for all the texts that aim at teaching Brahman describe It as formless. If Brahman be understood to have a form, then texts which describe It as formless would become purport-
 
@@ -4878,7 +4878,7 @@ less, and such a contingency with respect to the scriptures is unimaginable, for
 
 **प्रकाशवच्चावैयर्थ्यात्॥१५॥**
 
-**** प्रकाशवत् Like light च and अवैयर्थ्यात् not being purportless.
+ प्रकाशवत् Like light च and अवैयर्थ्यात् not being purportless.
 
  **15. And like light (taking form in connection with bodies having form, Brahman takes form in connection with Upâdhis), because (texts ascribing form to Brahman) are not purportless.**
 
@@ -4890,7 +4890,7 @@ which are also illusory from the absolute standpoint. Hence these texts are not 
 
 **आह च तन्मात्रम् ॥१६॥**
 
-**** आह Declaresच andतत्-मात्रम् that (i.e. intelligence) only.
+ आह Declaresच andतत्-मात्रम् that (i.e. intelligence) only.
 
 ** 16. And (the scripture) declares (that Brahman is) that (i.e. intelligence) only. **
 
@@ -4898,7 +4898,7 @@ which are also illusory from the absolute standpoint. Hence these texts are not 
 
  **दर्शयति च,अथो अपि स्मर्यते॥१७॥**
 
-**** दर्शयति (Scripture) shows च also अथो thus अपि alsoस्मर्यते (it is) stated by the Smritis.
+ दर्शयति (Scripture) shows च also अथो thus अपि alsoस्मर्यते (it is) stated by the Smritis.
 
  **17. (The scripture) also shows (this, and) thus also (is it) stated by the Smritis.**
 
@@ -4930,7 +4930,7 @@ proved by the fact that the Sruti teaches about It by denying all characteristic
 
 **देवम्॥२०॥**
 
-**** वृद्धि ह्रास-भाक्तम् Participating in the increase and decrease अन्तर्भावात् on account of its being inside उभय-सामञ्जस्यात् on account of the similarity in the two cases एवम् thus.
+ वृद्धि ह्रास-भाक्तम् Participating in the increase and decrease अन्तर्भावात् on account of its being inside उभय-सामञ्जस्यात् on account of the similarity in the two cases एवम् thus.
 
  **20. On account of Brahman being inside (Its adjuncts) (It appears) to participate in their increase and decrease. On account of this similarity in the two cases (mentioned in Sutra 18) it is thus (i.e. the comparison is not defective).**
 
@@ -5146,7 +5146,7 @@ author proceeds now to discuss the view of the Mimâmsakas, who say that Karma (
 
 **श्रुतत्वाच्च ॥३९॥**
 
- श्रुतत्वात्****Because the scripture so teaches च and.
+ श्रुतत्वात्Because the scripture so teaches च and.
 
 ** 39. And because the scripture so teaches.**
 
@@ -5276,7 +5276,7 @@ are similarities.***
 
 **अन्यथात्वं शब्दादिति चेत्, न, अविशेषात् ॥६॥**
 
- अन्यथात्वं There is difference शब्दाद्****on account of ( difference in ) texts इति चेत् if it be said नnot so अविशेषात् on account of non-difference ( as regards essentials).
+ अन्यथात्वं There is difference शब्दाद्on account of ( difference in ) texts इति चेत् if it be said नnot so अविशेषात् on account of non-difference ( as regards essentials).
 
  **6. If it be said (that the Udgitha Vidyâ of the Brihadâranyaka and that of the Chhândogya) are different on account of (difference in) texts; (we say) not so, on account of the non-difference (as regards essentials).**
 
@@ -5424,7 +5424,7 @@ of the Supreme Self given in other places are to be combined in the Aitareyaka m
 
 **कार्याख्यानादपूर्वम्॥१८॥**
 
-** **कार्याख्यानात् On account of being a restatement of an act (already enjoined by the Smriti)****अपूर्वम्what has not been so enjoined elsewhere. ** **
+** **कार्याख्यानात् On account of being a restatement of an act (already enjoined by the Smriti)अपूर्वम्what has not been so enjoined elsewhere. ** **
 
 ** 18. On account of (the rinsing of the mouth with water referred to in the Prâna Vidyâ) being a restatement of an act (already enjoined by the Smriti), what has not been so enjoined elsewhere (is here enjoined by the Sruti).**
 
@@ -5535,7 +5535,7 @@ good and evil Karma by such a person is mentioned.***
 **हानौ तु , उपायनशब्दशषत्वात् , कुशाच्छन्दः-  
 स्तुत्युपगानवत्, तदुक्तम्॥२६॥**
 
- हानौ****Where )only) the discarding (of good and evil) is mentioned तु but उपायन-शब्दशेषत्वात् on account of the word 'receiving' being supplementary (to the word 'discarding' ) कुशा छन्दः- स्तुति उपगानवत् as in the case of Kusas (sticks for keeping count of hymns) metres, praise, and recitation तत् that उक्तम् has been stated (by Jaimiņi).
+ हानौWhere )only) the discarding (of good and evil) is mentioned तु but उपायन-शब्दशेषत्वात् on account of the word 'receiving' being supplementary (to the word 'discarding' ) कुशा छन्दः- स्तुति उपगानवत् as in the case of Kusas (sticks for keeping count of hymns) metres, praise, and recitation तत् that उक्तम् has been stated (by Jaimiņi).
 
 ** 26. But where (only) the discarding (of good and evil) is mentioned, (the receiving of this good and evil by others has to be included), on account of this word 'receiving' being supplementary (to the word 'discarding'), as in the case of Kusas, metres, praise, and recitation. That (viz. that it should be so done) has been stated (by Jaimini in Purva Mimâmsâ).**
 
@@ -5805,7 +5805,7 @@ performs with knowledge etc. is more powerful” (Chh. 1. 1. 10). It means that 
 
  In the Samvarga Vidyâ of the Chhândogya, meditation on Prâna with reference to the body and on Vâyu with reference to the gods is prescribed. Now many texts declare that Prâna and Vâyu are one in essence. So the opponent holds that the two meditations can be combined. The Sutra refutes the view and says that they are to be kept apart, in spite of the non-difference in nature of Vâyu and Prâna; for their functions due to their different abodes are different. Just as oblations are separately given to Indra the ruler, the monarch, and the sovereign according to his different capacities, though he is one god; so the meditations on Vâyu and Prâna have to be kept apart. This principle is established by Jaimini in Purva Mimâmsâ.
 
-***Topic 29: The fires in Agnirahasya of the Brihadaranyaka are not part of the sacrificial act, but constitute a separate Vidy*****â*****.***
+***Topic 29: The fires in Agnirahasya of the Brihadaranyaka are not part of the sacrificial act, but constitute a separate Vidy*â*.***
 
 **                     लिङ्गभूयस्त्वात्तध्दि बलीयः, तदपि॥४४॥         **            
 
@@ -6609,7 +6609,7 @@ vows undergoes the Krichchhra penance for twelve nights and then develops a plac
 
   47. **(The meditative state is) the injunction of another auxiliary (to Knowledge), which is a third one (besides the two expressly enjoined), as an alternative (where the knowledge of diversity is persistent) for one who possesses Knowledge; as in the case of injunctions and the like**
 
-**** "Therefore a knower of Brahman, having done with scholarship should remain like a child (free from anger, passions, etc.); and after having finished with this state and with learning he becomes meditative (Muni)" (Brih. 8. 5. 1). The question is whether
+ "Therefore a knower of Brahman, having done with scholarship should remain like a child (free from anger, passions, etc.); and after having finished with this state and with learning he becomes meditative (Muni)" (Brih. 8. 5. 1). The question is whether
 
 
 
@@ -6619,7 +6619,7 @@ the meditative state is enjoined or not. The opponent holds that it is not enjoi
 **कृत्स्नभावात्तु गृहिणोपसंहारः ॥४८॥**
 
   कृत्स्नभावात्On account of the householder's life including all तु
-verily उपसंहारः****(the chapter), ends****गृहिणwith the householder
+verily उपसंहारः(the chapter), endsगृहिणwith the householder
 
 
 
@@ -6804,14 +6804,14 @@ reverse way, the sun being viewed as the Udgitha, the purification of the sun by
 **आसीनः, सम्भवात् ॥७॥**
 
 
- आसीनः Sittingसम्भवात्****because of the possibility.  
+ आसीनः Sittingसम्भवात्because of the possibility.  
 **  7. (One has to practise Upâsanâ) sitting, because (in that way alone) it is possible.**
 
 ** **As Upâsanâ or contemplation is a mental affair, the posture of the body is immaterial--says the opponent. This Sutra says that one has to meditate sitting, for it is not possible to meditate while standing or lying down. In Upâsanâ one has to concentrate one's mind on a single object, and this is impossible if one is standing or lying.
 
 **ध्यानाच्च ॥८॥**
 
- ध्यानात्****On account of meditation (implying that) चand.
+ ध्यानात्On account of meditation (implying that) चand.
 
 
 
@@ -7070,7 +7070,7 @@ the Sruti.**
 
 **समाना चासृत्युपक्रमात् अमृतत्वं चानुपोष्य ॥७॥**
 
- समाना****Common च and भा सृति-उपक्रमात् up to the
+ समानाCommon च and भा सृति-उपक्रमात् up to the
 
 beginning of their waysअमृतत्वं immortality चand not having burnt ( ignorance ).
 
@@ -7092,7 +7092,7 @@ no departure at all. Leaving his case, the opponent says that the mode of depart
 
 **तदाऽपीतेः, संसारव्यपदेशात् ॥८॥**
 
- तत् That आ अपीतेःup to the attainment of Brahman (through Knowledge)****संसार- व्यपदेशात् because (scriptures) declare the state of relative existence.
+ तत् That आ अपीतेःup to the attainment of Brahman (through Knowledge)संसार- व्यपदेशात् because (scriptures) declare the state of relative existence.
 
  **8. That (fine body lasts) up to the attainment of Brahman (through Knowledge), because (the scriptures) declare the state of relative existence (till then).**
 
@@ -7124,7 +7124,7 @@ argues that as fire and the other elements are merged in the Supreme Deity, whic
 
 **अस्यैव च - उपपत्तेः एष ऊष्मा ॥११॥**
 
- अस्य एव To this (fine body) alone च and उपपत्तेःbecause of possibility****एषःthisऊष्मा (bodily) heat.
+ अस्य एव To this (fine body) alone च and उपपत्तेःbecause of possibilityएषःthisऊष्मा (bodily) heat.
 
  ** 11. And to this (fine body) alone does this (bodily) heat belong, because this (only) is possible.**
 

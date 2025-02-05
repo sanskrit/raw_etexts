@@ -11557,7 +11557,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg1MDY5MjM3
 
 **न्यायदर्शनं अथ चतुर्थाध्यायस्याद्यम् आह्निकम् ।**
 
-**भाष्यम् ४.****१.१ **
+**भाष्यम् ४.१.१ **
 
 
 
@@ -15059,7 +15059,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg1MDY5MjM3
 
 **इति श्रीवात्स्यायनीये न्यायभाष्यम् चतुर्थोऽध्यायः समाप्तः ॥ ४ ॥**
 
-****
+
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -15077,7 +15077,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg1MDY5MjM3
 
 
 
- **भाष्यम् ५.****१.१ **
+ **भाष्यम् ५.१.१ **
 
 
 

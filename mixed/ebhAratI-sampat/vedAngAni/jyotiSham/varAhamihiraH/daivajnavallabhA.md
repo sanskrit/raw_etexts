@@ -112,7 +112,7 @@ regarding objects held in the mind or in the fist.
 
 13\. स्त्रीपुञ्जन्माध्याय - Birth of male or femalechildren.  
 
-14.प्रकीर्णाध्यायः****-Miscellaneous matters.  
+14.प्रकीर्णाध्यायः-Miscellaneous matters.  
 
 15.लग्नचिन्ता - Judgement fromascendant etc.
 

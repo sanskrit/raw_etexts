@@ -1252,7 +1252,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA1MDY2NjY2
 
 
 
-**        *****द्वितीयपरिच्छेदः***
+**        *द्वितीयपरिच्छेदः***
 
 
 
@@ -1990,7 +1990,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA1MDY2NjY2
 
 .
 
-**       *****तृतीय परिच्छेदः ***
+**       *तृतीय परिच्छेदः ***
 
 
 

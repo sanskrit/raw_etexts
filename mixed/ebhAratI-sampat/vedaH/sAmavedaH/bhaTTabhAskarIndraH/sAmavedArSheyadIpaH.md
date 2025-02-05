@@ -218,7 +218,7 @@ Among these 1-3 appear to be from the same source. They are having gaps and erro
 
  **आरण्यकगान-पर्व ॥**
 
-****
+
 
 **  शक्कराख्यं पर्व ॥**
 
@@ -1865,7 +1865,7 @@ Among these 1-3 appear to be from the same source. They are having gaps and erro
 
 
 
-**** **१.अर्कपर्व**
+ **१.अर्कपर्व**
 
  **प्रथमः खण्डः**
 

@@ -1032,7 +1032,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjUzMjgwMTY2
 
 **इति श्रीसमाधिराजे पुरप्रवेशपरिवर्तो नाम दशमः ॥**
 
-****
+
 
 **---------------------------------------------------------**
 
@@ -1577,7 +1577,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjUzMjgwMTY2
 
 
 
-****
+
 
 **----------------------------------------------------**
 
@@ -2102,7 +2102,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjUzMjgwMTY2
 
 **इति श्रीसमाधिराजे बहुबुद्धनिर्हारसमाधिमुखपरिवर्तो नाम सप्तदशः ॥**
 
-****
+
 
 **----------------------------------------------------------------**
 

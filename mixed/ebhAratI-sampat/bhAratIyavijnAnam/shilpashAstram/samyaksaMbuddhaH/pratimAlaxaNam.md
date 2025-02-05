@@ -54,7 +54,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg1MTcxNDU4MDM
 
 
 
-**T****HE**
+**THE**
 
 **BUDDHAPRATIMĀLAKSANAM**
 

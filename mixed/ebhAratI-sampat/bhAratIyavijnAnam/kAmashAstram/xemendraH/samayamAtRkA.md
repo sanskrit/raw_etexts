@@ -2326,7 +2326,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 
 **----------**
 
-**आर्यासप्ततिः****. (ज्योतिषग्रंथ.)**
+**आर्यासप्ततिः. (ज्योतिषग्रंथ.)**
 
 **भट्टोत्पलाचार्यकृता, **
 

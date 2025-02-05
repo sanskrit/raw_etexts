@@ -234,7 +234,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3ODA1OTEy
 
 
 
-****
+
 
 
 
@@ -370,7 +370,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3ODA1OTEy
 
 
 
- ॥**ॐ*****अथ तृतीयाङ्कव्याख्यारम्भः***॥
+ ॥**ॐ*अथ तृतीयाङ्कव्याख्यारम्भः***॥
 
 
 
@@ -534,7 +534,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3ODA1OTEy
 
 
 
-       ॥**ॐ*****अथ चतुर्थाङ्कव्याख्याप्रारम्भः*** ॥
+       ॥**ॐ*अथ चतुर्थाङ्कव्याख्याप्रारम्भः*** ॥
 
 
 
@@ -877,7 +877,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3ODA1OTEy
                    
 
                      
-॥**ॐ*****अभिज्ञानशाकुन्तलव्याख्याने षष्ठोऽङ्क****:*** ॥
+॥**ॐ*अभिज्ञानशाकुन्तलव्याख्याने षष्ठोऽङ्क:*** ॥
 
 
 

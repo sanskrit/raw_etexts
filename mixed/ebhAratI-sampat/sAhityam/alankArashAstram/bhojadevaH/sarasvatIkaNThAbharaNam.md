@@ -1018,7 +1018,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjUxODE0NDk3
 
 .
 
-**      *****पञ्चमः परिच्छेदः***।
+**      *पञ्चमः परिच्छेदः***।
 
 
 

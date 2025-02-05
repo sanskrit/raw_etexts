@@ -33,7 +33,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMDQ4MDYxNDU
 
 
 
-****
+
 
  आत्मविशेषगुणाः ज्ञानसुखादयः मनोजन्यज्ञानविषयाः। तत्र ज्ञानविषयकम् \`
 

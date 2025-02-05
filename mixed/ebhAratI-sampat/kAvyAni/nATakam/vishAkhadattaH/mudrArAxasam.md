@@ -323,7 +323,7 @@ object achieved, he quietly retires, never to interfere with statbnsiness again.
 
  ***Candanadāsa—***Minister Rākṣasa's best friend and the President of the Jewellers' Guild.
 
- ***Candragupta—****alias Maurya, alias Vṛṣala* King of Magadha.
+ ***Candragupta—alias Maurya, alias Vṛṣala* King of Magadha.
 
  ***Malayaketu—***Parvateśvara's son and Rākṣasa's ally after the destruction of the Nandas by Cāṇakya, till the two break off (Act V)
 
@@ -382,7 +382,7 @@ Mudraraksasa**
 
 *** Bibhatsaka etc—***Spies of Rākṣasa who had entered Candragupta's palace by a subtarranean passage to kill the king (Act II)
 
- ***Citravarmā**—*****King of Kulūta, one of the five kings in close alliance and friendship with Malayaketu (Acts I.V etc.)
+ ***Citravarmā**—*King of Kulūta, one of the five kings in close alliance and friendship with Malayaketu (Acts I.V etc.)
 
 *** Daṇḍapāśika—*** A police officer serving Candragupta.
 
@@ -396,7 +396,7 @@ Mudraraksasa**
 
  ***Megha—***King of the Pārasikas (Act I etc.)
 
- **Parvataka*—****alias 'Parvata, alias Parvates alias Saileśvara,*Malayaketu's father and Candragupta's ally in destroying the Nandas (Act I etc.)
+ **Parvataka*—alias 'Parvata, alias Parvates alias Saileśvara,*Malayaketu's father and Candragupta's ally in destroying the Nandas (Act I etc.)
 
  ***Pramodaka—***Rākṣasa's agent, entrusted with the bedchamber of King Candragupta.
 
@@ -610,7 +610,7 @@ Mudraraksasa**
 
 * *(*Behind the curtam*) Ah? who \[is\] here \[who\] desires to overpower Candra \[gupta\], while I am standing here?
 
-** Sūtradhāra—*****but the association with Mercury saves him. ‡[^16] saves him.")*
+** Sūtradhāra—*but the association with Mercury saves him. ‡[^16] saves him.")*
 
 [^16]: "punningly, the policy of the wise (Canakya
 
@@ -2670,11 +2670,11 @@ the stake.
 
 
 
- **विराधगुप्तः****—**न हि। गृहीतगृहसारः सपुत्रकलत्रो बन्धनागारे निक्षिप्तः[^187]।
+ **विराधगुप्तः—**न हि। गृहीतगृहसारः सपुत्रकलत्रो बन्धनागारे निक्षिप्तः[^187]।
 
 [^187]: "गृहीतसार instead of गृहीतगृहसारः and सपुत्रकललः संयम्ष instea of सपुत्रकलत्री बन्ध...।"
 
- **राक्षसः****—**तत्किं परितुष्टः कथयसि अपवाहितं राक्षसकलत्रमिति। ननु १. वक्तव्यं संयमितः सपुत्रकलत्रो राक्षस इति।
+ **राक्षसः—**तत्किं परितुष्टः कथयसि अपवाहितं राक्षसकलत्रमिति। ननु १. वक्तव्यं संयमितः सपुत्रकलत्रो राक्षस इति।
 
  ( प्रविश्य) **पुरुषः—**जेदु अमन्त्रो। एसो क्खु सअडदासो पडिआरभूमिं उवट्ठिदो। \[ जयस्वमात्यः। एष खलु शकटदासः प्रतीहारभूमिमुपस्थितः। \]
 
@@ -2697,9 +2697,9 @@ the stake.
 
  **Virädhagupta—**Not indeed  With the most valuable things in the house confiscated, he was thrown into prison, with his wife and son.
 
- **Rāksasa****—**Why are you then, telling fully gratified, that Rāksasa's wife was caused to be removed ? Indeed \[this is what\] ought to be said, that Rākṣasa, with his wife and son, had been thrown into prison.
+ **Rāksasa—**Why are you then, telling fully gratified, that Rāksasa's wife was caused to be removed ? Indeed \[this is what\] ought to be said, that Rākṣasa, with his wife and son, had been thrown into prison.
 
- ( *Entering* ) **Purusa****—**May the minister be victorious. Here indeed, has Sakatadāsa come to \[lit., stood at \] the door-region.
+ ( *Entering* ) **Purusa—**May the minister be victorious. Here indeed, has Sakatadāsa come to \[lit., stood at \] the door-region.
 
  **Rākşasa—**Good \[man\], is \[this \] true ?
 
@@ -4052,7 +4052,7 @@ lying\] in the heart, even while here, pulled off and removed \[so as to be\] aw
 
 ** Cānakya**—( *with anger* )
 
-**** Vṛṣala, do you wish to lord it over me as you would over \] a servant ? To the tied up knot of hair again does \[my\] hand hurry. ( *Stralong the ground worth his foot* ) Here \[my\] foot moves even again to take a stand high on a vow. The fire of my wrath, extinguished on the total destruction of the Nandas you, seized \[ lit, surrounded \] by death, are again inflaming.
+ Vṛṣala, do you wish to lord it over me as you would over \] a servant ? To the tied up knot of hair again does \[my\] hand hurry. ( *Stralong the ground worth his foot* ) Here \[my\] foot moves even again to take a stand high on a vow. The fire of my wrath, extinguished on the total destruction of the Nandas you, seized \[ lit, surrounded \] by death, are again inflaming.
 
 ** King**—( *With emotion, to himself*) Oh ! how the Revered one is indeed really enraged. For,
 
@@ -5894,7 +5894,7 @@ effort has to be well made in regard to proceeding \[all along keeping themselve
 
 ** Rākṣasa—**Good \[woman\], wait for a moment. Who \[is\]here, ho?
 
-**** (*Entering*) **Puruṣa—**May the minister command.
+ (*Entering*) **Puruṣa—**May the minister command.
 
 ** Rāksasa—**Let Sakatadāsa be told : 'We have \[formerly \] It is not proper, been made to wear ornaments by the Prince. therefore to go into the presence \[ lit. to enjoy the sight\] of the Prince, undecked \[i. e. without putting on ornaments\]. So, the set of three ornaments, which has been purchased-one \[ornament\] from its midst, should be given \[us to wear \].
 
@@ -6495,7 +6495,7 @@ Thus ends the Fifth Act called
 
 —————————————————————————————————————————
 
-**** Samiddhārthaka—
+ Samiddhārthaka—
 
  Prosperous circumstances (*vibkavaḥ*) cause griet (*dūna-yanayanti*)\[to people\] in the absence of \[lit. separation from\] friends, present in their \[the people's\] heart, the moons’ \[lit. lords or stars\] in extreme trouble (*santāpa*), \[and\] who enjoy pleasures on the occasion of festivities at the house.
 
@@ -6599,7 +6599,7 @@ is this one who perpetrates \[actions\] without \[any\] consideration’, when a
 
 [^507]: बुद्धिं। "बुद्धिं।"
 
-** समिध्दार्थकः—** वअस्स,****अमच्चरक्खसो संपदं कहिं। \[वयस्य, अमात्यराक्षसः साप्रतं कुत्र। \]
+** समिध्दार्थकः—** वअस्स,अमच्चरक्खसो संपदं कहिं। \[वयस्य, अमात्यराक्षसः साप्रतं कुत्र। \]
 
 **
 सिध्दार्थकः—**तस्मि[^508]भवविलोले बड्ढमाणे मलअकेदुकडआदो णिक्कमिअ उदुम्बरणामहेएण चरेण अणु[^509]संघिज्जमाणो इमं पाडलिउत्तं आअदोत्ति अज्जचाणक्कस्य णिवेदिदं। \[तस्मिन्भयविलोले वर्द्धमाने मलयकेतु कटकान्निष्क्रम्योदुम्बरनामधेयेन चरेणानुसंधीयमान इदं पाटलिपुत्रमागत इत्यार्यं चाणक्याय निवेदितम्। \]
@@ -7096,9 +7096,9 @@ him. Having said so, Candanadāsa was caused to be brought to the execution-plac
 
 ** Rākṣasa—**Good \[friend\], surely Candanadāsa has not beenkilled.
 
-** Purusa******justto-day he is to be killed. He indeed is again and again being requested to surrender minister.Raksasa's family- members. He indeed does not surrender out of affection for \[his\] friend. So, on this account I do not \[now hke to\] cause \[any\] delay in my death.
+** Purusa**justto-day he is to be killed. He indeed is again and again being requested to surrender minister.Raksasa's family- members. He indeed does not surrender out of affection for \[his\] friend. So, on this account I do not \[now hke to\] cause \[any\] delay in my death.
 
-** Rāks****asa**********Bravo ! friend Candanadāsa, Bravo.
+** Rāksasa**Bravo ! friend Candanadāsa, Bravo.
 
 
 

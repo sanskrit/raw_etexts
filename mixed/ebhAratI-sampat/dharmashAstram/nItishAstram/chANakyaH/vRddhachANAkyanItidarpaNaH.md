@@ -450,7 +450,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 ![](../books_images/U-IMG-1698380335Screenshot2023-10-27094730.png)**
 
 **मूर्खा यत्र न पूज्यंते धान्यं यत्र सुसञ्चितम्॥**  
-**दंपत्योः कलहोनास्ति तत्र श्रीः स्वयमागता॥२१॥******
+**दंपत्योः कलहोनास्ति तत्र श्रीः स्वयमागता॥२१॥**
 
 **![](../books_images/U-IMG-1698380295Screenshot2023-10-27094806.png)**
 
@@ -553,7 +553,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698382779Screenshot2023-10-27102932.png)**
 
-**अध्वा जरा मनुष्याणां वाजिनां बंधनं जरा****॥**  
+**अध्वा जरा मनुष्याणां वाजिनां बंधनं जरा॥**  
 **अमैथुनं जरा स्त्रीणां वस्त्राणामातपो जरा॥१७॥**
 
 **![](../books_images/U-IMG-1698382801Screenshot2023-10-27102954.png)**
@@ -682,7 +682,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 ![](../books_images/U-IMG-1698385817Screenshot2023-10-27112011.png)**
 
 **अधना धनमिच्छंति वाचं चैव चतुष्पदाः॥**  
-**मानवाः स्वर्गामिच्छंति मोक्षमिच्छंति देवताः॥१८॥**** **
+**मानवाः स्वर्गामिच्छंति मोक्षमिच्छंति देवताः॥१८॥ **
 
 **![](../books_images/U-IMG-1698385841Screenshot2023-10-27112033.png)**
 
@@ -2159,7 +2159,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 ![](../books_images/U-IMG-1698596774Screenshot2023-10-29215600.png)
 
-**इतिवृद्धचाणक्यनीतिदर्पणे षोडशोऽध्यायः****॥१६॥**
+**इतिवृद्धचाणक्यनीतिदर्पणे षोडशोऽध्यायः॥१६॥**
 
 **![](../books_images/U-IMG-1701602413Capture.JPG)**
 
@@ -2300,7 +2300,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **व्यालाश्रयापि विफलापि सकंटकापि वत्रापि पंकिलमवापि दुरासदापि॥**  
 **गंधेन बंधुरसि केतकि सर्वजन्तोः एकोगुणः खेल निहंति समस्तदोषान्॥२१॥**
 
-**![](../books_images/U-IMG-1698600601Screenshot2023-10-29225952.png)****इतिश्री वृद्धचाणाक्यनीतिदर्पणे सप्तदशोध्यायः॥१७॥**
+**![](../books_images/U-IMG-1698600601Screenshot2023-10-29225952.png)इतिश्री वृद्धचाणाक्यनीतिदर्पणे सप्तदशोध्यायः॥१७॥**
 
 **समाप्तोयं वृद्धचाणक्यनीतिदर्पणोग्रंथः॥**
 

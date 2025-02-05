@@ -15,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYxMjQxNzIz
 
 **मातृकाभेदतन्त्रम्**
 
-****प्रथमः पटलः
+प्रथमः पटलः
 
 मातृकाभेदतन्त्र, प्रथमः पटलः  
 कैलासशिखरे रम्ये नानारत्नोपशोभिते ।  

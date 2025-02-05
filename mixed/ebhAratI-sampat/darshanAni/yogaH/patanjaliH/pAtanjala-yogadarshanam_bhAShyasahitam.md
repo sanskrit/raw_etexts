@@ -963,7 +963,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgxNjc0NDg0
 
 
 
-****
+
 
 **(४) चतुर्थः कैवल्यपादः ।**
 

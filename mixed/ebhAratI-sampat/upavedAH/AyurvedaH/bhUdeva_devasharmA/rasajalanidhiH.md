@@ -474,7 +474,7 @@ CALCUTTA.**
 
 **Requisites for Metallurgical Operations. **
 
-***(** **I******) Qualifications of a Preceptor.***
+***(** **I**) Qualifications of a Preceptor.***
 
   The preceptor should be wise, well-versed in Metallurgy, courageous, kind-hearted, modest, student of the Tantras, worshipper of Shiva and Shivá (both representing the Universal soul in its two aspects, male and female, worshipped by votaries as Deities with human forms, which, it is believed, the Universal Soul assumes whenever it reveals itself to the devotees), having a control over the sense-organs and passions, inclined to doing good to all creatures, having all his senses well-developed, possessing an all round knowledge of many things, and fond of disciples.
 
@@ -761,7 +761,7 @@ an earthen vessel full of water, and containing gold, gems, and fruits, is to be
 
 **जातिपुष्पं त्रिमध्वक्तं पूर्णान्ते कन्यकार्च्चनम्॥**
 
-  Thus strengthened, the efficient preceptor will Initiate the disciple after the latter has bathed well, and sprinkle the water of the vessel upon him with proper chantings, and will then impart to him the sublime science of controlling mercury. The disciple should pay to the preceptor a fee according to his ability. The disciple is then to recite, under orders of his preceptor, for a hundred thousand times, each of the two hymns *viz.* Aghora and Rasankus'i as given in the text. Thus is to be worshipped the goddess, Ankus'avidya (the science of controlling mercury personified, the same as the goddess of beauty referred to above). Then a fire is to be raised and given offerings of *Jati* **** flowers, mixed with honey, clarified butter, and sugar in a triangular pit, having each of its sides one cubit long. After the last and fullest offering is made to the sacrificial fire, one or more virgins are to be worshipped.
+  Thus strengthened, the efficient preceptor will Initiate the disciple after the latter has bathed well, and sprinkle the water of the vessel upon him with proper chantings, and will then impart to him the sublime science of controlling mercury. The disciple should pay to the preceptor a fee according to his ability. The disciple is then to recite, under orders of his preceptor, for a hundred thousand times, each of the two hymns *viz.* Aghora and Rasankus'i as given in the text. Thus is to be worshipped the goddess, Ankus'avidya (the science of controlling mercury personified, the same as the goddess of beauty referred to above). Then a fire is to be raised and given offerings of *Jati*  flowers, mixed with honey, clarified butter, and sugar in a triangular pit, having each of its sides one cubit long. After the last and fullest offering is made to the sacrificial fire, one or more virgins are to be worshipped.
 
 **पूजान्ते वेदिकापार्श्वे शुद्धे धौते च मण्डपे।  
 षट्कोणं मण्डलं कार्य्यं सिन्दूरेण द्विहस्तकम्॥ **
@@ -776,7 +776,7 @@ an earthen vessel full of water, and containing gold, gems, and fruits, is to be
 [TABLE]
 
 
-the Rasamandapam, by the side of which is to be drawn carefully a quadrangular and eight petalled lotus furnished with fourdoor-ways. (*Vide* **** figure given here).
+the Rasamandapam, by the side of which is to be drawn carefully a quadrangular and eight petalled lotus furnished with fourdoor-ways. (*Vide*  figure given here).
 
 **कर्णिकायां न्यसेत् खल्वं लौहजं स्वर्णलेखितम्।  
 तन्मध्ये रसराजं तु पलानां शतमात्रकम्॥ **
@@ -799,7 +799,7 @@ the Rasamandapam, by the side of which is to be drawn carefully a quadrangular a
 **पश्चिमे वङ्गकान्तौ च मुण्डतीक्ष्णौ तथोत्तरे।  
 सर्व्वमेतदघोरेण रसाङ्कुशेन चार्च्चयेत्॥**
 
-  In one of the eight petals should be placed an iron ***khalwa*** (boat-shaped mortar), mounted with gold, containing 100, 50 or 25 *palas* **** of mercury, which is to be worshipped like the Rasalingam. In six of the other petals of the lotus are to be placed diamonds, gems, mica, loadstone, borax and essence of earthworms, respectively, each of these potentialities being worshipped separately. Gandhaka (sulphur), Harital (orpiment), Kasisa (green vitriol), silájatu (bitumen), kankustham, gems, rajabarta, gairika (red achre)—these importantuparasas (quasi-mercuries) are to be placed on the eighth petal, in the order of east to north-east, and worshipped in order of position. Rasak (calamine), bimala, tapya (pyrites), chapalam, tuttha (blue vitriol), anjana (stibnite), hingula (cinnabar), and sasyaka (a kind of vitriol)—all these uparasas are also to be placed at the edge of the eight petals and worshipped from the east to the north east. Gold and silver are to be placed on the eastern door,copper and lead on the southern door, tin and kanta iron on the western door, and Munda (common iron) and tiksna iron (steel), on the northern door, and all of these are to be worshipped by means of the Aghora and Rasankusa hymns.
+  In one of the eight petals should be placed an iron ***khalwa*** (boat-shaped mortar), mounted with gold, containing 100, 50 or 25 *palas*  of mercury, which is to be worshipped like the Rasalingam. In six of the other petals of the lotus are to be placed diamonds, gems, mica, loadstone, borax and essence of earthworms, respectively, each of these potentialities being worshipped separately. Gandhaka (sulphur), Harital (orpiment), Kasisa (green vitriol), silájatu (bitumen), kankustham, gems, rajabarta, gairika (red achre)—these importantuparasas (quasi-mercuries) are to be placed on the eighth petal, in the order of east to north-east, and worshipped in order of position. Rasak (calamine), bimala, tapya (pyrites), chapalam, tuttha (blue vitriol), anjana (stibnite), hingula (cinnabar), and sasyaka (a kind of vitriol)—all these uparasas are also to be placed at the edge of the eight petals and worshipped from the east to the north east. Gold and silver are to be placed on the eastern door,copper and lead on the southern door, tin and kanta iron on the western door, and Munda (common iron) and tiksna iron (steel), on the northern door, and all of these are to be worshipped by means of the Aghora and Rasankusa hymns.
 
 **विड़ः काञ्जिकयन्त्राणि क्षारमृल्लवणानि च।  
 कोष्ठिमूषावक्रनाली तुषाङ्गारवनोत्पलाः॥ **
@@ -867,11 +867,11 @@ the Rasamandapam, by the side of which is to be drawn carefully a quadrangular a
 **दोषहीनो रसो ब्रह्मा मूर्च्छितस्तु जनार्द्दनः।  
 मारितो रुद्ररूपः स्याद् बद्धः साक्षान्महेश्वरः॥ **
 
-**श्रीमान् सूतनृपो ददाति विपुलां लक्ष्मीं वपुः****शाश्वतं**
+**श्रीमान् सूतनृपो ददाति विपुलां लक्ष्मीं वपुःशाश्वतं**
 
 **स्वानां प्रीतिकरमचञ्चलमनो मातेव पुंसामिह।  
 नान्यो नास्ति शरीरनाशकगदप्रध्वंसकारी ततः  
-कार्य्यं नित्यमहोत्सवैः प्रथमतः सूताद् वपुः****साधनम्॥**
+कार्य्यं नित्यमहोत्सवैः प्रथमतः सूताद् वपुःसाधनम्॥**
 
 **CHAPTER III.**
 
@@ -918,7 +918,7 @@ the Rasamandapam, by the side of which is to be drawn carefully a quadrangular a
 मूर्च्छितो हरते व्याधिं जीवयति रसो मृतः॥ **
 
 **वद्धः खेचरतां दत्ते रसो वायुश्च नान्यथा॥  
-इह धनशरीर भोगान् मत्त्वाऽनित्यान् सदैव ****यतनीयम्।**
+इह धनशरीर भोगान् मत्त्वाऽनित्यान् सदैव यतनीयम्।**
 
 **मुक्तौ सा च ज्ञानात् तच्चाभ्यासात् स च स्थिरदेहे॥ **
 
@@ -2500,7 +2500,7 @@ Bidabati.
 
 **(ङ) पञ्चमो विधिः— सर्वरोगहरी कर्पूरप्रक्रिया।**
 
-** स्थाल्यां दृढ़घटितायामर्द्धं परिपूर्य्यतुर्य्यलवणांशैरक्तेष्टकारजोभिस्तदुपरि सूतस्य तुर्थ्यांशम्। सितसैन्धवं निधाय स्फटिकारिं तत्समञ्च तस्योर्द्ध्वे। स्फटिकारिधवलसैन्धवशुद्धरसैः कण्याम्वुपरिघृष्ठैः****कृत्वा पर्पटमुचितं॥ तदुपर्य्याधाय तद्वदेव पुन स्फटिकारिसैन्धवरसं दद्यादितः स्खलतो रसस्य लाभाय तदुपरि खर्परखण्डकान् धृत्वा परया दृढ़स्थाल्याच्छाद्य मुद्रयित्वा दिवसत्रितयं विपचेद्विधिना॥**
+** स्थाल्यां दृढ़घटितायामर्द्धं परिपूर्य्यतुर्य्यलवणांशैरक्तेष्टकारजोभिस्तदुपरि सूतस्य तुर्थ्यांशम्। सितसैन्धवं निधाय स्फटिकारिं तत्समञ्च तस्योर्द्ध्वे। स्फटिकारिधवलसैन्धवशुद्धरसैः कण्याम्वुपरिघृष्ठैःकृत्वा पर्पटमुचितं॥ तदुपर्य्याधाय तद्वदेव पुन स्फटिकारिसैन्धवरसं दद्यादितः स्खलतो रसस्य लाभाय तदुपरि खर्परखण्डकान् धृत्वा परया दृढ़स्थाल्याच्छाद्य मुद्रयित्वा दिवसत्रितयं विपचेद्विधिना॥**
 
 **(अत्रानुक्तमपि भल्लातकं ददाति वृद्धाः पारदतुल्यम्।)**
 
@@ -4097,8 +4097,8 @@ Use of the ashes of mercury.
 
   It cures piles, if taken with shuranam, burnt by putam, and mixed with oil and rock salt. It cures diarrhoea, if taken with the decoction of the bark and blossoms of a kshiri tree, mixed with butter water. It cures cholera, if taken with pippali and hingu. It cures indigestion, if taken with kanji or with powdered haritaki, and decoction of the root of eranda. It cures an awful bimbisi, if taken with the decoction of blossoms of a kshiri tree, dried bilba fruit (unripe ), and shunthi, mixed with molasses. It cures mutrakrichhra, if taken with the decoction of dried bilva fruit, inner part of a karkatica fruit, and masura, or with milk and gokshura, or with milk and honey.
 
-**पारदभस्मशिलाजतुकृष्णालौहमल****त्रिफलाकुलिबीजम्।**  
-**ताप्यनिशारजतोपलकान्तव्योष****रजः खपूरश्च कपित्थम्॥**
+**पारदभस्मशिलाजतुकृष्णालौहमलत्रिफलाकुलिबीजम्।**  
+**ताप्यनिशारजतोपलकान्तव्योषरजः खपूरश्च कपित्थम्॥**
 
 **सर्व्वमिदं परिचूर्ण्य समांशं भावितभृङ्गरसं दिवसादौ।**  
 **विंशतिवारमिदं मधुलीढ़ंविंशतिमेहहरं हरिदृष्टम्॥**
@@ -5768,7 +5768,7 @@ and falls into the water in the Samputam. The sublimation continues so long as t
 
 *Istaka Jantram.*
 
-**  **A circular pit is to be cut into the ground, and anearthen basin placed upon it. A burnt brick, with ahollow at the centre, is to be placed upon the basin. A circular iron plate, one anguli in height, is toencircle the hollow. Put mercury into the hollow, andcover it with a piece of cloth upon which is to be keptsome sulphur. The hollow is now to be covered withanother earthen basin, placed upside down. Thespace between the iron plate and the basin is to befilled in with mud. The whole apparatus is now to besubjected to a mild heat by means of kapota putam.****
+**  **A circular pit is to be cut into the ground, and anearthen basin placed upon it. A burnt brick, with ahollow at the centre, is to be placed upon the basin. A circular iron plate, one anguli in height, is toencircle the hollow. Put mercury into the hollow, andcover it with a piece of cloth upon which is to be keptsome sulphur. The hollow is now to be covered withanother earthen basin, placed upside down. Thespace between the iron plate and the basin is to befilled in with mud. The whole apparatus is now to besubjected to a mild heat by means of kapota putam.
 
 **पलिकायन्त्रम्।**
 
@@ -6105,7 +6105,7 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 
 *Baruni Jantram.*
 
-  ****This differs from a Nadika Jantram in this that ithas got a water pot placed at the top of the vesselcontaining the drugs; it has no water trough throughwhich the tube is topass in a Nadika Jantram; itrequires a straight and not a bent tube, and that itrequires the pot meant to contain the extract to besurrounded on all sides with water.
+  This differs from a Nadika Jantram in this that ithas got a water pot placed at the top of the vesselcontaining the drugs; it has no water trough throughwhich the tube is topass in a Nadika Jantram; itrequires a straight and not a bent tube, and that itrequires the pot meant to contain the extract to besurrounded on all sides with water.
 
 
 **वारुणीयन्त्रम् – प्रकारान्तरम्।**
@@ -6161,7 +6161,7 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 **तथा या विहिता मूषा योगमूषेति कथ्यते।  
 अनया साधितः सूतो जायते गुणवत्तरः॥**
 
-*Joga Musa****.***
+*Joga Musa.***
 
   Joga Musa is made of the following :— burnt charcoal, burnt husk, mud, and earth raised by white ants,mixed with a sufficient quantity of bida, suitedto the requirements of the case. The inner side of thecrucible is to be plastered with a sufficient quantityof the same bida. Mercury heated in this crucible,becomes more powerful than before.
 
@@ -6595,7 +6595,7 @@ The undermentioned plants are called the Pitabarga (yellow group). They are used
 
 Kacha, tankana, and shipra are called sodhaniyagana. They are the destroyers of impurities inessences of metals, solidified mercury, and metals.They are also said to be the destroyers of what iscalled the “kapalika guna."
 
-**कज्ज्वली रसपङ्कौ****।**
+**कज्ज्वली रसपङ्कौ।**
 
 **धातुभिर्गन्धकाद्यैश्च निर्द्रवैर्मर्दितो रसः।  
 सुश्लक्ष्णः कज्ज्वलाभोऽसौ कज्ज्वलीत्यभिधीयते।  
@@ -6806,7 +6806,7 @@ Mercury, if it assumes the appearance of mud,by being subjected to heat, etc. an
 संसेवितोऽसौ न करोति भस्म  
 कार्यं जराव्याधिविनाशनञ्च॥**
 
-****If mercury, in course of the operations performedfor its incineration, sublimates, by being subjected toheat, and comes out of the crucible, it is called, "sajibabaddha." It does not possess the properties ofincinerated mercury, and is not considered efficaciousin curing senility and diseases.
+If mercury, in course of the operations performedfor its incineration, sublimates, by being subjected toheat, and comes out of the crucible, it is called, "sajibabaddha." It does not possess the properties ofincinerated mercury, and is not considered efficaciousin curing senility and diseases.
 
 **जीर्णाभ्रको वा परिजीर्णगन्धो  
 भस्मीकृतश्चाखिललोहमौलिः।  
@@ -6871,7 +6871,7 @@ Mercury, exhausted with double its quantity of mica and then reduced to ashes, i
 
   When mercury alone, or in conjunction with some thing else, is solidified, and undergoes no diminution, when subjected to heat, it is called ‘agnibaddha’, and serves to endow the user with the power of flying in the air.
 
-**हेम्ना****वा रजतेन वा स हि परो ध्मातो व्रजत्येकता-  
+**हेम्नावा रजतेन वा स हि परो ध्मातो व्रजत्येकता-  
 मक्षीणो निचितो गुरुश्च गुटिकाकारोऽति दीर्घोज्ज्वलः।  
 चुर्णत्वं पटुवत्‌ प्रयाति निहतो घृष्टो न मुञ्चेन्मलं  
 निर्ब्वन्धो द्रवति क्षणात्‌ स हि महाबन्धाभिधानो रसः॥**

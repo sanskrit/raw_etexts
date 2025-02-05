@@ -210,7 +210,7 @@ omitting from his compendium one half of his subject, as that has just been defi
 **Paucity of Proseworks.**
 
  We propose in the sequel to make an attempt to assess the literary **
-**merit of the Daśakumâracharita. It will suffice here to state that as a sample of prose composition it has enjoyed a unique popularity. It is difficult to account for this marked favour except on****the ground of the paucity of prose works in Sanskrit.
+**merit of the Daśakumâracharita. It will suffice here to state that as a sample of prose composition it has enjoyed a unique popularity. It is difficult to account for this marked favour except onthe ground of the paucity of prose works in Sanskrit.
 
  2.Bâṇa's हर्षचरित and कादम्बरी and Subandhu's वासवदत्ता are well-known, but are rather much too hard for beginners.
 
@@ -218,7 +218,7 @@ omitting from his compendium one half of his subject, as that has just been defi
 
 **Easy style of thework.**
 
- 3. Under these circumstances, the Daśakumâracharita has been found ****handy for beginners at a stage intervening between thePañchatantra or Hitopadeśa on the one hand, and advanced prose works like the Harshacharita and Kâdambarî on the other. This alone can account for the work being prescribed by the Universities of Calcutta and Bombay,and for the issue of selections by the former and the publication of the complete work by the Bombay Educational Department. But this is only one of the reasons of the popularity of the work.
+ 3. Under these circumstances, the Daśakumâracharita has been found handy for beginners at a stage intervening between thePañchatantra or Hitopadeśa on the one hand, and advanced prose works like the Harshacharita and Kâdambarî on the other. This alone can account for the work being prescribed by the Universities of Calcutta and Bombay,and for the issue of selections by the former and the publication of the complete work by the Bombay Educational Department. But this is only one of the reasons of the popularity of the work.
 
 **Degeneracy of taste.**
 
@@ -238,12 +238,12 @@ omitting from his compendium one half of his subject, as that has just been defi
 
 **Bhaṭṭa Nārāyaṇā'sPûrvapîṭhikâ.**
 
- 6. The Deccan College Manuscript Library contains another Pûrvapîṭhikâ, ****No.32, Coll. 1873-74. This is much more concise andconsistent withthe narrative in the text of Daṇḍin'sown work and is now for the first time published as an Appendix to this edition. This Pûrvapîṭhikâ following colophon:—
+ 6. The Deccan College Manuscript Library contains another Pûrvapîṭhikâ, No.32, Coll. 1873-74. This is much more concise andconsistent withthe narrative in the text of Daṇḍin'sown work and is now for the first time published as an Appendix to this edition. This Pûrvapîṭhikâ following colophon:—
 
 **भट्टनारायणकृतं पूर्ववृत्तान्तदर्शनम्।  
 अप्राप्य दण्डिरचितं हरिशर्मा व्यलीलिखत्॥**
 
- The first point worth noticing in this colophon is the position of the absolutive अप्राप्य,which can be construed either way, that is, either with****भट्टनारायणकृतं पूर्ववृत्तान्तदर्शनम् or with the following expression दण्डिरचितम्. If अप्राप्य be taken with भट्टनारायणकृतम्, it would raise the presumption of this Pûrvapîṭhikâ having been written by Daṇḍinhimself. But if a Pûrvapîṭhikâ was written by the author himself, the question naturally arises “why should Bhaṭṭa Nârâyaṇa have attempted another?” Bâṇa's son completing his father's unfinished work is intelligible enough, but why should a stranger seek to fill up a gap left by another author ? Professor Wilson ventures the conjecture that it “ may be regarded as the work of one of the author's disciples," though be observes at the same time that“ its general congruity with the acknowledged composition of Daṇḍinrenders it not improbably his work." (p. 5, Introduction).
+ The first point worth noticing in this colophon is the position of the absolutive अप्राप्य,which can be construed either way, that is, either withभट्टनारायणकृतं पूर्ववृत्तान्तदर्शनम् or with the following expression दण्डिरचितम्. If अप्राप्य be taken with भट्टनारायणकृतम्, it would raise the presumption of this Pûrvapîṭhikâ having been written by Daṇḍinhimself. But if a Pûrvapîṭhikâ was written by the author himself, the question naturally arises “why should Bhaṭṭa Nârâyaṇa have attempted another?” Bâṇa's son completing his father's unfinished work is intelligible enough, but why should a stranger seek to fill up a gap left by another author ? Professor Wilson ventures the conjecture that it “ may be regarded as the work of one of the author's disciples," though be observes at the same time that“ its general congruity with the acknowledged composition of Daṇḍinrenders it not improbably his work." (p. 5, Introduction).
 
 **Pûrvapîțhikâ the work of some other hand.**
 
@@ -421,7 +421,7 @@ rule, Daṇḍin insists upon perspicuity of style ( प्रसादबत्
 
  It may be noted that the idea in both is the use of a collyrium. In the Kâvyâdarśa, the collyrium is described as making a person "invisible". The Daśakumâracharita carries the idea further and makes the collyrium to have the property of making the person using it "look like an ape.” In the former, the idea is put elegantly and grammatically. In the latter the same is expressed clumsily and ungrammatically. If the author of the former work had also written the latter, would he have thus sinned both against grammar and perspicuity ?
 
-**The author of K****â****vy****â****darsa is not probably the author of the Daśakumâracharita.**
+**The author of Kâvyâdarsa is not probably the author of the Daśakumâracharita.**
 
 23. This examination of the Daśakumâracharita with special reference to the Kâvyâdarśa, is to our mind sufficiently strong evidence of the improbability of both these works having proceeded from the same pen. Let us now see if the hypothesis we have attempted to raise can find any support, also from the plot and the general tenour of the work.
 
@@ -787,7 +787,7 @@ the stories in question, however inconsistent with his religious meditations” 
 
 **॥ पूर्वपीठिका॥**
 
-निवासिनं कालीविलासिनमनश्वरं महेश्वरं समाराध्य तपःप्रभावसंतुष्टादस्मादेव वीरारातिघ्नीं भयदां गदां लब्ध्वात्मानमप्रतिभटं मन्यमानो महाभिमानो भवन्तमभियोक्तुमुद्युङ्के। ततः परं देव एवप्रमाणमिति। तदालोच्य निश्चितकृत्यैरमात्यै राजा विज्ञापितोभूत्। देव **5** निरुपायेन देवसहायेन योद्धुमरातिरायाति। तस्मादस्माकं युद्धं सांप्रतमसांप्रतम्। सहसा दुर्गसंश्रयः कार्य इति। तैर्बहुधा विज्ञापितोप्यखर्वेण गर्वेण विराजमानो राजा तद्वाक्यमकृत्यमित्यनादृत्य प्रतियोद्धुमना बभूव। शितिकण्ठदत्तशक्तिसारो मानसारो योद्धुमनसामग्रीभूय सामग्रीसमेतोक्लेशं मगधदेशं प्रविवेश। तदा तदाकर्ण्य मन्त्रिणो **10** भूमहेन्द्रं मगधेन्द्रं कथंचिदनुनीय रिपुभिरसाध्ये विन्ध्याटवीमध्येवरोधान्मूलबलरक्षितान्निवेशयामासुः। राजहंसस्तु प्रशस्तवीतदैन्यसैन्यसमेतस्तीव्रगत्या निर्गत्याधिकरुषं द्विषं रुरोध। परस्परबद्धवैरयोरेतयोः शूरयोस्तदातदालोकनकुतूहलागतगगनचराश्चर्यकारणे रणे वर्तमाने जयाकाङ्क्षी मालवदेशरक्षी****विविधायुधस्थैर्यचर्याञ्चितसमर- **15**तुलितामरेश्वरस्य मगधेश्वरस्योपरि पुरारातिदत्तां गदां प्राहिणोत्। निशितशरनिकरशकलीकृतापि सा पशुपतिशासनस्यावन्ध्यतया सूतं निहत्य रथस्थं राजानं मूर्च्छितमकार्षीत्। ततो वीतप्रग्रहा अक्षतविग्रहा वाहा रथमादाय दैवगत्यान्तःपुरशरण्यं महारण्यं प्राविशन्।मालवनाथो जयलक्ष्मीसनाथो मगधराज्यं प्राज्यं समाक्रम्य पुष्पपुरमध्य- **20**तिष्ठत्। तत्र हेतिततिहतिश्रान्ता अमात्या दैवगत्या प्रत्युत्क्रान्तजीविता निशान्तवातलब्धसंज्ञाः कथंचिदाश्वस्य राजानं समन्तादन्वीक्ष्यानवलोकितवन्तो दैन्यवन्तो देवीमवापुः। वसुमती तु तेभ्यो निखिलसैन्यक्षतिं राज्ञोदृश्यत्वं चाकर्ण्यादिग्ना शोकसागरमग्ना रमणानुमरणे मतिं व्यधत्त। कल्याणि भूरमणमरणमनिश्चितम्। किं च दैवज्ञकथितो 25 मथितोद्धतारातिः सार्वभौमोभिरामो भविता सुकुमारः कुमारस्त्वदुदरे वसति। तस्मादद्य तव मरणमनुचितमिति भूषितभाषितैरमात्य पुरोहितै-
+निवासिनं कालीविलासिनमनश्वरं महेश्वरं समाराध्य तपःप्रभावसंतुष्टादस्मादेव वीरारातिघ्नीं भयदां गदां लब्ध्वात्मानमप्रतिभटं मन्यमानो महाभिमानो भवन्तमभियोक्तुमुद्युङ्के। ततः परं देव एवप्रमाणमिति। तदालोच्य निश्चितकृत्यैरमात्यै राजा विज्ञापितोभूत्। देव **5** निरुपायेन देवसहायेन योद्धुमरातिरायाति। तस्मादस्माकं युद्धं सांप्रतमसांप्रतम्। सहसा दुर्गसंश्रयः कार्य इति। तैर्बहुधा विज्ञापितोप्यखर्वेण गर्वेण विराजमानो राजा तद्वाक्यमकृत्यमित्यनादृत्य प्रतियोद्धुमना बभूव। शितिकण्ठदत्तशक्तिसारो मानसारो योद्धुमनसामग्रीभूय सामग्रीसमेतोक्लेशं मगधदेशं प्रविवेश। तदा तदाकर्ण्य मन्त्रिणो **10** भूमहेन्द्रं मगधेन्द्रं कथंचिदनुनीय रिपुभिरसाध्ये विन्ध्याटवीमध्येवरोधान्मूलबलरक्षितान्निवेशयामासुः। राजहंसस्तु प्रशस्तवीतदैन्यसैन्यसमेतस्तीव्रगत्या निर्गत्याधिकरुषं द्विषं रुरोध। परस्परबद्धवैरयोरेतयोः शूरयोस्तदातदालोकनकुतूहलागतगगनचराश्चर्यकारणे रणे वर्तमाने जयाकाङ्क्षी मालवदेशरक्षीविविधायुधस्थैर्यचर्याञ्चितसमर- **15**तुलितामरेश्वरस्य मगधेश्वरस्योपरि पुरारातिदत्तां गदां प्राहिणोत्। निशितशरनिकरशकलीकृतापि सा पशुपतिशासनस्यावन्ध्यतया सूतं निहत्य रथस्थं राजानं मूर्च्छितमकार्षीत्। ततो वीतप्रग्रहा अक्षतविग्रहा वाहा रथमादाय दैवगत्यान्तःपुरशरण्यं महारण्यं प्राविशन्।मालवनाथो जयलक्ष्मीसनाथो मगधराज्यं प्राज्यं समाक्रम्य पुष्पपुरमध्य- **20**तिष्ठत्। तत्र हेतिततिहतिश्रान्ता अमात्या दैवगत्या प्रत्युत्क्रान्तजीविता निशान्तवातलब्धसंज्ञाः कथंचिदाश्वस्य राजानं समन्तादन्वीक्ष्यानवलोकितवन्तो दैन्यवन्तो देवीमवापुः। वसुमती तु तेभ्यो निखिलसैन्यक्षतिं राज्ञोदृश्यत्वं चाकर्ण्यादिग्ना शोकसागरमग्ना रमणानुमरणे मतिं व्यधत्त। कल्याणि भूरमणमरणमनिश्चितम्। किं च दैवज्ञकथितो 25 मथितोद्धतारातिः सार्वभौमोभिरामो भविता सुकुमारः कुमारस्त्वदुदरे वसति। तस्मादद्य तव मरणमनुचितमिति भूषितभाषितैरमात्य पुरोहितै-
 
 —————————————————————————————————————————
 
@@ -5013,7 +5013,7 @@ The reference in this and the next line is to the following lines:—
 
 ** P. 137. L. 12. (5).**विषमुखीभिः&c., By extracting thorns with knives the points of which were dipped in poison.
 
-** P. 137. L. 13. (6).**विष्वाग्विसर**** &c. By killing at pleasure those who were alone and separated from their followers, who were dispersed in all directions.
+** P. 137. L. 13. (6).**विष्वाग्विसर &c. By killing at pleasure those who were alone and separated from their followers, who were dispersed in all directions.
 
  **(7)**. मृगदेहापराद्धैः&c., By the darting of arrows which seemingly missed to hit the bodies of deer.
 

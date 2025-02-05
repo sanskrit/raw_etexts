@@ -965,7 +965,7 @@ acaciin शलभद्रुमि**
 **tannin brown** *Col. Ind.* **शल्कि बभ्रु  
 tannin discharge blue***Col. Ind.***शल्कि मोचन नील  
 tannin heliotrope** *Col. Ind.***शल्कि निनीलातिरक्त  
-tannin indigo blue***Col. Ind.* ****शल्कि निनील नील  
+tannin indigo blue***Col. Ind.* शल्कि निनील नील  
 tannin orange** *Col. Ind.***शल्कि नारंग  
 tannin pink** *Col. Ind.* **शल्कि आपद्म  
 tanning 1.शल्कन** *n.***2.चर्मसंस्कार** *m.***,चमड़ा पकाना  
@@ -2160,7 +2160,7 @@ Telingana** *Geog.***आन्ध्र, त्रिकलिंग***m.*
 **teliospore** *Mycol.* (develops in the final stage) **अन्तबीजाणु** *m.*  
 **telium = teleutosorus** *Mycol.* (spore fruit formed, during the teliostage of rust fungi) **अन्त्यक** *n.*  
 **tell** *vb.* **बताना, बतलाना  
-teller 1.**(one appointed to count the****votes in a legislative body...) **गणक** *m.***2.***Banking* ** गणक** *m.*
+teller 1.**(one appointed to count thevotes in a legislative body...) **गणक** *m.***2.***Banking* ** गणक** *m.*
 
 (one who counts)
 
@@ -2280,7 +2280,7 @@ temperate soil कोष्ण मृदा**
 
 **Temperate Zone कोष्ण कटिबन्ध  
 temperative** *adj.* (moderating, soothing) **शमकारी, मन्दकारी  
-temperature 1.ताप** *m.***2.ताप मात्रा** *f.,* **तापांश** *m.*****(degree of hotness or coldness)  
+temperature 1.ताप** *m.***2.ताप मात्रा** *f.,* **तापांश** *m.*(degree of hotness or coldness)  
 **temperature analogy** *Phys.* **ताप सादृश्य  
 temperature and humidity recorder ताप-आक्लेद-अभिलेखित्र  
 temperature bulb ताप-कन्द  
@@ -3052,7 +3052,7 @@ tesseral polar** *adj. Cryst.* **समितीय ध्रुवीय
 test** *vb.* **परीक्षण करना, परीक्षा करना  
 test** *n.* **1.परीक्षा** *f.***, परीक्षण** *n.***, समन्वीक्षा** *f.***, कसौटी 2.***Educ.* **परीक्षिका** *f.* (*see* examination)
 
-**3.***Statistics* (decisive trial) **समन्वीक्षा***f.*****(examination परीक्षा)**4.***Zool.* (the external shell)  
+**3.***Statistics* (decisive trial) **समन्वीक्षा***f.*(examination परीक्षा)**4.***Zool.* (the external shell)  
 **चोल** *m.*
 
 **testa = seed coat** *Bot.* **बीज-चोल** *m.*  
@@ -3952,7 +3952,7 @@ Thiele formula** (of benzene) *Chem.* (six partial valencies represented outside
 **thigh ऊरु** *m.,* **जांघ  
 thigh bone ऊर्वस्थि  
 thigmotropic = haptotropic** *adj.* **स्पर्शवक्रिम  
-thigmotropism** (Gk. *thigma* 'touch') (haptotropism) **स्पर्श-वक्रिमा** *m.*****(stereotropism) **स्पर्शावर्तना** *f.*  
+thigmotropism** (Gk. *thigma* 'touch') (haptotropism) **स्पर्श-वक्रिमा** *m.*(stereotropism) **स्पर्शावर्तना** *f.*  
 **thilf = blackberry कृष्णबदरी** *f.*  
 **thimble 1.अंगुलित्र** *n.*
 
@@ -4050,7 +4050,7 @@ thio-carb-amic** *adj. Chem.* **गन्धांग-तिक्तेयि�
 thiocarbamic acid गन्धांगतिक्तेयिक अम्ल  
 thio-carb-anilide** *Chem.* **गन्धांग-नीलेय  
 thio-carb-imide** *Chem.* **गन्धांग-वितिक्तेय  
-thio-carbo-** (a combining form denoting the presence of thiocarbonyl)*****Chem.* **गन्धांगारल-  
+thio-carbo-** (a combining form denoting the presence of thiocarbonyl)*Chem.* **गन्धांगारल-  
 thio-carbonate** *Chem.* **गन्धांगारीय  
 thio carbonic** *adj. Chem.* **गन्धांगारिक  
 thio-carbonyl** *Chem.* **गन्धांगारल  
@@ -4623,7 +4623,7 @@ thrombosis** *Med.* **घनास्रता** *f.*
 **thrombus** *Med.* **घनास्रक***n.*  
 **throne सिंहासन** *n.***, गद्दी  
 throttle** *vb.* **गलपीडन, हाथ से गला घोटना**(*see* strangulate)  
-**throttle** (valve) **** *Engin.* (a valve for regulating supply प्रदाय, as of steam, or of gas and
+**throttle** (valve)  *Engin.* (a valve for regulating supply प्रदाय, as of steam, or of gas and
 
 air,
 
@@ -4808,7 +4808,7 @@ thymus persistens hyperplastica = persistent thymus** (it persists into adult li
 
 **thymyl** *Chem.* **पर्णासील** *n.*  
 **thymylic** *adj.* **पर्णासीलिक  
-thyratron** *Elec.* (an arc triode) **चापत्रिद्वार***n.*****(चाप arc)  
+thyratron** *Elec.* (an arc triode) **चापत्रिद्वार***n.*(चाप arc)  
 **thyrohyal** *adj. Zool.* (pertaining to the thyroid body and the hyoidbone) **गलद्वित  
 thyrohyoid** *adj. Zool.* (pertaining to the thyroid gland or cartilage and the hyoid bone)
 
@@ -4822,7 +4822,7 @@ thyroid gland गल-ग्रन्थि
 thyroid secretion गलग्रन्थि-उदासर्ग  
 thyronine** *Biochem.* **गलग्रन्थिकि***f.*  
 **thyroprivia** (condition after the removal of the thyroid body)**निर्गलग्रन्थिता** *f.*  
-**thyrothecium** *Mycol.* (an inverted ascocarp) **अपवृत्ता** *f.*****(अपवृत्त inverted)  
+**thyrothecium** *Mycol.* (an inverted ascocarp) **अपवृत्ता** *f.*(अपवृत्त inverted)  
 **thyrotoxicosis** *Med.* **गलग्रन्थि-विषार्बुद***m.*  
 **thyrotropic** *adj.* **गलग्रन्थि-उद्दीपक  
 thyrotropic hormone गलग्रन्थि-उद्दीपक न्यासर्ग  
@@ -4903,7 +4903,7 @@ Tibet marmot** *Mamm.* **भोट-हिमभूष
 Tibet owlet** *Aves* **भोट-क्षुद्रोलूक  
 Tibet ruby-throat** *Aves* **भोट-मणिकण्ठ  
 Tibet snow-fiach** *Aves* **भोट हिम-चटक  
-tibia 1.***Anat***.,** *Zool.* **जंघास्थि** *n.***2.**(of insect) *Zool.* **जंघा** *f.* **** (not जंघास्थि)  
+tibia 1.***Anat***.,** *Zool.* **जंघास्थि** *n.***2.**(of insect) *Zool.* **जंघा** *f.*  (not जंघास्थि)  
 **tibial** *adj.* **जंघास्थिक, जंघास्थि-, जंघा-  
 tibial artery** *Anat.* **जंघा-रोहिणी  
 tibiale** *Zool.* **जंघास्थिका** *f.*  
@@ -5089,7 +5089,7 @@ Tilia europaea** (common lime tree) **हरिवर्ष-सुच्छा�
 Tilia heterophylla** (white basswood) **श्वेत सुच्छाय  
 Tilia parvifolia** (small-leaved limetree) **लघुपर्ण सुच्छाय  
 Tilia vulgaris** (common lime—Br. Fl.p. 367) **सामान्य सुच्छाय  
-Tiliaceae** *Bot.* **परूष-कुल** *n.*****(from *Grewia* परूष-प्रजाति)  
+Tiliaceae** *Bot.* **परूष-कुल** *n.*(from *Grewia* परूष-प्रजाति)  
 **Tiliacora** *Bot.* (petals cuneate—Basu) **स्फानदल-प्रजाति** (स्फान 'wedge', दल petal')  
 **Tiliacora acuminata** (leaves acuminate—Basu) **तीक्ष्णपत्र स्फानदल  
 Tiliacora racemosa = Tiliacora acuminata  
@@ -5127,7 +5127,7 @@ tillite** (rock formed of till) **गण्डमृदश्म***m.*
 (money in a drawer with a bank or shopkeeper) **उदाकर्ष-राशि, हस्तस्थ राशि**
 
 **tillodont** *Paleontol.* **रदनिकृन्त** *m.*  
-**Tillodontia** (rodent-like incisors) **रदनिकृन्त-गण** *m.*****(गण order)  
+**Tillodontia** (rodent-like incisors) **रदनिकृन्त-गण** *m.*(गण order)  
 **Tillodontidae रदनिकृन्त-वंश** *m.*  
 **Tillotherium** *Paleontol.* **रदनिकृन्त-प्रजाति  
 tillsheet** *Geol.* **गण्डमृत्-स्तार**  
@@ -5843,7 +5843,7 @@ Tjalfiella** *Zool.* **द्विशुण्ड-प्रजाति** (PH. 
 **Tl** (thallium) *Chem.* **सिक्** (सिक्ष्यातु)  
 **T. L.** (ticket lost) **प.लु.** (पत्रक लुप्त)  
 **Tm** (thulium) *Chem.* **व्य** (व्याहरिला)  
-**T. M.** (Traffic Manager) **** *Rly.* **या. प्र.** (यातायात-प्रबन्धक)  
+**T. M.** (Traffic Manager)  *Rly.* **या. प्र.** (यातायात-प्रबन्धक)  
 **T.M.A. = T.M.  
 Tmesipteris** *Bot.* (Gk. *tmesis* 'cutting' + -*pteris*) **दीर्णपत्र-प्रजाति  
 Tmesipteristannensis = fern clubmoss** (an epiphytic fern ally) **पररोही दीर्णपत्र  
@@ -6360,7 +6360,7 @@ bordered pit) **स्थूलक** *m.* **3.**(in *Marchantia*) **बिम्
 to such extent as may be necessary उस सीमा तक जितना आवश्यक हो  
 to sum up समासतः, संक्षेपतः  
 total** *adj.* **समस्त, संपूर्ण, पूरा पूरा, पूर्ण, अशेष  
-total** *n.* **1.संकलन, संकलित** *n.***2.**(sum) **योग** *m.****,* जोड़  
+total** *n.* **1.संकलन, संकलित** *n.***2.**(sum) **योग** *m.,* जोड़  
 total** *vb.* **योग करना, जोड़ना  
 total actual wastage समस्त वास्तविक क्षय  
 total adhesion locomotive** *Rly. Eng.* (whose wheels are all coupled to act as driving
@@ -6627,12 +6627,12 @@ toxic thyroid विषालु गलग्रन्थि
 toxicum विष** *n.*  
 **toxi-dermia विष-चर्मता** *f.*  
 **toxi-dermic** *adj.* **विष-चर्मिक  
-toxiferous** *adj. Physiol.*********(producing or conveying poison) **विषजन, विषप्रद**  
+toxiferous** *adj. Physiol.*(producing or conveying poison) **विषजन, विषप्रद**  
 **toxi-genic** * adj.* (producing toxin) **विषिजन  
 toxin** *Biochem.* **विषि***f.*  
 **toxin-antitoxin flocculesविषि-प्रतिविषि ऊर्णिका  
 toxiniferous** *adj. Plant Pathol.* **विषकर,**(actively producing atoxic substance) **विष-प्रजन  
-toxinosis** *Med.* **अतिविपिता ** *f.* **** (due to toxin)  
+toxinosis** *Med.* **अतिविपिता ** *f.*  (due to toxin)  
 **Toxocara = Toxascaris विषञ्यो-उ-प्रजाति  
 Toxodon** *Paleontol.* (Gk. toxon 'bow') **धनुर्दन्त-प्रजाति  
 toxodont धनुर्दन्त** *m.*  
@@ -6673,7 +6673,7 @@ tracer अनुरेखक** *m.*
 **tracer draftsman अनुरेखक मानचित्रकार  
 tracer elements** *Phys.* **अन्वेषी तत्त्व  
 tracer in secretariat सचिवालय-अनुरेखक  
-trachea 1.***Anat.* **श्वासनाल** *m.* **2.***Bot.* **a जलवाही** (-इन्) **** *m.*****  
+trachea 1.***Anat.* **श्वासनाल** *m.* **2.***Bot.* **a जलवाही** (-इन्)  *m.*  
 b = vessel वाहिनी** *f.* (McLean I.465)  
 **tracheae = air-tubes** *Zool.* **श्वासनाल** *m.*  
 **tracheal श्वासनाल-  
@@ -6915,7 +6915,7 @@ Traffic Inspector** (T.I.) *Rly.* **यातायात-निरीक्ष�
 
 **traffic sign यातायात-चिह्न  
 traffic yard** *Rly.* **यातायात-अंगन  
-tragacanth = gum dragon** *Pharm.*****(tragos 'he-goat' अज + *akantha* 'thorn' कण्ट) **अजकण्ट-**
+tragacanth = gum dragon** *Pharm.*(tragos 'he-goat' अज + *akantha* 'thorn' कण्ट) **अजकण्ट-**
 
 **निर्यास**
 
@@ -7617,7 +7617,7 @@ treble cloth त्रिगुण वस्त्र
 treble costs तिगुना परिव्यय  
 treble damages तिगुनी हानिपूर्ति  
 treble-notched त्रि-काकपद, तीन खांचे वाला  
-treble rule of three** (rule of seven)*****Math.* **सप्तराशिक** *n.*  
+treble rule of three** (rule of seven)*Math.* **सप्तराशिक** *n.*  
 **treble tabulation** *Statistics* **त्रिगुण सारणीयन  
 trechmannite रनेशिज** *m.* (र-for रजत silver, ने-for नेपाली arsenic, श- for शुल्बेय sulphide,
 
@@ -7812,7 +7812,7 @@ trephine परिक्रकच
 *m.*  
 **trephine**
 
-*****vb.* **परिक्रकचन  
+*vb.* **परिक्रकचन  
 trephining परिक्रकचन** *n.*  
 **trephocytes = foot cells = nurse cells = sustentacular cells = Sertoli's cells**
 
@@ -8327,7 +8327,7 @@ trimetric** *adj. Cryst.* **त्रिमानिक
 trimmer समाकृन्तक** *m.*  
 **trimming 1.समाकृन्तन** *n.***, छांटना, काटछांट 2.कतरन** (*further see* trimmings)  
 **trimming axe** *Forestry* **समाकृन्तन-कुठार  
-trimmings 1.***Rly.* (for supply of oil to boarings) **वर्ति** *f.***, सौत्र** *n.*****(being madeof सूत्र)
+trimmings 1.***Rly.* (for supply of oil to boarings) **वर्ति** *f.***, सौत्र** *n.*(being madeof सूत्र)
 
 **2.***Textiles* (usually in pl.) **भूषणा, भूषापट्टी** *f.*
 
@@ -8414,7 +8414,7 @@ triplicate** *n.* **1.**(a third thing corresponding to the two others of the sa
 **triplicate** *vb.* **तीन प्रति बनाना, तीन प्रति निकालना  
 triplicate of a bill** *Com.* **विपत्र-तृतीयक  
 triplicate ratio** *Math.* **घनित अनुपात  
-triplite अलोतभास्विज** *m.*****(अ-for अयस् iron, लो-for लोहक manganese, त- for तर- fluo-, भास्व-
+triplite अलोतभास्विज** *m.*(अ-for अयस् iron, लो-for लोहक manganese, त- for तर- fluo-, भास्व-
 
 for भास्वीय phosphate, -इज for खनिज mineral)
 
@@ -8722,7 +8722,7 @@ are mostly keeled) **कूटितपृष्ठ-प्रजाति**
 **tropism = taxism** *Biol.* **आवर्तना** *f.*  
 **-tropism -आवर्तना** *f.*  
 **tropoli senna = Cassia obovata  
-tropo-pause** *Meteorol.* (upper portion of the troposphere) **परिवर्तावसान** *n.*****(-अवसान -pause)  
+tropo-pause** *Meteorol.* (upper portion of the troposphere) **परिवर्तावसान** *n.*(-अवसान -pause)  
 **tropophytes** *Ecol.* (plants which are adapted to exist in a climate in which a very dry
 
 season is followed by a wet one— Bor) **शुष्कार्द्रोद्भिद्** *f.*
@@ -8872,7 +8872,7 @@ trunk road महा-देशरथ्या** (Germ. *HauptLandstrasse*)**, �
 
 through traffic)
 
-**trunk segmental** *n. Zool.* ****** रुण्ड-खण्डीय  
+**trunk segmental** *n. Zool.* ** रुण्ड-खण्डीय  
 trunk telephone नगरान्तर-दूरभाष  
 trunnion** (a pivot projecting from the side of an ordnance) **विवर्ता** *f.*
 
@@ -8994,7 +8994,7 @@ T.U.** (trade union) **का.स.** (कार्मिक-संघ)
 **tub 1.द्रोण** *m.***2.**(holds about 4 gallons आढक) **द्रोण** *m.***3.***Mining* **द्रोणयान** *n.***, द्रोण***m.*  
 **tuba** (alarge deep-toned saxhorn) **मेघशृंग***n.*  
 **tubal pregnancy नाल-गर्भधारण  
-tube = underground railway अधोभूसंयान** *n.***,** (tube railway) **सुरंगा** *f.*****(short for सुरंगा-संयान)  
+tube = underground railway अधोभूसंयान** *n.***,** (tube railway) **सुरंगा** *f.*(short for सुरंगा-संयान)  
 **tube** *Chem.* **नाल***m.*
 
 **arsenic mirror tube** (bent, straight) **नेपालिक दर्पण-नाल** (नत, ऋजु)  
@@ -9232,7 +9232,7 @@ Tunicata** *Zool.* **सचोलाः** *m.pl.*
 tunicated** *Bot., Zool.* **सचोल  
 tunicated bulb** *Bot.* **सचोल कन्द  
 Tunicated scale leaf** *Bot.* **चोल-शल्कपत्र  
-tunica vaginalis** *Anat.* **परिवृषण** *m.*****(covering of the testes. The English word iswrong. Literally
+tunica vaginalis** *Anat.* **परिवृषण** *m.*(covering of the testes. The English word iswrong. Literally
 
 tunicaand vagina would be चोल and योनि)
 
@@ -9294,7 +9294,7 @@ Turbinidae वरीवर्तशंख-वंश** *m.*
 **turbith = turpeth  
 Turbo** *Zool.* (have a heavy turbinate shell—Web.) **वरीवर्तशंख-प्रजाति  
 turbo-generator वरीवर्त-जनित्र  
-turbot** *Zool.*****(fr. OSw. *torn-but; butt* 'flatfish') **कण्टपृथा** *f.*  
+turbot** *Zool.*(fr. OSw. *torn-but; butt* 'flatfish') **कण्टपृथा** *f.*  
 **turbulent** *adj.* **प्रक्षुब्ध  
 turbulent flow** *Phys.* **प्रक्षुब्धप्रवाह  
 Turdidae** *Aves***तर्दाश-वंश** *m.* (तर्द a field insect, Hindi टिड्डा + -अंश feeding on)  
@@ -9538,7 +9538,7 @@ twisting न्युद्वेष्टन***n.*
 **twitch** *vb. Physiol.* **स्फुरण  
 twitch grass = couch grass** (*Agropyron repens*) **शायिघास** *m.*  
 **twitching** *Physiol.* **स्फुरण** *n.*  
-**twite चटका** *f.*****(चटक ancient word)  
+**twite चटका** *f.*(चटक ancient word)  
 **T.W.O.** (Tribal Welfare Office) **व.क.का.**(यनजाति-कल्याण-कार्यालय)  
 **two-bedroom hut द्वि-शयनागार कुटीर  
 two-berth compartment** *Rly.* **द्विशायिका-कोष्ठ  
@@ -9763,7 +9763,7 @@ highअधि saturation and low नि brilliance) **न्यधिरक्�
 brilliance) **न्यधिरक्तानील**
 
 **tyro नौसिखिया  
-Tyroglyphidae** (Gk. *tyros* 'cheese' दधिक +$\\sqrt{{अद्}\~}$to eat) **दधिकाद-वंश** *m.*****(वंश family)  
+Tyroglyphidae** (Gk. *tyros* 'cheese' दधिक +$\\sqrt{{अद्}\~}$to eat) **दधिकाद-वंश** *m.*(वंश family)  
 **Tyroglyphus** *Zool.* **दधिकाद-प्रजाति  
 Tyroglyphus farinae मण्ड-दधिकाद  
 Tyroglyphus longior दीर्घ दधिकाद  

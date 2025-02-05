@@ -52,7 +52,7 @@ EDITED AND PUBLISHED
 
 BY  
 **VAIDYA JĀDAVJĪTRICUMJĪĀCHĀRYA,**  
-**372, B****ORĀBAZĀR STREET, FORT, BOMBAY.**
+**372, BORĀBAZĀR STREET, FORT, BOMBAY.**
 
 * *
 
@@ -4996,7 +4996,7 @@ All rights reseryed by the publisher.
 
 [TABLE]
 
-********
+
 
 [TABLE]
 
@@ -5049,7 +5049,7 @@ EDITED AND PUBLISHED
 BY  
 **VAIDYA JĀDAVJĪ TRICUMJĪ ĀCHĀRYA,**
 
-**372, B****ORĀBAZĀR STREET, FORT, BOMBAY.**
+**372, BORĀBAZĀR STREET, FORT, BOMBAY.**
 
 ***1912***  
 --  

@@ -28,7 +28,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MDkyMDk2OTU
 
 
 
-****
+
 
 TABLE OF CONTENTS
 
@@ -3310,7 +3310,7 @@ Fortunately the day dawned after I had finished my work. Now I have done this ju
 
 ** SAJJALAKA**—Would Vasantasenā—(*Stops when half through the words).*
 
-** COURTESAN**—I am the subject of their conversation. Well, I will listen. *(Turns back again and waits.)*****
+** COURTESAN**—I am the subject of their conversation. Well, I will listen. *(Turns back again and waits.)*
 
 ** SAJJALAKA**—Give you for a price?
 
@@ -3840,7 +3840,7 @@ first and third act. But from the arrangement between the चेटी and the �
 
 ** अथवा पूर्वाह्णे**etc. This observation on the life and habits of courtesans is original with our author. It is not to be met with in the **मृच्छ०**.
 
-**** P. 48. IV. I⁴. **तक्केमि... क्वएण मं याचेदि।—**This is rather ambiguous. I have translated it thus :—“This is some one who demands her of me by purchase.” But in this I have taken **मां** as indirect object, and ‘her’ as direct object although it is not there. Is it likely that she is thinking of some one who is negotiating with her maid for the purchase of her own person ? What a plain and vulgar idea that would be, although our author seems to be capable of such impropriety ! In the **मृच्छ०** we have :—एसो सो जणो एदं इच्छदि अभुजिस्सं कादुं । **( एषस जनः एनां इच्छति अभुजिष्यां कर्तुम् ।).**
+ P. 48. IV. I⁴. **तक्केमि... क्वएण मं याचेदि।—**This is rather ambiguous. I have translated it thus :—“This is some one who demands her of me by purchase.” But in this I have taken **मां** as indirect object, and ‘her’ as direct object although it is not there. Is it likely that she is thinking of some one who is negotiating with her maid for the purchase of her own person ? What a plain and vulgar idea that would be, although our author seems to be capable of such impropriety ! In the **मृच्छ०** we have :—एसो सो जणो एदं इच्छदि अभुजिस्सं कादुं । **( एषस जनः एनां इच्छति अभुजिष्यां कर्तुम् ।).**
 
  P. 51. IV. 4. **त्वत्स्नेह** etc. He suspects Madanika's constancy, when she remarked that it pleased her to know that Carudatta was not hurt. In the **मृच्छ॰**the poet takes this occasion to expatiate on the frailty of woman and gives as many as 9 verses (IV. 9-17) on this one theme.
 

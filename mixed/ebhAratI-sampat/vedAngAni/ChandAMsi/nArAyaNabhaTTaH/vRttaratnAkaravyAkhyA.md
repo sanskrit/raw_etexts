@@ -269,7 +269,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ0MjExNDAz
 
   
 
-****
+
 
 ** अथ द्वितीयोऽध्यायः**
 

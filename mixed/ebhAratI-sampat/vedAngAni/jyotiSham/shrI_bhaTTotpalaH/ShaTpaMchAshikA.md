@@ -309,7 +309,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MTkyMjAzNzc
 
 
 
-****
+
 
 
 
@@ -1233,7 +1233,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MTkyMjAzNzc
 
 
 
-****द्वितीयदुश्चिक्यगतौतथाचवर्षासुवृष्टिंप्रवदेन्नराणाम् ॥ ३ ॥****
+द्वितीयदुश्चिक्यगतौतथाचवर्षासुवृष्टिंप्रवदेन्नराणाम् ॥ ३ ॥
 
 
 

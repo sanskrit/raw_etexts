@@ -31,7 +31,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwODE3MjE2NDA
 
 
 
-** व्युत्पत्तिवादः**** **
+** व्युत्पत्तिवादः **
 
 
 
@@ -18055,7 +18055,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwODE3MjE2NDA
 
 
 
-****
+
 
 
 

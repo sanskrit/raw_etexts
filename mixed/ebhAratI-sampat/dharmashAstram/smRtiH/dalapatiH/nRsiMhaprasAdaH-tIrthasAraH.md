@@ -71,7 +71,7 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 
 
 
-**![](../books_images/U-IMG-1687441010Screenshot2023-06-22190637.png)****![](../books_images/U-IMG-1687441087Screenshot2023-06-22190753.png)**  
+**![](../books_images/U-IMG-1687441010Screenshot2023-06-22190637.png)![](../books_images/U-IMG-1687441087Screenshot2023-06-22190753.png)**  
 
 
 

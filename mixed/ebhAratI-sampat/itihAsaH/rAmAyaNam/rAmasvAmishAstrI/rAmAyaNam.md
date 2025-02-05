@@ -2711,7 +2711,7 @@ Surpanaka's description of Rama occurs in Āranya, XIX, 14, and Hanuman's descri
 
  But the highest fervour and power of poetic description are reserved by the poet for the description of the beauty of Sita But he never indulges in the inartistic habit of a full description of every portion of the feminine body as most of the later poets in India do. His is the natural and artistic method of maximum effect with minimum means He is able to bring before our mental eye a clear and perfect picture with a very few strokes. Even in the Bāla Kanda he places Sita's noble qualities first and her peerless beauty next.
 
-**गुणाद्रूपगुणाच्चापि प्रीतिर्भूयोप्यवर्धत॥ (LXXVII, 27)****.**
+**गुणाद्रूपगुणाच्चापि प्रीतिर्भूयोप्यवर्धत॥ (LXXVII, 27).**
 
 We get only stray adjectives and brief descriptions about her loveliness. See Āranya, XVIII, 17; XLVI, 12 to 14; LX, 13, 32; Kishkindha, I, 30, 50, 68; Sundara, XXIX, 7. With a perfect sense of fitness he puts only into Ravana's mouth a detailed description of her graces and charms. (Āranya, XLV, 17 to 23; LII, 16, 18; Sundara, XX, 13 to 15). The most spiritual descriptions of Sita are found in Cantos XV and XVI and XVII and XIX of the Sundara Kanda which contain the most wonderful poetic description of feminine beauty in the world and are at the same time the richest treasure-trove of poetic imagery and figures of speech. There is all the difference in the world between Ravana's voluptuous description and Hanuman's pure passionless spiritual delineation. On the other hand in Ravana's description of Rambha all spiritual elements are eliminated altogether. (Uttara, XXVI, 14 to 18).
 
@@ -4273,7 +4273,7 @@ occurs in it. But it seems to me that the most natural and acceptable explanatio
 
 That may have been a literary device as was the case with the prophecies in the puranas or the purā ia describing the future (Bhavishyat purāna).
 
-  Thus the theory glibly uttered and plausibly pressed that the Uttara Kanda is not genuine and cannot be accepted as the work of Valmiki has no substance at all. Some scholars say that there is a difference of style between the previous Kandas and the Uttara Kanda. They have not offered any tests to substantiate their **** *ipse dixit and ex cathedra* pronouncements. Though a few sargas or a few verses here and there may have been interpolated during periods of excessive sectarian zeal, the work as a whole is genuine. We must remember, as shown by me in the earlier portion of this work, that the Uttara Kanda was a sequel
+  Thus the theory glibly uttered and plausibly pressed that the Uttara Kanda is not genuine and cannot be accepted as the work of Valmiki has no substance at all. Some scholars say that there is a difference of style between the previous Kandas and the Uttara Kanda. They have not offered any tests to substantiate their  *ipse dixit and ex cathedra* pronouncements. Though a few sargas or a few verses here and there may have been interpolated during periods of excessive sectarian zeal, the work as a whole is genuine. We must remember, as shown by me in the earlier portion of this work, that the Uttara Kanda was a sequel
 
 
 
@@ -4887,7 +4887,7 @@ happenings by his power of *tapas*. He did not get angry with or curse the maide
 
   Tilaka, in his commentary at the end of Chapter X of the Bala Kānda, puts the question, why, if Rishyasringa touched the courtesans and ate the sweets brought by them and thus committed a sin, his approach to Angadesa brought the drought there to an end and resulted in abundant rain. He replies tohis own query thus:
 
-****  न च स्त्रीत्वाद्यज्ञानान्नतपोहानिः। ईषद्दोषस्तुतषसैव दग्ध इति वाच्यम्। निर्मल ब्रह्मचर्येण विदितनिखिलवेदशा- स्त्रतत्त्वस्य शास्त्रतः स्त्रीस्वरूपज्ञानस्य ब्रह्मचर्ये तत्परिहारज्ञानस्य दुर्निवारत्वात् वने वनचरस्त्रीणामनुभवाच्च। सर्वथाज्ञत्वेऽनुग्रहशक्त्यभावापत्तेश्चेति चेत्, न। निर्मलबह्मचर्येण ब्रह्मज्ञतया सर्वत्र ब्रह्मदृष्ट्या च दोषलेशस्याप्य स्पर्शात्। प्रारब्धवशात् क्षत्रियस्त्रीसंबन्धं भाविनं तद्द्वारकं जानन्नेव गणिकाभिस्तथा व्यवजह्रे तासां भयानुत्पत्तये। .... एतत्सर्वं जानन् पितापि तमनुयाय न शप्तवान् राजा नमित्येवात्र तत्त्वम्। अनेन तत्त्वज्ञस्य सर्वदोषासंबन्धो ध्वनितः।
+  न च स्त्रीत्वाद्यज्ञानान्नतपोहानिः। ईषद्दोषस्तुतषसैव दग्ध इति वाच्यम्। निर्मल ब्रह्मचर्येण विदितनिखिलवेदशा- स्त्रतत्त्वस्य शास्त्रतः स्त्रीस्वरूपज्ञानस्य ब्रह्मचर्ये तत्परिहारज्ञानस्य दुर्निवारत्वात् वने वनचरस्त्रीणामनुभवाच्च। सर्वथाज्ञत्वेऽनुग्रहशक्त्यभावापत्तेश्चेति चेत्, न। निर्मलबह्मचर्येण ब्रह्मज्ञतया सर्वत्र ब्रह्मदृष्ट्या च दोषलेशस्याप्य स्पर्शात्। प्रारब्धवशात् क्षत्रियस्त्रीसंबन्धं भाविनं तद्द्वारकं जानन्नेव गणिकाभिस्तथा व्यवजह्रे तासां भयानुत्पत्तये। .... एतत्सर्वं जानन् पितापि तमनुयाय न शप्तवान् राजा नमित्येवात्र तत्त्वम्। अनेन तत्त्वज्ञस्य सर्वदोषासंबन्धो ध्वनितः।
 
 The learned commentator proceeds even further in the sametrain. With all respect to him it seems to me that the whole discussion savours of pedantry and misses the essence of the poet's vision. Rishyasringa's soul was purity itself and his absence of knowledge of women and their charms and wiles should not be regarded as a blot on his omniscience. Rather should we think that he radiated purity to such an extent that he lifted the embrace of the courtesans from its usual level of passion or at least lasciviousness to the immaculate joy of a pure embrace. Such an attitude is described in the Bhagawata in terms which can well be recalled here:
 
@@ -4930,12 +4930,12 @@ Some scholars explain this as suggestive of rajoguna enclosing and enclosed by s
 **कैकेय्यै चावशिष्टार्धंददौ पुत्रार्थकारणात्।  
 प्रददौ च चावशिष्टार्धं पायसस्यामृतोपमम्॥**
 
-**अनुचिन्त्य सुमित्रायै पुनरेव महीपतिः॥ (B*****ā*****la, XVI, 27, 28).**
+**अनुचिन्त्य सुमित्रायै पुनरेव महीपतिः॥ (B*ā*la, XVI, 27, 28).**
 
 There is no difficulty about Rama and Lakshmana. They are mentioned in many places as a half and one-fourth of Vishnu.
 
 **कौसल्याऽजनयद्रामं सर्वलक्षणसंयुतम्।  
-विष्णोरर्धं महाभागं पुत्रमैक्ष्वाकुवर्धनम्॥ (B*****ā*****la, XVIII, 10).**
+विष्णोरर्धं महाभागं पुत्रमैक्ष्वाकुवर्धनम्॥ (B*ā*la, XVIII, 10).**
 
 **ततो विष्णोश्चतुर्भागभागतं सुरसत्तमाः।  
 दृष्ट्वा प्रमुदिताः सर्वे पूजयन्समहर्षयः॥ (Uttara, CVI, 18).**
@@ -5775,7 +5775,7 @@ she was being carried off by Ravana, the upper garment was a silk garment of gol
 
 Further, when she was in the Asoka Vana, she wore a few ornaments which married women should necessarily wear and tied the others to the branches of the tree under which she lived in the Asokavana
 
-  I must also point out that Sita treasured up her **** *Chu taman* **** (head-ornament) and gave it to Hanuman to be carried to Rama. I shall refer to it later on in this work.
+  I must also point out that Sita treasured up her  *Chu taman*  (head-ornament) and gave it to Hanuman to be carried to Rama. I shall refer to it later on in this work.
 
 **5. THE RIDDLE OF SUMANTRA**
 
@@ -5989,7 +5989,7 @@ Bharadwaja feasted Bharata's army with delicious divine viands by the power of h
 
 **1. THE RIDDLE OF AGASTYA'S ASRAMA.**
 
-  In Chapter XIV of the Aranya Kanda, Rama's visit to Agastya's asrama is described. It is stated there that various *sthānas* (shrines) of various Gods existed there. The question raised by Govindaraja is why Siva's shrine is not stated in that group. He arrives at the fanatical sectarian conclusion that Siva is therefore not worthy of worship. I have shown in Part I of this work that Valmiki treats all the members of the Trinity (Trimurthi) with equal reverence. Karthikeya's shrine is mentioned in Chapter XIV above and Govindaraja himself refer to all atternative reading in regard to the 67th stanza viz. **विष्णोः****स्थानं** **महेशस्य** instead of the extant reading **विष्णोः** **स्थानं** **महेन्द्रस्य**). Another explanation is that **सोम** in Verse 18 is Siva (**उभया** **सहितः**). A yet another explanation is that Agni in verse 17 is Rudra. Tilaka says. **अग्निरत्न** **रुद्रः** It seems to me that the proper way of looking at the matter is that the list of the deities in Chapter XIV is only illustrative and not exhaustive. For instance, Gayatri alone is mentioned. Tilaka says:
+  In Chapter XIV of the Aranya Kanda, Rama's visit to Agastya's asrama is described. It is stated there that various *sthānas* (shrines) of various Gods existed there. The question raised by Govindaraja is why Siva's shrine is not stated in that group. He arrives at the fanatical sectarian conclusion that Siva is therefore not worthy of worship. I have shown in Part I of this work that Valmiki treats all the members of the Trinity (Trimurthi) with equal reverence. Karthikeya's shrine is mentioned in Chapter XIV above and Govindaraja himself refer to all atternative reading in regard to the 67th stanza viz. **विष्णोःस्थानं** **महेशस्य** instead of the extant reading **विष्णोः** **स्थानं** **महेन्द्रस्य**). Another explanation is that **सोम** in Verse 18 is Siva (**उभया** **सहितः**). A yet another explanation is that Agni in verse 17 is Rudra. Tilaka says. **अग्निरत्न** **रुद्रः** It seems to me that the proper way of looking at the matter is that the list of the deities in Chapter XIV is only illustrative and not exhaustive. For instance, Gayatri alone is mentioned. Tilaka says:
 
 **गायत्रीति सरखतीसावित्र्योरुपलक्षणम्।**
 
@@ -6207,7 +6207,7 @@ Thus Hanuman had Siva's *amsa* also.
 
 
 
-**3. THE RIDDLE OF VALI AND SUGREEVA****.**
+**3. THE RIDDLE OF VALI AND SUGREEVA.**
 
   Rama's seeking Sugreeva's alliance was due to Kabandha's direction. Kabandha told him that Sugreeva was in exile and had his wife taken from him by Vali and was able to help him. The words **वालिना** **कृतकिल्बिषः**(Aranva, LXXXII, 2.) must have appealed to Rama most of all, as Rama's mission was to punish Adharma and establish Dharma (Kishkindha, V, 27; NIII 24, 12). Two facts decided Rama's choice. Vali took away Sugreeva's wife and drove away Sugreeva and attempted to kill him though the latter prayed for pardon and protection and thus broke the law of *Saranāgathi* (Kishkindha, X, 9, 26, 27). Hence the theory that Rama who was born in the Surya Vamsa sought the help of Sugreeva who was the son of Surya (Sun-God) and other explanations are not acceptable.
 
@@ -6217,7 +6217,7 @@ Thus Hanuman had Siva's *amsa* also.
 
 
 
-mighty Vali. Vali paid with his life for his twofold sin to burn that lesson into Ravana's mind. Sita Devi herself had gone to Lanka to warn and save. Was there not a similar and unrevealed motive behind Vali's action and fate? In Aranya, XIX, 59, he said that he desired death at Rama's hands (**त्वत्तो** **हिव****बधमा** **कांक्षान्**). Hanuman rubbed a terrible lesson into Ravana's mind when he said as follows to Ravana:
+mighty Vali. Vali paid with his life for his twofold sin to burn that lesson into Ravana's mind. Sita Devi herself had gone to Lanka to warn and save. Was there not a similar and unrevealed motive behind Vali's action and fate? In Aranya, XIX, 59, he said that he desired death at Rama's hands (**त्वत्तो** **हिवबधमा** **कांक्षान्**). Hanuman rubbed a terrible lesson into Ravana's mind when he said as follows to Ravana:
 
 **त्वया विज्ञातपूर्वश्च वाली वानरपुंगवः।  
 रामेण निहतस्संख्ये शरणैकेन वानरः॥(Sundara, LI, 11).**
@@ -6859,7 +6859,7 @@ Even today all pictures and images of Hanuman represent him as having the Sanjee
 
   Ravana is no doubt described in the poem as having ten heads and twenty arms. (Uttara, IX, 28). But many verses in the poem show that he had ordinarily one head and two arms, at least during nights (Sundara, X, 21, 22, 24; XXII, 18, 27, 28; XLII, 23; Yuddha, LIX, 110 to 113; XCIII, 20). Tilaka says :
 
-****  द्विभुजत्वकथनात् युद्धादिकालएव विंशतिभुनत्वं दशशीर्षत्वंचेति वोध्यम्।
+  द्विभुजत्वकथनात् युद्धादिकालएव विंशतिभुनत्वं दशशीर्षत्वंचेति वोध्यम्।
 
 (He had 10 heads and 20 arms only during battles). See Yuddha, CIII, 34. But he had that appearance on other public
 
@@ -7271,7 +7271,7 @@ Thus Lakshmana carried out the will of God in a final act of self-abnegation and
 
 **लब्ध्वा कुलधनं राजा लंकां प्रायाद्विभीषणः।**
 
-Some interpreters say that Kuladhana means Lanka Kuladhana or kingship of Lanka. But that is not a correct view as he had already been crowned king of Lanka by Rama. The commentators say that the Kuladhana was Rama's Kuladhana, i.e. the Ranga Vimana which was worshipped by him. **श्रीरंगविमानमिति****संप्रदायः** (Govindaraja). Theertha however says that as later on in Uttara, CVIII, 31, Rama is said to have given Ikshvakukula Daivata, that Kuladhana stated above must have been different.The Padmapurana refers to the giving of Ranga Vimana on the later occasion. So Theertha and Tilaka think that the Kuladhana stated in Yuddha, CXXXI, 85, was Vibheeshana's own Kuladhana of Lankā Rajya. Tulasidas says that what was given was not Ranganatha but a Sālagrama.
+Some interpreters say that Kuladhana means Lanka Kuladhana or kingship of Lanka. But that is not a correct view as he had already been crowned king of Lanka by Rama. The commentators say that the Kuladhana was Rama's Kuladhana, i.e. the Ranga Vimana which was worshipped by him. **श्रीरंगविमानमितिसंप्रदायः** (Govindaraja). Theertha however says that as later on in Uttara, CVIII, 31, Rama is said to have given Ikshvakukula Daivata, that Kuladhana stated above must have been different.The Padmapurana refers to the giving of Ranga Vimana on the later occasion. So Theertha and Tilaka think that the Kuladhana stated in Yuddha, CXXXI, 85, was Vibheeshana's own Kuladhana of Lankā Rajya. Tulasidas says that what was given was not Ranganatha but a Sālagrama.
 
   Thus Rama gave to Vibheeshana for worship the object of his own worship. It was his desire that God's grace should always rest on Lanka and its ruler and that Rama's own highest ideals of righteousness should be established there by Vibheeshana and should prevail there for ever. See Uttara, CVIII, 27 to 32.
 
@@ -7936,7 +7936,7 @@ would worship the deity and in fact the traditions say that was what happened an
 
 
 
-***  *****7*****. Unfriendliness.***
+***  *7*. Unfriendliness.***
 
 **यथा पुष्करपर्णेषु प्रतितास्तोयषिन्दवः।  
 न श्लेषमुपगच्छन्ति तथाऽनार्येषु सौहृदम्॥**
@@ -7992,7 +7992,7 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Ayodhya, XCVII, 5, 6).**
 
-***  *****2*****. Devotion to Father and Mother.***
+***  *2*. Devotion to Father and Mother.***
 
 **पिता हि प्रभुरस्माकं दवतंपरमं हि नः।  
 यस्य नो दास्यतिपिता सनो भर्ता भविष्यति॥**
@@ -8153,7 +8153,7 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Ayodhya, CXVIII, 3, 4, 9).**
 
-**5*****. Reverence for husband's relations.***
+**5*. Reverence for husband's relations.***
 
 **काल्यमुत्थाय देवानां कृत्वा पूजां यथाविधि।  
 वन्दितव्यो दशरथः पिता मम नरेश्वरः॥**
@@ -8169,7 +8169,7 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Ayodhya, XXVI, 30 to 33 )**
 
-**6*****. Chastity and modesty of women.***
+**6*. Chastity and modesty of women.***
 
 **सीतायास्तेजसा दग्धाम्। (Sundara, LI, 36).**
 
@@ -8193,7 +8193,7 @@ would worship the deity and in fact the traditions say that was what happened an
 
 
 
-**7*****. Affection for sons.***
+**7*. Affection for sons.***
 
 **यत्कृते पितरः पुत्रान् जनयन्ति शुभार्थिनः।  
 परलोकहितार्थाय तस्यकालोऽयमागतः॥ ( Bāla, LXII, 9).**
@@ -8216,7 +8216,7 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Ayodhya, LXIV, 64).**
 
-**8*****. Daughters.***
+**8*. Daughters.***
 
 **सदृशाच्चापकृष्टाच्च लोके कन्यापिता जनात्।  
 प्रधर्षणमवाप्नोति शक्रेणापि समो भुवि॥**
@@ -8231,7 +8231,7 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Uttara, IX, 9, 10).**
 
-**9*****. Agnates.***
+**9*. Agnates.***
 
 **जानामि शीलं ज्ञातीनां सर्वलोकेषु राक्षस।**
 
@@ -8272,7 +8272,7 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Sundara, XXX V, 11).**
 
-**12*****. No acquisition of wealth by causing harm to others.***
+**12*. No acquisition of wealth by causing harm to others.***
 
 **यद्द्रव्यं बान्धवानां वा मित्राणां वा क्षये भवेत्।  
 नाहं तत्प्रतिगृह्णीयां भक्षान् विषकृतानिव॥**
@@ -8588,7 +8588,7 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 
 **III. Spiritual Truths.**
 
-****1*****. Evanescence of youth and life.***
+1*. Evanescence of youth and life.***
 
 **चलं हितवसौभाग्यं नद्याः स्रोत इवोष्णगे॥**
 
@@ -8728,7 +8728,7 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 
 **(Yuddha, XLVI, 34).**
 
-**  4*****. Holy Mantras and Homas and Tarpanas.***
+**  4*. Holy Mantras and Homas and Tarpanas.***
 
 **एतद्विद्याद्वये लब्धे भविता नास्ति ते समः।  
 बलात्वतिबला चैव सर्वज्ञानस्य मातरौ॥**
@@ -10074,7 +10074,7 @@ as acceptance may proceed from selfishness. Acceptance as well as renunciation m
 
 (Masti Venkatesa Iyengar's * The Poetry of Valmiki*, page 275).
 
-  48. “The crown of appreciation that Valmiki set on Rama's head brings honour to India to day ., Valmiki deserves attention for being one of the few names in Indian history who have won respect for India from the world . . . Valmiki indeed is one of the sources of India's hope for the future. His large heart, open mind, deep vision and rich utterance came from this population . . . *No other poem in the world today has the place that the Ramayana holds in Indian life.* **** No civilization in the world today is as ancient as that of India and, for all the dust in in which it has been dragged, as fresh. There is in the world today no poem as ancient as the Ramayana which expounds the living tradition of a living people. Valmiki's position in letters is unique as India's position is in the world... More and more as the years pass, men will know its poet as prince of poets and master and elder. The more the world realizes this the more good will it attain. To Valmiki the cuckoo, seated on the branches of the tree of poesy and calling Rama, Rama, in sweet and mellifluent notes, let the world do reverence.""
+  48. “The crown of appreciation that Valmiki set on Rama's head brings honour to India to day ., Valmiki deserves attention for being one of the few names in Indian history who have won respect for India from the world . . . Valmiki indeed is one of the sources of India's hope for the future. His large heart, open mind, deep vision and rich utterance came from this population . . . *No other poem in the world today has the place that the Ramayana holds in Indian life.*  No civilization in the world today is as ancient as that of India and, for all the dust in in which it has been dragged, as fresh. There is in the world today no poem as ancient as the Ramayana which expounds the living tradition of a living people. Valmiki's position in letters is unique as India's position is in the world... More and more as the years pass, men will know its poet as prince of poets and master and elder. The more the world realizes this the more good will it attain. To Valmiki the cuckoo, seated on the branches of the tree of poesy and calling Rama, Rama, in sweet and mellifluent notes, let the world do reverence.""
 
 (Masti Venkatesa Iyengar's *The* *Poetry* *of* *Valmiki*, pages 277, 278).
 
@@ -10136,7 +10136,7 @@ T. Sundarachariar's *Studies* *in* *the* *Ramayana*)
 
   61. “For centuries the people of India have cherished the poem and looked upon its hero as a Divine Redeemer who lifted the curse of tyranny from earth and taught men the perfect way of life. It has been both poetry and ethics to them, fascinating them like poetry and inspiring them like ethics. The *Ramayana* has continued to influence Indian life throughout the ages. It is a great poem, and like every great poem it educates our emotions and touches the springs of our conduct.”
 
-(M. R. Sampatkumaran's *Sri* *Rama****—***G. A. Natesan & Co).
+(M. R. Sampatkumaran's *Sri* *Rama—***G. A. Natesan & Co).
 
   62. “The Ramayana has for centuries been a source of; and inspiration, of solace and wisdom to all Hindus.”
 
@@ -11929,7 +11929,7 @@ POEMS OF NATURE.
    सावर्ण्यकरणींचैव सन्धानकरणीं तथा॥ ( VI, LXXIV, 33)**
 
 **69. यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः।  
-   यस्यार्थास्स पुमांल्लोके यस्यार्थाः स च पंडितः॥****(VI, LXXXIII, 35 ).**
+   यस्यार्थास्स पुमांल्लोके यस्यार्थाः स च पंडितः॥(VI, LXXXIII, 35 ).**
 
 **70. देशे देशे कलत्राणि देशे देशे च बान्धवाः।  
    तं तु देशंलन पश्यामि यत्र भ्राता सहोदरः॥** **(VI, CII, 13 ).**
@@ -12254,14 +12254,14 @@ POEMS OF NATURE.
 | Valmiki and the Rasas Epics         | Valmiki and Womanhood Epics        |
 | Valmiki on *Rishis* (Sages) Epics   | Valmiki on Yukthis Epics           |
 | Valmiki on Rama Rajya Epics         | Vasishta Epics                     |
-| Valmiki on Roads Epics****          | Vibheeshana Epics                  |
+| Valmiki on Roads Epics          | Vibheeshana Epics                  |
 | Valmiki on Rural and Urban Councils | Vindhya and Mahendra—Part II Epics |
 | Valmiki on Rural Life Epics         | Viswamitra Epics                   |
 | Valmiki ou Sabhas Epics             | Vibheeshana—Part II                |
 | Valmiki on Samskaras Epics          | Viswamitra—Part II Epics           |
 | Valmiki on Saranāgati Epics         | Winternitz Epics                   |
 | Valmiki on the Soul Epics           | Yoga Vasishta—Part II Epics        |
-| Valmiki's Style Epics               | Yugas—Part II**** Epics           |
+| Valmiki's Style Epics               | Yugas—Part II Epics           |
 
 
 

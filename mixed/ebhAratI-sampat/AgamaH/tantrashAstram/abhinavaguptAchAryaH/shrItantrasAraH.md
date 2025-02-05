@@ -72,8 +72,8 @@ of very old Kashmiri paper. It belongs to the collection of books which one Manm
  But it is the Kashmir Durbar to whose liberal policy in matters of research into ancient Sanskrit Literature every credit is due in bringing out the literary books of this Department.
 
     ** SRINAGAR,**  
-*Dated 20th Nov. 1918.**** * **                   
-              ****
+*Dated 20th Nov. 1918. * **                   
+              
 
 **MAHÂMAHOPADHYAYA,**  
 **PANDIT MUKUND RAM SHASTRI.**  
@@ -518,7 +518,7 @@ Jammu and Kashmir State.
 
 [^26]: "छाया 'यत्र यत्र स्फुरणं स्फुरति स सकलः परमेश्वरो भासते मयि अमलः । आत्मा स एव परमार्थेन इति ज्ञात्वा कार्य परमस्ति न ॥"
 
-**** इति श्रीमदभिनवगुप्ताचार्यविरचिते तन्त्रसारे अनुपायप्रकाशनं नाम द्वितीयमाह्निकम्॥२॥
+ इति श्रीमदभिनवगुप्ताचार्यविरचिते तन्त्रसारे अनुपायप्रकाशनं नाम द्वितीयमाह्निकम्॥२॥
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

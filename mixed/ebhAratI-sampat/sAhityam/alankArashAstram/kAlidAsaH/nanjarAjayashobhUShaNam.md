@@ -84,7 +84,7 @@ BARODA
 
 
 
-****————————————————————————————————————————————————****  
+————————————————————————————————————————————————  
 Pages 1 to 270 printed by Manilal Itcharam Desai, at the Gujerati News Printing Press,  
 Bake House Lane, Fort, Bombay, and the remainder by R. R. Bakhale, at the  
 Bombay Vaibhav Press, Servants of India Society's Home,  
@@ -93,7 +93,7 @@ AND
 Published on behalf of the Government of His Highness the Maharaja Gaekwad  
 of Baroda by Benoytosh Bhattacharyya, at the Oriental Institute, Baroda.
 
-****————————————————————————————————————————————————****
+————————————————————————————————————————————————
 
 
 
@@ -1250,7 +1250,7 @@ VADTAL,
 
 **    
 ![](#)![](../books_images/U-IMG-1705728686Screenshot2024-01-20105855.png)  
-    ****नञ्जराजयशोभूषणम्**  
+    नञ्जराजयशोभूषणम्**  
 वन्देऽहं वन्दनीयानां वन्द्यां वाचामधीश्वरीम्  
 कामिता शेषकल्याणकल्पनाकल्पवल्लिकाम् ॥१॥  
 यदीक्षाञ्चलकल्पिता हरिहरब्रह्मादयो निर्जराः  
@@ -8263,7 +8263,7 @@ OL. वा.
 
  अत्र साङ्करस्याह्वानात्मनोत्प्रेक्षणात् गुणभावस्वरूपोत्प्रेक्षा ।
 
-**** गुणहेतुत्प्रेक्षा यथा —
+ गुणहेतुत्प्रेक्षा यथा —
 
 
 

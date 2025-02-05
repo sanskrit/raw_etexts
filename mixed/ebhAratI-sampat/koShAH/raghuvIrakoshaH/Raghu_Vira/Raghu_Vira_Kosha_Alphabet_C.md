@@ -130,7 +130,7 @@ C_(a)
 
 C.
 
-(coefficient of true cubical expansion) **** *Phys.*
+(coefficient of true cubical expansion)  *Phys.*
 
 व
 
@@ -217,9 +217,9 @@ Phys.
 
 Ca
 
-(calcium) **** *Chem.*
+(calcium)  *Chem.*
 
-**** चू
+ चू
 
 (चूर्णातु)  
 
@@ -977,7 +977,7 @@ high प्र brilliance)
 
 cadmo-, cadm-
 
-(cadmium) *Chem.***मृज्य-****
+(cadmium) *Chem.***मृज्य-
 
 (मृज्यातु)  
 
@@ -1333,7 +1333,7 @@ caffeinism अतिकापेयीता** *f.*
 **caffein sodium benzoate कापेयि क्षारातु धूपीय  
 caffeism = caffeinism  
 caffeol** *Chem.* (a fragrant oil developedby roasting coffee) **कापेयैल** *n.*  
-**caffe-tannic acid** *Chem.* **कापेय-शल्किक******अम्ल**  
+**caffe-tannic acid** *Chem.* **कापेय-शल्किक**अम्ल**  
 **caffe-tannin** *Chem.* **कापेय-शल्कि** *f.*  
 **caffoline** *Chem.* (a degradation product of caffeine) **अपकापेयी***f.*  
 **caffre cat =Egyptian cat मिश्र-विडाल  
@@ -1389,7 +1389,7 @@ cajuput** (Malay *kayu*द्रुम + *putih* धवल) (*Melaleuca leucaden
 **cajuputol धवलव***m.*  
 **cake 1.फुल्लपूर** (*Cf.* Nepali फुलौरो, Skt. पूर cake), **अपूप** *m.*
 
-**2.पिण्ड** *m., * (of opium)****चकती, (of soap)**बट्टी**  
+**2.पिण्ड** *m., * (of opium)चकती, (of soap)**बट्टी**  
 
 **colour cake रंग-पिण्ड**
 
@@ -1412,7 +1412,7 @@ Calamariae** *Bot.* **शर-कुल** *n.*
 Calamichthys = Calamoichthys  
 calamine 1.= hemimorphite** (hydrous zincsilicate) **सैकुप्यिज** *m.* **(**सै- for सैकतीय silicate,
 
-कुप्य-for कुप्यातु zinc, -इजfor खनिज mineral)**2.= smithsonite** (native zinccarbonate) **कुप्यांगीयिज** *m.*****(कुप्य-for कुप्यातु zinc, -अंगीय for प्रांगारीय carbonate, -इजfor खनिज mineral)**3.**(alloy of zinc, lead and tin) **कुसीत्रातु** *m.* (कु-for कुप्यातु zinc, सी-for सीसlead, त्र-for त्रपुtin, -आतु for मिश्रातु alloy)
+कुप्य-for कुप्यातु zinc, -इजfor खनिज mineral)**2.= smithsonite** (native zinccarbonate) **कुप्यांगीयिज** *m.*(कुप्य-for कुप्यातु zinc, -अंगीय for प्रांगारीय carbonate, -इजfor खनिज mineral)**3.**(alloy of zinc, lead and tin) **कुसीत्रातु** *m.* (कु-for कुप्यातु zinc, सी-for सीसlead, त्र-for त्रपुtin, -आतु for मिश्रातु alloy)
 
 **calamine** (a crystalline alkaloid) **विवचि** *f.* (वचा *Acorus calamus*)  
 **calamint सुपर्णास** *m.*  
@@ -1456,7 +1456,7 @@ Euryi (has radiating vertical
 
 **Calamostachys ludwigi** (bracts of the cone are free) **मुक्तपत्र नडशंकु**  
 
-**calamus = quill** *Zool.* **पत्रनाडी** *f.*****(*Cf.*पक्षनाडी which occurs in सुश्रुत)  
+**calamus = quill** *Zool.* **पत्रनाडी** *f.*(*Cf.*पक्षनाडी which occurs in सुश्रुत)  
 **Calamus** *Bot.* **वेत्र-प्रजाति**  
 
 **Calamusdraco नाग-वेत्र  
@@ -1686,7 +1686,7 @@ calcidine
 
 (calcium gluconate with iodine) *Pharm.* **चूर्ण-जम्बुकी**
 
-****
+
 
 f.  
 
@@ -3286,7 +3286,7 @@ n.
 
 calorist उष-वादी
 
-(-इन्)****
+(-इन्)
 
 m.  
 
@@ -3588,7 +3588,7 @@ Bot.
 
 पुष्पकोश
 
-m.****
+m.
 
 (क)
 
@@ -5885,7 +5885,7 @@ canvas hose गाढक-नम्यनाल**
 
 **canvasser 1.***Com.* **पण्यार्थक** *m.*
 
-**2.मतार्थक** *m.***3.***Rly.***अर्थी** (-इन्)*****m.*  
+**2.मतार्थक** *m.***3.***Rly.***अर्थी** (-इन्)*m.*  
 
 **canvassing at elections निर्वाचन के समय मत मांगना  
 canvas wrapper गाढक-वेष्ट  
@@ -6511,7 +6511,7 @@ capreolate
 
 Bot.
 
-(having tendrils or tendril-like structures)****
+(having tendrils or tendril-like structures)
 
 **सञ्जनीमान्** (सञ्जनी'tendril')  
 
@@ -6912,7 +6912,7 @@ Labidosaurus संदंशीसरट प्रजाति) प्रदं�
 **capture** *vb.* **परिग्रहण, बलाद्ग्रहण, बन्दीकरण, पकड़ना**  
 **capture** *n.* **1.परिग्रहण, बलाद्ग्रहण** (taking by force), बन्दीकरण *n.*(capture of an enemy),
 
-पकड़ना 2.*Geol.**=*****river-capture नदी-प्रग्रहण** *n.*
+पकड़ना 2.*Geol.**=*river-capture नदी-प्रग्रहण** *n.*
 
 **captured animal परिगृहीत पशु  
 capturing licence परिग्रहण-अनुज्ञप्ति  
@@ -6943,7 +6943,7 @@ motor car वहित्र-यान
 tramway रथ्या-यान  
 train संयान**
 
-**Carabidae** (Gk. *karabos* 'a horned शृंगी beetle भृंग') *Zool. * (a large family of beetle)****
+**Carabidae** (Gk. *karabos* 'a horned शृंगी beetle भृंग') *Zool. * (a large family of beetle)
 
 **शृंगिभृंग-वंश** *m.*
 
@@ -6960,7 +6960,7 @@ panelling, furniture, picture-frames and similar purposes—Tr.II.504) **सा�
 
 **Caralluma** *Bot.* **दुग्धिका-प्रजाति  
 Caralluma edulis सामान्य-दुग्धिका** (Basu दुग्धिका)  
-**carambola apple** (*Averrhoa carambola*)**कर्मरंग** *m.*****(B.,N.,M)  
+**carambola apple** (*Averrhoa carambola*)**कर्मरंग** *m.*(B.,N.,M)  
 **caramel 1.**(a substance obtained by heating sugar...used as colouring matter for food
 
 and beverages, etc.)**रञ्ज-शार्कर** *n.***2.**(a colour, red-yellow रक्तपीत in hue,
@@ -6974,7 +6974,7 @@ Carapa moluccensis** (the bark possesses extreme bitterness—Basu) **साम�
 Carapa obovata** (a small tree—Basu) **लघु कटुशल्क  
 carapace** *Zool.* (a shield covering the back or part of the back of an animal) **पृष्ठवर्म** *n.,*
 
-**उत्कवच** *m.* (upper **** shell)
+**उत्कवच** *m.* (upper  shell)
 
 **Carara = Coronopus** (wart cresses)*Bot.* (ill-smelling पूतिherbs of the mustard सर्षप family)
 
@@ -7082,7 +7082,7 @@ carbolic lotion प्रांगविक अवनेग
 carbolic oil प्रांगविक तैल  
 carbolicwash प्रांगविक धावन  
 carbo ligni** *Pharm.* (used as an absorbent) **चूषांगार** *m.*  
-**carbolineate** *vb.*****(to treat or impregnate with carbolineum) **विक्षामैलन,**
+**carbolineate** *vb.*(to treat or impregnate with carbolineum) **विक्षामैलन,**
 
 **विक्षामैल-साधन,**
 
@@ -7164,10 +7164,10 @@ carbontetrabromide प्रांगार चतुर्दुरेय
 carbontetrachloride प्रांगार चतुर्निरेय  
 carbontetrachloride extinguisher प्रांगार चतुर्नीरेय शमक  
 carbon tissue = carbon paper  
-carbontransfer ** *Photog.*******प्रांगार-संक्रामण  
+carbontransfer ** *Photog.***प्रांगार-संक्रामण  
 carbontransmitter** *Phys.* **प्रांगार-पारेषक  
 carbontrichloride प्रांगार त्रिनीरेय  
-carbontube** *Anal.****Chem.* **प्रांगार-नाल  
+carbontube** *Anal.Chem.* **प्रांगार-नाल  
 carbon -uria प्रांगार-मेह** *m.*  
 **carbona** *Mining* (an irregular deposit of tin ore; astock-work) **त्रपुका** *f.*  
 **carbonaceous** *adj.* **1.**(coaly) **अंगारिय 2.**(pertaining to, containing, or composed of, carbon)
@@ -7180,7 +7180,7 @@ carbonado = carbon diamond = black diamond प्रांगार-हीरक
 carbonatation = carbonation  
 carbonate** *n.* **1.***Chem.* **प्रांगारीय** *n.***2.***Mining* (any ore containing a large proportion of lead
 
-carbonate) **प्रांगारीय** *n.*****(सीस-प्रांगारीयिज)
+carbonate) **प्रांगारीय** *n.*(सीस-प्रांगारीयिज)
 
 **carbonate** *vb. Chem.* **प्रांगारीयण 1.**(to convert into a carbonate) **प्रांगारीय-करण**
 
@@ -7286,7 +7286,7 @@ carburate = carburet** *vb.*
 **carburation प्रांगेयण** *n.*  
 **carburator प्रांगेयक***m.*  
 **carbure = carbide  
-carburet***n.* **=******c**arbide**प्रांगेय***n.*  
+carburet***n.* **=**c**arbide**प्रांगेय***n.*  
 **carburet** *vb.***प्रांगेयण  
 carburetant प्रांगेयक***m.*  
 **carbureted** *adj.* **प्रांगेयित  
@@ -7296,7 +7296,7 @@ carbureter = carburetor
 carburetion** (act or process of carbureting; carburation) **प्रांगेयण** *n.,* **प्रांगेयणा***f.*  
 **carburetor, carburettor प्रांगेयिता** (-तृ)**, प्रांगेयक***m.*  
 **carburization प्रांगायण** *n.*  
-**carburize** *vb.* **प्रांगायण******1.**(to combine or impregnate with carbon) **प्रांगार-योजन, प्रांगार-**
+**carburize** *vb.* **प्रांगायण**1.**(to combine or impregnate with carbon) **प्रांगार-योजन, प्रांगार-**
 
 **व्यापन 2.= carburet**
 
@@ -7322,7 +7322,7 @@ Carcharodon** *Zool.* (one of the largest and most formidable of sharks—CNH. I
 **महाग्राह-प्रजाति**
 
 **Carcharodon megalodon महादन्त महाग्राह  
-Carcharoidei** *Zool.* (Gk. *karcharos* 'sharp-pointed') **असिग्राह-समूह** *m.*****(असि ‘shark'
+Carcharoidei** *Zool.* (Gk. *karcharos* 'sharp-pointed') **असिग्राह-समूह** *m.*(असि ‘shark'
 
 ancient word)
 
@@ -7864,11 +7864,11 @@ Carica papaya** (papaya, papaw, melon tree, papeta, pawpaw, tree-melon)
 **caries of bone अस्थ्यशना  
 caries of spines मेरु-अशना  
 caries of teeth दन्ताशना  
-carilla fruit** (*Momordica charantia*)**कारवेल्ल** *m.*****(B., N., M.), **करेला  
+carilla fruit** (*Momordica charantia*)**कारवेल्ल** *m.*(B., N., M.), **करेला  
 Carina** *Astron.* **दक्षिण-धनुस्** *n.*(*for* *α*, *β*, Carinae
 
 *see* Argo Navis)  
-**carina 1.***Bot.***= keelनिधरण n. 2.***Zool.*****(a keel-like ridge) **कूटिका** *f.*****(कूट a ridge)  
+**carina 1.***Bot.***= keelनिधरण n. 2.***Zool.*(a keel-like ridge) **कूटिका** *f.*(कूट a ridge)  
 **carinal canal** *Bot.* (a water canal in the inner sideof xylem) **दारु-कुल्या**(दारुxylem)  
 **Carinaria** *Zool.* (bonnet-shaped shell—Web.) **टोपीशंख-प्रजाति  
 Carinaria mediterranea सामुद्र टोपीशंख  
@@ -7933,7 +7933,7 @@ liaison अवैध प्रेम
 sexual intercourse मैथुन, समागम**
 
 **carnal knowledge** (sexual intercourse) **संभोग** *m.*  
-**carnallite** (a hydrous potassium magnesium chloride) **दभ्रनीरिज** *m.*****(द-for दहातु potassium,
+**carnallite** (a hydrous potassium magnesium chloride) **दभ्रनीरिज** *m.*(द-for दहातु potassium,
 
 भ्र- for भ्राजातुmagnesium, नीर- for नीरेय chloride, -इज for खनिज mineral)
 
@@ -8073,7 +8073,7 @@ carnosine
 Carnot efficiency = thermodynamic efficiency तापप्रावैगिक कार्यानुपात  
 Carnot engine
 
-Phys.****
+Phys.
 
 (atheoretical heat engine)
 
@@ -9630,7 +9630,7 @@ Gram.
 
 *n.*
 
-**6.***Law* **a****(in criminal law)
+**6.***Law* **a(in criminal law)
 
 अभियोग
 
@@ -9662,7 +9662,7 @@ n.,
 
 डब्बा, पेटी 9.आवरण
 
-*n.*****
+*n.*
 
 (glass case काचावरण, pillow case शिरोधानावरण)
 
@@ -10272,7 +10272,7 @@ Law
 
 शून्यकरण
 
-*n.,*****
+*n.,*
 
 (to cease)
 
@@ -10388,7 +10388,7 @@ and itch— Basu) **खर्जुघ्न कासमर्द** (N.,M. ख�
 **cassia bark = Chinese cinnamon** (*Cinnamomum cassia*) **चीन-दारुसिता** *f.*  
 **cassia cinnamon** (*Cinnamomum tamala*)**तेजपत्र***m.* (Basu)  
 **cassia lignea 1.**(*Cinnamomum cassia*)**चीन-दारुसिता** *f.***2.**(*Cinnamomum tamala*) **तेजपत्र***m.*  
-**cassia oil = Chinese cinnamon oil****चीनदारुसिता-तैल**  
+**cassia oil = Chinese cinnamon oilचीनदारुसिता-तैल**  
 **cassie flowers** (*Acacia farnesiana*)**कृमिशात्रव** *m.* (B.,M.)  
 **Cassinis' division** (the middle ring of the Saturn is separated from
 
@@ -10437,7 +10437,7 @@ bristles'—involucre armed with stout spines: Tr. III.950)
 **cast a vote मत-दान, मत देना  
 castaway** *adj.* **परित्यक्त  
 cast down** *adj.* (in spirit)**हतोत्साह, उच्छिन्न  
-caste जाति***f.,*******वर्ण***m.*  
+caste जाति***f.,***वर्ण***m.*  
 **caste autonomy जाति-स्वायत्तता  
 caste feast जाति-भोज  
 caste health camp जातीय स्वास्थ्य-शिविर**  
@@ -10621,11 +10621,11 @@ catamount** (*cat* + *a* for *of* + *mount*)**गिरिविडाल** *m.*
 **cataphoresis** *Chem.* (downward motion of electrically discharged particles)**निगति***f.*  
 **cataphyll** (*cata*- 'down' अधः+*-phyll* पत्र—transl. of Germ. *niederblat*t: reduced floral leaves on
 
-the lower part of a plant or ashoot— McLean I.988) **अधःपत्र** *n.*****  
+the lower part of a plant or ashoot— McLean I.988) **अधःपत्र** *n.*  
 *Cf.* **hypsophyll उपरिपत्र**
 
 **cataplasm = poultice** *Med.* **उपनाह** *m.*(from सुश्रुत)  
-**cataplasm****of****kaolin** *Pharm.* **प्रमृद्-उपनाह  
+**cataplasmofkaolin** *Pharm.* **प्रमृद्-उपनाह  
 catapult अपक्षेपी** (-इन्) *m.*  
 **catapult-like mechanism** *Bot.* **अपक्षेपी के समान रचना  
 cataract 1.**(a large waterfall) **महाप्रपात** *m.***2.***Geog.* (aseries of falls)
@@ -10636,13 +10636,13 @@ cataract 1.**(a large waterfall) **महाप्रपात** *m.***2.***Geog
 
 **cataract operation मुक्ताबिन्दु-शल्यकर्म, मोतियाबिन्दु का शल्यकर्म  
 Catarhini** (group) **अधोनास-समूह** *m.* (nostrils directed downward)  
-**catarrh** *Med.* **पीनस** *m.*****(from सुश्रुत)  
+**catarrh** *Med.* **पीनस** *m.*(from सुश्रुत)  
 **catarrhal** *adj.* **पैनस  
 catarrhal fever** *Veter.* **पीनस-ज्वर  
 catarrhal pneumonia = lobular pneumonia खण्डिका-क्लोमपाक  
 Catarrhina** *Zool.* (distinguished by having the nostrils नासdirecteddownward अधो-) **अधोनासाः**
 
-*m.pl.,* **अधोनास-महावंश***m.*****(महावंश superfamily)
+*m.pl.,* **अधोनास-महावंश***m.*(महावंश superfamily)
 
 **catastrophe अनर्थ** *m.,* **विपद्** *f.*  
 **catastrophism** *Evolution* **विपद्-वाद***m.*  
@@ -11348,7 +11348,7 @@ cauliflorous tree** (flower shoots grow from the main trunk— McLean I.845) **�
 
 branches— Henderson) **स्तम्भपुष्पता** *f.*
 
-**cauliflower पुष्पशाक** *n.*****(the head con
+**cauliflower पुष्पशाक** *n.*(the head con
 
 sists of the thickened flower cluster),**फूलगोभी**  
 
@@ -11392,7 +11392,7 @@ causality** *Logic* (relation of cause and effect) **कार्य-कार�
 
 **कारणत्व**
 
-****
+
 
 *n.*
 
@@ -11402,7 +11402,7 @@ causality** *Logic* (relation of cause and effect) **कार्य-कार�
 causal relationship कारण-संबन्ध  
 causa materialis** (material cause) **समवायी कारण, उपादान-कारण** ( ancient words)  
 **causa mortis मृत्यु-कारणात्, मृत्यु के कारण  
-causa prima मूल कारण, बीज** *n.*****(बीज ancient word)  
+causa prima मूल कारण, बीज** *n.*(बीज ancient word)  
 **causa proxima सद्यः-कारण  
 causare** (to litigate)**वाद करना  
 causa remota दूर कारण,विप्रकृष्ट कारण  
@@ -11422,7 +11422,7 @@ law of universal causation सामान्य कार्य-कारण-�
 **causative organism कारक जीव  
 causator** *Law***वादकर्ता** (-तृ) *m.*  
 **causatum** *Logic* **कार्य** *n.*  
-**causa turpis** *Law*****(an unlawful motive or purpose) **अवैध प्रेरणा  
+**causa turpis** *Law*(an unlawful motive or purpose) **अवैध प्रेरणा  
 cause 1.कारण** *n.,***हेतु** *m.***,निमित्त** *n.***2.विचार्य पद** *n.*
 
 **3.**(side of a question) **पक्ष** *m.***4.***Law* **वाद** *m.*
@@ -11451,7 +11451,7 @@ caused by से हुई, के कारण हुई** (Const.)
 cause lists of criminal and revenue cases आपराधिक और राजस्व वादों की सूचियां  
 cause notice to be served सूचना-निर्वाहण करवाना  
 cause of accusation** *Law* **दोषारोपकारण  
-cause of action** *Law* **वाद-मूल** *n.*****(Const.)
+cause of action** *Law* **वाद-मूल** *n.*(Const.)
 
 **right of action** *Law* **वादाधिकार**
 
@@ -11465,7 +11465,7 @@ cause to be produced at such time and place उस समय और स्था
 cause to move** *Parliament* **प्रस्तावन, प्रस्ताव करवाना  
 causeway = Irish bridge** (a raised way or road across wet or marshy ground or across water)
 
-**उच्चमार्ग** *m.*****(*see*alley)
+**उच्चमार्ग** *m.*(*see*alley)
 
 **caustic** *adj.* **1.**(taste, biting like cayenne pepper) **दाहक, तिक्त**
 
@@ -12241,7 +12241,7 @@ celerity त्वरा, त्वरितगति** *f.*
 **celery-leaved butter-cup** *or* **crowfoot**(*Ranunculus sceleratus*) **कच्छ नवनीत-चष  
 celery seed** *Pharm.* **प्रयवानी-बीज  
 celeste** (a colour, blue नील in hue, of low अवsaturation) **अवनील  
-celestial** *adj.***1.***Astron.* **खगोल-, खगोलीय******2.दैव, दिव्य  
+celestial** *adj.***1.***Astron.* **खगोल-, खगोलीय**2.दैव, दिव्य  
 celestial body = heavenly body खगोल-काय  
 celestial equator खगोल-विषुवद्वृत्त  
 celestial horizon खगोल-क्षितिज  
@@ -12772,7 +12772,7 @@ cementation)
 **वज्रचूर्ण-योजन, वज्रचूर्ण-श्लेषण 2.**(to overlay with cement)**वज्रलेपन**
 
 **cemental** *adj.***वज्रचूर्णिय  
-cementation 1.**(act) **वज्रण ***n.,* ( process)**वज्रणा** *f.,*****(state of being cemented)**वज्रितत्व** *n.***2.***Metal.*
+cementation 1.**(act) **वज्रण ***n.,* ( process)**वज्रणा** *f.,*(state of being cemented)**वज्रितत्व** *n.***2.***Metal.*
 
 (impregnation of the surface of a metal by another substance) **संव्यापन** *n.***3.(**the process of obtaining a metal by precipitation with another metalfrom asolution) **अभिसादना** *f.***4.योजन** *n.*
 
@@ -14415,7 +14415,7 @@ Zool.
 मस्तिष्क-पार्श्व-प्रगण्ड  
 cerebrose
 
-*Biochem.*****(galactose obtained from cerebrosides)
+*Biochem.*(galactose obtained from cerebrosides)
 
 मस्तधु
 
@@ -14961,7 +14961,7 @@ m.
 
 certificate 1.प्रमाणपत्र
 
-n.****
+n.
 
 (Const.)
 
@@ -18610,7 +18610,7 @@ Law
 
 दोषारोप
 
-m.****
+m.
 
 (Const.) (see plaint)
 
@@ -19373,7 +19373,7 @@ adj. Chem.
 chaulmugra = chaulmoogra  
 Chauna
 
-Zool.****
+Zool.
 
 (genus of crested screamers)
 
@@ -24498,7 +24498,7 @@ chloro-platinous** *adj. Chem.* **नीर-मह्य
 **Chloropsis** *Aves* **पत्रगुप्त-प्रजाति** (the green birds are invisibleगुप्त in the foliage पत्र of a tree)  
 **chloropsis** *Aves* **पत्रगुप्त** *m.*  
 **2-chloro-quinoline***Chem.* **२-नीर-विज्वर-वी  
-chloro-silicate** *Chem.,******Mineral.* **नीर-सैकतीय  
+chloro-silicate** *Chem.,**Mineral.* **नीर-सैकतीय  
 chlorosis 1.***Med.* **= greensickness हरिद्रोग***m.***2.Plant Pathol.** (a diseased condition, in
 
 chlorophyll-bearing plants,manifested as yellowing or blanching of the green parts,  
@@ -25197,7 +25197,7 @@ Chrysomonadales** *Bot.* **पीतकशिका-गोत्र** *n.*
 **Dist. : Chrysomma सुवर्णाक्ष-प्रजाति**
 
 **chrys-opal** *Mineral.* **1. = chrysoberyl 2.**(an opalescent varietyof chrysolite) **हेमोपल** *m.*  
-**Chrysopelea**(flying snake of Borneo)*****Zool.* **उड्डयिसर्प-प्रजाति  
+**Chrysopelea**(flying snake of Borneo)*Zool.* **उड्डयिसर्प-प्रजाति  
 chryso-phan** *Chem.* **हेम-दृश्** *m.*  
 **chryso-phanic** *adj. Chem.* **हेम-दृशिक  
 chryso-phenin हेम-दर्शि  
@@ -25372,7 +25372,7 @@ the whole eyeball)
 ciliary muscle** *Anat.***वलिकाय-पेशी  
 ciliary nerve** *Anat.* **वलिकाय-चेता  
 ciliary processes** *Anat.* (vascular folds) **वलि, वलिका** *f.*  
-**Ciliata** *Zool.*****(a subclass or order of Infusoria having cilia both when young and adult)
+**Ciliata** *Zool.*(a subclass or order of Infusoria having cilia both when young and adult)
 
 **पक्ष्मांगाः***m.pl.*
 
@@ -25530,7 +25530,7 @@ cinnabar red** *Col. Ind.* **हिंगुल रक्त**
 **cinnabar scarlet** *Col. Ind.* **हिंगुल शोण  
 cinnam- = cinnamo-  
 cinnamal** (*cinnamal*dehyde) *Chem.* **दारूसितासु***m.*  
-**cinnam-aldehyde** *Chem.* **दारूसिता-सुव्युद****  
+**cinnam-aldehyde** *Chem.* **दारूसिता-सुव्युद  
 **cinnamate** *Chem.* **दारूसितीय** *n.*  
 **cinnamein दारुसितिन***m.*  
 **cinnamene** *Chem.* **दारूसितेन्य***n.*  
@@ -25762,7 +25762,7 @@ circumscissile** *Bot.* (dehiscing by a transverse fissure around the circumfere
 
 **परिस्फोटी** (-इन्)
 
-**circumscribe 1.सीमाबन्धन** *n.***2.***Geom.* **परिलेखन** *n.*****(to draw round)  
+**circumscribe 1.सीमाबन्धन** *n.***2.***Geom.* **परिलेखन** *n.*(to draw round)  
 **circumscribed** *adj.* **1.सीमाबद्ध 2.***Geom.* **परिलिखित  
 circumscription** *Math.* **परिलेखन** *n.*  
 **circumspection सतर्कता** *f.,* **चौकसी  
@@ -25930,7 +25930,7 @@ citrine** *adj.* **1.= citrean नैम्बव 2.**(like a citron or lemon) *
 
 **मध्यपीतारक्त 2.= yellow quartz***Mineral.* **पीत-स्फटिक***m.*
 
-**citrine myrobalan** (*Terminalia citrina*)**शिवा***f.*****(MW.)  
+**citrine myrobalan** (*Terminalia citrina*)**शिवा***f.*(MW.)  
 **citrine ointment** *Pharm.* **निम्बु-अभ्यञ्जन  
 citrinus** (lemon yellow) **निम्बु-पीत  
 citri-odorus** *Bot. Tax.* **निम्बु-वास  
@@ -25940,7 +25940,7 @@ citro-, citr-** (citric) *Chem.* **निम्बु-** (निम्बवि�
 **Citromyces pfefferianus अम्ल निम्बुकवक** (Germ. *pfeffer* 'pepper, sharp')  
 **citron 1.निम्बु** *m.,* **जम्बीर***n.***2.**(*Citrus medica*) **बीजपूर** *m.* (B.,M.), **बिजौरा**  
 **citronade = lemonade निम्बुपानक** *n.*  
-**citronella निम्बुकी** *f.*****
+**citronella निम्बुकी** *f.*
 
 *Cf.* **lime निम्बुक**
 
@@ -26438,7 +26438,7 @@ clarain** (Lat. *clarus* 'bright) *Geol.***भासार** *m.* (see durain)
 
 and low नि brilliance) **न्युद्रक्त**
 
-**claret red रक्तिरा रक्त,** (red रक्त in hue, of****high उद् saturation and low नि brilliance) **न्युद्रक्त  
+**claret red रक्तिरा रक्त,** (red रक्त in hue, ofhigh उद् saturation and low नि brilliance) **न्युद्रक्त  
 clarification 1.स्पष्टीकरण** *n.* (Const.)**2.विमलीकरण, स्वच्छन** *n.*  
 **clarified butter घृत,** *n.* **घी  
 clarified juice** *Chem.* **विमलीकृत रस  
@@ -26474,7 +26474,7 @@ clasp knife** (a large knife the blades of which fold or shut into the handle) *
 **बन्द होने वाली छुरी;**(esp. a large one-bladed knife of this kind having a catch to hold  
 the blade open rigidly) **दृढग्रह क्षुरी**
 
-**class 1.वर्ग** *m. * (Const.)****2.श्रेणी** *f.,* **प्रकार** *m.* (Const.)**3.**( religious denominations) **संप्रदाय***m.*
+**class 1.वर्ग** *m. * (Const.)2.श्रेणी** *f.,* **प्रकार** *m.* (Const.)**3.**( religious denominations) **संप्रदाय***m.*
 
 **4.***Bot., Zool.* **वर्ग** *m.***5.***Cryst.* **वर्ग***m.*(division विभाग,system संहति)**6.***Statistics* **संभाग***m.*  
 
@@ -26654,7 +26654,7 @@ Clausius equation** (for calculating vapour pressure and the heat of vapourisati
 
 **Claus kiln** *Chem.* **गन्धाप आपाक** (*for explanation see* Chance-Claus process)  
 **Claus reaction** *Chem.* **गन्धापप्रतिक्रिया**(*for explanation see* Chance-Clausprocess)  
-**clausthalite सीसमेचिज** *m.*****(सीस lead, मेच- for मेचेय selenide,
+**clausthalite सीसमेचिज** *m.*(सीस lead, मेच- for मेचेय selenide,
 -इज for खनिज mineral)  
 **clausus** *Mycol. * (closed) **संवृत  
 claut = marsh marigold** (*Caltha palustris*) **कच्छ-गेन्दुक** *m.*  
@@ -26718,7 +26718,7 @@ clayey** *adj.***1.मृन्मय, मृत्सदृश 2.चिक्�
 clayey black मृत्-काल  
 clayey loam चिक्कण-संमृदा  
 clayey sandstone मृन्मय वालुकाश्म  
-clayey soil चिक्कण मृदा, चिकनी मिट्टी की******मृदा  
+clayey soil चिक्कण मृदा, चिकनी मिट्टी की**मृदा  
 clay fraction मृत्-प्रभाग  
 clay ironstone मृत्तिकायोश्म  
 clay-like मृद्वत्  
@@ -26940,7 +26940,7 @@ cleft palate दीर्ण तालु
 Cleistanthus** *Bot.* **नन्दि-प्रजाति  
 Cleistanthus collinus सामान्य नन्दी** (Basu नन्दी)  
 **cleistocarp** *Mycol.* **= cleistothecium  
-Cleistocarpae** *Bot.* (the operculum is not developed) **** **अपिधानकाः** *m.pl.*  
+Cleistocarpae** *Bot.* (the operculum is not developed)  **अपिधानकाः** *m.pl.*  
 **cleistocarpous** *adj. Bot.* **1.**(in mosses)**अ-पिधान 2.**(in fungi) **संवृतकाय  
 cleistogamous** *adj. Bot.* **संवृतपुष्प** ('closed flowers'), **स्वयंपरागी** (-इन्)  
 **cleistogamy** *Bot.* **संवृतपुष्पत्व***n.,***स्वयंपरागिता** *f.*  
@@ -27154,7 +27154,7 @@ climbing rose आरोहीपाटल
 climbing staff plant** (*Celastrus paniculata*) **मालकंगुनी** *f.* (Tel. Tam.)  
 **climbing stem** *Bot.* **आरोही स्तम्भ  
 clinging roots** *Bot.* **वलक मूल** (वलक 'surrounding')**, स्वज मूल  
-clinic** *n.* **विरुजालय** *m.*****(वि special, रुजा disease)
+clinic** *n.* **विरुजालय** *m.*(वि special, रुजा disease)
 
 medical clinic भेषज-विरुजालय  
 surgical clinic शल्य-विरुजालय  
@@ -27195,7 +27195,7 @@ clinician शयनिक-भिषक्, विरुजा-विज्ञ** 
 **clinker प्रझाम** *n.* (*cf.* Hindi झांवा)  
 **clinking = jingling शिञ्जन** *n.*  
 **clinkstone = phonolite** *Petrog.* (it gives a ringing sound when struck)**ध्वन्यश्म***m.*  
-**clinochlore भ्रास्फसिज** *m.*****(भ्रा- for भ्राजातु magnesium, स्फ- for स्फट्यातु aluminium, स- for
+**clinochlore भ्रास्फसिज** *m.*(भ्रा- for भ्राजातु magnesium, स्फ- for स्फट्यातु aluminium, स- for
 
 सैकतीय silicate, -इज for खनिजmineral)
 
@@ -27244,7 +27244,7 @@ Clitellata** *Zool.***प्रमेखलिनः** *m.pl.,* **प्रम�
 **clitic curve** *Statistics* (sloping curve)**प्रवद् वक्र  
 Clitoria** *Bot.* **अपराजिता-प्रजाति  
 Clitoria spectabilis = Clitoria ternatea  
-Clitoria ternatea** (butterfly pea, winged-leaved clitoria, mazerion)****
+Clitoria ternatea** (butterfly pea, winged-leaved clitoria, mazerion)
 
 **सामान्य-अपराजिता** (B.,N.,M.,
 
@@ -27698,7 +27698,7 @@ Clostridium bifermentans द्विकिण्व ग.**
 **Clostridium capitovalisअण्डशीर्ष-ग.**  
 **Clostridium chauvoei** (causes symptomaticanthrax in cattle) **कृष्णजंघा ग.**  
 **Clostridium cochlearium = Bacillus cochlearius शंख-ग.**  
-**Clostridium egens** (possibly the cause of aform of gas gangrene) **किंवातिकोय******ग.  
+**Clostridium egens** (possibly the cause of aform of gas gangrene) **किंवातिकोय**ग.  
 Clostridium hemolyticum** (seems to be the cause of bacillary hemoglobinuria of cattle)
 
 **गोकालमेह-ग.**
@@ -27847,13 +27847,13 @@ clover hay सूखा रामपर्ण घास
 clover seed रामपर्ण-बीज  
 clown भण्ड** (ancient word)**, विदूषक** *m.*  
 **clown's lungwort = golden grain  
-club गोष्ठी***f.,***गोष्ठीगृह** *n.*****(from Marathi)  
+club गोष्ठी***f.,***गोष्ठीगृह** *n.*(from Marathi)  
 **club 1.मुद्गर** *m.,* **गदा** *f.***2.**(heavy stick) **लट्ठ 3.***Bot.* **मुद्गर** *m.*  
 **club** *vb.* (to gather, combine) **संयोजन, मिलाना  
 clubbed** *adj.* **संयोजित  
 clubbing of fingers** *Med.* **मुद्गरांगुलता** *f.*  
 **clubfoot मुद्गरपाद** *m.*  
-**club-footed bat*******Mamm.* **पीन-पाद जतु  
+**club-footed bat***Mamm.* **पीन-पाद जतु  
 club law** (rule by force) **गदा-शासन  
 clubmoss** *Bot.* **गदापर्णांग** *m.*  
 **clubroot** *Plant Pathol.* **गदामूल** *m.*  
@@ -27957,7 +27957,7 @@ cnida**
 (develops nematocysts) **दंशघट** *m.*  
 **cnidocil** *Zool.* **दंशोद्गामी**
 
-(-इन्) *m.*****
+(-इन्) *m.*
 
 (it causes the sting दंशto project; उद्गामयति causes to come out)  
 **C : N ratio प्र: भू अनुपात  
@@ -28142,12 +28142,12 @@ coalesced** *adj.* **संरोही**
 (growing together, running together)  
 **coalescence 1.**
 
-(a growing together) **सं**रोहण**** *n.***2. एकीभवन** *n.,***एकीभाव***m.* **, सहमिलन** *n.*  
+(a growing together) **सं**रोहण *n.***2. एकीभवन** *n.,***एकीभाव***m.* **, सहमिलन** *n.*  
 **coalescent** *adj.* **1.**
 
 ( growing together)**संरोही**
 
-(-इन्)****2.**
+(-इन्)2.**
 
 (running together) **संगामी**
 
@@ -28162,7 +28162,7 @@ coal-heater अंगार-तापक
 coalification** *Geol.* **अंगारण***n.*  
 **coalify** *vb.* **अंगारण, अंगारीभवन, कोयला बनना, अंगारीकरण, कोयला बनाना  
 coal industry अंगारोद्योग, कोयले का उद्योग  
-coalition 1.सहमिलन** *n.***सहमित्रणा** *f.,***मिलना 2.एकीभवन ** *n.****,*एक हो जाना  
+coalition 1.सहमिलन** *n.***सहमित्रणा** *f.,***मिलना 2.एकीभवन ** *n.,*एक हो जाना  
 coalition government संयुक्त शासन  
 coalition ministry संयुक्त मन्त्रिमण्डल**  
 
@@ -28172,7 +28172,7 @@ coal measures** *Geol.* (beds of coal)**अंगार-तल्प** *m.*
 **coal mine अंगार-खनि, कोयले की खान  
 coal mine provident fund stamp अंगार-खनिभविष्य-निधि मुद्रांक  
 Coal Mines** (Conservation and Safety)**Ordinance अंगार खनि-** (संरक्षण तथा सुरक्षा) **अध्यादेश  
-Coal Mines Safety** (Stowing) **Act******अंगार-खनि-सुरक्षा-**(क्षेप्यभरण-) **अधिनियम  
+Coal Mines Safety** (Stowing) **Act**अंगार-खनि-सुरक्षा-**(क्षेप्यभरण-) **अधिनियम  
 Coal Mines Stowing Board अंगार-खनिक्षेप्यभरण-मण्डल  
 coal mines stowing fund अंगार-खनिक्षेप्यभरण-निधि  
 coal mining अंगार-खनन, कोयले को खान सेनिकालना  
@@ -28238,9 +28238,9 @@ coarse-textured** *Forestry* **स्थूल-वयन
 coarse-textured soil स्थूलवयन मृदा  
 coarse twine मोटी सुतली  
 co-assignor** *Law* **सह-अभिहस्तांकक  
-coast 1.**(seashore) **समुद्रतट, तट***m.*****(*see*bank)**2.**(seaboard, sea margin) **वेलाप्रान्त** *m.*
+coast 1.**(seashore) **समुद्रतट, तट***m.*(*see*bank)**2.**(seaboard, sea margin) **वेलाप्रान्त** *m.*
 
-****3.**(land immediately abutting the sea)**वेलाभूमि** *f.*
+3.**(land immediately abutting the sea)**वेलाभूमि** *f.*
 
 **coastal** *adj.* **समुद्रतट, समुद्रतटीय, तटीय  
 coastal accretions समुद्रतटीय अभिवृद्धि  
@@ -29461,7 +29461,7 @@ coefficient of standard deviation प्रमाप-विचलन-गुण�
 coefficient of superficial expansion***Phys.* **तल-विस्तार-गुणक** (-अनुपात)  
 **coefficient of torsion** *Phys.***विमोटनगुणक  
 coefficient of variability = coefficient of variation  
-coefficient of variation** *Statistics* **विच**रण-गुणक**** (-अनुपात)  
+coefficient of variation** *Statistics* **विच**रण-गुणक (-अनुपात)  
 **coefficient of viscosity** *Phys.***आलगत्वगुणक** (-अनुपात)  
 **coefficient of volume elasticity** *Phys.***परिमा-प्रत्यास्थता-गुणक** (-अनुपात)  
 **coelacanth सुषिरकण्ट** *m.*  
@@ -29655,7 +29655,7 @@ volition संकल्प**
 **cognitive faculty** *Psychol.* **संज्ञात्रीशक्ति, संज्ञानकारिणी शक्ति  
 cognizability संज्ञेयता** *f.*  
 **cognizability of offences** *Law* **अपराधसंज्ञेयता  
-cognizable** *adj. Law*****
+cognizable** *adj. Law*
 
 (I.P.C.) **संज्ञेय, हस्तक्षेप्य**
 
@@ -29666,7 +29666,7 @@ cognizable criminal offence हस्तक्षेप्यदण्डाप�
 cognizable offence हस्तक्षेप्य अपराध,संज्ञेय अपराध  
 cognizance 1.***Law* **संज्ञान** *n.*
 
-**notice अवबोध****  
+**notice अवबोध  
 **2.**
 
 (heed, notice) **ध्यान** *n.*  
@@ -29701,7 +29701,7 @@ f.
 **cohabitans** *Mycol.*
 
 (living together)सहवासी (-इन्)  
-**cohabitation सहवास** *m.,***मैथुन********
+**cohabitation सहवास** *m.,***मैथुन
 
 *n.*(*see*
 
@@ -29744,7 +29744,7 @@ coin** *n.***टंक** *m.* **टंकमुद्रा** *f.***, सिक�
 coin** *vb.* **1.**(act of coining, minting)**टंकन 2.गढ़ना  
 coinage 1.**(coins collectively) **टंकवर्ग** *m.***2.**(coin) **टंक** *m.***3.**(act of coining)
 
-**टंकन** *n.*****(Const.)
+**टंकन** *n.*(Const.)
 
 **coinage account टंकन-लेखा  
 coinage metal टंक-धातु  
@@ -29787,7 +29787,7 @@ coir and rope-makers cooperative society नारिकेलजटा तथ�
 **coir-mat नारियल की चटाई  
 coir product नारिकेलजटा के पदार्थ  
 coir rope नारियल की रस्सी  
-coition मैथुन** *n.*****(*****see* ****carnal intercourse)**  
+coition मैथुन** *n.*(*see* carnal intercourse)**  
 coitus मैथुन** *n.*  
 **Coix** *Bot.* **गवेधु-प्रजाति  
 Coix barbata सामान्य गवेधु** (MW. गवेधु)  
@@ -29830,7 +29830,7 @@ colcothar 1.***Chem.* (an oxide of iron left as a residue...) अयोजार
 colour, reddish red-yellow पीतातिरक्त in hue, of low नि brilliance)**निपीतातिरक्त**
 
 **cold** *adj.* **शीत, ठण्डा  
-cold** *n.******Med.* **प्रतिश्याय** *m.* (catarrh; from सुश्रुत, Marathi पडसें)  
+cold** *n.**Med.* **प्रतिश्याय** *m.* (catarrh; from सुश्रुत, Marathi पडसें)  
 **cold-annealed** *adj.* **शीताभितापित  
 cold black** *Col. Ind.* **शीत काल  
 cold-blooded** *adj.* (animals) **शीतास्र, शीतारुधिर**  
@@ -30006,7 +30006,7 @@ collateral security सांपार्श्विक प्रतिभू�
 collateral undertaking** *Law* ** सांपार्श्विक देयता  
 collateral warranty** *Law* **सांपार्श्विक अध्याभूति  
 collating** *see* **collate  
-collation 1.संतुलन, परितुलन** *n. **2.******Bookbinding*क्रमेक्षण** *n.*(*for explanation see* collate) **3.***Law* **पुञ्ज-**
+collation 1.संतुलन, परितुलन** *n. **2.**Bookbinding*क्रमेक्षण** *n.*(*for explanation see* collate) **3.***Law* **पुञ्ज-**
 
 **वण्टन** *n.* (bringing the mass of property of an estate together and so dividing it that each may have his proper share — Aiyar)
 
@@ -30193,7 +30193,7 @@ collimator** *Optics***,** *Surv.* **समान्तरित्र** *n.*
 **collinear** *adj.***संरेख**(lying in the same सं straight line रेखा)  
 **collinearity संरेखता** *f.*  
 **collin-hood = redpoppy** (*Papaver rhocas)* **रक्त अहिफेन** *m.*  
-**collinsonia = stone root = knob root** (the rhizome occurs in very hard piecos) *Pharm.*****
+**collinsonia = stone root = knob root** (the rhizome occurs in very hard piecos) *Pharm.*
 
 **अश्ममूल**
 
@@ -31749,7 +31749,7 @@ comb jelly = ctenophore** *Zool.* **कंकती** (-इन्) *m.*
 **comb jellyfish** *Zool.* (it is not a fish)**कंकत-छत्रिक  
 combodia** (cotton) **कम्बोज** *m.*  
 **comb plate** *Zool.* **कंकत-पट्ट  
-comb rat = gundi** *Zool.* **कंकत-मूष** (so called from the comb-like कंकत****bristles of the hind feet)  
+comb rat = gundi** *Zool.* **कंकत-मूष** (so called from the comb-like कंकतbristles of the hind feet)  
 **Combretaceae = Terminaliaceae अर्जुन-कुल** *n.* (fr. *Terminalia* अर्जुन-प्रजाति)  
 **Combretum** *Bot.* (belongs to the *Terminaliaceae* = *Combretaceae* अर्जुन-कुल)**प्रार्जुन-प्रजाति  
 Combretum decandrum** (*decandrum* 'having ten anthers' दशपरागाशय shortened to दशाशय
@@ -31761,7 +31761,7 @@ comburent** *n. Chem.* (a substance that burns or that aids combustion) **दह
 **comburent** *adj.* **दहत्  
 comburimeter** (used for determining the proportion of air required for the ideal combustion of
 
-a gas)**दहा-निलमान** *m.*****
+a gas)**दहा-निलमान** *m.*
 
 **comburimetry दहानिलमिति** *f.*  
 **combustibility, combustibleness दाह्यता** *f.*  
@@ -31918,7 +31918,7 @@ footnote पाद-टिप्पण
 remarks अभ्युक्ति, आलोक**
 
 **commentator आलोचक, टीकाकार, भाष्यकार** *m.*  
-**commerce 1.वाणिज्य** *n.*****(Const.) (*see* business)**2.**(social intercourse, dealings with persons or
+**commerce 1.वाणिज्य** *n.*(Const.) (*see* business)**2.**(social intercourse, dealings with persons or
 
 group of persons in society) **संसर्ग** *m.,* **मेलजोल**
 
@@ -32311,7 +32311,7 @@ committed and imprisoned उपार्पित और बन्दीकृ�
 committed as such एवं बद्ध  
 committed for trial अन्वीक्षा के लिए उपार्पित  
 committed to prison कारावास-उपार्पित  
-committee समिति** *f.*****(Const.)
+committee समिति** *f.*(Const.)
 
 **adhoccommittee तदर्थ समिति** (Const.)  
 **standingcommittee स्थायीसमिति** (Const.)  
@@ -32436,7 +32436,7 @@ common emetic nut** (*Randia dumetorum*) **मदन** *m.* (B., N., Ben. Hin. M
 common European bat** *Mamm.* **हरिवर्ष-जतु  
 common factor = common measure***Math.* **समापवर्तक** *m.*  
 **common feature सामान्य बात  
-common flax** *(Linum usitatissimum )***अतसी** *f.*****(B., N., M.), **अलसी  
+common flax** *(Linum usitatissimum )***अतसी** *f.*(B., N., M.), **अलसी  
 common food pool सामान्य अन्न-समुच्चय  
 common form 1.सामान्य आकृति2.***Probate Law***सामान्य प्रकार  
 common fund सामान्य निधि  
@@ -32451,7 +32451,7 @@ common gram** (*Cicer arietinum*) **चणक** *m.* (B.,N, M.), **चना
 common grapevine** (*Vitis vinifera*)**द्राक्षा***f.* (B., N., M.)  
 **common grey heron** *Aves* **प्रख्यात अञ्जन बक  
 common grey hornbill** *Aves* **प्रख्यात धूसर वाध्रीणस  
-common grey mango laurel** *(Litsea polyantha)* **गजपिप्पली** *f.*****(Basu)  
+common grey mango laurel** *(Litsea polyantha)* **गजपिप्पली** *f.*(Basu)  
 **common hawk-cuckoo** *Aves* **प्रख्यातचातक  
 common heather सामान्य क्षेप्यज  
 common hill-partridge** *Aves* **प्रख्यात गिरि-तित्तिर  
@@ -32473,7 +32473,7 @@ common Indian palm-civet** *Mamm.***भारत ताल-गन्धमार
 common Indian rat** *Mamm.* **गृह-मूषक, चूहा, मूसा  
 common Indian rose-finch** *Aves***सामान्य भारत पाटल-चटक  
 common Indian sand-grouse** *Aves***प्रख्यात भारत ककर  
-common indigo** *(Indigofera tinctoria)***नीली** *f.*****(Basu)  
+common indigo** *(Indigofera tinctoria)***नीली** *f.*(Basu)  
 **common indirect tangents** *Math.* **उभयतिर्यक्स्पर्शी  
 common informer** *Law* **सामान्य सूचक  
 common in gross** *or* **at large** *Law* **निरुपाधि सामान्याधिकार  
@@ -32619,7 +32619,7 @@ common valerian** (*Valeriana officinalis*) **पाश्चात्य-कु
 common variety सामान्य विभेद  
 common vervain = frogfoot** (*Verbena officinalis*) **भेकपद** *m.*  
 **common weal लोक-कल्याण** *n.*  
-**commonwealth 1.समधिराज्य** *n.*****(अधिराज्य dominion) (*see*colony)**2.राष्ट्रमण्डल** *n.***3.**(common
+**commonwealth 1.समधिराज्य** *n.*(अधिराज्य dominion) (*see*colony)**2.राष्ट्रमण्डल** *n.***3.**(common
 
 weal) **लोक-कल्याण** *n.*
 
@@ -34276,7 +34276,7 @@ composition 1.रचना, संरचना** *f.***2.**(a literary product)*
 
 *Arts*
 
-**संरचना** *f.* **5*****.**Educ.* **संरचना** *f.* (essay निबन्ध; thesis, dissertation प्रबन्ध, अन्वेष-प्रबन्ध)**6.***Forestry* **विरचना** *f.,***मेलमिलावट** (constitution संघटना)**7.***Law* (of debts) **संधान** *n.***8.***Gram.***समास** *m.***9.***Logic* **रचना** *f.*
+**संरचना** *f.* **5*.**Educ.* **संरचना** *f.* (essay निबन्ध; thesis, dissertation प्रबन्ध, अन्वेष-प्रबन्ध)**6.***Forestry* **विरचना** *f.,***मेलमिलावट** (constitution संघटना)**7.***Law* (of debts) **संधान** *n.***8.***Gram.***समास** *m.***9.***Logic* **रचना** *f.*
 
 **fallacy of composition** *Logic* **समूहाभास**  
 
@@ -34313,7 +34313,7 @@ compost manure संखाद** *m.*
 compost pit संखाद-गर्त, खाद सढ़ाने का गड्ढा  
 compost technique संखाद-प्रविधि  
 compound** *vb.***1.संयोजन, मिलना 2.***Law***अभिसंधान करना 3.**(amedicine) **औषधयोजन  
-compound** *n.***1.***Chem., Med.* **संयोग** *m.*****(*Cf.* mixture मिश्र)**2.प्रांगण** *n.,* **बाड़ा  
+compound** *n.***1.***Chem., Med.* **संयोग** *m.*(*Cf.* mixture मिश्र)**2.प्रांगण** *n.,* **बाड़ा  
 compound** *adj.* **1.संयुत, मिश्र 2.***Bot.***संयुत  
 compoundable ** *adj.* **1.संयोज्य, संयाव्य 2.***Law* **अभिसंधेय  
 compoundable offence** *Law* **अभिसंधेय अपराध  
@@ -34530,7 +34530,7 @@ compressional vibration संपीडावेपन
 compressional wave** *Phys.* **संपीडन-तरंग  
 compression pump संपीडन-उदञ्च  
 compression ratio संपीडन-अनुपात  
-compression-wood** *Bot.*****(McLean I.907) **संपीड-काष्ठ  
+compression-wood** *Bot.*(McLean I.907) **संपीड-काष्ठ  
 compressive strength** *Metal.* **संपीडन-शक्ति  
 compressor संपीडक** *m.*  
 **compressor attendant संपीडक-उपस्थायक  
@@ -34653,7 +34653,7 @@ secret गूढ रखना, छिपाना**
 concealment संगोपन** *n.***, संगुप्ति** *f.***,छिपाना  
 concealment of birth जन्म-संगुप्ति  
 concede** *vb.* **मान लेना  
-conceited** *adj.* **अभिमानी** (-इन्)**, अहंयु** *m.*****(from हलायुध)  
+conceited** *adj.* **अभिमानी** (-इन्)**, अहंयु** *m.*(from हलायुध)  
 **conceivable** adj. **चिन्त्य  
 conceivably अनुमानतः  
 conceivably affect अनुमानतः प्रभाव डालना  
@@ -34820,7 +34820,7 @@ take only joint action...) **हरिवर्ष-संविधा, यूर
 concession 1.**(yielding) **समनुनमन** *n.***, मान लेना, झुक जाना 2.**(a grant by a government for
 
 somespecified purpose) **समनुदान** *n.***3.***Com.* (a reduction from a currentprice)  
-**अवमोक** *m****.*, छूट**
+**अवमोक** *m.*, छूट**
 
 **concessionaire समनुदानग्राही, समनुदत्ती** (-इन्) *m*.  
 **concessional fare अवमोक-भाटक  
@@ -34901,7 +34901,7 @@ concomitance** *Psychol.* **समवाय** *m.*
 
 **method of concomitant variation सहगामि-विचरण-रीति**
 
-**concord 1.ऐक्य** *n.***, संवाद** *m. **2.*****अन्वय** *m.***3.***Gram.* **रूपान्वय** *m.*  
+**concord 1.ऐक्य** *n.***, संवाद** *m. **2.*अन्वय** *m.***3.***Gram.* **रूपान्वय** *m.*  
 **concordant** *adj. Phys.* **संवादी** (-इन्)  
 **concordat** (compact between church and state) **धर्मसन्धि** *m.*  
 **concrement** *Petrog.* (a body formed by concretion) **संघक** *m.*  
@@ -34964,7 +34964,7 @@ against a prisoner) **दण्डाज्ञा देना 4**.(to pronounce
 
 **पराकरण**
 
-**condemnation निन्दा ** *f.****,* पराकरण** *n.***, निष्प्रयोज्य ठहराना  
+**condemnation निन्दा ** *f.,* पराकरण** *n.***, निष्प्रयोज्य ठहराना  
 condemnation board निष्प्रयोज्यवस्तु-मण्डल  
 condemned** *adj.* **1.निन्दित 2.दण्डित3.**(person) **आज्ञप्तदण्ड 4.निष्प्रयोज्य, पराकृत  
 condemned article निष्प्रयोज्य वस्तु  
@@ -35038,7 +35038,7 @@ conditional proposition** *Logic***सोपाधिक प्रस्था�
 conditional release सप्रतिबन्ध मोचन  
 conditional remission of punishment दण्ड का सप्रतिबन्ध परिहार  
 conditional sale सप्रतिबन्ध विक्रय  
-conditioned** *adj.* ** 1.प्रतिबद्ध, प्रतिबन्धित, प्रसीमित 2.***Psychol****.* उपाधीयित 3.उन्दाल्पित** (*for meaning see*
+conditioned** *adj.* ** 1.प्रतिबद्ध, प्रतिबन्धित, प्रसीमित 2.***Psychol.* उपाधीयित 3.उन्दाल्पित** (*for meaning see*
 
 conditioning)
 
@@ -35478,7 +35478,7 @@ congress महासभा** *f.*
 conhydrine** (*con*ine+*hydr*ate) *Chem.***विषगर्जरोदी** *f.*  
 **conic** *adj.* **शांकव  
 conic** *n.Math.* (conic section) **शांकव** *n.*  
-**conical** *adj.* **1.**(of or pertaining to a cone) *Math.* ** शांकव्य** ****2.**(having the shape of
+**conical** *adj.* **1.**(of or pertaining to a cone) *Math.* ** शांकव्य** 2.**(having the shape of
 
 acone)**शंक्वाकार 3.**(tapering) **गर्जरवत् 4.**(as ataproot) *Bot.* **शंकु-, शंकुरूप, शुण्डाकार**
 
@@ -35711,7 +35711,7 @@ by reason of consanguinity रक्तसंबन्ध के कारण**
 **2.***Petrog.* (applied to rocks having a similarity or community of origin— Chambers) **समोद्भवता** *f.*
 
 **Con.Sch.** (Constables' School) **आ.वि** (आरक्षि-विद्यालय)  
-**conscience अन्तःकरण** *n.*****(Const.)  
+**conscience अन्तःकरण** *n.*(Const.)  
 **conscience clause** *Law* (a clause exempting persons whose consciencewill be outraged)
 
 **अन्तःकरण-खण्ड**
@@ -37176,7 +37176,7 @@ convertend** *Logic* **परिवर्त्य***n.*
 **converter 1.परिवर्तक** *m.* **2.***Elec.* (for changing A.C. to D.C.etc.) **परिवर्तित्र** *n.*  
 **convertibility परिवर्त्यता** *f.*  
 **convertibility of currencies चलार्थों कीपरिवर्त्यता  
-convertible** *adj.* **1.परिवर्त्य******2.**(equivalent, synonymous) **समानार्थक, पर्यायवाची** (-इन्)  
+convertible** *adj.* **1.परिवर्त्य**2.**(equivalent, synonymous) **समानार्थक, पर्यायवाची** (-इन्)  
 **convertible bond परिवर्त्य बन्ध  
 convertible currency परिवर्त्य चलार्थ  
 convertible into cash रोक-परिवर्त्थ  
@@ -37221,7 +37221,7 @@ conveyancer** *Law * (one whose business is to draw deeds) **हस्तान�
 **conveyancing** *Law * **हस्तान्तरलेखन** *n.*  
 **conveyancing clerk हस्तान्तर-लिपिक  
 conveyancing practice***Law * **हस्तान्तर-लेखन-वृत्ति  
-conveyed in trust** *Law*******न्यास में दिया  
+conveyed in trust** *Law***न्यास में दिया  
 conveyer = conveyor  
 conveying sanction संमोदन सूचित करते हुए**
 
@@ -37457,7 +37457,7 @@ nomination नामनिर्देश**
 
 **coordinate** *vb.* **1.समकक्ष रखना 2.**( to harmonize, etc.) **समन्वयन, समन्वय करना 3.***Chem.* (to attach
 
-directly to a central atom) **आसञ्जन****4.***Statistics* **समन्वयन, समन्वय**
+directly to a central atom) **आसञ्जन4.***Statistics* **समन्वयन, समन्वय**
 
 **करना**
 
@@ -37617,7 +37617,7 @@ medium मध्य) **मध्यपीतातिहरि**
 **copper hemi-oxide ताम्र सामि-जारेय  
 copper hydroxide ताम्र उदजारेय  
 copper index =copper number  
-coppering** *Chem.*****(envelope or covering of copper) **ताम्रावरण** *n.*  
+coppering** *Chem.*(envelope or covering of copper) **ताम्रावरण** *n.*  
 **copper iodate ताम्र जम्बीय  
 copper iodide** (ous) **ताम्य्रजम्बेय  
 copperízation** *Chem.* **ताम्रायण, ताम्रव्यापन, ताम्र-रोपण** *n.*  
@@ -37804,7 +37804,7 @@ setter)
 
 **प्रतिलिपि-धर, मूललिपि-धर** *m.***3.** *Printing* (one who reads copy for a proof reader) **प्रति-वाचक** *m.* (प्रति short for मुद्रणप्रति press copy)
 
-**copyhold tenant पट्टलेख-भाटकी, पट्ट-धारी, पट्टलेख-धारी**(-इन् )*****m.*  
+**copyhold tenant पट्टलेख-भाटकी, पट्ट-धारी, पट्टलेख-धारी**(-इन् )*m.*  
 **copyhold tenure पट्टावधि, पट्टलेखावधि**  
 
 **copying** *n.* **प्रतिलिपि करना  
@@ -37839,7 +37839,7 @@ maturity in pure culture, except in a single instance in the basidiolichen *Cora
 **Coraciiformes** *Aves***नीलकण्ठ-गण** *m.*  
 **coracine** (glossy black, raven-black)**स्निग्धकाल, द्रोणकाल** (द्रोण raven)  
 **coraco-brachialis brevis** *Zool.* **लघु उरोंस्या-बाहुपेशी  
-coraco-brachialis longus** *Zool.* **दीर्घ******उरोंस्या-बाहुपेशी  
+coraco-brachialis longus** *Zool.* **दीर्घ**उरोंस्या-बाहुपेशी  
 coracoclavicular branch** *Zool.* **उरोंस्याक्षक शाखा  
 coracoclavicular fenestra** *Zool.***उरोंस्याक्षक गवाक्ष  
 coracoid** *Anat. * (extends from the scapula to the sternum) **उरोंस्या** *f.*  
@@ -38028,7 +38028,7 @@ Tel. धन्यालु)
 **Coriaria nepalensis** (Mussoorie berry )**सामान्य-मसूरी** (Hindi, Mussoorieमसूरी, Jaunsar मोसराई)  
 **Coriariaceae** *Bot.* **मसूरी-कुल** *n.*  
 **cori-in** (Lat. *corium* ‘hide') *Biochem.***चर्मि** *f.*  
-**corindon = corundum**(taken from Sanskrit कुरुविन्द, through Tamil कुरुन्दम्) **** *Mineral.* **कुरुविन्द***m.*
+**corindon = corundum**(taken from Sanskrit कुरुविन्द, through Tamil कुरुन्दम्)  *Mineral.* **कुरुविन्द***m.*
 
 **corinth** (ared dye) **रोहित** *m.*  
 **corinth brown** *Col. Ind.* **रोहित बभ्रु  
@@ -38672,7 +38672,7 @@ corps निकाय** *m.* ( ancient word)
 **Corps of Indian Signals भारतीय संकेत-निकाय  
 Corps of the Auxiliary Force सहाय-सेना निकाय  
 Corps of Volunteers स्वयंसेवक-निकाय  
-corpus 1.काय** *m.* **2.**( an artificial body created by law ) **निकाय** *m.* **3*.****Bot.* (central core of tissu—
+corpus 1.काय** *m.* **2.**( an artificial body created by law ) **निकाय** *m.* **3*.Bot.* (central core of tissu—
 
 McLean I.452 ) **काय** *m.*
 
@@ -38786,7 +38786,7 @@ correlated** *adj. Statistics* **सहसंबद्ध
 correlate-finding** *Psychol***. समवाय-सूचन** *n.*  
 **correlation सहसंबन्ध, परस्परसंबन्ध** *m.*
 
-****relationship संबन्ध**
+relationship संबन्ध**
 
 **correlation coefficient** *Statistics* **सह-संबन्ध-गुणक  
 correlation ratio** *Math.* **सहसंबन्ध-अनुपात  
@@ -39013,7 +39013,7 @@ coryphodont क्षुरीदन्त** *m.*
 coryza** *Med.***पीनस***m.*  
 **C.O.S.** (Chief Operating Superintendent)*Rly.* **मु.प.अ.** (मुख्य परिवहण अधीक्षक)  
 **C.O.S.** (Controller of Stores) *Rly.* **सं.नि.** (संग्रहागार नियन्त्रक)**, भा.अ.** (भाण्डागाराध्यक्ष )  
-**cos** (cosine) *Trig.* **कोज्या*****f.* (कोटिज्या)  
+**cos** (cosine) *Trig.* **कोज्या*f.* (कोटिज्या)  
 **cosalite सीसभीशिज** *m.* (सीस lead, भि-for भिदातु bismuth,श- for शुल्बेयsulphide, -इज for खनिज
 
 mineral)
@@ -39959,7 +39959,7 @@ court trying the offence अपराधान्वीक्षक न्या
 court working day न्यायालय-कार्य-दिन  
 courtyard प्रांगण** *n.,* **आंगन  
 cousin संभ्राता** (-तृ) *m.,***संभगिनी** *f.*  
-**cout-fit = colt'sfoot** *(Tussilago farfara)* **अश्वखु**र*****m.*  
+**cout-fit = colt'sfoot** *(Tussilago farfara)* **अश्वखु**र*m.*  
 **covalence** *Chem.* **सहसंयुजता** *f.*  
 **covalent** *n. Chem.* **सहसंयुज** *m.*  
 **co-variant** *Math.* **सह-चल** *m.*  
@@ -40013,7 +40013,7 @@ cover** *n.* **1.आवरण, आच्छादन** *n.* **2**.( a lid) **आ
 **burettecover** *Chem.* ** द्रवमि-आवरण  
 glass jar cover** *Chem.* **काच-कलश-आवरण**
 
-**3.**(sheet) **अवच्छद** *m.* (ancient word, from which is derived Hindi औछाड़****)**, चादर 4.***Law***समाश्रय** *m.*  
+**3.**(sheet) **अवच्छद** *m.* (ancient word, from which is derived Hindi औछाड़)**, चादर 4.***Law***समाश्रय** *m.*  
 
 **5.***Com.* (adeposit or sum of money sufficient to secure against loss or to meet an obligation) **हानिरक्षा** *f.,* **रक्षाराशि** *m.* **6.***Forestry* (the term is used to express the horizontal projection of the crown on the ground— I.F.R.**) छत्रछाया** *f.,* **छादन** *n.*  
 **to cover the cost of परिव्यय के लिए**
@@ -40125,8 +40125,8 @@ C.P.** (cattle pound) **प.अ.** (पशु-अवरोध)
 **C.P.** *Surv.*(change point) **प. बि.** (परिवर्तन-बिन्दु)  
 **C.P.** ( cost price) **प.मू.** (परिव्यय-मूल्य)  
 **C.P. I & II** ( a variety of cotton) **मध्यप्रदेश १ तथा २**  
-**C**_(**p**),**C**_(**v**)****(specific heats ऊष्मा at constant pressure निपीड and volume परिमा) ****ऊ**_(**न**),**ऊ**_(**प**)  
-$\\frac{\\mathbf{C}\_{\\mathbf{p}}}{\\mathbf{C}\_{\\mathbf{v}}}$= **γ****(ratio of specific heat of gas at constant pressure and constant volume)**$\\frac{\\mathbf{ऊ}\_{\\mathbf{न}}}{\\mathbf{ऊ}\_{\\mathbf{प}}}$ = ऐ  
+**C**_(**p**),**C**_(**v**)(specific heats ऊष्मा at constant pressure निपीड and volume परिमा) ऊ**_(**न**),**ऊ**_(**प**)  
+$\\frac{\\mathbf{C}\_{\\mathbf{p}}}{\\mathbf{C}\_{\\mathbf{v}}}$= **γ(ratio of specific heat of gas at constant pressure and constant volume)**$\\frac{\\mathbf{ऊ}\_{\\mathbf{न}}}{\\mathbf{ऊ}\_{\\mathbf{प}}}$ = ऐ  
 C.P.A.** (Community Project Administration) **सा.यो.प्र.** ( सामुदायिक-योजना-प्रशासन)  
 **C. P. Cambodia** (cotton) **मध्यप्रदेश-कम्बोज  
 C.P.E. म.प्र.उ.** (मध्यप्रदेश-उच्छुल्क)  
@@ -40301,7 +40301,7 @@ crate** *Rly.* **पञ्जर** *m.*
 ***α*Crateris = Alkes प्रथम यष्टिका** *f.*
 
 **Craterid** *Astron.* **यष्टिका-उल्का** *f.*  
-**crateriform** *adj.* **** (having the form of a bowl) **कटोराकार  
+**crateriform** *adj.*  (having the form of a bowl) **कटोराकार  
 craticular stage** *Bot.* (new valves are formed) **नवकपाटावस्था** *f.*  
 **Cratoselache** *Paleontol.* (Gk. *kratos* 'might, power') **ऋतुकास्थि-प्रजाति  
 crave 1.***v.t.* **याचना करना 2.***v.i.* **उत्कट इच्छा होना, लालसा होना, तरसना  
@@ -40857,7 +40857,7 @@ Crocodilus niloticus** (of river Nile) **नील-मकर
 Crocodilus palustris** (of India) **भारत-मकर  
 Crocodilus porosus रन्ध्री मकर  
 crocoisite = crocoite  
-crocoite सीसवर्णिज** *m.*****(सीस lead, वर्ण- for वर्णीय chromate, -इज for खनिज mineral)  
+crocoite सीसवर्णिज** *m.*(सीस lead, वर्ण- for वर्णीय chromate, -इज for खनिज mineral)  
 **croconate** *Chem.* **इत्कुंकुमीय** *n.*  
 **croconic** *adj.* (Gk. *krokos* from कुंकुम) *Chem.* **इत्कुंकुमिक  
 Crocopus** *Aves* **कुंकुमपाद-प्रजाति** (GK. *krokos* 'saffron' कुंकुम + *pous* 'foot' पाद)  
@@ -41240,13 +41240,13 @@ crow-feet = field woodrush** *(Luzula campestris)* **वनप्रनड** *m.
 
 *pratense)*
 
-****बकचञ्चु***m.*
+बकचञ्चु***m.*
 
 **crow garlic = Allium vineale  
 crowkiller** *(Anamirta cocculus)* **काक-मारी** *f.* (Hin. Ben. Guj. Tel.)  
 **crown 1.मुकुट** *n.* **2.**(the dome of a furnace, a brick kiln, etc.) **मूर्धा** *f.* **3.**\[cap.\] **सम्राट्** *m.* (Const.)
 
-**4*****.**Anat.* (the part of a tooth above the gum) **उपरिदन्त** *m.,* (the top of a tooth) **दन्तशिखर** *n.* **5.***Automobile* **उद्दन्त** *m.* **6.***Forestry* (the collection of main branches overtopping the bole— I.F.R.) **छत्र, पर्णछत्र** *n.*
+**4*.**Anat.* (the part of a tooth above the gum) **उपरिदन्त** *m.,* (the top of a tooth) **दन्तशिखर** *n.* **5.***Automobile* **उद्दन्त** *m.* **6.***Forestry* (the collection of main branches overtopping the bole— I.F.R.) **छत्र, पर्णछत्र** *n.*
 
 **crown and pinion wheels** *Automobile* **उद्दन्त-दन्तिका-चक्र  
 crown bark** *(Cinchona officinalis)* **विताप** *m.*  
@@ -41326,7 +41326,7 @@ steel pen) **वज्रलेखनिका** *f.*
 **crucial** *adj.* (decisive) **निर्णायक,** (severe, difficult) **दुःसाध्य, कठिन, उत्कट  
 crucial test** *Statistics* **निर्णायक परीक्षा** (crucial = decisive)  
 **cruciate** *adj.* (having the general form of a cross) **स्वस्तिकाकार  
-crucible** *Chem.* **मूषा** *f.*(ancient word)****  
+crucible** *Chem.* **मूषा** *f.*(ancient word)  
 **crucible** *vb.* **1.**(to melt in a crucible) **मूषा-द्रावण 2.**(to test in a crucible) **मूषा-परीक्षण  
 crucible clip** *Chem.* **मूषा-स्वज  
 crucible furnace मूषा-भ्राष्ट्र  
@@ -41585,7 +41585,7 @@ crystalligerous ** *adj.* (containing a crystal or crystals) **स्फटय�
 crystallin** *Biochem.* (a globulin occurring in the crystalline lens)**स्फटि***f.*  
 **crystalline** *adj.* **स्फाट, स्फट्य 1.**(consisting or made of crystals) **स्फटमय 2.**(containing
 
-crystals)**स्फटयुत 3.**(composed of crystals)**स्फटात्मक** **4.**(resembling crystals)**स्फटवत्****5.**(pure like crystals) **स्वच्छ,स्फटाच्छ 6.**(transparent like crystals) **स्फट-पारदर्श**
+crystals)**स्फटयुत 3.**(composed of crystals)**स्फटात्मक** **4.**(resembling crystals)**स्फटवत्5.**(pure like crystals) **स्वच्छ,स्फटाच्छ 6.**(transparent like crystals) **स्फट-पारदर्श**
 
 **crystalline aggregates स्फटमय समूह  
 crystalline cone स्फाट शंकु  
@@ -41672,7 +41672,7 @@ crystal violet** *Col. Ind.* **स्फट नीललोहित
 crystal vision स्फट-दृष्टि  
 crystal water** *Chem.* **स्फट-जल  
 crystic** *adj. Geol.* (of, pertaining to, or treating of, ice and ice phenomena) **हैमिक  
-crystograph** (a picture or writing on glass) **काचालेख** *m.*****(काच+आलेख)  
+crystograph** (a picture or writing on glass) **काचालेख** *m.*(काच+आलेख)  
 **Crystolon** (a trade-mark applied to silicon carbide) **स्फटसैप्र** *n.*  
 **crysto-sphene** (Gk. *krystallos* 'clear ice'+*sphen* 'wedge'; aburied sheet of ice) **अधो-हिमानी** *f.*  
 **C.S.** (cash sales) **रो.वि.** (रोक-विक्रय)  
@@ -41844,7 +41844,7 @@ cuboid** *n.* **1.***Math.* **आयतज** *n.* **2.***Anat.***= cuboid bone �
 cuboid bone = cuboid घनास्थि  
 Cubomedusae** *Zool.* (four-sided cup-shaped umbrella) **घनछत्र-गण** *m.*  
 
-**cuchia कूर्चिका** *f.*****(Bengali कुञ्चिया)  
+**cuchia कूर्चिका** *f.*(Bengali कुञ्चिया)  
 **cuckoo श्वेत-कोकिल** (ancient word), **कोकिल** *m.*  
 **cuckoo-bread 1.= Oxalis acetosella हिमालय-अम्ललोणी***f.* **2.= cuckoo-flower** (*Cardamine*
 
@@ -42011,7 +42011,7 @@ cultivable waste कृष्य खिलभूमि** (खिल occurs in �
 **cultivable waste land कृष्य खिलभूमि  
 cultivate** *vb.***1.कृषि करना, खेती करना, जोतना 2.**(as, fungus) **संवर्धन करना  
 cultivated area कृष्ट क्षेत्र  
-cultivated celery** *(Apium graveolens)* **अजमोदा** *f.*****(B., N., M., Mar.)  
+cultivated celery** *(Apium graveolens)* **अजमोदा** *f.*(B., N., M., Mar.)  
 **cultivated date palm** *(Phoenix dactylifera)* **पिण्डखर्जूर** *m.* (B., N., M.)  
 **cultivated field कृष्ट क्षेत्र, जोता खेत  
 cultivated food crop field कृष्ट अन्न-सस्य-क्षेत्र  
@@ -42072,7 +42072,7 @@ cultural tending operations** *Forestry* **संवर्धनिक परि
 cultural treatment** *Forestry* **संवर्धनिक समुपचार  
 cultural value 1.सांस्कृतिक महत्त्व 2.कर्षण-अर्हा  
 cultural variety** *Bot.* **संवर्धनिक प्रभेद  
-culture 1.संस्कृति** *f.*****(Const.)
+culture 1.संस्कृति** *f.*(Const.)
 
 **civilization सभ्यता**  
 
@@ -42150,7 +42150,7 @@ cumo-** (cumic) *Chem.* **जीर-**(जीरिक)
 cum right** *Law* **अधिकार-सहित, साधिकार  
 cumulant** *Math.* **योगघात** *m.*  
 **cumulation संचय** *m.*  
-**cumulative** *adj.* **1.संचयी** (-इन्) **2.***Law* **a.****(additional) **समधिक b.** (carried into effect after the
+**cumulative** *adj.* **1.संचयी** (-इन्) **2.***Law* **a.(additional) **समधिक b.** (carried into effect after the
 
 convict has suffered a punishment to which he has already been sentenced) **उत्तरभोग्य**
 
@@ -42363,7 +42363,7 @@ Mar. *kachora*, Hin. *kachura*, Guj. *kachuri,* Kan. *kachora*,Mal. कच्च
 **curcuma paper = turmeric paper हरिद्रा-पत्र  
 curcumastarch = tikor हरिद्रा-मण्ड  
 curcumeine** *Col. Ind.***हरिद्रिण** *m.*  
-**curcumin** *Chem.*****(the colouring principle of turmericहरिद्रा) **हरिद्रि***f.*  
+**curcumin** *Chem.*(the colouring principle of turmericहरिद्रा) **हरिद्रि***f.*  
 **curcumine** *Col. Ind.***हरिद्री***f.*  
 **curcuphenine** *Col. Ind.* **कुंकुमदर्शी** *f.*  
 **curcuphenine yellow** *Col. Ind.* **कुंकुमदर्शीपीत  
@@ -42400,7 +42400,7 @@ curium** (element no. 96) **षण्णवातु** *m.* (ष)
 **curled dock = Rumex crispus  
 curled hair भंगिमत्केश** (ancient word)  
 **curled wood तरंगित काष्ठ, लहरियेदार लकड़ी  
-curlew नक्त-कुररी** *f.*****(its haunting cry of 'cur-lew, cur-lew' may be often heard far overhead at
+curlew नक्त-कुररी** *f.*(its haunting cry of 'cur-lew, cur-lew' may be often heard far overhead at
 
 night नक्त. कुररी ancient word)
 
@@ -42621,13 +42621,13 @@ Assam *amarlati*, Mar. अमरवेल)
 **cuscutine अमरी** *f.*  
 **cusec.** (acubic foot per second) *Irrig.* ** विघन** *m.* (घनपाद-प्रति-विकला)  
 **cushion उपबर्ह, तल्प** *m.*  
-**cushionflower बृसीपुष्प** *n.*****(बृसी 'cushion' ancient word)  
+**cushionflower बृसीपुष्प** *n.*(बृसी 'cushion' ancient word)  
 **cushionlike तल्पवत्  
 cashior plant तल्प-पादप  
 cusk darnel = red poppy** *(Papaver rhoeas)* **रक्त अहिफेन** *m.*  
 **cusp 1.**(of a valve) **दल** *n.* **2.***Math.* **खराग्र***n.*  
 **Cuspidaria***Zool.* **दीर्घनिनाल-प्रजाति  
-Cuspidariidae** *Zool.* **** (siphons long— CNH. III.459) **दीर्घनिनाल-वंश** *m.*  
+Cuspidariidae** *Zool.*  (siphons long— CNH. III.459) **दीर्घनिनाल-वंश** *m.*  
 **cusp of a valve कपाट-दल  
 custard apple 1.***(Annona squamosa)* **सीताफल** (B.,M., Hin. Mar.) **2.***(Annona reticulata)* **लवनी** *f.*
 
@@ -43084,8 +43084,8 @@ cyclic order** *Math.* **चक्र-क्रम
 cyclic quadrilateral** *Phys.* **वृत्तीय चतुर्भुज  
 cyclic salt** *Chem. Geol.* **चक्रिक लवण  
 Cyclidium** *Zool.* **कुब्जपक्ष्म-प्रजाति  
-cyclist द्विचक्रिक, द्विचक्रारोही** (-इन्)*****m.*  
-**cyclization** *Chem.* (ring formation) **** **चक्रण***n.*  
+cyclist द्विचक्रिक, द्विचक्रारोही** (-इन्)*m.*  
+**cyclization** *Chem.* (ring formation)  **चक्रण***n.*  
 **cyclize** *vb.* **चक्रण  
 cyclo-, cycl- चक्र-  
 cyclo-alkane** *Chem.* **चक्र-क्षारीण्य  
@@ -43108,7 +43108,7 @@ cycloid** *n. Math.* **चक्रज***n.*
 **cycloid** *adj. Zool.* **वृत्ताभ  
 cycloidal pendulum चक्रजीय निदोल  
 cycloid scales** *Zool.* **वृत्ताभ शल्क  
-Cyclomyaria** *Zool.* **पूर्णवलयानुगण** *m.*****(अनुगण suborder)  
+Cyclomyaria** *Zool.* **पूर्णवलयानुगण** *m.*(अनुगण suborder)  
 **cyclone चक्रवात्या** *f.*
 
 **whirlwind चक्रवात** (ancient word)
@@ -43154,7 +43154,7 @@ reproduction)
 suctorial mouth— PH.)**चूषमुखाः** *m.pl.***2.**(have circular apertures) **गोल-मुखानुगण***m.*
 
 **Cyclostomi चूषमुखाः** *m.pl.*  
-**cyclostyle** *n.*(*cyclo-* चक्र + *style* 'pen') (an apparatus) **चक्रलेखित्र** *n.*****(*Cf.*duplicator प्रतिलिपित्र)
+**cyclostyle** *n.*(*cyclo-* चक्र + *style* 'pen') (an apparatus) **चक्रलेखित्र** *n.*(*Cf.*duplicator प्रतिलिपित्र)
 
 **cyclostyle** *vb.* (the stencil is made by writing लेखन with apen containing asmall wheel चक्र)
 
@@ -43249,7 +43249,7 @@ edge of the upper mandible is straight and not overhanging)
 
 **Cymbopogon jwarancusa जलाशया सुवासतृण** (B.,M. जलाशया)  
 **Cymbopogon martini** (roosa grass) **रोहिषा सुवासतृण** (MW., Mar. रोहिषा)  
-**Cymbopogon nardus** (citronella grass) **निम्बुक****सुवासतृण  
+**Cymbopogon nardus** (citronella grass) **निम्बुकसुवासतृण  
 Cymbopogon schoenanthus** (geranium grass) **रोहिषक सुवासतृण** (B., M., Mar. रोहिषा, रोषघास, Hin.
 
 रूसाघास)
@@ -43279,7 +43279,7 @@ maggots, and the maggots die— Basu) **सामान्य व्रणपो
 Cynara cardunculus = cardoon** (used in cheese-making) **दधिक-वज्रांगी  
 Cynara scolymus** (artichoke) **सामान्य-वज्रांगी  
 cynegetics** (art of hunting) **आखेट***m.,***आखेट-कला** *f.,* **शिकार  
-cynical theory of taxation** *Econ.*****(pluck the goose with as little squawking as possible)
+cynical theory of taxation** *Econ.*(pluck the goose with as little squawking as possible)
 
 **मधुप-**
 
@@ -43300,8 +43300,8 @@ Cynodon dactylon** (Bahama grass, Bermuda grass, couch grass, creeping panicgras
 grass, doab grass, doob grass, dog's tooth grass, doorwa, doub grass, dun grass) **सामान्य-दूर्वा** (B., N., Mar. दूर्वा, Hin. Pan. दूब,Konkani *dhurva*)
 
 **cynodont श्वदन्त** *m.*  
-**Cynodontia** *Paleontol.* (suborder)****श्**वदन्तानुगण***m.*  
-**Cynoglossum** *Bot.* (fr. Gk. *kynoglosson* 'hound's-tongue')****श्वजिह्व-प्रजाति**  
+**Cynodontia** *Paleontol.* (suborder)श्**वदन्तानुगण***m.*  
+**Cynoglossum** *Bot.* (fr. Gk. *kynoglosson* 'hound's-tongue')श्वजिह्व-प्रजाति**  
 Cynoglossum glochidiatum** (glochidia on the faces plentiful—Basu)
 
 **प्रलोमी श्वजिह्व**(प्रलोम
@@ -43326,7 +43326,7 @@ Cynomorpha** *Zool.* **प्लवंगाः** *m.pl.* (प्लवंग fo
 **Cynthiidae** *Zool.***रंगिचोल-वंश***m.*  
 **Cynthiinae** *Zool.* **रंगिचोलानुवंश** *m.*  
 **Cyon = Cuon  
-Cyperaceae** *Bot.***मुस्ता-कुल*****n.*  
+Cyperaceae** *Bot.***मुस्ता-कुल*n.*  
 **Cyperus** *Bot.* **मुस्ता-प्रजाति  
 Cyperus articulatus** (the tuber is tonic— Basu) **बल्यकन्द-मुस्ता**  
 **Cyperus esculentus** (chufa, ground-almond, tiger-nuts)**क्षुद्र-मुस्ता**(Basu क्षुद्र मुस्ता)  
@@ -43343,7 +43343,7 @@ aromatictuber— Basu) **कटुकन्द-मुस्ता**
 
 *nagarmothya,* Hin. नगरमोथा)
 
-**cyphella** *Bot.* (a little pit on the lower surface of the thallus in lichens) **निगर्तिका*****f.*  
+**cyphella** *Bot.* (a little pit on the lower surface of the thallus in lichens) **निगर्तिका*f.*  
 
 **cypher 1.***Math.* **शून्य** *n.***2.**(secret writing) **गूढलेख** *m.,***गूढ-**  
 **cypher code गूढलेख-संहिता, गूढलेख-पद्धति  
@@ -43367,9 +43367,9 @@ low निbrilliance) **न्यवपीतहरि**
 
 **cypress pine सुरसरल** *m.*  
 **cypress-root** (*Cyperus longus*) **कटुकन्द***m.*  
-**cypress shrub** (*Lawsonia inermis*) **रक्तगर्भ***m.*****(N., M.)  
+**cypress shrub** (*Lawsonia inermis*) **रक्तगर्भ***m.*(N., M.)  
 **Cypridina** *Zool.* (a genus of crustaceans having three eyes) **त्रिलोचनप्रजाति  
-Cyprinidae** *Zool.* **श**फर-वंश**** *m.*  
+Cyprinidae** *Zool.* **श**फर-वंश *m.*  
 **cyprinodont** *Zool.* **शफरदन्त***m.*  
 **Cyprinodontes** *Zool.* **शफरदन्त-गण** *m.* (गण order)  
 **Cyprinodontidae** *Zool.* **शफरदन्त-वंश** *m.*  
@@ -43430,9 +43430,9 @@ cystidiole** *Mycol.* **व**न्ध्य**वृन्त***n.*(asterile str
 **cystocarp***Bot.* **कोष्ठफल** *n.*  
 **Cystococcus** *Bot.* **कोष्ठाप्य-प्रजाति  
 Cystococcus humicola भौमकोष्ठाप्य**  
-**Cystoflagellata** *Biol.* **कोष्ठकशांगानुगण***m.*****(अनुगण suborder)  
+**Cystoflagellata** *Biol.* **कोष्ठकशांगानुगण***m.*(अनुगण suborder)  
 **cystogen = hexamine षट्तिक्ती***f.*  
-**Cystoidea** (sac-like calyx— CNH. I.580) **स्यूनकोश-वर्ग***m.*****(वर्ग class)  
+**Cystoidea** (sac-like calyx— CNH. I.580) **स्यूनकोश-वर्ग***m.*(वर्ग class)  
 **cystolith** *Bot.* (a concretion deposited in a plant cell) **कोशोपल** *m.*  
 **Cystopus = Albugo** *Bot.*  
 **cyst-ostomy** *Med.* **मूत्राशय-आस्यछेदन***n.*(-os-tomy

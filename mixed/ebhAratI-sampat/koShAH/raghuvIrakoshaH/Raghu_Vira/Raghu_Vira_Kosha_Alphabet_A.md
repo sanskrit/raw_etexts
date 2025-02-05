@@ -108,7 +108,7 @@ draw noconclusion as to its legitimate use) **दुरुपयोगान्�
 **abacist** (one who usesan abacus)**गणित्रिक** *m.*  
 **aback adv. 1.** **पश्चात्, पीछे,2.**(against the mast कूपक) **प्रतिकूपक taken aback चकित, विस्मयस्तब्ध**
 
-**all aback 1.**(entirely aback) **सर्वथा पश्चात्,2.**(stopped) **परिस्तब्ध,****3.**(reversed) **विपरीत**
+**all aback 1.**(entirely aback) **सर्वथा पश्चात्,2.**(stopped) **परिस्तब्ध,3.**(reversed) **विपरीत**
 
 **abactinal = aboral** *Zool.* **विमुख**  
 **abaction** *Law* (cattle-stealing) **पशुचौर्य,यूथहरण** *n.*  
@@ -152,7 +152,7 @@ artificial constraint)**कामचार** *m.*
 **abandoned claim** *Law* **परित्यक्त अध्यर्थना**  
 **abandoned cultivation परित्यक्त कृषि**  
 **abandoned or unoccupied premises परित्यक्त अथवा अनभिधृत स्थान  
-abandoned property** *Law*****परित्यक्तसंपत्ति**  
+abandoned property** *Law*परित्यक्तसंपत्ति**  
 **abandoned to vice व्यसनी** (-इन्) *m.*  
 **abandonee 1.परित्यक्ती**(-इन्) *m.* (परित्यक्तम् अस्यास्तीति), **2.**(an underwriter to whom salvage of
 
@@ -160,7 +160,7 @@ wreck is abandoned) **अध्यर्पिती** (-इन्) *m.*
 
 **abandoner परित्यक्ता** (-तृ), **परित्यागी** (-इन्)*m.*  
 **abandoning** *adj.* (one who abandons) **परित्यागी** (-इन्)  
-**abandonment 1.परित्याग***m.,*******a.**(act of abandoning) **परित्यजन** *n.,***b**.(state of being abandoned)
+**abandonment 1.परित्याग***m.,***a.**(act of abandoning) **परित्यजन** *n.,***b**.(state of being abandoned)
 
 **परित्यक्तता** *f.,***c**.(total desertion) **परि-विरहण** *n.,***d**.*Law* (desertion by a husband or wife of his or her consort with the intention of creating a permanent separation)**परित्याग***m.,***2.a**.(self-surrender) **आत्प्राध्यर्पण** *n.,***b**.(such relinquishment by an inventor of his rights to secure a patentas will constitute a dedication of the invention to public use) **अध्यर्पण** *n.,* **3.**(complete freedom from restraint, esp. self-restraint) **कामचार, असंयम, भोगविलास***m.,*
 
@@ -212,7 +212,7 @@ arises')**नाभ्यस्ताद् वैधा क्षतिः। �
 **abatable** *adj.* **अपाकरणीय**  
 **abate** *vb.* **1.**(to do away with) **अपाकरण** (अप away),**2.**(to bring entirely down)
 
-**परिनिपातन**(परि entirely, नि down, पातन felling),**3.**(to demolish, throw or pull down),**अवासन** (अव down, असन throwing), **नीचे गिराना**, **4.**(to put an end to) **अन्त-करण, अन्त करना, समाप्त करना,5.**(to nullify; to make void) **शून्य-करण, शून्यन** (शून्य void),**6.***intr*. (to lessen) **हसन, न्यून होना, कम होना,***trans.* **ह्रासन, ह्रास करना, न्यून करना, कम करना,7.**(to diminish, as a disease) **उपशमन,****8.**(to subside) **प्रशमन, अधोगमन, नीचे उतरना** (the waters of the river aba-
+**परिनिपातन**(परि entirely, नि down, पातन felling),**3.**(to demolish, throw or pull down),**अवासन** (अव down, असन throwing), **नीचे गिराना**, **4.**(to put an end to) **अन्त-करण, अन्त करना, समाप्त करना,5.**(to nullify; to make void) **शून्य-करण, शून्यन** (शून्य void),**6.***intr*. (to lessen) **हसन, न्यून होना, कम होना,***trans.* **ह्रासन, ह्रास करना, न्यून करना, कम करना,7.**(to diminish, as a disease) **उपशमन,8.**(to subside) **प्रशमन, अधोगमन, नीचे उतरना** (the waters of the river aba-
 
 ted नदी का पानी नीचे उतर गया), **9.***Law* **उपसंहरण होना, उपशमन होना, समाप्त होना**  
 **The disease is beginning to abate रोग का उपशमन होने लगा है।**
@@ -847,7 +847,7 @@ buried; alive) प्राणोपेत, मर्त्यलोकस्थ
 above the line रेखोपरि**  
 **above the signature of के हस्ताक्षर द्वारा**
 
-*****Cf.* **under the signature of के हस्ताक्षर से**
+*Cf.* **under the signature of के हस्ताक्षर से**
 
 **above-water जलोपरि**  
 **above-written** *adj.* **उपरि-लिखित**  
@@ -871,7 +871,7 @@ above the line रेखोपरि**
 **abrasiometer अपघर्ष-मान** *m.*  
 **abrasion 1.अपघर्षण** *n.*, **घिसना, छिलना, 2.अपघृष्ट स्थान** *n.,***3.**(substance rubbed off) **अपघृष्ट द्रव्य**
 
-*n.,*****4.***Coinage, Dentistry, Med.* **अपघर्षण** *n.*  
+*n.,*4.***Coinage, Dentistry, Med.* **अपघर्षण** *n.*  
 **corrasionसमपघर्षण**
 
 **abrasion testing machine अपघर्षण-परीक्षित्र, अपघर्षण-परीक्षण-यन्त्र**  
@@ -1544,7 +1544,7 @@ vacuum शून्यक)
 absolute temperature** (T, abe.) *Physical Chem.* **प्रकेवल ताप** (ता., प्रके.)  
 **absolute tenure परम धारणाधिकार  
 absolute term 1.निरपेक्ष पद, 2.= constant term** *Alg.* **अचल पद  
-absolute time 1.निरपेक्ष काल, 2.***Astron.* **** (a single common standard of mean solar time)
+absolute time 1.निरपेक्ष काल, 2.***Astron.*  (a single common standard of mean solar time)
 
 **प्रमाप काल**
 
@@ -2240,7 +2240,7 @@ Basu) **रज्जु-कंकती**
 
 **abutment 1.स्पर्श, प्रतिस्पर्श** *m*., **2.***Arch.* **भारावलम्ब** *m*., **3.***Mech.* **प्रतिक्रिया-स्थान** *n*., **4.**(an abutting
 
-joint)****
+joint)
 
 **प्रतिस्पर्शी सन्धि** *m.,***5.***Rly.* (end support of an arch) **अन्तवप्र** *m.*
 
@@ -2264,7 +2264,7 @@ abysm गह्वर** *n.*
 **abysmal** *adj.* **1.गह्वरीय, अगाध, अतिगहन, अनन्त** (unending), **2.**(found in the abyssal zone) **अगाधीय  
 abyss 1.अगाधगर्त, गभीरगर्त** *m***., 2.अधोलोक** *m*., **रसातल** *n*., **3.अनन्तकाल** *m.,* (deep immeasurable
 
-space) **गभीर-वरिमा, अमेय-वरिमा** (-मन्)*****m*., **शून्य** *n*., **4.**(bottom water of the deep sea) **अगाधजल** *n.,*
+space) **गभीर-वरिमा, अमेय-वरिमा** (-मन्)*m*., **शून्य** *n*., **4.**(bottom water of the deep sea) **अगाधजल** *n.,*
 
 **abyssal** *adj.* **1.अगाध, अगाधीय, 2.***Petrog* **= plutonic अधोवनित  
 abyssal fauna अगाधवासी प्राणिजात  
@@ -2360,7 +2360,7 @@ Acacia melanoxylon = Australian blackwood कृष्णकाष्ठ बब�
 Acacia modesta** (it is a small-sized tree—Basu) **लघु बब्बूल  
 Acacia moniliformis मणिरूप बब्बूल  
 Acacia nicoyensis** (thorns are hollow)**सुषिरकण्ट बब्बूल  
-Acacia pennata अरि बब्बूल** (B, M अरि, Hin.*****aila*)  
+Acacia pennata अरि बब्बूल** (B, M अरि, Hin.*aila*)  
 **Acacia planifrons = umbrella thorn** (a tree with a flat spreading dense umbrella-like crown–
 
 Tr. II.461)**छत्र-बब्बूल**
@@ -2518,7 +2518,7 @@ chaetae" : CNH. II. 395\] **दृढरोमौका-प्रजाति**
 
 *m. *
 
-(वर्ग class)****
+(वर्ग class)
 
 **Acanthocereus मृदुकण्टाल-प्रजाति  
 Acanthocereus pentagonus पञ्चकोण मृदुकण्टाल  
@@ -2539,7 +2539,7 @@ Acanthodidae पक्षानुकण्ट-वंश** *m.*
 acanthoid** *adj.* **कण्टाकार, कण्टित, कण्टयुत  
 Acantholimon** *Bot.* **चित्रमूल-प्रजाति  
 Acantholimon glumaceum तुषनिपत्र चित्रमूल** (तुषनिपत्र 'glume'; glumaceumwith chaffy bracts')  
-**Acantholimon venustum** (*venunstum*****'pleasing, lovely') **कमनीय चित्रमूल  
+**Acantholimon venustum** (*venunstum*'pleasing, lovely') **कमनीय चित्रमूल  
 acanthology** *Biol.* **शल्य-विज्ञान** *n.*  
 **acanthoma** *Med.* **शल्यार्बुद** *m.*  
 **Acanthophis** *(acanth-* कण्ट-+*ophis*'serpent' अहि) *Zool.* कण्टाहि-प्रजाति  
@@ -2576,7 +2576,7 @@ acapnia** *Med***.** (abnormally low content of CO₂ प्रजद्वे) 
 **acapsular***adj. Bot.* **अप्रावर** (प्रावर capsule)  
 **acapu कुट्टिमद्रु***m.*  
 **Andira americana = Vouacapoua americana सामान्य कुट्टिमद्रु  
-acapulco** (Cassia alata) **दद्र**घ्न**** *m.*  
+acapulco** (Cassia alata) **दद्र**घ्न *m.*  
 **acara** *Zool.* (they build nests) **नीडमत्स्य***m.*
 
 **Cichlidae नीडमत्स्य-वंश** *m.*
@@ -2625,7 +2625,7 @@ the complete number of syllables) **पूर्णाक्षर**
 
 feeblemindedness) **बोधाशक्ति, दुर्बल-मनस्कता** *f.*
 
-**acatalepsy अज्ञेयता** *f.*****(incomprehensibility), **अनिश्चयवाद, संभावितावाद, स्याद्वाद** *m.* (the doctrine
+**acatalepsy अज्ञेयता** *f.*(incomprehensibility), **अनिश्चयवाद, संभावितावाद, स्याद्वाद** *m.* (the doctrine
 
 that knowledge amounts only to probability)
 
@@ -2664,7 +2664,7 @@ accelerant***n.* **त्वरक, वेगवर्धक, गतिवर्
 accelerated erosion त्वरित अपक्षरण  
 accelerated motion** *Mech.* **त्वरित गति  
 accelerated pace त्वरित गति  
-accelerated promotion** *Admin.***त्वरित******पदोन्नति  
+accelerated promotion** *Admin.***त्वरित**पदोन्नति  
 accelerated reaction** *Med.***त्वरित प्रतिक्रिया**  
 **accelerated velocity** *Phys.***त्वरित प्रवेग  
 accelerating influence त्वरक प्रभाव**  
@@ -2795,7 +2795,7 @@ accessible parts सुगम भाग
 accessio** *Law* **अभिवृद्धि** *f.*  
 **accession 1.**(a coming to or near) **अभिगमन** *n.,***2.**(approach) **उपागमन** *n.,***3.***Politics* (act of
 
-acceding and becoming joined, as to a confederacy****or union) **संमिलन** *n.,* **प्रवेश** *m.* (Const.)(Cf.merger संविलयन),**4.**(increase by something added)**अभिवृद्धि** *f.,***5.**(the act of coming to or reaching a throne, an office, or a dignity) **सिंहासनारोहण, पदारोहण** *n.,***-प्रवेश** *m.,***-ग्रहण** *n.,* **6.***Law* (that mode of acquiring property by which the owner of a corporeal substance becomes the owner poreal of an addition by growth, increase, or labour) **अभिवर्धना** *f.,***7.***International Law* (act by which one power becomes party to engagements already in force between other powers) **सहमिलन** *n.*
+acceding and becoming joined, as to a confederacyor union) **संमिलन** *n.,* **प्रवेश** *m.* (Const.)(Cf.merger संविलयन),**4.**(increase by something added)**अभिवृद्धि** *f.,***5.**(the act of coming to or reaching a throne, an office, or a dignity) **सिंहासनारोहण, पदारोहण** *n.,***-प्रवेश** *m.,***-ग्रहण** *n.,* **6.***Law* (that mode of acquiring property by which the owner of a corporeal substance becomes the owner poreal of an addition by growth, increase, or labour) **अभिवर्धना** *f.,***7.***International Law* (act by which one power becomes party to engagements already in force between other powers) **सहमिलन** *n.*
 
 **accession book** *Libraries* **अवाप्ति-पुस्तक**  
 
@@ -4023,7 +4023,7 @@ with needle scratches) **सूचीखुरित** ($\\sqrt{}$खुर् t
 (उ.म.नि. का सहायक, अपराध तथा संथान, गुप्तचर विभाग)
 
 **acid** *n.Chem.* **अम्ल** *n.* (Germ. *Säure*)  
-**acid** *adj.* **1.**(sour) **अम्ल, खट्टा,2*****.**Petrog.* **= persilicic** (rich in silica) **बहुसिकत**  
+**acid** *adj.* **1.**(sour) **अम्ल, खट्टा,2*.**Petrog.* **= persilicic** (rich in silica) **बहुसिकत**  
 **acid** *vb.* (to expose to the action of acid) **अम्लन**  
 **acid action अम्ल-क्रिया**  
 **acid albumin** *Biochem.* **अम्ल-श्विति**  
@@ -4184,7 +4184,7 @@ acid light yellow***Col. Ind.***अम्ल लघु पीत**
 **acidol** **azo violet अम्लव अज नीललोहित**  
 **acidolblack violet अम्लव काल नीललोहित**  
 **acidol** **blue अम्लव नील**  
-**acidol brilliant black****अम्लवभासुर काल**  
+**acidol brilliant blackअम्लवभासुर काल**  
 **acidol** **brown अम्लव बभ्रु**  
 **acidol** **carmine अम्लव कीटशोणी**  
 **acidolchromatebrown अम्लव वर्णीय बभ्रु**  
@@ -4261,7 +4261,7 @@ acid rocks** *Geol.* **बहुसिकत शैल**
 **acid sap** *Bot.* **साम्ल रस, अम्ल रस**  
 **acid scarlet** *Col. Ind.* **अम्ल-शोण**  
 **acid sludge अम्ल अवपङ्क**  
-**acid sodium carbonate** *Chem.***अम्ल****क्षारातु प्रांगारीय**  
+**acid sodium carbonate** *Chem.***अम्लक्षारातु प्रांगारीय**  
 **acid sodium sulphate** *Chem.* **अम्ल क्षारातु शुल्बीय**  
 **acid sodium sulphite** *Chem.* **अम्ल क्षारातु शुल्बित**  
 **acid soil अम्ल मृदा**
@@ -4431,7 +4431,7 @@ in MeM. 158), **2.= aconitum = aconiti radix = aconite root** *Pharm.* (B.P.C.) 
 **aconiti radix = aconite root ** *Pharm.*(B.P.C.) **प्रविष-मूल**  
 **aconitum = aconite** *Pharm.* (an extract or tincture from *Aconitum napellus*)**प्रविष** *m.*  
 **Aconitum** *Bot.* **विषा-प्रजाति**  
-**Aconitum** **anglicum****=****Aconitum napellus**  
+**Aconitum** **anglicum=Aconitum napellus**  
 **Aconitum** **atees =** **Aconitum** **heterophyllum**  
 **Aconitumatrox = Aconitum deinorrhizum**  
 **Aconitum** **balfourii** (with five carpels—Basu) **पञ्चाण्डप-विषा**  
@@ -4447,14 +4447,14 @@ in MeM. 158), **2.= aconitum = aconiti radix = aconite root** *Pharm.* (B.P.C.) 
 **Aconitum ferox Clegh.** (partim) **= Aconitum deinorrhizum**  
 **Aconitum ferox Hook. = Aconitum spicatum**  
 **Aconitum ferox Royle** (partim) **Aconitum falconeri**  
-**Aconitum ferox Wall.** (partim) **=****Aconitum balfourii**  
+**Aconitum ferox Wall.** (partim) **=Aconitum balfourii**  
 **Aconitum ferox** *var.* **atrox Brühl = Aconitum** **falconeri**  
 **Aconitum ferox** *var.* **atrox Watt = Aconitum deinorrhizum**  
 **Aconitum ferox** *var.* **crassicaulis = Aconitum spicatum**  
 **Aconitum ferox heterophylloides = Aconitum spicatum**  
 **Aconitum ferox** *var.* **laciniata = Aconitum laciniatum**  
 **Aconitum ferox** *var.* **laciniatum = Aconitum deinorrhizum  
-Aconitum ferox** *subsp.* **palmatum =****Aconitum** **palmatum**  
+Aconitum ferox** *subsp.* **palmatum =Aconitum** **palmatum**  
 **Aconitum ferox** *var.* **polyschiza = Aconitum balfourii**  
 **Aconitum ferox** *var.* **spicata = Aconitum spicatum**  
 **Aconitum ferox** *var.* **spicatum = Aconitum spicatum**  
@@ -4466,7 +4466,7 @@ Aconitum ferox** *subsp.* **palmatum =****Aconitum** **palmatum**
 **Aconitumlethale** (roots fusiform—Basu)**तर्कमूल-विषा**  
 **Aconitum** **luridum** (*luridus* 'pale yellow'; the sepals are lurid—Basu) **पीत-विषा**  
 **Aconitum** **lycoctonum** (*lycoctonum* 'wolfkilling' वृक-घ्न) **वृकघ्न-विषा**  
-**Aconitum** **multifidum= Aconitum****violaceum**  
+**Aconitum** **multifidum= Aconitumviolaceum**  
 **Aconitum napellus = monk's-hood पाश्चात्य-विषा**  
 **Aconitum napellus Clegh.= Aconitum violaceum**  
 **Aconitumnapellus** **Stewart** **= Aconitum chasmanthum**  
@@ -4492,7 +4492,7 @@ Aconitum variegatum = Aconitum elwesii**
 
 PR.350)
 
-**वञ्जुग्रन्थि***m.,***3.***Zool.**=*****acorn barnacle**
+**वञ्जुग्रन्थि***m.,***3.***Zool.**=*acorn barnacle**
 
 **acorn barnacle = acorn shell = rock barnacle** (often found attached in countless numbers to
 
@@ -4636,7 +4636,7 @@ bution अवाप्ति, परिरक्षण और वितरण
 acquittal** (act of acquitting) **अभिमुक्ति** *f.,***अभिमोचन** *n.*  
 **acquittance अभिमुक्ति** *f.*  
 **acquittance register वेतन-पञ्जी  
-acquittance roll 1.वेतनावलि** *f.,*******2.**(PWDM. II.424) **परिशोधनावलि** *f.*  
+acquittance roll 1.वेतनावलि** *f.,***2.**(PWDM. II.424) **परिशोधनावलि** *f.*  
 **acquitted** *adj.* **अभिमुक्त**  
 **acquitterअभिमोचक** *m.*  
 **A.C.R.** (Assistant Commissioner of Food Supplies for rice areas) **सं. आ. त.** (चावल क्षेत्रों के लिए
@@ -4685,7 +4685,7 @@ acridine** *Chem.***उग्री** *f.*
 **acridine dye** *Chem.* **उग्रीरञ्जक  
 acridine flavine R** *Col. Ind.* **उग्री पिंगी र**  
 **acridine golden yellow** *Col. Ind.***उग्री स्वर्ण-पीत  
-acridine hydrochloride** *Chem.***उग्री******उदनीरेय  
+acridine hydrochloride** *Chem.***उग्री**उदनीरेय  
 acridine orange** *Col. Ind.***उग्री नारंग  
 acridine red** *Col. Ind.***उग्री रक्त  
 acridine scarlet** *Col. Ind.***उग्री शोण  
@@ -4705,10 +4705,10 @@ acridophagus** (an eater of locusts शलभ) **शलभ-भक्ष** *m.*
 
 भटशालिक)
 
-**acridyl** *Chem. **उग्रल********n.*  
+**acridyl** *Chem. **उग्रलn.*  
 **acri-flavine** (*acridine+flavine) Pharm.***उग्र-पिंगी  
 acrimonious discussionउग्र चर्चा  
-acr-indoline** (*acridine+indoline)Chem****.* उग्र-नीलवी  
+acr-indoline** (*acridine+indoline)Chem.* उग्र-नीलवी  
 acrinyl** *Chem.* **उग्रिल** *n.*  
 **acritol** *Chem.***उग्रितव***m***.  
 acro- अग्र-  
@@ -4782,7 +4782,7 @@ acrylo-, acryl-**(acrylic) *Chem.* **उगल-**
 acrylyl** *Chem.* **उगरल** *n.*  
 **A.C.S.** (Assistant to Civil Surgeon)**जा.श.स.**(जानपद शल्यचिकित्सक का सहायक)  
 **Act = Ac**(actinium)  
-**act** *n.* **1.कृत्य, कर्म, कार्य** *n.,* **क्रिया** *f.,*****2.**(as, of parliament) **अधिनियम***m.*(Const.),**3.***Law* (I.P.C.) **कृत**
+**act** *n.* **1.कृत्य, कर्म, कार्य** *n.,* **क्रिया** *f.,*2.**(as, of parliament) **अधिनियम***m.*(Const.),**3.***Law* (I.P.C.) **कृत**
 
 *n.*(omissionअकृत)  
 
@@ -4860,7 +4860,7 @@ Actinidia** *Bot.* (Gk. *aktis* 'ray'—referring to starlike flowers.A genus of
 
 **Actinidia chinensis चीन-तारापुष्पा  
 Actinidiapolygama** (silver vine) **रजत-तारापुष्पा  
-Actinidia volubilis** (*volubilis* 'twining')****वलयिनी तारापुष्पा  
+Actinidia volubilis** (*volubilis* 'twining')वलयिनी तारापुष्पा  
 actini-ferous** *adj. Chem.* (containing actinium) **एजातु-युत  
 Actiniopteris** *Bot.* **मयूरशिखा-प्रजाति  
 Actiniopteris dichotoma** (poacock's tail) **सामान्य-मयूरशिखा**(Basu मयूरशिखा)  
@@ -5263,7 +5263,7 @@ Acubens = **α** Caneri** *Astron.* **प्रथम कर्क** *m.*
 
 *m.pl.*
 
-**aculeate** *n. Zool.* (one of the Aculenta) **दंशी** (-इन्)*****m.*  
+**aculeate** *n. Zool.* (one of the Aculenta) **दंशी** (-इन्)*m.*  
 **aculeate** *adj.* **1.**(having a sting) **दंशी** (-इन्),**2.**(pert. to the Aculenta) **दंशी** (-इन्),**3**.*Bot., Zool.*
 
 **कण्टिमत्, 4.**(sharp-pointed) **तीक्ष्णाग्र**(severe),
@@ -5626,13 +5626,13 @@ rescind अपखण्डन
 **adenose** *adj.* **ग्रन्थिल**  
 **adenosine** *Biochem.* **निस्सृजध्वी** *f.*  
 **Adenostemma** *Bot.* **ग्रन्थिकेसर-प्रजाति**  
-**Adenostemma****viscosum श्लेष्मी ग्रन्थिकेसर**  
+**Adenostemmaviscosum श्लेष्मी ग्रन्थिकेसर**  
 **adenous** *adj.* **adenose**  
 **adenyl** (*adenine+-yl*) *Biochem.* **निस्सृजल***n.*  
 **adenylic acid** *Biochem.* **निस्सृजलिक अम्ल**  
 **A.D.E.O.** (Assistant District Excise Officer) **स.म.उ.अ.** (सहायक मण्डल-उत्पाद-शुल्क-अधिकारी)  
 **adeps, adipis = lard** *Pharm.* **सूकर-वपा, वपा***f.*  
-**adeps****benzoatus = adeps benzoinatus = benzoinated lard धूपित वपा**  
+**adepsbenzoatus = adeps benzoinatus = benzoinated lard धूपित वपा**  
 **adeps lanae** (wool fat, lanolin) **ऊर्णा-वपा**  
 **adeps** **lanae hydrosus** (hydrous or purified wool fat) **शुद्धोर्णा-वपा**  
 **adeps** **ovilus** (sheep suet or tallow) **अविवपा**  
@@ -6085,13 +6085,13 @@ admiration mark** (!) **विस्मय-चिह्न**
 
 **admiration point** (!) **विस्मय-चिह्न**  
 **admire** *vb.* **समादर करना, प्रशंसा करना, सराहना, आश्चर्येक्षण, समादर-प्रशंसा करना, मुग्ध होना, लट्टू होना**  
-**admirer 1.प्रशंसक*******m.,***2.**(a lover) **प्रणयी** (-इन्) *m.*  
+**admirer 1.प्रशंसक***m.,***2.**(a lover) **प्रणयी** (-इन्) *m.*  
 **admissibility प्रतिग्राह्यता, ग्राह्मता, स्वीकार्यता** *f.*  
 **admissibility of questions प्रश्नों की ग्राह्यता**  
 **admissible** *adj.* **1.प्रवेश्य, प्रतिग्राह्य, ग्राह्य, स्वीकार्य, अनुमन्य,2.**(value) *Math.* **ग्राह्य**  
 **admissible evidence** * Law* **प्रतिग्राह्य साक्ष्य, ग्राह्य साक्ष्य**  
 **admissible grant स्वीकार्य अनुदान, प्रतिग्राह्य अनुदान  
-admissible under the rules नियमाधीन प्रतिग्राह्य,****नियमानुसार ग्राह्य**  
+admissible under the rules नियमाधीन प्रतिग्राह्य,नियमानुसार ग्राह्य**  
 **admissible value** *Econ.* **स्वीकार्य अर्हा**  
 **admission 1.प्रवेशन** *n.,***प्रवेश***m.,* **ग्रहण, स्वीकरण** *n.*, **स्वीकार** *m.*, **अनुमनन** *n.*, **अनुमति***f.,***2.***Law*
 
@@ -6352,7 +6352,7 @@ ad valorem taxation** (imposition of a duty on commodities in proportion to thei
 **यथामूल्य शुल्कारोपण**
 
 **advance** *n.* **1.अग्रिम, अग्रिम धन** *n.,***2.**(loan) **उधार,3.प्रगति** *f.,* **4.**(of the army) **सेनामुख***n.*  
-**advance** *adj.* **1.अग्रिम,****2.कालपूर्व**  
+**advance** *adj.* **1.अग्रिम,2.कालपूर्व**  
 **advance** *vb.* **1.अग्रिम देना** (Const.), **2.**(as, an opinion) **प्रकट करना,3.आगे बढ़ना, आगे करना, आगे**
 
 **जाना,4.**(to bring forward) **अग्रे-नयन,5.**(to make to go on) **अग्रे-गमन** (from causative गमयति),**6.**(to accelerate the growth or progress of) **वृद्धि-त्वरण, गति-वर्धन, गति बढ़ाना**,**7.**(to forward, to further) **अग्रे-करण, आगे करना,8.**(help on) **साहाय्य-करण, सहायता करना, उपकरण, उपकार करना,9.**(to raise to a higher rank, to promote, to elevate) **उत्थापन, ऊपर उठाना,10.**(to hasten) **त्वरण,11.**(to raise in rate, as prices) **मूल्यवर्धन, मुल्योत्थापन,12.**(to supply be forehand, as money)**अग्रतो-दान, पूर्वतो-दान, अग्रेदान,13.**(to place farther forward) **अग्रेस्थापन**
@@ -6538,7 +6538,7 @@ advisory work मन्त्रणा-कार्य
 advocacy 1.अधिवाक** *m.* (from ऋग्वेद),**2.पक्षपोषण, समर्थन** *n.*  
 **advocacy of temperance मितपान का समर्थन**  
 
-**advocate *n.* अधिवक्ता** (-तृ)*****m.* (from ऋग्वेद) (Const.)  
+**advocate *n.* अधिवक्ता** (-तृ)*m.* (from ऋग्वेद) (Const.)  
 **advocate** *vb.* **अधिवचन करना, समर्थन करना  
 Advocate General महाधिवक्ता** (Const.)  
 **advocate of High Court उच्च न्यायालय का अधिवक्ता  
@@ -6822,7 +6822,7 @@ Wharton) **वाङ्निश्चय** *m.*
 
 **betrothal वाग्दान, मंगनी, सगाई**
 
-**affiant** *Law* (one who makes an affidavit) **शपथपत्रकारी** (-इन्)*****m.*  
+**affiant** *Law* (one who makes an affidavit) **शपथपत्रकारी** (-इन्)*m.*  
 **affidavit** *Law* **1.शपथपत्र** *n.* **2.पत्रशपथ** *m.*
 
 **sworn afidavit गृहीत शपथपत्र**
@@ -6840,7 +6840,7 @@ affiliation 1.**(adoption) **दत्तकग्रहण** *n.,***2.**(assign
 **affiliation cases संबन्धन-विषय  
 affinity 1.**(relationship by marriage)**विवाहसंबंध** *m.*
 
-**consanguinity रक्तसंबन्ध, 2.सादृश्य** *n.,* **3.***Chem.***बन्धुता** *f.*****
+**consanguinity रक्तसंबन्ध, 2.सादृश्य** *n.,* **3.***Chem.***बन्धुता** *f.*
 
 **collateral affinity** *Law* **सांपार्श्विक विवाहसंबन्ध  
 direct affinity** *Law* **सीधा विवाहसंबन्ध  
@@ -7595,7 +7595,7 @@ agglutinability 1.अभिश्लेष्यता** *f.* **2.***Immunol.* *
 agglutinant = agglutinative** *adj. Immunol.* **प्रसमूही** (-इन्)  
 **agglutinate** *vb.* **1.**(to unite or cause to adhere as with glue or other viscous substance; to unite
 
-by adhesion)**अभिश्लेषण,****2.***Immunol.* (collection into clumps of cells or bacteria) **प्रसमूहन**
+by adhesion)**अभिश्लेषण,2.***Immunol.* (collection into clumps of cells or bacteria) **प्रसमूहन**
 
 **agglutinate** *adj. * (united with glue or as with glue) **अभिश्लिष्ट  
 agglutinated** *adj.* **1.अभिश्लिष्ट, 2.***Immunol.* **प्रसमूढ  
@@ -8611,7 +8611,7 @@ light falling upon it) **काशानुपात** *m.*
 **albitization स्फक्षासैकिजायन***n.*  
 **Albizzia** *Bot.* **शिरीष-प्रजाति**  
 **Albizzia** **amara** (seeds astringent) **कषाय शिरीष**  
-**Albizzia****julibrissin**(pink siris—Tr.II. 483, Flowers are pink—Basu) **पाटल शिरीष**(Hin. लाल
+**Albizziajulibrissin**(pink siris—Tr.II. 483, Flowers are pink—Basu) **पाटल शिरीष**(Hin. लाल
 
 सिरिस)
 
@@ -8635,7 +8635,7 @@ Ben. Hin. Kan. सिरिस, Tel. सिरिषसु, Tam. *siridam*)
 
 **Albugo** **bliti** (causes white rust of Amarantaceae) **प्रवास्तुक-सितस्फोट**  
 **Albugo** **candida** (grows on crucifers राजिका-कुल्य) **राजिका-सितस्फोट**  
-**Albugo** **ipomaeae****त्रिवृता-सितस्फोट**  
+**Albugo** **ipomaeaeत्रिवृता-सितस्फोट**  
 **Albugoportulacae लोणी-सितस्फोट** (लोणी Portulaca)  
 **Albugo** **tragopogonis** (attacks Compositae संग्रथित-कुल) **संग्रथित-सितस्फोट**  
 **Albula** *Zool.* (covered with large silvery scales —CNH. VII. 548) **श्वेत-मीन-प्रजाति**  
@@ -8694,7 +8694,7 @@ tox-albumic विष-श्वितिक
 **albumin tannate** *Chem.* **श्विति शल्कीय**  
 **albumin-uria श्विति-मेह**  
 **albumin-uric** *adj.* **श्विति-मेहिक**  
-**albumoscope****श्वितीक्ष***m.*  
+**albumoscopeश्वितीक्ष***m.*  
 **albumose** (from *albumin*) *Biochem.***श्वितधु** *n.*
 
 anti-albumoses प्रति-श्वितधु  
@@ -8739,7 +8739,7 @@ hemi-albumoses सामि-श्वितधु
 **Alchemilla** **acutiloba** **तीक्ष्णपालि मौलिपाटल**(तीक्ष्ण- acuti- + पालि -loba)  
 **Alchemilla** **alpina हिमाल्प-मौलिपाटल**  
 **Alchemilla** **anglica = Alchemilla vestita**  
-**Alchemilla** **argentea, G.Don** (non Lam.) **=****Alchemilla** **conjuncta**  
+**Alchemilla** **argentea, G.Don** (non Lam.) **=Alchemilla** **conjuncta**  
 **Alchemilla** **arvensis** (*arvensis*'growing in fields क्षेत्र') **क्षेत्र-मौलिपाटल**  
 **Alchemillaconjuncta संयुत मौलिपाटल**  
 **Alchemilla** **filicaulis सूत्रस्तम्भ मौलिपाटल** (सूत्र fili-+
@@ -8823,7 +8823,7 @@ dipsomania मदिरोन्माद, मदिरासक्ति
 intoxication मादकता, मद  
 inebriety मद्यमत्तता
 
-**alcoholist पानात्ययी** (-इन्) *m.* **** (पानात्यय a disease)  
+**alcoholist पानात्ययी** (-इन्) *m.*  (पानात्यय a disease)  
 **alcoholization ** *Chem.* **सुषवण**  
 **alcoholize** *vb.* **सुषवण,1.**(to treat with alcohol) **सुषव-साधन, 2.**(to saturate with alcohol)
 
@@ -8881,7 +8881,7 @@ impossible to make out their limits in the living colony—CNH. II. 480) **श�
 
 **Alcyonium palmatum हस्त-अष्टावयवी  
 ald-, aldo-** *Chem.* **सुवि-  
-aldamine** (*alde*hyde+-am*ine*) ***** Chem.* **सुव्युद-तिक्ती** *f.*  
+aldamine** (*alde*hyde+-am*ine*) * Chem.* **सुव्युद-तिक्ती** *f.*  
 **aldane** (*alde*hyde सुवि+*an*hydrid*e* अजलेय) *Chem.* **सुव्यजलेय** *n.*  
 **aldazine** *Chem.* **सुव्यजीवी** *f***.  
 Aldebaran = **α**Tauri** *Astron.* **प्रथम वृषभ** *m.,* **रोहिणी** *f.*  
@@ -9026,7 +9026,7 @@ algicole = algicolous** *adj.* (living on algae) **आप्यकजीवी**
 **algicolous = algicole  
 Algieba = *γ* Leonis** *Astron***. तृतीय सिंह** *m.*  
 **algin** *Chem***.** (a viscid substance obtained from certain algae आप्यक) **आप्यकि** *f.*  
-**alginate** *Chem.*****(a salt alginic acid) **आप्यकीय** *n.*  
+**alginate** *Chem.*(a salt alginic acid) **आप्यकीय** *n.*  
 **alginic** *adj. Chem.* **आप्यकिक  
 alginic acid अप्यकिक अम्ल  
 algodonite** (Cu₆ As) **षटताम्रनेपिज** *m***.** (षट् six, ताम्र copper, नेप- for नेपाल्येय arsenide, -इज for
@@ -9311,7 +9311,7 @@ alkalemia** *(alkali+-emia) Med.* **क्षारक-रक्तता** *f.*
 **alkalescence, alkalescency** *Chem.* **क्षारत्ता, ईषत्क्षारता** *f.*(क्षारत् alkalescent+-ता)  
 **alkalescent** *adj.***1.**(tending to the proporties of an alkali) **क्षारत्, 2.**(slightly alkaline) **ईषत्क्षार  
 alkali** *adj. Chem.* **क्षारकिय  
-alkali** *n.******Chem.* **क्षारक** *m.*
+alkali** *n.**Chem.* **क्षारक** *m.*
 
 **mild alkali मृदु क्षारक  
 caustic alkali दह क्षारक  
@@ -9372,7 +9372,7 @@ alkalifiable** *adj.* **क्षारणीय, क्षारणयोग्
 alkalify** *vb.* **1.**(to convert or change into an alkali) **क्षारण, 2.**(to make alkaline) **क्षारिय-करण  
 alkali-meter क्षारक-मान** *m.*  
 **alkali-metric, alkali-metrical** *adj.* **क्षारक-मितीय  
-alkalimetry क्षारकमिति** *f.*****  
+alkalimetry क्षारकमिति** *f.*  
 **alkaline***adj. Chem.* **क्षारिय  
 alkaline cell** *Elec.* **क्षारिय कोशा  
 alkaline earth** *Chem.* **क्षारिय मृत्, सज्जी मिट्टी  
@@ -10097,7 +10097,7 @@ boils—Basu)
 **Allium sibiricum = Allium schoenoprasum**  
 **Allium** **sikkimense सिक्किम पलाण्डु**  
 **Allium** **sphaerocephalon = round–headed leek** (Br. Fl. p.1233) **गोलशीर्ष पलाण्डु**  
-**Allium****triquetrum** (*triquetrum* 'three-cornered रामास्त्र'—the stalks. राम ‘three') **रामास्न पलाण्डु**  
+**Alliumtriquetrum** (*triquetrum* 'three-cornered रामास्त्र'—the stalks. राम ‘three') **रामास्न पलाण्डु**  
 **Allium** **tuberosum कन्द-पलाण्डु**  
 **Allium** **ursinum** (*ursinum* 'sought after by bears') **ऋक्ष-पलाण्डु**  
 **Allium vineale** (crow garlic) **काक-पलाण्डु**  
@@ -10204,7 +10204,7 @@ allocate आवण्टन
 
 tituberoulata) **बहुदन्तार्बुदाः** *m.pl.*  
 
-**allothigenic = allogenic** *adj. Geol.*******अन्यत्रजात** (‘born elsewhere')  
+**allothigenic = allogenic** *adj. Geol.***अन्यत्रजात** (‘born elsewhere')  
 **allotment 1.वण्टन** *n.,* **बांट,2.**(portion of the pay of an individual in the army, navy, merchant
 
 marine, or the like) **वेतनांश, वण्टित** *m.*
@@ -10291,7 +10291,7 @@ allow to enter प्रवेश करने देना**
 **alloxy-** (*allyl* लाशुनल +*oxy-* जार-) *Chem.***लाशुन-जार-**  
 **all-oxy-proteic** *adj.* (*all- अपर-*) *Chem.***अपर जार-प्रोभूजिक**  
 **alloy***n.* **1.मिश्रातु, मिश्रधातु** *m.***2.**(base metal) **कुप्य***n.*  
-**alloy** *vb.*******धातु-मिश्रण**  
+**alloy** *vb.***धातु-मिश्रण**  
 **alloyage** (act or art of alloying) **धातु-मिश्रण***n.,***धातुमिश्रणा***f.*  
 **alloy balance मिश्रातु-तुला**  
 **alloy charge मिश्रातु-प्रभरण**  
@@ -10365,7 +10365,7 @@ treaty)
 **allyl** (Lat. *allium* 'garlic'+*-yl*) *Chem.***लाशुनल** *n.*  
 **allyl** **alcohol लाशुनल सुषव  
 allyl aldehyde लाशुनल सुव्युद**  
-**allyl****-amine** *Chem.* **लाशुनल-तिक्ती**  
+**allyl-amine** *Chem.* **लाशुनल-तिक्ती**  
 **allyl** **arsonic acid लाशुनल नेपायिक अम्ल**  
 **allyl bromide लाशुनल दुरेय**  
 **allyl** **chloride लाशुनल नीरेय**  
@@ -10606,7 +10606,7 @@ word)
 **Alpinia** **officinarum भैषज्य कुलञ्ज**  
 **Alpinia** **rheedii = Alpinia galanga**  
 **Alpinia** **speciosa** (*speciosa* 'showy, brilliant') **शोभा-कुलञ्ज**  
-**Alpinia****vittata** (*vittata* 'striped राजीव') **राजीव-कुलञ्ज**  
+**Alpiniavittata** (*vittata* 'striped राजीव') **राजीव-कुलञ्ज**  
 **alpinine** *Chem.* **कुलञ्जी** *f.*  
 **A.L.R.** (Assistant Legal Remembrancer) **स.वि.प.** (सहायक विधि-परामर्शी)  
 **already पहले ही**  
@@ -10863,7 +10863,7 @@ selenium alum मेचाग्नि-स्फटिका**
 **aluminium** **dish स्फट्यातु-शरावक**  
 **aluminium** **eth-oxide** (*ethoxyl+-ide*) **स्फट्यातु दक्षु-जारलेय**  
 **aluminium** **family स्फट्यातु-कुल**  
-**aluminium****filings** (needles) **स्फट्यातु-रेत्रीक्षेप** (सूचा)  
+**aluminiumfilings** (needles) **स्फट्यातु-रेत्रीक्षेप** (सूचा)  
 **aluminium** **fluoride** (technical) **स्फट्यातु तरस्वेय** (परिभाषित)  
 **aluminium** **foil स्फट्यातु-पर्ण**  
 **aluminium** **fry pan स्फट्यातु-अम्बरीष**  
@@ -10893,7 +10893,7 @@ selenium alum मेचाग्नि-स्फटिका**
 **aluminiumsheet** (thin)**स्फट्यातु-स्तार** (तनु)  
 **aluminium** **silicate** (precipitated) **स्फट्यातु सैकतीय** (निस्सादित)  
 **aluminiumsilico-fluoride** (technical) **स्फट्यातु सैकत-तरस्वेय** (परिभाषित)  
-**aluminium****sodium sulphate** (sodium alum) **स्फट्यातु क्षारातु शुल्बीय** (क्षारातु स्फटिका)  
+**aluminiumsodium sulphate** (sodium alum) **स्फट्यातु क्षारातु शुल्बीय** (क्षारातु स्फटिका)  
 **aluminium stearate** (technical) **स्फट्यातु वसीय** (परिभाषित)  
 **aluminiumsulphate स्फट्यातु शुल्बीय**  
 **aluminium** **sulphide** (technical) **स्फट्यातु शुल्बेय** (परिभाषित)  
@@ -11059,7 +11059,7 @@ amalgamated** *adj.* **1.***Chem.* **संरसित, 2.संमिश्र
 **amanil** **brown तिक्तनील बभ्रु**  
 **amanilchloramine yellow तिक्तनील नीरतिक्ती पीत**  
 **amanil** **chrome brown तिक्तनील वर्णक बभ्रु**  
-**amanil****chromedark brown तिक्तनील वर्णक असित बभ्रु**  
+**amanilchromedark brown तिक्तनील वर्णक असित बभ्रु**  
 **amanilfast orange तिक्तनील स्थिर नारंग**  
 **amanil** **fast red तिक्तनील स्थिर रक्त**  
 **amanil** **fast yellow तिक्तनील स्थिरपीत**  
@@ -11212,7 +11212,7 @@ ambiguous instrument द्व्यर्थक संलेख**
 and repulsion from an object)
 
 **ambivalent** *adj.* **वि-सं-युज**  
-**amble** *n.* **1.लीलागति, सुखगति** *f.*, **दुगामा चाल,****2.**(easy gait of a horse) **सुखगति** *f.*  
+**amble** *n.* **1.लीलागति, सुखगति** *f.*, **दुगामा चाल,2.**(easy gait of a horse) **सुखगति** *f.*  
 **amble** *vb.* **सुखगति से चलना, सुखगमन, धीरे धीरे चलना, दुगामा चलना**  
 **Amblonyx** *Zool.* (Gk.
 
@@ -11314,7 +11314,7 @@ am ended section** *Law* **संशोधित धारा**
 **amending bill संशोधी विधेयक**  
 **amending legislation संशोधी विधान  
 amending notification संशोधी अधिसूचना**  
-**amendment 1.संशोधन** *n.,* **संशुद्धि** *f.,***2.**(in parliamentary procedure) **संशोधन ** *n.*******(Const.),
+**amendment 1.संशोधन** *n.,* **संशुद्धि** *f.,***2.**(in parliamentary procedure) **संशोधन ** *n.***(Const.),
 
 **3.***Agric.* (a substance which improves the soil) **सुधारक**
 
@@ -11352,7 +11352,7 @@ amerciament** (fr. French *merci*) **दया-दण्ड** *m.*
 American Beauty** *Hort.* (a hybrid perpetual rose) **पाताल-सदापाटल**  
 **American beech** (*Fagus americana*) **पाताल-चिक्कणवल्क**  
 **American bison** *or* **“buffalo" पाताल-गवल**  
-**American bully** (*Achras sapota*) **गुडालु** *m.,*****चीकू**  
+**American bully** (*Achras sapota*) **गुडालु** *m.,*चीकू**  
 **American cress** (*Barbarea verna*) **हेमन्तशूर** *m.*  
 **American elm पाताल-उपकर**  
 **American hellebore = Veratrum viride**  
@@ -11404,7 +11404,7 @@ flowersare used by the Burmese as votive offerings to Buddha—Web.) **भव्
 **Amia** **calva सामान्य धनुःपक्ष**  
 **amiability मधुरस्वभाव** *m.,* **सुशील***n.*  
 **amic = amidic** *adj. Chem.* **तिक्तेयिक**  
-**-amic, -amidic** *adj. **-*****तिक्तेयिक**  
+**-amic, -amidic** *adj. **-*तिक्तेयिक**  
 **amicable** *adj.* **मैत्रीपूर्ण, परस्परसंमत**(mutually consented to)  
 **amicable action ** *Law* **परस्परसंमत वाद**  
 **amicable relations मैत्रीपूर्ण संबन्ध**  
@@ -11766,7 +11766,7 @@ ammoniate** *Chem.***तिक्तातीय***n.*
 
 **विज्वरी-विलयन**
 
-**ammoniated tincture of ergot = tinctura ergotae ammoniata** *Pharm.*******तिक्तातीयित**
+**ammoniated tincture of ergot = tinctura ergotae ammoniata** *Pharm.***तिक्तातीयित**
 
 **रुक्कवक-निष्कर्ष**
 
@@ -11774,7 +11774,7 @@ ammoniate** *Chem.***तिक्तातीय***n.*
 
 **आसिह्ल-निष्कर्ष**
 
-**ammoniated tincture of opium = tinctura opii ammoniata ** *Pharm.*******तिक्तातीयित अहिफेन-**
+**ammoniated tincture of opium = tinctura opii ammoniata ** *Pharm.***तिक्तातीयित अहिफेन-**
 
 **निष्कर्ष**
 
@@ -13336,8 +13336,8 @@ amyloid** *n***.** *Chem., Biochem.* **मण्डाभ** *n.*
 **amyloid = amyloidal** *adj.,* **मण्डाभ,मण्डाभीय  
 amyloidal** *adj.* **मण्डाभीय  
 amyloid degeneration = amyloidosis = lardaceous degeneration** *Med.* **मण्डाभ-क्षय  
-amyloidosis** *Med.* **मण्डाभ-क्षय** ****** *m.*  
-**amylolysis** *Chem.***मण्डांशन **** *n.*  
+amyloidosis** *Med.* **मण्डाभ-क्षय** ** *m.*  
+**amylolysis** *Chem.***मण्डांशन  *n.*  
 **amylolytic** *adj. Chem.* **मण्डांशिक  
 amylome** (starch-containing parenchyma) **मण्डोति** *m.*  
 **amylon = maltose  
@@ -13491,7 +13491,7 @@ analogous name or term** *Logic* (bearing an equivocal or double meaning) **द�
 **a** (similarity of quality) **गुणसादृश्य***n.*  
 **b** (similarity of relation) **संबन्ध सादृश्य** *n.*  
 **c** (a relation of likeness) **सादृश्य-संबन्ध***m.*  
-**3*****.**Biol.*(resemblance in function)**कार्यसादृश्य***n.*(homology रचना-सादृश्य)  
+**3*.**Biol.*(resemblance in function)**कार्यसादृश्य***n.*(homology रचना-सादृश्य)  
 **false analogy सारश्याभास**  
 **on the analogy of की भांति**
 
@@ -13601,7 +13601,7 @@ substances—Dorland) **प्रत्यधिक्रिया** *f.*
 **anaphytes** *Bot.* ('short segments'—McLean I.653) **लघुखण्ड***m.*  
 **anaplasia** *Med.* **विपर्ययण** *n.*  
 **anapophysis ** *Anat.***पश्च-वर्ध***m.*  
-**anapsid** *adj. Zool.*******अछिद्रकरोटि**
+**anapsid** *adj. Zool.***अछिद्रकरोटि**
 
 synapsid युक्तछिद्रकरोटि  
 diapsid चतुश्छिद्रकरोटि  
@@ -13914,7 +13914,7 @@ experiments)**प्रजद्वे-समताप-वक्र**
 **Andrographis** *Bot.* **भूनिम्ब-प्रजाति**  
 **Andrographis** **echioides** (flowers numerous—Basu) **बहुपुष्प भूनिम्ब**  
 **Andrographis paniculata = creat** (from Sanskrit किराततिक्त) **सामान्य भूनिम्ब** (B., N. भूनिम्ब)  
-**androgynophore = gynandrophore***Bot.* **पुंजायांगभर*****m.*  
+**androgynophore = gynandrophore***Bot.* **पुंजायांगभर*m.*  
 **androgynous** *adj. Bot.* **द्विलिंगी** (-इन्)  
 **Andromeda = Chained Lady** *Astron.***भाद्रपदा** *f.*
 
@@ -13950,7 +13950,7 @@ experiments)**प्रजद्वे-समताप-वक्र**
 **Andropogon** **foliosa** (*foliosa* 'thickly or profusely leaved धन-पर्ण') **घनपर्ण अश्मकुन्द**  
 **Andropogon** **glacialis हिमानी-अश्मकुन्द**  
 **Andropogon** **lactea दुग्धिल** **अश्मकुन्द**  
-**Andropogon** **lactiflora** **दुग्धिलपुष्प****अश्मकुन्द**  
+**Andropogon** **lactiflora** **दुग्धिलपुष्पअश्मकुन्द**  
 **Andropogon** **lanuginosa दीर्घोर्णिल अश्मकुन्द**  
 **Andropogon** **primuloides पीतसेवत्याभ अश्मकुन्द**  
 **Andropogon** **pubescens रोमश** **अश्मकुन्द**  
@@ -13969,7 +13969,7 @@ experiments)**प्रजद्वे-समताप-वक्र**
 **androstane पुंसान्द्रीण्य** *n.*  
 **androstane-dione पुंसान्द्रीण्य-द्वया**  
 **androsterone पुंसान्द्रा वृषणसान्द्रा** *f.*  
-**-androus** *adj. Bot. **-*****पुंकेसर, -पुं-**  
+**-androus** *adj. Bot. **-*पुंकेसर, -पुं-**  
 **and whereas और क्योंकि**  
 **-ane** *Chem.***-ईन्य** *n.*  
 **Aneilema ** *Bot.* **कृष्णमुषली-प्रजाति**  
@@ -14290,7 +14290,7 @@ cactus)
 **aniline** *n. Chem.* **विनीली** *f.*  
 **aniline** **acetate** *Chem.* **विनीली शुक्तीय**  
 **aniline** **azo-o-cresol** *Col. Ind.* **विनीली अजऊ-क्रविपव**  
-**aniline****azo-dimethyl-aniliue** *Col. Ind.***विनीलीअज-द्विप्रोदल-नीली**  
+**anilineazo-dimethyl-aniliue** *Col. Ind.***विनीलीअज-द्विप्रोदल-नीली**  
 **anilineazo-*β*-naphthyl-amine** *Col. Ind.***विनीली अज-आ-उत्तैरल-तिक्ती**  
 **aniline** **black** *Col. Ind.* **विनीली काल**  
 **aniline black dyeing विनीली काल रञ्जन**  
@@ -14316,7 +14316,7 @@ cactus)
 **aniline** **rose** *Col. Ind.* **विनीली पाटल**  
 **anilinesalt** *Com* **विनीली लवण**  
 **aniline** **scarlet** *Col. Ind.* **विनीली शोण**  
-**aniline****spirit** *Chem.* **विनीली प्रासव**  
+**anilinespirit** *Chem.* **विनीली प्रासव**  
 **anilinesulphate** *Chem.* **विनीली शुल्बीय**  
 **aniline** **violet** *Col. Ind.* **विनीली नीललोहित**  
 **aniline** **yellow** *Col.Ind.***विनीली पीत**  
@@ -14847,7 +14847,7 @@ annular receptor वलय-आदाता
 annular shelf वलयाकार निधाय  
 annular solar eclipse वलय-सूर्यग्रहण, कंकणाकृति सूर्यग्रहण** (current in Marathi)  
 **annular solid** *Math.* **वलयिक सान्द्र  
-annular space** (as between two cylinders)*****Math.* **वलयावकाश  
+annular space** (as between two cylinders)*Math.* **वलयावकाश  
 annular valve** *Mach.* **वलय-कपाट  
 annular vessel** *Bot.* **वलयिक वाहिनी  
 annulated** *adj. Bot.* **वलयित  
@@ -15009,7 +15009,7 @@ rebutter खण्डनोत्तर**
 
 being answered) **उत्तरणीय**
 
-**answer book उत्तरपत्रिका** *f.*****(used in Hindi and Marathi)  
+**answer book उत्तरपत्रिका** *f.*(used in Hindi and Marathi)  
 **answer charges दोषारोपों का उत्तर देना  
 answering** *Educ.* **उत्तरण** *n.,* **उत्तर देना**
 
@@ -15212,7 +15212,7 @@ Anthericum yedoense** \[*yedoense*'of Yeddo (in Japan)'\] **उदयवर्�
 antheridial cell** *Bot.* **पुंधानी-कोशा  
 antheridial wall** *Bot.* **पुंधानी-भित्ति  
 antheridiophore** *Bot.* **पुंधानीधर** *m.*  
-**antheridium** *Bot***. पुंधानी** *f.*****(short for पुंजन्युधानी)  
+**antheridium** *Bot***. पुंधानी** *f.*(short for पुंजन्युधानी)  
 **antherophore** *Bot.* **परागाशयधर** *m.*  
 **antherozoid = spermatozoid** *Biol.* (a motile male gamete) **चलपुंजञ्चु***m.*
 
@@ -15312,12 +15312,12 @@ overlapping lobes— PH. I.431) **पालिकाय-प्रजाति**
 **anthrachromate** **grey विक्षवर्णीय धूसर**  
 **anthrachromate** **olive-brown** **विक्षवर्णीय न्यवपीत**  
 **anthrachrome black** *Col. Ind.* **विक्षवर्णंक काल**  
-**anthrachrome****blue विक्षवर्णक नील**  
-**anthrachrome****blue-black विक्षवर्णक नील-कृष्ण**  
-**anthrachrome****bordeaux विक्षवर्णक कपिशक**  
-**anthrachrome****brown विक्षवर्णक बभ्रु**  
-**anthrachrome****green विक्षवर्णक हरि**  
-**anthrachrome****Orange विक्षवर्णक नारंग**  
+**anthrachromeblue विक्षवर्णक नील**  
+**anthrachromeblue-black विक्षवर्णक नील-कृष्ण**  
+**anthrachromebordeaux विक्षवर्णक कपिशक**  
+**anthrachromebrown विक्षवर्णक बभ्रु**  
+**anthrachromegreen विक्षवर्णक हरि**  
+**anthrachromeOrange विक्षवर्णक नारंग**  
 **anthrachromered विक्षवर्णक रक्त**  
 **anthrachrome** **violet विक्षवर्णक नीललोहित**  
 **anthra-chrysazin** *Col.Ind.* **विक्ष-हेमजिष्ठि**  
@@ -15349,9 +15349,9 @@ remarkable, large')
 
 **anthra-cyanine** *Chem.* **विक्ष-श्यामी**  
 **anthrabrown** *Col. Ind.* **विक्षश्यामी बभ्रु**  
-**anthra****green** *Col. Ind.* **विक्षश्यामी हरि**  
+**anthragreen** *Col. Ind.* **विक्षश्यामी हरि**  
 **anthragrey** Col. Ind. **विक्षश्यामी धूसर**  
-**anthra****violet** *Col. Ind.* **विक्षश्यामी** **नीललोहित**  
+**anthraviolet** *Col. Ind.* **विक्षश्यामी** **नीललोहित**  
 **anthra-cyanol** *Col. Ind.* **विक्ष-श्यामव**  
 **anthracyl = anthryl** *Chem.* **विक्षल** *n.*  
 **anthracyl** **chrome blue** *Col. Ind.* **विक्षलवर्णकनील**  
@@ -15404,7 +15404,7 @@ remarkable, large')
 **anthra** **black** *Col. Ind.* **विक्षविज्वरा काल**  
 **anthra** **blue** *Col. Ind.* **विक्षविज्वरा नील**  
 **anthra** **blue-green** *Col. Ind.* **विक्षविज्वरानील-हरि**  
-**anthra****green** *Col. Ind.* **विक्षविज्वराहरि**  
+**anthragreen** *Col. Ind.* **विक्षविज्वराहरि**  
 **a.-l-sulphonic acid** **विक्षविज्वरा-१-शुल्बायिक अम्ल**  
 **anthraviolet** *Col. Ind.* **विक्षविज्वरा नील-लोहित**  
 **anthra-quinonyl** *Chem.* **विक्ष-विज्वराल**  
@@ -15420,7 +15420,7 @@ remarkable, large')
 **anthra-triol** *Chem.* **विक्ष-त्रिव**  
 **anthra-verdone** *Col. Ind.* **विक्ष-हरिका**  
 **anthra-viol** *Col. Ind.* **विक्ष-नीललोह**  
-**anthra-violet** *Col. Ind.* **विक्ष****नीललोहित**  
+**anthra-violet** *Col. Ind.* **विक्षनीललोहित**  
 **anthrax** **1.**(a red precious stone) **पद्मरागक** *m.,***2.***Med.* a.(a carbuncle) **प्रार्बुद** *m.,***b.**(splenic fever)
 
 **प्लीहज्वर** *m*.
@@ -15499,7 +15499,7 @@ Cf. Hindi *karkarra*. खरकौञ्च ancient word)
 **Anthurium crystallinum स्फठ्य पुष्पलूम  
 Anthurium longifolium दीर्घपर्ण पुष्पलूम**  
 **Anthus** *Aves* **तुलिका-प्रजाति** (तुलिका ancient word)  
-**-anthus** (Gk. *anthos* 'flower') *Bot.*******-पुष्प** *n.*  
+**-anthus** (Gk. *anthos* 'flower') *Bot.***-पुष्प** *n.*  
 **Anthyllis** *Bot.* (pod शिम्बी enclosed in the calyx पुष्पकोश) **कोशशिम्बी-प्रजाति**  
 **Anthyllis** **barba-jovis** (Jupiter's-beard) **सूरिकूर्च-कोशशिम्बी**  
 **Anthyllis sericea** (*sericea* 'silky कौश') **कौश-कोशशिम्बी**  
@@ -15518,7 +15518,7 @@ hostile aircraft)
 **anti-aircraft gun** *Mil.* **विमानघ्नी** *f.*  
 **anti-aircraft radar प्रति-विमान तेजोन्वेष**  
 **anti-aircraft ship***Mil.* **विमानघ्न पोत**  
-**anti-aircraft wing****प्रतिविमान पक्ष**  
+**anti-aircraft wingप्रतिविमान पक्ष**  
 **anti-albumid** *Biochem.* **प्रति-श्वितेय**  
 **anti-albumin** *Chem.* **प्रति-श्विति**  
 **anti-albumose** *Chem.* **प्रति-श्वितधु**  
@@ -15815,7 +15815,7 @@ antimony) **अन्जन-कृत**
 **antimony sulphide** (native antimonite) **अञ्जन शुल्बेय** (प्राकृत अञ्जनिज)  
 **antimony** **tetroxide अञ्जन चतुर्जारेय**  
 **antimony** **trichloride अञ्जन त्रिनीरेय**  
-**antimony****trifluoride अञ्जन त्रितरस्वेय**  
+**antimonytrifluoride अञ्जन त्रितरस्वेय**  
 **antimony** **trioxide अञ्जन त्रिजारेय**  
 **antimony** **trisulphide अञ्जन त्रिशुल्बेय**  
 **antimony** **vermilion** *Col. Ind.* **अञ्जन हिंगुल**  
@@ -16064,7 +16064,7 @@ is an ancient word)
 **Anura** ('tail-less') *Zool.* **विपुच्छाः** *m.pl.*, **विपुच्छ-गण** *m.* (गण order)  
 **anuresis = anuria**  
 **anuretic** *adj.* **अमेहिक**  
-**anuria=anuresis** (absence or defective excretion of urine) **अमेह** *m.****,*अमूत्रता** *f.*  
+**anuria=anuresis** (absence or defective excretion of urine) **अमेह** *m.,*अमूत्रता** *f.*  
 **Anurosorex** *Zool.* **कुपुच्छचुञ्चु-प्रजाति**  
 **anus = anal aperture** *Anat.* **गुद-द्वार** *n.*  
 **anvil 1.निघाति** *f.,***निहाइ,2.= incus** *Anat.* **निघाति** *f.*
@@ -17133,7 +17133,7 @@ approved securities अनुमोदित प्रति-भूतिया�
 approvedservice अनुमोदित सेवा  
 approved site plan अनुमोदित स्थान-मानचित्र  
 approved society** *Econ.* **अनुमोदित समिति  
-approved special instruction** *Rly.***अनुमोदित******विशिष्ट अनुदेश  
+approved special instruction** *Rly.***अनुमोदित**विशिष्ट अनुदेश  
 approved surcly अनुमोदित प्रतिभू  
 approved tour programme अनुमोदित पर्यटन-कार्यक्रम  
 approved trustworthiness सिद्ध विश्वस-नीयता  
@@ -17193,7 +17193,7 @@ any
 point at which the radius vector is a maximum or a minimum) **दूरान्तिक** *n.,***2.***Astron.* (the point at which the distance from the centre of attraction is grontest or least) **दूरान्तिक** *n.,***दूरान्तिक-बिन्दु** *m.,*
 
 **apse line दूरान्तिक रेखा  
-Apseudes** *Zool.*****(flagelliform uropod—Lankester VII. 191) **कशापुच्छपाद-प्रजाति  
+Apseudes** *Zool.*(flagelliform uropod—Lankester VII. 191) **कशापुच्छपाद-प्रजाति  
 Apseudiae** *Zool.* **कशापुच्छपाद-वंश** *m.*  
 **apsidal** *adj.* **दूरान्तिक  
 apsidal angle दूरान्तिक कोण  
@@ -17358,9 +17358,9 @@ aqueductus vestibuli** *Zool.* **मध्यगुहा-मार्ग**
 **aqueo-** (a combining form denoting aqueous and) **वारि-, जल-  
 aqueo-mercurial** *adj.* **वारि-पारदीय  
 aqueous** *adj.* **1.जलीय, 2.***Chem.* **वारीय, वारिमय,** *Dist. hydrate* **जलीय, hydrous सजल  
-aqueous ammonia** *Chem.* **वारीय****तिक्ताति  
+aqueous ammonia** *Chem.* **वारीयतिक्ताति  
 aqueous extract** *Pharm.* **वारीय निस्सार  
-aqueous humor** *Ophthaimol.* **नेत्र-रस** *m.,***"तेजोजल** *n.*****(from सुश्रुत)  
+aqueous humor** *Ophthaimol.* **नेत्र-रस** *m.,***"तेजोजल** *n.*(from सुश्रुत)  
 **aqucousness** *Chems.* **वारीयता** *f.*  
 **aqueous rock** *Petrog.* **जलीयशैल  
 aqueous solution** *Chem.* **वारीय विलयन  
@@ -18172,7 +18172,7 @@ argenti-cyanide** *Chem.* **रजत-श्यामेय** *n.*
 argentiferous** *adj. Ohem.* **रजतप्रद, रजतयुत  
 argentiferous galena रजतयुत सीसरुचा  
 argentiferous gold = electrum राजत सुवर्ण  
-Argentina 1*.****Zool.* **चन्द्रशल्कि-प्रजाति** (*see* argentine) **2.***Bot.* **चन्द्रतृण-प्रजाति  
+Argentina 1*.Zool.* **चन्द्रशल्कि-प्रजाति** (*see* argentine) **2.***Bot.* **चन्द्रतृण-प्रजाति  
 argentine** *n***.** (any of various small silvery-scaled fishes**) चन्द्रशल्की** (-इन् **)** *m.* **(**Cf. चन्द्रक
 
 as the name of a fish in सुश्रुत)
@@ -18887,7 +18887,7 @@ the noun arsenic. In our language the two words are distinct: नेपाली
 **arsenic oxide नेपाली जारेय**  
 **arsenic** **penta-sulphide नेपाली पञ्च-शुल्बेय**  
 **arsenicpent oxide नेपाली पञ्च-जारेय**  
-**arsenic****powder नेपाली-क्षोद**  
+**arsenicpowder नेपाली-क्षोद**  
 **arsenic** **spray bath नेपाली शीकर-स्नान**  
 **arsenicsulphide**(precipitated) **नेपाली-शुल्बेय** (निस्सादित)  
 **arsenictest strips नेपाली-परोक्षण-पट्टी**  
@@ -18982,7 +18982,7 @@ arsono** *adj. Chem.,* **नेपा, नेपाक
 ars-phen-amine** *Pharm.* **नेप-दर्श-तिक्ती  
 arsyl (***arsine* नेपी + -yl -ल**)** *Chem.* **नेपील** *n.*  
 **arsylene** *Chem* **नेपीलन्य***. n.*  
-**art** *n. **1.*****कला** *f.*
+**art** *n. **1.*कला** *f.*
 
 **craft शिल्प  
 science विज्ञान  
@@ -19079,7 +19079,7 @@ arterioa-sclerosis** *Med.* **रोहिणी जारव्य
 arterio-sclerotic** *adj.* **रोहिणी-जरठ  
 arterious** *adj.* **(**arterial) रोहिणी-, रोहि**णीय  
 arterio-venous** *adj.* **नीला-रोहिणी-नीला-रोहिणीय  
-arterioversion** *Surg.* **(**eversion of the arterial walls**) रोहिणी-उद्वर्तन** *n.* ****  
+arterioversion** *Surg.* **(**eversion of the arterial walls**) रोहिणी-उद्वर्तन** *n.*   
 **arteritis रोहिणी-कोप** *m.*  
 **artery** *n.* **रोहिणी (**red one**'), धमनी** *f***. (**as in frogs, where arteries are white and not red**)  
 artery** *vb.* **रोहिणीयन  
@@ -19142,7 +19142,7 @@ Arthrozoa** *Zool.* **सन्धिजीवाः** *m.pl.*
 **arthrozoan** *n***. सन्धिजीव** *m.*  
 **arthrozoan** *adj.* **सन्धिजीवीय  
 arthrozoic** *adj.* **सन्धिजीवीय  
-artichoke (***Cynara scolymus****)* वज्राङ्गी** *f.*  
+artichoke (***Cynara scolymus)* वज्राङ्गी** *f.*  
 **article 1.वस्तु** *n.* **पदार्थ** *m.* **2.***Math.* **अनुच्छेद** *m***. 3.***Law* **(**of a document**) अनुच्छेद** *m.* **(**Const-)
 
 **4.लेख** *m.* **5.**(of association**) अन्तर्नियम** *m***.  
@@ -19712,7 +19712,7 @@ of ashes, ash-grey) **भस्म, भस्म वर्ण**
 **ashen** *adj.* (pert. to the ash tree) **प्रभूर्ज-, प्रभूर्जीय**  
 **as hereinafter defined यथा अत्रपश्चात् परिभाषित, जैसी इस में आगे परिभाषा दी गई है**  
 **as hereinafter provided जैसा कि इस में आगे उपबन्धित है**  
-**ashery 1.**(a place for ashes) **भस्म-धानी** *f.,*******2.**(a place where wood is burned to ashes) **भस्म-**
+**ashery 1.**(a place for ashes) **भस्म-धानी** *f.,***2.**(a place where wood is burned to ashes) **भस्म-**
 
 **करणी** *f.*
 
@@ -19836,7 +19836,7 @@ asoka** *Bot.* **अशोक** *m.*
 
 **asp = aspen**  
 **asparagic = aspartic**  
-**asparagine** (*asparagus+-ine*) *Chem.*******आपीवरी** *f.*  
+**asparagine** (*asparagus+-ine*) *Chem.***आपीवरी** *f.*  
 **asparaginic = aspartic**  
 **Asparagus** *Bot.* **शतावरी-प्रजाति**  
 **Asparagus adscendens श्वेत-शतावरी** (Mar. Hin. Guj. सफेद मुसली)  
@@ -20135,7 +20135,7 @@ assembly question विधानसभा-प्रश्न
 assembly secretariat विधानसभा-सचिवालय, विधान-सचिवालय  
 assembly secretary विधानसभा-सचिव, विधान-सचिव  
 assembly translator विधानसभा-अनुवादक  
-assent** *n.* **अनुमति** *f.*****(Const.)
+assent** *n.* **अनुमति** *f.*(Const.)
 
 **mutual assent पारस्परिक अनुमति  
 consent संमति** (Const.)  
@@ -20236,7 +20236,7 @@ asseveration शपथोक्ति** *f.* (*see* adjuration)
 **Assia Range** *Geog.* **चतुष्पीठ पर्वत  
 assign** *vb.* **1.नियोजन, नियत करना**
 
-**2.**(As a reason) **देना, बतलाना, 3.निर्देशन, संमनुदेशन, 4.***Math.* **नियोजन, 5.***Law.*****(to transfer by signing हस्तांकन in favour of अभि someone**) अभिहस्तांकन, 6.सौंपना, देना, 7.**(to apportion) **अभिभाजन**
+**2.**(As a reason) **देना, बतलाना, 3.निर्देशन, संमनुदेशन, 4.***Math.* **नियोजन, 5.***Law.*(to transfer by signing हस्तांकन in favour of अभि someone**) अभिहस्तांकन, 6.सौंपना, देना, 7.**(to apportion) **अभिभाजन**
 
 **assign** *n.***= assignce  
 assignable** *adj.* **अभिहस्तांक्य,** (transferable) **हस्तान्तरणीय, नियोज्य  
@@ -20252,7 +20252,7 @@ assignable quantity** *Math.* **नियोज्य राशि**
 assigned relation** *Math.* **नियोजित संबन्ध  
 assigned term** *Math.* **नियोजित पद  
 assigned value** *Math.* **नियोजित अर्हा  
-assignee 1.***Law* **अभिहस्तांकिती** (-इन्)*****m.*(अभिहस्तांकितमस्य ,स्तीति),**2.समनुदेशिती (-इन्)** *m.*  
+assignee 1.***Law* **अभिहस्तांकिती** (-इन्)*m.*(अभिहस्तांकितमस्य ,स्तीति),**2.समनुदेशिती (-इन्)** *m.*  
 **assignce of a debt ऋण का अभिहस्तांकिती  
 assigning, assignment** *Law* **अभिहस्तांकन** *n.*  
 **assigning authority अभिहस्तांकन-प्राधिकारी  
@@ -21384,7 +21384,7 @@ attendance उपस्थित** *f.* (Const.)
 **Attendance Officer 1.उपस्थिति-अधिकारी, 2.***Med.* **उपचार-अधिकारी  
 attendance register उपस्थिति-पञ्जी  
 attendant** *adj.* **सहवर्ती, आन पड़ने वाला  
-attendant उपस्थायक** (ancient word), **अनुचर****परिचारक *m.***
+attendant उपस्थायक** (ancient word), **अनुचरपरिचारक *m.***
 
 **domestic गृह-सेवक  
 menial भृत्य  
@@ -21536,7 +21536,7 @@ Auchenia huanacus** (guanaco) **अककुद् अपकूट
 Auchenia vicugna** (vicugna) **तुरोष्ट्र अपकूट  
 auction क्रोशविक्रय***m.* (from कौटल्यअर्थशास्त्र), **नीलाम  
 auctionariae क्रोशविक्रय-सूची** *f.,***नीलाम की सूची  
-auctioneer** *n.* **क्रोशविक्रेता** (-तृ) *m.****,* नीलाम करने वाला  
+auctioneer** *n.* **क्रोशविक्रेता** (-तृ) *m.,* नीलाम करने वाला  
 auctioneer** *vb.* **क्रोशविक्रयण, नीलाम करना  
 auctioneer's notice क्रोशविक्रय-सूचना  
 auction notice क्रोशविक्रय-सूचना  
@@ -21929,7 +21929,7 @@ authoritatively प्राधिकृत रूप से, साधिका
 authoritative opinion प्राधिकृत मत**  
 
 **authoritative record प्राधिकृत अभिलेख  
-authorities प्राधिकारि-वर्ग, प्राधिकारी** (-इन्)*****m.*  
+authorities प्राधिकारि-वर्ग, प्राधिकारी** (-इन्)*m.*  
 **authorities empowered अधिकृत प्राधिकारिवर्ग  
 authority 1.**(legal or rightful power, a right to command or to act)**प्राधिकार** *m.* (Const.),**2.**
 
@@ -22169,7 +22169,7 @@ automatic weigher स्वयं-तोलक
 automatic windscreen wiper वायुरोध-स्वयंप्रोञ्छ  
 automatin** *Biochem.* (a hormone which stimulates-the heartbeat) **हृन्नुदि** *f.*  
 **automatism***Psychol.* (an action) **स्वतःक्रिया** *f.*  
-**antomictic** *adj. Mycol.*****(being self-fertilized by copulation of two closely related sex cells or
+**antomictic** *adj. Mycol.*(being self-fertilized by copulation of two closely related sex cells or
 
 sex nuclei) **स्वतो-निषेचक**
 
@@ -22559,7 +22559,7 @@ dislike) **घृणा** *f.,***4.**(antipathy) **विद्वेष, द्
 
 **awaiting assent of the President राष्ट्रपति की अनुमति की प्रतीक्षा की जा रही है**  
 **awaiting clearance निकाला जाने वाला, भेजा जाने वाला**  
-**awaiting despatch****भेजा जाने वाला**  
+**awaiting despatchभेजा जाने वाला**  
 **awaiting disposal निर्वर्तनाधीन, निर्वर्तनापेक्षी, निपटारा किया जाने वाला**  
 **awake 1.**v.i. **जागरण, जगाना, 2.**v.t. **प्रोत्साहन, सचेत करना**  
 **awaken** *vb.* **जगाना, सावधान करना**  
@@ -22857,7 +22857,7 @@ azo black** *Col. Ind.* **अज काल
 azo black blue** *Col. Ind.* **अज कृष्ण-नील  
 azo blue** *Col. Ind.* **अज नील  
 azo bordeaux** *Col. Ind.***अज कपिशक  
-azo brilliant carmine** *Col. Ind.* **अज******भासुर कीटशोणी  
+azo brilliant carmine** *Col. Ind.* **अज**भासुर कीटशोणी  
 azo brown** *Col. Ind.* **अज बभ्रु  
 azo cardinal** *Col. Ind.* **अज न्युद्रक्तापीत  
 azo carmine** *Col. Ind.* **अज कीटशोणी  
@@ -23051,7 +23051,7 @@ colour)
 **azygos** *adj. Anat.* **अयुक्त**  
 **azygos***n. Anat.* **अयुग्म***n.*  
 **azygospore** *Bot.* **अयुक्तबीजाणु** *m.*  
-**azygos vein** *Anat.*******अयुक्त-सिरा**  
+**azygos vein** *Anat.***अयुक्त-सिरा**  
 **azygous** *adj.***अयुक्त**  
 **-azylic** *adj.* **-अजीवलिक**
 

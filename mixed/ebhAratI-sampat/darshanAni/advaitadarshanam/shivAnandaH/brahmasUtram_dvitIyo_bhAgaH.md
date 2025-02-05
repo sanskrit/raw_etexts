@@ -254,7 +254,7 @@ Kedia for the publication of this great work. By this charitable act they have n
 
 इति वैयासिक्यां शारीरकमीमांसायां चतुर्थाध्यायस्य द्वितीयः पादः॥**२**॥
 
-**अथ तृतीयः पादः**** **
+**अथ तृतीयः पादः **
 
 [TABLE]
 
@@ -348,7 +348,7 @@ enjoyments herein and hereafter. In the second Pada are described all the glorio
 
 * **Adhikarana—I*** (Sutras 1 to 7) teaches that the soul, at the dissolution of the body, departs, accompanied by the subtle material elements (Bhuta Sukshma), as well as by the Indriyas and Pranas. The subtle elements serve as an abode to the Pranas attached to the Soul.
 
-* **Sutra—7*****.** Those who do sacrifice become in Chandraloka the food of the gods which means that they contribute to the enjoyment of the gods by their presence and service to them.
+* **Sutra—7*.** Those who do sacrifice become in Chandraloka the food of the gods which means that they contribute to the enjoyment of the gods by their presence and service to them.
 
  ***Adhikarana—II*** (Sutras 8 to 11) shows that the souls after enjoying the fruits of their meritorious deeds in the Chandraloka, descend to the earth with a remainder (Anusaya) of their works which determines the nature of the new body or the character of the new life.
 
@@ -554,7 +554,7 @@ like “Now, if a man worships another deity, thinking the deity, is one and he 
 
 by the same route through which he ascended after death and differently too.
 
- ***Kritha**:* of what is done, of the Karma. ***Athyaye*** : at the end, at the exhaustion, ***Anusayavaan**:* with a remainder of the Karma, ***Drushtasmruthibhyaam*** : as can be understood from direct statement in Sruti and Smriti. ***Yathhaa itham*** : by the way he went,. ***Anevam***: differently, ***Cha*******: and.
+ ***Kritha**:* of what is done, of the Karma. ***Athyaye*** : at the end, at the exhaustion, ***Anusayavaan**:* with a remainder of the Karma, ***Drushtasmruthibhyaam*** : as can be understood from direct statement in Sruti and Smriti. ***Yathhaa itham*** : by the way he went,. ***Anevam***: differently, ***Cha***: and.
 
  A fresh topic is discussed here. This Adhikarana teaches the mode of return from heaven. The question is raised whether the souls, after having enjoyed the fruits of all their works, return to the earth with any remnant of Karma (Karma Sesha) or not. The Poorvapakshin or the opponent says that there is no remnant of Karma. Why? On account of the specification “Yavath Samputam”. The Sruti says “Having dwelt there till their work is exhausted, they return again the way they went by” Chh. Up. 5-10-5. This indicates that all their Karma is completely exhausted there and there is nothing left.
 
@@ -681,11 +681,11 @@ entitle them to pass up to Chandraloka.*
 
 that it is a universal proposition without any qualifications. Since all who must go to the world of moon, it follows that the sinners also go there.
 
- *****Siddantin***: The sinners do not go to the sphere of moon. They go to Yamaloka or the world of punishment. This is said in the following Sutra.
+ *Siddantin***: The sinners do not go to the sphere of moon. They go to Yamaloka or the world of punishment. This is said in the following Sutra.
 
  III. 1.13 **संयमने त्वनुभूयेतरेषामारोहावरोहौ, तद्गतिदर्शनात्॥**
 
-** *Samyamane thwanubhooyethareshaamaarohaavarohau Thadgathi darsanaath*****304.**
+** *Samyamane thwanubhooyethareshaamaarohaavarohau Thadgathi darsanaath*304.**
 
  But of others. (*i.e*., those who have not performed sacrifices, etc.) the ascent is to the abode of Yama and after having experienced (the results of their evil deeds) they come down to the earth; as such a course is declared by the Sruti.
 
@@ -707,7 +707,7 @@ other; thus he falls again and again under my sway’ Katha. Up. 1-2-6.
 
 ** *Smaranthi Cha                          
                                
-******           305***  
+**           305***  
  The Smritis also declare thus.
 
 *** Smaranthi :*** The Srutis declare*. **Cha**:* also.
@@ -724,7 +724,7 @@ Manu and Vyasa declare that in the City Samyamana evil deeds are requited under 
 
  ***Apicha saptha                          
                                    
-      ***** 306.**
+      * 306.**
 
  Moreover there are seven (hells)
 
@@ -750,7 +750,7 @@ Manu and Vyasa declare that in the City Samyamana evil deeds are requited under 
  III. 1.17 **विद्याकर्मणोरिति तु प्रकृतत्वात्॥**
 
 ** *Vidyaakarmanorithi thu prakruthathvaath            
-                               *** ****308.**
+                               *** 308.**
 
  But (the reference is to the two roads) of knowledge and work, those two being under discussion.
 
@@ -828,7 +828,7 @@ by means of Karma along the path of Pitriyana to Chandraloka are born often in l
 
  III. 1.21 **तृतीयशब्दावरोधः संशोकजस्य॥**
 
-** *****Thrutheeyasabdaavarodhah Samsokajasya    **       
+** *Thrutheeyasabdaavarodhah Samsokajasya    **       
                   ***312. **  
 
  The third term (i. e. plant life) includes that which springs from heat and moisture.
@@ -902,7 +902,7 @@ sacrificer having become air becomes smoke, having become smoke he becomes mist,
 
  III. 1.24 **अन्याधिष्टितेषु पूर्ववदभिलापात्॥**
 
- ***Anyaadhishtitheshu poorvavadabhilaapaath*****          
+ ***Anyaadhishtitheshu poorvavadabhilaapaath*          
                            315**
 
  (The descending soul enters) into (plants) animated other (souls), as in the previous cases, on account of scriptural declaration.
@@ -980,7 +980,7 @@ depends entirely on Sastras, because these are Ateendriya, *i. e.*, beyond sense
 
 *** ***From the womb a (new) body (springs).
 
- ***Yoneh**:* from the womb. ***Sareeram**:* the body.   ****
+ ***Yoneh**:* from the womb. ***Sareeram**:* the body.   
 
  The discussion on the nature of the descent of the soul is concluded here.
 
@@ -1050,49 +1050,49 @@ exhibit the nature or character of real objects, as they are wanting in the real
 
 
 
-*** Sutra*****—*****11 :*** declares that Brahman is devoid of distinctive attributes (Nirvisesha). Brahman with attributes is only for the sake of Upasana or pious worship of devotees. It is not its real nature.
+*** Sutra*—*11 :*** declares that Brahman is devoid of distinctive attributes (Nirvisesha). Brahman with attributes is only for the sake of Upasana or pious worship of devotees. It is not its real nature.
 
  **Sutra—12 :** declares that every form due to limiting adjunct is denied of Brahman. In every passage of Sruti identity is affirmed. The Supreme Truth is Oneness. Separateness is for devotion. There is only one Infinite formless essence or Principle in reality.
 
- ***Sutra*****—*****13***: says that the whole universe characterised by enjoyers, things to be enjoyed and a ruler has Brahman for its true nature.
+ ***Sutra*—*13***: says that the whole universe characterised by enjoyers, things to be enjoyed and a ruler has Brahman for its true nature.
 
- ***Sutra*****—*****14 :***says that the assumption of diversity or plurality is objectionable. Brahman is destitute of all forms.
+ ***Sutra*—*14 :***says that the assumption of diversity or plurality is objectionable. Brahman is destitute of all forms.
 
- ***Sutra*****—*****15***: says Brahman appears to have forms, as it were. This is due to its connection with its unreal limiting adjuncts, just as the light of the sun appears straight or crooked, as it were, according to the nature of the thing it illumines.
+ ***Sutra*—*15***: says Brahman appears to have forms, as it were. This is due to its connection with its unreal limiting adjuncts, just as the light of the sun appears straight or crooked, as it were, according to the nature of the thing it illumines.
 
- ***Sutra*****—*****16 :*** says that the Sruti (Brihadaranyaka) expressly declares that Brahman is one uniform mass of consciousness or intelligence and has neither inside nor outside.
+ ***Sutra*—*16 :*** says that the Sruti (Brihadaranyaka) expressly declares that Brahman is one uniform mass of consciousness or intelligence and has neither inside nor outside.
 
- ***Sutra*****—*****17 :***says the other scriptural passages and athe Smritialso teach that Brahman is without attributes.
+ ***Sutra*—*17 :***says the other scriptural passages and athe Smritialso teach that Brahman is without attributes.
 
- ***Sutra*****—*****18*** : declares that just as the one luminous sun when entering into relation to many different waters is himself rendered multiform by his limiting adjuncts, so also the one Unborn Brahman.
-
-
-
- ***Sutra*****—*****19***: Here the Poorvapakshin objects. There is no similarity of the two things compared as in the case of Brahman any second thing is not apprehended or experienced like water. Brahman is formless and all-pervading. It is not a material thing. Sun has a form. It is a material thing. Water is different from the sun and is at a distance from the sun. Hence the sun may be reflected in the water.
-
- ***Sutra*****—*****20***: The objection raised in Sutra 19 is refuted. The similarity is only in point of the participation in the distortion and contortion, in increase and decrease of the image reflected. Brahman participates as it were in the attributes and states of the body and other limiting adjuncts with which it abides. Two things are compared with reference to some particular points or features only.
-
- ***Sutra*****—*****21 :*** says the scriptures declare that the Atman is within the Upadhis or limiting adjuncts.
-
- ***Adhikarana*****—*****VI***: (Sutras 22-30) teaches that the clause "neti, neti"-"not this, not this" in Brihadaranyaka Upanishad II. 3. 6 denies the gross and subtle forms of Brahman given in Bri. Up. II. 3. 1 and not Brahman itself.
-
- ***Sutras*****—*****23-26***: further dwell on Brahman being in reality devoid of all distinctive attributes which are entirely due to the limiting adjuncts or Upadhis.
-
- ***Sutras*****—*****27, 28***: express the views of the Bhedaabhedavadins. They say there is difference as well as non-difference between the individual soul and Brahman. The separateness and oneness is like a serpent in quiescence and motion.
+ ***Sutra*—*18*** : declares that just as the one luminous sun when entering into relation to many different waters is himself rendered multiform by his limiting adjuncts, so also the one Unborn Brahman.
 
 
 
- ***Sutra*****—*****29***: This Sutra refutes the view of the Bhedaabhedavadins and establishes the final truth which has been declared in Sutra 25 *viz.*, that the difference is merely illusory due to fictitious limiting adjuncts and identity or non-difference is the reality.
+ ***Sutra*—*19***: Here the Poorvapakshin objects. There is no similarity of the two things compared as in the case of Brahman any second thing is not apprehended or experienced like water. Brahman is formless and all-pervading. It is not a material thing. Sun has a form. It is a material thing. Water is different from the sun and is at a distance from the sun. Hence the sun may be reflected in the water.
 
- ***Sutra*****—*****30***: Sutra 29 is confirmed. The Sruti in fact expressly denies separateness.
+ ***Sutra*—*20***: The objection raised in Sutra 19 is refuted. The similarity is only in point of the participation in the distortion and contortion, in increase and decrease of the image reflected. Brahman participates as it were in the attributes and states of the body and other limiting adjuncts with which it abides. Two things are compared with reference to some particular points or features only.
 
- ***Adhikarana*****—*****VII***: (Sutras 31-37) explains that Brahman is one without a second and expressions which apparently imply something else as existing are only metaphorical.
+ ***Sutra*—*21 :*** says the scriptures declare that the Atman is within the Upadhis or limiting adjuncts.
+
+ ***Adhikarana*—*VI***: (Sutras 22-30) teaches that the clause "neti, neti"-"not this, not this" in Brihadaranyaka Upanishad II. 3. 6 denies the gross and subtle forms of Brahman given in Bri. Up. II. 3. 1 and not Brahman itself.
+
+ ***Sutras*—*23-26***: further dwell on Brahman being in reality devoid of all distinctive attributes which are entirely due to the limiting adjuncts or Upadhis.
+
+ ***Sutras*—*27, 28***: express the views of the Bhedaabhedavadins. They say there is difference as well as non-difference between the individual soul and Brahman. The separateness and oneness is like a serpent in quiescence and motion.
+
+
+
+ ***Sutra*—*29***: This Sutra refutes the view of the Bhedaabhedavadins and establishes the final truth which has been declared in Sutra 25 *viz.*, that the difference is merely illusory due to fictitious limiting adjuncts and identity or non-difference is the reality.
+
+ ***Sutra*—*30***: Sutra 29 is confirmed. The Sruti in fact expressly denies separateness.
+
+ ***Adhikarana*—*VII***: (Sutras 31-37) explains that Brahman is one without a second and expressions which apparently imply something else as existing are only metaphorical.
 
  Brahman is compared to a bridge or a bank or causeway not to indicate that He connects the world with something else beyond Him but to show that He is the protector of the worlds and is also like a causeway, the support of the individuals while crossing over this ocean of life.
 
  He is conceived to be symbolised and located in a limited space for facility of meditation on the part of those who are not very intelligent.
 
- ***Adhikarana*****—*****VIII***: (Sutras 38-41) intimates that the fruit of actions is not as Jaimini thinks, the independent result of actions acting through Apoorva, but is dispensed by the Lord. The Lord who is all-pervading is the bestower of fruits of actions. according to merits and demerits.
+ ***Adhikarana*—*VIII***: (Sutras 38-41) intimates that the fruit of actions is not as Jaimini thinks, the independent result of actions acting through Apoorva, but is dispensed by the Lord. The Lord who is all-pervading is the bestower of fruits of actions. according to merits and demerits.
 
 **———**
 
@@ -1134,7 +1134,7 @@ exhibit the nature or character of real objects, as they are wanting in the real
 
  III. 2.2 **निर्मातारं चैके पुत्रादयश्च॥**
 
-**** ***Nirmaataatram Chaike, Putraadayascha*            
+ ***Nirmaataatram Chaike, Putraadayascha*            
                                 320**
 
  And some (the followers of one Sakha, namely, the Kathakas) (state that the Supreme Lord is the) Creator; sons. etc., (being the lovely things which He creates).
@@ -1425,7 +1425,7 @@ with sleeping and waking have a proper sense only if the self-same soul rises ag
  III. 2.10 **मुग्धऽद्धसम्पत्तिः परिशेषात्॥**
 
  ***Mugdherdhasampattih Pariseshaat                 
-                            *****328.**
+                            *328.**
 
  In a swoon (in him who is senseless) there is half union on account of this remaining (as the only alternative left, as the only possible hypothesis).
 
@@ -1588,7 +1588,7 @@ must be held to be altogether formless, not at the same time of an opposite natu
 
  ***Prakaasavatchaavaiyarthyaat                   
                              
-*****333.**.
+*333.**.
 
  And as light (assumes forms as it were by its contact with things possessing form, so does Brahman take form in connection with Upadhis or limiting adjuncts, because (texts which ascribe form to Brahman) are not meaningless.
 
@@ -1614,7 +1614,7 @@ great or small according to the hole through which it enters a room and yet has 
 
 ** *Aaha Cha Tanmaatram                       
                                   
-*******334.**
+***334.**
 
  And (the Sruti) declares (that Brahman is) that (*i. e*., intelligence) only.
 
@@ -1722,7 +1722,7 @@ within which it abides. It grows with them as it were, decreases with them as it
 
 *** Darshanaatcha                          
                                    
-     *****339.**
+     *339.**
 
  And on account of the declaration of scripture.
 
@@ -1748,7 +1748,7 @@ either the warding off of calamities, or the gaining of power, or else release b
 
  III. 2.22 **प्रकृतैतावत्वं हि प्रतिषेधति ततो ब्रवीति च भूयः॥**
 
- *******Prakritaitaavattvam Hi Pratishedhati Tato Braveeti Cha Bhooyah               *****340.**
+ ***Prakritaitaavattvam Hi Pratishedhati Tato Braveeti Cha Bhooyah               *340.**
 
  What has been mentioned up to this is denied (by the words “not this, not this and the Sruti) says something more than that (afterwards).”
 
@@ -1812,7 +1812,7 @@ material as well as the immaterial form of Brahman; or the first ‘not so’ ma
 
  That (Brahman) is not manifest, for (so the scripture) says.
 
- ***Tat**:* that (*i. e.*, Brahman). ***Avyaktam** :***** isnot manifest. ***Aaha**:* (so the scripture) says*. **Hi***: for, because.
+ ***Tat**:* that (*i. e.*, Brahman). ***Avyaktam** :* isnot manifest. ***Aaha**:* (so the scripture) says*. **Hi***: for, because.
 
 * *The character of Brahman is discussed.
 
@@ -1943,7 +1943,7 @@ their varying extensity. Similarly is the relation between the individual soul a
 
 *** Poorvavadvaa                          
                                    
-      *****347.**
+      *347.**
 
  Or (the relation between the two, i. e.. Jiva and Brahman is) as (given) before.
 
@@ -2032,7 +2032,7 @@ we must assume that there also exists something different from Brahman.
 
 *** Saamaanyaattu                          
                                    
-   *****350.**
+   *350.**
 
  But (Brahman is called a bank etc.) on account of similarity.
 
@@ -2080,7 +2080,7 @@ we must assume that there also exists something different from Brahman.
 
  III. 2.34 **स्थानविशेषात् प्रकाशादिवत्॥**
 
-** *Sthaanavisheshaatprakaashaadivat****              
+** *Sthaanavisheshaatprakaashaadivat              
                        ***352.**
 
  (The statements concerning connection and difference with respect to Brahman) are due to special places; as in the case of light and the like.
@@ -2107,7 +2107,7 @@ connection with limiting adjuncts. The light is said to be divided on account of
 
  III. 2.35 **उपपत्तेश्च॥**
 
-** *****Upapattescha**                       
+** *Upapattescha**                       
                                 
 ***353.**
 
@@ -2129,7 +2129,7 @@ connection with limiting adjuncts. The light is said to be divided on account of
 
  III. 2.36 **तथान्यप्रतिषेधात्॥**
 
-** *Tathaanyapratishedhaat ****                  
+** *Tathaanyapratishedhaat                   
                                ***354.**
 
  Similarly on account of the express denial of all other things (there is nothing but Brahman).
@@ -2429,7 +2429,7 @@ found in scriptures constitute one Vidya.***
 
  III. 3.1**सर्ववेदान्तप्रत्ययं चोदनाद्यविशेषात्॥**
 
-** *s******arvavedaantapratyayam Chodanaadyavisheshaat**      
+** *s**arvavedaantapratyayam Chodanaadyavisheshaat**      
                 ***360.**
 
  (The Vidyas or the Upasanas) described in the various Vedanta texts (are not different, are identical) on account of the non-difference of injunction, etc., (*i.e*., connection, form and name).
@@ -2666,9 +2666,9 @@ the Devas and the Asuras were fighting; both at first glorify speech and the oth
 
  III. 3.9 **व्याप्तेश्च समञ्जसम्॥**
 
-** *****Vyaaptescha Samanjasam** **                
+** *Vyaaptescha Samanjasam** **                
                                   
-*****368.**
+*368.**
 
  And because (OM) extends (over the whole of the Vedas), (to specialize it by the term ‘Udgitha’) is appropriate.
 
@@ -2692,7 +2692,7 @@ is pervasive in all Srutis and should not be understood here in its general sens
 
  III. 3.10 **सर्वाभेदादन्यत्रेमे॥**
 
-*** Sarvabhedaadanyatreme*****  **                
+*** Sarvabhedaadanyatreme*  **                
                                    
        **369.**
 
@@ -2885,7 +2885,7 @@ be combined with this meditation.*
  III. 3.17 **अन्वयादिति चेत्स्यादवधारणात्॥**
 
  ***Anvayaaditi Chetsyaadavadhaaranaat               
-                             *****376.**
+                             *376.**
 
  If it be said that because of the context (the Supreme Self is not meant) (we reply that) it is so (*i. e.*, the Supreme Self is meant) on account of the definite statement (that the Atman alone existed in the beginning).
 
@@ -3030,7 +3030,7 @@ Bri. Up. V. 5. 1-2 cannot be combined.*
 
 ** *Darshayati Cha                         
                                    
-        *******381.**
+        ***381.**
 
 *** ***(The scripture) also declares (that).
 
@@ -3275,7 +3275,7 @@ Devayana, and not the knower of Nirguna-Brahman*
 
  III. 3.29 **गतेरर्थवत्त्वमुभयथान्यथा हि विरोधः॥**
 
-*** Gaterarthavattvamubhayathaanyathaa Hi Virodhah*****       
+*** Gaterarthavattvamubhayathaanyathaa Hi Virodhah*       
                                  388**.
 
  (The soul's) journey (along the path of the gods Devayana) is applicable in a two-fold manner, otherwise there would be contradiction (of scripture).
@@ -3382,7 +3382,7 @@ to all Vidyas of Saguna Brahman.*
 
  There is no restriction (as to the going on the path of the gods for any Vidya). There is no contradiction as is seen from the Sruti and Smriti.
 
- ***Aniyamah****:***(there is) no restriction. ***Sarvaasaam** :* of all. ***Avirodhah**:* there is no contradiction. ***Shabdaanumaanaabhyaam**:* as is seen from Sruti and Smriti).
+ ***Aniyamah:***(there is) no restriction. ***Sarvaasaam** :* of all. ***Avirodhah**:* there is no contradiction. ***Shabdaanumaanaabhyaam**:* as is seen from Sruti and Smriti).
 
 * (**Shabdah**:* the word, *i. e.*, the revealed scripture or Sruti. ***Anumaana**:*inference or Smriti)*.*
 
@@ -3843,7 +3843,7 @@ their functions on account of their different abodes are different. Although the
 
 (Sutras 44-52)
 
-III. 3.44 **लिङ्गभूयस्त्वात्त****द्धि बलीयस्तदपि॥**
+III. 3.44 **लिङ्गभूयस्त्वात्तद्धि बलीयस्तदपि॥**
 
 ***Lingabhooyastvaattaddhi Baleeyastadapi*              
                 403.**
@@ -4336,7 +4336,7 @@ III. 3.63 **समाहारात्॥**
 
 ***   Samaahaaraat                         
                                 
-******422.***
+**422.***
 
 *** ***On account of the rectification.
 
@@ -4386,7 +4386,7 @@ III, 3.65 **न वा तत्सहभावाश्रुतेः॥**
 
   (The meditations connected with members of the sacrificial acts are) rather not (to be combined) as the Sruti does not state their going together.
 
-  *** Na :*** not. ***Vaa :*** **** rather. ***Tatsahabhaavaashruteh :*** their correlation not being mentioned by the Sruti.  
+  *** Na :*** not. ***Vaa :***  rather. ***Tatsahabhaavaashruteh :*** their correlation not being mentioned by the Sruti.  
 (***Tat :*** their. ***Sahabhaava:*** about being together. ***Asrutch***: because there is no such injunction in Sruti).
 
   The words 'Na vaa' rather not discard the Poorvapaksha. This Sutra refutes the contention raised in Sutras 61-64.
@@ -4951,7 +4951,7 @@ Therefore, Sannyasa is prescribed by the scriptures. As knowledge is enjoined on
 
 ***Scriptural texts as in Chh. Up. I. 1. 3. which refers to  
 Vidyas are not mere praises but themselves  
-        enjoin the meditations.*******  
+        enjoin the meditations.***  
           (Sutras 21-22)
 
 III. 4.21 **स्तुतिमात्रमुपादानादिति चेन्नापूर्वत्वात्॥**
@@ -4963,7 +4963,7 @@ III. 4.21 **स्तुतिमात्रमुपादानादित�
 
 *** ***If it be said that (texts such as the one about the Udgitha are) mere glorifications on account of their reference (to parts of sacrifices), (we say) not so, on account of the newness (of what they teach, if viewed as injunctions).
 
- *** Stutimaatram :*** mere praise. ***Upaadaanaat :*** on account of their reference (to parts of sacrificial acts). ***Iti :*** thus, so. ***Chet :*** **if.*****Na*** not so. ***Apurvatvaat :***on account of its newness.  
+ *** Stutimaatram :*** mere praise. ***Upaadaanaat :*** on account of their reference (to parts of sacrificial acts). ***Iti :*** thus, so. ***Chet :*** **if.*Na*** not so. ***Apurvatvaat :***on account of its newness.  
    (***Iti*** ***Chet:*** if it be said).
 
   This Sutra consists of two parts, namely an objection. and its reply. The objection portion is : Stutimaatra mupaadaanaaditi Chet, and the reply portion is : Naapoorvatvaat.
@@ -4989,7 +4989,7 @@ III. 4. 22 **भावशब्दाच्च॥**
 *** Bhaavashabdaatcha                        
                           447.***
 
-***** *And there being words expressive of injunction.
+* *And there being words expressive of injunction.
 
 *** Bhavashabdaat:*** from words indicative of existence of injunctionin Sruti. **Cha :** and, also, moreover.
 
@@ -5016,7 +5016,7 @@ III. 4.23 **पारिप्लवार्था इति चेन्न �
 
   If it be said (that the stories told in the Upanishads) are for the purpose of Pariplava (only, we say) not so, because (certain stories above) are specified (by the Sruti for this purpose).
 
-* Paariplavaarthaah :* for the purpose of Pariplavas.***Iti****:* **** so.***chet :*** if. ***Na :*** not so.***Visheshitatvaat :*** because of specification, on account of (certain stories alone) being specified.  
+* Paariplavaarthaah :* for the purpose of Pariplavas.***Iti:*  so.***chet :*** if. ***Na :*** not so.***Visheshitatvaat :*** because of specification, on account of (certain stories alone) being specified.  
  (***Iti chet :*** if it be said).
 
  The purpose of narration of stories in the Upanishads is stated in this Sutra and in the next one.
@@ -5103,7 +5103,7 @@ III. 4.26 **सर्वापेक्षा च यज्ञादि श्�
 
 ***  ***And there is the necessity of all works, because the scriptures prescribe sacrifices, etc., (as means to the attainment of knowledge) even as the horse (is used to draw a chariot, and not for ploughing).
 
- ***Sarvaapekshaa :*** there is the necessity of all works***. Cha :*** and. ***Yajnaadishruteh******:*** for the scriptures prescribe sacrifices, etc., (as means to knowledge). ***Ashwavat :*** like a horse, as in the case of the horse.
+ ***Sarvaapekshaa :*** there is the necessity of all works***. Cha :*** and. ***Yajnaadishruteh**:*** for the scriptures prescribe sacrifices, etc., (as means to knowledge). ***Ashwavat :*** like a horse, as in the case of the horse.
 
 
 
@@ -5159,7 +5159,7 @@ III. 4. 27 **शमदमाद्युपेतः स्यात्तथा
 
 **Sarvaannanumatyadhikaranam : Topic (Adhikarana) 7.**
 
-**    * ****Food-restrictions may be given up only      
+**    * Food-restrictions may be given up only      
   
             when life is in danger.*
 
@@ -5468,7 +5468,7 @@ III. 4.40 **तद्भूतस्य तु नातद्भावो ज�
 
  But for one who has become that (i. e., entered the highest Ashrama, i. e., Sannyasa) there is no reverting (to the preceding ones) on account of restrictions prohibiting such reversion or descending to a lower order. Jaimini also (is of this opinion).
 
- *Tadbhootasya**:***of one who has become that, for one who has attained that (highest Ashrama). ***Tu******:*** but. ***Na******:*** no. ***Atadbhaavah :*** lapse from that stage, falling away from that. ***Jaimineh :*** according to Jaimini, of Jaimini (is this opinion). ***Api******:*** also, even. ***Niyamaatadroopaabhaavebhyah :*** on account of therestrictions prohibiting such reversion.
+ *Tadbhootasya**:***of one who has become that, for one who has attained that (highest Ashrama). ***Tu**:*** but. ***Na**:*** no. ***Atadbhaavah :*** lapse from that stage, falling away from that. ***Jaimineh :*** according to Jaimini, of Jaimini (is this opinion). ***Api**:*** also, even. ***Niyamaatadroopaabhaavebhyah :*** on account of therestrictions prohibiting such reversion.
 
  (***Niyamaat :*** because of the strict rule. ***Atadroopaabhaavebhyah :*** because there is no statement permitting it, and because it is against custom. ***Abhaavebhyah :*** because of the absence of that).
 
@@ -5508,7 +5508,7 @@ III. 4.41 **न चाधिकारिकमपि पतनानुमान
 
  And there is no fitness for expiation in the case of a Naishthika Brahmachari (who is immoral), because a fall (in his case) is inferred from the Smriti and because of the inefficacy (in his case) of the expiatory ceremony.
 
- *Na :* not. ***Cha :*** and. ***Adhikaarikam******:*** (expiation) mentioned in the Chapter that deals with the qualification. ***Api :*** also, even. ***Patanaanumaanaat :*** because of a fall (in his case) is inferred from the Smriti. ***Tadayogaat :*** because of its (of the expiatory ceremony) inefficiency in his case.
+ *Na :* not. ***Cha :*** and. ***Adhikaarikam**:*** (expiation) mentioned in the Chapter that deals with the qualification. ***Api :*** also, even. ***Patanaanumaanaat :*** because of a fall (in his case) is inferred from the Smriti. ***Tadayogaat :*** because of its (of the expiatory ceremony) inefficiency in his case.
 
 
 
@@ -5525,7 +5525,7 @@ Brahmacharins.
 
  But the Upakurvana (i. e., who is a Brahmacharin for a certain period only, not for life, one who is a Brahmacharin till marriage) about whose sin Smriti makes no similar declaration, may purify himself by the ceremony mentioned,If he is immoral there is expiation.
 
-III. 4.42 **उपपूर्वमपि त्वेके भावमशनवत्त****दुक्तम्॥**
+III. 4.42 **उपपूर्वमपि त्वेके भावमशनवत्तदुक्तम्॥**
 
 *** Upapoorvamapi Tveke Bhaavamashanavattaduktam          
             467.***
@@ -5534,7 +5534,7 @@ III. 4.42 **उपपूर्वमपि त्वेके भावमशन
 
  But some (consider the sin) a minor one (and therefore claim) the existence (of expiation for the Naishthika Brahmacharin also) ; as in the case of eating (of unlawful food). This has been explained (in the Purva Mimamsa).
 
- *Upapoorvam****:*** (Upapoorvaka-paatakam, Upapaatakam) a minor sin. ***Api tu:*** but, however. ***Eke :*** some (say), ***Bhaavam :*** possibility of expiation. ***Ashanavat******:***as in the eating (prohibited food). ***Tat:*** this. ***Uktam:***is explained (in Purva Mimamsa).
+ *Upapoorvam:*** (Upapoorvaka-paatakam, Upapaatakam) a minor sin. ***Api tu:*** but, however. ***Eke :*** some (say), ***Bhaavam :*** possibility of expiation. ***Ashanavat**:***as in the eating (prohibited food). ***Tat:*** this. ***Uktam:***is explained (in Purva Mimamsa).
 
  The previous discussion is continued.
 
@@ -5830,7 +5830,7 @@ difference in the experiences according to difference in Vidyas but with regard 
 
    The repetition of the clause, "Tadavasthaavadhriteh" "because the Sruti asserts that state" indicates that the chapter ends here.
 
-  **Thus ends the fourth Pada (Section 4) of the third****   
+  **Thus ends the fourth Pada (Section 4) of the third   
     Adhyaya (Chapter III) of the Brahma Sutras**  
 **      or the Vedanta Philosophy.**
 
@@ -6289,7 +6289,7 @@ by the scriptures is to be repeated till knowledge: dawns.
 *Knowledge of Brahman frees one from all past  
            and future sins.*
 
-IV. 1.13 **तदधिगम उत्तरपूर्वाघयोरश्लेषविनाशौ तद्व्य****पदेशात्॥**
+IV. 1.13 **तदधिगम उत्तरपूर्वाघयोरश्लेषविनाशौ तद्व्यपदेशात्॥**
 
 ***Tadadhigama Uttarapoorvaaghayorashleshavinaashau Tadvyapadeshaat  
       490.***
@@ -6613,7 +6613,7 @@ IV. 2.2 **अत एव च सर्वाण्यनु॥**
 
 **Manodhikaranam : Topic (Adhikarana) 2.**
 
-*****The function of mind is merged in Prana.*
+*The function of mind is merged in Prana.*
 
 IV. 2.3 **तन्मनः प्राण उत्तरात्॥**
 
@@ -6803,7 +6803,7 @@ IV. 2.11 **अस्यैव चोपपत्तेरेष ऊष्मा�
 
  And to this (subtle body) alone does this (bodily) heat belong, because this (only) is possible.
 
- **Asya*:***of the subtle body. ***Eva:*** verily, certainly, alone. ***Cha :*** and, also. ***Upapatteh :*** it being possible because of possibility. ***Esha******:*** this. ***Ooshmaa******:*** (bodily) heat.
+ **Asya*:***of the subtle body. ***Eva:*** verily, certainly, alone. ***Cha :*** and, also. ***Upapatteh :*** it being possible because of possibility. ***Esha**:*** this. ***Ooshmaa**:*** (bodily) heat.
 
  To that same subtle body belongs the warmth which we perceive in the living body, by means of touch. That bodily heat is not felt in the body after death, while such qualities as form, colour and so on, continue to be perceived. The bodily heat is felt as long as there is life. It follows from this that the heat resides in something different from the body, as ordinarily known. The subtle body imparts its own heat to the gross body and keeps it warm as long as it remains alive. Scripture also says, "He is warm if going to live; cold if going to die."
 
@@ -6859,7 +6859,7 @@ IV. 2.14 **स्मर्यते च॥**
 
 And Smriti also says that.
 
-*** Smaryate******:***the Smriti says, it is mentioned in the Smritis. ***Cha :*** and.
+*** Smaryate**:***the Smriti says, it is mentioned in the Smritis. ***Cha :*** and.
 
  In the Mahabharata also it is said that those who know Brahman do not go or depart. "He who has become the Self of all beings and has a complete intuition of all, at his way the gods themselves are perplexed, seeking for the path of him who has no path." (**Mahabharata :** XII. 270. 22).
 
@@ -7182,7 +7182,7 @@ IV. 3.2 **वायुमब्दादविशेषविशेषाभ्�
 
  (The departed soul) of a knower of the Saguna Brahman goes) from the deity of the year to the deity of the air on account of the absence and presence of specification.
 
- **Vaayum*****:*******the deity of the air. ***Abdaat :*** from the deity of the year. ***Avisheshavisheshaabhyaam:*** because of non-specification and specification, because it is stated in general in one Sruti and in detail in another.
+ **Vaayum*:***the deity of the air. ***Abdaat :*** from the deity of the year. ***Avisheshavisheshaabhyaam:*** because of non-specification and specification, because it is stated in general in one Sruti and in detail in another.
 
   The description of the path of the gods is continued.
 
@@ -7389,7 +7389,7 @@ IV. 3.10 **कार्यात्यये तदध्यक्षेण स�
 
 On the dissolution of the Brahmaloka (the souls attain) along with the ruler of that world what is higher than that (i. e. the Supreme Brahman) on account of the declaration of the Sruti.
 
- ***Kaaryaatyaye :*** on the dissolution of the Brahmaloka (***Kaarya :*** of the effect, i. e, the universe ; the relative Saguna Brahman). ***Tad*** : of that. ***Adhyakehena :*** with the rulerpresident, i. e., Hiranyagarbha or the four-faced Brahma. ***Sahu :*** with. ***Atah***-***param :*** higher than that, i. e., the Supreme Brahman. ***Abhidhaa*****naat :** on account of the declaration of the Sruti.
+ ***Kaaryaatyaye :*** on the dissolution of the Brahmaloka (***Kaarya :*** of the effect, i. e, the universe ; the relative Saguna Brahman). ***Tad*** : of that. ***Adhyakehena :*** with the rulerpresident, i. e., Hiranyagarbha or the four-faced Brahma. ***Sahu :*** with. ***Atah***-***param :*** higher than that, i. e., the Supreme Brahman. ***Abhidhaa*naat :** on account of the declaration of the Sruti.
 
   The individual soul's final absorption in the Para Brahman or the Absolute is now stated.
 
@@ -7706,7 +7706,7 @@ desires (Satyakama) and true volitions (Satya Sankalpa).
 **  *Chititanmaatrena Tadaatmakatvaadityaudulomih         
                 539.***
 
-******(The released soul exists) solely as pure consciousness or Intelligence, that being its true nature or essence ; thus Audulomi (thinks).
+**(The released soul exists) solely as pure consciousness or Intelligence, that being its true nature or essence ; thus Audulomi (thinks).
 
  ***Chititanmaatrena :*** solely as pure consciousnessness. (***Tanmaatrena*** solely). ***Tadaatmakatvaat :*** that being its true nature or essence. ***Iti :***thus, so. ***Audulomih :*** Audulomi (thinks).
 

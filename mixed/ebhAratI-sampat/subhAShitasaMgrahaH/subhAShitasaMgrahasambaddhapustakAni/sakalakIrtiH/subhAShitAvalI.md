@@ -44,7 +44,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 
 **  वेलगांव                            
                              व्यवस्थापक**  
-  ता.१।११।९७ **** } ****                     
+  ता.१।११।९७  }                      
                           **जैनेतिहाससार.**
 
 **————————**

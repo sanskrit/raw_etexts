@@ -40,7 +40,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 
 **Sarasvati Bhavana Library  
        Benares.                        
-       ** *** ******Ganapati Lal Jha***
+       ** *** **Ganapati Lal Jha***
 
 
 
@@ -93,9 +93,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 
 
 **सरस्वतीभवनम्, ** **                        
-             ****विद्वज्जनवशंवदः**  
+             विद्वज्जनवशंवदः**  
 **  काशी।         ** **                  
-      ****खिस्ते–इत्युपाख्यो नारायणशास्त्री**  
+      खिस्ते–इत्युपाख्यो नारायणशास्त्री**  
   
 
 

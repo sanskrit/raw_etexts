@@ -12,7 +12,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2Nzc0NDY5
 
 \[
 
-****
+
 
 विष्णुतत्त्वविनिर्णयः ॥
 

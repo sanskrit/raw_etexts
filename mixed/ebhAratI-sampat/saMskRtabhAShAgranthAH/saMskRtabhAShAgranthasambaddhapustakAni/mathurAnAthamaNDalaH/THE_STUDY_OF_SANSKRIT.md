@@ -67,7 +67,7 @@ fresh note-book to take down what his teacher may dictate in the class-room. The
 
 **क, ख, ग, घ, ङ; च, छ, ज, झ, ञ; ट, ठ, ड, ढ, ण; त, थ, द, ध, न; प, फ, ब, भ, म, य, र, ल, व; श, ष, स, ह। ं, ः, ँ।**
 
-** *N.B.*— ****क, ख** &c, in the above list, have the vowel + attached to them for the sake of pronunciation; for, consonant can be sounded without the help of a no vowel **(क=क्+अ)।**
+** *N.B.*— क, ख** &c, in the above list, have the vowel + attached to them for the sake of pronunciation; for, consonant can be sounded without the help of a no vowel **(क=क्+अ)।**
 
 ** Observe that—**
 

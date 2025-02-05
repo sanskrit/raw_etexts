@@ -1928,7 +1928,7 @@ INTERLUDE.
 
 पद्मावती—
 
-****जुज्जइ। णखु एसो उज्जइणीदुल्लहो। सव्वजणमणोभिरामं खु सोभग्गं णाम।
+जुज्जइ। णखु एसो उज्जइणीदुल्लहो। सव्वजणमणोभिरामं खु सोभग्गं णाम।
 
  युज्यते। न खल्वेष उज्जयिनीदुर्लभः। सर्वजनमनोभिरामं खलु सौभाग्यं नाम।
 
@@ -1994,7 +1994,7 @@ Let it be. have hit upon an idea. (Aloud) Friend, so say the people of Ujjain.
 
 धात्री—
 
-****किं एत्थ अ;च्चाहिदं?
+किं एत्थ अ;च्चाहिदं?
 
  किमत्रात्याहितम्?
 
@@ -2479,7 +2479,7 @@ INTERLUDE.
 
 (उभे उपविशतः।)
 
-****
+
 
 —————————————————————————————————————————
 
@@ -5111,7 +5111,7 @@ should be, the poet has used **आसवदत्ता.** Generallywhen a word 
 
 becomes **ईर्** when a non-labial precedes,and **ऊर्** when a labial precedes, and the following abecomes **न** in both cases. Note :—**ॠकारान्तधातूनां'वृृतो वा' इति क्वचिदिङ्विकल्पस्य विहितत्वात् क्तप्रत्यये परे ‘यस्य विभाषा’इति नित्यमिनिषेधे ‘ॠत इद्धातोः’इति इत्त्वे रपरत्वे ‘हलि च’इति दीर्घे ‘रदाभ्यां निष्ठातो नः पूर्वस्य तु दः’इति तकारस्य नत्वे‘रषाभ्यां—’ इति णत्वे च रूपम्—तीर्ण इति। पूर्णेत्यत्र उदोष्ठ्यपूर्वस्येतिविशेषः। अवतीर्णं=अवतारः** . Vide Pānini: **नपुंसके भावेक्तः**. Note the following examples of rootsending in **ॠ**
 
-****taking the suffix **त. क कीर्ण, गृृ गीर्णजृृजीर्ण, दृृदीर्ण, शृृशीर्ण.**
+taking the suffix **त. क कीर्ण, गृृ गीर्णजृृजीर्ण, दृृदीर्ण, शृृशीर्ण.**
 
  **वसन्ते कम्रौ वसन्तकम्रौ**. In the spring, Balarāma'sarms are peculiarly charming. **कम्र=कम् + र.** VidePāṇini—**नमिकम्पिस्म्यजसकमहिंसदीपो रः**. Other examples:**—नम्र कम्प्र स्मेर अजस्र हिंस्र** and **दीप्र.** **त्वां** is addressedto the members of the assembly individually.Hence the singular is used. In consonance withthe rule that the substance of the plot is to be
 
@@ -5205,7 +5205,7 @@ flourish. **एनं** refers to the chamberlain. Whena person or object mentio
 
 
 
-Whose name is pronounced, adjectival to **दर्शकस्य.****अभिहित** Past passive participle of **धा** with **अभि** tospeak. Vide Pānini:—**दधातेर्हिः. नामैव नामधेयं.** Theparticle **धेय** is added to the nouns **नामन् रूप** and **भाग**in **स्वार्थ**. Vide Pānini:—**भागरूपनामभ्यो धेयः. अस्माकं**Genitive Plural of **अस्मद्** 'Of us.' **महांश्चासौ राजा चमहाराजः. महत्** when followed by a Noun qualifiedby it in a compound becomes **महा. राजन्** at the endof a Tatpuruṣa compound drops its final **न् .** VidePāṇini:—**आन्महतः समानाधिकरणजातीययोः** and **राजाहः सखिभ्यष्टच्. महाराजश्चासौ दर्शकश्च तस्य महाराजदर्शकस्य** The name ofthe Magadha king is Darśaka.**भगीनी**sister. **पद्मावती**is the name of Darśaka's younger sister.
+Whose name is pronounced, adjectival to **दर्शकस्य.अभिहित** Past passive participle of **धा** with **अभि** tospeak. Vide Pānini:—**दधातेर्हिः. नामैव नामधेयं.** Theparticle **धेय** is added to the nouns **नामन् रूप** and **भाग**in **स्वार्थ**. Vide Pānini:—**भागरूपनामभ्यो धेयः. अस्माकं**Genitive Plural of **अस्मद्** 'Of us.' **महांश्चासौ राजा चमहाराजः. महत्** when followed by a Noun qualifiedby it in a compound becomes **महा. राजन्** at the endof a Tatpuruṣa compound drops its final **न् .** VidePāṇini:—**आन्महतः समानाधिकरणजातीययोः** and **राजाहः सखिभ्यष्टच्. महाराजश्चासौ दर्शकश्च तस्य महाराजदर्शकस्य** The name ofthe Magadha king is Darśaka.**भगीनी**sister. **पद्मावती**is the name of Darśaka's younger sister.
 
  **Page 7. राजागृहं** Rājagṛha remaining in ruinsin the village of Rajgir in the district of Gayāwasthe ancient capital of Magadha founded by KingBimbisāra who abandoned the original capitalknown as Girivraja. His son Ajātaśatru and thenhis son Darśaka and his successors continued inthe new capital till at last king Udayyi transferredhis capitial to Pātaliputra. **यास्यस्ति** 2nd Future of**या. तत्** a Indeclinable meaning therefore.
 
@@ -5229,7 +5229,7 @@ according to the noun it qualifies. **स्व** meaning 'self'is always neuter
 
 Parasmaipada. The repetition of the word **एतु**shows that the servant-maid leads the way forPadmāvatī. **इदमाश्रमपदं प्रविशतु.** The subject **भर्तृदारिका**is to be imported from the previous sentence.**उपविष्टा तापसी. उपविष्ट** formed from **विश्** with **उप.** Rootsending in **श्**substitute **ष्**for **श्**when followed bythe suffix **त**. Vide Pánini:—**व्रश्चभ्रस्जसृजमृजयजराजभ्राजच्छशां षः शोभनं आगतं स्वागतं** is to be treated as aquestion through Kāku or intonation.Is yourcoming attended by happiness?
 
- **Page 9. जाते** means **वत्से. स्वगेहं** suggests theextreme cordiality of reception offered by thefemale sage to the Princess. **भवतु** Let it be asyou said. The Tāpasi has stated that the sacredgrove is one's own home for guests. **भवतु**showsthe acceptance of the reception. The repetitionof the word**भवतु** shows that the invitation isat once accepted and there is no further needfor using words in that behalf. **विश्वास्ता** confident.Padmāvati says she feels as confident in the sacredcottage as in her own home. **भद्रे**From what followsit is to be inferred that this is addressed to theservant-maid and not to Padmavati.**भद्रमुख** is aterm by which elderly people generally refer to their kings. Here it refers to Darśaka, the king ofMagadha. **भगिनिकां** refers to Padmāvati. **कश्चिद्राज****वरयति**is to be treated as a question by Kāku.
+ **Page 9. जाते** means **वत्से. स्वगेहं** suggests theextreme cordiality of reception offered by thefemale sage to the Princess. **भवतु** Let it be asyou said. The Tāpasi has stated that the sacredgrove is one's own home for guests. **भवतु**showsthe acceptance of the reception. The repetitionof the word**भवतु** shows that the invitation isat once accepted and there is no further needfor using words in that behalf. **विश्वास्ता** confident.Padmāvati says she feels as confident in the sacredcottage as in her own home. **भद्रे**From what followsit is to be inferred that this is addressed to theservant-maid and not to Padmavati.**भद्रमुख** is aterm by which elderly people generally refer to their kings. Here it refers to Darśaka, the king ofMagadha. **भगिनिकां** refers to Padmāvati. **कश्चिद्राजवरयति**is to be treated as a question by Kāku.
 
 
 
@@ -5819,9 +5819,9 @@ made his appearance in the First Act of this play. भोः An interjection for
 
 कूर्चानां गुल्मः, तस्मिन् लग्ना कूर्चगुल्मलग्ना stuck to a thicket of reeds. As to the different meanings of कूर्च, note the following extract from Keśava:— कूर्चोऽस्त्री श्मश्रुपीठयोः। भ्रूमध्ये कत्थने दर्भे तन्तुवायपरिच्छदे॥ सा खलु न दृश्यते सा Vāsavadattā who cherished you. ईदृशःअनवसरःThe hour is inopportune as the king is in painful recollection of his departed beloved. इदमपि तदाश्रयमेव The errand which I am about to convey relates also to Vāsavadattāand as such will be welcome to Udayana at this stage.
 
- **Page 97.** ततः प्रविशति राजा विदूषकश्च.****Here begins the Act proper.
+ **Page 97.** ततः प्रविशति राजा विदूषकश्च.Here begins the Act proper.
 
- **श्रुतिसुखनिनदे** etc. In this verse the king offers his lamentations to the lute Ghoṣavatī. श्रुतेः सुखं यस्मात् तथाभूतः निनदः यस्याः तत्र संबुद्धिः श्रुतिसुखनिनदे Vocative, addressed to the lute. देव्याः refers to Vāsavadattā. स्तनयुगले जघनस्थले च सुप्ता. Having enjoyed repose on the breasts and hips of the queen. त्वं understood. विहगानां गणः, तस्य रजः, तेन विकीर्णः दण्डःयस्याः सा विहगगणरजोविकीर्णदण्डा (सती) With your stem scattered over with the dust raised by birds in batches. प्रतिभयं means भयंकरं, adjectival to अरण्यवासं. अध्युषिता असि कथं.****How did you undergo life in the forest? The Accusative in अरण्यवासं is due to the preposition अधि with which the root वस् is prefixed. Vide Pãṇini:—उपान्वध्याङ्कसः. उषित= वस् + (इ) त. As to the root वस्taking the suffix त (क्त) in the Past Active significance, vide Pāṇini:**—** गत्यर्थाकर्मकश्लिषशीङ्स्थासवसजनरुहजीर्यतिभ्यश्च.
+ **श्रुतिसुखनिनदे** etc. In this verse the king offers his lamentations to the lute Ghoṣavatī. श्रुतेः सुखं यस्मात् तथाभूतः निनदः यस्याः तत्र संबुद्धिः श्रुतिसुखनिनदे Vocative, addressed to the lute. देव्याः refers to Vāsavadattā. स्तनयुगले जघनस्थले च सुप्ता. Having enjoyed repose on the breasts and hips of the queen. त्वं understood. विहगानां गणः, तस्य रजः, तेन विकीर्णः दण्डःयस्याः सा विहगगणरजोविकीर्णदण्डा (सती) With your stem scattered over with the dust raised by birds in batches. प्रतिभयं means भयंकरं, adjectival to अरण्यवासं. अध्युषिता असि कथं.How did you undergo life in the forest? The Accusative in अरण्यवासं is due to the preposition अधि with which the root वस् is prefixed. Vide Pãṇini:—उपान्वध्याङ्कसः. उषित= वस् + (इ) त. As to the root वस्taking the suffix त (क्त) in the Past Active significance, vide Pāṇini:**—** गत्यर्थाकर्मकश्लिषशीङ्स्थासवसजनरुहजीर्यतिभ्यश्च.
 
 
 

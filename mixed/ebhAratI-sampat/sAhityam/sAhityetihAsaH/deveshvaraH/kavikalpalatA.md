@@ -77,7 +77,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMwMDIzMTI3MTY
 इति सूचीपत्रंसमाप्तम्।  
 **\_\_\_\_\_**
 
-**कविकल्पलता****।**
+**कविकल्पलता।**
 
 **![](../books_images/U-IMG-1697105441Untitled113.png)**
 
@@ -1518,7 +1518,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMwMDIzMTI3MTY
 
 **—————————————————————————————————————————————**
 
-******पुटे स्पष्टता नास्ति।**
+**पुटे स्पष्टता नास्ति।**
 
 **पटन पाटोवाचन्तय गिय ! मुरभोरणाय दुरितानाम्।**  
 **दिमन्ततनुरमिकोऽपि न्मरति स्मर नाग-पञ्चाम्य !॥**

@@ -149,11 +149,11 @@ Nature Painting.
 
 **DramaticArt.**
 
-****
+
 
 skill in delineating characters, in maintaining unity of action and in faithfully observing the rules of नाट्यशास्त्र Sir Williams Jones has described Kalidasa as the Shakespeare of India. But the modern critics go still further and point out that as Shakespeare excels in his
 
-****
+
 
 powers of analysis, in the art of delineation of human character as it is, Kalidasa excels in his powers of synthesis, in the art of
 
@@ -4914,7 +4914,7 @@ birds, clouds, trees etc.
 सर्वक्षितिभृतां नाथ दृष्टा सवाङ्गसुन्दरी।  
 रामा रम्येवनान्तेऽस्मिन्मया विरहिता त्वया॥4१॥
 
- (तथैव प्रतिशब्दं शृणोति। आकर्ण्यसहर्षम्।) कथं यथाक्रमं दृष्टेत्याहभवतु**।**अवलोकयामि। (दिशोऽवलोक्य सखेदम्‌।) अये ममैवार****कंदरांन्तरविसर्पीप्रतिशब्दः। (इति मूर्च्छति।) (उत्थायोपविश्यसविषादम्‌।) अहह, श्रान्तोऽस्मि। यावदस्या गिरिनद्यास्तीरे तरङ्गवातमासेविष्ये (द्विपदिकयापरिक्रम्यावलोक्य च।) इमां नवाम्बु****कलुषांस्रोतोवहांपश्यता मया रतिरुपलभ्यते।कुतः?
+ (तथैव प्रतिशब्दं शृणोति। आकर्ण्यसहर्षम्।) कथं यथाक्रमं दृष्टेत्याहभवतु**।**अवलोकयामि। (दिशोऽवलोक्य सखेदम्‌।) अये ममैवारकंदरांन्तरविसर्पीप्रतिशब्दः। (इति मूर्च्छति।) (उत्थायोपविश्यसविषादम्‌।) अहह, श्रान्तोऽस्मि। यावदस्या गिरिनद्यास्तीरे तरङ्गवातमासेविष्ये (द्विपदिकयापरिक्रम्यावलोक्य च।) इमां नवाम्बुकलुषांस्रोतोवहांपश्यता मया रतिरुपलभ्यते।कुतः?
 
 तरङ्गभ्रूभङ्गा क्षुमितविहगश्रेणिरशना  
 विकर्षन्ती फेनं वसनमिव संरम्भशिथिलुम्‌।
@@ -6957,7 +6957,7 @@ APPENDIX A.
 
  Thus Siva who in his supreme freedom and joy wills to create this universe, brings into operation his Sakti, which acts has the principle of Negation of the subjective idea, and brings out the objective reality, the 'Srishti'.
 
-****^(h)
+^(h)
 
 By the necessity of his own creative power, Siva who is all along perfect freedom and light also limits himself as the individual soul or 'Jiva' Siva *forgets*
 
@@ -7065,7 +7065,7 @@ SARDAR G. N. MUJUMDAR, POONA.
 **6 विदूषकः**— **भो वयस्य, संगीतशालाभ्यन्तरेऽवधानं देहि । कलविशुद्धाया गीतेः स्वरसंयोगः श्रूयते । जाने तत्रभवती हंसपदिका वर्णपरिचयं करोतीति । 
            —शाकु० V.**
 
- (E) Kalidasa indicates that a musician must have a Muraja or some other kind of drum for, keeping time and a stringed or wind instrument for accompaniment or drone.^(**9**)****
+ (E) Kalidasa indicates that a musician must have a Muraja or some other kind of drum for, keeping time and a stringed or wind instrument for accompaniment or drone.^(**9**)
 
  It will be seen from above that the present practice of our musicians to learn first the seven notes and then their several combinations in ascent and descent is reflected in Kālidāsa. Even now they sing first the notes of a mode **(नोम् थोम्)** and then sing the song set to that mode. They require, while singing, **a तबला** or **पखवाज** and a **तंबोरा, सारंगी** or flute played by their side.
 
@@ -7123,7 +7123,7 @@ SARDAR G. N. MUJUMDAR, POONA.
   स निनाय नितान्तवत्सलः परिगृह्योचितमङ्कमङ्गनाम्॥  
                          —रघु० VIII. 41.
 
-his own experience of often taking it in his lap for tuning. He shows the special care taken by the Yaksa's wife and the Siddhas in wiping off the wet string of their lutes.^(**13**) ****This is really a very minute yet most important point with regard to the stringed instruments. Only a practical instrumentalist or a musician is expected to show so much care of his instrument.
+his own experience of often taking it in his lap for tuning. He shows the special care taken by the Yaksa's wife and the Siddhas in wiping off the wet string of their lutes.^(**13**) This is really a very minute yet most important point with regard to the stringed instruments. Only a practical instrumentalist or a musician is expected to show so much care of his instrument.
 
 \(C\) DANCING.
 
@@ -14808,7 +14808,7 @@ as an interpreter of human nature.
 
  Thus Siva who in his supreme freedom and joy wills to create this universe, brings into operation his Sakti, which acts as the principle of Negation of the subjective idea, and brings out the objective reality, the 'Srishti'.**^(h)**By the necessity of his own creative power, Siva who is all along perfect freedom and light also limits himself as the individual soul or 'Jiva' Siva *forgets* his own Sakti in the Jiva-State which is the result of his own free-will to create.**^(i)** The creative Sakti acts as force of obscuration in order to create many out of the one. This aspect of the Sakti is technically known as **तिरोधान** or **पिधान**for Maya not in its vedantic sense as mere illusion but the *activity* which produces forgetfulness of the real natureof self.**^(j)** In other words **विरमृति**takes place on part of Siva of his own Sakti: or the reflection of Sakti on Siva is bedimmed. But the force of obscuration cannot be of a permanent character, it is only a temporary phase, though a neccessary one, in the course of evolution. It vanishes whenthe course of involution begins, or technically speaking when the **अनुग्रह** aspect of Sakti reacts upon it.**^(k)**Realization of Sakti as belonging to self takes place through the methodof recognition, or in other words, realization of the identity of self with God takes place through *recognition* of the Divine nature of self. *Recognition* is the only way to self-realization.**^(l)**Recognition or **प्रत्यभिज्ञान**takes place by some potent means. such as that of the instruction of the Guroo or the study of the **अध्यात्मदर्शन—**the power of contemplation on self or once own *Pratyaya*: thus recognition ends in self-realization.**^(m)**
 
-Sakti is reflected in the pure light of Siva, or in other words, Siva regains his Sakti. Self-realization takes place or union by recognition is attained. The experience thus gained is not lost but is "synthetically" related to the divine experiencer. *Union* by **recognition** orthe **प्रत्यभिज्ञान**** is thus the chief essence of ****this system of philosophy.**^(n)**
+Sakti is reflected in the pure light of Siva, or in other words, Siva regains his Sakti. Self-realization takes place or union by recognition is attained. The experience thus gained is not lost but is "synthetically" related to the divine experiencer. *Union* by **recognition** orthe **प्रत्यभिज्ञान is thus the chief essence of this system of philosophy.**^(n)**
 
  After gainig recognition what is left for one is to do good to others for "there is no divine curse on man that he should only be actuated by personal motives.'' The Pratyabhijna doctrine is preached for the good of mankind irrespective of caste, colour, creed or sex. The student should approach this philosophy as 'Dāsa' to whom it will be given free out of its abundance.^(**o**)
 

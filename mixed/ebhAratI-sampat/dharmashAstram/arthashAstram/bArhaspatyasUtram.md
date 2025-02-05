@@ -352,7 +352,7 @@ On this the commentary says
 गुरुवचनमनुल्लङ्घनीयम् । नी०वा० अमृत् पृ० ४४  
 "सेनापतिर्गणको राजश्रेष्ठी दण्डाधिपो मन्त्री महत्तरो बलवत्तरश्चत्वारो वर्णाश्च तुरङ्गबलं पुरोहितोऽमात्यो महामाहात्यश्चेत्यष्टादश राज्ञां तीर्था भवन्ति ।"**
 
-****quoted by **श्रुतसागरसूरि** on p. 91 of **यशस्तिलक** Nirnayasagar edition.
+quoted by **श्रुतसागरसूरि** on p. 91 of **यशस्तिलक** Nirnayasagar edition.
 
  A common saying of the Dharmashâstras. Cf. Manu IV. 92
 

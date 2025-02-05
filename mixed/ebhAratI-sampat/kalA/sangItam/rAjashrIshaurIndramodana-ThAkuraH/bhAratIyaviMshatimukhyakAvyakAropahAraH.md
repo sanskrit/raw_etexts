@@ -36,7 +36,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4ODk4MjQ4ODE
 PREFACE.  
 ----------♦----------
 
-_(T)HE favorable reception which was accorded to my allegorical work entitled **"THE FIVE PRINCIPAL MUSICIANS OF THE HINDUS****,"** written expressly as an offering to the Fifth International Congress of Orientalists, held at Berlin in September 1881, has emboldened me to undertake again a work of a similar nature which is intended as a present to the Sixth International Congress of Orientalists to be held at Leyden in September 1883, to which I have had the honor of being invited to take a part.
+_(T)HE favorable reception which was accorded to my allegorical work entitled **"THE FIVE PRINCIPAL MUSICIANS OF THE HINDUS,"** written expressly as an offering to the Fifth International Congress of Orientalists, held at Berlin in September 1881, has emboldened me to undertake again a work of a similar nature which is intended as a present to the Sixth International Congress of Orientalists to be held at Leyden in September 1883, to which I have had the honor of being invited to take a part.
 
      In this publication, I have made brief mention of twenty of the most renowned literati of India, and noticed the works which have made them famous. It is my intention to present these works, along with this treatise, to the Congress on the present occasion.
 

@@ -4393,7 +4393,7 @@ BENARES.
 **"संस्पृश्यैकादशीं राजन् द्वादशी यदि संस्पृशेत्।  
 श्रवणं ज्योतिषां श्रेष्ठं ब्रह्महत्यां व्यपोहति" ॥इति ॥**
 
-****यदा तु शुद्धाधिकाया दिनद्वयेऽपि श्रवणयोगः उत्तरदिन एवचोदयकालीनः सः, तदोत्तरा ग्राह्या। "उदयव्यापिनी ग्राह्या श्रवणद्वादशी व्रते" इति बृहन्नारदीयवचनात्। एतस्य च शुद्धाधिकाविषये
+यदा तु शुद्धाधिकाया दिनद्वयेऽपि श्रवणयोगः उत्तरदिन एवचोदयकालीनः सः, तदोत्तरा ग्राह्या। "उदयव्यापिनी ग्राह्या श्रवणद्वादशी व्रते" इति बृहन्नारदीयवचनात्। एतस्य च शुद्धाधिकाविषये
 
 
 
@@ -6422,7 +6422,7 @@ Sastri, M. A., Lecturer in Sanskrit, Lucknow University, Lucknow.
 
 **No. 39—**The Rama Vijaya Maha Kavya, by Rupa, Natha.  
 Edited with Introduction by Pandit Ganapati lal Jha, M. A., Sadholal Research Scholar,. Govt. Sanskrit Library, Benares.  
-**No. 40—** (Part I) —****The Kalatativa Vivechana, by Raghunatha Bhatta. With a Foreword by Principal Gopinath Kaviraj. Edited with Introduction by Pandit Nanda Kishore Sarma Sahityacharya,. Research Scholar, Govt. Sanskrit Library,. Benares.
+**No. 40—** (Part I) —The Kalatativa Vivechana, by Raghunatha Bhatta. With a Foreword by Principal Gopinath Kaviraj. Edited with Introduction by Pandit Nanda Kishore Sarma Sahityacharya,. Research Scholar, Govt. Sanskrit Library,. Benares.
 
 ![](../books_images/U-IMG-172647178014.png)
 

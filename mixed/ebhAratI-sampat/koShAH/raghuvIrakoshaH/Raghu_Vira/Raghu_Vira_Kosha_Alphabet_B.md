@@ -39,7 +39,7 @@ B** (magnetic induction) *Phys.***चू**(चुम्बकीय प्रर
 
 ***β*-spore आ. बीजाणु  
 B. A. साहित्य-स्नातक** (सा. स्ना.)  
-**Ba** (barium)*****Chem.***ह.** (हर्यातु)  
+**Ba** (barium)*Chem.***ह.** (हर्यातु)  
 **Babax** *Aves* (all the birds of this genus are noisy वावदूक) **वावदूक-प्रजाति  
 babax** *Aves* **वावदूक** *m.*  
 **babbitt = Babbitt meta।  
@@ -61,7 +61,7 @@ wren.babbler चिकुर- गुपिल**
 
 **babblesome** *adj.* (talkative) **वावदूक  
 babbling** *n.***प्रलाप, कलकल ध्वनि** *m.,* **अस्पष्ट बोलना  
-Babesia bigemina = Piroplasma bigeminum** *Zool.*****(causes Texas cattle fever) **गोज्वर-रक्तजीव  
+Babesia bigemina = Piroplasma bigeminum** *Zool.*(causes Texas cattle fever) **गोज्वर-रक्तजीव  
 babesiasis रक्तजीवरुजा** *f.*  
 **Babiana** *Bot.***(**D. *babian* 'baboon' - so named because baboons eat the bulbsकन्द**)**
 
@@ -71,7 +71,7 @@ babesiasis रक्तजीवरुजा** *f.*
 Babiana plicata** (*plicata* 'folded') **वलित कपिकन्द  
 Babiana stricta उदृजु कपिकन्द  
 babies'-slippers = Lotus corniculatus  
-babirusa** *Zool.*****(tusks of the male are large and recurved) **वक्रदन्त** *m.* **(सूकर)  
+babirusa** *Zool.*(tusks of the male are large and recurved) **वक्रदन्त** *m.* **(सूकर)  
 Babirussa** *Zool.* **वक्रदन्त-प्रजाति.  
 Babirussa alfurus** (wild hog) **वन्य वक्रदन्त  
 Babirussa babirussa सामान्य वक्रदन्त  
@@ -83,15 +83,15 @@ baby act 1.**(the act of a baby) **शिशु कार्यं,** (act of a 
 exempting from liability, as for infancy) **अवयस्क-अधिनियम**
 
 **baby bibs (**child's chin–cloth to keep dress front clean)**लाला–चूष** *n.*  
-**Babylon** *Geography*. **बावेरु** *m.*******(of the Budhist Játakas)  
+**Babylon** *Geography*. **बावेरु** *m.***(of the Budhist Játakas)  
 **baby petromax लघु उत्तापप्रावारदीप  
 baby's cot शिशु–शय्या  
 baby show बाल–प्रदर्शन  
 baby squares of flannelette शिशु–अनु–कोमला–खण्ड  
 baby wear शिशु–परिधान, बच्चों के कपड़े  
 baby weekशिशु–सप्ताह  
-bacca** *Mycology*****(a berry) **बदरी** *f.*  
-**baccate** *Botany*****(berrylike)**बदरीवत्  
+bacca** *Mycology*(a berry) **बदरी** *f.*  
+**baccate** *Botany*(berrylike)**बदरीवत्  
 baccatus** *Mycology* (berrylike)**बदरीवत्**  
 **Baccaurea** *Botany* (bacca 'berry' बदरी+aurea हेम yellow berries: Tr. III.837) **हमबदरी प्रजाति,**
 
@@ -102,7 +102,7 @@ baccatus** *Mycology* (berrylike)**बदरीवत्**
 (*halimifolia* 'leaves like *Atriplex halimus'* सामुद्र–वन्वरुहा)**सामुद्रपर्ण–वासपर्णी**
 
 **bacciform** *adjective* (shaped like a berry)**बदरीरूप  
-bachelor 1.**(of a university) **स्नातक** *m.*****2.अविवाहित** *m.*  
+bachelor 1.**(of a university) **स्नातक** *m.*2.अविवाहित** *m.*  
 **Bachelor of Agriculture कृषि–स्नातक  
 Bachelor of Arts** (with Honours) (B. A. Honours) **साहित्य–स्नातक** (ससम्मान) (सा. स्ना. सम्मा.)  
 **Bachelor of Commerce** (B.Com.)**वाणिज्य–स्नातक** (वा. स्ना.)  
@@ -120,12 +120,12 @@ Bachelor of Teaching** (B.T.) **अध्यापन–स्नातक** (�
 **Bach trumpet** (of high pitch) **उच्च तूरी  
 Bach acid स्व. अम्ल  
 Bacillaceae दण्डाणु–कुल** *n.*  
-**bacillar** *Adj.Mycology*******(rod–shaped)**दण्डाकार  
+**bacillar** *Adj.Mycology***(rod–shaped)**दण्डाकार  
 Bacillariaceae** *Botany***युक्ताप्य–कुल** *n.*  
 **Bacillariales = Diatomales** *Botany***युक्ताप्यगोत्र***n.*  
-**Bacillarieae** (comprises the diatoms)*Botany*****युक्ताप्याः*****m. pl.*  
+**Bacillarieae** (comprises the diatoms)*Botany*युक्ताप्याः*m. pl.*  
 **Bacillariophyceae = Bacillariaceae  
-Bacillariophyta = Bacillarieae** *Botany*****युक्ताप्याः***m. pl.*  
+Bacillariophyta = Bacillarieae** *Botany*युक्ताप्याः***m. pl.*  
 **bacillaris** *Adj. Mycology* (rod–shaped)**दण्डाकार  
 bacillary** *Adj*1.(rod–shaped)**दण्डाकार***2.Bacteriology*(Latinbacillum 'little staff')**दण्डाण्वीय, दण्डाणु  
 bacillary dysentery दण्डाणु–आमातिसार  
@@ -133,12 +133,12 @@ bacillary layer दण्डाण्वीय स्तर
 bacillary rods दण्डाण्वीय दण्ड  
 bacill–emia दण्डाणु–रक्तता  
 bacilli=bacillo-**(bacillus) **दण्डाणु  
-bacillicidal, bacillicidic** *Adj.*****दण्डाणुघ्न, दण्डाणुघ्नीय  
+bacillicidal, bacillicidic** *Adj.*दण्डाणुघ्न, दण्डाणुघ्नीय  
 bacillicide दण्डाणुघ्न***m.*  
-**bacillicidic, bacillicidal** *Adj.*****दण्डाणुघ्नीय, दण्डाणुघ्न  
-bacilliform** *Adj.*****(rod–shaped) **दण्डाकार  
-bacilli–genic, bacillo–genic** *Adj.*****(caused by bacilli) **दण्डाणु–कृत  
-bacilli–parous** *Adj.*******(producing bacilli)**दण्डाणु–सृट्  
+**bacillicidic, bacillicidal** *Adj.*दण्डाणुघ्नीय, दण्डाणुघ्न  
+bacilliform** *Adj.*(rod–shaped) **दण्डाकार  
+bacilli–genic, bacillo–genic** *Adj.*(caused by bacilli) **दण्डाणु–कृत  
+bacilli–parous** *Adj.***(producing bacilli)**दण्डाणु–सृट्  
 bacillite** *Petrography* (a rod–like crystallite) **दण्डोपल***m.*  
 **bacillo. = bacilli  
 bacillogenic = bacilligenic  
@@ -684,7 +684,7 @@ Hirschfeld's Bacillus = Salmonella hirschfeldii
 **bacillus** **of Kartueis,Hemophilus ofKoch–Weeks**  
 **Kedrowski's bacillus अपिमहाकुष्ठ द.**  
 **Kitasato's** **bacillus** *see***Pasteurella pestis**  
-**Klebs–Loffler****bacillus***see***Corynebacterium**
+**Klebs–Lofflerbacillus***see***Corynebacterium**
 
 **diphtheriae**  
 
@@ -712,7 +712,7 @@ the liver produced by injecting butter) **संयक्ष्मनवनी�
 **Bacillus** **lactis peptonans पाचाकर दुग्ध-द.**  
 **Bacillus** **lactis pituitosi** (from ropy milk) **दाम-दुग्ध-द.**  
 **Bacilluslactis saponacei** (from soapy milk) **स्वफेन–दुग्ध–द.**  
-**Bacillus****lactis viscosi=Alcaligenes viscosus आलग दुग्ध–द.**  
+**Bacilluslactis viscosi=Alcaligenes viscosus आलग दुग्ध–द.**  
 **Bacillus** **lactoprophylbutyricus दुग्धप्रमेलघृतिक-द.**  
 **Bacillus** **lactorubefaciens**(causes milk to become red and slimy)**अरुणदुग्ध-द.**  
 **Bacillus** **lacunatus=** **Hemophilus ofMorax–Axenfeld**  
@@ -720,7 +720,7 @@ the liver produced by injecting butter) **संयक्ष्मनवनी�
 **Bacillus** **latericeus** (produces brick–red pigment) **इष्टकारक्त द.**  
 **Bacilluslepisepticus=Pasterella cuniculicida**  
 **Bacillus** **leporis lethalis** (from the intestines of yellow–fever cadavers)**पीतज्वर–शव–द.**  
-**Bacillus** **leprae=****Mycobacterium leprae Lesage's** **bacillus** (from the green, alvine discharges
+**Bacillus** **leprae=Mycobacterium leprae Lesage's** **bacillus** (from the green, alvine discharges
 
 
 
@@ -735,9 +735,9 @@ of infants) **हरितविसार-द.**
 **Bacillus** **liquefaciens communis** (from yellow–fever feces) **पीतज्वर-तरलक-द.**  
 **Bacillus** **liquefaciens magnus महा-तरलक द.**  
 **Bacillus** **liquefaciens parvus** (forms crooked filaments) **वक्र तरलक द.**  
-**Bacillus** **liquidus****तरल–द.**  
+**Bacillus** **liquidusतरल–द.**  
 **Bacillus** **litoralis** (from seaweed) **समुद्र–वास–द.**  
-**bacillus****of Loeb= capsule** **bacillus of Loeb** (from a case of keratomalaciainfantum)
+**bacillusof Loeb= capsule** **bacillus of Loeb** (from a case of keratomalaciainfantum)
 
 **मृदुस्वच्छा-द.**
 
@@ -752,7 +752,7 @@ of infants) **हरितविसार-द.**
 **पीत–द.**
 
 **Bacillus** **lymphangitidis** **ulcerosa = Corynebacterium pseudotuberculosis**  
-**Bacillus** **lyssae****आलर्कीय द.**  
+**Bacillus** **lyssaeआलर्कीय द.**  
 **Bacillus** **maidis** (from the stools of patients with pellagra) **वल्कचर्मीय द.**  
 **Bacillus** **malariae** **हिमज्वरीय द.**  
 **Bacillus** **mallei=Malleomyces mallei**  
@@ -892,7 +892,7 @@ Plasencia's Bacillussee Bacillus influenzae motilis
 
 cattle which died of contagious pneumonia) **गो–क्लोमपाक-द.**
 
-**Bacillus pneumosepticus** *see*****Klebsiella pneumoniae**  
+**Bacillus pneumosepticus** *see*Klebsiella pneumoniae**  
 **pole bacillus = Czaplewski's bacillus**  
 **Bacillus porri** (said to be the specific cause of warts)**चर्मकीलीय द.**  
 **bacillus** **of potato–rot** **गलितालु–द.**  
@@ -903,13 +903,13 @@ cattle which died of contagious pneumonia) **गो–क्लोमपाक-�
 **Bacillus** **proteussepticus** (from septic gangrene of the colon) **आन्त्रकोथीय नानारूप द.**  
 **Bacillus** **proteus vulgaris =Proteusvulgaris**  
 **Bacillus** **proteus X19** (an organism at one time thought to cause typhus fever) **नानारूप क्ष १९ द.**  
-**Bacillus****pseudoanthracis** (a bacillus resembling that of anthrax) **कूटप्लीहज्वर द.**  
-**Bacillus****pseudobutyricus**(bacillus from milk, turning the latter bitter) **कटु–दुग्ध–द.**  
-**pseudodiphtheria****bacillus****कूटप्रबलास–द.**  
+**Bacilluspseudoanthracis** (a bacillus resembling that of anthrax) **कूटप्लीहज्वर द.**  
+**Bacilluspseudobutyricus**(bacillus from milk, turning the latter bitter) **कटु–दुग्ध–द.**  
+**pseudodiphtheriabacillusकूटप्रबलास–द.**  
 **Bacillus** **pseudodiphthericus = Corynebacterium pseudodiphtheriae**  
 **bacillus** **of pseudoedema कूटशोफ–द.**  
 **Bacillus** **pseudomallei =Malleomycespseudomallei**  
-**Bacillus** **pseudomurisepticus****कूटमूषघ्न द.**  
+**Bacillus** **pseudomurisepticusकूटमूषघ्न द.**  
 **Bacillus** **pseudopneumonicusकूट–क्लोमपाक द.**  
 **bacillus** **of pseudorabies** (from the cerebral fluid of rabbit that died from inoculations of a
 
@@ -917,14 +917,14 @@ rabid wolf) **कूटालर्क–द.**
 
 **Bacillus** **pseudosepticus** (from mice inoculated with feces)**शाकृतपूय द.**  
 **Bacillus pseudotetani =Clostridiumtetanomorphum**  
-**Bacillus** **pseudotuberculosis** **=** **Corynebacterium****pseudotuberculosis**  
+**Bacillus** **pseudotuberculosis** **=** **Corynebacteriumpseudotuberculosis**  
 **Bacillus** **pseudotuberculosismurium**(resembles *Corynebacterium diphtheriae*, pathogenic
 
 for mice and guinea pigs) **मूष–कूटयचम–द.**
 
 **Bacillus** **pseudotuberculosis** **ovis = Corynebacterium ovis**  
 **Bacillus** **pseudotuberculosis similis**(resembles *Bacillus psuedotuberculosis*)**कूटयक्ष्म–सदृश द.**  
-**Bacillus** **psittacosis** *see*****Salmonella typhimurium**  
+**Bacillus** **psittacosis** *see*Salmonella typhimurium**  
 **Bacillus** **puerperalis** (from cases of puerperal sepsis)**अनुसूति–द.**  
 **Bacillus** **pullorum** *see***Salmonella pullorum**  
 **Bacillus pulpae pyogenes** \[a pathogenic germ (Flavobacterium) from gangrenous tooth
@@ -935,15 +935,15 @@ pulp\]
 
 **विद्रधि–द.**
 
-**Bacillus putrificus***see*****Clostridium leutoputrescens**  
+**Bacillus putrificus***see*Clostridium leutoputrescens**  
 **Bacillus pyelonephritidis bovis** (causes pyelonephritis in cows) **गो–बृक्ककोप–द.**  
 **Bacillus pyocinnabareus** \[a bacillus (Serratia) from red pus\] **हिंगुलपूय द.**  
 
-**Bacilluspyocyaneus** *see*****Pseudomonas aeruginosa**  
-**Bacillus** **pyocyaneus foetidus नीलपूय****दुर्गन्ध द.**  
+**Bacilluspyocyaneus** *see*Pseudomonas aeruginosa**  
+**Bacillus** **pyocyaneus foetidus नीलपूयदुर्गन्ध द.**  
 **Bacilluspyogenes=Corynebacteriumpyogenes**  
 **Bacillus** **pyogenes anaerobicus जारक–भीरु पूयजन द.**  
-**Bacillus** **pyogenes bovis =****Corynebacterium pseudotuberculosis**  
+**Bacillus** **pyogenes bovis =Corynebacterium pseudotuberculosis**  
 **Bacillus** **pyogenes cloacinus** (from sewage) **मलप्रवाह–पूजयन–द.**  
 **Bacillus** **pyogenes crasus** *see* **Klebsiella pneumoniae**  
 **Bacillus** **pyogenes foetidus** *see* **Eberthella pyogenes**  
@@ -961,14 +961,14 @@ pulp\]
 **Bacillus** **rhinoscleromatis=Klebsiella rhinoscleromatis**  
 **Bacillus** **rhusiopathiae suis=Erysipelothrix rhusiopathiae**  
 **Roger's bacillus** (found in certain cases of dysentery–like enteritis) **वान्त्रकोप–द.**  
-**Rosenbach's bacillus =Bacillus****saprogenes**  
+**Rosenbach's bacillus =Bacillussaprogenes**  
 **Bacillus** **rubellus** (produces a pale–red pigment) **आताम्र द.**  
 **Bacillus** **rubidus** (produces a brownishred pigment) **ताम्र द.**  
 **Bacillus** **rudensis** (causes the rusty spots on American cheddar cheese)**मण्डूर–द.**  
 **Bacillus** **saccharobutyricus** (a zymogenic form from certain kinds of cheese)**मधुर दधिक–द.**  
-**Bacillus** **saccharobutyricus immobilis** *see*****Clostridium perfringens**  
+**Bacillus** **saccharobutyricus immobilis** *see*Clostridium perfringens**  
 **Bacillus** **salivarius septicus***see* **Diplococcus pneumoniae**  
-**Sanarellis bacillus** *see*******Salmonella icteroides**  
+**Sanarellis bacillus** *see***Salmonella icteroides**  
 **Bacillus** **sanguinarium** *see* **Shigella gallinarum**  
 **Bacillus** **saprogenes पूयजन द.**  
 **Bacillus** **saprogenes vini** (found in putrefying wine) **मद्य–पूयजन–द.**  
@@ -1215,7 +1215,7 @@ back or forward reference पिछला अथवा अगला निर्
 Mn, उदजार- forउदजारेय hydroxide -इज for खनिज mineral)
 
 **back-swimmer** *Zool.* **पृष्ठप्लावी**(-इन्)  
-**back-titrate** *vb. **** Chem.***पश्च-इयदीक्षण**  
+**back-titrate** *vb.  Chem.***पश्च-इयदीक्षण**  
 **back-titration** *Chem.***पश्च-इयदीक्षा  
 back up समर्थन करना**  
 **backwall cell** *Phys.***पश्चभित्ति-कोशा**  
@@ -1258,7 +1258,7 @@ shaped)
 **bacterial** adj. **शाकाण्वीय;** (consisting of, resulting from, caused by ....)**शाकाणु-युत, ०जात, ०कृत**  
 **bacterial activity शाकाणु-क्रियाशीलता**  
 **bacteria** **antagonism** (McLean I.357)**शाकाणु-प्रतिरोध**  
-**bacterial attack****शाकाणु-आक्रमण**  
+**bacterial attackशाकाणु-आक्रमण**  
 **bacterial cell** *Bot.***शाकाणु-कोशा  
 bacterial colony शाकाणु-मण्डल  
 bacterial countशाकाणु-गणना  
@@ -1273,7 +1273,7 @@ bacterial nodule** *Bot.***शाकाणु-ग्रन्था, शाक�
 **bacterian, bacteric = bacterial**  
 **bactericidal** *adj.* **शाकाणुघ्नीय, शाकाणुघ्न**  
 
-**bactericidalproperties****शाकाणुघ्न गुण**  
+**bactericidalpropertiesशाकाणुघ्न गुण**  
 
 **Dactericideशाकाणुघ्न** *m.*  
 **bactericidin** (*bactericide + -in*)*Immunol.* **शाकाणुघ्नि** *f.*  
@@ -1319,7 +1319,7 @@ bacterio-purpurin** *Biochem.* (a red colouring matter present in some (bacteria
 **bacterioscopic, bacterioscopical** *adj.* **शाकाण्वीक्षीय  
 bacterioscopist शाकाण्वीक्षक** *m.*  
 **bacterioscopy शाकाण्वीक्षा***f.*  
-**bacteriosis** *Plant Pathol.*****(any bacterial disease of plants) **शाकाणुरुजा** *f.*  
+**bacteriosis** *Plant Pathol.*(any bacterial disease of plants) **शाकाणुरुजा** *f.*  
 
 **bacterio-solvent शाकाणु-विलायक  
 bacterio-stasis** *Bact.***शाकाणु-स्थाय** *m.*  
@@ -1683,7 +1683,7 @@ rostrata तुण्डी पृष्ठपत्र
 
 account)**आधिक्य** *n***.**
 
-**Balance = Libra** *Astronomy* **तुला** *f*. **balance** *vb.* ** 1.तोलन, तोलना 2*.****Commerce and accounts* ****
+**Balance = Libra** *Astronomy* **तुला** *f*. **balance** *vb.* ** 1.तोलन, तोलना 2*.Commerce and accounts* 
 
 **संतुलन,समपार्श्वन 3.***Chem*. (to complete an equation so that the same number of atoms of each kind appears on each side) **तुल्यन**
 
@@ -1929,7 +1929,7 @@ bamboo partridge वेणु-तित्तिर
 bamboo rat वेणु-मूषक  
 bamboo seed बांस के बीज  
 bamboo splints बांस की खपचियां  
-bamboo-splitter वेण** *m.*****(वेणोर्भेदनेन यो जीवति – Kullūka 4.215)  
+bamboo-splitter वेण** *m.*(वेणोर्भेदनेन यो जीवति – Kullūka 4.215)  
 **bamboo stick बांस की छड़ी  
 bamboo sugar** (tabasheer) **त्वक्क्षीरा** *f.,* **वंशलोचन** *n.*  
 **bamboo toys बांस के खिलौने  
@@ -1953,7 +1953,7 @@ Bambusicola** *Aves* **वेणुवासि-प्रजाति** (the bir
 
 jungles वेणु. *Bambusa*
 
-'genus ofbamboos' + *-cola* 'living)****
+'genus ofbamboos' + *-cola* 'living)
 
 **bambusoides** *Bot. Tax.* (resembling bamboo) **वंशाभ  
 ban** *n.***1.प्रणिषेध** *m***., रोक, 2.**(announcement of an intended marriage) **विवाहघोषणा** *f.* (see also
@@ -1962,7 +1962,7 @@ banns)
 
 **ban** *vb.* (to forbid authoritatively प्र )**प्रणिषेधन, प्रणिषेध करना, रोक लगाना forbid निषेध करना**  
 
-**banana 1.कदली** *f.***,केला, 2.= sunbeam** (acolour, reddish-yellow****पीतारक्त in hue, and of high प्र
+**banana 1.कदली** *f.***,केला, 2.= sunbeam** (acolour, reddish-yellowपीतारक्त in hue, and of high प्र
 
 brilliance) **प्रपीतारक्त**
 
@@ -1981,7 +1981,7 @@ banana solution कदली-विलयन
 bananist** (abananivorous bird) **कदली-भक्ष** *m.*  
 **bananivorous** *adj.* **कदली-भक्षी (-इन् )  
 Banasore laughing thrush** *Aves* **बाणेश्वर वाक्कार** (Banasore बाणेश्वर )  
-**banatite** *Petrog.*****(group of rocks, chiefly quartz-diorites स्फटिक तिरः-शृंगाश्म) **स्फतिरोश्म** *m***.  
+**banatite** *Petrog.*(group of rocks, chiefly quartz-diorites स्फटिक तिरः-शृंगाश्म) **स्फतिरोश्म** *m***.  
 band 1.पट्टी** *f.,***2.***Forestry* **पट्टी** *f.***, 3.गुट्ट, 4.पट्टा  
 band** *vb.***पट्टी बांधना, बांधना, पट्टीबन्धन, बन्धन, षड्यन्त्र रचना, इकट्ठे होना  
 bandage** *n.* **पट्टी  
@@ -1990,7 +1990,7 @@ bandagist** (a maker of bandages) **पट्टीकार** *m.*
 **band allowance** (RTA. 47 ) **वाद्य-अधिदेय  
 B and C class seed farmers ख और ग वर्गीय बीज-कृषक  
 band chain** *Surveying***पट्टी-श्रृंखला  
-banded** *adj****.* पट्टीमय, पट्टित, रेखित  
+banded** *adj.* पट्टीमय, पट्टित, रेखित  
 banded anteater पट्टितवम्राद  
 banded bay cuckoo** *Aves* **राजपट्टिक चातक  
 banded crake ** *Aves***चित्रांग** *m.* (ancient word)  
@@ -2244,7 +2244,7 @@ banns***Law***विवाहघोषणा***f.*
 **banquet भोज, महाभोज***m.*  
 **bans= banns**  
 **banting गोमृग** *m.* (ancient word forgaur, to which it is very similar)  
-**banwort 1. = wallflower** (*Cheiranthus cheiri*) **भित्तिपुष्प** *m.,*******2. = golden rod** (*Solidago virga-*
+**banwort 1. = wallflower** (*Cheiranthus cheiri*) **भित्तिपुष्प** *m.,***2. = golden rod** (*Solidago virga-*
 
 *aurea*)
 
@@ -2330,7 +2330,7 @@ its upper jaw)**चतुःस्पृशा** *f.*
 
 *f.*
 
-**barberry bark = berberidis cortex** *Pharmacy*****(from *Berberis vulgaris*) **हिमहरिद्रा-वल्क**  
+**barberry bark = berberidis cortex** *Pharmacy*(from *Berberis vulgaris*) **हिमहरिद्रा-वल्क**  
 **barberry extract = berberine**  
 **barbet** (a bird) **पिणल** *m.* (ancient name-so called on account of feeding on fig-berries)  
 **barbicel** *Zoology* **अनुपच्म***n.*  
@@ -2490,7 +2490,7 @@ barium yellow हर्यातु पीत** (acolour, reddish-yellow पी�
 
 **underbark अधोवल्क**
 
-**bark** *vb.* **1.*****=*****debark** *Forestry* **वल्कापनयन, छाल निकालना, छाल छुढ़ाना, 2.छिलका उतारना  
+**bark** *vb.* **1.*=*debark** *Forestry* **वल्कापनयन, छाल निकालना, छाल छुढ़ाना, 2.छिलका उतारना  
 bark** *vb.* **भौंकना, भौंसना  
 barkan = barchan  
 bark beetle वल्क-भृंग  
@@ -2516,7 +2516,7 @@ barking deer लोहितमृग** (cf. its Nepali name *ratwa*. लोह�
 bark liquor** *Dyeing* **वल्क-रस  
 bark-liver वल्कवासी** (-इन्) *m.*  
 **barko-meter वल्कमान** *m.***= tannometer शल्कमान** *m.*  
-**bark-scorching, sun scald** *Forestry **वल्क*****-दाह, छाल मुलसना, सूर्य-दाह  
+**bark-scorching, sun scald** *Forestry **वल्क*-दाह, छाल मुलसना, सूर्य-दाह  
 bark spud = barking iron  
 bark structure वल्क-संरचना  
 Barleria** *Bot.***कुरण्ट-प्रजाति  
@@ -2573,7 +2573,7 @@ barograph** *Meteorol.***वापीडलिख** *m.*
 in any fluctuating state)**स्थितिमान** *m.*
 
 **barometer gauge वापीडमानामान** (gauge आमान)  
-**barometric** *adj****.* वापीडमन-, वापीडमानीय  
+**barometric** *adj.* वापीडमन-, वापीडमानीय  
 barometric height वापीडमानीय उच्चता  
 barometric levelling** *Surv.***वापीडमानीय संतलन  
 barometric pressure वापीड, वापीडमानीय निपीड  
@@ -2606,7 +2606,7 @@ barrator** (one guilty of barratry) **- वादव्यसनी** (-इन�
 **barratrous** *adj.* **वादव्यसनी** (-इन्)  
 **barratry 1.***Civil Law* (judicial corruption) **न्यायभ्रष्टता** *f.,***2. वादोत्तेजन, वादव्यसन** *n.,***3.***Mar.*
 
-*Law*****(commission of any fraud upon the owners or insurers of a ship— Wharton) **प्रतारणा** *f.,***judicial corruption न्यायिक भ्रष्टता**
+*Law*(commission of any fraud upon the owners or insurers of a ship— Wharton) **प्रतारणा** *f.,***judicial corruption न्यायिक भ्रष्टता**
 
 **barred** *adj.* **रुद्ध, अवष्टब्ध, तिरोहित time-barred काल-तिरोहित** (from कौटल्य's अर्थशास्त्र)  
 **barred by limitation** *Law* **अवधि-रुद्ध  
@@ -2658,7 +2658,7 @@ barren oak = bear oak** (*Quercus pumial*) (*pumila*'dwarfish') **क्षु�
 **barrister = barrister-at-law विधिवक्ता** (-तृ) *m.*  
 **barrister-at-law विधिवक्ता** (-तृ) *m.*  
 **barristers chamber विधिवक्तृ-मण्डल**  
-**bar room** **1.**(where liquors are served) **पान-कोष्ठ,****2.वैधिक-कोष्ठ**  
+**bar room** **1.**(where liquors are served) **पान-कोष्ठ,2.वैधिक-कोष्ठ**  
 **barrow वाहिका***f.*  
 **bars-flats दण्ड-चपटे**  
 **bars-hexagon दण्ड-षट्कोण**  
@@ -2683,7 +2683,7 @@ barter***n.***वस्तु-विनिमय** *m.*, **भाण्ड-प�
 **barter trade agreement वस्तुविनिमय व्यापार-संविद्**  
 **Bartlett white lead = basic sulphate white lead**  
 **bar to advancement उन्नति में रुकावट, उन्नति-रोध**  
-**Bartonella** (B) *Bacteriology***ज्वराणु-प्रजाति** (ज्व.),**Bartonella** **bacilliformis****चर्मकील-ज्व.**  
+**Bartonella** (B) *Bacteriology***ज्वराणु-प्रजाति** (ज्व.),**Bartonella** **bacilliformisचर्मकील-ज्व.**  
 **Bartonia** *Botany* **1.**(having scale-like leaves) **शल्कपर्णी-प्रजाति** (scale शल्क)**2.=**
 
 **MentzeliaBartonia**
@@ -2703,7 +2703,7 @@ mineral; distinguished from alamosite सीस-सैकिज)
 **barysphere** *Geology* (the heavy interior portion of the earth)**भारिमण्डल** *n.*  
 **baryta** *Chemistry*(barium monoxide) **हरिजा** *f.*  
 **baryta feldspar हरिजा-स्फतीय**  
-**baryta paper** (herebaryta = barium) *Photography****हर्यातु-पत्र***  
+**baryta paper** (herebaryta = barium) *Photographyहर्यातु-पत्र***  
 **baryta solution हरिजा-विलयन**  
 **baryta water** *Chemistry* (barium hydroxide) **हरिजा-जल** (हर्यातु उदजारेय)  
 **baryta white = barium sulphate** *Chemistry***हर्यातुशुल्बीय**  
@@ -2718,7 +2718,7 @@ mineral)
 **Barytheria** *Paleontology* (order) **भारिस्तनिगण** *m.*  
 **Barytherium** *Paleontology* (Gk. *baros*'weight' + -therium) **भारिस्तनि-प्रजाति**  
 **barytine = barite**  
-**baryto-*****Mineralogy* (denoting*barytic* and) **हरिजा-**  
+**baryto-*Mineralogy* (denoting*barytic* and) **हरिजा-**  
 **baryto-calcite हरिजा-चूर्णिज** *m.* (-इज for खनिज mineral)  
 **baryto-celestite हरिजा-शोशुल्बिज** *m.* (-इज for खनिजmineral) **celestite शोशुल्बिज**  
 **barytron = meson** *Elec.*  
@@ -2729,7 +2729,7 @@ mineral)
 **basal cell** *Zoology* **आधार-कोशा**  
 **basal disc** **1.आधार-बिम्ब2.***Zoology* **अधो-बिम्ब**  
 **basal dressing प्रारम्भिक खादवपन**  
-**basal granule***Biology*****(granule basal आधार to flagellum कशा ) **कशाधार-कणिका, आधार-कणिका**  
+**basal granule***Biology*(granule basal आधार to flagellum कशा ) **कशाधार-कणिका, आधार-कणिका**  
 **basal growth** *Botany***आधारीय वृद्धि**  
 **basalia** *Zoology***आधारक** *m.*  
 **basal manuring प्रारम्भिक खादवपन**  
@@ -2855,7 +2855,7 @@ basic art आधार-कला**
 **basicindustry = key industry** *Commerce***आधारोद्योग**  
 **basic intrusives** *Geology***अल्पसिकत नितुन्न**  
 **basic iron पैठिक अयस्**  
-**basicity** *Chemistry***1.**(quality, state, or degree of being a buse) **पीठता** *f.****,*2.**(power of an acid to
+**basicity** *Chemistry***1.**(quality, state, or degree of being a buse) **पीठता** *f.,*2.**(power of an acid to
 
 react with one or more equivalents of a base) **पैठिकता** *f.*
 
@@ -2921,11 +2921,11 @@ basic year imports आाधार-वर्ष-आयात**
 **Basidiolichenes** *Bot.***प्रकणीकवाप्याः** *m.pl.*  
 **Basidiomycetes** *Bot.***प्रकणीकवकानि** *n.pl.,***प्रकणीकवक-वर्ग** *m.*  
 **Basidiophora entospora** *Bot.***अन्तर्बीजाणुक प्रकणीधर  
-basidiophore** *Bot.*****(bearing basidiaप्रकणीधर) **प्रकणोधरी** (-इन् ) *m.*  
+basidiophore** *Bot.*(bearing basidiaप्रकणीधर) **प्रकणोधरी** (-इन् ) *m.*  
 **basidiospore** *Bot.***प्रकणी** *f.Cf***. gonidium कणी  
 basidiosporus** *adj Mycol.* (with spores borne on stalks) **वृन्तबीजाणु  
 basidium** Bot.**प्रकणीधर** *m.*  
-**basidorsal** *adj. Zool.*****(it is anterior अग्र) **अग्रोत्तर  
+**basidorsal** *adj. Zool.*(it is anterior अग्र) **अग्रोत्तर  
 basi-facial axis** *Zool.* **मुखाधार अक्ष  
 basification** *Chem.***पीठन** *n.*  
 **basifier***Chem. **पीठकार** m.*  
@@ -2934,7 +2934,7 @@ basification** *Chem.***पीठन** *n.*
 basifixed anther आधारलग्न परागाशक्य  
 basifugal** *adj. Mycol.* (developing वर्धी from the base आधार upwards
 
-उद्) **आधारोद्वर्धी** (-इन्)****  
+उद्) **आधारोद्वर्धी** (-इन्)  
 
 **basify** *vb.Chem.* (to convert into a base) **पीठन  
 basihyal** *Zool.***1.***n.* (abroad median plate constituting the basal
@@ -2970,7 +2970,7 @@ basin of a river** *Geog.*(the entire tract of country drained by a river) **न
 basin-shaped valley पात्री-रूप दरी (घाटी)  
 basin-wide plan** *Irrig.***समस्त नदीक्षेत्रयोजना  
 basioccipital** *adj. Anat., Zool.***पश्च कपालाधार  
-basipetal** *adj. Bot.*****(doveloping toward the base) **आधाराभिवर्धी**(-इन्)  
+basipetal** *adj. Bot.*(doveloping toward the base) **आधाराभिवर्धी**(-इन्)  
 **basipetal succession** *Bot.***आधागभिवर्धी क्रम  
 basiphil = basophi।  
 basiphil cell** *Zool.***पीठरञ्ज्यकोशा  
@@ -2978,14 +2978,14 @@ basipterygium** *Zool.* **आधारपक्षक** *m.*
 **basi-pterygium***n***.** *Zool.* **आधार-त्रिवेणी** *f.*  
 **basipterygoid processआधारत्रिवेणी-प्रवर्ध  
 basi-ring** *Zool.* **अग्र-वलय  
-basis 1.आधार** *m.,***2.**(of a clitf) **पाद, आधार** *m.* **तलहटी, 3.***Chem.*****(base) **पीठ** *n.*  
+basis 1.आधार** *m.,***2.**(of a clitf) **पाद, आधार** *m.* **तलहटी, 3.***Chem.*(base) **पीठ** *n.*  
 
 **basis and scope आधार और क्षेत्र  
 basis cranii** *Zool.***कर्पराधार**  
 
 **basis for calculating गणन-आधार  
 basisphenoid** *n.* **= basisphenoid bone  
-basisphenoid** *adj. Zool.**ज*****तुकाधार  
+basisphenoid** *adj. Zool.**ज*तुकाधार  
 basisphenoid bone** *Anat., Zool.* **जतुकाधार-अस्थि  
 basi-temporal** *adj.* **शंखकाधार  
 basi-ventral** *adj. Zool.* **अग्राधर** (it is anterior)  
@@ -2996,7 +2996,7 @@ basket-maker पिटककार** *m.,***टोकरी बनानेव�
 **basketmakers' cooperative society पिटककार-सहकारि-समिति  
 basket-maker's ware = basket-work  
 basket-making पिटक-निर्माण, टोकरी बनाना  
-"basket of eggs'' topography** *Geol.*****(Holmes p. 230) **अण्डपिटक-भूम्याकार  
+"basket of eggs'' topography** *Geol.*(Holmes p. 230) **अण्डपिटक-भूम्याकार  
 basket planting = planting in baskets** *Forestry* **पिटक-रोपण, टोकरी सहित पौधा लगाना  
 basket shape jaggery** (FAM. II. 498) **बाल्टी भेली  
 basket test tube पिटक-परीक्षण-नाल  
@@ -3221,7 +3221,7 @@ battle array संग्राम-व्यूहरचना**
 **battle practices संग्रामाभ्यास**  
 **battle-range** (range best suited to firing on an enemy's line of battle)**गोलन-सीमा**  
 **battle royal** **1.**( a free fight) **निर्बन्ध संग्राम2.**(a preeminent battle) **राज-संग्राम**  
-**battleship****रण-पोत** *m.***shipof war युद्ध-पोत, युद्ध-जलयान**  
+**battleshipरण-पोत** *m.***shipof war युद्ध-पोत, युद्ध-जलयान**  
 **battlezone** *Mil.* **संग्राम-परिधि**  
 **battue** *vb.* (act of beating woods, bushes etc, to drive or entice game from cover) **हांका करना**  
 **bat willow = Salix coerulea**  
@@ -3385,7 +3385,7 @@ beadsman** (porsons who devote themselves to prayer) **जपिया** (used i
 beaked whale चञ्चु-तिमि  
 beaker** *Chemistry***चञ्चुकी** (-इन् ) *m.,***porcelain beaker मृत्सा-चन्चुकी, pyrex beaker अग्निराज**
 
-**चञ्चुकी, schola beaker** ( students' quality)****छात्र- चञ्चुकी, steel analysis beaker वज्रायस विश्लेषण-चञ्चुकी**
+**चञ्चुकी, schola beaker** ( students' quality)छात्र- चञ्चुकी, steel analysis beaker वज्रायस विश्लेषण-चञ्चुकी**
 
 **beaker cover चञ्चुकी-आवरण  
 beaker flask चञ्चु-पलिघ** (a flask with a चञ्चु)  
@@ -3409,7 +3409,7 @@ bean anthracnose शिम्बी कालव्रणा**
 **bean goose** *(Germ. Wildgans)***वन्यहंस  
 bean-shaped** *adj.* **राजमाषाकार  
 beanstick सेम-छड़ी, शिम्बी-यष्टि  
-bear 1.ऋक्ष** *m.***, रीछ 2.***Exchanges* **मूल्यपाती** (-इन्)*****m.* **मन्दी-वाला  
+bear 1.ऋक्ष** *m.***, रीछ 2.***Exchanges* **मूल्यपाती** (-इन्)*m.* **मन्दी-वाला  
 bear** *vb.***वहन करना, उठाना, सहना  
 bear account मुल्यपातीलेखा  
 bear-animal cub** Zoology**ऋक्षाणु** *m.*  
@@ -3437,7 +3437,7 @@ bearer 1.**(one who bears or carries) **वाहक***m.***2.**(of hereditary c
 
 *m.***3.**
 
-*Commerce*****(one who holds a cheque, note, draft or other order for the payment of money) **वाहक** *m.* (as in: payable to bearer वाहक देय)**4.**(in a laboratory ) **प्रेष्य** *m.***5.***Cookery* **परिवेषक** *m.***6.**( a house-servant)**भृत्य** *m.*
+*Commerce*(one who holds a cheque, note, draft or other order for the payment of money) **वाहक** *m.* (as in: payable to bearer वाहक देय)**4.**(in a laboratory ) **प्रेष्य** *m.***5.***Cookery* **परिवेषक** *m.***6.**( a house-servant)**भृत्य** *m.*
 
 **bearer bond** *Economy***वाहक-बन्ध  
 bearer cheque वाहक-धनादेश  
@@ -3504,7 +3504,7 @@ who beats up game) **हांके वाला**
 **beat guard** *Forestry* **परिसर-रक्षी**  
 **beating of the heart** *Anatomy* **हृत्स्पन्दन, हृदय का स्पन्दन**  
 **beating reed** *Music* **आहनन-विपा**  
-**beat of drum डिंडिम-आहनन** (Gilgit MSS.), **ढिंढोरा पीटना****by beat of drum डौंडी पीट कर**  
+**beat of drum डिंडिम-आहनन** (Gilgit MSS.), **ढिंढोरा पीटनाby beat of drum डौंडी पीट कर**  
 **beats** (of a block instrument) *Rly.***आवात***m.*  
 **beat up** *vb.* *Forestry* (to fill in failures in an artificially regenerated area with fresh sowings
 
@@ -3558,7 +3558,7 @@ gardens,and is a native of the eastern Himalaya— Tr. II. 663) **महाप�
 **Beavan's wren-warbler** *Aves* **रक्ताभ चिकुर-कूजिनी**  
 **beaver** *Zoology* (remarkable for constructing its houses and dams across streams) **सेतूद्र** *m.*  
 
-**bebeerine** *Chemistry*****(it has been used as a substitute for quinineविज्वरी) **प्रतिज्वरी** *f.*  
+**bebeerine** *Chemistry*(it has been used as a substitute for quinineविज्वरी) **प्रतिज्वरी** *f.*  
 **bebeerine sulphate** *Chemistry***प्रतिज्वरी शुल्बीय  
 bebeeru = green-heart** (an evergreen tree) **प्रतिज्वर, हरिहृद्** *m.* (its bark yields bebeerine)  
 **beberine = bebeerine  
@@ -3567,7 +3567,7 @@ becalm** *vb.* **1. शान्त करना, शमन 2.** (आगे च�
 **because यतः,क्योंकि  
 because ofके कारण, के हेतु  
 beche-de-mer = trepang  
-Beckmann rearrangement, reaction, transposition***Chemistry*****(a rearrangement by which a
+Beckmann rearrangement, reaction, transposition***Chemistry*(a rearrangement by which a
 
 ketoximeशौजावि changes into an amide derivative) **अपिशौजावि पुनर्विन्यास,प्रतिक्रिया, व्यत्यय**
 
@@ -3580,7 +3580,7 @@ Beckmann's freezing point apparatus अपिसूक्ष्म श्या�
 Beckmann thermometer** *PhysicalChemistry***अपिसूक्ष्म तापमान  
 Beckmann transformation = Beckmann transposition अपिशौजावि व्यत्यय  
 beckon** *vb.* **संकेत करना, संकेत से बुलाना  
-becky-leaves** (horsecress,*****Veronicabeccabunga*) **अश्वशाक** *m.*  
+becky-leaves** (horsecress,*Veronicabeccabunga*) **अश्वशाक** *m.*  
 **become** *vb.* **होना  
 become cognisant संज्ञान होना  
 become useless and inoperative अनुपयोगीऔर अप्रवर्ती होना  
@@ -3597,7 +3597,7 @@ bed 1.शय्या** *f.***2.**(the right of cohabitation *or*marital interco
 bedbug खट्वामल, मत्कुण** *m.***खटमल  
 bed cover शय्यावरण  
 bedda nut** *(Terminalia belerica)* **विभितक** *m.,* **बहेड़ा**  
-**bedded** *Geology*****(deposited in layers, stratified) **तल्पास्तृत  
+**bedded** *Geology*(deposited in layers, stratified) **तल्पास्तृत  
 bedding बिस्तर, बिछौना, शय्या  
 bedding and clothing बिस्तर और वस्त्र  
 bedding appliance शय्या-उपकरण  
@@ -3631,7 +3631,7 @@ bed sore शय्या-व्रण
 bed spread शय्यास्तार** *m.,***चादर  
 bedstead खट्वा***f.***,चारपाई  
 bedstead cover खट्वावरण  
-bedstraw** (any herb of the genus *Galium*)*****Bot.* **शय्यातृण** *n.*****(anciently used as straw तृण for beds
+bedstraw** (any herb of the genus *Galium*)*Bot.* **शय्यातृण** *n.*(anciently used as straw तृण for beds
 
 शय्या)
 
@@ -3780,7 +3780,7 @@ beet, beetroot पालंक** *m.* (पालक *'Beta bengalensis'* MW.In B
 **Begonia** **incarnata** (*incarnata* 'feshcoloured' मांसवण) **मांसवर्ण शोभापर्ण**  
 **Begonia** **maculata** (*maculata* 'blotched'— the leaves) **बिन्दुपत्र शोभापर्ण**  
 **Begonia** **metallica** **धात्वीय शोभापर्ण**  
-**Begonia****octopetalaअष्टदलशोभापर्ण**  
+**Begoniaoctopetalaअष्टदलशोभापर्ण**  
 **Begonia** **phyllomaniaca** (its power of regeneration is so great that a new individual can be
 
 raised from so small a portion as a single hair— McLean I.477) **प्रजनिष्णु शोभापर्ण**
@@ -3920,7 +3920,7 @@ Bellis** (Lat. *bellus* 'pretty' सुन्दरा) *Botany***सुन्�
 **Bellisperennis** (English daisy) **बहुवर्ष सुन्दरा  
 Bellis rotundifolia गोलपर्ण-सुन्दरा  
 Bellis sylvestris वन-सुन्दरा  
-Bellium** *Botany*****(Lat. *bellus* 'pretty') **सुन्दरिका-प्रजाति** (cf. सुन्दरी 'a kind of tree' Vás.)  
+Bellium** *Botany*(Lat. *bellus* 'pretty') **सुन्दरिका-प्रजाति** (cf. सुन्दरी 'a kind of tree' Vás.)  
 **Bellium bellidioides** (*bellidioides* 'daisy like' सुन्दराभ, सुन्दरा 'daisy')**सुन्दराभ, सुन्दरिका  
 Bellium minutum अणु-सुन्दरिका  
 bell-jar घण्टा-कलश  
@@ -3960,9 +3960,9 @@ Nornan p. 354)
 **लम्बतुण्ड वंश** *m.*
 
 **Belonorhynchus** *Paleontol.* **लम्बतुण्ड-प्रजाति  
-Beloperone** *Botany*****(Gk. belos 'arrow' शर+*peronne* 'hand' हस्त) **शरहस्ता-प्रजाति  
+Beloperone** *Botany*(Gk. belos 'arrow' शर+*peronne* 'hand' हस्त) **शरहस्ता-प्रजाति  
 Beloperone violacea जम्बु-शरहस्ता  
-Belostoma** *Zoology*****(genus of fishkiller)**मीनमार-प्रजाति  
+Belostoma** *Zoology*(genus of fishkiller)**मीनमार-प्रजाति  
 Belostomatidae = Belostomidae  
 Belostomidae** *Zoology***मीनमार-वंश** *m.*  
 **below** (inferior) **अवर, court below अवर न्यायालय, court above उपरि न्यायालय  
@@ -3976,13 +3976,13 @@ borrowin— Dict. of Economic Terms, ed. J.R. Winton, London, 1951, p. 11 s.v. b
 **below the rank पद के नीचे  
 belt 1.पेटी, 2.= strap** *Mach.* **पट्टक** *m.,* **पट्टा, 3.***Astron.* **कटिबन्ध***m.,***4.Forestry a मेखला** *f.* (*disting*-
 
-zone कटिबन्ध)****
+zone कटिबन्ध)
 
 **b = firebelt अग्नि-पट्टी** *f***.**
 
 **5.***Geography***कटिबन्ध, कटिदेश** *m***.,**
 
-**6.** *Geology* **मेखला** *f***., 7.***Mathematics*****(of a sphere) **मेखला** *f.*
+**6.** *Geology* **मेखला** *f***., 7.***Mathematics*(of a sphere) **मेखला** *f.*
 
 **belt** *vb.* **पेटी बांधना, पेटी लगाना, पेटी लपेटना, मेखलावेष्टन, अस्त्रादि बांधना  
 belt fork** *Mach.* **पट्टक-शाखी**(-इन्)  
@@ -3997,7 +3997,7 @@ belt transect** (a strip laid out in a community of vegetation, on which the spe
 
 enumerate— Bor p.97) **पट्टी-अनुछेद**
 
-**Beluga** *Zoology*****(the white whale) **सिततिमि-प्रजाति  
+**Beluga** *Zoology*(the white whale) **सिततिमि-प्रजाति  
 beluga** *Zoology***सिततिमि** *m.*  
 **bementite लोसिज** *m.*(लो-for लोहक manganese, स-for सैकतीय silicate, -इजfor खनिज mineral)  
 **bemoan** *vb.***क्रन्दन करना, रोना पीटना, शोक करना, खेद करना, विलाप करना, आह भरना,**
@@ -4016,7 +4016,7 @@ bench** *n.* **1.फलकी** *f.***2.***Law***, a**(the seat where judges sit
 **bench of magistrates दण्डाविकारि-गण, दण्डाधिकारि-न्यायासन  
 bench terrace** (a bench-shaped terrace on hilly land— Web.) **फलकी-उत्तल  
 bend** *n.* **1.नति** *f***.मोड़, 2.***Mach* **नति** *f.*  
-**bend 1.***v.t.* **नमन, झुकाना, मोड़ना, टेढ़ा करना, वशीभूत करना, दमन करना 2.***v.i **झु*****कना, मुड़ना, नत होना**
+**bend 1.***v.t.* **नमन, झुकाना, मोड़ना, टेढ़ा करना, वशीभूत करना, दमन करना 2.***v.i **झु*कना, मुड़ना, नत होना**
 
 **bent on revenge प्रतिचिकीर्षु** (ancient word); **bent upon murder वध करने पर तुला हुआ**
 
@@ -4032,7 +4032,7 @@ bene-**(well) **सु-**
 **benediction आशीर्वाद** *m.*  
 **Benedict's solution** ( test for glucose)**मधुम-परीक्षा-विलयन  
 benefaction** (a charitable donation)**पूर्वदान** ( पूर्व'charity' Const.), **धर्मदान** *n.*  
-**beneficial** *adj.***1.हितकारी** (-इन्)**, लाभदायक, उपकारी (-इन्) 2.***Law***हितकारी** (-इन्)****profitable**
+**beneficial** *adj.***1.हितकारी** (-इन्)**, लाभदायक, उपकारी (-इन्) 2.***Law***हितकारी** (-इन्)profitable**
 
 **लाभकारी, advantageous प्रलाभकारी, प्रलाभी**
 
@@ -4067,7 +4067,7 @@ beneficial enjoyment** *Law* **हितकारी उपभोग**
 **benefit to arise out of land भूमिभावी लाभ**  
 **benefit to estate संपदा-लाभ**  
 **benefit under will इच्छापत्राधीन लाभ**  
-**Benetnasch = Alkaid =** ***η*****Ursae Majoris** *Astronomy* **मरीचि, सप्तम ऋषि** *m.*  
+**Benetnasch = Alkaid =** ***η*Ursae Majoris** *Astronomy* **मरीचि, सप्तम ऋषि** *m.*  
 **benevole** *adj. Mycology* (kindly) **उपकारी**(-इन्)  
 **benevolent** *adj.* **हितैषी, उदार, परोपकारी, उपकारी**(-इन्)  
 **benevolent association हितैषी संस्था**  
@@ -4953,7 +4953,7 @@ Berberis aristata** (Indian barberry, tree turmeric) **सामान्य-द
 
 दारहलद)
 
-**Berberisaristata** *var.* **floribunda =******Berberisaristata  
+**Berberisaristata** *var.* **floribunda =**Berberisaristata  
 Berberis asiatica हेमकान्ति-दारुहरिद्रा** (Basu हेमकान्ति)  
 **Berberis buxifolia समुद्गद्रुपर्ण-दारुहरिद्रा**(*buxifolia* 'Buxus-leaved' समुद्गद्रु-पर्ण)  
 **Berberis coriaria= Berberis aristata  
@@ -5020,7 +5020,7 @@ Bergiaodorata सामान्य-कर्कटिका** (Rajputana कक
 Bergmann series = fundamental series  
 bergschrund, rimaye** *Geog.* (the crevasse or series of crevasses frequently occurring near the
 
-head of a mountain glacier) **शीर्ष-विवर** **β****.**
+head of a mountain glacier) **शीर्ष-विवर** **β.**
 
 **beriaceous** *adj. Bot.* **बदरीय  
 beriaceous lomentaceous legume** *Bot.***बदरीय अनुप्रस्थभेदी शिम्बी  
@@ -5185,7 +5185,7 @@ sex)
 **bestride a threshold देहली लांघना**  
 **best species** *Forestry* **सर्वोत्तम जाति**  
 **best talker** *Zool.* **उत्तम पुरुषवाक्, उत्तम वाणीवाद**  
-**best violet** *Col. Ind. **श्रेष्ठ*****नीललोहित  
+**best violet** *Col. Ind. **श्रेष्ठ*नीललोहित  
 best year importsसर्वोत्तम वर्ष आयात**  
 **bet** *n.***पण** *m.,***बाज़ी,gamble द्यूत, जुआ, stake पणबन्ध, speculation परिकल्पना, सट्टा, sweepstake**
 
@@ -5396,7 +5396,7 @@ Bhutan streaked laughing-thrush** *Aves* **भोटान्तरेखी व
 Bhutan yellow-eyed babbler** *Aves***भोटान्त सुवर्णाक्ष गुपिल  
 B.I.** (Borstal Institution) **कि. सं.** (किशोर-बन्दि-संस्था)  
 **B. I.** (Bridge Inspector) *Rly.* **से. नि.** (सेतु-निरीक्षक)  
-***Bi*** (bismuth) **** *Chem.* ** भि (भिदातु)  
+***Bi*** (bismuth)  *Chem.* ** भि (भिदातु)  
 bi- 1.द्वि-** **2.अर्ध- 3.***Chem.* **= acid- अम्ल-** (*for explanation see* bi-salt)  
 **bi-carbonate = acid carbonate अम्ल प्रांगारीय  
 bi-fluoride = acid fluoride अम्ल तरस्वेय  
@@ -5417,7 +5417,7 @@ Bial's orcinol test पञ्चधु-शेव-परीक्षा
 Bial's reagent** (for detection of pentoses in urine) **पञ्चधु-परीक्षा-विलयन  
 bi-anisidine** *Chem.* **द्वि-शतपुष्पेयी  
 biannual** *n.***अर्धवार्षिक** *m.*  
-**bi-annulate** *adj.******Zool***. द्विवलय  
+**bi-annulate** *adj.**Zool***. द्विवलय  
 bi-arsine** *Chem.* **द्वि-नेपी  
 bias अभिनति, अभ्यानति** *f.,***झुकाव; partiality पक्षपात; prejudice पूर्वग्रह** (fr. Marathi)  
 **biasi field वियासी खेत  
@@ -5477,7 +5477,7 @@ biconic** *adj. Mycol.* (conic at each end) **द्वि-शांकव
 bi-convex = convexo-convex** *adj***. द्वि-उदुब्ज = उदुदुब्ज  
 bicorvex-shaped** *adj.* **द्वि-उदुब्जाकार  
 biconvexus = biconvex** *adj. Mycol.* **द्वि-उदुब्ज  
-bicornus** *adj. Mycol.* **1.**(with two horns) **द्विशृंगी** (-इन्)****2.**(two branched) **द्विशाखी** (-इन्)  
+bicornus** *adj. Mycol.* **1.**(with two horns) **द्विशृंगी** (-इन्)2.**(two branched) **द्विशाखी** (-इन्)  
 
 **bicrural** *adj.* **1.**(with two appendages or elongations) **द्विप्रवर्ध 2.**(having two legs) **द्विपाद  
 bicuspid = bicuspid tooth  
@@ -5586,7 +5586,7 @@ bikh-aconitine** (*bikh Skt.* विष) *Chem.* **विश्व-प्रव�
 bilabiate** *adj. Bot.* **द्वयोष्टी** (-इन्)  
 **bilabiate personate** *adj. Bot.* **द्वयोष्ठी संवृत  
 bilabiate ringent** *adj. Bot.* **द्वयोष्ठी विवृत  
-bilabiatus** *adj. Mycol**. (***two-lipped****)** द्वयोष्ठ(**द्वि-ओष्ठ**)  
+bilabiatus** *adj. Mycol**. (***two-lipped)** द्वयोष्ठ(**द्वि-ओष्ठ**)  
 bilateral** *adj.* **द्विपार्श्व, उभयपार्श्व  
 bilateral account उभयपार्श्व लेखा  
 bilateral account countries उभयपार्श्व-लेखा-देश  
@@ -5667,9 +5667,9 @@ bill** *n.* (of a bird) **चञ्चु***f.,***चोंच
 bill** *vb.* (to join bills, as doves) **चोंचें मिलाना, प्यार करना, चूमाचाटी करना  
 bill** *n.* **1.***Parl. Practice* (proposed law) **विधेयक** *n.* (Const.);**2.**(of payment) **देयक** *n.,*
 
-**3.**(of exchange)****
+**3.**(of exchange)
 
-**विपत्र** *n.*(विनिमय-पत्र),**4.**(poster) **विज्ञप्ति** *f.,*****(handbill) **हस्त-विज्ञप्ति** *f.,***5.***Law* **आरोपपत्र** *n***. 6.पत्र** *n.*
+**विपत्र** *n.*(विनिमय-पत्र),**4.**(poster) **विज्ञप्ति** *f.,*(handbill) **हस्त-विज्ञप्ति** *f.,***5.***Law* **आरोपपत्र** *n***. 6.पत्र** *n.*
 
 **bill** *vb.* **1.**(as, the charges) **देयकांकन, देयकांकित करना,** (to make a bill) **देयक बनाना, 2.विज्ञापन**
 
@@ -6123,7 +6123,7 @@ Birkeniidae तर्कुमीन-वंश** *m.*
 **birth जन्म***n.* (Const.)  
 **birth and death register जन्म-मृत्यु-पञ्जी**  
 **birth and death registration जन्म-मृत्यु-पञ्जीयन
- ****  
+   
 **birth centenary जन्म-शती  
 birth certificate जन्मतिथि-प्रमाणपत्र  
 birth control सन्तति-निग्रह  
@@ -6148,7 +6148,7 @@ motherland मातृभूमि**
 **birth-right जन्माधिकार, जन्मसिद्ध अधिकार, सहज अधिकार  
 births and deathsregister जन्म-मृत्यु पन्जी  
 Births, Deaths, and Marriages Registration Act जन्म, मृत्यु तथा विवाह पञ्जीयन अधिनियम  
-birthwort** (its aromatic roots are reputed to aid in parturition) **जनिमूल** *m.* **** (*Cf.* जनि as a plant-
+birthwort** (its aromatic roots are reputed to aid in parturition) **जनिमूल** *m.*  (*Cf.* जनि as a plant-
 
 name)
 
@@ -6204,7 +6204,7 @@ bismite भिदिज** *m.* (भिद- for भिदातु bismuth, -इ�
 
 **bismuth and ammonium citrate = bismuthi et ammonii citras = bismuth-ammonium citrate** *Pharm-***भिदातु तथा तिक्तातु निम्बवीय**
 
-**bismuth benzoate** (oxy) **भिदातु धूपीय** (जार)****  
+**bismuth benzoate** (oxy) **भिदातु धूपीय** (जार)  
 **bismuth beta-naphthol भिदातु आ-उत्तैलव  
 bismuth blende** *Mineral.* **भिदातु-अन्धन  
 bismuth carbonate** (oxy, tri) **भिदातु प्राङ्गारीय** (जार, त्रि)  
@@ -6336,7 +6336,7 @@ salt has erystallized out) **क्षेप्य-लवण-रस, कटु-�
 **bitterness and heart-burning कटुता और मनोमालिन्य  
 bitter orange कटु नारंग  
 bitter rot कटु अपक्षय  
-bitters** *Pharm.* **कट्विरा** *f.*****(liquor in which bitter herbs are steeped),**कटुभेषज** *n.*  
+bitters** *Pharm.* **कट्विरा** *f.*(liquor in which bitter herbs are steeped),**कटुभेषज** *n.*  
 **bitter salt =Epsom salts** *Chem.* **कटु लवण  
 bittersweet** (*Solanum dulcamara*, a plant tasting at first sweetish आमधु and then bitter कटु)
 
@@ -6357,7 +6357,7 @@ bituminize** *vb***.** *Chem.* **जतुकीयन, जतुकी-सा�
 bituminoid** *adj. Chem.* **जतुक्याभ  
 bituminous** adj. Chem. **1.जतुक्य, 2.**(having the odour of bitumen)**जतुकी-गन्ध  
 bituminous coal जतुक्य अंगार  
-bituminous compounds** *Road Const.***जतुक्य******संयोग  
+bituminous compounds** *Road Const.***जतुक्य**संयोग  
 bituminous grout जतुक्य अभिपूर  
 bituminous solution जतुक्य विलयन  
 bitunicate** *adj. Mycol.*(with two walls)**द्विभित्तिक  
@@ -6532,7 +6532,7 @@ black-headed myna** *Aves* **काल-शीर्ष सारिका
 black-headed sibia** *Aves* **काल-शीर्ष श्रीवद  
 black-headed wagtail** *Aves* **काल-शीर्ष खञ्जन  
 black-head grass** (common woodrush) **वन-प्रनड** *m.*  
-**black heat कृष्णोष्मा** *m.*****(ऊष्मा 'heat')  
+**black heat कृष्णोष्मा** *m.*(ऊष्मा 'heat')  
 **black Hemlock** (*Tsugs mertensiana*)**कृष्ण विषगर्जर  
 black henbane** (*Hyoscyamus niger*)**श्यामा** *f.* (Basu)  
 **black humus काल धरण  
@@ -6663,14 +6663,14 @@ betting and playing cards) **द्यूतजीवी** (-इन्) *m.,***4
 
 **कण्ठ सुगृह**  
 
-**black-tit वल्गुली** (occurs in सुश्रुत), **कृष्णवल्गुली** *f.,*******crested black-tit चूडा-वल्गुली**  
+**black-tit वल्गुली** (occurs in सुश्रुत), **कृष्णवल्गुली** *f.,***crested black-tit चूडा-वल्गुली**  
 **blacktongue** *Veterinary***कालजिह्वा** *f.*  
 **blacktopped road उपरिकृष्ण रथ्या, उपरिकृष्ण सड़क**  
 **black tourmaline = schorl कृष्ण शोभिज***m.* (-इज for खनिज mineral)  
 **black vitriol** *Commerce and Accounts* **काल काचर**  
 **black vulture कृष्ण कर्णिगृध्र**(कर्णिगृध्र ancient word)  
 **black wash = black lotion = lotionigra= aqua phagedaenica nigra***Pharmacy***काल अवनेग**  
-**blackwater कालमेह** *m.*******haematuria शोणमेह**  
+**blackwater कालमेह** *m.***haematuria शोणमेह**  
 **blackwater fever** *Medicine***कालमेह ज्वर**  
 **black wildebeest = whitetailed gnu** *Zoology*  
 **black-winged kite** *Aves* **काल-पक्ष चिल्ल**  
@@ -6708,7 +6708,7 @@ ofthe dissolved substance) **श्यान-निम्नन-नियम**
 **blanc de fard = bismuth white**  
 **blanc fixe = permanent white**  
 **blanc fixe paste = fast white**  
-**blanch** *v. t.***1.****श्वेतन, श्वेत करना, रंग तिकालना, रंग उड़ाना, विवर्ण करना,2.** (to cover with a coating of
+**blanch** *v. t.***1.श्वेतन, श्वेत करना, रंग तिकालना, रंग उड़ाना, विवर्ण करना,2.** (to cover with a coating of
 
 tin) **रांगा चढ़ाना, त्रपुरोपण**
 
@@ -6838,7 +6838,7 @@ blasto-** *Petrog.* **रुह-
 blastocoele** *Embryol.* (cavity of the blastula) **एकभित्तिका-गुहा** *f.*  
 **blastocoele jelly** *Enmbryol.* **एकभित्तिका-गुहा-श्लेष्यक  
 blasto-colla** *Bot.* **कुड्मल-निर्यास** *m.*  
-**blasto-cyst** *Embryol.* (blastodermic vesicle) **युक्कोष्ठ** *m.*****(युक्=युक्ता-खण्ड)  
+**blasto-cyst** *Embryol.* (blastodermic vesicle) **युक्कोष्ठ** *m.*(युक्=युक्ता-खण्ड)  
 **blasto-cyte** *Anat.* **युक्-कोशा** *f***.** (युक् = युक्ता-खण्ड)  
 **blasto-derm***Embryol.* **युक्-स्तर** *m.* (युक् = युक्त-खण्ड)  
 **blasto-dermatic = blasto-dermic** *adj.Embryol.* **युक्तरीय (युक्=युक्ता-खण्ड)  
@@ -7024,7 +7024,7 @@ blindness 1.अन्धता** *f***. 2.***Hort.*
 
 **a** (failure to produce flowers) **अपुष्पिता** *f***.;b** (failure to develop
 
-vegetativeparts) **अनक्षिता** *f.*****
+vegetativeparts) **अनक्षिता** *f.*
 
 **blindness of potatoes आलुओं की अनक्षिता  
 Blind Relief Mission अंध-सहायता-मण्डल  
@@ -7052,7 +7052,7 @@ blister by sun = bark-scorching
 blistercopper विस्फोट-ताम्र  
 blister creeper** (*Cardiospermum halicacabum*) **कर्णस्फोटा** *f.* (B.,N.)  
 **blistering उदस्फोटन** *n.*  
-**blistering ammania** (*Ammannia baccifera*) **अग्निगर्भा** *f.*****(N., M.)  
+**blistering ammania** (*Ammannia baccifera*) **अग्निगर्भा** *f.*(N., M.)  
 **blistering beetle उदस्फोट-भृंग cantharides हरिभृंग  
 blistering cerate** *Pharm.* **उदस्फोट-सिक्थ्य cantharides cerate हरिभृंग्य सिक्थ्य  
 blistering liquid उदस्फोट-विलयन  
@@ -7187,7 +7187,7 @@ yellowish brown, flaxen or auburn hair) **स्वर्णकेश,3.**(with 
 **blood plate = blool plaque**  
 **blood platelet = blood plaque**  
 **blood plexus** *Zool.* **रुधिर-प्रतान**  
-**blood poisoning****रुधिर-विषता**  
+**blood poisoningरुधिर-विषता**  
 **blood pressure***Physiol.***रुधिर-निपीड**  
 **blood red 1.= para red** (yellowish-red रक्तापीत in hue, and of very high अधि
 
@@ -7730,7 +7730,7 @@ and low नि brilliance) **न्यवरक्तानील**
 **blue-fronted callene** *Aves* **नील-भ्रू**  
 **blue-fronted redstart** *Aves* **नील-भाल कपेक्षुक**  
 **blue gall नील द्रुस्फोट**  
-**blue gas****नील** **वाति**  
+**blue gasनील** **वाति**  
 **blue gentian नील किरातमूल**  
 **blue glass** *Col. Ind. * **नील काच**  
 **blue glass slip** *Chemistry***नील-काच-खण्ड**  
@@ -7874,7 +7874,7 @@ bull प्रस्खलित, महाभूल**
 
 person) **मूर्ख** *m.,***उल्लू**
 
-**blunderer** *n***. विभ्रान्तकारी** (-इन्)*****m***.  
+**blunderer** *n***. विभ्रान्तकारी** (-इन्)*m***.  
 blunder through गिरते पड़ते निकल जाना, पहुंच जाना  
 blunt** *adj.* **कुण्ठ, कुण्ठित, मोथरा, भोथरा in blunt words स्पष्ट शब्दों में  
 blant** *n.* (a short needle with a strong point) **ह्रस्वा** *f.*  
@@ -8506,7 +8506,7 @@ line) **संतलेक्षण***n.* (संतल level, ईक्षण t
 **bonelet = ossicle = ossicule** *Anat.***अस्थिका** *f.*  
 **Bonellia** *Zoology*(proboscis bifurcated at the end – CNH. II.442) **शाखिशुण्डप्रजाति**  
 
-**Bonellia****fuliginosa** (Lat. *fuliginis* 'soot') **धूमिल शाखिशुण्ड**  
+**Bonelliafuliginosa** (Lat. *fuliginis* 'soot') **धूमिल शाखिशुण्ड**  
 **Bonellia** **minor** **लघु शाखिशुण्ड**  
 **Bonellia** **viridis हरि शाखिशुण्ड**  
 
@@ -8722,13 +8722,13 @@ inflorescence) **आवार** *m.*
 **booted tree-warbler** *Aves* **मधुरस्वना वृक्ष-कूजिनी**  
 **Bootes** *Astron.* (the constellation containing the star Areturus स्वाति) **स्वातिक** *n.,*
 
-****α** **Boötis =**
+α** **Boötis =**
 
 **Arcturus प्रथम स्वातिक** *n.,***स्वाति** *f.,*  
 
-****β** **Boötis =Nekkar द्वितीय स्वातिक** *n.  
-**γ*****Boötis = Seginus तृतीय स्वातिक** *n.,*  
-**δ****Boötis = Izar पञ्चम स्वातिक***n.,*  
+β** **Boötis =Nekkar द्वितीय स्वातिक** *n.  
+**γ*Boötis = Seginus तृतीय स्वातिक** *n.,*  
+**δBoötis = Izar पञ्चम स्वातिक***n.,*  
 **η** **Boötis = Muphrid सप्तम स्वातिक** *n.,*  
 **μ** **Boötis = Alkalurops द्वादश स्वातिक***n.*
 
@@ -8969,7 +8969,7 @@ Tel. *madana-grandhi*)
 
 **borrowed fund उधार ली निधि**  
 **borrowed money उधार राशि**  
-**borrower 1.उद्धारग्रहोता** (-तृ) *m.*, **उधारग्रहीता, उधार लेने वाला, ऋणिया,****2.** (of a book) **पुस्तकग्रहीता** (-
+**borrower 1.उद्धारग्रहोता** (-तृ) *m.*, **उधारग्रहीता, उधार लेने वाला, ऋणिया,2.** (of a book) **पुस्तकग्रहीता** (-
 
 तृ)
 
@@ -8989,7 +8989,7 @@ Tel. *madana-grandhi*)
 **2.**(fragments made in cutting good diamonds) **हीरखण्ड** *m.*
 
 **boryl** *Chem.* **टांकल***n.*  
-**Bos Zool.****गो-प्रजाति**  
+**Bos Zool.गो-प्रजाति**  
 
 **Bos** **bubalus महिष-गो**(महिष ancient word)  
 **Bos** **gaurus गौर गो** (गौर occurs as early as the ऋग्वेद. *Cf.* Hindi*gaur*)  
@@ -9004,7 +9004,7 @@ Tel. *madana-grandhi*)
 
 *Ceramics, Glassmaking* (to smooth and make uniform by tapping with boss or pad) **उत्थसमन,4.***Mach.* (to provide or furnish with a boss) **उत्थ लगाना**
 
-**boss** *n.*******अधिपुरुष***m.,*
+**boss** *n.***अधिपुरुष***m.,*
 
 **chief प्रमुख**  
 
@@ -9079,7 +9079,7 @@ want of skill or knowledge)
 **bother** *vb.***व्याकुल करना, तंग करना, खिजाना, विकल करना, भेजा खाना.  
 both inclusive दोनों सहित  
 both of us jointly हम दोनों संयुक्ततः, हम दोनों साथ  
-bothridia** *Zool.*****(in Cestoda, a thin folded *flap* projecting from the scale and used as an organ
+bothridia** *Zool.*(in Cestoda, a thin folded *flap* projecting from the scale and used as an organ
 
 of fixation – Chambers) **पल्लविका** *f.*
 
@@ -9144,7 +9144,7 @@ bottleneck 1.कूपी-ग्रीवा** *f.***2.मार्गावर�
 bottle-nose कूपी-तुण्ड** *m.*  
 **bottlenose dolphin कूपीतुण्ड शिंशुमार  
 bottlenose porpoise** *Mamm.* **कूपीतुण्ड शिंशुक  
-bottle opener कूपी-कुञ्ची** *f.*****(in Bahasa Indonesis it is called कुञ्ची)  
+bottle opener कूपी-कुञ्ची** *f.*(in Bahasa Indonesis it is called कुञ्ची)  
 **bottler कूपीभरक** *m***.  
 bottle rack कूपी-निलय  
 bottle tree** (*Stereculia rupestris*) **कूपीद्रुम** *m.*  
@@ -9222,7 +9222,7 @@ boulevard राजपथ** *m.*
 bonnce** *vb.* **1.उत्स्कन्दन, उछलना, 2.खटखटाना, 3.डींग मारना, 4.चौंक पड़ना  
 bounce away** *vb.* **उत्स्कन्दन, उछलना  
 bound** *adj.* **1.**(constrained by the obligations of a bond) **बद्ध, 2.घिरा हुआ  
-bound** *n****.* 1.सीमा** *f.,* **boundary सीमारेखा, सीमा, border प्रत्यन्त, confine संसीमा, frontier सीमान्त,**
+bound** *n.* 1.सीमा** *f.,* **boundary सीमारेखा, सीमा, border प्रत्यन्त, confine संसीमा, frontier सीमान्त,**
 
 **2.***Math.* (a point or number taken as a limit, as of a point set) **परिबन्ध, सीमाबन्ध** *m.*
 
@@ -9316,7 +9316,7 @@ Bowditch's method = method of least**
 
 **distortion** *Surv.* **अल्पिष्ठ-विकर्षण-रीति**
 
-**bowed** *adj.******Phys.* **धन्वित  
+**bowed** *adj.**Phys.* **धन्वित  
 bowel = intestine** *Anat.***कोष्ठ***m.***, आन्त्र** *n.***आंतड़ियां  
 bowel complaint आन्त्र-विकार  
 bowel disease आन्त्र-रोग  
@@ -9353,7 +9353,7 @@ box***vb.* **1. घूसा मारना, मुक्का मारना
 
 **box balance पेटी-शेष  
 box barrage** (on three sides of a given area) *Mil.* **त्रिपार्श्वअवष्टम्भ  
-boxboard** (board used for boxes and cartons) **धानपट्ट** *m.****Cf.* cardboard पत्रपट्ट  
+boxboard** (board used for boxes and cartons) **धानपट्ट** *m.Cf.* cardboard पत्रपट्ट  
 box coupling समुद्र-मिथुनक  
 boxed heart** *Forestry* **मज्जक-दोष, बद्ध-मज्जक** *m.* (Cf. बद्धजीव दोष in Hindi For. Util. Manual,
 
@@ -9394,7 +9394,7 @@ Boyle's law** *Phys.* **स. प. नि. नियम** (short for समता
 -नियम)  
 **boy orderly** (certain number of appointments constables may be given by District
 
-Superintendents to boys under the ages of 18. They are known as "boy-orderlies", and receive half the pay of an ordinary constable. In making these appointments preference should always be given to sons or relatives of police officers, or of men who have rendered good service to Government— PR.15) **बालारक्षी** (-इन्)*****m.*
+Superintendents to boys under the ages of 18. They are known as "boy-orderlies", and receive half the pay of an ordinary constable. In making these appointments preference should always be given to sons or relatives of police officers, or of men who have rendered good service to Government— PR.15) **बालारक्षी** (-इन्)*m.*
 
 **boy peon बाल-चपरासी, बटु प्रेष्य  
 boys' and girls' high schools लड़के और लड़कियों की उच्च पाठशालाएं  
@@ -9478,7 +9478,7 @@ Brachypteryginae** *Aves* **लघुपक्षानुवंश** *m***.** (
 **Brachypteryx** *Aves* (Gk. *brachys* 'short' लघु+pteryx ‘wing’ पक्ष) **लघुपक्ष-प्रजाति  
 Brachypuccinia क्षुद्रमण्डूर-प्रजाति  
 Brachyura** *Zool.* **ह्रस्वपुच्छाः** *m.pl.,* (includes true crabs) **कर्कट-अनुगण** *m.*  
-**Bracken** *Bot.* **1.**(specif. the common brake *Pteridium aquilinum)* ****** श्येन-पर्णांग** *m.* **2.**(a species
+**Bracken** *Bot.* **1.**(specif. the common brake *Pteridium aquilinum)* ** श्येन-पर्णांग** *m.* **2.**(a species
 
 of the genus *Pteris*) ** रूक्षपर्णांग** *m.* **3.**(any large coarse fern) **रूक्षपर्णांग** *m.* **4.**(the royal fern) **राजपर्णांग** *m.*
 
@@ -9525,7 +9525,7 @@ Bradyodonti** *Paleontol.* (Gk. *bradys* 'slow') **मन्ददलकाः**
 **Bradypodoidea** (superfamily) *Zool.* **मन्दपाद-महावंश** *m.*  
 **Bradypus** *Zool.* (Gk. *bradypous* 'slow of foot') **मन्दपाद-प्रजाति  
 Bradypus tridactylus** (three-toed sloth) **त्र्यंगुल मन्दपाद  
-brag** *vb. **आ*****त्मश्लाघा करना  
+brag** *vb. **आ*त्मश्लाघा करना  
 brag** *n***. आस्मश्लाघा** *f.*  
 **braggart** *n***. आत्मश्लाधी** (-इन् ) *m.*  
 **Bragg law** (equation for condition whereby a system of parallel atomic layers in a crystal
@@ -10004,7 +10004,7 @@ breathing श्वसन** *n.,* **श्वास** *m.,* **सांस
 breathing apparatus श्वसन-साधित्र  
 breathing root = pneumatophore** *Bot.***श्वसन-मूल  
 breath sound श्वास-ध्वनि  
-breccia** *Petrog.*****(a rock अश्म composed of angular कोण fragments cementedसंtogether)
+breccia** *Petrog.*(a rock अश्म composed of angular कोण fragments cementedसंtogether)
 
 **संकोणाश्म** *m***.**
 
@@ -10286,7 +10286,7 @@ brilliantly coloured दीप्त-वर्ण
 brilliant metamine blue** *Col. Ind.***भासुर समतिक्तीनील  
 brilliant milling blue** Col. Ind. **भासुर संकोचन नील  
 brilliant milling green** *Col. Ind.* **भासुर संकोचन हरि  
-brilliantmilling orange** *Col. Ind.***भासुर******संकोचन नारंग  
+brilliantmilling orange** *Col. Ind.***भासुर**संकोचन नारंग  
 brilliant milling red भासुर संकोचन रक्त  
 brilliant milling violet** *Col. Ind.* **भासुर संकोचन नीललोहित  
 brilliant naphthol blue** *Col. Ind.* **भासुर उत्तैलवनील  
@@ -10388,8 +10388,8 @@ briskly** *adv.* **त्वरित**
 
 **to brush briskly रगड़कर झाड़ना**
 
-**brisk trade** *Econ.*******त्वरित व्यापार  
-bristle** *n.,***1.सूअर के बाल 2.दृढलोम** *n.,***कड़े****बाल3.***Bot***.,** *Phys.***दृढलोम** *n.***4.= seeker** ( a blunt needle)
+**brisk trade** *Econ.***त्वरित व्यापार  
+bristle** *n.,***1.सूअर के बाल 2.दृढलोम** *n.,***कड़ेबाल3.***Bot***.,** *Phys.***दृढलोम** *n.***4.= seeker** ( a blunt needle)
 
 **कुण्ठ-सूची** *f.*
 
@@ -10613,7 +10613,7 @@ bromine)**दुराघ्री-योजन,3. = brominate**
 **bromhydrate** *Chem.* **दुरोदीय** *n.*  
 **bromhydric** *adj.* *Chem.* **दुरोदिक**  
 **bromhydrin** (epi)*Chem.* **दुरोदि** *f.* (अपि)  
-**bromic** *adj. Chem.*******दुरिक**  
+**bromic** *adj. Chem.***दुरिक**  
 **bromic acid दुरिक अम्ल**  
 **bromide** *Chem.* **दुरेय** *n.*  
 **bromidic** *adj. Chem.* **दुरेयिक**  
@@ -10701,7 +10701,7 @@ action of bromine) **दुराघ्री-प्रभावन**
 ***β*-bromo-phenetole** *Chem.* **आ-दुरा-दर्श-दवा**  
 **bromo-phenol** (ortho; para) *Chem.***दुरा-दर्शव** (ऊर्ध्व, परा)  
 **bromo-phenol blue** *Chem.* **दुरा-दर्शवनील**  
-**𝔭-bromo-phenyl-hydrazine hydro-chloride** *Chem.*******प-दुरा-दर्शल-उदाजीवी उद-नीरेय**  
+**𝔭-bromo-phenyl-hydrazine hydro-chloride** *Chem.***प-दुरा-दर्शल-उदाजीवी उद-नीरेय**  
 **bromo-picrin** *Chem.***दुरा-कट्वि**  
 **bromo-pnea पूति-श्वास***m.*  
 **a-bromo-propionic acid** *Chem.***अ-दुरा-प्रमेदिक अम्ल**  
@@ -10871,7 +10871,7 @@ development)**भ्रूणधानी**
 **broomrape अपत्रशाक** *m.* (*for explanation see*Orobanche)  
 **broom tops = scoparium** *Pharm.* **संमार्जनी** *f.*  
 **brosewort** (*Hyoscyanmus niger*) **श्यामा** *f.*(Basu)  
-**broth 1.यूष** *m.,****2.***Bacteriol. **यूष** *m.*  
+**broth 1.यूष** *m.,2.***Bacteriol. **यूष** *m.*  
 **brothel वेश्यालय** *m.*, **चकला** (*see* bawdy-house)  
 **brother भ्राता** (-तृ) *m.,* **भाई**  
 **brother-german = full brother** *Law***सगा भाई**  
@@ -10909,7 +10909,7 @@ development)**भ्रूणधानी**
 
 brilliance medium मध्य) **मध्यरक्तपीत**
 
-**brown-breasted hill-partridge** *Aves*******बभ्रु-वक्षस गिरि-तित्तिर**  
+**brown-breasted hill-partridge** *Aves***बभ्रु-वक्षस गिरि-तित्तिर**  
 **brown bullinch** *Aves* **बभ्रु सुचटक**  
 **brown bush-warbler** *Aves* **बभ्रु क्षुपकृजिनी**  
 **brown camphoric oil** *Chem.* **बभ्रु कर्पूरतैल**  
@@ -11221,7 +11221,7 @@ ortho-and clino-pyroxene-Web., Chambers*s.v.* therzolite) **समहर्य�
 
 **buchu = barosma गुरुगन्ध** *m.*  
 **buchu camphor = diosphenol** *Chem.***गुरुगन्ध-कर्पूर = देवगन्धदर्शव  
-buchu****folia = buchu leaves**  
+buchufolia = buchu leaves**  
 **buchu leaves** *Pharm.* **गुरुगन्ध-पर्ण**  
 **buck हरिण** *m.*, **हिरन**  
 **bucket** *vb.* **1.डोलसे पानी निकालना, 2.भिगोना, डोल में से डालना**  
@@ -11399,7 +11399,7 @@ comprising those to which the term bug is most properly applied— Web.) सा�
 bugle 1.**(any plant of the genus *Ajuga*) **नीलकण्ठी** *f***., 2. = Ajuga reptans  
 bugle call रणश्रृंग-अह्वान  
 bugler रणश्रृंग-वादक** *m.*  
-**bugloss = oxtongue** (*Gk.* bouglossos 'oxtongue') **गोरसना** *f.*****(*Cf.* the ancient word) **गोजिह्वा  
+**bugloss = oxtongue** (*Gk.* bouglossos 'oxtongue') **गोरसना** *f.*(*Cf.* the ancient word) **गोजिह्वा  
 Bugula** *Zool.* (Lat. *bugulus* ‘a female ornament, such as a bunch of flowers') **गुच्छिल-प्रजाति**  
 
 **Bugula avicularia** (bird's head coralline) **खगशीर्ष गुच्छिल  
@@ -11783,7 +11783,7 @@ of a borough) **पुरप्रतिनिधि** *m.,***4.**(magistrate of
 **burglar-alarm चोर-घण्टी**  
 **burglar-alarm lock चोर-घण्टी वाला ताला**  
 **burglarian***n.* (a person who is guilty of burglary) **सन्धिभेदापराधी** (-इन्) *m.*  
-**burglarize** *vb.* **सन्धिभेदन,****सेंध लगाना**  
+**burglarize** *vb.* **सन्धिभेदन,सेंध लगाना**  
 **burglar-proof असन्धिभेद्य**  
 **burglary** *n.***सन्धिभेद***m.*, **सेंध लगाना**  
 **burglary insurance सन्धिभेद-आगोप**  
@@ -11810,7 +11810,7 @@ burial-case शवाधान** *n.*
 **bur marigold = Bidens tripartita  
 Burma rosewood ब्राह्म शिंशपा  
 Burmese** *adj.***ब्राह्म**  
-**Burmese barred-back pheasant** *Aves***ब्राह्म****काल-पृष्ठ जीवक**  
+**Burmese barred-back pheasant** *Aves***ब्राह्मकाल-पृष्ठ जीवक**  
 **Burmese barred owlet** *Aves* **ब्राह्म** **पट्टित क्षुद्रोलूक**  
 **Burmese black bulbul** *Aves* **ब्राह्म मणितुण्ड गोवत्सक**  
 **Burmese black-crested baza** *Aves* **ब्राह्म श्याम वाज**  
@@ -11883,7 +11883,7 @@ Burmese sarus** *Aves***ब्राह्म सारस
 Burmese scaly- bellied woodpecker** *Aves* **ब्राह्म शल्कोदर काष्ठकूट  
 Burmese scarlet-backed flower-pecker** *Aves* **ब्राह्म शोण-पृष्ठ पुष्पप्रिय  
 Burmese scarlet mihivet** *Aves* **ब्राह्म विष्फुलिंग  
-Burmese scops owl** *Aves*******ब्राह्म** **ऊर्ध्व-कर्ण उलूक  
+Burmese scops owl** *Aves***ब्राह्म** **ऊर्ध्व-कर्ण उलूक  
 Burmese shikra** *Aves***ब्राह्म सञ्चान  
 Burmese shrike** *Aves* **बाल लटूषक  
 Burmese silver pheasant** *Aves* **ब्राह्म श्वेत जीवक  
@@ -12139,7 +12139,7 @@ busy year व्यापृत वर्ष**
 **but-but = Eucalyptus stuartiana**  
 **butcher** *vb.* **हत्या करना, निर्दय वध करना**  
 **butcher** *n.***वधिक, सौनिक** *m.,***कसाई**  
-**butcherbird****लटूवक** *m.* (ancient word)  
+**butcherbirdलटूवक** *m.* (ancient word)  
 **butcher's-broom** (*Ruscus aculeatus*)**तीक्ष्णाग्र आहरिपुष्प**  
 **butcher shop सौनिक-शाला** *f.,* **कसाई की दुकान**  
 **butcher's knife सौनिक-क्षुरी, कसाई का छुरा**  
@@ -12666,7 +12666,7 @@ volume) **अनुसार**
 **by an order on the bank अधिकोष पर आदेश द्वारा**  
 **by any means किसी भी प्रकार से, कैसे भी**  
 **by appearance दिखने में**  
-**by appointment****नियुक्ति करके,go by appointment** **नियुक्ति करके जाना**  
+**by appointmentनियुक्ति करके,go by appointment** **नियुक्ति करके जाना**  
 **by authority प्राधिकार से** (द्वारा), **सप्राधिकार**  
 **"by bond" "बन्ध के द्वारा”**  
 **by count गणनानुसार, गणना से**  
@@ -12710,7 +12710,7 @@ by order or on behalf of the government शासन के आदेश से 
 **by-pass उपमार्ग** *m.*  
 **by post डाक से, डाक द्वारा**  
 **by process of law or otherwise विधि आदेशिका द्वारा अथवा अन्यथा**  
-**byproduct 1.उपसृष्ट** *n.,*******उपोत्पाद, उप-पदार्थ***m.* **2.**(a secondary result फल ) **उपफल***n.,***उप-परिणाम**
+**byproduct 1.उपसृष्ट** *n.,***उपोत्पाद, उप-पदार्थ***m.* **2.**(a secondary result फल ) **उपफल***n.,***उप-परिणाम**
 
 *m.*
 

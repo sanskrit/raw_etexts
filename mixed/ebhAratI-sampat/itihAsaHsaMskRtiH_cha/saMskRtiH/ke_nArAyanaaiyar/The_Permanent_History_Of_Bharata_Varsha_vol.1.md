@@ -161,7 +161,7 @@ The book is............a proof of your considerable acquaintance with Vedic and 
 
 This is *an epoch-making book* which deserves to be carefully studied, digested and assimilated by every Hindu student, Oriental scholar, and Theosophist, and also by every student of comparative sociology....................
 
-**M. R. Ry., R. Mahadeva Aiyer Avl. B. A. Dewan Peishkar****Travancore.**
+**M. R. Ry., R. Mahadeva Aiyer Avl. B. A. Dewan PeishkarTravancore.**
 
 .................Your bitterest critics cannot but admire your deep schoolarship and earnestness of purpose which are writ large on every page of the book............ You have carefully fortified yourself against all attacks by unimpeachable authorities which will speak for themselves when approached with an earnest and unbiased mind ....................................................................................................................... ........................................................................................................................
 
@@ -330,7 +330,7 @@ ON TIME.**
 सेयं वागधिदेवता वितरतु श्रेयांसि भूयांसि वः ।  
 यत्पादामलकोमलांगुलिनखज्योत्स्नाभिरुद्वेल्लितः  
 शब्दब्रह्मसुधाम्बुधिर्बुधमनस्युछ्रंखलं खेलति ॥  
-                         ****(*Purana*)  
+                         (*Purana*)  
 **ब्रह्मानन्दं सकलसुखदं केवलं ज्ञानमूर्तिम्  
 विश्वातीतं गगनसदृशं तत्त्वमस्यादिलक्ष्यम् ।  
 एकं नित्यं विमलमचलं अद्वयं साक्षिभूतं  
@@ -340,7 +340,7 @@ ON TIME.**
 या ब्रह्मादि पिपीलिकान्ततनुषु प्रोता जगत्साक्षिणी ।  
 सैवाहं न च दृश्यवस्त्वितिदृढप्रज्ञापि यस्यास्तिचेत्  
 चण्डालोऽस्तु स तु द्विजोऽस्तु गुरुरित्येषा मनीषा मम ॥  
-                        **** ** (*Sri Sankara*)
+                         ** (*Sri Sankara*)
 
 **THE PER॓MANENT HISTORY  
 OF  
@@ -551,7 +551,7 @@ The instructions from an Apta or Professor of a practical subject with which he 
 
 Thus it is evident how a very serious and injurious mistake is ignorantly and unconsciously committed to the entire detriment of all subsequent inferences and conclusions on the most important subject. It is doubtless the pundit's mistake to have interpreted Sruti as being so called from the circumstance that it is only taught orally from father to son or from teacher to student. Naturally from this mistaken information furnished, the western critic deduced his corollory that writing was probably unknown in the Vedic period. The word **अक्षर** letter or Alphabet, **लिपि** writing, **लिखित** written, **मुद्रित**stamped or printed abundently found in ancient literature will disprove the cogency of this inference. The Yantras and Chakras drawn in geometrical designs are filled with letters making up the mantras, such as, Mahanarayana-yantra in Mahanarayana Upanishat, Nrisimha-yantra in the Nrisimha-tapani Upanishad, Panchakshara, Ashtakshra and Srisukta mantras have all their Yantras and Chakras containing letters. In matters of this kind the internal evidence available is the safest and the most proper source of correct information. Materials like wood, metal, clay or stone are, all liable to destruction in various manner, but literature constantly renewed by writing, study and use, is alone likely to overcome and survive the inevitable ravages of time.
 
- ******13.** Having waded through the quick sands of time and place found in ancient literature, we may try our chance with the peculiar personalities commonly figuring in them. Most of the avathars or incarnations do not possess full human details but are provided with four human hands, such as, Matsya, Kurma, Varaha, Narasimha, Kalki and Hayagriva. Rama and Krishna the chief heroes of the Ramayana and Maha-Bharata although represented in human form are coloured blue or green. The Rakashasas are of a horrible beastly class the chief among them Ravana is gifted with ten heads and twenty hands. The military officers ofRama namely, Sugriva, Hanuman, Jambavan, Angada &c. are monkeys and bears. Among the Asuras, Mahisha has a buffaloe's head. Among the Gods, Ganesa has an elephant head, Brahma has four heads, Siva sometimes five heads and Subramonia six. The Bhadrakauli among Godesses, possesses a hundred terrible faces. The Yakshas. Gandharvas, Kinnaras and Kimpurushas have all animal faces of various descriptions. In fact, exercises in multiplication, permutation and combination of almost all shapes in the existing created beings, are worked out with untiring skill and energy to the utter bewilderment of the modern Historian.  
+ **13.** Having waded through the quick sands of time and place found in ancient literature, we may try our chance with the peculiar personalities commonly figuring in them. Most of the avathars or incarnations do not possess full human details but are provided with four human hands, such as, Matsya, Kurma, Varaha, Narasimha, Kalki and Hayagriva. Rama and Krishna the chief heroes of the Ramayana and Maha-Bharata although represented in human form are coloured blue or green. The Rakashasas are of a horrible beastly class the chief among them Ravana is gifted with ten heads and twenty hands. The military officers ofRama namely, Sugriva, Hanuman, Jambavan, Angada &c. are monkeys and bears. Among the Asuras, Mahisha has a buffaloe's head. Among the Gods, Ganesa has an elephant head, Brahma has four heads, Siva sometimes five heads and Subramonia six. The Bhadrakauli among Godesses, possesses a hundred terrible faces. The Yakshas. Gandharvas, Kinnaras and Kimpurushas have all animal faces of various descriptions. In fact, exercises in multiplication, permutation and combination of almost all shapes in the existing created beings, are worked out with untiring skill and energy to the utter bewilderment of the modern Historian.  
  The origin and birth of several of the characters are equally perplexing. In the Ramayana, Sita is described as having been born from the furrowed ground.
 
 **यज्ञभूमि विशुद्धयर्थ कृषतो लाङ्गलेनमे ।  
@@ -52072,7 +52072,7 @@ be removed by perforining the various religions and ethicalduties prescribed Kar
 
 
 
- **8****.** Most philosophical and practical reasons areassigned for the necessity of Upasana or worship in theabove quotations and various reasonable and suitablemethods are prescribed for the benefit of mankind in general.The expiation of the sum total of sins voluntarily accumulated in the various births, is an unavoidable preliminarystep which cannot be got over by tricks or humbug. Quotation IV clearly defines the geography of Ayodhya asbeyond the regions of mundane existence. Several otherfamiliar names of places, persons and objects are similarlydescribed there. More of this shall be treated in their respective sections.
+ **8.** Most philosophical and practical reasons areassigned for the necessity of Upasana or worship in theabove quotations and various reasonable and suitablemethods are prescribed for the benefit of mankind in general.The expiation of the sum total of sins voluntarily accumulated in the various births, is an unavoidable preliminarystep which cannot be got over by tricks or humbug. Quotation IV clearly defines the geography of Ayodhya asbeyond the regions of mundane existence. Several otherfamiliar names of places, persons and objects are similarlydescribed there. More of this shall be treated in their respective sections.
 
 
 
@@ -63663,7 +63663,7 @@ lies the pure intellect, within which again is the light ofAtman in the form of 
 
 
 
-**** **9.** Numerous additional quotations could be easilycollected to show that the terms, Kasi, Varanasi, Kurukshethrom, Avimuktom, Maha-smasanom &e., all point toone and the same nervous centre known to the Yogi asAgna-chakra. It refers clearly to the spot between theeye-brows where, Agna or a little gnana or knowledge of the
+ **9.** Numerous additional quotations could be easilycollected to show that the terms, Kasi, Varanasi, Kurukshethrom, Avimuktom, Maha-smasanom &e., all point toone and the same nervous centre known to the Yogi asAgna-chakra. It refers clearly to the spot between theeye-brows where, Agna or a little gnana or knowledge of the
 
 
 
@@ -78089,7 +78089,7 @@ ing sixteen rivers; Kaveri, Krishnaveni, Narmada, Yemuna,Godavari, Vitasta, Chan
 
 
 
-** ****10.** The descriptions of places, forests, hills andrivers in the above quotations are sufficiently explicit as towhat they do not represent. They are stated to be heavenlyand not earthly. Several of them are specified as seated in
+** 10.** The descriptions of places, forests, hills andrivers in the above quotations are sufficiently explicit as towhat they do not represent. They are stated to be heavenlyand not earthly. Several of them are specified as seated in
 
 
 
@@ -79188,7 +79188,7 @@ styled. The two geographies have nothing in common, nay,they are diametrically o
 
 
 
-**** “The Adhwas, means or methods are of six sorts,namely, Tatwa, Bhuvana, Manthra, Varna, Pada and Kala.By these six processes, the Eswara who is single may beknown. The first one, Tatwa-adhwa begins with thesubtle element, the earth, and extends to Maya. This Prithivi or earth includes all the divine Lokas. The Bhu-lokais 50 koti yojanas in extent. Bhuva-loka extends roundthe Meru and contains the Sun's loka of Leksha yojanas.The Moon's loka is Leksha yojanas above the sun. Thestarry regions, Leksha yojanas above the moon. Budha orMercury is 2 Leksha yojanas above. Bhargava or Venus is2 Leksha yojanas above. Angara or Mars is still 2 Lekshayojanas above. Brihaspathi or Jupiter is again 2 Leksha
+ “The Adhwas, means or methods are of six sorts,namely, Tatwa, Bhuvana, Manthra, Varna, Pada and Kala.By these six processes, the Eswara who is single may beknown. The first one, Tatwa-adhwa begins with thesubtle element, the earth, and extends to Maya. This Prithivi or earth includes all the divine Lokas. The Bhu-lokais 50 koti yojanas in extent. Bhuva-loka extends roundthe Meru and contains the Sun's loka of Leksha yojanas.The Moon's loka is Leksha yojanas above the sun. Thestarry regions, Leksha yojanas above the moon. Budha orMercury is 2 Leksha yojanas above. Bhargava or Venus is2 Leksha yojanas above. Angara or Mars is still 2 Lekshayojanas above. Brihaspathi or Jupiter is again 2 Leksha
 
 
 
@@ -81369,7 +81369,7 @@ has not yet secured the first Bhumi among the seven enumerated for the religious
 
 
 
-** ****11.** The next point demanding enquiry is thedescription given in our ancient literature regarding Time ascalculated by Yugas and their cycles. But before commencing with this, it may be necessary to say something about
+** 11.** The next point demanding enquiry is thedescription given in our ancient literature regarding Time ascalculated by Yugas and their cycles. But before commencing with this, it may be necessary to say something about
 
 
 
@@ -84215,7 +84215,7 @@ washing away the dirt of desire, anger etc. He who bathesin this Thirtha is sure
 
 
 
-** ****12.******The extreme importance of moral rectitude, charity and sincere religious devotion is established by theabove passages as opposed to hypocracy and mere externalcleanliness. In spite of the very strong language used inthese quotations, it is however a very interesting point tonote, how the idea of baths in holy centres as a religioussubstitute for, or a supplement to, the canons enunciatedabove, struck the ancients, in the interest of the lower ordersof society. The subjoined quotations assign simple reasons,sufficiently scientific and convincing, so as to induce everyreasonable person to appreciate the necessity and advantageof resorting to these Thirthas.
+** 12.**The extreme importance of moral rectitude, charity and sincere religious devotion is established by theabove passages as opposed to hypocracy and mere externalcleanliness. In spite of the very strong language used inthese quotations, it is however a very interesting point tonote, how the idea of baths in holy centres as a religioussubstitute for, or a supplement to, the canons enunciatedabove, struck the ancients, in the interest of the lower ordersof society. The subjoined quotations assign simple reasons,sufficiently scientific and convincing, so as to induce everyreasonable person to appreciate the necessity and advantageof resorting to these Thirthas.
 
 
 
@@ -86529,7 +86529,7 @@ Combined with these, there must be another essentialcondition, namely, the recog
 
 
 
-** ****13**. The above passages deserve and demand themost patient and careful scrutiny; and it must be emphatically affirmed that they do not confirm or even corroboratethe current interpretations, assigning historical importanceto the Holy centres in India and connecting them with specific descriptions found in the Puranas and Itihasas, takingthem as representing places of historical incidents. In theface of the so-called geography examined already, it is unnecessary at this stage to reiterate the arguments for theconviction of any reasonable being as to the absurdity andirrelevancy of the modern views. The only point for useful enquiry here would be to trace the causes that led to thesemistakes.
+** 13**. The above passages deserve and demand themost patient and careful scrutiny; and it must be emphatically affirmed that they do not confirm or even corroboratethe current interpretations, assigning historical importanceto the Holy centres in India and connecting them with specific descriptions found in the Puranas and Itihasas, takingthem as representing places of historical incidents. In theface of the so-called geography examined already, it is unnecessary at this stage to reiterate the arguments for theconviction of any reasonable being as to the absurdity andirrelevancy of the modern views. The only point for useful enquiry here would be to trace the causes that led to thesemistakes.
 
 
 
@@ -90135,7 +90135,7 @@ carrying with them everything they catch on their way totheir ultimate destinati
 
 
 
-**** ******1**. The main divisions of Time represented in oursacred literature are; Parardhas, Kalpas, Manwantaras,Yugas and the cycle of 60 years commencing with Prabhava. A more general classification of it is into Sthula and Sukshma, gross and subtle. This latter classification will have tobe first examined, as it is the foundation for the varied descriptions given, in accordance with the usual formulas  
+ **1**. The main divisions of Time represented in oursacred literature are; Parardhas, Kalpas, Manwantaras,Yugas and the cycle of 60 years commencing with Prabhava. A more general classification of it is into Sthula and Sukshma, gross and subtle. This latter classification will have tobe first examined, as it is the foundation for the varied descriptions given, in accordance with the usual formulas  
 always followed for the purpose of expressing abstractmatters in more concrete terms. It is simply the ignoranceof these formulas that has led to the present confusions. Itmust however be admitted that such restrictions and limitations in the meanings of terms used in the treatment of anyscientific subject, are unavoidable even in the material sphere,and the necessity and plea for such a procedure is thereforegreater in the spiritual sciences. It is probable that theexistence itself of such a distinction in the calculations of
 
 
@@ -94276,7 +94276,7 @@ takes to the highest stage through the Sukshma Nadi isknown as Uttarayana and th
 
 
 
-** ****2.** It is evident from the above quotations that thecalculation of time found detailed in the sacred texts clearlyrefer to its Sukshma form and represent the functions ofthought and breath as regulated by Yogic processes. Thegeneral terms of measurement however are retained as thesame in the treatment of both Sthula and Sukshma varieties,and a sort of analogical comparison is maintained with a viewto utilise the Sthula form for the practical benefit of theless qualified classes. The concretised forms and the ritualistic ceremonies of the Karma-kanda are based upon theseanalogical formulas and are consciously prescribed for thepurpose of attaining certain definite aims in the gradualprogress of religious practice. They are certainly not theaimless outcome of the whims and caprices of our venerablesages, nor are they useless and unscientific superstitions asthey are so lightly and conveniently pronounced in moderndays. The mere fancy or even respect for material sciencecannot form an excuse for off-hand criticisms of any facts ortheories without proper scientific investigations, and suchcriticisms in themselves are no signs of originality or respectable intelligence. 'Critics all are ready made,' and no bodyneed therefore care for them. The following passages enumerate the different divisions of time as described in the texts.
+** 2.** It is evident from the above quotations that thecalculation of time found detailed in the sacred texts clearlyrefer to its Sukshma form and represent the functions ofthought and breath as regulated by Yogic processes. Thegeneral terms of measurement however are retained as thesame in the treatment of both Sthula and Sukshma varieties,and a sort of analogical comparison is maintained with a viewto utilise the Sthula form for the practical benefit of theless qualified classes. The concretised forms and the ritualistic ceremonies of the Karma-kanda are based upon theseanalogical formulas and are consciously prescribed for thepurpose of attaining certain definite aims in the gradualprogress of religious practice. They are certainly not theaimless outcome of the whims and caprices of our venerablesages, nor are they useless and unscientific superstitions asthey are so lightly and conveniently pronounced in moderndays. The mere fancy or even respect for material sciencecannot form an excuse for off-hand criticisms of any facts ortheories without proper scientific investigations, and suchcriticisms in themselves are no signs of originality or respectable intelligence. 'Critics all are ready made,' and no bodyneed therefore care for them. The following passages enumerate the different divisions of time as described in the texts.
 
 
 
@@ -105822,7 +105822,7 @@ and betraying his own sacred religion in false colours to thediscredit of his fe
 
 
 
-** ****3**. The above quotations conclusively prove that thewhole affair is a simple rendering of the Infinite in thelanguage of the Finite, the abstract fact in the form of theconcrete Arithmetic for the express purpose of showing theimmensity and magnitude of the object described. TheParardhom is the 17th and the last figure in the Arithmetical Notation reckoned by multiples of one hundred, insteadof ten. Parom means great and Ardhom position. Thus,the highest state of existence to be attained is explained bythe height, the present low, degraded and mortal man has to ascend by strenuous efforts and religious devotion. Thehundred years making up a Bramha's period are clearlystated in Quotaion V, as having been predicted in accordance with the longivity of man himself. This period is divided
+** 3**. The above quotations conclusively prove that thewhole affair is a simple rendering of the Infinite in thelanguage of the Finite, the abstract fact in the form of theconcrete Arithmetic for the express purpose of showing theimmensity and magnitude of the object described. TheParardhom is the 17th and the last figure in the Arithmetical Notation reckoned by multiples of one hundred, insteadof ten. Parom means great and Ardhom position. Thus,the highest state of existence to be attained is explained bythe height, the present low, degraded and mortal man has to ascend by strenuous efforts and religious devotion. Thehundred years making up a Bramha's period are clearlystated in Quotaion V, as having been predicted in accordance with the longivity of man himself. This period is divided
 
 
 
@@ -116052,7 +116052,7 @@ of an actual bull the biggest and fairest obtainable in Indiaand would like to e
 
 
 
-** ****4.** The words Yuga and Yoga are almost synonymous. To couple, to unite, or join the Jivathma with theParamatma, the lower self with the higher self is the ideapervading all these descriptions. The degrees of perfectionattained in this direction are explained with reference to thedefinite processes prescribed for the purpose. The KritaYuga expresses the stage of completion as the word Kritaclearly denotes. The appellations Kali, Thishya, Kashayaand Thamasa for the last Yuga are equally significant of theentire absence of religious merit. It is called the currentYuga as the instructions in the texts are naturally supposedto be always addressed to the ignorant and irreligious populace in general and are meant for their benefit. The following passages already quoted in Chaper I specifying the first
+** 4.** The words Yuga and Yoga are almost synonymous. To couple, to unite, or join the Jivathma with theParamatma, the lower self with the higher self is the ideapervading all these descriptions. The degrees of perfectionattained in this direction are explained with reference to thedefinite processes prescribed for the purpose. The KritaYuga expresses the stage of completion as the word Kritaclearly denotes. The appellations Kali, Thishya, Kashayaand Thamasa for the last Yuga are equally significant of theentire absence of religious merit. It is called the currentYuga as the instructions in the texts are naturally supposedto be always addressed to the ignorant and irreligious populace in general and are meant for their benefit. The following passages already quoted in Chaper I specifying the first
 
 
 
@@ -119273,7 +119273,7 @@ or means, when side by side with us, the enlightened foreigners seek useful and 
 
 
 
-**** **5.** The Manus and Manwantaras are matters ofvital importance in our Religion. They refer to certain definitePsychological and Physiological principles advantageouslyutilized in the religious practices prescribed. The subject isparticularly technical and perhaps peculiar to the Hindureligion. The facts expressed by the enumeration of the 14 Manus and of the durations of time intervening betweeneach of them are closely connected with the description ofthe Yugas and deal with scientific and technical matters, adetailed description of which is not possible to be attemptedhere. References will however have to be made occasionallywhere the necessary and available informations may be furnished. Regulation of breath called Prana-yama is the chiefprocess prescribed for Yoga. But it has to be supplementedby meditation accompanied by Manthras to make it effective.
+ **5.** The Manus and Manwantaras are matters ofvital importance in our Religion. They refer to certain definitePsychological and Physiological principles advantageouslyutilized in the religious practices prescribed. The subject isparticularly technical and perhaps peculiar to the Hindureligion. The facts expressed by the enumeration of the 14 Manus and of the durations of time intervening betweeneach of them are closely connected with the description ofthe Yugas and deal with scientific and technical matters, adetailed description of which is not possible to be attemptedhere. References will however have to be made occasionallywhere the necessary and available informations may be furnished. Regulation of breath called Prana-yama is the chiefprocess prescribed for Yoga. But it has to be supplementedby meditation accompanied by Manthras to make it effective.
 
 
 
@@ -139999,7 +139999,7 @@ Ardhachandra is 64; Rodhini, 32; Nada, 16; Nadanta, 8; Sakti, 4; Vyapika, 2; Sam
 
 
 
-****Q. *No. XVII.***
+Q. *No. XVII.***
 
 
 
@@ -146190,7 +146190,7 @@ practically useful, especially as their relative superiority has constantly been
 
 
 
-**** b.**एतत्सर्वं जगद्व्याप्तं मयात्वव्यक्तमूर्तिना।  
+ b.**एतत्सर्वं जगद्व्याप्तं मयात्वव्यक्तमूर्तिना।  
     अतो मां मुनयः प्राहुर्विष्णुं विष्णुपरायणाः।  
     वसन्ति यत्र भूतानि वसत्येषु च यो विभुः।  
     स वासुदेवो विज्ञेयो विद्वद्भिरहमादरात्।  
@@ -226730,7 +226730,7 @@ these lines as they are very vexing indeed. But how do they feel confident that 
 
 
 
- ******10.** The descriptions of Rishis as found in the passages quoted above, disclose plainer, simpler and less complicated facts as compared with those enquired into, in the preceding paras, and we are consequently in a position to understand them without much thought and trouble.
+ **10.** The descriptions of Rishis as found in the passages quoted above, disclose plainer, simpler and less complicated facts as compared with those enquired into, in the preceding paras, and we are consequently in a position to understand them without much thought and trouble.
 
 
 
@@ -247832,7 +247832,7 @@ The practice of yoga is therefore prescribed for them for the purpose of renderi
 
 
 
- ******4.** Like the technical applications of the terms apparently denoting Time and Place as above noticed, the apparent Personalities technically refer to the various divinė bases to be understood and personally experiencod by the practice of the two kinds of yogas here specified. The conception of
+ **4.** Like the technical applications of the terms apparently denoting Time and Place as above noticed, the apparent Personalities technically refer to the various divinė bases to be understood and personally experiencod by the practice of the two kinds of yogas here specified. The conception of
 
 
 
@@ -250154,7 +250154,7 @@ Para-Bramhan, the ultimate terminus of our religious philosophy is beyond the gr
 
 
 
-****स्कन्दोपनिषत्**॥**
+स्कन्दोपनिषत्**॥**
 
 
 
@@ -326741,7 +326741,7 @@ already noticed that they particularly refer to the processes of gnana-yoga and 
 
 
 
-** ****12.** The above passages deserve to be examined in detail as they are extremely explicit in their explanations. They are however sure to irritate beyond limit, the feelings of all dogmatic critics and stun their intellect as if by a severe and unexpected blow. It is feared that the criticsmay be induced even to go to the extent of questioning the authenticity of the texts and denounce the whole as a farfetched allegory with a view to vindicate themselves. But it is nevertheless a tangible fact that such would be critics would be ever unable to continue their own sensible interpretations for two lines together. This is indeed a very critical and turning point in our treatment of the subject and all possible attention and sympathy are entreated of the reader to evade unnecessary doubts and misunderstandings of the explanations of any of the facts noted here in the subsequent treatment of the subject.
+** 12.** The above passages deserve to be examined in detail as they are extremely explicit in their explanations. They are however sure to irritate beyond limit, the feelings of all dogmatic critics and stun their intellect as if by a severe and unexpected blow. It is feared that the criticsmay be induced even to go to the extent of questioning the authenticity of the texts and denounce the whole as a farfetched allegory with a view to vindicate themselves. But it is nevertheless a tangible fact that such would be critics would be ever unable to continue their own sensible interpretations for two lines together. This is indeed a very critical and turning point in our treatment of the subject and all possible attention and sympathy are entreated of the reader to evade unnecessary doubts and misunderstandings of the explanations of any of the facts noted here in the subsequent treatment of the subject.
 
 
 
@@ -334871,7 +334871,7 @@ angas, as well as of the processes to work out practically theinstructions conta
 
 
 
-** **A more detailed description is available in the sameParva as follows**.******
+** **A more detailed description is available in the sameParva as follows**.**
 
 
 
@@ -336470,7 +336470,7 @@ angas, as well as of the processes to work out practically theinstructions conta
 
 
 
-**  ** **14.** **** We have had enough of quotations from the Maha-Bharata as well as other texts, to furnish us with some clear idea as to what we are about. The geographical details specified in the Maha-Bharata as the important scenes of action demand an enquiry and they are in themselves likely to enlighten us on the subject.The great battle of the Maha-Bharata, is known to every body as having taken place at Kuru-kshetra or Samanta-panchaka not far from or different from Hastinapura on the banks of the Jamna, and it is commonly understood as representing the exact spot to which the capital of the British Indian Empire has been recently removed. I have no doubt that we have by this time arrived at a stage at which enquiries about misinterpretations might be safely dispensed with,but it is necessary to examine minutely with a view to
+**  ** **14.**  We have had enough of quotations from the Maha-Bharata as well as other texts, to furnish us with some clear idea as to what we are about. The geographical details specified in the Maha-Bharata as the important scenes of action demand an enquiry and they are in themselves likely to enlighten us on the subject.The great battle of the Maha-Bharata, is known to every body as having taken place at Kuru-kshetra or Samanta-panchaka not far from or different from Hastinapura on the banks of the Jamna, and it is commonly understood as representing the exact spot to which the capital of the British Indian Empire has been recently removed. I have no doubt that we have by this time arrived at a stage at which enquiries about misinterpretations might be safely dispensed with,but it is necessary to examine minutely with a view to
 
 
 
@@ -336854,7 +336854,7 @@ secure more useful informations to understand the textcorrectly.
 
 
 
-a.अविमुक्तं वै कुरुक्षेत्रम्।****कतमच्चास्यस्थानं भवतीति । भ्रुवो र्घ्राणस्य च यस्सन्धिस्स एष द्यौर्लोकस्य च परस्य च सन्धिर्भवतीति॥
+a.अविमुक्तं वै कुरुक्षेत्रम्।कतमच्चास्यस्थानं भवतीति । भ्रुवो र्घ्राणस्य च यस्सन्धिस्स एष द्यौर्लोकस्य च परस्य च सन्धिर्भवतीति॥
 
 
 
@@ -362687,7 +362687,7 @@ Neither the Hindu religion nor the religious Hindu is going to suffer or to be a
 
 
 
-** ****16.** The numerous passages quoted above abundantly prove that Sri-krishna represents**,** no deceased monarch of ancient history**,** no funny character of the children**'**s fable**,** no allegorical production of an imaginative
+** 16.** The numerous passages quoted above abundantly prove that Sri-krishna represents**,** no deceased monarch of ancient history**,** no funny character of the children**'**s fable**,** no allegorical production of an imaginative
 
 
 
@@ -374867,7 +374867,7 @@ as incarnations**,** by dragging down the Lord to the lowest sphere of transient
 
 
 
- **18.**** **We might conveniently stop here our enquiries about the correct significance of Sri-krishna from Upanishads**,** Puranas and Bhagavata**,** excepting the Maha-Bharata whose subsequent treatment will probably necessitate occasional references to the Lord**.** It pains me however very much in this connection**,** to have to repeat our old complaints against Theosophy purely in the anxious interest of our fast decaying religion**.** In the midst of utter local indifference for our religion and philosophy**,** it is really very unfortunate that the foreign creed appeared amongst us with their conglomerations of various religions to make confusion worse confounded**.** If the Theosophists connect themselves with every sort of religion in the world**,** as they
+ **18. **We might conveniently stop here our enquiries about the correct significance of Sri-krishna from Upanishads**,** Puranas and Bhagavata**,** excepting the Maha-Bharata whose subsequent treatment will probably necessitate occasional references to the Lord**.** It pains me however very much in this connection**,** to have to repeat our old complaints against Theosophy purely in the anxious interest of our fast decaying religion**.** In the midst of utter local indifference for our religion and philosophy**,** it is really very unfortunate that the foreign creed appeared amongst us with their conglomerations of various religions to make confusion worse confounded**.** If the Theosophists connect themselves with every sort of religion in the world**,** as they
 
 
 
@@ -385303,7 +385303,7 @@ observable**,** between man and man**,** at all times in this material world**.*
 
 
 
- Kasyom is liquor and he who drank it is Kasyapa-Again **पश्यतीति कश्यपः।**That which becomes visible**.** All these definitions point to the descending scale of creation from Subtle to material**.**Prahlada**,** the son of Hiranya-kasipu is famous for his devotion to Vishnu**.** The name signifies great delight and contentment**.** When this state of mind is attained**,**Hiranyakasipu's life is in danger**.** The Asura is soon destroyed by NaraSinha or the Man-lion**,** by the boldest stroke of****Heroism. Virochana**,** the son of Prahlada denotes more enlightenment of the Intellect**.** Beli**,** his son again
+ Kasyom is liquor and he who drank it is Kasyapa-Again **पश्यतीति कश्यपः।**That which becomes visible**.** All these definitions point to the descending scale of creation from Subtle to material**.**Prahlada**,** the son of Hiranya-kasipu is famous for his devotion to Vishnu**.** The name signifies great delight and contentment**.** When this state of mind is attained**,**Hiranyakasipu's life is in danger**.** The Asura is soon destroyed by NaraSinha or the Man-lion**,** by the boldest stroke ofHeroism. Virochana**,** the son of Prahlada denotes more enlightenment of the Intellect**.** Beli**,** his son again
 
 
 
@@ -385687,7 +385687,7 @@ represents still further strength of devotion**,** renunciation and resignation*
 
 
 
-** **Thus**,** the pedigree here given of the Asura family from Hiranya-kasipu to Beli**,** clearly defines the stages of religious development in the worldly man**,** from his grossest ideas and strongest desires to the most pious devotion and full-hearted resignation to the Supreme Being**.** In fact**,** the Asura completely loses his characteristic nature**,** when he rises to the status of Beli by the annihilation of all mundane affairs**.** And when the mighty****emperor**,** Maha Beli Chakravarti**,** greater than even Indra**,** reigns supreme**,**the Great Bramha steps in to create bright**,** holy**,** religious and divine worlds for him and a completely fresh era of life to commence with**.**
+** **Thus**,** the pedigree here given of the Asura family from Hiranya-kasipu to Beli**,** clearly defines the stages of religious development in the worldly man**,** from his grossest ideas and strongest desires to the most pious devotion and full-hearted resignation to the Supreme Being**.** In fact**,** the Asura completely loses his characteristic nature**,** when he rises to the status of Beli by the annihilation of all mundane affairs**.** And when the mightyemperor**,** Maha Beli Chakravarti**,** greater than even Indra**,** reigns supreme**,**the Great Bramha steps in to create bright**,** holy**,** religious and divine worlds for him and a completely fresh era of life to commence with**.**
 
 
 
@@ -385945,7 +385945,7 @@ represents still further strength of devotion**,** renunciation and resignation*
 
 
 
-  ** 2.******The Enemies of God**.** From the detailed enquiry conducted in the previous chapter**,** we have clearly understood that Sri-Krishna represents the Lord of Yoga**,** and in the subsequent chapter**,**a similar enquiry will show what Sri-Rama signifies**.** In the mean-time**,** it is necessary to obtain some definite ideas of the chief adversaries of these two Avatars**,** before proceeding with the stories in the Maha-Bharata or Ramayana**,**
+  ** 2.**The Enemies of God**.** From the detailed enquiry conducted in the previous chapter**,** we have clearly understood that Sri-Krishna represents the Lord of Yoga**,** and in the subsequent chapter**,**a similar enquiry will show what Sri-Rama signifies**.** In the mean-time**,** it is necessary to obtain some definite ideas of the chief adversaries of these two Avatars**,** before proceeding with the stories in the Maha-Bharata or Ramayana**,**
 
 
 
@@ -392672,7 +392672,7 @@ permutation**.** The state of affairs here depicted**,** expresses no exaggerati
 
 
 
-**** **3.** The complaint of Bhumi. We must proceed further with definite ideas regarding the points already
+ **3.** The complaint of Bhumi. We must proceed further with definite ideas regarding the points already
 
 
 
@@ -400000,7 +400000,7 @@ correctly somehow. As lucrative benefits or material gains are out of the questi
 
 
 
-**** **4.** *The contents of the Maha-bharata.* A long passage from the Adi-purva was quoted in the last chapter, in our enquiry as to the real contents of the Maha-bharata. Vyasa, during his yogic meditation is said to have clearly perceived the whole story in his divine vision.
+ **4.** *The contents of the Maha-bharata.* A long passage from the Adi-purva was quoted in the last chapter, in our enquiry as to the real contents of the Maha-bharata. Vyasa, during his yogic meditation is said to have clearly perceived the whole story in his divine vision.
 
 
 
@@ -402330,7 +402330,7 @@ the necessary details in regular order of succession, which appeared before Vyas
 
 
 
-** ****5.** *The composition of the Maha-bharata.* We have already mentioned in the preceding chapter a peculiar fact connected with the composition of the Maha-bharata. 60 hundred thousand slokas were said to have been composed by Vyasa, 30 hundred thousands being for the use of the Deva-loka, 15 hundred thousand for Pitri loka, 14 hundred thousands for Rakshasa and Yaksha-lokas and the remaining one huudred thousand being for the man's loka. This last portion was first preached to Janamejaya by Vysampayana and then again by Soota to the Sounakas.
+** 5.** *The composition of the Maha-bharata.* We have already mentioned in the preceding chapter a peculiar fact connected with the composition of the Maha-bharata. 60 hundred thousand slokas were said to have been composed by Vyasa, 30 hundred thousands being for the use of the Deva-loka, 15 hundred thousand for Pitri loka, 14 hundred thousands for Rakshasa and Yaksha-lokas and the remaining one huudred thousand being for the man's loka. This last portion was first preached to Janamejaya by Vysampayana and then again by Soota to the Sounakas.
 
 
 
@@ -451369,7 +451369,7 @@ doubt makes one fear, whether explanations of the above kind should be continued
 
 
 
-** ****9**. *The construction of the Sabha, the Rajasuya sacrifice and the destruction of Jara-sandha, the gambling and the Pandavas' exile to the Forest.* As already proposed, we may now commence with our enquiry into the significance of the important incidents, mentioned in the second Parva called Sabha. In conformity with this title, the story starts with the construction of the Sabha at Khandava-prasta, by Maya the Asura architect for the use of the Pandavas. The details of its description may be seen from the text by those who are inclined to read the same. It would be enough to note here that many of the items which might at first sight appear as exaggerations or meaningless incongruities in the description are full of useful and practical technicalities, to deal with which here, would not only be out of the scope of this book, but would also be a profitless work. The main object at present is to create a conviction as to the existence of such valuable informations in the literature, which in itself has become a sufficiently difficult task under the existing circumstances.
+** 9**. *The construction of the Sabha, the Rajasuya sacrifice and the destruction of Jara-sandha, the gambling and the Pandavas' exile to the Forest.* As already proposed, we may now commence with our enquiry into the significance of the important incidents, mentioned in the second Parva called Sabha. In conformity with this title, the story starts with the construction of the Sabha at Khandava-prasta, by Maya the Asura architect for the use of the Pandavas. The details of its description may be seen from the text by those who are inclined to read the same. It would be enough to note here that many of the items which might at first sight appear as exaggerations or meaningless incongruities in the description are full of useful and practical technicalities, to deal with which here, would not only be out of the scope of this book, but would also be a profitless work. The main object at present is to create a conviction as to the existence of such valuable informations in the literature, which in itself has become a sufficiently difficult task under the existing circumstances.
 
 
 
@@ -481664,7 +481664,7 @@ have further found, by humbly and respectfully following the clues furnished wit
 
 
 
-** ****12**. *The meeting of the Sabha and the declaration* of war. The Udyoga Parva starts with the detailed descriptions of the messages that passed between the Pandavas and the Kurus regarding the claims of the former to the Kingdom. The preceptor of Drupada was first sent to Dhritarashtra in behalf of the Pandavas, and Sanjaya was sent in return. Meanwhile Dhritarashtra sought Vidura's advice and his long speech touching on moral, social and political matters generally, is well–known as Vidura–vakya. At the end of his instructions, Rishi Sanatsujata is said to have appeared and countinued in the same tone. Both of these speeches consist of fourteen chapters from 33 to 46 and they would certainly prove a profitable reading in many ways. In the meantime, the ruling chiefs friendly to the Kurus and Pandavas were invited to join each side respectively to be prepared for war. Salya the uncle of the two youngest Pandavas was won over by Duryodhana against his will. Sri–krishna was invited by both parties but refused to take arms and fight. He joined Arjuna and gave his army to Duryodhana. Duryodhana then sought the help of Beladeva elder brother of Krishna, but he declined to take any part in the war or to render any help to either party.
+** 12**. *The meeting of the Sabha and the declaration* of war. The Udyoga Parva starts with the detailed descriptions of the messages that passed between the Pandavas and the Kurus regarding the claims of the former to the Kingdom. The preceptor of Drupada was first sent to Dhritarashtra in behalf of the Pandavas, and Sanjaya was sent in return. Meanwhile Dhritarashtra sought Vidura's advice and his long speech touching on moral, social and political matters generally, is well–known as Vidura–vakya. At the end of his instructions, Rishi Sanatsujata is said to have appeared and countinued in the same tone. Both of these speeches consist of fourteen chapters from 33 to 46 and they would certainly prove a profitable reading in many ways. In the meantime, the ruling chiefs friendly to the Kurus and Pandavas were invited to join each side respectively to be prepared for war. Salya the uncle of the two youngest Pandavas was won over by Duryodhana against his will. Sri–krishna was invited by both parties but refused to take arms and fight. He joined Arjuna and gave his army to Duryodhana. Duryodhana then sought the help of Beladeva elder brother of Krishna, but he declined to take any part in the war or to render any help to either party.
 
 
 

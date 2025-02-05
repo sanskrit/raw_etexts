@@ -11,7 +11,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ1NzgzMzgy
 
 \[
 
-  ॥ ***प्रेमपरीक्षा*******॥
+  ॥ ***प्रेमपरीक्षा***॥
 
 
 

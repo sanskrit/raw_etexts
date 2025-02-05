@@ -56,7 +56,7 @@ labelled hook** (in the key cupboard)**नामपत्रित अंकु�
 labelling *see* label** *vb.*  
 **labellum 1.***Zool.* (a small floshy appendage beneath the labrum of certain insects) **उदोष्ठक**
 
-*m.*****(*Cf*. labrumउदोष्ठ),**2.***Bot.* (dim. of *labrum* 'lip') **ओष्ठक** *m.*
+*m.*(*Cf*. labrumउदोष्ठ),**2.***Bot.* (dim. of *labrum* 'lip') **ओष्ठक** *m.*
 
 **label of a bottle कूपी-नामपत्र  
 lab. fittings प्र.शा. अन्वायुक्तियां  
@@ -279,7 +279,7 @@ lactic acid fermentatien दुग्धिकाम्लकिण्वन
 lactide** *Chem.* **दुग्धेय** *n.*  
 **lactiferous cell** *Bot.* **आक्षोरी कोशा  
 lactiflorus** *Bol. Tax.* (with milk-whiteflowers) **दुग्धिलपुष्प  
-lactim** *Chem**.*** **** (*lactone + imido* वितिक्तेयक)**दुग्धविति** * m.*  
+lactim** *Chem**.***  (*lactone + imido* वितिक्तेयक)**दुग्धविति** * m.*  
 **lacto- दुग्ध-  
 Lactobacillus** (L.) **दुग्धाणु-प्रजाति** (दु.)  
 **Lactobacillus acidophil-acrogenes अम्ल-वाति-जन दु.  
@@ -535,7 +535,7 @@ lamb mint** (*Mentha viridis*) **गिरि-पर्णास** *m.* (Bombay 
 **lamb's-quarters** *(Chenopodium album)***वास्तु** *m.* (MW.), **बथुआ  
 lamb's-tongue** *(Chenopodium album)***वास्तु** *m.* (MW.), **बथुआ  
 lame** *adj.* **पंगु, लंगड़ा  
-lame duck 1.***Stock Exchange* **** (a person unable to fulfil his engagement)**पंगुहंस, अकृतवचन** *m.,*
+lame duck 1.***Stock Exchange*  (a person unable to fulfil his engagement)**पंगुहंस, अकृतवचन** *m.,*
 
 **2.***Pol.* (an office holder, as a senator or congressman, who has failed of re-election) **पंगुहंस, निर्गत** *m.*
 
@@ -977,7 +977,7 @@ Laportea crenulata** (devil nettle, elephantnettle, fever nettle) **सामा
 **lapping** *Rly.* (polishing) **प्रमार्जन** *n.*  
 **Lapsana** *Bot.* **कुचरोप-प्रजाति  
 Lapsana communis** (nipplewort) **सामान्य कुचरोप** (for explanation see nipple wort)  
-**lapse** *n.* **1.व्यपगम** *m.* (Const.), **2. बीतना, 3.चूक, 4** *Law*****(the termination or failureof a right
+**lapse** *n.* **1.व्यपगम** *m.* (Const.), **2. बीतना, 3.चूक, 4** *Law*(the termination or failureof a right
 
 or privilege throughneglect to exercise it...) **व्यपगम** *m.***, अवसान** *n.*  
 
@@ -1033,7 +1033,7 @@ lardalite = laurdalite** (Chambers)
 large Andaman paroquet** *Aves* **कृष्णद्वीपराज-शुक  
 large arm sling बढ़ा बाहु-धारक  
 large bamboo-rat** *Mamm.* **महा-वेणु-मूषक  
-large basil** (*Ocimum gratissimum*)**रामतुलसी** *f**.*** (Basu, Hin. Guj. Ben.********Mar. Tel. Uri.)  
+large basil** (*Ocimum gratissimum*)**रामतुलसी** *f**.*** (Basu, Hin. Guj. Ben.Mar. Tel. Uri.)  
 large-billed blue flycatcher *Aves* **महाचञ्चु नील शलभाश  
 large-billed blue-winged pitta** *Aves***महा-चञ्चु नील-पक्ष पद्मपुष्प  
 large-billed bush-warbler** *Aves* **दीर्घ-चञ्चु क्षुप-कृजिनी  
@@ -1445,7 +1445,7 @@ Launaea pinnatifida** (met with on thesandy coasts of India—Basu)**साम�
 
 *pathri*, Guj. Mar. *bhonpatri*)
 
-**launch** *n. * (a pleasure craft)******विहार-नौका** *f.*
+**launch** *n. * (a pleasure craft)**विहार-नौका** *f.*
 
 **yacht प्रमोदरणी** (*see* barge)
 
@@ -1639,7 +1639,7 @@ law list** (a semi-official list of those connected with the legal profession) *
 judicial business)**विधि-श्रीपति**
 
 **law made by parliament संसत्-कृत विधि  
-law-maker = legislator विधिकर्ता** (तू)*****m.*  
+law-maker = legislator विधिकर्ता** (तू)*m.*  
 **lawmaking** *n.* **विधिकरण** *n.*  
 **lawmaking** *adj.* **विधिकर, विधिकारी** (-इन्)
 
@@ -1983,7 +1983,7 @@ of the questioninvolved, so that it is made a precedent for other like or analog
 **leading constituent** *Math.* **अग्र संघटकं  
 leading counsel प्रमुख समुपदेशी  
 leading difference** *Statistics* **प्रमुखअन्तर  
-leading element** (of a determinant)*****Math.* **अग्रगामी अवयव  
+leading element** (of a determinant)*Math.* **अग्रगामी अवयव  
 leading end** (in a camera, of a film)**अग्रनाथी शीर्ष, नायी अन्त  
 leading local newspaper प्रमुख स्थानीयसमाचारपत्र  
 leading note or tone** (the seventhnote) **अग्रणी स्वर  
@@ -2188,7 +2188,7 @@ learning विद्या** *f.,* **ज्ञान** *n.,* **विद्व�
 **teaching process अध्यापन-प्रणाली**
 
 **leasable fishery पट्टदेय मीनक्षेत्र  
-lease** *n.******Law* **पट्ट** *m.,***पट्टा  
+lease** *n.**Law* **पट्ट** *m.,***पट्टा  
 lease** *vb.* **1.**(to grant lease) **पट्टदान, पट्टे पर देना, 2.**(to take lease) **पट्टादान, पट्टे पर लेना**
 
 **under a lease पट्टे पर**
@@ -2462,7 +2462,7 @@ left subclavian artery** *Zool.* **वाम-अधो-क्षक-रोहि
 left to itself स्वतः  
 left turn** *Drill* **वामावर्तः  
 left wheel** *Drill* **परिवामम्  
-leg 1.टंग *m****.,* **टांग, 2.***Zool.* **पाद** *m.*  
+leg 1.टंग *m.,* **टांग, 2.***Zool.* **पाद** *m.*  
 **legacy रिक्थ***n.* (ancient word)
 
 **property संपत्ति  
@@ -3085,10 +3085,10 @@ Leschenault's Indian forktail** *Aves***कामरूप द्विपुच
 less, less than** *Math.* **कनीयस्, अल्पीयस,से छोटा  
 -less अ-, -हीन  
 less accurately स्थूलरूपेण  
-lessee** *Law* (one to whom lease isgiven, or who takes an estate bylease) **पट्टधारी** (-इन्) *m****.*  
+lessee** *Law* (one to whom lease isgiven, or who takes an estate bylease) **पट्टधारी** (-इन्) *m.*  
 lessee's successor-in-interest पट्टधारीके हित का उत्तराधिकारी  
 lessen** *vb.* **न्यूनन, हसन, कम होना, न्यूनहोना, ह्रासन, न्यून करना, कम करना, हलका करना  
-lesser** *adj. **ल*****घु, छोटा, हलका  
+lesser** *adj. **ल*घु, छोटा, हलका  
 lesser anteater** *Zool.* **लघु वम्राद  
 lesser aorta** *Zool.* **लघु महारोहिणी  
 lesser blue-winged pitta** *Aves* **लघु नील-पक्ष पद्मपुष्प** (पद्मपुष्य is an ancient bird-name)  
@@ -3561,7 +3561,7 @@ libethenite ताम्रभास्विज** *m.* (ताम्र copper,
 **Libra = Balance** *Astron.* **तुला** *f.*
 
 ***α*²Librae and *α*¹Librae = Kiffa  
-Australis प्रथम तुला** *f.*****(प्रथम^(२), प्रथम^(१)तुला)  
+Australis प्रथम तुला** *f.*(प्रथम^(२), प्रथम^(१)तुला)  
 ***β*Librae = Kiffa Borealis द्वितीय तुला** *f.*  
 **Librae विशाखा** *f.*
 
@@ -4272,7 +4272,7 @@ given free coinage) **लंग-प्रमाप**
 **limpwort = horsecress** *(Veronica beccabunga)***अश्वशाक** *n.*  
 **Limulus = Xiphosurus  
 limy** *adj.* **चूर्णकनय  
-lin** (*Linum usitatissimum*) **अतसी** *f.*****(B.,N.,M.), **अलसी  
+lin** (*Linum usitatissimum*) **अतसी** *f.*(B.,N.,M.), **अलसी  
 Linaceae अतसी-कुल** *n.* (from *Linum* अतसी-प्रजाति)  
 **linaloa, linaloe** (Cf. Eng. lignaloes अगुरु) **जोंगक** *n.* (अमरकोश gives it as a synonym of अगुरु)  
 **linaloa oil जोंगक-तैल  
@@ -4316,7 +4316,7 @@ person)
 
 **line** (*Linum usitatissimum*) **अतसी** *f.*(B., N., M.), **अलसी  
 line** *vb.***1.रेखा खींचना, 2.**(a road) **पंक्तिबन्धन, 3.**(a well) **चयन, चिनना  
-linea alba** *Anat.***श्वे**त-रेखा**** *f.*  
+linea alba** *Anat.***श्वे**त-रेखा *f.*  
 **line absorption spectrum रेखा-प्रचूषण-रंगावलि  
 Lineae** *Bot.* **अतसी-कुल** *n.*  
 **lineage वंश** *m.* (*see* ancestry)  
@@ -4449,7 +4449,7 @@ I.F.R.)**पंक्ति-प्रतिरोपण** (पंक्ति ro
 **line planting = planting in lines** *or* **rows** *Forestry* **पंक्ति-रोपण  
 liner 1.***Aviation* (one of a number of airships under one management,plying regularly over
 
-a route)**पंक्तियान** *n.,***2.**Mach.****आस्तर** *m.,***3.**Rly.(distance-piece between two rails) **अन्तरखण्ड** *n.* **4.**(one who makes or draws lines)**रेखाकार** *m.*
+a route)**पंक्तियान** *n.,***2.**Mach.आस्तर** *m.,***3.**Rly.(distance-piece between two rails) **अन्तरखण्ड** *n.* **4.**(one who makes or draws lines)**रेखाकार** *m.*
 
 **lines दिशा, प्रणाली** *f.*  
 **lines and dots रेखा-बिन्दुक  
@@ -4607,7 +4607,7 @@ linolein** *Chem.* **आतसिन** *m.*
 **मीनातसिक अम्ल**
 
 **linolenin** *Chem.* **मीनातसि** *f.*  
-**linoleum आतस्य** *n.*****(from अतसी linseedoil)  
+**linoleum आतस्य** *n.*(from अतसी linseedoil)  
 **lino mechanic पंक्तिमुद्र-यान्त्रिक  
 lino operator पंक्तिमुद्र-चालक  
 Linophryne** *Zool.* (Gk. *linon* 'net, fishing line' + *phrynos* 'toad') **जालमीन-प्रजाति  
@@ -5202,7 +5202,7 @@ little Indian horseshoe-bat** *Mamm.***लघु भारत खुरप-ज�
 little Indian porpoise** *Mamm.* **भारत क्षुद्र-शिंशुक  
 little leaf** (a disease symptom in plants, in which the leaves are reduced and aborted)
 
-**पर्णह्रास****
+**पर्णह्रास
 
 *m.*
 
@@ -7155,7 +7155,7 @@ pearly lustre मौक्तिक-द्युति
 silky lustre कौशेय-द्युति**
 
 **lustrous** *adj.* **द्युतिमय  
-lute** *Chem.* **1.***n.*****(Lat. 'mud') **पंक** *m.***2.***vb.* (to seal with lute) **संपंकन  
+lute** *Chem.* **1.***n.*(Lat. 'mud') **पंक** *m.***2.***vb.* (to seal with lute) **संपंकन  
 lute शार्ङ्गी***f.*  
 **luteal** *adj. Anat.* **नारंगीय  
 luteal tissue** *Zool.* **नारंग-ऊति, नारंगकाय-ऊति  
@@ -7689,9 +7689,9 @@ lynx हलीक्ष्ण
 Lyra =Harp** *Astron.***अभिजित्** *m.*
 
 **α** **Lyrae = Vega प्रथमअभिजित्** *m.*  
-****β** Lyrae, var. =Shelyak द्वितीयअभिजित्, चर** *m.*  
-****γ** Lyrae = Sulafat तृतीय अभिजित्** *m.*  
-****η** Lyrae = Aladfar सप्तम अभिजित्** *m.*
+β** Lyrae, var. =Shelyak द्वितीयअभिजित्, चर** *m.*  
+γ** Lyrae = Sulafat तृतीय अभिजित्** *m.*  
+η** Lyrae = Aladfar सप्तम अभिजित्** *m.*
 
 **lyra = lyre of David = lyra Davidis = lyre of the fornix = psalterium** *Anat.* **तन्त्रिका** *f.*  
 **lyra Davidis = lyra** *Anat.*  

@@ -3508,10 +3508,10 @@ ORIENTAL COLLEGE,
 
 
 
-****कुशलवोपाख्याने  
+कुशलवोपाख्याने  
 लक्ष्मणसेनापराजयो नाम  
 नवमोऽध्यायः  
-\_\_\_\_\_\_\_\_****
+\_\_\_\_\_\_\_\_
 
 
 
@@ -4075,7 +4075,7 @@ V. 3.
 
 जहौ
 
-**—हा** To abandon III. A. Perf. 3rd. Sing. **अन्वगात्—अनु+अगात्** lit. Followed him, i. e. became aSati.**अगात्** is derived from **इ** II. P. To go, Aor. 3rd.****Sing.**मुदा—**With pleasure.
+**—हा** To abandon III. A. Perf. 3rd. Sing. **अन्वगात्—अनु+अगात्** lit. Followed him, i. e. became aSati.**अगात्** is derived from **इ** II. P. To go, Aor. 3rd.Sing.**मुदा—**With pleasure.
 
 V. 4
 
@@ -4126,7 +4126,7 @@ V. 22.**समाह्वयत्—सम्+आ+ह्वे** I. P. Caus. T
 
 V. 23. **महिष्यः—**She-buffaloes. **घटदुग्धभाजः—**Possessing pitcherfuls of milk.
 
-V. 24. **प्रतार्य—प्र+तृृ** Caus.**+य(ल्यप्)** Having****deceived.**कण्टकैः—**Inst. Pl. Thorns.
+V. 24. **प्रतार्य—प्र+तृृ** Caus.**+य(ल्यप्)** Havingdeceived.**कण्टकैः—**Inst. Pl. Thorns.
 
 P. 4. V. 25. **अवधार्य—अव + धृ** X. U.+**य(ल्यप्)** Having caught. Ordinarily**अव+धृ** means 'to think.'**शित—**Sharp.
 

@@ -120,7 +120,7 @@ WITH THE COLLABORATION OF
 **N. N. Chatterjee,** M.Sc., Calcutta. (*Geology*)  
 **S. P. Chatterjee,** T.D., Ph.D., Docteur de l'Université (Paris), F.G.S., Calcutta.(*Geography*)  
 **S. K. Chatterji,** M.A., D.Litt., F.R.A.S.B., Calcutta.(*Linguistics and Phonetics*)  
-**B. S. Chauhan,** M.Sc., Ph.D., F.Z.S., F.A.Sc., Calcutta.****(*Zoology*)  
+**B. S. Chauhan,** M.Sc., Ph.D., F.Z.S., F.A.Sc., Calcutta.(*Zoology*)  
 **G. S. Chowdhary,** M.B.B.S., F.R.C.S., Agra. (*Ophthalmology*)  
 **V. M. Dabadghaon,** M.Sc., Amraoti. (*Physics*)  
 **K. N. Dave,** Nagpur. (*Ornithology*)  
@@ -140,7 +140,7 @@ WITH THE COLLABORATION OF
 **S. M. Katre,** M.A., Ph.D. (Lond.), Poona. (*Sanskrit, Linguistics and Phonetics*)  
 **A. N. Khosla,** I.S.E., Vice-Chancellor, Roorkee. (*Irrigation*)  
 **M. S. Krishna,** M.A., Ph.D., A.R.C.S., D.I.C., F.N.I., Madras. (*Geology*)  
-**K. B. Lal,** M.Sc., Ph.D. (Edin.), F.R.S.E., Kanpur.****(*Entomology*)  
+**K. B. Lal,** M.Sc., Ph.D. (Edin.), F.R.S.E., Kanpur.(*Entomology*)  
 **Julius de Lanerolle,** Colombo. (Sinhalese)  
 **V. N. Likhite,** D.Sc., Baroda. (*Agriculture*)  
 **S. D. Limaye,** Ph.D., Poona. (*Chemistry*)  
@@ -154,14 +154,14 @@ WITH THE COLLABORATION OF
 **A. B. Misra,** D.Sc., D.Phil. (Oxon.), F.Z.S., **F.R.++++**Banaras. (*Zoology*)  
 **M. L. Misra,** Banaras. (*Ceramics*)  
 **V. V. Narlikar,** B.Sc., B.A. (Cantab.), F.R.A.S., F.N.I., Banaras. (*Mathematics*)  
-**Raj Nath,** M.Sc., D.I.C., Ph.D. (Lond.)**,** F.N.I., Banaras.****(*Geology*)  
+**Raj Nath,** M.Sc., D.I.C., Ph.D. (Lond.)**,** F.N.I., Banaras.(*Geology*)  
 **G. R. Paranjpe, M.Sc., A.I.I.Sc., I.E.S., F.N.I., I.P., Poona.** (*Physics*)  
 **P. Parija, M.A.** (Cantab.)**, F.N.I., I.E.S., Cuttack.** (*Botany*)  
 **H. S. Pruthi, M.Sc., Ph.D.** (*Cantab.*)**, Sc.D., F.R.A.S.B., F.N.I., New Delhi. (***Entomology***)  
 Shri Ranjan, M.Sc.** (Cantab.), **Docteur-ès-Sciences, F.A.Sc., Allahabad.** (*Botany*)  
 **B. R. Rao, M.A., D.I.C., F.G.S., F.N.I., Bangalore.** (*Geology*)  
 **L. R. Rao, M.A., F.G.S., F.A.Sc., F.N.I., Bangalore.**(*Geology*)  
-**┼M. D. Ratnasuriya, M.A., Ph.D.** (Lond.)****(*Sinhalese*)  
+**┼M. D. Ratnasuriya, M.A., Ph.D.** (Lond.)(*Sinhalese*)  
 **C. R. Sankaran, M.A., Ph.D., Poona.** (*Phonetics*)  
 **N. L. Sharma, M.Sc.** (B.H.U. and Liv'pl)**, F.G.M.S., A.M.G.I., Dhanbad.** (*Mineralogy*)  
 **A. N. Shastri, M.Sc.** (Lond.), **Jabalpur.** (*Mathematics*)  
@@ -852,7 +852,7 @@ Feminine forms end in **आ— वर्धमाना, क्रियमा�
 **2. *Past Tense***  
 **(a) *Perfect Parasmaipada***
 
-**(****4) वस्**  
+**(4) वस्**  
 **कृ— चकृवस्** one who has done.  
 This suffix is not usually met with in Hindi. If used,it will be in the masculine nominative singular form चकृवान्
 
@@ -874,7 +874,7 @@ As before, **आन**
 **छिद्— छिन्न** cut (fem. छिन्ना).  
 **पृृ — पूर्ण** filled (fem. पूर्णा).
 
-न occurs in some other cases also. By sandhi **न** changes to **ण.****निर् + वा** —**निर्वाण** extinguished (fem. निर्वाणा).
+न occurs in some other cases also. By sandhi **न** changes to **ण.निर् + वा** —**निर्वाण** extinguished (fem. निर्वाणा).
 
 **(d) *Active***
 
@@ -1287,7 +1287,7 @@ In Hindi, forms in मान्(masculine nom, sg.) are used —मधुमा�
 
    It is used in various senses. It may form adjectives in the sense of 'relating to', neuter abstract nouns with initial *vṛddhi*, as well as ordinary adjectives without initial*vṛddhi.*
 
-**ग्रैव्य****relating to neck** (ग्रीवा)**.**  
+**ग्रैव्यrelating to neck** (ग्रीवा)**.**  
 **सौभाग्य good fortune** (सुभग fortunate)**.**  
 **धूम्या dense smoke** (धूम)**.**  
 **सभ्यcivilised** (सभाsociety)**.**  
@@ -2512,7 +2512,7 @@ of the Alphabet**
 Serial Groups of Constants**
 
 **                   *Roman letters       
-Corresponding Greek letters *** ****** *** *        **
+Corresponding Greek letters *** ** *** *        **
 
 [TABLE]
 
@@ -2577,7 +2577,7 @@ available for being used as an unspecified general constant.
 (26) a × b will be क × ख read as क गुणित ख (*a*into *b).*  
 (27) a + b will beक + ख read as क युत ख (*a* added to *b*), orक अधिक ख, क धन ख (*a* plus *b*).  
 (28) a - b will be क - खread asक वियुत ख ( *a* subtracted by *b),*or क ऊन ख,क ऋण ख(*a* minus*b*).  
-(29) The positive sign will be called अधिक or धन, the****negative sign ऊन or ऋण
+(29) The positive sign will be called अधिक or धन, thenegative sign ऊन or ऋण
 
 ![](../../../../../../../books_images/U-IMG-1693307959rb4.png)will be read as अधिकोन  
 ![](../../../../../../../books_images/U-IMG-1693308010rb5.png)will be ऊनाधिक.
@@ -2686,7 +2686,7 @@ Operator कारक.
 
 (*i*) ∫*ydx* will be **अ** र च य read as अनुकल र च य.  
 *(ii)* Integral of *y* with respect to *x* between thelimits *a* and *b*  
-∫_(*a*)^(*b*)*ydx*will be ****अ**_(*क*)^(*ख*)**रचय,  
+∫_(*a*)^(*b*)*ydx*will be अ**_(*क*)^(*ख*)**रचय,  
 read as अनुकल सीमे क ख रचय (र का अनुकल, य के प्रति,क और ख सीमाओं में).  
 Integral *ydx*between the limits *a*and *b*  
 अनुकल र च य सीमा क और ख के बीच में.  
@@ -2895,14 +2895,14 @@ Y** (Young's modulus) **रे** (रेखीय प्रत्यास्थ
 
 **Meter is from Latin *mensus* to measure, akin toGreck *metron* a measure, ultimately from Sanskrit$\\sqrt{}$मा to meausre. In English meter has two senses: (1) Thatwhich measures, an instrument or an apparatus, e.g. barometer, thermometer. In this sense it is usually a suffix. (2) A unit of length. Its Indian counterpart is मान. Asa suffix it has been used in वर्षमान** (कौटल्य अर्थशास्त्र) **'an instrument for measuring rainfall'. When standing by it self it has been used as a general word expressing measure as well as particular measures, e.g. accordingto the commentator of तैत्तिरीयसंहिताand कात्यायनश्रौतसूत्र100 मानऽ make 5 पलऽ or पणऽ.**
 
-**The word मान can be made to cover both theusage of meter, viz.,** (1) **मान****meter as the unit of length,and (2) मान as a suffix denoting a measuring instrument,e.g. तापमान thermometer.**
+**The word मान can be made to cover both theusage of meter, viz.,** (1) **मानmeter as the unit of length,and (2) मान as a suffix denoting a measuring instrument,e.g. तापमान thermometer.**
 
 **Meter is subdivided into decimeter, centimeter,millimeter, etc. Their Indian equivalents would beदशिमान, शतिमान, सहस्रिमान, etc. Similarly for decameter,hectometer, kilometer, etc., which are its multiples, theIndian equivalents would be दशमान, शतमान, सहस्रमान, etc.**
 
 **In weights and capacity measures we had greatvariety in the past. After long search we have beenable to select out of these a series which can serve as thebasis for the formation of modern English terminology.Even a cursory glance at the two sets, the ancient Indianand the modern English, will convince the reader thatthe English system is largely Indian, from the grain upto the ton. The weights are usually multiples of two**(2, 2², 2³, 2⁴, 2⁵, 2⁶)**, with an occasional multiple or three or five. The starting point is यव, which is no more and no less than a grain. 180 यवऽ make one told. The present day Indian Government or Railway *seer***
 
 ***————————————————————————————————————————***  
-***\*दश सहस्र and दश-लक्ष are the prevalent names now adays. But अयुत****(10,000) **and प्रयुत** (million) **are simplerand easier to use in compounds. Fortunately प्रयुतisone of those few higher numbers whose value is fairlyconstant right up from the यजुर्वेद** (१७.२)**, तैत्तिरीयसंहिता**(४.४०. ११. ४, ७. २. २०. १)**, पञ्चविंशब्राह्मण and शांखायनश्रौत down to Āryabhaṭa I** (499 A. D.)**, Śrīdhara (750 A, D.), Bh**ā**skara II** (1150 A. D.)**, etc.***
+***\*दश सहस्र and दश-लक्ष are the prevalent names now adays. But अयुत(10,000) **and प्रयुत** (million) **are simplerand easier to use in compounds. Fortunately प्रयुतisone of those few higher numbers whose value is fairlyconstant right up from the यजुर्वेद** (१७.२)**, तैत्तिरीयसंहिता**(४.४०. ११. ४, ७. २. २०. १)**, पञ्चविंशब्राह्मण and शांखायनश्रौत down to Āryabhaṭa I** (499 A. D.)**, Śrīdhara (750 A, D.), Bh**ā**skara II** (1150 A. D.)**, etc.***
 
 80 *tolas;* one *tola*being exactly 180 grains (see also Webster's New International Dictionary of the English Language, 1934, s.v. *ser*).
 
@@ -3205,7 +3205,7 @@ which is a complete quadratic equation.
 
 The problem of altar construction gave rise alsoto certain indeterminate equations of the second degree, such as,
 
-(1)*x*²+*y*²=****z**²**  
+(1)*x*²+*y*²=z**²**  
 (2)*x*²+*a*²=**z**²
 
 and simultaneous indeterminate equations of the type
@@ -3744,7 +3744,7 @@ all their shades, i. e. five grades of saturation and five grades of brilliance.
 
 [TABLE]
 
-**पीतातिहरि ****greenish yellow-green**
+**पीतातिहरि greenish yellow-green**
 
 [TABLE]
 
@@ -3954,7 +3954,7 @@ all their shades, i. e. five grades of saturation and five grades of brilliance.
 पाण्डुरित white-coloured.  
 पाण्डुरिमन् white colour.  
 पाण्डुरीकरण colouring white.  
-पा****ण्डुरीकरोति vb. colours white.  
+पाण्डुरीकरोति vb. colours white.  
 प्रपाण्डु, प्रपाण्डुर very white, of a dazzling white colour.  
 वलक्ष white,** *m.* **white colour.  
 महाश्वेत very white, of a dazzling whiteness.  
@@ -4236,7 +4236,7 @@ all their shades, i. e. five grades of saturation and five grades of brilliance.
 रागिन् of a red coloured.  
 रागवत् red.  
 रागिन् of a red colour.  
-रञ्ज् ***vb****.* to redden, to grow red.  
+रञ्ज् ***vb.* to redden, to grow red.  
 राग red colour, rednesss.  
 रागमय consisting of red colour, red coloured.  
 रागवत् red.  
@@ -4884,7 +4884,7 @@ in India, although there are other words as well. Hindi, Bengali, Gujarati, Mara
 **सीस plumbum.**  
 ** सीस**is an all-India word: Nepali सिसो; Kumaoni सीसो; Bengali सीस, सिसा; Oriya सीसा, सीसक; Hindi सीस, सीसा; Panjabi सीसा; Sindhi सीहो; Gujarati सीसु; Marathi शिसें; Malayalam सीस, सीसक-; Kannada सीस; Telugu सीसमु; Tamil शीशम्.  
 **स्वर्ण aurum.**  
- स्वर्ण****is an all-India word: Kashmiri स्वन्; Western Pahari (Bhadrawahi) सुन्नो; Kumaoni सुनो; Bengali, Hindi स्वर्ण, सोना; Oriya सुवर्ण्ण, सुना; Panjabi, Lahndi सोना; Sindhi सोनु; Gujarati सुवर्ण, सोनँ; Marathi सुवर्ण, सोनें; Malayalam स्वर्ण्ण; Kannada स्वर्ण; Telugu स्वर्णमु; Tamil शुवर्णम्, शोन्नम्; Singhalese सुवन्.
+ स्वर्णis an all-India word: Kashmiri स्वन्; Western Pahari (Bhadrawahi) सुन्नो; Kumaoni सुनो; Bengali, Hindi स्वर्ण, सोना; Oriya सुवर्ण्ण, सुना; Panjabi, Lahndi सोना; Sindhi सोनु; Gujarati सुवर्ण, सोनँ; Marathi सुवर्ण, सोनें; Malayalam स्वर्ण्ण; Kannada स्वर्ण; Telugu स्वर्णमु; Tamil शुवर्णम्, शोन्नम्; Singhalese सुवन्.
 
 **II**
 
@@ -5020,7 +5020,7 @@ Nepali अग्नि, आगो; Kumaoni आगो; Hindi, Gujarati, Marathi �
 *D. COLOUR OF LINES IN THE SPECTRUM.*  
 **नैलातु** See indium, p. 124a.  
 *E. COLOUR OF SALTS.*  
-**रक्तला****\[ रक्त red + -ला \]— erbium \[from Ytt*er*by in Sweden, where gadolinite is found\].  
+**रक्तला\[ रक्त red + -ला \]— erbium \[from Ytt*er*by in Sweden, where gadolinite is found\].  
  Its salts are reddish.  
  रक्त is an all-India word: Hindi, Marathi रक्त, राता; Kumaoni, Nepali रातो; Assamese रातुल्; Panjabi, Lahndi रत्ता; Sindhi रतो; Gujarati रक्त, रातुॅंः Bengali रक्त; Oriya रक्तवर्ण; Tamil इरत्तम्; Telugu रक्तमु; Kannada रक्त, रकुत; Malayalam रक्तं; Singhalese रत्.  
 **श्यामला** ( श्याम green + -ला \]— praseodymium \[from Greek prasios of a leek-green + di*dymium* (Greek *didumos*twin) \].  
@@ -5282,7 +5282,7 @@ Spanish *azoe*, Italian and Portuguese *azoto*, Japanese 室 素 *chis-so stop-p
 
 **Its compounds are used as pigments, mordants, dyes, etc.**
 
-** Derivatives of ✓रंज्** (e.g. रंग, रंजक, रंजन) **are used all over India: Hindi****रंग,रंजक, रंजित;** **Bengali रङ्ग, रं, रञ्जक, रञ्जन, रञ्जित; Gujarati रंग, रंगवुंः Marathi रंग, रंगणें; Oriya रङ्ग, रङ्गा; Telugu रंगमु, रंगु, रंजकमु, रंजनमु;Kannada रंग, रंगु, रंजक, रंजन, रंजित; Malayalam रंग, रञ्जन, रञ्जनं.**
+** Derivatives of ✓रंज्** (e.g. रंग, रंजक, रंजन) **are used all over India: Hindiरंग,रंजक, रंजित;** **Bengali रङ्ग, रं, रञ्जक, रञ्जन, रञ्जित; Gujarati रंग, रंगवुंः Marathi रंग, रंगणें; Oriya रङ्ग, रङ्गा; Telugu रंगमु, रंगु, रंजकमु, रंजनमु;Kannada रंग, रंगु, रंजक, रंजन, रंजित; Malayalam रंग, रञ्जन, रञ्जनं.**
 
 **Some Interesting Words of Indian Origin**
 
@@ -5311,35 +5311,35 @@ confusion with indefinite article); ***naranja* in Spanish, *naranj* in Arabic,*
 
 **superlative from पर.**
 
-**Saccharo-शर्करा-. Med. Latin *saccharum*, Latin *saccharon,* from Greek*****sakcharon,***
+**Saccharo-शर्करा-. Med. Latin *saccharum*, Latin *saccharon,* from Greek*sakcharon,***
 
 **which is from Pali सक्खरा, from Sanskrit शर्करा. Our granulated sugar शर्करा, travelled to the West in days when Pali was the popular speech in India. English 'sugar' and allied European, words are from Med. Latin *succarum*** (also *zugurum*), **from Arabic *sukkar,* from Persian *shakar*, from Prakrit सक्खरा, from Sanskrit शर्करा. Sacchar-, saccharate, saccharic, saccharide, saccharin, saccharoid, saccharonate, saccharonic, saccharose, sucro-, sucrose, etc., are of common use in modern scientific literature.**
 
-**Sulphurशुल्बारि. The presence of the Indian word शुल्बारिin European****languages in the**
+**Sulphurशुल्बारि. The presence of the Indian word शुल्बारिin Europeanlanguages in the**
 
 **form of Eng. *sulphur,* Germ. *Schwefel*, Fr. *soufre*, Latin *sulphur,sulfur*, *sulpur*, is of the utmost significance for the history of spread of Indian science.**
 
-**Joseph William Mellor (1869-1938) has admitted in his Handbook of****Inorganic**
+**Joseph William Mellor (1869-1938) has admitted in his Handbook ofInorganic**
 
 **Chemistry that the European word sulphur has been derived from Sanskrit शुल्बारि-**
 
-**During the last ten centuries, when India lay low and when the priests****became the**
+**During the last ten centuries, when India lay low and when the priestsbecame the**
 
 **custodians of Sanskrit literature, non-religious literature perished as much by negligence as by vandalism of the foreign invaders who earned the reputation of burning Sanskrit manuscripts to warm their baths. शुल्बारि has come down to us preserved in lexicons. It occurs in the अभिधानचिन्तामणि** (भूमिकाण्ड, श्लोक १२३), **a systematically arranged lexicon of हेमचन्द्र, the great Jain encyclopaedist. शुल्बारि** (= शुल्ब+अरि) **is so called because it is the enemy of copper शुल्ब.That a copper piece when kept in sulphuric acid for some time is 'eaten up' is well-known. धातुमारी and धातुवैरीalso denote a similar idea.**
 
-**The common word for शुल्बारि is गन्धक which has also been used,****particularly in the**
+**The common word for शुल्बारि is गन्धक which has also been used,particularly in the**
 
 **naming of 'thio' compounds.**
 
-**Another interesting word of cultural significance is अयस् the parent of Latin*****ais,* Gothic**
+**Another interesting word of cultural significance is अयस् the parent of Latin*ais,* Gothic**
 
 ***ais*, old German *er*, modern German *Eisen*, English *iron.***
 
-**Both शुल्बारिand अयस् have been given their due place of honour in the****names of**
+**Both शुल्बारिand अयस् have been given their due place of honour in thenames of**
 
 **elements.**
 
-**Tri-grip त्रि-ग्रभ-French, Latin, Greek *tri-*. Forgrip compare Dutch*****grijpen*, German**
+**Tri-grip त्रि-ग्रभ-French, Latin, Greek *tri-*. Forgrip compare Dutch*grijpen*, German**
 
 ***greifen*, Danish *gribe*, Lithuanian *graibyti*, *griebti.***
 
@@ -5349,7 +5349,7 @@ confusion with indefinite article); ***naranja* in Spanish, *naranj* in Arabic,*
 
 **Prefixes**
 
-** An** (= a) **'not', used chiefly before vowels and h. It is the same as****Sanskrit अ- and अन्-,** **e.g., anhydride अजलेय.**
+** An** (= a) **'not', used chiefly before vowels and h. It is the same asSanskrit अ- and अन्-,** **e.g., anhydride अजलेय.**
 
 **Anti-** 'opposite, against, counter'. प्रति- also expresses the sense of 'against, in opposition to', e.g., anti-oxidant प्रति-जारणकर्ता.
 
@@ -5363,15 +5363,15 @@ confusion with indefinite article); ***naranja* in Spanish, *naranj* in Arabic,*
 
  **Per-,** a prefix denoting the presence in a compound of the *largest possible* or a relatively *large* proportion of the same element, or the presence of an atom having its*highest,* or a relatively *high,* valence. Our counterpart for per-is अति-, e. g., per-iodide अति-जम्बेय.
 
- **Pyro-****अग्नि-,** is a combining form, Greek *pyr, pyros,*meaning fire अग्नि. It is used to denote fire or heat, e.g., Pyro-gen अग्नि-जन.
+ **Pyro-अग्नि-,** is a combining form, Greek *pyr, pyros,*meaning fire अग्नि. It is used to denote fire or heat, e.g., Pyro-gen अग्नि-जन.
 
  **Super-** signifies 'over and above, higher' as in quantity, quality or degree. अधि- also expresses 'above, over and above'. Super-heated अधि-तप्त.
 
- **Boro-****टांक-**stands for boron टांकण, as in borosilicate टांक-सैकतीय.
+ **Boro-टांक-**stands for boron टांकण, as in borosilicate टांक-सैकतीय.
 
- **Fluor-, Fluoro-****तरस्व-**, a combining form for *fluorine*तरस्विनी; e.g., fluoro-benzene तरस्व-धूपेन्य.
+ **Fluor-, Fluoro-तरस्व-**, a combining form for *fluorine*तरस्विनी; e.g., fluoro-benzene तरस्व-धूपेन्य.
 
-** Form-****वम्र-,** a combining form for *formic*वम्रिकor *formyl* वम्रल, as in form-aldehyde वम्र-सुव्युद.Latin*formica* meaning an ant is akin to Sanskrit वम्र, from which is derived the common Hindi word बामी or बांबी ('anthill' from Sanskrit वम्रीय).
+** Form-वम्र-,** a combining form for *formic*वम्रिकor *formyl* वम्रल, as in form-aldehyde वम्र-सुव्युद.Latin*formica* meaning an ant is akin to Sanskrit वम्र, from which is derived the common Hindi word बामी or बांबी ('anthill' from Sanskrit वम्रीय).
 
 ** Hydr, hydro- उद**- stands for hydro-gen उद-जन, as in hydr-oxide उद-जारेय and hydrocarbon उदांगार. Hydrate is a compound formed by union of water with some other substance. It is जलीय. Hence hydrated is जलीयित.
 
@@ -6676,7 +6676,7 @@ FR.—Fundamental Rules, Central Provinces and Berar, vols. I, II, Nagpur, 1942,
 FRG.—Financial Rules** (General), **vols. I, II, Nagpur, 1929**.  
 **Gamble—Flora of the Presidency of Madras, by J. S. Gamble, vols, I-III, London, 1935,**
 
-**1921,****1928 resp.**
+**1921,1928 resp.**
 
 **GBC—Book Circulars of the Government of the C. P., Nagpur, 1927.  
 Gen, Cl. Act—General Clauses Act.**  

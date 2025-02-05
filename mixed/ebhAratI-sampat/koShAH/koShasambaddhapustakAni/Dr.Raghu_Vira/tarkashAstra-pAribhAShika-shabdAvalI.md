@@ -178,7 +178,7 @@ For deduction, **निगमन** has been used for some time past. We have acc
 
 
 
-fixed **सं** to **वाक्य;****सं** corresponding to *syl*- the *sandhi* form of *syn* "with" in *syl-logism.* **वाक्य** by itself would be “sentence.” **तर्क-वाक्य** is suggested as an alternative.
+fixed **सं** to **वाक्य;सं** corresponding to *syl*- the *sandhi* form of *syn* "with" in *syl-logism.* **वाक्य** by itself would be “sentence.” **तर्क-वाक्य** is suggested as an alternative.
 
 For *equivocation* the ancient term is **वाक्छलम्—**
 
@@ -532,7 +532,7 @@ causal laws **कारण-नियम**
 
 casuality (relation of cause and effect) **कार्य-कारण-सम्बन्ध, कारणता, कारणत्व** (ancient words)
 
-causation (relation of cause and effect) **कार्यकारण-सम्बन्ध,****कारणता, कारणत्व**
+causation (relation of cause and effect) **कार्यकारण-सम्बन्ध,कारणता, कारणत्व**
 
 law of causation **कार्यकारण-नियम**
 
@@ -1080,7 +1080,7 @@ mediate inference **व्यवहित अनुमान**
 
 infima species **अवम जाति**
 
-inseparable accident **अवियोज्य उप****लक्षण**
+inseparable accident **अवियोज्य उपलक्षण**
 
 inverse **विपरीत**
 
@@ -1314,7 +1314,7 @@ petitio principii = begging the question
 
 
 
-physical partition (as of a tree into its parts) **अवयव-****विभाजन**
+physical partition (as of a tree into its parts) **अवयव-विभाजन**
 
 plurality of causes **कारण-बहुत्व**
 
@@ -1346,7 +1346,7 @@ presupposition **पूर्वकल्पना**
 
 privative term **वैकल्यवाची पद**
 
-problematic proposition (asserting possibility) **शक्यता-****वाची प्रस्थापना**
+problematic proposition (asserting possibility) **शक्यता-वाची प्रस्थापना**
 
 progressive sorites **प्रगामी संक्षेप-माला**
 
@@ -1368,13 +1368,13 @@ exceptive proposition **अपवादक प्रस्थापना**
 
 exclusive proposition **व्यावर्तक प्रस्थापना**
 
-explicative proposition **विवरणात्मक प्रस्थापना, विवाचक****प्रस्थापना**
+explicative proposition **विवरणात्मक प्रस्थापना, विवाचकप्रस्थापना**
 
 hypothetical *or* conditional proposition **सोपाधिक प्रस्थापना**
 
-indesignate, proposition (not quantified) **निर्मात्रिक****प्रस्थापना**
+indesignate, proposition (not quantified) **निर्मात्रिकप्रस्थापना**
 
-problematic proposition (asserting possibility) **शक्यता****वाची प्रस्थापना**
+problematic proposition (asserting possibility) **शक्यतावाची प्रस्थापना**
 
 real proposition **वास्तविक प्रस्थापना**
 
@@ -1410,7 +1410,7 @@ reductio ad absurdum **व्याघात परिणामी**(leading to 
 
 
 
-reductio ad impossible=reductio per impossible **अशक्य-****परिणामी**
+reductio ad impossible=reductio per impossible **अशक्य-परिणामी**
 
 reduction **प्रकारान्तरण**
 
@@ -1584,7 +1584,7 @@ undistributed middle **अव्याप्त मध्य**
 
 undistributed term **अव्याप्त पद**
 
-uniformity of nature **प्रकृति की एकरूपता (हिन्दी), प्रकृतीची****एकरूपता (मराठी)**
+uniformity of nature **प्रकृति की एकरूपता (हिन्दी), प्रकृतीचीएकरूपता (मराठी)**
 
 unity **एकता**
 
@@ -1596,7 +1596,7 @@ universal negative (E) **सामान्य नास्तिवाची (�
 
 universals (like man, tree) **जातिपद**
 
-universe of discourse **वचन-विषय, वचन-प्रसंग, वचन-संदर्भ****(मराठी)**
+universe of discourse **वचन-विषय, वचन-प्रसंग, वचन-संदर्भ(मराठी)**
 
 **V**
 

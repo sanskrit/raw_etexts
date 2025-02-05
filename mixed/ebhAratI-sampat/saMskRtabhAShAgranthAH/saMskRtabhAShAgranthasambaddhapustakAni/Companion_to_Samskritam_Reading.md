@@ -213,7 +213,7 @@ not understand what sense he makes out of the line with this explanation. I thin
 
  20. The third line is elliptical. It means *‘after this, will attentively hear \[all that you say about me\]’*.
 
- 21. Mallinatha’s analysis of the compound **सुहृदुपगत**does not appear to me correct. He should have said **सुहृदः** **उपगतः**and not **सुहृदा****उपगतः** “*received from a friend.*”I do not think the instrumental is ever used in the sense of ‘*through*’.
+ 21. Mallinatha’s analysis of the compound **सुहृदुपगत**does not appear to me correct. He should have said **सुहृदः** **उपगतः**and not **सुहृदाउपगतः** “*received from a friend.*”I do not think the instrumental is ever used in the sense of ‘*through*’.
 
 \_\_\_\_\_\_\_
 
@@ -493,7 +493,7 @@ Ku. VII. 11.
 
 
 
-*ment*. Then by a figure of speech, whose instances are so common in English, it came to mean a *place of confinement*. Then, by another step, it was allowed to convey *the inmates of a place of confinement*. And as Hindu ladies of yore, like the generality of the Hindu ladies of modern days, were not allowed freedom of intercourse, it came to signify *the ladies of a haram*. This fact is borne out by the whole Sanskrit Drama.Yet there are people who attribute it entirely to Mahamedan invasion and deny its existence before those days. **मनस्विनी**means *large-hearted.* **दृढचित्ता****is not its exact synonym.
+*ment*. Then by a figure of speech, whose instances are so common in English, it came to mean a *place of confinement*. Then, by another step, it was allowed to convey *the inmates of a place of confinement*. And as Hindu ladies of yore, like the generality of the Hindu ladies of modern days, were not allowed freedom of intercourse, it came to signify *the ladies of a haram*. This fact is borne out by the whole Sanskrit Drama.Yet there are people who attribute it entirely to Mahamedan invasion and deny its existence before those days. **मनस्विनी**means *large-hearted.* **दृढचित्ताis not its exact synonym.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1606,7 +1606,7 @@ Sa. vIr. 9.
 
 **अतः खलु ममानतिक्रुद्धो मुनिः।**
 
-****
+
 
 मारीचः
 

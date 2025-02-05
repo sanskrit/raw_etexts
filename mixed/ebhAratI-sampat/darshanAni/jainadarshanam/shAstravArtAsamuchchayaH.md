@@ -332,7 +332,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NDIzMzM1
 
 
 
-****
+
 
 ** द्वितीयस्तबकः**
 
@@ -1354,7 +1354,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NDIzMzM1
 
 
 
-****
+
 
 ** नवमस्तबकः**
 

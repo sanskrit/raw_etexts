@@ -123,7 +123,7 @@ māşaka. A unit of silver is one-seventieth part of a unit of gold. A dīnāra 
 
 **बृहस्पतिः।**
 
-gold. Whenever in the Code an isolated number is mentioned in relation to punishment, it should be construed with paņas;the phrase **"शतं दण्डाः"** should the mean " **शतपणं****दण्डाः** ”. A pana is the one-sixteenth part of a kārṣāpaņa, and a kakini is the one-fourth part of a pana. A dhanika coin is composed of four kārṣāpaņas.
+gold. Whenever in the Code an isolated number is mentioned in relation to punishment, it should be construed with paņas;the phrase **"शतं दण्डाः"** should the mean " **शतपणंदण्डाः** ”. A pana is the one-sixteenth part of a kārṣāpaņa, and a kakini is the one-fourth part of a pana. A dhanika coin is composed of four kārṣāpaņas.
 
 A karşa is a certain weight, equal to 16 māsas. A dharaṇa is a certain weight, equal to 10 palas. A pala is equal to 4 karşas. A guñja is a small shrub, used as a measure of weight. Yava is barley corn used as a measure of weight and is one- half of a guñja, or 6 or 12 mustard seeds. Sarşapa is grain of mustard seed, used as a measure of weight of very various value. Tolaka is a weight of gold or silver and is equal to 16  
 māsas. Kṛṣṇala is black-berry used as a weight. A silver māsa is composed of two kṛṣṇalas. Sixteen silver mäşas make a Dharana, and ten Dharanas make a śatamāna. A gold măşa consists of five Raktikas, while a silver mãşa consists of two Raktikas and is one-twentieth part of a silver Purana. A silver mãşa is usually called as a māṣaka and is thus differen- tiated from a gold māsa.
@@ -808,7 +808,7 @@ KANALAKRSNA SMRTITĪRTHA
 **इष्टंस्यात् क्रतुभिस्तेन सहस्रशतदक्षिणैः॥**
 
  इह राजेति हननाधिकारी श्रुत एव। यत्र विशेषवचनं नास्ति तत्रापि वधार्थमुपदेशो राज्ञ एव राजवृत्तेरेव वा तस्यैव प्रजापालनवृत्तत्वात्[^14]। न द्विजातिमात्रस्य।  
-**  ब्राह्मणः परीक्षार्थमपि नशस्त्रमुपाददीतेति****बौधायनेन,—**
+**  ब्राह्मणः परीक्षार्थमपि नशस्त्रमुपाददीतेतिबौधायनेन,—**
 
 [^14]: "१ ग घ पुस्तकद ये प्रवृत्तत्वात् ।"
 
@@ -2042,8 +2042,8 @@ KANALAKRSNA SMRTITĪRTHA
 
 तथा,-
 
-**स्त्री****धनं दापयेद्दण्डं धार्म्मिकः पृथिवीपतिः।  
-निर्द्धना चाप्तदोषा ****स्त्री**** ताडनं दण्डमर्हति ॥**
+**स्त्रीधनं दापयेद्दण्डं धार्म्मिकः पृथिवीपतिः।  
+निर्द्धना चाप्तदोषा स्त्री ताडनं दण्डमर्हति ॥**
 
 यदि धनवतीस्त्री तदा तस्य दोषे सति धनं दण्डो धनाभावे तु ताडनमित्यर्थः।  
 मनुः, -
@@ -2081,7 +2081,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 बृहस्पतिः,
 
-**साहसं पञ्चधा प्रोक्तं वधस्तत्राधिकः स्मृतः।****तत्कारिणीनार्थदमैः शास्या वध्याः प्रयत्नतः॥**
+**साहसं पञ्चधा प्रोक्तं वधस्तत्राधिकः स्मृतः।तत्कारिणीनार्थदमैः शास्या वध्याः प्रयत्नतः॥**
 
 तत्कारिणः साक्षाद्धन्तारः।
 
@@ -2344,7 +2344,7 @@ KANALAKRSNA SMRTITĪRTHA
 
   एवञ्च ब्राह्मणादीनां मध्ये यो यस्य क्षत्रियशूद्रयोवधे दण्डः स एव तेनात्रेय्या वधे देय इति गम्यते।
 
-**** अत्र परकीयाणामेषां वधे **हन्तु[^91];-**तत्स्वामिने तत्प्रति-निधि-तन्मूल्ययोरेकतरदानमपीति दण्डपारुष्यप्रकरणेस्फुटम् ।
+ अत्र परकीयाणामेषां वधे **हन्तु[^91];-**तत्स्वामिने तत्प्रति-निधि-तन्मूल्ययोरेकतरदानमपीति दण्डपारुष्यप्रकरणेस्फुटम् ।
 
 [^91]: "१ ख ग हन्त्रा।"
 
@@ -2654,7 +2654,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 तत्रयाज्ञवल्क्य,-
 
-****स्वसीम्नि दद्यात् ग्रा**मस्तु पदं वा यत्र गच्छति ।**  
+स्वसीम्नि दद्यात् ग्रा**मस्तु पदं वा यत्र गच्छति ।**  
 **पञ्चग्रामीबहिः क्रोशाद्दशग्राम्यथवा पुनः॥**
 
 अथवेति वाकारोऽनास्थायां अत्र ग्रामाध्यक्षे सति स एव दद्यात् ।
@@ -3729,7 +3729,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 **गोऽश्वोष्ट्रगजापहार्य्येककरपादिकः कार्य्यः।**
 
-****अल्पो यथा- शङ्खलिखितौ, -
+अल्पो यथा- शङ्खलिखितौ, -
 
 **    हस्त्यश्वगोवृषायनेषु राजपुत्रापहारवद्दण्डः।**
 
@@ -5267,7 +5267,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 पुराणशब्दोऽच द्वाविंशद्राजतकृष्णलपर इति रत्नाकरः। अन्नृताभिशंसनमाक्रोशः।अङ्गमत्र जिह्वा अपकृष्टवर्णेषु उत्कृष्टवर्णं प्रति मिथ्यातीव्राक्रोशे जिह्वाछेदः पञ्चशतं वा दण्डः।
 
-**** हीनवर्णस्य दण्डमुक्त्वाऽधिकतमस्याह **–** आद्येष्वित्यादि आद्येषु उत्कृष्टेषु निकृष्टं प्रति मिथ्यातीव्राक्रोशे पञ्चशतपादः।
+ हीनवर्णस्य दण्डमुक्त्वाऽधिकतमस्याह **–** आद्येष्वित्यादि आद्येषु उत्कृष्टेषु निकृष्टं प्रति मिथ्यातीव्राक्रोशे पञ्चशतपादः।
 
  मतान्तरमाह न वेति,**–** आदिवर्णत्वात् क्षुद्रापेक्षया ब्राह्मणादीनां प्रथमवर्णत्वात् ।  
 तदेतद्यथा रत्नाकरे व्याख्यातम् ।  
@@ -5598,7 +5598,7 @@ KANALAKRSNA SMRTITĪRTHA
 
  अनिष्टममित्रस्तोत्रादि तस्य प्रवक्ता प्रकर्षेण भूयो भूयो वक्तारं तस्यैव राज्ञ आक्रोशिनं निन्दाकरणशीलं तदीयस्य च मन्त्रस्य स्वराष्ट्रवृद्धिहेतोः परराष्ट्रक्षयकारस्य च भेत्तारममित्रकर्णेषु जपन्तं जिह्वामुत्कृत्य स्वराष्ट्रानिष्काशयेदिति ।
 
-यत्तु, -****त्रैविद्यन्नृपदेवानां क्षेप उत्तमसाहसः।
+यत्तु, -त्रैविद्यन्नृपदेवानां क्षेप उत्तमसाहसः।
 
 इति याज्ञवल्क्यवचनं तत्र लघुतः क्षेपो विवक्षित इति न विरोधः।
 
@@ -8299,7 +8299,7 @@ KANALAKRSNA SMRTITĪRTHA
 ॥ इति प्रकीर्णके मुक्तकवर्गः॥
 
 
-**अथ विवादपदानि****।**
+**अथ विवादपदानि।**
 
 अत्रमनुः, -
 

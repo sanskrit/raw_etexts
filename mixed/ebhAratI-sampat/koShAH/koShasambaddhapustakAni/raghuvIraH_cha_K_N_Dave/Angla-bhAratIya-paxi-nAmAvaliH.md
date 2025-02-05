@@ -498,7 +498,7 @@ Jay **वन चाप** (ancient time)
 |     |                         |                              |                                            |
 |-----|-------------------------|------------------------------|--------------------------------------------|
 | 48  | Pyrrhocorax pyrrhocorax | **सामान्य सुवर्ण-काक**       | The Red-billed Chough **रक्त- चञ्चु काक** |
-| 49  | Pyrrhocoraxgraculus    | **पीत-चञ्चु****सुवर्ण-काक** | The Yellow-billed Chough**पीत-चञ्चुकाक** |
+| 49  | Pyrrhocoraxgraculus    | **पीत-चञ्चुसुवर्ण-काक** | The Yellow-billed Chough**पीत-चञ्चुकाक** |
 
 **PODOCES** (genus) **भूकाक-प्रजाति**
 
@@ -886,7 +886,7 @@ The Titmouses **वल्गुली**
 |------|--------------------------------------|----------------------------------|---------------------------------------------------------|
 | 297  | Schoeniparus dubius dubius           | **सामान्य तनुश्रीकुण्ठ चंचु**   | The Tenasscrim Tit-Babbler**तनुश्रीचपला**             |
 | 298 | Schoeniparus dubius mandellii        | **कामरूपतनुश्रीकुण्ठ-चंचु**    | The Assam Tit-Babbler**कामरूप चपला**Assam**कामरूप** |
-| 299  | Schoeniparus dubius genestieri       | **काचीन****तनुश्रीकुण्ठ-चंचु** | Rippon's Tit-Babbler**काचीनचपला**                     |
+| 299  | Schoeniparus dubius genestieri       | **काचीनतनुश्रीकुण्ठ-चंचु** | Rippon's Tit-Babbler**काचीनचपला**                     |
 | 300  | Schoeniparus rufigularis rufigularis | **सामान्य रक्त-कण्ठ कुंठ-चंचु**  | The Red-throated Tit-Babbler**रक्त-कण्ठचपला**         |
 
 
@@ -926,7 +926,7 @@ The Titmouses **वल्गुली**
 
 
 
-**LEIOPTILA** (genus)**स्निग्धपत्र-****प्रजाति**
+**LEIOPTILA** (genus)**स्निग्धपत्र-प्रजाति**
 
 (leio **स्निग्ध**, ptila**पत्र**)
 
@@ -981,7 +981,7 @@ The Titmouses **वल्गुली**
 
 |     |                              |                           |                                                                                |
 |-----|------------------------------|---------------------------|--------------------------------------------------------------------------------|
-| 351 | Leiothrix lutea callipyga    | **सुकटि पीतोदररोचिष्णु** | The Indian Red-billed Leiothrix**हिमालयरोचिष्णु** nanachura****(Dehra Doon) |
+| 351 | Leiothrix lutea callipyga    | **सुकटि पीतोदररोचिष्णु** | The Indian Red-billed Leiothrix**हिमालयरोचिष्णु** nanachura(Dehra Doon) |
 | 352 | Leiothrix lutea yunnanensis | **काचीन पीतोदररोचिष्णु** | The Yunnan Red-billed Leiothrix**काचीनरोचिष्णु**                             |
 
 
@@ -1005,7 +1005,7 @@ The Titmouses **वल्गुली**
 
 |     |                          |                             |                                                               |
 |-----|--------------------------|-----------------------------|---------------------------------------------------------------|
-| 360 | Hlilarocichla rufiventer | **आरक्तोदर****अनुलटूषिका** | The Rufous-bellied Shrike-Babbler **आरक्तोदर****अनुलटूषिका** |
+| 360 | Hlilarocichla rufiventer | **आरक्तोदरअनुलटूषिका** | The Rufous-bellied Shrike-Babbler **आरक्तोदरअनुलटूषिका** |
 
 
 
@@ -1188,7 +1188,7 @@ season and taking to the date-gardens**खर्जूर**)
 
 |     |                     |                     |                                            |
 |-----|---------------------|---------------------|--------------------------------------------|
-| 415 | Euptilosus eutilota | **बभ्रु****सुचूड** | The Crested Brown Bulbul **सुचूड गोवत्सक** |
+| 415 | Euptilosus eutilota | **बभ्रुसुचूड** | The Crested Brown Bulbul **सुचूड गोवत्सक** |
 
 
 
@@ -1206,7 +1206,7 @@ season and taking to the date-gardens**खर्जूर**)
 
 |     |                       |                         |                                                 |
 |-----|-----------------------|-------------------------|-------------------------------------------------|
-| 417 | Hemitarsus zeylonicus | **सिंहल****पीत-शीर्ष** | The Yellow-crowned Bulbul**पीत-शीर्षगोवत्सक** |
+| 417 | Hemitarsus zeylonicus | **सिंहलपीत-शीर्ष** | The Yellow-crowned Bulbul**पीत-शीर्षगोवत्सक** |
 
 
 **IOLE** (genus) **रामा-प्रजाति**
@@ -1337,7 +1337,7 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 
 **TURDIDAE** (Family) **तर्दाश-वंश**
 
-( **तर्द** a****field insect, **अश**feeding on)
+( **तर्द** afield insect, **अश**feeding on)
 
 **BRACHYPTERYGINAE** (sub-family)**लघुपक्षानुवंश**
 
@@ -1905,7 +1905,7 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 |     |                       |                       |                                          |
 |-----|-----------------------|-----------------------|------------------------------------------|
-| 812 | Elaphrornis palliseri | **गुप्त****मुंज-चर** | Palliser's Ant-Warbler**मुंजचरकूजिनी** |
+| 812 | Elaphrornis palliseri | **गुप्तमुंज-चर** | Palliser's Ant-Warbler**मुंजचरकूजिनी** |
 
 
 
@@ -4677,7 +4677,7 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 |      |                                |                                  |                                                         |
 |------|--------------------------------|----------------------------------|---------------------------------------------------------|
-| 1945 | Bambusicola fytchii fytchii    | **सामान्य भस्म-शीर्ष वेणु-वासी** | The Yunnan Bamboo-Partridge**चीन** **वेणु****-तित्तिर** |
+| 1945 | Bambusicola fytchii fytchii    | **सामान्य भस्म-शीर्ष वेणु-वासी** | The Yunnan Bamboo-Partridge**चीन** **वेणु-तित्तिर** |
 | 1946 | Bambusicola fytchii hopkinsoni | **कामरूप भस्म-शीर्ष वेणु-वासी**  | The Assam Bamboo-Partridge **कामरूप वेणु-तित्तिर**      |
 
 
@@ -5505,7 +5505,7 @@ STERNA (genus) **दिव्या-प्रजाति**
 |      |                                  |                                |                                                            |
 |------|----------------------------------|--------------------------------|------------------------------------------------------------|
 | 2163 | Limicola falcinellus falcinellus | **सामान्य पृथु-चंचु पंक-वासी** | The Broad-billed Sandpiper**पृथु-चंचु** **जलरंक**         |
-| 2164 | Limicola falcinellus sibirica    | **पूर्वीय पृथु-चंचु पंक-वासी** | The Eastern Broad-billed Sandpiper**पृथु-चंचु****जलरंक** |
+| 2164 | Limicola falcinellus sibirica    | **पूर्वीय पृथु-चंचु पंक-वासी** | The Eastern Broad-billed Sandpiper**पृथु-चंचुजलरंक** |
 
 
 

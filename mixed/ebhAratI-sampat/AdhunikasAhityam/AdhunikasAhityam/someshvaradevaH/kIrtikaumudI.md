@@ -3142,7 +3142,7 @@ CANTO I.
 
 **St. 6.** Mark the two meanings of **सरस्वतीः**—the goddess of learning and theriverofthat name; and those of **उपास्ति**viz., worship and vicinity.  
 
-**St. 11.****सुपर्वेपाचितम्—सुपर्वन्**means a god; the parts into which Mahâbhârataisdivided are alsocalled **पर्वन्**.The adjective is intended to apply to **स्वर्ग** aswell as to **भारत.**  
+**St. 11.सुपर्वेपाचितम्—सुपर्वन्**means a god; the parts into which Mahâbhârataisdivided are alsocalled **पर्वन्**.The adjective is intended to apply to **स्वर्ग** aswell as to **भारत.**  
 
 **St. 13.** **माघसेवाम्**—the study of Mâgha's poem śiśupâlavadha; also **मा अघसेवाम्.** Thedouble sense of the verse is clear.  
 
@@ -3193,7 +3193,7 @@ stood in a double sense. The former may mean **साधूनां श्र�
 
 **St. 34.** The double meaning of **रसवत्यां मालिन्यं जनयन्ति,** one applicable to **धूम**and another to wicked men, may escape one whose ear is not accustomed to hear the word **रसवती**(ver.**रसोई**) applied to cooking. Its original meaning is a kitchen.  
 
-**St. 38.दोषज्ञ**a****wise man; **वकरभूमी**a place where sweepings are heaped up. **घनरासभा** means crowded with asses and qualifies **वकरभूमिः सहसाघनरा** qualifies **सभा;** it may be explained as **साघैः अघसहितैः नरैः सहिता. त्याज्या** qualifies both **सभा** and **वकरभूमी.**  
+**St. 38.दोषज्ञ**awise man; **वकरभूमी**a place where sweepings are heaped up. **घनरासभा** means crowded with asses and qualifies **वकरभूमिः सहसाघनरा** qualifies **सभा;** it may be explained as **साघैः अघसहितैः नरैः सहिता. त्याज्या** qualifies both **सभा** and **वकरभूमी.**  
 
 **St. 40.रतवानिव वायसः.** It is considered as an ill omen to see crows pairing. The sight presages death to the person seeing it. Expiatory ceremonies are prescribed; and the popular belief is that bad consequences are averted if a false rumour regarding the death of the man seeing the crows is spread among his relatives and friends.**शान्तिसार**a book treating of expiatory ceremonies quotes the following verses from a Purâṇa:
 
@@ -3233,7 +3233,7 @@ CANTO II.
 **St. 8. पङ्कजवर्तित्व, कोशविलास** and **वंशभेद** apply in different senses both to a row of bees and a sword.  
 **St. 9.महीपतिमतल्लिका**an excellent king.  
 **St. 13.कालेन**&c. This refers to the still prevailing belief that treasures hidden under the earth are usually guarded by cobras. It is further believed that those who keep money under ground become cobras after death, and keep watch over their treasure. They allow only those persons to touchthe money for whose use they left it.  
-**St. 17.एकधारा**&c.The play upon the word **धारा** will not escape notice****In **एकधारापतिः**Itmeans the city of that narne in Malwá; **द्विधार** meansdouble-edged,and **शतधार**means the weapon of Indra.  
+**St. 17.एकधारा**&c.The play upon the word **धारा** will not escape noticeIn **एकधारापतिः**Itmeans the city of that narne in Malwá; **द्विधार** meansdouble-edged,and **शतधार**means the weapon of Indra.  
 **St. 19. धात्रीं**&c. This line as found in the texts is unintelligble. The reading suggested by C may be translated thus:—The king Śrîkarṇa governed the earth with the oceans as the helm governs a boat. But one would expect that **पोत्री** should be in the accusative as**धात्री**is. The word **कर्ण**is a proper name. It also means a helm.  
 
 **St. 21.इतीव जज्ञिरे**f&c. The line has two meanings. "It means"itwas as it were on this account that their likings followed Karna;" and also "the news entrusted to them always went from ear to ear." This last refers to the popular belief that woinen cannot keep a secret. Kuntî, the mother of the Pâṇḍavas, concealed from them the secret of Karna having been their brother, and thus made them commit unconsciously the sin of fratricide. She revealed the fact after the death of Karṇa; and Yudhishṭhira, who became angry at her conduct, cursed women thus: **पापेनासौमया श्रेष्ठो भ्राता ज्ञातिर्निपातितः। अतो मनसि यद्गुह्यं स्त्रीणां तन्न भविष्यति॥**Popular belief attributes the supposed failing of women to this curse.  
@@ -3290,7 +3290,7 @@ and**हंस**than for the fact of Bhima having lost the kingdom. Besides Bhî
 **St. 100.** This verse refers to the joining under one rule of Soreth and Gujerat.  
 **St. 107.** Translation:—"Having thus told what I had to do, and having all at once placed around my neck this white garland of flowers, the lady suddenly vanished with my sleep. Now tell us what this is." Dr. Bühler translates it thus:—"After the goddess had spoken thus, she threw her garland on this chair and vanished together with my dream. Now tell me what this means" ? Indian Antiquary Vol. VI., Part lxix. This overlooks the word 'Kaṇtha.' Besides, placing a garland around the neck has to the Hindu mind a special significance; while throwing a garland on the chair is pointless.  
 **St. 110.** **दुश्चरितप्रवृत्तौ अग्रेसरी भवति** and **संगरव्यतिकरापसृतौ पश्चाङ्गवति** "which comes forward when one feels an inclination to do a wrong act, and which places itself behind when one thinks of running way from the throng of the battle-field." Being forward in bad acts and backwards in war, which are in themselves bad, are here applied to **अर्गला**and the whole verse therefore contains praise of the heroes. The poet means that high birth stands before a man when he feels inclined to rush towards an evil act, and stands behind him when he thinks of retiring ignobly from the battle-field, and thus saves him from both the evils.  
-**St. 111.****दीपाङ्कुरा दशान्तमुपेयिवांसः**flames of lights which have gone to the end of their wicks.  
+**St. 111.दीपाङ्कुरा दशान्तमुपेयिवांसः**flames of lights which have gone to the end of their wicks.  
 **St. 112.** Mark the double sense of **गुणैः**virtues and strings. The poet hints that a conqueror who seizes a country by force should make it happy by good government, as one, who forcibly takes away a young woman from her parents, tries to keep her pleased when she becomes his wife.
 
 
@@ -3311,13 +3311,13 @@ CANTO III
 
 
 life to his mother Reṇukâ. For the story of Paraśurâma having killed his mother by the command of his father, Jamadagni, see M. Bh. III. Ch. 116.  
-**St. 24.****स्रयीव**like the three vedas.  
+**St. 24.स्रयीव**like the three vedas.  
 **St. 25.परेषां पुरुषाणाम्**of Brahman, Vishṇu and Maheśvara.  
-**St. 28.****कौस्तुभ** the ornament on the chest of Jina. All images of Tîrthankaras have invariably this ornament on the chest. It is usually of great value. It consists of a large diamond set in gold and is like a star in size.  
-**St. 29.****वस्तुत्वम्**true nature.  
+**St. 28.कौस्तुभ** the ornament on the chest of Jina. All images of Tîrthankaras have invariably this ornament on the chest. It is usually of great value. It consists of a large diamond set in gold and is like a star in size.  
+**St. 29.वस्तुत्वम्**true nature.  
 **St. 30.** It will be remembered that Malladeva was the elder and Tejahpâla the younger brother of Vastupâla.  
 **St. 31.** The poet's meaning is that **वसुधा,** the gift of the minister, is greater than **सुधा,** the gift of the moon.  
-**St. 32.****क्षमालंकरण,** when applied to **न्यग्रोधशाखी**is to be understood as **क्षमा पृथ्वी अलंक्रियते** **येन सः;** and when applied to the minister, as **क्षमा दया अलंकरणं यस्य सः.**  
+**St. 32.क्षमालंकरण,** when applied to **न्यग्रोधशाखी**is to be understood as **क्षमा पृथ्वी अलंक्रियते** **येन सः;** and when applied to the minister, as **क्षमा दया अलंकरणं यस्य सः.**  
 **St. 33.** **गुण** is intended to be understood in a double sense. It may be rendered thus:—with only six threads, viz., the six means or measures of policy, he made such a wonderful fabric of fame that it covered the whole earth with its seas and mountains. **धर**amountain. The six **गुण** are **संधिविग्रहयानासनसंश्रयद्वैधीभावाः**Peace, war, expedition, taking up a position against an enemy, seeking the protection of a powerful state and keeping appearances with two enemies.  
 **St. 35. अहंकरोति**is arrogant;**त्वंकरोति**treats with disrespect,**भवान्** or **युयम्**is used when one is speaking respectfully. Therefore to address a man as **त्वम्**has the sense of speaking in disrespectful terms.  
 **St. 40.** The instances in which a prosodially long vowel is treated as short are rare. The license allowed to poets in this respect is expressed in the well-known line **अपिमाषं मषं कुर्याच्छन्दोभङ्गं निवारयन्.** There is also a rule that vowels, which are prosodially long because they are followed by conjunct consonants, may be treated as short, if they are at the end of a metrical line or if the following consonants are **प्र** and **ह.** See Pingala Sûtra.**प्रहे वा.** But here the poet undoubtedly had in his mind the rule in **वृत्तरत्नाकरः —**
@@ -3334,7 +3334,7 @@ The conceit, however, does not seem to be happy; because, the case of **लघ�
 **St. 48.** **सदानन्दोदयः** This must be separated as **सदा** and **आनन्दोदयः** when taken with reference to **चाणक्य.**  
 **St. 49. मेनाङ्गजा,** Pârvati, the daughter of Himâlaya and Menâ.  
 **St. 54. उपायनमुद्गणय्य**— counting out what is now known as Khilât or Nazarânâ.  
-**St. 56.****स्वः पतिप्रतिकृतेः** who resembled **स्वः पति** for Indra—the Lord of Heaven.  
+**St. 56.स्वः पतिप्रतिकृतेः** who resembled **स्वः पति** for Indra—the Lord of Heaven.  
 **St. 60.** **फलेग्रहिः**See Panini III. 2. 26 **फलानि गृह्णाति इति फलेग्रहिः**  
 **St. 75.** **तेपि तोपि**i.e. **राजानो मन्त्रिणश्चापि.**
 
@@ -3349,20 +3349,20 @@ The conceit, however, does not seem to be happy; because, the case of **लघ�
 **St. 4.** This verse is imperfect. It is not easy to guess what the poet meant to express. Perhaps he intended a comparison between Stambhatîrtha and Vastupâla; both of whom are alike in absolving the sins of all and giving them what they want.  
 **St. 5.** The poet considers the waves of the ocean as curls of its brows caused by jealousy: the cause of jealousy being that the minister was, like the ocean, **समुद्र**(possessing **मुद्रा**or the royal seal), and also **सश्रीक**(possessing wealth). The ocean may be called **सश्रीक**because Shrî, LakshmÎcame out from there, or because there are rich gems in its depths.  
 **St. 6.** The contrast between the minister and the ocean is that sweet **सरस्वती**(in the sense speech) *flows from* the former whereas **सरस्वती**(the river of that name) *falls into* the latter.  
-**St. 10.****क्रूरग्रहाः** Śani, Maṅgala, and Śukra with certain secondary planets are regarded as **क्रूर**or cruel. The secondary planets are enumerated in the following verse :—
+**St. 10.क्रूरग्रहाः** Śani, Maṅgala, and Śukra with certain secondary planets are regarded as **क्रूर**or cruel. The secondary planets are enumerated in the following verse :—
 
 नमामि मान्दिं यमकण्टकाख्यमर्धप्रहारं भुवि कालसंज्ञम्।  
 धूमव्यतीपातपरिध्यभिख्यानुपमहानिन्द्रधनुश्च केतून्॥
 
 Out of these Mândi is the son of Śani, Yamakantaka of Guru, Ardhaprahâra of Budha, Kâla of Ravi, Dhûma of Râhu, Vyatîpâta of Mangala, Paridhi of Chandra, Indradhanus of Śukra, and Ketus of Ketu.  
-**St. 13.:****बलेःपुनरिवोत्थानम्.**To this day the reign of Balî is proverbial as the happiest and most prosperous time known. In the Dekkan old men by way of benediction say **इडापीडा जाऊ बलीर्चे राज्य येऊ.** ‘ May all suffering go and may the reign of Balîcome.’  
+**St. 13.:बलेःपुनरिवोत्थानम्.**To this day the reign of Balî is proverbial as the happiest and most prosperous time known. In the Dekkan old men by way of benediction say **इडापीडा जाऊ बलीर्चे राज्य येऊ.** ‘ May all suffering go and may the reign of Balîcome.’  
 **St. 16.** This refers to the prevention of piracy for which the coast near Khambâyat was known even in later times.  
 **St. 17.** This refers probably to some order promulgated by the minister for raising walls in front of the shops where whey of curds was sold, so that customers of low castes might not by their touch pollute the pots and so make the article unfit for the use of the higher classes. This reform does not seem to be noticed in any of the Prabandhas written by the Jains.
 
 
 
 **St. 18.** The adjectives **सद्वंशः**and **सद्गुणः** are intended to apply to the minister, and also to **पटावास,** i.e. a tent. In the latter connexion they mean ‘ having a good bamboo pole’and 'having good ropes' respectively.  
-**St. 19.****मुद्रितः मुद्रा संजाता अस्थेति। उन्मुद्रितः विवृतः**an apparent contrast is intended between the two words.  
+**St. 19.मुद्रितः मुद्रा संजाता अस्थेति। उन्मुद्रितः विवृतः**an apparent contrast is intended between the two words.  
 **St. 23.** The second line means that the minister conferred obligations even upon good men who had gone to heaven by repairing old works of public utility left by them and thus resuscitating their fame arising from them.  
 **St. 24. नवत्व**the quality of being new and the quality of being nine in number, in which latter sense it contrasts with the adjective **असंख्य**innumerable.  
 **St. 27.** **रम्भा, वृष** and **सुमनोवर्ग** are to be found each of them in the *Swargaloka* in one sense and in gardens in another.  
@@ -3380,7 +3380,7 @@ such a way that it explains their being without **आत्मभू**in another
 **St. 39.** This stanza offered some difficulty to me. I propose to translate it as follows:—"Indeed it is clear that the Creator placed him in the centre of the world. (The expression also means made him an arbitrator in this world); and consequently all the ways of the world, i.e., religious ways, fell within his bounds;" in other words, his way of living was such that it agreed with all the religions in the world.  
 **St. 40** Construe **यो जैनोपि सवेदानां करे दानाम्भः कुरुते सः भक्तिमान् नेमौ शङ्करकेशवौ नानर्च** **इति न.** He cannot be said to have not worshipped Vishṇu and Śiva in Nemi who constantly poured the water of gifts on the hands of the followers of the Vedic religion. The meaning is that while following the religion of Neminâtha or Jainism, he gathered merit according to the religion of Vishṇu and Śiva also.  
 **St. 45.** A cart is **चक्रभ्ट्त्**because it has wheels. The word usually means Vishṇu in which sense also it is intended to be taken in this verse.  
-**St. 46.****भृगुकच्छ** the same as **भरुकच्छ** of the Nasik inscriptions and modern Bharucha or Broach.  
+**St. 46.भृगुकच्छ** the same as **भरुकच्छ** of the Nasik inscriptions and modern Bharucha or Broach.  
 **St. 51.अजय्य**Vide Pâṇini VI. I., 81. Impossible to be conquered.  
 **St. 54.** By one hand he held his sword, and by the other his son who was rushing headlong into the thickest fight.  
 **St. 58. भिद्य** & **उद्धद्य**are names of two rivers. Vide Pâṇini III. 1, 15, and Raghuvaṅśa XI. 8.  
@@ -3441,7 +3441,7 @@ well-known. The verse may be translated as follows:— "In that holy place, viz.
 
 
 Śaṅkha, cleared himself from the debt of his patron's kindness at the expense of his life.  
-**St. 52.****उभौ शम्भू सताम् यातौ–I** cannot translate this. The text appears to be corrupt. The sense and form of letters suggests **उभौशम्भु सभाम् यातौ सविवादौजयश्रिये** as the original reading. The meaning, if the reading were admitted would be "the foot-soldier of Śaṅkha, Jayanta, and the foot-soldier of the minister, Vîrama, contending for victory went to the court of Śiva for decision."  
+**St. 52.उभौ शम्भू सताम् यातौ–I** cannot translate this. The text appears to be corrupt. The sense and form of letters suggests **उभौशम्भु सभाम् यातौ सविवादौजयश्रिये** as the original reading. The meaning, if the reading were admitted would be "the foot-soldier of Śaṅkha, Jayanta, and the foot-soldier of the minister, Vîrama, contending for victory went to the court of Śiva for decision."  
 **St. 56.** All the three copies have the text as in the foot-note. The propriety of the proposed reading will be easily seen. Śaṅkha is used in the worship of gods. Water poured out from a conch-shell is regarded as specially holy. It is at the same regarded as a great sin to place a conch-shell on bare ground. The poet here intends first to play upon the word Śaṅkha and next to contrast the injury made to Śaṅkha with the return made by him. Feeling that he was thrown *down on the* *ground,* Śaṅkha so struck this opponent that he immediately went to heaven.  
 **St. 57. ते** .e. **प्राणाः;** **तत्** i.e. **शस्त्रम्.**  
 **St. 59.** The text is so corrupt in all the three manuscripts that nothing can be made out of it. After the sheets were printed off I came across a book in which this same verse was quoted as follows:—
@@ -3452,7 +3452,7 @@ well-known. The verse may be translated as follows:— "In that holy place, viz.
 **वैक्रुतबुद्धिना** has no meaning; for this, **वैकुण्ठबुद्धिना** of the text may be read; or **विकृतबुद्धिना**may be the word meant. In this latter case it may be translated as follows:—"The warrior Kuntasiṁha whose intellect was perverted being afraid that wicked men might point him out by their *fingers* stalked bravely on the field where *spears* were glittering." The meaning of **वैकुण्ठबुद्धिना**is clear, but not so pointed as that of **विकृतबुद्धिना.**  
 **St. 60.** Unintelligible on account of the corruptnessof the text.  
 **St. 61.** Mark the contrast between **हीर**a gem and **शङ्ख** a shell.  
-**St. 63.****स्थितम्,** though separated for metre's sake from **शङ्खेन यानमपसृत्य** must be read with it in construing.
+**St. 63.स्थितम्,** though separated for metre's sake from **शङ्खेन यानमपसृत्य** must be read with it in construing.
 
 
 
@@ -3466,8 +3466,8 @@ St. 68.** **चतुरतुरली—**the word would seem to be **खु�
 **St. 6.** I cannot explain this verse as it is. I believe the text iscorrupt in two points.**हृदयप्रदीपः** seems to have beencorrupted from **हृदयप्रदीपम्**and **कर्मन्दिकल्य** from **कर्मन्दिकल्प.** Thus restored or altered, it can be explained. It containsa comparison between an ascetic **(कर्मन्दी)** and the hotseason **(शुचि),** founded on double-meaning adjectives.In the first case **आषाढवान्**means having the staff whichforms the badge of ascetism; in the second it means thatwhich includes the month of **आषाढ.** The collection ofthe flowers of **शिरीष**is the bright flame of knowledgewhich lights the heart of an ascetic. **अपास्तकाम**appliesnearly in the same sense to both-'one by whom thefeeling of love is discarded' and 'one in which amorousdesire is absent.' These properties of the hot season, viz.,having **शिरीष**flowers and abating the power of Cupid aredescribed by Kâlidâsa.—See Śâkuntâla Act I., v. 4, andṚitusamhâra, v. 1.  
 **St. 8.** The idea that the fragrant summer breezes were thebreath of nature, relieved by the minister from the oppression of the invader, is a happy one.  
 
-**St. 10.****प्रताप**and **शुचित्व** express the points of likeness betweenthe minister and the hot season; but it is a reproach to thelatter that it is **जडप्रिय**fond of fools, in one sense, andfond of water, in another, (**ड** &**ल**being interchangeable,)while the former is fond of poets and clever men.  
-**St. 11.****गलन्तिका**is a vessel filled with water and having a smallhole in its bottom, through which water falls in drops onsomething, such as a Śivalinga.
+**St. 10.प्रताप**and **शुचित्व** express the points of likeness betweenthe minister and the hot season; but it is a reproach to thelatter that it is **जडप्रिय**fond of fools, in one sense, andfond of water, in another, (**ड** &**ल**being interchangeable,)while the former is fond of poets and clever men.  
+**St. 11.गलन्तिका**is a vessel filled with water and having a smallhole in its bottom, through which water falls in drops onsomething, such as a Śivalinga.
 
 **St. 12.** This compares and contrasts the minister with the hot season. **चतुर्दिगन्ताक्रमणोद्यतस्य इनस्य** is **दिग्विजयप्रवृत्तस्यप्रभोः** in one case, and **दिक्क्रमणप्रवृत्तस्य रवेः** in another.
 
@@ -3475,12 +3475,12 @@ St. 68.** **चतुरतुरली—**the word would seem to be **खु�
 
 The point of contrast is that the hot season oppresses the people by increasing the sun's heat, while the minister does not do so, though he extends the power of his  
 master.  
-**St. 14.****पुण्ड्र**—There are two varieties of sugarcane: one is harder and smaller, another softer and larger. The latter yields a more plentiful juice. The crop of this cane is taken out in the month of April, so that the poet's description of its being dry when the heat is greatest is accurate.  
+**St. 14.पुण्ड्र**—There are two varieties of sugarcane: one is harder and smaller, another softer and larger. The latter yields a more plentiful juice. The crop of this cane is taken out in the month of April, so that the poet's description of its being dry when the heat is greatest is accurate.  
 **St. 23.** This refers to the belief that there are certain lotions, by the use of which treasures hidden under the earth can be seen. Persons who at their birth are delivered feet first, and who are, in Marathi, called **पायालू,**are supposed to be the best *subjects* for this mystical operation.  
 **St. 24.** Those who have seen native sword-play know how a lemon folded up in a handkerchief is cut into two without any hole being made in the handkerchief. A brisk cut of the sword makes no rent in the dress, though the wound may be deep. The poet has this in his mind.  
 **St. 25.** A glance darted by a bashful damsel through a window is described as surpassing the arrow of the warrior, Cupid, shot through the loophole of a fortification. One will easily notice how the pursuits and aspirations of the people of his time are reflected in the poet's conceits.  
 **St. 28. जड** is again intended to be taken in the sense of water **(जलम्)** and that of a foolish man.  
-**St. 29.****सुमनःसमृद्धिं**has two senses: plenty of flowers, which suits **मधु**or spring, and prosperity of good men,' which suits the minister.**मन्त्री.**I find it difficult to translate the second line as it is. I would read it as **रोमोद्गमोद्यन्नवमञ्जरिश्रीः.**Then I would translate the line thus:—"Another seemed beautiful like a line of **माकन्द**trees; her hair, standing erect, having the beauty of fresh blossom just coming out." **रोमोद्गमेन उद्यत्याः नवमञ्जर्याः श्रीः यस्याः सा रोमोद्गमोद्यन्नवमञ्जरिश्रीः**With the present reading one may construe as follows :—**यस्या नवमञ्जरीश्रीः रोमोद्गमः सा परा**  
+**St. 29.सुमनःसमृद्धिं**has two senses: plenty of flowers, which suits **मधु**or spring, and prosperity of good men,' which suits the minister.**मन्त्री.**I find it difficult to translate the second line as it is. I would read it as **रोमोद्गमोद्यन्नवमञ्जरिश्रीः.**Then I would translate the line thus:—"Another seemed beautiful like a line of **माकन्द**trees; her hair, standing erect, having the beauty of fresh blossom just coming out." **रोमोद्गमेन उद्यत्याः नवमञ्जर्याः श्रीः यस्याः सा रोमोद्गमोद्यन्नवमञ्जरिश्रीः**With the present reading one may construe as follows :—**यस्या नवमञ्जरीश्रीः रोमोद्गमः सा परा**  
 **माकन्दमालेव व्यराजत्।**But the former would seem to be better.
 
 
@@ -3518,7 +3518,7 @@ The suggestive words **सुवृत्त, यष्टि** and **कञ्�
 
 
 
-**St. 55.****निवेशवेदी** the raised seat or dais made for the god of love to sit upon as the chief spectator.  
+**St. 55.निवेशवेदी** the raised seat or dais made for the god of love to sit upon as the chief spectator.  
 **St. 56.** The poet means that the single string of pearls worn by a young woman on her breast was as it were a line drawn with chalk by the god of love to mark the object at which he wanted to shoot, viz., the heart.  
 **St. 63.** The reader will remember that though **विसर्जनीय**or **विसर्ग**separating two vowels may have been dropped, yet the vowels cannot combine. The moon is therefore a wonderful scholar who joins lovers and their loves after the anger, which separates them, and which is **विसर्जनीय**in the sense of that which should be given up, is dropped.  
 **St. 67.** This is an **उत्प्रेक्षा**which regards the hair of young women, which stood on end at the approach of their lords, as thorny hedges which love made about their persons to prevent anger finding its way into them again.  
@@ -3550,7 +3550,7 @@ This **वैराग्य** would be **तामस** or **राजस;** th
 **St. 31. निकारपूर्वं धनं प्रदत्ते.**Gives money contemptuously. In order to establish the likeness between a bad donor and **पेतनाथ,**the god of death, the expression must be understood once as **निवर्णपूर्वम् धनम्** or **निधनम्** (death)**प्रदत्ते.**  
 **St. 33.** The text of this verse appears to be corrupt. When one bears in mind that the original MS. of the poem was probably in **पृष्ठमात्र** writing, one will see how easily **दुष्कृतिः**may be changed into **दुष्कृतिः**I would therefore read the last word as **दुष्कृतैः.**  
 **St. 37.** This refers to the custom of servants going in front ofgreat men to show them the way, and on both the sides that they may rest their hands on their shoulders and arms.  
-**St. 39.****विकारम्**Mark the play on this word as on **निकार**in St. 30.  
+**St. 39.विकारम्**Mark the play on this word as on **निकार**in St. 30.  
 
 **St. 48. भृति**maintenance in the case of the body, and wages in the case of a servant. **विचिकीर्षते**wishes to make mischief.  
 **St. 49.** I believe the alteration of **एव**to **एषु**makes the sense complete, otherwise **एव**stands without any peculiar force and **एषु** has to be supplied. I understand senses by **खानिमहापदि,** at the time of death, when it refers to**खानि;** and in great adversityn,when it refers tobad friends.Both badfriends and senses are **अकार्येषु** **प्रयोजकानि;** and both areregarded doatingly by fools.  
@@ -3572,7 +3572,7 @@ CANTO IX.
 **St. 20. श्वेताम्बराणाम्**This is the sect to which the minister belonged.  
 **St. 22. कपर्दिनं यक्षम्.** In Jain temples one frequently meets with an image having a bull's head and the rest of the body human. This is called **कपडी जख,** which name is a corruption of the name in the text. He is supposed to be a sort of guard.  
 **St. 23. यक्षोपपदैः कर्दमैः**i.e., **यक्षकर्दमैः**or by an unguent, of which the following is the recipe:—Two parts of musk, two of saffron, three of sandal, and one of camphor. Some add *kankôla* in the same proportion as camphor.  
-**St. 29.****नाभि**was the name of the father of Âdinâtha.  
+**St. 29.नाभि**was the name of the father of Âdinâtha.  
 **St. 31.** **अयुग्मनेत्राचलशृङ्गचारु—अयुग्मनेत्नाचल** is **त्रिनेत्नाचल** or **शिवाचल,** i.e., the Himâlaya where Śiva dwells. The peak is Kailâsa.
 
 

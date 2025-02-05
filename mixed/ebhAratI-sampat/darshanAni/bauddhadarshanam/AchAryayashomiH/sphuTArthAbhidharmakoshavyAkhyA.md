@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxODU2ODk2
 
 
 
-**** **स्फुटार्था अभिधर्मकोशव्याख्या**
+ **स्फुटार्था अभिधर्मकोशव्याख्या**
 
 
 
@@ -4664,7 +4664,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxODU2ODk2
 
 
 
-****
+
 
 **अथ चतुर्थः काण्डः ।**
 

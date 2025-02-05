@@ -44,7 +44,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk2Mjk1ODA2MTQ
 
  A detailed Introduction, Table of Contents and other critical remarks will be furnished when the Volume is completed.
 
-PRESIDENCY COLLEGE,MADRAS.         **P.P.Subrahmanya Sastri,** Dated: 31—3— 1939,       ****Curator, GovernmentOriental Manuscripts                    
+PRESIDENCY COLLEGE,MADRAS.         **P.P.Subrahmanya Sastri,** Dated: 31—3— 1939,       Curator, GovernmentOriental Manuscripts                    
         Library,  Madras.
 
            
@@ -680,7 +680,7 @@ Madras.
 
 
 ** ॥ द्वितीयः प्रातिपदिकादिप्रकाशः ॥  
-             ———————******
+             ———————**
 
  प्रातिपदिकं त्रिधा— विभक्तावयवम्‌, अविभक्तावयवम्‌अनुकरणं च । तत्रविभक्ताबयबं त्रिधा—कृद्रूपम्, तद्धितरूपम्‌, समासरूपं च । तेषुभावकारकाभिधायिनो धातुप्रत्ययाः कृतः । तत्र धात्वर्थएवापूर्वापरीभूतो भावः; यदाह—
 

@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNzE3Njc4NDU
 
 
 
-***रसप्रकाशसुधाकरः*****-४,५ अध्यायाः**
+***रसप्रकाशसुधाकरः*-४,५ अध्यायाः**
 
 
 
@@ -1395,7 +1395,7 @@ Now collect the *kāmsyavarna* (bronze colour) granules from the *kitta*. And th
 
 **Properties:** The *satva bhasma* on internal use prevents death, destroys all the diseases, specially *ksaya*, *pandu*,*grahani*, *svāsa*, *sula*, *kamala*, *jvara*, *meha*, *kāśa*, *pancavidha gulma*, *mandāgni*, *udararoga*, *arsa* and various types. Byusing this mixture all diseases are cured and the importance of *abhra satva* is beyond in explanation (51-53).
 
-**5****.54-59 *Rajavarta* (Lapis lazuli) (II):**
+**5.54-59 *Rajavarta* (Lapis lazuli) (II):**
 
 ***Characteristics***  
 The best *rajavarta* is that which is slightly reddish, bluish or mixed colours, heavy in weight and *masrna* (smooth) on surface (54).

@@ -101,7 +101,7 @@ Nothing should be given to any one with callousness even in joke. If anybody vio
 
 **४. नृशंसमनृशंसं वा प्रजारक्षणकारणात्।**  
 **  पातक वा सदोष वा कर्तव्यं रक्षता सता।**  
-**  राज्यभारनियुक्तानामेष धर्मः सनातनः।  ****(25—18)**
+**  राज्यभारनियुक्तानामेष धर्मः सनातनः।  (25—18)**
 
 It behaves those who are responsible for the protection of the subjects under their care to do all that are needed cruel or not, sinful or blameworthy.This is the Law eternal for those who had taken the reigns of the government.
 
@@ -114,7 +114,7 @@ The Rakshasas become uncontrollable when twilight sets in.
 Youth is ever transient, the more so among human beings.
 
 **७. पिता हि प्रभुरस्माकं दैवतं परमं हि नः।**  
-**  यस्य नो दास्यति पिता स नो भर्ता भविष्यति॥****(32—21)**
+**  यस्य नो दास्यति पिता स नो भर्ता भविष्यति॥(32—21)**
 
 Father is our (maidens') lord and he is verily our supreme God. He to whom we are betrothed by him will be our husband.
 
@@ -183,7 +183,7 @@ Fie upon those who call themselves women, who are ever wily and self—seeking !
 Truth is the Almighty God resorted to by all; truth is embodied in virtue, in truth converge the everlasting Vedas and it is truththat leads us to Beatitude.
 
 **२०. यश्च रामं न पश्येत्तु यं च रामो न पश्यति।**  
-**   निन्दितः स वसेल्लोके स्वात्माप्येनं विगर्हति॥****(17—14)**
+**   निन्दितः स वसेल्लोके स्वात्माप्येनं विगर्हति॥(17—14)**
 
 Any one who sees not Ramanor is seen by Him is scorned everywhere and he evendetests himself.
 
@@ -261,7 +261,7 @@ No evil had come unto those who obey the behests of their father.
 It is only the coward and unchivalrous that quietly submit to Fate! The chivalrous and the self-confident do not depend on Fate.
 
 **३५. दैवं पुरुषकारेण यः समर्थः प्रबाधितुम्।**  
-**   न दैवेन विपन्नार्थः पुरुषः सोऽवसीदति॥ ****(23—17)**
+**   न दैवेन विपन्नार्थः पुरुषः सोऽवसीदति॥ (23—17)**
 
  One who is capable of conquering Fate by his manliness, won't regret, if his actions are thwarted by Fate.
 
@@ -288,7 +288,7 @@ It is only the coward and unchivalrous that quietly submit to Fate! The chivalro
 
 A true wife should ever be desirous of serving her husband in all that is conducive to his good and happiness. This is the law Eternal expounded by the Vedas and thecodes of morals.
 
-**४१. कृतान्तस्य गतिः... दुर्विभाव्या सदा भुवि। ****(24—35)**
+**४१. कृतान्तस्य गतिः... दुर्विभाव्या सदा भुवि। (24—35)**
 
 The ways of Providence in the world are always inscrutable.
 
@@ -331,7 +331,7 @@ A woman who is separated from her husband cannot sustain her life.
 
 **५०. श्रुतिर्हि श्रूयते पुण्या ब्राह्मणानां तपस्विनाम्।**  
 **   इहलोके च पितृभिर्या स्त्री यस्य (महामते )॥**  
-**   अद्भिर्दत्ता स्वधर्मेण प्रेत्यभावेऽपि तस्य सा॥ ****(29—18)**
+**   अद्भिर्दत्ता स्वधर्मेण प्रेत्यभावेऽपि तस्य सा॥ (29—18)**
 
 The brahmin sages have stated that the Divine Vedas proclaim that she who in thisworld, is given in marriage to one, by her father and elders with the sprinkling of the holy water in accordance with their religious custom, is his wedded wife even in the world beyond.
 
@@ -385,7 +385,7 @@ If one has an attachment to the rope after giving up a mighty elephant, of what 
 The wife is the soul of all those who lead a wedded life.
 
 **६२. असत्यः सर्वलोकेऽस्मिन् सततं सत्कृताः प्रियैः।**  
-**   भर्तारं नानुमन्यन्ते विनिपातगतं स्त्रियः॥   ****(39—20)**
+**   भर्तारं नानुमन्यन्ते विनिपातगतं स्त्रियः॥   (39—20)**
 
 However much a loving husband may satisfy the wants of faithless wife, he is discarded by her in his times of distress.
 
@@ -520,7 +520,7 @@ In a kingless land, wealthy brahmins do not dole out their moneys during the aug
 In a kingless land are not seen the mirth of feasts and gatherings, with musical entertainments and dance recitals.
 
 **८९. नाराजके जनपदे सिद्धार्था व्यवहारिणः।**  
-**   कथाभिरनुरज्यन्ते कथाशीलाः कथाप्रियैः॥****(67—16)**
+**   कथाभिरनुरज्यन्ते कथाशीलाः कथाप्रियैः॥(67—16)**
 
 In a kingless land, the expert story-tellers do not delight the eager and gathering crowd with lovely stories and pleasant tales.
 
@@ -606,7 +606,7 @@ Even those lawless miscreants and atheists who are not afraid of punishment from
 As is the sight to guide the body invariably in the daily avocations of life, so is the king to guide the kingdom in the path of truth and virtue.
 
 **१०६. राजा सत्यं च धर्मश्च राजा कुलवतां कुलम् ।**  
-**    राजा माता पिता चैव राजा हितकरो नृणाम् ॥****(67—34)**
+**    राजा माता पिता चैव राजा हितकरो नृणाम् ॥(67—34)**
 
 For the citizens the king is the embodiment of truth and virtue and is also the pride of their high birth; the king is their mother, the king is their father and in short the king is their very benefactor.
 
@@ -1104,7 +1104,7 @@ Honey-coated words there are ever so many people to utter. But bitter truth thou
 
 **१९६.** **अकुर्वन्तोऽपि पापानि शुचयः पापसंश्रयात् ।**
 
-**परपापैर्विनश्यन्ति मत्स्या नागहृदे यथा ॥****(38—26)**
+**परपापैर्विनश्यन्ति मत्स्या नागहृदे यथा ॥(38—26)**
 
 Innocent persons, though they may not commit any sinful acts, are punished as a consequence of their mere association with evil-doers. Even so the fishes in a serpentpond are destroyed by the snake-destroyers along with the snakes.
 
@@ -1112,32 +1112,32 @@ Innocent persons, though they may not commit any sinful acts, are punished as a 
 
 There is no sin more heinous than kidnapping the wives of others.
 
-१९८. **भव स्वदारनिरतस्सदा ।****(38—31)**
+१९८. **भव स्वदारनिरतस्सदा ।(38—31)**
 
 Be ever content with thy wedded wife.
 
 **१९९.** **बहवः साधवो लोके युक्ता धर्ममनुष्ठिताः।**
 
-**परेषामपराधेन विनष्टाः सपरिच्छदाः॥****(39—20) **
+**परेषामपराधेन विनष्टाः सपरिच्छदाः॥(39—20) **
 
 Many virtuous persons perish with their families for the sinful acts of others, merely because of their association with those sinners.
 
 
 **२००.** **वाक्यमप्रतिकूलं तु मृदुपूर्वं हितं शुभम् ।**
 
-**उपचारेण वक्तव्यो युक्तं च वसुधाधिपः॥****(40—10)**
+**उपचारेण वक्तव्यो युक्तं च वसुधाधिपः॥(40—10)**
 
 A councillor should impart his advice to his king dexterously, softly, pleasingly and not fraught with danger.
 
 **२०१.** **पञ्च रूपाणि राजानो धारयन्त्यमितौजसः।**
 
-**अग्नेरन्द्रस्य सोमस्य वरुणस्य यमस्य च ॥****(40—12)**
+**अग्नेरन्द्रस्य सोमस्य वरुणस्य यमस्य च ॥(40—12)**
 
 Kings are supposed to possess the five qualities of the Gods - Agni, Indra, Soma, Yama and Varuna.
 
 **२०२**. **औष्ण्यं तथा विक्रमं च सौम्यं दण्डं प्रसन्नताम् ।**
 
-**धारयन्ति महात्मानो राजानः प्रायशो भुवि ॥****(40—13)**
+**धारयन्ति महात्मानो राजानः प्रायशो भुवि ॥(40—13)**
 
 **तस्मात्सर्वास्ववस्थासु मान्याः पूज्याश्च पार्थिवाः॥** **(40—14)**
 
@@ -1145,25 +1145,25 @@ Great kings generally possess the charecteristics (of the 5 gods), ferosity, maj
 
    **२०३. अमात्यैः कामवृत्तो हि राजा कापथमाश्रितः।**
 
-**निग्राह्यः सर्वथा सद्भिः न निग्राह्यो निगृह्यते ॥****(41—7)**
+**निग्राह्यः सर्वथा सद्भिः न निग्राह्यो निगृह्यते ॥(41—7)**
 
 A king though given to sinful ways led by passion, must be checked by his good ministers. If they do not, they deserve to be chastised.
 
 **२०४.** **धर्ममर्थं च कामं च यशश्च (जयतां वर) ।**
 
-**स्वामिप्रसादात्सचिवाः प्राप्नुवन्ति ( निशाचर )॥****(41—8)**
+**स्वामिप्रसादात्सचिवाः प्राप्नुवन्ति ( निशाचर )॥(41—8)**
 
 If a king is prosperous, his ministers will obtain Dharma, wealth, fame and all other things they desire.
 
 **२०५.** **विपर्यये तु तत्सर्वं व्यर्थं भवति (रावण) ।**
 
-**व्यसनं स्वामिवैगुण्यात् प्राप्नुवन्तीतरे जनाः॥****(41—9)**
+**व्यसनं स्वामिवैगुण्यात् प्राप्नुवन्तीतरे जनाः॥(41—9)**
 
 If a king stoops to sin, his subjects will also perish with him, losing all happiness they try to get.
 
 **२०६.** **राजमूलो हि धर्मश्च जयश्च ( जयतां वर) ।**
 
-**तस्मात्सर्वास्ववस्थासु रक्षितव्या नराधिपाः॥****(41—10) **
+**तस्मात्सर्वास्ववस्थासु रक्षितव्या नराधिपाः॥(41—10) **
 
 Righteousness and victory depend upon the ruler. So in spite of all odds, it is obligatory (on the part of the minister), to see always that the king does not swerve from the path of virtue.
 
@@ -1512,7 +1512,7 @@ A chivalrous man feels grateful for the help he gets from others and does them a
 A king who is attached to his friends and adjusts to the needs of time, enhances his name and fame and his kingdom thrives well.
 
 **२६८.** **यस्य कोशश्चदण्डश्च मित्राण्यात्मा च (भूमिप) ।  
-समवेतानि सर्वाणि स राज्यं महदश्नुते ॥**** (29—11)**
+समवेतानि सर्वाणि स राज्यं महदश्नुते ॥ (29—11)**
 
 A king who properly balances his treasury, punishment, friends and bis own self enjoys a happy reign.
 
@@ -1522,7 +1522,7 @@ A king who properly balances his treasury, punishment, friends and bis own self 
 He is the dreg of humanity who fails to render a promised help to one who had previously done him good and who seeks his help in adverse circumstances.
 
 **२७०**. **शुभं वा यदि वा पापं यो हि वाक्यमुदीरितम् ।  
-सत्येन परिगृह्णाति स वीरः पुरुषोत्तमः॥**** (30—72)**
+सत्येन परिगृह्णाति स वीरः पुरुषोत्तमः॥ (30—72)**
 
 He is the greatest among men who keeps up his promise, be it good or sinful.
 
@@ -1547,16 +1547,16 @@ Great men do not misbehave in the presence of women.
 Prosperity, virtue, and happiness are ruined by drink. Drink leads a man to ingratitude and results in the loss of his friends and wealth.
 
 **२७५. न देशकालौहि न चार्थधर्मा-  
-वपेक्षते कामरतिर्मनुष्यः॥**** (33—54)**
+वपेक्षते कामरतिर्मनुष्यः॥ (33—54)**
 
 A man overpowered by lust does not care for time and place nor does he think of his own prosperity and virtue.
 
-**२७६. अच्छलं मित्रभावेन सतां दारावलोकनम् ।******** (33—60)**
+**२७६. अच्छलं मित्रभावेन सतां दारावलोकनम् । (33—60)**
 
 There is nothing wrong in looking at a gentleman's wife with a friendly eye.
 
 **२७७.** **सत्वाभिजनसंपन्नः सानुक्रोशो जितेन्द्रियः।  
-कृतज्ञः सत्यवादी च राजा लोके महीयते ॥******** (34—7)**
+कृतज्ञः सत्यवादी च राजा लोके महीयते ॥ (34—7)**
 
 That king who possesses good traits, who is born of a respectable family, who is sympathetic, who has self-control, who is grateful and truthful, is respected all over.
 
@@ -1571,7 +1571,7 @@ That king who, deviating from the right path, does not fulfil his promise to tho
 By uttering a falsehood to secure a horse one commits the sin of killing a hundred horses, and by uttering a lie to secure a cow one commits the sin of killing a thousand cows. But by speaking a falsehood before a high-souled man, one courts one's own ruin as well as of those near and dear to him.
 
 **२८०**. **पूर्वं कृतार्थोमित्राणां न तत्प्रतिकरोति यः।  
-कृतघ्नः सर्वभूतानां स वध्यः ( प्लवगेश्वर)॥**** (34—10)**
+कृतघ्नः सर्वभूतानां स वध्यः ( प्लवगेश्वर)॥ (34—10)**
 
 Of all the sinners, he is to be hanged who shows ingratitude to his friends who helped him in his distress.
 

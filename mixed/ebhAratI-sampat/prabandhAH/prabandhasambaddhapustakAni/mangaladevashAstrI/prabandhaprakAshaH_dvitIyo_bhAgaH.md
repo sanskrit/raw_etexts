@@ -64,7 +64,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1NzkxMzU1MTU
 
 भारतीयसंस्कृतिसंस्थानम्,  
 इंग्लिशिया लाइन,  
-बनारस कैंट।                     ****
+बनारस कैंट।                     
 
 **मङ्गलदेव शास्त्री**
 

@@ -1286,7 +1286,7 @@ unlearned behaviour** *Psychol.* **अनवाप्त आचरण, अनर
 **unless यदि...न, यावन्न, जब तक न  
 unless he for special reasons instructs otherwise in the case जब तक कि विशेष कारणों से**
 
-**वह****अन्यथा अनुदेश न दे**
+**वहअन्यथा अनुदेश न दे**
 
 **unless in either case जब तक कि दोनों स्थितियों में  
 unless otherwise ordered जब तक अन्यथा आदेश न दिया जाए  
@@ -1295,7 +1295,7 @@ uniess otherwise stated** *Math.* **जब तक अन्यथा न कह�
 unless promptly represented यदि झटसे आवेदन न किया जाए**  
 **unless the context otherwise requires यदि प्रसंग से दूसरा अर्थ अपेक्षित न हो तो, जब तक प्रसंगतः**
 
-**दूसरा****अर्थ अपेक्षित न हो**
+**दूसराअर्थ अपेक्षित न हो**
 
 **unless the contrary is stated** *Math.*
 
@@ -1853,10 +1853,10 @@ uranin किरणि** *f.*
 **ionium** (90) **अयनातु** (९०)  
 **radium** (88) **तेजातु** (८८)
 
-**uranium****acctate किरणातुशुक्तीय**  
-**uranium****chloride किरणातु नीरेय**  
-**uranium****glass किरणातु काच**  
-**uranium****iodide किरणातु जम्बेय**  
+**uraniumacctate किरणातुशुक्तीय**  
+**uraniumchloride किरणातु नीरेय**  
+**uraniumglass किरणातु काच**  
+**uraniumiodide किरणातु जम्बेय**  
 **uraniumlead** (radium G) **किरणातु सीस** (तेजातु छ)  
 **uranium inagnesium acetate किरणातु भ्राजातु शुक्रीय**  
 **uranium nickel acetate किरणातु रूपक शुक्तीय**  
@@ -1895,7 +1895,7 @@ urano-spathite** (Gk. *spathe* 'a broad blade') *Mineral.* **पृथु-कि
 green, किरण- for किरणातु uranium, -इज for खनिज mineral)
 
 **urano-tantalite = samarskite  
-urano-thallite** (a hydrous calcium uranium carbonate) *Mineral.* **प्रांग-****किरणिज** *m.* (प्रांग- for
+urano-thallite** (a hydrous calcium uranium carbonate) *Mineral.* **प्रांग-किरणिज** *m.* (प्रांग- for
 
 प्रांगारीय carbonate, किरण- for किरणातु uranium, -इज for खनिज mineral)
 
@@ -2246,7 +2246,7 @@ using up उपभोग** *m.*
 **Usnea** *Bot.* (has afreely branched thallus) **शाखिकाय-प्रजाति  
 Usnea barbata** (common beard lichen)**सामान्य शाखिकाय  
 usta borax टंकण शृतक** *n.*  
-**Ustilaginaceae** *Bot.* (one of the two families of smuts) **प्रकालिका-कुल** *n.*****(smuts कालिंका)  
+**Ustilaginaceae** *Bot.* (one of the two families of smuts) **प्रकालिका-कुल** *n.*(smuts कालिंका)  
 **Ustilaginales = smut fungi** *Bot.* (order of smuts) **प्रकालिका-गोत्र** *n.*  
 **ustilagineous** *adj. Bot.* **प्रकालिकीय  
 ustilaginous = ustilagineous  
@@ -2751,7 +2751,7 @@ valyl प्रबलल** *n.*
 **vampire bat** *Mamm.* **मांसेष्ट जतु** *f.* (मांसेष्ट occurs in कल्पद्रुकोश for a bat)  
 **van 1.यान, वाहन** *n.,* **गाड़ी, 2.***Rly.* (for transport purposes; closed car) **वाहन** *n.,* **गाड़ी, संवृता** *f.,*
 
-**संवृतयान, संभारयान** *n.,*******3.**(a winnowing device) **वीजन** *n.*
+**संवृतयान, संभारयान** *n.,***3.**(a winnowing device) **वीजन** *n.*
 
 **vanad-, vanado-** (vanadium) *Chem.* **रोच-**  
 **vanadate** *Chem.* **रोचीय** *n.*  
@@ -4261,7 +4261,7 @@ violent reaction प्रचण्ड प्रतिक्रिया
 violent spasm प्रचण्ड अंगग्रह  
 violent treatment हिंसात्मक व्यवहार  
 violet नीललोहित, जम्बु, जामनी  
-violet** *n.* (*Viola odorata*) **नीलपुष्प** *m.*****(Basu )  
+violet** *n.* (*Viola odorata*) **नीलपुष्प** *m.*(Basu )  
 **violet black** *Col. Ind.* **नीललोहित काल  
 violet-bloom = bittersweet** (*Solanumdulcamara*) **कट्वामधु***m.*  
 **violet blue रक्तातिनील  
@@ -4368,7 +4368,7 @@ high प्रbrilliance) **प्रोद्धर्यतिपीत**
 **virtual current** *Phys.* **आभास-वाह  
 virtual focus** (rays do not converge to this point, but only appear to diverge from here)
 
-**आभास-****नाभि**
+**आभास-नाभि**
 
 **virtual image आभास-प्रतिमूर्ति  
 virtually** (being in essence or effect, but not in fact) **वस्तुतः, प्रभावतः  
@@ -4645,7 +4645,7 @@ Vitex pedata = Cissus pedata गोधापदी द्राक्षा** (B
 **Vitex repens** (applied to ulcers—Basu)**व्रणप-द्राक्षा  
 Vitex setosa = hairy wild vine** (whole plant clothed with scattered bristly hairs – Basu)
 
-**दृढरोमि-****द्राक्षा**(*setosus* 'bristly, beset with bristles')
+**दृढरोमि-द्राक्षा**(*setosus* 'bristly, beset with bristles')
 
 **Vitex tomentosa** (covered with a dense tomentum—Basu) **रोमश-द्राक्षा  
 Vitex trifolia = Vitex carnosa  
@@ -4815,7 +4815,7 @@ potential)
 **voltaic battery** *Phys.* **द्युमात्रिक समूहा  
 voltaic cell** *Elec.***द्युमात्रिक कोशा  
 voltaic pile = galvanic pile  
-voltameter = coulometer** *Phys.* (for measuring the quantity of electricity passed)****
+voltameter = coulometer** *Phys.* (for measuring the quantity of electricity passed)
 
 **द्युमात्रामान** *m.*
 
@@ -4925,7 +4925,7 @@ Volvox minor लघु भ्रमाप्य
 Volvox perglobator = rolling alga अतिगोल भ्रमाप्य  
 Volvox rousseletii** (oospores अण्डवीजाणु provided with dense strong prickles, 11-12 μhigh)
 
-**खराण्ड****भ्रमाप्य**(खर ‘sharp, therny, prickly')
+**खराण्डभ्रमाप्य**(खर ‘sharp, therny, prickly')
 
 **volvulus** *Med. * (any twisting of the intestines causing obstruction)**आन्त्रोद्वेष्टन** *n.*  
 **vomer = ploughshare bone** *Anat.,Zool.* **हलास्थि** *n.*  
@@ -5099,7 +5099,7 @@ wage level भृति-स्तर
 wager ग्लह**(from अमरकोष), **पण** *m.,* **बाज़ी  
 wage rate भृति-अर्ध  
 wagering पण लगाना, ग्लह लगाना, बाज़ी लगाना  
-wagering contract ग्लह-संविदा, पणसंविदा****  
+wagering contract ग्लह-संविदा, पणसंविदा  
 **wages भृति** *f.*
 
 **living wages निर्वाह-भृति  
@@ -5293,7 +5293,7 @@ war cloud युद्ध-मेघ**
 **war council युद्ध-परिषत्  
 ward 1.***Law* (a person whois under guardianship) **प्रतिपाल्य** *m.***2.**(a division or separate
 
-apartment in a hospital) **कक्ष** *m.****Cf.* department विभाग 3.**(in rationing) **कक्ष** *m.*
+apartment in a hospital) **कक्ष** *m.Cf.* department विभाग 3.**(in rationing) **कक्ष** *m.*
 
 **Ward Assistant Medical Officerकक्ष सहायक भैषजिक अधिकारी  
 ward attendant—female कक्ष-उपस्थायिका  
@@ -5457,7 +5457,7 @@ war-work committee युद्ध-कार्य-समिति
 war-worker युद्ध-कार्यकर्ता  
 Wasat = ςGeminorum** *Astron.* **चतुर्थ मिथुन** *n.*  
 **wash** *vb.* **1.धावन, धोना, 2.नहलाना  
-wash** *n.* **1.***Distilling* (fermented wort)**किण्विता** *f.,* **2.****(material left after washing) **धावशेष** *m.*  
+wash** *n.* **1.***Distilling* (fermented wort)**किण्विता** *f.,* **2.(material left after washing) **धावशेष** *m.*  
 **wash-basin धावन-पात्री  
 wash bottle धाव-कूपी, धावन-कूपी  
 washdown closet** *Hygiene* **निधाबन-शौचकुण्ड  
@@ -5698,7 +5698,7 @@ water-marked paper जलांकित पत्र
 water meadow जल-शाद्वल  
 water-measurer** *Zool.* (with its widelyextended legs glides along thesurface of water with
 
-great agility)**जल-****जांघिक** *m.*
+great agility)**जल-जांघिक** *m.*
 
 **water medium जल-माध्यम  
 watermelon कालिन्द** *m.***, तरबृज़  
@@ -5942,7 +5942,7 @@ ways and means position अर्थोपाय-स्थिति**
 wayside temple मार्गस्थ मन्दिर  
 waywort** (*Anagallis arvensis*) **जलौकामारी***f.***, जौकमारी  
 W.B.** (word base) *Philol.* **प.आ.** (पद-आधार)  
-**W.C.** (working circle) **** *Forestry* **प्र.वृ.**(प्रबन्ध-वृत्त)  
+**W.C.** (working circle)  *Forestry* **प्र.वृ.**(प्रबन्ध-वृत्त)  
 **W.C.** (works committee) **क.स.** (कर्मान्त-समिति)  
 **W.C. Act** (Workmen's CompensationAct) **क.प्र.अधि.** (कर्मकार-प्रतिकर-अधिनियम)  
 **W chromosome व पित्र्यसूत्र  
@@ -6131,7 +6131,7 @@ weekly report साप्ताहिक प्रतिवेदन**
 weekly return of cases and deaths रोगग्रस्त और मृत व्यक्तियों का साप्ताहिक प्रविवरण  
 weekly return of cases and deaths from epidemic diseases व्यापक रोगों से ग्रस्त और मृत**
 
-**व्यक्तियों****का साप्ताहिक प्रविवरण**
+**व्यक्तियोंका साप्ताहिक प्रविवरण**
 
 **weekly returns of vital statistics साप्ताहिक जीवनांक-प्रविवरण  
 weekly statement साप्ताहिक विवरण  
@@ -6329,7 +6329,7 @@ Western blossom-headed paroquet** *Aves* **पश्चिम रक्तां
 **western circle पश्चिम वृत्त  
 western collared pigmy owlet** *Aves* **शिमला वामन क्षुद्रोलूक** (pigmy वामन)  
 **western dark-grey bush-chat** *Aves* **धूसर क्षुप-अश्वक  
-Western Ghats** *Geog.* **1.**(the northern portion of the Western Ghats)**सह्याद्रि***m., **2*****.**(the
+Western Ghats** *Geog.* **1.**(the northern portion of the Western Ghats)**सह्याद्रि***m., **2*.**(the
 
 southern portion beyond the Kaveri) **मलय-पर्वत** *m.*
 
@@ -6379,7 +6379,7 @@ West Indian arrowroot** *(Maranta arundinacea)* **शिशुमूल** *m.*
 **West Indian calabash tree** *(Crescentia crujete)* ** चषकर्पर** *m.*  
 **West Indian cashew nut** *(Anacardium occidentale)* **शोफहर** *m.* (B.,N.)  
 **West Indian ipecacuanha** *(Asclepias curassavica)* **काकतुण्डी** *f.* (N.,M.)  
-**West Indian sand-box tree** *(Hura crepitans)*****वालुधानी** *f.*  
+**West Indian sand-box tree** *(Hura crepitans)*वालुधानी** *f.*  
 **West Indies पश्चिम भारतद्वीप** (समूह) *m.*  
 **westing** *n. Surv.* **पश्चिमान्तर** *n.* (अन्तर distance)  
 **west northwest** (W.N.W.) **पश्चिम-वायव्या** *f.* (प.वा.)  
@@ -6777,7 +6777,7 @@ white-winged wood-duck** *Aves* **सित-पक्ष वन-हंसक
 whitewood 1.धवलदारु** *m.***2.**(*Pctrobium arboreum*) **= rockplant of St. Helena शिलाद्रु** *m.*  
 **whitewort = whiteroot** (*Polygonatummultiflorum*) **सितमूल** *m.*  
 **white zinc श्वेत कुप्यातु  
-whiting 1.श्वेतन** *n.***2.**(a fish) **श्वेतना** *f.*****(श्वेतना occurs inऋग्वेद)  
+whiting 1.श्वेतन** *n.***2.**(a fish) **श्वेतना** *f.*(श्वेतना occurs inऋग्वेद)  
 **whitish** *adj.* **आश्वेत  
 whitish brown आश्वेत बभ्रु  
 whitish green आश्वेत हरि  
@@ -6951,7 +6951,7 @@ wild cinnamon** *(Canella winteranda)***सितत्वक्** *f.*
 wild dog** *Mamm.* **वन-श्वा, जंगली कुत्ता  
 wild duck वन्य हंसक  
 wild endive** *(Cichorium intybus)* **बम्ब काशिनी  
-wild English thyme = wild thyme*****(Thymus serpyllum)* **वन्य पर्णासी**  
+wild English thyme = wild thyme*(Thymus serpyllum)* **वन्य पर्णासी**  
 **wilderness वन्यप्रदेश** *m.*  
 **wildfire 1.दावानल** *m.***2.**(a disense of tobacco) **ताम्रकूटमारी***f.*  
 **wild fowl वन्य कारण्ड  
@@ -6964,7 +6964,7 @@ wild ginger** (*Zingiber cassumunar*)**बनार्द्रक** *n.* (B., N
 wild indigo 1.वननीर, 2.**(*Indigofera articulata*) **कालक्लीतक***m.* (B.,M.)  
 **wild indigo root = baptisia** *Pharm.***वननील** *n.*  
 **wild ipecacuanha** (*Asclepias curassavica*) **काकतुण्डी** *f.* (N.,M.)  
-**wild jack** (*Artocarpus hirsuta*) **अरण्य-पनस** *m. * (Mar. **** रानफणस)  
+**wild jack** (*Artocarpus hirsuta*) **अरण्य-पनस** *m. * (Mar.  रानफणस)  
 **wild jasmine** (*Jasminum angustifolium*) **वनमल्ली** *f.* (B., N.)  
 **wild jujube** (*Zizyphus nummularia*)**भूबदर** *m.*  
 **wild laburnum = Melilotus officinalisपीत-वनमेथिका** *f.*  
@@ -7003,7 +7003,7 @@ wild sugarcane 1.**(*Sacchcruns arundinaceum*) **सारा इक्षु** 
 *spontaneum*) **काश** *m.*(B.,N., M.)
 
 **wild sunflower = Tithonia diversifolia  
-wild suran** (*Synantherias syluatica*)**वज्रकन्द** *m.*(N., M****.****)  
+wild suran** (*Synantherias syluatica*)**वज्रकन्द** *m.*(N., M.)  
 **wild swine वन्य सूकर, जंगली सूअर  
 wild swordbean** (*Canavalia uirosa*)**कृष्णा खड्गशिम्बी** (Basu कृष्णफल, Bon. *kalan shim*)  
 **wild thyme** (*Thymus serpyllum*) **वन्यपर्णासी  
@@ -7101,14 +7101,14 @@ wind belt** *Forestry* (a natural or artificial protective belt maintained again
 
 **वात-रक्षापट्टी**
 
-**windbill = windmill** *Com.* **वातविपत्र,******चिल्लविपत्र** *n.*(kite bill)  
+**windbill = windmill** *Com.* **वातविपत्र,**चिल्लविपत्र** *n.*(kite bill)  
 **wind-blown** *adj.* **वात-वाहित  
 wind-borne seed वातोढ बीज  
 windbreak 1.a** (a tree or group of trees broken by wind—I.F.R.) **वातपातित वृक्ष** *m.,***b** (tlhe
 
 breaking of trees by wind)**वात-पातन** *n.,***2.**(a fence or the like to break the force of wind) **वातवृति** *f.* (वृति fence)
 
-**wind chest** (in a musical instrument)**भस्त्रा** *f.*****(Mar. भाता)  
+**wind chest** (in a musical instrument)**भस्त्रा** *f.*(Mar. भाता)  
 **windcock वायुकुक्कुट** *m.*  
 **wind dispersal** *Bot.* **वातापकिरण  
 wind drift structure** *Geog.* **वातोढ-रचना  
@@ -7264,7 +7264,7 @@ wire grass = ninetyknot** (*Polygonum aviculare*) **पुरुसन्धि*
 **wire holder तन्तु-धर** *m.*  
 **wire hoop तन्तु-वलय  
 wireless** *n.* **वितन्तु** *m.*  
-**wireless** *vb.*******= radio** *vb.*  
+**wireless** *vb.***= radio** *vb.*  
 **wireless apparatus वितन्तु-साधित्र  
 wireless beacon = radio beacon**  
 **wireless officer वितन्तु-अधिकारी  
@@ -7531,7 +7531,7 @@ mineral)
 **Wollaston's doublet = Wollaston'slens** *Optics* **समोदुब्ज युगल  
 Woliaston's lens = Wollaston's doublet  
 wollen goods ऊनी वस्तुएं  
-wolverine** *Zool.*****(from wolf—prob. so called from its wolfish qualities. Itoccurs in North
+wolverine** *Zool.*(from wolf—prob. so called from its wolfish qualities. Itoccurs in North
 
 America and its furis prized by the northern tribes, as
 
@@ -8194,7 +8194,7 @@ Wuchereria bancrofti सामान्य श्लीपदकृमि
 Wular lake** *Geog.* **महापद्मसरस्** *n.*  
 **wulfenite सीससंवर्णिज** *m.* (सीस lead,संवर्ण for संवर्णीय molybdate,
 -इज forखनिज mineral)  
-**wurtzite कुप्यशिज** *m.*****(कुप्य- for कुप्यातुzinc, श-for शुल्बेय sulphide, -इज forखनिज mineral)  
+**wurtzite कुप्यशिज** *m.*(कुप्य- for कुप्यातुzinc, श-for शुल्बेय sulphide, -इज forखनिज mineral)  
 **Wurtz reaction** *Chem.* (aliphatic hydrocarbons) **स्नायंगार प्रतिक्रिया** (स्नै = स्नैहिक, अंगार = उदांगार)  
 **wych-elm गिरि-उपकर  
 wymote = Althaea officinalis  
@@ -9404,7 +9404,7 @@ zymology कैण्विकी** *f.***, किण्वन-विज्ञ�
 **zymolysis = enzymolysis** *Biochem.***विकरांशन***n.* (action of enzymes)  
 **zymo-meter = zymosi-meter किण्वन-मान** *m.*  
 **zymo-phosphate** *Biochem.* **प्रकिण्व-भास्वीय** (found in yeast)  
-**zymoplastic** *adj. Biochem.* (they are believed to participate in the formation of enzymes) ****
+**zymoplastic** *adj. Biochem.* (they are believed to participate in the formation of enzymes) 
 
 **विकरघटक**
 

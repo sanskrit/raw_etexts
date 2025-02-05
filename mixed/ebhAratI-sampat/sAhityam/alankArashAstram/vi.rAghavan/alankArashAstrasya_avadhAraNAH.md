@@ -120,7 +120,7 @@ of articles. I am thankful to the authorities of the Madras University for permi
 
 
 
-**ABBREVIATIONS AND SELECT****BIBLIOGRAPHY**
+**ABBREVIATIONS AND SELECTBIBLIOGRAPHY**
 
 **(For a full list of Works and Authors, See Index)**
 
@@ -773,7 +773,7 @@ P. 387.
 
  That the very Abhidhāvyāpāra of the poet is Lakṣaṇa is clinched by Abhinava in his exposition of the fourth Lakṣaṇa called Abhimāna, by reading that Lakṣaṇa in the end as *Abhidhāna*.
 
- अथाभिमानः **. . . . . . . . .**कविना अलङ्कार (?) उपमानोपमेयभावस्य****कथञ्चिदप्यस्वीकारात् केवलं वक्तुरभिमतं लक्षणम्**¹**। इति अभिधानाख्यं
+ अथाभिमानः **. . . . . . . . .**कविना अलङ्कार (?) उपमानोपमेयभावस्यकथञ्चिदप्यस्वीकारात् केवलं वक्तुरभिमतं लक्षणम्**¹**। इति अभिधानाख्यं
 
 p. 387.
 
@@ -3183,7 +3183,7 @@ Stevenson thus concludes his section on ‘contents of the phrase’: "To unders
 
 
 
-only relieved by jaw-breaking hiatus, and whole phrases not to be articulated by the powers of man." R. L. Stevenson speaks in this essay of his, of Samatā, Vaiṣamya, Prasāda and *Caville,i.e.*, the Anarthakapadas or Aprayojāka padas of Vāmana which hinder Prasāda (अर्थस्य वैमल्यं प्रयोजकमात्रपदपरिग्रहे प्रसादःIII, iii, 3.) and Mahiman's Avakara. Ideas found in Pater's exposition of style also have correspondences with ideas on Guṇa, Alaṁkāra and Alaṁkāraucitya found in Sanskrit works. Schopenhauer has an essay on Authorship and Style, where, while dealing with the latter subject, he gives certain concrete good features of a good style of writing, judged to be good by reason of the presence of those features. According to him thoughts must get their clearest, finest and most powerful expression; thus, three qualities are emphasised by him, clarity and beauty, the sum total of these two, the power. In clarity is comprehended chiefly the virtue of simplicity which means the expression of thoughts “as purely, clearly, definitely and concisely as ever possible.”This is secured by the use of words which are precise and which mean neither more nor less, which neither mean the thing vaguely nor mean something different. Grammatical precision and enough words are necessary. Clarity and grammar must not be sacrificed for the sake of brevity. Says Schopenhauer: "On the other hand one should never sacrifice clearness, to say nothing of grammar, for the sake of being brief ...****And this is precisely what false brevity nowadays in vogue is trying to do, for writers not only leave out words that are to the purpose, but even grammatical and logical essentials." Compare Daṇḍin's Guṇa, Arthavyakti, which he defines as Aneyārthatva. It is a grammatical and logical necessity. In its absence, in the absence of words grammatically and logically essential, we have the Doṣa called Neyārthatva.
+only relieved by jaw-breaking hiatus, and whole phrases not to be articulated by the powers of man." R. L. Stevenson speaks in this essay of his, of Samatā, Vaiṣamya, Prasāda and *Caville,i.e.*, the Anarthakapadas or Aprayojāka padas of Vāmana which hinder Prasāda (अर्थस्य वैमल्यं प्रयोजकमात्रपदपरिग्रहे प्रसादःIII, iii, 3.) and Mahiman's Avakara. Ideas found in Pater's exposition of style also have correspondences with ideas on Guṇa, Alaṁkāra and Alaṁkāraucitya found in Sanskrit works. Schopenhauer has an essay on Authorship and Style, where, while dealing with the latter subject, he gives certain concrete good features of a good style of writing, judged to be good by reason of the presence of those features. According to him thoughts must get their clearest, finest and most powerful expression; thus, three qualities are emphasised by him, clarity and beauty, the sum total of these two, the power. In clarity is comprehended chiefly the virtue of simplicity which means the expression of thoughts “as purely, clearly, definitely and concisely as ever possible.”This is secured by the use of words which are precise and which mean neither more nor less, which neither mean the thing vaguely nor mean something different. Grammatical precision and enough words are necessary. Clarity and grammar must not be sacrificed for the sake of brevity. Says Schopenhauer: "On the other hand one should never sacrifice clearness, to say nothing of grammar, for the sake of being brief ...And this is precisely what false brevity nowadays in vogue is trying to do, for writers not only leave out words that are to the purpose, but even grammatical and logical essentials." Compare Daṇḍin's Guṇa, Arthavyakti, which he defines as Aneyārthatva. It is a grammatical and logical necessity. In its absence, in the absence of words grammatically and logically essential, we have the Doṣa called Neyārthatva.
 
 
 
@@ -3633,7 +3633,7 @@ and अर्थवृत्तिamong Kais'ikyādivṛttis themselves**.** Bh�
 माधुर्यभारभङ्गुरसुन्दरपदवर्णविन्यासा॥**
 
 **व्युत्पत्तिमुद्गिरन्ती निर्मातुर्या प्रसादयुता।**  
-**तां विवुधा वैदर्भी वदन्ति वृत्ति गृहीतपरिपाकाम्॥****        
+**तां विवुधा वैदर्भी वदन्ति वृत्ति गृहीतपरिपाकाम्॥        
 .      .      ** **.     .**  
 **अस्याश्च रीतेर्निर्माणे कविना नितरामवहितेन भाव्यम्।**
 

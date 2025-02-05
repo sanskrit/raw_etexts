@@ -109,7 +109,7 @@ CONTENTS
 
 
 
-****By the same Author****  
+By the same Author  
 
 
 **SHAKTI AND SHAKTA**
@@ -276,17 +276,17 @@ Tadādoṣāya bhavats nānyathādūṣaṇaṁ kvacut.*
 
 object of his worship. Woman is *Devatā,* and the embodiment of the Supreme Śakti, and is as such honoured and worshipped, and is, when *pūjyā śakti*, never the subject of enjoyment.
 
-  Verses 15 and 16, as sufficiently appears from their context, refer to the *s****ā****dhana* of those who are not *siddha.*
+  Verses 15 and 16, as sufficiently appears from their context, refer to the *sādhana* of those who are not *siddha.*
 
 *  *Verses 10, 17, and 18 apply to both *sādhaka* and *siddha*, as to verse 20, see pp. 4, 5 *ante.*
 
-  By such *sādhana* the last vestiges of the most powerful of such bonds is sought to be destroyed, and with such destruction the seed of *karma* and rebirth. He, like Śiva, becomes destroyer of Smara, and Śiva Himself. Verses 4, 18, and 20 refer directly to this fruit of *s****ā****dhuna.* Others indicate the material and intellectual greatness on earth of the *s****ā****dhaka*, who devoutly worships the Devī. To him is given mastery over all persons and things of the world, which on death, if *siddha*, he leaves for the dwelling by the Supreme Feet (verse 17), or Nirvāṇa. As Śiva says in the Kālīvilāsa-Tantra “I have told you, my beloved, all about the five Tattvas, Sādhana in the cremation ground and with the funeral pyre now listen to the doctrine of the Siddha-vīra.”
+  By such *sādhana* the last vestiges of the most powerful of such bonds is sought to be destroyed, and with such destruction the seed of *karma* and rebirth. He, like Śiva, becomes destroyer of Smara, and Śiva Himself. Verses 4, 18, and 20 refer directly to this fruit of *sādhuna.* Others indicate the material and intellectual greatness on earth of the *sādhaka*, who devoutly worships the Devī. To him is given mastery over all persons and things of the world, which on death, if *siddha*, he leaves for the dwelling by the Supreme Feet (verse 17), or Nirvāṇa. As Śiva says in the Kālīvilāsa-Tantra “I have told you, my beloved, all about the five Tattvas, Sādhana in the cremation ground and with the funeral pyre now listen to the doctrine of the Siddha-vīra.”
 
-*Madyaṁ matsyaṁ tathā m****ā****ṁsaṁ mudr****ā****ṁ maithunam-evaca.*  
-*Smaś****ā****nas*ā*dhanaṁ bhadre citāvsādhanam eva ca.  
+*Madyaṁ matsyaṁ tathā māṁsaṁ mudrāṁ maithunam-evaca.*  
+*Smaśānas*ā*dhanaṁ bhadre citāvsādhanam eva ca.  
 Etat te kathitaṁ sarvaṁ siddhaviramataṁ Śṛiṇu*.
 
-It is the *s****ā****dhana* of the cremation-ground on which all passion is burnt away. There are two kinds of cremationground, of which the one is the funeral pyre (*citā*), and the other *yonirūþā mahākālī.* As the first Chapter of the Niruttara-Tantra says there are two cremation grounds namely that which is the funeral pyre and the *yoni*which, in its *sūkṣma* sense, is the Devī, the *śmasāna* being in the same sense dissolution or *pralaya*. (*Śmaśānaṁ dvividhaṁ*
+It is the *sādhana* of the cremation-ground on which all passion is burnt away. There are two kinds of cremationground, of which the one is the funeral pyre (*citā*), and the other *yonirūþā mahākālī.* As the first Chapter of the Niruttara-Tantra says there are two cremation grounds namely that which is the funeral pyre and the *yoni*which, in its *sūkṣma* sense, is the Devī, the *śmasāna* being in the same sense dissolution or *pralaya*. (*Śmaśānaṁ dvividhaṁ*
 
 
 
@@ -948,7 +948,7 @@ difficulty, Thou takest away all fear’ (Mārkaṇdeya-Purāṇa). At the same
 time it is she who fills the ignorant with terror (*Paśuloka-bhayaṁkarī*)—that is, those devoid of the knowledge of non-duality, for ‘fear comes when there is duality’ (Br. Up. 1-4-2, Lalitā, v. 99)  
   ⁵ *Prakatita-vadane*(see ‘*Daśa-MahāvidyāUþāsanārahasya*, by Prasanna-Kumāra-Śāstri). *Vimal*ā*nanda reads Prakatitaradane,* that is, with big protruding teeth. The *Yoginī-Tantra* says, Supreme eternal, large-toothed, smeared with blood.’ The *Tarāk*ā*lþa* speaks of *Śyāmā* of the colour of a new (freshly formed) cloud, with large breasts, terrible with protruding teeth. (V)  
   ⁶ As stated—that is, *Krīṁ Krīṁ Krīṁ Hūm Hūṁ Hrīṁ Hrīṁ* which with *Dakṣiṇe* makes ten syllables.  
-^(  7******)*siddhi*—that is, *Aṇimā, Laghimā, Garimā, Prāpti, Prākāṁya, Isitva, Vaśitva,* *Kāmāvāsāyithā*power of becoming small, great, heavy, light, etc., which are inherent in Īśvara, and are attainable by Yogīs who become Īśvara and gain *Āiśvarya*. By realization of the self, that Divine state which is the universal Self is manifested, as also the eight-fold manifestation of the Divine power.  
+^(  7**)*siddhi*—that is, *Aṇimā, Laghimā, Garimā, Prāpti, Prākāṁya, Isitva, Vaśitva,* *Kāmāvāsāyithā*power of becoming small, great, heavy, light, etc., which are inherent in Īśvara, and are attainable by Yogīs who become Īśvara and gain *Āiśvarya*. By realization of the self, that Divine state which is the universal Self is manifested, as also the eight-fold manifestation of the Divine power.  
 * ⁸Tryaṁbaka* or *Śiva*. According to Tarkālaṁkāra’s Commentary on Mahānirvāṇa-Tantra, *Tryaṁbaka* means the father of the three Devas, Brahmā, Viṣṇu, and Rudra. The Ṛgvidhāna uses it as an equivalent of Mahādeva. The Mahānirvāṇa-Tantra says: As She surveys the entire universe, which is the product of time, with Her three eyes—the Moon, Sun, and Fire—therefore She is endowed with three eyes’ (Ullasa xiii, verse 8) The Moon, Sun, and Fire are the *Icchā, Kriyā, Jñūna* and other Śaktis (see the Ṣatcakranirūipaṇa of Pūrṇanaṇda-Svāmi) and Serpent Power by a. Avalon.  
  ⁹By him who carries a flower its odour is enjoyed without seeking. By him who looks upon himself as the universal Self the powers (of Brahmā, etc.) are enjoyed’ (Commentary of Sureśvarācārya on tenth *Śloka* of *Dakṣināmūrti Stotra*)
 
@@ -1084,7 +1084,7 @@ Eyes (Netra)
 
 
 
-O MOTHER, even a dullard becomes a poet who meditates upon Thee raimented with space,’ three-eyed**²**Creatrix of the three worlds, whose waist ⁴ is^(****)beautiful with a girdle made of numbers of dead men’s arms, and who on the breast of a corpse,⁵ as Thy couch in the cremation-ground,⁶enjoyest Mahākāla.⁷
+O MOTHER, even a dullard becomes a poet who meditates upon Thee raimented with space,’ three-eyed**²**Creatrix of the three worlds, whose waist ⁴ is^()beautiful with a girdle made of numbers of dead men’s arms, and who on the breast of a corpse,⁵ as Thy couch in the cremation-ground,⁶enjoyest Mahākāla.⁷
 
 **COMMENTARY**
 
@@ -2100,7 +2100,7 @@ literature of which occupies a front rank in the religious life of Modern India 
                                    
   *
 
-****
+
 
 ¹ नित्यायाःकालरूपाया अरुपायाः शिवात्मनः।  
   अमृतत्वाल्ललाटेऽस्याः शशिचिह्नंनिरूपितम्‌॥ महानिर्वाणतन्त्रम्‌॥  
@@ -2143,7 +2143,7 @@ literature of which occupies a front rank in the religious life of Modern India 
                                    
   *
 
-**¹ कः****क्रोधीशो महाकाली कामदेवः प्रकाशकः।  
+**¹ कःक्रोधीशो महाकाली कामदेवः प्रकाशकः।  
   श्रीपुरंरमणोऽनङ्गकुसुमा परमात्मकः॥**  
 **²**
 
@@ -2159,7 +2159,7 @@ literature of which occupies a front rank in the religious life of Modern India 
 **"आद्यन्तहीनंजगदात्मरूपं विभिन्नसंस्थं प्रकृतेः परस्तात्‌।  
 कूटस्थमव्यक्तवपुस्तवैव नमामि रूप॑ पुरुषाभिधानम्‌॥"**
 
-इति। हे सृक्कद्वन्द्वास्रधाराद्वयधरवदने! सृक्कद्वयगलद्रक्तधाराविस्फुरितानने! अत्र रक्तधारया रजोगुणः सूचितः, तस्मात्‌ महादेवी रजोरहिता शुद्धसत्वात्मिका विरजेत्ति^(**1**)****निरूपिता। त्रिपुरसुन्दरीपक्षे तु, रजोगुणेन महादेव्यारक्तवर्णामूर्तिः सूचिता। वैश्वानरस्थः; तेजोमयः।शशधरविलसद्; अमृतदातृशक्त्या सह। वामनेत्रेण युक्तः; शुद्धसत्वगुणात्मिकया मायया युक्तः। ईशः; ईश्वरात्मकसूक्ष्मबीजात्मभाव इति। ते; तव अन्यत्‌ अपरम्‌।द्वन्द्वम्;^(**2**)हल्लेखावाच्यशिवशक्त्यायात्मकं बीजात्मरूपम्‌। तथा “दक्षिणे”**³** इति संबोधननामात्मकत्र्यक्षरं मन्त्रवाच्यं कैवल्यदायकसच्चिदानन्दरूपं ये साधकाः जपन्ति ध्यायन्ति। ते द्वेष्टारं साधनविघ्नकरकामक्रोधादिकं घ्नन्ति नाशयन्ति। त्रिभुवनमपि; त्रिलोकींच वश्यभावं नयन्ति; वश्यतां प्रापयन्ति। श्रीसुन्दरीपक्षे तु--हे कालिके! रक्तकालिके! तृतीयमहाविद्या श्रीमत्त्रिपुरसुन्दरीत्यर्थः। उक्तं च **बृहन्नीलतन्त्रे**--
+इति। हे सृक्कद्वन्द्वास्रधाराद्वयधरवदने! सृक्कद्वयगलद्रक्तधाराविस्फुरितानने! अत्र रक्तधारया रजोगुणः सूचितः, तस्मात्‌ महादेवी रजोरहिता शुद्धसत्वात्मिका विरजेत्ति^(**1**)निरूपिता। त्रिपुरसुन्दरीपक्षे तु, रजोगुणेन महादेव्यारक्तवर्णामूर्तिः सूचिता। वैश्वानरस्थः; तेजोमयः।शशधरविलसद्; अमृतदातृशक्त्या सह। वामनेत्रेण युक्तः; शुद्धसत्वगुणात्मिकया मायया युक्तः। ईशः; ईश्वरात्मकसूक्ष्मबीजात्मभाव इति। ते; तव अन्यत्‌ अपरम्‌।द्वन्द्वम्;^(**2**)हल्लेखावाच्यशिवशक्त्यायात्मकं बीजात्मरूपम्‌। तथा “दक्षिणे”**³** इति संबोधननामात्मकत्र्यक्षरं मन्त्रवाच्यं कैवल्यदायकसच्चिदानन्दरूपं ये साधकाः जपन्ति ध्यायन्ति। ते द्वेष्टारं साधनविघ्नकरकामक्रोधादिकं घ्नन्ति नाशयन्ति। त्रिभुवनमपि; त्रिलोकींच वश्यभावं नयन्ति; वश्यतां प्रापयन्ति। श्रीसुन्दरीपक्षे तु--हे कालिके! रक्तकालिके! तृतीयमहाविद्या श्रीमत्त्रिपुरसुन्दरीत्यर्थः। उक्तं च **बृहन्नीलतन्त्रे**--
 
 इयं नारायणी कालीतारा स्यात्‌ शून्यवाहिनी।  
 सुन्दरी रक्तकालीयंभैरवी नादिनी तथा॥
@@ -2204,7 +2204,7 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 टीका
 
- **ऊर्ध्व**इति। हे त्रिजगदधहरे! त्रिजगतां जनानां पापनाशिनि! हे प्रकटितरदने!^(**1**)****प्रकाशितदशने! हेअम्ब! मातः दक्षिणे! निर्वाणदात्रि! ये साधकाः। तव मनुविभवम्‌; पूर्वोक्तं कालीबीजत्रयं कूर्चद्वयं मायाद्वयं “'दक्षिणे” इति त्र्यक्षररूपं दशाक्षरमन्त्रसंपत्तिं तया “कालिके” इति नामात्मकत्र्यक्षरमन्त्रं जप्त्वा, वामे ऊर्ध्वे करकमलतले कृपाणं खड्गं, तथा अधः; निम्नेछिन्नमुण्डं छिन्नमस्तकम्‌, सव्ये दक्षिणे ऊर्ध्वे करकमलतलेअमीः, अभयमुद्राम्‌। वरं च; दक्षिणे अधः करकमलतले वरमुद्रां च। एतत्‌ ईदृशम्‌ ऊर्ध्वे वामे कृपाणमित्यादि- '
+ **ऊर्ध्व**इति। हे त्रिजगदधहरे! त्रिजगतां जनानां पापनाशिनि! हे प्रकटितरदने!^(**1**)प्रकाशितदशने! हेअम्ब! मातः दक्षिणे! निर्वाणदात्रि! ये साधकाः। तव मनुविभवम्‌; पूर्वोक्तं कालीबीजत्रयं कूर्चद्वयं मायाद्वयं “'दक्षिणे” इति त्र्यक्षररूपं दशाक्षरमन्त्रसंपत्तिं तया “कालिके” इति नामात्मकत्र्यक्षरमन्त्रं जप्त्वा, वामे ऊर्ध्वे करकमलतले कृपाणं खड्गं, तथा अधः; निम्नेछिन्नमुण्डं छिन्नमस्तकम्‌, सव्ये दक्षिणे ऊर्ध्वे करकमलतलेअमीः, अभयमुद्राम्‌। वरं च; दक्षिणे अधः करकमलतले वरमुद्रां च। एतत्‌ ईदृशम्‌ ऊर्ध्वे वामे कृपाणमित्यादि- '
 
 *                                   
                                    
@@ -2282,7 +2282,7 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 
 
-शैल्यसौन्दर्ययुक्तम्‌। वर्गाद्यम्‌; सृष्टेः आदिभूतं चिन्मयरूपम्‌। तत्त्रयं सत्त्वरजस्तमोभेदेन त्रिविधरूपम्‌। पश्चात्‌ तथा कूर्चयुग्मं; शब्दब्रह्मरूपम्‌।लज्जाद्वन्द्वंच; मायाशबलब्रह्मरूपं च। तदधःठद्वयंयोजयित्वा; स्वाहा वह्नेःप्रकाशशक्तिः, तया सह ते स्वप्रकाशरूपं स्वरूपं^(**1**)****स्वस्य आत्मनो रूपं, जीवात्मना सह अभेदम्‌। भावयन्तो जपन्ति अनुध्यायन्ति।ते साधकाः; लक्ष्मीलास्यलीला,**²**लक्ष्म्याः श्रियः, लास्यं नृत्यं, लीलाक्रीडा, रमणं चेत्यर्थः। लक्ष्म्याः नृत्यादिविहार इति भावः। तस्या आधारभूतः यः कमलदृक्‌ कमलाक्षः विष्णुः तत्सदृशाः। उक्तं च देवीमाहात्म्ये,“श्रीः कैटभारिहृदयैककृताधिवासा”इति। कामरूपाः; स्वेच्छानुसारेण शरीरग्रहणसमर्था भवन्ति। यथा पुण्डरीकाक्षः विष्णुः स्वेच्छया मत्स्य-कूर्म-वराहादिदशविधमूर्तीन्‌ तथा मोहिनीमूर्तिंच दधार, तद्वत्‌ कालीसाधकाः स्वेच्छानुसारेण मूर्तिं परिग्रहीतुंशक्नुवन्तीति भावः। उक्तं च **क्रमस्तोत्रे—**
+शैल्यसौन्दर्ययुक्तम्‌। वर्गाद्यम्‌; सृष्टेः आदिभूतं चिन्मयरूपम्‌। तत्त्रयं सत्त्वरजस्तमोभेदेन त्रिविधरूपम्‌। पश्चात्‌ तथा कूर्चयुग्मं; शब्दब्रह्मरूपम्‌।लज्जाद्वन्द्वंच; मायाशबलब्रह्मरूपं च। तदधःठद्वयंयोजयित्वा; स्वाहा वह्नेःप्रकाशशक्तिः, तया सह ते स्वप्रकाशरूपं स्वरूपं^(**1**)स्वस्य आत्मनो रूपं, जीवात्मना सह अभेदम्‌। भावयन्तो जपन्ति अनुध्यायन्ति।ते साधकाः; लक्ष्मीलास्यलीला,**²**लक्ष्म्याः श्रियः, लास्यं नृत्यं, लीलाक्रीडा, रमणं चेत्यर्थः। लक्ष्म्याः नृत्यादिविहार इति भावः। तस्या आधारभूतः यः कमलदृक्‌ कमलाक्षः विष्णुः तत्सदृशाः। उक्तं च देवीमाहात्म्ये,“श्रीः कैटभारिहृदयैककृताधिवासा”इति। कामरूपाः; स्वेच्छानुसारेण शरीरग्रहणसमर्था भवन्ति। यथा पुण्डरीकाक्षः विष्णुः स्वेच्छया मत्स्य-कूर्म-वराहादिदशविधमूर्तीन्‌ तथा मोहिनीमूर्तिंच दधार, तद्वत्‌ कालीसाधकाः स्वेच्छानुसारेण मूर्तिं परिग्रहीतुंशक्नुवन्तीति भावः। उक्तं च **क्रमस्तोत्रे—**
 
 “ततः स्वनाम्नःशृणु मातरेतत्‌ फलंचतुर्वर्गमुशन्ति सन्तः।  
 बीजत्रयं वै पुनरप्युपास्य सुराधिपत्यं लभते मुनीन्द्रः॥  
@@ -2382,7 +2382,7 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 स्वरूपव्याख्या
 
- गतासूनामिति। हेजननि! चराचराणामुत्पादयित्रि! गतासूनाम्‌; मृतानां, बाहुप्रकरकृतकाञ्चीपरिलसन्नितम्बाम्‌^(**2**);****सर्वेजीवाः कल्पावसाने स्थूलदेहान्‌ त्यक्त्वा स्वस्वकर्मभिः सह लिङ्गदेहमाश्रित्यसगुणब्रह्मरूपिण्याः कारणदेहस्य अविद्यामयांशे पुनः कल्पारम्भपर्यन्तमामोक्षमवतिष्ठन्ते। अत एवात्र मृतजीवानां प्रधानकर्मसाधनभूतैः करणसमृहैः विराड्रूपिण्याः महादेव्याः गर्भधारणयोग्यनिम्नोदरस्य तथा योनिश्च ऊर्ध्वस्थितकटिप्रदेशे काञ्ची कल्पिता इति भावः। दिग्वस्त्राम्‌; वस्त्रंमायावरणं, तेन शून्यां मायातीतामित्यर्थः। त्रिभुवनविधात्रीम्‌पुनः कल्पारम्भे जीवानां स्वस्वसंचितकर्मानुसारेण पुनर्जन्मनां भोगानां च विधानकर्त्रीम्‌। त्रिणयनाम्‌; त्रिकालज्ञाम्‌। श्मशानस्थे**³**; महाप्रलये
+ गतासूनामिति। हेजननि! चराचराणामुत्पादयित्रि! गतासूनाम्‌; मृतानां, बाहुप्रकरकृतकाञ्चीपरिलसन्नितम्बाम्‌^(**2**);सर्वेजीवाः कल्पावसाने स्थूलदेहान्‌ त्यक्त्वा स्वस्वकर्मभिः सह लिङ्गदेहमाश्रित्यसगुणब्रह्मरूपिण्याः कारणदेहस्य अविद्यामयांशे पुनः कल्पारम्भपर्यन्तमामोक्षमवतिष्ठन्ते। अत एवात्र मृतजीवानां प्रधानकर्मसाधनभूतैः करणसमृहैः विराड्रूपिण्याः महादेव्याः गर्भधारणयोग्यनिम्नोदरस्य तथा योनिश्च ऊर्ध्वस्थितकटिप्रदेशे काञ्ची कल्पिता इति भावः। दिग्वस्त्राम्‌; वस्त्रंमायावरणं, तेन शून्यां मायातीतामित्यर्थः। त्रिभुवनविधात्रीम्‌पुनः कल्पारम्भे जीवानां स्वस्वसंचितकर्मानुसारेण पुनर्जन्मनां भोगानां च विधानकर्त्रीम्‌। त्रिणयनाम्‌; त्रिकालज्ञाम्‌। श्मशानस्थे**³**; महाप्रलये
 
 *                                  
                                    
@@ -2402,7 +2402,7 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 
 
-सर्वभूतानि शवरूपैः शेरते लीयन्ते यस्मिन्‌ तत्स्थानं तस्मिन्‌ महाकाशे। शवहृदि तल्पे;^(**1**)****शवः निर्गुणब्रह्म, तल्पे आधारे, निर्गुणब्रह्मरूपाधारे; निर्गुणब्रह्मरूपस्वीयपदे अवस्थिता सतीत्यर्थः। महाकालसुरतप्रयुक्ताम्‌; कल्पावसाने सृष्ट्यादिकार्याभावात्‌ निष्क्रियत्वाच्चपरमशिवेन सह अभिन्नतया अखण्डानन्दमनुभवतीम्‌।एवं ध्यायन्‌ सच्चिदानन्दरूपिणीं त्वां चिन्तनेन प्रत्यक्षीकुर्वन्‌। जडचेताः ; विषयरागोपहतचित्तो जनोऽपि, कविः महाज्ञानी भवतीति भावः॥७॥
+सर्वभूतानि शवरूपैः शेरते लीयन्ते यस्मिन्‌ तत्स्थानं तस्मिन्‌ महाकाशे। शवहृदि तल्पे;^(**1**)शवः निर्गुणब्रह्म, तल्पे आधारे, निर्गुणब्रह्मरूपाधारे; निर्गुणब्रह्मरूपस्वीयपदे अवस्थिता सतीत्यर्थः। महाकालसुरतप्रयुक्ताम्‌; कल्पावसाने सृष्ट्यादिकार्याभावात्‌ निष्क्रियत्वाच्चपरमशिवेन सह अभिन्नतया अखण्डानन्दमनुभवतीम्‌।एवं ध्यायन्‌ सच्चिदानन्दरूपिणीं त्वां चिन्तनेन प्रत्यक्षीकुर्वन्‌। जडचेताः ; विषयरागोपहतचित्तो जनोऽपि, कविः महाज्ञानी भवतीति भावः॥७॥
 
 शिवाभिर्घोराभिः शवनिवहमुण्डास्थिनिकरैः  
 परं संकीर्णायां प्रकटितचितायां हरवधूम्।  

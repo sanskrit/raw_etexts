@@ -258,7 +258,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg4NDgzOTE4
 
 
 
-            **॥ श्रीगुरुभ्यो नमः****॥**
+            **॥ श्रीगुरुभ्यो नमः॥**
 
 ** शाब्दविचारोपयोगिनां मौलिकानां शास्त्रार्थानां तत्तन्मतभेदसूची**
 

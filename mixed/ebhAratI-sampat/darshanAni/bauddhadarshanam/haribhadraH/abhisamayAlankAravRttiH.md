@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MTk5OTUz
 
 **प्रज्ञापारमितोपदेशशास्त्रे आचर्यहरिभद्रकृता**
 
-****
+
 
 ** अभिसमयालङ्कारवृत्तिः**
 

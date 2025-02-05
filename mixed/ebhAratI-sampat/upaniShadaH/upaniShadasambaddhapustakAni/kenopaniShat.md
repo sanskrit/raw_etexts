@@ -264,7 +264,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1Njk1NjUw
 
 **----------- ---------- ------- ----------**
 
-****
+
 
 ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः
 

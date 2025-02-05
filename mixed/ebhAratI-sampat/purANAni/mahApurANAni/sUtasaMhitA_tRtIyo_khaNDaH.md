@@ -7847,7 +7847,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0NTM0NTg5Nzg
 
 
 
-**** सूत उवाच–
+ सूत उवाच–
 
 **अथ वक्ष्ये समासेन सर्ववेदान्त संग्रहम्।  
 यं विदित्वा नरः साक्षान्निर्वाणमधिगच्छति॥१॥**

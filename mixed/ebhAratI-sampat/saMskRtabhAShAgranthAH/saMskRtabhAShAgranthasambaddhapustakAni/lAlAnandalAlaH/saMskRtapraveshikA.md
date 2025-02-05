@@ -183,7 +183,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 
 
-**पाठः ५**** **
+**पाठः ५ **
 
 **न,   च,   गौः **
 
@@ -205,7 +205,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 
 
-**पाठ ६**** **
+**पाठ ६ **
 
 **तत्र, मम, वर्तते, कुरु,  
 गच्छेयम्, गृहाण, वदसि।**
@@ -836,7 +836,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 
 
-**पाठः १०**** **
+**पाठः १० **
 
 ![](../books_images/U-IMG-1735368656Screenshot2024-12-28121450.png)
 

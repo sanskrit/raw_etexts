@@ -1178,7 +1178,7 @@ the repast of Gopas, well-fattened (as they are) by the grace-filled glances of 
 
 
 
- ****कमला–**स्मरसि सखीमामतिमुक्तलतां कदाप्येवंरीत्याम्रस्कन्धदृढालिङ्गनगात्रां स्वसौभाग्यातिशयदर्शनकृते भवादृशीर्लतान्तप्रलोभ्यबाहुभिरामन्त्रयन्तीं पूर्णकामतया विहरन्तीम्॥
+ कमला–**स्मरसि सखीमामतिमुक्तलतां कदाप्येवंरीत्याम्रस्कन्धदृढालिङ्गनगात्रां स्वसौभाग्यातिशयदर्शनकृते भवादृशीर्लतान्तप्रलोभ्यबाहुभिरामन्त्रयन्तीं पूर्णकामतया विहरन्तीम्॥
 
 ** रामा—**
 
@@ -1801,7 +1801,7 @@ a Victim sheep.*
 
 ** वेदान्ती—** दीयतां प्रत्ययप्रतिवचनम्॥
 
- **यज्ञाचार्यः****—**
+ **यज्ञाचार्यः—**
 
 **बालस्य भाषां तु वियातचोद्यां  
 सम्माननार्हांन बुधा वदन्ति।**
@@ -1839,7 +1839,7 @@ is enjoined by the scriptures all over the Earth. It is quite lawful for a Srotr
 लोके सन्ति स्म पुण्या हरिविमलधियस्तापसा वै महान्तः  
 कल्पद्रूणामधस्तात्सुरयुवतिदृशिब्रह्मनिष्ठास्तपस्सु॥४॥**
 
- **यज्ञाचार्यः****—**
+ **यज्ञाचार्यः—**
 
 **धिगस्य वाक्यं ह्यनभिज्ञशिक्षितं  
 पुराणपुंसां न भवेन्मनोरमम्।  
@@ -2373,9 +2373,9 @@ oh, human fools, seek him for shelter and serve him with faith. If indifference 
 
 **Krishna.—**Who is the person here that determines the import of Vedas?
 
-**Rama.**—****There are here venerable persons like Yagnacharya and others, performers of sacrifices.
+**Rama.**—There are here venerable persons like Yagnacharya and others, performers of sacrifices.
 
-**Krishna.**—****The Acharyas referred to by you, are they, is it not, who began to slaughter a Pasu (sheep victim ) in a certain sacrifice, only the other day not long ago, mistook the Pasu to be a serpent, abandoned the half-performed sacrifice, and have now commenced and are engaged in another sacrifice (yaga). Question a Vedantin among them if Indra is the prime hero of the Vedas.
+**Krishna.**—The Acharyas referred to by you, are they, is it not, who began to slaughter a Pasu (sheep victim ) in a certain sacrifice, only the other day not long ago, mistook the Pasu to be a serpent, abandoned the half-performed sacrifice, and have now commenced and are engaged in another sacrifice (yaga). Question a Vedantin among them if Indra is the prime hero of the Vedas.
 
 
 
@@ -2447,7 +2447,7 @@ in other’s affairs, and eating away their offerings without their consent, you
 
 *Enter a Servant.*
 
-**Servant.**—****The queen of Yagna is waiting in the adjacent garden in the sbade of an arbour, with every offering of worship brought away from the Yagna-shed, in eager expectation to meet you.
+**Servant.**—The queen of Yagna is waiting in the adjacent garden in the sbade of an arbour, with every offering of worship brought away from the Yagna-shed, in eager expectation to meet you.
 
 **Krishna.—**Rama, let us go there.
 
@@ -2591,9 +2591,9 @@ of fine small leaves out of them, here I hold to offer it to the Lord in devotio
 
 **Leela.—**The Kundas that are spotlessly white and lovely are however no arrows in the hands of our Govinda Cupid. When Hari the Little Mukunda, smiles, his tooth puts the flowers to shame by its radiance.
 
-**Champaka.**—****The garland of lotus blossoms is prostrate on the ground, fit as it was to adorn the neck of Lakshmee’s Lord. She (the garland) is of faded bloom for want of Haree’s contact. Oh Lord, save the lotus-garland as a bee.
+**Champaka.**—The garland of lotus blossoms is prostrate on the ground, fit as it was to adorn the neck of Lakshmee’s Lord. She (the garland) is of faded bloom for want of Haree’s contact. Oh Lord, save the lotus-garland as a bee.
 
-**Leela.**—****Krishna is no bee to save the lotus; on the other hand, I consider that he is an enemy
+**Leela.**—Krishna is no bee to save the lotus; on the other hand, I consider that he is an enemy
 
 
 
@@ -2677,13 +2677,13 @@ consuming what is offered to Him by all the gods and the best of men.
 
 **Peon.—**(*Approaching*) O! Devi, Leela**—**O Champaka.
 
-**Champaka.**—****(*Opening eyes, surprised*) Ah! what is it, who is here?
+**Champaka.**—(*Opening eyes, surprised*) Ah! what is it, who is here?
 
 
 
 ** सेवकः—**सेवकोहं कृष्णसन्देशयायी॥
 
-** चम्पका**—****भण भण किमेतदुक्तं त्वया कृष्णं प्रति॥
+** चम्पका**—भण भण किमेतदुक्तं त्वया कृष्णं प्रति॥
 
 ** सेवकः—**चित्रशालागतेन कृष्णेन भोजनमपेक्षितं आनीयतां भवतीभ्याम्॥
 
@@ -2697,7 +2697,7 @@ consuming what is offered to Him by all the gods and the best of men.
 
 **Champaka.—**Speak, speak, what was it said by you about Krishna.
 
-**Peon.**—****Food is wanted by Krishna who has gone to Chitrashala. Let it be taken by you.
+**Peon.**—Food is wanted by Krishna who has gone to Chitrashala. Let it be taken by you.
 
 **Champaka.—**Leela, make haste, make haste: the time of salvation has arrived for us.
 
@@ -2713,7 +2713,7 @@ consuming what is offered to Him by all the gods and the best of men.
 
 **॥प्रविशति नन्दः यज्ञाचार्यः चम्पका च॥**
 
-** यज्ञाचार्यः**—****हले क्व गतासि। आर्य, पृच्छतां क्व गता मदनुज्ञां विनेति, यज्ञशालां परित्यज्य, कष्टं, कङ्कणबद्धापि फलपुष्पगन्धादिभिर्निगूढं यागदीक्षामवमन्यमाना पुरोभागिनी॥
+** यज्ञाचार्यः**—हले क्व गतासि। आर्य, पृच्छतां क्व गता मदनुज्ञां विनेति, यज्ञशालां परित्यज्य, कष्टं, कङ्कणबद्धापि फलपुष्पगन्धादिभिर्निगूढं यागदीक्षामवमन्यमाना पुरोभागिनी॥
 
 ** नन्दः—**अम्ब क्व गता भवती॥
 
@@ -3252,7 +3252,7 @@ might and fury of Devendra, from considerations of propriety, be let loose. The 
 व्यत्यस्ते भागधेये ह्यनुचितसमये नैवचार्थ्या जयश्री  
 स्सर्वारम्भोऽपमानं नयति हि नियतं चेन्नवेलानुकूल्यम्॥**
 
- **इन्द्रः—****(आलोच्य।)** मातले क्व नारदः। अपि नायातस्सह भवता॥
+ **इन्द्रः—(आलोच्य।)** मातले क्व नारदः। अपि नायातस्सह भवता॥
 
 ** मातलिः—**भुवि संचरन्नास्ते। नायातः॥
 
@@ -3290,7 +3290,7 @@ really a foe. His strength and weakness have not yet been ascertained by us. Wha
 
 
 **त्यक्त्वा भूतिं विभूषां भुजगपरिवृतां चारुरूपं वहन्सो  
-नाट्ये कृष्णस्यगाने नटवरवपुषा मग्नभूतस्सदास्ते****॥****१९****॥**
+नाट्ये कृष्णस्यगाने नटवरवपुषा मग्नभूतस्सदास्ते॥१९॥**
 
 ** इन्द्रः—**
 
@@ -3318,7 +3318,7 @@ funeral grounds, gave up ashes and the ornaments made of serpent-garlands, and r
 **यस्माद्भावा विदूरा विकृतिजननतश्चित्तचाञ्चल्यवीजाः  
 यस्यैषत्स्यात्कदापि क्वचिदपि न हरौ भावभेदोऽथशङ्का।  
 सोयं राजा ऋजूनां ऋजुसरणिमतः पूर्णदृष्टिस्समीरो  
-नित्यं सायुज्यलाभात्प्रकटितमुदितो नेक्षतेरीह्नि विष्णोः****॥**
+नित्यं सायुज्यलाभात्प्रकटितमुदितो नेक्षतेरीह्नि विष्णोः॥**
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
  Brahma, being born directly from the Perfect God, and installed in a most exalted position (by Him ), attained, by reason of His grace, distinction as the head of all the countless jeevas, by possessing innumerable attributes. Indeed, Brahma, connoted in an important sense by (all) the numberless words of all the Vedas, worships that Vishnu incessantly, as the foremost devotee of all, with a mind absorbed in perfect contemplation.
@@ -3470,7 +3470,7 @@ a coward by nature, and what need to say, all the more now, by a consciousness o
 
  **आरण्यकः—**तात वन्दे आटविकोहं भवदुद्विग्नध्वनिं समाकर्ण्यागतः॥
 
-** यज्ञाचार्यः—****(सहर्षम्।) **स्वागतं प्रसन्नभागधेयस्य। आरण्यक स्वगतं ते॥
+** यज्ञाचार्यः—(सहर्षम्।) **स्वागतं प्रसन्नभागधेयस्य। आरण्यक स्वगतं ते॥
 
 ** चम्पका—**को भवान् ॥
 
@@ -3499,7 +3499,7 @@ Shouts Ho! Ho!
 
 ** आरण्यकः—**समीपत एव॥
 
-** यज्ञाचार्यः—****(आलोच्य।)** वनचर चण्डालगृहप्रवेशस्सर्वथा निषिद्धो हि ब्राह्मणानां तत्रापि दीक्षितानाम्॥
+** यज्ञाचार्यः—(आलोच्य।)** वनचर चण्डालगृहप्रवेशस्सर्वथा निषिद्धो हि ब्राह्मणानां तत्रापि दीक्षितानाम्॥
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 caused by cold wind, and rain. But I am a chandala (Panchama) by caste. Those who enter my kingdom are powerless to leave this country, in disregard of me, and without eating my food. I shall lead you to my house which is an eminent jewel of a mansion built of piled-up gems, wonderful excellent, and fresh. Come along, with pleasure, or if you don't like, go to the home of death.
@@ -3569,7 +3569,7 @@ and Jambu trees, amidst clusters of crowding flower-trees— the Jasmine, Malati
 
 
 
- **यज्ञाचार्यः—****(स्तनितगर्जितमाकर्ण्य।)** हा दैवम्। न करुणा देवस्यमय्यन्धे॥
+ **यज्ञाचार्यः—(स्तनितगर्जितमाकर्ण्य।)** हा दैवम्। न करुणा देवस्यमय्यन्धे॥
 
 ** आरण्यकः—**अस्त्यत्र दिव्या वैद्यशाला नेत्ररोगचिकित्सकश्च। प्रतिभूरहं भवन्नयनसम्पादनाय॥
 
@@ -3602,9 +3602,9 @@ and Jambu trees, amidst clusters of crowding flower-trees— the Jasmine, Malati
 **कामं ह्यास्तां स वैद्यः कुशलतमबुधो वाह्यनेत्रामयघ्नः  
 कास्तेऽसौवैद्यराजो मनसि तततमोमोहजालं प्रहर्तुम्॥**
 
-**यज्ञाचार्यः—****(आलोच्य।)** तर्हि प्रतिनिवृत्तावहे॥
+**यज्ञाचार्यः—(आलोच्य।)** तर्हि प्रतिनिवृत्तावहे॥
 
-**आरण्यकः—****(सरोषम्।)** रुणध्मिगमनमितः। **( इति चम्पका समीपं गच्छति तदा गोवर्धनस्सहसा चचाल वनचरोपि मूर्च्छाक्रान्तः पपात।)**
+**आरण्यकः—(सरोषम्।)** रुणध्मिगमनमितः। **( इति चम्पका समीपं गच्छति तदा गोवर्धनस्सहसा चचाल वनचरोपि मूर्च्छाक्रान्तः पपात।)**
 
 **चम्पका—** **(कर्णन्दत्वा।)** अहो श्रूयते नारदवीणा। **(आलोक्य।)** तत्र भवान्समयावर्तते कञ्चिच्छात्रमध्या- पयति ब्रह्ममीमाम्साम्॥
 
@@ -3623,7 +3623,7 @@ into the mind. Assuming that the doctor exists there, who is supealatively skilf
 
  **नारदः—** जयन्त, न ते वैरूप्यं स्वारूपिकम्। परिहरिष्यत्यद्धा भगवान्स्तवशोकम्॥
 
-** चम्पका—****(अपवार्य।)** शृणोत्वार्यपुत्रस्तत्रभवतो नारदस्योपदेशं जयन्ताय॥
+** चम्पका—(अपवार्य।)** शृणोत्वार्यपुत्रस्तत्रभवतो नारदस्योपदेशं जयन्ताय॥
 
 ** नारदः—**
 
@@ -3640,19 +3640,19 @@ into the mind. Assuming that the doctor exists there, who is supealatively skilf
 
 **Champaka. —** (Aside). Let my lord hear the instruction of Narada to Jayanta.
 
-**Narada.—**May He purify you, He by whom all the worlds are created,—****from whom are derived (their) sustenance, destruction, government, knowledge, bondage and emancipation—, He who is eternally unbound (unconditioned), and is absolutely devoid of any touch of material change,—****who is the sole Hero (goal) of all holy scriptures— who is eternally hymuned in praise by all words and sounds—****who is a self-existent entity different even from muktas (emancipated
+**Narada.—**May He purify you, He by whom all the worlds are created,—from whom are derived (their) sustenance, destruction, government, knowledge, bondage and emancipation—, He who is eternally unbound (unconditioned), and is absolutely devoid of any touch of material change,—who is the sole Hero (goal) of all holy scriptures— who is eternally hymuned in praise by all words and sounds—who is a self-existent entity different even from muktas (emancipated
 
 
 
  **जयन्तः—**प्रभो कुत्रास्ति हरिः यत्प्रसादादेव लभ्यं मोचनम्॥
 
-** नारदः****—**सर्वव्यापी खल्वसौ तेन विना न तृणमपि चलति॥
+** नारदः—**सर्वव्यापी खल्वसौ तेन विना न तृणमपि चलति॥
 
-** चम्पका****—**मुने अभिवादये। अस्ति भवदभिष्टुतो विभुर्वृन्दावने॥
+** चम्पका—**मुने अभिवादये। अस्ति भवदभिष्टुतो विभुर्वृन्दावने॥
 
 ** नारदः—** कथं जानास्येवम्॥
 
-**चम्पका****—**नातिचिरमेकदिवसे यशोदासूनुर्मानुषशिशुवत्क्रीडालोलो मृत्तिकां भुङ्त्वा मात्रा भर्त्सितस्सन्तस्याश्शिक्षामसहिष्णुरिवव्याददान्मुखं न मया भक्षिता मृदिति तां प्रत्याययितुम्। तदा तत्रापश्य-
+**चम्पका—**नातिचिरमेकदिवसे यशोदासूनुर्मानुषशिशुवत्क्रीडालोलो मृत्तिकां भुङ्त्वा मात्रा भर्त्सितस्सन्तस्याश्शिक्षामसहिष्णुरिवव्याददान्मुखं न मया भक्षिता मृदिति तां प्रत्याययितुम्। तदा तत्रापश्य-
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 souls)— who is faultless and possessed of innumerable attributes.
@@ -3707,11 +3707,11 @@ she perceive within His abdomen, all the fourteen worlds, the orb of Brahmanda (
 
  **नारदः—**अपि ज्ञातं तत्कारणम्॥
 
-** यज्ञाचार्यः****—**नैव॥
+** यज्ञाचार्यः—**नैव॥
 
 ** नारदः—** अतिदारुणवर्षाभिघातपीडितगोकुलत्राणाय भगवान्गोपीनाथो जलत्रच्छत्रमिव धर्तुं गोवर्धनं चचालेति तर्कयामि॥
 
-** चम्पका****—**एवमेव निश्चयः॥
+** चम्पका—**एवमेव निश्चयः॥
 
 ** नारदः—** किं च नातिचिरंस्फुरितहृदयावतीवोद्विग्नौ बभूवथुरिति मुखग्लानिः कर्णेजपतया समाचष्टे॥
 
@@ -4031,7 +4031,7 @@ be) drowned to a certainty in great number, being unable to swim, and not having
 
 **इन्द्रः—**पश्याज्ञं स्वदैवतोपालम्भकं निष्कारणतया। स्वस्वयोग्य फलदाता हि महेश्वरः॥
 
-**मातलिः—****(कर्णन्दवा।)** प्रभवः, पश्यत॥
+**मातलिः—(कर्णन्दवा।)** प्रभवः, पश्यत॥
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 worshipped all the divine hosts with impartiality, and performed acts of piety for a long time on the Earth, with a view to a ceaseless promotion of worldly prosperity, I have at last come to this pass in a flood of water. Where is happiness in carnal life? Alas O God, both your eyes are undoubtedly afflicted with blindness.
@@ -4071,9 +4071,9 @@ worshipped all the divine hosts with impartiality, and performed acts of piety f
 
 **लीला—**तत्रतावत्तव विव्वोकोहि कारणम्॥
 
-**इन्द्रः—****(जनान्तिकम्।)** मातले कथमेतत्॥
+**इन्द्रः—(जनान्तिकम्।)** मातले कथमेतत्॥
 
-**मातलिः—****(अपवार्य।)** शृणवाव॥
+**मातलिः—(अपवार्य।)** शृणवाव॥
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 **Leela.—**Friend, do you remember at any time in your life, rain like this?
@@ -4134,7 +4134,7 @@ worshipped all the divine hosts with impartiality, and performed acts of piety f
 
 
 
-**इन्द्रः—****(अपवार्य।)** मातले इयमेव जयन्तशापदात्रीतिदृश्यते। दृष्ट्वास्यास्सौन्दर्यतेजो न मेस्तिविस्मयो जयन्तमोहविषये। तथापि क्रोधोऽभिवर्धते॥
+**इन्द्रः—(अपवार्य।)** मातले इयमेव जयन्तशापदात्रीतिदृश्यते। दृष्ट्वास्यास्सौन्दर्यतेजो न मेस्तिविस्मयो जयन्तमोहविषये। तथापि क्रोधोऽभिवर्धते॥
 
 **मातलिः—**संगृह्यन्तां क्रोधाभीशवः। शापानुग्रहशक्तिमत्योह्य मूः॥
 
@@ -4586,9 +4586,9 @@ Sir, whither are you journeying?
 ** चम्पका—**जानामि तं। नातिचिरात्प्राक् मया दृष्टोयमस्मिन्पथि॥
 
 **(परिक्रामतः पुरतो चम्पका यज्ञाचार्यौ।)**  
-****
 
-** इन्द्रः—****(स्वगतम्।)**
+
+** इन्द्रः—(स्वगतम्।)**
 
 **चित्रं न मां मुञ्चति पाशबन्धो  
 ह्यद्यापि सर्वेशगतिप्रयाणे।  

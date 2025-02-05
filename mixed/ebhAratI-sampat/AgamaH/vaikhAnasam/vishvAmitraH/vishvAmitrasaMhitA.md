@@ -28,7 +28,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM1MTgwNzky
 
 **  -----\*-----**
 
-**प्रथमोऽध्याय****:**
+**प्रथमोऽध्याय:**
 
 
 
@@ -556,7 +556,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM1MTgwNzky
 
  ॥ इति पञ्चरात्रे महोपनिषदि विश्वामित्रसंहितायां
 
- ** \[****पञ्चरात्रनिर्वचनं नाम\] द्वितीयोऽध्यायः ॥**
+ ** \[पञ्चरात्रनिर्वचनं नाम\] द्वितीयोऽध्यायः ॥**
 
 ** ---------\*--------**
 
@@ -694,7 +694,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM1MTgwNzky
 
 ** \[गुरुशिष्यलक्षणं नाम\] तृतीयोऽध्यायः ॥**
 
-****** -----\*-----**
+** -----\*-----**
 
 
 
@@ -1084,7 +1084,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM1MTgwNzky
 
  तथा तत्रैव विप्रेन्द्र लयमेति पुनः पुनः ॥ 5.42 ॥
 
-****
+
 
 ** इति पञ्चरात्रे महोपनिषदि विश्वामित्रसंहितायां**
 
@@ -1382,7 +1382,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM1MTgwNzky
 
 ** इति पञ्चरात्रे महोपनिषदि विश्वामित्रसंहितायां **
 
-** \[अष्टाक्षरमन्त्रो**** द्धारविधिर्नाम\] षष्ठोऽध्यायः ॥**
+** \[अष्टाक्षरमन्त्रो द्धारविधिर्नाम\] षष्ठोऽध्यायः ॥**
 
 ** ------\*------**
 

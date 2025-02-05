@@ -6150,7 +6150,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 प्रव्रज्यां महितां सताम्भिमतां चेदन्यथा निन्दिताम्॥८॥
 
- ****
+ 
 
 **अष्टाविंशोऽध्यायः**
 

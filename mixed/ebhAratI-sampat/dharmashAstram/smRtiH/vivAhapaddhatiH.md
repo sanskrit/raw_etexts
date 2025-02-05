@@ -745,9 +745,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1MjgzMTU4Njk
 
 [TABLE]
 
-****
 
-****
+
+
 
 This book is a preservation photocopy.
 
@@ -759,7 +759,7 @@ which meets the requirements of
 
 ANSI/NISO Z39.48-1992 (permanence of paper)
 
-****
+
 
 Preservation photocopying and binding
 
@@ -774,7 +774,7 @@ Charlestown, Massachusetts
 1996  
 
 
-****
+
 
 
 \]

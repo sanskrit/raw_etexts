@@ -48,7 +48,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MjcwOTYxOTQ
 DEHRA DUN,  
 
 **August 1, 1935.   **                       
-****
+
 
 MAHENDRA PRATAP SHASTRI
 
@@ -211,7 +211,7 @@ nas, but none of them has done so much justice to it as the Shiva Purána. Káli
 
 *** Canto 2*.—**Simultaneously with this the gods were being very much harassed in heaven by a demon, named Táraka, to get rid of whom they go to Brahmá. They relate all their troubles to him and in reply are told that the only person who could rescue the world from the clutches of this demon would be the son of Shiva. At this the gods think of the marriage of Shiva and are informed by Brahmáthat Párvatí, who was waiting upon Shiva, was the only suitable match for Shiva, and that the son got through their marriage will serve their purpose.
 
-* **Canto 3*****.—** Then to create the passion of love in the heart of Shiva, Indra calls on Kámadeva, who accompanied by Vasant (the Vernal Season) as his helper, sets out on his mission. The nature surrounding Shiva, all of a sudden, puts on the garb of the spring season, all its objects, animate or inanimate, are filled with the passion of love. Shiva too for a while seems to be yielding to it, but very shortly consciousness is awakened in him. He holds Káma responsible for the disturbance, and being angry with him, reduces him to ashes by means of the fire coming forth from his third eye. Suspecting danger, Himálaya takes away his daughter and the plan of the gods seems to have been frustrated for the time being.
+* **Canto 3*.—** Then to create the passion of love in the heart of Shiva, Indra calls on Kámadeva, who accompanied by Vasant (the Vernal Season) as his helper, sets out on his mission. The nature surrounding Shiva, all of a sudden, puts on the garb of the spring season, all its objects, animate or inanimate, are filled with the passion of love. Shiva too for a while seems to be yielding to it, but very shortly consciousness is awakened in him. He holds Káma responsible for the disturbance, and being angry with him, reduces him to ashes by means of the fire coming forth from his third eye. Suspecting danger, Himálaya takes away his daughter and the plan of the gods seems to have been frustrated for the time being.
 
 *** Canto 4.*—**Káma's sad end causes great grief to his wife Ratí who had accompanied him in his adventure. She weeps biterly and piteously and decides to breathe her last by burning herself with the body of her beloved. But an incorporeal speech pacifies her by giving an assurance that her separation from Káma was only temporary and that she would again be united with him.
 
@@ -221,11 +221,11 @@ nas, but none of them has done so much justice to it as the Shiva Purána. Káli
 
 demise of Káma, decides to win over her beloved by means of severe penance. Her mother dissuades her but she turning a deaf ear to her and taking permission of her father goes to a peak of the Himálaya to practise austerities. She repairs to the place with her friends and commences her penance with all seriousness. Taking the vow of asceticism, she puts оп the dress of ascetics, and not minding the severity of elements, continues to mortify her body. She becomes renowned as an ideal ascetic and sages from far and near come to visit her. One day she is called on by a young ascetic,who was none but Shiva in disguise. First he pays a befitting tribute to the pious life of Párvatíand then asks her the reason of her penance and knowing it to be to win over Shiva as her husband, he begins to point out the various defects of Shiva, such as his fondness for inauspicious things, his unknown birth, his poverty, etc., and expects Párvati to give up her determination. But Párvatí, true to her sincerity, gives a suitable reply to all his arguments and gives a decisive proof of her adherence to Shiva. At this the visitor appears in his real form and declares himself to be her slave. This fills Párvatí's heart with great joy.
 
-* **Canto 6.*****—**
+* **Canto 6.*—**
 
 Being advised hy Párvatí to procure her father's approval, Shiva despatches the Seven Sages to Himálaya for the purpose. They are received at his capital with proper ceremony, and, on being asked by Himálaya, they disclose the object of their visit. Himálaya is too glad to hear it and readily gives his consent to the proposal. The sages after fixing the day for marriage return to Shiva and preparations for it are forthwith undertaken.
 
-* **Canto 7*****.—**
+* **Canto 7*.—**
 
 Due festivities begin at the capital of Himaláya and preliminary rites in connection with the marriage are performed. On the fixed day,. Shiva with all his atten-
 
@@ -527,7 +527,7 @@ She, whose determination was unalterable, having taken off her necklace, which w
 
 
 
-as with ordinary haireven ugly things can not mar the beauty of a really beautiful thing. This very idea is supported by the next two lines of the stanza. **पङ्कजं—(पङ्क+√जन्+डः) पड्के पङ्कात् वा जायत इति** a lotus. **षट्पदश्रेणिभिः—पट् पदानि येषां ते षट्पदाः (भ्रमराः) तेषां श्रेणिभिः (पङ्क्तिभिः)** swarms of bees. For the synonyms of **षट्पद** Cr. **'द्विरेफपुष्पलिट्भङ्ग षट्पद भ्रमरालयः' इत्यमरः। प्रकाशते—**shines or looks beautiful. Present of **√काश्** to shine. **सशैवलासङ्गम्—शैवलानां (जलनीलिकानां; काई—हिन्दी) आसङ्गः (साहचर्यं) शैवलासङ्गः, शैवलासङ्गेन सह वर्त्तमानं सशैवलासङ्गम्** by its union with moss, **आसङ्ग—**contact. The compound is **बहुव्रीहि** according to **'तेन सहेति तुल्ययोगे' पा० २. २. २८*******i.e*. the particle **सह** may be compounded with a noun in the Instrumental Case in a Bahuvrihi when there is equal participation in some action; in this case **सह** optionally becomes **स।**
+as with ordinary haireven ugly things can not mar the beauty of a really beautiful thing. This very idea is supported by the next two lines of the stanza. **पङ्कजं—(पङ्क+√जन्+डः) पड्के पङ्कात् वा जायत इति** a lotus. **षट्पदश्रेणिभिः—पट् पदानि येषां ते षट्पदाः (भ्रमराः) तेषां श्रेणिभिः (पङ्क्तिभिः)** swarms of bees. For the synonyms of **षट्पद** Cr. **'द्विरेफपुष्पलिट्भङ्ग षट्पद भ्रमरालयः' इत्यमरः। प्रकाशते—**shines or looks beautiful. Present of **√काश्** to shine. **सशैवलासङ्गम्—शैवलानां (जलनीलिकानां; काई—हिन्दी) आसङ्गः (साहचर्यं) शैवलासङ्गः, शैवलासङ्गेन सह वर्त्तमानं सशैवलासङ्गम्** by its union with moss, **आसङ्ग—**contact. The compound is **बहुव्रीहि** according to **'तेन सहेति तुल्ययोगे' पा० २. २. २८***i.e*. the particle **सह** may be compounded with a noun in the Instrumental Case in a Bahuvrihi when there is equal participation in some action; in this case **सह** optionally becomes **स।**
 
  For the idea contained in this stanza see "सरसिज मनुबिद्धं शैबलेनापि रम्यं. मलिनमपि हिमांशोर्लक्ष्म लक्ष्मीं तनेति। इयमधिकमनोज्ञा बल्कलेनापि तन्वी, किमिव हि मधुराणां मण्डनं नाकृतीनाम्॥" शकुन्तला १. १८
 
@@ -1101,7 +1101,7 @@ Scattering. The suffix is added by **'इगुपधज्ञाप्रीक
 
 
 
-admidst five fires; living only on water; sitting in an unsheltered place in the rainy season' etc., *i. e.* the kinds of penances mentioned in the previous verses. **व्रतैः—नियमैः** by austerities. **मृणालिकापेलवं मृणालिकामिव (विसतन्तुमिव) पेलवं (कोमलं** as delicate as a lotus-fibre. **अहर्निशं—अहश्च निशा च अहर्निशं** day and night. It is a **समाहार** **द्वन्द्व** compound (which implies an aggregate or the things enumerated in which constitute a complex idea). It is always singular and neuter. **ग्लपयन्ती—(√ग्लै+णिच्+शतृ)** causal **(णिजन्त)** present part. of **√ग्लै '**to be weary.**'****श्रान्तिं नयन्ती** wearing. **तपस्विनां—(तपस्+विनिः) मुनीनां** of other ascetics. **उपार्जितं (उप+√अर्ज+क्तः) संपादितं सञ्चितं** lit acquired; practised. **दूरं—अत्यर्थं** distant far, far away. It is an adverb to **अधश्चकार—तिरश्चकार** made low *i. e.,* excelled or surpassed. Even with her delicate frame Parvati performed such penances as were very much superior to those practised by other ascetics possessed of hard bodies. 29.
+admidst five fires; living only on water; sitting in an unsheltered place in the rainy season' etc., *i. e.* the kinds of penances mentioned in the previous verses. **व्रतैः—नियमैः** by austerities. **मृणालिकापेलवं मृणालिकामिव (विसतन्तुमिव) पेलवं (कोमलं** as delicate as a lotus-fibre. **अहर्निशं—अहश्च निशा च अहर्निशं** day and night. It is a **समाहार** **द्वन्द्व** compound (which implies an aggregate or the things enumerated in which constitute a complex idea). It is always singular and neuter. **ग्लपयन्ती—(√ग्लै+णिच्+शतृ)** causal **(णिजन्त)** present part. of **√ग्लै '**to be weary.**'श्रान्तिं नयन्ती** wearing. **तपस्विनां—(तपस्+विनिः) मुनीनां** of other ascetics. **उपार्जितं (उप+√अर्ज+क्तः) संपादितं सञ्चितं** lit acquired; practised. **दूरं—अत्यर्थं** distant far, far away. It is an adverb to **अधश्चकार—तिरश्चकार** made low *i. e.,* excelled or surpassed. Even with her delicate frame Parvati performed such penances as were very much superior to those practised by other ascetics possessed of hard bodies. 29.
 
 ** CHANGE OF VOICE:—**एवमादिभिः व्रतैः मृणालिकापेलवं स्वं अङ्गं अहर्निशं ग्लपयन्त्या तया तपस्विनां कठिनैः शरीरैः उपार्जितं तपः दूरं अधः चक्रे॥२६॥
 
@@ -1190,7 +1190,7 @@ Brahma. Belonging to or fit for a Brahmana. Here **ब्रह्म** means th
 
 
 
-the former it is read with **निविष्टचेतसां** and in the latter with **साम्ये। वपुर्विशेषेषु—वपुष्षु****(शरीरेषु (विशेषा इति वपुर्विशेषाः,तेषु—असामान्यशरीरेषु** towards great personages. Here **वपु** 'a body', means one possessed of a body **वपुष्मान्)** *i. e*, a person.' Decline **वपुष्** as**—वपुः, वपुषी वपूंषि** etc. **अति गौरवाः—(गुरु+अण्) गुरोः भावः गौरवं (आदरः) अति गौरवं यासु ताः** full of extreme reverence. **क्रियाः**—acts; behaviour. The sense is that even those persons who are free from likes and dislikes show greater respect towards great personages. For a similar idea *Cf.* **'आकृतिविशेषेष्वादरः पदं करोति' मालविकाग्निमित्रम्।** 31.
+the former it is read with **निविष्टचेतसां** and in the latter with **साम्ये। वपुर्विशेषेषु—वपुष्षु(शरीरेषु (विशेषा इति वपुर्विशेषाः,तेषु—असामान्यशरीरेषु** towards great personages. Here **वपु** 'a body', means one possessed of a body **वपुष्मान्)** *i. e*, a person.' Decline **वपुष्** as**—वपुः, वपुषी वपूंषि** etc. **अति गौरवाः—(गुरु+अण्) गुरोः भावः गौरवं (आदरः) अति गौरवं यासु ताः** full of extreme reverence. **क्रियाः**—acts; behaviour. The sense is that even those persons who are free from likes and dislikes show greater respect towards great personages. For a similar idea *Cf.* **'आकृतिविशेषेष्वादरः पदं करोति' मालविकाग्निमित्रम्।** 31.
 
 ** CHANGE OF VOICE:—**अतिथेय्या पार्वत्या सः बहुमानपूर्वया प्रत्युदीये साम्ये निविष्टचेतसां अपि वपुर्विशेषेषु अतिगौरवाभिः क्रियाभिः भूयते॥३१॥
 
@@ -1720,7 +1720,7 @@ deprived of the pleasure of seeing her face. He does not possess the real good f
 
 
 
-by **'किमिदंभ्यां वो घः' पा० ५.२. ४० । घ** is then changed to **इय** and **किं** is changed to **कि** before **दृग्, दृश** and **वतु** by **'इ‌दंकिमोरीश्की' पा०६३.६० । चिरम्** for along time. Accusative is used on account of **'कालाध्वनोरत्यन्तसंयोगे' पा० २. ३.५ ।*******i. e.,* intransitive roots govern the Accusative of nouns denoting space or country, or duration of time and distance. **श्राम्यसि—तपस्यसि** to take pains; to torture (the body). The**√श्रम् '**to fatigue**'**means 'to take rest' when preceded by **वि।** Cf. **विश्राम। पूर्वाश्रमसञ्चितं—पूर्वस्मिन् आश्रमे (ब्रह्मचर्याश्रमे) सञ्चितं पूर्वाश्रमसञ्चितम्** accumulated in the first stage of life. **तदर्धभागेन—अर्धःभागः अर्धभागः, तस्य अर्धभागः, तदर्धभागः, तेन** by a half of it. **काङ्क्षितं—(√काङ्क्ष्+क्तः) स्वाभिलषितं** desired; of your choice. **वरंー**a bridegroom. **तं—वरं** *i. e*, all about that bridegroom. **साधु—सम्यक्; पूर्णतया** fully; properly. Adverb to **वेदितुं—ज्ञातुं** to know. Some commentators have interpreted the word **तपः** to mean body, which is a means of performing penance. They mean to say that Shiva had offered to make Parvati his own **अर्द्धांगिनी** *Cf.* **'तपः शब्दो लक्षणथा तपः साधनभूतस्य शरीरस्य बोधकः, 'शरीरमाद्यं खलु धर्मसाधनम्' इत्युक्तत्वात् ।'** But this seems to be far fetched. 50.
+by **'किमिदंभ्यां वो घः' पा० ५.२. ४० । घ** is then changed to **इय** and **किं** is changed to **कि** before **दृग्, दृश** and **वतु** by **'इ‌दंकिमोरीश्की' पा०६३.६० । चिरम्** for along time. Accusative is used on account of **'कालाध्वनोरत्यन्तसंयोगे' पा० २. ३.५ ।***i. e.,* intransitive roots govern the Accusative of nouns denoting space or country, or duration of time and distance. **श्राम्यसि—तपस्यसि** to take pains; to torture (the body). The**√श्रम् '**to fatigue**'**means 'to take rest' when preceded by **वि।** Cf. **विश्राम। पूर्वाश्रमसञ्चितं—पूर्वस्मिन् आश्रमे (ब्रह्मचर्याश्रमे) सञ्चितं पूर्वाश्रमसञ्चितम्** accumulated in the first stage of life. **तदर्धभागेन—अर्धःभागः अर्धभागः, तस्य अर्धभागः, तदर्धभागः, तेन** by a half of it. **काङ्क्षितं—(√काङ्क्ष्+क्तः) स्वाभिलषितं** desired; of your choice. **वरंー**a bridegroom. **तं—वरं** *i. e*, all about that bridegroom. **साधु—सम्यक्; पूर्णतया** fully; properly. Adverb to **वेदितुं—ज्ञातुं** to know. Some commentators have interpreted the word **तपः** to mean body, which is a means of performing penance. They mean to say that Shiva had offered to make Parvati his own **अर्द्धांगिनी** *Cf.* **'तपः शब्दो लक्षणथा तपः साधनभूतस्य शरीरस्य बोधकः, 'शरीरमाद्यं खलु धर्मसाधनम्' इत्युक्तत्वात् ।'** But this seems to be far fetched. 50.
 
 ** CHANGE OF VOICE:—**गौरि, (त्वया) कियच्चिरं श्रम्यते? पूर्वाश्रमसञ्चितेन मम तपसा अपि विद्यते, तदर्धभागेन काङ्क्षितः वरः (त्वया) लभ्यताम्, स च (मया) साधु वेदितुं इष्यते॥५०॥
 
@@ -2144,7 +2144,7 @@ changed to **री।** Then the termination **(च्वि)** is dropped and 
 
 ** HINDI TRANSLATION:—**हे वेद के ज्ञाताओं में श्रेष्ठ! तुम ने जैसा सुना है (वह ठीक है), यह व्यक्ति ऊँचे पद की प्राप्ति का इच्छुक है;यह तपस्या उसकी प्राप्ति का उपाय है; इच्छाओं की विफलता नहीं होतो॥६४॥
 
-** ENGLISH TRANSLATION:—**O****one, who is the best among those who know the Vedas, (it is so) as you have heard; this person is anxious to attain the high post. This penance is a means of getting that nothing is beyond the reach of desire. 64.
+** ENGLISH TRANSLATION:—**Oone, who is the best among those who know the Vedas, (it is so) as you have heard; this person is anxious to attain the high post. This penance is a means of getting that nothing is beyond the reach of desire. 64.
 
 ** PURPORT IN SANSKRIT:—**वर्णिनः प्रश्नमाकर्ण्य पार्वती तं प्रतिवदति—‘वेदज्ञातृृणां श्रेष्ठ! साधो! त्वया मे सखीमुखात् यत्किञ्चिदप्याकर्णितं तत् यथार्थमेव; अहं सत्यमेव शिवप्राप्तिरूपमुच्चस्थानमधिगन्तुं कृतनिश्चया उन्मनाश्चास्मि। इयं मे तपस्या निश्चयमेव तस्य मे मनोरथस्य पूर्त्त्थर्थं विद्यते, मम कामना चावश्यं सफला भविष्यति यतो मनोरथेन सर्वमपि लब्धुं शक्यते॥६४॥
 
@@ -2200,7 +2200,7 @@ changed to **री।** Then the termination **(च्वि)** is dropped and 
 
 ** HINDI TRANSLATION:—**हे तुच्छ वस्तु के पीछे पड़ी हुई (पार्वति)! विवाह के धागे (कलावे) से युक्त यह तेरा हाथ, जिसमें साँप कड़े की तरह पहना हुआ है ऐसे शिव के हाथ से पहिले पहल पकड़ने को किस प्रकार सहन कर सकेगा?॥६६॥
 
-** ENGLISH TRANSLATION:—**O****one who is intent on an unworthy object, how will this thy hand, with the marriage-string tied round it, bear the first clasp of Shambhu's hand girdled with a serpent as with a bracelet? 66.
+** ENGLISH TRANSLATION:—**Oone who is intent on an unworthy object, how will this thy hand, with the marriage-string tied round it, bear the first clasp of Shambhu's hand girdled with a serpent as with a bracelet? 66.
 
 ** PURPORT IN SANSKRIT:—**हे तुच्छपदार्थे आग्रहवति पार्वति! अशुभवस्तुधारी शिवः स्वहस्ते सर्पं कङ्कणत्वेन धारयति, तस्मात् यदा स विवाहकाले मङ्गलसुत्रधारिणं तत्र पाणिं स्वकरेण ग्रहीष्यति तदा त्वं तस्य करस्पर्शमसहमाना भीता स्वं पाणिमपनेष्यसि येन पाणिग्रहणसंस्कारे एव विघ्नो भविता। एवं 'प्रथमग्रास एव मक्षिकापातः' अन्यत्किमपि तु दूरे आस्ताम्॥६६॥
 
@@ -2246,7 +2246,7 @@ of an elephant. **'अजिनं कृत्तिः चर्म' इत्
 
 ** PROSE ORDER:—**परः अपि कः नाम चतुष्कपुष्पप्रकरावकीर्णयोः तव पादयोःअलक्तकाङ्कानि पदानि विकीर्णकेशासु परेतभूमिषु अनुमन्यते?॥६८॥
 
-** NOTES:—परः—शत्रुः** an enemy**'अभिघातिपरारातिप्रत्यर्थिपरिपन्थिनः' इत्यमरः। नाम—**It is used in the sense of****
+** NOTES:—परः—शत्रुः** an enemy**'अभिघातिपरारातिप्रत्यर्थिपरिपन्थिनः' इत्यमरः। नाम—**It is used in the sense of
 
 **कुत्सा** (reproach). **चतुष्कपुष्पप्रकरावकीर्णयोः। चतुष्कं—**
 
@@ -2652,7 +2652,7 @@ ashes of funeral pyre. Or, **चितायाः भस्मनो रजः 
 
 
 
-him (Shiva). **मौलिना—शिरसा** by his head. **विनिद्रमन्दाररजोरुणाङ्गुली। विनिद्रः—विगता****निद्रा यस्य स विनिद्रः (विकसित)** a full-blown flower. **मन्दारः—देववृक्षः** one of the five trees of paradise. Here, the flowers of that tree, so **मन्दारस्य इमे मन्दाराः (मन्दार+अण्)। अण्** is dropped and hence no change in the word. **प्रभिन्नानां मन्दाराणां रजोभिः (परागैः) अरुणाः (रक्ताः) अङ्गुलयो ययोस्तौ प्रभिन्नमन्दाररजोरुणाङ्गुली** whose toes are made red with the pollendust of the full-blown flowers of the heavenly trees. Adj. of **पादौ।** The colour of the toes of Shiva's feet is changed by the colour of Mandar flowers borne on the head by Indra.
+him (Shiva). **मौलिना—शिरसा** by his head. **विनिद्रमन्दाररजोरुणाङ्गुली। विनिद्रः—विगतानिद्रा यस्य स विनिद्रः (विकसित)** a full-blown flower. **मन्दारः—देववृक्षः** one of the five trees of paradise. Here, the flowers of that tree, so **मन्दारस्य इमे मन्दाराः (मन्दार+अण्)। अण्** is dropped and hence no change in the word. **प्रभिन्नानां मन्दाराणां रजोभिः (परागैः) अरुणाः (रक्ताः) अङ्गुलयो ययोस्तौ प्रभिन्नमन्दाररजोरुणाङ्गुली** whose toes are made red with the pollendust of the full-blown flowers of the heavenly trees. Adj. of **पादौ।** The colour of the toes of Shiva's feet is changed by the colour of Mandar flowers borne on the head by Indra.
 
  This verse is a suitable reply to **‘इयं च तेऽन्या पुरतो विडम्बना'** verse No. 70. and contains a contrast between **वृष** (a bull) and **दिग्वारण** (an elephant of the quarters). Parvati says it is immaterial if Shiva has a bull for his vehicle when Indra whose vehicle is **ऐरावत** coming to him bows his head before him. It shows the real greatness of Shiva. 80.
 
@@ -2749,7 +2749,7 @@ Parvati was not prepared to listen to the ill-talk about Shiva, shows that she w
 
 ** HINDI TRANSLATION:—**हे सखि, जिसकेओठ फड़फड़ारहे हैं ऐसे कुछ और बोलने को इच्छा वाले इस बालक को दूर कर दो (या रोक दो) केवल वही नहीं जो बड़ों का निन्दा करता है अपितु वह भी जो उससे सुनता है पाप का भागी होता है॥८३॥
 
-** ENGLISH TRANSLATION:—**O****friend, check this boy whose upper and lower lips are quivering (and so) seems to be desirous of speaking more. Not only he who talks ill of the great, but also he who listens to him is a sinner. 83.
+** ENGLISH TRANSLATION:—**Ofriend, check this boy whose upper and lower lips are quivering (and so) seems to be desirous of speaking more. Not only he who talks ill of the great, but also he who listens to him is a sinner. 83.
 
 ** PURPORT IN SANSKRIT:—**ब्रह्मचारिणःकथितं प्रत्याख्याय ब्रह्मचारिणञ्च विवादात् विरमितुमादिश्य पार्वती स्वां सखीं कथयति**—**यत् 'हे सखि! अस्माकं पुरतः स्थितोऽयं वर्णीकम्पमानाधरत्वात् पुनरप्यधिकां शिवनिन्दां कर्तुमुद्यतो दृश्यते तस्मादितो निस्सार्यताम्। एतेन कथिता शिवनिन्दास्माभिर्न श्रवणीया यतो न केवलं स एव पुरुषः पापमवाप्नोति यो महापुरुषाणां निन्दां करोति, अपि तु सोऽपि दोषी यस्तामाकर्णयति'॥८३॥
 
@@ -2851,7 +2851,7 @@ river hampered by the obstruction of a mountain in the way. 85.
 
 महादेव के इस प्रकार कहने पर वह एक दम तपस्या से हुई थकावट को भूल गई (क्योंकि) वास्तव में फल मिल जाने से परिश्रम नवीनता उत्पन्न करता है॥८६॥
 
-** ENGLISH TRANSLATION:—**O****one of stooping limbs, henceforth I am thy slave, bought by thee with thy austerities'—as the moon-crested God said these words, she immediately forgot the exhaustion caused by penance; for fatigue gives freshness by the attainment of its fruit. 86.
+** ENGLISH TRANSLATION:—**Oone of stooping limbs, henceforth I am thy slave, bought by thee with thy austerities'—as the moon-crested God said these words, she immediately forgot the exhaustion caused by penance; for fatigue gives freshness by the attainment of its fruit. 86.
 
 ** PURPORT IN SANSKRIT:—**शिवविषयकं पार्वत्या अचलानुरागं स्वोपस्थित्या तदीयसात्विकभावञ्च दृष्टा शिवः पार्वतीं प्राह**—**'हे सुन्दरि पार्वति! अस्माद्दिनादारभ्याहं ते सेवको जातः; अवश्यमेवाहं ते कामनां सफलां करिष्यामि।' शिवस्यैतत्कथनमाकर्ण्य पार्वती क्षणेनैव तपःक्लेशरहिता बभूव, यतो हि फले प्राप्ते सति तत्प्राप्त्यर्थं कृतः क्लेशो न दुःखयति॥८६॥
 

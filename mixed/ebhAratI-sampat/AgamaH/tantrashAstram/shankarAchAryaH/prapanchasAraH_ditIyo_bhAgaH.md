@@ -1314,7 +1314,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 
 
-**॥****चतुर्विंशः पटलः॥**
+**॥चतुर्विंशः पटलः॥**
 
 ![](../books_images/U-IMG-1720366262img2.jpg)
 
@@ -3847,7 +3847,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
 श्रीमच्छंकरभगवतः कृतौ**
 
-****
+
 
 **प्रपञ्चसारे त्रिंशः पटलः॥ **
 

@@ -3309,7 +3309,7 @@ ces¹but is averse to the lotus-feet of Lord Hari; the former purifies his (whol
  “For the welfare and prosperity of the world, or rather for His own joy, the Lord sports in beautiful incarnations.
 
 **तद्यच्छ मन्युमसुरश्च हतस्त्वयाऽद्य  
-मोदेत साधुरपि वृश्चिकसर्पहत्या****।**  
+मोदेत साधुरपि वृश्चिकसर्पहत्या।**  
 **लोकाश्च निर्वृतिमिताः प्रतियन्ति सर्वे  
 रूपं नृसिंह विभयाय जनास्स्मरन्ति॥**
 
@@ -3327,7 +3327,7 @@ ces¹but is averse to the lotus-feet of Lord Hari; the former purifies his (whol
 fangs; I am afraid, O God who is affectionate towards the wretched, of the torture at the wheel of this unbearably terrible cycle of birth and death, where I am thrown to voracious beasts.
 
 **‘बालस्य नेह शरणं पितरौ नृसिंह  
-नार्तस्य चागदमुदन्व****ति मज्जतो नौः।  
+नार्तस्य चागदमुदन्वति मज्जतो नौः।  
 तप्तस्य तत्प्रतिविधिर्य इहाञ्जसेष्टः  
 तावद्विभो तनुभृतां त्वदुपेक्षितानाम्॥**
 
@@ -4469,7 +4469,7 @@ The Lord—
 
  Then the ocean was seen to rise as a result of huge clouds pouring down, and over-flow the coast and flood the earth all around.
 
-**ध्यायन्भगवदादेशं ददृशे नावमागतम्****।**  
+**ध्यायन्भगवदादेशं ददृशे नावमागतम्।**  
 **तमारुरोह विप्रेन्द्रैरादायौषधिवीरुधः॥**
 
  While he was contemplating the command of the Lord, Satyavrata beheld the boat approach. Taking the medicinal herbs and other creepers, he got into it along with the best Brahmins.
@@ -4606,7 +4606,7 @@ THE STORY OF THE INCARNATION AS RAMA
 
 THUS ENDS THE STORY OF THE INCARNATION AS RAMA.
 
-**\_\_\_\_\_\_\_****\_\_\_**
+**\_\_\_\_\_\_\_\_\_\_**
 
 
 
@@ -5328,7 +5328,7 @@ Lordship, who had become a human child for sport, opened (His mouth).
  She saw there (in the mouth of her son) the universe, moving and static, the sky  
 and the quarters; with the globe of this earth and its mountains, continents and oceans, and with air, fire, moon and the stars.
 
-**त्रय्या चोपनिषद्भिश्च सांख्ययोगैश्च सात्त्वतैः****।**  
+**त्रय्या चोपनिषद्भिश्च सांख्ययोगैश्च सात्त्वतैः।**  
 **उपगीयमानमाहात्म्यं हरिं साऽमन्यतात्मजम्॥**
 
  Yasoda understood that her son was Hari whose greatness was sung by the three  
@@ -6238,7 +6238,7 @@ The Gopis—
 
  Quickly jumping down from his chariot, Akrura, trembling with love, fell like a stick at the feet of Rama and Krishna.
 
-**पुलकाचिताङ्ग औत्कण्ठ्यात्स्वाख्याने****नाशकत् \[नृप\]।**
+**पुलकाचिताङ्ग औत्कण्ठ्यात्स्वाख्यानेनाशकत् \[नृप\]।**
 
 **भगवांस्तमभिप्रेत्य रथाङ्गाङ्कितपाणिना।  
 परिरेभेऽभ्युपाकृष्य प्रीतः प्रणतवत्सलः॥**
@@ -6315,7 +6315,7 @@ asked him: “What is the wonder on earth, in the skies or in the waters that ha
 **अद्भुतानीह यावन्ति भूमौ वियति वा जले।  
 त्वयि विश्वात्मके तानि किं मेऽदृष्टं विपश्यतः॥**
 
-**** Akrura—
+ Akrura—
 
  “Whatever wonders there are on earth, in the skies or in the waters, all of them are in you, who is of the form of the universe. What is it that has not been seen by me, who has truly seen?”
 
@@ -6529,7 +6529,7 @@ UGRASENA AS KING**
 
  After lovingly consoling his parents, Lord Krishna made his maternal grandfather, Ugrasena, the king of the Yadus.
 
-**सर्वान्स्वान् ज्ञातिसम्बन्धान् दिग्भ्यः****कंसभयाद्गतान्।**  
+**सर्वान्स्वान् ज्ञातिसम्बन्धान् दिग्भ्यःकंसभयाद्गतान्।**  
 **न्यवासयत् स्वगेहेषु वित्तैस्सन्तर्प्य विश्वकृत्॥**
 
  All his kith and kin, who had fled in all directions out of their fear of Kamsa, the Lord, who is the creator of the universe, pleased with gifts of wealth and settled in their own homes.
@@ -6605,7 +6605,7 @@ UGRASENA AS KING**
 **‘अपि स्मरतिनिः कृष्णो गावो बृन्दावनं गिरिम्।  
 अप्यायास्यति गोविन्दः स्वजनान्सकुदीक्षितुम्॥**
 
-**** Nanda—
+ Nanda—
 
  “Does Krishna remember us, the cows, the Vrindavana and the mountain (Govardhana)? Will He come (here) once to see His kinsmen?
 
@@ -6626,7 +6626,7 @@ UGRASENA AS KING**
 **‘मा खिद्यतं महाभागौ द्रक्ष्यथः कृष्णमन्तिके।  
 अन्तर्हृदि स भूतानामास्ते ज्योतिरिवैधसि॥**
 
-**** Uddhava—
+ Uddhava—
 
  “Blessed (Nanda and Yasoda!) do not feel pained; you shall see Krishna by your side. Like fire within the wood, He is within the heart of (all) beings.
 
@@ -6657,7 +6657,7 @@ UGRASENA AS KING**
 वासुदेवे भगवति यासामित्यर्पितं मनः॥**
 
 
-**** Uddhava—
+ Uddhava—
 
  “Oh, you are the persons whose objects are fulfilled, you are the persons worshipped by the (whole) world, you whose mind is thus offered to Lord Vasudeva.
 
@@ -7104,7 +7104,7 @@ contemplating the one self, the Supreme Spirit that is beyond Matter.
 
 
 
-**** **जरासन्धवधः—**
+ **जरासन्धवधः—**
 
 **THE KILLING OF JARASANDHA**
 
@@ -8038,7 +8038,7 @@ THUS ENDS THE BHAGAVATA**
 
 ![](../books_images/U-IMG-1734925347Screenshot2024-12-15104840.png)
 
-****ТHE Purana is a reinforcement (*Upabrihmana*) of the teachings of the Vedas, with arguments for God and Dharma in the form of accounts of the creation, the sages, and the lives of the kings of the past. This is the real meaning of the traditional definition of the Purana as ‘*Panchalakshana*’. The supremacy of the Lord and Dharma is made the more explicit purpose of the Purana in the amplified *‘Dasalakshana’* (ten characteristics) given by the Bhagavata (II. 10. 1-7). The Lord, as Asraya, is given as the chief of these ten features of the Purana and along with this are introduced as definite subjects the stories of the incarnations which the Lord took for the re-establishment of His Kingdom and for the renaissance of Dharma on earth, and Salvation (Mukti). The first nine subjects only qualify the tenth, the *Asraya*, and are intended to strengthen it. *(Dasamasya visuddhyartham navanamiha lakshanam. II. 10.2).* In this, the Bhagavata shifts the emphasis from Principle to
+ТHE Purana is a reinforcement (*Upabrihmana*) of the teachings of the Vedas, with arguments for God and Dharma in the form of accounts of the creation, the sages, and the lives of the kings of the past. This is the real meaning of the traditional definition of the Purana as ‘*Panchalakshana*’. The supremacy of the Lord and Dharma is made the more explicit purpose of the Purana in the amplified *‘Dasalakshana’* (ten characteristics) given by the Bhagavata (II. 10. 1-7). The Lord, as Asraya, is given as the chief of these ten features of the Purana and along with this are introduced as definite subjects the stories of the incarnations which the Lord took for the re-establishment of His Kingdom and for the renaissance of Dharma on earth, and Salvation (Mukti). The first nine subjects only qualify the tenth, the *Asraya*, and are intended to strengthen it. *(Dasamasya visuddhyartham navanamiha lakshanam. II. 10.2).* In this, the Bhagavata shifts the emphasis from Principle to
 
 
 

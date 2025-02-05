@@ -1659,7 +1659,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE
 
 \[श्री० भा० ५ स्क० ५ अ०\]
 
-**** तथा—
+ तथा—
 
 प्रसङ्गमजरं पाशमात्मनः कवयो विदुः।  
 स एव साधुषु कृतो मोक्षद्वारमपावृतम्॥
@@ -2069,7 +2069,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE
 
 \[श्री० भा० २ स्क० १ अ०\]
 
-**** क्रमेणोदाहरणम्—
+ क्रमेणोदाहरणम्—
 
 सङ्कीर्त्त्यमानो भगवाननन्तः  
 श्रुतानुभावो व्यसनं हि पुंसाम्।  

@@ -90,7 +90,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM4NDg5OTc1NDE
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-****
+
 
 **१. क्वचिच्च पुगणेऽअग्निपुराणनामस्थले वायुपुराणनाम पठ्यत इत्याह श्रीराधाकृष्णन्महोदयः—“The principal Puranas are eighteen in number. Vishnu, Bhagavata......Agni (or Vayu according to other accounts)...\[ Indian Philosophy, Part III, p. 663 f.n. \]**
 
@@ -965,7 +965,7 @@ in Yajnyavalkyasmriti occurs in chapters 253-258 of the Agnipurana and many vers
 
 
 
-****
+
 
 
 
@@ -2007,9 +2007,9 @@ in Yajnyavalkyasmriti occurs in chapters 253-258 of the Agnipurana and many vers
 |    ४७       |                            प्रेतोपाख्यानम्                            |
 |       ४८       |                           दीपमालिकास्थापनम्                           |
 |       ४९       |                           च्यवन–नहुष–संवादः                           |
-|    ५०****     |                            तुलापुरुषदानम्                             |
+|    ५०     |                            तुलापुरुषदानम्                             |
 |     ५१-५२      |                           शार्मलोपाख्यानम्                            |
-|   ५३ ****   |                           तडागवृक्षप्रशंसा                            |
+|   ५३    |                           तडागवृक्षप्रशंसा                            |
 |      ५४       |                            दानादियज्ञकरणम्                            |
 |      ५५       |                          वारुणारामप्रतिष्ठा                           |
 |     ५६-६०      |                           वामनप्रादुर्भावः                            |

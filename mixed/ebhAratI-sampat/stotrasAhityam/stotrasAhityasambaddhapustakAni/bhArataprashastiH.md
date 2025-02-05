@@ -232,7 +232,7 @@ IV\. DEPUTY PRIME MINISTER
 
 
 
-****
+
 
 ***Note—**These calculations are based on the system current in South India. The first two columns represent the Rasis and the Degrees that have already been covered.*
 

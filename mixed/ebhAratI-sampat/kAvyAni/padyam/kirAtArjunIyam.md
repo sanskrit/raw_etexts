@@ -863,7 +863,7 @@ Yesu Shedge, at the 'Nirnaya-sagar' Press,
 
 **—————**
 
-****
+
 
 तृतीयः सर्गः ।  
 

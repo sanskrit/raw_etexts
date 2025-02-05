@@ -31,7 +31,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5MDE0NjY3OTA
 
 काव्यमाला
 
-**** ।
+ ।
 
 **श्रीमाणिक्यचन्द्रकारितः श्रीमत्केशवमिश्रकृतः**  
 **अलंकारशेखरः \।**
@@ -3135,7 +3135,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5MDE0NjY3OTA
 
 [^153]: " 'तुण्ड' ख."
 
-****
+
 
 
 
